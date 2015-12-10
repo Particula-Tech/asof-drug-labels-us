@@ -51,7 +51,7 @@ Published epidemiological studies have indicated that children exposed to valpro
 The largest of these studies1 is a prospective cohort study conducted in the United States and United Kingdom that found that children with prenatal exposure to valproate (n=62) had lower IQ scores at age 6 (97 [95% C.I.
 94 to 101]) than children with prenatal exposure to the other antiepileptic drug monotherapy treatments evaluated: lamotrigine (108 [95% C.I.
 105 to 110]), carbamazepine (105 [95% C.I.
-102 to 108]) and phenytoin (108 [95% C.I.
+102 to 108]), and phenytoin (108 [95% C.I.
 104 to 112]).
 It is not known when during pregnancy cognitive effects in valproate-exposed children occur.
 Because the women in this study were exposed to antiepileptic drugs throughout pregnancy, whether the risk for decreased IQ was related to a particular time period during pregnancy could not be assessed.
@@ -109,12 +109,12 @@ Because most trials included in the analysis did not extend beyond 24 weeks, the
 
 The risk of suicidal thoughts or behavior was generally consistent among drugs in the data analyzed.
 The finding of increased risk with AEDs of varying mechanisms of action and across a range of indications suggests that the risk applies to all AEDs used for any indication.
-The risk did not vary substantially by age (5 - 100 years) in the clinical trials analyzed.
+The risk did not vary substantially by age (5 to 100 years) in the clinical trials analyzed.
 
 Table 1 shows absolute and relative risk by indication for all evaluated AEDs.
 
 Table 1.
-Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
+Risk by indication for antiepileptic drugs in the pooled analysis
 
 | Indication | Placebo Patients with Events Per 1,000 Patients | Drug Patients with Events Per 1,000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1,000 Patients |
 | --- | --- | --- | --- | --- |

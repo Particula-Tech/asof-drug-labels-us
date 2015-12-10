@@ -76,9 +76,12 @@ In one, multiclinic, placebo controlled study employing an add-on design, (adjun
 Randomized patients were to be followed for a total of 16 weeks.
 The following Table presents the findings.
 
+Table 8.
+Adjunctive Therapy Study Median Incidence of CPS per 8 Weeks
+
 | Add-on Treatment | Number of Patients | Baseline Incidence | Experimental Incidence |
 | --- | --- | --- | --- |
-| Divalproex sodium delayed-release tablets | 75 | 16 | 8.91 |
+| Divalproex sodium delayed-release tablets | 75 | 16 | 8.9Reduction from baseline statistically significantly greater for valproate than placebo at p ≤ 0.05 level. |
 | Placebo | 69 | 14.5 | 11.5 |
 
 Figure 2 presents the proportion of patients (X axis) whose percentage reduction from baseline in complex partial seizure rates was at least as great as that indicated on the Y axis in the adjunctive therapy study.
@@ -103,7 +106,7 @@ Monotherapy Study Median Incidence of CPS per 8 Weeks
 
 | Treatment | Number of Patients | Baseline Incidence | Randomized Phase Incidence |
 | --- | --- | --- | --- |
-| High dose Divalproex sodium delayed-release tablets | 131 | 13.2 | 10.7* |
+| High dose Divalproex sodium delayed-release tablets | 131 | 13.2 | 10.7Reduction from baseline statistically significantly greater for high dose than low dose at p ≤ 0.05 level. |
 | Low dose Divalproex sodium delayed-release tablets | 134 | 14.2 | 13.8 |
 
 Figure 3 presents the proportion of patients (X axis) whose percentage reduction from baseline in complex partial seizure rates was at least as great as that indicated on the Y axis in the monotherapy study.
@@ -148,8 +151,7 @@ The mean trough total valproate levels during the treatment phase were 39.6, 62.
 The mean 4-week migraine headache rates during the treatment phase, adjusted for differences in baseline rates, were 4.5 in the placebo group, compared to 3.3, 3.0, and 3.3 in the divalproex sodium delayed-release tablets 500, 1,000, and 1,500 mg/day groups, respectively, based on intent-to-treat results (see Figure 4).
 Migraine headache rates in the combined divalproex sodium delayed-release tablets 1,000/1,500 mg group were significantly lower than in the placebo group.
 
-Figure 4.
-Mean 4-week Migraine Rates
+Figure 4 Mean 4-week Migraine Rates
 
-- Mean dose of divalproex sodium delayed-release tablets were 1,087 mg/day.
-- Dose of divalproex sodium delayed-release tablets were 500 or 1,000 mg/day.
+1. Mean dose of divalproex sodium delayed-release tablets were 1,087 mg/day.
+2. Dose of divalproex sodium delayed-release tablets were 500 or 1,000 mg/day.

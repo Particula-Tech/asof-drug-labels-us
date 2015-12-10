@@ -2,16 +2,16 @@
 
 The following serious adverse reactions are described below and elsewhere in the labeling:
 
-- Hepatic failure[see WARNINGS AND PRECAUTIONS (5.1)]
-- Birth defects[see WARNINGS AND PRECAUTIONS (5.2)]
-- Decreased IQ followingin utero exposure[see WARNINGS AND PRECAUTIONS (5.3)]
-- Pancreatitis[see WARNINGS AND PRECAUTIONS (5.5)]
-- Hyperammonemic encephalopathy[see WARNINGS AND PRECAUTIONS (5.6), (5.9), (5.10)]
-- Suicidal behavior and ideation[see WARNINGS AND PRECAUTIONS(5.7)]
-- Bleeding and other hematopoietic disorders[see WARNINGS AND PRECAUTIONS(5.8)]
-- Hypothermia[see WARNINGS AND PRECAUTIONS(5.11)]
-- Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan hypersensitivity reactions[see WARNINGS AND PRECAUTIONS(5.12)]
-- Somnolence in the elderly[see WARNINGS AND PRECAUTIONS(5.14)]
+- Hepatic failure [see WARNINGS AND PRECAUTIONS (5.1)]
+- Birth defects [see WARNINGS AND PRECAUTIONS (5.2)]
+- Decreased IQ following in utero exposure [see WARNINGS AND PRECAUTIONS (5.3)]
+- Pancreatitis [see WARNINGS AND PRECAUTIONS (5.5)]
+- Hyperammonemic encephalopathy [see WARNINGS AND PRECAUTIONS (5.6,5.9, 5.10)]
+- Suicidal behavior and ideation [see WARNINGS AND PRECAUTIONS (5.7)]
+- Bleeding and other hematopoietic disorders [see WARNINGS AND PRECAUTIONS (5.8)]
+- Hypothermia [see WARNINGS AND PRECAUTIONS (5.11)]
+- Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan hypersensitivity reactions [see WARNINGS AND PRECAUTIONS (5.12)]
+- Somnolence in the elderly [see WARNINGS AND PRECAUTIONS (5.14)]
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
@@ -26,7 +26,7 @@ Table 2 summarizes those adverse reactions reported for patients in these trials
 Vomiting was the only reaction that was reported by significantly (p ≤ 0.05) more patients receiving divalproex sodium delayed-release tablets compared to placebo.
 
 Table 2.
-Adverse Reactions Reported by > 5% of Divalproex sodium delayed-release tablets –Treated Patients During Placebo-Controlled Trials of Acute Mania1
+Adverse Reactions Reported by > 5% of Divalproex Sodium Delayed-Release Tablets –Treated Patients During Placebo-Controlled Trials of Acute Mania1
 
 | Adverse Reaction | Divalproex sodium delayed-release tablets (n = 89) | Placebo (n = 97) |
 | --- | --- | --- |
@@ -96,7 +96,7 @@ Table 3 lists treatment-emergent adverse reactions which were reported by ≥ 5%
 Since patients were also treated with other antiepilepsy drugs, it is not possible, in most cases, to determine whether the following adverse reactions can be ascribed to divalproex sodium delayed-release tablets alone, or the combination of divalproex sodium delayed-release tablets and other antiepilepsy drugs.
 
 Table 3.
-Adverse Reactions Reported by ≥ 5% of Patients Treated with Divalproex sodium delayed-release tablets During Placebo-Controlled Trial of Adjunctive Therapy for Complex Partial Seizures
+Adverse Reactions Reported by ≥ 5% of Patients Treated with Divalproex Sodium Delayed-Release Tablets During Placebo-Controlled Trial of Adjunctive Therapy for Complex Partial Seizures
 
 | Body System/Reaction | Divalproex sodium delayed-release tablets (%) (n = 77) | Placebo (%) (n = 70) |
 | --- | --- | --- |
@@ -329,6 +329,10 @@ Endocrine
 Irregular menses, secondary amenorrhea, hyperandrogenism, hirsutism, elevated testosterone level, breast enlargement, galactorrhea, parotid gland swelling, polycystic ovary disease, decreased carnitine concentrations, hyponatremia, hyperglycinemia, and inappropriate ADH secretion.
 
 There have been rare reports of Fanconi's syndrome occurring chiefly in children.
+
+Reproductive
+
+Aspermia, azoospermia, decreased sperm count, decreased spermatozoa motility, male infertility, and abnormal spermatozoa morphology.
 
 Genitourinary
 

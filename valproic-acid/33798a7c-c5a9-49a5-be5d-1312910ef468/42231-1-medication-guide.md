@@ -1,10 +1,8 @@
-# SPL MEDGUIDE
+MEDICATION GUIDE
 
 Divalproex Sodium (dye val' proe ex soe' dee um)
 
 Delayed-Release Tablets USP
-
-125 mg, 250 mg and 500 mg
 
 Rx only
 
@@ -33,7 +31,8 @@ Call your healthcare provider right away if you get any of the following symptom
 - dark urine
 - swelling of your face
 - yellowing of your skin or the whites of your eyes
-- In some cases, liver damage may continue despite stopping the drug.
+
+In some cases, liver damage may continue despite stopping the drug.
 
 2.
 Divalproex sodium delayed-release tablets may harm your unborn baby.
@@ -53,8 +52,8 @@ There may be other medicines to treat your condition that have a lower chance of
 
 - Women who are pregnant must not take divalproex sodium delayed-release tablets to prevent migraine headaches.
 
-All women of childbearing age should talk to their healthcare provider about using other possible treatments instead ofdivalproex sodium delayed-release tablets.
-If the decision is made to usedivalproex sodium delayed-release tablets, you should use effective birth control (contraception).
+All women of childbearing age should talk to their healthcare provider about using other possible treatments instead of divalproex sodium delayed-release tablets.
+If the decision is made to use divalproex sodium delayed-release tablets, you should use effective birth control (contraception).
 
 Tell your healthcare provider right away if you become pregnant while taking divalproex sodium delayed-release tablets.
 You and your healthcare provider should decide if you will continue to take divalproex sodium delayed-release tablets while you are pregnant.
@@ -97,6 +96,7 @@ How can I watch for early symptoms of suicidal thoughts and actions?
 Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
 
 Do not stop divalproex sodium delayed-release tablets without first talking to a healthcare provider.
+
 Stopping divalproex sodium delayed-release tablets suddenly can cause serious problems.
 Stopping a seizure medicine suddenly in a patient who has epilepsy can cause seizures that will not stop (status epilepticus).
 
@@ -111,13 +111,13 @@ Divalproex sodium delayed-release tablets are prescription medicines used:
 
 • to treat manic episodes associated with bipolar disorder
 
-•alone or with other medicines to treat:
+• alone or with other medicines to treat:
 
 • complex partial seizures in adults and children 10 years of age and older
 
 • simple and complex absence seizures, with or without other seizure types
 
-•to prevent migraine headaches
+• to prevent migraine headaches
 
 Who should not take divalproex sodium delayed-release tablets?
 
@@ -144,7 +144,7 @@ Before you take divalproex sodium delayed-release tablets, tell your healthcare 
 - have or have had depression, mood problems, or suicidal thoughts or behavior
 - have any other medical conditions
 
-Tell your healthcare provider about all the medicines you take, including prescription and non- prescription medicines, vitamins, herbal supplements and medicines that you take for a short period of time.
+Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, herbal supplements and medicines that you take for a short period of time.
 
 Taking divalproex sodium delayed-release tablets with certain other medicines can cause side effects or affect how well they work.
 Do not start or stop other medicines without talking to your healthcare provider.
@@ -158,7 +158,7 @@ How should I take divalproex sodium delayed-release tablets?
   Your healthcare provider will tell you how much divalproex sodium delayed-release tablets to take and when to take it.
 - Your healthcare provider may change your dose.
 - Do not change your dose of divalproex sodium delayed-release tablets without talking to your healthcare provider.
-- Do not stop takingdivalproex sodium delayed-release tablets without first talking to your healthcare provider.
+- Do not stop taking divalproex sodium delayed-release tablets without first talking to your healthcare provider.
   Stopping divalproex sodium delayed-release tablets suddenly can cause serious problems.
 - Swallow divalproex sodium delayed-release tablets whole.
   Do not crush or chew divalproex sodium delayed-release tablets.
@@ -176,14 +176,13 @@ What should I avoid while taking divalproex sodium delayed-release tablets?
 
 What are the possible side effects with divalproex sodium delayed-release tablets?
 
-- See "What is the most important information I should know about divalproex sodium delayed-release tablets?
-  "
+- See "What is the most important information I should know about divalproex sodium delayed-release tablets?"
 
 Divalproex sodium delayed-release tablets can cause serious side effects including:
 
 - Bleeding problems: red or purple spots on your skin, bruising, pain and swelling into your joints due to bleeding or bleeding from your mouth or nose.
 - High ammonia levels in your blood: feeling tired, vomiting, changes in mental status.
-- Low body temperature (hypothermia): drop in your body temperature to less than 950F, feeling tired, confusion, coma.
+- Low body temperature (hypothermia): drop in your body temperature to less than 95০F, feeling tired, confusion, coma.
 - Allergic (hypersensitivity) reactions: fever, skin rash, hives, sores in your mouth, blistering and peeling of your skin, swelling of your lymph nodes, swelling of your face, eyes, lips, tongue, or throat, trouble swallowing or breathing.
 - Drowsiness or sleepiness in the elderly.
   This extreme drowsiness may cause you to eat or drink less than you normally would.
@@ -266,4 +265,4 @@ Goa 403 722
 
 INDIA.
 
-Revised: April 2015 ID#: 240635
+Revised: December 2015 ID #: 243502

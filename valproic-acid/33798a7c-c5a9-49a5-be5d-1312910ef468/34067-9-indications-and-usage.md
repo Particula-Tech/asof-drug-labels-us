@@ -2,7 +2,7 @@
 
 ## 1.1 Mania
 
-Divalproex sodium delayed-release tablet USP is valproate and is indicated for the treatment of the manic episodes associated with bipolar disorder.
+Divalproex sodium delayed-release tablet USP is a valproate and is indicated for the treatment of the manic episodes associated with bipolar disorder.
 A manic episode is a distinct period of abnormally and persistently elevated, expansive, or irritable mood.
 Typical symptoms of mania include pressure of speech, motor hyperactivity, reduced need for sleep, flight of ideas, grandiosity, poor judgment, aggressiveness, and possible hostility.
 

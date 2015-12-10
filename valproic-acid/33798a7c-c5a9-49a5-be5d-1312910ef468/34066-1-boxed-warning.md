@@ -2,9 +2,7 @@
 
 Hepatotoxicity
 
-General Population
-
-Hepatic failure resulting in fatalities has occurred in patients receiving valproate and its derivatives.
+General Population: Hepatic failure resulting in fatalities has occurred in patients receiving valproate and its derivatives.
 These incidents usually have occurred during the first six months of treatment.
 Serious or fatal hepatotoxicity may be preceded by non-specific symptoms such as malaise, weakness, lethargy, facial edema, anorexia, and vomiting.
 In patients with epilepsy, a loss of seizure control may also occur.
@@ -16,9 +14,7 @@ When divalproex sodium delayed-release tablets are used in this patient group, i
 The benefits of therapy should be weighed against the risks.
 The incidence of fatal hepatotoxicity decreases considerably in progressively older patient groups.
 
-Patients with Mitochondrial Disease
-
-There is an increased risk of valproate-induced acute liver failure and resultant deaths in patients with hereditary neurometabolic syndromes caused by DNA mutations of the mitochondrial DNA Polymerase γ (POLG) gene (e.g.
+Patients with Mitochondrial Disease: There is an increased risk of valproate-induced acute liver failure and resultant deaths in patients with hereditary neurometabolic syndromes caused by DNA mutations of the mitochondrial DNA Polymerase γ (POLG) gene (e.g.
 Alpers Huttenlocher Syndrome).
 Divalproex sodium is contraindicated in patients known to have mitochondrial disorders caused by POLG mutations and children under two years of age who are clinically suspected of having a mitochondrial disorder [see CONTRAINDICATIONS (4)].
 In patients over two years of age who are clinically suspected of having a hereditary mitochondrial disease, divalproex sodium should only be used after other anticonvulsants have failed.

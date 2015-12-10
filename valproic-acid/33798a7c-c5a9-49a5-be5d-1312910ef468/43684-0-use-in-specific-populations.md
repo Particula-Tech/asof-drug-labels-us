@@ -37,12 +37,12 @@ The risk of spina bifida following in utero valproate exposure is generally esti
 
 • Because of the risks of decreased IQ, neural tube defects, and other fetal adverse events, which may occur very early in pregnancy:
 
-• Valproate should not be administered to a woman of childbearing potential unless the drug is essential to the management of her medical condition.
+০ Valproate should not be administered to a woman of childbearing potential unless the drug is essential to the management of her medical condition.
 This is especially important when valproate use is considered for a condition not usually associated with permanent injury or death (e.g., migraine).
 
-• Valproate is contraindicated during pregnancy in women being treated for prophylaxis of migraine headaches.
+০ Valproate is contraindicated during pregnancy in women being treated for prophylaxis of migraine headaches.
 
-• Valproate should not be used to treat women with epilepsy or bipolar disorder who are pregnant or who plan to become pregnant unless other treatments have failed to provide adequate symptom control or are otherwise unacceptable.
+০ Valproate should not be used to treat women with epilepsy or bipolar disorder who are pregnant or who plan to become pregnant unless other treatments have failed to provide adequate symptom control or are otherwise unacceptable.
 In such women, the benefits of treatment with valproate during pregnancy may still outweigh the risks.
 When treating a pregnant woman or a woman of childbearing potential, carefully consider both the potential risks and benefits of treatment and provide appropriate counseling.
 

@@ -75,7 +75,7 @@ Concurrent use of valproate and amitriptyline has rarely been associated with to
 Monitoring of amitriptyline levels should be considered for patients taking valproate concomitantly with amitriptyline.
 Consideration should be given to lowering the dose of amitriptyline/nortriptyline in the presence of valproate.
 
-Carbamazepine/carbamazepine-10,11-Epoxide:
+Carbamazepine/carbamazepine-10, 11-Epoxide:
 
 Serum levels of carbamazepine (CBZ) decreased 17% while that of carbamazepine-10,11-epoxide (CBZ-E) increased by 45% upon co-administration of valproate and CBZ to epileptic patients.
 
