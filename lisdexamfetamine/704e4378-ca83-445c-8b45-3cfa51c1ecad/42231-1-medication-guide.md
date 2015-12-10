@@ -202,8 +202,10 @@ The capsule shells (imprinted with S489) contain gelatin, titanium dioxide, and 
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured for: Shire US Inc., Wayne, PA 19087.
+Manufactured for: Shire US Inc., 300 Shire Way, Lexington, MA 02421.
+
+VYVANSE® is a registered trademark of Shire LLC
 
 © 2015 Shire US Inc.
 
-Revised April 2015
+Revised December 2015

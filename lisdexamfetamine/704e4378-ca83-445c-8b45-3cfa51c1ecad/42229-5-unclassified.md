@@ -1,10 +1,10 @@
-Manufactured for: Shire US Inc., Wayne, PA 19087
+Manufactured for: Shire US Inc., 300 Shire Way, Lexington, MA 02421
 
 Made in USA
 
 For more information call 1-800-828-2088
 
-VYVANSE® is a trademark of Shire LLC
+VYVANSE® is a registered trademark of Shire LLC
 
 ©2015 Shire US Inc.
 
