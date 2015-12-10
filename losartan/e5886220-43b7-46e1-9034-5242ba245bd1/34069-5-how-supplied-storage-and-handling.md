@@ -1,37 +1,37 @@
 # HOW SUPPLIED
 
-Losartan Potassium Tablets USP, 25 mg are white, capsule shaped, biconvex, film-coated tablets, debossed with ‘LU’ on one side and ‘P21’ on the other side.
+Losartan Potassium Tablets USP, 25 mg are white, capsule shaped, biconvex, film-coated tablets, debossed with 'LU' on one side and 'P21' on the other side.
 They are supplied as follows:
 
-NDC 68180-210-06 – Bottles of 30
+NDC 68180-307-06 – Bottles of 30
 
-NDC 68180-210-09 – Bottles of 90
+NDC 68180-307-09 – Bottles of 90
 
-NDC 68180-210-01 – Bottles of 100
+NDC 68180-307-01 – Bottles of 100
 
-NDC 68180-210-03 – Bottles of 1000
+NDC 68180-307-02 – Bottles of 1000
 
-Losartan Potassium Tablets USP, 50 mg are white, capsule shaped, biconvex, film-coated tablets, debossed with ‘L’ and ‘U’ on either side of breakline on one side and ‘P22’ on the other side.
+Losartan Potassium Tablets USP, 50 mg are white, capsule shaped, biconvex, film-coated tablets, debossed with 'L' and 'U' on either side of breakline on one side and 'P22' on the other side.
 They are supplied as follows:
 
-NDC 68180-211-06 – Bottles of 30
+NDC 68180-308-06 – Bottles of 30
 
-NDC 68180-211-09 – Bottles of 90
+NDC 68180-308-09 – Bottles of 90
 
-NDC 68180-211-01 – Bottles of 100
+NDC 68180-308-01 – Bottles of 100
 
-NDC 68180-211-03 – Bottles of 1000
+NDC 68180-308-02 – Bottles of 1000
 
-Losartan Potassium Tablets USP, 100 mg are white, capsule shaped, biconvex, film-coated tablets, debossed with ‘LU’ on one side and ‘P23’ on the other side.
+Losartan Potassium Tablets USP, 100 mg are white, capsule shaped, biconvex, film-coated tablets, debossed with 'LU' on one side and 'P23' on the other side.
 They are supplied as follows:
 
-NDC 68180-212-06 – Bottles of 30
+NDC 68180-309-06 – Bottles of 30
 
-NDC 68180-212-09 – Bottles of 90
+NDC 68180-309-09 – Bottles of 90
 
-NDC 68180-212-01 – Bottles of 100
+NDC 68180-309-01 – Bottles of 100
 
-NDC 68180-212-03 – Bottles of 1000
+NDC 68180-309-02 – Bottles of 1000
 
 ## Storage
 

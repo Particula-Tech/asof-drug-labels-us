@@ -8,7 +8,7 @@ United States
 
 MADE IN INDIA.
 
-Revised: February 2015 ID# 240069
+Revised: November 2015 ID# 243286
 
 DISCLAIMER: **Trademark of Paddock Laboratories, Inc.
 
@@ -167,4 +167,4 @@ United States
 
 MADE IN INDIA
 
-Revised: February 2015 ID# 240070
+Revised: November 2015 ID# 243287
