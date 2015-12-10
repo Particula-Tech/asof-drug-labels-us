@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA078279"
+  ],
+  "inn": "esomeprazole",
+  "labeler": "Dr. Reddy's Laboratories Inc",
+  "package_ndcs": [
+    "43598-509-30",
+    "43598-510-30"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, DELAYED RELEASE",
+      "generic": "esomeprazole magnesium",
+      "name": "Esomeprazole Magnesium"
+    }
+  ],
+  "setid": "15023261-51c8-2388-3439-48dace49ec02",
+  "source": "dailymed"
+}
