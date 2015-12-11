@@ -20,7 +20,7 @@ Manufactured by Helsinn Birex Pharmaceuticals, Dublin, Ireland for Helsinn Healt
 
 Distributed by Eisai Inc., Woodcliff Lake, NJ 07677, under license of Helsinn Healthcare SA, Switzerland
 
-Marketed by Eisai Inc., Woodcliff Lake, NJ 07677 and Helsinn Therapeutics Inc., Bridgewater, NJ08807, under license of Helsinn Healthcare SA, Switzerland
+Marketed by Eisai Inc., Woodcliff Lake, NJ 07677 and Helsinn Therapeutics Inc., Iselin, NJ08830, under license of Helsinn Healthcare SA, Switzerland
 
 AKYNZEO is a registered trademark of Helsinn Healthcare SA, Lugano, Switzerland
 

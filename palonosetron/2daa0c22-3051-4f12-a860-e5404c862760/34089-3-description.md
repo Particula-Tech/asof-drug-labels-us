@@ -18,5 +18,5 @@ Palonosetron hydrochloride is a white to off-white crystalline powder.
 It is freely soluble in water, soluble in propylene glycol, and slightly soluble in ethanol and 2-propanol.
 
 Each AKYNZEO (300 mg netupitant/0.5 mg palonosetron) capsule is composed of one white-caramel hard gelatin capsule which contains three tablets each containing 100 mg netupitant and one gelatin capsule containing 0.56 mg palonosetron hydrochloride (equivalent to 0.50 mg palonosetron).
-The inactive ingredients are microcrystalline cellulose, sucrose fatty acid esters, povidone K-30, croscarmellose sodium, purified water, silicon dioxide, sodium stearyl fumarate, magnesium stearate, mono- and di-glycerides of capryl/capric acid, glycerin, polyglyceryl oleate, butylated hydroxyanisole (BHA), gelatin, sorbitol, titanium dioxide, yellow iron oxide, and red iron oxide.
+The inactive ingredients are microcrystalline cellulose, sucrose fatty acid esters, povidone K-30, croscarmellose sodium, purified water, silicon dioxide, sodium stearyl fumarate, magnesium stearate, mono- and di-glycerides of capryl/capric acid, glycerin, polyglyeryl dioleate, butylated hydroxyanisole (BHA), gelatin, sorbitol, titanium dioxide, yellow iron oxide, and red iron oxide.
 It may contain traces of medium-chain triglycerides, lecithin, and denatured ethanol.
