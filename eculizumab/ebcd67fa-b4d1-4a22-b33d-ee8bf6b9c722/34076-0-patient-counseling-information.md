@@ -14,7 +14,7 @@ These signs and symptoms are as follows:
 - headache with nausea or vomiting
 - headache and a fever
 - headache with a stiff neck or stiff back
-- fever of 103° F (39.4° C) or higher
+- fever
 - fever and a rash
 - confusion
 - muscle aches with flu-like symptoms

@@ -8,4 +8,6 @@ Soliris is indicated for the treatment of patients with paroxysmal nocturnal hem
 
 Soliris is indicated for the treatment of patients with atypical hemolytic uremic syndrome (aHUS) to inhibit complement-mediated thrombotic microangiopathy.
 
-Limitation of Use Soliris is not indicated for the treatment of patients with Shiga toxin E. coli related hemolytic uremic syndrome (STEC-HUS).
+Limitation of Use
+
+Soliris is not indicated for the treatment of patients with Shiga toxin E. coli related hemolytic uremic syndrome (STEC-HUS).

@@ -29,13 +29,13 @@ Under the Soliris REMS, prescribers must enroll in the program.
 
 Prescribers must counsel patients about the risk of meningococcal infection, provide the patients with the REMS educational materials, and ensure patients are vaccinated with a meningococcal vaccine.
 
-Enrollment in the Soliris REMS program and additional information are available by telephone: 1-888-SOLIRIS (1-888-765-4747).
+Enrollment in the Soliris REMS program and additional information are available by telephone: 1-888-SOLIRIS (1-888-765-4747) or at solirisrems.com.
 
 ## 5.3 Other Infections
 
 Soliris blocks terminal complement activation; therefore patients may have increased susceptibility to infections, especially with encapsulated bacteria.
 Additionally, Aspergillus infections have occurred in immunocompromised and neutropenic patients.
-Children treated with Soliris may be at increased risk of developing serious infections due to Streptococcuspneumoniae and Haemophilus influenza type b (Hib).
+Children treated with Soliris may be at increased risk of developing serious infections due to Streptococcus pneumoniae and Haemophilus influenza type b (Hib).
 Administer vaccinations for the prevention of Streptococcus pneumoniae and Haemophilus influenza type b (Hib) infections according to ACIP guidelines.
 Use caution when administering Soliris to patients with any systemic infection.
 

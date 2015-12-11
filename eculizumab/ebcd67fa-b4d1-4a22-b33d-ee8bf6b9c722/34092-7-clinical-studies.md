@@ -23,14 +23,17 @@ Table 8: PNH Study 1 Patient Baseline Characteristics
 
 | Parameter | Study 1 |  |
 | --- | --- | --- |
-| Placebo N = 44 | Soliris N = 43 |  |
+|  | Placebo N = 44 | Soliris N = 43 |
 | Mean age (SD) | 38 (13) | 42 (16) |
 | Gender - female (%) | 29 (66) | 23 (54) |
-| History of aplastic anemia or myelodysplastic syndrome (%) | 12 (27) | 8 (19) |
+| History of aplastic anemia or myelodysplastic | 12 (27) | 8 (19) |
+| syndrome (%) |  |  |
 | Patients with history of thrombosis (events) | 8 (11) | 9 (16) |
 | Concomitant anticoagulants (%) | 20 (46) | 24 (56) |
-| Concomitant steroids/immunosuppressant treatments (%) | 16 (36) | 14 (33) |
-| Packed RBC units transfused per patient in previous 12 months (median (Q1,Q3)) | 17 (14, 25) | 18 (12, 24) |
+| Concomitant steroids/immunosuppressant | 16 (36) | 14 (33) |
+| treatments (%) |  |  |
+| Packed RBC units transfused per patient in | 17 (14, 25) | 18 (12, 24) |
+| previous 12 months (median (Q1,Q3)) |  |  |
 | Mean Hgb level (g/dL) at setpoint (SD) | 8 (1) | 8 (1) |
 | Pre-treatment LDH levels (median, U/L) | 2,234 | 2,032 |
 | Free hemoglobin at baseline (median, mg/dL) | 46 | 41 |
@@ -40,13 +43,11 @@ These effects were seen among patients within each of the three pre-study RBC tr
 After 3 weeks of Soliris treatment, patients reported less fatigue and improved health-related quality of life.
 Because of the study sample size and duration, the effects of Soliris on thrombotic events could not be determined.
 
-Percentage of patients with stabilized hemoglobin levels
-
 Table 9: PNH Study 1 Results
 
 |  | Placebo | Soliris |
 | --- | --- | --- |
-| N = 44 | N = 43 |  |
+|  | N = 44 | N = 43 |
 | Percentage of patients with stabilized hemoglobin levels | 0 | 49 |
 | Packed RBC units transfused per patient (median) | 10 | 0 |
 | (range) | (2 - 21) | (0 - 16) |
@@ -95,8 +96,10 @@ Table 10: Baseline Characteristics of Patients Enrolled in aHUS Study 1
 
 | Parameter | aHUS Study 1 N = 17 |
 | --- | --- |
-| Time from aHUS diagnosis until screening in months, median (min, max) | 10 (0.26, 236) |
-| Time from current clinical TMA manifestation until screening in months, median (min, max) | <1 (<1, 4) |
+| Time from aHUS diagnosis until screening in months, | 10 (0.26, 236) |
+| median (min, max) |  |
+| Time from current clinical TMA manifestation until screening in | <1 (<1, 4) |
+| months, median (min, max) |  |
 | Baseline platelet count (× 109/L), median (range) | 118 (62, 161) |
 | Baseline LDH (U/L), median (range) | 269 (134, 634) |
 
@@ -142,10 +145,12 @@ Table 12 summarizes the key baseline clinical and disease-related characteristic
 
 Table 12: Baseline Characteristics of Patients Enrolled in aHUS Study 2
 
-| Parameter | aHUS Study 2 N=20 |
+| Parameter | aHUS Study 2 N = 20 |
 | --- | --- |
-| Time from aHUS diagnosis until screening in months, median (min, max) | 48 (0.66, 286) |
-| Time from current clinical TMA manifestation until screening in months, median (min, max) | 9 (1, 45) |
+| Time from aHUS diagnosis until screening in months, | 48 (0.66, 286) |
+| median (min, max) |  |
+| Time from current clinical TMA manifestation until screening | 9 (1, 45) |
+| in months, median (min, max) |  |
 | Baseline platelet count (× 109/L), median (range) | 218 (105, 421) |
 | Baseline LDH (U/L), median (range) | 200 (151, 391) |
 
@@ -168,13 +173,13 @@ Table 13 summarizes the efficacy results for aHUS Study 2.
 
 Table 13: Efficacy Results for aHUS Study 2
 
-| Efficacy Parameter | aHUS Study 2 at 26 wks1N = 20 | aHUS Study 2 at 2 yrs2N = 20 |
+| Efficacy Parameter | aHUS Study 2 at 26 wks1 N = 20 | aHUS Study 2 at 2 yrs2 N = 20 |
 | --- | --- | --- |
-| Complete TMA response, n (%) Median duration of complete TMA response, weeks (range) | 5 (25)32 (12, 38) | 11 (55)68 (38, 109) |
+| Complete TMA response, n (%) Median duration of complete TMA response, weeks (range) | 5 (25) 32 (12, 38) | 11 (55) 68 (38, 109) |
 | eGFR improvement ≥15 mL/min/1.73 m2, n (%) | 1 (5) | 8 (40) |
 | TMA Event-free status n (%) | 16 (80) | 19 (95) |
-| Daily TMA intervention rate, median (range)Before eculizumabOn eculizumab treatment | 0.23 (0.05, 1.07)0 | 0.23 (0.05, 1.07)0 (0, 0.01) |
-| Hematologic normalization4, n (%) Median duration of hematologic normalization, weeks (range)3 | 18 (90)38 (22, 52) | 18 (90)114 (33, 125) |
+| Daily TMA intervention rate, median (range) Before eculizumab On eculizumab treatment | 0.23 (0.05, 1.07) 0 | 0.23 (0.05, 1.07) 0 (0, 0.01) |
+| Hematologic normalization4, n (%) Median duration of hematologic normalization, weeks (range)3 | 18 (90) 38 (22, 52) | 18 (90) 114 (33, 125) |
 
 1.
 At data cut-off (September 8, 2010).
@@ -203,13 +208,13 @@ No pediatric patient required new dialysis during treatment with Soliris.
 
 Table 14: Efficacy Results in Pediatric Patients Enrolled in aHUS Study 3
 
-| Efficacy Parameter | <2 yrs(n=5) | 2 to <12 yrs(n=10) | 12 to <18 yrs(n=4) | Total(n=19) |
+| Efficacy Parameter | <2 yrs (n=5) | 2 to <12 yrs (n=10) | 12 to <18 yrs (n=4) | Total (n=19) |
 | --- | --- | --- | --- | --- |
 | Complete TMA response, n (%) | 2 (40) | 5 (50) | 1 (25) | 8 (42) |
-| Patients with eGFR improvement ≥ 15 mL/min/1.73m2, n (%)2 | 2 (40) | 6 (60) | 1 (25) | 9 (47) |
+| Patients with eGFR improvement ≥ 15 mL/min/1.73 m2, n (%)2 | 2 (40) | 6 (60) | 1 (25) | 9 (47) |
 | Platelet count normalization, n (%)1 | 4 (80) | 10 (100) | 3 (75) | 17 (89) |
 | Hematologic Normalization, n (%) | 2 (40) | 5 (50) | 1 (25) | 8 (42) |
-| Daily TMA intervention rate, median (range) Before eculizumab On eculizumab treatment | 1 (0, 2)<1 (0, <1) | <1 (0.07, 1.46)0 (0, <1) | <1 (0, 1)0 (0, <1) | 0.31 (0.00, 2.38)0.00 (0.00, 0.08) |
+| Daily TMA intervention rate, median (range) Before eculizumab On eculizumab treatment | 1 (0, 2) <1 (0, <1) | <1 (0.07, 1.46) 0 (0, <1) | <1 (0, 1) 0 (0, <1) | 0.31 (0.00, 2.38) 0.00 (0.00, 0.08) |
 
 1.
 Platelet count normalization was defined as a platelet count of at least 150,000 X 109/L on at least two consecutive measurements spanning a period of at least 4 weeks.
@@ -229,7 +234,7 @@ Table 15 summarizes the key baseline clinical and disease-related characteristic
 
 Table 15: Baseline Characteristics of Patients Enrolled in aHUS Study 4
 
-| Parameter | aHUS Study 4N = 41 |
+| Parameter | aHUS Study 4 N = 41 |
 | --- | --- |
 | Time from aHUS diagnosis until start of study drug in months, median (range) | 0.79 (0.03 – 311) |
 | Time from current clinical TMA manifestation until first study dose in months, median (range) | 0.52 (0.03-19) |
@@ -252,13 +257,13 @@ Table 16 summarizes the efficacy results for aHUS Study 4.
 
 Table 16: Efficacy Results for aHUS Study 4
 
-| Efficacy Parameter | aHUS Study 4(N = 41) |
+| Efficacy Parameter | aHUS Study 4 (N = 41) |
 | --- | --- |
-| Complete TMA response, n (%), 95% CIMedian duration of complete TMA response, weeks (range) | 23 (56),40,7242 (6, 75) |
+| Complete TMA response, n (%), 95% CI Median duration of complete TMA response, weeks (range) | 23 (56), 40,72 42 (6, 75) |
 | Patients with eGFR improvement ≥ 15 mL/min/1.73 m2, n (%) | 22 (54) |
-| Hematologic Normalization, n (%)Median duration of hematologic normalization, weeks (range) | 36 (88)46 (10, 75) |
+| Hematologic Normalization, n (%) Median duration of hematologic normalization, weeks (range) | 36 (88) 46 (10, 75) |
 | TMA Event-free Status, n (%) | 37 (90) |
-| Daily TMA Intervention Rate, median (range) Before eculizumab On eculizumab treatment | 0.63 (0, 1.38)0 (0, 0.58) |
+| Daily TMA Intervention Rate, median (range) Before eculizumab On eculizumab treatment | 0.63 (0, 1.38) 0 (0, 0.58) |
 
 Pediatric and Adolescent Patients with aHUS (aHUS Study 5)
 
@@ -271,7 +276,7 @@ Table 17 summarizes the key baseline clinical and disease-related characteristic
 
 Table 17: Baseline Characteristics of Patients Enrolled in aHUS Study 5
 
-| Parameter | Patients1 month to <12 years(N = 18) | All Patients(N = 22) |
+| Parameter | Patients 1 month to <12 years (N = 18) | All Patients (N = 22) |
 | --- | --- | --- |
 | Time from aHUS diagnosis until start of study drug in months, median (range) | 0.51 (0.03 – 58) | 0.56 (0.03-191) |
 | Time from current clinical TMA manifestation until first study dose in months, median (range) | 0.23 (0.03 – 4) | 0.2 (0.03-4) |
@@ -297,12 +302,12 @@ Table 18 summarizes the efficacy results for aHUS Study 5.
 
 Table 18: Efficacy Results for aHUS Study 5
 
-| Efficacy Parameter | Patients 1 month to <12 years(N = 18) | All Patients (N = 22) |
+| Efficacy Parameter | Patients 1 month to <12 years (N = 18) | All Patients (N = 22) |
 | --- | --- | --- |
-| Complete TMA response, n (%)95% CIMedian Duration of complete TMA response, weeks (range)1 | 11 (61)36, 8340 (14, 77) | 14 (64)41, 8337 (14, 77) |
+| Complete TMA response, n (%) 95% CI Median Duration of complete TMA response, weeks (range)1 | 11 (61) 36, 83 40 (14, 77) | 14 (64) 41, 83 37 (14, 77) |
 | eGFR improvement ≥15 mL/min/ 1.73•m2•n (%) | 16 (89) | 19 (86) |
-| Complete Hematologic Normalization, n (%) Median Duration of complete hematologic normalization, weeks (range) | 14 (78)38 (14, 77) | 18 (82)38 (14, 77) |
+| Complete Hematologic Normalization, n (%) Median Duration of complete hematologic normalization, weeks (range) | 14 (78) 38 (14, 77) | 18 (82) 38 (14, 77) |
 | TMA Event-Free Status, n (%) | 17 (94) | 21 (95) |
-| Daily TMA Intervention rate, median (range) Before eculizumab treatment On eculizumab treatment | 0.2 (0, 1.7)0 (0, 0.01) | 0.4 (0, 1.7)0 (0, 0.01) |
+| Daily TMA Intervention rate, median (range) Before eculizumab treatment On eculizumab treatment | 0.2 (0, 1.7) 0 (0, 0.01) | 0.4 (0, 1.7) 0 (0, 0.01) |
 
 1. through data cutoff (October 12, 2012).

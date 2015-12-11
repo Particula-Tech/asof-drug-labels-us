@@ -2,11 +2,11 @@
 
 The following serious adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- Serious Meningococcal Infections [See Warnings and Precautions (5.1)]
-- Other Infections [See Warnings and Precautions (5.3)]
-- Monitoring Disease Manifestations After Soliris Discontinuation [See Warnings and Precautions (5.4)]
-- Thrombosis Prevention and Management [See Warnings and Precautions (5.5)]
-- Infusion Reactions [See Warnings and Precautions (5.6)]
+- Serious Meningococcal Infections [see Warnings and Precautions (5.1)]
+- Other Infections [see Warnings and Precautions (5.3)]
+- Monitoring Disease Manifestations After Soliris Discontinuation [see Warnings and Precautions (5.4)]
+- Thrombosis Prevention and Management [see Warnings and Precautions (5.5)]
+- Infusion Reactions [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trial Experience
 
@@ -32,8 +32,8 @@ Table 4: Adverse Reactions Reported in 5% or More of Soliris Treated Patients an
 
 | Reaction | Soliris | Placebo |
 | --- | --- | --- |
-| N = 43 | N = 44 |  |
-| N (%) | N (%) |  |
+|  | N = 43 | N = 44 |
+|  | N (%) | N (%) |
 | Headache | 19 (44) | 12 (27) |
 | Nasopharyngitis | 10 (23) | 8 (18) |
 | Back pain | 8 (19) | 4 (9) |
@@ -69,7 +69,7 @@ Table 5: Per Patient Incidence of Adverse Events in 10% or More Adult and Adoles
 
 | MedDRA ver. 15.1 | Number (%) of Patients |  |  |  |
 | --- | --- | --- | --- | --- |
-| Study 1 (n=17) | Study 2 (n=20) | Study 4 (n=41) | Total (n=78) |  |
+|  | Study 1 (n=17) | Study 2 (n=20) | Study 4 (n=41) | Total (n=78) |
 | Vascular Disorders |  |  |  |  |
 | Hypertensiona | 10 (59) | 9 (45) | 7 (17) | 26 (33) |
 | Hypotension | 2 (12) | 4 (20) | 7 (17) | 13 (17) |
@@ -77,7 +77,8 @@ Table 5: Per Patient Incidence of Adverse Events in 10% or More Adult and Adoles
 | Bronchitis | 3 (18) | 2 (10) | 4 (10) | 9 (12) |
 | Nasopharyngitis | 3 (18) | 11 (55) | 7 (17) | 21 (27) |
 | Gastroenteritis | 3 (18) | 4 (20) | 2 (5) | 9 (12) |
-| Upper respiratory tract infection | 5 (29) | 8 (40) | 2 (5) | 15 (19) |
+| Upper respiratory tract | 5 (29) | 8 (40) | 2 (5) | 15 (19) |
+| infection |  |  |  |  |
 | Urinary tract infection | 6 (35.3) | 3 (15) | 8 (20) | 17 (22) |
 | Gastrointestinal Disorders |  |  |  |  |
 | Diarrhea | 8 (47) | 8 (40) | 12 (32) | 29 (37) |
@@ -128,8 +129,8 @@ Table 6: Per Patient Incidence of Adverse Reactions in 10% or More Patients Enro
 
 | MedDRA ver. 15.1 |  |  |
 | --- | --- | --- |
-| 1 month to <12 yrs | Total |  |
-| (n=18) | (n=22) |  |
+|  | 1 month to <12 yrs | Total |
+|  | (n=18) | (n=22) |
 | Eye Disorders | 3 (17) | 3 (14) |
 | Gastrointestinal Disorders |  |  |
 | Abdominal pain | 6 (33) | 7 (32) |
@@ -169,8 +170,8 @@ Table 7: Adverse Reactions Occurring in at Least 15% of Patients Less than 18 Ye
 
 | MedDRA ver. 11.0 | Number (%) of Patients |  |  |  |
 | --- | --- | --- | --- | --- |
-| < 2 yrs | 2 to < 12 yrs | 12 to <18 yrs | Total |  |
-| (n=5) | (n=10) | (n=4) | (n=19) |  |
+|  | < 2 yrs | 2 to < 12 yrs | 12 to <18 yrs | Total |
+|  | (n=5) | (n=10) | (n=4) | (n=19) |
 | General Disorders and Administration Site Conditions |  |  |  |  |
 | Pyrexia | 4 (80) | 4 (40) | 1 (25) | 9 (47) |
 | Gastrointestinal Disorders |  |  |  |  |

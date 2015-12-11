@@ -9,4 +9,4 @@ Meningococcal infection may become rapidly life-threatening or fatal if not reco
 
 Soliris is available only through a restricted program under a Risk Evaluation and Mitigation Strategy (REMS).
 Under the Soliris REMS, prescribers must enroll in the program [see Warnings and Precautions (5.2)].
-Enrollment in the Soliris REMS program and additional information are available by telephone: 1-888-SOLIRIS (1-888-765-4747).
+Enrollment in the Soliris REMS program and additional information are available by telephone: 1-888-SOLIRIS (1-888-765-4747) or at solirisrems.com.

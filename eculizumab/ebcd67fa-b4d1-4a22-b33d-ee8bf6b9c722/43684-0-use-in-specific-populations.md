@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C:
+Pregnancy Category C
 
 Risk Summary
 

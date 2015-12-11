@@ -1,4 +1,8 @@
-MEDICATION GUIDE Soliris® (so-leer-is) (eculizumab)
+MEDICATION GUIDE Soliris® (so-leer-is)
+
+(eculizumab)
+
+_______________________________________
 
 Read the Medication Guide before you start Soliris and before each infusion.
 This Medication Guide does not take the place of talking with your doctor about your medical condition or your treatment.
@@ -19,14 +23,15 @@ Meningococcal infections may quickly become life-threatening and cause death if 
    Your doctor will decide if you need another dose of a meningococcal vaccine.
 3. A meningococcal vaccine does not prevent all meningococcal infections.
    Call your doctor or get emergency medical care right away if you get any of these signs and symptoms of a meningococcal infection:
-   - headache with nausea or vomiting
-   - headache and a fever
-   - headache with a stiff neck or stiff back
-   - fever of 103° F (39.4° C) or higher
-   - fever and a rash
-   - confusion
-   - muscle aches with flu-like symptoms
-   - eyes sensitive to light
+
+- headache with nausea or vomiting
+- headache and a fever
+- headache with a stiff neck or stiff back
+- fever
+- fever and a rash
+- confusion
+- muscle aches with flu-like symptoms
+- eyes sensitive to light
 
 Your doctor will give you a Patient Safety Card about the risk of meningococcal infection.
 Carry it with you at all times during treatment and for 3 months after your last Soliris dose.
@@ -90,9 +95,7 @@ How will I receive Soliris?
 
 - Soliris is given through a vein (I.V. or intravenous infusion) usually over 35 minutes in adults and 1-4 hours in pediatric patients.
   If you have an allergic reaction during your Soliris infusion, your doctor may decide to give Soliris more slowly or stop your infusion.
-- If you are an adult, you will usually receive a Soliris infusion by your doctor:
-  - weekly for five weeks, the
-  - every 2 weeks
+- If you are an adult, you will usually receive a Soliris infusion by your doctor: ° weekly for five weeks, the ° every 2 weeks
 - If you are less than 18 years of age, your doctor will decide how often you will receive Soliris depending on your age and body weight
 - After each infusion, you should be monitored for one hour for allergic reactions.
   See “What are the possible side effects of Soliris?”
@@ -102,39 +105,26 @@ How will I receive Soliris?
 
 Symptoms or problems that can happen due to red blood cell breakdown include:
 
-o drop in the number of your red blood cell count
-
-o drop in your platelet count
-
-o confusion
-
-o chest pain
-
-o kidney problems
-
-o blood clots
-
-o difficulty breathing
+- drop in the number of your red blood cell count
+- drop in your platelet count
+- confusion
+- chest pain
+- kidney problems
+- blood clots
+- difficulty breathing
 
 - If you have aHUS, your doctor will need to monitor you closely during and for at least 12 weeks after stopping treatment for signs of worsening aHUS symptoms or problems related to abnormal clotting (thrombotic microangiopathy).
 
 Symptoms or problems that can happen with abnormal clotting may include:
 
-o stroke
-
-o confusion
-
-o seizures
-
-o chest pain (angina)
-
-o difficulty breathing
-
-o kidney problems
-
-o swelling in arms or legs
-
-o a drop in your platelet count
+- stroke
+- confusion
+- seizures
+- chest pain (angina)
+- difficulty breathing
+- kidney problems
+- swelling in arms or legs
+- a drop in your platelet count
 
 What are the possible side effects of Soliris?
 
@@ -200,4 +190,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Manufactured by Alexion Pharmaceuticals, Inc., 352 Knotter Drive, Cheshire, CT 06410 USA.
 
-Revised: 04/2014
+Revised: 12/2015

@@ -47,7 +47,7 @@ Table 2: Supplemental dose of Soliris after PE/PI
 | Type of Intervention | Most Recent Soliris Dose | Supplemental Soliris Dose With Each PE/PI Intervention | Timing of Supplemental Soliris Dose |
 | --- | --- | --- | --- |
 | Plasmapheresis or plasma exchange | 300 mg | 300 mg per each plasmapheresis or plasma exchange session | Within 60 minutes after each plasmapheresis or plasma exchange |
-| 600 mg or more | 600 mg per each plasmapheresis or plasma exchange session |  |  |
+|  | 600 mg or more | 600 mg per each plasmapheresis or plasma exchange session |  |
 | Fresh frozen plasma infusion | 300 mg or more | 300 mg per infusion of fresh frozen plasma | 60 minutes prior to each infusion of fresh frozen plasma |
 
 ## 2.3 Preparation and Administration
@@ -72,7 +72,7 @@ Table 3: Preparation and Reconstitution of Soliris
 Gently invert the infusion bag containing the diluted Soliris solution to ensure thorough mixing of the product and diluent.
 Discard any unused portion left in a vial, as the product contains no preservatives.
 
-Prior to administration, the admixture should be allowed to adjust to room temperature [18-25° C, 64-77° F]. The admixture must not be heated in a microwave or with any heat source other than ambient air temperature.
+Prior to administration, the admixture should be allowed to adjust to room temperature [18°-25° C, 64-77° F]. The admixture must not be heated in a microwave or with any heat source other than ambient air temperature.
 The Soliris admixture should be inspected visually for particulate matter and discoloration prior to administration.
 
 ## 2.4 Administration
