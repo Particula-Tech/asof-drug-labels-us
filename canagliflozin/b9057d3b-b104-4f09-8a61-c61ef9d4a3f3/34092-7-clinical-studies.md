@@ -43,7 +43,7 @@ Table 7: Results from 26-Week Placebo-Controlled Clinical Study with INVOKANA as
 
 ## 14.2 Combination Therapy
 
-Add-on Combination Therapy With Metformin
+Add-on Combination Therapy with Metformin
 
 A total of 1284 patients with type 2 diabetes inadequately controlled on metformin monotherapy (greater than or equal to 2,000 mg/day, or at least 1,500 mg/day if higher dose not tolerated) participated in a 26-week, double-blind, placebo- and active-controlled study to evaluate the efficacy and safety of INVOKANA in combination with metformin.
 The mean age was 55 years, 47% of patients were men, and the mean baseline eGFR was 89 mL/min/1.73 m2.
@@ -263,4 +263,4 @@ A total of 269 patients with type 2 diabetes and a baseline eGFR of 30 mL/min/1.
 The mean age was 68 years, 61% of patients were men, and the mean baseline eGFR was 39 mL/min/1.73 m2.
 Patients were randomized to the addition of INVOKANA 100 mg, INVOKANA 300 mg, or placebo, administered once daily.
 
-At the end of treatment, INVOKANA 100 mg and INVOKANA 300 mg daily provided greater reductions in HbA1C relative to placebo (-0.30% [95% CI: -0.53; -0.07] and -0.40%, [95% CI: -0.64; -0.17], respectively) [see Warnings and Precautions (5.2), Adverse Reactions (6.1), and Use in Specific Populations (8.6)].
+At the end of treatment, INVOKANA 100 mg and INVOKANA 300 mg daily provided greater reductions in HbA1C relative to placebo (-0.30% [95% CI: -0.53; -0.07] and -0.40%, [95% CI: -0.64; -0.17], respectively) [see Warnings and Precautions (5.3), Adverse Reactions (6.1), and Use in Specific Populations (8.6)].

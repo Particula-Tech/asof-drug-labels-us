@@ -3,13 +3,15 @@
 The following important adverse reactions are described below and elsewhere in the labeling:
 
 - Hypotension [see Warnings and Precautions (5.1)]
-- Impairment in Renal Function [see Warnings and Precautions (5.2)]
-- Hyperkalemia [see Warnings and Precautions (5.3)]
-- Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.4)]
-- Genital Mycotic Infections [see Warnings and Precautions (5.5)]
-- Hypersensitivity Reactions [see Warnings and Precautions (5.6)]
-- Bone Fracture [see Warnings and Precautions (5.7)]
-- Increases in Low-Density Lipoprotein (LDL-C) [see Warnings and Precautions (5.8)]
+- Ketoacidosis [see Warnings and Precautions (5.2)]
+- Impairment in Renal Function [see Warnings and Precautions (5.3)]
+- Hyperkalemia [see Warnings and Precautions (5.4)]
+- Urosepsis and Pyelonephritis [see Warnings and Precautions (5.5)]
+- Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.6)]
+- Genital Mycotic Infections [see Warnings and Precautions (5.7)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.8)]
+- Bone Fracture [see Warnings and Precautions (5.9)]
+- Increases in Low-Density Lipoprotein (LDL-C) [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Studies Experience
 
@@ -125,26 +127,26 @@ In a pooled population of patients with moderate renal impairment (N=1085) with 
 Use of INVOKANA has been associated with an increased incidence of renal-related adverse reactions (e.g., increased blood creatinine, decreased glomerular filtration rate, renal impairment, and acute renal failure), particularly in patients with moderate renal impairment.
 
 In the pooled analysis of patients with moderate renal impairment, the incidence of renal-related adverse reactions was 3.7% with placebo, 8.9% with INVOKANA 100 mg, and 9.3% with INVOKANA 300 mg.
-Discontinuations due to renal-related adverse events occurred in 1.0% with placebo, 1.2% with INVOKANA 100 mg, and 1.6% with INVOKANA 300 mg [see Warnings and Precautions (5.2)].
+Discontinuations due to renal-related adverse events occurred in 1.0% with placebo, 1.2% with INVOKANA 100 mg, and 1.6% with INVOKANA 300 mg [see Warnings and Precautions (5.3)].
 
 Genital Mycotic Infections
 
 In the pool of four placebo-controlled clinical trials, female genital mycotic infections (e.g., vulvovaginal mycotic infection, vulvovaginal candidiasis, and vulvovaginitis) occurred in 3.2%, 10.4%, and 11.4% of females treated with placebo, INVOKANA 100 mg, and INVOKANA 300 mg, respectively.
 Patients with a history of genital mycotic infections were more likely to develop genital mycotic infections on INVOKANA.
 Female patients who developed genital mycotic infections on INVOKANA were more likely to experience recurrence and require treatment with oral or topical antifungal agents and anti-microbial agents.
-In females, discontinuation due to genital mycotic infections occurred in 0% and 0.7% of patients treated with placebo and INVOKANA, respectively [see Warnings and Precautions (5.5)].
+In females, discontinuation due to genital mycotic infections occurred in 0% and 0.7% of patients treated with placebo and INVOKANA, respectively [see Warnings and Precautions (5.7)].
 
 In the pool of four placebo-controlled clinical trials, male genital mycotic infections (e.g., candidal balanitis, balanoposthitis) occurred in 0.6%, 4.2%, and 3.7% of males treated with placebo, INVOKANA 100 mg, and INVOKANA 300 mg, respectively.
 Male genital mycotic infections occurred more commonly in uncircumcised males and in males with a prior history of balanitis or balanoposthitis.
 Male patients who developed genital mycotic infections on INVOKANA were more likely to experience recurrent infections (22% on INVOKANA versus none on placebo), and require treatment with oral or topical antifungal agents and anti-microbial agents than patients on comparators.
 In males, discontinuations due to genital mycotic infections occurred in 0% and 0.5% of patients treated with placebo and INVOKANA, respectively.
-In the pooled analysis of 8 controlled trials, phimosis was reported in 0.3% of uncircumcised male patients treated with INVOKANA and 0.2% required circumcision to treat the phimosis [see Warnings and Precautions (5.5)].
+In the pooled analysis of 8 controlled trials, phimosis was reported in 0.3% of uncircumcised male patients treated with INVOKANA and 0.2% required circumcision to treat the phimosis [see Warnings and Precautions (5.7)].
 
 Hypoglycemia
 
 In all clinical trials, hypoglycemia was defined as any event regardless of symptoms, where biochemical hypoglycemia was documented (any glucose value below or equal to 70 mg/dL).
 Severe hypoglycemia was defined as an event consistent with hypoglycemia where the patient required the assistance of another person to recover, lost consciousness, or experienced a seizure (regardless of whether biochemical documentation of a low glucose value was obtained).
-In individual clinical trials [see Clinical Studies (14)], episodes of hypoglycemia occurred at a higher rate when INVOKANA was co-administered with insulin or sulfonylureas (Table 4) [see Warnings and Precautions (5.4)].
+In individual clinical trials [see Clinical Studies (14)], episodes of hypoglycemia occurred at a higher rate when INVOKANA was co-administered with insulin or sulfonylureas (Table 4) [see Warnings and Precautions (5.6)].
 
 Table 4: Incidence of HypoglycemiaNumber of patients experiencing at least one event of hypoglycemia based on either biochemically documented episodes or severe hypoglycemic events in the intent-to-treat population in Controlled Clinical Studies
 
@@ -175,7 +177,7 @@ Bone Fracture
 
 The occurrence of bone fractures was evaluated in a pool of nine clinical trials with a mean duration of exposure to INVOKANA of 85 weeks.
 The incidence rates of adjudicated bone fractures were 1.1, 1.4, and 1.5 per 100 patient-years of exposure in the comparator, INVOKANA 100 mg, and INVOKANA 300 mg groups, respectively.
-Fractures were observed as early as 12 weeks after treatment initiation and were more likely to be low trauma (e.g., fall from no more than standing height), and affect the upper extremities [see Warnings and Precautions (5.7)].
+Fractures were observed as early as 12 weeks after treatment initiation and were more likely to be low trauma (e.g., fall from no more than standing height), and affect the upper extremities [see Warnings and Precautions (5.9)].
 
 Laboratory and Imaging Tests
 
@@ -185,7 +187,7 @@ In a pooled population of patients (N=723) with moderate renal impairment (eGFR 
 Severe elevations (greater than or equal to 6.5 mEq/L) occurred in 0.4% of patients treated with placebo, no patients treated with INVOKANA 100 mg, and 1.3% of patients treated with INVOKANA 300 mg.
 
 In these patients, increases in potassium were more commonly seen in those with elevated potassium at baseline.
-Among patients with moderate renal impairment, approximately 84% were taking medications that interfere with potassium excretion, such as potassium-sparing diuretics, angiotensin-converting-enzyme inhibitors, and angiotensin-receptor blockers [see Warnings and Precautions (5.2 and 5.3) and Use in Specific Populations (8.6)].
+Among patients with moderate renal impairment, approximately 84% were taking medications that interfere with potassium excretion, such as potassium-sparing diuretics, angiotensin-converting-enzyme inhibitors, and angiotensin-receptor blockers [see Warnings and Precautions (5.3 and 5.4) and Use in Specific Populations (8.6)].
 
 Increases in Serum Magnesium
 
@@ -203,7 +205,7 @@ Increases in Low-Density Lipoprotein Cholesterol (LDL-C) and non-High-Density Li
 
 In the pool of four placebo-controlled trials, dose-related increases in LDL-C with INVOKANA were observed.
 Mean changes (percent changes) from baseline in LDL-C relative to placebo were 4.4 mg/dL (4.5%) and 8.2 mg/dL (8.0%) with INVOKANA 100 mg and INVOKANA 300 mg, respectively.
-The mean baseline LDL-C levels were 104 to 110 mg/dL across treatment groups [see Warnings and Precautions (5.8)].
+The mean baseline LDL-C levels were 104 to 110 mg/dL across treatment groups [see Warnings and Precautions (5.10)].
 
 Dose-related increases in non-HDL-C with INVOKANA were observed.
 Mean changes (percent changes) from baseline in non-HDL-C relative to placebo were 2.1 mg/dL (1.5%) and 5.1 mg/dL (3.6%) with INVOKANA 100 mg and 300 mg, respectively.
@@ -221,3 +223,12 @@ Bone mineral density (BMD) was measured by dual-energy X-ray absorptiometry in a
 At 2 years, patients randomized to INVOKANA 100 mg and INVOKANA 300 mg had placebo-corrected declines in BMD at the total hip of 0.9% and 1.2%, respectively, and at the lumbar spine of 0.3% and 0.7%, respectively.
 Additionally, placebo-adjusted BMD declines were 0.1% at the femoral neck for both INVOKANA doses and 0.4% at the distal forearm for patients randomized to INVOKANA 300 mg.
 The placebo-adjusted change at the distal forearm for patients randomized to INVOKANA 100 mg was 0%.
+
+## 6.2 Postmarketing Experience
+
+Additional adverse reactions have been identified during postapproval use of INVOKANA.
+Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Ketoacidosis [see Warnings and Precautions (5.2)]
+
+Urosepsis and Pyelonephritis [see Warnings and Precautions (5.5)]

@@ -7,47 +7,69 @@ Symptomatic hypotension can occur after initiating INVOKANA [see Adverse Reactio
 Before initiating INVOKANA in patients with one or more of these characteristics, volume status should be assessed and corrected.
 Monitor for signs and symptoms after initiating therapy.
 
-## 5.2 Impairment in Renal Function
+## 5.2 Ketoacidosis
+
+Reports of ketoacidosis, a serious life-threatening condition requiring urgent hospitalization have been identified in postmarketing surveillance in patients with type 1 and type 2 diabetes mellitus receiving sodium glucose co-transporter-2 (SGLT2) inhibitors, including INVOKANA.
+INVOKANA is not indicated for the treatment of patients with type 1 diabetes mellitus [see Indications and Usage (1)].
+
+Patients treated with INVOKANA who present with signs and symptoms consistent with severe metabolic acidosis should be assessed for ketoacidosis regardless of presenting blood glucose levels, as ketoacidosis associated with INVOKANA may be present even if blood glucose levels are less than 250 mg/dL.
+If ketoacidosis is suspected, INVOKANA should be discontinued, patient should be evaluated, and prompt treatment should be instituted.
+Treatment of ketoacidosis may require insulin, fluid and carbohydrate replacement.
+
+In many of the postmarketing reports, and particularly in patients with type 1 diabetes, the presence of ketoacidosis was not immediately recognized and institution of treatment was delayed because presenting blood glucose levels were below those typically expected for diabetic ketoacidosis (often less than 250 mg/dL).
+Signs and symptoms at presentation were consistent with dehydration and severe metabolic acidosis and included nausea, vomiting, abdominal pain, generalized malaise, and shortness of breath.
+In some but not all cases, factors predisposing to ketoacidosis such as insulin dose reduction, acute febrile illness, reduced caloric intake due to illness or surgery, pancreatic disorders suggesting insulin deficiency (e.g., type 1 diabetes, history of pancreatitis or pancreatic surgery), and alcohol abuse were identified.
+
+Before initiating INVOKANA, consider factors in the patient history that may predispose to ketoacidosis including pancreatic insulin deficiency from any cause, caloric restriction, and alcohol abuse.
+In patients treated with INVOKANA consider monitoring for ketoacidosis and temporarily discontinuing INVOKANA in clinical situations known to predispose to ketoacidosis (e.g., prolonged fasting due to acute illness or surgery).
+
+## 5.3 Impairment in Renal Function
 
 INVOKANA increases serum creatinine and decreases eGFR.
 Patients with hypovolemia may be more susceptible to these changes.
 Renal function abnormalities can occur after initiating INVOKANA [see Adverse Reactions (6.1)].
 More frequent renal function monitoring is recommended in patients with an eGFR below 60 mL/min/1.73 m2.
 
-## 5.3 Hyperkalemia
+## 5.4 Hyperkalemia
 
 INVOKANA can lead to hyperkalemia.
 Patients with moderate renal impairment who are taking medications that interfere with potassium excretion, such as potassium-sparing diuretics, or medications that interfere with the renin-angiotensin-aldosterone system are at an increased risk of developing hyperkalemia [see Dosage and Administration (2.2) and Adverse Reactions (6.1)].
 
 Monitor serum potassium levels periodically after initiating INVOKANA in patients with impaired renal function and in patients predisposed to hyperkalemia due to medications or other medical conditions.
 
-## 5.4 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
+## 5.5 Urosepsis and Pyelonephritis
+
+There have been postmarketing reports of serious urinary tract infections including urosepsis and pyelonephritis requiring hospitalization in patients receiving SGLT2 inhibitors, including INVOKANA.
+Treatment with SGLT2 inhibitors increases the risk for urinary tract infections.
+Evaluate patients for signs and symptoms of urinary tract infections and treat promptly, if indicated [see Adverse Reactions (6)].
+
+## 5.6 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
 
 Insulin and insulin secretagogues are known to cause hypoglycemia.
 INVOKANA can increase the risk of hypoglycemia when combined with insulin or an insulin secretagogue [see Adverse Reactions (6.1)].
 Therefore, a lower dose of insulin or insulin secretagogue may be required to minimize the risk of hypoglycemia when used in combination with INVOKANA.
 
-## 5.5 Genital Mycotic Infections
+## 5.7 Genital Mycotic Infections
 
 INVOKANA increases the risk of genital mycotic infections.
 Patients with a history of genital mycotic infections and uncircumcised males were more likely to develop genital mycotic infections [see Adverse Reactions (6.1)].
 Monitor and treat appropriately.
 
-## 5.6 Hypersensitivity Reactions
+## 5.8 Hypersensitivity Reactions
 
 Hypersensitivity reactions (e.g., generalized urticaria), some serious, were reported with INVOKANA treatment; these reactions generally occurred within hours to days after initiating INVOKANA.
 If hypersensitivity reactions occur, discontinue use of INVOKANA; treat and monitor until signs and symptoms resolve [see Contraindications (4) and Adverse Reactions (6.1)].
 
-## 5.7 Bone Fracture
+## 5.9 Bone Fracture
 
 An increased risk of bone fracture, occurring as early as 12 weeks after treatment initiation, was observed in patients using INVOKANA.
 Consider factors that contribute to fracture risk prior to initiating INVOKANA [see Adverse Reactions (6.1)].
 
-## 5.8 Increases in Low-Density Lipoprotein (LDL-C)
+## 5.10 Increases in Low-Density Lipoprotein (LDL-C)
 
 Dose-related increases in LDL-C occur with INVOKANA [see Adverse Reactions (6.1)].
 Monitor LDL-C and treat if appropriate after initiating INVOKANA.
 
-## 5.9 Macrovascular Outcomes
+## 5.11 Macrovascular Outcomes
 
 There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with INVOKANA or any other antidiabetic drug.
