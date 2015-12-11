@@ -1,0 +1,113 @@
+# 2 DOSAGE AND ADMINISTRATION
+
+## 2.1 Dosing Instructions for CLL
+
+Recommended Dosage:
+
+The recommended dose is 100 mg/m2 administered intravenously over 10 minutes on Days 1 and 2 of a 28-day cycle, up to 6 cycles.
+
+Dose Delays, Dose Modifications and Reinitiation of Therapy for CLL:
+
+BENDEKA (bendamustine hydrochloride) Injection administration should be delayed in the event of Grade 4 hematologic toxicity or clinically significant greater than or equal to Grade 2 non-hematologic toxicity.
+Once non-hematologic toxicity has recovered to less than or equal to Grade 1 and/or the blood counts have improved [Absolute Neutrophil Count (ANC) greater than or equal to 1 x 109/L, platelets greater than or equal to 75 x 109/L], BENDEKA (bendamustine hydrochloride) Injection can be reinitiated at the discretion of the treating physician.
+In addition, dose reduction may be warranted.
+[see Warnings and Precautions (5.1)]
+
+Dose modifications for hematologic toxicity: for Grade 3 or greater toxicity, reduce the dose to 50 mg/m2 on Days 1 and 2 of each cycle; if Grade 3 or greater toxicity recurs, reduce the dose to 25 mg/m2 on Days 1 and 2 of each cycle.
+
+Dose modifications for non-hematologic toxicity: for clinically significant Grade 3 or greater toxicity, reduce the dose to 50 mg/m2 on Days 1 and 2 of each cycle.
+
+Dose re-escalation in subsequent cycles may be considered at the discretion of the treating physician.
+
+## 2.2 Dosing Instructions for NHL
+
+Recommended Dosage:
+
+The recommended dose is 120 mg/m2 administered intravenously over 10 minutes on Days 1 and 2 of a 21-day cycle, up to 8 cycles.
+
+Dose Delays, Dose Modifications and Reinitiation of Therapy for NHL:
+
+BENDEKA (bendamustine hydrochloride) Injection administration should be delayed in the event of a Grade 4 hematologic toxicity or clinically significant greater than or equal to Grade 2 non-hematologic toxicity.
+Once non-hematologic toxicity has recovered to less than or equal to Grade 1 and/or the blood counts have improved [Absolute Neutrophil Count (ANC) greater than or equal to 1 x 109/L, platelets greater than or equal to 75 x 109/L], BENDEKA (bendamustine hydrochloride) Injection can be reinitiated at the discretion of the treating physician.
+In addition, dose reduction may be warranted.
+[see Warnings and Precautions (5.1)]
+
+Dose modifications for hematologic toxicity: for Grade 4 toxicity, reduce the dose to 90 mg/m2 on Days 1 and 2 of each cycle; if Grade 4 toxicity recurs, reduce the dose to 60 mg/m2 on Days 1 and 2 of each cycle.
+
+Dose modifications for non-hematologic toxicity: for Grade 3 or greater toxicity, reduce the dose to 90 mg/m2 on Days 1 and 2 of each cycle; if Grade 3 or greater toxicity recurs, reduce the dose to 60 mg/m2 on Days 1 and 2 of each cycle.
+
+## 2.3 Preparation for Intravenous Administration
+
+BENDEKA (bendamustine hydrochloride) Injection is a cytotoxic drug.
+Follow applicable special handling and disposal procedures.1
+
+BENDEKA is in a multiple-dose vial.
+BENDEKA is a clear, and colorless to yellow ready-to-dilute solution.
+Allow vial to reach room temperature.
+If particulate matter is observed, the product should not be used.
+
+Intravenous Infusion
+
+- Aseptically withdraw the volume needed for the required dose from the 25 mg/mL solution as per Table A below and immediately transfer the solution to a 50 mL infusion bag of one of the following diluents:
+  - - 0.9% Sodium Chloride Injection, USP; or
+  - - 2.5% Dextrose/0.45% Sodium Chloride Injection, USP; or
+  - - 5% Dextrose Injection, USP.
+
+The resulting final concentration of bendamustine hydrochloride in the infusion bag should be within 1.85 mg/mL – 5.6 mg/mL.
+After transferring, thoroughly mix the contents of the infusion bag.
+The admixture should be a clear, and colorless to yellow solution.
+
+No other diluents have been shown to be compatible.
+The 5% Dextrose Injection, USP, offers a sodium-free method of administration for patients with certain medical conditions requiring restricted sodium intake.
+
+Table A: Volume (mL) of BENDEKA required for dilution into 50 mL of 0.9% saline, or 0.45% saline/2.5% dextrose or 5% dextrose for a given dose (mg/m2) and Body Surface Area (m2)
+
+| 120 mg/m2 | 100 mg/m2 | 90 mg/m2 | 60 mg/m2 | 50 mg/m2 | 25 mg/m2 |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Body Surface Area (m2) | Volume of BENDEKA to withdraw (mL) |  |  |  |  |  |
+| 1 | 4.8 | 4 | 3.6 | 2.4 | 2 | 1 |
+| 1.1 | 5.3 | 4.4 | 4 | 2.6 | 2.2 | 1.1 |
+| 1.2 | 5.8 | 4.8 | 4.3 | 2.9 | 2.4 | 1.2 |
+| 1.3 | 6.2 | 5.2 | 4.7 | 3.1 | 2.6 | 1.3 |
+| 1.4 | 6.7 | 5.6 | 5 | 3.4 | 2.8 | 1.4 |
+| 1.5 | 7.2 | 6 | 5.4 | 3.6 | 3 | 1.5 |
+| 1.6 | 7.7 | 6.4 | 5.8 | 3.8 | 3.2 | 1.6 |
+| 1.7 | 8.2 | 6.8 | 6.1 | 4.1 | 3.4 | 1.7 |
+| 1.8 | 8.6 | 7.2 | 6.5 | 4.3 | 3.6 | 1.8 |
+| 1.9 | 9.1 | 7.6 | 6.8 | 4.6 | 3.8 | 1.9 |
+| 2 | 9.6 | 8 | 7.2 | 4.8 | 4 | 2 |
+| 2.1 | 10.1 | 8.4 | 7.6 | 5 | 4.2 | 2.1 |
+| 2.2 | 10.6 | 8.8 | 7.9 | 5.3 | 4.4 | 2.2 |
+| 2.3 | 11 | 9.2 | 8.3 | 5.5 | 4.6 | 2.3 |
+| 2.4 | 11.5 | 9.6 | 8.6 | 5.8 | 4.8 | 2.4 |
+| 2.5 | 12 | 10 | 9 | 6 | 5 | 2.5 |
+| 2.6 | 12.5 | 10.4 | 9.4 | 6.2 | 5.2 | 2.6 |
+| 2.7 | 13 | 10.8 | 9.7 | 6.5 | 5.4 | 2.7 |
+| 2.8 | 13.4 | 11.2 | 10.1 | 6.7 | 5.6 | 2.8 |
+| 2.9 | 13.9 | 11.6 | 10.4 | 7 | 5.8 | 2.9 |
+| 3 | 14.4 | 12 | 10.8 | 7.2 | 6 | 3 |
+
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
+Any unused solution should be discarded according to institutional procedures for antineoplastics.
+
+## 2.4 Admixture Stability
+
+BENDEKA (bendamustine hydrochloride) Injection contains no antimicrobial preservative.
+The admixture should be prepared as close as possible to the time of patient administration.
+
+If diluted with 0.9% Sodium Chloride Injection, USP, or 2.5% Dextrose/0.45% Sodium Chloride Injection, USP, the final admixture is stable for 24 hours when stored refrigerated (2-8°C or 36-46°F) or for 6 hours when stored at room temperature (15-30°C or 59-86°F) and room light.
+Administration of diluted BENDEKA (bendamustine hydrochloride) Injection must be completed within this period of time.
+
+In the event that 5% Dextrose Injection, USP is utilized, the final admixture is stable for 24 hours when stored refrigerated (2-8°C or 36-46°F) or for only 3 hours when stored at room temperature (15-30°C or 59-86°F) and room light.
+Administration of diluted BENDEKA must be completed within this period of time.
+
+Retain the partially used vial in original package to protect from light and store refrigerated (2-8°C or 36-46°F) if additional dose withdraw from the same vial is intended.
+
+## 2.5 Stability of Partially Used Vials (Needle Punched Vials)
+
+BENDEKA is supplied in a multiple-dose vial.
+Although it does not contain any antimicrobial preservative, BENDEKA is bacteriostatic.
+The partially used vials are stable for up to 28 days when stored in its original carton under refrigeration (2-8°C or 36-46°F).
+Each vial is not recommended for more than a total of six (6) dose withdrawals.
+
+After first use, the partially used vial should be stored in the refrigerator in the original carton at 2°C to 8°C or 36-46°F and then discarded after 28 days.

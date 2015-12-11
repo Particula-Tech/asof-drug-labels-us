@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA208194"
+  ],
+  "inn": "bendamustine",
+  "labeler": "Teva Pharmaceuticals USA, Inc.",
+  "package_ndcs": [
+    "63459-348-04"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "bendamustine hydrochloride",
+      "name": "BENDEKA"
+    }
+  ],
+  "setid": "ace9a43b-f9bd-4896-abfe-0ef4fec67ddf",
+  "source": "dailymed"
+}
