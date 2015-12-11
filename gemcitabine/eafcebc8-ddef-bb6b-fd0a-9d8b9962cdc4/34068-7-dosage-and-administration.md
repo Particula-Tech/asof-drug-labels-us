@@ -12,7 +12,7 @@ Refer to carboplatin prescribing information for additional information.
 
 Dose Modifications
 
-Recommended gemcitabine for injection dose modifications for myelosuppression are described Table 1 and Table 2 [see Warnings and Precautions (5.2)].
+Recommended gemcitabine for injection dose modifications for myelosuppression are described in Table 1 and Table 2 [see Warnings and Precautions (5.2)].
 Refer to Dosage and Administration (2.5) for recommendations for non-hematologic adverse reactions.
 
 Table 1: Dosage Reduction Guidelines for Gemcitabine For Injection for Myelosuppression on Day of Treatment in Ovarian Cancer
@@ -21,8 +21,8 @@ Table 1: Dosage Reduction Guidelines for Gemcitabine For Injection for Myelosupp
 | --- | --- | --- | --- | --- |
 | Day 1 | ≥1500 | and | ≥100,000 | 100% |
 |  | <1500 | or | <100,000 | Delay Treatment Cycle |
-| Day 8 | ≥1500 | and | ≥100,000 | 100 |
-|  | 1000 to 1499 | or | 75,000 to 99,999 | 50 |
+| Day 8 | ≥1500 | and | ≥100,000 | 100% |
+|  | 1000 to 1499 | or | 75,000 to 99,999 | 50% |
 |  | <1000 | or | <75,000 | Hold |
 
 Table 2: Gemcitabine For Injection Dose Modification for Myelosuppression in Previous Cycle In Ovarian Cancer
@@ -75,7 +75,7 @@ Refer to Dosage and Administration (2.5) for gemcitabine for injection recommend
 Recommended Dose and Schedule
 
 The recommended dose of gemcitabine for injection is 1000 mg/m2 over 30 minutes intravenously.
-The recommended treatment schedule
+The recommended treatment schedule is as follows:
 
 • Weeks 1 to 8: weekly dosing for the first 7 weeks followed by one week rest.
 
@@ -93,18 +93,18 @@ Table 4: Recommended Dose Reductions for Gemcitabine For Injection for Myelosupp
 
 | Absolute granulocyte count (x 106/L) |  | Platelet count(x 106/L) | % of full dose |
 | --- | --- | --- | --- |
-| ≥1000 | And | ≥100,000 | 100 |
-| 500 to 999 | Or | 50,000 to 99,999 | 75 |
+| ≥1000 | And | ≥100,000 | 100% |
+| 500 to 999 | Or | 50,000 to 99,999 | 75% |
 | <500 | Or | <50,000 | Hold |
 
 ## 2.5 Dose Modifications for Non-Hematologic Adverse Reactions
 
-Permanently discontinue gemcitabine for injection for any of the following
+Permanently discontinue gemcitabine for injection for any of the following:
 
 - Unexplained dyspnea or other evidence of severe pulmonary toxicity
 - Severe hepatic toxicity
-- Hemolytic-Uremic Syndrome
-- Capillary Leak Syndrome
+- Hemolytic-uremic syndrome
+- Capillary leak syndrome
 - Posterior reversible encephalopathy syndrome
 
 Withhold gemcitabine for injection or reduce dose by 50% for other severe (Grade 3 or 4) non-hematological toxicity until resolved.

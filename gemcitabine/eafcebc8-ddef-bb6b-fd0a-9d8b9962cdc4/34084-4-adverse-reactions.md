@@ -2,12 +2,12 @@
 
 The following serious adverse reactions are discussed in greater detail in another section of the label
 
-- Schedule-Dependent Toxicity [see Warnings and Precautions (5.1)]
+- Schedule-dependent Toxicity [see Warnings and Precautions (5.1)]
 - Myelosuppression [see Warnings and Precautions (5.2)]
 - Pulmonary Toxicity and Respiratory Failure [see Warnings and Precautions (5.3)]
 - Hemolytic Uremic Syndrome [see Warnings and Precautions (5.4)]
 - Hepatic Toxicity [see Warnings and Precautions (5.5)]
-- Embryo-fetal Toxicity [see Warnings and Precautions (5.6), Use in Specific Populations (8.1), and Nonclinical Toxicology (13.1)].
+- Embryofetal Toxicity [see Warnings and Precautions (5.6), Use in Specific Populations (8.1), and Nonclinical Toxicology (13.1)].
 - Posterior Reversible Encephalopathy Syndrome [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
@@ -187,6 +187,8 @@ Table 7: Per-Patient Incidence of Selected Adverse Reactions in Randomized Trial
 | Stomatitis | 20 | 4 | 0 | 18 | 2 | 0 |
 | Somnolence | 3 | 0 | 0 | 3 | 2 | 0 |
 | Paresthesias | 38 | 0 | 0 | 16 | 2 | 0 |
+| Flu-like syndromeg | 3 | - | - | 0 | - | - |
+| Edemag | 12 | - | - | 2 | - | - |
 
 a Grade based on criteria from the World Health Organization (WHO).
 
@@ -201,13 +203,13 @@ dRegardless of causality.
 e WHO grading scale not applicable to proportion of patients with transfusions
 
 fNon–laboratory events were graded only if assessed to be possibly drug–related.
+Pain data were not collected.
 
-g Pain data were not collected.
+g Flu-like syndrome and edema were not graded.
 
-- Flu-like syndrome: 3% in the gemcitabine for injection/cisplatin arm versus none in the etoposide/cisplatin arm.
-- Edema: 12% in the gemcitabine for injection/cisplatin arm versus 2% in the etoposide/cisplaarm.tin
+Breast Cancer
 
-Breast CancerTable 8 presents the incidence of selected adverse reactions, occurring in ≥10% of gemcitabine for injection-treated patients and at a higher incidence in the gemcitabine for injection plus paclitaxel arm, reported in a randomized trial of gemcitabine for injection plus paclitaxel (n=262) compared to paclitaxel alone (n=259) for the first-line treatment of metastatic breast cancer (MBC) in women who received anthracycline-containing chemotherapy in the adjuvant/neo-adjuvant setting or for whom anthracyclines were contraindicated.
+Table 8 presents the incidence of selected adverse reactions, occurring in ≥10% of gemcitabine for injection-treated patients and at a higher incidence in the gemcitabine for injection plus paclitaxel arm, reported in a randomized trial of gemcitabine for injection plus paclitaxel (n=262) compared to paclitaxel alone (n=259) for the first-line treatment of metastatic breast cancer (MBC) in women who received anthracycline-containing chemotherapy in the adjuvant/neo-adjuvant setting or for whom anthracyclines were contraindicated.
 [see Clinical Studies (14.2)].
 
 The requirement for dose reduction of paclitaxel were higher for patients in the gemcitabine for injection/paclitaxel arm (5% versus 2%).
@@ -238,6 +240,7 @@ Table 8: Per-Patient Incidence of Selected Adverse Reactions from Comparative Tr
 | Stomatitis/ pharyngitis | 13 | 1 | <1 | 8 | <1 | 0 |
 | Fever | 13 | <1 | 0 | 3 | 0 | 0 |
 | Rash/ desquamation | 11 | <1 | <1 | 5 | 0 | 0 |
+| Febrile neutropenia | 6 | 5 | <1 | 2 | 1 | 0 |
 
 a Severity grade based on National Cancer Institute Common Toxicity Criteria (CTC) Version 2.0
 
@@ -245,7 +248,7 @@ b Regardless of causality.
 
 c Non–laboratory events were graded only if assessed to be possibly drug–relate
 
-The following clinically relevant, Grade 3 or 4 adverse reactions occurred with a higher incidence in the gemcitabine for injection plus paclitaxel arm compared with paclitaxel arm: febrile neutropenia (5% versus 1.2%) and dyspnea (1.9%versus 0)
+Clinically relevant Grade 3 or 4 dyspnea occurred with a higher incidence in the gemcitabine for injection plus paclitaxel arm compared with paclitaxel arm: (1.9%versus 0)
 
 Ovarian Cancer
 
@@ -294,9 +297,9 @@ The following clinically relevant, Grade 3 and 4 adverse reactions occurred more
 The following adverse reactions have been identified during post-approval use of gemcitabine for injection.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Cardiovascular — Congestive heart failure, myocardial infarction, Arrhythmias, supraventricular arrhythmias.
+Cardiovascular — Congestive heart failure, myocardial infarction, arrhythmias, supraventricular arrhythmias
 
-Vascular Disorders — Peripheral vasculitis, gangrene, and capillary leak syndrome [see Warnings and Precautions (5.9)]
+Vascular Disorders — Peripheral vasculitis, gangrene, and capillary leak syndrome [see Warnings and Precautions (5.8)]
 
 Skin — Cellulitis, severe skin reactions, including desquamation and bullous skin eruptions
 

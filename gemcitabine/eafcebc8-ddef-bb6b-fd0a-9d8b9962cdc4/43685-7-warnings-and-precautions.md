@@ -22,11 +22,11 @@ Discontinue gemcitabine for injection in patients who develop unexplained dyspne
 
 ## 5.4 Hemolytic Uremic Syndrome
 
-Hemolytic Uremic Syndrome to include fatalities from renal failure or the requirement for dialysis can occur in patients treated with gemcitabine for injection.
+Hemolytic uremic syndrome, including fatalities from renal failure or the requirement for dialysis can occur in patients treated with gemcitabine for injection.
 In clinical trials, HUS was reported in 6 of 2429 patients (0.25%).
 Most fatal cases of renal failure were due to HUS [see Adverse Reactions (6.1 and 6.2)].
 Assess renal function prior to initiation of gemcitabine for injection and periodically during treatment.
-Consider the diagnosis of HUS in patients who develops anemia with evidence of microangiopathic hemolysis, elevation of bilirubin or LDH, or reticulocytosis; severe thrombocytopenia; or evidence of renal failure (elevation of serum creatinine or BUN) [see Dosage and Administration (2.5) and Use In Specific Populations (8.6)].
+Consider the diagnosis of HUS in patients who develops anemia with evidence of microangiopathic hemolysis, elevation of bilirubin or LDH, or reticulocytosis; severe thrombocytopenia; or evidence of renal failure (elevation of serum creatinine or BUN) [see Dosage and Administration (2.5) and Use in Specific Populations (8.6)].
 Permanently discontinue gemcitabine for injection in patients with HUS or severe renal impairment.
 Renal failure may not be reversible even with discontinuation of therapy.
 Renal failure may not be reversible even with discontinuation of therapy.

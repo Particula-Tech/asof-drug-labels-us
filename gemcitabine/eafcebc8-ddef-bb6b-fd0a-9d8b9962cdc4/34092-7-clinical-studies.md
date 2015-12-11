@@ -45,25 +45,25 @@ Table 12: Randomized Trial of Gemcitabine For Injection plus Carboplatin versus 
 | Hazard Ratio (95% CI) | 0.98 (0.78, 1.24) |  |
 | p-valueb | p=0.8977 |  |
 | Investigator Reviewed Overall Response Rate | 47.2% | 30.9% |
-| p-valuee | p=0.0016 |  |
+| p-valuec | p=0.0016 |  |
 | CRd PR plus PRNMe | 14.6% 32.6% | 6.2% 24.7% |
 | Independently Reviewed Overall Response Ratef | 46.3% | 35.6% |
-| p-valuee | p=0.11 |  |
+| p-valuec | p=0.11 |  |
 | CRd PR plus PRNMe | 9.1% 37.2% | 4% 31.7% |
 
-a CI=confidence interval
+a CI=confidence interval.
 
-b Complete response
+b log Rank, unadjusted.
 
-c Partial response plus partial response, non-measurable disease
+c Chi square.
 
-d log Rank, unadjusted
+d CR-Complete response.
 
-e chi Square
+e PR plus PRNM - Partial response plus partial response, non-measurable disease.
 
 f Independently reviewed cohort –gemcitabine for injection/carboplatin (n=121), carboplatin (n=101); independent reviewers unable to measure disease detected by sonography or physical exam
 
-Figure 1: Kaplan–Meier Curve of Progression Free Survival in Gemcitabine For Injection Plus Carboplatin Versus Carboplatin in Ovarian Cancer (N=356)
+Figure 1: Kaplan–Meier Curve of Progression Free Survival in Gemcitabine For Injection Plus Carboplatin Versus Carboplatin in Ovarian Cancer (N=356).
 
 ## 14.2 Breast Cancer
 
@@ -98,7 +98,7 @@ a Karnofsky Performance Status.
 
 b These represent reconciliation of investigator and Independent Review Committee assessments according to a predefined algorithm. c Based on the ITT population
 
-Figure 2: Kaplan–Meier Curve of Time to Documented Disease Progression in Gemcitabine For Injection Plus Paclitaxel versus Paclitaxel Breast Cancer Study (N=529)
+Figure 2: Kaplan–Meier Curve of Time to Documented Disease Progression in Gemcitabine For Injection Plus Paclitaxel versus Paclitaxel Breast Cancer Study (N=529).
 
 ## 14.3 Non-Small Cell Lung Cancer (NSCLC)
 
@@ -110,15 +110,15 @@ A multinational, randomized trial compared gemcitabine for injection plus cispla
 Patients were randomized to receive gemcitabine for injection 1000 mg/m2 on Days 1, 8, and 15 of a 28-day cycle with cisplatin 100 mg/m2 administered on Day 1 of each cycle or to receive cisplatin 100 mg/m2 on Day 1 of each 28-day cycle.
 The primary efficacy outcome measure was overall survival.
 A total of 522 patients were enrolled at clinical centers in Europe, the US, and Canada.
-Patient demographics and baseline characteristics (shown in Table 13) were similar between arms with the exception of histologic subtype of NSCLC, with 48% of patients on the cisplatin arm and 37% of patients on the gemcitabine for injection plus cisplatin arm having adenocarcinoma.
-Efficacy results are presented in Table 13 and Figure 3 for overall survival.
+Patient demographics and baseline characteristics (shown in Table 14) were similar between arms with the exception of histologic subtype of NSCLC, with 48% of patients on the cisplatin arm and 37% of patients on the gemcitabine for injection plus cisplatin arm having adenocarcinoma.
+Efficacy results are presented in Table 14 and Figure 3 for overall survival.
 
 21-Day Schedule
 
 A randomized (1:1), multicenter trial was conducted in 135 patients with Stage IIIB or IV NSCLC.
 Patients were randomized to receive gemcitabine for injection 1250 mg/m2 on Days 1 and 8, and cisplatin 100 mg/m2 on Day 1 of a 21-day cycle or to receive etoposide 100 mg/m2 intravenously on Days 1, 2, and 3 and cisplatin 100 mg/m2 on Day 1 of a 21 -day cycle.
 
-There was no significant difference in survival between the two treatment arms (Log rank p=0.18, two-sided).
+There was no significant difference in survival between the two treatment arms (Log rank p=0.18, two-sided, see Table 14).
 The median survival was 8.7 months for the gemcitabine for injection plus cisplatin arm versus 7 months for the etoposide plus cisplatin arm.
 Median time to disease progression for the gemcitabine for injection plus cisplatin arm was 5 months compared to 4.1 months on the etoposide plus cisplatin arm (Log rank p=0.015, two-sided).
 The objective response rate for the gemcitabine for injection plus cisplatin arm was 33% compared to 14% on the etoposide plus cisplatin arm (Fisher’s Exact p=0.01, two-sided).
@@ -170,7 +170,7 @@ The first trial randomized patients to receive gemcitabine for injection 1000 mg
 In the second trial, all patients received gemcitabine for injection 1000 mg/m2 intravenously over 30 minutes once weekly for 7 weeks followed by a one-week rest, then once weekly dosing for 3 consecutive weeks every 28-days in subsequent cycles.
 
 The primary efficacy outcome measure in both trials was "clinical benefit response".
-A patient was considered to have had a clinical benefit response if either occurred:
+A patient was considered to have had a clinical benefit response if either of the following occurred:
 
 The patient achieved a ≥50% reduction in pain intensity (Memorial Pain Assessment Card) or analgesic consumption, or a 20-point or greater improvement in performance status (Karnofsky Performance Status) for a period of at least 4 consecutive weeks, without showing any sustained worsening in any of the other parameters.
 Sustained worsening was defined as 4 consecutive weeks with either any increase in pain intensity or analgesic consumption or a 20-point decrease in performance status occurring during the first 12 weeks of therapy.
