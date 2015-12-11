@@ -4,4 +4,4 @@ XIGDUO XR (dapagliflozin and metformin HCl extended-release) is indicated as an 
 
 ## 1.1 Limitations of Use
 
-XIGDUO XR is not recommended for patients with type 1 diabeties mellitus or diabetic ketoacidosis.
+XIGDUO XR is not recommended for patients with type 1 diabetes mellitus or diabetic ketoacidosis.

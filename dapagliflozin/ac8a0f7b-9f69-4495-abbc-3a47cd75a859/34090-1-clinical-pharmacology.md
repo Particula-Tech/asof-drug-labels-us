@@ -16,7 +16,7 @@ Metformin hydrochloride
 
 Metformin improves glucose tolerance in patients with type 2 diabetes, lowering both basal and postprandial plasma glucose.
 Metformin decreases hepatic glucose production, decreases intestinal absorption of glucose, and improves insulin sensitivity by increasing peripheral glucose uptake and utilization.
-Metformin does not produce hypoglycemia in either patients with type 2 diabetes or in healthy subjects, except in unusual circumstances [see Warnings and Precautions (5.8)], and does not cause hyperinsulinemia.
+Metformin does not produce hypoglycemia in either patients with type 2 diabetes or in healthy subjects, except in unusual circumstances [see Warnings and Precautions (5.10)], and does not cause hyperinsulinemia.
 With metformin therapy, insulin secretion remains unchanged while fasting insulin levels and day-long plasma insulin response may actually decrease.
 
 ## 12.2 Pharmacodynamics
@@ -39,7 +39,7 @@ In addition, no clinically meaningful effect on QTc interval was observed follow
 
 XIGDUO XR
 
-XIGDUO XR combination tablets are considered to be bioequivalent to coadministration of corresponding doses of dapagliflozin (FARXIGA™) and metformin hydrochloride extended-release (GLUCOPHAGE® XR) administered together as individual tablets.
+XIGDUO XR combination tablets are considered to be bioequivalent to coadministration of corresponding doses of dapagliflozin (FARXIGA®) and metformin hydrochloride extended-release (GLUCOPHAGE® XR) administered together as individual tablets.
 
 The administration of XIGDUO XR in healthy subjects after a standard meal compared to the fasted state resulted in the same extent of exposure for both dapagliflozin and metformin extended-release.
 Compared to the fasted state, the standard meal resulted in 35% reduction and a delay of 1 to 2 hours in the peak plasma concentrations of dapagliflozin.
@@ -130,7 +130,7 @@ In patients with decreased renal function (based on measured creatinine clearanc
 XIGDUO XR
 
 Use of metformin in patients with hepatic impairment has been associated with some cases of lactic acidosis.
-Because XIGDUO XR contains metformin, XIGDUO XR should generally be avoided in patients with hepatic impairment [see Warnings and Precautions (5.5)].
+Because XIGDUO XR contains metformin, XIGDUO XR should generally be avoided in patients with hepatic impairment [see Warnings and Precautions (5.7)].
 
 Dapagliflozin
 

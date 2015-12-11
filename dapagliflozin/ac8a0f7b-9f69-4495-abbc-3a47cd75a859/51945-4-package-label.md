@@ -4,7 +4,7 @@
 
 NDC0310-6250-30
 
-xigduo™XR
+xigduo®XR
 
 (dapagliflozin/metformin HCl
 
@@ -22,7 +22,7 @@ Tablets must be swallowed whole.
 
 AstraZeneca
 
-1338337
+1362339
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 5 mg/1000 mg
 
@@ -30,7 +30,7 @@ AstraZeneca
 
 NDC 0310-6260-30
 
-xigduo™XR
+xigduo®XR
 
 (dapagliflozin/metformin HCl
 
@@ -48,7 +48,7 @@ Tablets must be swallowed whole.
 
 AstraZeneca
 
-1338287
+1362340
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 10 mg/500 mg
 
@@ -56,7 +56,7 @@ AstraZeneca
 
 NDC 0310-6270-30
 
-xigduo™XR
+xigduo®XR
 
 (dapagliflozin/metformin HCl
 
@@ -74,7 +74,7 @@ Tablets must be swallowed whole.
 
 AstraZeneca
 
-1338229
+1362342
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 10 mg/1000 mg
 
@@ -82,7 +82,7 @@ AstraZeneca
 
 NDC 0310-6280-30
 
-xigduo™XR
+xigduo®XR
 
 (dapagliflozin/metformin HCl
 
@@ -100,4 +100,4 @@ Tablets must be swallowed whole.
 
 AstraZeneca
 
-1338405
+1362376

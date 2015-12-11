@@ -10,11 +10,11 @@ Inform patients of the potential risks and benefits of XIGDUO XR and of alternat
 Also inform patients about the importance of adherence to dietary instructions, regular physical activity, periodic blood glucose monitoring and HbA1c testing, recognition and management of hypoglycemia and hyperglycemia, and assessment of diabetes complications.
 Advise patients to seek medical advice promptly during periods of stress such as fever, trauma, infection, or surgery, as medication requirements may change.
 
-Counsel patients against excessive alcohol intake while receiving XIGDUO XR [see Warnings and Precautions (5.6)].
+Counsel patients against excessive alcohol intake while receiving XIGDUO XR [see Warnings and Precautions (5.8)].
 
 Inform patients about the importance of regular testing of renal function and hematological parameters when receiving treatment with XIGDUO XR [see Contraindications (4) and Warnings and Precautions (5.3)].
 
-Inform patients that the incidence of hypoglycemia may be increased when XIGDUO XR is added to an insulin secretagogue (e.g., sulfonylurea) or insulin [see Warnings and Precautions (5.9)].
+Inform patients that the incidence of hypoglycemia may be increased when XIGDUO XR is added to an insulin secretagogue (e.g., sulfonylurea) or insulin [see Warnings and Precautions (5.11)].
 
 Instruct patient to immediately inform her healthcare provider if she is pregnant or plans to become pregnant.
 Based on animal data, XIGDUO XR may cause fetal harm in the second and third trimesters of pregnancy.
@@ -42,27 +42,34 @@ Hypotension
 Inform patients that symptomatic hypotension may occur with XIGDUO XR and advise them to contact their healthcare provider if they experience such symptoms [see Warnings and Precautions (5.4)].
 Inform patients that dehydration may increase the risk for hypotension, and to have adequate fluid intake.
 
+Ketoacidosis
+
+Inform patients that ketoacidosis has been reported during use of dapagliflozin.
+Instruct patients to check ketones (when possible) if symptoms of ketoacidosis occur even if blood glucose is not elevated.
+If symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness, and labored breathing) occur, instruct patients to discontinue XIGDUO XR and seek medical advice immediately.
+[see Warnings and Precautions (5.5)].
+
+Serious Urinary Tract Infections
+
+Inform patients of the potential for urinary tract infections, which may be serious.
+Provide them with information on the symptoms of urinary tract infections.
+Advise them to seek medical advice promptly if such symptoms occur [see Warnings and Precautions (5.6)].
+
 Genital Mycotic Infections in Females (e.g., Vulvovaginitis)
 
 Inform female patients that vaginal yeast infections may occur and provide them with information on the signs and symptoms of vaginal yeast infections.
-Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.13)].
+Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.15)].
 
 Genital Mycotic Infections in Males (e.g., Balanitis)
 
 Inform male patients that yeast infections of the penis (e.g., balanitis or balanoposthitis) may occur, especially in patients with prior history.
 Provide them with information on the signs and symptoms of balanitis and balanoposthitis (rash or redness of the glans or foreskin of the penis).
-Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.13)].
+Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.15)].
 
 Hypersensitivity Reactions
 
 Inform patients that serious hypersensitivity reactions (e.g., urticaria and angioedema) have been reported with the components of XIGDUO XR.
 Advise patients to immediately report any signs or symptoms suggesting allergic reaction or angioedema, and to take no more of the drug until they have consulted prescribing physicians.
-
-Urinary Tract Infections
-
-Inform patients of the potential for urinary tract infections.
-Provide them with information on the symptoms of urinary tract infections.
-Advise them to seek medical advice if such symptoms occur.
 
 Bladder Cancer
 
@@ -74,7 +81,7 @@ Due to the mechanism of action of dapagliflozin, patients taking XIGDUO XR will 
 
 GLUCOPHAGE® is a registered trademark of Merck Santé S.A.S., a subsidiary of Merck KGaA of Darmstadt, Germany, licensed to Bristol-Myers Squibb Company.
 
-FARXIGA™ is a trademark of the AstraZeneca group of companies.
+FARXIGA® is a trademark of the AstraZeneca group of companies.
 
 Distributed by:
 
@@ -82,4 +89,4 @@ AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-1333894 October 2014
+12/2015
