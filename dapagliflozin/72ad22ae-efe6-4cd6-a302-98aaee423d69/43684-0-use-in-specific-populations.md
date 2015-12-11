@@ -48,7 +48,7 @@ In patients ≥65 years of age, a higher proportion of patients treated with FAR
 ## 8.6 Renal Impairment
 
 The safety and efficacy of FARXIGA were evaluated in a study that included patients with moderate renal impairment (eGFR 30 to less than 60 mL/min/1.73 m2).
-Compared to placebo-treated patients, patients with moderate renal impairment treated with FARXIGA did not have improvement in glycemic control [see Clinical Studies (14.7)] and had more renal-related adverse reactions and more bone fractures [see Dosage and Administration (2.2), Warnings and Precautions (5.2), and Adverse Reactions (6.1)]; therefore, FARXIGA should not be initiated in this population.
+Compared to placebo-treated patients, patients with moderate renal impairment treated with FARXIGA did not have improvement in glycemic control [see Clinical Studies (14.7)] and had more renal-related adverse reactions and more bone fractures [see Dosage and Administration (2.2), Warnings and Precautions (5.3), and Adverse Reactions (6.1)]; therefore, FARXIGA should not be initiated in this population.
 
 Based on its mechanism of action, FARXIGA is not expected to be effective in patients with severe renal impairment (eGFR less than 30 mL/min/1.73 m2) or ESRD [see Contraindications (4)].
 

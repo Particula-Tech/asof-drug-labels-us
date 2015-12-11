@@ -3,11 +3,14 @@
 The following important adverse reactions are described below and elsewhere in the labeling:
 
 - •Hypotension [see Warnings and Precautions (5.1)]
-- •Impairment in Renal Function [see Warnings and Precautions (5.2)]
-- •Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.3)]
-- •Genital Mycotic Infections [see Warnings and Precautions (5.4)]
-- •Increases in Low-Density Lipoprotein Cholesterol (LDL‑C) [see Warnings and Precautions (5.5)]
-- •Bladder Cancer [see Warnings and Precautions (5.6)]
+- •Ketoacidosis [see Warnings and Precautions (5.2)]
+- •Impairment in Renal Function [see Warnings and Precautions (5.3)]
+- •Urosepsis and Pyelonephritis [see Warnings and Precautions (5.4)]
+- •Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.5)]
+- •Genital Mycotic Infections [see Warnings and Precautions (5.6)]
+- •Increases in Low-Density Lipoprotein Cholesterol (LDL‑C) [see Warnings and Precautions (5.7)]
+
+- 1.Bladder Cancer [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -187,3 +190,11 @@ Higher proportions of patients with marked laboratory abnormalities of hyperphos
 
 In the pool of 13 placebo-controlled studies, changes from baseline in mean lipid values were reported in FARXIGA-treated patients compared to placebo-treated patients.
 Mean percent changes from baseline at Week 24, were 0.0% versus 2.5% for total cholesterol and −1.0% versus 2.9% for LDL cholesterol, in the placebo and FARXIGA 10 mg groups, respectively.
+
+## 6.2 Postmarketing Experience
+
+Additional adverse reactions have been identified during postapproval use of FARXIGA.
+Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+- •Ketoacidosis [see Warnings and Precautions (5.2)]
+- •Urosepsis and Pyelonephritis [see Warnings and Precautions (5.4)]

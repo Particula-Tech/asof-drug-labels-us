@@ -32,22 +32,28 @@ Genital Mycotic Infections in Females (e.g., Vulvovaginitis)
 Inform female patients that vaginal yeast infections may occur and provide them with information on the signs and symptoms of vaginal yeast infections.
 Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.4)].
 
+Ketoacidosis
+
+Inform patients that ketoacidosis has been reported during use of FARXIGA.
+Instruct patients to check ketones (when possible) if symptoms consistent with ketoacidosis occur even if blood glucose is not elevated.
+If symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness and labored breathing) occur, instruct patients to discontinue FARXIGA and seek medical advice immediately [see Warnings and Precautions (5.2)].
+
+Serious Urinary Tract Infections
+
+Inform patients of the potential for urinary tract infections, which may be serious.
+Provide them with information on the symptoms of urinary tract infections.
+Advise them to seek medical advice promptly if such symptoms occur [see Warnings and Precautions (5.4)].
+
 Genital Mycotic Infections in Males (e.g., Balanitis)
 
 Inform male patients that yeast infections of the penis (e.g., balanitis or balanoposthitis) may occur, especially in patients with prior history.
 Provide them with information on the signs and symptoms of balanitis and balanoposthitis (rash or redness of the glans or foreskin of the penis).
-Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.4)].
+Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.6)].
 
 Hypersensitivity Reactions
 
 Inform patients that serious hypersensitivity reactions (e.g., urticaria and angioedema) have been reported with FARXIGA.
 Advise patients to immediately report any signs or symptoms suggesting allergic reaction or angioedema, and to take no more of the drug until they have consulted prescribing physicians.
-
-Urinary Tract Infections
-
-Inform patients of the potential for urinary tract infections.
-Provide them with information on the symptoms of urinary tract infections.
-Advise them to seek medical advice if such symptoms occur.
 
 Bladder Cancer
 
