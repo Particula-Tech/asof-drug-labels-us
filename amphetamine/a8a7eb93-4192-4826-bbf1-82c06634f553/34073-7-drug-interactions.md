@@ -9,7 +9,7 @@ Drugs having clinically important interactions with amphetamines.
 | --- | --- |
 | Clinical Impact | MAOI antidepressants slow amphetamine metabolism, increasing amphetamines effect on the release of norepinephrine and other monoamines from adrenergic nerve endings causing headaches and other signs of hypertensive crisis. Toxic neurological effects and malignant hyperpyrexia can occur, sometimes with fatal results. |
 | Intervention | Do not administer DYANAVEL XR during or within 14 days following the administration of MAOI [see Contraindications (4)]. |
-| Examples | selegiline, isocarboxazid, phenelzine, tranylcypromine |
+| Examples | Selegiline, isocarboxazid, phenelzine, tranylcypromine |
 | Alkalinizing Agents |  |
 | Clinical Impact | Increase blood levels and potentiate the action of amphetamine. |
 | Intervention | Co-administration of DYANAVEL XR and gastrointestinal alkalinizing agents should be avoided. |
@@ -21,11 +21,11 @@ Drugs having clinically important interactions with amphetamines.
 | Tricyclic Antidepressants |  |
 | Clinical Impact | May enhance the activity of tricyclic or sympathomimetic agents causing striking and sustained increases in the concentration of d-amphetamine in the brain; cardiovascular effects can be potentiated. |
 | Intervention | Monitor frequently and adjust or use alternative therapy based on clinical response. |
-| Examples | desipramine, protriptyline |
+| Examples | Desipramine, protriptyline |
 | Proton Pump Inhibitors |  |
 | Clinical Impact | Time to maximum concentration (Tmax) of amphetamine is increased compared to when administered alone. |
 | Intervention | Monitor patients for changes in clinical effect and adjust therapy based on clinical response. |
-| Example | omeprazole |
+| Example | Omeprazole |
 
 ## 7.2 Drug/Laboratory Test Interactions
 
