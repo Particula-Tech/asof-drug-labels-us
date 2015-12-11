@@ -206,7 +206,7 @@ Heart Rate and MAP Change at 1 Minute After the Initial Dose, By Age Group Treat
 General
 
 The neuromuscular blocking activity of cisatracurium is due to parent drug.
-Cisatracurium plasma concentration-time data following IV bolus administration are best described by a two-compartment open model (with elimination from both compartments) with an elimination half-life (t1/2β) of 22 minutes, a plasma clearance (CL) of 4.57 mL/min/kg, and a volume of distribution at steady state (Vss) of 145 mL/kg.
+Cisatracurium plasma concentration-time data following intravenous bolus administration are best described by a two-compartment open model (with elimination from both compartments) with an elimination half-life (t1/2β) of 22 minutes, a plasma clearance (CL) of 4.57 mL/min/kg, and a volume of distribution at steady state (Vss) of 145 mL/kg.
 Cisatracurium undergoes organ-independent Hofmann elimination (a chemical process dependent on pH and temperature) to form the monoquaternary acrylate metabolite and laudanosine, neither of which has any neuromuscular blocking activity (see Pharmacokinetics, Metabolism).
 Following administration of radiolabeled cisatracurium, 95% of the dose was recovered in the urine; less than 10% of the dose was excreted as unchanged parent drug.
 Laudanosine, a metabolite of cisatracurium (and atracurium) has been noted to cause transient hypotension and, in higher doses, cerebral excitatory effects when administered to several animal species.
@@ -288,7 +288,7 @@ Special Populations
 
 Geriatric Patients (≥ 65 years)
 
-The results of conventional pharmacokinetic analysis from a study of 12 healthy elderly patients and 12 healthy young adult patients receiving a single IV dose of 0.1 mg/kg cisatracurium are summarized in Table 6.
+The results of conventional pharmacokinetic analysis from a study of 12 healthy elderly patients and 12 healthy young adult patients receiving a single intravenous dose of 0.1 mg/kg cisatracurium are summarized in Table 6.
 Plasma clearances of cisatracurium were not affected by age; however, the volumes of distribution were slightly larger in elderly patients than in young patients resulting in slightly longer t1/2β values for cisatracurium.
 The rate of equilibration between plasma cisatracurium concentrations and neuromuscular block was slower in elderly patients than in young patients (mean ± SD keo: 0.071 ± 0.036 and 0.105 ± 0.021 minutes-1, respectively); there was no difference in the patient sensitivity to cisatracurium-induced block, as indicated by EC50 values (mean ± SD EC50: 91 ± 22 and 89 ± 23 ng/mL, respectively).
 These changes were consistent with the 1-minute slower times to maximum block in elderly patients receiving 0.1 mg/kg cisatracurium, when compared to young patients receiving the same dose.
@@ -434,4 +434,4 @@ Persons with certain pre-existing conditions or receiving certain drugs may requ
 
 Burns
 
-Patients with burns have been shown to develop resistance to nondepolarizing neuromuscular blocking agents, and may require individualization of dosing (see PRECAUTIONS).
+Patients with burns have been shown to develop resistance to non-depolarizing neuromuscular blocking agents, and may require individualization of dosing (see PRECAUTIONS).

@@ -1,6 +1,6 @@
 PACKAGE LABEL- PRINCIPAL DISPLAY- Cisatracurium 20 mL Single Use Vial Label
 
-Cisatracurium Besylate Injection
+Cisatracurium Besylate Injection, USP
 
 200 mg per 20 mL* (10 mg per mL)
 
@@ -15,7 +15,7 @@ Rx only
 
 PACKAGE LABEL- PRINCIPAL DISPLAY- Cisatracurium 20 mL Single Use Vial Carton Panel
 
-Cisatracurium Besylate Injection
+Cisatracurium Besylate Injection, USP
 
 200 mg per 20 mL* (10 mg per mL)
 
@@ -36,7 +36,7 @@ Rx only
 
 PACKAGE LABEL- PRINCIPAL DISPLAY- Cisatracurium 5 mL Single Use Vial Label
 
-Cisatracurium Besylate Injection
+Cisatracurium Besylate Injection, USP
 
 10 mg (base) per 5 mL (2 mg per mL)
 
@@ -49,7 +49,7 @@ Rx only
 
 PACKAGE LABEL- PRINCIPAL DISPLAY- Cisatracurium 5 mL Single Use Vial Carton Panel
 
-Cisatracurium Besylate Injection
+Cisatracurium Besylate Injection, USP
 
 10 mg per 5 mL* (2 mg per mL) Warning: Paralyzing Agent.
 Causes Respiratory Arrest.
@@ -66,7 +66,7 @@ Rx only
 
 PACKAGE LABEL- PRINCIPAL DISPLAY- Cisatracurium 10 mL Multiple Dose Vial Label
 
-Cisatracurium Besylate Injection
+Cisatracurium Besylate Injection, USP
 
 20 mg per 10 mL* (2 mg per mL)
 
@@ -78,7 +78,7 @@ For intravenous injection.
 
 PACKAGE LABEL- PRINCIPAL DISPLAY- Cisatracurium 10 mL Multiple Dose Vial Carton Panel
 
-Cisatracurium Besylate Injection
+Cisatracurium Besylate Injection, USP
 
 20 mg per 10 mL* (2 mg per mL)
 

@@ -65,7 +65,7 @@ Because MH can develop in the absence of established triggering agents, the clin
 ## Long-Term Use in the Intensive Care Unit (ICU)
 
 Long-term infusion (up to 6 days) of cisatracurium during mechanical ventilation in the ICU has been safely used in two studies.
-Dosage requirements may increase or decrease with time (seeCLINICAL PHARMACOLOGY, Individualization of Dosages).
+Dosage requirements may increase or decrease with time (see CLINICAL PHARMACOLOGY, Individualization of Dosages).
 
 Little information is available on the plasma levels and clinical consequences of cisatracurium metabolites that may accumulate during days to weeks of cisatracurium administration in ICU patients.
 Laudanosine, a major, biologically active metabolite of atracurium and cisatracurium without neuromuscular blocking activity, produces transient hypotension and, in higher doses, cerebral excitatory effects (generalized muscle twitching and seizures) when administered to several species of animals.
@@ -127,7 +127,7 @@ Teratogenic Effects
 
 Pregnancy Category B
 
-Teratology testing in nonventilated pregnant rats treated subcutaneously with maximum subparalyzing doses (4 mg/kg daily; equivalent to 8 x the human ED95 following a bolus dose of 0.2 mg/kg IV) and in ventilated rats treated intravenously with paralyzing doses of cisatracurium at 0.5 and 1 mg/kg; equivalent to 10 x and 20 x the human ED95 dose, respectively, revealed no maternal or fetal toxicity or teratogenic effects.
+Teratology testing in nonventilated pregnant rats treated subcutaneously with maximum subparalyzing doses (4 mg/kg daily; equivalent to 8 x the human ED95 following a bolus dose of 0.2 mg/kg intravenous) and in ventilated rats treated intravenously with paralyzing doses of cisatracurium at 0.5 and 1 mg/kg; equivalent to 10 x and 20 x the human ED95 dose, respectively, revealed no maternal or fetal toxicity or teratogenic effects.
 There are no adequate and well-controlled studies of cisatracurium in pregnant women.
 Because animal studies are not always predictive of human response, cisatracurium should be used during pregnancy only if clearly needed.
 
