@@ -1,6 +1,4 @@
-# CLINICAL PHARMACOLOGY
-
-Azathioprine is well absorbed following oral administration.
+CLINICAL PHARMACOLOGY: Azathioprine is well absorbed following oral administration.
 Maximum serum radioactivity occurs at 1 to 2 hours after oral 35S-azathioprine and decays with a half-life of 5 hours.
 This is not an estimate of the half-life of azathioprine itself but is the decay rate for all 35S-containing metabolites of the drug.
 Because of extensive metabolism, only a fraction of the radioactivity is present as azathioprine.
@@ -16,37 +14,38 @@ The cytotoxicity of azathioprine is due, in part, to the incorporation of 6-TGN 
 
 6-MP undergoes two major inactivation routes (Figure 1).
 One is thiol methylation, which is catalyzed by the enzyme thiopurine S-methyltransferase (TPMT), to form the inactive metabolite methyl-6-MP (6-MeMP).
-TPMT activity is controlled by a genetic polymorphism.1, 2, 3 For Caucasians and African Americans, approximately 10% of the population inherit one non-functional TPMT allele (heterozygous) conferring intermediate TPMT activity, and 0.3% inherit two TPMT non-functional alleles (homozygous) for low or absent TPMT activity.
+TPMT activity is controlled by a genetic polymorphism.
+1, 2, 3 For Caucasians and African Americans, approximately 10% of the population inherit one non-functional TPMT allele (heterozygous) conferring intermediate TPMT activity, and 0.3% inherit two TPMT non-functional alleles (homozygous) for low or absent TPMT activity.
 Non-functional alleles are less common in Asians.
 TPMT activity correlates inversely with 6-TGN levels in erythrocytes and presumably other hematopoietic tissues, since these cells have negligible xanthine oxidase (involved in the other inactivation pathway) activities, leaving TPMT methylation as the only inactivation pathway.
 Patients with intermediate TPMT activity may be at increased risk of myelotoxicity if receiving conventional doses of azathioprine.
-Patients with low or absent TPMT activity are at an increased risk of developing severe, life-threatening myelotoxicity if receiving conventional doses ofazathioprine.4-9 TPMT genotyping or phenotyping (red blood cell TPMT activity) can help identify patients who are at an increased risk for developing azathioprine toxicity.2, 3, 7, 8, 9 Accurate phenotyping (red blood cell TPMT activity) results are not possible in patients who have received recent blood transfusions.
-See WARNINGS, PRECAUTIONS: Drug interactions, PRECAUTIONS: Laboratory tests and ADVERSE REACTIONS sections.
+Patients with low or absent TPMT activity are at an increased risk of developing severe, life-threatening myelotoxicity if receiving conventional doses of azathioprine.
+4-9 TPMT genotyping or phenotyping (red blood cell TPMT activity) can help identify patients who are at an increased risk for developing azathioprine toxicity.
+2, 3, 7, 8, 9 Accurate phenotyping (red blood cell TPMT activity) results are not possible in patients who have received recent blood transfusions.
+See WARNINGS, PRECAUTIONS: Drug Interactions, PRECAUTIONS: Laboratory Tests and ADVERSE REACTIONS sections.
 
 Figure 1.
 Metabolism pathway of azathioprine: competing pathways result in inactivation by TPMT or XO, or incorporation of cytotoxic nucleotides into DNA.
 
-GMPS: Guanosine monophosphate synthetase; HGPRT: Hypoxanthineguanine-phosphoribosyl-transferase; IMPD: Inosine monophosphate dehydrogenase; MeMP: Methylmercaptopurine; MeMPN: Methylmercaptopurine nucleotide; TGN: Thioguanine nucleotides; TIMP: Thioinosine monophosphate; TPMT: Thiopurine S-methyltransferase; TU: Thiouric acid; XO: Xanthine oxidase) (Adapted from Pharmacogenomics 2002; 3:89-98; and Cancer Res 2001; 61:5810-5816.)
+GMPS: Guanosine monophosphate synthetase; HGPRT:
+
+Hypoxanthine-guanine-phosphoribosyl-transferase; IMPD: Inosine monophosphate dehydrogenase; MeMP: Methylmercaptopurine; MeMPN: Methylmercaptopurine nucleotide; TGN: Thioguanine nucleotides; TIMP: Thioinosine monophosphate; TPMT: Thiopurine S-methyltransferase; TU: Thiouric acid; XO: Xanthine oxidase (Adapted from Pharmacogenomics 2002; 3:89-98; and Cancer Res 2001; 61:5810-5816.)
 
 Another inactivation pathway is oxidation, which is catalyzed by xanthine oxidase (XO) to form 6-thiouric acid.
-The inhibition of xanthine oxidase in patients receiving allopurinol (ZYLOPRIM®) is the basis for the azathioprine dosage reduction required in these patients (see PRECAUTIONS: Drug interactions).
+The inhibition of xanthine oxidase in patients receiving allopurinol is the basis for the azathioprine dosage reduction required in these patients (see PRECAUTIONS: Drug Interactions).
 
 Proportions of metabolites are different in individual patients, and this presumably accounts for variable magnitude and duration of drug effects.
 Renal clearance is probably not important in predicting biological effectiveness or toxicities, although dose reduction is practiced in patients with poor renal function.
 
-## Homograft Survival:
-
-The use of azathioprine for inhibition of renal homograft rejection is well established, the mechanism(s) for this action are somewhat obscure.
+Homograft Survival: The use of azathioprine for inhibition of renal homograft rejection is well established, the mechanism(s) for this action are somewhat obscure.
 The drug suppresses hypersensitivities of the cell-mediated type and causes variable alterations in antibody production.
 Suppression of T-cell effects, including ablation of T-cell suppression, is dependent on the temporal relationship to antigenic stimulus or engraftment.
 This agent has little effect on established graft rejections or secondary responses.
 
-Alterations in specific immune responses or immunologic functions intransplant recipients are difficult to relate specifically to immunosuppression by azathioprine.
+Alterations in specific immune responses or immunologic functions in transplant recipients are difficult to relate specifically to immunosuppression by azathioprine.
 These patients have subnormal responses to vaccines, low numbers of T-cells, and abnormal phagocytosis by peripheral blood cells, but their mitogenic responses, serum immunoglobulins, and secondary antibody responses are usually normal.
 
-## Immunoinflammatory Response:
-
-Azathioprine suppresses disease manifestations as well as underlying pathology in animal models of autoimmune disease.
+Immunoinflammatory Response: Azathioprine suppresses disease manifestations as well as underlying pathology in animal models of autoimmune disease.
 For example, the severity of adjuvant arthritis is reduced by azathioprine.
 
 The mechanisms whereby azathioprine affects autoimmune diseases are not known.
