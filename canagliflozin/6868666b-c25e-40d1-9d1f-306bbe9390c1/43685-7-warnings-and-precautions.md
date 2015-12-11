@@ -20,7 +20,7 @@ In addition, metformin should be promptly withheld in the presence of any condit
 
 Because impaired hepatic function may significantly limit the ability to clear lactate, metformin should be avoided in patients with clinical or laboratory evidence of hepatic impairment.
 Patients should be cautioned against excessive alcohol intake when taking metformin, since alcohol potentiates the effects of metformin on lactate metabolism.
-In addition, metformin should be temporarily discontinued prior to any intravascular radiocontrast study and for any surgical procedure necessitating restricted intake of food or fluids [see Warnings and Precautions (5.3), (5.5), (5.11) and Clinical Pharmacology (12.3)].
+In addition, metformin should be temporarily discontinued prior to any intravascular radiocontrast study and for any surgical procedure necessitating restricted intake of food or fluids [see Warnings and Precautions (5.4), (5.7), (5.13), (5.14) and Clinical Pharmacology (12.3)].
 
 The onset of lactic acidosis often is subtle, and accompanied by nonspecific symptoms such as malaise, myalgias, respiratory distress, increasing somnolence, and nonspecific abdominal distress.
 More severe acidosis may be associated with signs such as hypothermia, hypotension, and resistant bradyarrhythmias.
@@ -44,7 +44,23 @@ Symptomatic hypotension can occur after initiating INVOKAMET [see Adverse Reacti
 Before initiating INVOKAMET in patients with one or more of these characteristics who were not already on canagliflozin, volume status should be assessed and corrected.
 Monitor for signs and symptoms after initiating therapy.
 
-## 5.3 Impairment in Renal Function
+## 5.3 Ketoacidosis
+
+Reports of ketoacidosis, a serious life-threatening condition requiring urgent hospitalization have been identified in postmarketing surveillance in patients with type 1 and type 2 diabetes mellitus receiving sodium glucose co-transporter-2 (SGLT2) inhibitors, including canagliflozin.
+INVOKAMET is not indicated for the treatment of patients with type 1 diabetes mellitus [see Indications and Usage (1)].
+
+Patients treated with INVOKAMET who present with signs and symptoms consistent with severe metabolic acidosis should be assessed for ketoacidosis regardless of presenting blood glucose levels, as ketoacidosis associated with INVOKAMET may be present even if blood glucose levels are less than 250 mg/dL.
+If ketoacidosis is suspected, INVOKAMET should be discontinued, patient should be evaluated, and prompt treatment should be instituted.
+Treatment of ketoacidosis may require insulin, fluid and carbohydrate replacement.
+
+In many of the postmarketing reports, and particularly in patients with type 1 diabetes, the presence of ketoacidosis was not immediately recognized and institution of treatment was delayed because presenting blood glucose levels were below those typically expected for diabetic ketoacidosis (often less than 250 mg/dL).
+Signs and symptoms at presentation were consistent with dehydration and severe metabolic acidosis and included nausea, vomiting, abdominal pain, generalized malaise, and shortness of breath.
+In some but not all cases, factors predisposing to ketoacidosis such as insulin dose reduction, acute febrile illness, reduced caloric intake due to illness or surgery, pancreatic disorders suggesting insulin deficiency (e.g., type 1 diabetes, history of pancreatitis or pancreatic surgery), and alcohol abuse were identified.
+
+Before initiating INVOKAMET consider factors in the patient history that may predispose to ketoacidosis including pancreatic insulin deficiency from any cause, caloric restriction, and alcohol abuse.
+In patients treated with INVOKAMET consider monitoring for ketoacidosis and temporarily discontinuing INVOKAMET in clinical situations known to predispose to ketoacidosis (e.g., prolonged fasting due to acute illness or surgery).
+
+## 5.4 Impairment in Renal Function
 
 Canagliflozin increases serum creatinine and decreases eGFR.
 Patients with hypovolemia may be more susceptible to these changes.
@@ -68,19 +84,25 @@ Therefore, in patients in whom any such study is planned, temporarily discontinu
 
 Temporarily discontinue INVOKAMET for any surgical procedure (except minor procedures not associated with restricted intake of food and fluids) and restart after the patient's oral intake has resumed and renal function has been evaluated as normal.
 
-## 5.4 Hyperkalemia
+## 5.5 Hyperkalemia
 
 Canagliflozin can lead to hyperkalemia.
 Patients with moderate renal impairment who are taking medications that interfere with potassium excretion, such as potassium-sparing diuretics, or medications that interfere with the renin-angiotensin-aldosterone system are at an increased risk of developing hyperkalemia [see Dosage and Administration (2.2) and Adverse Reactions (6.1)].
 
 Monitor serum potassium levels periodically after initiating INVOKAMET in patients with impaired renal function and in patients predisposed to hyperkalemia due to medications or other medical conditions.
 
-## 5.5 Impaired Hepatic Function
+## 5.6 Urosepsis and Pyelonephritis
+
+There have been postmarketing reports of serious urinary tract infections including urosepsis and pyelonephritis requiring hospitalization in patients receiving SGLT2 inhibitors, including canagliflozin.
+Treatment with SGLT2 inhibitors increases the risk for urinary tract infections.
+Evaluate patients for signs and symptoms of urinary tract infections and treat promptly, if indicated [see Adverse Reactions (6)].
+
+## 5.7 Impaired Hepatic Function
 
 Metformin use in patients with impaired hepatic function has been associated with some cases of lactic acidosis.
 Therefore, INVOKAMET is not recommended in patients with hepatic impairment [see Warnings and Precautions (5.1)].
 
-## 5.6 Hypoglycemia with Concomitant Use of Sulfonylurea or Insulin
+## 5.8 Hypoglycemia with Concomitant Use of Sulfonylurea or Insulin
 
 Canagliflozin
 
@@ -95,23 +117,23 @@ Elderly, debilitated, or malnourished patients, and those with adrenal or pituit
 Hypoglycemia may be difficult to recognize in the elderly, and in people who are taking beta-adrenergic blocking drugs.
 Monitor for a need to lower the dose of INVOKAMET to minimize the risk of hypoglycemia in these patients.
 
-## 5.7 Genital Mycotic Infections
+## 5.9 Genital Mycotic Infections
 
 Canagliflozin increases the risk of genital mycotic infections.
 Patients with a history of genital mycotic infections and uncircumcised males were more likely to develop genital mycotic infections [see Adverse Reactions (6.1)].
 Monitor and treat appropriately.
 
-## 5.8 Hypersensitivity Reactions
+## 5.10 Hypersensitivity Reactions
 
 Hypersensitivity reactions (e.g., generalized urticaria), some serious, were reported with canagliflozin treatment; these reactions generally occurred within hours to days after initiating canagliflozin.
 If hypersensitivity reactions occur, discontinue use of INVOKAMET; treat and monitor until signs and symptoms resolve [see Contraindications (4) and Adverse Reactions (6.1)].
 
-## 5.9 Bone Fracture
+## 5.11 Bone Fracture
 
 An increased risk of bone fracture, occurring as early as 12 weeks after treatment initiation, was observed in patients using canagliflozin.
 Consider factors that contribute to fracture risk prior to initiating INVOKAMET [see Adverse Reactions (6.1)].
 
-## 5.10 Vitamin B12 Levels
+## 5.12 Vitamin B12 Levels
 
 In controlled, 29-week clinical trials of metformin, a decrease to subnormal levels of previously normal serum vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of metformin-treated patients.
 Such decreases, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, is, however, very rarely associated with anemia or neurologic manifestations due to the short duration (less than 1 year) of the clinical trials.
@@ -120,21 +142,21 @@ The decrease in vitamin B12 levels appears to be rapidly reversible with discont
 Measure hematologic parameters on an annual basis in patients on INVOKAMET and investigate and treat if abnormalities occur.
 Patients with inadequate vitamin B12 or calcium intake or absorption may be predisposed to developing subnormal vitamin B12 levels, and routine serum vitamin B12 measurement at 2- to 3-year intervals is recommended in these patients.
 
-## 5.11 Alcohol Intake
+## 5.13 Alcohol Intake
 
 Alcohol is known to potentiate the effect of metformin on lactate metabolism.
 Warn patients against excessive alcohol intake while receiving INVOKAMET [see Warnings and Precautions (5.1)].
 
-## 5.12 Hypoxic States
+## 5.14 Hypoxic States
 
 Cardiovascular collapse (shock) from whatever cause (e.g., acute congestive heart failure, acute myocardial infarction and other conditions characterized by hypoxemia) have been associated with lactic acidosis and may also cause prerenal azotemia.
 When such events occur, promptly discontinue INVOKAMET [see Warnings and Precautions (5.1)].
 
-## 5.13 Increases in Low-Density Lipoprotein (LDL-C)
+## 5.15 Increases in Low-Density Lipoprotein (LDL-C)
 
 Dose-related increases in LDL-C occur with canagliflozin [see Adverse Reactions (6.1)].
 Monitor LDL-C and treat if appropriate after initiating INVOKAMET.
 
-## 5.14 Macrovascular Outcomes
+## 5.16 Macrovascular Outcomes
 
 There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with INVOKAMET or any other antidiabetic drug [see Adverse Reactions (6.1)].

@@ -14,7 +14,7 @@
 
 - Assess renal function before initiating INVOKAMET and periodically thereafter.
 - Do not initiate or continue INVOKAMET in patients with serum creatinine levels greater than or equal to 1.5 mg/dL for males or 1.4 mg/dL for females.
-  In patients who meet these serum creatinine levels, do not initiate or continue INVOKAMET if eGFR is persistently less than 45 mL/min/1.73 m2 [see Contraindications (4) and Warnings and Precautions (5.3)].
+  In patients who meet these serum creatinine levels, do not initiate or continue INVOKAMET if eGFR is persistently less than 45 mL/min/1.73 m2 [see Contraindications (4) and Warnings and Precautions (5.4)].
 - No dose adjustment of INVOKAMET is needed in patients with mild renal impairment (eGFR of 60 mL/min/1.73 m2 or greater).
 - Limit the dose of INVOKAMET to canagliflozin 50 mg twice daily in patients with moderate renal impairment with an eGFR of 45 to less than 60 mL/min/1.73 m2.
 

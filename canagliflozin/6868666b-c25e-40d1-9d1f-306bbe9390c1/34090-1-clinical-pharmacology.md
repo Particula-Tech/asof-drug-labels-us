@@ -16,7 +16,7 @@ Metformin
 
 Metformin is an antihyperglycemic agent which improves glucose tolerance in patients with type 2 diabetes, lowering both basal and postprandial plasma glucose.
 Metformin decreases hepatic glucose production, decreases intestinal absorption of glucose, and improves insulin sensitivity by increasing peripheral glucose uptake and utilization.
-Metformin does not produce hypoglycemia in either patients with type 2 diabetes or normal subjects except in special circumstances [see Warnings and Precautions (5.6)] and does not cause hyperinsulinemia.
+Metformin does not produce hypoglycemia in either patients with type 2 diabetes or normal subjects except in special circumstances [see Warnings and Precautions (5.8)] and does not cause hyperinsulinemia.
 With metformin therapy, insulin secretion remains unchanged while fasting insulin levels and day-long plasma insulin response may actually decrease.
 
 ## 12.2 Pharmacodynamics
@@ -143,11 +143,11 @@ Canagliflozin
 Relative to subjects with normal hepatic function, the geometric mean ratios for Cmax and AUC∞ of canagliflozin were 107% and 110%, respectively, in subjects with Child-Pugh class A (mild hepatic impairment) and 96% and 111%, respectively, in subjects with Child-Pugh class B (moderate hepatic impairment) following administration of a single 300 mg dose of canagliflozin.
 
 These differences are not considered to be clinically meaningful.
-There is no clinical experience in patients with Child-Pugh class C (severe) hepatic impairment [see Warnings and Precautions (5.5)].
+There is no clinical experience in patients with Child-Pugh class C (severe) hepatic impairment [see Warnings and Precautions (5.7)].
 
 Metformin
 
-No pharmacokinetic studies of metformin have been conducted in patients with hepatic insufficiency [see Warnings and Precautions (5.5)].
+No pharmacokinetic studies of metformin have been conducted in patients with hepatic insufficiency [see Warnings and Precautions (5.7)].
 
 Pharmacokinetic Effects of Age, Body Mass Index (BMI)/Weight, Gender and Race
 
@@ -165,7 +165,7 @@ Geriatric
 
 INVOKAMET
 
-Studies characterizing the pharmacokinetics of canagliflozin and metformin after administration of INVOKAMET in geriatric patients have not been performed [see Warnings and Precautions (5.1), (5.3) and Use in Specific Populations (8.5)].
+Studies characterizing the pharmacokinetics of canagliflozin and metformin after administration of INVOKAMET in geriatric patients have not been performed [see Warnings and Precautions (5.1), (5.4) and Use in Specific Populations (8.5)].
 
 Canagliflozin
 

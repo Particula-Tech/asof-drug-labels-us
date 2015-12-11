@@ -15,16 +15,19 @@ Advise the patient to read the FDA-Approved Patient Labeling (Medication Guide).
   If a dose is missed, advise patients not to take two doses of INVOKAMET at the same time.
 - Hypotension: Inform patients that symptomatic hypotension may occur with INVOKAMET and advise them to contact their doctor if they experience such symptoms [see Warnings and Precautions (5.2)].
   Inform patients that dehydration may increase the risk for hypotension and to have adequate fluid intake.
+- Ketoacidosis: Inform patients that ketoacidosis has been reported during use of canagliflozin.
+  Instruct patients to check ketones (when possible) if symptoms consistent with ketoacidosis occur even if blood glucose is not elevated.
+  If symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness, and labored breathing) occur, instruct patients to discontinue INVOKAMET and seek medical advice immediately [see Warnings and Precautions (5.3)].
+- Serious Urinary Tract Infections: Inform patients of the potential for urinary tract infections, which may be serious.
+  Provide them with information on the symptoms of urinary tract infections.
+  Advise them to seek medical advice if such symptoms occur [see Warnings and Precautions (5.6)].
 - Genital Mycotic Infections in Females: Inform female patients that vaginal yeast infection (e.g., vulvovaginitis) may occur and provide them with information on the signs and symptoms of a vaginal yeast infection.
-  Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.7)].
+  Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.9)].
 - Genital Mycotic Infections in Males: Inform male patients that yeast infection of penis (e.g., balanitis or balanoposthitis) may occur, especially in uncircumcised males and patients with prior history.
   Provide them with information on the signs and symptoms of balanitis and balanoposthitis (rash or redness of the glans or foreskin of the penis).
-  Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.7)].
+  Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.9)].
 - Hypersensitivity Reactions: Inform patients that serious hypersensitivity reactions, such as urticaria and rash, have been reported with canagliflozin.
-  Advise patients to report immediately any signs or symptoms suggesting allergic reaction or angioedema and to take no more drug until they have consulted prescribing physicians [see Warnings and Precautions (5.8)].
-- Urinary Tract Infections: Inform patients of the potential for urinary tract infections.
-  Provide them with information on the symptoms of urinary tract infections.
-  Advise them to seek medical advice if such symptoms occur.
+  Advise patients to report immediately any signs or symptoms suggesting allergic reaction or angioedema and to take no more drug until they have consulted prescribing physicians [see Warnings and Precautions (5.10)].
 - Bone Fracture: Inform patients that bone fractures have been reported in patients taking canagliflozin.
   Provide them with information on factors that may contribute to fracture risk.
 - Laboratory Tests: Inform patients that they will test positive for glucose in their urine while on INVOKAMET [see Drug Interactions (7.2)].
