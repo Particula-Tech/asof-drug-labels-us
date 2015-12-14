@@ -42,7 +42,7 @@ Proportion of Responders (patients with ≥50% reduction in pain score) at Endpo
 
 Controlled PHN Studies
 
-## 14.2 Epilepsy
+## 14.2 Epilepsy for Partial Onset Seizures (Adjunctive Therapy)
 
 The effectiveness of gabapentin as adjunctive therapy (added to other antiepileptic drugs) was established in multicenter placebo-controlled, double-blind, parallel-group clinical trials in adult and pediatric patients (3 years and older) with refractory partial seizures.
 

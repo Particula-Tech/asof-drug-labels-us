@@ -1,36 +1,33 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Medication Guide)
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Medication Guide
+Administration Information
 
-Inform patients of the availability of a Medication Guide, and instruct them to read the Medication Guide prior to taking gabapentin.
-Instruct patients to take gabapentin only as prescribed.
+Inform patients that gabapentin is taken orally with or without food.
 
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity
 
 Prior to initiation of treatment with gabapentin, instruct patients that a rash or other signs or symptoms of hypersensitivity (such as fever or lymphadenopathy) may herald a serious medical event and that the patient should report any such occurrence to a physician immediately [see Warnings and Precautions (5.1)].
 
-Effects on Driving and Operating Heavy Machinery
+Anaphylaxis and Angioedema
 
-Inform patients that gabapentin may cause a significant driving impairment.
-Accordingly, advise them not to drive a car until they have gained sufficient experience on gabapentin to assess whether gabapentin impairs their ability to drive, although patients’ ability to determine their level of impairment can be unreliable.
-Inform patients that it is not known how long this effect lasts.
-They should be told the same thing regarding the operation of heavy machinery.
+Advise patients to discontinue gabapentin and seek medical care if they develop signs or symptoms of anaphylaxis or angioedema [see Warnings and Precautions (5.2)].
 
-Dizziness and Somnolence
+Dizziness and Somnolence and Effects on Driving and Operating Heavy Machinery
 
 Advise patients that gabapentin may cause dizziness, somnolence, and other symptoms and signs of CNS depression.
-Accordingly, advise them neither to drive a car nor to operate other complex machinery until they have gained sufficient experience on gabapentin to gauge whether or not it affects their mental and/or motor performance adversely.
+Other drugs with sedative properties may increase these symptoms.
+Accordingly, although patients’ ability to determine their level of impairment can be unreliable, advise them neither to drive a car nor to operate other complex machinery until they have gained sufficient experience on gabapentin to gauge whether or not it affects their mental and/or motor performance adversely.
+Inform patients that it is not known how long this effect lasts [see Warnings and Precautions (5.3) and Warnings and Precautions (5.4)].
 
 Suicidal Thinking and Behavior
 
-Patients, their caregivers, and families should be counseled that AEDs, including gabapentin, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
-Report behaviors of concern immediately to healthcare providers [see Warnings and Precautions (5.3)].
+Counsel the patient, their caregivers, and families that AEDs, including gabapentin, may increase the risk of suicidal thoughts and behavior.
+Advise patients of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
+Instruct patients to report behaviors of concern immediately to healthcare providers [see Warnings and Precautions (5.6)].
 
-Use in Pregnancy
-
-Instruct patients to notify their physician if they become pregnant or intend to become pregnant during therapy, and to notify their physician if they are breast feeding or intend to breast feed during therapy [see Use in Specific Populations (8.1) and (8.3)].
+Use in Pregnancy Instruct patients to notify their physician if they become pregnant or intend to become pregnant during therapy, and to notify their physician if they are breast feeding or intend to breast feed during therapy [see Use in Specific Populations (8.1) and (8.3)].
 
 Encourage patients to enroll in the NAAED Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
@@ -41,10 +38,10 @@ For full prescribing information, please visit www.amneal.com.
 
 *Trademarks are the property of their respective owners.
 
-Manufactured by: Amneal Pharmaceuticals Co. (I) Pvt.
+Manufactured by: Amneal Pharmaceuticals Pvt.
 Ltd. Ahmedabad, INDIA 382220
 
-Distributed by: Amneal Pharmaceuticals Glasgow, KY 42141
+Distributed by: Amneal Pharmaceuticals Bridgewater, NJ 08807
 
 Rev.
-09-2014-01
+10-2015-04

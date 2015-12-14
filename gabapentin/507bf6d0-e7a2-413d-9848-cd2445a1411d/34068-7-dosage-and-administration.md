@@ -1,45 +1,36 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-Gabapentin capsules, USP are given orally with or without food.
-Gabapentin capsules, USP should be swallowed whole with plenty of water.
+## 2.1 Dosage for Postherpetic Neuralgia
 
-If gabapentin capsules, USP dose is reduced, discontinued, or substituted with an alternative medication, this should be done gradually over a minimum of 1 week (a longer period may be needed at the discretion of the prescriber).
-
-## 2.1 Postherpetic Neuralgia
-
-In adults with postherpetic neuralgia, gabapentin capsules, USP therapy may be initiated on Day 1 as a single 300 mg dose, on Day 2 as 600 mg/day (300 mg two times a day), and on Day 3 as 900 mg/day (300 mg three times a day).
+In adults with postherpetic neuralgia, gabapentin capsules, USP may be initiated on Day 1 as a single 300 mg dose, on Day 2 as 600 mg/day (300 mg two times a day), and on Day 3 as 900 mg/day (300 mg three times a day).
 The dose can subsequently be titrated up as needed for pain relief to a dose of 1800 mg/day (600 mg three times a day).
 In clinical studies, efficacy was demonstrated over a range of doses from 1800 mg/day to 3600 mg/day with comparable effects across the dose range; however, in these clinical studies, the additional benefit of using doses greater than 1800 mg/day was not demonstrated.
 
-## 2.2 Epilepsy with Partial Onset Seizures
+## 2.2 Dosage for Epilepsy with Partial Onset Seizures
 
-Gabapentin capsules, USP are recommended for add-on therapy in patients 3 years of age and older.
-Effectiveness in pediatric patients below the age of 3 years has not been established.
+Patients 12 years of age and above
 
-Patients 12 years of age and above: The starting dose is 300 mg three times a day.
-The effective dose of gabapentin capsules, USP is 300 mg to 600 mg three times a day.
+The starting dose is 300 mg three times a day.
+The recommended maintenance dose of gabapentin capsules, USP is 300 mg to 600 mg three times a day.
 Dosages up to 2400 mg/day have been well tolerated in long-term clinical studies.
 Doses of 3600 mg/day have also been administered to a small number of patients for a relatively short duration, and have been well tolerated.
-Gabapentin capsules, USP should be administered three times a day using 300 mg or 400 mg capsules.
+Administer gabapentin capsules, USP three times a day using 300 mg or 400 mg capsules.
 The maximum time between doses should not exceed 12 hours.
 
-Pediatric Patients Age 3 to 11 years: The starting dose range is 10 mg/kg/day to 15 mg/kg/day, given in three divided doses, and the effective dose reached by upward titration over a period of approximately 3 days.
-The effective dose of gabapentin capsules, USP in patients 3 to 4 years of age is 40 mg/kg/day, given in three divided doses.
-The effective dose of gabapentin capsules, USP in patients 5 to 11 years of age is 25 mg/kg/day to 35 mg/kg/day, given in three divided doses.
+Pediatric Patients Age 3 to 11 years
+
+The starting dose range is 10 mg/kg/day to 15 mg/kg/day, given in three divided doses, and the recommended maintenance dose reached by upward titration over a period of approximately 3 days.
+The recommended maintenance dose of gabapentin capsules, USP in patients 3 to 4 years of age is 40 mg/kg/day, given in three divided doses.
+The recommended maintenance dose of gabapentin capsules, USP in patients 5 to 11 years of age is 25 mg/kg/day to 35 mg/kg/day, given in three divided doses.
 Gabapentin capsules, USP may be administered as the oral solution, capsule, or tablet, or using combinations of these formulations.
 Dosages up to 50 mg/kg/day have been well tolerated in a long-term clinical study.
 The maximum time interval between doses should not exceed 12 hours.
 
-It is not necessary to monitor gabapentin plasma concentrations to optimize gabapentin capsules, USP therapy.
-Further, because there are no significant pharmacokinetic interactions among gabapentin capsules, USP and other commonly used antiepileptic drugs, the addition of gabapentin capsules, USP does not alter the plasma levels of these drugs appreciably.
+## 2.3 Dosage Adjustment in Patients with Renal Impairment
 
-If gabapentin capsules, USP are discontinued and/or an alternate anticonvulsant medication is added to the therapy, this should be done gradually over a minimum of 1 week.
+Dosage adjustment in patients 12 years of age and older with renal impairment or undergoing hemodialysis is recommended, as follows (see dosing recommendations above for effective doses in each indication):
 
-## 2.3 Patients with Renal Impairment
-
-Dosage adjustment in patients 12 years of age and older with compromised renal function or undergoing hemodialysis is recommended, as follows (see dosing recommendations above for effective doses in each indication):
-
-| TABLE 1. Gabapentin Capsules Dosage Based on Renal Function |  |  |  |  |  |  |
+| TABLE 1. Gabapentin Capsules, USP Dosage Based on Renal Function |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Renal FunctionCreatinine Clearance (mL/min) | Total Daily Dose Range (mg/day) | Dose Regimen (mg) |  |  |  |  |
 | ≥ 60 | 900 to 3600 | 300 TID | 400 TID | 600 TID | 800 TID | 1200 TID |
@@ -63,3 +54,11 @@ The use of gabapentin capsules, USP in patients less than 12 years of age with c
 ## 2.4 Dosage in Elderly
 
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and dose should be adjusted based on creatinine clearance values in these patients.
+
+## 2.5 Administration Information
+
+Administer gabapentin capsules, USP orally with or without food.
+
+Gabapentin capsules, USP should be swallowed whole with water.
+
+If the gabapentin capsules, USP dose is reduced, discontinued, or substituted with an alternative medication, this should be done gradually over a minimum of 1 week (a longer period may be needed at the discretion of the prescriber).
