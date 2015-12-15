@@ -10,6 +10,4 @@ Store at 25°C (77°F), excursions permitted to 15°-30°C (59°-86°F).
 
 Patients should be advised to store buprenorphine-containing medications safely and out of sight and reach of children.
 Destroy any unused medication appropriately.
-[see Disposal of Unused SUBUTEX Sublingual Tablet (17.2)]
-
-Rx only
+[see Patient Counseling (17)] Rx only

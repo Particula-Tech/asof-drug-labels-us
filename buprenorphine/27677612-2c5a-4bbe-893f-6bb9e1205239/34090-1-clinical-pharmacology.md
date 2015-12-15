@@ -81,3 +81,29 @@ The interaction of buprenorphine with all CYP3A4 inducers has not been studied, 
 
 Buprenorphine has been found to be a CYP2D6 and CYP3A4 inhibitor and its major metabolite, norbuprenorphine has been found to be a moderate CYP2D6 inhibitor in in vitro studies employing human liver microsomes.
 However, the relatively low plasma concentrations of buprenorphine and norbuprenorphine resulting from therapeutic doses are not expected to raise significant drug-drug interaction concerns.
+
+Special Populations:
+
+Hepatic Impairment: In a pharmacokinetic study, the disposition of buprenorphine was determined after administering a 2.0/0.5 mg SUBOXONE (buprenorphine/naloxone) sublingual tablet in subjects with varied degrees of hepatic impairment as indicated by Child-Pugh criteria.
+The disposition of buprenorphine in patients with hepatic impairment was compared to disposition in subjects with normal hepatic function.
+
+In subjects with mild hepatic impairment, the changes in mean Cmax, AUC0-last, and half-life values of buprenorphine were not clinically significant.
+No dose adjustment is needed in patients with mild hepatic impairment.
+
+For subjects with moderate and severe hepatic impairment, mean Cmax, AUC0-last, and half-life values of buprenorphine were increased (Table 4).
+[see Warnings and Precautions (5.11) and Use in Specific Populations (8.6)].
+
+Table 4.
+Changes in Buprenorphine Pharmacokinetic Parameters in Subjects with Moderate and Severe Hepatic Impairment
+
+| Hepatic Impairment | PK Parameters | Increase in buprenorphine compared to healthy subjects |
+| --- | --- | --- |
+| Moderate | Cmax | 8% |
+| AUC0-last | 64% |  |
+| Half-life | 35% |  |
+| Severe | Cmax | 72% |
+| AUC0-last | 181% |  |
+| Half-life | 57% |  |
+
+HCV infection: In subjects with HCV infection but no sign of hepatic impairment, the changes in the mean Cmax, AUC0-last, and half-life values of buprenorphine were not clinically significant in comparison to healthy subjects without HCV infection.
+No dose adjustment is needed in patients with HCV infection.

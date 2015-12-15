@@ -70,7 +70,17 @@ Continuation or modification of pharmacotherapy should be based on the physician
 
 If treatment goals are not being achieved, the physician should re-evaluate the appropriateness of continuing the current treatment.
 
-## 2.5 Unstable Patients
+## 2.5 Patients With Hepatic Impairment
+
+Severe hepatic impairment: Consider reducing the starting and titration incremental dose by half compared to patients with normal liver function, and monitor for signs and symptoms of toxicity or overdose caused by increased levels of buprenorphine.
+
+Moderate hepatic impairment: Although no dose adjustment is necessary for patients with moderate hepatic impairment, SUBUTEX sublingual tablets should be used with caution in these patients and prescribers should monitor patients for signs and symptoms of toxicity or overdose caused by increased levels of buprenorphine.
+
+Mild hepatic impairment: No clinically significant differences in pharmacokinetic parameters were observed in subjects with mild hepatic impairment.
+No dose adjustment is needed in patients with mild hepatic impairment.
+[see Warnings and Precautions (5.11)].
+
+## 2.6 Unstable Patients
 
 Physicians will need to decide when they cannot appropriately provide further management for particular patients.
 For example, some patients may be abusing or dependent on various drugs, or unresponsive to psychosocial intervention such that the physician does not feel that he/she has the expertise to manage the patient.
@@ -79,7 +89,7 @@ Decisions should be based on a treatment plan established and agreed upon with t
 
 Patients who continue to misuse, abuse, or divert buprenorphine products or other opioids should be provided with, or referred to, more intensive and structured treatment.
 
-## 2.6 Stopping Treatment
+## 2.7 Stopping Treatment
 
 The decision to discontinue therapy with SUBOXONE or SUBUTEX after a period of maintenance should be made as part of a comprehensive treatment plan.
 Both gradual and abrupt discontinuation of buprenorphine has been used, but the data are insufficient to determine the best method of dose taper at the end of treatment.
