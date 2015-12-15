@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-E-Z-PAQUE is a barium sulfate for suspension (96% w/w) for oral and rectal administration.
+E-Z-PAQUE® is a barium sulfate for suspension (96% w/w) for oral administration.
 Each 100 g contains 96 g barium sulfate.
 Barium sulfate, due to its high molecular density is opaque to x-rays and, therefore, acts as a positive contrast agent for radiographic studies.
 The active ingredient is barium sulfate and its structural formula is BaSO4.
@@ -10,4 +10,4 @@ It is practically insoluble in water, solutions of acids and alkalies, and organ
 
 ## Inactive Ingredients
 
-bentonite, citric acid, natural and artificial strawberry flavor, natural and artificial vanilla flavor, pectin, polyoxyethylene glyceryl monooleate, propylene glycol, saccharin sodium, simethicone, sodium carrageenan, sodium citrate, sorbitol, tragacanth and xanthan gum.
+citric acid, natural and artificial strawberry flavor, natural and artificial vanilla flavor, pectin, polysorbate 80, propylene glycol, saccharin sodium, simethicone, sodium carrageenan, sodium citrate, sorbitol, tragacanth and xanthan gum.
