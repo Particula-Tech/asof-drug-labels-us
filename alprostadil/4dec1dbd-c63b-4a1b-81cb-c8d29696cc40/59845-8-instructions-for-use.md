@@ -129,4 +129,4 @@ Rx only
 
 Manufactured by:
 
-LAB-0641-2.0 October 2015
+LAB-0641-4.0 November 2015
