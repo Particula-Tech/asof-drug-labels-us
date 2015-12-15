@@ -11,7 +11,7 @@ Hematologic: Leukopenia (including agranulocytosis), thrombocytopenia.
 
 Hypersensitivity: Fever, urticaria, maculopapular or erythematous cutaneous eruptions, anaphylactic reactions, vasculitis.
 
-Metabolism: Hyperkalemia, electrolyte disturbances (seeWarnings and Precautions).
+Metabolism: Hyperkalemia, electrolyte disturbances (see Warnings and Precautions).
 
 Musculoskeletal: Leg cramps.
 

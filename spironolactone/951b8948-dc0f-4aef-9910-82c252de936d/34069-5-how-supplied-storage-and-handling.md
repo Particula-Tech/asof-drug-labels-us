@@ -22,10 +22,10 @@ Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
 Dispense in a tight, light-resistant container.
 
-Manufactured by: Amneal Pharmaceuticals Co. (I) Pvt.
+Manufactured by: Amneal Pharmaceuticals Pvt.
 Ltd. Ahmedabad, INDIA 382220
 
-Distributed by: Amneal Pharmaceuticals Glasgow, KY 42141
+Distributed by: Amneal Pharmaceuticals Bridgewater, NJ 08807
 
 Rev.
-10-2014-00
+07-2015-01
