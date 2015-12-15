@@ -8,6 +8,9 @@ Some of these events have been life-threatening.
 In premarketing clinical trials in patients with asthma, anaphylaxis was reported in 3 of 3507 (0.1%) patients.
 Anaphylaxis occurred with the first dose of Xolair in two patients and with the fourth dose in one patient.
 The time to onset of anaphylaxis was 90 minutes after administration in two patients and 2 hours after administration in one patient.
+
+A case-control study showed that, among Xolair users, patients with a history of anaphylaxis to foods, medications, or other causes were at increased risk of anaphylaxis associated with Xolair, compared to those with no prior history of anaphylaxis [see Adverse Reactions (6.1)].
+
 In postmarketing spontaneous reports, the frequency of anaphylaxis attributed to Xolair use was estimated to be at least 0.2% of patients based on an estimated exposure of about 57,300 patients from June 2003 through December 2006.
 Anaphylaxis has occurred as early as after the first dose of Xolair, but also has occurred beyond one year after beginning regularly scheduled treatment.
 

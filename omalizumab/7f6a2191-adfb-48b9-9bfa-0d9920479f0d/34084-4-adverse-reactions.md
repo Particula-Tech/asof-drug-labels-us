@@ -45,6 +45,14 @@ Adverse Reactions ≥ 1% More Frequent in Xolair-Treated Adult or Adolescent Pat
 
 There were no differences in the incidence of adverse reactions based on age (among patients under 65), gender or race.
 
+Anaphylaxis Case Control Study
+
+A retrospective case-control study investigated risk factors for anaphylaxis to Xolair among patients treated with Xolair for asthma.
+Cases with an adjudicated history of anaphylaxis to Xolair were compared to controls with no such history.
+The study found that a self-reported history of anaphylaxis to foods, medications or other causes was more common among patients with Xolair anaphylaxis (57% of 30 cases) compared to controls (23% of 88 controls) [OR 8.1, 95% CI 2.7 to 24.3].
+Because this is a case control study, the study cannot provide the incidence of anaphylaxis among Xolair users.
+From other sources, anaphylaxis to Xolair was observed in 0.1% of patients in clinical trials and at least 0.2% of patients based upon postmarketing reports [see Warnings and Precautions (5.1), Adverse Reactions (6.3)].
+
 Injection Site Reactions
 
 Injection site reactions of any severity occurred at a rate of 45% in Xolair-treated patients compared with 43% in placebo-treated patients.
