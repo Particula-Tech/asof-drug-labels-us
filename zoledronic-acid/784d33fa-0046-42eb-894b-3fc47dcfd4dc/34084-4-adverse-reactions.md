@@ -13,12 +13,12 @@ Renal Toxicity Administration of zoledronic acid 4 mg given as a 5-minute intrav
 The incidence of renal toxicity and renal failure has been shown to be reduced when zoledronic acid 4 mg is given as a 15-minute intravenous infusion.
 Zoledronic acid should be administered by intravenous infusion over no less than 15 minutes [see Warnings and Precautions (5.3) and Dosage and Administration (2.4)].
 
-The most frequently observed adverse events were fever, nausea, constipation, anemia, and dyspnea (see Table 3).
+The most frequently observed adverse events were fever, nausea, constipation, anemia, and dyspnea (see Table 4).
 
-Table 3 provides adverse events that were reported by 10% or more of the 189 patients treated with zoledronic acid 4 mg or pamidronate 90 mg from the two HCM trials.
+Table 4 provides adverse events that were reported by 10% or more of the 189 patients treated with zoledronic acid 4 mg or pamidronate 90 mg from the two HCM trials.
 Adverse events are listed regardless of presumed causality to study drug.
 
-Table 3: Percentage of Patients with Adverse Events ≥10% Reported in Hypercalcemia of Malignancy Clinical Trials by Body System
+Table 4: Percentage of Patients with Adverse Events ≥10% Reported in Hypercalcemia of Malignancy Clinical Trials by Body System
 
 |  | Zoledronic Acid Injection 4 mg n (%) |  | Pamidronate 90 mg n (%) |  |
 | --- | --- | --- | --- | --- |
@@ -56,9 +56,9 @@ Pyrexia has been the most commonly associated symptom, occurring in 44% of patie
 
 Mineral and Electrolyte Abnormalities Electrolyte abnormalities, most commonly hypocalcemia, hypophosphatemia and hypomagnesemia, can occur with bisphosphonate use.
 
-Grade 3 and Grade 4 laboratory abnormalities for serum creatinine, serum calcium, serum phosphorus, and serum magnesium observed in two clinical trials of zoledronic acid in patients with HCM are shown in Table 4 and 5.
+Grade 3 and Grade 4 laboratory abnormalities for serum creatinine, serum calcium, serum phosphorus, and serum magnesium observed in two clinical trials of zoledronic acid in patients with HCM are shown in Table 5 and 6.
 
-Table 4: Grade 3 Laboratory Abnormalities for Serum Creatinine, Serum Calcium, Serum Phosphorus, and Serum Magnesium in Two Clinical Trials in Patients with HCM
+Table 5: Grade 3 Laboratory Abnormalities for Serum Creatinine, Serum Calcium, Serum Phosphorus, and Serum Magnesium in Two Clinical Trials in Patients with HCM
 
 | Grade 3 |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -66,7 +66,7 @@ Table 4: Grade 3 Laboratory Abnormalities for Serum Creatinine, Serum Calcium, S
 |  | n/N | (%) | n/N | (%) |
 | Serum Creatinine 1 Hypocalcemia 2 Hypophosphatemia 3 Hypomagnesemia 4 | 2/86 1/86 36/70 0/71 | (2%) (1%) (51%) — | 3/100 2/100 27/81 0/84 | (3%) (2%) (33%) — |
 
-Table 5: Grade 4 Laboratory Abnormalities for Serum Creatinine, Serum Calcium, Serum Phosphorus, and Serum Magnesium in Two Clinical Trials in Patients with HCM
+Table 6: Grade 4 Laboratory Abnormalities for Serum Creatinine, Serum Calcium, Serum Phosphorus, and Serum Magnesium in Two Clinical Trials in Patients with HCM
 
 | Grade 4 |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -87,10 +87,10 @@ The analysis includes the 2042 patients treated with zoledronic acid 4 mg, pamid
 Only 347 patients completed the extension phases and were followed for 2 years (or 21 months for the other solid tumor patients).
 The median duration of exposure for safety analysis for zoledronic acid 4 mg (core plus extension phases) was 12.8 months for breast cancer and multiple myeloma, 10.8 months for prostate cancer, and 4 months for other solid tumors.
 
-Table 6 describes adverse events that were reported by 10% or more of patients.
+Table 7 describes adverse events that were reported by 10% or more of patients.
 Adverse events are listed regardless of presumed causality to study drug.
 
-Table 6: Percentage of Patients with Adverse Events ≥ 10% Reported in Three Bone Metastases Clinical Trials by Body System
+Table 7: Percentage of Patients with Adverse Events ≥ 10% Reported in Three Bone Metastases Clinical Trials by Body System
 
 |  | Zoledronic Acid Injection 4 mg |  | Pamidronate 90mg |  | Placebo |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -120,9 +120,9 @@ Table 6: Percentage of Patients with Adverse Events ≥ 10% Reported in Three Bo
 | Skin |  |  |  |  |  |  |
 | Alopecia Dermatitis | 125 114 | (12) (11) | 80 74 | (14) (13) | 36 38 | (8) (8) |
 
-Grade 3 and Grade 4 laboratory abnormalities for serum creatinine, serum calcium, serum phosphorus, and serum magnesium observed in three clinical trials of zoledronic acid in patients with bone metastases are shown in Tables 7 and 8.
+Grade 3 and Grade 4 laboratory abnormalities for serum creatinine, serum calcium, serum phosphorus, and serum magnesium observed in three clinical trials of zoledronic acid in patients with bone metastases are shown in Tables 8 and 9.
 
-Table 7: Grade 3 Laboratory Abnormalities for Serum Creatinine, Serum Calcium, Serum Phosphorus, and Serum Magnesium in Three Clinical Trials in Patients with Bone Metastases
+Table 8: Grade 3 Laboratory Abnormalities for Serum Creatinine, Serum Calcium, Serum Phosphorus, and Serum Magnesium in Three Clinical Trials in Patients with Bone Metastases
 
 | Grade 3 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -131,7 +131,7 @@ Table 7: Grade 3 Laboratory Abnormalities for Serum Creatinine, Serum Calcium, S
 | Serum Creatinine1* Hypocalcemia2 Hypophosphatemia3 Hypermagnesemia4 Hypomagnesemia5 | 7/529 6/973 115/973 19/971 1/971 | (1%) (<1%) (12%) (2%) (<1%) | 4/268 4/536 38/537 2/535 0/535 | (2%) (<1%) (7%) (<1%) — | 4/241 0/415 14/415 8/415 1/415 | (2%) — (3%) (2%) (<1%) |
 | 1 Grade 3 (greater than 3x Upper Limit of Normal); Grade 4 (greater than 6x Upper Limit of Normal) * Serum creatinine data for all patients randomized after the 15-minute infusion amendment 2 Grade 3 (less than 7 mg/dL); Grade 4 (less than 6 mg/dL) 3 Grade 3 (less than 2 mg/dL); Grade 4 (less than 1 mg/dL) 4 Grade 3 (greater than 3 mEq/L); Grade 4 (greater than 8 mEq/L) 5 Grade 3 (less than 0.9 mEq/L); Grade 4 (less than 0.7 mEq/L) |  |  |  |  |  |  |
 
-Table 8: Grade 4 Laboratory Abnormalities for Serum Creatinine, Serum Calcium, Serum Phosphorus, and Serum Magnesium in Three Clinical Trials in Patients with Bone Metastases
+Table 9: Grade 4 Laboratory Abnormalities for Serum Creatinine, Serum Calcium, Serum Phosphorus, and Serum Magnesium in Three Clinical Trials in Patients with Bone Metastases
 
 | Grade 4 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -146,9 +146,9 @@ Less common adverse events reported more often with zoledronic acid 4 mg than pa
 Decreased appetite was reported in slightly more patients in the zoledronic acid 4 mg group (13%) compared with the pamidronate (9%) and placebo (10%) groups, but the clinical significance of these small differences is not clear.
 
 Renal Toxicity In the bone metastases trials, renal deterioration was defined as an increase of 0.5 mg/dL for patients with normal baseline creatinine (less than 1.4 mg/dL) or an increase of 1 mg/dL for patients with an abnormal baseline creatinine (greater than or equal to 1.4 mg/dL).
-The following are data on the incidence of renal deterioration in patients receiving zoledronic acid 4 mg over 15 minutes in these trials (see Table 9).
+The following are data on the incidence of renal deterioration in patients receiving zoledronic acid 4 mg over 15 minutes in these trials (see Table 10).
 
-Table 9: Percentage of Patients with Treatment Emergent Renal Function Deterioration by Baseline Serum Creatinine*
+Table 10: Percentage of Patients with Treatment Emergent Renal Function Deterioration by Baseline Serum Creatinine*
 
 | Patient Population/Baseline Creatinine |  |  |  |  |
 | --- | --- | --- | --- | --- |

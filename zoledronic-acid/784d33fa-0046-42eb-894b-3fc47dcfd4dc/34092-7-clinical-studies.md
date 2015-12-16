@@ -22,9 +22,9 @@ Secondary efficacy variables from the pooled HCM studies included the proportion
 Time to relapse of HCM was defined as the duration (in days) of normalization of serum calcium from study drug infusion until the last CSC value less than 11.6 mg/dL (less than 2.90 mmol/L).
 Patients who did not have a complete response were assigned a time to relapse of 0 days.
 Duration of complete response was defined as the duration (in days) from the occurrence of a complete response until the last CSC ≤ 10.8 mg/dL (2.70 mmol/L).
-The results of these secondary analyses for zoledronic acid 4 mg and pamidronate 90 mg are shown in Table 10.
+The results of these secondary analyses for zoledronic acid 4 mg and pamidronate 90 mg are shown in Table 11.
 
-Table 10: Secondary Efficacy Variables in Pooled HCM Studies
+Table 11: Secondary Efficacy Variables in Pooled HCM Studies
 
 |  |  | Zoledronic Acid Injection 4 mg |  | Pamidronate 90 mg |
 | --- | --- | --- | --- | --- |
@@ -36,7 +36,7 @@ Table 10: Secondary Efficacy Variables in Pooled HCM Studies
 
 ## 14.2 Clinical Trials in Multiple Myeloma and Bone Metastases of Solid Tumors
 
-Table 11 describes an overview of the efficacy population in three randomized zoledronic acid trials in patients with multiple myeloma and bone metastases of solid tumors.
+Table 12 describes an overview of the efficacy population in three randomized zoledronic acid trials in patients with multiple myeloma and bone metastases of solid tumors.
 These trials included a pamidronate-controlled study in breast cancer and multiple myeloma, a placebo-controlled study in prostate cancer, and a placebo-controlled study in other solid tumors.
 The prostate cancer study required documentation of previous bone metastases and 3 consecutive rising PSAs while on hormonal therapy.
 The other placebo-controlled solid tumor study included patients with bone metastases from malignancies other than breast cancer and prostate cancer, including NSCLC, renal cell cancer, small cell lung cancer, colorectal cancer, bladder cancer, GI/genitourinary cancer, head and neck cancer, and others.
@@ -51,7 +51,7 @@ The zoledronic acid infusion duration was increased from 5 minutes to 15 minutes
 After all patients had been accrued, but while dosing and follow-up continued, patients in the 8 mg zoledronic acid treatment arm were switched to 4 mg due to toxicity.
 Patients who were randomized to the zoledronic acid 8 mg group are not included in these analyses.
 
-Table 11: Overview of Efficacy Population for Phase III Studies
+Table 12: Overview of Efficacy Population for Phase III Studies
 
 | Patient Population | No. of Patients | Zoledronic Acid Injection Dose | Control | Median Duration (Planned Duration) Zoledronic Acid Injection 4 mg |
 | --- | --- | --- | --- | --- |
@@ -63,9 +63,9 @@ Table 11: Overview of Efficacy Population for Phase III Studies
 Each study evaluated skeletal-related events (SREs), defined as any of the following: pathologic fracture, radiation therapy to bone, surgery to bone, or spinal cord compression.
 Change in antineoplastic therapy due to increased pain was a SRE in the prostate cancer study only.
 Planned analyses included the proportion of patients with a SRE during the study and time to the first SRE.
-Results for the two zoledronic acid placebo-controlled studies are given in Table 12.
+Results for the two zoledronic acid placebo-controlled studies are given in Table 13.
 
-Table 12: Zoledronic Acid Injection Compared to Placebo in Patients with Bone Metastases from Prostate Cancer or Other Solid Tumors
+Table 13: Zoledronic Acid Injection Compared to Placebo in Patients with Bone Metastases from Prostate Cancer or Other Solid Tumors
 
 |  | I. Analysis of Proportion of Patients with a SRE1 |  |  |  | II. Analysis of Time to the First SRE |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -77,9 +77,9 @@ Table 12: Zoledronic Acid Injection Compared to Placebo in Patients with Bone Me
 In the breast cancer and myeloma trial, efficacy was determined by a noninferiority analysis comparing zoledronic acid to pamidronate 90 mg for the proportion of patients with a SRE.
 This analysis required an estimation of pamidronate efficacy.
 Historical data from 1,128 patients in three pamidronate placebo-controlled trials demonstrated that pamidronate decreased the proportion of patients with a SRE by 13.1% (95% CI = 7.3%, 18.9%).
-Results of the comparison of treatment with zoledronic acid compared to pamidronate are given in Table 13.
+Results of the comparison of treatment with zoledronic acid compared to pamidronate are given in Table 14.
 
-Table 13: Zoledronic Acid Injection Compared to Pamidronate in Patients with Multiple Myeloma or Bone Metastases from Breast Cancer
+Table 14: Zoledronic Acid Injection Compared to Pamidronate in Patients with Multiple Myeloma or Bone Metastases from Breast Cancer
 
 |  | I. Analysis of Proportion of Patients with a SRE1 |  |  |  | II. Analysis of Time to the First SRE |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |

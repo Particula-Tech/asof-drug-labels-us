@@ -58,9 +58,9 @@ Zoledronic acid must not be mixed with calcium or other divalent cation-containi
 This concentrate should immediately be diluted in 100 mL of sterile 0.9% Sodium Chloride, USP, or 5% Dextrose Injection, USP, following proper aseptic technique, and administered to the patient by infusion.
 Do not store undiluted concentrate in a syringe, to avoid inadvertent injection.
 
-To prepare reduced doses for patients with baseline CrCl less than or equal to 60 mL/min, withdraw the specified volume of the zoledronic acid concentrate from the vial for the dose required (see Table 2).
+To prepare reduced doses for patients with baseline CrCl less than or equal to 60 mL/min, withdraw the specified volume of the zoledronic acid concentrate from the vial for the dose required (see Table 3).
 
-Table 2: Preparation of Reduced Doses - Zoledronic Acid Injection Concentrate
+Table 3: Preparation of Reduced Doses - Zoledronic Acid Injection Concentrate
 
 | Remove and Use Zoledronic Acid Injection Volume (mL) | Dose (mg) |
 | --- | --- |
