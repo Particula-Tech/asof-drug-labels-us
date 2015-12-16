@@ -44,7 +44,23 @@ Symptomatic hypotension may occur after initiating empagliflozin [see Adverse Re
 Before initiating SYNJARDY, assess for volume contraction and correct volume status if indicated.
 Monitor for signs and symptoms of hypotension after initiating therapy and increase monitoring in clinical situations where volume contraction is expected [see Use in Specific Populations (8.5)].
 
-## 5.3 Impairment in Renal Function
+## 5.3 Ketoacidosis
+
+Reports of ketoacidosis, a serious life-threatening condition requiring urgent hospitalization have been identified in postmarketing surveillance in patients with type 1 and type 2 diabetes mellitus receiving sodium glucose co-transporter-2 (SGLT2) inhibitors, including empagliflozin.
+SYNJARDY is not indicated for the treatment of patients with type 1 diabetes mellitus [see Indications and Usage (1)].
+
+Patients treated with SYNJARDY who present with signs and symptoms consistent with severe metabolic acidosis should be assessed for ketoacidosis regardless of presenting blood glucose levels, as ketoacidosis associated with SYNJARDY may be present even if blood glucose levels are less than 250 mg/dL.
+If ketoacidosis is suspected, SYNJARDY should be discontinued, patient should be evaluated, and prompt treatment should be instituted.
+Treatment of ketoacidosis may require insulin, fluid and carbohydrate replacement.
+
+In many of the postmarketing reports, and particularly in patients with type 1 diabetes, the presence of ketoacidosis was not immediately recognized and institution of treatment was delayed because presenting blood glucose levels were below those typically expected for diabetic ketoacidosis (often less than 250 mg/dL).
+Signs and symptoms at presentation were consistent with dehydration and severe metabolic acidosis and included nausea, vomiting, abdominal pain, generalized malaise, and shortness of breath.
+In some but not all cases, factors predisposing to ketoacidosis such as insulin dose reduction, acute febrile illness, reduced caloric intake due to illness or surgery, pancreatic disorders suggesting insulin deficiency (e.g., type 1 diabetes, history of pancreatitis or pancreatic surgery), and alcohol abuse were identified.
+
+Before initiating SYNJARDY, consider factors in the patient history that may predispose to ketoacidosis including pancreatic insulin deficiency from any cause, caloric restriction, and alcohol abuse.
+In patients treated with SYNJARDY consider monitoring for ketoacidosis and temporarily discontinuing SYNJARDY in clinical situations known to predispose to ketoacidosis (e.g., prolonged fasting due to acute illness or surgery).
+
+## 5.4 Impairment in Renal Function
 
 Empagliflozin increases serum creatinine and decreases eGFR [see Adverse Reactions (6.1)].
 The risk of impaired renal function with empagliflozin is increased in elderly patients and patients with moderate renal impairment.
@@ -63,11 +79,17 @@ Therefore, in patients in whom any such study is planned, SYNJARDY should be tem
 
 SYNJARDY should be temporarily discontinued for any surgical procedure (except minor procedures not associated with restricted intake of food and fluids) and should not be restarted until the patient’s oral intake has resumed and renal function has been evaluated as normal.
 
-## 5.4 Impaired Hepatic Function
+## 5.5 Urosepsis and Pyelonephritis
+
+There have been postmarketing reports of serious urinary tract infections including urosepsis and pyelonephritis requiring hospitalization in patients receiving SGLT2 inhibitors, including empagliflozin.
+Treatment with SGLT2 inhibitors increases the risk for urinary tract infections.
+Evaluate patients for signs and symptoms of urinary tract infections and treat promptly, if indicated [see Adverse Reactions (6)].
+
+## 5.6 Impaired Hepatic Function
 
 Because impaired hepatic function has been associated with some cases of lactic acidosis with metformin therapy, SYNJARDY should generally be avoided in patients with clinical or laboratory evidence of hepatic disease [see Warnings and Precautions (5.1)].
 
-## 5.5 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
+## 5.7 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
 
 Empagliflozin Insulin and insulin secretagogues are known to cause hypoglycemia.
 The risk of hypoglycemia is increased when empagliflozin is used in combination with insulin secretagogues (e.g., sulfonylurea) or insulin [see Adverse Reactions (6.1)].
@@ -78,18 +100,13 @@ Elderly, debilitated, or malnourished patients, and those with adrenal or pituit
 Hypoglycemia may be difficult to recognize in the elderly, and in people who are taking β-adrenergic blocking drugs.
 Monitor for a need to lower the dose of SYNJARDY to minimize the risk of hypoglycemia in these patients.
 
-## 5.6 Genital Mycotic Infections
+## 5.8 Genital Mycotic Infections
 
 Empagliflozin increases the risk for genital mycotic infections [see Adverse Reactions (6.1)].
 Patients with a history of chronic or recurrent genital mycotic infections were more likely to develop mycotic genital infections.
 Monitor and treat as appropriate.
 
-## 5.7 Urinary Tract Infections
-
-Empagliflozin increases the risk for urinary tract infections [see Adverse Reactions (6.1)].
-Monitor and treat as appropriate.
-
-## 5.8 Vitamin B12 Levels
+## 5.9 Vitamin B12 Levels
 
 In controlled, 29-week clinical trials of metformin, a decrease to subnormal levels of previously normal serum vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of metformin-treated patients.
 Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, is, however, very rarely associated with anemia or neurologic manifestations due to the short duration (<1 year) of the clinical trials.
@@ -99,21 +116,21 @@ Measurement of hematologic parameters on an annual basis is advised in patients 
 Certain individuals (those with inadequate vitamin B12 or calcium intake or absorption) appear to be predisposed to developing subnormal vitamin B12 levels.
 In these patients, routine serum vitamin B12 measurement at 2- to 3-year intervals may be useful.
 
-## 5.9 Alcohol Intake
+## 5.10 Alcohol Intake
 
 Alcohol is known to potentiate the effect of metformin on lactate metabolism.
 Patients, therefore, should be warned against excessive alcohol intake while receiving SYNJARDY [see Warnings and Precautions (5.1)].
 
-## 5.10 Hypoxic States
+## 5.11 Hypoxic States
 
 Cardiovascular collapse (shock) from whatever cause (e.g., acute congestive heart failure, acute myocardial infarction, and other conditions characterized by hypoxemia) have been associated with lactic acidosis and may also cause prerenal azotemia.
 When such events occur in patients on SYNJARDY therapy, the drug should be promptly discontinued [see Warnings and Precautions (5.1)].
 
-## 5.11 Increased Low-Density Lipoprotein Cholesterol (LDL-C)
+## 5.12 Increased Low-Density Lipoprotein Cholesterol (LDL-C)
 
 Increases in LDL-C can occur with empagliflozin.
 Monitor and treat as appropriate.
 
-## 5.12 Macrovascular Outcomes
+## 5.13 Macrovascular Outcomes
 
 There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with SYNJARDY, or any other antidiabetic drug.

@@ -11,7 +11,7 @@ By inhibiting SGLT2, empagliflozin reduces renal reabsorption of filtered glucos
 Metformin hydrochloride Metformin is an antihyperglycemic agent which improves glucose tolerance in patients with type 2 diabetes mellitus, lowering both basal and postprandial plasma glucose.
 It is not chemically or pharmacologically related to any other classes of oral antihyperglycemic agents.
 Metformin decreases hepatic glucose production, decreases intestinal absorption of glucose, and improves insulin sensitivity by increasing peripheral glucose uptake and utilization.
-Unlike SUs, metformin does not produce hypoglycemia in either patients with type 2 diabetes mellitus or normal subjects (except in special circumstances) [see Warnings and Precautions (5.5)] and does not cause hyperinsulinemia.
+Unlike SUs, metformin does not produce hypoglycemia in either patients with type 2 diabetes mellitus or normal subjects (except in special circumstances) [see Warnings and Precautions (5.7)] and does not cause hyperinsulinemia.
 With metformin therapy, insulin secretion remains unchanged while fasting insulin levels and day-long plasma insulin response may actually decrease.
 
 ## 12.2 Pharmacodynamics
@@ -71,7 +71,7 @@ Following oral administration, approximately 90% of the absorbed drug is elimina
 In blood, the elimination half-life is approximately 17.6 hours, suggesting that the erythrocyte mass may be a compartment of distribution.
 
 Specific Populations Renal Impairment SYNJARDY: Studies characterizing the pharmacokinetics of empagliflozin and metformin after administration of SYNJARDY in renally impaired patients have not been performed.
-Since metformin is contraindicated in patients with renal impairment, use of SYNJARDY is also contraindicated in patients with renal impairment (serum creatinine levels greater than or equal to 1.5 mg/dL for males or 1.4 mg/dL for females, or eGFR less than 45 mL/min/1.73 m2) [see Contraindications (4) and Warnings and Precautions (5.3)].
+Since metformin is contraindicated in patients with renal impairment, use of SYNJARDY is also contraindicated in patients with renal impairment (serum creatinine levels greater than or equal to 1.5 mg/dL for males or 1.4 mg/dL for females, or eGFR less than 45 mL/min/1.73 m2) [see Contraindications (4) and Warnings and Precautions (5.4)].
 
 Empagliflozin: In patients with mild (eGFR: 60 to less than 90 mL/min/1.73 m2), moderate (eGFR: 30 to less than 60 mL/min/1.73 m2), and severe (eGFR: less than 30 mL/min/1.73 m2) renal impairment and subjects with kidney failure/end stage renal disease (ESRD) patients, AUC of empagliflozin increased by approximately 18%, 20%, 66%, and 48%, respectively, compared to subjects with normal renal function.
 Peak plasma levels of empagliflozin were similar in subjects with moderate renal impairment and kidney failure/ESRD compared to patients with normal renal function.
@@ -79,11 +79,11 @@ Peak plasma levels of empagliflozin were roughly 20% higher in subjects with mil
 Population pharmacokinetic analysis showed that the apparent oral clearance of empagliflozin decreased with a decrease in eGFR leading to an increase in drug exposure.
 However, the fraction of empagliflozin that was excreted unchanged in urine, and urinary glucose excretion, declined with decrease in eGFR.
 
-Metformin hydrochloride: In patients with decreased renal function (based on measured creatinine clearance), the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased in proportion to the decrease in creatinine clearance [see Contraindications (4) and Warnings and Precautions (5.3)].
+Metformin hydrochloride: In patients with decreased renal function (based on measured creatinine clearance), the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased in proportion to the decrease in creatinine clearance [see Contraindications (4) and Warnings and Precautions (5.4)].
 
 Hepatic Impairment SYNJARDY: Studies characterizing the pharmacokinetics of empagliflozin and metformin after administration of SYNJARDY in hepatically impaired patients have not been performed.
 However, use of metformin alone in patients with hepatic impairment has been associated with some cases of lactic acidosis.
-Therefore, use of SYNJARDY is not recommended in patients with hepatic impairment [see Warnings and Precautions (5.4)].
+Therefore, use of SYNJARDY is not recommended in patients with hepatic impairment [see Warnings and Precautions (5.6)].
 
 Empagliflozin: In subjects with mild, moderate, and severe hepatic impairment according to the Child-Pugh classification, AUC of empagliflozin increased by approximately 23%, 47%, and 75%, and Cmax increased by approximately 4%, 23%, and 48%, respectively, compared to subjects with normal hepatic function.
 
@@ -97,7 +97,7 @@ Similarly, in controlled clinical studies in patients with type 2 diabetes melli
 No studies of metformin pharmacokinetic parameters according to race have been performed.
 In controlled clinical studies of metformin in patients with type 2 diabetes mellitus, the antihyperglycemic effect was comparable in Caucasians (n=249), Blacks (n=51), and Hispanics (n=24).
 
-Geriatric SYNJARDY: Studies characterizing the pharmacokinetics of empagliflozin and metformin after administration of SYNJARDY in geriatric patients have not been performed [see Warnings and Precautions (5.2, 5.3) and Use in Specific Populations (8.5)].
+Geriatric SYNJARDY: Studies characterizing the pharmacokinetics of empagliflozin and metformin after administration of SYNJARDY in geriatric patients have not been performed [see Warnings and Precautions (5.2, 5.4) and Use in Specific Populations (8.5)].
 
 Empagliflozin: Age did not have a clinically meaningful impact on the pharmacokinetics of empagliflozin based on a population pharmacokinetic analysis [see Use in Specific Populations (8.5)].
 
@@ -147,7 +147,7 @@ Table 5 Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
 | Nifedipine | 10 mg | 850 mg | metformin | 1.16 | 1.21 |
 | Propranolol | 40 mg | 850 mg | metformin | 0.90 | 0.94 |
 | Ibuprofen | 400 mg | 850 mg | metformin | 1.05‡ | 1.07‡ |
-| Cationic drugs eliminated by renal tubular secretion may reduce metformin elimination: use with caution [see Warnings and Precautions (5.3) and Drug Interactions (7.1)]. |  |  |  |  |  |
+| Cationic drugs eliminated by renal tubular secretion may reduce metformin elimination: use with caution [see Warnings and Precautions (5.4) and Drug Interactions (7.1)]. |  |  |  |  |  |
 | Cimetidine | 400 mg | 850 mg | metformin | 1.40 | 1.61 |
 | Carbonic anhydrase inhibitors may cause metabolic acidosis: use with caution [see Warnings and Precautions (5.1) and Drug Interactions (7.1)]. |  |  |  |  |  |
 | Topiramate** | 100 mg | 500 mg | metformin | 1.25 | 1.17 |

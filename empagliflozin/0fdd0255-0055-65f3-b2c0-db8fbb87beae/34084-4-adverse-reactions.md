@@ -2,15 +2,16 @@
 
 The following important adverse reactions are described below and elsewhere in the labeling:
 
-- Lactic Acidosis [see Boxed Warning and Warnings and Precautions (5.1, 5.3, 5.4, 5.9, 5.10)]
+- Lactic Acidosis [see Boxed Warning and Warnings and Precautions (5.1,, 5.4, 5.6, 5.10, 5.11)]
 - Hypotension [see Warnings and Precautions (5.2)]
-- Impairment in Renal Function [see Warnings and Precautions (5.3)]
-- Impaired Hepatic Function [see Warnings and Precautions (5.4)]
-- Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.5)]
-- Genital Mycotic Infections [see Warnings and Precautions (5.6)]
-- Urinary Tract Infections [see Warnings and Precautions (5.7)]
-- Vitamin B12 Deficiency [see Warnings and Precautions (5.8)]
-- Increased Low-Density Lipoprotein Cholesterol (LDL-C) [see Warnings and Precautions (5.11)]
+- Ketoacidosis [see Warnings and Precautions (5.3)]
+- Impairment in Renal Function [see Warnings and Precautions (5.4)]
+- Urosepsis and Pyelonephritis [see Warnings and Precautions (5.5)]
+- Impaired Hepatic Function [see Warnings and Precautions (5.6)]
+- Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.7)]
+- Genital Mycotic Infections [see Warnings and Precautions (5.8)]
+- Vitamin B12 Deficiency [see Warnings and Precautions (5.9)]
+- Increased Low-Density Lipoprotein Cholesterol (LDL-C) [see Warnings and Precautions (5.12)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -71,7 +72,7 @@ Increased Urination In the pool of five placebo-controlled clinical trials, adve
 Specifically, nocturia was reported by 0.4%, 0.3%, and 0.8% of patients treated with placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively.
 
 Impairment in Renal Function Use of empagliflozin was associated with increases in serum creatinine and decreases in eGFR (see Table 3).
-Patients with moderate renal impairment at baseline had larger mean changes [see Warnings and Precautions (5.2) and Use in Specific Populations (8.5, 8.6)].
+Patients with moderate renal impairment at baseline had larger mean changes [see Warnings and Precautions (5.4) and Use in Specific Populations (8.5, 8.6)].
 
 Table 3 Changes from Baseline in Serum Creatinine and eGFR in the Pool of Four 24-week Placebo-Controlled Studies and Renal Impairment Study
 
@@ -107,7 +108,7 @@ Table 3 Changes from Baseline in Serum Creatinine and eGFR in the Pool of Four 2
 | aSubset of patients from renal impairment study with eGFR 30 to less than 60 mL/min/1.73 m2. bApproximately 3 weeks after end of treatment. |  |  |  |  |
 
 Hypoglycemia The incidence of hypoglycemia by study is shown in Table 4.
-The incidence of hypoglycemia increased when empagliflozin was administered with insulin or sulfonylurea [see Warnings and Precautions (5.5)].
+The incidence of hypoglycemia increased when empagliflozin was administered with insulin or sulfonylurea [see Warnings and Precautions (5.7)].
 
 Table 4 Incidence of Overalla and Severeb Hypoglycemic Events in Placebo-Controlled Clinical Studies
 
@@ -145,18 +146,26 @@ The rate of treatment discontinuation due to urinary tract infections was 0.1%, 
 
 Urinary tract infections occurred more frequently in female patients.
 The incidence of urinary tract infections in female patients randomized to placebo, empagliflozin 10 mg, and empagliflozin 25 mg was 16.6%, 18.4%, and 17.0%, respectively.
-The incidence of urinary tract infections in male patients randomized to placebo, empagliflozin 10 mg, and empagliflozin 25 mg was 3.2%, 3.6%, and 4.1%, respectively [see Warnings and Precautions (5.7) and Use in Specific Populations (8.5)].
+The incidence of urinary tract infections in male patients randomized to placebo, empagliflozin 10 mg, and empagliflozin 25 mg was 3.2%, 3.6%, and 4.1%, respectively [see Warnings and Precautions (5.5) and Use in Specific Populations (8.5)].
 
 Metformin hydrochloride The most common (>5%) established adverse reactions due to initiation of metformin therapy are diarrhea, nausea/vomiting, flatulence, abdominal discomfort, indigestion, asthenia, and headache.
 
-Long-term treatment with metformin has been associated with a decrease in vitamin B12 absorption which may very rarely result in clinically significant vitamin B12 deficiency (e.g., megaloblastic anemia) [see Warnings and Precautions (5.8)].
+Long-term treatment with metformin has been associated with a decrease in vitamin B12 absorption which may very rarely result in clinically significant vitamin B12 deficiency (e.g., megaloblastic anemia) [see Warnings and Precautions (5.9)].
 
 Laboratory Tests Empagliflozin Increase in Low-Density Lipoprotein Cholesterol (LDL-C): Dose-related increases in low-density lipoprotein cholesterol (LDL-C) were observed in patients treated with empagliflozin.
-LDL-C increased by 2.3%, 4.6%, and 6.5% in patients treated with placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively [see Warnings and Precautions (5.11)].
+LDL-C increased by 2.3%, 4.6%, and 6.5% in patients treated with placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively [see Warnings and Precautions (5.12)].
 The range of mean baseline LDL-C levels was 90.3 to 90.6 mg/dL across treatment groups.
 
 Increase in Hematocrit: In a pool of four placebo-controlled studies, median hematocrit decreased by 1.3% in placebo and increased by 2.8% in empagliflozin 10 mg and 2.8% in empagliflozin 25 mg treated patients.
 At the end of treatment, 0.6%, 2.7%, and 3.5% of patients with hematocrits initially within the reference range had values above the upper limit of the reference range with placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively.
 
 Metformin hydrochloride In controlled clinical trials of metformin of 29 weeks’ duration, a decrease to subnormal levels of previously normal serum Vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of patients.
-Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, is, however, very rarely associated with anemia and appears to be rapidly reversible with discontinuation of metformin or Vitamin B12 supplementation [see Warnings and Precautions (5.8)].
+Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, is, however, very rarely associated with anemia and appears to be rapidly reversible with discontinuation of metformin or Vitamin B12 supplementation [see Warnings and Precautions (5.9)].
+
+## 6.2 Postmarketing Experience
+
+Additional adverse reactions have been identified during postapproval use of empagliflozin.
+Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+- Ketoacidosis [see Warnings and Precautions (5.3)]
+- Urosepsis and pyelonephritis [see Warnings and Precautions (5.5)]

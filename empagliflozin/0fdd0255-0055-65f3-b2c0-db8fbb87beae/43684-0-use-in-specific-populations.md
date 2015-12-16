@@ -48,7 +48,7 @@ Safety and effectiveness of SYNJARDY in pediatric patients under 18 years of age
 
 ## 8.5 Geriatric Use
 
-Because renal function abnormalities can occur after initiating empagliflozin, metformin is substantially excreted by the kidney, and aging can be associated with reduced renal function, monitor renal function more frequently after initiating SYNJARDY in the elderly and then adjust dose based on renal function [see Dosage and Administration (2.2), Warnings and Precautions (5.1, 5.3)].
+Because renal function abnormalities can occur after initiating empagliflozin, metformin is substantially excreted by the kidney, and aging can be associated with reduced renal function, monitor renal function more frequently after initiating SYNJARDY in the elderly and then adjust dose based on renal function [see Dosage and Administration (2.2), Warnings and Precautions (5.1, 5.4)].
 
 Empagliflozin No empagliflozin dosage change is recommended based on age [see Dosage and Administration (2)].
 A total of 2721 (32%) patients treated with empagliflozin were 65 years of age and older, and 491 (6%) were 75 years of age and older.
@@ -58,24 +58,24 @@ The risk of urinary tract infections increased in patients who were 75 years of 
 
 Metformin hydrochloride Controlled clinical studies of metformin did not include sufficient numbers of elderly patients to determine whether they respond differently from younger patients, although other reported clinical experience has not identified differences in responses between the elderly and young patients.
 The initial and maintenance dosing of metformin should be conservative in patients with advanced age, due to the potential for decreased renal function in this population.
-Any dose adjustment should be based on a careful assessment of renal function [see Contraindications (4), Warnings and Precautions (5.3), and Clinical Pharmacology (12.3)].
+Any dose adjustment should be based on a careful assessment of renal function [see Contraindications (4), Warnings and Precautions (5.4), and Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 
 SYNJARDY is contraindicated in patients with renal impairment (serum creatinine levels greater than or equal to 1.5 mg/dL for males or 1.4 mg/dL for females, or eGFR less than 45 mL/min/1.73 m2).
 
 Empagliflozin The efficacy and safety of empagliflozin have not been established in patients with severe renal impairment, with ESRD, or receiving dialysis.
-Empagliflozin is not expected to be effective in these patient populations [see Dosage and Administration (2.2), Contraindications (4) and Warnings and Precautions (5.2, 5.3)].
+Empagliflozin is not expected to be effective in these patient populations [see Dosage and Administration (2.2), Contraindications (4) and Warnings and Precautions (5.2, 5.4)].
 
 The glucose lowering benefit of empagliflozin 25 mg decreased in patients with worsening renal function.
-The risks of renal impairment [see Warnings and Precautions (5.3)], volume depletion adverse reactions and urinary tract infection-related adverse reactions increased with worsening renal function.
+The risks of renal impairment [see Warnings and Precautions (5.4)], volume depletion adverse reactions and urinary tract infection-related adverse reactions increased with worsening renal function.
 
 Empagliflozin may be used in patients with an eGFR greater than or equal to 45 mL/min/1.73 m2 or greater [see Clinical Pharmacology (12.3)].
 Empagliflozin is not recommended in patients with a persistent eGFR less than 45 mL/min/1.73 m2.
 
 Metformin hydrochloride Metformin is known to be substantially excreted by the kidney.
 The risk of metformin accumulation and lactic acidosis increases with the degree of renal impairment.
-Therefore, metformin is contraindicated in patients with renal impairment (serum creatinine levels greater than or equal to 1.5 mg/dL for males or 1.4 mg/dL for females) [see Contraindications (4) and Warnings and Precautions (5.1, 5.3)].
+Therefore, metformin is contraindicated in patients with renal impairment (serum creatinine levels greater than or equal to 1.5 mg/dL for males or 1.4 mg/dL for females) [see Contraindications (4) and Warnings and Precautions (5.1, 5.4)].
 
 ## 8.7 Hepatic Impairment
 

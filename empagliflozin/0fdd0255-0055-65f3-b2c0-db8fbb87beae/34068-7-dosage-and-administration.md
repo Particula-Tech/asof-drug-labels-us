@@ -15,4 +15,4 @@
 - Assess renal function prior to initiation of SYNJARDY and periodically, thereafter.
 - Do not initiate or continue SYNJARDY in patients with serum creatinine levels greater than or equal to 1.5 mg/dL for males or 1.4 mg/dL for females.
   In patients eligible for SYNJARDY based on creatinine cutoff criteria do not initiate or continue SYNJARDY if eGFR is persistently less than 45 mL/min/1.73 m2.
-  In patients eligible for SYNJARDY based on creatinine cutoff criteria, no dose adjustment is needed if eGFR is greater than or equal to 45 mL/min/1.73 m2 [see Contraindications (4) and Warnings and Precautions (5.3)].
+  In patients eligible for SYNJARDY based on creatinine cutoff criteria, no dose adjustment is needed if eGFR is greater than or equal to 45 mL/min/1.73 m2 [see Contraindications (4) and Warnings and Precautions (5.4)].

@@ -4,7 +4,7 @@
 
 Diuretics Coadministration of empagliflozin with diuretics resulted in increased urine volume and frequency of voids, which might enhance the potential for volume depletion [see Warnings and Precautions (5.2)].
 
-Insulin or Insulin Secretagogues Coadministration of empagliflozin with insulin or insulin secretagogues increases the risk for hypoglycemia [see Warnings and Precautions (5.5)].
+Insulin or Insulin Secretagogues Coadministration of empagliflozin with insulin or insulin secretagogues increases the risk for hypoglycemia [see Warnings and Precautions (5.7)].
 
 Positive Urine Glucose Test Monitoring glycemic control with urine glucose tests is not recommended in patients taking SGLT2 inhibitors as SGLT2 inhibitors increase urinary glucose excretion and will lead to positive urine glucose tests.
 Use alternative methods to monitor glycemic control.
@@ -15,7 +15,7 @@ Use alternative methods to monitor glycemic control.
 ## 7.2 Drug Interactions with Metformin Hydrochloride
 
 Cationic Drugs Cationic drugs (e.g., amiloride, digoxin, morphine, procainamide, quinidine, quinine, ranitidine, triamterene, trimethoprim, or vancomycin) that are eliminated by renal tubular secretion theoretically have the potential for interaction with metformin by competing for common renal tubular transport systems.
-Although such interactions remain theoretical (except for cimetidine), careful patient monitoring and dose adjustment of SYNJARDY and/or the interfering drug is recommended in patients who are taking cationic medications that are excreted via the proximal renal tubular secretory system [see Warnings and Precautions (5.3) and Clinical Pharmacology (12.3)].
+Although such interactions remain theoretical (except for cimetidine), careful patient monitoring and dose adjustment of SYNJARDY and/or the interfering drug is recommended in patients who are taking cationic medications that are excreted via the proximal renal tubular secretory system [see Warnings and Precautions (5.4) and Clinical Pharmacology (12.3)].
 
 Carbonic Anhydrase Inhibitors Topiramate or other carbonic anhydrase inhibitors (e.g., zonisamide, acetazolamide or dichlorphenamide) frequently decrease serum bicarbonate and induce non-anion gap, hyperchloremic metabolic acidosis.
 Concomitant use of these drugs may induce metabolic acidosis.
