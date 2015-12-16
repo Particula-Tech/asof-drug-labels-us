@@ -21,7 +21,7 @@ Federal Law requires the dispensing of ANORO ELLIPTA with the Medication Guide i
 
 Made in UK
 
-©2014, the GSK group of companies
+©2015, the GSK group of companies
 
-10000000128002 Rev.
-10/14
+- 10000000135824 Rev.
+  8/15

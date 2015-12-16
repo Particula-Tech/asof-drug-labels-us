@@ -140,7 +140,6 @@ ANORO ELLIPTA can cause serious side effects, including:
   - •seeing halos or bright colors around lights
   - •red eyes
 - If you have these symptoms, call your doctor right away before taking another dose.
-
 - •urinary retention.
   People who take ANORO ELLIPTA may develop new or worse urinary retention.
   Symptoms of urinary retention may include:
@@ -149,7 +148,6 @@ ANORO ELLIPTA can cause serious side effects, including:
   - •urinating frequently
   - •urination in a weak stream or drips
 - If you have these symptoms of urinary retention, stop taking ANORO ELLIPTA and call your doctor right away before taking another dose.
-
 - •changes in laboratory blood levels, including high levels of blood sugar (hyperglycemia) and low levels of potassium (hypokalemia)
 
 Common side effects of ANORO ELLIPTA include:
@@ -256,10 +254,9 @@ Wait to open the cover until you are ready to take your dose.
 
 Figure D
 
-Step 1.
-Open the cover of the inhaler.
-See Figure D.
-
+- Step 1.
+  Open the cover of the inhaler.
+  See Figure D.
 - •Slide the cover down to expose the mouthpiece.
   You should hear a “click.”
   The counter will count down by 1 number.
@@ -270,19 +267,17 @@ See Figure D.
 
 Figure E
 
-Step 2.
-Breathe out.
-See Figure E.
-
+- Step 2.
+  Breathe out.
+  See Figure E.
 - •While holding the inhaler away from your mouth, breathe out (exhale) fully.
   Do not breathe out into the mouthpiece.
 
 Figure F
 
-Step 3.
-Inhale your medicine.
-See Figure F.
-
+- Step 3.
+  Inhale your medicine.
+  See Figure F.
 - •Put the mouthpiece between your lips, and close your lips firmly around it.
   Your lips should fit over the curved shape of the mouthpiece.
 - •Take one long, steady, deep breath in through your mouth.
@@ -300,19 +295,17 @@ Figure H
 
 Figure I
 
-Step 4.
-Breathe out slowly and gently.
-See Figure I.
-
+- Step 4.
+  Breathe out slowly and gently.
+  See Figure I.
 - •You may not taste or feel the medicine, even when you are using the inhaler correctly.
 - •Do not take another dose from the inhaler even if you do not feel or taste the medicine.
 
 Figure J
 
-Step 5.
-Close the inhaler.
-See Figure J.
-
+- Step 5.
+  Close the inhaler.
+  See Figure J.
 - •You can clean the mouthpiece if needed, using a dry tissue, before you close the cover.
   Routine cleaning is not required.
 - •Slide the cover up and over the mouthpiece as far as it will go.
