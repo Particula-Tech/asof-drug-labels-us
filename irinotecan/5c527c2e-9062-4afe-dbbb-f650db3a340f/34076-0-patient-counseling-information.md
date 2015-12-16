@@ -15,8 +15,6 @@
 - •Patients should be alerted to the possibility of alopecia.
 - •Contains sorbitol.
 
-434652
+434689
 
-Hospira, Inc., Lake Forest, IL 60045 USA
-
-Product of Australia
+Hospira, Inc. Lake Forest, IL 60045 USA Product of Australia
