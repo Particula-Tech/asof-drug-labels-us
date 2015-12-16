@@ -21,8 +21,8 @@ In psoriasis, the rate of production of epithelial cells in the skin is greatly 
 This differential in proliferation rates is the basis for the use of methotrexate to control the psoriatic process.
 
 Methotrexate in high doses, followed by leucovorin rescue, is used as a part of the treatment of patients with non-metastatic osteosarcoma.
-The original rationale for high dose methotrexate therapy was based on the concept of selective rescue of normal tissues by leucovorin.
-More recent evidence suggests that high dose methotrexate may also overcome methotrexate resistance caused by impaired active transport, decreased affinity of dihydrofolic acid reductase for methotrexate, increased levels of dihydrofolic acid reductase resulting from gene amplification, or decreased polyglutamation of methotrexate.
+The original rationale for high-dose methotrexate therapy was based on the concept of selective rescue of normal tissues by leucovorin.
+More recent evidence suggests that high-dose methotrexate may also overcome methotrexate resistance caused by impaired active transport, decreased affinity of dihydrofolic acid reductase for methotrexate, increased levels of dihydrofolic acid reductase resulting from gene amplification, or decreased polyglutamation of methotrexate.
 The actual mechanism of action is unknown.
 
 In a 6-month double-blind, placebo-controlled trial of 127 pediatric patients with juvenile rheumatoid arthritis (JRA) (mean age, 10.1 years; age range, 2.5 to 18 years; mean duration of disease, 5.1 years) on background nonsteroidal anti-inflammatory drugs (NSAIDs) and/or prednisone, methotrexate given weekly at an oral dose of 10 mg/m2 provided significant clinical improvement compared to placebo as measured by either the physician’s global assessment, or by a patient composite (25% reduction in the articular-severity score plus improvement in parent and physician global assessments of disease activity).
@@ -31,8 +31,8 @@ The overwhelming majority of the remaining patients had systemic-course JRA.
 All patients were unresponsive to NSAIDs; approximately one-third were using low dose corticosteroids.
 Weekly methotrexate at a dose of 5 mg/m2 was not significantly more effective than placebo in this trial.
 
-Two Pediatric Oncology Group studies (one randomized and one non-randomized) demonstrated a significant improvement in relapse-free survival in patients with nonmetastatic osteosarcoma, when high dose methotrexate with leucovorin rescue was used in combination with other chemotherapeutic agents following surgical resection of the primary tumor.
-These studies were not designed to demonstrate the specific contribution of high dose methotrexate/leucovorin rescue therapy to the efficacy of the combination.
+Two Pediatric Oncology Group studies (one randomized and one non-randomized) demonstrated a significant improvement in relapse-free survival in patients with nonmetastatic osteosarcoma, when high-dose methotrexate with leucovorin rescue was used in combination with other chemotherapeutic agents following surgical resection of the primary tumor.
+These studies were not designed to demonstrate the specific contribution of high-dose methotrexate/leucovorin rescue therapy to the efficacy of the combination.
 However, a contribution can be inferred from the reports of objective responses to this therapy in patients with metastatic osteosarcoma, and from reports of extensive tumor necrosis following preoperative administration of this therapy to patients with non-metastatic osteosarcoma.
 
 ## Pharmacokinetics
@@ -87,12 +87,12 @@ Nonlinear elimination due to saturation of renal tubular reabsorption has been o
 Impaired renal function, as well as concurrent use of drugs such as weak organic acids that also undergo tubular secretion, can markedly increase methotrexate serum levels.
 Excellent correlation has been reported between methotrexate clearance and endogenous creatinine clearance.
 
-Methotrexate clearance rates vary widely and are generally at higher doses.
+Methotrexate clearance rates vary widely and are generally decreased at higher doses.
 Delayed drug clearance has been identified as one of the major factors responsible for methotrexate toxicity.
 It has been postulated that the toxicity of methotrexate for normal tissues is more dependent upon the duration of exposure to the drug rather than the peak level achieved.
 When a patient has delayed drug elimination due to compromised renal function, a third space effusion, or other causes, methotrexate serum concentrations may remain elevated for prolonged periods.
 
-The potential for toxicity from high dose regimens or delayed excretion is reduced by the administration of leucovorin calcium during the final phase of methotrexate plasma elimination.
+The potential for toxicity from high-dose regimens or delayed excretion is reduced by the administration of leucovorin calcium during the final phase of methotrexate plasma elimination.
 Pharmacokinetic monitoring of methotrexate serum concentrations may help identify those patients at high risk for methotrexate toxicity and aid in proper adjustments of leucovorin dosing.
 Guidelines for monitoring serum methotrexate levels, and for adjustment of leucovorin dosing to reduce the risk of methotrexate toxicity, are provided below in DOSAGE AND ADMINISTRATION.
 

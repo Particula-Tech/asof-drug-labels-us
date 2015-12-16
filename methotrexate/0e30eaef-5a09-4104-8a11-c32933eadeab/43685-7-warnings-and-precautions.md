@@ -46,8 +46,8 @@ Pulmonary function tests may be useful if methotrexate-induced lung disease is s
 
 ## Drug Interactions
 
-Nonsteroidal anti-inflammatory drugs should not be administered prior to or concomitantly with the high doses of methotrexate, such as used in the treatment of osteosarcoma.
-Concomitant administration of some NSAIDs with high dose methotrexate therapy has been reported to elevate and prolong serum methotrexate levels, resulting in deaths from severe hematologic and gastrointestinal toxicity.
+Nonsteroidal anti-inflammatory drugs should not be administered prior to or concomitantly with high doses of methotrexate, such as used in the treatment of osteosarcoma.
+Concomitant administration of some NSAIDs with high-dose methotrexate therapy has been reported to elevate and prolong serum methotrexate levels, resulting in deaths from severe hematologic and gastrointestinal toxicity.
 
 Caution should be used when NSAIDs and salicylates are administered concomitantly with lower doses of methotrexate.
 These drugs have been reported to reduce the tubular secretion of methotrexate in an animal model and may enhance its toxicity.
@@ -107,8 +107,11 @@ Safety and effectiveness in pediatric patients have been established only in can
 Published clinical studies evaluating the use of methotrexate in children and adolescents (i.e., patients 2 to 16 years of age) with JRA demonstrated safety comparable to that observed in adults with rheumatoid arthritis.
 (See CLINICAL PHARMACOLOGY, ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION.)
 
-Methotrexate injectable formulations containing the preservative benzyl alcohol are not recommended for use in neonates.
-There have been reports of fatal ‘gasping syndrome’ in neonates (children less than one month of age) following the administrations of intravenous solutions containing the preservative benzyl alcohol.
+For intrathecal and high-dose methotrexate therapy, use the preservative-free formulation of methotrexate.
+Do not use the preserved formulation of Methotrexate for intrathecal or high-dose therapy because it contains benzyl alcohol.
+
+Use the preservative-free formulation of methotrexate in neonates.
+There have been reports of fatal ‘gasping syndrome’ in neonates (children less than one month of age) following the administration of intravenous solutions containing the preservative benzyl alcohol.
 Symptoms include a striking onset of gasping respiration, hypotension, bradycardia, and cardiovascular collapse.
 
 Serious neurotoxicity, frequently manifested as generalized or focal seizures, has been reported with unexpectedly increased frequency among pediatric patients with acute lymphoblastic leukemia who were treated with intermediate-dose intravenous methotrexate (1 gm/m2).
@@ -182,7 +185,7 @@ Symptomatic patients were commonly noted to have leukoencephalopathy and/or micr
 Chronic leukoencephalopathy has also been reported in patients who received repeated doses of high-dose methotrexate with leucovorin rescue even without cranial irradiation.
 Discontinuation of methotrexate does not always result in complete recovery.
 
-A transient acute neurologic syndrome has been observed in patients treated with high dose regimens.
+A transient acute neurologic syndrome has been observed in patients treated with high-dose regimens.
 Manifestations of this stroke-like encephalopathy may include confusion, hemiparesis, transient blindness, seizures and coma.
 The exact cause is unknown.
 
@@ -208,4 +211,5 @@ This results in a prolonged terminal plasma half-life and unexpected toxicity.
 In patients with significant third space accumulations, it is advisable to evacuate the fluid before treatment and to monitor plasma methotrexate levels.
 
 Lesions of psoriasis may be aggravated by concomitant exposure to ultraviolet radiation.
+
 Radiation dermatitis and sunburn may be “recalled” by the use of methotrexate.

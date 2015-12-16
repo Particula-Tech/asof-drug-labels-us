@@ -1,13 +1,14 @@
-(Contains Preservative)
+Rx only
 
 # WARNINGS - SEE BOXED WARNINGS.
 
+For intrathecal and high-dose methotrexate therapy, use the preservative-free formulation of methotrexate.
+Do not use the preserved formulation of methotrexate for intrathecal or high dose therapy because it contains benzyl alcohol.
+
 Use caution when administering high-dose methotrexate to patients receiving proton pump inhibitor (PPI) therapy.
-Case reports and published population pharmacokinetic studies suggest that concomitant use of some PPIs, such as omeprazole, esomeprazole, and pantoprazole, with methotrexate (primarily at high dose), may elevate and prolong serum levels of methotrexate and/or its metabolite hydroxymethotrexate, possibly leading to methotrexate toxicities.
+Case reports and published population pharmacokinetic studies suggest that concomitant use of some PPIs, such as omeprazole, esomeprazole, and pantoprazole, with methotrexate (primarily at high doses), may elevate and prolong serum levels of methotrexate and/or its metabolite hydroxymethotrexate, possibly leading to methotrexate toxicities.
 In two of these cases, delayed methotrexate elimination was observed when high-dose methotrexate was co-administered with PPIs, but was not observed when methotrexate was co-administered with ranitidine.
 However, no formal drug interaction studies of methotrexate with ranitidine have been conducted.
-
-Methotrexate formulations and diluents containing preservatives must not be used for intrathecal or high dose methotrexate therapy.
 
 # HANDLING AND DISPOSAL
 
