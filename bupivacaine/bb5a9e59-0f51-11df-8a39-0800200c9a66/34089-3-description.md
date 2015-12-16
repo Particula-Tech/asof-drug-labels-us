@@ -10,10 +10,8 @@ Bupivacaine is related chemically and pharmacologically to the amide-type local 
 It is a homologue of mepivacaine and is related chemically to lidocaine.
 All three of these anesthetics contain an amide linkage between the aromatic nucleus and the amino, or piperidine group.
 They differ in this respect from the procaine-type local anesthetics, which have an ester linkage.
-Chemically, bupivacaine is 1-butyl-N-(2,6-dimethylphenyl)-2-piperidinecarboxamide with a molecular weight of 288.4.
+Chemically, Bupivacaine is 1-butyl-N-(2,6-dimethylphenyl)-2-piperidinecarboxamide with a molecular weight of 288.4.
 Bupivacaine has the following structural formula:
-
-Bupivacaine is present in EXPAREL at a concentration of 13.3 mg/mL.
 
 ## 11.2 Lipid Formulation
 

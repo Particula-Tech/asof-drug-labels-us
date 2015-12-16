@@ -1,13 +1,13 @@
 # 6. ADVERSE REACTIONS
 
-## 6.1 General
+## 6.1 Bupivacaine Adverse Reactions
 
 The most commonly encountered acute adverse experiences to bupivacaine and all amide-type local anesthetics that demand immediate counter-measures are related to the central nervous and cardiovascular systems.
 
 High plasma concentrations of bupivacaine can occur from overdosage, unintended intravascular injection, or accumulation of bupivacaine in plasma secondary to decreased hepatic metabolic degradation of the drug or diminished plasma protein binding capacity due to acidosis, pathologically lowered plasma protein production, or competition with other drugs for protein binding sites.
 Although rare, some individuals have a lower tolerance to and are supersensitive to bupivacaine and other amide-type local anesthetics and may rapidly develop signs of toxicity at low doses [See Overdosage (10)].
 
-## 6.2 Adverse Reactions Reported in All Wound Infiltration Clinical Studies
+## 6.2 Clinical Trial Experience
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
@@ -19,12 +19,12 @@ The common adverse reactions (incidence greater than or equal to 2% to less than
 
 The less common/rare adverse reactions (incidence less than 2%) following EXPAREL administration were chills, erythema, bradycardia, anxiety, urinary retention, pain, edema, tremor, dizziness postural, paresthesia, syncope, incision site edema, procedural hypertension, procedural hypotension, procedural nausea, muscular weakness, neck pain, pruritus generalized, rash pruritic, hyperhidrosis, cold sweat, urticaria, bradycardia, palpitations, sinus bradycardia, supraventricular extrasystoles, ventricular extrasystoles, ventricular tachycardia, hypertension, pallor, anxiety, confusional state, depression, agitation, restlessness, hypoxia, laryngospasm, apnea, respiratory depression, respiratory failure, body temperature increased, blood pressure increased, blood pressure decreased, oxygen saturation decreased, urinary incontinence, vision blurred, tinnitus, drug hypersensitivity, and hypersensitivity.
 
-Neurological and Cardiac Adverse Reactions Reported in All Wound Infiltration Clinical Studies
+Neurological and Cardiac Adverse Reactions
 
-In the EXPAREL wound infiltration studies, adverse reactions with an incidence greater than or equal to 1% in the Nervous System Disorders system organ class following EXPAREL administration were dizziness (6.2%), headache (3.8%), somnolence (2.1%), hypoesthesia (1.5%), and lethargy (1.3%).
+In the EXPAREL surgical site infiltration studies, adverse reactions with an incidence greater than or equal to 1% in the Nervous System Disorders system organ class following EXPAREL administration were dizziness (6.2%), headache (3.8%), somnolence (2.1%), hypoesthesia (1.5%), and lethargy (1.3%).
 The adverse reactions with an incidence greater than or equal to 1% in the Cardiac Disorders system organ class following EXPAREL administration were tachycardia (3.9%) and bradycardia (1.6%).
 
-Adverse Reactions Reported in Placebo-Controlled Wound Infiltration Clinical Studies
+Adverse Reactions Reported in Placebo-Controlled Trials
 
 Adverse reactions with an incidence greater than or equal to 2% reported by patients in clinical studies comparing 8 mL EXPAREL 1.3% (106 mg) to placebo and 20 mL EXPAREL 1.3% (266 mg) to placebo are shown in Table 1.
 

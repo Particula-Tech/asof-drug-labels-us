@@ -33,16 +33,16 @@ Descriptive statistics of pharmacokinetic parameters of representative EXPAREL d
 
 Table 2: Summary of Pharmacokinetic Parameters for Bupivacaine after Administration of Single Doses of EXPAREL
 
-|  | EXPAREL |  |
+|  | Surgical Site Administration |  |
 | --- | --- | --- |
 | Bunionectomy 106 mg (8 mL) | Hemorrhoidectomy 266 mg (20 mL) |  |
 | (N=26) | (N=25) |  |
 | Cmax (ng/mL) | 166 (92.7) | 867 (353) |
-| Tmax (h) | 2 | 0.5 |
+| Tmax (h) | 2 (0.5-24) | 0.5 (0.25-36) |
 | AUC(0-t) (h×ng/mL) | 5864 (2038) | 16,867 (7868) |
 | AUC(inf) (h×ng/mL) | 7105 (2283) | 18,289 (7569) |
-| t½ (h) | 34.1 (17.0) | 23.8 (39.4) |
-| Note: Arithmetic mean (standard deviation) except Tmax (median). |  |  |
+| t½ (h) | 34 (17) | 24 (39) |
+| Note: Arithmetic mean (standard deviation) except Tmax where it is median (range). |  |  |
 
 Distribution
 

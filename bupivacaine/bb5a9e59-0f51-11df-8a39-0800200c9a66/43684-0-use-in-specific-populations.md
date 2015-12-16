@@ -1,14 +1,16 @@
 # 8. USE IN SPECIFIC POPULATIONS
 
-## 8.1 Pregnancy Category C
+## 8.1 Pregnancy
 
 Risk Summary
 
-There are no adequate and well-controlled studies of EXPAREL in pregnant women.
-Animal reproduction studies have been conducted to evaluate bupivacaine.
-In these studies, subcutaneous administration of bupivacaine to rats and rabbits during organogenesis was associated with embryo-fetal deaths in rabbits at a dose equivalent to the maximum recommended human dose (MRHD).
-Subcutaneous administration of bupivacaine to rats from implantation through weaning, also at an MRHD-equivalent dose, produced decreased pup survival.
-EXPAREL should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+There are no studies conducted with EXPAREL in pregnant women.
+In animal reproduction studies, embryo-fetal deaths were observed with subcutaneous administration of bupivacaine to rabbits during organogenesis at a dose equivalent to 1.6 times the maximum recommended human dose (MRHD) of 266 mg.
+Subcutaneous administration of bupivacaine to rats from implantation through weaning produced decreased pup survival at a dose equivalent to 1.5 times the MRHD [see Data].
+Based on animal data, advise pregnant women of the potential risks to a fetus.
+
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
+However, the background risk in the U.S. general population of major birth defects is 2-4% and of miscarriage is 15-20% of clinically recognized pregnancies.
 
 Clinical Considerations
 
@@ -25,25 +27,28 @@ Data
 
 Animal Data
 
-Bupivacaine hydrochloride was administered subcutaneously to rats at doses of 4.4, 13.3, and 40 mg/kg/day and to rabbits at doses of 1.3, 5.8, and 22.2 mg/kg/day during the period of organogenesis (implantation to closure of the hard palate).
+Bupivacaine hydrochloride was administered subcutaneously to rats and rabbits during the period of organogenesis (implantation to closure of the hard plate).
+Rat doses were 4.4, 13.3, and 40 mg/kg/day (equivalent to 0.2, 0.5 and 1.5 times the MRHD, respectively, based on the BSA comparisons and a 60 kg human weight) and rabbit doses were 1.3, 5.8, and 22.2 mg/kg/day (equivalent to 0.1, 0.4 and 1.6 times the MRHD, respectively, based on the BSA comparisons and a 60 kg human weight).
 No embryo-fetal effects were observed in rats at the doses tested with the high dose causing increased maternal lethality.
 An increase in embryo-fetal deaths was observed in rabbits at the high dose in the absence of maternal toxicity.
-This dose is clinically relevant as is comparable to the MRHD based on Body Surface Area (BSA) comparisons.
 
-In a rat pre- and post-natal development study conducted at subcutaneous doses of 4.4, 13.3, and 40 mg/kg/day with dosing from implantation through weaning (during pregnancy and lactation), decreased pup survival was observed at the high dose, a clinically relevant dose as it is comparable to the MRHD based on BSA comparisons.
+Decreased pup survival was noted at 1.5 times the MRHD in a rat pre- and post-natal development study when pregnant animals were administered subcutaneous doses of 4.4, 13.3, and 40 mg/kg/day buprenorphine hydrochloride (equivalent to 0.2, 0.5 and 1.5 times the MRHD, respectively, based on the BSA comparisons and a 60 kg human weight) from implantation through weaning (during pregnancy and lactation).
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-Published literature reports that bupivacaine is present in human milk at low levels; however, the drug is poorly absorbed orally.
-Exercise caution when administering EXPAREL to a nursing woman.
+Risk Summary
+
+Limited published literature reports that bupivacaine and its’ metabolite, pipecolylxylidide, are present in human milk at low levels.
+There is no available information on effects of the drug in the breastfed infant or effects of the drug on milk production.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for EXPAREL and any potential adverse effects on the breastfed infant from EXPAREL or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness in pediatric patients below the age of 18 have not been established.
+Safety and effectiveness in pediatric patients have not been established.
 
 ## 8.5 Geriatric Use
 
-Of the total number of patients in the EXPAREL wound infiltration clinical studies (N=823), 171 patients were greater than or equal to 65 years of age and 47 patients were greater than or equal to 75 years of age.
+Of the total number of patients in the EXPAREL surgical site infiltration clinical studies (N=823), 171 patients were greater than or equal to 65 years of age and 47 patients were greater than or equal to 75 years of age.
 No overall differences in safety or effectiveness were observed between these patients and younger patients.
 Clinical experience with EXPAREL has not identified differences in efficacy or safety between elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 

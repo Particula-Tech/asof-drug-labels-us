@@ -57,7 +57,7 @@ Caution should be taken to avoid accidental intravascular injection of EXPAREL.
 Convulsions and cardiac arrest have occurred following accidental intravascular injection of bupivacaine and other amide-containing products.
 
 Using EXPAREL followed by other bupivacaine formulations has not been studied in clinical trials.
-Other formulations of bupivacaine should not be administered within 96 hours following administration of EXPAREL [See Clinical Pharmacology (12.3)].
+Formulations of bupivacaine other than EXPAREL should not be administered within 96 hours following administration of EXPAREL [See Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
 
 EXPAREL has not been evaluated for the following uses and, therefore, is not recommended for these types of analgesia or routes of administration.
 
@@ -70,7 +70,6 @@ EXPAREL has not been evaluated for use in the following patient population and, 
 
 - patients younger than 18 years old
 - pregnant patients
-- nursing patients
 
 The ability of EXPAREL to achieve effective anesthesia has not been studied.
 Therefore, EXPAREL is not indicated for pre-incisional or pre-procedural loco-regional anesthetic techniques that require deep and complete sensory block in the area of administration.
