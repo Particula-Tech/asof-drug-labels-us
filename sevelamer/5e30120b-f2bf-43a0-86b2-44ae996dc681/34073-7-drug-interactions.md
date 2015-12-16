@@ -15,3 +15,5 @@ Sevelamer Drug Interactions
 |  | Dosing Recommendations |
 | Ciprofloxacin | Take at least 2 hours before or 6 hours after sevelamer |
 | Mycophenolate mofetil | Take at least 2 hours before sevelamer |
+
+During postmarketing experience, cases of increased phosphate levels have been reported in patients taking proton pump inhibitors co-administered with sevelamer hydrochloride.
