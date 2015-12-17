@@ -14,7 +14,7 @@ Two randomized placebo-controlled, multicenter clinical trials enrolled patients
 In both Study 1 and Study 2 ZYTIGA was administered at a dose of 1,000 mg daily in combination with prednisone 5 mg twice daily in the active treatment arms.
 Placebo plus prednisone 5 mg twice daily was given to control patients.
 
-The most common adverse drug reactions (≥10%) reported in the two randomized clinical trials that occurred more commonly (>2%) in the abiraterone acetate arm were fatigue, joint swelling or discomfort, edema, hot flush, diarrhea, vomiting, cough, hypertension, dyspnea, urinary tract infection and contusion.
+The most common adverse reactions (≥10%) reported in the two randomized clinical trials that occurred more commonly (>2%) in the abiraterone acetate arm were fatigue, joint swelling or discomfort, edema, hot flush, diarrhea, vomiting, cough, hypertension, dyspnea, urinary tract infection and contusion.
 
 The most common laboratory abnormalities (>20%) reported in the two randomized clinical trials that occurred more commonly (≥2%) in the abiraterone acetate arm were anemia, elevated alkaline phosphatase, hypertriglyceridemia, lymphopenia, hypercholesterolemia, hyperglycemia, elevated AST, hypophosphatemia, elevated ALT and hypokalemia.
 

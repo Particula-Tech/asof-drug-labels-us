@@ -2,6 +2,7 @@
 
 The efficacy and safety of ZYTIGA in patients with metastatic castration-resistant prostate cancer (CRPC) that has progressed on androgen deprivation therapy was demonstrated in two randomized, placebo-controlled, multicenter Phase 3 clinical trials.
 Patients with prior ketoconazole treatment for prostate cancer and a history of adrenal gland or pituitary disorders were excluded from these trials.
+Concurrent use of spironolactone was not allowed during the study period.
 
 Study 1
 
