@@ -37,3 +37,5 @@ sigma-tau PHARMACEUTICALS, INC. GAITHERSBURG, MD 20878
 
 Manufactured by: sigma-tau S.p.A.
 Via Pontina Km 30, 400 00040 Pomezia - (Rome), Italy for sigma-tau PHARMACEUTICALS, INC.
+
+Carton Label
