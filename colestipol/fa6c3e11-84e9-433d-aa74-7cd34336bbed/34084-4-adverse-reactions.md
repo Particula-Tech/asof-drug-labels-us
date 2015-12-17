@@ -3,7 +3,7 @@
 ## Gastrointestinal
 
 The most common adverse reactions are confined to the gastrointestinal tract.
-To achieve minimal GI disturbance with an optimal LDL-C lowering effect, a gradual increase of dosage starting with one dose/day is recommended.
+To achieve minimal GI disturbance with an optimal LDL-C lowering effect, a gradual increase of dosage starting with 2 grams, once or twice daily is recommended.
 Constipation is the major single complaint and at times is severe.
 Most instances of constipation are mild, transient, and controlled with standard treatment.
 Increased fluid intake and inclusion of additional dietary fiber should be the first step; a stool softener may be added if needed.
@@ -18,7 +18,7 @@ Difficulty swallowing and transient esophageal obstruction have been rarely repo
 
 Transient and modest elevations of aspartate aminotransferase (AST, SGOT), alanine aminotransferase (ALT, SGPT) and alkaline phosphatase were observed on one or more occasions in various patients treated with colestipol hydrochloride.
 
-The following non-gastrointestinal adverse reactions have been reported with generally equal frequency in patients receiving colestipol tablets, colestipol hydrochloride granules or placebo in clinical studies:
+The following non-gastrointestinal adverse reactions have been reported with generally equal frequency in patients receiving colestipol tablets, colestipol granules or placebo in clinical studies:
 
 ## Cardiovascular
 
@@ -31,7 +31,7 @@ Urticaria and dermatitis have been rarely noted in patients receiving colestipol
 
 ## Musculoskeletal
 
-Musculoskeletal pain, aches and pains in the extremities, joint pains, arthritis, and backache have been reported.
+Musculoskeletal pain, aches and pains in the extremities, joint pain and arthritis, and backache have been reported.
 
 ## Neurologic
 

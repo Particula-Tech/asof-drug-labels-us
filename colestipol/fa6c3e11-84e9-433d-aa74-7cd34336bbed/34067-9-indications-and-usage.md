@@ -14,9 +14,9 @@ According to the NCEP guidelines, the goal of treatment is to lower LDL-C, and L
 Only if LDL-C levels are not available, should the Total-C be used to monitor therapy.
 The NCEP treatment guidelines are shown below.
 
-| Definite Atheroschlerotic DiseaseCoronary heart disease or peripheral vascular disease (including symptomatic carotid artery disease). | Two or More Other Risk FactorsOther risk factors for coronary heart disease (CHD) include: age (males: ≥45 years; females: ≥55 years or premature menopause without estrogen replacement therapy); family history of premature CHD; current cigarette smoking; hypertension; confirmed HDL-C <35 mg/dL (0.91 mmol/L); and diabetes mellitus. Subtract one risk factor if HDL-C is ≥60 mg/dL (1.6 mmol/L). | Initiation Level | Goal |
-| --- | --- | --- | --- |
 |  |  | LDL-Cholesterol mg/dL (mmol/L) |  |
+| --- | --- | --- | --- |
+| Definite Atheroschlerotic DiseaseCoronary heart disease or peripheral vascular disease (including symptomatic carotid artery disease). | Two or More Other Risk FactorsOther risk factors for coronary heart disease (CHD) include: age (males: ≥45 years; females: ≥55 years or premature menopause without estrogen replacement therapy); family history of premature CHD; current cigarette smoking; hypertension; confirmed HDL-C <35 mg/dL (0.91 mmol/L); and diabetes mellitus. Subtract one risk factor if HDL-C is ≥60 mg/dL (1.6 mmol/L). | Initiation Level | Goal |
 | No | No | ≥190 (≥4.9) | <160 (<4.1) |
 | No | Yes | ≥160 (≥4.1) | <130 (<3.4) |
-| Yes | Yes or No | ≥130 (≥3.4) | <100 (<2.6) |
+| Yes | Yes or No | ≥130 (≥3.4) | ≤100 (≤2.6) |

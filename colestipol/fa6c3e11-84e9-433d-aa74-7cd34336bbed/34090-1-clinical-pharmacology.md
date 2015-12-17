@@ -30,7 +30,7 @@ Over the 7-year study period the cholestyramine group experienced a 19% reductio
 The subjects included in the study were middle-aged men (age 35-59) with serum cholesterol levels above 265 mg/dL, LDL-C above 175 mg/dL on a moderate cholesterol-lowering diet, and no history of heart disease.
 It is not clear to what extent these findings can be extrapolated to other segments of the hypercholesterolemic population not studied.
 
-Treatment with colestipol hydrochloride results in a significant increase in lipoprotein LpAI.
+Treatment with colestipol results in a significant increase in lipoprotein LpAI.
 Lipoprotein LpAI is one of the two major lipoprotein particles within the high-density lipoprotein (HDL) density range3, and has been shown in cell culture to promote cholesterol efflux or removal from cells4.
 Although the significance of this finding has not been established in clinical studies, the elevation of the lipoprotein LpAI particle within the HDL fraction is consistent with an antiatherogenic effect of colestipol hydrochloride, even though little change is observed in HDL cholesterol (HDL-C).
 

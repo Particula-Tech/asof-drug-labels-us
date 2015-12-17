@@ -16,11 +16,16 @@ If you have had swallowing problems or choking with food, liquids or other table
 
 It is important that you take colestipol tablets correctly:
 
-1. Always take one tablet at a time and swallow promptly.
-2. Swallow each tablet whole.
-   Do not cut, crush, or chew the tablets.
-3. Colestipol tablets must be taken with water or another liquid that you prefer.
-   Swallowing the tablets will be easier if you drink plenty of liquid as you swallow each tablet.
+1.
+Always take one tablet at a time and swallow promptly.
+
+2.
+Swallow each tablet whole.
+Do not cut, crush, or chew the tablets.
+
+3.
+Colestipol tablets must be taken with water or another liquid that you prefer.
+Swallowing the tablets will be easier if you drink plenty of liquid as you swallow each tablet.
 
 Difficulty swallowing and temporary obstruction of the esophagus (the tube between your mouth and stomach) have been rarely reported in patients taking colestipol tablets.
 If a tablet does get stuck after you swallow it, you may notice pressure or discomfort.
@@ -35,7 +40,7 @@ Also, you can ask your pharmacist or doctor for information about colestipol tab
 
 Rx Only
 
-Dist. by: Global Pharmaceuticals Division of IMPAX Laboratories, Inc. Philadelphia, PA 19124 USA
+Dist. by: Impax Generics Hayward, CA 94544
 
-476-02 Rev.
-03/2013
+476-04 Rev.
+10/2015

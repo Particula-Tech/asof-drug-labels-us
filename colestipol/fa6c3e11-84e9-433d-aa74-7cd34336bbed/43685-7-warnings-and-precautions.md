@@ -29,7 +29,7 @@ While there have been no reports of hypothyroidism induced in individuals with n
 
 Since colestipol hydrochloride is a chloride form of an anion exchange resin, there is a possibility that prolonged use may lead to the development of hyperchloremic acidosis.
 
-## Carcinogenesis, mutagenesis and impairment of fertility
+## Carcinogenesis, Mutagenesis and Impairment of Fertility
 
 In studies conducted in rats in which cholestyramine resin (a bile acid sequestering agent similar to colestipol hydrochloride) was used as a tool to investigate the role of various intestinal factors, such as fat, bile salts and microbial flora, in the development of intestinal tumors induced by potent carcinogens, the incidence of such tumors was observed to be greater in cholestyramine resin treated rats than in control rats.
 
@@ -44,12 +44,13 @@ In the Ames assay, colestipol hydrochloride was not mutagenic.
 ## Use in Pregnancy
 
 Since colestipol hydrochloride is essentially not absorbed systemically (less than 0.17% of the dose), it is not expected to cause fetal harm when administered during pregnancy in recommended dosages.
-There are no adequate and well controlled studies in pregnant women, and the known interference with absorption of fat soluble vitamins may be detrimental even in the presence of supplementation.
+There are no adequate and well-controlled studies in pregnant women, and the known interference with absorption of fat-soluble vitamins may be detrimental even in the presence of supplementation.
+The use of colestipol tablets in pregnancy or by women of childbearing potential requires that the potential benefits of drug therapy be weighed against possible hazards to the mother or child.
 
 ## Nursing Mothers
 
 Caution should be exercised when colestipol tablets are administered to a nursing mother.
-The possible lack of proper vitamin absorption described in the "pregnancy" section may have an effect on nursing infants.
+The possible lack of proper vitamin absorption described in the "Pregnancy" section may have an effect on nursing infants.
 
 ## Pediatric Use
 
@@ -62,11 +63,14 @@ If you have had swallowing problems or choking with food, liquids or other table
 
 It is important that you take colestipol tablets correctly:
 
-1. Always take one tablet at a time and swallow promptly.
-2. Swallow each tablet whole.
-   Do not cut, crush, or chew the tablets.
-3. Colestipol tablets must be taken with water or another liquid that you prefer.
-   Swallowing the tablets will be easier if you drink plenty of liquid as you swallow each tablet.
+1.
+Always take one tablet at a time and swallow promptly.
+2.
+Swallow each tablet whole.
+Do not cut, crush, or chew the tablets.
+3.
+Colestipol tablets must be taken with water or another liquid that you prefer.
+Swallowing the tablets will be easier if you drink plenty of liquid as you swallow each tablet.
 
 Difficulty swallowing and temporary obstruction of the esophagus (the tube between your mouth and stomach) have been rarely reported in patients taking colestipol tablets.
 If a tablet does get stuck after you swallow it, you may notice pressure or discomfort.
@@ -84,7 +88,7 @@ The interval between the administration of colestipol tablets and any other medi
 Patients should take other drugs at least one hour before or four hours after colestipol tablets to avoid impeding their absorption.
 
 Repeated doses of colestipol hydrochloride given prior to a single dose of propranolol in human trials have been reported to decrease propranolol absorption.
-However, in a follow-up study in normal subjects, single dose administration of colestipol hydrochloride and propranolol and twice-a-day administration for 5 days of both agents did not effect the extent of propranolol absorption, but had a small yet statistically significant effect on its rate of absorption; the time to reach maximum concentration was delayed 30 minutes.
+However, in a follow-up study in normal subjects, single dose administration of colestipol hydrochloride and propranolol and twice-a-day administration for 5 days of both agents did not affect the extent of propranolol absorption, but had a small yet statistically significant effect on its rate of absorption; the time to reach maximum concentration was delayed approximately 30 minutes.
 Effects on the absorption of other beta-blockers have not been determined.
 Therefore, patients on propranolol should be observed when colestipol tablets are either added or deleted from a therapeutic regimen.
 
@@ -97,3 +101,6 @@ The potential for binding of these drugs if given concomitantly is present.
 Discontinuing colestipol hydrochloride could pose a hazard to health if a potentially toxic drug that is significantly bound to the resin has been titrated to a maintenance level while the patient was taking colestipol hydrochloride.
 
 Bile acid binding resins may also interfere with the absorption of oral phosphate supplements and hydrocortisone.
+
+A study has shown that cholestyramine binds bile acids and reduces mycophenolic acid exposure.
+As colestipol also binds bile acids, colestipol may reduce mycophenolic acid exposure and potentially reduce efficacy of mycophenolate mofetil.

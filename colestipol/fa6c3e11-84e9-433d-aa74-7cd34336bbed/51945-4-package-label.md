@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 1 g Tablet Bottle Label
 
-GLOBAL®
+Impax Generics
 
 NDC 0115-5211-16
 
