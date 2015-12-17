@@ -1,4 +1,4 @@
-# 3 DOSAGE FORMS AND STRENGTHS
+# 3DOSAGE FORMS AND STRENGTHS
 
 Orally disintegrating tablets (ODT) containing 15 mg, 30 mg, or 37.5 mg phentermine hydrochloride (equivalent to 12 mg, 24 mg, or 30 mg phentermine base, respectively).
 The tablets are not scored.

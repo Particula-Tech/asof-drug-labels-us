@@ -1,4 +1,4 @@
-# 14 CLINICAL STUDIES
+# 14CLINICAL STUDIES
 
 No clinical studies have been conducted with Suprenza.
 
@@ -10,4 +10,4 @@ The possible origins of the increased weight loss due to the various drug effect
 The amount of weight loss associated with the use of an “anorectic” drug varies from trial to trial, and the increased weight loss appears to be related in part to variables other than the drugs prescribed, such as the physician-investigator, the population treated and the diet prescribed.
 Studies do not permit conclusions as to the relative importance of the drug and non-drug factors on weight loss.
 
-The natural history of obesity is measured over several years, whereas the studies cited are restricted to a few weeks' duration; thus, the total impact of drug-induced weight loss over that of diet alone must be considered clinically limited.
+The natural history of obesity is measured over several years, whereas the studies cited are restricted to a few weeks’ duration; thus, the total impact of drug-induced weight loss over that of diet alone must be considered clinically limited.

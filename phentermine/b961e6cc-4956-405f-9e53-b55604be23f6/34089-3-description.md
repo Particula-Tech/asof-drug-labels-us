@@ -1,9 +1,12 @@
-# 11 DESCRIPTION
+# 11DESCRIPTION
 
 Suprenza is an orally disintegrating tablet (ODT) of phentermine hydrochloride, USP.
 Phentermine hydrochloride is a sympathomimetic amine anorectic.
 Its chemical name is α,α,-dimethylphenethylamine hydrochloride.
 The structural formula is as follows:
+
+C10H15N • HCl M.W.
+185.7
 
 Phentermine hydrochloride is a white, odorless, hygroscopic, crystalline powder which is soluble in water and lower alcohols, slightly soluble in chloroform and insoluble in ether.
 

@@ -1,17 +1,17 @@
-# 12 CLINICAL PHARMACOLOGY
+# 12CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism of Action
+## 12.1Mechanism of Action
 
 Suprenza is a sympathomimetic amine with pharmacologic activity similar to the prototype drugs of this class used in obesity, amphetamine (d- and dll-amphetamine).
 Drugs of this class used in obesity are commonly known as “anorectics” or “anorexigenics.”
 It has not been established that the primary action of such drugs in treating obesity is one of appetite suppression since other central nervous system actions, or metabolic effects, may also be involved.
 
-## 12.2 Pharmacodynamics
+## 12.2Pharmacodynamics
 
 Typical actions of amphetamines include central nervous system stimulation and elevation of blood pressure.
 Tachyphylaxis and tolerance have been demonstrated with all drugs of this class in which these phenomena have been looked for.
 
-## 12.3 Pharmacokinetics
+## 12.3Pharmacokinetics
 
 In terms of rate and extent of exposure, phentermine orally disintegrating tablets are equivalent to phentermine capsules and tablets administered under fasting conditions.
 

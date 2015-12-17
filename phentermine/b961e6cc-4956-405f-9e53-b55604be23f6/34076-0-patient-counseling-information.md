@@ -1,4 +1,4 @@
-# 17 PATIENT COUNSELING INFORMATION
+# 17PATIENT COUNSELING INFORMATION
 
 Patients must be informed that Suprenza is a short-term (a few weeks) adjunct in a regimen of weight reduction based on exercise, behavioral modification and caloric restriction in the management of exogenous obesity, and that coadministration of phentermine with other drugs for weight loss is not recommended [see Indications and Usage (1) and Warnings and Precautions (5)].
 
@@ -29,8 +29,6 @@ Manufactured for Akrimax Pharmaceuticals, LLC Cranford, NJ 07016
 
 by: Alpex Pharma SA Lugano, Switzerland
 
-Marketed and Distributed by:
+Marketed and Distributed by: Akrimax Pharmaceuticals, LLC Cranford, NJ 07016
 
-Akrimax Pharmaceuticals, LLC Cranford, NJ 07016
-
-372F005
+372F006

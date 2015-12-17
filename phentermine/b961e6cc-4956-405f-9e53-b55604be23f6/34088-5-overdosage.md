@@ -1,8 +1,8 @@
-# 10 OVERDOSAGE
+# 10OVERDOSAGE
 
 The least amount feasible should be prescribed or dispensed at one time in order to minimize the possibility of overdosage.
 
-## 10.1 Acute Overdosage
+## 10.1Acute Overdosage
 
 Manifestations of acute overdosage include restlessness, tremor, hyperreflexia, rapid respiration, confusion, assaultiveness, hallucinations, and panic states.
 Fatigue and depression usually follow the central stimulation.
@@ -14,8 +14,8 @@ Management of acute phentermine hydrochloride intoxication is largely symptomati
 Experience with hemodialysis or peritoneal dialysis is inadequate to permit recommendations in this regard.
 Intravenous phentolamine (Regitine®, CIBA) has been suggested on pharmacologic grounds for possible acute, severe hypertension, if this complicates overdosage.
 
-## 10.2 Chronic Intoxication
+## 10.2Chronic Intoxication
 
 Manifestations of chronic intoxication with anorectic drugs include severe dermatoses, marked insomnia, irritability, hyperactivity and personality changes.
 The most severe manifestation of chronic intoxications is psychosis, often clinically indistinguishable from schizophrenia.
-See Drug Abuse and Dependence (9.3).
+[see Drug Abuse and Dependence (9.3)].

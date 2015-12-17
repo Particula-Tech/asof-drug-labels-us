@@ -1,4 +1,4 @@
-# 16 HOW SUPPLIED/STORAGE AND HANDLING
+# 16HOW SUPPLIED/STORAGE AND HANDLING
 
 Available as orally disintegrating tablets (ODT) containing 15 mg, 30 mg, or 37.5 mg of phentermine hydrochloride (equivalent to 12 mg, 24 mg, or 30 mg phentermine base, respectively).
 The tablets are not scored.

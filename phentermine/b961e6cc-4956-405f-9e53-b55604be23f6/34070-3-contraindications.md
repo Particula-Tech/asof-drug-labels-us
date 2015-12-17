@@ -1,4 +1,4 @@
-# 4 CONTRAINDICATIONS
+# 4CONTRAINDICATIONS
 
 - History of cardiovascular disease (e.g., coronary artery disease, stroke, arrhythmias, congestive heart failure, uncontrolled hypertension)
 - During or within 14 days following the administration of monoamine oxidase inhibitors
