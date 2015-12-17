@@ -2,7 +2,7 @@ MEDICATION GUIDE
 
 BENLYSTA® (ben-LIST-ah)
 
-- (belimumab)
+(belimumab)
 
 Injection for intravenous use
 
@@ -189,12 +189,6 @@ BENLYSTA is a registered trademark of the GSK group of companies.
 
 Manufactured by
 
-GlaxoSmithKline Manufacturing SpA
-
-43056 S. Polo di Torrile (PR), Italy
-
-Manufactured for
-
 Human Genome Sciences, Inc.
 
 (a subsidiary of GlaxoSmithKline)
@@ -211,9 +205,9 @@ Research Triangle Park, NC 27709
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-©2014, the GSK group of companies.
+©2015 the GSK group of companies.
 All rights reserved.
 
-October 2014
+November 2015
 
-BNL:3MG
+BNL:4MG

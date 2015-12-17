@@ -47,12 +47,6 @@ BENLYSTA is a registered trademark of the GSK group of companies.
 
 Manufactured by
 
-GlaxoSmithKline Manufacturing SpA
-
-43056 S. Polo di Torrile (PR), Italy
-
-Manufactured for
-
 Human Genome Sciences, Inc.
 
 (a subsidiary of GlaxoSmithKline)
@@ -67,9 +61,10 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2015, the GSK group of companies.
+©2015 the GSK group of companies.
 All rights reserved.
 
-BNL:4PI
+BNL:5PI
 
-- DETACH HERE AND GIVE MEDICATION GUIDE TO PATIENT.- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- DETACH HERE AND GIVE MEDICATION GUIDE TO PATIENT.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - -

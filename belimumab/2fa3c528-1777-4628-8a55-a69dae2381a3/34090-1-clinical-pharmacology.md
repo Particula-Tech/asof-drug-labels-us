@@ -32,7 +32,7 @@ Population Pharmacokinetic Parameters in Patients with SLE after Intravenous Inf
 | Systemic clearance (CL, mL/day) | 215 |
 | Volume of distribution (Vss, L) | 5.29 |
 
-a Intravenous infusions were administered at 2‑week intervals for the first 3 doses and at 4‑week intervals thereafter.
+a Intravenous infusions were administered at 2-week intervals for the first 3 doses and at 4-week intervals thereafter.
 
 Drug Interactions
 
