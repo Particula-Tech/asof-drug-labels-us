@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA022225"
+  ],
+  "inn": "sugammadex",
+  "labeler": "Merck Sharp & Dohme Corp.",
+  "package_ndcs": [
+    "0006-5423-02",
+    "0006-5423-05",
+    "0006-5423-12",
+    "0006-5423-15"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "sugammadex",
+      "name": "BRIDION"
+    }
+  ],
+  "setid": "5171d883-fe8f-482c-97ab-40b00975b64a",
+  "source": "dailymed"
+}
