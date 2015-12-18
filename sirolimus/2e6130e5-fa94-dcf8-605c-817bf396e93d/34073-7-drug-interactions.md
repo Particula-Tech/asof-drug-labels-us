@@ -7,7 +7,7 @@ Inducers of CYP3A4 and P-gp may decrease sirolimus concentrations whereas inhibi
 
 Cyclosporine, a substrate and inhibitor of CYP3A4 and P-gp, was demonstrated to increase sirolimus concentrations when co-administered with sirolimus.
 In order to diminish the effect of this interaction with cyclosporine, it is recommended that sirolimus be taken 4 hours after administration of cyclosporine oral solution (MODIFIED) and/or cyclosporine capsules (MODIFIED).
-If cyclosporine is withdrawn from combination therapy with sirolimus, higher doses of sirolimus are needed to maintain the recommended sirolimus trough concentration ranges [see Dosage and Administration (2.1), Clinical Pharmacology (12.3)].
+If cyclosporine is withdrawn from combination therapy with sirolimus, higher doses of sirolimus are needed to maintain the recommended sirolimus trough concentration ranges [see Dosage and Administration (2.2), Clinical Pharmacology (12.3)].
 
 ## 7.2 Strong Inducers and Strong Inhibitors of CYP3A4 and P-gp
 

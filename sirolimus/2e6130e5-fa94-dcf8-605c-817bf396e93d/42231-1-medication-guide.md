@@ -1,10 +1,6 @@
 # MEDICATION GUIDE
 
-SIROLIMUS TABLETS
-
-Read this Medication Guide before you start taking sirolimus and each time you get a refill.
-There may be new information.
-This information does not take the place of talking with your doctor or other healthcare provider about your medical condition or your treatment.
+Sirolimus Tablets
 
 What is the most important information I should know about sirolimus?
 
@@ -14,14 +10,14 @@ Sirolimus can cause serious side effects, including:
 
 2. increased risk of getting certain cancers
 
-1.
+3.
 Increased risk of getting infections.
 Serious infections can happen including infections caused by viruses, bacteria, and fungi (yeast).
 Your doctor may put you on medicine to help prevent some of these infections.
 
 Call your doctor right away if you have symptoms of infection including fever or chills while taking sirolimus.
 
-2.
+4.
 Increased risk of getting certain cancers.
 People who take sirolimus have a higher risk of getting lymphoma, and other cancers, especially skin cancer.
 Talk with your doctor about your risk for cancer.
@@ -43,7 +39,7 @@ Your doctor will decide:
 - if sirolimus is right for you, and
 - how to best use it with cyclosporine and corticosteroids after your transplant.
 
-It is not known if sirolimus is safe and effective in children 13 years or younger.
+It is not known if sirolimus is safe and effective in children under 13 years of age.
 
 Who should not take sirolimus?
 
@@ -64,7 +60,7 @@ Before taking sirolimus, tell your doctor if you:
   You and your doctor should decide if you will take sirolimus or breastfeed.
   You should not do both.
 
-Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements.
+Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins and herbal supplements.
 Using sirolimus with certain medicines may affect each other causing serious side effects.
 
 Sirolimus may affect the way other medicines work, and other medicines may affect how sirolimus works.
@@ -92,7 +88,7 @@ How should I take sirolimus?
 - Do not stop taking sirolimus or your other anti-rejection medicines unless your doctor tells you to.
 - Your doctor will check the levels of sirolimus in your blood.
   Your doctor may change your dose of sirolimus depending on your blood test results.
-- Sirolimus is taken by mouth once a day.
+- Sirolimus is taken by mouth 1 time each day.
 - Do not crush, chew, or split sirolimus tablets.
   Tell your doctor if you cannot swallow sirolimus tablets.
   Your doctor can prescribe sirolimus as a solution.
@@ -154,7 +150,7 @@ Sirolimus may cause serious side effects, including:
   When sirolimus is taken with cyclosporine or tacrolimus, you may develop a blood clotting problem.
   Tell your doctor if you get any unexplained bleeding or bruising.
 
-Common side effects with sirolimus include:
+The most common side effects of sirolimus in people with renal tranplant include:
 
 - high blood pressure
 - pain (including stomach and joint pain)
@@ -162,7 +158,9 @@ Common side effects with sirolimus include:
 - headache
 - fever urinary tract infection
 - low red blood cell count (anemia)
-- nausea low platelet count (cells that help blood to clot)
+- nausea
+- low platelet count (cells that help blood to clot)
+- high blood sugar (diabetes)
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 
@@ -184,7 +182,7 @@ Safely throw away medicine that is out of date or no longer needed.
 
 Keep sirolimus and all medicines out of the reach of children.
 
-General Information about sirolimus
+General Information about the safe and effective use of sirolimus
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use sirolimus for a condition for which it was not prescribed.
@@ -199,8 +197,7 @@ For more information, call 1-888-375-3784.
 
 What are the ingredients in sirolimus tablets?
 
-Active ingredient: sirolimus.
-The inactive ingredients in sirolimus tablets include: carnauba wax, ethyl cellulose, hydroxypropyl methylcellulose 5 cps, lactose monohydrate, magnesium stearate, mannitol, microcrystalline cellulose (avicel pH 105), microcrystalline cellulose (avicel pH 200), poloxamer 188, polyethylene glycol 20000, polyethylene glycol 8000, sucrose, titanium dioxide, vitamin E preparation, seal coating agent opaglos clear NA 7150, and imprinting ink opacode red (S-1-15052).
+Inactive ingredients: Sirolimus Tablets: The inactive ingredients in sirolimus tablets include: carnauba wax, ethyl cellulose, hydroxypropyl methylcellulose 5 cps, lactose monohydrate, magnesium stearate, mannitol, microcrystalline cellulose (avicel pH 105), microcrystalline cellulose (avicel pH 200), poloxamer 188, polyethylene glycol 20000, polyethylene glycol 8000, sucrose, titanium dioxide, vitamin E preparation, seal coating agent opaglos clear NA 7150, and imprinting ink opacode red (S-1-15052).
 The 2 mg dosage strength also contains iron oxide red and iron oxide yellow.
 
 Seal coating agent opaglos clear NA 7150 contains, acetylated monoglyceride, industrial methylated spirit 74 OP, povidone, and shellac.
@@ -217,6 +214,6 @@ Manufactured by:
 
 Dr. Reddy’s Laboratories Limited
 
-Visakhapatnam – INDIA
+Visakhapatnam – 530 046 INDIA
 
-Issued: 0413
+Revised: 1215

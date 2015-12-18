@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-Sirolimus tablets are to be administered orally once daily, consistently with or without food [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)].
+Sirolimus tablets are to be administered orally once daily, consistently with or without food [see Dosage and Administration (2.5), Clinical Pharmacology(12.3)].
 
 Tablets should not be crushed, chewed or split.
 Patients unable to take the tablets should be prescribed the solution and instructed in its use.
@@ -19,20 +19,36 @@ Sirolimus trough concentrations should be monitored at least 3 to 4 days after a
 Two milligrams (2 mg) of sirolimus oral solution have been demonstrated to be clinically equivalent to 2 mg sirolimus tablets; hence, are interchangeable on a mg-to-mg basis.
 However, it is not known if higher doses of sirolimus oral solution are clinically equivalent to higher doses of sirolimus tablets on a mg-to-mg basis [see Clinical Pharmacology (12.3)].
 
-## 2.1 Patients at Low- to Moderate-Immunologic Risk
+## 2.1 General Dosing Guidance for Renal Transplant Patients
+
+The initial dose of sirolimus tablets should be administered as soon as possible after transplantation.
+It is recommended that sirolimus tablets be taken 4 hours after administration of cyclosporine oral solution (MODIFIED) and or/cyclosporine capsules (MODIFIED) [see Drug Interactions (7.2)].
+
+Frequent sirolimus tablets dose adjustments based on non-steady-state sirolimus concentrations can lead to overdosing or underdosing because sirolimus has a long half-life.
+Once sirolimus tablets maintenance dose is adjusted, patients should continue on the new maintenance dose for at least 7 to 14 days before further dosage adjustment with concentration monitoring.
+In most patients, dose adjustments can be based on simple proportion: new sirolimus tablets dose = current dose x (target concentration/current concentration).
+A loading dose should be considered in addition to a new maintenance dose when it is necessary to increase sirolimus trough concentrations: sirolimus tablets loading dose = 3 x (new maintenance dose - current maintenance dose).
+The maximum sirolimus tablets dose administered on any day should not exceed 40 mg.
+If an estimated daily dose exceeds 40 mg due to the addition of a loading dose, the loading dose should be administered over 2 days.
+Sirolimus trough concentrations should be monitored at least 3 to 4 days after a loading dose(s).
+
+Two milligrams (2 mg) of sirolimus oral solution have been demonstrated to be clinically equivalent to 2 mg sirolimus tablets; hence, are interchangeable on a mg-to-mg basis.
+However, it is not known if higher doses of sirolimus oral solution are clinically equivalent to higher doses of sirolimus tablets on a mg-to-mg basis [see Clinical Pharmacology (12.3)].
+
+## 2.2 Renal Transplant Patients at Low- to Moderate-Immunologic Risk
 
 Sirolimus Tablets and Cyclosporine Combination Therapy
 
 For de novo renal transplant patients, it is recommended that sirolimus oral solution and tablets be used initially in a regimen with cyclosporine and corticosteroids.
 A loading dose of sirolimus tablets equivalent to 3 times the maintenance dose should be given, i.e. a daily maintenance dose of 2 mg should be preceded with a loading dose of 6 mg.
-Therapeutic drug monitoring should be used to maintain sirolimus drug concentrations within the target-range [see Dosage and Administration (2.3)].
+Therapeutic drug monitoring should be used to maintain sirolimus drug concentrations within the target-range [see Dosage and Administration(2.5)].
 
 Sirolimus Tablets Following Cyclosporine Withdrawal
 
-At 2 to 4 months following transplantation, cyclosporine should be progressively discontinued over 4 to 8 weeks, and the sirolimus tablets dose should be adjusted to obtain sirolimus whole blood trough concentrations within the target-range [see Dosage and Administration (2.3)].
+At 2 to 4 months following transplantation, cyclosporine should be progressively discontinued over 4 to 8 weeks, and the sirolimus tablets dose should be adjusted to obtain sirolimus whole blood trough concentrations within the target-range [see Dosage and Administration (2.5)].
 Because cyclosporine inhibits the metabolism and transport of sirolimus, sirolimus concentrations may decrease when cyclosporine is discontinued, unless the sirolimus tablets dose is increased [see Clinical Pharmacology (12.3)].
 
-## 2.2 Patients at High-Immunologic Risk
+## 2.3 Renal Transplant Patients at High-Immunologic Risk
 
 In patients with high-immunologic risk, it is recommended that sirolimus tablets be used in combination with cyclosporine and corticosteroids for the first 12 months following transplantation [see Clinical Studies (14.3)].
 The safety and efficacy of this combination in high- immunologic risk patients has not been studied beyond the first 12 months.
@@ -40,14 +56,14 @@ Therefore, after the first 12 months following transplantation, any adjustments 
 
 For patients receiving sirolimus tablets with cyclosporine, sirolimus tablets therapy should be initiated with a loading dose of up to 15 mg on day 1 post-transplantation.
 Beginning on day 2, an initial maintenance dose of 5 mg/day should be given.
-A trough level should be obtained between days 5 and 7, and the daily dose of sirolimus tablets should thereafter be adjusted [see Dosage and Administration (2.3)].
+A trough level should be obtained between days 5 and 7, and the daily dose of sirolimus tablets should thereafter be adjusted [see Dosage and Administration (2.5)].
 
-The starting dose of cyclosporine should be up to 7 mg/kg/day in divided doses and the dose should subsequently be adjusted to achieve target whole blood trough concentrations [see Dosage and Administration (2.3)].
+The starting dose of cyclosporine should be up to 7 mg/kg/day in divided doses and the dose should subsequently be adjusted to achieve target whole blood trough concentrations [see Dosage and Administration (2.5)].
 Prednisone should be administered at a minimum of 5 mg/day.
 
 Antibody induction therapy may be used.
 
-## 2.3 Therapeutic Drug Monitoring
+## 2.5 Therapeutic Drug Monitoring
 
 Monitoring of sirolimus trough concentrations is recommended for all patients, especially in those patients likely to have altered drug metabolism, in patients ≥ 13 years who weigh less than 40 kg, in patients with hepatic impairment, when a change in the sirolimus tablets dosage form is made, and during concurrent administration of strong CYP3A4 inducers and inhibitors [see Drug Interactions (7)].
 
@@ -66,16 +82,16 @@ Since results are assay and laboratory dependent, and the results may change ove
 Therefore, communication should be maintained with the laboratory performing the assay.
 A discussion of different assay methods is contained in Clinical Therapeutics, Volume 22, Supplement B, April 2000 [see References (15)].
 
-## 2.4 Patients with Low Body Weight
+## 2.6 Patients with Low Body Weight
 
 The initial dosage in patients ≥ 13 years who weigh less than 40 kg should be adjusted, based on body surface area, to 1 mg/m2/day.
 The loading dose should be 3 mg/m2.
 
-## 2.5 Patients with Hepatic Impairment
+## 2.7 Patients with Hepatic Impairment
 
 It is recommended that the maintenance dose of sirolimus tablets be reduced by approximately one third in patients with mild or moderate hepatic impairment and by approximately one half in patients with severe hepatic impairment.
 It is not necessary to modify the sirolimus tablets loading dose [see Clinical Pharmacology (12.3)].
 
-## 2.6 Patients with Renal Impairment
+## 2.8 Patients with Renal Impairment
 
 Dosage adjustment is not needed in patients with impaired renal function [see Use in Specific Populations (8.7)].
