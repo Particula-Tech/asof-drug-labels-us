@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA207667"
+  ],
+  "inn": "methylprednisolone",
+  "labeler": "AuroMedics Pharma LLC",
+  "package_ndcs": [
+    "55150-262-03",
+    "55150-263-03",
+    "55150-264-20",
+    "55150-265-50"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "methylprednisolone sodium succinate",
+      "name": "Methylprednisolone Sodium Succinate"
+    }
+  ],
+  "setid": "2035f00e-2299-473a-b004-cb93f541cfa9",
+  "source": "dailymed"
+}
