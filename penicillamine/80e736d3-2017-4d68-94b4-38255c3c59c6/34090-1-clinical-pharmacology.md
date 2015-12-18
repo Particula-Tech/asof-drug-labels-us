@@ -24,7 +24,7 @@ This permits maximum absorption and reduces the likelihood of inactivation by me
 
 ## Pharmacokinetics
 
-Penicillamine is absorbed rapidly but incompletely (40-70%) from the gastrointestinal tract, with wide interindividual variations.
+Penicillamine is absorbed rapidly but incompletely (40-70%) from the gastrointestinal tract, with wide inter-individual variations.
 Food, antacids, and iron reduce absorption of the drug.
 The peak plasma concentration of penicillamine occurs 1-3 hours after ingestion; it is approximately 1-2 mg/L after an oral dose of 250 mg.
 The drug appears in the plasma as free penicillamine, penicillamine disulfide, and cysteine-penicillamine disulfide.

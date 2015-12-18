@@ -1,13 +1,17 @@
 # PRINCIPAL DISPLAY PANEL - 100 mg Tablet Label
 
-Cuprimine® 250 mg (Penicillamine)
+NDC 25010-705-15
 
-Distributed by: ATON PHARMA, INC. LAWRENCEVILLE, NJ 08648, USA
+Rx only
 
-Each capsule contains 250 mg of penicillamine.
+Cuprimine® (Penicillamine) Capsules
+
+250 mg
+
+Each capsule contains 250 mg
+
+of penicillamine.
 
 Keep container tightly closed.
 
 100 Capsules
-
-Patent Pending

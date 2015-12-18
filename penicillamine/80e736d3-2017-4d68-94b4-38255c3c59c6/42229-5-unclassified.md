@@ -1,9 +1,8 @@
-Distributed by: ATON PHARMA Lawrenceville NJ 08648 USA
-
-Patent pending
+Distributed by: Aton Pharma.
+Inc., a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
 Manufactured by: Pharmaceutics International, Inc. 10819 Gilroy Road Hunt Valley, MD 21031 USA
 
-Issued March 2010
+Issued November 2015
 
-8838-00
+9498700
