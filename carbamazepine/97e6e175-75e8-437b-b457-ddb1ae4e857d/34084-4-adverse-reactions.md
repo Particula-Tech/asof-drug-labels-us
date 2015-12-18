@@ -9,12 +9,12 @@ To minimize the possibility of such reactions, therapy should be initiated at th
 
 The following additional adverse reactions have been reported:
 
-Hemopoietic System: Aplastic anemia, agranulocytosis, pancytopenia, bone marrow depression, thrombocytopenia, leukopenia, leukocytosis, eosinophilia, anemia, acute intermittent porphyria, variegate porphyria, porphyria cutanea tarda.
+Hemopoietic System: Aplastic anemia, agranulocytosis, pancytopenia, bone marrow depression, thrombocytopenia, leukopenia, leukocytosis, eosinophilia, acute intermittent porphyria, variegate porphyria, porphyria cutanea tarda.
 
 Skin: Toxic epidermal necrolysis (TEN) and Stevens-Johnson syndrome (SJS) (see BOXED WARNING), Acute Generalized Exanthematous Pustulosis (AGEP), pruritic and erythematous rashes, urticaria, photosensitivity reac tions, alterations in skin pigmentation, exfoliative dermatitis, erythema multiforme and nodosum, purpura, aggravation of disseminated lupus erythematosus, alopecia, diaphoresis, onychomadesis and hirsutism.
 In certain cases, discontinuation of therapy may be necessary.
 
-Cardiovascular System: Congestive heart failure, edema, aggravation of hypertension, hypotension, syncope and collapse, aggravation of coronary artery disease, arrhythmias and AV block, thrombophlebitis, thromboembolism (e.g. pulmonary embolism), and adenopathy or lymphadenopathy.
+Cardiovascular System: Congestive heart failure, edema, aggravation of hypertension, hypotension, syncope and collapse, aggravation of coronary artery disease, arrhythmias and AV block, thrombophlebitis, thromboembolism (e.g., pulmonary embolism), and adenopathy or lymphadenopathy.
 
 Some of these cardiovascular complications have resulted in fatalities.
 Myocardial infarction has been associated with other tricyclic compounds.
@@ -27,7 +27,7 @@ Respiratory System: Pulmonary hypersensitivity characterized by fever, dyspnea, 
 
 Genitourinary System: Urinary frequency, acute urinary retention, oliguria with ele vated blood pressure, azotemia, renal failure, and impotence.
 Albuminuria, glycosuria, elevated BUN, and microscopic deposits in the urine have also been reported.
-There have been very rare reports of impaired male fertility and/or abnormal spermatogenesis.
+There have been rare reports of impaired male fertility and/or abnormal spermatogenesis.
 
 Testicular atrophy occurred in rats receiving carbamazepine orally from 4 to 52 weeks at dosage levels of 50 to 400 mg/kg/day.
 Additionally, rats receiving carbamazepine in the diet for 2 years at dosage levels of 25, 75, and 250 mg/kg/day had a dose-related inci dence of testicular atrophy and aspermatogenesis.
@@ -42,15 +42,15 @@ Isolated cases of neuroleptic malignant syndrome have been reported both with an
 
 Digestive System: Nausea, vomiting, gastric distress and abdominal pain, diarrhea, constipation, anorexia, and dryness of the mouth and pharynx, including glossitis and stomatitis.
 
-Eyes: Scattered punctate cortical lens opacities, increased intraocular pressure as well as conjunctivitis, have been reported.
+Eyes: Scattered punctate cortical lens opacities, increased intraocular pressure (see WARNINGS, General)as well as conjunctivitis, have been reported.
 Although a direct causal relationship has not been established, many phe nothiazines and related drugs have been shown to cause eye changes.
 
 Musculoskeletal System: Aching joints and muscles, and leg cramps.
 
 Metabolism: Fever and chills.
-Inappropriate antidiuretic hormone (ADH) secretion syn drome has been reported.
-Cases of frank water intoxication, with decreased serum sodium (hyponatremia) and confusion, have been reported in association with carba mazepine use (see PRECAUTIONS, Laboratory Tests).
-Decreased levels of plasma calcium leading to osteoporosis have been reported.
+Hyponatremia (see WARNINGS, General).
+Decreased levels of plasma calcium have been reported.
+Osteoporosis has been reported.
 
 Isolated cases of a lupus erythematosus-like syndrome have been reported.
 There have been occasional reports of elevated levels of cholesterol, HDL cholesterol, and triglyc erides in patients taking anticonvulsants.

@@ -10,22 +10,22 @@ A low initial daily dosage with a gradual increase is advised.
 As soon as adequate control is achieved, the dosage may be reduced very gradually to the mini mum effective level.
 Medication should be taken with meals.
 
-Conversion of patients from oral carbamazepine tablets to carbamazepine suspension: Patients should be converted by administering the same number of mg per day in smaller, more frequent doses (i.e. b.i.d. tablets to t.i.d. suspension).
+Conversion of patients from oral carbamazepine tablets to carbamazepine suspension: Patients should be converted by administering the same number of mg per day in smaller, more frequent doses (i.e., b.i.d. tablets to t.i.d. suspension).
 
-Epilepsy (see INDICATIONS AND USAGE)
+Epilepsy (SEE INDICATIONS AND USAGE)
 
-Adults and children over 12 years of age -Initial: 200 mg b.i.d.
+Adults and children over 12 years of age-Initial: 200 mg b.i.d.
 Increase at weekly intervals by adding up to 200 mg/day using a t.i.d. or q.i.d. regimen until the optimal response is obtained.
 Dosage generally should not exceed 1000 mg daily in children 12 to 15 years of age, and 1200 mg daily in patients above 15 years of age.
 Doses up to 1600 mg daily have been used in adults in rare instances.
 Maintenance: Adjust dosage to the minimum effective level, usually 800 to 1200 mg daily.
 
-Children 6 to 12 years of age -Initial: 100 mg b.i.d.
+Children 6 to 12 years of age-Initial: 100 mg b.i.d.
 Increase at weekly intervals by adding up to 100 mg/day using a t.i.d. or q.i.d. regimen until the optimal response is obtained.
 Dosage generally should not exceed 1000 mg daily.
 Maintenance: Adjust dosage to the minimum effective level, usually 400 to 800 mg daily.
 
-Children under 6 years of age -Initial: 10 to 20 mg/kg/day b.i.d. or t.i.d.
+Children under 6 years of age-Initial: 10 to 20 mg/kg/day b.i.d. or t.i.d.
 Increase weekly to achieve optimal clinical response administered t.i.d. or q.i.d.
 Maintenance: Ordinarily, optimal clinical response is achieved at daily doses below 35 mg/kg.
 If sat isfactory clinical response has not been achieved, plasma levels should be measured to determine whether or not they are in the therapeutic range.
