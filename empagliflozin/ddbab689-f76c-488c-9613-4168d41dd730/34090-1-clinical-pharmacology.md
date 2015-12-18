@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-GLYXAMBI GLYXAMBI combines 2 antihyperglycemic agents with complementary mechanisms of action to improve glycemic control in patients with type 2 diabetes: empagliflozin, a sodium-glucose co-transporter (SGLT2) inhibitor, and linagliptin, a dipeptidyl peptidase-4 (DPP-4) inhibitor.
+GLYXAMBI GLYXAMBI combines 2 antihyperglycemic agents with complementary mechanisms of action to improve glycemic control in patients with type 2 diabetes: empagliflozin, a sodium-glucose co-transporter 2 (SGLT2) inhibitor, and linagliptin, a dipeptidyl peptidase-4 (DPP-4) inhibitor.
 
 Empagliflozin Sodium-glucose co-transporter 2 (SGLT2) is the predominant transporter responsible for reabsorption of glucose from the glomerular filtrate back into the circulation.
 Empagliflozin is an inhibitor of SGLT2.
@@ -75,7 +75,7 @@ The majority of drug-related radioactivity recovered in feces was unchanged pare
 Linagliptin Following administration of an oral [14C]-linagliptin dose to healthy subjects, approximately 85% of the administered radioactivity was eliminated via the enterohepatic system (80%) or urine (5%) within 4 days of dosing.
 Renal clearance at steady state was approximately 70 mL/min.
 
-Specific Populations Renal Impairment GLYXAMBI: Studies characterizing the pharmacokinetics of empagliflozin and linagliptin after administration of GLYXAMBI in renally impaired patients have not been performed [see Dosage and Administration (2)].
+Specific Populations Renal Impairment GLYXAMBI: Studies characterizing the pharmacokinetics of empagliflozin and linagliptin after administration of GLYXAMBI in renally impaired patients have not been performed [see Dosage and Administration (2.2)].
 
 Empagliflozin: In patients with mild (eGFR: 60 to less than 90 mL/min/1.73 m2), moderate (eGFR: 30 to less than 60 mL/min/1.73 m2), and severe (eGFR: less than 30 mL/min/1.73 m2) renal impairment and subjects with kidney failure/end stage renal disease (ESRD) patients, AUC of empagliflozin increased by approximately 18%, 20%, 66%, and 48%, respectively, compared to subjects with normal renal function.
 Peak plasma levels of empagliflozin were similar in subjects with moderate renal impairment and kidney failure/ESRD compared to patients with normal renal function.

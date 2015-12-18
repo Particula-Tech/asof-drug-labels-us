@@ -4,7 +4,7 @@
 
 Diuretics Coadministration of empagliflozin with diuretics resulted in increased urine volume and frequency of voids, which might enhance the potential for volume depletion [see Warnings and Precautions (5.2)].
 
-Insulin or Insulin Secretagogues Coadministration of empagliflozin with insulin or insulin secretagogues increases the risk for hypoglycemia [see Warnings and Precautions (5.4)].
+Insulin or Insulin Secretagogues Coadministration of empagliflozin with insulin or insulin secretagogues increases the risk for hypoglycemia [see Warnings and Precautions (5.6)].
 
 Positive Urine Glucose Test Monitoring glycemic control with urine glucose tests is not recommended in patients taking SGLT2 inhibitors as SGLT2 inhibitors increase urinary glucose excretion and will lead to positive urine glucose tests.
 Use alternative methods to monitor glycemic control.

@@ -53,10 +53,10 @@ While clinical studies of linagliptin have not identified differences in respons
 ## 8.6 Renal Impairment
 
 Empagliflozin The efficacy and safety of empagliflozin have not been established in patients with severe renal impairment, with ESRD, or receiving dialysis.
-Empagliflozin is not expected to be effective in these patient populations [see Dosage and Administration (2.2), Contraindications (4) and Warnings and Precautions (5.2, 5.3)].
+Empagliflozin is not expected to be effective in these patient populations [see Dosage and Administration (2.2), Contraindications (4) and Warnings and Precautions (5.2, 5.4)].
 
 The glucose lowering benefit of empagliflozin 25 mg decreased in patients with worsening renal function.
-The risks of renal impairment [see Warnings and Precautions (5.3)], volume depletion adverse reactions and urinary tract infection-related adverse reactions increased with worsening renal function.
+The risks of renal impairment [see Warnings and Precautions (5.4)], volume depletion adverse reactions and urinary tract infection-related adverse reactions increased with worsening renal function.
 
 ## 8.7 Hepatic Impairment
 

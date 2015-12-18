@@ -32,16 +32,20 @@ If symptoms of allergic reactions (such as rash, skin flaking or peeling, urtica
 Hypotension Inform patients that hypotension may occur with GLYXAMBI and advise them to contact their healthcare provider if they experience such symptoms [see Warnings and Precautions (5.2)].
 Inform patients that dehydration may increase the risk for hypotension, and to have adequate fluid intake.
 
-Urinary Tract Infections Inform patients of the potential for urinary tract infections.
+Ketoacidosis Inform patients that ketoacidosis has been reported during use of empagliflozin.
+Instruct patients to check ketones (when possible) if symptoms consistent with ketoacidosis occur even if blood glucose is not elevated.
+If symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness, and labored breathing) occur, instruct patients to discontinue GLYXAMBI and seek medical advice immediately [see Warnings and Precautions (5.3)].
+
+Serious Urinary Tract Infections Inform patients of the potential for urinary tract infections, which may be serious.
 Provide them with information on the symptoms of urinary tract infections.
-Advise them to seek medical advice if such symptoms occur.
+Advise them to seek medical advice if such symptoms occur [see Warnings and Precautions (5.5)].
 
 Genital Mycotic Infections in Females (e.g., Vulvovaginitis) Inform female patients that vaginal yeast infections may occur and provide them with information on the signs and symptoms of vaginal yeast infections.
-Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.5)].
+Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.7)].
 
 Genital Mycotic Infections in Males (e.g., Balanitis or Balanoposthitis) Inform male patients that yeast infection of penis (e.g., balanitis or balanoposthitis) may occur, especially in uncircumcised males and patients with chronic and recurrent infections.
 Provide them with information on the signs and symptoms of balanitis and balanoposthitis (rash or redness of the glans or foreskin of the penis).
-Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.5)].
+Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.7)].
 
 Severe and Disabling Arthralgia Inform patients that severe and disabling joint pain may occur with this class of drugs.
 The time to onset of symptoms can range from one day to years.
