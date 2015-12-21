@@ -1,7 +1,6 @@
 {
   "application_numbers": [
-    "NDA020823",
-    "NDA021025"
+    "NDA020823"
   ],
   "inn": "rivastigmine",
   "labeler": "Novartis Pharmaceuticals Corporation",
@@ -25,17 +24,11 @@
     "0078-0326-08",
     "0078-0326-15",
     "0078-0326-44",
-    "0078-0326-61",
-    "0078-0339-31"
+    "0078-0326-61"
   ],
   "products": [
     {
       "form": "CAPSULE",
-      "generic": "rivastigmine tartrate",
-      "name": "Exelon"
-    },
-    {
-      "form": "SOLUTION",
       "generic": "rivastigmine tartrate",
       "name": "Exelon"
     }

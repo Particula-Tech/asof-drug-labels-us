@@ -69,19 +69,3 @@ base
 100 Capsules
 
 Unit Dose Package
-
-PRINCIPAL DISPLAY PANEL
-
-Package Label – 2 mg
-
-Rx Only NDC 0078-0339-31
-
-Exelon® (rivastigmine tartrate) Oral Solution
-
-Each mL is equivalent to
-
-2 mg
-
-base
-
-120 mL
