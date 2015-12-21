@@ -28,8 +28,8 @@ What is the most important information I should know about Opsumit?
       - have not yet entered puberty, or
       - do not have a uterus, or
       - have gone through menopause.
-        Menopause means that you have not had a menstrual period for at least 12 months for natural reasons, or who have had their ovaries removed, or
-      - Are infertile for other medical reasons and this infertility is permanent and cannot be reversed.
+        Menopause means that you have not had a menstrual period for at least 12 months for natural reasons, or that you have had your ovaries removed, or
+      - are infertile for other medical reasons and this infertility is permanent and cannot be reversed.
   - If you have had a tubal sterilization, have a progesterone implant, or have an IUD (intrauterine device), these methods can be used alone and no other form of birth control is needed.
   - Talk with your healthcare provider or gynecologist (a doctor who specializes in female reproduction) to find out about options for acceptable birth control that you may use to prevent pregnancy during treatment with Opsumit.
   - If you decide that you want to change the form of birth control that you use, talk with your healthcare provider or gynecologist to be sure that you choose another acceptable form of birth control.
@@ -137,6 +137,6 @@ Inactive ingredients: lactose monohydrate, magnesium stearate, microcrystalline 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Manufactured for: Actelion Pharmaceuticals US, Inc. 5000 Shoreline Court, Ste.
-200 South San Francisco, CA 94080, USA Issued: November 2015 ACT20151120
+200 South San Francisco, CA 94080, USA Issued: December 2015 ACT20151215
 
 © 2015 Actelion Pharmaceuticals US, Inc. All rights reserved.
