@@ -26,6 +26,15 @@ Two confirmed cases of aplastic anemia and one confirmed case of agranulocytosis
 There were no cases of aplastic anemia and two confirmed cases of agranulocytosis in the US, European, or Japanese development programs.
 There is inadequate information to assess the relationship, if any, between dose and duration of treatment and these events.
 
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multi-Organ Hypersensitivity: Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), also known as multi-organ hypersensitivity, has occurred with ZONEGRAN.
+Some of these events have been fatal or life-threatening.
+DRESS typically, although not exclusively, presents with fever, rash, and/or lymphadenopathy, in association with other organ system involvement, such as hepatitis, nephritis, hematologic abnormalities, myocarditis, or myositis, sometimes resembling an acute viral infection.
+Eosinophilia is often present.
+This disorder is variable in its expression, and other organ systems not noted here may be involved.
+It is important to note that early manifestations of hypersensitivity (e.g., fever, lymphadenopathy) may be present even though rash is not evident.
+If such signs or symptoms are present, the patient should be evaluated immediately.
+ZONEGRAN should be discontinued if an alternative etiology for the signs or symptoms cannot be established.
+
 ## Oligohidrosis and Hyperthermia in Pediatric Patients:
 
 Oligohidrosis, sometimes resulting in heat stroke and hospitalization, is seen in association with zonisamide in pediatric patients.
@@ -164,7 +173,7 @@ Patients should be cautioned about this possibility and special care should be t
 ## General:
 
 Somnolence is commonly reported, especially at higher doses of ZONEGRAN (see WARNINGS: Cognitive/ Neuropsychiatric Adverse Events subsection).
-Zonisamide is metabolized by the liver and eliminated by the kidneys; caution should therefore be exercised when administering ZONEGRAN to patients with hepatic and renal dysfunction (see CLINICAL PHARMACOLOGY, Special Populations subsection).
+Zonisamide is metabolized by the liver and eliminated by the kidneys; caution should therefore be exercised when administering ZONEGRAN to patients with hepatic and renal dysfunction (see CLINICAL PHARMACOLOGY, Specific Populations subsection).
 
 ## Kidney Stones:
 
@@ -178,7 +187,7 @@ The analyzed stones were composed of calcium or urate salts.
 In general, increasing fluid intake and urine output can help reduce the risk of stone formation, particularly in those with predisposing risk factors.
 It is unknown, however, whether these measures will reduce the risk of stone formation in patients treated with ZONEGRAN.
 
-Although not approved in pediatric patients, sonographic findings consistent with nephrolithiasis were also detected in 8% of a subset of ZONEGRAN-treated pediatric patients who had at least one renal ultrasound prospectively performed in a clinical development program investigating open-label treatment.
+Although not approved in pediatric patients, sonographic findings consistent with nephrolithiasis were also detected in 8% of a subset of ZONEGRAN treated pediatric patients who had at least one renal ultrasound prospectively performed in a clinical development program investigating open-label treatment.
 The incidence of kidney stone as an adverse event was 3% (see WARNINGS, Metabolic Acidosis subsection).
 
 ## Effect on Renal Function:
@@ -201,7 +210,7 @@ Some of the deaths could represent seizure-related deaths in which the seizure w
 
 ## Status Epilepticus:
 
-Estimates of the incidence of treatment-emergent status epilepticus in ZONEGRAN-treated patients are difficult because a standard definition was not employed.
+Estimates of the incidence of treatment emergent status epilepticus in ZONEGRAN treated patients are difficult because a standard definition was not employed.
 Nonetheless, in controlled trials, 1.1% of patients treated with ZONEGRAN had an event labeled as status epilepticus compared to none of the patients treated with placebo.
 Among patients treated with ZONEGRAN across all epilepsy studies (controlled and uncontrolled), 1.0% of patients had an event reported as status epilepticus.
 
@@ -216,7 +225,7 @@ Patients should be advised as follows: (See Medication Guide)
    Patients should be advised not to drive a car or operate other complex machinery until they have gained experience on ZONEGRAN sufficient to determine whether it affects their performance.
    Because of the potential of zonisamide to cause CNS depression, as well as other cognitive and/or neuropsychiatric adverse events, zonisamide should be used with caution if used in combination with alcohol or other CNS depressants.
 2. Patients should contact their physician immediately if a skin rash develops or seizures worsen.
-3. Patients should contact their physician immediately if they develop signs or symptoms, such as sudden back pain, abdominal pain, and/or blood in the urine, that could indicate a kidney stone.
+3. Patients should contact their physician immediately if they develop signs or symptoms, such as sudden back pain, abdominal pain, and/or blood in the urine that could indicate a kidney stone.
    Increasing fluid intake and urine output may reduce the risk of stone formation, particularly in those with predisposing risk factors for stones.
 4. Patients should contact their physician immediately if a child has been taking ZONEGRAN and is not sweating as usual with or without a fever.
 5. Because zonisamide can cause hematological complications, patients should contact their physician immediately if they develop a fever, sore throat, oral ulcers, or easy bruising.
@@ -235,8 +244,6 @@ In several clinical studies, zonisamide was associated with a mean increase in t
 Consideration should be given to monitoring renal function periodically (see PRECAUTIONS, Effect on Renal Function subsection).
 
 Zonisamide increases serum chloride and alkaline phosphatase and decreases serum bicarbonate (see WARNINGS, Metabolic Acidosis subsection), phosphorus, calcium, and albumin.
-
-## Drug Interactions:
 
 Drug Interactions with CNS Depressants: Concomitant administration of ZONEGRAN and alcohol or other CNS depressant drugs has not been evaluated in clinical studies.
 Because of the potential of zonisamide to cause CNS depression, as well as other cognitive and/or neuropsychiatric adverse events, zonisamide should be used with caution if used in combination with alcohol or other CNS depressants.
@@ -264,7 +271,7 @@ Zonisamide may cause serious adverse fetal effects, based on clinical and noncli
 Zonisamide was teratogenic in multiple animal species.
 
 Zonisamide treatment causes metabolic acidosis in humans.
-The effect of zonisamide-induced metabolic acidosis has not been studied in pregnancy; however, metabolic acidosis in pregnancy (due to other causes) may be associated with decreased fetal growth, decreased fetal oxygenation, and fetal death, and may affect the fetus' ability to tolerate labor.
+The effect of zonisamide-induced metabolic acidosis has not been studied in pregnancy; however, metabolic acidosis in pregnancy (due to other causes) may be associated with decreased fetal growth, decreased fetal oxygenation, and fetal death, and may affect the fetus's ability to tolerate labor.
 Pregnant patients should be monitored for metabolic acidosis and treated as in the non-pregnant state.
 (See WARNINGS, Metabolic Acidosis subsection.)
 
@@ -321,7 +328,7 @@ The effect of zonisamide on growth and bone-related sequelae has not been system
 
 ## Geriatric Use:
 
-Single dose pharmacokinetic parameters are similar in elderly and young healthy volunteers (see CLINICAL PHARMACOLOGY, Special Populations subsection).
+Single dose pharmacokinetic parameters are similar in elderly and young healthy volunteers (see CLINICAL PHARMACOLOGY, Specific Populations subsection).
 Clinical studies of zonisamide did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.

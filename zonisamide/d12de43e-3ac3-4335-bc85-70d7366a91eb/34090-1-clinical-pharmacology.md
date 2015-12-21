@@ -71,13 +71,13 @@ Gender and Race: Information on the effect of gender and race on the pharmacokin
 Effects of ZONEGRAN on cytochrome P450 enzymes
 
 In vitro studies using human liver microsomes show insignificant (<25%) inhibition of cytochrome P450 isozymes 1A2, 2A6, 2C9, 2C19, 2D6, 2E1, 3A4, 2B6 or 2C8 at zonisamide levels approximately two-fold or greater than clinically relevant unbound serum concentrations.
-Therefore, ZONEGRAN is not expected to affect the pharmacokinetics of other drugs via cytochrome P450-mediated mechanisms.
+Therefore ZONEGRAN is not expected to affect the pharmacokinetics of other drugs via cytochrome P450-mediated mechanisms.
 
 Potential for ZONEGRAN to affect other drugs
 
 Anti-epileptic drugs
 
-In epileptic patients, steady-state dosing with ZONEGRAN resulted in no clinically relevant pharmacokinetic effects on carbamazepine, lamotrigine, phenytoin, or sodium valproate.
+In epileptic patients, steady state dosing with ZONEGRAN resulted in no clinically relevant pharmacokinetic effects on carbamazepine, lamotrigine, phenytoin, or sodium valproate.
 
 Oral contraceptives
 
@@ -102,7 +102,7 @@ Drugs which inhibit or induce glucuronide conjugation are not expected to influe
 The absence of a clinically significant pharmacokinetic interaction between zonisamide and lamotrigine indicates a low potential for zonisamide to interact with substances which are metabolized by UDP-GT.
 
 CYP3A4 Induction: Drugs that induce liver enzymes increase the metabolism and clearance of zonisamide and decrease its half-life.
-The half-life of zonisamide following a 400 mg dose in patients concurrently on enzyme-inducing AEDs such as phenytoin, carbamazepine, or phenobarbital was between 27-38 hours; the half-life of zonisamide in patients concurrently on the non-enzyme inducing AED, valproate, was 46 hours.
+The half-life of zonisamide following a 400 mg dose in patients concurrently on enzyme-inducing AEDs such as phenytoin, carbamazepine, or phenobarbital was between 27-38 hours, the half-life of zonisamide in patients concurrently on the non-enzyme inducing AED, valproate, was 46 hours.
 
 These effects are unlikely to be of clinical significance when ZONEGRAN is added to existing therapy; however, changes in zonisamide concentrations may occur if concomitant CYP3A4 inducing anti-epileptic or other drugs are withdrawn, dose adjusted or introduced, an adjustment of the ZONEGRAN dose may be required.
 If co-administration with a potent CYP3A4 inducer (e.g., rifampicin) is necessary, the patient should be closely monitored and the dose of ZONEGRAN and other drugs that are CYP3A4 substrate may need to be adjusted.
