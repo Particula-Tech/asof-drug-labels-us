@@ -178,7 +178,7 @@ APOTEX INC. ATORVASTATIN CALCIUM TABLETS 10 mg, 20 mg, 40 mg, and 80 mg
 | Toronto, ON | Weston, Florida |
 | Canada, M9L 1T9 | 33326 |
 
-Revised: July 2015
+Revised: November 2015
 
 Rev.
-8
+9

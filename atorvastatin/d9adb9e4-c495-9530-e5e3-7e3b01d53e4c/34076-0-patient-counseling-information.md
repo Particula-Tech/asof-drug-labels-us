@@ -22,7 +22,7 @@ Women of childbearing age should be advised to use an effective method of birth 
 Discuss future pregnancy plans with your patients, and discuss when to stop atorvastatin calcium tablets if they are trying to conceive.
 Patients should be advised that if they become pregnant, they should stop taking atorvastatin calcium tablets and call their healthcare professional.
 
-## 17.4 Breastfeeding
+## 17.4 Breast-feeding
 
 Women who are breastfeeding should be advised to not use atorvastatin calcium tablets.
 Patients who have a lipid disorder and are breast-feeding, should be advised to discuss the options with their healthcare professional.
@@ -37,7 +37,7 @@ APOTEX INC. ATORVASTATIN CALCIUM TABLETS 10 mg, 20 mg, 40 mg, and 80 mg
 | Toronto, ON | Weston, Florida |
 | Canada, M9L 1T9 | 33326 |
 
-Revised: July 2015
+Revised: November 2015
 
 Rev.
-8
+9

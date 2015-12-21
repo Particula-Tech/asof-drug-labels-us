@@ -124,21 +124,7 @@ Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
 | #Gemfibrozil 600mg BID, 7 days | 40mg SD | ↑ 35% | ↓ Less than 1% |
 | #Fenofibrate 160mg QD, 7 days | 40mg SD | ↑ 3% | ↑ 2% |
 | Boceprevir 800 mg TID, 7 days | 40 mg SD | ↑2.30 fold | ↑2.66 fold |
-
-& Data given as x-fold change represent a simple ratio between co-administration and atorvastatin alone (i.e., 1-fold = no change).
-Data given as % change represent % difference relative to atorvastatin alone (i.e., 0% = no change).
-
-# See Sections 5.1 and 7 for clinical significance.
-
-* Greater increases in AUC (up to 2.5 fold) and/or Cmax (up to 71%) have been reported with excessive grapefruit consumption (≥ 750 mL to 1.2 liters per day).
-
-** Single sample taken 8 to 16 h post dose.
-
-† Due to the dual interaction mechanism of rifampin, simultaneous co-administration of atorvastatin with rifampin is recommended, as delayed administration of atorvastatin after administration of rifampin has been associated with a significant reduction in atorvastatin plasma concentrations.
-
-‡ The dose of saquinavir plus ritonavir in this study is not the clinically used dose.
-The increase in atorvastatin exposure when used clinically is likely to be higher than what was observed in this study.
-Therefore, caution should be applied and the lowest dose necessary should be used.
+| & Data given as x-fold change represent a simple ratio between co-administration and atorvastatin alone (i.e., 1-fold = no change). Data given as % change represent % difference relative to atorvastatin alone (i.e., 0% = no change). # See Sections 5.1 and 7 for clinical significance.* Greater increases in AUC (up to 2.5 fold) and/or Cmax (up to 71%) have been reported with excessive grapefruit consumption (≥ 750 mL to 1.2 liters per day). ** Single sample taken 8 to 16 h post dose.† Due to the dual interaction mechanism of rifampin, simultaneous co-administration of atorvastatin with rifampin is recommended, as delayed administration of atorvastatin after administration of rifampin has been associated with a significant reduction in atorvastatin plasma concentrations.‡ The dose of saquinavir plus ritonavir in this study is not the clinically used dose. The increase in atorvastatin exposure when used clinically is likely to be higher than what was observed in this study. Therefore, caution should be applied and the lowest dose necessary should be used. |  |  |  |
 
 TABLE 4.
 Effect of Atorvastatin on the Pharmacokinetics of Co-administered Drugs
@@ -152,5 +138,4 @@ Effect of Atorvastatin on the Pharmacokinetics of Co-administered Drugs
 | 10 mg, SD | Tipranavir 500 mg BID/ritonavir 200 mg BID, 7 days | No change | No change |
 | 10 mg QD for 4 days | Fosamprenavir 1400 mg BID, 14 days | ↓ 27% | ↓ 18% |
 | 10 mg QD for 4 days | Fosamprenavir 700 mg BID/ritonavir 100 mg BID, 14 days | No change | No change |
-
-# See Section 7 for clinical significance.
+| # See Section 7 for clinical significance. |  |  |  |
