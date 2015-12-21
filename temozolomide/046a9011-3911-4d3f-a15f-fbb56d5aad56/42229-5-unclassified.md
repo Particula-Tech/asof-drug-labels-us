@@ -14,9 +14,9 @@ The trademarks depicted herein are owned by their respective companies.
 
 Copyright © 1999, 2008 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 05/2015
+Revised: 12/2015
 
-usppi-mk7365-mtl-1505r009
+usppi-mk7365-mtl-1512r010
 
 TEMODAR® (temozolomide) for Injection
 
@@ -155,9 +155,9 @@ For patent information: www.merck.com/product/patent/home.html
 
 Copyright © 2008 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 05/2014
+Revised: 12/2014
 
-usphi-mk7365-pwi-1405r014
+usphi-mk7365-pwi-1512r010
 
 TEMODAR® (temozolomide) Capsules
 
