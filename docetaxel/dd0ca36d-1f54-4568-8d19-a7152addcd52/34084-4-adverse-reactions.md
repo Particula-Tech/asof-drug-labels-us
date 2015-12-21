@@ -7,6 +7,12 @@ The most serious adverse reactions from docetaxel are:
 - Neutropenia [see Boxed Warning, Warnings and Precautions (5.3)]
 - Hypersensitivity [see Boxed Warning, Warnings and Precautions (5.4)]
 - Fluid Retention [see Boxed Warning, Warnings and Precautions (5.5)]
+- Acute Myeloid Leukemia [see Warnings and Precautions (5.6)]
+- Cutaneous Reactions [see Warnings and Precautions (5.7)]
+- Neurologic Reactions [see Warnings and Precautions (5.8)]
+- Eye Disorders [see Warnings and Precautions (5.9)]
+- Asthenia [see Warnings and Precautions (5.10)]
+- Alcohol Intoxication [see Warnings and Precautions (5.11)]
 
 The most common adverse reactions across all docetaxel indications are infections, neutropenia, anemia, febrile neutropenia, hypersensitivity, thrombocytopenia, neuropathy, dysgeusia, dyspnea, constipation, anorexia, nail disorders, fluid retention, asthenia, pain, nausea, diarrhea, vomiting, mucositis, alopecia, skin reactions, and myalgia.
 Incidence varies depending on the indication.
