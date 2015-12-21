@@ -12,7 +12,7 @@ The high drug content in extended-release formulations adds to the risk of adver
 All patients treated with opioids require careful monitoring for signs of abuse and addiction, since use of opioid analgesic products carries the risk of addiction even under appropriate medical use.
 
 Drug abuse is the intentional non-therapeutic use of an over-the-counter or prescription drug, even once, for its rewarding psychological or physiological effects.
-Drug abuse includes, but is not limited to, the following examples: the use of a prescription or over-the counter drug to get "high", or the use of steroids for performance enhancement and muscle build up.
+Drug abuse includes, but is not limited to, the following examples: the use of a prescription or over-the-counter drug to get "high", or the use of steroids for performance enhancement and muscle build up.
 
 Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that develop after repeated substance use and include: a strong desire to take the drug, difficulties in controlling its use, persisting in its use despite harmful consequences, a higher priority given to drug use than to other activities and obligations, increased tolerance, and sometimes a physical withdrawal.
 

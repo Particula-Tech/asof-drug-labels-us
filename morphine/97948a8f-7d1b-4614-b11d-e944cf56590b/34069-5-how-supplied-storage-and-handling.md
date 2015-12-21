@@ -23,8 +23,8 @@ Capsules are supplied in bottles of 100 (NDC 0832-0230-00) and 500 (NDC 0832-023
 100 mg size 0 capsule, green opaque cap and body printed with "UPSHER-SMITH" over "0233" on the cap and "100 mg" on the body in black ink.
 Capsules are supplied in bottles of 100 (NDC 0832-0233-00) and 500 (NDC 0832-0233-50).
 
-Store at 20-25°C (68-77°F).
-Excursions permitted to 15-30°C (59-86°F).
+Store at 20° to 25°C (68° to 77°F).
+Excursions permitted to 15° to 30°C (59° to 86°F).
 [See USP Controlled Room Temperature.]
 Protect from light and moisture.
 

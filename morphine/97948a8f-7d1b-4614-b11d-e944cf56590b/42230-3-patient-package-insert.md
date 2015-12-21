@@ -25,4 +25,4 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 Manufactured by UPSHER-SMITH LABORATORIES, INC. Maple Grove, MN 55369
 
-Revised 0414
+Revised 1015

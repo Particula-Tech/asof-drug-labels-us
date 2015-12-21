@@ -74,8 +74,10 @@ Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 For more information go to dailymed.nlm.nih.gov
 
-Manufactured by UPSHER-SMITH LABORATORIES, INC. Maple Grove, MN 55369
-
-Revised 0414
+For Medication Guides, please visit www.upsher-smith.com or call 1-888-650-3789.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+Manufactured by UPSHER-SMITH LABORATORIES, INC. Maple Grove, MN 55369
+
+Revised 1015

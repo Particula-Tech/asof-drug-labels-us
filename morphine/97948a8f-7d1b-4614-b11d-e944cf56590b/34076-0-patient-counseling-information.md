@@ -23,7 +23,7 @@ Inform female patients of reproductive potential that prolonged use of Morphine 
 
 Interactions with Alcohol and other CNS Depressants
 
-Instruct patients not to consume alcoholic beverages, as well as prescription and over-the counter products that contain alcohol, during treatment with Morphine Sulfate Extended-release Capsules.
+Instruct patients not to consume alcoholic beverages, as well as prescription and over-the-counter products that contain alcohol, during treatment with Morphine Sulfate Extended-release Capsules.
 The co-ingestion of alcohol with Morphine Sulfate Extended-release Capsules may result in increased plasma levels and a potentially fatal overdose of morphine [see Warnings and Precautions (5.4)].
 
 Inform patients that potentially serious additive effects may occur if Morphine Sulfate Extended-release Capsules are used with alcohol or other CNS depressants, and not to use such drugs unless supervised by a health care provider.
