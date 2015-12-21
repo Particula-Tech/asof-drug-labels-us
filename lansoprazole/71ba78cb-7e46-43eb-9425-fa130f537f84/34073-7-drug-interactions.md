@@ -1,12 +1,12 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Drugs with pH-Dependent Absorption Kinetics
+## 7.1 Drugs with pH-Dependent Absorption
 
 Due to its effects on gastric acid secretion, lansoprazole can reduce the absorption of drugs where gastric pH is an important determinant of their bioavailability.
-Like with other drugs that decrease the intragastric acidity, the absorption of drugs such as ampicillin esters, ketoconazole, atazanavir, iron salts, erlotinib, and mycophenolate mofetil (MMF) can decrease, while the absorption of drugs such as digoxin can increase during treatment with PREVACID [see Clinical Pharmacology (12.3)].
+As with other drugs that decrease the intragastric acidity, the absorption of drugs such as ampicillin esters, ketoconazole, atazanavir, nelfinavir, iron salts, erlotinib, and mycophenolate mofetil (MMF) can decrease, while the absorption of drugs such as digoxin can increase during treatment with PREVACID [see Clinical Pharmacology (12.3)].
 
-PREVACID is likely to substantially decrease the systemic concentrations of the HIV protease inhibitor atazanavir, which is dependent upon the presence of gastric acid for absorption, and may result in a loss of therapeutic effect of atazanavir and the development of HIV resistance.
-Therefore, PREVACID should not be co-administered with atazanavir [see Clinical Pharmacology (12.3)].
+PREVACID is likely to substantially decrease the systemic concentrations of HIV protease inhibitors, such as atazanavir and nelfinavir, which are dependent upon the presence of gastric acid for absorption, and may result in a loss of therapeutic effect of atazanavir or nelfinavir and the development of HIV resistance.
+Therefore, PREVACID should not be co-administered with atazanavir or nelfinavir [see Clinical Pharmacology (12.3)].
 
 Co-administration of PPIs in healthy subjects and in transplant patients receiving MMF has been reported to reduce the exposure to the active metabolite, mycophenolic acid (MPA), possibly due to a decrease in MMF solubility at an increased gastric pH.
 The clinical relevance of reduced MPA exposure on organ rejection has not been established in transplant patients receiving PPIs and MMF.

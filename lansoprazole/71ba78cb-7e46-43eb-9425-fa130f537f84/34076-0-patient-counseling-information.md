@@ -5,8 +5,8 @@
 Patient should be informed of the following:
 
 - •Advise patients to immediately report and seek care for diarrhea that does not improve.
-  This may be a sign of Clostridium difficile associated diarrhea [see Warnings and Precautions (5.2)].
-- •Advise patients to immediately report and seek care for any cardiovascular or neurological symptoms including palpitations, dizziness, seizures, and tetany as these may be signs of hypomagnesemia [see Warnings and Precautions (5.4)].
+  This may be a sign of Clostridium difficile associated diarrhea [see Warnings and Precautions (5.4)].
+- •Advise patients to immediately report and seek care for any cardiovascular or neurological symptoms including palpitations, dizziness, seizures, and tetany as these may be signs of hypomagnesemia [see Warnings and Precautions (5.6)].
 
 Information for Patients
 
@@ -51,17 +51,17 @@ PREVACID SoluTab Delayed-Release Orally Disintegrating Tablets
 - •PREVACID SoluTab should not be broken or cut.
 - •PREVACID SoluTab should not be chewed.
   - •Place the tablet on the tongue and allow it to disintegrate, with or without water, until the particles can be swallowed.
-  - •The tablet typically disintegrates in less than 1 minute.
+  - •The tablet typically disintegrates in less than one minute.
   - •Alternatively, for children or other patients who have difficulty swallowing tablets, PREVACID SoluTab can be delivered in two different ways.
 - PREVACID SoluTab – Oral Syringe
-  1. For administration via oral syringe, PREVACID SoluTab can be administered as follows:
-     1. ▪Place a 15 mg tablet in oral syringe and draw up 4 mL of water, or place a 30 mg tablet in oral syringe and draw up 10 mL of water.
-     2. ▪Shake gently to allow for a quick dispersal.
-     3. ▪After the tablet has dispersed, administer the contents within 15 minutes.
-     4. ▪Refill the syringe with approximately 2 mL (5 mL for the 30 mg tablet) of water, shake gently, and administer any remaining contents.
+- For administration via oral syringe, PREVACID SoluTab can be administered as follows:
+  1. •Place a 15 mg tablet in oral syringe and draw up 4 mL of water, or place a 30 mg tablet in oral syringe and draw up 10 mL of water.
+  2. •Shake gently to allow for a quick dispersal.
+  3. •After the tablet has dispersed, administer the contents within 15 minutes.
+  4. •Refill the syringe with approximately 2 mL (5 mL for the 30 mg tablet) of water, shake gently, and administer any remaining contents.
 - PREVACID SoluTab – Nasogastric Tube (≥8 French) Administration
-  1. For administration via a nasogastric tube, PREVACID SoluTab can be administered as follows:
-     1. ▪Place a 15 mg tablet in a syringe and draw up 4 mL of water, or place a 30 mg tablet in a syringe and draw up 10 mL of water.
-     2. ▪Shake gently to allow for a quick dispersal.
-     3. ▪After the tablet has dispersed, inject through the nasogastric tube into the stomach within 15 minutes.
-     4. ▪Refill the syringe with approximately 5 mL of water, shake gently, and flush the nasogastric tube.
+- For administration via a nasogastric tube, PREVACID SoluTab can be administered as follows:
+  1. •Place a 15 mg tablet in a syringe and draw up 4 mL of water, or place a 30 mg tablet in a syringe and draw up 10 mL of water.
+  2. •Shake gently to allow for a quick dispersal.
+  3. •After the tablet has dispersed, inject through the nasogastric tube into the stomach within 15 minutes.
+  4. •Refill the syringe with approximately 5 mL of water, shake gently, and flush the nasogastric tube.

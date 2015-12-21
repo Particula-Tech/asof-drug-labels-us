@@ -2,7 +2,7 @@
 
 ## 1.1 Short-Term Treatment of Active Duodenal Ulcer
 
-PREVACID is indicated for short-term treatment (for 4 weeks) for healing and symptom relief of active duodenal ulcer [see Clinical Studies (14)].
+PREVACID is indicated for short-term treatment (for four weeks) for healing and symptom relief of active duodenal ulcer [see Clinical Studies (14)].
 
 ## 1.2 H. pylori Eradication to Reduce the Risk of Duodenal Ulcer Recurrence
 
@@ -27,12 +27,12 @@ Controlled studies do not extend beyond 12 months [see Clinical Studies (14)].
 
 ## 1.4 Short-Term Treatment of Active Benign Gastric Ulcer
 
-PREVACID is indicated for short-term treatment (up to 8 weeks) for healing and symptom relief of active benign gastric ulcer [see Clinical Studies (14)].
+PREVACID is indicated for short-term treatment (up to eight weeks) for healing and symptom relief of active benign gastric ulcer [see Clinical Studies (14)].
 
 ## 1.5 Healing of NSAID-Associated Gastric Ulcer
 
 PREVACID is indicated for the treatment of NSAID-associated gastric ulcer in patients who continue NSAID use.
-Controlled studies did not extend beyond 8 weeks [see Clinical Studies (14)].
+Controlled studies did not extend beyond eight weeks [see Clinical Studies (14)].
 
 ## 1.6 Risk Reduction of NSAID-Associated Gastric Ulcer
 
@@ -43,13 +43,13 @@ Controlled studies did not extend beyond 12 weeks [see Clinical Studies (14)].
 
 Short-Term Treatment of Symptomatic GERD
 
-PREVACID is indicated for the treatment of heartburn and other symptoms associated with GERD for up to 8 weeks [see Clinical Studies (14)].
+PREVACID is indicated for the treatment of heartburn and other symptoms associated with GERD for up to eight weeks [see Clinical Studies (14)].
 
 Short-Term Treatment of Erosive Esophagitis
 
-PREVACID is indicated for short-term treatment (up to 8 weeks) for healing and symptom relief of all grades of erosive esophagitis.
-For patients who do not heal with PREVACID for 8 weeks (5 to 10%), it may be helpful to give an additional 8 weeks of treatment.
-If there is a recurrence of erosive esophagitis an additional 8-week course of PREVACID may be considered [see Clinical Studies (14)].
+PREVACID is indicated for short-term treatment (up to eight weeks) for healing and symptom relief of all grades of erosive esophagitis.
+For patients who do not heal with PREVACID for eight weeks (5 to 10%), it may be helpful to give an additional eight weeks of treatment.
+If there is a recurrence of erosive esophagitis an additional eight week course of PREVACID may be considered [see Clinical Studies (14)].
 
 ## 1.8 Maintenance of Healing of Erosive Esophagitis (EE)
 

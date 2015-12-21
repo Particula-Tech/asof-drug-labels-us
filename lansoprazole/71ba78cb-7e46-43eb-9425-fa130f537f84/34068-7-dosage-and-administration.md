@@ -28,20 +28,20 @@ In the clinical trials, antacids were used concomitantly with PREVACID.
 | Risk Reduction | 15 mg | Once daily for up to 12 weeks |
 | Gastroesophageal Reflux Disease (GERD) |  |  |
 | Short-Term Treatment of Symptomatic GERD | 15 mg | Once daily for up to 8 weeks |
-| Short-Term Treatment of Erosive Esophagitis | 30 mg | Once daily for up to 8 weeksFor patients who do not heal with PREVACID for 8 weeks (5 to 10%), it may be helpful to give an additional 8 weeks of treatment. If there is a recurrence of erosive esophagitis, an additional 8 week course of PREVACID may be considered. |
+| Short-Term Treatment of Erosive Esophagitis | 30 mg | Once daily for up to 8 weeksFor patients who do not heal with PREVACID for eight weeks (5 to 10%), it may be helpful to give an additional eight weeks of treatment. If there is a recurrence of erosive esophagitis, an additional eight week course of PREVACID may be considered. |
 | Pediatric |  |  |
 | (1 to 11 years of age) Short-Term Treatment of Symptomatic GERD and Short-Term Treatment of Erosive Esophagitis |  |  |
-| ≤ 30 kg | 15 mg | Once daily for up to 12 weeksThe PREVACID dose was increased (up to 30 mg twice daily) in some pediatric patients after 2 or more weeks of treatment if they remained symptomatic. For pediatric patients unable to swallow an intact capsule please see Administration Options. |
+| ≤ 30 kg | 15 mg | Once daily for up to 12 weeksThe PREVACID dose was increased (up to 30 mg twice daily) in some pediatric patients after two or more weeks of treatment if they remained symptomatic. For pediatric patients unable to swallow an intact capsule please see Administration Options. |
 | > 30 kg | 30 mg | Once daily for up to 12 weeks |
 | (12 to 17 years of age) Short-Term Treatment of Symptomatic GERD |  |  |
 | Nonerosive GERD | 15 mg | Once daily for up to 8 weeks |
 | Erosive Esophagitis | 30 mg | Once daily for up to 8 weeks |
 | Maintenance of Healing of Erosive Esophagitis | 15 mg | Once dailyControlled studies did not extend beyond 12 months |
-| Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome | 60 mg | Once dailyVaries with individual patient. Recommended adult starting dose is 60 mg once daily. Doses should be adjusted to individual patient needs and should continue for as long as clinically indicated. Dosages up to 90 mg twice daily have been administered. Daily dose of greater than 120 mg should be administered in divided doses. Some patients with Zollinger-Ellison Syndrome have been treated continuously with PREVACID for more than 4 years. |
+| Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome | 60 mg | Once dailyVaries with individual patient. Recommended adult starting dose is 60 mg once daily. Doses should be adjusted to individual patient needs and should continue for as long as clinically indicated. Dosages up to 90 mg twice daily have been administered. Daily dose of greater than 120 mg should be administered in divided doses. Some patients with Zollinger-Ellison Syndrome have been treated continuously with PREVACID for more than four years. |
 
 Patients should be instructed that if a dose is missed, it should be taken as soon as possible.
 However, if the next scheduled dose is due, the patient should not take the missed dose, and should be instructed to take the next dose on time.
-Patients should be instructed not to take 2 doses at one time to make up for a missed dose.
+Patients should be instructed not to take two doses at one time to make up for a missed dose.
 
 ## 2.2 Special Populations
 
@@ -56,24 +56,24 @@ PREVACID Delayed-Release Capsules – Oral Administration
 
 - • PREVACID Delayed-Release Capsules should be swallowed whole.
 - •Alternatively, for patients who have difficulty swallowing capsules, PREVACID Delayed-Release Capsules can be opened and administered as follows:
-  - •Open capsule.
-  - •Sprinkle intact granules on one tablespoon of either applesauce, ENSURE pudding, cottage cheese, yogurt or strained pears.
-  - •Swallow immediately.
+  - oOpen capsule.
+  - oSprinkle intact granules on one tablespoon of either applesauce, ENSURE pudding, cottage cheese, yogurt or strained pears.
+  - oSwallow immediately.
 - •PREVACID Delayed-Release Capsules may also be emptied into a small volume of either apple juice, orange juice or tomato juice and administered as follows:
-  - •Open capsule.
-  - •Sprinkle intact granules into a small volume of either apple juice, orange juice or tomato juice (60 mL – approximately 2 ounces).
-  - •Mix briefly.
-  - •Swallow immediately.
-  - •To ensure complete delivery of the dose, the glass should be rinsed with two or more volumes of juice and the contents swallowed immediately.
+  - oOpen capsule.
+  - oSprinkle intact granules into a small volume of either apple juice, orange juice or tomato juice (60 mL – approximately two ounces).
+  - oMix briefly.
+  - oSwallow immediately.
+  - oTo ensure complete delivery of the dose, the glass should be rinsed with two or more volumes of juice and the contents swallowed immediately.
 
 PREVACID Delayed-Release Capsules – Nasogastric Tube (≥16 French) Administration
 
 - •For patients who have a nasogastric tube in place, PREVACID Delayed-Release Capsules can be administered as follows:
-  - •Open capsule.
-  - •Mix intact granules into 40 mL of apple juice.
+  - oOpen capsule.
+  - oMix intact granules into 40 mL of apple juice.
     DO NOT USE OTHER LIQUIDS.
-  - •Inject through the nasogastric tube into the stomach.
-  - •Flush with additional apple juice to clear the tube.
+  - oInject through the nasogastric tube into the stomach.
+  - oFlush with additional apple juice to clear the tube.
 
 USE IN OTHER FOODS AND LIQUIDS HAS NOT BEEN STUDIED CLINICALLY AND IS THEREFORE NOT RECOMMENDED.
 
@@ -81,20 +81,20 @@ PREVACID SoluTab Delayed-Release Orally Disintegrating Tablets
 
 - • PREVACID SoluTab should not be broken or cut.
 - • PREVACID SoluTab should not be chewed.
-  - •Place the tablet on the tongue and allow it to disintegrate, with or without water, until the particles can be swallowed.
-  - •The tablet typically disintegrates in less than 1 minute.
-  - •Alternatively, for children or other patients who have difficulty swallowing tablets, PREVACID SoluTab can be delivered in two different ways.
+  - oPlace the tablet on the tongue and allow it to disintegrate, with or without water, until the particles can be swallowed.
+  - oThe tablet typically disintegrates in less than one minute.
+  - oAlternatively, for children or other patients who have difficulty swallowing tablets, PREVACID SoluTab can be delivered in two different ways.
 
-- PREVACID SoluTab – Oral Syringe
-  1. For administration via oral syringe, PREVACID SoluTab can be administered as follows:
-     1. ▪Place a 15 mg tablet in oral syringe and draw up 4 mL of water, or place a 30 mg tablet in oral syringe and draw up 10 mL of water.
-     2. ▪Shake gently to allow for a quick dispersal.
-     3. ▪After the tablet has dispersed, administer the contents within 15 minutes.
-     4. ▪Refill the syringe with approximately 2 mL (5 mL for the 30 mg tablet) of water, shake gently, and administer any remaining contents.
+1. PREVACID SoluTab – Oral Syringe
+2. For administration via oral syringe, PREVACID SoluTab can be administered as follows:
+   1. •Place a 15 mg tablet in oral syringe and draw up 4 mL of water, or place a 30 mg tablet in oral syringe and draw up 10 mL of water.
+   2. •Shake gently to allow for a quick dispersal.
+   3. •After the tablet has dispersed, administer the contents within 15 minutes.
+   4. •Refill the syringe with approximately 2 mL (5 mL for the 30 mg tablet) of water, shake gently, and administer any remaining contents.
 
-- PREVACID SoluTab – Nasogastric Tube (≥8 French) Administration
-  1. For administration via a nasogastric tube, PREVACID SoluTab can be administered as follows:
-     1. ▪Place a 15 mg tablet in a syringe and draw up 4 mL of water, or place a 30 mg tablet in a syringe and draw up 10 mL of water.
-     2. ▪Shake gently to allow for a quick dispersal.
-     3. ▪After the tablet has dispersed, inject through the nasogastric tube into the stomach within 15 minutes.
-     4. ▪Refill the syringe with approximately 5 mL of water, shake gently, and flush the nasogastric tube.
+1. PREVACID SoluTab – Nasogastric Tube (≥8 French) Administration
+2. For administration via a nasogastric tube, PREVACID SoluTab can be administered as follows:
+   1. •Place a 15 mg tablet in a syringe and draw up 4 mL of water, or place a 30 mg tablet in a syringe and draw up 10 mL of water.
+   2. •Shake gently to allow for a quick dispersal.
+   3. •After the tablet has dispersed, inject through the nasogastric tube into the stomach within 15 minutes.
+   4. •Refill the syringe with approximately 5 mL of water, shake gently, and flush the nasogastric tube.

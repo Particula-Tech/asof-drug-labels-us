@@ -19,7 +19,7 @@ PREVACID 15 mg was significantly more effective than placebo in relieving day an
 
 In a second U.S. multicenter study, also double-blind, placebo-controlled, dose-comparison (15 and 30 mg of PREVACID once daily), and including a comparison with ranitidine, in 280 patients with endoscopically documented duodenal ulcer, the percentage of patients healed after four weeks was significantly higher with both doses of PREVACID than with placebo.
 There was no evidence of a greater or earlier response with the higher dose of PREVACID.
-Although the 15 mg dose of PREVACID was superior to ranitidine at 4 weeks, the lack of significant difference at 2 weeks and the absence of a difference between 30 mg of PREVACID and ranitidine leaves the comparative effectiveness of the two agents undetermined (Table 8) [see Indications and Usage (1.1)].
+Although the 15 mg dose of PREVACID was superior to ranitidine at four weeks, the lack of significant difference at two weeks and the absence of a difference between 30 mg of PREVACID and ranitidine leaves the comparative effectiveness of the two agents undetermined (Table 8) [see Indications and Usage (1.1)].
 
 Table 8: Duodenal Ulcer Healing Rates
 
@@ -32,7 +32,7 @@ Table 8: Duodenal Ulcer Healing Rates
 
 H. pylori Eradication to Reduce the Risk of Duodenal Ulcer Recurrence
 
-Randomized, double-blind clinical studies performed in the U.S. in patients with H. pylori and duodenal ulcer disease (defined as an active ulcer or history of an ulcer within one year) evaluated the efficacy of PREVACID in combination with amoxicillin capsules and clarithromycin tablets as triple 14-day therapy or in combination with amoxicillin capsules as dual 14-day therapy for the eradication of H. pylori.
+Randomized, double-blind clinical studies performed in the U.S. in patients with H. pylori and duodenal ulcer disease (defined as an active ulcer or history of an ulcer within one year) evaluated the efficacy of PREVACID in combination with amoxicillin capsules and clarithromycin tablets as triple 14 day therapy or in combination with amoxicillin capsules as dual 14 day therapy for the eradication of H. pylori.
 Based on the results of these studies, the safety and efficacy of two different eradication regimens were established:
 
 | Triple therapy: | PREVACID 30 mg twice daily/amoxicillin 1 g twice daily/clarithromycin 500 mg twice daily |
@@ -40,7 +40,7 @@ Based on the results of these studies, the safety and efficacy of two different 
 | Dual therapy: | PREVACID 30 mg three times daily/amoxicillin 1 g three times daily |
 
 All treatments were for 14 days.
-H. pylori eradication was defined as two negative tests (culture and histology) at 4 to 6 weeks following the end of treatment.
+H. pylori eradication was defined as two negative tests (culture and histology) at four to six weeks following the end of treatment.
 
 Triple therapy was shown to be more effective than all possible dual therapy combinations.
 Dual therapy was shown to be more effective than both monotherapies.
@@ -49,16 +49,16 @@ Eradication of H. pylori has been shown to reduce the risk of duodenal ulcer rec
 A randomized, double-blind clinical study performed in the U.S. in patients with H. pylori and duodenal ulcer disease (defined as an active ulcer or history of an ulcer within one year) compared the efficacy of PREVACID triple therapy for 10 and 14 days.
 This study established that the 10-day triple therapy was equivalent to the 14-day triple therapy in eradicating H. pylori (Tables 9 and 10) [see Indications and Usage (1.2)].
 
-Table 9 H. pylori Eradication Rates – Triple Therapy (PREVACID/amoxicillin/clarithromycin) Percent of Patients Cured [95% Confidence Interval] (Number of patients)
+Table 9: H. pylori Eradication Rates – Triple Therapy (PREVACID/amoxicillin/clarithromycin) Percent of Patients Cured [95% Confidence Interval] (Number of patients)
 
 | Study | Duration | Triple Therapy Evaluable AnalysisBased on evaluable patients with confirmed duodenal ulcer (active or within one year) and H. pylori infection at baseline defined as at least two of three positive endoscopic tests from CLOtest, histology and/or culture. Patients were included in the analysis if they completed the study. Additionally, if patients dropped out of the study due to an adverse event related to the study drug, they were included in the evaluable analysis as failures of therapy. | Triple Therapy Intent-to-Treat AnalysisPatients were included in the analysis if they had documented H. pylori infection at baseline as defined above and had a confirmed duodenal ulcer (active or within one year). All dropouts were included as failures of therapy. |
 | --- | --- | --- | --- |
 | M93-131 | 14 days | 92(p<0.05) versus PREVACID/amoxicillin and PREVACID/clarithromycin dual therapy. [80.0-97.7] (N=48) | 86 [73.3-93.5] (N=55) |
 | M95-392 | 14 days | 86(p<0.05) versus clarithromycin/amoxicillin dual therapy. [75.7-93.6] (N=66) | 83 [72.0-90.8] (N=70) |
-| M95-399The 95% confidence interval for the difference in eradication rates, 10-day minus 14-day is (-10.5, 8.1) in the evaluable analysis and (-9.7, 9.1) in the intent-to-treat analysis. | 14 days | 85 [77.0-91.0] (N=113) | 82 [73.9-88.1] (N=126) |
+| M95-399The 95% confidence interval for the difference in eradication rates, 10 day minus 14 day is (-10.5, 8.1) in the evaluable analysis and (-9.7, 9.1) in the intent-to-treat analysis. | 14 days | 85 [77.0-91.0] (N=113) | 82 [73.9-88.1] (N=126) |
 |  | 10 days | 84 [76.0-89.8] (N=123) | 81 [73.9-87.6] (N=135) |
 
-Table 10 H. pylori Eradication Rates – 14-Day Dual Therapy (PREVACID/amoxicillin) Percent of Patients Cured [95% Confidence Interval] (Number of patients)
+Table 10: H. pylori Eradication Rates – 14 Day Dual Therapy (PREVACID/amoxicillin) Percent of Patients Cured [95% Confidence Interval] (Number of patients)
 
 | Study | Dual Therapy Evaluable AnalysisBased on evaluable patients with confirmed duodenal ulcer (active or within one year) and H. pylori infection at baseline defined as at least two of three positive endoscopic tests from CLOtest, histology and/or culture. Patients were included in the analysis if they completed the study. Additionally, if patients dropped out of the study due to an adverse event related to the study drug, they were included in the analysis as failures of therapy. | Dual Therapy Intent-to-Treat AnalysisPatients were included in the analysis if they had documented H. pylori infection at baseline as defined above and had a confirmed duodenal ulcer (active or within one year). All dropouts were included as failures of therapy. |
 | --- | --- | --- |
@@ -69,13 +69,13 @@ Long-Term Maintenance Treatment of Duodenal Ulcers
 
 PREVACID has been shown to prevent the recurrence of duodenal ulcers.
 Two independent, double-blind, multicenter, controlled trials were conducted in patients with endoscopically confirmed healed duodenal ulcers.
-Patients remained healed significantly longer and the number of recurrences of duodenal ulcers was significantly less in patients treated with PREVACID than in patients treated with placebo over a 12-month period (Table 11) [see Indications and Usage (1.3)].
+Patients remained healed significantly longer and the number of recurrences of duodenal ulcers was significantly less in patients treated with PREVACID than in patients treated with placebo over a 12 month period (Table 11) [see Indications and Usage (1.3)].
 
 Table 11: Endoscopic Remission Rates
 
 |  |  |  | Percent in Endoscopic Remission |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Trial | Drug | No. of Pts. | 0-3 mo. | 0-6 mo. | 0-12 mo. |
+| Trial | Drug | No. of Pts. | 0-3 | 0-6 | 0-12 |
 | #1 | PREVACID 15 mg daily | 86 | 90%(p≤0.001) versus placebo. | 87% | 84% |
 |  | Placebo | 83 | 49% | 41% | 39% |
 | #2 | PREVACID 30 mg daily | 18 | 94% | 94% | 85% |
@@ -103,7 +103,7 @@ Independent substantiation of the effectiveness of PREVACID 30 mg was provided b
 
 Healing of NSAID-Associated Gastric Ulcer
 
-In two U.S. and Canadian multicenter, double-blind, active-controlled studies in patients with endoscopically confirmed NSAID-associated gastric ulcer who continued their NSAID use, the percentage of patients healed after 8 weeks was statistically significantly higher with 30 mg of PREVACID than with the active control.
+In two U.S. and Canadian multicenter, double-blind, active-controlled studies in patients with endoscopically confirmed NSAID-associated gastric ulcer who continued their NSAID use, the percentage of patients healed after eight weeks was statistically significantly higher with 30 mg of PREVACID than with the active control.
 A total of 711 patients were enrolled in the study, and 701 patients were treated.
 Patients ranged in age from 18 to 88 years (median age 59 years), with 67% female patients and 33% male patients.
 Race was distributed as follows: 87% Caucasian, 8% Black, 5% Other.
@@ -123,7 +123,7 @@ Table 13: NSAID-Associated Gastric Ulcer Healing RatesActual observed ulcer(s) h
 
 Risk Reduction of NSAID-Associated Gastric Ulcer
 
-In one large U.S., multicenter, double-blind, placebo- and misoprostol-controlled (misoprostol blinded only to the endoscopist) study in patients who required chronic use of an NSAID and who had a history of an endoscopically documented gastric ulcer, the proportion of patients remaining free from gastric ulcer at 4, 8, and 12 weeks was significantly higher with 15 or 30 mg of PREVACID than placebo.
+In one large U.S., multicenter, double-blind, placebo- and misoprostol-controlled (misoprostol blinded only to the endoscopist) study in patients who required chronic use of an NSAID and who had a history of an endoscopically documented gastric ulcer, the proportion of patients remaining free from gastric ulcer at four, eight, and 12 weeks was significantly higher with 15 or 30 mg of PREVACID than placebo.
 A total of 537 patients were enrolled in the study, and 535 patients were treated.
 Patients ranged in age from 23 to 89 years (median age 60 years), with 65% female patients and 35% male patients.
 Race was distributed as follows: 90% Caucasian, 6% Black, 4% other.
@@ -141,11 +141,11 @@ Table 14: Proportion of Patients Remaining Free of Gastric Ulcers% = Life Table 
 
 Gastroesophageal Reflux Disease (GERD)
 
-Symptomatic GERD: In a U.S. multicenter, double-blind, placebo-controlled study of 214 patients with frequent GERD symptoms, but no esophageal erosions by endoscopy, significantly greater relief of heartburn associated with GERD was observed with the administration of lansoprazole 15 mg once daily up to 8 weeks than with placebo.
+Symptomatic GERD: In a U.S. multicenter, double-blind, placebo-controlled study of 214 patients with frequent GERD symptoms, but no esophageal erosions by endoscopy, significantly greater relief of heartburn associated with GERD was observed with the administration of lansoprazole 15 mg once daily up to eight weeks than with placebo.
 No significant additional benefit from lansoprazole 30 mg once daily was observed.
 
 The intent-to-treat analyses demonstrated significant reduction in frequency and severity of day and night heartburn.
-Data for frequency and severity for the 8-week treatment period are presented in Table 15 and in Figures 1 and 2:
+Data for frequency and severity for the eight week treatment period are presented in Table 15 and in Figures 1 and 2:
 
 Table 15: Frequency of Heartburn
 
@@ -165,12 +165,12 @@ Table 15: Frequency of Heartburn
 | --- | --- |
 | Figure 2 |  |
 
-In two U.S., multicenter double-blind, ranitidine-controlled studies of 925 total patients with frequent GERD symptoms, but no esophageal erosions by endoscopy, lansoprazole 15 mg was superior to ranitidine 150 mg (twice daily) in decreasing the frequency and severity of day and night heartburn associated with GERD for the 8-week treatment period.
+In two U.S., multicenter double-blind, ranitidine-controlled studies of 925 total patients with frequent GERD symptoms, but no esophageal erosions by endoscopy, lansoprazole 15 mg was superior to ranitidine 150 mg (twice daily) in decreasing the frequency and severity of day and night heartburn associated with GERD for the eight week treatment period.
 No significant additional benefit from lansoprazole 30 mg once daily was observed [see Indications and Usage (1.7)].
 
 Erosive Esophagitis
 
-In a U.S. multicenter, double-blind, placebo-controlled study of 269 patients entering with an endoscopic diagnosis of esophagitis with mucosal grading of 2 or more and grades 3 and 4 signifying erosive disease, the percentages of patients with healing are presented in Table 16:
+In a U.S. multicenter, double-blind, placebo-controlled study of 269 patients entering with an endoscopic diagnosis of esophagitis with mucosal grading of two or more and grades three and four signifying erosive disease, the percentages of patients with healing are presented in Table 16:
 
 Table 16: Erosive Esophagitis Healing Rates
 
@@ -217,7 +217,7 @@ Table 18: Reflux Esophagitis Healing Rates in Patients Poorly Responsive to Hist
 Long-Term Maintenance Treatment of Erosive Esophagitis
 
 Two independent, double-blind, multicenter, controlled trials were conducted in patients with endoscopically confirmed healed esophagitis.
-Patients remained in remission significantly longer and the number of recurrences of erosive esophagitis was significantly less in patients treated with PREVACID than in patients treated with placebo over a 12-month period (Table 19).
+Patients remained in remission significantly longer and the number of recurrences of erosive esophagitis was significantly less in patients treated with PREVACID than in patients treated with placebo over a 12 month period (Table 19).
 
 Table 19: Endoscopic Remission Rates
 
@@ -234,7 +234,7 @@ Table 19: Endoscopic Remission Rates
 
 Regardless of initial grade of erosive esophagitis, PREVACID 15 mg and 30 mg were similar in maintaining remission.
 
-In a U.S., randomized, double-blind study, PREVACID 15 mg daily (n = 100) was compared with ranitidine 150 mg twice daily (n = 106), at the recommended dosage, in patients with endoscopically-proven healed erosive esophagitis over a 12-month period.
+In a U.S., randomized, double-blind, study, PREVACID 15 mg daily (n = 100) was compared with ranitidine 150 mg twice daily (n = 106), at the recommended dosage, in patients with endoscopically-proven healed erosive esophagitis over a 12 month period.
 Treatment with PREVACID resulted in patients remaining healed (Grade 0 lesions) of erosive esophagitis for significantly longer periods of time than those treated with ranitidine (p<0.001).
 In addition, PREVACID was significantly more effective than ranitidine in providing complete relief of both daytime and nighttime heartburn.
 Patients treated with PREVACID remained asymptomatic for a significantly longer period of time than patients treated with ranitidine [see Indications and Usage (1.8)].
