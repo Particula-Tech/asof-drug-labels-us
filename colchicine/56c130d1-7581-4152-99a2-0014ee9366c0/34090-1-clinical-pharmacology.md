@@ -14,10 +14,11 @@ In healthy adults, COLCRYS is absorbed when given orally, reaching a mean Cmax o
 Following oral administration of COLCRYS given as 1.8 mg colchicine over one hour to healthy, young adults under fasting conditions, colchicine appears to be readily absorbed, reaching mean maximum plasma concentrations of 6.2 ng/mL at a median 1.81 hours (range: 1.0 to 2.5 hours).
 Following administration of the nonrecommended high-dose regimen (4.8 mg over six hours), mean maximal plasma concentrations were 6.8 ng/mL, at a median 4.47 hours (range: 3.1 to 7.5 hours).
 
-After 10 days on a regimen of 0.6 mg twice daily, peak concentrations are 3.1 to 3.6 ng/mL (range 1.6 to 6.0 ng/mL), occurring 1.3 to 1.4 hours postdose (range 0.5 to 3.0 hours).
+After 10 days on a regimen of 0.6 mg twice daily, peak concentrations are 3.1 to 3.6 ng/mL (range 1.6 to 6.0 ng/mL), occurring 1.3 to 1.4 hours post dose (range 0.5 to 3.0 hours).
 Mean pharmacokinetic parameter values in healthy adults are shown in Table 5.
 
-Table 5 Mean (%CV) Pharmacokinetic Parameters in Healthy Adults Given COLCRYS
+Table 5.
+Mean (%CV) Pharmacokinetic Parameters in Healthy Adults Given COLCRYS
 
 | Cmax (Colchicine ng/mL) | Tmax* (h) | Vd/F (L) | CL/F (L/hr) | t1/2 (h) |
 | --- | --- | --- | --- | --- |
@@ -27,7 +28,7 @@ Table 5 Mean (%CV) Pharmacokinetic Parameters in Healthy Adults Given COLCRYS
 | 3.6 (23.7) | 1.3 (0.5 – 3.0) | 1150 (18.7) | 30.3 (19.0) | 26.6 (16.3) |
 | *Tmax mean (range) CL = Dose/AUC0-t (calculated from mean values) Vd = CL/Ke (calculated from mean values) |  |  |  |  |
 
-In some subjects, secondary colchicine peaks are seen, occurring between three and 36 hours postdose and ranging from 39% to 155% of the height of the initial peak.
+In some subjects, secondary colchicine peaks are seen, occurring between three and 36 hours post dose and ranging from 39% to 155% of the height of the initial peak.
 These observations are attributed to intestinal secretion and reabsorption and/or biliary recirculation.
 
 Absolute bioavailability is reported to be approximately 45%.
@@ -92,12 +93,13 @@ No pharmacokinetic data are available for patients with severe hepatic impairmen
 
 Drug Interactions
 
-In Vitro Drug Interactions:In vitro studies in human liver microsomes have shown that colchicine is not an inhibitor or inducer of CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1 or CYP3A4 activity.
+In Vitro Drug Interactions: In vitro studies in human liver microsomes have shown that colchicine is not an inhibitor or inducer of CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1 or CYP3A4 activity.
 
 In Vivo Drug Interactions: The effects of coadministration of other drugs with COLCRYS on Cmax, AUC and Cmin are summarized in Table 6 (effect of other drugs on colchicine) and Table 7 (effect of colchicine on other drugs).
 For information regarding clinical recommendations, see Table 1 in Dose Modification for Coadministration of Interacting Drugs [see Dose Modification for Coadministration of Interacting Drugs (2.4)].
 
-Table 6 Drug Interactions: Pharmacokinetic Parameters for COLCRYS (Colchicine, USP) Tablets in the Presence of the Coadministered Drug
+Table 6.
+Drug Interactions: Pharmacokinetic Parameters for COLCRYS (Colchicine, USP) Tablets in the Presence of the Coadministered Drug
 
 | Coadministered Drug | Dose of Coadministered Drug (mg) | Dose of COLCRYS (mg) | N | % Change in Colchicine Concentrations from Baseline (Range: Min - Max) |  |
 | --- | --- | --- | --- | --- | --- |
@@ -115,7 +117,8 @@ Estrogen-containing oral contraceptives: In healthy female volunteers given ethi
 
 In healthy volunteers given theophylline coadministered with COLCRYS (0.6 mg twice daily × 14 days), theophylline concentrations were not affected.
 
-Table 7 Drug Interactions: Pharmacokinetic Parameters for Coadministration of Drug in the Presence of COLCRYS (Colchicine, USP) Tablets
+Table 7.
+Drug Interactions: Pharmacokinetic Parameters for Coadministration of Drug in the Presence of COLCRYS (Colchicine, USP) Tablets
 
 | Coadministered Drug | Dose of Coadministered Drug (mg) | Dose of COLCRYS (mg) | N | % Change in Coadministered Drug Concentrations from Baseline (Range: Min - Max) |  |
 | --- | --- | --- | --- | --- | --- |

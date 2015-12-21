@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C.
+Pregnancy Category C
 
 There are no adequate and well-controlled studies with colchicine in pregnant women.
 Colchicine crosses the human placenta.

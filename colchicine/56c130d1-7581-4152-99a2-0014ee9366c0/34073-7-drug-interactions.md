@@ -11,7 +11,8 @@ Signs and symptoms of COLCRYS toxicity should be evaluated promptly and, if toxi
 Table 4 provides recommendations as a result of other potentially significant drug interactions.
 Table 1 provides recommendations for strong and moderate CYP3A4 inhibitors and P-gp inhibitors.
 
-Table 4 Other Potentially Significant Drug Interactions
+Table 4.
+Other Potentially Significant Drug Interactions
 
 | Concomitant Drug Class or Food | Noted or Anticipated Outcome | Clinical Comment |
 | --- | --- | --- |

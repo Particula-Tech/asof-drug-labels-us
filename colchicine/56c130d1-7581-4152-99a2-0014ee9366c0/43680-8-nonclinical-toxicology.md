@@ -4,8 +4,8 @@
 
 Carcinogenesis
 
-Carcinogenicity studies of colchicine have not been conducted.
-Due to the potential for colchicine to produce aneuploid cells (cells with an unequal number of chromosomes), there is theoretically an increased risk of malignancy.
+Two-year studies were conducted in mice and rats to assess the carcinogenic potential of colchicine.
+No evidence of colchicine-related tumorigenicity was observed in mice or rats at colchicine oral doses up to 3 mg/kg/day and 2 mg/kg/day, respectively (approximately 6 and 8 times, respectively, the maximum recommended human dose of 2.4 mg on a mg/m2 basis).
 
 Mutagenesis
 

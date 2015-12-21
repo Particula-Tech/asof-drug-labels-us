@@ -151,4 +151,4 @@ COLCRYS is a trademark of Takeda Pharmaceuticals U.S.A., Inc., registered with t
 
 All other trademarks are the property of their respective owners.
 
-COL243 R1
+COL243 R2

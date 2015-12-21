@@ -24,7 +24,7 @@ Treatment of Gout Flares
 
 The recommended dose of COLCRYS for treatment of a gout flare is 1.2 mg (two tablets) at the first sign of the flare followed by 0.6 mg (one tablet) one hour later.
 Higher doses have not been found to be more effective.
-The maximum recommended dose for treatment of gout flares is 1.8 mg over a one hour period.
+The maximum recommended dose for treatment of gout flares is 1.8 mg over a one-hour period.
 COLCRYS may be administered for treatment of a gout flare during prophylaxis at doses not to exceed 1.2 mg (two tablets) at the first sign of the flare followed by 0.6 mg (one tablet) one hour later.
 Wait 12 hours and then resume the prophylactic dose.
 
@@ -58,26 +58,28 @@ Concomitant Therapy
 Coadministration of COLCRYS with drugs known to inhibit CYP3A4 and/or P-glycoprotein (P-gp) increases the risk of colchicine-induced toxic effects (Table 1).
 If patients are taking or have recently completed treatment with drugs listed in Table 1 within the prior 14 days, the dose adjustments are as shown in the table below [see Drug Interactions (7)].
 
-Table 1 COLCRYS Dose Adjustment for Coadministration with Interacting Drugs if no Alternative AvailableFor magnitude of effect on colchicine plasma concentrations [see Pharmacokinetics (12.3)]
+Table 1.
+COLCRYS Dose Adjustment for Coadministration with Interacting Drugs if no Alternative AvailableFor magnitude of effect on colchicine plasma concentrations [see Pharmacokinetics (12.3)]
 
-| Strong CYP3A4 Inhibitors2 |  |  |  |  |  |  |  |
+| Strong CYP3A4 InhibitorsWhen used in combination with Ritonavir, see dosing recommendations for strong CYP3A4 inhibitors [see Contraindications (4)] |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Drug | Noted or Anticipated Outcome | Gout Flares |  |  |  | FMF |  |
-| Prophylaxis of Gout Flares |  | Treatment of Gout Flares |  | Original Intended Dosage | Adjusted Dose |  |  |
-| Original Intended Dosage | Adjusted Dose | Original Intended Dosage | Adjusted Dose |  |  |  |  |
-| Atazanavir Clarithromycin Darunavir/ RitonavirWhen used in combination with Ritonavir, see dosing recommendations for strong CYP3A4 inhibitors [see Contraindications (4)] Indinavir Itraconazole Ketoconazole Lopinavir/ Ritonavir Nefazodone Nelfinavir Ritonavir Saquinavir Telithromycin Tipranavir/ Ritonavir | Significant increase in colchicine plasma levels; fatal colchicine toxicity has been reported with clarithromycin, a strong CYP3A4 inhibitor. Similarly, significant increase in colchicine plasma levels is anticipated with other strong CYP3A4 inhibitors. | 0.6 mg twice a day 0.6 mg once a day | 0.3 mg once a day 0.3 mg once every other day | 1.2 mg (2 tablets) followed by 0.6 mg (1 tablet) 1 hour later. Dose to be repeated no earlier than 3 days. | 0.6 mg (1 tablet) × 1 dose, followed by 0.3 mg (1/2 tablet) 1 hour later. Dose to be repeated no earlier than 3 days. | Maximum daily dose of 1.2 – 2.4 mg | Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day) |
+| Prophylaxis of Gout Flares |  | Treatment of Gout Flares |  |  |  |  |  |
+| Original Intended Dosage | Adjusted Dose | Original Intended Dosage | Adjusted Dose | Original Intended Dosage | Adjusted Dose |  |  |
+| Atazanavir Clarithromycin Darunavir/ Ritonavir Indinavir Itraconazole Ketoconazole Lopinavir/ Ritonavir Nefazodone Nelfinavir Ritonavir Saquinavir Telithromycin Tipranavir/ Ritonavir | Significant increase in colchicine plasma levels; fatal colchicine toxicity has been reported with clarithromycin, a strong CYP3A4 inhibitor. Similarly, significant increase in colchicine plasma levels is anticipated with other strong CYP3A4 inhibitors. | 0.6 mg twice a day 0.6 mg once a day | 0.3 mg once a day 0.3 mg once every other day | 1.2 mg (2 tablets) followed by 0.6 mg (1 tablet) 1 hour later. Dose to be repeated no earlier than 3 days. | 0.6 mg (1 tablet) × 1 dose, followed by 0.3 mg (1/2 tablet) 1 hour later. Dose to be repeated no earlier than 3 days. | Maximum daily dose of 1.2 – 2.4 mg | Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day) |
 | Moderate CYP3A4 Inhibitors |  |  |  |  |  |  |  |
 | Drug | Noted or Anticipated Outcome | Gout Flares |  |  |  | FMF |  |
-| Prophylaxis of Gout Flares |  | Treatment of Gout Flares |  | Original Intended Dosage | Adjusted Dose |  |  |
-| Original Intended Dosage | Adjusted Dose | Original Intended Dosage | Adjusted Dose |  |  |  |  |
+| Prophylaxis of Gout Flares |  | Treatment of Gout Flares |  |  |  |  |  |
+| Original Intended Dosage | Adjusted Dose | Original Intended Dosage | Adjusted Dose | Original Intended Dosage | Adjusted Dose |  |  |
 | Amprenavir Aprepitant Diltiazem Erythromycin Fluconazole Fosamprenavir (pro-drug of Amprenavir) Grapefruit juice Verapamil | Significant increase in colchicine plasma concentration is anticipated. Neuromuscular toxicity has been reported with diltiazem and verapamil interactions. | 0.6 mg twice a day 0.6 mg once a day | 0.3 mg twice a day or 0.6 mg once a day 0.3 mg once a day | 1.2 mg (2 tablets) followed by 0.6 mg (1 tablet) 1 hour later. Dose to be repeated no earlier than 3 days. | 1.2 mg (2 tablets) × 1 dose. Dose to be repeated no earlier than 3 days. | Maximum daily dose of 1.2 – 2.4 mg. | Maximum daily dose of 1.2 mg (may be given as 0.6 mg twice a day) |
 | P-gp InhibitorsPatients with renal or hepatic impairment should not be given COLCRYS in conjunction with strong CYP3A4 or P-gp inhibitors [see Contraindications (4)] |  |  |  |  |  |  |  |
 | Drug | Noted or Anticipated Outcome | Gout Flares |  |  |  | FMF |  |
-| Prophylaxis of Gout Flares |  | Treatment of Gout Flares |  | Original Intended Dosage | Adjusted Dose |  |  |
-| Original Intended Dosage | Adjusted Dose | Original Intended Dosage | Adjusted Dose |  |  |  |  |
+| Prophylaxis of Gout Flares |  | Treatment of Gout Flares |  |  |  |  |  |
+| Original Intended Dosage | Adjusted Dose | Original Intended Dosage | Adjusted Dose | Original Intended Dosage | Adjusted Dose |  |  |
 | Cyclosporine Ranolazine | Significant increase in colchicine plasma levels; fatal colchicine toxicity has been reported with cyclosporine, a P-gp inhibitor. Similarly, significant increase in colchicine plasma levels is anticipated with other P-gp inhibitors. | 0.6 mg twice a day 0.6 mg once a day | 0.3 mg once a day 0.3 mg once every other day | 1.2 mg (2 tablets) followed by 0.6 mg (1 tablet) 1 hour later. Dose to be repeated no earlier than 3 days. | 0.6 mg (1 tablet) × 1 dose. Dose to be repeated no earlier than 3 days. | Maximum daily dose of 1.2 – 2.4 mg | Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day) |
 
-Table 2 COLCRYS Dose Adjustment for Coadministration with Protease Inhibitors
+Table 2.
+COLCRYS Dose Adjustment for Coadministration with Protease Inhibitors
 
 | Protease Inhibitor | Clinical Comment | w/Colchicine - Prophylaxis of Gout Flares |  | w/Colchicine - Treatment of Gout Flares | w/Colchicine - Treatment of FMF |
 | --- | --- | --- | --- | --- | --- |
@@ -110,7 +112,7 @@ Colchicine dosing must be individualized according to the patient's renal functi
 
 Clcr in mL/minute may be estimated from serum creatinine (mg/dL) determination using the following formula:
 
-[140-age (years) × weight (kg)] Clcr = --------------------------------------- × 0.85 for female patients 72 × serum creatinine (mg/dL)
+[140-age (years) × weight (kg)] Clcr = --------------------------------------- 72 × serum creatinine (mg/dL) × 0.85 for female patients
 
 Gout Flares
 

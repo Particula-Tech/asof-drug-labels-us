@@ -4,15 +4,16 @@ The evidence for the efficacy of colchicine in patients with chronic gout is der
 Two randomized clinical trials assessed the efficacy of colchicine 0.6 mg twice a day for the prophylaxis of gout flares in patients with gout initiating treatment with urate-lowering therapy.
 In both trials, treatment with colchicine decreased the frequency of gout flares.
 
-The efficacy of a low-dosage regimen of oral colchicine (COLCRYS total dose 1.8 mg over one hour) for treatment of gout flares was assessed in a multicenter, randomized, double-blind, placebo-controlled, parallel group, one week, dose-comparison study.
+The efficacy of a low-dosage regimen of oral colchicine (COLCRYS total dose 1.8 mg over one hour) for treatment of gout flares was assessed in a multicenter, randomized, double-blind, placebo-controlled, parallel group, one-week, dose-comparison study.
 Patients meeting American College of Rheumatology criteria for gout were randomly assigned to three groups: high-dose colchicine (1.2 mg, then 0.6 mg hourly × 6 hours [4.8 mg total]); low-dose colchicine (1.2 mg, then 0.6 mg in 1 hour [1.8 mg total] followed by five placebo doses hourly); or placebo (two capsules, then one capsule hourly × 6 hours).
 Patients took the first dose within 12 hours of the onset of the flare and recorded pain intensity (11-point Likert scale) and adverse events over 72 hours.
 The efficacy of colchicine was measured based on response to treatment in the target joint, using patient self-assessment of pain at 24 hours following the time of first dose as recorded in the diary.
-A responder was one who achieved at least a 50% reduction in pain score at the 24-hour postdose assessment relative to the pretreatment score and did not use rescue medication prior to the actual time of 24-hour postdose assessment.
+A responder was one who achieved at least a 50% reduction in pain score at the 24 hour post-dose assessment relative to the pretreatment score and did not use rescue medication prior to the actual time of 24 hour post-dose assessment.
 
 Rates of response were similar for the recommended low-dose treatment group (38%) and the nonrecommended high-dose group (33%) but were higher as compared to the placebo group (16%) as shown in Table 8.
 
-Table 8 Number (%) of Responders Based on Target Joint Pain Score at 24 Hours Post First Dose
+Table 8.
+Number (%) of Responders Based on Target Joint Pain Score at 24 Hours Post First Dose
 
 | COLCRYS Dose Responders n (%) |  | Placebo n (%) (n=58) | % Differences in Proportion |  |
 | --- | --- | --- | --- | --- |
