@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-In patients taking etodolac capsules and tablets, USP or other NSAIDs, the most frequently reported adverse experiences occurring in approximately 1-10% of patients are:
+In patients taking etodolac capsules and tablets or other NSAIDs, the most frequently reported adverse experiences occurring in approximately 1-10% of patients are:
 
 Gastrointestinal experiences including: abdominal pain, constipation, diarrhea, dyspepsia, flatulence, gross bleeding/perforation, heartburn, nausea, GI ulcers (gastric/duodenal), vomiting.
 

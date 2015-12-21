@@ -1,11 +1,11 @@
 # DOSAGE AND ADMINISTRATION
 
-Carefully consider the potential benefits and risks of etodolac capsules and tablets, USP and other treatment options before deciding to use etodolac capsules and tablets, USP.
+Carefully consider the potential benefits and risks of etodolac capsules and tablets and other treatment options before deciding to use etodolac capsules and tablets.
 Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals (see WARNINGS).
 
-After observing the response to initial therapy with etodolac capsules and tablets, USP, the dose and frequency should be adjusted to suit an individual patient's needs.
+After observing the response to initial therapy with etodolac capsules and tablets, the dose and frequency should be adjusted to suit an individual patient's needs.
 
-Dosage adjustment of etodolac capsules and tablets, USP is generally not required in patients with mild to moderate renal impairment.
+Dosage adjustment of etodolac capsules and tablets is generally not required in patients with mild to moderate renal impairment.
 Etodolac should be used with caution in such patients, because, as with other NSAIDs, it may further decrease renal function in some patients with impaired renal function (see WARNINGS, Renal Effects).
 
 ## Analgesia

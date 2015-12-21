@@ -13,7 +13,7 @@ Both enantiomers are stable and there is no [-]R to [+]S conversion in vivo.
 
 ### Absorption
 
-The systemic bioavailability of etodolac from etodolac capsules and tablets, USP is 100% as compared to solution and at least 80% as determined from mass balance studies.
+The systemic bioavailability of etodolac from etodolac capsules and tablets is 100% as compared to solution and at least 80% as determined from mass balance studies.
 Etodolac is well absorbed and had a relative bioavailability of 100% when 200 mg capsules were compared with a solution of etodolac.
 Based on mass balance studies, the systemic availability of etodolac from either the tablet or capsule formulation is at least 80%.
 Etodolac does not undergo significant first-pass metabolism following oral administration.

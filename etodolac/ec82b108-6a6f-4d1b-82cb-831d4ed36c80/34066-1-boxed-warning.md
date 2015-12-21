@@ -2,7 +2,7 @@
 
 - Nonsteroidal anti-inflammatory drugs (NSAIDs) cause an increased risk of serious cardiovascular thrombotic events, including myocardial infarction and stroke, which can be fatal.
   This risk may occur early in treatment and may increase with duration of use [see Warnings and Precautions].
-- Etodolac capsules USP, 200 mg and 300 mg, and Etodolac tablets USP, 400 mg and 500 mg are contraindicated in the setting of coronary artery bypass graft (CABG) surgery [see Contraindications and Warnings].
+- Etodolac capsules, 200 mg and 300 mg, and Etodolac tablets, 400 mg and 500 mg are contraindicated in the setting of coronary artery bypass graft (CABG) surgery [see Contraindications and Warnings].
 
 ## Gastrointestinal Risk
 
