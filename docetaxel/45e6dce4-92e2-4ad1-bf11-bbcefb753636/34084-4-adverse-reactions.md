@@ -7,6 +7,12 @@ The most serious adverse reactions from TAXOTERE are:
 - Neutropenia [see Boxed Warning, Warnings and Precautions (5.3)]
 - Hypersensitivity [see Boxed Warning, Warnings and Precautions (5.4)]
 - Fluid Retention [see Boxed Warning, Warnings and Precautions (5.5)]
+- Acute Myeloid Leukemia [see Warnings and Precautions (5.6)]
+- Cutaneous Reactions [see Warnings and Precautions (5.7)]
+- Neurologic Reactions [see Warnings and Precautions (5.8)]
+- Eye Disorders [see Warnings and Precautions (5.9)]
+- Asthenia [see Warnings and Precautions (5.10)]
+- Alcohol Intoxication [see Warnings and Precautions (5.11)]
 
 The most common adverse reactions across all TAXOTERE indications are infections, neutropenia, anemia, febrile neutropenia, hypersensitivity, thrombocytopenia, neuropathy, dysgeusia, dyspnea, constipation, anorexia, nail disorders, fluid retention, asthenia, pain, nausea, diarrhea, vomiting, mucositis, alopecia, skin reactions, and myalgia.
 Incidence varies depending on the indication.
@@ -454,7 +460,7 @@ Table 8 - Adverse Reactions Regardless of Relationship to Treatment in Chemother
 Deaths within 30 days of last study treatment occurred in 31 patients (7.6%) in the docetaxel+cisplatin arm and 37 patients (9.3%) in the vinorelbine+cisplatin arm.
 Deaths within 30 days of last study treatment attributed to study drug occurred in 9 patients (2.2%) in the docetaxel+cisplatin arm and 8 patients (2.0%) in the vinorelbine+cisplatin arm.
 
-The second comparison in the study, vinorelbine+cisplatin versus TAXOTERE+carboplatin (which did not demonstrate a superior survival associated with TAXOTERE, [see Clinical Studies (14.3)]) demonstrated a higher incidence of thrombocytopenia, diarrhea, fluid retention, hypersensitivity reactions, skin toxicity, alopecia and nail changes on the TAXOTERE+carboplatin arm, while a higher incidence of anemia, neurosensory toxicity, nausea, vomiting, anorexia and asthenia was observed on the vinorelbine+cisplatin arm.
+The second comparison in the study, vinorelbine+cisplatin versus TAXOTERE+carboplatin (which did not demonstrate a superior survival associated with TAXOTERE [see Clinical Studies (14.3)]) demonstrated a higher incidence of thrombocytopenia, diarrhea, fluid retention, hypersensitivity reactions, skin toxicity, alopecia and nail changes on the TAXOTERE+carboplatin arm, while a higher incidence of anemia, neurosensory toxicity, nausea, vomiting, anorexia and asthenia was observed on the vinorelbine+cisplatin arm.
 
 Prostate Cancer
 
@@ -605,6 +611,7 @@ Cardiovascular: atrial fibrillation, deep vein thrombosis, ECG abnormalities, th
 Cutaneous: very rare cases of cutaneous lupus erythematosus and rare cases of bullous eruptions such as erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, and Scleroderma-like changes usually preceded by peripheral lymphedema.
 In some cases multiple factors may have contributed to the development of these effects.
 Severe hand and foot syndrome has been reported.
+Cases of permanent alopecia have been reported.
 
 Gastrointestinal: abdominal pain, anorexia, constipation, duodenal ulcer, esophagitis, gastrointestinal hemorrhage, gastrointestinal perforation, ischemic colitis, colitis, intestinal obstruction, ileus, neutropenic enterocolitis and dehydration as a consequence to gastrointestinal events have been reported.
 

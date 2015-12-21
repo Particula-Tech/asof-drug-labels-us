@@ -113,7 +113,8 @@ The most common side effects of TAXOTERE include:
 - nausea and vomiting
 - diarrhea
 - mouth or lips sores
-- hair loss
+- hair loss: in most cases normal hair growth should return.
+  In some cases (frequency not known) permanent hair loss has been observed.
 - rash
 - redness of the eye, excess tearing
 - skin reactions at the site of TAXOTERE administration such as increased skin pigmentation, redness, tenderness, swelling, warmth or dryness of the skin.
