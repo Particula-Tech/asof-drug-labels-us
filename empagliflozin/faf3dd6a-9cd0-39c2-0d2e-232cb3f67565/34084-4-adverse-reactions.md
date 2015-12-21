@@ -3,11 +3,12 @@
 The following important adverse reactions are described below and elsewhere in the labeling:
 
 - Hypotension [see Warnings and Precautions (5.1)]
-- Impairment in Renal Function [see Warnings and Precautions (5.2)]
-- Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.3)]
-- Genital Mycotic Infections [see Warnings and Precautions (5.4)]
-- Urinary Tract Infections [see Warnings and Precautions (5.5)]
-- Increased Low-Density Lipoprotein Cholesterol (LDL-C) [see Warnings and Precautions (5.6)]
+- Ketoacidosis [see Warnings and Precautions (5.2)]
+- Impairment in Renal Function [see Warnings and Precautions (5.3)]
+- Urosepsis and Pyelonephritis [see Warnings and Precautions (5.4)]
+- Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.5)]
+- Genital Mycotic Infections [see Warnings and Precautions (5.6)]
+- Increased Low-Density Lipoprotein Cholesterol (LDL-C) [see Warnings and Precautions (5.7)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -55,7 +56,7 @@ Increased Urination In the pool of five placebo-controlled clinical trials, adve
 Specifically, nocturia was reported by 0.4%, 0.3%, and 0.8% of patients treated with placebo, JARDIANCE 10 mg, and JARDIANCE 25 mg, respectively.
 
 Impairment in Renal Function Use of JARDIANCE was associated with increases in serum creatinine and decreases in eGFR (see Table 2).
-Patients with moderate renal impairment at baseline had larger mean changes [see Warnings and Precautions (5.2) and Use in Specific Populations (8.5, 8.6)].
+Patients with moderate renal impairment at baseline had larger mean changes [see Warnings and Precautions (5.3) and Use in Specific Populations (8.5, 8.6)].
 
 Table 2 Changes from Baseline in Serum Creatinine and eGFR in the Pool of Four 24-week Placebo-Controlled Studies and Renal Impairment Study
 
@@ -88,7 +89,7 @@ Table 2 Changes from Baseline in Serum Creatinine and eGFR in the Pool of Four 2
 | aSubset of patients from renal impairment study with eGFR 30 to less than 60 mL/min/1.73 m2 |  |  |  |  |
 
 Hypoglycemia The incidence of hypoglycemia by study is shown in Table 3.
-The incidence of hypoglycemia increased when JARDIANCE was administered with insulin or sulfonylurea [see Warnings and Precautions (5.3)].
+The incidence of hypoglycemia increased when JARDIANCE was administered with insulin or sulfonylurea [see Warnings and Precautions (5.5)].
 
 Table 3 Incidence of Overalla and Severeb Hypoglycemic Events in Placebo-Controlled Clinical Studies
 
@@ -128,11 +129,19 @@ The rate of treatment discontinuation due to urinary tract infections was 0.1%, 
 
 Urinary tract infections occurred more frequently in female patients.
 The incidence of urinary tract infections in female patients randomized to placebo, JARDIANCE 10 mg, and JARDIANCE 25 mg was 16.6%, 18.4%, and 17.0%, respectively.
-The incidence of urinary tract infections in male patients randomized to placebo, JARDIANCE 10 mg, and JARDIANCE 25 mg was 3.2%, 3.6%, and 4.1%, respectively [see Warnings and Precautions (5.5) and Use in Specific Populations (8.5)].
+The incidence of urinary tract infections in male patients randomized to placebo, JARDIANCE 10 mg, and JARDIANCE 25 mg was 3.2%, 3.6%, and 4.1%, respectively [see Warnings and Precautions (5.4) and Use in Specific Populations (8.5)].
 
 Laboratory Tests Increase in Low-Density Lipoprotein Cholesterol (LDL-C) Dose-related increases in low-density lipoprotein cholesterol (LDL-C) were observed in patients treated with JARDIANCE.
-LDL-C increased by 2.3%, 4.6%, and 6.5% in patients treated with placebo, JARDIANCE 10 mg, and JARDIANCE 25 mg, respectively [see Warnings and Precautions (5.6)].
+LDL-C increased by 2.3%, 4.6%, and 6.5% in patients treated with placebo, JARDIANCE 10 mg, and JARDIANCE 25 mg, respectively [see Warnings and Precautions (5.7)].
 The range of mean baseline LDL-C levels was 90.3 to 90.6 mg/dL across treatment groups.
 
 Increase in Hematocrit In a pool of four placebo-controlled studies, median hematocrit decreased by 1.3% in placebo and increased by 2.8% in JARDIANCE 10 mg and 2.8% in JARDIANCE 25 mg treated patients.
 At the end of treatment, 0.6%, 2.7%, and 3.5% of patients with hematocrits initially within the reference range had values above the upper limit of the reference range with placebo, JARDIANCE 10 mg, and JARDIANCE 25 mg, respectively.
+
+## 6.2 Postmarketing Experience
+
+Additional adverse reactions have been identified during postapproval use of JARDIANCE.
+Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+- Ketoacidosis [see Warnings and Precautions (5.2)]
+- Urosepsis and pyelonephritis [see Warnings and Precautions (5.4)]

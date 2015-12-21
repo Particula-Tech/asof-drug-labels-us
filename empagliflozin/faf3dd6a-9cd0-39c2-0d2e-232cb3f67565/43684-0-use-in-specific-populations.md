@@ -40,10 +40,10 @@ The risk of urinary tract infections increased in patients who were 75 years of 
 The efficacy and safety of JARDIANCE were evaluated in a study of patients with mild and moderate renal impairment [see Clinical Studies (14.3)].
 In this study, 195 patients exposed to JARDIANCE had an eGFR between 60 and 90 mL/min/1.73 m2, 91 patients exposed to JARDIANCE had an eGFR between 45 and 60 mL/min/1.73 m2 and 97 patients exposed to JARDIANCE had an eGFR between 30 and 45 mL/min/1.73 m2.
 The glucose lowering benefit of JARDIANCE 25 mg decreased in patients with worsening renal function.
-The risks of renal impairment [see Warnings and Precautions (5.2)], volume depletion adverse reactions and urinary tract infection-related adverse reactions increased with worsening renal function.
+The risks of renal impairment [see Warnings and Precautions (5.3)], volume depletion adverse reactions and urinary tract infection-related adverse reactions increased with worsening renal function.
 
 The efficacy and safety of JARDIANCE have not been established in patients with severe renal impairment, with ESRD, or receiving dialysis.
-JARDIANCE is not expected to be effective in these patient populations [see Dosage and Administration (2.2), Contraindications (4) and Warnings and Precautions (5.1, 5.2)].
+JARDIANCE is not expected to be effective in these patient populations [see Dosage and Administration (2.2), Contraindications (4) and Warnings and Precautions (5.1, 5.3)].
 
 ## 8.7 Hepatic Impairment
 

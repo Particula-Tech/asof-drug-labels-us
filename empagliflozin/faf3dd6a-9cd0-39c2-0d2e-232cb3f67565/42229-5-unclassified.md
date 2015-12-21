@@ -10,10 +10,8 @@ The other trademarks referenced are owned by third parties not affiliated with B
 
 Copyright © 2015 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-IT5728GF302015 304584-02
+IT5728IL072015 304584-03
 
-IT6061D 304563-03
+IT6061E 304563-04
 
-IT6062C 304561-02
-
-IT6063C 304562-02
+IT6063D 304562-03

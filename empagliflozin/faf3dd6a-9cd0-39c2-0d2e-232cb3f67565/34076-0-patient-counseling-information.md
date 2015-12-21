@@ -25,16 +25,20 @@ It is not known if JARDIANCE is excreted in breast milk; however, based on anima
 Hypotension Inform patients that hypotension may occur with JARDIANCE and advise them to contact their healthcare provider if they experience such symptoms [see Warnings and Precautions (5.1)].
 Inform patients that dehydration may increase the risk for hypotension, and to have adequate fluid intake.
 
-Urinary Tract Infections Inform patients of the potential for urinary tract infections.
+Ketoacidosis Inform patients that ketoacidosis has been reported during use of JARDIANCE.
+Instruct patients to check ketones (when possible) if symptoms consistent with ketoacidosis occur even if blood glucose is not elevated.
+If symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness, and labored breathing) occur, instruct patients to discontinue JARDIANCE and seek medical advice immediately [see Warnings and Precautions (5.2)].
+
+Serious Urinary Tract Infections Inform patients of the potential for urinary tract infections, which may be serious.
 Provide them with information on the symptoms of urinary tract infections.
-Advise them to seek medical advice if such symptoms occur.
+Advise them to seek medical advice if such symptoms occur [see Warnings and Precautions (5.4)].
 
 Genital Mycotic Infections in Females (e.g., Vulvovaginitis) Inform female patients that vaginal yeast infections may occur and provide them with information on the signs and symptoms of vaginal yeast infections.
-Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.4)].
+Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.6)].
 
 Genital Mycotic Infections in Males (e.g., Balanitis or Balanoposthitis) Inform male patients that yeast infection of penis (e.g., balanitis or balanoposthitis) may occur, especially in uncircumcised males and patients with chronic and recurrent infections.
 Provide them with information on the signs and symptoms of balanitis and balanoposthitis (rash or redness of the glans or foreskin of the penis).
-Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.4)].
+Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.6)].
 
 Laboratory Tests Inform patients that renal function should be assessed prior to initiation of JARDIANCE and monitored periodically thereafter.
 
