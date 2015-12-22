@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "ANDA205517"
+  ],
+  "inn": "linezolid",
+  "labeler": "Ascend Laboratories, LLC",
+  "package_ndcs": [
+    "67877-419-01",
+    "67877-419-05",
+    "67877-419-10",
+    "67877-419-20",
+    "67877-419-33",
+    "67877-419-38",
+    "67877-419-84"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "linezolid",
+      "name": "Linezolid"
+    }
+  ],
+  "setid": "7402aa01-50de-46c8-a341-d30da5b32b1c",
+  "source": "dailymed"
+}
