@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA204239"
+  ],
+  "inn": "linezolid",
+  "labeler": "Camber Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "31722-749-01",
+    "31722-749-20",
+    "31722-749-30",
+    "31722-749-31"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "linezolid",
+      "name": "Linezolid"
+    }
+  ],
+  "setid": "b239458e-9a3e-49ac-9ac7-a4badc53dff6",
+  "source": "dailymed"
+}
