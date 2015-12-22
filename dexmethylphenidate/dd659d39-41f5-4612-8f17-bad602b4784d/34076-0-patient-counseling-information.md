@@ -17,10 +17,10 @@ Instruct the patient to seek immediate medical attention in the event of priapis
 
 Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud’s phenomenon]
 
-- •Instruct patients beginning treatment with dexmethylphenidate hydrochloride extended-release capsules about the risk of peripheral vasculopathy, including Raynaud’s Phenomenon, and associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red.
-- •Instruct patients to report to their physician any new numbness, pain, skin color change, or sensitivity to temperature in fingers or toes.
-- •Instruct patients to call their physician immediately with any signs of unexplained wounds appearing on fingers or toes while taking dexmethylphenidate hydrochloride extended-release capsules.
-- •Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
+1. •Instruct patients beginning treatment with dexmethylphenidate hydrochloride extended-release capsules about the risk of peripheral vasculopathy, including Raynaud’s Phenomenon, and associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red.
+2. •Instruct patients to report to their physician any new numbness, pain, skin color change, or sensitivity to temperature in fingers or toes.
+3. •Instruct patients to call their physician immediately with any signs of unexplained wounds appearing on fingers or toes while taking dexmethylphenidate hydrochloride extended-release capsules.
+4. •Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
 
 TEVA PHARMACEUTICALS USA, INC.
 

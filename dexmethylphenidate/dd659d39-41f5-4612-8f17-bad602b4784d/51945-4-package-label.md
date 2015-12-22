@@ -6,7 +6,7 @@ NDC 0093-5550-01
 
 CII
 
-DEXMETHYLPHENIDATE HYDROCHLORIDE Extended-Release Capsules, 5 mg
+Dexmethylphenidate Hydrochloride Extended-Release Capsules, 5 mg
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
@@ -24,7 +24,7 @@ NDC 0093-5551-01
 
 CII
 
-DEXMETHYLPHENIDATE HYDROCHLORIDE Extended-Release Capsules, 10 mg
+Dexmethylphenidate Hydrochloride Extended-Release Capsules, 10 mg
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
@@ -42,7 +42,7 @@ NDC 0093-5552-01
 
 CII
 
-DEXMETHYLPHENIDATE HYDROCHLORIDE Extended-Release Capsules, 15 mg
+Dexmethylphenidate Hydrochloride Extended-Release Capsules, 15 mg
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
@@ -60,7 +60,7 @@ NDC 0093-5553-01
 
 CII
 
-DEXMETHYLPHENIDATE HYDROCHLORIDE Extended-Release Capsules, 20 mg
+Dexmethylphenidate Hydrochloride Extended-Release Capsules, 20 mg
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
@@ -78,7 +78,7 @@ NDC 0093-5554-01
 
 CII
 
-DEXMETHYLPHENIDATE HYDROCHLORIDE Extended-Release Capsules
+Dexmethylphenidate Hydrochloride Extended-Release Capsules
 
 30 mg
 
@@ -98,7 +98,7 @@ NDC 0093-5562-01
 
 CII
 
-DEXMETHYLPHENIDATE HYDROCHLORIDE Extended-Release Capsules
+Dexmethylphenidate Hydrochloride Extended-Release Capsules
 
 40 mg
 
