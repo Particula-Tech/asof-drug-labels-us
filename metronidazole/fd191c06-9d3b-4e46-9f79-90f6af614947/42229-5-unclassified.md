@@ -1,4 +1,4 @@
-500 mg/Container (5 mg/mL)
+500 mg/ 100 mL (5 mg/mL)
 
 Sterile For Intravenous Infusion Only.
 
@@ -6,7 +6,7 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 
 Rx only
 
-Revised: July 2015
+Revised: November 2015
 
 PAB is a registered trademark of B. Braun Medical Inc.
 
@@ -14,7 +14,8 @@ ATCC is a registered trademark of the American Type Culture Collection.
 
 # Directions for Use of PAB® Container
 
-CAUTION: DO NOT ADD SUPPLEMENTARY MEDICATION.
+CAUTION: ADDING ADDITIVES INTO THE PAB CONTAINER IS PROHIBITED.
+DO NOT ADD SUPPLEMENTARY MEDICATIONS.
 
 For intravenous infusion only.
 
@@ -34,7 +35,7 @@ Consult Package Insert for complete product information.
 WARNING: DO NOT USE PLASTIC CONTAINER IN SERIES CONNECTION.
 
 1. Identify Set Port (See Figure A).
-2. Caution – Additives should not be introduced into the Metronidazole Injection USP solution.
+2. Caution – Adding additives into the Metronidazole Injection USP solution bag is prohibited.
    If used with a primary intravenous fluid system, the primary solution should be discontinued during metronidazole infusion.
    Do not use equipment containing aluminum (e.g., needles, cannulae, etc.) that may contact the drug solution.
 3. To Attach Administration Set To aseptically remove the set port closure: hold container below the set port and grasp the foil tab between the thumb and forefinger then pull the tab in two steps shown in Figure B Steps 1 and 2.
@@ -43,6 +44,6 @@ WARNING: DO NOT USE PLASTIC CONTAINER IN SERIES CONNECTION.
 
 PAB® containers can be safely transported in a standard 6-inch carrier through a pneumatic tube system that is well maintained and running properly.
 
-B. Braun Medical Inc. Bethlehem, PA 18018-3524 USA 1-800-227-2862 www.bbraun.com API from Italy
+B. Braun Medical Inc. Bethlehem, PA 18018-3524 USA 1-800-227-2862
 
-Y36-002-902 LD-438-3
+Y36-002-917 LD-438-5

@@ -23,7 +23,7 @@ Prescribing Metronidazole Injection USP in the absence of a proven or strongly s
 
 Patients should be counseled that antibacterial drugs including Metronidazole Injection USP should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
-When Metronidazole Injection USP is prescribed to treat bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
+When Metronidazole Injection USP is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by Metronidazole Injection USP or other antibacterial drugs in the future.
 
 ## LABORATORY TESTS

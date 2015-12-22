@@ -11,13 +11,13 @@ HEMATOPOIETIC: Reversible neutropenia (leukopenia).
 
 DERMATOLOGIC: Erythematous rash and pruritus.
 
-CENTRAL NERVOUS SYSTEM: Encephalopathy, aseptic meningitis, convulsive seizures, optic neuropathy, peripheral neuropathy, dizziness, vertigo, incoordination, ataxia, confusion, dysarthria, irritability, depression, weakness, and insomnia.
+CENTRAL NERVOUS SYSTEM: Encephalopathy, aseptic meningitis, convulsive seizures, optic neuropathy, peripheral neuropathy, dizziness, vertigo, incoordination, ataxia, confusion, psychosis, dysarthria, irritability, depression, weakness, and insomnia.
 
 LOCAL REACTIONS: Thrombophlebitis after intravenous infusion.
 This reaction can be minimized or avoided by avoiding prolonged use of indwelling intravenous catheters.
 
 OTHER: Fever.
-Instances of a darkened urine have also been reported, and this manifestation has been the subject of a special investigation.
+Instances of darkened urine have also been reported, and this manifestation has been the subject of a special investigation.
 Although the pigment which is probably responsible for this phenomenon has not been positively identified, it is almost certainly a metabolite of metronidazole and seems to have no clinical significance.
 
 The following adverse reactions have been reported during treatment with oral metronidazole:
@@ -31,7 +31,7 @@ HEMATOPOIETIC: Reversible neutropenia (leukopenia); rarely, reversible thrombocy
 
 CARDIOVASCULAR: Flattening of the T-wave may be seen in electrocardiographic tracings.
 
-CENTRAL NERVOUS SYSTEM: Encephalopathy, aseptic meningitis, convulsive seizures, optic neuropathy, peripheral neuropathy, dizziness, vertigo, incoordination, ataxia, confusion, dysarthria, irritability, depression, weakness, and insomnia.
+CENTRAL NERVOUS SYSTEM: Encephalopathy, aseptic meningitis, convulsive seizures, optic neuropathy, peripheral neuropathy, dizziness, vertigo, incoordination, ataxia, confusion, psychosis, dysarthria, irritability, depression, weakness, and insomnia.
 
 HYPERSENSITIVITY: Urticaria, erythematous rash, Stevens-Johnson Syndrome, flushing, nasal congestion, dryness of mouth (or vagina or vulva), and fever.
 

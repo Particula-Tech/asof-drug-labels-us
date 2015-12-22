@@ -26,7 +26,7 @@ In one study newborn infants appeared to demonstrate diminished capacity to elim
 The elimination half-life, measured during the first three days of life, was inversely related to gestational age.
 In infants whose gestational ages were between 28 and 40 weeks, the corresponding elimination half-lives ranged from 109 to 22.5 hours.
 
-## Microbiology
+## MICROBIOLOGY
 
 ### Mechanism of Action
 
@@ -44,9 +44,8 @@ Resistance may be due to multiple mechanisms that include decreased uptake of th
 
 Metronidazole does not possess any clinically relevant activity against facultative anaerobes or obligate aerobes.
 
-### Activity In Vitro and in Clinical Infections
+### Antimicrobial Activity
 
-Against susceptible organisms, metronidazole is generally bactericidal at concentrations equal to or slightly higher than the minimal inhibitory concentrations.
 Metronidazole has been shown to be active against most isolates of the following bacteria both in vitro and clinical infections as described in the INDICATIONS AND USAGE section.
 
 ### Gram negative anaerobes:
@@ -54,12 +53,12 @@ Metronidazole has been shown to be active against most isolates of the following
 - Bacteroides fragilis group (B. fragilis, B. distasonis, B. ovatus, B. thetaiotaomicron, B. vulgatus)
 - Fusobacterium species
 
-### Gram positive anaerobes:
+### ​Gram positive anaerobes:
 
 - Clostridium species
 - Eubacterium species
 - Peptococcus species
-- Peptostreptococcus
+- Peptostreptococcus species
 
 The following in vitro data are available, but their clinical significance is unknown: Metronidazole exhibits in vitro minimal inhibitory concentrations (MIC’s) of 8 mcg/mL or less against most (≥90%) isolates of the following bacteria; however, the safety and effectiveness of metronidazole in treating clinical infections due to these bacteria have not been established in adequate and well-controlled clinical trials:
 
@@ -77,30 +76,30 @@ These reports should aid the physician in selecting an antibacterial drug produc
 
 Quantitative methods are used to determine antimicrobial inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-For anaerobic bacteria, the susceptibility to metronidazole should be determined using a standardized method (broth and/or agar).1, 2
+For anaerobic bacteria, the susceptibility to metronidazole can be determined by a standardized test method1.
+The MICs should be determined using a standardized method (broth and/or agar).1, 2
 
-The MIC values obtained should be interpreted according to the criteria provided in Table 1:
+The MIC values obtained should be interpreted according to the criteria provided in Table 1.
 
-| Table 1: Susceptibility Test Interpretive Criteria for Metronidazole against AnaerobesAgar dilution method is recommended for all anaerobesBroth dilution method is recommended for testing of Bacteroides fragilis group only; for this group, MIC values by agar and broth dilution methods are consisered equivalent |  |
-| --- | --- |
-| MIC (mcg/mL) | Interpretation |
-| ≤ 8 | Susceptible (S) |
-| 16 | Intermediate (I) |
-| ≥32 | Resistant (R) |
+| Table 1: Susceptibility Test Interpretive Criteria for Metronidazole |  |  |  |
+| --- | --- | --- | --- |
+| Pathogen | Minimum Inhibitory Concentration (mcg/mL)Agar dilution method is recommended for all anaerobes.Broth dilution method is recommended for testing of Bacteroides fragilis group only; for this group, MIC values by agar and broth dilution methods are consisered equivalent. |  |  |
+| S | I | R |  |
+| Anaerobes | ≤ 8 | 16 | ≥ 32 |
 
-A report of Susceptible (S) indicates that the antimicrobial drug is likely to inhibit growth of the microorganism if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
+A report of Susceptible (S) indicates that the antimicrobial drug is likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
+A report of Intermediate (I) indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
+This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where a high dosage of the drug can be used.
+This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
+A report of Resistant (R) indicates that the antimicrobial drug is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the infection site; other therapy should be selected.
 
-A report of Intermediate (I) implies that an infection due to the isolate may be appropriately treated in the body sites where the drugs are physiologically concentrated or when a high dosage of drug is used.
+### ​​Quality Control
 
-A report of Resistant (R) indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the infection site; other therapy should be selected.
-
-### Quality Control
-
-Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test.1, 2 Standard metronidazole powder should provide the MIC values shown in Table 2.
+Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test.1, 2 Standard metronidazole powder should provide the following range of MIC values noted in Table 2.
 
 | Table 2: Acceptable Quality Control Ranges for Metronidazole against Anaerobes |  |  |
 | --- | --- | --- |
-| Quality control strain | Minimum inhibitory concentration (mcg/mL) |  |
+| Quality Control Strain | Minimum Inhibitory Concentration (mcg/mL) |  |
 | Agar | Broth |  |
 | Bacteroides fragilis ATCC® 25285 | 0.25 – 1.0 | 0.25 – 2.0 |
 | Bacteroides thetaiotaomicron ATCC® 29741 | 0.5 – 2.0 | 0.5 – 4.0 |
