@@ -26,4 +26,4 @@ Allow at least 14 days after stopping treatment with MAOIs before initiating tre
 
 ## 7.6 Anticholinergics
 
-Anticholinergics or other medications with anticholinergic activity when used concurrently with opioid analgesics may result in increased risk of urinary retention, severe constipation, or paralyltic ileus.
+Anticholinergics or other medications with anticholinergic activity when used concurrently with opioid analgesics may result in increased risk of urinary retention, severe constipation, or paralytic ileus.

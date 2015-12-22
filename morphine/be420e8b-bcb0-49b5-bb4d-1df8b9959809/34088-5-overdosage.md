@@ -6,7 +6,7 @@ Acute overdosage of morphine is characterized by respiratory depression, with or
 In severe overdosage, apnea, circulatory collapse, cardiac arrest and death may occur.
 
 Morphine sulfate may cause miosis, even in total darkness.
-Pinpoint pupils are a sign of opioid overdosage but are not pathognomonic (e.g., ontine lesions of hemorrhagic or ischemic origin may produce similar findings).
+Pinpoint pupils are a sign of opioid overdosage but are not pathognomonic (e.g., pontine lesions of hemorrhagic or ischemic origin may produce similar findings).
 Marked mydriasis rather than miosis may be seen with hypoxia in overdose situations.
 
 ## 10.2 Treatment

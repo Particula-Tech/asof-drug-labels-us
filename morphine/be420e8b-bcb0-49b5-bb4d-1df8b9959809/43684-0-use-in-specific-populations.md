@@ -13,7 +13,7 @@ Furthermore, no malformations were observed in the infant of a woman who attempt
 
 Several literature reports indicate that morphine administered subcutaneously during the early gestational period in mice and hamsters produced neurological, soft tissue and skeletal abnormalities.
 With one exception, the effects that have been reported were following doses that were maternally toxic and the abnormalities noted were characteristic of those observed when maternal toxicity is present.
-In one study, following subcutaneous infusion of doses greater than or equal to 0.15 mg/kg to mice, exencephaly, hydronephrosis, intestinal hemorrhage, split subpraoccipital, malformed sternebrae, and malformed xiphoid were noted in the absence of material toxicity.
+In one study, following subcutaneous infusion of doses greater than or equal to 0.15 mg/kg to mice, exencephaly, hydronephrosis, intestinal hemorrhage, split supraoccipital, malformed sternebrae, and malformed xiphoid were noted in the absence of material toxicity.
 In the hamster, morphine sulfate given subcutaneously on gestation day 8 produced exencephaly and cranioschisis.
 In rats treated with subcutaneous infusions of morphine during the period of organogenesis, no teratogenicity was observed.
 No maternal toxicity was observed in this study, however, increased mortality and growth retardation were seen in the offspring.

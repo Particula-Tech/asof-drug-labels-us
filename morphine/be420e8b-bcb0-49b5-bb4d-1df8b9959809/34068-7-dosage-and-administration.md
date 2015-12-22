@@ -20,13 +20,13 @@ Individualize treatment in every case, using non-opioid analgesics, opioids on a
 Adjust the dosing regimen for each patient individually, taking into account the patient’s prior analgesic treatment experience.
 In the selection of the initial dose of Morphine Sulfate Injection USP, give attention to the following:
 
-- the total daily dose, potency and specific characteristics of the opioid the patient has been taking previously;
-- the reliability of the relative potency estimate used to calculate the equivalent Morphine Sulfate Injection USP dose needed;
-- the patient’s degree of opioid tolerance;
-- the general condition and medical status of the patient;
-- concurrent medications;
-- the type and severity of the patient’s pain;
-- risk factors for abuse, addiction or diversion, including a prior history of abuse, addiction or diversion
+- •the total daily dose, potency and specific characteristics of the opioid the patient has been taking previously;
+- •the reliability of the relative potency estimate used to calculate the equivalent Morphine Sulfate Injection USP dose needed;
+- •the patient’s degree of opioid tolerance;
+- •the general condition and medical status of the patient;
+- •concurrent medications;
+- •the type and severity of the patient’s pain;
+- •risk factors for abuse, addiction or diversion, including a prior history of abuse, addiction or diversion
 
 The following dosing recommendations, therefore, can only be considered suggested approaches to what is actually a series of clinical decisions over time in the management of the pain of each individual patient.
 

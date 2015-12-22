@@ -9,7 +9,7 @@ When writing prescriptions, include both the total dose in mg and the total dose
 
 ## 5.2 Cardiovascular Instability
 
-While low doses of intravenously administered morphine have little effect on cardiovascular stability, high doses are excitory, resulting from sympathetic hyperactivity and increase in circulatory catecholamines.
+While low doses of intravenously administered morphine have little effect on cardiovascular stability, high doses are excitatory, resulting from sympathetic hyperactivity and increase in circulatory catecholamines.
 Have Naloxone Injection and resuscitative equipment immediately available for use in case of life-threatening or intolerable side effects and whenever morphine therapy is being initiated.
 
 ## 5.3 Respiratory Depression
@@ -55,7 +55,7 @@ Clinicians should maintain a high index of suspicion for adverse drug reactions 
 ## 5.8 Hypotensive Effect
 
 Morphine Sulfate Injection may cause severe hypotension in an individual whose ability to maintain their blood pressure has been compromised by depleted blood volume, shock, impaired myocardial function or concurrent administration of sympatholytic drugs, and drugs such as phenothiazines or general anesthetics.
-Orthostatic hypotension is a frequent complication in single-dose parenteral morphine analgesia in ambulatory patients.
+Orthostatic hypotension is a frequent complication in single-use parenteral morphine analgesia in ambulatory patients.
 
 The vasodilation produced by Morphine Sulfate Injection USP may further reduce cardiac output and blood pressure in patients in circulatory shock.
 
