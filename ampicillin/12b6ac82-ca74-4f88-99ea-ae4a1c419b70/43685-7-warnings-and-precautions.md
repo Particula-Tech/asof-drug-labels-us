@@ -15,11 +15,11 @@ Treatment with antibacterial agents alters the normal flora of the colon leading
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
 Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
-CDAD must be considered in all patients who present with diarrhea following antibiotic use.
+CDAD must be considered in all patients who present with diarrhea following antibacterial drug use.
 Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 
-If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
-Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
+If CDAD is suspected or confirmed, ongoing antibacterial drug use not directed against C. difficile may need to be discontinued.
+Appropriate fluid and electrolyte management, protein supplementation, antibacterial treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
 # PRECAUTIONS
 
@@ -44,8 +44,8 @@ When Ampicillin for Injection, USP is prescribed to treat a bacterial infection,
 
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by Ampicillin for Injection, USP or other antibacterial drugs in the future.
 
-Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
-Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
+Diarrhea is a common problem caused by antibacterials which usually ends when the antibacterial is discontinued.
+Sometimes after starting treatment with antibacterials, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibacterial.
 If this occurs, patients should contact their physician as soon as possible.
 
 ## Laboratory Tests
@@ -77,14 +77,14 @@ Because animal reproduction studies are not always predictive of human response,
 
 ## Labor and Delivery
 
-Oral ampicillin-class antibiotics are poorly absorbed during labor.
+Oral ampicillin-class antibacterials are poorly absorbed during labor.
 Studies in guinea pigs showed that intravenous administration of ampicillin slightly decreased the uterine tone and frequency of contractions, but moderately increased the height and duration of contractions.
 However, it is not known whether use of these drugs in humans during labor or delivery has immediate or delayed adverse effects on the fetus, prolongs the duration of labor, or increases the likelihood that forceps delivery or other obstetrical intervention or resuscitation of the newborn will be necessary.
 
 ## Nursing Mothers
 
 Ampicillin is excreted in trace amounts in human milk.
-Therefore, caution should be exercised when ampicillin-class antibiotics are administered to a nursing woman.
+Therefore, caution should be exercised when ampicillin-class antibacterials are administered to a nursing woman.
 
 ## Pediatric Use
 
