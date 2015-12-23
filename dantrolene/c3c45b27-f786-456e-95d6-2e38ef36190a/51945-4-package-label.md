@@ -1,6 +1,6 @@
-# PRINCIPAL DISPLAY PANEL - 25 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 25 mg-100ct Bottle Label
 
-GLOBAL®
+Impax Generics
 
 NDC 0115-4411-01
 
@@ -14,9 +14,9 @@ Rx only
 
 100 CAPSULES
 
-# PRINCIPAL DISPLAY PANEL - 50 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 50 mg-100ct Bottle Label
 
-GLOBAL®
+Impax Generics
 
 NDC 0115-4422-01
 
@@ -30,9 +30,9 @@ Rx Only
 
 100 CAPSULES
 
-# PRINCIPAL DISPLAY PANEL - 100 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 100 mg-100 ct Bottle Label
 
-GLOBAL®
+Impax Generics
 
 NDC 0115-4433-01
 
