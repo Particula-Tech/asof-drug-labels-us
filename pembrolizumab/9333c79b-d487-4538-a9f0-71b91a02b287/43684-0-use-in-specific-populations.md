@@ -43,10 +43,7 @@ Safety and effectiveness of KEYTRUDA have not been established in pediatric pati
 
 ## 8.5 Geriatric Use
 
-Of the 411 patients with melanoma treated with KEYTRUDA, 39% were 65 years and over.
-No overall differences in safety or efficacy were reported between elderly patients and younger patients.
-
-Of the 550 patients with NSCLC treated with KEYTRUDA, 47% were 65 years and over.
+Of the 2117 patients with melanoma or NSCLC treated with KEYTRUDA, 43% were 65 years and over.
 No overall differences in safety or efficacy were reported between elderly patients and younger patients.
 
 ## 8.6 Renal Impairment
