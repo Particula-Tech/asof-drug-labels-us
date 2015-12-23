@@ -1,4 +1,4 @@
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL - 0.5 mg bottle label
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 0.5 mg bottle label
 
 NDC 0469-0647-73
 
@@ -13,7 +13,7 @@ Do not cut, crush, or chew capsule.
 
 30 Capsules
 
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL - 1 mg bottle label
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 1 mg bottle label
 
 NDC 0469-0677-73
 
@@ -28,7 +28,7 @@ Do not cut, crush, or chew capsule.
 
 30 Capsules
 
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL - 5 mg bottle label
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 5 mg bottle label
 
 NDC 0469-0687-73
 

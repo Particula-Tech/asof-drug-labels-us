@@ -1,193 +1,152 @@
 # 6 ADVERSE REACTIONS
 
-The following serious and otherwise important adverse drug reactions are discussed in greater detail in other sections of labeling:
-
-- •Lymphoma and Other Malignancies [see Warnings and Precautions (5.2)]
-- •Serious Infections [see Warnings and Precautions (5.3)]
-- •Polyoma Virus Infections [see Warnings and Precautions (5.6)]
-- •Cytomegalovirus (CMV) Infections [see Warnings and Precautions (5.7)]
-- •New Onset Diabetes after Transplant [see Warnings and Precautions (5.8)]
-- •Nephrotoxicity [see Warnings and Precautions (5.9)]
-- •Neurotoxicity [see Warnings and Precautions (5.10)]
-- •Hyperkalemia [see Warnings and Precautions (5.11)]
-- •Hypertension [see Warnings and Precautions (5.12)]
-- •Pure Red Cell Aplasia [see Warnings and Precautions (5.17)]
-- •Gastrointestinal Perforation [see Warnings and Precautions (5.18)]
-
 ## 6.1 Clinical Studies Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 In addition, the clinical trials were not designed to establish comparative differences across study arms with regards to the adverse reactions discussed below.
 
-The data described below reflect exposure to ASTAGRAF XL in 545 renal transplant recipients exposed to ASTAGRAF XL for periods up to two years [see Clinical Studies (14)].
+Kidney transplant patients were treated with ASTAGRAF XL (N=214) or tacrolimus immediate-release product (N=212) and concomitant immunosuppressants (median duration of exposure of 12 months) in a randomized, open-label, active-controlled trial of mostly U.S. patients (Study 1) [see Clinical Studies (14.1)].
+The types of adverse reactions seen in Study 1 were similar to the adverse reactions seen in Study 2 [non-U.S. trial in kidney transplant patients treated with ASTAGRAF XL (N=331) or tacrolimus immediate-release product (N=336) and concomitant immunosuppressants] [see Clinical Studies (14.2)].
 
-The most frequent diseases leading to transplantation were glomerulonephritis, polycystic kidney disease, nephrosclerosis/hypertensive nephropathy, and diabetic nephropathy in both studies.
-Study 1: With Basiliximab Induction
-
-The proportion of patients who discontinued treatment due to adverse reactions was 9% in the ASTAGRAF XL arm and 11% in the Prograf control arm through 12 months of treatment.
+In Study 1, the proportion of patients who discontinued treatment due to adverse reactions was 9% and 11% in the ASTAGRAF XL and tacrolimus immediate-release treatment groups, respectively, through 12 months of treatment.
 The most common adverse reactions leading to discontinuation in ASTAGRAF XL-treated patients were related to infections or renal/urinary disorders.
-The most common (≥ 30%) adverse reactions observed in the ASTAGRAF XL group were: diarrhea, constipation, nausea, peripheral edema, tremor and anemia.
-Study 2: Without Induction
 
-The proportion of patients who discontinued treatment due to adverse reactions was 13% in the ASTAGRAF XL arm and 11% in the Prograf control arm through 12 months of treatment.
-The most common adverse reactions leading to discontinuation in ASTAGRAF XL-treated patients were related to infections, graft dysfunction, renal vascular/ischemic conditions and diabetes.
-The most common (≥30%) adverse reaction observed in the ASTAGRAF XL group was anemia.
+Infections The overall incidence of infections, serious infections, and infections with identified etiology reported in patients treated with the ASTAGRAF XL or tacrolimus immediate-release product in Study 1 are shown in Table 3.
 
-Information on selected significant adverse reactions observed during Studies 1 and 2 are summarized below.
-New Onset Diabetes After Transplant (NODAT)
+Table 3: Percentage of Patients with Infections in Study 1a Through One Year Post-Renal Transplant
 
-New onset diabetes after transplantation (defined by the composite occurrence of ≥ 2 fasting plasma glucose values that were > 126 mg/dL at ≥ 30 days apart, insulin use for ≥ 30 consecutive days, oral hypoglycemic use for ≥ 30 consecutive days, and/or HbA1C ≥ 6.5%) is summarized in Table 2 below for Study 1 and Study 2 through one year post-transplant.
+|  | ASTAGRAF XL, MMF, steroids, basiliximab induction N=214 | Tacrolimus immediate-release product, MMF, steroids, basiliximab inductionN=212 |
+| --- | --- | --- |
+| All Infections | 69% | 69% |
+| Respiratory Infections | 34% | 31% |
+| Urinary Tract Infections | 16% | 25% |
+| Cytomegalovirus Infections | 10% | 11% |
+| Bacterial Infections | 8% | 12% |
+| Gastroenteritis | 7% | 3% |
+| Polyomavirus Infections | 3% | 5% |
+| Serious Infections | 22% | 23% |
+| a Study 1 was not designed to support comparative claims of ASTAGRAF XL compared to tacrolimus immediate-release product for the adverse reactions reported in this table. |  |  |
 
-Table 2.
-Composite NODAT Through 1 Year Post-Transplant in Studies 1 and 2
+New Onset Diabetes After Transplant (NODAT) The incidence of new onset diabetes after transplantation (defined by the composite occurrence of ≥ 2 fasting plasma glucose values that were > 126 mg/dL at ≥ 30 days apart, insulin use for ≥ 30 consecutive days, oral hypoglycemic use for ≥ 30 consecutive days, and/or HbA1C ≥ 6.5%) is summarized in Table 4 below for Study 1 through one year post-transplant [see Warnings and Precautions (5.5)].
 
-|  | Study 1 |  | Study 2 |  |
-| --- | --- | --- | --- | --- |
-| ASTAGRAF XLn (%)(N=162) | Prografn (%)(N=151) | ASTAGRAF XLn (%)(N=288) | Prografn (%)(N=299) |  |
-| Composite NODAT | 58 (36) | 53 (35) | 105 (37) | 90 (30) |
-| ≥ 2 Fasting Plasma Glucose Values ≥ 126 mg/dL ≥ 30 days apart | 42 (26) | 35 (23) | 51 (18) | 47 (16) |
-| Insulin use ≥ 30 consecutive days | 10 (6) | 12 (8) | 29 (10) | 29 (10) |
-| Oral hypoglycemic use ≥ 30 consecutive days | 22 (14) | 13 (9) | 20 (7) | 23 (8) |
-| HbA1C ≥ 6.5% | 31 (19) | 33 (22) | 48 (17) | 39 (13) |
+Table 4: Percentage of Patients with NODAT Through 1 Year Post-Renal Transplant in Study 1a
 
-Infections
+|  | ASTAGRAF XL, MMF, steroids, basiliximab induction N=162 | Tacrolimus immediate-release product, MMF, steroids, basiliximab induction N=151 |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Composite NODAT | 36% | 35% |  |  |  |
+| ≥ 2 Fasting Plasma Glucose Values ≥ 126 mg/dL ≥ 30 days apart | 26% | 23% |  |  |  |
+| HbA1C ≥ 6.5% | 19% | 22% |  |  |  |
+| Oral hypoglycemic use ≥ 30 consecutive days | 14% | 9% |  |  |  |
+| Insulin use ≥ 30 consecutive days | 6% | 8% |  |  |  |
+| a Study 1 was not designed to support comparative claims of ASTAGRAF XL compared to tacrolimus immediate-release product for the adverse reactions reported in this table. |  |  |  |  |  |
 
-Adverse reactions of infectious etiology were reported based on clinical assessment by physicians.
-The causative organisms for these reactions are identified when provided by the physician.
-The overall number of infections, serious infections, and select infections with identified etiology reported in patients treated with ASTAGRAF XL or the control in Studies 1 and 2 are shown in Table 3.
+Hyperkalemia In Study 1 [see Clinical Studies (14.1)], 73 out of 214 (34.1%) patients on ASTAGRAF XL had a serum potassium level greater than 5.4 up to 6.4 mEq/L, and 8 out of 214 (3.7%) patients had a serum potassium level greater than 6.4 mEq/L.
 
-Table 3.
-Overall Infections and Select Infections by Treatment Group in Studies 1 and 2 Through One Year Post-Transplant
+Common Adverse Reactions The most common (≥ 30%) adverse reactions observed with ASTAGRAF XL in Study 1 were: diarrhea, constipation, nausea, peripheral edema, tremor, and anemia.
+The incidence of adverse reactions that occurred in ≥ 15% of ASTAGRAF XL-treated patients compared to tacrolimus immediate-release product through one year of treatment in Study 1 is shown by treatment groups in Table 5.
 
-|  | Study 1 |  | Study 2 |  |
-| --- | --- | --- | --- | --- |
-| ASTAGRAF XLn (%)(N=214) | Prografn (%)(N=212) | ASTAGRAF XLn (%)(N=331) | Prografn (%)(N=336) |  |
-| All Infections | 148 (69) | 146 (69) | 228 (69) | 216 (64) |
-| Serious Infections | 48 (22) | 49 (23) | 79 (24) | 64 (19) |
-| Bacterial Infections | 18 (8) | 25 (12) | 125 (38) | 137 (41) |
-| Respiratory Infections | 73 (34) | 65 (31) | 75 (23) | 74 (22) |
-| Cytomegalovirus Infections | 21 (10) | 24 (11) | 38 (12) | 21 (6) |
-| Polyomavirus Infections | 6 (3) | 10 (5) | 7 (2) | 1 (0) |
-| Gastroenteritis | 16 (7) | 6 (3) | 16 (5) | 8 (2) |
-| Studies 1 and 2 were not designed to support comparative claims for ASTAGRAF XL for the adverse reactions reported in this table. |  |  |  |  |
+Table 5: Adverse Reactions (≥ 15%) in Kidney Transplant Patients Through One Year Post Transplant in Study 1a
 
-Glomerular Filtration Rate
+|  | ASTAGRAF XL, MMF, steroids, basiliximab inductionN=214 | Tacrolimus immediate-release product, MMF, steroids, basiliximab inductionN=212 |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Diarrhea | 45% | 44% |  |  |  |  |  |  |
+| Constipation | 40% | 32% |  |  |  |  |  |  |
+| Nausea | 36% | 35% |  |  |  |  |  |  |
+| Peripheral Edema | 36% | 34% |  |  |  |  |  |  |
+| Tremor | 35% | 34% |  |  |  |  |  |  |
+| Anemia | 33% | 29% |  |  |  |  |  |  |
+| Hypertension | 28% | 30% |  |  |  |  |  |  |
+| Vomiting | 25% | 25% |  |  |  |  |  |  |
+| Hypomagnesemia | 24% | 27% |  |  |  |  |  |  |
+| Insomnia | 24% | 28% |  |  |  |  |  |  |
+| Hypophosphatemia | 23% | 28% |  |  |  |  |  |  |
+| Headache | 22% | 24% |  |  |  |  |  |  |
+| Hyperkalemia | 20% | 23% |  |  |  |  |  |  |
+| Increased Blood Creatinine | 19% | 23% |  |  |  |  |  |  |
+| Fatigue | 16% | 10% |  |  |  |  |  |  |
+| Leukopenia | 16% | 16% |  |  |  |  |  |  |
+| Hyperlipidemia | 16% | 17% |  |  |  |  |  |  |
+| Hyperglycemia | 16% | 18% |  |  |  |  |  |  |
+| a Study 1 was not designed to support comparative claims of ASTAGRAF XL compared to tacrolimus immediate-release for the adverse reactions reported in this table. |  |  |  |  |  |  |  |  |
 
-The estimated mean glomerular filtration rates, using the Modification of Diet in Renal Disease (MDRD) formula, by treatment group at Month 12 in the ITT population in Studies 1 and 2 are shown in Table 4.
+Less Frequently Reported Adverse Reactions (< 15% in ASTAGRAF XL-treated patients) by System Organ Class
 
-Table 4.
-Estimated Glomerular Filtration Rate (mL/min/1.73m2) by MDRD Formula at 12 Months Post-Transplant
+The following adverse reactions were reported in clinical studies of kidney transplant patients who were treated with ASTAGRAF XL, MMF, and steroids (Studies 1 and 2).
 
-|  | Study 1 |  | Study 2 |  |
-| --- | --- | --- | --- | --- |
-| ASTAGRAF XL(n=201) | Prograf(n=202) | ASTAGRAF XL(n=287) | Prograf(n=300) |  |
-| Month 1 Baseline Mean (SD) | 56 (20) | 56 (21) | 51 (19) | 52 (20) |
-| Month 12 LOCFSubject's last observation carried forward (LOCF) for missing data at Month 1; patients who died, lost the graft or were lost to follow-up are imputed as zeroes |  |  |  |  |
-| Mean (Standard deviation) | 58 (21) | 56 (23) | 52 (20) | 55 (19) |
-| Median (Min-Max) | 56 (0, 177) | 57 (0, 120) | 54 (0, 116) | 54 (0, 134) |
-| Mean Difference XL-PrografTacrolimus XL-Prograf treatment mean difference results of analysis of covariance model with Month 1 Baseline as a covariate. | +2.3 (-1.2, +5.8) |  | -1.8 (-4.6, +0.8) |  |
+Blood and Lymphatic System Disorders: Hemolytic anemia, leukocytosis, neutropenia, thrombocytopenia, thrombotic microangiopathy
 
-The incidence of adverse reactions that occurred in ≥ 15% of ASTAGRAF XL-treated patients compared to control through one year of treatment in Studies 1 and 2 are shown in Table 5.
+Cardiac Disorders: Atrial fibrillation, atrial flutter, tachycardia
 
-Table 5.
-Adverse Events Occurring in ≥ 15% of ASTAGRAF XL-Treated Kidney Transplant Patients Through One Year Post Transplant in Studies 1 or 2Studies 1 and 2 were not designed to support comparative claims for ASTAGRAF XL for the adverse reactions reported in this table.
+Ear Disorders: Tinnitus
 
-|  | Study 1 |  | Study 2 |  |
-| --- | --- | --- | --- | --- |
-| Adverse Reactions | ASTAGRAF XLn (%) (N=214) | Prografn (%) (N=212) | ASTAGRAF XLn (%) (N=331) | Prograf n (%)(N=336) |
-| Anemia | 70 (33) | 61 (29) | 103 (31) | 87 (26) |
-| Constipation | 85 (40) | 68 (32) | 45 (14) | 60 (18) |
-| Diarrhea | 96 (45) | 94 (44) | 88 (27) | 103 (31) |
-| Fatigue | 34 (16) | 22 (10) | 7 (2) | 6 (2) |
-| Graft Dysfunction | 29 (14) | 45 (21) | 57 (17) | 56 (17) |
-| Headache | 46 (22) | 50 (24) | 39 (12) | 33 (10) |
-| Hyperglycemia | 34 (16) | 39 (18) | 61 (18) | 65 (19) |
-| Hyperkalemia | 43 (20) | 49 (23) | 50 (15) | 49 (15) |
-| Hyperlipidemia | 35 (16) | 36 (17) | 23 (7) | 28 (8) |
-| Hypertension | 59 (28) | 63 (30) | 80 (24) | 76 (23) |
-| Hypomagnesemia | 52 (24) | 57 (27) | 9 (3) | 12 (4) |
-| Hypophosphatemia | 50 (23) | 59 (28) | 15 (5) | 22 (7) |
-| Increased Blood Creatinine | 40 (19) | 49 (23) | 54 (16) | 63 (19) |
-| Insomnia | 52 (24) | 60 (28) | 29 (9) | 34 (10) |
-| Leukopenia | 35 (16) | 33 (16) | 51 (15) | 37 (11) |
-| Nausea | 76 (36) | 75 (35) | 51 (15) | 42 (13) |
-| Peripheral Edema | 76 (36) | 73 (34) | 38 (12) | 49 (15) |
-| Tremor | 75 (35) | 73 (34) | 58 (18) | 58 (17) |
-| Urinary Tract Infection | 34 (16) | 53 (25) | 7 (2) | 10 (3) |
-| Urinary Tract Infection (bacterial) | 1 (1) | 6 (3) | 86 (26) | 102 (30) |
-| Vomiting | 53 (25) | 53 (25) | 42 (13) | 43 (13) |
+Eye Disorders: Vision blurred, conjunctivitis
 
-Less Frequently Reported Adverse Reactions (<15%) by System Organ Class
+Gastrointestinal Disorders: Abdominal distension, abdominal pain, aphthous stomatitis, dyspepsia, esophagitis, flatulence, gastritis, gastroesophageal reflux disease
 
-The following adverse reactions were also reported in clinical studies of kidney transplant recipients who were treated with ASTAGRAF XL.
-Blood and Lymphatic System Disorders
+General Disorders and Administration Site Conditions: Anasarca, asthenia, edema, pyrexia
 
-Coagulopathy, hemolytic anemia, leukocytosis, neutropenia, pancytopenia, thrombocytopenia, thrombotic microangiopathy Cardiac Disorders
+Hepatobiliary Disorders: Abnormal hepatic function, cholestasis, hepatitis (acute and chronic), hepatotoxicity
 
-Angina pectoris, atrial fibrillation, atrial flutter, bradycardia, cardiac arrest, congestive cardiac failure, hypertrophic cardiomyopathy, myocardial ischemia, myocardial infarction, pericardial effusion, tachycardia, ventricular extrasystoles Ear Disorders
+Infections and Infestations: Condyloma acuminatum, tinea versicolor
 
-Hearing loss, otitis (media and externa), tinnitus Eye Disorders
+Injury: Fall
 
-Vision blurred, conjunctivitis Gastrointestinal Disorders
+Investigations: Increased blood lactate dehydrogenase, increased blood urea, increased hepatic enzyme
 
-Abdominal distension, abdominal pain, aphthous stomatitis, ascites, colitis, dyspepsia, esophagitis, flatulence, gastritis, gastroesophageal reflux disease, gastrointestinal hemorrhage, ileus, impaired gastric emptying, pancreatitis, stomach ulcer General Disorders and Administration Site Conditions
+Metabolism and Nutrition Disorders: Anorexia, hyperphosphatemia, hyperuricemia, hypokalemia, hyponatremia, metabolic acidosis
 
-Anasarca, asthenia, edema Hepatobiliary Disorders
+Musculoskeletal and Connective Tissue Disorders: Arthralgia, osteopenia, osteoporosis
 
-Abnormal hepatic function, cholestasis, hepatitis (acute and chronic), hepatotoxicity Infections and Infestations
+Neoplasms: Kaposi’s sarcoma
 
-Condyloma acuminatum, Epstein-Barr virus infection, tinea versicolor Injury, Poisoning and Procedural Complications
+Nervous System Disorders: Convulsion, dizziness, hypoesthesia, neurotoxicity, paresthesia, peripheral neuropathy
 
-Fall Investigations
+Psychiatric Disorders: Agitation, anxiety, confusional state, depression, hallucination, mood swings, nightmare
 
-Abnormal electrocardiogram T wave, increased blood lactate dehydrogenase, increased blood urea, increased hematocrit, increased hepatic enzyme, increased international normalized ratio, weight fluctuation Metabolism and Nutrition Disorders
+Renal and Urinary Disorders: Anuria, oliguria, proteinuria, renal failure, renal tubular necrosis, toxic nephropathy
 
-Anorexia, dehydration, fluid overload, hypercalcemia, hyperphosphatemia, hyperuricemia, hypocalcemia, hypoglycemia, hypokalemia, hyponatremia, hypoproteinemia, metabolic acidosis Musculoskeletal and Connective Tissue Disorders
+Respiratory, Thoracic and Mediastinal Disorders: Acute respiratory distress syndrome, dyspnea, pulmonary edema, productive cough
 
-Arthralgia, osteopenia, osteoporosis Neoplasms
+Skin and Subcutaneous Tissue Disorders: Acne, alopecia, dermatitis, hyperhidrosis, hypotrichosis, pruritus, rash
 
-Bladder cancer, Kaposi’s sarcoma, non-melanoma skin cancer, papillary thyroid cancer Nervous System Disorders
-
-Aphasia, carpal tunnel syndrome, cerebral infarction, cerebral ischemia, convulsion, dizziness, hypoesthesia, neurotoxicity, paresthesia, peripheral neuropathy, somnolence, syncope Psychiatric Disorders
-
-Agitation, anxiety, confusional state, depression, hallucination, mental status changes, mood swings, nightmare Renal and Urinary Disorders
-
-Anuria, hematuria, oliguria, proteinuria, renal failure, renal graft dysfunction, renal tubular necrosis, toxic nephropathy, urinary incontinence, urinary retention Respiratory, Thoracic and Mediastinal Disorders
-
-Acute respiratory distress syndrome, allergic rhinitis, dyspnea, emphysema, hiccups, lung infiltration, pulmonary edema, productive cough, respiratory failure Skin and Subcutaneous Tissue Disorders
-
-Acne, alopecia, dermatitis, hyperhidrosis, hypotrichosis, pruritus, rash Vascular Disorders
-
-Deep vein thrombosis, flushing, hemorrhage, hypotension, orthostatic hypotension
+Vascular Disorders: Deep vein thrombosis, flushing
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been reported from worldwide marketing experience with tacrolimus.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-Blood and Lymphatic System Disorders
+The following adverse reactions have been reported from marketing experience with tacrolimus in the U.S. and outside the U.S. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Agranulocytosis, decreased blood fibrinogen, disseminated intravascular coagulation, hemolytic uremic syndrome, prolonged activated partial thromboplastin time, pure red cell aplasia [see Warnings and Precautions (5.17)], thrombotic thrombocytopenic purpura Cardiac Disorders
+Blood and Lymphatic System Disorders: Agranulocytosis, disseminated intravascular coagulation, hemolytic uremic syndrome, pancytopenia, pure red cell aplasia [see Warnings and Precautions (5.13)], coagulopathy, thrombotic thrombocytopenic purpura, prolonged activated partial thromboplastin time, decreased blood fibrinogen
 
-QT prolongation, supraventricular extrasystoles, supraventricular tachycardia, Torsade de Pointes, ventricular fibrillation Eye Disorders
+Cardiac Disorders: Cardiac arrest, myocardial infarction, ventricular fibrillation, congestive cardiac failure, hypertrophic cardiomyopathy, pericardial effusion, angina pectoris, supraventricular extrasystoles, supraventricular tachycardia, bradycardia, Torsade de Pointes, QT prolongation
 
-Blindness, photophobia, optic atrophy Gastrointestinal Disorders
+Ear Disorders: Hearing loss
 
-Dysphagia, gastrointestinal perforation [see Warnings and Precautions (5.18)], intestinal obstruction, peritonitis General Disorders
+Eye Disorders: Blindness, optic atrophy, photophobia
 
-Multi-organ failure Hepatobiliary Disorders
+Gastrointestinal Disorders: Gastrointestinal hemorrhage, gastrointestinal perforation, pancreatitis, peritonitis, stomach ulcer, intestinal obstruction, ascites, colitis, ileus, impaired gastric emptying, dysphagia
 
-Bile duct stenosis, cholangitis, cirrhosis, hepatic failure, hepatic necrosis, hepatic steatosis, jaundice, venoocclusive liver disease Immune disorders
+Hepatobiliary Disorders: Hepatic failure, hepatic necrosis, cirrhosis, cholangitis, venoocclusive liver disease, bile duct stenosis, hepatic steatosis, jaundice
 
-Graft versus host disease (acute and chronic) Musculoskeletal and Connective Tissue Disorders
+Hypersensitivity Reactions: Hypersensitivity, Stevens-Johnson syndrome, toxic epidermal necrolysis, urticaria.
 
-Myalgia, polyarthritis, rhabdomyolysis Neoplasms
+Immune System Disorders: Graft versus host disease (acute and chronic)
 
-Lymphoma including EBV-associated lymphoproliferative disorder, hepatosplenic T-cell lymphoma, PTLD [see Warnings and Precautions (5.2)]; leukemia, melanoma Nervous System Disorders
+Investigations: Increased international normalized ratio
 
-Coma, dysarthria, flaccid paralysis, hemiparesis, mutism, nerve compression, posterior reversible encephalopathy syndrome (PRES) [see Warnings and Precautions (5.10)], progressive multifocal leukoencephalopathy (PML) sometimes fatal [see Warnings and Precautions (5.6)], quadriplegia, status epilepticus Renal and Urinary Disorders
+Metabolism and Nutrition Disorders: Hypoproteinaemia
 
-Hemorrhagic cystitis Respiratory, Thoracic and Mediastinal Disorders
+Musculoskeletal and Connective Tissue Disorders: Rhabdomyolysis, myalgia, polyarthritis
 
-Interstitial lung disease, pulmonary hypertension Skin and Subcutaneous Tissue Disorders
+Neoplasms: Lymphoma including EBV-associated lymphoproliferative disorder, hepatosplenic T-cell lymphoma, PTLD [see Warnings and Precautions (5.1)], leukemia, melanoma
 
-Hyperpigmentation, photosensitivity, Stevens-Johnson syndrome, toxic epidermal necrolysis, urticaria
+Nervous System Disorders: Cerebral infarction, progressive multifocal leukoencephalopathy (PML) sometimes fatal [see Warnings and Precautions (5.2)], posterior reversible encephalopathy syndrome (PRES) [see Warnings and Precautions (5.7)], coma, status epilepticus, quadriplegia, flaccid paralysis, hemiparesis, aphasia, syncope, carpal tunnel syndrome, nerve compression, mutism, dysarthria, somnolence
+
+Psychiatric Disorders: Mental status changes
+
+Renal and Urinary Disorders: Hemorrhagic cystitis, hematuria, urinary retention, urinary incontinence
+
+Respiratory, Thoracic and Mediastinal Disorders: Interstitial lung disease, pulmonary hypertension, lung infiltration, rhinitis allergic, hiccups
+
+Skin and Subcutaneous Tissue Disorders: Hyperpigmentation, photosensitivity
+
+Vascular Disorders: Hemorrhage

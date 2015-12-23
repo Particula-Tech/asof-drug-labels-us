@@ -1,32 +1,13 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-ASTAGRAF XL is supplied in short, square bottles as well as in blister cartons; the statement 'ONCE DAILY' appears on its label.
+ASTAGRAF XL (tacrolimus) extended-release capsules are supplied in short, square bottles as well as in blister cartons (see Table 17).
 
-ASTAGRAF XL and tacrolimus immediate-release capsules are further differentiated by different color schemes.
-ASTAGRAF XL (tacrolimus extended-release capsules)
+Table 17: Strengths of ASTAGRAF XL
 
-0.5 mg
-
-Oblong capsule with a light yellow cap and orange body.
-Capsule is branded with red " 647" on capsule body and "0.5 mg" on capsule cap.
-The capsule is supplied in 30-count short, square bottles (NDC 0469-0647-73) with brown caps and in blister cartons containing 5 blister cards of 10 capsules on each card (NDC 0469-0647-11).
-Both bottle and blister packaging are branded with matching brown stripes.
-ASTAGRAF XL (tacrolimus extended-release capsules)
-
-1 mg
-
-Oblong capsule with a white cap and orange body.
-Capsule is branded with red "677" on capsule body and "1 mg" on capsule cap.
-The capsule is supplied in 30-count short, square bottles (NDC 0469-0677-73) with blue caps and in blister cartons containing 5 blister cards of 10 capsules on each card (NDC 0469-0677-11).
-Both bottle and blister packaging are branded with matching blue stripes.
-ASTAGRAF XL (tacrolimus extended-release capsules)
-
-5 mg
-
-Oblong capsule with a grayish-red cap and orange body.
-Capsule is branded with red " 687" on capsule body and "5 mg" on capsule cap.
-The capsule is supplied in 30-count short, square bottles (NDC 0469-0687-73) with orange caps and in blister cartons containing 5 blister cards of 10 capsules on each card (NDC 0469-0687-11).
-Both bottle and blister packaging are branded with matching orange stripes.
+| 0.5 mg | Oblong capsule with a light yellow cap and orange body. Capsule is branded with red “ 647” on capsule body and “0.5 mg” on capsule cap. Both bottle and blister packaging are branded with matching brown stripes. •30-count in short, square bottles with brown caps (NDC 0469-0647-73)•Blister cartons containing 5 blister cards of 10 capsules on each card (NDC 0469-0647-11). |
+| --- | --- |
+| 1 mg | Oblong capsule with a white cap and orange body. Capsule is branded with red “ 677” on capsule body and “1 mg” on capsule cap. Both bottle and blister packaging are branded with matching blue stripes. •30-count in short, square bottles with blue caps (NDC 0469-0677-73)•Blister cartons containing 5 blister cards of 10 capsules on each card (NDC 0469-0677-11). |
+| 5 mg | Oblong capsule with a grayish-red cap and orange body. Capsule is branded with red “ 687” on capsule body and “5 mg” on capsule cap. Both bottle and blister packaging are branded with matching orange stripes. •30-count in short, square bottles with orange caps (NDC 0469-0687-73)•Blister cartons containing 5 blister cards of 10 capsules on each card (NDC 0469-0687-11). |
 
 Store and Dispense
 

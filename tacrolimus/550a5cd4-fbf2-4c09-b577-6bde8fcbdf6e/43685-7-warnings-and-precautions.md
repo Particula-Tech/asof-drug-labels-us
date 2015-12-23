@@ -1,142 +1,95 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Management of Immunosuppression
+## 5.1 Lymphoma and Other Malignancies
 
-Only physicians experienced in immunosuppressive therapy and management of organ transplant patients should prescribe ASTAGRAF XL.
-Patients receiving the drug should be managed in facilities equipped and staffed with adequate laboratory and supportive medical resources.
-The physicians responsible for maintenance therapy should have complete information requisite for the follow-up of the patients [see Boxed Warning].
-
-## 5.2 Lymphoma and Other Malignancies
-
-Patients receiving immunosuppressants, including ASTAGRAF XL, are at increased risk of developing lymphomas and other malignancies, particularly of the skin [see Boxed Warning].
+Immunosuppressants, including ASTAGRAF XL, increase the risk of developing lymphomas and other malignancies, particularly of the skin.
 The risk appears to be related to the intensity and duration of immunosuppression rather than to the use of any specific agent.
+Examine patients for skin changes and advise to avoid or limit exposure to sunlight and UV light.
 
-As usual for patients with increased risk for skin cancer, exposure to sunlight and UV light should be limited by wearing protective clothing and using a sunscreen with a high protection factor.
+Post-transplant lymphoproliferative disorder (PTLD), associated with Epstein-Barr Virus (EBV), has been reported in immunosuppressed organ transplant patients.
+The risk of PTLD appears greatest in patients who are EBV seronegative.
+Monitor EBV serology during treatment.
 
-Post-transplant lymphoproliferative disorder (PTLD) has been reported in immunosuppressed organ transplant recipients.
-The majority of PTLD events appear related to Epstein-Barr Virus (EBV) infection.
-The risk of PTLD appears greatest in those individuals who are EBV seronegative, a population which includes many young children.
+## 5.2 Serious Infections
 
-## 5.3 Serious Infections
-
-Patients receiving immunosuppressants, including ASTAGRAF XL, are at increased risk of developing bacterial, viral, fungal, and protozoal infections, including opportunistic infections [see Boxed Warning, Warnings and Precautions (5.6, 5.7)].
+Immunosuppressants, including ASTAGRAF XL, increase the risk of developing bacterial, viral, fungal, and protozoal infections, including opportunistic infections.
 These infections may lead to serious, including fatal, outcomes.
-Because of the danger of oversuppression of the immune system which can increase susceptibility to infection, combination immunosuppressant therapy should be used with caution.
+Serious viral infections reported include:
 
-## 5.4 Liver Transplant Recipients
+- •Polyomavirus-associated nephropathy (especially due to BK virus infection),
+- •JC virus-associated progressive multifocal leukoencephalopathy (PML), and
+- •Cytomegalovirus (CMV) infections: CMV seronegative transplant patients who receive an organ from a CMV seropositive donor are at highest risk of CMV viremia and CMV disease
 
-In a clinical trial of 471 liver transplant recipients randomized to ASTAGRAF XL or Prograf, mortality at 12 months was 10% higher among the 76 female patients (18%) treated with ASTAGRAF XL compared to the 64 female patients (8%) treated with Prograf.
-Use of ASTAGRAF XL in liver transplantation is not recommended [see Boxed Warning].
+Monitor for the development of infection and adjust the immunosuppressive regimen to balance the risk of rejection with the risk of infection [see Adverse Reactions (6.1, 6.2)].
 
-## 5.5 Medication Errors
+## 5.3 Increased Mortality in Female Liver Transplant Patients
 
-ASTAGRAF XL extended-release capsules are not interchangeable or substitutable with tacrolimus immediate-release capsules.
-Medication and dispensing errors, including inadvertent or unintentional substitution between twice daily immediate-release and ASTAGRAF XL (once daily extended-release) tacrolimus formulations have been observed in postmarketing surveillance of ASTAGRAF XL in countries where it is approved and marketed.
-This has led to serious adverse events, including graft rejection, or other adverse reactions, which could be a consequence of either under- or over-exposure to tacrolimus [see How Supplied (16)].
+In a clinical trial of 471 liver transplant patients randomized to ASTAGRAF XL or tacrolimus immediate-release product, mortality at 12 months was 10% higher among the 76 female patients (18%) treated with ASTAGRAF XL compared to the 64 female patients (8%) treated with tacrolimus immediate-release product.
+ASTAGRAF XL is not approved for the prophylaxis of organ rejection in patients who received a liver transplant.
 
-Note that ASTAGRAF XL is supplied in short, square bottles as well as in blister cartons containing 5 blister cards of 10 capsules on each card, and contains the statement "ONCE DAILY" on its label.
+## 5.4 Graft Rejection and other Serious Adverse Reactions due to Medication Errors
 
-## 5.6 Polyoma Virus Infections
+Medication errors, including substitution and dispensing errors, between tacrolimus immediate-release products and ASTAGRAF XL (tacrolimus extended-release capsules) were reported outside the U.S. This led to serious adverse reactions, including graft rejection, or other adverse reactions due to under- or over-exposure to tacrolimus.
+ASTAGRAF XL is not interchangeable or substitutable with tacrolimus immediate-release products or tacrolimus extended-release products.
+Instruct patients and caregivers to recognize the appearance of ASTAGRAF XL capsules [see Dosage Forms and Strengths (3)].
 
-Patients receiving immunosuppressants, including ASTAGRAF XL, are at increased risk for opportunistic infections, including polyoma virus infections.
-Polyoma virus infections in transplant patients may have serious, and sometimes fatal, outcomes.
-These include polyoma virus-associated nephropathy (PVAN), mostly due to BK virus infection, and JC virus-associated progressive multifocal leukoencephalopathy (PML), which have been observed in patients receiving ASTAGRAF XL [see Adverse Reactions (6.2)].
-PVAN is associated with serious outcomes, including deteriorating renal function and kidney graft loss.
-Patient monitoring may help detect patients at risk for PVAN.
+## 5.5 New Onset Diabetes after Transplant
 
-Cases of PML have been reported in patients treated with ASTAGRAF XL.
-PML, which is sometimes fatal, commonly presents with hemiparesis, apathy, confusion, cognitive deficiencies and ataxia.
-Risk factors for PML include treatment with immunosuppressant therapies and impairment of immune function.
-In immunosuppressed patients, physicians should consider PML in the differential diagnosis in patients reporting neurological symptoms and consultation with a neurologist should be considered as clinically indicated.
+ASTAGRAF XL caused new onset diabetes after transplant (NODAT) in kidney transplant patients, which may be reversible in some patients.
+African-American and Hispanic kidney transplant patients are at an increased risk.
+Monitor blood glucose concentrations and treat appropriately [see Adverse Reactions (6.1) and Use in Specific Populations (8.8)].
 
-Reductions in immunosuppression should be considered for patients who develop evidence of PVAN or PML.
-Physicians should also consider the risk that reduced immunosuppression represents to the functioning allograft.
+## 5.6 Nephrotoxicity due to ASTAGRAF XL and Drug Interactions
 
-## 5.7 Cytomegalovirus (CMV) Infections
+ASTAGRAF XL, like other calcineurin-inhibitors, can cause acute or chronic nephrotoxicity.
+Consider dosage reduction in patients with elevated serum creatinine and tacrolimus whole blood trough concentrations greater than the recommended range.
 
-Patients receiving immunosuppressants, including ASTAGRAF XL, are at increased risk of developing CMV viremia and CMV disease.
-The risk of CMV disease is highest among transplant recipients seronegative for CMV at the time of transplant who receive a graft from a CMV seropositive donor.
-Therapeutic approaches to limiting CMV disease exist and should be routinely provided.
-Patient monitoring may help detect patients at risk for CMV disease.
-Consideration should be given to reducing the amount of immunosuppression in patients who develop CMV viremia and/or CMV disease.
+The risk for nephrotoxicity may increase when ASTAGRAF XL is concomitantly administered with CYP3A inhibitors (by increasing tacrolimus whole blood concentrations) or drugs associated with nephrotoxicity (e.g., aminoglycosides, ganciclovir, amphotericin B, cisplatin, nucleotide reverse transcriptase inhibitors, protease inhibitors) [see Drug Interactions (7.2)].
+Monitor renal function and consider dosage reduction if nephrotoxicity occurs.
 
-## 5.8 New Onset Diabetes after Transplant
+## 5.7 Neurotoxicity
 
-ASTAGRAF XL was shown to cause new onset diabetes mellitus in clinical trials of kidney transplant patients [see Adverse Reactions (6.1)].
-New onset diabetes after transplantation may be reversible in some patients.
-Black and Hispanic kidney transplant patients are at an increased risk [see Use in Specific Populations (8.8)].
-Blood glucose concentrations should be monitored frequently in patients using ASTAGRAF XL.
+ASTAGRAF XL may cause a spectrum of neurotoxicities.
+The most severe neurotoxicities include posterior reversible encephalopathy syndrome (PRES), delirium, seizure and coma; others include tremors, paresthesias, headache, mental status changes, and changes in motor and sensory functions [see Adverse Reactions (6.1, 6.2)].
+As symptoms may be associated with tacrolimus whole blood trough concentrations at or above the recommended range, monitor for neurologic symptoms and consider dosage reduction or discontinuation of ASTAGRAF XL if neurotoxicity occurs.
 
-## 5.9 Nephrotoxicity
+## 5.8 Hyperkalemia
 
-ASTAGRAF XL, like other calcineurin-inhibitors, can cause acute or chronic nephrotoxicity, particularly when used in high doses.
-Acute nephrotoxicity is most often related to vasoconstriction of the afferent renal arteriole, is characterized by increasing serum creatinine, hyperkalemia, and/or a decrease in urine output, and is typically reversible.
-Chronic calcineurin-inhibitor nephrotoxicity is associated with increased serum creatinine, decreased kidney graft life, and characteristic histologic changes observed on renal biopsy; the changes associated with chronic calcineurin-inhibitor nephrotoxicity are typically progressive.
-Patients with impaired renal function should be monitored closely, as the dosage of ASTAGRAF XL may need to be reduced.
-In patients with persistent elevations of serum creatinine who are unresponsive to dosage adjustments, consideration should be given to changing to another immunosuppressive therapy.
+Mild to severe hyperkalemia, which may require treatment, has been reported with tacrolimus including ASTAGRAF XL.
+Concomitant use of agents associated with hyperkalemia (e.g., potassium-sparing diuretics, ACE inhibitors, angiotensin receptor blockers) may increase the risk for hyperkalemia [see Adverse Reactions (6.1)].
+Monitor serum potassium levels periodically during treatment.
 
-Due to the potential for additive or synergistic impairment of renal function, care should be taken when administering ASTAGRAF XL with drugs that may be associated with renal dysfunction.
-These include, but are not limited to, aminoglycosides, ganciclovir, amphotericin B, cisplatin, nucleotide reverse transcriptase inhibitors (e.g., tenofovir) and protease inhibitors (e.g., ritonavir, indinavir).
-Similarly, care should be exercised when administering with CYP3A inhibitors such as antifungal drugs (e.g., ketoconazole), calcium channel blockers (e.g., diltiazem, verapamil), and macrolide antibiotics (e.g., clarithromycin, erythromycin, troleandomycin), which will result in increased tacrolimus whole blood concentrations due to inhibition of tacrolimus metabolism [see Drug Interactions (7.4, 7.5, 7.6, 7.7)].
+## 5.9 Hypertension
 
-## 5.10 Neurotoxicity
+Hypertension is a common adverse reaction of ASTAGRAF XL therapy and may require antihypertensive therapy [see Adverse Reactions (6.1)].
+Some antihypertensive drugs can increase the risk for hyperkalemia [see Warnings and Precautions (5.8)].
+Calcium-channel blocking agents may increase tacrolimus blood concentrations and require dosage reduction of ASTAGRAF XL [see Drug Interactions (7.2)].
 
-ASTAGRAF XL may cause a spectrum of neurotoxicities, particularly when used in high doses.
-The most severe neurotoxicities include posterior reversible encephalopathy syndrome (PRES), delirium, and coma.
-Patients treated with tacrolimus have been reported to develop PRES.
-Symptoms indicating PRES include headache, altered mental status, seizures, visual disturbances and hypertension.
-Diagnosis may be confirmed by radiological procedure.
-If PRES is suspected or diagnosed, blood pressure control should be maintained and immediate reduction of immunosuppression is advised.
-This syndrome is characterized by reversal of symptoms upon reduction or discontinuation of immunosuppression.
+## 5.10 Risk of Rejection with Strong CYP3A Inducers and Risk of Serious Adverse Reactions with Strong CYP3A Inhibitors
 
-Coma and delirium, in the absence of PRES, have also been associated with high plasma concentrations of tacrolimus.
-Seizures have occurred in patients receiving tacrolimus [see Adverse Reactions (6.2)].
-Other less severe neurotoxicities, include tremors, paresthesias, headache, and other changes in motor function, mental status, and sensory function have also been reported [see Adverse Reactions (6.1)].
-Tremor and headache have been associated with high whole-blood concentrations of tacrolimus and may respond to dosage adjustment.
+The concomitant use of strong CYP3A inducers may increase the metabolism of tacrolimus, leading to lower whole blood trough concentrations and greater risk of rejection.
+In contrast, the concomitant use of strong CYP3A inhibitors may decrease the metabolism of tacrolimus, leading to higher whole blood trough concentrations and greater risk of serious adverse reactions (e.g., neurotoxicity, QT prolongation) [see Warnings and Precautions (5.7, 5.11)].
+Therefore, adjust ASTAGRAF XL dose and monitor tacrolimus whole blood trough concentrations when coadministering ASTAGRAF XL with strong CYP3A inhibitors (e.g., telaprevir, boceprevir, ritonavir, ketoconazole, itraconazole, voriconazole, clarithromycin) or strong CYP3A inducers (e.g., rifampin, rifabutin) [see Dosage and Administration (2.4) and Drug Interactions (7.2)].
 
-## 5.11 Hyperkalemia
+## 5.11 QT Prolongation
 
-Hyperkalemia has been reported with ASTAGRAF XL use.
-Serum potassium levels should be monitored.
-Careful consideration should be given prior to use of other agents also associated with hyperkalemia (e.g., potassium-sparing diuretics, ACE inhibitors, angiotensin receptor blockers) during ASTAGRAF XL therapy [see Adverse Reactions (6.1)].
-
-## 5.12 Hypertension
-
-Hypertension is a common adverse effect of ASTAGRAF XL therapy and may require antihypertensive therapy [see Adverse Reactions (6.1)].
-The control of blood pressure can be accomplished with any of the common antihypertensive agents, though careful consideration should be given prior to use of antihypertensive agents associated with hyperkalemia (e.g., potassium-sparing diuretics, ACE inhibitors, angiotensin receptor blockers) [see Warnings and Precautions (5.11)].
-Calcium-channel blocking agents may increase tacrolimus blood concentrations and therefore require dosage reduction of ASTAGRAF XL [see Drug Interactions (7.6)].
-
-## 5.13 Use with Sirolimus
-
-The use of ASTAGRAF XL with sirolimus is not recommended in kidney transplant patients.
-Use of sirolimus with tacrolimus in studies of de novo liver transplant recipients was associated with an excess mortality, graft loss and hepatic artery thrombosis (HAT).
-Use of sirolimus with tacrolimus in heart transplant patients was associated with an increased risk of renal function impairment, wound healing complications, and insulin-dependent post-transplant diabetes mellitus.
-
-## 5.14 Use with CYP3A Inhibitors and Inducers
-
-When coadministering ASTAGRAF XL with strong CYP3A-inhibitors (e.g., telaprevir, boceprevir, ritonavir, ketoconazole, itraconazole, voriconazole, clarithromycin) and strong CYP3A inducers (e.g., rifampin, rifabutin), adjustments in the dosing regimen of ASTAGRAF XL and subsequent frequent monitoring of tacrolimus whole blood trough concentrations and tacrolimus-associated adverse reactions are recommended [see Drug Interactions (7)].
-
-## 5.15 QT Prolongation
-
-ASTAGRAF XL may prolong the QT/QTc interval and may cause Torsade de Pointes.
+ASTAGRAF XL may prolong the QT/QTc interval and cause Torsade de Pointes.
 Avoid ASTAGRAF XL in patients with congenital long QT syndrome.
-In patients with congestive heart failure, bradyarrhythmias, those taking certain antiarrhythmic medications or other medicinal products that lead to QT prolongation, and those with electrolyte disturbances such as hypokalemia, hypocalcemia, or hypomagnesemia, consider obtaining electrocardiograms and monitoring electrolytes (magnesium, potassium, calcium) periodically during treatment.
+Consider obtaining electrocardiograms and monitoring electrolytes (magnesium, potassium, calcium) periodically during treatment in patients with congestive heart failure, bradyarrhythmias, those taking certain antiarrhythmic medications or other products that lead to QT prolongation, and those with electrolyte disturbances (e.g., hypokalemia, hypocalcemia, or hypomagnesemia).
 
-When coadministering ASTAGRAF XL with other substrates and/or inhibitors of CYP3A that also have the potential to prolong the QT interval, a reduction in ASTAGRAF XL dose, frequent monitoring of tacrolimus whole blood concentrations, and monitoring for QT prolongation is recommended.
-Use of tacrolimus with amiodarone has been reported to result in increased tacrolimus whole blood concentrations with or without concurrent QT prolongation [see Drug Interactions (7)].
+When coadministering ASTAGRAF XL with other substrates and/or inhibitors of CYP3A, especially those that also have the potential to prolong the QT interval, a reduction in ASTAGRAF XL dosage, monitoring of tacrolimus whole blood concentrations, and monitoring for QT prolongation is recommended [see Drug Interactions (7.2)].
 
-## 5.16 Immunizations
+## 5.12 Immunizations
 
-The use of live vaccines should be avoided during treatment with ASTAGRAF XL; examples include (not limited to) the following: intranasal influenza, measles, mumps, rubella, oral polio, BCG, yellow fever, varicella, and TY21a typhoid vaccines.
+Whenever possible, administer the complete complement of vaccines before transplantation and treatment with ASTAGRAF XL.
 
-## 5.17 Pure Red Cell Aplasia
+Avoid the use of live attenuated vaccines during treatment with ASTAGRAF XL (e.g., intranasal influenza, measles, mumps, rubella, oral polio, BCG, yellow fever, varicella, and TY21a typhoid vaccines).
+
+Inactivated vaccines noted to be safe for administration after transplantation may not be sufficiently immunogenic during treatment with ASTAGRAF XL.
+
+## 5.13 Pure Red Cell Aplasia
 
 Cases of pure red cell aplasia (PRCA) have been reported in patients treated with tacrolimus.
+All of these patients reported risk factors for PRCA such as parvovirus B19 infection, underlying disease, or concomitant medications associated with PRCA.
 A mechanism for tacrolimus-induced PRCA has not been elucidated.
-All patients reported risk factors for PRCA such as parvovirus B19 infection, underlying disease, or concomitant medications associated with PRCA.
-If PRCA is diagnosed, discontinuation of ASTAGRAF XL should be considered.
-
-## 5.18 Gastrointestinal Perforation
-
-Gastrointestinal perforation has been reported in patients treated with tacrolimus; all reported cases were considered to be a complication of transplant surgery or accompanied by infection, diverticulum, or malignant neoplasm.
-As gastrointestinal perforation may be serious or life-threatening, appropriate medical/surgical management should be instituted promptly [see Adverse Reactions (6.2)].
+If PRCA is diagnosed, consider discontinuation of ASTAGRAF XL.

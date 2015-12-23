@@ -2,11 +2,10 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
-
-There are no adequate and well-controlled studies in pregnant women.
+Pregnancy Category C There are no adequate and well-controlled studies in pregnant women.
 Tacrolimus is transferred across the placenta.
 The use of tacrolimus during pregnancy in humans has been associated with neonatal hyperkalemia and renal dysfunction.
+
 Tacrolimus given orally to pregnant rabbits at 0.5 times the maximum clinical dose and pregnant rats at 0.8 times the maximum clinical dose was associated with an increased incidence of fetal death in utero, fetal malformations (cardiovascular, skeletal, omphalocele, and gallbladder agenesis) and maternal toxicity.
 ASTAGRAF XL should be used during pregnancy only if the potential benefit to the mother justifies the potential risk to the fetus.
 
@@ -18,28 +17,31 @@ Tacrolimus, given orally to pregnant rats after organogenesis and during lactati
 ## 8.3 Nursing Mothers
 
 Tacrolimus is present in breast milk.
-Because of the potential for serious adverse drug reactions in nursing infants from ASTAGRAF XL, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of drug to the mother.
+Because of the potential for serious adverse drug reactions in nursing infants from ASTAGRAF XL, a decision should be made whether to discontinue nursing or to discontinue ASTAGRAF XL, taking into account the importance of drug to the mother.
 
 ## 8.4 Pediatric Use
 
-The safety and efficacy of ASTAGRAF XL in pediatric kidney transplant patients < 16 years of age has not been established.
+The safety and effectiveness of ASTAGRAF XL in pediatric patients less than 16 years of age have not been established.
 
 ## 8.5 Geriatric Use
 
-Clinical studies of ASTAGRAF XL did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
-Other reported clinical experience has not identified differences in responses between elderly and younger patients.
-In general, dose selection for an elderly patient should be cautious, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy.
+Clinical studies of ASTAGRAF XL did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger patients.
+In Studies 1 and 2, 29 patients were 65 years of age and older, and 3 patients were 75 years of age and over [see Clinical Studies (14)].
+Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
 ## 8.6 Renal Impairment
 
 The pharmacokinetics of tacrolimus in patients with renal impairment was similar to that in healthy subjects with normal renal function.
-However, due to its potential for nephrotoxicity, frequent monitoring of renal function is recommended; tacrolimus dosage should be reduced if indicated [see Warnings and Precautions (5.9), Clinical Pharmacology (12.3)].
+However, due to its potential for nephrotoxicity, monitoring of renal function in patients with renal impairment is recommended; tacrolimus dosage should be reduced if indicated [see Warnings and Precautions (5.6) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
-The mean clearance of tacrolimus was substantially lower in patients with severe hepatic impairment (mean Child-Pugh score: >10) compared to healthy subjects with normal hepatic function.
-Frequent monitoring of tacrolimus trough concentrations is warranted in patients with hepatic impairment [see Clinical Pharmacology (12.3)].
+The mean clearance of tacrolimus was substantially lower in patients with severe hepatic impairment (mean Child-Pugh score: > 10) compared to healthy subjects with normal hepatic function [see Clinical Pharmacology (12.3)].
+With greater tacrolimus whole blood trough concentrations in patients with severe hepatic impairment, there is a greater risk of adverse reactions and dosage reduction is recommended [see Dosage and Administration (2.2)].
+For patients with moderate hepatic impairment, monitor tacrolimus whole blood trough concentrations.
+For patients with mild hepatic impairment, no dosage adjustments are needed.
 
 ## 8.8 Race
 
-The data from ASTAGRAF XL administration in kidney transplant patients indicate that African-American patients may require higher doses to attain comparable trough concentrations compared to Caucasian patients [see Dosage and Administration (2.1), Clinical Pharmacology (12.3), Clinical Studies (14)].
+African-American patients may need to be titrated to higher dosages to attain comparable trough concentrations compared to Caucasian patients [see Dosage and Administration (2.2), Clinical Pharmacology (12.3), and Clinical Studies (14)].
