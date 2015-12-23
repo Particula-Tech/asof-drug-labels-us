@@ -1,0 +1,17 @@
+{
+  "application_numbers": [],
+  "inn": "tazobactam",
+  "labeler": "Steri-Pharma, LLC",
+  "package_ndcs": [
+    "50708-030-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "ceftolozane and tazobactam",
+      "name": "ZERBAXA"
+    }
+  ],
+  "setid": "be5328dc-83dc-4c9d-a393-030eea458625",
+  "source": "dailymed"
+}
