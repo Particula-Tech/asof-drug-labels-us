@@ -1,3 +1,0 @@
-# 7 DRUG INTERACTIONS
-
-Probenecid may decrease renal tubular secretion of cephalosporins when used concurrently, resulting in increased and more prolonged cephalosporin blood levels.

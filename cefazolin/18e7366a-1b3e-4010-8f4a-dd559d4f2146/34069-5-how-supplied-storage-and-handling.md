@@ -1,4 +1,4 @@
-# 16 HOW SUPPLIED/STORAGE AND HANDLING
+# HOW SUPPLIED
 
 Each vial of Cefazolin for Injection, USP contains cefazolin sodium equivalent to 500 mg or 1 gram cefazolin.
 

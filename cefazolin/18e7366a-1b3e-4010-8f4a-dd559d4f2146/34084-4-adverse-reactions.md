@@ -1,18 +1,12 @@
-# 6 ADVERSE REACTIONS
+# ADVERSE REACTIONS
 
-The following serious adverse reactions to cefazolin are described below and elsewhere in the labeling:
+The following reactions have been reported:
 
-- •Hypersensitivity reactions [see Warnings and Precautions (5.1)]
-- •Clostridium difficile-associated diarrhea [see Warnings and Precautions (5.3)]
+Gastrointestinal: Diarrhea, oral candidiasis (oral thrush), vomiting, nausea, stomach cramps, anorexia, and pseudomembranous colitis.
+Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment (see WARNINGS).
+Nausea and vomiting have been reported rarely.
 
-## 6.1 Clinical Trials Experience
-
-The following adverse reactions were reported from clinical trials:
-
-Gastrointestinal: Diarrhea, oral candidiasis (oral thrush), mouth ulcers, vomiting, nausea, stomach cramps, epigastric pain, heartburn, flatus, anorexia and pseudomembranous colitis.
-Onset of pseudomembranous colitis symptoms may occur during or after antibacterial treatment [see Warnings and Precautions (5.3)].
-
-Allergic: Anaphylaxis, eosinophilia, urticaria, itching, drug fever, skin rash, Stevens-Johnson syndrome.
+Allergic: Anaphylaxis, eosinophilia, itching, drug fever, skin rash, Stevens-Johnson syndrome.
 
 Hematologic: Neutropenia, leukopenia, thrombocytopenia, thrombocythemia.
 
@@ -21,13 +15,10 @@ As with other cephalosporins, reports of hepatitis have been received.
 
 Renal: As with other cephalosporins, reports of increased BUN and creatinine levels, as well as renal failure, have been received.
 
-Local Reactions: Instances of phlebitis have been reported at site of injection.
+Local Reactions: Rare instances of phlebitis have been reported at site of injection.
 Pain at the site of injection after intramuscular administration has occurred infrequently.
 Some induration has occurred.
 
-Other Reactions: Pruritus (including genital, vulvar and anal pruritus, genital moniliasis, and vaginitis).
-Dizziness, fainting, lightheadedness, confusion, weakness, tiredness, hypotension, somnolence and headache.
+Other Reactions: Genital and anal pruritus (including vulvar pruritus, genital moniliasis, and vaginitis).
 
-## 6.2 Cephalosporin-class Adverse Reactions
-
-In addition to the adverse reactions listed above that have been observed in patients treated with cefazolin, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibacterials: Stevens-Johnson syndrome, erythema multiforme, toxic epidermal necrolysis, renal impairment, toxic nephropathy, aplastic anemia, hemolytic anemia, hemorrhage, hepatic impairment including cholestasis, and pancytopenia.
+To report SUSPECTED ADVERSE EVENTS, contact FDA at 1-800-FDA-1088 or www.fda.gov.

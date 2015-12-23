@@ -1,39 +1,31 @@
-# 500 mg Carton
+# 500 mg Label
 
-NDC 0781-3450-95 PROTECT FROM LIGHT
+NDC 0781-3450-70
 
-Cefazolin for Injection, USP
+Cefazolin for
+
+Injection, USP
 
 500 mg per vial
 
-For I.M. or I.V. use
+For I.M. or I.V. use Sterile
 
-Sterile
-
-Rx only
-
-10 x 500 mg Vials
+Rx only Single-Use Vial
 
 SANDOZ
 
-a Novartis company
+# 1 g Label
 
-# 1 g Carton
+NDC 0781-3451-70
 
-NDC 0781-3451-96 PROTECT FROM LIGHT
+Cefazolin for
 
-Cefazolin for Injection, USP
+Injection, USP
 
 1 gram per vial
 
-For I.M. or I.V. use
+For I.M. or I.V. use Sterile
 
-Sterile
-
-Rx only
-
-25 x 1 g Vials
+Rx only Single-Use Vial
 
 SANDOZ
-
-a Novartis company
