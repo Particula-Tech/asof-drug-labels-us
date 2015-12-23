@@ -4,9 +4,9 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-A total of 2,018 patients with chronic angina were treated with ranolazine in controlled clinical trials.
-Of the patients treated with RANEXA, 1,026 were enrolled in three double-blind, placebo-controlled, randomized studies (CARISA, ERICA, MARISA) of up to 12 weeks' duration.
-In addition, upon study completion, 1,251 patients received treatment with RANEXA in open-label, long-term studies; 1,227 patients were exposed to RANEXA for more than 1 year, 613 patients for more than 2 years, 531 patients for more than 3 years, and 326 patients for more than 4 years.
+A total of 2018 patients with chronic angina were treated with ranolazine in controlled clinical trials.
+Of the patients treated with RANEXA, 1026 were enrolled in three double-blind, placebo-controlled, randomized studies (CARISA, ERICA, MARISA) of up to 12 weeks' duration.
+In addition, upon study completion, 1251 patients received treatment with RANEXA in open-label, long-term studies; 1227 patients were exposed to RANEXA for more than 1 year, 613 patients for more than 2 years, 531 patients for more than 3 years, and 326 patients for more than 4 years.
 
 At recommended doses, about 6% of patients discontinued treatment with RANEXA because of an adverse event in controlled studies in angina patients compared to about 3% on placebo.
 The most common adverse events that led to discontinuation more frequently on RANEXA than placebo were dizziness (1.3% versus 0.1%), nausea (1% versus 0%), asthenia, constipation, and headache (each about 0.5% versus 0%).
@@ -46,7 +46,7 @@ Other (< 0.5%) but potentially medically important adverse reactions observed mo
 
 A large clinical trial in acute coronary syndrome patients was unsuccessful in demonstrating a benefit for RANEXA, but there was no apparent proarrhythmic effect in these high-risk patients [see Clinical Studies (14.2)].
 
-Laboratory Abnormalities
+Laboratory Abnormalities:
 
 RANEXA produces small reductions in hemoglobin A1c.
 RANEXA is not a treatment for diabetes.
@@ -61,9 +61,7 @@ More marked and progressive increases in serum creatinine, associated with incre
 The following adverse reactions have been identified during postapproval use of RANEXA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
-Nervous System Disorders
-
-Tremor, paresthesia, abnormal coordination, and other serious neurologic adverse events have been reported to occur, sometimes concurrently, in patients taking ranolazine.
+Nervous System Disorders – Tremor, paresthesia, abnormal coordination, and other serious neurologic adverse events have been reported to occur, sometimes concurrently, in patients taking ranolazine.
 The onset of events was often associated with an increase in ranolazine dose or exposure.
 Many patients reported symptom resolution following drug discontinuation or dose decrease.
 

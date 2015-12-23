@@ -1,4 +1,4 @@
-PATIENT INFORMATION RANEXA ® (rah NEX ah) (ranolazine) extended-release tablets Dosing Strengths: 500 mg tablets 1000 mg tablets
+Patient Information RANEXA® (rah NEX ah) (ranolazine) extended-release tablets Dosing Strengths: 500 mg tablets 1000 mg tablets
 
 Read this Patient Information before you start taking RANEXA and each time you get a refill.
 There may be new information.
@@ -17,12 +17,12 @@ Who should not take RANEXA?
 Do not take RANEXA if:
 
 - you take any of the following medicines:
-  - for fungus infection: ketoconazole (Nizoral ®), itraconazole (Sporanox ®, Onmel™)
-  - for infection: clarithromycin (Biaxin ®)
+  - for fungus infection: ketoconazole (Nizoral®), itraconazole (Sporanox®, Onmel™)
+  - for infection: clarithromycin (Biaxin®)
   - for depression: nefazodone
-  - for HIV: nelfinavir (Viracept ®), ritonavir (Norvir ®), lopinavir and ritonavir (Kaletra ®), indinavir (Crixivan ®), saquinavir (Invirase ®)
-  - for tuberculosis (TB): rifampin (Rifadin ®), rifabutin (Mycobutin ®), rifapentine (Priftin ®)
-  - for seizures: phenobarbital, phenytoin (Phenytek ®, Dilantin ®, Dilantin-125 ®), carbamazepine (Tegretol ®)
+  - for HIV: nelfinavir (Viracept®), ritonavir (Norvir®), lopinavir and ritonavir (Kaletra®), indinavir (Crixivan®), saquinavir (Invirase®)
+  - for tuberculosis (TB): rifampin (Rifadin®), rifabutin (Mycobutin®), rifapentine (Priftin®)
+  - for seizures: phenobarbital, phenytoin (Phenytek®, Dilantin®, Dilantin-125®), carbamazepine (Tegretol®)
   - St. John's wort (Hypericum perforatum)
 - you have scarring (cirrhosis) of your liver
 
@@ -37,10 +37,9 @@ Before you take RANEXA, tell your doctor if you:
   It is not known if RANEXA will harm your unborn baby.
 - are breast-feeding or plan to breast-feed.
   It is not known if RANEXA passes into your breast milk.
-  You and your doctor should decide if you will take RANEXA or breast-feed.
-  You should not do both.
+  You and your doctor should decide if you will breast-feed.
 
-Tell your doctor about all the medicines you take, including all prescription and non-prescription medicines, vitamins and herbal supplements.
+Tell your doctor about all the medicines you take, including all prescription and nonprescription medicines, vitamins, and herbal supplements.
 RANEXA may affect the way other medicines work and other medicines may affect how RANEXA works.
 
 Tell your doctor if you take medicines:
@@ -111,7 +110,7 @@ Store RANEXA tablets at room temperature between 59° to 86°F (15° to 30°C).
 
 Keep RANEXA and all medicines out of the reach of children.
 
-General information about RANEXA
+General information about RANEXA.
 
 Medicines are sometimes prescribed for purposes other than those listed in the Patient Information.
 Do not use RANEXA for a condition for which it was not prescribed.
@@ -145,8 +144,11 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Manufactured for: Gilead Sciences, Inc. Foster City, CA 94404
 
-Issued December 2013 RANEXA is a registered trademark of Gilead Sciences, Inc. © 2013 Gilead Sciences, Inc.
+Revised: December 2015
 
-All other trademarks are the property of their respective owners.
+RANEXA is a trademark of Gilead Sciences, Inc., or its related companies.
+All other trademarks referenced herein are the property of their respective owners.
 
-21-526-GS-013
+© 2015 Gilead Sciences, Inc.
+
+21-526-GS-014

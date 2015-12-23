@@ -2,17 +2,33 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
+Risk Summary
 
-In animal studies, ranolazine at exposures 1.5 (rabbit) to 2 (rat) times the usual human exposure caused maternal toxicity and misshapen sternebrae and reduced ossification in offspring.
-These doses in rats and rabbits were associated with an increased maternal mortality rate [see Nonclinical Toxicology (13.3)].
-There are no adequate well-controlled studies in pregnant women.
-RANEXA should be used during pregnancy only when the potential benefit to the patient justifies the potential risk to the fetus.
+There are no available data on RANEXA use in pregnant women to inform any drug-associated risks.
+Studies in rats and rabbits showed no evidence of fetal harm at exposures 4 times the maximum recommended human dose (MRHD) (see Data).
 
-## 8.3 Nursing Mothers
+In the U.S. general population, the estimated background risk of major birth defects and of miscarriage of clinically recognized pregnancies is 2–4% and 15–20%, respectively.
 
-It is not known whether ranolazine is excreted in human milk.
-Because many drugs are excreted in human milk and because of the potential for serious adverse reactions from ranolazine in nursing infants, decide whether to discontinue nursing or to discontinue RANEXA, taking into account the importance of the drug to the mother.
+Data
+
+Animal Data
+
+Embryofetal toxicity studies were conducted in rats and rabbits orally administered ranolazine during organogenesis.
+In rats, decreased fetal weight and reduced ossification were observed at doses (corresponding to 4-fold the AUC for the MRHD) that caused maternal weight loss.
+No adverse fetal effects were observed in either species exposed (AUC) to ranolazine at exposures (AUC) equal to the MRHD.
+
+## 8.2 Lactation
+
+Risk Summary
+
+There are no data on the presence of ranolazine in human milk, the effects on the breastfed infant, or the effects on milk production.
+However, ranolazine is present in rat milk [see Use in Specific Populations (8.1)].
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for RANEXA and any potential adverse effects on the breastfed infant from RANEXA or from the underlying maternal condition.
+
+Adult female rats were administered ranolazine orally from gestation day 6 through postnatal day 20.
+No adverse effects on pup development, behavior, or reproduction parameters were observed at a maternal dosage level of 60 mg/kg/day (equal to the MHRD based on AUC).
+At maternally toxic doses, male and female pups exhibited increased mortality and decreased body weight, and female pups showed increased motor activity.
+The pups were potentially exposed to low amounts of ranolazine via the maternal milk.
 
 ## 8.4 Pediatric Use
 
@@ -28,7 +44,7 @@ In general, dose selection for an elderly patient should usually start at the lo
 ## 8.6 Use in Patients with Hepatic Impairment
 
 RANEXA is contraindicated in patients with liver cirrhosis.
-In a study of cirrhotic patients, the C max of ranolazine was increased 30% in cirrhotic patients with mild (Child-Pugh Class A) hepatic impairment, but increased 80% in cirrhotic patients with moderate (Child-Pugh Class B) hepatic impairment compared to patients without hepatic impairment.
+In a study of cirrhotic patients, the Cmax of ranolazine was increased 30% in cirrhotic patients with mild (Child-Pugh Class A) hepatic impairment, but increased 80% in cirrhotic patients with moderate (Child-Pugh Class B) hepatic impairment compared to patients without hepatic impairment.
 This increase was not enough to account for the 3-fold increase in QT prolongation seen in cirrhotic patients with mild to moderate hepatic impairment [see Clinical Pharmacology (12.2)].
 
 ## 8.7 Use in Patients with Renal Impairment
@@ -39,7 +55,7 @@ One subject required hemodialysis, while the other 2 subjects improved upon drug
 Monitor renal function periodically in patients with moderate to severe renal impairment.
 Discontinue RANEXA if acute renal failure develops.
 
-In a separate study, C max was increased between 40% and 50% in patients with mild, moderate or severe renal impairment compared to patients with no renal impairment, suggesting a similar increase in exposure in patients with renal failure independent of the degree of impairment.
+In a separate study, Cmax was increased between 40% and 50% in patients with mild, moderate, or severe renal impairment compared to patients with no renal impairment, suggesting a similar increase in exposure in patients with renal failure independent of the degree of impairment.
 The pharmacokinetics of ranolazine has not been assessed in patients on dialysis.
 
 ## 8.8 Use in Patients with Heart Failure
