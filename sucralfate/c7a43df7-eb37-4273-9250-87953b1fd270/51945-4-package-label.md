@@ -1,10 +1,10 @@
-# Principal Display Panel
+# Package/Label Display Panel
 
 ## Sucralfate Tablets USP 1 gram 90s Label Text
 
 NDC 0093-2210-98
 
-SUCRALFATE Tablets, USP 1 gram
+Sucralfate Tablets, USP 1 gram
 
 Rx only
 

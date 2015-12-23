@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Sucralfate tablets, USP are available as white, capsule-shaped, biconvex, scored tablets, debossed “TEVA” on one side, and “22” and “10” on the scored side, containing 1 gram of sucralfate USP, packaged in bottles of 90, 100 and 500 tablets.
+Sucralfate tablets, USP are available as white, capsule-shaped, biconvex, scored tablets, debossed “TEVA” on one side, and “22” and “10” on the scored side, containing 1 gram of sucralfate USP, packaged in bottles of 90 (NDC 0093-2210-98), 100 (NDC 0093-2210-01) and 500 (NDC 0093-2210-05) tablets.
 
 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
@@ -16,9 +16,9 @@ Zagreb, Croatia
 
 Manufactured For:
 
-TEVA PHARMACEUTICALS USA
+TEVA PHARMACEUTICALS USA, INC.
 
-Sellersville, PA 18960
+North Wales, PA 19454
 
 Rev.
-K 3/2013
+L 9/2015
