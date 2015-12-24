@@ -16,8 +16,8 @@ Fort Worth, Texas 76177 USA
 
 Made in Canada.
 
+P52306-3
+
 Galderma is a registered trademark.
 
-P52306-1
-
-Revised: Novemeber 2014
+Revised: December 2015

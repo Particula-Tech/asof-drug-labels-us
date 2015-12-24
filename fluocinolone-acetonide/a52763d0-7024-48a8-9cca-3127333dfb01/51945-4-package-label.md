@@ -1,6 +1,6 @@
 # PACKAGE LABEL
 
-ATTN: PHARMACIST EMPTY CONTENTS OF ENCLOSED CAPSULE
+ATTN PHARMACIST: Empty contents of enclosed capsule into shampoo bottle.
 
 Rx only
 
@@ -14,9 +14,11 @@ SHAMPOO (as dispensed)
 
 For Topical Use Only Shake Well Before Use Discard Contents After Two Months
 
-4 fl oz in a 6 oz bottle
+4 fl oz
 
 GALDERMA
+
+ATTN PHARMACIST: Empty contents of enclosed capsule into shampoo bottle.
 
 Usual Dose: Apply no more than approximately one ounce of shampoo on affected area, let stand for 5 minutes, then rinse thoroughly with water.
 
@@ -29,7 +31,7 @@ Made in Canada.
 
 GALDERMA is a registered trademark.
 
-P52307-1
+P52307-2
 
 Contains: (As dispensed) Fluocinolone Acetonide (0.01%), dibasic calcium phosphate dihydrate USP, talc USP, in a shampoo base containing aluminum acetate dibasic, benzalkonium chloride solution, boric acid, citric acid anhydrous, cocamido-ether sulfate complex, cocoamine oxide, lauramide DEA, magnesium aluminum silicate, methylparaben, oat flour, propylene glycol, propylparaben, purified water and fragrance with D & C Yellow No. 10 and FD&C Blue No. 1 as coloring.
 
@@ -44,9 +46,13 @@ Keep out of reach of children.
 
 Warning: In case of eye contact rinse eye thoroughly with water.
 
-Capsule Lot No.
+Capsule
+
+Lot No.
 
 Base Lot No.
 
 Exp.
-Date Before Dispensing:
+Date
+
+Before Dispensing:

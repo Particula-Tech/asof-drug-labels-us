@@ -11,4 +11,4 @@ Fluocinolone acetonide in Capex® Shampoo has the molecular weight of 452.50.
 It is a white crystalline powder that is odorless, stable in light and melts at 270°F with decomposition; soluble in alcohol, acetone and methanol; slightly soluble in chloroform; insoluble in water.
 
 Each fluocinolone capsule contains 12 mg of fluocinolone acetonide, 548 mg of dibasic calcium phosphate dihydrate USP, and 240 mg of talc USP.
-The shampoo base contains dibasic for aluminum acetate dibasic, benzalkonium chloride solution, boric acid, citric acid anhydrous, cocamido-ether-sulfate complex, cocoamine oxide, lauramide DEA, magnesium aluminum silicate, methylparaben, oat flour, propylene glycol, propylparaben, purified water, and fragrances, with D&C Yellow #10 and FD&C Blue #1 as coloring.
+The shampoo base contains aluminum acetate dibasic, benzalkonium chloride solution, boric acid, citric acid anhydrous, cocamido-ether-sulfate complex, cocoamine oxide, lauramide DEA, magnesium aluminum silicate, methylparaben, oat flour, propylene glycol, propylparaben, purified water, and fragrances, with D&C Yellow #10 and FD&C Blue #1 as coloring.

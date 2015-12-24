@@ -44,7 +44,7 @@ A.M. plasma cortisol test
 
 Urinary free cortisol test
 
-## Carcinogenesis, Mutagenesis, and Impairment of Fertility:
+## Carcinogenesis, mutagenesis, and impairment of fertility:
 
 Long-term animal studies have not been performed to evaluate the carcinogenic potential or the effect on fertility of Capex® Shampoo.
 
