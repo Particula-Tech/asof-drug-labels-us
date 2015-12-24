@@ -2,31 +2,27 @@
 
 ## 2.1 Schizophrenia
 
-Adults
+### Adults
 
-Dose Selection: The recommended starting and target dose for ABILIFY is 10 mg/day or 15 mg/day administered on a once-a-day schedule without regard to meals.
-ABILIFY has been systematically evaluated and shown to be effective in a dose range of 10 mg/day to 30 mg/day, when administered as the tablet formulation; however, doses higher than 10 mg/day or 15 mg/day were not more effective than 10 mg/day or 15 mg/day.
+The recommended starting and target dose for ABILIFY is 10 or 15 mg/day administered on a once-a-day schedule without regard to meals.
+ABILIFY has been systematically evaluated and shown to be effective in a dose range of 10 to 30 mg/day, when administered as the tablet formulation; however, doses higher than 10 or 15 mg/day were not more effective than 10 or 15 mg/day.
 Dosage increases should generally not be made before 2 weeks, the time needed to achieve steady-state [see CLINICAL STUDIES (14.1)].
 
 Maintenance Treatment: Maintenance of efficacy in schizophrenia was demonstrated in a trial involving patients with schizophrenia who had been symptomatically stable on other antipsychotic medications for periods of 3 months or longer.
 These patients were discontinued from those medications and randomized to either ABILIFY 15 mg/day or placebo, and observed for relapse [see CLINICAL STUDIES (14.1)].
 Patients should be periodically reassessed to determine the continued need for maintenance treatment.
 
-Adolescents
+### Adolescents
 
-Dose Selection: The recommended target dose of ABILIFY is 10 mg/day.
+The recommended target dose of ABILIFY is 10 mg/day.
 Aripiprazole was studied in adolescent patients 13 to 17 years of age with schizophrenia at daily doses of 10 mg and 30 mg.
 The starting daily dose of the tablet formulation in these patients was 2 mg, which was titrated to 5 mg after 2 days and to the target dose of 10 mg after 2 additional days.
 Subsequent dose increases should be administered in 5 mg increments.
 The 30 mg/day dose was not shown to be more efficacious than the 10 mg/day dose.
 ABILIFY can be administered without regard to meals [see CLINICAL STUDIES (14.1)].
-
-Maintenance Treatment: The efficacy of ABILIFY for the maintenance treatment of schizophrenia in the adolescent population has not been evaluated.
-While there is no body of evidence available to answer the question of how long the adolescent patient treated with ABILIFY should be maintained on the drug, maintenance efficacy can be extrapolated from adult data along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
-Thus, it is generally recommended that responding patients be continued beyond the acute response, but at the lowest dose needed to maintain remission.
 Patients should be periodically reassessed to determine the need for maintenance treatment.
 
-Switching from Other Antipsychotics
+### Switching from Other Antipsychotics
 
 There are no systematically collected data to specifically address switching patients with schizophrenia from other antipsychotics to ABILIFY or concerning concomitant administration with other antipsychotics.
 While immediate discontinuation of the previous antipsychotic treatment may be acceptable for some patients with schizophrenia, more gradual discontinuation may be most appropriate for others.
@@ -34,7 +30,7 @@ In all cases, the period of overlapping antipsychotic administration should be m
 
 ## 2.2 Bipolar I Disorder
 
-Acute Treatment of Manic and Mixed Episodes
+### Acute Treatment of Manic and Mixed Episodes
 
 Adults: The recommended starting dose in adults is 15 mg given once daily as monotherapy and 10 mg to 15 mg given once daily as adjunctive therapy with lithium or valproate.
 ABILIFY can be given without regard to meals.
@@ -47,56 +43,64 @@ Recommended dosing as adjunctive therapy to lithium or valproate is the same.
 Subsequent dose increases, if needed, should be administered in 5 mg/day increments.
 ABILIFY can be given without regard to meals [see CLINICAL STUDIES (14.2)].
 
-Maintenance Treatment
-
-The recommended dose for maintenance treatment, whether as monotherapy or as adjunctive therapy, is the same dose needed to stabilize patients during acute treatment, both for adult and pediatric patients.
-Patients should be periodically reassessed to determine the continued need for maintenance treatment [see CLINICAL STUDIES (14.2)].
-
 ## 2.3 Adjunctive Treatment of Major Depressive Disorder
 
-Adults
+### Adults
 
-Dose Selection: The recommended starting dose for ABILIFY as adjunctive treatment for patients already taking an antidepressant is 2 mg/day to 5 mg/day.
-The efficacy of ABILIFY as an adjunctive therapy for major depressive disorder was established within a dose range of 2 mg/day to 15 mg/day.
-Dose adjustments of up to 5 mg/day should occur gradually, at intervals of no less than 1 week [see CLINICAL STUDIES (14.3)].
-
-Maintenance Treatment: The efficacy of ABILIFY for the adjunctive maintenance treatment of major depressive disorder has not been evaluated.
-While there is no body of evidence available to answer the question of how long the patient treated with ABILIFY should be maintained, patients should be periodically reassessed to determine the continued need for maintenance treatment.
+The recommended starting dose for ABILIFY as adjunctive treatment for patients already taking an antidepressant is 2 to 5 mg/day.
+The recommended dosage range is 2 to 15 mg/day.
+Dosage adjustments of up to 5 mg/day should occur gradually, at intervals of no less than 1 week [see CLINICAL STUDIES (14.3)].
+Patients should be periodically reassessed to determine the continued need for maintenance treatment.
 
 ## 2.4 Irritability Associated with Autistic Disorder
 
-Pediatric Patients
+### Pediatric Patients (6 to 17 years)
 
-Dose Selection: The efficacy of aripiprazole has been established in the treatment of pediatric patients 6 to 17 years of age with irritability associated with autistic disorder at doses of 5 mg/day to 15 mg/day.
-The dosage of ABILIFY should be individualized according to tolerability and response.
+The recommended dosage range for the treatment of pediatric patients with irritability associated with autistic disorder is 5 to 15 mg/day.
 
 Dosing should be initiated at 2 mg/day.
-The dose should be increased to 5 mg/day, with subsequent increases to 10 mg/day or 15 mg/day if needed.
+The dose should be increased to 5 mg/day, with subsequent increases to 10 or 15 mg/day if needed.
 Dose adjustments of up to 5 mg/day should occur gradually, at intervals of no less than 1 week [see CLINICAL STUDIES (14.4)].
-
-Maintenance Treatment: In a clinical trial with ABILIFY conducted in children and adolescents (6 to 17 years of age), the efficacy of ABILIFY for the maintenance treatment of irritability associated with autistic disorder was not established [see Use in Specific Populations (8.4)].
 Patients should be periodically reassessed to determine the continued need for maintenance treatment.
 
-## 2.5 Agitation Associated with Schizophrenia or Bipolar Mania (Intramuscular Injection)
+## 2.5 Tourette’s Disorder
 
-Adults
+### Pediatric Patients (6 to 18 years)
 
-Dose Selection: The recommended dose in these patients is 9.75 mg.
-The effectiveness of aripiprazole injection in controlling agitation in schizophrenia and bipolar mania was demonstrated over a dose range of 5.25 mg to 15 mg.
+The recommended dosage range for Tourette’s Disorder is 5 to 20 mg/day.
+
+For patients weighing less than 50 kg, dosing should be initiated at 2 mg/day with a target dose of 5 mg/day after 2 days.
+The dose can be increased to 10 mg/day in patients who do not achieve optimal control of tics.
+Dosage adjustments should occur gradually at intervals of no less than 1 week.
+
+For patients weighing 50 kg or more, dosing should be initiated at 2 mg/day for 2 days, and then increased to 5 mg/day for 5 days, with a target dose of 10 mg/day on day 8.
+The dose can be increased up to 20 mg/day for patients who do not achieve optimal control of tics.
+Dosage adjustments should occur gradually in increments of 5 mg/day at intervals of no less than 1 week.
+[see CLINICAL STUDIES (14.5)].
+
+Patients should be periodically reassessed to determine the continued need for maintenance treatment.
+
+## 2.6 Agitation Associated with Schizophrenia or Bipolar Mania (Intramuscular Injection)
+
+### Adults
+
+The recommended dose in these patients is 9.75 mg.
+The recommended dosage range is 5.25 to 15 mg.
 No additional benefit was demonstrated for 15 mg compared to 9.75 mg.
 A lower dose of 5.25 mg may be considered when clinical factors warrant.
 If agitation warranting a second dose persists following the initial dose, cumulative doses up to a total of 30 mg/day may be given.
-However, the efficacy of repeated doses of aripiprazole injection in agitated patients has not been systematically evaluated in controlled clinical trials.
-The safety of total daily doses greater than 30 mg or injections given more frequently than every 2 hours have not been adequately evaluated in clinical trials [see CLINICAL STUDIES (14.5)].
+However, the efficacy of repeated doses of ABILIFY injection in agitated patients has not been systematically evaluated in controlled clinical trials.
+The safety of total daily doses greater than 30 mg or injections given more frequently than every 2 hours have not been adequately evaluated in clinical trials [see CLINICAL STUDIES (14.
+6)].
 
-If ongoing aripiprazole therapy is clinically indicated, oral aripiprazole in a range of 10 mg/day to 30 mg/day should replace aripiprazole injection as soon as possible [see DOSAGE AND ADMINISTRATION (2.1 and 2.2)].
+If ongoing ABILIFY therapy is clinically indicated, oral ABILIFY in a range of 10 to 30 mg/day should replace ABILIFY injection as soon as possible [see DOSAGE AND ADMINISTRATION (2.1 and 2.2)].
 
-Administration of ABILIFY Injection
+### Administration of ABILIFY Injection
 
 To administer ABILIFY Injection, draw up the required volume of solution into the syringe as shown in Table 1.
 Discard any unused portion.
 
-Table 1: ABILIFY Injection Dosing Recommendations
+Table 1:ABILIFY Injection Dosing Recommendations
 
 | Single-Dose | Required Volume of Solution |
 | --- | --- |
@@ -110,29 +114,30 @@ Inject slowly, deep into the muscle mass.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
-## 2.6 Dosage Adjustment
+## 2.7 Dosage Adjustments for Cytochrome P450 Considerations
 
-Dosage adjustments in adults are not routinely indicated on the basis of age, gender, race, or renal or hepatic impairment status [see USE IN SPECIFIC POPULATIONS (8.4-8.10)].
+Dosage adjustments are recommended in patients who are known CYP2D6 poor metabolizers and in patients taking concomitant CYP3A4 inhibitors or CYP2D6 inhibitors or strong CYP3A4 inducers (see Table 2).
+When the coadministered drug is withdrawn from the combination therapy, ABILIFY dosage should then be adjusted to its original level.
+When the coadministered CYP3A4 inducer is withdrawn, ABILIFY dosage should be reduced to the original level over 1 to 2 weeks.
+Patients who may be receiving a combination of strong, moderate, and weak inhibitors of CYP3A4 and CYP2D6 (e.g., a strong CYP3A4 inhibitor and a moderate CYP2D6 inhibitor or a moderate CYP3A4 inhibitor with a moderate CYP2D6 inhibitor), the dosing may be reduced to one-quarter (25%) of the usual dose initially and then adjusted to achieve a favorable clinical response.
 
-- Dosage adjustment for patients taking aripiprazole concomitantly with strong CYP3A4 inhibitors: When concomitant administration of aripiprazole with strong CYP3A4 inhibitors such as ketoconazole or clarithromycin is indicated, the aripiprazole dose should be reduced to one-half of the usual dose.
-  When the CYP3A4 inhibitor is withdrawn from the combination therapy, the aripiprazole dose should then be increased [see DRUG INTERACTIONS (7.1)].
-- Dosage adjustment for patients taking aripiprazole concomitantly with potential CYP2D6 inhibitors: When concomitant administration of potential CYP2D6 inhibitors such as quinidine, fluoxetine, or paroxetine with aripiprazole occurs, aripiprazole dose should be reduced at least to one-half of its normal dose.
-  When the CYP2D6 inhibitor is withdrawn from the combination therapy, the aripiprazole dose should then be increased [see DRUG INTERACTIONS (7.1)].
-  When adjunctive ABILIFY is administered to patients with major depressive disorder, ABILIFY should be administered without dosage adjustment as specified in DOSAGE AND ADMINISTRATION (2.3).
-- Dosing recommendation in patients taking aripiprazole concomitantly with strong CYP3A4 and CYP2D6 inhibitors: When concomitant administration of aripiprazole with strong inhibitors of CYP3A4 (such as ketoconazole or clarithromycin) and CYP2D6 (such as quinidine, fluoxetine, or paroxetine) is indicated, the aripiprazole dose should be reduced to one-quarter (25%) of the usual dose.
-  When the CYP3A4 and/or CYP2D6 inhibitor is withdrawn from the combination therapy, the aripiprazole dose should be increased [see DRUG INTERACTIONS (7.1)].
-- Dosing recommendation in patients taking aripiprazole concomitantly with strong, moderate, or weak inhibitors of CYP3A4 and CYP2D6: Patients who may be receiving a combination of strong, moderate, and weak inhibitors of CYP3A4 and CYP2D6 (eg, a potent CYP3A4 inhibitor and a moderate CYP2D6 inhibitor or a moderate CYP3A4 inhibitor with a moderate CYP2D6 inhibitor), the dosing may be reduced to one-quarter (25%) of the usual dose initially and then adjusted to achieve a favorable clinical response.
-- Dosing recommendation in patients who are classified as CYP2D6 poor metabolizers (PM): The aripiprazole dose in PM patients should initially be reduced to one-half (50%) of the usual dose and then adjusted to achieve a favorable clinical response.
-  The dose of aripiprazole for PM patients who are administered a strong CYP3A4 inhibitor should be reduced to one-quarter (25%) of the usual dose [see CLINICAL PHARMACOLOGY (12.3)].
-- Dosage adjustment for patients taking potential CYP3A4 inducers: When a potential CYP3A4 inducer such as carbamazepine is added to aripiprazole therapy, the aripiprazole dose should be doubled.
-  Additional dose increases should be based on clinical evaluation.
-  When the CYP3A4 inducer is withdrawn from the combination therapy, the aripiprazole dose should be reduced to 10 mg to 15 mg [see DRUG INTERACTIONS (7.1)].
+Table 2: Dose Adjustments for ABILIFY in Patients who are known CYP2D6 Poor Metabolizers and Patients Taking Concomitant CYP2D6 Inhibitors, 3A4 Inhibitors, and/or CYP3A4 Inducers
 
-## 2.7 Dosing of Oral Solution
+| Factors | Dosage Adjustments for ABILIFY |
+| --- | --- |
+| Known CYP2D6 Poor Metabolizers | Administer half of usual dose |
+| Known CYP2D6 Poor Metabolizers taking concomitant strong CYP3A4 inhibitors (e.g., itraconazole, clarithromycin) | Administer a quarter of usual dose |
+| Strong CYP2D6 (e.g., quinidine, fluoxetine, paroxetine) or CYP3A4 inhibitors (e.g., itraconazole, clarithromycin) | Administer half of usual dose |
+| Strong CYP2D6 and CYP3A4 inhibitors | Administer a quarter of usual dose |
+| Strong CYP3A4 inducers (e.g., carbamazepine, rifampin) | Double usual dose over 1 to 2 weeks |
+
+When adjunctive ABILIFY is administered to patients with major depressive disorder, ABILIFY should be administered without dosage adjustment as specified in DOSAGE AND ADMINISTRATION (2.3).
+
+## 2.8 Dosing of Oral Solution
 
 The oral solution can be substituted for tablets on a mg-per-mg basis up to the 25 mg dose level.
 Patients receiving 30 mg tablets should receive 25 mg of the solution [see CLINICAL PHARMACOLOGY (12.3)].
 
-## 2.8 Dosing of Orally Disintegrating Tablets
+## 2.9 Dosing of Orally Disintegrating Tablets
 
 The dosing for ABILIFY Orally Disintegrating Tablets is the same as for the oral tablets [see DOSAGE AND ADMINISTRATION (2.1, 2.2, 2.3, and 2.4)].

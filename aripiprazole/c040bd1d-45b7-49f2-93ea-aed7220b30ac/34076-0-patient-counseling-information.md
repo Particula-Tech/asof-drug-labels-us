@@ -2,21 +2,14 @@
 
 See Medication Guide
 
-## 17.1 Information for Patients
+Discuss the following issues with patients prescribed ABILIFY:
 
-Physicians are advised to discuss the following issues with patients for whom they prescribe ABILIFY:
-
-Increased Mortality in Elderly Patients with Dementia-Related Psychosis
-
-Patients and caregivers should be advised that elderly patients with dementia-related psychoses treated with antipsychotic drugs are at increased risk of death.
-ABILIFY is not approved for elderly patients with dementia-related psychosis [see WARNINGS AND PRECAUTIONS (5.1)].
-
-Suicidal Thoughts and Behaviors in Adolescents and Young Adults
+Clinical Worsening of Depression and Suicide Risk
 
 Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
 Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
 Such symptoms should be reported to the patient’s prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
-Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication [see WARNINGS AND PRECAUTIONS (5.2)].
+Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication[see WARNINGS AND PRECAUTIONS (5.3)].
 
 Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with ABILIFY and should counsel them in its appropriate use.
 A patient Medication Guide including information about “Antidepressant Medicines, Depression and other Serious Mental Illness, and Suicidal Thoughts or Actions” is available for ABILIFY.
@@ -37,27 +30,19 @@ Do not attempt to split the tablet.
 
 Interference with Cognitive and Motor Performance
 
-Because aripiprazole may have the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that aripiprazole therapy does not affect them adversely [see WARNINGS AND PRECAUTIONS (5.9)].
-
-Pregnancy
-
-Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy with ABILIFY [see USE IN SPECIFIC POPULATIONS (8.1)].
+Because ABILIFY may have the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that ABILIFY therapy does not affect them adversely [see WARNINGS AND PRECAUTIONS (5.10)].
 
 Nursing
 
-Patients should be advised not to breast-feed an infant if they are taking ABILIFY [see USE IN SPECIFIC POPULATIONS (8.3)].
+Advise patients that breastfeeding is not recommended with ABILIFY treatment because of the potential for serious adverse reactions in a nursing infant [see USE IN SPECIFIC POPULATIONS (8.3)].
 
 Concomitant Medication
 
 Patients should be advised to inform their physicians if they are taking, or plan to take, any prescription or over-the-counter drugs, since there is a potential for interactions [see DRUG INTERACTIONS (7)].
 
-Alcohol
-
-Patients should be advised to avoid alcohol while taking ABILIFY [see DRUG INTERACTIONS (7.2)].
-
 Heat Exposure and Dehydration
 
-Patients should be advised regarding appropriate care in avoiding overheating and dehydration [see WARNINGS AND PRECAUTIONS (5.10)].
+Patients should be advised regarding appropriate care in avoiding overheating and dehydration [see WARNINGS AND PRECAUTIONS (5.11)].
 
 Sugar Content
 
@@ -68,7 +53,7 @@ Phenylketonurics
 Phenylalanine is a component of aspartame.
 Each ABILIFY DISCMELT Orally Disintegrating Tablet contains the following amounts: 10 mg, 1.12 mg phenylalanine and 15 mg, 1.68 mg phenylalanine.
 
-Tablets manufactured by Otsuka Pharmaceutical Co., Ltd., Tokyo, 101-8535 Japan or Bristol-Myers Squibb Company, Princeton, NJ 08543 USA
+Tablets manufactured by Otsuka Pharmaceutical Co., Ltd., Tokyo, 101-8535 Japan
 
 Orally Disintegrating Tablets, Oral Solution, and Injection manufactured by Bristol-Myers Squibb Company, Princeton, NJ 08543 USA
 
@@ -76,6 +61,6 @@ Distributed and marketed by Otsuka America Pharmaceutical, Inc., Rockville, MD 2
 
 ABILIFY is a trademark of Otsuka Pharmaceutical Company.
 
-1239550B5 03US14L-1120A Rev June 2014
+Rev December 2015
 
-© 2013, Otsuka Pharmaceutical Co., Ltd., Tokyo, 101-8535 Japan
+© 2015, Otsuka Pharmaceutical Co., Ltd., Tokyo, 101-8535 Japan

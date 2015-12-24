@@ -1,26 +1,26 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-ABILIFY® (aripiprazole) Tablets are available as described in Table 2.
+ABILIFY® (aripiprazole) Tablets are available as described in.
 
-Table 2: ABILIFY Tablet Presentations
+Table 3:ABILIFY Tablet Presentations
 
-| Tablet Strength | Tablet Color/Shape | Tablet Markings |
+| TabletStrength | TabletColor/Shape | TabletMarkings |
 | --- | --- | --- |
-| 2 mg | green modified rectangle | “A-006” and “2” |
-| 5 mg | blue modified rectangle | “A-007” and “5” |
-| 10 mg | pink modified rectangle | “A-008” and “10” |
-| 15 mg | yellow round | “A-009” and “15” |
-| 20 mg | white round | “A-010” and “20” |
-| 30 mg | pink round | “A-011” and “30” |
+| 2 mg | greenmodified rectangle | “A-006”and “2” |
+| 5 mg | bluemodified rectangle | “A-007”and “5” |
+| 10 mg | pinkmodified rectangle | “A-008”and “10” |
+| 15 mg | yellowround | “A-009”and “15” |
+| 20 mg | whiteround | “A-010”and “20” |
+| 30 mg | pinkround | “A-011”and “30” |
 
-ABILIFY DISCMELT® (aripiprazole) Orally Disintegrating Tablets are available as described in Table 3.
+ABILIFY DISCMELT® (aripiprazole) Orally Disintegrating Tablets are available as described in Table 4.
 
-Table 3: ABILIFY DISCMELT Orally Disintegrating Tablet Presentations
+Table 4: ABILIFY DISCMELT Orally Disintegrating Tablet Presentations
 
-| Tablet Strength | Tablet Color/Shape | Tablet Markings |
+| TabletStrength | TabletColor/Shape | TabletMarkings |
 | --- | --- | --- |
-| 10 mg | pink (with scattered specks) round | “A” and “640” “10” |
-| 15 mg | yellow (with scattered specks) round | “A” and “641” “15” |
+| 10 mg | pink (with scattered specks) round | “A” and “640”“10” |
+| 15 mg | yellow (with scattered specks) round | “A” and “641”“15” |
 
 ABILIFY® (aripiprazole) Oral Solution (1 mg/mL) is a clear, colorless to light-yellow solution, supplied in child-resistant bottles along with a calibrated oral dosing cup.
 
