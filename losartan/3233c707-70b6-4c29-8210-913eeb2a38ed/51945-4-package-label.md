@@ -1,31 +1,31 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-NDC 68382-135-01
+NDC 68382-135-06
 
 Losartan Potassium Tablets USP, 25 mg
 
-100 Tablets
+Rx Only
 
-Rx only
+30 Tablets
 
-ZYDUS
+Zydus
 
-NDC 68382-136-01
+NDC 68382-136-06
 
 Losartan Potassium Tablets USP, 50 mg
 
-100 Tablets
+Rx Only
 
-Rx only
+30 Tablets
 
-ZYDUS
+Zydus
 
-NDC 68382-137-01
+NDC 68382-137-06
 
 Losartan Potassium Tablets USP, 100 mg
 
-100 Tablets
+Rx Only
 
-Rx only
+30 Tablets
 
-ZYDUS
+Zydus
