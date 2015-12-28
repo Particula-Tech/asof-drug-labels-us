@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA018902"
+  ],
+  "inn": "furosemide",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "63323-280-16",
+    "63323-280-26",
+    "63323-280-36"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "furosemide",
+      "name": "Furosemide"
+    }
+  ],
+  "setid": "3747bbcd-783d-4baa-bb5b-b6827bf390e3",
+  "source": "dailymed"
+}
