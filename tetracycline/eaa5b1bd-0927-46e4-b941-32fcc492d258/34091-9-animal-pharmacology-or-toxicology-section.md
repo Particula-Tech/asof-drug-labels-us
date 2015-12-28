@@ -8,17 +8,3 @@ Administration of minocycline also produced a large goiter with high radioiodine
 
 Treatment of various animal species with this class of drugs has also resulted in the induction of thyroid hyperplasia in the following: in rats and dogs (minocycline), in chickens (chlortetracycline) and in rats and mice (oxytetracycline).
 Adrenal gland hyperplasia has been observed in goats and rats treated with oxytetracycline.
-
-Rx only
-
-Manufactured for:
-
-Heritage Pharmaceuticals Inc.
-
-Eatontown, NJ 07724
-
-1-866-901-DRUG (3784)
-
-MF # 0327-01
-
-Issued: 08/13

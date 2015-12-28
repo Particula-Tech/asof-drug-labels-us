@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of tetracycline hydrochloride and other antibacterial drugs, tetracycline hydrochloride should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of tetracycline hydrochloride and other antibacterial drugs, tetracycline hydrochloride should be used only to treat infections that are proven or strongly suspected to be caused by susceptible bacteria.
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.
 
@@ -12,9 +12,9 @@ Tetracycline is indicated in the treatment of infections caused by susceptible s
 - Skin and soft tissue infections caused by Streptococcus pyogenes, Staphylococcus aureaus.
   (Tetracyclines are not the drugs of choice in the treatment of any type of staphylococcalinfections.)
 - Infections caused by rickettsia including Rocky Mountain spotted fever, typhus group infections, Q fever, rickettsialpox.
-- Psittacosis of ornithosis caused by Chlamydia Psittaci.
+- Psittacosis caused by Chlamydophila psittaci.
 - Infections caused by Chlamydia trachomatis such as uncomplicated urethral, endocervical or rectal infections, inclusion conjunctivitis, trachoma, and lymphogranuloma venereum.
-- Granuloma inquinale caused by Calymmatobacterium granulomatis.
+- Granuloma inquinale caused by Klebsiella granulomatis.
 - Relapsing fever caused by Borrelia sp.
 - Bartonellosis caused by Bartonella bacilliformis.
 - Chancroid caused by Hemophilus ducreyi.
