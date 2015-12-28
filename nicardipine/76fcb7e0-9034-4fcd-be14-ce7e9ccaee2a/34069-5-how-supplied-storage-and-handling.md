@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-Nicardipine hydrochloride Injection, for intravenous use after dilution, is supplied in 10 mL single dose vials and are available in cartons of 10 as follows:
+Nicardipine hydrochloride Injection for intravenous use after dilution, is supplied in 10 mL single dose vials and are available in cartons of 10 as follows:
 
 25 mg/10 mL (2.5 mg/mL) - NDC 0517-0735-10
 

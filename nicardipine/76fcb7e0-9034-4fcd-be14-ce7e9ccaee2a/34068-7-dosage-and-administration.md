@@ -73,6 +73,3 @@ Dextrose (5%) Injection, USP Dextrose (5%) and Sodium Chloride (0.45%) Injection
 Nicardipine hydrochloride injection is NOT compatible with Sodium Bicarbonate (5%) Injection, USP or Lactated Ringer’s Injection, USP.
 
 THE DILUTED SOLUTION IS STABLE FOR 24 HOURS AT ROOM TEMPERATURE.
-
-Inspection:As with all parenteral drugs, nicardipine hydrochloride injection should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
-Nicardipine hydrochloride injection is normally light yellow in color.
