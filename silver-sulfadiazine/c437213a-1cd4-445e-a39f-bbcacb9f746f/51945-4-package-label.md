@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 20 g Tube Label
+# PRINCIPAL DISPLAY PANEL - 20 gram Tube Label
 
 NDC 61570-131-20
 
@@ -18,7 +18,7 @@ Rx only
 
 Pfizer Injectables
 
-# PRINCIPAL DISPLAY PANEL - 20 g Tube Carton
+# PRINCIPAL DISPLAY PANEL - 20 gram Tube Carton
 
 NDC 61570-131-20
 
