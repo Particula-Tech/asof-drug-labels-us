@@ -213,3 +213,4 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - – Tumor lysis syndrome
 - – Injection site necrosis
 - – Sweet’s syndrome (acute febrile neutrophilic dermatosis)
+- – Necrotizing fasciitis (including fatal cases)

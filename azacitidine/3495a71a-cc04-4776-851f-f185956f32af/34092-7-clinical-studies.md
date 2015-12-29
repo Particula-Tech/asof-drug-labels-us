@@ -6,7 +6,7 @@ Study 1 was a randomized, open-label, controlled trial carried out in 53 U.S. si
 RA and RARS patients were included if they met one or more of the following criteria: required packed RBC transfusions; had platelet counts ≤50.0 x 109/L; required platelet transfusions; or were neutropenic (ANC <1.0 x 109/L) with infections requiring treatment with antibiotics.
 Patients with acute myelogenous leukemia (AML) were not intended to be included.
 Supportive care allowed in this study included blood transfusion products, antibiotics, antiemetics, analgesics and antipyretics.
-The use of hematopoeitic growth factors was prohibited.
+The use of hematopoietic growth factors was prohibited.
 Baseline patient and disease characteristics are summarized in Table 3; the 2 groups were similar.
 
 VIDAZA was administered at a subcutaneous dose of 75 mg/m2 daily for 7 days every 4 weeks.

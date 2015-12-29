@@ -17,5 +17,5 @@ Advise men not to father a child while receiving treatment with VIDAZA.
 |  | 04013 Latina Scalo (Lt) |
 |  | Italy |
 
-VIDAZA® is a registered trademark of Celgene Corporation. ©2004-2014 Celgene Corporation, All Rights Reserved.
-VIDPI.008 01/14
+VIDAZA® is a registered trademark of Celgene Corporation. ©2004-2015 Celgene Corporation, All Rights Reserved.
+VIDPI.009 12/15
