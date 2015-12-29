@@ -48,15 +48,15 @@ Treatment with PRAVACHOL significantly reduced the rate of first recurrent coron
 
 Table 6: CARE - Primary and Secondary Endpoints
 
-| Event | Pravastatin 40 mg (N=2081) | Placebo (N=2078) | Risk Reduction | p-value |
-| --- | --- | --- | --- | --- |
-|  | Number (%) of Subjects |  |  |  |
-| Primary Endpoint |  |  |  |  |
-| CHD mortality or nonfatal MIa | 212 (10.2) | 274 (13.2) | 24% | 0.003 |
-| Secondary Endpoints |  |  |  |  |
-| Myocardial revascularization procedures (CABG or PTCA) | 294 (14.1) | 391 (18.8) | 27% | <0.001 |
-| Stroke or TIA | 93 (4.5) | 124 (6.0) | 26% | 0.029 |
-| a The risk reduction due to treatment with PRAVACHOL was consistent in both sexes. |  |  |  |  |
+| Event | Pravastatin 40 mg (N=2081) | Placebo (N=2078) | Risk Reduction | p-value |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Number (%) of Subjects |  |  |  |  |  |  |  |  |
+| Primary Endpoint |  |  |  |  |  |  |  |  |  |
+| CHD mortality or nonfatal MIa | 212 (10.2) | 274 (13.2) | 24% | 0.003 |  |  |  |  |  |
+| Secondary Endpoints |  |  |  |  |  |  |  |  |  |
+| Myocardial revascularization procedures (CABG or PTCA) | 294 (14.1) | 391 (18.8) | 27% | <0.001 |  |  |  |  |  |
+| Stroke or TIA | 93 (4.5) | 124 (6.0) | 26% | 0.029 |  |  |  |  |  |
+| a The risk reduction due to treatment with PRAVACHOL was consistent in both sexes. |  |  |  |  |  |  |  |  |  |
 
 In the PLAC I6 study, the effect of pravastatin therapy on coronary atherosclerosis was assessed by coronary angiography in patients with coronary disease and moderate hypercholesterolemia (baseline LDL-C range: 130-190 mg/dL).
 In this double-blind, multicenter, controlled clinical trial, angiograms were evaluated at baseline and at 3 years in 264 patients.
@@ -97,8 +97,7 @@ Table 7: Primary Hypercholesterolemia Studies: Dose Response of PRAVACHOL Once D
 |  | Mean Percent Changes From Baseline After 6 Weeksb |  |  |  |
 | Placebo (N=162) | 0% | −1% | −1% | +1% |
 | 80 mg (N=277) | −27% | −37% | +3% | −19% |
-| a A multicenter, double-blind, placebo-controlled study. |  |  |  |  |
-| b Pooled analysis of 2 multicenter, double-blind, placebo-controlled studies. |  |  |  |  |
+| a A multicenter, double-blind, placebo-controlled study. b Pooled analysis of 2 multicenter, double-blind, placebo-controlled studies. |  |  |  |  |
 
 In another clinical trial, patients treated with pravastatin in combination with cholestyramine (70% of patients were taking cholestyramine 20 or 24 g per day) had reductions equal to or greater than 50% in LDL-C.
 Furthermore, pravastatin attenuated cholestyramine-induced increases in TG levels (which are themselves of uncertain clinical significance).
@@ -162,8 +161,7 @@ Table 10: Lipid-Lowering Effects of Pravastatin in Pediatric Patients with Heter
 | HDL-C | 1.04 | 13.71 | 5.97 | 3.13 | (−1.71, 7.43) |
 | TG | −9.58 | −0.30 | −5.88 | −3.27 | (−13.95, 10.01) |
 | ApoB (N) | −23.16b (61) | −18.08b (39) | −21.11b (100) | −0.97 (106) | (−24.29, −16.18) |
-| a The above least-squares mean values were calculated based on log-transformed lipid values. |  |  |  |  |  |
-| b Significant at p≤0.0001 when compared with placebo. |  |  |  |  |  |
+| a The above least-squares mean values were calculated based on log-transformed lipid values. b Significant at p≤0.0001 when compared with placebo. |  |  |  |  |  |
 
 The mean achieved LDL-C was 186 mg/dL (range: 67-363 mg/dL) in the pravastatin group compared to 236 mg/dL (range: 105-438 mg/dL) in the placebo group.
 

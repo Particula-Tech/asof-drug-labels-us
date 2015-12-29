@@ -86,10 +86,10 @@ Table 3: Effect of Coadministered Drugs on the Pharmacokinetics of Pravastatin
 
 Table 4: Effect of Pravastatin on the Pharmacokinetics of Coadministered Drugs
 
-| Pravastatin Dosing Regimen | Name and Dose | Change in AUC | Change in Cmax |
-| --- | --- | --- | --- |
-| 20 mg BID for 6 days | Warfarin 5 mg OD for 6 days Change in mean prothrombin time | ↑17% ↑0.4 sec | ↑15% |
-| 20 mg OD for 9 days | Digoxin 0.2 mg OD for 9 days | ↑4.6% | ↑5.3% |
-| 20 mg BID for 4 weeks 10 mg BID for 4 weeks 5 mg BID for 4 weeks | Antipyrine 1.2 g single dose | ↑3.0% ↑1.6% ↑ Less than 1% | Not Reported |
-| 20 mg OD for 4 days | Kaletra 400 mg/100 mg BID for 14 days | No change | No change |
-| BID = twice daily; OD = once daily |  |  |  |
+| Pravastatin Dosing Regimen | Name and Dose | Change in AUC | Change in Cmax |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 20 mg BID for 6 days | Warfarin 5 mg OD for 6 days Change in mean prothrombin time | ↑17% ↑0.4 sec | ↑15% |  |  |  |  |
+| 20 mg OD for 9 days | Digoxin 0.2 mg OD for 9 days | ↑4.6% | ↑5.3% |  |  |  |  |
+| 20 mg BID for 4 weeks 10 mg BID for 4 weeks 5 mg BID for 4 weeks | Antipyrine 1.2 g single dose | ↑3.0% ↑1.6% ↑ Less than 1% | Not Reported |  |  |  |  |
+| 20 mg OD for 4 days | Kaletra 400 mg/100 mg BID for 14 days | No change | No change |  |  |  |  |
+| BID = twice daily; OD = once daily |  |  |  |  |  |  |  |
