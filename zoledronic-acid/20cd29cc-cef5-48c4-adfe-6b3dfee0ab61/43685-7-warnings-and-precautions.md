@@ -2,8 +2,8 @@
 
 ## 5.1 Drugs with Same Active Ingredient or in the Same Drug Class
 
-Zoledronic acid injection 4 mg per 5 mL (concentrate for intravenous infusion) contains the same active ingredient as found in zoledronic acid injection 5 mg per 100 mL (solution for intravenous infusion).
-Patients being treated with zoledronic acid injection 4 mg per 5 mL (concentrate for intravenous infusion) should not be treated with zoledronic acid injection 5 mg per 100 mL (solution for intravenous infusion) or other bisphosphonates.
+Zoledronic acid injection 4 mg per 5 mL (concentrate for intravenous infusion) contains the same active ingredient as found in Reclast®, zoledronic acid injection 5 mg per 100 mL (solution for intravenous infusion).
+Patients being treated with zoledronic acid injection 4 mg per 5 mL (concentrate for intravenous infusion) should not be treated with Reclast® zoledronic acid injection 5 mg per 100 mL (solution for intravenous infusion) or other bisphosphonates.
 
 ## 5.2 Hydration and Electrolyte Monitoring
 
@@ -21,7 +21,7 @@ Safety and pharmacokinetic data are limited in patients with severe renal impair
 Preexisting renal insufficiency and multiple cycles of zoledronic acid injection and other bisphosphonates are risk factors for subsequent renal deterioration with zoledronic acid injection.
 Factors predisposing to renal deterioration, such as dehydration or the use of other nephrotoxic drugs, should be identified and managed, if possible.
 
-Zoledronic acid injection treatment in patients with hypercalcemia of malignancy with severe renal impairment should be considered only after evaluating the risks and benefits of treatment.
+Zoledronic acid injection treatment in patients with hypercalcemia of malignancy with severe renal impairment should be considered only after evaluating the risks and benefits of treatment [see Dosage and Administration (2.1)].
 In the clinical studies, patients with serum creatinine greater than 400 μmol/L or greater than 4.5 mg/dL were excluded.
 
 Zoledronic acid injection treatment is not recommended in patients with bone metastases with severe renal impairment.
@@ -32,6 +32,8 @@ Limited pharmacokinetic data exists in patients with creatinine clearance less t
 
 Osteonecrosis of the jaw (ONJ) has been reported predominantly in cancer patients treated with intravenous bisphosphonates, including zoledronic acid injection.
 Many of these patients were also receiving chemotherapy and corticosteroids which may be risk factors for ONJ.
+The risk of ONJ may increase with duration of exposure to bisphosphonates.
+
 Postmarketing experience and the literature suggest a greater frequency of reports of ONJ based on tumor type (advanced breast cancer, multiple myeloma), and dental status (dental extraction, periodontal disease, local trauma including poorly fitting dentures).
 Many reports of ONJ involved patients with signs of local infection including osteomyelitis.
 
@@ -67,7 +69,7 @@ It is unknown whether the risk of atypical femur fracture continues after stoppi
 
 ## 5.7 Patients with Asthma
 
-While not observed in clinical trials with zoledronic acid injection, there have been reports of bronchoconstriction in aspirin sensitive patients receiving bisphosphonates.
+While not observed in clinical trials with zoledronic acid injection, there have been reports of bronchoconstriction in aspirin-sensitive patients receiving bisphosphonates.
 
 ## 5.8 Hepatic Impairment
 
@@ -75,7 +77,7 @@ Only limited clinical data are available for use of zoledronic acid injection to
 
 ## 5.9 Use in Pregnancy
 
-Bisphosphonates, such as zoledronic acid injection are incorporated into the bone matrix, from where they are gradually released over periods of weeks to years.
+Bisphosphonates, such as zoledronic acid injection, are incorporated into the bone matrix, from where they are gradually released over periods of weeks to years.
 There may be a risk of fetal harm (e.g., skeletal and other abnormalities) if a woman becomes pregnant after completing a course of bisphosphonate therapy.
 
 Zoledronic acid injection may cause fetal harm when administered to a pregnant woman.
@@ -88,5 +90,6 @@ If this drug is used during pregnancy, or if the patient becomes pregnant while 
 Hypocalcemia has been reported in patients treated with Zoledronic acid injection.
 Cardiac arrhythmias and neurologic adverse events (seizures, tetany, and numbness) have been reported secondary to cases of severe hypocalcemia.
 In some instances, hypocalcemia may be life-threatening.
-Hypocalcemia must be corrected before initiating Zoledronic acid injection.
+Caution is advised when zoledronlc acid injection is administered with drugs known to cause hypocalcemia, as severe hypocalcemia may develop, [seeDrug Interactions (7)].
+Serum calcium should be measured and hypocalcemia must be corrected before initiating zoledronlc acid injection.
 Adequately supplement patients with calcium and vitamin D.

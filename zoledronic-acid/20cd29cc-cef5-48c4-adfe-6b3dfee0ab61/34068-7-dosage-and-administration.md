@@ -28,7 +28,7 @@ The recommended dose of zoledronic acid injection in patients with multiple myel
 The optimal duration of therapy is not known.
 
 Upon treatment initiation, the recommended zoledronic acid injection doses for patients with reduced renal function (mild and moderate renal impairment) are listed in Table 1.
-These doses are calculated to achieve the same AUC as that achieved in patients with creatinine clearance of 75 mL/min.
+These doses are calculated to achieve the same area under the curve (AUC) as that achieved in patients with creatinine clearance of 75 mL/min.
 CrCl is calculated using the Cockcroft-Gault formula [see Warnings and Precautions (5.2)].
 
 Table 1: Reduced Doses for Patients with Baseline CrCl Less Than or Equal to 60 mL/min
@@ -62,9 +62,9 @@ Vials of zoledronic acid injection concentrate for infusion contain overfill all
 This concentrate should immediately be diluted in 100 mL of sterile 0.9% Sodium Chloride, USP, or 5% Dextrose Injection, USP, following proper aseptic technique, and administered to the patient by infusion.
 Do not store undiluted concentrate in a syringe, to avoid inadvertent injection.
 
-To prepare reduced doses for patients with baseline CrCl less than or equal to 60 mL/min, withdraw the specified volume of the zoledronic acid injection concentrate from the vial for the dose required (see Table 3).
+To prepare reduced doses for patients with baseline CrCl less than or equal to 60 mL/min, withdraw the specified volume of the zoledronic acid injection concentrate from the vial for the dose required (see Table 2).
 
-Table 3: Preparation of Reduced Doses – Zoledronic Acid Injection concentrate
+Table 2: Preparation of Reduced Doses – Zoledronic Acid Injection Concentrate
 
 | Remove and Use Zoledronic Acid Injection Volume (mL) | Dose (mg) |
 | --- | --- |
@@ -74,7 +74,7 @@ Table 3: Preparation of Reduced Doses – Zoledronic Acid Injection concentrate
 
 The withdrawn concentrate must be diluted in 100 mL of sterile 0.9% Sodium Chloride, USP, or 5% Dextrose Injection, USP.
 
-If not used immediately after dilution with infusion media, for microbiological integrity, the solution should be refrigerated at 2°C to 8°C (36°F to 46°F).
+If not used immediately after dilution with infusion media, for microbiological integrity, the solution should be refrigerated at 2° to 8°C (36° to 46°F).
 The refrigerated solution should then be equilibrated to room temperature prior to administration.
 The total time between dilution, storage in the refrigerator, and end of administration must not exceed 24 hours.
 
