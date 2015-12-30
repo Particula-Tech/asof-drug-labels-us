@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA021284"
+  ],
+  "inn": "methylphenidate",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "0781-2362-01",
+    "0781-2363-01",
+    "0781-2364-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "methylphenidate",
+      "name": "Methylphenidate"
+    }
+  ],
+  "setid": "1f8983ce-71b8-4c62-830d-e4692ddededa",
+  "source": "dailymed"
+}
