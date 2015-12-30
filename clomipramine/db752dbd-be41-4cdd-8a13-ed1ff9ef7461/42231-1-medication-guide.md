@@ -1,6 +1,6 @@
 # Medication Guide
 
-Clomipramine Hydrochloride Capsules USP
+Clomipramine Hydrochloride Capsules USP (kloe mip' ra meen hye'' droe klor' ide)
 
 Antidepressant Medicines, Depression and other Serious Mental Illnesses, and Suicidal Thoughts or Actions
 
