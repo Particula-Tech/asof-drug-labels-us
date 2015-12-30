@@ -38,4 +38,4 @@ Mfd. by: Taro Pharmaceuticals Inc., Brampton, Ontario, Canada L6T 1C1 Dist. by: 
 
 Topicort® and TaroPharma® are registered trademarks of Taro Pharmaceuticals U.S.A., Inc. and/or its affiliates.
 
-Issued: February/ 2013 PK-7265-0 110
+Issued: 04/2013 PK-7265-0 110

@@ -83,4 +83,4 @@ Inactive ingredients: glyceryl oleate, isopropyl alcohol, isopropyl myristate, L
 
 Mfd. by: Taro Pharmaceuticals Inc., Brampton, Ontario, Canada L6T 1C1 Dist. by: TaroPharma a division of Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532
 
-Issued: February/2013 PK-7265-0 110
+Issued: 04/2013 PK-7265-0 110
