@@ -155,7 +155,7 @@ Confirmatory tests, such as gas chromatography/mass spectrometry, will distingui
 Potential Effects of Coadministration of Drugs Highly Bound to Plasma Proteins Because sertraline is tightly bound to plasma protein, the administration of sertraline hydrochloride to a patient taking another drug which is tightly bound to protein (e.g., warfarin, digitoxin) may cause a shift in plasma concentrations potentially resulting in an adverse effect.
 Conversely, adverse effects may result from displacement of protein bound sertraline hydrochloride by other tightly bound drugs.
 In a study comparing prothrombin time AUC (0 to 120 hr) following dosing with warfarin (0.75 mg/kg) before and after 21 days of dosing with either sertraline hydrochloride (50 to 200 mg/day) or placebo, there was a mean increase in prothrombin time of 8% relative to baseline for sertraline hydrochloride compared to a 1% decrease for placebo (p<0.02).
-The normalization of prothrombin time for the sertraline hydrochloride group was delayed compared to the placebo group.
+The normalization of prothrombin time for the sertraline hydrochloride tablets group was delayed compared to the placebo group.
 The clinical significance of this change is unknown.
 Accordingly, prothrombin time should be carefully monitored when sertraline hydrochloride therapy is initiated or stopped.
 Cimetidine In a study assessing disposition of sertraline hydrochloride (100 mg) on the second of 8 days of cimetidine administration (800 mg daily), there were significant increases in sertraline hydrochloride mean AUC (50%), Cmax (24%) and half-life (26%) compared to the placebo group.
