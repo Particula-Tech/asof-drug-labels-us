@@ -2,11 +2,11 @@
 
 Systemic glucocorticosteroid use may result in the following:
 
-- Hypercorticism and Adrenal Suppression [See Warnings and Precautions (5.1)]
-- Symptoms of steroid withdrawal in those patients transferring from Systemic Glucocorticosteroid Therapy [See Warnings and Precautions (5.2)]
-- Immunosuppression [See Warnings and Precautions (5.3)]
-- Increased Systemic Glucocorticosteroid Susceptibility [See Warnings and Precautions (5.4)]
-- Other Glucocorticosteroid Effects [See Warnings and Precautions (5.5)]
+- •Hypercorticism and Adrenal Suppression [See Warnings and Precautions (5.1)]
+- •Symptoms of steroid withdrawal in those patients transferring from Systemic Glucocorticosteroid Therapy [See Warnings and Precautions (5.2)]
+- •Immunosuppression [See Warnings and Precautions (5.3)]
+- •Increased Systemic Glucocorticosteroid Susceptibility [See Warnings and Precautions (5.4)]
+- •Other Glucocorticosteroid Effects [See Warnings and Precautions (5.5)]
 
 ## 6.1 Clinical Trials Experience
 

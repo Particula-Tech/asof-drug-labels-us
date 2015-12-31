@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-UCERIS (budesonide) extended release tablets, for oral administration, contain budesonide, a synthetic corticosteroid, as the active ingredient.
+UCERIS® (budesonide) extended release tablets, for oral administration, contain budesonide, a synthetic corticosteroid, as the active ingredient.
 Budesonide is designated chemically as (RS)-11β, 16α, 17,21 tetrahydroxypregna-1,4-diene-3,20-dione cyclic 16,17-acetal with butyraldehyde.
 
 Budesonide is provided as a mixture of two epimers (22R and 22S).

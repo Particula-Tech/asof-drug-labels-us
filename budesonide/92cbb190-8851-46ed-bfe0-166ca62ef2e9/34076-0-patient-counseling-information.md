@@ -21,14 +21,26 @@ Patients should be informed of potential worsening of existing tuberculosis, fun
 UCERIS extended release tablets should be swallowed whole with water and NOT CHEWED, CRUSHED, OR BROKEN.
 Patients should be advised to avoid the consumption of grapefruit juice for the duration of their UCERIS therapy [See Dosage and Administration (2)].
 
-Manufactured for Santarus, Inc., Raleigh, NC 27615 • 1-888-778-0887
+Manufactured for:
 
-Manufactured by: Cosmo S.p.A., Milan, Italy.
+Salix Pharmaceuticals, a division of
 
-UCERIS™ is a trademark of Santarus, Inc., a wholly owned subsidiary of Salix Pharmaceuticals, Inc. Raleigh, NC 27615
+Valeant Pharmaceuticals North America LLC
+
+Bridgewater, NJ 08807 USA
+
+By: Cosmo S.p.A., Milan, Italy
+
+Made in Italy
+
+By license of Cosmo Technologies Ltd., Dublin, Ireland
+
+Uceris is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+
+© Valeant Pharmaceuticals North America LLC
 
 U.S. Patent Nos: 7,410,651; 7,431,943; RE43799; 8,293,273; 8,784,888; and 8,895,064.
 
-© 2013 Santarus, Inc.
+Revised: June 2015
 
-Revised: January 2015
+9464200
