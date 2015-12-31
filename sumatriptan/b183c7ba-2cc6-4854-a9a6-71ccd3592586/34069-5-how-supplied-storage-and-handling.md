@@ -1,12 +1,12 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Sumatriptan succinate injection contains sumatriptan (base) as the succinate salt and is supplied as a clear, colorless to pale yellow, sterile, nonpyrogenic solution as follows:
 
-| ProductNo. | NDC No. | Strength |  |
+| Product No. | NDC No. | Strength |  |
 | --- | --- | --- | --- |
-| 271301 | 63323-273-01 | 6 mg/0.5 mL | 0.5 mL Single Dose Vial, packaged individually |
+| 271301 | 63323-273-01 | 6 mg (sumatriptan) 0.5 mL | 0.5 mL single dose vial, packaged individually. |
 
 Store between 2° and 25°C (36° and 77°F).
 Protect from light.
 
-Vial stoppers do not contain natural rubber latex.
+The container closure is not made with natural rubber latex.

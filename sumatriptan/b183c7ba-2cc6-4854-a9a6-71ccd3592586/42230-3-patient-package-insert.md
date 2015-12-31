@@ -1,157 +1,219 @@
-# PATIENT INFORMATION
+SUMATRIPTAN SUCCINATE
 
-The following wording is contained in a separate leaflet provided for patients.
-
-SUMATRIPTAN
-
-SUCCINATE
+(soo´mətrip´tan suk´sənāt´)
 
 INJECTION
 
-Rx only
+Read this Patient Information leaflet before you start taking sumatriptan succinate injection and each time you get a refill.
+There may be new information.
+This information does not take the place of talking with your healthcare provider about your medical condition or treatment.
 
-Read this leaflet carefully before you start to take Sumatriptan Succinate Injection.
-Keep the leaflet for reference because it gives you a summary of important information about Sumatriptan Succinate Injection.
+What is the most important information I should know about sumatriptan succinate injection?
 
-Read the leaflet that comes with each refill of your prescription because there may be new information.
+Sumatriptan succinate injection can cause serious side effects, including:
 
-This leaflet does not have all the information about Sumatriptan Succinate Injection.
-Ask your healthcare provider for more information or advice.
+Heart attack and other heart problems.
+Heart problems may lead to death.
 
-What is Sumatriptan Succinate Injection?
+Stop taking sumatriptan succinate injection and get emergency medical help right away if you have any of the following symptoms of a heart attack:
 
-Sumatriptan Succinate Injection is a 5-HT1 agonist.
-It is also called a “triptan”.
-You should use it only if you have a prescription.
+- discomfort in the center of your chest that lasts for more than a few minutes, or that goes away and comes back
+- severe tightness, pain, pressure, or heaviness in your chest, throat, neck, or jaw
+- pain or discomfort in your arms, back, neck, jaw, or stomach
+- shortness of breath with or without chest discomfort
+- breaking out in a cold sweat
+- nausea or vomiting
+- feeling lightheaded
 
-Sumatriptan Succinate Injection is used to relieve your migraine or cluster headache.
-Sumatriptan Succinate Injection is not used to prevent attacks or reduce the number of attacks you have.
-Use Sumatriptan Succinate Injection only to treat an actual migraine or cluster headache attack.
+Sumatriptan succinate injection is not for people with risk factors for heart disease unless a heart exam is done and shows no problem.
+You have a higher risk for heart disease if you:
 
-The decision to use Sumatriptan Succinate Injection is one that you and your healthcare provider should make together, taking into account your personal needs and health.
+- have high blood pressure
+- have high cholesterol levels
+- smoke
+- are overweight
+- have diabetes
+- have a family history of heart disease
 
-Talk to your healthcare provider before taking Sumatriptan Succinate Injection
+What is sumatriptan succinate injection?
 
-1.
-Risk factors for heart disease:
+Sumatriptan succinate injection is a prescription medicine used to treat acute migraine headaches with or without aura and acute cluster headaches in adults who have been diagnosed with migraine or cluster headaches.
 
-Tell your healthcare provider if you have risk factors for heart disease such as:
+Sumatriptan succinate injection is not used to treat other types of headaches such as hemiplegic (that make you unable to move on one side of your body) or basilar (rare form of migraine with aura) migraines.
 
-- high blood pressure,
+Sumatriptan succinate injection is not used to prevent or decrease the number of migraine or cluster headaches you have.
 
-- high cholesterol,
+It is not known if sumatriptan succinate injection is safe and effective in children under 18 years of age.
 
-- obesity,
+Who should not take sumatriptan succinate injection?
 
-- diabetes,
+Do not take sumatriptan succinate injection if you have:
 
-- smoking,
+- heart problems or a history of heart problems
+- narrowing of blood vessels to your legs, arms, stomach, or kidney (peripheral vascular disease)
+- uncontrolled high blood pressure
+- hemiplegic migraines or basilar migraines.
+  If you are not sure if you have these types of migraines, ask your healthcare provider.
+- had a stroke, transient ischemic attacks (TIAs), or problems with your blood circulation
+- taken any of the following medicines in the last 24 hours:
 
-- strong family history of heart disease,
+- almotriptan (AXERT®)
+- eletriptan (RELPAX®)
+- frovatriptan (FROVA®)
+- naratriptan (AMERGE®)
+- rizatriptan (MAXALT®, MAXALT-MLT®)
+- sumatriptan and naproxen (TREXIMET®)
+- ergotamines (CAFERGOT®, ERGOMAR®, MIGERGOT®)
+- dihydroergotamine (D.H.E.
+  45®, MIGRANAL®)
 
-- you are postmenopausal, or
+Ask your healthcare provider if you are not sure if your medicine is listed above.
 
-- you are a male over 40 years of age.
+- an allergy to sumatriptan or any of the ingredients in sumatriptan succinate injection.
+  See the end of this leaflet for a complete list of ingredients in sumatriptan succinate injection.
 
-If you do have risk factors for heart disease, your healthcare provider should check you for heart disease to see if Sumatriptan Succinate Injection is right for you.
+What should I tell my healthcare provider before taking sumatriptan succinate injection?
 
-Although most of the people who have taken Sumatriptan Succinate Injection have not had any serious side effects, some have had serious heart problems.
-Deaths have been reported, but these were rare considering the extensive worldwide use of Sumatriptan Succinate Injection.
-Usually, serious problems happened in people with known heart diseases.
-It was not clear whether Sumatriptan Succinate Injection had anything to do with these deaths.
+Before you take sumatriptan succinate injection, tell your healthcare provider about all of your medical conditions, including if you:
 
-2.
-Important questions to consider before taking Sumatriptan Succinate Injection:
+- have high blood pressure
+- have high cholesterol
+- have diabetes
+- smoke
+- are overweight
+- have heart problems or family history of heart problems or stroke
+- have liver problems
+- have had epilepsy or seizures
+- are not using effective birth control
+- become pregnant while taking sumatriptan succinate injection
+- are breastfeeding or plan to breastfeed.
+  Sumatriptan succinate injection passes into your breast milk and may harm your baby.
+  Talk with your healthcare provider about the best way to feed your baby if you take sumatriptan succinate injection.
 
-If the answer to any of the following questions is YES or if you do not know the answer, then please talk with your healthcare provider before you use Sumatriptan Succinate Injection.
+Tell your healthcare provider about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
 
-- Are you pregnant?
-  Do you think you might be pregnant?
-  Are you trying to become pregnant?
-  Are you using inadequate contraception?
-  Are you breastfeeding?
+Using sumatriptan succinate injection with certain other medicines can affect each other, causing serious side effects.
 
-- Do you have any chest pain, heart disease, shortness of breath, or irregular heartbeats?
-  Have you had a heart attack?
+Especially tell your healthcare provider if you take anti-depressant medicines called:
 
-- Do you have risk factors for heart disease (such as high blood pressure, high cholesterol, obesity, diabetes, smoking, strong family history of heart disease, or you are postmenopausal or a male over 40)?
+- selective serotonin reuptake inhibitors (SSRIs)
+- serotonin norepinephrine reuptake inhibitors (SNRIs)
+- tricyclic antidepressants (TCAs)
+- monoamine oxidase inhibitors (MAOIs)
 
-- Have you had a stroke, transient ischemic attacks (TIAs), or Raynaud syndrome?
+Ask your healthcare provider or pharmacist for a list of these medicines if you are not sure.
 
-- Do you have high blood pressure?
+Know the medicines you take.
+Keep a list of them to show your healthcare provider or pharmacist when you get a new medicine.
 
-- Have you ever had to stop taking this or any other medicine because of an allergy or other problems?
+How should I take sumatriptan succinate injection?
 
-- Are you taking any other migraine medicines, including other 5-HT1 agonists (triptans) or any other medicines containing ergotamine, dihydroergotamine, or methysergide?
+- Certain people should take their first dose of sumatriptan succinate injection in their healthcare provider’s office or in another medical setting.
+  Ask your healthcare provider if you should take your first dose in a medical setting.
+- Use sumatriptan succinate injection exactly as your healthcare provider tells you to use it.
+- Your healthcare provider may change your dose.
+  Do not change your dose without first talking with your healthcare provider.
+- For adults, the usual dose is a single injection given just below the skin.
+- You should give an injection as soon as the symptoms of your headache start, but it may be given at any time during a migraine attack.
+- If you did not get any relief after the first injection, do not give a second injection without first talking with your healthcare provider.
+- You can take a second injection 1 hour after the first injection, but not sooner, if your headache came back after your first injection.
+- Do not take more than 12 mg in a 24-hour period.
+- If you use too much sumatriptan succinate injection, call your healthcare provider or go to the nearest hospital emergency room right away.
+- You should write down when you have headaches and when you take sumatriptan succinate injection so you can talk with your healthcare provider about how sumatriptan succinate injection is working for you.
 
-- Are you taking any medicine for depression or other disorders such as monoamine oxidase inhibitors, selective serotonin reuptake inhibitors (SSRIs), or serotonin norepinephrine reuptake inhibitors (SNRIs)?
-  Common SSRIs are citalopram HBr (CELEXA®), escitalopram oxalate (LEXAPRO®), paroxetine (PAXIL®), fluoxetine (PROZAC®/SARAFEM®), olanzapine/fluoxetine (SYMBYAX®), sertraline (ZOLOFT®), and fluvoxamine.
-  Common SNRIs are duloxetine (CYMBALTA®) and venlafaxine (EFFEXOR®).*
+What should I avoid while taking sumatriptan succinate injection?
 
-- Have you had, or do you have, any disease of the liver or kidney?
+Sumatriptan succinate injection can cause dizziness, weakness, or drowsiness.
+If you have these symptoms, do not drive a car, use machinery, or do anything where you need to be alert.
 
-- Have you had, or do you have, epilepsy or seizures?
+What are the possible side effects of sumatriptan succinate injection?
 
-- Is this headache different from your usual migraine attacks?
+Sumatriptan succinate injection may cause serious side effects.
+See “What is the most important information I should know about sumatriptan succinate injection?”
 
-Remember, if you answered YES to any of the above questions, then talk with your healthcare provider about it.
+These serious side effects include:
 
-Important points about Sumatriptan Succinate Injection
+- changes in color or sensation in your fingers and toes (Raynaud’s syndrome)
+- stomach and intestinal problems (gastrointestinal and colonic ischemic events).
+  Symptoms of gastrointestinal and colonic ischemic events include:
+  - sudden or severe stomach pain
+  - stomach pain after meals
+  - weight loss
+  - nausea or vomiting
+  - constipation or diarrhea
+  - bloody diarrhea
+  - fever
+- problems with blood circulation to your legs and feet (peripheral vascular ischemia).
+  Symptoms of peripheral vascular ischemia include:
+  - cramping and pain in your legs or hips
+  - feeling of heaviness or tightness in your leg muscles
+  - burning or aching pain in your feet or toes while resting
+  - numbness, tingling, or weakness in your legs
+  - cold feeling or color changes in 1 or both legs or feet
+- medication overuse headaches.
+  Some people who use too many sumatriptan succinate injections may have worse headaches (medication overuse headache).
+  If your headaches get worse, your healthcare provider may decide to stop your treatment with sumatriptan succinate injection.
+- serotonin syndrome.
+  Serotonin syndrome is a rare but serious problem that can happen in people using sumatriptan succinate injection, especially if sumatriptan succinate injection is used with anti-depressant medicines called SSRIs or SNRIs.
 
-1.
-The use of Sumatriptan Succinate Injection during pregnancy:
+Call your healthcare provider right away if you have any of the following symptoms of serotonin syndrome:
 
-Do not use Sumatriptan Succinate Injection if you are pregnant, think you might be pregnant, are trying to become pregnant, or are not using adequate contraception unless you have talked with your healthcare provider about this.
+- mental changes such as seeing things that are not there (hallucinations), agitation, or coma
+- fast heartbeat
+- changes in blood pressure
+- high body temperature
+- tight muscles
+- trouble walking
+- seizures.
+  Seizures have happened in people taking sumatriptan succinate injection who have never had seizures before.
+  Talk with your healthcare provider about your chance of having seizures while you take sumatriptan succinate injection.
 
-2.
-How to use Sumatriptan Succinate Injection:
+The most common side effects of sumatriptan succinate injection include:
 
-For adults, the usual dose is a single injection given just below the skin.
-You should give an injection as soon as the symptoms of your migraine start, but it may be given at any time during an attack.
+- pain or redness at your injection site
+- tingling or numbness in your fingers or toes
+- dizziness
+- warm, hot, burning feeling to your face (flushing)
+- discomfort or stiffness in your neck
+- feeling weak, drowsy, or tired
 
-You may give a second injection if your migraine symptoms come back.
-If your symptoms do not get better after the first injection, do not give a second injection for the same attack without first talking with your healthcare provider.
-Do not give more than two 6-mg doses in any 24-hour period.
-Allow at least 1 hour between each dose.
+Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
-3.
-What to do if you take an overdose:
+These are not all the possible side effects of sumatriptan succinate injection.
+For more information, ask your healthcare provider or pharmacist.
 
-If you have taken more medicine than has been prescribed for you, contact either your healthcare provider, hospital emergency department, or nearest poison control center immediately.
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
 
-4.
-How to store your medicine:
+How should I store sumatriptan succinate injection?
 
-Keep your medicine in a safe place where children cannot reach it.
-It may be harmful to children.
+- Do not store at temperatures above 77°F (25°C).
+- Store your medicine away from light.
+- Keep your medicine in the packaging or carrying case provided with it.
 
-Store your medicine away from heat and light.
-Keep your medicine in the packaging provided.
-Do not store at temperatures above 77°F (25°C).
+Keep sumatriptan succinate injection and all medicines out of the reach of children.
 
-The expiration date of your medicine is printed on the carton.
-If your medicine has expired, throw it away as instructed.
+General information about the safe and effective use of sumatriptan succinate injection
 
-If your healthcare provider decides to stop your treatment, do not keep any leftover medicine unless your healthcare provider tells you to.
-Throw away your medicine as instructed.
+Medicines are sometimes prescribed for purposes other than those listed in Patient Information leaflets.
+Do not use sumatriptan succinate injection for a condition for which it was not prescribed.
+Do not give sumatriptan succinate injection to other people, even if they have the same symptoms you have.
+It may harm them.
 
-Some possible side effects of Sumatriptan Succinate Injection
+This Patient Information leaflet summarizes the most important information about sumatriptan succinate injection.
+If you would like more information, talk with your healthcare provider.
+You can ask your healthcare provider or pharmacist for information about sumatriptan succinate injection that is written for healthcare professionals.
 
-1. Some patients feel pain or tightness in the chest or throat when using Sumatriptan Succinate Injection.
-   If this happens to you, then discuss it with your healthcare provider before using any more Sumatriptan Succinate Injection.
-   If the chest pain is severe or does not go away, call your healthcare provider right away.
-2. Call your healthcare provider right away if you have sudden and/or severe abdominal pain following Sumatriptan Succinate Injection.
-3. Some people may have a reaction called serotonin syndrome when they use certain types of antidepressants, SSRIs or SNRIs, while taking Sumatriptan Succinate Injection.
-   Symptoms may include confusion, hallucinations, fast heartbeat, feeling faint, fever, sweating, muscle spasm, difficulty walking, and/or diarrhea.
-   Call your doctor immediately if you have any of these symptoms after taking Sumatriptan Succinate Injection.
-4. Shortness of breath; wheeziness; heart throbbing; swelling of eyelids, face, or lips; or a skin rash, skin lumps, or hives happens rarely.
-   If it happens to you, then tell your healthcare provider right away.
-   Do not take any more Sumatriptan Succinate Injection unless your healthcare provider tells you to.
-5. Some people may feel tingling, heat, flushing (redness of face lasting a short time), heaviness, or pressure after using Sumatriptan Succinate Injection.
-   A few people may feel drowsy, dizzy, tired, or sick.
-   If you have any of these symptoms, tell your healthcare provider at your next visit.
-6. You may have pain or redness at the site of injection, but this usually lasts less than an hour.
-7. If you feel unwell in any other way or have any symptoms that you do not understand, you should contact your healthcare provider right away.
+What are the ingredients in sumatriptan succinate injection?
 
-* The brands listed are trademarks of their respective owners and are not trademarks of APP Pharmaceuticals, LLC.
-The makers of these brands are not affiliated with and do not endorse APP Pharmaceuticals, LLC or its products.
+Active ingredient: sumatriptan succinate
+
+Inactive ingredients: sodium chloride, water for injection
+
+This Patient Information leaflet has been approved by the U.S. Food and Drug Administration.
+
+The brand names mentioned in this document are the trademarks of their respective owners.
+
+451119C
+
+Revised: April 2015

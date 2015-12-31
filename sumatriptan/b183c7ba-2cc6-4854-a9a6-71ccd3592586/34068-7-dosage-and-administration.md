@@ -1,15 +1,15 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-The maximum single recommended adult dose of sumatriptan succinate injection is 6 mg injected subcutaneously.
-If side effects are dose limiting, then lower doses may be used (see Table 1).
+## 2.1 Dosing Information
 
-The maximum recommended dose that may be given in 24 hours is two 6-mg injections separated by at least 1 hour.
-Controlled clinical trials have failed to show that clear benefit is associated with the administration of a second 6-mg dose in patients who have failed to respond to a first injection.
+The maximum single recommended adult dose of sumatriptan succinate injection for the acute treatment of migraine or cluster headache is 6 mg injected subcutaneously.
+For the treatment of migraine, if side effects are dose limiting, lower doses (1 to 5 mg) may be used [see Clinical Studies (14.1)].
+For the treatment of cluster headache, the efficacy of lower doses has not been established.
+The maximum cumulative dose that may be given in 24 hours is 12 mg, two 6 mg injections separated by at least 1 hour.
+A second 6 mg dose should only be considered if some response to a first injection was observed.
 
-In patients receiving MAO inhibitors, decreased doses of sumatriptan should be considered (see WARNINGS: Concomitant Drug Use and CLINICAL PHARMACOLOGY: Drug Interactions, Monoamine Oxidase Inhibitors).
+## 2.2 Administration of Doses of Sumatriptan Succinate Injection Other than 6 mg
 
-Since the injection is intended to be given subcutaneously, intramuscular or intravascular delivery should be avoided.
-Patients should be directed to use injection sites with an adequate skin and subcutaneous thickness to accommodate the length of the needle.
-
-In patients receiving doses other than 4 or 6 mg, only the 6-mg single-dose vial dosage form should be used.
-Parenteral drug products should be inspected visually for particulate matter and discoloration before administration whenever solution and container permit.
+In patients receiving doses other than 6 mg, use the 6 mg single-dose vial.
+Visually inspect the vial for particulate matter and discoloration before administration.
+Do not use if particulates and discolorations are noted.

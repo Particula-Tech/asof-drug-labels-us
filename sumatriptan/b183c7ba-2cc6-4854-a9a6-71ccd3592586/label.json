@@ -3,14 +3,14 @@
     "ANDA079242"
   ],
   "inn": "sumatriptan",
-  "labeler": "APP Pharmaceuticals, LLC",
+  "labeler": "Fresenius Kabi USA, LLC",
   "package_ndcs": [
     "63323-273-01"
   ],
   "products": [
     {
       "form": "INJECTION",
-      "generic": "sumatriptan",
+      "generic": "sumatriptan succinate",
       "name": "Sumatriptan Succinate"
     }
   ],

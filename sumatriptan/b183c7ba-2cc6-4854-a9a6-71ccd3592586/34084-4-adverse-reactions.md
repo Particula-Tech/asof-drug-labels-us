@@ -1,237 +1,105 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-Serious cardiac events, including some that have been fatal, have occurred following the use of sumatriptan succinate injection or tablets.
-These events are extremely rare and most have been reported in patients with risk factors predictive of CAD.
-Events reported have included coronary artery vasospasm, transient myocardial ischemia, myocardial infarction, ventricular tachycardia, and ventricular fibrillation (see CONTRAINDICATIONS, WARNINGS: Risk of Myocardial Ischemia and/or Infarction and Other Adverse Cardiac Events, and PRECAUTIONS: General).
+The following adverse reactions are discussed in more detail in other sections of the labeling:
 
-Significant hypertensive episodes, including hypertensive crises, have been reported on rare occasions in patients with or without a history of hypertension (see WARNINGS: Increase in Blood Pressure).
+- Myocardial ischemia, myocardial infarction, and Prinzmetal’s angina [see Warnings and Precautions (5.1)]
+- Arrhythmias [see Warnings and Precautions (5.2)]
+- Chest, throat, neck, and/or jaw pain/tightness/pressure [see Warnings and Precautions (5.3)]
+- Cerebrovascular events [see Warnings and Precautions (5.4)]
+- Other vasospasm reactions [see Warnings and Precautions (5.5)]
+- Medication overuse headache [see Warnings and Precautions (5.6)]
+- Serotonin syndrome [see Warnings and Precautions (5.7)]
+- Increase in blood pressure [see Warnings and Precautions (5.8)]
+- Anaphylactic/anaphylactoid reactions [see Warnings and Precautions (5.9)]
+- Seizures [see Warnings and Precautions (5.10)]
 
-Among patients in clinical trials of subcutaneous sumatriptan succinate injection (N = 6,218), up to 3.5% of patients withdrew for reasons related to adverse events.
+## 6.1 Clinical Trials Experience
 
-## Incidence in Controlled Clinical Trials of Migraine Headache
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Table 4 lists adverse events that occurred in two large US, Phase III, placebo-controlled clinical trials in migraine patients following either a single 6-mg dose of sumatriptan succinate injection or placebo.
-Only events that occurred at a frequency of 2% or more in groups treated with sumatriptan succinate injection 6 mg and occurred at a frequency greater than the placebo group are included in Table 4.
+Migraine Headache: Table 1 lists adverse reactions that occurred in 2 US placebo-controlled clinical trials in migraine subjects [Studies 2 and 3, see Clinical Studies (14.1)] following either a single 6 mg dose of sumatriptan succinate injection or placebo.
+Only reactions that occurred at a frequency of 2% or more in groups treated with sumatriptan succinate injection 6 mg and that occurred at a frequency greater than the placebo group are included in Table 1.
 
-Table 4.
-Treatment-Emergent Adverse Experience Incidence in 2 Large Placebo-Controlled Migraine Clinical Trials: Events Reported by at Least 2% of Patients Treated With Sumatriptan Succinate Injection 6 mg*
+Table 1.
+Adverse Reactions Reported by at Least 2% of Subjects and at a Greater Frequency than Placebo in 2 Placebo-Controlled Migraine Clinical Trials (Studies 2 and 3)a
 
-|  | Percent of Patients Reporting |  |
+| Sumatriptan Succinate Injection 6 mg Subcutaneous (n = 547) | Placebo (n=370) |  |
 | --- | --- | --- |
-| Adverse Event | Sumatriptan Succinate Injection6 mg Subcutaneous(n = 547) | Placebo(n = 370) |
-| Atypical sensations | 42 | 9 |
-| Tingling | 14 | 3 |
-| Warm/hot sensation | 11 | 4 |
-| Burning sensation | 7 | <1 |
-| Feeling of heaviness | 7 | 1 |
-| Pressure sensation | 7 | 2 |
-| Feeling of tightness | 5 | <1 |
-| Numbness | 5 | 2 |
-| Feeling strange | 2 | <1 |
-| Tight feeling in head | 2 | <1 |
+| Adverse Reaction | Percent of Subjects Reporting |  |
+| Atypical sensations Tingling Warm/hot sensation Burning sensation Feeling of heaviness Pressure sensation Feeling of tightness Numbness Feeling strange Tight feeling in head | 42 14 11 7 7 7 5 5 2 2 | 9 3 4 < 1 1 2 < 1 2 < 1 < 1 |
 | Cardiovascular Flushing | 7 | 2 |
-| Chest discomfort Tightness in chest Pressure in chest | 532 | 1<1<1 |
-| Ear, nose, and throat Throat discomfort Discomfort: nasal cavity/sinuses | 32 | <1<1 |
-| Injection site reaction | 59 | 24 |
+| Chest discomfort Tightness in chest Pressure in chest | 5 3 2 | 1 < 1 < 1 |
+| Ear, nose, and throat Throat discomfort Discomfort: nasal cavity/sinuses | 3 2 | < 1 < 1 |
+| Injection site reactionb | 59 | 24 |
 | Miscellaneous Jaw discomfort | 2 | 0 |
-| Musculoskeletal Weakness Neck pain/stiffness Myalgia | 552 | <1<1<1 |
-| Neurological Dizziness/vertigo Drowsiness/sedation Headache | 1232 | 42<1 |
+| Musculoskeletal Weakness Neck pain/stiffness Myalgia | 5 5 2 | < 1 < 1 < 1 |
+| Neurological Dizziness/vertigo Drowsiness/sedation Headache | 12 3 2 | 4 2 < 1 |
 | Skin Sweating | 2 | 1 |
 
-*The sum of the percentages cited is greater than 100% because patients may experience more than 1 type of adverse event.
-Only events that occurred at a frequency of 2% or more in groups treated with sumatriptan succinate injection and occurred at a frequency greater than the placebo groups are included.
+a The sum of the percentages cited is greater than 100% because subjects may have experienced more than 1 type of adverse reaction.
+Only reactions that occurred at a frequency of 2% or more in groups treated with sumatriptan succinate injection and occurred at a frequency greater than the placebo groups are included.
 
-The incidence of adverse events in controlled clinical trials was not affected by gender or age of the patients.
-There were insufficient data to assess the impact of race on the incidence of adverse events.
+b Includes injection site pain, stinging/burning, swelling, erythema, bruising, bleeding.
 
-## Incidence in Controlled Trials of Cluster Headaches
+The incidence of adverse reactions in controlled clinical trials was not affected by gender or age of the subjects.
+There were insufficient data to assess the impact of race on the incidence of adverse reactions.
 
-In the controlled clinical trials assessing sumatriptan’s efficacy as a treatment for cluster headache, no new significant adverse events associated with the use of sumatriptan were detected that had not already been identified in association with the drug’s use in migraine.
+Cluster Headache: In the controlled clinical trials assessing the efficacy of sumatriptan succinate injection as a treatment for cluster headache [Studies 4 and 5, see Clinical Studies (14.2)], no new significant adverse reactions were detected that had not already been identified in trials of sumatriptan succinate in subjects with migraine.
 
-Overall, the frequency of adverse events reported in the studies of cluster headache were generally lower.
+Overall, the frequency of adverse reactions reported in the trials of cluster headache was generally lower than in the migraine trials.
 Exceptions include reports of paresthesia (5% sumatriptan succinate, 0% placebo), nausea and vomiting (4% sumatriptan succinate, 0% placebo), and bronchospasm (1% sumatriptan succinate, 0% placebo).
 
-## Other Events Observed in Association With the Administration of Sumatriptan Succinate Injection
+Other Adverse Reactions: In the paragraphs that follow, the frequencies of less commonly reported adverse reactions are presented.
+Reaction frequencies were calculated as the number of subjects reporting a reaction divided by the total number of subjects (N = 6,218) exposed to subcutaneous sumatriptan succinate injection.
+All reported reactions are included except those already listed in the previous table.
+Reactions are further classified within body system categories and enumerated in order of decreasing frequency using the following definitions: frequent are defined as those occurring in at least 1/100 subjects, infrequent are those occurring in 1/100 to 1/1,000 subjects, and rare are those occurring in fewer than 1/1,000 subjects.
 
-In the paragraphs that follow, the frequencies of less commonly reported adverse clinical events are presented.
-Because the reports include events observed in open and uncontrolled studies, the role of sumatriptan succinate injection in their causation cannot be reliably determined.
-Furthermore, variability associated with adverse event reporting, the terminology used to describe adverse events, etc., limit the value of the quantitative frequency estimates provided.
+Cardiovascular: Infrequent were hypertension, hypotension, bradycardia, tachycardia, palpitations, and syncope.
+Rare was arrhythmia.
 
-Event frequencies are calculated as the number of patients reporting an event divided by the total number of patients (N = 6,218) exposed to subcutaneous sumatriptan succinate injection.
-All reported events are included except those already listed in the previous table, those too general to be informative, and those not reasonably associated with the use of the drug.
-Events are further classified within body system categories and enumerated in order of decreasing frequency using the following definitions: frequent adverse events are defined as those occurring in at least 1/100 patients, infrequent adverse events are those occurring in 1/100 to 1/1,000 patients, and rare adverse events are those occurring in fewer than 1/1,000 patients.
+Gastrointestinal: Frequent was abdominal discomfort.
 
-Cardiovascular
+Musculoskeletal: Frequent were muscle cramps.
 
-Infrequent were hypertension, hypotension, bradycardia, tachycardia, palpitations, pulsating sensations, various transient ECG changes (nonspecific ST or T wave changes, prolongation of PR or QTc intervals, sinus arrhythmia, nonsustained ventricular premature beats, isolated junctional ectopic beats, atrial ectopic beats, delayed activation of the right ventricle), and syncope.
-Rare were pallor, arrhythmia, abnormal pulse, vasodilatation, and Raynaud syndrome.
+Neurological: Frequent was anxiety.
+Infrequent were mental confusion, euphoria, agitation, tremor.
+Rare were myoclonia, sleep disturbance, and dystonia.
 
-Endocrine and Metabolic
+Respiratory: Infrequent was dyspnea.
 
-Infrequent was thirst.
-Rare were polydipsia and dehydration.
+Skin: Infrequent were erythema, pruritus, and skin rashes.
 
-Eye
+Miscellaneous: Infrequent was “serotonin agonist effect”.
 
-Frequent was vision alterations.
-Infrequent was irritation of the eye.
-
-Gastrointestinal
-
-Frequent were abdominal discomfort and dysphagia.
-Infrequent were gastroesophageal reflux and diarrhea.
-Rare were peptic ulcer, retching, flatulence/eructation, and gallstones.
-
-Musculoskeletal
-
-Frequent were muscle cramps.
-Infrequent were various joint disturbances (pain, stiffness, swelling, ache).
-Rare were muscle stiffness, need to flex calf muscles, backache, muscle tiredness, and swelling of the extremities.
-
-Neurological
-
-Frequent was anxiety.
-Infrequent were mental confusion, euphoria, agitation, relaxation, chills, sensation of lightness, tremor, shivering, disturbances of taste, prickling sensations, paresthesia, stinging sensations, facial pain, photophobia, and lacrimation.
-Rare were transient hemiplegia, hysteria, globus hystericus, intoxication, depression, myoclonia, monoplegia/diplegia, sleep disturbance, difficulties in concentration, disturbances of smell, hyperesthesia, dysesthesia, simultaneous hot and cold sensations, tickling sensations, dysarthria, yawning, reduced appetite, hunger, and dystonia.
-
-Respiratory
-
-Infrequent was dyspnea.
-Rare were influenza, diseases of the lower respiratory tract, and hiccoughs.
-
-Skin
-
-Infrequent were erythema, pruritus, and skin rashes and eruptions.
-Rare was skin tenderness.
-
-Urogenital
-
-Rare were dysuria, frequency, dysmenorrhea, and renal calculus.
-
-Miscellaneous
-
-Infrequent were miscellaneous laboratory abnormalities, including minor disturbances in liver function tests, “serotonin agonist effect,” and hypersensitivity to various agents.
-Rare was fever.
-
-## Other Events Observed in the Clinical Development of Sumatriptan Succinate
-
-The following adverse events occurred in clinical trials with sumatriptan succinate tablets and sumatriptan succinate nasal spray.
-Because the reports include events observed in open and uncontrolled studies, the role of sumatriptan succinate in their causation cannot be reliably determined.
+Adverse Events Observed with Other Formulations of Sumatriptan Succinate: The following adverse events occurred in clinical trials with sumatriptan succinate tablets and sumatriptan succinate nasal spray.
+Because the reports include events observed in open and uncontrolled trials, the role of sumatriptan succinate in their causation cannot be reliably determined.
 All reported events are included except those already listed, those too general to be informative, and those not reasonably associated with the use of the drug.
 
-Breasts
+Cardiovascular: Angina, cerebrovascular lesion, heart block, peripheral cyanosis, phlebitis, thrombosis.
 
-Breast swelling, cysts, disorder of breasts, lumps, masses of breasts, nipple discharge, primary malignant breast neoplasm, and tenderness.
+Gastrointestinal: Abdominal distention and colitis.
 
-Cardiovascular
+Neurological: Convulsions, hallucinations, syncope, suicide, and twitching.
 
-Abdominal aortic aneurysm, angina, atherosclerosis, cerebral ischemia, cerebrovascular lesion, heart block, peripheral cyanosis, phlebitis, thrombosis, and transient myocardial ischemia.
+Miscellaneous: Edema, hypersensitivity, swelling of extremities, and swelling of face.
 
-Ear, Nose, and Throat
+## 6.2 Postmarketing Experience
 
-Allergic rhinitis; disorder of nasal cavity/sinuses; ear, nose, and throat hemorrhage; ear infection; external otitis; feeling of fullness in the ear(s); hearing disturbances; hearing loss; Meniere disease; nasal inflammation; otalgia; sensitivity to noise; sinusitis; tinnitus; and upper respiratory inflammation.
+The following adverse reactions have been identified during postapproval use of sumatriptan succinate tablets, sumatriptan succinate nasal spray, and sumatriptan succinate injection.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+These reactions have been chosen for inclusion due to either their seriousness, frequency of reporting, or causal connection to sumatriptan succinate or a combination of these factors.
 
-Endocrine and Metabolic
+Blood: Hemolytic anemia, pancytopenia, thrombocytopenia.
 
-Elevated thyrotropin stimulating hormone (TSH) levels; endocrine cysts, lumps, and masses; fluid disturbances; galactorrhea; hyperglycemia; hypoglycemia; hypothyroidism; weight gain; and weight loss.
+Ear, Nose, and Throat: Deafness.
 
-Eye
+Eye: Ischemic optic neuropathy, retinal artery occlusion, retinal vein thrombosis.
 
-Accommodation disorders, blindness and low vision, conjunctivitis, disorders of sclera, external ocular muscle disorders, eye edema and swelling, eye hemorrhage, eye itching, eye pain, keratitis, mydriasis, and visual disturbances.
+Neurological: Central nervous system vasculitis, cerebrovascular accident, serotonin syndrome, subarachnoid hemorrhage.
 
-Gastrointestinal
+Non-Site Specific: Angioedema, cyanosis, temporal arteritis.
 
-Abdominal distention, colitis, constipation, dental pain, dyspeptic symptoms, feelings of gastrointestinal pressure, gastric symptoms, gastritis, gastroenteritis, gastrointestinal bleeding, gastrointestinal pain, hematemesis, hypersalivation, hyposalivation, intestinal obstruction, melena, nausea and/or vomiting, oral itching and irritation, pancreatitis, salivary gland swelling, and swallowing disorders.
+Skin: Exacerbation of sunburn, hypersensitivity reactions (allergic vasculitis, erythema, pruritus, rash, shortness of breath, urticaria), photosensitivity.
+Following subcutaneous administration of sumatriptan succinate, pain, redness, stinging, induration, swelling, contusion, subcutaneous bleeding, and, on rare occasions, lipoatrophy (depression in the skin) or lipohypertrophy (enlargement or thickening of tissue) have been reported.
 
-Hematological Disorders
-
-Anemia.
-
-Mouth and Teeth
-
-Disorder of mouth and tongue (e.g., burning of tongue, numbness of tongue, dry mouth).
-
-Musculoskeletal
-
-Acquired musculoskeletal deformity, arthralgia and articular rheumatitis, arthritis, intervertebral disc disorder, muscle atrophy, muscle tightness and rigidity, musculoskeletal inflammation, and tetany.
-
-Neurological
-
-Apathy, aggressiveness, bad/unusual taste, bradylogia, cluster headache, convulsions, depressive disorders, detachment, disturbance of emotions, drug abuse, facial paralysis, hallucinations, heat sensitivity, incoordination, increased alertness, memory disturbance, migraine, motor dysfunction, neoplasm of pituitary, neuralgia, neurotic disorders, paralysis, personality change, phobia, phonophobia, psychomotor disorders, radiculopathy, raised intracranial pressure, rigidity, stress, syncope, suicide, and twitching.
-
-Respiratory
-
-Asthma, breathing disorders, bronchitis, cough, and lower respiratory tract infection.
-
-Skin
-
-Dry/scaly skin, eczema, herpes, seborrheic dermatitis, skin nodules, tightness of skin, and wrinkling of skin.
-
-Urogenital
-
-Abnormal menstrual cycle, abortion, bladder inflammation, endometriosis, hematuria, increased urination, inflammation of fallopian tubes, intermenstrual bleeding, menstruation symptoms, micturition disorders, urethritis, and urinary infections.
-
-Miscellaneous
-
-Contusions, difficulty in walking, edema, hematoma, hypersensitivity, fever, fluid retention, lymphadenopathy, overdose, speech disturbance, swelling of extremities, swelling of face, and voice disturbances.
-
-Pain and Other Pressure Sensations
-
-Chest pain and/or heaviness, neck/throat/jaw pain/tightness/pressure, and pain (location specified).
-
-## Postmarketing Experience (Reports for Subcutaneous or Oral Sumtriptan)
-
-The following section enumerates potentially important adverse events that have occurred in clinical practice and that have been reported spontaneously to various surveillance systems.
-The events enumerated represent reports arising from both domestic and nondomestic use of oral or subcutaneous dosage forms of sumatriptan.
-The events enumerated include all except those already listed in the ADVERSE REACTIONS section above or those too general to be informative.
-Because the reports cite events reported spontaneously from worldwide postmarketing experience, frequency of events and the role of sumatriptan succinate injection in their causation cannot be reliably determined.
-It is assumed, however, that systemic reactions following sumatriptan use are likely to be similar regardless of route of administration.
-
-Blood
-
-Hemolytic anemia, pancytopenia, thrombocytopenia.
-
-Cardiovascular
-
-Atrial fibrillation, cardiomyopathy, colonic ischemia (see WARNINGS), Prinzmetal variant angina, pulmonary embolism, shock, thrombophlebitis.
-
-Ear, Nose, and Throat
-
-Deafness.
-
-Eye
-
-Ischemic optic neuropathy, retinal artery occlusion, retinal vein thrombosis, loss of vision.
-
-Gastrointestinal
-
-Ischemic colitis with rectal bleeding (see WARNINGS), xerostomia.
-
-Hepatic
-
-Elevated liver function tests.
-
-Neurological
-
-Central nervous system vasculitis, cerebrovascular accident, dysphasia, serotonin syndrome, subarachnoid hemorrhage.
-
-Non-Site Specific
-
-Angioneurotic edema, cyanosis, death (see WARNINGS), temporal arteritis.
-
-Psychiatry
-
-Panic disorder.
-
-Respiratory
-
-Bronchospasm in patients with and without a history of asthma.
-
-Skin
-
-Exacerbation of sunburn, hypersensitivity reactions (allergic vasculitis, erythema, pruritus, rash, shortness of breath, urticaria; in addition, severe anaphylaxis/anaphylactoid reactions have been reported [see WARNINGS: Hypersensitivity]), photosensitivity.
-Following subcutaneous administration of sumatriptan, pain, redness, stinging, induration, swelling, contusion, subcutaneous bleeding, and, on rare occasions, lipoatrophy (depression in the skin) or lipohypertrophy (enlargement or thickening of tissue) have been reported.
-
-Urogenital
-
-Acute renal failure.
+Urogenital: Acute renal failure.
