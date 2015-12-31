@@ -16,6 +16,8 @@ NDC 69097-127-05 Bottle of 90
 
 NDC 69097-127-15 Bottle of 1000
 
+NDC 69097-127-69 Bottle of 10000
+
 10 mg Tablets
 
 Amlodipine Besylate Tablets, USP - 10 mg (Amlodipine besylate USP equivalent to 10 mg of Amlodipine per tablet) are supplied as white to off white round tablets with "128" debossed on one side and "C" on other side and supplied as follows:
@@ -23,6 +25,8 @@ Amlodipine Besylate Tablets, USP - 10 mg (Amlodipine besylate USP equivalent to 
 NDC 69097-128-05 Bottle of 90
 
 NDC 69097-128-15 Bottle of 1000
+
+NDC 69097-128-69 Bottle of 10000
 
 Storage
 
@@ -40,4 +44,4 @@ Cipla USA, Inc.
 
 9100 S. Dadeland Blvd., Suite 1500 Miami, FL 33156
 
-Revised: 5/2015
+Revised: 12/2015
