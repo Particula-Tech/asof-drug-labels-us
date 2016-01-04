@@ -1,8 +1,8 @@
-# 17. PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
-[See FDA-Approved Patient Labeling (17.2).]
+See FDA-Approved patient labeling (Patient Information).
 
-## 17.1 Information for Patients
+Information for Patients
 
 - Patients should be advised to take montelukast sodium daily as prescribed, even when they are asymptomatic, as well as during periods of worsening asthma, and to contact their physicians if their asthma is not well controlled.
 - Patients should be advised that oral montelukast sodium is not for the treatment of acute asthma attacks.
@@ -15,12 +15,6 @@
 - Patients with known aspirin sensitivity should be advised to continue avoidance of aspirin or non-steroidal anti-inflammatory agents while taking montelukast sodium.
 - Phenylketonuric patients should be informed that the 4-mg and 5-mg chewable tablets contain phenylalanine (a component of aspartame).
 
-## 17.2 FDA-Approved Patient Labeling
-
-See the full patient prescribing information for montelukast sodium.
-
-________________________________________________________________________
-
 Manufactured by:
 
 TORRENT PHARMACEUTICALS LTD., Indrad-382 721, Dist.
@@ -30,13 +24,13 @@ For:
 
 TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920.
 
-8045016 Revised January 2014
+8055056 Revised May 2015
 
 Patient Information
 
-Montelukast Sodium Tablets and
+Montelukast Sodium (MON-te-LOO-kast SO-dee-um) Tablets and
 
-Montelukast Sodium Chewable Tablets
+Montelukast Sodium (MON-te-LOO-kast SO-dee-um) Chewable Tablets
 
 Read the Patient Information Leaflet that comes with montelukast sodium before you start taking it and each time you get a refill.
 There may be new information.
@@ -53,7 +47,7 @@ Montelukast sodium is used to:
 1. Prevent asthma attacks and for the long-term treatment of asthma in adults and children ages 2 years and older.
    Do not take montelukast sodium if you need relief right away for a sudden asthma attack.
    If you get an asthma attack, you should follow the instructions your healthcare provider gave you for treating asthma attacks.
-2. Prevent exercise-induced asthma in people 15 years of age and older.
+2. Prevent exercise-induced asthma in people 6 years of age and older.
 3. Help control the symptoms of allergic rhinitis (sneezing, stuffy nose, runny nose, itching of the nose).
    Montelukast sodium is used to treat:
 
@@ -105,7 +99,7 @@ For adults and children 2 years of age and older with asthma:
 - Always have your rescue inhaler medicine with you for asthma attacks.
 - Do not stop taking or lower the dose of your other asthma medicines unless your healthcare provider tells you to.
 
-For patients 15 years of age and older for the prevention of exercise-induced asthma:
+For patients 6 years of age and older for the prevention of exercise-induced asthma:
 
 - Take montelukast sodium at least 2 hours before exercise.
 - Always have your rescue inhaler medicine with you for asthma attacks.
@@ -172,6 +166,7 @@ Other side effects with montelukast sodium include:
 - hepatitis
 - bruising, rash, severe skin reactions (erythema multiforme, Stevens-Johnson syndrome/toxic epidermal necrolysis) that may occur without warning
 - joint pain, muscle aches and muscle cramps
+- bedwetting in children
 - tiredness, swelling
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
@@ -212,9 +207,6 @@ Inactive ingredients:
 
 People with Phenylketonuria: Montelukast sodium 4-mg chewable tablets contain 0.168 mg of phenylalanine, and montelukast sodium 5-mg chewable tablets contain 0.210 mg of phenylalanine.
 
-Pediatric use information for patients ages 6 to 14 years of age for prevention of exercise-induced asthma is approved for Merck Sharp & Dohme Corp's montelukast tablet products.
-However, due to Merck Sharp & Dohme Corp's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
-
 Manufactured by:
 
 TORRENT PHARMACEUTICALS LTD., Indrad-382 721, Dist.
@@ -224,4 +216,4 @@ For:
 
 TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920.
 
-8045017 Revised January 2014
+8055057 Revised May 2015

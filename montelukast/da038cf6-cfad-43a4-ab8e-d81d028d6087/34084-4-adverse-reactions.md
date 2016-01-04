@@ -1,4 +1,4 @@
-# 6. ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 ## 6.1 Clinical Trials Experience
 
@@ -12,7 +12,7 @@ Adults and Adolescents 15 Years of Age and Older with Asthma
 Montelukast sodium has been evaluated for safety in approximately 2950 adult and adolescent patients 15 years of age and older in clinical trials.
 In placebo-controlled clinical trials, the following adverse experiences reported with montelukast sodium occurred in greater than or equal to 1% of patients and at an incidence greater than that in patients treated with placebo:
 
-Table 1: Adverse Experiences Occurring in ≥1% of Patients with an Incidence Greater than that in Patients Treated with Placebo
+Table 1: Adverse Experiences Occurring in ≥1% of Patientswith an Incidence Greater than that in Patients Treated with Placebo
 
 |  | Montelukast 10 mg/day (%) (n=1955) | Placebo (%) (n=1180) |
 | --- | --- | --- |
@@ -56,8 +56,7 @@ In pediatric patients 6 to 14 years of age receiving montelukast sodium, the fol
 The frequency of less common adverse events was comparable between montelukast sodium and placebo.
 With prolonged treatment, the adverse experience profile did not significantly change.
 
-Pediatric use information for patients ages 6 to 14 years of age for acute prevention of exercise-induced bronchoconstriction (EIB) is approved for Merck Sharp & Dohme Corp's montelukast tablet products.
-However, due to Merck Sharp & Dohme Corp's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+The safety profile of montelukast sodium, when administered as a single dose for prevention of EIB in pediatric patients 6 years of age and older, was consistent with the safety profile previously described for montelukast sodium.
 
 In studies evaluating growth rate, the safety profile in these pediatric patients was consistent with the safety profile previously described for montelukast sodium.
 In a 56-week, double-blind study evaluating growth rate in pediatric patients 6 to 8 years of age receiving montelukast sodium, the following events not previously observed with the use of montelukast sodium in this age group occurred with a frequency ≥2% and more frequently than in pediatric patients who received placebo: headache, rhinitis (infective), varicella, gastroenteritis, atopic dermatitis, acute bronchitis, tooth infection, skin infection, and myopia.
@@ -118,6 +117,8 @@ Most of these occurred in combination with other confounding factors, such as us
 Skin and subcutaneous tissue disorders: angioedema, bruising, erythema multiforme, erythema nodosum, pruritus, Stevens-Johnson syndrome/toxic epidermal necrolysis, urticaria.
 
 Musculoskeletal and connective tissue disorders: arthralgia, myalgia including muscle cramps.
+
+Renal and urinary disorders: enuresis in children
 
 General disorders and administration site conditions: edema.
 

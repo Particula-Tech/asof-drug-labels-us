@@ -1,4 +1,4 @@
-# 10. OVERDOSAGE
+# 10 OVERDOSAGE
 
 No specific information is available on the treatment of overdosage with montelukast sodium.
 In chronic asthma studies, montelukast has been administered at doses up to 200 mg/day to adult patients for 22 weeks and, in short-term studies, up to 900 mg/day to patients for approximately a week without clinically important adverse experiences.

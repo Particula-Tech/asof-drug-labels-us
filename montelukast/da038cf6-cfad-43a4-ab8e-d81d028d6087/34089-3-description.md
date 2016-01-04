@@ -1,4 +1,4 @@
-# 11. DESCRIPTION
+# 11 DESCRIPTION
 
 Montelukast sodium, the active ingredient in montelukast sodium tablets, is a selective and orally active leukotriene receptor antagonist that inhibits the cysteinyl leukotriene CysLT1 receptor.
 

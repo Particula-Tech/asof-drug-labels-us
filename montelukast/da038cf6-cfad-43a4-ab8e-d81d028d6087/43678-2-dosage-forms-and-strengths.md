@@ -1,4 +1,4 @@
-# 3. DOSAGE FORMS AND STRENGTHS
+# 3 DOSAGE FORMS AND STRENGTHS
 
 - Montelukast sodium tablets, 10 mg, are light brown colored, round, biconvex film coated tablets debossed with "1081" on one side and "10 MG" on other side.
 
