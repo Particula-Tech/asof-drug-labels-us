@@ -8,7 +8,7 @@ Impulse transmission is re-established by the formation of new nerve endings.
 
 ## 12.2 Pharmacodynamics
 
-In patients, recovery from paralysis after intramuscular injection normally occurs within 3-4 months as nerve terminals sprout and reconnect with the muscle endplate.
+The return of increased muscle tone following injection typically occurs within 3 to 4 months.
 
 ## 12.3 Pharmacokinetics
 

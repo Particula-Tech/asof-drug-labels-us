@@ -8,9 +8,9 @@ Provide a copy of the Medication Guide and review the contents with the patient.
 
 Patients or caregivers should be advised to seek immediate medical care if swallowing, speech or respiratory disorders arise.
 
-Previously immobile or sedentary patients should be reminded to gradually resume activities following the injection of XEOMIN for the treatment of cervical dystonia and blepharospasm.
+Previously immobile or sedentary patients should be reminded to gradually resume activities following the injection of XEOMIN.
 
-Patients should be informed that injections of XEOMIN may cause dyspnea, or mild to severe dysphagia, with the risk of aspiration [see Boxed Warning and Warnings and Precautions (5.1, 5.4)].
+Patients should be informed that injections of XEOMIN may cause dyspnea, or mild to severe dysphagia, with the risk of aspiration [see Boxed Warning and Warnings and Precautions (5.1, 5.3)].
 
 Patients should be counseled that if loss of strength, muscle weakness, blurred vision, or drooping eyelids occur, they should avoid driving a car or engaging in other potentially hazardous activities.
 
