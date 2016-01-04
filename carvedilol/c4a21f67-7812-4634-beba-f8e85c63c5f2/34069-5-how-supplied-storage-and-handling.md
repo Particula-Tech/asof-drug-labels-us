@@ -15,6 +15,6 @@ The tablets are available in the following strengths:
 - •12.5 mg 60’s: NDC 68462-164-60 100’s: NDC 68462-164-01 500’s: NDC 68462-164-05 1000’s: NDC 68462-164-10
 - •25 mg 60’s: NDC 68462-165-60 100’s: NDC 68462-165-01 500’s: NDC 68462-165-05 1000’s: NDC 68462-165-10
 
-Store below 30°C (86°F).
+Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 Protect from moisture.
-Dispense in a tight, light-resistant container.
+Dispense in a tight container.

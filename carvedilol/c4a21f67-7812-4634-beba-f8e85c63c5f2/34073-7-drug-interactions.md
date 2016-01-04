@@ -9,15 +9,15 @@ Retrospective analysis of side effects in clinical trials showed that poor 2D6 m
 
 Patients taking both agents with β-blocking properties and a drug that can deplete catecholamines (e.g., reserpine and monoamine oxidase inhibitors) should be observed closely for signs of hypotension and/or severe bradycardia.
 
-Concomitant administration of clonidine with agents with β-blocking properties may potentiate blood-pressure and heart rate-lowering effects.
+Concomitant administration of clonidine with agents with β-blocking properties may potentiate blood-pressure and heart-rate-lowering effects.
 When concomitant treatment with agents with β-blocking properties and clonidine is to be terminated, the β-blocking agent should be discontinued first.
 Clonidine therapy can then be discontinued several days later by gradually decreasing the dosage.
 
 ## 7.3 Cyclosporine
 
-Modest increases in mean trough cyclosporine concentrations were observed following initiation of carvedilol treatment in 21 renal transplant patients suffering from chronic vascular rejection.
-In about 30% of patients, the dose of cyclosporine had to be reduced in order to maintain cyclosporine concentrations within the therapeutic range, while in the remainder no adjustment was needed.
-On the average for the group, the dose of cyclosporine was reduced about 20% in these patients.
+Modest increases in mean trough cyclosporine concentrations were observed following initiation of carvedilol treatment in 21 renal transplant subjects suffering from chronic vascular rejection.
+In about 30% of subjects, the dose of cyclosporine had to be reduced in order to maintain cyclosporine concentrations within the therapeutic range, while in the remainder no adjustment was needed.
+On the average for the group, the dose of cyclosporine was reduced about 20% in these subjects.
 Due to wide interindividual variability in the dose adjustment required, it is recommended that cyclosporine concentrations be monitored closely after initiation of carvedilol therapy and that the dose of cyclosporine be adjusted as appropriate.
 
 ## 7.4 Digitalis Glycosides
@@ -30,12 +30,11 @@ Therefore, increased monitoring of digoxin is recommended when initiating, adjus
 ## 7.5 Inducers/Inhibitors of Hepatic Metabolism
 
 Rifampin reduced plasma concentrations of carvedilol by about 70% [see Clinical Pharmacology (12.5)].
-Cimetidine increased AUC by about 30% but caused no change in Cmax [see Clinical Pharmacology (12.5)].
+Cimetidine increased AUC by about 30% but caused no change in Cmax[see Clinical Pharmacology (12.5)].
 
 ## 7.6 Amiodarone
 
-Amiodarone, and its metabolite desethyl amiodarone, inhibitors of CYP2C9 and P glycoprotein, increased concentrations of the S(-) enantiomer of carvedilol by at least 2-fold [see Clinical Pharmacology (12.5)].
-
+Amiodarone, and its metabolite desethyl amiodarone, inhibitors of CYP2C9 and P-glycoprotein, increased concentrations of the S(-) enantiomer of carvedilol by at least 2 fold [see Clinical Pharmacology (12.5)].
 The concomitant administration of amiodarone or other CYP2C9 inhibitors such as fluconazole with carvedilol may enhance the β-blocking properties of carvedilol resulting in further slowing of the heart rate or cardiac conduction.
 Patients should be observed for signs of bradycardia or heart block, particularly when one agent is added to pre-existing treatment with the other.
 
@@ -51,4 +50,4 @@ Therefore, in patients taking insulin or oral hypoglycemics, regular monitoring 
 
 ## 7.9 Anesthesia
 
-If treatment with carvedilol is to be continued perioperatively, particular care should be taken when anesthetic agents which depress myocardial function, such as ether, cyclopropane, and trichloroethylene, are used [see Overdosage (10)].
+If treatment with carvedilol is to be continued perioperatively, particular care should be taken when anesthetic agents that depress myocardial function, such as ether, cyclopropane, and trichloroethylene, are used [see Overdosage (10)].
