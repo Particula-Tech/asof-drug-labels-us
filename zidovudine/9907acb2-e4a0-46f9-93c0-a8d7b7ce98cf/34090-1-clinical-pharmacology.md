@@ -68,7 +68,7 @@ In neonates less than or equal to 14 days old, bioavailability was greater, tota
 For dose recommendations for neonates [see Dosage and Administration (2.3)].
 
 Table 9.
-Zidovudine Pharmacokinetic Parameters in Pediatric Patientsa
+Zidovudine Pharmacokinetic Parameters in Pediatric Subjectsa
 
 | Parameter | Birth to 14 Days | Aged 14 Days to 3 Months | Aged 3 Months to 12 Years |
 | --- | --- | --- | --- |

@@ -39,4 +39,4 @@ Patients should be advised to avoid doing things that can spread HIV-1 infection
 Instruct patients that if they miss a dose, they should just take their next dose at the usual time.
 Patients should not double their next dose.
 COMBIVIR, EPIVIR, and TRIZIVIR are registered trademarks of the ViiV Healthcare group of companies.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 02/2015
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 090, India Revised: 11/2015
