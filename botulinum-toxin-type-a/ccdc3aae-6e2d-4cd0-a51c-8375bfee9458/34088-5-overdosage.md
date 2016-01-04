@@ -2,13 +2,13 @@
 
 Excessive doses of XEOMIN may be expected to produce neuromuscular weakness with a variety of symptoms.
 Respiratory support may be required where excessive doses cause paralysis of the respiratory muscles.
-In the event of overdose, the patient should be medically monitored for symptoms of excessive muscle weakness or muscle paralysis [See Warnings and Precautions (5.1, 5.4)].
+In the event of overdose, the patient should be medically monitored for symptoms of excessive muscle weakness or muscle paralysis [See Warnings and Precautions (5.1, 5.3)].
 Symptomatic treatment may be necessary.
 
 Symptoms of overdose are not likely to be present immediately following injection.
 Should accidental injection or oral ingestion occur, the person should be medically supervised for several weeks for signs and symptoms of excessive muscle weakness or paralysis.
 
-There is no significant information regarding overdose from clinical studies in cervical dystonia and blepharospasm.
+There is no significant information regarding overdose from clinical studies of XEOMIN.
 
 In the event of overdose, antitoxin raised against botulinum toxin is available from the Centers for Disease Control and Prevention (CDC) in Atlanta, GA.
 However, the antitoxin will not reverse any botulinum toxin-induced effects already apparent by the time of antitoxin administration.

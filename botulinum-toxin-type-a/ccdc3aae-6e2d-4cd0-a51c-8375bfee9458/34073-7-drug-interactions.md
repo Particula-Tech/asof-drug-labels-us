@@ -2,7 +2,7 @@
 
 No formal drug interaction studies have been conducted with XEOMIN.
 
-Coadministration of XEOMIN and aminoglycoside antibiotics or other agents interfering with neuromuscular transmission, e.g., tubocurarine-type muscle relaxants, should only be performed with caution as these agents may potentiate the effect of the toxin.
+Co-administration of XEOMIN and aminoglycoside antibiotics or other agents interfering with neuromuscular transmission, e.g., tubocurarine-type muscle relaxants, should only be performed with caution as these agents may potentiate the effect of the toxin.
 
 Use of anticholinergic drugs after administration of XEOMIN may potentiate systemic anticholinergic effects.
 
