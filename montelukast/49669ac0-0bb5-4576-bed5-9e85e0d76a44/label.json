@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA202096",
+    "ANDA202468"
+  ],
+  "inn": "montelukast",
+  "labeler": "Citron Pharma LLC",
+  "package_ndcs": [
+    "57237-212-30",
+    "57237-212-90",
+    "57237-213-30",
+    "57237-213-90",
+    "57237-255-30",
+    "57237-255-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, CHEWABLE",
+      "generic": "montelukast sodium",
+      "name": "Montelukast Sodium"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "montelukast sodium",
+      "name": "Montelukast Sodium"
+    }
+  ],
+  "setid": "49669ac0-0bb5-4576-bed5-9e85e0d76a44",
+  "source": "dailymed"
+}
