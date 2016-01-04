@@ -9,4 +9,4 @@ See FDA-Approved Medication Guide
 - Advise patients to immediately report and seek care for diarrhea that does not improve.
   This may be a sign of Clostridium difficile associated diarrhea [see Warnings and Precautions (5.5)].
 
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt) AP-509302, INDIA Revised: 01/2015
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt)-509302 India Revised: 09/2015
