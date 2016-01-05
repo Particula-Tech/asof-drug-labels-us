@@ -1,4 +1,4 @@
-# 14 CLINICAL STUDIES
+# 14. CLINICAL STUDIES
 
 The ability of Renagel to lower serum phosphorus in CKD patients on dialysis was demonstrated in six clinical trials: one double-blind placebo controlled 2-week study (Renagel N=24); two open-label uncontrolled 8-week studies (Renagel N=220) and three active-controlled open-label studies with treatment durations of 8 to 52 weeks (Renagel N=256).
 Three of the active-controlled studies are described here.
@@ -21,15 +21,12 @@ Mean Serum Phosphorus (mg/dL) at Baseline and Endpoint
 | --- | --- | --- |
 | Baseline at End of Washout | 8.4 | 8.0 |
 | Endpoint | 6.4 | 5.9 |
-| Change from Baseline at Endpoint(95% Confidence Interval) | -2.0p<0.0001, within treatment group comparison(-2.5, -1.5) | -2.1(-2.6, -1.7) |
+| Change from Baseline at Endpoint (95% Confidence Interval) | -2.0p<0.0001, within treatment group comparison (-2.5, -1.5) | -2.1 (-2.6, -1.7) |
 
 The distribution of responses is shown in Figure 2.
 The distributions are similar for sevelamer hydrochloride and active control.
 The median response is a reduction of about 2 mg/dL in both groups.
 About 50% of subjects have reductions between 1 and 3 mg/dL.
-
-Figure 2.
-Percentage of patients (Y-axis) attaining a phosphorus reduction from baseline (mg/dL) at least as great as the value of the X-axis.
 
 Average daily Renagel dose at the end of treatment was 4.9 g (range of 0.0 to 12.6 g).
 
@@ -44,8 +41,12 @@ Mean Serum Phosphorus (mg/dL) and Ion Product at Baseline and Change from Baseli
 
 |  | Renagel® (N=94) | Active-Control (N=98) |
 | --- | --- | --- |
-| PhosphorusBaselineChange from Baseline at Endpoint | 7.5-2.1 | 7.3-1.8 |
-| Ca x Phosphorus Ion ProductBaselineChange from Baseline at Endpoint | 70.5 -19.4 | 68.4 -14.2 |
+| Phosphorus |  |  |
+| Baseline | 7.5 | 7.3 |
+| Change from Baseline at Endpoint | -2.1 | -1.8 |
+| Ca × Phosphorus Ion Product |  |  |
+| Baseline | 70.5 | 68.4 |
+| Change from Baseline at Endpoint | -19.4 | -14.2 |
 
 Sixty-one percent of Renagel patients and 73% of the control patients completed the full 52 weeks of treatment.
 
@@ -58,5 +59,5 @@ Average daily Renagel dose at the end of treatment was 6.5 g (range of 0.8 to 13
 
 ## 14.3 Active-Control, Parallel Study in Peritoneal Dialysis Patients
 
-One hundred and forty-three patients on peritoneal dialysis who were hyperphosphatemic (serum phosphorus > 5.5 mg/dL) following a two-week phosphate binder washout period were randomized to receive Renagel® (N=97) or active-control (N=46) open label for 12 weeks.
+One hundred and forty-three patients on peritoneal dialysis, who were hyperphosphatemic (serum phosphorus > 5.5 mg/dL) following a two-week phosphate binder washout period, were randomized to receive Renagel® (N=97) or active-control (N=46) open label for 12 weeks.
 Average daily Renagel dose at the end of treatment was 5.9 g (range 0.8 to 14.3 g). There were statistically significant changes in serum phosphorus (p<0.001) for Renagel (-1.6 mg/dL from baseline of 7.5 mg/dL), similar to the active-control.

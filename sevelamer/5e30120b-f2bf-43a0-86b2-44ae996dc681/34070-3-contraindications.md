@@ -1,3 +1,3 @@
-# 4 CONTRAINDICATIONS
+# 4. CONTRAINDICATIONS
 
 Renagel is contraindicated in patients with bowel obstruction.

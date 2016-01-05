@@ -1,4 +1,4 @@
-# 7 DRUG INTERACTIONS
+# 7. DRUG INTERACTIONS
 
 There are no empirical data on avoiding drug interactions between Renagel® and most concomitant oral drugs.
 For oral medication where a reduction in the bioavailability of that medication would have a clinically significant effect on its safety or efficacy (e.g., cyclosporine, tacrolimus, levothyroxine), consider separation of the timing of the administration of the two drugs [see Clinical Pharmacology (12.3)].
