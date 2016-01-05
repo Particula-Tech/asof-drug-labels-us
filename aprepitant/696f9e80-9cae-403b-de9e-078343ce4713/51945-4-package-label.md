@@ -83,3 +83,23 @@ Keep this and all drugs out of the reach of children.
 Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA Manuf. by: Alkermes Pharma Ireland Limited, Athlone, Ireland Formulated in Ireland
 
 1 Capsule
+
+# PRINCIPAL DISPLAY PANEL - Kit Carton
+
+NDC 0006-3066-03
+
+EMEND® (aprepitant) for oral suspension
+
+125 mg
+
+For Oral Administration Only
+
+Single-Dose Kit
+
+Discard Unused Portion
+
+This product must be reconstituted and dose must be measured by a healthcare provider.
+
+See package insert and accompanying directions.
+
+Rx only

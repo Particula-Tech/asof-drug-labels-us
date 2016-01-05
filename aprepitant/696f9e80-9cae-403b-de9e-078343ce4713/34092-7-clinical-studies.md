@@ -5,7 +5,7 @@
 Oral administration of EMEND in combination with ondansetron and dexamethasone (EMEND regimen) has been shown to prevent acute and delayed nausea and vomiting associated with HEC including high-dose cisplatin, and nausea and vomiting associated with MEC.
 
 In Studies 1 and 2, both multicenter, randomized, parallel, double-blind, controlled clinical studies in adults, EMEND in combination with ondansetron and dexamethasone was compared with standard therapy (ondansetron and dexamethasone alone) in patients receiving a chemotherapy regimen that included cisplatin greater than 50 mg/m2 (mean cisplatin dose = 80.2 mg/m2).
-See Table 11.
+See Table 13.
 
 In these studies, 95% of the patients in the EMEND group received a concomitant chemotherapeutic agent in addition to protocol-mandated cisplatin.
 The most common chemotherapeutic agents and the number of EMEND patients exposed follows: etoposide (106), fluorouracil (100), gemcitabine (89), vinorelbine (82), paclitaxel (52), cyclophosphamide (50), doxorubicin (38), docetaxel (11).
@@ -14,7 +14,7 @@ Of the 550 patients who were randomized to receive the EMEND regimen, 42% were w
 The EMEND-treated patients in these clinical studies ranged from 14 to 84 years of age, with a mean age of 56 years.
 A total of 170 patients were 65 years or older, with 29 patients being 75 years or older.
 
-Table 11: HEC Treatment Regimens – Studies 1 and 2EMEND placebo and dexamethasone placebo were used to maintain blinding.
+Table 13: HEC Treatment Regimens – Studies 1 and 2EMEND placebo and dexamethasone placebo were used to maintain blinding.
 
 |  | Day 1 | Day 2 | Day 3 | Day 4 |
 | --- | --- | --- | --- | --- |
@@ -40,11 +40,11 @@ Other prespecified endpoints:
 - no nausea (maximum VAS less than 5 mm on a 0 to 100 mm scale)
 - no significant nausea (maximum VAS less than 25 mm on a 0 to 100 mm scale)
 
-A summary of the key study results from each individual study analysis is shown in Table 12.
+A summary of the key study results from each individual study analysis is shown in Table 14.
 In both studies, a statistically significantly higher proportion of patients receiving the EMEND regimen in Cycle 1 had a complete response in the overall phase (primary endpoint), compared with patients receiving standard therapy.
 A statistically significant difference in complete response in favor of the EMEND regimen was also observed when the acute phase and the delayed phase were analyzed separately.
 
-Table 12: Percent of Patients Receiving HEC Responding by Treatment Group and Phase — Cycle 1
+Table 14: Percent of Patients Receiving HEC Responding by Treatment Group and Phase — Cycle 1
 
 | ENDPOINTS | EMEND Regimen (N=260)N: Number of patients (older than 18 years of age) who received cisplatin, study drug, and had at least one post-treatment efficacy evaluation. % | Standard Therapy (N=261) % | p-Value | EMEND Regimen (N=261) % | Standard Therapy (N=263) % | p-Value |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -74,10 +74,9 @@ Table 12: Percent of Patients Receiving HEC Responding by Treatment Group and Ph
 
 In both studies, the estimated time to first emesis after initiation of cisplatin treatment was longer with the EMEND regimen, and the incidence of first emesis was reduced in the EMEND regimen group compared with standard therapy group as depicted in the Kaplan-Meier curves in Figure 1.
 
-Figure 1: Percent of Patients Receiving HEC Who Remain Emesis Free Over Time — Cycle 1
-
-| p-Value <0.001 based on a log rank test for Study 1 and Study 2; nominal p-values not adjusted for multiplicity. |
+| Figure 1: Percent of Patients Receiving HEC Who Remain Emesis Free Over Time — Cycle 1 |
 | --- |
+| p-Value <0.001 based on a log rank test for Study 1 and Study 2; nominal p-values not adjusted for multiplicity. |
 
 Additional Patient-Reported Outcomes: The impact of nausea and vomiting on patients' daily lives was assessed in Cycle 1 of both studies using the Functional Living Index–Emesis (FLIE), a validated nausea- and vomiting-specific patient-reported outcome measure.
 Minimal or no impact of nausea and vomiting on patients' daily lives is defined as a FLIE total score greater than 108.
@@ -87,12 +86,15 @@ Multiple-Cycle Extension: In the same 2 clinical studies, patients continued int
 The proportion of patients with no emesis and no significant nausea by treatment group at each cycle is depicted in Figure 2.
 Antiemetic effectiveness for the patients receiving the EMEND regimen was maintained throughout repeat cycles for those patients continuing in each of the multiple cycles.
 
+| Figure 2: Proportion of Patients Receiving HEC with No Emesis and No Significant Nausea by Treatment Group and Cycle |
+| --- |
+
 ## 14.2 Prevention of Nausea and Vomiting Associated with MEC in Adults
 
 EMEND was studied in two randomized, double-blind, parallel-group studies (Studies 3 and 4) in adult patients receiving MEC.
 
 In Study 3, in breast cancer patients, EMEND in combination with ondansetron and dexamethasone was compared with standard therapy (ondansetron and dexamethasone) in patients receiving a MEC regimen that included cyclophosphamide 750-1500 mg/m2; or cyclophosphamide 500-1500 mg/m2 and doxorubicin (less than or equal to 60 mg/m2) or epirubicin (less than or equal to 100 mg/m2).
-See Table 13.
+See Table 15.
 
 In this study, the most common combinations were cyclophosphamide + doxorubicin (61%); and cyclophosphamide + epirubicin + fluorouracil (22%).
 
@@ -100,7 +102,7 @@ Of the 438 patients who were randomized to receive the EMEND regimen, 99.5% were
 Of these, approximately 80% were White, 8% Black, 8% Asian, 4% Hispanic, and less than 1% Other.
 The EMEND-treated patients in this clinical study ranged from 25 to 78 years of age, with a mean age of 53 years; 70 patients were 65 years or older, with 12 patients being over 74 years.
 
-Table 13: MEC Treatment Regimens – Studies 3 and 4EMEND placebo and dexamethasone placebo were used to maintain blinding.
+Table 15: MEC Treatment Regimens – Studies 3 and 4EMEND placebo and dexamethasone placebo were used to maintain blinding.
 
 |  | Day 1 | Day 2 | Day 3 |
 | --- | --- | --- | --- |
@@ -126,12 +128,12 @@ Other prespecified endpoints:
 - complete protection (defined as no emetic episodes, no use of rescue therapy, and a maximum nausea visual analogue scale [VAS] score less than 25 mm on a 0 to 100 mm scale)
 - complete response during the acute and delayed phases.
 
-A summary of the key results from Study 3 is shown in Table 14.
+A summary of the key results from Study 3 is shown in Table 16.
 In Study 3, a statistically significantly (p=0.015) higher proportion of patients receiving the EMEND regimen (51%) in Cycle 1 had a complete response (primary endpoint) during the overall phase compared with patients receiving standard therapy (42%).
 The difference between treatment groups was primarily driven by the "No Emesis Endpoint", a principal component of this composite primary endpoint.
 In addition, a higher proportion of patients receiving the EMEND regimen in Cycle 1 had a complete response during the acute (0-24 hours) and delayed (25-120 hours) phases compared with patients receiving standard therapy; however, the treatment group differences failed to reach statistical significance, after multiplicity adjustments.
 
-Table 14: Percent of Patients Receiving MEC Responding by Treatment Group and Phase — Cycle 1 of Study 3
+Table 16: Percent of Patients Receiving MEC Responding by Treatment Group and Phase — Cycle 1 of Study 3
 
 | ENDPOINTS | EMEND Regimen (N=433)N: Number of patients included in the primary analysis of complete response. % | Standard Therapy (N=424) % | p-Value |
 | --- | --- | --- | --- |
@@ -152,7 +154,7 @@ Multiple-Cycle Extension: In Study 3, patients receiving MEC were permitted to c
 The antiemetic effect for patients receiving the EMEND regimen was maintained during all cycles.
 
 In Study 4, EMEND in combination with ondansetron and dexamethasone was compared with a standard therapy (ondansetron and dexamethasone alone) in patients receiving a MEC regimen that included any intravenous dose of oxaliplatin, carboplatin, epirubicin, idarubicin, ifosfamide, irinotecan, daunorubicin, doxorubicin; cyclophosphamide intravenous (less than 1500 mg/m2); or cytarabine intravenous (greater than 1 g/m2).
-See Table 13.
+See Table 15.
 Patients receiving the EMEND regimen were receiving chemotherapy for a variety of tumor types including 50% with breast cancer, 21% with gastrointestinal cancers including colorectal cancer, 13% with lung cancer and 6% with gynecological cancers.
 
 Of the 430 patients who were randomized to receive the EMEND regimen, 76% were women and 24% were men.
@@ -162,17 +164,17 @@ The EMEND-treated patients in this clinical study ranged from 22 to 85 years of 
 
 The antiemetic activity of EMEND was evaluated based on no vomiting (with or without rescue therapy) in the overall period (0 to 120 hours post-chemotherapy) and complete response (defined as no vomiting and no use of rescue therapy) in the overall period.
 
-A summary of the key results from Study 4 is shown in Table 15.
+A summary of the key results from Study 4 is shown in Table 17.
 In Study 4, a statistically significantly higher proportion of patients receiving the EMEND regimen (76%) in Cycle 1 had no vomiting during the overall phase compared with patients receiving standard therapy (62%).
 In addition, a higher proportion of patients receiving the EMEND regimen (69%) in Cycle 1 had a complete response in the overall phase (0-120 hours) compared with patients receiving standard therapy (56%).
 In the acute phase (0 to 24 hours following initiation of chemotherapy), a higher proportion of patients receiving EMEND compared to patients receiving standard therapy were observed to have no vomiting (92% and 84%, respectively) and complete response (89% and 80%, respectively).
 In the delayed phase (25 to 120 hours following initiation of chemotherapy), a higher proportion of patients receiving EMEND compared to patients receiving standard therapy were observed to have no vomiting (78% and 67%, respectively) and complete response (71% and 61%, respectively).
 
 In a subgroup analysis by tumor type, a numerically higher proportion of patients receiving EMEND were observed to have no vomiting and complete response compared to patients receiving standard therapy.
-For gender, the difference in complete response rates between the EMEND and standard regimen groups was 14% in females (64.5% and 50.3%, respectively) and 4% in males (82.2% and 78.2%, respectively) during the overall phase.
-A similar difference for gender was observed for the no vomiting endpoint.
+For sex, the difference in complete response rates between the EMEND and standard regimen groups was 14% in females (64.5% and 50.3%, respectively) and 4% in males (82.2% and 78.2%, respectively) during the overall phase.
+A similar difference for sex was observed for the no vomiting endpoint.
 
-Table 15: Percent of Patients Receiving MEC Responding by Treatment Group — Cycle 1 of Study 4
+Table 17: Percent of Patients Receiving MEC Responding by Treatment Group — Cycle 1 of Study 4
 
 | ENDPOINTS | EMEND Regimen (N=430)N = Number of patients who received chemotherapy treatment, study drug, and had at least one post-treatment efficacy evaluation. % | Standard Therapy (N=418) % | p-Value |
 | --- | --- | --- | --- |
@@ -180,9 +182,6 @@ Table 15: Percent of Patients Receiving MEC Responding by Treatment Group — Cy
 | Complete Response Overall | 69 | 56 | 0.0003 |
 
 ## 14.3 Prevention of Nausea and Vomiting Associated with HEC or MEC in Pediatric Patients
-
-The efficacy results from the trial support the use of EMEND for the prevention of nausea and vomiting associated with HEC or MEC in pediatric patients 6 months to 12 years; however, there is no commercially available dosage formulation appropriate for patients less than 12 years of age and weighing less than 30 kg.
-Therefore, EMEND is indicated for the prevention of nausea and vomiting associated with HEC or MEC in patients 12 years of age and older and patients less than 12 years of age who weigh at least 30 kg [see Dosage and Administration (2.1)].
 
 In a randomized, double-blind, active comparator-controlled clinical study that included 302 pediatric patients aged 6 months to 17 years receiving HEC or MEC, EMEND in combination with ondansetron was compared to ondansetron alone (control regimen) for the prevention of CINV (Study 5).
 Intravenous dexamethasone was permitted as part of the antiemetic regimen in both treatment groups, at the discretion of the physician.
@@ -193,18 +192,20 @@ Eligible patients had documented malignancy at either an original diagnosis or r
 
 Of the 152 pediatric patients randomized to receive the EMEND regimen, 55% were male, 45% female, 78% White, 7% Asian, 0% Black, 24% Hispanic, and 13% Multi-Racial.
 The most common primary malignancies in subjects receiving the EMEND regimen were osteosarcoma (11%), Ewing's sarcoma (11%), neuroblastoma (9%) and rhabdomyosarcoma (8%).
+Other concomitant chemotherapy agents commonly administered and the number of EMEND patients exposed were: vincristine sulfate (65), etoposide (59), doxorubicin (48), ifosfamide (45), carboplatin (39), and cisplatin (35).
 
-The treatment regimens in Study 5 for pediatric patients 12 to 17 years of age and patients less than 12 years of age who weigh at least 30 kg are defined in Table 16.
-Of the pediatric patients, 30% in the EMEND regimen and 30% in the control regimen used dexamethasone as part of the antiemetic regimen in Cycle 1.
+The treatment regimens in Study 5 for pediatric patients are defined in Table 18.
+Of the pediatric patients, 29% in the EMEND regimen and 28% in the control regimen used dexamethasone as part of the antiemetic regimen in Cycle 1.
 
-Table 16: HEC and MEC Treatment RegimensIntravenous dexamethasone was permitted at the discretion of the physician.
+Table 18: HEC and MEC Treatment RegimensIntravenous dexamethasone was permitted at the discretion of the physician.
 A 50% dose reduction of dexamethasone was required for patients in the EMEND group, reflecting a dosage adjustment to account for a drug interaction [see Clinical Pharmacology (12.3)].
-No dexamethasone dose reduction was required for patients in the control regimen. for Pediatric Patients 12 to 17 Years of Age and Patients less than 12 Years Who Weighed at Least 30 kg — Study 5
+No dexamethasone dose reduction was required for patients in the control regimen. for Pediatric Patients 6 Months to 17 Years of Age— Study 5
 
 |  | Day 1 | Day 2 | Day 3 |
 | --- | --- | --- | --- |
 | CINV EMEND Regimen |  |  |  |
-| Oral EMENDEMEND was administered 1 hour prior to chemotherapy treatment on Days 1, 2, and 3. If no chemotherapy was given on Days 2 and 3, EMEND was administered in the morning. | 125 mg | 80 mg | 80 mg |
+| Pediatric Patients 6 Months to less than 12 Years of AgeEMEND was administered 1 hour prior to chemotherapy treatment on Days 1, 2, and 3. If no chemotherapy was given on Days 2 and 3, EMEND was administered in the morning. | 3 mg/kg body weight oral suspension | 2 mg/kg body weight oral suspension | 2 mg/kg body weight oral suspension |
+| Pediatric Patients 12 to 17 Years of Age | 125 mg capsule | 80 mg capsule | 80 mg capsule |
 | Ondansetron | Per standard of careOndansetron was administered 30 minutes prior to chemotherapy on Day 1 | none | none |
 | CINV Control RegimenEMEND placebo was used to maintain blinding. |  |  |  |
 | Ondansetron | Per standard of care | none | none |
@@ -225,24 +226,17 @@ Other prespecified endpoints:
 - no vomiting (defined as no emesis, retching or dry heaves, regardless of use of rescue medication) in the overall phase
 - safety and tolerability
 
-A summary of the key study results for the entire pediatric population as well as those in patients 12 to 17 years of age and patients less than 12 years who weighed at least 30 kg are shown in Table 17.
+A summary of the key study results are shown in Table 19.
 
-Table 17: Percent of Patients Who Responded to Treatment by Treatment Group and Phase – Cycle 1 of Study 5
+Table 19: Percent of Patients Who Responded to Treatment by Treatment Group and Phase – Cycle 1 of Study 5
 
 |  | EMEND Regimen n/m (%) | Control Regimen n/m (%) |
 | --- | --- | --- |
-| Overall Pediatric Patients |  |  |
 | PRIMARY ENDPOINT |  |  |
 | Complete ResponseComplete Response = No vomiting or retching and no use of rescue medication. - Delayed phase | 77/152 (50.7)p<0.01 when compared to Control Regimen | 39/150 (26.0) |
 | OTHER PRESPECIFIED ENDPOINTS |  |  |
 | Complete Response – Acute phase | 101/152 (66.4)p<0.05 when compared to Control Regimen | 78/150 (52.0) |
 | Complete Response – Overall phase | 61/152 (40.1) | 30/150 (20.0) |
-| Patients Aged 12 to 17 Years and Patients less than 12 Years Who Weighed at least 30 kg |  |  |
-| PRIMARY ENDPOINT |  |  |
-| Complete Response - Delayed phase | 31/63 (49.2) | 13/69 (18.8) |
-| OTHER PRESPECIFIED ENDPOINTS |  |  |
-| Complete Response – Acute phase | 35/63 (55.6) | 26/69 (37.7) |
-| Complete Response – Overall phase | 22/63 (34.9) | 9/69 (13.0) |
 | n/m = Number of patients with desired response/number of patients included in time point. |  |  |
 | Acute Phase: 0 to 24 hours following initiation of chemotherapy. |  |  |
 | Delayed Phase: 25 to 120 hours following initiation of chemotherapy. |  |  |
@@ -275,9 +269,9 @@ Efficacy measures in Study 7 included:
 
 A closed testing procedure was applied to control the type I error for the primary endpoints.
 
-The results of the primary and secondary endpoints for 40-mg EMEND and 4-mg ondansetron are described in Table 18:
+The results of the primary and secondary endpoints for 40-mg EMEND and 4-mg ondansetron are described in Table 20:
 
-Table 18: Response Rates for Select Efficacy Endpoints (Modified-Intention-to-Treat Population) – Study 7
+Table 20: Response Rates for Select Efficacy Endpoints (Modified-Intention-to-Treat Population) – Study 7
 
 | Δ | Odds ratioEstimated odds ratio for EMEND versus Ondansetron. A value of >1 favors EMEND over Ondansetron. | Analysis |  |  |
 | --- | --- | --- | --- | --- |
@@ -302,6 +296,9 @@ Table 18: Response Rates for Select Efficacy Endpoints (Modified-Intention-to-Tr
 In Study 7, the use of EMEND did not affect the time to first use of rescue medication when compared to ondansetron.
 However, compared to the ondansetron group, use of EMEND delayed the time to first vomiting, as depicted in Figure 3.
 
+| Figure 3: Percent of Patients Who Remain Emesis Free During the 48 Hours Following End of Surgery – Study 7 |
+| --- |
+
 Efficacy measures in Study 8 included:
 
 - complete response (defined as no emetic episodes and no use of rescue therapy) in the 0 to 24 hours following the end of surgery (primary)
@@ -313,7 +310,7 @@ Study 8 failed to satisfy its primary hypothesis that EMEND is superior to ondan
 
 The study demonstrated that 40-mg EMEND had a clinically meaningful effect with respect to the secondary endpoint "no vomiting" during the first 24 hours after surgery and was associated with a 16% improvement over ondansetron for the no vomiting endpoint.
 
-Table 19: Response Rates for Select Efficacy Endpoints (Modified-Intention-to-Treat Population) – Study 8
+Table 21: Response Rates for Select Efficacy Endpoints (Modified-Intention-to-Treat Population) – Study 8
 
 | Δ | Odds ratioEstimated odds ratio: EMEND 40 mg versus Ondansetron. | Analysis |  |  |
 | --- | --- | --- | --- | --- |

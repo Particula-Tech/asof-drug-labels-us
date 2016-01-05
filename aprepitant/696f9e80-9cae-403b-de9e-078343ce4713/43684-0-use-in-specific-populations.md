@@ -4,17 +4,18 @@
 
 Risk Summary
 
-There are no available data on EMEND use in pregnant women to inform the drug associated risk.
-In animal reproduction studies, no evidence of teratogenicity was seen in rats and rabbits with oral administration of aprepitant during organogenesis at exposures 1.5 times the adult human exposure at the 125-mg/80-mg/80-mg EMEND regimen [see Data].
+There are insufficient data on use of EMEND in pregnant women to inform a drug associated risk.
+In animal reproduction studies, no adverse developmental effects were observed in rats or rabbits exposed during the period of organogenesis to systemic drug levels (AUC) approximately 1.5 times the adult human exposure at the 125-mg/80-mg/80-mg EMEND regimen [see Data].
 
+The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
 Data
 
 Animal Data
 
-In embryofetal development studies in rats and rabbits, aprepitant was administered during the period of organogenesis at oral doses up to 1000 mg/kg twice daily (rats) and up to the maximum tolerated dose of 25 mg/kg/day (rabbits).
-No embryofetal lethality or malformations were observed at any dose levels in either species.
+In embryofetal development studies in rats and rabbits, aprepitant was administered during the period of organogenesis at oral doses up to 1000 mg/kg twice daily in rats and up to the maximum tolerated dose of 25 mg/kg/day in rabbits.
+No embryofetal lethality or malformations were observed at any dose level in either species.
 The exposures (AUC) in pregnant rats at 1000 mg/kg twice daily and in pregnant rabbits at 125 mg/kg/day were approximately 1.5 times the adult exposure at the 125-mg/80-mg/80-mg EMEND regimen.
 Aprepitant crosses the placenta in rats and rabbits.
 
@@ -24,20 +25,23 @@ Risk Summary
 
 Lactation studies have not been conducted to assess the presence of aprepitant in human milk, the effects on the breastfed infant, or the effects on milk production.
 Aprepitant is present in rat milk.
-The development and health benefits of breastfeeding should be considered along with the mother's clinical need for EMEND and any potential adverse effects on the breastfed infant from EMEND or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for EMEND and any potential adverse effects on the breastfed infant from EMEND or from the underlying maternal condition.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Contraception
+
+Upon administration of EMEND, the efficacy of hormonal contraceptives may be reduced.
+Advise females of reproductive potential using hormonal contraceptives to use an effective alternative or back-up non-hormonal contraceptive (such as condoms and spermicides) during treatment with EMEND and for 1 month following the last dose [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
 
 ## 8.4 Pediatric Use
 
 Prevention of Nausea and Vomiting Associated with HEC or MEC
 
-The safety and effectiveness of EMEND have been established in pediatric patients 6 months of age and older for the prevention of acute and delayed nausea and vomiting associated with initial and repeat courses of highly emetogenic cancer chemotherapy, including high-dose cisplatin, and moderately emetogenic cancer chemotherapy.
-Use of EMEND in these age groups is supported by evidence from 302 pediatric patients (n = 207 patients aged 6 months to less than 12 years, n = 95 patients aged 12 through 17 years.
-There were 37 patients who were less than 12 years of age who weighed at least 30 kg in a randomized, double-blind, active comparator controlled clinical study.
+The safety and effectiveness of EMEND for oral suspension have been established in pediatric patients 6 months of age and older and EMEND capsules in pediatric patients 12 years of age and older for the prevention of acute and delayed nausea and vomiting associated with initial and repeat courses of HEC, including high-dose cisplatin, and MEC.
+Use of EMEND in these age groups is supported by evidence from 302 pediatric patients in a randomized, double-blind, active comparator controlled clinical study (n = 207 patients aged 6 months to less than 12 years, n = 95 patients aged 12 through 17 years).
 EMEND was studied in combination with ondansetron with or without dexamethasone (at the discretion of the physician) [see Clinical Studies (14.3)].
 Adverse reactions were similar to those reported in adult patients [see Adverse Reactions (6.1)].
-
-Although the safety and efficacy results from the trial support the use of EMEND for the prevention of nausea and vomiting associated with HEC or MEC in pediatric patients 6 months to 12 years, there is no commercially available dosage formulation appropriate for patients less than 12 years of age and weighing less than 30 kg.
-Therefore, EMEND is indicated for the prevention of nausea and vomiting associated with HEC or MEC in patients 12 years of age and older and patients less than 12 years who weigh at least 30 kg [see Dosage and Administration (2.1)].
 
 The safety and effectiveness of EMEND for the prevention of nausea and vomiting associated with HEC or MEC have not been established in patients less than 6 months.
 

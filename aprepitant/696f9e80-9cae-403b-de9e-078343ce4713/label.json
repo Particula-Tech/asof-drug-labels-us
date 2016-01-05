@@ -1,6 +1,7 @@
 {
   "application_numbers": [
-    "NDA021549"
+    "NDA021549",
+    "NDA207865"
   ],
   "inn": "aprepitant",
   "labeler": "Merck Sharp & Dohme Corp.",
@@ -14,6 +15,8 @@
     "0006-0464-01",
     "0006-0464-05",
     "0006-0464-10",
+    "0006-3066-01",
+    "0006-3066-03",
     "0006-3862-03",
     "0006-3862-13"
   ],
@@ -25,6 +28,11 @@
     },
     {
       "form": "KIT",
+      "generic": "aprepitant",
+      "name": "EMEND"
+    },
+    {
+      "form": "POWDER, FOR SUSPENSION",
       "generic": "aprepitant",
       "name": "EMEND"
     }

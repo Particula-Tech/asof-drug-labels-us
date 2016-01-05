@@ -14,9 +14,9 @@ In 2 active-controlled clinical trials in patients receiving moderately emetogen
 The most common adverse reaction reported in patients who received MEC in pooled Studies 3 and 4 was dyspepsia (6% versus 4%).
 
 Across these 4 studies there were 1412 patients treated with the EMEND regimen during Cycle 1 of chemotherapy and 1099 of these patients continued into the Multiple-Cycle extension for up to 6 cycles of chemotherapy.
-The most common adverse reactions reported in patients who received HEC and MEC in pooled Studies 1, 2, 3 and 4 are listed in Table 3.
+The most common adverse reactions reported in patients who received HEC and MEC in pooled Studies 1, 2, 3 and 4 are listed in Table 5.
 
-Table 3: Most Common Adverse Reactions in Patients Receiving HEC and MEC from a Pooled Analysis of HEC and MEC StudiesReported in ≥ 3% of patients treated with the EMEND regimen and at a greater incidence than standard therapy.
+Table 5: Most Common Adverse Reactions in Patients Receiving HEC and MEC from a Pooled Analysis of HEC and MEC StudiesReported in ≥ 3% of patients treated with the EMEND regimen and at a greater incidence than standard therapy.
 
 |  | EMEND, ondansetron, and dexamethasoneEMEND regimen (N=1412) | Ondansetron and dexamethasoneStandard therapy (N=1396) |
 | --- | --- | --- |
@@ -30,9 +30,9 @@ Table 3: Most Common Adverse Reactions in Patients Receiving HEC and MEC from a 
 | dehydration | 3% | 2% |
 | alanine aminotransferase increased | 3% | 2% |
 
-In a pooled analysis of the HEC and MEC studies, less common adverse reactions reported in patients treated with the EMEND regimen are listed in Table 4.
+In a pooled analysis of the HEC and MEC studies, less common adverse reactions reported in patients treated with the EMEND regimen are listed in Table 6.
 
-Table 4: Less Common Adverse Reactions in EMEND-Treated Patients from a Pooled Analysis of HEC and MEC StudiesReported in > 0.5% of patients treated with the EMEND regimen, at a greater incidence than standard therapy and not previously described in Table 3.
+Table 6: Less Common Adverse Reactions in EMEND-Treated Patients from a Pooled Analysis of HEC and MEC StudiesReported in > 0.5% of patients treated with the EMEND regimen, at a greater incidence than standard therapy and not previously described in Table 5.
 
 | Infection and Infestations | oral candidiasis, pharyngitis |
 | --- | --- |
@@ -55,17 +55,15 @@ In another CINV study, Stevens-Johnson syndrome was reported as a serious advers
 
 Adverse reactions in the Multiple-Cycle extensions of HEC and MEC studies for up to 6 cycles of chemotherapy were generally similar to that observed in Cycle 1.
 
-Adverse Reactions in Pediatric Patients in the Prevention of Nausea and Vomiting Associated with HEC or MEC
-
-There is no commercially available dosage formulation appropriate for patients less than 12 years of age and weighing less than 30 kg [see Dosage and Administration (2.1)].
+Adverse Reactions in Pediatric Patients 6 Months to 17 Years of Age in the Prevention of Nausea and Vomiting Associated with HEC or MEC
 
 In a pooled analysis of 2 active-controlled clinical trials in pediatric patients aged 6 months to 17 years who received highly or moderately emetogenic cancer chemotherapy (Study 5 and a safety study, Study 6), EMEND in combination with ondansetron with or without dexamethasone (EMEND regimen) was compared to ondansetron with or without dexamethasone (control regimen).
 
 There were 184 patients treated with the EMEND regimen during Cycle 1 and 215 patients received open-label EMEND for up to 9 additional cycles of chemotherapy.
 
-In Cycle 1, the most common adverse reactions reported in pediatric patients treated with the EMEND regimen in pooled Studies 5 and 6 are listed in Table 5.
+In Cycle 1, the most common adverse reactions reported in pediatric patients treated with the EMEND regimen in pooled Studies 5 and 6 are listed in Table 7.
 
-Table 5: Most Common Adverse Reactions in EMEND-Treated Pediatric Patients in HEC and MEC Pooled Studies 5 and 6Reported in ≥3% of patients treated with the EMEND regimen and at a greater incidence than control regimen.
+Table 7: Most Common Adverse Reactions in EMEND-Treated Pediatric Patients in HEC and MEC Pooled Studies 5 and 6Reported in ≥3% of patients treated with the EMEND regimen and at a greater incidence than control regimen.
 
 |  | EMEND and ondansetronEMEND regimen (N=184) | OndansetronControl regimen (N=168) |
 | --- | --- | --- |
@@ -89,18 +87,18 @@ In 2 active-controlled, double-blind clinical studies in patients receiving gene
 
 There were 564 patients treated with EMEND and 538 patients treated with ondansetron.
 
-The most common adverse reactions reported in patients treated with EMEND for PONV in pooled Studies 7 and 8 are listed in Table 6.
+The most common adverse reactions reported in patients treated with EMEND for PONV in pooled Studies 7 and 8 are listed in Table 8.
 
-Table 6: Most Common Adverse Reactions in EMEND-Treated Patients in a Pooled Analysis of PONV StudiesReported in ≥ 3% of patients treated with the EMEND 40 mg and at a greater incidence than ondansetron.
+Table 8: Most Common Adverse Reactions in EMEND-Treated Patients in a Pooled Analysis of PONV StudiesReported in ≥ 3% of patients treated with the EMEND 40 mg and at a greater incidence than ondansetron.
 
 |  | EMEND 40 mg (N = 564) | Ondansetron (N = 538) |
 | --- | --- | --- |
 | constipation | 9% | 8% |
 | hypotension | 6% | 5% |
 
-In a pooled analysis of PONV studies, less common adverse reactions reported in patients treated with EMEND are listed in Table 7.
+In a pooled analysis of PONV studies, less common adverse reactions reported in patients treated with EMEND are listed in Table 9.
 
-Table 7: Less Common Adverse Reactions in EMEND-Treated Patients in a Pooled Analysis of PONV StudiesReported in > 0.5% of patients treated with EMEND and at a greater incidence than ondansetron
+Table 9: Less Common Adverse Reactions in EMEND-Treated Patients in a Pooled Analysis of PONV StudiesReported in > 0.5% of patients treated with EMEND and at a greater incidence than ondansetron
 
 | Infections and Infestations | postoperative infection |
 | --- | --- |

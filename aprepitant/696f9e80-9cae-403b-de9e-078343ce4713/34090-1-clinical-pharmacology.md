@@ -30,7 +30,7 @@ QT prolongation with the oral EMEND dosing regimens for CINV and PONV is not exp
 
 Absorption
 
-Following oral administration of a single 40-mg dose of EMEND in the fasted state, mean area under the plasma concentration-time curve (AUC0-∞) was 7.8 mcg•hr/mL and mean peak plasma concentration (Cmax) was 0.7 mcg/mL, occurring at approximately 3 hours postdose (Tmax).
+Following oral administration of a single 40-mg dose of EMEND in the fasted state, mean area under the plasma concentration-time curve (AUC0-∞) was 7.8 mcg∙hr/mL and mean peak plasma concentration (Cmax) was 0.7 mcg/mL, occurring at approximately 3 hours postdose (Tmax).
 The absolute bioavailability at the 40-mg dose has not been determined.
 
 Following oral administration of a single 125-mg dose of EMEND on Day 1 and 80 mg once daily on Days 2 and 3, the AUC0-24hr was approximately 19.6 mcg∙hr/mL and 21.2 mcg∙hr/mL on Day 1 and Day 3, respectively.
@@ -79,11 +79,13 @@ These differences are not considered clinically meaningful [see Use in Specific 
 
 Age: Pediatric Population
 
-As part of a 3-day regimen, dosing of aprepitant capsules (125-mg/80-mg/80-mg) in 18 pediatric patients (aged 12 through 17 years) achieved a mean AUC0-24hr of 17 mcg•hr/mL on Day 1 with mean peak plasma concentration (Cmax) at 1.3 mcg/mL occurring at approximately 4 hours.
-The mean concentrations at the end of Day 2 (N=8) and Day 3 (N=16) were both at 0.6 mcg/mL.
+As part of a 3-day regimen, dosing of aprepitant capsules (125-mg/80-mg/80-mg) in 18 pediatric patients (aged 12 through 17 years) achieved a mean AUC0-24hr of 17 mcg∙hr/mL on Day 1 with mean peak plasma concentration (Cmax) at 1.3 mcg/mL occurring at approximately 4 hours.
+The mean concentrations at the end of Day 2 (N=8) and Day 3 (N=16) were both at 0.6 mcg/mL
 
-A population pharmacokinetics analysis indicated that body weight was a significant covariate for clearance in patients older than 6 years of age.
-The median clearance was 4.4 L/hr in 48 patients aged 12 through 17 years, and 4.8 L/hr in 16 patients aged less than 12 years and weighing at least 30 kg [see Dosage and Administration (2.1)].
+As part of a 3-day regimen, weight-based dosing of aprepitant powder for oral suspension (3-mg/kg;2-mg/kg;2-mg/kg) in 18 pediatric patients aged 6 months to less than 12 years achieved a mean AUC0-24hr of 20.9 mcg∙hr/mL on Day 1 with mean peak plasma concentration (Cmax) at 1.8 mcg/mL (N=19), occurring at approximately 6 hours.
+The mean concentrations at the end of Day 2 (N=18) and Day 3 (N=19) were 0.4 mcg/mL and 0.5 mcg/mL, respectively [see Dosage and Administration (2.1)].
+
+A population pharmacokinetic analysis of aprepitant in pediatric patients (aged 6 months through 17 years) suggests that sex and race have no clinically meaningful effect on the pharmacokinetics of aprepitant.
 
 Sex
 
@@ -126,11 +128,11 @@ Aprepitant is a substrate, a weak-to-moderate (dose-dependent) inhibitor, and an
 Aprepitant is also an inducer of CYP2C9.
 Aprepitant is unlikely to interact with drugs that are substrates for the P-glycoprotein transporter.
 
-Effects of Aprepitant on the Pharmacokinetics of Other Agents
+Effects of Aprepitant on the Pharmacokinetics of Other Drugs
 
-CYP3A4 substrates (i.e., midazolam): Interactions between EMEND and coadministered midazolam are listed in Table 10 (increase is indicated as "↑", decrease as "↓", no change as "↔").
+CYP3A4 substrates (i.e., midazolam): Interactions between EMEND and coadministered midazolam are listed in Table 11 (increase is indicated as "↑", decrease as "↓", no change as "↔").
 
-Table 10: Pharmacokinetic Interaction Data for EMEND and Coadministered Midazolam
+Table 12: Pharmacokinetic Interaction Data for EMEND and Coadministered Midazolam
 
 | Dosage of EMEND | Dosage of Midazolam | Observed Drug Interactions |
 | --- | --- | --- |
@@ -155,13 +157,13 @@ Docetaxel: In a pharmacokinetic study, EMEND (125-mg/80-mg regimen) did not infl
 
 Vinorelbine: In a pharmacokinetic study, EMEND (125-mg/80-mg regimen) did not influence the pharmacokinetics of vinorelbine to a clinically significant degree.
 
-Oral contraceptives: When EMEND was administered as a 3-day regimen (125-mg/80-mg/80-mg) with ondansetron and dexamethasone, and coadministered with an oral contraceptive containing ethinyl estradiol and norethindrone, the trough concentrations of both ethinyl estradiol and norethindrone were reduced by as much as 64% for 3 weeks post-treatment [see Warnings and Precautions (5.3)].
+Oral contraceptives: When EMEND was administered as a 3-day regimen (125-mg/80-mg/80-mg) with ondansetron and dexamethasone, and coadministered with an oral contraceptive containing ethinyl estradiol and norethindrone, the trough concentrations of both ethinyl estradiol and norethindrone were reduced by as much as 64% for 3 weeks post-treatment.
 
 When a daily dosage of an oral contraceptive containing ethinyl estradiol and norgestimate was administered on Days 1 through 21, and EMEND 40 mg was given on Day 8, the AUC of ethinyl estradiol decreased by 4% and by 29% on Day 8 and Day 12, respectively, while the AUC of norelgestromin increased by 18% on Day 8 and decreased by 10% on Day 12.
-In addition, the trough concentrations of ethinyl estradiol and norelgestromin on Days 8 through 21 were generally lower following coadministration of the oral contraceptive with EMEND 40 mg on Day 8 compared to the trough levels following administration of the oral contraceptive alone [see Warnings and Precautions (5.3)].
+In addition, the trough concentrations of ethinyl estradiol and norelgestromin on Days 8 through 21 were generally lower following coadministration of the oral contraceptive with EMEND 40 mg on Day 8 compared to the trough levels following administration of the oral contraceptive alone [see Drug Interactions (7.1)].
 
 CYP2C9 substrates (e.g., warfarin): A single 125-mg dose of EMEND was administered on Day 1 and 80 mg/day on Days 2 and 3 to healthy subjects who were stabilized on chronic warfarin therapy.
-Although there was no effect of EMEND on the plasma AUC of R(+) or S(-) warfarin determined on Day 3, there was a 34% decrease in S(-) warfarin trough concentration accompanied by a 14% decrease in the prothrombin time (reported as International Normalized Ratio or INR) 5 days after completion of dosing with EMEND [see Warnings and Precautions (5.2)].
+Although there was no effect of EMEND on the plasma AUC of R(+) or S(-) warfarin determined on Day 3, there was a 34% decrease in S(-) warfarin trough concentration accompanied by a 14% decrease in the prothrombin time (reported as International Normalized Ratio or INR) 5 days after completion of dosing with EMEND [see Drug Interactions (7.1)].
 
 Tolbutamide: EMEND, when given as 125 mg on Day 1 and 80 mg/day on Days 2 and 3, decreased the AUC of tolbutamide by 23% on Day 4, 28% on Day 8, and 15% on Day 15, when a single dose of tolbutamide 500 mg was administered prior to the administration of the 3-day regimen of EMEND and on Days 4, 8, and 15.
 This effect was not considered clinically important.
@@ -173,7 +175,7 @@ P-glycoprotein substrates: EMEND is unlikely to interact with drugs that are sub
 
 5-HT3 antagonists: In clinical drug interaction studies, aprepitant did not have clinically important effects on the pharmacokinetics of ondansetron, granisetron, or hydrodolasetron (the active metabolite of dolasetron).
 
-Effect of Other Agents on the Pharmacokinetics of Aprepitant
+Effect of Other Drugs on the Pharmacokinetics of Aprepitant
 
 Ketoconazole: When a single 125-mg dose of EMEND was administered on Day 5 of a 10-day regimen of 400 mg/day of ketoconazole, a strong CYP3A4 inhibitor, the AUC of aprepitant increased approximately 5-fold and the mean terminal half-life of aprepitant increased approximately 3-fold [see Drug Interactions (7.2)].
 
