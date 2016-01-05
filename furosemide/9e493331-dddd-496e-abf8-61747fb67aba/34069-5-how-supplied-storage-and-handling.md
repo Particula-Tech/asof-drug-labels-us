@@ -1,76 +1,22 @@
 # HOW SUPPLIED
 
-Furosemide Tablets USP
+## Furosemide Tablets USP
 
-20 mg white, unscored tablets (Identified 54 840).
+| 20 mg tablets are supplied as white, flat tablets with beveled edges, product identification “54 840” debossed on one side.NDC: 0054-8297-25 Unit dose amber blisters, 10 Tablets per strip, 10 strips per shelf pack, 10 shelf packs per shipper. NDC: 0054-4297-25 Bottle of 100 Tablets. NDC: 0054-4297-31 Bottle of 1000 Tablets. |
+| --- |
+| 40 mg tablets are supplied as white, flat tablets with beveled edges, scored on one side and product identification “54 583” debossed on one side.NDC: 0054-8299-25 Unit dose amber blisters, 10 Tablets per strip, 10 strips per shelf pack, 10 shelf packs per shipper. NDC: 0054-4299-25 Bottle of 100 Tablets. NDC: 0054-4299-31 Bottle of 1000 Tablets. |
+| 80 mg tablets are supplied as white, flat tablets with beveled edges, scored on one side and product identification “54 533” debossed on one side.NDC: 0054-8301-25 Unit dose amber blisters, 10 Tablets per strip, 10 strips per shelf pack, 10 shelf packs per shipper. NDC: 0054-4301-25 Bottle of 100 Tablets. NDC: 0054-4301-29 Bottle of 500 Tablets. |
+| Store and Dispense Store at 20° to 25°C (68° to 77°F). [See USP Controlled Room Temperature.]Note: Dispense in a tight, light-resistant, child-resistant container as defined in the USP/NF. Exposure to light may cause slight discoloration. Discolored tablets should not be dispensed.Protect From Moisture. PROTECT FROM LIGHT. |
 
-NDC 0054-8297-25: Unit dose amber blisters, 10 tablets per strip, 10 strips per shelf pack, 10 shelf packs per shipper.
+## Furosemide Oral Solution USP
 
-NDC 0054-4297-25: Bottle of 100 tablets.
+| 10 mg per mL oral solution is supplied as a(orange-flavored) clear, orange-colored solution.NDC 0054-3294-46: Bottle of 60 mL. Dispense only in this bottle and only with the calibrated dropper provided. NDC 0054-3294-50: Bottle of 120 mL.Dispense only in this bottle.PROTECT FROM LIGHT. NOTE: DISCARD OPENED BOTTLE AFTER 90 DAYS. |
+| --- |
+| 40 mg per 5 mL oral solution is supplied as a(pineapple-peach flavored) clear, orange-colored solution.NDC 0054-3298-63: Bottle of 500 mL.Dispense in a tight, light-resistant, child-resistant container as defined in the USP/NF.PROTECT FROM LIGHT. |
+| Store and Dispense Store at 20° to 25°C (68° to 77°F). [See USP Controlled Room Temperature.] |
 
-NDC 0054-4297-31: Bottle of 1000 tablets.
+Roxane Laboratories, Inc. Columbus, Ohio 43216
 
-40 mg white, scored tablets (Identified 54 583).
+4052002//10
 
-NDC 0054-8299-25: Unit dose amber blisters, 10 tablets per strip, 10 strips per shelf pack, 10 shelf packs per shipper.
-
-NDC 0054-4299-25: Bottle of 100 tablets.
-
-NDC 0054-4299-31: Bottle of 1000 tablets.
-
-80 mg white, scored tablets (Identified 54 533).
-
-NDC 0054-8301-25: Unit dose amber blisters, 10 tablets per strip, 10 strips per shelf pack, 10 shelf packs per shipper.
-
-NDC 0054-4301-25: Bottle of 100 tablets.
-
-NDC 0054-4301-29: Bottle of 500 tablets.
-
-Store and Dispense:
-
-Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
-
-Note: Dispense in a tight, light-resistant container as defined in the USP/NF.
-Exposure to light may cause slight discoloration.
-Discolored tablets should not be dispensed.
-
-Protect From Moisture.
-
-PROTECT FROM LIGHT.
-
-Furosemide Oral Solution USP
-
-10 mg per mL Oral Solution
-
-(orange-flavored, orange-colored)
-
-NDC 0054-3294-46: Bottle of 60 mL.
-
-NDC 0054-3294-50: Bottle of 120 mL.
-
-Furosemide Oral Solution USP
-
-40 mg per 5 mL Oral Solution
-
-(pineapple-peach flavored, orange-colored)
-
-NDC 0054-8298-16: Unit dose Patient CupTM filled to deliver 5 mL (40 mg Furosemide), ten 5 mL Patient CupsTM per shelf pack, four shelf packs per shipper.
-
-NDC 0054-3298-63: Bottle of 500 mL.
-
-Store and Dispense:
-
-Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
-Dispense in a tight, light-resistant container as defined in the USP/NF.
-
-PROTECT FROM LIGHT.
-
-Note: Discard opened bottle after 90 days.
-
-Roxane Laboratories, Inc.
-
-Columbus, Ohio 43216
-
-4052002//09 Revised April 2012
-
-© RLI, 2012
+Revised December 2015

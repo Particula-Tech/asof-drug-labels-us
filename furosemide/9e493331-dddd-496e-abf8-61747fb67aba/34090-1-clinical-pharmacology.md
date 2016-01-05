@@ -7,7 +7,7 @@ The action on the distal tubule is independent of any inhibitory effect on carbo
 
 Recent evidence suggests that furosemide glucuronide is the only or at least the major biotransformation product of furosemide in man.
 Furosemide is extensively bound to plasma proteins, mainly to albumin.
-Plasma concentrations ranging from 1 to 400 µg/mL are 91 to 99% bound in healthy individuals.
+Plasma concentrations ranging from 1 to 400 mcg/mL are 91 to 99% bound in healthy individuals.
 The unbound fraction averages 2.3 to 4.1% at therapeutic concentrations.
 
 The onset of diuresis following oral administration is within 1 hour.
@@ -22,10 +22,9 @@ The terminal half-life of furosemide is approximately 2 hours.
 Significantly more furosemide is excreted in urine following the IV injection than after the tablet or oral solution.
 There are no significant differences between the two oral formulations in the amount of unchanged drug excreted in urine.
 
-## Geriatric Population
+Geriatric Population
 
 Furosemide binding to albumin may be reduced in elderly patients.
 Furosemide is predominantly excreted unchanged in the urine.
 The renal clearance of furosemide after intravenous administration in older healthy male subjects (60 to 70 years of age) is statistically significantly smaller than in younger healthy male subjects (20 to 35 years of age).
-The initial diuretic effect of furosemide in older subjects is decreased relative to younger subjects.
-(See Geriatric Use: Geriatric Use.)
+The initial diuretic effect of furosemide in older subjects is decreased relative to younger subjects (See Geriatric Use: Geriatric Use).

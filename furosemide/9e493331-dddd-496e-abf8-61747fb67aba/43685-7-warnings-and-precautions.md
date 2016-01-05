@@ -1,9 +1,3 @@
-# WARNING
-
-Furosemide is a potent diuretic which, if given in excessive amounts, can lead to a profound diuresis with water and electrolyte depletion.
-Therefore, careful medical supervision is required and dose and dose schedule must be adjusted to the individual patient’s needs.
-(See DOSAGE AND ADMINISTRATION.)
-
 # WARNINGS
 
 In patients with hepatic cirrhosis and ascites, furosemide therapy is best initiated in the hospital.
@@ -15,12 +9,11 @@ If increasing azotemia and oliguria occur during treatment of severe progressive
 
 Cases of tinnitus and reversible or irreversible hearing impairment and deafness have been reported.
 Usually, reports indicate that furosemide ototoxicity is associated with rapid injection, severe renal impairment, doses exceeding several times the usual recommended dose, or concomitant therapy with aminoglycoside antibiotics, ethacrynic acid, or other ototoxic drugs.
-If the physician elects to use high dose parenteral therapy, controlled intravenous infusion is advisable (for adults, an infusion rate not exceeding 4 mg furosemide per minute has been used).
-(See PRECAUTIONS: Drug Interactions.)
+If the physician elects to use high dose parenteral therapy, controlled intravenous infusion is advisable (for adults, an infusion rate not exceeding 4 mg furosemide per minute has been used) (See PRECAUTIONS: Drug Interactions).
 
 # PRECAUTIONS
 
-## General
+General
 
 Excessive diuresis may cause dehydration and blood volume reduction with circulatory collapse and possibly vascular thrombosis and embolism, particularly in elderly patients.
 As with any effective diuretic, electrolyte depletion may occur during furosemide therapy, especially in patients receiving higher doses and a restricted salt intake.
@@ -44,7 +37,7 @@ The possibility exists of exacerbation or activation of systemic lupus erythemat
 
 As with many other drugs, patients should be observed regularly for the possible occurrence of blood dyscrasias, liver or kidney damage, or other idiosyncratic reactions.
 
-## Information for Patients
+Information for Patients
 
 Patients receiving furosemide should be advised that they may experience symptoms from excessive fluid and/or electrolyte losses.
 The postural hypotension that sometimes occurs can usually be managed by getting up slowly.
@@ -55,7 +48,7 @@ The skin of some patients may be more sensitive to the effects of sunlight while
 
 Hypertensive patients should avoid medications that may increase blood pressure, including over-the-counter products for appetite suppression and cold symptoms.
 
-## Laboratory Tests
+Laboratory Tests
 
 Serum electrolytes (particularly potassium), CO2, creatinine and BUN should be determined frequently during the first few months of furosemide therapy and periodically thereafter.
 Serum and urine electrolyte determinations are particularly important when the patient is vomiting profusely or receiving parenteral fluids.
@@ -69,10 +62,9 @@ Urine and blood glucose should be checked periodically in diabetics receiving fu
 Furosemide may lower serum levels of calcium (rarely cases of tetany have been reported) and magnesium.
 Accordingly, serum levels of these electrolytes should be determined periodically.
 
-In premature infants furosemide may precipitate nephrocalcinosis/nephrolithiasis, therefore renal function must be monitored and renal ultrasonography performed.
-(See PRECAUTIONS: Pediatric Use.)
+In premature infants furosemide may precipitate nephrocalcinosis/nephrolithiasis, therefore renal function must be monitored and renal ultrasonography performed (See PRECAUTIONS: Pediatric Use).
 
-## Drug Interactions
+Drug Interactions
 
 Furosemide may increase the ototoxic potential of aminoglycoside antibiotics, especially in the presence of impaired renal function.
 Except in life-threatening situations, avoid this combination.
@@ -81,19 +73,36 @@ Furosemide should not be used concomitantly with ethacrynic acid because of the 
 
 Patients receiving high doses of salicylates concomitantly with furosemide, as in rheumatic disease, may experience salicylate toxicity at lower doses because of competitive renal excretory sites.
 
+There is a risk of ototoxic effects if cisplatin and furosemide are given concomitantly.
+In addition, nephrotoxicity of nephrotoxic drugs such as cisplatin may be enhanced if furosemide is not given in lower doses and with positive fluid balance when used to achieve forced diuresis during cisplatin treatment.
+
 Furosemide has a tendency to antagonize the skeletal muscle relaxing effect of tubocurarine and may potentiate the action of succinylcholine.
 
 Lithium generally should not be given with diuretics because they reduce lithium’s renal clearance and add a high risk of lithium toxicity.
 
-Furosemide may add to or potentiate the therapeutic effect of other antihypertensive drugs.
-Potentiation occurs with ganglionic or peripheral adrenergic blocking drugs.
+Furosemide combined with angiotensin converting enzyme inhibitors or angiotensin II receptor blockers may lead to severe hypotension and deterioration in renal function, including renal failure.
+An interruption or reduction in the dosage of furosemide, angiotensin converting enzyme inhibitors, or angiotensin receptor blockers may be necessary.
 
+Potentiation occurs with ganglionic or peripheral adrenergic blocking drugs.
 Furosemide may decrease arterial responsiveness to norepinephrine.
 However, norepinephrine may still be used effectively.
 
 Simultaneous administration of sucralfate and furosemide tablets may reduce the natriuretic and antihypertensive effects of furosemide.
 Patients receiving both drugs should be observed closely to determine if the desired diuretic and/or antihypertensive effect of furosemide is achieved.
 The intake of furosemide and sucralfate should be separated by at least two hours.
+
+In isolated cases, intravenous administration of furosemide within 24 hours of taking chloral hydrate may lead to flushing, sweating attacks, restlessness, nausea, increase in blood pressure, and tachycardia.
+Use of furosemide concomitantly with chloral hydrate is therefore not recommended.
+
+Phenytoin interferes directly with renal action of furosemide.
+There is evidence that treatment with phenytoin leads to decrease intestinal absorption of furosemide, and consequently to lower peak serum furosemide concentrations.
+
+Methotrexate and other drugs that, like furosemide, undergo significant renal tubular secretion may reduce the effect of furosemide.
+Conversely, furosemide may decrease renal elimination of other drugs that undergo tubular secretion.
+High-dose treatment of both furosemide and these other drugs may result in elevated serum levels of these drugs and may potentiate their toxicity as well as the toxicity of furosemide.
+
+Furosemide can increase the risk of cephalosporin-induced nephrotoxicity even in the setting of minor or transient renal impairment.
+Concomitant use of cyclosporine and furosemide is associated with increased risk of gouty arthritis secondary to furosemide-induced hyperurecemia and cyclosporine impairment of renal urate excretion.
 
 One study in six subjects demonstrated that the combination of furosemide and acetylsalicylic acid temporarily reduced creatinine clearance in patients with chronic renal insufficiency.
 There are case reports of patients who developed increased BUN, serum creatinine and serum potassium levels, and weight gain when furosemide was used in conjunction with NSAIDs.
@@ -102,7 +111,7 @@ Literature reports indicate that coadministration of indomethacin may reduce the
 Indomethacin may also affect plasma renin levels, aldosterone excretion, and renin profile evaluation.
 Patients receiving both indomethacin and furosemide should be observed closely to determine if the desired diuretic and/or antihypertensive effect of furosemide is achieved.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Furosemide was tested for carcinogenicity by oral administration in one strain of mice and one strain of rats.
 A small but significantly increased incidence of mammary gland carcinomas occurred in female mice at a dose 17.5 times the maximum human dose of 600 mg.
@@ -116,11 +125,11 @@ The urine of rats treated with this drug did not induce gene conversion in Sacch
 
 Furosemide produced no impairment of fertility in male or female rats, at 100 mg/kg/day (the maximum effective diuretic dose in the rat and 8 times the maximal human dose of 600 mg/day).
 
-## Pregnancy
+Pregnancy
 
-### Teratogenic Effects
+Teratogenic Effects
 
-#### Pregnancy Category C
+Pregnancy Category C
 
 Furosemide has been shown to cause unexplained maternal deaths and abortions in rabbits at 2, 4, and 8 times the maximal recommended human dose.
 There are no adequate and well-controlled studies in pregnant women.
@@ -137,26 +146,26 @@ Data from the above studies indicate fetal lethality that can precede maternal d
 
 The results of the mouse study and one of the three rabbit studies also showed an increased incidence and severity of hydronephrosis (distention of the renal pelvis and in some cases of the ureters) in fetuses derived from the treated dams as compared with the incidence in fetuses from the control group.
 
-## Nursing Mothers
+Nursing Mothers
 
 Because it appears in breast milk, caution should be exercised when furosemide is administered to a nursing mother.
 
 Furosemide may inhibit lactation.
 
-## Pediatric Use
+Pediatric Use
 
 In premature infants furosemide may precipitate nephrocalcinosis/nephrolithiasis.
+
 Nephrocalcinosis/nephrolithiasis has also been observed in children under 4 years of age with no history of prematurity who have been treated chronically with furosemide.
 Monitor renal function, and renal ultrasonography should be considered, in pediatric patients receiving furosemide.
 
 If furosemide is administered to premature infants during the first weeks of life, it may increase the risk of persistence of patent ductus arteriosus.
 
-## Geriatric Use
+Geriatric Use
 
 Controlled clinical studies of furosemide did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for the elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy.
 
 This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection and it may be useful to monitor renal function.
-(See PRECAUTIONS: General and DOSAGE AND ADMINISTRATION.)
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection and it may be useful to monitor renal function (See PRECAUTIONS: General and DOSAGE AND ADMINISTRATION).

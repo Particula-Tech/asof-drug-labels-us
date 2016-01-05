@@ -1,17 +1,63 @@
-# NDC 0054-4297-25: Bottle of 100 tablets
+# Package/Label Display Panel
 
-# NDC 0054-8297-25: 10 x10 Unit Dose
+NDC 0054-4297-25: Bottle of 100 Tablets
 
-# NDC 0054-4299-25: Bottle of 100 tablets
+Roxane Laboratories, Inc. Columbus, Ohio 43216
 
-# NDC 0054-8299-25: 10 x 10 Unit Dose
+Rx only
 
-# NDC 0054-4301-25: Bottle of 100 tablets
+# Package/Label Display Panel
 
-# NDC 0054-8301-25: 10 x 10 Unit Dose
+NDC 0054-8297-25: Unit dose
 
-# NDC 0054-3294-46: Bottle of 60 mL
+Roxane Laboratories, Inc. Columbus, Ohio 43216
 
-# NDC 0054-3298-63: Bottle of 500 mL
+Rx only
 
-# NDC 0054-8298-16: Unit-Dose Cup
+# Package/Label Display Panel
+
+NDC 0054-4299-25: Bottle of 100 Tablets
+
+Roxane Laboratories, Inc. Columbus, Ohio 43216
+
+Rx only
+
+# Package/Label Display Panel
+
+NDC 0054-8299-25: Unit dose
+
+Roxane Laboratories, Inc. Columbus, Ohio 43216
+
+Rx only
+
+# Package/Label Display Panel
+
+NDC 0054-4301-25: Bottle of 100 Tablets
+
+Roxane Laboratories, Inc. Columbus, Ohio 43216
+
+Rx only
+
+# Package/Label Display Panel
+
+NDC 0054-8301-25: Unit dose
+
+Roxane Laboratories, Inc. Columbus, Ohio 43216
+
+Rx only
+
+# Package/Label Display Panel
+
+NDC 0054-3294-50: Bottle of 120 mL
+
+Roxane Laboratories, Inc. Columbus, Ohio 43216
+
+Rx only
+
+# Package/Label Display Panel
+
+NDC 0054-3298-63: Bottle of 500 mL
+
+Roxane Laboratories, Inc. Columbus, Ohio 43216
+
+Rx only
