@@ -6,7 +6,7 @@ Read this Medication Guide before you start taking pantoprazole sodium delayed-r
 There may be new information.
 This information does not take the place of talking with your doctor about your medical condition or your treatment.
 
-What is the most important information I should know about pantoprazol sodium delayed-release tablets?
+What is the most important information I should know about pantoprazole sodium delayed-release tablets?
 
 Pantoprazole sodium delayed-release tablets may help your acid-related symptoms, but you could still have serious stomach problems.
 Talk with your doctor.
@@ -86,7 +86,8 @@ Especially tell your doctor if you take:
 - ketoconazole (Nizoral)
 - a product that contains iron
 - an antibiotic that contains ampicillin
-- Methotrexate
+- methotrexate
+- mycophenolate mofetil (Cellcept)
 
 Ask your doctor or pharmacist for a list of these medicines, if you are not sure.
 
@@ -190,8 +191,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store pantoprazole sodium delayed-release tablets?
 
-- Store pantoprazole sodium delayed-release tablets at 20°-25°C (68°-77°F); excursions permitted to 15°-30°C (59°-86°F).
-  [see USP Controlled Room Temperature].
+- Store pantoprazole sodium delayed-release tablets at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F).[see USP Controlled Room Temperature].
 
 Keep pantoprazole sodium delayed-release tablets and all medicines out of the reach of children.
 
@@ -237,4 +237,4 @@ For:
 
 TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920
 
-8044689 Revised January 2014
+8053140 Revised January 2015

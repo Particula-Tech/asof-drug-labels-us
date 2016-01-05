@@ -1,3 +1,4 @@
-# 4. CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Pantoprazole sodium is contraindicated in patients with known hypersensitivity to any component of the formulation [see Description (11)] or any substituted benzimidazole.
+Pantoprazole sodium is contraindicated in patients with known hypersensitivity to any component of the formulation or any substituted benzimidazole.
+Hypersensitivity reactions may include anaphylaxis, anaphylactic shock, angioedema, bronchospasm, acute interstitial nephritis, and urticaria [see Adverse Reactions (6)].

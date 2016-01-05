@@ -1,4 +1,4 @@
-# 14. CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
 Pantoprazole sodium delayed-release tablets were used in the following clinical trials.
 
