@@ -177,4 +177,4 @@ What are the ingredients in sumatriptan tablets?
 Active ingredient: sumatriptan succinate Inactive ingredients: croscarmellose sodium, dibasic calcium phosphate anhydrous, magnesium stearate, microcrystalline cellulose, polysorbate 80, and sodium bicarbonate.
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 All brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 12/2013
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 090, India Revised: 11/2015

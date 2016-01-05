@@ -13,4 +13,4 @@ Medication Overuse Headache: Inform patients that use of acute migraine drugs fo
 Pregnancy: Inform patients that sumatriptan tablets should not be used during pregnancy unless the potential benefit justifies the potential risk to the fetus [see Use in Specific Populations (8.1)].
 Nursing Mothers: Advise patients to notify their healthcare provider if they are breastfeeding or plan to breastfeed [see Use in Specific Populations (8.3)].
 Ability to Perform Complex Tasks: Treatment with sumatriptan tablets may cause somnolence and dizziness; instruct patients to evaluate their ability to perform complex tasks after administration of sumatriptan tablets.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 12/2013
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 090, India Revised: 11/2015
