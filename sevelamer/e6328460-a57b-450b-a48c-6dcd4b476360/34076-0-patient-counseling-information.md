@@ -16,9 +16,9 @@ The entire contents of each 0.8 or 2.4 g packet should be placed in a cup and mi
 Table 7.
 Sevelamer Carbonate Powder Preparation Instructions
 
-| Renvela Powder Packet Strength | Minimum amount of water for dose preparation (either ounces, mL or teaspoon/Tablespoon) |  |  |
-| --- | --- | --- | --- |
 |  | ounces | mL | tsp/Tbsp |
+| --- | --- | --- | --- |
+| Renvela Powder Packet Strength | Minimum amount of water for dose preparation (either ounces, mL or teaspoon/Tablespoon) |  |  |
 | 0.8 g | 1 | 30 | 6 teaspoons/2 Tablespoons |
 | 2.4 g | 2 | 60 | 4 Tablespoons |
 
@@ -30,11 +30,3 @@ The entire preparation should be consumed within 30 minutes.
 
 Renvela may cause constipation that if left untreated, may lead to severe complications.
 Patients should be cautioned to report new onset or worsening of existing constipation promptly to their physician.
-
-Distributed by:
-
-Genzyme Corporation
-
-500 Kendall Street
-
-Cambridge, MA 02142 USA

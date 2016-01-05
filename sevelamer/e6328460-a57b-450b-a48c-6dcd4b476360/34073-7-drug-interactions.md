@@ -12,4 +12,7 @@ Sevelamer Drug Interactions
 | --- | --- |
 | Digoxin Enalapril Iron Metoprolol Warfarin |  |
 | Oral drugs that have demonstrated interaction with sevelamer and are to be dosed separately from Renvela |  |
-| Ciprofloxacin Mycophenolate mofetil | Dosing Recommendations Take at least 2 hours before or 6 hours after sevelamer Take at least 2 hours before sevelamer |
+|  | Dosing Recommendations |
+| Ciprofloxacin Mycophenolate mofetil | Take at least 2 hours before or 6 hours after sevelamer Take at least 2 hours before sevelamer |
+
+During postmarketing experience, cases of increased phosphate levels have been reported in patients taking proton pump inhibitors co-administered with sevelamer carbonate.

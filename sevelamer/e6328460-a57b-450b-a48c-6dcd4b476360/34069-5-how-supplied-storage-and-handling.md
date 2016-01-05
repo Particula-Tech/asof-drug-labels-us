@@ -14,5 +14,8 @@ Powder: Renvela® for Oral Suspension is supplied as opaque, foil lined, heat se
 
 1 Sample Box (NDC 58468-0131-5) of 15 ct 2.4 g packets (NDC 58468-0131-3)
 
-Storage: Store at 25°C (77°F): excursions permitted to 15-30°C (59-86°F).
-[See USP controlled room temperature] Protect from moisture.
+Storage: Store at 25°C (77°F): excursions permitted to 15–30°C (59–86°F).
+
+[See USP controlled room temperature]
+
+Protect from moisture.

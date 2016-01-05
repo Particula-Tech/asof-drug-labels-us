@@ -16,7 +16,7 @@ Starting Dose for Dialysis Patients Not Taking a Phosphate Binder
 | Serum Phosphorus | Renvela® 800 mg Tablet | Renvela Powder |
 | --- | --- | --- |
 | > 5.5 and < 7.5 mg/dL | 1 tablet three times daily with meals | 0.8 g three times daily with meals |
-| ≥ 7.5 mg/dL | 2 tablets three times daily with meals | 1.6 g three times daily with meals |
+| ~ 7.5 mg/dL | 2 tablets three times daily with meals | 1.6 g three times daily with meals |
 
 Switching from Sevelamer Hydrochloride Tablets.
 For patients switching from sevelamer hydrochloride tablets to sevelamer carbonate tablets or powder, use the same dose in grams.
@@ -28,7 +28,8 @@ Use the same dose in grams.
 Further titration may be necessary to achieve desired phosphorus levels.
 
 Switching from Calcium Acetate.
-In a study in 84 CKD patients on hemodialysis, a similar reduction in serum phosphorus was seen with equivalent doses (approximately mg for mg) of sevelamer hydrochloride and calcium acetate.Table 2 gives recommended starting doses of Renvela based on a patient's current calcium acetate dose.
+In a study in 84 CKD patients on hemodialysis, a similar reduction in serum phosphorus was seen with equivalent doses (approximately mg for mg) of sevelamer hydrochloride and calcium acetate.
+Table 2 gives recommended starting doses of Renvela based on a patient's current calcium acetate dose.
 
 Table 2.
 Starting Dose for Dialysis Patients Switching From Calcium Acetate to Renvela
@@ -44,14 +45,14 @@ Titrate the Renvela dose by 0.8 g three times per day with meals at two-week int
 
 ## 2.2 Sevelamer Carbonate Powder Preparation Instructions
 
-The entire contents of each 0.8 or 2.4 g packet should be placed in a cup and mixed thoroughly with the amount of water described inTable 3.
+The entire contents of each 0.8 or 2.4 g packet should be placed in a cup and mixed thoroughly with the amount of water described in Table 3.
 
 Table 3.
 Sevelamer Carbonate Powder Preparation Instructions
 
-| Renvela Powder Packet Strength | Minimum amount of water for dose preparation (either ounces, mL or teaspoon/Tablespoon) |  |  |
-| --- | --- | --- | --- |
 |  | ounces | mL | tsp/Tbsp |
+| --- | --- | --- | --- |
+| Renvela Powder Packet Strength | Minimum amount of water for dose preparation (either ounces, mL or teaspoon/Tablespoon) |  |  |
 | 0.8 g | 1 | 30 | 6 teaspoons/2 Tablespoons |
 | 2.4 g | 2 | 60 | 4 Tablespoons |
 
