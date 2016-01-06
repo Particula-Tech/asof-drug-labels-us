@@ -18,6 +18,10 @@ Supplied in bottles of 120............................NDC 54092-173-12
 Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP controlled room temperature].
 PROTECT FROM LIGHT AND MOISTURE.
 
-Manufactured for: Shire US Inc. 725 Chesterbrook Blvd, Wayne PA 19087 1-800-828-2088, © 2013 Shire US Inc. Rev 08/2013
+Manufactured for: Shire US Inc. 300 Shire Way, Lexington, MA 02421
 
-*Registered in the US Patent and Trade Office
+To report SUSPECTED ADVERSE REACTIONS, contact Shire US Inc. at 1-800-828-2088 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch
+
+© 2015 Shire US Inc. Rev 11/2015
+
+Carbatrol® is registered in the US Patent and Trade Office

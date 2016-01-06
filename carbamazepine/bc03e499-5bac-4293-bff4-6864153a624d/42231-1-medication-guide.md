@@ -227,6 +227,6 @@ This Medication Guide has been approved by the US Food and Drug Administration.
 
 Shire US Inc.
 
-Wayne, PA 19087
+300 Shire Way, Lexington, MA 02421
 
-Issued [08/2013]
+Issued [11/2015]
