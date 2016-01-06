@@ -1,112 +1,91 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-Parkinson’s disease is a progressive, neurodegenerative disorder of the extrapyramidal nervous system affecting the mobility and control of the skeletal muscular system.
-Its characteristic features include resting tremor, rigidity, and bradykinetic movements.
+## 12.1 Mechanism of Action
 
-## Mechanism of Action
+Levodopa
 
-### Levodopa
+Current evidence indicates that symptoms of Parkinson's disease are related to depletion of dopamine in the corpus striatum.
+Administration of dopamine is ineffective in the treatment of Parkinson's disease because it does not cross the blood-brain barrier.
+However, levodopa the metabolic precursor of dopamine, does cross the blood-brain barrier, and is presumably converted to dopamine in the brain.
+This is thought to be the mechanism whereby levodopa relieves the symptoms of Parkinson's disease.
 
-Current evidence indicates that symptoms of Parkinson’s disease are related to depletion of dopamine in the corpus striatum.
-Administration of dopamine is ineffective in the treatment of Parkinson’s disease apparently because it does not cross the blood-brain barrier.
-However, levodopa, the metabolic precursor of dopamine, does cross the blood-brain barrier, and presumably is converted to dopamine in the brain.
-This is thought to be the mechanism whereby levodopa relieves symptoms of Parkinson’s disease.
+Carbidopa
 
-### Carbidopa
+When levodopa is administered orally, it is rapidly decarboxylated to dopamine in extracerebral tissues so that only a small portion of a given dose is transported unchanged to the central nervous system.
+Carbidopa inhibits the decarboxylation of peripheral levodopa, making more levodopa available for delivery to the brain.
 
-When levodopa is administered orally it is rapidly decarboxylated to dopamine in extracerebral tissues so that only a small portion of a given dose is transported unchanged to the central nervous system.
-Carbidopa inhibits the decarboxylation of peripheral levodopa, making more levodopa available for transport to the brain.
-When coadministered with levodopa, carbidopa increases plasma levels of levodopa and reduces the amount of levodopa required to produce a given response by about 75%.
-Carbidopa prolongs the plasma half-life of levodopa from 50 minutes to 1.5 hours and decreases plasma and urinary dopamine and its major metabolite, homovanillic acid.
-The Tmax of levodopa, however, was unaffected by the coadministration.
-
-### Entacapone
+Entacapone
 
 Entacapone is a selective and reversible inhibitor of catechol-O-methyltransferase (COMT).
 
-In mammals, COMT is distributed throughout various organs with the highest activities in the liver and kidney.
-COMT also occurs in neuronal tissues, especially in glial cells.
 COMT catalyzes the transfer of the methyl group of S-adenosyl-L-methionine to the phenolic group of substrates that contain a catechol structure.
 Physiological substrates of COMT include DOPA, catecholamines (dopamine, norepinephrine, and epinephrine) and their hydroxylated metabolites.
-The function of COMT is the elimination of biologically active catechols and some other hydroxylated metabolites.
-When decarboxylation of levodopa is prevented by carbidopa, COMT becomes the major metabolizing enzyme for levodopa, catalyzing its metabolism to 3-methoxy-4-hydroxy-L-phenylalanine (3-OMD).
+When decarboxylation of levodopa is prevented by carbidopa, COMT becomes the major metabolizing enzyme for levodopa, catalyzing its metabolism to 3‑methoxy‑4‑hydroxy‑L‑phenylalanine (3‑OMD).
 
-When entacapone is given in conjunction with levodopa and carbidopa, plasma levels of levodopa are greater and more sustained than after administration of levodopa and carbidopa alone.
-It is believed that at a given frequency of levodopa administration, these more sustained plasma levels of levodopa result in more constant dopaminergic stimulation in the brain, leading to greater effects on the signs and symptoms of Parkinson’s disease.
-The higher levodopa levels may also lead to increased levodopa adverse effects, sometimes requiring a decrease in the dose of levodopa.
+## 12.3 Pharmacokinetics
 
-When 200 mg entacapone is coadministered with levodopa and carbidopa, it increases levodopa plasma exposure (AUC) by 35% to 40% and prolongs its elimination half-life in Parkinson’s disease patients from 1.3 hours to 2.4 hours.
-Plasma levels of the major COMT-mediated dopamine metabolite, 3-methoxy-4-hydroxy-L-phenylalanine (3-OMD), are also markedly decreased proportionally with increasing dose of entacapone.
-
-In animals, while entacapone enters the CNS to a minimal extent, it has been shown to inhibit central COMT activity.
-In humans, entacapone inhibits the COMT enzyme in peripheral tissues.
-The effects of entacapone on central COMT activity in humans have not been studied.
-
-## Pharmacokinetics
-
-The pharmacokinetics of carbidopa, levodopa and entacapone tablets have been studied in healthy subjects (age 45 years old to 75 years old).
+The pharmacokinetics of carbidopa, levodopa and entacapone tablets has been studied in healthy subjects (age 45 years to 75 years).
 Overall, following administration of corresponding doses of levodopa, carbidopa and entacapone as carbidopa, levodopa and entacapone tablets or as carbidopa and levodopa product plus entacapone tablets, the mean plasma concentrations of levodopa, carbidopa, and entacapone are comparable.
 
-### Absorption and Distribution
+Absorption and Distribution
 
 Both levodopa and entacapone are rapidly absorbed and eliminated, and their distribution volume is moderately small.
 Carbidopa is absorbed and eliminated slightly more slowly compared with levodopa and entacapone.
 There are substantial inter- and intra-individual variations in the absorption of levodopa, carbidopa and entacapone, particularly concerning its Cmax.
 
 The food-effect on the carbidopa, levodopa and entacapone tablet has not been evaluated.
+Because levodopa competes with certain amino acids for transport across the gut wall, the absorption of levodopa may be impaired in some patients after eating a high protein meal.
+Meals rich in large neutral amino acids may delay and reduce the absorption of levodopa [see Patient Counseling Information (17)].
 
-#### Levodopa
+Levodopa
 
-The pharmacokinetic properties of levodopa following the administration of single-dose carbidopa, levodopa and entacapone tablets are summarized in Table 1.
+The pharmacokinetic properties of levodopa following the administration of single-dose carbidopa, levodopa and entacapone tablets are summarized in Table 3.
 
-Table 1.
-Pharmacokinetic Characteristics of Levodopa With Different Tablet Strengths of Carbidopa, Levodopa and Entacapone (mean ± SD)
+Table 3: Pharmacokinetic Characteristics of Levodopa with Different Tablet Strengths of Carbidopa, Levodopa and Entacapone Tablets (mean ± SD)
 
-| Tablet Strength | AUC0-∞ (nanogram h per mL) | Cmax (nanogram per mL) | Tmax (h) |
+| Tablet Strength | (nanogram∙h per mL) | (nanogram per mL) | (h) |
 | --- | --- | --- | --- |
-| 12.5 mg, 50 mg, 200 mg | 1,040 ± 314 | 470 ± 154 | 1.1 ± 0.5 |
-| 25 mg, 100 mg, 200 mg | 2,910 ± 715 | 975 ± 247 | 1.4 ± 0.6 |
-| 37.5 mg, 150 mg, 200 mg | 3,770 ± 1,120 | 1,270 ± 329 | 1.5 ± 0.9 |
-| 50 mg, 200 mg, 200 mg | 6,115 ± 1,536 | 1,859 ± 455 | 1.76 ± 0.7 |
-
-Since levodopa competes with certain amino acids for transport across the gut wall, the absorption of levodopa may be impaired in some patients on a high protein diet.
-Meals rich in large neutral amino acids may delay and reduce the absorption of levodopa (see PRECAUTIONS).
+|  | AUC0-∞ | Cmax | Tmax |
+| 12.5 mg per 50 mg per 200 mg | 1,040 ± 314 | 470 ± 154 | 1.1 ± 0.5 |
+| 25 mg per 100 mg per 200 mg | 2,910 ± 715 | 975 ± 247 | 1.4 ± 0.6 |
+| 37.5 mg per 150 mg per 200 mg | 3,770 ± 1,120 | 1,270 ± 329 | 1.5 ± 0.9 |
+| 50 mg per 200 mg per 200 mg | 6,115 ± 1,536 | 1,859 ± 455 | 1.76 ± 0.7 |
 
 Levodopa is bound to plasma protein only to a minor extent (about 10% to 30%).
 
-#### Carbidopa
+Carbidopa
 
-Following administration of carbidopa, levodopa and entacapone tablet as a single dose to healthy male and female subjects, the peak concentration of carbidopa was reached within 2.5 hours to 3.4 hours on average.
-The mean Cmax ranged from about 40 nanogram per mL to 225 nanogram per mL and the mean AUC from 170 nanogram•h per mL to 1,200 nanogram•h per mL, with different carbidopa, levodopa and entacapone tablet strengths providing 12.5 mg, 25 mg, 37.5 mg or 50 mg of carbidopa.
+Following administration of carbidopa, levodopa and entacapone tablets as a single dose to healthy male and female subjects, the peak concentration of carbidopa was reached within 2.5 hours to 3.4 hours on average.
+The mean Cmax ranged from about 40 nanogram per mL to 225 nanogram per mL and the mean AUC from 170 nanogram•h per mL to 1,200 nanogram•h per mL, with different carbidopa, levodopa and entacapone tablet strengths providing 12.5 mg, 25 mg, 37.5 mg, or 50 mg of carbidopa.
 
 Carbidopa is approximately 36% bound to plasma protein.
 
-#### Entacapone
+Entacapone
 
-Following administration of carbidopa, levodopa and entacapone tablet as a single dose to healthy male and female subjects, the peak concentration of entacapone in plasma was reached within 0.8 hours to 1.2 hours on average.
-The mean Cmax of entacapone was about 1,200 nanogram per mL to 1,500 nanogram per mL and the AUC 1,250 nanogram•h per mL to 1,750 nanogram•h per mL after administration of different strengths all providing 200 mg of entacapone.
+Following administration of carbidopa, levodopa and entacapone tablets as a single dose to healthy male and female subjects, the peak concentration of entacapone in plasma was reached within 0.8 hour to 1.2 hours on average.
+The mean Cmax of entacapone was about 1,200 nanogram per mL to 1,500 nanogram per mL and the AUC 1,250 nanogram•h per mL to 1,750 nanagram•h per mL after administration of different carbidopa, levodopa and entacapone tablet strengths all providing 200 mg of entacapone.
 
-The plasma protein binding of entacapone is 98% over the concentration range of 0.4 microgram per mL to 50 microgram per mL.
+The plasma protein binding of entacapone is 98% over the concentration range of 0.4 mcg per mL to 50 mcg per mL.
 Entacapone binds mainly to serum albumin.
 
-### Metabolism and Elimination
+Metabolism and Elimination
 
-#### Levodopa
+Levodopa
 
 The elimination half-life of levodopa, the active moiety of antiparkinsonian activity, was 1.7 hours (range 1.1 hours to 3.2 hours).
 
 Levodopa is extensively metabolized to various metabolites.
-Two major pathways are decarboxylation by dopa decarboxylase (DDC) and O-methylation by catechol-O-methyltransferase (COMT).
+Two major pathways are decarboxylation by dopa decarboxylase (DDC) and O-methylation by COMT.
 
-#### Carbidopa
+Carbidopa
 
 The elimination half-life of carbidopa was on average 1.6 hours to 2 hours (range 0.7 hour to 4.0 hours).
 
-Carbidopa is metabolized to two main metabolites (α-methyl-3-methoxy-4-hydroxyphenylpropionic acid and α-methyl-3,4-dihydroxyphenylpropionic acid).
+Carbidopa is metabolized to two main metabolites (α-methyl-3-methoxy-4-hydroxyphenylpropionic acid and α‑methyl‑3,4‑dihydroxyphenylpropionic acid).
 These 2 metabolites are primarily eliminated in the urine unchanged or as glucuronide conjugates.
 Unchanged carbidopa accounts for 30% of the total urinary excretion.
 
-#### Entacapone
+Entacapone
 
 The elimination half-life of entacapone was on average 0.8 hour to 1 hour (0.3 hour to 4.5 hours).
 
@@ -119,78 +98,79 @@ After oral administration of a 14C-labeled dose of entacapone, 10% of labeled pa
 
 Due to short elimination half-lives, no true accumulation of levodopa or entacapone occurs when they are administered repeatedly.
 
-### Special Populations
+Renal Impairment
 
-#### Hepatic Impairment
+Entacapone
 
-##### Carbidopa, levodopa and entacapone tablets
+The pharmacokinetics of entacapone have been investigated after a single 200 mg entacapone dose in subjects with normal, moderate, and severely impaired renal functions, without levodopa and dopa decarboxylase inhibitor coadministration.
+No significant effects of renal function on the pharmacokinetics of entacapone were found.
 
-While there are no studies on the pharmacokinetics of carbidopa and levodopa in patients with hepatic impairment, carbidopa, levodopa and entacapone tablets should be administered cautiously to patients with biliary obstruction or hepatic disease since biliary excretion appears to be the major route of excretion of entacapone and hepatic impairment had a significant effect on the pharmacokinetics of entacapone when 200 mg entacapone was administered alone.
+Levodopa and carbidopa
 
-##### Entacapone
+No studies on the pharmacokinetics of levodopa and carbidopa in patients with renal impairment.
+
+Hepatic Impairment
+
+Entacapone
 
 Hepatic impairment had a significant effect on the pharmacokinetics of entacapone when 200 mg entacapone was administered alone.
-A single 200 mg dose of entacapone, without levodopa/dopa decarboxylase inhibitor coadministration, showed approximately two-fold higher AUC and Cmax values in patients with a history of alcoholism and hepatic impairment (n=10) compared to normal subjects (n=10).
+A single 200 mg dose of entacapone, without levodopa and dopa decarboxylase inhibitor coadministration, showed approximately 2-fold higher AUC and Cmax values in patients with a history of alcoholism and hepatic impairment (n=10) compared to normal subjects (n=10).
 All patients had biopsy-proven liver cirrhosis caused by alcohol.
 According to Child-Pugh grading 7 patients with liver disease had mild hepatic impairment and 3 patients had moderate hepatic impairment.
 As only about 10% of the entacapone dose is excreted in urine, as parent compound and conjugated glucuronide, biliary excretion appears to be the major route of excretion of this drug.
-Consequently, carbidopa, levodopa and entacapone tablets should be administered with care to patients with biliary obstruction or hepatic disease.
+Carbidopa, levodopa and entacapone tablets should be administered with care to patients with biliary obstruction or hepatic disease.
 
-#### Renal Impairment
+Levodopa and carbidopa
 
-##### Carbidopa, levodopa and entacapone tablets
+There are no studies on the pharmacokinetics of levodopa and carbidopa in patients with hepatic impairment.
 
-Carbidopa, levodopa and entacapone tablets should be administered cautiously to patients with severe renal disease.
-There are no studies on the pharmacokinetics of levodopa and carbidopa in patients with renal impairment.
+Geriatric Use
 
-##### Entacapone
+In the pharmacokinetics studies conducted in healthy volunteers following a single dose of carbidopa-, levodopa- and entacapone (as carbidopa, levodopa and entacapone tablets or as separate carbidopa/levodopa and entacapone tablets):
 
-No important effects of renal function on the pharmacokinetics of entacapone were found.
-The pharmacokinetics of entacapone have been investigated after a single 200 mg entacapone dose, without levodopa/dopa decarboxylase inhibitor coadministration, in a specific renal impairment study.
-There were three groups: normal subjects (n=7; creatinine clearance greater than 1.12 mL per sec per 1.73 m2), moderate impairment (n=10; creatinine clearance ranging from 0.60 mL per sec per 1.73 m2 to 0.89 mL per sec per 1.73 m2), and severe impairment (n=7; creatinine clearance ranging from 0.20 mL per sec per 1.73 m2 to 0.44 mL per sec per 1.73 m2).
-
-#### Concurrent Diseases
-
-Carbidopa, levodopa and entacapone tablets should be administered cautiously to patients with biliary obstruction, hepatic disease, severe cardiovascular or pulmonary disease, bronchial asthma, renal, or endocrine disease.
-
-#### Elderly
-
-Carbidopa, levodopa and entacapone tablets have not been studied in Parkinson’s disease patients or in healthy volunteers older than 75 years old.
-In the pharmacokinetics studies conducted in healthy volunteers following single dose of carbidopa/levodopa/entacapone (as carbidopa, levodopa and entacapone tablets or as separate carbidopa/levodopa and entacapone tablets):
-
-##### Levodopa
+Levodopa
 
 The AUC of levodopa is significantly (on average 10% to 20%) higher in elderly (60 years to 75 years) than younger subjects (45 years to 60 years).
 There is no significant difference in the Cmax of levodopa between younger (45 years to 60 years) and elderly subjects (60 years to 75 years).
 
-##### Carbidopa
+Carbidopa
 
 There is no significant difference in the Cmax and AUC of carbidopa, between younger (45 years to 60 years) and elderly subjects (60 years to 75 years).
 
-##### Entacapone
+Entacapone
 
 The AUC of entacapone is significantly (on average, 15%) higher in elderly (60 years to 75 years) than younger subjects (45 years to 60 years).
 There is no significant difference in the Cmax of entacapone between younger (45 years to 60 years) and elderly subjects (60 years to 75 years).
 
-#### Gender
+Gender
 
-The bioavailability of levodopa is significantly higher in females when given with or without carbidopa and/or entacapone.
-Following a single dose of carbidopa, levodopa and entacapone together, either as carbidopa, levodopa and entacapone tablets or as separate carbidopa/levodopa and entacapone tablets in healthy volunteers (age range 45 years to 74 years):
+Pharmacokinetics following a single dose of carbidopa, levodopa and entacapone together, either as carbidopa, levodopa and entacapone tablets or as separate carbidopa/levodopa tablets and entacapone tablets in healthy volunteers (age range 45 years to 74 years):
 
-##### Levodopa
+Levodopa
 
 The plasma exposure (AUC and Cmax) of levodopa is significantly higher in females than males (on average, 40% for AUC and 30% for Cmax).
 These differences are primarily explained by body weight.
 Other published literature showed significant gender effect (higher concentrations in females) even after correction for body weight.
 
-##### Carbidopa
+Carbidopa
 
 There is no gender difference in the pharmacokinetics of carbidopa.
 
-##### Entacapone
+Entacapone
 
 There is no gender difference in the pharmacokinetics of entacapone.
 
-### Drug Interactions
+Drug Metabolized by COMT
 
-See PRECAUTIONS: Drug Interactions.
+When a single 400 mg dose of entacapone was given together with intravenous isoprenaline (isoproterenol) and epinephrine without coadministered levodopa and dopa decarboxylase inhibitor, the overall mean maximal changes in heart rate during infusion were about 50% and 80% higher than with placebo, for isoprenaline and epinephrine, respectively.
+
+Drugs known to be metabolized by COMT should be administered with caution in patients receiving entacapone regardless of the route of administration [see Drug Interactions (7.2)].
+
+Drugs Metabolized via CYP2C9
+
+Due to its affinity to CYP2C9 in vitro, entacapone may potentially interfere with medicinal products with metabolism dependent on this isoenzyme.
+In an interaction study in healthy volunteers, entacapone increased the AUC of R-warfarin on average by 18%, and the INR values increased on average by 13% [see Drug Interactions (7.11)].
+
+## 12.6 Hormone Levels
+
+Of the ingredients in carbidopa, levodopa and entacapone tablets, levodopa is known to depress prolactin secretion and increase growth hormone levels.

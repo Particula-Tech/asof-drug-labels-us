@@ -1,6 +1,8 @@
-# INDICATIONS
+# 1 INDICATIONS AND USAGE
 
-Carbidopa, levodopa and entacapone tablets are indicated to treat patients with idiopathic Parkinson’s disease:
+Carbidopa, levodopa and entacapone tablets, a combination drug consisting of levodopa, carbidopa (dopa decarboxylase inhibitor), and entacapone (catechol-O-methyltransferase-COMT inhibitor) is indicated for the treatment of Parkinson's disease.
 
-1. 1.To substitute (with equivalent strength of each of the three components) for immediate-release carbidopa/levodopa and entacapone previously administered as individual products.
-2. 2.To replace immediate-release carbidopa/levodopa therapy (without entacapone) when patients experience the signs and symptoms of end-of-dose “wearing-off” (only for patients taking a total daily dose of levodopa of 600 mg or less and not experiencing dyskinesias, see DOSAGE AND ADMINISTRATION).
+Carbidopa, levodopa and entacapone tablets can be used:
+
+- •To substitute (with equivalent strengths of each of the three components) carbidopa/levodopa and entacapone previously administered as individual products.
+- •To replace carbidopa/levodopa therapy (without entacapone) when patients experience the signs and symptoms of end-of-dose “wearing-off” and when they have been taking a total daily dose of levodopa of 600 mg or less and have not been experiencing dyskinesias.

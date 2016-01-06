@@ -1,4 +1,4 @@
-# 50 mg Label
+# 12.5 mg/50 mg/200 mg Label
 
 NDC 0781-5613-01 100 Tablets
 
@@ -14,17 +14,15 @@ Levodopa USP 50 mg
 
 and Entacapone 200 mg
 
-Health Care Provider: Do not
+Do not combine tablets to achieve a higher
 
-combine lower strength tablets to
+strength tablet due to the risk of
 
-achieve a higher strength tablet due
-
-to risk of entacapone overdose.
+entacapone overdose.
 
 SANDOZ Rx only
 
-# 75 mg Label
+# 18.75 mg/75 mg/200 mg Label
 
 NDC 0781-5625-01 100 Tablets
 
@@ -40,17 +38,15 @@ Levodopa USP 75 mg
 
 and Entacapone 200 mg
 
-Health Care Provider: Do not
+Do not combine tablets to achieve a higher
 
-combine lower strength tablets to
+strength tablet due to the risk of
 
-achieve a higher strength tablet due
-
-to risk of entacapone overdose.
+entacapone overdose.
 
 SANDOZ Rx only
 
-# 100 mg Label
+# 25 mg/100 mg/200 mg Label
 
 NDC 0781-5637-01 100 Tablets
 
@@ -68,17 +64,15 @@ Levodopa USP 100 mg
 
 and Entacapone 200 mg
 
-Health Care Provider: Do not combine
+Do not combine tablets to achieve a higher
 
-lower strength tablets to achieve a
-
-higher strength tablet due to risk of
+strength tablet due to the risk of
 
 entacapone overdose.
 
 SANDOZ Rx only
 
-# 125 mg Label
+# 31.25 mg/125 mg/200 mg Label
 
 NDC 0781-5641-01 100 Tablets
 
@@ -96,17 +90,15 @@ Levodopa USP 125 mg
 
 and Entacapone 200 mg
 
-Health Care Provider: Do not combine
+Do not combine tablets to achieve a higher
 
-lower strength tablets to achieve a
-
-higher strength tablet due to risk of
+strength tablet due to the risk of
 
 entacapone overdose.
 
 SANDOZ Rx only
 
-# 150 mg Label
+# 37.5 mg/150 mg/200 mg Label
 
 NDC 0781-5654-01 100 Tablets
 
@@ -124,17 +116,15 @@ Levodopa USP 150 mg
 
 and Entacapone 200 mg
 
-Health Care Provider: Do not combine
+Do not combine tablets to achieve a higher
 
-lower strength tablets to achieve a
-
-higher strength tablet due to risk of
+strength tablet due to the risk of
 
 entacapone overdose.
 
 SANDOZ Rx only
 
-# 200 mg Label
+# 50 mg/200 mg/200 mg Label
 
 NDC 0781-5669-01 100 Tablets
 
@@ -152,11 +142,9 @@ Levodopa USP 200 mg
 
 and Entacapone 200 mg
 
-Health Care Provider: Do not combine
+Do not combine tablets to achieve a higher
 
-lower strength tablets to achieve a
-
-higher strength tablet due to risk of
+strength tablet due to the risk of
 
 entacapone overdose.
 
