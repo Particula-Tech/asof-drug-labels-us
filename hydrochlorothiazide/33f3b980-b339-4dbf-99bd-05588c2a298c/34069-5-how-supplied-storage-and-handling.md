@@ -23,9 +23,11 @@ Bottles of 5000: NDC 29300-129-50
 PHARMACIST: Dispense in a well-closed container as defined in the USP.
 Use child-resistant closure (as required)
 
-Store at 20° - 25° C (68°-77° F)
+Store at 20° to 25°C (68° to 77°F)
 
 [See USP Controlled Room Temperature].
+
+Please address medical inquiries to Unichem's toll free # 1-866-562-4616.
 
 Manufactured by:
 
@@ -38,6 +40,6 @@ Marketed by:
 
 Rochelle Park, NJ 07662.
 
-13004203
+13007865
 
-R-02-11/2011
+03-R-08/2015
