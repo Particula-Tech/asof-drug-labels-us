@@ -1,4 +1,4 @@
-# 16. HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Trazodone Hydrochloride Tablets, USP 50 mg are available for oral administration as white to off white, round, biconvex, uncoated tablets debossed with "13" bisect "30" on one side and plain on other side.
 
@@ -47,7 +47,7 @@ Directions for using the correct score when breaking the tablet, please refer to
 
 -For 150 mg, use the entire tablet.
 
-Trazodone Hydrochloride Tablets, USP 300 mg are available for oral administration as white to off white, oval, flat faced beveled edge uncoated tablets with a full bisect and two partial trisects.
+Trazodone Hydrochloride Tablets, USP 300 mg are available for oral administration as white to off white, oval, flat faced beveled edge uncoated tablets with a full bisect and 2 partial trisects.
 Debossed "13" bisect "33" on one side and "100 100 100" on other side with middle "100" perpendicular to others.
 
 Bottles of 100 NDC 13668-333-01
@@ -62,6 +62,5 @@ Directions for using the correct score when breaking the tablet, please refer to
 
 -For 300 mg, use the entire tablet.
 
-Store at 20° to 25°C (68° to 77°F), excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
-
-Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
+Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
+Dispense with a child-resistant closure in a tight, light-resistant container.

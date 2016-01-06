@@ -1,4 +1,4 @@
-# 3. DOSAGE FORMS AND STRENGTHS
+# 3 DOSAGE FORMS AND STRENGTHS
 
 Trazodone hydrochloride tablets are available in the following strengths:
 

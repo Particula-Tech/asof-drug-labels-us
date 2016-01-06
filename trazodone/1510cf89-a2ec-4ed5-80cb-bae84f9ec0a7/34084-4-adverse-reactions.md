@@ -1,32 +1,34 @@
-# 6. ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 The following serious adverse reactions are described elsewhere in the labeling:
 
 - Clinical Worsening and Suicide Risk [see Boxed Warning and Warnings and Precautions (5.1)]
-- Serotonin Syndrome or NMS-like Reactions [see Warnings and Precautions (5.2)]
+- Serotonin Syndrome or NMS-Like Reactions [see Warnings and Precautions (5.2)]
 - QT Prolongation and Risk of Sudden Death [see Warnings and Precautions (5.4)]
 - Orthostatic Hypotension [see Warnings and Precautions (5.6)]
-- Abnormal bleeding events [see Warnings and Precautions (5.7)]
+- Abnormal Bleeding Events [see Warnings and Precautions (5.7)]
 - Priapism [see Warnings and Precautions (5.9)]
 - Hyponatremia [see Warnings and Precautions (5.10)]
 - Cognitive and Motor Impairment [see Warnings and Precautions (5.11)]
-- Discontinuation symptoms [see Warnings and Precautions (5.12)]
+- Discontinuation Symptoms [see Warnings and Precautions (5.13)]
 
-The most common adverse reactions (reported in ≥5% and at twice the rate of placebo) are: Somnolence/sedation, dizziness, constipation, vision blurred.
+The most common adverse reactions (reported in ≥5% and at twice the rate of placebo) are:
+
+Somnolence/sedation, dizziness, constipation, vision blurred.
 
 Table 2 presents the summary of adverse events (AEs) leading to discontinuation of trazodone hydrochloride tablets treatment with an incidence of at least 1% and at least twice that for placebo.
 
-| Table 2: Adverse Reactions with discontinuation as |  |
+| Table 2: Adverse Reactions with Discontinuation as |  |
 | --- | --- |
-| action taken (≥1%) incidence and incidence 2x placebo) |  |
+| Action Taken (≥1%) Incidence and Incidence 2x Placebo) |  |
 |  | Trazodone N = 202 |
-| Somnolence/Sedation | 8 (4.0%) |
+| Somnolence/Sedation | 8 (4%) |
 | Dizziness | 7 (3.5%) |
-| Confusional state | 2 (1.0%) |
-| Coordination abnormal | 2 (1.0%) |
-| Headache | 2 (1.0%) |
-| Nausea | 2 (1.0%) |
-| Balance disorder / Gait disturbance | 2 (1.0%) |
+| Confusional state | 2 (1%) |
+| Coordination abnormal | 2 (1%) |
+| Headache | 2 (1%) |
+| Nausea | 2 (1%) |
+| Balance disorder / Gait disturbance | 2 (1%) |
 
 ## 6.1 Clinical Studies Experience
 
@@ -35,7 +37,7 @@ The table below is presented solely to indicate the relative frequency of advers
 The figures cited cannot be used to predict concisely the incidence of untoward events in the course of usual medical practice where patient characteristics and other factors often differ from those which prevailed in the clinical trials.
 These incidence figures, also, cannot be compared with those obtained from other clinical studies involving related drug products and placebo as each group of drug trials is conducted under a different set of conditions.
 
-Table 3: Adverse Reactions: Percentage of Patients (>2%) as observed in controlled clinical studies
+Table 3: Adverse Reactions: Percentage of Patients (>2%) as Observed in Controlled Clinical Studies
 
 |  | Inpatients |  | Outpatients |  |
 | --- | --- | --- | --- | --- |
@@ -59,9 +61,9 @@ Table 3: Adverse Reactions: Percentage of Patients (>2%) as observed in controll
 | Confusion | 4.9 | 0 | 5.7 | 7.6 |
 | Decreased Concentration | 2.8 | 2.1 | 1.3 | 0 |
 | Disorientation | 2.1 | 0 | * | 0 |
-| Dizziness/Light-headedness | 19.7 | 5.3 | 28 | 15.2 |
+| Dizziness/Light-Headedness | 19.7 | 5.3 | 28 | 15.2 |
 | Drowsiness | 23.9 | 6.3 | 40.8 | 19.6 |
-| Excitement | 1.4 | 1.1 | 5.1 | 5.7 |
+| Excitement | 1.1 | 1.1 | 5.1 | 5.7 |
 | Fatigue | 11.3 | 4.2 | 5.7 | 2.5 |
 | Headache | 9.9 | 5.3 | 19.8 | 15.8 |
 | Insomnia | 9.9 | 10.5 | 6.4 | 12 |
@@ -102,4 +104,4 @@ In addition to the relatively common (i.e., greater than 1%) untoward events enu
 Spontaneous reports regarding trazodone hydrochloride received from postmarketing experience include the following: abnormal dreams, agitation, alopecia, anxiety, aphasia, apnea, ataxia, breast enlargement or engorgement, cardiospasm, cerebrovascular accident, chills, cholestasis, clitorism, congestive heart failure, diplopia, edema, extrapyramidal symptoms, grand mal seizures, hallucinations, hemolytic anemia, hirsutism, hyperbilirubinemia, increased amylase, increased salivation, insomnia, leukocytosis, leukonychia, jaundice, lactation, liver enzyme alterations, methemoglobinemia, nausea/vomiting (most frequently), paresthesia, paranoid reaction, priapism [see Warnings and Precautions (5.9) and Patient Counseling Information (17.1)], pruritus, psoriasis, psychosis, rash, stupor, inappropriate ADH syndrome, tardive dyskinesia, unexplained death, urinary incontinence, urinary retention, urticaria, vasodilation, vertigo, and weakness.
 
 Cardiovascular system effects which have been reported include the following: conduction block, orthostatic hypotension and syncope, palpitations, bradycardia, atrial fibrillation, myocardial infarction, cardiac arrest, arrhythmia, ventricular ectopic activity, including ventricular tachycardia and QT prolongation.
-In postmarketing surveillance, prolonged QT interval, Torsades de Pointes, and ventricular tachycardia have been reported with the immediate-release form of trazodone at doses of 100 mg per day or less [see Warnings and Precautions (5.4)].
+In postmarketing surveillance, prolonged QT interval, torsades de pointes, and ventricular tachycardia have been reported with the immediate-release form of trazodone at doses of 100 mg per day or less [see Warnings and Precautions (5.4)].

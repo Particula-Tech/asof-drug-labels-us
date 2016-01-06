@@ -1,6 +1,6 @@
-# 7. DRUG INTERACTIONS
+# 7 DRUG INTERACTIONS
 
-MAOs
+MAOIs
 
 MAOIs should not be used within 14 days of trazodone [see Warnings and Precautions (5.8)].
 
@@ -12,15 +12,15 @@ Cytochrome P450 3A4 Inhibitors
 
 In vitro drug metabolism studies suggest that there is a potential for drug interactions when trazodone is given with cytochrome P450 3A4 (CYP3A4) inhibitors.
 The effect of short-term administration of ritonavir (200 mg twice daily, 4 doses) on the pharmacokinetics of a single dose of trazodone (50 mg) has been studied in 10 healthy subjects.
-The Cmax of trazodone increased by 34%, the AUC increased 2.4-fold, the half-life increased by 2.2-fold, and the clearance decreased by 52%.
-Adverse effects including nausea, hypotension, and syncope were observed when ritonavir and trazodone were co-administered.
+The Cmax of trazodone increased by 34%, the AUC increased 2.4 fold, the half-life increased by 2.2 fold, and the clearance decreased by 52%.
+Adverse effects including nausea, hypotension, and syncope were observed when ritonavir and trazodone were coadministered.
 It is likely that ketoconazole, indinavir, and other CYP3A4 inhibitors such as itraconazole may lead to substantial increases in trazodone plasma concentrations with the potential for adverse effects.
 If trazodone is used with a potent CYP3A4 inhibitor, the risk of cardiac arrhythmia may be increased [see Warnings and Precautions (5.4)] and a lower dose of trazodone should be considered.
 
-Cytochrome P450 Inducers (e.g., carbamazepine)
+Cytochrome P450 Inducers (e.g., Carbamazepine)
 
 Carbamazepine induces CYP3A4.
-Following co-administration of carbamazepine 400 mg per day with trazodone 100 mg to 300 mg daily, carbamazepine reduced plasma concentrations of trazodone and m- chlorophenlypiperazine (an active metabolite) by 76% and 60% respectively, compared to pre- carbamazepine values.
+Following coadministration of carbamazepine 400 mg per day with trazodone 100 mg to 300 mg daily, carbamazepine reduced plasma concentrations of trazodone and m-chlorophenlypiperazine (an active metabolite) by 76% and 60% respectively, compared to pre-carbamazepine values.
 Patients should be closely monitored to see if there is a need for an increased dose of trazodone when taking both drugs.
 
 Digoxin and Phenytoin
@@ -30,7 +30,7 @@ Monitor serum levels and adjust dosages as needed.
 
 Serotonergic Drugs
 
-Based on the mechanism of action of trazodone and the potential for serotonin syndrome, caution is advised when trazodone is co-administered with other drugs that may affect the neurotransmitter systems [see Warnings and Precautions (5.2)].
+Based on the mechanism of action of trazodone and the potential for serotonin syndrome, caution is advised when trazodone is coadministered with other drugs that may affect the neurotransmitter systems [see Warnings and Precautions (5.2)].
 
 NSAIDs, Aspirin, or Other Drugs Affecting Coagulation or Bleeding
 

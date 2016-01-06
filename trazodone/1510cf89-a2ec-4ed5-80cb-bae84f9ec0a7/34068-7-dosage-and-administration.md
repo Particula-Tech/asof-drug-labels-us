@@ -1,4 +1,4 @@
-# 2. DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 The dosage should be initiated at a low-dose and increased gradually, noting the clinical response and any evidence of intolerance.
 Occurrence of drowsiness may require the administration of a major portion of the daily dose at bedtime or a reduction of dosage.
@@ -11,10 +11,9 @@ The dose may be increased by 50 mg/day every 3 to 4 days.
 The maximum dose for outpatients usually should not exceed 400 mg/day in divided doses.
 Inpatients (i.e., more severely depressed patients) may be given up to but not in excess of 600 mg/day in divided doses
 
-ƒ Once an adequate response has been achieved, dosage may be gradually reduced, with subsequent adjustment depending on therapeutic response.
-
-ƒ Patients should be monitored for withdrawal symptoms when discontinuing treatment with trazodone hydrochloride.
-The dose should be gradually reduced whenever possible [see Warnings and Precautions (5.12)].
+- Once an adequate response has been achieved, dosage may be gradually reduced, with subsequent adjustment depending on therapeutic response.
+- Patients should be monitored for withdrawal symptoms when discontinuing treatment with trazodone hydrochloride tablets.
+  The dose should be gradually reduced whenever possible [see Warnings and Precautions (5.13)].
 
 Maintenance Treatment
 

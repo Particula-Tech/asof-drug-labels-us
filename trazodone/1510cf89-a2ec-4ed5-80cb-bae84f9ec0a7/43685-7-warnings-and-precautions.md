@@ -1,11 +1,11 @@
-# 5. WARNINGS AND PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
 ## 5.1 Clinical Worsening and Suicide Risk
 
 Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
 Suicide is a known risk of depression and certain other psychiatric disorders and these disorders themselves are the strongest predictors of suicide.
 There has been a long standing concern, however, that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.
-Pooled analyses of short- term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 – 24) with MDD and other psychiatric disorders.
+Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 to 24) with MDD and other psychiatric disorders.
 Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.
 
 The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4,400 patients.
@@ -38,11 +38,11 @@ Although a causal link between the emergence of such symptoms and either the wor
 
 Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 
-Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
+Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to healthcare providers.
 Such monitoring should include daily observation by families and caregivers.
 Prescriptions for trazodone should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 
-## 5.2 Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions
+## 5.2 Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-Like Reactions
 
 The development of a potentially life-threatening serotonin syndrome or neuroleptic malignant syndrome (NMS)-like reactions have been reported with antidepressants alone and may occur with trazodone treatment, but particularly with concomitant use of other serotoninergic drugs (including SSRIs, SNRIs and triptans) and with drugs that impair metabolism of serotonin (including monoamine oxidase inhibitors [MAOIs]), or with antipsychotics or other dopamine antagonists.
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, and hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, and diarrhea).
@@ -62,16 +62,16 @@ A major depressive episode may be the initial presentation of bipolar disorder.
 It is generally believed (though not established in controlled trials) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed/manic episode in patients at risk for bipolar disorder.
 Whether any of the symptoms described for clinical worsening and suicide risk represent such a conversion is unknown.
 However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
-It should be noted that trazodone hydrochloride tablets is not approved for use in treating bipolar depression.
+It should be noted that trazodone hydrochloride tablets are not approved for use in treating bipolar depression.
 
 ## 5.4 QT Prolongation and Risk of Sudden Death
 
 Trazodone is known to prolong the QT/QTc interval.
-Some drugs that prolong the QT/QTc interval can cause Torsades de Pointes with sudden, unexplained death.
+Some drugs that prolong the QT/QTc interval can cause torsades de pointes with sudden, unexplained death.
 The relationship of QT prolongation is clearest for larger increases (20 msec and greater), but it is possible that smaller QT/QTc prolongations may also increase risk, especially in susceptible individuals, such as those with hypokalemia, hypomagnesemia, or a genetic predisposition to prolonged QT/QTc.
 
-Although Torsades de Pointes has not been observed with the use of trazodone hydrochloride tablets at recommended doses in premarketing trials, experience is too limited to rule out an increased risk.
-However, there have been postmarketing reports of Torsades de Pointes with the immediate-release form of trazodone (in the presence of multiple confounding factors), even at doses of 100 mg per day or less.
+Although torsades de pointes has not been observed with the use of trazodone hydrochloride tablets at recommended doses in premarketing trials, experience is too limited to rule out an increased risk.
+However, there have been postmarketing reports of torsades de pointes with the immediate-release form of trazodone (in the presence of multiple confounding factors), even at doses of 100 mg per day or less.
 
 ## 5.5 Use in Patients with Heart Disease
 
@@ -80,8 +80,8 @@ Trazodone hydrochloride is not recommended for use during the initial recovery p
 Caution should be used when administering trazodone hydrochloride tablets to patients with cardiac disease and such patients should be closely monitored, since antidepressant drugs (including trazodone hydrochloride) may cause cardiac arrhythmias.
 
 QT prolongation has been reported with trazodone therapy [see Warnings and Precautions (5.4)].
-Clinical studies in patients with pre-existing cardiac disease indicate that trazodone hydrochloride may be arrhythmogenic in some patients in that population.
-Arrhythmias identified include isolated PVCs, ventricular couplets, tachycardia with syncope, and Torsades de Pointes.
+Clinical studies in patients with preexisting cardiac disease indicate that trazodone hydrochloride may be arrhythmogenic in some patients in that population.
+Arrhythmias identified include isolated PVCs, ventricular couplets, tachycardia with syncope, and torsades de pointes.
 Postmarketing events have been reported at doses of 100 mg or less with the immediate-release form of trazodone.
 
 Concomitant administration of drugs that prolong the QT interval or that are inhibitors of CYP3A4 may increase the risk of cardiac arrhythmia.
@@ -130,6 +130,10 @@ Signs and symptoms associated with more severe and/or acute cases have included 
 
 Trazodone hydrochloride tablets may cause somnolence or sedation and may impair the mental and/or physical ability required for the performance of potentially hazardous tasks.
 Patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that the drug treatment does not affect them adversely.
+
+## 5.13 Angle-Closure Glaucoma
+
+Angle-Closure Glaucoma: The pupillary dilation that occurs following use of many antidepressant drugs including trazodone hydrochloride may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
 
 ## 5.12 Discontinuation Symptoms
 
