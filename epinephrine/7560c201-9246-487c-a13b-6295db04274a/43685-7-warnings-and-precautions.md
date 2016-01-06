@@ -23,7 +23,7 @@ EpiPen and EpiPen Jr should only be injected into the anterolateral aspect of th
   Advise the patient to go immediately to the nearest emergency room and to inform the healthcare provider in the emergency room of the location of the accidental injection.
   Treatment of such inadvertent administration should consist of vasodilation, in addition to further appropriate treatment of anaphylaxis [see Adverse Reactions (6)].
 
-## 5.3 Allergic Reactions Associated With Sulfite
+## 5.3 Allergic Reactions Associated with Sulfite
 
 The presence of a sulfite in this product should not deter administration of the drug for treatment of serious allergic or other emergency situations even if the patient is sulfite-sensitive.
 

@@ -14,34 +14,34 @@ This information does not take the place of talking with your healthcare provide
 
 What is the most important information I should know about the EpiPen and EpiPen Jr?
 
-- 1.EpiPen and EpiPen Jr contain epinephrine, a medicine used to treat allergic emergencies (anaphylaxis).
-  Anaphylaxis can be life threatening, can happen within minutes, and can be caused by stinging and biting insects, allergy injections, foods, medicines, exercise, or unknown causes.
-- Symptoms of anaphylaxis may include:
-  1. •trouble breathing
-  2. •wheezing
-  3. •hoarseness (changes in the way your voice sounds)
-  4. •hives (raised reddened rash that may itch)
-  5. •severe itching
-  6. •swelling of your face, lips, mouth, or tongue
-  7. •skin rash, redness, or swelling
-  8. •fast heartbeat
-  9. •weak pulse
-  10. •feeling very anxious
-  11. •confusion
-  12. •stomach pain
-  13. •losing control of urine or bowel movements (incontinence)
-  14. •diarrhea or stomach cramps
-  15. •dizziness, fainting, or “passing out” (unconsciousness)
-- 2.Always carry your EpiPen or EpiPen Jr with you because you may not know when anaphylaxis may happen.
-- Talk to your healthcare provider if you need additional units to keep at work, school, or other locations.
-  Tell your family members, caregivers, and others where you keep your EpiPen or EpiPen Jr and how to use it before you need it.
-  You may be unable to speak in an allergic emergency.
-- 3.When you have an allergic emergency (anaphylaxis)
-  1. •Use the EpiPen or EpiPen Jr right away.
-  2. •Get emergency medical help right away.
-     You may need further medical attention.
-     You may need to use a second EpiPen or EpiPen Jr if symptoms continue or recur.
-     Only a healthcare provider should give additional doses of epinephrine if you need more than 2 injections for a single anaphylaxis episode.
+1. 1.EpiPen and EpiPen Jr contain epinephrine, a medicine used to treat allergic emergencies (anaphylaxis).
+   Anaphylaxis can be life threatening, can happen within minutes, and can be caused by stinging and biting insects, allergy injections, foods, medicines, exercise, or unknown causes.
+2. Symptoms of anaphylaxis may include:
+   1. •trouble breathing
+   2. •wheezing
+   3. •hoarseness (changes in the way your voice sounds)
+   4. •hives (raised reddened rash that may itch)
+   5. •severe itching
+   6. •swelling of your face, lips, mouth, or tongue
+   7. •skin rash, redness, or swelling
+   8. •fast heartbeat
+   9. •weak pulse
+   10. •feeling very anxious
+   11. •confusion
+   12. •stomach pain
+   13. •losing control of urine or bowel movements (incontinence)
+   14. •diarrhea or stomach cramps
+   15. •dizziness, fainting, or “passing out” (unconsciousness)
+3. 2.Always carry your EpiPen or EpiPen Jr with you because you may not know when anaphylaxis may happen.
+4. Talk to your healthcare provider if you need additional units to keep at work, school, or other locations.
+   Tell your family members, caregivers, and others where you keep your EpiPen or EpiPen Jr and how to use it before you need it.
+   You may be unable to speak in an allergic emergency.
+5. 3.When you have an allergic emergency (anaphylaxis)
+   1. •Use the EpiPen or EpiPen Jr right away.
+   2. •Get emergency medical help right away.
+      You may need further medical attention.
+      You may need to use a second EpiPen or EpiPen Jr if symptoms continue or recur.
+      Only a healthcare provider should give additional doses of epinephrine if you need more than 2 injections for a single anaphylaxis episode.
 
 What are EpiPen and EpiPen Jr?
 
@@ -119,7 +119,6 @@ EpiPen and EpiPen Jr may cause serious side effects.
   - •fingers, toes, hands, or feet
 - If you accidentally inject EpiPen or EpiPen Jr into any other part of your body, go to the nearest emergency room right away.
   Tell the healthcare provider where on your body you received the accidental injection.
-
 - •If you have certain medical conditions, or take certain medicines, your condition may get worse or you may have longer lasting side effects when you use your EpiPen or EpiPen Jr.
   Talk to your healthcare provider about all your medical conditions.
 
@@ -209,8 +208,8 @@ Your EpiPen and EpiPen Jr Auto-Injector
 
 A dose of EpiPen or EpiPen Jr® requires 3 simple steps: Prepare, Administer and Get emergency medical help
 
-Step 1.
-Prepare EpiPen or EpiPen Jr for injection
+1. Step 1.
+   Prepare EpiPen or EpiPen Jr for injection
 
 |  | Remove the EpiPen or EpiPen Jr from the clear carrier tube. |
 | --- | --- |
@@ -233,16 +232,15 @@ Administer EpiPen or EpiPen Jr
 |  | Remove the auto-injector from the thigh. The orange tip will extend to cover the needle. |
 |  | Massage the injection area for 10 seconds. |
 
-Step 3.
-Get emergency medical help now.
-You may need further medical attention.
-You may need to use a second EpiPen or EpiPen Jr Auto-Injector if symptoms continue or recur.
-
-- •Take your used auto-injector with you when you go to see a healthcare provider.
-- •Tell the healthcare provider that you have received an injection of epinephrine.
-  Show the healthcare provider where you received the injection.
-- •Give your used EpiPen or EpiPen Jr Auto-Injector to the healthcare provider for inspection and proper disposal.
-- •Ask for a refill, if needed.
+1. Step 3.
+   Get emergency medical help now.
+   You may need further medical attention.
+   You may need to use a second EpiPen or EpiPen Jr Auto-Injector if symptoms continue or recur.
+2. •Take your used auto-injector with you when you go to see a healthcare provider.
+3. •Tell the healthcare provider that you have received an injection of epinephrine.
+   Show the healthcare provider where you received the injection.
+4. •Give your used EpiPen or EpiPen Jr Auto-Injector to the healthcare provider for inspection and proper disposal.
+5. •Ask for a refill, if needed.
 
 Note:
 
