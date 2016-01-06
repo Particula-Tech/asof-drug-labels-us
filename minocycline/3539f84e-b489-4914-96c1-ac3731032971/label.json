@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA065156"
+  ],
+  "inn": "minocycline",
+  "labeler": "Torrent Pharmaceuticals Limited",
+  "package_ndcs": [
+    "13668-485-01",
+    "13668-486-01",
+    "13668-487-50"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "minocycline hydrochloride",
+      "name": "Minocycline Hydrochloride"
+    }
+  ],
+  "setid": "3539f84e-b489-4914-96c1-ac3731032971",
+  "source": "dailymed"
+}
