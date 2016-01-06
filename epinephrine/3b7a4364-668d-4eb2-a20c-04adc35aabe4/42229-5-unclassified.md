@@ -1,10 +1,10 @@
-Manufactured by: Par Pharmaceutical Companies, Inc. Spring Valley, NY 10977
+Distributed by: Par Pharmaceutical Companies, Inc. Chestnut Ridge, NY 10977
 
-Adrenalin® is a registered trademark of Par Sterile Products, LLC (Spring Valley, NY).
+Adrenalin® is a registered trademark of Par Sterile Products, LLC (Chestnut Ridge, NY).
 Registered Trademark No 53,934
 
-I02/15
+R12/15
 
-OS159J-01-90-01
+OS159J-01-90-02
 
-3003302B
+3003592B
