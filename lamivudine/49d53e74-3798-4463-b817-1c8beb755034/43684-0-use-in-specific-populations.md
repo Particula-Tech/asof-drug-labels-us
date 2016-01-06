@@ -33,8 +33,7 @@ The safety and effectiveness of lamivudine in combination with other antiretrovi
 ## 8.5 Geriatric Use
 
 Clinical trials of lamivudine did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
-In general, dose selection for an elderly patient should be cautious, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
-In particular, because lamivudine is substantially excreted by the kidney and elderly patients are more likely to have decreased renal function, renal function should be monitored and dosage adjustments should be made accordingly [see Dosage and Administration (2.3), Clinical Pharmacology (12.3)].
+In general, caution should be exercised in the administration of lamivudine tablets in elderly patients reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy [see Dosage and Administration (2.3), Clinical Pharmacology (12.3)].
 
 ## 8.6 Patients With Impaired Renal Function
 

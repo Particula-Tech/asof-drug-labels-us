@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Lactic Acidosis/Severe Hepatomegaly With Steatosis
+## 5.1 Lactic Acidosis and Severe Hepatomegaly with Steatosis
 
 Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogues alone or in combination, including lamivudine and other antiretrovirals.
 A majority of these cases have been in women.
@@ -8,30 +8,28 @@ Obesity and prolonged nucleoside exposure may be risk factors.
 Particular caution should be exercised when administering lamivudine to any patient with known risk factors for liver disease; however, cases also have been reported in patients with no known risk factors.
 Treatment with lamivudine should be suspended in any patient who develops clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity (which may include hepatomegaly and steatosis even in the absence of marked transaminase elevations).
 
-## 5.2 Patients With HIV-1 and Hepatitis B Virus Co-infection
+## 5.2 Patients with Hepatitis B Virus Co-infection
 
-Posttreatment Exacerbations of Hepatitis:In clinical trials in non-HIV-1- infected patients treated with lamivudine for chronic hepatitis B, clinical and laboratory evidence of exacerbations of hepatitis have occurred after discontinuation of lamivudine.
-These exacerbations have been detected primarily by serum ALT elevations in addition to re-emergence of HBV DNA.
+Posttreatment Exacerbations of Hepatitis Clinical and laboratory evidence of exacerbations of hepatitis have occurred after discontinuation of lamivudine.These exacerbations have been detected primarily by serum ALT elevations in addition to re-emergence of HBV DNA.
 Although most events appear to have been self-limited, fatalities have been reported in some cases.
 Similar events have been reported from postmarketing experience after changes from lamivudine-containing HIV-1 treatment regimens to non-lamivudine-containing regimens in patients infected with both HIV-1 and HBV.
 The causal relationship to discontinuation of lamivudine treatment is unknown.
 Patients should be closely monitored with both clinical and laboratory follow-up for at least several months after stopping treatment.
-There is insufficient evidence to determine whether re-initiation of lamivudine alters the course of posttreatment exacerbations of hepatitis.
-Important Differences Among Lamivudine-Containing Products:Lamivudine Tablets contain a higher dose of the same active ingredient (lamivudine) than EPIVIR- HBV Tablets.
+Important Differences among Lamivudine-containing ProductsLamivudine tablets contain a higher dose of the same active ingredient (lamivudine) than EPIVIR- HBV Tablets.
 EPIVIR-HBV was developed for patients with chronic hepatitis B. The formulation and dosage of lamivudine in EPIVIR-HBV are not appropriate for patients co-infected with HIV-1 and HBV.
 Safety and efficacy of lamivudine have not been established for treatment of chronic hepatitis B in patients co-infected with HIV-1 and HBV.
 If treatment with EPIVIR-HBV is prescribed for chronic hepatitis B for a patient with unrecognized or untreated HIV-1 infection, rapid emergence of HIV-1 resistance is likely to result because of the subtherapeutic dose and the inappropriateness of monotherapy HIV-1 treatment.
 If a decision is made to administer lamivudine to patients co-infected with HIV-1 and HBV, lamivudine tablets, lamivudine oral solution, or another product containing the higher dose of lamivudine should be used as part of an appropriate combination regimen.
-Emergence of Lamivudine-Resistant HBV:In non-HIV-l-infected patients treated with lamivudine for chronic hepatitis B, emergence of lamivudine-resistant HBV has been detected and has been associated with diminished treatment response (see full prescribing information for EPIVIR-HBV for additional information).
+Emergence of Lamivudine-resistant HBVSafety and efficacy of lamivudine have not been established for treatment of chronic hepatitis B in subjects dually infected with HIV-1 and HBV (see full prescribing information for EPIVIR-HBV).
 Emergence of hepatitis B virus variants associated with resistance to lamivudine has also been reported in HIV-1-infected patients who have received lamivudine-containing antiretroviral regimens in the presence of concurrent infection with hepatitis B virus.
 
-## 5.3 Use With Other Lamivudine- and Emtricitabine-Containing Products
+## 5.3 Related Products that are Not Recommended
 
 Lamivudine is one of multiple lamivudine-containing products.
 Concomitant administration of lamivudine with other products containing lamivudine is not recommended.
 Concomitant use of lamivudine with emtricitabine-containing products is also not recommended.
 
-## 5.4 Use With Interferon- and Ribavirin-Based Regimens
+## 5.4 Use with Interferon- and Ribavirin-based Regimens
 
 In vitro studies have shown ribavirin can reduce the phosphorylation of pyrimidine nucleoside analogues such as lamivudine.
 Although no evidence of a pharmacokinetic or pharmacodynamic interaction (e.g., loss of HIV-l/HCV virologic suppression) was seen when ribavirin was coadministered with lamivudine in HIV-l/HCV co-infected patients [see Clinical Pharmacology (12.3)], hepatic decompensation (some fatal) has occurred in HIV-l/HCV co-infected patients receiving combination antiretroviral therapy for HIV -1 and interferon alfa with or without ribavirin.
