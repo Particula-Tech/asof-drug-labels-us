@@ -3,5 +3,3 @@ Manufactured by: sanofi-aventis U.S. LLC Bridgewater, NJ 08807, A SANOFI COMPANY
 ZALTRAP is a registered trademark of Regeneron Pharmaceuticals, Inc.
 
 © 2015 sanofi-aventis U.S. LLC
-
-Revision Date: 09/25/2015

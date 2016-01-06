@@ -99,3 +99,14 @@ The impact of neutralizing antibodies on efficacy and safety could not be assess
 Immunogenicity data are highly dependent on the sensitivity and specificity of the assay.
 Additionally, the observed incidence of antibody positivity in an assay may be influenced by several factors, including sample handling, timing of sample collection, concomitant medications, and underlying disease.
 For these reasons, comparison of the incidence of antibodies to ZALTRAP with the incidence of antibodies to other products may be misleading.
+
+## 6.3 Post marketing experience
+
+The following adverse reactions have been identified during post-approval use of ZALTRAP.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Musculoskeletal and connective tissue disorders
+
+Osteonecrosis of the jaw
+
+Cases of osteonecrosis of the jaw (ONJ) have been reported in patients treated with aflibercept primarily in patients who had identified risk factors for ONJ including bisphosphonate use and/or invasive dental procedures.
