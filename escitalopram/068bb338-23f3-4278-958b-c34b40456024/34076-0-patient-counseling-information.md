@@ -83,6 +83,18 @@ TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920.
 
 8052703 Revised January 2015
 
+OR
+
+Manufactured by:
+
+TORRENT PHARMACEUTICALS LTD., Bharuch-392130, INDIA.
+
+For:
+
+TORRENT PHARMA INC., Basking Ridge, NJ 07920.
+
+8055994 Revised July 2015
+
 ## 17.2 FDA-Approved Medication Guide
 
 Medication Guide
@@ -354,5 +366,17 @@ For:
 TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920.
 
 8053133 Revised January 2015
+
+OR
+
+Manufactured by:
+
+TORRENT PHARMACEUTICALS LTD., Bharuch-392130, INDIA.
+
+For:
+
+TORRENT PHARMA INC., Basking Ridge, NJ 07920.
+
+8055813 Revised July 2015
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
