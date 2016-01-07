@@ -3,17 +3,16 @@
     "ANDA090799"
   ],
   "inn": "gemcitabine",
-  "labeler": "APP Pharmaceuticals, LLC",
+  "labeler": "Fresenius Kabi USA, LLC",
   "package_ndcs": [
-    "63323-102-13",
-    "63323-125-53",
-    "63323-126-03"
+    "63323-102-94",
+    "63323-125-94"
   ],
   "products": [
     {
       "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
       "generic": "gemcitabine",
-      "name": "GEMCITABINE HYDROCHLORIDE"
+      "name": "GEMCITABINE"
     }
   ],
   "setid": "c550dd16-a5e8-44be-87f2-210c15bbb513",

@@ -2,17 +2,17 @@
 
 ## 1.1 Ovarian Cancer
 
-Gemcitabine for Injection in combination with carboplatin is indicated for the treatment of patients with advanced ovarian cancer that has relapsed at least 6 months after completion of platinum-based therapy.
+Gemcitabine for Injection, USP in combination with carboplatin is indicated for the treatment of patients with advanced ovarian cancer that has relapsed at least 6 months after completion of platinum-based therapy.
 
 ## 1.2 Breast Cancer
 
-Gemcitabine for Injection in combination with paclitaxel is indicated for the first-line treatment of patients with metastatic breast cancer after failure of prior anthracycline-containing adjuvant chemotherapy, unless anthracyclines were clinically contraindicated.
+Gemcitabine for Injection, USP in combination with paclitaxel is indicated for the first-line treatment of patients with metastatic breast cancer after failure of prior anthracycline-containing adjuvant chemotherapy, unless anthracyclines were clinically contraindicated.
 
 ## 1.3 Non-Small Cell Lung Cancer
 
-Gemcitabine for Injection is indicated in combination with cisplatin for the first-line treatment of patients with inoperable, locally advanced (Stage IIIA or IIIB), or metastatic (Stage IV) non-small cell lung cancer.
+Gemcitabine for Injection, USP is indicated in combination with cisplatin for the first-line treatment of patients with inoperable, locally advanced (Stage IIIA or IIIB), or metastatic (Stage IV) non-small cell lung cancer.
 
 ## 1.4 Pancreatic Cancer
 
-Gemcitabine for Injection is indicated as first-line treatment for patients with locally advanced (nonresectable Stage II or Stage III) or metastatic (Stage IV) adenocarcinoma of the pancreas.
-Gemcitabine is indicated for patients previously treated with 5-FU.
+Gemcitabine for Injection, USP is indicated as first-line treatment for patients with locally advanced (nonresectable Stage II or Stage III) or metastatic (Stage IV) adenocarcinoma of the pancreas.
+Gemcitabine for injection is indicated for patients previously treated with 5-FU.
