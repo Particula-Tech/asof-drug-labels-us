@@ -1,13 +1,14 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-- A Medication Guide and Warning Card that provide information about recognition of hypersensitivity reactions should be dispensed with each new prescription and refill.
-- Abacavir tablets may be taken with or without food.
+## 2.1 Screening for HLA-B*5701 Allele Prior to Starting Abacavir Tablets
 
-## 2.1 Adult Patients
+Screen for the HLA-B*5701 allele prior to initiating therapy with abacavir tablets [see Boxed Warning, Warnings and Precautions (5.1)].
 
-The recommended oral dose of abacavir tablets for adults is 600 mg daily, administered as either 300 mg twice daily or 600 mg once daily, in combination with other antiretroviral agents.
+## 2.2 Recommended Dosage for Adult Patients
 
-## 2.2 Pediatric Patients
+The recommended dosage of abacavir tablets for adults is 600 mg daily, administered orally as either 300 mg twice daily or 600 mg once daily, in combination with other antiretroviral agents.
+
+## 2.3 Recommended Dosage for Pediatric Patients
 
 Abacavir tablets are available as scored tablet for HIV-1-infected pediatric patients weighing greater than or equal to 14 kg for whom a solid dosage form is appropriate.
 Before prescribing abacavir tablets, children should be assessed for the ability to swallow tablets.
@@ -20,15 +21,15 @@ Dosing Recommendations for Abacavir Scored Tablets in Pediatric Patients
 | Weight (kg) | Twice-daily Dosing Regimen |  |  |
 | --- | --- | --- | --- |
 | AM Dose | PM Dose | Total Daily Dose |  |
-| 14 to <20 | ½ tablet (150 mg) | ½ tablet (150 mg) | 300 mg |
+| 14to <20 | ½ tablet (150 mg) | ½ tablet (150 mg) | 300 mg |
 | >20 to <25 | ½ tablet (150 mg) | 1 tablet (300 mg) | 450 mg |
 | ≥25 | 1 tablet (300 mg) | 1 tablet (300 mg) | 600 mg |
 
 Additional pediatric use information for patients aged 3 months and above is approved for ViiV Healthcare Company’s ZIAGEN® (abacavir sulfate) tablets.
 However, due to ViiV Healthcare Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
-## 2.3 Patients with Hepatic Impairment
+## 2.4 Recommended Dosage for Patients with Hepatic Impairment
 
-The recommended dose of abacavir tablets in patients with mild hepatic impairment (Child-Pugh score 5 to 6) is 200 mg twice daily.
-To enable dose reduction, abacavir sulfate oral solution (10 mL twice daily) should be used for the treatment of these patients.
+The recommended dose of abacavir tablets in patients with mild hepatic impairment (Child-Pugh Class A) is 200 mg twice daily.
+To enable dose reduction, abacavir oral solution (10 mL twice daily) should be used for the treatment of these patients.
 The safety, efficacy, and pharmacokinetic properties of abacavir have not been established in patients with moderate to severe hepatic impairment; therefore, abacavir tablets are contraindicated in these patients.
