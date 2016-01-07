@@ -16,8 +16,6 @@ Distributed by:
 
 Strides Pharma Inc.
 
-201 South main Street, Suite 3
+East Brunswick, NJ 08816
 
-Lambertville, NJ 08530 USA
-
-Revised: 01/2015
+Revised: 07/2015
