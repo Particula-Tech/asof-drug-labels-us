@@ -46,6 +46,9 @@ Tell your doctor about all your or your child's medical problems including if yo
   It is not known if Zmax could harm your baby.
 - are breast-feeding.
 
+Tell your doctor if you are giving Zmax to a young child (less than 6 weeks of age) and they vomit or become irritable when fed.
+If this occurs contact your doctor immediately.
+
 Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements.
 Especially tell your doctor if you or your child are taking warfarin (Coumadin®, Jantoven)
 
@@ -150,4 +153,4 @@ For current full prescribing information, please visit www.pfizer.com
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-LAB-0606-4.0 August 2015
+LAB-0606-5.0 December 2015

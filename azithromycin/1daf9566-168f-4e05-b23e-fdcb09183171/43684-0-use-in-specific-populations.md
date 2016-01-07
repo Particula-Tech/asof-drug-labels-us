@@ -30,7 +30,7 @@ Data collected from the azithromycin capsule and tablet formulations indicate th
 In clinical trials of Zmax, 17% of subjects were at least 65 years of age (214/1292) and 5% of subjects (59/1292) were at least 75 years of age.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects.
 Elderly patients may be more susceptible to development of torsades de pointes arrhythmia than younger patients.
-[See Warnings and Precautions (5.3)]
+[See Warnings and Precautions (5.4)]
 
 ## 8.6 Renal Impairment
 
