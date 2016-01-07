@@ -4,7 +4,7 @@
 
 NDC 0093-7334-05
 
-MYCOPHENOLATE MOFETIL Capsules USP 250 mg
+Mycophenolate Mofetil Capsules USP 250 mg
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
@@ -20,7 +20,7 @@ TEVA
 
 NDC 0093-7477-05
 
-MYCOPHENOLATE MOFETIL Tablets USP 500 mg
+Mycophenolate Mofetil Tablets USP 500 mg
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 

@@ -14,69 +14,69 @@ What is the most important information I should know about mycophenolate mofetil
 
 Mycophenolate mofetil capsules and mycophenolate mofetil tablets can cause serious side effects:
 
-- •Increased risk of loss of a pregnancy (miscarriage) and higher risk of birth defects.
-  Females who take mycophenolate mofetil during pregnancy have a higher risk of miscarriage during the first 3 months (first trimester), and a higher risk that their baby will be born with birth defects.
-- If you are a female who can become pregnant:
-- •your doctor must talk with you about acceptable birth control methods (contraceptive counseling) to use while taking mycophenolate mofetil.
-- •you should have one pregnancy test immediately before starting mycophenolate mofetil and another pregnancy test 8 to 10 days later.
-  Pregnancy tests should be repeated during routine follow-up visits with your doctor.
-  Talk to your doctor about the results of all of your pregnancy tests.
-- •you must use acceptable birth control during your entire mycophenolate mofetil therapy and for 6 weeks after stopping mycophenolate mofetil, unless at any time you choose to avoid sexual intercourse (abstinence) with a man completely.
-- Mycophenolate mofetil decreases blood levels of the hormones in birth control pills that you take by mouth.
-  Birth control pills may not work as well while you take mycophenolate mofetil, and you could become pregnant.
-  If you take birth control pills while using mycophenolate mofetil you must also use another form of birth control.
-  Talk to your doctor about other birth control methods that you can use while taking mycophenolate mofetil.
-- If you plan to become pregnant, talk with your doctor.
-  Your doctor will decide if other medicines to prevent rejection may be right for you.
-- If you become pregnant while taking mycophenolate mofetil, do not stop taking mycophenolate mofetil.
-  Call your doctor right away.
-  In certain situations, you and your doctor may decide that taking mycophenolate mofetil is more important to your health than the possible risks to your unborn baby.
-- •You and your doctor should report your pregnancy to
-- •Mycophenolate Pregnancy Registry (1-800-617-8191)
-- The purpose of this registry is to gather information about the health of you and your baby.
-- •Increased risk of getting serious infections.
-  Mycophenolate mofetil capsules and mycophenolate mofetil tablets weaken the body’s immune system and affect your ability to fight infections.
-  Serious infections can happen with mycophenolate mofetil capsules and mycophenolate mofetil tablets and can lead to death.
-  These serious infections can include:
-  1. •Viral infections.
-     Certain viruses can live in your body and cause active infections when your immune system is weak.
-     Viral infections that can happen with mycophenolate mofetil capsules and mycophenolate mofetil tablets include:
-  2. •Shingles, other herpes infections, and cytomegalovirus (CMV).
-     CMV can cause serious tissue and blood infections.
-  3. •BK virus.
-     BK virus can affect how your kidney works and cause your transplanted kidney to fail.
-  4. •Hepatitis B and C viruses.
-     Hepatitis viruses can affect how your liver works.
-     Talk to your doctor about how hepatitis viruses may affect you.
-- •A brain infection called Progressive Multifocal Leukoencephalopathy (PML).
-  In some patients, mycophenolate mofetil capsules and mycophenolate mofetil tablets may cause an infection of the brain that may cause death.
-  You are at risk for this brain infection because you have a weakened immune system.
-  You should tell your doctor right away if you have any of the following symptoms:
-  1. •Weakness on one side of the body
-  2. •You do not care about things that you usually care about (apathy)
-  3. •You are confused or have problems thinking
-  4. •You can not control your muscles
-  5. •Fungal infections.
-     Yeasts and other types of fungal infections can happen with mycophenolate mofetil capsules and mycophenolate mofetil tablets and can cause serious tissue and blood infections (see "What are the possible side effects of mycophenolate mofetil capsules and mycophenolate mofetil tablets?")
+1. •Increased risk of loss of a pregnancy (miscarriage) and higher risk of birth defects.
+   Females who take mycophenolate mofetil during pregnancy have a higher risk of miscarriage during the first 3 months (first trimester), and a higher risk that their baby will be born with birth defects.
+2. If you are a female who can become pregnant:
+3. •your doctor must talk with you about acceptable birth control methods (contraceptive counseling) to use while taking mycophenolate mofetil.
+4. •you should have one pregnancy test immediately before starting mycophenolate mofetil and another pregnancy test 8 to 10 days later.
+   Pregnancy tests should be repeated during routine follow-up visits with your doctor.
+   Talk to your doctor about the results of all of your pregnancy tests.
+5. •you must use acceptable birth control during your entire mycophenolate mofetil therapy and for 6 weeks after stopping mycophenolate mofetil, unless at any time you choose to avoid sexual intercourse (abstinence) with a man completely.
+6. Mycophenolate mofetil decreases blood levels of the hormones in birth control pills that you take by mouth.
+   Birth control pills may not work as well while you take mycophenolate mofetil, and you could become pregnant.
+   If you take birth control pills while using mycophenolate mofetil you must also use another form of birth control.
+   Talk to your doctor about other birth control methods that you can use while taking mycophenolate mofetil.
+7. If you plan to become pregnant, talk with your doctor.
+   Your doctor will decide if other medicines to prevent rejection may be right for you.
+8. If you become pregnant while taking mycophenolate mofetil, do not stop taking mycophenolate mofetil.
+   Call your doctor right away.
+   In certain situations, you and your doctor may decide that taking mycophenolate mofetil is more important to your health than the possible risks to your unborn baby.
+9. •You and your doctor should report your pregnancy to
+10. •Mycophenolate Pregnancy Registry (1-800-617-8191)
+11. The purpose of this registry is to gather information about the health of you and your baby.
+12. •Increased risk of getting serious infections.
+    Mycophenolate mofetil capsules and mycophenolate mofetil tablets weaken the body’s immune system and affect your ability to fight infections.
+    Serious infections can happen with mycophenolate mofetil capsules and mycophenolate mofetil tablets and can lead to death.
+    These serious infections can include:
+    1. •Viral infections.
+       Certain viruses can live in your body and cause active infections when your immune system is weak.
+       Viral infections that can happen with mycophenolate mofetil capsules and mycophenolate mofetil tablets include:
+    2. •Shingles, other herpes infections, and cytomegalovirus (CMV).
+       CMV can cause serious tissue and blood infections.
+    3. •BK virus.
+       BK virus can affect how your kidney works and cause your transplanted kidney to fail.
+    4. •Hepatitis B and C viruses.
+       Hepatitis viruses can affect how your liver works.
+       Talk to your doctor about how hepatitis viruses may affect you.
+13. •A brain infection called Progressive Multifocal Leukoencephalopathy (PML).
+    In some patients, mycophenolate mofetil capsules and mycophenolate mofetil tablets may cause an infection of the brain that may cause death.
+    You are at risk for this brain infection because you have a weakened immune system.
+    You should tell your doctor right away if you have any of the following symptoms:
+    1. •Weakness on one side of the body
+    2. •You do not care about things that you usually care about (apathy)
+    3. •You are confused or have problems thinking
+    4. •You can not control your muscles
+    5. •Fungal infections.
+       Yeasts and other types of fungal infections can happen with mycophenolate mofetil capsules and mycophenolate mofetil tablets and can cause serious tissue and blood infections (see "What are the possible side effects of mycophenolate mofetil capsules and mycophenolate mofetil tablets?")
 
 Call your doctor right away if you have any of the following signs and symptoms of infection:
 
-- •Temperature of 100.5°F or greater
-- •Cold symptoms, such as a runny nose or sore throat
-- •Flu symptoms, such as an upset stomach, stomach pain, vomiting or diarrhea
-- •Earache or headache
-- •Pain during urination
-- •White patches in the mouth or throat
-- •Unexpected bruising or bleeding
-- •Cuts, scrapes or incisions that are red, warm and oozing pus
-- •Increased risk of getting certain cancers.
-  People who take mycophenolate mofetil capsules or mycophenolate mofetil tablets have a higher risk of getting lymphoma, and other cancers, especially skin cancer.
-  Tell your doctor if you have:
-  1. •unexplained fever, prolonged tiredness, weight loss or lymph node swelling
-  2. •a brown or black skin lesion with uneven borders, or one part of the lesion does not look like the other
-  3. •a change in the size and color of a mole
-  4. •a new skin lesion or bump
-  5. •any other changes to your health
+1. •Temperature of 100.5°F or greater
+2. •Cold symptoms, such as a runny nose or sore throat
+3. •Flu symptoms, such as an upset stomach, stomach pain, vomiting or diarrhea
+4. •Earache or headache
+5. •Pain during urination
+6. •White patches in the mouth or throat
+7. •Unexpected bruising or bleeding
+8. •Cuts, scrapes or incisions that are red, warm and oozing pus
+9. •Increased risk of getting certain cancers.
+   People who take mycophenolate mofetil capsules or mycophenolate mofetil tablets have a higher risk of getting lymphoma, and other cancers, especially skin cancer.
+   Tell your doctor if you have:
+   1. •unexplained fever, prolonged tiredness, weight loss or lymph node swelling
+   2. •a brown or black skin lesion with uneven borders, or one part of the lesion does not look like the other
+   3. •a change in the size and color of a mole
+   4. •a new skin lesion or bump
+   5. •any other changes to your health
 
 See the section “What are the possible side effects of mycophenolate mofetil capsules and mycophenolate mofetil tablets?” for information about other serious side effects.
 
@@ -99,35 +99,35 @@ What should I tell my doctor before taking mycophenolate mofetil capsules or myc
 
 Tell your doctor about all of your medical conditions, if you:
 
-- •have any digestive problems, such as ulcers.
-- •have Lesch-Nyhan or Kelley-Seegmiller syndrome or another rare inherited deficiency hypoxanthine-guanine phosphoribosyl-transferase (HGPRT).
-  You should not take mycophenolate mofetil capsules or mycophenolate mofetil tablets if you have one of these disorders.
-- •plan to receive any vaccines.
-  People taking mycophenolate mofetil capsules or mycophenolate mofetil tablets should not take live vaccines.
-  Some vaccines may not work as well during treatment with mycophenolate mofetil capsules or mycophenolate mofetil tablets.
-- •are pregnant or are planning to become pregnant.
-  See “What is the most important information I should know about mycophenolate mofetil capsules and mycophenolate mofetil tablets?”
-- •are breastfeeding or plan to breastfeed.
-  It is not known if mycophenolate mofetil passes into breast milk.
-  You and your doctor will decide if you will take mycophenolate mofetil capsules, mycophenolate mofetil tablets or breastfeed.
+1. •have any digestive problems, such as ulcers.
+2. •have Lesch-Nyhan or Kelley-Seegmiller syndrome or another rare inherited deficiency hypoxanthine-guanine phosphoribosyl-transferase (HGPRT).
+   You should not take mycophenolate mofetil capsules or mycophenolate mofetil tablets if you have one of these disorders.
+3. •plan to receive any vaccines.
+   People taking mycophenolate mofetil capsules or mycophenolate mofetil tablets should not take live vaccines.
+   Some vaccines may not work as well during treatment with mycophenolate mofetil capsules or mycophenolate mofetil tablets.
+4. •are pregnant or are planning to become pregnant.
+   See “What is the most important information I should know about mycophenolate mofetil capsules and mycophenolate mofetil tablets?”
+5. •are breastfeeding or plan to breastfeed.
+   It is not known if mycophenolate mofetil passes into breast milk.
+   You and your doctor will decide if you will take mycophenolate mofetil capsules, mycophenolate mofetil tablets or breastfeed.
 
 Tell your healthcare provider about all of the medicines you are taking including prescription and nonprescription medicines, vitamins and herbal supplements.
 Some medicines may affect the way mycophenolate mofetil capsules and mycophenolate mofetil tablets work, and mycophenolate mofetil capsules and mycophenolate mofetil tablets may affect how some medicines work.
 Especially tell your doctor if you take:
 
-- •birth control pills (oral contraceptives).
-  See “What is the most important information I should know about mycophenolate mofetil capsules and mycophenolate mofetil tablets?”
-- •sevelamer (Renagel®, Renvela™).
-  These products should be taken 2 hours after taking mycophenolate mofetil capsules or mycophenolate mofetil tablets
-- •acyclovir (Zovirax®), valacyclovir (Valtrex®), ganciclovir (Cytovene®-IV, Vitrasert®), valganciclovir (Valcyte®)
-- •rifampin (Rifater®, Rifamate®, Rimactane®, Rifadin®)
-- •antacids that contain magnesium and aluminum (mycophenolate mofetil capsules or mycophenolate mofetil tablets and the antacid should not be taken at the same time)
-- •proton pump inhibitors (PPIs) (Prevacid®, Protonix®)
-- •sulfamethoxazole/trimethoprim (Bactrim™, Bactrim DS™)
-- •norfloxacin (Noroxin®) and metronidazole (Flagyl®, Flagyl® ER, Flagyl® IV, Metro IV, Helidac®, Pylera™)
-- •ciprofloxacin (Cipro®, Cipro® XR, Ciloxan®, Proquin® XR) and amoxicillin plus clavulanic acid (Augmentin®, Augmentin XR®)
-- •azathioprine (Azasan®, Imuran®)
-- •cholestyramine (Questran Light®, Questran®, Locholest Light, Locholest, Prevalite®)
+1. •birth control pills (oral contraceptives).
+   See “What is the most important information I should know about mycophenolate mofetil capsules and mycophenolate mofetil tablets?”
+2. •sevelamer (Renagel®, Renvela™).
+   These products should be taken 2 hours after taking mycophenolate mofetil capsules or mycophenolate mofetil tablets
+3. •acyclovir (Zovirax®), valacyclovir (Valtrex®), ganciclovir (Cytovene®-IV, Vitrasert®), valganciclovir (Valcyte®)
+4. •rifampin (Rifater®, Rifamate®, Rimactane®, Rifadin®)
+5. •antacids that contain magnesium and aluminum (mycophenolate mofetil capsules or mycophenolate mofetil tablets and the antacid should not be taken at the same time)
+6. •proton pump inhibitors (PPIs) (Prevacid®, Protonix®)
+7. •sulfamethoxazole/trimethoprim (Bactrim™, Bactrim DS™)
+8. •norfloxacin (Noroxin®) and metronidazole (Flagyl®, Flagyl® ER, Flagyl® IV, Metro IV, Helidac®, Pylera™)
+9. •ciprofloxacin (Cipro®, Cipro® XR, Ciloxan®, Proquin® XR) and amoxicillin plus clavulanic acid (Augmentin®, Augmentin XR®)
+10. •azathioprine (Azasan®, Imuran®)
+11. •cholestyramine (Questran Light®, Questran®, Locholest Light, Locholest, Prevalite®)
 
 Know the medicines you take.
 Keep a list of them to show to your doctor or nurse and pharmacist when you get a new medicine.
@@ -135,49 +135,49 @@ Do not take any new medicine without talking with your doctor.
 
 How should I take mycophenolate mofetil capsules and mycophenolate mofetil tablets?
 
-- •Take mycophenolate mofetil capsules or mycophenolate mofetil tablets exactly as prescribed.
-- •Do not stop taking mycophenolate mofetil capsules, mycophenolate mofetil tablets or change the dose unless your doctor tells you to.
-- •If you miss a dose of mycophenolate mofetil capsules or mycophenolate mofetil tablets, or are not sure when you took your last dose, take the regular amount of mycophenolate mofetil capsules or mycophenolate mofetil tablets prescribed as soon as you remember.
-  If it is time for your next dose, skip the missed dose and take your next dose at your normal scheduled time.
-  Do not take 2 doses at the same time.
-  Call your doctor if you are not sure what to do.
-- •Take mycophenolate mofetil capsules and tablets on an empty stomach, either 1 hour before or 2 hours after a meal, unless your healthcare provider tells you otherwise.
-  With the approval of your healthcare provider, in stable kidney transplant patients, mycophenolate mofetil capsules and mycophenolate mofetil tablets can be taken with food if necessary.
-- •Most people take mycophenolate mofetil capsules or mycophenolate mofetil tablets by mouth either as light blue and bright orange capsules or purple tablets.
-  Some people may get mycophenolate mofetil hydrochloride for injection soon after their transplant surgery as an infusion into a vein.
-- •Do not crush mycophenolate mofetil tablets.
-  Do not open or crush mycophenolate mofetil capsules.
-- •If you are not able to swallow mycophenolate mofetil tablets or capsules, your doctor may prescribe mycophenolate mofetil oral suspension.
-  This is a liquid form of mycophenolate mofetil.
-  Your pharmacist will mix the medicine before giving it to you.
-- •If you take too many mycophenolate mofetil capsules or mycophenolate mofetil tablets, call your doctor or the poison control center right away.
+1. •Take mycophenolate mofetil capsules or mycophenolate mofetil tablets exactly as prescribed.
+2. •Do not stop taking mycophenolate mofetil capsules, mycophenolate mofetil tablets or change the dose unless your doctor tells you to.
+3. •If you miss a dose of mycophenolate mofetil capsules or mycophenolate mofetil tablets, or are not sure when you took your last dose, take the regular amount of mycophenolate mofetil capsules or mycophenolate mofetil tablets prescribed as soon as you remember.
+   If it is time for your next dose, skip the missed dose and take your next dose at your normal scheduled time.
+   Do not take 2 doses at the same time.
+   Call your doctor if you are not sure what to do.
+4. •Take mycophenolate mofetil capsules and tablets on an empty stomach, either 1 hour before or 2 hours after a meal, unless your healthcare provider tells you otherwise.
+   With the approval of your healthcare provider, in stable kidney transplant patients, mycophenolate mofetil capsules and mycophenolate mofetil tablets can be taken with food if necessary.
+5. •Most people take mycophenolate mofetil capsules or mycophenolate mofetil tablets by mouth either as light blue and bright orange capsules or purple tablets.
+   Some people may get mycophenolate mofetil hydrochloride for injection soon after their transplant surgery as an infusion into a vein.
+6. •Do not crush mycophenolate mofetil tablets.
+   Do not open or crush mycophenolate mofetil capsules.
+7. •If you are not able to swallow mycophenolate mofetil tablets or capsules, your doctor may prescribe mycophenolate mofetil oral suspension.
+   This is a liquid form of mycophenolate mofetil.
+   Your pharmacist will mix the medicine before giving it to you.
+8. •If you take too many mycophenolate mofetil capsules or mycophenolate mofetil tablets, call your doctor or the poison control center right away.
 
 What should I avoid while taking mycophenolate mofetil capsules and mycophenolate mofetil tablets?
 
-- •Avoid pregnancy.
-  See “What is the most important information I should know about mycophenolate mofetil capsules and mycophenolate mofetil tablets?”
-- •Limit the amount of time you spend in sunlight.
-  Avoid using tanning beds or sunlamps.
-  People who take mycophenolate mofetil capsules or mycophenolate mofetil tablets have a higher risk of getting skin cancer (see “What is the most important information I should know about mycophenolate mofetil capsules and mycophenolate mofetil tablets?”).
-  Wear protective clothing when you are in the sun and use a sunscreen with a high protection factor (SPF 30 and above).
-  This is especially important if your skin is very fair or if you have a family history of skin cancer.
+1. •Avoid pregnancy.
+   See “What is the most important information I should know about mycophenolate mofetil capsules and mycophenolate mofetil tablets?”
+2. •Limit the amount of time you spend in sunlight.
+   Avoid using tanning beds or sunlamps.
+   People who take mycophenolate mofetil capsules or mycophenolate mofetil tablets have a higher risk of getting skin cancer (see “What is the most important information I should know about mycophenolate mofetil capsules and mycophenolate mofetil tablets?”).
+   Wear protective clothing when you are in the sun and use a sunscreen with a high protection factor (SPF 30 and above).
+   This is especially important if your skin is very fair or if you have a family history of skin cancer.
 
 What are the possible side effects of mycophenolate mofetil capsules and mycophenolate mofetil tablets?
 
 Mycophenolate mofetil capsules and mycophenolate mofetil tablets can cause serious side effects:
 
-- •See “What is the most important information I should know about mycophenolate mofetil capsules and mycophenolate mofetil tablets?”
-- •Low blood cell counts.
-  People taking high doses of mycophenolate mofetil capsules or mycophenolate mofetil tablets each day may have a decrease in blood counts, including
-  1. •white blood cells, especially neutrophils.
-     Neutrophils fight against bacterial infections.
-     You have a higher chance of getting an infection when your white blood cell count is low.
-     This is most common from 3 months to 6 months after your transplant.
-  2. •red blood cells.
-     Red blood cells carry oxygen to your body tissues.
-     You have a higher chance of getting severe anemia when your red blood cell count is low.
-  3. •platelets.
-     Platelets help with blood clotting.
+1. •See “What is the most important information I should know about mycophenolate mofetil capsules and mycophenolate mofetil tablets?”
+2. •Low blood cell counts.
+   People taking high doses of mycophenolate mofetil capsules or mycophenolate mofetil tablets each day may have a decrease in blood counts, including
+   1. •white blood cells, especially neutrophils.
+      Neutrophils fight against bacterial infections.
+      You have a higher chance of getting an infection when your white blood cell count is low.
+      This is most common from 3 months to 6 months after your transplant.
+   2. •red blood cells.
+      Red blood cells carry oxygen to your body tissues.
+      You have a higher chance of getting severe anemia when your red blood cell count is low.
+   3. •platelets.
+      Platelets help with blood clotting.
 
 Your doctor will do blood tests before you start taking mycophenolate mofetil capsules or mycophenolate mofetil tablets and during treatment with mycophenolate mofetil capsules or mycophenolate mofetil tablets to check your blood cell counts.
 

@@ -177,12 +177,12 @@ Hematologic and Lymphatic: Cases of pure red cell aplasia (PRCA) and hypogammagl
 
 Infections: (see WARNINGS, Serious Infections, New or Reactivated Viral Infections):
 
-- •Serious life-threatening infections such as meningitis and infectious endocarditis have been reported occasionally.
-- •There is evidence of a higher frequency of certain types of serious infections such as tuberculosis and atypical mycobacterial infection.
-- •Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal, have been reported in patients treated with mycophenolate mofetil.
-  The reported cases generally had risk factors for PML, including treatment with immunosuppressant therapies and impairment of immune function.
-- •Polyomavirus associated neuropathy (PVAN), especially due to BK virus infection, has been observed in patients receiving immunosuppressants, including mycophenolate mofetil.
-  This infection is associated with serious outcomes, including deteriorating renal function and renal graft loss.
-- •Viral reactivation has been reported in patients infected with HBV or HCV.
+1. •Serious life-threatening infections such as meningitis and infectious endocarditis have been reported occasionally.
+2. •There is evidence of a higher frequency of certain types of serious infections such as tuberculosis and atypical mycobacterial infection.
+3. •Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal, have been reported in patients treated with mycophenolate mofetil.
+   The reported cases generally had risk factors for PML, including treatment with immunosuppressant therapies and impairment of immune function.
+4. •Polyomavirus associated neuropathy (PVAN), especially due to BK virus infection, has been observed in patients receiving immunosuppressants, including mycophenolate mofetil.
+   This infection is associated with serious outcomes, including deteriorating renal function and renal graft loss.
+5. •Viral reactivation has been reported in patients infected with HBV or HCV.
 
 Respiratory: Interstitial lung disorders, including fatal pulmonary fibrosis, have been reported rarely and should be considered in the differential diagnosis of pulmonary symptoms ranging from dyspnea to respiratory failure in posttransplant patients receiving mycophenolate mofetil.
