@@ -1,8 +1,8 @@
-# 17. PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
 [See FDA-Approved Patient Labeling (Patient Labeling)]
 
-Patients taking minocycline hydrochloride extended-release tablets should receive the following information and instructions:
+Patients taking Minocycline hydrochloride (minocycline HCl, USP) extended-release tablets should receive the following information and instructions:
 
 - Minocycline hydrochloride extended-release tablets should not be used by pregnant women or women attempting to conceive a child [see USE IN SPECIFIC POPULATIONS (8.1), NONCLINICAL TOXICOLOGY (13.1)].
 - It is recommended that minocycline hydrochloride extended-release tablets not be used by men who are attempting to father a child [see NONCLINICAL TOXICOLOGY (13.1)].
@@ -46,4 +46,4 @@ Pithampur (M.P.) - 454 775
 
 INDIA
 
-February 2014 ID#: 236592
+November 2015 ID#: 243531

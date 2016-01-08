@@ -1,4 +1,4 @@
-# 14. CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
 The safety and efficacy of minocycline hydrochloride extended-release tablets in the treatment of inflammatory lesions of non-nodular moderate to severe acne vulgaris was assessed in two 12-week, multi-center, randomized, double-blind, placebo-controlled, trials in subjects ≥ 12 years.
 The mean age of subjects was 20 years and subjects were from the following racial groups: White (73%), Hispanic (13%), Black (11%), Asian/Pacific Islander (2%), and Other (2%).

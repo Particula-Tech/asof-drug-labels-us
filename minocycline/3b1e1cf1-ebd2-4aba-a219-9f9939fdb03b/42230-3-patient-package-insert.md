@@ -1,6 +1,6 @@
 Patient Information
 
-Minocycline Hydrochloride Extended-release Tablets
+Minocycline Hydrochloride Extended-release Tablets USP
 
 (mye no SYE kleen)
 
@@ -204,4 +204,4 @@ Pithampur (M.P.) - 454 775
 
 INDIA
 
-February 2014 ID#: 236593
+November 2015 ID#: 243532

@@ -1,6 +1,6 @@
-# 13. NONCLINICAL TOXICOLOGY
+# 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, Impairment Of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Carcinogenesis-In a carcinogenicity study in which minocycline hydrochloride was orally administered to male and female rats once daily for up to 104 weeks at dosages up to 200 mg/kg/day, minocycline hydrochloride was associated in both genders with follicular cell tumors of the thyroid gland, including increased incidences of adenomas, carcinomas and the combined incidence of adenomas and carcinomas in males, and adenomas and the combined incidence of adenomas and carcinomas in females.
 In a carcinogenicity study in which minocycline hydrochloride was orally administered to male and female mice once daily for up to 104 weeks at dosages up to 150 mg/kg/day, exposure to minocycline hydrochloride did not result in a significantly increased incidence of neoplasms in either males or females.
