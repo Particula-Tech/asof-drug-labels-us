@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-[See FDA-Approved Patient Labeling (Patient Instructions for Emergency Use).]
+[See FDA-Approved Patient Information and Intructions for Use).]
 
 ## 17.1 Physician Instructions
 
@@ -9,19 +9,19 @@ Advise the patient and family members to become familiar with the technique of p
 Instruct patients to use 1 mg for adults or ½ the adult dose (0.5 mg) for children weighing less than 55 lb (25 kg).
 To prevent severe hypoglycemia, patients and family members should be informed of the symptoms of mild hypoglycemia and how to treat it appropriately.
 Family members should be informed to arouse the patient as quickly as possible because prolonged hypoglycemia may result in damage to the central nervous system.
-Patients should be advised to inform their physician when hypoglycemic reactions occur so that the treatment regimen may be adjusted if necessary.
+Patients should be advised to inform their physician each time a hypoglycemic reaction occurs so that the treatment regimen may be adjusted if necessary.
 
 No studies on the effects on the ability to drive and use machines have been performed.
 After diagnostic procedures, hypoglycemia has been reported infrequently.
 The patient’s ability to concentrate and react may be impaired as a result of hypoglycemia.
 This may present a risk in situations where these abilities are especially important, such as driving or operating machinery.
-Therefore, these activities should be avoided until the patient has had a meal with oral carbohydrates.
+Therefore, these activities should be avoided until the patient has had intake of oral carbohydrates.
 
-Date of issue: December 12, 2014 Version: 6
+Date of issue: December 10, 2015 Version: 7
 
 GlucaGen® and HypoKit® are registered trademarks of Novo Nordisk A/S
 
-© 1998-2014 Novo Nordisk
+© 1998-2015 Novo Nordisk
 
 For information contact: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 1-800-243-0127
 

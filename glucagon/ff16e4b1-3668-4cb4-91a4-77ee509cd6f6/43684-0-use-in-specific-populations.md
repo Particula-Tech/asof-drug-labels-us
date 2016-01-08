@@ -14,7 +14,6 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 No clinical studies have been performed in nursing mothers, however, GlucaGen is a peptide and intact glucagon is not absorbed from the GI tract.
 Therefore, even if the infant ingested glucagon it would be unlikely to have any effect on the infant.
 Additionally, GlucaGen has a short plasma half-life thus limiting amounts available to the child.
-Glucagon does not cross the human placental barrier.
 
 ## 8.4 Pediatric Use
 
