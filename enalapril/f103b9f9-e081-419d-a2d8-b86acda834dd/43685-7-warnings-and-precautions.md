@@ -211,7 +211,7 @@ Nitritoid reactions (symptoms include facial flushing, nausea, vomiting and hypo
 
 ### mTOR (mammalian target of rapamycin) inhibitors
 
-Patients receiving coadministration of ACE inhibitor and mTOR inhibitor (e.g., temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema (see WARNINGS)
+Patients receiving coadministration of ACE inhibitor and mTOR inhibitor (e.g., temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema (see WARNINGS).
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 

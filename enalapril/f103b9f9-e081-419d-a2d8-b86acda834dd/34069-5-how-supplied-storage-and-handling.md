@@ -17,7 +17,7 @@ They are supplied as follows:
 - NDC 51672-4038-3 unit of use bottles of 1,000 (with desiccant)
 
 Enalapril Maleate Tablets USP, 10 mg are pink colored, round, biconvex tablets.
-One side engraved with "T" at the top and "10" at the bottom.
+One side scored and engraved with "T" above the score and with "10" under the score.
 The other side plain.
 They are supplied as follows:
 
@@ -25,7 +25,7 @@ They are supplied as follows:
 - NDC 51672-4039-3 unit of use bottles of 1,000 (with desiccant)
 
 Enalapril Maleate Tablets USP, 20 mg are peach colored, round, biconvex, slightly speckled tablets.
-One side engraved with "T" at the top and "20" at the bottom.
+One side scored and engraved with "T" above the score and with "20" under the score.
 The other side plain.
 They are supplied as follows:
 
@@ -35,7 +35,9 @@ They are supplied as follows:
 ## Storage
 
 Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
+
 Keep container tightly closed.
+
 Protect from moisture.
 
 Dispense in a tight container as per USP, if product package is subdivided.
