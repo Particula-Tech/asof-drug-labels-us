@@ -24,12 +24,31 @@ Do not administer Neulasta to patients with a history of serious allergic reacti
 The On-body Injector for Neulasta uses acrylic adhesive.
 For patients who have reactions to acrylic adhesives, use of this product may result in a significant reaction.
 
-## 5.5 Use in Patients With Sickle Cell Disorders
+## 5.5 Use in Patients with Sickle Cell Disorders
 
 Severe sickle cell crises can occur in patients with sickle cell disorders receiving Neulasta.
 Severe and sometimes fatal sickle cell crises can occur in patients with sickle cell disorders receiving filgrastim, the parent compound of pegfilgrastim.
 
-## 5.6 Potential for Tumor Growth Stimulatory Effects on Malignant Cells
+## 5.6 Glomerulonephritis
 
-The granulocyte-colony stimulating factor (G‑CSF) receptor through which pegfilgrastim and filgrastim act has been found on tumor cell lines.
+Glomerulonephritis has occurred in patients receiving Neulasta.
+The diagnoses were based upon azotemia, hematuria (microscopic and macroscopic), proteinuria, and renal biopsy.
+Generally, events of glomerulonephritis resolved after dose reduction or discontinuation of Neulasta.
+If glomerulonephritis is suspected, evaluate for cause.
+If causality is likely, consider dose-reduction or interruption of Neulasta.
+
+## 5.7 Leukocytosis
+
+White blood cell (WBC) counts of 100 x 109/L or greater have been observed in patients receiving pegfilgrastim.
+Monitoring of complete blood count (CBC) during pegfilgrastim therapy is recommended.
+
+## 5.8 Capillary Leak Syndrome
+
+Capillary leak syndrome has been reported after G-CSF administration, including Neulasta, and is characterized by hypotension, hypoalbuminemia, edema and hemoconcentration.
+Episodes vary in frequency, severity and may be life-threatening if treatment is delayed.
+Patients who develop symptoms of capillary leak syndrome should be closely monitored and receive standard symptomatic treatment, which may include a need for intensive care.
+
+## 5.9 Potential for Tumor Growth Stimulatory Effects on Malignant Cells
+
+The granulocyte-colony stimulating factor (G-CSF) receptor through which pegfilgrastim and filgrastim act has been found on tumor cell lines.
 The possibility that pegfilgrastim acts as a growth factor for any tumor type, including myeloid malignancies and myelodysplasia, diseases for which pegfilgrastim is not approved, cannot be excluded.

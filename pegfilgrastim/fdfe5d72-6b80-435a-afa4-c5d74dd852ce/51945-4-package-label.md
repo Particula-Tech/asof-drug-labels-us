@@ -1,4 +1,4 @@
-# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL
+Principal Display Panel
 
 NDC 55513-190-01
 
@@ -26,21 +26,23 @@ Sterile Solution – No Preservative
 
 Rx Only
 
-Manufactured by Amgen Manufacturing, Limited, a subsidiary of Amgen Inc.
+Manufactured by Amgen Inc.
 
 Thousand Oaks, CA 91320-1799 U.S.A.
 
 U.S. License No. 1080
 
-# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL
+Principal Display Panel
 
 NDC 55513-192-01
 
-1 - 0.6 mL Single Use Prefilled Syringe
+1 - Single Use Neulasta Prefilled Syringe
+
+1 - Sterile On-body Injector for Neulasta
 
 AMGEN®
 
-Neulasta ®
+Neulasta® Onpro™ kit
 
 (pegfilgrastim)
 
@@ -48,20 +50,33 @@ Pegylated Recombinant Methionyl Human Granulocyte Colony-Stimulating Factor
 
 (PEG-r-metHuG-CSF) derived from E Coli
 
-6 mg
+6 mg/0.6 mL*
 
-6 mg in 0.6 mL Single Use Prefilled Syringe
+6 mg/0.6 mL*
+
+*Prefilled syringe contains 0.64 mL to deliver 6 mg/0.6 mL when used with on-body injector
 
 For Subcutaneous Use Only
 
+Carton Contents (intended to be dispensed as a unit):
+
+- 1 sterile On-body Injector for Neulasta
+- 1 Neulasta prefilled syringe labeled for use with on-body injector only
+- 1 patient instructions for use
+- 1 healthcare provider instructions for use, 1 package insert
+- 1 reference guide
+
 This Product Contains Dry Natural Rubber
 
-Sterile Solution – No Preservative
+Store at 2° to 8°C (36° to 46°F).
+
+Do Not Freeze or Shake.
+Keep in Carton to Protect from Light.
 
 Rx Only
 
-Manufactured by Amgen Manufacturing, Limited, a subsidiary of Amgen Inc.
+Manufactured by Amgen Inc.
 
-Thousand Oaks, CA 91320-1799 U.S.A.
+Thousand Oaks, CA 91320-1799
 
 U.S. License No. 1080
