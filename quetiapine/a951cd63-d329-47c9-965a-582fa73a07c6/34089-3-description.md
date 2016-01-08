@@ -1,4 +1,4 @@
-# 11. DESCRIPTION
+# 11 DESCRIPTION
 
 Quetiapine fumarate is a psychotropic agent belonging to a chemical class, the dibenzothiazepine derivatives.
 The chemical designation is 2-[2-(4-dibenzo [b,f] [1,4]thiazepin-11-yl-1-piperazinyl)ethoxy]-ethanol fumarate (2:1) (salt).
@@ -9,7 +9,7 @@ The structural formula is:
 
 Quetiapine fumarate is a white to off-white crystalline powder which is moderately soluble in water.
 
-Quetiapine fumarate tablets are supplied for oral administration as 25 mg (quetiapine) round, pink tablets, 50 mg (quetiapine) round, white tablets, 100 mg (quetiapine) round, yellow tablets, 200 mg (quetiapine) round, white tablets, 300 mg (quetiapine) capsule-shaped, white tablets and 400 mg (quetiapine) capsule-shaped, yellow tablets.
+Quetiapine tablets USP are supplied for oral administration as 25 mg (quetiapine) round, pink tablets, 50 mg (quetiapine) round, white tablets, 100 mg (quetiapine) round, yellow tablets, 200 mg (quetiapine) round, white tablets, 300 mg (quetiapine) capsule-shaped, white tablets and 400 mg (quetiapine) capsule-shaped, yellow tablets.
 
 Inactive ingredients are dibasic calcium phosphate dihydrate, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, povidone, sodium starch glycolate and titanium dioxide.
 

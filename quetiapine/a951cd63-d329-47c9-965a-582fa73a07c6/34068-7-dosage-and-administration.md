@@ -1,15 +1,15 @@
-# 2. DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 ## 2.1 Important Administration Instructions
 
-Quetiapine fumarate tablets can be taken with or without food.
+Quetiapine tablets USP can be taken with or without food.
 
 ## 2.2 Recommended Dosing
 
 The recommended initial dose, titration, dose range and maximum quetiapine dose for each approved indication is displayed in Table 1.
 After initial dosing, adjustments can be made upwards or downwards, if necessary, depending upon the clinical response and tolerability of the patient [see CLINICAL STUDIES (14.1 and 14.2)].
 
-Table 1: Recommended Dosing for Quetiapine Fumarate Tablets
+Table 1: Recommended Dosing for Quetiapine Tablets USP
 
 | Indication | Initial Dose and Titration | Recommended Dose | Maximum Dose |
 | --- | --- | --- | --- |

@@ -1,4 +1,4 @@
-# 17. PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
 See FDA-approved patient labeling (MEDICATION GUIDE)
 
@@ -89,4 +89,4 @@ United States.
 
 MADE IN INDIA.
 
-Revised: August 2014 ID # 238256
+Rev: December 2015 ID#: 242117
