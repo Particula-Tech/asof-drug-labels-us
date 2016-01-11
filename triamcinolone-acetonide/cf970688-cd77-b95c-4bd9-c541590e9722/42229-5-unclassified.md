@@ -4,6 +4,6 @@ For Intramuscular or Intra-articular Use Only NOT FOR INTRAVENOUS, INTRADERMAL, 
 
 Bristol-Myers Squibb Company Princeton, NJ 08543 USA Product of Spain
 
-1221153A6
+1221153A7
 
-Rev September 2014
+Revised: January 2016
