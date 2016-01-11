@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Metoprolol Tartrate Tablets, USP are available containing 25 mg, 50 mg, or 100 mg of metoprolol tartrate, USP.
+Metoprolol Tartrate Tablets, USP are available containing 25 mg, 50 mg or 100 mg of metoprolol tartrate, USP.
 
 The 25 mg tablets are white film-coated, round, scored tablets debossed with M over 18 on one side of the tablet and scored on the other side.
 They are available as follows:
