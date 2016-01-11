@@ -7,13 +7,21 @@ It is also supplied as GlucaGen HypoKit with a disposable prefilled syringe cont
 
 GlucaGen HypoKit includes: 1 vial containing 1 mg (1 unit) GlucaGen (glucagon [rDNA origin] for injection) 1 disposable syringe containing 1 mL Sterile Water for Reconstitution NDC 0169-7065-15
 
-GlucaGen Diagnostic Kit (NDC 0597-0260-10) includes: 1 vial containing 1 mg (1 unit) GlucaGen(glucagon [rDNA origin] for injection) NDC 0597-0053-01 1 vial containing 1 mL Sterile Water for Reconstitution NDC 0597-0265-94
+GlucaGen Diagnostic Kit (NDC 0597-0260-10) includes:
 
-GlucaGen Diagnostic Kit is also available as (NDC 55390-004-01) and includes: 1 vial containing 1 mg (1 unit) GlucaGen(glucagon [rDNA origin] for injection) NDC 55390-004-01 1 vial containing 1 mL Sterile Water for Reconstitution
+1 vial containing 1 mg (1 unit) GlucaGen (glucagon [rDNA origin] for injection)
 
-GlucaGen HypoKit (Two-Pack) includes: 2 packs of GlucaGen HypoKit, Each HypoKit contains: 1 vial containing 1 mg (1 unit) GlucaGen (glucagon [rDNA origin] for injection) 1 disposable syringe containing 1 mL Sterile Water for Reconstitution NDC 0169-7065-21
+NDC 0597-0053-01
 
-The GlucaGen 10-pack includes: 10 vials, each containing 1 mg (1 unit) GlucaGen (glucagon [rDNA origin] for injection) NDC 55390-004-10 NDC 0597-0053-45
+1 vial containing 1 mL Sterile Water for Reconstitution
+
+NDC 0597-0265-94
+
+GlucaGen Diagnostic Kit is also available as NDC 55390-004-01 and includes: 1 vial containing 1 mg (1 unit) GlucaGen(glucagon [rDNA origin] for injection) NDC 55390-004-01 1 vial containing 1 mL Sterile Water for Reconstitution
+
+The GlucaGen 10-pack includes: 10 vials, each containing 1 mg (1 unit) GlucaGen (glucagon [rDNA origin] for injection) NDC 55390-004-10
+
+NDC 0597-0053-45
 
 ## 16.2 Recommended Storage
 
