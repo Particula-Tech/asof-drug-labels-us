@@ -161,7 +161,7 @@ Before taking Lamotrigine tablets, tell your healthcare provider about all of yo
   Call your baby’s healthcare provider right away if you see any of these problems.
   Talk to your healthcare provider about the best way to feed your baby if you take Lamotrigine tablets.
 
-Tell your healthcare provider about all the medicines you take or if you are planning to take a new medicine, including prescription and over the-counter medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take or if you are planning to take a new medicine, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
 If you use Lamotrigine tablets with certain other medicines, they can affect each other, causing side effects.
 
@@ -252,4 +252,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 *DEPAKENE and *DEPAKOTE are registered trademarks of Abbott Laboratories.
 
-Manufactured by: Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD 21801, USA 0245/MG Rev. # 06/2015.
+Manufactured by: Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD 21801, USA 0245/MG Rev. # 10/2015.
