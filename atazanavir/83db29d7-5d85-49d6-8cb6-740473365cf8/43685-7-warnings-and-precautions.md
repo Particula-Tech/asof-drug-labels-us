@@ -9,7 +9,7 @@ In clinical trials of atazanavir that included electrocardiograms, asymptomatic 
 Because of limited clinical experience in patients with preexisting conduction system disease (e.g., marked first-degree AV block or second- or third-degree AV block), consider ECG monitoring in these patients.
 [See Clinical Pharmacology (12.2).]
 
-## 5.2 Rash
+## 5.2 Severe Skin Reactions
 
 Cases of Stevens-Johnson syndrome, erythema multiforme, and toxic skin eruptions, including drug rash, eosinophilia and systemic symptoms (DRESS) syndrome, have been reported in patients receiving atazanavir.
 [See Contraindications (4) and Adverse Reactions (6.1).]
@@ -64,11 +64,9 @@ Initiation of EVOTAZ, a CYP3A inhibitor, in patients receiving medications metab
 Initiation of medications that inhibit or induce CYP3A may increase or decrease concentrations of EVOTAZ, respectively.
 These interactions may lead to:
 
-• clinically significant adverse reactions, potentially leading to severe, life threatening, or fatal events from greater exposures of concomitant medications.
-
-• clinically significant adverse reactions from greater exposures of EVOTAZ.
-
-• loss of therapeutic effect of EVOTAZ and possible development of resistance.
+1. • clinically significant adverse reactions, potentially leading to severe, life threatening, or fatal events from greater exposures of concomitant medications.
+2. • clinically significant adverse reactions from greater exposures of EVOTAZ.
+3. • loss of therapeutic effect of EVOTAZ and possible development of resistance.
 
 See Table 5 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations [see Drug Interactions (7)].
 Consider the potential for drug interactions prior to and during EVOTAZ therapy; review concomitant medications during EVOTAZ therapy; and monitor for the adverse reactions associated with the concomitant medications [see Contraindications (4) and Drug Interactions (7)].
@@ -83,6 +81,7 @@ EVOTAZ is not recommended in combination with other antiretroviral drugs that re
 EVOTAZ is not recommended in combination with products containing the individual components of EVOTAZ (atazanavir or cobicistat).
 
 EVOTAZ is not recommended in combination with ritonavir or products containing ritonavir due to similar effects of cobicistat and ritonavir on CYP3A.
+
 See Drug Interactions (7) for additional recommendations on use with other antiretroviral agents.
 
 ## 5.9 Hyperbilirubinemia

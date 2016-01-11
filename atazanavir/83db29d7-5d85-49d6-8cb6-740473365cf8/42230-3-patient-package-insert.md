@@ -45,7 +45,8 @@ Do not take EVOTAZ if you:
 - •are taking any of the following medicines.
   EVOTAZ may cause serious life-threatening side effects or death when used with these medicines:
   - oalfuzosin (UROXATRAL®)
-  - ocisapride (PROPULSID®, PROPULSID QUICKSOLV®)
+  - ocarbamazepine (CARBATROL®, EPITOL®, EQUETRO®, TEGRETOL®)
+  - ocisapride (PROPULSID®, PROPULSID® QUICKSOLV®)
   - ocolchicine (COLCRYS®, MITIGARE™), if you have liver or kidney problems
   - odronedarone hydrochloride (MULTAQ®)
   - oergot-containing medicines:
@@ -59,6 +60,8 @@ Do not take EVOTAZ if you:
   - olurasidone (LATUDA®)
   - omidazolam (VERSED®), when taken by mouth for sedation
   - onevirapine (VIRAMUNE®, VIRAMUNE XR®)
+  - ophenobarbital (LUMINAL®)
+  - ophenytoin (DILANTIN®, PHENYTEX®)
   - opimozide (ORAP®)
   - oranolazine (RANEXA®)
   - orifampin (RIMACTANE®, RIFADIN®, RIFATER®, RIFAMATE®)
@@ -210,7 +213,7 @@ Manufactured for: Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
 Product of Canada
 
-1337404A2 Revised: June 2015
+1337404A3 Revised: January 2016
 
 REYATAZ and EVOTAZ are trademarks of Bristol-Myers Squibb Company.
 Other brands listed are the trademarks of their respective owners and are not trademarks of Bristol-Myers Squibb Company.

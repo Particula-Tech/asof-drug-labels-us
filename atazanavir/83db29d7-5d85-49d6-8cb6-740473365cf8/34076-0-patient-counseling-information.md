@@ -50,7 +50,7 @@ Instruct patients receiving hormonal contraceptives to use additional or alterna
 Inform patients that EVOTAZ may produce changes in the electrocardiogram (e.g., PR prolongation).
 Advise patients to consult their healthcare provider if they are experiencing symptoms such as dizziness or lightheadedness.
 
-### Rash
+### Severe Skin Reactions
 
 Inform patients that mild rashes without other symptoms have been reported with atazanavir use.
 These rashes go away within two weeks with no change in treatment.
