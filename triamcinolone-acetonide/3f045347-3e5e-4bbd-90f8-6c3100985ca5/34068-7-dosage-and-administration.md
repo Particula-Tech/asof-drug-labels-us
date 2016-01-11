@@ -21,6 +21,7 @@ Careful technique should be employed to avoid the possibility of entering a bloo
 
 The injection procedure should be carried out under controlled aseptic conditions, which include the use of sterile gloves, a sterile drape, and a sterile eyelid speculum (or equivalent).
 Adequate anesthesia and a broad-spectrum microbicide should be given prior to the injection.
+
 Following the injection, patients should be monitored for elevation in intraocular pressure and for endophthalmitis.
 Monitoring may consist of a check for perfusion of the optic nerve head immediately after the injection, tonometry within 30 minutes following the injection, and biomicroscopy between two and seven days following the injection.
 Patients should be instructed to report any symptoms suggestive of endophthalmitis without delay.

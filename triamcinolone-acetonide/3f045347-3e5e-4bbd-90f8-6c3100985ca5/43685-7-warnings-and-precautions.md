@@ -123,7 +123,7 @@ Growth and development of pediatric patients on prolonged corticosteroid therapy
 Triamcinolone acetonide can cause fetal harm when administered to a pregnant woman.
 Human and animal studies suggest that use of corticosteroids during the first trimester of pregnancy is associated with an increased risk of orofacial clefts, intrauterine growth restriction and decreased birth weight.
 If this drug is used during pregnancy, or if the patient becomes pregnant while using this drug, the patient should be apprised of the potential hazard to the fetus.
-[See Use inSpecific Populations (8.1)].
+[See Use in Specific Populations (8.1)].
 
 ## 5.11 Weight Gain
 
