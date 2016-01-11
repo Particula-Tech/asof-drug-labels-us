@@ -5,7 +5,7 @@
 Serious neurologic events, some resulting in death, have been reported with epidural injection of corticosteroids (see WARNINGS: Neurologic).
 Specific events reported include, but are not limited to, spinal cord infarction, paraplegia, quadriplegia, cortical blindness, and stroke.
 These serious neurologic events have been reported with and without use of fluoroscopy.
-The safety and effectiveness of epiduraladministration of corticosteroids have not been established, and corticosteroids are not approved for this use.
+The safety and effectiveness of epidural administration of corticosteroids have not been established, and corticosteroids are not approved for this use.
 
 ## General
 
