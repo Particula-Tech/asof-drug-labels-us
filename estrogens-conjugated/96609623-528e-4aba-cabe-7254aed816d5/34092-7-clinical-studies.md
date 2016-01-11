@@ -8,26 +8,26 @@ The study randomized 423 generally healthy postmenopausal women between 44 to 77
 The majority (92.2 percent) of the women were Caucasian (n = 390); 7.8 percent were Other (n = 33).
 All subjects were assessed for improvement in the mean change from baseline to Week 12 for the co-primary efficacy variables of: most bothersome symptom of vulvar and vaginal atrophy (defined as the moderate to severe symptom that had been identified by the woman as most bothersome to her at baseline); percentage of vaginal superficial cells and percentage of vaginal parabasal cells; and vaginal pH.
 
-In the 12-week, double-blind phase, a statistically significant mean change between baseline and Week 12 in the symptom of dyspareunia was observed for both of the PREMARIN Vaginal Cream regimens (0.5 g twice weekly and 0.5 g daily for 21 days, then 7 days off) compared to matching placebo, see Table 3.
-Also demonstrated for each PREMARIN Vaginal Cream regimen compared to placebo was a statistically significant increase in the percentage of superficial cells at Week 12 (28 percent and 26 percent, respectively, compared to 3 percent and 1 percent for matching placebo), a statistically significant decrease in parabasal cells (-61 percent and -58 percent, respectively, compared to -21 percent and -7 percent for matching placebo) and statistically significant mean reduction between baseline and Week 12 in vaginal pH (-1.62 and -1.57, respectively, compared to -0.36 and -0.26 for matching placebo).
+In the 12-week, double-blind phase, a statistically significant mean change between baseline and Week 12 in the symptom of dyspareunia was observed for both of the PREMARIN Vaginal Cream regimens (0.5 g daily for 21 days, then 7 days off and 0.5 g twice weekly) compared to matching placebo, see Table 3.
+Also demonstrated for each PREMARIN Vaginal Cream regimen compared to placebo was a statistically significant increase in the percentage of superficial cells at Week 12 (28 percent, 21/7 regimen and 26 percent, twice a week compared to 3 percent and 1 percent for matching placebo), a statistically significant decrease in parabasal cells (-61 percent, 21/7 regimen and -58 percent, twice a week compared to -21 percent and -7 percent for matching placebo) and statistically significant mean reduction between baseline and Week 12 in vaginal pH (-1.62, 21/7 regimen and -1.57, twice a week compared to -0.36 and -0.26 for matching placebo).
 
 Endometrial safety was assessed by endometrial biopsy for all randomly assigned subjects at week 52.
 For the 155 subjects (83 on the 21/7 regimen, 72 on the twice-weekly regimen) completing the 52-week period with complete follow-up and evaluable endometrial biopsies, there were no reports of endometrial hyperplasia or endometrial carcinoma.
 
 Table 3: Mean Change in Dyspareunia Severity Compared to Placebo MITT Population of Most Bothersome Symptom Score for Dyspareunia, LOCF
 
-| Dyspareunia | PVC 0.5 g 2×/wkPVC 2×/wk = apply PVC twice a week | Placebo 0.5 g 2×/wk | PVC 0.5 g 21/7 PVC 21/7 = apply PVC for 21 days and then 7 days of no therapy | Placebo 0.5 g 21/7 |
+| Dyspareunia | PVC 0.5 g 21/7PVC 21/7 = apply PVC for 21 days and then 7 days of no therapy | Placebo 0.5 g 21/7 | PVC 0.5 g 2×/wkPVC 2×/wk = apply PVC twice a week | Placebo 0.5 g 2×/wk |
 | --- | --- | --- | --- | --- |
-| Baseline | n Mean (SD) 52 2.43 (0.76) | n Mean (SD) 22 2.28 (1.04) | n Mean (SD) 50 2.26 (0.99) | n Mean (SD) 18 2.32 (0.88) |
-| Week 12 | 52 0.88 (0.96) | 21 1.63 (1.16) | 50 0.77 (1.05) | 18 1.93 (1.03) |
-| Change from Baseline at Week 12 | 52 -1.55 (0.92) | 21 -0.62 (1.23) | 50 -1.48 (1.17) | 18 -0.40 (1.01) |
-| P-value vs. Placebo | <0.001Comparison of PVC 2×/wk with placebo 2×/wk | -- | <0.001 Comparison of PVC 21/7 with placebo 21/7 | -- |
+| Baseline | n Mean (SD) 50 2.26 (0.99) | n Mean (SD) 18 2.32 (0.88) | n Mean (SD) 52 2.43 (0.76) | n Mean (SD) 22 2.28 (1.04) |
+| Week 12 | 50 0.77 (1.05) | 18 1.93 (1.03) | 52 0.88 (0.96) | 21 1.63 (1.16) |
+| Change from Baseline at Week 12 | 50 -1.48 (1.17) | 18 -0.40 (1.01) | 52 -1.55 (0.92) | 21 -0.62 (1.23) |
+| P-value vs. Placebo | <0.001 Comparison of PVC 21/7 with placebo 21/7 | -- | <0.001 Comparison of PVC 2×/wk with placebo 2×/wk | -- |
 
 ## 14.2 Women's Health Initiative Studies
 
 The WHI enrolled approximately 27,000 predominantly healthy postmenopausal women in two substudies to assess the risks and benefits of daily oral CE (0.625 mg)-alone or in combination with MPA (2.5 mg) compared to placebo in the prevention of certain chronic diseases.
 The primary endpoint was the incidence of CHD (defined as nonfatal MI, silent MI and CHD death), with invasive breast cancer as the primary adverse outcome.
-A "global index" included the earliest occurrence of CHD, invasive breast cancer, stroke, PE,, endometrial cancer (only in the CE plus MPA substudy), colorectal cancer, hip fracture, or death due to other causes.
+A "global index" included the earliest occurrence of CHD, invasive breast cancer, stroke, PE, endometrial cancer (only in the CE plus MPA substudy), colorectal cancer, hip fracture, or death due to other causes.
 These substudies did not evaluate the effects of CE-alone or CE plus MPA on menopausal symptoms.
 
 WHI Estrogen-Alone Substudy
@@ -60,7 +60,7 @@ WHI publications can be viewed at www.nhlbi.nih.gov/whi.
 | Global IndexA subset of the events was combined in a “global index” defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, colorectal cancer, hip fracture, or death due to other causes. | 1.02 (0.92–1.13) | 206 | 201 |
 
 For those outcomes included in the WHI "global index" that reached statistical significance, the absolute excess risk per 10,000 women-years in the group treated with CE-alone was 12 more strokes while the absolute risk reduction per 10,000 women-years was 7 fewer hip fractures.9 The absolute excess risk of events included in the "global index" was a non-significant 5 events per 10,000 women-years.
-There was no difference between the groups in terms of all-cause mortality..
+There was no difference between the groups in terms of all-cause mortality.
 
 No overall difference for primary CHD events (nonfatal MI, silent MI and CHD death) and invasive breast cancer incidence in women receiving CE-alone compared with placebo was reported in final centrally adjudicated results from the estrogen-alone substudy, after an average follow up of 7.1 years.
 

@@ -1,8 +1,8 @@
-LAB-0498-3.0 05/2012
+LAB-0498-4.0
 
 FDA-Approved Patient Labeling
 
-PREMARIN® (conjugated estrogens) Vaginal Cream
+PREMARIN® (prem-uh-rin) (Conjugated estrogens) Vaginal Cream
 
 Read this PATIENT INFORMATION before you start using PREMARIN Vaginal Cream and read what you get each time you refill your PREMARIN Vaginal Cream prescription.
 There may be new information.
@@ -147,11 +147,11 @@ PREMARIN Vaginal Cream also contains cetyl esters wax, cetyl alcohol, white wax,
 
 PREMARIN (conjugated estrogens) Vaginal Cream—Each gram contains 0.625 mg conjugated estrogens, USP.
 
-Combination package: Each contains a net wt. of 1.06 oz (30 g) tube with plastic applicator(s) calibrated in 0.5 g increments to a maximum of 2 g (NDC 0046-0872-21), or a net wt.
-1.5 oz (42.5 g) tube with one plastic applicator calibrated in 0.5 g increments to a maximum of 2 g (NDC 0046-0872-93).
+Combination package: Each contains a net wt. of 1.06 oz (30 g) tube with plastic applicator(s) calibrated in 0.5 g increments to a maximum of 2 g (NDC 0046-0872-21).
+
 Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 
 This product's label may have been updated.
-For current full prescribing information, please visit www pfizer.com
+For current full prescribing information, please visit www.pfizer.com.
 
-LAB-0519-3.0 05/2012
+LAB-0519-4.0 12/2015

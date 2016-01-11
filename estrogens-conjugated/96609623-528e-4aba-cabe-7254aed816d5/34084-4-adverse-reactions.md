@@ -52,7 +52,7 @@ Table 1: Number (%) of Patients Reporting Treatment Emergent Adverse Reactions â
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post approval use of PREMARIN Vaginal Cream.
+The following adverse reactions have been identified during post-approval use of PREMARIN Vaginal Cream.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Genitourinary System
