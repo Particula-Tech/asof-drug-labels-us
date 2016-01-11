@@ -1,67 +1,50 @@
-# WARNINGS
+# 5 WARNINGS AND PRECAUTIONS
 
-## Fetal Toxicity
+## 5.1 Fetal Toxicity
 
-### Pregnancy Category D
-
-Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces renal function and increases fetal and neonatal morbidity and death.
+Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
 Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
 Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
 When pregnancy is detected, discontinue HYZAAR as soon as possible.
-These adverse outcomes are usually associated with the use of these drugs in the second and third trimester of pregnancy.
-Most epidemiologic studies examining fetal abnormalities after exposure to antihypertensive use in the first trimester have not distinguished drugs affecting the renin-angiotensin system from other antihypertensive agents.
-Appropriate management of maternal hypertension during pregnancy is important to optimize outcomes for both mother and fetus.
-
-In the unusual case that there is no appropriate alternative to therapy with drugs affecting the renin-angiotensin system for a particular patient, apprise the mother of the potential risk to the fetus.
-Perform serial ultrasound examinations to assess the intra-amniotic environment.
-
-If oligohydramnios is observed, discontinue HYZAAR, unless it is considered life-saving for the mother.
-Fetal testing may be appropriate, based on the week of pregnancy.
-Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
-
-Closely observe infants with histories of in utero exposure to HYZAAR for hypotension, oliguria, and hyperkalemia (see PRECAUTIONS, Pediatric Use).
-
-There was no evidence of teratogenicity in rats or rabbits treated with a maximum losartan potassium dose of 10 mg/kg/day in combination with 2.5 mg/kg/day of hydrochlorothiazide.
-At these dosages, respective exposures (AUCs) of losartan, its active metabolite, and hydrochlorothiazide in rabbits were approximately 5, 1.5, and 1.0 times those achieved in humans with 100 mg losartan in combination with 25 mg hydrochlorothiazide.
-AUC values for losartan, its active metabolite and hydrochlorothiazide, extrapolated from data obtained with losartan administered to rats at a dose of 50 mg/kg/day in combination with 12.5 mg/kg/day of hydrochlorothiazide, were approximately 6, 2, and 2 times greater than those achieved in humans with 100 mg of losartan in combination with 25 mg of hydrochlorothiazide.
-Fetal toxicity in rats, as evidenced by a slight increase in supernumerary ribs, was observed when females were treated prior to and throughout gestation with 10 mg/kg/day losartan in combination with 2.5 mg/kg/day hydrochlorothiazide.
-As also observed in studies with losartan alone, adverse fetal and neonatal effects, including decreased body weight, renal toxicity, and mortality, occurred when pregnant rats were treated during late gestation and/or lactation with 50 mg/kg/day losartan in combination with 12.5 mg/kg/day hydrochlorothiazide.
-Respective AUCs for losartan, its active metabolite and hydrochlorothiazide at these dosages in rats were approximately 35, 10 and 10 times greater than those achieved in humans with the administration of 100 mg of losartan in combination with 25 mg hydrochlorothiazide.
-When hydrochlorothiazide was administered without losartan to pregnant mice and rats during their respective periods of major organogenesis, at doses up to 3000 and 1000 mg/kg/day, respectively, there was no evidence of harm to the fetus.
 
 Thiazides cross the placental barrier and appear in cord blood.
-There is a risk of fetal or neonatal jaundice, thrombocytopenia, and possibly other adverse reactions that have occurred in adults.
+Adverse reactions include fetal or neonatal jaundice, thrombocytopenia [see Use in Specific Populations (8.1)].
 
-## Hypotension — Volume-Depleted Patients
+## 5.2 Hypotension in Volume- or Salt-Depleted Patients
 
-In patients who are intravascularly volume-depleted (e.g., those treated with diuretics), symptomatic hypotension may occur after initiation of therapy with HYZAAR.
-This condition should be corrected prior to administration of HYZAAR (see DOSAGE AND ADMINISTRATION).
+In patients with an activated renin-angiotensin system, such as volume- or salt-depleted patients (e.g., those being treated with high doses of diuretics), symptomatic hypotension may occur after initiation of treatment with HYZAAR.
+Correct volume or salt depletion prior to administration of HYZAAR.
+Do not use HYZAAR as initial therapy in patients with intravascular volume depletion.
 
-## Impaired Hepatic Function
+## 5.3 Impaired Renal Function
 
-### Losartan Potassium and Hydrochlorothiazide
+Changes in renal function including acute renal failure can be caused by drugs that inhibit the renin-angiotensin system and by diuretics.
+Patients whose renal function may depend in part on the activity of the renin-angiotensin system (e.g., patients with renal artery stenosis, chronic kidney disease, severe congestive heart failure, or volume depletion) may be at particular risk of developing acute renal failure on HYZAAR.
+Monitor renal function periodically in these patients.
+Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on HYZAAR [see Drug Interactions (7.3) and Use in Specific Populations (8.8)].
 
-HYZAAR is not recommended for patients with hepatic impairment who require titration with losartan.
-The lower starting dose of losartan recommended for use in patients with hepatic impairment cannot be given using HYZAAR.
-
-### Hydrochlorothiazide
-
-Thiazides should be used with caution in patients with impaired hepatic function or progressive liver disease, since minor alterations of fluid and electrolyte balance may precipitate hepatic coma.
-
-## Hypersensitivity Reaction
+## 5.4 Hypersensitivity
 
 Hypersensitivity reactions to hydrochlorothiazide may occur in patients with or without a history of allergy or bronchial asthma, but are more likely in patients with such a history.
 
-## Systemic Lupus Erythematosus
+## 5.5 Electrolyte and Metabolic Effects
 
-Thiazide diuretics have been reported to cause exacerbation or activation of systemic lupus erythematosus.
+In double-blind clinical trials of various doses of losartan potassium and hydrochlorothiazide, the incidence of hypertensive patients who developed hypokalemia (serum potassium <3.5 mEq/L) was 6.7% versus 3.5% for placebo; the incidence of hyperkalemia (serum potassium >5.7 mEq/L) was 0.4% versus 0% for placebo.
 
-## Lithium Interaction
+HYZAAR contains hydrochlorothiazide which can cause hypokalemia, hyponatremia and hypomagnesemia.
+Hypomagnesemia can result in hypokalemia which may be difficult to treat despite potassium repletion.
+HYZAAR also contains losartan which can cause hyperkalemia.
+Monitor serum electrolytes periodically [see Drug Interactions (7.1)].
 
-Lithium generally should not be given with thiazides.
-Monitor serum lithium levels in patients receiving lithium and hydrochlorothiazide (see PRECAUTIONS, Drug Interactions, Hydrochlorothiazide, Lithium).
+Hydrochlorothiazide may alter glucose tolerance and raise serum levels of cholesterol and triglycerides.
 
-## Acute Myopia and Secondary Angle-Closure Glaucoma
+Hyperuricemia may occur or frank gout may be precipitated in patients receiving thiazide therapy.
+Because losartan decreases uric acid, losartan in combination with hydrochlorothiazide attenuates the diuretic-induced hyperuricemia.
+
+Hydrochlorothiazide decreases urinary calcium excretion and may cause elevations of serum calcium.
+Monitor calcium levels.
+
+## 5.6 Acute Myopia and Secondary Angle-Closure Glaucoma
 
 Hydrochlorothiazide, a sulfonamide, can cause an idiosyncratic reaction, resulting in acute transient myopia and acute angle-closure glaucoma.
 Symptoms include acute onset of decreased visual acuity or ocular pain and typically occur within hours to weeks of drug initiation.
@@ -70,214 +53,10 @@ The primary treatment is to discontinue hydrochlorothiazide as rapidly as possib
 Prompt medical or surgical treatments may need to be considered if the intraocular pressure remains uncontrolled.
 Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy.
 
-# PRECAUTIONS
+## 5.7 Systemic Lupus Erythematosus
 
-## General
+Thiazide diuretics have been reported to cause exacerbation or activation of systemic lupus erythematosus.
 
-Hypersensitivity: Angioedema.
-See ADVERSE REACTIONS, Postmarketing Experience.
-
-### Losartan Potassium and Hydrochlorothiazide
-
-In double-blind clinical trials of various doses of losartan potassium and hydrochlorothiazide, the incidence of hypertensive patients who developed hypokalemia (serum potassium <3.5 mEq/L) was 6.7% versus 3.5% for placebo; the incidence of hyperkalemia (serum potassium >5.7 mEq/L) was 0.4%.
-No patient discontinued due to increases or decreases in serum potassium.
-The mean decrease in serum potassium in patients treated with various doses of losartan and hydrochlorothiazide was 0.123 mEq/L.
-In patients treated with various doses of losartan and hydrochlorothiazide, there was also a dose-related decrease in the hypokalemic response to hydrochlorothiazide as the dose of losartan was increased, as well as a dose-related decrease in serum uric acid with increasing doses of losartan.
-
-### Hydrochlorothiazide
-
-Periodic determination of serum electrolytes to detect possible electrolyte imbalance should be performed at appropriate intervals.
-
-All patients receiving thiazide therapy should be observed for clinical signs of fluid or electrolyte imbalance: hyponatremia, hypochloremic alkalosis, and hypokalemia.
-Serum and urine electrolyte determinations are particularly important when the patient is vomiting excessively or receiving parenteral fluids.
-Warning signs or symptoms of fluid and electrolyte imbalance, irrespective of cause, include dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, confusion, seizures, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia, and gastrointestinal disturbances such as nausea and vomiting.
-
-Hypokalemia may develop, especially with brisk diuresis, when severe cirrhosis is present, or after prolonged therapy.
-
-Interference with adequate oral electrolyte intake will also contribute to hypokalemia.
-Hypokalemia may cause cardiac arrhythmia and may also sensitize or exaggerate the response of the heart to the toxic effects of digitalis (e.g., increased ventricular irritability).
-
-Although any chloride deficit is generally mild and usually does not require specific treatment except under extraordinary circumstances (as in liver disease or renal disease), chloride replacement may be required in the treatment of metabolic alkalosis.
-
-Dilutional hyponatremia may occur in edematous patients in hot weather; appropriate therapy is water restriction, rather than administration of salt except in rare instances when the hyponatremia is life-threatening.
-In actual salt depletion, appropriate replacement is the therapy of choice.
-
-Hyperuricemia may occur or frank gout may be precipitated in certain patients receiving thiazide therapy.
-Because losartan decreases uric acid, losartan in combination with hydrochlorothiazide attenuates the diuretic-induced hyperuricemia.
-
-In diabetic patients, dosage adjustments of insulin or oral hypoglycemic agents may be required.
-Hyperglycemia may occur with thiazide diuretics.
-Thus latent diabetes mellitus may become manifest during thiazide therapy.
+## 5.8 Postsympathectomy Patients
 
 The antihypertensive effects of the drug may be enhanced in the postsympathectomy patient.
-
-If progressive renal impairment becomes evident, consider withholding or discontinuing diuretic therapy.
-
-Thiazides have been shown to increase the urinary excretion of magnesium; this may result in hypomagnesemia.
-
-Thiazides may decrease urinary calcium excretion.
-Thiazides may cause intermittent and slight elevation of serum calcium in the absence of known disorders of calcium metabolism.
-Marked hypercalcemia may be evidence of hidden hyperparathyroidism.
-Thiazides should be discontinued before carrying out tests for parathyroid function.
-
-Increases in cholesterol and triglyceride levels may be associated with thiazide diuretic therapy.
-
-## Impaired Renal Function
-
-As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function have been reported in susceptible individuals treated with losartan; in some patients, these changes in renal function were reversible upon discontinuation of therapy.
-
-In patients whose renal function may depend on the activity of the renin-angiotensin-aldosterone system (e.g., patients with severe congestive heart failure), treatment with angiotensin converting enzyme inhibitors has been associated with oliguria and/or progressive azotemia and (rarely) with acute renal failure and/or death.
-Similar outcomes have been reported with losartan.
-
-In studies of ACE inhibitors in patients with unilateral or bilateral renal artery stenosis, increases in serum creatinine or BUN have been reported.
-Similar effects have been reported with losartan; in some patients, these effects were reversible upon discontinuation of therapy.
-
-Thiazides should be used with caution in severe renal disease.
-In patients with renal disease, thiazides may precipitate azotemia.
-Cumulative effects of the drug may develop in patients with impaired renal function.
-
-## Information for Patients
-
-Pregnancy: Female patients of childbearing age should be told about the consequences of exposure to HYZAAR during pregnancy.
-Discuss treatment options with women planning to become pregnant.
-Patients should be asked to report pregnancies to their physicians as soon as possible.
-
-Symptomatic Hypotension: A patient receiving HYZAAR should be cautioned that lightheadedness can occur, especially during the first days of therapy, and that it should be reported to the prescribing physician.
-The patients should be told that if syncope occurs, HYZAAR should be discontinued until the physician has been consulted.
-
-All patients should be cautioned that inadequate fluid intake, excessive perspiration, diarrhea, or vomiting can lead to an excessive fall in blood pressure, with the same consequences of lightheadedness and possible syncope.
-
-Potassium Supplements: A patient receiving HYZAAR should be told not to use potassium supplements or salt substitutes containing potassium without consulting the prescribing physician (see PRECAUTIONS, Drug Interactions, Losartan Potassium).
-
-## Drug Interactions
-
-### Losartan Potassium
-
-No significant drug-drug pharmacokinetic interactions have been found in interaction studies with hydrochlorothiazide, digoxin, warfarin, cimetidine and phenobarbital.
-Rifampin, an inducer of drug metabolism, decreased the concentrations of losartan and its active metabolite.
-(See CLINICAL PHARMACOLOGY, Drug Interactions.)
-In humans, two inhibitors of P450 3A4 have been studied.
-Ketoconazole did not affect the conversion of losartan to the active metabolite after intravenous administration of losartan, and erythromycin had no clinically significant effect after oral administration.
-Fluconazole, an inhibitor of P450 2C9, decreased active metabolite concentration and increased losartan concentration.
-The pharmacodynamic consequences of concomitant use of losartan and inhibitors of P450 2C9 have not been examined.
-Subjects who do not metabolize losartan to active metabolite have been shown to have a specific, rare defect in cytochrome P450 2C9.
-These data suggest that the conversion of losartan to its active metabolite is mediated primarily by P450 2C9 and not P450 3A4.
-
-As with other drugs that block angiotensin II or its effects, concomitant use of potassium-sparing diuretics (e.g., spironolactone, triamterene, amiloride), potassium supplements, or salt substitutes containing potassium may lead to increases in serum potassium (see PRECAUTIONS, Information for Patients, Potassium Supplements).
-
-Lithium: Increases in serum lithium concentrations and lithium toxicity have been reported during concomitant administration of lithium with angiotensin II receptor antagonists.
-Monitor serum lithium levels during concomitant use.
-
-Non-Steroidal Anti-Inflammatory Drugs (NSAIDs) Including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors): In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists (including losartan) may result in deterioration of renal function, including possible acute renal failure.
-These effects are usually reversible.
-Monitor renal function periodically in patients receiving losartan and NSAID therapy.
-
-The antihypertensive effect of angiotensin II receptor antagonists, including losartan, may be attenuated by NSAIDs, including selective COX-2 inhibitors.
-
-Dual Blockade of the Renin-Angiotensin System (RAS): Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, syncope, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
-The Veterans Affairs Nephropathy in Diabetes (VA NEPHRON-D) trial enrolled 1448 patients with type 2 diabetes, elevated urinary-albumin-to-creatinine ratio, and decreased estimated glomerular filtration rate (GFR 30 to 89.9 ml/min), randomized them to lisinopril or placebo on a background of losartan therapy and followed them for a median of 2.2 years.
-Patients receiving the combination of losartan and lisinopril did not obtain any additional benefit compared to monotherapy for the combined endpoint of decline in GFR, end stage renal disease, or death, but experienced an increased incidence of hyperkalemia and acute kidney injury compared with the monotherapy group.
-
-Closely monitor blood pressure, renal function, and electrolytes in patients on HYZAAR and other agents that affect the RAS.
-
-Do not co-administer aliskiren with HYZAAR in patients with diabetes.
-Avoid use of aliskiren with HYZAAR in patients with renal impairment (GFR <60 ml/min).
-
-### Hydrochlorothiazide
-
-When administered concurrently, the following drugs may interact with thiazide diuretics:
-
-Alcohol, barbiturates, or narcotics — potentiation of orthostatic hypotension may occur.
-
-Antidiabetic drugs (oral agents and insulin) — dosage adjustment of the antidiabetic drug may be required.
-
-Other antihypertensive drugs — additive effect or potentiation.
-
-Cholestyramine and colestipol resins — Absorption of hydrochlorothiazide is impaired in the presence of anionic exchange resins.
-Single doses of either cholestyramine or colestipol resins bind the hydrochlorothiazide and reduce its absorption from the gastrointestinal tract by up to 85 and 43 percent, respectively.
-
-Corticosteroids, ACTH, or glycyrrhizin (found in liquorice) — intensified electrolyte depletion, particularly hypokalemia.
-
-Pressor amines (e.g., norepinephrine) — possible decreased response to pressor amines but not sufficient to preclude their use.
-
-Skeletal muscle relaxants, nondepolarizing (e.g., tubocurarine) — possible increased responsiveness to the muscle relaxant.
-
-Lithium — should not generally be given with diuretics.
-Diuretic agents reduce the renal clearance of lithium and add a high risk of lithium toxicity.
-Monitor serum lithium levels during concomitant use.
-Refer to the package insert for lithium preparations before use of such preparations with HYZAAR.
-
-Non-Steroidal Anti-Inflammatory Drugs (NSAIDs) Including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors) — The administration of a non-steroidal anti-inflammatory agent, including a selective cyclooxygenase-2 inhibitor, can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing and thiazide diuretics.
-Therefore, when HYZAAR and non-steroidal anti-inflammatory agents, including selective cyclooxygenase-2 inhibitors, are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained.
-
-In patients receiving diuretic therapy, co-administration of NSAIDs with angiotensin receptor blockers, including losartan, may result in deterioration of renal function, including possible acute renal failure.
-These effects are usually reversible.
-Monitor renal function periodically in patients receiving hydrochlorothiazide, losartan, and NSAID therapy.
-
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
-
-### Losartan Potassium and Hydrochlorothiazide
-
-No carcinogenicity studies have been conducted with the losartan potassium and hydrochlorothiazide combination.
-
-Losartan potassium and hydrochlorothiazide when tested at a weight ratio of 4:1 was negative in the Ames microbial mutagenesis assay and the V-79 Chinese hamster lung cell mutagenesis assay.
-In addition, there was no evidence of direct genotoxicity in the in vitro alkaline elution assay in rat hepatocytes and in vitro chromosomal aberration assay in Chinese hamster ovary cells at noncytotoxic concentrations.
-
-Losartan potassium, coadministered with hydrochlorothiazide, had no effect on the fertility or mating behavior of male rats at dosages up to 135 mg/kg/day of losartan and 33.75 mg/kg/day of hydrochlorothiazide.
-These dosages have been shown to provide respective systemic exposures (AUCs) for losartan, its active metabolite and hydrochlorothiazide that are approximately 60, 60 and 30 times greater than those achieved in humans with 100 mg of losartan potassium in combination with 25 mg of hydrochlorothiazide.
-In female rats, however, the coadministration of doses as low as 10 mg/kg/day of losartan and 2.5 mg/kg/day of hydrochlorothiazide was associated with slight but statistically significant decreases in fecundity and fertility indices.
-AUC values for losartan, its active metabolite and hydrochlorothiazide, extrapolated from data obtained with losartan administered to rats at a dose of 50 mg/kg/day in combination with 12.5 mg/kg/day of hydrochlorothiazide, were approximately 6, 2, and 2 times greater than those achieved in humans with 100 mg of losartan in combination with 25 mg of hydrochlorothiazide.
-
-### Losartan Potassium
-
-Losartan potassium was not carcinogenic when administered at maximally tolerated dosages to rats and mice for 105 and 92 weeks, respectively.
-Female rats given the highest dose (270 mg/kg/day) had a slightly higher incidence of pancreatic acinar adenoma.
-The maximally tolerated dosages (270 mg/kg/day in rats, 200 mg/kg/day in mice) provided systemic exposures for losartan and its pharmacologically active metabolite that were approximately 160 and 90 times (rats) and 30 and 15 times (mice) the exposure of a 50 kg human given 100 mg per day.
-
-Losartan potassium was negative in the microbial mutagenesis and V-79 mammalian cell mutagenesis assays and in the in vitro alkaline elution and in vitro and in vivo chromosomal aberration assays.
-In addition, the active metabolite showed no evidence of genotoxicity in the microbial mutagenesis, in vitro alkaline elution, and in vitro chromosomal aberration assays.
-
-Fertility and reproductive performance were not affected in studies with male rats given oral doses of losartan potassium up to approximately 150 mg/kg/day.
-The administration of toxic dosage levels in females (300/200 mg/kg/day) was associated with a significant (p<0.05) decrease in the number of corpora lutea/female, implants/female, and live fetuses/female at C-section.
-At 100 mg/kg/day only a decrease in the number of corpora lutea/female was observed.
-The relationship of these findings to drug-treatment is uncertain since there was no effect at these dosage levels on implants/pregnant female, percent post-implantation loss, or live animals/litter at parturition.
-In nonpregnant rats dosed at 135 mg/kg/day for 7 days, systemic exposure (AUCs) for losartan and its active metabolite were approximately 66 and 26 times the exposure achieved in man at the maximum recommended human daily dosage (100 mg).
-
-### Hydrochlorothiazide
-
-Two-year feeding studies in mice and rats conducted under the auspices of the National Toxicology Program (NTP) uncovered no evidence of a carcinogenic potential of hydrochlorothiazide in female mice (at doses of up to approximately 600 mg/kg/day) or in male and female rats (at doses of up to approximately 100 mg/kg/day).
-The NTP, however, found equivocal evidence for hepatocarcinogenicity in male mice.
-
-Hydrochlorothiazide was not genotoxic in vitro in the Ames mutagenicity assay of Salmonella typhimurium strains TA 98, TA 100, TA 1535, TA 1537, and TA 1538 and in the Chinese Hamster Ovary (CHO) test for chromosomal aberrations, or in vivo in assays using mouse germinal cell chromosomes, Chinese hamster bone marrow chromosomes, and the Drosophila sex-linked recessive lethal trait gene.
-Positive test results were obtained only in the in vitro CHO Sister Chromatid Exchange (clastogenicity) and in the Mouse Lymphoma Cell (mutagenicity) assays, using concentrations of hydrochlorothiazide from 43 to 1300 μg/mL, and in the Aspergillus nidulans non-disjunction assay at an unspecified concentration.
-
-Hydrochlorothiazide had no adverse effects on the fertility of mice and rats of either sex in studies wherein these species were exposed, via their diet, to doses of up to 100 and 4 mg/kg, respectively, prior to mating and throughout gestation.
-
-## Nursing Mothers
-
-It is not known whether losartan is excreted in human milk, but significant levels of losartan and its active metabolite were shown to be present in rat milk.
-Thiazides appear in human milk.
-Because of the potential for adverse effects on the nursing infant, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
-
-## Pediatric Use
-
-Safety and effectiveness of HYZAAR in pediatric patients have not been established.
-
-### Neonates with a history of in utero exposure to HYZAAR
-
-If oliguria or hypotension occurs, direct attention toward support of blood pressure and renal perfusion.
-Exchange transfusions or dialysis may be required as a means of reversing hypotension and/or substituting for disordered renal function.
-
-## Geriatric Use
-
-In a controlled clinical study for the reduction in the combined risk of cardiovascular death, stroke and myocardial infarction in hypertensive patients with left ventricular hypertrophy, 2857 patients (62%) were 65 years and over, while 808 patients (18%) were 75 years and over.
-In an effort to control blood pressure in this study, patients were coadministered losartan and hydrochlorothiazide 74% of the total time they were on study drug.
-No overall differences in effectiveness were observed between these patients and younger patients.
-Adverse events were somewhat more frequent in the elderly compared to non-elderly patients for both the losartan and hydrochlorothiazide and the control groups (see CLINICAL PHARMACOLOGY, Special Populations).
-
-## Race
-
-In the LIFE study, Black patients with hypertension and left ventricular hypertrophy had a lower risk of stroke on atenolol than on losartan (both cotreated with hydrochlorothiazide in the majority of patients).
-Given the difficulty in interpreting subset differences in large trials, it cannot be known whether the observed difference is the result of chance.
-However, the LIFE study does not provide evidence that the benefits of losartan on reducing the risk of cardiovascular events in hypertensive patients with left ventricular hypertrophy apply to Black patients.
-(See CLINICAL PHARMACOLOGY, Pharmacodynamics and Clinical Effects; Losartan Potassium, Reduction in the Risk of Stroke.)

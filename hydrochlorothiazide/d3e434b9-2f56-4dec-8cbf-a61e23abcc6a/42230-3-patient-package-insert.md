@@ -1,16 +1,16 @@
-Patient Information HYZAAR® ("HY-zar") (losartan potassium and hydrochlorothiazide tablets) 50/12.5 mg, 100/12.5 mg, 100/25 mg Rx only
+Patient Information HYZAAR® (HY-zar) (losartan potassium and hydrochlorothiazide tablets) 50/12.5 mg, 100/12.5 mg, 100/25 mg Rx only
 
 Read the Patient Information that comes with HYZAAR® before you start taking it and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking with your doctor about your condition and treatment.
 
-## What is the most important information I should know about HYZAAR?
+What is the most important information I should know about HYZAAR?
 
 - HYZAAR can cause harm or death to an unborn baby.
 - Talk to your doctor about other ways to lower your blood pressure if you plan to become pregnant.
 - If you get pregnant while taking HYZAAR tell your doctor right away.
 
-## What is HYZAAR?
+What is HYZAAR?
 
 HYZAAR contains 2 prescription medicines, an angiotensin receptor blocker (ARB) and a diuretic (water pill).
 It is used to:
@@ -32,18 +32,16 @@ Left Ventricular Hypertrophy (LVH) is an enlargement of the walls of the left ch
 LVH can happen from several things.
 High blood pressure is the most common cause of LVH.
 
-## Who should not take HYZAAR?
+Who should not take HYZAAR?
 
 Do not take HYZAAR if you:
 
 - are allergic to any ingredients in HYZAAR.
   See a complete list of ingredients in HYZAAR at the end of this leaflet.
-- are allergic to any sulfonamide-containing ("sulfa") medicines.
-  Ask your doctor if you are not sure what sulfonamide-containing ("sulfa") medicines are.
 - are not passing urine.
 - have diabetes and are taking a medicine called aliskiren to reduce blood pressure.
 
-## What should I tell my doctor before taking HYZAAR?
+What should I tell my doctor before taking HYZAAR?
 
 Tell your doctor about all your medical conditions including if you:
 
@@ -59,11 +57,10 @@ Tell your doctor about all your medical conditions including if you:
 - have kidney problems
 - have systemic lupus erythematosus (Lupus; SLE)
 - have diabetes
-- have asthma
 - have gout
 - have any allergies
 
-## Tell your doctor about all of the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+Tell your doctor about all of the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 
 HYZAAR and certain other medicines may interact with each other.
 Especially tell your doctor if you are taking:
@@ -78,7 +75,7 @@ Especially tell your doctor if you are taking:
 Know the medicines you take.
 Keep a list of your medicines and show it to your doctor and pharmacist when you get a new medicine.
 
-## How should I take HYZAAR?
+How should I take HYZAAR?
 
 - Take HYZAAR exactly as prescribed by your doctor.
   Your doctor may change your dose if needed.
@@ -89,7 +86,7 @@ Keep a list of your medicines and show it to your doctor and pharmacist when you
 - If you take too much HYZAAR, call your doctor or Poison Control Center, or go to the nearest hospital emergency room right away.
 - Your doctor may do blood tests from time to time while you are taking HYZAAR.
 
-## What are the possible side effects of HYZAAR?
+What are the possible side effects of HYZAAR?
 
 HYZAAR may cause the following side effects that may be serious:
 
@@ -102,11 +99,9 @@ HYZAAR may cause the following side effects that may be serious:
   Low blood pressure may cause you to feel faint or dizzy.
   Lie down if you feel faint or dizzy.
   Call your doctor right away.
-- A new or worsening condition called systemic lupus erythematosus (Lupus; SLE)
 - If you have kidney problems, you may see a worsening in how well your kidneys work.
   Call your doctor if you get swelling in your feet, ankles, or hands, or unexplained weight gain.
-- If you have liver problems, you may see a worsening in how well your liver works.
-  Call your doctor if you get nausea, pain in the right upper stomach area (abdomen), yellow eyes or skin (which can be itchy).
+- A new or worsening condition called systemic lupus erythematosus (Lupus; SLE)
 - Eye problems.
   One of the medicines in HYZAAR can cause eye problems that, if left untreated, may lead to vision loss.
   Symptoms of eye problems can happen within hours to weeks of starting HYZAAR.
@@ -120,20 +115,18 @@ The most common side effects of HYZAAR in people with high blood pressure are:
 - dizziness
 - stuffy nose
 - back pain
-- fast or irregular heartbeat (palpitations)
-- rash
 
 Tell your doctor if you get any side effect that bothers you or that won't go away.
 This is not a complete list of side effects.
 For a complete list, ask your doctor or pharmacist.
 
-## How should I store HYZAAR?
+How should I store HYZAAR?
 
 - Store HYZAAR at room temperature at 59°F to 86°F (15°C to 30°C).
 - Keep HYZAAR in a tightly closed container, and keep HYZAAR out of the light.
 - Keep HYZAAR and all medicines out of the reach of children.
 
-## General information about HYZAAR
+General information about HYZAAR
 
 Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
 Do not use HYZAAR for a condition for which it was not prescribed.
@@ -144,7 +137,7 @@ This leaflet summarizes the most important information about HYZAAR.
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information that is written for health professionals.
 
-## What are the ingredients in HYZAAR?
+What are the ingredients in HYZAAR?
 
 Active ingredients: losartan potassium, hydrochlorothiazide
 

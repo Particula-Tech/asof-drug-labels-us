@@ -1,6 +1,6 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-## Losartan Potassium
+Losartan Potassium
 
 Significant lethality was observed in mice and rats after oral administration of 1000 mg/kg and 2000 mg/kg, respectively, about 44 and 170 times the maximum recommended human dose on a mg/m2 basis.
 
@@ -10,7 +10,7 @@ If symptomatic hypotension should occur, supportive treatment should be institut
 
 Neither losartan nor its active metabolite can be removed by hemodialysis.
 
-## Hydrochlorothiazide
+Hydrochlorothiazide
 
 The oral LD50 of hydrochlorothiazide is greater than 10 g/kg in both mice and rats.
 The most common signs and symptoms observed are those caused by electrolyte depletion (hypokalemia, hypochloremia, hyponatremia) and dehydration resulting from excessive diuresis.

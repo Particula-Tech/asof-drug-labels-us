@@ -1,106 +1,82 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-Losartan potassium and hydrochlorothiazide has been evaluated for safety in 858 patients treated for essential hypertension and 3889 patients treated for hypertension and left ventricular hypertrophy.
-In clinical trials with losartan potassium and hydrochlorothiazide, no adverse experiences peculiar to this combination have been observed.
-Adverse experiences have been limited to those that were reported previously with losartan potassium and/or hydrochlorothiazide.
-The overall incidence of adverse experiences reported with the combination was comparable to placebo.
+## 6.1 Clinical Trials Experience
 
-In general, treatment with losartan potassium and hydrochlorothiazide was well tolerated.
-For the most part, adverse experiences have been mild and transient in nature and have not required discontinuation of therapy.
-In controlled clinical trials, discontinuation of therapy due to clinical adverse experiences was required in only 2.8% and 2.3% of patients treated with the combination and placebo, respectively.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-In these double-blind controlled clinical trials, the following adverse experiences reported with losartan and hydrochlorothiazide occurred in ≥1 percent of patients, and more often on drug than placebo, regardless of drug relationship:
+Losartan potassium-hydrochlorothiazide has been evaluated for safety in 858 patients treated for essential hypertension and 3889 patients treated for hypertension and left ventricular hypertrophy.
+Most adverse reactions have been mild and transient in nature and have not required discontinuation of therapy.
+In controlled clinical trials, discontinuation of therapy due to clinical adverse events was required in only 2.8% and 2.3% of patients treated with the combination and placebo, respectively.
 
-Table 1:
+In these double-blind controlled clinical trials, adverse reactions occurring in greater than 2% of subjects treated with losartan-hydrochlorothiazide and at a greater rate than placebo were: back pain (2.1% vs 0.6%), dizziness (5.7% vs 2.9%), and upper respiratory infection (6.1% vs 4.6%).
 
-|  | Losartan Potassium and Hydrochlorothiazide (n=858) | Placebo (n=173) |
-| --- | --- | --- |
-| Body as a Whole Abdominal pain Edema/swelling | 1.2 1.3 | 0.6 1.2 |
-| Cardiovascular Palpitation | 1.4 | 0.0 |
-| Musculoskeletal Back pain | 2.1 | 0.6 |
-| Nervous/Psychiatric Dizziness | 5.7 | 2.9 |
-| Respiratory Cough Sinusitis Upper respiratory infection | 2.6 1.2 6.1 | 2.3 0.6 4.6 |
-| Skin Rash | 1.4 | 0.0 |
+The following additional adverse reactions have been reported in clinical trials with HYZAAR and/or the individual components:
 
-The following adverse events were also reported at a rate of 1% or greater, but were as, or more, common in the placebo group in studies of essential hypertension: asthenia/fatigue, diarrhea, nausea, headache, bronchitis, pharyngitis.
+Blood and the lymphatic system disorders: Anemia, aplastic anemia, hemolytic anemia, leukopenia, agranulocytosis.
 
-Adverse events occurred at about the same rates in men and women.
-Adverse events were somewhat more frequent in the elderly compared to non-elderly patients and somewhat more frequent in Blacks compared to non-Blacks for both the losartan and hydrochlorothiazide and the control groups.
+Metabolism and nutrition disorders: Anorexia, hyperglycemia, hyperuricemia, electrolyte imbalance including hyponatremia and hypokalemia.
 
-A patient with known hypersensitivity to aspirin and penicillin, when treated with losartan potassium, was withdrawn from study due to swelling of the lips and eyelids and facial rash, reported as angioedema, which returned to normal 5 days after therapy was discontinued.
+Psychiatric disorders: Insomnia, restlessness.
 
-Superficial peeling of palms and hemolysis were reported in one subject treated with losartan potassium.
+Nervous system disorders: Dysgeusia, headache, migraine, paraesthesias.
 
-## Losartan Potassium
+Eye disorders: Xanthopsia, transient blurred vision.
 
-Other adverse experiences that have been reported with losartan, without regard to causality, are listed below:
+Cardiac disorders: Palpitation, tachycardia.
 
-Body as a Whole: chest pain, facial edema, fever, orthostatic effects, syncope; Cardiovascular: angina pectoris, arrhythmias including atrial fibrillation, sinus bradycardia, tachycardia, ventricular tachycardia and ventricular fibrillation, CVA, hypotension, myocardial infarction, second degree AV block; Digestive: anorexia, constipation, dental pain, dry mouth, dyspepsia, flatulence, gastritis, vomiting; General disorders and administration site conditions: malaise; Hematologic: anemia; Metabolic: gout; Musculoskeletal: arm pain, arthralgia, arthritis, fibromyalgia, hip pain, joint swelling, knee pain, leg pain, muscle cramps, muscle weakness, musculoskeletal pain, myalgia, shoulder pain, stiffness; Nervous System/Psychiatric: anxiety, anxiety disorder, ataxia, confusion, depression, dream abnormality, hypesthesia, insomnia, libido decreased, memory impairment, migraine, nervousness, panic disorder, paresthesia, peripheral neuropathy, sleep disorder, somnolence, tremor, vertigo; Respiratory: dyspnea, epistaxis, nasal congestion, pharyngeal discomfort, respiratory congestion, rhinitis, sinus disorder; Skin: alopecia, dermatitis, dry skin, ecchymosis, erythema, flushing, photosensitivity, pruritus, sweating, urticaria; Special Senses: blurred vision, burning/stinging in the eye, conjunctivitis, decrease in visual acuity, taste perversion, tinnitus; Urogenital: impotence, nocturia, urinary frequency, urinary tract infection.
+Vascular disorders: Dose-related orthostatic effects, necrotizing angiitis (vasculitis, cutaneous vasculitis).
 
-## Hydrochlorothiazide
+Respiratory, thoracic and mediastinal disorders: Nasal congestion, pharyngitis, sinus disorder, respiratory distress (including pneumonitis and pulmonary edema).
 
-Other adverse experiences that have been reported with hydrochlorothiazide, without regard to causality, are listed below:
+Gastrointestinal disorders: Dyspepsia, abdominal pain, gastric irritation, cramping, diarrhea, constipation, nausea, vomiting, pancreatitis, sialoadenitis.
 
-Body as a Whole: weakness; Digestive: pancreatitis, jaundice (intrahepatic cholestatic jaundice), sialadenitis, cramping, gastric irritation; Hematologic: aplastic anemia, agranulocytosis, leukopenia, hemolytic anemia, thrombocytopenia; Hypersensitivity: purpura, photosensitivity, urticaria, necrotizing angiitis (vasculitis and cutaneous vasculitis), fever, respiratory distress including pneumonitis and pulmonary edema; Metabolic: hyperglycemia, glycosuria, hyperuricemia; Musculoskeletal: muscle spasm; Nervous System/Psychiatric: restlessness; Renal: renal failure, renal dysfunction, interstitial nephritis; Skin: erythema multiforme including Stevens-Johnson syndrome, exfoliative dermatitis including toxic epidermal necrolysis; Special Senses: transient blurred vision, xanthopsia.
+Hepato-biliary disorders: Jaundice (intrahepatic cholestatic jaundice).
 
-Persistent dry cough (with an incidence of a few percent) has been associated with ACE-inhibitor use and in practice can be a cause of discontinuation of ACE-inhibitor therapy.
+Skin and subcutaneous tissue disorders: Rash, pruritus, purpura, toxic epidermal necrolysis, urticaria, photosensitivity, cutaneous lupus erythematosus.
+
+Musculoskeletal and connective tissue disorders: Muscle cramps, muscle spasm, myalgia, arthralgia.
+
+Renal and urinary disorders: Glycosuria, renal dysfunction, interstitial nephritis, renal failure.
+
+Reproductive system and breast disorders: Erectile dysfunction/impotence.
+
+General disorders and administration site conditions: Chest pain, edema/swelling, malaise, fever, weakness.
+
+Investigations: Liver function abnormalities.
+
+Cough
+
+Persistent dry cough has been associated with ACE-inhibitor use and in practice can be a cause of discontinuation of ACE-inhibitor therapy.
 Two prospective, parallel-group, double-blind, randomized, controlled trials were conducted to assess the effects of losartan on the incidence of cough in hypertensive patients who had experienced cough while receiving ACE-inhibitor therapy.
 Patients who had typical ACE-inhibitor cough when challenged with lisinopril, whose cough disappeared on placebo, were randomized to losartan 50 mg, lisinopril 20 mg, or either placebo (one study, n=97) or 25 mg hydrochlorothiazide (n=135).
 The double-blind treatment period lasted up to 8 weeks.
-The incidence of cough is shown below.
+The incidence of cough is shown in Table 1 below.
 
-Table 2:
+Table 1:
 
-| Study 1Demographics = (89% Caucasian, 64% female). | HCTZ | Losartan | Lisinopril |
+| Study 1Demographics = (89% Caucasian, 64% female) | HCTZ | Losartan | Lisinopril |
 | --- | --- | --- | --- |
 | Cough | 25% | 17% | 69% |
-| Study 2Demographics = (90% Caucasian, 51% female). | Placebo | Losartan | Lisinopril |
+| Study 2Demographics = (90% Caucasian, 51% female) | Placebo | Losartan | Lisinopril |
 | Cough | 35% | 29% | 62% |
 
 These studies demonstrate that the incidence of cough associated with losartan therapy, in a population that all had cough associated with ACE-inhibitor therapy, is similar to that associated with hydrochlorothiazide or placebo therapy.
 
 Cases of cough, including positive re-challenges, have been reported with the use of losartan in postmarketing experience.
 
-## Severe Hypertension
+## 6.2 Postmarketing Experience
 
-In a clinical study in patients with severe hypertension (SiDBP ≥110 mmHg), the overall pattern of adverse events reported through six weeks of follow-up was similar in patients treated with HYZAAR as initial therapy and in patients treated with losartan as initial therapy.
-There were no reported cases of syncope in either treatment group.
-There were 2 (0.6%) and 0 (0.0%) cases of hypotension reported in the group treated with HYZAAR and the group treated with losartan, respectively.
-There were 3 (0.8%) and 2 (1.2%) cases of increased serum creatinine (>0.5 mg/dL) in the group treated with HYZAAR and the group treated with losartan, respectively, during the same time period.
-(See CLINICAL PHARMACOLOGY, Pharmacodynamics and Clinical Effects, Severe Hypertension.)
-
-## Postmarketing Experience
-
-The following additional adverse reactions have been reported in postmarketing experience:
+The following adverse reactions have been identified during post-approval use of HYZAAR.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency reliably or to establish a causal relationship to drug exposure.
 
 Digestive: Hepatitis has been reported rarely in patients treated with losartan.
 
-Hemic: Thrombocytopenia.
+Hematologic: Thrombocytopenia.
 
 Hypersensitivity: Angioedema, including swelling of the larynx and glottis, causing airway obstruction and/or swelling of the face, lips, pharynx, and/or tongue has been reported rarely in patients treated with losartan; some of these patients previously experienced angioedema with other drugs including ACE inhibitors.
 Vasculitis, including Henoch-Schönlein purpura, has been reported with losartan.
 Anaphylactic reactions have been reported.
 
-Metabolic and Nutrition: Hyperkalemia, hyponatremia have been reported with losartan.
+Musculoskeletal: rhabdomyolysis
 
-Musculoskeletal: Rare cases of rhabdomyolysis have been reported in patients receiving angiotensin II receptor blockers.
-
-Respiratory: Dry cough (see above) has been reported with losartan.
-
-Skin: Erythroderma has been reported with losartan.
-
-## Laboratory Test Findings
-
-In controlled clinical trials, clinically important changes in standard laboratory parameters were rarely associated with administration of HYZAAR.
-
-Creatinine, Blood Urea Nitrogen: Minor increases in blood urea nitrogen (BUN) or serum creatinine were observed in 0.6 and 0.8 percent, respectively, of patients with essential hypertension treated with HYZAAR alone.
-No patient discontinued taking HYZAAR due to increased BUN.
-One patient discontinued taking HYZAAR due to a minor increase in serum creatinine.
-
-Hemoglobin and Hematocrit: Small decreases in hemoglobin and hematocrit (mean decreases of approximately 0.14 grams percent and 0.72 volume percent, respectively) occurred frequently in patients treated with HYZAAR alone, but were rarely of clinical importance.
-No patients were discontinued due to anemia.
-
-Liver Function Tests: Occasional elevations of liver enzymes and/or serum bilirubin have occurred.
-In patients with essential hypertension treated with HYZAAR alone, no patients were discontinued due to these laboratory adverse experiences.
-
-Serum Electrolytes: See PRECAUTIONS.
+Skin: Erythroderma
