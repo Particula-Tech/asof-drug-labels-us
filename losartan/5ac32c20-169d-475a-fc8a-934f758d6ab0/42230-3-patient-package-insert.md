@@ -1,16 +1,16 @@
-Patient Information COZAAR® (CO-zar) (losartan potassium tablets) 25 mg, 50 mg, 100 mg Rx only
+# Patient Information COZAAR® (CO-zar) (losartan potassium tablets) 25 mg, 50 mg, 100 mg Rx only
 
 Read the Patient Information that comes with COZAAR® before you start taking it and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking with your doctor about your condition and treatment.
 
-## What is the most important information I should know about COZAAR?
+What is the most important information I should know about COZAAR?
 
 - COZAAR can cause harm or death to an unborn baby.
 - Talk to your doctor about other ways to lower your blood pressure if you plan to become pregnant.
 - If you get pregnant while taking COZAAR, tell your doctor right away.
 
-## What is COZAAR?
+What is COZAAR?
 
 COZAAR is a prescription medicine called an angiotensin receptor blocker (ARB).
 It is used:
@@ -35,13 +35,13 @@ Type 2 Diabetes with Nephropathy.
 Type 2 diabetes is a type of diabetes that happens mainly in adults.
 If you have diabetic nephropathy it means that your kidneys do not work properly because of damage from the diabetes.
 
-## Who should not take COZAAR?
+Who should not take COZAAR?
 
 - Do not take COZAAR if you are allergic to any of the ingredients in COZAAR.
   See the end of this leaflet for a complete list of ingredients in COZAAR.
 - Do not take COZAAR if you have diabetes and are taking a medicine called aliskiren to reduce blood pressure.
 
-## What should I tell my doctor before taking COZAAR?
+What should I tell my doctor before taking COZAAR?
 
 Tell your doctor about all of your medical conditions including if you:
 
@@ -65,7 +65,7 @@ Especially tell your doctor if you are taking:
 - medicines used to treat pain and arthritis, called non-steroidal anti-inflammatory drugs (NSAIDs), including COX-2 inhibitors
 - other medicines to reduce blood pressure
 
-## How should I take COZAAR?
+How should I take COZAAR?
 
 - Take COZAAR exactly as prescribed by your doctor.
   Your doctor may change your dose if needed.
@@ -75,7 +75,7 @@ Especially tell your doctor if you are taking:
   Just take the next dose at your regular time.
 - If you take too much COZAAR, call your doctor or Poison Control Center, or go to the nearest hospital emergency room right away.
 
-## What are the possible side effects of COZAAR?
+What are the possible side effects of COZAAR?
 
 COZAAR may cause the following side effects that may be serious:
 
@@ -90,6 +90,7 @@ COZAAR may cause the following side effects that may be serious:
   Call your doctor right away.
 - For people who already have kidney problems, you may see a worsening in how well your kidneys work.
   Call your doctor if you get swelling in your feet, ankles, or hands, or unexplained weight gain.
+- High blood levels of potassium
 
 The most common side effects of COZAAR in people with high blood pressure are:
 
@@ -112,13 +113,13 @@ Tell your doctor if you get any side effect that bothers you or that won't go aw
 This is not a complete list of side effects.
 For a complete list, ask your doctor or pharmacist.
 
-## How do I store COZAAR?
+How do I store COZAAR?
 
 - Store COZAAR tablets at 59°F to 86°F (15°C to 30°C).
 - Keep COZAAR in a tightly closed container that protects the medicine from light.
 - Keep COZAAR and all medicines out of the reach of children.
 
-## General information about COZAAR
+General information about COZAAR
 
 Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
 Do not use COZAAR for a condition for which it was not prescribed.
@@ -129,9 +130,11 @@ This leaflet summarizes the most important information about COZAAR.
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about COZAAR that is written for health professionals.
 
-## What are the ingredients in COZAAR?
+What are the ingredients in COZAAR?
 
 Active ingredients: losartan potassium
 
-Inactive ingredients: microcrystalline cellulose, lactose hydrous, pregelatinized starch, magnesium stearate, hydroxypropyl cellulose, hypromellose, and titanium dioxide.
+Inactive ingredients:
+
+microcrystalline cellulose, lactose hydrous, pregelatinized starch, magnesium stearate, hydroxypropyl cellulose, hypromellose, and titanium dioxide.
 COZAAR 25 mg, COZAAR 50 mg, and COZAAR 100 mg may also contain carnauba wax.

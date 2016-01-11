@@ -1,4 +1,4 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
 Significant lethality was observed in mice and rats after oral administration of 1000 mg/kg and 2000 mg/kg, respectively, about 44 and 170 times the maximum recommended human dose on a mg/m2 basis.
 
