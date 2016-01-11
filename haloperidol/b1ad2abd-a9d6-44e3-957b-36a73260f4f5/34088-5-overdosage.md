@@ -1,4 +1,4 @@
-# OVERDOSAGE
+# OVERDOSAGE:
 
 ## Manifestations
 
@@ -6,7 +6,7 @@ In general, the symptoms of overdosage would be an exaggeration of known pharmac
 The patient would appear comatose with respiratory depression and hypotension which could be severe enough to produce a shocklike state.
 The extrapyramidal reactions would be manifested by muscular weakness or rigidity and a generalized or localized tremor as demonstrated by the akinetic or agitans types respectively.
 With accidental overdosage, hypertension rather than hypotension occurred in a two-year old child.
-The risk of ECG changes associated withTorsades de Pointes should be considered.
+The risk of ECG changes associated with Torsades de Pointes should be considered.
 (For further information regarding Torsades de Pointes, please refer to ADVERSE REACTIONS).
 
 ## Treatment

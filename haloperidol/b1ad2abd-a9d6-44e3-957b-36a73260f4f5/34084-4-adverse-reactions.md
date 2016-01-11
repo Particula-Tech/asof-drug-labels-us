@@ -1,4 +1,4 @@
-# ADVERSE REACTIONS
+# ADVERSE REACTIONS:
 
 ## Cardiovascular Effects
 
@@ -96,4 +96,4 @@ Cataracts, retinopathy and visual disturbances.
 
 Postmarketing Events
 
-Hyperammonemia has been reported in a 5 ½ year old child with citrullinemia, an inherited disorder of ammonia excretion, following treatment with haloperidol.
+Hyperammonemia has been reported in a 5½ year old child with citrullinemia, an inherited disorder of ammonia excretion, following treatment with haloperidol.

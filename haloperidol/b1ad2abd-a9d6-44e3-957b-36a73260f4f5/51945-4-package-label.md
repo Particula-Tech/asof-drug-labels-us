@@ -1,41 +1,25 @@
 PACKAGE LABEL - PRINCIPAL DISPLAY - Haloperidol Injection 1 mL Vial Label
 
-NDC 63323-474-01
+Haloperidol Injection, USP (For Immediate Release)
 
-437401
+5 mg per mL
 
-HALOPERIDOL INJECTION, USP
+For intramuscular use.
+Sterile.
+Project from light.
 
-(For Immediate Release)
-
-5 mg/mL
-
-For Intramuscular Use
-
-1 mL Vial
+1 mL Single Use Vial
 
 Rx only
 
-Sterile
+PACKAGE LABEL - PRINCIPAL DISPLAY - Haloperidol Injection 1 mL Vial Tray Label
 
-PROTECT FROM LIGHT.
+Haloperidol Injection, USP (For Immediate Release)
 
-PACKAGE LABEL - PRINCIPAL DISPLAY - Haloperidol Injection 1 mL Vial Carton Panel
+5 mg per mL
 
-NDC 63323-474-01
+For intramuscular use.
 
-437401
-
-HALOPERIDOL INJECTION, USP
-
-(For Immediate Release)
-
-5 mg/mL
-
-For Intramuscular Use
-
-Sterile
-
-1 mL Vial
+25 x 1 mL Single Use Vials
 
 Rx only

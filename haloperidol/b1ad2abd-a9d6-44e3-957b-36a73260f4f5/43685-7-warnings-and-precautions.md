@@ -1,4 +1,4 @@
-# WARNINGS
+# WARNINGS:
 
 ## Increased Mortality in Elderly Patients with Dementia-Related Psychosis
 
@@ -10,7 +10,7 @@ Haloperidol Injection is not approved for the treatment of patients with dementi
 Cases of sudden death, QT-prolongation, and Torsades de Pointes have been reported in patients receiving Haloperidol Injection.
 Higher than recommended doses of any formulation and intravenous administration of Haloperidol Injection appear to be associated with a higher risk of QT-prolongation and Torsades de Pointes.
 Although cases have been reported even in the absence of predisposing factors, particular caution is advised in treating patients with other QT-prolonging conditions (including electrolyte imbalance [particularly hypokalemia and hypomagnesemia], drugs known to prolong QT, underlying cardiac abnormalities, hypothyroidism, and familial long QT-syndrome).
-HALOPERIDOL INJECTION IS NOT APPROVED FOR INTRAVENUOUS ADMINISTRATION.
+HALOPERIDOL INJECTION IS NOT APPROVED FOR INTRAVENOUS ADMINISTRATION.
 If Haloperidol Injection is administered intravenously, the ECG should be monitored for QT-prolongation and arrhythmias.
 
 ## Tardive Dyskinesia
@@ -58,7 +58,6 @@ Hyperpyrexia and heat stroke, not associated with the above symptom complex, hav
 
 Rodents given 2 to 20 times the usual maximum human dose of haloperidol by oral or parenteral routes showed an increase in incidence of resorption, reduced fertility, delayed delivery and pup mortality.
 No teratogenic effect has been reported in rats, rabbits or dogs at dosages within this range, but cleft palate has been observed in mice given 15 times the usual maximum human dose.
-
 Cleft palate in mice appears to be a nonspecific response to stress or nutritional imbalance as well as to a variety of drugs, and there is no evidence to relate this phenomenon to predictable human risk for most of these agents.
 
 There are no well-controlled studies with haloperidol in pregnant women.
@@ -88,9 +87,9 @@ Therefore, if the above signs and symptoms appear, especially in the elderly, th
 
 Although not reported with haloperidol, decreased serum cholesterol and/or cutaneous and ocular changes have been reported in patients receiving chemically-related drugs.
 
-# PRECAUTIONS
+# PRECAUTIONS:
 
-## Leukopenia, Neutropenia, and Agranulocytocsis
+## Leukopenia, Neutropenia, and Agranulocytosis
 
 Class Effect: In clinical trial and/or postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including haloperidol.
 Agranulocytosis has also been reported.
@@ -99,7 +98,7 @@ Possible risk factors for leukopenia/neutropenia include pre-existing low white 
 Patients with a history of a clinically significant low WBC or a drug-induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and discontinuation of haloperidol should be considered at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
 
 Patients with clinically significant neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
-Patients with severe neutropenia (absolute neutrophil count <1000/mm3 should discontinue haloperidol and have their WBC followed until recovery.
+Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue haloperidol and have their WBC followed until recovery.
 
 ## Other
 
@@ -124,7 +123,7 @@ The risks of using haloperidol in combination with other drugs have been evaluat
 
 Pharmacodynamic Interactions
 
-Since QT-prolongation has been observed during haloperidol treatment, caution is advised when prescribing to patient with QT-prolongation conditions (long QT-syndrome, hypokalemia, electrolyte imbalance) or to patients receiving medications known to prolong the QT-interval or known to cause electrolyte imbalance.
+Since QT-prolongation has been observed during haloperidol treatment, caution is advised when prescribing to a patient with QT-prolongation conditions (long QT-syndrome, hypokalemia, electrolyte imbalance) or to patients receiving medications known to prolong the QT-interval or known to cause electrolyte imbalance.
 
 If concomitant antiparkinson medication is required, it may have to be continued after haloperidol is discontinued because of the difference in excretion rates.
 If both are discontinued simultaneously, extrapyramidal symptoms may occur.
@@ -145,7 +144,7 @@ Inhibition of these routes of metabolism by another drug may result in increased
 
 Drugs Characterized as Substrates, Inhibitors or Inducers of CYP3A4, CYP2D6 or Glucuronidation
 
-In pharmacokinetic studies, mild to moderately increased haloperidol concentrations have been reported when haloperidol was given concomitantly with drugs characterized as substrates or inhibitors of CYP3A4 or CYP2D6 isoenzymes, such as, itraconazole, nefazodone, buspirone, venlafaxine, alprazolam, fluvoxamine, quinidine, fluoxetine, sertraline, chlorpromazine, and promethazine.
+In pharmacokinetic studies, mild to moderately increased haloperidol concentrations have been reported when haloperidol was given concomitantly with drugs characterized as substrates or inhibitors of CYP3A4 or CYP2D6 isoenzymes, such as itraconazole, nefazodone, buspirone, venlafaxine, alprazolam, fluvoxamine, quinidine, fluoxetine, sertraline, chlorpromazine, and promethazine.
 
 When prolonged treatment (1 to 2 weeks) with enzyme-inducing drugs such as rifampin or carbamazepine is added to haloperidol therapy, this results in a significant reduction of haloperidol plasma levels.
 
@@ -173,7 +172,7 @@ The ambulatory patient should be warned accordingly.
 
 The use of alcohol with this drug should be avoided due to possible additive effects and hypotension.
 
-## Carcinogenesis, Mutagenesis, and Impairment of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 No mutagenic potential of haloperidol was found in the Ames Salmonella microsomal activation assay.
 Negative or inconsistent positive findings have been obtained in in vitro and in vivo studies of effects of haloperidol on chromosome structure and number.
