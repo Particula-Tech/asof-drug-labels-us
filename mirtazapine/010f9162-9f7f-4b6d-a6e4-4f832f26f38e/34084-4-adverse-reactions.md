@@ -124,4 +124,4 @@ All patients recovered.
 
 Cases of severe skin reactions, including Stevens-Johnson syndrome, bullous dermatitis, erythema multiforme and toxic epidermal necrolysis have also been reported.
 
-Increased creatine kinase blood levels have also been reported.
+Increased creatine kinase blood levels and rhabdomyolysis have also been reported.

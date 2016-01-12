@@ -7,9 +7,9 @@ For patent information: www.merck.com/product/patent/home.html
 
 Copyright © 1996, 2010 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 04/2015
+Revised: 12/2015
 
-uspi-mk8246-t-1504r008
+uspi-mk8246-t-1512r009
 
 Rx only
 
