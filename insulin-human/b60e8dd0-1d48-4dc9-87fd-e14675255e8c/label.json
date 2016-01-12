@@ -5,7 +5,8 @@
   "inn": "insulin-human",
   "labeler": "Eli Lilly and Company",
   "package_ndcs": [
-    "0002-8501-01"
+    "0002-8501-01",
+    "0002-8824-27"
   ],
   "products": [
     {

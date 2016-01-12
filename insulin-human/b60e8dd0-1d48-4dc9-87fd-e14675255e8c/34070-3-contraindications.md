@@ -1,3 +1,6 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Humulin R U-500 is contraindicated during episodes of hypoglycemia and in patients hypersensitive to Humulin R U-500 or any of its excipients.
+HUMULIN R U-500 is contraindicated:
+
+- During episodes of hypoglycemia
+- In patients who are hypersensitive to HUMULIN R U-500 or any of its excipients.

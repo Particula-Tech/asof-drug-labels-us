@@ -1,16 +1,24 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-Regulation of glucose metabolism is the primary activity of insulin.
-Insulin lowers blood glucose by stimulating peripheral glucose uptake by skeletal muscle and fat, and by inhibiting hepatic glucose production.
-Insulins inhibit lipolysis, proteolysis, and gluconeogenesis, and enhance protein synthesis and conversion of excess glucose into fat.
+## 12.1 Mechanism of Action
 
-Administered insulin, including Humulin R U-500, substitutes for inadequate endogenous insulin secretion and partially corrects the disordered metabolism and inappropriate hyperglycemia of diabetes mellitus, which are caused by either a deficiency or a reduction in the biologic effectiveness of insulin.
-When administered in appropriate doses at prescribed intervals to patients with diabetes mellitus, Humulin R U-500 restores their ability to metabolize carbohydrates, proteins and fats.
+Regulation of glucose metabolism is the primary activity of insulins, including HUMULIN R U-500.
+Insulins lower blood glucose by stimulating peripheral glucose uptake by skeletal muscle and fat, and by inhibiting hepatic glucose production.
+Insulins inhibit lipolysis and proteolysis, and enhance protein synthesis.
 
-As with all insulin preparations, the duration of action of Humulin R U-500 is dependent on dose, site of injection, blood supply, temperature, and physical activity.
+## 12.2 Pharmacodynamics
 
-Humulin R U-500 is unmodified by any agent that might prolong its action.
-Clinical experience has shown that it frequently has time action characteristics reflecting both prandial and basal activity.
-It takes effect within 30 minutes, has a peak similar to that observed with U-100 regular human insulin and has a relatively long duration of activity following a single dose (up to 24 hours) as compared with U-100 regular insulins.
-This effect has been credited to the high concentration of the preparation.
-The time course of action of any insulin may vary considerably in different individuals or at different times in the same individual.
+In a euglycemic clamp study of 24 healthy obese subjects (BMI=30-39 kg/m2), single doses of HUMULIN R U-500 at 50 units (0.4-0.6 unit/kg) and 100 units (0.8-1.3 unit/kg) resulted in a mean time of onset of action of less than 15 minutes at both doses and a mean duration of action of 21 hours (range 13-24 hours).
+The time action characteristics reflect both prandial and basal activity, consistent with clinical experience.
+This effect has been attributed to the high concentration of the preparation.
+
+Figure 1 should be considered a representative example since the time course of action of insulin may vary in different individuals or within the same individual.
+The rate of insulin absorption and consequently the onset of activity is known to be affected by the site of injection, exercise, and other variables [see Warnings and Precautions (5.3)].
+
+## 12.3 Pharmacokinetics
+
+Absorption — In a euglycemic clamp study of 24 healthy obese subjects, the median peak insulin level occurred between 4 hours (50 unit dose) and 8 hours (100 unit dose) with a range of 0.5-8 hours.
+
+Metabolism — The uptake and degradation of insulin occurs predominantly in liver, kidney, muscle, and adipocytes, with the liver being the major organ involved in the clearance of insulin.
+
+Elimination — Mean apparent half-life after subcutaneous administration of single doses of 50 units and 100 units to healthy obese subjects (N≥21) was approximately 4.5 hours (range=1.9-10 hours) for HUMULIN R U-500.

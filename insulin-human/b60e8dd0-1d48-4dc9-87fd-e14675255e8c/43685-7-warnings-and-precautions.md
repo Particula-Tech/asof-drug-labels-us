@@ -1,123 +1,82 @@
-# WARNINGS
+# 5 WARNINGS AND PRECAUTIONS
 
-Any change of insulin should be made cautiously and only under medical supervision.
-Changes in insulin strength, manufacturer, type (e.g., regular, NPH, analog, etc.), species, or method of administration may result in the need for a change in dosage.
+## 5.1 Hyperglycemia, Hypoglycemia or Death due to Dosing Errors with the Vial Presentation
 
-Humulin R U-500 contains 500 units of insulin in each milliliter (5-times more concentrated than Humulin R U-100).
-For Humulin R U-500, extreme caution must be observed in the measurement of dosage because inadvertent overdose may result in serious adverse reaction or life-threatening hypoglycemia.
-
-Fluid retention and heart failure with concomitant use of PPAR-gamma agonists: Thiazolidinediones (TZDs), which are peroxisome proliferator-activated receptor (PPAR)-gamma agonists, can cause dose-related fluid retention, particularly when used in combination with insulin.
-Fluid retention may lead to or exacerbate heart failure.
-Patients treated with insulin, including Humulin R U-500, and a PPAR-gamma agonist should be observed for signs and symptoms of heart failure.
-If heart failure develops, it should be managed according to current standards of care, and discontinuation or dose reduction of the PPAR-gamma agonist must be considered.
-
-# PRECAUTIONS
-
-## Dosing Confusion/Dosing Errors
-
-Medication errors associated with Humulin R U-500 have occurred and resulted in patients experiencing hyperglycemia, hypoglycemia or death.
+Medication errors associated with the HUMULIN R U-500 vial presentation have occurred and resulted in patients experiencing hyperglycemia, hypoglycemia or death.
 The majority of errors occurred due to errors in dispensing, prescribing or administration.
-Attention to the following details may prevent:
+Attention to details at all levels may prevent these errors.
 
-- Dispensing errors
+Dispensing Errors
 
-The Humulin R U-500 vial, which contains 20 mL, versus the Humulin R U-100 vial, which contains 10 mL – is marked with a band of diagonal brown stripes to distinguish it from the U-100 vial, which has no stripes.
-“U-500” is also highlighted in red on the label.
+Instruct patients to always inspect insulin vials to confirm that the correct insulin is dispensed including the correct insulin brand and concentration.
 
-- Prescribing errors (see DOSAGE AND ADMINISTRATION)
+The HUMULIN R U-500 vial, which contains 20 mL, has a band of diagonal brown stripes.
+“U-500” is also highlighted in red on the HUMULIN R U-500 vial label.
 
-The prescribed dose of Humulin R U-500 should always be expressed in actual units of Humulin R U-500 along with corresponding markings on the syringe the patient is using (i.e., a U-100 insulin syringe or tuberculin syringe [see DOSAGE AND ADMINISTRATION]).
+Prescribing Errors
 
-- Administration errors (see DOSAGE AND ADMINISTRATION)
+When using a U-100 insulin syringe or tuberculin syringe, express the prescribed dose of HUMULIN R U-500 in units of insulin along with the appropriate corresponding markings on the syringe the patient is using [see Dosage and Administration (2.4)].
 
-A majority of these errors occurred due to dosing confusion when the Humulin R U-500 dose was prescribed in units or volume corresponding to a U-100 syringe or tuberculin syringe markings, respectively, or the prescribed dose was administered without recognizing that the markings on the syringe used do not directly correspond to U-500 dose.
-Instructions for use should always be read and followed before use.
+Administration Errors
 
-Instruct the patient to inform hospital or emergency department staff of the dose of Humulin R U-500 prescribed, in the event of a future hospitalization or visit to the Emergency Department.
+Instruct patients to always check the insulin label before each injection.
 
-A conversion chart is provided and should always be used when administering Humulin R U-500 doses with U-100 insulin syringes or tuberculin syringes.
+A majority of the medication errors with HUMULIN R U-500 vial presentation occurred due to dosing confusion when the HUMULIN R U-500 dose was prescribed in units or volume corresponding to a U-100 syringe or tuberculin syringe markings, respectively, or the prescribed dose was administered without recognizing that the markings on the syringe used do not directly correspond to U-500 dose.
+Adhere to administration and conversion instructions [see Dosage and Administration (2.1, 2.4)].
 
-## Hypoglycemia
+Instruct the patient to inform hospital or emergency department staff of the dose of HUMULIN R U-500 prescribed, in the event of a future hospitalization or visit to the Emergency Department.
 
-Hypoglycemia is the most common adverse reaction of all insulin therapies, including Humulin R U-500.
-Severe hypoglycemia may lead to unconsciousness and/or convulsions and may result in temporary or permanent impairment of brain function or death.
-Severe hypoglycemia requiring the assistance of another person and/or parenteral glucose infusion or glucagon administration has been observed in clinical trials with insulin, including trials with Humulin R U-500.
+Conversion instructions are provided and should always be used when administering HUMULIN R U-500 doses with U-100 insulin syringes or 1 mL tuberculin syringes [see Dosage and Administration (2.4)].
 
-As with all insulin preparations, the time course of Humulin R U-500 action may vary in different individuals or at different times in the same individual and is dependent on dose, site of injection, blood supply, temperature, and physical activity.
+## 5.2 Never Share a HUMULIN R U-500 KwikPen or Syringe Between Patients
 
-Adjustment of dosage of any insulin may be necessary if patients change their physical activity or their usual meal plan.
-Insulin requirements may be altered during illness, emotional disturbances, or other stresses.
-Concomitant oral antidiabetic treatment may need to be adjusted.
+HUMULIN R U-500 KwikPens should never be shared between patients, even if the needle is changed.
+Patients using HUMULIN R U-500 vials should never share needles or syringes with another person.
+Sharing poses a risk for transmission of blood-borne pathogens.
 
-Any patient who requires Humulin R U-500 for control of diabetes should be under close observation until appropriate dosage is established.
-The response will vary among patients.
-Most patients will require 2 or 3 injections per day.
+## 5.3 Hyperglycemia or Hypoglycemia with Changes in Insulin Regimen
 
-Insulin resistance, in some patients is transitory; after several weeks or months during which high dosage is required, responsiveness to the pharmacologic effect of insulin may be regained and dosage can be reduced.
+Changes in insulin, manufacturer, type, or method of administration may affect glycemic control and predispose to hypoglycemia or hyperglycemia.
+These changes should be made cautiously and only under medical supervision and the frequency of blood glucose monitoring should be increased.
+For patients with type 2 diabetes, adjustments in concomitant oral anti-diabetic treatment may be needed.
 
-The timing of hypoglycemia usually reflects the time-action profile of the administered insulin formulations.
-Other factors such as changes in food intake (e.g., amount of food or timing of meals), injection site, exercise, and concomitant medications may also alter the risk of hypoglycemia (see PRECAUTIONS, Drug Interactions).
+## 5.4 Hypoglycemia
 
-As with all insulins, use caution in patients with hypoglycemia unawareness and in patients who may be predisposed to hypoglycemia (e.g., the pediatric population and patients who fast or have erratic food intake).
-The patient's ability to concentrate and react may be impaired as a result of hypoglycemia.
-This may prevent a risk in situations where these abilities are especially important, such as driving or operating other machinery.
+Hypoglycemia is the most common adverse reaction associated with insulin, including HUMULIN R U-500.
+Severe hypoglycemia can cause seizures, may be life-threatening or cause death.
+Severe hypoglycemia may develop as long as 18 to 24 hours after an injection of HUMULIN R U-500.
+Hypoglycemia can impair concentration ability and reaction time; this may place an individual and others at risk in situations where these abilities are important (e.g., driving, or operating other machinery).
+Hypoglycemia can happen suddenly and symptoms may differ in each individual and change over time in the same individual.
+Symptomatic awareness of hypoglycemia may be less pronounced in patients with longstanding diabetes, in patients with diabetic nerve disease, in patients using medications that block the sympathetic nervous system (e.g., beta-blockers) [see Drug Interactions (7.3, 7.4)], or in patients who experience recurrent hypoglycemia.
 
-Severe hypoglycemia may develop 18 to 24 hours after the original injection of Humulin R U-500.
+Risk Factors for Hypoglycemia
 
-## Hyperglycemia, Diabetic Ketoacidosis, and Hyperosmolar Non-Ketotic Syndrome
+The timing of hypoglycemia usually reflects the time-action profile of the administered insulin formulation.
+As with all insulin preparations, the glucose lowering effect time course of HUMULIN R U-500 may vary in different individuals or at different times in the same individual and depends on many conditions, including the area of injection as well as the injection site blood supply and temperature.
+Other factors which may increase the risk of hypoglycemia include changes in meal pattern (e.g., macronutrient content or timing of meals), changes in level of physical activity, or changes to co-administered medication [see Drug Interactions (7.1, 7.2, 7.3, 7.4)].
+Patients with renal or hepatic impairment may be at higher risk of hypoglycemia [see Use in Specific Populations (8.6, 8.7)].
 
-Hyperglycemia, diabetic ketoacidosis, or hyperosmolar coma may develop if the patient takes less Humulin R U-500 than needed to control blood glucose levels.
-This could be due to increases in insulin demand during illness or infection, neglect of diet, omission or improper administration of prescribed insulin doses or use of drugs that affect glucose metabolism or insulin sensitivity.
-Early signs of diabetic ketoacidosis include glycosuria and ketonuria.
-Polydipsia, polyuria, loss of appetite, fatigue, dry skin, abdominal pain, nausea and vomiting and compensatory tachypnea come on gradually, usually over a period of some hours or days, in conjunction with hyperglycemia and ketonemia.
-Severe sustained hyperglycemia may result in hyperosmolar coma or death.
+Risk Mitigation Strategies for Hypoglycemia
 
-## Hypokalemia
+Patients and caregivers must be educated to recognize and manage hypoglycemia.
+Self-monitoring of blood glucose plays an essential role in the prevention and management of hypoglycemia.
+In patients at higher risk for hypoglycemia and patients who have reduced symptomatic awareness of hypoglycemia, increased frequency of blood glucose monitoring is recommended.
+To minimize the risk of hypoglycemia do not administer HUMULIN R U-500 intravenously, intramuscularly or in an insulin pump or dilute or mix HUMULIN R U-500 with any other insulin products or solutions [see Dosage and Administration (2.1)].
 
-Insulin stimulates potassium movement into the cells, possibly leading to hypokalemia, that left untreated may cause respiratory paralysis, ventricular arrhythmia, and death.
+## 5.5 Hypersensitivity and Allergic Reactions
+
+Severe, life-threatening, generalized allergy, including anaphylaxis, can occur with insulin products, including HUMULIN R U-500 [See Adverse Reactions (6)].
+If hypersensitivity reactions occur, discontinue HUMULIN R U-500; treat per standard of care and monitor until symptoms and signs resolve [see Adverse Reactions (6)].
+
+## 5.6 Hypokalemia
+
+All insulin products, including HUMULIN R U-500, cause a shift in potassium from the extracellular to intracellular space, possibly leading to hypokalemia.
+Untreated hypokalemia may cause respiratory paralysis, ventricular arrhythmia, and death.
 Use caution in patients who may be at risk for hypokalemia (e.g., patients using potassium-lowering medications, patients taking medications sensitive to serum potassium concentrations).
 
-## Hypersensitivity and Allergic Reactions
+## 5.7 Fluid Retention and Heart Failure with Concomitant Use of PPAR-gamma Agonists
 
-Severe, life-threatening, generalized allergy, including anaphylaxis, can occur with insulin products, including Humulin R U-500 (see ADVERSE REACTIONS).
-
-Localized reactions and generalized myalgias have been reported with the use of metacresol as an injectable excipient.
-
-## Renal or Hepatic Impairment
-
-Frequent glucose monitoring and insulin dose reduction may be required in patients with renal or hepatic impairment.
-
-## Drug Interactions
-
-Some medications may alter insulin requirements and the risk for hypoglycemia and hyperglycemia (see ADVERSE REACTIONS, Drug Interactions).
-
-## Use in Pregnancy
-
-Pregnancy Category B — All pregnancies have background risk of birth defects, miscarriage, or other adverse outcome regardless of drug exposure.
-This background risk is increased in pregnancies complicated by hyperglycemia and is decreased with good glucose control.
-It is important for patients to maintain good control of diabetes before conception and during pregnancy.
-Special attention should be paid to diet, exercise and insulin regimens.
-Insulin requirements may decrease during the first trimester, usually increase during the second and third trimesters and rapidly decline after delivery.
-Careful glucose monitoring is essential in these patients.
-Female patients should be advised to tell their physician if they intend to become, or if they become pregnant.
-
-Studies show that endogenous insulin only crosses the placenta in minimal amounts.
-While there are no adequate and well-controlled studies in pregnant women, an extensive body of published literature demonstrates the maternal and fetal benefits of insulin treatment in patients with diabetes during pregnancy.
-Humulin R U-500 is a recombinant human insulin that is identical to the endogenous hormone; therefore, reproduction and fertility studies were not performed in animals.
-
-## Labor and Delivery
-
-Careful glucose monitoring and management of patients with diabetes during labor and delivery are required.
-
-## Nursing Mothers
-
-Endogenous insulin is present in human milk.
-Insulin orally ingested is degraded in the gastrointestinal tract.
-In lactating infants, no adverse reactions have been associated with maternal use of insulin.
-In a study of eight preterm infants between 26 to 30 weeks gestation, enteral administration of Humulin R did not result in hypoglycemia.
-Good glucose control supports lactation in patients with diabetes.
-Patients with diabetes who are lactating may require adjustments in insulin dose and/or diet.
-
-## Pediatric Use
-
-There are no well-controlled studies of use of Humulin R U-500 in children.
+Thiazolidinediones (TZDs), which are peroxisome proliferator-activated receptor (PPAR)-gamma agonists, can cause dose-related fluid retention, particularly when used in combination with insulin.
+Fluid retention may lead to or exacerbate heart failure.
+Patients treated with insulin, including HUMULIN R U-500, and a PPAR-gamma agonist should be observed for signs and symptoms of heart failure.
+If heart failure develops, it should be managed according to current standards of care, and discontinuation or dose reduction of the PPAR-gamma agonist must be considered.

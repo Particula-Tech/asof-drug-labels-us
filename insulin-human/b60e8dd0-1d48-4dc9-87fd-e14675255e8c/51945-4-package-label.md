@@ -20,10 +20,36 @@ insulin human injection, USP (rDNA origin)
 
 500 units per mL
 
-IMPORTANT:
-
-SEE INSTRUCTIONS FOR USE.
+IMPORTANT: SEE INSTRUCTIONS FOR USE.
 
 www.lilly.com
 
 Lilly
+
+# PACKAGE CARTON – HUMULIN R U-500 KwikPen 3 mL (500 Units per mL)
+
+NDC 0002-8824-27
+
+Humulin®R U-500 KwikPen®
+
+insulin human injection, USP
+
+For Single Patient Use Only
+
+prefilled insulin delivery device
+
+500 units per mL
+
+2 x 3 mL prefilled pens
+
+Rx only
+
+For subcutaneous use.
+
+Read Humulin®R U-500 KwikPen® Instructions for Use.
+
+NEEDLES NOT INCLUDED
+
+This device is recommended for use with Becton, Dickinson and Company's insulin pen needles.
+
+DO NOT TRANSFER TO A SYRINGE SEVERE OVERDOSE CAN RESULT
