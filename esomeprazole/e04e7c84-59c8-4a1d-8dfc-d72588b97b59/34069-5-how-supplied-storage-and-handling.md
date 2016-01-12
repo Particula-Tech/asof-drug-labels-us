@@ -8,6 +8,8 @@ They are available as follows:
 
 NDC 0378-2350-93 bottles of 30 capsules
 
+NDC 0378-2350-77 bottles of 90 capsules
+
 NDC 0378-2350-10 bottles of 1000 capsules
 
 The 40 mg capsule is a hard-shell gelatin capsule with a white opaque cap and white opaque body filled with white to off-white colored pellets.
@@ -15,6 +17,8 @@ The capsule is axially printed with M151 in black ink on the cap and body.
 They are available as follows:
 
 NDC 0378-2351-93 bottles of 30 capsules
+
+NDC 0378-2351-77 bottles of 90 capsules
 
 NDC 0378-2351-10 bottles of 1000 capsules
 

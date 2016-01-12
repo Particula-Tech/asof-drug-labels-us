@@ -15,7 +15,6 @@ Esomeprazole magnesium delayed-release capsules can cause serious side effects, 
   Esomeprazole magnesium delayed-release capsules may increase your risk of getting severe diarrhea.
   This diarrhea may be caused by an infection (Clostridium difficile) in your intestines.
 - Call your doctor right away if you have watery stool, stomach pain, and fever that does not go away.
-
 - •Bone fractures.
   People who take multiple daily doses of Proton Pump Inhibitor medicines for a long period of time (a year or longer) may have an increased risk of fractures of the hip, wrist, or spine.
   You should take esomeprazole magnesium delayed-release capsules exactly as prescribed, at the lowest dose possible for your treatment and for the shortest time needed.
@@ -34,7 +33,6 @@ Esomeprazole magnesium delayed-release capsules are used in adults:
   Esomeprazole magnesium delayed-release capsules may also be prescribed to heal acid-related damage to the lining of the esophagus (erosive esophagitis), and to help continue this healing.
 - GERD happens when acid in your stomach backs up into the tube (esophagus) that connects your mouth to your stomach.
   This may cause a burning feeling in your chest or throat, sour taste, or burping.
-
 - •for up to 6 months to reduce the risk of stomach ulcers in some people taking pain medicines called non-steroidal anti-inflammatory drugs (NSAIDs).
 - •for the long-term treatment of conditions where your stomach makes too much acid, including Zollinger-Ellison Syndrome.
   Zollinger-Ellison Syndrome is a rare condition in which the stomach produces a more than normal amount of acid.
@@ -218,6 +216,6 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured in India by: Mylan Laboratories Limited Hyderabad — 500 034, India Code No.: MH/DRUGS/25/NKD/89
 
-75054366
+75057181
 
-REVISED DECEMBER 2014 MX:ESOME:R2mh
+REVISED JULY 2015 MX:ESOME:R3mmh
