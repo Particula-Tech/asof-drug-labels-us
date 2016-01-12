@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-ABILIFY® (aripiprazole) Tablets are available as described in.
+ABILIFY® (aripiprazole) Tablets are available as described in Table 3.
 
 Table 3:ABILIFY Tablet Presentations
 

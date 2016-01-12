@@ -509,19 +509,19 @@ Hepatobiliary Disorders:
 
 Immune System Disorders:
 
-- rare- hypersensitivity
+- rare - hypersensitivity
 
 Injury, Poisoning, and Procedural Complications:
 
-- infrequent– fall; rare – heat stroke
+- infrequent – fall; rare – heat stroke
 
 Investigations:
 
-- frequent - weight decreased, infrequent - hepatic enzyme increased, blood glucose increased, blood lactate dehydrogenase increased, gamma glutamyl transferase increased; rare – blood prolactin increased, blood urea inceased, blood creatinine increased, blood bilirubin increased, electrocardiogram QT prolonged, glycosylated hemoglobin increased
+- frequent - weight decreased, infrequent - hepatic enzyme increased, blood glucose increased, blood lactate dehydrogenase increased, gamma glutamyl transferase increased; rare – blood prolactin increased, blood urea increased, blood creatinine increased, blood bilirubin increased, electrocardiogram QT prolonged, glycosylated hemoglobin increased
 
 Metabolism and Nutrition Disorders:
 
-- frequent –anorexia; infrequent - rare - hypokalemia, hyponatremia, hypoglycemia
+- frequent – anorexia; infrequent - rare - hypokalemia, hyponatremia, hypoglycemia
 
 Musculoskeletal and Connective Tissue Disorders:
 
@@ -596,4 +596,4 @@ General Disorders and Administration Site Conditions:
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of ABILIFY.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to establish a causal relationship to drug exposure: occurrences of allergic reaction (anaphylactic reaction, angioedema, laryngospasm, pruritus/urticaria, or oropharyngeal spasm), and blood glucose fluctuation.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to establish a causal relationship to drug exposure: occurrences of allergic reaction (anaphylactic reaction, angioedema, laryngospasm, pruritus/urticaria, or oropharyngeal spasm), pathological gambling, hiccups and blood glucose fluctuation.

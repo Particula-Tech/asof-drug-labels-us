@@ -2,16 +2,16 @@
 
 Efficacy of the oral formulations of ABILIFY (aripiprazole) was established in the following adequate and well-controlled trials:
 
-- •Four short-term trials and one maintenance trial in adult patients and one short-term trial in adolescents (ages 13-17) with schizophrenia (14.1)
-- •Four short-term monotherapy trials and one 6-week adjunctive trial in adult patients and one short-term monotherapy trial in pediatric patients (ages 10-17) with manic or mixed episodes (14.2)
-- •One maintenance monotherapy trial and in one maintenance adjunctive trial in adult patients with bipolar I disorder (14.2)
-- •Two short-term trials in adult patients with MDD who had an inadequate response to antidepressant therapy during the current episode (14.3)
-- •Two short-term trials in pediatric patients (ages 6-17 years) for the treatment of irritability associated with autistic disorder (14.4)
-- •Two short-term trials in pediatric patients (ages 6-18 years) with Tourette’s disorder (14.5)
+- •Four short-term trials and one maintenance trial in adult patients and one short-term trial in adolescents (ages 13-17) with schizophrenia [see CLINICAL STUDIES (14.1)]
+- •Four short-term monotherapy trials and one 6-week adjunctive trial in adult patients and one short-term monotherapy trial in pediatric patients (ages 10-17) with manic or mixed episodes [see CLINICAL STUDIES (14.2)]
+- •One maintenance monotherapy trial and in one maintenance adjunctive trial in adult patients with bipolar I disorder [see CLINICAL STUDIES (14.2)]
+- •Two short-term trials in adult patients with MDD who had an inadequate response to antidepressant therapy during the current episode [see CLINICAL STUDIES (14.3)]
+- •Two short-term trials in pediatric patients (ages 6-17 years) for the treatment of irritability associated with autistic disorder [see CLINICAL STUDIES (14.4)]
+- •Two short-term trials in pediatric patients (ages 6-18 years) with Tourette’s disorder [see CLINICAL STUDIES (14.5)]
 
 Efficacy of the injectable formulation of ABILIFY (aripiprazole) was established in the following adequate and well-controlled trials:
 
-- •Three 24-hour trials in agitated adult patients with schizophrenia or manic/mixed episodes of bipolar I disorder (14.6)
+- •Three 24-hour trials in agitated adult patients with schizophrenia or manic/mixed episodes of bipolar I disorder [see CLINICAL STUDIES (14.6)]
 
 ## 14.1 Schizophrenia
 
