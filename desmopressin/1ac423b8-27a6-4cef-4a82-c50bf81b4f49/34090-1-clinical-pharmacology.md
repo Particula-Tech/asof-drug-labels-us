@@ -1,7 +1,7 @@
 # CLINICAL PHARMACOLOGY
 
-Desmopressin nasal spray solution contains as active substance desmopressin acetate, a synthetic analogue of the natural hormone arginine vasopressin.
-One mL (0.1 mg) of intranasal desmopressin acetate has an antidiuretic activity of about 400 IU; 10 mcg of desmopressin acetate is equivalent to 40 IU.
+Desmopressin nasal spray contains as active substance desmopressin acetate, a synthetic analogue of the natural hormone arginine vasopressin.
+One mL (0.1 mg) of intranasal desmopressin acetate has an antidiuretic activity of about 400 International Units; 10 mcg of desmopressin acetate is equivalent to 40 IU.
 
 1. The biphasic half-lives for intranasal desmopressin acetate were 7.8 and 75.5 minutes for the fast and slow phases, compared with 2.5 and 14.5 minutes for lysine vasopressin, another form of the hormone used in this condition.
    As a result, intranasal desmopressin acetate provides a prompt onset of antidiuretic action with a long duration after each administration.

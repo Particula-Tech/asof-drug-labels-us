@@ -2,10 +2,10 @@
 
 ## Central Cranial Diabetes Insipidus
 
-Desmopressin Nasal Spray Solution USP, 0.01% is indicated as antidiuretic replacement therapy in the management of central cranial diabetes insipidus and for management of the temporary polyuria and polydipsia following head trauma or surgery in the pituitary region.
+Desmopressin nasal spray is indicated as antidiuretic replacement therapy in the management of central cranial diabetes insipidus and for management of the temporary polyuria and polydipsia following head trauma or surgery in the pituitary region.
 It is ineffective for the treatment of nephrogenic diabetes insipidus.
 
-The use of Desmopressin Nasal Spray Solution USP, 0.01% in patients with an established diagnosis will result in a reduction in urinary output with increase in urine osmolality and a decrease in plasma osmolality.
+The use of desmopressin nasal spray in patients with an established diagnosis will result in a reduction in urinary output with increase in urine osmolality and a decrease in plasma osmolality.
 This will allow the resumption of a more normal life-style with a decrease in urinary frequency and nocturia.
 
 There are reports of an occasional change in response with time, usually greater than 6 months.

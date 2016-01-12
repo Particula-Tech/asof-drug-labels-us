@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Desmopressin Nasal Spray Solution USP, 0.01% is a synthetic analogue of the natural pituitary hormone 8-arginine vasopressin (ADH), an antidiuretic hormone affecting renal water conservation.
+Desmopressin nasal spray, USP 0.01% is a synthetic analogue of the natural pituitary hormone 8-arginine vasopressin (ADH), an antidiuretic hormone affecting renal water conservation.
 The structural formula for the active ingredient is:
 
 Mol. wt.
@@ -8,9 +8,9 @@ Mol. wt.
 
 Empirical formula: C46H64N14O12S2 • C2H4O2 • 3H2O
 
-Chemical name: 1-(3-mercaptopropionic acid)-8-D-arginine vasopressin monoacetate (salt).
+Chemical name: 1-(3-mercaptopropionic acid)-8-D-arginine vasopressin monoacetate (salt) trihydrate.
 
-Desmopressin Nasal Spray Solution USP, 0.01% is provided as an aqueous solution for intranasal use.
+Desmopressin nasal spray, USP 0.01% is provided as an aqueous solution for intranasal use.
 
 | Each mL contains: |  |
 | --- | --- |
@@ -22,4 +22,4 @@ Desmopressin Nasal Spray Solution USP, 0.01% is provided as an aqueous solution 
 | Sodium phosphate dibasic heptahydrate | 4.52 mg |
 | Purified water to 1 mL |  |
 
-The Desmopressin Nasal Spray Solution USP, 0.01% compression pump delivers 0.1 mL (10 mcg) of desmopressin acetate per spray.
+The desmopressin nasal spray, USP 0.01% compression pump delivers 0.1 mL (10 mcg) of desmopressin acetate per spray.

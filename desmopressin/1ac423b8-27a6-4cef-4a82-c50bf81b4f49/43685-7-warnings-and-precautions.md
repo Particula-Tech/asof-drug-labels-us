@@ -1,15 +1,15 @@
 # WARNINGS
 
 1. For intranasal use only.
-2. Desmopressin nasal spray solution should only be used in patients where orally administered formulations are not feasible.
+2. Desmopressin nasal spray should only be used in patients where orally administered formulations are not feasible.
 3. Very rare cases of hyponatremia have been reported from world-wide postmarketing experience in patients treated with desmopressin acetate.
    Desmopressin acetate is a potent antidiuretic which, when administered, may lead to water intoxication and/or hyponatremia.
    Unless properly diagnosed and treated hyponatremia can be fatal.
    Therefore, fluid restriction is recommended and should be discussed with the patient and/or guardian.
    Careful medical supervision is required.
-4. When desmopressin nasal spray solution is administered, in particular in pediatric and geriatric patients, fluid intake should be adjusted downward in order to decrease the potential occurrence of water intoxication and hyponatremia.
+4. When desmopressin nasal spray is administered, in particular in pediatric and geriatric patients, fluid intake should be adjusted downward in order to decrease the potential occurrence of water intoxication and hyponatremia.
    (See PRECAUTIONS, Pediatric Use and Geriatric Use.)
-   All patients receiving desmopressin acetate therapy should be observed for the following signs or symptoms associated with hyponatremia: headache, nausea/vomiting, decreased serum sodium weight gain, restlessness, fatigue, lethargy, disorientation, depressed reflexes, loss of appetite, irritability, muscle weakness, muscle spasms or cramps and abnormal mental status such as hallucinations, decreased consciousness and confusion.
+   All patients receiving desmopressin acetate therapy should be observed for the following signs or symptoms associated with hyponatremia: headache, nausea/vomiting, decreased serum sodium, weight gain, restlessness, fatigue, lethargy, disorientation, depressed reflexes, loss of appetite, irritability, muscle weakness, muscle spasms or cramps and abnormal mental status such as hallucinations, decreased consciousness and confusion.
    Severe symptoms may include one or a combination of the following: seizure, coma and/or respiratory arrest.
    Particular attention should be paid to the possibility of the rare occurrence of an extreme decrease in plasma osmolality that may result in seizures which could lead to coma.
 5. Desmopressin acetate should be used with caution in patients with habitual or psychogenic polydipsia who may be more likely to drink excessive amounts of water, putting them at greater risk of hyponatremia.
@@ -34,7 +34,7 @@ For such situations, desmopressin acetate injection should be considered.
 ## Information for Patients
 
 Ensure that in children administration is under adult supervision in order to control the dose intake.
-Patients should be informed that the desmopressin nasal spray solution bottle accurately delivers 50 doses of 10 mcg each.
+Patients should be informed that the desmopressin nasal spray bottle accurately delivers 50 doses of 10 mcg each.
 Any solution remaining after 50 doses should be discarded since the amount delivered thereafter may be substantially less than 10 mcg of drug.
 No attempt should be made to transfer remaining solution to another bottle.
 Patients should be instructed to read accompanying directions on use of the spray pump carefully before use.
@@ -80,7 +80,7 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 
 ### Central Cranial Diabetes Insipidus
 
-Desmopressin nasal spray solution has been used in children with diabetes insipidus.
+Desmopressin nasal spray has been used in children with diabetes insipidus.
 Use in infants and children will require careful fluid intake restriction to prevent possible hyponatremia and water intoxication.
 (See WARNINGS.)
 The dose must be individually adjusted to the patient with attention in the very young to the danger of an extreme decrease in plasma osmolality with resulting convulsions.
@@ -91,16 +91,16 @@ Do not use the nasal spray in pediatric patients requiring less than 0.1 mL (10 
 
 ## Geriatric Use
 
-Clinical studies of desmopressin nasal spray solution did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical studies of desmopressin nasal spray did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger subjects.
-In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or drug therapy.
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or drug therapy.
 
 This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
 Desmopressin acetate is contraindicated in patients with moderate to severe renal impairment (defined as a creatinine clearance below 50 mL/min).
 (See CLINICAL PHARMACOLOGY, Human Pharmacokinetics and CONTRAINDICATIONS.)
 
-Use of desmopressin nasal spray solution in geriatric patients will require careful fluid intake restriction to prevent possible hyponatremia and water intoxication.
+Use of desmopressin nasal spray in geriatric patients will require careful fluid intake restriction to prevent possible hyponatremia and water intoxication.
 (See WARNINGS.)
 
 There are reports of an occasional change in response with time, usually greater than 6 months.

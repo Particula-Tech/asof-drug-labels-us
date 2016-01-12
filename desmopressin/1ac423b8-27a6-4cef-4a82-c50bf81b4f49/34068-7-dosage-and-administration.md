@@ -2,7 +2,7 @@
 
 ## Central Cranial Diabetes Insipidus
 
-Desmopressin nasal spray solution dosage must be determined for each individual patient and adjusted according to the diurnal pattern of response.
+Desmopressin nasal spray dosage must be determined for each individual patient and adjusted according to the diurnal pattern of response.
 Response should be estimated by two parameters: adequate duration of sleep and adequate, not excessive, water turnover.
 Patients with nasal congestion and blockage have often responded well to intranasal desmopressin acetate.
 The usual dosage range in adults is 0.1 to 0.4 mL daily, either as a single dose or divided into two or three doses.
@@ -17,9 +17,9 @@ The nasal spray pump can only deliver doses of 0.1 mL (10 mcg) or multiples of 0
 If doses other than these are required, the rhinal tube delivery system may be used.
 
 The spray pump must be primed prior to the first use.
-To prime pump, press down four (4) times.
+To prime pump, press down four times.
 The bottle will now deliver 10 mcg of drug per spray.
-Discard desmopressin nasal spray solution after 50 sprays since the amount delivered thereafter per spray may be substantially less than 10 mcg of drug.
+Discard desmopressin nasal spray after 50 sprays since the amount delivered thereafter per spray may be substantially less than 10 mcg of drug.
 
 ## Geriatric Use
 
