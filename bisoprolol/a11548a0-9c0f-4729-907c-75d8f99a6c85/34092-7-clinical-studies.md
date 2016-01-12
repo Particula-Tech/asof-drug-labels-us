@@ -1,10 +1,10 @@
-# CLINICAL STUDIES
+# Clinical Studies
 
 In two randomized double-blind placebo-controlled trials conducted in the U.S., reductions in systolic and diastolic blood pressure and heart rate 24 hours after dosing in patients with mild-to-moderate hypertension are shown below.
 In both studies, mean systolic/diastolic blood pressures at baseline were approximately 150/100 mm Hg, and mean heart rate was 76 bpm.
 Drug effect is calculated by subtracting the placebo effect from the overall change in blood pressure and heart rate.
 
-Sitting Systolic/Diastolic Pressure (BP) and Heart Rate (HR) Mean Decrease (Δ) After 3 to 4 Weeks
+Sitting Systolic/Diastolic Pressure (BP) and Heart Rate (HR) Mean Decrease (D) After 3 to 4 Weeks
 
 | Study A |  | Bisoprolol Fumarate |  |  |
 | --- | --- | --- | --- | --- |

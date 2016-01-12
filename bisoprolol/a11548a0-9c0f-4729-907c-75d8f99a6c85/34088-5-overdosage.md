@@ -1,4 +1,4 @@
-# OVERDOSAGE
+# Overdosage
 
 The most common signs expected with overdosage of a beta-blocker are bradycardia, hypotension, congestive heart failure, bronchospasm, and hypoglycemia.
 To date, a few cases of overdose (maximum: 2000 mg) with bisoprolol fumarate have been reported.

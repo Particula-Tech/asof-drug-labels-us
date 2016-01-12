@@ -1,5 +1,13 @@
-November 2010 799-33-100004 Rx only
+Rx only
 
-DURAMED PHARMACEUTICALS, INC. Subsidiary of Barr Pharmaceuticals, Inc. Pomona, New York 10970
+Rev.
+10/2015
 
-Revised November 2010 BR-60, 61
+Distributed by:
+
+TEVA PHARMACEUTICALS USA, INC.
+
+North Wales, PA 19454
+
+Rev.
+10/2015

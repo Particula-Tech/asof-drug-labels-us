@@ -1,4 +1,4 @@
-# DOSAGE AND ADMINISTRATION
+# Dosage and Administration
 
 The dose of ZEBETA must be individualized to the needs of the patient.
 The usual starting dose is 5 mg once daily.

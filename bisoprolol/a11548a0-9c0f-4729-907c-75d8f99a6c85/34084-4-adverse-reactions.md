@@ -1,4 +1,4 @@
-# ADVERSE REACTIONS
+# Adverse Reactions
 
 Safety data are available in more than 30,000 patients or volunteers.
 Frequency estimates and rates of withdrawal of therapy for adverse events were derived from two U.S. placebo-controlled studies.

@@ -3,14 +3,14 @@
     "NDA019982"
   ],
   "inn": "bisoprolol",
-  "labeler": "Duramed Pharmaceuticals, Inc.",
+  "labeler": "Teva Women's Health, Inc.",
   "package_ndcs": [
     "51285-060-01",
     "51285-061-01"
   ],
   "products": [
     {
-      "form": "TABLET",
+      "form": "TABLET, FILM COATED",
       "generic": "bisoprolol fumarate",
       "name": "Zebeta"
     }

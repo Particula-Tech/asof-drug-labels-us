@@ -1,35 +1,43 @@
-# PRINCIPAL DISPLAY PANEL - 5 mg
+# Package/Label Display Panel
+
+## Zebeta® (bisoprolol fumarate) Tablets 5 mg, 30s Label Text
 
 NDC 51285-060-01
 
-ZEBETA® (bisoprolol fumarate) Tablets
+ZEBETA®
+
+(bisoprolol fumarate)
+
+Tablets
 
 5 mg
 
-30 Tablets Unit-of-use
+30 Tablets
+
+Unit-of-use
+
+TEVA
 
 Rx only
 
-DOSAGE: For complete directions for use, see accompanying circular.
+# Package/Label Display Panel
 
-Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
-
-Protect from moisture.
-
-# PRINCIPAL DISPLAY PANEL - 10 mg
+## Zebeta® (bisoprolol fumarate) Tablets 10 mg, 30s Label Text
 
 NDC 51285-061-01
 
-ZEBETA® (bisoprolol fumarate) Tablets
+ZEBETA®
 
-10mg
+(bisoprolol fumarate)
 
-30 Tablets Unit-of-use
+Tablets
+
+10 mg
+
+30 Tablets
+
+Unit-of-use
+
+TEVA
 
 Rx only
-
-DOSAGE: For complete directions for use, see accompanying circular.
-
-Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
-
-Protect from moisture.

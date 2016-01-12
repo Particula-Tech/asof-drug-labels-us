@@ -1,4 +1,4 @@
-# WARNINGS
+# Warnings
 
 ## Cardiac Failure
 
@@ -48,7 +48,7 @@ However, patients subject to spontaneous hypoglycemia, or diabetic patients rece
 Beta-adrenergic blockade may mask clinical signs of hyperthyroidism, such as tachycardia.
 Abrupt withdrawal of beta-blockade may be followed by an exacerbation of the symptoms of hyperthyroidism or may precipitate thyroid storm.
 
-# PRECAUTIONS
+# Precautions
 
 ## Impaired Renal or Hepatic Function
 
@@ -67,7 +67,7 @@ Concomitant use can increase the risk of bradycardia.
 
 Concurrent use of rifampin increases the metabolic clearance of ZEBETA, resulting in a shortened elimination half-life of ZEBETA.
 However, initial dose modification is generally not necessary.
-Pharmacokinetic studies document no clinically relevant interactions with other agents given concomitantly, including thiazide diuretics, and cimetidine.
+Pharmacokinetic studies document no clinically relevant interactions with other agents given concomitantly, including thiazide diuretics and cimetidine.
 There was no effect of ZEBETA on prothrombin time in patients on stable doses of warfarin.
 
 Risk of Anaphylactic Reaction: While taking beta-blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic.

@@ -1,4 +1,4 @@
-# HOW SUPPLIED
+# How Supplied
 
 ZEBETA® (bisoprolol fumarate) is supplied as 5 mg and 10 mg tablets.
 
@@ -13,5 +13,7 @@ The 10 mg tablet is white, heart-shaped, biconvex, film-coated, with an engraved
 | --- | --- | --- |
 
 Store at 20o to 25o C (68o to 77oF) [See USP Controlled Room Temperature].
+
 Protect from moisture.
+
 Dispense in tight containers.

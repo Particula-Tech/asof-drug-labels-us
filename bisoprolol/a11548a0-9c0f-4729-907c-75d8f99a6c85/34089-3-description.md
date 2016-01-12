@@ -1,4 +1,4 @@
-# DESCRIPTION
+# Description
 
 ZEBETA (bisoprolol fumarate) is a synthetic, beta1-selective (cardioselective) adrenoceptor blocking agent.
 The chemical name for bisoprolol fumarate is (±)-1-[4-[[2-(1-Methylethoxy)ethoxy]methyl]phenoxy]-3-[(1-methylethyl)amino]-2-propanol(E)-2-butenedioate (2:1) (salt).

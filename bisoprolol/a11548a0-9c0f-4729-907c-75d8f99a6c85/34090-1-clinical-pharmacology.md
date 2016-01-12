@@ -1,7 +1,7 @@
-# CLINICAL PHARMACOLOGY
+# Clinical Pharmacology
 
 ZEBETA is a beta1-selective (cardioselective) adrenoceptor blocking agent without significant membrane stabilizing activity or intrinsic sympathomimetic activity in its therapeutic dosage range.
-Cardioselectivity is not absolute, however, and at higher doses (> 20mg) bisoprolol fumarate also inhibits beta2-adrenoceptors, chiefly located in the bronchial and vascular musculature; to retain selectivity it is therefore important to use the lowest effective dose.
+Cardioselectivity is not absolute, however, and at higher doses (≥ 20 mg) bisoprolol fumarate also inhibits beta2-adrenoceptors, chiefly located in the bronchial and vascular musculature; to retain selectivity it is therefore important to use the lowest effective dose.
 
 ## Pharmacokinetics and Metabolism
 
@@ -37,9 +37,9 @@ Findings in short-term clinical hemodynamics studies with ZEBETA are similar to 
 The mechanism of action of its antihypertensive effects has not been completely established.
 Factors which may be involved include:
 
-1. Decreased cardiac output,
-2. Inhibition of renin release by the kidneys,
-3. Diminution of tonic sympathetic outflow from the vasomotor centers in the brain.
+1. 1.Decreased cardiac output,
+2. 2.Inhibition of renin release by the kidneys,
+3. 3.Diminution of tonic sympathetic outflow from the vasomotor centers in the brain.
 
 In normal volunteers, ZEBETA therapy resulted in a reduction of exercise- and isoproterenol-induced tachycardia.
 The maximal effect occurred within 1-4 hours post-dosing.
