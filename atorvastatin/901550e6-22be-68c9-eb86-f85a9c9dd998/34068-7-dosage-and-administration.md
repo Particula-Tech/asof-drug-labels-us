@@ -25,7 +25,7 @@ Atorvastatin calcium tablets should be used as an adjunct to other lipid-lowerin
 Atorvastatin calcium tablets may be used with bile acid resins.
 The combination of HMG-CoA reductase inhibitors (statins) and fibrates should generally be used with caution [see Warnings and Precautions, Skeletal Muscle (5.1), Drug Interactions (7)].
 
-## 2.5 Dosage in Patients with Renal Impairment
+## 2.5 Dosage in Patients With Renal Impairment
 
 Renal disease does not affect the plasma concentrations nor LDL-C reduction of atorvastatin calcium tablets; thus, dosage adjustment in patients with renal dysfunction is not necessary [see Warnings and Precautions, Skeletal Muscle (5.1), Clinical Pharmacology, Pharmacokinetics (12.3)].
 
@@ -34,4 +34,4 @@ Renal disease does not affect the plasma concentrations nor LDL-C reduction of a
 In patients taking cyclosporine or the HIV protease inhibitors (tipranavir plus ritonavir) or the hepatitis C protease inhibitor (telaprevir), therapy with atorvastatin calcium tablets should be avoided.
 In patients with HIV taking lopinavir plus ritonavir, caution should be used when prescribing atorvastatin calcium tablets and the lowest dose necessary employed.
 In patients taking clarithromycin, itraconazole, or in patients with HIV taking a combination of saquinavir plus ritonavir, darunavir plus ritonavir, fosamprenavir, or fosamprenavir plus ritonavir, therapy with atorvastatin calcium tablets should be limited to 20 mg, and appropriate clinical assessment is recommended to ensure that the lowest dose necessary of atorvastatin calcium is employed.
-In patients taking the HIV protease inhibitor nelfinavir or the hepatitis C protease inhibitor boceprevir, therapy with atorvastatin calcium tablets should be limited to 40 mg, and appropriate clinical assessment is recommended to ensure that the lowest dose necessary of atorvastatin calcium tablets is employed [see Warnings and Precautions, Skeletal Muscle (5.1), Drug Interactions (7)].
+In patients taking the HIV protease inhibitor nelfinavir, or the hepatitis C protease inhibitor boceprevir, therapy with atorvastatin calcium tablets should be limited to 40 mg, and appropriate clinical assessment is recommended to ensure that the lowest dose necessary of atorvastatin calcium tablets is employed [see Warnings and Precautions, Skeletal Muscle (5.1), Drug Interactions (7)].
