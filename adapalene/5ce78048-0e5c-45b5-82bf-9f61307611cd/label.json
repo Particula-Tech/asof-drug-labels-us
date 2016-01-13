@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA204593"
+  ],
+  "inn": "adapalene",
+  "labeler": "CALL INC. (dba Rochester Pharmaceuticals)",
+  "package_ndcs": [
+    "49908-118-60"
+  ],
+  "products": [
+    {
+      "form": "SWAB",
+      "generic": "adapalene",
+      "name": "Adapalene"
+    }
+  ],
+  "setid": "5ce78048-0e5c-45b5-82bf-9f61307611cd",
+  "source": "dailymed"
+}
