@@ -2,7 +2,7 @@
 
 Cigarette smoking increases the risk of serious cardiovascular events from combination oral contraceptive use.
 This risk increases with age, particularly in women over 35 years of age, and with the number of cigarettes smoked.
-For this reason, combination oral contraceptives, including Nortrel® 0.5/35 and 1/35, should not be used by women who are over 35 years of age and smoke.
+For this reason, combination oral contraceptives, including Nortrel 0.5/35 and 1/35, should not be used by women who are over 35 years of age and smoke.
 
 The use of oral contraceptives is associated with increased risks of several serious conditions including myocardial infarction, thromboembolism, stroke, hepatic neoplasia, and gallbladder disease, although the risk of serious morbidity or mortality is very small in healthy women without underlying risk factors.
 The risk of morbidity and mortality increases significantly in the presence of other underlying risk factors such as hypertension, hyperlipidemias, obesity and diabetes.
@@ -38,7 +38,7 @@ Oral contraceptives must be used with caution in women with cardiovascular disea
 ### b. Thromboembolism
 
 An increased risk of thromboembolic and thrombotic disease associated with the use of oral contraceptives is well established.
-Case control studies have found the relative risk of users compared to nonusers to be 3 for the first episode of superficial venous thrombosis, 4 to 11 for deep vein thrombosis or pulmonary embolism, and 1.5 to 6 for women with predisposing conditions for venous thromboembolic disease.2,3,19-24 Cohort studies have shown the relative risk to be somewhat lower, about 3 for new cases and about 4.5 for new cases requiring hospitalization.25 The risk of thromboembolic disease associated with oral contraceptives is not related to length of use and disappears after pill use is stopped.2
+Case control studies have found the relative risk of users compared to nonusers to be 3 for the first episode of superficial venous thrombosis, 4 to 11 for deep vein thrombosis or pulmonary embolism, and 1.5 to 6 for women with predisposing conditions for venous thromboembolic disease.2,3,19-24 Cohort studies have shown the relative risk to be somewhat lower, about 3 for new cases and about 4.5 for new cases requiring hospitalization.25 The risk of thromboembolic disease associated with oral contraceptives gradually disappears after combined oral contraceptive (COC) use is stopped.2 VTE risk is highest in the first year of use and when restarting hormonal contraception after a break of four weeks or longer.
 
 A two- to four-fold increase in relative risk of post-operative thromboembolic complications has been reported with the use of oral contraceptives.9 The relative risk of venous thrombosis in women who have predisposing conditions is twice that of women without such medical conditions.26 If feasible, oral contraceptives should be discontinued at least four weeks prior to and for two weeks after elective surgery of a type associated with an increase in risk of thromboembolism and during and following prolonged immobilization.
 Since the immediate postpartum period is also associated with an increased risk of thromboembolism, oral contraceptives should be started no earlier than four weeks after delivery in women who elect not to breast feed.
@@ -53,7 +53,7 @@ In a large study, the relative risk of thrombotic strokes has been shown to rang
 ### d. Dose-Related Risk of Vascular Disease from Oral Contraceptives
 
 A positive association has been observed between the amount of estrogen and progestogen in oral contraceptives and the risk of vascular disease.31-33 A decline in serum high density lipoproteins (HDL) has been reported with many progestational agents.14-16 A decline in serum high density lipoproteins has been associated with an increased incidence of ischemic heart disease.
-Because estrogens increase HDL cholesterol, the net effect of an oral contraceptive depends on a balance achieved between doses of estrogen and progestogen and the activity of the progestogen used in the contraceptive.
+Because estrogens increase HDL cholesterol, the net effect of an oral contraceptive depends on a balance achieved between doses of estrogen and progestogen and the activity of the progestogen used in the contraceptives.
 The activity and amount of both hormones should be considered in the choice of an oral contraceptive.
 
 Minimizing exposure to estrogen and progestogen is in keeping with good principles of therapeutics.
@@ -80,12 +80,12 @@ Of course, older women, as all women who take oral contraceptives, should take a
 
 TABLE 2: ANNUAL NUMBER OF BIRTH-RELATED OR METHOD-RELATED DEATHS ASSOCIATED WITH CONTROL OF FERTILITY PER 100,000 NONSTERILE WOMEN, BY FERTILITY CONTROL METHOD ACCORDING TO AGE
 
-| Method of control and outcome | 15 to 19 | 20 to 24 | 25 to 29 | 30 to 34 | 35 to 39 | 40 to 44 |
+| Method of control and outcome | 15-19 | 20-24 | 25-29 | 30-34 | 35-39 | 40-44 |
 | --- | --- | --- | --- | --- | --- | --- |
-| No fertility control methodsDeaths are birth-related | 7 | 7.4 | 9.1 | 14.8 | 25.7 | 28.2 |
+| No fertility control methodsDeaths are birth-related | 7.0 | 7.4 | 9.1 | 14.8 | 25.7 | 28.2 |
 | Oral contraceptives non-smokerDeaths are method-related | 0.3 | 0.5 | 0.9 | 1.9 | 13.8 | 31.6 |
 | Oral contraceptives smoker | 2.2 | 3.4 | 6.6 | 13.5 | 51.1 | 117.2 |
-| IUD | 0.8 | 0.8 | 1 | 1 | 1.4 | 1.4 |
+| IUD | 0.8 | 0.8 | 1.0 | 1.0 | 1.4 | 1.4 |
 | Condom | 1.1 | 1.6 | 0.7 | 0.2 | 0.3 | 0.4 |
 | Diaphragm/spermicide | 1.9 | 1.2 | 1.2 | 1.3 | 2.2 | 2.8 |
 | Periodic abstinence | 2.5 | 1.6 | 1.6 | 1.7 | 2.9 | 3.6 |
@@ -113,7 +113,7 @@ In spite of many studies of the relationship between oral contraceptive use and 
 Benign hepatic adenomas are associated with oral contraceptive use, although the incidence of benign tumors is rare in the United States.
 Indirect calculations have estimated the attributable risk to be in the range of 3.3 cases/100,000 for users, a risk that increases after four or more years of use especially with oral contraceptives of higher dose.49 Rupture of benign, hepatic adenomas may cause death through intra-abdominal hemorrhage.50, 51
 
-Studies from Britain have shown an increased risk of developing hepatocellular carcinoma in long-term (> 8 years) oral contraceptive users.
+Studies from Britain have shown an increased risk of developing hepatocellular carcinoma in long-term (>8 years) oral contraceptive users.
 However, these cancers are extremely rare in the U.S. and the attributable risk (the excess incidence) of liver cancers in oral contraceptive users approaches less than one per million users.
 
 ## 5. Ocular Lesions
@@ -142,7 +142,7 @@ Earlier studies have reported an increased lifetime relative risk of gallbladder
 Oral contraceptives have been shown to cause a decrease in glucose tolerance in a significant percentage of users.17 This effect has been shown to be directly related to estrogen dose.65 Progestogens increase insulin secretion and create insulin resistance, this effect varying with different progestational agents.17,66 However, in the non-diabetic woman, oral contraceptives appear to have no effect on fasting blood glucose.67 Because of these demonstrated effects, prediabetic and diabetic women in particular should be carefully monitored while taking oral contraceptives.
 
 A small proportion of women will have persistent hypertriglyceridemia while on the pill.
-As discussed earlier (see WARNINGS1a and 1d), changes in serum triglycerides and lipoprotein levels have been reported in oral contraceptive users.
+As discussed earlier (see WARNINGS 1a and 1d), changes in serum triglycerides and lipoprotein levels have been reported in oral contraceptive users.
 
 ## 9. Elevated Blood Pressure
 
@@ -224,13 +224,13 @@ Counsel women to use an alternative method of contraception or a back-up method 
 
 Substances increasing the plasma concentrations of COCs:
 
-Coadministration of atorvastatin or rosuvastatin and certain COCs containing EE increase AUC values for EE by approximately 20 to 25%.
+Co-administration of atorvastatin or rosuvastatin and certain COCs containing EE increase AUC values for EE by approximately 20-25%.
 Ascorbic acid and acetaminophen may increase plasma EE concentrations, possibly by inhibition of conjugation.
 CYP3A4 inhibitors such as itraconazole, voriconazole, fluconazole, grapefruit juice, or ketoconazole may increase plasma hormone concentrations.
 
 Human immunodeficiency virus (HIV)/ Hepatitis C virus (HCV) protease inhibitors and non-nucleoside reverse transcriptase inhibitors:
 
-Significant changes (increase or decrease) in the plasma concentrations of estrogen and/or progestin have been noted in some cases of coadministration with HIV protease inhibitors (decrease [e.g., nelfinavir, ritonavir, darunavir/ritonavir, (fos)amprenavir/ritonavir, lopinavir/ritonavir, and tipranavir/ritonavir] or increase [e.g., indinavir and atazanavir/ritonavir]) /HCV protease inhibitors (decrease [e.g., boceprevir and telaprevir]) or with non-nucleoside reverse transcriptase inhibitors (decrease [e.g., nevirapine] or increase [e.g., etravirine]).
+Significant changes (increase or decrease) in the plasma concentrations of estrogen and/or progestin have been noted in some cases of co-administration with HIV protease inhibitors (decrease [e.g., nelfinavir, ritonavir, darunavir/ritonavir, (fos)amprenavir/ritonavir, lopinavir/ritonavir, and tipranavir/ritonavir] or increase [e.g., indinavir and atazanavir/ritonavir]) /HCV protease inhibitors (decrease [e.g., boceprevir and telaprevir]) or with non-nucleoside reverse transcriptase inhibitors (decrease [e.g., nevirapine] or increase [e.g., etravirine]).
 
 Colesevelam: Colesevelam, a bile acid sequestrant, given together with a combination oral hormonal contraceptive, has been shown to significantly decrease the AUC of EE.
 A drug interaction between the contraceptive and colesevelam was decreased when the two drug products were given 4 hours apart.
@@ -248,18 +248,15 @@ Women on thyroid hormone replacement therapy may need increased doses of thyroid
 
 Certain endocrine and liver function tests and blood components may be affected by oral contraceptives:
 
-- 
-  - 
-    - 
-      1. a. Increased prothrombin and factors VII, VIII, IX, and X; decreased antithrombin 3; increased norepinephrine-induced platelet aggregability.
-      2. b.Increased thyroid binding globulin (TBG) leading to increased circulating total thyroid hormone, as measured by protein-bound iodine (PBI), T4 by column or by radioimmunoassay.
-         Free T3 resin uptake is decreased, reflecting the elevated TBG, free T4 concentration is unaltered.
-      3. c.Other binding proteins may be elevated in serum.
-      4. d.Sex-binding globulins are increased and result in elevated levels of total circulating sex steroids and corticoids; however, free or biologically active levels remain unchanged.
-      5. e.Triglycerides may be increased and levels of various other lipids and lipoproteins may be affected.
-      6. f.Glucose tolerance may be decreased.
-      7. g.Serum folate levels may be depressed by oral contraceptive therapy.
-         This may be of clinical significance if a woman becomes pregnant shortly after discontinuing oral contraceptives.
+1. a.Increased prothrombin and factors VII, VIII, IX, and X; decreased antithrombin 3; increased norepinephrine-induced platelet aggregability.
+2. b.Increased thyroid binding globulin (TBG) leading to increased circulating total thyroid hormone, as measured by protein-bound iodine (PBI), T4 by column or by radioimmunoassay.
+   Free T3 resin uptake is decreased, reflecting the elevated TBG, free T4 concentration is unaltered.
+3. c.Other binding proteins may be elevated in serum.
+4. d.Sex-binding globulins are increased and result in elevated levels of total circulating sex steroids and corticoids; however, free or biologically active levels remain unchanged.
+5. e.Triglycerides may be increased and levels of various other lipids and lipoproteins may be affected.
+6. f.Glucose tolerance may be decreased.
+7. g.Serum folate levels may be depressed by oral contraceptive therapy.
+   This may be of clinical significance if a woman becomes pregnant shortly after discontinuing oral contraceptives.
 
 ## 10. Carcinogenesis
 
@@ -271,7 +268,7 @@ See WARNINGS.
 
 Pregnancy Category X.
 
-See CONTRAINDICATIONSand WARNINGS
+See CONTRAINDICATIONS and WARNINGS.
 
 ## 12. Nursing Mothers
 

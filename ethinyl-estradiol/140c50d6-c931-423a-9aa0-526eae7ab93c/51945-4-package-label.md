@@ -18,12 +18,8 @@ Rx only
 
 Usual Dosage: One tablet daily as recommended in enclosed detailed product information.
 
-To the Dispenser: This carton contains one combination labeling piece of
-
-information intended for the patient.
-Informational pieces are to be provided
-
-to the patient with each prescription.
+To the Dispenser: This carton contains one combination labeling piece of information intended for the patient.
+Informational pieces are to be provided to the patient with each prescription.
 
 TEVA
 

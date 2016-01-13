@@ -4,7 +4,8 @@
    In Hatcher RA, Trussell J, Stewart F, Cates W, Stewart GK, Kowal D, Guest F, Contraceptive Technology: Seventeenth Revised Edition.
    New York NY: Irvington Publishers, 1998.
 2. 2.Stadel BV.
-   Oral contraceptives and cardiovascular disease.(Pt.
+   Oral contraceptives and cardiovascular disease.
+   (Pt.
    1).
    N Engl J Med 1981; 305:612-618.
 3. 3.Stadel BV.
@@ -84,7 +85,7 @@
     Progestogens and cardiovascular reactions associated with oral contraceptives and a comparison of the safety of 50- and 35-mcg estrogen preparations.
     Br Med J 1980; 280(6224):1157-1161.
 33. 33.Kay CR.
-    Progestogens and arterial disease - evidence from the Royal College of General Practitioners' Study.
+    Progestogens and arterial disease-evidence from the Royal College of General Practitioners' Study.
     Am J Obstet Gynecol 1982; 142:762-765.
 34. 34.Royal College of General Practitioners: Incidence of arterial disease among oral contraceptive users.
     J Royal Coll Gen Pract 1983; 33:75-82.
@@ -208,7 +209,7 @@
     A Joint National Case-control study in Sweden and Norway.
     Lancet 1986; 11:650-654.
 83. 83.Kay CR, Hannaford PC.
-    Breast cancer and the pill - A further report from the Royal College of General Practitioners' oral contraception study.
+    Breast cancer and the pill-A further report from the Royal College of General Practitioners' oral contraception study.
     Br J Cancer 1988; 58:675-680.
 84. 84.Stadel BV, Lai S, Schlesselman JJ, Murray P. Oral contraceptives and premenopausal breast cancer in nulliparous women.
     Contraception 1988; 38:287-299.
@@ -240,3 +241,8 @@
     Hypertension 2003;42;1206–1252.
 97. 97.Brown KS, Armstrong IC, Wang A, Walker JR, Noveck RJ, Swearingen D, Allison M, Kissling JC, Kisicki J, Salazar D. Effect of the bile acid sequestrant colesevelam on the pharmacokinetics of pioglitazone, repaglinide, estrogen estradiol, norethindrone, levothyroxine, and glyburide.
     J Clin Pharmacol 2010;50:554–565.
+
+TEVA PHARMACEUTICALS USA, INC. North Wales, PA 19454
+
+1. Rev.
+   D 11/2015

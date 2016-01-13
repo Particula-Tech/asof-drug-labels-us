@@ -1,40 +1,32 @@
-9009
-
-9010
-
-9008
-
-# Rx only
-
-0.5 /35
-
-1 /35
-
-1 /35
-
 Patients should be counseled that this product does not protect against HIV infection (AIDS) and other sexually transmitted diseases.
 
 # COMBINED ORAL CONTRACEPTIVES
 
 Each of the following products is a combination oral contraceptive containing the progestational compound norethindrone and the estrogenic compound ethinyl estradiol:
 
-## Nortrel® 1/35 tablets:
+Nortrel® 1/35 Tablets:
 
-Each yellow tablet contains 1 mg of norethindrone and 0.035 mg of ethinyl estradiol, and the inactive ingredients include D&C yellow no. 10 aluminum lake, lactose monohydrate, magnesium stearate and pregelatinized starch.
-Each white tablet in the 1/35 package contains only inert ingredients as follows: lactose monohydrate, magnesium stearate, and pregelatinized starch.
+Each yellow tablet contains 1 mg of norethindrone, USP and 0.035 mg of ethinyl estradiol, USP, and the inactive ingredients include D&C yellow no. 10 aluminum lake, lactose monohydrate, magnesium stearate and pregelatinized corn starch.
+Each white tablet in the 1/35 package contains only inert ingredients as follows: lactose monohydrate, magnesium stearate, and pregelatinized corn starch.
 
-## Nortrel® 0.5/35 tablets:
+Nortrel® 0.5/35 Tablets:
 
-Each light yellow tablet contains 0.5 mg of norethindrone and 0.035 mg of ethinyl estradiol, and the inactive ingredients include D&C yellow no. 10 aluminum lake, lactose monohydrate, magnesium stearate and pregelatinized corn starch.
+Each light yellow tablet contains 0.5 mg of norethindrone, USP and 0.035 mg of ethinyl estradiol, USP, and the inactive ingredients include D&C yellow no. 10 aluminum lake, lactose monohydrate, magnesium stearate and pregelatinized corn starch.
 Each white tablet in the 0.5/35 package contains only inert ingredients as follows: lactose monohydrate, magnesium stearate, and pregelatinized corn starch.
 
-The chemical name for norethindrone is 17-Hydroxy-19-nor-17α-pregn-4-en-20-yn-3-one, for ethinyl estradiol is 19-Nor-17α -pregna-1,3,5(10)-trien-20-yne-3, 17-diol.
+The chemical name for norethindrone, USP is 17-Hydroxy-19-nor-17α-pregn-4-en-20-yn-3-one, for ethinyl estradiol, USP is 19-Nor-17α-pregna-1,3,5(10)-trien-20-yne-3,17-diol.
 
 The structural formulas are as follows:
 
-Norethindrone
+Norethindrone, USP
 
-Ethinyl Estradiol
+C20H26O2 M.W.
+298.42
+
+Ethinyl Estradiol, USP
+
+C20H24O2 M.W.
+296.40
 
 # NON-CONTRACEPTIVE HEALTH BENEFITS
 
