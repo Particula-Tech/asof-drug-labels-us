@@ -4,7 +4,7 @@
 
 Adult Hypertension
 
-The antihypertensive effects of valsartan were demonstrated principally in 7 placebo-controlled, 4- to 12-week trials (one in patients over 65) of dosages from 10 to 320 mg/day in patients with baseline diastolic blood pressures of 95 to 115.
+The antihypertensive effects of valsartan were demonstrated principally in 7 placebo-controlled, 4- to 12-week trials (1 in patients over 65 years) of dosages from 10 to 320 mg/day in patients with baseline diastolic blood pressures of 95 to 115 mmHg.
 The studies allowed comparison of once-daily and twice-daily regimens of 160 mg/day; comparison of peak and trough effects; comparison (in pooled data) of response by gender, age, and race; and evaluation of incremental effects of hydrochlorothiazide.
 
 Administration of valsartan to patients with essential hypertension results in a significant reduction of sitting, supine, and standing systolic and diastolic blood pressure, usually with little or no orthostatic change.
@@ -21,7 +21,7 @@ The explanation for this difference from previous findings is unclear.
 
 Abrupt withdrawal of valsartan has not been associated with a rapid increase in blood pressure.
 
-The blood pressure lowering effect of valsartan and thiazide-type diuretics are approximately additive.
+The blood pressure-lowering effect of valsartan and thiazide-type diuretics are approximately additive.
 
 The 7 studies of valsartan monotherapy included over 2,000 patients randomized to various doses of valsartan and about 800 patients randomized to placebo.
 Doses below 80 mg were not consistently distinguished from those of placebo at trough, but doses of 80, 160 and 320 mg produced dose-related decreases in systolic and diastolic blood pressure, with the difference from placebo of approximately 6 to 9/3 to 5 mmHg at 80 to 160 mg and 9/6 mmHg at 320 mg.
@@ -58,9 +58,9 @@ Other background therapy included diuretics (86%), digoxin (67%), and beta-block
 The population studied was 80% male, 46% 65 years or older and 89% Caucasian.
 At the end of the trial, patients in the valsartan group had a blood pressure that was 4 mmHg systolic and 2 mmHg diastolic lower than the placebo group.
 There were two primary end points, both assessed as time to first event: all-cause mortality and heart failure morbidity, the latter defined as all-cause mortality, sudden death with resuscitation, hospitalization for heart failure, and the need for intravenous inotropic or vasodilatory drugs for at least 4 hours.
-These results are summarized in the table below.
+These results are summarized in the following table.
 
-|  | Placebo (N = 2,499) | Valsartan (N = 2,511) | Hazard Ratio(95% CI*) | Nominal p-value |
+|  | Placebo (N = 2,499) | Valsartan (N = 2,511) | Hazard Ratio (95% CI*) | Nominal p-value |
 | --- | --- | --- | --- | --- |
 | All-cause mortality | 484 (19.4%) | 495 (19.7%) | 1.02 (0.90 to 1.15) | 0.8 |
 | HF morbidity | 801 (32.1%) | 723 (28.8%) | 0.87 (0.79 to 0.97) | 0.009 |
@@ -80,7 +80,7 @@ Thus, there is little evidence of further clinical benefit when valsartan is add
 
 Secondary end points in the subgroup not receiving ACE inhibitors were as follows.
 
-|  | Placebo (N = 181) | Valsartan (N = 185) | Hazard Ratio(95% CI) |
+|  | Placebo (N = 181) | Valsartan (N = 185) | Hazard Ratio (95% CI) |
 | --- | --- | --- | --- |
 | Components of HF morbidity |  |  |  |
 | All-cause mortality | 49 (27.1%) | 32 (17.3%) | 0.59 (0.37, 0.91) |

@@ -12,6 +12,8 @@ PHARMACIST: Dispense with the Patient Information Leaflet.
 
 Rx only 30 Tablets
 
+# Package/Label Display Panel
+
 ohm®
 
 NDC 51660-141-90
@@ -24,6 +26,8 @@ PHARMACIST: Dispense with the Patient Information Leaflet.
 
 Rx only 90 Tablets
 
+# Package/Label Display Panel
+
 ohm®
 
 NDC 51660-142-90
@@ -35,6 +39,8 @@ VALSARTAN TABLETS, USP
 PHARMACIST: Dispense with the Patient Information Leaflet.
 
 Rx only 90 Tablets
+
+# Package/Label Display Panel
 
 ohm®
 

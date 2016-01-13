@@ -55,9 +55,9 @@ See the end of this leaflet for a complete list of ingredients in valsartan tabl
 • are pregnant or planning to become pregnant.
 See “What is the most important information I should know about valsartan tablets, USP?”
 
-• are breast-feeding.
+• are breastfeeding.
 It is not known if valsartan passes into your breast milk.
-You and your doctor should decide if you will take valsartan tablets, USP or breast-feed, but not both.
+You and your doctor should decide if you will take valsartan tablets, USP or breastfeed, but not both.
 Talk with your doctor about the best way to feed your baby if you take valsartan tablets, USP.
 
 • have ever had a reaction called angioedema, to another blood pressure medicine.
@@ -76,9 +76,9 @@ Your doctor may check the amount of potassium in your blood periodically
 • a salt substitute.
 Your doctor may check the amount of potassium in your blood periodically
 
-• Nonsteroidal anti-inflammatory drugs (like ibuprofen or naproxen)
+• nonsteroidal anti-inflammatory drugs (like ibuprofen or naproxen)
 
-• certain antibiotics (rifamycin group), a drug used to protect against transplant rejection (cyclosporin) or an antiretroviral drug used to treat HIV/AIDS infection (ritonavir).
+• certain antibiotics (rifamycin group), a drug used to protect against transplant rejection (cyclosporine) or an antiretroviral drug used to treat HIV/AIDS infection (ritonavir).
 These drugs may increase the effect of valsartan.
 
 • Lithium, a medicine used in some types of depression
@@ -166,7 +166,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How do I store valsartan tablets, USP?
 
-• Store valsartan tablets, USP at room temperature between 68º - 77º F (20º - 25º C).
+• Store valsartan tablets, USP at room temperature between 68º to 77º F (20º to 25º C).
 
 • Keep valsartan tablets, USP in a closed container in a dry place.
 
@@ -199,4 +199,4 @@ Ohm Laboratories Inc.
 
 North Brunswick, NJ 08902 USA
 
-March 2014 FDA-02
+August 2015 FDA-04

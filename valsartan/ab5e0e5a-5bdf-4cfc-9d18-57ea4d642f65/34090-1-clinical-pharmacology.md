@@ -4,10 +4,10 @@
 
 Angiotensin II is formed from angiotensin I in a reaction catalyzed by angiotensin-converting enzyme (ACE, kininase II).
 Angiotensin II is the principal pressor agent of the renin-angiotensin system, with effects that include vasoconstriction, stimulation of synthesis and release of aldosterone, cardiac stimulation, and renal reabsorption of sodium.
-Valsartan blocks the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT 1 receptor in many tissues, such as vascular smooth muscle and the adrenal gland.
+Valsartan blocks the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT1 receptor in many tissues, such as vascular smooth muscle and the adrenal gland.
 Its action is therefore independent of the pathways for angiotensin II synthesis.
 
-There is also an AT 2 receptor found in many tissues, but AT2 is not known to be associated with cardiovascular homeostasis.
+There is also an AT2 receptor found in many tissues, but AT2 is not known to be associated with cardiovascular homeostasis.
 Valsartan has much greater affinity (about 20,000-fold) for the AT1 receptor than for the AT2 receptor.
 The increased plasma levels of angiotensin II following AT1 receptor blockade with valsartan may stimulate the unblocked AT2 receptor.
 The primary metabolite of valsartan is essentially inactive with an affinity for the AT1 receptor about one-200th that of valsartan itself.
@@ -76,6 +76,6 @@ No studies have been performed in patients with severe impairment of renal funct
 Valsartan is not removed from the plasma by hemodialysis.
 In the case of severe renal disease, exercise care with dosing of valsartan [see Dosage and Administration (2.1)].
 
-Hepatic Insufficiency: On average, patients with mild-to-moderate chronic liver disease have twice the exposure (measured by AUC values) to valsartan of healthy volunteers (matched by age, sex and weight).
+Hepatic Insufficiency: On average, patients with mild-to-moderate chronic liver disease have twice the exposure (measured by AUC values) to valsartan of healthy volunteers (matched by age, sex, and weight).
 In general, no dosage adjustment is needed in patients with mild-to-moderate liver disease.
 Care should be exercised in patients with liver disease [see Dosage and Administration (2.1)].

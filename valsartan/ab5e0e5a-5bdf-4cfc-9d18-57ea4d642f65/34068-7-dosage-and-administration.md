@@ -17,7 +17,7 @@ Valsartan tablets may be administered with other antihypertensive agents.
 
 Valsartan tablets may be administered with or without food.
 
-## 2.2 Pediatric Hypertension 6 to 16 years of age
+## 2.2 Pediatric Hypertension 6 to 16 Years of Age
 
 For children who can swallow tablets, the usual recommended starting dose is 1.3 mg/kg once daily (up to 40 mg total).
 The dosage should be adjusted according to blood pressure response.
@@ -28,11 +28,9 @@ Follow the suspension preparation instructions below (see Preparation of Suspens
 When the suspension is replaced by a tablet, the dose of valsartan may have to be increased.
 The exposure to valsartan with the suspension is 1.6 times greater than with the tablet.
 
-No data are available in pediatric patients either undergoing dialysis or with a glomerular filtration rate < 30 mL/min/1.73 m 2.
-[See Pediatric Use (8.4)]
+No data are available in pediatric patients either undergoing dialysis or with a glomerular filtration rate < 30 mL/min/1.73 m2[see Pediatric Use (8.4)].
 
-Valsartan tablets are not recommended for patients < 6 years old.
-[See Adverse Reactions (6.1), Clinical Studies (14.1)]
+Valsartan tablets are not recommended for patients < 6 years old [see Adverse Reactions (6.1), Clinical Studies (14.1)].
 
 Preparation of Suspension (for 160 mL of a 4 mg/mL suspension)
 
@@ -43,7 +41,7 @@ Add 80 mL of Ora-Sweet SF®* oral sweetening vehicle to the bottle and shake the
 The suspension is homogenous and can be stored for either up to 30 days at room temperature (below 30°C/86°F) or up to 75 days at refrigerated conditions (2-8°C/35-46°F) in the glass bottle with a child-resistant screw-cap closure.
 Shake the bottle well (at least 10 seconds) prior to dispensing the suspension.
 
-*Ora-Sweet SF ® and Ora-Plus® are registered trademarks of Paddock Laboratories, Inc.
+*Ora-Sweet SF® and Ora-Plus® are registered trademarks of Paddock Laboratories, Inc.
 
 ## 2.3 Heart Failure
 
