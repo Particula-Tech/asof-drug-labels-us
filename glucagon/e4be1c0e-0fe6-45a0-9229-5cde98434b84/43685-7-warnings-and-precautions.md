@@ -4,7 +4,7 @@
 
 Glucagon for Injection is contraindicated in patients with pheochromocytoma because glucagon may stimulate the release of catecholamines from the tumor, which may result in a sudden and marked increase in blood pressure.
 
-## 5.2 Hypoglycemia in Patients with Insulinoma and Glucagonoma
+## 5.2 Hypoglycemia in Patients with Insulinoma or Glucagonoma
 
 Glucagon for Injection is contraindicated in patients with insulinoma or glucagonoma as it may cause secondary hypoglycemia.
 Test patients suspected of having glucagonoma for blood levels of glucagon prior to treatment, and monitor for changes in blood glucose levels during treatment.

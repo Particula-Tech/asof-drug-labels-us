@@ -8,13 +8,19 @@ Glucagon for Injection is supplied as a sterile, lyophilized white powder in a v
 | --- | --- | --- |
 | 509613 | 63323-596-13 | Glucagon for Injection, 1 mg per vial, in packages of 10. |
 
+Glucagon for Injection is also available as a Diagnostic Kit, it is supplied as follows:
+
+| Product # | NDC # |  |
+| --- | --- | --- |
+| 509603 | 63323-593-03 | One carton containing one 1 mg of Glucagon for Injection, and one 1 mL of Sterile Water for Injection, USP (NDC 63323-185-03) for reconstitution. |
+
 The container closure is not made with natural rubber latex.
 
 ## 16.2 Recommended Storage
 
 Before Reconstitution
 
-The package containing Glucagon for Injection vials may be stored up to 24 months at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature] prior to reconstitution.
+The package containing Glucagon for Injection vials may be stored up to 24 months at 20° to 25° C (68° to 77° F) [see USP Controlled Room Temperature] prior to reconstitution.
 Do not freeze.
 Keep in the original package to protect from light.
 
