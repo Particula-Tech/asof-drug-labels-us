@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA018565"
+  ],
+  "inn": "morphine",
+  "labeler": "Baxter Healthcare Corporation",
+  "package_ndcs": [
+    "60977-114-01",
+    "60977-115-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "morphine sulfate",
+      "name": "Infumorph 200/Infumorph 500"
+    }
+  ],
+  "setid": "e5954090-039b-45a2-9493-722c1fd18c45",
+  "source": "dailymed"
+}
