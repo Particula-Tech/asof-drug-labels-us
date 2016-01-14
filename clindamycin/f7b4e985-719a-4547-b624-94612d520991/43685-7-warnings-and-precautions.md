@@ -4,14 +4,14 @@ Orally and parenterally administered clindamycin has been associated with severe
 Use of the topical formulation of clindamycin results in absorption of the antibiotic from the skin surface.
 Diarrhea, bloody diarrhea, and colitis (including pseudomembranous colitis) have been reported with the use of topical and systemic clindamycin.
 
-Studies indicate a tocin(s) produced by clostridia is one primary cause of antibiotic-associated colitis.
+Studies indicate a toxin(s) produced by Clostridia is one primary cause of antibiotic-associated colitis.
 The colitis is usually characterized by severe persistent diarrhea and severe abdominal cramps and may be associated with the passage of blood and mucus.
 Endoscopic examination may reveal pseudomembranous colitis.
-Stool culture for clostridium difficile and stool assay for C. difficile toxin may be helpful diagnostically.
+Stool culture for Clostridium difficile and stool assay for C. difficile toxin may be helpful diagnostically.
 
-When significant diarrhea occurs, the drug should be discountinued.
-Large bowel endoscopy should be consideres to establicha definitive diagnosis in cases of severe diarrhea.
-Antipreistaltic agents, such as opiates and diphenooxylate with atropine, may prolong and/or worsen the condition.
+When significant diarrhea occurs, the drug should be discontinued.
+Large bowel endoscopy should be considered to establish a definitive diagnosis in cases of severe diarrhea.
+Antiperistaltic agents, such as opiates and diphenoxylate with atropine, may prolong and/or worsen the condition.
 
 Diarrhea, colitis, and pseudomembranous colitis have been observed to begin up to several weeks following cessation of oral and parenteral therapy with clindamycin.
 
@@ -19,7 +19,7 @@ Diarrhea, colitis, and pseudomembranous colitis have been observed to begin up t
 
 General: Clindagel® should be prescribed with caution in atopic individuals.
 
-Drug Interaction: Clindamycin has been shown to have neuromuscular blocking properties that may enhance the action of other neuromuscular blocking agents.
+Drug Interactions: Clindamycin has been shown to have neuromuscular blocking properties that may enhance the action of other neuromuscular blocking agents.
 Therefore, it should be used with caution in patients receiving such agents.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
@@ -53,7 +53,7 @@ Because of the potential for serious adverse reactions in nursing infants, a dec
 
 ## Pediatric Use
 
-Safety and effectiveness in children under the age of 12 have not been established
+Safety and effectiveness in children under the age of 12 have not been established.
 
 ## Geriatric Use
 

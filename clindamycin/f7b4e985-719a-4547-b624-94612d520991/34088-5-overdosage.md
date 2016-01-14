@@ -1,3 +1,3 @@
-# OVERDOSAGE
+# OVERDOSE
 
-Topically applied Clindagel® may be absorbed in sufficient amounts toproduce systemic effects (see WARNINGS).
+Topically applied Clindagel® may be absorbed in sufficient amounts to produce systemic effects (see WARNINGS).
