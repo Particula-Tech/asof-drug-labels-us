@@ -56,9 +56,9 @@ Doses should not be increased during the first 4 weeks of therapy and not more f
 
 Consider dose increases in patients who meet all of the following conditions:
 
-- a. Failure to achieve a reduction from pretreatment baseline in either palpable spleen length of 50% or a 35% reduction in spleen volume as measured by computed tomography (CT) or magnetic resonance imaging (MRI);
-- b. Platelet count greater than 125 X 109/L at 4 weeks and platelet count never below 100 X 109/L;
-- c. ANC Levels greater than 0.75 X 109/L.
+1. Failure to achieve a reduction from pretreatment baseline in either palpable spleen length of 50% or a 35% reduction in spleen volume as measured by computed tomography (CT) or magnetic resonance imaging (MRI);
+2. Platelet count greater than 125 X 109/L at 4 weeks and platelet count never below 100 X 109/L;
+3. ANC Levels greater than 0.75 X 109/L.
 
 Based on limited clinical data, long-term maintenance at a 5 mg twice daily dose has not shown responses and continued use at this dose should be limited to patients in whom the benefits outweigh the potential risks.
 Discontinue Jakafi if there is no spleen size reduction or symptom improvement after 6 months of therapy.
@@ -93,10 +93,10 @@ Do not increase doses during the first 4 weeks of therapy, and do not increase t
 
 If the response is insufficient as defined in Section 2.1.2, doses may be increased by increments of 5 mg daily to a maximum of 10 mg twice daily if:
 
-- a)the platelet count has remained at least 40 X 109/L, and
-- b)the platelet count has not fallen by more than 20% in the prior 4 weeks, and
-- c)the ANC is more than 1 X 109/L, and
-- d)the dose has not been reduced or interrupted for an adverse event or hematological toxicity in the prior 4 weeks.
+1. the platelet count has remained at least 40 X 109/L, and
+2. the platelet count has not fallen by more than 20% in the prior 4 weeks, and
+3. the ANC is more than 1 X 109/L, and
+4. the dose has not been reduced or interrupted for an adverse event or hematological toxicity in the prior 4 weeks.
 
 Continuation of treatment for more than 6 months should be limited to patients in whom the benefits outweigh the potential risks.
 Discontinue Jakafi if there is no spleen size reduction or symptom improvement after 6 months of therapy.
