@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA020746"
+  ],
+  "inn": "budesonide",
+  "labeler": "Johnson & Johnson Consumer Inc., McNeil Consumer Healthcare Division",
+  "package_ndcs": [
+    "50580-646-01",
+    "50580-646-02",
+    "50580-646-03"
+  ],
+  "products": [
+    {
+      "form": "SPRAY, METERED",
+      "generic": "budesonide",
+      "name": "RHINOCORT Allergy"
+    }
+  ],
+  "setid": "1ae1c5e8-16c6-4799-9a62-96d974c30f1f",
+  "source": "dailymed"
+}
