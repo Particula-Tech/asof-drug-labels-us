@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA090624"
+  ],
+  "inn": "sulfamethoxazole",
+  "labeler": "Cronus Pharma LLC",
+  "package_ndcs": [
+    "69043-010-01",
+    "69043-010-05",
+    "69043-011-01",
+    "69043-011-05"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "sulfamethoxazole and trimethoprim",
+      "name": "Sulfamethoxazole and Trimethoprim"
+    }
+  ],
+  "setid": "1b5de94f-973a-4b5a-91d7-45e05be78650",
+  "source": "dailymed"
+}
