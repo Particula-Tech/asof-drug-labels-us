@@ -4,26 +4,15 @@ Ciprofloxacin and related drugs have been shown to cause arthropathy in immature
 
 However, a one-month topical ocular study using immature Beagle dogs did not demonstrate any articular lesions.
 
+To report SUSPECTED ADVERSE REACTIONS, contact Sandoz Inc., at 1-800-525-8747 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+
 Rx Only
 
-Revised: July 2007
+Rev.
+May 2012
 
-**DROP-TAINER is a registered trademark of Alcon Manufacturing, Ltd.
+**DROP-TAINER is a registered trademark of Alcon Research, Ltd.
 
-9002761-0707
+9007230-1011
 
-Dist.
-By:
-
-FALCON Pharmaceuticals, Ltd.
-
-For t Worth, Texas 76134 USA
-
-Mfd.
-By:
-
-ALCON LABORATORIES, INC.
-
-For t Worth, Texas 76134 USA
-
-Printed in USA
+SANDOZ Manufactured by Alcon Laboratories, Inc. Fort Worth, Texas 76134 for Sandoz Inc. Princeton, NJ 08540 Printed in USA

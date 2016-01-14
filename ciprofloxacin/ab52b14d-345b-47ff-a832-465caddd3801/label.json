@@ -3,7 +3,7 @@
     "NDA019992"
   ],
   "inn": "ciprofloxacin",
-  "labeler": "Falcon Pharmaceuticals, Ltd.",
+  "labeler": "Sandoz Inc.",
   "package_ndcs": [
     "61314-656-05",
     "61314-656-10",
@@ -11,7 +11,7 @@
   ],
   "products": [
     {
-      "form": "SOLUTION",
+      "form": "SOLUTION/ DROPS",
       "generic": "ciprofloxacin hydrochloride",
       "name": "Ciprofloxacin Hydrochloride"
     }
