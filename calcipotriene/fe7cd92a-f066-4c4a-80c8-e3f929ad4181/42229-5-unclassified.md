@@ -4,5 +4,4 @@ Manufactured for: Prasco Laboratories, Mason, OH 45040 USA
 
 U.S. Patent No. 4,866,048
 
-Iss.
-06/13
+Revised March 2015
