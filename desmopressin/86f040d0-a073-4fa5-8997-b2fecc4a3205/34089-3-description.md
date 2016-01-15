@@ -15,6 +15,6 @@ DDAVP Rhinal Tube is provided as an aqueous solution for intranasal use.
 | Each mL contains: |  |  |
 | --- | --- | --- |
 |  | Desmopressin acetate | 0.1 mg |
-|  | Chlorobutanol | 5.0 mg |
-|  | Sodium Chloride | 9.0 mg |
+|  | Chlorobutanol | 5 mg |
+|  | Sodium Chloride | 9 mg |
 |  | Hydrochloric acid to adjust pH to approximately 4 |  |

@@ -2,7 +2,7 @@
 
 1. For intranasal use only.
 2. DDAVP Rhinal Tube should only be used in patients where orally administered formulations are not feasible.
-3. Very rare cases of hyponatremia have been reported from world-wide postmarketing experience in patients treated with DDAVP (Desmopressin acetate).
+3. Very rare cases of hyponatremia have been reported from world-wide postmarketing experience in patients treated with DDAVP (desmopressin acetate).
    DDAVP is a potent antidiuretic which, when administered, may lead to water intoxication and/or hyponatremia.
    Unless properly diagnosed and treated hyponatremia can be fatal.
    Therefore, fluid restriction is recommended and should be discussed with the patient and/or guardian.

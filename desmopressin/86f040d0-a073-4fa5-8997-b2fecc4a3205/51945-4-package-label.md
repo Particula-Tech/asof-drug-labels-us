@@ -8,8 +8,8 @@ DDAVP® Rhinal Tube desmopressin acetate
 
 FOR INTRANASAL USE ONLY
 
-Rx ONLY
-
 2.5 mL Bottle
+
+Rx ONLY
 
 FERRING PHARMACEUTICALS

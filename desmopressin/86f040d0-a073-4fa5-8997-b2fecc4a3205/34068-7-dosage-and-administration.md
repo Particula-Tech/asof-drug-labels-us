@@ -2,7 +2,7 @@
 
 ## Central Cranial Diabetes Insipidus
 
-This drug is administered into the nose through a soft, flexible plastic rhinal tube which has four graduation marks on it that measure 0.2, 0.15, 0.1 and 0.05 mL.
+This drug is administered into the nose through a soft, flexible plastic rhinal tube which has four graduation marks on it that measure 0.2, 0.15, 0.1, 0.05 and 0.025 mL.
 DDAVP Rhinal Tube dosage must be determined for each individual patient and adjusted according to the diurnal pattern of response.
 Response should be estimated by two parameters: adequate duration of sleep and adequate, not excessive, water turnover.
 Patients with nasal congestion and blockage have often responded well to intranasal DDAVP.

@@ -14,7 +14,7 @@ Possible signs of overdose may include confusion, drowsiness, continuing headach
 - 3.Twist off the small knurled seal from the dropper.
   Use the same seal reversed to prevent subsequent leakage, especially if the bottle is not stored upright.
 
-- 4.The drug is administered by a soft, flexible, plastic rhinal tube which has dose marks at 0.2, 0.15, 0.1 and 0.05 mL.
+- 4.The drug is administered by a soft, flexible, plastic rhinal tube which has dose marks at 0.2, 0.15, 0.1, 0.05 and 0.025 mL.
   Take the arrow-marked part of the tube in one hand and place the fingers of the other hand around the cylindrical part of the closure.
   Insert the top of the dropper in a downward position into the arrow-marked end of the tube and squeeze the dropper until the solution has reached the desired calibration mark.
   The dose is measured from the arrow-marked end of the tube to the appropriate calibration.
@@ -39,11 +39,9 @@ Possible signs of overdose may include confusion, drowsiness, continuing headach
 Store refrigerated 2 to 8°C (36 to 46°F).
 When traveling, closed bottles will maintain stability for 3 weeks when stored at controlled room temperature, 20 to 25°C (68 to 77°F).
 
-Manufactured for: Ferring Pharmaceuticals Inc. Parsippany, NJ 07054
-
-Origin Sweden
+Manufactured for: Ferring Pharmaceuticals Inc. Parsippany, NJ 07054 USA Origin Sweden
 
 Rev.
-12/2014
+04/2015
 
-2009053646
+XXXXXXXXXX
