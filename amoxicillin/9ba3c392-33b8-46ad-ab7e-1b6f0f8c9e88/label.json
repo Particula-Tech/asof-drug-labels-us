@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA050813"
+  ],
+  "inn": "amoxicillin",
+  "labeler": "Vernalis Therapeutics, Inc.",
+  "package_ndcs": [
+    "69442-030-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "amoxicillin",
+      "name": "MOXATAG"
+    }
+  ],
+  "setid": "9ba3c392-33b8-46ad-ab7e-1b6f0f8c9e88",
+  "source": "dailymed"
+}
