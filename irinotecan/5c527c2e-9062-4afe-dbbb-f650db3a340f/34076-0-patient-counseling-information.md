@@ -15,6 +15,14 @@
 - •Patients should be alerted to the possibility of alopecia.
 - •Contains sorbitol.
 
-434689
+EN-4103
 
-Hospira, Inc. Lake Forest, IL 60045 USA Product of Australia
+Mfd by: Zydus Hospira Oncology Private Ltd.,
+
+Gujarat, India
+
+Dist. by: Hospira, Inc. Lake Forest, IL 60045 USA
+
+Made in India
+
+GUJ-DRUGS/G/28/1267

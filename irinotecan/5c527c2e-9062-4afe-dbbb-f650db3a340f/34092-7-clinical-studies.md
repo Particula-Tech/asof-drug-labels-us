@@ -41,7 +41,8 @@ Weekly Dosage Schedule: Study Results
 | Duration of Treatment with Irinotecan Hydrochloride Injection, USP (median, months) | 5 | 4 | 4 | 3 |
 | Relative Dose Intensityb (median %) | 74 | 67 | 73 | 81 |
 | Efficacy |  |  |  |  |
-| Confirmed Objective Response Rate (%)c (95% CI) | 21(9.3 - 32.3) | 13(6.3 - 20.4) | 14(5.5 - 22.6) | 9(3.3 - 14.3) |
+| Confirmed Objective Response Rate (%)c | 21 | 13 | 14 | 9 |
+| (95% CI) | (9.3 - 32.3) | (6.3 - 20.4) | (5.5 - 22.6) | (3.3 - 14.3) |
 | Time to Response (median, months) | 2.6 | 1.5 | 2.8 | 2.8 |
 | Response Duration (median, months) | 6.4 | 5.9 | 5.6 | 6.4 |
 | Survival (median, months) | 10.4 | 8.1 | 10.7 | 9.3 |
