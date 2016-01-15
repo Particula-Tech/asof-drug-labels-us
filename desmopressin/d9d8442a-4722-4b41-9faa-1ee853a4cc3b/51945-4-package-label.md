@@ -8,8 +8,6 @@ DDAVP® Nasal Spray desmopressin acetate
 
 FOR INTRANASAL USE ONLY
 
-Rx ONLY
+5 mL Bottle (50 Doses)
 
-One 5 mL Bottle (50 Doses)
-
-FERRING PHARMACEUTICALS
+Rx ONLY FERRING PHARMACEUTICALS
