@@ -7,8 +7,8 @@ Patients should also be advised to inform other healthcare professionals prescri
 ## 17.1 Muscle Pain
 
 All patients starting therapy with simvastatin should be advised of the risk of myopathy, including rhabdomyolysis, and told to report promptly any unexplained muscle pain, tenderness or weakness particularly if accompanied by malaise or fever or if these muscle signs or symptoms persist after discontinuing simvastatin.
-Patients using the 80-mg dose should be informed that the risk of myopathy, including rhabdomyolysis, is increased with use of the 80-mg dose.
-The risk of myopathy, including rhabdomyolysis, occurring with use of simvastatin is increased when taking certain types of medication or consuming larger quantities of grapefruit juice.
+Patients using the 80 mg dose should be informed that the risk of myopathy, including rhabdomyolysis, is increased with use of the 80 mg dose.
+The risk of myopathy, including rhabdomyolysis, occurring with use of simvastatin is increased when taking certain types of medication or consuming grapefruit juice.
 Patients should discuss all medication, both prescription and over the counter, with their healthcare professional.
 
 ## 17.2 Liver Enzymes
@@ -27,5 +27,5 @@ Patients should be advised that if they become pregnant they should stop taking 
 Women who are breastfeeding should not use simvastatin.
 Patients who have a lipid disorder and are breastfeeding should be advised to discuss the options with their healthcare professional.
 
-Manufactured for: Camber Pharmaceuticals Inc. Piscataway, NJ 08854 Manufactured By: HETEROTM HETERO LABS LIMITED 2029915 22-110, I.D.A., Jeedimetla, Hyderabad – 500 055, India.
-Barcode Revised: 06/2015
+Manufactured for: Camber Pharmaceuticals Inc. Piscataway, NJ 08854 Manufactured By: HETEROTM HETERO LABS LIMITED 2032790 22-110, I.D.A., Jeedimetla, Hyderabad – 500 055, India.
+Barcode Revised: 12/2015
