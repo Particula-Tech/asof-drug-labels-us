@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA202102"
+  ],
+  "inn": "aripiprazole",
+  "labeler": "Alembic Pharmaceuticals Limited",
+  "package_ndcs": [
+    "46708-260-10",
+    "46708-261-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "aripiprazole",
+      "name": "Aripiprazole"
+    }
+  ],
+  "setid": "4f1691a8-724e-430d-9bab-27b59ef9bd4e",
+  "source": "dailymed"
+}
