@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA204327"
+  ],
+  "inn": "paricalcitol",
+  "labeler": "Amneal Pharmaceuticals of New York, LLC",
+  "package_ndcs": [
+    "65162-822-03",
+    "65162-822-09",
+    "65162-823-03",
+    "65162-823-09",
+    "65162-824-03",
+    "65162-824-09"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "paricalcitol",
+      "name": "Paricalcitol"
+    }
+  ],
+  "setid": "cd937aab-6ed2-44ef-b91e-82738997ed10",
+  "source": "dailymed"
+}
