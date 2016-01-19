@@ -48,9 +48,6 @@ A large clinical trial in acute coronary syndrome patients was unsuccessful in d
 
 Laboratory Abnormalities:
 
-RANEXA produces small reductions in hemoglobin A1c.
-RANEXA is not a treatment for diabetes.
-
 RANEXA produces elevations of serum creatinine by 0.1 mg/dL, regardless of previous renal function, likely because of inhibition of creatinine's tubular secretion.
 In general, the elevation has a rapid onset, shows no signs of progression during long-term therapy, is reversible after discontinuation of RANEXA, and is not accompanied by changes in BUN.
 In healthy volunteers, RANEXA 1000 mg twice daily had no effect upon the glomerular filtration rate.
@@ -64,6 +61,8 @@ Because these reactions are reported voluntarily from a population of uncertain 
 Nervous System Disorders – Tremor, paresthesia, abnormal coordination, and other serious neurologic adverse events have been reported to occur, sometimes concurrently, in patients taking ranolazine.
 The onset of events was often associated with an increase in ranolazine dose or exposure.
 Many patients reported symptom resolution following drug discontinuation or dose decrease.
+
+Metabolism and Nutrition Disorders – Cases of hypoglycemia have been reported in diabetic patients on antidiabetic medication.
 
 Psychiatric Disorders – hallucination
 
