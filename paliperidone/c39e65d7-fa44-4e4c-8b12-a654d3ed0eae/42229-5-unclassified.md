@@ -1,4 +1,4 @@
-INVEGA TRINZA™ (paliperidone palmitate) Extended-Release Injectable Suspension
+INVEGA TRINZA® (paliperidone palmitate) Extended-Release Injectable Suspension
 
 INVEGA SUSTENNA®, RISPERDAL®, and RISPERDAL CONSTA® are trademarks of Janssen Pharmaceuticals, Inc.
 

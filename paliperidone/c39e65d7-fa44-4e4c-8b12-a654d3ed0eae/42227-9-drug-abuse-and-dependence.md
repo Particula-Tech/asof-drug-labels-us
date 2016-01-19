@@ -2,7 +2,7 @@
 
 ## 9.1 Controlled Substance
 
-INVEGA TRINZA™ (paliperidone) is not a controlled substance.
+INVEGA TRINZA® (paliperidone) is not a controlled substance.
 
 ## 9.2 Abuse
 
