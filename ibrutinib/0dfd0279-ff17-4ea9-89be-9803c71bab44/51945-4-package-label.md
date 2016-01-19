@@ -12,6 +12,6 @@ Each capsule contains: ibrutinib 140 mg Swallow capsules whole with water
 
 Rx Only
 
-pharmacyclics®
+pharmacyclics® An AbbVie Company
 
 Janssen
