@@ -5,11 +5,12 @@
   "inn": "moxifloxacin",
   "labeler": "Alcon Laboratories, Inc.",
   "package_ndcs": [
+    "0065-4013-01",
     "0065-4013-03"
   ],
   "products": [
     {
-      "form": "SOLUTION",
+      "form": "SOLUTION/ DROPS",
       "generic": "moxifloxacin hydrochloride",
       "name": "VIGAMOX"
     }
