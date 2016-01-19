@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "ANDA090555"
+  ],
+  "inn": "venlafaxine",
+  "labeler": "Citron Pharma LLC",
+  "package_ndcs": [
+    "57237-172-01",
+    "57237-172-90",
+    "57237-173-01",
+    "57237-173-90",
+    "57237-174-01",
+    "57237-174-90",
+    "57237-175-01",
+    "57237-175-90",
+    "57237-176-01",
+    "57237-176-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "venlafaxine hydrochloride",
+      "name": "venlafaxine"
+    }
+  ],
+  "setid": "20319949-ccf9-477a-a6e3-53502772deb9",
+  "source": "dailymed"
+}
