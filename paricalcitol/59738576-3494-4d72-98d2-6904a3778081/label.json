@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA207672"
+  ],
+  "inn": "paricalcitol",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "65862-936-30",
+    "65862-937-30",
+    "65862-938-30"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, LIQUID FILLED",
+      "generic": "paricalcitol",
+      "name": "Paricalcitol"
+    }
+  ],
+  "setid": "59738576-3494-4d72-98d2-6904a3778081",
+  "source": "dailymed"
+}
