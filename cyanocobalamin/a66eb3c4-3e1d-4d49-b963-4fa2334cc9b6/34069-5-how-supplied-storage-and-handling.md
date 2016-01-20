@@ -4,9 +4,9 @@ Cyanocobalamin Injection, USP 1000 mcg/mL is available in the following packages
 
 NDC 0143-9621-25 1 mL Vial Boxes of 25 Vials
 
-NDC 0143-9620-25 10 mL Multiple Dose Vial Boxes of 25 Vials
+NDC 0143-9620-10 10 mL Multiple Dose Vial Boxes of 10 Vials
 
-NDC 0143-9619-05 30 mL Multiple Dose Vial Boxes of 5 Vials
+NDC 0143-9619-10 30 mL Multiple Dose Vial Boxes of 10 Vials
 
 ## Storage
 
@@ -23,6 +23,6 @@ Estrada do Rio da Mό, 8, 8A e 8B – Fervença – 2705-906 Terrugem SNT, PORT
 
 Distributed by: WEST-WARD PHARMACEUTICALS Eatontown, NJ 07724 USA
 
-Issued March 2015
+Revised January 2016
 
 PIN350-WES/1

@@ -1,1 +1,1 @@
-Rx Only
+Rx only
