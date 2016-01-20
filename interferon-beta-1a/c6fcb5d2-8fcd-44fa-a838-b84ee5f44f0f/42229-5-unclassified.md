@@ -4,8 +4,8 @@ Marketed by:
 
 EMD Serono, Inc. Rockland, MA 02370
 
-Pfizer Inc New York, NY 10017
+Revised: 11/2015
 
-Revised: 10/2015
+*AVONEX is a registered trademark of Biogen
 
-*AVONEX is a registered trademark of Biogen Idec, Inc.
+N67Z0104G

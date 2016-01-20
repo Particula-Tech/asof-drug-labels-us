@@ -118,6 +118,4 @@ Manufactured by: EMD Serono, Inc. Rockland, MA 02370 U.S. License 1773
 
 Marketed by: EMD Serono, Inc. Rockland, MA 02370
 
-Pfizer Inc New York, NY 10017
-
-Revised 03/2015
+Revised November 2015
