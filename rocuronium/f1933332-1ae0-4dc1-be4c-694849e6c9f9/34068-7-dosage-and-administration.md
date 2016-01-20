@@ -73,7 +73,7 @@ TABLE 1: Infusion Rates Using Rocuronium Bromide Injection (0.5 mg/mL)*
 | 90 | 198 | 43.2 | 54 | 64.8 | 75.6 | 86.4 | 97.2 | 108 | 129.6 | 151.2 | 172.8 |
 | 100 | 220 | 48 | 60 | 72 | 84 | 96 | 108 | 120 | 144 | 168 | 192 |
 
-* 50 mg Rocuronium Bromide Injection in 100 mL solution
+* 50 mg Rocuronium Bromide Injection in 100 mL solution.
 
 TABLE 2: Infusion Rates Using Rocuronium Bromide Injection (1 mg/mL)*
 
@@ -93,7 +93,7 @@ TABLE 2: Infusion Rates Using Rocuronium Bromide Injection (1 mg/mL)*
 | 90 | 198 | 21.6 | 27 | 32.4 | 37.8 | 43.2 | 48.6 | 54 | 64.8 | 75.6 | 86.4 |
 | 100 | 220 | 24 | 30 | 36 | 42 | 48 | 54 | 60 | 72 | 84 | 96 |
 
-* 100 mg Rocuronium Bromide Injection in 100 mL solution
+* 100 mg Rocuronium Bromide Injection in 100 mL solution.
 
 TABLE 3: Infusion Rates Using Rocuronium Bromide Injection (5 mg/mL)*
 
@@ -113,7 +113,7 @@ TABLE 3: Infusion Rates Using Rocuronium Bromide Injection (5 mg/mL)*
 | 90 | 198 | 4.3 | 5.4 | 6.5 | 7.6 | 8.6 | 9.7 | 10.8 | 13 | 15.1 | 17.3 |
 | 100 | 220 | 4.8 | 6 | 7.2 | 8.4 | 9.6 | 10.8 | 12 | 14.4 | 16.8 | 19.2 |
 
-* 500 mg Rocuronium Bromide Injection in 100 mL solution
+* 500 mg Rocuronium Bromide Injection in 100 mL solution.
 
 ## 2.5 Dosage in Specific Populations
 
@@ -140,15 +140,13 @@ The rate of administration should be adjusted according to the patient’s twitc
 Spontaneous recovery and reversal of neuromuscular blockade following discontinuation of rocuronium bromide infusion may be expected to proceed at rates comparable to that following similar total exposure to single bolus doses [see Clinical Pharmacology (12.2)].
 
 Rocuronium Bromide Injection is not recommended for rapid sequence intubation in pediatric patients.
-
 Geriatric Patients:
 
 Geriatric patients (65 years or older) exhibited a slightly prolonged median (range) clinical duration of 46 (22 to 73), 62 (49 to 75), and 94 (64 to 138) minutes under opioid/nitrous oxide/oxygen anesthesia following doses of 0.6, 0.9, and 1.2 mg/kg, respectively.
-No differences in duration of neuromuscular blockade following maintenance doses of Rocuronium Bromide Injection were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in response between elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out [see Clinical Pharmacology (12.2, 12.3)].
+No differences in duration of neuromuscular blockade following maintenance doses of Rocuronium Bromide Injection were observed between these subjects and younger subjects, but greater sensitivity of some older individuals cannot be ruled out [see Clinical Pharmacology (12.2) and Clinical Studies (14.2)].
+[See also Warnings and Precautions (5.4)].
 
-Patients with Renal or Hepatic Impairment:
-
-No differences from patients with normal hepatic and kidney function were observed for onset time at a dose of 0.6 mg/kg Rocuronium Bromide Injection.
+Patients with Renal or Hepatic Impairment: No differences from patients with normal hepatic and kidney function were observed for onset time at a dose of 0.6 mg/kg Rocuronium Bromide Injection.
 When compared to patients with normal renal and hepatic function, the mean clinical duration is similar in patients with end-stage renal disease undergoing renal transplant, and is about 1.5 times longer in patients with hepatic disease.
 Patients with renal failure may have a greater variation in duration of effect [see Use in Specific Populations (8.6, 8.7) and Clinical Pharmacology (12.3)].
 
@@ -195,7 +193,7 @@ amphotericin hydrocortisone sodium succinate
 
 amoxicillin insulin
 
-azathioprine intralipid
+azathioprine Intralipid
 
 cefazolin ketorolac
 

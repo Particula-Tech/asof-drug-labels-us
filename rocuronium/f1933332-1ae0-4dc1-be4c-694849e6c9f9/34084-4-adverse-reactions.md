@@ -16,7 +16,7 @@ The following adverse reactions are described, or described in greater detail, i
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Clinical studies in the US (n=1137) and Europe (n=1394) totaled 2531 patients.
+Clinical studies in the US (n=1,137) and Europe (n=1,394) totaled 2,531 patients.
 The patients exposed in the US clinical studies provide the basis for calculation of adverse reaction rates.
 The following adverse reactions were reported in patients administered rocuronium bromide (all events judged by investigators during the clinical trials to have a possible causal relationship):
 
