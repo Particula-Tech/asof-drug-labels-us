@@ -1,44 +1,32 @@
 # WARNINGS
 
-## Heart failure:
-
-Verapamil has a negative inotropic effect, which in most patients is compensated by its afterload reduction (decreased systemic vascular resistance) properties without a net impairment of ventricular performance.
+Heart failure: Verapamil has a negative inotropic effect, which in most patients is compensated by its afterload reduction (decreased systemic vascular resistance) properties without a net impairment of ventricular performance.
 In clinical experience with 4,954 patients, 87 (1.8%) developed congestive heart failure or pulmonary edema.
 Verapamil should be avoided in patients with severe left ventricular dysfunction (e.g., ejection fraction less than 30%) or moderate to severe symptoms of cardiac failure and in patients with any degree of ventricular dysfunction if they are receiving a beta-adrenergic blocker (see PRECAUTIONS, Drug Interactions).
 Patients with milder ventricular dysfunction should, if possible, be controlled with optimum doses of digitalis and/or diuretics before verapamil treatment.
 (Note interactions with digoxin under PRECAUTIONS.)
 
-## Hypotension:
-
-Occasionally, the pharmacologic action of verapamil may produce a decrease in blood pressure below normal levels, which may result in dizziness or symptomatic hypotension.
+Hypotension: Occasionally, the pharmacologic action of verapamil may produce a decrease in blood pressure below normal levels, which may result in dizziness or symptomatic hypotension.
 The incidence of hypotension observed in 4,954 patients enrolled in clinical trials was 2.5%.
 In hypertensive patients, decreases in blood pressure below normal are unusual.
 Tilt-table testing (60 degrees) was not able to induce orthostatic hypotension.
 
-## Elevated liver enzymes:
-
-Elevations of transaminases with and without concomitant elevations in alkaline phosphatase and bilirubin have been reported.
+Elevated liver enzymes: Elevations of transaminases with and without concomitant elevations in alkaline phosphatase and bilirubin have been reported.
 Such elevations have sometimes been transient and may disappear even with continued verapamil treatment.
 Several cases of hepatocellular injury related to verapamil have been proven by rechallenge; half of these had clinical symptoms (malaise, fever, and/or right upper quadrant pain), in addition to elevation of SGOT, SGPT, and alkaline phosphatase.
 Periodic monitoring of liver function in patients receiving verapamil is therefore prudent.
 
-## Accessory bypass tract (Wolff-Parkinson-White or Lown-Ganong-Levine):
-
-Some patients with paroxysmal and/or chronic atrial fibrillation or atrial flutter and a coexisting accessory AV pathway have developed increased antegrade conduction across the accessory pathway bypassing the AV node, producing a very rapid ventricular response or ventricular fibrillation after receiving intravenous verapamil (or digitalis).
+Accessory bypass tract (Wolff-Parkinson-White or Lown-Ganong-Levine): Some patients with paroxysmal and/or chronic atrial fibrillation or atrial flutter and a coexisting accessory AV pathway have developed increased antegrade conduction across the accessory pathway bypassing the AV node, producing a very rapid ventricular response or ventricular fibrillation after receiving intravenous verapamil (or digitalis).
 Although a risk of this occurring with oral verapamil has not been established, such patients receiving oral verapamil may be at risk and its use in these patients is contraindicated (see CONTRAINDICATIONS).
 Treatment is usually DC-cardioversion.
 Cardioversion has been used safely and effectively after oral verapamil hydrochloride.
 
-## Atrioventricular block:
-
-The effect of verapamil on AV conduction and the SA node may cause asymptomatic first-degree AV block and transient bradycardia, sometimes accompanied by nodal escape rhythms.
+Atrioventricular block: The effect of verapamil on AV conduction and the SA node may cause asymptomatic first-degree AV block and transient bradycardia, sometimes accompanied by nodal escape rhythms.
 PR-interval prolongation is correlated with verapamil plasma concentrations especially during the early titration phase of therapy.
 Higher degrees of AV block, however, were infrequently (0.8%) observed.
 Marked first-degree block or progressive development to second-or third-degree AV block requires a reduction in dosage or, in rare instances, discontinuation of verapamil hydrochloride and institution of appropriate therapy, depending on the clinical situation.
 
-## Patients with hypertrophic cardiomyopathy (IHSS):
-
-In 120 patients with hypertrophic cardiomyopathy (most of them refractory or intolerant to propranolol) who received therapy with verapamil at doses up to 720 mg/day, a variety of serious adverse effects were seen.
+Patients with hypertrophic cardiomyopathy (IHSS): In 120 patients with hypertrophic cardiomyopathy (most of them refractory or intolerant to propranolol) who received therapy with verapamil at doses up to 720 mg/day, a variety of serious adverse effects were seen.
 Three patients died in pulmonary edema; all had severe left ventricular outflow obstruction and a past history of left ventricular dysfunction.
 Eight other patients had pulmonary edema and/or severe hypotension; abnormally high (greater than 20 mm Hg) pulmonary wedge pressure and a marked left ventricular outflow obstruction were present in most of these patients.
 Concomitant administration of quinidine (see PRECAUTIONS, Drug interactions) preceded the severe hypotension in 3 of the 8 patients (2 of whom developed pulmonary edema).

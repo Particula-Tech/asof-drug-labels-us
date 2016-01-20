@@ -41,3 +41,5 @@ Whenever severe hypotension or complete AV block occurs following oral administr
 In patients with hypertrophic cardiomyopathy (IHSS), alpha-adrenergic agents (phenylephrine hydrochloride, metaraminol bitartrate, or methoxamine hydrochloride) should be used to maintain blood pressure, and isoproterenol and norepinephrine should be avoided.
 If further support is necessary, dopamine hydrochloride or dobutamine hydrochloride may be administered.
 Actual treatment and dosage should depend on the severity of the clinical situation and the judgment and experience of the treating physician.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Actavis at 1-800-272-5525 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
