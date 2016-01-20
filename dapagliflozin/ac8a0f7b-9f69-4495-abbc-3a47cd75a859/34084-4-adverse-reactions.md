@@ -40,12 +40,12 @@ Table 1: Adverse Reactions in Placebo-Controlled Studies Reported in ≥2% of Pa
 | --- | --- | --- | --- |
 | Adverse Reaction | % of Patients |  |  |
 | Pool of 8 Placebo-Controlled Studies |  |  |  |
-| Female genital mycotic infections1 | 1.5 | 9.4 | 9.3 |
+| Female genital mycotic infectionsGenital mycotic infections include the following adverse reactions, listed in order of frequency reported for females: vulvovaginal mycotic infection, vaginal infection, genital infection, vulvovaginitis, fungal genital infection, vulvovaginal candidiasis, vulval abscess, genital candidiasis, and vaginitis bacterial. (N for females: Placebo and metformin=534, dapagliflozin 5 mg and metformin=223, dapagliflozin 10 mg and metformin=430). | 1.5 | 9.4 | 9.3 |
 | Nasopharyngitis | 5.9 | 6.3 | 5.2 |
-| Urinary tract infections2 | 3.6 | 6.1 | 5.5 |
+| Urinary tract infectionsUrinary tract infections include the following adverse reactions, listed in order of frequency reported: urinary tract infection, cystitis, pyelonephritis, urethritis, and prostatitis. | 3.6 | 6.1 | 5.5 |
 | Diarrhea | 5.6 | 5.9 | 4.2 |
 | Headache | 2.8 | 5.4 | 3.3 |
-| Male genital mycotic infections3 | 0 | 4.3 | 3.6 |
+| Male genital mycotic infectionsGenital mycotic infections include the following adverse reactions, listed in order of frequency reported for males: balanitis, fungal genital infection, balanitis candida, genital candidiasis, genital infection, posthitis, balanoposthitis. (N for males: Placebo and metformin=651, dapagliflozin 5 mg and metformin=187, dapagliflozin 10 mg and metformin=553). | 0 | 4.3 | 3.6 |
 | Influenza | 2.4 | 4.1 | 2.6 |
 | Nausea | 2.0 | 3.9 | 2.6 |
 | Back pain | 3.2 | 3.4 | 2.5 |
@@ -54,7 +54,7 @@ Table 1: Adverse Reactions in Placebo-Controlled Studies Reported in ≥2% of Pa
 | Constipation | 1.6 | 2.9 | 1.9 |
 | Dyslipidemia | 1.4 | 2.7 | 1.5 |
 | Pharyngitis | 1.1 | 2.7 | 1.5 |
-| Increased urination4 | 1.4 | 2.4 | 2.6 |
+| Increased urinationIncreased urination includes the following adverse reactions, listed in order of frequency reported: pollakiuria, polyuria, and urine output increased. | 1.4 | 2.4 | 2.6 |
 | Discomfort with urination | 1.1 | 2.2 | 1.6 |
 
 ### Metformin hydrochloride
