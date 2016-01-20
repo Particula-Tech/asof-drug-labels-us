@@ -130,7 +130,7 @@ Aprepitant is unlikely to interact with drugs that are substrates for the P-glyc
 
 Effects of Aprepitant on the Pharmacokinetics of Other Drugs
 
-CYP3A4 substrates (i.e., midazolam): Interactions between EMEND and coadministered midazolam are listed in Table 11 (increase is indicated as "↑", decrease as "↓", no change as "↔").
+CYP3A4 substrates (i.e., midazolam): Interactions between EMEND and coadministered midazolam are listed in Table 12 (increase is indicated as "↑", decrease as "↓", no change as "↔").
 
 Table 12: Pharmacokinetic Interaction Data for EMEND and Coadministered Midazolam
 
