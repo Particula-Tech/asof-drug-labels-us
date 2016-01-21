@@ -40,20 +40,20 @@ Inform patients that if they miss a dose, take it as soon as they remember.
 If it is almost time for their next dose, skip the missed dose and take the next regularly scheduled dose.
 Patients should not take two doses at the same time.
 
-All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA.
+All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA, Inc.
 
 Manufactured In Israel By:
 
 TEVA PHARMACEUTICAL IND.
 LTD.
 
-Jerusalem, 91010, Israel
+Jerusalem, 9777402, Israel
 
 Manufactured For:
 
-TEVA PHARMACEUTICALS USA
+TEVA PHARMACEUTICALS USA, INC.
 
-Sellersville, PA 18960
+North Wales, PA 19454
 
 Rev.
-G 5/2014
+H 9/2015

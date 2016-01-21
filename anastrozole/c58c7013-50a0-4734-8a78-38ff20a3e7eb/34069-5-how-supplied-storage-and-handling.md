@@ -2,7 +2,7 @@
 
 Anastrozole Tablets are available as follows:
 
-1 mg – White to off-white, film-coated, round-shaped tablets, debossed with “TEVA” on one side of the tablet and with “A10” on the other, in bottles of 30.
+1 mg – White to off-white, film-coated, round-shaped tablets, debossed with “TEVA” on one side of the tablet and with “A10” on the other, in bottles of 30 (NDC 0093-7536-56).
 
 ## Storage
 

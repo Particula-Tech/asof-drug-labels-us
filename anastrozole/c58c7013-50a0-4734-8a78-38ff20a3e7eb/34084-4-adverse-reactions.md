@@ -85,11 +85,11 @@ Table 1 - Adverse Reactions Occurring With an Incidence of at Least 5% in Either
 | Vaginal HemorrhageVaginal Hemorrhage without further diagnosis. | 122 (4) | 180 (6) |
 | Vaginitis | 125 (4) | 158 (5) |
 
-Certain adverse reactions and combinations of adverse reactions were prospectively specified for analysis, based on the known pharmacologic properties and side effect profiles of the two drugs (seeTable 2).
+Certain adverse reactions and combinations of adverse reactions were prospectively specified for analysis, based on the known pharmacologic properties and side effect profiles of the two drugs (see Table 2).
 
 Table 2 — Number of Patients With Pre-Specified Adverse Reactions in ATAC TrialPatients with multiple events in the same category are counted only once in that category.
 
-|  | Anastrozole N = 3092 (%) | Tamoxifen N = 3094 (%) | Odds- ratio | 95% CI |
+|  | AnastrozoleN = 3092(%) | TamoxifenN = 3094(%) | Odds-ratio | 95% CI |
 | --- | --- | --- | --- | --- |
 | Hot Flashes | 1104 (36) | 1264 (41) | 0.80 | 0.73 to 0.89 |
 | Musculoskeletal EventsRefers to joint symptoms, including joint disorder, arthritis, arthrosis and arthralgia. | 1100 (36) | 911 (29) | 1.32 | 1.19 to 1.47 |
@@ -166,12 +166,12 @@ Results are consistent with the previous analyses.
 
 Serious adverse reactions were similar between anastrozole (50%) and tamoxifen (51%).
 
-- Cardiovascular events were consistent with the known safety profiles of anastrozole and tamoxifen.
-- The cumulative incidences of all first fractures (both serious and non-serious, occurring either during or after treatment) was higher in the anastrozole group (15%) compared to the tamoxifen group (11%).
+- •Cardiovascular events were consistent with the known safety profiles of anastrozole and tamoxifen.
+- •The cumulative incidences of all first fractures (both serious and non-serious, occurring either during or after treatment) was higher in the anastrozole group (15%) compared to the tamoxifen group (11%).
   This increased first fracture rate during treatment did not continue in the post-treatment follow-up period.
-- The cumulative incidence of new primary cancers was similar in the anastrozole group (13.7%) compared to the tamoxifen group (13.9%).
+- •The cumulative incidence of new primary cancers was similar in the anastrozole group (13.7%) compared to the tamoxifen group (13.9%).
   Consistent with the previous analyses, endometrial cancer was higher in the tamoxifen group (0.8%) compared to the anastrozole group (0.2%).
-- The overall number of deaths (during or off-trial treatment) was similar between the treatment groups.
+- •The overall number of deaths (during or off-trial treatment) was similar between the treatment groups.
   There were more deaths related to breast cancer in the tamoxifen than in the anastrozole treatment group.
 
 First-Line Therapy
@@ -336,7 +336,7 @@ These adverse reactions are reported voluntarily from a population of uncertain 
 Therefore, it is not always possible to estimate reliably their frequency or establish a causal relationship to drug exposure.
 The following have been reported in post-approval use of anastrozole:
 
-- Hepatobiliary events including increases in alkaline phosphatase, alanine aminotransferase, aspartate aminotransferase, gamma-GT, and bilirubin; hepatitis
-- Rash including cases of mucocutaneous disorders such as erythema multiforme and Stevens-Johnson syndrome
-- Cases of allergic reactions including angioedema, urticaria and anaphylaxis [see Contraindications (4.2)]
-- Myalgia, trigger finger and hypercalcemia (with or without an increase in parathyroid hormone)
+1. •Hepatobiliary events including increases in alkaline phosphatase, alanine aminotransferase, aspartate aminotransferase, gamma-GT, and bilirubin; hepatitis
+2. •Rash including cases of mucocutaneous disorders such as erythema multiforme and Stevens-Johnson syndrome
+3. •Cases of allergic reactions including angioedema, urticaria and anaphylaxis [see Contraindications (4.2)]
+4. •Myalgia, trigger finger and hypercalcemia (with or without an increase in parathyroid hormone)
