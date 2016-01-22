@@ -25,13 +25,13 @@ The majority of the TB cases occurred in countries with a high incidence rate of
 
 In the controlled phase of Trial 1 through Week 24, infections were observed in 27% of SIMPONI ARIA-treated patients compared with 24% of control-treated patients, and serious infections were observed in 0.9% of SIMPONI ARIA-treated patients and 0.0% of control-treated patients.
 Through Week 24, the incidence of serious infections per 100 patient-years of follow-up was 2.2 (95% CI 0.61, 5.71) for the SIMPONI ARIA group, and 0 (0.00, 3.79) for the placebo group.
-In the controlled and uncontrolled portions of Trial 1, 958 total patient-years of follow-up with a median follow-up of approximately 92 weeks, the incidence per 100 patient-years of all serious infections was 4.07 (CI: 2.90, 5.57) in patients receiving SIMPONI ARIA [see Warnings and Precautions (5.1)].
-In the controlled and uncontrolled portions of Trial 1, in SIMPONI ARIA treated patients, the incidence of active TB per 100 patient-years was 0.31 (95% CI: 0.06; 0.92) and the incidence of other opportunistic infections per 100 patient-years was 0.42 (95% CI: 0.11, 1.07).
+In the controlled and uncontrolled portions of Trial 1, 958 total patient-years of follow-up with a median follow-up of approximately 92 weeks, the incidence per 100 patient-years of all serious infections was 4.07 (95% CI: 2.90, 5.57) in patients receiving SIMPONI ARIA [see Warnings and Precautions (5.1)].
+In the controlled and uncontrolled portions of Trial 1, in SIMPONI ARIA-treated patients, the incidence of active TB per 100 patient-years was 0.31 (95% CI: 0.06; 0.92) and the incidence of other opportunistic infections per 100 patient-years was 0.42 (95% CI: 0.11, 1.07).
 
 Malignancies
 
 One case of malignancy other than lymphoma and NMSC with SIMPONI ARIA was reported through Week 24 during the controlled phase of Trial 1.
-In the controlled and uncontrolled portions through approximately 92 weeks, the incidence of malignancies per 100 patient-years, other than lymphoma and NMSC, in SIMPONI ARIA-treated patients was 0.31 (CI: 0.06, 0.92) and the incidence of NMSC was 0.1 (95% CI: 0.00, 0.58).
+In the controlled and uncontrolled portions through approximately 92 weeks, the incidence of malignancies per 100 patient-years, other than lymphoma and NMSC, in SIMPONI ARIA-treated patients was 0.31 (95% CI: 0.06, 0.92) and the incidence of NMSC was 0.1 (95% CI: 0.00, 0.58).
 
 Liver Enzyme Elevations
 
@@ -39,14 +39,12 @@ There have been reports of severe hepatic reactions including acute liver failur
 
 In the controlled phase of Trial 1, through Week 24, ALT elevations ≥ 5 × ULN occurred in 0.8% of SIMPONI ARIA-treated patients and 0% of control-treated patients and ALT elevations ≥ 3 × ULN occurred in 2.3% of SIMPONI ARIA-treated patients and 2.5% of control-treated patients.
 
-Since many of the patients in the Phase 3 trial were also taking medications that cause liver enzyme elevations (e.g., nonsteroidal anti-inflammatory drugs [NSAIDs], methotrexate [MTX], or isoniazid prophylaxis), the relationship between SIMPONI ARIA and liver enzyme elevation is not clear.
+Since many of the patients in the Phase 3 trial were also taking medications that cause liver enzyme elevations (e.g., nonsteroidal anti-inflammatory drugs [NSAIDs], MTX, or isoniazid prophylaxis), the relationship between SIMPONI ARIA and liver enzyme elevation is not clear.
 
 Autoimmune Disorders and Autoantibodies
 
-The use of TNF-blockers, of which SIMPONI ARIA is a member, has been associated with the formation of autoantibodies and, rarely, with the development of a lupus-like syndrome.
-
-At Week 20 in Trial 1, 17% of SIMPONI ARIA-treated patients and 13% of control patients were newly ANA-positive (at titers of 1:160 or greater).
-Of these patients, one SIMPONI ARIA-treated patient and no control-treated patients had newly positive anti-dsDNA antibodies.
+At Week 20 in Trial 1, 17% of SIMPONI ARIA-treated patients and 13% of control patients were newly antinuclear antibody (ANA)-positive (at titers of 1:160 or greater).
+Of these patients, one SIMPONI ARIA-treated patient and no control-treated patients had newly positive anti-dsDNA antibodies [see Warnings and Precautions (5.5)].
 
 Administration Reactions
 
@@ -76,7 +74,7 @@ Table 1: Adverse Drug Reactions Reported by ≥ 1% of SIMPONI ARIA-Treated Patie
 | --- | --- | --- |
 | Patients treated | 197 | 463 |
 | Adverse Reaction |  |  |
-| Infections and Infestations |  |  |
+| Infections and infestations |  |  |
 | Upper respiratory tract infection (such as upper respiratory tract infection, nasopharyngitis, pharyngitis, laryngitis, and rhinitis) | 12% | 13% |
 | Viral infections (such as influenza and herpes) | 3% | 4% |
 | Bacterial infections | 0% | 1% |
@@ -90,11 +88,11 @@ Table 1: Adverse Drug Reactions Reported by ≥ 1% of SIMPONI ARIA-Treated Patie
 | Blood and lymphatic disorders |  |  |
 | Leukopenia | 0% | 1% |
 
-Other and less common clinical trial adverse drug reactions
+Other and Less Common Clinical Trial Adverse Drug Reactions
 
-Adverse drug reactions that do not appear in Table 1 or that occurred <1% in SIMPONI ARIA-treated patients during Trial 1 through Week 24 that do not appear in the Warnings and Precautions section included the following events listed by system organ class:
+Adverse drug reactions that do not appear in Table 1 or that occurred < 1% in SIMPONI ARIA-treated patients during Trial 1 through Week 24 that do not appear in the Warnings and Precautions section included the following events listed by system organ class:
 
-Infections and Infestations: Superficial fungal infection, sinusitis, abscess, lower respiratory tract infection (pneumonia), pyelonephritis
+Infections and infestations: Superficial fungal infection, sinusitis, abscess, lower respiratory tract infection (pneumonia), pyelonephritis
 
 Investigations: Alanine aminotransferase increased, aspartate aminotransferase increased, neutrophil count decreased
 
@@ -102,15 +100,15 @@ Nervous system disorders: Dizziness, paresthesia
 
 Gastrointestinal disorders: Constipation
 
-## 6.2 Post-marketing Experience
+## 6.2 Postmarketing Experience
 
-There is no post-marketing experience available for SIMPONI ARIA.
+There is no postmarketing experience available for SIMPONI ARIA.
 The following adverse reactions have been identified during post-approval use of the subcutaneous formulation of golimumab.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to golimumab exposure.
 
-Neoplasm Benign and Malignant: Melanoma [see Warnings and Precautions (5.2)]
+Neoplasm benign and malignant: Melanoma [see Warnings and Precautions (5.2)]
 
-Immune System Disorders: Serious systemic hypersensitivity reactions (including anaphylactic reaction) [see Warnings and Precautions (5.10)], sarcoidosis
+Immune system disorders: Serious systemic hypersensitivity reactions (including anaphylactic reaction) [see Warnings and Precautions (5.11)], sarcoidosis
 
 Respiratory, thoracic and mediastinal disorders: Interstitial lung disease
 

@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Medication Guide)
+See FDA-approved patient labeling (Medication Guide).
 
 Advise patients of the potential benefits and risks of SIMPONI ARIA.
 Instruct patients to read the Medication Guide before starting SIMPONI ARIA therapy and to read it each time the prescription is renewed.

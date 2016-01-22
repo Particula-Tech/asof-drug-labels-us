@@ -6,7 +6,7 @@ Patients treated with SIMPONI ARIA are at increased risk for developing serious 
 
 Opportunistic infections due to bacterial, mycobacterial, invasive fungal, viral, or parasitic organisms including aspergillosis, blastomycosis, candidiasis, coccidioidomycosis, histoplasmosis, legionellosis, listeriosis, pneumocystosis, and tuberculosis have been reported with TNF-blockers.
 Patients have frequently presented with disseminated rather than localized disease.
-The concomitant use of a TNF-blocker and abatacept or anakinra was associated with a higher risk of serious infections; therefore, the concomitant use of SIMPONI ARIA and these biologic products is not recommended [see Warnings and Precautions (5.5, 5.6) and Drug Interactions (7.2)].
+The concomitant use of a TNF-blocker and abatacept or anakinra was associated with a higher risk of serious infections; therefore, the concomitant use of SIMPONI ARIA and these biologic products is not recommended [see Warnings and Precautions (5.6, 5.7) and Drug Interactions (7.2)].
 
 Treatment with SIMPONI ARIA should not be initiated in patients with an active infection, including clinically important localized infections.
 Patients greater than 65 years of age, patients with co-morbid conditions and/or patients taking concomitant immunosuppressants such as corticosteroids or methotrexate may be at greater risk of infection.
@@ -56,7 +56,7 @@ The majority of these reports have occurred in patients who received concomitant
 All patients should be tested for HBV infection before initiating TNF-blocker therapy.
 For patients who test positive for hepatitis B surface antigen, consultation with a physician with expertise in the treatment of hepatitis B is recommended before initiating TNF-blocker therapy.
 The risks and benefits of treatment should be considered prior to prescribing TNF-blockers, including SIMPONI ARIA, to patients who are carriers of HBV.
-Adequate data are not available on whether anti-viral therapy can reduce the risk of HBV reactivation in HBV carriers who are treated with TNF-blockers.
+Adequate data are not available on whether antiviral therapy can reduce the risk of HBV reactivation in HBV carriers who are treated with TNF-blockers.
 Patients who are carriers of HBV and require treatment with TNF-blockers should be closely monitored for clinical and laboratory signs of active HBV infection throughout therapy and for several months following termination of therapy.
 
 In patients who develop HBV reactivation, TNF-blockers should be stopped and antiviral therapy with appropriate supportive treatment should be initiated.
@@ -72,7 +72,7 @@ Approximately half the cases were lymphomas, including Hodgkin's and non-Hodgkin
 The other cases represented a variety of malignancies, including rare malignancies that are usually associated with immunosuppression, and malignancies that are not usually observed in children and adolescents.
 The malignancies occurred after a median of 30 months (range 1 to 84 months) after the first dose of TNF-blocker therapy.
 Most of the patients were receiving concomitant immunosuppressants.
-These cases were reported post-marketing and are derived from a variety of sources, including registries and spontaneous post-marketing reports.
+These cases were reported postmarketing and are derived from a variety of sources, including registries and spontaneous postmarketing reports.
 Use of SIMPONI ARIA in patients under 18 years of age has not been established.
 
 Malignancies in Adult Patients
@@ -81,21 +81,21 @@ The risks and benefits of TNF-blocker treatment including SIMPONI ARIA should be
 
 In the controlled portions of clinical trials of TNF-blockers including the subcutaneous formulation of golimumab more cases of lymphoma have been observed among patients receiving anti-TNF treatment compared with patients in the control groups.
 Patients with RA and other chronic inflammatory diseases, particularly patients with highly active disease and/or chronic exposure to immunosuppressant therapies, may be at higher risk (up to several fold) than the general population for the development of lymphoma, even in the absence of TNF-blocking therapy.
-Cases of acute and chronic leukemia have been reported with post-marketing TNF-blocker use in rheumatoid arthritis and other indications.
+Cases of acute and chronic leukemia have been reported with TNF-blocker use, including SIMPONI ARIA, in rheumatoid arthritis and other indications.
 Even in the absence of TNF-blocker therapy, patients with rheumatoid arthritis may be at a higher risk (approximately 2-fold) than the general population for the development of leukemia.
 
-Rare post-marketing cases of hepatosplenic T-cell lymphoma (HSTCL) have been reported in patients treated with TNF-blocking agents.
+Rare postmarketing cases of hepatosplenic T-cell lymphoma (HSTCL) have been reported in patients treated with TNF-blocking agents.
 This rare type of T-cell lymphoma has a very aggressive disease course and is usually fatal.
 Nearly all of the reported TNF-blocker associated cases have occurred in patients with Crohn's disease or ulcerative colitis.
 The majority were in adolescent and young adult males.
 Almost all these patients had received treatment with azathioprine (AZA) or 6-mercaptopurine (6–MP) concomitantly with a TNF-blocker at or prior to diagnosis.
 A risk for the development for hepatosplenic T-cell lymphoma in patients treated with TNF-blockers cannot be excluded.
 
-Melanoma has been reported in patients treated with TNF-blocking agents, including the subcutaneous formulation of golimumab.
+Melanoma has been reported in patients treated with TNF-blocking agents, including SIMPONI ARIA.
 Merkel cell carcinoma has been reported in patients treated with TNF-blocking agents.
 Periodic skin examination is recommended for all patients, particularly those with risk factors for skin cancer.
 
-In controlled trials of other TNF-blockers in patients at higher risk for malignancies (e.g., patients with COPD, patients with Wegener's granulomatosis treated with concomitant cyclophosphamide) a greater portion of malignancies occurred in the TNF-blocker group compared to the controlled group.
+In controlled trials of other TNF-blockers in patients at higher risk for malignancies (e.g., patients with chronic obstructive pulmonary disease [COPD], patients with Wegener's granulomatosis treated with concomitant cyclophosphamide) a greater portion of malignancies occurred in the TNF-blocker group compared to the controlled group.
 In an exploratory clinical trial evaluating the use of the subcutaneous formulation of golimumab in patients with severe persistent asthma, more patients treated with golimumab reported malignancies compared with control patients.
 The significance of this finding is unknown.
 
@@ -104,6 +104,7 @@ During the controlled portion of the Phase 3 trial in RA for SIMPONI ARIA, the i
 ## 5.3 Congestive Heart Failure
 
 Cases of worsening congestive heart failure (CHF) and new onset CHF have been reported with TNF-blockers, including SIMPONI ARIA.
+Some cases had a fatal outcome.
 In several exploratory trials of other TNF-blockers in the treatment of CHF, there were greater proportions of TNF-blocker treated patients who had CHF exacerbations requiring hospitalization or increased mortality.
 SIMPONI ARIA has not been studied in patients with a history of CHF and SIMPONI ARIA should be used with caution in patients with CHF.
 If a decision is made to administer SIMPONI ARIA to RA patients with CHF, these patients should be closely monitored during therapy, and SIMPONI ARIA should be discontinued if new or worsening symptoms of CHF appear.
@@ -115,27 +116,33 @@ Cases of central demyelination, MS, optic neuritis, and peripheral demyelinating
 Prescribers should exercise caution in considering the use of TNF-blockers, including SIMPONI ARIA, in patients with central or peripheral nervous system demyelinating disorders.
 Discontinuation of SIMPONI ARIA should be considered if these disorders develop.
 
-## 5.5 Use with Abatacept
+## 5.5 Autoimmunity
+
+Treatment with TNF blockers, including SIMPONI ARIA, may result in the formation of antinuclear antibodies (ANA).
+Rarely, treatment with TNF blockers, may result in the development of a lupus-like syndrome [see Adverse Reactions (6.1)].
+If a patient develops symptoms suggestive of a lupus-like syndrome following treatment with SIMPONI ARIA, treatment should be discontinued.
+
+## 5.6 Use with Abatacept
 
 In controlled trials, the concurrent administration of another TNF-blocker and abatacept was associated with a greater proportion of serious infections than the use of a TNF-blocker alone; and the combination therapy, compared to the use of a TNF-blocker alone, has not demonstrated improved clinical benefit in the treatment of RA.
-Therefore, the combination of TNF-blockers including SIMPONI ARIA and abatacept is not recommended [see Drug Interactions (7.2)].
+Therefore, the combination of TNF-blockers, including SIMPONI ARIA, and abatacept is not recommended [see Drug Interactions (7.2)].
 
-## 5.6 Use with Anakinra
+## 5.7 Use with Anakinra
 
-Concurrent administration of anakinra (an interleukin-1 antagonist) and another TNF-blocker, was associated with a greater portion of serious infections and neutropenia and no additional benefits compared with the TNF-blocker alone.
+Concurrent administration of anakinra (an interleukin-1 antagonist) and another TNF-blocker was associated with a greater portion of serious infections and neutropenia and no additional benefits compared with the TNF-blocker alone.
 Therefore, the combination of anakinra with TNF-blockers, including SIMPONI ARIA, is not recommended [see Drug Interactions (7.2)].
 
-## 5.7 Switching Between Biological Disease Modifying Antirheumatic Drugs (DMARDs)
+## 5.8 Switching Between Biological Disease Modifying Antirheumatic Drugs (DMARDs)
 
 Care should be taken when switching from one biologic product to another biologic product since overlapping biological activity may further increase the risk of infection.
 
-## 5.8 Hematologic Cytopenias
+## 5.9 Hematologic Cytopenias
 
-There have been post-marketing reports of pancytopenia, leukopenia, neutropenia, aplastic anemia, and thrombocytopenia in patients receiving TNF-blockers.
+There have been postmarketing reports of pancytopenia, leukopenia, neutropenia, aplastic anemia, and thrombocytopenia in patients receiving TNF-blockers.
 In clinical studies, cases of pancytopenia, leukopenia, neutropenia, and thrombocytopenia have also occurred in SIMPONI ARIA-treated patients.
 Caution should be exercised when using TNF-blockers, including SIMPONI ARIA, in patients who have or have had significant cytopenias.
 
-## 5.9 Vaccinations/Therapeutic Infectious Agents
+## 5.10 Vaccinations/Therapeutic Infectious Agents
 
 Live Vaccines
 
@@ -148,8 +155,8 @@ Therapeutic Infectious Agents
 Other uses of therapeutic infectious agents such as live attenuated bacteria (e.g., BCG bladder instillation for the treatment of cancer) could result in clinical infections, including disseminated infections.
 It is recommended that therapeutic infectious agents not be given concurrently with SIMPONI ARIA.
 
-## 5.10 Hypersensitivity Reactions
+## 5.11 Hypersensitivity Reactions
 
-In post-marketing experience, serious systemic hypersensitivity reactions (including anaphylactic reaction) have been reported following administration of the subcutaneous formulation of golimumab.
+In postmarketing experience, serious systemic hypersensitivity reactions (including anaphylactic reaction) have been reported following administration of the subcutaneous formulation of golimumab.
 Some of these reactions occurred after the first administration of golimumab.
 If an anaphylactic or other serious allergic reaction occurs, administration of SIMPONI ARIA should be discontinued immediately and appropriate therapy instituted.

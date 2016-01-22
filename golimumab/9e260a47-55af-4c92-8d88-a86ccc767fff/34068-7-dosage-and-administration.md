@@ -22,7 +22,7 @@ SIMPONI ARIA solution for intravenous infusion should be diluted by a healthcare
    Each 4 mL vial of SIMPONI ARIA contains 50 mg of golimumab.
 2. Check that the solution in each vial is colorless to light yellow.
    The solution may develop a few fine translucent particles, as golimumab is a protein.
-   Do not use if opaque particles, discoloration or other foreign particles are present.
+   Do not use if opaque particles, discoloration, or other foreign particles are present.
 3. Dilute the total volume of the SIMPONI ARIA solution with 0.9% w/v sodium chloride for infusion to a final volume of 100 mL.
    For example, this can be accomplished by withdrawing a volume of the 0.9% w/v sodium chloride solution from the 100-mL infusion bag or bottle equal to the total volume of SIMPONI ARIA.
    Slowly add the total volume of SIMPONI ARIA solution to the 100-mL infusion bag or bottle.
