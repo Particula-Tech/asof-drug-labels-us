@@ -59,7 +59,7 @@ However, use of lorazepam for prolonged periods and in geriatric patients requir
 
 Safety and effectiveness of lorazepam in children of less than 12 years have not been established.
 
-## Information for Patients
+Information for Patients
 
 To assure the safe and effective use of lorazepam, patients should be informed that, since benzodiazepines may produce psychological and physical dependence, it is advisable that they consult with their physician before either increasing the dose or abruptly discontinuing this drug.
 
