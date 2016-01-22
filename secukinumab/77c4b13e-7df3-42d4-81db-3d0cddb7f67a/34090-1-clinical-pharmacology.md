@@ -14,7 +14,11 @@ Serum levels of total IL-17A (free and secukinumab-bound IL-17A) measured at Wee
 These pharmacodynamic activities are based on small exploratory studies.
 The relationship between these pharmacodynamic activities and the mechanism(s) by which secukinumab exerts its clinical effects is unknown.
 
+Increased numbers of IL-17A producing lymphocytes and innate immune cells and increased levels of IL-17A have been found in the blood of patients with psoriatic arthritis and ankylosing spondylitis.
+
 ## 12.3 Pharmacokinetics
+
+The PK properties of secukinumab observed in psoriatic arthritis and ankylosing spondylitis patients were similar to the PK properties displayed in plaque psoriasis patients.
 
 Absorption
 
@@ -59,5 +63,5 @@ No formal trial of the effect of hepatic or renal impairment on the pharmacokine
 
 Age: Geriatric Population:
 
-Population pharmacokinetic analysis indicated that the clearance of secukinumab was not significantly influenced by age in adult subjects with plaque psoriasis.
+Population pharmacokinetic analysis indicated that the clearance of secukinumab was not significantly influenced by age in adult subjects with plaque psoriasis, psoriatic arthritis and ankylosing spondylitis.
 Subjects who are 65 years or older had apparent clearance of secukinumab similar to subjects less than 65 years old.

@@ -3,8 +3,9 @@
 ## 5.1 Infections
 
 COSENTYX may increase the risk of infections.
-In clinical trials, a higher rate of infections was observed in COSENTYX-treated subjects compared to placebo-treated subjects.
-In placebo-controlled clinical trials, higher rates of common infections such as nasopharyngitis (11.4% versus 8.6%), upper respiratory tract infection (2.5% versus 0.7%) and mucocutaneous infections with candida (1.2% versus 0.3%) were observed with COSENTYX compared with placebo.
+In clinical trials, a higher rate of infections was observed in COSENTYX treated subjects compared to placebo-treated subjects.
+In placebo-controlled clinical trials in patients with moderate to severe plaque psoriasis, higher rates of common infections such as nasopharyngitis (11.4% versus 8.6%), upper respiratory tract infection (2.5% versus 0.7%) and mucocutaneous infections with candida (1.2% versus 0.3%) were observed with COSENTYX compared with placebo.
+A similar increase in risk of infection was seen in placebo-controlled trials in patients with psoriatic arthritis and ankylosing spondylitis [see Adverse Reactions (6.1)].
 The incidence of some types of infections appeared to be dose-dependent in clinical studies [see Adverse Reactions (6.1)].
 
 Exercise caution when considering the use of COSENTYX in patients with a chronic infection or a history of recurrent infection.
@@ -20,14 +21,17 @@ Initiate treatment of latent TB prior to administering COSENTYX.
 Consider anti-TB therapy prior to initiation of COSENTYX in patients with a past history of latent or active TB in whom an adequate course of treatment cannot be confirmed.
 Patients receiving COSENTYX should be monitored closely for signs and symptoms of active TB during and after treatment.
 
-## 5.3 Exacerbations of Crohn’s Disease
+## 5.3 Inflammatory Bowel Disease
 
-Exercise caution when prescribing COSENTYX to patients with active Crohn’s disease, as exacerbations of Crohn’s disease, in some cases serious, were observed in COSENTYX-treated patients during clinical trials.
-Patients who are treated with COSENTYX and have active Crohn’s disease should be monitored closely [see Adverse Reactions (6.1)].
+Caution should be used when prescribing COSENTYX to patients with inflammatory bowel disease.
+Exacerbations, in some cases serious, occurred in COSENTYX treated patients during clinical trials in plaque psoriasis, psoriatic arthritis and ankylosing spondylitis.
+In addition, new onset inflammatory bowel disease cases occurred in clinical trials with COSENTYX.
+In an exploratory study in 59 patients with active Crohn’s disease, there were trends toward greater disease activity and increased adverse events in the secukinumab group as compared to the placebo group.
+Patients who are treated with COSENTYX should be monitored for signs and symptoms of inflammatory bowel disease [see Adverse Reactions (6.1)].
 
 ## 5.4 Hypersensitivity Reactions
 
-Anaphylaxis and cases of urticaria occurred in COSENTYX-treated patients in the clinical trials.
+Anaphylaxis and cases of urticaria occurred in COSENTYX treated patients in clinical trials.
 If an anaphylactic or other serious allergic reaction occurs, administration of COSENTYX should be discontinued immediately and appropriate therapy initiated [see Adverse Reactions (6.1)].
 
 ## 5.5 Risk of Hypersensitivity in Latex-sensitive Individuals

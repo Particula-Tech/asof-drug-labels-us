@@ -3,12 +3,14 @@
 The following adverse reactions are discussed in greater detail elsewhere in the labeling:
 
 - Infections [see Warnings and Precautions (5.1)]
-- Exacerbations of Crohn’s Disease [see Warnings and Precautions (5.3)]
+- Inflammatory Bowel Disease [see Warnings and Precautions (5.3)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+Plaque Psoriasis
 
 A total of 3430 plaque psoriasis subjects were treated with COSENTYX in controlled and uncontrolled clinical trials.
 Of these, 1641 subjects were exposed for at least 1 year.
@@ -32,7 +34,7 @@ Table 1 Adverse Reactions Reported by Greater Than 1% of Subjects with Plaque Ps
 | Urticaria | 4 (0.6) | 8 (1.2) | 1 (0.1) |
 | Rhinorrhea | 8 (1.2) | 2 (0.3) | 1 (0.1) |
 
-Adverse reactions that occurred at rates less than 1% in the placebo-controlled period of Trials 1, 2, 3, and 4 through Week 12 included: sinusitis, tinea pedis, conjunctivitis, tonsillitis, oral candidiasis, impetigo, otitis media, otitis externa, inflammatory bowel disease, increased liver transaminases and neutropenia.
+Adverse reactions that occurred at rates less than 1% in the placebo-controlled period of Trials 1, 2, 3, and 4 through Week 12 included: sinusitis, tinea pedis, conjunctivitis, tonsillitis, oral candidiasis, impetigo, otitis media, otitis externa, inflammatory bowel disease, increased liver transaminases, and neutropenia.
 
 Infections
 
@@ -49,14 +51,44 @@ Neutropenia was observed in clinical trials.
 Most cases of secukinumab-associated neutropenia were transient and reversible.
 No serious infections were associated with cases of neutropenia.
 
-Exacerbation of Crohn’s Disease
+Inflammatory Bowel Disease
 
-Exacerbations of Crohn’s disease, in some cases serious, were observed in clinical trials in both COSENTYX and placebo treated patients.
-In the psoriasis program, with 3430 patients exposed to COSENTYX there were 3 cases of exacerbation of Crohn’s disease [see Warnings and Precautions (5.3)].
+Cases of inflammatory bowel disease, in some cases serious, were observed in clinical trials with COSENTYX.
+In the plaque psoriasis program, with 3430 patients exposed to COSENTYX over the entire treatment period for up to 52 weeks (2,725 patient-years), there were 3 cases (0.11 per 100 patient-years) of exacerbation of Crohn’s disease, 2 cases (0.08 per 100 patient-years) of exacerbation of ulcerative colitis, and 2 cases (0.08 per 100 patient-years) of new onset ulcerative colitis.
+There were no cases in placebo patients (N=793; 176 patient-years) during the 12 week placebo-controlled period.
+
+One case of exacerbation of Crohn’s disease was reported from long-term non-controlled portions of ongoing clinical trials in plaque psoriasis [see Warnings and Precautions (5.3)].
 
 Hypersensitivity Reactions
 
-Anaphylaxis and cases of urticaria occurred in COSENTYX-treated patients in clinical trials [see Warnings and Precautions (5.4)].
+Anaphylaxis and cases of urticaria occurred in COSENTYX treated patients in clinical trials [see Warnings and Precautions (5.4)].
+
+Psoriatic Arthritis
+
+COSENTYX was studied in two placebo controlled psoriatic arthritis trials with 1003 patients (703 patients on COSENTYX and 300 patients on placebo).
+Of the 703 patients who received COSENTYX, 299 patients received a subcutaneous loading dose of COSENTYX (PsA1) and 404 patients received an intravenous loading dose of secukinumab (PsA2) followed by COSENTYX administered by subcutaneous injection every four weeks.
+During the 16-week placebo-controlled period of the trials in patients with psoriatic arthritis, the overall proportion of patients with adverse events was similar in the secukinumab and placebo-treatment groups (59% and 58%, respectively).
+The adverse events that occurred at a proportion of at least 2% and at a higher proportion in the COSENTYX groups than the placebo groups during the 16-week placebo-controlled period were nasopharyngitis, upper respiratory tract infection, headache, nausea, and hypercholesterolemia.
+The safety profile observed in patients with psoriatic arthritis treated with COSENTYX is consistent with the safety profile in psoriasis.
+
+Similar to the clinical trials in patients with psoriasis, there was an increased proportion of patients with infections in the COSENTYX groups (29%) compared to placebo group (26%) [see Warnings and Precautions (5.1)].
+
+There were cases of Crohn’s disease and ulcerative colitis that include patients who experienced either exacerbations or the development of new disease.
+There were three cases of inflammatory bowel disease, of which two patients received secukinumab and one received placebo [see Warnings and Precautions (5.3)].
+
+Ankylosing Spondylitis
+
+COSENTYX was studied in two placebo controlled ankylosing spondylitis trials with 590 patients (394 patients on COSENTYX and 196 patients on placebo).
+Of the 394 patients who received COSENTYX, 145 patients received a subcutaneous load of COSENTYX (study AS1) and 249 received an intravenous loading dose of secukinumab (study AS2) followed by COSENTYX administered by subcutaneous injection every four weeks.
+During the 16-week placebo-controlled period of the trials in patients with ankylosing spondylitis, the overall proportion of patients with adverse events was higher in the secukinumab groups than the placebo-treatment groups (66% and 59%, respectively).
+The adverse events that occurred at a proportion of at least 2% and at a higher proportion in the COSENTYX groups than the placebo groups during the 16-week placebo-controlled period were nasopharyngitis, nausea, and upper respiratory tract infection.
+The safety profile observed in patients with ankylosing spondylitis treated with COSENTYX is consistent with the safety profile in psoriasis.
+
+Similar to clinical trials in patients with psoriasis, there was an increased proportion of patients with infections in the COSENTYX groups (31%) compared to the placebo group (18%) [see Warnings and Precautions (5.1)].
+
+In the ankylosing spondylitis program, with 571 patients exposed to COSENTYX there were 8 cases of inflammatory bowel disease during the entire treatment period (5 Crohn’s (0.7 per 100 patient-years) and 3 ulcerative colitis (0.4 per 100 patient-years)).
+During the placebo-controlled 16-week period, there were 2 Crohn’s disease exacerbations and 1 new onset ulcerative colitis case that was a serious adverse event in patients treated with COSENTYX compared to none of the patients treated with placebo.
+During the remainder of the study when all patients received COSENTYX, 1 patient developed Crohn’s disease, 2 patients had Crohn’s exacerbations, 1 patient developed ulcerative colitis, and 1 patient had an ulcerative colitis exacerbation [see Warnings and Precautions (5.3)].
 
 ## 6.2 Immunogenicity
 

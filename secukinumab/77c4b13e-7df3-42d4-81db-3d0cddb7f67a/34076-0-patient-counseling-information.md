@@ -30,4 +30,4 @@ Manufactured by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 0
 
 © Novartis
 
-T2015-07 January 2015
+T2016-01 January 2016

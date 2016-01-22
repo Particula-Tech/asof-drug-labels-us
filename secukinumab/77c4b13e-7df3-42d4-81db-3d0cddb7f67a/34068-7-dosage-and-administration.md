@@ -1,13 +1,38 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Recommended Dosage
+## 2.1 Plaque Psoriasis
 
-The recommended dose is 300 mg by subcutaneous injection at Weeks 0, 1, 2, 3, and 4 followed by 300 mg every 4 weeks.
-Each 300 mg dose is given as 2 subcutaneous injections of 150 mg.
+The recommended dosage is 300 mg by subcutaneous injection at Weeks 0, 1, 2, 3, and 4 followed by 300 mg every 4 weeks.
+Each 300 mg dosage is given as 2 subcutaneous injections of 150 mg.
 
-For some patients, a dose of 150 mg may be acceptable.
+For some patients, a dosage of 150 mg may be acceptable.
 
-## 2.2 Important Administration Instructions
+## 2.2 Psoriatic Arthritis
+
+For psoriatic arthritis patients with coexistent moderate to severe plaque psoriasis, use the dosing and administration recommendations for plaque psoriasis [see Dosage and Administration (2.1)].
+
+For other psoriatic arthritis patients, administer COSENTYX with or without a loading dosage by subcutaneous injection.
+The recommended dosage:
+
+- With a loading dosage is 150 mg at weeks 0, 1, 2, 3, and 4 and every 4 weeks thereafter
+- Without a loading dosage is 150 mg every 4 weeks
+- If a patient continues to have active psoriatic arthritis, consider a dosage of 300 mg.
+
+COSENTYX may be administered with or without methotrexate.
+
+## 2.3 Ankylosing Spondylitis
+
+Administer COSENTYX with or without a loading dosage by subcutaneous injection.
+The recommended dosage:
+
+- With a loading dosage is 150 mg at weeks 0, 1, 2, 3, and 4 and every 4 weeks thereafter
+- Without a loading dosage is 150 mg every 4 weeks
+
+## 2.4 Assessment Prior to Initiation of COSENTYX
+
+Evaluate patients for tuberculosis (TB) infection prior to initiating treatment with COSENTYX [see Warnings and Precautions (5.2)].
+
+## 2.5 Important Administration Instructions
 
 There are three presentations for COSENTYX (i.e., Sensoready pen, prefilled syringe, and lyophilized powder in vial for reconstitution).
 The COSENTYX “Instructions for Use” for each presentation contains more detailed instructions on the preparation and administration of COSENTYX [see Instructions for Use].
@@ -15,10 +40,10 @@ The COSENTYX “Instructions for Use” for each presentation contains more deta
 COSENTYX is intended for use under the guidance and supervision of a physician.
 Patients may self-inject after proper training in subcutaneous injection technique using the Sensoready pen or prefilled syringe and when deemed appropriate.
 The lyophilized powder for reconstitution is for healthcare provider use only.
-Administer each injection at a different anatomic location (such as upper arms, thighs or any quadrant of abdomen) than the previous injection, and not into areas where the skin is tender, bruised, erythematous, indurated or affected by psoriasis.
+Administer each injection at a different anatomic location (such as upper arms, thighs, or any quadrant of abdomen) than the previous injection, and not into areas where the skin is tender, bruised, erythematous, indurated, or affected by psoriasis.
 Administration of COSENTYX in the upper, outer arm may be performed by a caregiver or healthcare provider.
 
-## 2.3 Preparation for Use of COSENTYX Sensoready® Pen and Prefilled Syringe
+## 2.6 Preparation for Use of COSENTYX Sensoready® Pen and Prefilled Syringe
 
 Before injection, remove COSENTYX Sensoready pen or COSENTYX prefilled syringe from the refrigerator and allow COSENTYX to reach room temperature (15 to 30 minutes) without removing the needle cap.
 
@@ -30,7 +55,7 @@ Do not use if the liquid contains visible particles, is discolored or cloudy.
 COSENTYX does not contain preservatives; therefore, administer the Sensoready pen or prefilled syringe within 1 hour after removal from the refrigerator.
 Discard any unused product remaining in the Sensoready pen or prefilled syringe.
 
-## 2.4 Reconstitution and Preparation of COSENTYX Lyophilized Powder
+## 2.7 Reconstitution and Preparation of COSENTYX Lyophilized Powder
 
 COSENTYX lyophilized powder should be prepared and reconstituted with Sterile Water for Injection by a trained healthcare provider using aseptic technique and without interruption.
 The preparation time from piercing the stopper until end of reconstitution on average takes 20 minutes and should not exceed 90 minutes.
