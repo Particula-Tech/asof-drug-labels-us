@@ -1,0 +1,47 @@
+# 7 DRUG INTERACTIONS
+
+## 7.1 Agents Increasing Serum Potassium
+
+Co-administration of telmisartan with other drugs that raise serum potassium levels may result hyperkalemia.
+Monitor serum potassium in such patients.
+
+## 7.2 Lithium
+
+Increases in serum lithium concentrations and lithium toxicity have been reported with concomitant use of thiazide diuretics or angiotensin II receptor antagonists, including telmisartan.
+Monitor lithium levels in patients receiving MICARDIS HCT and lithium.
+
+## 7.3 Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors
+
+Telmisartan Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors): In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with ARBs, including telmisartan, may result in deterioration of renal function, including possible acute renal failure.
+These effects are usually reversible.
+The antihypertensive effect of ARBs may be attenuated by NSAIDs.
+Therefore, monitor renal function and blood pressure periodically in patients receiving MICARDIS HCT and NSAIDs.
+
+Hydrochlorothiazide Administration of a non-steroidal anti-inflammatory agent, including a selective COX‑2 inhibitor, can reduce the diuretic, natriuretic, and antihypertensive effects of diuretics.
+Therefore, when MICARDIS HCT and non-steroidal anti-inflammatory agents including selective COX‑2 inhibitors are used concomitantly, observe closely to determine if the desired effect of the diuretic is obtained.
+
+## 7.4 Dual Blockade of the Renin-Angiotensin-Aldosterone System and Changes in Renal Function
+
+Dual blockade of the renin-angiotensin-aldosterone system with angiotensin blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and renal impairment.
+The ONTARGET trial enrolled 25,620 patients ≥55 years old with atherosclerotic disease or diabetes with end-organ damage, randomizing them to telmisartan (ARB) only, ramipril (ACE inhibitor) only, or the combination, and followed them for a median of 56 months.
+Patients who received the combination of ARB and ACE inhibitor did not obtain any additional benefit (no additional reduction of risk of cardiovascular death, myocardial infarction, stroke, or hospitalization from heart failure) compared to ARB monotherapy or ACE inhibitor monotherapy, but experienced an increased incidence of renal dysfunction (e.g., acute renal failure) compared with monotherapy groups.
+
+In general, avoid combined use of RAS inhibitors.
+Closely monitor blood pressure, renal function and electrolytes in patients on MICARDIS HCT and other agents that affect the RAS (e.g., concomitant use of an ACE inhibitor with an ARB).
+
+Do not co-administer aliskiren with MICARDIS HCT in patients with diabetes.
+Avoid concomitant use of aliskiren with MICARDIS HCT in patients with renal impairment (GFR <60 mL/min/1.73 m2).
+
+## 7.5 Digoxin
+
+When telmisartan was co-administered with digoxin, median increases in digoxin peak plasma concentration (49%) and in trough concentration (20%) were observed.
+Monitor digoxin levels in patients taking concomitant MICARDIS HCT and digoxin.
+
+## 7.6 Antidiabetic Drugs (Oral Agents and Insulin)
+
+Dosage adjustment of antidiabetic drugs may be required when coadministered with hydrochlorothiazide.
+
+## 7.7 Cholestyramine and Colestipol Resins
+
+Absorption of hydrochlorothiazide is impaired in the presence of anionic exchange resins.
+Stagger the dosage of hydrochlorothiazide and the resin such that hydrochlorothiazide is administered at least 4 hours before or 4 to 6 hours after the administration of the resin.
