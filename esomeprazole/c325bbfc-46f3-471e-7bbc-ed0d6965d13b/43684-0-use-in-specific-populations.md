@@ -79,7 +79,7 @@ Increases in death were seen at the high dose, and at all doses of esomeprazole,
 
 ## 8.5 Geriatric Use
 
-Of the total number of patients who received oral NEXIUM in clinical trials, 1,459 were 65 to 74 years of age and 354 patients were ≥ 75 years of age.
+Of the total number of patients who received oral NEXIUM in clinical trials, 1,459 were 65 to 74 years of age and 354 patients were ≥75 years of age.
 
 No overall differences in safety and efficacy were observed between the elderly and younger individuals, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 

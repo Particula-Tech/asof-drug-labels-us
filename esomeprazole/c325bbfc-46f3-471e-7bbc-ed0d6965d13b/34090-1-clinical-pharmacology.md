@@ -25,10 +25,10 @@ Table 4 Effect of NEXIUM I.V. for Injection on Intragastric pH on Day 5
 
 Gastric pH was measured over a 24-hour period
 
-In a study in H. pylori negative healthy Caucasian volunteers (n=24), the % time over 24 hours (95 % CI) when intragastric pH was > 6 and > 7 was 52.3 % (40.3 – 64.4) and 4.8 % (1.8 – 7.8), respectively during administration of esomeprazole as an intravenous infusion of 80 mg over 30 minutes followed by a continuous infusion of 8 mg/h for 23.5 hours.
+In a study in H. pylori negative healthy Caucasian volunteers (n=24), the % time over 24 hours (95 % CI) when intragastric pH was >6 and >7 was 52.3 % (40.3 – 64.4) and 4.8 % (1.8 – 7.8), respectively during administration of esomeprazole as an intravenous infusion of 80 mg over 30 minutes followed by a continuous infusion of 8 mg/h for 23.5 hours.
 
-In a study in H. pylori positive and H. pylori negative healthy Chinese subjects (overall n=19), the % time over 24 hours (95 % CI) when intragastric pH was > 6 and > 7 was 53 % (45.6 – 60.3) and 15.1 % (9.5 – 20.7) in the overall study population during administration of esomeprazole as an intravenous infusion of 80 mg over 30 minutes followed by a continuous infusion of 8 mg/h for 23.5 hours.
-When comparing H. pylori positive (n=8) vs. negative (n=11) subjects, the percentage of time in a 24 h period with intragastric pH > 6 [59 % vs. 47 %] and with pH > 7 [17 % vs. 11 %] tended to be larger in the H. pylori positive subjects.
+In a study in H. pylori positive and H. pylori negative healthy Chinese subjects (overall n=19), the % time over 24 hours (95 % CI) when intragastric pH was >6 and >7 was 53 % (45.6 – 60.3) and 15.1 % (9.5 – 20.7) in the overall study population during administration of esomeprazole as an intravenous infusion of 80 mg over 30 minutes followed by a continuous infusion of 8 mg/h for 23.5 hours.
+When comparing H. pylori positive (n=8) vs. negative (n=11) subjects, the percentage of time in a 24 h period with intragastric pH >6 [59 % vs. 47 %] and with pH >7 [17 % vs. 11 %] tended to be larger in the H. pylori positive subjects.
 
 Serum Gastrin Effects
 
@@ -44,7 +44,7 @@ Enterochromaffin-like (ECL) Cell Effects
 
 There are no data available on the effects of intravenous esomeprazole on ECL cells.
 
-In 24-month carcinogenicity studies of oral omeprazole in rats, a dose-related significant occurrence of gastric ECL cell carcinoid tumors and ECL cell hyperplasia was observed in both male and female animals [seeNonclinical Toxicology, (13.1)].
+In 24-month carcinogenicity studies of oral omeprazole in rats, a dose-related significant occurrence of gastric ECL cell carcinoid tumors and ECL cell hyperplasia was observed in both male and female animals [seeNonclinical Toxicology (13.1)].
 Carcinoid tumors have also been observed in rats subjected to fundectomy or long-term treatment with other proton pump inhibitors or high doses of H2-receptor antagonists.
 
 Human gastric biopsy specimens have been obtained from more than 3,000 patients (both children and adults) treated orally with omeprazole in long-term clinical trials.

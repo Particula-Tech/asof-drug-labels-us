@@ -36,8 +36,8 @@ Dose should be infused over 10 minutes to 30 minutes.
 
 1 year to 17 years:
 
-- Body weight less than 55 kg: 10 mg
-- Body weight 55 kg or greater: 20 mg
+1. Body weight less than 55 kg: 10 mg
+2. Body weight 55 kg or greater: 20 mg
 
 1 month to less than 1 year of age: 0.5 mg/kg
 
@@ -49,7 +49,7 @@ Intravenous therapy should be followed by oral acid-suppressive therapy.
 
 For patients with liver impairment, no dosage adjustment of the initial esomeprazole 80 mg infusion is necessary.
 For patients with mild to moderate liver impairment (Child Pugh Classes A and B), a maximum continuous infusion of esomeprazole 6 mg/h should not be exceeded.
-For patients with severe liver impairment (Child Pugh Class C), a maximum continuous infusion of 4 mg/h should not be exceeded [seeUse in Specific Populations (8.6), Clinical Pharmacology (12.3)].
+For patients with severe liver impairment (Child Pugh Class C), a maximum continuous infusion of 4 mg/h should not be exceeded [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
 ## 2.3 Preparation and Administration Instructions
 
@@ -65,17 +65,17 @@ Preparation Instructions for Adult Patients
 
 Intravenous Injection (20 mg or 40 mg vial) over no less than 3 minutes
 
-- The freeze-dried powder should be reconstituted with 5 mL of 0.9% Sodium Chloride Injection, USP.
-- Withdraw 5 mL of the reconstituted solution and administer as an intravenous injection over no less than 3 minutes.
+1. The freeze-dried powder should be reconstituted with 5 mL of 0.9% Sodium Chloride Injection, USP.
+2. Withdraw 5 mL of the reconstituted solution and administer as an intravenous injection over no less than 3 minutes.
 
 Preparation Instructions for Pediatric Patients
 
 Intravenous Infusion (20 mg or 40 mg) over 10 minutes to 30 minutes
 
-- A solution for intravenous infusion is prepared by first reconstituting the contents of one vial* with 5 mL of 0.9% Sodium Chloride Injection, USP, Lactated Ringer’s Injection, USP or 5% Dextrose Injection, USP and further diluting the resulting solution to a final volume of 50 mL.
-  The resultant concentration after diluting to a final volume of 50 mL is 0.8 mg/mL (for 40 mg vial) and 0.4 mg/mL (for 20 mg vial).
-  The solution (admixture) should be administered as an intravenous infusion over a period of 10 minutes to 30 minutes.
-- *For patients 1 month to less than 1 year of age, first calculate the dose (0.5 mg/kg) to determine the vial size needed.
+1. A solution for intravenous infusion is prepared by first reconstituting the contents of one vial* with 5 mL of 0.9% Sodium Chloride Injection, USP, Lactated Ringer’s Injection, USP or 5% Dextrose Injection, USP and further diluting the resulting solution to a final volume of 50 mL.
+   The resultant concentration after diluting to a final volume of 50 mL is 0.8 mg/mL (for 40 mg vial) and 0.4 mg/mL (for 20 mg vial).
+   The solution (admixture) should be administered as an intravenous infusion over a period of 10 minutes to 30 minutes.
+2. *For patients 1 month to less than 1 year of age, first calculate the dose (0.5 mg/kg) to determine the vial size needed.
 
 Risk Reduction of Rebleeding of Gastric or Duodenal Ulcers in Adults
 

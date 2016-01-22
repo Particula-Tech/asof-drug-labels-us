@@ -12,7 +12,7 @@ Atrophic gastritis has been noted occasionally in gastric corpus biopsies from p
 
 Acute interstitial nephritis has been observed in patients taking PPIs including NEXIUM I.V..
 Acute interstitial nephritis may occur at any point during PPI therapy and is generally attributed to an idiopathic hypersensitivity reaction.
-Discontinue NEXIUM I.V. if acute interstitial nephritis develops [seeContraindications (4)].
+Discontinue NEXIUM I.V. if acute interstitial nephritis develops [see Contraindications (4)].
 
 ## 5.4 Clostridium difficile Associated Diarrhea
 

@@ -14,7 +14,7 @@ AstraZeneca LP
 
 Wilmington, DE 19850
 
-© AstraZeneca 2014
+© AstraZeneca 2016
 
 Rev.
-12/2014
+01/2016

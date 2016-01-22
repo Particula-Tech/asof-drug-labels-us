@@ -61,7 +61,7 @@ Co-administration of digoxin with NEXIUM I.V. is expected to increase the system
 Therefore, patients may need to be monitored when digoxin is taken concomitantly with NEXIUM I.V.
 
 Co-administration of omeprazole in healthy subjects and in transplant patients receiving MMF has been reported to reduce the exposure to the active metabolite, mycophenolic acid (MPA), possibly due to a decrease in MMF solubility at an increased gastric pH.
-The clinical relevance of reduced MPA exposure on organ rejection has not been established in transplant patients receiving NEXIUM I.V.and MMF.
+The clinical relevance of reduced MPA exposure on organ rejection has not been established in transplant patients receiving NEXIUM I.V. and MMF.
 Use NEXIUM I.V. with caution in transplant patients receiving MMF [seeClinical Pharmacology (12.3)].
 
 ## 7.1 Interactions with Investigations of Neuroendocrine Tumors
