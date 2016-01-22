@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA202880"
+  ],
+  "inn": "hydrocodone",
+  "labeler": "Pernix Therapeutics",
+  "package_ndcs": [
+    "65224-310-60",
+    "65224-315-60",
+    "65224-320-60",
+    "65224-330-60",
+    "65224-340-60",
+    "65224-350-60"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "hydrocodone bitartrate",
+      "name": "ZOHYDRO ER"
+    }
+  ],
+  "setid": "1b89a045-d552-40b6-a717-09858b5e6239",
+  "source": "dailymed"
+}
