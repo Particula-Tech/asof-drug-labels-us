@@ -9,13 +9,15 @@ AVITA® (tretinoin gel) Gel, 0.025% is supplied as:
 
 ## Storage Conditions
 
+Keep this and all medications out of the reach of children
+
 Store below 30°C (86°F).
 Avoid freezing.
 
 Rx Only
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED JUNE 2011 022.5 Patent #’s: 5,700,483 and 5,650,171
+REVISED NOVEMBER 2013 022.6 Patent #’s: 5,650,171
 
 Remove this portion before dispensing

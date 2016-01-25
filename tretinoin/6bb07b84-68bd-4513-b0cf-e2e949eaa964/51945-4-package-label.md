@@ -10,17 +10,21 @@ For Topical Use Only
 
 Rx only
 
+Contains: Tretinoin 0.025% in a gel vehicle of butylated hydroxytoluene, hydroxypropyl cellulose, polyolprepolymer-2, ethanol (denatured with tertbutyl alcohol and brucine sulfate) 83% w/w.
+
 Usual Dosage: See accompanying package insert for full prescribing information.
+
+Keep this and all medications out of the reach of children.
 
 Store below 30°C (86°F).
 Avoid freezing.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505
-
 See end flap for lot number and expiration date.
 
-Contains: Tretinoin 0.025% in a gel vehicle of butylated hydroxytoluene, hydroxypropyl cellulose, polyolprepolymer-2, ethanol (denatured with tertbutyl alcohol and brucine sulfate) 83% w/w.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-552.2
+Mylan.com
 
-Patent #'s: 5,700,483 and 5,650,171
+552.3
+
+Patent #'s: 5,650,171
