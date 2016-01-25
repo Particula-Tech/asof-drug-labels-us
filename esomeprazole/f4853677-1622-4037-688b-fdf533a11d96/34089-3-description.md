@@ -6,8 +6,6 @@ Esomeprazole is the S-isomer of omeprazole, which is a mixture of the S- and R- 
 Its molecular formula is (C17H18N3O3S)2Mg x 3 H2O with molecular weight of 767.2 as a trihydrate and 713.1 on an anhydrous basis.
 The structural formula is:
 
-Figure 1
-
 The magnesium salt is a white to slightly colored crystalline powder.
 It contains 3 moles of water of solvation and is slightly soluble in water.
 The stability of esomeprazole magnesium is a function of pH; it rapidly degrades in acidic media, but it has acceptable stability under alkaline conditions.

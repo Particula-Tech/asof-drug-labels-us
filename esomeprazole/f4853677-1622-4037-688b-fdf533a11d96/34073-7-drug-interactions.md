@@ -58,7 +58,7 @@ Clopidogrel
 Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
 Concomitant use of esomeprazole 40 mg results in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition.
 Avoid concomitant administration of NEXIUM with clopidogrel.
-When using NEXIUM, consider use of alternative anti-platelet therapy [see Pharmacokinetics (12.3)].
+When using NEXIUM, consider use of alternative anti-platelet therapy [seePharmacokinetics (12.3)].
 
 Omeprazole acts as an inhibitor of CYP2C19.
 Omeprazole, given in doses of 40 mg daily for one week to 20 healthy subjects in cross-over study, increased Cmax and AUC of cilostazol by 18% and 26% respectively.
@@ -77,7 +77,7 @@ Avoid concomitant use of St. John’s Wort or rifampin with NEXIUM.
 
 ## 7.4 Interactions With Investigations of Neuroendocrine Tumors
 
-Drug-induced decrease in gastric acidity results in enterochromaffin-like cell hyperplasia and increased Chromogranin A levels which may interfere with investigations for neuroendocrine tumors [seeWarnings and Precautions (5.7)andClinical Pharmacology (12.2)].
+Drug-induced decrease in gastric acidity results in enterochromaffin-like cell hyperplasia and increased Chromogranin A levels which may interfere with investigations for neuroendocrine tumors [see Warnings and Precautions (5.7)and Clinical Pharmacology (12.2)].
 
 ## 7.5 Tacrolimus
 
@@ -85,7 +85,7 @@ Concomitant administration of esomeprazole and tacrolimus may increase the serum
 
 ## 7.6 Combination Therapy with Clarithromycin
 
-Co-administration of esomeprazole, clarithromycin, and amoxicillin has resulted in increases in the plasma levels of esomeprazole and 14-hydroxyclarithromycin [seeClinical Pharmacology (12.4)].
+Co-administration of esomeprazole, clarithromycin, and amoxicillin has resulted in increases in the plasma levels of esomeprazole and 14-hydroxyclarithromycin [see Clinical Pharmacology (12.4)].
 
 Concomitant administration of clarithromycin with other drugs can lead to serious adverse reactions due to drug interactions [see Warnings and Precautions in prescribing information for clarithromycin].
 Because of these drug interactions, clarithromycin is contraindicated for co-administration with certain drugs [see Contraindications in prescribing information for clarithromycin].
@@ -93,4 +93,4 @@ Because of these drug interactions, clarithromycin is contraindicated for co-adm
 ## 7.7 Methotrexate
 
 Case reports, published population pharmacokinetic studies, and retrospective analyses suggest that concomitant administration of PPIs and methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite hydroxymethotrexate.
-However, no formal drug interaction studies of methotrexate with PPIs have been conducted [seeWarnings and Precautions (5.8)].
+However, no formal drug interaction studies of methotrexate with PPIs have been conducted [see Warnings and Precautions (5.8)].

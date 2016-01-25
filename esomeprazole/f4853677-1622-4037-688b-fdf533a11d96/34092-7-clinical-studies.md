@@ -9,7 +9,7 @@ Table 9: Erosive Esophagitis Healing Rate (Life-Table Analysis)
 
 | Study | No. of Patients | Treatment Groups | Week 4 | Week 8 | Significance Levellog-rank test vs. omeprazole 20 mg |
 | --- | --- | --- | --- | --- | --- |
-| 1 | 588 | NEXIUM 20 mg | 68.7% | 90.6% | N.S.N.S. = not significant (p > 0.05) |
+| 1 | 588 | NEXIUM 20 mg | 68.7% | 90.6% | N.S. |
 |  | 588 | Omeprazole 20 mg | 69.5% | 88.3% |  |
 | 2 | 654 | NEXIUM 40 mg | 75.9% | 94.1% | p < 0.001 |
 |  | 656 | NEXIUM 20 mg | 70.5% | 89.9% | p < 0.05 |
@@ -23,10 +23,10 @@ In these same studies of patients with erosive esophagitis, sustained heartburn 
 
 Table 10: Sustained ResolutionDefined as 7 consecutive days with no heartburn reported in daily patient diary. of Heartburn (Erosive Esophagitis Patients)
 
-|  |  |  | Cumulative PercentDefined as the cumulative proportion of patients who have reached the start of sustained resolution with Sustained Resolution |  |  |
+|  |  |  | Cumulative PercentDefined as the cumulative proportion of patients who have reached the start of sustained resolution. with Sustained Resolution |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Study | No. of Patients | Treatment Groups | Day 14 | Day 28 | Significance Level log-rank test vs. omeprazole 20 mg |
-| 1 | 573 | NEXIUM 20 mg | 64.3% | 72.7% | N.S.N.S. = not significant (p > 0.05) |
+| 1 | 573 | NEXIUM 20 mg | 64.3% | 72.7% | N.S. |
 |  | 555 | Omeprazole 20 mg | 64.1% | 70.9% |  |
 | 2 | 621 | NEXIUM 40 mg | 64.8% | 74.2% | p <0.001 |
 |  | 620 | NEXIUM 20 mg | 62.9% | 70.1% | N.S. |
@@ -130,9 +130,9 @@ Table 12: H. pylori Eradication Rates at 4 Weeks after 10 Day Treatment Regimen 
 
 | Study | Treatment Group | Per-ProtocolPatients were included in the analysis if they had H. pylori infection documented at baseline, had at least one endoscopically verified duodenal ulcer ≥ 0.5 cm in diameter at baseline or had a documented history of duodenal ulcer disease within the past 5 years, and were not protocol violators. Patients who dropped out of the study due to an adverse reaction related to the study drug were included in the analysis as not H. pylori eradicated. | Intent-to-TreatPatients were included in the analysis if they had documented H. pylori infection at baseline, had at least one documented duodenal ulcer at baseline, or had a documented history of duodenal ulcer disease, and took at least one dose of study medication. All dropouts were included as not H. pylori eradicated. |
 | --- | --- | --- | --- |
-| 191 | NEXIUM plus amoxicillin and clarithromycin | 84% p < 0.05 compared to NEXIUM plus clarithromycin[78, 89](n=196) | 77%[71, 82](n=233) |
+| 191 | NEXIUM plus amoxicillin and clarithromycin | 84% p < 0.05 compared to NEXIUM plus clarithromycin.[78, 89](n=196) | 77%[71, 82](n=233) |
 |  | NEXIUM plus clarithromycin | 55%[48, 62](n=187) | 52%[45, 59](n=215) |
-| 193 | NEXIUM plus amoxicillin and clarithromycin | 85% p < 0.05 compared to NEXIUM alone[74, 93](n=67) | 78%[67, 87](n=74) |
+| 193 | NEXIUM plus amoxicillin and clarithromycin | 85% p < 0.05 compared to NEXIUM alone.[74, 93](n=67) | 78%[67, 87](n=74) |
 |  | NEXIUM | 5%[0, 23](n=22) | 4%[0, 21](n=24) |
 
 The percentage of patients with a healed baseline duodenal ulcer by 4 weeks after the 10 day treatment regimen in the NEXIUM plus amoxicillin and clarithromycin group was 75% (n=156) and 57% (n=60) respectively, in the 191 and 193 studies (per-protocol analysis).

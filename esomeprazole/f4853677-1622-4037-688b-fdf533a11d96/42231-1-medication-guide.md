@@ -68,8 +68,8 @@ What should I tell my doctor before taking NEXIUM?
 
 Before you take NEXIUM, tell your doctor if you:
 
-- •have been told that you have low magnesium levels in your blood
-- •have liver problems
+- •have been told that you have low magnesium levels in your blood.
+- •have liver problems.
 - •are pregnant or plan to become pregnant.
   It is not known if NEXIUM can harm your unborn baby.
 - •are breastfeeding or planning to breastfeed.
@@ -136,28 +136,27 @@ NEXIUM can cause serious side effects, including:
   If low magnesium levels happen, it is usually after a year of treatment.
 - You may or may not have symptoms of low magnesium.
   Tell your doctor right away if you have any of these symptoms:
-  1. seizures
-  2. dizziness
-  3. abnormal or fast heart beat
-  4. jitteriness
-  5. jerking movements or shaking (tremors)
-  6. muscle weakness
-  7. spasms of the hands and feet
-  8. cramps or muscle aches
-  9. spasm of the voice box
+- •seizures
+- •dizziness
+- •abnormal or fast heart beat
+- •jitteriness
+- •jerking movements or shaking (tremors)
+- •muscle weakness
+- •spasms of the hands and feet
+- •cramps or muscle aches
+- •spasm of the voice box
 - Your doctor may check the level of magnesium in your body before you start taking NEXIUM or during treatment if you will be taking NEXIUM for a long period of time.
 
 The most common side effects with NEXIUM may include:
 
-- 
-  - headache
-  - diarrhea
-  - nausea
-  - gas
-  - abdominal pain
-  - constipation
-  - dry mouth
-  - drowsiness
+- •headache
+- •diarrhea
+- •nausea
+- •gas
+- •abdominal pain
+- •constipation
+- •dry mouth
+- •drowsiness
 
 Other side effects:
 
@@ -258,9 +257,9 @@ AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-Revised 12/2014
+Revised 01/2016
 
 NEXIUM is a registered trademark of the AstraZeneca group of companies.
 
-©2014 AstraZeneca Pharmaceuticals LP.
+©2016 AstraZeneca Pharmaceuticals LP.
 All rights reserved

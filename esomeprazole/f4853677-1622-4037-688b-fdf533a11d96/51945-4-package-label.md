@@ -1,4 +1,4 @@
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 20 mg 30Capsules
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 20 mg 30 Capsules
 
 NDC 0186-5020-31
 
@@ -18,7 +18,7 @@ Dispense the accompanying Medication Guide to each patient.
 
 AstraZeneca
 
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 40 mg 30Capsules
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 40 mg 30 Capsules
 
 NDC 0186-5040-31
 
@@ -38,7 +38,7 @@ Dispense the accompanying Medication Guide to each patient.
 
 AstraZeneca
 
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL- 20 mg 100 Capsules
+# Package/Label Display Panel
 
 NDC 0186-5022-28
 
@@ -54,13 +54,11 @@ NEXIUM®
 
 Rx only
 
-Dispense the enclosed Medication Guide to each patient.
+Dispense the accompanying Medication Guide to each patient.
 
 AstraZeneca
 
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 40 mg 100 Capsules
-
-NDC 0186-5042-28
+# Package/Label Display Panel
 
 NEXIUM®
 
@@ -74,7 +72,7 @@ NEXIUM®
 
 Rx only
 
-Dispense the enclosed Medication Guide to each patient.
+Dispense the accompanying Medication Guide to each patient.
 
 AstraZeneca
 
@@ -112,7 +110,7 @@ NEXIUM®
 
 (esomeprazole magnesium*)
 
-2.5 mg
+5 mg
 
 30 Single Dose Packets
 
@@ -182,7 +180,7 @@ Rx only
 
 AstraZeneca
 
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 40 mg Oral Suspension
+# Package/Label Display Panel
 
 NDC 0186-4040-01
 

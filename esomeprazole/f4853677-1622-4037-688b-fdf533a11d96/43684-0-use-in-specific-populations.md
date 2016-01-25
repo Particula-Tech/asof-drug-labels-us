@@ -69,7 +69,7 @@ The safety and effectiveness of NEXIUM for other pediatric uses have not been es
 
 Erosive esophagitis due to acid-mediated GERD in infants 1 month to less than one year of age
 
-Use of NEXIUM in pediatric patients 1 month to less than 1 year of age for treatment (up to 6 weeks) of erosive esophagitis due to acid-mediated GERD is supported by extrapolation of results from adequate and well-controlled studies for adults and safety, pharmacokinetic, and pharmacodynamic studies performed in pediatric patients [seeDosage and Administration (2), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.3)].
+Use of NEXIUM in pediatric patients 1 month to less than 1 year of age for treatment (up to 6 weeks) of erosive esophagitis due to acid-mediated GERD is supported by extrapolation of results from adequate and well-controlled studies for adults and safety, pharmacokinetic, and pharmacodynamic studies performed in pediatric patients [see Dosage and Administration (2), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.3)].
 
 Symptomatic GERD in infants 1 month to less than one year of age
 
@@ -82,7 +82,7 @@ There were 80 patients who attained a pre-specified level of symptom improvement
 Efficacy was assessed by observing the time from randomization to study discontinuation due to symptom worsening during the four-week, treatment-withdrawal phase.
 
 The following pharmacokinetic and pharmacodynamic information was obtained in pediatric patients with GERD aged birth to less than one year of age.
-In infants (1 to 11 months old, inclusive) given NEXIUM 1 mg/kg once daily, the percent time with intragastric pH > 4 increased from 29% at baseline to 69% on Day 7, which is similar to the pharmacodynamic effect in adults [see Clinical Pharmacology (12.2)].
+In infants (1 to 11 months old, inclusive) given NEXIUM 1 mg/kg once daily, the percent time with intragastric pH > 4 increased from 29% at baseline to 69% on Day 7, which is similar to the pharmacodynamic effect in adults [seeClinical Pharmacology (12.2)].
 Apparent clearance (CL/F) increases with age in pediatric patients from birth to 2 years of age.
 
 Neonates 0 to 1 month of age

@@ -17,13 +17,13 @@ Discontinue NEXIUM if acute interstitial nephritis develops [see Contraindicatio
 ## 5.4 Cyanocobalamin (vitamin B-12) Deficiency
 
 Daily treatment with any acid-suppressing medications over a long period of time (e.g., longer than 3 years) may lead to malabsorption of cyanocobalamin (vitamin B-12) caused by hypo- or achlorhydria.
-Rare reports of cyanocobalamin deficiency occurring with acid-supressing therapy have been reported in the literature.
+Rare reports of cyanocobalamin deficiency occurring with acid-suppressing therapy have been reported in the literature.
 This diagnosis should be considered if clinical symptoms consistent with cyanocobalamin deficiency are observed.
 
 ## 5.5 Clostridium difficile associated diarrhea
 
 Published observational studies suggest that PPI therapy like NEXIUM may be associated with an increased risk of Clostridium difficile associated diarrhea, especially in hospitalized patients.
-This diagnosis should be considered for diarrhea that does not improve [see Adverse Reactions (6.2)].
+This diagnosis should be considered for diarrhea that does not improve [seeAdverse Reactions (6.2)].
 
 Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
 
@@ -37,7 +37,7 @@ Clopidogrel is a prodrug.
 Inhibition of platelet aggregation by clopidogrel is entirely due to an active metabolite.
 The metabolism of clopidogrel to its active metabolite can be impaired by use with concomitant medications, such as esomeprazole, that inhibit CYP2C19 activity.
 Concomitant use of clopidogrel with 40 mg esomeprazole reduces the pharmacological activity of clopidogrel.
-When using NEXIUM consider alternative anti-platelet therapy [seeDrug Interactions (7.3)andPharmacokinetics (12.3)].
+When using NEXIUM consider alternative anti-platelet therapy [see Drug Interactions (7.3)and Pharmacokinetics (12.3)].
 
 ## 5.7 Bone Fracture
 
@@ -64,9 +64,9 @@ Avoid concomitant use of NEXIUM with St. John’s Wort or rifampin.
 Serum chromogranin A (CgA) levels increase secondary to drug-induced decreases in gastric acidity.
 The increased CgA level may cause false positive results in diagnostic investigations for neuroendocrine tumors.
 Healthcare providers should temporarily stop esomeprazole treatment at least 14 days before assessing CgA levels and consider repeating the test if initial CgA levels are high.
-If serial tests are performed (e.g., for monitoring), the same commercial laboratory should be used for testing, as reference ranges between tests may vary [seeClinical Pharmacology (12.2)].
+If serial tests are performed (e.g., for monitoring), the same commercial laboratory should be usedfor testing, as reference ranges between tests may vary [seeClinical Pharmacology (12.2)].
 
 ## 5.11 Concomitant use of NEXIUM with Methotrexate
 
 Literature suggests that concomitant use of PPIs with methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite, possibly leading to methotrexate toxicities.
-In high-dose methotrexate administration a temporary withdrawal of the PPI may be considered in some patients [seeDrug Interactions (7.7)].
+In high-dose methotrexate administration a temporary withdrawal of the PPI may be considered in some patients [see Drug Interactions (7.7)].
