@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA021780"
+  ],
+  "inn": "nitroglycerin",
+  "labeler": "Mist Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "76299-430-04",
+    "76299-430-08"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL, METERED",
+      "generic": "nitroglycerin",
+      "name": "NitroMist"
+    }
+  ],
+  "setid": "87a45267-b0d3-43c6-a92a-8febb107be19",
+  "source": "dailymed"
+}
