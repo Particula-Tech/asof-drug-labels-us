@@ -7,17 +7,17 @@ Most patients who developed these infections were taking concomitant immunosuppr
 
 Discontinue SIMPONI if a patient develops a serious infection.
 
-Reported infections with TNF-blockers, of which SIMPONI is a member, include:
+Reported infections with TNF blockers, of which SIMPONI is a member, include:
 
 - Active tuberculosis, including reactivation of latent tuberculosis.
   Patients with tuberculosis have frequently presented with disseminated or extrapulmonary disease.
   Test patients for latent tuberculosis before SIMPONI use and during therapy.
   Initiate treatment for latent TB prior to SIMPONI use.
-- Invasive fungal infections including histoplasmosis, coccidioidomycosis, candidiasis, aspergillosis, blastomycosis and pneumocystosis.
+- Invasive fungal infections including histoplasmosis, coccidioidomycosis, candidiasis, aspergillosis, blastomycosis, and pneumocystosis.
   Patients with histoplasmosis or other invasive fungal infections may present with disseminated, rather than localized, disease.
   Antigen and antibody testing for histoplasmosis may be negative in some patients with active infection.
-  Consider empiric anti-fungal therapy in patients at risk for invasive fungal infections who develop severe systemic illness.
-- Bacterial, viral and other infections due to opportunistic pathogens, including Legionella and Listeria.
+  Consider empiric antifungal therapy in patients at risk for invasive fungal infections who develop severe systemic illness.
+- Bacterial, viral, and other infections due to opportunistic pathogens, including Legionella and Listeria.
 
 Consider the risks and benefits of treatment with SIMPONI prior to initiating therapy in patients with chronic or recurrent infection.
 

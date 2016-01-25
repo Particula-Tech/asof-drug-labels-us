@@ -7,15 +7,15 @@ Since the presence or absence of concomitant MTX did not appear to influence the
 
 ## 7.2 Biological Products for RA, PsA, and/or AS
 
-An increased risk of serious infections has been seen in clinical RA trials of other TNF-blockers used in combination with anakinra or abatacept, with no added benefit; therefore, use of SIMPONI with abatacept or anakinra is not recommended [see Warnings and Precautions (5.5, 5.6)].
-A higher rate of serious infections has also been observed in RA patients treated with rituximab who received subsequent treatment with a TNF-blocker.
+An increased risk of serious infections has been seen in clinical RA trials of other TNF blockers used in combination with anakinra or abatacept, with no added benefit; therefore, use of SIMPONI with abatacept or anakinra is not recommended [see Warnings and Precautions (5.6, 5.7)].
+A higher rate of serious infections has also been observed in RA patients treated with rituximab who received subsequent treatment with a TNF blocker.
 The concomitant use of SIMPONI with biologics approved to treat RA, PsA, or AS is not recommended because of the possibility of an increased risk of infection.
 
 ## 7.3 Live Vaccines/Therapeutic Infectious Agents
 
-Live vaccines should not be given concurrently with SIMPONI [see Warnings and Precautions (5.9)].
+Live vaccines should not be given concurrently with SIMPONI [see Warnings and Precautions (5.10)].
 
-Therapeutic infectious agents should not be given concurrently with SIMPONI [see Warnings and Precautions (5.9)].
+Therapeutic infectious agents should not be given concurrently with SIMPONI [see Warnings and Precautions (5.10)].
 
 Infants born to women treated with SIMPONI during their pregnancy may be at increased risk of infection for up to 6 months.
 Administration of live vaccines to infants exposed to SIMPONI in utero is not recommended for 6 months following the mother's last SIMPONI injection during pregnancy [see Use in Specific Populations (8.1)].

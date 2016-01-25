@@ -28,12 +28,12 @@ Through Week 60, the incidence per patient year of infections was similar in pat
 Demyelinating Disorders
 
 In the controlled Phase 2/3 trial of SIMPONI induction through Week 6, no cases of demyelination were observed in SIMPONI 200/100 mg-treated patients or placebo-treated patients.
-Through Week 60, there were no cases of demyelination in the SIMPONI 100 mg group during maintenance.
+Through Week 60, there were no cases of demyelination in the SIMPONI 100-mg group during maintenance.
 One case of CNS demyelination was observed in the placebo maintenance group in a patient who received SIMPONI 400/200 mg during induction.
 
 Liver Enzyme Elevations
 
-There have been reports of severe hepatic reactions including acute liver failure in patients receiving TNF-blockers.
+There have been reports of severe hepatic reactions including acute liver failure in patients receiving TNF blockers.
 In controlled Phase 3 trials of SIMPONI in patients with RA, PsA, and AS through Week 16, ALT elevations ≥ 5 × ULN occurred in 0.2% of control-treated patients and 0.7% of SIMPONI-treated patients and ALT elevations ≥ 3 × ULN occurred in 2% of control-treated patients and 2% of SIMPONI-treated patients.
 Since many of the patients in the Phase 3 trials for RA, PsA, and AS were also taking medications that cause liver enzyme elevations (e.g., NSAIDs, MTX), the relationship between SIMPONI and liver enzyme elevation is not clear.
 
@@ -42,12 +42,11 @@ ALT elevations ≥ 3 × ULN occurred in 2.0% of SIMPONI-treated patients compare
 
 Autoimmune Disorders and Autoantibodies
 
-The use of TNF-blockers, including SIMPONI, has been associated with the formation of autoantibodies and, rarely, with the development of a lupus-like syndrome.
 In the controlled Phase 3 trials in patients with RA, PsA, and AS through Week 14, there was no association of SIMPONI treatment and the development of newly positive anti-dsDNA antibodies.
-In Phase 3 trials in RA, PsA, and AS through 1 year of follow up, 4.0% of SIMPONI-treated patients and 2.6% of control patients were newly ANA-positive (at titers of 1:160 or greater).
-The frequency of anti-dsDNA antibodies at 1 year of follow up was uncommon in patients who were anti-dsDNA negative at baseline.
+In Phase 3 trials in RA, PsA, and AS through 1 year of follow-up, 4.0% of SIMPONI-treated patients and 2.6% of control patients were newly antinuclear antibody (ANA)-positive (at titers of 1:160 or greater).
+The frequency of anti-dsDNA antibodies at 1 year of follow-up was uncommon in patients who were anti-dsDNA negative at baseline.
 Through Week 60 of the UC trials, 3.5% of patients who received SIMPONI induction and 100 mg during maintenance were newly ANA-positive (at titers of 1:160 or greater) compared with 3.5% of patients who received SIMPONI induction and placebo during the maintenance portion of the UC trial.
-The frequency of anti-dsDNA antibodies at 1 year of follow up in patients who were anti-dsDNA negative at baseline was 0.5% in patients receiving SIMPONI induction and 100 mg during maintenance compared with 0% in patients who received SIMPONI induction and placebo during maintenance.
+The frequency of anti-dsDNA antibodies at 1 year of follow-up in patients who were anti-dsDNA negative at baseline was 0.5% in patients receiving SIMPONI induction and 100 mg during maintenance compared with 0% in patients who received SIMPONI induction and placebo during maintenance [see Warnings and Precautions [5.5)].
 
 Injection Site Reactions
 
@@ -62,12 +61,12 @@ In controlled Phase 2 and 3 trials in RA, PsA, AS, and Phase 2/3 UC trials, no p
 Immunogenicity
 
 Antibodies to SIMPONI were detected in 57 (4%) of SIMPONI-treated patients across the Phase 3 RA, PsA, and AS trials through Week 24.
-Similar rates were observed in each of the three indications.
-Patients who received SIMPONI with concomitant MTX had a lower proportion of antibodies to SIMPONI than patients who received SIMPONI without MTX (approximately 2% versus 7%, respectively).
+Similar rates were observed in each of the 3 indications.
+Patients who received SIMPONI with concomitant MTX had a lower proportion of antibodies to SIMPONI than patients who received SIMPONI without MTX (approximately 2% vs. 7%, respectively).
 
 The presence of serum concentrations of golimumab can interfere with the detection of antibodies to SIMPONI leading to inconclusive results.
 In UC trials, 34 (3%), 341 (28%) and 823 (69%) of SIMPONI-treated subjects were positive, negative and inconclusive for antibodies to SIMPONI, respectively.
-Treatment with concomitant immunomodulators (AZA, 6-MP and MTX) resulted in a lower proportion of patients with antibodies to SIMPONI than patients receiving SIMPONI without immunomodulators (2% versus 4%, respectively).
+Treatment with concomitant immunomodulators (AZA, 6-MP and MTX) resulted in a lower proportion of patients with antibodies to SIMPONI than patients receiving SIMPONI without immunomodulators (2% vs. 4%, respectively).
 
 Of the patients with a positive antibody response to SIMPONI in the Phase 2 and 3 trials, most were determined to have neutralizing antibodies to golimumab as measured by a cell-based functional assay.
 
@@ -81,14 +80,13 @@ Other Adverse Reactions
 
 Table 1 summarizes the adverse drug reactions that occurred at a rate of at least 1% in the SIMPONI ± DMARD group and with a higher incidence than in the placebo ± DMARD group during the controlled period of the 5 pooled Phase 3 trials through Week 16 in patients with RA, PsA, and AS.
 
-Table 1.
-Adverse Drug Reactions Reported by ≥ 1% of SIMPONI-Treated Patients and with a Higher Incidence than Placebo-Treated Patients in the Phase 3 Trials of RA, PsA, and AS through Week 16Patients may have taken concomitant MTX, sulfasalazine, hydroxychloroquine, low dose corticosteroids (≤ 10 mg of prednisone/day or equivalent), and/or NSAIDs during the trials).
+Table 1: Adverse Drug Reactions Reported by ≥ 1% of SIMPONI-Treated Patients and With a Higher Incidence Than Placebo-Treated Patients in the Phase 3 Trials of RA, PsA, and AS through Week 16Patients may have taken concomitant MTX, sulfasalazine, hydroxychloroquine, low dose corticosteroids (≤ 10 mg of prednisone/day or equivalent), and/or NSAIDs during the trials).
 
 |  | SIMPONI ± DMARDs | Placebo ± DMARDs |
 | --- | --- | --- |
 | Patients treated | 1659 | 639 |
 | Adverse Reaction |  |  |
-| Infections and Infestations |  |  |
+| Infections and infestations |  |  |
 | Upper respiratory tract infection (nasopharyngitis, pharyngitis, laryngitis, and rhinitis) | 16% | 13% |
 | Viral infections (such as influenza and herpes) | 5% | 3% |
 | Bronchitis | 2% | 1% |
@@ -104,10 +102,10 @@ Adverse Drug Reactions Reported by ≥ 1% of SIMPONI-Treated Patients and with a
 | Nervous system disorders |  |  |
 | Dizziness | 2% | 1% |
 | Paresthesia | 2% | 1% |
-| Gastrointestinal Disorders |  |  |
+| Gastrointestinal disorders |  |  |
 | Constipation | 1% | <1% |
 
-Less common clinical trial adverse drug reactions
+Less Common Clinical Trial Adverse Drug Reactions
 
 Adverse drug reactions that occurred <1% in SIMPONI-treated patients during the SIMPONI clinical trials that do not appear in the Warnings and Precautions section included the following events listed by system organ class:
 
@@ -119,16 +117,16 @@ Skin and subcutaneous tissue disorders: Psoriasis (new onset or worsening, palma
 
 Vascular disorders: Vasculitis (systemic)
 
-Other clinical trial adverse drug reactions in ulcerative colitis clinical trials
+Other Clinical Trial Adverse Drug Reactions in Ulcerative Colitis Clinical Trials
 
 In the Phase 2/3 trials in UC evaluating 1233 SIMPONI-treated patients, no new adverse drug reactions were identified and the frequency of adverse drug reactions was similar to the safety profile observed in patients with RA, PsA and AS.
 
-## 6.2 Post-marketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of SIMPONI.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to SIMPONI exposure.
 
-Immune System Disorders: Serious systemic hypersensitivity reactions (including anaphylactic reaction) [see Warnings and Precautions (5.10)], sarcoidosis
+Immune system disorders: Serious systemic hypersensitivity reactions (including anaphylactic reaction) [see Warnings and Precautions (5.11)], sarcoidosis
 
 Neoplasms benign, malignant and unspecified: Melanoma [see Warnings and Precautions (5.2)]
 
