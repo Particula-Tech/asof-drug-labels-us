@@ -87,7 +87,7 @@ A lower initial dose of 12.5 mg may be appropriate when clinical factors warrant
 
 Elderly
 
-In an open-label trial, steady-state concentrations of risperidone plus 9-hydroxyrisperidone in otherwise healthy elderly patients (≥65 years old) treated with RISPERDAL CONSTA® for up to 12 months fell within the range of values observed in otherwise healthy nonelderly patients.
+In an open-label trial, steady-state concentrations of risperidone plus 9-hydroxyrisperidone in otherwise healthy elderly patients (≥ 65 years old) treated with RISPERDAL CONSTA® for up to 12 months fell within the range of values observed in otherwise healthy nonelderly patients.
 Dosing recommendations are the same for otherwise healthy elderly patients and nonelderly patients [see Dosage and Administration (2)].
 
 Race and Gender Effects

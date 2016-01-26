@@ -101,7 +101,13 @@ The effects of discontinuation of concomitant fluoxetine or paroxetine therapy o
 
 ## 2.8 Instructions for Use
 
-Important information
+For deltoid or gluteal intramuscular injection only
+
+IMPORTANT RESOURCES
+
+For additional information, visit www.risperdalconsta.com or call Janssen Pharmaceuticals, Inc. at 1-800-JANSSEN (1-800-526-7736).
+
+Important Information
 
 RISPERDAL CONSTA® requires close attention to these step-by-step Instructions for Use to help ensure successful administration.
 
@@ -146,4 +152,4 @@ Dose pack contents
 
 | Step 4 Inject dose |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| Remove transparent needle protector Move the needle safety device back towards the syringe, as shown. Then hold white collar on syringe and carefully pull the transparent needle protector straight off. Do not twist transparent needle protector, as the luer connection may loosen. | Remove air bubbles Hold needle upright and tap gently to make any air bubbles rise to the top. Slowly and carefully press plunger rod upward to remove air. | Inject Immediately inject entire contents of syringe intramuscularly (IM) into the gluteal or deltoid muscle of the patient. Gluteal injection should be made into the upper-outer quadrant of the gluteal area. Do not administer intravenously. | Secure needle in safety device Using one hand, place needle safety device at a 45 degree angle on a hard, flat surface. Press down with a firm, quick motion until needle is fully engaged in safety device. Avoid needle stick injury: Do not use two hands. Do not intentionally disengage or mishandle the needle safety device. Do not attempt to straighten the needle or engage the safety device if the needle is bent or damaged. | Properly dispose of needles Check to confirm needle safety device is fully engaged. Discard in an approved sharps container. Also discard the unused needle provided in the dose pack. |
+| Remove transparent needle protector Move the needle safety device back towards the syringe, as shown. Then hold white collar on syringe and carefully pull the transparent needle protector straight off. Do not twist transparent needle protector, as the luer connection may loosen. | Remove air bubbles Hold needle upright and tap gently to make any air bubbles rise to the top. Slowly and carefully press plunger rod upward to remove air. | Inject Immediately inject entire contents of syringe intramuscularly (IM) into the gluteal or deltoid muscle of the patient. Gluteal injection should be made into the upper-outer quadrant of the gluteal area. Do not administer intravenously. | Secure needle in safety device Using one hand, place needle safety device at a 45-degree angle on a hard, flat surface. Press down with a firm, quick motion until needle is fully engaged in safety device. Avoid needle stick injury: Do not use two hands. Do not intentionally disengage or mishandle the needle safety device. Do not attempt to straighten the needle or engage the safety device if the needle is bent or damaged. | Properly dispose of needles Check to confirm needle safety device is fully engaged. Discard in an approved sharps container. Also discard the unused needle provided in the dose pack. |

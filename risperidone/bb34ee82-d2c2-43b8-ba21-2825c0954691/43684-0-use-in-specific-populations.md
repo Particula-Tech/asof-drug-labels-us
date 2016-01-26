@@ -60,7 +60,7 @@ The long-term effects of risperidone on growth and sexual maturation have not be
 
 ## 8.5 Geriatric Use
 
-In an open-label study, 57 clinically stable, elderly patients (≥65 years old) with schizophrenia or schizoaffective disorder received RISPERDAL CONSTA® every 2 weeks for up to 12 months.
+In an open-label study, 57 clinically stable, elderly patients (≥ 65 years old) with schizophrenia or schizoaffective disorder received RISPERDAL CONSTA® every 2 weeks for up to 12 months.
 In general, no differences in the tolerability of RISPERDAL CONSTA® were observed between otherwise healthy elderly and nonelderly patients.
 Therefore, dosing recommendations for otherwise healthy elderly patients are the same as for nonelderly patients.
 Because elderly patients exhibit a greater tendency to orthostatic hypotension than nonelderly patients, elderly patients should be instructed in nonpharmacologic interventions that help to reduce the occurrence of orthostatic hypotension (e.g., sitting on the edge of the bed for several minutes before attempting to stand in the morning and slowly rising from a seated position).

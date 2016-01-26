@@ -23,10 +23,10 @@ The following are discussed in more detail in other sections of the labeling:
 - Diseases or conditions that could affect metabolism or hemodynamic responses [see Warnings and Precautions (5.18)]
 - Osteodystrophy and tumors in animals [see Warnings and Precautions (5.19)]
 
-The most common adverse reactions in clinical trials in patients with schizophrenia (≥5%) were: headache, parkinsonism, dizziness, akathisia, fatigue, constipation, dyspepsia, sedation, weight increased, pain in extremity, and dry mouth.
-The most common adverse reactions in the double-blind, placebo-controlled periods of the bipolar disorder trials were weight increased (5% in the monotherapy trial) and tremor and parkinsonism (≥10% in the adjunctive treatment trial).
+The most common adverse reactions in clinical trials in patients with schizophrenia (≥ 5%) were: headache, parkinsonism, dizziness, akathisia, fatigue, constipation, dyspepsia, sedation, weight increased, pain in extremity, and dry mouth.
+The most common adverse reactions in the double-blind, placebo-controlled periods of the bipolar disorder trials were weight increased (5% in the monotherapy trial) and tremor and parkinsonism (≥ 10% in the adjunctive treatment trial).
 
-The most common adverse reactions that were associated with discontinuation from the 12-week double-blind, placebo-controlled trial in patients with schizophrenia (causing discontinuation in ≥ 1% of patients) were agitation, depression, anxiety, and akathisia.
+The most common adverse reactions that were associated with discontinuation from the 12-week double-blind, placebo-controlled trial in patients with schizophrenia (causing discontinuation in ≥1% of patients) were agitation, depression, anxiety, and akathisia.
 Adverse reactions that were associated with discontinuation from the double-blind, placebo-controlled periods of the bipolar disorder trials were hyperglycemia (one patient in the monotherapy trial) and hypokinesia and tardive dyskinesia (one patient each in the adjunctive treatment trial).
 
 The data described in this section are derived from a clinical trial database consisting of 2392 patients exposed to one or more doses of RISPERDAL CONSTA® for the treatment of schizophrenia.
@@ -62,7 +62,7 @@ The majority of all adverse reactions were mild to moderate in severity.
 Table 4 lists the adverse reactions reported in 2% or more of RISPERDAL CONSTA®-treated patients with schizophrenia in one 12-week double-blind, placebo-controlled trial.
 
 Table 4.
-Adverse Reactions in ≥ 2% of RISPERDAL CONSTA®-Treated Patients with Schizophrenia in a 12-Week Double-Blind, Placebo-Controlled Trial
+Adverse Reactions in ≥2% of RISPERDAL CONSTA®-Treated Patients with Schizophrenia in a 12-Week Double-Blind, Placebo-Controlled Trial
 
 | Adverse Reaction | (N=99) | (N=103) | (N=98) |
 | --- | --- | --- | --- |
@@ -111,7 +111,7 @@ Adverse Reactions in ≥ 2% of RISPERDAL CONSTA®-Treated Patients with Schizoph
 Table 5 lists the treatment-emergent adverse reactions reported in 2% or more of RISPERDAL CONSTA®-treated patients in the 24-month double-blind, placebo-controlled treatment period of the trial assessing the efficacy and safety of RISPERDAL CONSTA® when administered as monotherapy for maintenance treatment in patients with Bipolar I Disorder.
 
 Table 5.
-Adverse Reactions in ≥ 2% of Patients with Bipolar I Disorder Treated with RISPERDAL CONSTA® as Monotherapy in a 24-Month Double-Blind, Placebo-Controlled Trial
+Adverse Reactions in ≥2% of Patients with Bipolar I Disorder Treated with RISPERDAL CONSTA® as Monotherapy in a 24-Month Double-Blind, Placebo-Controlled Trial
 
 | System/Organ Class Adverse Reaction | RISPERDAL CONSTA® (N=154) | Placebo (N=149) |
 | --- | --- | --- |
@@ -155,7 +155,7 @@ Adverse Reactions in ≥ 4% of Patients with Bipolar Disorder Treated with RISPE
 
 ## 6.3 Other Adverse Reactions Observed During the Clinical Trial Evaluation of Risperidone
 
-The following additional adverse reactions occurred in <2% of the RISPERDAL CONSTA®-treated patients in the above schizophrenia double-blind, placebo-controlled trial dataset, in <2% of the RISPERDAL CONSTA®-treated patients in the above double-blind, placebo-controlled period of the monotherapy bipolar disorder trial dataset, or in <4% of the RISPERDAL CONSTA®-treated patients in the above double-blind, placebo-controlled period of the adjunctive treatment bipolar disorder trial dataset.
+The following additional adverse reactions occurred in < 2% of the RISPERDAL CONSTA®-treated patients in the above schizophrenia double-blind, placebo-controlled trial dataset, in < 2% of the RISPERDAL CONSTA®-treated patients in the above double-blind, placebo-controlled period of the monotherapy bipolar disorder trial dataset, or in < 4% of the RISPERDAL CONSTA®-treated patients in the above double-blind, placebo-controlled period of the adjunctive treatment bipolar disorder trial dataset.
 The following also includes additional adverse reactions reported at any frequency in RISPERDAL CONSTA®-treated patients who participated in the open-label phases of the above bipolar disorder studies and in other studies, including double-blind, active controlled and open-label studies in schizophrenia and bipolar disorder.
 
 Blood and lymphatic system disorders: anemia, neutropenia
@@ -258,7 +258,7 @@ Extrapyramidal Symptoms:
 
 Two methods were used to measure extrapyramidal symptoms (EPS) in the 12-week double-blind, placebo-controlled trial comparing three doses of RISPERDAL CONSTA® (25 mg, 50 mg, and 75 mg) with placebo in patients with schizophrenia, including: (1) the incidence of spontaneous reports of EPS symptoms; and (2) the change from baseline to endpoint on the total score (sum of the subscale scores for parkinsonism, dystonia, and dyskinesia) of the Extrapyramidal Symptom Rating Scale (ESRS).
 
-As shown in Table 1, the overall incidence of EPS-related adverse reactions (akathisia, dystonia, parkinsonism, and tremor) in patients treated with 25 mg RISPERDAL CONSTA® was comparable to that of patients treated with placebo; the incidence of EPS related adverse reactions was higher in patients treated with 50 mg RISPERDAL CONSTA®.
+As shown in Table 1, the overall incidence of EPS-related adverse reactions (akathisia, dystonia, parkinsonism, and tremor) in patients treated with 25 mg RISPERDAL CONSTA® was comparable to that of patients treated with placebo; the incidence of EPS-related adverse reactions was higher in patients treated with 50 mg RISPERDAL CONSTA®.
 
 The median change from baseline to endpoint in total ESRS score showed no worsening in patients treated with RISPERDAL CONSTA® compared with patients treated with placebo: 0 (placebo group); -1 (25-mg group, significantly less than the placebo group); and 0 (50-mg group).
 

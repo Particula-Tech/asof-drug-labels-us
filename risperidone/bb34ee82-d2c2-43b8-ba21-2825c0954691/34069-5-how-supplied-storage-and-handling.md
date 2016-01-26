@@ -13,7 +13,7 @@ It is provided as a dose pack, consisting of a vial containing the risperidone m
 
 Storage and Handling
 
-The entire dose pack should be stored in the refrigerator (36°– 46°F; 2°– 8°C) and protected from light.
+The entire dose pack should be stored in the refrigerator (36°–46°F; 2°–8°C) and protected from light.
 
 If refrigeration is unavailable, RISPERDAL CONSTA® can be stored at temperatures not exceeding 77°F (25°C) for no more than 7 days prior to administration.
 Do not expose unrefrigerated product to temperatures above 77°F (25°C).
