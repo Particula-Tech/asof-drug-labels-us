@@ -127,6 +127,6 @@ Distributed by: Salix Pharmaceuticals, a division of Valeant Pharmaceuticals Nor
 
 For information for healthcare professionals, call 1-877-757-0666.
 
-Revised: 11/2015
+Revised: 01/2016
 
 CYCLOSET is a registered trademark of: VeroScience, LLC Tiverton, RI 02878

@@ -13,7 +13,7 @@ As a precaution, assessment of orthostatic vital signs is recommended prior to i
 During early treatment with CYCLOSET, patients should be advised to make slow postural changes and to avoid situations that could lead to serious injury if syncope was to occur.
 Use caution in patients taking anti-hypertensive medications.
 
-## 5.2 Psychotic disorders
+## 5.2 Psychotic Disorders
 
 In patients with severe psychotic disorders, treatment with a dopamine receptor agonist such as CYCLOSET may exacerbate the disorder or may diminish the effectiveness of drugs used to treat the disorder.
 Therefore, the use of CYCLOSET in patients with severe psychotic disorders in not recommended.
@@ -26,19 +26,19 @@ None of these events were reported as serious and the majority of patients repor
 Patients should be made aware of this potential side effect, particularly when initiating therapy with CYCLOSET.
 Patients experiencing somnolence should refrain from driving or operating heavy machinery.
 
-## 5.4 Interaction with dopamine receptor antagonists
+## 5.4 Interaction with Dopamine Receptor Antagonists
 
 Dopamine receptor antagonists, including neuroleptic agents that have dopamine D2 receptor antagonist properties (e.g., clozapine, olanzapine, ziprasidone), may reduce the effectiveness of CYCLOSET and CYCLOSET may reduce the effectiveness of these agents.
 CYCLOSET has not been studied in patients taking neuroleptic drugs.
 The concomitant use of CYCLOSET and dopamine receptor antagonists, including neuroleptic drugs, is not recommended.
 
-## 5.5 Other dopamine receptor agonists
+## 5.5 Other Dopamine Receptor Agonists
 
 Other dopamine receptor agonists are indicated for the treatment of Parkinson's disease, hyperproloactinemia, restless leg syndrome, acromegaly, and other disorders.
 The effectiveness and safety of CYCLOSET in patients who are already taking one of these other dopamine receptor agonists is unknown.
 Concomitant use is not recommended.
 
-## 5.6. Macrovascular outcomes
+## 5.6. Macrovascular Outcomes
 
 There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with CYCLOSET or any other anti-diabetic drug.
 In a 52-week, randomized clinical trial, CYCLOSET use was not associated with an increased risk for adverse cardiovascular events [see Adverse Reactions (6.1)].

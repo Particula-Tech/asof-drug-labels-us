@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-## 1.1 Type 2 diabetes mellitus
+## 1.1 Type 2 Diabetes Mellitus
 
 CYCLOSET is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus.
 
