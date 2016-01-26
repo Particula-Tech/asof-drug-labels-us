@@ -2,6 +2,8 @@
 
 CADUET tablets are formulated for oral administration in the following strength combinations:
 
+Table 1
+
 | 10 | 20 | 40 | 80 |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  |  | Atorvastatin (mg) |  |  |  |

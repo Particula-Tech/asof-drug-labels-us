@@ -41,7 +41,7 @@ Atorvastatin also reduces VLDL-C and TG and produces variable increases in HDL-C
 Atorvastatin reduces total-C, LDL-C, VLDL-C, apo B, TG, and non-HDL-C, and increases HDL-C in patients with isolated hypertriglyceridemia.
 Atorvastatin reduces intermediate density lipoprotein cholesterol (IDL-C) in patients with dysbetalipoproteinemia.
 
-Like LDL, cholesterol-enriched triglyceride-rich lipoproteins, including VLDL, intermediate density lipoprotein (IDL), and remnants, can also promote atherosclerosis.
+Like LDL, cholesterol-enriched triglyceride-rich lipoproteins, including VLDL, (IDL), and remnants, can also promote atherosclerosis.
 Elevated plasma triglycerides are frequently found in a triad with low HDL-C levels and small LDL particles, as well as in association with non-lipid metabolic risk factors for coronary heart disease.
 As such, total plasma TG has not consistently been shown to be an independent risk factor for CHD.
 Furthermore, the independent effect of raising HDL or lowering TG on the risk of coronary and cardiovascular morbidity and mortality has not been determined.
@@ -121,7 +121,7 @@ Atorvastatin: Atorvastatin is extensively metabolized to ortho- and parahydroxyl
 In vitro inhibition of HMG-CoA reductase by ortho- and parahydroxylated metabolites is equivalent to that of atorvastatin.
 Approximately 70% of circulating inhibitory activity for HMG-CoA reductase is attributed to active metabolites.
 
-In vitro studies suggest the importance of atorvastatin metabolism by cytochrome P4503A4, consistent with increased plasma concentrations of atorvastatin in humans following co-administration with erythromycin, a known inhibitor of this isozyme [see Drug Interactions (7.13)].
+In vitro studies suggest the importance of atorvastatin metabolism by cytochrome P4503A4, consistent with increased plasma concentrations of atorvastatin in humans following co-administration with erythromycin, a known inhibitor of this isozyme [see Drug Interactions (7)].
 In animals, the ortho-hydroxy metabolite undergoes further glucuronidation.
 
 Excretion
@@ -190,9 +190,9 @@ However, strong inhibitors of CYP3A (e.g., itraconazole, clarithromycin) may inc
 
 Atorvastatin:
 
-Table 5 shows effects of other drugs on the pharmacokinetics of atorvastatin.
+Table 4 shows effects of other drugs on the pharmacokinetics of atorvastatin.
 
-Table 5.
+Table 4.
 Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
 
 |  | Dose (mg) | Change in AUC | Change in Cmax |
@@ -239,9 +239,9 @@ Irrespective of the CYP3A5 genotype status, the possibility of an interaction ca
 
 Atorvastatin:
 
-Table 6 shows the effects of atorvastatin on the pharmacokinetics of other drugs.
+Table 5 shows the effects of atorvastatin on the pharmacokinetics of other drugs.
 
-Table 6.
+Table 5.
 Effect of Atorvastatin on the Pharmacokinetics of Co-administered Drugs
 
 |  | Drug/Dose (mg) | Change in AUC | Change in Cmax |

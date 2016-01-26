@@ -24,7 +24,7 @@ Titration may proceed more rapidly, however, if clinically warranted, provided t
 Angina: The recommended dose of amlodipine for chronic stable or vasospastic angina is 5–10 mg, with the lower dose suggested in the elderly and in patients with hepatic insufficiency.
 Most patients will require 10 mg for adequate effect.
 
-Coronary artery disease: The recommended dose range of amlodipine for patients with coronary artery disease is 5–10 mg once daily.
+Coronary Artery Disease: The recommended dose range of amlodipine for patients with CAD is 5–10 mg once daily.
 In clinical studies, the majority of patients required 10 mg [see Clinical Studies (14.4)].
 
 Pediatrics: The effective antihypertensive oral dose of amlodipine in pediatric patients ages 6–17 years is 2.5 mg to 5 mg once daily.
@@ -50,8 +50,8 @@ Patients with Renal Impairment: Renal disease does not affect the plasma concent
 Use with Cyclosporine, Clarithromycin, Itraconazole, or Certain Protease Inhibitors: In patients taking cyclosporine or the HIV protease inhibitors (tipranavir plus ritonavir) or the hepatitis C protease inhibitor (telaprevir), avoid therapy with atorvastatin.
 In patients with HIV taking lopinavir plus ritonavir, use the lowest necessary dose of atorvastatin.
 In patients taking clarithromycin, itraconazole, or in patients with HIV taking a combination of saquinavir plus ritonavir, darunavir plus ritonavir, fosamprenavir, or fosamprenavir plus ritonavir, limit therapy with atorvastatin to 20 mg, and make appropriate clinical assessment to ensure that the lowest dose necessary of atorvastatin is employed.
-In patients taking the HIV protease inhibitor nelfinavir or the hepatitis C protease inhibitor boceprevir, limit therapy with atorvastatin to 40 mg, and make appropriate clinical assessment to ensure that the lowest dose necessary of atorvastatin is employed [see Warnings and Precautions (5.1), Drug Interactions (7.13)].
+In patients taking the HIV protease inhibitor nelfinavir or the hepatitis C protease inhibitor boceprevir, limit therapy with atorvastatin to 40 mg, and make appropriate clinical assessment to ensure that the lowest dose necessary of atorvastatin is employed [see Warnings and Precautions (5.1), Drug Interactions (7)].
 
 Heterozygous Familial Hypercholesterolemia in Pediatric Patients (10–17 years of age): The recommended starting dose of atorvastatin is 10 mg/day; the maximum recommended dose is 20 mg/day (doses greater than 20 mg have not been studied in this patient population).
-Doses should be individualized according to the recommended goal of therapy [see current NCEP Pediatric Panel Guidelines 1, (References (15), Clinical Pharmacology (12), and Indications and Usage (1.4)].
+Doses should be individualized according to the recommended goal of therapy [see current NCEP Pediatric Panel Guidelines 1, References (15), Clinical Pharmacology (12), and Indications and Usage (1.4)].
 Adjustments should be made at intervals of 4 weeks or more.

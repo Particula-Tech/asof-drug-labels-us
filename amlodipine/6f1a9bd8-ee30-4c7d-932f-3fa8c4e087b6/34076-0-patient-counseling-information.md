@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Patient Information).
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
 Information for Patients
 
@@ -12,7 +12,7 @@ Advise patients about substances they should not take concomitantly with atorvas
 Patients should inform other healthcare professionals prescribing a new medication that they are taking CADUET.
 
 Muscle Pain: Advise patients starting therapy with CADUET of the risk of myopathy and to report promptly any unexplained muscle pain, tenderness, or weakness particularly if accompanied by malaise or fever or if these muscle signs or symptoms persist after discontinuing CADUET.
-The risk of this occurring is increased when taking certain types of medication or consuming larger quantities (>1 liter) of grapefruit juice.
+The risk of this occurring is increased when taking certain types of medication or consuming larger quantities (> 1 liter) of grapefruit juice.
 They should discuss all medication, both prescription and over the counter, with their healthcare professional.
 
 Liver Enzymes: Advise patients treated with CADUET to report promptly any symptoms that may indicate liver injury, including fatigue, anorexia, right upper abdominal discomfort, dark urine, or jaundice.

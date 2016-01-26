@@ -6,7 +6,7 @@ Rare cases of rhabdomyolysis with acute renal failure secondary to myoglobinuria
 A history of renal impairment may be a risk factor for the development of rhabdomyolysis.
 Such patients merit closer monitoring for skeletal muscle effects.
 
-Atorvastatin, like other statins, occasionally causes myopathy, defined as muscle aches or muscle weakness in conjunction with increases in creatine phosphokinase (CPK) values >10 times upper limit of normal [ULN].
+Atorvastatin, like other statins, occasionally causes myopathy, defined as muscle aches or muscle weakness in conjunction with increases in creatine phosphokinase (CPK) values > 10 times upper limit of normal [ULN].
 The concomitant use of higher doses of atorvastatin with certain drugs such as cyclosporine and strong CYP3A4 inhibitors (e.g., clarithromycin, itraconazole, and HIV protease inhibitors) increases the risk of myopathy/rhabdomyolysis.
 
 There have been rare reports of immune-mediated necrotizing myopathy (IMNM), an autoimmune myopathy, associated with statin use.
@@ -18,10 +18,10 @@ CADUET therapy should be discontinued if markedly elevated CPK levels occur or m
 
 The risk of myopathy during treatment with statins is increased with concurrent administration of cyclosporine, fibric acid derivatives, erythromycin, clarithromycin, the hepatitis C protease inhibitor telaprevir, combinations of HIV protease inhibitors, including saquinavir plus ritonavir, lopinavir plus ritonavir, tipranavir plus ritonavir, darunavir plus ritonavir, fosamprenavir, and fosamprenavir plus ritonavir, niacin, or azole antifungals.
 Physicians considering combined therapy with CADUET and fibric acid derivatives, erythromycin, clarithromycin, a combination of saquinavir plus ritonavir, lopinavir plus ritonavir, darunavir plus ritonavir, fosamprenavir, or fosamprenavir plus ritonavir, azole antifungals, or lipid-modifying doses of niacin should carefully weigh the potential benefits and risks and should carefully monitor patients for any signs or symptoms of muscle pain, tenderness, or weakness, particularly during the initial months of therapy and during any periods of upward dosage titration of either drug.
-Lower starting and maintenance doses of atorvastatin should be considered when taken concomitantly with the aforementioned drugs [see Drug Interactions (7.13)].
+Lower starting and maintenance doses of atorvastatin should be considered when taken concomitantly with the aforementioned drugs [see Drug Interactions (7)].
 Periodic creatine phosphokinase (CPK) determinations may be considered in such situations, but there is no assurance that such monitoring will prevent the occurrence of severe myopathy.
 
-Prescribing recommendations for interacting agents are summarized in Table 2 [see also Dosage and Administration (2), Drug Interactions (7.13), Clinical Pharmacology (12.3)].
+Prescribing recommendations for interacting agents are summarized in Table 2 [see Dosage and Administration (2), Drug Interactions (7), and Clinical Pharmacology (12.3)].
 
 Table 2.
 Atorvastatin Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyolysis
@@ -32,14 +32,14 @@ Atorvastatin Drug Interactions Associated with Increased Risk of Myopathy/Rhabdo
 | Clarithromycin, itraconazole, HIV protease inhibitors (saquinavir plus ritonavirUse with caution and with the lowest dose necessary (12.3), darunavir plus ritonavir, fosamprenavir, fosamprenavir plus ritonavir) | Do not exceed 20 mg atorvastatin daily |
 | HIV protease inhibitor (nelfinavir) Hepatitis C protease inhibitor (boceprevir) | Do not exceed 40 mg atorvastatin daily |
 
-Cases of myopathy, including rhabdomyolysis, have been reported with atorvastatin co-administered with colchicine, and caution should be exercised when prescribing atorvastatin with colchicine [see Drug Interactions (7.23)].
+Cases of myopathy, including rhabdomyolysis, have been reported with atorvastatin co-administered with colchicine, and caution should be exercised when prescribing atorvastatin with colchicine [see Drug Interactions (7.13)].
 
 Withhold or discontinue in any patient with an acute, serious condition suggestive of a myopathy or having a risk factor predisposing to the development of renal failure secondary to rhabdomyolysis (e.g., severe acute infection; hypotension; major surgery; trauma; severe metabolic, endocrine, and electrolyte disorders; and uncontrolled seizures).
 
 ## 5.2 Liver Dysfunction
 
 Statins, like atorvastatin, and some other lipid-lowering therapies, have been associated with biochemical abnormalities of liver function.
-Persistent elevations (>3 times the upper limit of normal [ULN] occurring on 2 or more occasions) in serum transaminases occurred in 0.7% of patients who received atorvastatin in clinical trials.
+Persistent elevations (> 3 times the upper limit of normal [ULN] occurring on 2 or more occasions) in serum transaminases occurred in 0.7% of patients who received atorvastatin in clinical trials.
 The incidence of these abnormalities was 0.2%, 0.2%, 0.6%, and 2.3% for 10, 20, 40, and 80 mg, respectively.
 
 One patient in clinical trials with atorvastatin developed jaundice.

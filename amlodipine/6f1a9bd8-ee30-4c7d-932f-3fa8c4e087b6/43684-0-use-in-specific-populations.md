@@ -89,9 +89,9 @@ Elderly patients have decreased clearance of amlodipine with a resulting increas
 
 Atorvastatin
 
-Of the 39,828 patients who received atorvastatin in clinical studies, 15,813 (40%) were ≥65 years old and 2,800 (7%) were ≥75 years old.
+Of the 39,828 patients who received atorvastatin in clinical studies, 15,813 (40%) were ≥ 65 years old and 2,800 (7%) were ≥ 75 years old.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older adults cannot be ruled out.
-Advanced age (≥65 years) is a predisposing factor for myopathy.
+Advanced age (≥ 65 years) is a predisposing factor for myopathy.
 
 ## 8.6 Hepatic Impairment
 

@@ -6,7 +6,7 @@ CADUET tablets are differentiated by tablet color/size and are engraved with a u
 Combinations of atorvastatin with 2.5 mg amlodipine are round and film-coated white, combinations of atorvastatin with 5 mg amlodipine are oval and film-coated white, and combinations of atorvastatin with 10 mg amlodipine are oval and are film-coated blue.
 CADUET tablets are supplied for oral administration in the following strengths and package configurations:
 
-Table 15.
+Table 14.
 CADUET Packaging Configurations
 
 | Package Configuration | Tablet Strength mg (amlodipine / atorvastatin) | NDC # | Engraving Side 1 / Side 2 | Tablet Color | Tablet Shape |

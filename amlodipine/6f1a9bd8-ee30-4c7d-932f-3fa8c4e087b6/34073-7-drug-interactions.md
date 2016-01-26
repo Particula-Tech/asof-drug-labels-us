@@ -41,7 +41,7 @@ Concomitant administration of atorvastatin with strong inhibitors of CYP3A4 can 
 The extent of interaction and potentiation of effects depend on the variability of effect on CYP3A4.
 
 Clarithromycin: Atorvastatin AUC was significantly increased with concomitant administration of atorvastatin 80 mg with clarithromycin (500 mg twice daily) compared to that of atorvastatin alone [see Clinical Pharmacology (12.3)].
-Therefore, in patients taking clarithromycin, avoid atorvastatin doses >20 mg [see Warnings and Precautions, Skeletal Muscle (5.1) and Dosage and Administration (2)].
+Therefore, in patients taking clarithromycin, avoid atorvastatin doses >20 mg [see Warnings and Precautions (5.1) and Dosage and Administration (2)].
 
 Combination of Protease Inhibitors: Atorvastatin AUC was significantly increased with concomitant administration of atorvastatin with several combinations of HIV protease inhibitors, as well as with the hepatitis C protease inhibitor telaprevir, compared to that of atorvastatin alone [see Clinical Pharmacology (12.3)].
 Therefore, in patients taking the HIV protease inhibitor tipranavir plus ritonavir, or the hepatitis C protease inhibitor telaprevir, concomitant use of atorvastatin should be avoided.
@@ -50,11 +50,11 @@ In patients taking the HIV protease inhibitors saquinavir plus ritonavir, daruna
 In patients taking the HIV protease inhibitor nelfinavir or the hepatitis C protease inhibitor boceprevir, the dose of atorvastatin should not exceed 40 mg and close clinical monitoring is recommended.
 
 Itraconazole: Atorvastatin AUC was significantly increased with concomitant administration of atorvastatin 40 mg and itraconazole 200 mg [see Clinical Pharmacology (12.3)].
-Therefore, in patients taking itraconazole, avoid atorvastatin doses >20 mg [see Warnings and Precautions (5.1) and Dosage and Administration (2)].
+Therefore, in patients taking itraconazole, avoid atorvastatin doses > 20 mg [see Warnings and Precautions (5.1) and Dosage and Administration (2)].
 
 ## 7.4 Grapefruit Juice
 
-Contains one or more components that inhibit CYP3A4 and can increase plasma concentrations of atorvastatin, especially with excessive grapefruit juice consumption (>1.2 liters per day).
+Contains one or more components that inhibit CYP3A4 and can increase plasma concentrations of atorvastatin, especially with excessive grapefruit juice consumption (> 1.2 liters per day).
 
 ## 7.5 Cyclosporine
 
@@ -69,8 +69,7 @@ Because of an increased risk of myopathy/rhabdomyolysis when HMG-CoA reductase i
 
 ## 7.7 Other Fibrates
 
-The risk of myopathy during treatment with HMG-CoA reductase inhibitors is increased with concurrent administration of other fibrates.
-[see Warnings and Precautions (5.1)].
+The risk of myopathy during treatment with HMG-CoA reductase inhibitors is increased with concurrent administration of other fibrates [see Warnings and Precautions (5.1)].
 
 ## 7.8 Niacin
 
@@ -88,7 +87,7 @@ Monitor digoxin levels.
 
 ## 7.11 Oral Contraceptives
 
-Co-administration of atorvastatin and an oral contraceptive increased AUC values for norethindrone and ethinyl estradiol) [see Clinical Pharmacology (12.3)].
+Co-administration of atorvastatin and an oral contraceptive increased AUC values for norethindrone and ethinyl estradiol [see Clinical Pharmacology (12.3)].
 Consider these increases when selecting an oral contraceptive for a woman taking CADUET.
 
 ## 7.12 Warfarin

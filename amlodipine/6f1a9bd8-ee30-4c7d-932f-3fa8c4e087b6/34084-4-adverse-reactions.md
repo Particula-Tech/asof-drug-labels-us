@@ -27,7 +27,7 @@ The incidence (%) of side effects that occurred in a dose-related manner are as 
 
 |  | N=275 | N=296 | N=268 | N=520 |
 | --- | --- | --- | --- | --- |
-| Amlodipine |  |  |  |  |
+|  | Amlodipine |  |  |  |
 |  | 2.5 mg | 5 mg | 10 mg | Placebo |
 | Edema | 1.8 | 3.0 | 10.8 | 0.6 |
 | Dizziness | 1.1 | 3.4 | 3.4 | 1.5 |
@@ -46,7 +46,7 @@ Other adverse reactions that were not clearly dose related but were reported at 
 
 Edema, flushing, palpitations, and somnolence appear to be more common in women than in men.
 
-The following events occurred in <1% but >0.1% of patients treated with amlodipine in controlled clinical trials or under conditions of open trials or marketing experience where a causal relationship is uncertain; they are listed to alert the physician to a possible relationship:
+The following events occurred in < 1% but > 0.1% of patients treated with amlodipine in controlled clinical trials or under conditions of open trials or marketing experience where a causal relationship is uncertain; they are listed to alert the physician to a possible relationship:
 
 Cardiovascular: arrhythmia (including ventricular tachycardia and atrial fibrillation), bradycardia, chest pain, peripheral ischemia, syncope, tachycardia, vasculitis.
 
@@ -111,14 +111,14 @@ Body as a whole: malaise, pyrexia; Digestive system: abdominal discomfort, eruct
 Treating to New Targets Study (TNT)
 
 In TNT [see Clinical Studies (14.6)] involving 10,001 subjects (age range 29–78 years, 19% women; 94.1% Caucasians, 2.9% Blacks, 1.0% Asians, 2.0% other) with clinically evident CHD treated with atorvastatin 10 mg daily (n=5,006) or atorvastatin 80 mg daily (n=4,995), serious adverse reactions and discontinuations because of adverse reactions increased with dose.
-Persistent transaminase elevations (≥3 × ULN twice within 4–10 days) occurred in 62 (1.3%) individuals with atorvastatin 80 mg and in nine (0.2%) individuals with atorvastatin 10 mg.
+Persistent transaminase elevations (≥ 3 × ULN twice within 4–10 days) occurred in 62 (1.3%) individuals with atorvastatin 80 mg and in nine (0.2%) individuals with atorvastatin 10 mg.
 Elevations of CK (≥ 10 × ULN) were low overall, but were higher in the high-dose atorvastatin treatment group (13, 0.3%) compared to the low-dose atorvastatin group (6, 0.1%).
 
 Stroke Prevention by Aggressive Reduction in Cholesterol Levels (SPARCL)
 
 In SPARCL involving 4,731 subjects (age range 21–92 years, 40% women; 93.3% Caucasians, 3.0% Blacks, 0.6% Asians, 3.1% other) without clinically evident CHD but with a stroke or transient ischemic attack (TIA) within the previous 6 months treated with atorvastatin 80 mg (n=2,365) or placebo (n=2,366) for a median follow-up of 4.9 years, there was a higher incidence of persistent hepatic transaminase elevations (≥ 3 × ULN twice within 4–10 days) in the atorvastatin group (0.9%) compared to placebo (0.1%).
 Elevations of CK (>10 × ULN) were rare, but were higher in the atorvastatin group (0.1%) compared to placebo (0.0%).
-Diabetes was reported as an adverse reaction in 144 subjects (6.1%) in the atorvastatin group and 89 subjects (3.8%) in the placebo group [see Warnings and Precautions (5.8)].
+Diabetes was reported as an adverse reaction in 144 subjects (6.1%) in the atorvastatin group and 89 subjects (3.8%) in the placebo group [see Warnings and Precautions (5.5)].
 
 In a post-hoc analysis, atorvastatin 80 mg reduced the incidence of ischemic stroke (218/2365, 9.2% vs. 274/2366, 11.6%) and increased the incidence of hemorrhagic stroke (55/2365, 2.3% vs. 33/2366, 1.4%) compared to placebo.
 The incidence of fatal hemorrhagic stroke was similar between groups (17 atorvastatin vs. 18 placebo).
@@ -133,7 +133,7 @@ Pediatrics: In a 26-week controlled study in boys and postmenarchal girls (n=140
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post approval of amlodipine and atorvastatin.
+The following adverse reactions have been identified during post-approval of amlodipine and atorvastatin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Amlodipine
@@ -149,7 +149,7 @@ Atorvastatin
 
 Adverse reactions associated with atorvastatin therapy reported since market introduction that are not listed above, regardless of causality assessment, include the following: anaphylaxis, angioneurotic edema, bullous rashes (including erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis), rhabdomyolysis, myositis, fatigue, tendon rupture, fatal and non-fatal hepatic failure, dizziness, depression, peripheral neuropathy, and pancreatitis.
 
-There have been rare reports of immune-mediated necrotizing myopathy associated with statin use[see Warnings and Precautions (5.1)].
+There have been rare reports of immune-mediated necrotizing myopathy associated with statin use [see Warnings and Precautions (5.1)].
 
 There have been rare postmarketing reports of cognitive impairment (e.g., memory loss, forgetfulness, amnesia, memory impairment, confusion) associated with statin use.
 These cognitive issues have been reported for all statins.
