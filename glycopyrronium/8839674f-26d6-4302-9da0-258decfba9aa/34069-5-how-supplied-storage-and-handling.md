@@ -18,4 +18,4 @@ Store in a dry place at 77°F (25°C); excursions permitted to 59°F to 86°F (1
   Remove the SEEBRI capsules from the blister immediately before use.
 - Always use the new NEOHALER inhaler provided with each new prescription.
 
-Keep out of reach of children.
+Keep out of the reach of children.

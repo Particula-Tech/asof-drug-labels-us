@@ -37,7 +37,7 @@ After intravenous administration, the steady-state volume of distribution of gly
 
 Metabolism
 
-In vitro metabolism studies show glycopyrrolate hydroxylation resulting in a variety of mono-and bis-hydroxylated metabolites and direct hydrolysis resulting in the formation of a carboxylic acid derivative (M9).
+In vitro metabolism studies show glycopyrrolate hydroxylation resulting in a variety of mono- and bis-hydroxylated metabolites and direct hydrolysis resulting in the formation of a carboxylic acid derivative (M9).
 Further in vitro investigations showed that multiple CYP isoenzymes contribute to the oxidative biotransformation of glycopyrrolate and the hydrolysis to M9 is likely to be catalyzed by members from the cholinesterase family pre-systemically and/or via first pass metabolism from the swallowed dose fraction of orally inhaled glycopyrrolate.
 Glucuronide and/or sulfate conjugates of glycopyrrolate were found in urine of humans after repeated inhalation, accounting for about 3% of the dose.
 
@@ -58,7 +58,7 @@ In vitro enzyme induction studies did not indicate a clinically relevant inducti
 
 In a clinical study in healthy volunteers, cimetidine, an inhibitor of organic cation transport which is thought to contribute to the renal excretion of glycopyrrolate, increased total systemic exposure (AUC) to glycopyrrolate by 22% and decreased renal clearance by 23%.
 
-Special Populations
+Specific Populations
 
 Population pharmacokinetic analysis showed no evidence of a clinically relevant effect of age (40 to 85 years) or body weight (45 to 120 kg) on systemic exposure to glycopyrrolate.
 In addition, there was no evidence of a clinically significant ethnic/race effect (across Caucasian, Chinese, Hispanic/Latino, Japanese subjects).

@@ -17,7 +17,7 @@ Glycopyrrolate had no effects on peri-natal and post-natal developments in rats 
 ## 8.2 Labor and Delivery
 
 There are no adequate and well-controlled human trials that have investigated the effects of SEEBRI NEOHALER during labor and delivery.
-In human parturients undergoing caesarean section, 86 minutes after a single intramuscular injection of 0.006 mg/kg glycopyrrolate, umbilical plasma concentrations were low.
+In human parturients undergoing Caesarean section, 86 minutes after a single intramuscular injection of 0.006 mg/kg glycopyrrolate, umbilical plasma concentrations were low.
 
 ## 8.3 Nursing Mothers
 
