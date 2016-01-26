@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA077070"
+  ],
+  "inn": "sotalol",
+  "labeler": "Epic Pharma, LLC",
+  "package_ndcs": [
+    "42806-121-01",
+    "42806-121-10",
+    "42806-122-01",
+    "42806-122-10",
+    "42806-123-01",
+    "42806-123-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "sotalol hydrochloride",
+      "name": "Sotalol Hydrochloride"
+    }
+  ],
+  "setid": "c0a34c56-9641-4592-9754-bcc233ec86b6",
+  "source": "dailymed"
+}
