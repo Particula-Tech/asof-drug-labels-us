@@ -15,6 +15,8 @@ Reabsorbed free ursodiol is reconjugated by the liver.
 Eighty percent of lithocholic acid formed in the small bowel is excreted in the feces, but the 20% that is absorbed is sulfated at the 3-hydroxyl group in the liver to relatively insoluble lithocholyl conjugates which are excreted into bile and lost in feces.
 Absorbed 7-keto-lithocholic acid is stereospecifically reduced in the liver to chenodiol.
 
+Lithocholic acid causes cholestatic liver injury and can cause death from liver failure in certain species unable to form sulfate conjugates.
+Lithocholic acid is formed by 7-dehydroxylation of the dihydroxy bile acids (ursodiol and chenodiol) in the gut lumen.
 The 7-dehydroxylation reaction appears to be alpha-specific, i.e., chenodiol is more efficiently 7-dehydroxylated than ursodiol and, for equimolar doses of ursodiol and chenodiol, levels of lithocholic acid appearing in bile are lower with the former.
 Man has the capacity to sulfate lithocholic acid.
 Although liver injury has not been associated with ursodiol therapy, a reduced capacity to sulfate may exist in some individuals, but such a deficiency has not yet been clearly demonstrated.
