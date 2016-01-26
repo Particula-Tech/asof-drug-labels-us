@@ -1,5 +1,4 @@
-For Oral Use
+This product's label may have been updated.
+For full prescribing information, please visit www.pfizer.com.
 
-LAB-0113-9.0
-
-October 2013
+LAB-0113-10.0

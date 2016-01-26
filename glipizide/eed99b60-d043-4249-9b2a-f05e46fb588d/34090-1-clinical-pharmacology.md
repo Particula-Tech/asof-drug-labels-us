@@ -1,70 +1,96 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## Mechanism of Action
+## 12.1 Mechanism of Action
 
-Glipizide appears to lower blood glucose acutely by stimulating the release of insulin from the pancreas, an effect dependent upon functioning beta cells in the pancreatic islets.
-Extrapancreatic effects also may play a part in the mechanism of action of oral sulfonylurea hypoglycemic drugs.
-Two extrapancreatic effects shown to be important in the action of glipizide are an increase in insulin sensitivity and a decrease in hepatic glucose production.
-However, the mechanism by which glipizide lowers blood glucose during long-term administration has not been clearly established.
-Stimulation of insulin secretion by glipizide in response to a meal is of major importance.
+Glipizide primarily lowers blood glucose by stimulating the release of insulin from the pancreas, an effect dependent upon functioning beta cells in the pancreatic islets.
+Sulfonylureas bind to the sulfonylurea receptor in the pancreatic beta-cell plasma membrane, leading to closure of the ATP-sensitive potassium channel, thereby stimulating the release of insulin.
+
+## 12.2 Pharmacodynamics
+
 The insulinotropic response to a meal is enhanced with GLUCOTROL XL administration in diabetic patients.
 The postprandial insulin and C-peptide responses continue to be enhanced after at least 6 months of treatment.
-In 2 randomized, double-blind, dose-response studies comprising a total of 347 patients, there was no significant increase in fasting insulin in all GLUCOTROL XL-treated patients combined compared to placebo, although minor elevations were observed at some doses.
-There was no increase in fasting insulin over the long term.
+In two randomized, double-blind, dose-response studies comprising a total of 347 patients, there was no significant increase in fasting insulin in all GLUCOTROL XL-treated patients combined compared to placebo, although minor elevations were observed at some doses.
 
-Some patients fail to respond initially, or gradually lose their responsiveness to sulfonylurea drugs, including glipizide.
-Alternatively, glipizide may be effective in some patients who have not responded or have ceased to respond to other sulfonylureas.
+In studies of GLUCOTROL XL in subjects with type 2 diabete mellitus, once daily administration produced reductions in hemoglobin A1c, fasting plasma glucose and postprandial glucose.
+The relationship between dose and reduction in hemoglobin A1c was not established, however subjects treated with 20 mg had a greater reduction in fasting plasma glucose compared to subjects treated with 5 mg.
 
-## Effects on Blood Glucose
+## 12.3 Pharmacokinetics
 
-The effectiveness of GLUCOTROL XL Extended Release Tablets in type 2 diabetes at doses from 5–60 mg once daily has been evaluated in 4 therapeutic clinical trials each with long-term open extensions involving a total of 598 patients.
-Once daily administration of 5, 10 and 20 mg produced statistically significant reductions from placebo in hemoglobin A1C, fasting plasma glucose and postprandial glucose in patients with mild to severe type 2 diabetes.
-In a pooled analysis of the patients treated with 5 mg and 20 mg, the relationship between dose and GLUCOTROL XL's effect of reducing hemoglobin A1C was not established.
-However, in the case of fasting plasma glucose, patients treated with 20 mg had a statistically significant reduction of fasting plasma glucose compared to the 5 mg-treated group.
+Absorption
 
-The reductions in hemoglobin A1C and fasting plasma glucose were similar in younger and older patients.
-Efficacy of GLUCOTROL XL was not affected by gender, race or weight (as assessed by body mass index).
-In long-term extension trials, efficacy of GLUCOTROL XL was maintained in 81% of patients for up to 12 months.
+The absolute bioavailability of glipizide was 100% after single oral doses in patients with type 2 diabetes mellitus.
+Beginning 2 to 3 hours after administration of GLUCOTROL XL, plasma drug concentrations gradually rise reaching maximum concentrations within 6 to 12 hours after dosing.
+With subsequent once daily dosing of GLUCOTROL XL, plasma glipizide concentrations are maintained throughout the 24 hour dosing interval with less peak to trough fluctuation than that observed with twice daily dosing of immediate release glipizide.
 
-In an open, two-way crossover study, 132 patients were randomly assigned to either GLUCOTROL XL or Glucotrol® for 8 weeks and then crossed over to the other drug for an additional 8 weeks.
-GLUCOTROL XL administration resulted in significantly lower fasting plasma glucose levels and equivalent hemoglobin A1C levels, as compared to Glucotrol.
+The mean relative bioavailability of glipizide in 21 males with type 2 diabetes mellitus after administration of 20 mg GLUCOTROL XL, compared to immediate release Glucotrol (10 mg given twice daily), was 90% at steady-state.
+Steady-state plasma concentrations were achieved by at least the fifth day of dosing with GLUCOTROL XL in 21 males with type 2 diabetes mellitus and patients younger than 65 years.
+No accumulation of drug was observed in patients with type 2 diabetes mellitus during chronic dosing with GLUCOTROL XL.
 
-In 12 week, well-controlled studies, there was a maximal average net reduction in hemoglobin A1C of 1.7% in absolute units between placebo-treated and GLUCOTROL XL-treated patients.
-
-## Other Effects
-
-It has been shown that GLUCOTROL XL therapy is effective in controlling blood glucose without deleterious changes in the plasma lipoprotein profiles of patients treated for type 2 diabetes.
-
-In a placebo-controlled, crossover study in normal volunteers, glipizide had no antidiuretic activity, and, in fact, led to a slight increase in free water clearance.
-
-## Pharmacokinetics and Metabolism
-
-Glipizide is rapidly and completely absorbed following oral administration in an immediate release dosage form.
-The absolute bioavailability of glipizide was 100% after single oral doses in patients with type 2 diabetes.
-Beginning 2 to 3 hours after administration of GLUCOTROL XL Extended Release Tablets, plasma drug concentrations gradually rise reaching maximum concentrations within 6 to 12 hours after dosing.
-With subsequent once daily dosing of GLUCOTROL XL Extended Release Tablets, effective plasma glipizide concentrations are maintained throughout the 24 hour dosing interval with less peak to trough fluctuation than that observed with twice daily dosing of immediate release glipizide.
-The mean relative bioavailability of glipizide in 21 males with type 2 diabetes after administration of 20 mg GLUCOTROL XL Extended Release Tablets, compared to immediate release Glucotrol (10 mg given twice daily), was 90% at steady-state.
-Steady-state plasma concentrations were achieved by at least the fifth day of dosing with GLUCOTROL XL Extended Release Tablets in 21 males with type 2 diabetes and patients younger than 65 years.
-Approximately 1 to 2 days longer were required to reach steady-state in 24 elderly (≥65 years) males and females with type 2 diabetes.
-No accumulation of drug was observed in patients with type 2 diabetes during chronic dosing with GLUCOTROL XL Extended Release Tablets.
 Administration of GLUCOTROL XL with food has no effect on the 2 to 3 hour lag time in drug absorption.
 In a single dose, food effect study in 21 healthy male subjects, the administration of GLUCOTROL XL immediately before a high fat breakfast resulted in a 40% increase in the glipizide mean Cmax value, which was significant, but the effect on the AUC was not significant.
 There was no change in glucose response between the fed and fasting state.
 Markedly reduced GI retention times of the GLUCOTROL XL tablets over prolonged periods (e.g., short bowel syndrome) may influence the pharmacokinetic profile of the drug and potentially result in lower plasma concentrations.
-In a multiple dose study in 26 males with type 2 diabetes, the pharmacokinetics of glipizide were linear over the dose range of 5 to 60 mg of GLUCOTROL XL in that the plasma drug concentrations increased proportionately with dose.
-In a single dose study in 24 healthy subjects, four 5-mg, two 10-mg, and one 20-mg GLUCOTROL XL Extended Release Tablets were bioequivalent.
-In a separate single dose study in 36 healthy subjects, four 2.5-mg GLUCOTROL XL Extended Release Tablets were bioequivalent to one 10-mg GLUCOTROL XL Extended Release Tablet.
+
+In a multiple dose study in 26 males with type 2 diabetes mellitus, the pharmacokinetics of glipizide were linear with GLUCOTROL XL in that the plasma drug concentrations increased proportionately with dose.
+In a single dose study in 24 healthy subjects, four 5-mg, two 10-mg, and one 20-mg GLUCOTROL XL tablets were bioequivalent.
+In a separate single dose study in 36 healthy subjects, four 2.5-mg GLUCOTROL XL tablets were bioequivalent to one 10-mg GLUCOTROL XL tablet.
+
+Distribution
+
+The mean volume of distribution was approximately 10 liters after single intravenous doses in patients with type 2 diabetes mellitus.
+Glipizide is 98–99% bound to serum proteins, primarily to albumin.
+
+Metabolism
+
+The major metabolites of glipizide are products of aromatic hydroxylation and have no hypoglycemic activity.
+A minor metabolite, an acetylamino-ethyl benzene derivative, which accounts for less than 2% of a dose, is reported to have 1/10 to 1/3 as much hypoglycemic activity as the parent compound.
+
+Elimination
 
 Glipizide is eliminated primarily by hepatic biotransformation: less than 10% of a dose is excreted as unchanged drug in urine and feces; approximately 90% of a dose is excreted as biotransformation products in urine (80%) and feces (10%).
-The major metabolites of glipizide are products of aromatic hydroxylation and have no hypoglycemic activity.
-A minor metabolite which accounts for less than 2% of a dose, an acetylamino-ethyl benzene derivative, is reported to have 1/10 to 1/3 as much hypoglycemic activity as the parent compound.
-The mean total body clearance of glipizide was approximately 3 liters per hour after single intravenous doses in patients with type 2 diabetes.
-The mean apparent volume of distribution was approximately 10 liters.
-Glipizide is 98–99% bound to serum proteins, primarily to albumin.
-The mean terminal elimination half-life of glipizide ranged from 2 to 5 hours after single or multiple doses in patients with type 2 diabetes.
-There were no significant differences in the pharmacokinetics of glipizide after single dose administration to older diabetic subjects compared to younger healthy subjects.
-There is only limited information regarding the effects of renal impairment on the disposition of glipizide, and no information regarding the effects of hepatic disease.
-However, since glipizide is highly protein bound and hepatic biotransformation is the predominant route of elimination, the pharmacokinetics and/or pharmacodynamics of glipizide may be altered in patients with renal or hepatic impairment.
 
-In mice no glipizide or metabolites were detectable autoradiographically in the brain or spinal cord of males or females, nor in the fetuses of pregnant females.
-In another study, however, very small amounts of radioactivity were detected in the fetuses of rats given labelled drug.
+The mean total body clearance of glipizide was approximately 3 liters per hour after single intravenous doses in patients with type 2 diabetes mellitus.
+The mean terminal elimination half-life of glipizide ranged from 2 to 5 hours after single or multiple doses in patients with type 2 diabetes mellitus.
+
+Specific Populations
+
+Pediatric:
+
+Studies characterizing the pharmacokinetics of glipizide in pediatric patients have not been performed.
+
+Geriatric:
+
+There were no differences in the pharmacokinetics of glipizide after single dose administration to older diabetic subjects compared to younger healthy subjects.
+[see Use in Specific Populations (8.5)]
+
+Renal Impairment:
+
+The pharmacokinetics of glipizide has not been evaluated in patients with varying degree of renal impairment.
+Limited data indicates that glipizide biotransformation products may remain in circulation for a longer time in subjects with renal impairment than that seen in subjects with normal renal function.
+
+Hepatic Impairment:
+
+The pharmacokinetics of glipizide has not been evaluated in patients with hepatic impairment.
+
+Drug-drug Interactions
+
+Miconazole
+
+A potential interaction between oral miconazole and oral glipizide leading to severe hypoglycemia has been reported.
+Whether this interaction also occurs with the intravenous, topical, or vaginal preparations of miconazole is not known.
+[see Drug Interactions (7.1)]
+
+Fluconazole
+
+Concomitant treatment with fluconazole increases plasma concentrations of glipizide.
+The effect of concomitant administration of Diflucan® (fluconazole) and Glucotrol has been demonstrated in a placebo controlled crossover study in healthy volunteers.
+All subjects received Glucotrol alone and following treatment with 100 mg of Diflucan® as a single daily oral dose for 7 days.
+The mean percentage increase in the glipizide AUC after fluconazole administration was 56.9% (range: 35 to 81%).
+[see Drug Interactions (7.2)]
+
+Colesevelam
+
+Colesevelam can reduce the maximum plasma concentration and total exposure of glipizide when the two are coadministered.
+In studies assessing the effect of colesevelam on the pharmacokinetics of glipizide ER in healthy volunteers, reductions in glipizide AUC0–∞ and Cmax of 12% and 13%, respectively were observed when colesevelam was coadministered with glipizide ER.
+When glipizide ER was administered 4 hours prior to colesevelam, there was no significant change in glipizide AUC0–∞ or Cmax, -4% and 0%, respectively.
+[see Drug Interactions (7.3)]
