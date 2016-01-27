@@ -11,7 +11,7 @@ Antidepressant medicines may increase suicidal thoughts or actions in some child
 2.
 Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
 Some people may have particularly high risk of having suicidal thoughts or actions.
-These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
+These include people who have (or have a family history of) suicidal thoughts or actions.
 3.
 How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member? • Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
 This is very important when an antidepressant medicine is started or when the dose is changed. • Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings. • Keep all follow-up visits with the healthcare provider as scheduled.
@@ -26,7 +26,7 @@ Keep a list of all medicines to show the healthcare provider.
 Do not start new medicines without first checking with your healthcare provider. • Not all antidepressant medicines prescribed for children are FDA approved for use in children.
 Talk to your child’s healthcare provider for more information.
 What are aripiprazole tablets?
-Aripiprazole tablets are prescription medicine used to treat: O Schizophrenia  O manic or mixed episodes that happen with bipolar I disorder It is not known if aripiprazole tablets are safe or effective in children: • under 13 years of age with schizophrenia • under 10 years of age with bipolar I disorder Who should not take Aripiprazole tablets?
+Aripiprazole tablets are prescription medicine used to treat: O Schizophrenia It is not known if aripiprazole tablets are safe or effective in children: • under 13 years of age with schizophrenia Who should not take Aripiprazole tablets?
 Do not take aripiprazole tablets if you are allergic to aripiprazole or any of the ingredients in aripiprazole tablets.
 See the end of this Medication Guide for a complete list of ingredients in aripiprazole tablets.
 What should I tell my healthcare provider before taking aripiprazole tablets?
@@ -85,4 +85,4 @@ Manufactured by: HETEROTM HETERO LABS LIMITED Unit V, Polepally, Jadcherla, Maha
 
 ABILIFY is a trademark of Otsuka Pharmaceutical Company.
 
-Revised: April 2015
+Revised: October 2015

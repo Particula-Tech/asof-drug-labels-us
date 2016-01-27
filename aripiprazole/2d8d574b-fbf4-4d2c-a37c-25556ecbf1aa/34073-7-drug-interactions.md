@@ -2,7 +2,7 @@
 
 ## 7.1 Drugs Having Clinically Important Interactions with Aripiprazole Tablets
 
-Table 15: Clinically Important Drug Interactions with Aripiprazole Tablets:
+Table 12: Clinically Important Drug Interactions with Aripiprazole Tablets:
 
 | ConcomitantDrug Name orDrug Class | Clinical Rationale | Clinical Recommendation |
 | --- | --- | --- |

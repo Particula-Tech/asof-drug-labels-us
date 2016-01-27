@@ -18,6 +18,6 @@ Heat Exposure and Dehydration Patients should be advised regarding appropriate c
 
 Manufactured for: Camber Pharmaceuticals Inc. Piscataway, NJ 08854
 
-Manufactured by: HETEROTM HETERO LABS LIMITED 2029364 Unit V, Polepally, Jadcherla, Mahaboob Nagar-509 301, India.
+Manufactured by: HETEROTM HETERO LABS LIMITED 2032149 Unit V, Polepally, Jadcherla, Mahaboob Nagar-509 301, India.
 ABILIFY is a trademark of Otsuka Pharmaceutical Company.
-Revised: April 2015
+Revised: October 2015

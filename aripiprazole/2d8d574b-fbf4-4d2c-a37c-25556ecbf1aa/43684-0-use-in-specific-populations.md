@@ -36,10 +36,6 @@ Because of the potential for serious adverse reactions in nursing infants from a
 The pharmacokinetics of aripiprazole and dehydro-aripiprazole in pediatric patients, 10 to 17 years of age, were similar to those in adults after correcting for the differences in body weight [see CLINICAL PHARMACOLOGY (12.3)].
 Schizophrenia Safety and effectiveness in pediatric patients with schizophrenia were established in a 6-week, placebo-controlled clinical trial in 202 pediatric patients aged 13 to 17 years [see DOSAGE AND ADMINISTRATION (2.1), ADVERSE REACTIONS (6.1), and CLINICAL STUDIES (14.1)].
 Although maintenance efficacy in pediatric patients has not been systematically evaluated, maintenance efficacy can be extrapolated from adult data along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
-Bipolar I Disorder Safety and effectiveness in pediatric patients with bipolar mania were established in a 4-week, placebo-controlled clinical trial in 197 pediatric patients aged 10 to 17 years [see DOSAGE AND ADMINISTRATION (2.2), ADVERSE REACTIONS (6.1), and CLINICAL STUDIES (14.2)].
-Although maintenance efficacy in pediatric patients has not been systematically evaluated, maintenance efficacy can be extrapolated from adult data along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
-The efficacy of adjunctive aripiprazole tablets with concomitant lithium or valproate in the treatment of manic or mixed episodes in pediatric patients has not been systematically evaluated.
-However, such efficacy and lack of pharmacokinetic interaction between aripiprazole and lithium or valproate can be extrapolated from adult data, along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
 Information describing a clinical study in which efficacy was not demonstrated in patients ages 6 to 17 years is approved for Otsuka America Pharmaceutical, Inc.'s ABILIFY® (aripiprazole).
 Additional pediatric use information in patients ages 6 to 18 years is approved for Otsuka America Pharmaceutical, Inc.'s ABILIFY® (aripiprazole) product.
 However, due to Otsuka America Pharmaceutical, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
@@ -59,7 +55,7 @@ All drug-related effects were reversible after a 2-month recovery period.
 
 No dosage adjustment is recommended for elderly patients [see also BOXED WARNING, WARNINGS AND PRECAUTIONS (5.1), and CLINICAL PHARMACOLOGY (12.3)].
 Of the 13,543 patients treated with oral aripiprazole tablets in clinical trials, 1073 (8%) were ≥65 years old and 799 (6%) were ≥75 years old.
-Placebo-controlled studies of oral aripiprazole in schizophrenia, bipolar mania,or another indication did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Placebo-controlled studies of oral aripiprazole in schizophrenia, other indications did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Aripiprazole tablets are not approved for the treatment of patients with psychosis associated with Alzheimer's disease [see also BOXED WARNINGand WARNINGS AND PRECAUTIONS (5.1)].
 
 ## 8.6 CYP2D6 Poor Metabolizers

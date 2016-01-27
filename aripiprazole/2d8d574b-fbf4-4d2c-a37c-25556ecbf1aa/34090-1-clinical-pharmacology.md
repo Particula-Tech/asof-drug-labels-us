@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-The mechanism of action of aripiprazole in schizophrenia or bipolar mania, is unknown.
+The mechanism of action of aripiprazole in schizophrenia is unknown.
 However, the efficacy of aripiprazole could be mediated through a combination of partial agonist activity at D2 and 5-HT1A receptors and antagonist activity at 5-HT2A receptors.
 Actions at receptors other than D2, 5-HT1A, and 5-HT2A may explain some of the other clinical effects of aripiprazole (e.g., the orthostatic hypotension observed with aripiprazole may be explained by its antagonist activity at adrenergic alpha1 receptors).
 
