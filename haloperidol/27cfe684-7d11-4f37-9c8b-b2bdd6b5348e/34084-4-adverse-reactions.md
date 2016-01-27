@@ -101,3 +101,5 @@ Cataracts, retinopathy and visual disturbances.
 ## Postmarketing Events
 
 Hyperammonemia has been reported in a 5½ year old child with citrullinemia, an inherited disorder of ammonia excretion, following treatment with HALDOL.
+
+Rhabdomyolysis has been reported.
