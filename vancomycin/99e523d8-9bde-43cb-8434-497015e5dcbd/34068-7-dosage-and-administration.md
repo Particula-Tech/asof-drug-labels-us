@@ -85,10 +85,11 @@ Store in a freezer capable of maintaining a temperature at or below -20°C (-4°
 ### Thawing of Plastic Containers:
 
 - 1.Thaw frozen containers at room temperature (25°C/77°F) or under refrigeration (5°C/41°F).
-  DO NOT FORCE THAW BY IMMERSION IN WATER BATHS OR BY MICROWAVE IRRADIATION.
+  Product should not be thawed by immersion in waters baths or by microwave irradiation.
+  Do not force thaw.
 - 2.Check for minute leaks by squeezing the bag firmly.
   If leaks are detected, discard solution because sterility may be impaired.
-- 3.DO NOT ADD SUPPLEMENTARY MEDICATION.
+- 3.Do not add supplemental medication.
 - 4.Visually inspect the container.
   If the outlet port protector is damaged, detached, or not present, discard container as solution path sterility may be impaired.
   Components of the solution may precipitate in the frozen state and will dissolve upon reaching room temperature with little or no agitation.

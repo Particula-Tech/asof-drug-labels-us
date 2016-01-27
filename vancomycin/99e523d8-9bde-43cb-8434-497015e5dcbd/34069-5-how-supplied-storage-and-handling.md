@@ -2,14 +2,19 @@
 
 Vancomycin Injection, USP is supplied as a frozen, iso-osmotic, premixed solution in a 100 mL, 150 mL underfilled /200 mL, or 200 mL single dose GALAXY plastic container (PL 2040) in the following vancomycin-equivalent dose:
 
-| 2G3551 | 500 mg/100 mL container | NDC 0338-3551-48 |
+| 2G3551 | 500 mg/100 mL in single dose Galaxy container | NDC 0338-3551-48 |
 | --- | --- | --- |
-| 2G3580 | 750 mg/150 mL (underfill) in 200 mL container | NDC 0338-3580-48 |
-| 2G3552 | 1 g/200 mL container | NDC 0338-3552-48 |
+| 2G3590 | 500 mg/100 mL in single dose Galaxy container | NDC 0338-3581-01 |
+| 2G3580 | 750 mg/150 mL in single dose Galaxy container | NDC 0338-3580-48 |
+| 2G3591 | 750 mg/150 mL in single dose Galaxy container | NDC 0338-3582-01 |
+| 2G3552 | 1 g/200 mL in single dose Galaxy container | NDC 0338-3552-48 |
+| 2G3592 | 1 g/200 mL in single dose Galaxy container | NDC 0338-3583-01 |
 
 Store at or below -20°C (-4°F).
 
 See DIRECTIONS FOR USE OF Vancomycin Injection, USP in GALAXY plastic container (PL 2040).
 
+The thawed solution in GALAXY plastic container (PL 2040) remains chemically stable for 72 hours at room temperature (25°C/77°F) or for 30 days when stored under refrigeration (5°C/41°F).
+Do not refreeze.
 Handle frozen product containers with care.
 Product containers may be fragile in the frozen state.

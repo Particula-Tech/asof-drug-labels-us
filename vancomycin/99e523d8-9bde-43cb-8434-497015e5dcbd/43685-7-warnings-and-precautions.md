@@ -33,6 +33,11 @@ In rare instances, there have been reports of pseudomembranous colitis due to C.
 
 In order to minimize the risk of nephrotoxicity when treating patients with underlying renal dysfunction or patients receiving concomitant therapy with an aminoglycoside, serial monitoring of renal function should be performed and particular care should be taken in following appropriate dosing schedules (see DOSAGE AND ADMINISTRATION).
 
+Risk of High Sodium Load:
+
+Each 100mL solution of Vancomycin Injection, USP contains 0.9 g of Sodium Chloride, USP.
+Avoid use of Vancomycin Injection, USP with Sodium Chloride, USP in patients with congestive heart failure, elderly patients and patients requiring restricted sodium intake.
+
 Serial tests of auditory function may be helpful in order to minimize the risk of ototoxicity.
 
 Reversible neutropenia has been reported in patients receiving vancomycin (see ADVERSE REACTIONS).
