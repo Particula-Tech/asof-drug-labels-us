@@ -1,51 +1,43 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## Mechanism of Action
+## 12.1 Mechanism of Action
 
-The precise mechanism by which hydroxyurea produces its antineoplastic effects cannot, at present, be described.
-However, the reports of various studies in tissue culture in rats and humans lend support to the hypothesis that hydroxyurea causes an immediate inhibition of DNA synthesis by acting as a ribonucleotide reductase inhibitor without interfering with the synthesis of ribonucleic acid or of protein.
-This hypothesis explains why, under certain conditions, hydroxyurea may induce teratogenic effects.
+The precise mechanism by which hydroxyurea produces its cytotoxic and cytoreductive effects is not known.
+However, various studies support the hypothesis that hydroxyurea causes an immediate inhibition of DNA synthesis by acting as a ribonucleotide reductase inhibitor, without interfering with the synthesis of ribonucleic acid or of protein.
 
-Three mechanisms of action have been postulated for the increased effectiveness of concomitant use of hydroxyurea therapy with irradiation on squamous cell (epidermoid) carcinomas of the head and neck.
-In vitro studies utilizing Chinese hamster cells suggest that hydroxyurea (1) is lethal to normally radioresistant S-stage cells, and (2) holds other cells of the cell cycle in the G1 or pre-DNA synthesis stage where they are most susceptible to the effects of irradiation.
-The third mechanism of action has been theorized on the basis of in vitro studies of HeLa cells: it appears that hydroxyurea, by inhibition of DNA synthesis, hinders the normal repair process of cells damaged but not killed by irradiation, thereby decreasing their survival rate; RNA and protein synthesis have shown no alteration.
+The mechanisms by which hydroxyurea capsules produces its beneficial effects in patients with sickle cell anemia (SCA) are uncertain.
+Known pharmacologic effects of hydroxyurea capsules that may contribute to its beneficial effects include increasing hemoglobin F levels in red blood cells (RBCs), decreasing neutrophils, increasing the water content of RBCs, increasing deformability of sickled cells, and altering the adhesion of RBCs to endothelium.
 
-## Pharmacokinetics
+## 12.3 Pharmacokinetics
 
-Absorption -Hydroxyurea is readily absorbed after oral administration.
-Peak plasma levels are reached in 1 to 4 hours after an oral dose.
-With increasing doses, disproportionately greater mean peak plasma concentrations and AUCs are observed.
+Absorption
+
+Following oral administration of hydroxyurea capsules, hydroxyurea reaches peak plasma concentrations in 1 to 4 hours.
+Mean peak plasma concentrations and AUCs increase more than proportionally with increase of dose.
 
 There are no data on the effect of food on the absorption of hydroxyurea.
 
-Distribution -Hydroxyurea distributes rapidly and widely in the body with an estimated volume of distribution approximating total body water.
+Distribution
 
-Plasma to ascites fluid ratios range from 2:1 to 7.5:1.
+Hydroxyurea distributes throughout the body with a volume of distribution approximating total body water.
+
 Hydroxyurea concentrates in leukocytes and erythrocytes.
 
-Metabolism -Up to 60% of an oral dose undergoes conversion through metabolic pathways that are not fully characterized.
-One pathway is probably saturable hepatic metabolism.
-Another minor pathway may be degradation by urease found in intestinal bacteria.
-Acetohydroxamic acid was found in the serum of three leukemic patients receiving hydroxyurea and may be formed from hydroxylamine resulting from action of urease on hydroxyurea.
+Metabolism
 
-Excretion -Excretion of hydroxyurea in humans is likely a linear first-order renal process.
+Up to 60% of an oral dose undergoes conversion through saturable hepatic metabolism and a minor pathway of degradation by urease found in intestinal bacteria.
 
-## Special Populations
+Excretion
 
-Geriatric, Gender, Race -No information is available regarding pharmacokinetic differences due to age, gender or race.
+In patients with sickle cell anemia, the mean cumulative urinary recovery of hydroxyurea was about 40% of the administered dose.
 
-Pediatric -No pharmacokinetic data are available in pediatric patients treated with hydroxyurea.
+Specific Populations
 
-Renal Insufficiency -As renal excretion is a pathway of elimination, consideration should be given to decreasing the dosage of hydroxyurea in patients with renal impairment.
-In adult patients with sickle cell disease, an open-label, non-randomized, single-dose, multicenter study was conducted to assess the influence of renal function on the pharmacokinetics of hydroxyurea.
-Patients in the study with normal renal function (creatinine clearance (CrCl) >80 mL/min), mild (CrCl 50-80 mL/ min), moderate (CrCl = 30 <50 mL/min), or severe (<30 mL/min) renal impairment received hydroxyurea as a single oral dose of 15 mg/kg, achieved by using combinations of the 200 mg, 300 mg, or 400 mg capsules.
-Patients with end-stage renal disease, ESRD) received two doses of 15 mg/kg separated by 7 days, the first was given following a 4-hour hemodialysis session, the second prior to hemodialysis.
-In this study the mean exposure (AUC) in patients whose creatinine clearance was <60 mL/min (or ESRD) was approximately 64% higher than in patients with normal renal function.
-The results suggest that the initial dose of hydroxyurea should be reduced when used to treat patients with renal impairment.
-(See PRECAUTIONS and DOSAGE and ADMINISTRATION.)
-Close monitoring of hematologic parameters is advised in these patients.
+Renal Impairment
 
-Hepatic Insufficiency - There are no data that support specific guidance for dosage adjustment in patients with hepatic impairment.
-Close monitoring of hematologic parameters is advised in these patients.
-
-Drug Interactions -There are no data on concomitant use of hydroxyurea with other drugs in humans.
+The effect of renal impairment on the pharmacokinetics of hydroxyurea was assessed in adult patients with sickle cell disease and renal impairment.
+Patients with normal renal function (creatinine clearance [CrCl] >80 mL/min), mild (CrCl 50 to 80 mL/min), moderate (CrCl =30 to <50 mL/min), or severe (<30 mL/min) renal impairment received a single oral dose of 15 mg/kg hydroxyurea.
+Creatinine clearance values were obtained using 24-hour urine collections.
+Patients with ESRD received two doses of 15 mg/kg separated by 7 days; the first was given following a 4-hour hemodialysis session, the second prior to hemodialysis.
+The exposure to hydroxyurea (mean AUC) in patients with CrCl <60 mL/min and those with ESRD was 64% higher than in patients with normal renal function (CrCl > 60 mL/min).
+Reduce the dose of hydroxyurea capsules when it is administered to patients with creatinine clearance of < 60 mL/min or with ESRD following hemodialysis [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].

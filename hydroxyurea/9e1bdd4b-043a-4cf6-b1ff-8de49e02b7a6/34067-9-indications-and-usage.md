@@ -1,5 +1,3 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-Significant tumor response to hydroxyurea capsules, USP has been demonstrated in melanoma, resistant chronic myelocytic leukemia, and recurrent, metastatic, or inoperable carcinoma of the ovary.
-
-Hydroxyurea used concomitantly with irradiation therapy is intended for use in the local control of primary squamous cell (epidermoid) carcinomas of the head and neck, excluding the lip.
+Hydroxyurea capsules, USP is indicated to reduce the frequency of painful crises and to reduce the need for blood transfusions in patients with sickle cell anemia with recurrent moderate to severe painful crises.
