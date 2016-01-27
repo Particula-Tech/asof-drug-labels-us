@@ -29,11 +29,11 @@ For carboplatin dosage adjustment, see manufacturer’s prescribing information.
 Dose adjustment for Gemcitabine Injection in combination with carboplatin for subsequent cycles is based upon observed toxicity.
 The dose of Gemcitabine Injection in subsequent cycles should be reduced to 800 mg/m2 on Days 1 and 8 in case of any of the following hematologic toxicities:
 
-- Absolute granulocyte count <500 x 106/L for more than 5 days
-- Absolute granulocyte count <100 x 106/L for more than 3 days
-- Febrile neutropenia
-- Platelets <25,000 x 106/L
-- Cycle delay of more than one week due to toxicity
+- •Absolute granulocyte count <500 x 106/L for more than 5 days
+- •Absolute granulocyte count <100 x 106/L for more than 3 days
+- •Febrile neutropenia
+- •Platelets <25,000 x 106/L
+- •Cycle delay of more than one week due to toxicity
 
 If any of the above toxicities recur after the initial dose reduction, for the subsequent cycle, Gemcitabine Injection should be given on Day 1 only at 800 mg/m2.
 
@@ -112,11 +112,11 @@ If patients tolerate the subsequent course of Gemcitabine Injection at the incre
 
 Permanently discontinue Gemcitabine for any of the following
 
-- Unexplained dyspnea or other evidence of severe pulmonary toxicity
-- Severe hepatic toxicity
-- Hemolytic-Uremic Syndrome
-- Capillary Leak Syndrome
-- Posterior reversible encephalopathy syndrome
+- •Unexplained dyspnea or other evidence of severe pulmonary toxicity
+- •Severe hepatic toxicity
+- •Hemolytic-Uremic Syndrome
+- •Capillary Leak Syndrome
+- •Posterior reversible encephalopathy syndrome
 
 Withhold Gemcitabine or reduce dose by 50% for other severe (Grade 3 or 4) non-hematological toxicity until resolved.
 No dose modifications are recommended for alopecia, nausea, or vomiting.
