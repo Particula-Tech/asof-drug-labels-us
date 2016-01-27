@@ -5,7 +5,7 @@ It is purified from the culture supernatant by a series of precipitation, dialys
 The neurotoxin complex is composed of the neurotoxin, hemagglutinin proteins and non-toxin non-hemagglutinin protein.
 
 DYSPORT® is supplied in a single-use, sterile vial for reconstitution intended for intramuscular injection.
-Each vial contains 500 or 300 Units of lyophilized abobotulinumtoxinA, 125 micrograms human serum albumin and 2.5 mg lactose.
+Each vial contains 300 Units or 500 Units of lyophilized abobotulinumtoxinA, human serum albumin (125 mcg) and lactose (2.5 mg).
 DYSPORT® may contain trace amounts of cow's milk proteins [see Contraindications (4)].
 
 One unit of DYSPORT® corresponds to the calculated median lethal intraperitoneal dose (LD50) in mice.

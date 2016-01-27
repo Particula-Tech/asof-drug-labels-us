@@ -25,6 +25,10 @@ Rx only
 
 FOR INTRAMUSCULAR USE.
 
+ONLY reconstitute with preservative-free
+
+0.9% Sodium Chloride Injection, USP.
+
 STORE BETWEEN 2°C AND 8°C (36-46°F).
 
 DO NOT FREEZE.
@@ -42,7 +46,7 @@ for Injection For intramuscular use
 For single patient use only.
 Discard 24 hours after reconstitution.
 
-Inactive ingredients: Albumin Human, Lactose Monohydrate, and Water for Injection.
+Each vial contains 300 Units of abobotulinumtoxinA, human serum albumin (125 mcg), and lactose monohydrate (2.5 mg).
 
 Sterile, freeze-dried powder for reconstitution.
 
@@ -52,3 +56,11 @@ Dispense the enclosed Medication Guide to each patient.
 
 U.S. Lic.
 1787
+
+PROOF OF PURCHASE
+
+GENUINE DYSPORT ®
+
+LOT:
+
+EXP:

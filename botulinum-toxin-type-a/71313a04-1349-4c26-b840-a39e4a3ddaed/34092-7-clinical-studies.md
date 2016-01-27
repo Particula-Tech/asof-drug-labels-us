@@ -2,7 +2,7 @@
 
 ## 14.1 Cervical Dystonia
 
-The efficacy of DYSPORT® was evaluated in two well-controlled, randomized, double-blind, placebo controlled, single dose, parallel group studies in treatment-naïve cervical dystonia patients.
+The efficacy of DYSPORT® was evaluated in two randomized, double-blind, placebo controlled, single dose, parallel group studies in treatment-naïve cervical dystonia patients.
 The principal analyses from these trials provide the primary demonstration of efficacy involving 252 patients (121 on DYSPORT®, 131 on placebo) with 36% male and 64% female.
 Ninety-nine percent of the patients were Caucasian.
 
@@ -13,11 +13,11 @@ The median time to re-treatment was 14 weeks and 18 weeks for the 75th percentil
 
 The primary assessment of efficacy was based on the total Toronto Western Spasmodic Torticollis Rating Scale (TWSTRS) change from baseline at Week 4 for both studies.
 The scale evaluates the severity of dystonia, patient perceived disability from dystonia, and pain.
-The adjusted mean change from baseline in the TWSTRS total score was statistically significantly greater for the DYSPORT® group than the placebo group at Weeks 4 in both studies (see Table 4).
+The adjusted mean change from baseline in the TWSTRS total score was statistically significantly greater for the DYSPORT® group than the placebo group at Weeks 4 in both studies (see Table 7).
 
 Analyses by gender, weight, geographic region, underlying pain, cervical dystonia severity at baseline and history of treatment with botulinum toxin did not show any meaningful differences between groups.
 
-Table 5 indicates the average DYSPORT® dose, and percentage of total dose, injected into specific muscles in the pivotal clinical trials.
+Table 8 indicates the average DYSPORT® dose, and percentage of total dose, injected into specific muscles in the pivotal clinical trials.
 
 ## 14.2 Glabellar Lines
 
@@ -29,7 +29,7 @@ The total dose was delivered in equally divided aliquots to specified injection 
 
 Investigators and subjects assessed efficacy at maximum frown by using a 4-point scale (none, mild, moderate, severe).
 
-Overall treatment success was defined as post-treatment glabellar line severity of none or mild with at least 2 grade improvement from Baseline for the combined investigator and subject assessments (composite assessment) on Day 30 (see Table 6).
+Overall treatment success was defined as post-treatment glabellar line severity of none or mild with at least 2 grade improvement from Baseline for the combined investigator and subject assessments (composite assessment) on Day 30 (see Table 9).
 Additional endpoints for each of the studies were post-treatment glabellar line severity of none or mild with at least a 1 grade improvement from Baseline for the separate investigator and subject assessments on Day 30.
 
 After completion of the randomized studies, subjects were offered participation in a two-year, open-label re-treatment study to assess the safety of multiple treatments.
@@ -41,9 +41,9 @@ Study GL-1
 Study GL-1 was a single dose, double-blind, multi-center, randomized, placebo-controlled study in which 158 previously untreated subjects received either placebo or 50 Units of DYSPORT®, administered in five aliquots of 10 Units (see Figure 1).
 Subjects were followed for 180 days.
 The mean age was 43 years; most of the subjects were women (85%), and predominantly Caucasian (49%) or Hispanic (47%).
-At Day 30, 55% of DYSPORT®-treated subjects achieved treatment success: a composite 2 grade improvement of glabellar line severity at maximum frown (see Table 6).
+At Day 30, 55% of DYSPORT®-treated subjects achieved treatment success: a composite 2 grade improvement of glabellar line severity at maximum frown (Table 9).
 
-In study GL-1, the reduction of glabellar line severity at maximum frown was greater at Day 30 in the DYSPORT® group compared to the placebo group as assessed by both Investigators and subjects (see Table 7).
+In study GL-1, the reduction of glabellar line severity at maximum frown was greater at Day 30 in the DYSPORT® group compared to the placebo group as assessed by both Investigators and subjects (Table 10).
 
 Study GL-2
 
@@ -55,11 +55,10 @@ Efficacy was assessed in the final randomized treatment cycle.
 The study enrolled 311 subjects into the first treatment cycle and 142 subjects were randomized into the final treatment cycle.
 Overall, the mean age was 47 years; most of the subjects were women (86%) and predominantly Caucasian (80%).
 
-At Day 30, 52% of DYSPORT®-treated subjects achieved treatment success: a composite 2 grade improvement of glabellar line severity at maximum frown (see Table 6).
+At Day 30, 52% of DYSPORT®-treated subjects achieved treatment success: a composite 2 grade improvement of glabellar line severity at maximum frown (see Table 9).
 
 The proportion of responders in the final treatment cycle was comparable to the proportion of responders in all prior treatment cycles.
-
-After the final repeat treatment with DYSPORT®, the reduction of glabellar line severity at maximum frown was greater at Day 30 in the DYSPORT® group compared to the placebo group as assessed by both Investigators and subjects (see Table 8).
+After the final repeat treatment with DYSPORT®, the reduction of glabellar line severity at maximum frown was greater at Day 30 in the DYSPORT® group compared to the placebo group as assessed by both Investigators and subjects (Table 12).
 
 Study GL-3
 
@@ -67,11 +66,21 @@ Study GL-3 was a single dose, double-blind, multi-center, randomized, placebo-co
 Subjects were followed for 150 days.
 The mean age was 44 years; most of the subjects were women (87%), and predominantly Caucasian (75%) or Hispanic (18%).
 
-At Day 30, 60% of DYSPORT®-treated subjects achieved treatment success: a composite 2 grade improvement of glabellar line severity at maximum frown (see Table 6).
+At Day 30, 60% of DYSPORT®-treated subjects achieved treatment success: a composite 2 grade improvement of glabellar line severity at maximum frown (see Table 9).
 
-In study GL-3, the reduction of glabellar line severity at maximum frown was greater at Day 30 in the DYSPORT® group compared to the placebo group as assessed by both Investigators and subjects (see Table 9).
+In study GL-3, the reduction of glabellar line severity at maximum frown was greater at Day 30 in the DYSPORT® group compared to the placebo group as assessed by both Investigators and subjects (see Table 12).
 
 Geriatric Subjects
 
 In GL1, GL2, and GL3, there were 8 subjects aged 65 and older who were randomized to DYSPORT® 50 Units in 5 equal aliquots of 10 Units (4) or placebo (4).
 None of the geriatric DYSPORT® subjects were a treatment success at maximum frown at Day 30.
+
+## 14.3 Upper Limb Spasticity
+
+The efficacy and safety of DYSPORT® for the treatment of upper limb spasticity was evaluated in a randomized, multi-center, double- blind, placebo-controlled study that included 238 patients (159 DYSPORT® and 79 placebo) with upper limb spasticity (Modified Ashworth Scale (MAS) score ≥2 in the primary targeted muscle group for toxin naive patients or MAS score ≥3 in the primary targeted muscle group for toxin non-naive patients at least 4 months after the last botulinum toxin injection, of any serotype) who were at least 6 months post-stroke or post-traumatic brain injury.
+
+DYSPORT® 500 Units (N=80), DYSPORT® 1000 Units (N=79), or placebo (N=79) was injected intramuscularly into the affected upper limb muscles.
+After injection of the primary targeted muscle groups (PTMG), the remainder of the dose was injected into at least two additional upper limb muscles determined by the patient's individual presentation.
+Table 13 provides the mean and range of DYSPORT® doses injected and the number of injections into specific muscles of the upper limb.
+
+The co-primary efficacy variables were muscle tone assessed by the MAS at the primary targeted muscle group at week 4 and the Physician Global Assessment (PGA) at week 4.

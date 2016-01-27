@@ -2,8 +2,12 @@
 
 ## 1.1 Cervical Dystonia
 
-DYSPORT® (abobotulinumtoxinA) is an acetylcholine release inhibitor and a neuromuscular blocking agent indicated for the treatment of adults with cervical dystonia to reduce the severity of abnormal head position and neck pain in both toxin-naïve and previously treated patients.
+DYSPORT® is indicated for the treatment of adults with cervical dystonia.
 
 ## 1.2 Glabellar Lines
 
-DYSPORT® (abobotulinumtoxinA) is an acetylcholine release inhibitor and a neuromuscular blocking agent indicated for the temporary improvement in the appearance of moderate to severe glabellar lines associated with procerus and corrugator muscle activity in adult patients < 65 years of age.
+DYSPORT® is indicated for the temporary improvement in the appearance of moderate to severe glabellar lines associated with procerus and corrugator muscle activity in adult patients less than 65 years of age.
+
+## 1.3 Upper Limb Spasticity
+
+DYSPORT® is indicated for the treatment of upper limb spasticity in adult patients, to decrease the severity of increased muscle tone in elbow flexors, wrist flexors and finger flexors.
