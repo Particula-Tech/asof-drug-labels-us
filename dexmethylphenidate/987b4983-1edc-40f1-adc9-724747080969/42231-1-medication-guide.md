@@ -125,4 +125,4 @@ You may report side effects to FDA at 1-800-FDA-1088.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Manufactured and Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512 6487T01 Rev.
-07/2015
+09/2015
