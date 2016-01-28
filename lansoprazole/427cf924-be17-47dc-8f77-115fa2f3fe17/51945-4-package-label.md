@@ -1,6 +1,6 @@
 # Package/Label Display Panel
 
-## Lansoprazole Delayed-Release Capsules USP 15 mg, 30s Label Text
+## Lansoprazole Delayed-Release Capsules USP 15 mg 30s Label Text
 
 NDC 0093-7350-56
 
@@ -10,9 +10,9 @@ Delayed-Release
 
 Capsules USP, 15 mg
 
-PHARMACIST: PLEASE DISPENSE
+PHARMACIST: Please dispense
 
-WITH ATTACHED MEDICATION GUIDE
+WITH ATTACHED Medication Guide
 
 Rx only
 
@@ -22,7 +22,7 @@ TEVA
 
 # Package/Label Display Panel
 
-## Lansoprazole Delayed-Release Capsules USP 30 mg, 30s Label Text
+## Lansoprazole Delayed-Release Capsules USP 30 mg 30s Label Text
 
 NDC 0093-7351-56
 
@@ -32,9 +32,9 @@ Delayed-Release
 
 Capsules USP, 30 mg
 
-PHARMACIST: PLEASE DISPENSE
+PHARMACIST: PLEASE Dispense
 
-WITH ATTACHED MEDICATION GUIDE
+WITH ATTACHED Medication Guide
 
 Rx only
 

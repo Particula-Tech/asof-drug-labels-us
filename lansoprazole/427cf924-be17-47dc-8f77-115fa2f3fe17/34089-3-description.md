@@ -16,4 +16,3 @@ The degradation half-life of the drug substance in aqueous solution at 25°C is 
 The lansoprazole delayed-release capsules USP for oral administration are available in two dosage strengths: 15 mg and 30 mg of lansoprazole, USP per capsule.
 Each delayed-release capsule contains enteric-coated granules consisting of 15 mg or 30 mg of lansoprazole, USP (active ingredient) and the following inactive ingredients: black iron oxide, gelatin, hypromellose, magnesium carbonate, methacrylic acid copolymer dispersion, propylene glycol, red iron oxide, shellac, sugar spheres (which contain sucrose and corn starch), talc, titanium dioxide, and triethyl citrate.
 Additionally, 15 mg capsule contains brilliant blue FCF - FD&C blue 1.
-The imprinting ink may contain potassium hydroxide.

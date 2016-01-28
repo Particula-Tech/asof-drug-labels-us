@@ -5,8 +5,8 @@
 Patient should be informed of the following:
 
 - •Advise patients to immediately report and seek care for diarrhea that does not improve.
-  This may be a sign of Clostridium Difficile associated diarrhea [see Warnings and Precautions (5.2)].
-- •Advise patients to immediately report and seek care for any cardiovascular or neurological symptoms including palpitations, dizziness, seizures, and tetany as these may be signs of hypomagnesemia [see Warnings and Precautions (5.4)].
+  This may be a sign of Clostridium difficile associated diarrhea [see Warnings and Precautions (5.4)].
+- •Advise patients to immediately report and seek care for any cardiovascular or neurological symptoms including palpitations, dizziness, seizures, and tetany as these may be signs of hypomagnesemia [see Warnings and Precautions (5.6)].
 
 Information for Patients
 
@@ -48,4 +48,4 @@ All brand names listed are the registered trademarks of their respective owners 
 Manufactured For: TEVA PHARMACEUTICALS USA, INC. North Wales, PA 19454
 
 Rev.
-K 1/2015
+L 12/2015

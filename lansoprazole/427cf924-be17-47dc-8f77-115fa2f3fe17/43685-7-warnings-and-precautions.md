@@ -16,9 +16,9 @@ Daily treatment with any acid-suppressing medications over a long period of time
 Rare reports of cyanocobalamin deficiency occurring with acid-suppressing therapy have been reported in the literature.
 This diagnosis should be considered if clinical symptoms consistent with cyanocobalamin deficiency are observed.
 
-## 5.4 Clostridium Difficile Associated Diarrhea
+## 5.4 Clostridium difficile Associated Diarrhea
 
-Published observational studies suggest that proton pump inhibitor (PPI) therapy like lansoprazole delayed-release capsules may be associated with an increased risk of Clostridium Difficile associated diarrhea (CDAD), especially in hospitalized patients.
+Published observational studies suggest that proton pump inhibitor (PPI) therapy like lansoprazole delayed-release capsules may be associated with an increased risk of Clostridium difficile associated diarrhea (CDAD), especially in hospitalized patients.
 This diagnosis should be considered for diarrhea that does not improve [see Adverse Reactions (6.2)].
 
 Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.

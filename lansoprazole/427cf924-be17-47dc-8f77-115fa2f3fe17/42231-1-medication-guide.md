@@ -15,10 +15,8 @@ Lansoprazole delayed-release capsules can cause serious side effects, including:
 
 - •Diarrhea.
   Lansoprazole delayed-release capsules may increase your risk of getting severe diarrhea.
-  This diarrhea may be caused by an infection (Clostridium Difficile) in your intestines.
-
-Call your doctor right away if you have watery stool, stomach pain, and fever that does not go away.
-
+  This diarrhea may be caused by an infection (Clostridium difficile) in your intestines.
+- Call your doctor right away if you have watery stool, stomach pain, and fever that does not go away.
 - •Bone fractures.
   People who take multiple daily doses of proton pump inhibitor medicines for a long period of time (a year or longer) may have an increased risk of fractures of the hip, wrist or spine.
   You should take lansoprazole delayed-release capsules exactly as prescribed, at the lowest dose possible for your treatment and for the shortest time needed.
@@ -87,6 +85,7 @@ Lansoprazole delayed-release capsules may affect how other medicines work, and o
 Especially tell your doctor if you take:
 
 - •atazanavir (Reyataz®)
+- •nelfinavir (Viracept®)
 - •erlotinib (Tarceva®)
 - •digoxin (Lanoxin®)
 - •a product that contains iron
@@ -112,8 +111,8 @@ How should I take lansoprazole delayed-release capsules?
   - •You should swallow lansoprazole delayed-release capsules whole.
   - •Do not crush or chew lansoprazole delayed-release capsules.
   - •If you have trouble swallowing a whole capsule, you can open the capsule and take the contents with certain foods or juices.
-    See the “Instructions for Use” at the end of this Medication Guide for instructions on how to take lansoprazole delayed-release capsules with certain foods and juices.
-  - •See the “Instructions for Use” at the end of this Medication Guide for instructions on how to mix and give lansoprazole delayed-release capsules through a nasogastric tube.
+    See the “Instructions for Use” for instructions on how to take lansoprazole delayed-release capsules with certain foods and juices.
+  - •See the “Instructions for Use” for instructions on how to mix and give lansoprazole delayed-release capsules through a nasogastric tube.
 - •If you miss a dose, take it as soon as you remember.
   If it is almost time for your next dose, skip the missed dose.
   Just take the next dose at your regular time.
@@ -202,7 +201,6 @@ Inactive ingredients in lansoprazole delayed-release capsules:
 
 black iron oxide, gelatin, hypromellose, magnesium carbonate, methacrylic acid copolymer dispersion, propylene glycol, red iron oxide, shellac, sugar spheres (which contain sucrose and corn starch), talc, titanium dioxide, and triethyl citrate.
 Additionally, 15 mg capsule contains brilliant blue FCF - FD&C blue 1.
-The imprinting ink may contain potassium hydroxide.
 
 All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA, Inc.
 
@@ -211,4 +209,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 Manufactured For: TEVA PHARMACEUTICALS USA, INC. North Wales, PA 19454
 
 Rev.
-A 1/2015
+B 12/2015

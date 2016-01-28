@@ -9,7 +9,8 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 The following adverse reactions were reported by the treating physician to have a possible or probable relationship to drug in 1% or more of lansoprazole-treated patients and occurred at a greater rate in lansoprazole-treated patients than placebo-treated patients in Table 1.
 
-Table 1: Incidence of Possibly or Probably Treatment-Related Adverse Reactions in Short-Term, Placebo-Controlled Lansoprazole Studies
+Table 1.
+Incidence of Possibly or Probably Treatment-Related Adverse Reactions in Short-Term, Placebo-Controlled Lansoprazole Studies
 
 | Body System/Adverse Event | Lansoprazole | Placebo |
 | --- | --- | --- |
@@ -65,7 +66,7 @@ The majority of these cases are foreign-sourced and a relationship to lansoprazo
 Because these reactions were reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
 These events are listed below by COSTART body system.
 
-Body as a Whole - anaphylactic/anaphylactoid reactions; Digestive System - hepatotoxicity, pancreatitis, vomiting; Hemic and Lymphatic System - agranulocytosis, aplastic anemia, hemolytic anemia, leukopenia, neutropenia, pancytopenia, thrombocytopenia, and thrombotic thrombocytopenic purpura; Infections and Infestations – Clostridium Difficile associated diarrhea; Metabolism and Nutritional Disorders - hypomagnesemia; Musculoskeletal System - bone fracture, myositis; Skin and Appendages - severe dermatologic reactions including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis (some fatal); Special Senses - speech disorder; Urogenital System - interstitial nephritis, urinary retention.
+Body as a Whole - anaphylactic/anaphylactoid reactions; Digestive System - hepatotoxicity, pancreatitis, vomiting; Hemic and Lymphatic System - agranulocytosis, aplastic anemia, hemolytic anemia, leukopenia, neutropenia, pancytopenia, thrombocytopenia, and thrombotic thrombocytopenic purpura; Infections and Infestations – Clostridium difficile associated diarrhea; Metabolism and Nutritional Disorders - hypomagnesemia; Musculoskeletal System - bone fracture, myositis; Skin and Appendages - severe dermatologic reactions including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis (some fatal); Special Senses - speech disorder; Urogenital System - interstitial nephritis, urinary retention.
 
 ## 6.3 Combination Therapy With Amoxicillin and Clarithromycin
 

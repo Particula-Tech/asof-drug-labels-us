@@ -28,22 +28,22 @@ In the clinical trials, antacids were used concomitantly with lansoprazole.
 | Risk Reduction | 15 mg | Once daily for up to 12 weeks |
 | Gastroesophageal Reflux Disease (GERD) |  |  |
 | Short-Term Treatment of Symptomatic GERD | 15 mg | Once daily for up to 8 weeks |
-| Short-Term Treatment of Erosive Esophagitis | 30 mg | Once daily for up to 8 weeksFor patients who do not heal with lansoprazole delayed-release capsules for 8 weeks (5 to 10%), it may be helpful to give an additional 8 weeks of treatment. If there is a recurrence of erosive esophagitis, an additional 8 week course of lansoprazole delayed-release capsules may be considered. |
+| Short-Term Treatment of Erosive Esophagitis | 30 mg | Once daily for up to 8 weeksFor patients who do not heal with lansoprazole delayed-release capsules for eight weeks (5 to 10%), it may be helpful to give an additional eight weeks of treatment. If there is a recurrence of erosive esophagitis, an additional eight week course of lansoprazole delayed-release capsules may be considered. |
 | Pediatric |  |  |
 | (1 to 11 years of age) |  |  |
 | Short-Term Treatment of Symptomatic GERD and Short-Term Treatment of Erosive Esophagitis |  |  |
-| ≤ 30 kg | 15 mg | Once daily for up to 12 weeksThe lansoprazole dose was increased (up to 30 mg twice daily) in some pediatric patients after 2 or more weeks of treatment if they remained symptomatic. For pediatric patients unable to swallow an intact capsule please see Administration Options. |
+| ≤ 30 kg | 15 mg | Once daily for up to 12 weeksThe lansoprazole dose was increased (up to 30 mg twice daily) in some pediatric patients after two or more weeks of treatment if they remained symptomatic. For pediatric patients unable to swallow an intact capsule please see Administration Options. |
 | > 30 kg | 30 mg | Once daily for up to 12 weeks |
 | (12 to 17 years of age) |  |  |
 | Short-Term Treatment of Symptomatic GERD |  |  |
 | Nonerosive GERD | 15 mg | Once daily for up to 8 weeks |
 | Erosive Esophagitis | 30 mg | Once daily for up to 8 weeks |
 | Maintenance of Healing of Erosive Esophagitis | 15 mg | Once dailyControlled studies did not extend beyond 12 months. |
-| Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome | 60 mg | Once dailyVaries with individual patient. Recommended adult starting dose is 60 mg once daily. Doses should be adjusted to individual patient needs and should continue for as long as clinically indicated. Dosages up to 90 mg twice daily have been administered. Daily dose of greater than 120 mg should be administered in divided doses. Some patients with Zollinger-Ellison syndrome have been treated continuously with lansoprazole for more than 4 years. |
+| Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome | 60 mg | Once dailyVaries with individual patient. Recommended adult starting dose is 60 mg once daily. Doses should be adjusted to individual patient needs and should continue for as long as clinically indicated. Dosages up to 90 mg twice daily have been administered. Daily dose of greater than 120 mg should be administered in divided doses. Some patients with Zollinger-Ellison syndrome have been treated continuously with lansoprazole for more than four years. |
 
 Patients should be instructed that if a dose is missed, it should be taken as soon as possible.
 However, if the next scheduled dose is due, the patient should not take the missed dose, and should be instructed to take the next dose on time.
-Patients should be instructed not to take 2 doses at one time to make up for a missed dose.
+Patients should be instructed not to take two doses at one time to make up for a missed dose.
 
 ## 2.2 Special Populations
 
@@ -63,7 +63,7 @@ Lansoprazole Delayed-Release Capsules - Oral Administration
   - •Swallow immediately.
 - •Lansoprazole delayed-release capsules may also be emptied into a small volume of either apple juice, orange juice or tomato juice and administered as follows:
   - •Open capsule.
-  - •Sprinkle intact granules into a small volume of either apple juice, orange juice or tomato juice (60 mL - approximately 2 ounces).
+  - •Sprinkle intact granules into a small volume of either apple juice, orange juice or tomato juice (60 mL - approximately two ounces).
   - •Mix briefly.
   - •Swallow immediately.
   - •To ensure complete delivery of the dose, the glass should be rinsed with two or more volumes of juice and the contents swallowed immediately.
