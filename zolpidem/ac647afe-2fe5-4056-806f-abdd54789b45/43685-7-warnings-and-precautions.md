@@ -48,13 +48,13 @@ Amnesia, anxiety and other neuro-psychiatric symptoms may also occur.
 It can rarely be determined with certainty whether a particular instance of the abnormal behaviors listed above is drug induced, spontaneous in origin, or a result of an underlying psychiatric or physical disorder.
 Nonetheless, the emergence of any new behavioral sign or symptom of concern requires careful and immediate evaluation.
 
-## 5.9 Use in Patients with Depression
+## 5.5 Use in Patients with Depression
 
 In primarily depressed patients treated with sedative-hypnotics, worsening of depression, and suicidal thoughts and actions (including completed suicides), have been reported.
 Suicidal tendencies may be present in such patients and protective measures may be required.
 Intentional overdosage is more common in this group of patients; therefore, the lowest number of tablets that is feasible should be prescribed for the patient at any one time.
 
-## 5.10 Respiratory Depression
+## 5.6 Respiratory Depression
 
 Although studies with 10 mg zolpidem tartrate did not reveal respiratory depressant effects at hypnotic doses in healthy subjects or in patients with mild-to-moderate chronic obstructive pulmonary disease (COPD), a reduction in the Total Arousal Index, together with a reduction in lowest oxygen saturation and increase in the times of oxygen desaturation below 80% and 90%, was observed in patients with mild-to-moderate sleep apnea when treated with zolpidem compared to placebo.
 Since sedative-hypnotics have the capacity to depress respiratory drive, precautions should be taken if zolpidem tartrate extended-release tablets are prescribed to patients with compromised respiratory function.
