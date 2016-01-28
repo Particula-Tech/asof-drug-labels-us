@@ -8,6 +8,6 @@ Its empirical formula is C24H29N5O3, its molecular weight is 435.52, and its str
 Valsartan is a white to practically white fine powder.
 It is soluble in ethanol and methanol and slightly soluble in water.
 
-Valsartan is available as tablets for oral administration, containing 40 mg, 80 mg, 160 mg or 320 mg of valsartan.
+Valsartan tablets USP are available for oral administration, containing 40 mg, 80 mg, 160 mg or 320 mg of valsartan.
 The inactive ingredients of the tablets are colloidal silicon dioxide, croscarmellose sodium, crospovidone, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, pregelatinized starch and titanium dioxide.
 In addition, the 40 mg tablet contains iron oxide yellow, 80 mg tablet contains iron oxide red, 160 mg tablet contains iron oxide red and iron oxide yellow, and 320 mg tablet contains iron oxide black, iron oxide red and iron oxide yellow.
