@@ -8,7 +8,7 @@ After one year administer 60 mg twice daily.
 
 Do not administer BRILINTA with another oral P2Y12 platelet inhibitor.
 
-Use BRILINTA with a daily maintenance dose of aspirin of 75-100 mg [see Warnings (5.2) and Clinical Studies (14.1)].
+Use BRILINTA with a daily maintenance dose of aspirin of 75-100 mg [see Warnings and Precautions (5.2) and Clinical Studies (14.1)].
 A patient who misses a dose of BRILINTA should take one tablet (their next dose) at its scheduled time.
 
 ## 2.2 Administration
