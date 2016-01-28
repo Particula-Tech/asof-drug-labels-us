@@ -46,7 +46,7 @@ The SPIRIVA RESPIMAT inhaler
 | Figure 7 | Step 7. Point the SPIRIVA RESPIMAT inhaler toward the ground (away from your face). Press the dose release button. See Figure 7. Close the cap. Repeat Steps 5, 6, and 7 until a spray is visible. Once the spray is visible, you must repeat Steps 5, 6, and 7 three more times to make sure the inhaler is prepared for use. Your SPIRIVA RESPIMAT inhaler is now ready to use. These steps will not affect the number of doses available. After preparation and initial priming, your SPIRIVA RESPIMAT inhaler will be able to deliver the labeled number of doses (30 or 14). |  |
 | Daily Dosing |  |  |
 | Figure A | Step A. Hold the SPIRIVA RESPIMAT inhaler upright with the cap closed, so you do not accidentally release a dose of medicine. Turn the clear base in the direction of the arrows on the label until it clicks (half a turn). See Figure A. |  |
-| Figure B | Step B. Flip the cap until it snaps fully open. Breathe out slowly and fully, and then close your lips around the end of the mouthpiece without covering the air vents. See Figure B. Point your SPIRIVA RESPIMAT inhaler to the back of your throat. While taking in a slow, deep breath through your mouth, press the dose release button and continue to breathe in slowly for as long as you can. Hold your breath for 10 seconds or for as long as comfortable. Step C. Repeat Step A and Step B so that you get the full dose. Close the cap until you use your SPIRIVA RESPIMAT inhaler again. |  |
+| Figure B | Step B. Flip the cap until it snaps fully open. Breathe out slowly and fully, and then close your lips around the end of the mouthpiece without covering the air vents. See Figure B. Point your SPIRIVA RESPIMAT inhaler to the back of your throat. While taking in a slow, deep breath through your mouth, press the dose release button and continue to breathe in slowly for as long as you can. Hold your breath for 10 seconds or for as long as comfortable. Step C. Repeat Steps A and B so that you get the full dose. Close the cap until you use your SPIRIVA RESPIMAT inhaler again. |  |
 |  | Helpful Hints for Daily Dosing: Using the SPIRIVA RESPIMAT inhaler requires 3 simple steps. A helpful way to remember the steps for Daily Dosing is to remember TOP: Turn the clear base Open the cap and close your lips around the mouthpiece Press the dose-release button and inhale These steps should be performed two times to receive the proper dose of medicine. |  |
 | If your SPIRIVA RESPIMAT inhaler has not been used for more than 3 days, spray one puff toward the ground to prepare the inhaler for use. If your SPIRIVA RESPIMAT inhaler has not been used for more than 21 days, repeat Steps 5, 6, and 7 until a spray is visible. Then repeat Steps 5, 6, and 7 three more times to prepare the inhaler for use. For more information about SPIRIVA RESPIMAT or a video demonstration on how to use SPIRIVA RESPIMAT, go to www.spiriva.com, or scan the code below. You may also call 1-800-542-6257 or (TTY) 1-800-459-9906 for further information about SPIRIVA RESPIMAT. |  |  |
 | When should I get a new SPIRIVA RESPIMAT inhaler? |  |  |
@@ -79,8 +79,8 @@ Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 
 
 SPIRIVA®, HandiHaler®, and RESPIMAT® are registered trademarks and are used under license from Boehringer Ingelheim International GmbH
 
-Copyright © 2015 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2016 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Revised: September 2015
+Revised: January 2016
 
-IT5904BI142015 304478-02
+IT5904DA202016 304478-03

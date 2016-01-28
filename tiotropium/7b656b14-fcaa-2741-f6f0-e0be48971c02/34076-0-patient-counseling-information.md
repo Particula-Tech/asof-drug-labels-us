@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Instructions for Use)
+Advise the patient to read the FDA-approved patient labeling (Instructions for Use).
 
 Not for Acute Use Instruct patients that SPIRIVA RESPIMAT is a once-daily maintenance bronchodilator and should not be used for immediate relief of breathing problems, (i.e., as a rescue medication).
 
