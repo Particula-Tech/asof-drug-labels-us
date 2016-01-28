@@ -1,5 +1,9 @@
-Manufactured by: Fresenius Kabi USA, LLC Lake Zurich, IL 60047
+Rx only
 
-451430
+Manufactured by: Fresenius Kabi Lake Zurich, IL 60047
 
-Issued: November 2014
+www.fresenius-kabi.us
+
+451430A
+
+Revised: December 2015
