@@ -4,12 +4,8 @@ Transient nausea and vomiting have been observed.
 Less frequent adverse reactions are body odor, nausea, and gastritis.
 An incidence for these reactions is difficult to estimate due to the confounding effects of the underlying pathology.
 
-Rhabdomyolysis has been reported to occur in patients receiving levocarnitine.
-
 Seizures have been reported to occur in patients, with or without pre-existing seizure activity, receiving either oral or intravenous levocarnitine.
 In patients with pre-existing seizure activity, an increase in seizure frequency and/or severity has been reported.
-
-Various reports of hypoglycemia, vitamin K deficiency and abnormal prothrombin levels have also been reported with the use of levocarnitine.
 
 The table below lists the adverse events that have been reported in two double-blind, placebo-controlled trials in patients on chronic hemodialysis.
 Events occurring at ≥5% are reported without regard to causality.
