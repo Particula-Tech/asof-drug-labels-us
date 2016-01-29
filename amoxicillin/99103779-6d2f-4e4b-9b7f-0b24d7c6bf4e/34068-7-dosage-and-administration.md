@@ -26,8 +26,8 @@ There are currently no dosing recommendations for pediatric patients with impair
 
 ## 2.3 Dosing for H. pylori Infection
 
-Triple therapy:The recommended adult oral dose is 1 gram amoxicillin, 500 mg clarithromycin, and 30 mg lansoprazole, all given twice daily (every 12 hours) for 14 days.
-Dual therapy:The recommended adult oral dose is 1 gram amoxicillin and 30 mg lansoprazole, each given three times daily (every 8 hours) for 14 days.
+Triple therapy: The recommended adult oral dose is 1 gram amoxicillin, 500 mg clarithromycin, and 30 mg lansoprazole, all given twice daily (every 12 hours) for 14 days.
+Dual therapy: The recommended adult oral dose is 1 gram amoxicillin and 30 mg lansoprazole, each given three times daily (every 8 hours) for 14 days.
 Please refer to clarithromycin and lansoprazole full prescribing information.
 
 ## 2.4 Dosing in Renal Impairment

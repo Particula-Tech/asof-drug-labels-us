@@ -72,12 +72,12 @@ Susceptibility Test Methods:
 When available, the clinical microbiology laboratory should provide cumulative in vitro susceptibility test results for antimicrobial drugs used in local hospitals and practice areas to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
 These reports should aid the physician in selecting the most effective antimicrobial.
 
-Dilution Techniques:Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
+Dilution Techniques: Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
 The MICs should be determined using a standardized test method - (broth or agar) 2,4.
 The MIC values should be interpreted according to the criteria in Table 4.
 
-Diffusion Techniques:Quantitative methods that require measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds3,4.
+Diffusion Techniques: Quantitative methods that require measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds3,4.
 The zone size should be determined using a standardized test method3.
 
 Susceptibility to amoxicillin of Enterococcus spp., Enterobacteriaceae, and H. influenzae, may be inferred by testing ampicillin4.
@@ -95,7 +95,7 @@ Susceptibility Interpretive Criteria for Amoxicillin
 | --- | --- | --- | --- | --- | --- | --- |
 | Susceptible | Intermediate | Resistant | Susceptible | Intermediate | Resistant |  |
 | Streptococcus pneumoniae (non-meningitis isolates)* | ≤ 2 | 4 | ≥ 8 | - | - | - |
-| *S. pneumoniae should be tested using a 1 mcg oxacillin disk. Isolates with oxacillin zone sizes of > 20 mm are susceptible to amoxicillin. An amoxicillin MIC should be determined on isolates of S. pneumoniae with oxacillin zone sizes of < 19 mm4. |  |  |  |  |  |  |
+| *S. pneumoniae should be tested using a 1 mcg oxacillin disk. Isolates with oxacillin zone sizes of ³ 20 mm are susceptible to amoxicillin. An amoxicillin MIC should be determined on isolates of S. pneumoniae with oxacillin zone sizes of £ 19 mm4. |  |  |  |  |  |  |
 
 A report of “Susceptible” indicates the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound reaches a concentration at the infection site necessary to inhibit growth of the pathogen.
 A report of “Intermediate” indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
@@ -122,4 +122,4 @@ Acceptable Quality Control Ranges for Amoxicillina
 | --- | --- | --- |
 | Streptococcus pneumoniae ATCCb49619 | 0.03 to 0.12 | --- |
 | Klebsiella pneumoniae ATCC 700603 | >128 | --- |
-| aQC limits for testing E. coli 35218 when tested on Haemophilus Test Medium (HTM) are ≥ 256 mcg/mL for amoxicillin; testing amoxicillin may help to determine if the isolate has maintained its ability to produce betalactamase4.b ATCC = American Type Culture Collection |  |  |
+| aQC limits for testing E. coli 35218 when tested on Haemophilus Test Medium (HTM) are ≥ 256 mcg/mL for amoxicillin; testing amoxicillin may help to determine if the isolate has maintained its ability to produce betalactamase4. b ATCC = American Type Culture Collection |  |  |

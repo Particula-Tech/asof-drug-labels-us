@@ -26,7 +26,7 @@ These events have been chosen for inclusion due to a combination of their seriou
   Serum sickness–like reactions, erythematous maculopapular rashes, erythema multiforme, Stevens-Johnson syndrome, exfoliative dermatitis, toxic epidermal necrolysis, acute generalized exanthematous pustulosis, hypersensitivity vasculitis, and urticaria have been reported.
 - Liver: A moderate rise in AST and/or ALT has been noted, but the significance of this finding is unknown.
   Hepatic dysfunction including cholestatic jaundice, hepatic cholestasis and acute cytolytic hepatitis have been reported.
-- Renal:Crystalluria has been reported[see Overdosage (10)].
+- Renal: Crystalluria has been reported [see Overdosage (10)].
 - Hemic and Lymphatic Systems: Anemia, including hemolytic anemia, thrombocytopenia, thrombocytopenic purpura, eosinophilia, leukopenia, and agranulocytosis have been reported.
   These reactions are usually reversible on discontinuation of therapy and are believed to be hypersensitivity phenomena.
 - Central Nervous System: Reversible hyperactivity, agitation, anxiety, insomnia, confusion, convulsions, behavioral changes, and/or dizziness have been reported.
