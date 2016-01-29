@@ -7,6 +7,7 @@ Although anaphylaxis is more frequent following parenteral therapy, it has occur
 These reactions are more likely to occur in individuals with a history of penicillin hypersensitivity and/or a history of sensitivity to multiple allergens.
 There have been reports of individuals with a history of penicillin hypersensitivity who have experienced severe reactions when treated with cephalosporins.
 Before initiating therapy with amoxicillin, careful inquiry should be made regarding previous hypersensitivity reactions to penicillins, cephalosporins, or other allergens.
+If an allergic reaction occurs, amoxicillin should be discontinued and appropriate therapy instituted.
 
 ## 5.2 Clostridium difficile Associated Diarrhea
 
@@ -21,7 +22,7 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 
 ## 5.3 Development of Drug-Resistant Bacteria
 
-Prescribing amoxicillin in the absence of a proven or strongly suspected bacterial infection is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria
+Prescribing amoxicillin in the absence of a proven or strongly suspected bacterial infection is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
 ## 5.4 Use in Patients With Mononucleosis
 
