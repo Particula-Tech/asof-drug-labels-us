@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Prednisolone Acetate Ophthalmic Suspension USP, 1% is supplied in a white round low density polyethylene DROP-TAINER® * dispenser with a natural low density polyethylene dispensing plug and pink polypropylene cap.
+Prednisolone Acetate Ophthalmic Suspension USP, 1% is supplied in a white round low density polyethylene DROP-TAINER* dispenser with a natural low density polyethylene dispensing plug and pink polypropylene cap.
 Tamper evidence is provided with a shrink band around the closure and neck area of the package.
 
 5mL - NDC 61314-637-05
@@ -13,24 +13,10 @@ STORAGE: STORE at 8°- 24°C (46°- 75°F) in an UPRIGHT position.
 
 Rx Only
 
-Revised: November 2007
+Revised: November 2011
 
-*DROP-TAINER is a registered trademark
+*DROP-TAINER is a registered trademark of Alcon Research, Ltd.
 
-of Alcon Manufacturing, Ltd.
+SANDOZ Manufactured by Alcon Laboratories, Inc. Fort Worth, Texas 76134 for Sandoz Inc. Princeton, NJ 08540 Printed in USA
 
-Dist. by:
-
-FALCON Pharmaceuticals Ltd.
-
-Fort Worth, Texas 76134 USA
-
-Mfd. by:
-
-ALCON LABORATORIES, INC.
-
-Fort Worth, Texas 76134 USA
-
-Printed in USA
-
-9003146-1007
+9007312-1111
