@@ -1,5 +1,9 @@
-# PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 300 MG LABEL
+# Package/Label Display Panel
 
-NDC 62559-280-01 LITHOBID® (Lithium Carbonate USP) Extended-Release Tablets 300 mg Rx ONLY 100 Tablets ANI Pharmaceuticals, Inc.
+LITHOBID® (Lithium Carbonate USP) Extended-Release Tablets, 300 mg
 
-Bottle Label
+NDC 62559-280-01
+
+Rx only
+
+100 Tablets
