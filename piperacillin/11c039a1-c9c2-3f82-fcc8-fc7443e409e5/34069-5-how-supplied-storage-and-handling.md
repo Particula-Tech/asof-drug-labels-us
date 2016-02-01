@@ -3,13 +3,13 @@
 ZOSYN (piperacillin and tazobactam) for Injection are supplied as single-dose vials and pharmacy bulk vials in the following sizes:
 
 - Each ZOSYN 2.25 g vial provides piperacillin sodium equivalent to 2 grams of piperacillin and tazobactam sodium equivalent to 0.25 g of tazobactam.
-  Each vial contains 5.58 mEq (128 mg) of sodium.
+  Each vial contains 5.68 mEq (130 mg) of sodium.
   Supplied 10 per box—NDC 0206-2404-02
 - Each ZOSYN 3.375 g vial provides piperacillin sodium equivalent to 3 grams of piperacillin and tazobactam sodium equivalent to 0.375 g of tazobactam.
-  Each vial contains 8.38 mEq (192 mg) of sodium.
+  Each vial contains 8.52 mEq (195 mg) of sodium.
   Supplied 10 per box—NDC 0206-2405-02
 - Each ZOSYN 4.5 g vial provides piperacillin sodium equivalent to 4 grams of piperacillin and tazobactam sodium equivalent to 0.5 g of tazobactam.
-  Each vial contains 11.17 mEq (256 mg) of sodium.
+  Each vial contains 11.36 mEq (260 mg) of sodium.
   Supplied 10 per box—NDC 0206-2408-02
 - Each ZOSYN 40.5 g pharmacy bulk vial provides piperacillin sodium equivalent to 36 grams of piperacillin and tazobactam sodium equivalent to 4.5 grams of tazobactam.
   Each pharmacy bulk vial contains 100.4 mEq (2,304 mg) of sodium.

@@ -41,4 +41,4 @@ Table 5: ZOSYN In GALAXY Containers Premixed Frozen Solution
 | Edetate Disodium Dihydrate | metal chelator | 0.5 mg | 0.75 mg | 1 mg |
 | Water for Injection | solvent | q.s. 50 mL | q.s. 50 mL | q.s. 100 mL |
 
-ZOSYN contains a total of 2.79 mEq (64 mg) of sodium (Na+) per gram of piperacillin in the combination product.
+ZOSYN contains a total of 2.84 mEq (65 mg) of sodium (Na+) per gram of piperacillin in the combination product.

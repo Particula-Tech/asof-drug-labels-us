@@ -126,7 +126,7 @@ Additional laboratory events include abnormalities in electrolytes (i.e., increa
 ## 6.2 Post-Marketing Experience
 
 In addition to the adverse drug reactions identified in clinical trials in Table 3 and Table 4, the following adverse reactions have been identified during post-approval use of ZOSYN.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish causal relationship to drug exposure.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Gastrointestinal—hepatitis, jaundice
 
@@ -142,6 +142,6 @@ Skin and Appendages—erythema multiforme, Stevens-Johnson syndrome, toxic epide
 
 The following adverse reaction has also been reported for piperacillin for injection:
 
-Skeletal—prolonged muscle relaxation [see Drug Interactions (7.4)].
+Skeletal—prolonged muscle relaxation [see Drug Interactions (7.5)].
 
 Post-marketing experience with ZOSYN in pediatric patients suggests a similar safety profile to that seen in adults.

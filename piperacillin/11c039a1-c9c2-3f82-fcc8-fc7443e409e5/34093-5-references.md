@@ -14,6 +14,6 @@
    CLSI document M11-A8.
    Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, PA 19087 USA, 2012.
 
-CLINITEST®is a registered trademark of Siemens Healthcare Diagnostics Inc.
+CLINITEST® is a registered trademark of Siemens Healthcare Diagnostics Inc.
 
 GALAXY is a registered trademark of Baxter International, Inc.

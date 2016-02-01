@@ -33,8 +33,8 @@ However, dosage should be adjusted in the presence of renal impairment [see Dosa
 
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
-ZOSYN contains 64 mg (2.79 mEq) of sodium per gram of piperacillin in the combination product.
-At the usual recommended doses, patients would receive between 768 and 1024 mg/day (33.5 and 44.6 mEq) of sodium.
+ZOSYN contains 65 mg (2.84 mEq) of sodium per gram of piperacillin in the combination product.
+At the usual recommended doses, patients would receive between 780 and 1040 mg/day (34.1 and 45.5 mEq) of sodium.
 The geriatric population may respond with a blunted natriuresis to salt loading.
 This may be clinically important with regard to such diseases as congestive heart failure.
 

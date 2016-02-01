@@ -41,7 +41,7 @@ As with other penicillins, patients may experience neuromuscular excitability or
 
 ## 5.6 Electrolyte Effects
 
-ZOSYN contains a total of 2.79 mEq (64 mg) of Na+ per gram of piperacillin in the combination product.
+ZOSYN contains a total of 2.84 mEq (65 mg) of Na+ (sodium) per gram of piperacillin in the combination product.
 This should be considered when treating patients requiring restricted salt intake.
 Periodic electrolyte determinations should be performed in patients with low potassium reserves, and the possibility of hypokalemia should be kept in mind with patients who have potentially low potassium reserves and who are receiving cytotoxic therapy or diuretics.
 
