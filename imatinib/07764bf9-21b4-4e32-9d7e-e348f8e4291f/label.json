@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "ANDA078340"
+  ],
+  "inn": "imatinib",
+  "labeler": "Sun Pharma Global FZE",
+  "package_ndcs": [
+    "47335-472-13",
+    "47335-472-81",
+    "47335-472-83",
+    "47335-472-88",
+    "47335-475-13",
+    "47335-475-83",
+    "47335-475-88"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "imatinib mesylate",
+      "name": "imatinib mesylate"
+    }
+  ],
+  "setid": "07764bf9-21b4-4e32-9d7e-e348f8e4291f",
+  "source": "dailymed"
+}
