@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA204520"
+  ],
+  "inn": "gemcitabine",
+  "labeler": "Gland Pharma Limited",
+  "package_ndcs": [
+    "68083-148-01",
+    "68083-149-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "gemcitabine hydrochloride",
+      "name": "gemcitabine hydrochloride"
+    }
+  ],
+  "setid": "9f8fe5ba-943f-4f0a-9618-6083101faa28",
+  "source": "dailymed"
+}
