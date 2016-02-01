@@ -32,7 +32,7 @@ In these studies, patients did not receive concomitant levodopa.
 
 Table 4 Adverse-Reactions in Pooled Double-Blind, Placebo-Controlled Trials with MIRAPEX in Early Parkinson's Disease
 
-| Body System/ Adverse Reaction | MIRAPEX (N=388) % | Placebo (N=235) % |
+| Body System/Adverse Reaction | MIRAPEX (N=388) % | Placebo (N=235) % |
 | --- | --- | --- |
 | Nervous System |  |  |
 | Dizziness | 25 | 24 |
@@ -73,7 +73,7 @@ The incidence of somnolence with pramipexole at a dose of 1.5 mg/day was compara
 Advanced Parkinson's Disease In the four double-blind, placebo-controlled trials of patients with advanced Parkinson's disease, the most common adverse reactions (>5%) that were numerically more frequent in the group treated with MIRAPEX tablets and concomitant levodopa were postural (orthostatic) hypotension, dyskinesia, extrapyramidal syndrome, insomnia, dizziness, hallucinations, accidental injury, dream abnormalities, confusion, constipation, asthenia, somnolence, dystonia, gait abnormality, hypertonia, dry mouth, amnesia, and urinary frequency.
 
 Approximately 12% of 260 patients with advanced Parkinson's disease who received MIRAPEX tablets and concomitant levodopa in the double-blind, placebo-controlled trials discontinued treatment due to adverse reactions compared with 16% of 264 patients who received placebo and concomitant levodopa.
-The reactions most commonly causing discontinuation of treatment were related to the nervous system (hallucinations [2.7% on MIRAPEX tablets vs 0.4% on placebo]; dyskinesia [1.9% on MIRAPEX tablets vs 0.8% on placebo] and cardiovascular system (postural [orthostatic] hypotension [2.3% on MIRAPEX tablets vs 1.1% on placebo]).
+The reactions most commonly causing discontinuation of treatment were related to the nervous system (hallucinations [2.7% on MIRAPEX tablets vs 0.4% on placebo]; dyskinesia [1.9% on MIRAPEX tablets vs 0.8% on placebo]) and cardiovascular system (postural [orthostatic] hypotension [2.3% on MIRAPEX tablets vs 1.1% on placebo]).
 
 Adverse-reaction Incidence in Controlled Clinical Studies in Advanced Parkinson's Disease: Table 5 lists adverse reactions that occurred in the double-blind, placebo-controlled studies in advanced Parkinson's disease that were reported by ≥1% of patients treated with MIRAPEX tablets and were numerically more frequent than in the placebo group.
 In these studies, MIRAPEX tablets or placebo was administered to patients who were also receiving concomitant levodopa.
@@ -147,7 +147,7 @@ Table 6 lists reactions that occurred in three double-blind, placebo-controlled 
 
 Table 6 Adverse-Reactions in Pooled Double-Blind, Placebo-Controlled Trials with MIRAPEX in Restless Legs Syndrome
 
-| Body System/ Adverse Reaction | MIRAPEX 0.125 – 0.75 mg/day (N=575) % | Placebo (N=223) % |
+| Body System/Adverse Reaction | MIRAPEX 0.125 – 0.75 mg/day (N=575) % | Placebo (N=223) % |
 | --- | --- | --- |
 | Gastrointestinal disorders |  |  |
 | Nausea | 16 | 5 |
@@ -166,7 +166,7 @@ Table 7 summarizes data for adverse reactions that appeared to be dose related i
 
 Table 7 Dose-Related Adverse Reactions in a 12-Week Double-Blind, Placebo-Controlled Fixed Dose Study in Restless Legs Syndrome (Occurring in ≥5% of all Patients in the Treatment Phase)
 
-| Body System/ Adverse Reaction | MIRAPEX 0.25 mg (N=88) % | MIRAPEX 0.5 mg (N=80) % | MIRAPEX 0.75 mg (N=90) % | Placebo (N=86) % |
+| Body System/Adverse Reaction | MIRAPEX 0.25 mg (N=88) % | MIRAPEX 0.5 mg (N=80) % | MIRAPEX 0.75 mg (N=90) % | Placebo (N=86) % |
 | --- | --- | --- | --- | --- |
 | Gastrointestinal disorders |  |  |  |  |
 | Nausea | 11 | 19 | 27 | 5 |
@@ -193,5 +193,5 @@ Laboratory Tests During the development of MIRAPEX tablets, no systematic abnorm
 ## 6.2 Post Marketing Experience
 
 In addition to the adverse events reported during clinical trials, the following adverse reactions have been identified during post-approval use of MIRAPEX tablets, primarily in Parkinson’s disease patients.Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-Decisions to include these events in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of reporting, or (3) strength of causal connection to pramipexole tablets.
-Similar types of reactions were grouped into a smaller number of standardized categories using the MedDRA terminology: cardiac failure, inappropriate antidiuretic hormone secretion (SIADH), syncope, vomiting, and weight increase.
+Decisions to include these reactions in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of reporting, or (3) strength of causal connection to pramipexole tablets.
+Similar types of reactions were grouped into a smaller number of standardized categories using the MedDRA terminology: cardiac failure, inappropriate antidiuretic hormone secretion (SIADH), skin reactions (including erythema, rash, pruritus, urticaria), syncope, vomiting, and weight increase.

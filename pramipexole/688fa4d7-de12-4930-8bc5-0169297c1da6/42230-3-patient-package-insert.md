@@ -60,9 +60,7 @@ Keep a list of them and show it to your doctor and pharmacist when you get a new
   If you stop MIRAPEX too quickly you may have withdrawal symptoms such as:
   - fever
   - confusion
-  - severe muscle stiffness
-
-Do not stop taking MIRAPEX without talking to your doctor.
+  - severe muscle stiffness Do not stop taking MIRAPEX without talking to your doctor.
 
 - Do not drink alcohol while taking MIRAPEX.
   It can increase your chance of having serious side effects.
@@ -147,8 +145,8 @@ Trademark under license from: Boehringer Ingelheim International GmbH
 
 The brands listed are trademarks of their respective owners and are not trademarks of Boehringer Ingelheim Pharmaceuticals, Inc. The makers of these brands are not affiliated with and do not endorse Boehringer Ingelheim Pharmaceuticals, Inc., or its products.
 
-Copyright © 2015 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2016 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Revised: March 2015
+Revised: January 2016
 
-10003128/14 OT1338UD022015 10003129/13 IT1322T
+10003128/15 OT1338VA072016 10003129/15 IT1322V

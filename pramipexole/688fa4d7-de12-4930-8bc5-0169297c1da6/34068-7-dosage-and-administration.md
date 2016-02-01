@@ -72,7 +72,7 @@ Table 3 Ascending Dosage Schedule of MIRAPEX tablets for RLS
 | 3* | 4-7 days | 0.5 |
 | *if needed |  |  |
 
-Dosing in Patients with Renal Impairment The duration between titration steps should be increased to 14 days in RLS patients with moderate and severe renal impairment (creatinine clearance 20-60 ml/min) [see Clinical Pharmacology (12.3)].
+Dosing in Patients with Renal Impairment The duration between titration steps should be increased to 14 days in RLS patients with moderate and severe renal impairment (creatinine clearance 20-60 mL/min) [see Clinical Pharmacology (12.3)].
 
 Discontinuation of Treatment In clinical trials of patients being treated for RLS with doses up to 0.75 mg once daily, MIRAPEX tablets were discontinued without a taper.
 In a 26 week placebo-controlled clinical trial, patients reported a worsening of RLS symptom severity as compared to their untreated baseline when MIRAPEX treatment was suddenly withdrawn [see Warnings and Precautions (5.9)].
