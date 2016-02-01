@@ -27,13 +27,19 @@ Patients apt to be exposed to direct sunlight or ultraviolet light should be adv
 
 ## 5.4 Superinfection
 
-As with other antibacterial preparations, use of doxycycline hyclate delayed-release tablets, USP may result in overgrowth of non-susceptible organisms, including fungi.
+As with other antibacterial preparations, use of doxycycline hyclate delayed-release tablets may result in overgrowth of non-susceptible organisms, including fungi.
 If superinfection occurs, the antibacterial should be discontinued and appropriate therapy instituted.
 
-## 5.5 Benign Intracranial Hypertension
+## 5.5Intracranial Hypertension
 
-Bulging fontanels in infants and benign intracranial hypertension in adults have been reported in individuals receiving tetracyclines.
-These conditions disappeared when the drug was discontinued.
+Intracranial hypertension (IH, pseudotumor cerebri) has been associated with the use of tetracycline including doxycycline hyclate delayed-release tablets.
+Clinical manifestations of IH include headache, blurred vision, diplopia, and vision loss; papilledema can be found on fundoscopy.
+Women of childbearing age who are overweight or have a history of IH are at greater risk for developing tetracycline associated IH.
+Avoid concomitant use of isotretinoin and doxycycline hyclate delayed-release tablets because isotretinoin is also known to cause pseudotumor cerebri.
+
+Although IH typically resolves after discontinuation of treatment, the possibility for permanent visual loss exists.
+If visual disturbance occurs during treatment, prompt ophthalmologic evaluation is warranted.
+Since intracranial pressure can remain elevated for weeks after drug cessation patients should be monitored until they stabilize.
 
 ## 5.6 Skeletal Development
 

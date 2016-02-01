@@ -12,7 +12,7 @@ An expert review of published data on experiences with doxycycline use during pr
 
 A case-control study (18,515 mothers of infants with congenital anomalies and 32,804 mothers of infants with no congenital anomalies) shows a weak but marginally statistically significant association with total malformations and use of doxycycline anytime during pregnancy.
 Sixty-three (0.19%) of the controls and 56 (0.30%) of the cases were treated with doxycycline.
-This association was not seen when the analysis was confined to maternal treatment during the period of organogenesis (i.e., in the second and third months of gestation), with the exception of a marginal relationship with neural tube defect based on only two-exposed cases.2
+This association was not seen when the analysis was confined to maternal treatment during the period of organogenesis (that is, in the second and third months of gestation), with the exception of a marginal relationship with neural tube defect based on only two-exposed cases.2
 
 A small prospective study of 81 pregnancies describes 43 pregnant women treated for 10 days with doxycycline during early first trimester.
 All mothers reported their exposed infants were normal at 1 year of age.3
@@ -23,19 +23,22 @@ Nonteratogenic effects: [see Warnings and Precautions (5.1, 5.6)].
 
 Tetracyclines are excreted in human milk, however, the extent of absorption of tetracyclines including doxycycline, by the breastfed infant is not known.
 Short-term use by lactating women is not necessarily contraindicated.
-The effects of prolonged exposure to doxycycline in breast milk are unknown.4 Because of the potential for serious adverse reactions in nursing infants from doxycycline, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother [see Warnings and Precautions (5.1, 5.6)].
+The effects of prolonged exposure to doxycycline in breast milk are unknown4.
+Because of the potential for serious adverse reactions in nursing infants from doxycycline, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother [see Warnings and Precautions (5.1, 5.6)].
 
 ## 8.4 Pediatric use
 
-Because of the effects of drugs of the tetracycline-class on tooth development and growth, doxycycline hyclate delayed-release tablets, USP should not be used in pediatric patients to the age of 8 years, unless the potential benefits are expected to outweigh the risks such as for anthrax, or when other drugs are not likely to be effective or are contraindicated [see Warnings and Precautions (5.1, 5.6) and Dosage and Administration (2.1, 2.3)].
+Because of the effects of drugs of the tetracycline-class on tooth development and growth, doxycycline hyclate delayed-release tablets should not be used in pediatric patients to the age of 8 years, unless the potential benefits are expected to outweigh the risks such as for anthrax, or when other drugs are not likely to be effective or are contraindicated [see Warnings and Precautions (5.1, 5.6) and Dosage and Administration (2.1, 2.3)].
 
 ## 8.5 Geriatric use
 
-Clinical studies of doxycycline hyclate delayed-release tablets, USP did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical studies of doxycycline hyclate delayed-release tablets did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 
-Doxycycline hyclate delayed-release tablets, USP 75 mg contain 4.5 mg (0.196 mEq) of sodium.
+Doxycycline hyclate delayed-release tablets, USP, 75 mg tablets contain 4.5 mg (0.196 mEq) of sodium.
 
-Doxycycline hyclate delayed-release tablets, USP 100 mg contain 6 mg (0.261 mEq) of sodium.
+Doxycycline hyclate delayed-release tablets, USP, 100 mg tablets contain 6 mg (0.261 mEq) of sodium.
 
-Doxycycline hyclate delayed-release tablets, USP 150 mg contains 9 mg (0.392 mEq) of sodium.
+Doxycycline hyclate delayed-release tablets, USP, 150 mg tablets contain 9 mg (0.392 mEq) of sodium.
+
+Doxycycline hyclate delayed-release tablets, USP, 200 mg tablets contain 12 mg (0.522 mEq) of sodium.

@@ -2,8 +2,8 @@
 
 ## 2.1 Usual Dosage and Administration
 
-THE USUAL DOSAGE AND FREQUENCY OF ADMINISTRATION OF DOXYCYCLINE DIFFERS FROM THAT OF THE OTHER TETRACYCLINES.
-EXCEEDING THE RECOMMENDED DOSAGE MAY RESULT IN AN INCREASED INCIDENCE OF SIDE EFFECTS.
+The usual dosage and frequency of administration of doxycycline differs from that of the other tetracyclines.
+Exceeding the recommended dosage may result in an increased incidence of side effects.
 
 Adults: The usual dose of oral doxycycline is 200 mg on the first day of treatment (administered 100 mg every 12 hours), followed by a maintenance dose of 100 mg daily.
 The maintenance dose may be administered as a single dose or as 50 mg every 12 hours.
@@ -19,12 +19,13 @@ If gastric irritation occurs, doxycycline may be given with food or milk [see Cl
 
 When used in streptococcal infections, therapy should be continued for 10 days.
 
-Uncomplicated urethral, endocervical, or rectal infection in adults caused by Chlamydia trachomatis: 100 mg by mouth twice-a-day for 7 days.
+Uncomplicated urethral, endocervical, or rectal infection caused by Chlamydia trachomatis: 100 mg by mouth twice a day for 7 days.
+As an alternate dosing regimen for uncomplicated urethral or endocervical infection caused by Chlamydia trachomatis, administer 200 mg by mouth once-a-day for 7 days.
 
 Uncomplicated gonococcal infections in adults (except anorectal infections in men): 100 mg, by mouth, twice-a-day for 7 days.
-As an alternative single visit dose, administer 300 mg stat followed in an hour by a second 300 mg dose.
+As an alternate single visit dose, administer 300 mg stat followed in one hour by a second 300 mg dose.
 
-Nongonococcal urethritis (NGU) caused by U. urealyticum: 100 mg by mouth twice-a-day for 7 days.
+Nongonococcal urethritis (NGU) caused by U. urealyticum: 100 mg by mouth twice-a- day for 7 days.
 
 Syphilis – early: Patients who are allergic to penicillin should be treated with doxycycline 100 mg by mouth twice-a-day for 2 weeks.
 
@@ -41,16 +42,16 @@ Prophylaxis should be continued daily during travel in the malarious area and fo
 
 ## 2.3 Inhalational anthrax (post-exposure)
 
-ADULTS: 100 mg, of doxycycline, by mouth, twice-a-day for 60 days.
+Adults: 100 mg, of doxycycline, by mouth, twice-a-day for 60 days.
 
-CHILDREN: weighing less than 45 kg, 2.2 mg/kg of body weight, by mouth, twice-a-day for 60 days.
+Children: weighing less than 45 kg, 2.2 mg/kg of body weight, by mouth, twice-a-day for 60 days.
 Children weighing 45 kg or more should receive the adult dose.
 
 ## 2.4 Sprinkling the tablet over applesauce
 
-Doxycycline hyclate delayed-release tablets may also be administered by carefully breaking up the tablet and sprinkling the tablet contents (delayed-release pellets) on a spoonful of applesauce.
+doxycycline hyclate delayed-release tablets may also be administered by carefully breaking up the tablet and sprinkling the tablet contents (delayed-release pellets) on a spoonful of applesauce.
 The delayed-release pellets must not be crushed or damaged when breaking up the tablet.
 Any loss of pellets in the transfer would prevent using the dose.
-The applesauce/doxycycline hyclate delayed-release tablet mixture should be swallowed immediately without chewing and may be followed by a glass of water if desired.
+The applesauce/ doxycycline hyclate delayed-release tablets mixture should be swallowed immediately without chewing and may be followed by a glass of water if desired.
 The applesauce should not be hot, and it should be soft enough to be swallowed without chewing.
-In the event that a prepared dose of applesauce/doxycycline hyclate delayed-release tablet cannot be taken immediately, the mixture should be discarded and not stored for later use.
+In the event that a prepared dose of applesauce/ doxycycline hyclate delayed-release tablets Tablet cannot be taken immediately, the mixture should be discarded and not stored for later use.
