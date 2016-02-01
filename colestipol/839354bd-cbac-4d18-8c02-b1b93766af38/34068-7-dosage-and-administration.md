@@ -15,17 +15,25 @@ The scoop accompanying this product is not interchangeable with other scoops.
 
 ## Before Colestipol Hydrochloride for Oral Suspension Administration
 
-1. Define the type of hyperlipoproteinemia, as described in NCEP guidelines.
-2. Institute a trial of diet and weight reduction.
-3. Establish baseline serum total and LDL-cholesterol and triglyceride levels.
+1.
+Define the type of hyperlipoproteinemia, as described in NCEP guidelines.
+2.
+Institute a trial of diet and weight reduction.
+3.
+Establish baseline serum total and LDL-cholesterol and triglyceride levels.
 
 ## During Colestipol Hydrochloride for Oral Suspension Administration
 
-1. The patient should be carefully monitored clinically, including serum cholesterol and triglyceride levels.
-   Periodic determinations of serum cholesterol levels as outlined in the NCEP guidelines should be done to confirm a favorable initial and longer term response.
-2. Failure of total or LDL-cholesterol to fall within the desired range should lead one to first examine dietary and drug compliance.
-   If these are deemed acceptable, combined therapy or alternate treatment should be considered.
-3. Significant rise in triglyceride level should be considered as indication for dose reduction, drug discontinuation, or combined or alternate therapy.
+1.
+The patient should be carefully monitored clinically, including serum cholesterol and triglyceride levels.
+Periodic determinations of serum cholesterol levels as outlined in the NCEP guidelines should be done to confirm a favorable initial and longer term response.
+
+2.
+Failure of total or LDL-cholesterol to fall within the desired range should lead one to first examine dietary and drug compliance.
+If these are deemed acceptable, combined therapy or alternate treatment should be considered.
+
+3.
+Significant rise in triglyceride level should be considered as indication for dose reduction, drug discontinuation, or combined or alternate therapy.
 
 ## Mixing and Administration Guide
 
@@ -35,11 +43,14 @@ Colestipol hydrochloride for oral suspension should never be taken in its dry fo
 
 ## With Beverages
 
-1. Add the prescribed amount of colestipol hydrochloride for oral suspension to a glassful (three ounces or more) of water or the beverage of your choice.
-   A heavy or pulpy juice may minimize complaints relative to consistency.
-2. Stir the mixture until the medication is completely mixed.
-   (Colestipol hydrochloride for oral suspension will not dissolve in the liquid.)
-   Colestipol hydrochloride for oral suspension may also be mixed with carbonated beverages, slowly stirred in a large glass; however, this mixture may be associated with GI complaints.
+1.
+Add the prescribed amount of colestipol hydrochloride for oral suspension to a glassful (three ounces or more) of water or the beverage of your choice.
+A heavy or pulpy juice may minimize complaints relative to consistency.
+
+2.
+Stir the mixture until the medication is completely mixed.
+(Colestipol hydrochloride for oral suspension will not dissolve in the liquid.)
+Colestipol hydrochloride for oral suspension may also be mixed with carbonated beverages, slowly stirred in a large glass; however, this mixture may be associated with GI complaints.
 
 Rinse the glass with a small amount of additional beverage to make sure all the medication is taken.
 

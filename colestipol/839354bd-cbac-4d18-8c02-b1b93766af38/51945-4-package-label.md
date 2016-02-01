@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 30 Packet Carton
 
-GLOBAL®
+Impax Generics
 
 NDC 0115-5212-18
 
@@ -16,7 +16,7 @@ Must be mixed with a liquid.
 
 # PRINCIPAL DISPLAY PANEL - 500 gram Bottle
 
-GLOBAL®
+Impax Generics
 
 NDC 0115-5213-02
 
