@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-Xulane™ [zhoo’ lane] (norelgestromin and ethinyl estradiol transdermal system) 150 mcg/day norelgestromin and 35 mcg/day ethinyl estradiol
+Xulane® [zhoo’ lane] (norelgestromin and ethinyl estradiol transdermal system) 150 mcg/day norelgestromin and 35 mcg/day ethinyl estradiol
 
 | What is the most important information I should know about Xulane? Do not use Xulane if you smoke cigarettes and are over 35 years old. Smoking increases your risk of serious cardiovascular side effects from hormonal birth control methods, including death from heart attack, blood clots or stroke. This risk increases with age and the number of cigarettes you smoke. Women 15 to 44 years of age who use Xulane may have an increased risk of blood clots compared to women who use certain birth control pills. You will be exposed to about 60% more estrogen if you use Xulane than if you use a typical birth control pill containing 35 micrograms of estrogen. In general, increased estrogen may increase the risk of side effects, including blood clots. |  |
 | --- | --- |

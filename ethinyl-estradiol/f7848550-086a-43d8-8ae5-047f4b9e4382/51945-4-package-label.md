@@ -4,7 +4,7 @@ NDC 0378-3340-53
 
 Contents: 3 Transdermal Systems | Rx only
 
-Xulane™ (norelgestromin and ethinyl estradiol transdermal system)
+Xulane® (norelgestromin and ethinyl estradiol transdermal system)
 
 150/35 mcg per day
 
@@ -31,4 +31,4 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-M3340-53-3C:R12
+M3340-53-3C:R13

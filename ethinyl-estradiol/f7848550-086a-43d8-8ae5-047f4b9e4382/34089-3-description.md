@@ -13,7 +13,7 @@ The active components in this layer are the hormones, NGMN and EE.
 The third layer is the release liner, which protects the adhesive layer during storage and is removed just prior to application.
 It is a transparent polyester film with a fluoropolymer coating on the side that is in contact with the middle adhesive layer.
 
-The outside of the backing layer is printed with “Xulane™ (norelgestromin and ethinyl estradiol) 150/35 mcg per day” in brown ink.
+The outside of the backing layer is printed with “Xulane® (norelgestromin and ethinyl estradiol) 150/35 mcg per day” in brown ink.
 
 Xulane transdermal systems are packaged with additional pieces of protective film above and below the system within each pouch.
 These pieces of protective film are removed and discarded at the time of use.

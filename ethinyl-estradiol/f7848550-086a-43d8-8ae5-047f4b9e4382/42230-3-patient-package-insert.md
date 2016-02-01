@@ -113,4 +113,4 @@ This Patient Information and Instructions for Use have been approved by the U.S.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED OCTOBER 2015 NEETS:R10
+REVISED DECEMBER 2015 NEETS:R11
