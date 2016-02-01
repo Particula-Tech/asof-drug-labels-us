@@ -46,7 +46,7 @@ The mean mirtazapine dose for patients who completed these 4 studies ranged from
 A fifth study of similar design utilized a higher dose (up to 50 mg) per day and also showed effectiveness.
 Examination of age and gender subsets of the population did not reveal any differential responsiveness on the basis of these subgroupings.
 In a longer-term study, patients meeting (DSM-IV) criteria for major depressive disorder who had responded during an initial 8 to 12 weeks of acute treatment on mirtazapine were randomized to continuation of mirtazapine or placebo for up to 40 weeks of observation for relapse.
-Response during the open phase was defined as having achieved a HAM-D 17 total score of ≤ 8 and a CGI-Improvement score of 1 or 2 at 2 consecutive visits beginning with week 6 of the 8 to 12 weeks in the open-label phase of the study.
+Response during the open phase was defined as having achieved a HAM-D 17 total score of ≤8 and a CGI-Improvement score of 1 or 2 at 2 consecutive visits beginning with week 6 of the 8 to 12 weeks in the open-label phase of the study.
 Relapse during the double-blind phase was determined by the individual investigators.
 Patients receiving continued mirtazapine treatment experienced significantly lower relapse rates over the subsequent 40 weeks compared to those receiving placebo.
 This pattern was demonstrated in both male and female patients.

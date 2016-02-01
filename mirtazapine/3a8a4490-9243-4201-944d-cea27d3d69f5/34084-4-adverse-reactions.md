@@ -1,7 +1,7 @@
 # ADVERSE REACTIONS
 
 Associated with Discontinuation of Treatment Approximately 16% of the 453 patients who received mirtazapine tablets in US 6-week controlled clinical trials discontinued treatment due to an adverse experience, compared to 7% of the 361 placebo-treated patients in those studies.
-The most common events (≥ 1%) associated with discontinuation and considered to be drug related (i.e., those events associated with dropout at a rate at least twice that of placebo) are included in Table 2.
+The most common events (≥1%) associated with discontinuation and considered to be drug related (i.e., those events associated with dropout at a rate at least twice that of placebo) are included in Table 2.
 
 Table 2: Common Adverse Events Associated With Discontinuation of Treatment in 6-Week US Mirtazapine Trials
 
@@ -30,7 +30,7 @@ The prescriber should be aware that these figures cannot be used to predict the 
 Similarly, the cited frequencies cannot be compared with figures obtained from other investigations involving different treatments, uses, and investigators.
 The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and nondrug factors to the side-effect incidence rate in the population studied.
 
-Table 4: Incidence of Adverse Clinical Experiences* (≥1%) In Short-Term US Controlled Studies
+Table 4: Incidence of Adverse Clinical Experiences* (≥1%) in Short-Term US Controlled Studies
 
 | Body System Adverse Clinical Experience | Mirtazapine (n=453) | Placebo (n=361) |  |
 | --- | --- | --- | --- |
@@ -62,7 +62,7 @@ Table 4: Incidence of Adverse Clinical Experiences* (≥1%) In Short-Term US Con
 | *Events reported by at least 1% of patients treated with mirtazapine are included, except the following events, which had an incidence on placebo greater than or equal to mirtazapine: headache, infection, pain, chest pain, palpitation, tachycardia, postural hypotension, nausea, dyspepsia, diarrhea, flatulence, insomnia, nervousness, libido decreased, hypertonia, pharyngitis, rhinitis, sweating, amblyopia, tinnitus, taste perversion. |  |  |  |
 
 ECG Changes The electrocardiograms for 338 patients who received mirtazapine tablets and 261 patients who received placebo in 6-week, placebo-controlled trials were analyzed.
-Prolongation in QTc ≥ 500 msec was not observed among mirtazapine -treated patients; mean change in QTc was +1.6 msec for mirtazapine and –3.1 msec for placebo.
+Prolongation in QTc ≥500 msec was not observed among mirtazapine-treated patients; mean change in QTc was +1.6 msec for mirtazapine and –3.1 msec for placebo.
 Mirtazapine was associated with a mean increase in heart rate of 3.4 bpm, compared to 0.8 bpm for placebo.
 The clinical significance of these changes is unknown.
 Other Adverse Events Observed During the Premarketing Evaluation of Mirtazapine During its premarketing assessment, multiple doses of mirtazapine tablets were administered to 2796 patients in clinical studies.
@@ -90,10 +90,11 @@ Nervous System: frequent: hypesthesia, apathy, depression, hypokinesia, vertigo,
 Respiratory System: frequent: cough increased, sinusitis; infrequent: epistaxis, bronchitis, asthma, pneumonia; rare: asphyxia, laryngitis, pneumothorax, hiccup.
 Skin and Appendages: frequent: pruritus, rash; infrequent: acne, exfoliative dermatitis, dry skin, herpes simplex, alopecia; rare: urticaria, herpes zoster, skin hypertrophy, seborrhea, skin ulcer.
 
-Special Senses: infrequent: eye pain, abnormality of accommodation, conjunctivitis, deafness, keratoconjunctivitis, lacrimation disorder, glaucoma (including angle-closure glaucoma), hyperacusis, ear pain; rare: blepharitis, partial transitory deafness, otitis media, taste loss, parosmia.
+Special Senses: infrequent: eye pain, abnormality of accommodation, conjunctivitis, deafness, keratoconjunctivitis, lacrimation disorder, angle-closure glaucoma, hyperacusis, ear pain; rare: blepharitis, partial transitory deafness, otitis media, taste loss, parosmia.
 Urogenital System: frequent: urinary tract infection; infrequent: kidney calculus, cystitis, dysuria, urinary incontinence, urinary retention, vaginitis, hematuria, breast pain, amenorrhea, dysmenorrhea, leukorrhea, impotence; rare: polyuria, urethritis, metrorrhagia, menorrhagia, abnormal ejaculation, breast engorgement, breast enlargement, urinary urgency.
 
 Other Adverse Events Observed During Postmarketing Evaluation of Mirtazapine Adverse events reported since market introduction, which were temporally (but not necessarily causally) related to mirtazapine therapy, include 4 cases of the ventricular arrhythmia torsades de pointes.
 In 3 of the 4 cases, however, concomitant drugs were implicated.
 All patients recovered.
 Cases of severe skin reactions, including Stevens-Johnson syndrome, bullous dermatitis, erythema multiforme and toxic epidermal necrolysis have also been reported.
+Increased creatine kinase blood levels and rhabdomyolysis have also been reported.

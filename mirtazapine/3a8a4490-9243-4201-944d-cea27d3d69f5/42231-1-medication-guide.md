@@ -228,4 +228,4 @@ For more information about mirtazapine orally disintegrating tablets call 1-866-
 What are the ingredients in mirtazapine orally disintegrating tablets?
 Active ingredient: mirtazapine Inactive ingredients 15 mg, 30 mg, 45 mg: mannitol, aspartame, natural and artificial peppermint flavor, strawberry guarana flavor, crospovidone, magnesium stearate, colloidal silicon dioxide, and microcrystalline cellulose.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 08/2014
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India Revised: 01/2016

@@ -15,7 +15,7 @@ Induction of emesis is not recommended.
 Gastric lavage with a large-bore orogastric tube with appropriate airway protection, if needed, may be indicated if performed soon after ingestion, or in symptomatic patients.
 Because of the rapid disintegration of mirtazapine orally disintegrating tablets, pill fragments may not appear in gastric contents obtained with lavage.
 Activated charcoal should be administered.
-There is no experience with the use of forced diuresis, dialysis, hemoperfusion or exchange transfusion in the treatment of mirtazapine overdosage.
+There is no experience with the use of forced diuresis, dialysis, hemoperfusion, or exchange transfusion in the treatment of mirtazapine overdosage.
 No specific antidotes for mirtazapine are known.
 In managing overdosage, consider the possibility of multiple-drug involvement.
 The physician should consider contacting a poison control center for additional information on the treatment of any overdose.

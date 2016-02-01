@@ -43,7 +43,7 @@ It is generally believed (though not established in controlled trials) that trea
 Whether any of the symptoms described above represent such a conversion is unknown.
 However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
 It should be noted that mirtazapine orally disintegrating tablets are not approved for use in treating bipolar depression.
-Agranulocytosis In premarketing clinical trials, 2 (1 with Sjögren’s Syndrome) out of 2796 patients treated with mirtazapine tablets developed agranulocytosis [absolute neutrophil count (ANC) < 500/mm3 with associated signs and symptoms, e.g., fever, infection, etc.] and a third patient developed severe neutropenia (ANC < 500/mm3 without any associated symptoms).
+Agranulocytosis In premarketing clinical trials, 2 (1 with Sjögren’s Syndrome) out of 2796 patients treated with mirtazapine tablets developed agranulocytosis [absolute neutrophil count (ANC) <500/mm3 with associated signs and symptoms, e.g., fever, infection, etc.] and a third patient developed severe neutropenia (ANC <500/mm3 without any associated symptoms).
 For these 3 patients, onset of severe neutropenia was detected on days 61, 9, and 14 of treatment, respectively.
 All 3 patients recovered after mirtazapine was stopped.
 These 3 cases yield a crude incidence of severe neutropenia (with or without associated infection) of approximately 1.1 per thousand patients exposed, with a very wide 95% confidence interval, i.e., 2.2 cases per 10,000 to 3.1 cases per 1000.
@@ -59,7 +59,7 @@ There may be circumstances when it is necessary to initiate treatment with an MA
 Mirtazapine Orally Disintegrating Tablets should be discontinued before initiating treatment with the MAOI (see CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
 If concomitant use of mirtazapine orally disintegrating tablets with other serotonergic drugs, including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, and St. John's wort, is clinically warranted, be aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
 Treatment with mirtazapine orally disintegrating tablets and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
-Angle-closure Glaucoma The pupillary dilation that occurs following use of many antidepressant drugs including mirtazapine orally disintegrating tablets may trigger an angle-closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+Angle-Closure Glaucoma The pupillary dilation that occurs following use of many antidepressant drugs including mirtazapine orally disintegrating tablets may trigger an angle-closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
 
 # PRECAUTIONS
 
@@ -83,12 +83,12 @@ Dizziness In US controlled studies, dizziness was reported in 7% of patients tre
 It is unclear whether or not tolerance develops to the dizziness observed in association with the use of mirtazapine.
 
 Increased Appetite/Weight Gain In US controlled studies, appetite increase was reported in 17% of patients treated with mirtazapine, compared to 2% for placebo and 6% for amitriptyline.
-In these same trials, weight gain of ≥ 7% of body weight was reported in 7.5% of patients treated with mirtazapine, compared to 0% for placebo and 5.9% for amitriptyline.
+In these same trials, weight gain of ≥7% of body weight was reported in 7.5% of patients treated with mirtazapine, compared to 0% for placebo and 5.9% for amitriptyline.
 In a pool of premarketing US studies, including many patients for long-term, open-label treatment, 8% of patients receiving mirtazapine discontinued for weight gain.
 In an 8-week-long pediatric clinical trial of doses between 15 to 45 mg/day, 49% of mirtazapine-treated patients had a weight gain of at least 7%, compared to 5.7% of placebo-treated patients (see PRECAUTIONS: Pediatric Use).
-Cholesterol/Triglycerides In US controlled studies, nonfasting cholesterol increases to ≥ 20% above the upper limits of normal were observed in 15% of patients treated with mirtazapine, compared to 7% for placebo and 8% for amitriptyline.
-In these same studies, nonfasting triglyceride increases to ≥ 500 mg/dL were observed in 6% of patients treated with mirtazapine, compared to 3% for placebo and 3% for amitriptyline.
-Transaminase Elevations Clinically significant ALT (SGPT) elevations (≥ 3 times the upper limit of the normal range) were observed in 2% (8/424) of patients exposed to mirtazapine in a pool of short-term US controlled trials, compared to 0.3% (1/328) of placebo patients and 2% (3/181) of amitriptyline patients.
+Cholesterol/Triglycerides In US controlled studies, nonfasting cholesterol increases to ≥20% above the upper limits of normal were observed in 15% of patients treated with mirtazapine, compared to 7% for placebo and 8% for amitriptyline.
+In these same studies, nonfasting triglyceride increases to ≥500 mg/dL were observed in 6% of patients treated with mirtazapine, compared to 3% for placebo and 3% for amitriptyline.
+Transaminase Elevations Clinically significant ALT (SGPT) elevations (≥3 times the upper limit of the normal range) were observed in 2% (8/424) of patients exposed to mirtazapine in a pool of short-term US controlled trials, compared to 0.3% (1/328) of placebo patients and 2% (3/181) of amitriptyline patients.
 Most of these patients with ALT increases did not develop signs or symptoms associated with compromised liver function.
 While some patients were discontinued for the ALT increases, in other cases, the enzyme levels returned to normal despite continued mirtazapine treatment.
 Mirtazapine Orally Disintegrating Tablets should be used with caution in patients with impaired hepatic function (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
@@ -103,7 +103,7 @@ Mirtazapine Orally Disintegrating Tablets have not been systematically evaluated
 Mirtazapine was associated with significant orthostatic hypotension in early clinical pharmacology trials with normal volunteers.
 Orthostatic hypotension was infrequently observed in clinical trials with depressed patients.
 Mirtazapine Orally Disintegrating Tablets should be used with caution in patients with known cardiovascular or cerebrovascular disease that could be exacerbated by hypotension (history of myocardial infarction, angina, or ischemic stroke) and conditions that would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medication).
-Mirtazapine clearance is decreased in patients with moderate [glomerular filtration rate (GFR)=11 to 39 mL/min/1.73 m2] and severe [GFR<10 mL/min/1.73 m2] renal impairment, and also in patients with hepatic impairment.
+Mirtazapine clearance is decreased in patients with moderate [glomerular filtration rate (GFR)=11 to 39 mL/min/1.73 m2] and severe [GFR <10 mL/min/1.73 m2] renal impairment, and also in patients with hepatic impairment.
 Caution is indicated in administering mirtazapine orally disintegrating tablets to such patients (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
 
 ## Information for Patients
@@ -114,7 +114,7 @@ The prescriber or health professional should instruct patients, their families, 
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 The complete text of the Medication Guide is reprinted at the end of this document.
 Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking mirtazapine orally disintegrating tablets.
-Clinical Worsening and Suicide Risk: Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
+Clinical Worsening and Suicide Risk Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
 Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
 Such symptoms should be reported to the patient's prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication.
@@ -125,13 +125,11 @@ Interference with Cognitive and Motor Performance Mirtazapine Orally Disintegrat
 The drowsiness associated with mirtazapine use may impair a patient’s ability to drive, use machines, or perform tasks that require alertness.
 Thus, patients should be cautioned about engaging in hazardous activities until they are reasonably certain that mirtazapine orally disintegrating tablets therapy does not adversely affect their ability to engage in such activities.
 Completing Course of Therapy While patients may notice improvement with mirtazapine orally disintegrating tablets therapy in 1 to 4 weeks, they should be advised to continue therapy as directed.
-Concomitant Medication Patients should be advised to inform their physician if they are taking, or intend to take, any prescription or over-the-counter drugs, since there is a potential for mirtazapine orally disintegrating tablets interact with other drugs.
+Concomitant Medication Patients should be advised to inform their physician if they are taking, or intend to take, any prescription or over-the-counter drugs, since there is a potential for mirtazapine orally disintegrating tablets to interact with other drugs.
 Patients should be made aware of a potential increased risk for serotonin syndrome if concomitant use of mirtazapine orally disintegrating tablets with other serotonergic drugs, including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, and St. John's wort, is clinically warranted, particularly during treatment initiation and dose increases.
 Alcohol The impairment of cognitive and motor skills produced by mirtazapine has been shown to be additive with those produced by alcohol.
 Accordingly, patients should be advised to avoid alcohol while taking any dosage form of mirtazapine.
-Phenylalanine Phenylketonuric patients should be informed that mirtazapine orally disintegrating tablets
-
-contain phenylalanine 1.5 mg per 15 mg tablet, 3 mg per 30 mg tablet, and 4.5 mg per 45 mg tablet.
+Phenylalanine Phenylketonuric patients should be informed that mirtazapine orally disintegrating tablets contain phenylalanine 1.5 mg per 15 mg tablet, 3 mg per 30 mg tablet, and 4.5 mg per 45 mg tablet.
 Pregnancy Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during mirtazapine orally disintegrating tablets therapy.
 Nursing Patients should be advised to notify their physician if they are breastfeeding an infant.
 
@@ -205,7 +203,7 @@ The mean increase in weight was 4 kg (2 kg SD) for mirtazapine-treated patients 
 
 ## Geriatric Use
 
-Approximately 190 elderly individuals (≥ 65 years of age) participated in clinical studies with mirtazapine tablets.
+Approximately 190 elderly individuals (≥65 years of age) participated in clinical studies with mirtazapine tablets.
 This drug is known to be substantially excreted by the kidney (75%), and the risk of decreased clearance of this drug is greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection.
 Sedating drugs may cause confusion and over-sedation in the elderly.
