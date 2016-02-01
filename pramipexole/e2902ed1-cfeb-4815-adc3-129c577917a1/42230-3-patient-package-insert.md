@@ -6,8 +6,8 @@ Licensed from: Boehringer Ingelheim International GmbH
 
 Trademark under license from: Boehringer Ingelheim International GmbH
 
-Copyright © 2015 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2016 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Revised: March 2015
+Revised: January 2016
 
-OT220011ZD022015 74988-12
+OT220011AAA072016 74988-13

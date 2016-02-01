@@ -116,11 +116,11 @@ Some adverse reactions developed in MIRAPEX ER-treated patients during the titra
 
 Laboratory Tests During the development of MIRAPEX ER tablets, no systematic abnormalities on routine laboratory testing were noted.
 
-Other adverse reactions observed during clinical trials of pramipexole in early and advanced Parkinson’s disease Other adverse reactions in clinical studies involving pramipexole include abnormal dreams, akathisia, amnesia, decreased libido, decreased weight, dyspnea, pneumonia, and vision abnormalities.
+Other adverse reactions observed during clinical trials of MIRAPEX immediate-release or MIRAPEX ER in early and advanced Parkinson’s disease Other adverse reactions in clinical studies involving MIRAPEX immediate-release or MIRAPEX ER tablets include abnormal dreams, akathisia, amnesia, decreased libido, decreased weight, dyspnea, pneumonia, and vision abnormalities.
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of immediate-release pramipexole tablets, primarily in Parkinson’s disease patients.
+The following adverse reactions have been identified during post-approval use of MIRAPEX immediate-release or MIRAPEX ER tablets, primarily in Parkinson’s disease patients.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Decisions to include these reactions in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of reporting, or (3) strength of causal connection to pramipexole tablets.
-Similar types of events were grouped into a smaller number of standardized categories using the MedDRA terminology: cardiac failure, inappropriate antidiuretic hormone secretion (SIADH), syncope, vomiting, and weight increase.
+Similar types of reactions were grouped into a smaller number of standardized categories using the MedDRA terminology: cardiac failure, inappropriate antidiuretic hormone secretion (SIADH), skin reactions (including erythema, rash, pruritus, urticaria), syncope, vomiting, and weight increase.
