@@ -20,6 +20,9 @@ If hepatic and renal functions become impaired and elimination of drug decreases
 
 In considering the use of topical proteolytic enzymes in conjunction with SILVADENE Cream 1%, the possibility should be noted that silver may inactivate such enzymes.
 
+SILVADENE Cream 1% (silver sulfadiazine) is for topical use only.
+Avoid contact of SILVADENE Cream 1% (silver sulfadiazine) with the eye.
+
 ## Laboratory Tests
 
 In the treatment of burn wounds involving extensive areas of the body, the serum sulfa concentrations may approach adult therapeutic levels (8 mg% to 12 mg%).
