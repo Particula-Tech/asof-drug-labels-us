@@ -94,6 +94,7 @@ TRUVADA is used:
 
 - to treat HIV-1 infection when used with other HIV-1 medicines in adults and children age 12 years and older
 - to help reduce the risk of getting HIV-1 infection when used with safer sex practices in:
+- with safer sex practices at all times, to reduce the risk of getting HIV-1 in:
   - HIV-negative men who have sex with men, who are at high risk of getting infected with HIV-1 through sex.
   - Male-female sex partners when one partner has HIV-1 infection and the other does not.
 
@@ -214,7 +215,7 @@ TRUVADA may cause serious side effects, including:
   If you had kidney problems in the past or take another medicine that can cause kidney problems, your healthcare provider may do blood tests to check your kidneys before you start and while you are taking TRUVADA.
   Your healthcare provider may tell you to take TRUVADA less often, or to stop taking TRUVADA if you have kidney problems.
 - Bone problems can happen in some people who take TRUVADA.
-  Bone problems include bone pain, or softening or thinning of bones, which may lead to fractures.
+  Bone problems include bone pain, or softening or thinning of bones which may lead to fractures.
   Your healthcare provider may need to do tests to check your bones.
 - Changes in body fat can happen in people who take HIV-1 medicines.
   The exact cause and long-term health effects of these problems are not known.
