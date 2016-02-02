@@ -16,4 +16,4 @@ Fold used patches so that the adhesive side sticks to itself and safely discard 
 
 IBSA
 
-King Pharmaceuticals
+Pfizer

@@ -120,8 +120,13 @@ NSAID medicines that need a prescription
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-| Distributed by: | King Pharmaceuticals Inc. 501 Fifth Street Bristol, TN 37620 USA Telephone: 1-888-840-8884 www.FlectorPatch.com |
-| --- | --- |
+Distributed by: Pfizer Inc New York, NY 10017 Telephone: 1-800-438-1985 www.FlectorPatch.com
 
-Manufactured for: IBSA Institut Biochimique SA, CH-6903 Lugano, Switzerland Manufactured by: Teikoku Seiyaku Co., Ltd., Sanbonmatsu, Kagawa 769-2695 Japan FI/165 1086 Ed.
-VII/08.11 Version August, 2011
+Manufactured for: IBSA Institut Biochimique SA, CH-6903 Lugano, Switzerland
+
+Manufactured by: Teikoku Seiyaku Co., Ltd., Sanbonmatsu, Kagawa 769-2695 Japan
+
+FLECTOR is a registered trademark of IBSA Institut Biochimique SA, licensed by Alpharma Pharmaceuticals LLC, a subsidiary of Pfizer Inc.
+
+FI/165 1086 Ed.
+VIII/4.15 Version April, 2015

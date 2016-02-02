@@ -13,7 +13,16 @@ Storage
 
 Store at 25ºC (77ºF); excursions permitted to 15º-30ºC (59º-86ºF) [see USP Controlled Room Temperature].
 
-Distributed by: King Pharmaceuticals Inc. 501 Fifth Street Bristol TN 37620 USA Telephone: 1-888-840-8884 www.FlectorPatch.com
+This product's label may have been updated.
+For current full prescribing information, please visit www.pfizer.com.
 
-Manufactured for: IBSA Institut Biochimique SA, CH-6903 Lugano, Switzerland Manufactured by: Teikoku Seiyaku Co., Ltd., Sanbonmatsu, Kagawa 769-2695 Japan FI/165 1086 Ed.
-VII/08.11 Version August, 2011
+Distributed by: Pfizer Inc New York, NY 10017
+
+Manufactured for: IBSA Institut Biochimique SA, CH-6903 Lugano, Switzerland
+
+Manufactured by: Teikoku Seiyaku Co., Ltd., Sanbonmatsu, Kagawa 769-2695 Japan
+
+FLECTOR is a registered trademark of IBSA Institut Biochimique SA, licensed by Alpharma Pharmaceuticals LLC, a subsidiary of Pfizer Inc.
+
+FI/165 1086 Ed.
+VIII/04.15 Version April, 2015
