@@ -7,9 +7,9 @@ These reactions are more likely to occur in individuals with a history of penici
 Before initiating therapy with piperacillin and tazobactam, careful inquiry should be made concerning previous hypersensitivity reactions.
 If an allergic reaction occurs, piperacillin and tazobactam should be discontinued and appropriate therapy instituted.
 
-## 5.2 Serious Skin Reactions
+## 5.2 Severe Skin Reactions
 
-Serious skin reactions, such as Stevens-Johnson syndrome and toxic epidermal necrolysis, have been reported in patients receiving piperacillin and tazobactam.
+Piperacillin and tazobactam may cause severe cutaneous adverse reactions, such as Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms, and acute generalized exanthematous pustulosis.
 If patients develop a skin rash they should be monitored closely and piperacillin and tazobactam discontinued if lesions progress.
 
 ## 5.3 Clostridium difficile Associated Diarrhea

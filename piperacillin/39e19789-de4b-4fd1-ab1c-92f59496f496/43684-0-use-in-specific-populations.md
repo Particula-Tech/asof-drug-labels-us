@@ -10,11 +10,11 @@ Because animal reproduction studies are not always predictive of the human respo
 ## 8.3 Nursing Mothers
 
 Piperacillin is excreted in low concentrations in human milk; tazobactam concentrations in human milk have not been studied.
-Caution should be exercised when piperacillin and tazobactamforinjection is administered to a nursing woman.
+Caution should be exercised when piperacillin and tazobactam for injection is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 
-Use of piperacillin and tazobactamin pediatric patients 2 months of age or older with appendicitis and/or peritonitis is supported by evidence from well-controlled studies and pharmacokinetic studies in adults and in pediatric patients.
+Use of piperacillin and tazobactam in pediatric patients 2 months of age or older with appendicitis and/or peritonitis is supported by evidence from well-controlled studies and pharmacokinetic studies in adults and in pediatric patients.
 This includes a prospective, randomized, comparative, open-label clinical trial with 542 pediatric patients 2 to 12 years of age with complicated intra-abdominal infections, in which 273 pediatric patients received piperacillin/tazobactam.
 Safety and efficacy in pediatric patients less than 2 months of age have not been established [see Clinical Pharmacology (12) and Dosage and Administration (2)].
 It has not been determined how to adjust piperacillin and tazobactam for injection dosage in pediatric patients with renal impairment.
@@ -37,7 +37,7 @@ In patients with creatinine clearance ≤ 40 mL/min and dialysis patients (hemod
 
 ## 8.7 Hepatic Impairment
 
-Dosage adjustment of piperacillin and tazobactam for injection is not warranted in patients with hepatic cirrhosis [See Clinical Pharmacology (12.3)].
+Dosage adjustment of piperacillin and tazobactam for injection is not warranted in patients with hepatic cirrhosis [see Clinical Pharmacology (12.3)].
 
 ## 8.8 Patients with Cystic Fibrosis
 

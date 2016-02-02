@@ -7,4 +7,4 @@ Skipping doses or not completing the full course of therapy may (1) decrease the
 Diarrhea is a common problem caused by antibacterial drugs which usually ends when the drug is discontinued.
 Sometimes after starting treatment with antibacterial drugs, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the drug.
 If this occurs, patients should contact their physician as soon as possible.
-Manufactured for: AuroMedics Pharma LLC 6 Wheeling Road Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 05/2014
+Manufactured for: AuroMedics Pharma LLC 6 Wheeling Road Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 090, India Revised: 01/2016

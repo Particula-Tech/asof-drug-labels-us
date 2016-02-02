@@ -64,7 +64,7 @@ Piperacillin, tazobactam and desethyl piperacillin are also secreted into the bi
 Specific Populations Renal impairment After the administration of single doses of piperacillin/tazobactam to subjects with renal impairment, the half-life of piperacillin and of tazobactam increases with decreasing creatinine clearance.
 At creatinine clearance below 20 mL/min, the increase in half-life is twofold for piperacillin and fourfold for tazobactam compared to subjects with normal renal function.
 Dosage adjustments for piperacillin and tazobactam are recommended when creatinine clearance is below 40 mL/min in patients receiving the usual recommended daily dose of piperacillin and tazobactam for injection.
-See Dosage and Administration (2) for specific recommendations for the treatment of patients with renal ­impairment.
+See Dosage and Administration (2) for specific recommendations for the treatment of patients with renal-­impairment.
 Hemodialysis removes 30% to 40% of a piperacillin/tazobactam dose with an additional 5% of the tazobactam dose removed as the tazobactam metabolite.
 Peritoneal dialysis removes approximately 6% and 21% of the piperacillin and tazobactam doses, respectively, with up to 16% of the tazobactam dose removed as the tazobactam metabolite.
 For dosage recommendations for patients undergoing hemodialysis [see Dosage and Administration (2)].
