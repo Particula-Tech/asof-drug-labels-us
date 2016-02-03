@@ -8,7 +8,7 @@ AFINITOR® is indicated for the treatment of postmenopausal women with advanced 
 
 AFINITOR® is indicated for the treatment of adult patients with progressive neuroendocrine tumors of pancreatic origin (PNET) with unresectable, locally advanced or metastatic disease.
 
-AFINITOR® is not indicated for the treatment of patients with functional carcinoid tumors.
+AFINITOR® is not indicated for the treatment of patients with functional carcinoid tumors [see Clinical Studies (14.2)].
 
 ## 1.3 Advanced Renal Cell Carcinoma (RCC)
 
@@ -24,6 +24,3 @@ Further follow-up of patients is required to determine long-term outcomes.
 ## 1.5 Subependymal Giant Cell Astrocytoma (SEGA) with Tuberous Sclerosis Complex (TSC)
 
 AFINITOR® Tablets and AFINITOR® DISPERZ are indicated in pediatric and adult patients with tuberous sclerosis complex (TSC) for the treatment of subependymal giant cell astrocytoma (SEGA) that requires therapeutic intervention but cannot be curatively resected.
-
-The effectiveness of AFINITOR Tablets and AFINITOR DISPERZ is based on demonstration of durable objective response, as evidenced by reduction in SEGA tumor volume.
-Improvement in disease-related symptoms and overall survival in patients with SEGA and TSC has not been demonstrated [see Clinical Studies (14.5)].

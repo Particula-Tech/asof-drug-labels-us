@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use)
+Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
 Non-infectious Pneumonitis
 
@@ -47,7 +47,7 @@ Vaccinations
 
 Advise patients to avoid the use of live vaccines and close contact with those who have received live vaccines [see Warnings and Precautions (5.11)].
 
-Embryo-fetal Toxicity
+Embryo-Fetal Toxicity
 
 Advise female patients of childbearing potential that AFINITOR may cause fetal harm and that a highly effective method of contraception should be used during therapy with AFINITOR and for up to 8 weeks after ending treatment [see Warnings and Precautions (5.12)].
 
@@ -72,4 +72,4 @@ Manufactured by: Novartis Pharma Stein AG Stein, Switzerland
 
 Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
-T2015-137 September 2015
+T2016-16 January 2016

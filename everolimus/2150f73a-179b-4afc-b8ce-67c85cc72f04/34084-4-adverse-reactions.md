@@ -452,7 +452,7 @@ Table 11: Key Laboratory Abnormalities Reported in AFINITOR-treated Patients wit
 | Hypophosphatemia | 9 | 1 | 0 | 3 | 0 | 0 |
 | Grading according to CTCAE Version 3.0 |  |  |  |  |  |  |
 
-Longer-term follow-up of 34.2 months (range 4.7 to 47.1 months) from a non-randomized, open-label, 28-patient trial resulted in the following additional notable adverse reactions and key laboratory abnormalities: cellulitis (29%), hyperglycemia (25%), and elevated creatinine (14%).
+Updated safety information from 111 patients treated with AFINITOR for a median duration of 47 months identified the following additional notable adverse reactions and key laboratory abnormalities: decreased appetite (14%), hyperglycemia (13%), hypertension (11%), urinary tract infection (9%), decreased fibrinogen (8%), cellulitis (6%), abdominal pain (5%), decreased weight (5%), elevated creatinine (5%), and azospermia (1%).
 
 ## 6.6 Postmarketing Experience
 

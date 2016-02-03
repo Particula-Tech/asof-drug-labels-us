@@ -88,7 +88,7 @@ Hematologic Parameters
 Decreased hemoglobin, lymphocytes, neutrophils, and platelets have been reported in patients taking AFINITOR [see Adverse Reactions (6.1, 6.2, 6.3, 6.4, 6.5)].
 Monitoring of complete blood count is recommended prior to the start of AFINITOR therapy and periodically thereafter.
 
-## 5.9 Drug-drug Interactions
+## 5.9 Drug-Drug Interactions
 
 Due to significant increases in exposure of everolimus, co-administration with strong CYP3A4/PgP inhibitors should be avoided [see Dosage and Administration (2.2, 2.5) and Drug Interactions (7.1)].
 
@@ -113,7 +113,7 @@ During AFINITOR treatment, avoid the use of live vaccines and avoid close contac
 For pediatric patients with SEGA that do not require immediate treatment, complete the recommended childhood series of live virus vaccinations according to American Council on Immunization Practices (ACIP) guidelines prior to the start of therapy.
 An accelerated vaccination schedule may be appropriate.
 
-## 5.12 Embryo-fetal Toxicity
+## 5.12 Embryo-Fetal Toxicity
 
 Based on the mechanism of action, AFINITOR can cause fetal harm.
 Everolimus caused embryo-fetal toxicities in animals at maternal exposures that were lower than human exposures.

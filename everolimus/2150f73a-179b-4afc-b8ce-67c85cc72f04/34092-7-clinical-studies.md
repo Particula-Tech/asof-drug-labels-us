@@ -141,9 +141,9 @@ The skin lesion response rate was statistically significantly higher in the AFIN
 
 ## 14.5 Subependymal Giant Cell Astrocytoma with Tuberous Sclerosis Complex
 
-Study 1 was a randomized (2:1), double-blind, placebo-controlled trial of AFINITOR Tablets conducted in 117 pediatric and adult patients with subependymal giant cell astrocytoma (SEGA) and tuberous sclerosis complex (TSC).
+Study 1 was a randomized (2:1), double-blind, placebo-controlled trial of AFINITOR conducted in 117 pediatric and adult patients with subependymal giant cell astrocytoma (SEGA) and tuberous sclerosis complex (TSC).
 Eligible patients had at least one SEGA lesion ≥ 1.0 cm in longest diameter on MRI based on local radiology assessment and one or more of the following: serial radiological evidence of SEGA growth, a new SEGA lesion ≥ 1 cm in longest diameter, or new or worsening hydrocephalus.
-Patients randomized to the treatment arm received AFINITOR Tablets at a starting dose of 4.5 mg/m2 daily, with subsequent dose adjustments as needed to achieve and maintain everolimus trough concentrations of 5 to 15 ng/mL as tolerated.
+Patients randomized to the treatment arm received AFINITOR tablets at a starting dose of 4.5 mg/m2 daily, with subsequent dose adjustments as needed to achieve and maintain everolimus trough concentrations of 5 to 15 ng/mL as tolerated.
 AFINITOR/matched placebo treatment continued until disease progression or unacceptable toxicity.
 MRI scans for disease assessment were obtained at baseline, 12, 24, and 48 weeks, and annually thereafter.
 
@@ -158,25 +158,34 @@ At baseline, 18% of patients were receiving EIAEDs.
 Based on central radiology review at baseline, 98% of patients had at least one SEGA lesion ≥ 1.0 cm in longest diameter, 79% had bilateral SEGAs, 43% had ≥ 2 target SEGA lesions, 26% had growth in or into the inferior surface of the ventricle, 9% had evidence of growth beyond the subependymal tissue adjacent to the ventricle, and 7% had radiographic evidence of hydrocephalus.
 The median values for the sum of all target SEGA lesions at baseline were 1.63 cm3 (range 0.18 to 25.15 cm3) and 1.30 cm3 (range 0.32 to 9.75 cm3) in the AFINITOR and placebo arms respectively.
 Eight (7%) patients had prior SEGA-related surgery.
-The median duration of follow-up was 8.4 months (range 4.6 to 17.2 months).
+The median duration of follow-up was 8.4 months (range 4.6 to 17.2 months) at the time of primary analysis.
 
 The SEGA response rate was statistically significantly higher in AFINITOR-treated patients.
 There were 27 (35%) patients with SEGA responses in the AFINITOR arm and no SEGA responses in the placebo arm.
 Results are displayed in Table 16.
-At the time of the final analysis, all SEGA responses were ongoing and the median duration of response was 5.3 months (range 2.1 to 8.4 months).
-No patient in either treatment arm required surgical intervention during the course of Study 1.
+At the time of the primary analysis, all SEGA responses were ongoing and the median duration of response was 5.3 months (range 2.1 to 8.4 months).
+
+With a median follow-up of 8.4 months, SEGA progression was detected in 6 of 39 (15.4%) patients randomized to receive placebo and none of the 78 patients randomized to receive AFINITOR.
+No patient in either treatment arm required surgical intervention.
 
 Table 16: SEGA Response
 
 |  | AFINITOR | Placebo | p-value |
 | --- | --- | --- | --- |
 |  | N=78 | N=39 |  |
-| Final analysis |  |  |  |
+| Primary analysis |  |  |  |
 | SEGA response ratea - (%) | 35 | 0 | <0.0001 |
 | 95% CI | 24, 46 | 0, 9 |  |
 | a Per independent central radiology review |  |  |  |
 
-With a median follow-up of 8.4 months, SEGA progression was detected in 6 of 39 (15.4%) patients randomized to receive placebo and none of the 78 patients randomized to receive AFINITOR.
+Patients randomized to placebo were permitted to receive AFINITOR at the time of SEGA progression or after the primary analysis, whichever occurred first.
+After the primary analysis, patients treated with AFINITOR underwent additional follow-up MRI scans to assess tumor status until discontinuation of treatment or completion of 4 years of follow-up after the last patient was randomized.
+A total of 111 patients (78 patients randomized to AFINITOR and 33 patients randomized to placebo) received at least one dose of AFINITOR.
+Median duration of AFINITOR treatment and follow-up was 3.9 years (range: 0.2 to 4.9 years).
+
+By four years after the last patient was enrolled, a total of 64 of the 111 patients treated with AFINITOR had a ≥ 50% reduction in SEGA volume relative to baseline, including 27 patients identified at the time of the primary analysis and 37 patients with a SEGA response after the primary analysis.
+The median time to SEGA response was 5.3 months (range: 2.5 to 33.1 months).
+Thirteen of the 111 patients treated with AFINITOR had documented disease progression by the end of the follow-up period and no patient required surgical intervention for SEGA during the course of the study.
 
 Study 2 was an open-label, single-arm trial conducted to evaluate the safety and antitumor activity of AFINITOR 3.0 mg/m2/orally once daily in patients with SEGA and TSC.
 Serial radiological evidence of SEGA growth was required for entry.
