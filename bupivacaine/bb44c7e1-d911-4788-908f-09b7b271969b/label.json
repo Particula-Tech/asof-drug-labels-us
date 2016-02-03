@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "ANDA070583",
+    "ANDA071165"
+  ],
+  "inn": "bupivacaine",
+  "labeler": "Hospira, Inc.",
+  "package_ndcs": [
+    "0409-1159-09",
+    "0409-1159-10",
+    "0409-9042-09",
+    "0409-9042-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "bupivacaine hydrochloride",
+      "name": "BUPIVACAINE HYDROCHLORIDE"
+    },
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "bupivacaine hydrochloride and epinephrine",
+      "name": "BUPIVACAINE HYDROCHLORIDE AND EPINEPHRINE"
+    }
+  ],
+  "setid": "bb44c7e1-d911-4788-908f-09b7b271969b",
+  "source": "dailymed"
+}

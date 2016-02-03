@@ -1,0 +1,27 @@
+# HOW SUPPLIED
+
+These solutions are not for spinal anesthesia.
+
+Store at 20 to 25°C (68 to 77°F).
+[See USP Controlled Room Temperature.]
+
+Bupivacaine Hydrochloride — Solutions of Bupivacaine Hydrochloride that do not contain epinephrine may be autoclaved.
+Autoclave at 15-pound pressure, 121°C (250°F) for 15 minutes.
+
+| Unit of Sale | Concentration | pH | Each |
+| --- | --- | --- | --- |
+| NDC 0409-1159-10Carton of 25 | 0.25% | 4.0 to 6.5 | NDC 0409-1159-0930 mL Teartop Vial |
+| NDC 0409-1162-10Carton of 25 | 0.5% | 4.0 to 6.5 | NDC 0409-1162-0930 mL Teartop Vial |
+
+Bupivacaine Hydrochloride with epinephrine 1:200,000 (as bitartrate) – Solutions of Bupivacaine Hydrochloride that contain epinephrine should not be autoclaved and should be protected from light.
+Do not use the solution if its color is pinkish or darker than slightly yellow or if it contains a precipitate.
+
+| Unit of Sale | Concentration | pH | Each |
+| --- | --- | --- | --- |
+| NDC 0409-9042-10Carton of 25 | 0.25% | 3.3 to 5.5 | NDC 0409-9042-0930 mL Teartop Vial |
+
+Revised: 7/2015
+
+EN-3988
+
+Manufactured by Hospira, Inc., Lake Forest, IL 60045 USA N+ and NOVAPLUS are registered trademarks of Novation, LLC.
