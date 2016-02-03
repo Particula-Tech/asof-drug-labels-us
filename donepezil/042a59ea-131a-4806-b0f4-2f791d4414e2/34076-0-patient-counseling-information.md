@@ -1,26 +1,24 @@
-# 17. PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved Patient Package Insert attached to this label.
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
-To assure safe and effective use of donepezil hydrochloride, the information and instructions provided in the attached Patient Package Insert should be discussed with patients and caregivers.
+Instruct patients and caregivers to take donepezil hydrochloride only once per day, as prescribed.
 
-Patients and caregivers should be instructed to take donepezil hydrochloride only once per day, as prescribed.
+Instruct patients and caregivers that donepezil hydrochloride can be taken with or without food.
 
-Patients and caregivers should be instructed that donepezil hydrochloride can be taken with or without food.
+Advise patients and caregivers that donepezil hydrochloride may cause nausea, diarrhea, insomnia, vomiting, muscle cramps, fatigue, and decreased appetite.
 
-Patients and caregivers should be advised that the product may cause nausea, diarrhea, insomnia, vomiting, muscle cramps, fatigue and decreased appetite.
+Manufactured by: Zhejiang Huahai Pharmaceutical Co., Ltd. Xunqiao, Linhai, Zhejiang, 317024, China
 
-Manufactured by: Zhejiang Huahai Pharmaceutical Co., Ltd. Linhai, Zhejiang, China 317024
+Distributed by: Solco Healthcare US, LLC Cranbury, NJ 08512, USA
 
-Distributed by: Solco Healthcare US, LLC Cranbury, NJ 08512
+Revised: 09/2015
 
-Issued: 05/2014
-
-07282-03
+07282-04
 
 DONEPEZIL HYDROCHLORIDE PATIENT PACKAGE INSERT
 
-Donepezil Hydrochloride Tablets, USP
+Donepezil (doe NEP e zil) Hydrochloride Tablets, USP
 
 - Tablets: 5 mg and 10 mg
 
@@ -50,9 +48,9 @@ Donepezil hydrochloride has not been approved as a treatment for any medical con
 
 Who should not take donepezil hydrochloride?
 
-The patient should not take donepezil hydrochloride if allergic to any of the ingredients in donepezil hydrochloride or to medicines that contain piperidines.
+The patient should not take donepezil hydrochloride if allergic to any of the ingredients in donepezil hydrochloride tablets or to medicines that contain piperidines.
 Ask the patient's doctor if you are not sure.
-See the end of this leaflet for a list of ingredients in donepezil hydrochloride.
+See the end of this leaflet for a list of ingredients in donepezil hydrochloride tablets.
 
 What should I tell the doctor before the patient takes donepezil hydrochloride?
 
@@ -173,10 +171,12 @@ The film of 10 mg tablets coating contains hydroxypropyl methyl cellulose, titan
 
 Rx Only
 
-Manufactured by: Zhejiang Huahai Pharmaceutical Co., Ltd. Linhai, Zhejiang, China 317024
+Manufactured by: Zhejiang Huahai Pharmaceutical Co., Ltd. Xunqiao, Linhai, Zhejiang, 317024, China
 
-Distributed by: Solco Healthcare US, LLC Cranbury, NJ 08512
+Distributed by: Solco Healthcare US, LLC Cranbury, NJ 08512, USA
 
-Issued: 06/2013
+Revised: 09/2015
 
-07283-02
+07283-03
+
+Rx Only

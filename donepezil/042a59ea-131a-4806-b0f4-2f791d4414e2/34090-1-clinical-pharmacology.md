@@ -1,6 +1,6 @@
-# 12. CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## 12.1. Mechanism of Action
+## 12.1 Mechanism of Action
 
 Current theories on the pathogenesis of the cognitive signs and symptoms of Alzheimer's disease attribute some of them to a deficiency of cholinergic neurotransmission.
 
@@ -8,7 +8,7 @@ Donepezil hydrochloride is postulated to exert its therapeutic effect by enhanci
 This is accomplished by increasing the concentration of acetylcholine through reversible inhibition of its hydrolysis by acetylcholinesterase.
 There is no evidence that donepezil alters the course of the underlying dementing process.
 
-## 12.2. Pharmacokinetics
+## 12.3 Pharmacokinetics
 
 Pharmacokinetics of donepezil are linear over a dose range of 1-10 mg given once daily.
 The rate and extent of absorption of donepezil hydrochloride tablets are not influenced by food.
@@ -24,7 +24,6 @@ Following administration of 14C-labeled donepezil, plasma radioactivity, express
 Approximately 57% and 15% of the total radioactivity was recovered in urine and feces, respectively, over a period of 10 days, while 28% remained unrecovered, with about 17% of the donepezil dose recovered in the urine as unchanged drug.
 Examination of the effect of CYP2D6 genotype in Alzheimer's patients showed differences in clearance values among CYP2D6 genotype subgroups.
 When compared to the extensive metabolizers, poor metabolizers had a 31.5% slower clearance and ultra-rapid metabolizers had a 24% faster clearance.
-These results suggest CYP2D6 has a minor role in the metabolism of donepezil.
 
 Hepatic Disease: In a study of 10 patients with stable alcoholic cirrhosis, the clearance of donepezil hydrochloride was decreased by 20% relative to 10 healthy age- and sex-matched subjects.
 
@@ -45,7 +44,7 @@ Drug Interactions:
 
 Effect of Donepezil Hydrochloride on the Metabolism of Other Drugs
 
-No in vivo clinical trials have investigated the effect of donepezil hydrochloride on the clearance of drugs metabolized by CYP 3A4 (e.g. cisapride, terfenadine) or by CYP 2D6 (e.g. imipramine).
+No in vivo clinical trials have investigated the effect of donepezil hydrochloride on the clearance of drugs metabolized by CYP 3A4 (e.g., cisapride, terfenadine) or by CYP 2D6 (e.g., imipramine).
 However, in vitro studies show a low rate of binding to these enzymes (mean Ki about 50-130 μM), that, given the therapeutic plasma concentrations of donepezil (164 nM), indicates little likelihood of interference.
 Based on in vitro studies, donepezil shows little or no evidence of direct inhibition of CYP2B6, CYP2C8 and CYP2C19 at clinically relevant concentrations.
 
@@ -55,9 +54,14 @@ No effects of donepezil hydrochloride on the pharmacokinetics of these drugs wer
 
 Effect of Other Drugs on the Metabolism of Donepezil Hydrochloride
 
-A small effect of CYP2D6 inhibitors was identified in a population pharmacokinetic analysis of plasma donepezil concentrations measured in patients with Alzheimer’s disease.
-Donepezil clearance was reduced by approximately 17% in patients taking 10 mg with a known CYP2D6 inhibitor.
-This result is consistent with the conclusion that CYP2D6 is a minor metabolic pathway of donepezil.
+Ketoconazole and quinidine, strong inhibitors of CYP450 3A and 2D6, respectively, inhibit donepezil metabolism in vitro.
+Whether there is a clinical effect of quinidine is not known.
+Population pharmacokinetic analysis showed that in the presence of concomitant CYP2D6 inhibitors donepezil AUC was increased by approximately 17% to 20% in Alzheimer’s disease patients taking donepezil hydrochloride 10 and 23 mg.
+This represented an average effect of weak, moderate, and strong CYP2D6 inhibitors.
+In a 7-day crossover study in 18 healthy volunteers, ketoconazole (200 mg q.d.) increased mean donepezil (5 mg q.d.) concentrations (AUC0-24 and Cmax) by 36%.
+The clinical relevance of this increase in concentration is unknown.
+
+Inducers of CYP 3A (e.g., phenytoin, carbamazepine, dexamethasone, rifampin, and phenobarbital) could increase the rate of elimination of donepezil hydrochloride.
 
 Formal pharmacokinetic studies demonstrated that the metabolism of donepezil hydrochloride is not significantly affected by concurrent administration of digoxin or cimetidine.
 

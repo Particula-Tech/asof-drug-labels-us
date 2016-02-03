@@ -1,6 +1,6 @@
-# 16. HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1. Donepezil Hydrochloride Tablets
+## 16.1 Donepezil Hydrochloride Tablets
 
 Supplied as film-coated, round tablets containing 5 mg, or 10 mg of donepezil hydrochloride, USP.
 

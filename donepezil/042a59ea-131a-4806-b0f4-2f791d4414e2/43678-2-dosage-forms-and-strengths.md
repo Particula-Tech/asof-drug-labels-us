@@ -1,4 +1,4 @@
-# 3. DOSAGE FORMS AND STRENGTHS
+# 3 DOSAGE FORMS AND STRENGTHS
 
 Donepezil hydrochloride is supplied as film-coated, round tablets containing 5 mg, 10 mg of donepezil hydrochloride, USP.
 
