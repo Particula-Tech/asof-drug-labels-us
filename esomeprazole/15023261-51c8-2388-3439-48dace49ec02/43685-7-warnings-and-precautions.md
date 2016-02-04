@@ -37,14 +37,14 @@ Clopidogrel is a prodrug.
 Inhibition of platelet aggregation by clopidogrel is entirely due to an active metabolite.
 The metabolism of clopidogrel to its active metabolite can be impaired by use with concomitant medications, such as esomeprazole, that inhibit CYP2C19 activity.
 Concomitant use of clopidogrel with 40 mg esomeprazole reduces the pharmacological activity of clopidogrel.
-When using esomeprazole magnesium consider alternative anti-platelet therapy [see Drug Interactions (7.3) and Pharmacokinetics (12.3)].
+When using esomeprazole magnesium consider alternative anti-platelet therapy [seeDrug Interactions (7.3) and Pharmacokinetics (12.3)].
 
 ## 5.7 Bone Fracture
 
 Several published observational studies suggest that proton pump inhibitor (PPI) therapy may be associated with an increased risk for osteoporosis-related fractures of the hip, wrist, or spine.
 The risk of fracture was increased in patients who received high-dose, defined as multiple daily doses, and long-term PPI therapy (a year or longer).
 Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
-Patients at risk for osteoporosis-related fractures should be managed according to established treatment guidelines [see Dosage and Administration (2) and Adverse Reactions (6.2)].
+Patients at risk for osteoporosis-related fractures should be managed according to established treatment guidelines [see Dosage and Administration (2)and Adverse Reactions (6.2)].
 
 ## 5.8 Hypomagnesemia
 
