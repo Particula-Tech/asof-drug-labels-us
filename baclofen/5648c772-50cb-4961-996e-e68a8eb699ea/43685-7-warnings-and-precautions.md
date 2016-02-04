@@ -22,6 +22,7 @@ Because of the possibility of sedation, patients should be cautioned regarding t
 Patients should also be cautioned that the central nervous system effects of baclofen may be additive to those of alcohol and other CNS depressants.
 
 Baclofen should be used with caution where spasticity is utilized to sustain upright posture and balance in locomotion or whenever spasticity is utilized to obtain increased function.
+
 In patients with epilepsy, the clinical state and electroencephalogram should be monitored at regular intervals, since deterioration in seizure control and EEG have been reported occasionally in patients taking baclofen.
 
 It is not known whether this drug is excreted in human milk.

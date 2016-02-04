@@ -1,7 +1,7 @@
 # ADVERSE REACTIONS
 
 The most common is transient drowsiness (10 to 63%).
-In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving Baclofen compared to 36% of those in the placebo group.
+In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group.
 Other common adverse reactions are dizziness (5 to 15%), weakness (5 to 15%) and fatigue (2 to 4%).
 
 Others reported:
@@ -16,5 +16,6 @@ Gastrointestinal: Nausea (4 to 12%), constipation (2 to 6%); and rarely, dry mou
 Genitourinary: Urinary frequency (2 to 6%); and rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria.
 
 Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion.
+
 Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy.
 The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar.
