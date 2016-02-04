@@ -18,7 +18,7 @@ Figure 1 is a plot of time to the first non-CABG major bleeding event.
 Figure 1 – Kaplan-Meier estimate of time to first non-CABG PLATO-defined major bleeding event (PLATO)
 
 Frequency of bleeding in PLATO is summarized in Tables 1 and 2.
-About half of the non-CABG major bleeding events were in the first 30 days.
+About half of the Non-CABG major bleeding events were in the first 30 days.
 
 Table 1 - Non-CABG related bleeds (PLATO)
 
@@ -52,7 +52,6 @@ Table 2 – CABG-related bleeding (PLATO)
 
 |  | BRILINTA90 mg BIDN=770 | ClopidogrelN=814 |
 | --- | --- | --- |
-|  | n (%) patientswith event | n (%) patientswith event |
 | PLATO Total Major | 626 (81.3) | 666 (81.8) |
 | Fatal/Life-threatening | 337 (43.8) | 350 (43.0) |
 | Fatal | 6 (0.8) | 7 (0.9) |
@@ -80,7 +79,7 @@ Table 4 - Bleeding events (PEGASUS)
 
 |  | BRILINTA60 mg BID + AspirinN=6958 |  | Aspirin AloneN=6996 |  |
 | --- | --- | --- | --- | --- |
-|  | n (%)patientswith event | Events/100 pt yrs | n (%) patientswith event | Events/100 pt yrs |
+|  | n (%)patientswith event | Events/100 pt yrs | n patientswith event | Events/100 pt yrs |
 | TIMI Major | 115 (1.7) | 0.78 | 54 (0.8) | 0.34 |
 | Fatal | 11 (0.2) | 0.08 | 12 (0.2) | 0.08 |
 | Intracranial hemorrhage | 28 (0.4) | 0.19 | 23 (0.3) | 0.14 |
@@ -95,7 +94,7 @@ Adverse reactions that occurred in PEGASUS at rates of 3% or more are shown in T
 
 Table 5 – Non-hemorrhagic adverse reactions reported in >3.0% of patients in the ticagrelor 60 mg treatment group (PEGASUS)
 
-|  | BRILINTA60 mg BID+ Aspirin N=6958 | Aspirin Alone N=6996 |
+|  | BRILINTA60 mg BID N=6958 | Clopidogrel N=6996 |
 | --- | --- | --- |
 | Dyspnea | 14.2 | 5.5 |
 | Dizziness | 4.5 | 4.1 |
@@ -129,12 +128,3 @@ Treatment groups in PLATO did not differ for renal-related serious adverse event
 
 In PEGASUS, serum creatinine concentration increased by >50% in approximately 4% of patients receiving BRILINTA 60 mg, similar to aspirin alone.
 The frequency of renal related adverse events was similar for ticagrelor and aspirin alone regardless of age and baseline renal function.
-
-## 6.2 Postmarketing Experience
-
-The following adverse reactions have been identified during post-approval use of BRILINTA.
-Because these reactions are reported voluntarily from a population of an unknown size, it is not always possible to reliably estimate their frequency.
-
-Immune system disorders: Hypersensitivity reactions including angioedema [see Contraindications (4.3)].
-
-Skin and subcutaneous tissue disorders: Rash
