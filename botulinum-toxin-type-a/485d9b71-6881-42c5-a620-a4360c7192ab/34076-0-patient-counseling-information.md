@@ -12,7 +12,10 @@ Patients should be advised to inform their doctor or pharmacist if they develop 
 
 Patients should be counseled that if loss of strength, muscle weakness, blurred vision, or drooping eyelids occur, they should avoid driving a car or engaging in other potentially hazardous activities.
 
-Manufactured by: Allergan Pharmaceuticals Ireland a subsidiary of: Allergan, Inc. 2525 Dupont Dr. Irvine, CA 92612 © 2015 Allergan.
-All rights reserved. ® marks owned by Allergan, Inc.
+Manufactured by: Allergan Pharmaceuticals Ireland a subsidiary of: Allergan, Inc. 2525 Dupont Dr. Irvine, CA 92612 © 2016 Allergan.
+All rights reserved.
+All trademarks are the property of their respective owners.
+Patented.
+See: www.allergan.com/products/patent_notices
 
-71823US20
+71823US21
