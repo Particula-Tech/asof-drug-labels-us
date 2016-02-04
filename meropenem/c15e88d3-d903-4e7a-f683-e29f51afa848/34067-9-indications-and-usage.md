@@ -6,9 +6,9 @@ In the absence of such data, local epidemiology and susceptibility patterns may 
 
 MERREM I.V. is useful as presumptive therapy in the indicated condition (e.g., intra-abdominal infections) prior to the identification of the causative organisms because of its broad spectrum of bactericidal activity.
 
-For information regarding use in pediatric patients see Indications and Usage (1.1), (1.2) or (1.3); Dosage and Administration (2.3), Adverse Reactions (6.1), and Clinical Pharmacology (12.3).
+For information regarding use in pediatric patients [seeIndications and Usage (1.1), (1.2), (1.3), Dosage and Administration (2.3), Adverse Reactions (6.1), andClinical Pharmacology (12.3)].
 
-## 1.1 Skin and Skin Structure Infections (Adult Patients and Pediatric Patients 3 Months of age and older only)
+## 1.1 Skin and Skin Structure Infections (Adult Patients and Pediatric Patients 3 Months of Age and Older Only)
 
 MERREM I.V. is indicated as a single agent therapy for the treatment of complicated skin and skin structure infections due to Staphylococcus aureus (methicillin-susceptible isolates only), Streptococcus pyogenes, Streptococcus agalactiae, viridans group streptococci, Enterococcus faecalis (vancomycin-susceptible isolates only), Pseudomonas aeruginosa, Escherichia coli, Proteus mirabilis, Bacteroides fragilis, and Peptostreptococcus species.
 
@@ -16,7 +16,7 @@ MERREM I.V. is indicated as a single agent therapy for the treatment of complica
 
 MERREM I.V. is indicated as a single agent therapy for the treatment of complicated appendicitis and peritonitis caused by viridans group streptococci, Escherichia coli, Klebsiella pneumoniae, Pseudomonas aeruginosa, Bacteroides fragilis, B. thetaiotaomicron, and Peptostreptococcus species.
 
-## 1.3 Bacterial Meningitis (Pediatric Patients 3 Months of age and older only)
+## 1.3 Bacterial Meningitis (Pediatric Patients 3 Months of Age and Older Only)
 
 MERREM I.V. is indicated as a single agent therapy for the treatment of bacterial meningitis caused by Streptococcus pneumoniae‡, Haemophilus influenzae, and Neisseria meningitidis.
 

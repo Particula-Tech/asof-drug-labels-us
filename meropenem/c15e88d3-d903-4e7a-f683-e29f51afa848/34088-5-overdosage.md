@@ -6,7 +6,7 @@ Intentional overdosing of MERREM I.V. is unlikely, although accidental overdosin
 The largest dose of meropenem administered in clinical trials has been 2 grams given intravenously every 8 hours.
 At this dosage, no adverse pharmacological effects or increased safety risks have been observed.
 
-Limited post-marketing experience indicates that if adverse events occur following overdosage, they are consistent with the adverse event profile described in the Adverse Reactions section and are generally mild in severity and resolve on withdrawal or dose reduction.
+Limited postmarketing experience indicates that if adverse events occur following overdosage, they are consistent with the adverse event profile described in the Adverse Reactions section and are generally mild in severity and resolve on withdrawal or dose reduction.
 Consider symptomatic treatments.
 In individuals with normal renal function, rapid renal elimination takes place.
 Meropenem and its metabolite are readily dialyzable and effectively removed by hemodialysis; however, no information is available on the use of hemodialysis to treat overdosage.

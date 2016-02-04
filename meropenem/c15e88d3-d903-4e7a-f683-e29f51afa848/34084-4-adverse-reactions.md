@@ -74,7 +74,7 @@ Hematologic: increased platelets, increased eosinophils, decreased platelets, de
 
 Renal: increased creatinine and increased BUN
 
-NOTE: For patients with varying degrees of renal impairment, the incidence of heart failure, kidney failure, seizure and shock reported irrespective of relationship to MERREM I.V., increased in patients with moderately severe renal impairment (creatinine clearance greater than 10 to 26 mL/min) [see Dosage and Administration (2.2),Warnings and Precautions (5.8), Use in Specific Populations (8.5) and (8.6) and Clinical Pharmacology (12.3)].
+NOTE: For patients with varying degrees of renal impairment, the incidence of heart failure, kidney failure, seizure and shock reported irrespective of relationship to MERREM I.V., increased in patients with moderately severe renal impairment (creatinine clearance greater than 10 to 26 mL/min) [see Dosage and Administration (2.2), Warnings and Precautions (5.8), Use in Specific Populations (8.5) and (8.6) and Clinical Pharmacology (12.3)].
 
 Urinalysis: presence of red blood cells
 
@@ -113,19 +113,19 @@ The study was open-label, uncontrolled, 98% of the infants received concomitant 
 
 The clinical adverse reactions seen in these patients that were reported (regardless of investigator assessment of causality) and their rates of occurrence are as follows:
 
-- Convulsion 5.0%
-- Hyperbilirubinemia (conjugated) 4.5%
-- Vomiting 2.5%
+1. Convulsion 5.0%
+2. Hyperbilirubinemia (conjugated) 4.5%
+3. Vomiting 2.5%
 
 Adverse Laboratory Changes
 
 Laboratory changes seen in the pediatric studies, including the meningitis studies, were similar to those reported in the adult studies.
 
-## 6.2 Post-Marketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of MERREM I.V.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Worldwide post-marketing adverse reactions not otherwise listed in the Adverse Reactions section of this product label and reported as possibly, probably, or definitely drug related are listed within each body system in order of decreasing severity.
+Worldwide postmarketing adverse reactions not otherwise listed in the Adverse Reactions section of this product label and reported as possibly, probably, or definitely drug related are listed within each body system in order of decreasing severity.
 Hematologic-agranulocytosis, neutropenia, and leukopenia; a positive direct or indirect Coombs test, and hemolytic anemia.
-Skin-toxic epidermal necrolysis, Stevens-Johnson Syndrome, angioedema, and erythema multiforme.
+Skin-toxic epidermal necrolysis, Stevens-Johnson Syndrome, angioedema, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS syndrome) and erythema multiforme.

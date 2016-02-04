@@ -15,7 +15,7 @@ The following table provides the results for the overall as well as subgroup com
 
 | Success RatePercent of satisfactory clinical response at follow-up evaluation. |  |  |
 | --- | --- | --- |
-| Population | MERREM I.V. nn=number of patients with satisfactory response./NN=number of patients in the clinically evaluable population or respective subgroup within treatment groups. (%) | Imipenem-cilastatin n/N (%) |
+| Population | MERREM I.V. nn=number of patients with satisfactory response.N=number of patients in the clinically evaluable population or respective subgroup within treatment groups. (%) | Imipenem-cilastatin n (%) |
 | Total | 225/261 (86) | 238/287 (83) |
 | Diabetes mellitus | 83/97 (86) | 76/105 (72) |
 | No diabetes mellitus | 142/164 (87) | 162/182 (89) |
@@ -27,7 +27,7 @@ The following table provides the results for the overall as well as subgroup com
 The following clinical efficacy rates were obtained, per organism.
 The values represent the number of patients clinically cured/number of clinically evaluable patients at the post-treatment follow-up visit, with the percent cure in parentheses (Fully Evaluable analysis set).
 
-| MICROORGANISMSPatients may have more than one pretreatment pathogen. | MERREM I.V. nn=number of patients with satisfactory response./NN=number of patients in the clinically evaluable population or subgroup within treatment groups.(%)%= Percent of satisfactory clinical response at follow-up evaluation. | Imipenem-cilastatin n/N (%) |
+| MICROORGANISMSPatients may have more than one pretreatment pathogen. | MERREM I.V. nn=number of patients with satisfactory response./NN=number of patients in the clinically evaluable population or subgroup within treatment groups.(%)%= Percent of satisfactory clinical response at follow-up evaluation. | Imipenem-cilastatin n/N(%) |
 | --- | --- | --- |
 | Gram-positive aerobes |  |  |
 | Staphylococcus aureus,methicillin susceptible | 82/88 (93) | 84/100 (84) |
@@ -69,9 +69,9 @@ A comparable number of patients were found to be clinically evaluable (ranging f
 
 Patients were defined as clinically not cured if any one of the following three criteria were met:
 
-- 1.At the 5-7 week post-completion of therapy visit, the patient had any one of the following: moderate to severe motor, behavior or development deficits, hearing loss of greater than 60 decibels in one or both ears, or blindness.
-- 2.During therapy the patient’s clinical status necessitated the addition of other antibacterial drugs.
-- 3.Either during or post-therapy, the patient developed a large subdural effusion needing surgical drainage, or a cerebral abscess, or a bacteriologic relapse.
+1. 1.At the 5-7 week post-completion of therapy visit, the patient had any one of the following: moderate to severe motor, behavior or development deficits, hearing loss of greater than 60 decibels in one or both ears, or blindness.
+2. 2.During therapy the patient’s clinical status necessitated the addition of other antibacterial drugs.
+3. 3.Either during or post-therapy, the patient developed a large subdural effusion needing surgical drainage, or a cerebral abscess, or a bacteriologic relapse.
 
 Using the definition, the following efficacy rates were obtained, per organism.
 The values represent the number of patients clinically cured/number of clinically evaluable patients, with the percent cure in parentheses.

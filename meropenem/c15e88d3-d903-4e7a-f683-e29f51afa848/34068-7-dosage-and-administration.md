@@ -6,7 +6,7 @@ The recommended dose of MERREM I.V. is 500 mg given every 8 hours for skin and s
 When treating complicated skin and skin structure infections caused by P.aeruginosa, a dose of 1 gram every 8 hours is recommended.
 
 MERREM I.V. should be administered by intravenous infusion over approximately 15 minutes to 30 minutes.
-Doses of 1 gram may also be administered as an intravenous bolus injection (5 mL to 20 mL) over approximately 3 minutes -5 minutes.
+Doses of 1 gram may also be administered as an intravenous bolus injection (5 mL to 20 mL) over approximately 3 minutes to 5 minutes.
 
 ## 2.2 Use in Adult Patients with Renal Impairment
 
@@ -37,7 +37,7 @@ There is inadequate information regarding the use of MERREM I.V. in patients on 
 
 Pediatric Patients 3 Months of Age and Older
 
-For pediatric patients 3 months of age and older, the MERREM I.V. dose is 10 mg/kg, 20 mg/kg, or 40 mg/kg every 8 hours (maximum dose is 2 grams every 8 hours), depending on the type of infection (complicated skin and skin structure, intra-abdominal or meningitis).
+For pediatric patients 3 months of age and older, the MERREM I.V. dose is 10 mg/kg, 20 mg/kg or 40 mg/kg every 8 hours (maximum dose is 2 grams every 8 hours), depending on the type of infection (complicated skin and skin structure, intra-abdominal or meningitis).
 See dosing table below.
 Pediatric patients weighing over 50 kg should be administered MERREM I.V. at a dose of 500 mg every 8 hours for complicated skin and skin structure infections, 1 gram every 8 hours for intra-abdominal infections and 2 grams every 8 hours for meningitis.
 MERREM I.V. should be given as intravenous infusion over approximately 15 minutes to 30 minutes or as an intravenous bolus injection (5 mL to 20 mL) over approximately 3 minutes to 5 minutes.
