@@ -65,9 +65,9 @@ Advise patients to inform their health care professional if they are pregnant or
 
 Rx Only
 
-Date of Issue: 09/2015
+Date of Issue: 12/2015
 
-Version: 1
+Version: 2
 
 Novo Nordisk®, TRESIBA®, FlexTouch®, LEVEMIR®, NOVOLOG®, NovoFine® and NovoTwist® are registered trademarks of Novo Nordisk A/S.
 

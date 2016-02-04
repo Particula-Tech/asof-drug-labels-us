@@ -134,22 +134,22 @@ At week 52, the difference in HbA1c reduction from baseline between TRESIBA and 
 
 Table 8: Results at Week 52 in a Trial Comparing TRESIBA to Insulin glargine U-100 in Patients with Type 2 Diabetes Mellitus on OAD(s)*
 
-|  | TRESIBA + OAD(s)* |  | Insulin glargine U-100 + OAD(s)* |
-| --- | --- | --- | --- |
-| N | 773 |  | 257 |
-| HbA1c (%) |  |  |  |
-| Baseline | 8.2 |  | 8.2 |
-| End of trial | 7.1 |  | 7.0 |
-| Adjusted mean change from baseline** | -1.06 |  | -1.15 |
-| Estimated treatment difference [95%CI]TRESIBA - Insulin glargine U-100 | 0.09 [-0.04;0.22] |  |  |
-| Proportion Achieving HbA1c < 7% at Trial End | 51.7% | 54.1% |  |
-| FPG (mg/dL) |  |  |  |
-| Baseline | 174 |  | 174 |
-| End of trial | 106 |  | 115 |
-| Adjusted mean change from baseline | -68.0 |  | -60.2 |
-| Daily insulin dose |  |  |  |
-| Baseline mean (starting dose) | 10 U |  | 10 U |
-| Mean dose after 52 weeks | 56 U |  | 58 U |
+|  | TRESIBA + OAD(s)* | Insulin glargine U-100 + OAD(s)* |
+| --- | --- | --- |
+| N | 773 | 257 |
+| HbA1c (%) |  |  |
+| Baseline | 8.2 | 8.2 |
+| End of trial | 7.1 | 7.0 |
+| Adjusted mean change from baseline** | -1.06 | -1.15 |
+| Estimated treatment difference [95%CI]TRESIBA - Insulin glargine U-100 | 0.09 [-0.04;0.22] |  |
+| Proportion Achieving HbA1c < 7% at Trial End | 51.7% | 54.1% |
+| FPG (mg/dL) |  |  |
+| Baseline | 174 | 174 |
+| End of trial | 106 | 115 |
+| Adjusted mean change from baseline | -68.0 | -60.2 |
+| Daily insulin dose |  |  |
+| Baseline mean (starting dose) | 10 U | 10 U |
+| Mean dose after 52 weeks | 56 U | 58 U |
 
 *OAD: oral antidiabetic agent
 
@@ -175,22 +175,22 @@ See Table 9.
 
 Table 9: Results at Week 26 in a Trial Comparing TRESIBA U-200 to Insulin glargine U-100 in Patients with Type 2 Diabetes Mellitus on OAD(s)*
 
-|  | TRESIBA U-200 + Met ± DPP-4 |  | Insulin glargine U-100 + Met ± DPP-4 |
-| --- | --- | --- | --- |
-| N | 228 |  | 229 |
-| HbA1c (%) |  |  |  |
-| Baseline | 8.3 |  | 8.2 |
-| End of trial | 7.0 |  | 6.9 |
-| Adjusted mean change from baseline** | -1.18 |  | -1.22 |
-| Estimated treatment difference [95%CI]TRESIBA - Insulin glargine U-100 | 0.04 [-0.11;0.19] |  |  |
-| Proportion Achieving HbA1c < 7% at Trial End | 52.2% | 55.9% |  |
-| FPG (mg/dL) |  |  |  |
-| Baseline | 172 |  | 174 |
-| End of trial | 106 |  | 113 |
-| Adjusted mean change from baseline | -71.1 |  | -63.5 |
-| Daily insulin dose |  |  |  |
-| Baseline mean | 10 U |  | 10 U |
-| Mean dose after 26 weeks | 59 U |  | 62 U |
+|  | TRESIBA U-200 + Met ± DPP-4 | Insulin glargine U-100 + Met ± DPP-4 |
+| --- | --- | --- |
+| N | 228 | 229 |
+| HbA1c (%) |  |  |
+| Baseline | 8.3 | 8.2 |
+| End of trial | 7.0 | 6.9 |
+| Adjusted mean change from baseline** | -1.18 | -1.22 |
+| Estimated treatment difference [95%CI]TRESIBA - Insulin glargine U-100 | 0.04 [-0.11;0.19] |  |
+| Proportion Achieving HbA1c < 7% at Trial End | 52.2% | 55.9% |
+| FPG (mg/dL) |  |  |
+| Baseline | 172 | 174 |
+| End of trial | 106 | 113 |
+| Adjusted mean change from baseline | -71.1 | -63.5 |
+| Daily insulin dose |  |  |
+| Baseline mean | 10 U | 10 U |
+| Mean dose after 26 weeks | 59 U | 62 U |
 
 *OAD: oral antidiabetic agent
 

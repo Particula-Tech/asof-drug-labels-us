@@ -65,13 +65,13 @@ A Novo Nordisk hypoglycemia episode was defined as a severe hypoglycemia episode
 
 Table 3: Percent (%) of Type 1 Diabetes Patients Experiencing at Least One Episode of Severe Hypoglycemia or Novo Nordisk Hypoglycemia§ on TRESIBA in Adult Clinical Trials
 
-|  | TRESIBA (N=472) | TRESIBA (N=301) |  | TRESIBA at the same time each day (N=165) | TRESIBA at alternating times (N=164) |
-| --- | --- | --- | --- | --- | --- |
-|  | Study A + insulin aspart 52 weeks | Study B + insulin aspart 26 weeks |  | Study C + insulin aspart 26 weeks |  |
-| Severe hypoglycemia |  |  |  |  |  |
-| Percent of patients | 12.3% | 10.6% |  | 12.7% | 10.4% |
-| Novo Nordisk hypoglycemia§ |  |  |  |  |  |
-| Percent of patients | 95.6% | 93.0% | 99.4% |  | 93.9% |
+|  | TRESIBA (N=472) | TRESIBA (N=301) | TRESIBA at the same time each day (N=165) | TRESIBA at alternating times (N=164) |
+| --- | --- | --- | --- | --- |
+|  | Study A + insulin aspart 52 weeks | Study B + insulin aspart 26 weeks | Study C + insulin aspart 26 weeks |  |
+| Severe hypoglycemia |  |  |  |  |
+| Percent of patients | 12.3% | 10.6% | 12.7% | 10.4% |
+| Novo Nordisk hypoglycemia§ |  |  |  |  |
+| Percent of patients | 95.6% | 93.0% | 99.4% | 93.9% |
 
 §Novo Nordisk hypoglycemia: a severe hypoglycemia episode or an episode where a laboratory or a self-measured glucose calibrated to plasma was less than 56 mg/dL or where a whole blood glucose was less than 50 mg/dL (i.e., with or without the presence of hypoglycemic symptoms).
 
