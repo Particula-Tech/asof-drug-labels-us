@@ -4,13 +4,15 @@ NDC 0187-5160-20
 
 Retin-A® Cream (tretinoin) 0.025%
 
-Contains: Tretinoin 0.025%, stearic acid, isopropyl myristate, polyoxyl 40 stearate, stearyl alcohol, xanthan gum, sorbic acid, butylated hydroxytoluene, and purified water
+Contains: Tretinoin 0.025%, stearic acid, isopropyl myristate, polyoxyl 40 stearate, stearyl alcohol, xanthan gum, sorbic acid, butylated hydroxytoluene, and purified water.
 
-For Topical Use only NET WT.
+For Topical Use Only NET WT.
 20 g Rx only Dosage: See package insert.
 Store below 80° F. Warning: Keep out of reach of children.
 
-Distributed by: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807
+Distributed by: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+
+Made in Canada
 
 # PRINCIPAL DISPLAY PANEL - 0.05% 20 g Cream Carton
 
@@ -20,11 +22,13 @@ Retin-A® Cream (tretinoin) 0.05%
 
 Contains: Tretinoin 0.05%, stearic acid, isopropyl myristate, polyoxyl 40 stearate, stearyl alcohol, xan- than gum, sorbic acid, butylated hydroxytoluene, and purified water
 
-For Topical Use only NET WT.
+For Topical Use Only NET WT.
 20 g Rx only Dosage: See package insert.
 Store below 80° F. Warning: Keep out of reach of children.
 
-Distributed by: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807
+Distributed by: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+
+Made in Canada
 
 # PRINCIPAL DISPLAY PANEL - 0.1% 20 g Cream Carton
 
@@ -34,11 +38,13 @@ Retin-A® Cream (tretinoin) 0.1%
 
 Contains: Tretinoin 0.1%, stearic acid, isopropyl myristate, polyoxyl 40 stearate, stearyl alcohol, xan- than gum, sorbic acid, butylated hydroxytoluene, and purified water
 
-For Topical Use only NET WT.
+For Topical Use Only NET WT.
 20 g Rx only Dosage: See package insert.
 Store below 80° F. Warning: Keep out of reach of children.
 
-Distributed by: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807
+Distributed by: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+
+Made in Canada
 
 # PRINCIPAL DISPLAY PANEL - 0.01%15 g Gel Carton
 
@@ -52,7 +58,17 @@ For Topical Use Only NET WT.
 15 g Rx only Dosage: See package insert.
 Store below 86° F. Warning: Keep out of reach of children.
 
-Distributed by: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807
+Manufactured for:
+
+Valeant Pharmaceuticals North America LLC
+
+Bridgewater, NJ 08807 USA
+
+By: Valeant Pharmaceuticals International Inc.
+
+Laval, Quebec H7L 4A8, Canada
+
+Made in Canada
 
 # PRINCIPAL DISPLAY PANEL - 0.025% 15 g Gel Carton
 
@@ -66,4 +82,14 @@ For Topical Use Only NET WT.
 15 g Rx only Dosage: See package insert.
 Store below 86° F. Warning: Keep out of reach of children.
 
-Distributed by: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807
+Manufactured for:
+
+Valeant Pharmaceuticals North America LLC
+
+Bridgewater, NJ 08807 USA
+
+By: Valeant Pharmaceuticals International Inc.
+
+Laval, Quebec H7L 4A8, Canada
+
+Made in Canada

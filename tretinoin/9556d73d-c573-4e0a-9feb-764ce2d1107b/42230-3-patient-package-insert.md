@@ -152,5 +152,5 @@ Laval, Quebec H7L 4A8, Canada
 
 Made in Canada
 
-9440900 Rev.
+9400102 Rev.
 01/15
