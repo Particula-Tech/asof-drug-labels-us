@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA203704"
+  ],
+  "inn": "cefepime",
+  "labeler": "Qilu Pharmaceutical Co., Ltd.",
+  "package_ndcs": [
+    "67184-1002-1",
+    "67184-1003-1",
+    "67184-1004-1"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "cefepime hydrochloride",
+      "name": "CEFEPIME"
+    }
+  ],
+  "setid": "80b4c811-4a71-47fb-8565-85ce9d0f782c",
+  "source": "dailymed"
+}
