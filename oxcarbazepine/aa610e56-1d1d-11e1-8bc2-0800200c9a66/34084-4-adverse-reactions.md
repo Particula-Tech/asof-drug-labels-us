@@ -28,7 +28,7 @@ Table 3 lists adverse reactions that occurred in at least 2% of adult patients w
 The overall incidence of adverse reactions appeared to be dose related, particularly during the titration period.
 The most commonly observed (≥ 5%) adverse reactions seen in association with Oxtellar XR® and more frequent than in placebo-treated patients were: dizziness, somnolence, headache, balance disorder, tremor, vomiting, diplopia, and asthenia.
 
-Table 3: Adverse Reaction Incidence in a Controlled Clinical Study of Oxtellar XR® with Concomitant AEDs in Adults*
+Table 3: Adverse Reaction Incidence in a Controlled Clinical Study of Oxtellar XR® with Concomitant AEDs in AdultsReported by ≥ 2% of Patients Treated with Oxtellar XR® and Numerically More Frequent than in the Placebo Group
 
 |  | Oxtellar XR® 2400 mg/day N=123 % | Oxtellar XR® 1200 mg/day N=122 % | Placebo N=121 % |
 | --- | --- | --- | --- |
@@ -58,9 +58,10 @@ Table 3: Adverse Reaction Incidence in a Controlled Clinical Study of Oxtellar X
 | Infections And Infestations |  |  |  |
 | Nasopharyngitis | 0 | 3 | 0 |
 | Sinusitis | 0 | 3 | 2 |
-| * Reported by ≥ 2% of Patients Treated with Oxtellar XR® and Numerically More Frequent than in the Placebo Group |  |  |  |
 
-Adverse Reactions Associated with Discontinuation of Oxtellar XR® Treatment: Approximately 23.3% of the 366 adult patients receiving Oxtellar XR® in clinical studies discontinued treatment because of an adverse reaction.
+Adverse Reactions Associated with Discontinuation of Oxtellar XR® Treatment:
+
+Approximately 23.3% of the 366 adult patients receiving Oxtellar XR® in clinical studies discontinued treatment because of an adverse reaction.
 The adverse reactions most commonly associated with discontinuation of Oxtellar XR® (reported by ≥2%) were: dizziness (9.8%), vomiting (5.3%), nausea (3.7%), diplopia (3.2%), and somnolence (2.4%).
 
 Adjunctive Therapy with Oxtellar XR® in Pediatric Patients 4 to 16 Years Old Previously Treated with other AEDs
@@ -72,11 +73,11 @@ Most Common Adverse Reactions in Immediate-Release Oxcarbazepine Controlled Clin
 Controlled Clinical Studies of Adjunctive Therapy with Immediate-Release Oxcarbazepine in Adults Previously Treated with other AEDs: Table 4 lists adverse reactions that occurred in at least 2% of adult patients with epilepsy treated with immediate-release oxcarbazepine or placebo with concomitant AEDs and that were numerically more common in the patients treated with any dose of immediate-release oxcarbazepine than in placebo.
 As immediate-release oxcarbazepine and Oxtellar XR® were not examined in the same trial, adverse event frequencies cannot be directly compared between the two formulations.
 
-Table 4: Adverse Reaction Incidence in a Controlled Clinical Study of Immediate Release Oxcarbazepine with Concomitant AEDs in Adults*
+Table 4: Adverse Reaction Incidence in a Controlled Clinical Study of Immediate Release Oxcarbazepine with Concomitant AEDs in AdultsEvents in at Least 2% of Patients Treated with 2400mg/day of Immediate-Release Oxcarbazepine and Numerically More Frequent than in the Placebo Group
 
-| Immediate-Release Oxcarbazepine Dosage (mg/day) |  |  | Placebo N = 166 % |  |
-| --- | --- | --- | --- | --- |
 | OXC 600 N = 163 % | OXC 1200 N = 171 % | OXC 2400 N = 126 % |  |  |
+| --- | --- | --- | --- | --- |
+|  | Immediate-Release Oxcarbazepine Dosage (mg/day) |  |  | Placebo N = 166 % |
 | Body as a Whole |  |  |  |  |
 | Fatigue | 15 | 12 | 15 | 7 |
 | Asthenia | 6 | 3 | 6 | 5 |
@@ -125,7 +126,6 @@ Table 4: Adverse Reaction Incidence in a Controlled Clinical Study of Immediate 
 | Vertigo | 6 | 12 | 15 | 2 |
 | Vision Abnormal | 6 | 14 | 13 | 4 |
 | Accommodation Abnormal | 0 | 0 | 2 | 0 |
-| * Events in at Least 2% of Patients Treated with 2400mg/day of Immediate-Release Oxcarbazepine and Numerically More Frequent than in the Placebo Group |  |  |  |  |
 
 Other Reactions Observed in Association with the Administration of Immediate-Release Oxcarbazepine
 

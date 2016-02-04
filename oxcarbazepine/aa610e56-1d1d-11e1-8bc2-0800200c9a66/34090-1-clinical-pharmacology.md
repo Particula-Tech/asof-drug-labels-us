@@ -28,9 +28,9 @@ Oxtellar XR® administered as a once daily dose is not bioequivalent to the same
 Steady state plasma concentrations of MHD are reached within 5 days when Oxtellar XR® is given once daily.
 At steady state, when 1200 mg Oxtellar XR® was given once daily, MHD Cmax occurred 7 hours post-dose.
 At steady state, Oxtellar XR® given once daily produced MHD exposures (AUC and Cmax) about 19% lower and MHD minimum concentrations (Cmin) about 16% lower than the immediate-release oxcarbazepine given twice daily when administered at the same 1200 mg total daily dose.
-When Oxtellar XR® was administered at an equivalent 600 mg single dose (4 x 150 mg tablets, 2 x 300 mg tablets, or 1 x 600 mg tablet), equivalent MHD exposures (AUC) were observed.
+When Oxtellar XR® was administered at an equivalent 600 mg single dose (4 × 150 mg tablets, 2 × 300 mg tablets, or 1 × 600 mg tablet), equivalent MHD exposures (AUC) were observed.
 
-Following a single dose of Oxtellar XR® (1 x 150 mg tablets, 1 x 300 mg tablets, or 1 x 600 mg tablet), the pharmacokinetics of MHD are not linear and show greater than dose proportional increase in AUC and less than proportional increase in Cmax: AUC increases 2.4-fold and Cmax increases 1.9-fold with a 2-fold increase in dose.
+Following a single dose of Oxtellar XR® (1 × 150 mg tablets, 1 × 300 mg tablets, or 1 × 600 mg tablet), the pharmacokinetics of MHD are not linear and show greater than dose proportional increase in AUC and less than proportional increase in Cmax: AUC increases 2.4-fold and Cmax increases 1.9-fold with a 2-fold increase in dose.
 
 Effect of Food: Single dose administration of 600 mg Oxtellar XR® following a high fat meal (800 – 1000 calories) produced MHD exposure (AUC) equivalent to that produced under fasting conditions.
 Peak MHD concentration (Cmax) was about 60% higher and occurred 2 hours earlier under fed conditions than under fasting conditions.

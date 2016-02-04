@@ -13,15 +13,12 @@ Oxtellar XR®would be expected to have the same effects on coadministered AEDs a
 
 Table 5: AED Drug Interactions with Oxcarbazepine
 
-| AED Coadministered (daily dose) | IR- Oxcarbazepine (daily dose) | Influence of IR- Oxcarbazepine on AED Concentration Mean Change [90% Confidence Interval] | Influence of AED on MHD Concentration (Mean Change, 90% Confidence Interval) | Recommendation |
+| AED Coadministered (daily dose) | IR-Oxcarbazepine (daily dose) | Influence of IR-Oxcarbazepine on AED Concentration Mean Change [90% Confidence Interval] | Influence of AED on MHD Concentration (Mean Change, 90% Confidence Interval) | Recommendation |
 | --- | --- | --- | --- | --- |
-| Carbamazepine (400 – 2000 mg) | 900 mg | nc1 | 40% decrease [CI: 17% decrease, 57% decrease] | Consider initiating Oxtellar XR® at a higher dose. Monitor and titrate dose to desired clinical effect (see 2.6) |
+| Carbamazepine (400 – 2000 mg) | 900 mg | ncnc denotes a mean change of less than 10% | 40% decrease [CI: 17% decrease, 57% decrease] | Consider initiating Oxtellar XR® at a higher dose. Monitor and titrate dose to desired clinical effect (see 2.6) |
 | Phenobarbital (100 – 150 mg) | 600 – 1800 mg | 14% increase [CI: 2% increase, 24% increase] | 25% decrease [CI: 12% decrease, 51% decrease] |  |
-| Phenytoin (250 – 500 mg) | 600 – 1800 >1200-2400 | nc1,2 up to 40% increase3 [CI: 12% increase, 60% increase] | 30% decrease [CI: 3% decrease, 48% decrease] |  |
-| Valproic Acid (400 – 2800 mg) | 600-1800 | nc1 | 18% decrease [CI: 13% decrease, 40% decrease] | Monitor. Dose adjustment of Oxtellar XR® may not be needed. |
-| 1nc denotes a mean change of less than 10% |  |  |  |  |
-| 2Pediatrics |  |  |  |  |
-| 3Mean increase in adults at high doses of immediate-release oxcarbazepine |  |  |  |  |
+| Phenytoin (250 – 500 mg) | 600 – 1800 >1200-2400 | nc,Pediatrics up to 40% increaseMean increase in adults at high doses of immediate-release oxcarbazepine [CI: 12% increase, 60% increase] | 30% decrease [CI: 3% decrease, 48% decrease] |  |
+| Valproic Acid (400 – 2800 mg) | 600-1800 | nc | 18% decrease [CI: 13% decrease, 40% decrease] | Monitor. Dose adjustment of Oxtellar XR® may not be needed. |
 
 ## 7.2 Hormonal Contraceptives
 

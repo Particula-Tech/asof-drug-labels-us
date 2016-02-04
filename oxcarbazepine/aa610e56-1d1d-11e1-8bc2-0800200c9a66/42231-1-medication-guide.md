@@ -1,4 +1,4 @@
-MEDICATION GUIDE Oxtellar XR®((ahks-TEH-lahr eks ahr)) (oxcarbazepine) Extended-Release Tablets
+# MEDICATION GUIDE Oxtellar XR®((ahks-TEH-lahr eks ahr)) (oxcarbazepine) Extended-Release Tablets
 
 Read this Medication Guide before you start taking Oxtellar XR® and each time you get a refill.
 There may be new information.
@@ -159,7 +159,9 @@ What should I avoid while taking Oxtellar XR®?
   Oxtellar XR® taken with alcohol or drugs that cause sleepiness or dizziness may make your sleepiness or dizziness worse.
 
 What are the possible side effects of Oxtellar XR®?
+
 See "What is the most important information I should know about Oxtellar XR®?"
+
 Oxtellar XR® may cause other serious side effects including:
 
 - your seizures can happen more often or become worse
@@ -170,6 +172,7 @@ Oxtellar XR® may cause other serious side effects including:
 - trouble walking and with coordination
 
 Get medical help right away if you have any of the symptoms listed above or listed in "What is the most important information I should know about Oxtellar XR®?"
+
 The most common side effects of Oxtellar XR® include:
 
 - dizziness

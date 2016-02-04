@@ -21,12 +21,11 @@ Table 6 presents the primary efficacy results by treatment group.
 
 Table 6: Primary Efficacy Results in Study 1: Percent Change from Baseline in Partial Seizure Frequency in the 16-week Treatment Period
 
-|  | Median seizure frequency during 8- week baseline period (per 28 days) | Median seizure frequency during 16-week treatment period (per 28 days) | Median percent change in seizure frequency | Seizure frequency percent change effect size | P value vs placebo* |
+|  | Median seizure frequency during 8-week baseline period (per 28 days) | Median seizure frequency during 16-week treatment period (per 28 days) | Median percent change in seizure frequency | Seizure frequency percent change effect size | P value vs placeboWilcoxon rank-sum test of the median percentage change in partial seizure frequency per 28 days during the 16-week Treatment Phase (Titration + Maintenance Periods) relative to the 8-week Baseline Phase. |
 | --- | --- | --- | --- | --- | --- |
 | Placebo (N=121) | 7.0 | 5.0 | -28.7 % |  |  |
 | Oxtellar XR® 1200mg/day (N=122) | 6.0 | 4.3 | -38.2 % | 9.5% | 0.078 |
 | Oxtellar XR® 2400mg/day (N=123) | 6.0 | 3.7 | -42.9 % | 14.2% | 0.003 |
-| *Wilcoxon rank-sum test of the median percentage change in partial seizure frequency per 28 days during the 16-week Treatment Phase (Titration + Maintenance Periods) relative to the 8-week Baseline Phase. |  |  |  |  |  |
 
 Although the 1200 mg/day-placebo contrast did not reach statistical significance, concentration-response analyses reveal that the 1200 mg/day dose is an effective dose.
 
