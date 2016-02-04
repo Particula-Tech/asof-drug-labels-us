@@ -28,20 +28,30 @@ Antagonism exists in vitro between erythromycin and clindamycin, lincomycin, and
 
 Erythromycin has been shown to be active against most isolates of the following bacteria both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section.
 
-Gram-positive Bacteria: Corynebacterium diphtheriae Corynebacterium minutissimum Listeria monocytogenes Staphylococcus aureus (resistant organisms may emerge during treatment) Streptococcus pneumoniae Streptococcus pyogenes
+Gram-positive Bacteria:
 
-Gram-negative Bacteria: Bordetella pertussis Haemophilus influenzae Legionella pneumophila Neisseria gonorrhoeae
+Corynebacterium diphtheriae Corynebacterium minutissimum Listeria monocytogenes Staphylococcus aureus (resistant organisms may emerge during treatment) Streptococcus pneumoniae Streptococcus pyogenes
 
-Other Microorganisms: Chlamydia trachomatis Entamoeba histolytica Mycoplasma pneumoniae Treponema pallidum Ureaplasma urealyticum
+Gram-negative Bacteria:
+
+Bordetella pertussis Haemophilus influenzae Legionella pneumophila Neisseria gonorrhoeae
+
+Other Microorganisms:
+
+Chlamydia trachomatis Entamoeba histolytica Mycoplasma pneumoniae Treponema pallidum Ureaplasma urealyticum
 
 The following in vitro data are available, but their clinical significance is unknown.
 
 At least 90% of the following bacteria exhibit in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for erythromycin.
 However, the efficacy of erythromycin in treating clinical infections due to these bacteria has not been established in adequate and well controlled clinical trials.
 
-Gram-positive Bacteria: Viridans group streptococci
+Gram-positive Bacteria:
 
-Gram-negative Bacteria: Moraxella catarrhalis
+Viridans group streptococci
+
+Gram-negative Bacteria:
+
+Moraxella catarrhalis
 
 #### Susceptibility Test Methods
 
@@ -52,7 +62,7 @@ These reports should aid the physician in selecting an antibacterial drug produc
 
 Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MIC's).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized test method1, 2 (broth and/or agar).
+The MICs should be determined using a standardized test method1,2 (broth and/or agar).
 The MIC values should be interpreted according to criteria provided in Table 1.
 
 ##### Diffusion techniques

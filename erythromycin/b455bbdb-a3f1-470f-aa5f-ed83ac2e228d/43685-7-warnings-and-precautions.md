@@ -33,10 +33,10 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 ## Drug Interactions
 
 Serious adverse reactions have been reported in patients taking erythromycin concomitantly with CYP3A4 substrates.
-These include colchicine toxicity with colchicine; rhabdomyolysis with simvastatin, lovastatin, and atorvastatin; and hypotension with calcium channel blockers metabolized by CYP3A4 (e.g., verapamil, amlodipine, diltiazem) (see PRECAUTIONS - Drug Interactions).
+These include colchicine toxicity with colchicine; rhabdomyolysis with simvastatin, lovastatin, and atorvastatin; and hypotension with calcium channel blockers metabolized by CYP3A4 (e.g., verapamil, amlodipine, diltiazem) (see PRECAUTIONS – Drug Interactions).
 
 There have been post-marketing reports of colchicine toxicity with concomitant use of erythromycin and colchicine.
-This interaction is potentially life-threatening, and may occur while using both drugs at their recommended doses (see PRECAUTIONS - Drug Interactions).
+This interaction is potentially life-threatening, and may occur while using both drugs at their recommended doses (see PRECAUTIONS – Drug Interactions).
 
 Rhabdomyolysis with or without renal impairment has been reported in seriously ill patients receiving erythromycin concomitantly with lovastatin.
 Therefore, patients receiving concomitant lovastatin and erythromycin should be carefully monitored for creatine kinase (CK) and serum transaminase levels.
@@ -106,17 +106,30 @@ The following are examples of some clinically significant CYP3A based drug inter
 Interactions with other drugs metabolized by the CYP3A isoform are also possible.
 The following CYP3A based drug interactions have been observed with erythromycin products in post-marketing experience:
 
-- Ergotamine/dihydroergotamine Post-marketing reports indicate that co-administration of erythromycin with ergotamine or dihydroergotamine has been associated with acute ergot toxicity characterized by vasospasm and ischemia of the extremities and other tissues including the central nervous system.
-  Concomitant administration of erythromycin with ergotamine or dihydroergotamine is contraindicated (see CONTRAINDICATIONS).
-- Triazolobenzodiazepines (such as triazolam and alprazolam) and related benzodiazepines Erythromycin has been reported to decrease the clearance of triazolam and midazolam, and thus, may increase the pharmacologic effect of these benzodiazepines.
-- HMG-CoA Reductase Inhibitors Erythromycin has been reported to increase concentrations of HMG-CoA reductase inhibitors (e.g., lovastatin and simvastatin).
-  Rare reports of rhabdomyolysis have been reported in patients taking these drugs concomitantly.
-- Sildenafil (Viagra) Erythromycin has been reported to increase the systemic exposure (AUC) of sildenafil.
-  Reduction of sildenafil dosage should be considered.
-  (See Viagra package insert.)
-- There have been spontaneous or published reports of CYP3A based interactions of erythromycin with cyclosporine, carbamazepine, tacrolimus, alfentanil, disopyramide, rifabutin, quinidine, methylprednisolone, cilostazol, vinblastine, and bromocriptine.
-- Concomitant administration of erythromycin with cisapride, pimozide, astemizole, or terfenadine is contraindicated.
-  (See CONTRAINDICATIONS.)
+### Ergotamine/dihydroergotamine
+
+Post-marketing reports indicate that co-administration of erythromycin with ergotamine or dihydroergotamine has been associated with acute ergot toxicity characterized by vasospasm and ischemia of the extremities and other tissues including the central nervous system.
+Concomitant administration of erythromycin with ergotamine or dihydroergotamine is contraindicated (see CONTRAINDICATIONS).
+
+### Triazolobenzodiazepines (such as triazolam and alprazolam) and related benzodiazepines
+
+Erythromycin has been reported to decrease the clearance of triazolam and midazolam, and thus, may increase the pharmacologic effect of these benzodiazepines.
+
+### HMG-CoA Reductase Inhibitors
+
+Erythromycin has been reported to increase concentrations of HMG-CoA reductase inhibitors (e.g., lovastatin and simvastatin).
+Rare reports of rhabdomyolysis have been reported in patients taking these drugs concomitantly.
+
+### Sildenafil (Viagra)
+
+Erythromycin has been reported to increase the systemic exposure (AUC) of sildenafil.
+Reduction of sildenafil dosage should be considered.
+(See Viagra package insert.)
+
+There have been spontaneous or published reports of CYP3A based interactions of erythromycin with cyclosporine, carbamazepine, tacrolimus, alfentanil, disopyramide, rifabutin, quinidine, methylprednisolone, cilostazol, vinblastine, and bromocriptine.
+
+Concomitant administration of erythromycin with cisapride, pimozide, astemizole, or terfenadine is contraindicated.
+(See CONTRAINDICATIONS.)
 
 In addition, there have been reports of interactions of erythromycin with drugs not thought to be metabolized by CYP3A, including hexobarbital, phenytoin, and valproate.
 
@@ -173,13 +186,13 @@ See INDICATIONS AND USAGE and DOSAGE AND ADMINISTRATION sections.
 ## Geriatric Use
 
 Elderly patients, particularly those with reduced renal or hepatic function, may be at increased risk for developing erythromycin-induced hearing loss.
-(See ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION).
+(See ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION.)
 
 Elderly patients may be more susceptible to the development of torsades de pointes arrhythmias than younger patients.
-(See WARNINGS).
+(See WARNINGS.)
 
 Elderly patients may experience increased effects of oral anticoagulant therapy while undergoing treatment with erythromycin.
-(See PRECAUTIONS - Drug Interactions).
+(See PRECAUTIONS – Drug Interactions.)
 
 E.E.S.® Granules contains 25.9 mg (1.1 mEq) of sodium per individual dose.
 
