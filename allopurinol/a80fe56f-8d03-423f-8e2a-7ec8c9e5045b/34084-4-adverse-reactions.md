@@ -73,3 +73,5 @@ Skin and appendages: furunculosis, facial edema, sweating, skin edema
 Special Senses: cataracts, macular retinitis, iritis, conjunctivitis, amblyopia
 
 Urogenital: nephritis, impotence, primary hematuria, albuminuria
+
+To report SUSPECTED ADVERSE EVENTS, contact Actavis at 1-800-272-5525 or FDA at 1-800- FDA-1088 or http://www.fda.gov/ for voluntary reporting of adverse reactions.
