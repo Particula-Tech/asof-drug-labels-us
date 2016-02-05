@@ -2,7 +2,7 @@ Rx only
 
 This vial is intended for use by the hospital pharmacist in the extemporaneous preparation of IV solutions.
 
-| PHARMACY BULK PACKAGE —NOT FOR DIRECT INFUSION |
+| PHARMACY BULK PACKAGE — NOT FOR DIRECT INFUSION |
 | --- |
 
 # PREPARATION AND STORAGE

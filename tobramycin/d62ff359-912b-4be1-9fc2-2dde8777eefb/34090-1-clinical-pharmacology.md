@@ -99,7 +99,7 @@ A report of “Resistant” indicates that achievable concentrations are unlikel
 Standardized procedures require the use of laboratory control organisms.
 The 10 mcg tobramycin disk should give the following zone diameters:
 
-| Organism | ZoneDiameter (mm) |
+| Organism | Zone Diameter (mm) |
 | --- | --- |
 | E. coli ATCC 25922 | 18 to 26 |
 | P. aeruginosa ATCC 27853 | 19 to 25 |
@@ -119,7 +119,7 @@ MIC test results should be interpreted according to the following criteria:
 As with standard diffusion methods, dilution procedures require the use of laboratory control organisms.
 Tobramycin laboratory reagent should give the following MIC values:
 
-| Organism | MIC Range(mcg/mL) |
+| Organism | MIC Range (mcg/mL) |
 | --- | --- |
 | E. faecalis ATCC 29212 | 8 to 32 |
 | E. coli ATCC 25922 | 0.25 to 1 |

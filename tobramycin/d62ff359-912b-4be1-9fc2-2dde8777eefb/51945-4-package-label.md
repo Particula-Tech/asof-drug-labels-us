@@ -16,7 +16,7 @@ Tobramycin
 
 Rx only
 
-PACKAGE LABEL - PRINCIPAL DISPLAY - Tobramycin 1.2 g Tray Label
+PACKAGE LABEL - PRINCIPAL DISPLAY - Tobramycin 1.2 g Vial Tray Label
 
 NDC 63323-303-51
 

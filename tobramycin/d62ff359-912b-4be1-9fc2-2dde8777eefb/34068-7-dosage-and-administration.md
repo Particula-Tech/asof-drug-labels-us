@@ -15,9 +15,9 @@ Up to 5 mg/kg/day may be administered in 3 or 4 equal doses (see Table 1).
 The dosage should be reduced to 3 mg/kg/day as soon as clinically indicated.
 To prevent increased toxicity due to excessive blood levels, dosage should not exceed 5 mg/kg/day unless serum levels are monitored (see WARNINGS box and PRECAUTIONS).
 
-| Table 1 DOSAGE SCHEDULE GUIDE FOR ADULTS WITH NORMAL RENAL FUNCTION(Dosage at 8-Hour Intervals) |  |  |  |
+| Table 1 DOSAGE SCHEDULE GUIDE FOR ADULTS WITH NORMAL RENAL FUNCTION (Dosage at 8-Hour Intervals) |  |  |  |
 | --- | --- | --- | --- |
-| ForPatientWeighing |  | Usual Dose for Serious Infections1 mg/kg q8h(Total, 3 mg/kg/day) |  |
+| For Patient Weighing |  | Usual Dose for Serious Infections 1 mg/kg q8h (Total, 3 mg/kg/day) |  |
 | kg | lb | mg/dose | mL/dose* |
 |  |  | q8h |  |
 | 120 | 264 | 120 mg | 3 mL |
@@ -38,7 +38,7 @@ To prevent increased toxicity due to excessive blood levels, dosage should not e
 | 45 | 99 | 45 mg | 1.1 mL |
 | 40 | 88 | 40 mg | 1 mL |
 
-| ForPatientWeighing |  | Maximum Dose for Life-Threatening Infections(Reduce as soon as possible)1.66 mg/kg q8h(Total, 5 mg/kg/day) |  |
+| For Patient Weighing |  | Maximum Dose for Life- Threatening Infections (Reduce as soon as possible) 1.66 mg/kg q8h (Total, 5 mg/kg/day) |  |
 | --- | --- | --- | --- |
 | kg | lb | mg/dose | mL/dose* |
 |  |  | q8h |  |
