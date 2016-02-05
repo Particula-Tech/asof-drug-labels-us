@@ -97,18 +97,18 @@ Table 2: Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
 
 Table 3: Effect of Metformin on Coadministered Drug Systemic Exposure
 
-| Coadministered Drug | Dose of Co-administered Drug1 | Dose of Metformin1 | Geometric Mean Ratio (ratio with/without coadministered drug) No effect = 1.00 |  |
-| --- | --- | --- | --- | --- |
-| AUC2 | Cmax |  |  |  |
-| No dosing adjustments required for the following: |  |  |  |  |
-| Glyburide | 5 mg | 500 mg4 | 0.783 | 0.633 |
-| Furosemide | 40 mg | 850 mg | 0.873 | 0.693 |
-| Nifedipine | 10 mg | 850 mg | 1.104 | 1.08 |
-| Propranolol | 40 mg | 850 mg | 1.014 | 0.94 |
-| Ibuprofen | 400 mg | 850 mg | 0.975 | 1.015 |
-| Cimetidine | 400 mg | 850 mg | 0.954 | 1.01 |
-| 1. All metformin and coadministered drugs were given as single doses |  |  |  |  |
-| 2. AUC = AUC0–∞ |  |  |  |  |
-| 3. Ratio of arithmetic means, p-value of difference <0.05 |  |  |  |  |
-| 4. AUC0-24 hr reported |  |  |  |  |
-| 5. Ratio of arithmetic means |  |  |  |  |
+| Coadministered Drug | Dose of Co-administered Drug1 | Dose of Metformin1 | Geometric Mean Ratio (ratio with/without coadministered drug) No effect = 1.00 |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| AUC2 | Cmax |  |  |  |  |  |  |  |  |
+| No dosing adjustments required for the following: |  |  |  |  |  |  |  |  |  |
+| Glyburide | 5 mg | 500 mg4 | 0.783 | 0.633 |  |  |  |  |  |
+| Furosemide | 40 mg | 850 mg | 0.873 | 0.693 |  |  |  |  |  |
+| Nifedipine | 10 mg | 850 mg | 1.104 | 1.08 |  |  |  |  |  |
+| Propranolol | 40 mg | 850 mg | 1.014 | 0.94 |  |  |  |  |  |
+| Ibuprofen | 400 mg | 850 mg | 0.975 | 1.015 |  |  |  |  |  |
+| Cimetidine | 400 mg | 850 mg | 0.954 | 1.01 |  |  |  |  |  |
+| 1. All metformin and coadministered drugs were given as single doses |  |  |  |  |  |  |  |  |  |
+| 2. AUC = AUC0–∞ |  |  |  |  |  |  |  |  |  |
+| 3. Ratio of arithmetic means, p-value of difference <0.05 |  |  |  |  |  |  |  |  |  |
+| 4. AUC0-24 hr reported |  |  |  |  |  |  |  |  |  |
+| 5. Ratio of arithmetic means |  |  |  |  |  |  |  |  |  |
