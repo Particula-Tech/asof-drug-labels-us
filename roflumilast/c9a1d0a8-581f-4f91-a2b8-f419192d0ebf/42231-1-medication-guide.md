@@ -15,21 +15,21 @@ What is the most important information I should know about DALIRESP?
 DALIRESP can cause serious side effects.
 Tell your healthcare provider right away if you have any of the symptoms listed below while taking DALIRESP.
 
-- 1.DALIRESP may cause mental health problems including suicidal thoughts and behavior.
-  Some people taking DALIRESP may develop mood or behavior problems including:
-  1. •thoughts of suicide or dying
-  2. •attempt to commit suicide
-  3. •trouble sleeping (insomnia)
-  4. •new or worse anxiety
-  5. •new or worse depression
-  6. •acting on dangerous impulses
-  7. •other unusual changes in your behavior or mood
-- 2.Weight loss.
-  DALIRESP can cause weight loss.
-  You should check your weight on a regular basis.
-  You will also need to see your healthcare provider regularly to have your weight checked.
-  If you notice that you are losing weight, call your healthcare provider.
-  Your healthcare provider may ask you to stop taking DALIRESP if you lose too much weight.
+1. 1.DALIRESP may cause mental health problems including suicidal thoughts and behavior.
+   Some people taking DALIRESP may develop mood or behavior problems including:
+   1. •thoughts of suicide or dying
+   2. •attempt to commit suicide
+   3. •trouble sleeping (insomnia)
+   4. •new or worse anxiety
+   5. •new or worse depression
+   6. •acting on dangerous impulses
+   7. •other unusual changes in your behavior or mood
+2. 2.Weight loss.
+   DALIRESP can cause weight loss.
+   You should check your weight on a regular basis.
+   You will also need to see your healthcare provider regularly to have your weight checked.
+   If you notice that you are losing weight, call your healthcare provider.
+   Your healthcare provider may ask you to stop taking DALIRESP if you lose too much weight.
 
 DALIRESP may affect the way other medicines work, and other medicines may affect how DALIRESP works.
 Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.

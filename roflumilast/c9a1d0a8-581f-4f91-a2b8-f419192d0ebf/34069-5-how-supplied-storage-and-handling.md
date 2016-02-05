@@ -7,9 +7,9 @@ Each tablet contains 500 mcg of roflumilast.
 
 DALIRESP tablets are available:
 
-- Bottles of 30: NDC 0310-0095-30
-- Bottles of 90: NDC 0310-0095-90
-- 2X10 Unit Dose: NDC 0310-0095-39
+1. Bottles of 30: NDC 0310-0095-30
+2. Bottles of 90: NDC 0310-0095-90
+3. 2X10 Unit Dose: NDC 0310-0095-39
 
 ## 16.2 Storage and Handling
 
