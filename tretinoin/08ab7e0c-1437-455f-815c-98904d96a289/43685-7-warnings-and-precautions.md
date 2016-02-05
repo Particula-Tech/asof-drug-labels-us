@@ -12,8 +12,8 @@ If a reaction suggesting sensitivity occurs, use of the medication should be dis
 
 To help limit skin irritation, patients must
 
-- wash the treated skin gently, using a mild, non-medicated soap, and pat it dry, and
-- avoid washing the treated skin too often or scrubbing it hard when washing.
+- •wash the treated skin gently, using a mild, non-medicated soap, and pat it dry, and
+- •avoid washing the treated skin too often or scrubbing it hard when washing.
 
 Patients should apply a topical moisturizer if dryness is bothersome.
 
@@ -21,6 +21,6 @@ Patients should apply a topical moisturizer if dryness is bothersome.
 
 Unprotected exposure to sunlight, including sunlamps (UV light) should be avoided or minimized during the use of Retin-A Micro (tretinoin) Gel microsphere, 0.1%, 0.08% and 0.04%, and patients with sunburn should be advised not to use the product until fully recovered because of heightened susceptibility to sunlight as a result of the use of tretinoin.
 Patients who may be required to have extended periods of UV exposure (e.g., due to occupation or sports), or those with inherent sensitivity to the sun, or those using medications that cause photosensitivity, should exercise particular caution.
-Use of sunscreen products (SPF15 or higher and protective clothing over treated areas are recommended when exposure cannot be avoided [see Nonclinical Toxicology (13.1)].
+Use of sunscreen products (SPF15 or higher) and protective clothing over treated areas are recommended when exposure cannot be avoided [see Nonclinical Toxicology (13.1)].
 
 Weather extremes, such as wind or cold, also may be irritating to tretinoin-treated skin.

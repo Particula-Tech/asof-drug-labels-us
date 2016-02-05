@@ -22,5 +22,5 @@ Patients treated with Retin-A Micro (tretinoin) Gel microsphere, 0.1%, 0.08% and
 
 Concomitant topical medication, medicated or abrasive soaps and cleansers, products that have a strong drying effect, products with high concentrations of alcohol, astringents, or spices should be used with caution because of possible interaction with tretinoin.
 Avoid contact with the peel of limes.
-Particular caution should be exercised with the concomitant use of topical over-the-counter acne preparations containing benzoyl peroxide, sulfur, resorcinol, or salicylic acid with Retin-A Micro (tretinoin) Gel microsphere, 0.1% and 0.04%.
-It also is advisable to allow the effects of such preparations to subside before use of Retin-A Micro (tretinoin) Gel microsphere, 0.1% and 0.04%, is begun.
+Particular caution should be exercised with the concomitant use of topical over-the-counter acne preparations containing benzoyl peroxide, sulfur, resorcinol, or salicylic acid with Retin-A Micro (tretinoin) Gel microsphere, 0.1%, 0.08% and 0.04%.
+It also is advisable to allow the effects of such preparations to subside before use of Retin-A Micro (tretinoin) Gel microsphere, 0.1%, 0.08% and 0.04%, is begun.

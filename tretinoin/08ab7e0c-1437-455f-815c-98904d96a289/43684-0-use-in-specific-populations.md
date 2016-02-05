@@ -2,8 +2,6 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
-
 There are no adequate and well-controlled studies in pregnant women.
 Retin-A Micro® should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
@@ -29,7 +27,7 @@ In the cynomolgus monkey, fetal malformations were reported for doses of 10 mg/k
 Dose-related increases in embryolethality and abortion also were reported.
 Similar results have also been reported in pigtail macaques.
 
-There is evidence for teratogenicity (shortened or kinked tail) of topical tretinoin in Wistar rats at doses greater than 1 mg/kg/day (10 times the maximum MRHD based on BSA comparison).
+There is evidence for teratogenicity (shortened or kinked tail) of topical tretinoin in Wistar rats at doses greater than 1 mg/kg/day (10 times the MRHD based on BSA comparison).
 Anomalies (humerus: short 13%, bent 6%, os parietal incompletely ossified 14%) have also been reported when 10 mg/kg/day was topically applied.
 Supernumerary ribs have been a consistent finding in rats when dams were treated topically or orally with retinoids.
 
@@ -39,7 +37,7 @@ Nonteratogenic effects on fetus
 
 Oral tretinoin has been shown to be fetotoxic when administered (in doses 24 times the MRHD based on BSA comparison).
 
-Topical tretinoin has been shown to be fetotoxic in rabbits when administered in doses 10 times the MHRD based on BSA comparison.
+Topical tretinoin has been shown to be fetotoxic in rabbits when administered in doses 10 times the MRHD based on BSA comparison.
 
 ## 8.3 Nursing Mothers
 
@@ -53,4 +51,4 @@ Safety and effectiveness in children below the age of 12 have not been establish
 ## 8.5 Geriatric Use
 
 Safety and effectiveness in a geriatric population have not been established.
-Clinical trials of Retin-A Micro® (tretinoin) Gel microspere, 0.1% and 0.04% did not include sufficient numbers of subjects aged 65 and over to determine whether they responded differently from younger subjects.
+Clinical trials of Retin-A Micro® (tretinoin) Gel microsphere 0.1% and 0.04% did not include sufficient numbers of subjects aged 65 and over to determine whether they responded differently from younger subjects.

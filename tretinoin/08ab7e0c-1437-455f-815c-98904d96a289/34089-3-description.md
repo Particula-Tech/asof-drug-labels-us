@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Retin-A Micro (tretinoin) Gel microsphere, 0.1%, 0.08% and 0.04%, is a a white to very pale yellow opaque gel for topical treatment of acne vulgaris.
+Retin-A Micro (tretinoin) Gel microsphere, 0.1%, 0.08% and 0.04%, is a white to very pale yellow opaque gel for topical treatment of acne vulgaris.
 
 Chemically, tretinoin is all-trans-retinoic acid, also known as (all-E)-3,7-dimethyl-9-(2,6,6-trimethyl-1-cyclohexen-1-yl)-2,4,6,8-nonatetraenoic acid.
 It is a member of the retinoid class of compounds, and a metabolite of naturally occurring Vitamin A. Tretinoin has a molecular weight of 300.44, a molecular formula of C20H28O2 and the following chemical structure:

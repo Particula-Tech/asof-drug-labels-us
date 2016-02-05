@@ -1,17 +1,23 @@
-# 6.2 Postmarketing Experience
+Manufactured for:
 
-The following adverse reactions have been identified during post-approval use of Retin-A Micro Gel.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a casual relationship to drug exposure.
+Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-Temporary hyper- or hypopigmentation has been reported with repeated application of tretinoin.
+by:
 
-Manufactured by: Janssen Ortho LLC, Manati, Puerto Rico 00674
+Janssen Ortho LLC
 
-Distributed by: Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 08807
+Manati, Puerto Rico 00674 USA
 
-RETIN-A MICRO® is a registered trademark of Valeant International Bermuda.
-All other trademarks are the trademarks or the registered trademarks of their respective owners.
+Retin-A Micro is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
-MICROSPONGE® is a registered trademark of AMCOL International Corporation.
+Microsponge is a registered trademark of AMCOL International Corporation.
+Any other product/brand names are trademarks of their respective owners.
 
-©2014 Valeant Pharmaceuticals North America LLC
+©2015 Valeant Pharmaceuticals North America LLC
+
+10330201
+
+9377801
+
+Rev.
+09/2015

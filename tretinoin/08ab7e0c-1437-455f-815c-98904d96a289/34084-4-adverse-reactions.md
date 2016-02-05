@@ -26,8 +26,15 @@ Trials in Subjects Without Acne
 
 In a half-face comparison trial conducted for up to 14 days in women with sensitive skin, but without acne, Retin-A Micro (tretinoin) Gel microsphere, 0.1% was statistically less irritating than tretinoin cream, 0.1%.
 In addition, a cumulative 21 day irritation evaluation in subjects with normal skin showed that Retin-A Micro (tretinoin) Gel microsphere, 0.1%, had a lower irritation profile than tretinoin cream, 0.1%.
-The clinical significance of these irritation trials for patients with acne is not established.
+The clinical significance of these irritation studies for patients with acne is not established.
 Comparable effectiveness of Retin-A Micro (tretinoin) Gel microsphere, 0.1% and tretinoin cream, 0.1%, has not been established.
 The lower irritancy of Retin-A Micro (tretinoin) Gel microsphere, 0.1% in subjects without acne may be attributable to the properties of its vehicle.
 The contribution of decreased irritancy by the MICROSPONGE System has not been established.
 No irritation trials have been performed to compare Retin-A Micro (tretinoin) Gel microsphere, 0.04%, with either Retin-A Micro (tretinoin) Gel microsphere, 0.1%, or tretinoin cream, 0.1%.
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of Retin-A Micro Gel.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a casual relationship to drug exposure.
+
+Temporary hyper- or hypopigmentation has been reported with repeated application of tretinoin.
