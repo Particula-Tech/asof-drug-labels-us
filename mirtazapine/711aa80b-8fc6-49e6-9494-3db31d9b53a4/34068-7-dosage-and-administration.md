@@ -46,7 +46,7 @@ If intolerable symptoms occur following a decrease in the dose or upon discontin
 
 ## Information for Patients
 
-Patients should be advised that taking mirtazapine tablets can cause mild pupillary dilation, which in susceptible individuals can lead to an episode of angle-closure glaucoma.
-Preexisting glaucoma is almost always open-angle glaucoma because angle-closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
+Patients should be advised that taking mirtazapine tablets can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle-closure glaucoma.
+Pre-existing glaucoma is almost always open-angle glaucoma because angle-closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
 Open-angle glaucoma is not a risk factor for angle-closure glaucoma.
 Patients may wish to be examined to determine whether they are susceptible to angle-closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
