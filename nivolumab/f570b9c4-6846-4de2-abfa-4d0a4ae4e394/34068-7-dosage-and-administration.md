@@ -2,10 +2,11 @@
 
 ## 2.1 Recommended Dosage for Melanoma
 
-- •The recommended dose of OPDIVO administered as a single agent is 3 mg/kg administered as an intravenous infusion over 60 minutes every 2 weeks until disease progression or unacceptable toxicity.
-- •The recommended dose of OPDIVO is 1 mg/kg administered as an intravenous infusion over 60 minutes, followed by ipilimumab on the same day, every 3 weeks for 4 doses [see Clinical Studies (14.1)].
-  The recommended subsequent dose of OPDIVO, as a single agent, is 3 mg/kg as an intravenous infusion over 60 minutes every 2 weeks until disease progression or unacceptable toxicity.
-  Review the Full Prescribing Information for ipilimumab prior to initiation.
+The recommended dose of OPDIVO as a single agent is 3 mg/kg administered as an intravenous infusion over 60 minutes every 2 weeks until disease progression or unacceptable toxicity.
+
+The recommended dose of OPDIVO is 1 mg/kg administered as an intravenous infusion over 60 minutes, followed by ipilimumab on the same day, every 3 weeks for 4 doses [see Clinical Studies (14.1)].
+The recommended subsequent dose of OPDIVO, as a single agent, is 3 mg/kg as an intravenous infusion over 60 minutes every 2 weeks until disease progression or unacceptable toxicity.
+Review the Full Prescribing Information for ipilimumab prior to initiation.
 
 ## 2.2 Recommended Dosage for NSCLC
 
@@ -18,6 +19,7 @@ The recommended dose of OPDIVO is 3 mg/kg administered as an intravenous infusio
 ## 2.4 Dose Modifications
 
 Recommendations for OPDIVO modifications are provided in Table 1.
+When OPDIVO is administered in combination with ipilimumab, if OPDIVO is withheld, ipilimumab should also be withheld.
 
 There are no recommended dose modifications for hypothyroidism or hyperthyroidism.
 
@@ -26,12 +28,11 @@ Discontinue OPDIVO in patients with severe or life-threatening infusion reaction
 
 Table 1: Recommended Dose Modifications for OPDIVO
 
-| Adverse Reaction | Severity | Dose Modification |
+| Adverse Reaction | Severity* | Dose Modification |
 | --- | --- | --- |
 | Colitis | Grade 2 diarrhea or colitis | Withhold dosea |
-| Grade 3 diarrhea or colitis |  |  |
-| Single-agent OPDIVO | Withhold dosea |  |
-| OPDIVO, in combination with ipilimumab | Permanently discontinue |  |
+| Grade 3 diarrhea or colitis | Withhold dosea when administered as a single agent |  |
+| Permanently discontinue when administered with ipilimumab |  |  |
 | Grade 4 diarrhea or colitis | Permanently discontinue |  |
 | Pneumonitis | Grade 2 pneumonitis | Withhold dosea |
 | Grade 3 or 4 pneumonitis | Permanently discontinue |  |
@@ -55,9 +56,7 @@ Table 1: Recommended Dose Modifications for OPDIVO
 | Life-threatening or Grade 4 adverse reaction | Permanently discontinue |  |
 | Requirement for 10 mg per day or greater prednisone or equivalent for more than 12 weeks | Permanently discontinue |  |
 | Persistent Grade 2 or 3 adverse reactions lasting 12 weeks or longer | Permanently discontinue |  |
-| a Resume treatment when adverse reaction returns to Grade 0 or 1. |  |  |
-
-When OPDIVO is administered in combination with ipilimumab, if OPDIVO is withheld, ipilimumab should also be withheld.
+| *Toxicity was graded per National Cancer Institute Common Terminology Criteria for Adverse Events. Version 4.0 (NCI CTCAE v4). a Resume treatment when adverse reaction returns to Grade 0 or 1. |  |  |
 
 ## 2.5 Preparation and Administration
 

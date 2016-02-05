@@ -4,7 +4,7 @@
 
 ### Risk Summary
 
-Based on its mechanism of action [see Clinical Pharmacology (12.1)] and data from animal studies, OPDIVO can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1)].
+Based on its mechanism of action [see Clinical Pharmacology (12.1)] and data from animal studies, OPDIVO can cause fetal harm when administered to a pregnant woman.
 In animal reproduction studies, administration of nivolumab to cynomolgus monkeys from the onset of organogenesis through delivery resulted in increased abortion and premature infant death [see Data].
 Human IgG4 is known to cross the placental barrier and nivolumab is an immunoglobulin G4 (IgG4); therefore, nivolumab has the potential to be transmitted from the mother to the developing fetus.
 The effects of OPDIVO are likely to be greater during the second and third trimesters of pregnancy.
@@ -44,12 +44,15 @@ The safety and effectiveness of OPDIVO have not been established in pediatric pa
 
 ## 8.5 Geriatric Use
 
-Of the 272 patients randomized to OPDIVO in Trial 1, 35% of patients were 65 years or older and 15% were 75 years or older.
-Of the 292 patients randomized to OPDIVO in Trial 3, 37% of patients were 65 years or older and 7% were 75 years or older.
-Of the 210 patients randomized to OPDIVO in Trial 5, 50% of patients were 65 years or older and 13% were 75 years or older.
+Of the 272 patients randomized to OPDIVO in Trial 1, 35% were 65 years or older and 15% were 75 years or older.
+Of the 292 patients randomized to OPDIVO in Trial 3, 37% were 65 years or older and 7% were 75 years or older.
+Of the 210 patients randomized to OPDIVO in Trial 5, 50% were 65 years or older and 13% were 75 years or older.
 Of the 406 patients treated with OPDIVO in Trial 6, 37% of patients were 65 years or older and 8% were 75 years or older.
-In these trials, no overall differences in safety or efficacy were reported between elderly patients and younger patients.
-Trial 4, OPDIVO in combination with ipilimumab, did not include sufficient numbers of patients aged 65 years and older to determine whether they respond differently from younger patients.
+Of the 316 patients randomized to OPDIVO in Trial 7, 37% were 65 years or older and 12% were 75 years or older.
+No overall differences in safety or efficacy were reported between elderly patients and younger patients.
+
+Of the 314 patients randomized to OPDIVO administered with ipilimumab in Trial 7, 41% were 65 years or older and 11% were 75 years or older.
+No overall differences in safety or efficacy were reported between elderly patients and younger patients.
 
 ## 8.6 Renal Impairment
 
