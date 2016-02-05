@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "NDA207958"
+  ],
+  "inn": "levetiracetam",
+  "labeler": "Aprecia Pharmaceuticals Company",
+  "package_ndcs": [
+    "43485-101-01",
+    "43485-101-60",
+    "43485-102-01",
+    "43485-102-60",
+    "43485-103-01",
+    "43485-103-60",
+    "43485-104-01",
+    "43485-104-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FOR SUSPENSION",
+      "generic": "levetiracetam",
+      "name": "Spritam"
+    }
+  ],
+  "setid": "be651c31-383f-11e4-916c-0800200c9a66",
+  "source": "dailymed"
+}
