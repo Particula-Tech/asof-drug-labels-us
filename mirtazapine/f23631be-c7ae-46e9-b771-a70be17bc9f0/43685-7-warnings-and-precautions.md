@@ -10,7 +10,7 @@ The pooled analyses of placebo-controlled trials in children and adolescents wit
 The pooled analyses of placebo-controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short-term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
 There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
 There were differences in absolute risk of suicidality across different indications, with the highest incidence in MDD.
-The risk differences (drug vs placebo), however, were relatively stable within age strata and across indications.
+The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
 These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 1.
 
 No suicides occurred in any of the pediatric trials.
@@ -58,7 +58,7 @@ Angle-closure Glaucoma The pupillary dilation that occurs following use of many 
 
 ## GENERAL PRECAUTIONS
 
-Discontinuation Symptoms There have been reports of adverse reactions upon the discontinuation of mirtazapine tablets (particularly when abrupt), including but not limited to the following: dizziness, abnormal dreams, sensory disturbances (including parasthesia and electric shock sensations), agitation, anxiety, fatigue, confusion, headache, tremor, nausea, vomiting, and sweating, or other symptoms which may be of clinical significance.
+Discontinuation Symptoms There have been reports of adverse reactions upon the discontinuation of mirtazapine tablets (particularly when abrupt), including but not limited to the following: dizziness, abnormal dreams, sensory disturbances (including paresthesia and electric shock sensations), agitation, anxiety, fatigue, confusion, headache, tremor, nausea, vomiting, and sweating, or other symptoms which may be of clinical significance.
 The majority of the reported cases are mild and self-limiting.
 Even though these have been reported as adverse reactions, it should be realized that these symptoms may be related to underlying disease.
 
@@ -109,7 +109,7 @@ Orthostatic hypotension was infrequently observed in clinical trials with depres
 Mirtazapine should be used with caution in patients with known cardiovascular or cerebrovascular disease that could be exacerbated by hypotension (history of myocardial infarction, angina, or ischemic stroke) and conditions that would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medication).
 
 Mirtazapine clearance is decreased in patients with moderate [glomerular filtration rate (GFR) = 11-39 mL/min/1.73 m2] and severe [GFR < 10 mL/min/1.73 m2] renal impairment, and also in patients with hepatic impairment.
-Caution is indicated in administering mirtazapine to such patients (see CLINICAL PHARMACOLOGY and DOSAGE and ADMINISTRATION).
+Caution is indicated in administering mirtazapine to such patients (see CLINICAL PHARMACOLOGY and DOSAGE And ADMINISTRATION).
 
 ## INFORMATION FOR PATIENTS
 
@@ -184,7 +184,7 @@ The mirtazapine dose may have to be decreased when concomitant treatment with ci
 Ketoconazole In healthy, male, Caucasian patients (n=24), coadministration of the potent CYP3A4 inhibitor ketoconazole (200 mg b.i.d. for 6.5 days) increased the peak plasma levels and the AUC of a single 30 mg dose of mirtazapine by approximately 40% and 50% respectively.
 Caution should be exercised when coadministering mirtazapine with potent CYP3A4 inhibitors, HIV protease inhibitors, azole antifungals, erythromycin, or nefazodone.
 Paroxetine In an in vivo interaction study in healthy, CYP2D6 extensive metabolizer patients (n=24), mirtazapine (30 mg/day), at steady state, did not cause relevant changes in the pharmacokinetics of steady state paroxetine (40 mg/day), a CYP2D6 inhibitor.
-Other Drug-Drug Interactions Amitriptyline In healthy, CYP2D6 extensive metabolizer patients (n=32), amitriptyline (75 mg daily), at steady state, did not cause relevant changes in the pharmacokinetics of steady state mirtazapine (30 mg daily); mirtazapine also did not cause relevant changes to the pharmacokinetics of amitriptyline.
+Other Drug-Drug Interactions Amitriptyline In healthy, CYP2D6 extensive metabolizer patients (n=32), amitriptyline (75 mg daily), at steady state, did not cause relevant changes in the pharmacokinetics of steady state mirtazapine (30 mg daily); mirtazapine also did not cause relevant changes in the pharmacokinetics of amitriptyline.
 Warfarin In healthy male subjects (n=16), mirtazapine (30 mg daily), at steady state, caused a small (0.2) but statistically significant increase in the International Normalized Ratio (INR) in subjects treated with warfarin.
 As at a higher dose of mirtazapine, a more pronounced effect can not be excluded, it is advisable to monitor the INR in case of concomitant treatment of warfarin with mirtazapine.
 Lithium No relevant clinical effects or significant changes in pharmacokinetics have been observed in healthy male subjects on concurrent treatment with subtherapeutic levels of lithium (600 mg/day for 10 days) at steady state and a single 30-mg dose of mirtazapine.
@@ -219,7 +219,7 @@ Mating and conception were not affected by the drug, but estrous cycling was dis
 ## PREGNANCY
 
 Teratogenic Effects -Pregnancy Category C Reproduction studies in pregnant rats and rabbits at doses up to 100 mg/kg and 40 mg/kg, respectively [20 and 17 times the maximum recommended human dose (MRHD) on an mg/m2 basis, respectively], have revealed no evidence of teratogenic effects.
-However, in rats, there was an increase in post-implantation losses in dams treated with mirtazapine.
+However, in rats, there was an increase in postimplantation losses in dams treated with mirtazapine.
 There was an increase in pup deaths during the first 3 days of lactation and a decrease in pup birth weights.
 The cause of these deaths is not known.
 The effects occurred at doses that were 20 times the MRHD, but not at 3 times the MRHD, on an mg/m2 basis.
@@ -235,7 +235,7 @@ Because some mirtazapine may be excreted into breast milk, caution should be exe
 Safety and effectiveness in the pediatric population have not been established (see BOXED WARNING and WARNINGS: Clinical Worsening and Suicide Risk).
 Two placebo-controlled trials in 258 pediatric patients with MDD have been conducted with Mirtazapine tablets, USP, and the data were not sufficient to support a claim for use in pediatric patients.
 Anyone considering the use of mirtazapine in a child or adolescent must balance the potential risks with the clinical need.
-In an 8-week long pediatric clinical trial of doses between 15 to 45 mg/day, 49% of mirtazapine-treated patients had a weight gain of at least 7%, compared to 5.7% of placebo-treated patients.
+In an 8-week-long pediatric clinical trial of doses between 15 to 45 mg/day, 49% of mirtazapine-treated patients had a weight gain of at least 7%, compared to 5.7% of placebo-treated patients.
 The mean increase in weight was 4 kg (2 kg SD) for mirtazapine-treated patients versus 1 kg (2 kg SD) for placebo-treated patients (see PRECAUTIONS: Increased Appetite/Weight Gain).
 
 ## GERIATRIC USE

@@ -6,7 +6,7 @@ The only drug overdose death reported while taking mirtazapine was in combinatio
 Based on plasma levels, the mirtazapine dose taken was 30 to 45 mg, while plasma levels of amitriptyline and chlorprothixene were found to be at toxic levels.
 All other premarketing overdose cases resulted in full recovery.
 Signs and symptoms reported in association with overdose included disorientation, drowsiness, impaired memory, and tachycardia.
-There were no reports of ECG abnormalities, coma or convulsions following overdose with mirtazapine alone.
+There were no reports of ECG abnormalities, coma, or convulsions following overdose with mirtazapine alone.
 Overdose Management Treatment should consist of those general measures employed in the management of overdose with any drug effective in the treatment of major depressive disorder.
 Ensure an adequate airway, oxygenation, and ventilation.
 Monitor cardiac rhythm and vital signs.
