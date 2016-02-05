@@ -1,13 +1,13 @@
 # WARNING:TOXIC DEATHS, HEPATOTOXICITY, NEUTROPENIA, HYPERSENSITIVITY REACTIONS, AND FLUID RETENTION
 
-The incidence of treatment-related mortality associated with docetaxel therapy is increased in patients with abnormal liver function, in patients receiving higher doses, and in patients with non-small cell lung carcinoma and a history of prior treatment with platinum-based chemotherapy who receive docetaxel as a single agent at a dose of 100 mg/m2[see Warnings and Precautions (5.1)].
+The incidence of treatment-related mortality associated with docetaxel therapy is increased in patients with abnormal liver function, in patients receiving higher doses, and in patients with non-small cell lung carcinoma and a history of prior treatment with platinum-based chemotherapy who receive docetaxel as a single agent at a dose of 100 mg/m 2[see Warnings and Precautions (5.1)].
 
 Docetaxel Injection should not be given to patients with bilirubin > upper limit of normal (ULN), or to patients with AST and/or ALT >1.5 × ULN concomitant with alkaline phosphatase >2.5 × ULN.
 Patients with elevations of bilirubin or abnormalities of transaminase concurrent with alkaline phosphatase are at increased risk for the development of grade 4 neutropenia, febrile neutropenia, infections, severe thrombocytopenia, severe stomatitis, severe skin toxicity, and toxic death.
 Patients with isolated elevations of transaminase >1.5 × ULN also had a higher rate of febrile neutropenia grade 4 but did not have an increased incidence of toxic death.
 Bilirubin, AST or ALT, and alkaline phosphatase values should be obtained prior to each cycle of Docetaxel Injection therapy [see Warnings and Precautions (5.2)].
 
-Docetaxel Injection therapy should not be given to patients with neutrophil counts of <1500 cells/mm3.
+Docetaxel Injection therapy should not be given to patients with neutrophil counts of <1500 cells/mm 3.
 In order to monitor the occurrence of neutropenia, which may be severe and result in infection, frequent blood cell counts should be performed on all patients receiving Docetaxel Injection.
 [see Warnings and Precautions (5.3)].
 

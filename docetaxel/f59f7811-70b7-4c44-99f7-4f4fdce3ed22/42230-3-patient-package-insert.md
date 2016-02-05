@@ -2,7 +2,7 @@ See FDA-Approved Patient Labeling
 
 - Docetaxel Injection may cause fetal harm.
   Advise patients to avoid becoming pregnant while receiving this drug.
-  Women of childbearing potential should use effective contraceptives if receiving Docetaxel Injection [see Warnings and Precautions (5.10) and Use in Specific Populations (8.1)].
+  Women of childbearing potential should use effective contraceptives if receiving Docetaxel Injection [see Warnings and Precautions (5.12) and Use in Specific Populations (8.1)].
 - Obtain detailed allergy and concomitant drug information from the patient prior to Docetaxel Injection administration.
 - Explain the significance of oral corticosteroids such as dexamethasone administration to the patient to help facilitate compliance.
   Instruct patients to report if they were not compliant with oral corticosteroid regimen.
@@ -11,14 +11,14 @@ See FDA-Approved Patient Labeling
 - Explain the significance of routine blood cell counts.
   Instruct patients to monitor their temperature frequently and immediately report any occurrence of fever.
 - Instruct patients to report myalgia, cutaneous, or neurologic reactions.
-- Explain to patients that side effects such as nausea, vomiting, diarrhea, constipation, fatigue, excessive tearing, infusion site reactions, and hair loss are associated with docetaxel administration.
 - Explain to patients the possible effects of the alcohol content in Docetaxel Injection, including possible effects on the central nervous system.
   Patients in whom alcohol should be avoided or minimized should consider the alcohol content of Docetaxel Injection.
   Alcohol could impair their ability to drive or use machines immediately after infusion.
+- Explain to patients that side effects such as nausea, vomiting, diarrhea, constipation, fatigue, excessive tearing, infusion site reactions, and hair loss (cases of permanent hair loss have been reported) are associated with docetaxel administration.
 
 Patient Information
 
-Docetaxel (doe-se-TAKS-el) Injection Intravenous Infusion
+Docetaxel (doe-se-TAKS-el) Injection USP Intravenous Infusion
 
 Read this Patient Information before you receive your first treatment with Docetaxel Injection and each time before you are treated.
 There may be new information.
@@ -86,8 +86,8 @@ What should I tell my doctor before receiving Docetaxel Injection ?
 Before you receive Docetaxel Injection, tell your doctor if you:
 
 - are allergic to any medicines.
-  See “Who should not take Docetaxel Injection ?”
-  Also, see the end of this leaflet for a list of the ingredients in Docetaxel Injection.
+  See “Who should not receive Docetaxel Injection ?”
+  Also, see the end of this leaflet for a complete list of the ingredients in Docetaxel Injection.
 - have liver problems
 - have any other medical conditions
 - are pregnant or plan to become pregnant.
@@ -139,7 +139,8 @@ The most common side effects of Docetaxel Injection include:
 - nausea and vomiting
 - diarrhea
 - mouth or lips sores
-- hair loss
+- hair loss: in most cases normal hair growth should return.
+  In some cases (frequency not known) permanent hair loss has been observed.
 - rash
 - redness of the eye, excess tearing
 - skin reactions at the site of Docetaxel Injection administration such as increased skin pigmentation, redness, tenderness, swelling, warmth or dryness of the skin

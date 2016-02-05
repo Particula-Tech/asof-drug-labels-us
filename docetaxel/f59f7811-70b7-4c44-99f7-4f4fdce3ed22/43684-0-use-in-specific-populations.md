@@ -9,7 +9,7 @@ If Docetaxel Injection is used during pregnancy, or if the patient becomes pregn
 Women of childbearing potential should be advised to avoid becoming pregnant during therapy with Docetaxel Injection.
 
 Docetaxel Injection can cause fetal harm when administered to a pregnant woman.
-Studies in both rats and rabbits at doses ≥0.3 and 0.03 mg/kg/day, respectively (about 1/50 and 1/300 the daily maximum recommended human dose on a mg/m2 basis), administered during the period of organogenesis, have shown that docetaxel is embryotoxic and fetotoxic (characterized by intrauterine mortality, increased resorption, reduced fetal weight, and fetal ossification delay).
+Studies in both rats and rabbits at doses ≥0.3 and 0.03 mg/kg/day, respectively (about 1/50 and 1/300 the daily maximum recommended human dose on a mg/m 2 basis), administered during the period of organogenesis, have shown that docetaxel is embryotoxic and fetotoxic (characterized by intrauterine mortality, increased resorption, reduced fetal weight, and fetal ossification delay).
 The doses indicated above also caused maternal toxicity.
 
 ## 8.3 Nursing Mothers
@@ -20,7 +20,7 @@ Because many drugs are excreted in human milk, and because of the potential for 
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of Docetaxel Injection in pediatric patients have not been established.
-The alcohol content of Docetaxel Injection should be taken into account when given to pediatric patients [see Warnings and Precautions (5.12)].
+The alcohol content of Docetaxel Injection should be taken into account when given to pediatric patients [see Warnings and Precautions (5.11)].
 
 ## 8.5 Geriatric Use
 
@@ -67,4 +67,4 @@ Patients with bilirubin >ULN should not receive Docetaxel Injection.
 Also, patients with AST and/or ALT >1.5 x ULN concomitant with alkaline phosphatase >2.5 x ULN should not receive Docetaxel Injection.
 [see Boxed Warning, Warnings and Precautions (5.2), Clinical Pharmacology (12.3)].
 
-The alcohol content of Docetaxel Injection should be taken into account when given to patients with hepatic impairment [see Warnings and Precautions (5.12)].
+The alcohol content of Docetaxel Injection should be taken into account when given to patients with hepatic impairment [see Warnings and Precautions (5.11)].
