@@ -10,9 +10,9 @@ When reconstituted, each mL contains: Enalapril maleate 1 mg 150 mL (when recons
 
 CONTAINS:
 
-I. 1 bottle containing 150 mg Enalapril Maleate Powder for Oral Solution
+i. 1 bottle containing 150 mg Enalapril Maleate Powder for Oral Solution
 
-II.
+ii.
 1 bottle containing 150 mL Ora-Sweet® SF provided as a diluent for reconstitution
 
 Store at controlled room temperature, 15-30°C (59-86°F).
@@ -34,7 +34,7 @@ Write this date as the discard date on the front label.
 Affix a “Do Not Use After” or a “Discard After” label with the calculated date added to the reconstituted Epaned bottle.
 Reconstitution results in 150 mL of a 1 mg/mL Epaned Oral Solution.
 
-Dosage: See Package Insert for dosing information.
+Usual Dosage: See Package Insert for dosing information.
 
 NDC 52652-1001-1
 
@@ -43,6 +43,8 @@ Epaned® (Enalapril Maleate Powder for Oral Solution) 1 mg/mL
 When reconstituted, each mL contains: Enalapril maleate 1 mg 150 mL (when reconstituted)
 
 Manufactured for: Silvergate Pharmaceuticals, Inc. 6251 Greenwood Plaza Blvd, Suite 101 Greenwood Village, CO 80111
+
+Country of Origin (API): Spain
 
 Silvergate, the Silvergate logo, and Epaned are trademarks of Silvergate Pharmaceuticals, Inc. All other registered trademarks are the property of their respective owners.
 (08/14)
@@ -53,9 +55,9 @@ Rx Only
 
 Epaned® Powder for Oral Solution Kit contains:
 
-I. 1 bottle containing 150 mg Enalapril Maleate Powder for Oral Solution
+i. 1 bottle containing 150 mg Enalapril Maleate Powder for Oral Solution
 
-II.
+ii.
 1 bottle containing 150 mL Ora-Sweet® SF provided as a diluent for reconstitution
 
-Dosage: See Package Insert for dosing information.
+Usual Dosage: See Package Insert for dosing information.

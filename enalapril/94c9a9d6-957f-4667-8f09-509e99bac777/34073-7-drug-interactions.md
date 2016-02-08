@@ -33,3 +33,7 @@ It is recommended that serum lithium levels be monitored frequently if enalapril
 ## 7.5 Gold
 
 Nitritoid reactions (symptoms include facial flushing, nausea, vomiting, and hypotension) have been reported rarely in patients on therapy with injectable gold (sodium aurothiomalate) and concomitant ACE inhibitor therapy including enalapril.
+
+## 7.6 mTOR Inhibitors
+
+Patients taking concomitant mTOR inhibitor (e.g., temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema [see Warnings and Precautions (5.2)].
