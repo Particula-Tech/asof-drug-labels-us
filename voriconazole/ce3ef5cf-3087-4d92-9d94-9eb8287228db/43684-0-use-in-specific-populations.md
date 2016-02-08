@@ -44,4 +44,4 @@ However, the overall safety profile of the elderly patients was similar to that 
 
 Women of childbearing potential should use effective contraception during treatment.
 The coadministration of voriconazole with the oral contraceptive, Ortho-Novum® (35 mcg ethinyl estradiol and 1 mg norethindrone), results in an interaction between these two drugs, but is unlikely to reduce the contraceptive effect.
-Monitoring for adverse events associated with oral contraceptives and voriconazole is recommended [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
+Monitoring for adverse events associated with oral contraceptives and voriconazole is recommended [see Drug Interactions (7), and Clinical Pharmacology (12.3)].

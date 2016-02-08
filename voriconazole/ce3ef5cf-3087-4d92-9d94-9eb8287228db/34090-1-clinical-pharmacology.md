@@ -79,7 +79,7 @@ Females exhibited a greater increase in QTc than males, although all mean change
 Age was not found to affect the magnitude of increase in QTc.
 No subject in any group had an increase in QTc of ≥60 msec from baseline.
 No subject experienced an interval exceeding the potentially clinically relevant threshold of 500 msec.
-However, the QT effect of voriconazole combined with drugs known to prolong the QT interval is unknown [see Contraindications (4) and Drug Interactions (7)].
+However, the QT effect of voriconazole combined with drugs known to prolong the QT interval is unknown [see Contraindications (4), and Drug Interactions (7)].
 
 Pharmacokinetics in Special Populations
 
@@ -139,21 +139,21 @@ The systemic exposure to voriconazole is significantly reduced or is expected to
 
 Rifampin (potent CYP450 inducer)–Rifampin (600 mg once daily) decreased the steady state Cmax and AUCτ of voriconazole (200 mg q12h × 7 days) by an average of 93% and 96%, respectively, in healthy subjects.
 Doubling the dose of voriconazole to 400 mg q12h does not restore adequate exposure to voriconazole during coadministration with rifampin.
-Coadministration of voriconazole and rifampin is contraindicated [see Contraindications (4) and Warnings and Precautions (5.1)].
+Coadministration of voriconazole and rifampin is contraindicated [see Contraindications (4), and Warnings and Precautions (5.1)].
 
 Ritonavir (potent CYP450 inducer; CYP3A4 inhibitor and substrate)–The effect of the coadministration of voriconazole and ritonavir (400 mg and 100 mg) was investigated in two separate studies.
 High-dose ritonavir (400 mg q12h for 9 days) decreased the steady state Cmax and AUCτ of oral voriconazole (400 mg q12h for 1 day, then 200 mg q12h for 8 days) by an average of 66% and 82%, respectively, in healthy subjects.
 Low-dose ritonavir (100 mg q12h for 9 days) decreased the steady state Cmax and AUCτ of oral voriconazole (400 mg q12h for 1 day, then 200 mg q12h for 8 days) by an average of 24% and 39%, respectively, in healthy subjects.
 Although repeat oral administration of voriconazole did not have a significant effect on steady state Cmax and AUCτ of high-dose ritonavir in healthy subjects, steady state Cmax and AUCτ of low-dose ritonavir decreased slightly by 24% and 14% respectively, when administered concomitantly with oral voriconazole in healthy subjects.
 Coadministration of voriconazole and high-dose ritonavir (400 mg q12h) is contraindicated.
-Coadministration of voriconazole and low-dose ritonavir (100 mg q12h) should be avoided, unless an assessment of the benefit/risk to the patient justifies the use of voriconazole [see Contraindications (4) and Warnings and Precautions (5.1)].
+Coadministration of voriconazole and low-dose ritonavir (100 mg q12h) should be avoided, unless an assessment of the benefit/risk to the patient justifies the use of voriconazole [see Contraindications (4), and Warnings and Precautions (5.1)].
 
 St. John's Wort (CYP450 inducer; P-gp inducer)–In an independent published study in healthy volunteers who were given multiple oral doses of St. John's Wort (300 mg LI 160 extract three times daily for 15 days) followed by a single 400 mg oral dose of voriconazole, a 59% decrease in mean voriconazole AUC0–∞ was observed.
 In contrast, coadministration of single oral doses of St. John's Wort and voriconazole had no appreciable effect on voriconazole AUC0–∞.
 Because long-term use of St. John's Wort could lead to reduced voriconazole exposure, concomitant use of voriconazole with St. John's Wort is contraindicated [see Contraindications (4)].
 
 Carbamazepine and long-acting barbiturates (potent CYP450 inducers)–Although not studied in vitro or in vivo, carbamazepine and long-acting barbiturates (e.g., phenobarbital, mephobarbital) are likely to significantly decrease plasma voriconazole concentrations.
-Coadministration of voriconazole with carbamazepine or long-acting barbiturates is contraindicated [see Contraindications (4) and Warnings and Precautions (5.1)].
+Coadministration of voriconazole with carbamazepine or long-acting barbiturates is contraindicated [see Contraindications (4), and Warnings and Precautions (5.1)].
 
 Significant drug interactions that may require voriconazole dosage adjustment, or frequent monitoring of voriconazole-related adverse events/toxicity:
 
@@ -181,14 +181,14 @@ Therefore, there is potential for voriconazole and its major metabolite to incre
 The systemic exposure of the following drugs is significantly increased or is expected to be significantly increased by coadministration of voriconazole and their use is contraindicated:
 
 Sirolimus (CYP3A4 substrate)–Repeat dose administration of oral voriconazole (400 mg q12h for 1 day, then 200 mg q12h for 8 days) increased the Cmax and AUC of sirolimus (2 mg single dose) an average of 7-fold (90% CI: 5.7, 7.5) and 11-fold (90% CI: 9.9, 12.6), respectively, in healthy male subjects.
-Coadministration of voriconazole and sirolimus is contraindicated [see Contraindications (4) and Warnings and Precautions (5.1)].
+Coadministration of voriconazole and sirolimus is contraindicated [see Contraindications (4), and Warnings and Precautions (5.1)].
 
 Terfenadine, astemizole, cisapride, pimozide and quinidine (CYP3A4 substrates)–Although not studied in vitro or in vivo, concomitant administration of voriconazole with terfenadine, astemizole, cisapride, pimozide or quinidine may result in inhibition of the metabolism of these drugs.
 Increased plasma concentrations of these drugs can lead to QT prolongation and rare occurrences of torsade de pointes.
-Coadministration of voriconazole and terfenadine, astemizole, cisapride, pimozide and quinidine is contraindicated [see Contraindications (4) and Warnings and Precautions (5.1)].
+Coadministration of voriconazole and terfenadine, astemizole, cisapride, pimozide and quinidine is contraindicated [see Contraindications (4), and Warnings and Precautions (5.1)].
 
 Ergot alkaloids–Although not studied in vitro or in vivo, voriconazole may increase the plasma concentration of ergot alkaloids (ergotamine and dihydroergotamine) and lead to ergotism.
-Coadministration of voriconazole with ergot alkaloids is contraindicated [see Contraindications (4) and Warnings and Precautions (5.1)].
+Coadministration of voriconazole with ergot alkaloids is contraindicated [see Contraindications (4), and Warnings and Precautions (5.1)].
 
 Everolimus (CYP3A4 substrate, P-gp substrate)–Although not studied in vitro or in vivo, voriconazole may increase plasma concentrations of everolimus, which could potentially lead to exacerbation of everolimus toxicity.
 Currently there are insufficient data to allow dosing recommendations in this situation.
@@ -293,7 +293,7 @@ When treatment with voriconazole is stopped, the initial dosage of efavirenz sho
 Phenytoin (CYP2C9 substrate and potent CYP450 inducer)–Repeat dose administration of phenytoin (300 mg once daily) decreased the steady state Cmax and AUCτ of orally administered voriconazole (200 mg q12h × 14 days) by an average of 50% and 70%, respectively, in healthy subjects.
 Administration of a higher voriconazole dose (400 mg q12h × 7 days) with phenytoin (300 mg once daily) resulted in comparable steady state voriconazole Cmax and AUCτ estimates as compared to when voriconazole was given at 200 mg q12h without phenytoin.
 
-Phenytoin may be coadministered with voriconazole if the maintenance dose of voriconazole is increased from 4 mg/kg to 5 mg/kg intravenously every 12 hours or from 200 mg to 400 mg orally, every 12 hours (100 mg to 200 mg orally, every 12 hours in patients less than 40 kg) [see Dosage and Administration (2.4) and Drug Interactions (7)].
+Phenytoin may be coadministered with voriconazole if the maintenance dose of voriconazole is increased from 4 mg/kg to 5 mg/kg intravenously every 12 hours or from 200 mg to 400 mg orally, every 12 hours (100 mg to 200 mg orally, every 12 hours in patients less than 40 kg) [see Dosage and Administration (2.4), and Drug Interactions (7)].
 
 Repeat dose administration of voriconazole (400 mg q12h × 10 days) increased the steady state Cmax and AUCτ of phenytoin (300 mg once daily) by an average of 70% and 80%, respectively, in healthy subjects.
 The increase in phenytoin Cmax and AUC when coadministered with voriconazole may be expected to be as high as 2 times the Cmax and AUC estimates when phenytoin is given without voriconazole.
@@ -325,9 +325,9 @@ Patients should be frequently monitored for drug toxicity during the coadministr
 
 Other Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTIs) (CYP3A4 substrates, inhibitors or CYP450 inducers)–In vitro studies (human liver microsomes) show that the metabolism of voriconazole may be inhibited by a NNRTI (e.g., delavirdine).
 The findings of a clinical voriconazole-efavirenz drug interaction study in healthy male subjects suggest that the metabolism of voriconazole may be induced by a NNRTI.
-This in vivo study also showed that voriconazole may inhibit the metabolism of a NNRTI [see Drug Interactions (7) and Warnings and Precautions (5.9)].
+This in vivo study also showed that voriconazole may inhibit the metabolism of a NNRTI [see Drug Interactions (7), and Warnings and Precautions (5.9)].
 Patients should be frequently monitored for drug toxicity during the coadministration of voriconazole and other NNRTIs (e.g., nevirapine and delavirdine) [see Warnings and Precautions (5.1)].
-Dose adjustments are required when voriconazole is co-administered with efavirenz [see Drug Interactions (7) and Warnings and Precautions (5.1)].
+Dose adjustments are required when voriconazole is co-administered with efavirenz [see Drug Interactions (7), and Warnings and Precautions (5.1)].
 
 ## 12.4 Microbiology
 
@@ -388,9 +388,9 @@ Table 10: Susceptibility Interpretive Criteria for Voriconazole1,2
 
 NOTE: Shown are the breakpoints (µg/mL) for voriconazole against Candida species.
 
-A report of Susceptible (S) indicates that the antimicrobial drug is likely to inhibit growth of the microorganism if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
-A report of intermediate (I) implies that an infection due to the isolate may be appropriately treated in body sites where the drugs are physiologically concentrated or when a high dosage of drug is used.
-A report of Resistant (R) indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentrations usually achievable at the infection site; other therapy should be selected.
+The susceptible category implies that isolates are inhibited by the usually achievable concentrations of antifungal agent tested when the recommended dosage is used for the site of infection.
+The intermediate category implies that an infection due to the isolate may be appropriately treated in body sites where the drugs are physiologically concentrated or when a high dosage of drug is used.
+The resistant category implies that isolates are not inhibited by the usually achievable concentrations of the agent with normal dosage schedules and clinical efficacy of the agent against the isolate has not been reliably shown in treatment studies.
 
 Quality Control
 

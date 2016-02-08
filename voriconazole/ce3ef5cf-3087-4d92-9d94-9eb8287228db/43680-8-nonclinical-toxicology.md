@@ -15,4 +15,4 @@ Voriconazole administration induced no impairment of male or female fertility in
 
 ## 13.2 Teratogenic Effects
 
-Pregnancy category D [see Warnings and Precautions (5.4) and Use in Specific Populations (8.1)].
+Pregnancy category D [see Warnings and Precautions (5.4), and Use in Specific Populations (8.1)].
