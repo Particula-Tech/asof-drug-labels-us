@@ -160,9 +160,3 @@ Disposal of Injection Materials
   Follow the directions on your disposal container for proper disposal procedures.
 - 2.Do not re-use or share needles or syringes.
   As with all prescription medicines, do not allow anyone else to use your medicine.
-
-Rx only
-
-LAB-0009-4.0
-
-June 2014

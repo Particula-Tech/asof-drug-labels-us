@@ -21,7 +21,7 @@ Therefore, the use of such combinations is not recommended.
 The patient should be instructed not to re-use or to share needles or syringes.
 As with all prescription medicines, the patient should not allow anyone else to use his medicine.
 
-### Benzyl alcohol
+## Benzyl alcohol
 
 The preservative benzyl alcohol has been associated with serious adverse events, including the "gasping syndrome", and death in pediatric patients.
 The minimum amount of benzyl alcohol at which toxicity may occur is not known.
