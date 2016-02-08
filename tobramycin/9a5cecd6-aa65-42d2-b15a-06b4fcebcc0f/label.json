@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA050789"
+  ],
+  "inn": "tobramycin",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "63323-303-55"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "tobramycin sulfate",
+      "name": "Tobramycin"
+    }
+  ],
+  "setid": "9a5cecd6-aa65-42d2-b15a-06b4fcebcc0f",
+  "source": "dailymed"
+}
