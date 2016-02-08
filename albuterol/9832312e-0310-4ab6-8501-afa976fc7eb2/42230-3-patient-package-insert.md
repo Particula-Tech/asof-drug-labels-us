@@ -62,12 +62,12 @@ Keep your COMBIVENT RESPIMAT cartridge and inhaler out of the reach of children.
 
 Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
-COMBIVENT® and RESPIMAT® are registered trademarks and are used under license from Boehringer Ingelheim International GmbH
+RESPIMAT® is a registered trademark of and used under license from Boehringer Ingelheim International GmbH COMBIVENT® is a registered trademark of Boehringer Ingelheim Pharmaceuticals, Inc.
 
-Copyright © 2014 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2016 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: October 2014
+Revised: January 2016
 
-OT24008GJ302014 304000-02
+OT24008HB032016 304000-03

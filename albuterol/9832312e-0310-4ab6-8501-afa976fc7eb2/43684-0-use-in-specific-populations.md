@@ -22,7 +22,7 @@ This effect is not considered relevant to human use due to the large doses at wh
 #### Albuterol
 
 Albuterol has been shown to be teratogenic in mice and rabbits.
-A reproduction study in CD-1 mice given albuterol subcutaneously showed cleft palate formation in 5 of 111 (4.5%) fetuses at approximately equivalent to the MRHDID in adults (on a mg/m2 basis at a maternal dose of 0.25 mg/kg/day) and in 10 of 183 (9.3%) fetuses at approximately 14 times the MRHDID in adults (on a mg/m2 basis a maternal dose of 2.5 mg/kg/day).
+A reproduction study in CD-1 mice given albuterol subcutaneously showed cleft palate formation in 5 of 111 (4.5%) fetuses at approximately equivalent to the MRHDID in adults (on a mg/m2 basis at a maternal dose of 0.25 mg/kg/day) and in 10 of 183 (9.3%) fetuses at approximately 14 times the MRHDID in adults (on a mg/m2 basis at a maternal dose of 2.5 mg/kg/day).
 None was observed at less than MRHDID in adults (on a mg/m2 basis at a maternal dose of 0.025 mg/kg/day).
 Cleft palate also occurred in 22 of 72 (30.5%) fetuses treated with 2.5 mg/kg/day isoproterenol (positive control).
 A reproductive study with oral albuterol in Stride Dutch rabbits revealed cranioschisis in 7 of 19 (37%) fetuses at approximately 1,100 times the MRHDID in adults (on a mg/m2 basis at a maternal dose of 50 mg/kg/day).

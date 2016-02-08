@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-Use of albuterol, a beta-adrenergic agonist, may be associated with the following:
+Use of albuterol, a beta2-adrenergic agonist, may be associated with the following:
 
 - Paradoxical bronchospasm [see Warnings and Precautions (5.1)]
 - Cardiovascular effects [see Warnings and Precautions (5.2)]
@@ -69,7 +69,7 @@ In addition to the adverse reactions reported during clinical trials, the follow
 Since CFC-propelled Combivent Inhalation Aerosol and Combivent Respimat contain the same active ingredients, one should take into account the fact that the adverse reactions seen with CFC-propelled Combivent Inhalation Aerosol could also occur with Combivent Respimat.
 Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Eye disorders: glaucoma, blurred vision, mydriasis, conjunctival hyperemia, halo vision, accommodation disorder ocular irritation and corneal edema Gastrointestinal disorders: gastrointestinal motility disorder, drying of secretions, stomatitis and mouth edema Immune system disorders: hypersensitivity; Investigations: intraocular pressure increased, blood pressure diastolic decreased and blood pressure systolic increased Musculoskeletal and connective tissue disorders: muscular weakness Psychiatric disorders: CNS stimulation, mental disorder Respiratory, thoracic, and mediastinal disorders: throat irritation, paradoxical bronchospasm, wheezing, nasal congestion and pharyngeal edema Skin and subcutaneous tissue disorders: angioedema, hyperhidrosis, and skin reaction Urinary disorders: urinary retention Cardiac disorders: myocardial ischemia
+Eye disorders: glaucoma, blurred vision, mydriasis, conjunctival hyperemia, halo vision, accommodation disorder, ocular irritation and corneal edema Gastrointestinal disorders: gastrointestinal motility disorder, drying of secretions, stomatitis and mouth edema Immune system disorders: hypersensitivity; Investigations: intraocular pressure increased, blood pressure diastolic decreased and blood pressure systolic increased Musculoskeletal and connective tissue disorders: muscular weakness Psychiatric disorders: CNS stimulation, mental disorder Respiratory, thoracic, and mediastinal disorders: throat irritation, paradoxical bronchospasm, wheezing, nasal congestion and pharyngeal edema Skin and subcutaneous tissue disorders: angioedema, hyperhidrosis, and skin reaction Urinary disorders: urinary retention Cardiac disorders: myocardial ischemia
 
 Allergic-type reactions such as skin reactions including rash, pruritus, and urticaria (including giant urticaria), angioedema including that of tongue, lips and face, laryngospasm, and anaphylactic reaction have also been reported with CFC-propelled COMBIVENT Inhalation Aerosol, with positive re-challenge in some cases [see Warnings and Precautions (5.6)].
 

@@ -7,7 +7,7 @@ Prior to first use, the COMBIVENT RESPIMAT cartridge is inserted into the COMBIV
 When using the unit for the first time, patients are to actuate the inhaler toward the ground until an aerosol cloud is visible and then repeat the process three more times.
 The unit is then considered primed and ready for use.
 If not used for more than 3 days, patients are to actuate the inhaler once to prepare the inhaler for use.
-If not used for more than 21 days, patients are to actuate the inhaler until an aerosol cloud is visible and then repeat the process three more times to prepare the inhaler for use [see Patient Counseling Information (17.4)].
+If not used for more than 21 days, patients are to actuate the inhaler until an aerosol cloud is visible and then repeat the process three more times to prepare the inhaler for use [see Patient Counseling Information (17)].
 
 Safety and efficacy of additional doses of COMBIVENT RESPIMAT beyond six inhalations/24 hours have not been studied.
 Also, safety and efficacy of extra doses of ipratropium or albuterol in addition to the recommended doses of COMBIVENT RESPIMAT have not been studied.

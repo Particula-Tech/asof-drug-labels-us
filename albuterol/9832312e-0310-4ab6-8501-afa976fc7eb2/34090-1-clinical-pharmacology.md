@@ -26,7 +26,7 @@ Albuterol acts as a functional antagonist to relax the airway irrespective of th
 Increased cyclic AMP concentrations are also associated with the inhibition of release of mediators from mast cells in the airway.
 
 Albuterol has been shown in most clinical trials to have more bronchial smooth muscle relaxation effect than isoproterenol at comparable doses while producing fewer cardiovascular effects.
-However, all beta-adrenergic drugs, including albuterol sulfate, can produce a significant cardiovascular effect in some patients [see Warnings and Precautions (5.2)].
+However, all beta-adrenergic agonist drugs, including albuterol sulfate, can produce a significant cardiovascular effect in some patients [see Warnings and Precautions (5.2)].
 
 ## 12.2 Pharmacodynamics
 

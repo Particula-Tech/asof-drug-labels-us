@@ -2,8 +2,8 @@ Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 
 
 Address medical inquiries to: (800) 542-6257 or 800 459-9906 TTY.
 
-COMBIVENT® and RESPIMAT® are registered trademarks and used under license from Boehringer Ingelheim International GmbH
+RESPIMAT® is a registered trademark of and used under license from Boehringer Ingelheim International GmbH COMBIVENT® is a registered trademark of Boehringer Ingelheim Pharmaceuticals, Inc.
 
-Copyright © 2014 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2016 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-OT24008GJ302014 304000-02
+OT24008HB032016 304000-03
