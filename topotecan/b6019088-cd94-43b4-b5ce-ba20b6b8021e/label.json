@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA091089"
+  ],
+  "inn": "topotecan",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "63323-762-10",
+    "63323-762-17"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "topotecan hydrochloride",
+      "name": "Topotecan Hydrochloride"
+    }
+  ],
+  "setid": "b6019088-cd94-43b4-b5ce-ba20b6b8021e",
+  "source": "dailymed"
+}
