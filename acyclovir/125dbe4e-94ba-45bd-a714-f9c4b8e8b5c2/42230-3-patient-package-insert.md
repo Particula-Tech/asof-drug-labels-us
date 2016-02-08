@@ -1,6 +1,6 @@
 # PATIENT INFORMATION ZOVIRAX (zho-vahy-rex) (acyclovir) Cream, 5%
 
-Important Information: ZOVIRAX Cream is for use on cold sores on the lips and around the mouth only.
+Important information: ZOVIRAX Cream is for use on cold sores on the lips and around the mouth only.
 ZOVIRAX Cream should not be used in your eyes, mouth, nose, or on your genitals.
 
 What is ZOVIRAX Cream?
@@ -66,12 +66,14 @@ Active ingredient: acyclovir
 
 Inactive ingredients: cetostearyl alcohol, mineral oil, poloxamer 407, propylene glycol, sodium lauryl sulfate, water, and white petrolatum
 
-Distributed by: Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 08807
+Manufactured for: Valeant Pharmaceuticals North America LLC,
 
-Manufactured by: GlaxoSmithKline, Mississauga, Ontario L5N 6L4 Canada
+Bridgewater NJ 08807 USA
+
+By: Valeant Pharmaceuticals International Inc. Laval, Quebec H7L 4A8, Canada
 
 For more information, call 1-800-321-4576.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: 04/2014 9386500
+Revised: 06/2015
