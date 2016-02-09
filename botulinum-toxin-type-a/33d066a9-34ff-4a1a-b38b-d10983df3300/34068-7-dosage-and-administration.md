@@ -10,7 +10,7 @@ When initiating treatment, the lowest recommended dose should be used.
 In treating adult patients for one or more indications, the maximum cumulative dose should not exceed 400 Units, in a 3 month interval.
 
 The safe and effective use of BOTOX depends upon proper storage of the product, selection of the correct dose, and proper reconstitution and administration techniques.
-An understanding of standard electromyographic techniques is also required for treatment of strabismus and of upper limb spasticity, and may be useful for the treatment of cervical dystonia.
+An understanding of standard electromyographic techniques is also required for treatment of strabismus, upper or lower limb spasticity, and may be useful for the treatment of cervical dystonia.
 Physicians administering BOTOX must understand the relevant neuromuscular and structural anatomy of the area involved and any alterations to the anatomy due to prior surgical procedures and disease, especially when injecting near the lungs.
 
 ## 2.2 Preparation and Dilution Technique
@@ -141,9 +141,20 @@ Table 2: BOTOX Dosing by Muscle for Chronic Migraine
 | a Each IM injection site = 0.1 mL = 5 Units BOTOX |  |
 | b Dose distributed bilaterally |  |
 
-## 2.5 Upper Limb Spasticity
+## 2.5 Spasticity
 
 Dosing in initial and sequential treatment sessions should be tailored to the individual based on the size, number and location of muscles involved, severity of spasticity, the presence of local muscle weakness, the patient's response to previous treatment, or adverse event history with BOTOX.
+
+The recommended dilution is 200 Units/4 mL or 100 Units/2 mL with preservative-free 0.9% Sodium Chloride Injection, USP (see Table 1).
+The lowest recommended starting dose should be used, and no more than 50 Units per site should generally be administered.
+An appropriately sized needle (e.g., 25-30 gauge) may be used for superficial muscles, and a longer 22 gauge needle may be used for deeper musculature.
+Localization of the involved muscles with techniques such as needle electromyographic guidance or nerve stimulation is recommended.
+
+Repeat BOTOX treatment may be administered when the effect of a previous injection has diminished, but generally no sooner than 12 weeks after the previous injection.
+The degree and pattern of muscle spasticity at the time of re-injection may necessitate alterations in the dose of BOTOX and muscles to be injected.
+
+Upper Limb Spasticity
+
 In clinical trials, doses ranging from 75 Units to 400 Units were divided among selected muscles (see Table 3 and Figure 2) at a given treatment session.
 
 Table 3: BOTOX Dosing by Muscle for Upper Limb Spasticity
@@ -160,13 +171,22 @@ Table 3: BOTOX Dosing by Muscle for Upper Limb Spasticity
 
 Figure 2: Injection Sites for Upper Limb Spasticity
 
-The recommended dilution is 200 Units/4 mL or 100 Units/2 mL with preservative-free 0.9% Sodium Chloride Injection, USP (see Table 1).
-The lowest recommended starting dose should be used, and no more than 50 Units per site should generally be administered.
-An appropriately sized needle (e.g., 25-30 gauge) may be used for superficial muscles, and a longer 22 gauge needle may be used for deeper musculature.
-Localization of the involved muscles with techniques such as needle electromyographic guidance or nerve stimulation is recommended.
+Lower Limb Spasticity
 
-Repeat BOTOX treatment may be administered when the effect of a previous injection has diminished, but generally no sooner than 12 weeks after the previous injection.
-The degree and pattern of muscle spasticity at the time of re-injection may necessitate alterations in the dose of BOTOX and muscles to be injected.
+The recommended dose for treating lower limb spasticity is 300 Units to 400 Units divided among 5 muscles (gastrocnemius, soleus, tibialis posterior, flexor hallucis longus and flexor digitorum longus) (see Table 4 and Figure 3).
+
+Table 4: BOTOX Dosing by Muscle for Lower Limb Spasticity
+
+| Muscle | Recommended Dose Total Dosage (Number of Sites) |
+| --- | --- |
+| Gastrocnemius medial head | 75 Units divided in 3 sites |
+| Gastrocnemius lateral head | 75 Units divided in 3 sites |
+| Soleus | 75 Units divided in 3 sites |
+| Tibialis Posterior | 75 Units divided in 3 sites |
+| Flexor hallucis longus | 50 Units divided in 2 sites |
+| Flexor digitorum longus | 50 Units divided in 2 sites |
+
+Figure 3: Injection Sites for Lower Limb Spasticity
 
 ## 2.6 Cervical Dystonia
 
@@ -179,8 +199,7 @@ The initial dose for a patient without prior use of BOTOX should be at a lower d
 Limiting the total dose injected into the sternocleidomastoid muscle to 100 Units or less may decrease the occurrence of dysphagia [see Warnings and Precautions (5.2, 5.5, 5.6)].
 
 The recommended dilution is 200 Units/2 mL, 200 Units/4 mL, 100 Units/1 mL, or 100 Units/2 mL with preservative-free 0.9% Sodium Chloride Injection, USP, depending on volume and number of injection sites desired to achieve treatment objectives (see Table 1).
-In general, no more than 50 Units per site should be administered.
-An appropriately sized needle (e.g., 25-30 gauge) may be used for superficial muscles, and a longer 22 gauge needle may be used for deeper musculature.
+In general, no more than 50 Units per site should be administered using a sterile needle (e.g., 25-30 gauge) of an appropriate length.
 Localization of the involved muscles with electromyographic guidance may be useful.
 
 Clinical improvement generally begins within the first two weeks after injection with maximum clinical benefit at approximately six weeks post-injection.
@@ -191,7 +210,7 @@ In the double-blind, placebo-controlled study most subjects were observed to hav
 The recommended dose is 50 Units per axilla.
 The hyperhidrotic area to be injected should be defined using standard staining techniques, e.g., Minor's Iodine-Starch Test.
 The recommended dilution is 100 Units/4 mL with 0.9% preservative-free sterile saline (see Table 1).
-Using a 30 gauge needle, 50 Units of BOTOX (2 mL) is injected intradermally in 0.1 to 0.2 mL aliquots to each axilla evenly distributed in multiple sites (10-15) approximately 1-2 cm apart.
+Using a sterile 30 gauge needle, 50 Units of BOTOX (2 mL) is injected intradermally in 0.1 to 0.2 mL aliquots to each axilla evenly distributed in multiple sites (10-15) approximately 1-2 cm apart.
 
 Repeat injections for hyperhidrosis should be administered when the clinical effect of a previous injection diminishes.
 
@@ -205,9 +224,9 @@ Gently blow off any excess starch powder.
 The hyperhidrotic area will develop a deep blue-black color over approximately 10 minutes.
 
 Each injection site has a ring of effect of up to approximately 2 cm in diameter.
-To minimize the area of no effect, the injection sites should be evenly spaced as shown in Figure 3.
+To minimize the area of no effect, the injection sites should be evenly spaced as shown in Figure 4.
 
-Figure 3: Injection Pattern for Primary Axillary Hyperhidrosis
+Figure 4: Injection Pattern for Primary Axillary Hyperhidrosis
 
 Each dose is injected to a depth of approximately 2 mm and at a 45° angle to the skin surface, with the bevel side up to minimize leakage and to ensure the injections remain intradermal.
 If injection sites are marked in ink, do not inject BOTOX directly through the ink mark to avoid a permanent tattoo effect.

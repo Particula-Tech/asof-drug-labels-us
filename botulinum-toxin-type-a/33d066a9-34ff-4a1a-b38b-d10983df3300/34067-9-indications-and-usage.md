@@ -18,13 +18,19 @@ Important limitations
 
 Safety and effectiveness have not been established for the prophylaxis of episodic migraine (14 headache days or fewer per month) in seven placebo-controlled studies.
 
-## 1.3 Upper Limb Spasticity
+## 1.3 Spasticity
+
+Upper Limb Spasticity
 
 BOTOX is indicated for the treatment of upper limb spasticity in adult patients, to decrease the severity of increased muscle tone in elbow flexors (biceps), wrist flexors (flexor carpi radialis and flexor carpi ulnaris), finger flexors (flexor digitorum profundus and flexor digitorum sublimis), and thumb flexors (adductor pollicis and flexor pollicis longus).
 
+Lower Limb Spasticity
+
+BOTOX is indicated for the treatment of lower limb spasticity in adult patients to decrease the severity of increased muscle tone in ankle and toe flexors (gastrocnemius, soleus, tibialis posterior, flexor hallucis longus, and flexor digitorum longus).
+
 Important limitations
 
-Safety and effectiveness of BOTOX have not been established for the treatment of other upper limb muscle groups, or for the treatment of lower limb spasticity.
+Safety and effectiveness of BOTOX have not been established for the treatment of other upper or lower limb muscle groups.
 Safety and effectiveness of BOTOX have not been established for the treatment of spasticity in pediatric patients under age 18 years.
 BOTOX has not been shown to improve upper extremity functional abilities, or range of motion at a joint affected by a fixed contracture.
 Treatment with BOTOX is not intended to substitute for usual standard of care rehabilitation regimens.

@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Medication Guide)
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Swallowing, Speaking or Breathing Difficulties, or Other Unusual Symptoms
 
@@ -8,7 +8,7 @@ Advise patients to inform their doctor or pharmacist if they develop any unusual
 
 Ability to Operate Machinery or Vehicles
 
-Advise patients that if loss of strength, muscle weakness, blurred vision, or drooping eyelids occur, they should avoid driving a car or engaging in other potentially hazardous activities.
+Advise patients that if loss of strength, muscle weakness, blurred vision, dizziness, or drooping eyelids occur, they should avoid driving a car or engaging in other potentially hazardous activities.
 
 Voiding Symptoms after Bladder Injections
 
