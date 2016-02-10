@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA205692"
+  ],
+  "inn": "insulin-glargine",
+  "labeler": "Eli Lilly and Company",
+  "package_ndcs": [
+    "0002-7711-01",
+    "0002-7711-59"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "insulin glargine",
+      "name": "BASAGLAR"
+    }
+  ],
+  "setid": "0ad21db3-2b1c-4ed9-a687-bdd6a74d0aae",
+  "source": "dailymed"
+}
