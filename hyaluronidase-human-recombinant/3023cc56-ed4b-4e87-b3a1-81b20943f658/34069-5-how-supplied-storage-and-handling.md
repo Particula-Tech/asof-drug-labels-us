@@ -4,7 +4,7 @@ HYLENEX recombinant is supplied sterile as 150 USP units of nonpreserved recombi
 
 HYLENEX recombinant is supplied in the following packaging:
 
-1 mL Single Dose Vial (NDC 18657-117-01) available in boxes of 4 (NDC 18657-117-04) or 10 (NDC 18657-117-10)
+1 mL Single Dose Vial (NDC 18657-117-01) available in boxes of 4 (NDC 18657-117-04)
 
 Store unopened in a refrigerator at 2° to 8°C (36° to 46° F).
 

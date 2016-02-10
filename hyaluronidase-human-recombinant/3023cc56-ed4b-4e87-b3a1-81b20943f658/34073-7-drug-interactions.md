@@ -6,6 +6,8 @@ It is recommended that appropriate references be consulted regarding physical or
 
 Furosemide, the benzodiazepines and phenytoin have been found to be incompatible with hyaluronidase.
 
+Admixture stability studies have shown that 2% lidocaine with 1:100,000 or 1:200,000 epinephrine is incompatible with hyaluronidase due to the presence of sodium metabisulfite, a common additive in anesthetic products containing epinephrine.
+
 ## 7.2 Drug-Specific Precautions
 
 Hyaluronidase should not be used to enhance the dispersion and absorption of dopamine and/or alpha agonist drugs.
