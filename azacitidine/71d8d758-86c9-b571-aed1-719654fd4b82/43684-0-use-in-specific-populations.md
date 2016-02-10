@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [see Warning and Precautions (5.5)]
+Pregnancy Category D [see Warning and Precautions (5.4)]
 
 Azacitidine for injection may cause fetal harm when administered to a pregnant woman.
 Azacitidine was teratogenic in animals.

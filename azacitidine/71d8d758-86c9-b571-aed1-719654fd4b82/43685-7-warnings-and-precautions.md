@@ -25,7 +25,7 @@ Also, azacitidine and its metabolites are primarily excreted by the kidney.
 Therefore, these patients should be closely monitored for toxicity [see Dosage and Administration (2.4, 2.5)].
 Patients with MDS and renal impairment were excluded from the clinical studies.
 
-## 5.5 Use in Pregnancy
+## 5.4 Use in Pregnancy
 
 Azacitidine for injection may cause fetal harm when administered to a pregnant woman.
 Azacitidine caused congenital malformations in animals.
@@ -33,7 +33,7 @@ Women of childbearing potential should be advised to avoid pregnancy during trea
 There are no adequate and well-controlled studies in pregnant women using azacitidine for injection.
 If this drug is used during pregnancy or if a patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus [see Use in Specific Populations (8.1)].
 
-## 5.6 Use in Males
+## 5.5 Use in Males
 
 Men should be advised to not father a child while receiving treatment with azacitidine for injection.
 In animal studies, pre-conception treatment of male mice and rats resulted in increased embryofetal loss in mated females [see Nonclinical Toxicology (13)].
