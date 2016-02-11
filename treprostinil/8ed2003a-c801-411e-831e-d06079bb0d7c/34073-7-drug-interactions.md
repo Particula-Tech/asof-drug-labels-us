@@ -11,4 +11,4 @@ Treprostinil inhibits platelet aggregation; there is increased risk of bleeding,
 ## 7.3 Effect of CYP2C8 Inhibitors
 
 Co-administration of Orenitram and the CYP2C8 enzyme inhibitor gemfibrozil in healthy adult volunteers increases exposure to treprostinil.
-Reduce the starting dose of Orenitram to 0.125 mg BID and use 0.125 mg BID increments every 3 to 4 days [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
+Reduce the starting dose of Orenitram to 0.125 mg BID and use 0.125 mg BID increments every 3 to 4 days [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].

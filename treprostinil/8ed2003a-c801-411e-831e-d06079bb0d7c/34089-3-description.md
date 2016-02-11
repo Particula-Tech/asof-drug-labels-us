@@ -8,7 +8,7 @@ The molecular formula is C23H34O5.C4H11NO2, the molecular weight is 495.65, and 
 Orenitram tablets are formulated in four strengths, which contain 0.125 mg of treprostinil (equivalent to 0.159 mg treprostinil diolamine), 0.25 mg of treprostinil (equivalent to 0.317 mg treprostinil diolamine), 1 mg of treprostinil (equivalent to 1.27 mg treprostinil diolamine), or 2.5 mg of treprostinil (equivalent to 3.17 mg treprostinil diolamine).
 The formulations also contain xylitol, maltodextrin, sodium lauryl sulfate, magnesium stearate, cellulose acetate, triethyl citrate, polyvinyl alcohol, titanium dioxide, polyethylene glycol, and talc.
 In addition tablets may contain colorants FD&C Blue #2, iron oxide yellow, and iron oxide red.
-The imprinting ink contains shellac glaze, ethanol, isopropyl alcohol USP, iron oxide black, n-butyl alcohol, propylene glycol, and ammonium hydroxide.
+The imprinting ink contains shellac glaze, ethanol, isopropyl alcohol USP, iron oxide black, n-butyl alcohol, and propylene glycol.
 
 Orenitram is designed to release treprostinil at a near zero-order rate using an osmotic tablet technology.
 The tablet core is coated with a semi-permeable membrane and has a laser-drilled aperture through the membrane.

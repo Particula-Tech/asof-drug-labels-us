@@ -54,7 +54,7 @@ In general, dose selection for an elderly patient should be cautious, reflecting
 
 ## 8.6 Patients with Hepatic Impairment
 
-There is a marked increase in the systemic exposure to treprostinil in hepatically impaired patients [see Dosage and Administration (2.2), Contraindications (4), and Clinical Pharmacology (12.3)].
+There is a marked increase in the systemic exposure to treprostinil in hepatically impaired patients [see Dosage and Administration (2.3), Contraindications (4), and Clinical Pharmacology (12.3)].
 
 ## 8.7 Patients with Renal Impairment
 

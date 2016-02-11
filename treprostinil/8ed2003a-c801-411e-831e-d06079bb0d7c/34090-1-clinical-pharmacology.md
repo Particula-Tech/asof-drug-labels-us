@@ -20,14 +20,17 @@ Absorption
 
 The absolute oral bioavailability of Orenitram is approximately 17%.
 Maximum treprostinil concentrations occur between approximately 4 and 6 hours following Orenitram administration.
+Time to reach steady-state concentrations for both BID and TID regimens is approximately 1 to 2 days.
 
 The absorption of Orenitram is affected by food.
 The AUCinf of treprostinil was increased by 49% and the Cmax was increased by an average of 13% when Orenitram was administered following a high-fat, high-calorie meal compared to fasting conditions in healthy volunteers.
 The relative bioavailability of treprostinil following oral administration of Orenitram 1 mg is not significantly altered by meal types ranging from 250 to 500 calories in healthy volunteers.
 
+When Orenitram 1 mg was administered with alcohol at 0.5 mg/kg or the equivalent of 3 servings (at the same time, or ± 1 hour relative to alcohol consumption), there was no significant change (10% to 20% increase) in the exposure to treprostinil compared to Orenitram administered alone.
+
 Distribution
 
-The treprostinil component of Orenitram is highly bound to human plasma proteins, approximately 96% over a treprostinil concentration range of 0.01-10 µg/mL.
+The treprostinil component of Orenitram is highly bound to human plasma proteins, approximately 96% over a treprostinil concentration range of 0.01-10 μg/mL.
 
 Metabolism and Excretion
 
@@ -37,17 +40,17 @@ No new metabolites are found upon oral administration compared to parenteral adm
 Only 1.13% and 0.19% is excreted as unchanged parent drug in the feces and urine, respectively.
 Based on in vitro studies treprostinil does not inhibit or induce major CYP enzymes [see Drug Interactions (7.3)].
 
-Special Populations
+Specific Populations
 
 Hepatic Impairment: In subjects with mild (n=8) hepatic impairment, administration of a single 1 mg dose of Orenitram resulted in a mean Cmax and an AUC0-inf that were 1.6- and 2.1-fold, respectively values seen in healthy subjects.
-With moderate impairment (n=8), the corresponding ratios were 4.0- and 4.8-fold, and with severe impairment (n=6), they were 4.8- and 7.6-fold [see Dosage and Administration (2.2), Contraindications (4), and Use in Specific Populations (8.6)].
+With moderate impairment (n=8), the corresponding ratios were 4.0- and 4.8-fold, and with severe impairment (n=6), they were 4.8- and 7.6-fold [see Dosage and Administration (2.3), Contraindications (4), and Use in Specific Populations (8.6)].
 
-Renal Impairment: In patients with severe renal impairment requiring dialysis (n=8), administration of a single 1 mg dose of Orenitram pre- and post-dialysis resulted in an AUC 0-inf that was not significantly altered compared to healthy subjects.
+Renal Impairment: In patients with severe renal impairment requiring dialysis (n=8), administration of a single 1 mg dose of Orenitram pre- and post-dialysis resulted in an AUC0-inf that was not significantly altered compared to healthy subjects.
 
 Drug Interactions
 
 Results of drug interaction studies are shown in Figure 1.
-Only for the strong CYP2C8 inhibitor does the interaction affect dosing.
+Only for the strong CYP2C8 inhibitor does the interaction affect dosing [see Dosage and Administration (2.4)].
 
 Figure 1: Impact of Co-Administered Drugs on the Systemic Exposure of Treprostinil 1 mg Compared to Orenitram Administered Alone
 
