@@ -1,6 +1,7 @@
 # CONTRAINDICATIONS
 
 Hydroxyzine hydrochloride intramuscular solution is intended only for intramuscular administration and should not, under any circumstances, be injected subcutaneously, intra-arterially or intravenously.
+Hydroxyzine is contraindicated in patients with a prolonged QT interval.
 
 This drug is contraindicated for patients who have shown a previous hypersensitivity to it.
 

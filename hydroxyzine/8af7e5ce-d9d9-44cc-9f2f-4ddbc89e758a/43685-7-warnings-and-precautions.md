@@ -46,3 +46,9 @@ The extent of renal excretion of hydroxyzine hydrochloride has not been determin
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selections.
 
 Sedating drugs may cause confusion and over-sedation in the elderly; elderly patients generally should be started on low doses of hydroxyzine hydrochloride and observed closely.
+CASES OF QT PROLONGATION AND TORSADE DE POINTES HAVE BEEN REPORTED DURING POST-MARKETING USE OF HYDROXYZINE.
+The majority of reports occurred in patients with other risk factors for QT prolongation or Torsade de Pointes (pre-existing heart disease, electrolyte imbalances or concomitant arrhythmogenic drug use).
+Therefore, hydroxyzine should be used with caution in patients with risk factors for QT prolongation, congenital long QT syndrome, a family history of long QT syndrome, other conditions that predispose to QT prolongation and ventricular arrhythmia, as well as recent myocardial infarction, uncompensated heart failure, and bradyarrhythmias.
+
+Caution is recommended during the concomitant use of drugs known to prolong the QT interval.
+These include Class 1A (e.g., quinidine, procainamide) or Class III (e.g., amiodarone, sotalol) antiarrhythmics, certain antipsychotics (e.g., ziprasidone, iloperidone, clozapine, quetiapine, chlorpromazine), certain antidepressants (e.g., citalopram, fluoxetine), certain antibiotics (e.g., azithromycin, erythromycin, clarithromycin, gatifloxacin, moxifloxacin); and others (e.g., pentamidine, methadone, ondansetron, droperidol).
