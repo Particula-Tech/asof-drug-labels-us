@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA203212"
+  ],
+  "inn": "chlorhexidine",
+  "labeler": "Colgate Oral Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "0126-0272-16"
+  ],
+  "products": [
+    {
+      "form": "RINSE",
+      "generic": "chlorhexidine gluconate",
+      "name": "PerioGard Alcohol Free"
+    }
+  ],
+  "setid": "1aaad8d7-b6be-43a2-b3a2-12501a2fcdca",
+  "source": "dailymed"
+}
