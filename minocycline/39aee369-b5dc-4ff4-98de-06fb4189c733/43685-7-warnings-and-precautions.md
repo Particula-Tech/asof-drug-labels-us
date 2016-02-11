@@ -48,7 +48,7 @@ These symptoms may disappear during therapy and usually disappear rapidly when t
 Clostridium difficile Associated Diarrhea
 
 Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including MINOCIN®, and may range in severity from mild diarrhea to fatal colitis.
-Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C.difficile.
+Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
 Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
@@ -60,7 +60,7 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 
 Intracranial Hypertension
 
-Intracranial hypertension (IH, pseudotumor cerebri) has been associated with the use of tetracylcines including Minocin.
+Intracranial hypertension (IH, pseudotumor cerebri) has been associated with the use of tetracyclines including Minocin.
 Clinical manifestations of IH include headache, blurred vision, diplopia, and vision loss; papilledema can be found on fundoscopy.
 Women of childbearing age who are overweight or have a history of IH are at greater risk for developing tetracycline associated IH.
 Concomitant use of isotretinoin and Minocin should be avoided because isotretinoin is also known to cause pseudotumor cerebri.

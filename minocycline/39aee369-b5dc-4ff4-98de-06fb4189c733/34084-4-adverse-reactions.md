@@ -16,7 +16,7 @@ Hepatic toxicity: Hyperbilirubinemia, hepatic cholestasis, increases in liver en
 Hepatitis, including autoimmune hepatitis, and liver failure have been reported.
 (See PRECAUTIONS.)
 
-Skin: Alopecia, erythema nodosum, hyper-pigmentation of nails, pruritus, toxic epidermal necrolysis, and vasculitis.
+Skin: Alopecia, erythema nodosum, hyperpigmentation of nails, pruritus, toxic epidermal necrolysis, and vasculitis.
 Maculopapular and erythematous rashes.
 Exfoliative dermatitis has been reported.
 Fixed drug eruptions have been reported.

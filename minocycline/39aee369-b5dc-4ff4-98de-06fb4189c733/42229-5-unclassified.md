@@ -52,29 +52,29 @@ Table 1: Susceptibility Test Interpretive Criteria for Minocycline and Tetracycl
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | S | I | R | S | I | R | S | I | R |
 | EnterobacteriaceaeOrganisms that are susceptible to tetracycline are also considered susceptible to minocycline. However some organisms that are intermediate or resistant to tetracycline may be susceptible to minocycline. |  |  |  |  |  |  |  |  |  |
-| Minocycline | < 4 | 8 | > 16 | > 16 | 13 - 15 | < 12 |  |  |  |
-| Tetracycline | < 4 | 8 | > 16 | > 15 | 12 - 14 | < 11 |  |  |  |
+| Minocycline | ≤ 4 | 8 | ≥16 | ≥16 | 13 - 15 | ≤12 |  |  |  |
+| Tetracycline | ≤ 4 | 8 | ≥16 | ≥15 | 12 - 14 | ≤11 |  |  |  |
 | Acinetobacter |  |  |  |  |  |  |  |  |  |
-| Minocycline | < 4 | 8 | > 16 | > 16 | 13 - 15 | < 12 |  |  |  |
-| Tetracycline | < 4 | 8 | > 16 | > 15 | 12 - 14 | < 11 |  |  |  |
+| Minocycline | ≤4 | 8 | ≥16 | ≥16 | 13 - 15 | ≤12 |  |  |  |
+| Tetracycline | ≤4 | 8 | ≥16 | ≥15 | 12 - 14 | ≤11 |  |  |  |
 | Haemophilus influenzae |  |  |  |  |  |  |  |  |  |
-| Tetracycline | < 2 | 4 | > 8 | > 29 | 26 - 28 | < 25 |  |  |  |
-| Streptococcus pneumoniae |  |  |  |  |  |  |  |  |  |
-| Tetracycline | < 1 | 2 | > 4 | > 28 | 25 - 27 | < 24 |  |  |  |
+| Tetracycline | ≤2 | 4 | ≥8 | ≥29 | 26 - 28 | ≤25 |  |  |  |
+| Streptococcus pneumoniae’ |  |  |  |  |  |  |  |  |  |
+| Tetracycline | ≤1 | 2 | ≥4 | ≥28 | 25 - 27 | ≤24 |  |  |  |
 | Staphylococcus aureus |  |  |  |  |  |  |  |  |  |
-| Minocycline | < 4 | 8 | > 16 | > 19 | 15 - 18 | < 14 |  |  |  |
-| Tetracycline | < 4 | 8 | > 16 | > 19 | 15 - 18 | < 14 |  |  |  |
+| Minocycline | ≤4 | 8 | ≥16 | ≥19 | 15 - 18 | ≤14 |  |  |  |
+| Tetracycline | ≤4 | 8 | ≥16 | ≥19 | 15 - 18 | ≤14 |  |  |  |
 | Vibrio cholerae |  |  |  |  |  |  |  |  |  |
-| Minocycline | < 4 | 8 | > 16 | > 16 | 13 - 15 | < 12 |  |  |  |
-| Tetracycline | < 4 | 8 | > 16 | > 19 | 15 - 18 | < 14 |  |  |  |
+| Minocycline | ≤4 | 8 | ≥16 | ≥16 | 13 - 15 | ≤12 |  |  |  |
+| Tetracycline | ≤4 | 8 | ≥16 | ≥19 | 15 - 18 | ≤14 |  |  |  |
 | Neisseria meningitidisThe current absence of resistance isolates precludes defining any result other than “susceptible”. If isolates yielding MIC results other than susceptible, they should be submitted to a reference laboratory for further testing. |  |  |  |  |  |  |  |  |  |
-| Minocycline | -- | -- | -- | > 26 | -- | -- | < 2 | -- | -- |
+| Minocycline | -- | -- | -- | > 26 | -- | -- | ≤2 | -- | -- |
 | Bacillus anthracis |  |  |  |  |  |  |  |  |  |
-| Tetracycline | < 1 | -- | -- |  |  |  |  |  |  |
+| Tetracycline | ≤1 | -- | -- |  |  |  |  |  |  |
 | Francisella tularensis |  |  |  |  |  |  |  |  |  |
-| Tetracycline | < 4 | -- | -- |  |  |  |  |  |  |
+| Tetracycline | ≤4 | -- | -- |  |  |  |  |  |  |
 | Yersinia pestis |  |  |  |  |  |  |  |  |  |
-| Tetracycline | < 4 | 8 | > 16 |  |  |  |  |  |  |
+| Tetracycline | ≤4 | 8 | ≥16 |  |  |  |  |  |  |
 
 A report of “Susceptible” indicates that the antimicrobial drug is likely to inhibit growth of the microorganism if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
 A report of “Intermediate” indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.

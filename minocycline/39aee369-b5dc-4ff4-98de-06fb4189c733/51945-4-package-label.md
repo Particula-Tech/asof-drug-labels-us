@@ -1,6 +1,4 @@
-# PRINCIPAL DISPLAY PANEL
-
-MINOCIN 50 mg (Bottles of 60)
+# PRINCIPAL DISPLAY PANEL - Minocin 50 mg – 60 count
 
 Rx Only
 
@@ -8,7 +6,7 @@ NDC 16781-400-60
 
 MINOCIN®
 
-minocycline HCl
+(minocycline HCl)
 
 Pellet-Filled Capsules
 
@@ -18,9 +16,7 @@ Pellet-Filled Capsules
 
 mg
 
-# Principal Display Panel
-
-MINOCIN 75 mg (Bottles of 60)
+# Principal Display Panel – Minocin 75 mg – 60 count
 
 Rx Only
 
@@ -28,7 +24,7 @@ NDC 16781-457-60
 
 MINOCIN®
 
-minocycline HCl
+(minocycline HCl)
 
 pellet-filled capsules
 
@@ -38,9 +34,7 @@ pellet-filled capsules
 
 mg
 
-# Principal Display Panel
-
-MINOCIN 100 mg (Bottles of 60)
+# Principal Display Panel - Minocin 100 mg – 60 count
 
 Rx Only
 
@@ -48,7 +42,7 @@ NDC 16781-403-60
 
 MINOCIN®
 
-minocycline HCl
+(minocycline HCl)
 
 Pellet-Filled Capsules
 

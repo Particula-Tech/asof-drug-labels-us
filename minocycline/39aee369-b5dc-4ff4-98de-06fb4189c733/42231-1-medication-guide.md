@@ -13,7 +13,7 @@ MINOCIN® is used to treat certain infections caused by bacteria.
 These include infections of the skin, respiratory tract, urinary tract, some sexually transmitted diseases, and others.
 MINOCIN® may be used along with other treatments for severe acne.
 
-Sometimes other germs, called viruses, cause infections.
+Sometimes other germs, called viruses cause infections.
 The common cold is a virus.
 MINOCIN®, like other antibiotics, does not treat viruses.
 
@@ -26,15 +26,15 @@ See the end of this leaflet for a complete list of ingredients in MINOCIN®.
 
 MINOCIN® is not recommended for pregnant women or children up to 8 years old because:
 
-- •MINOCIN® may harm an unborn baby
-- •MINOCIN® may permanently turn a baby's or child's teeth yellow-gray-brown during tooth development.
-  Tooth development happens in the last half of pregnancy and birth to age 8 years.
+1. 1.MINOCIN® may harm an unborn baby
+2. 2.MINOCIN® may permanently turn a baby's or child's teeth yellow-gray-brown during tooth development.
+   Tooth development happens in the last half of pregnancy and birth to age 8 years.
 
 What should I tell my doctor before starting MINOCIN® capsules?
 
 Tell your doctor about all of your medical conditions, including if you:
 
-- •have liver or kidney problems.
+- •have liver or kidney problems
 - •are pregnant or planning to become pregnant.
   MINOCIN® may harm your unborn baby.
   Stop taking MINOCIN® and call your doctor if you become pregnant while taking it.
@@ -42,7 +42,7 @@ Tell your doctor about all of your medical conditions, including if you:
   MINOCIN® passes into your milk and may harm your baby.
   You should decide whether to use MINOCIN® or breastfeed, but not both.
 
-Tell your doctor about all the medicines you are taking including prescription and nonprescription medications, vitamins, and herbal supplements.
+Tell your doctor about all the medicines you are taking including prescription and non-prescription medications, vitamins, and herbal supplements.
 MINOCIN® and other medicines may interact.
 Especially tell your doctor if you take:
 
@@ -140,7 +140,7 @@ Patheon Pharmaceuticals Inc. Cincinnati, OH 45237
 
 9438600
 
+03/2015
+
 Rev.
 04
-
-March 2015
