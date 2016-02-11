@@ -9,7 +9,8 @@ Diarrhea is a common problem caused by antibacterial drugs which usually ends wh
 Sometimes after starting treatment with antibacterial drugs, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the drug.
 If this occurs, patients should contact their physician as soon as possible.
 
-For all questions concerning adverse reactions associated with the use of this product or for inquiries concerning our products, please contact us at 1-800-551-7176 or www.fresenius-kabi.us.
+This product’s label may have been updated.
+For current package insert and further product information, please visit www.wgcriticalcare.com or call our medical information and safety department toll-free at 1-866-562-4708.
 
 Manufactured for:
 
