@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA207986"
+  ],
+  "inn": "ciprofloxacin",
+  "labeler": "Otonomy, Inc.",
+  "package_ndcs": [
+    "69251-201-01"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "ciprofloxacin",
+      "name": "Otiprio"
+    }
+  ],
+  "setid": "8365e37a-0b35-497c-aab4-f25053378154",
+  "source": "dailymed"
+}
