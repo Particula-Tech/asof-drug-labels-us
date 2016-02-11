@@ -2,13 +2,18 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D
-
 Risk Summary
 
-Based on the mechanism of action, AFINITOR can cause fetal harm when administered to a pregnant woman.
-Everolimus caused embryo-fetal toxicities in animals at maternal exposures that were lower than human exposures.
-If this drug is used during pregnancy or if the patient becomes pregnant while taking the drug, apprise the patient of the potential hazard to the fetus [see Warnings and Precautions (5.12)].
+Based on animal studies and the mechanism of action [see Clinical Pharmacology (12.1)], AFINITOR can cause fetal harm when administered to a pregnant woman.
+There are limited case reports of AFINITOR use in pregnant women.
+However, these reports are not sufficient to inform about risks of birth defects or miscarriage.
+In animal studies, everolimus caused embryo-fetal toxicities in rats when administered during the period of organogenesis at maternal exposures that were lower than human exposures at the recommended clinical dose of 10 mg daily [see Data].
+Advise pregnant women of the potential risk to the fetus.
+
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage is 2-4% and 15-20% of clinically recognized pregnancies, respectively.
+
+Data
 
 Animal Data
 
@@ -22,11 +27,35 @@ In a pre- and post-natal development study in rats, animals were dosed from impl
 At the dose of 0.1 mg/kg (0.6 mg/m2), there were no adverse effects on delivery and lactation or signs of maternal toxicity; however, there were reductions in body weight (up to 9% reduction from the control) and in survival of offspring (~5% died or missing).
 There were no drug-related effects on the developmental parameters (morphological development, motor activity, learning, or fertility assessment) in the offspring.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-It is not known whether everolimus is excreted in human milk.
+Risk Summary
+
+There are no data on the presence of everolimus in human milk, the effects of everolimus on the breastfed infant or on milk production.
 Everolimus and/or its metabolites passed into the milk of lactating rats at a concentration 3.5 times higher than in maternal serum.
-Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from everolimus, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Because of the potential for serious adverse reactions in breastfed infants from everolimus, advise lactating women not to breastfeed during treatment with AFINITOR and for 2 weeks after the last dose.
+
+## 8.3 Females and Males of Reproductive Potential
+
+AFINITOR can cause fetal harm when administered to pregnant women [see Use in Specific Populations (8.1)].
+Advise females of reproductive potential to seek counseling on fertility and family planning options prior to starting treatment with AFINITOR.
+
+Contraception
+
+Females
+
+Advise female patients of reproductive potential to use effective contraception while using AFINITOR and for 8 weeks after ending treatment with AFINITOR [see Use in Specific Populations (8.1)].
+
+Infertility
+
+Females
+
+Menstrual irregularities, secondary amenorrhea, and increases in luteinizing hormone (LH) and follicle stimulating hormone (FSH) occurred in female patients taking AFINITOR.
+Based on these clinical findings and findings in animals, female fertility may be compromised by treatment with AFINITOR [see Adverse Reactions (6.2, 6.4, 6.5) and Nonclinical Toxicology (13.1)].
+
+Males
+
+AFINITOR treatment may impair fertility in male patients based on animal findings [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 

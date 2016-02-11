@@ -115,8 +115,8 @@ An accelerated vaccination schedule may be appropriate.
 
 ## 5.12 Embryo-Fetal Toxicity
 
-Based on the mechanism of action, AFINITOR can cause fetal harm.
-Everolimus caused embryo-fetal toxicities in animals at maternal exposures that were lower than human exposures.
-If this drug is used during pregnancy or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus [see Use in Specific Populations (8.1)].
+Based on animal studies and the mechanism of action [see Clinical Pharmacology (12.1)], AFINITOR can cause fetal harm when administered to a pregnant woman.
+In animal studies, everolimus caused embryo-fetal toxicities in rats when administered during the period of organogenesis at maternal exposures that were lower than human exposures at the recommended clinical dose of 10 mg daily.
+Advise pregnant women of the potential risk to a fetus.
 
-Advise female patients of reproductive potential to avoid becoming pregnant and to use highly effective contraception while using AFINITOR and for up to 8 weeks after ending treatment [see Use in Specific Populations (8.6)].
+Advise female patients of reproductive potential to avoid becoming pregnant and to use effective contraception while using AFINITOR and for 8 weeks after ending treatment [see Use in Specific Populations (8.1, 8.3)].

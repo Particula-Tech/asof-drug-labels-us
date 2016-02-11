@@ -49,7 +49,18 @@ Advise patients to avoid the use of live vaccines and close contact with those w
 
 Embryo-Fetal Toxicity
 
-Advise female patients of childbearing potential that AFINITOR may cause fetal harm and that a highly effective method of contraception should be used during therapy with AFINITOR and for up to 8 weeks after ending treatment [see Warnings and Precautions (5.12)].
+AFINITOR can cause fetal harm if taken during pregnancy.
+Advise a pregnant woman of the potential risk to a fetus.
+Advise females of reproductive potential to use effective contraception during treatment with AFINITOR, and for 8 weeks after the last dose.
+Advise patients to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.12) and Use in Specific Populations (8.1, 8.3)].
+
+Lactation
+
+Advise women that breastfeeding is not recommended during treatment with AFINITOR and for 2 weeks after the last dose [see Use in Specific Populations (8.2)].
+
+Infertility
+
+Advise males and females of reproductive potential of the potential risk for impaired fertility [see Use in Specific Populations (8.3)].
 
 Safe Handling Practices for AFINITOR DISPERZ
 
@@ -72,4 +83,4 @@ Manufactured by: Novartis Pharma Stein AG Stein, Switzerland
 
 Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
-T2016-16 January 2016
+T2016-17 February 2016
