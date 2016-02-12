@@ -16,7 +16,7 @@ The inhibition of PDE-5 in these tissues by sildenafil may be the basis for the 
 ## 12.2 Pharmacodynamics
 
 Effects of Sildenafil Tablets on Hemodynamic Measures Patients on all sildenafil tablets doses achieved a statistically significant reduction in mean pulmonary arterial pressure (mPAP) compared to those on placebo in a study with no background vasodilators [Study 1 in Clinical Studies (14)].
-Data on other hemodynamic parameters for the sildenafil tablets 20 mg three times a day and placebo dosing regimens is displayed in Table 3.
+Data on other hemodynamic measures for the sildenafil tablets 20 mg three times a day and placebo dosing regimens is displayed in Table 3.
 The relationship between these effects and improvements in 6-minute walk distance is unknown.
 Table 3.
 Changes from Baseline in Hemodynamic Parameters at Week 12 [mean (95% CI)] for the Sildenafil Tablets 20 mg Three Times a Day and Placebo Group

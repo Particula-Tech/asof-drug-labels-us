@@ -7,16 +7,16 @@ These events may be accompanied by tinnitus and dizziness.
 
 Manufactured for: Camber Pharmaceuticals Inc. Piscataway, NJ 08854
 
-Manufactured By: HETEROTM Hetero Labs Limited 207142 Unit V, Polepally, Jadcherla, Mahaboob Nagar – 509 301, India.
+Manufactured By: HETEROTM Hetero Labs Limited 2030988 Unit V, Polepally, Jadcherla, Mahaboob Nagar – 509 301, India.
 
-Barcode Revised: September 2014 PATIENT INFORMATION Sildenafil Tablets (sil den' a fil) Read the Patient Information before you start taking sildenafil tablets and each time you get a refill.
+Barcode Revised: August 2015 PATIENT INFORMATION Sildenafil Tablets (sil den' a fil) Read the Patient Information before you start taking sildenafil tablets and each time you get a refill.
 There may be new information.
 This information does not take the place of talking with your doctor about your medical condition or treatment.
 If you have any questions about sildenafil tablets, ask your doctor or pharmacist.
 What is the most important information I should know about sildenafil tablets?
-Never take sildenafil tablets with any nitrate medicines.
+Never take sildenafil tablets with any nitrate or guanylate cyclase stimulator medicines.
 Your blood pressure could drop quickly to an unsafe level.
-Nitrate medicines include: • Medicines that treat chest pain (angina) • Nitroglycerin in any form including tablets, patches, sprays, and ointments • Isosorbide mononitrate or dinitrate • Street drugs called “poppers” (amyl nitrate or nitrite) Ask your doctor or pharmacist if you are not sure if you are taking a nitrate medicine.
+Nitrate medicines include: • Medicines that treat chest pain (angina) • Nitroglycerin in any form including tablets, patches, sprays, and ointments • Isosorbide mononitrate or dinitrate • Street drugs called "poppers" (amyl nitrate or nitrite) Guanylate cyclase stimulators include: • Riociguat (Adempas) Ask your doctor or pharmacist if you are not sure if you are taking a nitrate or a guanylate cyclase stimulator medicine.
 What are sildenafil tablets?
 Sildenafil tablet is a prescription medicine used in adults to treat pulmonary arterial hypertension (PAH).
 With PAH, the blood pressure in your lungs is too high.
@@ -26,6 +26,7 @@ Sildenafil tablets contain the same medicine as VIAGRA® (sildenafil), which is 
 Do not take sildenafil tablets with VIAGRA or other PDE-5 inhibitors.
 Who should not take sildenafil tablets?
 Do not take sildenafil tablets if you: • take nitrate medicines.
+See "What is the most important information I should know about sildenafil tablets?" • Take guanylate cyclase stimulator medicines.
 See "What is the most important information I should know about sildenafil tablets?" • are allergic to sildenafil or any other ingredient in sildenafil tablets.
 See " What are the ingredients in sildenafil tablets?" at the end of this leaflet.
 What should I tell my doctor before taking sildenafil tablets?
@@ -36,6 +37,7 @@ Tell your doctor about all of the medicines you take, including prescription and
 Sildenafil tablets and certain other medicines can cause side effects if you take them together.
 The doses of some of your medicines may need to be adjusted while you take sildenafil tablets.
 Especially tell your doctor if you take • Nitrate medicines.
+See "What is the most important information I should know about sildenafil tablets?" • Riociguat (Adempas).
 See "What is the most important information I should know about sildenafil tablets?" • Ritonavir (Norvir®) or other medicines used to treat HIV infection • Ketoconazole (Nizoral®) • Itraconazole (Sporanox) • High blood pressure medicine Know the medicines you take.
 Keep a list of your medicines and show it to your doctor and pharmacist when you get a new medicine.
 How should I take sildenafil tablets? • Take sildenafil tablets exactly as your doctor tells you.
@@ -51,13 +53,14 @@ If you notice a sudden decrease or loss of eyesight, talk to your doctor right a
 If you notice a sudden decrease or loss of hearing, talk to your doctor right away.
 It is not possible to determine whether these events are related directly to this class of oral medicines, including sildenafil tablets, or to other diseases or medicines, to other factors, or to a combination of factors. • heart attack, stroke, irregular heartbeats, and death.
 Most of these happened in men who already had heart problems. • erections that last several hours.
-Tell your doctor right away if you have an erection that lasts more than 4 hours.
+If you have an erection that lasts more than 4 hours, get medical help right away.
+If it is not treated right away, priapism can permanently damage your penis.
 The most common side effects with sildenafil tablets include: Nosebleed, headache, upset stomach, getting red or hot in the face (flushing), trouble sleeping, as well as fever, erection increased, respiratory infection, nausea, vomiting, bronchitis, pharyngitis, runny nose, and pneumonia in children.
 Tell your doctor if you have any side effect that bothers you or doesn't go away.
 These are not all the possible side effects of sildenafil tablets.
 For more information, ask your doctor or pharmacist.
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1­800-FDA-1088.
+You may report side effects to FDA at 1-­800-FDA-1088.
 How should I store sildenafil tablets? • Store sildenafil tablets at room temperature, 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature]. • Keep sildenafil tablets and all medicines away from children.
 General information about sildenafil tablets Medicines are sometimes prescribed for purposes that are not in the patient leaflet.
 Do not use sildenafil tablets for a condition for which it was not prescribed.
@@ -72,4 +75,4 @@ Active ingredients: sildenafil citrate, USP Inactive ingredients: croscarmellose
 Manufactured for: Camber Pharmaceuticals Inc. Piscataway, NJ 08854
 
 Manufactured By: HETEROTM Hetero Labs Limited Unit V, Polepally, Jadcherla, Mahaboob Nagar – 509 301, India.
-Revised: September 2014
+Revised: August 2015
