@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA206652"
+  ],
+  "inn": "entecavir",
+  "labeler": "Amneal Pharmaceuticals of New York, LLC",
+  "package_ndcs": [
+    "65162-446-03",
+    "65162-449-03"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "entecavir",
+      "name": "Entecavir"
+    }
+  ],
+  "setid": "007a6ad8-4d23-4543-ae48-c651cac7dd7b",
+  "source": "dailymed"
+}
