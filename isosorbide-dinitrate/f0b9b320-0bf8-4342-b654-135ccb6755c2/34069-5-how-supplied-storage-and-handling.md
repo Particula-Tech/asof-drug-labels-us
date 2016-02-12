@@ -17,6 +17,4 @@ Dispense in a tight, light-resistant container as defined in the USP using a chi
 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 Protect from light and moisture.
 
-Manufactured by: West-Ward Pharmaceutical Corp. Eatontown, NJ 07724
-
-Revised February 2015
+Manufactured by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724 Revised September 2015
