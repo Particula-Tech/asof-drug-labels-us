@@ -33,7 +33,7 @@ Angioedema causes swelling of the face, lips, tongue and/or throat, and may caus
 Tell your doctor about all the medicines you take including prescription and nonprescription medicines, vitamins and herbal supplements.
 Especially tell your doctor if you take: • other medicines for high blood pressure or a heart problem • water pills (also called “diuretics”) • potassium supplements.
 Your doctor may check the amount of potassium in your blood periodically • a salt substitute.
-Your doctor may check the amount of potassium in your blood periodically • Nonsteroidal anti-inflammatory drugs (like ibuprofen or naproxen) • certain antibiotics (rifamycin group), a drug used to protect against transplant rejection (cyclosporin) or an antiretroviral drug used to treat HIV/AIDS infection (ritonavir).
+Your doctor may check the amount of potassium in your blood periodically • Nonsteroidal anti-inflammatory drugs (like ibuprofen or naproxen) • certain antibiotics (rifamycin group), a drug used to protect against transplant rejection (cyclosporine) or an antiretroviral drug used to treat HIV/AIDS infection (ritonavir).
 These drugs may increase the effect of valsartan. • Lithium, a medicine used in some types of depression Know the medicines you take.
 Keep a list of your medicines with you to show to your doctor and pharmacist when a new medicine is prescribed.
 Talk to your doctor or pharmacist before you start taking any new medicine.
@@ -78,7 +78,7 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Manufactured for:
 
-Camber Pharmaceuticals, Inc.,
+Camber Pharmaceuticals, Inc., 2031056
 
 Piscataway, NJ 08854
 
@@ -87,4 +87,4 @@ By:HETEROTM
 Hetero Labs Limited,Unit V, Polepally,
 
 Jadcherla, Mahaboob Nagar-509 301, India.
-Revised: 11/ 2014 2026678
+Revised: August 2015

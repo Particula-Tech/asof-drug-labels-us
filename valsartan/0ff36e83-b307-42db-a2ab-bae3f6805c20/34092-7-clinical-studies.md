@@ -2,7 +2,7 @@
 
 ## 14.1 Hypertension
 
-Adult Hypertension The antihypertensive effects of valsartan were demonstrated principally in 7 placebo-controlled, 4- to 12-week trials (1 in patients over 65) of dosages from 10 to 320 mg/day in patients with baseline diastolic blood pressures of 95 to 115.
+Adult Hypertension The antihypertensive effects of valsartan were demonstrated principally in 7 placebo-controlled, 4- to 12-week trials (1 in patients over 65 years) of dosages from 10 to 320 mg/day in patients with baseline diastolic blood pressures of 95 to 115 mmHg.
 The studies allowed comparison of once-daily and twice-daily regimens of 160 mg/day; comparison of peak and trough effects; comparison (in pooled data) of response by gender, age, and race; and evaluation of incremental effects of hydrochlorothiazide.
 Administration of valsartan to patients with essential hypertension results in a significant reduction of sitting, supine, and standing systolic and diastolic blood pressure, usually with little or no orthostatic change.
 In most patients, after administration of a single oral dose, onset of antihypertensive activity occurs at approximately 2 hours, and maximum reduction of blood pressure is achieved within 6 hours.
