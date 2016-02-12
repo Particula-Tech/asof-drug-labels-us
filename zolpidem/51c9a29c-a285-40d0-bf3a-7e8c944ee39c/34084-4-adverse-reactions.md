@@ -26,7 +26,7 @@ The table is limited to data from doses up to and including 10 mg, the highest d
 
 Incidence of Treatment-Emergent Adverse Experiences in Placebo-Controlled Clinical Trials Lasting up to 10 Nights (Percentage of patients reporting)
 
-| Body System/Adverse Event* | Zolpidem (≤10 mg) (N=685) | Placebo (N=473) |
+| Body System/ Adverse Event* | Zolpidem (≤10 mg) (N=685) | Placebo (N=473) |
 | --- | --- | --- |
 | Central and Peripheral Nervous System |  |  |
 | Headache | 7 | 6 |
@@ -41,9 +41,9 @@ These trials involved patients with chronic insomnia who were treated for 28 to 
 The table is limited to data from doses up to and including 10 mg, the highest dose recommended for use.
 The table includes only adverse events occurring at an incidence of at least 1% for zolpidem patients.
 
-Incidence of Treatment-Emergent Adverse Experiences in Placebo-Controlled Clinical Trials Lasting up to 35 Nights (Percentage of patients reporting)
+table Incidence of Treatment-Emergent Adverse Experiences in Placebo-Controlled Clinical Trials Lasting up to 35 Nights (Percentage of patients reporting)
 
-| Body System/Adverse Event* | Zolpidem (≤10 mg) (N=152) | Placebo (N=161) |
+| Body System/ Adverse Event* | Zolpidem (≤10 mg) (N=152) | Placebo (N=161) |
 | --- | --- | --- |
 | Autonomic Nervous System |  |  |
 | Dry mouth | 3 | 1 |
@@ -76,7 +76,9 @@ Incidence of Treatment-Emergent Adverse Experiences in Placebo-Controlled Clinic
 | * Reactions reported by at least 1% of patients treated with zolpidem tartrate and at a greater frequency than placebo. |  |  |
 
 Dose relationship for adverse reactions: There is evidence from dose comparison trials suggesting a dose relationship for many of the adverse reactions associated with zolpidem use, particularly for certain CNS and gastrointestinal adverse events.
-Adverse event incidence across the entire preapproval database: Zolpidem tartrate was administered to 3,660 subjects in clinical trials throughout the U.S., Canada, and Europe.
+Adverse event incidence across the entire preapproval database:
+
+Zolpidem tartrate was administered to 3,660 subjects in clinical trials throughout the U.S., Canada, and Europe.
 Treatment-emergent adverse events associated with clinical trial participation were recorded by clinical investigators using terminology of their own choosing.
 To provide a meaningful estimate of the proportion of individuals experiencing treatment-emergent adverse events, similar types of untoward events were grouped into a smaller number of standardized event categories and classified utilizing a modified World Health Organization (WHO) dictionary of preferred terms.
 The frequencies presented, therefore, represent the proportions of the 3,660 individuals exposed to zolpidem, at all doses, who experienced an event of the type cited on at least one occasion while receiving zolpidem.

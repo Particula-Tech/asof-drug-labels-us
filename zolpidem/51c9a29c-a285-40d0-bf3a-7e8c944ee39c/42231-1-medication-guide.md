@@ -131,5 +131,6 @@ For more information, call Northstar Rx LLC at 1-800-206-7821.
 What are the ingredients in zolpidem tartrate tablets?
 Active Ingredient: Zolpidem tartrate Inactive Ingredients: lactose monohydrate, microcrystalline cellulose, sodium starch glycolate, magnesium stearate, hypromellose, polyethylene glycol, and titanium dioxide.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-All brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
-Manufactured for: Northstar Rx LLC, Memphis, TN 38141 Toll Free: 1-800-206-7821 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ), Mahaboob Nagar (Dt) AP-509302, INDIA M.L.No: 22/MN/AP/2009/F/G Revised: 12/2014
+All brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited Manufactured for: Northstar Rx LLC Memphis, TN 38141.
+Toll Free: 1-800-206-7821 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt)-509302 India.
+M.L.No.: 22/MN/AP/2009/F/R Revised: 12/2015

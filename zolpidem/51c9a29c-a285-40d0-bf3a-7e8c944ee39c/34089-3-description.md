@@ -7,3 +7,4 @@ It has the following structure:
 Zolpidem tartrate USP is a white to off-white crystalline powder that is sparingly soluble in water, alcohol, and propylene glycol.
 It has a molecular weight of 764.88.
 Each zolpidem tartrate tablet, USP includes the following inactive ingredients: lactose monohydrate, microcrystalline cellulose, sodium starch glycolate, magnesium stearate, hypromellose, polyethylene glycol, and titanium dioxide.
+Meets USP Dissolution Test-3.
