@@ -32,4 +32,4 @@ Manufactured for: Hikma Americas, Inc. Memphis, TN 38120
 
 Manufactured by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724
 
-Revised: July 2015 Rx Only
+Revised: November 2015 Rx Only

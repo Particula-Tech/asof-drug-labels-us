@@ -25,3 +25,5 @@ Hepatobiliary: elevated AST, elevated ALT
 Musculoskeletal: myopathy, elevated CPK, myotonia, muscle weakness, muscle pain, rhabdomyolysis
 
 Reproductive: azoospermia, oligospermia
+
+To report SUSPECTED ADVERSE REACTIONS, contact Hikma Americas, Inc. at 1-877-233-2001 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
