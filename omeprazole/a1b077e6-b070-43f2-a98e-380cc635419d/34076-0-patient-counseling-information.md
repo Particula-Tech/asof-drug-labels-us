@@ -1,46 +1,45 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-“See FDA-Approved Medication Guide”
+Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
-PRILOSEC should be taken before eating.
-Patients should be informed that the PRILOSEC Delayed-Release Capsule should be swallowed whole.
+Adverse Reactions
 
-For patients who have difficulty swallowing capsules, the contents of a PRILOSEC Delayed-Release Capsule can be added to applesauce.
-One tablespoon of applesauce should be added to an empty bowl and the capsule should be opened.
-All of the pellets inside the capsule should be carefully emptied on the applesauce.
-The pellets should be mixed with the applesauce and then swallowed immediately with a glass of cool water to ensure complete swallowing of the pellets.
-The applesauce used should not be hot and should be soft enough to be swallowed without chewing.
-The pellets should not be chewed or crushed.
-The pellets/applesauce mixture should not be stored for future use.
+Advise patients to report to their healthcare provider if they experience any signs or symptoms consistent with:
 
-PRILOSEC For Delayed-Release Oral Suspension should be administered as follows:
+- 
+  - •Hypersensitivity reactions [see Contraindications (4)].
+  - •Acute Interstitial Nephritis [see Warnings and Precautions (5.3)].
+  - •Cyanocobalamin (vitamin B-12) Deficiency [see Warnings and Precautions (5.4)].
+  - •Clostridium difficile Associated Diarrhea [see Warnings and Precautions (5.5)].
+  - •Bone Fracture [see Warnings and Precautions (5.7)].
+  - •Hypomagnesemia [see Warnings and Precautions (5.8)].
 
-- •Empty the contents of a 2.5 mg packet into a container containing 5 mL of water.
-- •Empty the contents of a 10 mg packet into a container containing 15 mL of water.
-- •Stir
-- •Leave 2 to 3 minutes to thicken.
-- •Stir and drink within 30 minutes.
-- •If any material remains after drinking, add more water, stir and drink immediately.
+Drug Interactions
 
-For patients with a nasogastric or gastric tube in place:
+Advise patients to report to their healthcare provider if they start treatment with clopidogrel, St. John’s Wort or rifampin; or, if they take high-dose methotrexate [see Warnings and Precautions (5.6,5.9,5.11)].
 
-- •Add 5 mL of water to a catheter tipped syringe and then add the contents of a 2.5 mg packet (or 15 mL of water for the 10 mg packet).
-  It is important to only use a catheter tipped syringe when administering PRILOSEC through a nasogastric tube or gastric tube.
-- •Immediately shake the syringe and leave 2 to 3 minutes to thicken.
-- •Shake the syringe and inject through the nasogastric or gastric tube, French size 6 or larger, into the stomach within 30 minutes.
-- •Refill the syringe with an equal amount of water.
-- •Shake and flush any remaining contents from the nasogastric or gastric tube into the stomach.
+Administration
 
-Advise patients to immediately report and seek care for diarrhea that does not improve.
-This may be a sign of Clostridium difficile associated diarrhea [see Warnings and Precautions (5.5)].
+- 
+  - •Take PRILOSEC before meals.
+  - •Antacids may be used concomitantly with PRILOSEC.
+  - •Missed doses: If a dose is missed, administer as soon as possible.
+    However, if the next scheduled dose is due, do not take the missed dose, and take the next dose on time.
+    Do not take two doses at one time to make up for a missed dose.
 
-Advise patients to immediately report and seek care for any cardiovascular or neurological symptoms including palpitations, dizziness, seizures, and tetany as these may be signs of hypomagnesemia [see Warnings and Precautions (5.8)].
+PRILOSEC Delayed-Release Capsules
+
+- 
+  - •Swallow PRILOSEC delayed-release capsules whole; do not chew.
+  - •For patients unable to swallow an intact capsule, PRILOSEC delayed-release capsules can be opened and administered in applesauce, as described in the Medication Guide.
+
+PRILOSEC For Delayed-Release Oral Suspension
+
+- 
+  - •PRILOSEC for delayed-release oral suspension is intended to be prepared in water and administered orally or via a nasogastric (NG) or gastric tube, as described in the Medication Guide.
 
 PRILOSEC is a trademark of the AstraZeneca group of companies.
 
 Manufactured for: AstraZeneca LP, Wilmington, DE 19850
 
-©AstraZeneca 2014
-
-Rev.
-December 2014
+©AstraZeneca 2016

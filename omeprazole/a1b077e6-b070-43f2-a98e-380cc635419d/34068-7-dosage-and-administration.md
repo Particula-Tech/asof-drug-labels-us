@@ -1,89 +1,83 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-PRILOSEC Delayed-Release Capsules should be taken before eating.
-In the clinical trials, antacids were used concomitantly with PRILOSEC.
+## 2.1 Recommended Adult Dosage Regimen by Indication
 
-Patients should be informed that the PRILOSEC Delayed-Release Capsule should be swallowed whole.
+Table 1 shows the recommended dosage of PRILOSEC in adult patients by indication.
 
-For patients unable to swallow an intact capsule, alternative administration options are available [see Dosage and Administration (2.8)].
+Table 1: Recommended Dosage Regimen of PRILOSEC in Adults by Indication
 
-## 2.1 Short-Term Treatment of Active Duodenal Ulcer
+| Indication | Dosage of PRILOSEC | Treatment Duration |
+| --- | --- | --- |
+| Treatment of Active Duodenal Ulcer | 20 mg once daily | 4 weeksMost patients heal within 4 weeks; some patients may require an additional 4 weeks of therapy to achieve healing |
+| Helicobacter pylori Eradication to Reduce the Risk of Duodenal Ulcer Recurrence | Triple TherapyPRILOSEC 20 mgAmoxicillin 1000 mgClarithromycin 500 mgTake all three drugs twice daily | 10 daysIn patients with an ulcer present at the time of initiation of therapy, continue PRILOSEC 20 mg once daily for an additional 18 days for ulcer healing and symptom relief. |
+| Dual Therapy PRILOSEC 40 mg once dailyClarithromycin 500 mg three times daily | 14 daysIn patients with an ulcer present at the time of initiation of therapy, an additional 14 days of PRILOSEC 20 mg once daily is recommended for ulcer healing and symptom relief. |  |
+| Active Benign Gastric Ulcer | 40 mg once daily | 4 to 8 weeks |
+| Treatment of Symptomatic GERD | 20 mg once daily | Up to 4 weeks |
+| Treatment of EE due to Acid-Mediated GERD | 20 mg once daily | 4 to 8 weeksThe efficacy of PRILOSEC used for longer than 8 weeks in patients with EE has not been established. If a patient does not respond to 8 weeks of treatment, an additional 4 weeks of treatment may be given. If there is recurrence of EE or GERD symptoms (e.g., heartburn), additional 4 to 8 week courses of PRILOSEC may be considered. |
+| Maintenance of Healing of EE due to Acid-Mediated GERD | 20 mg once dailyDosage reduction to 10 mg once daily is recommended for patients with hepatic impairment (Child-Pugh Class A, B or C) and Asian patients when used for the maintenance of healing of EE [see Use in Specific Populations (8.6, 8.7) and Clinical Pharmacology (12.3,12.5)]. | Controlled studies do not extend beyond 12 months. |
+| Pathological Hypersecretory Conditions | Starting dose is 60 mg once daily; adjust to patient needsDaily dosages of greater than 80 mg should be administered in divided doses.Dosages up to 120 mg three times daily have been administered. | As long as clinically indicated. Some patients with Zollinger-Ellison syndrome have been treated continuously for more than 5 years. |
 
-The recommended adult oral dose of PRILOSEC is 20 mg once daily.
-Most patients heal within four weeks.
-Some patients may require an additional four weeks of therapy.
+## 2.2 Recommended Pediatric Dosage Regimen by Indication
 
-## 2.2 H. pylori Eradication for the Reduction of the Risk of Duodenal Ulcer Recurrence
+Table 2 shows the recommended dosage of PRILOSEC in pediatric patients by indication.
 
-Triple Therapy (PRILOSEC/clarithromycin/amoxicillin) — The recommended adult oral regimen is PRILOSEC 20 mg plus clarithromycin 500 mg plus amoxicillin 1000 mg each given twice daily for 10 days.
-In patients with an ulcer present at the time of initiation of therapy, an additional 18 days of PRILOSEC 20 mg once daily is recommended for ulcer healing and symptom relief.
+Table 2: Recommended Dosage Regimen of PRILOSEC in Pediatric Patients by Indication
 
-Dual Therapy (PRILOSEC/clarithromycin) — The recommended adult oral regimen is PRILOSEC 40 mg once daily plus clarithromycin 500 mg three times daily for 14 days.
-In patients with an ulcer present at the time of initiation of therapy, an additional 14 days of PRILOSEC 20 mg once daily is recommended for ulcer healing and symptom relief.
+| Indication | PRILOSEC Dosage Regimen and Duration |  |  |
+| --- | --- | --- | --- |
+| Patient Age | Weight-Based Dose (mg) | Regimen and Duration |  |
+| Treatment of Symptomatic GERD | 1 to 16 years | 5 to less than 10 kg: 5 mg | Once daily for up to 4 weeks |
+| 10 to less than 20 kg: 10 mg |  |  |  |
+| 20 kg and greater: 20 mg |  |  |  |
+| Treatment of EE due to Acid-Mediated GERD | 1 to 16 years | 5 to less than 10 kg: 5 mg | Once daily for 4 to 8 weeksThe efficacy of PRILOSEC used for longer than 8 weeks in patients with EE has not been established. If a patient does not respond to 8 weeks of treatment, an additional 4 weeks of treatment may be given. If there is recurrence of EE or GERD symptoms (e.g., heartburn), additional 4 to 8 week courses of PRILOSEC may be considered. |
+| 10 to less than 20 kg: 10 mg |  |  |  |
+| 20 kg and greater: 20 mg |  |  |  |
+| 1 month to less than 1 year | 3 to less than 5 kg: 2.5 mg | Once daily up to 6 weeks |  |
+| 5 to less than 10 kg: 5 mg |  |  |  |
+| 10 kg and greater: 10 mg |  |  |  |
+| Maintenance of Healing of EE due to Acid-Mediated GERD | 1 to 16 years | 5 to less than 10 kg: 5 mg | Once daily. Controlled studies do not extend beyond 12 months |
+| 10 to less than 20 kg: 10 mg |  |  |  |
+| 20 kg and greater: 20 mg |  |  |  |
 
-## 2.3 Gastric Ulcer
+## 2.3 Administration Instructions
 
-The recommended adult oral dose is 40 mg once daily for 4-8 weeks.
+- •Take PRILOSEC before meals.
+- •Antacids may be used concomitantly with PRILOSEC.
+- •Missed doses: If a dose is missed, administer as soon as possible.
+  However, if the next scheduled dose is due, do not take the missed dose, and take the next dose on time.
+  Do not take two doses at one time to make up for a missed dose.
 
-## 2.4 Gastroesophageal Reflux Disease (GERD)
+PRILOSEC Delayed-Release Capsules
 
-The recommended adult oral dose for the treatment of patients with symptomatic GERD and no esophageal lesions is 20 mg daily for up to 4 weeks.
-The recommended adult oral dose for the treatment of patients with erosive esophagitis and accompanying symptoms due to GERD is 20 mg daily for 4 to 8 weeks.
+- •Swallow PRILOSEC delayed-release capsules whole; do not chew.
+- •For patients unable to swallow an intact capsule, PRILOSEC delayed-release capsules can be opened and administered as follows:
+- 1.Place one tablespoon of applesauce into a clean container (e.g., empty bowl).
+  The applesauce used should not be hot and should be soft enough to be swallowed without chewing.
+- 2.Open the capsule.
+- 3.Carefully empty all of the pellets inside the capsule on the applesauce.
+- 4.Mix the pellets with the applesauce.
+- 5.Swallow applesauce and pellets immediately with a glass of cool water to ensure complete swallowing of the pellets.
+  Do not chew or crush the pellets.
+  Do not save the applesauce and pellets for future use.
 
-## 2.5 Maintenance of Healing of Erosive Esophagitis
+PRILOSEC For Delayed-Release Oral Suspension
 
-The recommended adult oral dose is 20 mg daily.
-Controlled studies do not extend beyond 12 months [see Clinical Studies (14.4)].
+PRILOSEC for delayed-release oral suspension is intended to be prepared in water and administered orally or via a nasogastric (NG) or gastric tube.
 
-## 2.6 Pathological Hypersecretory Conditions
+Oral Administration in Water
 
-The dosage of PRILOSEC in patients with pathological hypersecretory conditions varies with the individual patient.
-The recommended adult oral starting dose is 60 mg once daily.
-Doses should be adjusted to individual patient needs and should continue for as long as clinically indicated.
-Doses up to 120 mg three times daily have been administered.
-Daily dosages of greater than 80 mg should be administered in divided doses.
-Some patients with Zollinger-Ellison syndrome have been treated continuously with PRILOSEC for more than 5 years.
+1. 1.Empty the contents of a 2.5 mg packet into a container containing 5 mL of water.
+2. 2.Empty the contents of a 10 mg packet into a container containing 15 mL of water.
+3. 3.Stir
+4. 4.Leave 2 to 3 minutes to thicken.
+5. 5.Stir and drink within 30 minutes.
+6. 6.If any material remains after drinking, add more water, stir and drink immediately.
 
-## 2.7 Pediatric Patients
+Administration with Water via a NG or Gastric Tube (Size 6 or Larger)
 
-For the treatment of GERD and maintenance of healing of erosive esophagitis, the recommended daily dose for pediatric patients 1 to 16 years of age is as follows:
-
-| Patient Weight | Omeprazole Daily Dose |
-| --- | --- |
-| 5 < 10 kg | 5 mg |
-| 10 < 20 kg | 10 mg |
-| ≥ 20 kg | 20 mg |
-
-On a per kg basis, the doses of omeprazole required to heal erosive esophagitis in pediatric patients are greater than those for adults.
-
-Alternative administrative options can be used for pediatric patients unable to swallow an intact capsule [see Dosage and Administration (2.8)].
-
-## 2.8 Alternative Administration Options
-
-PRILOSEC is available as a delayed-release capsule or as a delayed-release oral suspension.
-
-For patients who have difficulty swallowing capsules, the contents of a PRILOSEC Delayed-Release Capsule can be added to applesauce.
-One tablespoon of applesauce should be added to an empty bowl and the capsule should be opened.
-All of the pellets inside the capsule should be carefully emptied on the applesauce.
-The pellets should be mixed with the applesauce and then swallowed immediately with a glass of cool water to ensure complete swallowing of the pellets.
-The applesauce used should not be hot and should be soft enough to be swallowed without chewing.
-The pellets should not be chewed or crushed.
-The pellets/applesauce mixture should not be stored for future use.
-
-PRILOSEC For Delayed-Release Oral Suspension should be administered as follows:
-
-- •Empty the contents of a 2.5 mg packet into a container containing 5 mL of water.
-- •Empty the contents of a 10 mg packet into a container containing 15 mL of water.
-- •Stir
-- •Leave 2 to 3 minutes to thicken.
-- •Stir and drink within 30 minutes.
-- •If any material remains after drinking, add more water, stir and drink immediately.
-
-For patients with a nasogastric or gastric tube in place:
-
-- •Add 5 mL of water to a catheter tipped syringe and then add the contents of a 2.5 mg packet (or 15 mL of water for the 10 mg packet).
-  It is important to only use a catheter tipped syringe when administering PRILOSEC through a nasogastric tube or gastric tube.
-- •Immediately shake the syringe and leave 2 to 3 minutes to thicken.
-- •Shake the syringe and inject through the nasogastric or gastric tube, French size 6 or larger, into the stomach within 30 minutes.
-- •Refill the syringe with an equal amount of water.
-- •Shake and flush any remaining contents from the nasogastric or gastric tube into the stomach.
+1. 1.Add 5 mL of water to a catheter tipped syringe and then add the contents of a 2.5 mg packet (or 15 mL of water for the 10 mg packet).
+   It is important to only use a catheter tipped syringe when administering through a nasogastric tube or gastric tube.
+2. 2.Immediately shake the syringe and leave 2 to 3 minutes to thicken.
+3. 3.Shake the syringe and inject through the nasogastric or gastric tube into the stomach within 30 minutes.
+4. 4.Refill the syringe with an equal amount of water.
+5. 5.Shake and flush any remaining contents from the nasogastric or gastric tube into the stomach
