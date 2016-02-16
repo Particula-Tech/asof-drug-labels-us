@@ -1,10 +1,4 @@
-# Medication Guide
-
-ZONEGRAN® (ZO-nuh-gran)
-
-(zonisamide)
-
-capsules
+# MEDICATION GUIDE ZONEGRAN® (ZO-NUH-GRAN) (ZONISAMIDE) CAPSULES
 
 Read this Medication Guide before you start taking ZONEGRAN and each time you get a refill.
 There may be new information.
@@ -23,52 +17,78 @@ ZONEGRAN may cause serious side effects, including:
 
 These serious side effects are described below.
 
-1. ZONEGRAN may cause a serious skin rash that can cause death.
-   These serious skin reactions are more likely to happen when you begin taking ZONEGRAN within the first 4 months of treatment but may occur at later times.
-2. ZONEGRAN may cause you to sweat less and to increase your body temperature (fever).
-   You may need to be hospitalized for this.
-   You should watch for decreased sweating and fever, especially when it is hot and especially in children taking ZONEGRAN.
-   Call your health care provider right away if you have:
-   - a skin rash
-   - high fever, recurring fever, or long lasting fever
-   - less sweat than normal
-3. Like other antiepileptic drugs,ZONEGRAN may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
-   Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:How can I watch for early symptoms of suicidal thoughts and actions?Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
-   Do not stop ZONEGRAN without first talking to a healthcare provider.
-   Stopping ZONEGRAN suddenly can cause serious problems.
-   Stopping a seizure medicine suddenly in a patient who has epilepsy can cause seizures that will not stop (status epilepticus).
-   - thoughts about suicide or dying
-   - attempt to commit suicide
-   - new or worse depression
-   - new or worse anxiety
-   - feeling agitated or restless
-   - panic attacks
-   - trouble sleeping (insomnia)
-   - new or worse irritability
-   - acting aggressive, being angry, or violent
-   - acting on dangerous impulses
-   - an extreme increase in activity and talking (mania)
-   - other unusual changes in behavior or mood
-   - Suicidal thoughts or actions can be caused by things other than medicines.
-     If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
-   - Pay attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
-   - Keep all follow-up visits with your healthcare provider as scheduled.
-4. ZONEGRAN can increase the level of acid in your blood (metabolic acidosis).
-   If left untreated, metabolic acidosis can cause brittle or soft bones (osteoporosis, osteomalacia, osteopenia), kidney stones and can slow the rate of growth in children.
-   Metabolic acidosis can happen with or without symptoms.
-   Sometimes people with metabolic acidosis will: Your healthcare provider should do a blood test to measure the level of acid in your blood before and during your treatment with ZONEGRAN.
-   - feel tired
-   - not feel hungry (loss of appetite)
-   - feel changes in heartbeat
-   - have trouble thinking clearly
-5. ZONEGRAN may cause problems with your concentration, attention, memory, thinking, speech, or language.
-6. ZONEGRAN can cause blood cell changes such as reduced red and white blood cell counts.
-   Call your healthcare provider if you develop fever, sore throat, sores in your mouth, or unusual bruising.
+1.
+ZONEGRAN may cause a serious skin rash that can cause death.
+These serious skin reactions are more likely to happen when you begin taking ZONEGRAN within the first 4 months of treatment but may occur at later times.
+
+2.
+ZONEGRAN may cause you to sweat less and to increase your body temperature (fever).
+You may need to be hospitalized for this.
+You should watch for decreased sweating and fever, especially when it is hot and especially in children taking ZONEGRAN.
+
+Call your health care provider right away if you have:
+
+- a skin rash
+- high fever, recurring fever, or long lasting fever
+- less sweat than normal
+
+3.
+Like other antiepileptic drugs, ZONEGRAN may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+
+Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
+
+- thoughts about suicide or dying
+- attempt to commit suicide
+- new or worse depression
+- new or worse anxiety
+- feeling agitated or restless
+- panic attacks
+- trouble sleeping (insomnia)
+- new or worse irritability
+- acting aggressive, being angry, or violent
+- acting on dangerous impulses
+- an extreme increase in activity and talking (mania)
+- other unusual changes in behavior or mood
+- Suicidal thoughts or actions can be caused by things other than medicines.
+  If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
+
+How can I watch for early symptoms of suicidal thoughts and actions?
+
+- Pay attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
+- Keep all follow-up visits with your healthcare provider as scheduled.
+
+Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
+
+Do not stop ZONEGRAN without first talking to a healthcare provider.
+
+Stopping ZONEGRAN suddenly can cause serious problems.
+Stopping a seizure medicine suddenly in a patient who has epilepsy can cause seizures that will not stop (status epilepticus).
+
+4.
+ZONEGRAN can increase the level of acid in your blood (metabolic acidosis).
+If left untreated, metabolic acidosis can cause brittle or soft bones (osteoporosis, osteomalacia, osteopenia), kidney stones and can slow the rate of growth in children.
+Metabolic acidosis can happen with or without symptoms.
+
+Sometimes people with metabolic acidosis will:
+
+- feel tired
+- not feel hungry (loss of appetite)
+- feel changes in heartbeat
+- have trouble thinking clearly
+
+Your healthcare provider should do a blood test to measure the level of acid in your blood before and during your treatment with ZONEGRAN.
+
+5.
+ZONEGRAN may cause problems with your concentration, attention, memory, thinking, speech, or language.
+
+6.
+ZONEGRAN can cause blood cell changes such as reduced red and white blood cell counts.
+Call your healthcare provider if you develop fever, sore throat, sores in your mouth, or unusual bruising.
 
 ZONEGRAN can have other serious side effects.
 For more information ask your healthcare provider or pharmacist.
 Tell your healthcare provider if you have any side effect that bothers you.
-Be sure to read the section titled "What are the possible side effects of ZONEGRAN?"
+Be sure to read the section titled “What are the possible side effects of ZONEGRAN?”
 
 What is ZONEGRAN?
 
@@ -80,7 +100,7 @@ Who should not take ZONEGRAN?
 
 Do not take ZONEGRAN if you are allergic to medicines that contain sulfa.
 
-What should I tell my healthcare provider before taking ZONEGRAN
+What should I tell my healthcare provider before taking ZONEGRAN?
 
 Before taking ZONEGRAN, tell your healthcare provider about all your medical conditions, including if you:
 
@@ -99,10 +119,13 @@ Tell your healthcare provider if you:
   ZONEGRAN may harm your unborn baby.
   Women who can become pregnant should use effective birth control.
   Tell your healthcare provider right away if you become pregnant while taking ZONEGRAN.
-  You and your healthcare provider should decide if you should take ZONEGRAN while you are pregnant.
-  If you become pregnant while taking ZONEGRAN, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
-  You can enroll in this registry by calling 1-888-233-2334.
-  The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
+
+You and your healthcare provider should decide if you should take ZONEGRAN while you are pregnant.
+
+If you become pregnant while taking ZONEGRAN, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
+You can enroll in this registry by calling 1-888-233-2334.
+The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
+
 - are breastfeeding or plan to breastfeed.
   ZONEGRAN can pass into your breast milk.
   It is not known if ZONEGRAN in your breast milk can harm your baby.
@@ -136,7 +159,7 @@ What are the possible side effects of ZONEGRAN?
 
 ZONEGRAN can cause serious side effects including:
 
-- The side effects mentioned above (see "What is the most important information I should know about ZONEGRAN?")
+- The side effects mentioned above (see “What is the most important information I should know about ZONEGRAN?”)
 - kidney stones: back pain, stomach pain, or blood in your urine may mean you have kidney stones.
   Drink plenty of fluids while you take ZONEGRAN to lower your chance of getting kidney stones.
 - problems with mood or thinking (new or worse depression; sudden changes in mood, behavior, or loss of contact with reality, sometimes associated with hearing voices or seeing things that are not really there; feeling sleepy or tired; trouble concentrating; speech and language problems).
@@ -162,7 +185,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store ZONEGRAN?
 
-- Store ZONEGRAN between 59°F to 86°F (15°C to 30°C)
+- Store ZONEGRAN between 59oF to 86oF (15oC to 30oC)
 - dry and away from light
 
 Keep ZONEGRAN and all medicines out of the reach of children.
@@ -186,10 +209,10 @@ Active ingredient: zonisamide
 
 Inactive ingredients: microcrystalline cellulose, hydrogenated vegetable oil, sodium lauryl sulfate, gelatin, and colorants.
 
-Issued January 2012
+Revised 09/2015
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 ZONEGRAN® is a registered trademark of Dainippon Pharmaceutical Co. Ltd. and licensed exclusively to Eisai, Inc.
 
-Distributed by Eisai Inc. Woodcliff Lake, NJ 07677
+Manufactured by Eisai Manufacturing Ltd. Distributed by Eisai Inc. Woodcliff Lake, NJ 07677

@@ -1,11 +1,7 @@
-PRINCIPAL DISPLAY PANEL - 25 mg Capsules
+# PRINCIPAL DISPLAY PANEL
 
-NDC 62856-681-10
+NDC 62856-681-10 Zonegran zonisamide Capsules 25 mg 100 Capsules Rx Only
 
-zonegran® zonisamide capsules 25 mg 100 capsules
+# PRINCIPAL DISPLAY PANEL
 
-PRINCIPAL DISPLAY PANEL - 100 mg Capsules
-
-NDC 62856-680-10
-
-zonegran® zonisamide capsules 100 mg 100 capsules
+NDC 62856-680-10 Zonegran zonisamide Capsules 100 mg 100 Capsules Rx Only

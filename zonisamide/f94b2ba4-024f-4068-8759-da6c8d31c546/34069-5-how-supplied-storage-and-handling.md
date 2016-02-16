@@ -9,12 +9,14 @@ ZONEGRAN is available in bottles of 100 with strengths and colors as follows:
 | 25 mg | White opaque body with white opaque cap. | 62856-681-10 |
 | 100 mg | White opaque body with red opaque cap. | 62856-680-10 |
 
-Store at 25°C (77°F), excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature], in a dry place and protected from light.
+Store at 25◦C (77◦F), excursions permitted to 15–30◦C (59–86◦F) [see USP Controlled Room Temperature], in a dry place and protected from light.
 
-Distributed by: Eisai Inc., Woodcliff Lake, NJ 07677
+Manufactured by: Eisai Manufacturing Ltd.
+
+Distributed by: Eisai Inc.,Woodcliff Lake, NJ 07677
 
 ZONEGRAN® is a registered trademark of Dainippon Pharmaceutical Co. Ltd. and licensed exclusively to Eisai Inc.
 
-© 2011 Eisai Inc.
+© 2015 Eisai Inc.
 
-Revised January 2012
+Revised September 2015

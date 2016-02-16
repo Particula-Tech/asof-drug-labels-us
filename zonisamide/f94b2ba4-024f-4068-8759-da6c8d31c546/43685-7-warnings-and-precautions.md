@@ -26,6 +26,17 @@ Two confirmed cases of aplastic anemia and one confirmed case of agranulocytosis
 There were no cases of aplastic anemia and two confirmed cases of agranulocytosis in the US, European, or Japanese development programs.
 There is inadequate information to assess the relationship, if any, between dose and duration of treatment and these events.
 
+## Drug Reaction with Eos inophilia and Sys temic Symptoms (DRESS)/Multi-Organ Hypersensitivity:
+
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), also known as multi-organ hypersensitivity, has occurred with ZONEGRAN.
+Some of these events have been fatal or life-threatening.
+DRESS typically, although not exclusively, presents with fever, rash, and/or lymphadenopathy, in association with other organ system involvement, such as hepatitis, nephritis, hematologic abnormalities, myocarditis, or myositis, sometimes resembling an acute viral infection.
+Eosinophilia is often present.
+This disorder is variable in its expression, and other organ systems not noted here may be involved.
+It is important to note that early manifestations of hypersensitivity (e.g., fever, lymphadenopathy) may be present even though rash is not evident.
+If such signs or symptoms are present, the patient should be evaluated immediately.
+ZONEGRAN should be discontinued if an alternative etiology for the signs or symptoms cannot be established.
+
 ## Oligohidrosis and Hyperthermia in Pediatric Patients:
 
 Oligohidrosis, sometimes resulting in heat stroke and hospitalization, is seen in association with zonisamide in pediatric patients.
@@ -44,14 +55,14 @@ Heat stroke, requiring hospitalization, was diagnosed in some cases.
 There have been no reported deaths.
 
 Pediatric patients appear to be at an increased risk for zonisamide-associated oligohidrosis and hyperthermia.
-Patients, especially pediatric patients, treated with Zonegran should be monitored closely for evidence of decreased sweating and increased body temperature, especially in warm or hot weather.
+Patients, especially pediatric patients, treated with ZONEGRAN should be monitored closely for evidence of decreased sweating and increased body temperature, especially in warm or hot weather.
 Caution should be used when zonisamide is prescribed with other drugs that predispose patients to heat-related disorders; these drugs include, but are not limited to, carbonic anhydrase inhibitors and drugs with anticholinergic activity.
 
 The practitioner should be aware that the safety and effectiveness of zonisamide in pediatric patients have not been established, and that zonisamide is not approved for use in pediatric patients.
 
 ## Suicidal Behavior and Ideation
 
-Antiepileptic drugs (AEDs), including Zonegran, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
+Antiepileptic drugs (AEDs), including ZONEGRAN, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
 
 Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI:1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
@@ -67,8 +78,7 @@ The risk did not vary substantially by age (5-100 years) in the clinical trials 
 
 Table 3 shows absolute and relative risk by indication for all evaluated AEDs.
 
-Table 3.
-Risk by indication for antiepileptic drugs in the pooled analysis
+Table 3: Risk by indication for antiepileptic drugs in the pooled analysis
 
 | Indication | Placebo Patients with Events Per 1000 Patients | Drug Patients with Events Per 1000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1000 Patients |
 | --- | --- | --- | --- | --- |
@@ -79,7 +89,7 @@ Risk by indication for antiepileptic drugs in the pooled analysis
 
 The relative risk for suicidal thoughts or behavior was higher in clinical trials for epilepsy than in clinical trials for psychiatric or other conditions, but the absolute risk differences were similar for the epilepsy and psychiatric indications.
 
-Anyone considering prescribing Zonegran or any other AED must balance the risk of suicidal thoughts or behavior with the risk of untreated illness.
+Anyone considering prescribing ZONEGRAN or any other AED must balance the risk of suicidal thoughts or behavior with the risk of untreated illness.
 Epilepsy and many other illnesses for which AEDs are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior.
 Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
 
@@ -133,7 +143,7 @@ Dose reduction or discontinuation of zonisamide should be done gradually.
 
 ## Teratogenicity:
 
-Teratogenicity: Women of child bearing potential who are given zonisamide should be advised to use effective contraception.
+Women of child bearing potential who are given zonisamide should be advised to use effective contraception.
 Zonisamide was teratogenic in mice, rats, and dogs and embryolethal in monkeys when administered during the period of organogenesis.
 A variety of fetal abnormalities, including cardiovascular defects, and embryo-fetal deaths occurred at maternal plasma levels similar to or lower than therapeutic levels in humans.
 These findings suggest that the use of ZONEGRAN during pregnancy in humans may present a significant risk to the fetus (see PRECAUTIONS, Pregnancy subsection).
@@ -164,11 +174,11 @@ Patients should be cautioned about this possibility and special care should be t
 ## General:
 
 Somnolence is commonly reported, especially at higher doses of ZONEGRAN (see WARNINGS: Cognitive/ Neuropsychiatric Adverse Events subsection).
-Zonisamide is metabolized by the liver and eliminated by the kidneys; caution should therefore be exercised when administering ZONEGRAN to patients with hepatic and renal dysfunction (see CLINICAL PHARMACOLOGY, Special Populations subsection).
+Zonisamide is metabolized by the liver and eliminated by the kidneys; caution should therefore be exercised when administering ZONEGRAN to patients with hepatic and renal dysfunction (see CLINICAL PHARMACOLOGY, Specific Populations subsection).
 
 ## Kidney Stones:
 
-Among 991 patients treated during the development of ZONEGRAN, 40 patients (4.0%) with epilepsy receiving ZONEGRAN developed clinically possible or confirmed kidney stones (e.g., clinical symptomatology, sonography, etc.), a rate of 34 per 1000 patient-years of exposure (40 patients with 1168 years of exposure).
+Among 991 patients treated during the development of ZONEGRAN, 40 patients (4.0%) with epilepsy receiving ZONEGRAN developed clinically possible or confirmed kidney stones (e.g. clinical symptomatology, sonography, etc.), a rate of 34 per 1000 patient-years of exposure (40 patients with 1168 years of exposure).
 Of these, 12 were symptomatic, and 28 were described as possible kidney stones based on sonographic detection.
 In nine patients, the diagnosis was confirmed by a passage of a stone or by a definitive sonographic finding.
 The rate of occurrence of kidney stones was 28.7 per 1000 patient-years of exposure in the first six months, 62.6 per 1000 patient-years of exposure between 6 and 12 months, and 24.3 per 1000 patient-years of exposure after 12 months of use.
@@ -178,8 +188,8 @@ The analyzed stones were composed of calcium or urate salts.
 In general, increasing fluid intake and urine output can help reduce the risk of stone formation, particularly in those with predisposing risk factors.
 It is unknown, however, whether these measures will reduce the risk of stone formation in patients treated with ZONEGRAN.
 
-Although not approved in pediatric patients, sonographic findings consistent with nephrolithiasis were also detected in 8% of a subset of ZONEGRAN treated pediatric patients who had at least one renal ultrasound prospectively performed in a clinical development program investigating open-label treatment.
-The incidence of kidney stone as an adverse event was 3% (see WARNINGS, Metabolic Acidosis subsection).
+Although not approved in pediatric patients, sonographic findings consistent with nephrolithiasis were also detected in 8 % of a subset of ZONEGRAN treated pediatric patients who had at least one renal ultrasound prospectively performed in a clinical development program investigating open-label treatment.
+The incidence of kidney stone as an adverse event was 3 % (see WARNINGS, Metabolic Acidosis subsection).
 
 ## Effect on Renal Function:
 
@@ -187,7 +197,7 @@ In several clinical studies, zonisamide was associated with a statistically sign
 The increase appeared to persist over time but was not progressive; this has been interpreted as an effect on glomerular filtration rate (GFR).
 There were no episodes of unexplained acute renal failure in clinical development in the US, Europe, or Japan.
 The decrease in GFR appeared within the first 4 weeks of treatment.
-In a 30-day study, the GFR returned to baseline within 2-3 weeks of drug discontinuation.
+In a 30-day study, the GFR returned to baseline within 2–3 weeks of drug discontinuation.
 There is no information about reversibility, after drug discontinuation, of the effects on GFR after long-term use.
 ZONEGRAN should be discontinued in patients who develop acute renal failure or a clinically significant sustained increase in the creatinine/BUN concentration.
 ZONEGRAN should not be used in patients with renal failure (estimated GFR < 50 mL/min) as there has been insufficient experience concerning drug dosing and toxicity.
@@ -195,20 +205,20 @@ ZONEGRAN should not be used in patients with renal failure (estimated GFR < 50 m
 ## Sudden Unexplained Death in Epilepsy:
 
 During the development of ZONEGRAN, nine sudden unexplained deaths occurred among 991 patients with epilepsy receiving ZONEGRAN for whom accurate exposure data are available.
-This represents an incidence of 7.7 deaths per 1000 patient years.
-Although this rate exceeds that expected in a healthy population, it is within the range of estimates for the incidence of sudden unexplained deaths in patients with refractory epilepsy not receiving ZONEGRAN (ranging from 0.5 per 1000 patient-years for the general population of patients with epilepsy, to 2-5 per 1000 patient-years for patients with refractory epilepsy; higher incidences range from 9-15 per 1000 patient-years among surgical candidates and surgical failures).
+This represents an incidence of 7.7 deaths per 1000 patient-years.
+Although this rate exceeds that expected in a healthy population, it is within the range of estimates for the incidence of sudden unexplained deaths in patients with refractory epilepsy not receiving ZONEGRAN (ranging from 0.5 per 1000 patient-years for the general population of patients with epilepsy, to 2–5 per 1000 patient-years for patients with refractory epilepsy; higher incidences range from 9–15 per 1000 patient-years among surgical candidates and surgical failures).
 Some of the deaths could represent seizure-related deaths in which the seizure was not observed.
 
 ## Status Epilepticus:
 
-Estimates of the incidence of treatment emergent status epilepticus in ZONEGRAN-treated patients are difficult because a standard definition was not employed.
+Estimates of the incidence of treatment emergent status epilepticus in ZONEGRAN treated patients are difficult because a standard definition was not employed.
 Nonetheless, in controlled trials, 1.1% of patients treated with ZONEGRAN had an event labeled as status epilepticus compared to none of the patients treated with placebo.
 Among patients treated with ZONEGRAN across all epilepsy studies (controlled and uncontrolled), 1.0% of patients had an event reported as status epilepticus.
 
 ## Information for Patients:
 
-Patients should be informed of the availability of a Medication Guide, and they should be instructed to read the Medication Guide prior to taking Zonegran.
-Patients should be instructed to take Zonegran only as prescribed.
+Patients should be informed of the availability of a Medication Guide, and they should be instructed to read the Medication Guide prior to taking ZONEGRAN.
+Patients should be instructed to take ZONEGRAN only as prescribed.
 
 Patients should be advised as follows: (See Medication Guide)
 
@@ -216,18 +226,19 @@ Patients should be advised as follows: (See Medication Guide)
    Patients should be advised not to drive a car or operate other complex machinery until they have gained experience on ZONEGRAN sufficient to determine whether it affects their performance.
    Because of the potential of zonisamide to cause CNS depression, as well as other cognitive and/or neuropsychiatric adverse events, zonisamide should be used with caution if used in combination with alcohol or other CNS depressants.
 2. Patients should contact their physician immediately if a skin rash develops or seizures worsen.
-3. Patients should contact their physician immediately if they develop signs or symptoms, such as sudden back pain, abdominal pain, and/or blood in the urine, that could indicate a kidney stone.
+3. Patients should contact their physician immediately if they develop signs or symptoms, such as sudden back pain, abdominal pain, and/or blood in the urine that could indicate a kidney stone.
    Increasing fluid intake and urine output may reduce the risk of stone formation, particularly in those with predisposing risk factors for stones.
 4. Patients should contact their physician immediately if a child has been taking ZONEGRAN and is not sweating as usual with or without a fever.
 5. Because zonisamide can cause hematological complications, patients should contact their physician immediately if they develop a fever, sore throat, oral ulcers, or easy bruising.
-6. Suicidal Thinking and Behavior - Patients, their caregivers, and families should be counseled that AEDs, including Zonegran, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
+6. Suicidal Thinking and Behavior - Patients, their caregivers, and families should be counseled that AEDs, including ZONEGRAN, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
    Behaviors of concern should be reported immediately to healthcare providers.
 7. Patients should contact their physician immediately if they develop fast breathing, fatigue/tiredness, loss of appetite, or irregular heart beat or palpitations (possible manifestations of metabolic acidosis).
 8. As with other AEDs, patients should contact their physician if they intend to become pregnant or are pregnant during ZONEGRAN therapy.
    Patients should notify their physician if they intend to breast-feed or are breast-feeding an infant.
-   Patients should be encouraged to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
-   This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
-   To enroll, patients can call the toll free number 1-888-233-2334 (see PRECAUTIONS, Pregnancy subsection).
+
+Patients should be encouraged to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
+This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
+To enroll, patients can call the toll free number 1-888-233-2334 (see PRECAUTIONS, Pregnancy subsection).
 
 ## Laboratory Tests:
 
@@ -235,18 +246,6 @@ In several clinical studies, zonisamide was associated with a mean increase in t
 Consideration should be given to monitoring renal function periodically (see PRECAUTIONS, Effect on Renal Function subsection).
 
 Zonisamide increases serum chloride and alkaline phosphatase and decreases serum bicarbonate (see WARNINGS, Metabolic Acidosis subsection), phosphorus, calcium, and albumin.
-
-## Drug Interactions:
-
-Effects of ZONEGRAN on the pharmacokinetics of other antiepilepsy drugs (AEDs): Zonisamide had no appreciable effect on the steady state plasma concentrations of phenytoin, carbamazepine, or valproate during clinical trials.
-Zonisamide did not inhibit mixed-function liver oxidase enzymes (cytochrome P450), as measured in human liver microsomal preparations, in vitro.
-Zonisamide is not expected to interfere with the metabolism of other drugs that are metabolized by cytochrome P450 isozymes.
-
-Effects of other drugs on ZONEGRAN pharmacokinetics: Drugs that induce liver enzymes increase the metabolism and clearance of zonisamide and decrease its half-life.
-The half-life of zonisamide following a 400 mg dose in patients concurrently on enzyme-inducing AEDs such as phenytoin, carbamazepine, or phenobarbital was between 27-38 hours; the half-life of zonisamide in patients concurrently on the non-enzyme inducing AED, valproate, was 46 hours.
-Concurrent medication with drugs that either induce or inhibit CYP3A4 would be expected to alter serum concentrations of zonisamide.
-
-Interaction with cimetidine: Zonisamide single dose pharmacokinetic parameters were not affected by cimetidine (300 mg four times a day for 12 days).
 
 Drug Interactions with CNS Depressants: Concomitant administration of ZONEGRAN and alcohol or other CNS depressant drugs has not been evaluated in clinical studies.
 Because of the potential of zonisamide to cause CNS depression, as well as other cognitive and/or neuropsychiatric adverse events, zonisamide should be used with caution if used in combination with alcohol or other CNS depressants.
@@ -258,7 +257,7 @@ Therefore, if ZONEGRAN is given concomitantly with another carbonic anhydrase in
 
 No evidence of carcinogenicity was found in mice or rats following dietary administration of zonisamide for two years at doses of up to 80 mg/kg/day.
 In mice, this dose is approximately equivalent to the maximum recommended human dose (MRHD) of 400 mg/day on a mg/m2 basis.
-In rats, this dose is 1-2 times the MRHD on a mg/m2 basis.
+In rats, this dose is 1–2 times the MRHD on a mg/m2 basis.
 
 Zonisamide was mutagenic in an in vitro chromosomal aberration assay in CHL cells.
 Zonisamide was not mutagenic or clastogenic in other in vitro assays (Ames, mouse lymphoma tk assay, chromosomal aberration in human lymphocytes) or in the in vivo rat bone marrow cytogenetics assay.
@@ -268,11 +267,13 @@ The low dose in this study is approximately 0.5 times the maximum recommended hu
 
 ## Pregnancy:
 
-Pregnancy Category C (see WARNINGS, Teratogenicity subsection): Zonisamide may cause serious adverse fetal effects, based on clinical and nonclinical data.
+Pregnancy Category C (see WARNINGS, Teratogenicity subsection):
+
+Zonisamide may cause serious adverse fetal effects, based on clinical and nonclinical data.
 Zonisamide was teratogenic in multiple animal species.
 
 Zonisamide treatment causes metabolic acidosis in humans.
-The effect of zonisamide-induced metabolic acidosis has not been studied in pregnancy; however, metabolic acidosis in pregnancy (due to other causes) may be associated with decreased fetal growth, decreased fetal oxygenation, and fetal death, and may affect the fetus' ability to tolerate labor.
+The effect of zonisamide-induced metabolic acidosis has not been studied in pregnancy; however, metabolic acidosis in pregnancy (due to other causes) may be associated with decreased fetal growth, decreased fetal oxygenation, and fetal death, and may affect the fetus’s ability to tolerate labor.
 Pregnant patients should be monitored for metabolic acidosis and treated as in the non-pregnant state.
 (See WARNINGS, Metabolic Acidosis subsection.)
 
@@ -285,14 +286,14 @@ A variety of external, visceral, and skeletal malformations was produced in anim
 Cardiovascular defects were prominent in both rats and dogs.
 
 Following administration of zonisamide (10, 30, or 60 mg/kg/day) to pregnant dogs during organogenesis, increased incidences of fetal cardiovascular malformations (ventricular septal defects, cardiomegaly, various valvular and arterial anomalies) were found at doses of 30 mg/kg/day or greater.
-The low effect dose for malformations produced peak maternal plasma zonisamide levels (25 μg/mL) about 0.5 times the highest plasma levels measured in patients receiving the maximum recommended human dose (MRHD) of 400 mg/day.
-In dogs, cardiovascular malformations were found in approximately 50% of all fetuses exposed to the high dose, which was associated with maternal plasma levels (44 μg/mL) approximately equal to the highest levels measured in humans receiving the MRHD.
+The low effect dose for malformations produced peak maternal plasma zonisamide levels (25 µg/mL) about 0.5 times the highest plasma levels measured in patients receiving the maximum recommended human dose (MRHD) of 400 mg/day.
+In dogs, cardiovascular malformations were found in approximately 50% of all fetuses exposed to the high dose, which was associated with maternal plasma levels (44 µg/mL) approximately equal to the highest levels measured in humans receiving the MRHD.
 Incidences of skeletal malformations were also increased at the high dose, and fetal growth retardation and increased frequencies of skeletal variations were seen at all doses in this study.
-The low dose produced maternal plasma levels (12 μg/mL) about 0.25 times the highest human levels.
+The low dose produced maternal plasma levels (12 µg/mL) about 0.25 times the highest human levels.
 
 In cynomolgus monkeys, administration of zonisamide (10 or 20 mg/kg/day) to pregnant animals during organogenesis resulted in embryo-fetal deaths at both doses.
 The possibility that these deaths were due to malformations cannot be ruled out.
-The lowest embryolethal dose in monkeys was associated with peak maternal plasma zonisamide levels (5 μg/mL) approximately 0.1 times the highest levels measured in patients at the MRHD.
+The lowest embryolethal dose in monkeys was associated with peak maternal plasma zonisamide levels (5 µg/mL) approximately 0.1 times the highest levels measured in patients at the MRHD.
 
 In a mouse embryo-fetal development study, treatment of pregnant animals with zonisamide (125, 250, or 500 mg/kg/day) during the period of organogenesis resulted in increased incidences of fetal malformations (skeletal and/or craniofacial defects) at all doses tested.
 The low dose in this study is approximately 1.5 times the MRHD on a mg/m2 basis.
@@ -329,7 +330,7 @@ The effect of zonisamide on growth and bone-related sequelae has not been system
 
 ## Geriatric Use:
 
-Single dose pharmacokinetic parameters are similar in elderly and young healthy volunteers (see CLINICAL PHARMACOLOGY, Special Populations subsection).
+Single dose pharmacokinetic parameters are similar in elderly and young healthy volunteers (see CLINICAL PHARMACOLOGY, Specific Populations subsection).
 Clinical studies of zonisamide did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.

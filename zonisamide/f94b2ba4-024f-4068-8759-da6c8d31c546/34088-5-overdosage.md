@@ -4,7 +4,7 @@
 
 Experience with ZONEGRAN daily doses over 800 mg/day is limited.
 During ZONEGRAN clinical development, three patients ingested unknown amounts of ZONEGRAN as suicide attempts, and all three were hospitalized with CNS symptoms.
-One patient became comatose and developed bradycardia, hypotension, and respiratory depression; the zonisamide plasma level was 100.1 μg/mL measured 31 hours post-ingestion.
+One patient became comatose and developed bradycardia, hypotension, and respiratory depression; the zonisamide plasma level was 100.1 µg/mL measured 31 hours post-ingestion.
 Zonisamide plasma levels fell with a half-life of 57 hours, and the patient became alert five days later.
 
 ## Management:
