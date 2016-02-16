@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA089286"
+  ],
+  "inn": "chlorthalidone",
+  "labeler": "Sun Pharmaceutical Industries, Inc.",
+  "package_ndcs": [
+    "57664-648-88",
+    "57664-649-88"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "chlorthalidone",
+      "name": "Chlorthalidone"
+    }
+  ],
+  "setid": "a304de67-cd2b-4933-937e-4eeecf6cda40",
+  "source": "dailymed"
+}
