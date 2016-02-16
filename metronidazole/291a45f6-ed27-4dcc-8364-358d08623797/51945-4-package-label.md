@@ -4,7 +4,7 @@
 
 NDC 50111-333-01
 
-METRONIDAZOLE Tablets USP 250 mg
+Metronidazole Tablets USP 250 mg
 
 Rx only
 
@@ -18,7 +18,7 @@ TEVA
 
 NDC 50111-334-01
 
-METRONIDAZOLE Tablets USP 500 mg
+Metronidazole Tablets USP 500 mg
 
 Rx only
 
