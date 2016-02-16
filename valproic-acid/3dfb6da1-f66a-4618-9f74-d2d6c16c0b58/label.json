@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA076539"
+  ],
+  "inn": "valproic-acid",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "63323-494-16"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "valproate sodium",
+      "name": "Valproate Sodium"
+    }
+  ],
+  "setid": "3dfb6da1-f66a-4618-9f74-d2d6c16c0b58",
+  "source": "dailymed"
+}

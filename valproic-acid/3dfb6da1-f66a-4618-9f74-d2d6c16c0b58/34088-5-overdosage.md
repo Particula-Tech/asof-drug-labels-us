@@ -1,0 +1,10 @@
+# 10 OVERDOSAGE
+
+Overdosage with valproate may result in somnolence, heart block, deep coma, and hypernatremia.
+Fatalities have been reported; however patients have recovered from valproate serum concentrations as high as 2,120 mcg/mL.
+
+In overdose situations, the fraction of drug not bound to protein is high and hemodialysis or tandem hemodialysis plus hemoperfusion may result in significant removal of drug.
+General supportive measures should be applied with particular attention to the maintenance of adequate urinary output.
+
+Naloxone has been reported to reverse the CNS depressant effects of valproate overdosage.
+Because naloxone could theoretically also reverse the antiepilepsy effects of valproate, it should be used with caution in patients with epilepsy.
