@@ -9,8 +9,8 @@ Risk Summary
 There are no adequate or well-controlled studies with phenylephrine hydrochloride injection in pregnant women, nor have animal reproduction studies been conducted.
 Published studies in normotensive pregnant rabbits report early onset labor, increased fetal lethality, and adverse placental effects with subcutaneous phenylephrine administration during gestation at doses approximately 1.9-times the total daily human dose.
 Published studies in normotensive pregnant sheep report decreased uterine blood flow and decreased PaO2 in the fetus with intravenous phenylephrine administration during late gestation at doses less than and similar to the human dose.
-It is not known whether VAZCULEP, can cause fetal harm when administered to a pregnant woman.
-VAZCULEP, should be given to a pregnant woman only if the potential benefit justifies the potential risk to the fetus.
+It is not known whether VAZCULEP can cause fetal harm when administered to a pregnant woman.
+VAZCULEP should be given to a pregnant woman only if the potential benefit justifies the potential risk to the fetus.
 
 Clinical Considerations
 
