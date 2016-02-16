@@ -50,5 +50,5 @@
 | Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936 |  |
 | The brands listed are the trademarks or register marks of their respective owners and are not trademarks or register marks of Novartis. |  |
 | © Novartis |  |
-| T2016-17/T2016-18 |  |
+| T2016-18 |  |
 | This Patient Information has been approved by the U.S. Food and Drug Administration. | Revised: 2/2016 |

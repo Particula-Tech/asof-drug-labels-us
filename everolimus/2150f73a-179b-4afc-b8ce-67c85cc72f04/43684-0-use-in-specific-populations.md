@@ -96,26 +96,6 @@ Other reported clinical experience has not identified differences in response be
 
 No dosage adjustment in initial dosing is required in elderly patients, but close monitoring and appropriate dose adjustments for adverse reactions is recommended [see Dosage and Administration (2.2), Clinical Pharmacology (12.3)].
 
-## 8.6 Females and Males of Reproductive Potential
-
-Contraception
-
-Females
-
-AFINITOR can cause fetal harm when administered to a pregnant woman.
-Advise female patients of reproductive potential to use highly effective contraception while receiving AFINITOR and for up to 8 weeks after ending treatment [see Use in Specific Populations (8.1)].
-
-Infertility
-
-Females
-
-Menstrual irregularities, secondary amenorrhea, and increases in luteinizing hormone (LH) and follicle stimulating hormone (FSH) occurred in female patients taking AFINITOR.
-Based on these clinical findings and findings in animals, female fertility may be compromised by treatment with AFINITOR [see Adverse Reactions (6.2, 6.4, 6.5) and Nonclinical Toxicology (13.1)].
-
-Males
-
-AFINITOR treatment may impair fertility in male patients based on animal findings [see Nonclinical Toxicology (13.1)].
-
 ## 8.7 Renal Impairment
 
 No clinical studies were conducted with AFINITOR in patients with decreased renal function.
