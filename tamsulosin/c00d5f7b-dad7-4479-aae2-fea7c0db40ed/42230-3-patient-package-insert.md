@@ -1,6 +1,6 @@
 PATIENT INFORMATION
 
-Flomax® (Flō-max) (tamsulosin hydrochloride, USP) Capsules, 0.4 mg
+FLOMAX® (Flō-max) (tamsulosin hydrochloride, USP) Capsules, 0.4 mg
 
 Read the Patient Information that comes with FLOMAX capsules before you start taking it and each time you refill your prescription.
 The information may have changed.
@@ -115,16 +115,14 @@ For current prescribing information scan the code below, or call Boehringer Inge
 What are the ingredients in FLOMAX capsules?
 
 - Active Ingredient: tamsulosin hydrochloride, USP
-- Inactive Ingredients: microcrystalline cellulose, methacrylic acid and ethyl acrylate copolymer dispersion, methacrylic acid copolymer dispersion, talc, polysorbate 80, sodium lauryl sulfate, colloidal silicon dioxide, gelatin, titanium dioxide, FD&C blue No. 2, iron oxide, propylene glycol, and shellac.
+- Inactive Ingredients: microcrystalline cellulose; methacrylic acid copolymer dispersion; triacetin; calcium stearate; talc; gelatin; iron oxide; FD&C blue No. 2; titanium dioxide; propylene glycol; and shellac.
 
 Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
-Flomax is a registered trademark of, and licensed from: Astellas Pharma Inc. Tokyo 103-8411, JAPAN
+FLOMAX is a registered trademark of, and licensed from: Astellas Pharma Inc. Tokyo 103-8411, JAPAN
 
-Copyright © 2014, ALL RIGHTS RESERVED
+Copyright © 2016, ALL RIGHTS RESERVED
 
-IT6074CJ272014
+IT6314BA212016 2000007096
 
-46147165
-
-Revised: October 2014
+Revised: January 2016
