@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA206099"
+  ],
+  "inn": "sumatriptan",
+  "labeler": "Avanir Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "64597-311-08",
+    "64597-311-93"
+  ],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "sumatriptan succinate",
+      "name": "ONZETRA"
+    }
+  ],
+  "setid": "08234d7d-5972-4384-99a5-599140aa215d",
+  "source": "dailymed"
+}
