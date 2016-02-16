@@ -24,4 +24,4 @@ CNS: Digoxin can cause headache, weakness, dizziness, apathy, confusion, and men
 Other: Gynecomastia has been occasionally observed following the prolonged use of digoxin.
 Thrombocytopenia and maculopapular rash and other skin reactions have been rarely observed.
 
-To report SUSPECTED ADVERSE REACTIONS, contact West-Ward Pharmaceutical Corp. at 1-877-233-2001, or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact West-Ward Pharmaceuticals Corp. at 1-877-233-2001, or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

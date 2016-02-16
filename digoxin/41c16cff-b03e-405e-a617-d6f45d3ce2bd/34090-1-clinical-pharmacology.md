@@ -24,9 +24,10 @@ Times to Onset of Pharmacologic Effect and to Peak Effect of Preparations of Dig
 
 | Product | Time to Onset of Effecta | Time to Peak Effecta |
 | --- | --- | --- |
-| Digoxin Tablets | 0.5-2 hours | 2-6 hours |
-| Digoxin Injection/IV | 5-30 minutesb | 1-4 hours |
-| a Documented for ventricular response rate in atrial fibrillation, inotropic effects and electrocardiographic changes. b Depending upon rate of infusion. |  |  |
+| Digoxin Tablets | 0.5 to 2 hours | 2 to 6 hours |
+| Digoxin Injection/IV | 5 to 30 minutesb | 1 to 4 hours |
+
+a Documented for ventricular response rate in atrial fibrillation, inotropic effects and electrocardiographic changes. b Depending upon rate of infusion.
 
 Hemodynamic Effects: Short-and long-term therapy with the drug increases cardiac output and lowers pulmonary artery pressure, pulmonary capillary wedge pressure, and systemic vascular resistance in patients with heart failure.
 These hemodynamic effects are accompanied by an increase in the left ventricular ejection fraction and a decrease in end-systolic and end-diastolic dimensions.
@@ -95,9 +96,3 @@ Therefore, titrate carefully in these patients based on clinical response and ba
 
 Race: The impact of race differences on digoxin pharmacokinetics has not been formally studied.
 Because digoxin is primarily eliminated as unchanged drug via the kidney and because there are no important differences in creatinine clearance among races, pharmacokinetic differences due to race are not expected.
-
-Drug-drug Interactions
-
-Based on literature reports no significant changes in digoxin exposure were reported when digoxin was co-administered with the following drugs:
-
-alfuzosin, aliskiren, amlodipine, aprepitant, argatroban, aspirin, atorvastatin, benazepril, bisoprolol, black cohosh, bosentan, candesartan, citalopram, clopidogrel, colesevelam, dipyridamole, disopyramide, donepezil, doxazosin, dutasteride, echinacea, enalapril, eprosartan, ertapenem, escitalopram, esmolol, ezetimibe, famciclovir, felodipine, finasteride, flecainide, fluvastatin, fondaparinux, galantamine, gemifloxacin, grapefruit juice, irbesartan, isradipine, ketorolac, levetiracetam, levofloxacin, lisinopril, losartan, lovastatin, meloxicam, mexilitine, midazolam, milk thistle, moexipril, montelukast, moxifloxacin, mycophenolate, nateglinide, nesiritide, nicardipine, nisoldipine, olmesartan, orlistat, pantoprazole, paroxetine,perindopril, pioglitazone, pravastatin, prazosin, procainamide, quinapril, raloxifene, ramipril, repaglinide, rivastigmine, rofecoxib, ropinirole, rosiglitazone, rosuvastatin, sertraline, sevelamer, simvastatin, sirolimus, solifenacin, tamsulosin, tegaserod, terbinafine, tiagabine, ticlopidine, tigecycline, topiramate, torsemide, tramadol, trandolapril, triamterene, trospium, trovafloxacin, valacyclovir, valsartan, varenicline, voriconazole, zaleplon, zolpidem
