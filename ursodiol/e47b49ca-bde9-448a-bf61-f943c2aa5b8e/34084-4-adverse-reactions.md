@@ -20,6 +20,7 @@ Figure 2
 | Cholecystitis | 8 | (5.2) | 7 | (4.4) |
 | Constipation | 15 | (9.7) | 14 | (8.8) |
 | Diarrhea | 42 | (27.1) | 34 | (21.4) |
+| Dyspepsia | 26 | (16.8) | 18 | (11.3) |
 | Flatulence | 12 | (7.7) | 12 | (7.5) |
 | Gastrointestinal Disorder | 6 | (3.9) | 8 | (5.0) |
 | Nausea | 22 | (14.2) | 27 | (17.0) |
