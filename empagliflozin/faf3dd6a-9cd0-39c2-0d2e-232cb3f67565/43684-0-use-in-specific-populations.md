@@ -9,6 +9,9 @@ Based on results from animal studies, empagliflozin may affect renal development
 In studies conducted in rats, empagliflozin crosses the placenta and reaches fetal tissues.
 During pregnancy, consider appropriate alternative therapies, especially during the second and third trimesters.
 
+In a juvenile toxicity study in the rat, when empagliflozin was administered to young rats from postnatal day (PND) 21 until PND 90, at doses of 1, 10, 30 and 100 mg/kg/day, increased kidney weights and renal tubular and pelvic dilatation were seen at 100 mg/kg/day, which approximates 13-times the maximum clinical dose of 25 mg, based on AUC.
+These findings were not observed after a 13 week drug-free recovery period.
+
 Empagliflozin was not teratogenic in embryo-fetal development studies in rats and rabbits up to 300 mg/kg/day, which approximates 48-times and 128-times, respectively, the maximum clinical dose of 25 mg.
 At higher doses, causing maternal toxicity, malformations of limb bones increased in fetuses at 700 mg/kg/day or 154 times the 25 mg maximum clinical dose in rats.
 In the rabbit, higher doses of empagliflozin resulted in maternal and fetal toxicity at 700 mg/kg/day, or 139 times the 25 mg maximum clinical dose.
@@ -20,6 +23,7 @@ Reduced body weight was observed in the offspring at greater than or equal to 30
 
 It is not known if JARDIANCE is excreted in human milk.
 Empagliflozin is secreted in the milk of lactating rats reaching levels up to 5 times higher than that in maternal plasma.
+Data in juvenile rats directly exposed to empagliflozin showed risk to the developing kidney (renal pelvic and tubular dilatations) during maturation which were not observed after a 13 week drug-free recovery period.
 Since human kidney maturation occurs in utero and during the first 2 years of life when lactational exposure may occur, there may be risk to the developing human kidney.
 Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from JARDIANCE, a decision should be made whether to discontinue nursing or to discontinue JARDIANCE, taking into account the importance of the drug to the mother.
 

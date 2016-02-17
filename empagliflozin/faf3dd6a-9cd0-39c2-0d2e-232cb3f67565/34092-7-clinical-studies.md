@@ -239,12 +239,12 @@ For placebo, least square mean HbA1c changes at 24 weeks were 0.1%, -0.1%, and 0
 
 Table 11 Results at Week 24 (LOCF) of Placebo-Controlled Study for JARDIANCE in Patients with Type 2 Diabetes and Renal Impairment
 
-|  |  | Mild and Moderate Impairmentb |
-| --- | --- | --- |
-|  |  | JARDIANCE 25 mg |
-| HbA1c |  |  |
-|  | Number of patients | n=284 |
-|  | Comparison vs placebo (adjusted mean) (95% CI) | -0.5a (-0.6, -0.4) |
-| ap-value <0.0001 (HbA1c: ANCOVA model includes baseline HbA1c, treatment, renal function, and background medication) beGFR 30 to less than 90 mL/min/1.73 m2- Modified intent to treat population. Last observation on study (LOCF) was used to impute missing data at Week 24. At Week 24, 24.6% and 26.2% was imputed for patients randomized to JARDIANCE 25 mg and placebo, respectively. |  |  |
+|  | Mild and Moderate Impairmentb |
+| --- | --- |
+|  | JARDIANCE 25 mg |
+| HbA1c |  |
+| Number of patients | n=284 |
+| Comparison vs placebo (adjusted mean) (95% CI) | -0.5a (-0.6, -0.4) |
+| ap-value <0.0001 (HbA1c: ANCOVA model includes baseline HbA1c, treatment, renal function, and background medication) beGFR 30 to less than 90 mL/min/1.73 m2- Modified intent to treat population. Last observation on study (LOCF) was used to impute missing data at Week 24. At Week 24, 24.6% and 26.2% was imputed for patients randomized to JARDIANCE 25 mg and placebo, respectively. |  |
 
 For patients with severe renal impairment, the analyses of changes in HbA1c and FPG showed no discernible treatment effect of JARDIANCE 25 mg compared to placebo [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
