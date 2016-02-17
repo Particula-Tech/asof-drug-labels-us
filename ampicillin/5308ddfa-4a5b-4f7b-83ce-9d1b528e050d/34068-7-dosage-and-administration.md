@@ -54,9 +54,9 @@ Good professional practice suggests that compounded admixtures should be adminis
 
 Stability studies on ampicillin sodium at several concentrations in various intravenous solutions indicate the drug will lose less than 10% activity at the temperatures noted for the time periods stated.
 
-| Room Temperature (25° C) |  |  |
-| --- | --- | --- |
 | Diluent | Concentrations | Stability Periods |
+| --- | --- | --- |
+| Room Temperature (25° C) |  |  |
 | Sterile Water for Injection USP | up to 30 mg/mL | 8 hours |
 | 0.9% Sodium Chloride Injection USP | up to 30 mg/mL | 8 hours |
 | 5% Dextrose Injection USP | 10 to 20 mg/mL | 1 hour |
@@ -64,6 +64,7 @@ Stability studies on ampicillin sodium at several concentrations in various intr
 | 5% Dextrose and 0.45% NaCl Injection USP | up to 2 mg/mL | 2 hours |
 | Lactated Ringer’s Injection USP | up to 30 mg/mL | 8 hours |
 | Refrigerated (4° C) |  |  |
+| Diluent | Concentrations | Stability Periods |
 | Sterile Water for Injection USP | 30 mg/mL | 48 hours |
 | Sterile Water for Injection USP | up to 20 mg/mL | 72 hours |
 | 0.9% Sodium Chloride Injection USP | 30 mg/mL | 24 hours |

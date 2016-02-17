@@ -6,4 +6,6 @@ NDC 0781-9409-95 10 gram Pharmacy Bulk Package – Packaged in 10s
 
 ## Storage
 
-Store at 20°-25°C (68°-77°F) (see USP Controlled Room Temperature).
+Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
+
+Protect the constituted solution from freezing.

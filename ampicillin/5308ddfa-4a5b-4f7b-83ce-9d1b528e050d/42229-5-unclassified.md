@@ -3,10 +3,12 @@
 
 To reduce the development of drug-resistant bacteria and maintain the effectiveness of ampicillin and other antibacterial drugs, Ampicillin for Injection, USP should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
 
-09-2013M
+08-2015M
 
-46119406
+46144038
 
-Manufactured in Austria by Sandoz GmbH
+NOVAPLUS is a registered trademark of Novation, LLC.
 
-for Sandoz Inc., Princeton, NJ 08540
+Manufactured in Austria by Sandoz GmbH for
+
+Sandoz Inc., Princeton, NJ 08540
