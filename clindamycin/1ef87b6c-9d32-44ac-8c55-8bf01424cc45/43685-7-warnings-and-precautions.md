@@ -13,7 +13,15 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
+## Hypersensitivity
+
+Severe hypersensitivity reactions, including severe skin reactions such as toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and Stevens-Johnson syndrome (SJS), some with fatal outcome, have been reported.
+In case of such an event, treatment should be permanently discontinued.
+
 A careful inquiry should be made concerning previous sensitivities to drugs and other allergens.
+
+SERIOUS ANAPHYLACTOID OR ANAPHYLACTIC REACTIONS REQUIRE IMMEDIATE EMERGENCY TREATMENT WITH EPINEPHRINE.
+OXYGEN AND INTRAVENOUS CORTICOSTEROIDS SHOULD ALSO BE ADMINISTERED AS INDICATED.
 
 Usage in Meningitis: Since clindamycin does not diffuse adequately into the cerebrospinal fluid, the drug should not be used in the treatment of meningitis.
 
