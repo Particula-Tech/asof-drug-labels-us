@@ -1,4 +1,4 @@
-PACKAGE LABEL- Prozac 90 mg Capsules Weekly
+# PACKAGE LABEL- Prozac Weekly 90 mg Delayed-Release Capsules 4ct
 
 2 Blister packs of 2 capsules
 
