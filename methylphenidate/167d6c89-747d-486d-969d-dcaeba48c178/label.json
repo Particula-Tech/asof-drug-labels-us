@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA207960"
+  ],
+  "inn": "methylphenidate",
+  "labeler": "NextWave Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "24478-120-01",
+    "24478-130-01",
+    "24478-140-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, CHEWABLE, EXTENDED RELEASE",
+      "generic": "methylphenidate hydrochloride",
+      "name": "QuilliChew ER"
+    }
+  ],
+  "setid": "167d6c89-747d-486d-969d-dcaeba48c178",
+  "source": "dailymed"
+}
