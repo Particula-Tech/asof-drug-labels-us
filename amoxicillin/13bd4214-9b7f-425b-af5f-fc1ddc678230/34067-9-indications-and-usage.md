@@ -3,7 +3,7 @@
 ## 1.1 Infections of the Ear, Nose, and Throat
 
 Amoxicillin is indicated in the treatment of infections due to susceptible (ONLY β-lactamase–negative) isolates of Streptococcus species.
-(α- and β-hemolytic isolates only), Streptococcus pneumoniae, Staphylococcus spp., or Haemophilus influenzae.
+(α- and β-hemolytic isolates only), Streptococcus pneumoniae, Staphylococcus spp., or Haemophilusinfluenzae.
 
 ## 1.2 Infections of the Genitourinary Tract
 

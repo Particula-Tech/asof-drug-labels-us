@@ -24,8 +24,14 @@ H. pylori Eradication Rates When Amoxicillin is Administered as Part of a Triple
 Table 7.
 H. pylori Eradication Rates When Amoxicillin is Administered as Part of a Dual Therapy Regimen
 
-| Evaluable Analysis [95% Confidence Interval] (number of patients) | Intent-to-Treat AnalysisPatients were included in the analysis if they had documented H. pylori infection at baseline as defined above and had a confirmed duodenal ulcer (active or within 1 year). All dropouts were included as failures of therapy. [95% Confidence Interval] (number of patients) |  |
+| Evaluable Analysis1 [95% Confidence Interval] (number of patients) | Intent-to-Treat Analysis2 [95% Confidence Interval] (number of patients) |  |
 | --- | --- | --- |
 | Study | Dual Therapy | Dual Therapy |
 | Study 1 | 77[62.5 - 87.2](n = 51) | 70[56.8 - 81.2](n = 60) |
 | Study 2 | 66[51.9 - 77.5](n = 58) | 61[48.5 - 72.9](n = 67) |
+
+1. 1.This analysis was based on evaluable patients with confirmed duodenal ulcer (active or within 1 year) and H. pylori infection at baseline defined as at least 2 of 3 positive endoscopic tests from CLOtest®, histology, and/or culture.
+   Patients were included in the analysis if they completed the study.
+   Additionally, if patients dropped out of the study due to an adverse event related to the study drug, they were included in the analysis as failures of therapy.
+2. 2.Patients were included in the analysis if they had documented H. pylori infection at baseline as defined above and had a confirmed duodenal ulcer (active or within 1 year).
+   All dropouts were included as failures of therapy.

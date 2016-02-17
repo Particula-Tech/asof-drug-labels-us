@@ -8,6 +8,7 @@ These reactions are more likely to occur in individuals with a history of penici
 
 There have been reports of individuals with a history of penicillin hypersensitivity who have experienced severe reactions when treated with cephalosporins.
 Before initiating therapy with amoxicillin, careful inquiry should be made regarding previous hypersensitivity reactions to penicillins, cephalosporins, or other allergens.
+If an allergic reaction occurs, amoxicillin should be discontinued and appropriate therapy instituted.
 
 ## 5.2 Clostridium difficile Associated Diarrhea
 
