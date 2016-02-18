@@ -2,6 +2,10 @@
 
 The following reactions have been reported with the use of clindamycin.
 
+## Infections and infestations
+
+Clostridium difficile colitis
+
 ## Gastrointestinal
 
 Antibiotic-associated colitis (see WARNINGS), pseudomembranous colitis, abdominal pain, nausea, and vomiting.
@@ -15,13 +19,13 @@ Generalized mild to moderate morbilliform-like skin rashes are the most frequent
 
 Severe skin reactions such as Toxic Epidermal Necrolysis, some with fatal outcome, have been reported (see WARNINGS).
 Cases of Acute Generalized Exanthematous Pustulosis (AGEP), erythema multiforme, some resembling Stevens-Johnson syndrome, have been associated with clindamycin.
-Anaphylactoid reactions have also been reported.
+Anaphylactic shock, anaphylactoid reaction, anaphylactic reaction and hypersensitivity have also been reported.
 If a hypersensitivity reaction occurs, the drug should be discontinued.
 The usual agents (epinephrine, corticosteroids, antihistamines) should be available for emergency treatment of serious reactions.
 
 ## Skin and Mucous Membranes
 
-Pruritus, vaginitis, and rare instances of exfoliative dermatitis have been reported (see Hypersensitivity Reactions).
+Pruritus, vaginitis, angioedema and rare instances of exfoliative dermatitis have been reported (see Hypersensitivity Reactions).
 
 ## Liver
 

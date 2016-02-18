@@ -13,4 +13,4 @@ GALAXY is a registered trademark of Baxter International Inc.
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com.
 
-LAB-0044-12.0 March 2015
+LAB-0044-13.0 February 2016
