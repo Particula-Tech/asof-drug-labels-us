@@ -67,7 +67,7 @@ Table 3: Patients with Benign Ethnic Neutropenia (BEN); Clozapine Treatment Reco
 
 ### Rechallenge after an ANC less than 500/µL (severe neutropenia)
 
-For some patients who experience severe clozapine-related neutropenia, the risk of serious psychiatric illness from discontinuing clozapine orally disintegrating tablets treatment may be greater than the risk of rechallenge (e.g. patients with severe schizophrenic illness who have no treatment options other than clozapine orally disintegrating tablets).
+For some patients who experience severe clozapine-related neutropenia, the risk of serious psychiatric illness from discontinuing clozapine orally disintegrating tablets treatment may be greater than the risk of rechallenge (e.g., patients with severe schizophrenic illness who have no treatment options other than clozapine orally disintegrating tablets).
 A hematology consultation may be useful in deciding to rechallenge a patient.
 In general, however, do not rechallenge patients who develop severe neutropenia with clozapine orally disintegrating tablets or a clozapine product.
 

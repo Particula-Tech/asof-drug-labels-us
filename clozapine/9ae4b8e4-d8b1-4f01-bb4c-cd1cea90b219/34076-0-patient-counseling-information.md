@@ -1,7 +1,5 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Patient Information and Instructions for Use).
-
 Discuss the following issues with patients and caregivers:
 
 - •Severe Neutropenia:
@@ -39,4 +37,4 @@ Discuss the following issues with patients and caregivers:
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED OCTOBER 2015 CLOZOD:R6
+REVISED FEBRUARY 2016 CLOZOD:R8
