@@ -41,5 +41,4 @@ Monitoring renal function in patients with renal impairment is recommended.
 
 ## 8.7 Hepatic Impairment
 
-The use of FENOGLIDE has not been evaluated in subjects with hepatic impairment.
-(see Contraindication (4) and Clinical Pharmacology (12.3)]
+The use of FENOGLIDE has not been evaluated in subjects with hepatic impairment [see Contraindications (4) and Clinical Pharmacology (12.3)].

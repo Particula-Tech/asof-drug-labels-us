@@ -47,8 +47,8 @@ CPK levels should be assessed in patients reporting these symptoms, and FENOGLID
 Data from observational studies indicate that the risk for rhabdomyolysis is increased when fibrates, in particular gemfibrozil, are co-administered with an HMG-CoA reductase inhibitor (statin).
 The combination should be avoided unless the benefit of further alterations in lipid levels is likely to outweigh the increased risk of this drug combination [see Clinical Pharmacology (12.3)].
 
-Cases of myopathy, including rhabdomyolysis, have been reported with fenofibrates co-administered with colchicine, and caution should be exercised when prescribing fenofibrate with colchicine.
-[see Drug Interactions (7.4)]
+- Cases of myopathy, including rhabdomyolysis, have been reported with fenofibrates co-administered with colchicine, and caution should be exercised when prescribing fenofibrate with colchicine.
+  [see Drug Interactions (7.4)]
 
 ## 5.3 Liver Function
 
@@ -105,7 +105,7 @@ In the FIELD trial, pulmonary embolus (PE) and deep vein thrombosis (DVT) were o
 Of 9,795 patients enrolled in FIELD, there were 4,900 in the placebo group and 4,895 in the fenofibrate group.
 For DVT, there were 48 events (1%) in the placebo group and 67 (1%) in the fenofibrate group (p = 0.074); and for PE, there were 32 (0.7%) events in the placebo group and 53 (1%) in the fenofibrate group (p = 0.022).
 
-In the Coronary Drug Project, a higher proportion of the clofibrate group experienced definite or suspected fatal or nonfatal pulmonary embolism or thrombophlebitis than the placebo group (5.2% vs. 3.3% at five years; p < 0.01).
+In the Coronary Drug Project, a higher proportion of the clofibrate group experienced definite or suspected fatal or nonfatal pulmonary embolism or thrombophlebitis than the placebo group (5.2% vs. 3.3% at five years; p <0.01).
 
 ## 5.11 Paradoxical Decreases in HDL Cholesterol Levels
 
