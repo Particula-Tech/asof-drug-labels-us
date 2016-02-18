@@ -12,20 +12,18 @@ What is the most important information I should know about SYMBICORT?
 
 SYMBICORT can cause serious side effects, including:
 
-- 1.People with asthma who take long-acting beta2-adrenergic agonist (LABA) medicines such as formoterol (one of the medicines in SYMBICORT) have an increased risk of death from asthma problems.
-  It is not known whether budesonide, the other medicine in SYMBICORT, reduces the risk of death from asthma problems seen with formoterol.
-
-- •Call your healthcare provider if breathing problems worsen over time while using SYMBICORT.
-  You may need different treatment.
-- •Get emergency medical care if:
-- •breathing problems worsen quickly, and
-- •you use your rescue inhaler medicine, but it does not relieve your breathing problems.
-
-- 2.SYMBICORT should be used only if your healthcare provider decides that your asthma is not well controlled with a long-term asthma-control medicine, such as an inhaled corticosteroid.
-- 3.When your asthma is well controlled, your healthcare provider may tell you to stop taking SYMBICORT.
-  Your healthcare provider will decide if you can stop SYMBICORT without loss of asthma control.
-  Your healthcare provider may prescribe a different long-term asthma-control medicine for you, such as an inhaled corticosteroid.
-- 4.Children and adolescents who take LABA medicines may have an increased risk of being hospitalized for asthma problems.
+1. 1.People with asthma who take long-acting beta2-adrenergic agonist (LABA) medicines such as formoterol (one of the medicines in SYMBICORT) have an increased risk of death from asthma problems.
+   It is not known whether budesonide, the other medicine in SYMBICORT, reduces the risk of death from asthma problems seen with formoterol.
+2. Call your healthcare provider if breathing problems worsen over time while using SYMBICORT.
+   You may need different treatment.
+3. Get emergency medical care if:
+   1. •breathing problems worsen quickly, and
+   2. •you use your rescue inhaler medicine, but it does not relieve your breathing problems.
+4. 2.SYMBICORT should be used only if your healthcare provider decides that your asthma is not well controlled with a long-term asthma-control medicine, such as an inhaled corticosteroid.
+5. 3.When your asthma is well controlled, your healthcare provider may tell you to stop taking SYMBICORT.
+   Your healthcare provider will decide if you can stop SYMBICORT without loss of asthma control.
+   Your healthcare provider may prescribe a different long-term asthma-control medicine for you, such as an inhaled corticosteroid.
+6. 4.Children and adolescents who take LABA medicines may have an increased risk of being hospitalized for asthma problems.
 
 What is SYMBICORT?
 
@@ -259,25 +257,25 @@ If you have any questions, ask your doctor or pharmacist.
 
 Preparing your inhaler for use
 
-- 1.Take your SYMBICORT out of the moisture-protective foil pouch before you use it for the first time and throw the foil away.
-  Write the date that you open the foil pouch on the box.
-- 2.A counter is attached to the top of the metal canister.
-  The counter will count down each time you release a puff of SYMBICORT.
-  The arrow points to the number of inhalations (puffs) left in the canister.
-  The counter will stop counting at zero (“0”).
-- 3.Use the SYMBICORT canister only with the red SYMBICORT inhaler supplied with the product.
-  Parts of the SYMBICORT inhaler should not be used with parts from any other inhalation product.
-- 4.Shake your SYMBICORT inhaler well for 5 seconds right before each use.
-  Remove the mouthpiece cover by squeezing gently at both sides, then pulling out (see Figure 2).
-  Check the mouthpiece for foreign objects before use.
-- 5.Priming Before you use SYMBICORT for the first time, you will need to prime it.
-  To prime SYMBICORT, hold it in the upright position.
-  See figure 1 above.
-  Shake the SYMBICORT inhaler well for 5 seconds.
-  Hold your SYMBICORT inhaler facing away from you and then release a test spray.
-  Then shake it again for 5 seconds and release a second test spray.
-  Your SYMBICORT inhaler is now primed and ready for use.
-  After you have primed the SYMBICORT inhaler for the first time, the counter will read either 120 or 60, depending on which size was provided to you.
+1. 1.Take your SYMBICORT out of the moisture-protective foil pouch before you use it for the first time and throw the foil away.
+   Write the date that you open the foil pouch on the box.
+2. 2.A counter is attached to the top of the metal canister.
+   The counter will count down each time you release a puff of SYMBICORT.
+   The arrow points to the number of inhalations (puffs) left in the canister.
+   The counter will stop counting at zero (“0”).
+3. 3.Use the SYMBICORT canister only with the red SYMBICORT inhaler supplied with the product.
+   Parts of the SYMBICORT inhaler should not be used with parts from any other inhalation product.
+4. 4.Shake your SYMBICORT inhaler well for 5 seconds right before each use.
+   Remove the mouthpiece cover by squeezing gently at both sides, then pulling out (see Figure 2).
+   Check the mouthpiece for foreign objects before use.
+5. 5.Priming Before you use SYMBICORT for the first time, you will need to prime it.
+   To prime SYMBICORT, hold it in the upright position.
+   See figure 1 above.
+   Shake the SYMBICORT inhaler well for 5 seconds.
+   Hold your SYMBICORT inhaler facing away from you and then release a test spray.
+   Then shake it again for 5 seconds and release a second test spray.
+   Your SYMBICORT inhaler is now primed and ready for use.
+   After you have primed the SYMBICORT inhaler for the first time, the counter will read either 120 or 60, depending on which size was provided to you.
 
 If you do not use your SYMBICORT inhaler for more than 7 days or if you drop it, you will need to prime again.
 
@@ -287,27 +285,27 @@ OR
 
 Using your SYMBICORT inhaler
 
-- 6.Shake your SYMBICORT inhaler well for 5 seconds.
-  Remove the mouthpiece cover.
-  Check the mouthpiece for foreign objects.
-- 7.Breathe out fully (exhale).
-  Hold the SYMBICORT inhaler up to your mouth.
-  Place the white mouthpiece fully into your mouth and close your lips around it.
-  Make sure that the SYMBICORT inhaler is upright and that the opening of the mouthpiece is pointing towards the back of your throat (see Figure 5).
+1. 6.Shake your SYMBICORT inhaler well for 5 seconds.
+   Remove the mouthpiece cover.
+   Check the mouthpiece for foreign objects.
+2. 7.Breathe out fully (exhale).
+   Hold the SYMBICORT inhaler up to your mouth.
+   Place the white mouthpiece fully into your mouth and close your lips around it.
+   Make sure that the SYMBICORT inhaler is upright and that the opening of the mouthpiece is pointing towards the back of your throat (see Figure 5).
 
-- 8.Breathe in (inhale) deeply and slowly through your mouth.
-  Press down firmly and fully on the top of the counter on the SYMBICORT inhaler to release the medicine (see Figures 3 and 4).
-- 9.Continue to breathe in (inhale) and hold your breath for about 10 seconds, or for as long as is comfortable.
-  Before you breathe out (exhale), release your finger from the top of the counter.
-  Keep the SYMBICORT inhaler upright and remove from your mouth.
-- 10.Shake the SYMBICORT inhaler again for 5 seconds and repeat steps 7 to 9.
+1. 8.Breathe in (inhale) deeply and slowly through your mouth.
+   Press down firmly and fully on the top of the counter on the SYMBICORT inhaler to release the medicine (see Figures 3 and 4).
+2. 9.Continue to breathe in (inhale) and hold your breath for about 10 seconds, or for as long as is comfortable.
+   Before you breathe out (exhale), release your finger from the top of the counter.
+   Keep the SYMBICORT inhaler upright and remove from your mouth.
+3. 10.Shake the SYMBICORT inhaler again for 5 seconds and repeat steps 7 to 9.
 
 After using your SYMBICORT inhaler
 
-- 11.After use, close the mouthpiece cover by pushing until it clicks in place.
-- 12.After you finish taking SYMBICORT (two puffs), rinse your mouth with water.
-  Spit out the water.
-  Do not swallow it.
+1. 11.After use, close the mouthpiece cover by pushing until it clicks in place.
+2. 12.After you finish taking SYMBICORT (two puffs), rinse your mouth with water.
+   Spit out the water.
+   Do not swallow it.
 
 Reading the counter
 

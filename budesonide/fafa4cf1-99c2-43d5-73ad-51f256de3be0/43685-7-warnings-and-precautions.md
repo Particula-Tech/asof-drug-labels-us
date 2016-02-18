@@ -62,8 +62,7 @@ In such children or adults who have not had these diseases or been properly immu
 How the dose, route, and duration of corticosteroid administration affects the risk of developing a disseminated infection is not known.
 The contribution of the underlying disease and/or prior corticosteroid treatment to the risk is also not known.
 If exposed, therapy with varicella zoster immune globulin (VZIG) or pooled intravenous immunoglobulin (IVIG), as appropriate, may be indicated.
-If exposed to measles, prophylaxis with pooled intramuscular immunoglobulin (IG) may be indicated.
-(See the respective package inserts for complete VZIG and IG prescribing information.)
+If exposed to measles, prophylaxis with pooled intramuscular immunoglobulin (IG) may be indicated (see the respective package inserts for complete VZIG and IG prescribing information).
 If chicken pox develops, treatment with antiviral agents may be considered.
 The immune responsiveness to varicella vaccine was evaluated in pediatric patients with asthma ages 12 months to 8 years with budesonide inhalation suspension.
 
@@ -145,8 +144,7 @@ ANCOVA results for total spine and total hip BMD based on the end of treatment t
 
 Orally inhaled corticosteroids may cause a reduction in growth velocity when administered to pediatric patients.
 Monitor the growth of pediatric patients receiving SYMBICORT routinely (e.g., via stadiometry).
-To minimize the systemic effects of orally inhaled corticosteroids, including SYMBICORT, titrate each patient's dose to the lowest dosage that effectively controls his/her symptoms.
-[See Dosage and Administration (2.1) and Use in Specific Populations (8.4)].
+To minimize the systemic effects of orally inhaled corticosteroids, including SYMBICORT, titrate each patient's dose to the lowest dosage that effectively controls his/her symptoms [see Dosage and Administration (2.1) and Use in Specific Populations (8.4)].
 
 ## 5.15 Glaucoma and Cataracts
 

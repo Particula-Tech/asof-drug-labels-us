@@ -7,8 +7,7 @@ Prime SYMBICORT before using for the first time by releasing two test sprays int
 In cases where the inhaler has not been used for more than 7 days or when it has been dropped, prime the inhaler again by shaking well before each spray and releasing two test sprays into the air away from the face.
 
 More frequent administration or a higher number of inhalations (more than 2 inhalations twice daily) of the prescribed strength of SYMBICORT is not recommended as some patients are more likely to experience adverse effects with higher doses of formoterol.
-Patients using SYMBICORT should not use additional long-acting beta2-agonists for any reason.
-[See Warnings and Precautions (5.3, 5.12)].
+Patients using SYMBICORT should not use additional long-acting beta2-agonists for any reason [see Warnings and Precautions (5.3, 5.12)].
 
 ## 2.1 Asthma
 

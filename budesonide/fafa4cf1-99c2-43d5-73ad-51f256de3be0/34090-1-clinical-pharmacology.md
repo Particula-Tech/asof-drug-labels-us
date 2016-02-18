@@ -28,7 +28,7 @@ Formoterol
 Formoterol fumarate is a long-acting selective beta2-adrenergic agonist (beta2-agonist) with a rapid onset of action.
 Inhaled formoterol fumarate acts locally in the lung as a bronchodilator.
 In vitro studies have shown that formoterol has more than 200-fold greater agonist activity at beta2-receptors than at beta1-receptors.
-The in vitro binding selectivity to beta2- over beta1-adrenoceptors is higher for formoterol than for albuterol (5 times), whereas salmeterol has a higher (3 times) beta 2-selectivity ratio than formoterol.
+The in vitro binding selectivity to beta2- over beta1-adrenoceptors is higher for formoterol than for albuterol (5 times), whereas salmeterol has a higher (3 times) beta2-selectivity ratio than formoterol.
 
 Although beta2-receptors are the predominant adrenergic receptors in bronchial smooth muscle and beta1-receptors are the predominant receptors in the heart, there are also beta2-receptors in the human heart comprising 10% to 50% of the total beta-adrenergic receptors.
 The precise function of these receptors has not been established, but they raise the possibility that even highly selective beta2-agonists may have cardiac effects.
@@ -62,8 +62,7 @@ HPA axis effects: Overall, no clinically important effects on HPA axis, as measu
 
 Chronic Obstructive Pulmonary Disease
 
-Cardiovascular effects: In 2 clinical studies, 6 months and 12 months in duration including 3668 COPD patients, no clinically important differences were seen in pulse rate, blood pressure, potassium, and glucose between SYMBICORT, the individual components of SYMBICORT, and placebo.
-[See Clinical Studies (14.2)].
+Cardiovascular effects: In 2 clinical studies, 6 months and 12 months in duration including 3668 COPD patients, no clinically important differences were seen in pulse rate, blood pressure, potassium, and glucose between SYMBICORT, the individual components of SYMBICORT, and placebo [see Clinical Studies (14.2)].
 
 ECGs recorded at multiple clinic visits on treatment in both studies showed no clinically important differences for heart rate, PR interval, QRS duration, heart rate, signs of cardiac ischemia or arrhythmias between SYMBICORT 160/4.5 the monoproducts and placebo, all administered as two inhalations twice daily.
 Based on ECGs, 6 patients treated with SYMBICORT 160/4.5, 6 patients treated with formoterol 4.5, and 6 patients in the placebo group experienced atrial fibrillation or flutter that was not present at baseline.
@@ -118,7 +117,7 @@ SYMBICORT
 
 Absorption
 
-Budesonide Healthy Subjects: Orally inhaled budesonide is rapidly absorbed in the lungs and peak concentration is typically reached within 20 minutes.
+Budesonide: Healthy Subjects: Orally inhaled budesonide is rapidly absorbed in the lungs and peak concentration is typically reached within 20 minutes.
 After oral administration of budesonide peak plasma concentration was achieved in about 1 to 2 hours and the absolute systemic availability was 6%-13% due to extensive first pass metabolism.
 In contrast, most of the budesonide delivered to the lungs was systemically absorbed.
 In healthy subjects, 34% of the metered dose was deposited in the lung (as assessed by plasma concentration method and using a budesonide-containing dry powder inhaler) with an absolute systemic availability of 39% of the metered dose.
@@ -243,7 +242,7 @@ Drug-Drug Interactions
 A single-dose crossover study was conducted to compare the pharmacokinetics of eight inhalations of the following: budesonide, formoterol, and budesonide plus formoterol administered concurrently.
 The results of the study indicated that there was no evidence of a pharmacokinetic interaction between the two components of SYMBICORT.
 
-Inhibitors of cytochrome P450 enzymes
+Inhibitors of Cytochrome P450 Enzymes
 
 Ketoconazole: Ketoconazole, a strong inhibitor of cytochrome P450 (CYP) isoenzyme 3A4 (CYP3A4), the main metabolic enzyme for corticosteroids, increased plasma levels of orally ingested budesonide.
 

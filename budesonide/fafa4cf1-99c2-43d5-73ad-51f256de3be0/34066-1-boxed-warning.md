@@ -7,4 +7,4 @@ Currently available data are inadequate to determine whether concurrent use of i
 Available data from controlled clinical trials suggest that LABA increase the risk of asthma-related hospitalization in pediatric and adolescent patients.
 Therefore, when treating patients with asthma, SYMBICORT should only be used for patients not adequately controlled on a long-term asthma control medication, such as an inhaled corticosteroid or whose disease severity clearly warrants initiation of treatment with both an inhaled corticosteroid and LABA.
 Once asthma control is achieved and maintained, assess the patient at regular intervals and step down therapy (e.g., discontinue SYMBICORT) if possible without loss of asthma control and maintain the patient on a long-term asthma control medication, such as an inhaled corticosteroid.
-Do not use SYMBICORT for patients whose asthma is adequately controlled on low or medium dose inhaled corticosteroids[see Warnings and Precautions (5.1)].
+Do not use SYMBICORT for patients whose asthma is adequately controlled on low or medium dose inhaled corticosteroids [see Warnings and Precautions (5.1)].

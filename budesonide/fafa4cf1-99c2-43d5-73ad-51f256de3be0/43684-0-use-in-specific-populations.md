@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects: Pregnancy Category C.
+Teratogenic Effects: Pregnancy Category C
 
 There are no adequate and well-controlled studies of SYMBICORT in pregnant women.
 SYMBICORT was teratogenic and embryocidal in rats.

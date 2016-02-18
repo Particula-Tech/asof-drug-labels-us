@@ -53,7 +53,7 @@ Patients should be informed of adverse effects associated with beta2-agonists, s
 
 SYMBICORT is a trademark of the AstraZeneca group of companies.
 
-©AstraZeneca 2015
+©AstraZeneca 2016
 
 Manufactured for: AstraZeneca LP, Wilmington, DE 19850
 
@@ -62,4 +62,4 @@ By: AstraZeneca Dunkerque Production, Dunkerque, France
 Product of France
 
 Rev.
-09/2015
+02/2016
