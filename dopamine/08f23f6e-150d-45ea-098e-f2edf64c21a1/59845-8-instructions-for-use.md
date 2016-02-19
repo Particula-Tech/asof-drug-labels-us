@@ -9,16 +9,16 @@ The opacity will diminish gradually.
 
 Preparation for Administration (Use aseptic technique)
 
-1. Close flow control clamp of administration set.
-2. Remove cover from outlet port at bottom of container.
-3. Insert piercing pin of administration set into port with a twisting motion until the set is firmly seated.
+1. 1.Close flow control clamp of administration set.
+2. 2.Remove cover from outlet port at bottom of container.
+3. 3.Insert piercing pin of administration set into port with a twisting motion until the set is firmly seated.
    NOTE: See full directions on administration set carton.
-4. Suspend container from hanger.
-5. Squeeze and release drip chamber to establish proper fluid level in chamber.
-6. Open flow control clamp and clear air from set.
+4. 4.Suspend container from hanger.
+5. 5.Squeeze and release drip chamber to establish proper fluid level in chamber.
+6. 6.Open flow control clamp and clear air from set.
    Close clamp.
-7. Attach set to venipuncture device.
+7. 7.Attach set to venipuncture device.
    If device is not indwelling, prime and make venipuncture.
-8. Regulate rate of administration with an infusion pump, preferably a volumetric pump.
+8. 8.Regulate rate of administration with an infusion pump, preferably a volumetric pump.
 
 WARNING: Do not use flexible container in series connections.

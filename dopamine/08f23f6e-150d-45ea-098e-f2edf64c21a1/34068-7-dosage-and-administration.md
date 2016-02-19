@@ -35,17 +35,17 @@ When discontinuing the infusion, it may be necessary to gradually decrease the d
 
 Suggested Regimen:
 
-1. When appropriate, increase blood volume with whole blood or plasma until central venous pressure is 10 to 15 cm H2O or pulmonary wedge pressure is 14 to 18 mm Hg.
-2. Begin infusion of dopamine hydrochloride solution at doses of 2 to 5 mcg/kg/min in adult or pediatric patients who are likely to respond to modest increments of heart force and renal perfusion.
+1. 1.When appropriate, increase blood volume with whole blood or plasma until central venous pressure is 10 to 15 cm H2O or pulmonary wedge pressure is 14 to 18 mm Hg.
+2. 2.Begin infusion of dopamine hydrochloride solution at doses of 2 to 5 mcg/kg/min in adult or pediatric patients who are likely to respond to modest increments of heart force and renal perfusion.
    In more seriously ill patients, begin infusion of dopamine hydrochloride at doses of 5 mcg/kg/min and increase gradually, using 5 to 10 mcg/kg/min increments, up to a rate of 20 to 50 mcg/kg/min as needed.
    If doses in excess of 50 mcg/kg/min are required, check urine output frequently.
    Should urinary flow begin to decrease in the absence of hypotension, reduction of dopamine dosage should be considered.
    More than 50% of adult patients have been satisfactorily maintained on doses less than 20 mcg/kg/min.
    In patients who do not respond to these doses with adequate arterial pressures or urine flow, additional increments of dopamine may be given in an effort to produce an appropriate arterial pressure and central perfusion.
-3. Treatment of all patients requires constant evaluation of therapy in terms of blood volume, augmentation of cardiac contractility, urine flow, cardiac output, blood pressure, and distribution of peripheral perfusion.
+3. 3.Treatment of all patients requires constant evaluation of therapy in terms of blood volume, augmentation of cardiac contractility, urine flow, cardiac output, blood pressure, and distribution of peripheral perfusion.
    Dosage of dopamine should be adjusted according to the patient’s response.
    Diminution of established urine flow rate, increasing tachycardia or development of new dysrhythmias are reasons to consider decreasing or temporarily suspending the dosage.
-4. As with all potent intravenously administered drugs, care should be taken to control the rate of infusion so as to avoid inadvertent administration of a bolus of the drug.
+4. 4.As with all potent intravenously administered drugs, care should be taken to control the rate of infusion so as to avoid inadvertent administration of a bolus of the drug.
 
 800 mcg/mL Dosing Chart for Dopamine (mL/hr) Infusion Rate
 
