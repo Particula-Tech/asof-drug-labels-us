@@ -4,29 +4,7 @@ The following adverse reactions have been observed, but there are not enough dat
 
 Cardiovascular System:
 
-ventricular arrhythmia
-
-atrial fibrillation
-
-ectopic beats
-
-tachycardia
-
-anginal pain
-
-palpitation
-
-cardiac conduction abnormalities
-
-widened QRS complex
-
-bradycardia
-
-hypotension
-
-hypertension
-
-vasoconstriction
+ventricular arrhythmia atrial fibrillation ectopic beats tachycardia anginal pain palpitation cardiac conduction abnormalities widened QRS complex bradycardia hypotension hypertension vasoconstriction
 
 Respiratory System:
 
@@ -34,9 +12,7 @@ dyspnea
 
 Gastrointestinal System:
 
-nausea
-
-vomiting
+nausea vomiting
 
 Metabolic/Nutritional System:
 
@@ -44,9 +20,7 @@ azotemia
 
 Central Nervous System:
 
-headache
-
-anxiety
+headache anxiety
 
 Dermatological System:
 

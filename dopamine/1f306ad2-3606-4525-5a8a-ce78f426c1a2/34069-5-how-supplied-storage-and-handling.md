@@ -1,8 +1,9 @@
 # HOW SUPPLIED
 
-| Dopamine Hydrochloride Injection, USP is supplied as follows (40 mg/mL and 80 mg/mL): |  |
-| --- | --- |
+Dopamine Hydrochloride Injection, USP is supplied as follows (40 mg/mL and 80 mg/mL):
+
 | 5 mL Fliptop Vial (200 mg) | List No. 5820 |
+| --- | --- |
 | 10 mL Fliptop Vial (400 mg) | List No. 9104 |
 | 10 mL Fliptop Vial (800 mg) | List No. 4265 |
 

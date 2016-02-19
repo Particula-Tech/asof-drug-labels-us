@@ -9,7 +9,7 @@ This is accomplished directly by exerting an agonist action on beta-adrenoceptor
 Dopamine’s onset of action occurs within five minutes of intravenous administration, and with dopamine’s plasma half-life of about two minutes, the duration of action is less than ten minutes.
 However, if monoamine oxidase (MAO) inhibitors are present, the duration may increase to one hour.
 The drug is widely distributed in the body but does not cross the blood-brain barrier to a significant extent.
-Dopamine is metabolized in the liver, kidney, and plasma by MAO and catechol‑O-methyltransferase to the inactive compounds homovanillic acid (HVA) and 3,4‑dihydroxyphenylacetic acid.
+Dopamine is metabolized in the liver, kidney, and plasma by MAO and catechol-O-methyltransferase to the inactive compounds homovanillic acid (HVA) and 3,4-dihydroxyphenylacetic acid.
 About 25% of the dose is taken up into specialized neurosecretory vesicles (the adrenergic nerve terminals), where it is hydroxylated to form norepinephrine.
 It has been reported that about 80% of the drug is excreted in the urine within 24 hours, primarily as HVA and its sulfate and glucuronide conjugates and as 3,4-dihydroxyphenylacetic acid.
 A very small portion is excreted unchanged.
