@@ -27,9 +27,9 @@ The mechanism of the antihypertensive effect of thiazides is unknown.
 
 ## Pharmacokinetics
 
-### General
+General
 
-#### Candesartan Cilexetil
+Candesartan Cilexetil
 
 Candesartan cilexetil is rapidly and completely bioactivated by ester hydrolysis during absorption from the gastrointestinal tract to candesartan, a selective AT1 subtype angiotensin II receptor antagonist.
 Candesartan is mainly excreted unchanged in urine and feces (via bile).
@@ -42,7 +42,7 @@ Following administration of candesartan cilexetil, the absolute bioavailability 
 After tablet ingestion, the peak serum concentration (Cmax) is reached after 3 to 4 hours.
 Food with a high fat content does not affect the bioavailability of candesartan after candesartan cilexetil administration.
 
-#### Hydrochlorothiazide
+Hydrochlorothiazide
 
 When plasma levels have been followed for at least 24 hours, the plasma half-life has been observed to vary between 5.6 and 14.8 hours.
 
@@ -86,8 +86,7 @@ The pharmacokinetics of candesartan cilexetil have not been investigated in pati
 The pharmacokinetics of candesartan have been studied in the elderly (≥ 65 years).
 The plasma concentration of candesartan was higher in the elderly (Cmax was approximately 50% higher, and AUC was approximately 80% higher) compared to younger subjects administered the same dose.
 The pharmacokinetics of candesartan were linear in the elderly, and candesartan and its inactive metabolite did not accumulate in the serum of these subjects upon repeated, once-daily administration.
-No initial dosage adjustment is necessary.
-(See DOSAGE AND ADMINISTRATION.)
+No initial dosage adjustment is necessary (see DOSAGE AND ADMINISTRATION).
 
 ### Gender
 
@@ -101,8 +100,7 @@ The pharmacokinetics of candesartan in hypertensive patients undergoing hemodial
 Candesartan cannot be removed by hemodialysis.
 
 Thiazide diuretics are eliminated by the kidney, with a terminal half-life of 5-15 hours.
-In a study of patients with impaired renal function (mean creatinine clearance of 19 mL/min), the half-life of hydrochlorothiazide elimination was lengthened to 21 hours.
-(See DOSAGE AND ADMINISTRATION.)
+In a study of patients with impaired renal function (mean creatinine clearance of 19 mL/min), the half-life of hydrochlorothiazide elimination was lengthened to 21 hours (see DOSAGE AND ADMINISTRATION).
 
 Safety and effectiveness of ATACAND HCT in patients with severe renal impairment (CrCL ≤30 ml/min) have not been established.
 No dose adjustment is required in patients with mild (CrCL 60-90 ml/min) or moderate (CrCL 30-60 ml/min) renal impairment.
@@ -114,8 +112,7 @@ The AUC for candesartan in patients with mild and moderate hepatic impairment wa
 The Cmax for candesartan was increased 56% and 73% respectively.
 The pharmacokinetics of candesartan in severe hepatic impairment have not been studied.
 No dose adjustment is recommended for patients with mild hepatic impairment.
-In patients with moderate hepatic impairment, ATACAND HCT is not recommended for initiation because the appropriate starting dose, 8 mg, cannot be given.
-(See DOSAGE AND ADMINISTRATION).
+In patients with moderate hepatic impairment, ATACAND HCT is not recommended for initiation because the appropriate starting dose, 8 mg, cannot be given (see DOSAGE AND ADMINISTRATION).
 
 Monitor patients with impaired hepatic function or progressive liver disease, since minor alterations of fluid and electrolyte balance may precipitate hepatic coma.
 
@@ -140,7 +137,7 @@ After oral administration of hydrochlorothiazide, diuresis begins within 2 hours
 
 ## Clinical Trials
 
-## Candesartan Cilexetil−Hydrochlorothiazide
+Candesartan Cilexetil−Hydrochlorothiazide
 
 Of 12 controlled clinical trials involving 4588 patients, 5 were double-blind, placebo controlled and evaluated the antihypertensive effects of single entities vs the combination.
 These 5 trials, of 8 to 12 weeks duration, randomized 3037 hypertensive patients.

@@ -17,7 +17,7 @@ Perform serial ultrasound examinations to assess the intra-amniotic environment.
 If oligohydramnios is observed, discontinue ATACAND HCT, unless it is considered lifesaving for the mother.
 Fetal testing may be appropriate, based on the week of pregnancy.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
-Closely observe infants with histories of in utero exposure to ATACAND HCT for hypotension, oliguria, and hyperkalemia (See PRECAUTIONS, Pediatric Use.)
+Closely observe infants with histories of in utero exposure to ATACAND HCT for hypotension, oliguria, and hyperkalemia (see PRECAUTIONS, Pediatric Use).
 
 There was no evidence of teratogenicity or other adverse effects on embryo-fetal development when pregnant mice, rats or rabbits were treated orally with candesartan cilexetil alone or in combination with hydrochlorothiazide.
 For mice, the maximum dose of candesartan cilexetil was 1000 mg/kg/day (about 150 times the maximum recommended daily human dose [MRHD]Doses compared on the basis of body surface area.
@@ -51,7 +51,7 @@ Consider withholding or discontinuing therapy in patients who develop a clinical
 
 Drugs that inhibit the renin-angiotensin system can cause hyperkalemia.
 Hydrochlorothiazide can cause hypokalemia and hyponatremia.
-Hypomagnesema can result in hypokalemia which appears difficult to treat despite potassium repletion.
+Hypomagnesemia can result in hypokalemia, which appears difficult to treat despite potassium repletion.
 Monitor serum electrolytes periodically.
 
 In clinical trials of various doses of candesartan cilexetil and hydrochlorothiazide, the incidence of hypertensive patients who developed hypokalemia (serum potassium <3.5 mEq/L) was 2.5% versus 2.1% for placebo; the incidence of hyperkalemia (serum potassium >5.7 mEq/L) was 0.4% versus 1.0% for placebo.
@@ -78,7 +78,7 @@ Hydrochlorothiazide may alter glucose tolerance and raise serum levels of choles
 
 Hydrochlorothiazide may raise the serum uric acid level due to reduced clearance of uric acid and may cause or exacerbate hyperuricemia and precipitate gout in susceptible patients.
 
-Thiazides decrease urinary calcium excretion and may cause mild elevation of serum calcium.
+Thiazides decrease urinary calcium excretion and may cause elevation of serum calcium.
 Avoid using ATACAND HCT in patients with hypercalcemia.
 
 Systemic Lupus Erythematosus
@@ -87,22 +87,22 @@ Thiazide diuretics have been reported to cause exacerbation or activation of sys
 
 ## Information for Patients
 
-### Pregnancy
+Pregnancy
 
 Female patients of childbearing age should be told about the consequences of exposure to ATACAND HCT during pregnancy.
 Discuss treatment options with women planning to become pregnant.
 Patients should be asked to report pregnancies to their physicians as soon as possible.
 
-### Symptomatic Hypotension
+Symptomatic Hypotension
 
 Tell patients receiving ATACAND HCT that lightheadedness can occur, especially during the first days of therapy, and that it should be reported to the prescribing physician.
 Tell patients that if syncope occurs, discontinue ATACAND HCT until the physician has been consulted.
 
 Tell all patients that inadequate fluid intake, excessive perspiration, diarrhea, or vomiting can lead to an excessive fall in blood pressure, with the same consequences of lightheadedness and possible syncope.
 
-### Hyperkalemia
+Hyperkalemia
 
-Tell patients receiving ATACAND HCT not to use potassium supplements or salt substitutes containing potassium without consulting the prescribing physician.
+Tell patients receiving ATACAND HCT not to use potassium supplements, salt substitutes containing potassium, or other drugs that may increase serum potassium levels without consulting the prescribing physician.
 
 ## Drug Interactions
 
@@ -126,6 +126,9 @@ Dual Blockade of the Renin-Angiotensin System (RAS)
 Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
 Closely monitor blood pressure, renal function and electrolytes in patients on ATACAND HCT and other agents that affect the RAS.
 
+Coadministration of ATACAND HCT with potassium sparing diuretics, potassium supplements, potassium-containing salt substitutes or other drugs that raise serum potassium levels may result in hyperkalemia.
+Monitor serum potassium in such patients.
+
 Do not co-administer aliskiren with ATACAND HCT in patients with diabetes.
 Avoid use of aliskiren with ATACAND HCT in patients with renal impairment (GFR <60 ml/min) (see CONTRAINDICATIONS).
 
@@ -134,13 +137,21 @@ Interactions with Hydrochlorothiazide
 Alcohol, barbiturates, or narcotics − Potentiation of orthostatic hypotension may occur.
 
 Antidiabetic drugs (oral agents and insulin) − Dosage adjustment of the antidiabetic drug may be required.
+Diazoxide − the hyperglycemic effect of diazoxide may be enhanced by thiazides.
 
-Ion Exchange resins - Single doses of either cholestyramine or colestipol resins bind the hydrochlorothiazide and reduce its absorption from the gastrointestinal tract by up to 85% and 43%, respectively.
+Ion Exchange resins − Single doses of either cholestyramine or colestipol resins bind the hydrochlorothiazide and reduce its absorption from the gastrointestinal tract by up to 85% and 43%, respectively.
 Stagger the dosage of hydrochlorothiazide and ion exchange resins such that hydrochlorothiazide is administered at least 4 hours before or 4-6 hours after the administration of resins.
 
-Skeletal muscle relaxants, nondepolarizing (e.g., tubocurarine) −Possible increased responsiveness to muscle relaxants such as curare derivatives.
+Skeletal muscle relaxants, nondepolarizing (e.g., tubocurarine) − Possible increased responsiveness to muscle relaxants such as curare derivatives.
 
-Digitalis: Thiazide-induced hypokalemia or hypomagnesemia may predispose to digoxin toxicity.
+Digitalis − Thiazide-induced hypokalemia or hypomagnesemia may predispose to digoxin toxicity.
+Noradrenaline – Thiazides may decrease arterial responsiveness to noradrenaline, but not enough to preclude effectiveness of the pressor agent for therapeutic use.
+
+Steroids or Adrenocorticotropic Hormone – Hypokalemia may develop during concomitant use of steroids or adrenocorticotropic hormone (ACTH).
+
+Cytotoxic products – Thiazides may reduce the renal excretion of cytotoxic medicinal products (e.g. cyclophosphamide, methotrexate) and potentiate their myelosuppressive effects.
+
+Cyclosporine − Concomitant treatment with cyclosporine may increase the risk of hyperuricemia and gout-type complications.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -160,8 +171,8 @@ Candesartan (but not its O-deethyl metabolite) was also evaluated in vivo in the
 Candesartan cilexetil was evaluated in the Ames test, the in vitro mouse lymphoma cell assay, the in vivo rat hepatocyte unscheduled DNA synthesis assay and the in vivo mouse micronucleus test, in each case with negative results.
 Candesartan cilexetil was not evaluated in the CHL chromosomal aberration or CHO gene mutation assays.
 
-When hydrochlorothiazide was tested alone, positive results were obtained in vitro in the CHO sister chromatid exchange (clastogenicity) and mouse lymphoma cell (mutagenicity) assays and in the Aspergillus nidulans non-disjunciton assay.
-Hydrochorothiazide was not genotoxic in vitro in the Ames test for point mutations and the CHO test for chromosomal aberrations, or in vivo in assays using mouse germinal cell chromosomes, Chinese hamster bone marrow chromosomes, and the Drosophila sex-linked recessive lethal trait gene.
+When hydrochlorothiazide was tested alone, positive results were obtained in vitro in the CHO sister chromatid exchange (clastogenicity) and mouse lymphoma cell (mutagenicity) assays and in the Aspergillus nidulans non-disjunction assay.
+Hydrochlorothiazide was not genotoxic in vitro in the Ames test for point mutations and the CHO test for chromosomal aberrations, or in vivo in assays using mouse germinal cell chromosomes, Chinese hamster bone marrow chromosomes, and the Drosophila sex-linked recessive lethal trait gene.
 
 No fertility studies have been conducted with the combination of candesartan cilexetil and hydrochlorothiazide.
 Fertility and reproductive performance were not affected in studies with male and female rats given oral doses of up to 300 mg candesartan cilexetil/kg/day (83 times the maximum daily human dose of 32 mg on a body surface area basis).

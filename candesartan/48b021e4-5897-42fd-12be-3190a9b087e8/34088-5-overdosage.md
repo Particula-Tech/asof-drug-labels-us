@@ -1,6 +1,6 @@
 # OVERDOSAGE
 
-## Candesartan Cilexetil−Hydrochlorothiazide
+Candesartan Cilexetil-Hydrochlorothiazide
 
 No lethality was observed in acute toxicity studies in mice, rats and dogs given single oral doses of up to 2000 mg/kg of candesartan cilexetil or in rats given single oral doses of up to 2000 mg/kg of candesartan cilexetil in combination with 1000 mg/kg of hydrochlorothiazide.
 In mice given single oral doses of the primary metabolite, candesartan, the minimum lethal dose was greater than 1000 mg/kg but less than 2000 mg/kg.
@@ -14,7 +14,7 @@ If digitalis has also been administered, hypokalemia may accentuate cardiac arrh
 Candesartan cannot be removed by hemodialysis.
 The degree to which hydrochlorothiazide is removed by hemodialysis has not been established.
 
-### Treatment
+Treatment
 
 To obtain up-to-date information about the treatment of overdose, consult your Regional Poison Control Center.
 Telephone numbers of certified poison control centers are listed in the Physicians’ Desk Reference (PDR).

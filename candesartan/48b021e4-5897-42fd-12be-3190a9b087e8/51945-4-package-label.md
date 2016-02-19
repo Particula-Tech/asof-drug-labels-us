@@ -12,7 +12,13 @@ candesartan cilexetil - hydrochlorothiazide
 
 Each tablet contains 16 mg candesartan cilexetil and 12.5 mg hydrochlorothiazide
 
-Rx only
+Manufactured for:
+
+AstraZeneca LP, Wilmington, DE 19850
+
+By AstraZeneca AB, S-151-85
+
+Södertälje, Sweden Product of Sweden
 
 AstraZeneca
 
@@ -30,7 +36,13 @@ candesartan cilexetil – hydrocholorothiazide
 
 Each tablet contains 32 mg candesartan cilexetil and 12.5 mg hydrochlorothiazide
 
-Rx only
+Manufactured for:
+
+AstraZeneca LP, Wilmington, DE 19850
+
+By AstraZeneca AB, S-151-85
+
+Södertälje, Sweden Product of Sweden
 
 AstraZeneca
 
@@ -48,6 +60,12 @@ candesartan cilexetil – hydrochlorothiazide
 
 Each tablet contains 32 mg candesartan cilexetil and 25 mg hydrochlorothiazide
 
-Rx only
+Manufactured for:
+
+AstraZeneca LP, Wilmington, DE 19850
+
+By AstraZeneca AB, S-151-85
+
+Södertälje, Sweden Product of Sweden
 
 AstraZeneca

@@ -28,7 +28,7 @@ Skin and Appendages Disorders: Pruritus, rash and urticaria.
 
 Rare reports of rhabdomyolysis have been reported in patients receiving angiotensin II receptor blockers.
 
-### Hydrochlorothiazide
+Hydrochlorothiazide
 
 Other adverse experiences that have been reported with hydrochlorothiazide, without regard to causality, are listed below:
 

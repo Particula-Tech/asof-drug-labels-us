@@ -13,14 +13,14 @@ NDC 0186-0322-54 unit of use bottles of 90.
 No. 3899 — Tablets ATACAND HCT 32–25, are pink, oval, biconvex, non-film-coated tablets, scored on both sides and coded with ACD on one side.
 They are supplied as follows:
 
-NDC 0186–0324–54 unit of use bottles of 90.
+NDC 0186-0324-54 unit of use bottles of 90.
 
 ## Storage:
 
 Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
 Keep container tightly closed.
 
-ATACAND HCT is a trademark of the AstraZeneca group of companies
+ATACAND HCT is a registered trademark of the AstraZeneca group of companies.
 
 ©AstraZeneca 2013, 2015
 
@@ -33,4 +33,4 @@ by: AstraZeneca AB, S-151 85 Södertälje, Sweden
 for: AstraZeneca LP, Wilmington, DE 19850
 
 Rev.
-02/2015
+02/2016
