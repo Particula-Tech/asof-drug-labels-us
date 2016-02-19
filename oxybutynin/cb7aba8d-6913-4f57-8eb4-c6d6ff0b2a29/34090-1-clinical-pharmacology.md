@@ -9,7 +9,7 @@ In patients with conditions characterized by involuntary bladder contractions, c
 Oxybutynin chloride thus decreases urgency and the frequency of both incontinent episodes and voluntary urination.
 
 Antimuscarinic activity resides predominately in the R-isomer.
-A metabolite, desethyloxybutynin, has pharmacological activity similar to that of oxybutynin in invitro studies.
+A metabolite, desethyloxybutynin, has pharmacological activity similar to that of oxybutynin in in vitro studies.
 
 ## Pharmacokinetics
 
@@ -31,6 +31,9 @@ Table 1: Mean (SD) R- and S-Oxybutynin Pharmacokinetic Parameters Following Thre
 | AUCt (ng⋅h/mL) | 22.6 (11.3) | 35 (17.3) |
 | AUCinf (ng⋅h/mL) | 24.3 (12.3) | 37.3 (18.7) |
 
+Figure 1.
+Mean R-Oxybutynin Plasma Concentrations Following Three Doses of Oxybutynin Chloride 5 mg Administered Every 8 Hours for 1 Day in 23 Healthy Adult Volunteers
+
 Oxybutynin chloride steady-state pharmacokinetics were also studied in 11 pediatric patients with detrusor overactivity associated with a neurological condition (e.g., spina bifida).
 These pediatric patients were on oxybutynin chloride tablets with total daily dose ranging from 7.5 mg to 15 mg (0.22 to 0.53 mg/kg).
 Overall, most patients (86.9%) were taking a total daily oxybutynin chloride dose between 10 mg and 15 mg.
@@ -46,6 +49,9 @@ Table 2: Mean ± SD R- and S-Oxybutynin and R- and S-Desethyloxybutynin Pharmaco
 | CmaxReflects Cmax for pooled data (ng/mL) | 6.1 ± 3.2 | 10.1 ± 7.5 | 55.4 ± 17.9 | 28.2 ± 10 |
 | Tmax (hr) | 1 | 1 | 2 | 2 |
 | AUCAUC0-end of dosing interval (ng.hr/mL) | 19.8 ± 7.4 | 28.4 ± 12.7 | 238.8 ± 77.6 | 119.5 ± 50.7 |
+
+Figure 2.
+Mean Steady-State (± SD) R-Oxybutynin Plasma Concentrations Following Administration of Total Daily Oxybutynin Chloride Tablet Dose of 7.5 mg to 15 mg (0.22 mg/kg to 0.53 mg/kg) in Children 5 to 15 Years of Age. – Plot Represents All Available Data Normalized to the Equivalent of Oxybutynin Chloride 5 mg BID or TID at Steady-State
 
 ### Food Effects
 
