@@ -2,7 +2,7 @@
 
 Remicade® (Infliximab) For Injection 100 mg per vial
 
-Single use vial - Discard unused portion
+Single dose vial - Discard unused portion
 
 Each patient is required to receive the enclosed Medication Guide
 
