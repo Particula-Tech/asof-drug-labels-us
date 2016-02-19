@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA017443"
+  ],
+  "inn": "dantrolene",
+  "labeler": "Par Pharmaceutical Inc.",
+  "package_ndcs": [
+    "49884-362-01",
+    "49884-363-01",
+    "49884-364-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "dantrolene sodium",
+      "name": "dantrolene sodium"
+    }
+  ],
+  "setid": "11689f56-15e0-4350-b53f-ae96e5994fea",
+  "source": "dailymed"
+}
