@@ -8,5 +8,5 @@ In addition, elevated hepatic enzymes and mucositis have been reported following
 One patient received a single dose of 40 mg/m2 of intravenous topotecan and developed gastrointestinal toxicity, skin toxicity, and myelosuppression leading to septic shock.
 Another patient received a single dose of 35 mg/m2 and experienced severe, reversible neutropenia.
 
-There is no known antidote for overdosage with Topotecan Injection.
-If an overdose is suspected, monitor the patient for bone marrow suppression and institute supportive care measures (such as prophylactic G-CSF and antibiotic therapy) as appropriate.
+There is no known antidote for overdosage with Topotecan injection.
+If an overdose is suspected, monitor the patient closely for bone marrow suppression and institute supportive-care measures (such as the prophylactic use of G-CSF and antibiotic therapy) as appropriate.

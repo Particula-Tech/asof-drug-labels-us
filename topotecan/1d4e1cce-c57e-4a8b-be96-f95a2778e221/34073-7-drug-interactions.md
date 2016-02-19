@@ -1,3 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-G-CSF: Concomitant administration of G-CSF can prolong the duration of neutropenia, so if G‑CSF is to be used, do not initiate it until day 6 of the course of therapy, 24 hours after completion of treatment with Topotecan Injection.
+## 7.1 G-CSF
+
+Concomitant administration with G-CSF can prolong the duration of neutropenia.
+If G-CSF is used, it should be started no sooner than 24 hours following the last dose of Topotecan injection.
