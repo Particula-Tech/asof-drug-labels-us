@@ -12,10 +12,10 @@ Summary of Initial Oral Dosage Recommendations and Observed Whole Blood Trough C
 
 | Patient Population | Recommended Tacrolimus Initial Oral Dosage Note: daily doses should be administered as two divided doses, every 12 hours | Observed Tacrolimus Whole Blood Trough Concentrations |
 | --- | --- | --- |
-| Adult kidney transplant patients In combination with azathioprine | 0.2 mg/kg/day | month 1 to 3: 7 to 20 ng/mL month 4 to 12: 5 to 15 ng/mL |
-| In combination with MMF/IL-2 receptor antagonist In a second smaller trial, the initial dose of tacrolimus was 0.15 to 0.2 mg/kg/day and observed tacrolimus concentrations were 6 to 16 ng/mL during month 1 to 3 and 5 to 12 ng/mL during month 4 to 12 [see Clinical Studies (14.1)]. | 0.1 mg/kg/day | month 1 to 12: 4 to 11 ng/mL |
-| Adult liver transplant patients | 0.10 to 0.15 mg/kg/day | month 1 to 12: 5 to 20 ng/mL |
-| Adult heart transplant patients | 0.075 mg/kg/day | month 1to 3: 10 to 20 ng/mL month ≥4: 5 to 15 ng/mL |
+| Adult kidney transplant patients In combination with azathioprine | 0.2 mg/kg/day | month 1 - 3: 7 - 20 ng/mL month 4 - 12: 5 - 15 ng/mL |
+| In combination with MMF/IL-2 receptor antagonist In a second smaller trial, the initial dose of tacrolimus was 0.15 - 0.2 mg/kg/day and observed tacrolimus concentrations were 6 - 16 ng/mL during month 1 - 3 and 5 - 12 ng/mL during month 4 - 12 [see Clinical Studies (14.1)]. | 0.1 mg/kg/day | month 1 - 12: 4 - 11 ng/mL |
+| Adult liver transplant patients | 0.10 - 0.15 mg/kg/day | month 1 - 12: 5 - 20 ng/mL |
+| Adult heart transplant patients | 0.075 mg/kg/day | month 1 - 3: 10 - 20 ng/mL month ≥4: 5 - 15 ng/mL |
 
 Dosing should be titrated based on clinical assessments of rejection and tolerability.
 Lower tacrolimus dosages than the recommended initial dosage may be sufficient as maintenance therapy.
@@ -37,12 +37,12 @@ Comparative Dose and Trough Concentrations Based on Race
 Initial Dose – Injection
 
 Tacrolimus injection should be used only as a continuous IV infusion and when the patient cannot tolerate oral administration of tacrolimus capsules.
-Tacrolimus injection should be discontinued as soon as the patient can tolerate oral administration of tacrolimus capsules, usually within 2 to 3 days.
-In a patient receiving an IV infusion, the first dose of oral therapy should be given 8 to 12 hours after discontinuing the IV infusion.
+Tacrolimus injection should be discontinued as soon as the patient can tolerate oral administration of tacrolimus capsules, usually within 2 - 3 days.
+In a patient receiving an IV infusion, the first dose of oral therapy should be given 8 - 12 hours after discontinuing the IV infusion.
 
 The observed trough concentrations described above pertain to oral administration of tacrolimus only; while monitoring tacrolimus concentrations in patients receiving tacrolimus injection as a continuous IV infusion may have some utility, the observed concentrations will not represent comparable exposures to those estimated by the trough concentrations observed in patients on oral therapy.
 
-The recommended starting dose of tacrolimus injection is 0.03 to 0.05 mg/kg/day in kidney and liver transplant and 0.01 mg/kg/day in heart transplant given as a continuous IV infusion.
+The recommended starting dose of tacrolimus injection is 0.03 - 0.05 mg/kg/day in kidney and liver transplant and 0.01 mg/kg/day in heart transplant given as a continuous IV infusion.
 Adult patients should receive doses at the lower end of the dosing range.
 Concomitant adrenal corticosteroid therapy is recommended early post-transplantation.
 
@@ -60,7 +60,7 @@ Summary of Initial Oral Dosage Recommendations and Observed Whole Blood Trough C
 
 | Patient Population | Recommended Tacrolimus Initial Oral Dosage Note: daily doses should be administered as two divided doses, every 12 hours | Observed Tacrolimus Whole Blood Trough Concentrations |
 | --- | --- | --- |
-| Pediatric liver transplant patients | 0.15 to 0.20 mg/kg/day | month 1 to 12: 5 to 20 ng/mL |
+| Pediatric liver transplant patients | 0.15 - 0.20 mg/kg/day | month 1 - 12: 5 - 20 ng/mL |
 
 Pediatric liver transplantation patients without pre-existing renal or hepatic dysfunction have required and tolerated higher doses than adults to achieve similar blood concentrations.
 
@@ -97,8 +97,8 @@ In the presence of elevated tacrolimus or cyclosporine concentrations, dosing wi
 
 In patients unable to take oral tacrolimus capsules, therapy may be initiated with tacrolimus injection as a continuous IV infusion.
 If IV therapy is necessary, conversion from IV to oral tacrolimus capsules is recommended as soon as oral therapy can be tolerated.
-This usually occurs within 2 to 3 days.
-In patients receiving an IV infusion, the first dose of oral therapy should be given 8 to 12 hours after discontinuing the IV infusion
+This usually occurs within 2 - 3 days.
+In patients receiving an IV infusion, the first dose of oral therapy should be given 8 - 12 hours after discontinuing the IV infusion
 
 ## 2.6 Therapeutic Drug Monitoring
 
@@ -120,14 +120,3 @@ Whole blood is the matrix of choice and specimens should be collected into tubes
 Heparin anti-coagulation is not recommended because of the tendency to form clots on storage.
 Samples which are not analyzed immediately should be stored at room temperature or in a refrigerator and assayed within 7 days; see assay instructions for specifics.
 If samples are to be kept longer they should be deep frozen at -20° C. One study showed drug recovery >90% for samples stored at -20° C for 6 months, with reduced recovery observed after 6 months.
-
-## 2.7 Preparation for Intravenous Product
-
-Tacrolimus injection must be diluted with 0.9% Sodium Chloride Injection or 5% Dextrose Injection to a concentration between 0.004 mg/mL and 0.02 mg/mL prior to use.
-Diluted infusion solution should be stored in glass or polyethylene containers and should be discarded after 24 hours.
-The diluted infusion solution should not be stored in a PVC container due to decreased stability and the potential for extraction of phthalates.
-In situations where more dilute solutions are utilized (e.g., pediatric dosing, etc.), PVC-free tubing should likewise be used to minimize the potential for significant drug adsorption onto the tubing.
-
-Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
-
-Due to the chemical instability of tacrolimus in alkaline media, tacrolimus injection should not be mixed or co-infused with solutions of pH 9 or greater (e.g., ganciclovir or acyclovir).

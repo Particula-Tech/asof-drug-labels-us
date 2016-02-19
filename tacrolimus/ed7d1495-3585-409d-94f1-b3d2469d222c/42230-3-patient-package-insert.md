@@ -2,6 +2,8 @@ Patient Information
 
 Tacrolimus Capsules, USP
 
+(ta kroe′ li mus)
+
 Read this Patient Information before you start taking tacrolimus and each time you get a refill.
 There may be new information.
 This information does not take the place of talking with your doctor about your medical condition or your treatment.
@@ -245,10 +247,10 @@ Bangalore-560076, India
 
 Distributed by:
 
-Strides Pharma Inc
+Strides Pharma Inc.
 
-201 South Main Street, Suite 3
+2 Tower Center Blvd.
 
-Lambertville, NJ 08530 USA
+Suite 1102, East Brunswick, NJ 08816
 
-Revised: 06/2014
+Revised: 12/2015

@@ -17,6 +17,6 @@ The implications of these carcinogenicity studies to the human condition are lim
 
 No evidence of genotoxicity was seen in bacterial (Salmonella and E. coli) or mammalian (Chinese hamster lung-derived cells) in vitro assays of mutagenicity, the in vitro CHO/HGPRT assay of mutagenicity, or in vivo clastogenicity assays performed in mice; tacrolimus did not cause unscheduled DNA synthesis in rodent hepatocytes.
 
-Tacrolimus given orally at 1 mg/kg (0.8 to 2.2 times the clinical dose range of 0.075 to 0.2 mg/kg/day based on body surface area) to male and female rats, prior to and during mating, as well as to dams during gestation and lactation, was associated with embryolethality and adverse effects on female reproduction.
+Tacrolimus given orally at 1.0 mg/kg (0.8 to 2.2 times the clinical dose range of 0.075 to 0.2 mg/kg/day based on body surface area) to male and female rats, prior to and during mating, as well as to dams during gestation and lactation, was associated with embryolethality and adverse effects on female reproduction.
 Effects on female reproductive function (parturition) and embryolethal effects were indicated by a higher rate of pre-implantation loss and increased numbers of undelivered and nonviable pups.
 When given at 3.2 mg/kg (2.6 to 6.9 times the clinical dose range based on body surface area), tacrolimus was associated with maternal and paternal toxicity as well as reproductive toxicity including marked adverse effects on estrus cycles, parturition, pup viability, and pup malformations.

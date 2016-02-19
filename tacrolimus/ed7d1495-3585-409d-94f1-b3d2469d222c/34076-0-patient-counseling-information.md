@@ -52,6 +52,8 @@ Instruct patients to tell their healthcare provider if they plan to become pregn
 
 Inform patients that tacrolimus can interfere with the usual response to immunizations and that they should avoid live vaccines [see Warnings and Precautions (5.16)].
 
+Rx only
+
 Manufactured By:
 
 Strides Arcolab Limited
@@ -60,10 +62,10 @@ Bangalore-560076, India
 
 Distributed by:
 
-Strides Pharma Inc
+Strides Pharma Inc.
 
-201 South Main Street, Suite 3
+2 Tower Center Blvd.
 
-Lambertville, NJ 08530 USA
+Suite 1102, East Brunswick, NJ 08816
 
-Revised: 08/2014
+Revised: 12/2015

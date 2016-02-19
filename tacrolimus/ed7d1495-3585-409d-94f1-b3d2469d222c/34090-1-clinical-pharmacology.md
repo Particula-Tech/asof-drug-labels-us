@@ -23,12 +23,12 @@ Pharmacokinetics Parameters (mean±S.D.) of Tacrolimus in Healthy Volunteers and
 | Population | N | Route | Population |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  | Cmax (ng/mL) | Tmax (hr) | AUC (ng•hr/mL) | t1/2 (hr) | Cl (L/hr/kg) | V (L/kg) |
-| Healthy Volunteers | 8 | IV (0.025 mg/kg/4hr) | not applicable |  | 598AUC0-120 ± 125 | 34.2 ± 7.7 | 0.040 ± 0.009 | 1.91 ± 0.31 |
-|  | 16 | PO (5 mg) | 29.7± 7.2 | 1.6 ± 0.7 | 243AUC0-72 ± 73 | 34.8 ± 11.4 | 0.041Corrected for individual bioavailability ± 0.008 | 1.94 ± 0.53 |
-| Kidney Transplant Patients | 26 | IV (0.02 mg/kg/12hr) |  |  | 294AUC0-inff ± 262 | 18.8 ± 16.7 | 0.083 ± 0.050 | 1.41 ± 0.66 |
-|  |  | PO (0.2 mg/kg/day) | 19.2 ± 10.3 | 3 | 203 ± 42 | not available |  |  |
-|  |  | PO (0.3 mg/kg/day) | 24.2 ± 15.8 | 1.5 | 288 ± 93 |  |  |  |
-| Liver Transplant Patients | 17 | IV (0.05 mg/kg/12hr) |  |  | 3300 ± 2130 | 11.7 ± 3.9 | 0.053 ± 0.017 | 0.85 ± 0.30 |
+| Healthy Volunteers | 8 | IV (0.025 mg/kg/4hr) | not applicable |  | 598†AUC0-120± 125 | 34.2 ± 7.7 | 0.040 ± 0.009 | 1.91 ± 0.31 |
+|  | 16 | PO (5 mg) | 29.7± 7.2 | 1.6 ± 0.7 | 243†AUC0-120± 73 | 34.8 ± 11.4 | 0.041Corrected for individual bioavailability ± 0.008 | 1.94 ± 0.53 |
+| Kidney Transplant Patients | 26 | IV (0.02 mg/kg/12hr) |  |  | 294†AUC0-120± 262 | 18.8 ± 16.7 | 0.083 ± 0.050 | 1.41 ± 0.66 |
+|  |  | PO (0.2 mg/kg/day) | 19.2 ± 10.3 | 3 | 203†AUC0-120± 42 | not available |  |  |
+|  |  | PO (0.3 mg/kg/day) | 24.2 ± 15.8 | 1.5 | 288†AUC0-120± 93 |  |  |  |
+| Liver Transplant Patients | 17 | IV (0.05 mg/kg/12hr) |  |  | 3300†AUC0-120± 2130 | 11.7 ± 3.9 | 0.053 ± 0.017 | 0.85 ± 0.30 |
 |  |  | PO (0.3 mg/kg/day) | 68.5 ± 30 | 2.3 ± 1.5 | 519 ± 179 |  |  |  |
 | Heart Transplant Patients | 11 | IV (0.01 mg/kg/day as a continuous infusion) |  |  | 954AUC0-t ± 334 | 23.6 ± 9.22 | 0.051 ± 0.015 |  |
 |  | 11 | PO (0.075 mg/kg/day)Determined after the first dose | 14.7 + 7.79 | 2.1 [0.5-6.0]Median [range] | 82.7AUC0-12 ± 63.2 |  |  |  |
@@ -46,7 +46,7 @@ A single dose trial conducted in 32 healthy volunteers established the bioequiva
 Another single dose trial in 32 healthy volunteers established the bioequivalence of the 0.5 mg and 1 mg capsules.
 Tacrolimus maximum blood concentrations (Cmax) and area under the curve (AUC) appeared to increase in a dose proportional fashion in 18 fasted healthy volunteers receiving a single oral dose of 3, 7, and 10 mg.
 
-In 18 kidney transplant patients, tacrolimus trough concentrations from 3 to 30 ng/mL measured at 10 to 12 hours post-dose (Cmin) correlated well with the AUC (correlation coefficient 0.93).
+In 18 kidney transplant patients, tacrolimus trough concentrations from 3 to 30 ng/mL measured at 10 - 12 hours post-dose (Cmin) correlated well with the AUC (correlation coefficient 0.93).
 In 24 liver transplant patients over a concentration range of 10 to 60 ng/mL, the correlation coefficient was 0.94.
 In 25 heart transplant patients over a concentration range of 2 to 24 ng/mL, the correlation coefficient was 0.89 after an oral dose of 0.075 or 0.15 mg/kg/day at steady-state.
 
@@ -104,9 +104,9 @@ The absolute bioavailability was 31±24%.
 Whole blood trough concentrations from 31 patients less than 12 years old showed that pediatric patients needed higher doses than adults to achieve similar tacrolimus trough concentrations [see Dosage and Administration (2.2)].
 
 Pharmacokinetics of tacrolimus have also been studied in kidney transplantation patients, 8.2±2.4 years of age.
-Following IV infusion of a 0.06 (range 0.06 to 0.09) mg/kg/day to 12 pediatric patients (8 male and 4 female), mean terminal half-life and clearance were 10.2±5.0 (range 3.4 to 25) hours and 0.12±0.04 (range 0.06 to 0.17) L/hr/kg, respectively.
-Following oral administration to the same patients, mean AUC and Cmax were 181±65 (range 81 to 300) ng hr/mL and 30±11 (range 14 to 49) ng/mL, respectively.
-The absolute bioavailability was 19±14 (range 5.2 to 56) %.
+Following IV infusion of a 0.06 (range 0.06 - 0.09) mg/kg/day to 12 pediatric patients (8 male and 4 female), mean terminal half-life and clearance were 10.2±5.0 (range 3.4 - 25) hours and 0.12±0.04 (range 0.06 - 0.17) L/hr/kg, respectively.
+Following oral administration to the same patients, mean AUC and Cmax were 181±65 (range 81 - 300) ng hr/mL and 30±11 (range 14 - 49) ng/mL, respectively.
+The absolute bioavailability was 19±14 (range 5.2 - 56) %.
 
 Renal and Hepatic Impairment
 
@@ -118,11 +118,11 @@ Pharmacokinetic In Renal and Hepatic Impaired Patients
 | Population (No. of Patients) | Dose | AUC0-t (ng·hr/mL) | t1/2(hr) | V (L/kg) | Cl (L/hr/kg) |
 | --- | --- | --- | --- | --- | --- |
 | Renal Impairment (n=12) | 0.02 mg/kg/4hr IV | 393 ± 123 (t=60 hr) | 26.3 ± 9.2 | 1.07 ± 0.20 | 0.038 ± 0.014 |
-| Mild Hepatic Impairment (n=6) | 0.02 mg/kg/4hr IV | 367 ± 107 (t=72 hr) | 60.6 ± 43.8 Range: 27.8 to 141 | 3.1 ± 1.6 | 0.042 ± 0.02 |
-|  | 7.7 mg PO | 488 ± 320 (t=72 hr) | 66.1 ± 44.8 Range: 29.5 to 138 | 3.7 ± 4.7 corrected for bioavailability | 0.034 ± 0.019 |
-| Severe Hepatic Impairment (n=6, IV) | 0.02 mg/kg/4hr IV (n=2) | 762 ± 204 (t=120 hr) | 198 ± 158 Range:81 to 436 | 3.9 ± 1.0 | 0.017 ± 0.013 |
+| Mild Hepatic Impairment (n=6) | 0.02 mg/kg/4hr IV | 367 ± 107 (t=72 hr) | 60.6 ± 43.8 Range: 27.8 - 141 | 3.1 ± 1.6 | 0.042 ± 0.02 |
+|  | 7.7 mg PO | 488 ± 320 (t=72 hr) | 66.1 ± 44.8 Range: 29.5 - 138 | 3.7 ± 4.7 * | 0.034 ± 0.019 * |
+| Severe Hepatic Impairment (n=6, IV) | 0.02 mg/kg/4hr IV (n=2) | 762 ± 204 (t=120 hr) | 198 ± 158 Range:81 - 436 | 3.9 ± 1.0 | 0.017 ± 0.013 |
 |  | 0.01 mg/kg/8hr IV (n=4) | 289 ± 117 (t=144 hr) |  |  |  |
-| (n=5, PO) 1 patient did not receive the PO dose | 8 mg PO (n=1) | 658 (t=120 hr) | 119±35 Range: 85 to 178 | 3.1±3.4 | 0.016 ±0.011 |
+| (n=5, PO) * corrected for bioavailability | 8 mg PO (n=1) | 658 (t=120 hr) | 119±35 Range: 85 - 178 | 3.1±3.4* | 0.016 ±0.011* |
 |  | 5 mg PO (n=4) | 533±156 (t=144 hr) |  |  |  |
 |  | 4 mg PO (n=1) |  |  |  |  |
 
