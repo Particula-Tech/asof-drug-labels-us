@@ -2,13 +2,13 @@
 
 Furosemide Injection, USP 10 mg/mL is supplied as follows:
 
-| NDC No. | Container | Size |
+| Unit of Sale | Concentration | Each |
 | --- | --- | --- |
-| 0409-1639-10 | Ansyr™ Plastic Syringe | 10 mL |
-| 0409-9631-04 | Ansyr™ Plastic Syringe | 4 mL |
-| 0409-6102-02 | Amber Fliptop Vial | 2 mL |
-| 0409-6102-04 | Amber Fliptop Vial | 4 mL |
-| 0409-6102-10 | Amber Fliptop Vial | 10 mL |
+| NDC 0409-6102-02Carton Containing 25 Vials | 20 mg/2 mL(10 mg/mL) | NDC 0409-6102-192 mL Single-use Vial |
+| NDC 0409-6102-04Carton Containing 25 Vials | 40 mg/4 mL(10 mg/mL) | NDC 0409-6102-184 mL Single-use Vial |
+| NDC 0409-6102-10Carton Containing 25 Vials | 100 mg/10 mL(10 mg/mL) | NDC 0409-6102-2010 mL Single-use Vial |
+| NDC 0409-1639-10Bundle Containing 10 ANSYR Syringes | 100 mg/10 mL(10 mg/mL) | NDC 0409-1639-2110 mL Single-use ANSYR Syringe |
+| NDC 0409-9631-04Bundle Containing 10 ANSYR Syringes | 40 mg/4 mL(10 mg/mL) | NDC 0409-9631-144 mL Single-use ANSYR Syringe |
 
 Store at 20 to 25°C (68 to 77°F).
 [See USP Controlled Room Temperature.]
@@ -16,12 +16,12 @@ Store at 20 to 25°C (68 to 77°F).
 Do not use if solution is discolored or contains particulate.
 
 Protect from light.
-Do not remove from carton until ready for use.
+Do not remove the Ansyr syringe from carton until ready to use.
 
 Discard unused portion.
 
-Revised: 03/2012
+Revised: 7/2015
 
-EN-3018
+EN-3983
 
 Hospira, Inc., Lake Forest, IL 60045 USA

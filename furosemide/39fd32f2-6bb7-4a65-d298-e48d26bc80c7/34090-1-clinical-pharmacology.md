@@ -23,7 +23,7 @@ The terminal half-life of furosemide is approximately 2 hours.
 Significantly more furosemide is excreted in urine following the IV injection than after the tablet or oral solution.
 There are no significant differences between the two oral formulations in the amount of unchanged drug excreted in urine.
 
-Geriatric Population
+## Geriatric Population
 
 Furosemide binding to albumin may be reduced in elderly patients.
 Furosemide is predominantly excreted unchanged in the urine.

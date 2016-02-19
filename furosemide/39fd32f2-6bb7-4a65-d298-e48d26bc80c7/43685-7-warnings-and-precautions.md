@@ -12,7 +12,7 @@ Reports usually indicate that furosemide ototoxicity is associated with rapid in
 If the physician elects to use high dose parenteral therapy, controlled intravenous infusion is advisable (for adults, an infusion rate not exceeding 4 mg furosemide per minute has been used).
 (See PRECAUTIONS, Drug Interactions.)
 
-Pediatric Use
+## Pediatric Use
 
 In premature neonates with respiratory distress syndrome, diuretic treatment with furosemide in the first few weeks of life may increase the risk of persistent patent ductus arteriosus (PDA), possibly through a prostaglandin-E-mediated process.
 
@@ -22,7 +22,7 @@ Hearing loss in neonates has been associated with the use of furosemide injectio
 
 # PRECAUTIONS
 
-General
+## General
 
 Excessive diuresis may cause dehydration and blood volume reduction with circulatory collapse and possibly vascular thrombosis and embolism, particularly in elderly patients.
 As with any effective diuretic, electrolyte depletion may occur during furosemide therapy, especially in patients receiving higher doses and a restricted salt intake.
@@ -48,7 +48,7 @@ The possibility exists of exacerbation or activation of systemic lupus erythemat
 
 As with many other drugs, patients should be observed regularly for the possible occurrence of blood dyscrasias, liver or kidney damage, or other idiosyncratic reactions.
 
-Information for Patients
+## Information for Patients
 
 Patients receiving furosemide should be advised that they may experience symptoms from excessive fluid and/or electrolyte losses.
 The postural hypotension that sometimes occurs can usually be managed by getting up slowly.
@@ -59,7 +59,7 @@ The skin of some patients may be more sensitive to the effects of sunlight while
 
 Hypertensive patients should avoid medications that may increase blood pressure, including over-the-counter products for appetite suppression and cold symptoms.
 
-Laboratory Tests
+## Laboratory Tests
 
 Serum electrolytes (particularly potassium), CO2, creatinine and BUN should be determined frequently during the first few months of furosemide therapy and periodically thereafter.
 
@@ -76,7 +76,7 @@ Accordingly, serum levels of these electrolytes should be determined periodicall
 
 In premature infants furosemide may precipitate nephrocalcinosis/nephrolithiasis, therefore renal function must be monitored and renal ultrasonography performed (see PRECAUTIONS, Pediatric Use).
 
-Drug Interactions
+## Drug Interactions
 
 Furosemide may increase the ototoxic potential of aminoglycoside antibiotics, especially in the presence of impaired renal function.
 Except in life-threatening situations, avoid this combination.
@@ -120,7 +120,7 @@ Literature reports indicate that coadministration of indomethacin may reduce the
 Indomethacin may also affect plasma renin levels, aldosterone excretion, and renin profile evaluation.
 Patients receiving both indomethacin and furosemide should be observed closely to determine if the desired diuretic and/or antihypertensive effect of furosemide is achieved.
 
-Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Furosemide was tested for carcinogenicity by oral administration in one strain of mice and one strain of rats.
 A small but significantly increased incidence of mammary gland carcinomas occurred in female mice at a dose 17.5 times the maximum human dose of 600 mg.
@@ -134,9 +134,9 @@ The urine of rats treated with this drug did not induce gene conversion in Sacch
 
 Furosemide produced no impairment of fertility in male or female rats, at 100 mg/kg/day (the maximum effective diuretic dose in the rat and 8 times the maximal human dose of 600 mg/day).
 
-Pregnancy
+## Pregnancy
 
-Teratogenic Effects
+### Teratogenic Effects
 
 Pregnancy Category C
 
@@ -155,13 +155,13 @@ Data from the above studies indicate fetal lethality that can precede maternal d
 
 The results of the mouse study and one of the three rabbit studies also showed an increased incidence and severity of hydronephrosis (distention of the renal pelvis and, in some cases, of the ureters) in fetuses derived from treated dams as compared with the incidence in fetuses from the control group.
 
-Nursing Mothers
+## Nursing Mothers
 
 Because it appears in breast milk, caution should be exercised when furosemide is administered to a nursing mother.
 
 Furosemide may inhibit lactation.
 
-Pediatric Use
+## Pediatric Use
 
 In premature infants furosemide may precipitate nephrocalcinosis/nephrolithiasis.
 Nephrocalcinosis/nephrolithiasis has also been observed in children under 4 years of age with no history of prematurity who have been treated chronically with furosemide.
@@ -172,7 +172,7 @@ If furosemide is administered to premature infants during the first weeks of lif
 Renal calcifications (from barely visible on x-ray to staghorn) have occurred in some severely premature infants treated with intravenous furosemide for edema due to patent ductus arteriosus and hyaline membrane disease.
 The concurrent use of chlorothiazide has been reported to decrease hypercalciuria and dissolve some calculi.
 
-Geriatric Use
+## Geriatric Use
 
 Controlled clinical studies of furosemide did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.

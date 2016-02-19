@@ -2,7 +2,7 @@
 
 Parenteral therapy should be reserved for patients unable to take oral medication or for patients in emergency clinical situations.
 
-Edema
+## Edema
 
 Furosemide is indicated in adults and pediatric patients for the treatment of edema associated with congestive heart failure, cirrhosis of the liver, and renal disease, including the nephrotic syndrome.
 Furosemide is particularly useful when an agent with greater diuretic potential is desired.
