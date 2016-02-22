@@ -54,6 +54,10 @@ In a study in which rats were treated peri- and post-natally with oral doses of 
 In rats receiving aripiprazole injection intravenously (3, 8, and 20 mg/kg/day) from gestation day 6 through day 20 postpartum, an increase in stillbirths was seen at 8 and 20 mg/kg/day, and decreases in early postnatal pup weights and survival were seen at 20 mg/kg/day; these effects were seen in presence of maternal toxicity.
 There were no effects on postnatal behavioral and reproductive development.
 
+## 8.2 Labor and Delivery
+
+The effect of aripiprazole on labor and delivery in humans is unknown.
+
 ## 8.3 Nursing Mothers
 
 Aripiprazole is present in human breast milk.
@@ -108,12 +112,12 @@ All drug-related effects were reversible after a 2-month recovery period.
 
 ## 8.5 Geriatric Use
 
-No dosage adjustment is recommended for elderly patients [see also BOXED WARNING, WARNINGS AND PRECAUTIONS (5.1), and CLINICAL PHARMACOLOGY (12.3)].
+No dosage adjustment is recommended for elderly patients [see BOXED WARNING, WARNINGS AND PRECAUTIONS (5.1), and CLINICAL PHARMACOLOGY (12.3)].
 
 Of the 13,543 patients treated with oral aripiprazole in clinical trials, 1073 (8%) were ≥65 years old and 799 (6%) were ≥75 years old.
 Placebo-controlled studies of oral aripiprazole in schizophrenia, bipolar mania, or major depressive disorder did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 
-Aripiprazole is not approved for the treatment of patients with psychosis associated with Alzheimer’s disease [see also BOXED WARNING and WARNINGS AND PRECAUTIONS (5.1)].
+Aripiprazole is not approved for the treatment of patients with psychosis associated with Alzheimer’s disease [see BOXED WARNING and WARNINGS AND PRECAUTIONS (5.1)].
 
 ## 8.6 CYP2D6 Poor Metabolizers
 

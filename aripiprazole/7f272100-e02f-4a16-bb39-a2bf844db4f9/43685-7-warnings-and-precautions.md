@@ -12,13 +12,13 @@ Safety Experience in Elderly Patients with Psychosis Associated with Alzheimer�
 In three, 10-week, placebo-controlled studies of aripiprazole in elderly patients with psychosis associated with Alzheimer’s disease (n=938; mean age: 82.4 years; range: 56 to 99 years), the adverse reactions that were reported at an incidence of ≥3% and aripiprazole incidence at least twice that for placebo were lethargy [placebo 2%, aripiprazole 5%], somnolence (including sedation) [placebo 3%, aripiprazole 8%], and incontinence (primarily, urinary incontinence) [placebo 1%, aripiprazole 5%], excessive salivation [placebo 0%, aripiprazole 4%], and lightheadedness [placebo 1%, aripiprazole 4%].
 
 The safety and efficacy of aripiprazole in the treatment of patients with psychosis associated with dementia have not been established.
-If the prescriber elects to treat such patients with aripiprazole, assess for the emergence of difficulty swallowing or excessive somnolence, which could predispose to accidental injury or aspiration [see also BOXED WARNING].
+If the prescriber elects to treat such patients with aripiprazole, assess for the emergence of difficulty swallowing or excessive somnolence, which could predispose to accidental injury or aspiration [see BOXED WARNING].
 
 ## 5.2 Cerebrovascular Adverse Events, Including Stroke
 
 In placebo-controlled clinical studies (two flexible dose and one fixed dose study) of dementia-related psychosis, there was an increased incidence of cerebrovascular adverse events (e.g., stroke, transient ischemic attack), including fatalities, in aripiprazole-treated patients (mean age: 84 years; range: 78 to 88 years).
 In the fixed-dose study, there was a statistically significant dose response relationship for cerebrovascular adverse events in patients treated with aripiprazole.
-Aripiprazole is not approved for the treatment of patients with dementia-related psychosis [see also BOXED WARNING].
+Aripiprazole is not approved for the treatment of patients with dementia-related psychosis [see BOXED WARNING].
 
 ## 5.3 Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults
 

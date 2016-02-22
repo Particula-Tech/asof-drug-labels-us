@@ -240,9 +240,7 @@ The oral solution is flavored with natural orange, cream and other natural and a
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: Amneal Pharmaceuticals Branchburg, NJ 08876
-
-Distributed by: Amneal Pharmaceuticals Glasgow, KY 42141
+Distributed by: Amneal Pharmaceuticals Bridgewater, NJ 08807
 
 Rev.
-08-2015-05
+02-2016-07
