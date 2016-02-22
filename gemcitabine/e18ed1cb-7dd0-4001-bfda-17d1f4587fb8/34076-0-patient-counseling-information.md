@@ -18,15 +18,9 @@ Because many drugs are excreted in human milk and because of the potential for s
 
 EN-3524
 
-Manufactured by:
+Manufactured by: Zydus Hospira Oncology Private Ltd. Ahmedabad 382-213, Gujarat, India.
 
-Zydus Hospira Oncology Private Ltd.
-
-Ahmedabad 382-213, Gujarat, India.
-
-Distributed by:
-
-Hospira, Inc., Lake Forest, IL 60045 USA
+Distributed by: Hospira, Inc., Lake Forest, IL 60045 USA
 
 Product of India
 

@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Gemcitabine exhibits cell phase specificity, primarily killing cells undergoing DNA synthesis (S‑phase) and also blocking the progression of cells through the G1/S-phase boundary.
+Gemcitabine exhibits cell phase specificity, primarily killing cells undergoing DNA synthesis (S-phase) and also blocking the progression of cells through the G1/S-phase boundary.
 Gemcitabine is metabolized intracellularly by nucleoside kinases to the active diphosphate (dFdCDP) and triphosphate (dFdCTP) nucleosides.
 The cytotoxic effect of gemcitabine is attributed to a combination of two actions of the diphosphate and the triphosphate nucleosides, which leads to inhibition of DNA synthesis.
 First, gemcitabine diphosphate inhibits ribonucleotide reductase, which is responsible for catalyzing the reactions that generate the deoxynucleoside triphosphates for DNA synthesis.

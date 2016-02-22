@@ -26,16 +26,17 @@ Table 10: Gemcitabine Plus Carboplatin Versus Carboplatin in Ovarian Cancer - Ba
 
 Table 11: Gemcitabine Plus Carboplatin Versus Carboplatin in Ovarian Cancer - Results of Efficacy Analysis
 
-|  | Gemcitabine/Carboplatin (N=178) | Carboplatin (N=178) |  |
-| --- | --- | --- | --- |
-| PFS Median (95%, C.I.) months Hazard Ratio (95%, C.I.) | 8.6 (8.0, 9.7) | 5.8 (5.2, 7.1) | p=0.0038d |
-| 0.72 (0.57, 0.90) |  |  |  |
-| Overall Survival Median (95%, C.I.) months Hazard Ratio (95%, C.I.) Adjusteda Hazard Ratio (95%, C.I.) | 18.0 (16.2, 20.3) | 17.3 (15.2, 19.3) | p=0.8977d |
-| 0.98 (0.78, 1.24) |  |  |  |
-| 0.86 (0.67, 1.10) |  |  |  |
-| Investigator Reviewed Overall Response Rate CR PR+PRNMb | 47.2% 14.6% 32.6% | 30.9% 6.2% 24.7% | p=0.0016e |
-| Independently Reviewed Overall Response Ratec,f CR PR+PRNM | 46.3% 9.1% 37.2% | 35.6% 4.0% 31.7% | p=0.11e |
-| a Treatment adjusted for performance status, tumor area, and platinum-free interval. b Partial response non-measurable disease c Independent reviewers could not evaluate disease demonstrated by sonography or physical exam. d Log Rank, unadjusted e Chi Square f Independently reviewed cohort - Gemcitabine/Carboplatin N=121, Carboplatin N=101 |  |  |  |
+|  | Gemcitabine/Carboplatin (N=178) | Carboplatin (N=178) |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| PFS Median (95%, C.I.) months Hazard Ratio (95%, C.I.) | 8.6 (8.0, 9.7) | 5.8 (5.2, 7.1) | p=0.0038d |  |  |  |
+| 0.72 (0.57, 0.90) |  |  |  |  |  |  |
+| Overall Survival Median (95%, C.I.) months Hazard Ratio (95%, C.I.) Adjusteda Hazard Ratio (95%, C.I.) |  |  |  |  |  |  |
+| 18.0 (16.2, 20.3) | 17.3 (15.2, 19.3) | p=0.8977d |  |  |  |  |
+| 0.98 (0.78, 1.24) |  |  |  |  |  |  |
+| 0.86 (0.67, 1.10) |  |  |  |  |  |  |
+| Investigator Reviewed Overall Response Rate CR PR+PRNMb | 47.2% 14.6% 32.6% | 30.9% 6.2% 24.7% | p=0.0016e |  |  |  |
+| Independently Reviewed Overall Response Ratec,f CR PR+PRNM | 46.3% 9.1% 37.2% | 35.6% 4.0% 31.7% | p=0.11e |  |  |  |
+| a Treatment adjusted for performance status, tumor area, and platinum-free interval. b Partial response non-measurable disease c Independent reviewers could not evaluate disease demonstrated by sonography or physical exam. d Log Rank, unadjusted e Chi Square f Independently reviewed cohort - Gemcitabine/Carboplatin N=121, Carboplatin N=101 |  |  |  |  |  |  |
 
 Figure 1: Kaplan-Meier Curve of Progression Free Survival in Gemcitabine Plus Carboplatin Versus Carboplatin in Ovarian Cancer (N=356)
 
@@ -121,12 +122,10 @@ The primary efficacy parameter in these studies was “clinical benefit response
 Definitions for improvement in these variables were formulated prospectively during the design of the 2 trials.
 A patient was considered a clinical benefit responder if either:
 
-i) the patient showed a ≥50% reduction in pain intensity (Memorial Pain Assessment Card) or analgesic consumption, or a 20-point or greater improvement in performance status (Karnofsky Performance Status) for a period of at least 4 consecutive weeks, without showing any sustained worsening in any of the other parameters.
-Sustained worsening was defined as 4 consecutive weeks with either any increase in pain intensity or analgesic consumption or a 20-point decrease in performance status occurring during the first 12 weeks of therapy.
-
-OR:
-
-ii) the patient was stable on all of the aforementioned parameters, and showed a marked, sustained weight gain (≥7% increase maintained for ≥4 weeks) not due to fluid accumulation.
+1. i)the patient showed a ≥50% reduction in pain intensity (Memorial Pain Assessment Card) or analgesic consumption, or a 20-point or greater improvement in performance status (Karnofsky Performance Status) for a period of at least 4 consecutive weeks, without showing any sustained worsening in any of the other parameters.
+   Sustained worsening was defined as 4 consecutive weeks with either any increase in pain intensity or analgesic consumption or a 20-point decrease in performance status occurring during the first 12 weeks of therapy.
+   OR:
+2. ii)the patient was stable on all of the aforementioned parameters, and showed a marked, sustained weight gain (≥7% increase maintained for ≥4 weeks) not due to fluid accumulation.
 
 The first study was a multicenter (17 sites in US and Canada), prospective, single-blinded, two-arm, randomized, comparison of gemcitabine and 5-FU in patients with locally advanced or metastatic pancreatic cancer who had received no prior treatment with chemotherapy.
 5-FU was administered intravenously at a weekly dose of 600 mg/m2 for 30 minutes.
@@ -154,6 +153,8 @@ Eleven patients on the gemcitabine arm and 2 patients on the 5-FU arm showed imp
 Two patients on the gemcitabine arm showed improvement in analgesic consumption or pain intensity with improvement in performance status.
 One patient on the 5-FU arm was stable with regard to pain intensity and analgesic consumption with improvement in performance status.
 No patient on either arm achieved a clinical benefit response based on weight gain.
+
+Figure 4: Kaplan-Meier Survival Curve
 
 The second trial was a multicenter (17 US and Canadian centers), open-label study of gemcitabine in 63 patients with advanced pancreatic cancer previously treated with 5-FU or a 5-FU-containing regimen.
 The study showed a clinical benefit response rate of 27% and median survival of 3.9 months.
