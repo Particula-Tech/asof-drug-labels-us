@@ -1,10 +1,10 @@
 # 10 OVERDOSAGE
 
-In the event of an overdose with JENTADUETO, contact the Poison Control Center.
+In the event of an overdose with JENTADUETO or JENTADUETO XR, contact the Poison Control Center.
 Employ the usual supportive measures (e.g., remove unabsorbed material from the gastrointestinal tract, employ clinical monitoring, and institute supportive treatment) as dictated by the patient’s clinical status.
 Removal of linagliptin by hemodialysis or peritoneal dialysis is unlikely.
 However, metformin is dialyzable with a clearance of up to 170 mL/min under good hemodynamic conditions.
-Therefore, hemodialysis may be useful partly for removal of accumulated metformin from patients in whom JENTADUETO overdosage is suspected.
+Therefore, hemodialysis may be useful partly for removal of accumulated metformin from patients in whom JENTADUETO or JENTADUETO XR overdosage is suspected.
 
 Linagliptin
 
@@ -16,3 +16,7 @@ Metformin
 Overdose of metformin has occurred, including ingestion of amounts greater than 50 grams.
 Hypoglycemia was reported in approximately 10% of cases, but no causal association with metformin has been established.
 Lactic acidosis has been reported in approximately 32% of metformin overdose cases [see Boxed Warning and Warnings and Precautions (5.1)].
+
+No cases of overdose were reported during metformin extended-release clinical trials.
+It would be expected that adverse reactions of a more intense character including epigastric discomfort, nausea, and vomiting followed by diarrhea, drowsiness, weakness, dizziness, malaise, and headache might be seen.
+Should these symptoms persist, lactic acidosis should be excluded.

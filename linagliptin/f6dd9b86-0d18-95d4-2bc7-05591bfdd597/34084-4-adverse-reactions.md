@@ -37,7 +37,9 @@ Metformin
 
 The most common adverse reactions due to initiation of metformin are diarrhea, nausea/vomiting, flatulence, asthenia, indigestion, abdominal discomfort, and headache.
 
-Long-term treatment with metformin has been associated with a decrease in vitamin B12 absorption which may very rarely result in clinically significant vitamin B12 deficiency (e.g., megaloblastic anemia) [see Warnings and Precautions (5.5)].
+In a 24-week clinical trial in which extended-release metformin or placebo was added to glyburide therapy, the most common (>5% and greater than placebo) adverse reactions in the combined treatment group were hypoglycemia (13.7% vs 4.9%), diarrhea (12.5% vs 5.6%), and nausea (6.7% vs 4.2%).
+
+Long-term treatment with metformin has been associated with a decrease in vitamin B12 absorption which may very rarely result in clinically significant vitamin B12 deficiency (e.g., megaloblastic anemia) [see Warnings and Precautions (5.7)].
 
 Hypoglycemia Linagliptin/Metformin
 
@@ -74,7 +76,7 @@ No clinically meaningful changes in vital signs were observed in patients treate
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of linagliptin.
+The following adverse reactions have been identified during postapproval use of linagliptin with or without metformin, and/or in combination with other antidiabetic medications.
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 - Acute pancreatitis, including fatal pancreatitis [see Indications and Usage (1.2) and Warnings and Precautions (5.2)]

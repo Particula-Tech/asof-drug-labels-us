@@ -2,9 +2,9 @@
 
 ## 12.1 Mechanism of Action
 
-JENTADUETO
+JENTADUETO and JENTADUETO XR
 
-JENTADUETO combines 2 antihyperglycemic agents with complementary mechanisms of action to improve glycemic control in patients with type 2 diabetes mellitus: linagliptin, a dipeptidyl peptidase-4 (DPP-4) inhibitor, and metformin, a member of the biguanide class.
+JENTADUETO and JENTADUETO XR each combine 2 antihyperglycemic agents with complementary mechanisms of action to improve glycemic control in patients with type 2 diabetes mellitus: linagliptin, a dipeptidyl peptidase-4 (DPP-4) inhibitor, and metformin, a member of the biguanide class.
 
 Linagliptin
 
@@ -41,11 +41,18 @@ At the 100-mg dose, peak linagliptin plasma concentrations were approximately 38
 
 JENTADUETO
 
-The results of a bioequivalence study in healthy subjects demonstrated that JENTADUETO (linagliptin/metformin hydrochloride) 2.5 mg/500 mg, 2.5 mg/850 mg, and 2.5 mg/1000 mg combination tablets are bioequivalent to coadministration of corresponding doses of linagliptin and metformin as individual tablets.
+The results of a bioequivalence study in healthy subjects demonstrated that JENTADUETO (linagliptin/metformin hydrochloride) 2.5 mg/500 mg, 2.5 mg/850 mg, and 2.5 mg/1000 mg combination tablets are bioequivalent to coadministration of corresponding doses of linagliptin and metformin immediate-release as individual tablets.
 Administration of linagliptin 2.5 mg/metformin hydrochloride 1000 mg fixed-dose combination with food resulted in no change in overall exposure of linagliptin.
 There was no change in metformin AUC; however, mean peak serum concentration of metformin was decreased by 18% when administered with food.
 A delayed time-to-peak serum concentrations by 2 hours was observed for metformin under fed conditions.
 These changes are not likely to be clinically significant.
+
+JENTADUETO XR
+
+The results of bioequivalence studies in healthy subjects demonstrated that JENTADUETO XR (linagliptin/metformin hydrochloride extended-release) 2.5 mg/1000 mg and 5 mg/1000 mg combination tablets are bioequivalent to coadministration of corresponding doses of linagliptin and metformin hydrochloride extended-release as individual tablets.
+Administration of JENTADUETO XR with food resulted in no change in overall exposure of linagliptin.
+For metformin extended-release, high-fat meals increased systemic exposure (as measured by area-under-the-curve [AUC]) by approximately 70% relative to fasting, while Cmax is not affected.
+Meals prolonged Tmax by approximately 3 hours.
 
 Absorption
 
@@ -61,8 +68,16 @@ The pharmacokinetics of linagliptin is similar in healthy subjects and in patien
 
 Metformin
 
-The absolute bioavailability of a metformin hydrochloride 500-mg tablet given under fasting conditions is approximately 50% to 60%.
+The absolute bioavailability of a metformin hydrochloride immediate-release 500-mg tablet given under fasting conditions is approximately 50% to 60%.
 Studies using single oral doses of metformin tablets 500 mg to 1500 mg, and 850 mg to 2550 mg, indicate that there is a lack of dose proportionality with increasing doses, which is due to decreased absorption rather than an alteration in elimination.
+
+Following a single oral dose of 1000 mg (2 x 500 mg tablets) metformin extended-release after a meal, the time to reach maximum plasma metformin concentration (Tmax) is achieved at approximately 7 to 8 hours.
+In both single- and multiple-dose studies in healthy subjects, once daily 1000 mg (2 x 500 mg tablets) dosing provides equivalent systemic exposure, as measured by AUC, and up to 35% higher Cmax of metformin relative to the immediate-release given as 500 mg twice daily.
+Metformin extended release tablets must be administered immediately after a meal to maximize therapeutic benefit.
+
+Single oral doses of metformin extended-release from 500 mg to 2500 mg resulted in less than proportional increase in both AUC and Cmax.
+Low-fat and high-fat meals increased the systemic exposure (as measured by AUC) from metformin extended-release tablets by about 38% and 73%, respectively, relative to fasting.
+Both meals prolonged metformin Tmax by approximately 3 hours but Cmax was not affected.
 
 Distribution
 
@@ -108,8 +123,8 @@ Specific Populations
 
 Renal Impairment
 
-JENTADUETO: Studies characterizing the pharmacokinetics of linagliptin and metformin after administration of JENTADUETO in renally impaired patients have not been performed.
-Since metformin is contraindicated in patients with renal impairment, use of JENTADUETO is also contraindicated in patients with renal impairment (e.g., serum creatinine ≥1.5 mg/dL [males] or ≥1.4 mg/dL [females], or abnormal creatinine clearance) [see Contraindications (4) and Warnings and Precautions (5.3)].
+JENTADUETO or JENTADUETO XR: Studies characterizing the pharmacokinetics of linagliptin and metformin after administration of JENTADUETO or JENTADUETO XR in renally impaired patients have not been performed.
+Since metformin is contraindicated in patients with renal impairment, use of JENTADUETO or JENTADUETO XR is also contraindicated in patients with renal impairment (e.g., serum creatinine ≥1.5 mg/dL [males] or ≥1.4 mg/dL [females], or abnormal creatinine clearance) [see Contraindications (4) and Warnings and Precautions (5.3)].
 
 Linagliptin: Under steady-state conditions, linagliptin exposure in patients with mild renal impairment was comparable to healthy subjects.
 In patients with moderate renal impairment under steady-state conditions, mean exposure of linagliptin increased (AUCτ,ss by 71% and Cmax by 46%) compared with healthy subjects.
@@ -123,9 +138,9 @@ Metformin: In patients with decreased renal function (based on measured creatini
 
 Hepatic Impairment
 
-JENTADUETO: Studies characterizing the pharmacokinetics of linagliptin and metformin after administration of JENTADUETO in hepatically impaired patients have not been performed.
+JENTADUETO or JENTADUETO XR: Studies characterizing the pharmacokinetics of linagliptin and metformin after administration of JENTADUETO or JENTADUETO XR in hepatically impaired patients have not been performed.
 However, use of metformin alone in patients with hepatic impairment has been associated with some cases of lactic acidosis.
-Therefore, use of JENTADUETO is not recommended in patients with hepatic impairment [see Warnings and Precautions (5.4)].
+Therefore, use of JENTADUETO or JENTADUETO XR is not recommended in patients with hepatic impairment [see Warnings and Precautions (5.4)].
 
 Linagliptin: In patients with mild hepatic impairment (Child-Pugh class A) steady-state exposure (AUCτ,ss) of linagliptin was approximately 25% lower and Cmax,ss was approximately 36% lower than in healthy subjects.
 In patients with moderate hepatic impairment (Child-Pugh class B), AUCss of linagliptin was about 14% lower and Cmax,ss was approximately 8% lower than in healthy subjects.
@@ -147,8 +162,8 @@ Similarly, in controlled clinical studies in patients with type 2 diabetes melli
 
 Geriatric
 
-JENTADUETO: Studies characterizing the pharmacokinetics of linagliptin and metformin after administration of JENTADUETO in geriatric patients have not been performed.
-Based on the metformin component, JENTADUETO treatment should not be initiated in patients ≥80 years of age unless measurement of creatinine clearance demonstrates that renal function is not reduced [see Warnings and Precautions (5.1, 5.3) and Use in Specific Populations (8.5)].
+JENTADUETO or JENTADUETO XR: Studies characterizing the pharmacokinetics of linagliptin and metformin after administration of JENTADUETO or JENTADUETO XR in geriatric patients have not been performed.
+Based on the metformin component, JENTADUETO or JENTADUETO XR treatment should not be initiated in patients ≥80 years of age unless measurement of creatinine clearance demonstrates that renal function is not reduced [see Warnings and Precautions (5.1, 5.3) and Use in Specific Populations (8.5)].
 
 Linagliptin: Age did not have a clinically meaningful impact on the pharmacokinetics of linagliptin based on a population pharmacokinetic analysis.
 
@@ -157,7 +172,7 @@ From these data, it appears that the change in metformin pharmacokinetics with a
 
 Pediatric
 
-Studies characterizing the pharmacokinetics of linagliptin and metformin after administration of JENTADUETO in pediatric patients have not yet been performed.
+Studies characterizing the pharmacokinetics of linagliptin and metformin after administration of JENTADUETO or JENTADUETO XR in pediatric patients have not yet been performed.
 
 Race
 
@@ -168,7 +183,7 @@ In controlled clinical studies of metformin in patients with type 2 diabetes mel
 
 Drug Interactions
 
-Pharmacokinetic drug interaction studies with JENTADUETO have not been performed; however, such studies have been conducted with the individual components of JENTADUETO (linagliptin and metformin hydrochloride).
+Pharmacokinetic drug interaction studies with JENTADUETO or JENTADUETO XR have not been performed; however, such studies have been conducted with the individual components of JENTADUETO and JENTADUETO XR (linagliptin and metformin hydrochloride).
 
 Linagliptin
 
@@ -196,7 +211,7 @@ Table 2 Effect of Coadministered Drugs on Systemic Exposure of Linagliptin
 | Glyburide | 1.75 mg# | 5 mg QD | 1.02 | 1.01 |
 | Pioglitazone | 45 mg QD | 10 mg QD | 1.13 | 1.07 |
 | Ritonavir | 200 mg BID | 5 mg# | 2.01 | 2.96 |
-| The efficacy of JENTADUETO may be reduced when administered in combination with strong inducers of CYP3A4 or P-gp (e.g., rifampin). Use of alternative treatments is strongly recommended [see Drug Interactions (7.2)]. |  |  |  |  |
+| The efficacy of JENTADUETO or JENTADUETO XR may be reduced when administered in combination with strong inducers of CYP3A4 or P-gp (e.g., rifampin). Use of alternative treatments is strongly recommended [see Drug Interactions (7.2)]. |  |  |  |  |
 | Rifampin | 600 mg QD | 5 mg QD | 0.60 | 0.56 |
 | *Multiple dose (steady state) unless otherwise noted # Single dose †AUC = AUC(0 to 24 hours) for single-dose treatments and AUC = AUC(TAU) for multiple-dose treatments QD = once daily BID = twice daily TID = three times daily |  |  |  |  |
 
@@ -223,6 +238,7 @@ Table 4 Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
 | --- | --- | --- | --- | --- | --- |
 |  | AUC† | Cmax |  |  |  |
 | No dosing adjustments required for the following coadministered drugs: |  |  |  |  |  |
+| Glyburide | 5 mg | 500 mg ≠ | metformin | 0.98‡ | 0.99‡ |
 | Furosemide | 40 mg | 850 mg | metformin | 1.09‡ | 1.22‡ |
 | Nifedipine | 10 mg | 850 mg | metformin | 1.16 | 1.21 |
 | Propranolol | 40 mg | 850 mg | metformin | 0.90 | 0.94 |
@@ -231,7 +247,7 @@ Table 4 Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
 | Cimetidine | 400 mg | 850 mg | metformin | 1.40 | 1.61 |
 | Carbonic anhydrase inhibitors may cause metabolic acidosis: use with caution [see Warnings and Precautions (5.1) and Drug Interactions (7.1)]. |  |  |  |  |  |
 | Topiramate** | 100 mg | 500 mg | metformin | 1.25 | 1.17 |
-| * All metformin and coadministered drugs were given as single doses † AUC = AUC(INF) ‡ Ratio of arithmetic means **At steady state with topiramate 100 mg every 12 hours and metformin 500 mg every 12 hours; AUC = AUC0-12h |  |  |  |  |  |
+| * All metformin and coadministered drugs were given as single doses † AUC = AUC(INF) ≠ metformin hydrochloride extended-release tablets 500 mg ‡ Ratio of arithmetic means **At steady state with topiramate 100 mg every 12 hours and metformin 500 mg every 12 hours; AUC = AUC0-12h |  |  |  |  |  |
 
 Table 5 Effect of Metformin on Coadministered Drug Systemic Exposure
 
@@ -244,4 +260,5 @@ Table 5 Effect of Metformin on Coadministered Drug Systemic Exposure
 | Nifedipine | 10 mg | 850 mg | nifedipine | 1.10§ | 1.08 |
 | Propranolol | 40 mg | 850 mg | propranolol | 1.01§ | 0.94 |
 | Ibuprofen | 400 mg | 850 mg | ibuprofen | 0.97¶ | 1.01¶ |
+| Cimetidine | 400 mg | 850 mg | cimetidine | 0.95§ | 1.01 |
 | * All metformin and coadministered drugs were given as single doses † AUC = AUC(INF) unless otherwise noted ‡ Ratio of arithmetic means, p-value of difference <0.05 § AUC(0-24 hr) reported ¶ Ratio of arithmetic means |  |  |  |  |  |

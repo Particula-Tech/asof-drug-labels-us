@@ -2,9 +2,9 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-### JENTADUETO
+### JENTADUETO and JENTADUETO XR
 
-No animal studies have been conducted with the combined products in JENTADUETO to evaluate carcinogenesis, mutagenesis, or impairment of fertility.
+No animal studies have been conducted with the combined products in JENTADUETO or JENTADUETO XR to evaluate carcinogenesis, mutagenesis, or impairment of fertility.
 General toxicity studies in rats up to 13 weeks were performed with JENTADUETO.
 
 The following data are based on the findings in studies with linagliptin and metformin individually.
@@ -22,13 +22,12 @@ In fertility studies in rats, linagliptin had no adverse effects on early embryo
 
 ### Metformin Hydrochloride
 
-Long-term carcinogenicity studies have been performed in rats (dosing duration of 104 weeks) and mice (dosing duration of 91 weeks) at doses up to and including 900 mg/kg/day and 1500 mg/kg/day, respectively.
-These doses are both approximately 4 times the maximum recommended human daily dose of 2000 mg/kg/day based on body surface area comparisons.
-No evidence of carcinogenicity with metformin was found in either male or female mice.
-Similarly, there was no tumorigenic potential observed with metformin in male rats.
-There was, however, an increased incidence of benign stromal uterine polyps in female rats treated with 900 mg/kg/day.
+Long-term carcinogenicity studies have been performed in Sprague Dawley rats at doses of 150, 300, and 450 mg/kg/day in males and 150, 450, 900, and 1200 mg/kg/day in females.
+These doses are both approximately 2, 4, and 8 times in males, and 3, 7, 12, and 16 times in females of the maximum recommended human daily dose of 2000 mg/kg/day based on body surface area comparisons.
+No evidence of carcinogenicity with metformin was found in either male or female rats.
+A carcinogenicity study was also performed in Tg.AC transgenic mice at doses of up to 2000 mg/kg/day applied dermally.
+No evidence of carcinogenicity was observed in male or female mice.
 
-There was no evidence of a mutagenic potential of metformin in the following in vitro tests: Ames test (Salmonella typhimurium), gene mutation test (mouse lymphoma cells), or chromosomal aberrations test (human lymphocytes).
-Results in the in vivo mouse micronucleus test were also negative.
+Genotoxicity assessments in the Ames test, gene mutation test (mouse lymphoma cells), chromosomal aberrations test (human lymphocytes) and in vivo mouse micronucleus tests were negative.
 
 Fertility of male or female rats was unaffected by metformin when administered at doses as high as 600 mg/kg/day, which is approximately 2 times the MRHD based on body surface area comparisons.
