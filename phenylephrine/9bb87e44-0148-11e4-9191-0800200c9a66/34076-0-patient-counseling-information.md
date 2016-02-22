@@ -7,3 +7,6 @@ Manufactured for:
 Éclat Pharmaceuticals
 
 Chesterfield, MO 63005 USA
+
+Rev.
+02/16
