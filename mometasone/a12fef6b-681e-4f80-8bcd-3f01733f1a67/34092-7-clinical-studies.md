@@ -4,4 +4,4 @@ The safety and efficacy of Mometasone Furoate Cream USP, 0.1% for the treatment 
 A total of 366 subjects (12 to 81 years of age), of whom 177 received mometasone furoate cream and 181 subjects received vehicle cream, were evaluated in these trials.
 Mometasone furoate cream or the vehicle cream were applied once daily for 21 days.
 
-The two trials showed mometasone furoate cream is effective in the treatment of psoriass and atopic dermatitis.
+The two trials showed mometasone furoate cream is effective in the treatment of psoriasis and atopic dermatitis.

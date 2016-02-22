@@ -20,8 +20,7 @@ Ninety-seven pediatric subjects ages 6 to 23 months with atopic dermatitis were 
 Mometasone furoate cream was applied once daily for approximately 3 weeks over a mean body surface area of 41% (range 15% to 94%).
 In approximately 16% of subjects who showed normal adrenal function by Cortrosyn test before starting treatment, adrenal suppression was observed at the end of treatment with mometasone furoate cream.
 The criteria for suppression were: basal cortisol level of ≤5 mcg/dL, 30-minute post-stimulation level of ≤18 mcg/dL, or an increase of <7 mcg/dL.
-Follow-up testing 2 to 4 weeks after stopping treatment, available for 5 of the subjects, demonstrated suppressed HPA axis function in one subject, using these same criteria.
-[see Use in Specific Populations (8.4)].
+Follow-up testing 2 to 4 weeks after stopping treatment, available for 5 of the subjects, demonstrated suppressed HPA axis function in one subject, using these same criteria [see Use in Specific Populations (8.4)].
 
 ## 12.3 Pharmacokinetics
 
