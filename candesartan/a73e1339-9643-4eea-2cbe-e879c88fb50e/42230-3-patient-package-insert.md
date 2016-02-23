@@ -6,7 +6,7 @@ ATACAND® (at-a-cand)
 
 Tablets
 
-Read the Patient information that comes with ATACAND before you start taking it and each time you get a refill.
+Read the Patient Information that comes with ATACAND before you start taking it and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking with your doctor about your medical condition or your treatment.
 If you have any questions about ATACAND, ask your doctor or pharmacist.
@@ -101,11 +101,11 @@ ATACAND may cause serious side effects, including:
   See “What is the most important information I should know about ATACAND?
 - •Low blood pressure (hypotension).
   Low blood pressure is most likely to happen if you:
-  - take water pills (diuretics)
-  - are on a low salt diet
-  - get dialysis treatments
-  - are dehydrated (decreased body fluids) due to vomiting and diarrhea
-  - have heart problems
+  - ∘take water pills (diuretics)
+  - ∘are on a low salt diet
+  - ∘get dialysis treatments
+  - ∘are dehydrated (decreased body fluids) due to vomiting and diarrhea
+  - ∘have heart problems
 
 If you feel dizzy or faint lie down and call your doctor right away.
 
@@ -120,9 +120,9 @@ See “What should I tell my doctor before taking ATACAND?”
   Your doctor may do a blood test to check your potassium levels as needed.
 - •Symptoms of allergic reaction.
   Call your doctor right away if you have any of these symptoms of an allergic reaction:
-  - swelling of your face, lips, tongue or throat
-  - rash
-  - hives and itching
+  - ∘swelling of your face, lips, tongue or throat
+  - ∘rash
+  - ∘hives and itching
 
 The most common side effects of ATACAND are:
 
@@ -190,8 +190,10 @@ by: AstraZeneca AB, S-151 85 Södertälje, Sweden
 
 for: AstraZeneca LP, Wilmington, DE 19850
 
-ATACAND is a trademark of the AstraZeneca group of companies.
+ATACAND is a registered trademark of the AstraZeneca group of companies.
 
-Issued: February 2015
+Ora-Plus®, Ora-Sweet SF®, and Ora-Blend SF® are registered trademarks of Paddock Laboratories, Inc.
+
+Issued: XX/XXXX
 
 ©AstraZeneca 2010, 2013, 2015

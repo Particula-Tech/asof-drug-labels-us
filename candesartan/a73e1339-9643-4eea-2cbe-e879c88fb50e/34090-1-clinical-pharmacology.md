@@ -51,6 +51,8 @@ It has also been demonstrated in rats that candesartan passes across the placent
 
 Metabolism and Excretion
 
+Because candesartan is not significantly metabolized by the cytochrome P450 system and at therapeutic concentrations has no effects on P450 enzymes, interactions with drugs that inhibit or are metabolized by those enzymes would not be expected.
+
 Total plasma clearance of candesartan is 0.37 mL/min/kg, with a renal clearance of 0.19 mL/min/kg.
 When candesartan is administered orally, about 26% of the dose is excreted unchanged in urine.
 Following an oral dose of 14C-labeled candesartan cilexetil, approximately 33% of radioactivity is recovered in urine and approximately 67% in feces.
@@ -94,7 +96,7 @@ Geriatric and Sex
 The pharmacokinetics of candesartan have been studied in the elderly (≥ 65 years) and in both sexes.
 The plasma concentration of candesartan was higher in the elderly (Cmax was approximately 50% higher, and AUC was approximately 80% higher) compared to younger subjects administered the same dose.
 The pharmacokinetics of candesartan were linear in the elderly, and candesartan and its inactive metabolite did not accumulate in the serum of these subjects upon repeated, once-daily administration.
-No initial dosage adjustment is necessary [see DOSAGE AND ADMINISTRATION (2)].
+No initial dosage adjustment is necessary [see Dosage and Administration (2.1)].
 There is no difference in the pharmacokinetics of candesartan between male and female subjects.
 
 Renal Insufficiency
@@ -103,12 +105,12 @@ In hypertensive patients with renal insufficiency, serum concentrations of cande
 After repeated dosing, the AUC and Cmax were approximately doubled in patients with severe renal impairment (creatinine clearance <30 mL/min/1.73m2) compared to patients with normal kidney function.
 The pharmacokinetics of candesartan in hypertensive patients undergoing hemodialysis are similar to those in hypertensive patients with severe renal impairment.
 Candesartan cannot be removed by hemodialysis.
-No initial dosage adjustment is necessary in patients with renal insufficiency [see DOSAGE AND ADMINISTRATION (2.1)].
+No initial dosage adjustment is necessary in patients with renal insufficiency [see Dosage and Administration (2.1)].
 
 In heart failure patients with renal impairment, AUC0-72h was 36% and 65% higher in mild and moderate renal impairment, respectively.
 Cmax was 15% and 55% higher in mild and moderate renal impairment, respectively.
 
-Pediatrics:
+Pediatrics
 
 ATACAND pharmacokinetics have not been determined in children with renal insufficiency.
 
@@ -118,10 +120,10 @@ The pharmacokinetics of candesartan were compared in patients with mild and mode
 The increase in AUC for candesartan was 30% in patients with mild hepatic impairment (Child-Pugh A) and 145% in patients with moderate hepatic impairment (Child-Pugh B). The increase in Cmax for candesartan was 56% in patients with mild hepatic impairment and 73% in patients with moderate hepatic impairment.
 The pharmacokinetics after candesartan cilexetil administration have not been investigated in patients with severe hepatic impairment.
 No initial dosage adjustment is necessary in patients with mild hepatic impairment.
-In hypertensive patients with moderate hepatic impairment, consideration should be given to initiation of ATACAND at a lower dose [see DOSAGE AND ADMINISTRATION (2.1)].
+In hypertensive patients with moderate hepatic impairment, consideration should be given to initiation of ATACAND at a lower dose[see Dosage and Administration (2.1)].
 
 Heart Failure
 
 The pharmacokinetics of candesartan were linear in patients with heart failure (NYHA class II and III) after candesartan cilexetil doses of 4, 8, and 16 mg.
 After repeated dosing, the AUC was approximately doubled in these patients compared with healthy, younger patients.
-The pharmacokinetics in heart failure patients is similar to that in healthy elderly volunteers [see DOSAGE AND ADMINISTRATION (2.3)].
+The pharmacokinetics in heart failure patients is similar to that in healthy elderly volunteers [see Dosage and Administration (2.3)].

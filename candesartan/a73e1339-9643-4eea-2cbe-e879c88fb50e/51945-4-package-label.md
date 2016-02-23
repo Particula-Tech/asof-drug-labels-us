@@ -12,6 +12,14 @@ candesartan cilexetil
 
 Rx only
 
+Manufactured for:
+
+AstraZeneca LP, Wilmington, DE 19850
+
+By: AstraZeneca AB, S-151 85
+
+Söodertälje, Sweden Product of Italy
+
 AstraZeneca
 
 # PRINCIPAL DISPLAY PANEL – 8 mg
@@ -27,6 +35,14 @@ candesartan cilexetil
 8 mg tablets
 
 Rx only
+
+Manufactured for:
+
+AstraZeneca LP, Wilmington, DE 19850
+
+By: AstraZeneca AB, S-151 85
+
+Söodertälje, Sweden Product of Italy
 
 AstraZeneca
 
@@ -44,6 +60,14 @@ candesartan cilexetil
 
 Rx only
 
+Manufactured for:
+
+AstraZeneca LP, Wilmington, DE 19850
+
+By: AstraZeneca AB, S-151 85
+
+Söodertälje, Sweden Product of Japan
+
 AstraZeneca
 
 # PRINCIPAL DISPLAY PANEL – 32 mg
@@ -59,5 +83,13 @@ candesartan cilexetil
 32 mg tablets
 
 Rx only
+
+Manufactured for:
+
+AstraZeneca LP, Wilmington, DE 19850
+
+By: AstraZeneca AB, S-151 85
+
+Söodertälje, Sweden Product of Italy
 
 AstraZeneca

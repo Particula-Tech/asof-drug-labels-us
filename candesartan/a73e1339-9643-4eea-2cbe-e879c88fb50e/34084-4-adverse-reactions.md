@@ -11,8 +11,8 @@ About 600 of these patients were studied for at least 6 months and about 200 for
 In general, treatment with ATACAND was well tolerated.
 The overall incidence of adverse events reported with ATACAND was similar to placebo.
 
-The rate of withdrawals due to adverse events in all trials in patients (7510 total) was 3.3% (ie, 108 of 3260) of patients treated with ATACAND as monotherapy and 3.5% (ie, 39 of 1106) of patients treated with placebo.
-In placebo-controlled trials, discontinuation of therapy due to clinical adverse events occurred in 2.4% (ie, 57 of 2350) of patients treated with ATACAND and 3.4% (ie, 35 of 1027) of patients treated with placebo.
+The rate of withdrawals due to adverse events in all trials in patients (7510 total) was 3.3% (i.e., 108 of 3260) of patients treated with ATACAND as monotherapy and 3.5% (i.e., 39 of 1106) of patients treated with placebo.
+In placebo-controlled trials, discontinuation of therapy due to clinical adverse events occurred in 2.4% (i.e., 57 of 2350) of patients treated with ATACAND and 3.4% (i.e., 35 of 1027) of patients treated with placebo.
 
 The most common reasons for discontinuation of therapy with ATACAND were headache (0.6%) and dizziness (0.3%).
 

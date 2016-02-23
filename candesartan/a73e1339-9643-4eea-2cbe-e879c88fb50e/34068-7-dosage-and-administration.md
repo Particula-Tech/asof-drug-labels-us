@@ -10,18 +10,18 @@ Larger doses do not appear to have a greater effect, and there is relatively lit
 Most of the antihypertensive effect is present within 2 weeks, and maximal blood pressure reduction is generally obtained within 4 to 6 weeks of treatment with ATACAND.
 
 Use in Hepatic Impairment: Initiate with 8 mg ATACAND in patients with moderate hepatic insufficiency.
-Dosing recommendations cannot be provided for patients with severe hepatic insufficiency [see CLINICAL PHARMACOLOGY (12.3)].
+Dosing recommendations cannot be provided for patients with severe hepatic insufficiency [see Clinical Pharmacology (12.3)].
 
 ATACAND may be administered with or without food.
 
 If blood pressure is not controlled by ATACAND alone, a diuretic may be added.
 ATACAND may be administered with other antihypertensive agents.
 
-## 2.2 Pediatric Hypertension 1 to < 17 Years of age
+## 2.2 Pediatric Hypertension 1 to < 17 Years of Age
 
 ATACAND may be administered once daily or divided into two equal doses.
 Adjust the dosage according to blood pressure response.
-For patients with possible depletion of intravascular volume (e.g., patients treated with diuretics, particularly those with impaired renal function), initiate ATACAND under close medical supervision and consider administration of a lower dose [see WARNINGS AND PRECAUTIONS (5.3)].
+For patients with possible depletion of intravascular volume (e.g., patients treated with diuretics, particularly those with impaired renal function), initiate ATACAND under close medical supervision and consider administration of a lower dose [see Warnings and Precautions (5.3)].
 
 Children 1 to < 6 years of age:
 
@@ -36,13 +36,13 @@ The recommended starting dose is 4 to 8 mg.
 For those greater than 50 kg, the dose range is 4 to 32 mg per day.
 The recommended starting dose is 8 to 16 mg.
 
-Doses above 0.4 mg/kg (1 to < 6 year olds) or 32 mg (6 to < 17 year olds) have not been studied in pediatric patients [see CLINICAL STUDIES (14.1)].
+Doses above 0.4 mg/kg (1 to < 6 year olds) or 32 mg (6 to < 17 year olds) have not been studied in pediatric patients [see Clinical Studies (14.1)].
 
 An antihypertensive effect is usually present within 2 weeks, with full effect generally obtained within 4 weeks of treatment with ATACAND.
 
 Children < 1 year of age must not receive ATACAND for hypertension.
 
-All pediatric patients with a glomerular filtration rate less than 30 ml/min/1.73m2 should not receive ATACAND since ATACAND has not been studied in this population [seeSPECIAL POPULATIONS (8)].
+All pediatric patients with a glomerular filtration rate less than 30 ml/min/1.73m2 should not receive ATACAND since ATACAND has not been studied in this population [see Use in Specific Populations (8.4)].
 
 For children who cannot swallow tablets, an oral suspension may be substituted as described below:
 

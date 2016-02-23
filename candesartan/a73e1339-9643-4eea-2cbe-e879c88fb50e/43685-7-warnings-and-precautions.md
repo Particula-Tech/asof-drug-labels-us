@@ -7,7 +7,7 @@ Pregnancy Category D
 Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
 Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
 Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure and death.
-When pregnancy is detected, discontinue ATACAND as soon as possible [see USE IN SPECIFIC POPULATIONS (8.1)].
+When pregnancy is detected, discontinue ATACAND as soon as possible [see Use in Specific Populations (8.1)].
 
 Oral doses ≥10 mg of candesartan cilexetil/kg/day administered to pregnant rats during late gestation and continued through lactation were associated with reduced survival and an increased incidence of hydronephrosis in the offspring.
 The 10-mg/kg/day dose in rats is approximately 2.8 times the maximum recommended daily human dose (MRHD) of 32 mg on a mg/m2 basis (comparison assumes human body weight of 50 kg).
@@ -28,7 +28,7 @@ Volume and/or salt depletion should be corrected before initiating therapy with 
 
 In the CHARM program (heart failure patients), hypotension was reported in 18.8% of patients on ATACAND versus 9.8% of patients on placebo.
 The incidence of hypotension leading to drug discontinuation in ATACAND-treated patients was 4.1% compared with 2.0% in placebo-treated patients.
-In the CHARM-Added program, where candesartan or placebo was given in addition to ACE inhibitors, hypotension was reported in 22.6% of patients treated with ATACAND versus 13.8% treated with placebo [see DRUG INTERACTIONS (7)].
+In the CHARM-Added program, where candesartan or placebo was given in addition to ACE inhibitors, hypotension was reported in 22.6% of patients treated with ATACAND versus 13.8% treated with placebo [see Drug Interactions (7.3)].
 
 Monitoring of blood pressure is recommended during dose escalation and periodically thereafter.
 
@@ -46,13 +46,15 @@ Consider withholding or discontinuing therapy in patients who develop a clinical
 
 In the CHARM program (heart failure patients), the incidence of abnormal renal function (e.g., creatinine increase) was 12.5% in patients treated with ATACAND versus 6.3% in patients treated with placebo.
 The incidence of abnormal renal function (e.g., creatinine increase) leading to drug discontinuation in ATACAND-treated patients was 6.3% compared with 2.9% in placebo-treated patients.
-In the CHARM-Added program, where candesartan or placebo was given in addition to ACE inhibitors, the incidence of abnormal renal function (e.g., creatinine increase) was 15% in patients treated with ATACAND versus 9% in patients treated with placebo [see DRUG INTERACTIONS (7)].
+In the CHARM-Added program, where candesartan or placebo was given in addition to ACE inhibitors, the incidence of abnormal renal function (e.g., creatinine increase) was 15% in patients treated with ATACAND versus 9% in patients treated with placebo [see Drug Interactions (7.3)].
 
 ## 5.5 Hyperkalemia
 
 Drugs that inhibit the renin-angiotensin system can cause hyperkalemia.
+Concomitant use of ATACAND with drugs that may increase potassium levels may increase the risk of hyperkalemia [see Drug Interactions (7)]..
+
 Monitor serum potassium periodically.
 
 In the CHARM program (heart failure patients), the incidence of hyperkalemia was 6.3% in patients treated with ATACAND versus 2.1% in patients treated with placebo.
 The incidence of hyperkalemia leading to drug discontinuation in ATACAND-treated patients was 2.4% compared with 0.6% in placebo-treated patients.
-In the CHARM-Added program where candesartan or placebo was given in addition to ACE inhibitors, the incidence of hyperkalemia was 9.5% in patients treated with ATACAND versus 3.5% in patients treated with placebo [see DRUG INTERACTIONS (7)].
+In the CHARM-Added program where candesartan or placebo was given in addition to ACE inhibitors, the incidence of hyperkalemia was 9.5% in patients treated with ATACAND versus 3.5% in patients treated with placebo [see Drug Interactions (7.1)].

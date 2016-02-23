@@ -17,12 +17,11 @@ Perform serial ultrasound examinations to assess the intra-amniotic environment.
 If oligohydramnios is observed, discontinue ATACAND, unless it is considered lifesaving for the mother.
 Fetal testing may be appropriate, based on the week of pregnancy.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
-Closely observe infants with histories of in utero exposure to ATACAND for hypotension, oliguria, and hyperkalemia.
-[see USE IN SPECIFIC POPULATIONS (8.4)].
+Closely observe infants with histories of in utero exposure to ATACAND for hypotension, oliguria, and hyperkalemia [see Use in Specific Populations (8.4)].
 
 ## 8.2 Labor and Delivery
 
-The effect of ATACAND on labor and delivery in humans is unknown [see WARNINGS AND PRECAUTIONS (5.1)].
+The effect of ATACAND on labor and delivery in humans is unknown [see Warnings and Precautions (5.1)].
 
 ## 8.3 Nursing Mothers
 
@@ -36,7 +35,7 @@ Neonates with a history of in utero exposure to ATACAND:
 If oliguria or hypotension occurs, direct attention toward support of blood pressure and renal perfusion.
 Exchange transfusions or dialysis may be required as a means of reversing hypotension and/or substituting for disordered renal function.
 
-The antihypertensive effects of ATACAND were evaluated in hypertensive children 1 to < 17 years of age in randomized, double-blind clinical studies [see CLINICAL STUDIES (14.1)].
-The pharmacokinetics of ATACAND have been evaluated in pediatric patients 1 to < 17 years of age [see Pharmacokinetics (12.3)].
+The antihypertensive effects of ATACAND were evaluated in hypertensive children 1 to < 17 years of age in randomized, double-blind clinical studies [see Clinical Studies (14.1)].
+The pharmacokinetics of ATACAND have been evaluated in pediatric patients 1 to < 17 years of age [see Clinical Pharmacology (12.3)].
 
-Children < 1 year of age must not receive ATACAND for hypertension [see WARNINGS AND PRECAUTIONS (5.2)].
+Children < 1 year of age must not receive ATACAND for hypertension [see Warnings and Precautions (5.2)].
