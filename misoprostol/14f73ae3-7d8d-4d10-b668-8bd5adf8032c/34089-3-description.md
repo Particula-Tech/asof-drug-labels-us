@@ -6,4 +6,4 @@ Misoprostol contains approximately equal amounts of the two diastereomers presen
 
 Misoprostol is a water-soluble, viscous liquid.
 
-Inactive ingredients of tablets are hydrogenated castor oil, microcrystalline cellulose, and crospovidone.
+Inactive ingredients of tablets are hydrogenated castor oil, microcrystalline cellulose, and crospovidone

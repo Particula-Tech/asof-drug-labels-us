@@ -2,6 +2,8 @@
 
 See boxed WARNINGS.
 
+For hospital use only if misoprostol were to be used for cervical ripening, induction of labor, or for the treatment of serious post-partum hemorrhage, which are outside of the approved indication.
+
 # PRECAUTIONS
 
 Caution should be employed when administering misoprostol to patients with pre-existing cardiovascular disease.
@@ -19,14 +21,14 @@ Misoprostol Tablets should be taken only according to the directions given by a 
 If the patient has questions about or problems with Misoprostol Tablets, the physician should be contacted promptly.
 
 THE PATIENT SHOULD NOT GIVE MISOPROSTOL TABLETS TO ANYONE ELSE.
-Misoprostol Tablets has been prescribed for the patient’s specific condition, may not be the correct treatment for another person, and may be dangerous to the other person if she were to become pregnant.
+Misoprostol Tablets has been prescribed for the patient's specific condition, may not be the correct treatment for another person, and may be dangerous to the other person if she were to become pregnant.
 
 The Misoprostol Tablets package the patient receives from the pharmacist will include a leaflet containing patient information.
 The patient should read the leaflet before taking Misoprostol Tablets and each time the prescription is renewed because the leaflet may have been revised.
 
 Keep Misoprostol Tablets out of the reach of children.
 
-SPECIAL NOTE FOR WOMEN: Misoprostol Tablets may cause abortion (sometimes incomplete), premature labor, or birth defects if given to pregnant women.
+SPECIAL NOTE FOR WOMEN: Misoprostol Tablets may cause birth defects, abortion (sometimes incomplete), or premature labor if given to pregnant women.
 
 Misoprostol Tablets is available only as a unit-of-use package that includes a leaflet containing patient information.
 See Patient Information at the end of this labeling.
@@ -37,3 +39,6 @@ See Clinical Pharmacology.
 Misoprostol Tablets has not been shown to interfere with the beneficial effects of aspirin on signs and symptoms of rheumatoid arthritis.
 Misoprostol Tablets does not exert clinically significant effects on the absorption, blood levels, and antiplatelet effects of therapeutic doses of aspirin.
 Misoprostol Tablets has no clinically significant effect on the kinetics of diclofenac or ibuprofen.
+
+Prostaglandins such as Misoprostol Tablets may augment the activity of oxytocic agents, especially when given less than 4 hours prior to initiating oxytocin treatment.
+Concomitant use is not recommended.

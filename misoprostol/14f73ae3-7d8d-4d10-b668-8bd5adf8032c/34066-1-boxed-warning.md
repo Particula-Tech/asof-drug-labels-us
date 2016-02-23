@@ -1,6 +1,6 @@
 # WARNING
 
-MISOPROSTOL ADMINISTRATION TO WOMEN WHO ARE PREGNANT CAN CAUSE ABORTION, PREMATURE BIRTH, OR BIRTH DEFECTS.
+MISOPROSTOL ADMINISTRATION TO WOMEN WHO ARE PREGNANT CAN CAUSE BIRTH DEFECTS, ABORTION, OR PREMATURE BIRTH.
 UTERINE RUPTURE HAS BEEN REPORTED WHEN MISOPROSTOL TABLETS WERE ADMINISTERED IN PREGNANT WOMEN TO INDUCE LABOR OR TO INDUCE ABORTION BEYOND THE EIGHTH WEEK OF PREGNANCY (see also PRECAUTIONS and LABOR AND DELIVERY).
 MISOPROSTOL TABLETS SHOULD NOT BE TAKEN BY PREGNANT WOMEN TO REDUCE THE RISK OF ULCERS INDUCED BY NONSTEROIDAL ANTI-INFLAMMATORY DRUGS (NSAIDs) (see CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS).
 
@@ -11,5 +11,5 @@ In such patients, Misoprostol Tablets may be prescribed if the patient
 
 - has had a negative serum pregnancy test within 2 weeks prior to beginning therapy.
 - is capable of complying with effective contraceptive measures.
-- has received both oral and written warnings of the hazards of misoprostol, the risk of possible contraception failure, and the danger to other women of childbearing potential should the drug be taken by mistake.
+- has received both oral and written warnings of the hazards of misoprostol tablets, the risk of possible contraception failure, and the danger to other women of childbearing potential should the drug be taken by mistake.
 - will begin Misoprostol Tablets only on the second or third day of the next normal menstrual period.
