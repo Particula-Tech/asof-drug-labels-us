@@ -1,6 +1,6 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## Mechanism of Action
+## 12.1 Mechanism of Action
 
 Olmesartan medoxomil
 
@@ -12,11 +12,6 @@ Its action is, therefore, independent of the pathways for angiotensin II synthes
 An AT2 receptor is found also in many tissues, but this receptor is not known to be associated with cardiovascular homeostasis.
 Olmesartan has more than a 12,500-fold greater affinity for the AT1 receptor than for the AT2 receptor.
 
-Blockade of the renin-angiotensin system with ACE inhibitors, which inhibit the biosynthesis of angiotensin II from angiotensin I, is a mechanism of many drugs used to treat hypertension.
-ACE inhibitors also inhibit the degradation of bradykinin, a reaction also catalyzed by ACE.
-Because olmesartan medoxomil does not inhibit ACE (kininase II), it does not affect the response to bradykinin.
-Whether this difference has clinical relevance is not yet known.
-
 Blockade of the angiotensin II receptor inhibits the negative regulatory feedback of angiotensin II on renin secretion, but the resulting increased plasma renin activity and circulating angiotensin II levels do not overcome the effect of olmesartan on blood pressure.
 
 Hydrochlorothiazide
@@ -25,81 +20,9 @@ Hydrochlorothiazide is a thiazide diuretic.
 Thiazides affect the renal tubular mechanisms of electrolyte reabsorption, directly increasing excretion of sodium and chloride in approximately equivalent amounts.
 Indirectly, the diuretic action of hydrochlorothiazide reduces plasma volume, with consequent increases in plasma renin activity, increases in aldosterone secretion, increases in urinary potassium loss, and decreases in serum potassium.
 The renin-aldosterone link is mediated by angiotensin II, so co-administration of an angiotensin II receptor antagonist tends to reverse the potassium loss associated with these diuretics.
-
 The mechanism of the antihypertensive effect of thiazides is not fully understood.
 
-## Pharmacokinetics
-
-General
-
-Olmesartan medoxomil
-
-Olmesartan medoxomil is rapidly and completely bioactivated by ester hydrolysis to olmesartan during absorption from the gastrointestinal tract.
-Olmesartan appears to be eliminated in a biphasic manner with a terminal elimination half-life of approximately 13 hours.
-Olmesartan shows linear pharmacokinetics following single oral doses of up to 320 mg and multiple oral doses of up to 80 mg.
-Steady-state levels of olmesartan are achieved within 3 to 5 days and no accumulation in plasma occurs with once-daily dosing.
-
-The absolute bioavailability of olmesartan is approximately 26%.
-After oral administration, the peak plasma concentration (Cmax) of olmesartan is reached after 1 to 2 hours.
-Food does not affect the bioavailability of olmesartan.
-
-Hydrochlorothiazide
-
-When plasma levels have been followed for at least 24 hours, the plasma half-life has been observed to vary between 5.6 and 14.8 hours.
-
-Metabolism and Excretion
-
-Olmesartan medoxomil
-
-Following the rapid and complete conversion of olmesartan medoxomil to olmesartan during absorption, there is virtually no further metabolism of olmesartan.
-Total plasma clearance of olmesartan is 1.3 L/h, with a renal clearance of 0.6 L/h.
-Approximately 35% to 50% of the absorbed dose is recovered in urine while the remainder is eliminated in feces via the bile.
-
-Hydrochlorothiazide
-
-Hydrochlorothiazide is not metabolized but is eliminated rapidly by the kidney.
-At least 61% of the oral dose is eliminated unchanged within 24 hours.
-
-Distribution
-
-Olmesartan
-
-The volume of distribution of olmesartan is approximately 17 L. Olmesartan is highly bound to plasma proteins (99%) and does not penetrate red blood cells.
-The protein binding is constant at plasma olmesartan concentrations well above the range achieved with recommended doses.
-
-In rats, olmesartan crossed the blood-brain barrier poorly, if at all.
-Olmesartan passed across the placental barrier in rats and was distributed to the fetus.
-Olmesartan was distributed to milk at low levels in rats.
-
-Hydrochlorothiazide
-
-Hydrochlorothiazide crosses the placental but not the blood-brain barrier and is excreted in breast milk.
-
-## Special Populations
-
-Pediatric: The pharmacokinetics of olmesartan have not been investigated in patients <18 years of age.
-
-Geriatric: The pharmacokinetics of olmesartan were studied in the elderly (≥65 years).
-Overall, maximum plasma concentrations of olmesartan were similar in young adults and the elderly.
-Modest accumulation of olmesartan was observed in the elderly with repeated dosing; AUCss,τ was 33% higher in elderly patients, corresponding to an approximate 30% reduction in CLR.
-
-Gender: Minor differences were observed in the pharmacokinetics of olmesartan in women compared to men.
-AUC and Cmax were 10-15% higher in women than in men.
-
-Renal Insufficiency: In patients with renal insufficiency, serum concentrations of olmesartan were elevated compared to subjects with normal renal function.
-After repeated dosing, the AUC was approximately tripled in patients with severe renal impairment (creatinine clearance <20 mL/min).
-The pharmacokinetics of olmesartan in patients undergoing hemodialysis has not been studied.
-
-Hepatic Insufficiency: Increases in AUC0-∞ and Cmax for olmesartan were observed in patients with moderate hepatic impairment compared to those in matched controls, with an increase in AUC of about 60%.
-
-Drug Interactions: See PRECAUTIONS, Drug Interactions.
-
-Drug interaction with bile acid sequestering agent colesevelam
-
-Concomitant administration of 40 mg olmesartan medoxomil and 3750 mg colesevelam hydrochloride in healthy subjects resulted in 28% reduction in Cmax and 39% reduction in AUC of olmesartan.
-Lesser effects, 4% and 15% reduction in Cmax and AUC respectively, were observed when olmesartan medoxomil was administered 4 hours prior to colesevelam hydrochloride (see PRECAUTIONS, Drug Interactions).
-
-## Pharmacodynamics
+## 12.2 Pharmacodynamics
 
 Olmesartan medoxomil
 
@@ -113,44 +36,110 @@ Hydrochlorothiazide
 
 After oral administration of hydrochlorothiazide, diuresis begins within 2 hours, peaks in about 4 hours and lasts about 6 to 12 hours.
 
-## Clinical Trials
+Drug Interactions
+
+Hydrochlorothiazide
+
+Alcohol, barbiturates, or narcotics: Potentiation of orthostatic hypotension may occur.
+
+Skeletal muscle relaxants, non-depolarizing (e.g., tubocurarine): Increased responsiveness to the muscle relaxant may occur.
+
+Digitalis glycosides: Thiazide-induced hypokalemia or hypomagnesemia may predispose to digoxin toxicity.
+
+## 12.3 Pharmacokinetics
+
+Absorption
+
+Olmesartan: Olmesartan medoxomil is completely bioactivated by ester hydrolysis to olmesartan during absorption from the gastrointestinal tract.
+The absolute bioavailability of olmesartan is approximately 26%.
+After oral administration, the peak plasma concentration (Cmax) of olmesartan is reached after 1 to 2 hours.
+Food does not affect the bioavailability of olmesartan.
+
+Olmesartan shows linear pharmacokinetics following single oral doses of up to 320 mg and multiple oral doses of up to 80 mg.
+Steady-state levels of olmesartan are achieved within 3 to 5 days and no accumulation in plasma occurs with once-daily dosing.
+
+Hydrochlorothiazide: The estimated absolute bioavailability of hydrochlorothiazide after oral administration is about 70%.
+Peak plasma hydrochlorothiazide concentrations (Cmax) are reached within 2 to 5 hours after oral administration.
+There is no clinically significant effect of food on the bioavailability of hydrochlorothiazide.
+
+The pharmacokinetics of hydrochlorothiazide is dose proportional in the range of 12.5 to 75 mg.
+
+Distribution
+
+Olmesartan: The volume of distribution of olmesartan is approximately 17 L. Olmesartan is highly bound to plasma proteins (99%) and does not penetrate red blood cells.
+The protein binding is constant at plasma olmesartan concentrations well above the range achieved with recommended doses.
+
+In rats, olmesartan crossed the blood-brain barrier poorly, if at all.
+Olmesartan passed across the placental barrier in rats and was distributed to the fetus.
+Olmesartan was distributed to milk at low levels in rats.
+
+Hydrochlorothiazide: Hydrochlorothiazide binds to albumin (40 to 70%) and distributes into erythrocytes.
+Following oral administration, plasma hydrochlorothiazide concentrations decline bi-exponentially, with a mean distribution half-life of about 2 hours and an elimination half-life of about 10 hours.
+
+Hydrochlorothiazide crosses the placental but not the blood-brain barrier and is excreted in breast milk.
+
+Metabolism
+
+Olmesartan: Olmesartan does not undergo further metabolism.
+
+Hydrochlorothiazide: Hydrochlorothiazide is not metabolized.
+
+Elimination
+
+Olmesartan: Olmesartan appears to be eliminated in a biphasic manner with a terminal elimination half-life of approximately 13 hours.
+Total plasma clearance of olmesartan is 1.3 L/h, with a renal clearance of 0.6 L/h.
+Approximately 35% to 50% of the absorbed dose is recovered in urine while the remainder is eliminated in feces via the bile.
+
+Hydrochlorothiazide: About 70% of an orally administered dose of hydrochlorothiazide is eliminated in the urine as unchanged drug.
+
+Specific populations
 
 Olmesartan medoxomil
 
-The antihypertensive effects of olmesartan medoxomil have been demonstrated in seven placebo-controlled studies at doses ranging from 2.5 to 80 mg for 6 to 12 weeks, each showing statistically significant reductions in peak and trough blood pressure.
-A total of 2693 patients (2145 olmesartan medoxomil; 548 placebo) with essential hypertension were studied.
-Olmesartan medoxomil once daily (QD) lowered diastolic and systolic blood pressure.
-The response was dose-related.
-An olmesartan medoxomil dose of 20 mg daily produces a trough sitting BP reduction over placebo of about 10/6 mm Hg and a dose of 40 mg daily produces a trough sitting BP reduction over placebo of about 12/7 mm Hg.
-Olmesartan medoxomil doses greater than 40 mg had little additional effect.
-The onset of the antihypertensive effect occurred within 1 week and was largely manifest after 2 weeks.
+Pediatric: The pharmacokinetics of olmesartan were studied in pediatric hypertensive patients aged 1 to16 years.
+The clearance of olmesartan in pediatric patients was similar to that in adult patients when adjusted by the body weight.
+Olmesartan pharmacokinetics have not been investigated in pediatric patients less than 1 year of age.
 
-The blood pressure lowering effect was maintained throughout the 24-hour period with olmesartan medoxomil once daily, with trough-to-peak ratios for systolic and diastolic response between 60 and 80%.
+Geriatric: The pharmacokinetics of olmesartan were studied in the elderly (≥65 years).
+Overall, maximum plasma concentrations of olmesartan were similar in young adults and the elderly.
+Modest accumulation of olmesartan was observed in the elderly with repeated dosing; AUCss, τ was 33% higher in elderly patients, corresponding to an approximate 30% reduction in CLR.
 
-The blood pressure lowering effect of olmesartan medoxomil, with and without hydrochlorothiazide, was maintained in patients treated for up to 1 year.
-There was no evidence of tachyphylaxis during long-term treatment with olmesartan medoxomil or rebound effect following abrupt withdrawal of olmesartan medoxomil after 1 year of treatment.
+Gender: Minor differences were observed in the pharmacokinetics of olmesartan in women compared to men.
+AUC and Cmax were 10-15% higher in women than in men.
 
-The antihypertensive effect of olmesartan medoxomil was similar in men and women and in patients older and younger than 65 years.
-The effect was smaller in black patients (usually a low-renin population), as has been seen with other ACE inhibitors, angiotensin receptor blockers and beta-blockers.
-Olmesartan medoxomil had an additional blood pressure lowering effect when added to hydrochlorothiazide.
+Renal insufficiency: In patients with renal insufficiency, serum concentrations of olmesartan were elevated compared to subjects with normal renal function.
+After repeated dosing, the AUC was approximately tripled in patients with severe renal impairment (creatinine clearance <20 mL/min).
+The pharmacokinetics of olmesartan in patients undergoing hemodialysis has not been studied.
 
-Olmesartan medoxomil-hydrochlorothiazide
+Hepatic insufficiency: Increases in AUC0-∞ and Cmax for olmesartan were observed in patients with moderate hepatic impairment compared to those in matched controls, with an increase in AUC of about 60%.
 
-In clinical trials 1230 patients were exposed to the combination of olmesartan medoxomil (2.5 mg to 40 mg) and hydrochlorothiazide (12.5 mg to 25 mg).
-These trials included one placebo-controlled factorial trial (n=502) in mild-moderate hypertensives with combinations of olmesartan medoxomil (10 mg, 20 mg, 40 mg or placebo) and hydrochlorothiazide (12.5 mg, 25 mg or placebo).
-The antihypertensive effect of the combination on trough blood pressure was related to the dose of each component (see table below).
+Hydrochlorothiazide
 
-Placebo-Adjusted Changes in Sitting Systolic/Diastolic Blood Pressure (mmHg)
+Renal insufficiency: In a study in individuals with impaired renal function, the mean elimination half-life of hydrochlorothiazide doubled in individuals with mild/moderate renal impairment (30 < CrCl < 90 mL/min) and tripled in severe renal impairment (≤ 30 mL/min), when compared to individuals with normal renal function (CrCl > 90 mL/min).
 
-| HCTZ dose | 0 mg | 10 mg | 20 mg | 40 mg |
-| --- | --- | --- | --- | --- |
-|  | Olmesartan Medoxomil dose |  |  |  |
-| 0 mg | -- | 7/5 | 12/5 | 13/7 |
-| 12.5 mg | 5/1 | 17/8 | 17/8 | 16/10 |
-| 25 mg | 14/5 | 19/11 | 22/11 | 24/14 |
+Drug Interactions
 
-Once-daily dosing with 20 mg olmesartan medoxomil and 12.5 mg hydrochlorothiazide, 40 mg olmesartan medoxomil and 12.5 mg hydrochlorothiazide or 40 mg olmesartan medoxomil and 25 mg hydrochlorothiazide produced mean placebo-adjusted blood pressure reductions at trough (24 hours post-dosing) ranging from 17/8 to 24/14 mm Hg.
+Olmesartan
 
-The onset of the antihypertensive effect occurred within 1 week and was near maximal at 4 weeks.
-The antihypertensive effect was independent of gender, but there were too few subjects to identify response differences based on race or age greater than or less than 65 years.
-No appreciable changes in trough heart rate were observed with combination therapy in the placebo-controlled trial.
+No significant drug interactions were reported in studies in which olmesartan medoxomil was co-administered with digoxin or warfarin in healthy volunteers.
+
+The bioavailability of olmesartan medoxomil was not significantly altered by the co-administration of antacids [Al(OH)3/Mg(OH)2].
+
+Olmesartan medoxomil is not metabolized by the cytochrome P450 system and has no effects on P450 enzymes; thus, interactions with drugs that inhibit, induce, or are metabolized by those enzymes are not expected.
+
+Bile acid sequestering agent colesevelam
+
+Concomitant administration of 40 mg olmesartan medoxomil and 3750 mg colesevelam hydrochloride in healthy subjects resulted in 28% reduction in Cmax and 39% reduction in AUC of olmesartan.
+Lesser effects, 4% and 15% reduction in Cmax and AUC respectively, were observed when olmesartan medoxomil was administered 4 hours prior to colesevelam hydrochloride [see Drug Interactions (7.5)].
+
+Hydrochlorothiazide
+
+Drugs that alter gastrointestinal motility: The bioavailability of thiazide-type diuretics may be increased by anticholinergic agents (e.g. atropine, biperiden), apparently due to a decrease in gastrointestinal motility and the stomach emptying rate.
+Conversely, pro-kinetic drugs may decrease the bioavailability of thiazide diuretics.
+
+Cholestyramine: In a dedicated drug interaction study, administration of cholestyramine 2 h before hydrochlorothiazide resulted in a 70% reduction in exposure to hydrochlorothiazide.
+Further, administration of hydrochlorothiazide 2 h before cholestyramine, resulted in 35% reduction in exposure to hydrochlorothiazide.
+
+Lithium: Diuretic agents reduce the renal clearance of lithium and increase the risk of lithium toxicity [see Drug Interactions (7.2)].
+
+Antineoplastic agents (e.g. cyclophosphamide, methotrexate): Concomitant use of thiazide diuretics may reduce renal excretion of cytotoxic agents and enhance their myelosuppressive effects.

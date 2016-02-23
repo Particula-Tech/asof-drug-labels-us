@@ -1,7 +1,7 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-BENICAR HCT® is contraindicated in patients who are hypersensitive to any component of this product.
+BENICAR HCT is contraindicated:
 
-Because of the hydrochlorothiazide component, this product is contraindicated in patients with anuria or hypersensitivity to other sulfonamide-derived drugs.
-
-Do not co-administer aliskiren with BENICAR HCT in patients with diabetes.
+- In patients with hypersensitivity to any component of BENICAR HCT [see Adverse Reactions (6.1, 6.2)]
+- In patients with anuria [see Warnings and Precautions (5.3) and Adverse Reactions (6.1)]
+- For coadministration with aliskiren in patients with diabetes [see Drug Interactions (7.4)].

@@ -1,8 +1,6 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-BENICAR HCT® (olmesartan medoxomil-hydrochlorothiazide) is a combination of an angiotensin II receptor antagonist (AT1 subtype), olmesartan medoxomil, and a thiazide diuretic, hydrochlorothiazide (HCTZ).
-
-Olmesartan medoxomil, a prodrug, is hydrolyzed to olmesartan during absorption from the gastrointestinal tract.
+BENICAR HCT (olmesartan medoxomil and hydrochlorothiazide) is a combination of an angiotensin II receptor antagonist (AT1 subtype), olmesartan medoxomil, and a thiazide diuretic, hydrochlorothiazide (HCTZ).
 
 Olmesartan medoxomil is 2,3-dihydroxy-2-butenyl 4-(1-hydroxy-1-methylethyl)-2-propyl-1-[p-(o-1H-tetrazol-5-ylphenyl)benzyl]imidazole-5-carboxylate, cyclic 2,3-carbonate.
 
@@ -17,5 +15,5 @@ Its empirical formula is C7H8ClN3O4S2 and its structural formula is:
 Hydrochlorothiazide is a white, or practically white, crystalline powder with a molecular weight of 297.7.
 Hydrochlorothiazide is slightly soluble in water but freely soluble in sodium hydroxide solution.
 
-BENICAR HCT® is available for oral administration in tablets containing 20 mg or 40 mg of olmesartan medoxomil combined with 12.5 mg of hydrochlorothiazide, or 40 mg of olmesartan medoxomil combined with 25 mg of hydrochlorothiazide.
-Inactive ingredients include: hydroxypropylcellulose, hypromellose, lactose, low-substituted hydroxypropylcellulose, magnesium stearate, microcrystalline cellulose, red iron oxide, talc, titanium dioxide and yellow iron oxide.
+BENICAR HCT is available for oral administration in tablets containing 20 mg or 40 mg of olmesartan medoxomil combined with 12.5 mg of hydrochlorothiazide, or 40 mg of olmesartan medoxomil combined with 25 mg of hydrochlorothiazide.
+Inactive ingredients include: hydroxypropylcellulose, hypromellose, lactose monohydrate, low-substituted hydroxypropylcellulose, magnesium stearate, microcrystalline cellulose, red iron oxide, talc, titanium dioxide and yellow iron oxide.
