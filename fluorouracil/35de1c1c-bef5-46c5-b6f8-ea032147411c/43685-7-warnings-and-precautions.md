@@ -9,7 +9,7 @@ A porous gauze dressing may be applied for cosmetic reasons without increase in 
 
 Exposure to ultraviolet rays should be minimized during and immediately following treatment with Efudex because the intensity of the reaction may be increased.
 
-Patients should discontinue therapy with Efudex if symptoms of DPD enzyme deficiency develop (see CONTRAINDICATIONS section).
+Patients should discontinue therapy with Efudex if symptoms of DPD enzyme deficiency develop (see CONTRAINDICATIONS).
 
 Rarely, life-threatening toxicities such as stomatitis, diarrhea, neutropenia, and neurotoxicity have been reported with intravenous administration of fluorouracil in patients with DPD enzyme deficiency.
 One case of life-threatening systemic toxicity has been reported with the topical use of Efudex in a patient with DPD enzyme deficiency.
@@ -46,7 +46,7 @@ In the C3H/10T½ clone 8 mouse embryo cell system, the resulting morphologically
 While no evidence for mutagenic activity was observed in the Ames test (3 studies), fluorouracil has been shown to be mutagenic in the survival count rec-assay with Bacillus subtilis and in the Drosophila wing-hair spot test.
 Fluorouracil produced petite mutations in Saccharomyces cerevisiae and was positive in the micronucleus test (bone marrow cells of male mice).
 
-Fluorouracil was clastogenic in vitro (ie, chromatid gaps, breaks and exchanges) in Chinese hamster fibroblasts at concentrations of 1.0 and 2.0 µg/mL and has been shown to increase sister chromatid exchange in vitro in human lymphocytes.
+Fluorouracil was clastogenic in vitro (i.e., chromatid gaps, breaks and exchanges) in Chinese hamster fibroblasts at concentrations of 1.0 and 2.0 mcg/mL and has been shown to increase sister chromatid exchange in vitro in human lymphocytes.
 In addition, 5-fluorouracil has been reported to produce an increase in numerical and structural chromosome aberrations in peripheral lymphocytes of patients treated with this product.
 
 Doses of 125 to 250 mg/kg, administered intraperitoneally, have been shown to induce chromosomal aberrations and changes in chromosome organization of spermatogonia in rats.
@@ -57,11 +57,7 @@ Single dose intravenous and intraperitoneal injections of 5-fluorouracil have be
 
 ## Pregnancy
 
-### Teratogenic Effects
-
-#### Pregnancy Category X
-
-See CONTRAINDICATIONS section.
+See CONTRAINDICATIONS.
 
 ## Nursing Mothers
 

@@ -18,3 +18,5 @@ Integumentary: Alopecia, blistering, bullous pemphigoid, discomfort, ichthyosis,
 Special Senses: Conjunctival reaction, corneal reaction, lacrimation, nasal irritation.
 
 Miscellaneous: Herpes simplex.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Valeant Pharmaceuticals North America LLC at 1-800-321-4576 and/or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

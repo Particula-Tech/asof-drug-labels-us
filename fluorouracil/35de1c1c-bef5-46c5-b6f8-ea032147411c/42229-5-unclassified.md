@@ -1,10 +1,20 @@
 FOR TOPICAL USE ONLY - NOT FOR OPHTHALMIC, ORAL, OR INTRAVAGINAL USE.
 
-Efudex Cream is Made in Canada
+Manufactured for:
 
-Distributed by: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807
+Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-50098777A
+by:
+
+Valeant Pharmaceuticals International Inc.
+
+Laval, QC H7L 4A8, Canada
 
 Rev.
-06/12
+02/16
+
+Efudex is a registered trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+
+©Valeant Pharmaceuticals North America LLC
+
+9491200

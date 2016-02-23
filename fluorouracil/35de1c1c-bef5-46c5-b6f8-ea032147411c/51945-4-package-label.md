@@ -34,17 +34,18 @@ Topical Solution 5% w/w
 
 NDC 0187-3204-47
 
-Rx Only
+FOR EXTERNAL USE ONLY
 
-Efudex® (fluorouracil)
+Efudex® (fluorouracil) Topical Cream, 5%
 
-FOR TOPICAL USE ONLY - NOT FOR OPHTHALMIC, ORAL, OR INTRAVAGINAL USE
+FOR TOPICAL USE ONLY.
 
-VALEANT™
+NOT FOR OPHTHALMIC, ORAL, OR INTRAVAGINAL USE.
+
+TO OPEN: Remove cap and puncture seal with point on cap.
+
+Apply preferably with a nonmetal applicator or suitable glove.
+
+Rx only
 
 40 g
-
-Topical Cream 5%
-
-FOR EXTERNAL USE ONLY TO OPEN: Remove cap and puncture seal with point on cap.
-Apply preferably with a nonmetal applicator or suitable glove.
