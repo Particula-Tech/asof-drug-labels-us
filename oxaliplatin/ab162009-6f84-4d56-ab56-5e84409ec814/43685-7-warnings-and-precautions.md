@@ -75,7 +75,7 @@ Sepsis, neutropenic sepsis and septic shock have been reported in patients treat
 
 Delay oxaliplatin until neutrophils are ≥ 1.5 x 109/L.
 Withhold oxaliplatin for sepsis or septic shock.
-Dose reduce oxaliplatin after recovery from Grade 4 neutropenia or febrile neutropenia [see DOSAGE AND ADMINISTRATION (2.2)].
+Dose reduceoxaliplatin after recovery from Grade 4 neutropenia or febrile neutropenia [see DOSAGE AND ADMINISTRATION (2.2)].
 
 ## 5.4 Pulmonary Toxicity
 

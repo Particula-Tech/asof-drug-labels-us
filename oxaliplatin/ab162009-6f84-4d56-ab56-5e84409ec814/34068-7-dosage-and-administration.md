@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-Oxaliplatin injection, USP should be administered under the supervision of a qualified physician experienced in the use of cancer chemotherapeutic agents.
+Oxaliplatin injection should be administered under the supervision of a qualified physician experienced in the use of cancer chemotherapeutic agents.
 Appropriate management of therapy and complications is possible only when adequate diagnostic and treatment facilities are readily available.
 
 ## 2.1 Dosage
@@ -9,9 +9,9 @@ Administer oxaliplatin injection in combination with 5-fluorouracil/leucovorin e
 For advanced disease, treatment is recommended until disease progression or unacceptable toxicity.
 For adjuvant use, treatment is recommended for a total of 6 months (12 cycles):
 
-Day 1: Oxaliplatin injection 85 mg/m2 intravenous infusion in 250 to 500 mL 5% Dextrose injection, USP and leucovorin 200 mg/m2 intravenous infusion in 5% Dextrose injection, USP both given over 120 minutes at the same time in separate bags using a Y-line, followed by 5-fluorouracil 400 mg/m2 intravenous bolus given over 2 to 4 minutes, followed by 5-fluorouracil 600 mg/m2 intravenous infusion in 500 mL 5% Dextrose injection, USP (recommended) as a 22-hour continuous infusion.
+Day 1: Oxaliplatin injection 85 mg/m2 intravenous infusion in 250 to 500 mL 5% Dextrose injection and leucovorin 200 mg/m2 intravenous infusion in 5% Dextrose injection both given over 120 minutes at the same time in separate bags using a Y-line, followed by 5-fluorouracil 400 mg/m2 intravenous bolus given over 2 to 4 minutes, followed by 5-fluorouracil 600 mg/m2 intravenous infusion in 500 mL 5% Dextrose injection (recommended) as a 22-hour continuous infusion.
 
-Day 2: Leucovorin 200 mg/m2 intravenous infusion over 120 minutes, followed by 5-fluorouracil 400 mg/m2 intravenous bolus given over 2 to 4 minutes, followed by 5-fluorouracil 600 mg/m2 intravenous infusion in 500 mL 5% Dextrose injection, USP (recommended) as a 22-hour continuous infusion.
+Day 2: Leucovorin 200 mg/m2 intravenous infusion over 120 minutes, followed by 5-fluorouracil 400 mg/m2 intravenous bolus given over 2 to 4 minutes, followed by 5-fluorouracil 600 mg/m2 intravenous infusion in 500 mL 5% Dextrose injection (recommended) as a 22-hour continuous infusion.
 
 The administration of oxaliplatin injection does not require prehydration.
 Premedication with antiemetics, including 5-HT3 blockers with or without dexamethasone, is recommended.
@@ -58,13 +58,13 @@ Do not freeze and protect from light the concentrated solution.
 
 A final dilution must never be performed with a sodium chloride solution or other chloride-containing solutions.
 
-The solution must be further diluted in an infusion solution of 250 to 500 mL of 5% Dextrose Injection, USP.
+The solution must be further diluted in an infusion solution of 250 to 500 mL of 5% Dextrose Injection.
 
-After dilution with 250 to 500 mL of 5% Dextrose Injection, USP, the shelf life is 6 hours at room temperature [20° to 25°C (68° to 77°F)] or up to 24 hours under refrigeration [2° to 8°C (36°to 46°F)].
+After dilution with 250 to 500 mL of 5% Dextrose Injection, the shelf life is 6 hours at room temperature [20° to 25°C (68° to 77°F)] or up to 24 hours under refrigeration [2° to 8°C (36°to 46°F)].
 After final dilution, protection from light is not required.
 
 Oxaliplatin is incompatible in solution with alkaline medications or media (such as basic solutions of 5-fluorouracil) and must not be mixed with these or administered simultaneously through the same infusion line.
-The infusion line should be flushed with 5% Dextrose Injection, USP prior to administration of any concomitant medication.
+The infusion line should be flushed with 5% Dextrose Injection prior to administration of any concomitant medication.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration and discarded if present.
 

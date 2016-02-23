@@ -67,7 +67,7 @@ Patients ≥ 65 years of age receiving the oxaliplatin combination therapy exper
 
 In the previously untreated for advanced colorectal cancer randomized clinical trial [see CLINICAL STUDIES (14)] of oxaliplatin, 160 patients treated with oxaliplatin and 5-fluorouracil/leucovorin were < 65 years and 99 patients were ≥65 years.
 The same efficacy improvements in response rate, time to tumor progression, and overall survival were observed in the ≥65 year old patients as in the overall study population.
-In the previously treated for advanced colorectal cancer randomized clinical trial [see Clinical Studies (14)] of oxaliplatin, 95 patients treated with oxaliplatin and 5-fluorouracil/leucovorin were < 65 years and 55 patients were ≥65 years.
+In the previously treated for advanced colorectal cancer randomized clinical trial [see CLINICAL STUDIES (14)] of oxaliplatin, 95 patients treated with oxaliplatin and 5-fluorouracil/leucovorin were < 65 years and 55 patients were ≥65 years.
 The rates of overall adverse reactions, including grade 3 and 4 events, were similar across and within arms in the different age groups in all studies.
 The incidence of diarrhea, dehydration, hypokalemia, leukopenia, fatigue and syncope were higher in patients ≥65 years old.
 No adjustment to starting dose was required in patients ≥65 years old.

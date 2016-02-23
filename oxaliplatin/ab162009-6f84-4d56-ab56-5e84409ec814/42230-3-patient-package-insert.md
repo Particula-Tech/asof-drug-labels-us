@@ -234,4 +234,4 @@ Inactive ingredient: water for Injection, USP
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
 Manufactured by Ebewe Pharma, A-4866 Unterach Austria for Sandoz Inc., Princeton NJ 08540 Rev.
-October 2015
+January 2016
