@@ -105,3 +105,5 @@ Cataracts, retinopathy and visual disturbances.
 ## Postmarketing Events
 
 Hyperammonemia has been reported in a 5 1 /2 year old child with citrullinemia, an inherited disorder of ammonia excretion, following treatment with haloperidol.
+
+Rhabdomyolysis has been reported.
