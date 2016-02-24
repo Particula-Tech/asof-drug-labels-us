@@ -2,11 +2,11 @@
 
 Rx only
 
-Manufactured for: FERRING PHARMACEUTICALS INC. PARSIPPANY, NJ 07054
+Manufactured for: Ferring Pharmaceuticals Inc. Parsippany, NJ 07054 USA
 
 Origin Sweden
 
 Rev.
-12/2014
+04/2015
 
-2009053645
+XXXXXXXXX
