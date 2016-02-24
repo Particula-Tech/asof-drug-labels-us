@@ -144,21 +144,19 @@ Table 4: Adverse Reactions in Placebo-Controlled Trials in Patients with SAD
 | Anxiety | 5% | 7% |
 | Abnormal dreams | 2% | 3% |
 | Agitation | <1% | 2% |
-| Musculoskeletal and Connective |  |  |
-| Tissue Disorders | 2% | 3% |
-| Myalgia |  |  |
+| Musculoskeletal and Connective Tissue Disorders |  |  |
+| Myalgia | 2% | 3% |
 | Pain in extremity | 2% | 3% |
-| Respiratory, Thoracic, and Mediastinal Disorders | 3% | 4% |
-| Cough |  |  |
-| General Disorders and Administration Site Conditions | 2% | 3% |
-| Feeling jittery |  |  |
-| Skin and Subcutaneous |  |  |
-| Tissue Disorders | 2% | 3% |
-| Rash |  |  |
+| Respiratory, Thoracic, and Mediastinal Disorders |  |  |
+| Cough | 3% | 4% |
+| General Disorders and Administration Site Conditions |  |  |
+| Feeling jittery | 2% | 3% |
+| Skin and Subcutaneous Tissue Disorders |  |  |
+| Rash | 2% | 3% |
 | Metabolism and Nutrition Disorders |  |  |
 | Decreased appetite | 1% | 4% |
-| Reproductive System and Breast Disorders | <1% | 2% |
-| Dysmenorrhea |  |  |
+| Reproductive System and Breast Disorders |  |  |
+| Dysmenorrhea | <1% | 2% |
 | Ear and Labyrinth Disorders |  |  |
 | Tinnitus | <1% | 3% |
 | Vascular Disorders |  |  |

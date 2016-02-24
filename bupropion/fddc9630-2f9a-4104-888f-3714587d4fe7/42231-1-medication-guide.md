@@ -20,19 +20,22 @@ Talk to your healthcare provider or your family member's healthcare provider abo
 
 What is the most important information I should know about antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions?
 
-- 1.
-  Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment.
-- 2.
-  Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
-  Some people may have a particularly high risk of having suicidal thoughts or actions.
-  These include people who have (or have a family history of) bipolar illness (also called manic- depressive illness) or suicidal thoughts or actions.
-- 3.
-  How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
-  - Pay close attention to any changes, especially sudden changes in mood, behaviors, thoughts, or feelings.
-    This is very important when an antidepressant medicine is started or when the dose is changed.
-  - Call your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
-  - Keep all follow-up visits with your healthcare provider as scheduled.
-    Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
+1.
+Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment.
+
+2.
+Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
+Some people may have a particularly high risk of having suicidal thoughts or actions.
+These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
+
+3.
+How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
+
+- Pay close attention to any changes, especially sudden changes in mood, behaviors, thoughts, or feelings.
+  This is very important when an antidepressant medicine is started or when the dose is changed.
+- Call your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
+- Keep all follow-up visits with your healthcare provider as scheduled.
+  Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
 
 Call your healthcare provider right away if you or your family member has any of the following symptoms especially if they are new, worse, or worry you:
 
@@ -113,32 +116,34 @@ Do not take bupropion hydrochloride extended-release tablets (XL) again if you h
 
 - High blood pressure (hypertension): Some people get high blood pressure, that can be severe, while taking bupropion hydrochloride extended-release tablets (XL).
   The chance of high blood pressure may be higher if you also use nicotine replacement therapy (such as a nicotine patch) to help you stop smoking.
-- Manic episodes: Some people may have periods of mania while taking
-- bupropion hydrochloride extended-release tablets (XL), including:
-- greatly increased energy
-- severe trouble sleeping
-- racing thoughts
-- reckless behavior
-- unusually grand ideas
-- excessive happiness or irritability
-- talking more or faster than usual
+- Manic episodes: Some people may have periods of mania while taking bupropion hydrochloride extended-release tablets (XL), including:
+  - greatly increased energy
+  - severe trouble sleeping
+  - racing thoughts
+  - reckless behavior
+  - unusually grand ideas
+  - excessive happiness or irritability
+  - talking more or faster than usual
 
 If you have any of the above symptoms of mania, call your healthcare provider.
 
 - Unusual thoughts or behaviors: Some patients may have unusual thoughts or behaviors while taking bupropion hydrochloride extended-release tablets (XL), including delusions (believe you are someone else), hallucinations (seeing or hearing things that are not there), paranoia (feeling that people are against you), or feeling confused.
   If this happens to you, call your healthcare provider.
-- Visual Problems Only some people are at risk for these problems.
-  You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
+- Visual Problems
   - eye pain
   - changes in vision
   - swelling or redness in or around the eye
+
+Only some people are at risk for these problems.
+You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
+
 - Severe allergic reactions: Some patients have severe allergic reactions to bupropion hydrochloride extended-release tablets (XL).
   Stop taking bupropion hydrochloride extended-release tablets (XL) and call your healthcare provider right away if you get a rash, itching, hives, fever, swollen lymph glands, painful sores in the mouth or around the eyes, swelling of the lips or tongue, chest pain, or have trouble breathing.
   These could be signs of a serious allergic reaction.
 
 What are bupropion hydrochloride extended-release tablets (XL)?
 
-Bupropion hydrochloride extended-release tablets (XL) are a prescription medicine used to treat adults with a certain type of depression called major depressive disorder and for the prevention of autumn- winter seasonal depression (seasonal affective disorder).
+Bupropion hydrochloride extended-release tablets (XL) are a prescription medicine used to treat adults with a certain type of depression called major depressive disorder and for the prevention of autumn-winter seasonal depression (seasonal affective disorder).
 
 Who should not take bupropion hydrochloride extended-release tablets (XL)?
 
@@ -178,7 +183,7 @@ Tell your healthcare provider about your other medical conditions including if y
   Bupropion hydrochloride extended-release tablets (XL) passes into your milk in small amounts.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
-Many medicines increase your chances of having seizures or cause other serious side effects if you take them while you are taking bupropion hydrochloride extended- release tablets (XL).
+Many medicines increase your chances of having seizures or cause other serious side effects if you take them while you are taking bupropion hydrochloride extended-release tablets (XL).
 
 How should I take bupropion hydrochloride extended-release tablets (XL)?
 
@@ -207,7 +212,7 @@ What should I avoid while taking bupropion hydrochloride extended-release tablet
 - Do not drive a car or use heavy machinery until you know how bupropion hydrochloride extended-release tablets (XL) affects you.
   Bupropion hydrochloride extended-release tablets (XL) can impair your ability to do these things safely.
 
-What are the possible side effects of bupropion hydrochloride extended- release tablets (XL)?
+What are the possible side effects of bupropion hydrochloride extended-release tablets (XL)?
 
 See "What is the most important information I should know about bupropion hydrochloride extended-release tablets (XL)?"
 
@@ -252,7 +257,7 @@ General information about bupropion hydrochloride extended-release tablets (XL)
   Do not use bupropion hydrochloride extended-release tablets (XL) for a condition for which it was not prescribed.
   Do not give bupropion hydrochloride extended-release tablets (XL) to other people, even if they have the same symptoms you have.
   It may harm them.
-- If you take a urine drug screening test, bupropion hydrochloride extended- release tablets (XL), may make the test result positive for amphetamines.
+- If you take a urine drug screening test, bupropion hydrochloride extended-release tablets (XL), may make the test result positive for amphetamines.
   If you tell the person giving you the drug screening test that you are taking bupropion hydrochloride extended-release tablets (XL), they can do a more specific drug screening test that should not have this problem.
 
 This Medication Guide summarizes the most important information about bupropion hydrochloride extended-release tablets (XL).
@@ -280,9 +285,7 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Rx only
 
-Mfg. by: IMPAX Laboratories, Inc. Hayward, CA 94544 USA By:
+Dist. by: Impax Generics Hayward, CA 94544
 
-Dist. by: Global Pharmaceuticals Division of IMPAX Laboratories, Inc. Philadelphia, PA 19124 USA
-
-662-14 Rev.
-03/2015
+662-15 Rev.
+10/2016

@@ -1,8 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 150 mg Tablet Bottle Label
 
-GLOBAL®
-
-NDC 0115-6811-02
+NDC 0115-6811-08
 
 buPROPion HCl Extended-release Tablets (XL)
 
@@ -14,4 +12,6 @@ ATTENTION: Dispense with Medication Guide
 
 Rx only
 
-500 TABLETS
+30 TABLETS
+
+Impax Generics

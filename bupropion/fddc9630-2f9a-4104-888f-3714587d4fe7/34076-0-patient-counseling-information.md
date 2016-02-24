@@ -2,7 +2,7 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Inform patients, their families, and their caregivers about the benefits and risks associated with treatment with bupropion hydrochloride extended-release tablets (XL)and should counsel them in its appropriate use.
+Inform patients, their families, and their caregivers about the benefits and risks associated with treatment with bupropion hydrochloride extended-release tablets (XL) and should counsel them in its appropriate use.
 
 A patient Medication Guide about "Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions", "Quitting smoking, Quit-smoking Medications, Changes in Thinking and Behavior, Depression, and Suicidal Thoughts or Actions," and "What other important information should I know about Bupropion Hydrochloride Extended-Release Tablets (XL)?" is available for bupropion hydrochloride extended-release tablets (XL).
 Instruct patients, their families, and their caregivers to read the Medication Guide and assist them in understanding its contents.
@@ -28,11 +28,11 @@ If patients develop agitation, hostility, depressed mood, or changes in thinking
 
 Severe Allergic Reactions
 
-Educate patients on the symptoms of hypersensitivity and to discontinue bupropion hydrochloride extended-release tablets (XL)if they have a severe allergic reaction.
+Educate patients on the symptoms of hypersensitivity and to discontinue bupropion hydrochloride extended-release tablets (XL) if they have a severe allergic reaction.
 
 Seizure
 
-Instruct patients to discontinue and not restart bupropion hydrochloride extended-release tablets (XL)if they experience a seizure while on treatment.
+Instruct patients to discontinue and not restart bupropion hydrochloride extended-release tablets (XL) if they experience a seizure while on treatment.
 Advise patients that the excessive use or the abrupt discontinuation of alcohol, benzodiazepines, antiepileptic drugs, or sedatives/hypnotics can increase the risk of seizure.
 Advise patients to minimize or avoid the use of alcohol.
 
@@ -45,7 +45,7 @@ Patients may wish to be examined to determine whether they are susceptible to an
 
 Bupropion-Containing Products
 
-Educate patients that bupropion hydrochloride extended-release tablets (XL)contains the same active ingredient (bupropion) found in ZYBAN, which is used as an aid to smoking cessation treatment, and that bupropion hydrochloride extended-release tablets (XL)should not be used in combination with ZYBAN or any other medications that contain bupropion hydrochloride (such as WELLBUTRIN SR, the sustained-release formulation, WELLBUTRIN, the immediate-release formulation, and APLENZIN, a bupropion hydrobromide formulation).
+Educate patients that bupropion hydrochloride extended-release tablets (XL) contains the same active ingredient (bupropion) found in ZYBAN, which is used as an aid to smoking cessation treatment, and that bupropion hydrochloride extended-release tablets (XL) should not be used in combination with ZYBAN or any other medications that contain bupropion hydrochloride (such as WELLBUTRIN SR, the sustained-release formulation, WELLBUTRIN, the immediate-release formulation, and APLENZIN, a bupropion hydrobromide formulation).
 In addition, there are a number of generic bupropion HCl products for the immediate, sustained, and extended-release formulations.
 
 Potential for Cognitive and Motor Impairment

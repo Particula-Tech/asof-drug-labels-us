@@ -1,8 +1,6 @@
-Mfg. by: IMPAX Laboratories, Inc. Hayward, CA 94544 USA
-
-Dist. by: Global Pharmaceuticals Division of IMPAX Laboratories, Inc. Philadelphia, PA 19124 USA
+Dist. by: Impax Generics Hayward, CA 94544
 
 ZYBAN®, WELLBUTRIN®, AND WELLBUTRIN SR® are registered trademarks of GlaxoSmithKline.
 
-662-14 Rev.
-03/2015
+662-15 Rev.
+10/2015

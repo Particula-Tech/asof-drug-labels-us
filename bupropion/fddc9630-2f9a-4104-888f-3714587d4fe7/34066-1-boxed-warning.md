@@ -8,7 +8,7 @@ These trials did not show an increase in the risk of suicidal thoughts and behav
 In patients of all ages who are started on antidepressant therapy, monitor closely for worsening, and for emergence of suicidal thoughts and behaviors.
 Advise families and caregivers of the need for close observation and communication with the prescriber [see Warnings and Precautions (5.1)].
 
-NEUROPSYCHIATRIC REACTIONS IN PATIENTS TAKING BUPROPION FOR SMOKING CESSATION
+NEUROPSYCHIATRIC REACTIONS IN PATIENTS TAKING BUPROPION FORSMOKING CESSATION
 
 Serious neuropsychiatric reactions have occurred in patients taking bupropion for smoking cessation [see Warnings and Precautions (5.2)].
 The majority of these reactions occurred during bupropion treatment, but some occurred in the context of discontinuing treatment.
