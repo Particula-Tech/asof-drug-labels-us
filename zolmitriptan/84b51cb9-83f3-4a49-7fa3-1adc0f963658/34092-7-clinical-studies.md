@@ -13,7 +13,7 @@ In Study 1, of the patients taking ZOMIG nasal spray 2.5 mg or 5 mg, 83% were fe
 
 The two-hour headache response rates in patients treated with ZOMIG nasal spray were significantly higher among patients receiving ZOMIG nasal spray at all doses, compared with placebo (see Table 3).
 
-- Table 3: First Attack Data: Percentage of Adult Patients with Headache Response to ZOMIG Nasal Spray (Mild or No Headache) 2 Hours Following Treatment in Study 1
+1. Table 3: First Attack Data: Percentage of Adult Patients with Headache Response to ZOMIG Nasal Spray (Mild or No Headache) 2 Hours Following Treatment in Study 1
 
 | PLACEBO (N=218) | ZOMIG2.5 mg(N=219) | ZOMIG 5 mg (N=228) |
 | --- | --- | --- |

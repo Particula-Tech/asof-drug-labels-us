@@ -104,7 +104,7 @@ Other common adverse reactions were nasal discomfort, dizziness, oropharyngeal p
 
 Table 2 lists the adverse reactions from the pooled placebo-controlled studies that occurred in ≥ 2% of pediatric patients 12 to 17 years of age in either the 2.5 mg or 5 mg ZOMIG dose groups and with an incidence greater than placebo.
 
-- Table 2: Adverse reactions in Pooled Placebo-Controlled Studies in Pediatric Patients 12 to 17 years of Age with Migraine
+1. Table 2: Adverse reactions in Pooled Placebo-Controlled Studies in Pediatric Patients 12 to 17 years of Age with Migraine
 
 | Adverse Reaction | Placebo (N=437) | ZOMIG 2.5 mg (N=81) | ZOMIG 5 mg (N=431) |
 | --- | --- | --- | --- |

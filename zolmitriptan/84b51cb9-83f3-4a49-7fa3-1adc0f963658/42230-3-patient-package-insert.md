@@ -105,7 +105,6 @@ Call your doctor right away if you have any of the following symptoms after usin
   - obreaking out in a cold sweat
   - ofeeling lightheaded
   - onausea or vomiting with any of the symptoms included above
-
 - •stroke.
   Symptoms of stroke include face drooping, slurred speech, and unusual weakness or numbness.
 - •changes in color or sensation in your fingers and toes (Raynaud’s syndrome)
