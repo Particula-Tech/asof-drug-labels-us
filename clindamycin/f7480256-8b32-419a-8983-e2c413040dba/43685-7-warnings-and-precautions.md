@@ -41,7 +41,6 @@ Therefore it should be used with caution in patients receiving such agents.
 
 In clinical trials with pregnant women, the systemic administration of clindamycin during the second and third trimesters has not been associated with an increased frequency of congenital abnormalities.
 There are no adequate studies in pregnant women during the first trimester of pregnancy.
-
 Clindamycin should be used during the first trimester of pregnancy only if clearly needed.
 
 ## Nursing Mothers
@@ -56,5 +55,5 @@ Safety and effectiveness in pediatric patients under the age of 12 have not been
 
 ## Geriatric Use
 
-Clinical studies for Cleocin T did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical studies for CLEOCIN T did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
