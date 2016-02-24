@@ -2,10 +2,13 @@
 
 The following serious adverse reactions are discussed in greater detail in other sections of the label:
 
-- •Anaphylaxis and Allergic reactions [See Boxed Warning, Warnings and Precautions (5.1).]
-- •Neuropathy [See Warnings and Precautions (5.2).]
-- •Pulmonary Toxicities [See Warnings and Precautions (5.3).]
-- •Hepatotoxicity [See Warnings and Precautions (5.4).]
+- •Anaphylaxis and Allergic reactions [see Boxed Warning, Warnings and Precautions (5.1)].
+- •Neuropathy [see Warnings and Precautions (5.2)].
+- •Severe Neutropenia [see Warnings and Precautions (5.3)].
+- •Pulmonary Toxicities [see Warnings and Precautions (5.4)].
+- •Hepatotoxicity [see Warnings and Precautions (5.5)].
+- •Cardiovascular Toxicities [see Warnings and Precautions (5.6)].
+- •Rhabdomyolysis [see Warnings and Precautions (5.7)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -154,7 +157,7 @@ Table 5 - Adverse Reactions Reported in Patients Previously Untreated for Advanc
 | Neurology |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Overall Neuropathy | 82 | 19 | 18 | 2 | 69 | 7 |  |  |  |  |  |  |  |  |
 | Paresthesias | 77 | 18 | 16 | 2 | 62 | 6 |  |  |  |  |  |  |  |  |
-| Pharyngo-laryngeal Dysesthesias | 38 | 2 | 1 | 0 | 28 | 1 |  |  |  |  |  |  |  |  |
+| Pharyngo-laryngeal dysesthesias | 38 | 2 | 1 | 0 | 28 | 1 |  |  |  |  |  |  |  |  |
 | Neuro-sensory | 12 | 1 | 2 | 0 | 9 | 1 |  |  |  |  |  |  |  |  |
 | Neuro NOS* | 1 | 0 | 1 | 0 | 1 | 0 |  |  |  |  |  |  |  |  |
 | Pulmonary |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -391,12 +394,12 @@ Patients receiving Oxaliplatin plus 5-fluorouracil/leucovorin and requiring oral
 Renal
 
 About 5 to 10% of patients in all groups had some degree of elevation of serum creatinine.
-The incidence of Grade 3/4 elevations in serum creatinine in the Oxaliplatin Injection, USP and 5-fluorouracil/leucovorin combination arm was 1% in the previously treated patients.
+The incidence of Grade 3/4 elevations in serum creatinine in the Oxaliplatin and 5-fluorouracil/leucovorin combination arm was 1% in the previously treated patients.
 Serum creatinine measurements were not reported in the adjuvant trial.
 
 Hepatic
 
-Hepatotoxicity (defined as elevation of liver enzymes) appears to be related to Oxaliplatin combination therapy [see Warnings and Precautions (5.4)].
+Hepatotoxicity (defined as elevation of liver enzymes) appears to be related to Oxaliplatin combination therapy [see Warnings and Precautions (5.5)].
 The following tables list the clinical chemistry changes associated with hepatic toxicity occurring in ≥5% of patients, based on adverse reactions reported and NCI CTC grade for adjuvant patients and patients previously untreated for advanced colorectal cancer, laboratory values and NCI CTC grade for previously treated patients.
 
 Table 12 - Adverse Hepatic Reactions in Patients with Stage II or III Colon Cancer Receiving Adjuvant Therapy (≥5% of patients)
@@ -439,13 +442,19 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Body as a whole: angioedema, anaphylactic shock
 
+Cardiovascular disorders: QT prolongation leading to ventricular arrhythmias including fatal Torsade de Pointes
+
 Central and peripheral nervous system disorders: loss of deep tendon reflexes, dysarthria, Lhermitte’s sign, cranial nerve palsies, fasciculations, convulsion, Reversible Posterior Leukoencephalopathy Syndrome (RPLS, also known as PRES).
 
 Hearing and vestibular system disorders: deafness
 
+Infections: septic shock, including fatal outcomes
+
 Infusion reactions/hypersensitivity: laryngospasm
 
-Liver and gastrointestinal system disorders: severe diarrhea/vomiting resulting in hypokalemia, colitis (including Clostridium difficile diarrhea), metabolic acidosis; ileus; intestinal obstruction, pancreatitis; veno-occlusive disease of liver also known as sinusoidal obstruction syndrome, and perisinusoidal fibrosis which rarely may progress.
+Liver and Gastrointestinal system disorders: severe diarrhea/vomiting resulting in hypokalemia, colitis (including Clostridium difficile diarrhea), metabolic acidosis; ileus; intestinal obstruction, pancreatitis; veno-occlusive disease of liver also known as sinusoidal obstruction syndrome, and perisinusoidal fibrosis which rarely may progress.
+
+Musculoskeletal and connective tissue disorders: rhabdomyolysis, including fatal outcomes
 
 Platelet, bleeding, and clotting disorders: immuno-allergic thrombocytopenia prolongation of prothrombin time and of INR in patients receiving anticoagulants
 

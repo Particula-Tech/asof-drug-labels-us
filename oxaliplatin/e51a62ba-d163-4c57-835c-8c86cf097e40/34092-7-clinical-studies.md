@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Combination Adjuvant Therapy with Oxaliplatin and Infusional 5-fluorouracil/leucovorin in Patients with Stage II or III Colon Cancer
+## 14.1 Combination Adjuvant Therapy with Oxaliplatin and Infusional 5-fluorouracil/leucovorin in Patients with Colon Cancer
 
 An international, multicenter, randomized study compared the efficacy and evaluated the safety of Oxaliplatin in combination with an infusional schedule of 5-fluorouracil/leucovorin to infusional 5-fluorouracil/leucovorin alone, in patients with stage II (Dukes’ B2) or III (Dukes’ C) colon cancer who had undergone complete resection of the primary tumor.
 The primary objective of the study was to compare the 3-year disease-free survival (DFS) in patients receiving Oxaliplatin and infusional 5-fluorouracil/leucovorin to those receiving 5-fluorouracil/leucovorin alone.
@@ -83,19 +83,19 @@ Table 18 - Summary of DFS analysis - ITT analysis
 | N | 1123 | 1123 |  |  |  |  |  |  |  |  |  |
 | Number of events – relapse or death (%) | 304 (27.1) | 360 (32.1) |  |  |  |  |  |  |  |  |  |
 | Disease-free survival % [95% CI]* | 73.3 [70.7, 76.0] | 67.4 [64.6, 70.2] |  |  |  |  |  |  |  |  |  |
-| Hazard ratio [95% CI] ** | 0.80 [0.68, 0.93] |  |  |  |  |  |  |  |  |  |  |
+| Hazard ratio [95% CI]** | 0.80 [0.68, 0.93] |  |  |  |  |  |  |  |  |  |  |
 | Stratified Logrank test | p=0.003 |  |  |  |  |  |  |  |  |  |  |
 | Stage III (Dukes’ C) |  |  |  |  |  |  |  |  |  |  |  |
 | N | 672 | 675 |  |  |  |  |  |  |  |  |  |
 | Number of events – relapse or death (%) | 226 (33.6) | 271 (40.1) |  |  |  |  |  |  |  |  |  |
-| Disease-free survival % [95% CI] * | 66.4 [62.7, 70.0] | 58.9 [55.2, 62.7] |  |  |  |  |  |  |  |  |  |
-| Hazard ratio [95% CI] ** | 0.78 [0.65, 0.93] |  |  |  |  |  |  |  |  |  |  |
+| Disease-free survival % [95% CI]* | 66.4 [62.7, 70.0] | 58.9 [55.2, 62.7] |  |  |  |  |  |  |  |  |  |
+| Hazard ratio [95% CI]** | 0.78 [0.65, 0.93] |  |  |  |  |  |  |  |  |  |  |
 | Logrank test | p=0.005 |  |  |  |  |  |  |  |  |  |  |
 | Stage II (Dukes’ B2) |  |  |  |  |  |  |  |  |  |  |  |
 | N | 451 | 448 |  |  |  |  |  |  |  |  |  |
 | Number of events – relapse or death (%) | 78 (17.3) | 89 (19.9) |  |  |  |  |  |  |  |  |  |
 | Disease-free survival % [95% CI]* | 83.7 [80.2, 87.1] | 79.9 [76.2, 83.7] |  |  |  |  |  |  |  |  |  |
-| Hazard ratio [95% CI] ** | 0.84 [0.62, 1.14] |  |  |  |  |  |  |  |  |  |  |
+| Hazard ratio [95% CI]** | 0.84 [0.62, 1.14] |  |  |  |  |  |  |  |  |  |  |
 | Logrank test | p=0.258 |  |  |  |  |  |  |  |  |  |  |
 | Data cut off for disease free survival 1 June 2006 * Disease-free survival at 5 years ** A hazard ratio of less than 1.00 favors Oxaliplatin + Infusional 5-fluorouracil/leucovorin. |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -163,7 +163,7 @@ Table 21 - Patient Demographics in Patients Previously Untreated for Advanced Co
 | <65 years of age (%) | 61 | 62 | 63 |
 | ≥65 years of age (%) | 39 | 38 | 37 |
 | ECOG (%) |  |  |  |
-| 0.1 | 94.4 | 95.5 | 94.7 |
+| 0-1 | 94.4 | 95.5 | 94.7 |
 | 2 | 5.6 | 4.5 | 5.3 |
 | Involved organs (%) |  |  |  |
 | Colon only | 0.7 | 0.8 | 0.4 |
@@ -284,7 +284,7 @@ Clinical progression was not included in this analysis, and 18% of patients were
 | No. of progressors | 74 | 101 | 50 |
 | No. of patients with no radiological evaluation beyond baseline | 22(15%) | 16(10%) | 17(11%) |
 | Median TTP (months) | 2.7 | 1.6 | 4.6 |
-| 95%CI | 1.8-3.0 | 1.4-2.7 | 4.2-6.1 |
+| 95% CI | 1.8-3.0 | 1.4-2.7 | 4.2-6.1 |
 
 At the time of the interim analysis 49% of the radiographic progression events had occurred.
 In this interim analysis an estimated 2-month increase in median time to radiographic progression was observed compared to 5-fluorouracil/leucovorin alone.

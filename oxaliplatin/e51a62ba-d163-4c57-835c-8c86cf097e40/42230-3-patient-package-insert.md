@@ -1,6 +1,12 @@
-# PATIENT INFORMATION
+# FDA-Approved Patient Labeling
+
+Patient Information
 
 Oxaliplatin
+
+(ox-Al-ah-platin)
+
+Injection for intravenous use
 
 Read this Patient Information leaflet carefully before you start receiving Oxaliplatin.
 There may be new information.
@@ -10,18 +16,15 @@ Ask your doctor about any questions you have.
 
 What is the most important information I should know about Oxaliplatin?
 
-Serious side effects can happen in people taking Oxaliplatin, including:
-
-- •Serious allergic reactions.
-  Oxaliplatin can cause serious allergic reactions, including allergic reactions that may cause death.
-  Oxaliplatin is a platinum base medicine.
-  Serious allergic reactions including death can occur in people who take Oxaliplatin and who have had previous allergic reactions to platinum medicines.
-  Serious allergic reactions can happen within a few minutes of your infusion or any time during your treatment with Oxaliplatin.
+Oxaliplatin can cause serious allergic reactions, including allergic reactions that can lead to death.
+Oxaliplatin is a platinum base medicine.
+Serious allergic reactions including death can happen in people who take Oxaliplatin and who have had previous allergic reactions to platinum medicines.
+Serious allergic reactions can happen within a few minutes of your Oxaliplatin infusion or any time during your treatment with Oxaliplatin.
 
 Get emergency help right away if you:
 
-- •have trouble breathing.
-- •feel like your throat is closing up.
+- •have trouble breathing
+- •feel like your throat is closing up
 
 Call your doctor right away if you have any of the following signs or symptoms of an allergic reaction:
 
@@ -35,94 +38,85 @@ Call your doctor right away if you have any of the following signs or symptoms o
 - •Sweating
 - •Chest pain
 
-See “What are the possible side effects of Oxaliplatin” for information about other serious side effects.
+See “What are the possible side effects of Oxaliplatin?” for information about other serious side effects.
 
 What is Oxaliplatin?
 
 Oxaliplatin is an anti-cancer (chemotherapy) medicine that is used with other anti-cancer medicines called 5-fluorouracil and leucovorin to treat people with:
 
 - •stage III colon cancer after surgery to remove the tumor
-- •advanced colon or rectal cancer (colo-rectal cancer).
-
-Oxaliplatin with infusional 5-fluorouracil and leucovorin was shown to lower the chance of colon cancer returning when given to patients with stage III colon cancer after surgery to remove the tumor.
-Oxaliplatin also increases survival in patients with stage III colon cancer.
-Oxaliplatin with infusional 5-fluorouracil and leucovorin was also shown to increase survival, shrink tumors and delay growth of tumors in some patients with advanced colorectal cancer.
+- •advanced colon or rectal cancer (colorectal cancer)
 
 It is not known if Oxaliplatin works in children.
 
-Who should not use Oxaliplatin?
+Who should not receive Oxaliplatin?
 
-Do not use Oxaliplatin if you are allergic to any of the ingredients in Oxaliplatin or other medicines that contain platinum.
-Cisplatin (Platinol®) and carboplatin (Paraplatin®) are other chemotherapy medicines that also contain platinum.
+Do not receive Oxaliplatin if you are allergic to any of the ingredients in Oxaliplatin or other medicines that contain platinum.
 See the end of this leaflet for a complete list of the ingredients in Oxaliplatin Injection, USP.
 
 Ask your doctor if you are not sure if you take a medicine that contains platinum.
 
-What should I tell my doctor before treatment with Oxaliplatin?
+What should I tell my doctor before receiving Oxaliplatin?
 
-Before receiving Oxaliplatin, tell your doctor if you:
+Before receiving Oxaliplatin, tell your doctor about all of your medical conditions, including if you:
 
-- •have kidney problems
-- •have any other medical conditions
-- •have had any allergic reactions to any medicines
+- •have an infection
+- •have lung, liver, or kidney problems
+- •have or had heart problems such as an abnormal heart test called an electrocardiogram (ECG or EKG), a condition called long QT syndrome, an irregular or slow heartbeat, or a family history of heart problems.
+- •have had changes in the level of certain blood salt (electrolytes) levels, including potassium, magnesium, and calcium
 - •are pregnant or plan to become pregnant.
-  Oxaliplatin may harm your unborn child.
-  You should avoid becoming pregnant while taking Oxaliplatin.
-  Talk with your doctor about how to avoid pregnancy.
+  Oxaliplatin may harm your unborn baby.
+  Females who are able to become pregnant should avoid becoming pregnant and should use effective birth control during treatment with Oxaliplatin.
 - •are breastfeeding or plan to breastfeed.
   It is not known if Oxaliplatin passes into your breast milk.
-  You and your doctor should decide whether you will stop breastfeeding or not take Oxaliplatin.
+  You and your doctor should decide if you will receive Oxaliplatin or breastfeed.
+  You should not do both.
 
-Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
 Know the medicines you take.
 Keep a list of them and show it to your doctor and pharmacist when you get a new medicine.
 
-How is Oxaliplatin given to me?
+How will I receive Oxaliplatin?
 
-Oxaliplatin is given to you through your veins (blood vessels).
-
-- •Your doctor will prescribe Oxaliplatin in an amount that is right for you.
-- •Your doctor will treat you with several medicines for your cancer.
-- •It is very important that you do exactly what your doctor and nurse have taught you to do.
+- •Oxaliplatin is given to you into your vein through an intravenous (IV) tube.
+- •Your doctor will prescribe Oxaliplatin in a dose that is right for you.
+- •Your doctor may change how often you receive Oxaliplatin, your dose, or how long your infusion will take.
+- •You and your doctor will decide how many Oxaliplatin treatments you will receive.
+- •It is very important that you do exactly what your doctor and nurse tell you to do.
 - •Some medicines may be given to you before Oxaliplatin to help prevent nausea and vomiting.
-- •Oxaliplatin is given with 2 other chemotherapy medicines, leucovorin and 5-fluorouracil.
 - •Each treatment course is given to you over 2 days.
   You will receive Oxaliplatin on the first day only.
 - •There are usually 14 days between each chemotherapy treatment course.
+- •It is important for you to keep all of your medical appointments.
+  Call your doctor if you miss an appointment.
+  There may be special instructions for you.
 
 Treatment Day 1:
 
-Oxaliplatin and leucovorin are given through a thin plastic tube put into a vein (intravenous infusion or I.V.) and given for 2 hours.
-You will be watched by a healthcare provider during this time.
-
-Right after the Oxaliplatin and leucovorin are finished, 2 doses of 5-fluorouracil will be given.
-The first dose is given right away into your I.V. tube.
-The second dose will be given into your I.V. tube over the next 22 hours, using a pump device.
+- •Oxaliplatin and leucovorin will be given through a thin plastic tube into a vein (intravenous infusion or IV) and given for 2 hours.
+  You will be watched by a healthcare provider during this time.
+- •Right after the Oxaliplatin and leucovorin are given, 2 doses of 5-fluorouracil will be given.
+  The first dose is given right away into your IV tube.
+  The second dose will be given into your IV tube over the next 22 hours, using a pump device.
 
 Treatment Day 2:
 
 You will not get Oxaliplatin on Day 2.
 Leucovorin and 5-fluorouracil will be given the same way as on Day 1.
 
-During your treatment with Oxaliplatin:
-
-- •It is important for you to keep all appointments.
-  Call your doctor if you must miss an appointment.
-  There may be special instructions for you.
-- •Your doctor may change how often you get Oxaliplatin, how much you get, or how long the infusion will take.
-- •You and your doctor will discuss how many times you will get Oxaliplatin.
-
-The 5-fluorouracil will be given through your I.V. with a pump.
+The 5-fluorouracil will be given through your IV with a pump.
 If you have any problems with the pump or the tube, call your doctor, your nurse, or the person who is responsible for your pump.
 Do not let anyone other than a healthcare provider touch your infusion pump or tubing.
 
-What activities should I avoid while on treatment with Oxaliplatin?
+What should I avoid while receiving Oxaliplatin?
 
 - •Avoid cold temperatures and cold objects.
-  Cover your skin if you must go outside in cold temperatures.
+  Cover your skin if you go outdoors in cold temperatures.
 - •Do not drink cold drinks or use ice cubes in drinks.
 - •Do not put ice or ice packs on your body.
+- •Oxaliplatin can cause dizziness, vision problems, or vision loss that can affect your ability to drive or use machines.
+  You should not drive or operate machinery if you develop these symptoms while receiving Oxaliplatin.
 
 See “How can I reduce the side effects caused by cold temperatures?” for more information.
 
@@ -133,71 +127,67 @@ What are the possible side effects of Oxaliplatin?
 
 Oxaliplatin can cause serious side effects, including:
 
-- •Serious allergic reactions.
-  See “What is the most important information I should know about Oxaliplatin?”
+- •See “What is the most important information I should know about Oxaliplatin?”
 - •Nerve problems.
   Oxaliplatin can affect how your nerves work and make you feel.
-  Tell your doctor right away if you get any signs of nerve problems listed below:
-  - •very sensitive to cold temperatures and cold objects.
-  - •trouble breathing, swallowing, or saying words, jaw tightness, odd feelings in your tongue, or chest pressure.
-  - •pain, tingling, burning (pins and needles, numb feeling) in your hands, feet, or around your mouth or throat, which may cause problems walking or performing activities of daily living.
-- •Reversible Posterior Leukoencephalopathy (RPLS).
-  RPLS is a rare condition that affects the brain.
-  Tell your doctor right away if you have any of the following signs and symptoms of RPLS:
-  - •headache
-  - •confusion or a change in the way you think
-  - •seizures
-  - •vision problems, such as blurriness or vision loss.
-    You should not drive, operate heavy machines, or engage in dangerous activities if you have vision problems while receiving Oxaliplatin.
-
-The first signs of nerve problems may happen with the first treatment.
-The nerve problems can also start up to 2 days after treatment.
-If you develop nerve problems, the amount of Oxaliplatin in your next treatment may be changed or Oxaliplatin treatment may be stopped.
+  Nerve problems may happen with the first treatment or within two days after your treatment of Oxaliplatin.
+  Nerve problems may last a short time (acute) or may become persistent.
+  Symptoms may improve after stopping treatment with Oxaliplatin.
+  Exposure to cold or cold objects may cause or worsen nerve problems.
+  Tell your doctor right away if you get any signs of nerve problems, including:
+  - overy sensitive to cold temperatures and cold objects
+  - otrouble breathing, swallowing, or saying words, jaw tightness, odd feelings in your tongue, or chest pressure
+  - opain, tingling, burning (pins and needles, numb feeling) in your hands, feet, or around your mouth or throat, which may cause problems walking or performing activities of daily living.
 
 For information on ways to lessen or help with the nerve problems, see the end of this leaflet, “How can I reduce the side effects caused by cold temperatures?”
 
+- •Reversible Posterior Leukoencephalopathy (RPLS).
+  RPLS is a rare condition that affects the brain.
+  Tell your doctor right away if you have any of the following signs and symptoms of RPLS:
+  - oheadache
+  - oconfusion or a change in the way you think
+  - oseizures
+  - ovision problems, such as blurriness or vision loss
+- •Low white blood cell counts (neutropenia).
+  Oxaliplatin can cause low white blood cell counts.
+  Low blood cell counts are common with Oxaliplatin and can lead to serious infection and death.
+  Tell your doctor right away if you have a fever greater than 100.9°F (38.3°C) or a prolonged fever greater than 100.4°F (38°C) for more than one hour (febrile neutropenia).
+  Call your doctor right away if you get any of the following signs of infection:
+  - ochills or shivering
+  - opain on swallowing
+  - osore throat
+  - ocough that brings up mucus
+  - oburning or pain on urination
+  - oredness or swelling at intravenous site
+  - opersistent diarrhea
 - •Lung problems (interstitial fibrosis).
+  Oxaliplatin can cause lung problems that may lead to death.
   Tell your doctor right away if you get a dry cough and have trouble breathing (shortness of breath) before your next treatment.
   These may be signs of a serious lung disease.
 - •Liver problems (hepatotoxicity).
   Your doctor will do blood tests to check your liver.
+- •Heart problems.
+  Oxaliplatin can cause heart problems that have led to death.
+  Your doctor may do blood and heart tests during treatment with Oxaliplatin if you have certain heart problems.
+  If you faint (lose consciousness) or have an irregular heartbeat or chest pain during treatment with Oxaliplatin, tell your doctor right away as this may be a sign of a serious heart condition.
+- •Muscle problems.
+  Oxaliplatin can cause muscle damage (rhabdomyolysis) which can lead to death.
+  Tell your doctor right away if you have muscle pain and swelling, along with weakness, fever, or red-brown urine.
 - •Harm to an unborn baby.
-  Oxaliplatin may cause harm to your unborn baby.
-  See “What should I tell my doctor before treatment with Oxaliplatin?”
+  See “What should I tell my doctor before receiving Oxaliplatin?”
 
 The most common side effects of Oxaliplatin include:
 
-- •Decreased blood counts: Oxaliplatin can cause a decrease in neutrophils (a type of white blood cells important in fighting bacterial infections), red blood cells (blood cells that carry oxygen to the tissues) and platelets (important for clotting and to control bleeding).
-- •High blood pressure (hypertension)
-- •Infection.
-  Call your doctor right away if you get any of the following signs of infection:
-  - •Fever (temperature of 100.5°F or greater)
-  - •Chills or shivering
-  - •Cough that brings up mucus
-  - •Burning or pain on urination
-  - •Pain on swallowing
-  - •Sore throat
-  - •Redness or swelling at intravenous site
-  - •Bleeding or bruising.
-    Tell your doctor about any signs or symptoms of bleeding or bruising
-  - •nausea
-  - •vomiting
-  - •diarrhea
-  - •constipation
-  - •mouth sores
-  - •stomach pain
-  - •decreased appetite
-  - •tiredness
-  - •Injection site reactions.
-    Reactions may include redness, swelling, pain, tissue damage at the site of injection.
-  - •hair loss (alopecia)
-- •Dehydration (too much water loss).
-  Call your doctor if you have signs of dehydration including:
-  - •tiredness
-  - •thirst
-  - •dry mouth
-  - •lightheadedness (dizziness)
-  - •decreased urination
+- •Numbness, pain, tingling, and/or burning along the nerves
+- •Low white blood cells (neutropenia)
+- •Low platelet count (important for clotting and to control bleeding)
+- •Low red blood cells (blood cells that carry oxygen to the tissues)
+- •Nausea
+- •Changes in liver function tests
+- •Diarrhea
+- •Vomiting
+- •Tiredness
+- •Mouth sores
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 These are not all the possible side effects of Oxaliplatin.
@@ -223,18 +213,16 @@ How can I reduce the side effects caused by cold temperatures?
 - •Do not run the air-conditioning at high levels in the house or in the car in hot weather.
 - •If your body gets cold, warm-up the affected part.
   If your hands get cold, wash them with warm water.
-- •Always let your healthcare provider or doctor know before your next treatment how well you did since your last visit.
+- •Always let your doctor know before your next treatment how well you did since your last visit.
 
-This list is not complete and your healthcare provider or doctor may have other useful tips for helping you with these side effects.
+Your doctor may have other useful tips for helping you with side effects.
 
 General information about the safe and effective use of Oxaliplatin
 
 Medicines are sometimes prescribed for purposes other than those listed in the Patient Information leaflet.
-
 This Patient Information leaflet summarizes the most important information about Oxaliplatin.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about Oxaliplatin Injection, USP that is written for health professionals.
-
 For more information go to www.hospira.com or call 1-800-615-0187.
 
 What are the ingredients in Oxaliplatin?
@@ -245,6 +233,4 @@ Concentrate for solution for infusion inactive ingredients: water for injection,
 
 Paraplatin® and Platinol® are registered trademarks of Bristol-Myers Squibb Company.
 
-Manufactured by: Hospira Australia Ltd Mulgrave VIC 3170 Australia
-
-434451 Manufactured for: Hospira, Inc. Lake Forest, IL 60045 USA
+Revised: 11/2015 Oxaliplatin Injection, USP (concentrate solution for infusion) Manufactured by: Zydus Hospira Oncology Pvt Ltd District Ahmedabad 382-213 Gujarat India EN-4132 Manufactured for: Hospira, Inc. Lake Forest, IL 60045

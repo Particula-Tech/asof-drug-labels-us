@@ -15,7 +15,9 @@ In combination with 5-fluorouracil, oxaliplatin exhibits in vitro and in vivo an
 
 The reactive oxaliplatin derivatives are present as a fraction of the unbound platinum in plasma ultrafiltrate.
 The decline of ultrafilterable platinum levels following oxaliplatin administration is triphasic, characterized by two relatively short distribution phases (t1/2α; 0.43 hours and t1/2β; 16.8 hours) and a long terminal elimination phase (t1/2γ; 391 hours).
-Pharmacokinetic parameters obtained after a single 2-hour intravenous infusion of Oxaliplatin at a dose of 85 mg/m2 expressed as ultrafilterable platinum were Cmax of 0.814 mcg/mL and volume of distribution of 440 L. Interpatient and intrapatient variability in ultrafilterable platinum exposure (AUC0-48hr) assessed over 3 cycles was moderate to low (23% and 6%, respectively).
+Pharmacokinetic parameters obtained after a single 2-hour intravenous infusion of Oxaliplatin at a dose of 85 mg/m2 expressed as ultrafilterable platinum were Cmax of 0.814 mcg/mL and volume of distribution of 440 L.
+
+Interpatient and intrapatient variability in ultrafilterable platinum exposure (AUC0-48hr) assessed over 3 cycles was moderate to low (23% and 6%, respectively).
 A pharmacodynamic relationship between platinum ultrafiltrate levels and clinical safety and effectiveness has not been established.
 
 Distribution
@@ -46,7 +48,7 @@ Pharmacokinetics in Special Populations
 
 Pediatric
 
-[See Use In Specific Patient Populations (8.4)].
+[See Use In Specific Populations (8.4)].
 
 Renal Impairment
 
