@@ -65,9 +65,9 @@ Symptoms of a fracture may include new or unusual pain in your hip, groin, or th
 
 Call your doctor right away if you have any of these side effects.
 
-What is alendronate sodium tablets, USP?
+What are alendronate sodium tablets, USP?
 
-Alendronate sodium tablets, USP is a prescription medicine used to:
+Alendronate sodium tablets, USP are a prescription medicine used to:
 
 - Treat or prevent osteoporosis in women after menopause.
   It helps reduce the chance of having a hip or spinal fracture (break).
@@ -75,7 +75,7 @@ Alendronate sodium tablets, USP is a prescription medicine used to:
 - Treat osteoporosis in either men or women who are taking corticosteroid medicines.
 - Treat certain men and women who have Paget's disease of the bone.
 
-It is not known how long alendronate sodium tablets, USP works for the treatment and prevention of osteoporosis.
+It is not known how long alendronate sodium tablets, USP work for the treatment and prevention of osteoporosis.
 You should see your doctor regularly to determine if alendronate sodium tablets, USP are still right for you.
 
 Alendronate sodium tablets, USP are not for use in children.
@@ -103,7 +103,7 @@ Before you start alendronate sodium tablets, USP, be sure to talk to your doctor
 - Are pregnant, or plan to become pregnant.
   It is not known if alendronate sodium tablets, USP can harm your unborn baby.
 - Are breast-feeding or plan to breast-feed.
-  It is not known if alendronate sodium tablets, USP passes into your milk and may harm your baby.
+  It is not known if alendronate sodium passes into your milk and may harm your baby.
 
 Especially tell your doctor if you take:
 
@@ -112,7 +112,7 @@ Especially tell your doctor if you take:
 - Nonsteroidal Anti-Inflammatory (NSAID) medicines
 
 Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
-Certain medicines may affect how alendronate sodium tablets, USP works.
+Certain medicines may affect how alendronate sodium tablets, USP work.
 
 Know the medicines you take.
 Keep a list of them and show it to your doctor and pharmacist each time you get a new medicine.
@@ -120,16 +120,16 @@ Keep a list of them and show it to your doctor and pharmacist each time you get 
 How should I take alendronate sodium tablets, USP?
 
 - Take alendronate sodium tablets, USP exactly as your doctor tells you.
-- Alendronate sodium tablets, USP works only if taken on an empty stomach.
-- Take alendronate sodium tablets, USP,after you get up for the day andbefore taking your first food, drink, or other medicine.
+- Alendronate sodium tablets, USP work only if taken on an empty stomach.
+- Take alendronate sodium tablets, after you get up for the day and before taking your first food, drink, or other medicine.
 - Take alendronate sodium tablets, USP while you are sitting or standing.
 - Do not chew or suck on a tablet of alendronate sodium.
-- Swallow alendronate sodium tablet with a full glass (6-8 oz) ofplain water only.
+- Swallow alendronate sodium tablet with a full glass (6-8 oz) of plain water only.
 - Do not take alendronate sodium tablets, USP with mineral water, coffee, tea, soda, or juice.
 
 o If you take Alendronate Daily:
 
-- Take 1 alendronate tablet, USP one time a day, every dayafter you get up for the day andbefore taking your first food, drink, or other medicine.
+- Take 1 alendronate tablet, USP one time a day, every day after you get up for the day and before taking your first food, drink, or other medicine.
 
 o If you take Once Weekly alendronate sodium tablets, USP:
 
@@ -157,7 +157,7 @@ What are the possible side effects of alendronate sodium tablets, USP?
 
 Alendronate sodium tablets, USP may cause serious side effects.
 
-- See"What is the most important information I should know about alendronate sodium tablets, USP?"
+- See "What is the most important information I should know about alendronate sodium tablets, USP?"
 
 The most common side effects of alendronate sodium tablets, USP are:
 
@@ -208,7 +208,7 @@ Active ingredient: alendronate sodium
 
 Inactive ingredients: magnesium stearate, mannitol, microcrystalline cellulose, sodium starch glycolate and starch.
 
-Manufactured By:
+Manufactured by:
 
 Cipla Ltd.,
 
@@ -222,4 +222,4 @@ Cipla USA, Inc.
 
 Suite 1500 Miami, Florida 33156
 
-Revised: 5/2015
+Revised: 1/2016

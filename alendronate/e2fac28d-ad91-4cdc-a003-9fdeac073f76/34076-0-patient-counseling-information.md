@@ -28,7 +28,7 @@ Instruct patients that if they develop symptoms of esophageal disease (such as d
 If patients miss a dose of once weekly alendronate sodium, instruct patients to take one dose on the morning after they remember.
 They should not take two doses on the same day but should return to taking one dose once a week, as originally scheduled on their chosen day.
 
-Manufactured By:
+Manufactured by:
 
 Cipla Ltd.,
 
@@ -42,4 +42,4 @@ Cipla USA, Inc.
 
 Suite 1500 Miami, Florida 33156
 
-Revised: 5/2015
+Revised: 1/2016
