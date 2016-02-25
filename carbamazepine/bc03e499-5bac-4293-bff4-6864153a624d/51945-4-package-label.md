@@ -1,5 +1,53 @@
-NDC 54092-171-12 100 mg bottle of 120 Capsules
+# PRINCIPAL DISPLAY PANEL - 100 mg Capsule Bottle Label
 
-NDC 54092-172-12 200 mg bottle of 120 Capsules
+NDC 54092-171-12
 
-NDC 54092-173-12 300 mg bottle of 120 Capsules
+Carbatrol® (Carbamazepine) Extended-Release Capsules
+
+120 Capsules
+
+Rx only
+
+Should not be used with other carbamazepine containing products.
+
+100 mg
+
+Shire
+
+Dispense the accompanying Medication Guide to each patient.
+
+# PRINCIPAL DISPLAY PANEL - 200 mg Capsule Bottle Label
+
+NDC 54092-172-12
+
+Carbatrol® (Carbamazepine) Extended-Release Capsules
+
+120 Capsules
+
+Rx only
+
+Should not be used with other carbamazepine containing products.
+
+200 mg
+
+Shire
+
+Dispense the accompanying Medication Guide to each patient.
+
+# PRINCIPAL DISPLAY PANEL - 300 mg Capsule Bottle Label
+
+NDC 54092-173-12
+
+Carbatrol® (Carbamazepine) Extended-Release Capsules
+
+120 Capsules
+
+Rx only
+
+Should not be used with other carbamazepine containing products.
+
+300 mg
+
+Shire
+
+Dispense the accompanying Medication Guide to each patient.
