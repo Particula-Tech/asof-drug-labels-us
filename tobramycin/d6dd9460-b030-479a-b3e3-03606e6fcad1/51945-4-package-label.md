@@ -8,7 +8,7 @@ Tobramycin Injection, USP
 
 Pediatric
 
-20 mg/2 mL (10 mg/mL)
+20 mg per 2 mL (10 mg per mL)
 
 For IM or IV Use
 
@@ -26,7 +26,7 @@ Tobramycin Injection, USP
 
 Pediatric
 
-20 mg/2 mL (10 mg/mL)
+20 mg per 2 mL (10 mg per mL)
 
 For IM or IV Use
 
@@ -44,7 +44,7 @@ NDC 63323-306-30
 
 Tobramycin Injection, USP
 
-1,200 mg/30 mL (40 mg/mL)
+1,200 mg per 30 mL (40 mg per mL)
 
 Rx only
 

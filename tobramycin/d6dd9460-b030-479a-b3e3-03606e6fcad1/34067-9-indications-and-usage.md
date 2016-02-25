@@ -1,4 +1,4 @@
-# INDICATIONS AND USAGE
+# INDICATIONS AND USAGE:
 
 To reduce the development of drug-resistant bacteria and maintain the effectiveness of Tobramycin Injection, USP and other antibacterial drugs, Tobramycin Injection, USP should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
@@ -16,7 +16,7 @@ Intra-abdominal infections, including peritonitis, caused by E. coli, Klebsiella
 
 Skin, bone, and skin structure infections caused by P. aeruginosa, Proteus spp, E. coli, Klebsiella spp, Enterobacter spp, Serratia spp and S. aureus
 
-Complicated and recurrent urinary tract infections caused by P. aeruginosa, Proteus spp, (indole-positive and indole-negative), E. coli, Klebsiella spp, Enterobacter spp, Serratia spp, S. aureus, Providencia spp, and Citrobacter spp
+Complicated and recurrent urinary tract infections caused by P. aeruginosa, Proteus spp (indole-positive and indole-negative), E. coli, Klebsiella spp, Enterobacter spp, Serratia spp, S. aureus, Providencia spp, and Citrobacter spp
 
 Aminoglycosides, including tobramycin, are not indicated in uncomplicated initial episodes of urinary tract infections unless the causative organisms are not susceptible to antibiotics having less potential toxicity.
 Tobramycin may be considered in serious staphylococcal infections when penicillin or other potentially less toxic drugs are contraindicated and when bacterial susceptibility testing and clinical judgment indicate its use.

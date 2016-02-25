@@ -1,4 +1,4 @@
-# DOSAGE AND ADMINISTRATION
+# DOSAGE AND ADMINISTRATION:
 
 Tobramycin may be given intramuscularly or intravenously.
 Recommended dosages are the same for both routes.
@@ -13,7 +13,7 @@ Adults With Life-Threatening Infections: Up to 5 mg/kg/day may be administered i
 The dosage should be reduced to 3 mg/kg/day as soon as clinically indicated.
 To prevent increased toxicity due to excessive blood levels, dosage should not exceed 5 mg/kg/day unless serum levels are monitored (see WARNINGS box and PRECAUTIONS).
 
-| Table 3DOSAGE SCHEDULE GUIDE FOR ADULTS WITH NORMAL RENAL FUNCTION(Dosage at 8-Hour Intervals) |  |  |  |  |  |  |  |
+| Table 3 DOSAGE SCHEDULE GUIDE FOR ADULTS WITH NORMAL RENAL FUNCTION (Dosage at 8-Hour Intervals) |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | For Patient Weighing |  | Usual Dose for Serious Infections |  |  | Maximum Dose for Life-Threatening Infections (Reduce as soon as possible) |  |  |
 | 1 mg/kg q8h |  |  | 1.66 mg/kg q8h |  |  |  |  |
@@ -38,7 +38,7 @@ To prevent increased toxicity due to excessive blood levels, dosage should not e
 | 45 | 99 | 45 mg |  | 1.1 mL | 75 mg |  | 1.9 mL |
 | 40 | 88 | 40 mg |  | 1 mL | 66 mg |  | 1.6 mL |
 
-*Applicable to all product forms except the tobramycin pediatric injection (see HOW SUPPLIED).
+*Applicable to all product forms except Tobramycin Injection Pediatric, 10 mg/mL (see HOW SUPPLIED).
 
 Pediatric Patients (greater than 1 week of age): 6 to 7.5 mg/kg/day in 3 or 4 equally divided doses (2 to 2.5 mg/kg every 8 hours or 1.5 to 1.89 mg/kg every 6 hours).
 
@@ -81,7 +81,7 @@ The appropriate dose may be calculated by using the patient’s estimated lean b
 
 ## Intramuscular Administration
 
-Tobramycin may be administered by withdrawing the approriate dose directly from a vial.
+Tobramycin may be administered by withdrawing the appropriate dose directly from a vial.
 
 ## Intravenous Administration
 

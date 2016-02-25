@@ -1,4 +1,4 @@
-# CLINICAL PHARMACOLOGY
+# CLINICAL PHARMACOLOGY:
 
 Tobramycin is rapidly absorbed following intramuscular administration.
 Peak serum concentrations of tobramycin occur between 30 and 90 minutes after intramuscular administration.
@@ -104,7 +104,7 @@ The disk diffusion values should be interpreted according to the criteria provid
 
 Table 1: Susceptibility Interpretive Criteria for Tobramycin
 
-| Pathogen | Minimum Inhibitory Concentrations (mcg/mL) |  |  | Disk Diffusion Zone DiameterPathogen (mm) |  |  |
+| Pathogen | Minimum Inhibitory Concentrations (mcg/mL) |  |  | Disk Diffusion Zone Diameter Pathogen (mm) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | S | I | R | S | I | R |
 | Staphylococcus aureus (includes methicillin-susceptible and methicillin resistant isolates) | ≤ 4 | 8 | ≥ 16 | ≥ 15 | 13 to 14 | ≤ 12 |

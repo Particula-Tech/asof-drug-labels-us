@@ -1,4 +1,4 @@
-# BOXED WARNING
+# WARNINGS
 
 Patients treated with tobramycin injection and other aminoglycosides should be under close clinical observation, because these drugs have an inherent potential for causing ototoxicity and nephrotoxicity.
 

@@ -1,4 +1,4 @@
-# OVERDOSAGE
+# OVERDOSAGE:
 
 ## Signs and Symptoms
 
@@ -24,7 +24,7 @@ If tobramycin were ingested, toxicity would be less likely because aminoglycosid
 
 In all cases of suspected overdosage, call your Regional Poison Control Center to obtain the most up-to-date information about the treatment of overdose.
 This recommendation is made because, in general, information regarding the treatment of overdosage may change more rapidly than the package insert.
-In managing overdosage, consider the possibility of multiple drug overdoses, interaction among drugs, and unusual drug kinetics in your patient.
+In managing overdose, consider the possibility of multiple drug overdoses, interaction among drugs, and unusual drug kinetics in your patients.
 
 The initial intervention in a tobramycin overdose is to establish an airway and ensure oxygenation and ventilation.
 Resuscitative measures should be initiated promptly if respiratory paralysis occurs.
