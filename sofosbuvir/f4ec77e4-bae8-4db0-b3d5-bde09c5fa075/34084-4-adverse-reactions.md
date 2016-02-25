@@ -62,6 +62,26 @@ The safety assessment of HARVONI was based on an open-label clinical trial in 33
 The safety profile in HCV/HIV-1 co-infected subjects was similar to that observed in HCV mono-infected subjects.
 The most common adverse reactions occurring in at least 10% of subjects were headache (20%) and fatigue (17%).
 
+Adverse Reactions in Liver Transplant Recipients and/or Subjects with Decompensated Cirrhosis
+
+The safety assessment of HARVONI with ribavirin (RBV) in liver transplant recipients and/or those who had decompensated liver disease was based on pooled data from two Phase 2 open-label clinical trials including 336 subjects who received HARVONI plus RBV for 12 weeks.
+Subjects with Child-Pugh-Turcotte (CPT) scores greater than 12 were excluded from the trials [see Clinical Studies (14.5)].
+
+The adverse events observed were consistent with the expected clinical sequelae of liver transplantation and/or decompensated liver disease, or the known safety profile of HARVONI and/or ribavirin.
+
+Decreases in hemoglobin to less than 10 g/dL and 8.5 g/dL during treatment were observed in 38% and 13% of subjects treated with HARVONI plus RBV for 12 weeks, respectively.
+Ribavirin was permanently discontinued in 11% of subjects treated with HARVONI plus RBV for 12 weeks.
+
+Liver Transplant Recipients with Compensated Liver Disease:
+
+Among the 174 liver transplant recipients with compensated liver disease who received HARVONI with RBV for 12 weeks, 2 (1%) subjects permanently discontinued HARVONI due to an adverse event.
+
+Subjects with Decompensated Liver Disease:
+
+Among the 162 subjects with decompensated liver disease (pre- or post-transplant) who received HARVONI with RBV for 12 weeks, 7 (4%) subjects died, 4 (2%) subjects underwent liver transplantation, and 1 subject (<1%) underwent liver transplantation and died during treatment or within 30 days after discontinuation of treatment.
+Because these events occurred in patients with advanced liver disease who are at risk of progression of liver disease including liver failure and death, it is not possible to reliably assess the contribution of drug effect to outcomes.
+A total of 4 (2%) subjects permanently discontinued HARVONI due to an adverse event.
+
 Less Common Adverse Reactions Reported in Clinical Trials (less than 5%): The following adverse reactions occurred in less than 5% of subjects receiving HARVONI in any one trial.
 These events have been included because of their seriousness or assessment of potential causal relationship.
 

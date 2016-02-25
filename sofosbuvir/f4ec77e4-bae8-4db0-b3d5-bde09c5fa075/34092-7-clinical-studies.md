@@ -2,7 +2,7 @@
 
 ## 14.1 Description of Clinical Trials
 
-The efficacy and safety of HARVONI were evaluated in four trials in genotype 1 HCV mono-infected subjects including one trial exclusively in treatment-experienced subjects with compensated cirrhosis (Child-Pugh A), one trial in genotype 1 or 4 HCV/HIV-1 co-infected subjects, and two trials in genotype 4, 5 or 6 HCV mono-infected subjects, as summarized in Table 7 [see Clinical Studies (14.2,14.3, and 14.4)]:
+The efficacy and safety of HARVONI were evaluated in four trials in genotype 1 HCV mono-infected subjects including one trial exclusively in treatment-experienced subjects with compensated cirrhosis (Child-Pugh A), one trial in genotype 1 or 4 HCV/HIV-1 co-infected subjects, two trials in genotype 4, 5 or 6 HCV mono-infected subjects and two trials in genotype 1 or 4 HCV infected pretransplant subjects with decompensated cirrhosis (Child-Pugh B and C) or posttransplant with Metavir F0–F3 fibrosis, compensated cirrhosis, decompensated cirrhosis or fibrosing cholestatic hepatitis (FCH), as summarized in Table 7 [see Clinical Studies (14.2,14.3, 14.4 and 14.5)]:
 
 Table 7 Trials Conducted with HARVONI with or without Ribavirin in Subjects with Chronic HCV Genotype 1, 4, 5 or 6 Infection
 
@@ -14,13 +14,16 @@ Table 7 Trials Conducted with HARVONI with or without Ribavirin in Subjects with
 | SIRIUS (double-blind) | GT1, TE with cirrhosis | HARVONI+RBV 12 Weeks (77) HARVONI 24 weeks (77) |
 | ION-4 (open-label) | GT1 and GT4 HCV/HIV-1 co-infected TN and TE with or without cirrhosis | HARVONI 12 Weeks (N=327 for GT1; N=8 for GT4) |
 | Study 1119 (open-label) | GT4 and GT5, TN and TE with or without cirrhosis | HARVONI 12 Weeks (N=44 for GT4; N=41 for GT5) |
-| ELECTRON-2 (open-label) | GT6, TN and TE with or without cirrhosis | HARVONI 12 Weeks (N=25) |
+| ELECTRON-2 (open-label) | GT6, TN and TE with or without cirrhosis | HARVONI 12 Weeks (25) |
+| SOLAR-1 and SOLAR-2 (open-label) | GT1 and GT4 pre-transplant with decompensated cirrhosis or post-transplant with Metavir F0–F3 fibrosis, compensated cirrhosis, decompensated cirrhosis, or FCH | HARVONI+RBV 12 Weeks (336) HARVONI+RBV 24 weeks (334) |
 | TN:Treatment naïve subjects TE:Treatment-experienced subjects including those who have failed a peginterferon alfa + ribavirin based regimen with or without an HCV protease inhibitor. |  |  |
 
 HARVONI was administered once daily by mouth in these trials.
-For subjects who received ribavirin (RBV), the RBV dosage was 1000 mg per day for subjects weighing less than 75 kg or 1200 mg per day for subjects weighing at least 75 kg.
+For subjects without cirrhosis or with compensated cirrhosis who received ribavirin (RBV), the RBV dosage was 1000 mg per day for subjects weighing less than 75 kg or 1200 mg per day for subjects weighing at least 75 kg.
+For subjects with decompensated cirrhosis in SOLAR-1 and SOLAR-2 studies, the starting RBV dosage was 600 mg per day regardless of transplantation status.
 RBV dose adjustments were performed according to the RBV labeling.
-Serum HCV RNA values were measured during the clinical trials using the COBAS TaqMan HCV test (version 2.0), for use with the High Pure System in ION-3, ION-1, ION-2, SIRIUS and ION-4 studies or the COBAS AmpliPrep/COBAS Taqman HCV test (version 2.0) in ELECTRON-2, and 1119.
+
+Serum HCV RNA values were measured during the clinical trials using the COBAS TaqMan HCV test (version 2.0), for use with the High Pure System in ION-3, ION-1, ION-2, SIRIUS and ION-4 studies or the COBAS AmpliPrep/COBAS Taqman HCV test (version 2.0) in ELECTRON-2, 1119, SOLAR-1 and SOLAR-2 studies.
 The COBAS TaqMan HCV test (version 2.0) for use with the High Pure System has a lower limit of quantification (LLOQ) of 25 IU per mL and the COBAS AmpliPrep/COBAS Taqman HCV test (version 2.0) has a LLOQ of 15 IU per mL.
 Sustained virologic response (SVR12) was the primary endpoint and was defined as HCV RNA less than LLOQ at 12 weeks after the cessation of treatment.
 Relapse was a secondary endpoint, which was defined as HCV RNA greater than or equal to LLOQ with 2 consecutive values or last available post-treatment measurement during the post-treatment period after achieving HCV RNA less than LLOQ at end of treatment.
@@ -234,3 +237,39 @@ In the ION-1, ION-2, and ION-3 HCV mono-infection studies, relapse rates were 3%
 No subject had HIV-1 rebound during the study.
 The percentage of CD4+ cells did not change during treatment.
 Median CD4+ cell count increase of 29 cells/mm3 was observed at the end of treatment with HARVONI for 12 weeks.
+
+## 14.5 Clinical Trials in Liver Transplant Recipients and/or Subjects with Decompensated Cirrhosis
+
+SOLAR-1 and SOLAR-2 were two open-label trials that evaluated 12 and 24 weeks of treatment with HARVONI in combination with ribavirin in HCV treatment-naïve and previously-treated subjects with genotype 1 and 4 infection who had undergone liver transplantation and/or who had decompensated liver disease.
+The two trials were identical in study design.
+Subjects were enrolled in one of the seven groups in the trials based on liver transplantation status and severity of hepatic impairment (see Table 16).
+Subjects with a CPT score greater than 12 were excluded.
+Within each group, subjects were randomized in a 1:1 ratio to receive HARVONI + RBV for 12 weeks or HARVONI + RBV for 24 weeks.
+For subjects with decompensated cirrhosis in SOLAR-1 and SOLAR-2 studies, the starting RBV dosage was 600 mg per day regardless of transplantation status.
+RBV dose adjustments were performed according to the RBV labeling [see Clinical Studies (14.1)].
+
+Demographics and baseline characteristics were balanced across the treatment groups.
+Of the 670 treated subjects, the median age was 59 years (range: 21 to 81); 77% of the subjects were male; 91% were White; mean body mass index was 28 kg/m2 (range: 18 to 49 kg/m2); 94% and 6% had genotype 1 and 4 HCV infection, respectively; 78% of the subjects failed a prior HCV therapy.
+
+Table 16 presents the pooled SVR12 rates for SOLAR-1 and SOLAR-2 in subjects with genotype 1 HCV treated with HARVONI+RBV for 12 weeks.
+The SVR12 rates observed with 24 weeks of HARVONI+RBV were similar to the SVR12 rates observed with 12 weeks of treatment.
+Therefore, the results for the HARVONI+RBV 24 weeks arm are not presented in Table 16.
+
+Table 16 Studies SOLAR-1 and SOLAR-2: SVR12 and Relapse Rates After 12 Weeks of Treatment with HARVONI and Ribavirin in Subjects with Genotype 1 HCV Who Were Post Liver Transplant and/or Who Had Decompensated Liver Disease
+
+|  | SVR12 (N=300)Five subjects transplanted prior to post-treatment Week 12 with HCV RNA<LLOQ at last measurement prior to transplant were excluded.,Two subjects were excluded due to failure to meet the inclusion criteria for any of the treatment groups (i.e., did not have decompensated cirrhosis and had also not received a liver transplant). | Relapse (N=288),,Twelve subjects were excluded from relapse analysis because they died (N=11) or withdrew consent (N=1) prior to reaching the 12 week posttreatment follow-up visit. |
+| --- | --- | --- |
+|  | HARVONI + RBV 12 weeks N=307 |  |
+| Pre-transplant |  |  |
+| CPT B | 87% (45/52) | 12% (6/51) |
+| CPT C | 88% (35/40) | 5% (2/37) |
+| Post-transplant |  |  |
+| Metavir score F0–F3 | 95% (94/99) | 3% (3/97) |
+| CPT A | 98% (55/56) | 0% (0/55) |
+| CPT B | 89% (41/46) | 2% (1/42) |
+| CPT C | 57% (4/7) | 33% (2/6) |
+
+There were 7 subjects with fibrosing cholestatic hepatitis in the 12 week treatment arm; and all subjects achieved SVR12.
+
+In genotype 4 HCV post-transplant subjects without cirrhosis or with compensated cirrhosis treated with HARVONI+RBV for 12 weeks (N=12), the SVR12 rate was similar to rates reported with genotype 1; no subjects relapsed.
+Available data in subjects with genotype 4 HCV who had decompensated cirrhosis (pre- and post-liver transplantation) were insufficient for dosing recommendations, therefore these results are not presented.

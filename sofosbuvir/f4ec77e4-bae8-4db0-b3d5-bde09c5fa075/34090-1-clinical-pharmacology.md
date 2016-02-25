@@ -71,14 +71,6 @@ The median terminal half-lives of sofosbuvir and GS-331007 following administrat
 
 Specific Populations
 
-Patients with Renal Impairment: The pharmacokinetics of ledipasvir were studied with a single dose of 90 mg ledipasvir in HCV negative subjects with severe renal impairment (eGFR less than 30 mL/min by Cockcroft-Gault).
-No clinically relevant differences in ledipasvir pharmacokinetics were observed between healthy subjects and subjects with severe renal impairment.
-
-The pharmacokinetics of sofosbuvir were studied in HCV negative subjects with mild (eGFR between 50 to less than 80 mL/min/1.73m2), moderate (eGFR between 30 to less than 50 mL/min/1.73m2), severe renal impairment (eGFR less than 30 mL/min/1.73m2), and subjects with ESRD requiring hemodialysis following a single 400 mg dose of sofosbuvir.
-Relative to subjects with normal renal function (eGFR greater than 80 mL/min/1.73m2), the sofosbuvir AUC0–inf was 61%, 107%, and 171% higher in mild, moderate, and severe renal impairment, while the GS-331007 AUC0–inf was 55%, 88%, and 451% higher, respectively.
-In subjects with ESRD, relative to subjects with normal renal function, sofosbuvir and GS-331007 AUC0–inf was 28% and 1280% higher when sofosbuvir was dosed 1 hour before hemodialysis compared with 60% and 2070% higher when sofosbuvir was dosed 1 hour after hemodialysis, respectively.
-A 4 hour hemodialysis session removed approximately 18% of administered dose [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
-
 Race: Population pharmacokinetics analysis in HCV-infected subjects indicated that race had no clinically relevant effect on the exposure of ledipasvir, sofosbuvir, and GS-331007.
 
 Gender: Population pharmacokinetics analysis in HCV-infected subjects indicated that gender had no clinically relevant effect on the exposure of sofosbuvir and GS-331007.
@@ -88,11 +80,19 @@ Pediatric Patients: The pharmacokinetics of ledipasvir or sofosbuvir in pediatri
 
 Geriatric Patients: Population pharmacokinetic analysis in HCV-infected subjects showed that within the age range (18 to 80 years) analyzed, age did not have a clinically relevant effect on the exposure to ledipasvir, sofosbuvir, and GS-331007 [see Use in Specific Populations (8.5)].
 
+Patients with Renal Impairment: The pharmacokinetics of ledipasvir were studied with a single dose of 90 mg ledipasvir in HCV negative subjects with severe renal impairment (eGFR less than 30 mL/min by Cockcroft-Gault).
+No clinically relevant differences in ledipasvir pharmacokinetics were observed between healthy subjects and subjects with severe renal impairment.
+
+The pharmacokinetics of sofosbuvir were studied in HCV negative subjects with mild (eGFR between 50 to less than 80 mL/min/1.73m2), moderate (eGFR between 30 to less than 50 mL/min/1.73m2), severe renal impairment (eGFR less than 30 mL/min/1.73m2), and subjects with ESRD requiring hemodialysis following a single 400 mg dose of sofosbuvir.
+Relative to subjects with normal renal function (eGFR greater than 80 mL/min/1.73m2), the sofosbuvir AUC0–inf was 61%, 107%, and 171% higher in mild, moderate, and severe renal impairment, while the GS-331007 AUC0–inf was 55%, 88%, and 451% higher, respectively.
+In subjects with ESRD, relative to subjects with normal renal function, sofosbuvir and GS-331007 AUC0–inf was 28% and 1280% higher when sofosbuvir was dosed 1 hour before hemodialysis compared with 60% and 2070% higher when sofosbuvir was dosed 1 hour after hemodialysis, respectively.
+A 4 hour hemodialysis session removed approximately 18% of administered dose [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
+
 Patients with Hepatic Impairment: The pharmacokinetics of ledipasvir were studied with a single dose of 90 mg ledipasvir in HCV negative subjects with severe hepatic impairment (Child-Pugh Class C). Ledipasvir plasma exposure (AUC0–inf) was similar in subjects with severe hepatic impairment and control subjects with normal hepatic function.
-Population pharmacokinetics analysis in HCV-infected subjects indicated that cirrhosis had no clinically relevant effect on the exposure of ledipasvir [see Use in Specific Populations (8.7)].
+Population pharmacokinetics analysis in HCV-infected subjects indicated that cirrhosis (including decompensated cirrhosis) had no clinically relevant effect on the exposure of ledipasvir [see Use in Specific Populations (8.7)].
 
 The pharmacokinetics of sofosbuvir were studied following 7-day dosing of 400 mg sofosbuvir in HCV-infected subjects with moderate and severe hepatic impairment (Child-Pugh Class B and C). Relative to subjects with normal hepatic function, the sofosbuvir AUC0–24 were 126% and 143% higher in moderate and severe hepatic impairment, while the GS-331007 AUC0–24 were 18% and 9% higher, respectively.
-Population pharmacokinetics analysis in HCV-infected subjects indicated that cirrhosis had no clinically relevant effect on the exposure of sofosbuvir and GS-331007 [see Use in Specific Populations (8.7)].
+Population pharmacokinetics analysis in HCV-infected subjects indicated that cirrhosis (including decompensated cirrhosis) had no clinically relevant effect on the exposure of sofosbuvir and GS-331007 [see Use in Specific Populations (8.7) and Clinical Studies (14.5)].
 
 Drug Interaction Studies
 
@@ -160,7 +160,6 @@ Ledipasvir is not an inhibitor of transporters MRP2, MRP4, OCT2, OAT1, OAT3, MAT
 The drug-drug interaction potential of ledipasvir is primarily limited to the intestinal inhibition of P-gp and BCRP.
 Clinically relevant transporter inhibition by ledipasvir in the systemic circulation is not expected due to its high protein binding.
 Sofosbuvir and GS-331007 are not inhibitors of drug transporters P-gp, BCRP, MRP2, BSEP, OATP1B1, OATP1B3, and OCT1, and GS-331007 is not an inhibitor of OAT1, OCT2, and MATE1.
-
 Ledipasvir, sofosbuvir, and GS-331007 are not inhibitors or inducers of CYP or UGT1A1 enzymes.
 
 The effects of ledipasvir or sofosbuvir on the exposure of coadministered drugs are shown in Table 6 [see Drug Interactions (7.2)].
@@ -236,7 +235,7 @@ In Clinical Trials
 Genotype 1
 
 In a pooled analysis of subjects who received HARVONI in Phase 3 trials (ION-3, ION-1 and ION-2), 37 subjects (29 with genotype 1a HCV and 8 with genotype 1b HCV) qualified for resistance analysis due to virologic failure (35 with virologic relapse, 2 with breakthrough on-treatment due to documented non-adherence).
-Post-baseline NS5A and NS5B deep nucleotide sequence analysis data (assay cutoff of 1%) were available for 37/37 and 36/37 subjects' viruses, respectively.
+Post-baseline NS5A and NS5B deep nucleotide sequence analysis data (assay sensitivity of 1%) were available for 37/37 and 36/37 subjects' viruses, respectively.
 
 Of the 29 genotype 1a virologic failure subjects, 55% (16/29) of subjects had virus with emergent NS5A resistance-associated substitutions K24R, M28T/V, Q30R/H/K/L, L31M, or Y93H/N at failure.
 Five of these 16 subjects' viruses also had baseline NS5A polymorphisms at resistance-associated amino acid positions.
@@ -248,12 +247,15 @@ The most common substitution detected at failure was Y93H.
 
 At failure, 38% (14/37) of virologic failure subjects' viruses had 2 or more NS5A substitutions at resistance-associated positions.
 
+In the SOLAR-1 and SOLAR-2 trials (liver transplant recipients or subjects with decompensated liver disease), there were 24 virologic failures with genotype 1 infection (20 relapsers and 4 subjects who discontinued treatment prior to achieving HCV RNA <LLOQ).
+Treatment-emergent NS5A resistance-associated substitutions K24R, M28T, Q30R/H/K, L31V, H58D/P and/or Y93H/C were detected in 14/17 (82%) genotype 1a virologic failure subjects, and R30Q, L31M and/or Y93H/N were detected in 6/7 (86%) genotype 1b virologic failure subjects.
+
 In phenotypic analyses, post-baseline isolates from subjects who harbored NS5A resistance-associated substitutions at failure showed 20- to >243-fold reduced susceptibility to ledipasvir.
 
-Treatment-emergent NS5B substitutions L159 (n=1) and V321 (n=2) previously associated with sofosbuvir failure were detected in the Phase 3 trials.
-In addition, NS5B substitutions at highly conserved positions D61G (n=3), A112T (n=2), E237G (n=2), and S473T (n=1) were detected at low frequency by next generation sequencing in treatment failure subjects infected with HCV genotype 1a.
+Treatment-emergent NS5B substitutions L159 (n=1) and V321 (n=2) previously associated with sofosbuvir failure were detected in the Phase 3 trials (ION-3, ION-1 and ION-2).
+In addition, treatment-emergent NS5B substitutions at highly conserved positions D61G (n=3), A112T (n=2), E237G (n=2), and S473T (n=1) were detected at low frequency by next generation sequencing in treatment failure subjects infected with HCV genotype 1a.
 The D61G substitution was previously described in subjects infected with HCV genotype 1a in a liver pre-transplant trial.
-The clinical significance of these substitutions is currently unknown.
+The E237G substitution was detected in 3 subjects infected with HCV GT1a in the SOLAR-1 and SOLAR-2 trials.The clinical significance of these substitutions is currently unknown.
 The sofosbuvir-associated resistance substitution S282T in NS5B was not detected in any failure isolate from the Phase 3 trials.
 NS5B substitutions S282T, L320V/I, and V321I in combination with NS5A substitutions L31M, Y93H, and Q30L were detected in one subject at failure following 8 weeks of treatment with HARVONI in a Phase 2 trial.
 
@@ -276,7 +278,7 @@ Effect of Baseline HCV Polymorphisms on Treatment Response
 Genotype 1
 
 Analyses were conducted to explore the association between pre-existing baseline NS5A polymorphisms at resistance-associated positions and relapse rates.
-In the pooled analysis of the Phase 3 trials, 23% (370/1589) of subjects' virus had baseline NS5A polymorphisms at resistance-associated positions (any change from reference at NS5A amino acid positions 24, 28, 30, 31, 58, 92, or 93) identified by population or deep nucleotide sequence analysis.
+In the pooled analysis of the Phase 3 trials, 23% (370/1589) of subjects' virus had baseline NS5A polymorphisms at resistance-associated positions (any change from reference at NS5A amino acid positions 24, 28, 30, 31, 58, 92, or 93) identified by population or analysis of deep nucleotide sequences with a 15% frequency threshold.
 
 In treatment-naïve subjects whose virus had baseline NS5A polymorphisms at resistance-associated positions in Studies ION-1 and ION-3, relapse rates were 6% (3/48) after 8 weeks and 1% (1/113) after 12 weeks of treatment with HARVONI.
 Relapse rates among subjects without baseline NS5A polymorphisms at resistance-associated positions were 5% (8/167) after 8 weeks and 1% (3/306) after 12 weeks treatment with HARVONI.
@@ -284,17 +286,19 @@ Relapse rates among subjects without baseline NS5A polymorphisms at resistance-a
 In treatment-experienced subjects in Study ION-2 whose virus had baseline NS5A polymorphisms at resistance-associated positions, relapse rates were 22% (5/23) after 12 weeks and 0% (0/19) after 24 weeks of treatment with HARVONI.
 In another study in treatment-experienced subjects (SIRIUS), 0/15 (0%) subjects with NS5A polymorphisms at resistance-associated positions relapsed after 12 weeks of treatment with HARVONI+RBV compared to 2/15 (13%) subjects treated with 24 weeks of HARVONI.
 
-The specific baseline NS5A resistance-associated polymorphisms observed among subjects with relapse were M28T/V, Q30H, Q30R, L31M, H58P, Y93H, and Y93N in genotype 1a, and L28M, A92T, and Y93H in genotype 1b.
-Subjects with multiple NS5A polymorphisms at resistance-associated positions appeared to have higher relapse rates.
-
 SVR was achieved in all 24 subjects (N=20 with L159F+C316N; N=1 with L159F; and N=3 with N142T) who had baseline polymorphisms associated with resistance to sofosbuvir and/or other NS5B nucleoside inhibitors.
 The NS5B S282T substitution associated with resistance to sofosbuvir was not detected in the baseline NS5B sequence of any subject in Phase 3 trials by population or deep nucleotide sequence analysis.
+
+In the SOLAR-1 and SOLAR-2 trials (liver transplant recipients or subjects with decompensated liver disease), after 12 weeks of treatment with HARVONI and RBV, relapse rates were 7% (5/71) and 5% (10/217) in genotype 1 subjects with and without baseline NS5A polymorphisms at resistance-associated positions, respectively.
+
+In the Phase 3 trials and SOLAR trials, the specific baseline NS5A resistance-associated polymorphisms observed among subjects who relapsed were M28T/V, Q30H/R, L31M, H58D/P, and Y93H/N in genotype 1a, and L28M, L31M, A92T, and Y93H in genotype 1b.
+Subjects with multiple NS5A polymorphisms at resistance-associated positions appeared to have higher relapse rates.
 
 Genotype 4, 5 or 6
 
 Phylogenetic analysis of HCV sequences from genotype 4-infected subjects in Study 1119 (N=44) and ION-4 (N=8) identified 7 HCV genotype 4 subtypes (4a, 4b, 4d, 4f, 4m, 4o and 4r).
 Most subjects were infected with subtype 4a (N=32; 62%) or 4d (N=11; 21%); 1 to 3 subjects were infected with each of the other genotype 4 subtypes.
-There were 3 subjects with subtype 4r, 2 of whom experienced virologic relapse, and both had a combination of 3 pretreatment NS5A resistance-associated polymorphisms (L28M/V+L30R+M31M).
+There were 3 subjects with subtype 4r, 2 of whom experienced virologic relapse, and both had a combination of 2 pretreatment NS5A resistance-associated polymorphisms (L28M/V+L30R).
 
 Phylogenetic analysis of HCV sequences from genotype 5-infected subjects in Study 1119 showed almost all were subtype 5a (N=39) with one subject not having a subtype identified at screening or by analysis.
 
@@ -304,10 +308,10 @@ One to three subjects were infected with the other subtypes 6l, 6m, 6p, 6q, or 6
 The one subject who did not achieve SVR12 had subtype 6l.
 
 Although the data are limited, baseline HCV NS5A resistance-associated polymorphisms are not expected to impact the likelihood of achieving SVR when HARVONI is used as recommended to treat HCV genotype 4, 5, or 6-infected patients, based on the low virologic failure rate observed in Study 1119 and ELECTRON-2.
-The specific baseline polymorphisms observed in subjects with virologic failure were L28M/V, L30R, L31M and P58T for genotype 4; L31M for genotype 5; and Q24K, F28V, R30A and T58P for genotype 6.
+The specific baseline polymorphisms observed in subjects with virologic failure were L28M/V, L30R, and P58T for genotype 4; L31M for genotype 5; and Q24K, F28V, R30A and T58P for genotype 6.
 
 Relapse occurred in 2 of 3 genotype 4 subjects who had baseline NS5B V321I, a polymorphism at a position associated with treatment failure to sofosbuvir and other nucleoside inhibitors; these two subjects also had baseline NS5A resistance-associated polymorphisms.
-For genotype 5 and 6, SVR12 was achieved in subjects who had baseline NS5B polymorphisms at positions associated with resistance to nucleoside inhibitors (N=1 with N142T in genotype 5; N=1 with M289I in genotype 5; N=15 with M289L/I in genotype 6).
+For genotype 5 and 6, SVR12 was achieved in subjects who had baseline NS5B polymorphisms at positions associated with resistance to sofosbuvir and other nucleoside inhibitors (N=1 with N142T in genotype 5; N=1 with M289I in genotype 5; N=15 with M289L/I in genotype 6).
 The sofosbuvir resistance-associated substitution S282T was not detected in the baseline NS5B sequence of any subject with genotype 4, 5 or 6 HCV in clinical trials by population or deep nucleotide sequence analysis.
 
 Cross Resistance
