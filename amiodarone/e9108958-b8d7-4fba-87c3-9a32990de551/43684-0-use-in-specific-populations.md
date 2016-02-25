@@ -20,7 +20,7 @@ Reported risks include:
 
 Amiodarone has caused a variety of adverse effects in animals.
 
-Amiodarone was given intravenously to rabbits at dosages of 5, 10, or 25 mg/kg per day (about 0.1, 0.3, and 0.7 times human intravenous maintenance dose of 0.5mg/min on a body surface area basis), during gestation days 8 to 16 (organogenesis).
+Amiodarone was given intravenously to rabbits at dosages of 5, 10, or 25 mg/kg per day (about 0.1, 0.3, and 0.7 times human intravenous maintenance dose of 0.5 mg/min on a body surface area basis), during gestation days 8 to 16 (organogenesis).
 The incidence of maternal deaths increased with increasing dose and occurred in all treated groups and controls.
 Mean fetal weights were significantly decreased in the low and middle dose groups and embryotoxicity (as manifested by fewer full-term fetuses and increased resorptions) occurred at dosages of 10 mg/kg and above.
 There were no significant differences in the number of minor fetal abnormalities and no major fetal abnormalities were observed.

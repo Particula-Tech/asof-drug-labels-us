@@ -44,7 +44,7 @@ Blood and Lymphatic System Disorders: pancytopenia, neutropenia, hemolytic anemi
 
 Cardiac Disorders: sinus node dysfunction (sinus arrest, sinoatrial block), intraventricular conduction disorders including bundle branch block and infra-HIS block, bradycardia (sometimes fatal), ventricular extrasystoles, and antegrade conduction via an accessory pathway.
 
-Endocrine Disorders: syndrome of inappropriate antidiuretic hormone secretion (SIADH)
+Endocrine Disorders: syndrome of inappropriate antidiuretic hormone secretion (SIADH).
 
 Eye Disorders: visual field defect and blurred vision.
 

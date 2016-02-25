@@ -6,7 +6,7 @@ The recommended starting dose of NEXTERONE is about 1000 mg over the first 24 ho
 
 Table 1: NEXTERONE PREMIXED INJECTION DOSE RECOMMENDATIONS: FIRST 24 HOURS
 
-| Loading infusions | First Rapid: | 150 mg over the FIRST 10 minutes (15 mg/min).Directly infuse NEXTERONE Premixed Injection (150 mg/100 mL; 1.5mg/mL) at a rate of 10mL/min. |
+| Loading infusions | First Rapid: | 150 mg over the FIRST 10 minutes (15 mg/min).Directly infuse NEXTERONE Premixed Injection (150 mg/100 mL; 1.5 mg/mL) at a rate of 10mL/min. |
 | --- | --- | --- |
 |  | Followed by Slow: | 360 mg over the NEXT 6 hours (1 mg/min). Directly infuse NEXTERONE Premixed Injection (360 mg/200 mL; 1.8 mg/mL) at a rate of 0.556 mL/min. |
 | Maintenance infusion |  | 540 mg over the REMAINING 18 hours (0.5 mg/min). Decrease the rate of the slow loading infusion to 0.5 mg/min. Directly infuse NEXTERONE Premixed Injection (360 mg/200 mL; 1.8 mg/mL) at a rate of 0.278 mL/min. |

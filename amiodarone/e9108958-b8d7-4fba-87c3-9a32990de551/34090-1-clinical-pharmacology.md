@@ -99,7 +99,7 @@ Effect of amiodarone on other drugs:
 Amiodarone taken concomitantly with quinidine increases quinidine serum concentration by 33% after two days.
 Amiodarone taken concomitantly with procainamide for less than seven days increases plasma concentrations of procainamide and n-acetyl procainamide by 55% and 33%, respectively.
 
-Loratadine, a non-sedating antihistaminic, is metabolized primarily by CYP3A and its metabolism can be inhibited by amiodarone
+Loratadine, a non-sedating antihistaminic, is metabolized primarily by CYP3A and its metabolism can be inhibited by amiodarone.
 
 Metabolism of lidocaine can be inhibited by amiodarone.
 Sinus bradycardia has been reported with oral amiodarone in combination with lidocaine (CYP3A substrate) given for local anesthesia.

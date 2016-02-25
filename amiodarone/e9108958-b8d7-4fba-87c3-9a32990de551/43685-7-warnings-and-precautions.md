@@ -33,7 +33,7 @@ In 81% of patients with both baseline and on-therapy data available, the liver e
 Baseline abnormalities in hepatic enzymes are not a contraindication to treatment.
 Elevated bilirubin levels have been reported in patients administered intravenous amiodarone.
 
-Acute, centrolobular confluent hepatocellular necrosis leading to hepatic coma, acute renal failure, and death has been associated with the administration of intravenous amiodarone (see Dosage and Administration (2)).
+Acute, centrolobular confluent hepatocellular necrosis leading to hepatic coma, acute renal failure, and death has been associated with the administration of intravenous amiodarone [see Dosage and Administration (2)].
 
 In patients with life-threatening arrhythmias, the potential risk of hepatic injury should be weighed against the potential benefit of NEXTERONE therapy.
 Carefully monitor patients receiving NEXTERONE for evidence of progressive hepatic injury.
