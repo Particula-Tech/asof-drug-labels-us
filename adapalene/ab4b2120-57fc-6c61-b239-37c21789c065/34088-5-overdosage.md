@@ -1,4 +1,4 @@
-# OVERDOSAGE
+# OVERDOSAGE:
 
 DIFFERIN® Cream is intended for cutaneous use only.
 If the medication is applied excessively, no more rapid or better results will be obtained and marked redness, scaling, or skin discomfort may occur.

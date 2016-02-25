@@ -1,4 +1,4 @@
-# DOSAGE AND ADMINISTRATION
+# DOSAGE AND ADMINISTRATION:
 
 DIFFERIN® Cream should be applied to affected areas of the skin, once daily at nighttime.
 A thin film of the cream should be applied to the skin areas where acne lesions appear, using enough to cover the entire affected areas lightly.

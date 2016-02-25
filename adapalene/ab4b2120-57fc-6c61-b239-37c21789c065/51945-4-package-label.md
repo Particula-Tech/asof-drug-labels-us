@@ -1,4 +1,4 @@
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+# Package
 
 Differin®
 
@@ -7,6 +7,8 @@ Differin®
 CREAM
 
 0.1%
+
+NDC 0299-5915-45
 
 GALDERMA
 
@@ -18,6 +20,7 @@ Protect from freezing.
 
 Usual dosage: Apply a thin film once a day at nighttime to affected areas.
 See package insert for complete prescribing information.
+See carton closure for lot number and expiration date.
 
 Contains: adapalene 0.1% in an aqueous cream emulsion consisting of carbomer 934P, cyclomethicone, edetate disodium, glycerin, methyl glucose sesquistearate, methylparaben, PEG-20 methyl glucose sesquistearate, phenoxyethanol, propylparaben, purified water, squalane, and trolamine.
 
@@ -29,10 +32,20 @@ Fort Worth, Texas 76177 USA
 
 Manufactured by:
 
-DPT Laboratories, Ltd.
+G Production Inc.
 
-San Antonio, Texas 78215 USA
+Baie d'Urfé, QC
+
+H9X 3S4 Canada
+
+Made in Canada.
 
 GALDERMA is a registered trademark.
 
+P50446-2
+
 www.differin.com
+
+Lot:
+
+Exp.:
