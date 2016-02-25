@@ -1,10 +1,15 @@
 FOR TOPICAL DERMATOLOGICAL USE ONLY (NOT FOR OPHTHALMIC, ORAL, OR INTRAVAGINAL USE)
 
-Distributed by: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807
+Distributed by: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-†Efudex is a registered trademark of Valeant Pharmaceuticals North America LLC.
-All other trademarks are the trademarks or the registered trademarks of their respective owners.
+†Carac and Efudex are trademarks of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
-©2012 Valeant Pharmaceuticals North America LLC
+Any other product/brand names are trademarks of their respective owners.
 
-50083783D
+©2016 Valeant Pharmaceuticals North America LLC
+
+Revised: 11/2015
+
+9499601
+
+50083783G

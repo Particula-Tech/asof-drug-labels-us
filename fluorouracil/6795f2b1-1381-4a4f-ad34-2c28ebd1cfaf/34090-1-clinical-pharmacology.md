@@ -9,7 +9,7 @@ The contribution to efficacy or safety of individual components of the vehicle h
 ## Pharmacokinetics
 
 A multiple-dose, randomized, open-label, parallel study was performed in 21 patients with actinic keratoses.
-Twenty patients had pharmacokinetic samples collected: 10 patients treated with Carac and 10 treated with Efudex®* 5% Cream.
+Twenty patients had pharmacokinetic samples collected: 10 patients treated with Carac and 10 treated with Efudex®† 5% Cream.
 Patients were treated for a maximum of 28 days with Carac, 1 g once daily in the morning; or Efudex® 5% Cream, 1 g twice daily, in the morning and evening.
 Steady-state plasma concentrations and the amounts of fluorouracil in urine resulting from the topical application of either product were measured.
 

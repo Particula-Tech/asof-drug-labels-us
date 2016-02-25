@@ -26,7 +26,7 @@ Do not use Carac
 - • if you are allergic to the ingredients in Carac.
   Ask your doctor or pharmacist about the inactive ingredients.
 - • if under 18 years of age.
-  Carac should not be used in children
+  Carac should not be used in children.
 
 Tell your doctor if you are able to become pregnant.
 Your doctor may advise you about birth control to avoid pregnancy.
@@ -36,17 +36,6 @@ How should I use Carac?
 Use Carac once a day as instructed by your doctor.
 Use it only on your skin.
 You should use Carac for up to 4 weeks.
-
-- 1.
-  Clean the area where you will apply Carac.
-  Rinse well and dry the area with a towel and wait 10 minutes before applying Carac.
-- 2.Put Carac on your face as directed by your physician, using your fingertips.
-  Use enough to cover the affected skin.
-- 3.Avoid contact with your eyes, nostrils, and mouth.
-- 4.Wash your hands as soon as you finish putting the Carac on your skin.
-- 5.
-  A moisturizer/sunscreen may be applied 2 hours after Carac has been applied.
-  Do not use any other skin products including creams, lotions, medications or cosmetics -unless instructed by your doctor.
 
 What should I avoid while using Carac?
 
@@ -75,7 +64,7 @@ If you experience any of these symptoms, discontinue therapy immediately, and co
 
 Storage information
 
-Keep this medicine at room temperature (68–77° F/ 20–25° C). Throw away unused medicine.
+Keep this medicine at room temperature 68 to 77° F (20 to 25° C). Throw away unused medicine.
 
 Keep this medicine out of the reach of children.
 
@@ -86,12 +75,14 @@ Do not use it for a condition for which it was not prescribed.
 This medicine is for your use only.
 Never give it to other people.
 It may harm them even if their skin problem appears to be the same as yours.
-Do not use Carac after the expiration date on the tube
+Do not use Carac after the expiration date on the tube.
 
-Prescribing Information as of November 2012.
+Distributed by: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-Distributed by: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807
+©2016 Valeant Pharmaceuticals North America LLC
 
-©2012 Valeant Pharmaceuticals North America LLC
+Revised: 11/2015
 
-50083783D
+9499601
+
+50083783G

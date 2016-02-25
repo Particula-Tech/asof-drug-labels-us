@@ -1,7 +1,7 @@
 # DOSAGE AND ADMINISTRATION
 
 Carac cream should be applied once a day to the skin where actinic keratosis lesions appear, using enough to cover the entire area with a thin film.
-Carac cream should not be applied near the eyes, nostrils or mouth.
+Carac cream should not be applied near the eyes, nostrils, or mouth.
 Carac cream should be applied ten minutes after thoroughly washing, rinsing, and drying the entire area.
 Carac cream may be applied using the fingertips.
 Immediately after application, the hands should be thoroughly washed.

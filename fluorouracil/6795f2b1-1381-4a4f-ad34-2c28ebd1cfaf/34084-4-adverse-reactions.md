@@ -22,7 +22,7 @@ Mean severity declined rapidly for each active group after completion of treatme
 Thirty-one patients (12% of those treated with Carac in the Phase 3 clinical studies) discontinued study treatment early due to facial irritation.
 Except for three patients, discontinuation of treatment occurred on or after day 11 of treatment.
 
-Eye irritation adverse events, described as mild to moderate in intensity, were characterized as burning, watering, sensitivity, stinging and itching.
+Eye irritation adverse events, described as mild to moderate in intensity, were characterized as burning, watering, sensitivity, stinging, and itching.
 These adverse events occurred across all treatment arms in one of the two Phase 3 studies.
 
 Summary of All Adverse Events Reported in ≥1% of Patients in the Combined Active Treatment and Vehicle Groups - Pooled Phase 3 Studies
@@ -52,8 +52,10 @@ Summary of All Adverse Events Reported in ≥1% of Patients in the Combined Acti
 
 In the Phase 3 studies, no serious adverse event was considered related to study drug.
 A total of five patients, three in the active treatment groups and two in the vehicle group, experienced at least one serious adverse event.
-Three patients died as a result of adverse event(s) considered unrelated to study drug (stomach cancer, myocardial infarction and cardiac failure).
+Three patients died as a result of adverse event(s) considered unrelated to study drug (stomach cancer, myocardial infarction, and cardiac failure).
 
 Post-treatment clinical laboratory tests other than pregnancy tests were not performed during the Phase 3 clinical studies.
 Clinical laboratory tests were performed during conduct of a Phase 2 study of 104 patients and 21 patients in a Phase 1 study.
 No abnormal serum chemistry, hematology, or urinalysis results in these studies were considered clinically significant.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Valeant Pharmaceuticals North America LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
