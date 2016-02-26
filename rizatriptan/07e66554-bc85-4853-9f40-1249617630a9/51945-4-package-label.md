@@ -1,0 +1,5 @@
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
+ASCEND LABORATORIES, LLC NDC 67877-261-30 Rizatriptan Benzoate Tablets 5 mg 30 Tablets Rx Only
+
+ASCEND LABORATORIES, LLC NDC 67877-262-01 Rizatriptan Benzoate Tablets 10 mg 100 Tablets Rx Only

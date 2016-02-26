@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA203269"
+  ],
+  "inn": "rizatriptan",
+  "labeler": "Ascend Laboratories, LLC",
+  "package_ndcs": [
+    "67877-261-01",
+    "67877-261-05",
+    "67877-261-30",
+    "67877-262-01",
+    "67877-262-05",
+    "67877-262-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "rizatriptan benzoate",
+      "name": "Rizatriptan Benzoate"
+    }
+  ],
+  "setid": "07e66554-bc85-4853-9f40-1249617630a9",
+  "source": "dailymed"
+}
