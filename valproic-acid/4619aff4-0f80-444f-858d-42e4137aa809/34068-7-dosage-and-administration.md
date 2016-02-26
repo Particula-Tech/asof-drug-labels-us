@@ -87,3 +87,7 @@ Administration of Sprinkle Capsules
 Depakote Sprinkle Capsules may be swallowed whole or may be administered by carefully opening the capsule and sprinkling the entire contents on a small amount (teaspoonful) of soft food such as applesauce or pudding.
 The drug/food mixture should be swallowed immediately (avoid chewing) and not stored for future use.
 Each capsule is oversized to allow ease of opening.
+
+## 2.3 Dosing in Patients Taking Rufinamide
+
+Patients stabilized on rufinamide before being prescribed valproate should begin valproate therapy at a low dose, and titrate to a clinically effective dose [see Drug Interactions (7.2)].
