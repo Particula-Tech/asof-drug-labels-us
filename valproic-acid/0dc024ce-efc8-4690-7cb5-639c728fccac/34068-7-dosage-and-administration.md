@@ -133,3 +133,7 @@ Compliance
 Patients should be informed to take Depakote ER every day as prescribed.
 If a dose is missed it should be taken as soon as possible, unless it is almost time for the next dose.
 If a dose is skipped, the patient should not double the next dose.
+
+## 2.6 Dosing in Patients Taking Rufinamide
+
+Patients stabilized on rufinamide before being prescribed valproate should begin valproate therapy at a low dose, and titrate to a clinically effective dose [see Drug Interactions (7.2)].

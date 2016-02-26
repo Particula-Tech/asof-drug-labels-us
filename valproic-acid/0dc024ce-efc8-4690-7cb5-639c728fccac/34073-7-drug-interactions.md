@@ -125,6 +125,13 @@ Both the clearance and apparent volume of distribution of free phenytoin were re
 In patients with epilepsy, there have been reports of breakthrough seizures occurring with the combination of valproate and phenytoin.
 The dosage of phenytoin should be adjusted as required by the clinical situation.
 
+Rufinamide
+
+Based on a population pharmacokinetic analysis, rufinamide clearance was decreased by valproate.
+Rufinamide concentrations were increased by <16% to 70%, dependent on concentration of valproate (with the larger increases being seen in pediatric patients at high doses or concentrations of valproate).
+Patients stabilized on rufinamide before being prescribed valproate should begin valproate therapy at a low dose, and titrate to a clinically effective dose [see Dosage and Administration (2.6)].
+Similarly, patients on valproate should begin at a rufinamide dose lower than 10 mg/kg per day (pediatric patients) or 400 mg per day (adults).
+
 Tolbutamide
 
 From in vitro experiments, the unbound fraction of tolbutamide was increased from 20% to 50% when added to plasma samples taken from patients treated with valproate.

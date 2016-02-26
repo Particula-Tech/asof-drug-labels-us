@@ -39,9 +39,9 @@ Conversion from Depakote to Depakote ER
 When Depakote ER is given in doses 8 to 20% higher than the total daily dose of Depakote, the two formulations are bioequivalent.
 In two randomized, crossover studies, multiple daily doses of Depakote were compared to 8 to 20% higher once-daily doses of Depakote ER.
 In these two studies, Depakote ER and Depakote regimens were equivalent with respect to area under the curve (AUC; a measure of the extent of bioavailability).
-Additionally, valproate Cmax was lower, and Cmin was either higher or not different, for Depakote ER relative to Depakote regimens (see Table 9).
+Additionally, valproate Cmax was lower, and Cmin was either higher or not different, for Depakote ER relative to Depakote regimens (see Table 8).
 
-| Table 9. Bioavailability of Depakote ER Tablets Relative to Depakote When Depakote ER Dose is 8 to 20% Higher |  |  |  |  |
+| Table 8. Bioavailability of Depakote ER Tablets Relative to Depakote When Depakote ER Dose is 8 to 20% Higher |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | Study Population | Regimens | Relative Bioavailability |  |  |
 |  | Depakote ER vs. Depakote | AUC24 | Cmax | Cmin |

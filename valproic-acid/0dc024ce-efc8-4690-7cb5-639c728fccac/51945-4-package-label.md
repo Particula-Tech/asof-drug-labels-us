@@ -1,4 +1,4 @@
-NDC 0074–3826–13
+NDC 0074-3826-13
 
 100 Tablets
 
@@ -14,7 +14,7 @@ Dispense the accompanying Medication Guide to each patient.
 
 Rx only abbvie
 
-NDC 0074–7126–11
+NDC 0074-7126-11
 
 100 Tablets
 
@@ -38,7 +38,7 @@ Tamper-Evident: Do not accept if opened or seal has been broken.
 
 THIS PACKAGE FOR HOUSEHOLDS WITHOUT YOUNG CHILDREN
 
-NDC 0074–7126–13
+NDC 0074-7126-13
 
 100 Tablets
 
