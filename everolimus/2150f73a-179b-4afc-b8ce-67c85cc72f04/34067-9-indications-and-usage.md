@@ -18,9 +18,6 @@ AFINITOR® is indicated for the treatment of adult patients with advanced renal 
 
 AFINITOR® is indicated for the treatment of adult patients with renal angiomyolipoma and tuberous sclerosis complex (TSC), not requiring immediate surgery.
 
-The effectiveness of AFINITOR in the treatment of renal angiomyolipoma is based on an analysis of durable objective responses in patients treated for a median of 8.3 months.
-Further follow-up of patients is required to determine long-term outcomes.
-
 ## 1.5 Subependymal Giant Cell Astrocytoma (SEGA) with Tuberous Sclerosis Complex (TSC)
 
 AFINITOR® Tablets and AFINITOR® DISPERZ are indicated in pediatric and adult patients with tuberous sclerosis complex (TSC) for the treatment of subependymal giant cell astrocytoma (SEGA) that requires therapeutic intervention but cannot be curatively resected.

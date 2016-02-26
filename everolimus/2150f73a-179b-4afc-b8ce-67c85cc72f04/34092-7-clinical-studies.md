@@ -108,7 +108,7 @@ CT or MRI scans for disease assessment were obtained at baseline, 12, 24, and 48
 Clinical and photographic assessment of skin lesions were conducted at baseline and every 12 weeks thereafter until treatment discontinuation.
 The major efficacy outcome measure was angiomyolipoma response rate based on independent central radiology review, which was defined as a ≥ 50% reduction in angiomyolipoma volume, absence of new angiomyolipoma lesion ≥ 1 cm, absence of kidney volume increase ≥ 20%, and no angiomyolipoma related bleeding of ≥ Grade 2.
 Key supportive efficacy outcome measures were time to angiomyolipoma progression and skin lesion response rate.
-Analyses of efficacy outcome measures were limited to the blinded treatment period which ended 6 months after the last patient was randomized.
+The primary analyses of efficacy outcome measures were limited to the blinded treatment period and conducted 6 months after the last patient was randomized.
 The comparative angiomyolipoma response rate analysis was stratified by use of enzyme-inducing antiepileptic drugs (EIAEDs) at randomization (yes versus no).
 
 Of the 118 patients enrolled, 79 were randomized to AFINITOR and 39 to placebo.
@@ -117,11 +117,14 @@ At baseline, 17% of patients were receiving EIAEDs.
 On central radiology review at baseline, 92% of patients had at least 1 angiomyolipoma of ≥ 3 cm in longest diameter, 29% had angiomyolipomas ≥ 8 cm, 78% had bilateral angiomyolipomas, and 97% had skin lesions.
 The median values for the sum of all target renal angiomyolipoma lesions at baseline were 85 cm3 (range 9 to 1612 cm3) and 120 cm3 (range 3 to 4520 cm3) in the AFINITOR and placebo arms respectively.
 Forty-six (39%) patients had prior renal embolization or nephrectomy.
-The median duration of follow-up was 8.3 months (range 0.7 to 24.8 months).
+The median duration of follow-up was 8.3 months (range 0.7 to 24.8 months) at the time of the primary analysis.
 
 The renal angiomyolipoma response rate was statistically significantly higher in AFINITOR-treated patients; there were 33 (41.8%) patients with angiomyolipoma responses in the AFINITOR arm as compared to none in the placebo arm.
 Results are displayed in Table 15.
 The median response duration was 5.3+ months (range 2.3+ to 19.6+ months).
+
+There were 3 patients in the AFINITOR arm and 8 patients in the placebo arm with documented angiomyolipoma progression by central radiologic review (defined as a ≥ 25% increase from nadir in the sum of angiomyolipoma target lesion volumes to a value greater than baseline, appearance of a new angiomyolipoma ≥ 1.0 cm in longest diameter, an increase in renal volume ≥ 20% from nadir for either kidney and to a value greater than baseline, or Grade ≥ 2 angiomyolipoma-related bleeding).
+The time to angiomyolipoma progression was statistically significantly longer in the AFINITOR arm (HR 0.08 [95% CI: 0.02, 0.37]; p <0.0001).
 
 Table 15: Angiomyolipoma Response
 
@@ -133,11 +136,17 @@ Table 15: Angiomyolipoma Response
 | 95% CI | (30.8, 53.4) | (0.0, 9.0) |  |
 | a Per independent central radiology review |  |  |  |
 
-There were 3 patients in the AFINITOR arm and 8 patients in the placebo arm with documented angiomyolipoma progression by central radiologic review.
-The time to angiomyolipoma progression was statistically significantly longer in the AFINITOR arm (HR 0.08 [95% CI: 0.02, 0.37]; p <0.0001).
+Skin lesion response rates were assessed by local investigators for 77 patients in the AFINITOR arm and 37 patients in the placebo arm who presented with skin lesions at study entry.
+The skin lesion response rate was statistically significantly higher in the AFINITOR arm (26% versus 0, p=0.0011); all skin lesion responses were partial responses, defined as visual improvement in 50%-99% of all skin lesions durable for at least 8 weeks (Physician's Global Assessment of Clinical Condition).
 
-Skin lesion response rates were assessed by local investigators in 77 patients in the AFINITOR arm and 37 patients in the placebo arm with skin lesions at study entry.
-The skin lesion response rate was statistically significantly higher in the AFINITOR arm (26% versus 0, p=0.0011); all skin lesion responses were partial responses, defined as visual improvement in 50%-99% skin lesions, considering all skin lesions, durable for at least 8 weeks (Physician's Global Assessment of Clinical Condition).
+Patients randomized to placebo were permitted to receive AFINITOR at the time of angiomyolipoma progression or after the time of the primary analysis.
+After the primary analysis, patients treated with AFINITOR underwent additional follow-up CT or MRI scans to assess tumor status until discontinuation of treatment or completion of 4 years of follow-up after the last patient was randomized.
+A total of 112 patients (79 randomized to AFINITOR and 33 randomized to placebo) received at least one dose of AFINITOR.
+The median duration of AFINITOR treatment was 3.9 years (range: 0.5 months to 5.3 years) and the median duration of follow-up was 3.9 years (range: 0.9 months to 5.4 years).
+During the follow-up period after the primary analysis, 32 patients (in addition to the 33 patients identified at the time of the primary analysis) had an angiomyolipoma response based upon independent central radiology review.
+Among the 65 responders out of 112 patients, the median time to angiomyolipoma response was 2.9 months (range: 2.6 to 33.8 months).
+Sixteen of the 112 patients treated with AFINITOR had angiomyolipoma progression by the end of the follow-up period.
+No patient underwent a nephrectomy for angiomyolipoma progression and one patient underwent renal embolization while treated with AFINITOR.
 
 ## 14.5 Subependymal Giant Cell Astrocytoma with Tuberous Sclerosis Complex
 
@@ -149,7 +158,7 @@ MRI scans for disease assessment were obtained at baseline, 12, 24, and 48 weeks
 
 The main efficacy outcome measure was SEGA response rate based on independent central radiology review.
 SEGA response was defined as a ≥ 50% reduction in the sum of SEGA volume relative to baseline, in the absence of unequivocal worsening of non-target SEGA lesions, a new SEGA lesion ≥ 1 cm, and new or worsening hydrocephalus.
-Analysis of SEGA response rate was limited to the blinded treatment period which ended 6 months after the last patient was randomized.
+The primary analysis of SEGA response rate was limited to the blinded treatment period and conducted 6 months after the last patient was randomized.
 The analysis of SEGA response rate was stratified by use of enzyme-inducing antiepileptic drugs (EIAEDs) at randomization (yes versus no).
 
 Of the 117 patients enrolled, 78 were randomized to AFINITOR and 39 to placebo.
@@ -196,7 +205,7 @@ Progression was defined as an increase in volume of the largest SEGA lesion over
 Study 2 enrolled 28 patients who received AFINITOR for a median duration of 5.7 years (range: 5 months to 6.9 years); 23 of 28 patients (82%) remained on AFINITOR for at least 5 years.
 Across the study population, the median age was 11 years (range 3-34), 61% male, 86% Caucasian.
 
-At the final analysis, 9 of 28 patients [32% (95% CI: 16% to 52%)] had an objective response at 6 months, defined as at least a 50% decrease in volume of the largest SEGA lesion.
+At the primary analysis, 9 of 28 patients [32% (95% CI: 16% to 52%)] had an objective response at 6 months, defined as at least a 50% decrease in volume of the largest SEGA lesion.
 At the completion of the study, the median duration of durable response was 12 months (range 3 months to 6.3 years).
 
 By 60 months after the last patient was enrolled, 11% of patients (3/28) had documented disease progression.

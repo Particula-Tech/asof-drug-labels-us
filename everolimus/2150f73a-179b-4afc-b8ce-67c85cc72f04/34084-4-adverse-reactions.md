@@ -387,6 +387,8 @@ Table 9: Key Laboratory Abnormalities Reported in AFINITOR-treated Patients with
 | Fasting hyperglycemia | 14 | 0 | 0 | 8 | 0 | 0 |
 | Grading according to CTCAE Version 3.0 |  |  |  |  |  |  |
 
+Updated safety information from 112 patients treated with AFINITOR for a median duration of 3.9 years identified the following additional adverse reactions and key laboratory abnormalities: increased partial thromboplastin time (63%), increased prothrombin time (40%), decreased fibrinogen (38%), urinary tract infection (31%), proteinuria (18%), abdominal pain (16%), pruritus (12%), gastroenteritis (12%), myalgia (11%), and pneumonia (10%).
+
 ## 6.5 Clinical Study Experience in Subependymal Giant Cell Astrocytoma with Tuberous Sclerosis Complex
 
 The data described below are based on a randomized (2:1), double-blind, placebo-controlled trial (Study 1) of AFINITOR in 117 patients with subependymal giant cell astrocytoma (SEGA) and tuberous sclerosis complex (TSC).
