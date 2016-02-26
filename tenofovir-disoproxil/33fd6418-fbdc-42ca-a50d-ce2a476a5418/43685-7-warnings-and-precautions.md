@@ -25,7 +25,7 @@ In patients at risk of renal dysfunction, including patients who have previously
 Dosing interval adjustment of VIREAD and close monitoring of renal function are recommended in all patients with creatinine clearance below 50 mL/min [See Dosage and Administration (2.3)].
 No safety or efficacy data are available in patients with renal impairment who received VIREAD using these dosing guidelines, so the potential benefit of VIREAD therapy should be assessed against the potential risk of renal toxicity.
 
-VIREAD should be avoided with concurrent or recent use of a nephrotoxic agent (e.g., high-dose or multiple non-steroidal anti-inflammatory drugs (NSAIDs)) [See Drug Interactions (7.3)].
+VIREAD should be avoided with concurrent or recent use of a nephrotoxic agent (e.g., high-dose or multiple non-steroidal anti-inflammatory drugs (NSAIDs)) [See Drug Interactions (7.4)].
 Cases of acute renal failure after initiation of high dose or multiple NSAIDs have been reported in HIV-infected patients with risk factors for renal dysfunction who appeared stable on tenofovir DF.
 Some patients required hospitalization and renal replacement therapy.
 Alternatives to NSAIDs should be considered, if needed, in patients at risk for renal dysfunction.
@@ -36,7 +36,7 @@ Persistent or worsening bone pain, pain in extremities, fractures and/or muscula
 
 VIREAD should not be used in combination with the fixed-dose combination products ATRIPLA, COMPLERA, STRIBILD, or TRUVADA since tenofovir disoproxil fumarate is a component of these products.
 
-VIREAD should not be administered in combination with HEPSERA (adefovir dipivoxil) [See Drug Interactions (7.3)].
+VIREAD should not be administered in combination with HEPSERA (adefovir dipivoxil) [See Drug Interactions (7.4)].
 
 ## 5.5 Patients Coinfected with HIV-1 and HBV
 

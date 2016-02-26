@@ -30,7 +30,16 @@ When tenofovir disoproxil fumarate is coadministered with an inhibitor of these 
 Patients receiving VIREAD concomitantly with lopinavir/ritonavir, ritonavir-boosted atazanavir, or ritonavir-boosted darunavir should be monitored for VIREAD-associated adverse reactions.
 VIREAD should be discontinued in patients who develop VIREAD-associated adverse reactions.
 
-## 7.3 Drugs Affecting Renal Function
+## 7.3 Hepatitis C Antiviral Agents
+
+Coadministration of tenofovir disoproxil fumarate and HARVONI (ledipasvir/sofosbuvir) has been shown to increase tenofovir exposure [See Clinical Pharmacology (12.3)].
+
+In patients receiving VIREAD concomitantly with HARVONI without an HIV-1 protease inhibitor/ritonavir or an HIV-1 protease inhibitor/cobicistat combination, monitor for adverse reactions associated with tenofovir disoproxil fumarate.
+
+In patients receiving VIREAD concomitantly with HARVONI and an HIV-1 protease inhibitor/ritonavir or an HIV-1 protease inhibitor/cobicistat combination, consider an alternative HCV or antiretroviral therapy, as the safety of increased tenofovir concentrations in this setting has not been established.
+If coadministration is necessary, monitor for adverse reactions associated with tenofovir disoproxil fumarate.
+
+## 7.4 Drugs Affecting Renal Function
 
 Since tenofovir is primarily eliminated by the kidneys [See Clinical Pharmacology (12.3)], coadministration of VIREAD with drugs that reduce renal function or compete for active tubular secretion may increase serum concentrations of tenofovir and/or increase the concentrations of other renally eliminated drugs.
 Some examples include, but are not limited to, cidofovir, acyclovir, valacyclovir, ganciclovir, valganciclovir, aminoglycosides (e.g., gentamicin), and high-dose or multiple NSAIDs [See Warnings and Precautions (5.3)].

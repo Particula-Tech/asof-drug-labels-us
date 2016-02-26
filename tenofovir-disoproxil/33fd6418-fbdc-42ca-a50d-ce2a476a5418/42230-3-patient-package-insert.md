@@ -102,6 +102,7 @@ Especially tell your healthcare provider if you take the following medications.
 - atazanavir (Reyataz)
 - darunavir (Prezista)
 - lopinavir with ritonavir (Kaletra)
+- ledipasvir with sofosbuvir (HARVONI®)
 
 Know the medicines you take.
 Keep a list of them to show your healthcare provider or pharmacist when you get a new medicine.
