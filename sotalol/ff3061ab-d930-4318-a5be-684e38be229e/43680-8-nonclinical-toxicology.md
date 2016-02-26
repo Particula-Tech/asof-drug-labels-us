@@ -29,4 +29,4 @@ Table 5: The LD50 of Sotalol in Different Species
 | Intraperitoneal | Rat | 680 mg/kg |
 | Intraperitoneal | Mouse | 670 mg/kg |
 | Intraperitoneal | Dog | 330 mg/kg |
-| Intravenous | Mouse | mg/kg |
+| Intravenous | Mouse | 166 mg/kg |

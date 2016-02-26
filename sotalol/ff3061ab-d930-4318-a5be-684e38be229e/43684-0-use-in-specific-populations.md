@@ -1,6 +1,6 @@
 # 8 USE IN SPECIFIC POPULATIONS
 
-## 8.1 Pregnancy Pregnancy
+## 8.1 Pregnancy
 
 Pregnancy Category B
 
