@@ -114,3 +114,7 @@ Depacon was found to be physically compatible and chemically stable in the follo
 - dextrose (5%) injection, USP
 - sodium chloride (0.9%) injection, USP
 - lactated ringer's injection, USP
+
+## 2.3 Dosing in Patients Taking Rufinamide
+
+Patients stabilized on rufinamide before being prescribed valproate should begin valproate therapy at a low dose, and titrate to a clinically effective dose [see Drug Interactions (7.2)].
