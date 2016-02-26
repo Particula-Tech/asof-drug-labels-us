@@ -33,7 +33,7 @@ Inform patients who discontinue Soliris to keep the Soliris Patient Safety Infor
 
 Manufactured by:
 
-Alexion Pharmaceuticals, Inc. 352 Knotter Drive Cheshire, CT 06410 USA
+Alexion Pharmaceuticals, Inc. 100 College Street New Haven, CT 06510 USA
 
 US License Number 1743
 

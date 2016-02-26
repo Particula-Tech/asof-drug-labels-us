@@ -188,6 +188,6 @@ Inactive ingredients: sodium phosphate monobasic, sodium phosphate dibasic, sodi
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by Alexion Pharmaceuticals, Inc., 352 Knotter Drive, Cheshire, CT 06410 USA.
+Manufactured by Alexion Pharmaceuticals, Inc., 100 College Street, New Haven, CT 06510 USA.
 
 Revised: 12/2015
