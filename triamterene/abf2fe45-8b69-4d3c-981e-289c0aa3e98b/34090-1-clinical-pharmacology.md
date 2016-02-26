@@ -43,5 +43,5 @@ Ordinarily, triamterene does not entirely compensate for the kaliuretic effect o
 In some individuals, however, it may induce hyperkalemia (see WARNINGS).
 
 The triamterene and hydrochlorothiazide components of this product are well absorbed and are bioequivalent to liquid preparations of the individual components administered orally.
-Food does not influence the absorption of triamterene or hydrochlorothiazide from Watson’s triamterene and hydrochlorothiazide tablets.
+Food does not influence the absorption of triamterene or hydrochlorothiazide from triamterene and hydrochlorothiazide tablets.
 The hydrochlorothiazide component of triamterene and hydrochlorothiazide tablets is bioequivalent to single entity hydrochlorothiazide tablet formulations.

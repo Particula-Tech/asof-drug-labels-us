@@ -1,9 +1,9 @@
 # DESCRIPTION:
 
-Triamterene and hydrochlorothiazide tablets USP, combines triamterene, a potassium-conserving diuretic, with the natriuretic agent, hydrochlorothiazide.
+Triamterene and hydrochlorothiazide tablets, USP, combines triamterene, a potassium-conserving diuretic, with the natriuretic agent, hydrochlorothiazide.
 Triamterene and hydrochlorothiazide tablets are available in two strengths.
-Each triamterene and hydrochlorothiazide tablet, 75 mg/50 mg, contains triamterene USP, 75 mg and hydrochlorothiazide USP, 50 mg.
-Each triamterene and hydrochlorothazide tablet, 37.5 mg/25 mg, contains triamterene USP, 37.5 mg and hydrochlorothiazide USP, 25 mg.
+Each triamterene and hydrochlorothiazide tablet, 75 mg/50 mg, contains triamterene, USP, 75 mg and hydrochlorothiazide, USP, 50 mg.
+Each triamterene and hydrochlorothaizide tablet, 37.5 mg/25 mg, contains triamterene, USP, 37.5 mg and hydrochlorothiazide, USP, 25 mg.
 
 Both strengths of triamterene and hydrochlorothiazide tablets for oral administration contain the following inactive ingredients: anhydrous lactose, microcrystalline cellulose, polacrilin potassium, polyethylene glycol 8000, povidone, and magnesium stearate.
 Triamterene and hydrochlorothiazide tablets, 37.5 mg/25 mg also contain FD&C Blue #2.

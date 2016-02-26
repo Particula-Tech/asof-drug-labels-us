@@ -31,3 +31,5 @@ Glucose: hyperglycemia, glycosuria and diabetes mellitus (see PRECAUTIONS).
 Serum Uric Acid, PBI and Calcium: (see PRECAUTIONS).
 
 Other: Elevated liver enzymes have been reported in patients receiving triamterene and hydrochlorothiazide tablets.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Actavis at 1-800-272-5525 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
