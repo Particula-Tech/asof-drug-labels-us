@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "NDA022272"
+  ],
+  "inn": "oxycodone",
+  "labeler": "Impax Generics",
+  "package_ndcs": [
+    "0115-1556-01",
+    "0115-1557-01",
+    "0115-1558-01",
+    "0115-1559-01",
+    "0115-1560-01",
+    "0115-1561-01",
+    "0115-1562-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "oxycodone hydrochloride",
+      "name": "OXYCODONE HYDROCHLORIDE"
+    }
+  ],
+  "setid": "c2c57ae7-86b9-47bb-a31b-ed1c4327ce7f",
+  "source": "dailymed"
+}

@@ -1,0 +1,79 @@
+# 8 USE IN SPECIFIC POPULATIONS
+
+## 8.1 Pregnancy
+
+Clinical Considerations
+
+Fetal/neonatal adverse reactions
+
+Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
+Observe newborns for symptoms of neonatal opioid withdrawal syndrome, such as poor feeding, diarrhea, irritability, tremor, rigidity, and seizures, and manage accordingly [see Warnings and Precautions (5.3)].
+
+Teratogenic Effects - Pregnancy Category C
+
+There are no adequate and well-controlled studies in pregnant women.
+OXYCODONE HCl EXTENDED-RELEASE TABLETS should be used during pregnancy only if the potential benefit justifies the risk to the fetus.
+
+The effect of oxycodone in human reproduction has not been adequately studied.
+Studies with oral doses of oxycodone hydrochloride in rats up to 8 mg/kg/day and rabbits up to 125 mg/kg/day, equivalent to 0.5 and 15 times an adult human dose of 160 mg/day, respectively on a mg/m2 basis, did not reveal evidence of harm to the fetus due to oxycodone.
+In a pre- and postnatal toxicity study, female rats received oxycodone during gestation and lactation.
+There were no long-term developmental or reproductive effects in the pups [see Nonclinical Toxicology (13.1)].
+
+Non-Teratogenic Effects
+
+Oxycodone hydrochloride was administered orally to female rats during gestation and lactation in a pre- and postnatal toxicity study.
+There were no drug-related effects on reproductive performance in these females or any long-term developmental or reproductive effects in pups born to these rats.
+Decreased body weight was found during lactation and the early post-weaning phase in pups nursed by mothers given the highest dose used (6 mg/kg/day, equivalent to approximately 0.4-times an adult human dose of 160 mg/day, on a mg/m2 basis).
+However, body weight of these pups recovered.
+
+## 8.2 Labor and Delivery
+
+Opioids cross the placenta and may produce respiratory depression in neonates.
+OXYCODONE HCl EXTENDED-RELEASE TABLETS are not recommended for use in women immediately prior to labor, when use of shorter-acting analgesics or other analgesic techniques are more appropriate.
+Opioid analgesics can prolong labor through actions which temporarily reduce the strength, duration and frequency of uterine contractions.
+However this effect is not consistent and may be offset by an increased rate of cervical dilatation, which tends to shorten labor.
+
+## 8.3 Nursing Mothers
+
+Oxycodone has been detected in breast milk.
+Instruct patients not to undertake nursing while receiving OXYCODONE HCl EXTENDED-RELEASE TABLETS.
+Do not initiate OXYCODONE HCl EXTENDED-RELEASE TABLETS therapy while nursing because of the possibility of sedation or respiratory depression in the infant.
+
+Withdrawal signs can occur in breast-fed infants when maternal administration of an opioid analgesic is stopped, or when breast-feeding is stopped.
+
+## 8.4 Pediatric Use
+
+The safety and efficacy of OXYCODONE HCl EXTENDED-RELEASE TABLETS have been established in pediatric patients ages 11 to 16 years.
+Use of OXYCODONE HCl EXTENDED-RELEASE TABLETS is supported by evidence from adequate and well-controlled trials with OXYCODONE HCl EXTENDED-RELEASE TABLETS in adults as well as an open-label study in pediatric patients ages 6 to 16 years.
+However, there were insufficient numbers of patients less than 11 years of age enrolled in this study to establish the safety of the product in this age group.
+
+The safety of OXYCODONE HCl EXTENDED-RELEASE TABLETS in pediatric patients was evaluated in 155 patients previously receiving and tolerating opioids for at least 5 consecutive days with a minimum of 20 mg per day of oxycodone or its equivalent on the two days immediately preceding dosing with OXYCODONE HCl EXTENDED-RELEASE TABLETS.
+Patients were started on a total daily dose ranging between 20 mg and 100 mg depending on prior opioid dose.
+
+The most frequent adverse events observed in pediatric patients were vomiting, nausea, headache, pyrexia, and constipation [see Dosage and Administration (2.4), Adverse Reactions (6.1), Clinical Pharmacology (12.3) and Clinical Trials (14)].
+
+## 8.5 Geriatric Use
+
+In controlled pharmacokinetic studies in elderly subjects (greater than 65 years) the clearance of oxycodone was slightly reduced.
+Compared to young adults, the plasma concentrations of oxycodone were increased approximately 15% [see Clinical Pharmacology (12.3)].
+Of the total number of subjects (445) in clinical studies of oxycodone hydrochloride controlled-release tablets, 148 (33.3%) were age 65 and older (including those age 75 and older) while 40 (9.0%) were age 75 and older.
+In clinical trials with appropriate initiation of therapy and dose titration, no untoward or unexpected adverse reactions were seen in the elderly patients who received oxycodone hydrochloride controlled-release tablets.
+Thus, the usual doses and dosing intervals may be appropriate for elderly patients.
+However, reduce the starting dose to 1/3 to 1/2 the usual dosage in debilitated, non-opioid-tolerant patients.
+Respiratory depression is the chief risk in elderly or debilitated patients, usually the result of large initial doses in patients who are not tolerant to opioids, or when opioids are given in conjunction with other agents that depress respiration.
+Titrate the dose of OXYCODONE HCl EXTENDED-RELEASE TABLETS cautiously in these patients.
+
+## 8.6 Hepatic Impairment
+
+A study of OXYCODONE HCl EXTENDED-RELEASE TABLETS in patients with hepatic impairment demonstrated greater plasma concentrations than those seen at equivalent doses in persons with normal hepatic function.
+Therefore, in the setting of hepatic impairment, start dosing patients at 1/3 to 1/2 the usual starting dose followed by careful dose titration [see Clinical Pharmacology (12.3)].
+
+## 8.7 Renal Impairment
+
+In patients with renal impairment, as evidenced by decreased creatinine clearance (<60 mL/min), the concentrations of oxycodone in the plasma are approximately 50% higher than in subjects with normal renal function.
+Follow a conservative approach to dose initiation and adjust according to the clinical situation [see Clinical Pharmacology (12.3)].
+
+## 8.8 Gender Differences
+
+In pharmacokinetic studies with OXYCODONE HCl EXTENDED-RELEASE TABLETS, opioid-naïve females demonstrate up to 25% higher average plasma concentrations and greater frequency of typical opioid adverse events than males, even after adjustment for body weight.
+The clinical relevance of a difference of this magnitude is low for a drug intended for chronic usage at individualized dosages, and there was no male/female difference detected for efficacy or adverse events in clinical trials.
