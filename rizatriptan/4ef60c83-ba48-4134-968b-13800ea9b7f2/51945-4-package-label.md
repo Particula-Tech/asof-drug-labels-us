@@ -1,12 +1,17 @@
 # Package/Label Display Panel
 
-## Rizatriptan Benzoate Tablets 5 mg 18 UD Box Text
+## Rizatriptan Benzoate Tablets USP 5 mg 18 UD Box Text
 
 NDC 0093-7471-43
 
-RIZATRIPTAN BENZOATE Tablets 5 mg*
+Rizatriptan Benzoate
 
-*Each tablet contains 7.265 mg of rizatriptan benzoate, equivalent to 5 mg of rizatriptan.
+Tablets USP 5 mg*
+
+*Each tablet contains 7.265 mg of rizatriptan benzoate, USP
+
+equivalent to 5 mg of rizatriptan.
+
 This unit-dose package is child-resistant.
 
 Rx only
@@ -17,13 +22,18 @@ TEVA
 
 # Package/Label Display Panel
 
-## Rizatriptan Benzoate Tablets 10 mg 18 UD Box Text
+## Rizatriptan Benzoate Tablets USP 10 mg 18 UD Box Text
 
 NDC 0093-7472-43
 
-RIZATRIPTAN BENZOATE Tablets 10 mg*
+Rizatriptan Benzoate
 
-*Each tablet contains 14.53 mg of rizatriptan benzoate, equivalent to 10 mg of rizatriptan.
+Tablets USP 10 mg*
+
+*Each tablet contains 14.53 mg of rizatriptan benzoate, USP
+
+equivalent to 10 mg of rizatriptan.
+
 This unit-dose package is child-resistant.
 
 Rx only

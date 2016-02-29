@@ -2,14 +2,14 @@
 
 The following adverse reactions are discussed in more detail in other sections of the labeling:
 
-- •Myocardial Ischemia, Myocardial Infarction, and Prinzmetal's Angina [see Warnings and Precautions (5.1)].
-- •Arrhythmias [see Warnings and Precautions (5.2)].
-- •Chest and or Throat, Neck and/or Jaw Pain/Tightness/Pressure [see Warnings and Precautions (5.3)].
-- •Cerebrovascular Events [see Warnings and Precautions (5.4)].
-- •Other Vasospasm Reactions [see Warnings and Precautions (5.5)].
-- •Medication Overuse Headache [see Warnings and Precautions (5.6)].
-- •Serotonin Syndrome [see Warnings and Precautions (5.7)].
-- •Increase in Blood Pressure [see Warnings and Precautions (5.8)].
+1. •Myocardial Ischemia, Myocardial Infarction, and Prinzmetal's Angina [see Warnings and Precautions (5.1)].
+2. •Arrhythmias [see Warnings and Precautions (5.2)].
+3. •Chest and or Throat, Neck and/or Jaw Pain/Tightness/Pressure [see Warnings and Precautions (5.3)].
+4. •Cerebrovascular Events [see Warnings and Precautions (5.4)].
+5. •Other Vasospasm Reactions [see Warnings and Precautions (5.5)].
+6. •Medication Overuse Headache [see Warnings and Precautions (5.6)].
+7. •Serotonin Syndrome [see Warnings and Precautions (5.7)].
+8. •Increase in Blood Pressure [see Warnings and Precautions (5.8)].
 
 ## 6.1 Clinical Trials Experience
 
