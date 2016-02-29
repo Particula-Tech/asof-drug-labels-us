@@ -23,7 +23,7 @@ For recommended dosing instructions, please see accompanying full Package Insert
 
 Store at room temperature (20°C to 25°C; 68°F to 77°F).
 
-Janssen
+janssen
 
 # PRINCIPAL DISPLAY PANEL - 410 mg Syringe Carton
 
@@ -50,7 +50,7 @@ For recommended dosing instructions, please see accompanying full Package Insert
 
 Store at room temperature (20°C to 25°C; 68°F to 77°F).
 
-Janssen
+janssen
 
 # PRINCIPAL DISPLAY PANEL - 546 mg Syringe Carton
 
@@ -77,7 +77,7 @@ For recommended dosing instructions, please see accompanying full Package Insert
 
 Store at room temperature (20°C to 25°C; 68°F to 77°F).
 
-Janssen
+janssen
 
 # PRINCIPAL DISPLAY PANEL - 819 mg Syringe Carton
 
@@ -104,4 +104,4 @@ For recommended dosing instructions, please see accompanying full Package Insert
 
 Store at room temperature (20°C to 25°C; 68°F to 77°F).
 
-Janssen
+janssen
