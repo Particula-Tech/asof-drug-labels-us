@@ -164,7 +164,6 @@ Clinical symptoms of hyperammonemic encephalopathy often include acute alteratio
 Hypothermia can also be a manifestation of hyperammonemia [see Warnings and Precautions (5.11)].
 In most cases, symptoms and signs abated with discontinuation of either drug.
 This adverse reaction is not due to a pharmacokinetic interaction.
-It is not known if topiramate monotherapy is associated with hyperammonemia.
 Patients with inborn errors of metabolism or reduced hepatic mitochondrial activity may be at an increased risk for hyperammonemia with or without encephalopathy.
 Although not studied, an interaction of topiramate and valproate may exacerbate existing defects or unmask deficiencies in susceptible persons.
 In patients who develop unexplained lethargy, vomiting, or changes in mental status, hyperammonemic encephalopathy should be considered and an ammonia level should be measured [see Contraindications (4) and Warnings and Precautions (5.6, 5.9)].
