@@ -1,0 +1,44 @@
+{
+  "application_numbers": [
+    "NDA205836",
+    "NDA205837",
+    "NDA205838"
+  ],
+  "inn": "brivaracetam",
+  "labeler": "UCB, Inc.",
+  "package_ndcs": [
+    "50474-370-66",
+    "50474-470-09",
+    "50474-470-12",
+    "50474-470-66",
+    "50474-570-09",
+    "50474-570-12",
+    "50474-570-66",
+    "50474-670-66",
+    "50474-770-09",
+    "50474-770-12",
+    "50474-770-66",
+    "50474-870-15",
+    "50474-970-63",
+    "50474-970-75"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SUSPENSION",
+      "generic": "brivaracetam",
+      "name": "Briviact"
+    },
+    {
+      "form": "SOLUTION",
+      "generic": "brivaracetam",
+      "name": "Briviact"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "brivaracetam",
+      "name": "Briviact"
+    }
+  ],
+  "setid": "3cf2f439-0e97-443e-8e33-25ecef616f6c",
+  "source": "dailymed"
+}
