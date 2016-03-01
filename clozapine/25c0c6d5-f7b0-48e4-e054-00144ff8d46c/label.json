@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA202873"
+  ],
+  "inn": "clozapine",
+  "labeler": "Accord Healthcare Inc.",
+  "package_ndcs": [
+    "16729-141-01",
+    "16729-142-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "clozapine",
+      "name": "Clozapine"
+    }
+  ],
+  "setid": "25c0c6d5-f7b0-48e4-e054-00144ff8d46c",
+  "source": "dailymed"
+}

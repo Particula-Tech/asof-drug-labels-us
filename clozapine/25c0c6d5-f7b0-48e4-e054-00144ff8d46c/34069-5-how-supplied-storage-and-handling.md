@@ -1,0 +1,17 @@
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
+
+## 16.1 How Supplied
+
+Clozapine tablets USP, 25 mg are pale yellow, oval shaped, flat faced, beveled edged, uncoated tablets, debossed with 25 on one side and break line on other side.
+
+NDC 16729- 141-01 bottles of 100
+
+Clozapine tablets USP, 100 mg are pale yellow, oval-shaped, flat faced, beveled edged, uncoated tablets, debossed with 100 on one side and break line on other side.
+
+NDC 16729- 142-01 bottles of 100
+
+## 16.2 Store and Dispense
+
+Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
+
+Keep out of reach of children.
