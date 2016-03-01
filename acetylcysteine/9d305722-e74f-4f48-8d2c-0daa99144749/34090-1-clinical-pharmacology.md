@@ -1,6 +1,6 @@
 # 12 CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism of Action
+## 12.1 Mechanism of action
 
 Acetaminophen Overdose:
 
@@ -26,7 +26,7 @@ The steady-state volume of distribution (Vdss) and the protein binding for acety
 
 Metabolism:
 
-Acetylcysteine may form cysteine, disulfides and conjugates in vivo (N, N’-diacetylcysteine, N-acetylcysteinecysteine, N-acetylcysteine-glutathione, N-acetylcysteine-protein, etc). Based on published data, it was reported that after an oral dose of 35S-acetylcysteine, about 22% of total radioactivity was excreted in urine after 24 hours.
+Acetylcysteine may form cysteine, disulfides and conjugates in vivo (N, N’-diacetylcysteine, N-acetylcysteine-cysteine, N-acetylcysteine-glutathione, N-acetylcysteine-protein, etc). Based on published data, it was reported that after an oral dose of 35S-acetylcysteine, about 22% of total radioactivity was excreted in urine after 24 hours.
 No metabolites were identified.
 
 Elimination:

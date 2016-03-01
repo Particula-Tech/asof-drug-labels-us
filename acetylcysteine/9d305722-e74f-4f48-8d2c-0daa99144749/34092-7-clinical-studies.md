@@ -18,7 +18,7 @@ Of the 1749 patients, 65% were female, 34% were male and less than 1% was transg
 Ages ranged from 2 months to 96 years, with 71.4% of the patients falling in the 16-40 year old age bracket.
 A total of 399 patients received acetylcysteine treatment.
 A post-hoc analysis identified 56 patients who (1) were at high or probable risk for hepatotoxicity (APAP greater than 150 mg/L at the four hours line according to the Australian nomogram) and (2) had a liver function test.
-Of the 53 patients who were treated with intravenous acetylcysteine (300 mg/kg intravenous acetylcysteine administered over 20-21 hours) within 8 hours, two (4%) developed hepatotoxicity (AST or ALT greater than 1000U/L).
+Of the 53 patients who were treated with intravenous acetylcysteine (300 mg/kg intravenous acetylcysteine administered over 20-21 hours) within 8 hours, two (4%) developed hepatotoxicity (AST or ALT greater than 1000 U/L).
 Twenty-one of 48 (44%) patients treated with acetylcysteine after 15 hours developed hepatotoxicity.
 The actual number of hepatotoxicity outcomes may be higher than what is reported here.
 For patients with multiple admissions for acetaminophen overdose, only the first overdose treated with intravenous acetylcysteine was examined.

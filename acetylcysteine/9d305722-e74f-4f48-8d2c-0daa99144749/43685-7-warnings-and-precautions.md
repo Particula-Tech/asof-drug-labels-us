@@ -16,7 +16,7 @@ If the anaphylactoid reaction returns upon reinitiation of treatment or increase
 
 Acetylcysteine Injection should be used with caution in patients with asthma, or where there is a history of bronchospasm.
 
-## 5.3 Volume Adjustment: Patients less than 40kg and Requiring Fluid Restriction
+## 5.3 Volume Adjustment: Patients less than 40 kg and Requiring Fluid Restriction
 
 The total volume administered should be adjusted for patients less than 40 kg and for those requiring fluid restriction.
 To avoid fluid overload, the volume of diluent should be reduced as needed [see Dosage and Administration (2)].

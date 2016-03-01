@@ -5,7 +5,7 @@ Each single dose vial contains 6 g/30 mL (200 mg/mL) of Acetylcysteine Injection
 Acetylcysteine Injection is sterile and can be used for intravenous administration.
 It is available as follows:
 
-• 30 mL vials, carton of 4 (NDC 0574-0805-30)
+- •30 mL vials, carton of 4 (NDC 0574-0805-30)
 
 Do not use previously opened vials for intravenous administration.
 
@@ -16,6 +16,4 @@ The stopper in the Acetylcysteine Injection vial is formulated with a synthetic 
 
 Storage
 
-Store unopened vials at controlled room temperature, 20° to 25°C (68° to 77°F)
-
-[see USP Controlled Room Temperature].
+Store unopened vials at controlled room temperature, 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
