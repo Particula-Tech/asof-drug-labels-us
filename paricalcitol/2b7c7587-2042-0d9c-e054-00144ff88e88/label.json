@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA207174"
+  ],
+  "inn": "paricalcitol",
+  "labeler": "Accord Healthcare, Inc.",
+  "package_ndcs": [
+    "16729-310-08",
+    "16729-310-63",
+    "16729-311-08",
+    "16729-311-30",
+    "16729-311-63",
+    "16729-311-93"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "paricalcitol",
+      "name": "Paricalcitol"
+    }
+  ],
+  "setid": "2b7c7587-2042-0d9c-e054-00144ff88e88",
+  "source": "dailymed"
+}
