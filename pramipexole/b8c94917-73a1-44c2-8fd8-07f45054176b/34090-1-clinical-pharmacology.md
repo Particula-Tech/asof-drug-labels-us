@@ -62,9 +62,7 @@ There is no difference in half-life between males and females.
 
 Age
 
-Pramipexole clearance decreases with age as the half-life and clearance are about 40% longer and 30% lower, respectively, in elderly (aged 65 years or older) compared with young healthy volunteers (aged
-
-less than 40 years).
+Pramipexole clearance decreases with age as the half-life and clearance are about 40% longer and 30% lower, respectively, in elderly (aged 65 years or older) compared with young healthy volunteers (aged less than 40 years).
 This difference is most likely due to the reduction in renal function with age, since pramipexole clearance is correlated with renal function, as measured by creatinine clearance.
 
 Race
@@ -108,6 +106,7 @@ Cimetidine: Cimetidine, a known inhibitor of renal tubular secretion of organic 
 Probenecid:
 
 Probenecid, a known inhibitor of renal tubular secretion of organic acids via the anionic transporter, did not noticeably influence pramipexole pharmacokinetics (N=12).
+
 Other drugs eliminated via renal secretion: Population pharmacokinetic analysis suggests that coadministration of drugs that are secreted by the cationic transport system (e.g., cimetidine, ranitidine, diltiazem, triamterene, verapamil, quinidine, and quinine) decreases the oral clearance of pramipexole by about 20%, while those secreted by the anionic transport system (e.g., cephalosporins, penicillins, indomethacin, hydrochlorothiazide, and chlorpropamide) are likely to have little effect on the oral clearance of pramipexole.
 Other known organic cation transport substrates and/or inhibitors (e.g., cisplatin and procainamide) may also decrease the clearance of pramipexole.
 

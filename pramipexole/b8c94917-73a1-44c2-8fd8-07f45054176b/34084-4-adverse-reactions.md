@@ -149,7 +149,6 @@ Laboratory Tests During the development of pramipexole dihydrochloride tablets, 
 
 ## 6.2 Post Marketing Experience
 
-In addition to the adverse events reported during clinical trials, the following adverse reactions have been identified during post-approval use of pramipexole dihydrochloride tablets, primarily in Parkinson's disease patients.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-Decisions to include these events in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of reporting, or (3) strength of causal connection to pramipexole tablets.
-Similar types of reactions were grouped into a smaller number of standardized categories using the MedDRA terminology: cardiac failure, inappropriate antidiuretic hormone secretion (SIADH), syncope, vomiting, and weight increase.
+In addition to the adverse events reported during clinical trials, the following adverse reactions have been identified during post-approval use of pramipexole dihydrochloride tablets, primarily in Parkinson's disease patients.Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+Decisions to include these reactions in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of reporting, or (3) strength of causal connection to pramipexole tablets.
+Similar types of reactions were grouped into a smaller number of standardized categories using the MedDRA terminology: cardiac failure, inappropriate antidiuretic hormone secretion (SIADH), skin reactions (including erythema, rash, pruritus, urticaria),syncope, vomiting, and weight increase.

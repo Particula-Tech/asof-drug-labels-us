@@ -54,7 +54,7 @@ Unit dose blister pack of 100's NDC 33342-035-12
 
 ## 16.2 Storage and Handling
 
-Store pramipexole dihydrochloride tablet at 20° to 25°C (68° to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) (see USP Controlled Room Temperature).
+Store pramipexole dihydrochloride tablet at 20° to 25°C (68° to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 
 Protect from light.
 

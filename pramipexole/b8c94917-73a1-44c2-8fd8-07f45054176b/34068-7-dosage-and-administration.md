@@ -12,7 +12,7 @@ In all clinical studies, dosage was initiated at a subtherapeutic level to avoid
 Pramipexole dihydrochloride tablets should be titrated gradually in all patients.
 The dose should be increased to achieve a maximum therapeutic effect, balanced against the principal side effects of dyskinesia, hallucinations, somnolence, and dry mouth.
 Dosing in Patients with Normal Renal Function Initial Treatment Doses should be increased gradually from a starting dose of 0.375 mg/day given in three divided doses and should not be increased more frequently than every 5 to 7 days.
-A suggested ascending dosage schedule that was used in clinical studies is shown in the following Table 1: Table 1 Ascending Dosage Schedule of Pramipexole dihydrochloride tablets for Parkinson's Disease
+A suggested ascending dosage schedule that was used in clinical studies is shown in the following Table 1: Table 1 Ascending Dosage Schedule of Pramipexole Dihydrochloride tablets for Parkinson's Disease
 
 | Week | Dosage (mg) | Total Daily Dose (mg) |
 | --- | --- | --- |
@@ -35,7 +35,7 @@ Dosing in Patients with Renal Impairment
 
 The recommended dosing of pramipexole dihydrochloride tablets in Parkinson's disease patients with renal impairment is provided in Table 2.
 
-Table 2 Dosing of Pramipexole Dihydrochloride Tablets in Parkinson's Disease Patients with Renal Impairment Renal Status Starting Dose (mg) Maximum Dose (mg) Normal to mild impairment (creatinine Cl >50 mL/min) 0.125 TID 1.5 TID Moderate impairment (creatinine Cl =30 to 50 mL/min) 0.125 BID 0.75 TID Severe impairment (creatinine Cl =15 to <30 mL/min) 0.125 QD 1.5 QD Very severe impairment (creatinine Cl <15 mL/min and hemodialysis patients) The use of pramipexole dihydrochloride tablets has not been adequately studied in this group of patients.
+Table 2 Dosing of Pramipexole Dihydrochloride Tablets in Parkinson's Disease Patients with Renal Impairment
 
 | Renal Status | Starting Dose (mg) | Maximum Dose (mg) |
 | --- | --- | --- |
