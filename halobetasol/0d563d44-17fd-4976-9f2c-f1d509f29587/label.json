@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA208183"
+  ],
+  "inn": "halobetasol",
+  "labeler": "Ranbaxy Laboratories, Inc.",
+  "package_ndcs": [
+    "10631-122-04"
+  ],
+  "products": [
+    {
+      "form": "LOTION",
+      "generic": "halobetasol propionate",
+      "name": "Ultravate"
+    }
+  ],
+  "setid": "0d563d44-17fd-4976-9f2c-f1d509f29587",
+  "source": "dailymed"
+}
