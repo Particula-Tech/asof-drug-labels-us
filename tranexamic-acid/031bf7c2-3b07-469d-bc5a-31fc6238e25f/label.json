@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022430"
+  ],
+  "inn": "tranexamic-acid",
+  "labeler": "Amring Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "69918-301-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "tranexamic acid",
+      "name": "Tranexamic Acid"
+    }
+  ],
+  "setid": "031bf7c2-3b07-469d-bc5a-31fc6238e25f",
+  "source": "dailymed"
+}
