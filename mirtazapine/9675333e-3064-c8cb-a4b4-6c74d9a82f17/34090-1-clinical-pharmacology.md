@@ -60,7 +60,7 @@ There have been no clinical studies to evaluate the effect of race on the pharma
 
 The disposition of mirtazapine was studied in patients with varying degrees of renal function.
 Elimination of mirtazapine is correlated with creatinine clearance.
-Total body clearance of mirtazapine was reduced approximately 30% in patients with moderate (Clcr = 11 to 39 mL/min/1.73 m2) and approximately 50% in patients with severe (Clcr = <10 mL/min/1.73 m2) renal impairment when compared to normal subjects.
+Total body clearance of mirtazapine was reduced approximately 30% in patients with moderate (Clcr = 11 to 39 mL/min/1.73 m2) and approximately 50% in patients with severe (Clcr =<10 mL/min/1.73 m2) renal impairment when compared to normal subjects.
 Caution is indicated in administering mirtazapine tablets to patients with compromised renal function (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
 
 ### Hepatic Insufficiency

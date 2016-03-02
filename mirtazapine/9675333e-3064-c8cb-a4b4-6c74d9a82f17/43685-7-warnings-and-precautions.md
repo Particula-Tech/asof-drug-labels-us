@@ -13,11 +13,11 @@ The pooled analyses of placebo-controlled trials in adults with MDD or other psy
 There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
 There were differences in absolute risk of suicidality across different indications, with the highest incidence in MDD.
 The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
-These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 1.
+These risk differences (drug-placebo difference in the number of cases of suicidality per 1,000 patients treated) are provided in Table 1.
 
 | TABLE 1 |  |
 | --- | --- |
-| Age Range | Drug Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
+| Age Range | Drug placebo Difference in Number of Cases of Suicidality per 1,000 Patients Treated |
 |  | Increases Compared to Placebo |
 | <18 | 14 additional cases |
 | 18 to 24 | 5 additional cases |
@@ -54,8 +54,8 @@ It should be noted that mirtazapine tablets are not approved for use in treating
 In premarketing clinical trials, two (one with Sjögren’s Syndrome) out of 2796 patients treated with mirtazapine tablets developed agranulocytosis [absolute neutrophil count (ANC) <500/mm3 with associated signs and symptoms, e.g., fever, infection, etc.] and a third patient developed severe neutropenia (ANC <500/mm3 without any associated symptoms).
 For these three patients, onset of severe neutropenia was detected on days 61, 9, and 14 of treatment, respectively.
 All three patients recovered after mirtazapine tablets were stopped.
-These three cases yield a crude incidence of severe neutropenia (with or without associated infection) of approximately 1.1 per thousand patients exposed, with a very wide 95% confidence interval, i.e., 2.2 cases per 10,000 to 3.1 cases per 1000.
-If a patient develops a sore throat, fever, stomatitis or other signs of infection, along with a low WBC count, treatment with mirtazapine tablets should be discontinued and the patient should be closely monitored.
+These three cases yield a crude incidence of severe neutropenia (with or without associated infection) of approximately 1.1 per thousand patients exposed, with a very wide 95% confidence interval, i.e., 2.2 cases per 10,000 to 3.1 cases per 1,000.
+If a patient develops a sore throat, fever, stomatitis, or other signs of infection, along with a low WBC count, treatment with mirtazapine tablets should be discontinued and the patient should be closely monitored.
 
 ## Serotonin Syndrome
 
@@ -178,13 +178,13 @@ Symptoms such as these may be associated with an increased risk for suicidal thi
 ### Agranulocytosis
 
 Patients who are to receive mirtazapine tablets should be warned about the risk of developing agranulocytosis.
-Patients should be advised to contact their physician if they experience any indication of infection such as fever, chills, sore throat, mucous membrane ulceration or other possible signs of infection.
+Patients should be advised to contact their physician if they experience any indication of infection such as fever, chills, sore throat, mucous membrane ulceration, or other possible signs of infection.
 Particular attention should be paid to any flu-like complaints or other symptoms that might suggest infection.
 
 ### Interference with Cognitive and Motor Performance
 
 Mirtazapine tablets may impair judgment, thinking, and particularly, motor skills, because of its prominent sedative effect.
-The drowsiness associated with mirtazapine use may impair a patient’s ability to drive, use machines or perform tasks that require alertness.
+The drowsiness associated with mirtazapine use may impair a patient’s ability to drive, use machines, or perform tasks that require alertness.
 Thus, patients should be cautioned about engaging in hazardous activities until they are reasonably certain that mirtazapine tablet therapy does not adversely affect their ability to engage in such activities.
 
 ### Completing Course of Therapy
@@ -195,7 +195,7 @@ While patients may notice improvement with mirtazapine tablet therapy in 1 to 4 
 
 Patients should be advised to inform their physician if they are taking, or intend to take, any prescription or over-the-counter drugs, since there is a potential for mirtazapine tablets to interact with other drugs.
 
-Patients should be made aware of a potential increased risk for serotonin syndrome if concomitant use of mirtazapine tablets with other serotonergic drugs, including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan and St. John's wort, is clinically warranted, particularly during treatment initiation and dose increases.
+Patients should be made aware of a potential increased risk for serotonin syndrome if concomitant use of mirtazapine tablets with other serotonergic drugs, including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, and St. John's wort, is clinically warranted, particularly during treatment initiation and dose increases.
 
 ### Alcohol
 
@@ -254,7 +254,7 @@ Caution should be exercised when coadministering mirtazapine with potent CYP3A4 
 
 Paroxetine: In an in vivo interaction study in healthy, CYP2D6 extensive metabolizer patients (n=24), mirtazapine (30 mg/day), at steady state, did not cause relevant changes in the pharmacokinetics of steady state paroxetine (40 mg/day), a CYP2D6 inhibitor.
 
-### Other Drug-Drug Interactions
+### Other Drug-drug Interactions
 
 Amitriptyline
 
@@ -305,7 +305,7 @@ Mirtazapine was not mutagenic or clastogenic and did not induce general DNA dama
 ### Impairment of Fertility
 
 In a fertility study in rats, mirtazapine was given at doses up to 100 mg/kg [20 times the maximum recommended human dose (MRHD) on an mg/m2 basis].
-Mating and conception were not affected by the drug, but estrous cycling was disrupted at doses that were 3 or more times the MRHD and pre-implantation losses occurred at 20 times the MRHD.
+Mating and conception were not affected by the drug, but estrous cycling was disrupted at doses that were 3 or more times the MRHD, and pre-implantation losses occurred at 20 times the MRHD.
 
 ## Pregnancy
 
@@ -326,7 +326,7 @@ Because some mirtazapine may be excreted into breast milk, caution should be exe
 ## Pediatric Use
 
 Safety and effectiveness in the pediatric population have not been established (see BOXED WARNING and WARNINGS: Clinical Worsening and Suicide Risk).
-Two placebo- controlled trials in 258 pediatric patients with MDD have been conducted with mirtazapine tablets, and the data were not sufficient to support a claim for use in pediatric patients.
+Two placebo-controlled trials in 258 pediatric patients with MDD have been conducted with mirtazapine tablets, and the data were not sufficient to support a claim for use in pediatric patients.
 Anyone considering the use of mirtazapine tablets in a child or adolescent must balance the potential risks with the clinical need.
 
 In an 8-week-long pediatric clinical trial of doses between 15 to 45 mg/day, 49% of mirtazapine-treated patients had a weight gain of at least 7%, compared to 5.7% of placebo-treated patients.

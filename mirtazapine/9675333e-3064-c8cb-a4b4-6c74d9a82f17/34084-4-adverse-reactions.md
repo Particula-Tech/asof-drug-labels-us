@@ -5,7 +5,7 @@
 Approximately 16% of the 453 patients who received mirtazapine tablets in US 6-week controlled clinical trials discontinued treatment due to an adverse experience, compared to 7% of the 361 placebo-treated patients in those studies.
 The most common events (≥1%) associated with discontinuation and considered to be drug related (i.e., those events associated with dropout at a rate at least twice that of placebo) are included in Table 2.
 
-| Table 2: Common Adverse Events Associated with Discontinuation of Treatment in 6-Week US Mirtazapine Tablets Trials |  |  |
+| Table 2: Common Adverse Events Associated with Discontinuation of Treatment in 6-week US Mirtazapine Tablets Trials |  |  |
 | --- | --- | --- |
 | Adverse Event | Percentage of Patients Discontinuing with Adverse Event |  |
 | Mirtazapine Tablets (n=453) | Placebo (n=361) |  |
@@ -16,7 +16,7 @@ The most common events (≥1%) associated with discontinuation and considered to
 
 The most commonly observed adverse events associated with the use of mirtazapine tablets (incidence of 5% or greater) and not observed at an equivalent incidence among placebo-treated patients (mirtazapine tablets incidence at least twice that for placebo) are listed in Table 3.
 
-| Table 3: Common Treatment-Emergent Adverse Events Associated with the Use of Mirtazapine Tablets in 6-Week US Trials |  |  |
+| Table 3: Common Treatment-emergent Adverse Events Associated with the Use of Mirtazapine Tablets in 6-week US Trials |  |  |
 | --- | --- | --- |
 | Adverse Event | Percentage of Patients Reporting Adverse Event |  |
 | Mirtazapine Tablets (n=453) | Placebo (n=361) |  |
@@ -25,17 +25,17 @@ The most commonly observed adverse events associated with the use of mirtazapine
 | Weight Gain | 12% | 2% |
 | Dizziness | 7% | 3% |
 
-## Adverse Events Occurring at an Incidence of 1% or More Among Mirtazapine Tablet -Treated Patients
+## Adverse Events Occurring at an Incidence of 1% or More Among Mirtazapine Tablet-treated Patients
 
 Table 4 enumerates adverse events that occurred at an incidence of 1% or more, and were more frequent than in the placebo group, among mirtazapine tablet-treated patients who participated in short-term US placebo-controlled trials in which patients were dosed in a range of 5 to 60 mg/day.
 This table shows the percentage of patients in each group who had at least one episode of an event at some time during their treatment.
 Reported adverse events were classified using a standard COSTART-based dictionary terminology.
 
 The prescriber should be aware that these figures cannot be used to predict the incidence of side effects in the course of usual medical practice where patient characteristics and other factors differ from those which prevailed in the clinical trials.
-Similarly, the cited frequencies cannot be compared with figures obtained from other investigations involving different treatments, uses and investigators.
+Similarly, the cited frequencies cannot be compared with figures obtained from other investigations involving different treatments, uses, and investigators.
 The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and nondrug factors to the side-effect incidence rate in the population studied.
 
-| Table 4 INCIDENCE OF ADVERSE CLINICAL EXPERIENCES* (≥ 1%) IN SHORT-TERM US CONTROLLED STUDIES |  |  |  |
+| Table 4: Incidence of Adverse Clinical Experiences* (≥ 1%) in Short-term US Controlled Studies |  |  |  |
 | --- | --- | --- | --- |
 | Body System Adverse Clinical Experience | Mirtazapine Tablets (n=453) | Placebo (n=361) |  |
 | Body as a Whole |  |  |  |
@@ -86,7 +86,7 @@ All reported events are included except those already listed in Table 4, those a
 
 It is important to emphasize that, although the events reported occurred during treatment with mirtazapine tablets, they were not necessarily caused by it.
 
-Events are further categorized by body system and listed in order of decreasing frequency according to the following definitions: frequent adverse events are those occurring on one or more occasions in at least 1/100 patients; infrequent adverse events are those occurring in 1/100 to 1/1000 patients; rare events are those occurring in fewer than 1/1000 patients.
+Events are further categorized by body system and listed in order of decreasing frequency according to the following definitions: frequent adverse events are those occurring on one or more occasions in at least 1/100 patients; infrequent adverse events are those occurring in 1/100 to 1/1,000 patients; rare events are those occurring in fewer than 1/1,000 patients.
 Only those events not already listed in Table 4 appear in this listing.
 Events of major clinical importance are also described in the WARNINGS and PRECAUTIONS sections.
 
@@ -132,7 +132,7 @@ Frequent: pruritus, rash; infrequent: acne, exfoliative dermatitis, dry skin, he
 
 ### Special Senses
 
-Infrequent: eye pain, abnormality of accommodation, conjunctivitis, deafness, keratoconjunctivitis, lacrimation disorder, glaucoma, (including angle-closure glaucoma), hyperacusis, ear pain; rare: blepharitis, partial transitory deafness, otitis media, taste loss, parosmia.
+Infrequent: eye pain, abnormality of accommodation, conjunctivitis, deafness, keratoconjunctivitis, lacrimation disorder, angle-closure glaucoma, hyperacusis, ear pain; rare: blepharitis, partial transitory deafness, otitis media, taste loss, parosmia.
 
 ### Urogenital System
 
@@ -145,3 +145,5 @@ In three of the four cases, however, concomitant drugs were implicated.
 All patients recovered.
 
 Cases of severe skin reactions, including Stevens-Johnson syndrome, bullous dermatitis, erythema multiforme and toxic epidermal necrolysis have also been reported.
+
+Increased creatine kinase blood levels and rhabdomyolysis have also been reported.

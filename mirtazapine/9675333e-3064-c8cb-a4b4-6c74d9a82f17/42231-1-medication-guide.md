@@ -135,14 +135,14 @@ Who should not take mirtazapine tablets?
 
 Do not take mirtazapine tablets:
 
-- If you are allergic to mirtazapine or any of the ingredients in mirtazapine tablets.
+- if you are allergic to mirtazapine or any of the ingredients in mirtazapine tablets.
   See the end of this Medication Guide for a complete list of ingredients in mirtazapine tablets.
-- If you take a Monoamine Oxidase Inhibitor (MAOI).
+- if you take a monoamine oxidase inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
 - Do not take an MAOI within 2 weeks of stopping mirtazapine tablets unless directed to do so by your physician.
 - Do not start mirtazapine tablets if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
 
-People who take mirtazapine tablets close in time to an MAOI may have serious or even life- threatening side effects.
+People who take mirtazapine tablets close in time to an MAOI may have serious or even life-threatening side effects.
 Get medical help right away if you have any of these symptoms:
 
 - high fever
@@ -161,7 +161,7 @@ Before starting mirtazapine tablets, tell your healthcare provider if you:
   - Triptans used to treat migraine headache
   - Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, SSRIs, SNRIs, or antipsychotics
   - Tramadol used to treat pain
-  - Over-the-counter supplements such as tryptophan or St. John’s Wort
+  - Over-the-counter supplements such as tryptophan or St. John’s wort
   - Phenytoin, carbamazepine, or rifampicin (these drugs can decrease your blood level of mirtazapine tablets)
   - Cimetidine or ketoconazole (these drugs can increase your blood level of mirtazapine tablets)
 - Have or had:
@@ -260,6 +260,6 @@ Inactive ingredients:
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: Manufactured for: Apotex Inc. Apotex Corp. Toronto, Ontario Weston, Florida Canada M9L 1T9 33326
+Manufactured by Manufactured for Apotex Inc. Apotex Corp. Toronto, Ontario Weston, Florida Canada M9L 1T9 33326
 
-Revised: April 2015
+Revised: January 2016

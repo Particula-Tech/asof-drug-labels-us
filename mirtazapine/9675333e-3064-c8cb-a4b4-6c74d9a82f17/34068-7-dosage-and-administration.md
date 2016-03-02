@@ -4,7 +4,7 @@
 
 The recommended starting dose for mirtazapine tablets is 15 mg/day, administered in a single dose, preferably in the evening prior to sleep.
 In the controlled clinical trials establishing the efficacy of mirtazapine in the treatment of major depressive disorder, the effective dose range was generally 15 to 45 mg/day.
-While the relationship between dose and satisfactory response in the treatment of major depressive disorder for mirtazapine tablets has not been adequately explored, patients not responding to the initial 15 mg dose may benefit from dose increases up to a maximum of 45 mg/day.
+While the relationship between dose and satisfactory response in the treatment of major depressive disorder for mirtazapine tablets has not been adequately explored, patients not responding to the initial 15-mg dose may benefit from dose increases up to a maximum of 45 mg/day.
 Mirtazapine tablets has an elimination half-life of approximately 20 to 40 hours; therefore, dose changes should not be made at intervals of less than one to two weeks in order to allow sufficient time for evaluation of the therapeutic response to a given dose.
 
 ## Elderly and Patients with Renal or Hepatic Impairment
@@ -47,6 +47,6 @@ If intolerable symptoms occur following a decrease in the dose or upon discontin
 ## Information for Patients
 
 Patients should be advised that taking mirtazapine tablets can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle-closure glaucoma.
-Pre- existing glaucoma is almost always open-angle glaucoma because angle-closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
+Pre-existing glaucoma is almost always open-angle glaucoma because angle-closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
 Open-angle glaucoma is not a risk factor for angle-closure glaucoma.
 Patients may wish to be examined to determine whether they are susceptible to angle-closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
