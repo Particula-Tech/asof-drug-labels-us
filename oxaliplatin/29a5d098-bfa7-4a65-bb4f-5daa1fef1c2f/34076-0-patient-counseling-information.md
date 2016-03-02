@@ -1,5 +1,7 @@
 # 17 PATIENT COUNSELING INFORMATION
 
+See FDA-Approved Patient Information.
+
 Advise patients:
 
 - To expect side effects of Oxaliplatin Injection, USP, particularly its neurologic effects, both the acute, reversible effects and the persistent neurosensory toxicity.
@@ -11,8 +13,8 @@ Advise patients:
   No studies on the effects of the ability to operate cars and machines have been performed; however, oxaliplatin treatment resulting in an increase risk of dizziness, nausea and vomiting, and other neurologic symptoms that affect gait and balance may lead to a minor or moderate influence on the ability to drive and use machines.
 - Of the potential effects of vision abnormalities, in particular transient vision loss (reversible following therapy discontinuation), which may affect patients' ability to drive and use machines.
 
-SAGENT™
+SAGENT®
 
-Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) By Jiangsu Hengrui Medicine Co., Ltd. Lianyungang, Jiangsu 222047, China ©2014 Sagent Pharmaceuticals, Inc.
+Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) By Jiangsu Hengrui Medicine Co., Ltd. Lianyungang, Jiangsu 222047, China ©2015 Sagent Pharmaceuticals, Inc.
 
-July 2014
+Revised: November 2015

@@ -68,7 +68,16 @@ Reversible Posterior Leukoencephalopathy Syndrome (RPLS, also known as PRES, Pos
 Signs and symptoms of RPLS could be headache, altered mental functioning, seizures, abnormal vision from blurriness to blindness, associated or not with hypertension [see Adverse Reactions (6.2)].
 Diagnosis of RPLS is based upon confirmation by brain imaging.
 
-## 5.3 Pulmonary Toxicity
+## 5.3 Severe Neutropenia
+
+Grade 3 or 4 neutropenia occurred in 41 to 44% of patients with colorectal cancer treated with oxaliplatin in combination with 5-flurouracil (5-FU) and leucovorin compared to 5% with 5-FU plus leucovorin alone.
+Sepsis, neutropenic sepsis and septic shock have been reported in patients treated with oxaliplatin, including fatal outcomes [see Adverse Reactions (6.1)].
+
+Delay oxaliplatin until neutrophils are ≥ 1.5 x 109/L.
+Withhold oxaliplatin for sepsis or septic shock.
+Dose reduce oxaliplatin after recovery from Grade 4 neutropenia or febrile neutropenia [see Dosage and Administration (2.2)].
+
+## 5.4 Pulmonary Toxicity
 
 Oxaliplatin has been associated with pulmonary fibrosis (<1% of study patients), which may be fatal.
 The combined incidence of cough and dyspnea was 7.4% (any grade) and <1% (grade 3) with no grade 4 events in the oxaliplatin plus infusional 5-fluorouracil/leucovorin arm compared to 4.5% (any grade) and no grade 3 and 0.1% grade 4 events in the infusional 5-fluorouracil/leucovorin alone arm in adjuvant colon cancer patients.
@@ -76,14 +85,26 @@ In this study, one patient died from eosinophilic pneumonia in the oxaliplatin c
 The combined incidence of cough, dyspnea and hypoxia was 43% (any grade) and 7% (grade 3 and 4) in the oxaliplatin plus 5-fluorouracil/leucovorin arm compared to 32% (any grade) and 5% (grade 3 and 4) in the irinotecan plus 5-fluorouracil/leucovorin arm of unknown duration for patients with previously untreated colorectal cancer.
 In case of unexplained respiratory symptoms such as non-productive cough, dyspnea, crackles, or radiological pulmonary infiltrates, oxaliplatin should be discontinued until further pulmonary investigation excludes interstitial lung disease or pulmonary fibrosis.
 
-## 5.4 Hepatotoxicity
+## 5.5 Hepatotoxicity
 
 Hepatotoxicity as evidenced in the adjuvant study, by increase in transaminases (57% vs. 34%) and alkaline phosphatase (42% vs. 20%) was observed more commonly in the oxaliplatin combination arm than in the control arm.
 The incidence of increased bilirubin was similar on both arms.
 Changes noted on liver biopsies include: peliosis, nodular regenerative hyperplasia or sinusoidal alterations, perisinusoidal fibrosis, and veno-occlusive lesions.
 Hepatic vascular disorders should be considered, and if appropriate, should be investigated in case of abnormal liver function test results or portal hypertension, which cannot be explained by liver metastases [see Clinical Trials Experience (6.1)].
 
-## 5.5 Use in Pregnancy
+## 5.6 Cardiovascular Toxicity
+
+QT prolongation and ventricular arrhythmias including fatal Torsade de Pointes have been reported in postmarketing experiences following oxaliplatin administration.
+ECG monitoring is recommended if therapy is initiated in patients with congestive heart failure, bradyarrhythmias, drugs known to prolong the QT interval, including Class Ia and III antiarrhythmics, and electrolyte abnormalities.
+Correct hypokalemia or hypomagnesemia prior to initiating oxaliplatin and monitor these electrolytes periodically during therapy.
+Avoid oxaliplatin in patients with congenital long QT syndrome [see Adverse Reactions (6.2)].
+
+## 5.7 Rhabdomyolysis
+
+Rhabdomyolysis, including fatal cases, has been reported in patients treated with oxaliplatin.
+Discontinue oxaliplatin if any signs or symptoms of rhabdomyolysis occur [see Adverse Reactions (6.2)].
+
+## 5.8 Use in Pregnancy
 
 Pregnancy Category D
 
@@ -91,7 +112,7 @@ Oxaliplatin may cause fetal harm when administered to a pregnant woman.
 There are no adequate and well-controlled studies of oxaliplatin in pregnant women.
 Women of childbearing potential should be advised to avoid becoming pregnant while receiving treatment with oxaliplatin [see Use in Specific Populations (8.1)].
 
-## 5.6 Recommended Laboratory Tests
+## 5.9 Recommended Laboratory Tests
 
 Standard monitoring of the white blood cell count with differential, hemoglobin, platelet count, and blood chemistries (including ALT, AST, bilirubin and creatinine) is recommended before each oxaliplatin injection cycle [see Dosage and Administration (2)].
 
