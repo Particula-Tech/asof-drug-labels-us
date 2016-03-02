@@ -1,4 +1,4 @@
-# 5. WARNINGS AND PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
 ## 5.1 Myocardial Ischemia, Myocardial Infarction, and Prinzmetal Angina
 

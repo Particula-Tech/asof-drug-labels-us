@@ -1,4 +1,4 @@
-# 6. ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 The following adverse reactions are described elsewhere in other sections of the prescribing information:
 

@@ -1,4 +1,4 @@
-# 10. OVERDOSAGE
+# 10 OVERDOSAGE
 
 There is no experience with acute overdose of zolmitriptan.
 Clinical study subjects who received single 50 mg oral doses of zolmitriptan commonly experienced sedation.

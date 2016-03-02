@@ -1,4 +1,4 @@
-# 4. CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
 Zolmitriptan orally disintegrating tablets are contraindicated in patients with:
 

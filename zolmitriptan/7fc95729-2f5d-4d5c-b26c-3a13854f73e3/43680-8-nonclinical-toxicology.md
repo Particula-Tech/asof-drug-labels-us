@@ -1,6 +1,6 @@
-# 13. NONCLINICAL TOXICOLOGY
+# 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+## 13.3 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Carcinogenesis
 

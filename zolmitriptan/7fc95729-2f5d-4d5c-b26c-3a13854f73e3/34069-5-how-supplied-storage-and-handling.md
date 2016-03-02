@@ -1,4 +1,4 @@
-# 16. HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Zolmitriptan Orally Disintegrating Tablets, 2.5 mg are white/mottled white to cream white, round, flat-faced, uncoated tablet, debossed with '715' on one side and plain on the other side and are supplied as follows:
 

@@ -1,4 +1,4 @@
-# 3. DOSAGE FORMS AND STRENGTHS
+# 3 DOSAGE FORMS AND STRENGTHS
 
 2.5 mg tablets are white/mottled white to cream white, round, flat-faced uncoated tablet, debossed with '715' on one side and plain on other the side.
 

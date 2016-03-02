@@ -1,4 +1,4 @@
-# 11. DESCRIPTION
+# 11 DESCRIPTION
 
 Zolmitriptan orally disintegrating tablets contain zolmitriptan, which is a selective 5-hydroxytryptamine1B/1D(5-HT1B/1D) receptor agonist.
 Zolmitriptan is chemically designated as (S)-4-[[3-[2-(dimethylamino)ethyl]-1H-indol-5-yl]methyl]-2-oxazolidinone and has the following chemical structure:

@@ -1,4 +1,4 @@
-# 1. INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
 Zolmitriptan orally disintegrating tablets are indicated for the acute treatment of migraine with or without aura in adults.
 
