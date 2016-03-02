@@ -4,7 +4,7 @@
 
 Metformin
 
-Lactic acidosis is a serious, metabolic complication that can occur due to metformin accumulation during treatment with JENTADUETO or JENTADUETO XR and is fatal in approximately 50% of cases.
+Lactic acidosis is a serious, metabolic complication that can occur due to metformin accumulation during treatment with JENTADUETO and is fatal in approximately 50% of cases.
 Lactic acidosis may also occur in association with a number of pathophysiologic conditions, including diabetes mellitus, and whenever there is significant tissue hypoperfusion and hypoxemia.
 Lactic acidosis is characterized by elevated blood lactate levels (>5 mmol/L), decreased blood pH, electrolyte disturbances with an increased anion gap, and an increased lactate/pyruvate ratio.
 When metformin is implicated as the cause of lactic acidosis, metformin plasma levels of >5 µg/mL are generally found.
@@ -26,7 +26,7 @@ Use of topiramate, a carbonic anhydrase inhibitor, in epilepsy and migraine prop
 The onset of lactic acidosis is often subtle, and accompanied by nonspecific symptoms such as malaise, myalgias, respiratory distress, increasing somnolence, and nonspecific abdominal distress.
 More severe acidosis may be associated with signs such as hypothermia, hypotension, and resistant bradyarrhythmias.
 Patients should be educated to recognize and promptly report these symptoms.
-If present, JENTADUETO or JENTADUETO XR should be discontinued until lactic acidosis is ruled out.
+If present, JENTADUETO should be discontinued until lactic acidosis is ruled out.
 Gastrointestinal symptoms, which are commonly reported during initiation of metformin therapy are less frequently observed in subjects on a chronic, stable, dose of metformin.
 Gastrointestinal symptoms in subjects on chronic, stable, dose of metformin could be caused by lactic acidosis or other serious disease.
 
@@ -43,19 +43,19 @@ Such management often results in prompt reversal of symptoms and recovery [see B
 
 There have been postmarketing reports of acute pancreatitis, including fatal pancreatitis, in patients taking linagliptin.
 Take careful notice of potential signs and symptoms of pancreatitis.
-If pancreatitis is suspected, promptly discontinue JENTADUETO or JENTADUETO XR and initiate appropriate management.
-It is unknown whether patients with a history of pancreatitis are at increased risk for the development of pancreatitis while using JENTADUETO or JENTADUETO XR.
+If pancreatitis is suspected, promptly discontinue JENTADUETO and initiate appropriate management.
+It is unknown whether patients with a history of pancreatitis are at increased risk for the development of pancreatitis while using JENTADUETO.
 
 ## 5.3 Monitoring of Renal Function
 
 Although linagliptin undergoes minimal renal excretion, metformin is known to be substantially excreted by the kidney.
 The risk of metformin accumulation and lactic acidosis increases with the degree of renal impairment.
-Therefore, JENTADUETO or JENTADUETO XR is contraindicated in patients with renal impairment.
+Therefore, JENTADUETO is contraindicated in patients with renal impairment.
 
-Before initiation of therapy with JENTADUETO or JENTADUETO XR and at least annually thereafter, renal function should be assessed and verified to be normal.
-In patients in whom development of renal impairment is anticipated (e.g., elderly), renal function should be assessed more frequently and JENTADUETO or JENTADUETO XR discontinued if evidence of renal impairment is present.
+Before initiation of therapy with JENTADUETO and at least annually thereafter, renal function should be assessed and verified to be normal.
+In patients in whom development of renal impairment is anticipated (e.g., elderly), renal function should be assessed more frequently and JENTADUETO discontinued if evidence of renal impairment is present.
 
-Linagliptin may be continued as a single entity tablet at the same total daily dose of 5 mg if JENTADUETO or JENTADUETO XR is discontinued due to evidence of renal impairment.
+Linagliptin may be continued as a single entity tablet at the same total daily dose of 5 mg if JENTADUETO is discontinued due to evidence of renal impairment.
 No dose adjustment of linagliptin is recommended in patients with renal impairment.
 
 Use of concomitant medications that may affect renal function or metformin disposition:
@@ -65,13 +65,13 @@ Concomitant medication(s) that may affect renal function or result in significan
 Radiological studies and surgical procedures:
 
 Radiologic studies involving the use of intravascular iodinated contrast materials (e.g., intravenous urogram, intravenous cholangiography, angiography, and computed tomography) can lead to acute alteration of renal function and have been associated with lactic acidosis in patients receiving metformin.
-Therefore, in patients in whom any such study is planned, JENTADUETO or JENTADUETO XR should be temporarily discontinued at the time of or prior to the procedure, and withheld for 48 hours subsequent to the procedure and reinstituted only after renal function has been confirmed to be normal.
+Therefore, in patients in whom any such study is planned, JENTADUETO should be temporarily discontinued at the time of or prior to the procedure, and withheld for 48 hours subsequent to the procedure and reinstituted only after renal function has been confirmed to be normal.
 
-JENTADUETO or JENTADUETO XR should be temporarily discontinued for any surgical procedure (except minor procedures not associated with restricted intake of food and fluids) and should not be restarted until the patient’s oral intake has resumed and renal function has been evaluated as normal.
+JENTADUETO should be temporarily discontinued for any surgical procedure (except minor procedures not associated with restricted intake of food and fluids) and should not be restarted until the patient’s oral intake has resumed and renal function has been evaluated as normal.
 
 ## 5.4 Impaired Hepatic Function
 
-Because impaired hepatic function has been associated with some cases of lactic acidosis with metformin therapy, JENTADUETO or JENTADUETO XR should generally be avoided in patients with clinical or laboratory evidence of hepatic disease [see Warnings and Precautions (5.1)].
+Because impaired hepatic function has been associated with some cases of lactic acidosis with metformin therapy, JENTADUETO should generally be avoided in patients with clinical or laboratory evidence of hepatic disease [see Warnings and Precautions (5.1)].
 
 ## 5.5 Use with Medications Known to Cause Hypoglycemia
 
@@ -80,7 +80,7 @@ Linagliptin
 Insulin secretagogues and insulin are known to cause hypoglycemia.
 The use of linagliptin in combination with an insulin secretagogue (e.g., sulfonylurea) was associated with a higher rate of hypoglycemia compared with placebo in a clinical trial [see Adverse Reactions (6.1)].
 The use of linagliptin in combination with insulin in subjects with severe renal impairment was associated with a higher rate of hypoglycemia [see Adverse Reactions (6.1)].
-Therefore, a lower dose of the insulin secretagogue or insulin may be required to reduce the risk of hypoglycemia when used in combination with JENTADUETO or JENTADUETO XR [see Dosage and Administration (2.2)].
+Therefore, a lower dose of the insulin secretagogue or insulin may be required to reduce the risk of hypoglycemia when used in combination with JENTADUETO [see Dosage and Administration (2.2)].
 
 Metformin
 
@@ -90,13 +90,13 @@ Hypoglycemia may be difficult to recognize in the elderly, and in people who are
 
 ## 5.6 Hypersensitivity Reactions
 
-There have been postmarketing reports of serious hypersensitivity reactions in patients treated with linagliptin (one of the components of JENTADUETO or JENTADUETO XR).
+There have been postmarketing reports of serious hypersensitivity reactions in patients treated with linagliptin (one of the components of JENTADUETO).
 These reactions include anaphylaxis, angioedema, and exfoliative skin conditions.
 Onset of these reactions occurred within the first 3 months after initiation of treatment with linagliptin, with some reports occurring after the first dose.
-If a serious hypersensitivity reaction is suspected, discontinue JENTADUETO or JENTADUETO XR, assess for other potential causes for the event, and institute alternative treatment for diabetes.
+If a serious hypersensitivity reaction is suspected, discontinue JENTADUETO, assess for other potential causes for the event, and institute alternative treatment for diabetes.
 
 Angioedema has also been reported with other dipeptidyl peptidase-4 (DPP-4) inhibitors.
-Use caution in a patient with a history of angioedema to another DPP-4 inhibitor because it is unknown whether such patients will be predisposed to angioedema with JENTADUETO or JENTADUETO XR.
+Use caution in a patient with a history of angioedema to another DPP-4 inhibitor because it is unknown whether such patients will be predisposed to angioedema with JENTADUETO.
 
 ## 5.7 Vitamin B12 Levels
 
@@ -104,19 +104,19 @@ In controlled, 29-week clinical trials of metformin, a decrease to subnormal lev
 Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, is, however, very rarely associated with anemia or neurologic manifestations due to the short duration (<1 year) of the clinical trials.
 This risk may be more relevant to patients receiving long-term treatment with metformin, and adverse hematologic and neurologic reactions have been reported postmarketing.
 The decrease in vitamin B12 levels appears to be rapidly reversible with discontinuation of metformin or vitamin B12 supplementation.
-Measurement of hematologic parameters on an annual basis is advised in patients on JENTADUETO or JENTADUETO XR and any apparent abnormalities should be appropriately investigated and managed.
+Measurement of hematologic parameters on an annual basis is advised in patients on JENTADUETO and any apparent abnormalities should be appropriately investigated and managed.
 Certain individuals (those with inadequate vitamin B12 or calcium intake or absorption) appear to be predisposed to developing subnormal vitamin B12 levels.
 In these patients, routine serum vitamin B12 measurement at 2- to 3-year intervals may be useful.
 
 ## 5.8 Alcohol Intake
 
 Alcohol is known to potentiate the effect of metformin on lactate metabolism.
-Patients, therefore, should be warned against excessive alcohol intake while receiving JENTADUETO or JENTADUETO XR [see Warnings and Precautions (5.1)].
+Patients, therefore, should be warned against excessive alcohol intake while receiving JENTADUETO [see Warnings and Precautions (5.1)].
 
 ## 5.9 Hypoxic States
 
 Cardiovascular collapse (shock) from whatever cause (e.g., acute congestive heart failure, acute myocardial infarction, and other conditions characterized by hypoxemia) have been associated with lactic acidosis and may also cause prerenal azotemia.
-When such events occur in patients on JENTADUETO or JENTADUETO XR therapy, the drug should be promptly discontinued [see Warnings and Precautions (5.1)].
+When such events occur in patients on JENTADUETO therapy, the drug should be promptly discontinued [see Warnings and Precautions (5.1)].
 
 ## 5.10 Severe and Disabling Arthralgia
 

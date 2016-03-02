@@ -1,6 +1,6 @@
 # 4 CONTRAINDICATIONS
 
-JENTADUETO and JENTADUETO XR are contraindicated in patients with:
+JENTADUETO is contraindicated in patients with:
 
 - Renal impairment (e.g., serum creatinine ≥1.5 mg/dL for men, ≥1.4 mg/dL for women, or abnormal creatinine clearance), which may also result from conditions such as cardiovascular collapse (shock), acute myocardial infarction, and septicemia [see Warnings and Precautions (5.1, 5.3)]
 - Acute or chronic metabolic acidosis, including diabetic ketoacidosis.

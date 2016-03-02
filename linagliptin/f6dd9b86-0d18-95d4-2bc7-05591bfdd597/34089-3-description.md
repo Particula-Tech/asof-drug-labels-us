@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-JENTADUETO and JENTADUETO XR tablets contain 2 oral antihyperglycemic drugs used in the management of type 2 diabetes mellitus: linagliptin and metformin hydrochloride.
+JENTADUETO tablets contain 2 oral antihyperglycemic drugs used in the management of type 2 diabetes mellitus: linagliptin and metformin hydrochloride.
 
 Linagliptin
 
@@ -29,12 +29,5 @@ The structural formula is:
 
 JENTADUETO
 
-JENTADUETO is available for oral administration as tablets containing 2.5 mg linagliptin and 500 mg metformin hydrochloride (JENTADUETO 2.5 mg/500 mg), 850 mg metformin hydrochloride (JENTADUETO 2.5 mg/850 mg), or 1000 mg metformin hydrochloride (JENTADUETO 2.5 mg/1000 mg).
+JENTADUETO is available for oral administration as tablets containing 2.5 mg linagliptin and 500 mg metformin hydrochloride (JENTADUETO 2.5 mg/500 mg), 850 mg metformin hydrochloride (JENTADUETO 2.5 mg/850 mg) or 1000 mg metformin hydrochloride (JENTADUETO 2.5 mg/1000 mg).
 Each film-coated tablet of JENTADUETO contains the following inactive ingredients: arginine, corn starch, copovidone, colloidal silicon dioxide, magnesium stearate, titanium dioxide, propylene glycol, hypromellose, talc, yellow ferric oxide (2.5 mg/500 mg; 2.5 mg/850 mg) and/or red ferric oxide (2.5 mg/850 mg; 2.5 mg/1000 mg).
-
-JENTADUETO XR
-
-JENTADUETO XR consists of an extended-release metformin core tablet that is spray-coated with four layers, one of which contains the immediate-release drug substance linagliptin.
-JENTADUETO XR is available for oral administration as tablets containing 5 mg linagliptin and 1000 mg metformin hydrochloride extended-release (JENTADUETO XR 5 mg/1000 mg) or 2.5 mg linagliptin and 1000 mg metformin hydrochloride extended-release (JENTADUETO XR 2.5 mg/1000 mg).
-Each coated tablet of JENTADUETO XR contains the following inactive ingredients: Tablet core: polyethylene oxide, hypromellose, and magnesium stearate.
-Coatings: hydroxypropyl cellulose, hypromellose, talc, titanium dioxide, arginine, polyethylene glycol, ferric oxide yellow (2.5 mg /1000 mg), carnauba wax, ferrosoferric oxide, propylene glycol, and isopropyl alcohol.
