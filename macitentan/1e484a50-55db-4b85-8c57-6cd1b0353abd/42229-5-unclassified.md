@@ -1,6 +1,6 @@
 Manufactured for: Actelion Pharmaceuticals US, Inc. 5000 Shoreline Court, Ste.
 200 South San Francisco, CA 94080, USA
 
-© 2015 Actelion Pharmaceuticals US, Inc. All rights reserved.
+© 2016 Actelion Pharmaceuticals US, Inc. All rights reserved.
 
-ACT20151215
+ACT20160120
