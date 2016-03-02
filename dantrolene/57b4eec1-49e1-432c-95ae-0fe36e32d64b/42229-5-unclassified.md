@@ -1,8 +1,13 @@
 Rx Only.
 
-Prescribing information as of July 2012.
+Dist. by: Par Pharmaceutical Chestnut Ridge, NY 10977 U.S.A.
 
-Distributed by: JHP Pharmaceuticals, LLC.
-Rochester, MI, 48307
+Mfg. by: Par Formulations Private Limited 1/58 Pudupakkam, Kelambakkam – 603 103
 
-3003041C
+Made in India
+
+SE7583/00
+
+I10/15
+
+OS124J-01-90-01

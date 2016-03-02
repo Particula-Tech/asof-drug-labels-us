@@ -11,4 +11,4 @@ Dantrium (dantrolene sodium) is available in:
 | NDC 42023-126-01 | bottle of 100 |
 
 Store between 20° to 25°C (68° to 77°F).
-(See USP Controlled Room Temperature.)
+[See USP Controlled Room Temperature].
