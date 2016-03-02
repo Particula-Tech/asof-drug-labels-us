@@ -127,26 +127,30 @@ COMPLERA is a complete regimen for the treatment of HIV-1 infection; therefore, 
 Information regarding potential drug-drug interactions with other HIV antiretroviral medications is not provided.
 Please refer to the Edurant, VIREAD and EMTRIVA prescribing information as needed.
 
-The drug interaction studies described were conducted with emtricitabine, rilpivirine, or tenofovir DF as individual agents; no drug interaction studies have been conducted using COMPLERA.
+The drug interaction studies described were conducted with COMPLERA as a combination product or with emtricitabine, rilpivirine, or tenofovir DF as individual agents.
+
+COMPLERA: A drug interaction study for COMPLERA was performed with HARVONI (ledipasvir/sofosbuvir).
+No effect on the pharmacokinetic parameters of ledipasvir, sofosbuvir, and GS-331007 (the predominant circulating metabolite of sofosbuvir) was observed.
+There was no effect on the Cmax, AUC, and Cmin of emtricitabine or rilpivirine; tenofovir Cmax increased by 32% (90% confidence interval [CI]: [↑25% to ↑39%]), tenofovir AUC increased by 40% (90% CI: [↑31% to ↑50%]), and tenofovir Cmin increased by 91% (90% CI: [↑74% to ↑110%]) [See Drug Interactions (7.5)].
 
 Emtricitabine and Tenofovir Disoproxil Fumarate: In vitro and clinical pharmacokinetic drug-drug interaction studies have shown that the potential for CYP mediated interactions involving emtricitabine and tenofovir with other medicinal products is low.
 
 Emtricitabine and tenofovir are primarily excreted by the kidneys by a combination of glomerular filtration and active tubular secretion.
-No drug-drug interactions due to competition for renal excretion have been observed; however, coadministration of emtricitabine and tenofovir DF with drugs that are eliminated by active tubular secretion may increase concentrations of emtricitabine, tenofovir, and/or the coadministered drug [See Drug Interactions (7.6)].
+No drug-drug interactions due to competition for renal excretion have been observed; however, coadministration of emtricitabine and tenofovir DF with drugs that are eliminated by active tubular secretion may increase concentrations of emtricitabine, tenofovir, and/or the coadministered drug [See Drug Interactions (7.3, 7.6)].
 
 Drugs that decrease renal function may increase concentrations of emtricitabine and/or tenofovir.
 
 Drug interaction studies were performed for emtricitabine and the following medications: tenofovir DF and famciclovir.
-Tenofovir increased the Cmin of emtricitabine by 20% (90% confidence interval [CI]: [↑12 to ↑29]) and had no effect on emtricitabine Cmax and AUC.
+Tenofovir increased the Cmin of emtricitabine by 20% (90% CI: [↑12% to ↑29%]) and had no effect on emtricitabine Cmax and AUC.
 Emtricitabine had no effect on the Cmax, AUC and Cmin of tenofovir.
 Coadministration of emtricitabine and famciclovir had no effect on the Cmax or AUC of either medication.
 
 Drug interaction studies were performed for tenofovir DF and the following medications: entecavir, methadone, oral contraceptives (ethinyl estradiol/norgestimate), ribavirin, and tacrolimus.
-Tacrolimus increased the Cmax of tenofovir by 13% (90% CI: [↑1 to ↑27]) and had no effect on the tenofovir AUC and Cmin.
+Tacrolimus increased the Cmax of tenofovir by 13% (90% CI: [↑1% to ↑27%]) and had no effect on the tenofovir AUC and Cmin.
 Tenofovir had no effect on the Cmax, AUC and Cmin of tacrolimus.
 
 The Cmax, AUC and Cmin of tenofovir were not affected in the presence of entecavir.
-Tenofovir increased the AUC of entecavir by 13% (90% CI: [↑11 to ↑15]) and had no effect on the entecavir Cmax and Cmin.
+Tenofovir increased the AUC of entecavir by 13% (90% CI: [↑11% to ↑15%]) and had no effect on the entecavir Cmax and Cmin.
 
 Tenofovir had no effect on the Cmax, AUC and Cmin of methadone or ethinyl estradiol/norgestimate or the Cmax and AUC of ribavirin.
 
@@ -179,6 +183,7 @@ Table 6 Drug Interactions: Changes in Pharmacokinetic Parameters for Rilpivirine
 | Rifabutin | 300 mg once daily | 25 mg once daily | 18 | ↓ 31 (↓ 38 to ↓ 24) | ↓ 42 (↓ 48 to ↓ 35) | ↓ 48 (↓ 54 to ↓ 41) |
 | 300 mg once daily | 50 mg once daily | 18 | ↑ 43 (↑ 30 to ↑ 56)Reference arm for comparison was 25 mg q.d. rilpivirine administered alone. | ↑ 16 (↑ 6 to ↑ 26) | ↓ 7 (↓ 15 to↑ 1) |  |
 | Rifampin | 600 mg once daily | 150 mg once daily | 16 | ↓ 69 (↓ 73 to ↓ 64) | ↓ 80 (↓ 82 to ↓ 77) | ↓ 89 (↓ 90 to ↓ 87) |
+| Simeprevir | 25 mg once daily | 150 mg once daily | 23 | ↑ 4 (↓ 5 to ↑ 13) | ↑ 12 (↑ 5 to ↑ 19) | ↑ 25 (↑ 16 to ↑ 35) |
 | Sildenafil | 50 mg single dose | 75 mg once daily | 16 | ↓ 8 (↓ 15 to ↓ 1) | ↓ 2 (↓ 8 to ↑ 5) | ↑ 4 (↓ 2 to ↑ 9) |
 | Telaprevir | 750 mg every 8 hours | 25 mg once daily | 16 | ↑ 49 (↑ 20 to ↑ 84) | ↑ 78 (↑ 44 to ↑ 120) | ↑ 93 (↑ 55 to ↑ 141) |
 | Tenofovir Disoproxil Fumarate | 300 mg once daily | 150 mg once daily | 16 | ↓4 (↓19 to ↑13) | ↑1 (↓13 to ↑18) | ↓1 (↓17 to ↑16) |
@@ -189,26 +194,22 @@ Table 7 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministe
 | Cmax | AUC | Cmin |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Coadministered Drug | Dose of Coadministered Drug (mg) | Dose of Rilpivirine | NN=maximum number of subjects for Cmax, AUC, or Cmin | Mean % Change of Coadministered Drug Pharmacokinetic ParametersIncrease = ↑; Decrease = ↓; No Effect = ↔ (90% CI) |  |  |
-| Acetaminophen | 500 mg single dose | 150 mg once dailyThe Interaction study has been performed with a dose higher than the recommended dose for rilpivirine (25 mg once daily). | 16 | ↓ 3 (↓ 14 to ↑ 10) | ↓ 9 (↓ 14 to ↓ 3) | NA |
-| Atorvastatin | 40 mg once daily | 150 mg once daily | 16 | ↑ 35 (↑ 8 to ↑ 68) | ↑ 4 (↓ 3 to ↑ 12) | ↓ 15 (↓ 31 to ↑ 3) |
+| Atorvastatin | 40 mg once daily | 150 mg once dailyThe Interaction study has been performed with a dose higher than the recommended dose for rilpivirine (25 mg once daily). | 16 | ↑ 35 (↑ 8 to ↑ 68) | ↑ 4 (↓ 3 to ↑ 12) | ↓ 15 (↓ 31 to ↑ 3) |
 | 2-hydroxy-atorvastatin | 16 | ↑ 58 (↑ 33 to ↑ 87) | ↑ 39 (↑ 29 to ↑ 50) | ↑ 32 (↑ 10 to ↑ 58) |  |  |
 | 4-hydroxy-atorvastatin | 16 | ↑ 28 (↑ 15 to ↑ 43) | ↑ 23 (↑ 13 to ↑ 33) | NA |  |  |
-| Chlorzoxazone | 500 mg single dose taken 2 hours after rilpivirine | 150 mg once daily | 16 | ↓ 2 (↓ 15 to ↑ 13) | ↑ 3 (↓ 5 to ↑ 13) | NA |
-| Digoxin | 0.5 mg single dose | 25 mg once daily | 22 | ↑ 6 (↓ 3 to ↑ 17) | ↓ 2 (↓ 7 to ↑ 4)AUC(0–last) | NA |
 | Ethinyl estradiol | 0.035 mg once daily | 25 mg once daily | 17 | ↑ 17 (↑ 6 to ↑ 30) | ↑ 14 (↑ 10 to ↑ 19) | ↑ 9 (↑ 3 to ↑ 16) |
-| Norethindrone | 1 mg once daily | 17 | ↓ 6 (↓ 17 to ↑ 6) | ↓ 11 (↓ 16 to ↓ 6) | ↓ 1 (↓ 10 to ↑ 8) |  |
 | Ketoconazole | 400 mg once daily | 150 mg once daily | 14 | ↓ 15 (↓ 20 to ↓ 10) | ↓ 24 (↓ 30 to ↓ 18) | ↓ 66 (↓ 75 to ↓ 54) |
 | R(−) methadone | 60–100 mg once daily individualized dose | 25 mg once daily | 13 | ↓ 14 (↓ 22 to ↓ 5) | ↓ 16 (↓ 26 to ↓ 5) | ↓ 22 (↓ 33 to ↓ 9) |
 | S(+) methadone | 13 | ↓ 13 (↓ 22 to ↓ 3) | ↓ 16 (↓ 26 to ↓ 4) | ↓ 21 (↓ 33 to ↓ 8) |  |  |
-| Metformin | 850 mg single dose | 25 mg once daily | 20 | ↑ 2 (↓ 5 to ↑ 10) | ↓ 3 (↓ 10 to ↑ 6)N (maximum number of subjects with data) for AUC(0–∞)=15 | NA |
 | Omeprazole | 20 mg once daily | 150 mg once daily | 15 | ↓ 14 (↓ 32 to ↑ 9) | ↓ 14 (↓ 24 to ↓ 3) | NA |
 | Rifampin | 600 mg once daily | 150 mg once daily | 16 | ↑ 2 (↓ 7 to ↑ 12) | ↓ 1 (↓ 8 to ↑ 7) | NA |
 | 25-desacetylrifampin | 16 | ↔ (↓ 13 to ↑ 15) | ↓ 9 (↓ 23 to ↑ 7) | NA |  |  |
-| Sildenafil | 50 mg single dose | 75 mg once daily | 16 | ↓ 7 (↓ 20 to ↑ 8) | ↓ 3 (↓ 13 to ↑ 8) | NA |
-| N-desmethyl-sildenafil | 16 | ↓ 10 (↓ 20 to ↑ 2) | ↓ 8 (↓ 15 to ↓ 1) | NA |  |  |
+| Simeprevir | 150 mg once daily | 25 mg once daily | 21 | ↑ 10 (↓ 3 to ↑ 26) | ↑ 6 (↓ 6 to ↑ 19) | ↓ 4 (↓ 17 to ↑ 11) |
 | Telaprevir | 750 mg every 8 hours | 25 mg once daily | 13 | ↓ 3 (↓ 21 to ↑ 21) | ↓ 5 (↓ 24 to ↑ 18) | ↓ 11 (↓ 33 to ↑ 18) |
 | Tenofovir Disoproxil Fumarate | 300 mg once daily | 150 mg once daily | 16 | ↑19 (↑6 to ↑34) | ↑23 (↑16 to ↑31) | ↑24 (↑10 to ↑38) |
-| NA = not available |  |  |  |  |  |  |
+| NA = not available d. AUC(0-last) |  |  |  |  |  |  |
+
+No effect on the pharmacokinetic parameters of the following coadministered drugs was observed with rilpivirine: acetaminophen, chlorzoxazone (administered 2 hours after rilpivirine), digoxin, ledipasvir, norethindrone, metformin, sildenafil (and its metabolite, N-desmethyl-sildenafil), and sofosbuvir (and its predominant circulating metabolite, GS-331007).
 
 ## 12.4 Microbiology
 

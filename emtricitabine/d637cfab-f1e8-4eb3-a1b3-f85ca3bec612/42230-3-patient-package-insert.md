@@ -164,6 +164,7 @@ Especially tell your healthcare provider if you take:
   - fluconazole (Diflucan®)
   - itraconazole (Sporanox®)
   - ketoconazole (Nizoral®)
+  - ledipasvir/sofosbuvir (HARVONI®)
   - methadone (Dolophine®)
   - posaconazole (Noxafil®)
   - telithromycin (Ketek®)
@@ -288,4 +289,4 @@ Active ingredients: emtricitabine, rilpivirine hydrochloride, and tenofovir diso
 Inactive ingredients: pregelatinized starch, lactose monohydrate, microcrystalline cellulose, croscarmellose sodium, magnesium stearate, povidone, polysorbate 20.
 The tablet film coating contains polyethylene glycol, hypromellose, lactose monohydrate, triacetin, titanium dioxide, iron oxide red, FD&C Blue #2 aluminum lake, FD&C Yellow #6 aluminum lake.
 
-This Patient Information has been approved by the U.S. Food and Drug Administration
+This Patient Information has been approved by the U.S. Food and Drug Administration.
