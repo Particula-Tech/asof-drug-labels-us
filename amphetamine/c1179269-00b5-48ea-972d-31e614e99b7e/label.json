@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA204326"
+  ],
+  "inn": "amphetamine",
+  "labeler": "Neos Therapeutics, LP",
+  "package_ndcs": [
+    "70165-005-30",
+    "70165-010-30",
+    "70165-015-30",
+    "70165-020-30",
+    "70165-025-30",
+    "70165-030-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "amphetamine",
+      "name": "Adzenys XR-ODT"
+    }
+  ],
+  "setid": "c1179269-00b5-48ea-972d-31e614e99b7e",
+  "source": "dailymed"
+}

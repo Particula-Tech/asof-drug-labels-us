@@ -1,0 +1,87 @@
+# 12. CLINICAL PHARMACOLOGY
+
+## 12.1 Mechanism of Action
+
+Amphetamines are non-catecholamine sympathomimetic amines with CNS stimulant activity.
+The mode of therapeutic action in ADHD is not known.
+Amphetamines are thought to block the reuptake of norepinephrine and dopamine into the presynaptic neuron and increase the release of these monoamines into the extraneuronal space.
+
+## 12.3 Pharmacokinetics
+
+Absorption
+
+Following a single, 18.8 mg oral dose of ADZENYS XR-ODT in 40 healthy adult subjects in a crossover study under fasting conditions, d-amphetamine mean (±SD) peak plasma concentrations of 44.9 (±8.9) ng/mL occurred at a median time of 5.0 hours after dosing, and l-amphetamine mean (±SD) peak plasma concentrations of 14.5 (+ 3.0 ng/mL occurred at a median time of 5.25 hours after dosing (Figure 1).
+
+Figure 1: Mean Concentration of D-Amphetamine and L-Amphetamine vs Time for ADZENYS XR-ODT (18.8 mg) and Mixed Salts of a Single-Entity Amphetamine Product Extended-Release Capsules (MAS ER 30 mg) in the Fasted State
+
+The single dose pharmacokinetics of d-amphetamine under fed conditions are summarized (Table 6) from studies in healthy adults following an oral dose of 18.8 mg ADZENYS XR-ODT.
+
+Table 6: d-Amphetamine PK Parameters (mean + SD) after ADZENYS XR-ODT 18.8 mg
+
+| PK parameter | Adults Fasted | Adults FedA high-fat meal was consumed 30 minutes prior to drug administration |
+| --- | --- | --- |
+| Tmax (hr)Data presented as median (range) | 5.00 (3.00-12.00) | 7.00 (3.00-16.00) |
+| T1/2 (hr) | 11.25±2.0 | 11.33±2.0 |
+| Cmax (ng/ml) | 44.9±8.9 | 36.3±6.9 |
+| AUCinf (hr*ng/mL) | 876.9±182.4 | 856.3±166.1 |
+
+A single dose of ADZENYS XR-ODT 18.8 mg provided comparable plasma concentration profiles of both d-amphetamine and l-amphetamine to mixed salts of a single-entity amphetamine product extended-release capsules (MAS ER) 30 mg.
+
+The mean elimination half-life for d-amphetamine is 11 hours in adults and 9-10 hours in pediatric patients aged 6 to 12 years.
+For l-amphetamine, the mean elimination half-life in adults is 14 hours and 10-11 hours in pediatric patients aged 6 to 12 years.
+Mean weight-normalized clearance values for d-amphetamine and l-amphetamine decreased slightly with an increase in age.
+
+Food Effect
+
+Food does not affect the extent of absorption of d-amphetamine and l-amphetamine but caused a 19% reduction in Cmax.
+Food also prolonged the median tmax by approximately 2.0 hours for d-amphetamine and by 2.5 hours for l-amphetamine after administration of ADZENYS XR-ODT.
+These changes are not considered clinically significant.
+
+Alcohol Effect
+
+In an in vitro alcohol-induced dose dumping study, a substantial increase in amphetamine release occurred in the presence of 40% alcohol but not with 5%, 10% and 20% alcohol.
+
+Elimination
+
+Metabolism and Excretion
+
+Amphetamine is reported to be oxidized at the 4 position of the benzene ring to form 4-hydroxyamphetamine, or on the side chain α or β carbons to form alpha-hydroxy-amphetamine or norephedrine, respectively.
+Norephedrine and 4-hydroxy-amphetamine are both active and each is subsequently oxidized to form 4-hydroxy-norephedrine.
+Alpha-hydroxy-amphetamine undergoes deamination to form phenylacetone, which ultimately forms benzoic acid and its glucuronide and the glycine conjugate hippuric acid.
+Although the enzymes involved in amphetamine metabolism have not been clearly defined, CYP2D6 is known to be involved with formation of 4-hydroxy-amphetamine.
+Since CYP2D6 is genetically polymorphic, population variations in amphetamine metabolism are a possibility.
+
+Amphetamine is known to inhibit monoamine oxidase, whereas the ability of amphetamine and its metabolites to inhibit various P450 isozymes and other enzymes has not been adequately elucidated.
+In vitro experiments with human microsomes indicate minor inhibition of CYP2D6 by amphetamine and minor inhibition of CYP1A2, 2D6, and 3A4 by one or more metabolites.
+However, due to the probability of auto-inhibition and the lack of information on the concentration of these metabolites relative to in vivo concentrations, no predications regarding the potential for amphetamine or its metabolites to inhibit the metabolism of other drugs by CYP isozymes in vivo can be made.
+
+With normal urine pHs, approximately half of an administered dose of amphetamine is recoverable in urine as derivatives of alpha-hydroxy-amphetamine and approximately another 30-40% of the dose is recoverable in urine as amphetamine itself.
+Since amphetamine has a pKa of 9.9, urinary recovery of amphetamine is highly dependent on pH and urine flow rates.
+Alkaline urine pHs result in less ionization and reduced renal elimination, and acidic pHs and high flow rates result in increased renal elimination with clearances greater than glomerular filtration rates, indicating the involvement of active secretion.
+Urinary recovery of amphetamine has been reported to range from 1% to 75%, depending on urinary pH, with the remaining fraction of the dose hepatically metabolized.
+Consequently, both hepatic and renal dysfunction have the potential to inhibit the elimination of amphetamine and result in prolonged exposures.
+In addition, drugs that effect urinary pH are known to alter the elimination of amphetamine, and any decrease in amphetamine's metabolism that might occur due to drug interactions or genetic polymorphisms is more likely to be clinically significant when renal elimination is decreased [see Drug Interactions (7)].
+
+Specific Populations
+
+Comparison of the pharmacokinetics of d- and l-amphetamine after oral administration of MAS ER in pediatric patients (6-12 years) and adolescent (13-17 years) ADHD patients and healthy adult volunteers indicates that body weight is the primary determinant of apparent differences in the pharmacokinetics of d-and l-amphetamine across the age range.
+Systemic exposure measured by area under the curve to infinity (AUC∞) and maximum plasma concentration (Cmax) decreased with increases in body weight, while oral volume of distribution (VZ/F), oral clearance (CL/F), and elimination half-life (t1/2) increased with increases in body weight.
+
+Pediatric Patients
+
+The pharmacokinetics of ADZENYS XR-ODT in pediatric patients has been established based on the pharmacokinetics of MAS ER in pediatric patients.
+On a mg/kg weight basis, pediatric patients eliminate amphetamine faster than adults.
+The elimination half-life (t1/2) is approximately 1 hour shorter for d-amphetamine and 2 hours shorter for l-amphetamine in pediatric patients than in adults.
+However, for a given dose of MAS ER, pediatric patients had higher systemic exposure to amphetamine (Cmax and AUC) than adults which was attributed to the higher dose administered to pediatric patients on a mg/kg body weight basis compared to adults.
+Upon dose normalization on a mg/kg basis, pediatric patients showed 30% less systemic exposure compared to adults.
+
+Gender
+
+Systemic exposure to amphetamine was 20-30% higher in women (N=20) than in men (N=20) due to the higher dose administered to women on a mg/kg body weight basis.
+When the exposure parameters (Cmax and AUC) were normalized by dose (mg/kg), these differences diminished.
+Age and gender had no direct effect on the pharmacokinetics of d- and l-amphetamine.
+
+Race
+
+Formal pharmacokinetic studies for race have not been conducted.
+However, amphetamine pharmacokinetics appeared to be comparable among Caucasians (N=33), Blacks (N=8) and Hispanics (N=10).
