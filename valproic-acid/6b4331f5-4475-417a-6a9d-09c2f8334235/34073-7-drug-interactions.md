@@ -29,6 +29,11 @@ The mechanism of this interaction is not well understood.
 Serum valproic acid concentrations should be monitored frequently after initiating carbapenem therapy.
 Alternative antibacterial or anticonvulsant therapy should be considered if serum valproic acid concentrations drop significantly or seizure control deteriorates [see Warnings and Precautions (5.13)].
 
+Cholestyramine
+
+Cholestyramine, when concurrently administered with valproic acid, led to, on average, a 14% decrease in plasma levels of valproic acid in a study conducted in 6 healthy subjects administered Depakene (valproic acid) and cholestyramine.
+Delaying the administration of cholestyramine relative to valproic acid administration by 3 hours may lessen the interaction.
+
 Felbamate
 
 A study involving the co-administration of 1200 mg/day of felbamate with valproate to patients with epilepsy (n = 10) revealed an increase in mean valproate peak concentration by 35% (from 86 to 115 mcg/mL) compared to valproate alone.
@@ -124,6 +129,13 @@ Both the clearance and apparent volume of distribution of free phenytoin were re
 
 In patients with epilepsy, there have been reports of breakthrough seizures occurring with the combination of valproate and phenytoin.
 The dosage of phenytoin should be adjusted as required by the clinical situation.
+
+Rufinamide
+
+Based on a population pharmacokinetic analysis, rufinamide clearance was decreased by valproate.
+Rufinamide concentrations were increased by <16% to 70%, dependent on concentration of valproate (with the larger increases being seen in pediatric patients at high doses or concentrations of valproate).
+Patients stabilized on rufinamide before being prescribed valproate should begin valproate therapy at a low dose, and titrate to a clinically effective dose [see Dosage and Administration (2.3)].
+Similarly, patients on valproate should begin at a rufinamide dose lower than 10 mg/kg per day (pediatric patients) or 400 mg per day (adults).
 
 Tolbutamide
 

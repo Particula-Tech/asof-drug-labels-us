@@ -96,3 +96,7 @@ G.I.
 Irritation
 
 Patients who experience G.I. irritation may benefit from administration of the drug with food or by slowly building up the dose from an initial low level.
+
+## 2.3 Dosing in Patients Taking Rufinamide
+
+Patients stabilized on rufinamide before being prescribed valproate should begin valproate therapy at a low dose, and titrate to a clinically effective dose [see Drug Interactions (7.2)].
