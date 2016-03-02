@@ -36,7 +36,7 @@ In the same population, a dose above 10 mg resulted in death if no Digoxin Immun
 
 ## 10.2 Treatment
 
-Chronic Overdose
+### Chronic Overdose
 
 If there is suspicion of toxicity, discontinue digoxin tablets and place the patient on a cardiac monitor.
 Correct factors such as electrolyte abnormalities, thyroid dysfunction, and concomitant medications [see Dosage and Administration (2.5)].
@@ -46,7 +46,7 @@ Monitor electrocardiogram for any evidence of potassium toxicity (e.g., peaking 
 Avoid potassium salts in patients with bradycardia or heart block.
 Symptomatic arrhythmias may be treated with Digoxin Immune Fab.
 
-Acute Overdose
+### Acute Overdose
 
 Patients who have intentionally or accidently ingested massive doses of digoxin should receive activated charcoal orally or by nasogastric tube regardless of the time since ingestion since digoxin recirculates to the intestine by enterohepatic circulation.
 In addition to cardiac monitoring, temporarily discontinue digoxin tablets until the adverse reaction resolves.

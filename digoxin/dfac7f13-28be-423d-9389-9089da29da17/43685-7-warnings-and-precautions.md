@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Ventricular Fibrillation in Patients With Accessory AV Pathway (Wolff- Parkinson- White Syndrome)
+## 5.1 Ventricular Fibrillation in Patients With Accessory AV Pathway (Wolff- Parkinson-White Syndrome)
 
 Patients with Wolff-Parkinson-White syndrome who develop atrial fibrillation are at high risk of ventricular fibrillation.
 Treatment of these patients with digoxin leads to greater slowing of conduction in the atrioventricular node than in accessory pathways, and the risks of rapid ventricular response leading to ventricular fibrillation are thereby increased.
@@ -64,8 +64,3 @@ Hypothyroidism may reduce the requirements for digoxin.
 Heart failure and/or atrial arrhythmias resulting from hypermetabolic or hyperdynamic states (e.g., hyperthyroidism, hypoxia, or arteriovenous shunt) are best treated by addressing the underlying condition.
 Atrial arrhythmias associated with hypermetabolic states are particularly resistant to digoxin treatment.
 Patients with beri beri heart disease may fail to respond adequately to digoxin if the underlying thiamine deficiency is not treated concomitantly.
-
-## 5.10 Risk of Allergic Reactions due to Tartrazine
-
-The 0.125 mg strength of this product contains FD&C Yellow No. 5 (tartrazine) which may cause allergic-type reactions (including bronchial asthma) in certain susceptible persons.
-Although the overall incidence of FD&C Yellow No. 5 (tartrazine) sensitivity in the general population is low, it is frequently seen in patients who also have aspirin hypersensitivity.

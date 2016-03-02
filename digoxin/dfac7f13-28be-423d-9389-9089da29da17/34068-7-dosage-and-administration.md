@@ -51,9 +51,9 @@ Recommended Maintenance Dose (in micrograms given once daily) of Digoxin Tablets
 Recommended doses approximately 30 percent lower than the calculated dose are designated with an *.
 Monitor digoxin levels in patients receiving these initial doses and increase dose if needed.
 
-| kg | 40 | 50 | 60 | 70 | 80 | 90 | 100 |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Corrected Creatinine ClearanceFor adults, creatinine clearance was corrected to 70-kg body weight or 1.73 m2 body surface area. If only serum creatinine concentrations (Scr) are available, a corrected Ccr may be estimated in men as (140 – Age)/Scr. For women, this result should be multiplied by 0.85. For pediatric patients, the modified Schwartz equation may be used. The formula is based on height in cm and Scr in mg/dL where k is a constant. Ccr is corrected to 1.73 m2 body surface area. During the first year of life, the value of k is 0.33 for pre-term babies and 0.45 for term infants. The k is 0.55 for pediatric patients and adolescent girls and 0.7 for adolescent boys. GFR (mL/min/1.73 m2) = (k × Height)/Scr | Lean Body WeightThe doses listed assume average body composition. |  |  |  |  |  |  |  | Number of Days Before Steady State AchievedIf no loading dose administered. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| kg | 40 | 50 | 60 | 70 | 80 | 90 | 100 |  |  |
 | 10 mL/min |  | 62.5* | 125 | 125 | 187.5 | 187.5 | 187.5 | 250 | 19 |
 | 20 mL/min |  | 125 | 125 | 125 | 187.5 | 187.5 | 250 | 250 | 16 |
 | 30 mL/min |  | 125 | 125 | 187.5 | 187.5 | 250 | 250 | 312.5 | 14 |
@@ -81,7 +81,8 @@ Recommended Starting Digoxin Tablets Oral Maintenance Dosage in Pediatric Patien
 Table 5 provides average daily maintenance dose requirements for pediatric patients between 5 and 10 years old (to be given twice daily) with heart failure based on age, lean body weight, and renal function.
 
 Table 5.
-Recommended Maintenance Dose (in micrograms given TWICE daily) of Digoxin Tablets in Pediatric Patients between 5 and 10 Years of Agea Based upon Lean Body Weight and Renal FunctionRecommended are doses to be given twice daily.,The doses are rounded to the nearest dose possible using whole and/or half digoxin tablets.
+Recommended Maintenance Dose (in micrograms given TWICE daily) of Digoxin Tablets in Pediatric Patients between 5 and 10 Years of AgeRecommended are doses to be given twice daily.
+Based upon Lean Body Weight and Renal Function,The doses are rounded to the nearest dose possible using whole digoxin tablets.
 Recommended doses approximately 30 percent lower than the calculated dose are designated with an *.
 Monitor digoxin levels in patients receiving these initial doses and increase dose if needed.
 
@@ -90,14 +91,14 @@ Monitor digoxin levels in patients receiving these initial doses and increase do
 | Corrected Creatinine ClearanceThe modified Schwartz equation may be used to estimate creatinine clearance. See footnote b under Table 3. | Lean Body Weight |  |  |  |  |  | Number of Days Before Steady State AchievedIf no loading dose administered. |
 | 10 mL/min |  | - | 62.5 | 62.5* | 125 | 125 | 19 |
 | 20 mL/min |  | 62.5 | 62.5 | 125 | 125 | 125 | 16 |
-| 30 mL/min |  | 62.5 | 62.5* | 125 | 125 | 187.5 | 14 |
-| 40 mL/min |  | 62.5 | 62.5* | 125 | 187.5 | 187.5 | 13 |
+| 30 mL/min |  | 62.5 | 62.5 | 125 | 125 | 187.5 | 14 |
+| 40 mL/min |  | 62.5 | 62.5 | 125 | 187.5 | 187.5 | 13 |
 | 50 mL/min |  | 62.5 | 125 | 125 | 187.5 | 187.5 | 12 |
 | 60 mL/min |  | 62.5 | 125 | 125 | 187.5 | 250 | 11 |
 | 70 mL/min |  | 62.5 | 125 | 187.5 | 187.5 | 250 | 10 |
-| 80 mL/min |  | 62.5* | 125 | 187.5 | 187.5 | 250 | 9 |
-| 90 mL/min |  | 62.5* | 125 | 187.5 | 250 | 250 | 8 |
-| 100 mL/min |  | 62.5* | 125 | 187.5 | 250 | 312.5 | 7 |
+| 80 mL/min |  | 62.5 | 125 | 187.5 | 187.5 | 250 | 9 |
+| 90 mL/min |  | 62.5 | 125 | 187.5 | 250 | 250 | 8 |
+| 100 mL/min |  | 62.5 | 125 | 187.5 | 250 | 312.5 | 7 |
 
 ## 2.5 Monitoring to Assess Safety, Efficacy, and Therapeutic Blood Levels
 

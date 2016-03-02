@@ -1,7 +1,7 @@
-Dist. by: Global Pharmaceuticals Division of IMPAX Laboratories, Inc. Philadelphia, PA 19124 USA
+Dist. by: Impax Generics Hayward, CA 94544
 
-684-07 Rev.
-11/2013
+684-08 Rev.
+09/2015
 
 DIGIBIND® is a registered trademark of GlaxoSmithKline.
 DIGIFAB® is a registered trademark of Prostherics Inc.

@@ -1,6 +1,18 @@
-# PRINCIPAL DISPLAY PANEL - 0.25 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 0.125 mg Tablet Bottle Label
 
-GLOBAL®
+NDC 0115-9811-01
+
+Digoxin Tablets, USP
+
+125 mcg (0.125 mg)
+
+Rx only
+
+100 TABLETS
+
+Impax
+
+# PRINCIPAL DISPLAY PANEL - 0.25 mg Tablet Bottle Label
 
 NDC 0115-9822-01
 
@@ -12,16 +24,4 @@ Rx only
 
 100 TABLETS
 
-# PRINCIPAL DISPLAY PANEL - 0.125 mg Tablet Bottle Label
-
-GLOBAL®
-
-NDC 0115-9811-01
-
-Digoxin Tablets, USP
-
-125 mcg (0.125 mg)
-
-Rx only
-
-100 TABLETS
+Impax
