@@ -112,7 +112,7 @@ Because animal reproduction studies are not always predictive of human response,
 Metoprolol is excreted in breast milk in a very small quantity.
 An infant consuming 1 liter of breast milk daily would receive a dose of less than 1 mg of the drug.
 Fertility The effects of metoprolol on the fertility of human have not been studied.
-Metoprolol showed effects on spermatogenesis in male rats at a therapeutic dose level, but had no effect on rates of conception at higher doses in animal fertility studies (see Carcinogenesis, Mutagenesis, Impairment ofFertility).
+Metoprolol showed effects on spermatogenesis in male rats at a therapeutic dose level, but had no effect on rates of conception at higher doses in animal fertility studies (see Carcinogenesis, Mutagenesis, Impairment of Fertility).
 
 ## Pediatric Use
 

@@ -44,7 +44,7 @@ Approximately 95% of the dose can be recovered in urine.
 In most subjects (extensive metabolizers), less than 5% of an oral dose and less than 10% of an intravenous dose are excreted as unchanged drug in the urine.
 In poor metabolizers, up to 30% or 40% of oral or intravenous doses, respectively, may be excreted unchanged; the rest is excreted by the kidneys as metabolites that appear to have no beta-blocking activity.
 The renal clearance of the stereo-isomers does not exhibit stereo-selectivity in renal excretion.
-Special Populations Geriatric Patients The geriatric population may show slightly higher plasma concentrations of metoprolol as a combined result of a decreased metabolism of the drug in elderly population and a decreased hepatic blood flow.
+Special populations Geriatric Patients The geriatric population may show slightly higher plasma concentrations of metoprolol as a combined result of a decreased metabolism of the drug in elderly population and a decreased hepatic blood flow.
 However, this increase is not clinically significant or therapeutically relevant.
 Renal Impairment The systemic availability and half-life of metoprolol in patients with renal failure do not differ to a clinically significant degree from those in normal subjects.
 Hepatic Impairment Since the drug is primarily eliminated by hepatic metabolism, hepatic impairment may impact the pharmacokinetics of metoprolol.
