@@ -12,7 +12,7 @@ Acute symptoms should be treated with an inhaled, short-acting beta2-agonist.
 
 COPD may deteriorate acutely over a period of hours or chronically over several days or longer.
 If INCRUSE ELLIPTA no longer controls symptoms of bronchoconstriction; the patient’s inhaled, short-acting beta2-agonist becomes less effective; or the patient needs more short-acting beta2-agonist than usual, these may be markers of deterioration of disease.
-In this setting a re-evaluation of the patient and the COPD treatment regimen should be undertaken at once.
+In this setting a reevaluation of the patient and the COPD treatment regimen should be undertaken at once.
 Increasing the daily dose of INCRUSE ELLIPTA beyond the recommended dose is not appropriate in this situation.
 
 ## 5.2 Paradoxical Bronchospasm
@@ -29,10 +29,10 @@ There have been reports of anaphylactic reactions in patients with severe milk p
 
 INCRUSE ELLIPTA should be used with caution in patients with narrow-angle glaucoma.
 Prescribers and patients should be alert for signs and symptoms of acute narrow-angle glaucoma (e.g., eye pain or discomfort, blurred vision, visual halos or colored images in association with red eyes from conjunctival congestion and corneal edema).
-Instruct patients to consult a physician immediately if any of these signs or symptoms develops.
+Instruct patients to consult a healthcare provider immediately if any of these signs or symptoms develops.
 
 ## 5.5 Worsening of Urinary Retention
 
 INCRUSE ELLIPTA should be used with caution in patients with urinary retention.
 Prescribers and patients should be alert for signs and symptoms of urinary retention (e.g., difficulty passing urine, painful urination), especially in patients with prostatic hyperplasia or bladder-neck obstruction.
-Instruct patients to consult a physician immediately if any of these signs or symptoms develops.
+Instruct patients to consult a healthcare provider immediately if any of these signs or symptoms develops.

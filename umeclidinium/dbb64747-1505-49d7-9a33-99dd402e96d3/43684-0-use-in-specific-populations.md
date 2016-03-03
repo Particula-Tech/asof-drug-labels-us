@@ -2,13 +2,17 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects: Pregnancy Category C. There are no adequate and well-controlled trials with INCRUSE ELLIPTA in pregnant women.
+Teratogenic Effects
+
+Pregnancy Category C. There are no adequate and well-controlled trials with INCRUSE ELLIPTA in pregnant women.
 Because animal reproduction studies are not always predictive of human response, INCRUSE ELLIPTA should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-Women should be advised to contact their physicians if they become pregnant while taking INCRUSE ELLIPTA.
+Women should be advised to contact their healthcare providers if they become pregnant while taking INCRUSE ELLIPTA.
 
-There was no evidence of teratogenic effects in rats and rabbits at approximately 50 and 200 times, respectively, the MRHDID (maximum recommended human daily inhaled dose) in adults (on an AUC basis at maternal inhaled doses up to 278 mcg/kg/day in rats and maternal subcutaneous doses up to 180 mcg/kg/day in rabbits).
+There were no teratogenic effects in rats and rabbits at approximately 50 and 200 times, respectively, the maximum recommended human daily inhaled dose (MRHDID) in adults (on an AUC basis at maternal inhaled doses up to 278 mcg/kg/day in rats and maternal subcutaneous doses up to 180 mcg/kg/day in rabbits).
 
-Nonteratogenic Effects: There were no effects on perinatal and postnatal developments in rats at approximately 80 times the MRHDID in adults (on an AUC basis at maternal subcutaneous doses up to 180 mcg/kg/day).
+Nonteratogenic Effects
+
+There were no effects on perinatal and postnatal developments in rats at approximately 80 times the MRHDID in adults (on an AUC basis at maternal subcutaneous doses up to 180 mcg/kg/day).
 
 ## 8.2 Labor and Delivery
 
@@ -17,7 +21,7 @@ INCRUSE ELLIPTA should be used during labor only if the potential benefit justif
 
 ## 8.3 Nursing Mothers
 
-It is not known whether INCRUSE ELLIPTA is excreted in human breast milk.
+It is not known whether umeclidinium is excreted in human breast milk.
 Because many drugs are excreted in human milk, caution should be exercised when INCRUSE ELLIPTA is administered to a nursing woman.
 Since there are no data from well-controlled human studies on the use of INCRUSE ELLIPTA by nursing mothers, a decision should be made whether to discontinue nursing or to discontinue INCRUSE ELLIPTA, taking into account the importance of INCRUSE ELLIPTA to the mother.
 

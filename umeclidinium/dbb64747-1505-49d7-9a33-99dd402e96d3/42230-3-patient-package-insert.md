@@ -4,10 +4,6 @@ INCRUSE® ELLIPTA® [IN-cruise e-LIP-ta]
 
 (umeclidinium inhalation powder)
 
-Read the Patient Information that comes with INCRUSE ELLIPTA before you start using it and each time you get a refill.
-There may be new information.
-This Patient Information does not take the place of talking to your healthcare provider about your medical condition or treatment.
-
 What is INCRUSE ELLIPTA?
 
 INCRUSE ELLIPTA is an anticholinergic medicine.
@@ -75,13 +71,13 @@ Read the step-by-step instructions for using INCRUSE ELLIPTA at the end of this 
 - •If you miss a dose of INCRUSE ELLIPTA, take it as soon as you remember.
   Do not take more than 1 inhalation each day.
   Take your next dose at your usual time.
-  Do not take 2 doses at one time.
+  Do not take 2 doses at 1 time.
 - •If you take too much INCRUSE ELLIPTA, call your healthcare provider or go to the nearest hospital emergency room right away if you have any unusual symptoms, such as worsening shortness of breath, chest pain, increased heart rate, or shakiness.
 - •Do not use other medicines that contain an anticholinergic for any reason.
   Ask your healthcare provider or pharmacist if any of your other medicines are anticholinergic medicines.
 - •Do not stop using INCRUSE ELLIPTA unless told to do so by your healthcare provider because your symptoms might get worse.
   Your healthcare provider will change your medicines as needed.
-- •INCRUSE ELLIPTA does not relieve sudden symptoms.
+- •INCRUSE ELLIPTA does not relieve sudden breathing problems.
   Always have a rescue inhaler with you to treat sudden symptoms.
   If you do not have a rescue inhaler, call your healthcare provider to have one prescribed for you.
 - •Call your healthcare provider or get medical care right away if:
@@ -94,12 +90,12 @@ What are the possible side effects with INCRUSE ELLIPTA?
 INCRUSE ELLIPTA can cause serious side effects, including:
 
 - •sudden breathing problems immediately after inhaling your medicine.
-  If you have sudden breathing problems immediately after inhaling your medicine, stop taking INCRUSE ELLIPTA and call your doctor right away.
+  If you have sudden breathing problems immediately after inhaling your medicine, stop taking INCRUSE ELLIPTA and call your healthcare provider right away.
 - •serious allergic reactions.
   Call your healthcare provider or get emergency medical care if you get any of the following symptoms of a serious allergic reaction:
   - •rash
   - •hives
-  - •swelling of the face, mouth, and tongue
+  - •swelling of your face, mouth, and tongue
   - •breathing problems
 - •new or worsened eye problems including acute narrow-angle glaucoma.
   Acute narrow-angle glaucoma can cause permanent loss of vision if not treated.
@@ -109,8 +105,7 @@ INCRUSE ELLIPTA can cause serious side effects, including:
   - •blurred vision
   - •seeing halos or bright colors around lights
   - •red eyes
-- If you have these symptoms, call your doctor right away before taking another dose.
-
+- If you have these symptoms, call your healthcare provider right away before taking another dose.
 - •urinary retention.
   People who take INCRUSE ELLIPTA may develop new or worse urinary retention.
   Symptoms of urinary retention may include:
@@ -118,7 +113,7 @@ INCRUSE ELLIPTA can cause serious side effects, including:
   - •painful urination
   - •urinating frequently
   - •urination in a weak stream or drips
-- If you have these symptoms of urinary retention, stop taking INCRUSE ELLIPTA, and call your doctor right away before taking another dose.
+- If you have these symptoms of urinary retention, stop taking INCRUSE ELLIPTA, and call your healthcare provider right away before taking another dose.
 
 Common side effects of INCRUSE ELLIPTA include:
 
@@ -150,7 +145,7 @@ How do I store INCRUSE ELLIPTA?
   Write the date you open the tray on the label on the inhaler.
 - •Keep INCRUSE ELLIPTA and all medicines out of the reach of children.
 
-General information about INCRUSE ELLIPTA
+General information about the safe and effective use of INCRUSE ELLIPTA
 
 Medicines are sometimes prescribed for purposes not mentioned in a Patient Information leaflet.
 Do not use INCRUSE ELLIPTA for a condition for which it was not prescribed.
@@ -177,7 +172,7 @@ Read this before you start:
 
 - •If you open and close the cover without inhaling the medicine, you will lose the dose.
 - •The lost dose will be securely held inside the inhaler, but it will no longer be available to be inhaled.
-- •It is not possible to accidentally take a double dose or an extra dose in one inhalation.
+- •It is not possible to accidentally take a double dose or an extra dose in 1 inhalation.
 
 Your INCRUSE ELLIPTA inhaler
 
@@ -202,7 +197,7 @@ Important Notes:
   This is shown by a decrease in the number on the counter.
 - •If you open and close the cover without inhaling the medicine, you will lose the dose.
   The lost dose will be held in the inhaler, but it will no longer be available to be inhaled.
-  It is not possible to accidentally take a double dose or an extra dose in one inhalation.
+  It is not possible to accidentally take a double dose or an extra dose in 1 inhalation.
 - •Do not open the cover of the inhaler until you are ready to use it.
   To avoid wasting doses after the inhaler is ready, do not close the cover until after you have inhaled the medicine.
 - •Write the “Tray opened” and “Discard” dates on the inhaler label.
@@ -253,7 +248,7 @@ Figure F
 
 - •Put the mouthpiece between your lips, and close your lips firmly around it.
   Your lips should fit over the curved shape of the mouthpiece.
-- •Take one long, steady, deep breath in through your mouth.
+- •Take 1 long, steady, deep breath in through your mouth.
   Do not breathe in through your nose.
 - •Do not block the air vent with your fingers.
   See Figure G.
@@ -262,14 +257,12 @@ Figure F
 
 - •Remove the inhaler from your mouth and hold your breath for about 3 to 4 seconds (or as long as comfortable for you).
   See Figure H.
-- •Remove the inhaler from your mouth and hold your breath for about 3 to 4 seconds (or as long as comfortable for you).
-  See Figure H.
 
 Figure H
 
-Step 4.
-Breathe out slowly and gently.
-See Figure I.
+- Step 4.
+  Breathe out slowly and gently.
+  See Figure I.
 
 Figure I
 
@@ -306,9 +299,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2014, the GSK group of companies.
+©2016 the GSK group of companies.
 All rights reserved.
 
-June 2014
+February 2016
 
-INC:2PIL
+INC:3PIL
