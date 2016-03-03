@@ -1,14 +1,15 @@
 # DOSAGE AND ADMINISTRATION
 
 Milrinone Lactate in 5% Dextrose Injection should not be used for administering a loading dose.
-The information regarding loading doses for milrinone is for informational purposes only.
+The information regarding loading doses for milrinone is for 1 mg/mL vial only.
+
 A loading dose of milrinone lactate injection (1 mg [base]/mL) should be administered followed by a continuous infusion (maintenance dose) according to the following guidelines:
 
 ## Loading Dose
 
 50 mcg/kg: Administer slowly over 10 minutes.
 
-The table below shows the loading dose in milliliters (mL) of milrinone (1mg/mL) by patient body weight (kg).
+The table below shows the loading dose in milliliters (mL) of milrinone (1 mg/mL) by patient body weight (kg).
 
 Loading Dose (mL) Using 1 mg/mL Concentration
 
@@ -21,17 +22,28 @@ The loading dose may be given undiluted, but diluting to a rounded total volume 
 
 ## Maintenance Dose
 
-|  | Infusion Rate | Total Daily Dose (24 Hours) |  |
+Maintenance Dose
+
+|  | Infusion Rate | Total Daily Dose (24 hours) |  |
 | --- | --- | --- | --- |
-| Minimum | 0.375 mcg/kg/min | 0.59 mg/kg | Administer as a |
-| Standard | 0.50 mcg/kg/min | 0.77 mg/kg | continuous |
-| Maximum | 0.75 mcg/kg/min | 1.13 mg/kg | intravenous infusion |
+| Minimum | 0.375 mcg/kg/min | 0.59 mg/kg | Administer as a continuous intravenous infusion |
+| Standard | 0.50 mcg/kg/min | 0.77 mg/kg |  |
+| Maximum | 0.75 mcg/kg/min | 1.13 mg/kg |  |
+
+Milrinone drawn from vials should be diluted prior to maintenance dose administration.
+The diluents that may be used are 0.45% Sodium Chloride Injection, USP, 0.9% Sodium Chloride Injection, USP, or 5% Dextrose Injection, USP.
+The table below shows the volume of diluent in milliliters (mL) that must be used to achieve 200 mcg/mL concentration for infusion, and the resultant total volumes.
+
+| Desired Infusion Concentration mcg/mL | Milrinone 1 mg/mL (mL) | Diluent (mL) | Total Volume (mL) |
+| --- | --- | --- | --- |
+| 200 | 10 | 40 | 50 |
+| 200 | 20 | 80 | 100 |
 
 The infusion rate should be adjusted according to hemodynamic and clinical response.
 Patients should be closely monitored.
 In controlled clinical studies, most patients showed an improvement in hemodynamic status as evidenced by increases in cardiac output and reductions in pulmonary capillary wedge pressure.
 
-Note: See "Dosage Adjustment in Renally Impaired Patients."
+Note: See “Dosage Adjustment in Renally Impaired Patients.”
 Dosage may be titrated to the maximum hemodynamic effect and should not exceed 1.13 mg/kg/day.
 Duration of therapy should depend upon patient responsiveness.
 
@@ -61,17 +73,17 @@ Do not add supplementary medication.
 
 To prepare the container for administration of milrinone intravenously, use aseptic techniques.
 
-- 1)The flow control clamp of the administration set is closed.
-- 2)The cover of the outlet port at the bottom of the container is removed.
-- 3)Noting the full directions on the administration set carton, the piercing pin of the set is inserted into the port with a twisting motion until it is firmly seated.
-- 4)The container is suspended on the hanger.
-- 5)The drip chamber is squeezed and released to establish the fill level.
-- 6)The flow control clamp is opened to expel air from the set, and then closed.
-- 7)The set is attached to the venipuncture device, primed, and if not indwelling, the venipuncture is performed.
-- 8)The rate of administration is controlled with the flow control clamp.
-  WARNING- DO NOT USE IN SERIES CONNECTIONS.
-  Caution: Do not use plastic containers in series connections.
-  Such use could result in air embolism due to residual air being drawn from the primary container before administration of the fluid from the secondary container is complete.
+1. The flow control clamp of the administration set is closed.
+2. The cover of the outlet port at the bottom of the container is removed.
+3. Noting the full directions on the administration set carton, the piercing pin of the set is inserted into the port with a twisting motion until it is firmly seated.
+4. The container is suspended on the hanger.
+5. The drip chamber is squeezed and released to establish the fill level.
+6. The flow control clamp is opened to expel air from the set, and then closed.
+7. The set is attached to the venipuncture device, primed, and if not indwelling, the venipuncture is performed.
+8. The rate of administration is controlled with the flow control clamp.
+   WARNING- DO NOT USE IN SERIES CONNECTIONS.
+   Caution: Do not use plastic containers in series connections.
+   Such use could result in air embolism due to residual air being drawn from the primary container before administration of the fluid from the secondary container is complete.
 
 Intravenous drug products should be inspected visually and should not be used if particulate matter or discoloration is present.
 

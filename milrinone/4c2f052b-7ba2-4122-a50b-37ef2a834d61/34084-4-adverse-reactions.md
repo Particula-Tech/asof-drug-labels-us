@@ -11,7 +11,7 @@ The incidence of both supraventricular and ventricular arrhythmias has not been 
 
 Other cardiovascular adverse reactions include hypotension, 2.9% and angina/chest pain, 1.2%.
 
-In the post-marketing experience, there have been rare cases of "torsades de pointes" reported.
+In the post-marketing experience, there have been rare cases of “torsades de pointes” reported.
 
 ## CNS Effects
 
@@ -21,12 +21,14 @@ Headaches, usually mild to moderate in severity, have been reported in 2.9% of p
 
 Other adverse reactions reported, but not definitely related to the administration of milrinone include hypokalemia, 0.6%; tremor, 0.4%; and thrombocytopenia, 0.4%.
 
+Isolated spontaneous reports of bronchospasm and anaphylactic shock have been received; and in the post-marketing experience, liver function test abnormalities and skin reactions such as rash have been reported.
+
 ## Post-Marketing Adverse Event Reports
 
 In addition to adverse events reported from clinical trials, the following events have been reported from worldwide post-marketing experience with milrinone:
 
-Isolated spontaneous reports of bronchospasm and anaphylactic shock.
+- Isolated spontaneous reports of bronchospasm and anaphylactic shock.
+- Liver function test abnormalities and skin reactions such as rash.
+- Administration site conditions: Infusion site reaction.
 
-Liver function test abnormalities and skin reactions such as rash.
-
-Administration site conditions: Infusion site reaction.
+To report SUSPECTED ADVERSE REACTIONS, contact West-ward Pharmaceutical Corp. at 1-877‑233‑2001 or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

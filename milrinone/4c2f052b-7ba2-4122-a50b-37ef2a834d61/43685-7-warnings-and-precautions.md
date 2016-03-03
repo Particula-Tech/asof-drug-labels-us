@@ -6,7 +6,7 @@ In this study, patients with Class IV symptoms appeared to be at particular risk
 There is no evidence that milrinone given by long-term continuous or intermittent infusion does not carry a similar risk.
 
 The use of milrinone both intravenously and orally has been associated with increased frequency of ventricular arrhythmias, including nonsustained ventricular tachycardia.
-Long-term oral use has been associated with an increased risk of sudden death.
+Long‑term oral use has been associated with an increased risk of sudden death.
 Hence, patients receiving milrinone should be observed closely with the use of continuous electrocardiographic monitoring to allow the prompt detection and management of ventricular arrhythmias.
 
 # PRECAUTIONS
@@ -29,7 +29,7 @@ If prior vigorous diuretic therapy is suspected to have caused significant decre
 
 There is no experience in controlled trials with infusions of milrinone for periods exceeding 48 hours.
 Cases of infusion site reaction have been reported with intravenous milrinone therapy (see ADVERSE REACTIONS).
-Consequently,careful monitoring of the infusion site should be maintained to avoid possible extravasation.
+Consequently, careful monitoring of the infusion site should be maintained to avoid possible extravasation.
 
 ## Use in Acute Myocardial Infarction
 
@@ -38,9 +38,7 @@ Until further clinical experience with this class of drugs is gained, milrinone 
 
 ## Laboratory Tests
 
-### Fluid and Electrolytes
-
-Fluid and electrolyte changes and renal function should be carefully monitored during therapy with milrinone.
+Fluid and Electrolytes: Fluid and electrolyte changes and renal function should be carefully monitored during therapy with milrinone.
 Improvement in cardiac output with resultant diuresis may necessitate a reduction in the dose of diuretic.
 Potassium loss due to excessive diuresis may predispose digitalized patients to arrhythmias.
 Therefore, hypokalemia should be corrected by potassium supplementation in advance of or during use of milrinone.
@@ -65,14 +63,14 @@ In reproductive performance studies in rats, milrinone had no effect on male or 
 
 Oral and intravenous administration of toxic dosages of milrinone to rats and dogs resulted in myocardial degeneration/fibrosis and endocardial hemorrhage, principally affecting the left ventricular papillary muscles.
 Coronary vascular lesions characterized by periarterial edema and inflammation have been observed in dogs only.
-The myocardial/endocardial changes are similar to those produced by beta-adrenergic receptor agonists such as isoproterenol, while the vascular changes are similar to those produced by minoxidil and hydralazine.
-Doses within the recommended clinical dose range (up to 1.13 mg/kg/day) for congestive heart failure patients have not produced significant adverse effects in animals.
+The myocardial/endocardial changes are similar to those produced by beta‑adrenergic receptor agonists such as isoproterenol, while the vascular changes are similar to those produced by minoxidil and hydralazine.
+Doses within the recommended clinical dose range (up to 1.13 mg/‌kg/day) for congestive heart failure patients have not produced significant adverse effects in animals.
 
 ## Pregnancy Category C
 
 Oral administration of milrinone to pregnant rats and rabbits during organogenesis produced no evidence of teratogenicity at dose levels up to 40 mg/kg/day and 12 mg/kg/day, respectively.
-Milrinone did not appear to be teratogenic when administered intravenously to pregnant rats at doses up to 3 mg/kg/day (about 2.5 times the maximum recommended clinical intravenous dose) or pregnant rabbits at doses up to 12 mg/kg/day, although an increased resorption rate was apparent at both 8 mg/kg/day and 12 mg/kg/day (intravenous) in the latter species.
-There are no adequate and well-controlled studies in pregnant women.
+Milrinone did not appear to be teratogenic when administered intravenously to pregnant rats at doses up to 3 mg/kg/day (about 2.5 times the maximum recommended clinical intravenous dose) or pregnant rabbits at doses up to 12 mg/kg/day, although an increased resorption rate was apparent at both 8 mg/‌kg/day and 12 mg/‌kg/‌day (intravenous) in the latter species.
+There are no adequate and well‑controlled studies in pregnant women.
 Milrinone should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ## Nursing Mothers

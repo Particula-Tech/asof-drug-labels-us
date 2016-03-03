@@ -3,16 +3,18 @@
     "ANDA090038"
   ],
   "inn": "milrinone",
-  "labeler": "West-ward Pharmaceutical Corp",
+  "labeler": "West-Ward Pharmaceuticals Corp",
   "package_ndcs": [
+    "0143-9718-01",
     "0143-9718-10",
+    "0143-9719-01",
     "0143-9719-10"
   ],
   "products": [
     {
       "form": "INJECTION, SOLUTION",
-      "generic": "milrinone lactate",
-      "name": "Milrinone Lactate"
+      "generic": "milrinone lactate in dextrose",
+      "name": "Milrinone Lactate in Dextrose"
     }
   ],
   "setid": "4c2f052b-7ba2-4122-a50b-37ef2a834d61",
