@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-Mechanism of Action
+## Mechanism of Action
 
 Metoprolol tartrate is a beta1-selective (cardioselective) adrenergic receptor blocker.
 This preferential effect is not absolute, however, and at higher plasma concentrations, metoprolol also inhibits beta2-adrenoreceptors, chiefly located in the bronchial and vascular musculature.
@@ -20,7 +20,7 @@ Myocardial Infarction
 
 The precise mechanism of action of metoprolol in patients with suspected or definite myocardial infarction is not known.
 
-Pharmacodynamics
+## Pharmacodynamics
 
 Relative beta1 selectivity is demonstrated by the following: (1) In healthy subjects, metoprolol is unable to reverse the beta2-mediated vasodilating effects of epinephrine.
 This contrasts with the effect of nonselective (beta1 plus beta2) beta blockers, which completely reverse the vasodilating effects of epinephrine.
@@ -38,7 +38,7 @@ There is a linear relationship between the log of plasma levels and reduction of
 In several studies of patients with acute myocardial infarction, intravenous followed by oral administration of metoprolol tartrate caused a reduction in heart rate, systolic blood pressure and cardiac output.
 Stroke volume, diastolic blood pressure and pulmonary artery end diastolic pressure remained unchanged.
 
-Pharmacokinetics
+## Pharmacokinetics
 
 Absorption
 
@@ -68,7 +68,7 @@ In most subjects (extensive metabolizers), less than 10% of an intravenous dose 
 In poor metabolizers, up to 30% or 40% of oral or intravenous doses, respectively, may be excreted unchanged; the rest is excreted by the kidneys as metabolites that appear to have no beta blocking activity.
 The renal clearance of the stereo-isomers does not exhibit stereo-selectivity in renal excretion.
 
-Special populations
+## Special populations
 
 Geriatric patients
 
@@ -83,7 +83,7 @@ Consequently, no reduction in dosage is usually needed in patients with chronic 
 Hepatic impairment: Since the drug is primarily eliminated by hepatic metabolism, hepatic impairment may impact the pharmacokinetics of metoprolol.
 The elimination half-life of metoprolol is considerably prolonged, depending on severity (up to 7.2 h).
 
-Clinical Studies
+## Clinical Studies
 
 Hypertension
 

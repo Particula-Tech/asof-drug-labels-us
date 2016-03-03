@@ -1,12 +1,12 @@
 # WARNINGS
 
-Heart Failure
+## Heart Failure
 
 Beta blockers, like metoprolol tartrate, can cause depression of myocardial contractility and may precipitate heart failure and cardiogenic shock.
 If signs or symptoms of heart failure develop, treat the patient according to recommended guidelines.
 It may be necessary to lower the dose of metoprolol tartrate or to discontinue it.
 
-Ischemic Heart Disease
+## Ischemic Heart Disease
 
 Do not abruptly discontinue metoprolol tartrate therapy in patients with coronary artery disease.
 Severe exacerbation of angina, myocardial infarction and ventricular arrhythmias have been reported in patients with coronary artery disease following the abrupt discontinuation of therapy with beta-blockers.
@@ -15,34 +15,34 @@ If angina markedly worsens or acute coronary insufficiency develops, metoprolol 
 Patients should be warned against interruption or discontinuation of therapy without the physician’s advice.
 Because coronary artery disease is common and may be unrecognized, it may be prudent not to discontinue metoprolol tartrate therapy abruptly even in patients treated only for hypertension.
 
-Use During Major Surgery
+## Use During Major Surgery
 
 Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery; however, the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
 
-Bradycardia
+## Bradycardia
 
 Bradycardia, including sinus pause, heart block, and cardiac arrest have occurred with the use of metoprolol tartrate.
 Patients with first-degree atrioventricular block, sinus node dysfunction, or conduction disorders may be at increased risk.
 Monitor heart rate and rhythm in patients receiving metoprolol tartrate.
 If severe bradycardia develops, reduce or stop metoprolol tartrate.
 
-Exacerbation of Bronchospastic Disease
+## Exacerbation of Bronchospastic Disease
 
 Patients with bronchospastic disease, should, in general, not receive beta blockers, including metoprolol tartrate.
 Because of its relative beta1 selectivity, however, metoprolol tartrate may be used in patients with bronchospastic disease who do not respond to, or cannot tolerate, other antihypertensive treatment.
 Because beta1 selectivity is not absolute use the lowest possible dose of metoprolol tartrate and consider administering metoprolol tartrate in smaller doses three times daily, instead of larger doses two times daily, to avoid the higher plasma levels associated with the longer dosing interval (see DOSAGE AND ADMINISTRATION).
 Bronchodilators, including beta2 agonists, should be readily available or administered concomitantly.
 
-Diabetes and Hypoglycemia
+## Diabetes and Hypoglycemia
 
 Beta blockers may mask tachycardia occurring with hypoglycemia, but other manifestations such as dizziness and sweating may not be significantly affected.
 
-Pheochromocytoma
+## Pheochromocytoma
 
 If metoprolol tartrate is used in the setting of pheochromocytoma, it should be given in combination with an alpha blocker, and only after the alpha blocker has been initiated.
 Administration of beta blockers alone in the setting of pheochromocytoma has been associated with a paradoxical increase in blood pressure due to the attenuation of beta-mediated vasodilatation in skeletal muscle.
 
-Thyrotoxicosis
+## Thyrotoxicosis
 
 Metoprolol tartrate may mask certain clinical signs (e.g., tachycardia) of hyperthyroidism.
 Avoid abrupt withdrawal of beta blockade, which might precipitate a thyroid storm.
@@ -54,11 +54,11 @@ Risk of Anaphylactic Reactions
 While taking beta blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic.
 Such patients may be unresponsive to the usual doses of epinephrine used to treat allergic reaction.
 
-Information for Patients
+## Information for Patients
 
 Advise patients (1) to avoid operating automobiles and machinery or engaging in other tasks requiring alertness until the patient’s response to therapy with metoprolol tartrate has been determined; (2) to contact the physician if any difficulty in breathing occurs; (3) to inform the physician or dentist before any type of surgery that he or she is taking metoprolol tartrate.
 
-Drug Interactions
+## Drug Interactions
 
 Catecholamine-depleting drugs
 
@@ -108,7 +108,7 @@ Dipyridamole
 
 In general, administration of a beta-blocker should be withheld before dipyridamole testing, with careful monitoring of heart rate following the dipyridamole injection.
 
-Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Long-term studies in animals have been conducted to evaluate carcinogenic potential.
 In a 2-year study in rats at three oral dosage levels of up to 800 mg/kg per day, there was no increase in the development of spontaneously occurring benign or malignant neoplasms of any type.
@@ -126,7 +126,7 @@ The oral NOAELs for embryo-fetal development in mice, rats, and rabbits were con
 This corresponds to dose levels that are approximately 0.3, 4, and 0.5 times, respectively, when based on surface area, the maximum human oral dose (8 mg/kg/day) of metoprolol tartrate.
 Metoprolol tartrate has been associated with reversible adverse effects on spermatogenesis starting at oral dose levels of 3.5 mg/kg in rats (a dose that is only 0.1-times the human dose, when based on surface area), although other studies have shown no effect of metoprolol tartrate on reproductive performance in male rats.
 
-Pregnancy Category C
+## Pregnancy Category C
 
 Upon confirming the diagnosis of pregnancy, women should immediately inform the doctor.
 Metoprolol has been shown to increase postimplantation loss and decrease neonatal survival in rats at doses up to 11 times the maximum daily human dose of 450 mg, when based on surface area.
@@ -138,7 +138,7 @@ The amount of data on the use of metoprolol in pregnant women is limited.
 The risk to the fetus/mother is unknown.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
-Nursing Mothers
+## Nursing Mothers
 
 Metoprolol is excreted in breast milk in a very small quantity.
 An infant consuming 1 liter of breast milk daily would receive a dose of less than 1 mg of the drug.
@@ -148,11 +148,11 @@ Fertility
 The effects of metoprolol tartrate on the fertility of humans have not been studied.
 Metoprolol tartrate showed effects on spermatogenesis in male rats at a therapeutic dose level, but had no effect on rates of conception at higher doses in animal fertility studies (see Carcinogenesis, Mutagenesis, Impairment of Fertility).
 
-Pediatric Use
+## Pediatric Use
 
 Safety and effectiveness in pediatric patients have not been established.
 
-Geriatric Use
+## Geriatric Use
 
 In worldwide clinical trials of metoprolol in myocardial infarction, where approximately 478 patients were over 65 years of age (0 over 75 years of age), no age-related differences in safety and effectiveness were found.
 Other reported clinical experience in myocardial infarction has not identified differences in response between the elderly and younger patients.

@@ -1,4 +1,4 @@
-Injection, USP
+Metoprolol Tartrate Injection, USP
 
 Rx only
 

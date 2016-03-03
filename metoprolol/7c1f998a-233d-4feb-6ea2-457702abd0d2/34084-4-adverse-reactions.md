@@ -104,7 +104,7 @@ Hypersensitive Reactions
 
 Fever combined with aching and sore throat, laryngospasm and respiratory distress.
 
-Post-marketing Experience
+## Post-marketing Experience
 
 The following adverse reactions have been reported during post approval use of metoprolol: confusional state, an increase in blood triglycerides and a decrease in High Density Lipoprotein (HDL).
 Because these reports are from a population of uncertain size and are subject to confounding factors, it is not possible to reliably estimate their frequency.
