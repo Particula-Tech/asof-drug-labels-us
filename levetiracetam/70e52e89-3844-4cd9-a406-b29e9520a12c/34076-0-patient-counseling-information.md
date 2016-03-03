@@ -1,20 +1,34 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Patients should be advised to notify their physician if they are pregnant prior to therapy.
+Suicidal Behavior and Ideation
 
-Patients should be advised that levetiracetam may cause dizziness and somnolence.
-Accordingly, patients should be advised not to drive or operate heavy machinery or engage in other hazardous activities until they have gained sufficient experience on levetiracetam to gauge whether it adversely affects their performance of these activities.
+Counsel patients, their caregivers, and/or families that antiepileptic drugs (AEDs), including levetiracetam, may increase the risk of suicidal thoughts and behavior and advise patients to be alert for the emergence or worsening of symptoms of depression; unusual changes in mood or behavior; or suicidal thoughts, behavior, or thoughts about self-harm.
+Advise patients, their caregivers, and/or families to immediately report behaviors of concern to a healthcare provider.
 
-Patients should be advised that levetiracetam may cause changes in behavior (e.g. aggression, agitation, anger, anxiety, apathy, depression, hostility, and irritability) and in rare cases patients may experience psychotic symptoms.
+Psychiatric Reactions and Changes in Behavior
 
-Patients should be advised to immediately report any symptoms of depression and/or suicidal ideation to their prescribing physician as suicide, suicide attempt and suicidal ideation have been reported in patients treated with levetiracetam.
+Advise patients and their caregivers that levetiracetam may cause changes in behavior (e.g., aggression, agitation, anger, anxiety, apathy, depression, hostility, and irritability) and psychotic symptoms.
 
-Manufactured for:
+Effects on Driving or Operating Machinery
 
-Mylan Institutional LLC
+Inform patients that levetiracetam may cause dizziness and somnolence.
+Inform patients not to drive or operate machinery until they have gained sufficient experience on levetiracetam to gauge whether it adversely affects their ability to drive or operate machinery.
 
-Rockford, IL 61103 U.S.A
+Dermatological Adverse Reactions
 
-Made in Switzerland
+Advise patients that serious dermatological adverse reactions have occurred in patients treated with levetiracetam and instruct them to call their physician immediately if a rash develops.
 
-Revised: November 2011
+Pregnancy
+
+Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during levetiracetam therapy.
+Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) pregnancy registry if they become pregnant.
+This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
+To enroll, patients can call the toll free number 1-888-233-2334 [see Use In Specific Populations (8.1)].
+
+Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A
+
+Manufactured by: ACS Dobfar Info SA Campascio, Switzerland
+
+Revised: November 2015 L52USLEVET02
+
+HQ:LEVETIJ:R1

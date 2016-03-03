@@ -1,11 +1,11 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 General Information-Administration
+## 2.1 General Information – Administration
 
 Levetiracetam in Sodium Chloride Injection is for intravenous use only.
 It is available in three different concentrations single-use 100 mL bag, each containing a different total dosage of levetiracetam: 500 mg (5 mg/mL), 1000 mg (10 mg/mL), or 1500 mg (15 mg/mL).
 
-A single 100 ml bag should be administered intravenously over a 15-minute IV infusion period.
+### A single 100 mL bag should be administered intravenously over a 15-minute IV infusion period.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
 
@@ -16,7 +16,7 @@ Any unused portion of the Levetiracetam in Sodium Chloride Injection contents sh
 
 Levetiracetam can be initiated with either intravenous or oral administration.
 
-Partial Onset Seizures
+### Partial Onset Seizures
 
 In clinical trials of oral levetiracetam, daily doses of 1000 mg, 2000 mg, and 3000 mg, given as twice-daily dosing, were shown to be effective.
 Although in some studies there was a tendency toward greater response with higher dose [see Clinical Studies (14.1)], a consistent increase in response with increased dose has not been shown.
@@ -26,13 +26,13 @@ Additional dosing increments may be given (1000 mg/day additional every 2 weeks)
 Doses greater than 3000 mg/day have been used in open-label studies with levetiracetam tablets for periods of 6 months and longer.
 There is no evidence that doses greater than 3000 mg/day confer additional benefit.
 
-Myoclonic Seizures in Patients with Juvenile Myoclonic Epilepsy
+### Myoclonic Seizures in Patients with Juvenile Myoclonic Epilepsy
 
 Treatment should be initiated with a dose of 1000 mg/day, given as twice-daily dosing (500 mg twice daily).
 Dosage should be increased by 1000 mg/day every 2 weeks to the recommended daily dose of 3000 mg.
 The effectiveness of doses lower than 3000 mg/day has not been studied.
 
-Primary Generalized Tonic-Clonic Seizures
+### Primary Generalized Tonic-Clonic Seizures
 
 Treatment should be initiated with a dose of 1000 mg/day, given as twice-daily dosing (500 mg twice daily).
 Dosage should be increased by 1000 mg/day every 2 weeks to the recommended daily dose of 3000 mg.
@@ -48,9 +48,9 @@ At the end of the intravenous treatment period, the patient may be switched to l
 
 ## 2.5 Adult Patients with Impaired Renal Function
 
-Levetiracetam dosing must be individualized according to the patient's renal function status.
-Recommended doses and adjustment for dose for adults are shown in Table 1.
-To use this dosing table, an estimate of the patient's creatinine clearance (CLcr) in mL/min is needed.
+- Levetiracetam dosing must be individualized according to the patient's renal function status.
+  Recommended doses and adjustment for dose for adults are shown in Table 1.
+  To use this dosing table, an estimate of the patient's creatinine clearance (CLcr) in mL/min is needed.
 
 Table 1: Dosing Adjustment Regimen for Adult Patients with Impaired Renal Function
 

@@ -1,101 +1,118 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Neuropsychiatric Adverse Reactions
+## 5.1 Behavioral Abnormalities and Psychotic Symptoms
 
-Partial Onset Seizures
+Levetiracetam may cause behavioral abnormalities and psychotic symptoms.
+Patients treated with levetiracetam should be monitored for psychiatric signs and symptoms.
 
-In some adults experiencing partial onset seizures, levetiracetam causes the occurrence of central nervous system adverse reactions that can be classified into the following categories: 1) somnolence and fatigue, 2) coordination difficulties, and 3) behavioral abnormalities.
+### Behavioral abnormalities
 
-In controlled trials of adult patients with epilepsy experiencing partial onset seizures, 14.8% of levetiracetam-treated patients reported somnolence, compared to 8.4% of placebo patients.
-There was no clear dose response up to 3000 mg/day.
-In a study where there was no titration, about 45% of patients receiving 4000 mg/day reported somnolence.
-The somnolence was considered serious in 0.3% of the treated patients, compared to 0% in the placebo group.
-About 3% of levetiracetam-treated patients discontinued treatment due to somnolence, compared to 0.7% of placebo patients.
-In 1.4% of treated patients and in 0.9% of placebo patients the dose was reduced, while 0.3% of the treated patients were hospitalized due to somnolence.
+In clinical studies using an oral formulation of levetiracetam, 13% of adult levetiracetam-treated patients and 38% of pediatric levetiracetam-treated patients (4 to 16 years of age),compared to 6% and 19% of adult and pediatric placebo-treated patients, experienced non-psychotic behavioral symptoms (reported as aggression, agitation, anger, anxiety, apathy, depersonalization, depression, emotional lability, hostility, hyperkinesias, irritability, nervousness, neurosis, and personality disorder).
 
-In controlled trials of adult patients with epilepsy experiencing partial onset seizures, 14.7% of treated patients reported asthenia, compared to 9.1% of placebo patients.
-Treatment was discontinued in 0.8% of treated patients as compared to 0.5% of placebo patients.
-In 0.5% of treated patients and in 0.2% of placebo patients the dose was reduced.
+A randomized, double-blind, placebo-controlled study was performed to assess the neurocognitive and behavioral effects of an oral formulation of levetiracetam as adjunctive therapy in pediatric patients (4 to 16 years of age).
+The results from an exploratory analysis indicated a worsening in levetiracetam-treated patients on aggressive behavior (one of eight behavior dimensions), as measured in a standardized and systematic way using a validated instrument, the Achenbach Child Behavior Checklist (CBCL/6-18).
 
-A total of 3.4% of levetiracetam-treated patients experienced coordination difficulties, (reported as either ataxia, abnormal gait, or incoordination) compared to 1.6% of placebo patients.
-A total of 0.4% of patients in controlled trials discontinued levetiracetam treatment due to ataxia, compared to 0% of placebo patients.
-In 0.7% of treated patients and in 0.2% of placebo patients the dose was reduced due to coordination difficulties, while one of the treated patients was hospitalized due to worsening of pre-existing ataxia.
+In clinical studies in pediatric patients 1 month to < 4 years of age, irritability was reported in 12% of the levetiracetam-treated patients compared to 0% of placebo-treated patients.
 
-Somnolence, asthenia and coordination difficulties occurred most frequently within the first 4 weeks of treatment.
+In clinical studies, 1.7% of adult levetiracetam-treated patients discontinued treatment due to behavioral adverse reactions, compared to 0.2% of placebo-treated patients.
+The treatment dose was reduced in 0.8% of adult levetiracetam-treated patients and in 0.5% of placebo-treated patients.
+Overall, 11% of levetiracetam-treated pediatric patients experienced behavioral symptoms associated with discontinuation or dose reduction, compared to 6% of placebo-treated patients.
 
-In controlled trials of patients with epilepsy experiencing partial onset seizures, 5 (0.7%) of levetiracetam-treated patients experienced psychotic symptoms compared to 1 (0.2%) placebo patient.
-Two (0.3%) levetiracetam-treated patients were hospitalized and their treatment was discontinued.
+### Psychotic symptoms
+
+In clinical studies using an oral formulation of levetiracetam, 1% of levetiracetam-treated adult patients, 2% of levetiracetam-treated pediatric patients 4 to 16 years of age, and 17% of levetiracetam-treated pediatric patients 1 month to <4 years of age experienced psychotic symptoms, compared to 0.2%, 2%, and 5% in the corresponding age groups treated with placebo.
+In a controlled study that assessed the neurocognitive and behavioral effects of an oral formulation of levetiracetam in pediatric patients 4 to 16 years of age, 1.6% of levetiracetam-treated patients experienced paranoia, compared to 0% of placebo-treated patients.
+In the same study, 3.1% of levetiracetam-treated patients experienced confusional state, compared to 0% of placebo-treated patients [see Use in Specific Populations (8.4)].
+
+In clinical studies, two (0.3%) levetiracetam-treated adult patients were hospitalized, and their treatment was discontinued due to psychosis.
 Both events, reported as psychosis, developed within the first week of treatment and resolved within 1 to 2 weeks following treatment discontinuation.
-Two other events, reported as hallucinations, occurred after 1-5 months and resolved within 2-7 days while the patients remained on treatment.
-In one patient experiencing psychotic depression occurring within a month, symptoms resolved within 45 days while the patient continued treatment.
-A total of 13.3% of levetiracetam patients experienced other behavioral symptoms (reported as aggression, agitation, anger, anxiety, apathy, depersonalization, depression, emotional lability, hostility, irritability, etc.) compared to 6.2% of placebo patients.
-Approximately half of these patients reported these events within the first 4 weeks.
-A total of 1.7% of treated patients discontinued treatment due to these events, compared to 0.2% of placebo patients.
-The treatment dose was reduced in 0.8% of treated patients and in 0.5% of placebo patients.
-A total of 0.8% of treated patients had a serious behavioral event (compared to 0.2% of placebo patients) and were hospitalized.
+There was no difference between drug- and placebo-treated patients in the incidence of the pediatric patients who discontinued treatment due to psychotic and non-psychotic adverse reactions.
 
-In addition, 4 (0.5%) of treated patients attempted suicide compared to 0% of placebo patients.
-One of these patients completed suicide.
-In the other 3 patients, the events did not lead to discontinuation or dose reduction.
-The events occurred after patients had been treated for between 4 weeks and 6 months [see Patient Counseling Information (17)].
+## 5.2 Somnolence and Fatigue
 
-Myoclonic Seizures
+Levetiracetam may cause somnolence and fatigue.
+Patients should be monitored for somnolence and fatigue, and be advised not to drive or operate machinery until they have gained sufficient experience on levetiracetam to gauge whether it adversely affects their ability to drive or operate machinery.
 
-During clinical development, the number of patients with myoclonic seizures exposed to levetiracetam was considerably smaller than the number with partial seizures.
-Therefore, under-reporting of certain adverse reactions was more likely to occur in the myoclonic seizure population.
-In some patients experiencing myoclonic seizures, levetiracetam causes somnolence and behavioral abnormalities.
-It is expected that the events seen in partial seizure patients would occur in patients with JME.
+### Somnolence
 
-In the double-blind, controlled trial in patients with juvenile myoclonic epilepsy experiencing myoclonic seizures, 11.7% of levetiracetam-treated patients experienced somnolence compared to 1.7% of placebo patients.
-No patient discontinued treatment as a result of somnolence.
-In 1.7% of levetiracetam-treated patients and in 0% of placebo patients the dose was reduced as a result of somnolence.
+In controlled clinical studies using an oral formulation of levetiracetam in adult patients with partial onset seizures, 15% of levetiracetam-treated patients reported somnolence, compared to 8% of placebo-treated patients.
+There was no clear dose response up to 3000 mg/day.
+In a study in which there was no titration, about 45% of patients receiving levetiracetam 4000 mg/day reported somnolence.
+The somnolence was considered serious in 0.3% of levetiracetam-treated patients, compared to 0% in the placebo group.
+About 3% of levetiracetam-treated patients discontinued treatment due to somnolence, compared to 0.7% of placebo-treated patients.
+In 1.4% of levetiracetam-treated patients and 0.9% of placebo-treated patients, the dose was reduced, while 0.3% of the levetiracetam-treated patients were hospitalized due to somnolence.
 
-Non-psychotic behavioral disorders (reported as aggression and irritability) occurred in 5% of the levetiracetam-treated patients compared to 0% of placebo patients.
-Non-psychotic mood disorders (reported as depressed mood, depression, and mood swings) occurred in 6.7% of levetiracetam-treated patients compared to 3.3% of placebo patients.
-A total of 5.0% of levetiracetam-treated patients had a reduction in dose or discontinued treatment due to behavioral or psychiatric events (reported as anxiety, depressed mood, depression, irritability, and nervousness), compared to 1.7% of placebo patients.
+### Asthenia
 
-Primary Generalized Tonic-Clonic Seizures
+In controlled clinical studies using an oral formulation of levetiracetam in adult patients with partial onset seizures, 15% of levetiracetam-treated patients reported asthenia, compared to 9% of placebo-treated patients.
+Treatment was discontinued due to asthenia in 0.8% of levetiracetam-treated patients as compared to 0.5% of placebo-treated patients.
+In 0.5% of levetiracetam-treated patients and in 0.2% of placebo-treated patients, the dose was reduced due to asthenia.
 
-During clinical development, the number of patients with primary generalized tonic-clonic epilepsy exposed to levetiracetam was considerably smaller than the number with partial epilepsy, described above.
-As in the partial seizure patients, behavioral symptoms appeared to be associated with levetiracetam treatment.
-Gait disorders and somnolence were also described in the study in primary generalized seizures, but with no difference between placebo and levetiracetam treatment groups and no appreciable discontinuations.
-Although it may be expected that drug related events seen in partial seizure patients would be seen in primary generalized epilepsy patients (e.g. somnolence and gait disturbance), these events may not have been observed because of the smaller sample size.
+Somnolence and asthenia occurred most frequently within the first 4 weeks of treatment.
+In general, the incidences of somnolence and fatigue in the pediatric partial onset seizure studies, and in pediatric and adult myoclonic and primary generalized tonic-clonic studies were comparable to those of the adult partial onset seizure studies.
 
-In some patients experiencing primary generalized tonic-clonic seizures, levetiracetam causes behavioral abnormalities.
+## 5.3 Serious Dermatological Reactions
 
-In the double-blind, controlled trial in patients with idiopathic generalized epilepsy experiencing primary generalized tonic-clonic seizures, irritability was the most frequently reported psychiatric adverse event occurring in 6.3% of levetiracetam-treated patients compared to 2.4% of placebo patients.
-Additionally, non-psychotic behavioral disorders (reported as abnormal behavior, aggression, conduct disorder, and irritability) occurred in 11.4% of the levetiracetam-treated patients compared to 3.6% of placebo patients.
-Of the levetiracetam-treated patients experiencing non-psychotic behavioral disorders, one patient discontinued treatment due to aggression.
+Serious dermatological reactions, including Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), have been reported in both pediatric and adult patients treated with levetiracetam.
+The median time of onset is reported to be 14 to 17 days, but cases have been reported at least four months after initiation of treatment.
+Recurrence of the serious skin reactions following rechallenge with levetiracetam has also been reported.
+Levetiracetam should be discontinued at the first sign of a rash, unless the rash is clearly not drug-related.
+If signs or symptoms suggest SJS/TEN, use of this drug should not be resumed and alternative therapy should be considered.
 
-Non-psychotic mood disorders (reported as anger, apathy, depression, mood altered, mood swings, negativism, suicidal ideation, and tearfulness) occurred in 12.7% of levetiracetam-treated patients compared to 8.3% of placebo patients.
-No levetiracetam-treated patients discontinued or had a dose reduction as a result of these events.
-One levetiracetam-treated patient experienced suicidal ideation.
-One patient experienced delusional behavior that required the lowering of the dose of levetiracetam.
+## 5.4 Coordination Difficulties
 
-In a long-term open label study that examined patients with various forms of primary generalized epilepsy, along with the non-psychotic behavioral disorders, 2 of 192 patients studied exhibited psychotic-like behavior.
-Behavior in one case was characterized by auditory hallucinations and suicidal thoughts and led to levetiracetam discontinuation.
-The other case was described as worsening of pre-existent schizophrenia and did not lead to drug discontinuation.
+Levetiracetam may cause coordination difficulties.
 
-## 5.2 Withdrawal Seizures
+In controlled clinical studies using an oral formulation of levetiracetam in adult patients with partial onset seizures, 3.4% of levetiracetam-treated patients experienced coordination difficulties, (reported as ataxia, abnormal gait, or incoordination) compared to 1.6% of placebo-treated patients.
+A total of 0.4% of patients in controlled clinical studies discontinued levetiracetam treatment due to ataxia, compared to 0% of placebo-treated patients.
+In 0.7% of levetiracetam-treated patients and in 0.2% of placebo-treated patients, the dose was reduced due to coordination difficulties, while one of the treated patients was hospitalized due to worsening of pre-existing ataxia.
+These events occurred most frequently within the first 4 weeks of treatment.
+
+Patients should be monitored for signs and symptoms of coordination difficulties and advised not to drive or operate machinery until they have gained sufficient experience on levetiracetam to gauge whether it could adversely affect their ability to drive or operate machinery.
+
+## 5.5 Withdrawal Seizures
 
 Antiepileptic drugs, including levetiracetam, should be withdrawn gradually to minimize the potential of increased seizure frequency.
 
-## 5.3 Hematologic Abnormalities
+## 5.6 Hematologic Abnormalities
 
-Minor, but statistically significant, decreases in total mean RBC count (0.03 x 106/mm3), mean hemoglobin (0.09 g/dL), and mean hematocrit (0.38%), were seen in levetiracetam-treated patients.
+Levetiracetam can cause hematologic abnormalities.
+Hematologic abnormalities occurred in clinical trials and included decreases in red blood cells count (RBC), hemoglobin, and hematocrit, and increases in eosinophil counts.
+Decreased white blood cells count (WBC) and neutrophil counts also occurred in clinical trials.
+Cases of agranulocytosis have been reported in the postmarketing setting.
 
-A total of 3.2% of treated and 1.8% of placebo patients had at least one possibly significant (≤2.8 x 109/L) decreased WBC, and 2.4% of treated and 1.4% of placebo patients had at least one possibly significant (≤1.0 x 109/L) decreased neutrophil count.
-Of the treated patients with a low neutrophil count, all but one rose towards or to baseline with continued treatment.
+### Partial Onset Seizures
+
+#### Adults
+
+In controlled clinical studies using an oral formulation of levetiracetam in adult patients with partial onset seizures, minor but statistically significant decreases compared to placebo in total mean RBC (0.03 × 106/mm3), mean hemoglobin (0.09 g/dL), and mean hematocrit (0.38%), were seen in levetiracetam-treated patients.
+
+A total of 3.2% of levetiracetam-treated and 1.8% of placebo-treated patients had at least one possibly significant (≤2.8 × 109/L) decreased WBC, and 2.4% of levetiracetam-treated and 1.4% of placebo-treated patients had at least one possibly significant (≤1.0 × 109/L) decreased neutrophil count.
+Of the levetiracetam-treated patients with a low neutrophil count, all but one rose towards or to baseline with continued treatment.
 No patient was discontinued secondary to low neutrophil counts.
 
-Although there were no obvious hematologic abnormalities observed in patients with JME, the limited number of patients makes any conclusion tentative.
-The data from the partial seizure patients should be considered to be relevant for JME patients.
+#### Pediatric Patients 4 Years to < 16 Years
 
-## 5.4 Hepatic Abnormalities
+In a controlled study in pediatric patients age 4 years to <16 years, statistically significant decreases in WBC and neutrophil counts were seen in levetiracetam-treated patients, as compared to placebo.
+The mean decreases from baseline in the levetiracetam-treated group were -0.4 × 109/L and -0.3 × 109/L, respectively, whereas there were small increases in the placebo group.
+Mean relative lymphocyte counts increased by 1.7% in levetiracetam-treated patients, compared to a decrease of 4% in placebo-treated patients (statistically significant).
 
-There were no meaningful changes in mean liver function tests (LFT) in controlled trials in adult patients; lesser LFT abnormalities were similar in drug and placebo treated patients in controlled trials (1.4%).
-No patients were discontinued from controlled trials for LFT abnormalities except for 1 (0.07%) adult epilepsy patient receiving open treatment.
+More levetiracetam-treated patients had a possibly clinically significant abnormally low WBC value (3% of levetiracetam-treated patients versus 0% of placebo-treated patients); however, there was no apparent difference between treatment groups with respect to neutrophil count (5% on levetiracetam versus 4.2% on placebo).
+No patient was discontinued because of low WBC or neutrophil count.
 
-## 5.5 Laboratory Tests
+In a randomized, double-blind, placebo-controlled study to assess the neurocognitive and behavioral effects of an oral formulation of levetiracetam as adjunctive therapy in pediatric patients (4 to 16 years of age), 5 patients (8.6%) in the levetiracetam-treated group and two patients (6.1%) in the placebo-treated group had high eosinophil count values that were possibly clinically significant (≥10% or ≥0.7×109/L).
 
-Although most laboratory tests are not systematically altered with levetiracetam-treatment, there have been relatively infrequent abnormalities seen in hematologic parameters and liver function tests.
+## 5.7 Increase in Blood Pressure
+
+In a randomized, placebo-controlled study in patients 1 month to <4 years of age using an oral formulation of levetiracetam, a significantly higher risk of increased diastolic blood pressure was observed in the levetiracetam-treated patients (17%), compared to placebo-treated patients (2%).
+There was no overall difference in mean diastolic blood pressure between the treatment groups.
+This disparity between the levetiracetam and placebo treatment groups was not observed in the studies of older children or in adults.
+
+Monitor patients 1 month to <4 years of age for increases in diastolic blood pressure.
+
+## 5.8 Seizure Control During Pregnancy
+
+Physiological changes may gradually decrease plasma levels of levetiracetam throughout pregnancy.
+This decrease is more pronounced during the third trimester.
+It is recommended that patients be monitored carefully during pregnancy.
+Close monitoring should continue through the postpartum period especially if the dose was changed during pregnancy.
