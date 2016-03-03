@@ -99,6 +99,9 @@ Do not take GILENYA if you:
 - have had a heart attack, unstable angina, stroke or warning stroke or certain types of heart failure in the last 6 months
 - have certain types of irregular or abnormal heartbeat (arrhythmia), including patients in whom a heart finding called prolonged QT is seen on ECG before starting GILENYA
 - are taking certain medicines that change your heart rhythm
+- are allergic (hypersensitive) to fingolimod or any of the other ingredients of GILENYA listed at the end of this medication guide.
+  Allergic reactions, which could include symptoms of rash or itchy hives, swelling of lips, tongue or face, are more likely to occur on the day you start GILENYA treatment but may occur later.
+  If you think you may be allergic, ask your doctor for advice.
 
 If any of the above situations apply to you, tell your doctor.
 
@@ -119,6 +122,7 @@ Before you take GILENYA, tell your doctor about all your medical conditions, inc
 - breathing problems, including during your sleep
 - liver problems
 - high blood pressure
+- a type of skin cancer called basal cell carcinoma (BCC).
 - Are pregnant or plan to become pregnant.
   GILENYA may harm your unborn baby.
   Talk to your doctor if you are pregnant or are planning to become pregnant.
@@ -127,7 +131,7 @@ Before you take GILENYA, tell your doctor about all your medical conditions, inc
     Pregnancy Registry: There is a registry for women who become pregnant during treatment with GILENYA.
     If you become pregnant while taking GILENYA, talk to your doctor about registering with the GILENYA Pregnancy Registry.
     The purpose of this registry is to collect information about your health and your baby’s health.
-    For more information, contact the GILENYA Pregnancy Registry by calling Outcome at 1-877-598-7237, by sending an email to gpr@outcome.com, or go to www.gilenyapregnancyregistry.com.
+    For more information, contact the GILENYA Pregnancy Registry by calling Quintiles at 1-877-598-7237, by sending an email to gpr@quintiles.com, or go to www.gilenyapregnancyregistry.com.
 - Are breastfeeding or plan to breastfeed.
   It is not known if GILENYA passes into your breast milk.
   You and your doctor should decide if you will take GILENYA or breastfeed.
@@ -199,6 +203,8 @@ Serious side effects include:
   - tiredness
   - your skin or the whites of your eyes turn yellow
   - dark urine
+- a type of skin cancer called basal cell carcinoma (BCC).
+  Talk to your doctor if you notice any skin nodules (e.g., shiny pearly nodules), patches or open sores that do not heal within weeks (these may be signs of BCC).
 
 The most common side effects of GILENYA include:
 
@@ -254,6 +260,6 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 © Novartis
 
-T2015-128
+T2016-23
 
-Revised: August 2015
+Revised: February 2016

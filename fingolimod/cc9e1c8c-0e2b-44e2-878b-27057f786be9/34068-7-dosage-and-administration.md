@@ -5,6 +5,7 @@ Recommended Dose
 The recommended dose of GILENYA is 0.5 mg orally once-daily.
 Fingolimod doses higher than 0.5 mg are associated with a greater incidence of adverse reactions without additional benefit.
 GILENYA can be taken with or without food.
+Patients who initiate GILENYA and those who re-initiate treatment after discontinuation for longer than 14 days require first dose monitoring [see Reinitiation of Therapy Following Discontinuation].
 
 First Dose Monitoring
 

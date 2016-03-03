@@ -9,6 +9,11 @@ The following serious adverse reactions are described elsewhere in labeling:
 - Posterior Reversible Encephalopathy Syndrome [see Warnings and Precautions (5.5)]
 - Respiratory Effects [see Warnings and Precautions (5.6)]
 - Liver Injury [see Warnings and Precautions (5.7)]
+- Fetal Risk [see Warnings and Precautions (5.8)]
+- Increased Blood Pressure [see Warnings and Precautions (5.9)]
+- Basal Cell Carcinoma [see Warnings and Precautions (5.10)]
+- Immune System Effects Following GILENYA Discontinuation [see Warnings and Precautions (5.11)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.12)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -75,9 +80,10 @@ Adverse reactions with GILENYA 0.5 mg in Study 2, the 1-year active-controlled (
 
 Vascular Events
 
-Vascular events, including ischemic and hemorrhagic strokes, and peripheral arterial occlusive disease were reported in premarketing clinical trials in patients who received GILENYA doses (1.25-5 mg) higher than recommended for use in MS. Similar events have been reported with GILENYA 0.5 mg in the postmarketing setting although a causal relationship has not been established.
+Vascular events, including ischemic and hemorrhagic strokes, and peripheral arterial occlusive disease were reported in premarketing clinical trials in patients who received GILENYA doses (1.25-5 mg) higher than recommended for use in MS. Similar events have been reported with GILENYA in the postmarketing setting although a causal relationship has not been established.
 
-Lymphomas
+Lymphoma
 
-Cases of lymphoma have occurred in premarketing clinical trials and in the postmarketing setting.
-The relationship to GILENYA remains uncertain.
+Cases of lymphoma, including both T-cell and B-cell types and CNS lymphoma, have occurred in patients receiving GILENYA.
+The reporting rate of non-Hodgkin lymphoma with GILENYA is greater than that expected in the general population adjusted by age, gender, and region.
+The relationship of lymphoma to GILENYA remains uncertain.

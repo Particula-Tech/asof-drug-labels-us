@@ -46,8 +46,18 @@ Discuss with women of childbearing age whether they are pregnant, might be pregn
 Advise women of childbearing age of the need for effective contraception during GILENYA treatment and for 2 months after stopping GILENYA.
 Advise the patient that if she should nevertheless become pregnant, she should immediately inform her physician.
 
+Basal Cell Carcinoma
+
+Advise patients that basal cell carcinoma is associated with use of GILENYA.
+Advise patients that suspicious skin lesions should be promptly evaluated.
+
 Persistence of GILENYA Effects after Drug Discontinuation
 
 Advise patients that GILENYA remains in the blood and continues to have effects, including decreased blood lymphocyte counts, for up to 2 months following the last dose.
 
-T2015-127 August 2015
+Hypersensitivity Reactions
+
+Advise patients that GILENYA may cause hypersensitivity reactions including rash, urticaria, and angioedema.
+Advise patients to contact their physician if they have any symptoms associated with hypersensitivity.
+
+T2016-22 February 2016

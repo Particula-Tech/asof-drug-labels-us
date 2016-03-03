@@ -50,6 +50,9 @@ In MS placebo-controlled trials, the overall rate of infections (72%) with GILEN
 However, bronchitis, herpes zoster, influenza, sinusitis, and pneumonia were more common in GILENYA-treated patients.
 Serious infections occurred at a rate of 2.3% in the GILENYA group versus 1.6% in the placebo group.
 
+In the postmarketing setting, serious infections with opportunistic pathogens including viruses (e.g., John Cunningham virus (JCV), herpes simplex viruses 1 and 2, varicella-zoster virus), fungi (e.g., cryptococci), and bacteria (e.g., atypical mycobacteria) have been reported with GILENYA.
+Patients with symptoms and signs consistent with any of these infections should undergo prompt diagnostic evaluation and appropriate treatment.
+
 Herpes Viral Infections
 
 In placebo-controlled trials, the rate of herpetic infections was 9% in patients receiving GILENYA 0.5 mg and 7% on placebo.
@@ -58,14 +61,20 @@ Two patients died of herpetic infections during controlled trials.
 One death was due to disseminated primary herpes zoster and the other to herpes simplex encephalitis.
 In both cases, the patients were taking a 1.25 mg dose of fingolimod (higher than the recommended 0.5 mg dose) and had received high-dose corticosteroid therapy to treat suspected MS relapses.
 
-Serious, life-threatening events of disseminated varicella zoster and herpes simplex infections, including cases of encephalitis and multiorgan failure, have occurred with GILENYA 0.5 mg in the postmarketing setting.
+Serious, life-threatening events of disseminated varicella zoster and herpes simplex infections, including cases of encephalitis and multiorgan failure, have occurred with GILENYA in the postmarketing setting.
 One of these events was fatal.
 Include disseminated herpetic infections in the differential diagnosis of patients who are receiving GILENYA and present with an atypical MS relapse or multiorgan failure.
 
+Cases of Kaposi’s sarcoma have been reported in the postmarketing setting.
+Kaposi’s sarcoma is an angioproliferative disorder that is associated with infection with human herpes virus 8 (HHV-8).
+Patients with symptoms or signs consistent with Kaposi’s sarcoma should be referred for prompt diagnostic evaluation and management.
+
 Cryptococcal infections
 
-Cryptococcal infections, including cases of cryptococcal meningitis, have been reported with GILENYA in the postmarketing setting.
-Patients with symptoms and signs consistent with cryptococcal meningitis should undergo prompt diagnostic evaluation and treatment.
+Cryptococcal infections, including cases of cryptococcal meningitis and disseminated cryptococcal infections, have been reported with GILENYA in the postmarketing setting.
+Cryptococcal infections have generally occurred after approximately 2 years of GILENYA treatment, but may occur earlier.
+The relationship between the risk of cryptococcal infection and the duration of treatment is unknown.
+Patients with symptoms and signs consistent with a cryptococcal infection should undergo prompt diagnostic evaluation and treatment.
 
 Prior and Concomitant Treatment with Antineoplastic, Immunosuppressive, or Immune-Modulating Therapies
 
@@ -80,16 +89,15 @@ VZV vaccination of antibody-negative patients is recommended prior to commencing
 
 ## 5.3 Progressive Multifocal Leukoencephalopathy
 
-A case of progressive multifocal leukoencephalopathy (PML) and a case of probable PML occurred in patients with MS who received GILENYA in the post marketing setting.
+Cases of progressive multifocal leukoencephalopathy (PML) have occurred in patients with MS who received GILENYA in the postmarketing setting.
 PML is an opportunistic viral infection of the brain caused by the JC virus (JCV) that typically only occurs in patients who are immunocompromised, and that usually leads to death or severe disability.
-One patient developed PML after taking GILENYA for approximately 2.5 years.
-The other patient developed probable PML after taking GILENYA for approximately 4 years.
-The diagnosis of probable PML was based on MRI findings and the detection of JCV DNA in the CSF in the absence of clinical signs or symptoms specific to PML.
-The patients had no other identified systemic medical conditions resulting in compromised immune system function and had not previously been treated with natalizumab, which has a known association with PML.
-The patients were also not taking any immunosuppressive or immunomodulatory medications concomitantly.
+PML has occurred in patients who had not been treated previously with natalizumab, which has a known association with PML, and who were also not taking any immunosuppressive or immunomodulatory medications concomitantly.
+The patients had no other ongoing identified systemic medical conditions resulting in compromised immune system function, although one patient had a history of cancer treated with chemotherapy several years prior to taking Gilenya.
+The cases have occurred in patients treated with GILENYA for at least 2 years.
+The relationship between the risk of PML and the duration of treatment is unknown.
 
 At the first sign or symptom suggestive of PML, withhold GILENYA and perform an appropriate diagnostic evaluation.
-MRI signs may be apparent before clinical symptoms.
+MRI findings may be apparent before clinical signs or symptoms.
 Typical symptoms associated with PML are diverse, progress over days to weeks, and include progressive weakness on one side of the body or clumsiness of limbs, disturbance of vision, and changes in thinking, memory, and orientation leading to confusion and personality changes.
 
 ## 5.4 Macular Edema
@@ -106,7 +114,7 @@ Symptoms of macular edema included blurred vision and decreased visual acuity.
 Routine ophthalmological examination detected macular edema in some patients with no visual symptoms.
 Macular edema generally partially or completely resolved with or without treatment after drug discontinuation.
 Some patients had residual visual acuity loss even after resolution of macular edema.
-Macular edema has also been reported in patients taking GILENYA 0.5 mg in the postmarketing setting, usually within the first 6 months of treatment.
+Macular edema has also been reported in patients taking GILENYA in the postmarketing setting, usually within the first 6 months of treatment.
 
 Continuation of GILENYA in patients who develop macular edema has not been evaluated.
 A decision on whether or not to discontinue GILENYA therapy should include an assessment of the potential benefits and risks for the individual patient.
@@ -153,7 +161,9 @@ In clinical trials, GILENYA was discontinued if the elevation exceeded 5 times t
 Serum transaminase levels returned to normal within approximately 2 months after discontinuation of GILENYA.
 Recurrence of liver transaminase elevations occurred with rechallenge in some patients.
 
-Liver enzymes should be monitored in patients who develop symptoms suggestive of hepatic dysfunction, such as unexplained nausea, vomiting, abdominal pain, fatigue, anorexia, or jaundice and/or dark urine.
+Cases of liver injury with hepatocellular and/or cholestatic hepatitis have been reported with GILENYA in the postmarketing setting.
+
+Liver enzymes and bilirubin should be monitored in patients who develop symptoms suggestive of hepatic dysfunction, such as unexplained nausea, vomiting, abdominal pain, fatigue, anorexia, or jaundice and/or dark urine.
 GILENYA should be discontinued if significant liver injury is confirmed.
 Patients with preexisting liver disease may be at increased risk of developing elevated liver enzymes when taking GILENYA.
 
@@ -164,14 +174,26 @@ Because GILENYA exposure is doubled in patients with severe hepatic impairment, 
 Based on animal studies, GILENYA may cause fetal harm.
 Because it takes approximately 2 months to eliminate GILENYA from the body, women of childbearing potential should use effective contraception to avoid pregnancy during and for 2 months after stopping GILENYA treatment.
 
-## 5.9 Blood Pressure Effects
+## 5.9 Increased Blood Pressure
 
 In MS controlled clinical trials, patients treated with GILENYA 0.5 mg had an average increase over placebo of approximately 3 mmHg in systolic pressure, and approximately 2 mmHg in diastolic pressure, first detected after approximately 1 month of treatment initiation, and persisting with continued treatment.
 Hypertension was reported as an adverse reaction in 8% of patients on GILENYA 0.5 mg and in 4% of patients on placebo.
 Blood pressure should be monitored during treatment with GILENYA.
 
-## 5.10 Immune System Effects Following GILENYA Discontinuation
+## 5.10 Basal Cell Carcinoma
+
+Basal cell carcinoma (BCC) is associated with use of GILENYA.
+In two-year placebo-controlled trials the incidence of BCC was 2% in patients on GILENYA 0.5 mg and 1% in patients on placebo [see Adverse reactions (6)].
+Providers and patients are advised to monitor for suspicious skin lesions.
+If a suspicious skin lesion is observed, it should be promptly evaluated.
+
+## 5.11 Immune System Effects Following GILENYA Discontinuation
 
 Fingolimod remains in the blood and has pharmacodynamic effects, including decreased lymphocyte counts, for up to 2 months following the last dose of GILENYA.
 Lymphocyte counts generally return to the normal range within 1–2 months of stopping therapy [see Clinical Pharmacology (12.2)].
 Because of the continuing pharmacodynamic effects of fingolimod, initiating other drugs during this period warrants the same considerations needed for concomitant administration (e.g., risk of additive immunosuppressant effects) [see Drug Interactions (7)].
+
+## 5.12 Hypersensitivity Reactions
+
+Hypersensitivity reactions, including rash, urticaria, and angioedema have been reported with GILENYA in the postmarketing setting.
+GILENYA is contraindicated in patients with history of hypersensitivity to fingolimod or any of its excipients [see Contraindications (4)].
