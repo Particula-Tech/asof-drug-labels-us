@@ -1,16 +1,25 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-## 17.1 Pregnancy
+Pregnancy
 
-Female patients of childbearing age should be told about the consequences of exposure to AVALIDE during pregnancy.
+Tell female patients of childbearing age about the consequences of exposure to AVALIDE during pregnancy.
 Discuss treatment options with women planning to become pregnant.
-Patients should be asked to report pregnancies to their physician as soon as possible.
+Ask patients to report pregnancies to their physician as soon as possible.
 
-## 17.2 Symptomatic Hypotension
+Symptomatic Hypotension
 
-Patients using AVALIDE should be told that they may feel lightheaded, especially during the first days of use.
-Patients should inform their physician if they feel lightheaded or faint.
-If fainting occurs, the patient should stop using AVALIDE and contact the prescribing doctor.
+Tell patients using AVALIDE that they may feel lightheaded, especially during the first days of use.
+Tell patients to inform their physician if they feel lightheaded or faint.
+Tell the patient, if fainting occurs, stop using AVALIDE and contact the prescribing doctor.
 
-Patients using AVALIDE should be told that getting dehydrated can lower their blood pressure too much and lead to lightheadedness and possible fainting.
+Tell patients using AVALIDE that getting dehydrated can lower their blood pressure too much and lead to lightheadedness and possible fainting.
 Dehydration may occur with excessive sweating, diarrhea, or vomiting and with not drinking enough liquids.
+
+Potassium Supplements
+
+Advise patients not to use potassium supplements or salt substitutes containing potassium without consulting their healthcare provider.
+[see Drug Interactions (7.3)].
+
+Acute myopia and secondary angle-closure glaucoma
+
+Advise patients to discontinue AVALIDE and seek immediate medical attention if they experience symptoms of Acute Myopia or Secondary Angle-Closure Glaucoma [see Warnings and Precautions (5.8)].

@@ -113,16 +113,14 @@ The following adverse reactions have been identified during post-approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Decisions to include these reactions in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of reporting, or (3) strength of causal connection to AVALIDE.
 
-The following have been very rarely reported: urticaria, angioedema (involving swelling of the face, lips, pharynx, and/or tongue), and hepatitis.
+The following have been very rarely reported: urticaria, angioedema (involving swelling of the face, lips, pharynx, and/or tongue), hepatitis and tinnitus.
 Hyperkalemia has been rarely reported.
 
 Very rare cases of jaundice have been reported with irbesartan.
 
 Impaired renal function, including cases of renal failure in patients at risk, has been reported with irbesartan and AVALIDE.
 
-Tinnitus has been reported in patients receiving irbesartan or AVALIDE.
-
-Cases of increased CPK and rhabdomyolysis have been reported in patients receiving angiotensin II receptor blockers.
+Cases of increased CPK have been reported in patients receiving angiotensin II receptor blockers.
 
 ## 6.3 Laboratory Abnormalities
 

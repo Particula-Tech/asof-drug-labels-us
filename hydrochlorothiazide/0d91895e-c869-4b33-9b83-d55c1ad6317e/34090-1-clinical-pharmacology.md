@@ -43,6 +43,18 @@ Hydrochlorothiazide
 
 After oral administration of hydrochlorothiazide, diuresis begins within 2 hours, peaks in about 4 hours and lasts about 6 to 12 hours.
 
+Drug Interactions
+
+Hydrochlorothiazide
+
+Alcohol, barbiturates, or narcotics: Potentiation of orthostatic hypotension may occur.
+
+Skeletal muscle relaxants: Possible increased responsiveness to muscle relaxants such as curare derivatives.
+
+Corticosteroids, ACTH— intensified electrolyte depletion, particularly hypokalemia.
+
+Pressor amines (e.g., norepinephrine)— possible decreased response to pressor amines but not sufficient to preclude their use.
+
 ## 12.3 Pharmacokinetics
 
 Irbesartan

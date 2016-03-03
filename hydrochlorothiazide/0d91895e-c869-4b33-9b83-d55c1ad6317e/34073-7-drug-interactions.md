@@ -1,16 +1,19 @@
 # 7 DRUG INTERACTIONS
 
-Irbesartan
+## 7.1 Non-Steroidal Anti-Inflammatory Agents Including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
 
-Non-Steroidal Anti-Inflammatory Agents Including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
+Irbesartan
 
 In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, coadministration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists, including irbesartan, may result in deterioration of renal function, including possible acute renal failure.
 These effects are usually reversible.
-Monitor renal function periodically in patients receiving irbesartan and NSAID therapy.
+Therefore, monitor renal function and blood pressure periodically in patients receiving irbesartan and NSAID therapy.
 
-The antihypertensive effect of angiotensin II receptor antagonists, including irbesartan, may be attenuated by NSAIDs including selective COX-2 inhibitors.
+Hydrochlorothiazide
 
-Dual Blockade of the Renin-Angiotensin System (RAS)
+Administration of a non-steroidal anti-inflammatory agent, including a selective COX-2 inhibitor can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing, and thiazide diuretics.
+Therefore, when AVALIDE (irbesartan-hydrochlorothiazide) Tablets and non-steroidal anti-inflammatory agents are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained.
+
+## 7.2 Dual Blockade of the Renin-Angiotensin System (RAS)
 
 Dual blockade of the RAS with angiotensin-receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
 Closely monitor blood pressure, renal function, and electrolytes in patients on AVALIDE and other agents that affect the RAS.
@@ -21,31 +24,26 @@ In general, avoid combined use of RAS inhibitors.
 Do not coadminister aliskiren with AVALIDE in patients with diabetes.
 Avoid use of aliskiren with AVALIDE in patients with renal impairment (GFR <60 mL/min).
 
-Hydrochlorothiazide
+## 7.3 Agents Increasing Serum Potassium
 
-When administered concurrently the following drugs may interact with thiazide diuretics:
+Coadministration of AVALIDE with other drugs that raise serum potassium levels may result in hyperkalemia, sometimes severe.
+Monitor serum potassium in such patients.
 
-Alcohol, Barbiturates, or Narcotics: potentiation of orthostatic hypotension may occur.
+## 7.4 Antidiabetic Drugs (oral agents and insulin)
 
-Antidiabetic Drugs (oral agents and insulin): dosage adjustment of the antidiabetic drug may be required.
+Dosage adjustment of the antidiabetic drug may be required when coadministered with hydrochlorothiazide.
 
-Other Antihypertensive Drugs: additive effect or potentiation.
+## 7.5 Cholestyramine and Colestipol Resins
 
-Cholestyramine and Colestipol Resins: absorption of hydrochlorothiazide is impaired in the presence of anionic exchange resins.
-Single doses of either cholestyramine or colestipol resins bind the hydrochlorothiazide and reduce its absorption from the gastrointestinal tract by up to 85% and 43%, respectively.
-AVALIDE should be taken at least one hour before or four hours after these medications.
+Absorption of hydrochlorothiazide is impaired in the presence of anionic exchange resins.
+Stagger the dosage of hydrochlorothiazide and the resin such that AVALIDE is administered at least 4 hours before or 4 to 6 hours after the administration of the resin.
 
-Corticosteroids, ACTH: intensified electrolyte depletion, particularly hypokalemia.
+## 7.6 Lithium
 
-Pressor Amines (e.g., Norepinephrine): possible decreased response to pressor amines but not sufficient to preclude their use.
-
-Skeletal Muscle Relaxants, Nondepolarizing (e.g., Tubocurarine): possible increased responsiveness to the muscle relaxant.
-
-Lithium: Increases in serum lithium concentrations and lithium toxicity have been reported with concomitant use of irbesartan or thiazide diuretics.
+Increases in serum lithium concentrations and lithium toxicity have been reported with concomitant use of irbesartan or thiazide diuretics.
 Monitor lithium levels in patients receiving Avalide and lithium.
 
-Non-steroidal Anti-inflammatory Drugs: in some patients, the administration of a non-steroidal anti-inflammatory agent can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing, and thiazide diuretics.
-Therefore, when AVALIDE (irbesartan-hydrochlorothiazide) Tablets and non-steroidal anti-inflammatory agents are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained.
+## 7.7 Carbamazepine
 
-Carbamazepine: concomitant use of carbamazepine and hydrochlorothiazide has been associated with the risk of symptomatic hyponatremia.
-Electrolytes should be monitored during concomitant use.
+Concomitant use of carbamazepine and hydrochlorothiazide has been associated with the risk of symptomatic hyponatremia.
+Monitor electrolytes during concomitant use.
