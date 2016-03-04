@@ -72,4 +72,6 @@ Nursing Mothers
 
 Because of the possibility that carbidopa or levodopa may be excreted in human milk, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother [see Use in Specific Populations (8.3)].
 
-AbbVie Inc. North Chicago, IL 60064, USA
+Manufactured by AbbVie Inc., North Chicago, IL 60064, USA or by Fresenius Kabi Norge AS, 1788 Halden, Norway For AbbVie Inc. North Chicago, IL 60064, USA
+
+03-B152 February 2016

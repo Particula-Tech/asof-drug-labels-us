@@ -1,7 +1,3 @@
-03-B168 May 2015
-
-03-B168 Revised: May 2015
-
 Legacy 1400 Operator's Manual
 
 CADD-Legacy® 1400 Pump Model 1400

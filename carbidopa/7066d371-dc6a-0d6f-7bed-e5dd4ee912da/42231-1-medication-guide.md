@@ -225,4 +225,6 @@ Inactive ingredients: carmellose sodium and purified water
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured for: AbbVie Inc. North Chicago, IL 60064, USA
+Manufactured by AbbVie Inc., North Chicago, IL 60064, USA or by Fresenius Kabi Norge AS, 1788 Halden, Norway For AbbVie Inc. North Chicago, IL 60064, USA
+
+03-B152 Revised: February 2016

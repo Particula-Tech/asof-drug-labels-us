@@ -106,7 +106,6 @@ Recommended Tubing Sets for Long-Term PEG-J DUOPA Administration
 | Product Name | Manufacturer |
 | --- | --- |
 | AbbVie PEG 15 and 20 Fr AbbVie J | AbbVie Inc. AbbVie Inc. |
-| EndoVive™ Standard PEG Kit – Pull Method EndoVive™ Two-Port Through the PEG Jejunal Feeding Tube Kit | Boston Scientific Corp. Boston Scientific Corp. |
 
 Table 2.
 Recommended Tubing Sets for Short-Term Naso-Jejunal DUOPA Administration
