@@ -24,7 +24,7 @@ By: AstraZeneca AB
 
 S-151 85 Södertälje, Sweden
 
-Product of India
+Product of Sweden
 
 AstraZeneca
 
@@ -54,7 +54,7 @@ By: AstraZeneca AB
 
 S-151 85 Södertälje, Sweden
 
-Product of India
+Product of Sweden
 
 AstraZeneca
 
@@ -84,7 +84,7 @@ By: AstraZeneca AB
 
 S-151 85 Södertälje, Sweden
 
-Product of India
+Product of Sweden
 
 AstraZeneca
 
@@ -114,6 +114,6 @@ By: AstraZeneca AB
 
 S-151 85 Södertälje, Sweden
 
-Product of India
+Product of Sweden
 
 AstraZeneca
