@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-Lamivudine Tablets
+Lamivudine Tablets, USP
 
 (la miv' ue deen)
 
@@ -196,15 +196,15 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 The other brands listed are trademarks of their respective owners.
 
-APOTEX INC. LAMIVUDINE TABLETS 150 mg and 300 mg
+APOTEX INC. LAMIVUDINE TABLETS, USP 150 mg and 300 mg
 
 | Manufactured by | Manufactured for |
 | --- | --- |
 | Apotex Inc. | Apotex Corp. |
 | Toronto, Ontario | Weston, Florida |
-| Canada M9L 1T9 | 33326 |
+| Canada M9L 1T9 | USA 33326 |
 
-Revised: October 2015
+Revised: December 2015
 
 Rev.
-8
+9

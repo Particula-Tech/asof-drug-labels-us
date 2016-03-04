@@ -50,15 +50,14 @@ COMBIVIR, EPIVIR, EPZICOM, TRIUMEQ, RETROVIR, and TRIZIVIR are registered tradem
 The other brands listed are trademarks of their respective owners and are not trademarks of the ViiV Healthcare group of companies.
 The makers of these brands are not affiliated with and do not endorse Apotex Inc. or its products.
 
-APOTEX INC. LAMIVUDINE TABLETS 150 mg and 300 mg
+APOTEX INC. LAMIVUDINE TABLETS, USP 150 mg and 300 mg
 
 | Manufactured by | Manufactured for |
 | --- | --- |
 | Apotex Inc. | Apotex Corp. |
 | Toronto, Ontario | Weston, Florida |
-| Canada M9L 1T9 | 33326 |
+| Canada M9L 1T9 | USA 33326 |
 
-Revised: October 2015
+Revised: December 2015
 
-Rev.
-8
+Revision: 9

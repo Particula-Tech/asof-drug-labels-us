@@ -8,9 +8,9 @@ Information from trials with clinical endpoints or a combination of CD4+ cell co
 Clinical Endpoint Trial NUCB3007 (CAESAR) was a multi-center, double-blind, placebo-controlled trial comparing continued current therapy (zidovudine alone [62% of subjects] or zidovudine with didanosine or zalcitabine [38% of subjects]) to the addition of lamivudine or lamivudine plus an investigational non-nucleoside reverse transcriptase inhibitor (NNRTI), randomized 1:2:1.
 A total of 1,816 HIV-1-infected adults with 25 to 250 CD4+ cells per mm3 (median = 122 cells per mm3) at baseline were enrolled: median age was 36 years, 87% were male, 84% were nucleoside-experienced, and 16% were therapy-naive.
 The median duration on trial was 12 months.
-Results are summarized in Table 9.
+Results are summarized in Table 8.
 
-Table 9.
+Table 8.
 Number of Subjects (%) with at Least One HIV-1 Disease Progression Event or Death
 
 | Endpoint | Current Therapy(n = 460) | Lamivudine plusCurrent Therapy(n = 896) | Lamivudineplus anNNRTIa plus CurrentTherapy(n = 460) |
@@ -35,7 +35,7 @@ aRoche AMPLICOR HIV-1 MONITOR.
 
 bResponders at each visit are subjects who had achieved and maintained HIV-1 RNA less than 400 copies per mL without discontinuation by that visit.
 
-Table 10.
+Table 9.
 Outcomes of Randomized Treatment through 48 Weeks (Intent-to-Treat)
 
 | Outcome | Lamivudine 300 mgOnce Dailyplus RETROVIRplus Efavirenz(n = 278) | Lamivudine150 mgTwice Dailyplus RETROVIRplus Efavirenz(n = 276) |
@@ -67,9 +67,9 @@ A total of 471 symptomatic, HIV-1-infected therapy-naive (less than or equal to 
 The median age was 2.7 years (range: 6 weeks to 14 years), 58% were female, and 86% were non-white.
 The mean baseline CD4+ cell count was 868 cells per mm3 (mean: 1,060 cells per mm3 and range: 0 to 4,650 cells per mm3 for subjects aged less than or equal to 5 years; mean: 419 cells per mm3 and range: 0 to 1,555 cells per mm3 for subjects aged over 5 years) and the mean baseline plasma HIV-1 RNA was 5.0 log10 copies per mL.
 The median duration on trial was 10.1 months for the subjects receiving lamivudine tablets plus RETROVIR and 9.2 months for subjects receiving didanosine monotherapy.
-Results are summarized in Table 11.
+Results are summarized in Table 10.
 
-Table 11.
+Table 10.
 Number of Subjects (%) Reaching a Primary Clinical Endpoint (Disease Progression or Death)
 
 | Endpoint | Lamivudine plus RETROVIR(n = 236) | Didanosine(n = 235) |
