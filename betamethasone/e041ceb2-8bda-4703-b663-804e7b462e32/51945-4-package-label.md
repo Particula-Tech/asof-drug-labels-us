@@ -6,7 +6,7 @@ NDC 51672-1309-1
 
 Betamethasone Dipropionate Gel (Augmented*), 0.05% (Potency expressed as betamethasone) *Vehicle augments the penetration of the steroid.
 
-FOR DERMATOLOGIC USE ONLY.
+FOR DERMATOLOGICAL USE ONLY.
 NOT FOR OPHTHALMIC USE.
 
 Rx only
