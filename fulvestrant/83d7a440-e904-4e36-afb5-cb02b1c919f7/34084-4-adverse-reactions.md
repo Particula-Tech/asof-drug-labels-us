@@ -2,8 +2,9 @@
 
 The following adverse reactions are discussed in more detail in other sections of the labeling:
 
-- •Blood Disorders [see Warnings and Precautions (5.1)]
-- •Hepatic Impairment [see Warnings and Precautions (5.2)]
+- •Risk of Bleeding [see Warnings and Precautions (5.1)]
+- •Increased Exposure in Patients with Hepatic Impairment [see Warnings and Precautions (5.2)]
+- •Embryo-Fetal Toxicity [see Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -11,12 +12,12 @@ Because clinical trials are conducted under widely varying conditions, the adver
 
 Comparison of FASLODEX 500 mg and FASLODEX 250 mg
 
-The following frequency categories for adverse reactions (ARs) were calculated based on the safety analysis of Study 1 that compared FASLODEX 500 mg with FASLODEX 250 mg.
+The following adverse reactions (ARs) were calculated based on the safety analysis of Study 1 comparing the administration of FASLODEX 500 mg intramuscularly once a month with FASLODEX 250 mg intramuscularly once a month.
 The most frequently reported adverse reactions in the fulvestrant 500 mg group were injection site pain (11.6% of patients), nausea (9.7% of patients) and bone pain (9.4% of patients); the most frequently reported adverse reactions in the fulvestrant 250 mg group were nausea (13.6% of patients), back pain (10.7% of patients) and injection site pain (9.1% of patients).
 
-Table 1 lists adverse reactions reported with an incidence of 5% or greater, regardless of assessed causality, from the controlled clinical trial Study 1 comparing the administration of FASLODEX 500 mg intramuscularly once a month with FASLODEX 250 mg intramuscularly once a month.
+Table 1 lists adverse reactions reported with an incidence of 5% or greater, regardless of assessed causality, from Study 1.
 
-Table 1: Summary of Most Commonly Reported Adverse Reactions in Study 1 (≥ 5% in either treatment group): Safety Population
+Table 1: Adverse Reactions in Study 1 (≥5% in Either Treatment Group)
 
 | Body Systemand Adverse Reaction | Number (%) of Patients |  |
 | --- | --- | --- |
@@ -49,15 +50,15 @@ The incidence and severity of increased hepatic enzymes (ALT, AST, ALP) did not 
 
 Comparison of FASLODEX 250 mg and Anastrozole 1 mg in Combined Trials (Studies 2 and 3)
 
-The most commonly reported adverse reactions in the FASLODEX and anastrozole treatment groups, regardless of the investigator’s assessment of causality, were gastrointestinal symptoms (including nausea, vomiting, constipation, diarrhea and abdominal pain), headache, back pain, vasodilatation (hot flashes), and pharyngitis.
+The most commonly reported adverse reactions in the FASLODEX and anastrozole treatment groups, were gastrointestinal symptoms (including nausea, vomiting, constipation, diarrhea and abdominal pain), headache, back pain, vasodilatation (hot flashes), and pharyngitis.
 
 Injection site reactions with mild transient pain and inflammation were seen with FASLODEX and occurred in 7% of patients (1% of treatments) given the single 5 mL injection (predominantly European Trial Study 3) and in 27% of patients (4.6% of treatments) given the 2 x 2.5 mL injections (North American Trial Study 2).
 
 Table 2 lists adverse reactions reported with an incidence of 5% or greater, regardless of assessed causality, from the two controlled clinical trials comparing the administration of FASLODEX 250 mg intramuscularly once a month with anastrozole 1 mg orally once a day.
 
-Table 2: Combined Data from Studies 2 and 3, Adverse Reactions ≥ 5%
+Table 2: Adverse Reactions in Studies 2 and 3 (≥ 5% from Combined Data)
 
-| Body System and Adverse ReactionA patient may have more than one adverse reaction. | FASLODEX 250 mg N=423 (%) | Anastrozole 1 mg N=423 (%) |
+| Body System and Adverse Reaction | FASLODEX 250 mg N=423 (%) | Anastrozole 1 mg N=423 (%) |
 | --- | --- | --- |
 | Body as a Whole | 68.3 | 67.6 |
 | Asthenia | 22.7 | 27.0 |

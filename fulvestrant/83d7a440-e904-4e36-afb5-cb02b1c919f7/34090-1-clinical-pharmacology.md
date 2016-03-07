@@ -30,8 +30,8 @@ Table 3: Summary of Fulvestrant Pharmacokinetic Parameters [gMean (CV%)] in Post
 
 |  |  | Cmax (ng/mL) | Cmin (ng/mL) | AUC (ng.hr/mL) |
 | --- | --- | --- | --- | --- |
-| 500 mg + ADadditional 500 mg dose given on day 15 | Single dose | 25.1 (35.3) | 16.3 (25.9) | 11400 (33.4) |
-| Multiple dose steady statemonth 3 | 28.0 (27.9) | 12.2 (21.7) | 13100 (23.4) |  |
+| 500 mg + ADAdditional 500 mg dose given on Day 15 | Single dose | 25.1 (35.3) | 16.3 (25.9) | 11400 (33.4) |
+| Multiple dose steady stateMonth 3 | 28.0 (27.9) | 12.2 (21.7) | 13100 (23.4) |  |
 
 Distribution:
 

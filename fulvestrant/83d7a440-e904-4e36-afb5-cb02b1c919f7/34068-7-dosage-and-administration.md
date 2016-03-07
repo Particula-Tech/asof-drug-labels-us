@@ -16,19 +16,19 @@ FASLODEX has not been evaluated in patients with severe hepatic impairment (Chil
 
 The proper method of administration of FASLODEX for intramuscular use is described in the instructions that follow:
 
-- Remove glass syringe barrel from tray and check that it is not damaged.
-- Remove perforated patient record label from syringe.
-- Peel open the safety needle (SafetyGlide™) outer packaging.
-  For complete SafetyGlide™ instructions refer below to the "Directions for Use of SafetyGlide™".
-- Break the seal of the white plastic cover on the syringe luer connector to remove the cover with the attached rubber tip cap (see Figure 1).
-- Twist to lock the needle to the luer connector.
-- Remove needle sheath.
-- Remove excess gas from the syringe (a small gas bubble may remain).
-- Administer intramuscularly slowly in the buttock.
-- Immediately activate needle protection device upon withdrawal from patient by pushing lever arm completely forward until needle tip is fully covered (see Figure 2).
-- Visually confirm that the lever arm has fully advanced and the needle tip is covered.
-  If unable to activate, discard immediately into an approved sharps collector.
-- Repeat steps 1 through 10 for second syringe.
+1. Remove glass syringe barrel from tray and check that it is not damaged.
+2. Remove perforated patient record label from syringe.
+3. Peel open the safety needle (SafetyGlide™) outer packaging.
+   For complete SafetyGlide™ instructions refer below to the "Directions for Use of SafetyGlide™".
+4. Break the seal of the white plastic cover on the syringe luer connector to remove the cover with the attached rubber tip cap (see Figure 1).
+5. Twist to lock the needle to the luer connector.
+6. Remove needle sheath.
+7. Remove excess gas from the syringe (a small gas bubble may remain).
+8. Administer intramuscularly into the buttock slowly.
+9. Immediately activate needle protection device upon withdrawal from patient by pushing lever arm completely forward until needle tip is fully covered (see Figure 2).
+10. Visually confirm that the lever arm has fully advanced and the needle tip is covered.
+    If unable to activate, discard immediately into an approved sharps collector.
+11. Repeat steps 1 through 10 for second syringe.
 
 How To Use FASLODEX
 
@@ -38,17 +38,22 @@ SAFETYGLIDE™ INSTRUCTIONS FROM BECTON DICKINSON
 
 SafetyGlide™ is a trademark of Becton Dickinson and Company.
 
-Reorder number: 305917
+Important Administration Information
 
-CAUTION CONCERNING SAFETYGLIDE™
+To help avoid HIV (AIDS), HBV (Hepatitis), and other infectious diseases due to accidental needlesticks,
 
-Federal (USA) law restricts this device to sale by or on the order of a physician.
-To help avoid HIV (AIDS), HBV (Hepatitis), and other infectious diseases due to accidental needlesticks, contaminated needles should not be recapped or removed, unless there is no alternative or that such action is required by a specific medical procedure.
+contaminated needles should not be recapped or removed, unless there is no alternative or that such action
 
-WARNING CONCERNING SAFETYGLIDE™
+is required by a specific medical procedure.
+Hands must remain behind the needle at all times during use
+
+and disposal.
 
 Do not autoclave SafetyGlide™ Needle before use.
-Hands must remain behind the needle at all times during use and disposal.
+
+Parenteral drug products should be visually inspected for any particulate matter and discoloration prior to
+
+administration, whenever solution and container permit.
 
 DIRECTIONS FOR USE OF SAFETYGLIDE™
 

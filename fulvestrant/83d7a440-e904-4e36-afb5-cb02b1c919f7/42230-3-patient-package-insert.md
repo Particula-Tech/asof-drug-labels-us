@@ -6,9 +6,7 @@ FASLODEX® (faz-lo-dex)
 
 (fulvestrant)
 
-Read this Patient Information before you start receiving FASLODEX and before each injection.
-There may be new information.
-This leaflet does not take the place of talking with your healthcare provider about your medical condition or treatment.
+injection
 
 What is FASLODEX?
 
@@ -16,9 +14,11 @@ FASLODEX is a prescription medicine used to treat hormone receptor-positive brea
 
 It is not known if FASLODEX is safe and effective in children.
 
+It is not known if FASLODEX is safe and effective in people with severe liver problems.
+
 Who should not receive FASLODEX?
 
-You should not receive FASLODEX if you have had an allergic reaction to any of the ingredients in FASLODEX.
+Do not receive FASLODEX if you have had an allergic reaction to any of the ingredients in FASLODEX.
 See the end of this leaflet for a list of the ingredients in FASLODEX.
 
 Symptoms of an allergic reaction to FASLODEX may include:
@@ -27,32 +27,30 @@ Symptoms of an allergic reaction to FASLODEX may include:
 - •swelling of your face, lips, tongue or throat
 - •trouble breathing
 
-What should I tell my healthcare provider before taking FASLODEX?
+What should I tell my healthcare provider before receiving FASLODEX?
 
-Before you receive FASLODEX, tell your healthcare provider if you:
+Before receiving FASLODEX, tell your healthcare provider about all of your medical conditions, including if you:
 
 - •have a low level of platelets in your blood or bleed easily.
-- •have liver problems
-- •have any other medical conditions
+- •have liver problems.
 - •are pregnant or plan to become pregnant.
   FASLODEX can harm your unborn baby.
-  Talk to your healthcare provider about how to prevent pregnancy while taking FASLODEX.
-  Tell your healthcare provider right away if you become pregnant or think you are pregnant while receiving FASLODEX.
-- •are breastfeeding or plan to breastfeed.
-  You and your healthcare provider will decide if you will take FASLODEX or breast feed.
-  You should not do both.
+  - oFemales who are able to become pregnant should use effective birth control during treatment with FASLODEX and for one year after the last dose of FASLODEX.
+  - oTell your healthcare provider right away if you become pregnant or think you are pregnant during treatment with FASLODEX.
+- •are breast-feeding or plan to breast-feed.
+  It is not known if FASLODEX passes into your breast milk.
+  Do not breast-feed during your treatment with FASLODEX and for one year after the last dose of FASLODEX.
+  Talk to your healthcare provider about the best way to feed your baby during this time.
 
-Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take, including prescription and over the counter medicines, vitamins, and herbal supplements.
 FASLODEX may affect the way other medicines work, and other medicines may affect how FASLODEX works.
 
 Especially tell your healthcare provider if you take a blood thinner medicine.
 
-Know the medicines you take.
-Keep a list of your medicines with you to show your healthcare provider or pharmacist when you get a new medicine.
-
 How will I receive FASLODEX?
 
-Your healthcare provider will give you the appropriate amount of FASLODEX by injection into the muscle of your buttock.
+- •Your healthcare provider will give you FASLODEX by injection into the muscle of your buttock.
+- •Your healthcare provider may change your dose of FASLODEX if needed.
 
 What are the possible side effects of FASLODEX?
 
@@ -71,6 +69,8 @@ Common side effects of FASLODEX include:
 - •constipation
 - •shortness of breath
 - •increased liver enzymes
+- FASLODEX may cause fertility problems in males and females.
+  Talk to your healthcare provider if you plan to become pregnant.
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
@@ -80,24 +80,18 @@ For more information, ask your healthcare provider or pharmacist.
 Call your healthcare provider for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-You may also report side effects to AstraZeneca at 1-800-236- 9933.
-
-General Information about FASLODEX.
-
-Certain types of breast cancer require estrogen, a female hormone, to grow.
-FASLODEX works by blocking the effect of estrogen on certain tumors.
-This may slow the growth of tumors that are stimulated by estrogen.
+General Information about the safe and effective use of FASLODEX.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
-This leaflet summarizes the most important information about FASLODEX.
+Do not use FASLODEX for a condition for which it was not prescribed.
+Do not give FASLODEX to other people, even if they have the same symptoms you have.
+It may harm them.
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about FASLODEX that is written for health professionals.
 
-For more information, go to www.FASLODEX.com
-
 What are the ingredients in FASLODEX?
 
-Active ingredient: fulvestrant
+Active ingredient: fulvestrant.
 
 Inactive ingredients: alcohol, benzyl alcohol, benzyl benzoate, and castor oil.
 
@@ -105,7 +99,7 @@ SafetyGlide™ is a trademark of Becton Dickinson and Company.
 
 FASLODEX is a trademark of the AstraZeneca group of companies.
 
-©AstraZeneca 2010
+©AstraZeneca 2016
 
 Distributed by:
 
@@ -123,5 +117,6 @@ By: Vetter Pharma-Fertigung GMBH & Co. KG
 
 Ravensburg, Germany
 
-Rev.
-11/2012
+For more information, go to www.FASLODEX.com or call 1-800-236-9933
+
+1. This Patient Information has been approved by the U.S. Food and Drug Administration Revised: March/2016

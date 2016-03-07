@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-FASLODEX is supplied as two 5-mL clear neutral glass (Type 1) barrels, each containing 250 mg/5 mL of FASLODEX solution for intramuscular injection and fitted with a tamper evident closure.
+FASLODEX is supplied as two 5 mL clear neutral glass (Type 1) barrels, each containing 250 mg/5 mL of FASLODEX solution for intramuscular injection and fitted with a tamper evident closure.
 
 NDC 0310–0720–10
 

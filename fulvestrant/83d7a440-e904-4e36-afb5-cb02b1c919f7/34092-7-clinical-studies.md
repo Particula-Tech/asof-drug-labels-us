@@ -30,9 +30,9 @@ Table 4: Efficacy Results Study 1: Intent To Treat (ITT) Population
 | PFSPFS (Progression Free Survival) = the time between randomization and the earliest of progression or death from any cause. Minimum follow-up duration of 18 months.Median (months) | 6.5 | 5.4 |
 | Hazard RatioHazard Ratio < 1 favors FASLODEX 500 mg. (95% CICI=Confidence Interval) | 0.80 (0.68-0.94) |  |
 | p-value | 0.006 |  |
-| OSOS=Overall Survival Updated Analysis(% patients who died) | 261 (72.1%) | 293 (78.3%) |
+| OSOS=Overall Survival Updated AnalysisMinimum follow up duration of 50 months.(% patients who died) | 261 (72.1%) | 293 (78.3%) |
 | Median OS (months) | 26.4 | 22.3 |
-| Hazard Ratio (95% CI) | 0.81 (0.69-0.96) |  |
+| Hazard Ratio (95% CI)Not statistically significant as no adjustments were made for multiplicity. | 0.81 (0.69-0.96) |  |
 | ORRORR (Objective Response Rate), as defined as number (%) of patients with complete response or partial response, was analyzed in the evaluable patients with measureable disease at baseline (fulvestrant 500 mg N=240; fulvestrant 250 mg N=261). Minimum follow-up duration of 18 months.(95% CI) | 13.8% (9.7%, 18.8%)(33/240) | 14.6% (10.5%, 19.4%)38/261) |
 
 Figure 4 Kaplan-Meier PFS: Study 1 ITT Population
@@ -67,14 +67,12 @@ Table 5: Efficacy Results
 | --- | --- | --- | --- | --- |
 |  | Study 2 (Double-Blind) |  | Study 3 (Open-Label) |  |
 |  | FASLODEX | Anastrozole | FASLODEX | Anastrozole |
-| Objective tumor response |  |  |  |  |
+| Objective Tumor Response |  |  |  |  |
 | Number (%) of subjects with CRCR = Complete Response + PRPR = Partial Response | 35 (17.0) | 33 (17.0) | 45 (20.3) | 34 (14.9) |
 | % Difference in Tumor Response Rate (FASFAS = FASLODEX —ANAANA = anastrozole) 2–sided 95.4% CICI = Confidence Interval | 0.0 (-6.3, 8.9) |  | 5.4 (-1.4, 14.8) |  |
-| Time to progression (TTP)Median TTP (days) | 165 | 103 | 166 | 156 |
-| Hazard ratio Hazard ratio <1 favors FASLODEX2-sided 95.4% CI¶ | 0.9 (0.7, 1.1) |  | 1.0 (0.8, 1.2) |  |
+| Time to Progression (TTP)Median TTP (days) | 165 | 103 | 166 | 156 |
+| Hazard Ratio Hazard Ratio <1 favors FASLODEX2-sided 95.4% CI¶ | 0.9 (0.7, 1.1) |  | 1.0 (0.8, 1.2) |  |
 | Stable Disease for ≥ 24 weeks (%) | 26.7 | 19.1 | 24.3 | 30.1 |
 | Overall Survival (OS) |  |  |  |  |
 | Died n (%) Median Survival (days) | 152 (73.8%) 844 | 149 (76.8%) 913 | 167 (75.2%) 803 | 173 (75.5%) 736 |
 | Hazard Ratio(2-sided 95% CI¶) | 0.98 (0.78, 1.24) |  | 0.97 (0.78, 1.21) |  |
-
-There are no efficacy data for the use of FASLODEX in premenopausal women with advanced breast cancer (women with functioning ovaries as evidenced by menstruation and/or premenopausal LH, FSH and estradiol levels).
