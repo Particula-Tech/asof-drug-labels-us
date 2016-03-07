@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA050617"
+  ],
+  "inn": "erythromycin",
+  "labeler": "Prestium Pharma, Inc.",
+  "package_ndcs": [
+    "40076-415-30",
+    "40076-415-60"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "erythromycin",
+      "name": "ERYGEL"
+    }
+  ],
+  "setid": "07fabf03-f124-4eee-afad-2d1dfcabbff8",
+  "source": "dailymed"
+}

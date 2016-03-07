@@ -1,0 +1,7 @@
+# PRINCIPAL DISPLAY PANEL
+
+NDC 40076-415-30 ERYGEL (Erythromycin) Topical Gel USP 2% Net Wt 30 g
+
+# PRINCIPAL DISPLAY PANEL
+
+NDC 40076-415-60 ERYGEL (Erythromycin) Topical Gel USP 2% Net Wt 60 g
