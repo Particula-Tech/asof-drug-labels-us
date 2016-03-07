@@ -96,7 +96,7 @@ The steady state pharmacokinetics of emtricitabine and tenofovir were unaffected
 In vitro studies and clinical pharmacokinetic drug-drug interaction trials have shown that the potential for CYP mediated interactions involving emtricitabine and tenofovir with other medicinal products is low.
 
 No clinically significant drug interactions have been observed between emtricitabine and famciclovir, indinavir, stavudine, tenofovir disoproxil fumarate, and zidovudine (see Tables 7 and 8).
-Similarly, no clinically significant drug interactions have been observed between tenofovir disoproxil fumarate and efavirenz, methadone, nelfinavir, oral contraceptives, or ribavirin in trials conducted in healthy volunteers (see Tables 9 and 10).
+Similarly, no clinically significant drug interactions have been observed between tenofovir disoproxil fumarate and efavirenz, methadone, nelfinavir, oral contraceptives, ribavirin, or sofosbuvir in trials conducted in healthy volunteers (see Tables 9 and 10).
 
 Table 7 Drug Interactions: Changes in Pharmacokinetic Parameters for Emtricitabine in the Presence of the Coadministered DrugAll interaction trials conducted in healthy volunteers
 
@@ -125,20 +125,22 @@ Table 9 Drug Interactions: Changes in Pharmacokinetic Parameters for TenofovirSu
 | Cmax | AUC | Cmin |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Coadministered Drug | Dose of Coadministered Drug (mg) | N | % Change of Tenofovir Pharmacokinetic ParametersIncrease = ↑; Decrease = ↓; No Effect = ⇔; NC = Not Calculated (90% CI) |  |  |
-| Abacavir | 300 once | 8 | ⇔ | ⇔ | NC |
 | AtazanavirReyataz Prescribing Information | 400 once daily × 14 days | 33 | ↑ 14 (↑ 8 to ↑ 20) | ↑ 24 (↑ 21 to ↑ 28) | ↑ 22 (↑ 15 to ↑ 30) |
 | Atazanavir/ Ritonavir | 300/100 once daily | 12 | ↑ 34 (↑ 20 to ↑ 51) | ↑ 37 (↑ 30 to ↑ 45) | ↑ 29 (↑ 21 to ↑ 36) |
-| Darunavir/ RitonavirPrezista Prescribing Information | 300/100 twice daily | 12 | ↑ 24 (↑ 8 to ↑ 42) | ↑ 22 (↑ 10 to ↑ 35) | ↑ 37 (↑ 19 to ↑ 57) |
-| DidanosineSubjects received didanosine buffered tablets. | 250 or 400 once daily × 7 days | 14 | ⇔ | ⇔ | ⇔ |
-| Emtricitabine | 200 once daily × 7 days | 17 | ⇔ | ⇔ | ⇔ |
-| Entecavir | 1 mg once daily × 10 days | 28 |  |  |  |
+| Darunavir/RitonavirPrezista Prescribing Information | 300/100 twice daily | 12 | ↑ 24 (↑ 8 to ↑ 42) | ↑ 22 (↑ 10 to ↑ 35) | ↑ 37 (↑ 19 to ↑ 57) |
 | Indinavir | 800 three times daily × 7 days | 13 | ↑ 14 (↓ 3 to ↑ 33) | ⇔ | ⇔ |
-| Lamivudine | 150 twice daily × 7 days | 15 | ⇔ | ⇔ | ⇔ |
-| Lopinavir/ Ritonavir | 400/100 twice daily × 14 days | 24 | ⇔ | ↑ 32 (↑ 25 to ↑ 38) | ↑ 51 (↑ 37 to ↑ 66) |
-| Saquinavir/ Ritonavir | 1000/100 twice daily × 14 days | 35 | ⇔ | ⇔ | ↑ 23 (↑ 16 to ↑ 30) |
+| Ledipasvir/ SofosbuvirData generated from simultaneous dosing with HARVONI (ledipasvir/sofosbuvir). Staggered administration (12 hours apart) provided similar results.,Comparison based on exposures when administered as atazanavir/ritonavir + emtricitabine/tenofovir DF. | 90/400 once daily ×10 days | 24 | ↑ 47 (↑ 37 to ↑ 58) | ↑ 35 (↑ 29 to ↑42) | ↑ 47 (↑ 38 to ↑ 57) |
+| Ledipasvir/ Sofosbuvir,Comparison based on exposures when administered as darunavir/ritonavir + emtricitabine/tenofovir DF. | 23 | ↑ 64 (↑ 54 to ↑ 74) | ↑ 50 (↑ 42 to ↑ 59) | ↑ 59 (↑ 49 to ↑ 70) |  |
+| Ledipasvir/ SofosbuvirStudy conducted with ATRIPLA (efavirenz/emtricitabine/tenofovir DF) coadministered with HARVONI. | 90/400 once daily ×14 days | 15 | ↑ 79 (↑ 56 to ↑ 104) | ↑ 98 (↑ 77 to ↑ 123) | ↑ 163 (↑ 132 to ↑ 197) |
+| Ledipasvir/ SofosbuvirStudy conducted with COMPLERA (emtricitabine/rilpivirine/tenofovir DF) coadministered with HARVONI. | 90/400 once daily ×10 days | 14 | ↑ 32 (↑ 25 to ↑ 39) | ↑ 40 (↑ 31 to ↑ 50) | ↑ 91 (↑ 74 to ↑ 110) |
+| Lopinavir/Ritonavir | 400/100 twice daily × 14 days | 24 | ⇔ | ↑ 32 (↑ 25 to ↑ 38) | ↑ 51 (↑ 37 to ↑ 66) |
+| Saquinavir/Ritonavir | 1000/100 twice daily × 14 days | 35 | ⇔ | ⇔ | ↑ 23 (↑ 16 to ↑ 30) |
+| SofosbuvirStudy conducted with ATRIPLA coadministered with SOVALDI® (sofosbuvir). | 400 single dose | 16 | ↑ 25 (↑ 8 to ↑ 45) | ⇔ | ⇔ |
 | Tacrolimus | 0.05 mg/kg twice daily × 7 days | 21 | ↑ 13 (↑ 1 to ↑ 27) | ⇔ | ⇔ |
-| Tipranavir/ RitonavirAptivus Prescribing Information | 500/100 twice daily | 22 | ↓ 23 (↓ 32 to ↓ 13) | ↓ 2 (↓ 9 to ↑ 5) | ↑ 7 (↓ 2 to ↑ 17) |
+| Tipranavir/ RitonavirAptivus Prescribing Information. | 500/100 twice daily | 22 | ↓ 23 (↓ 32 to ↓ 13) | ↓ 2 (↓ 9 to ↑ 5) | ↑ 7 (↓ 2 to ↑ 17) |
 | 750/200 twice daily (23 doses) | 20 | ↓ 38 (↓ 46 to ↓ 29) | ↑ 2 (↓ 6 to ↑ 10) | ↑ 14 (↑ 1 to ↑ 27) |  |
+
+No effect on the pharmacokinetic parameters of the following coadministered drugs was observed with TRUVADA: abacavir, didanosine (buffered tablets), emtricitabine, entecavir and lamivudine.
 
 Table 10 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of Tenofovir
 
@@ -148,7 +150,7 @@ Table 10 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadminist
 | Abacavir | 300 once | 8 | ↑ 12 (↓ 1 to ↑ 26) | ⇔ | NA |
 | AtazanavirReyataz Prescribing Information | 400 once daily × 14 days | 34 | ↓ 21 (↓ 27 to ↓ 14) | ↓ 25 (↓ 30 to ↓ 19) | ↓ 40 (↓ 48 to ↓ 32) |
 | Atazanavir | Atazanavir/Ritonavir 300/100 once daily × 42 days | 10 | ↓ 28 (↓ 50 to ↑ 5) | ↓ 25In HIV-infected subjects, addition of tenofovir DF to atazanavir 300 mg plus ritonavir 100 mg, resulted in AUC and Cmin values of atazanavir that were 2.3 and 4-fold higher than the respective values observed for atazanavir 400 mg when given alone. (↓ 42 to ↓ 3) | ↓ 23 (↓ 46 to ↑ 10) |
-| DarunavirPrezista Prescribing Information. | Darunavir/Ritonavir 300/100 mg once daily | 12 | ↑ 16 (↓ 6 to ↑ 42) | ↑ 21 (↓ 5 to ↑ 54) | ↑ 24 (↓ 10 to ↑ 69) |
+| DarunavirPrezista Prescribing Information. | Darunavir/Ritonavir 300/100 once daily | 12 | ↑ 16 (↓ 6 to ↑ 42) | ↑ 21 (↓ 5 to ↑ 54) | ↑ 24 (↓ 10 to ↑ 69) |
 | DidanosineVidex EC Prescribing Information. Subjects received didanosine enteric-coated capsules. | 250 once, simultaneously with tenofovir DF and a light meal373 kcal, 8.2 g fat | 33 | ↓ 20Compared with didanosine (enteric-coated) 400 mg administered alone under fasting conditions. (↓ 32 to ↓ 7) | ⇔ | NA |
 | Emtricitabine | 200 once daily × 7 days | 17 | ⇔ | ⇔ | ↑ 20 (↑ 12 to ↑ 29) |
 | Indinavir | 800 three times daily × 7 days | 12 | ↓ 11 (↓ 30 to ↑ 12) | ⇔ | ⇔ |
@@ -172,7 +174,8 @@ See Drug Interactions (7.1) regarding use of didanosine with VIREAD.
 Mechanism of Action
 
 Emtricitabine: Emtricitabine, a synthetic nucleoside analog of cytidine, is phosphorylated by cellular enzymes to form emtricitabine 5'-triphosphate.
-Emtricitabine 5'-triphosphate inhibits the activity of the HIV-1 reverse transcriptase (RT) by competing with the natural substrate deoxycytidine 5'-triphosphate and by being incorporated into nascent viral DNA which results in chain termination.Emtricitabine 5'-triphosphate is a weak inhibitor of mammalian DNA polymerase α, β, ε and mitochondrial DNA polymerase γ.
+Emtricitabine 5'-triphosphate inhibits the activity of the HIV-1 reverse transcriptase (RT) by competing with the natural substrate deoxycytidine 5'-triphosphate and by being incorporated into nascent viral DNA which results in chain termination.
+Emtricitabine 5'-triphosphate is a weak inhibitor of mammalian DNA polymerase α, β, ε and mitochondrial DNA polymerase γ.
 
 Tenofovir Disoproxil Fumarate: Tenofovir disoproxil fumarate is an acyclic nucleoside phosphonate diester analog of adenosine monophosphate.
 Tenofovir disoproxil fumarate requires initial diester hydrolysis for conversion to tenofovir and subsequent phosphorylations by cellular enzymes to form tenofovir diphosphate.

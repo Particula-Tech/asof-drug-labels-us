@@ -23,7 +23,7 @@ Advise patients and uninfected individuals that:
   Dosing interval of TRUVADA may need adjustment in HIV-1 infected patients with renal impairment.
   TRUVADA for a PrEP indication should not be used in HIV-1 uninfected individuals if estimated creatinine clearance is less than 60 mL/min.
   If a decrease in estimated creatinine clearance is observed in uninfected individuals while using TRUVADA for PrEP, evaluate potential causes and re-assess potential risks and benefits of continued use [See Dosage and Administration (2.3)].
-- Do not administer TRUVADA with ATRIPLA, COMPLERA, EMTRIVA, STRIBILD, or VIREAD; or with drugs containing lamivudine, including Combivir (lamivudine/zidovudine), Epivir or Epivir-HBV (lamivudine), Epzicom (abacavir sulfate/lamivudine), or Trizivir (abacavir sulfate/lamivudine/zidovudine) [See Warnings and Precautions (5.4)].
+- Do not administer TRUVADA with ATRIPLA, COMPLERA, EMTRIVA, STRIBILD, or VIREAD; or with drugs containing lamivudine, including Combivir (lamivudine/zidovudine), Epivir or Epivir-HBV (lamivudine), Epzicom (abacavir sulfate/lamivudine), Triumeq (abacavir sulfate/dolutegravir/lamivudine), or Trizivir (abacavir sulfate/lamivudine/zidovudine) [See Warnings and Precautions (5.4)].
 - Do not administer TRUVADA with HEPSERA [See Warnings and Precautions (5.4)].
 - Decreases in bone mineral density have been observed with the use of VIREAD or TRUVADA.
   Consider bone monitoring in patients and uninfected individuals who have a history of pathologic bone fracture or at risk for osteopenia [See Warnings and Precautions (5.5)].

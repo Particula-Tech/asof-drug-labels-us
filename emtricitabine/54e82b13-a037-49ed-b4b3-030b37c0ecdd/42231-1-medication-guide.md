@@ -155,13 +155,13 @@ Do not take TRUVADA if you also take any of the medicines listed below:
 
 - tenofovir or emtricitabine (ATRIPLA®, COMPLERA®, EMTRIVA, STRIBILD®, or VIREAD).
   These medicines contain the same active ingredient as TRUVADA.
-- medicines which contain lamivudine (Combivir, Epivir, Epivir-HBV, Epzicom, or Trizivir)
+- medicines which contain lamivudine (Combivir, Epivir, Epivir-HBV, Epzicom, Triumeq or Trizivir)
 - adefovir (HEPSERA®)
 
 TRUVADA may interact with other medicines.
 Especially tell your healthcare provider if you take:
 
-| didanosine (Videx EC)atazanavir (Reyataz) | darunavir (Prezista)lopinavir with ritonavir (Kaletra) |
+| didanosine (Videx EC)atazanavir (Reyataz)darunavir (Prezista) | lopinavir with ritonavir (Kaletra)ledipasvir with sofosbuvir (HARVONI®) |
 | --- | --- |
 
 Your doctor may need to check you more often or change your dose if you take any of these medicines and TRUVADA.

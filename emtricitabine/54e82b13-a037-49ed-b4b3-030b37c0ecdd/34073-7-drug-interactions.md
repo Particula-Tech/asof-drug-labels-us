@@ -27,10 +27,19 @@ TRUVADA should not be coadministered with atazanavir without ritonavir.
 Lopinavir/ritonavir, atazanavir coadministered with ritonavir, and darunavir coadministered with ritonavir have been shown to increase tenofovir concentrations [See Clinical Pharmacology (12.3)].
 Tenofovir disoproxil fumarate is a substrate of P-glycoprotein (Pgp) and breast cancer resistance protein (BCRP) transporters.
 When tenofovir disoproxil fumarate is co-administered with an inhibitor of these transporters, an increase in absorption may be observed.
-Patients receiving TRUVADA concomitantly with lopinavir/ritonavir, ritonavir-boosted atazanavir, or ritonavir-boosted darunavir should be monitored for tenofovir-associated adverse reactions.
-TRUVADA should be discontinued in patients who develop tenofovir-associated adverse reactions.
+Patients receiving TRUVADA concomitantly with lopinavir/ritonavir, ritonavir-boosted atazanavir, or ritonavir-boosted darunavir should be monitored for tenofovir disoproxil fumarate-associated adverse reactions.
+TRUVADA should be discontinued in patients who develop tenofovir disoproxil fumarate -associated adverse reactions.
 
-## 7.3 Drugs Affecting Renal Function
+## 7.3 Hepatitis C Antiviral Agents
+
+Coadministration of tenofovir disoproxil fumarate and HARVONI® (ledipasvir/sofosbuvir) has been shown to increase tenofovir exposure [See Clinical Pharmacology (12.3)].
+
+In patients receiving TRUVADA concomitantly with HARVONI without an HIV-1 protease inhibitor/ritonavir or an HIV-1 protease inhibitor/cobicistat combination, monitor for adverse reactions associated with tenofovir disoproxil fumarate.
+
+In patients receiving TRUVADA concomitantly with HARVONI and an HIV-1 protease inhibitor/ritonavir or an HIV-1 protease inhibitor/cobicistat combination, consider an alternative HCV or antiretroviral therapy, as the safety of increased tenofovir concentrations in this setting has not been established.
+If coadministration is necessary, monitor for adverse reactions associated with tenofovir disoproxil fumarate.
+
+## 7.4 Drugs Affecting Renal Function
 
 Emtricitabine and tenofovir are primarily excreted by the kidneys by a combination of glomerular filtration and active tubular secretion [See Clinical Pharmacology (12.3)].
 No drug-drug interactions due to competition for renal excretion have been observed; however, coadministration of TRUVADA with drugs that are eliminated by active tubular secretion may increase concentrations of emtricitabine, tenofovir, and/or the coadministered drug.

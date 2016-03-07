@@ -26,7 +26,7 @@ Renal impairment, including cases of acute renal failure and Fanconi syndrome (r
 It is recommended that estimated creatinine clearance be assessed in all individuals prior to initiating therapy and as clinically appropriate during therapy with TRUVADA.
 In patients at risk of renal dysfunction, including patients who have previously experienced renal events while receiving HEPSERA®, it is recommended that estimated creatinine clearance, serum phosphorus, urine glucose, and urine protein be assessed prior to initiation of TRUVADA, and periodically during TRUVADA therapy.
 
-TRUVADA should be avoided with concurrent or recent use of a nephrotoxic agent (e.g., high-dose or multiple non-steroidal anti-inflammatory drugs (NSAIDs)) [See Drug Interactions (7.3)].
+TRUVADA should be avoided with concurrent or recent use of a nephrotoxic agent (e.g., high-dose or multiple non-steroidal anti-inflammatory drugs (NSAIDs)) [See Drug Interactions (7.4)].
 Cases of acute renal failure after initiation of high dose or multiple NSAIDs have been reported in HIV-infected patients with risk factors for renal dysfunction who appeared stable on tenofovir DF.
 Some patients required hospitalization and renal replacement therapy.
 Alternatives to NSAIDs should be considered, if needed, in patients at risk for renal dysfunction.
@@ -48,7 +48,7 @@ If a decrease in estimated creatinine clearance is observed in uninfected indivi
 
 TRUVADA is a fixed-dose combination of emtricitabine and tenofovir disoproxil fumarate.
 Do not coadminister TRUVADA with ATRIPLA, COMPLERA, EMTRIVA, STRIBILD, or VIREAD.
-Due to similarities between emtricitabine and lamivudine, do not coadminister TRUVADA with other drugs containing lamivudine, including Combivir (lamivudine/zidovudine), Epivir or Epivir-HBV (lamivudine), Epzicom (abacavir sulfate/lamivudine), or Trizivir (abacavir sulfate/lamivudine/zidovudine).
+Due to similarities between emtricitabine and lamivudine, do not coadminister TRUVADA with other drugs containing lamivudine, including Combivir (lamivudine/zidovudine), Epivir or Epivir-HBV (lamivudine), Epzicom (abacavir sulfate/lamivudine), Triumeq (abacavir sulfate/dolutegravir/lamivudine), or Trizivir (abacavir sulfate/lamivudine/zidovudine).
 
 Do not coadminister TRUVADA with HEPSERA (adefovir dipivoxil).
 
