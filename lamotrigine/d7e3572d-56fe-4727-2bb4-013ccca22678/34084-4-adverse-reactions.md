@@ -409,7 +409,7 @@ Rhabdomyolysis has been observed in patients experiencing hypersensitivity react
 
 Nervous System
 
-Aggression, exacerbation of Parkinsonian symptoms in patients with pre-existing Parkinson’s disease, nightmares, tics.
+Aggression, exacerbation of Parkinsonian symptoms in patients with pre-existing Parkinson’s disease, tics.
 
 Non-site Specific
 
