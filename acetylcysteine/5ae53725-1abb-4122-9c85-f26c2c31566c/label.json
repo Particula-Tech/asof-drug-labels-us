@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA207358"
+  ],
+  "inn": "acetylcysteine",
+  "labeler": "AuroMedics Pharma LLC",
+  "package_ndcs": [
+    "55150-259-30"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "acetylcysteine",
+      "name": "Acetylcysteine"
+    }
+  ],
+  "setid": "5ae53725-1abb-4122-9c85-f26c2c31566c",
+  "source": "dailymed"
+}
