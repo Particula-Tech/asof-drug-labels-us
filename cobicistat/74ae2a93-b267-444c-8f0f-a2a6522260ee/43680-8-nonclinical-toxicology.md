@@ -19,7 +19,7 @@ In a long-term carcinogenicity study of cobicistat in rats, an increased inciden
 The follicular cell findings are considered to be rat-specific, secondary to hepatic microsomal enzyme induction and thyroid hormone imbalance, and are not relevant for humans.
 At the highest doses tested in the rat carcinogenicity study, systemic exposures were approximately 2 times the human systemic exposure at the therapeutic daily dose.
 
-Cobicistat was not genotoxic in the reverse mutation bacterial test (Ames test), mouse lymphoma or rat micronucleus assays.
+Cobicistat was not genotoxic in the reverse mutation bacterial test (Ames test), or the mouse lymphoma or rat micronucleus assays.
 
 Cobicistat did not affect fertility in male or female rats at daily exposures (AUC) approximately 4-fold higher than human exposures at the recommended 150 mg daily dose.
 
@@ -27,7 +27,7 @@ Fertility was normal in the offspring of rats exposed daily from before birth (i
 
 Emtricitabine: In long-term carcinogenicity studies of emtricitabine, no drug-related increases in tumor incidence were found in mice at doses up to 750 mg per kg per day (23 times the human systemic exposure at the therapeutic dose of 200 mg per day) or in rats at doses up to 600 mg per kg per day (28 times the human systemic exposure at the therapeutic dose).
 
-Emtricitabine was not genotoxic in the reverse mutation bacterial test (Ames test), mouse lymphoma or mouse micronucleus assays.
+Emtricitabine was not genotoxic in the reverse mutation bacterial test (Ames test), or the mouse lymphoma or mouse micronucleus assays.
 
 Emtricitabine did not affect fertility in male rats at approximately 140-fold or in male and female mice at approximately 60-fold higher exposures (AUC) than in humans given the recommended 200 mg daily dose.
 Fertility was normal in the offspring of mice exposed daily from before birth (in utero) through sexual maturity at daily exposures (AUC) of approximately 60-fold higher than human exposures at the recommended 200 mg daily dose.
@@ -39,5 +39,5 @@ In rats, the study was negative for carcinogenic findings at exposures up to 4 t
 Tenofovir DF was mutagenic in the in vitro mouse lymphoma assay and negative in an in vitro bacterial mutagenicity test (Ames test).
 In an in vivo mouse micronucleus assay, tenofovir DF was negative when administered to male mice.
 
-There were no effects on fertility, mating performance or early embryonic development when tenofovir DF was administered to male rats at a dose equivalent to 10 times the human dose based on body surface area comparisons for 28 days prior to mating and to female rats for 15 days prior to mating through day seven of gestation.
+There were no effects on fertility, mating performance or early embryonic development when tenofovir DF was administered to male rats at a dose equivalent to 10 times the human dose based on body-surface-area comparisons for 28 days prior to mating and to female rats for 15 days prior to mating through day seven of gestation.
 There was, however, an alteration of the estrous cycle in female rats.

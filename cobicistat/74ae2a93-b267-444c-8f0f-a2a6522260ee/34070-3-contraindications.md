@@ -1,11 +1,11 @@
 # 4 CONTRAINDICATIONS
 
 Coadministration of STRIBILD is contraindicated with drugs that are highly dependent on CYP3A for clearance and for which elevated plasma concentrations are associated with serious and/or life-threatening events.
-These drugs and other contraindicated drugs (which may lead to reduced efficacy of STRIBILD and possible resistance) are listed in Table 1 [see Drug Interactions (7.5), Clinical Pharmacology (12.3)].
+These drugs and other contraindicated drugs (which may lead to reduced efficacy of STRIBILD and possible resistance) are listed in Table 1 [See Drug Interactions (7.5) and Clinical Pharmacology (12.3)].
 
 Table 1 Drugs that are Contraindicated with STRIBILD
 
-| Drug Class | Drugs within class that are contraindicated with STRIBILD | Clinical Comment |
+| Drug Class | Drugs within Class that are Contraindicated with STRIBILD | Clinical Comment |
 | --- | --- | --- |
 | Alpha 1-Adrenoreceptor Antagonist | Alfuzosin | Potential for increased alfuzosin concentrations, which can result in hypotension. |
 | Anticonvulsants | Carbamazepine Phenobarbital Phenytoin | Potential for decreased cobicistat and elvitegravir plasma concentrations, which may result in loss of therapeutic effect and development of resistance. |
@@ -15,5 +15,5 @@ Table 1 Drugs that are Contraindicated with STRIBILD
 | Herbal Products | St. John's wort (Hypericum perforatum) | Coadministration of products containing St. John's wort and STRIBILD may result in reduced plasma concentrations of elvitegravir and cobicistat. This may result in loss of therapeutic effect and development of resistance. |
 | HMG-CoA Reductase Inhibitors | Lovastatin Simvastatin | Potential for serious reactions such as myopathy, including rhabdomyolysis. |
 | Neuroleptic | Pimozide | Potential for serious and/or life-threatening events such as cardiac arrhythmias. |
-| Phosphodiesterase-5 (PDE5) Inhibitor | SildenafilSee Drug Interactions (7), Table 6 for sildenafil when dosed as VIAGRA for erectile dysfunction. when dosed as REVATIO for the treatment of pulmonary arterial hypertension | There is increased potential for sildenafil-associated adverse events (which include visual disturbances, hypotension, priapism, and syncope). |
-| Sedative/hypnotics | Triazolam Orally administered midazolamSee Drug Interactions (7), Table 6 for parenterally administered midazolam. | Triazolam and orally administered midazolam are extensively metabolized by CYP3A4. Coadministration of triazolam or orally administered midazolam with STRIBILD may cause large increases in the concentration of these benzodiazepines. The potential exists for serious and/or life threatening events such as prolonged or increased sedation or respiratory depression. |
+| Phosphodiesterase-5 (PDE-5) Inhibitor | SildenafilSee Drug Interactions (7), Table 6, for sildenafil when dosed as Viagra for erectile dysfunction. when dosed as Revatio for the treatment of pulmonary arterial hypertension | There is increased potential for sildenafil-associated adverse events (which include visual disturbances, hypotension, priapism, and syncope). |
+| Sedative/Hypnotics | Triazolam Orally administered midazolamSee Drug Interactions (7), Table 6, for parenterally administered midazolam. | Triazolam and orally administered midazolam are extensively metabolized by CYP3A4. Coadministration of triazolam or orally administered midazolam with STRIBILD may cause large increases in the concentration of these benzodiazepines. The potential exists for serious and/or life threatening events such as prolonged or increased sedation or respiratory depression. |

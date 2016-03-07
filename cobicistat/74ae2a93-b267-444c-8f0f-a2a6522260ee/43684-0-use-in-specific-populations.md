@@ -4,11 +4,11 @@
 
 Pregnancy Category B
 
-There are no adequate and well-controlled studies in pregnant women.
-Because animal reproduction studies are not always predictive of human response, STRIBILD should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-
 Antiretroviral Pregnancy Registry: To monitor fetal outcomes of pregnant women exposed to STRIBILD, an Antiretroviral Pregnancy Registry has been established.
 Healthcare providers are encouraged to register patients by calling 1-800-258-4263.
+
+There are no adequate and well-controlled studies in pregnant women.
+Because animal reproduction studies are not always predictive of human response, STRIBILD should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 Animal Data
 
@@ -22,7 +22,7 @@ The exposures (AUC) at the embryo-fetal NOAELs in rats and rabbits were respecti
 
 Emtricitabine: The incidence of fetal variations and malformations was not increased in embryo-fetal toxicity studies performed with emtricitabine in mice at exposures (AUC) approximately 60 times higher and in rabbits at approximately 120 times higher than human exposures at the recommended daily dose.
 
-Tenofovir DF: Reproduction studies have been performed in rats and rabbits at doses up to 14 and 19 times the human dose based on body surface area comparisons and revealed no evidence of impaired fertility or harm to the fetus due to tenofovir.
+Tenofovir Disoproxil Fumarate: Reproduction studies have been performed in rats and rabbits at doses up to 14 and 19 times the human dose based on body-surface-area comparisons and revealed no evidence of impaired fertility or harm to the fetus due to tenofovir.
 
 ## 8.3 Nursing Mothers
 
@@ -30,39 +30,39 @@ The Centers for Disease Control and Prevention recommend that HIV-infected mothe
 Studies in rats have demonstrated that elvitegravir, cobicistat, and tenofovir are secreted in milk.
 It is not known whether elvitegravir or cobicistat is excreted in human milk.
 
-In humans, samples of breast milk obtained from five HIV-1 infected mothers show that emtricitabine is secreted in human milk.
+In humans, samples of breast milk obtained from five HIV-1-infected mothers show that emtricitabine is secreted in human milk.
 Breastfeeding infants whose mothers are being treated with emtricitabine may be at risk for developing viral resistance to emtricitabine.
 Other emtricitabine-associated risks in infants breastfed by mothers being treated with emtricitabine are unknown.
 
-Samples of breast milk obtained from five HIV-1 infected mothers show that tenofovir is secreted in human milk.
-Tenofovir-associated risks, including the risk of viral resistance to tenofovir, in infants breastfed by mothers being treated with tenofovir disoproxil fumarate are unknown.
+Samples of breast milk obtained from five HIV-1-infected mothers show that tenofovir is secreted in human milk.
+Tenofovir-associated risks, including the risk of viral resistance to tenofovir, in infants breastfed by mothers being treated with tenofovir DF are unknown.
 
 Because of both the potential for HIV transmission and the potential for serious adverse reactions in nursing infants, mothers should be instructed not to breastfeed if they are receiving STRIBILD.
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of STRIBILD in pediatric patients less than 18 years of age have not been established [see Clinical Pharmacology (12.3)].
+Safety and effectiveness of STRIBILD in pediatric patients less than 18 years of age have not been established [See Clinical Pharmacology (12.3)].
 
 ## 8.5 Geriatric Use
 
 Clinical studies of STRIBILD did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
-In general, caution should be exercised in the administration of STRIBILD in elderly patients, keeping in mind the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy [see Clinical Pharmacology (12.3)].
+In general, caution should be exercised in the administration of STRIBILD in elderly patients, keeping in mind the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy [See Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 
 Initiation of STRIBILD in patients with estimated creatinine clearance below 70 mL per min is not recommended.
-Because STRIBILD is a fixed-dose combination tablet, STRIBILD should be discontinued if estimated creatinine clearance declines below 50 mL per minute during treatment with STRIBILD as dose interval adjustment required for emtricitabine and tenofovir DF cannot be achieved [see Warnings and Precautions (5.3), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14)].
+Because STRIBILD is a fixed-dose combination tablet, STRIBILD should be discontinued if estimated creatinine clearance declines below 50 mL per minute during treatment with STRIBILD as dose interval adjustment required for emtricitabine and tenofovir DF cannot be achieved [See Warnings and Precautions (5.3), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14)].
 
 Clinical Trials in Subjects with Mild to Moderate Renal Impairment
 
-In Study 118, 33 HIV-1 infected treatment naïve subjects with mild to moderate renal impairment (eGFR by Cockcroft-Gault method between 50 and 89 mL/minute) were studied in an open-label clinical trial evaluating the safety of 48 weeks of treatment with STRIBILD.
-After 48 weeks of treatment, the mean change in serum creatinine was 0.17 ± 0.14 mg/dL and the mean change in eGFR by Cockcroft-Gault method was -6.9 ± 9.0 mL/minute for subjects treated with STRIBILD.
+In Study 118, 33 HIV-1-infected treatment-naïve subjects with mild to moderate renal impairment (eGFR by Cockcroft-Gault method between 50 and 89 mL/minute) were studied in an open-label clinical trial evaluating the safety of 48 weeks of treatment with STRIBILD.
+After 48 weeks of treatment, the mean change in serum creatinine was 0.17 ± 0.14 mg/dL and the mean change in eGFR by Cockcroft-Gault method was −6.9 ± 9.0 mL/minute for subjects treated with STRIBILD.
 
 Twelve of the 33 subjects studied had baseline eGFR between 50 and 70 mL/minute.
-Three subjects, all with baseline eGFR between 50–60 mL/minute, discontinued STRIBLD due to a renal adverse event.
-The safety of STRIBILD among 21 of the 33 subjects with baseline eGFR greater than or equal to 70 mL/minute was consistent with the safety profile in Studies 102 and 103.
+Three subjects, all with baseline eGFR between 50−60 mL/minute, discontinued STRIBLD due to a renal adverse event.
+The safety of STRIBILD among 21 of the 33 subjects with baseline eGFR greater than or equal to 70 mL/minute was consistent with the safety profile in studies 102 and 103.
 
 ## 8.7 Hepatic Impairment
 
 No dose adjustment of STRIBILD is required in patients with mild (Child-Pugh Class A) or moderate (Child-Pugh Class B) hepatic impairment.
-No pharmacokinetic or safety data are available regarding the use of STRIBILD in patients with severe hepatic impairment (Child-Pugh Class C). Therefore, STRIBILD is not recommended for use in patients with severe hepatic impairment [see Dosage and Administration (2) and Clinical Pharmacology (12.3)].
+No pharmacokinetic or safety data are available regarding the use of STRIBILD in patients with severe hepatic impairment (Child-Pugh Class C). Therefore, STRIBILD is not recommended for use in patients with severe hepatic impairment [See Dosage and Administration (2) and Clinical Pharmacology (12.3)].
