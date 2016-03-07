@@ -115,19 +115,19 @@ Table 2 Adverse-Reactions in an 18-Week Double-Blind, Placebo-Controlled Trial w
 Because this flexible dose study used a titration design, it was not possible to assess the effects of dose on the incidence of adverse reactions.
 
 Adverse reactions can initially occur in either the titration or maintenance phase.
-Some adverse events developed in pramipexole dihydrochloride extended-release-treated patients during the titration phase and persisted (≥7 days) into the maintenance phase (i.e., pramipexole dihydrochloride extended-release % - placebo % = treatment difference ≥2%); persistent adverse reactions were dyskinesia and insomnia.
+Some adverse reactions developed in pramipexole dihydrochloride extended-release-treated patients during the titration phase and persisted (≥7 days) into the maintenance phase (i.e., pramipexole dihydrochloride extended-release % - placebo % = treatment difference ≥2%); persistent adverse reactions were dyskinesia and insomnia.
 
 Laboratory Testing
 
 During the development of pramipexole dihydrochloride extended-release tablets, no systematic abnormalities on routine laboratory testing were noted.
 
-Other adverse reactions observed during clinical trials of pramipexole in early and advanced Parkinson’s disease.
+Other adverse reactions observed during clinical trials ofpramipexole dihydrochloride immediate-release tablets orpramipexole dihydrochloride extended-release tablets inearly and advanced Parkinson’s disease
 
-Other adverse reactions in clinical studies involving pramipexole include abnormal dreams, akathisia, amnesia, decreased libido, decreased weight, dyspnea, pneumonia, and vision abnormalities.
+Other adverse reactions in clinical studies involving pramipexole dihydrochloride immediate-release tablets or pramipexole dihydrochloride extended-release tablets include abnormal dreams, akathisia, amnesia, decreased libido, decreased weight, dyspnea, pneumonia, and vision abnormalities.
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of immediate-release pramipexole tablets, primarily in Parkinson’s disease patients.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-Decisions to include these reactions in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of reporting, or (3) strength of causal connection to pramipexole tablets.
-Similar types of events were grouped into a smaller number of standardized categories using the MedDRA terminology: cardiac failure, inappropriate antidiuretic hormone secretion (SIADH), syncope, vomiting, and weight increase.
+The following adverse reactions have been identifiedduring post-approval use of pramipexole dihydrochlorideimmediate-release tablets or pramipexole dihydrochlorideextended-release tablets, primarily in Parkinson’s diseasepatients.
+Because these reactions are reported voluntarilyfrom a population of uncertain size, it is not alwayspossible to reliably estimate their frequency or establish acausal relationship to drug exposure.
+Decisions to includethese reactions in labeling are typically based on one ormore of the following factors: (1) seriousness of thereaction, (2) frequency of reporting, or (3) strength ofcausal connection to pramipexole tablets.
+Similar types ofreactions were grouped into a smaller number ofstandardized categories using the MedDRA terminology:cardiac failure, inappropriate antidiuretic hormonesecretion (SIADH), skin reactions (including erythema,rash, pruritus, urticaria), syncope, vomiting, and weightincrease.skin reactions (including erythema,rash, pruritus, urticaria), syncope, vomiting, and weightincrease.

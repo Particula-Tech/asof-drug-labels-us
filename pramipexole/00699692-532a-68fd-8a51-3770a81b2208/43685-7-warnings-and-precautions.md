@@ -45,7 +45,7 @@ Hallucinations led to discontinuation of treatment in 5 of 387 (1%) patients on 
 Age appears to increase the risk of hallucinations attributable to pramipexole.
 In placebo-controlled clinical trials in Parkinson’s disease, hallucinations were reported in 15 of 162 (9%)patients ≥ 65 years of age taking pramipexole dihydrochloride extended-release tablets compared to 10 of 225 (4%)patients <65 years of age taking pramipexole dihydrochloride extended-release tablets.
 
-Postmarketing reports with medication used to treat Parkinson’s disease, including pramipexole dihydrochloride extended-release, indicate that patients may experience new or worsening mental status and behavioral changes, which may be severe, including psychotic-like behavior during treatment with pramipexole dihydrochloride extended-release or after starting or increasing the dose of pramipexole dihydrochloride extended-release.
+Postmarketing reports with dopamine agonists, including pramipexole dihydrochloride extended-release, indicate that patients may experience new or worsening mental status and behavioral changes, which may be severe, including psychotic-like behavior during treatment with pramipexole dihydrochloride extended-release or after starting or increasing the dose of pramipexole dihydrochloride extended-release.
 Other drugs prescribed to improve the symptoms of Parkinson’s disease can have similar effects on thinking and behavior.
 This abnormal thinking and behavior can consist of one or more of a variety of manifestations including paranoid ideation, delusions, hallucinations, confusion, psychotic-like behavior, disorientation, aggressive behavior, agitation, and delirium.
 
