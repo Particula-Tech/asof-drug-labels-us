@@ -1,10 +1,13 @@
 {
   "application_numbers": [
-    "NDA203214"
+    "NDA203214",
+    "NDA208246"
   ],
   "inn": "tofacitinib",
   "labeler": "Pfizer Laboratories Div Pfizer Inc",
   "package_ndcs": [
+    "0069-0501-14",
+    "0069-0501-30",
     "0069-1001-01",
     "0069-1001-02",
     "0069-1001-03"

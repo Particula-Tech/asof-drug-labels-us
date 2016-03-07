@@ -13,3 +13,19 @@ Xeljanz™ (tofacitinib tablets)
 60 Tablets
 
 Rx only
+
+# PRINCIPAL DISPLAY PANEL - 11 mg Tablet Bottle Label
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+Pfizer
+
+NDC 0069-0501-30
+
+Xeljanz® XR (tofacitinib) tablets
+
+Extended Release Tablets
+
+11 mg*
+
+30 Tablets Rx only

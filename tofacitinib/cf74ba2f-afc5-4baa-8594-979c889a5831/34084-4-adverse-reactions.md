@@ -4,7 +4,10 @@
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not predict the rates observed in a broader patient population in clinical practice.
 
-Although other doses have been studied, the recommended dose of XELJANZ is 5 mg twice daily.
+The clinical studies described in the following sections were conducted using XELJANZ.
+Although other doses of XELJANZ have been studied, the recommended dose of XELJANZ is 5 mg twice daily.
+
+The recommended dose for XELJANZ XR is 11 mg once daily.
 
 The following data includes two Phase 2 and five Phase 3 double-blind, controlled, multicenter trials.
 In these trials, patients were randomized to doses of XELJANZ 5 mg twice daily (292 patients) and 10 mg twice daily (306 patients) monotherapy, XELJANZ 5 mg twice daily (1044 patients) and 10 mg twice daily (1043 patients) in combination with DMARDs (including methotrexate) and placebo (809 patients).
@@ -89,9 +92,9 @@ Liver Enzyme Elevations
 Confirmed increases in liver enzymes greater than 3 times the upper limit of normal (3× ULN) were observed in patients treated with XELJANZ.
 In patients experiencing liver enzyme elevation, modification of treatment regimen, such as reduction in the dose of concomitant DMARD, interruption of XELJANZ, or reduction in XELJANZ dose, resulted in decrease or normalization of liver enzymes.
 
-In the controlled monotherapy trials (0-3 months), no differences in the incidence of ALT or AST elevations were observed between the placebo, and XELJANZ 5 mg, and 10 mg twice daily groups.
+In the controlled monotherapy trials (0–3 months), no differences in the incidence of ALT or AST elevations were observed between the placebo, and XELJANZ 5 mg, and 10 mg twice daily groups.
 
-In the controlled background DMARD trials (0-3 months), ALT elevations greater than 3× ULN were observed in 1.0%, 1.3% and 1.2% of patients receiving placebo, 5 mg, and 10 mg twice daily, respectively.
+In the controlled background DMARD trials (0–3 months), ALT elevations greater than 3× ULN were observed in 1.0%, 1.3% and 1.2% of patients receiving placebo, 5 mg, and 10 mg twice daily, respectively.
 In these trials, AST elevations greater than 3× ULN were observed in 0.6%, 0.5% and 0.4% of patients receiving placebo, 5 mg, and 10 mg twice daily, respectively.
 
 One case of drug-induced liver injury was reported in a patient treated with XELJANZ 10 mg twice daily for approximately 2.5 months.

@@ -18,7 +18,9 @@ Although a dose-response relationship was observed in Study 1, the proportion of
 In Study 2, a smaller proportion of patients achieved an ACR20 response in the placebo and XELJANZ 1 mg groups compared to patients treated with the other XELJANZ doses.
 However, there was no difference in the proportion of responders among patients treated with XELJANZ 3, 5, 10, 15 mg twice daily or 20 mg once daily doses.
 
-Figure 4: Proportion of Patients with ACR20 Response at Month 3 in Dose-Ranging Studies 1 and 2
+| Figure 4: Proportion of Patients with ACR20 Response at Month 3 in Dose-Ranging Studies 1 and 2 |
+| --- |
+| * XELJANZ twice daily dosing in mg, except for 20 mg which is once daily dosing in mg. PBO is placebo; ADA is adalimumab 40 mg subcutaneous injection every other week. |
 
 Study 1 was a dose-ranging monotherapy trial not designed to provide comparative effectiveness data and should not be interpreted as evidence of superiority to adalimumab.
 
