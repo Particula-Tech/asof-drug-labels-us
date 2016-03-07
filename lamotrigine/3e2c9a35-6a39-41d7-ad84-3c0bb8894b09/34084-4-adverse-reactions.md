@@ -26,7 +26,7 @@ Table 4 displays the incidence of adverse reactions in these two 19-week, double
 Table 4.
 Adverse Reactions in Pooled, Placebo-Controlled, Adjunctive Trials in Patients with Epilepsya
 
-| Body System/ Adverse Reaction | Percent of Patients Receiving Adjunctive LAMICTAL XR (n = 190) | Percent of Patients Receiving Adjunctive Placebo (n = 195) |
+| Body System/Adverse Reaction | Percent of Patients Receiving Adjunctive LAMICTAL XR (n = 190) | Percent of Patients Receiving Adjunctive Placebo (n = 195) |
 | --- | --- | --- |
 | Ear and labyrinth disorders |  |  |
 | Vertigo | 3 | <1 |
@@ -61,7 +61,7 @@ Adverse Reactions in Pooled, Placebo-Controlled, Adjunctive Trials in Patients w
 | Vascular disorder |  |  |
 | Hot flush | 2 | 0 |
 
-aAdverse reactions that occurred in at least 2% of patients treated with LAMICTAL XR and at a greater incidence than placebo.
+- aAdverse reactions that occurred in at least 2% of patients treated with LAMICTAL XR and at a greater incidence than placebo.
 
 Note: In these trials the incidence of nonserious rash was 2% for LAMICTAL XR and 3% for placebo.
 In clinical trials evaluating immediate-release lamotrigine, the rate of serious rash was 0.3% in adults on adjunctive therapy for epilepsy [see Boxed Warning].
@@ -201,7 +201,7 @@ Rhabdomyolysis has been observed in patients experiencing hypersensitivity react
 
 Nervous System
 
-Aggression, exacerbation of Parkinsonian symptoms in patients with pre-existing Parkinson’s disease, nightmares, tics.
+Aggression, exacerbation of Parkinsonian symptoms in patients with pre-existing Parkinson’s disease, tics.
 
 Non-site Specific
 

@@ -243,8 +243,8 @@ CAUTION: Verify Product Dispensed
 
 ©2015, the GSK group of companies
 
-10000000131958 Rev.
-1/15
+- 10000000131958 Rev.
+  1/15
 
 PRINCIPAL DISPLAY PANEL
 
@@ -290,8 +290,8 @@ CAUTION: Verify Product Dispensed
 
 ©2015, the GSK group of companies
 
-10000000131957 Rev.
-1/15
+- 10000000131957 Rev.
+  1/15
 
 PRINCIPAL DISPLAY PANEL
 
@@ -337,8 +337,8 @@ CAUTION: Verify Product Dispensed
 
 ©2015, the GSK group of companies
 
-10000000131959 Rev.
-1/15
+- 10000000131959 Rev.
+  1/15
 
 PRINCIPAL DISPLAY PANEL
 
@@ -366,7 +366,7 @@ See prescribing information for dosage information.
 
 Do not use if printed safety seal under cap is broken or missing.
 
-Store at 25oC (77oF); excursions permitted to 15 oC to 30oC (59 oF to 86oF) [see USP Controlled Room Temperature].
+Store at 25oC (77oF); excursions permitted to 15oC to 30oC (59oF to 86oF) [see USP Controlled Room Temperature].
 
 Visit www.LAMICTALXR.com
 

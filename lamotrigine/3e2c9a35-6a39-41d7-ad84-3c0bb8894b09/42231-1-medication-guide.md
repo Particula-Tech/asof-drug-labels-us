@@ -9,8 +9,8 @@ If you have questions about LAMICTAL XR, ask your healthcare provider or pharmac
 
 What is the most important information I should know about LAMICTAL XR?
 
-1.
-LAMICTAL XR may cause a serious skin rash that may cause you to be hospitalized or even cause death.
+- 1.
+  LAMICTAL XR may cause a serious skin rash that may cause you to be hospitalized or even cause death.
 
 There is no way to tell if a mild rash will become more serious.
 A serious skin rash can happen at any time during your treatment with LAMICTAL XR, but is more likely to happen within the first 2 to 8 weeks of treatment.
@@ -33,12 +33,11 @@ Call your healthcare provider right away if you have any of the following:
 These symptoms may be the first signs of a serious skin reaction.
 A healthcare provider should examine you to decide if you should continue taking LAMICTAL XR.
 
-2.
-Other serious reactions, including serious blood problems or liver problems.
-LAMICTAL XR can also cause other types of allergic reactions or serious problems that may affect organs and other parts of your body like your liver or blood cells.
-You may or may not have a rash with these types of reactions.
-Call your healthcare provider right away if you have any of these symptoms:
-
+- 2.
+  Other serious reactions, including serious blood problems or liver problems.
+  LAMICTAL XR can also cause other types of allergic reactions or serious problems that may affect organs and other parts of your body like your liver or blood cells.
+  You may or may not have a rash with these types of reactions.
+  Call your healthcare provider right away if you have any of these symptoms:
 - •fever
 - •frequent infections
 - •severe muscle pain
@@ -47,9 +46,8 @@ Call your healthcare provider right away if you have any of these symptoms:
 - •unusual bruising or bleeding
 - •weakness, fatigue
 - •yellowing of your skin or the white part of your eyes
-
-3.
-Like other antiepileptic drugs, LAMICTAL XR may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+- 3.
+  Like other antiepileptic drugs, LAMICTAL XR may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
 
 Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
 
@@ -77,9 +75,8 @@ How can I watch for early symptoms of suicidal thoughts and actions?
 - •Pay attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
 - •Keep all follow-up visits with your healthcare provider as scheduled.
 - •Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
-
-4.
-LAMICTAL XR may rarely cause aseptic meningitis, a serious inflammation of the protective membrane that covers the brain and spinal cord.
+- 4.
+  LAMICTAL XR may rarely cause aseptic meningitis, a serious inflammation of the protective membrane that covers the brain and spinal cord.
 
 Call your healthcare provider right away if you have any of the following symptoms:
 
@@ -102,8 +99,8 @@ For more information ask your healthcare provider or pharmacist.
 Tell your healthcare provider if you have any side effect that bothers you.
 Be sure to read the section below entitled “What are the possible side effects of LAMICTAL XR?”
 
-5.
-Patients prescribed LAMICTAL have sometimes been given the wrong medicine because many medicines have names similar to LAMICTAL, so always check that you receive LAMICTAL XR.
+- 5.
+  Patients prescribed LAMICTAL have sometimes been given the wrong medicine because many medicines have names similar to LAMICTAL, so always check that you receive LAMICTAL XR.
 
 Taking the wrong medication can cause serious health problems.
 When your healthcare provider gives you a prescription for LAMICTAL XR:

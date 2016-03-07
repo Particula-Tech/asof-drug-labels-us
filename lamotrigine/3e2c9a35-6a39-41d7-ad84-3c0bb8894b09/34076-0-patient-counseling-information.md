@@ -64,7 +64,7 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2015, the GSK group of companies.
+©2016 the GSK group of companies.
 All rights reserved.
 
-LXR:18PI
+LXR:19PI
