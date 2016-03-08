@@ -15,9 +15,9 @@ Induction of such tumors is consistent with the pharmacology-related endocrine f
 
 Fulvestrant was not mutagenic or clastogenic in multiple in vitro tests with and without the addition of a mammalian liver metabolic activation factor (bacterial mutation assay in strains of Salmonella typhimurium and Escherichia coli, in vitro cytogenetics study in human lymphocytes, mammalian cell mutation assay in mouse lymphoma cells and in vivo micronucleus test in rat).
 
-In female rats, fulvestrant administered at doses ≥ 0.01 mg/kg/day (0.6% the human recommended dose based on body surface area [mg/m2]), for 2 weeks prior to and for 1 week following mating, caused a reduction in fertility and embryonic survival.
-No adverse effects on female fertility and embryonic survival were evident in female animals dosed at 0.001 mg/kg/day (0.06% the human dose based on mg/m2).
-Restoration of female fertility to values similar to controls was evident following a 29-day withdrawal period after dosing at 2 mg/kg/day (equivalent to the human dose based on mg/m2).
+In female rats, fulvestrant administered at doses ≥ 0.01 mg/kg/day (0.6% the human recommended dose based on body surface area [BSA in mg/m2]), for 2 weeks prior to and for 1 week following mating, caused a reduction in fertility and embryonic survival.
+No adverse effects on female fertility and embryonic survival were evident in female animals dosed at 0.001 mg/kg/day (0.06% the human dose based on BSA in mg/m2).
+Restoration of female fertility to values similar to controls was evident following a 29-day withdrawal period after dosing at 2 mg/kg/day (equivalent to the human dose based on BSA in mg/m2).
 The effects of fulvestrant on the fertility of female rats appear to be consistent with its antiestrogenic activity.
 The potential effects of fulvestrant on the fertility of male animals were not studied but, in a 6-month toxicology study, male rats treated with intramuscular doses of 15 mg/kg/30 days, 10 mg/rat/30 days, or 10 mg/rat/15 days fulvestrant showed a loss of spermatozoa from the seminiferous tubules, seminiferous tubular atrophy, and degenerative changes in the epididymides.
 Changes in the testes and epididymides had not recovered 20 weeks after cessation of dosing.

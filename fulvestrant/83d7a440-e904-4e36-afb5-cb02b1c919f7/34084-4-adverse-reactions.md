@@ -10,6 +10,8 @@ The following adverse reactions are discussed in more detail in other sections o
 
 Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed cannot be directly compared to rates in other trials and may not reflect the rates observed in clinical practice.
 
+Monotherapy
+
 Comparison of FASLODEX 500 mg and FASLODEX 250 mg
 
 The following adverse reactions (ARs) were calculated based on the safety analysis of Study 1 comparing the administration of FASLODEX 500 mg intramuscularly once a month with FASLODEX 250 mg intramuscularly once a month.
@@ -44,19 +46,19 @@ Table 1: Adverse Reactions in Study 1 (≥5% in Either Treatment Group)
 | Cough | 19 (5.3) | 20 (5.3) |
 | Dyspnea | 16 (4.4) | 19 (5.1) |
 
-In the pooled safety population (N=1127) from clinical trials comparing FASLODEX 500 mg to FASLODEX 250 mg, post-baseline increases of ≥1 CTC grade in either AST, ALT, or alkaline phosphatase were observed in > 15% of patients receiving FASLODEX.
+In the pooled safety population (N=1127) from clinical trials comparing FASLODEX 500 mg to FASLODEX 250 mg, post-baseline increases of ≥1 CTC grade in either AST, ALT, or alkaline phosphatase were observed in >15% of patients receiving FASLODEX.
 Grade 3-4 increases were observed in 1-2% of patients.
 The incidence and severity of increased hepatic enzymes (ALT, AST, ALP) did not differ between the 250 mg and the 500 mg FASLODEX arms.
 
 Comparison of FASLODEX 250 mg and Anastrozole 1 mg in Combined Trials (Studies 2 and 3)
 
-The most commonly reported adverse reactions in the FASLODEX and anastrozole treatment groups, were gastrointestinal symptoms (including nausea, vomiting, constipation, diarrhea and abdominal pain), headache, back pain, vasodilatation (hot flashes), and pharyngitis.
+The most commonly reported adverse reactions in the FASLODEX and anastrozole treatment groups were gastrointestinal symptoms (including nausea, vomiting, constipation, diarrhea and abdominal pain), headache, back pain, vasodilatation (hot flashes), and pharyngitis.
 
 Injection site reactions with mild transient pain and inflammation were seen with FASLODEX and occurred in 7% of patients (1% of treatments) given the single 5 mL injection (predominantly European Trial Study 3) and in 27% of patients (4.6% of treatments) given the 2 x 2.5 mL injections (North American Trial Study 2).
 
 Table 2 lists adverse reactions reported with an incidence of 5% or greater, regardless of assessed causality, from the two controlled clinical trials comparing the administration of FASLODEX 250 mg intramuscularly once a month with anastrozole 1 mg orally once a day.
 
-Table 2: Adverse Reactions in Studies 2 and 3 (≥ 5% from Combined Data)
+Table 2: Adverse Reactions in Studies 2 and 3 (≥5% from Combined Data)
 
 | Body System and Adverse Reaction | FASLODEX 250 mg N=423 (%) | Anastrozole 1 mg N=423 (%) |
 | --- | --- | --- |
@@ -103,7 +105,77 @@ Table 2: Adverse Reactions in Studies 2 and 3 (≥ 5% from Combined Data)
 | Urogenital System | 18.2 | 14.9 |
 | Urinary Tract Infection | 6.1 | 3.5 |
 
-## 6.2 Post-Marketing Experience
+Combination Therapy with Palbociclib
+
+The safety of FASLODEX (500 mg) plus palbociclib (125 mg/day) versus FASLODEX plus placebo was evaluated in Study 4.
+The data described below reflect exposure to FASLODEX plus palbociclib in 345 out of 517 patients with HR- positive, HER2-negative advanced or metastatic breast cancer who received at least 1 dose of treatment in Study 4.
+
+No dose reduction was allowed for FASLODEX in Study 4.
+Dose reductions of palbociclib due to an adverse reaction of any grade occurred in 36% of patients receiving FASLODEX plus palbociclib.
+
+Permanent discontinuation associated with an adverse reaction occurred in 19 of 345 (6%) patients receiving FASLODEX plus palbociclib, and in 6 of 172 (3%) patients receiving FASLODEX plus placebo.
+Adverse reactions leading to discontinuation for those patients receiving FASLODEX plus palbociclib included fatigue (0.6%), infections (0.6%), and thrombocytopenia (0.6%).
+
+The most common adverse reactions (≥10%) of any grade reported in patients in the FASLODEX plus palbociclib arm were neutropenia, leukopenia, infections, fatigue, nausea, anemia, stomatitis, headache, diarrhea, thrombocytopenia, constipation, vomiting, alopecia, rash, decreased appetite, and pyrexia.
+
+The most frequently reported serious adverse reactions in patients receiving FASLODEX plus palbociclib were infections (3%), pyrexia (1%), neutropenia (1%), and pulmonary embolism (1%).
+
+Adverse reactions reported in patients who received FASLODEX plus palbociclib in Study 4 are listed in Table 3, and laboratory abnormalities are listed in Table 4.
+
+Table 3: Adverse Reactions in Study 4
+
+| % | % | % | % | % | % |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Adverse Reaction | FASLODEX plus palbociclib (N=345) |  |  | FASLODEX plus placebo (N=172) |  |  |
+| All Grades | Grade 3 | Grade 4 | All Grades | Grade 3 | Grade 4 |  |
+| Infections and infestations |  |  |  |  |  |  |
+| InfectionsMost common infections (>1%) include: nasopharyngitis, upper respiratory infection, urinary tract infection, influenza, bronchitis, rhinitis, conjunctivitis, pneumonia, sinusitis, cystitis, oral herpes, respiratory tract infection. | 47 | 3 | 1 | 31 | 3 | 0 |
+| Blood and lymphatic system disorders |  |  |  |  |  |  |
+| Febrile neutropenia | 1 | 1 | 0 | 1 | 0 | 1 |
+| Neutropenia | 83 | 55 | 11 | 4 | 1 | 0 |
+| Leukopenia | 53 | 30 | 1 | 5 | 1 | 1 |
+| Anemia | 30 | 3 | 0 | 13 | 2 | 0 |
+| Thrombocytopenia | 23 | 2 | 1 | 0 | 0 | 0 |
+| Eye disorders |  |  |  |  |  |  |
+| Vision blurred | 6 | 0 | 0 | 2 | 0 | 0 |
+| Lacrimation increased | 6 | 0 | 0 | 1 | 0 | 0 |
+| Dry eye | 4 | 0 | 0 | 2 | 0 | 0 |
+| Metabolism and nutrition disorders |  |  |  |  |  |  |
+| Decreased appetite | 16 | 1 | 0 | 8 | 1 | 0 |
+| Nervous system disorders |  |  |  |  |  |  |
+| Headache | 26 | 1 | 0 | 20 | 0 | 0 |
+| Dysgeusia | 7 | 0 | 0 | 3 | 0 | 0 |
+| Respiratory, thoracic and mediastinal disorders |  |  |  |  |  |  |
+| Epistaxis | 7 | 0 | 0 | 2 | 0 | 0 |
+| Gastrointestinal disorders |  |  |  |  |  |  |
+| Nausea | 34 | 0 | 0 | 28 | 1 | 0 |
+| StomatitisStomatitis includes: aphthous stomatitis, cheilitis, glossitis, glossodynia, mouth ulceration, mucosal inflammation, oral pain, oropharyngeal discomfort, oropharyngeal pain, stomatitis. | 28 | 1 | 0 | 13 | 0 | 0 |
+| Diarrhea | 24 | 0 | 0 | 19 | 1 | 0 |
+| Constipation | 20 | 0 | 0 | 16 | 0 | 0 |
+| Vomiting | 19 | 1 | 0 | 15 | 1 | 0 |
+| Skin and subcutaneous tissue disorders |  |  |  |  |  |  |
+| Alopecia | 18Grade 1 events – 17%; Grade 2 events – 1%. | N/A | N/A | 6Grade 1 events – 6%. | N/A | N/A |
+| RashRash includes: rash, rash maculo-papular, rash pruritic, rash erythematous, rash papular, dermatitis, dermatitis acneiform, toxic skin eruption. | 17 | 1 | 0 | 6 | 0 | 0 |
+| Dry skin | 6 | 0 | 0 | 1 | 0 | 0 |
+| General disorders and administration site conditions |  |  |  |  |  |  |
+| Fatigue | 41 | 2 | 0 | 29 | 1 | 0 |
+| Pyrexia | 13 | <1 | 0 | 5 | 0 | 0 |
+| Asthenia | 8 | 0 | 0 | 5 | 1 | 0 |
+
+Table 4: Laboratory Abnormalities in Study 4
+
+| All Grades | Grade 3 | Grade 4 | All Grades | Grade 3 | Grade 4 |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Laboratory Abnormality | FASLODEX plus palbociclib (N=345) |  |  | FASLODEX plus placebo (N=172) |  |  |
+| % | % | % | % | % | % |  |
+| WBC decreased | 99 | 45 | 1 | 26 | 0 | 1 |
+| Neutrophils decreased | 96 | 56 | 11 | 14 | 0 | 1 |
+| Anemia | 78 | 3 | 0 | 40 | 2 | 0 |
+| Platelets decreased | 62 | 2 | 1 | 10 | 0 | 0 |
+
+1. N=number of patients; WBC=white blood cells.
+
+## 6.2 Postmarketing Experience
 
 For FASLODEX 250 mg, other adverse reactions reported as drug-related and seen infrequently (<1%) include thromboembolic phenomena, myalgia, vertigo, leukopenia, and hypersensitivity reactions including angioedema and urticaria.
 

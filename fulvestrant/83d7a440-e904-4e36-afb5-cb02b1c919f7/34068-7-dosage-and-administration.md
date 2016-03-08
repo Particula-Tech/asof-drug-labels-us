@@ -2,15 +2,33 @@
 
 ## 2.1 Recommended Dose
 
+Monotherapy
+
 The recommended dose is 500 mg to be administered intramuscularly into the buttocks slowly (1 - 2 minutes per injection) as two 5 mL injections, one in each buttock, on days 1, 15, 29 and once monthly thereafter [see Clinical Studies (14)].
 
+Combination Therapy with Palbociclib
+
+When FASLODEX is used in combination with palbociclib, the recommended dose is 500 mg to be administered intramuscularly into the buttocks slowly (1 - 2 minutes per injection) as two 5 mL injections, one in each buttock, on days 1, 15, 29 and once monthly thereafter.
+The recommended dose of palbociclib is a 125 mg capsule taken orally once daily for 21 consecutive days followed by 7 days off treatment to comprise a complete cycle of 28 days.
+Palbociclib should be taken with food.
+Please refer to the full prescribing information of palbociclib.
+
+Pre/perimenopausal women treated with the combination FASLODEX plus palbociclib should be treated with luteinizing hormone-releasing hormone (LHRH) agonists according to current clinical practice standards [see Clinical Studies (14)].
+
 ## 2.2 Dose Modification
+
+Monotherapy
 
 Hepatic Impairment:
 
 A dose of 250 mg is recommended for patients with moderate hepatic impairment (Child-Pugh class B) to be administered intramuscularly into the buttock slowly (1 - 2 minutes) as one 5 mL injection on days 1, 15, 29 and once monthly thereafter.
 
 FASLODEX has not been evaluated in patients with severe hepatic impairment (Child-Pugh class C) [see Warnings and Precautions (5.2) and Use in Specific Populations (8.6)].
+
+Combination Therapy with Palbociclib
+
+When FASLODEX is used in combination with palbociclib, refer to monotherapy dose modification instructions for FASLODEX.
+Refer to the full prescribing information of palbociclib for its dose modification, management of toxicities, and for use with concomitant medication.
 
 ## 2.3 Administration Technique
 
@@ -40,20 +58,12 @@ SafetyGlide™ is a trademark of Becton Dickinson and Company.
 
 Important Administration Information
 
-To help avoid HIV (AIDS), HBV (Hepatitis), and other infectious diseases due to accidental needlesticks,
-
-contaminated needles should not be recapped or removed, unless there is no alternative or that such action
-
-is required by a specific medical procedure.
-Hands must remain behind the needle at all times during use
-
-and disposal.
+To help avoid HIV (AIDS), HBV (Hepatitis), and other infectious diseases due to accidental needlesticks, contaminated needles should not be recapped or removed, unless there is no alternative or that such action is required by a specific medical procedure.
+Hands must remain behind the needle at all times during use and disposal.
 
 Do not autoclave SafetyGlide™ Needle before use.
 
-Parenteral drug products should be visually inspected for any particulate matter and discoloration prior to
-
-administration, whenever solution and container permit.
+Parenteral drug products should be visually inspected for any particulate matter and discoloration prior to administration, whenever solution and container permit.
 
 DIRECTIONS FOR USE OF SAFETYGLIDE™
 

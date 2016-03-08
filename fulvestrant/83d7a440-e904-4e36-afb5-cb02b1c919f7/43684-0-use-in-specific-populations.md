@@ -10,7 +10,7 @@ In animal reproduction studies, administration of fulvestrant to pregnant rats a
 Advise pregnant women of the potential risk to a fetus.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage is 2-4% and 15-20% respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
 Data
 
@@ -37,7 +37,7 @@ Data
 
 Levels of fulvestrant were approximately 12-fold higher in milk than in plasma after exposure of lactating rats to a dose of 2 mg/kg.
 Drug exposure in rodent pups from fulvestrant-treated lactating dams was estimated as 10% of the administered dose.
-In a study in rats of fulvestrant at 10 mg/kg given twice or 15 mg/kg given once during lactation, offspring survival was slightly reduced (less than the recommended human dose based on mg/m2).
+In a study in rats of fulvestrant at 10 mg/kg given twice or 15 mg/kg given once (less than the recommended human dose based on mg/m2) during lactation, offspring survival was slightly reduced.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -97,7 +97,7 @@ For FASLODEX 250 mg, when tumor response was considered by age, objective respon
 FASLODEX is metabolized primarily in the liver.
 
 The pharmacokinetics of fulvestrant were evaluated after a single dose of 100 mg in subjects with mild and moderate hepatic impairment and normal hepatic function (n = 7 subjects/group), using a shorter-acting intramuscular injection formulation.
-Subjects with mild hepatic impairment (Child- Pugh class A) had comparable mean AUC and clearance values to those with normal hepatic function.
+Subjects with mild hepatic impairment (Child-Pugh class A) had comparable mean AUC and clearance values to those with normal hepatic function.
 In subjects with moderate hepatic impairment (Child-Pugh class B), the average AUC of fulvestrant increased by 70% compared to patients with normal hepatic function.
 AUC was positively correlated with total bilirubin concentration (p = 0.012).
 FASLODEX has not been studied in patients with severe hepatic impairment (Child-Pugh class C).
