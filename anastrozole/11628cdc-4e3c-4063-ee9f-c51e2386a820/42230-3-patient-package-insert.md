@@ -108,9 +108,9 @@ ARIMIDEX may cause serious side effects including:
   ARIMIDEX can cause inflammation of your liver and changes in liver function blood tests.
   Your doctor may check you for this.
 - Stop taking ARIMIDEX and call your doctor right away if you have any of these signs or symptoms of a liver problem:
-  - ∘a general feeling of not being well
-  - ∘yellowing of your skin or whites of your eyes
-  - ∘pain on the right side of your stomach-area (abdomen)
+  1. ∘a general feeling of not being well
+  2. ∘yellowing of your skin or whites of your eyes
+  3. ∘pain on the right side of your stomach-area (abdomen)
 
 Common side effects in women taking ARIMIDEX include:
 

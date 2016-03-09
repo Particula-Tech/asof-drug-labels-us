@@ -20,7 +20,7 @@ Adverse reactions occurring with an incidence of at least 5% in either treatment
 
 Table 1 — Adverse reactions occurring with an incidence of at least 5% in either treatment group during treatment, or within 14 days of the end of treatment in the ATAC trial The combination arm was discontinued due to lack of efficacy benefit at 33 months of follow-up.
 
-| Body system and adverse reactions by COSTARTCOSTART Coding Symbols for Thesaurus of Adverse Reaction Terms.preferred termA patient may have had more than 1 adverse reaction, including more than 1 adverse reaction in the same body system. | ARIMIDEX 1 mg (NN=Number of patients receiving the treatment. = 3092) | Tamoxifen 20 mg (N = 3094) |
+| Body system and adverse reactions by COSTARTCOSTART Coding Symbols for Thesaurus of Adverse Reaction Terms.A patient may have had more than 1 adverse reaction, including more than 1 adverse reaction in the same body system. | ARIMIDEX 1 mg (NN=Number of patients receiving the treatment. = 3092) | Tamoxifen 20 mg (N = 3094) |
 | --- | --- | --- |
 | Body as a whole |  |  |
 | Asthenia | 575 (19) | 544 (18) |
@@ -335,4 +335,4 @@ The following have been reported in post-approval use of Arimidex:
 - •Hepatobiliary events including increases in alkaline phosphatase, alanine aminotransferase, aspartate aminotransferase, gamma-GT, and bilirubin; hepatitis
 - •Rash including cases of mucocutaneous disorders such as erythema multiforme and Stevens-Johnson syndrome
 - •Cases of allergic reactions including angioedema, urticaria and anaphylaxis [see Contraindications (4.2)]
-  - •Myalgia, trigger finger and hypercalcemia (with or without an increase in parathyroid hormone)
+- •Myalgia, trigger finger and hypercalcemia (with or without an increase in parathyroid hormone)
