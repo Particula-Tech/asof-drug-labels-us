@@ -43,6 +43,8 @@ Eye Disorders: Diplopia, Mydriasis, Visual impairment
 
 General Disorders: Chest pain, Chest discomfort, Hyperpyrexia
 
+Hepatobiliary Disorders: Hepatic failure
+
 Immune System Disorders: Hypersensitivity reactions such as Angioedema, Anaphylactic reactions, Auricular swelling, Bullous conditions, Exfoliative conditions, Urticarias, Pruritus NEC, Rashes, Eruptions, and Exanthemas NEC
 
 Investigations: Alkaline phosphatase increased, Bilirubin increased, Hepatic enzyme increased, Platelet count decreased, White blood cell count abnormal
