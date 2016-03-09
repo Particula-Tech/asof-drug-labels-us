@@ -106,7 +106,7 @@ Renal impairment is not expected to influence drug exposure and no dosage adjust
 The safety, tolerability and pharmacokinetics of AFINITOR were evaluated in a 34 subject single oral dose study of everolimus in subjects with impaired hepatic function relative to subjects with normal hepatic function.
 Exposure was increased in patients with mild (Child-Pugh class A), moderate (Child-Pugh class B), and severe (Child-Pugh class C) hepatic impairment [see Clinical Pharmacology (12.3)].
 
-For advanced HR+ BC, advanced PNET, advanced RCC, and renal angiomyolipoma with TSC patients with severe hepatic impairment, AFINITOR may be used at a reduced dose if the desired benefit outweighs the risk.
+For advanced HR+ BC, advanced NET, advanced RCC, and renal angiomyolipoma with TSC patients with severe hepatic impairment, AFINITOR may be used at a reduced dose if the desired benefit outweighs the risk.
 For patients with mild (Child-Pugh class A) or moderate (Child-Pugh class B) hepatic impairment, a dose reduction is recommended [see Dosage and Administration (2.2)].
 
 For patients with SEGA who have severe hepatic impairment (Child-Pugh class C), reduce the starting dose of AFINITOR Tablets or AFINITOR DISPERZ by approximately 50%.

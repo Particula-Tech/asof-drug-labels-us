@@ -4,9 +4,11 @@
 
 AFINITOR® is indicated for the treatment of postmenopausal women with advanced hormone receptor-positive, HER2-negative breast cancer (advanced HR+ BC) in combination with exemestane, after failure of treatment with letrozole or anastrozole.
 
-## 1.2 Advanced Neuroendocrine Tumors of Pancreatic Origin (PNET)
+## 1.2 Advanced Neuroendocrine Tumors (NET)
 
 AFINITOR® is indicated for the treatment of adult patients with progressive neuroendocrine tumors of pancreatic origin (PNET) with unresectable, locally advanced or metastatic disease.
+
+AFINITOR® is indicated for the treatment of adult patients with progressive, well-differentiated, non-functional neuroendocrine tumors (NET) of gastrointestinal (GI) or lung origin with unresectable, locally advanced or metastatic disease.
 
 AFINITOR® is not indicated for the treatment of patients with functional carcinoid tumors [see Clinical Studies (14.2)].
 

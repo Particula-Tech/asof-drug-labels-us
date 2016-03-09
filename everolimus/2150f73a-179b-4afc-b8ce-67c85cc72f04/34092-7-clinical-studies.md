@@ -13,7 +13,7 @@ Patients were randomly allocated in a 2:1 ratio to AFINITOR 10 mg/day plus exeme
 The two treatment groups were generally balanced with respect to baseline demographics and disease characteristics.
 Patients were not permitted to cross over to AFINITOR at the time of disease progression.
 
-The median progression-free survival by investigator assessment at the time of the final PFS analysis was 7.8 and 3.2 months in the AFINITOR and placebo arms, respectively [HR = 0.45 (95% CI: 0.38, 0.54), one-sided log-rank p < 0.0001] (see Table 12 and Figure 1).
+The median progression-free survival by investigator assessment at the time of the final PFS analysis was 7.8 and 3.2 months in the AFINITOR and placebo arms, respectively [HR = 0.45 (95% CI: 0.38, 0.54), one-sided log-rank p < 0.0001] (see Table 14 and Figure 1).
 The results of the PFS analysis based on independent central radiological assessment were consistent with the investigator assessment.
 PFS results were also consistent across the subgroups of age, race, presence and extent of visceral metastases, and sensitivity to prior hormonal therapy.
 
@@ -23,7 +23,7 @@ There were no complete responses and 4 partial responses (1.7%) in the placebo p
 
 After a median follow-up of 39.3 months, there was no statistically significant difference in OS between the AFINITOR plus exemestane arm and the placebo plus exemestane arm [HR 0.89 (95% CI 0.73, 1.10)].
 
-Table 12: Progression-free Survival Results
+Table 14: Progression-free Survival Results
 
 | Analysis | AFINITOR + exemestanea N = 485 | Placebo + exemestanea N = 239 | Hazard ratio | P-value |  |
 | --- | --- | --- | --- | --- | --- |
@@ -33,6 +33,8 @@ Table 12: Progression-free Survival Results
 | Best overall response (%, 95% CI) |  |  |  |  |  |
 | Objective response rate (ORR)d | 12.6% (9.8 to 15.9) | 1.7% (0.5 to 4.2) | n/ae |  |  |
 | a Exemestane (25 mg/day) b Hazard ratio is obtained from the stratified Cox proportional-hazards model by sensitivity to prior hormonal therapy and presence of visceral metastasis c p-value is obtained from the one-sided log-rank test stratified by sensitivity to prior hormonal therapy and presence of visceral metastasis d Objective response rate = proportion of patients with CR or PR e not applicable |  |  |  |  |  |
+
+Figure 1: Kaplan-Meier Progression-free Survival Curves (Investigator Radiological Review)
 
 ## 14.2 Advanced Neuroendocrine Tumors
 
@@ -49,11 +51,11 @@ Patients were randomized 1:1 to receive either AFINITOR 10 mg/day (n=207) or pla
 Demographics were well balanced (median age 58 years, 55% male, 79% Caucasian).
 Of the 203 patients randomized to best supportive care, 172 patients (85%) received AFINITOR following documented radiologic progression.
 
-The trial demonstrated a statistically significant improvement in PFS (median 11.0 months versus 4.6 months), resulting in a 65% risk reduction in investigator-determined PFS (HR 0.35; 95%CI: 0.27 to 0.45; p<0.001) (see Table 13 and Figure 2).
+The trial demonstrated a statistically significant improvement in PFS (median 11.0 months versus 4.6 months), resulting in a 65% risk reduction in investigator-determined PFS (HR 0.35; 95%CI: 0.27 to 0.45; p<0.001) (see Table 15 and Figure 2).
 PFS improvement was observed across all patient subgroups, irrespective of prior somatostatin analog use.
-The PFS results by investigator radiological review, central radiological review and adjudicated radiological review are shown below in Table 13.
+The PFS results by investigator radiological review, central radiological review and adjudicated radiological review are shown below in Table 15.
 
-Table 13: Progression-free Survival Results
+Table 15: Progression-free Survival Results
 
 | Analysis | N | AFINITOR N=207 | Placebo N=203 | Hazard Ratio (95%CI) | p-value |
 | --- | --- | --- | --- | --- | --- |
@@ -63,8 +65,41 @@ Table 13: Progression-free Survival Results
 | Adjudicated radiological reviewa |  | 11.4 (10.8 to 14.8) | 5.4 (4.3 to 5.6) | 0.34 (0.26 to 0.44) | <0.001 |
 | a includes adjudication for discrepant assessments between investigator radiological review and central radiological review |  |  |  |  |  |
 
+Figure 2: Kaplan-Meier Investigator-Determined Progression-free Survival Curves
+
 Investigator-determined response rate was 4.8% in the AFINITOR arm and there were no complete responses.
 Overall survival was not statistically significantly different between study arms [HR=0.94 (95% CI 0.73 to 1.20); p=0.30].
+
+Unresectable, Locally Advanced or Metastatic, Well-Differentiated, Non-Functional Neuroendocrine Tumors of Gastrointestinal or Lung Origin
+
+A randomized, double-blind, multicenter study of AFINITOR plus best supportive care (BSC) versus placebo plus best supportive care was conducted in patients with unresectable, locally advanced or metastatic, well differentiated, non-functional neuroendocrine tumors (NET) of gastrointestinal (excluding pancreatic) or lung origin.
+The study required that patients had well-differentiated (low or intermediate grade) histology, no prior or current history of carcinoid symptoms, and evidence of disease progression within 6 months prior to randomization.
+Patients were randomized 2:1 to receive either AFINITOR 10 mg/day or placebo, and stratified by prior somatostatin analog (SSA) use (yes versus no), tumor origin and WHO performance status (0 versus 1).
+
+The major efficacy outcome measure was progression-free survival (PFS) based on independent radiological assessment evaluated by RECIST.
+Additional efficacy outcome measures were overall survival and overall response rate.
+A total of 302 patients were randomized, 205 to the AFINITOR arm and 97 to the placebo arm.
+The median age was 63 years (range 22 to 86); 47% were male; 76% were White; 74% had WHO performance status (PS) 0 and 26% had WHO PS 1.
+The most common primary sites of tumor were lung (30%), ileum (24%), and rectum (13%).
+
+The study demonstrated a statistically significant improvement in PFS per independent radiological review (see Table 16 and Figure 3).
+There was no statistically significant difference in OS at the planned interim analysis.
+
+Table 16: Efficacy Results
+
+|  | AFINITOR N=205 | Placebo N=97 |
+| --- | --- | --- |
+| Progression-Free Survival |  |  |
+| Number of Events | 113 (55%) | 65 (67%) |
+| Progressive Disease | 104 (51%) | 60 (62%) |
+| Death | 9 (4%) | 5 (5%) |
+| Median PFS in months (95% CI) | 11.0 (9.2, 13.3) | 3.9 (3.6, 7.4) |
+| Hazard Ratio (95%CI)1 | 0.48 (0.35, 0.67) |  |
+| p-value2 | <0.001 |  |
+| Overall Response Rate | 2% | 1% |
+| 1. Hazard ratio is obtained from the stratified Cox model. 2. p-value is obtained from the stratified log-rank test. |  |  |
+
+Figure 3: Kaplan-Meier Progression-free Survival Curves
 
 Lack of Efficacy in Locally Advanced or Metastatic Functional Carcinoid Tumors
 
@@ -85,18 +120,20 @@ After documented radiological progression, patients could be unblinded by the in
 In total, 416 patients were randomized 2:1 to receive AFINITOR (n=277) or placebo (n=139).
 Demographics were well balanced between the 2 arms (median age 61 years; 77% male, 88% Caucasian, 74% received prior sunitinib or sorafenib, and 26% received both sequentially).
 
-AFINITOR was superior to placebo for PFS (see Table 14 and Figure 3).
+AFINITOR was superior to placebo for PFS (see Table 17 and Figure 4).
 The treatment effect was similar across prognostic scores and prior sorafenib and/or sunitinib.
 Final overall survival (OS) results yield a hazard ratio of 0.90 (95% CI: 0.71 to 1.14), with no statistically significant difference between the 2 treatment groups.
 Planned cross-over from placebo due to disease progression to open label AFINITOR occurred in 111 of the 139 patients (79.9%) and may have confounded the OS benefit.
 
-Table 14: Efficacy Results by Central Radiologic Review
+Table 17: Efficacy Results by Central Radiologic Review
 
 |  | AFINITOR N=277 | Placebo N=139 | Hazard Ratio (95% CI) | p-value a |
 | --- | --- | --- | --- | --- |
 | Median Progression-free Survival (95% CI) | 4.9 months (4.0 to 5.5) | 1.9 months (1.8 to 1.9) | 0.33 (0.25 to 0.43) | <0.0001 |
 | Objective Response Rate | 2% | 0% | n/a b | n/a b |
 | a Log-rank test stratified by prognostic score. b Not applicable. |  |  |  |  |
+
+Figure 4: Kaplan-Meier Progression-free Survival Curves
 
 ## 14.4 Renal Angiomyolipoma with Tuberous Sclerosis Complex
 
@@ -120,13 +157,13 @@ Forty-six (39%) patients had prior renal embolization or nephrectomy.
 The median duration of follow-up was 8.3 months (range 0.7 to 24.8 months) at the time of the primary analysis.
 
 The renal angiomyolipoma response rate was statistically significantly higher in AFINITOR-treated patients; there were 33 (41.8%) patients with angiomyolipoma responses in the AFINITOR arm as compared to none in the placebo arm.
-Results are displayed in Table 15.
+Results are displayed in Table 18.
 The median response duration was 5.3+ months (range 2.3+ to 19.6+ months).
 
 There were 3 patients in the AFINITOR arm and 8 patients in the placebo arm with documented angiomyolipoma progression by central radiologic review (defined as a ≥ 25% increase from nadir in the sum of angiomyolipoma target lesion volumes to a value greater than baseline, appearance of a new angiomyolipoma ≥ 1.0 cm in longest diameter, an increase in renal volume ≥ 20% from nadir for either kidney and to a value greater than baseline, or Grade ≥ 2 angiomyolipoma-related bleeding).
 The time to angiomyolipoma progression was statistically significantly longer in the AFINITOR arm (HR 0.08 [95% CI: 0.02, 0.37]; p <0.0001).
 
-Table 15: Angiomyolipoma Response
+Table 18: Angiomyolipoma Response
 
 |  | AFINITOR | Placebo | p-value |
 | --- | --- | --- | --- |
@@ -171,13 +208,13 @@ The median duration of follow-up was 8.4 months (range 4.6 to 17.2 months) at th
 
 The SEGA response rate was statistically significantly higher in AFINITOR-treated patients.
 There were 27 (35%) patients with SEGA responses in the AFINITOR arm and no SEGA responses in the placebo arm.
-Results are displayed in Table 16.
+Results are displayed in Table 19.
 At the time of the primary analysis, all SEGA responses were ongoing and the median duration of response was 5.3 months (range 2.1 to 8.4 months).
 
 With a median follow-up of 8.4 months, SEGA progression was detected in 6 of 39 (15.4%) patients randomized to receive placebo and none of the 78 patients randomized to receive AFINITOR.
 No patient in either treatment arm required surgical intervention.
 
-Table 16: SEGA Response
+Table 19: SEGA Response
 
 |  | AFINITOR | Placebo | p-value |
 | --- | --- | --- | --- |

@@ -100,7 +100,7 @@ An increase in the AFINITOR dose is recommended when co-administered with a stro
 
 Exposure to everolimus was increased in patients with hepatic impairment [see Clinical Pharmacology (12.3)].
 
-For advanced HR+ BC, advanced PNET, advanced RCC, and renal angiomyolipoma with TSC patients with severe hepatic impairment (Child-Pugh class C), AFINITOR may be used at a reduced dose if the desired benefit outweighs the risk.
+For advanced HR+ BC, advanced NET, advanced RCC, and renal angiomyolipoma with TSC patients with severe hepatic impairment (Child-Pugh class C), AFINITOR may be used at a reduced dose if the desired benefit outweighs the risk.
 For patients with mild (Child-Pugh class A) or moderate (Child-Pugh class B) hepatic impairment, a dose reduction is recommended [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
 
 For patients with SEGA and mild or moderate hepatic impairment, adjust the dose of AFINITOR Tablets or AFINITOR DISPERZ based on therapeutic drug monitoring.

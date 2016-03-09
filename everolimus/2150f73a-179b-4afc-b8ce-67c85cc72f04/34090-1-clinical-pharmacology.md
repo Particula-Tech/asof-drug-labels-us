@@ -79,7 +79,7 @@ Compared to normal subjects (N=13), there was a 1.8-fold, 3.2-fold, and 3.6-fold
 AUC) for subjects with mild (Child-Pugh class A, n=6), moderate (Child-Pugh class B, n=9), and severe (Child-Pugh class C, n=6) hepatic impairment, respectively.
 In another study, the average AUC of everolimus in eight subjects with moderate hepatic impairment (Child-Pugh class B) was twice that found in eight subjects with normal hepatic function.
 
-For advanced HR+ BC, advanced PNET, advanced RCC, and renal angiomyolipoma with TSC patients with severe hepatic impairment, AFINITOR may be used at a reduced dose if the desired benefit outweighs the risk.
+For advanced HR+ BC, advanced NET, advanced RCC, and renal angiomyolipoma with TSC patients with severe hepatic impairment, AFINITOR may be used at a reduced dose if the desired benefit outweighs the risk.
 For patients with moderate or mild hepatic impairment, a dose reduction is recommended [see Dosage and Administration (2.2)].
 
 For patients with SEGA and mild or moderate hepatic impairment, adjust the dose of AFINITOR Tablets or AFINITOR DISPERZ based on therapeutic drug monitoring.

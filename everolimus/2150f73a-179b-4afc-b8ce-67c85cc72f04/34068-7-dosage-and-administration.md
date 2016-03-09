@@ -5,7 +5,7 @@ AFINITOR is available in two dosage forms: tablets (AFINITOR Tablets) and tablet
 - AFINITOR Tablets may be used for all approved indications.
 - AFINITOR DISPERZ is approved for the treatment of patients with subependymal giant cell astrocytoma (SEGA) and tuberous sclerosis complex (TSC).
 
-## 2.1 Recommended Dose in Advanced Hormone Receptor-Positive, HER2-Negative Breast Cancer, Advanced PNET, Advanced RCC, and Renal Angiomyolipoma with TSC
+## 2.1 Recommended Dose in Advanced Hormone Receptor-Positive, HER2-Negative Breast Cancer, Advanced NET, Advanced RCC, and Renal Angiomyolipoma with TSC
 
 The recommended dose of AFINITOR Tablets is 10 mg, to be taken once daily at the same time every day.
 Administer either consistently with food or consistently without food [see Clinical Pharmacology (12.3)].
@@ -14,7 +14,7 @@ Do not break or crush tablets.
 
 Continue treatment until disease progression or unacceptable toxicity occurs.
 
-## 2.2 Dose Modifications in Advanced Hormone Receptor-Positive, HER2-Negative Breast Cancer, Advanced PNET, Advanced RCC, and Renal Angiomyolipoma with TSC
+## 2.2 Dose Modifications in Advanced Hormone Receptor-Positive, HER2-Negative Breast Cancer, Advanced NET, Advanced RCC, and Renal Angiomyolipoma with TSC
 
 Adverse Reactions
 
