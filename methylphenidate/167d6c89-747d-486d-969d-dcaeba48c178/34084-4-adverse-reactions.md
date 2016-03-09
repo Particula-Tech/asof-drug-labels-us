@@ -30,7 +30,7 @@ The study consisted of a 6-week dose optimization period, followed by a randomiz
 The most common (≥2% in the QuilliChew ER group and greater than placebo) adverse reactions reported in the double-blind, randomized, placebo-controlled phase in patient optimized to doses of QuilliChew ER 20 to 60 mg/day are described in Table 1.
 
 Table 1.
-Common Adverse Reactions Occurring in ≥2% of Subjects on QuilliChew ER and Greater than Placebo during the Double-Blind Period of the ADHD Laboratory Classroom Study
+Common Adverse Reactions Occurring in ≥2% of Subjects on QuilliChew ER and Greater than Placebo During the Double-Blind Period of the ADHD Laboratory Classroom Study
 
 | Adverse reaction | QuilliChew ER N= 42 n (%) | Placebo N= 44 n (%) |
 | --- | --- | --- |
@@ -54,6 +54,8 @@ Cardiac Disorders: Angina pectoris, Bradycardia, Extrasystole, Supraventricular 
 Eye Disorders: Diplopia, Mydriasis, Visual impairment
 
 General Disorders: Chest pain, Chest discomfort, Hyperpyrexia
+
+Hepatobiliary Disorders: Hepatic failure
 
 Immune System Disorders: Hypersensitivity reactions such as Angioedema, Anaphylactic reactions, Auricular swelling, Bullous conditions, Exfoliative conditions, Urticarias, Pruritus NEC, Rashes, Eruptions, and Exanthemas NEC
 
