@@ -2,13 +2,15 @@
 
 ## 5.1 Asthma-Related Death
 
-- •Data from a large placebo-controlled trial in subjects with asthma showed that LABA may increase the risk of asthma-related death.
-  Data are not available to determine whether the rate of death in patients with COPD is increased by LABA.
-- •A 28-week, placebo-controlled, US trial comparing the safety of another LABA (salmeterol) with placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in subjects receiving salmeterol (13/13,176 in subjects treated with salmeterol vs. 3/13,179 in subjects treated with placebo; relative risk: 4.37 [95% CI: 1.25, 15.34]).
-  The increased risk of asthma-related death is considered a class effect of LABA, including vilanterol, one of the active ingredients in ANORO ELLIPTA.
-- •No trial adequate to determine whether the rate of asthma-related death is increased in subjects treated with ANORO ELLIPTA has been conducted.
-  The safety and efficacy of ANORO ELLIPTA in patients with asthma have not been established.
-  ANORO ELLIPTA is not indicated for the treatment of asthma.
+Data from a large placebo-controlled trial in subjects with asthma showed that LABA may increase the risk of asthma-related death.
+Data are not available to determine whether the rate of death in patients with COPD is increased by LABA.
+
+A 28-week, placebo-controlled, US trial comparing the safety of another LABA (salmeterol) with placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in subjects receiving salmeterol (13/13,176 in subjects treated with salmeterol vs. 3/13,179 in subjects treated with placebo; relative risk: 4.37 [95% CI: 1.25, 15.34]).
+The increased risk of asthma-related death is considered a class effect of LABA, including vilanterol, one of the active ingredients in ANORO ELLIPTA.
+
+No trial adequate to determine whether the rate of asthma-related death is increased in subjects treated with ANORO ELLIPTA has been conducted.
+The safety and efficacy of ANORO ELLIPTA in patients with asthma have not been established.
+ANORO ELLIPTA is not indicated for the treatment of asthma.
 
 ## 5.2 Deterioration of Disease and Acute Episodes
 
@@ -29,13 +31,13 @@ If ANORO ELLIPTA no longer controls symptoms of bronchoconstriction; the patient
 In this setting a re-evaluation of the patient and the COPD treatment regimen should be undertaken at once.
 Increasing the daily dose of ANORO ELLIPTA beyond the recommended dose is not appropriate in this situation.
 
-## 5.3 Excessive Use of ANORO ELLIPTA and Use With Other Long-Acting Beta2-Agonists
+## 5.3 Excessive Use of ANORO ELLIPTA and Use with Other Long-Acting Beta2-Agonists
 
 ANORO ELLIPTA should not be used more often than recommended, at higher doses than recommended, or in conjunction with other medicines containing LABA, as an overdose may result.
 Clinically significant cardiovascular effects and fatalities have been reported in association with excessive use of inhaled sympathomimetic drugs.
 Patients using ANORO ELLIPTA should not use another medicine containing a LABA (e.g., salmeterol, formoterol fumarate, arformoterol tartrate, indacaterol) for any reason.
 
-## 5.4 Drug Interactions With Strong Cytochrome P450 3A4 Inhibitors
+## 5.4 Drug Interactions with Strong Cytochrome P450 3A4 Inhibitors
 
 Caution should be exercised when considering the coadministration of ANORO ELLIPTA with long-term ketoconazole and other known strong cytochrome P450 3A4 (CYP3A4) inhibitors (e.g., ritonavir, clarithromycin, conivaptan, indinavir, itraconazole, lopinavir, nefazodone, nelfinavir, saquinavir, telithromycin, troleandomycin, voriconazole) because increased cardiovascular adverse effects may occur [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
 
@@ -46,7 +48,8 @@ If paradoxical bronchospasm occurs following dosing with ANORO ELLIPTA, it shoul
 
 ## 5.6 Hypersensitivity Reactions
 
-Hypersensitivity reactions may occur after administration of ANORO ELLIPTA.
+Hypersensitivity reactions such as anaphylaxis, angioedema, rash, and urticaria may occur after administration of ANORO ELLIPTA.
+Discontinue ANORO ELLIPTA if such reactions occur.
 There have been reports of anaphylactic reactions in patients with severe milk protein allergy after inhalation of other powder products containing lactose; therefore, patients with severe milk protein allergy should not use ANORO ELLIPTA [see Contraindications (4)].
 
 ## 5.7 Cardiovascular Effects

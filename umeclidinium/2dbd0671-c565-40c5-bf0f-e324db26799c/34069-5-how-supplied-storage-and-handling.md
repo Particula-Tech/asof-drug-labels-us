@@ -1,10 +1,12 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-ANORO ELLIPTA is supplied as a disposable light grey and red plastic inhaler containing 2 double-foil blister strips with 30 blisters each.
-The inhaler is packaged in a moisture-protective foil tray with a desiccant and a peelable lid (NDC 0173-0869-10).
+ANORO ELLIPTA is supplied as a disposable light grey and red plastic inhaler containing 2 foil strips, each with 30 blisters (or 7 blisters for the institutional pack.
+One strip contains umeclidinium (62.5 mcg per blister), and the other strip contains vilanterol (25 mcg per blister).
+A blister from each strip is used to create 1 dose.
+The inhaler is packaged in a moisture-protective foil tray with a desiccant and a peelable lid in the following packs:
 
-ANORO ELLIPTA is also supplied in an institutional pack of a disposable light grey and red plastic inhaler containing 2 double-foil blister strips with 7 blisters each.
-The inhaler is packaged in a moisture protective foil tray with a desiccant and a peelable lid (NDC 0173-0869-06).
+- NDC 0173-0869-10 30 inhalations (60 blisters)
+- NDC 0173-0869-06 7 inhalations (14 blisters), institutional pack
 
 Store at room temperature between 68°F and 77°F (20°C and 25°C); excursions permitted from 59°F to 86°F (15°C to 30°C) [See USP Controlled Room Temperature].
 Store in a dry place away from direct heat or sunlight.

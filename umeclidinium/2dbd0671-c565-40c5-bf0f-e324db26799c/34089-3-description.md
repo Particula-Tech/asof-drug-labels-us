@@ -12,7 +12,7 @@ Vilanterol trifenatate has the chemical name triphenylacetic acid-4-{(1R)-2-[(6-
 Vilanterol trifenatate is a white powder with a molecular weight of 774.8, and the empirical formula is C24H33Cl2NO5•C20H16O2.
 It is practically insoluble in water.
 
-ANORO ELLIPTA is a light grey and red plastic inhaler containing 2 double-foil blister strips.
+ANORO ELLIPTA is a light grey and red plastic inhaler containing 2 foil blister strips.
 Each blister on one strip contains a white powder mix of micronized umeclidinium bromide (74.2 mcg equivalent to 62.5 mcg of umeclidinium), magnesium stearate (75 mcg), and lactose monohydrate (to 12.5 mg), and each blister on the other strip contains a white powder mix of micronized vilanterol trifenatate (40 mcg equivalent to 25 mcg of vilanterol), magnesium stearate (125 mcg), and lactose monohydrate (to 12.5 mg).
 The lactose monohydrate contains milk proteins.
 After the inhaler is activated, the powder within both blisters is exposed and ready for dispersion into the airstream created by the patient inhaling through the mouthpiece.

@@ -13,7 +13,7 @@ Drugs that are known to prolong the QTc interval have an increased risk of ventr
 
 ## 7.3 Beta-Adrenergic Receptor Blocking Agents
 
-Beta-blockers not only block the pulmonary effect of beta-agonists, such as vilanterol, a component of ANORO ELLIPTA, but may produce severe bronchospasm in patients with COPD.
+Beta-blockers not only block the pulmonary effect of beta-agonists, such as vilanterol, a component of ANORO ELLIPTA, but may also produce severe bronchospasm in patients with COPD.
 Therefore, patients with COPD should not normally be treated with beta-blockers.
 However, under certain circumstances, there may be no acceptable alternatives to the use of beta-adrenergic blocking agents for these patients; cardioselective beta-blockers could be considered, although they should be administered with caution.
 
