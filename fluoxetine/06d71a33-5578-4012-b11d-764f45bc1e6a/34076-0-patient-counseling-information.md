@@ -57,7 +57,7 @@ More severe and/or acute cases have been associated with hallucination, syncope,
 
 ## 17.8 QT Prolongation
 
-Patients should be advised that QT interval prolongation and ventricular arrhythmia including torsade de pointes have been reported in patients treated with fluoxetine.
+Patients should be advised that QT interval prolongation and ventricular arrhythmia including Torsade de Pointes have been reported in patients treated with fluoxetine.
 Signs and symptoms of ventricular arrhythmia include fast, slow, or irregular heart rate, dyspnea, syncope, or dizziness, which may indicate serious cardiac arrhythmia [see Warnings and Precautions (5.11)].
 
 ## 17.9 Potential for Cognitive and Motor Impairment
@@ -81,7 +81,7 @@ Patients should be advised to consult with their healthcare provider if their sy
 Pregnancy — Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy.
 Fluoxetine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus [see Use in Specific Populations (8.1)].
 
-Nursing Mothers — Patients should be advised to notify their physician if they intend to breastfeed an infant during therapy.
+Nursing Mothers — Patients should be advised to notify their physician if they intend to breast-feed an infant during therapy.
 Because fluoxetine is excreted in human milk, nursing while taking fluoxetine is not recommended [see Use in Specific Populations (8.3)].
 
 Pediatric Use of Fluoxetine — Fluoxetine is approved for use in pediatric patients with MDD and OCD [see Box Warning and Warnings and Precautions (5.1)].
@@ -93,10 +93,17 @@ However due to Eli Lilly and Company’s marketing exclusivity rights, this drug
 
 All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA.
 
-Manufactured In Poland By: PLIVA Krakow Pharmaceutical Company S.A.
-Krakow, Poland
+Manufactured In Czech Republic By:
 
-Manufactured For: TEVA PHARMACEUTICALS USA, INC. North Wales, PA 19454
+TEVA Czech Industries, s.r.o.
+
+Opava-Komarov, Czech Republic
+
+Manufactured For:
+
+TEVA PHARMACEUTICALS USA, INC.
+
+North Wales, PA 19454
 
 Rev.
-I 10/2014
+J 1/2016

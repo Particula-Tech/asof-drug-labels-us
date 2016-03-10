@@ -4,15 +4,13 @@ When using fluoxetine and olanzapine in combination, also refer to the Use in Sp
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects
-
 Pregnancy Category C — Fluoxetine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 All pregnancies have a background risk of birth defects, loss, or other adverse outcome regardless of drug exposure.
 
-Treatment of Pregnant Women During the First Trimester — There are no adequate and well-controlled clinical studies on the use of fluoxetine in pregnant women.
+Treatment of Pregnant Women during the First Trimester — There are no adequate and well-controlled clinical studies on the use of fluoxetine in pregnant women.
 Results of a number of published epidemiological studies assessing the risk of fluoxetine exposure during the first trimester of pregnancy have demonstrated inconsistent results.
 More than 10 cohort studies and case-control studies failed to demonstrate an increased risk for congenital malformations overall.
-However, one prospective cohort study conducted by the European Network of Teratology Information Services reported an increased risk of cardiovascular malformations in infants born to women (N = 253) exposed to fluoxetine during the first trimester of pregnancy compared to infants of women (N = 1359) who were not exposed to fluoxetine.
+However, one prospective cohort study conducted by the European Network of Teratology Information Services reported an increased risk of cardiovascular malformations in infants born to women (N=253) exposed to fluoxetine during the first trimester of pregnancy compared to infants of women (N=1359) who were not exposed to fluoxetine.
 There was no specific pattern of cardiovascular malformations.
 Overall, however, a causal relationship has not been established.
 
@@ -47,23 +45,23 @@ However, because fluoxetine crosses the placenta and because of the possibility 
 
 Because fluoxetine is excreted in human milk, nursing while on fluoxetine is not recommended.
 In one breast-milk sample, the concentration of fluoxetine plus norfluoxetine was 70.4 ng/mL.
-The concentration in the mother’s plasma was 295 ng/mL.
+The concentration in the mother’s plasma was 295.0 ng/mL.
 No adverse effects on the infant were reported.
 In another case, an infant nursed by a mother on fluoxetine developed crying, sleep disturbance, vomiting, and watery stools.
 The infant’s plasma drug levels were 340 ng/mL of fluoxetine and 208 ng/mL of norfluoxetine on the second day of feeding.
 
 ## 8.4 Pediatric Use
 
-Use of Fluoxetine in Children — The efficacy of fluoxetine for the treatment of Major Depressive Disorder was demonstrated in two 8 to 9 week placebo-controlled clinical trials with 315 pediatric outpatients ages 8 to ≤ 18 [see Clinical Studies (14.1)].
+Use of Fluoxetine in children — The efficacy of fluoxetine for the treatment of Major Depressive Disorder was demonstrated in two 8- to 9-week placebo-controlled clinical trials with 315 pediatric outpatients ages 8 to ≤18 [see Clinical Studies (14.1)].
 
-The efficacy of fluoxetine for the treatment of OCD was demonstrated in one 13 week placebo-controlled clinical trial with 103 pediatric outpatients ages 7 to < 18 [see Clinical Studies (14.2)].
+The efficacy of fluoxetine for the treatment of OCD was demonstrated in one 13-week placebo-controlled clinical trial with 103 pediatric outpatients ages 7 to <18 [see Clinical Studies (14.2)].
 
-The safety and effectiveness in pediatric patients < 8 years of age in Major Depressive Disorder and < 7 years of age in OCD have not been established.
+The safety and effectiveness in pediatric patients <8 years of age in Major Depressive Disorder and <7 years of age in OCD have not been established.
 
-Fluoxetine pharmacokinetics were evaluated in 21 pediatric patients (ages 6 to ≤ 18) with Major Depressive Disorder or OCD [see Clinical Pharmacology (12.3)].
+Fluoxetine pharmacokinetics were evaluated in 21 pediatric patients (ages 6 to ≤18) with Major Depressive Disorder or OCD [see Clinical Pharmacology (12.3)].
 
-The acute adverse reaction profiles observed in the 3 studies (N = 418 randomized; 228 fluoxetine-treated, 190 placebo-treated) were generally similar to that observed in adult studies with fluoxetine.
-The longer-term adverse reaction profile observed in the 19 week Major Depressive Disorder study (N = 219 randomized; 109 fluoxetine-treated, 110 placebo-treated) was also similar to that observed in adult trials with fluoxetine [see Adverse Reactions (6.1)].
+The acute adverse reaction profiles observed in the 3 studies (N=418 randomized; 228 fluoxetine-treated, 190 placebo-treated) were generally similar to that observed in adult studies with fluoxetine.
+The longer-term adverse reaction profile observed in the 19-week Major Depressive Disorder study (N=219 randomized; 109 fluoxetine-treated, 110 placebo-treated) was also similar to that observed in adult trials with fluoxetine [see Adverse Reactions (6.1)].
 
 Manic reaction, including mania and hypomania, was reported in 6 (1 mania, 5 hypomania) out of 228 (2.6%) fluoxetine-treated patients and in 0 out of 190 (0%) placebo-treated patients.
 Mania/hypomania led to the discontinuation of 4 (1.8%) fluoxetine-treated patients from the acute phases of the 3 studies combined.
@@ -100,13 +98,13 @@ However due to Eli Lilly and Company’s marketing exclusivity rights, this drug
 
 ## 8.5 Geriatric Use
 
-U.S. fluoxetine clinical trials included 687 patients ≥ 65 years of age and 93 patients ≥ 75 years of age.
+U.S. fluoxetine clinical trials included 687 patients ≥65 years of age and 93 patients ≥75 years of age.
 The efficacy in geriatric patients has been established [see Clinical Studies (14.1)].
 For pharmacokinetic information in geriatric patients, [see Clinical Pharmacology (12.4)].
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 SNRIs and SSRIs, including fluoxetine, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse reaction [see Warnings and Precautions (5.9)].
 
-Clinical studies of olanzapine and fluoxetine in combination did not include sufficient numbers of patients ≥ 65 years of age to determine whether they respond differently from younger patients.
+Clinical studies of olanzapine and fluoxetine in combination did not include sufficient numbers of patients ≥65 years of age to determine whether they respond differently from younger patients.
 
 ## 8.6 Hepatic Impairment
 

@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-FLUOXETINE (floo-OX-e-teen) CAPSULES USP
+Fluoxetine (floo-OX-e-teen) Capsules USP
 
 Read the Medication Guide that comes with fluoxetine capsules before you start taking them and each time you get a refill.
 There may be new information.
@@ -14,26 +14,26 @@ Fluoxetine capsules and other antidepressant medicines may cause serious side ef
 1.
 Suicidal thoughts or actions:
 
-- •Fluoxetine capsules and other antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment or when the dose is changed.
-- •Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
-- •Watch for these changes and call your healthcare provider right away if you notice:
-  1. •New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
-  2. •Pay particular attention to such changes when fluoxetine capsules are started or when the dose is changed.
+1. •Fluoxetine capsules and other antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment or when the dose is changed.
+2. •Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
+3. •Watch for these changes and call your healthcare provider right away if you notice:
+   1. •New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
+   2. •Pay particular attention to such changes when fluoxetine capsules are started or when the dose is changed.
 
 Keep all follow-up visits with your healthcare provider and call between visits if you are worried about symptoms.
 
 Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency, especially if they are new, worse, or worry you:
 
-- •attempts to commit suicide
-- •acting on dangerous impulses
-- •acting aggressive or violent
-- •thoughts about suicide or dying
-- •new or worse depression
-- •new or worse anxiety or panic attacks
-- •feeling agitated, restless, angry or irritable
-- •trouble sleeping
-- •an increase in activity or talking more than what is normal for you
-- •other unusual changes in behavior or mood
+1. •attempts to commit suicide
+2. •acting on dangerous impulses
+3. •acting aggressive or violent
+4. •thoughts about suicide or dying
+5. •new or worse depression
+6. •new or worse anxiety or panic attacks
+7. •feeling agitated, restless, angry or irritable
+8. •trouble sleeping
+9. •an increase in activity or talking more than what is normal for you
+10. •other unusual changes in behavior or mood
 
 Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency.
 Fluoxetine capsules may be associated with these serious side effects:
@@ -42,23 +42,23 @@ Fluoxetine capsules may be associated with these serious side effects:
 Serotonin Syndrome.
 This condition can be life-threatening and may include:
 
-- •agitation, hallucinations, coma or other changes in mental status
-- •coordination problems or muscle twitching (overactive reflexes)
-- •racing heartbeat, high or low blood pressure
-- •sweating or fever
-- •nausea, vomiting, or diarrhea
-- •muscle rigidity
-- •dizziness
-- •flushing
-- •tremor
-- •seizures
+1. •agitation, hallucinations, coma or other changes in mental status
+2. •coordination problems or muscle twitching (overactive reflexes)
+3. •racing heartbeat, high or low blood pressure
+4. •sweating or fever
+5. •nausea, vomiting, or diarrhea
+6. •muscle rigidity
+7. •dizziness
+8. •flushing
+9. •tremor
+10. •seizures
 
 3.
 Severe allergic reactions:
 
-- •trouble breathing
-- •swelling of the face, tongue, eyes or mouth
-- •rash, itchy welts (hives) or blisters, alone or with fever or joint pain
+1. •trouble breathing
+2. •swelling of the face, tongue, eyes or mouth
+3. •rash, itchy welts (hives) or blisters, alone or with fever or joint pain
 
 4.
 Abnormal bleeding: Fluoxetine capsules and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
@@ -78,13 +78,13 @@ Seizures or convulsions
 7.
 Manic episodes:
 
-- •greatly increased energy
-- •severe trouble sleeping
-- •racing thoughts
-- •reckless behavior
-- •unusually grand ideas
-- •excessive happiness or irritability
-- •talking more or faster than usual
+1. •greatly increased energy
+2. •severe trouble sleeping
+3. •racing thoughts
+4. •reckless behavior
+5. •unusually grand ideas
+6. •excessive happiness or irritability
+7. •talking more or faster than usual
 
 8.
 Changes in appetite or weight.
@@ -96,25 +96,25 @@ Elderly people may be at greater risk for this.
 
 Symptoms may include:
 
-- •headache
-- •weakness or feeling unsteady
-- •confusion, problems concentrating or thinking or memory problems
+1. •headache
+2. •weakness or feeling unsteady
+3. •confusion, problems concentrating or thinking or memory problems
 
 10.
-Changes in the electrical activity of your heart (QT prolongation and ventricular arrhythmia including torsade de pointes).
+Changes in the electrical activity of your heart (QT prolongation and ventricular arrhythmia including Torsade de Pointes).
 This condition can be life threatening.
 The symptoms may include:
 
-- •fast, slow, or irregular heartbeat
-- •shortness of breath
-- •dizziness or fainting
+1. •fast, slow, or irregular heartbeat
+2. •shortness of breath
+3. •dizziness or fainting
 
 Do not stop fluoxetine capsules without first talking to your healthcare provider.
 Stopping fluoxetine capsules too quickly may cause serious symptoms including:
 
-- •anxiety, irritability, high or low mood, feeling restless or changes in sleep habits
-- •headache, sweating, nausea, dizziness
-- •electric shock-like sensations, shaking, confusion
+1. •anxiety, irritability, high or low mood, feeling restless or changes in sleep habits
+2. •headache, sweating, nausea, dizziness
+3. •electric shock-like sensations, shaking, confusion
 
 What are fluoxetine capsules?
 
@@ -124,11 +124,11 @@ You should discuss all treatment choices with your healthcare provider.
 
 Fluoxetine capsules are used to treat:
 
-- •Major Depressive Disorder (MDD)
-- •Obsessive Compulsive Disorder (OCD)
-- •Bulimia Nervosa*
-- •Panic Disorder*
-- •Depressive episodes associated with Bipolar I Disorder, taken with olanzapine (Zyprexa®)*
+1. •Major Depressive Disorder (MDD)
+2. •Obsessive Compulsive Disorder (OCD)
+3. •Bulimia Nervosa*
+4. •Panic Disorder*
+5. •Depressive episodes associated with Bipolar I Disorder, taken with olanzapine (Zyprexa®)*
 
 * Not approved for use in children
 
@@ -141,12 +141,12 @@ Who should not take fluoxetine capsules?
 
 Do not take fluoxetine capsules if you:
 
-- •are allergic to fluoxetine hydrochloride or any of the ingredients in fluoxetine capsules.
-  See the end of this Medication Guide for a complete list of ingredients in fluoxetine capsules.
-- •take a Monoamine Oxidase Inhibitor (MAOI).
-  Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
-  1. •Do not take an MAOI within 5 weeks of stopping fluoxetine capsules unless directed to do so by your physician.
-  2. •Do not start fluoxetine capsules if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
+1. •are allergic to fluoxetine hydrochloride or any of the ingredients in fluoxetine capsules.
+   See the end of this Medication Guide for a complete list of ingredients in fluoxetine capsules.
+2. •take a Monoamine Oxidase Inhibitor (MAOI).
+   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
+   1. •Do not take an MAOI within 5 weeks of stopping fluoxetine capsules unless directed to do so by your physician.
+   2. •Do not start fluoxetine capsules if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
 
 People who take fluoxetine capsules close in time to an MAOI may have serious or even life-threatening side effects.
 Get medical help right away if you have any of these symptoms:
@@ -167,27 +167,27 @@ Ask if you are not sure.
 
 Before starting fluoxetine capsules, tell your healthcare provider if you:
 
-- •Are taking certain drugs or treatments such as:
-  1. •Triptans used to treat migraine headache
-  2. •Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, buspirone, SSRIs, SNRIs, MAOIs or antipsychotics
-  3. •Tramadol and fentanyl
-  4. •Over-the-counter supplements such as tryptophan or St. John's Wort
-  5. •Electroconvulsive therapy (ECT)
-- •have liver problems
-- •have kidney problems
-- •have heart problems
-- •have or had seizures or convulsions
-- •have bipolar disorder or mania
-- •have low sodium levels in your blood
-- •have a history of a stroke
-- •have high blood pressure
-- •have or had bleeding problems
-- •are pregnant or plan to become pregnant.
-  It is not known if fluoxetine capsules will harm your unborn baby.
-  Talk to your healthcare provider about the benefits and risks of treating depression during pregnancy.
-- •are breastfeeding or plan to breastfeed.
-  Some fluoxetine may pass into your breast milk.
-  Talk to your healthcare provider about the best way to feed your baby while taking fluoxetine capsules.
+1. •Are taking certain drugs or treatments such as:
+   1. •Triptans used to treat migraine headache
+   2. •Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, buspirone, SSRIs, SNRIs, MAOIs or antipsychotics
+   3. •Tramadol and fentanyl
+   4. •Over-the-counter supplements such as tryptophan or St. John's Wort
+   5. •Electroconvulsive therapy (ECT)
+2. •have liver problems
+3. •have kidney problems
+4. •have heart problems
+5. •have or had seizures or convulsions
+6. •have bipolar disorder or mania
+7. •have low sodium levels in your blood
+8. •have a history of a stroke
+9. •have high blood pressure
+10. •have or had bleeding problems
+11. •are pregnant or plan to become pregnant.
+    It is not known if fluoxetine capsules will harm your unborn baby.
+    Talk to your healthcare provider about the benefits and risks of treating depression during pregnancy.
+12. •are breast-feeding or plan to breast-feed.
+    Some fluoxetine may pass into your breast milk.
+    Talk to your healthcare provider about the best way to feed your baby while taking fluoxetine capsules.
 
 Tell your healthcare provider about all the medicines that you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 Fluoxetine capsules and some medicines may interact with each other, may not work as well, or may cause serious side effects.
@@ -197,6 +197,6 @@ Do not start or stop any medicine while taking fluoxetine capsules without talki
 
 If you take fluoxetine capsules, you should not take any other medicines that contain fluoxetine hydrochloride including:
 
-- •Symbyax®
-- •Sarafem®
-- •Prozac® Weekly™
+1. •Symbyax®
+2. •Sarafem®
+3. •Prozac® Weekly™

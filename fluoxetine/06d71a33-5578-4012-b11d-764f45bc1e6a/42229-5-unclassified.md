@@ -1,12 +1,12 @@
 How should I take fluoxetine capsules?
 
-- •Take fluoxetine capsules exactly as prescribed.
-  Your healthcare provider may need to change the dose of fluoxetine capsules until it is the right dose for you.
-- •Fluoxetine capsules may be taken with or without food.
-- •If you miss a dose of fluoxetine capsules, take the missed dose as soon as you remember.
-  If it is almost time for the next dose, skip the missed dose and take your next dose at the regular time.
-  Do not take two doses of fluoxetine capsules at the same time.
-- •If you take too many fluoxetine capsules, call your healthcare provider or poison control center right away, or get emergency treatment.
+1. •Take fluoxetine capsules exactly as prescribed.
+   Your healthcare provider may need to change the dose of fluoxetine capsules until it is the right dose for you.
+2. •Fluoxetine capsules may be taken with or without food.
+3. •If you miss a dose of fluoxetine capsules, take the missed dose as soon as you remember.
+   If it is almost time for the next dose, skip the missed dose and take your next dose at the regular time.
+   Do not take two doses of fluoxetine capsules at the same time.
+4. •If you take too many fluoxetine capsules, call your healthcare provider or poison control center right away, or get emergency treatment.
 
 What should I avoid while taking fluoxetine capsules?
 
@@ -83,16 +83,23 @@ What are the ingredients in fluoxetine capsules?
 
 Active ingredient: fluoxetine hydrochloride
 
-Inactive ingredients: ammonium hydroxide, D&C yellow #10 aluminum lake, FD&C blue #1 aluminum lake, gelatin, magnesium stearate, pregelatinized corn starch, propylene glycol, shellac, and titanium dioxide.
+Inactive ingredients: D&C yellow #10 aluminum lake, FD&C blue #1 aluminum lake, gelatin, magnesium stearate, pregelatinized corn starch, propylene glycol, shellac, and titanium dioxide.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA.
 
-Manufactured In Poland By: PLIVA Krakow Pharmaceutical Company S.A.
-Krakow, Poland
+Manufactured In Czech Republic By:
 
-Manufactured For: TEVA PHARMACEUTICALS USA, INC. North Wales, PA 19454
+TEVA Czech Industries, s.r.o.
+
+Opava-Komarov, Czech Republic
+
+Manufactured For:
+
+TEVA PHARMACEUTICALS USA, INC.
+
+North Wales, PA 19454
 
 Rev.
-G 10/2014
+H 1/2016

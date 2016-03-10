@@ -6,7 +6,8 @@ Initial Treatment
 
 Adult — Initiate fluoxetine 20 mg/day orally in the morning.
 Consider a dose increase after several weeks if insufficient clinical improvement is observed.
-Administer doses above 20 mg/day once daily in the morning or twice daily (i.e., morning and noon).The maximum fluoxetine dose should not exceed 80 mg/day.
+Administer doses above 20 mg/day once daily in the morning or twice daily (i.e., morning and noon).
+The maximum fluoxetine dose should not exceed 80 mg/day.
 
 In controlled trials used to support the efficacy of fluoxetine, patients were administered morning doses ranging from 20 to 80 mg/day.
 Studies comparing fluoxetine 20, 40, and 60 mg/day to placebo indicate that 20 mg/day is sufficient to obtain a satisfactory response in Major Depressive Disorder in most cases [see Clinical Studies (14.1)].
@@ -70,7 +71,9 @@ Fluoxetine doses above 60 mg/day have not been systematically evaluated in patie
 In the controlled clinical trials of fluoxetine supporting its effectiveness in the treatment of Panic Disorder, patients were administered fluoxetine doses in the range of 10 to 60 mg/day [see Clinical Studies (14.4)].
 The most frequently administered dose in the 2 flexible-dose clinical trials was 20 mg/day.
 
-## 2.5 Fluoxetine and Olanzapine in Combination: Depressive Episodes Associated With Bipolar I Disorder
+Periodically reassess to determine the need for continued treatment.
+
+## 2.5 Fluoxetine and Olanzapine in Combination: Depressive Episodes Associated with Bipolar I Disorder
 
 When using fluoxetine and olanzapine in combination, also refer to the Clinical Studies section of the package insert for Symbyax.
 
@@ -88,16 +91,15 @@ Symbyax is dosed between 3 mg/25 mg (olanzapine/fluoxetine) per day and 12 mg/50
 The following table demonstrates the appropriate individual component doses of fluoxetine and olanzapine versus Symbyax.
 Adjust dosage, if indicated, with the individual components according to efficacy and tolerability.
 
-Table 1: Approximate Dose Correspondence Between SymbyaxSymbyax (olanzapine/fluoxetine HCL) is a fixed-dose combination of fluoxetine and olanzapine. and the Combination of Fluoxetine and Olanzapine
-
-| For Symbyax (mg/day) | Use in Combination |  |
+| Table 1: Approximate Dose Correspondence Between SymbyaxSymbyax (olanzapine/fluoxetine HCL) is a fixed-dose combination of fluoxetine and olanzapine.and the Combination of Fluoxetine and Olanzapine |  |  |
 | --- | --- | --- |
+| For Symbyax (mg/day) | Use in Combination |  |
 | Olanzapine (mg/day) | Fluoxetine (mg/day) |  |
 | 3 mg olanzapine/25 mg fluoxetine | 2.5 | 20 |
 | 6 mg olanzapine/25 mg fluoxetine | 5 | 20 |
-| 12 mg olanzapine/25 mg fluoxetine | 10 + 2.5 | 20 |
-| 6 mg olanzapine/50 mg fluoxetine | 5 | 40 + 10 |
-| 12 mg olanzapine/50 mg fluoxetine | 10 + 2.5 | 40 + 10 |
+| 12 mg olanzapine/25 mg fluoxetine | 10+2.5 | 20 |
+| 6 mg olanzapine/50 mg fluoxetine | 5 | 40+10 |
+| 12 mg olanzapine/50 mg fluoxetine | 10+2.5 | 40+10 |
 
 Fluoxetine monotherapy is not indicated for the treatment of depressive episodes associated with Bipolar I Disorder.
 
@@ -125,7 +127,7 @@ Symptoms associated with discontinuation of fluoxetine, SNRIs, and SSRIs, have b
 At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with fluoxetine.
 Conversely, at least 5 weeks should be allowed after stopping fluoxetine before starting an MAOI intended to treat psychiatric disorders [see Contraindications (4.1)].
 
-## 2.10 Use of Fluoxetine With Other MAOIs Such as Linezolid or Methylene Blue
+## 2.10 Use of Fluoxetine with Other MAOIs such as Linezolid or Methylene Blue
 
 Do not start fluoxetine in a patient who is being treated with linezolid or intravenous methylene blue because there is an increased risk of serotonin syndrome.
 In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered [see Contraindications (4.1)].

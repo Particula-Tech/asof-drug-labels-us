@@ -15,7 +15,7 @@ In evaluating individual cases, consideration should be given to using lower ini
 
 [See Dosage and Administration (2.9, 2.10), Contraindications (4.1), and Warnings and Precautions (5.2)].
 
-## 7.4 Drugs That Interfere With Hemostasis (e.g., NSAIDS, Aspirin, Warfarin)
+## 7.4 Drugs that Interfere with Hemostasis (e.g., NSAIDS, Aspirin, Warfarin)
 
 Serotonin release by platelets plays an important role in hemostasis.
 Epidemiological studies of the case-control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding have also shown that concurrent use of an NSAID or aspirin may potentiate this risk of bleeding.
@@ -27,11 +27,11 @@ Patients receiving warfarin therapy should be carefully monitored when fluoxetin
 There are no clinical studies establishing the benefit of the combined use of ECT and fluoxetine.
 There have been rare reports of prolonged seizures in patients on fluoxetine receiving ECT treatment.
 
-## 7.6 Potential for Other Drugs to Affect Fluoxetine
+## 7.6 Potential for Other Drugs to affect Fluoxetine
 
 Drugs Tightly Bound to Plasma Proteins — Because fluoxetine is tightly bound to plasma proteins, adverse effects may result from displacement of protein-bound fluoxetine by other tightly-bound drugs [see Clinical Pharmacology (12.3)].
 
-## 7.7 Potential for Fluoxetine to Affect Other Drugs
+## 7.7 Potential for Fluoxetine to affect Other Drugs
 
 Pimozide — Concomitant use in patients taking pimozide is contraindicated.
 Pimozide can prolong the QT interval.
@@ -42,11 +42,11 @@ While a specific study with pimozide and fluoxetine has not been conducted, the 
 
 Thioridazine — Thioridazine should not be administered with fluoxetine or within a minimum of 5 weeks after fluoxetine has been discontinued, because of the risk of QT Prolongation [see Contraindications (4.2), Warnings and Precautions (5.11), and Drug Interactions (7.8)].
 
-In a study of 19 healthy male subjects, which included 6 slow and 13 rapid hydroxylators of debrisoquin, a single 25 mg oral dose of thioridazine produced a 2.4 fold higher Cmax and a 4.5 fold higher AUC for thioridazine in the slow hydroxylators compared with the rapid hydroxylators.
+In a study of 19 healthy male subjects, which included 6 slow and 13 rapid hydroxylators of debrisoquin, a single 25 mg oral dose of thioridazine produced a 2.4-fold higher Cmax and a 4.5-fold higher AUC for thioridazine in the slow hydroxylators compared with the rapid hydroxylators.
 The rate of debrisoquin hydroxylation is felt to depend on the level of CYP2D6 isozyme activity.
 Thus, this study suggests that drugs which inhibit CYP2D6, such as certain SSRIs, including fluoxetine, will produce elevated plasma levels of thioridazine.
 
-Thioridazine administration produces a dose-related prolongation of the QT interval, which is associated with serious ventricular arrhythmias, such as torsade de pointes-type arrhythmias, and sudden death.
+Thioridazine administration produces a dose-related prolongation of the QT interval, which is associated with serious ventricular arrhythmias, such as Torsade de Pointes-type arrhythmias, and sudden death.
 This risk is expected to increase with fluoxetine-induced inhibition of thioridazine metabolism.
 
 Drugs Metabolized by CYP2D6 — Fluoxetine inhibits the activity of CYP2D6, and may make individuals with normal CYP2D6 metabolic activity resemble a poor metabolizer.
@@ -57,7 +57,7 @@ If fluoxetine is added to the treatment regimen of a patient already receiving a
 Drugs with a narrow therapeutic index represent the greatest concern (e.g., flecainide, propafenone, vinblastine, and TCAs).
 Due to the risk of serious ventricular arrhythmias and sudden death potentially associated with elevated plasma levels of thioridazine, thioridazine should not be administered with fluoxetine or within a minimum of 5 weeks after fluoxetine has been discontinued [see Contraindications (4.2)].
 
-Tricyclic Antidepressants (TCAs) — In 2 studies, previously stable plasma levels of imipramine and desipramine have increased greater than 2 to 10 fold when fluoxetine has been administered in combination.
+Tricyclic Antidepressants (TCAs) — In 2 studies, previously stable plasma levels of imipramine and desipramine have increased greater than 2- to 10-fold when fluoxetine has been administered in combination.
 This influence may persist for 3 weeks or longer after fluoxetine is discontinued.
 Thus, the dose of TCAs may need to be reduced and plasma TCA concentrations may need to be monitored temporarily when fluoxetine is coadministered or has been recently discontinued [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
 

@@ -10,4 +10,4 @@ C17H18F3NO•HCl M.W.
 Fluoxetine hydrochloride, USP is a white to off-white crystalline solid with a solubility of 14 mg/mL in water.
 
 Each capsule contains fluoxetine hydrochloride, USP equivalent to 10 mg (32.3 µmol) or 20 mg (64.7 µmol) of fluoxetine.
-In addition, the capsules also contain the following inactive ingredients: ammonium hydroxide, D&C yellow #10 aluminum lake, FD&C blue #1 aluminum lake, gelatin, magnesium stearate, pregelatinized corn starch, propylene glycol, shellac, and titanium dioxide.
+In addition, the capsules also contain the following inactive ingredients: D&C yellow #10 aluminum lake, FD&C blue #1 aluminum lake, gelatin, magnesium stearate, pregelatinized corn starch, propylene glycol, shellac, and titanium dioxide.
