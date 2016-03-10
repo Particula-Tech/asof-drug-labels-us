@@ -12,13 +12,11 @@ For Intracavernosal Use Only
 
 Single Dose Vial Rx only
 
-# PRINCIPAL DISPLAY PANEL - 20 mcg Vial Carton
+# PRINCIPAL DISPLAY PANEL - 20 mcg Vial Package
 
 NDC 0009-3701-05 Contains 6 of NDC 0009-3701-08
 
-Pfizer
-
-Caverject®
+Pfizer Caverject®
 
 alprostadil for injection
 
@@ -30,35 +28,31 @@ For Intracavernosal Use Only
 
 Diluent to be Used With This Product Contains Benzyl Alcohol as a Preservative
 
-This Package Does NOT Contain Diluent
-
-Rx only
+This Package Does NOT Contain Diluent Rx only
 
 # PRINCIPAL DISPLAY PANEL - 40 mcg Vial Label
 
-Pfizer NDC 0009-7686-01
-
-Caverject®
-
-alprostadil for injection
-
-40 mcg
-
-for intracavernosal use only
-
-Single Dose Vial Rx only
-
-# PRINCIPAL DISPLAY PANEL - 40 mcg Vial Carton
-
-NDC 0009-7686-04 Contains 6 of NDC 0009-7686-01 Rx only
+NDC 0009-7686-01
 
 Pfizer
 
-Caverject®
+Caverject® alprostadil for injection
+
+40 mcg
+
+For Intracavernosal Use Only
+
+Single Dose Vial Rx only
+
+# PRINCIPAL DISPLAY PANEL - 40 mcg Vial Package
+
+NDC 0009-7686-04 Contains 6 of NDC 0009-7686-01
+
+Pfizer Caverject®
 
 alprostadil for injection
 
-for intracavernosal use only
+For Intracavernosal Use Only
 
 6 Single-Dose Vials
 
@@ -66,4 +60,4 @@ for intracavernosal use only
 
 Diluent to be Used With This Product Contains Benzyl Alcohol as a Preservative
 
-This Package Does NOT Contain Diluent
+This Package Does NOT Contain Diluent Rx only
