@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA208351"
+  ],
+  "inn": "emtricitabine",
+  "labeler": "Gilead Sciences, Inc.",
+  "package_ndcs": [
+    "61958-2101-1"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "emtricitabine, rilpivirine hydrochloride, and tenofovir alafenamide fumarate",
+      "name": "ODEFSEY"
+    }
+  ],
+  "setid": "ea3b9ec8-e04a-412c-8b3f-e5cbc7e641d5",
+  "source": "dailymed"
+}
