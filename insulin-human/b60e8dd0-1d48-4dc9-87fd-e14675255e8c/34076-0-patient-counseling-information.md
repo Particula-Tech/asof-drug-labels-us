@@ -24,9 +24,9 @@ HUMULIN R U-500 should not be used after the printed expiration date.
 
 Do not dilute or mix HUMULIN R U-500 with any other insulin products or solutions [see Dosage and Administration (2.1)].
 
-Literature Revised: December 2015
+Literature Revised: March 1, 2016
 
-Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA Copyright © 1997, 2015, Eli Lilly and Company.
+Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA Copyright © 1997, 2016, Eli Lilly and Company.
 All rights reserved.
 
-LINR500-0001-USPI-20151229
+LINR500-0003-USPI-20160301

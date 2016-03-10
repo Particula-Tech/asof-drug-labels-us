@@ -12,11 +12,9 @@ U-500
 
 (Concentrated)
 
-Humulin® R
+Humulin® R U-500
 
-REGULAR
-
-insulin human injection, USP (rDNA origin)
+insulin human injection, USP
 
 500 units per mL
 

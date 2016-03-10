@@ -65,7 +65,7 @@ To minimize the risk of hypoglycemia do not administer HUMULIN R U-500 intraveno
 
 ## 5.5 Hypersensitivity and Allergic Reactions
 
-Severe, life-threatening, generalized allergy, including anaphylaxis, can occur with insulin products, including HUMULIN R U-500 [See Adverse Reactions (6)].
+Severe, life-threatening, generalized allergy, including anaphylaxis, can occur with insulin products, including HUMULIN R U-500 [see Adverse Reactions (6)].
 If hypersensitivity reactions occur, discontinue HUMULIN R U-500; treat per standard of care and monitor until symptoms and signs resolve [see Adverse Reactions (6)].
 
 ## 5.6 Hypokalemia
