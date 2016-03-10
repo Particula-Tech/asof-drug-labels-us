@@ -1,23 +1,18 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
+
+## 2.1 General Considerations
 
 AVAPRO may be administered with other antihypertensive agents and with or without food.
 
-## Hypertension
+## 2.2 Hypertension
 
-The recommended initial dose of AVAPRO (irbesartan) is 150 mg once daily.
-Patients requiring further reduction in blood pressure should be titrated to 300 mg once daily.
+The recommended initial dose of AVAPRO is 150 mg once daily.
+The dosage can be increased to a maximum dose of 300 mg once daily as needed to control blood pressure [see Clinical Studies (14.1)].
 
-A low dose of a diuretic may be added, if blood pressure is not controlled by AVAPRO alone.
-Hydrochlorothiazide has been shown to have an additive effect (see CLINICAL PHARMACOLOGY: Clinical Studies).
-Patients not adequately treated by the maximum dose of 300 mg once daily are unlikely to derive additional benefit from a higher dose or twice-daily dosing.
+## 2.3 Nephropathy in Type 2 Diabetic Patients
 
-No dosage adjustment is necessary in elderly patients, or in patients with hepatic impairment or mild to severe renal impairment.
+The recommended dose is 300 mg once daily [see Clinical Studies (14.2)].
 
-## Nephropathy in Type 2 Diabetic Patients
+## 2.4 Dose Adjustment in Volume- and Salt-Depleted Patients
 
-The recommended target maintenance dose is 300 mg once daily.
-There are no data on the clinical effects of lower doses of AVAPRO on diabetic nephropathy (see CLINICAL PHARMACOLOGY: Clinical Studies).
-
-## Volume- and Salt-Depleted Patients
-
-A lower initial dose of AVAPRO (75 mg) is recommended in patients with depletion of intravascular volume or salt (eg, patients treated vigorously with diuretics or on hemodialysis) (see WARNINGS: Hypotension in Volume- or Salt-Depleted Patients).
+The recommended initial dose is 75 mg once daily in patients with depletion of intravascular volume or salt (e.g., patients treated vigorously with diuretics or on hemodialysis) [see Warnings and Precautions (5.2)].
