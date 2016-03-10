@@ -17,6 +17,11 @@
       "form": "TABLET, FILM COATED",
       "generic": "tofacitinib",
       "name": "XELJANZ"
+    },
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "tofacitinib",
+      "name": "XELJANZ"
     }
   ],
   "setid": "cf74ba2f-afc5-4baa-8594-979c889a5831",
