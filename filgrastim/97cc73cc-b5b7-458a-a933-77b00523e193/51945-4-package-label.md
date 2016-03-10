@@ -90,7 +90,7 @@ Avoid Shaking.
 
 Rx Only
 
-Manufactured by Amgen Manufacturing, Limited, a subsidiary of Amgen Inc.
+Manufactured by Amgen Inc.
 
 Thousand Oaks, CA 91320 U.S.A.
 
@@ -125,7 +125,7 @@ Avoid Shaking.
 
 Rx Only
 
-Manufactured by Amgen Manufacturing, Limited, a subsidiary of Amgen Inc.
+Manufactured by Amgen Inc.
 
 Thousand Oaks, CA 91320 U.S.A.
 
@@ -162,11 +162,9 @@ Avoid Shaking.
 
 Rx Only
 
-Manufactured by Amgen Manufacturing, Limited, a subsidiary of Amgen Inc.
+Manufactured by Amgen Inc.
 
 Thousand Oaks, CA 91320 U.S.A.
-
-U.S. License No. 1080
 
 # PRINCIPAL DISPLAY PANEL
 
@@ -199,7 +197,7 @@ Avoid Shaking.
 
 Rx Only
 
-Manufactured by Amgen Manufacturing, Limited, a subsidiary of Amgen Inc.
+Manufactured by Amgen Inc.
 
 Thousand Oaks, CA 91320 U.S.A.
 

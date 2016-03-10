@@ -8,7 +8,7 @@ Consider dose escalation in increments of 5 mcg/kg for each chemotherapy cycle�
 Recommend stopping NEUPOGEN if the ANC increases beyond 10‚000/mm3 [see Warnings and Precautions (5.10)].
 
 Administer NEUPOGEN at least 24 hours after cytotoxic chemotherapy.
-Do not administer NEUPOGEN within the 24-hour period prior to chemotherapy [see Warnings and Precautions (5.12)].
+Do not administer NEUPOGEN within the 24-hour period prior to chemotherapy [see Warnings and Precautions (5.13)].
 A transient increase in neutrophil count is typically seen 1 to 2 days after initiation of NEUPOGEN therapy.
 Therefore, to ensure a sustained therapeutic response‚ administer NEUPOGEN daily for up to 2 weeks or until the ANC has reached 10‚000/mm3 following the expected chemotherapy-induced neutrophil nadir.
 The duration of NEUPOGEN therapy needed to attenuate chemotherapy-induced neutropenia may be dependent on the myelosuppressive potential of the chemotherapy regimen employed.
