@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA207154"
+  ],
+  "inn": "dapsone",
+  "labeler": "Allergan, Inc.",
+  "package_ndcs": [
+    "0023-5206-30",
+    "0023-5206-60",
+    "0023-5206-90"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "dapsone",
+      "name": "ACZONE (dapsone) Gel, 7.5%"
+    }
+  ],
+  "setid": "e3426f2f-4d2b-40b4-ac26-e7d873c30f78",
+  "source": "dailymed"
+}
