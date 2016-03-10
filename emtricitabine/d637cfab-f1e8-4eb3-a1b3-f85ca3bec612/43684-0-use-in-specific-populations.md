@@ -22,30 +22,32 @@ Healthcare providers are encouraged to register patients by calling 1-800-258-42
 
 The Centers for Disease Control and Prevention recommend that HIV infected mothers not breastfeed their infants to avoid risking postnatal transmission of HIV.
 
-Emtricitabine: Samples of breast milk obtained from five HIV-1-infected mothers show that emtricitabine is secreted in human milk.
+Emtricitabine: Samples of breast milk obtained from 5 HIV-1-infected mothers show that emtricitabine is secreted in human milk.
 Breastfeeding infants whose mothers are being treated with emtricitabine may be at risk for developing viral resistance to emtricitabine.
 Other emtricitabine-associated risks in infants breastfed by mothers being treated with emtricitabine are unknown.
 
 Rilpivirine: Studies in lactating rats and their offspring indicate that rilpivirine was present in rat milk.
 It is not known whether rilpivirine is secreted in human milk.
 
-Tenofovir Disoproxil Fumarate: Samples of breast milk obtained from five HIV-1-infected mothers in the first post-partum week show that tenofovir is excreted in human milk.
+Tenofovir Disoproxil Fumarate: Samples of breast milk obtained from 5 HIV-1-infected mothers in the first postpartum week show that tenofovir is excreted in human milk.
 The impact of this exposure in breastfed infants is unknown.
 
 Because of both the potential for HIV transmission and the potential for serious adverse reactions in nursing infants, mothers should be instructed not to breastfeed if they are receiving COMPLERA.
 
 ## 8.4 Pediatric Use
 
-COMPLERA is not recommended for patients less than 18 years of age because not all the individual components of COMPLERA have safety, efficacy and dosing recommendations available for all pediatric age groups [See Clinical Pharmacology (12.3)].
+Because COMPLERA is a fixed-dose combination tablet, it is not recommended for patients requiring dose adjustments.
+Safety and efficacy for COMPLERA have not been established in pediatric patients less than 12 years of age or weighing less than 35 kg [See Adverse Reactions (6.3) and Clinical Pharmacology (12.3)].
+For additional information, please consult the Edurant, EMTRIVA, and VIREAD prescribing information.
 
 ## 8.5 Geriatric Use
 
 Clinical studies of emtricitabine, rilpivirine, or tenofovir DF did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
-In general, dose selection for the elderly patients should be cautious, keeping in mind the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy [See Clinical Pharmacology (12.3)].
+In general, dose selection for elderly patients should be cautious, keeping in mind the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy [See Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 
-Because COMPLERA is a fixed-dose combination, it should not be prescribed for patients requiring dosage adjustment such as those with moderate, severe or end stage renal impairment (estimated creatinine clearance below 50 mL per minute) or that require dialysis [See Warnings and Precautions (5.4), Clinical Pharmacology (12.3)].
+Because COMPLERA is a fixed-dose combination, it should not be prescribed for patients requiring dosage adjustment, such as those with moderate, severe, or end-stage renal impairment (estimated creatinine clearance below 50 mL per minute) or that require dialysis [See Warnings and Precautions (5.4), Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 

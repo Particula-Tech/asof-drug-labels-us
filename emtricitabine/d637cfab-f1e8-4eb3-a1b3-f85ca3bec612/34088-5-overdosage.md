@@ -1,7 +1,7 @@
 # 10 OVERDOSAGE
 
 If overdose occurs the patient must be monitored for evidence of toxicity.
-Treatment of overdose with COMPLERA consists of general supportive measures including monitoring of vital signs and ECG (QT interval) as well as observation of the clinical status of the patient.
+Treatment of overdose with COMPLERA consists of general supportive measures, including monitoring of vital signs and ECG (QT interval) as well as observation of the clinical status of the patient.
 
 Emtricitabine: Limited clinical experience is available at doses higher than the therapeutic dose of EMTRIVA.
 In one clinical pharmacology study, single doses of emtricitabine 1200 mg were administered to 11 subjects.
@@ -22,4 +22,4 @@ In one study, 600 mg tenofovir DF was administered to 8 subjects orally for 28 d
 The effects of higher doses are not known.
 
 Tenofovir is efficiently removed by hemodialysis with an extraction coefficient of approximately 54%.
-Following a single 300 mg dose of VIREAD, a four-hour hemodialysis session removed approximately 10% of the administered tenofovir dose.
+Following a single 300 mg dose of VIREAD, a 4-hour hemodialysis session removed approximately 10% of the administered tenofovir dose.
