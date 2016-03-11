@@ -68,7 +68,6 @@ Commonly used SNRIs are:
 - •CYMBALTA® (duloxetine)
 - •EFFEXOR® (venlafaxine).
 - Call your healthcare provider if you have symptoms of serotonin syndrome, which include:
-
 - •mental changes (hallucinations, agitation, coma)
 - •fast heartbeat
 - •changes in blood pressure
