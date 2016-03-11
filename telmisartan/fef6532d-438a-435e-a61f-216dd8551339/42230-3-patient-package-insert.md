@@ -139,4 +139,4 @@ If high blood pressure is not treated, it can lead to stroke, heart attack, hear
 How to open the blister: 1.
 Bend & Tear (You may also use scissors to tear the blister apart) 2.
 Peel (Peel off the paper layer) The brands listed are trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt)-509302 India Issued: May 2015
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt)-509302 India Revised: 10/2015
