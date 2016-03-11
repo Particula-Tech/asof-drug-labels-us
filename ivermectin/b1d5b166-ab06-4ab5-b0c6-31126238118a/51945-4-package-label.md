@@ -38,4 +38,4 @@ Fort Worth, TX 76177 USA
 
 Made in Canada
 
-10138-0714 Rev.: 11/14
+P52477-0 Rev.: 11/14
