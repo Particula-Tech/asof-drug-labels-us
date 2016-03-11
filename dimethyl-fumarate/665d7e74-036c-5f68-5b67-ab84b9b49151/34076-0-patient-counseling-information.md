@@ -15,7 +15,7 @@ Advise patients to discontinue TECFIDERA and seek medical care if they develop s
 
 Progressive Multifocal Leukoencephalopathy
 
-Inform patients that progressive multifocal leukoencephalopathy (PML) has occurred in a patient who received TECFIDERA.
+Inform patients that progressive multifocal leukoencephalopathy (PML) has occurred in patients who received TECFIDERA.
 Inform the patient that PML is characterized by a progression of deficits and usually leads to death or severe disability over weeks or months.
 Instruct the patient of the importance of contacting their doctor if they develop any symptoms suggestive of PML.
 Inform the patient that typical symptoms associated with PML are diverse, progress over days to weeks, and include progressive weakness on one side of the body or clumsiness of limbs, disturbance of vision, and changes in thinking, memory, and orientation leading to confusion and personality changes.
@@ -41,10 +41,10 @@ Instruct patients that if they are pregnant or plan to become pregnant while tak
 Encourage patients to enroll in the TECFIDERA Pregnancy Registry if they become pregnant while taking TECFIDERA.
 Advise patients to call 1-866-810-1462 or visit www.tecfiderapregnancyregistry.com for more information [see Use in Specific Populations (8.1)].
 
-41347-06
+41347-07
 
 Manufactured by: Biogen Inc. Cambridge, MA 02142
 
 TECFIDERA is a registered trademark of Biogen.
 
-© Biogen 2013 - 2015
+© Biogen 2013 - 2016

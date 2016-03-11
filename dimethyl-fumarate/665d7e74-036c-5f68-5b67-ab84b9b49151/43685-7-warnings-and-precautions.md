@@ -8,14 +8,18 @@ Patients should be instructed to discontinue TECFIDERA and seek immediate medica
 
 ## 5.2 Progressive Multifocal Leukoencephalopathy
 
-A fatal case of progressive multifocal leukoencephalopathy (PML) occurred in a patient with MS who received TECFIDERA for 4 years while enrolled in a clinical trial.
+Progressive multifocal leukoencephalopathy (PML) has occurred in patients with MS treated with TECFIDERA.
 PML is an opportunistic viral infection of the brain caused by the JC virus (JCV) that typically only occurs in patients who are immunocompromised, and that usually leads to death or severe disability.
+A fatal case of PML occurred in a patient who received TECFIDERA for 4 years while enrolled in a clinical trial.
 During the clinical trial, the patient experienced prolonged lymphopenia (lymphocyte counts predominantly <0.5x109/L for 3.5 years) while taking TECFIDERA [see Warnings and Precautions (5.3)].
-The role of lymphopenia in this case is unknown.
 The patient had no other identified systemic medical conditions resulting in compromised immune system function and had not previously been treated with natalizumab, which has a known association with PML.
 The patient was also not taking any immunosuppressive or immunomodulatory medications concomitantly.
 
+PML has also occurred in the postmarketing setting in the presence of lymphopenia (<0.8x109/L) persisting for more than 6 months.
+While the role of lymphopenia in these cases is uncertain, the majority of cases occurred in patients with lymphocyte counts <0.5x 109/L.
+
 At the first sign or symptom suggestive of PML, withhold TECFIDERA and perform an appropriate diagnostic evaluation.
+MRI findings may be apparent before clinical signs or symptoms.
 Typical symptoms associated with PML are diverse, progress over days to weeks, and include progressive weakness on one side of the body or clumsiness of limbs, disturbance of vision, and changes in thinking, memory, and orientation leading to confusion and personality changes.
 
 ## 5.3 Lymphopenia
@@ -25,16 +29,15 @@ In the MS placebo controlled trials, mean lymphocyte counts decreased by approxi
 Four weeks after stopping TECFIDERA, mean lymphocyte counts increased but did not return to baseline.
 Six percent (6%) of TECFIDERA patients and <1% of placebo patients experienced lymphocyte counts <0.5x109/L (lower limit of normal 0.91x109/L).
 The incidence of infections (60% vs 58%) and serious infections (2% vs 2%) was similar in patients treated with TECFIDERA or placebo, respectively.
-There was no increased incidence of serious infections observed in patients with lymphocyte counts <0.8x109/L or 0.5x109/L in controlled trials, although one patient in an extension study developed PML in the setting of prolonged lymphopenia (lymphocyte counts predominantly <0.5x109/L for 3.5 years) [see Warnings and Precautions (5.2)].
-In controlled and uncontrolled clinical trials, 2% of patients experienced lymphocyte counts <0.5 x 109/L for at least six months.
-In these patients, the majority of lymphocyte counts remained <0.5x109/L with continued therapy.
+There was no increased incidence of serious infections observed in patients with lymphocyte counts <0.8x109/L or <0.5x109/L in controlled trials, although one patient in an extension study developed PML in the setting of prolonged lymphopenia (lymphocyte counts predominantly <0.5x109/L for 3.5 years) [see Warnings and Precautions (5.2)].
+
+In controlled and uncontrolled clinical trials, 2% of patients experienced lymphocyte counts <0.5 x 109/L for at least six months, and in this group the majority of lymphocyte counts remained <0.5x109/L with continued therapy.
 TECFIDERA has not been studied in patients with pre-existing low lymphocyte counts.
 
-Before initiating treatment with TECFIDERA, a CBC including lymphocyte count should be obtained.
-A CBC including lymphocyte count should also be obtained after 6 months of treatment, every 6 to 12 months thereafter, and as clinically indicated.
-Consider interruption of TECFIDERA in patients with lymphocyte counts <0.5 x 109/L persisting for more than six months.
-Given the potential for delay in lymphocyte recovery after discontinuation of TECFIDERA, consider following lymphocyte counts until lymphopenia is resolved.
-Withholding treatment should be considered in patients with serious infections until the infection(s) is resolved.
+Obtain a CBC, including lymphocyte count, before initiating treatment with TECFIDERA, 6 months after starting treatment, and then every 6 to 12 months thereafter, and as clinically indicated.
+Consider interruption of TECFIDERA in patients with lymphocyte counts <less than 0.5 x 109/L persisting for more than six months.
+Given the potential for delayed recovery after discontinuation of TECFIDERA, consider followingof lymphocyte counts, continue to obtain lymphocyte counts until their recovery if TECFIDERA is discontinued or interrupted due to lymphopenia.
+Consider withholding treatment from patients with serious infections until resolution.
 Decisions about whether or not to restart TECFIDERA should be individualized based on clinical circumstances.
 
 ## 5.4 Flushing
