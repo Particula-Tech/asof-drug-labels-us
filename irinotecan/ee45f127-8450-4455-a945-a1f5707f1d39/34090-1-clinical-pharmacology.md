@@ -4,7 +4,7 @@
 
 Irinotecan is a derivative of camptothecin.
 Camptothecins interact specifically with the enzyme topoisomerase I, which relieves torsional strain in DNA by inducing reversible single-strand breaks.
-Irinotecan and its active metabolite SN-38 bind to the topoisomerase I­ DNA complex and prevent religation of these single-strand breaks.
+Irinotecan and its active metabolite SN-38 bind to the topoisomerase I­-DNA complex and prevent religation of these single-strand breaks.
 Current research suggests that the cytotoxicity of irinotecan is due to double-strand DNA damage produced during DNA synthesis when replication enzymes interact with the ternary complex formed by topoisomerase I, DNA, and either irinotecan or SN-38.
 Mammalian cells cannot efficiently repair these double-strand breaks.
 
@@ -12,9 +12,9 @@ Mammalian cells cannot efficiently repair these double-strand breaks.
 
 Irinotecan serves as a water-soluble precursor of the lipophilic metabolite SN-38.
 SN-38 is formed from irinotecan by carboxylesterase-mediated cleavage of the carbamate bond between the camptothecin moiety and the dipiperidino side chain.
-SN-38 is approximately 1000 times as potent as irinotecan as an inhibitor of topoisomerase I purified from human and rodent tumor cell lines.
-In vitro cytotoxicity assays show that the potency of SN-38 relative to irinotecan varies from 2- to 2000-fold; however, the plasma area under the concentration versus time curve (AUC) values for SN-38 are 2% to 8% of irinotecan and SN-38 is 95% bound to plasma proteins compared to approximately 50% bound to plasma proteins for irinotecan [see Clinical Pharmacology (12.3)].
-The precise contribution of SN­38 to the activity of irinotecan hydrochloride injection is thus unknown.
+SN-38 is approximately 1,000 times as potent as irinotecan as an inhibitor of topoisomerase I purified from human and rodent tumor cell lines.
+In vitro cytotoxicity assays show that the potency of SN-38 relative to irinotecan varies from 2- to 2,000-fold; however, the plasma area under the concentration versus time curve (AUC) values for SN-38 are 2% to 8% of irinotecan and SN-38 is 95% bound to plasma proteins compared to approximately 50% bound to plasma proteins for irinotecan [see Clinical Pharmacology (12.3)].
+The precise contribution of SN­-38 to the activity of irinotecan hydrochloride injection is thus unknown.
 Both irinotecan and SN-38 exist in an active lactone form and an inactive hydroxy acid anion form.
 A pH-dependent equilibrium exists between the two forms such that an acid pH promotes the formation of the lactone, while a more basic pH favors the hydroxy acid anion form.
 
@@ -31,13 +31,15 @@ Maximum concentrations of the active metabolite SN-38 are generally seen within 
 Pharmacokinetic parameters for irinotecan and SN-38 following a 90 minute infusion of irinotecan at dose levels of 125 and 340 mg/m2 determined in two clinical studies in patients with solid tumors are summarized in Table 5:
 
 Table 5.
-Summary of Mean (± Standard Deviation) Irinotecan and SN-38 Pharmacokinetic Parameters in Patients with Solid Tumors
+Summary of Mean (± Standard Deviation) Irinotecan and SN-38
 
-| Dose (mg/m2) | Irinotecan |  |  |  |  | SN-38 |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Cmax (ng/mL) | AUC0-24 (ng·h/mL) | t1/2 (h) | Vz (L/m2) | CL (L/h/m2) | Cmax (ng/mL) | AUC0-24 (ng·h/mL) | t1/2 (h) |  |
-| 125 (N=64) | 1,660 ± 797 | 10,200 ± 3,270 | 5.8a ± 0.7 | 110 ± 48.5 | 13.3 ± 6.01 | 26.3 ± 11.9 | 229 ± 108 | 10.4a ± 3.1 |
-| 340 (N=6) | 3,392 ± 874 | 20,604 ± 6,027 | 11.7b ± 1 | 234 ± 69.6 | 13.9 ± 4 | 56 ± 28.2 | 474 ± 245 | 21b ± 4.3 |
+Pharmacokinetic Parameters in Patients with Solid Tumors
+
+| Dose (mg/m2) | Irinotecan |  |  |  |  |  | SN-38 |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cmax (ng/mL) | AUC0-24 (ng•h/mL) | t1/2 (h) | V2 (L/m2) |  | CL (L/h/mL) | Cmax (ng/mL) | AUC0-24 (ng•h/mL) | t1/2 (h) |  |
+| 125 (N=60) | 1,660 ± 797 | 10,200 ± 3,270 | 5.8a ± 0.7 |  | 110 ± 48.5 | 13.3 ± 6.01 | 26.3 ± 11.9 | 229 ± 108 | 10.4a ± 3.1 |
+| 340 (N=6) | 3,392 ± 874 | 20,604 ± 6,027 | 11.7b ± 1 |  | 234 ± 69.6 | 13.9 ± 4 | 56 ± 28.2 | 474 ± 245 | 21b ± 4.3 |
 
 Cmax - Maximum plasma concentration
 
@@ -52,11 +54,7 @@ CL - Total systemic clearance
 a Plasma specimens collected for 24 hours following the end of the 90 minute infusion.
 
 b Plasma specimens collected for 48 hours following the end of the 90 minute infusion.
-Because of the
-
-longer collection period, these values provide a more accurate reflection of the terminal elimination
-
-half-lives of irinotecan and SN-38.
+Because of the longer collection period, these values provide a more accurate reflection of the terminal elimination half-lives of irinotecan and SN-38.
 
 Distribution
 
@@ -66,9 +64,9 @@ The plasma protein to which irinotecan and SN-38 predominantly binds is albumin.
 
 Metabolism
 
-The metabolic conversion of irinotecan to the active metabolite SN-38 is mediated by carboxylesterase enzymes and primarily occurs in the liver.
+Irinotecan is subject to extensive metabolic conversion by various enzyme systems, including esterases to form the active metabolite SN-38, and UGT1A1 mediating glucuronidation of SN-38 to form the inactive glucuronide metabolite SN-38G.
+Irinotecan can also undergo CYP3A4-mediated oxidative metabolism to several inactive oxidation products, one of which can be hydrolyzed by carboxylesterase to release SN-38.
 In vitro studies indicate that irinotecan, SN-38 and another metabolite aminopentane carboxylic acid (APC), do not inhibit cytochrome P-450 isozymes.
-SN-38 is subsequently conjugated predominantly by the enzyme UDP-glucuronosyl transferase 1A1 (UGT1A1) to form a glucuronide metabolite.
 UGT1A1 activity is reduced in individuals with genetic polymorphisms that lead to reduced enzyme activity such as the UGT1A1*28 polymorphism.
 Approximately 10% of the North American population is homozygous for the UGT1A1*28 allele (also referred to as UGT1A1 7/7 genotype).
 In a prospective study, in which irinotecan was administered as a single-agent (350 mg/m2) on a once-every-3-week schedule, patients with the UGT1A1 7/7 genotype had a higher exposure to SN-38 than patients with the wild-type UGT1A1 allele (UGT1A1 6/6 genotype) [see Warnings and Precautions (5.3) and Dosage and Administration (2)].
@@ -83,7 +81,9 @@ The cumulative biliary and urinary excretion of irinotecan and its metabolites (
 Effect of Age
 
 The pharmacokinetics of irinotecan administered using the weekly schedule was evaluated in a study of 183 patients that was prospectively designed to investigate the effect of age on irinotecan toxicity.
-Results from this trial indicate that there are no differences in the pharmacokinetics of irinotecan, SN-38, and SN-38 glucuronide in patients < 65 years of age compared with patients ≥ 65 years of age.
+Results from this trial indicate that there are no differences in the pharmacokinetics of irinotecan, SN-38, and SN-38 glucuronide in patients < 65 years of age compared with patients
+
+≥ 65 years of age.
 In a study of 162 patients that was not prospectively designed to investigate the effect of age, small (less than 18%) but statistically significant differences in dose-normalized irinotecan pharmacokinetic parameters in patients < 65 years of age compared to patients ≥ 65 years of age were observed.
 Although dose-normalized AUC0-24 for SN-38 in patients ≥ 65 years of age was 11% higher than in patients < 65 years of age, this difference was not statistically significant.
 No change in the starting dose is recommended for geriatric patients receiving the weekly dosage schedule of irinotecan [see Dosage and Administration (2)].
@@ -107,3 +107,9 @@ Effect of Renal Impairment
 The influence of renal impairment on the pharmacokinetics of irinotecan has not been evaluated.
 Therefore, caution should be undertaken in patients with impaired renal function.
 Irinotecan is not recommended for use in patients on dialysis [see Use in Specific Populations (8.6)].
+
+Drug Interactions
+
+Dexamethasone, a moderate CYP3A4 inducer, does not appear to alter the pharmacokinetics of
+
+irinotecan.

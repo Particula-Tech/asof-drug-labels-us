@@ -19,7 +19,7 @@ Study 4 was a multicenter study conducted by the North Central Cancer Treatment 
 All 90 patients enrolled in Study 4 received a starting dose of 125 mg/m2.
 Study 5 was a multicenter study that enrolled 166 patients from 30 institutions.
 The initial dose in Study 5 was 125 mg/m2 but was reduced to 100 mg/m2 because the toxicity seen at the 125 mg/m2 dose was perceived to be greater than that seen in previous studies.
-All patients in these studies had metastatic colorectal cancer, and the majority had disease that recurred or progressed followinga5-FU-based regimen administered for metastatic disease.
+All patients in these studies had metastatic colorectal cancer, and the majority had disease that recurred or progressed following a 5-FU-based regimen administered for metastatic disease.
 The results of the individual studies are shown in Table 6.
 
 Table 6: Weekly Dosage Schedule: Study Results
@@ -40,7 +40,7 @@ Table 6: Weekly Dosage Schedule: Study Results
 | Duration of Treatment with Irinotecan hydrochloride (median, months) | 5 | 4 | 4 | 3 |
 | Relative Dose Intensityb (median %) | 74 | 67 | 73 | 81 |
 | Efficacy |  |  |  |  |
-| Confirmed Objective Response Rate (%) (95% CI) | 21 (9.3 to 32.3) | 13 (6.3 to 20.4) | 14 (5.5 to 22.6) | 9 (3.3 to 14.3) |
+| Confirmed Objective Response Rate (%)c (95% CI) | 21 (9.3 to 32.3) | 13 (6.3 to 20.4) | 14 (5.5 to 22.6) | 9 (3.3 to 14.3) |
 | Time to Response (median, months) | 2.6 | 1.5 | 2.8 | 2.8 |
 | Response Duration (median, months) | 6.4 | 5.9 | 5.6 | 6.4 |
 | Survival (median, months) | 10.4 | 8.1 | 10.7 | 9.3 |
@@ -68,7 +68,7 @@ Once-Every-3-Week Dosage Schedule
 
 Single Arm Study: Study 6
 
-Data from an open-label, single-agent, single-arm, multicenter, clinical study involving a total of 132 patients support a once every-3-week dosage schedule of irinotecan in the treatment of patients with metastatic cancer of the colon or rectum that recurred or progressed following treatment with 5-FU.
+Data from an open-label, single-agent, single-arm, multicenter, clinical study involving a total of 132 patients support a once-every-3-week dosage schedule of irinotecan in the treatment of patients with metastatic cancer of the colon or rectum that recurred or progressed following treatment with 5-FU.
 Patients received a starting dose of 350 mg/m2 given by 30 minute intravenous infusion once every 3 weeks.
 Among the 132 previously treated patients in this trial, the intent-to-treat response rate was 12.1% (95% CI, 7% to 18.1%).
 
@@ -105,7 +105,7 @@ Survival Second-Line Irinotecan vs Best Supportive Care (BSC)
 Study 7
 
 Figure 2.
-Survival Second-Line Irinotecan vs Infusional 5-FU
+Survival Second-Line Irinotecan vs Infusion 5-FU
 
 Study 8
 
@@ -118,7 +118,7 @@ Once-Every-3-Week Dosage Schedule: Study Results
 | Number of Patients | 189 | 90 | 127 | 129 |
 | Demographics and Treatment Administration |  |  |  |  |
 | Female/Male (%) | 32/68 | 42/58 | 43/57 | 35/65 |
-| Median age in years (range) | 59 (22 to 75) | 62 (34 to 75) | 58 (30 to 75) | 58 (25 to 75) |
+| Median age in years (range) | 59 (22 to 75) | 62(34 to 75) | 58 (30 to 75) | 58 (25 to 75) |
 | Performance status (%) 0 1 2 | 47 39 14 | 31 46 23 | 58 35 8 | 54 43 3 |
 | Primary tumor (%) Colon Rectum | 55 45 | 52 48 | 57 43 | 62 38 |
 | Prior 5-FU therapy (%) For metastatic disease As adjuvant treatment | 70 30 | 63 37 | 58 42 | 68 32 |

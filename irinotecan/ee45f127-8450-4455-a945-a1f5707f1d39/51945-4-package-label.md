@@ -1,43 +1,33 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-- Irinotecan 2 mL Single Dose Vial Label
-
-NDC 63323-193-52
-
-109352
+- Irinotecan 2 mL Single Use Vial Label
 
 Irinotecan Hydrochloride Injection
 
-40 mg/2 mL (20mg/mL)
+40 mg per 2 mL (20 mg per mL)
 
--on basis of trihydrate
+On basis of trihydrate.
 
-Intravenous Use Only
+For intravenous use.
 
-MUST BE DILUTED
+MUST BE DILUTED.
 
-Cycotoxic agent Rx only
+Cytotoxic agent
 
-2 mL Single Dose Vial
+2 mL Single Use Vial Rx only
 
-PACKAGE LABEL - PRINICIPAL DISPLAY - Irinotecan 2 mL Single Dose Vial Tray Label
-
-NDC 63323-193-52
-
-109352
+PACKAGE LABEL - PRINICIPAL DISPLAY - Irinotecan 2 mL Single Use Vial Carton Label
 
 Irinotecan Hydrochloride Injection
 
-40 mg/2 mL (20mg/mL)
+40 mg per 2 mL (20 mg per mL)
 
--on basis of trihydrate
+On basis of trihydrate.
 
-Intravenous Use Only
+For intravenous use.
 
-MUST BE DILUTED
+MUST BE DILUTED.
 
-Cycotoxic agent
+Cytotoxic agent
 
-2 mL Single Dose Vial
-
-Rx only
+2 mL Single Use Vial Rx only

@@ -1,6 +1,6 @@
-# 3 DOSAGE FORMS AND STRENGHS
+# 3 DOSAGE FORMS AND STRENGTHS
 
-Irinotecan hydrochlorideis available in two single-dose sizes:
+Irinotecan hydrochloride is available in two single use sizes:
 
 - 2 mL-fill vial containing 40 mg irinotecan hydrochloride
 
