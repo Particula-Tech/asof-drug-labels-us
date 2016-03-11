@@ -12,9 +12,9 @@
   - are pregnant, intend to become pregnant or are breast-feeding.
 - Patients should be instructed to swallow LIALDA delayed-release tablets whole, taking care not to break the outer coating.
 
-Manufactured for Shire US Inc., 725 Chesterbrook Blvd., Wayne, PA 19087, USA by Cosmo S.p.A., Milan, Italy.
+Manufactured for Shire US Inc., 300 Shire Way, Lexington, MA 02421, USA by Cosmo S.p.A., Milan, Italy.
 By license of Nogra Pharma Limited, Dublin, Ireland.
 
 U.S. Patent No. 6,773,720.
 
-© 2014 Shire US Inc.
+© 2015 Shire US Inc.

@@ -22,7 +22,7 @@ Pancreatitis occurred in less than 1% of patients during clinical trials and res
 Adverse reactions occurring in LIALDA or placebo groups at a frequency of at least 1% in two 8-week, double blind, placebo-controlled trials are listed in Table 1.
 The most common adverse reactions with LIALDA 2.4 g/day and 4.8 g/day were headache (5.6% and 3.4%, respectively) and flatulence (4% and 2.8%, respectively).
 
-Table 1: Adverse Reactions in Two Eight-Week Placebo-Controlled Trials Experienced by at Least 1% of the LIALDA Group and at a Rate Greater than Placeboa
+Table 1: Adverse Reactions in Two Eight-Week Placebo-Controlled Trials Experienced by at Least 1% of the LIALDA Group and at a Rate Greater than Placebo a
 
 | Adverse Reaction | LIALDA 2.4 g/day (n = 177) | LIALDA 4.8 g/day (n = 179) | Placebo (n = 179) |
 | --- | --- | --- | --- |
