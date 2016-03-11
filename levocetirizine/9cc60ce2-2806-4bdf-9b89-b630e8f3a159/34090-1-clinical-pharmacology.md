@@ -68,7 +68,7 @@ Data from a pediatric pharmacokinetic study with oral administration of a single
 The mean Cmax was 450 ng/mL, occurring at a mean time of 1.2 hours, weight-normalized, total body clearance was 30% greater, and the elimination half-life 24% shorter in this pediatric population than in adults.
 
 Dedicated pharmacokinetic studies have not been conducted in pediatric patients younger than 6 years of age.
-A retrospective population pharmacokinetic analysis was conducted in 324 subjects (181 children 1 to 5 years of age, 18 children 6 to 11 years of age, and 124 adults 18 to 55 years of age) who received single or multiple doses of levocetirizine ranging from 1.25 mg to 30 mg.
+A retrospective population pharmacokinetic analysis was conducted in 323 subjects (181 children 1 to 5 years of age, 18 children 6 to 11 years of age, and 124 adults 18 to 55 years of age) who received single or multiple doses of levocetirizine ranging from 1.25 mg to 30 mg.
 Data generated from this analysis indicated that administration of 1.25 mg once daily to children 6 months to 5 years of age results in plasma concentrations similar to those of adults receiving 5 mg once daily.
 
 - Geriatric Patients
