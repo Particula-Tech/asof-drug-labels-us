@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA018705"
+  ],
+  "inn": "nitroglycerin",
+  "labeler": "Espero Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "70007-300-20",
+    "70007-300-65"
+  ],
+  "products": [
+    {
+      "form": "SPRAY",
+      "generic": "nitroglycerin",
+      "name": "NITROLINGUAL"
+    }
+  ],
+  "setid": "2b7c772a-adef-4eef-bb83-aaa798e1b712",
+  "source": "dailymed"
+}
