@@ -78,12 +78,12 @@ Edarbyclor may cause serious side effects, including:
 
 - •See "What is the most important information I should know about Edarbyclor?"
 - •Low blood pressure (hypotension) and dizziness is most likely to happen if you also:
-  - ∘take water pills (diuretics)
-  - ∘are on a low-salt diet
-  - ∘take other medicines that affect your blood pressure
-  - ∘sweat a lot
-  - ∘get sick with vomiting or diarrhea
-  - ∘do not drink enough fluids
+  - •take water pills (diuretics)
+  - •are on a low-salt diet
+  - •take other medicines that affect your blood pressure
+  - •sweat a lot
+  - •get sick with vomiting or diarrhea
+  - •do not drink enough fluids
 
 If you feel faint or dizzy, lie down and call your doctor right away.
 If you pass out (faint) have someone call your doctor or get medical help.
