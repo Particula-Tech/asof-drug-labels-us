@@ -12,4 +12,4 @@ Each gram of Retin-A Micro, Gel 0.08% contains 0.8 mg of tretinoin.
 Each gram of Retin-A Micro, Gel 0.04% contains 0.4 mg of tretinoin.
 
 The formulation uses methyl methacrylate/glycol dimethacrylate crosspolymer porous microspheres (MICROSPONGE® System) to enable inclusion of the active ingredient, tretinoin, in an aqueous gel.
-Other components consist of benzyl alcohol, butylated hydroxtoluene, carbomer 934P, carbomer 974P, cyclomethicone, dimethicone copolyol, disodium EDTA, glycerin, PPG-20 methyl glucose ether distearate, propylene glycol, purified water, sorbic acid, and trolamine.
+Other components consist of benzyl alcohol, butylated hydroxtoluene, carbomer 974P, cyclomethicone, dimethicone copolyol, disodium EDTA, glycerin, PPG-20 methyl glucose ether distearate, propylene glycol, purified water, sorbic acid, and trolamine.

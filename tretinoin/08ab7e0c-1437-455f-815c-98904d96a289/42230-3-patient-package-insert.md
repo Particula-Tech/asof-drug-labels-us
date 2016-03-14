@@ -18,7 +18,7 @@ What should I tell my doctor before using Retin-A Micro®?
 
 Before using Retin-A Micro®, tell your doctor if you:
 
-- •have a skin condition called eczema
+- •have a skin condition called eczema.
 - •have a sunburn.
   You should not use Retin-A Micro® until your skin has healed.
 - •have any other medical condition.
@@ -65,7 +65,7 @@ Pump: Fully depress the pump twice to dispense Retin-A Micro® onto a fingertip.
 Apply a thin layer to cover the affected area, as prescribed by your doctor.
 Spread Retin-A Micro® evenly over the affected area.
 
-- •Wash your hands after applying Retin-A Micro®
+- •Wash your hands after applying Retin-A Micro®.
 
 What should I avoid while using Retin-A Micro®?
 
@@ -120,7 +120,7 @@ What are the ingredients of Retin-A Micro®?
 
 Active ingredient: tretinoin
 
-Inactive ingredients: benzyl alcohol, butylated hydroxytoluene, carbomer 934P, carbomer 974P, cyclomethicone, dimethicone copolyol, disodium EDTA, glycerin, PPG-20 methyl glucose ether distearate, propylene glycol, purified water, sorbic acid and trolamine
+Inactive ingredients: benzyl alcohol, butylated hydroxytoluene, carbomer 974P, cyclomethicone, dimethicone copolyol, disodium EDTA, glycerin, PPG-20 methyl glucose ether distearate, propylene glycol, purified water, sorbic acid and trolamine
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
@@ -130,20 +130,22 @@ Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
 by:
 
-Janssen Ortho LLC
+Valeant Pharmaceuticals International Inc.
 
-Manati, Puerto Rico 00674 USA
+Laval, Quebec H7L 4A8, Canada
+
+Made in Canada
 
 Retin-A Micro is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
-Microsponge is a registered trademark of AMCOL International Corporation.
-Any other product/brand names are trademarks of their respective owners.
+Microsponge is a registered trademark of Amcol International Corporation.
+Any other product/brand
+
+names are trademarks of their respective owners.
 
 ©2015 Valeant Pharmaceuticals North America LLC
 
-10330201
-
-9377801
+9470901
 
 Rev.
 09/2015

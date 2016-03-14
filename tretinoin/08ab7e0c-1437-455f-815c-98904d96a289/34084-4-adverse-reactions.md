@@ -17,7 +17,7 @@ In trials of Retin-A Micro (tretinoin) Gel microsphere 0.04%, throughout the tre
 In trials of Retin-A Micro (tretinoin) Gel microsphere 0.1%, no more than 3% of subjects had cutaneous irritation scores indicative of severe irritation; 6% (14/224) of subjects treated with Retin-A Micro (tretinoin) Gel microsphere, 0.1% discontinued treatment due to irritation.
 Of these 14 subjects, four had severe irritation after 3 to 5 days of treatment, with blistering in one subject.
 
-In a double-blind trial with 156 acne subjects comparing 12 weeks of treatment with Retin-A-Micro (tretinoin) Gel 0.04% or 0.1% (78 subjects each group), the most frequently-reported adverse events affected the skin and subcutaneous tissue (15.4% in the 0.04% group, and 20.5% in the 0.1% group).
+In a double-blind trial with 156 acne subjects comparing 12 weeks of treatment with Retin-A Micro (tretinoin) Gel 0.04% or 0.1% (78 subjects each group), the most frequently-reported adverse events affected the skin and subcutaneous tissue (15.4% in the 0.04% group, and 20.5% in the 0.1% group).
 The most prevalent of the dermatologic adverse events in the 0.04% group was skin irritation (6.4%); and in the 0.1% group skin burning (7.7%), erythema (5.1%), skin irritation (3.8%), and dermatitis (3.8%).
 Most adverse events were of mild intensity (63.4%), and 34.4% were moderate.
 One subject in each group had adverse events characterized as severe, neither were dermatologic findings and neither was characterized as related to drug by the investigator.
