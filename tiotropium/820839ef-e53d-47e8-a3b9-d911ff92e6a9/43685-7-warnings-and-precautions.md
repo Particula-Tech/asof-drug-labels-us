@@ -31,4 +31,4 @@ Instruct patients to consult a physician immediately should any of these signs o
 
 ## 5.6 Renal Impairment
 
-As a predominantly renally excreted drug, patients with moderate to severe renal impairment (creatinine clearance of ≤60 mL/min) treated with SPIRIVA HANDIHALER should be monitored closely for anticholinergic side effects [see Clinical Pharmacology (12.3)].
+As a predominantly renally excreted drug, patients with moderate to severe renal impairment (creatinine clearance of <60 mL/min) treated with SPIRIVA HANDIHALER should be monitored closely for anticholinergic side effects [see Clinical Pharmacology (12.3)].

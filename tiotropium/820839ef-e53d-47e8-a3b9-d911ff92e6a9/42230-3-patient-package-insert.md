@@ -192,13 +192,13 @@ Licensed from: Boehringer Ingelheim International GmbH
 
 SPIRIVA® and HANDIHALER® are registered trademarks and are used under license from Boehringer Ingelheim International GmbH.
 
-Copyright © 2015 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2016 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Revised: December 2015
+Revised: January 2016
 
-IT1600AFL152015 10004551/13
+IT1600AGA72016 10004551/13
 
-IT5300I 75740-09
+IT5300J 75740-09
 
 Instructions for Use
 
@@ -246,7 +246,7 @@ Use the new HANDIHALER device provided with your medicine.
 | If you do not hear or feel the SPIRIVA capsule rattle as you breathe in your medicine: |  |
 |  | Do not press the green piercing button again. Hold your HANDIHALER device with the mouthpiece pointed up and tap your HANDIHALER device gently on a table. (See Figure Q) Check to see that the mouthpiece is completely closed. Breathe out completely before deeply breathing in again with the mouthpiece in your mouth. (See Figure O) If you still do not hear or feel the SPIRIVA capsule rattle after repeating the above steps: Throw away the SPIRIVA capsule. Open the base by lifting the green piercing button and check the center chamber for pieces of the SPIRIVA capsule. SPIRIVA capsule pieces in the center chamber can cause a SPIRIVA capsule not to rattle. Turn your HANDIHALER device upside down and gently, but firmly, tap to remove the SPIRIVA capsule pieces. Call your doctor for instructions. |
 | Cleaning your HANDIHALER device: |  |
-|  | Clean your HANDIHALER device as needed. (See Figure R) It takes 24 hours to air dry your HANDIHALER device after you clean it. Do not use cleaning agents or detergents. Do not place your HANDIHALER device in the dishwasher for cleaning. Cleaning Steps: Open the dust cap and mouthpieceOpen the base by lifting the green piercing button.Look in the center chamber for SPIRIVA capsule pieces or powder buildup. If seen, tap out.Rinse your HANDIHALER device with warm water, pressing the green piercing button a few times so that the center chamber and the piercing needle is under the running water. Check that any powder buildup or SPIRIVA capsule pieces are removed.Dry your HANDIHALER device well by tipping the excess water out on a paper towel. Air-dry afterwards, leaving the dust cap, mouthpiece, and base open by fully spreading it out so that it dries completely.Do not use a hair dryer to dry your HANDIHALER device.Do not use your HANDIHALER device when it is wet. If needed, you may clean the outside of the mouthpiece with a clean damp cloth. |
+|  | Clean your HANDIHALER device as needed. (See Figure R) It takes 24 hours to air dry your HANDIHALER device after you clean it. Do not use cleaning agents or detergents. Do not place your HANDIHALER device in the dishwasher for cleaning. Cleaning Steps: Open the dust cap and mouthpiece.Open the base by lifting the green piercing button.Look in the center chamber for SPIRIVA capsule pieces or powder buildup. If seen, tap out.Rinse your HANDIHALER device with warm water, pressing the green piercing button a few times so that the center chamber and the piercing needle is under the running water. Check that any powder buildup or SPIRIVA capsule pieces are removed.Dry your HANDIHALER device well by tipping the excess water out on a paper towel. Air-dry afterwards, leaving the dust cap, mouthpiece, and base open by fully spreading it out so that it dries completely.Do not use a hair dryer to dry your HANDIHALER device.Do not use your HANDIHALER device when it is wet. If needed, you may clean the outside of the mouthpiece with a clean damp cloth. |
 
 | Helpful Hints to help ensure that you are properly taking your full daily dose of SPIRIVA HANDIHALER: Press the green piercing button 1 time; Breathe in 2 times; Breathe out completely before each of the 2 inhalations.Always use the new HANDIHALER device provided with your medicine.Keep your HANDIHALER device with the mouthpiece pointed up when pressing the green piercing button.Press the green piercing button 1 time to pierce the SPIRIVA capsule.Do not breathe out into your HANDIHALER device.Keep your HANDIHALER device in a horizontal position and keep your head upright, looking straight ahead, when breathing in.Check the center chamber of your HANDIHALER device for SPIRIVA capsule pieces or powder build-up. If pieces or powder are seen, tap out before use.Clean your HANDIHALER as needed and dry thoroughly. |
 | --- |
@@ -261,10 +261,10 @@ Licensed from: Boehringer Ingelheim International GmbH
 
 SPIRIVA® and HANDIHALER® are registered trademarks and are used under license from Boehringer Ingelheim International GmbH.
 
-Copyright © 2015 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2016 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Revised: December 2015
+Revised: January 2016
 
-IT1600AFL152015 10004551/13
+IT1600AGA72016 10004551/13
 
-IT5300I 75740-09
+IT5300J 75740-09

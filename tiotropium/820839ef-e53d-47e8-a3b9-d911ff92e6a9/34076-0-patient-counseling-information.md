@@ -1,8 +1,8 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use)
+Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
-Paradoxical Bronchospasm Inform patients that SPIRIVA HANDIHALER can produce paradoxical bronchospasm.
+Paradoxical Bronchospasm: Inform patients that SPIRIVA HANDIHALER can produce paradoxical bronchospasm.
 Advise patients that if paradoxical bronchospasm occurs, patients should discontinue SPIRIVA HANDIHALER.
 
 Worsening of Narrow-Angle Glaucoma: Instruct patients to be alert for signs and symptoms of narrow-angle glaucoma (e.g., eye pain or discomfort, blurred vision, visual halos or colored images in association with red eyes from conjunctival congestion and corneal edema).
@@ -32,8 +32,8 @@ Address medical inquiries to: (800) 542-6257 or (800) 459-9906 TTY.
 
 SPIRIVA® and HANDIHALER® are registered trademarks and are used under license from Boehringer Ingelheim International GmbH.
 
-Copyright © 2015 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2016 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-IT1600AFL152015 10004551/13
+IT1600AGA72016 10004551/13
 
-IT5300I 75740-09
+IT5300J 75740-09
