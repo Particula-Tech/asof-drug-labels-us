@@ -9,11 +9,11 @@ Diarrhea is a common problem caused by antibacterial drugs which usually ends wh
 Sometimes after starting treatment with antibacterial drugs, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the drug.
 If this occurs, patients should contact their physician as soon as possible.
 
-09-2013M
+02-2016M
 
-EN-3342
+EN-4213
 
-46095213
+46179681
 
 Manufactured by Sandoz GmbH for Hospira Worldwide, Inc.,
 

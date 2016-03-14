@@ -10,9 +10,9 @@ The pharmacodynamic parameter for piperacillin/tazobactam that is most predictiv
 
 ## 12.3 Pharmacokinetics
 
-The mean and coefficients of variation (CV%) for the pharmacokinetic parameters of piperacillin and tazobactam after multiple intravenous doses are summarized in Table 5.
+The mean and coefficients of variation (CV%) for the pharmacokinetic parameters of piperacillin and tazobactam after multiple intravenous doses are summarized in Table 6.
 
-Table 5: Mean (CV%) Piperacillin and Tazobactam PK Parameters
+Table 6: Mean (CV%) Piperacillin and Tazobactam PK Parameters
 
 | Piperacillin |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -38,9 +38,9 @@ Protein binding of the tazobactam metabolite is negligible.
 
 Piperacillin and tazobactam are widely distributed into tissues and body fluids including intestinal mucosa, gallbladder, lung, female reproductive tissues (uterus, ovary, and fallopian tube), interstitial fluid, and bile.
 Mean tissue concentrations are generally 50% to 100% of those in plasma.
-Distribution of piperacillin and tazobactam into cerebrospinal fluid is low in subjects with non-inflamed meninges, as with other penicillins (see Table 6).
+Distribution of piperacillin and tazobactam into cerebrospinal fluid is low in subjects with non-inflamed meninges, as with other penicillins (see Table 7).
 
-| Table 6: Piperacillin/Tazobactam Concentrations in Selected Tissues and Fluids after Single 4 g/0.5 g 30-min IV Infusion of Piperacillin and Tazobactam for Injection |  |  |  |  |  |  |
+| Table 7: Piperacillin/Tazobactam Concentrations in Selected Tissues and Fluids after Single 4 g/0.5 g 30-min IV Infusion of Piperacillin and Tazobactam for Injection |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tissue or Fluid | Na | Sampling periodb (h) | Mean PIP Concentration Range (mg/L) | Tissue: Plasma Range | Tazo Concentration Range (mg/L) | Tazo Tissue: Plasma Range |
 | Skin | 35 | 0.5 – 4.5 | 34.8 – 94.2 | 0.6 – 1.1 | 4 – 7.7 | 0.49 – 0.93 |
@@ -125,19 +125,19 @@ Piperacillin/tazobactam has been shown to be active against most isolates of the
 
 Gram-positive bacteria:
 
-Staphylococcus aureus(methicillin susceptible isolates only)
+Staphylococcus aureus (methicillin susceptible isolates only)
 
 Gram-negative bacteria:
 
-Acinetobacterbaumannii
+Acinetobacter baumannii
 
 Escherichia coli
 
 Haemophilusinfluenzae(excluding β-lactamase negative, ampicillin-resistant isolates)
 
-Klebsiellapneumoniae
+Klebsiella pneumoniae
 
-Pseudomonas aeruginosa(given in combination with an aminoglycoside to which the isolate is susceptible)
+Pseudomonas aeruginosa (given in combination with an aminoglycoside to which the isolate is susceptible)
 
 Anaerobic bacteria:
 
@@ -152,7 +152,7 @@ Gram-positive bacteria:
 
 Enterococcus faecalis(ampicillin or penicillin-susceptible isolates only)
 
-Staphylococcus epidermidis(methicillin susceptible isolates only)
+Staphylococcus epidermidis (methicillin susceptible isolates only)
 
 Streptococcus agalactiae†
 
@@ -205,7 +205,7 @@ Quantitative methods are used to determine antimicrobial minimum inhibitory conc
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
 The MICs should be determined using a standardized procedure.
 Standardized procedures are based on a dilution method (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of piperacillin and tazobactam powders.1,2 MIC values should be determined using serial dilutions of piperacillin combined with a fixed concentration of 4 μg/mL tazobactam.
-The MIC values obtained should be interpreted according to criteria provided in Table 7.
+The MIC values obtained should be interpreted according to criteria provided in Table 8.
 
 Diffusion Technique:
 
@@ -213,21 +213,21 @@ Quantitative methods that require measurement of zone diameters also provide rep
 The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
 The zone size should be determined using a standardized test method1,3 and requires the use of standardized inoculum concentrations.
 This procedure uses paper disks impregnated with 100 mcg of piperacillin and 10 mcg of tazobactam to test the susceptibility of microorganisms to piperacillin/tazobactam.
-The disk diffusion interpreted criteria are provided in Table 7.
+The disk diffusion interpreted criteria are provided in Table 8.
 
 Anaerobic Techniques
 
 For anaerobic bacteria, the susceptibility to piperacillin/tazobactam can be determined by the reference agar dilution method.4
 
-Table 7: Susceptibility Interpretive Criteria for Piperacillin/Tazobactam
+Table 8: Susceptibility Interpretive Criteria for Piperacillin/Tazobactam
 
 | Pathogen | S | I | R | S | I | R |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Susceptibility Test Result Interpretive Criteria |  |  |  |  |  |
 |  | Minimal Inhibitory Concentration (MIC in mcg/mL) |  |  | Disk Diffusion (Zone Diameter in mm) |  |  |
 | Enterobacteriaceae | ≤ 16 | 32 – 64 | ≥ 128 | ≥ 21 | 18 – 20 | ≤ 17 |
-| Acinetobacterbaumannii | ≤ 16 | 32 – 64 | ≥ 128 | ≥ 21 | 18 – 20 | ≤ 17 |
-| Haemophilus influenzaeThese interpretive criteria for Haemophilusinfluenzae are applicable only to tests performed using Haemophilus Test Medium inoculated with a direct colony suspension and incubated at 35°C in ambient air for 20 to 24 hours. Note: Susceptibility of staphylococci to piperacillin/tazobactam may be deduced from testing only penicillin and either cefoxitin or oxacillin. | ≤ 1 | - | ≥ 2 | ≥ 21 | - | - |
+| Acinetobacter baumannii | ≤ 16 | 32 – 64 | ≥ 128 | ≥ 21 | 18 – 20 | ≤ 17 |
+| Haemophilus influenzaeThese interpretive criteria for Haemophilus influenzae are applicable only to tests performed using Haemophilus Test Medium inoculated with a direct colony suspension and incubated at 35°C in ambient air for 20 to 24 hours. Note: Susceptibility of staphylococci to piperacillin/tazobactam may be deduced from testing only penicillin and either cefoxitin or oxacillin. | ≤ 1 | - | ≥ 2 | ≥ 21 | - | - |
 | Pseudomonas aeruginosa | ≤ 16 | 32 – 64 | ≥ 128 | ≥ 21 | 15 – 20 | ≤ 14 |
 | Bacteroidesfragilis group | ≤ 32 | 64 | ≥ 128 | - | - | - |
 
@@ -239,10 +239,10 @@ A report of R (“Resistant”) indicates that the pathogen is not likely to be 
 
 Quality Control
 
-Standardized susceptibility test procedures require the use of quality controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test procedures.1,2,3,4 Standard piperacillin/tazobactam powder should provide the following ranges of values noted in Table 8.
+Standardized susceptibility test procedures require the use of quality controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test procedures.1,2,3,4 Standard piperacillin/tazobactam powder should provide the following ranges of values noted in Table 9.
 Quality control bacteria are specific strains of bacteria with intrinsic biological properties relating to resistance mechanisms and their genetic expression within the microorganism; the specific strains used for microbiological quality control are not clinically significant.
 
-Table 8: Acceptable Quality Control Ranges for Piperacillin/Tazobactam to Be Used in Validation of Susceptibility Test
+Table 9: Acceptable Quality Control Ranges for Piperacillin/Tazobactam to Be Used in Validation of Susceptibility Test
 
 | QC Strain | Minimum Inhibitory Concentration Range (MIC in mcg/mL) | Disk Diffusion Zone Diameter Ranges in mm |
 | --- | --- | --- |
@@ -250,7 +250,7 @@ Table 8: Acceptable Quality Control Ranges for Piperacillin/Tazobactam to Be Use
 | Escherichia coli ATCC 25922 | 1 – 4 | 24 – 30 |
 | Escherichia coli ATCC 35218 | 0.5 – 2 | 24 – 30 |
 | Pseudomonas aeruginosa ATCC 27853 | 1 – 8 | 25 – 33 |
-| Haemophilus influenzaeThis quality control range for Haemophilusinfluenzae is applicable only to tests performed using Haemophilus Test Medium inoculated with a direct colony suspension and incubated at 35°C in ambient air for 20 to 24 hours. ATCC 49247 | 0.06 – 0.5 | 33 – 38 |
+| Haemophilus influenzaeThis quality control range for Haemophilus influenzae is applicable only to tests performed using Haemophilus Test Medium inoculated with a direct colony suspension and incubated at 35°C in ambient air for 20 to 24 hours. ATCC 49247 | 0.06 – 0.5 | 33 – 38 |
 | Staphylococcus aureus ATCC 29213 | 0.25 – 2 | - |
 | Staphylococcus aureus ATCC 25923 | - | 27 – 36 |
 | Bacteroides fragilisThe quality control ranges for Bacteroidesfragilis and Bacteroidesthetaiotaomicron are applicable only to tests performed using the agar dilution method. ATCC 25285 | 0.12 – 0.5 | - |

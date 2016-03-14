@@ -21,7 +21,7 @@ Community-acquired pneumonia (moderate severity only) caused by β-lactamase pro
 
 ## 1.5 Nosocomial Pneumonia
 
-Nosocomial pneumonia (moderate to severe) caused by β-lactamase producing isolates of Staphylococcus aureusand by piperacillin/tazobactam-susceptible Acinetobacterbaumannii, Haemophilusinfluenzae, Klebsiellapneumoniae, and Pseudomonas aeruginosa(Nosocomial pneumonia caused by P. aeruginosashould be treated in combination with an aminoglycoside) [see Dosage and Administration (2)].
+Nosocomial pneumonia (moderate to severe) caused by β-lactamase producing isolates of Staphylococcus aureus and by piperacillin/tazobactam-susceptible Acinetobacter baumannii, Haemophilusinfluenzae, Klebsiella pneumoniae, and Pseudomonas aeruginosa (Nosocomial pneumonia caused by P. aeruginosa should be treated in combination with an aminoglycoside) [see Dosage and Administration (2)].
 
 To reduce the development of drug-resistant bacteria and maintain the effectiveness of piperacillin and tazobactam for injection USP and other antibacterial drugs, piperacillin and tazobactam for injection USP should be used only to treat infections that are proven or strongly suspected to be caused by bacteria.
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.

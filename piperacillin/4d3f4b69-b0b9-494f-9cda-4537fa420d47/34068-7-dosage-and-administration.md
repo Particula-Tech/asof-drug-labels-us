@@ -13,7 +13,7 @@ Piperacillin and tazobactam for injection should be administered by intravenous 
 
 Initial presumptive treatment of patients with nosocomial pneumonia should start with piperacillin and tazobactam for injection at a dosage of 4.5 g every six hours plus an aminoglycoside, totaling 18 g (16 g piperacillin/2 g tazobactam).
 The recommended duration of piperacillin and tazobactam for injection treatment for nosocomial pneumonia is 7 to 14 days.
-Treatment with the aminoglycoside should be continued in patients from whom P. aeruginosais isolated.
+Treatment with the aminoglycoside should be continued in patients from whom P. aeruginosa is isolated.
 
 ## 2.3 Renal Impairment
 

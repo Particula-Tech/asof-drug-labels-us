@@ -137,7 +137,7 @@ Immune–hypersensitivity reactions, anaphylactic/anaphylactoid reactions (inclu
 
 Renal–interstitial nephritis
 
-Skin and Appendages–erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis
+Skin and Appendages–erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms, (DRESS), acute generalized exanthematous pustulosis (AGEP)
 
 ## 6.3 Additional Experience with Piperacillin
 

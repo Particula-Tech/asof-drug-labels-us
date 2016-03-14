@@ -25,6 +25,6 @@ Each vial contains 7.04 mEq (162 mg) of sodium.
 Each piperacillin and tazobactam for injection USP 4.5 g single dose vial contains an amount of drug sufficient for withdrawal of piperacillin sodium equivalent to 4 grams of piperacillin and tazobactam sodium equivalent to 0.5 g of tazobactam.
 Each vial contains 9.39 mEq (216 mg) of sodium.
 
-Piperacillin and tazobactam for injection USP contains a total of 2.35 mEq (54 mg) of sodium per gram of piperacillin in the combination product.
+Piperacillin and tazobactam for injection USP contains a total of 2.35 mEq (54 mg) of sodium (Na+) per gram of piperacillin in the combination product.
 
 Meets USP Organic Impurities Procedure 3.
