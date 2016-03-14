@@ -119,7 +119,7 @@ Commonly-Observed Adverse Reactions in Double-Blind, Placebo-Controlled Clinical
 
 Adult Patients with Bipolar Mania
 
-Table 10 lists the adverse reactions reported in 2% or more of RISPERDAL®-treated adult patients with bipolar mania in four 3-week, double-blind, placebo-controlled monotherapy trials.
+Table 10 lists the adverse reactions reported in 1% or more of RISPERDAL®-treated adult patients with bipolar mania in four 3-week, double-blind, placebo-controlled monotherapy trials.
 
 Table 10.
 Adverse Reactions in ≥2% of RISPERDAL®-Treated Adult Patients (and greater than placebo) with Bipolar Mania in Double-Blind, Placebo-Controlled Monotherapy Trials

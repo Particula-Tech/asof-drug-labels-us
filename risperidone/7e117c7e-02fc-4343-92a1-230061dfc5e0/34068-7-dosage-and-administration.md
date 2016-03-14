@@ -12,7 +12,7 @@ Recommended Daily Dosage by Indication
 | Irritability in autistic disorder (2.3) | 0.25 mg Can increase to 0.5 mg by Day 4: (body weight less than 20 kg) 0.5 mg Can increase to 1 mg by Day 4: (body weight greater than or equal to 20 kg) | After Day 4, at intervals of > 2 weeks: 0.25 mg (body weight less than 20 kg) 0.5 mg (body weight greater than or equal to 20 kg) | 0.5 mg: (body weight less than 20 kg) 1 mg: (body weight greater than or equal to 20 kg) | 0.5 to 3 mg |
 
 Severe Renal and Hepatic Impairment in Adults: use a lower starting dose of 0.5 mg twice daily.
-May increase to dosages above 1.5 mg twice daily at intervals of one week or longer.
+May increase to dosages above 1.5 mg twice daily at intervals of at one week or longer.
 
 ## 2.1 Schizophrenia
 
