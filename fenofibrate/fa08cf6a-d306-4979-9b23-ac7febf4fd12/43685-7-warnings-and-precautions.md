@@ -29,9 +29,6 @@ Frequent prothrombin time/INR determinations are advisable until it has been def
 
 The combined use of fenofibrate tablets and HMG-CoA reductase inhibitors should be avoided unless the benefit of further alterations in lipid levels is likely to outweigh the increased risk of this drug combination.
 
-Concomitant administration of fenofibrate (equivalent to fenofibrate tablets 145 mg) and pravastatin (40 mg) once daily for 10 days increased the mean Cmax and AUC values for pravastatin by 36% (range from 69% decrease to 321% increase) and 28% (range from 54% decrease to 128% increase), respectively, and for 3α-hydroxy-iso-pravastatin by 55% (range from 32% decrease to 314% increase) and 39% (range from 24% decrease to 261% increase), respectively.
-(See also CLINICAL PHARMACOLOGY, Drug-drug Interactions).
-
 The combined use of fibric acid derivatives and HMG-CoA reductase inhibitors has been associated, in the absence of a marked pharmacokinetic interaction, in numerous case reports, with rhabdomyolysis, markedly elevated creatine kinase (CK) levels and myoglobinuria, leading in a high proportion of cases to acute renal failure.
 
 The use of fibrates alone, including fenofibrate tablets, may occasionally be associated with myositis, myopathy, or rhabdomyolysis.
@@ -142,7 +139,6 @@ Since bile acid sequestrants may bind other drugs given concurrently, patients s
 ### Cyclosporine
 
 Because cyclosporine can produce nephrotoxicity with decreases in creatinine clearance and rises in serum creatinine, and because renal excretion is the primary elimination route of fibrate drugs including fenofibrate tablets, there is a risk that an interaction will lead to deterioration.
-
 The benefits and risks of using fenofibrate tablets with immunosuppressants and other potentially nephrotoxic agents should be carefully considered, and the lowest effective dose employed.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
@@ -169,9 +165,7 @@ In fertility studies rats were given oral dietary doses of fenofibrate, males re
 
 ## Pregnancy
 
-Teratogenic Effects
-
-Pregnancy Category C
+### Pregnancy Category C
 
 Safety in pregnant women has not been established.
 There are no adequate and well controlled studies of fenofibrate in pregnant women.

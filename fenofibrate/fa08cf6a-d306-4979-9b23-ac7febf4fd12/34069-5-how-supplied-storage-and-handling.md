@@ -16,6 +16,8 @@ Fenofibrate tablet, 160 mg are white to off-white, film-coated, modified capsule
 | Bottles of 500 | NDC 0115-5522-02 |
 | Bottles of 1000 | NDC 0115-5522-03 |
 
+## STORAGE
+
 Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
 Keep out of reach of children.

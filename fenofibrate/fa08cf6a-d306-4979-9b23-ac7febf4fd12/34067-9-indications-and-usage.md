@@ -44,7 +44,7 @@ NCEP Treatment Guidelines: LDL-C Goals and Cutpoints for Therapeutic Lifestyle C
 | Risk Category | LDL Goal (mg/dL) |  |  |
 | --- | --- | --- | --- |
 |  |  | LDL Level at Which to Initiate Therapeutic Lifestyle Changes (mg/ dL) | LDL Level at Which Consider Drug Therapy (mg/ dL) |
-| CHDCHD = coronary heart disease or CHD risk equivalents (10-year risk > 20%) | < 100 | ≥ 100 | ≥ 130 (100-129: drug optional) Some authorities recommend use of LDL-lowering drugs in this category if an LDL-C level of < 100 mg/dL cannot be achieved by therapeutic lifestyle changes. Others prefer use of drugs that primarily modify triglycerides and HDL-C, e.g., nicotinic acid or fibrate. Clinical judgment also may call for deferring drug therapy in this subcategory. |
+| CHD* or CHD risk equivalents (10-year risk > 20%) | < 100 | ≥ 100 | ≥ 130 (100-129: drug optional) Some authorities recommend use of LDL-lowering drugs in this category if an LDL-C level of < 100 mg/dL cannot be achieved by therapeutic lifestyle changes. Others prefer use of drugs that primarily modify triglycerides and HDL-C, e.g., nicotinic acid or fibrate. Clinical judgment also may call for deferring drug therapy in this subcategory. |
 | 2+ Risk Factors (10-year risk ≤ 20%) | < 130 | ≥ 130 | 10-year risk 10%- 20%: ≥ 130 10-year risk < 10%: ≥ 160 |
 | 0 to 1 Risk FactorAlmost all people with 0 to 1 risk factor have 10-year risk < 10 %; thus, 10-year risk assessment in people with 0 to 1 risk factor is not necessary. | < 160 | ≥ 160 | ≥ 190 (160-189: LDL-lowering drug optional) |
 

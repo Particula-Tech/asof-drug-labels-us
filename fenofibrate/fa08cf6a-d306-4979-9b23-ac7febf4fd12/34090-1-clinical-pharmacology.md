@@ -141,7 +141,6 @@ Table 1 Mean Percent Change in Lipid Parameters at End of TreatmentDuration of s
 | Placebo (n=116) | -3.0% | -6.6% | +2.3% | +0.9% |
 
 In a subset of the subjects, measurements of apo B were conducted.
-
 Fenofibrate tablets treatment significantly reduced apo B from baseline to endpoint as compared with placebo (-25.1% vs. 2.4%, p<0.0001, n=213 and 143 respectively).
 
 ### Hypertriglyceridemia (Fredrickson Type IV and V)

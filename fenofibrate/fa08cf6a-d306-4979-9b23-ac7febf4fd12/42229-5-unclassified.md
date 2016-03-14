@@ -1,6 +1,8 @@
 Rx only
 
-Dist. by: Global Pharmaceuticals Division of IMPAX Laboratories, Inc. Philadelphia, PA 19124 USA
+Dist. by: Impax Generics
+
+Hayward, CA 94544
 
 Rev.
-03/11 295-08
+10/2015 295-09
