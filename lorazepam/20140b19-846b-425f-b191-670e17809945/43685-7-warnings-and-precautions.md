@@ -1,6 +1,6 @@
 # WARNINGS
 
-Use in Status Epilepticus
+## Use in Status Epilepticus
 
 Management of Status Epilepticus
 
@@ -34,7 +34,7 @@ Excessive Sedation
 
 Because of its prolonged duration of action, the prescriber should be alert to the possibility, especially when multiple doses have been given, that the sedative effects of lorazepam may add to the impairment of consciousness seen in the post-ictal state.
 
-Preanesthetic Use
+## Preanesthetic Use
 
 AIRWAY OBSTRUCTION MAY OCCUR IN HEAVILY SEDATED PATIENTS.
 INTRAVENOUS LORAZEPAM AT ANY DOSE, WHEN GIVEN EITHER ALONE OR IN COMBINATION WITH OTHER DRUGS ADMINISTERED DURING ANESTHESIA, MAY PRODUCE HEAVY SEDATION; THEREFORE, EQUIPMENT NECESSARY TO MAINTAIN A PATENT AIRWAY AND TO SUPPORT RESPIRATION/VENTILATION SHOULD BE AVAILABLE.
@@ -50,7 +50,7 @@ As with all central-nervous-system depressant drugs, care should be exercised in
 
 There is no added beneficial effect from the addition of scopolamine to injectable lorazepam, and their combined effect may result in an increased incidence of sedation, hallucination, and irrational behavior.
 
-General (All Uses)
+## General (All Uses)
 
 PRIOR TO INTRAVENOUS USE, LORAZEPAM INJECTION MUST BE DILUTED WITH AN EQUAL AMOUNT OF COMPATIBLE DILUENT (SEE DOSAGE AND ADMINISTRATION).
 INTRAVENOUS INJECTION SHOULD BE MADE SLOWLY AND WITH REPEATED ASPIRATION.
@@ -60,7 +60,7 @@ IN THE EVENT THAT A PATIENT COMPLAINS OF PAIN DURING INTENDED INTRAVENOUS INJECT
 Since the liver is the most likely site of conjugation of lorazepam and since excretion of conjugated lorazepam (glucuronide) is a renal function, this drug is not recommended for use in patients with hepatic and/or renal failure.
 Lorazepam should be used with caution in patients with mild-to-moderate hepatic or renal disease (see DOSAGE AND ADMINISTRATION).
 
-Pregnancy
+## Pregnancy
 
 LORAZEPAM MAY CAUSE FETAL DAMAGE WHEN ADMINISTERED TO PREGNANT WOMEN.
 Ordinarily, Lorazepam Injection should not be used during pregnancy except in serious or life-threatening conditions where safer drugs cannot be used or are ineffective.
@@ -79,7 +79,7 @@ The possibility that a woman of childbearing potential may be pregnant at the ti
 There are insufficient data regarding obstetrical safety of parenteral lorazepam, including use in cesarean section.
 Such use, therefore, is not recommended.
 
-Endoscopic Procedures
+## Endoscopic Procedures
 
 There are insufficient data to support the use of lorazepam injection for outpatient endoscopic procedures.
 Inpatient endoscopic procedures require adequate recovery room observation time.
@@ -97,7 +97,7 @@ Extreme caution must be used when administering lorazepam to elderly patients, v
 Resuscitative equipment for ventilatory support should be readily available.
 (See WARNINGS and DOSAGE AND ADMINISTRATION.)
 
-When lorazepam injection is used IV as the premedicant prior to regional or local anesthesia, the possibility of excessive sleepiness or drowsiness may interfere with patient cooperation in determining levels of anesthesia.
+When lorazepam injection is used intravenous as the premedicant prior to regional or local anesthesia, the possibility of excessive sleepiness or drowsiness may interfere with patient cooperation in determining levels of anesthesia.
 This is most likely to occur when greater than 0.05 mg/kg is given and when narcotic analgesics are used concomitantly with the recommended dose.
 (See ADVERSE REACTIONS.)
 

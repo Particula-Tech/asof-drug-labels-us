@@ -7,7 +7,7 @@ Attachment to the specific binding site enhances the affinity of GABA for its re
 The pharmacodynamic consequences of benzodiazepine agonist actions include antianxiety effects, sedation, and reduction of seizure activity.
 The intensity of action is directly related to the degree of benzodiazepine receptor occupancy.
 
-Effects in Pre-Operative Patients
+## Effects in Pre-Operative Patients
 
 Intravenous or intramuscular administration of the recommended dose of 2 mg to 4 mg of lorazepam injection to adult patients is followed by dose-related effects of sedation (sleepiness or drowsiness), relief of preoperative anxiety, and lack of recall of events related to the day of surgery in the majority of patients.
 The clinical sedation (sleepiness or drowsiness) thus noted is such that the majority of patients are able to respond to simple instructions whether they give the appearance of being awake or asleep.
@@ -19,7 +19,7 @@ The intended effects of the recommended adult dose of lorazepam injection usuall
 In rare instances and where patients received greater than the recommended dose, excessive sleepiness and prolonged lack of recall were noted.
 As with other benzodiazepines, unsteadiness, enhanced sensitivity to CNS-depressant effects of ethyl alcohol and other drugs were noted in isolated and rare cases for greater than 24 hours.
 
-Physiologic Effects in Healthy Adults
+## Physiologic Effects in Healthy Adults
 
 Studies in healthy adult volunteers reveal that intravenous lorazepam in doses up to 3.5 mg/70 kg does not alter sensitivity to the respiratory stimulating effect of carbon dioxide and does not enhance the respiratory depressant effects of doses of meperidine up to 100 mg/70 kg (also determined by carbon dioxide challenge) as long as patients remain sufficiently awake to undergo testing.
 Upper airway obstruction has been observed in rare instances where the patient received greater than the recommended dose and was excessively sleepy and difficult to arouse.
@@ -32,7 +32,7 @@ Studies in six (6) healthy young adults who received lorazepam injection and no 
 Similar findings were noted with pentobarbital, 150 and 75 mg.
 Although this study showed that both lorazepam and pentobarbital interfered with eye-hand coordination, the data are insufficient to predict when it would be safe to operate a motor vehicle or engage in a hazardous occupation or sport.
 
-Pharmacokinetics and Metabolism
+## Pharmacokinetics and Metabolism
 
 Absorption
 
@@ -44,7 +44,7 @@ Intramuscular
 
 Following intramuscular administration, lorazepam is completely and rapidly absorbed reaching peak concentrations within 3 hours.
 A 4-mg dose provides a Cmax of approximately 48 ng/mL.
-Following administration of 1.5 to 5 mg of lorazepam IM, the amount of lorazepam delivered to the circulation is proportional to the dose administered.
+Following administration of 1.5 to 5 mg of lorazepam intramuscular, the amount of lorazepam delivered to the circulation is proportional to the dose administered.
 
 Distribution/Metabolism/Elimination
 
@@ -59,7 +59,7 @@ Following a single 2-mg oral dose of 14C-lorazepam to 8 healthy subjects, 88 ± 
 The percent of administered dose recovered in urine as lorazepam-glucuronide was 74 ± 4%.
 Only 0.3% of the dose was recovered as unchanged lorazepam, and the remainder of the radioactivity represented minor metabolites.
 
-Special Populations
+## Special Populations
 
 Effect of Age
 
@@ -123,3 +123,29 @@ This prediction is supported by the observation that following a single 2 mg int
 Effect of Smoking
 
 Administration of a single 2 mg intravenous dose of lorazepam showed that there was no difference in any of the pharmacokinetic parameters of lorazepam between cigarette smokers (n=10, mean=31 cigarettes per day) and nonsmoking subjects (n=10) who were matched for age, weight, and gender.
+
+## Clinical Studies
+
+The effectiveness of Lorazepam Injection in status epilepticus was established in two multi-center controlled trials in 177 patients.
+With rare exceptions, patients were between 18 and 65 years of age.
+More than half the patients in each study had tonic-clonic status epilepticus; patients with simple partial and complex partial status epilepticus comprised the rest of the population studied, along with a smaller number of patients who had absence status.
+
+One study (n=58) was a double-blind active-control trial comparing lorazepam and diazepam.
+Patients were randomized to receive lorazepam 2 mg intravenous (with an additional 2 mg intravenous if needed) or diazepam 5 mg intravenous (with an additional 5 mg intravenous if needed).
+The primary outcome measure was a comparison of the proportion of responders in each treatment group, where a responder was defined as a patient whose seizures stopped within 10 minutes after treatment and who continued seizure-free for at least an additional 30 minutes.
+Twenty-four of the 30 (80%) patients were deemed responders to lorazepam and 16/28 (57%) patients were deemed responders to diazepam (p=0.04).
+Of the 24 lorazepam responders, 23 received both 2 mg infusions.
+
+Non-responders to lorazepam 4 mg were given an additional 2 to 4 mg lorazepam; non-responders to diazepam 10 mg were given an additional 5 to 10 mg diazepam.
+After this additional dose administration, 28/30 (93%) of patients randomized to lorazepam and 24/28 (86%) of patients randomized to diazepam were deemed responders, a difference that was not statistically significant.
+
+Although this study provides support for the efficacy of lorazepam as the treatment for status epilepticus, it cannot speak reliably or meaningfully to the comparative performance of either diazepam or lorazepam under the conditions of actual use.
+
+A second study (n=119) was a double-blind dose-comparison trial with 3 doses of Lorazepam Injection: 1 mg, 2 mg, and 4 mg.
+Patients were randomized to receive one of the three doses of lorazepam.
+The primary outcome and definition of responder were as in the first study.
+Twenty-five of 41 patients (61%) responded to 1 mg lorazepam; 21/37 patients (57%) responded to 2 mg lorazepam; and 31/41 (76%) responded to 4 mg lorazepam.
+The p-value for a statistical test of the difference between the lorazepam 4 mg dose group and the lorazepam 1 mg dose group was 0.08 (two-sided).
+Data from all randomized patients were used in this test.
+
+Although analyses failed to detect an effect of age, sex, or race on the effectiveness of lorazepam in status epilepticus, the numbers of patients evaluated were too few to allow a definitive conclusion about the role these factors may play.

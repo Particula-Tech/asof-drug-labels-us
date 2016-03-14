@@ -4,22 +4,26 @@ Lorazepam Injection, USP is available as:
 
 | NDC No. | Container | Concentration | Fill | Quantity |
 | --- | --- | --- | --- | --- |
-| 0409-1539-31 | Carpuject with Luer Lock | 4 mg/mL | 1 mL | Box of 10 |
-| 0409-1985-30 | Carpuject with Luer Lock | 2 mg/mL | 1 mL | Box of 10 |
+| 0409-1539-31 | Carpuject™, Single-dose cartridge with Luer Lock for the Carpuject Syringe System | 4 mg/mL | 1 mL | Box of 10 |
+| 0409-1985-30 | Carpuject™, Single-dose cartridge with Luer Lock for the Carpuject Syringe System | 2 mg/mL | 1 mL | Box of 10 |
 
-Directions for Dilution for IV use.
+Instructions for Use of the Syringe Systems
 
-1. Carpuject®: Extrude the entire amount of air in the partially-filled cartridge.
-2. Slowly aspirate the desired volume of diluent.
+Instructions for using the Carpuject Syringe are available with the reusable Carpuject Holder, List 2049-02.
+
+Directions for Dilution for intravenous use.
+
+1. 1.Carpuject™: Extrude the entire amount of air in the partially-filled cartridge.
+2. 2.Slowly aspirate the desired volume of diluent.
    Do not exceed the volume of the drug.
-3. Do not add additional medication to the syringe.
-4. Pull back slightly on the plunger to provide additional mixing space.
-5. Immediately mix contents thoroughly by gently inverting syringe or cartridge repeatedly until a homogenous solution results.
+3. 3.Do not add additional medication to the syringe.
+4. 4.Pull back slightly on the plunger to provide additional mixing space.
+5. 5.Immediately mix contents thoroughly by gently inverting syringe or cartridge repeatedly until a homogenous solution results.
    Do not shake vigorously, as this will result in air entrapment.
 
-For IM use.
+For intramuscular use.
 
-For IV route, see directions.
+For intravenous route, see directions.
 
 To prevent needle-stick injuries, needles should not be recapped, purposely bent, or broken by hand.
 
@@ -28,8 +32,8 @@ Use carton to protect contents from light.
 
 Keep in a refrigerator 2° to 8°C (36° to 46°F).
 
-Revised: December, 2008
+Revised: 12/2015
 
-Printed in USA EN-1983
+EN-4139
 
 Hospira, Inc., Lake Forest, IL 60045 USA

@@ -1,3 +1,3 @@
-CIV
+Lorazepam Injection, USP
 
 Rx only

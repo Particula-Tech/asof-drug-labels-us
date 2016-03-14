@@ -4,7 +4,7 @@ Lorazepam must never be used without individualization of dosage particularly wh
 
 EQUIPMENT NECESSARY TO MAINTAIN A PATENT AIRWAY SHOULD BE IMMEDIATELY AVAILABLE PRIOR TO INTRAVENOUS ADMINISTRATION OF LORAZEPAM (see WARNINGS).
 
-Status Epilepticus
+## Status Epilepticus
 
 General Advice
 
@@ -32,14 +32,14 @@ An intravenous infusion should be started, vital signs should be monitored, an u
 
 Intramuscular Injection
 
-IM lorazepam is not preferred in the treatment of status epilepticus because therapeutic lorazepam levels may not be reached as quickly as with IV administration.
-However, when an intravenous port is not available, the IM route may prove useful (see CLINICAL PHARMACOLOGY: Pharmacokinetics and Metabolism).
+Intramuscular lorazepam is not preferred in the treatment of status epilepticus because therapeutic lorazepam levels may not be reached as quickly as with intravenous administration.
+However, when an intravenous port is not available, the intramuscular route may prove useful (see CLINICAL PHARMACOLOGY: Pharmacokinetics and Metabolism).
 
 Pediatric
 
 The safety of lorazepam in pediatric patients has not been established.
 
-Preanesthetic
+## Preanesthetic
 
 Intramuscular Injection
 
@@ -60,7 +60,7 @@ For optimum effect, measured as lack of recall, intravenous lorazepam should be 
 
 There are insufficient data to support efficacy or make dosage recommendations for intravenous lorazepam in patients less than 18 years of age; therefore, such use is not recommended.
 
-Dose Administration in Special Populations
+## Dose Administration in Special Populations
 
 Elderly Patients and Patients with Hepatic Disease
 
@@ -77,7 +77,7 @@ The dose of lorazepam should be reduced by 50% when coadministered with probenec
 
 It may be necessary to increase the dose of lorazepam in female patients who are concomitantly taking oral contraceptives.
 
-Administration
+## Administration
 
 When given intramuscularly, Lorazepam Injection, undiluted, should be injected deep in the muscle mass.
 
