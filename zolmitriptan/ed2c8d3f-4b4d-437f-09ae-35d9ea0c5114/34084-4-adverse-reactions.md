@@ -17,7 +17,7 @@ In actual clinical practice or in other clinical trials, these frequency estimat
 
 Several of the adverse events appear dose related, notably paresthesia, sensation of heaviness or tightness in chest, neck, jaw, and throat, dizziness, somnolence, and possibly asthenia and nausea.
 
-Table 2: Adverse Experience Incidence in Five Placebo-Controlled Migraine Clinical Trials: Events Reported By ≥ 2% Patients Treated With ZOMIG Tablets
+1. Table 2: Adverse Experience Incidence in Five Placebo-Controlled Migraine Clinical Trials: Events Reported By ≥ 2% Patients Treated With ZOMIG Tablets
 
 | Adverse Event Type | Placebo(n=401) | ZOMIG1 mg(n=163) | ZOMIG2.5 mg(n=498) | ZOMIG5 mg(n=1012) |
 | --- | --- | --- | --- | --- |

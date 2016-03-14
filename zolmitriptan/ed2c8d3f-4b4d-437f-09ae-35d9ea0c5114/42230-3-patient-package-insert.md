@@ -30,9 +30,10 @@ This medicine was prescribed for you to treat your particular condition and shou
 - The Purpose of Your Medicine: ZOMIG Tablets are intended to relieve your migraine, but not to prevent or reduce the number of attacks you experience.
   Use ZOMIG Tablets only to treat an actual migraine attack.
 - Important Questions to Consider Before Taking ZOMIG Tablets: If the answer to any of the following questions is YES or if you do not know the answer, then you must discuss it with your doctor before you use ZOMIG Tablets.
-  1. •Do you have any chest pain, heart disease, shortness of breath, or irregular heartbeats?
-     Have you had a heart attack?
 
+- 
+  - 1.Do you have any chest pain, heart disease, shortness of breath, or irregular heartbeats?
+    Have you had a heart attack?
 - The Use of ZOMIG Tablets During Pregnancy: Do not use ZOMIG Tablets if you are pregnant, think you might be pregnant, are trying to become pregnant, or are not using adequate contraception, unless you have discussed this with your doctor.
 - How to Use ZOMIG Tablets and ZOMIG-ZMT Orally Disintegrating Tablets: Adults should be started on a 2.5 mg dose or lower administered by mouth.
   A dose lower than 2.5 mg can be achieved by manually breaking the conventional film-coated, scored 2.5 mg tablet in half.
@@ -42,24 +43,24 @@ This medicine was prescribed for you to treat your particular condition and shou
   Do not take more than a total of 10 mg of ZOMIG in any 24-hour period.
   Discard any unused tablets or its portion that have been removed from the blister packaging.
   Do not take ZOMIG with any other drug in the same class (triptans) within 24 hours or within 24 hours of taking ergotamine-type medications such as ergotamine, dihydroergotamine or methysergide to treat your migraine.
-- 1.Additionally for ZOMIG-ZMT Tablets, the blister pack should be peeled open and the orally disintegrating tablet placed on the tongue, where it will dissolve and be swallowed with the saliva.
+- •Additionally for ZOMIG-ZMT Tablets, the blister pack should be peeled open and the orally disintegrating tablet placed on the tongue, where it will dissolve and be swallowed with the saliva.
 - Side Effects to Watch for:
-  1. Some patients experience pain or tightness in the chest or throat, including muscle aches and pains, when using ZOMIG.
-     If this happens to you, then discuss it with your doctor before using any more ZOMIG.
-     If the chest pain is severe or does not go away, call your doctor immediately.
-     As with other drugs in this class (triptans), there have been very rare reports of heart attack occurring in patients with and without risk factors for heart and blood vessel disease.
-  2. Some people experience: alterations of heart rate; temporary increase in blood pressure; sudden and severe stomach pain.
-     Call your doctor immediately if you have any of these symptoms after taking ZOMIG.
-  3. Shortness of breath; wheeziness; heart throbbing; swelling of eyelids, face, or lips; or a skin rash, skin lumps, or hives happens rarely.
-     If it happens to you, then tell your doctor immediately.
-     Do not take any more ZOMIG unless your doctor tells you to do so.
-  4. Some people may have feelings of dry mouth, tingling, heat, heaviness, or pressure after treatment with ZOMIG.
-     A few people may feel drowsy, dizzy, tired, or sick.
-     Tell your doctor immediately if you have symptoms that you do not understand.
-  5. Some people may have a reaction called serotonin syndrome, which can be life-threatening, when they use ZOMIG.
-     In particular, this reaction may occur when they use ZOMIG together with certain types of antidepressants known as SSRIs or SNRIs.
-     Symptoms may include confusion, hallucinations, fast heart beat, feeling faint, fever, sweating, muscle spasm, difficulty walking, and/or diarrhea.
-     Call your doctor immediately if you have any of these symptoms after taking ZOMIG.
+- Some patients experience pain or tightness in the chest or throat, including muscle aches and pains, when using ZOMIG.
+  If this happens to you, then discuss it with your doctor before using any more ZOMIG.
+  If the chest pain is severe or does not go away, call your doctor immediately.
+  As with other drugs in this class (triptans), there have been very rare reports of heart attack occurring in patients with and without risk factors for heart and blood vessel disease.
+- Some people experience: alterations of heart rate; temporary increase in blood pressure; sudden and severe stomach pain.
+  Call your doctor immediately if you have any of these symptoms after taking ZOMIG.
+- Shortness of breath; wheeziness; heart throbbing; swelling of eyelids, face, or lips; or a skin rash, skin lumps, or hives happens rarely.
+  If it happens to you, then tell your doctor immediately.
+  Do not take any more ZOMIG unless your doctor tells you to do so.
+- Some people may have feelings of dry mouth, tingling, heat, heaviness, or pressure after treatment with ZOMIG.
+  A few people may feel drowsy, dizzy, tired, or sick.
+  Tell your doctor immediately if you have symptoms that you do not understand.
+- Some people may have a reaction called serotonin syndrome, which can be life-threatening, when they use ZOMIG.
+  In particular, this reaction may occur when they use ZOMIG together with certain types of antidepressants known as SSRIs or SNRIs.
+  Symptoms may include confusion, hallucinations, fast heart beat, feeling faint, fever, sweating, muscle spasm, difficulty walking, and/or diarrhea.
+  Call your doctor immediately if you have any of these symptoms after taking ZOMIG.
 - What To Do If An Overdose Is Taken: If you have taken more medication than you have been told, contact either your doctor, hospital emergency department, or nearest poison control center immediately.
 - Storing Your Medicine: Keep your medicine in a safe place where children cannot reach it.
   It may be harmful to children.
@@ -82,4 +83,4 @@ AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-Rev 10/08 SIC 30086–06
+1. Rev 10/08 SIC 30086–06

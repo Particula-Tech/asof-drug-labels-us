@@ -109,7 +109,7 @@ The results of these controlled clinical studies are summarized in Table 1.
 Comparisons of drug performance based upon results obtained in different clinical trials are never reliable.
 Because studies are conducted at different times, with different samples of patients, by different investigators, employing different criteria and/or different interpretations of the same criteria, under different conditions (dose, dosing regimen, etc.), quantitative estimates of treatment response and the timing of response may be expected to vary considerably from study to study.
 
-Table 1: Percentage of Patients with Headache Response (Mild or no Headache) 2 Hours Following Treatment (n=number of patients randomized).
+1. Table 1: Percentage of Patients with Headache Response (Mild or no Headache) 2 Hours Following Treatment (n=number of patients randomized).
 
 |  | Placebo | ZOMIG1.0 mg | ZOMIG2.5 mg | ZOMIG5 mg |
 | --- | --- | --- | --- | --- |
