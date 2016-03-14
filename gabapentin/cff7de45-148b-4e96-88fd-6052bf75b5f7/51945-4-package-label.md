@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 100 mg capsule bottle label
+# PRINCIPAL DISPLAY PANEL - 100 mg Capsule Bottle Label
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
@@ -12,7 +12,7 @@ gabapentin capsules
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 300 mg capsule bottle label
+# PRINCIPAL DISPLAY PANEL - 300 mg Capsule Bottle Label
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
@@ -26,7 +26,7 @@ gabapentin capsules
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 400 mg capsule bottle label
+# PRINCIPAL DISPLAY PANEL - 400 mg Capsule Bottle Label
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
@@ -40,7 +40,7 @@ gabapentin capsules
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 600 mg tablet bottle label
+# PRINCIPAL DISPLAY PANEL - 600 mg Tablet Bottle Label
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
@@ -54,7 +54,7 @@ gabapentin tablets
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 800 mg tablet bottle label
+# PRINCIPAL DISPLAY PANEL - 800 mg Tablet Bottle Label
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
