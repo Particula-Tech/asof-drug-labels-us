@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA091032"
+  ],
+  "inn": "irinotecan",
+  "labeler": "West-Ward Pharmaceuticals Corp",
+  "package_ndcs": [
+    "0143-9583-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "irinotecan hydrochloride",
+      "name": "Irinotecan Hydrochloride"
+    }
+  ],
+  "setid": "9c6aa884-750e-4b11-9955-bc7ab6e9c2ad",
+  "source": "dailymed"
+}
