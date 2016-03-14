@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA204548"
+  ],
+  "inn": "budesonide",
+  "labeler": "Teva Pharmaceuticals USA Inc",
+  "package_ndcs": [
+    "0093-6817-45",
+    "0093-6817-73"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "budesonide",
+      "name": "Budesonide"
+    }
+  ],
+  "setid": "d90ffda1-12c7-4726-90e9-64bb103e84b5",
+  "source": "dailymed"
+}
