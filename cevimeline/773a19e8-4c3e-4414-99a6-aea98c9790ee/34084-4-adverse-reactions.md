@@ -22,33 +22,33 @@ The following adverse events associated with muscarinic agonism were observed in
 
 In addition, the following adverse events (≥3% incidence) were reported in the Sjögren’s clinical trials:
 
-| Adverse Event | Cevimeline 30 mg (tid) n*=533 | Placebo (tid) n=164 |
-| --- | --- | --- |
-| Headache | 14.4% | 20.1% |
-| Sinusitis | 12.3% | 10.9% |
-| Upper Respiratory Tract Infection | 11.4% | 9.1% |
-| Dyspepsia | 7.8% | 8.5% |
-| Abdominal Pain | 7.6% | 6.7% |
-| Urinary Tract Infection | 6.1% | 3.0% |
-| Coughing | 6.1% | 3.0% |
-| Pharyngitis | 5.2% | 5.4% |
-| Vomiting | 4.6% | 2.4% |
-| Injury | 4.5% | 2.4% |
-| Back Pain | 4.5% | 4.2% |
-| Rash | 4.3% | 6.0% |
-| Conjunctivitis | 4.3% | 3.6% |
-| Dizziness | 4.1% | 7.3% |
-| Bronchitis | 4.1% | 1.2% |
-| Arthralgia | 3.7% | 1.8% |
-| Surgical Intervention | 3.3% | 3.0% |
-| Fatigue | 3.3% | 1.2% |
-| Pain | 3.3% | 3.0% |
-| Skeletal Pain | 2.8% | 1.8% |
-| Insomnia | 2.4% | 1.2% |
-| Hot Flushes | 2.4% | 0.0% |
-| Rigors | 1.3% | 1.2% |
-| Anxiety | 1.3% | 1.2% |
-| *n is the total number of patients exposed to the dose at any time during the study. |  |  |
+| Adverse Event | Cevimeline 30 mg (tid) n*=533 | Placebo (tid) n=164 |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Headache | 14.4% | 20.1% |  |  |  |
+| Sinusitis | 12.3% | 10.9% |  |  |  |
+| Upper Respiratory Tract Infection | 11.4% | 9.1% |  |  |  |
+| Dyspepsia | 7.8% | 8.5% |  |  |  |
+| Abdominal Pain | 7.6% | 6.7% |  |  |  |
+| Urinary Tract Infection | 6.1% | 3.0% |  |  |  |
+| Coughing | 6.1% | 3.0% |  |  |  |
+| Pharyngitis | 5.2% | 5.4% |  |  |  |
+| Vomiting | 4.6% | 2.4% |  |  |  |
+| Injury | 4.5% | 2.4% |  |  |  |
+| Back Pain | 4.5% | 4.2% |  |  |  |
+| Rash | 4.3% | 6.0% |  |  |  |
+| Conjunctivitis | 4.3% | 3.6% |  |  |  |
+| Dizziness | 4.1% | 7.3% |  |  |  |
+| Bronchitis | 4.1% | 1.2% |  |  |  |
+| Arthralgia | 3.7% | 1.8% |  |  |  |
+| Surgical Intervention | 3.3% | 3.0% |  |  |  |
+| Fatigue | 3.3% | 1.2% |  |  |  |
+| Pain | 3.3% | 3.0% |  |  |  |
+| Skeletal Pain | 2.8% | 1.8% |  |  |  |
+| Insomnia | 2.4% | 1.2% |  |  |  |
+| Hot Flushes | 2.4% | 0.0% |  |  |  |
+| Rigors | 1.3% | 1.2% |  |  |  |
+| Anxiety | 1.3% | 1.2% |  |  |  |
+| *n is the total number of patients exposed to the dose at any time during the study. |  |  |  |  |  |
 
 The following events were reported rarely in treated Sjögren’s patients (<1%): Causal relation is unknown:
 
