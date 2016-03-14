@@ -2,25 +2,51 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [see Warnings and Precautions (5.7)].
-
 Risk Summary
 
-Based on findings in animals, IMBRUVICA can cause fetal harm when administered to a pregnant woman.
+IMBRUVICA, a kinase inhibitor, can cause fetal harm based on findings from animal studies.
+In animal reproduction studies, administration of ibrutinib to pregnant rats and rabbits during the period of organogenesis at exposures up to 2–20 times the clinical doses of 420–560 mg daily produced embryofetal toxicity including malformation [see Data].
 If IMBRUVICA is used during pregnancy or if the patient becomes pregnant while taking IMBRUVICA, the patient should be apprised of the potential hazard to the fetus.
+
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2–4% and 15–20%, respectively.
 
 Animal Data
 
-Ibrutinib was administered orally to pregnant rats during the period of organogenesis at oral doses of 10, 40 and 80 mg/kg/day.
-Ibrutinib at a dose of 80 mg/kg/day was associated with visceral malformations (heart and major vessels) and increased post-implantation loss.
-The dose of 80 mg/kg/day in animals is approximately 14 times the exposure (AUC) in patients with MCL and 20 times the exposure in patients with CLL or WM administered the dose of 560 mg daily and 420 mg daily, respectively.
+Ibrutinib was administered orally to pregnant rats during the period of organogenesis at doses of 10, 40 and 80 mg/kg/day.
+Ibrutinib at a dose of 80 mg/kg/day was associated with visceral malformations (heart and major vessels) and increased resorptions and post-implantation loss.
+The dose of 80 mg/kg/day in rats is approximately 14 times the exposure (AUC) in patients with MCL and 20 times the exposure in patients with CLL or WM administered the dose of 560 mg daily and 420 mg daily, respectively.
 Ibrutinib at doses of 40 mg/kg/day or greater was associated with decreased fetal weights.
-The dose of 40 mg/kg/day in animals is approximately 6 times the exposure (AUC) in patients with MCL administered the dose of 560 mg daily.
+The dose of 40 mg/kg/day in rats is approximately 6 times the exposure (AUC) in patients with MCL administered the dose of 560 mg daily.
 
-## 8.3 Nursing Mothers
+Ibrutinib was also administered orally to pregnant rabbits during the period of organogenesis at doses of 5, 15, and 45 mg/kg/day.
+Ibrutinib at a dose of 15 mg/kg/day or greater was associated with skeletal variations (fused sternebrae) and ibrutinib at a dose of 45 mg/kg/day was associated with increased resorptions and post-implantation loss.
+The dose of 15 mg/kg/day in rabbits is approximately 2.0 times the exposure (AUC) in patients with MCL and 2.8 times the exposure in patients with CLL or WM administered the dose of 560 and 420 mg daily, respectively.
 
-It is not known whether ibrutinib is excreted in human milk.
-Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from IMBRUVICA, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+## 8.2 Lactation
+
+Risk Summary
+
+There is no information regarding the presence of ibrutinib or its metabolites in human milk, the effects on the breastfed infant, or the effects on milk production.
+
+The development and health benefits of breastfeeding should be considered along with the mother's clinical need for IMBRUVICA and any potential adverse effects on the breastfed child from IMBRUVICA or from the underlying maternal condition.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Pregnancy Testing
+
+Verify the pregnancy status of females of reproductive potential prior to initiating IMBRUVICA therapy.
+
+Contraception
+
+Females
+
+Advise females of reproductive potential to avoid pregnancy while taking IMBRUVICA and for up to 1 month after ending treatment.
+If this drug is used during pregnancy or if the patient becomes pregnant while taking this drug, the patient should be informed of the potential hazard to a fetus.
+
+Males
+
+Advise men to avoid fathering a child while receiving IMBRUVICA, and for 1 month following the last dose of IMBRUVICA.
 
 ## 8.4 Pediatric Use
 
@@ -28,39 +54,22 @@ The safety and effectiveness of IMBRUVICA in pediatric patients has not been est
 
 ## 8.5 Geriatric Use
 
-Of the 111 patients treated for MCL, 63% were 65 years of age or older.
-No overall differences in effectiveness were observed between these patients and younger patients.
-Cardiac adverse events (atrial fibrillation and hypertension), infections (pneumonia and cellulitis) and gastrointestinal events (diarrhea and dehydration) occurred more frequently among elderly patients.
+Of the 552 patients in clinical studies of IMBRUVICA, 69% were ≥ 65 years of age, while 24% were ≥75 years of age.
+No overall differences in effectiveness were observed between younger and older patients.
+Grade 3 or higher pneumonia occurred more frequently among older patients treated with IMBRUVICA [see Clinical Studies (14.2)].
 
-Of the 391 patients randomized in Study 2, 61% were ≥ 65 years of age.
-No overall differences in effectiveness were observed between age groups.
-Grade 3 or higher adverse events occurred more frequently among elderly patients treated with IMBRUVICA (61% of patients age ≥ 65 versus 51% of younger patients) [see Clinical Studies (14.2)].
-
-Of the 63 patients treated for WM, 59% were 65 years of age or older.
-No overall differences in effectiveness were observed between these patients and younger patients.
-Cardiac adverse events (atrial fibrillation and hypertension), and infections (pneumonia and urinary tract infection) occurred more frequently among elderly patients.
-
-## 8.6 Renal Impairment
-
-Less than 1% of ibrutinib is excreted renally.
-Ibrutinib exposure is not altered in patients with Creatinine clearance (CLcr) > 25 mL/min.
-There are no data in patients with severe renal impairment (CLcr < 25 mL/min) or patients on dialysis [see Clinical Pharmacology (12.3)].
-
-## 8.7 Hepatic Impairment
+## 8.6 Hepatic Impairment
 
 Ibrutinib is metabolized in the liver.
 In a hepatic impairment study, data showed an increase in ibrutinib exposure.
 Following single dose administration, the AUC of ibrutinib increased 2.7-, 8.2- and 9.8-fold in subjects with mild (Child-Pugh class A), moderate (Child-Pugh class B), and severe (Child-Pugh class C) hepatic impairment compared to subjects with normal liver function.
+
 The safety of IMBRUVICA has not been evaluated in patients with hepatic impairment.
 
 Monitor patients for signs of IMBRUVICA toxicity and follow dose modification guidance as needed.
-It is not recommended to administer IMBRUVICA to patients with moderate or severe hepatic impairment (Child-Pugh classes B and C) [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
+It is not recommended to administer IMBRUVICA to patients with moderate or severe hepatic impairment (Child-Pugh class B and C) [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
 
-## 8.8 Females and Males of Reproductive Potential
+## 8.7 Plasmapheresis
 
-Advise women to avoid becoming pregnant while taking IMBRUVICA because IMBRUVICA can cause fetal harm [see Use in Specific Populations (8.1)].
-
-## 8.9 Plasmapheresis
-
-Management of hyperviscosity in patients with WM may include plasmapheresis before and during treatment with IMBRUVICA.
+Management of hyperviscosity in WM patients may include plasmapheresis before and during treatment with IMBRUVICA.
 Modifications to IMBRUVICA dosing are not required.

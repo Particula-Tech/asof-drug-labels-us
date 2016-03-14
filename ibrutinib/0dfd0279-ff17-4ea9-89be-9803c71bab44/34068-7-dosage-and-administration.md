@@ -18,7 +18,7 @@ The recommended dose of IMBRUVICA for CLL and WM is 420 mg (three 140 mg capsule
 
 ## 2.3 Dose Modifications for Adverse Reactions
 
-Interrupt IMBRUVICA therapy for any Grade 3 or greater non-hematological, Grade 3 or greater neutropenia with infection or fever, or Grade 4 hematological toxicities.
+Interrupt IMBRUVICA therapy for any Grade 3 or greater non-hematological toxicities, Grade 3 or greater neutropenia with infection or fever, or Grade 4 hematological toxicities.
 Once the symptoms of the toxicity have resolved to Grade 1 or baseline (recovery), IMBRUVICA therapy may be reinitiated at the starting dose.
 If the toxicity reoccurs, reduce dose by one capsule (140 mg per day).
 A second reduction of dose by 140 mg may be considered as needed.

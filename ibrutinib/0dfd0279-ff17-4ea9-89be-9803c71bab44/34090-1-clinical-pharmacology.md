@@ -19,12 +19,13 @@ Absorption
 Ibrutinib is absorbed after oral administration with a median Tmax of 1 to 2 hours.
 Ibrutinib exposure increases with doses up to 840 mg.
 The steady-state AUC (mean ± standard deviation) observed in patients at 560 mg is 953 ± 705 ng∙h/mL and in patients at 420 mg is 680 ± 517 ng∙h/mL.
+Absolute bioavailability in fasted condition (n = 8) was 2.9% (90% CI = 2.1 – 3.9) and doubled when combined with a meal.
 Administration with food increased ibrutinib Cmax and AUC by approximately 2 to 4- and 2-fold, respectively, compared with administration of ibrutinib after overnight fasting.
 
 Distribution
 
 Reversible binding of ibrutinib to human plasma protein in vitro was 97.3% with no concentration dependence in the range of 50 to 1000 ng/mL.
-The volume of distribution at steady state (Vd,ss) was 683 L, and the apparent volume of distribution at steady state (Vd,ss/F) was approximately 10000 L.
+The volume of distribution (Vd) was 683 L, and the apparent volume of distribution at steady state (Vd,ss/F) was approximately 10000 L.
 
 Metabolism
 
@@ -54,8 +55,8 @@ Gender does not alter ibrutinib systemic clearance.
 Renal Impairment
 
 Ibrutinib is not significantly cleared renally; urinary excretion of metabolites is < 10% of the dose.
-Creatinine clearance > 25 mL/min had no influence on the exposure to IMBRUVICA.
-There are no data in patients with severe renal impairment (CLcr < 25 mL/min) or in patients on dialysis.
+Creatinine clearance (CrCL) > 25 mL/min had no influence on the exposure to IMBRUVICA.
+There are no data in patients with severe renal impairment (CrCL < 25 mL/min) or in patients on dialysis.
 
 Hepatic Impairment
 
@@ -84,7 +85,7 @@ Both ibrutinib and the PCI-45227 are weak inducers of CYP450 isoenzymes in vitro
 
 Coadministration of Ibrutinib with Substrates of Transporters
 
-In vitro studies indicated that ibrutinib is not a substrate of p-glycoprotein (P-gp).
-Systemic ibrutinib is unlikely to be an inhibitor of P-gp at clinical doses ([I]1/Ki < 0.1).
-However, it may have an effect on P-gp substrates in the GI tract due to higher local concentrations after an oral dose.
-Co-administration of oral narrow therapeutic index P-gp substrates (e.g., digoxin) with IMBRUVICA may increase their blood concentration.
+In vitro studies indicated that ibrutinib is not a substrate of P-gp (p-glycoprotein) or BCRP (breast cancer resistance protein) transporters but is an in vitro inhibitor of P-gp and BCRP.
+Systemic ibrutinib is unlikely to be an inhibitor of P-gp at clinical doses ([I]1/Ki < 0.1) but may inhibit BCRP.
+Ibrutinib may have an effect on P-gp or BCRP substrates in the GI tract due to higher local concentrations after an oral dose.
+Co-administration of oral narrow therapeutic index P-gp or BCRP substrates (e.g., digoxin, methotrexate) with IMBRUVICA may increase their blood concentration.

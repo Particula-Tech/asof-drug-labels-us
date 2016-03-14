@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-Ibrutinib is primarily metabolized by cytochrome P450 enzyme 3A.
+Ibrutinib is primarily metabolized by cytochrome P450 enzyme 3A (CYP3A).
 
 ## 7.1 CYP3A Inhibitors
 
@@ -19,5 +19,5 @@ Avoid grapefruit and Seville oranges during IMBRUVICA treatment, as these contai
 
 Administration of IMBRUVICA with rifampin, a strong CYP3A inducer, decreased ibrutinib Cmax and AUC by approximately 13- and 10-fold, respectively.
 
-Avoid concomitant use of strong CYP3A inducers (e.g., carbamazepine, rifampin, phenytoin and St. John's Wort).
+Avoid concomitant use of strong CYP3A inducers (e.g., carbamazepine, rifampin, phenytoin, and St. John's Wort).
 Consider alternative agents with less CYP3A induction [see Clinical Pharmacology (12.3)].

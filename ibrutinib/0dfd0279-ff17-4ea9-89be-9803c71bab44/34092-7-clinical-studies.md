@@ -11,9 +11,9 @@ At baseline, 39% of subjects had at least one tumor ≥ 5 cm, 49% had bone marro
 IMBRUVICA was administered orally at 560 mg once daily until disease progression or unacceptable toxicity.
 Tumor response was assessed according to the revised International Working Group (IWG) for non-Hodgkin's lymphoma (NHL) criteria.
 The primary endpoint in this study was investigator-assessed overall response rate (ORR).
-Responses to IMBRUVICA are shown in Table 9.
+Responses to IMBRUVICA are shown in Table 10.
 
-Table 9: Overall Response Rate (ORR) and Duration of Response (DOR) Based on Investigator Assessment in Patients with MCL
+Table 10: Overall Response Rate (ORR) and Duration of Response (DOR) Based on Investigator Assessment in Patients with MCL
 
 |  | Total (N=111) |
 | --- | --- |
@@ -36,7 +36,7 @@ The onset of isolated lymphocytosis occurs during the first few weeks of IMBRUVI
 
 ## 14.2 Chronic Lymphocytic Leukemia
 
-The safety and efficacy of IMBRUVICA in patients with CLL who have received at least one prior therapy were demonstrated in one uncontrolled trial and one randomized, controlled trial.
+The safety and efficacy of IMBRUVICA in patients with CLL were demonstrated in one uncontrolled trial and two randomized, controlled trials.
 
 Study 1
 
@@ -55,7 +55,7 @@ The median DOR was not reached.
 
 Study 2
 
-A randomized, multicenter, open-label Phase 3 study of IMBRUVICA versus ofatumumab was conducted in patients with previously treated CLL or SLL.
+A randomized, multi-center, open-label Phase 3 study of IMBRUVICA versus ofatumumab was conducted in patients with previously treated CLL or SLL.
 Patients (n=391) were randomized 1:1 to receive either IMBRUVICA 420 mg daily until disease progression, or unacceptable toxicity or ofatumumab at an initial dose of 300 mg, followed one week later by a dose of 2000 mg weekly for 7 doses and then every 4 weeks for 4 additional doses.
 Fifty seven patients randomized to ofatumumab crossed over following progression to receive IMBRUVICA.
 The median age was 67 years (range, 30 to 88 years), 68% were male, and 90% were Caucasian.
@@ -65,29 +65,27 @@ The median time since diagnosis was 91 months and the median number of prior tre
 At baseline, 58% of patients had at least one tumor ≥ 5 cm.
 Thirty-two percent of patients had 17p deletion.
 
-Progression free survival (PFS) as assessed by independent review committee (IRC) according to IWCLL criteria indicated a 78% statistically significant reduction in the risk of death or progression.
-Analysis of overall survival (OS) demonstrated a 57% statistically significant reduction in the risk of death for patients in the IMBRUVICA arm.
-Efficacy results for Study 2 are shown in Table 10 and the Kaplan-Meier curves for PFS and OS are shown in Figures 1 and 2, respectively.
+Efficacy results for Study 2 are shown in Table 11 and the Kaplan-Meier curves for PFS, assessed by independent review committee (IRC) according to IWCLL criteria, and OS are shown in Figures 1 and 2, respectively.
 
-Table 10: Efficacy Results in Study 2
+Table 11: Efficacy Results in Study 2
 
 | Endpoint | IMBRUVICA N=195 | Ofatumumab N=196 |
 | --- | --- | --- |
-| Progression Free Survival |  |  |
+| Progression Free SurvivalIRC evaluated. All partial responses achieved; none of the patients achieved a complete response. |  |  |
 | Number of events (%) | 35 (17.9) | 111 (56.6) |
-| Median (95% CI), months | Not reached | 8.1 (7.2, 8.3) |
+| Disease progression | 26 | 93 |
+| Death events | 9 | 18 |
+| Median (95% CI), months | NR | 8.1 (7.2, 8.3) |
 | HR (95% CI) | 0.22 (0.15, 0.32) |  |
 | Overall SurvivalMedian OS not reached for either arm |  |  |
-| Number of death (%) | 16 (8.2) | 33 (16.8) |
+| Number of deaths (%) | 16 (8.2) | 33 (16.8) |
 | HR (95% CI) | 0.43 (0.24, 0.79) |  |
-| Overall Response RateIRC evaluated. All partial responses achieved; none of the patients achieved a complete response. | 42.6% | 4.1% |
-| HR = hazard ratio |  |  |
+| Overall Response Rate | 42.6% | 4.1% |
+| CI = confidence interval; HR = hazard ratio; NR = not reached |  |  |
 
-| Figure 1: Kaplan-Meier Curve of Progression-Free Survival (ITT Population) in Study 2 |
-| --- |
+Figure 1: Kaplan-Meier Curve of Progression Free Survival (ITT Population) in Study 2
 
-| Figure 2: Kaplan-Meier Curve of Overall Survival (ITT Population) in Study 2 |
-| --- |
+Figure 2: Kaplan-Meier Curve of Overall Survival (ITT Population) in Study 2
 
 CLL with 17p deletion (del 17p CLL)
 
@@ -95,23 +93,54 @@ Study 2 included 127 patients with del 17p CLL.
 The median age was 67 years (range, 30 to 84 years), 62% were male, and 88% were Caucasian.
 All patients had a baseline ECOG performance status of 0 or 1.
 PFS and ORR were assessed by IRC.
-Efficacy results for del 17p CLL are shown in Table 11.
+Efficacy results for del 17p CLL are shown in Table 12.
 
-Table 11: Efficacy Results in Patients with del 17p CLL
+Table 12: Efficacy Results in Patients with del 17p CLL
 
 | Endpoint | IMBRUVICA N=63 | Ofatumumab N=64 |
 | --- | --- | --- |
 | Progression Free Survival |  |  |
 | Number of events (%) | 16 (25.4) | 38 (59.4) |
-| Median (95% CI), months | Not reached | 5.8 (5.3, 7.9) |
+| Disease progression | 12 | 31 |
+| Death events | 4 | 7 |
+| Median (95% CI), months | NR | 5.8 (5.3, 7.9) |
 | HR (95% CI) | 0.25 (0.14, 0.45) |  |
 | Overall Response RateIRC evaluated. All partial responses achieved; none of the patients achieved a complete response. | 47.6% | 4.7% |
-| HR = hazard ratio |  |  |
+| CI = confidence interval; HR = hazard ratio; NR = not reached |  |  |
+
+Study 3
+
+A randomized, multi-center, open-label study of IMBRUVICA versus chlorambucil was conducted in patients with treatment naïve CLL or SLL who were 65 years of age or older.
+Patients (n = 269) were randomized 1:1 to receive either IMBRUVICA 420 mg daily until disease progression or unacceptable toxicity, or chlorambucil at a starting dose of 0.5 mg/kg on Days 1 and 15 of each 28-day cycle for a maximum of 12 cycles, with an allowance for intrapatient dose increases up to 0.8 mg/kg based on tolerability.
+After confirmed progression, patients on chlorambucil were able to crossover to ibrutinib.
+
+The median age was 73 years (range, 65 to 90 years), 63% were male, and 91% were Caucasian.
+Ninety one percent of patients had a baseline ECOG performance status of 0 or 1 and 9% had an ECOG performance status of 2.
+The trial enrolled 249 patients with CLL and 20 patients with SLL.
+At baseline, 20% of patients had 11q deletion.
+The most common reasons for initiating CLL therapy include: progressive marrow failure demonstrated by anemia and/or thrombocytopenia (38%), progressive or symptomatic lymphadenopathy (37%), progressive or symptomatic splenomegaly (30%), fatigue (27%) and night sweats (25%).
+
+Efficacy results for Study 3 are shown in Table 13 and the Kaplan-Meier curve for PFS, assessed by independent review committee (IRC) according to IWCLL criteria is shown in Figure 3.
+
+Table 13: Efficacy Results in Study 3
+
+| Endpoint | IMBRUVICA N=136 | Chlorambucil N=133 |
+| --- | --- | --- |
+| Progression Free SurvivalIRC evaluated; Five subjects (3.7%) in the IMBRUVICA arm and two subjects (1.5%) in the Chlorambucil arm achieved complete response |  |  |
+| Number of events (%) | 15 (11.0) | 64 (48.1) |
+| Disease progression | 12 | 57 |
+| Death events | 3 | 7 |
+| Median (95% CI), months | NR | 18.9 (14.1, 22.0) |
+| HRHR = hazard ratio; NR = not reached (95% CI) | 0.161 (0.091, 0.283) |  |
+| Overall Response Rate (CR + PR) | 82.4% | 35.3% |
+| P-value | <0.0001 |  |
+
+Figure 3: Kaplan-Meier Curve of Progression-Free Survival (ITT Population) in Study 3
 
 Lymphocytosis
 
-Upon initiation of IMBRUVICA, an increase in lymphocyte counts (i.e., ≥ 50% increase from baseline and above absolute lymphocyte count of 5,000/mcL) occurred in 77% of patients in the CLL study.
-The onset of isolated lymphocytosis occurs during the first month of IMBRUVICA therapy and resolves by a median of 23 weeks (range 1 – 104+ weeks).
+Upon initiation of IMBRUVICA, an increase in lymphocyte counts (i.e., ≥ 50% increase from baseline and above absolute lymphocyte count of 5,000/mcL) occurred in 66% of patients in the CLL studies.
+The onset of isolated lymphocytosis occurs during the first month of IMBRUVICA therapy and resolves by a median of 14 weeks (range, 0.1 to 104 weeks).
 
 ## 14.3 Waldenström's Macroglobulinemia
 
@@ -123,9 +152,9 @@ At baseline, the median serum IgM value was 3.5 g/dL (range, 0.7 to 8.4 g/dL).
 
 IMBRUVICA was administered orally at 420 mg once daily until disease progression or unacceptable toxicity.
 The responses were assessed by investigators and an Independent Review Committee (IRC) using criteria adopted from the International Workshop of Waldenström's Macroglobulinemia.
-Responses, defined as partial response or better, per IRC are shown in Table 12.
+Responses, defined as partial response or better, per IRC are shown in Table 14.
 
-Table 12: Response Rate and Duration of Response Based on IRC Assessment in Patients with WM
+Table 14: Overall Response Rate (ORR) and Duration of Response (DOR) Based on IRC Assessment in Patients with WM
 
 |  | Total (N=63) |
 | --- | --- |
@@ -137,4 +166,4 @@ Table 12: Response Rate and Duration of Response Based on IRC Assessment in Pati
 | Median duration of response, months (range) | NR (2.8+, 18.8+) |
 | CI = confidence interval; NR = not reached |  |
 
-The median time to response was 1.2 months (range: 0.7–13.4 months).
+The median time to response was 1.2 months (range, 0.7–13.4 months).
