@@ -4,11 +4,9 @@ ALWAYS DISPENSE WITH MEDICATION GUIDE
 
 Pfizer NDC 0071-0803-24
 
-Neurontin® (gabapentin)
+Neurontin® (gabapentin) capsules
 
 100 mg
-
-capsules
 
 100 Capsules Rx only
 
@@ -18,35 +16,31 @@ ALWAYS DISPENSE WITH MEDICATION GUIDE
 
 Pfizer NDC 0071-0805-24
 
-Neurontin® (gabapentin)
+Neurontin® (gabapentin) capsules
 
 300 mg
 
-capsules
-
 100 Capsules Rx only
 
-# PRINCIPAL DISPLAY PANEL - 300 mg Blister Pack
+# PRINCIPAL DISPLAY PANEL - 300 mg Capsule Blister Pack
 
 Neurontin® (gabapentin) capsules
 
 300 mg
 
-DISTRIBUTED BY: PARKE-DAVIS DIV OF PFIZER INC, NY, NY 10017 MADE IN INDIA
+DISTRIBUTED BY: PARKE-DAVIS DIV OF PFIZER INC, NY, NY 10017
 
-EXP & LOT AREA
+EXP & LOT AREA As per P.O.
 
-# PRINCIPAL DISPLAY PANEL - 300 mg Capsule Carton
+# PRINCIPAL DISPLAY PANEL - 300 mg Capsule Blister Pack Carton
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
 Pfizer NDC 0071-0805-40
 
-Neurontin® (gabapentin)
+Neurontin® (gabapentin) capsules
 
 300 mg
-
-capsules
 
 For in-institution use only
 
@@ -60,35 +54,31 @@ ALWAYS DISPENSE WITH MEDICATION GUIDE
 
 Pfizer NDC 0071-0806-24
 
-Neurontin® (gabapentin)
+Neurontin® (gabapentin) capsules
 
 400 mg
 
-capsules
-
 100 Capsules Rx only
 
-# PRINCIPAL DISPLAY PANEL - 400 mg Blister Pack
+# PRINCIPAL DISPLAY PANEL - 400 mg Capsule Blister Pack
 
 Neurontin® (gabapentin) capsules
 
 400 mg
 
-DISTRIBUTED BY: PARKE-DAVIS DIV OF PFIZER INC, NY, NY 10017 MADE IN INDIA
+DISTRIBUTED BY: PARKE-DAVIS DIV OF PFIZER INC, NY, NY 10017
 
-EXP & LOT AREA
+EXP & LOT AREA As per P.O.
 
-# PRINCIPAL DISPLAY PANEL - 400 mg Capsule Carton
+# PRINCIPAL DISPLAY PANEL - 400 mg Capsule Blister Pack Carton
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
 Pfizer NDC 0071-0806-40
 
-Neurontin® (gabapentin)
+Neurontin® (gabapentin) capsules
 
 400 mg
-
-capsules
 
 For in-institution use only
 
@@ -102,11 +92,9 @@ ALWAYS DISPENSE WITH MEDICATION GUIDE
 
 Pfizer NDC 0071-0513-24
 
-Neurontin® (gabapentin)
+Neurontin® (gabapentin) tablets
 
 600 mg
-
-tablets
 
 100 Tablets Rx only
 
@@ -116,11 +104,9 @@ ALWAYS DISPENSE WITH MEDICATION GUIDE
 
 Pfizer NDC 0071-0401-24
 
-Neurontin® (gabapentin)
+Neurontin® (gabapentin) tablets
 
 800 mg
-
-tablets
 
 100 Tablets Rx only
 
