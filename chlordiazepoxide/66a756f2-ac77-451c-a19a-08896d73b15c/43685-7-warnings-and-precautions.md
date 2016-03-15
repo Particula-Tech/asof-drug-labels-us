@@ -99,7 +99,7 @@ The possibility of suicide in depressed patients remains until significant remis
 ## Information for Patients
 
 Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with chlordiazepoxide and amitriptyline and should counsel them in its appropriate use.
-A patient Medication Guide about "Antidepressant Medicines, Depression and other Serious Mental Illness and Suicidal Thoughts or Actions" is available for chlordiazepoxide and amitriptyline.
+A patient Medication Guide about “Antidepressant Medicines, Depression and other Serious Mental Illness and Suicidal Thoughts or Actions” is available for chlordiazepoxide and amitriptyline.
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 The complete text of the Medication Guide is reprinted at the end of this document.
@@ -124,13 +124,19 @@ To assure the safe and effective use of benzodiazepines, patients should be info
 
 Patients on prolonged treatment should have periodic liver function tests and blood counts.
 
+## Drug–Drug Interactions
+
+### Topiramate
+
+Some patients may experience a large increase in amitriptyline concentration in the presence of topiramate and any adjustments in amitriptyline dose should be made according to the patient's clinical response and not on the basis of plasma levels.
+
 ## Drug and Treatment Interactions
 
 Because of its amitriptyline component, chlordiazepoxide and amitriptyline hydrochloride may block the antihypertensive action of guanethidine or compounds with a similar mechanism of action.
 
 ## Drugs Metabolized by P450 2D6
 
-The biochemical activity of the drug metabolizing isozyme cytochrome P450 2D6 (debrisoquin hydroxylase) is reduced in a subset of the caucasian population (about 7% to 10% of caucasians are so called "poor metabolizers"); reliable estimates of the prevalence of reduced P450 2D6 isozyme activity among Asian, African, and other populations are not yet available.
+The biochemical activity of the drug metabolizing isozyme cytochrome P450 2D6 (debrisoquin hydroxylase) is reduced in a subset of the caucasian population (about 7% to 10% of caucasians are so called “poor metabolizers”); reliable estimates of the prevalence of reduced P450 2D6 isozyme activity among Asian, African, and other populations are not yet available.
 Poor metabolizers have higher than expected plasma concentrations of tricyclic antidepressants (TCAs) when given usual doses.
 Depending on the fraction of drug metabolized by P450 2D6, the increase in plasma concentration may be small, or quite large (8-fold increase in plasma AUC of the TCA).
 

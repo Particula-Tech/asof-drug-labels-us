@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-Both components of Chlordiazepoxide and Amitriptyline Hydrochloride Tablets, USP exert their action in the central nervous system.
+Both components of chlordiazepoxide and amitriptyline hydrochloride tablets exert their action in the central nervous system.
 Extensive studies with chlordiazepoxide in many animal species suggest action in the limbic system.
 Recent evidence indicates that the limbic system is involved in emotional response.
 Taming action was observed in some species.

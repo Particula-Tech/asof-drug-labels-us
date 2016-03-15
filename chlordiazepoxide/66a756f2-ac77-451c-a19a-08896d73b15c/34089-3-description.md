@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Chlordiazepoxide and Amitriptyline Hydrochloride Tablets, USP combine for oral administration, chlordiazepoxide, an agent for the relief of anxiety and tension, and amitriptyline, an antidepressant.
+Chlordiazepoxide and amitriptyline hydrochloride tablets, USP combine for oral administration, chlordiazepoxide, an agent for the relief of anxiety and tension, and amitriptyline, an antidepressant.
 
 Chlordiazepoxide, USP is a benzodiazepine with the formula 7-chloro-2-(methylamino)-5-phenyl-3H-1,4-benzodiazepine-4-oxide.
 It is a slightly yellow crystalline material and is insoluble in water.

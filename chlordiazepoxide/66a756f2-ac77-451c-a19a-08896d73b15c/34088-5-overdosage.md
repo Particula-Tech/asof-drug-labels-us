@@ -1,9 +1,5 @@
 # OVERDOSAGE*
 
-*Poisindex® Toxicologic Management.
-Topic: Antidepressants, Tricyclic.
-Micromedex Inc. Vol. 85.
-
 Deaths may occur from overdosage with this class of drugs.
 Multiple drug ingestion (including alcohol) is common in deliberate tricyclic antidepressant overdose.
 As the management is complex and changing, it is recommended that the physician contact a poison control center for current information on treatment.
@@ -21,7 +17,7 @@ Other signs of overdose may include: confusion, disturbed concentration, transie
 ### General
 
 Obtain an ECG and immediately initiate cardiac monitoring.
-Protect the patient's airway, establish an intravenous line and initiate gastric decontamination.
+Protect the patient’s airway, establish an intravenous line and initiate gastric decontamination.
 A minimum of 6 hours of observation with cardiac monitoring and observation for signs of CNS or respiratory depression, hypotension, cardiac dysrhythmias and/or conduction blocks, and seizures is necessary.
 If signs of toxicity occur at any time during this period, extended monitoring is required.
 There are case reports of patients succumbing to fatal dysrhythmias late after overdose; these patients had clinical evidence of significant poisoning prior to death and most received inadequate gastrointestinal decontamination.
@@ -60,6 +56,10 @@ Psychiatric referral may be appropriate.
 
 The principles of management of child and adult overdosages are similar.
 It is strongly recommended that the physician contact the local poison control center for specific pediatric treatment.
+
+*Poisindex® Toxicologic Management.
+Topic: Antidepressants, Tricyclic.
+Micromedex Inc. Vol. 85
 
 ### Chlordiazepoxide Overdosage
 
