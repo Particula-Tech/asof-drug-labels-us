@@ -139,5 +139,3 @@ Manufactured by: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
 © Janssen Pharmaceuticals, Inc. 2009
 
 This Patient Information has been approved by the U.S. Food and Drug Administration
-
-Revised: June 2015
