@@ -19,7 +19,6 @@ Table 3: Adverse Reactions from ZOSYN Monotherapy Clinical Trials
 | Vomiting (3.3%) |
 | Dyspepsia (3.3%) |
 | Abdominal pain (1.3%) |
-| Pseudomembranous colitis (≤1%) |
 | General disorders and administration site conditions |
 | Fever (2.4%) |
 | Injection site reaction (≤1%) |
@@ -28,6 +27,7 @@ Table 3: Adverse Reactions from ZOSYN Monotherapy Clinical Trials
 | Anaphylaxis (≤1%) |
 | Infections and infestations |
 | Candidiasis (1.6%) |
+| Pseudomembranous colitis (≤1%) |
 | Metabolism and nutrition disorders |
 | Hypoglycemia (≤1%) |
 | Musculoskeletal and connective tissue disorders |
@@ -35,17 +35,19 @@ Table 3: Adverse Reactions from ZOSYN Monotherapy Clinical Trials
 | Arthralgia (≤1%) |
 | Nervous system disorders |
 | Headache (7.7%) |
+| Psychiatric disorders |
 | Insomnia (6.6%) |
 | Skin and subcutaneous tissue disorders |
 | Rash (4.2%, including maculopapular, bullous, and urticarial) |
 | Pruritus (3.1%) |
+| Purpura (≤1%) |
 | Vascular disorders |
 | Phlebitis (1.3%) |
 | Thrombophlebitis (≤1%) |
 | Hypotension (≤1%) |
-| Purpura (≤1%) |
-| Epistaxis (≤1%) |
 | Flushing (≤1%) |
+| Respiratory, thoracic and mediastinal disorders |
+| Epistaxis (≤1%) |
 
 Nosocomial Pneumonia Trials
 
@@ -91,6 +93,7 @@ Table 4: Adverse Reactions from ZOSYN Plus Aminoglycoside Clinical TrialsFor adv
 | Hypokalemia (≤1%) |
 | Nervous system disorders |
 | Headache (4.5%) |
+| Psychiatric disorders |
 | Insomnia (4.5%) |
 | Renal and urinary disorders |
 | Renal failure (≤1%) |
@@ -128,7 +131,7 @@ Additional laboratory events include abnormalities in electrolytes (i.e., increa
 In addition to the adverse drug reactions identified in clinical trials in Table 3 and Table 4, the following adverse reactions have been identified during post-approval use of ZOSYN.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Gastrointestinal—hepatitis, jaundice
+Hepatobiliary—hepatitis, jaundice
 
 Hematologic—hemolytic anemia, agranulocytosis, pancytopenia
 
@@ -136,7 +139,9 @@ Immune—hypersensitivity reactions, anaphylactic/anaphylactoid reactions (inclu
 
 Renal—interstitial nephritis
 
-Skin and Appendages—erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms (DRESS), acute generalized exanthematous pustulosis (AGEP)
+Respiratory—eosinophilic pneumonia
+
+Skin and Appendages—erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms (DRESS), acute generalized exanthematous pustulosis (AGEP), dermatitis exfoliative
 
 ## 6.3 Additional Experience with piperacillin
 
