@@ -8,4 +8,4 @@ Store at 20°C to 25°C (68°F to 77°F), excursions permitted between 15°C and
 [USP Controlled Room Temperature].
 Protect from prolonged exposure to light.
 
-Manufactured by: Reckitt Benckiser Healthcare (UK) Ltd., Hull, England, HU8 7DS Distributed by: Reckitt Benckiser Pharmaceuticals Inc., REVISED
+Manufactured by: Reckitt Benckiser Healthcare (UK) Ltd., Hull, England, HU8 7DS Distributed by: -Indivior Inc. Richmond VA 23235 Revised - July 2015
