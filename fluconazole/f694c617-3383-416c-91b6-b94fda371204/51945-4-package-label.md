@@ -4,9 +4,7 @@ Pfizer
 
 NDC 0049-3410-30
 
-DIFLUCAN® (Fluconazole Tablets)
-
-50 mg
+DIFLUCAN® (Fluconazole Tablets) 50 mg
 
 30 Tablets Rx only
 
