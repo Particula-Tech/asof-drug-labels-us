@@ -13,11 +13,11 @@ What is the most important information I should know about risedronate sodium ta
 
 Risedronate sodium tablets can cause serious side effects including:
 
-- 1.Esophagus problems
-- 2.Low calcium levels in your blood (hypocalcemia)
-- 3.Severe jaw bone problems (osteonecrosis)
-- 4.Bone, joint, or muscle pain
-- 5.Unusual thigh bone fractures
+1. 1.Esophagus problems
+2. 2.Low calcium levels in your blood (hypocalcemia)
+3. 3.Severe jaw bone problems (osteonecrosis)
+4. 4.Bone, joint, or muscle pain
+5. 5.Unusual thigh bone fractures
 
 1.
 Esophagus problems.
