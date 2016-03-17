@@ -32,7 +32,7 @@ Clindamycin phosphate should be prescribed with caution in atopic individuals.
 Drug Interactions: Clindamycin has been shown to have neuromuscular blocking properties that may enhance the action of other neuromuscular blocking agents.
 Therefore it should be used with caution in patients receiving such agents.
 
-Pregnancy:Teratogenic Effects—Pregnancy Category B. In clinical trials with pregnant women, the systemic administration of clindamycin during the second and third trimesters has not been associated with an increased frequency of congenital abnormalities.
+Pregnancy: Teratogenic Effects—Pregnancy Category B. In clinical trials with pregnant women, the systemic administration of clindamycin during the second and third trimesters has not been associated with an increased frequency of congenital abnormalities.
 There are no adequate studies in pregnant women during the first trimester of pregnancy.
 Clindamycin should be used during the first trimester of pregnancy only if clearly needed.
 

@@ -4,9 +4,9 @@ In 18 clinical studies of various formulations of clindamycin phosphate using pl
 
 Number of Patients Reporting Events
 
-| Treatment Emergent Adverse Event | Solution |  |  | Gel |  |  | Lotion |  |
+| Treatment Emergent | Solution |  |  | Gel |  |  | Lotion |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | n=553 | (%) |  | n=148 | (%) |  | n=160 | (%) |
+| Adverse Event | n=553 | (%) |  | n=148 | (%) |  | n=160 | (%) |
 | Burning | 62 | (11) |  | 15 | (10) |  | 17 | (11) |
 | Itching | 36 | (7) |  | 15 | (10) |  | 17 | (11) |
 | Burning/Itching | 60 | (11) |  | # | (–) |  | # | (–) |
