@@ -32,14 +32,16 @@ If more than one topical ophthalmic drug is being used, the drugs should be admi
 
 Manufactured By:
 
-Bausch & Lomb Incorporated
+Bausch + Lomb, a division of
 
-Tampa, Florida 33637
+Valeant Pharmaceuticals North America LLC
 
-© Bausch & Lomb Incorporated
+Bridgewater, NJ 08807 USA
 
-Revised: February 2015
+©Bausch & Lomb Incorporated
 
-9144705 (folded)
+Revised: January 2016
 
-9144805 (flat)
+9144706 (folded)
+
+9144806 (flat)
