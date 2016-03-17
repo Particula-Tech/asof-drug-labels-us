@@ -102,11 +102,8 @@ Sit and stand up slowly after you have been sitting or lying down.
   Some people who take certain medicines to treat Parkinson’s disease, including pramipexole dihydrochloride tablets, have reported problems, such as gambling, compulsive eating, compulsive buying, and increased sex drive.
   If you or your family members notice that you are developing unusual urges or behaviors, talk to your doctor.
 - •hallucinations and other psychotic-like behavior (seeing visions, hearing sounds or feeling sensations that are not real, confusion, excessive suspicion, aggressive behavior, agitation, delusional beliefs and disorganized thinking).
-  Your chance of having hallucinations and other psychotic-like behavior is higher if you are elderly (age 65 or older).If you have hallucinations or other psychotic-like changes, talk with your doctor right away.uncontrolled sudden movements (dyskinesia)If you have new dyskinesia or your existing dyskinesia gets worse tell your doctor.
-- •uncontrolled sudden movements (dyskinesia)If you have new dyskinesia or your existing dyskinesia gets worse tell your doctor.skin cancer (melanoma).
-  Some people with Parkinson’s disease may have a higher chance of having melanoma than people who do not have Parkinson’s disease.
-  It is not known if the chance of having melanoma is higher because of the medicines to treat Parkinson’s disease, like pramipexole dihydrochloride tablets, or from the Parkinson’s disease.
-  People who take pramipexole dihydrochloride tablets should have regular skin examinations to check for melanoma.
+  Your chance of having hallucinations and other psychotic-like behavior is higher if you are elderly (age 65 or older).If you have hallucinations or other psychotic-like changes, talk with your doctor right away.
+- •uncontrolled sudden movements (dyskinesia)If you have new dyskinesia or your existing dyskinesia gets worse tell your doctor.
 - •skin cancer (melanoma).
   Some people with Parkinson’s disease may have a higher chance of having melanoma than people who do not have Parkinson’s disease.
   It is not known if the chance of having melanoma is higher because of the medicines to treat Parkinson’s disease, like pramipexole dihydrochloride tablets, or from the Parkinson’s disease.
@@ -168,4 +165,4 @@ Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
 Questions?
 1 (888)721-7115 www.glenmarkpharma.com/usa
 
-April 2015
+January 2016

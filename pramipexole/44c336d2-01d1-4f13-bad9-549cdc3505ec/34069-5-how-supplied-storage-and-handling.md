@@ -16,6 +16,10 @@ Bottles of 90 NDC 68462-331-90 Bottles of 500 NDC 68462-331-05 Unit dose pack of
 
 Bottles of 90 NDC 68462-332-90 Bottles of 500 NDC 68462-332-05 Unit dose pack of 100 (10 x 10) NDC 68462-332-11
 
+0.75 mg: oval, white, flat beveled uncoated tablets engraved with ‘PX’ and ‘5’ on one side and plain on other side.
+
+Bottles of 90 NDC 68462-627-90 Bottles of 500 NDC 68462-627-05
+
 1 mg: oval, white, flat beveled tablets engraved with ‘PX’ and ‘3’ on either side of the breakline on one side and breakline on the other side.
 
 Bottles of 90 NDC 68462-333-90 Bottles of 500 NDC 68462-333-05 Unit dose pack of 100 (10 x 10) NDC 68462-333-11

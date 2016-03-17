@@ -10,5 +10,5 @@ Pramipexole dihydrochloride USP is a white to off-white powder substance.
 Melting occurs in the range of 296°C to 301°C, with decomposition.
 Pramipexole dihydrochloride USP is more than 20% soluble in water, about 8% in methanol, about 0.5% in ethanol, and practically insoluble in dichloromethane.
 
-Pramipexole dihydrochloride tablets, for oral administration, contain 0.125 mg, 0.25 mg, 0.5 mg, 1 mg, or 1.5 mg of pramipexole dihydrochloride USP.
+Pramipexole dihydrochloride tablets, for oral administration, contain 0.125 mg, 0.25 mg, 0.5 mg, 0.75 mg, 1 mg, or 1.5 mg of pramipexole dihydrochloride USP.
 Inactive ingredients consist of mannitol, corn starch, colloidal silicon dioxide, povidone, and magnesium stearate.
