@@ -34,7 +34,7 @@ The safety and effectiveness of Jakafi in pediatric patients have not been estab
 
 ## 8.5 Geriatric Use
 
-Of the total number of myelofibrosis patients in clinical studies with Jakafi, 52% were 65 years of age and older.
+Of the total number of patients with myelofibrosis in clinical studies with Jakafi, 52% were 65 years and older, while 15% were 75 years and older.
 No overall differences in safety or effectiveness of Jakafi were observed between these patients and younger patients.
 
 ## 8.6 Renal Impairment

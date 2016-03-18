@@ -25,14 +25,13 @@ Table 2 illustrates the maximum allowable dose that may be used in restarting Ja
 
 Table 2: Myelofibrosis: Maximum Restarting Doses for Jakafi after Safety Interruption for Thrombocytopenia for Patients Starting Treatment with a Platelet Count of 100 X 109/L or Greater
 
-| Current Platelet Count | Maximum Dose When Restarting Jakafi Treatment* |
+| Current Platelet Count | Maximum Dose When Restarting Jakafi TreatmentMaximum doses are displayed. When restarting, begin with a dose at least 5 mg twice daily below the dose at interruption. |
 | --- | --- |
 | Greater than or equal to 125 X 109/L | 20 mg twice daily |
 | 100 to less than 125 X 109/L | 15 mg twice daily |
 | 75 to less than 100 X 109/L | 10 mg twice daily for at least 2 weeks; if stable, may increase to 15 mg twice daily |
 | 50 to less than 75 X 109/L | 5 mg twice daily for at least 2 weeks; if stable, may increase to 10 mg twice daily |
 | Less than 50 X 109/L | Continue hold |
-| *Maximum doses are displayed. When restarting, begin with a dose at least 5 mg twice daily below the dose at interruption. |  |
 
 Following treatment interruption for ANC below 0.5 X 109/L, after ANC recovers to 0.75 X 109/L or greater, restart dosing at the higher of 5 mg once daily or 5 mg twice daily below the largest dose in the week prior to the treatment interruption.
 
@@ -144,14 +143,13 @@ Use the most severe category of a patient’s hemoglobin, platelet count, or ANC
 | Hemoglobin, Platelet Count, or ANC | Maximum Restarting Dose |
 | --- | --- |
 | Hemoglobin less than 8 g/dL OR platelet count less than 50 X 109/L OR ANC less than 1 X 109/L | Continue hold |
-| Hemoglobin 8 to less than 10 g/dL OR platelet count 50 to less than 75 X 109/L OR ANC 1 to less than 1.5 X 109/L | 5 mg twice dailya or no more than 5 mg twice daily less than the dose which resulted in dose interruption |
-| Hemoglobin 10 to less than 12 g/dL OR platelet count 75 to less than 100 X 109/L OR ANC 1.5 to less than 2 X 109/L | 10 mg twice dailya or no more than 5 mg twice daily less than the dose which resulted in dose interruption |
-| Hemoglobin greater than or equal to 12 g/dL OR platelet count greater than or equal to 100 X 109/L OR ANC greater than or equal to 2 X 109/L | 15 mg twice dailya or no more than 5 mg twice daily less than the dose which resulted in dose interruption |
-| aContinue treatment for at least 2 weeks; if stable, may increase dose by 5 mg twice daily. |  |
+| Hemoglobin 8 to less than 10 g/dL OR platelet count 50 to less than 75 X 109/L OR ANC 1 to less than 1.5 X 109/L | 5 mg twice dailyContinue treatment for at least 2 weeks; if stable, may increase dose by 5 mg twice daily.or no more than 5 mg twice daily less than the dose which resulted in dose interruption |
+| Hemoglobin 10 to less than 12 g/dL OR platelet count 75 to less than 100 X 109/L OR ANC 1.5 to less than 2 X 109/L | 10 mg twice dailyor no more than 5 mg twice daily less than the dose which resulted in dose interruption |
+| Hemoglobin greater than or equal to 12 g/dL OR platelet count greater than or equal to 100 X 109/L OR ANC greater than or equal to 2 X 109/L | 15 mg twice dailyor no more than 5 mg twice daily less than the dose which resulted in dose interruption |
 
 Patients who had required dose interruption while receiving a dose of 5 mg twice daily, may restart at a dose of 5 mg twice daily or 5 mg once daily, but not higher, once hemoglobin is greater than or equal to 10 g/dL, platelet count is greater than or equal to 75 X 109/L, and ANC is greater than or equal to 1.5 X 109/L.
 
-Dose Management After Restarting Treatment
+Dose Management after Restarting Treatment
 
 After restarting Jakafi following treatment interruption, doses may be titrated, but the maximum total daily dose should not exceed 5 mg less than the dose that resulted in the dose interruption.
 An exception to this is dose interruption following phlebotomy-associated anemia, in which case the maximal total daily dose allowed after restarting Jakafi would not be limited.
@@ -182,10 +180,10 @@ Table 7: Dose Modification for Drug Interactions
 
 | Patients on concomitant strong CYP3A4 inhibitors or fluconazole doses of less than or equal to 200 mg | Recommended Dose Modification |
 | --- | --- |
-| Starting Dose for Myelofibrosis Patients with a platelet count: |  |
+| Starting Dose for Patients with Myelofibrosis with a platelet count: |  |
 | Greater than or equal to 100 X 109/L | 10 mg twice daily |
 | 50 X 109/L to less than 100 X 109/L | 5 mg once daily |
-| Starting Dose for Polycythemia Vera Patients | 5 mg twice daily |
+| Starting Dose for Patients with Polycythemia Vera | 5 mg twice daily |
 | All Patients on a Stable Dose of: |  |
 | Greater than or equal to 10 mg twice daily | Decrease dose by 50% (round up to the closest available tablet strength) |
 | 5 mg twice daily | 5 mg once daily |
@@ -205,16 +203,16 @@ Table 8: Dosing for Renal Impairment
 
 | Renal Impairment Status | Platelet Count | Recommended Starting Dosage |
 | --- | --- | --- |
-| Myelofibrosis Patients Moderate (CrCl 30–59 mL/min) or Severe (CrCl 15–29 mL/min) | Greater than 150 X 109/L | No dose modification needed |
+| Patients with Myelofibrosis Moderate (CrCl 30–59 mL/min) or Severe (CrCl 15–29 mL/min) | Greater than 150 X 109/L | No dose modification needed |
 | 100 X 109/L - 150 X 109/L | 10 mg twice daily |  |
 | 50 - less than 100 X 109/L | 5 mg daily |  |
 | Less than 50 X 109/L | Avoid use [see Use in Specific Populations (8.6)] |  |
-| Polycythemia Vera Patients Moderate (CrCl 30-59 mL/min) or Severe (CrCl 15-29 mL/min) | Any | 5 mg twice daily |
+| Patients with Polycythemia Vera Moderate (CrCl 30 59 mL/min) or Severe (CrCl 15 29 mL/min) | Any | 5 mg twice daily |
 
 Patients on Dialysis
 
-The recommended starting dose for myelofibrosis patients with end stage renal disease on dialysis is 15 mg once after a dialysis session for patients with a platelet count between 100 X 109/L and 200 X 109/L or 20 mg for patients with a platelet count of greater than 200 X 109/L.
-The recommended starting dose for polycythemia vera patients with end stage renal disease on dialysis is 10 mg.
+The recommended starting dose for patients with myelofibrosis with end stage renal disease on dialysis is 15 mg once after a dialysis session for patients with a platelet count between 100 X 109/L and 200 X 109/L or 20 mg for patients with a platelet count of greater than 200 X 109/L.
+The recommended starting dose for patients with polycythemia vera with end stage renal disease on dialysis is 10 mg.
 Additional dose modifications should be made with frequent monitoring of safety and efficacy.
 Avoid use of Jakafi in patients with end stage renal disease (CrCl less than 15 mL/min) not requiring dialysis [see Use in Specific Populations (8.6)].
 
@@ -226,11 +224,11 @@ Table 9: Dosing for Hepatic Impairment
 
 | Hepatic Impairment Status | Platelet Count | Recommended Starting Dosage |
 | --- | --- | --- |
-| Myelofibrosis Patients Mild, Moderate, or Severe (Child- Pugh categories A, B, C) | Greater than 150 X 109/L | No dose modification needed |
+| Patients with Myelofibrosis Mild, Moderate, or Severe (Child- Pugh categories A, B, C) | Greater than 150 X 109/L | No dose modification needed |
 | 100 X 109/L - 150 X 109/L | 10 mg twice daily |  |
 | 50 - less than 100 X 109/L | 5 mg daily |  |
-| Less than 50 X 109/L | Avoid use [see Use in Specific Populations (8.6)] |  |
-| Polycythemia Vera Patients Mild, Moderate, or Severe (Child- Pugh categories A, B, C) | Any | 5 mg twice daily |
+| Less than 50 X 109/L | Avoid use [see Use in Specific Populations (8.7)] |  |
+| Patients with Polycythemia Vera Mild, Moderate, or Severe (Child- Pugh categories A, B, C) | Any | 5 mg twice daily |
 
 ## 2.5 Method of Administration
 

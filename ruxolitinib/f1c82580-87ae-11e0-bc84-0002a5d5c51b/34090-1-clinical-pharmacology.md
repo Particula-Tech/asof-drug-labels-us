@@ -10,8 +10,8 @@ In a mouse model of JAK2V617F-positive MPN, oral administration of ruxolitinib p
 
 ## 12.2 Pharmacodynamics
 
-Ruxolitinib inhibits cytokine induced STAT3 phosphorylation in whole blood from healthy subjects and MF and PV patients.
-Jakafi administration resulted in maximal inhibition of STAT3 phosphorylation 2 hours after dosing which returned to near baseline by 10 hours in both healthy subjects and MF and PV patients.
+Ruxolitinib inhibits cytokine induced STAT3 phosphorylation in whole blood from healthy subjects and patients with MF and PV.
+Jakafi administration resulted in maximal inhibition of STAT3 phosphorylation 2 hours after dosing which returned to near baseline by 10 hours in both healthy subjects and patients with MF and PV.
 
 ## 12.3 Pharmacokinetics
 
@@ -24,7 +24,7 @@ There were no clinically relevant changes in the pharmacokinetics of ruxolitinib
 
 Distribution
 
-The mean volume of distribution at steady-state is 72 L in MF patients with an associated inter-subject variability of 29% and 75 L in PV patients with an associated inter-subject variability of 23%.
+The mean volume of distribution at steady-state is 72 L in patients with MF with an associated inter-subject variability of 29% and 75 L in patients with PV with an associated inter-subject variability of 23%.
 Binding to plasma proteins in vitro is approximately 97%, mostly to albumin.
 
 Metabolism
@@ -40,8 +40,8 @@ The mean elimination half-life of ruxolitinib is approximately 3 hours and the m
 Effects of Age, Gender, or Race
 
 In healthy subjects, no significant differences in ruxolitinib pharmacokinetics were observed with regard to gender and race.
-In a population pharmacokinetic evaluation in MF patients, no relationship was apparent between oral clearance and patient age or race, and in women, clearance was 17.7 L/h and in men, 22.1 L/h with 39% inter-subject variability.
-Clearance was 12.7 L/h in PV patients, with a 42% inter-subject variability, and no relationship was apparent between oral clearance and gender, patient age or race in this patient population.
+In a population pharmacokinetic evaluation in patients with MF, no relationship was apparent between oral clearance and patient age or race, and in women, clearance was 17.7 L/h and in men, 22.1 L/h with 39% inter-subject variability.
+Clearance was 12.7 L/h in patients with PV, with a 42% inter-subject variability, and no relationship was apparent between oral clearance and gender, patient age or race in this patient population.
 
 Drug Interactions
 

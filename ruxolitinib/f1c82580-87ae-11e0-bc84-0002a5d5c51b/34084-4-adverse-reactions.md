@@ -29,20 +29,14 @@ Table 10: Myelofibrosis: Adverse Reactions Occurring in Patients on Jakafi in th
 
 |  | Jakafi (N=155) |  |  | Placebo (N=151) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Adverse Reactions | All Gradesa (%) | Grade 3 (%) | Grade 4 (%) | All Grades (%) | Grade 3 (%) | Grade 4 (%) |
-| Bruisingb | 23 | <1 | 0 | 15 | 0 | 0 |
-| Dizzinessc | 18 | <1 | 0 | 7 | 0 | 0 |
+| Adverse Reactions | All GradesNational Cancer Institute Common Terminology Criteria for Adverse Events (CTCAE), version 3.0 (%) | Grade 3 (%) | Grade 4 (%) | All Grades (%) | Grade 3 (%) | Grade 4 (%) |
+| Bruisingincludes contusion, ecchymosis, hematoma, injection site hematoma, periorbital hematoma, vessel puncture site hematoma, increased tendency to bruise, petechiae, purpura | 23 | <1 | 0 | 15 | 0 | 0 |
+| Dizzinessincludes dizziness, postural dizziness, vertigo, balance disorder, Meniere's Disease, labyrinthitis | 18 | <1 | 0 | 7 | 0 | 0 |
 | Headache | 15 | 0 | 0 | 5 | 0 | 0 |
-| Urinary Tract Infectionsd | 9 | 0 | 0 | 5 | <1 | <1 |
-| Weight Gaine | 7 | <1 | 0 | 1 | <1 | 0 |
+| Urinary Tract Infectionsincludes urinary tract infection, cystitis, urosepsis, urinary tract infection bacterial, kidney infection, pyuria, bacteria urine, bacteria urine identified, nitrite urine present | 9 | 0 | 0 | 5 | <1 | <1 |
+| Weight Gainincludes weight increased, abnormal weight gain | 7 | <1 | 0 | 1 | <1 | 0 |
 | Flatulence | 5 | 0 | 0 | <1 | 0 | 0 |
-| Herpes Zosterf | 2 | 0 | 0 | <1 | 0 | 0 |
-| a National Cancer Institute Common Terminology Criteria for Adverse Events (CTCAE), version 3.0 |  |  |  |  |  |  |
-| b includes contusion, ecchymosis, hematoma, injection site hematoma, periorbital hematoma, vessel puncture site hematoma, increased tendency to bruise, petechiae, purpura |  |  |  |  |  |  |
-| c includes dizziness, postural dizziness, vertigo, balance disorder, Meniere's Disease, labyrinthitis |  |  |  |  |  |  |
-| d includes urinary tract infection, cystitis, urosepsis, urinary tract infection bacterial, kidney infection, pyuria, bacteria urine, bacteria urine identified, nitrite urine present |  |  |  |  |  |  |
-| e includes weight increased, abnormal weight gain |  |  |  |  |  |  |
-| f includes herpes zoster and post-herpetic neuralgia |  |  |  |  |  |  |
+| Herpes Zosterincludes herpes zoster and post-herpetic neuralgia | 2 | 0 | 0 | <1 | 0 | 0 |
 
 Description of Selected Adverse Drug Reactions
 
@@ -71,16 +65,14 @@ In the two Phase 3 clinical studies, 1% of patients reduced or stopped Jakafi be
 
 Table 11 provides the frequency and severity of clinical hematology abnormalities reported for patients receiving treatment with Jakafi or placebo in the placebo-controlled study.
 
-Table 11: Myelofibrosis: Worst Hematology Laboratory Abnormalities in the Placebo-Controlled Studya
+Table 11: Myelofibrosis: Worst Hematology Laboratory Abnormalities in the Placebo-Controlled StudyPresented values are worst Grade values regardless of baseline
 
 |  | Jakafi (N=155) |  |  | Placebo (N=151) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Laboratory Parameter | All Gradesb (%) | Grade 3 (%) | Grade 4 (%) | All Grades (%) | Grade 3 (%) | Grade 4 (%) |
+| Laboratory Parameter | All GradesNational Cancer Institute Common Terminology Criteria for Adverse Events, version 3.0 (%) | Grade 3 (%) | Grade 4 (%) | All Grades (%) | Grade 3 (%) | Grade 4 (%) |
 | Thrombocytopenia | 70 | 9 | 4 | 31 | 1 | 0 |
 | Anemia | 96 | 34 | 11 | 87 | 16 | 3 |
 | Neutropenia | 19 | 5 | 2 | 4 | <1 | 1 |
-| a Presented values are worst Grade values regardless of baseline |  |  |  |  |  |  |
-| b National Cancer Institute Common Terminology Criteria for Adverse Events, version 3.0 |  |  |  |  |  |  |
 
 Additional Data from the Placebo-controlled Study
 
@@ -103,32 +95,26 @@ Discontinuation for adverse events, regardless of causality, was observed in 4% 
 
 Table 12: Polycythemia Vera: Treatment Emergent Adverse Events Occurring in ≥ 6% of Patients on Jakafi in the Open-Label, Active-controlled Study up to Week 32 of Randomized Treatment
 
-|  | Jakafi (N=110) |  | Best Available Therapy (N=111) |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Adverse Events | All Gradesa (%) | Grade 3-4 (%) | All Grades (%) | Grade 3-4 (%) |  |  |
-| Headache | 16 | <1 | 19 | <1 |  |  |
-| Abdominal Painb | 15 | <1 | 15 | <1 |  |  |
-| Diarrhea | 15 | 0 | 7 | <1 |  |  |
-| Dizzinessc | 15 | 0 | 13 | 0 |  |  |
-| Fatigue | 15 | 0 | 15 | 3 |  |  |
-| Pruritus | 14 | <1 | 23 | 4 |  |  |
-| Dyspnead | 13 | 3 | 4 | 0 |  |  |
-| Muscle Spasms | 12 | <1 | 5 | 0 |  |  |
-| Nasopharyngitis | 9 | 0 | 8 | 0 |  |  |
-| Constipation | 8 | 0 | 3 | 0 |  |  |
-| Cough | 8 | 0 | 5 | 0 |  |  |
-| Edemae | 8 | 0 | 7 | 0 |  |  |
-| Arthralgia | 7 | 0 | 6 | <1 |  |  |
-| Asthenia | 7 | 0 | 11 | 2 |  |  |
-| Epistaxis | 6 | 0 | 3 | 0 |  |  |
-| Herpes Zosterf | 6 | <1 | 0 | 0 |  |  |
-| Nausea | 6 | 0 | 4 | 0 |  |  |
-| a National Cancer Institute Common Terminology Criteria for Adverse Events (CTCAE), version 3.0 |  |  |  |  |  |  |
-| b includes abdominal pain, abdominal pain lower, and abdominal pain upper |  |  |  |  |  |  |
-| c includes dizziness and vertigo |  |  |  |  |  |  |
-| d includes dyspnea and dyspnea exertional |  |  |  |  |  |  |
-| e includes edema and peripheral edema |  |  |  |  |  |  |
-| f includes herpes zoster and post-herpetic neuralgia |  |  |  |  |  |  |
+|  | Jakafi (N=110) |  | Best Available Therapy (N=111) |  |
+| --- | --- | --- | --- | --- |
+| Adverse Events | All GradesNational Cancer Institute Common Terminology Criteria for Adverse Events (CTCAE), version 3.0 (%) | Grade 3-4 (%) | All Grades (%) | Grade 3-4 (%) |
+| Headache | 16 | <1 | 19 | <1 |
+| Abdominal Painincludes abdominal pain, abdominal pain lower, and abdominal pain upper | 15 | <1 | 15 | <1 |
+| Diarrhea | 15 | 0 | 7 | <1 |
+| Dizzinessincludes dizziness and vertigo | 15 | 0 | 13 | 0 |
+| Fatigue | 15 | 0 | 15 | 3 |
+| Pruritus | 14 | <1 | 23 | 4 |
+| Dyspneaincludes dyspnea and dyspnea exertional | 13 | 3 | 4 | 0 |
+| Muscle Spasms | 12 | <1 | 5 | 0 |
+| Nasopharyngitis | 9 | 0 | 8 | 0 |
+| Constipation | 8 | 0 | 3 | 0 |
+| Cough | 8 | 0 | 5 | 0 |
+| Edemaincludes edema and peripheral edema | 8 | 0 | 7 | 0 |
+| Arthralgia | 7 | 0 | 6 | <1 |
+| Asthenia | 7 | 0 | 11 | 2 |
+| Epistaxis | 6 | 0 | 3 | 0 |
+| Herpes Zosterincludes herpes zoster and post-herpetic neuralgia | 6 | <1 | 0 | 0 |
+| Nausea | 6 | 0 | 4 | 0 |
 
 Other clinically important treatment emergent adverse events observed in less than 6% of patients treated with Jakafi were:
 
@@ -136,11 +122,11 @@ Weight gain, hypertension, and urinary tract infections
 
 Clinically relevant laboratory abnormalities are shown in Table 13.
 
-Table 13: Polycythemia Vera: Selected Laboratory Abnormalities in the Open-Label, Active-controlled Study up to Week 32 of Randomized Treatmenta
+Table 13: Polycythemia Vera: Selected Laboratory Abnormalities in the Open-Label, Active-controlled Study up to Week 32 of Randomized TreatmentPresented values are worst Grade values regardless of baseline
 
 |  | Jakafi (N=110) |  |  | Best Available Therapy (N=111) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Laboratory Parameter | All Gradesb (%) | Grade 3 (%) | Grade 4 (%) | All Grades (%) | Grade 3 (%) | Grade 4 (%) |
+| Laboratory Parameter | All GradesNational Cancer Institute Common Terminology Criteria for Adverse Events, version 3.0 (%) | Grade 3 (%) | Grade 4 (%) | All Grades (%) | Grade 3 (%) | Grade 4 (%) |
 | Hematology |  |  |  |  |  |  |
 | Anemia | 72 | <1 | <1 | 58 | 0 | 0 |
 | Thrombocytopenia | 27 | 5 | <1 | 24 | 3 | <1 |
@@ -150,5 +136,3 @@ Table 13: Polycythemia Vera: Selected Laboratory Abnormalities in the Open-Label
 | Elevated ALT | 25 | <1 | 0 | 16 | 0 | 0 |
 | Elevated AST | 23 | 0 | 0 | 23 | <1 | 0 |
 | Hypertriglyceridemia | 15 | 0 | 0 | 13 | 0 | 0 |
-| a Presented values are worst Grade values regardless of baseline |  |  |  |  |  |  |
-| b National Cancer Institute Common Terminology Criteria for Adverse Events, version 3.0 |  |  |  |  |  |  |

@@ -25,6 +25,10 @@ Non-Melanoma Skin Cancer
 Inform patients that Jakafi may increase their risk of certain non-melanoma skin cancers.
 Advise patients to inform their healthcare provider if they have ever had any type of skin cancer or if they observe any new or changing skin lesions.
 
+Lipid Elevations
+
+Inform patients that Jakafi may increase blood cholesterol, and of the need to monitor blood cholesterol levels.
+
 Drug-drug Interactions
 
 Advise patients to inform their healthcare providers of all medications they are taking, including over-the-counter medications, herbal products and dietary supplements.
@@ -43,5 +47,5 @@ Manufactured for: Incyte Corporation Wilmington, DE 19803
 
 Jakafi is a registered trademark of Incyte.
 All rights reserved.
-U.S. Patent Nos. 7598257; 8415362; 8722693; 8822481; 8829013 © 2011-2014 Incyte Corporation.
+U.S. Patent Nos. 7598257; 8415362; 8722693; 8822481; 8829013; 9079912 © 2011-2016 Incyte Corporation.
 All rights reserved.

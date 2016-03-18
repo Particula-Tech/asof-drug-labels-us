@@ -41,6 +41,12 @@ Herpes Zoster
 
 Advise patients about early signs and symptoms of herpes zoster and to seek treatment as early as possible if suspected [see Adverse Reactions (6.1)].
 
+Hepatitis B
+
+Hepatitis B viral load (HBV-DNA titer) increases, with or without associated elevations in alanine aminotransferase and aspartate aminotransferase, have been reported in patients with chronic HBV infections taking Jakafi.
+The effect of Jakafi on viral replication in patients with chronic HBV infection is unknown.
+Patients with chronic HBV infection should be treated and monitored according to clinical guidelines.
+
 ## 5.3 Symptom Exacerbation Following Interruption or Discontinuation of Treatment with Jakafi
 
 Following discontinuation of Jakafi, symptoms from myeloproliferative neoplasms may return to pretreatment levels over a period of approximately one week.
@@ -53,3 +59,10 @@ When discontinuing or interrupting therapy with Jakafi for reasons other than th
 
 Non-melanoma skin cancers including basal cell, squamous cell, and Merkel cell carcinoma have occurred in patients treated with Jakafi.
 Perform periodic skin examinations.
+
+## 5.5 Lipid Elevations
+
+Treatment with Jakafi has been associated with increases in lipid parameters including total cholesterol, low-density lipoprotein (LDL) cholesterol, and triglycerides.
+The effect of these lipid parameter elevations on cardiovascular morbidity and mortality has not been determined in patients treated with Jakafi.
+Assess lipid parameters approximately 8-12 weeks following initiation of Jakafi therapy.
+Monitor and treat according to clinical guidelines for the management of hyperlipidemia.

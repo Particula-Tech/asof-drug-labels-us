@@ -105,23 +105,27 @@ Phlebotomy eligibility was defined as a confirmed hematocrit greater than 45% th
 Secondary endpoints included the proportion of all randomized subjects who achieved the primary endpoint and who maintained their response 48 weeks after randomization, and the proportion of subjects achieving complete hematological remission at Week 32 with complete hematological remission defined as achieving hematocrit control, platelet count less than or equal to 400 X 109/L, and white blood cell count less than or equal to 10 X 109/L.
 
 Results of the primary and secondary endpoints are presented in Table 16.
-A significantly larger proportion of patients in the Jakafi group achieved a response for the primary endpoint compared to best available therapy at Week 32 and maintained their response 48 weeks after randomization.
-A significantly larger proportion of patients in the Jakafi group compared to best available therapy also achieved complete hematological remission at Week 32.
+A significantly larger proportion of patients on the Jakafi arm achieved a response for the primary endpoint compared to best available therapy at Week 32 and maintained their response 48 weeks after randomization.
+A significantly larger proportion of patients on the Jakafi arm compared to best available therapy also achieved complete hematological remission at Week 32.
 
-Table 16: Percent of Patients with Polycythemia Vera Achieving the Primary and Key Secondary Endpoints (Intent to Treat)
+Table 16: Percent of Patients with Polycythemia Vera Achieving the Primary and Key Secondary Endpoints in Study 3 (Intent to Treat)
 
 |  | Jakafi (N=110) | Best Available Therapy (N=112) |  |  |
 | --- | --- | --- | --- | --- |
-| Number (%) of Patients Achieving a Primary Response at Week 32 | 23 (21%) | 1 (<1%) |  |  |
-| 95% CI of the response rate (%) | (14%, 30%) | (0%, 5%) |  |  |
+| Number (%) of Patients Achieving a Primary Response at Week 32 | 25 (23%) | 1 (<1%) |  |  |
+| 95% CI of the response rate (%) | (15%, 32%) | (0%, 5%) |  |  |
 | P-value | < 0.0001 |  |  |  |
-| Number (%) of Patients Achieving a Durable Primary Response at Week 48 | 21 (19%) | 1 (<1%) |  |  |
-| 95% CI of the response rate (%) | (12%, 28%) | (0%, 5%) |  |  |
+| Number (%) of Patients Achieving a Durable Primary Response at Week 48 | 22 (20%) | 1 (<1%) |  |  |
+| 95% CI of the response rate (%) | (13%, 29%) | (0%, 5%) |  |  |
 | P-value | < 0.0001 |  |  |  |
-| Number (%) of Patients Achieving Complete Hematological Remission at Week 32 | 26 (24%) | 10 (9%) |  |  |
-| 95% CI of the response rate (%) | (16%, 33%) | (4%, 16%) |  |  |
-| P-value | 0.0034 |  |  |  |
+| Number (%) of Patients Achieving Complete Hematological Remission at Week 32 | 26 (24%) | 9 (8%) |  |  |
+| 95% CI of the response rate (%) | (16%, 33%) | (4%, 15%) |  |  |
+| P-value | 0.0016 |  |  |  |
 | Primary Response defined as having achieved both the absence of phlebotomy eligibility beginning at the Week 8 visit and continuing through Week 32 and a greater than or equal to 35% reduction from baseline in spleen volume at Week 32. |  |  |  |  |
 
-For the proportion of patients achieving each of the individual components that make up the primary endpoint at Week 32, there were 60% of the patients with hematocrit control in the Jakafi group vs. 20% of the patients in the best available therapy group.
-There were 38% of the patients with spleen volume reduction from baseline greater than or equal to 35% at Week 32 in the Jakafi group vs. less than 1% of the patients in the best available therapy group.
+Additional analyses for Study 3 to assess durability of response were conducted at Week 80 only in the Jakafi arm.
+On this arm, 91 (83%) patients were still on treatment at the time of the Week 80 data cut-off.
+Of the 25 patients who achieved a primary response at Week 32, 19 (76% of the responders) maintained their response through Week 80, and of the 26 patients who achieved complete hematological remission at Week 32, 15 (58% of the responders) maintained their response through Week 80.
+
+In an assessment of the individual components that make up the primary endpoint, there were 66 (60%) patients with hematocrit control on the Jakafi arm vs. 21 (19%) patients on best available therapy at Week 32; 51 (77% of hematocrit responders) patients on the Jakafi arm maintained hematocrit control through Week 80.
+There were 44 (40%) patients with spleen volume reduction from baseline greater than or equal to 35% on the Jakafi arm vs. 1 (<1%) patient on best available therapy at Week 32; 43 (98% of spleen volume reduction responders) patients on the Jakafi arm maintained spleen volume reduction through Week 80.
