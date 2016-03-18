@@ -13,13 +13,16 @@ The pharmacokinetic parameters of norethindrone following single oral administra
 
 | Table 1Pharmacokinetic Parameters after a Single Dose of Norethindrone Acetate in Healthy Women |  |
 | --- | --- |
-| Norethindrone Acetate (n=29) Arithmetic Mean ± SD |  |
+| Norethindrone Acetate (n = 29) Arithmetic Mean ± SD |  |
 | Norethindrone (NET) |  |
 | AUC (0-inf)(ng/ml*h) | 166.90 ± 56.28 |
 | Cmax (ng/ml) | 26.19 ± 6.19 |
 | tmax (h) | 1.83 ± 0.58 |
 | t1/2 (h) | 8.51 ± 2.19 |
 | AUC = area under the curve, Cmax = maximum plasma concentration, tmax = time at maximum plasma concentration, t1/2 = half-life, SD = standard deviation |  |
+
+Figure 1.
+Mean Plasma Concentration Profile after a Single Dose of 5 mg Administered to 29 Healthy Female Volunteers under Fasting Conditions
 
 ### Effect of Food
 
