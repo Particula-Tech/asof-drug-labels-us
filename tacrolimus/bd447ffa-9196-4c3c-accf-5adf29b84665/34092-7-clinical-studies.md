@@ -121,7 +121,7 @@ Approximately 63% and 55% of these MMF dose reductions were because of adverse r
 Table 22.
 MMF Dose Over Time in the Tacrolimus/MMF Group (Study 2)
 
-| Time period (Days) | Time-averaged MMF dose (g/day) Percentage of patients for each time-averaged MMF dose range during various treatment periods. Two gram per day of time-averaged MMF dose means that MMF dose was not reduced in those patients during the treatment periods. |  |  |
+| Time period (Days) | Time-averaged MMF dose (g/day) Percentage of patients for each time-averaged MMF dose range during various treatment periods. Two grams per day of time-averaged MMF dose means that MMF dose was not reduced in those patients during the treatment periods. |  |  |
 | --- | --- | --- | --- |
 | Less than 2.0 | 2.0 | Greater than 2.0 |  |
 | 0-30 (N=212) | 25% | 69% | 6% |
@@ -133,7 +133,7 @@ MMF Dose Over Time in the Tacrolimus/MMF Group (Study 2)
 ## 14.2 Liver Transplantation
 
 The safety and efficacy of tacrolimus-based immunosuppression following orthotopic liver transplantation were assessed in two prospective, randomized, non-blinded multicenter trials.
-The active control groups were treated with a cyclosporine¬-based immunosuppressive regimen (CsA/AZA).
+The active control groups were treated with a cyclosporine-based immunosuppressive regimen (CsA/AZA).
 Both trials used concomitant adrenal corticosteroids as part of the immunosuppressive regimens.
 These trials compared patient and graft survival rates at 12 months following transplantation.
 

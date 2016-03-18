@@ -42,7 +42,7 @@ Inform patients that tacrolimus capsules can cause high blood pressure which may
 
 ## 17.9 Drug Interactions
 
-Instruct patients to tell their health care providers when they start or stop taking all the medicines, including prescription medicines and non-prescription medicines, natural or herbal remedies, nutritional supplements and vitamins [seeDrug Interactions (7)].
+Instruct patients to tell their health care providers when they start or stop taking all the medicines, including prescription medicines and non-prescription medicines, natural or herbal remedies, nutritional supplements and vitamins [see Drug Interactions (7)].
 
 ## 17.10 Pregnant Women and Nursing Mothers
 
@@ -78,6 +78,6 @@ Dist.- Ahmedabad – 382210.
 
 India.
 
-10 2711 7 661255
+10 0108 0 665135
 
-Issued June 2015
+Issued February 2016

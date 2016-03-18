@@ -143,7 +143,7 @@ The use of live vaccines should be avoided during treatment with tacrolimus; exa
 Cases of pure red cell aplasia (PRCA) have been reported in patients treated with tacrolimus.
 A mechanism for tacrolimus-induced PRCA has not been elucidated.
 All patients reported risk factors for PRCA such as parvovirus B19 infection, underlying disease, or concomitant medications associated with PRCA.
-If PRCA is diagnosed, discontinuation of tacrolimus should be considered [see Adverse Reactions (6.2)]..
+If PRCA is diagnosed, discontinuation of tacrolimus should be considered [see Adverse Reactions (6.2)].
 
 ## 5.18 Gastrointestinal Perforation
 

@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Tacrolimus capsules are available for oral administration containing 0.5 mg, 1 mg or 5 mg of tacrolimus.
+Tacrolimus capsules, USP are available for oral administration containing 0.5 mg, 1 mg or 5 mg of tacrolimus.
 Inactive ingredients include lactose monohydrate, hypromellose E5, croscarmellose sodium, and magnesium stearate.
 The 0.5 mg capsule shell contains gelatin, titanium dioxide, iron oxide yellow and sodium lauryl sulfate, the 1 mg capsule shell contains gelatin, titanium dioxide and sodium lauryl sulfate, and the 5 mg capsule shell contains gelatin, titanium dioxide, iron oxide red and sodium lauryl sulfate.
 

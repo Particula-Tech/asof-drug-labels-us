@@ -122,7 +122,7 @@ Pharmacokinetic In Renal and Hepatic Impaired Patients
 
 Renal Impairment: Tacrolimus pharmacokinetics following a single IV administration were determined in 12 patients (7 not on dialysis and 5 on dialysis, serum creatinine of 3.9±1.6 and 12.0±2.4 mg/dL, respectively) prior to their kidney transplant.
 The pharmacokinetic parameters obtained were similar for both groups.
-The mean clearance of tacrolimus in patients with renal dysfunction was similar to that in normal volunteers (Table 15) [seeDosage and Administration (2.3) and Use in Specific Populations (8.6)].
+The mean clearance of tacrolimus in patients with renal dysfunction was similar to that in normal volunteers (Table 15) [see Dosage and Administration (2.3) and Use in Specific Populations (8.6)].
 
 Hepatic Impairment: Tacrolimus pharmacokinetics have been determined in six patients with mild hepatic dysfunction (mean Pugh score: 6.2) following single IV and oral administrations.
 The mean clearance of tacrolimus in patients with mild hepatic dysfunction was not substantially different from that in normal volunteers (see previous table).

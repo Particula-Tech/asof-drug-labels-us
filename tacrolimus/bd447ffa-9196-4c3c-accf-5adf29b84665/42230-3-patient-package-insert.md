@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-Tacrolimus Capsules USP (ta-KROE-li-mus)
+Tacrolimus Capsules (ta-KROE-li-mus)
 
 Read this Patient Information before you start taking tacrolimus capsules and each time you get a refill.
 There may be new information.
@@ -206,7 +206,7 @@ How Does Tacrolimus Capsules Protect My New Organ?
 
 The body’s immune system protects the body against anything that it does not recognize as part of the body.
 For example, when the immune system detects a virus or bacteria it tries to get rid of it to prevent infection.
-When a person has a liver, kidney transplant or heart transplant, the immune system does not recognize the new organ as a part of the body and tries to get rid of it, too.
+When a person has a liver, kidney or heart transplant, the immune system does not recognize the new organ as a part of the body and tries to get rid of it, too.
 This is called “rejection”.
 Tacrolimus capsules protect your new organ by slowing down the body’s immune system.
 
@@ -247,6 +247,6 @@ Dist.- Ahmedabad – 382210.
 
 India.
 
-10 2711 7 661255
+10 0108 0 665135
 
-Issued June 2015
+Issued February 2016

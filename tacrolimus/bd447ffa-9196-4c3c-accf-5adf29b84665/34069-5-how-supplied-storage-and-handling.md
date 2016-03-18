@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1 Tacrolimus Capsules USP
+## 16.1 Tacrolimus Capsules, USP
 
 | strength | 0.5 mg(containing 0.5 mg tacrolimus) | 1 mg(containing 1 mg tacrolimus) | 5 mg(containing 5 mg tacrolimus) |
 | --- | --- | --- | --- |

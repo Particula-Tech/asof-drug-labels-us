@@ -1,7 +1,7 @@
 # 7 DRUG INTERACTIONS
 
 Since tacrolimus is metabolized mainly by CYP3A enzymes, drugs or substances known to inhibit these enzymes may increase tacrolimus whole blood concentrations.
-Drugs known to induce CYP3A enzymes may decrease tacrolimus whole blood concentrations [seeWarnings and Precautions (5.13) and Clinical Pharmacology (12.3)].
+Drugs known to induce CYP3A enzymes may decrease tacrolimus whole blood concentrations [see Warnings and Precautions (5.13) and Clinical Pharmacology (12.3)].
 Dose adjustments may be needed along with frequent monitoring of tacrolimus whole blood trough concentrations when tacrolimus is administered with CYP3A inhibitors or inducers.
 In addition, patients should be monitored for adverse reactions including changes in renal function and QT prolongation [see Warnings and Precautions (5.7) and (5.14)].
 
@@ -64,7 +64,8 @@ Lansoprazole and omeprazole, as CYP2C19 and CYP3A4 substrates, may potentially i
 
 Cimetidine may also inhibit the CYP3A4 metabolism of tacrolimus and thereby substantially increase tacrolimus whole blood concentrations.
 
-Coadministration with magnesium and aluminum hydroxide antacids increase tacrolimus whole blood concentrations [see Clinical Pharmacology (12.3)].Monitoring of whole blood concentrations and appropriate dosage adjustments of tacrolimus are recommended when these drugs and tacrolimus are used concomitantly.
+Coadministration with magnesium and aluminum hydroxide antacids increase tacrolimus whole blood concentrations [see Clinical Pharmacology (12.3)].
+Monitoring of whole blood concentrations and appropriate dosage adjustments of tacrolimus are recommended when these drugs and tacrolimus are used concomitantly.
 
 ## 7.11 Others
 
