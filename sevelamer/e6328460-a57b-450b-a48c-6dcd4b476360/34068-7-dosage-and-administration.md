@@ -16,7 +16,7 @@ Starting Dose for Dialysis Patients Not Taking a Phosphate Binder
 | Serum Phosphorus | Renvela® 800 mg Tablet | Renvela Powder |
 | --- | --- | --- |
 | > 5.5 and < 7.5 mg/dL | 1 tablet three times daily with meals | 0.8 g three times daily with meals |
-| ~ 7.5 mg/dL | 2 tablets three times daily with meals | 1.6 g three times daily with meals |
+| ≥ 7.5 mg/dL | 2 tablets three times daily with meals | 1.6 g three times daily with meals |
 
 Switching from Sevelamer Hydrochloride Tablets.
 For patients switching from sevelamer hydrochloride tablets to sevelamer carbonate tablets or powder, use the same dose in grams.

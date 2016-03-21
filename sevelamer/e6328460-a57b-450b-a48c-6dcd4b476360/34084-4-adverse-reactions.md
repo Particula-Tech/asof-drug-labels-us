@@ -24,5 +24,5 @@ Patients on peritoneal dialysis should be closely monitored to ensure the reliab
 
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or to establish a causal relationship to drug exposure.
 
-The following adverse reactions have been identified during post-approval use of sevelamer hydrochloride, which has the same active moiety as sevelamer carbonate: pruritus, rash, abdominal pain, fecal impaction, and uncommon cases of ileus, intestinal obstruction, and intestinal perforation.
+The following adverse reactions have been identified during post-approval use of sevelamer hydrochloride or sevelamer carbonate: hypersensitivity, pruritus, rash, abdominal pain, fecal impaction, and uncommon cases of ileus, intestinal obstruction, and intestinal perforation.
 Appropriate medical management should be given to patients who develop constipation or have worsening of existing constipation to avoid severe complications.

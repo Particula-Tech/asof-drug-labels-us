@@ -21,7 +21,7 @@ Study dose during the cross-over period was determined based on the sevelamer hy
 The phosphorus levels at the end of each of the two cross-over periods were similar.
 Average actual daily dose was 6.0 g/day divided among meals for sevelamer carbonate powder and 6.4 g/day divided among meals for sevelamer hydrochloride tablets.
 
-## 14.3 Sevelamer Hydrochloride Versus Active-Control, Cross-Over Study in Hemodialysis Patient
+## 14.3 Sevelamer Hydrochloride Versus Active-Control, Cross-Over Study in Hemodialysis Patients
 
 Eighty-four CKD patients on hemodialysis who were hyperphosphatemic (serum phosphorus > 6.0 mg/dL) following a two-week phosphate binder washout period were randomized in a cross-over design to receive in random order sevelamer hydrochloride and active-control for eight weeks each.
 Treatment periods were separated by a two-week phosphate binder washout period.

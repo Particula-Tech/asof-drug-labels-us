@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-## 17.1 Dosing
+Dosing
 
 Inform patients to take Renvela as directed with meals and adhere to their prescribed diets.
 
@@ -26,7 +26,7 @@ Multiple packets may be mixed together with the appropriate amount of water.
 Patients should be instructed that the powder does not dissolve and therefore it should be stirred vigorously just before drinking.
 The entire preparation should be consumed within 30 minutes.
 
-## 17.2 Adverse Reactions
+Adverse Reactions
 
 Renvela may cause constipation that if left untreated, may lead to severe complications.
 Patients should be cautioned to report new onset or worsening of existing constipation promptly to their physician.
