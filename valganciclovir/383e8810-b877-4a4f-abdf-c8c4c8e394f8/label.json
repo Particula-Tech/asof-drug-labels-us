@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA205166"
+  ],
+  "inn": "valganciclovir",
+  "labeler": "Camber Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "31722-832-31",
+    "31722-832-32",
+    "31722-832-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "valganciclovir",
+      "name": "Valganciclovir"
+    }
+  ],
+  "setid": "383e8810-b877-4a4f-abdf-c8c4c8e394f8",
+  "source": "dailymed"
+}
