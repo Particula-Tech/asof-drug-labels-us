@@ -1,4 +1,4 @@
-# DESCRIPTION
+# DESCRIPTION:
 
 Furosemide is a diuretic which is an anthranilic acid derivative.
 Chemically, it is 4-chloro-N-furfuryl-5-sulfamoylanthranilic acid.

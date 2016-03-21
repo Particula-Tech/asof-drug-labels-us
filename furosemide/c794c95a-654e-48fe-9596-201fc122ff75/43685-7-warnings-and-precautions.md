@@ -1,4 +1,4 @@
-# WARNINGS
+# WARNINGS:
 
 In patients with hepatic cirrhosis and ascites, furosemide therapy is best initiated in the hospital.
 In hepatic coma and in states of electrolyte depletion, therapy should not be instituted until the basic condition is improved.
@@ -19,7 +19,7 @@ Literature reports indicate that premature infants with post conceptual age (ges
 
 Hearing loss in neonates has been associated with the use of furosemide injection (see WARNINGS, above).
 
-# PRECAUTIONS
+# PRECAUTIONS:
 
 ## General
 
@@ -28,7 +28,7 @@ As with any effective diuretic, electrolyte depletion may occur during furosemid
 Hypokalemia may develop with furosemide, especially with brisk diuresis, inadequate oral electrolyte intake, when cirrhosis is present, or during concomitant use of corticosteroids, ACTH, licorice in large amounts, or prolonged use of laxatives.
 Digitalis therapy may exaggerate metabolic effects of hypokalemia, especially myocardial effects.
 
-All patients receiving furosemide therapy should be observed for these signs or symptoms of fluid or electrolyte imbalance (hyponatremia, hypochloremic alkalosis, hypokalemia, hypomagnesemia, or hypocalcemia): dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia, arrhythmia, or gastrointestinal disturbances such as nausea and vomiting.
+All patients receiving furosemide therapy should be observed for these signs or symptoms of fluid or electrolyte imbalance (hyponatremia, hypochloremic alkalosis, hypokalemia, hypomagnesemia or hypocalcemia): dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia, arrhythmia, or gastrointestinal disturbances such as nausea and vomiting.
 Increases in blood glucose and alterations in glucose tolerance tests (with abnormalities of the fasting and two-hour postprandial sugar) have been observed, and rarely, precipitation of diabetes mellitus has been reported.
 
 In patients with severe symptoms of urinary retention (because of bladder emptying disorders, prostatic hyperplasia, urethral narrowing), the administration of furosemide can cause acute urinary retention related to increased production and retention of urine.
@@ -111,8 +111,9 @@ High-dose treatment of both furosemide and these other drugs may result in eleva
 
 Furosemide can increase the risk of cephalosporin-induced nephrotoxicity even in the setting of minor or transient renal impairment.
 
-Concomitant use of cyclosporine and furosemide is associated with increased risk of gouty arthritis secondary to furosemide-induced hyperurecemia and cyclosporine impairment of renal urate excretion.
+Concomitant use of cyclosporine and furosemide is associated with increased risk of gouty arthritis secondary to furosemide-induced hyperuricemia and cyclosporine impairment of renal urate excretion.
 
+High doses (> 80 mg) of furosemide may inhibit the binding of thyroid hormones to carrier proteins and result in transient increase in free thyroid hormones, followed by an overall decrease in total thyroid hormone levels.
 One study in six subjects demonstrated that the combination of furosemide and acetylsalicylic acid temporarily reduced creatinine clearance in patients with chronic renal insufficiency.
 There are case reports of patients who developed increased BUN, serum creatinine and serum potassium levels, and weight gain when furosemide was used in conjunction with NSAIDs.
 
@@ -174,4 +175,4 @@ Other reported clinical experience has not identified differences in responses b
 In general, dose selection for the elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy.
 
 This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection and it may be useful to monitor renal function (see PRECAUTIONS: General and DOSAGE AND ADMINISTRATION).
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection and it may be useful to monitor renal function (see PRECAUTIONS, General and DOSAGE AND ADMINISTRATION).

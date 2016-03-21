@@ -1,10 +1,10 @@
-# DOSAGE AND ADMINISTRATION
+# DOSAGE AND ADMINISTRATION:
 
 ## Adults
 
 Parenteral therapy with furosemide injection should be used only in patients unable to take oral medication or in emergency situations and should be replaced with oral therapy as soon as practical.
 
-## Edema
+## Edema-
 
 The usual initial dose of furosemide is 20 to 40 mg given as a single dose, injected IM or IV.
 The IV dose should be given slowly (one to two minutes).
@@ -22,7 +22,7 @@ Care must be taken to ensure that the pH of the prepared infusion solution is in
 Acid solutions, including other parenteral medications (e.g., labetalol, ciprofloxacin, amrinone, milrinone) must not be administered concurrently in the same infusion because they may cause precipitation of the furosemide.
 In addition, furosemide injection should not be added to a running intravenous line containing any of these acidic products.
 
-## Acute Pulmonary Edema
+## Acute Pulmonary Edema-
 
 The usual initial dose of furosemide is 40 mg injected slowly IV (over one to two minutes).
 If a satisfactory response does not occur within one hour, the dose may be increased to 80 mg injected slowly IV (over one to two minutes).
@@ -31,7 +31,7 @@ If necessary, additional therapy (e.g., digitalis, oxygen) may be administered c
 
 ## Geriatric Patients
 
-In general, dose selection for the elderly patient should be cautious, usually starting at the low end of the dosing range (see PRECAUTIONS: Geriatric Use).
+In general, dose selection for the elderly patient should be cautious, usually starting at the low end of the dosing range (see PRECAUTIONS, Geriatric Use).
 
 ## Pediatric Patients
 

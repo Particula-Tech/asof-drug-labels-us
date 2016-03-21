@@ -1,4 +1,4 @@
-# INDICATIONS AND USAGE
+# INDICATIONS AND USAGE:
 
 Parenteral therapy should be reserved for patients unable to take oral medication or for patients in emergency clinical situations.
 

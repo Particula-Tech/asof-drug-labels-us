@@ -1,117 +1,79 @@
-# ADVERSE REACTIONS
+# ADVERSE REACTIONS:
 
 Adverse reactions are categorized below by organ system and listed by decreasing severity.
 
 ## Gastrointestinal System Reactions
 
-• pancreatitis
-
-• jaundice (intrahepatic cholestatic jaundice)
-
-• anorexia
-
-• increased liver enzymes
-
-• oral and gastric irritation
-
-• cramping
-
-• diarrhea
-
-• constipation
-
-• nausea
-
-• vomiting
+1. Hepatic encephalopathy in patients with hepatocellular insufficiency
+2. Pancreatitis
+3. Jaundice (intrahepatic cholestatic jaundice)
+4. Increased liver enzymes
+5. Anorexia
+6. Oral and gastric irritation
+7. Cramping
+8. Diarrhea
+9. Constipation
+10. Nausea
+11. Vomiting
 
 ## Systemic Hypersensitivity Reactions
 
-• severe anaphylactic or anaphylactoid reactions (e.g., with shock)
-
-• systemic vasculitis
-
-• interstitial nephritis
-
-• necrotizing angiitis
+1. Severe anaphylactic or anaphylactoid reactions (e.g., with shock)
+2. Systemic vasculitis
+3. Interstitial nephritis
+4. Necrotizing angiitis
 
 ## Central Nervous System Reactions
 
-• tinnitus and hearing loss
-
-• paresthesias
-
-• vertigo
-
-• dizziness
-
-• headache
-
-• blurred vision
-
-• xanthopsia
+1. Tinnitus and hearing loss
+2. Paresthesias
+3. Vertigo
+4. Dizziness
+5. Headache
+6. Blurred vision
+7. Xanthopsia
 
 ## Hematologic Reactions
 
-• aplastic anemia
-
-• thrombocytopenia
-
-• agranulocytosis
-
-• hemolytic anemia
-
-• leukopenia
-
-• anemia
-
-• eosinophilia
+1. Aplastic anemia
+2. Thrombocytopenia
+3. Agranulocytosis
+4. Hemolytic anemia
+5. Leukopenia
+6. Anemia
+7. Eosinophilia
 
 ## Dermatologic-Hypersensitivity Reactions
 
-• exfoliative dermatitis
-
-• erythema multiforme
-
-• purpura
-
-• photosensitivity
-
-• urticaria
-
-• rash
-
-• pruritus
-
-• Stevens-Johnson Syndrome
-
-• toxic epidermal necrolysis
+1. Toxic epidermal necrolysis
+2. Stevens-Johnson Syndrome
+3. Erythema multiforme
+4. Drug rash with eosinophila and systemic symptoms
+5. Acute generalized exanthematous pustulosis
+6. Exfoliative dermatitis
+7. Bullous pemphigoid
+8. Purpura
+9. Photosensitivity
+10. Rash
+11. Pruritus
+12. Urticaria
 
 ## Cardiovascular Reactions
 
-• orthostatic hypotension may occur and be aggravated by alcohol, barbiturates or narcotics
-
-• increase in cholesterol and triglyceride serum levels
+1. Orthostatic hypotension may occur and be aggravated by alcohol, barbiturates or narcotics
+2. Increase in cholesterol and triglyceride serum levels
 
 ## Other Reactions
 
-• hyperglycemia
-
-• glycosuria
-
-• hyperuricemia
-
-• muscle spasm
-
-• weakness
-
-• restlessness
-
-• urinary bladder spasm
-
-• thrombophlebitis
-
-• transient injection site pain following intramuscular injection
-
-• fever
+1. Hyperglycemia
+2. Glycosuria
+3. Hyperuricemia
+4. Muscle spasm
+5. Weakness
+6. Restlessness
+7. Urinary bladder spasm
+8. Thrombophlebitis
+9. Transient injection site pain following intramuscular injection
+10. Fever
 
 Whenever adverse reactions are moderate or severe, furosemide dosage should be reduced or therapy withdrawn.

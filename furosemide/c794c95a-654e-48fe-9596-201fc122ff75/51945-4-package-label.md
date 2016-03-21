@@ -1,15 +1,10 @@
 PACKAGE LABEL - PRINCIPAL DISPLAY - Furosemide 4 mL Single Dose Vial Label
 
-NDC 63323-280-04
-
-28004
-
 Furosemide Injection, USP
 
-40 mg/4 mL (10 mg/mL)
+40 mg per 4 mL (10 mg per mL)
 
-For IM or IV Use
+For intramuscular or intravenous use.
+Preservative free.
 
-Rx only
-
-4 mL Single Dose Vial
+4 mL Single Dose Vial Rx only
