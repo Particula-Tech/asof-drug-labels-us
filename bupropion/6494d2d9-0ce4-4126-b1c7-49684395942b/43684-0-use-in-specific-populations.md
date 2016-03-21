@@ -28,7 +28,7 @@ Study findings on bupropion exposure during the first trimester and risk left ve
 The United Healthcare database lacked sufficient power to evaluate this association; the NBDPS found increased risk for LVOTO (n = 10; adjusted OR = 2.6; 95% CI 1.2, 5.7) and the Slone Epidemiology case control study did not find increased risk for LVOTO.
 
 Study findings on bupropion exposure during the first trimester and risk for ventricular septal defect (VSD) are inconsistent and do not allow conclusions regarding a possible association.
-The Slone Epidemiology Study found an increased risk for VSD following first trimester maternal bupropion exposure (n=17; adjusted OR = 2.5; 95% CI: 1.3, 5.0) but did not find an increased risk for any other cardiovascular malformations studied (including LVOTO as above).
+The Slone Epidemiology Study found an increased risk for VSD following first trimester maternal bupropion exposure (n = 17; adjusted OR = 2.5; 95% CI: 1.3, 5.0) but did not find an increased risk for any other cardiovascular malformations studied (including LVOTO as above).
 The NBDPS and United Healthcare database study did not find an association between first trimester maternal bupropion exposure and VSD.
 
 For the findings of LVOTO and VSD, the studies were limited by the small number of exposed cases, inconsistent findings among studies, and the potential for chance findings from multiple comparisons in case control studies.

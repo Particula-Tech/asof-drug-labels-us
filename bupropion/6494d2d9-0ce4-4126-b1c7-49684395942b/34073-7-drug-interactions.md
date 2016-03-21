@@ -15,14 +15,14 @@ Inducers of CYP2B6
 Ritonavir, Lopinavir, and Efavirenz: Concomitant treatment with these drugs can decrease bupropion and hydroxybupropion exposure.
 Dosage increase of APLENZIN may be necessary when coadministered with ritonavir, lopinavir, or efavirenz but should not exceed the maximum recommended dose [see Clinical Pharmacology (12.3)].
 
-Carbamazepine, Phenobarbital, Phenytoin: While not systemically studied, these drugs may induce metabolism of bupropion and may decrease bupropion exposure [see Clinical Pharmacology (12.3)].
+Carbamazepine, Phenobarbital, Phenytoin: While not systematically studied, these drugs may induce metabolism of bupropion and may decrease bupropion exposure [see Clinical Pharmacology (12.3)].
 If bupropion is used concomitantly with a CYP inducer, it may be necessary to increase the dose of bupropion, but the maximum recommended dose should not be exceeded.
 
 ## 7.2 Potential for APLENZIN to Affect Other Drugs
 
 Drugs Metabolized by CYP2D6
 
-Bupropion and its metabolites (erythrohydrobupropion, threohydrobupropion, hydroxybupropion) are CYP2D6 inhibitors.
+Bupropion and its metabolites (erythohydrobupropion, threohydrobupropion, hydroxybupropion) are CYP2D6 inhibitors.
 Therefore, coadministration of APLENZIN with drugs that are metabolized by CYP2D6 can increase the exposures of drugs that are substrates of CYP2D6.
 Such drugs include certain antidepressants (e.g., venlafaxine, nortriptyline, imipramine, desipramine, paroxetine, fluoxetine, and sertraline), antipsychotics (e.g., haloperidol, risperidone, and thioridazine), beta-blockers (e.g., metoprolol), and Type 1C antiarrhythmics (e.g., propafenone, and flecainide).
 When used concomitantly with APLENZIN, it may be necessary to decrease the dose of these CYP2D6 substrates, particularly for drugs with a narrow therapeutic index.

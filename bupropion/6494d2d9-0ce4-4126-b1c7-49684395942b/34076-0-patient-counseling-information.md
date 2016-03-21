@@ -37,7 +37,7 @@ Advise patients to minimize or avoid the use of alcohol.
 
 Angle Closure Glaucoma
 
-Patients should be advised that taking WELLBUTRIN XL can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle closure glaucoma.
+Patients should be advised that taking APLENZIN can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle closure glaucoma.
 Pre-existing glaucoma is almost always open-angle glaucoma because angle closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
 Open-angle glaucoma is not a risk factor for angle closure glaucoma.
 Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible [see Warnings and Precautions (5.7)].
@@ -89,6 +89,8 @@ APLENZIN is a registered trademark of Valeant Pharmaceuticals International, Inc
 All other product/brand names are the trademarks of their respective owners.
 
 Rev.
-12/2014
+11/2015
 
-9386802
+9386803
+
+20001284

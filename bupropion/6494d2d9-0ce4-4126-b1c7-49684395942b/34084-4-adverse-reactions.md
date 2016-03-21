@@ -59,7 +59,7 @@ Table 4: Adverse Reactions in Placebo-Controlled Trials in Patients with MDD
 | Infection | 6% | 8% | 9% |
 | Abdominal pain | 2% | 3% | 9% |
 | Asthenia | 2% | 2% | 4% |
-| Chest Pain | 1% | 3% | 4% |
+| Chest pain | 1% | 3% | 4% |
 | Pain | 2% | 2% | 3% |
 | Fever | — | 1% | 2% |
 | Cardiovascular |  |  |  |
@@ -121,7 +121,7 @@ The adverse reactions leading to discontinuation in at least 1% of patients trea
 Table 5 summarizes the adverse reactions that occurred in patients treated with bupropion HCl extended-release for up to approximately 6 months in 3 placebo-controlled trials.
 These include reactions that occurred at an incidence of 2% or more and were more frequent than in the placebo group.
 
-Table 5: Adverse Reactions in Placebo-Controlled Trials in Patients with SAD
+Table 5: Adverse Reactions in Placebo-Controlled Trial in Patients with SAD
 
 | System Organ Class/Preferred Term | Placebo (n=511) | Bupropion HCl Extended-Release (n=537) |
 | --- | --- | --- |
@@ -167,7 +167,7 @@ Changes in Body Weight
 Table 6 presents the incidence of body weight changes (≥5 lbs) in the short-term MDD trials using bupropion HCl sustained-release.
 There was a dose-related decrease in body weight.
 
-Table 6: Incidence of Weight Gain or Weight Loss (≥5 lbs.) in MDD Trials Using Bupropion HCl Sustained-Release
+Table 6: Incidence of Weight Gain or Weight Loss (≥5 lbs) in MDD Trials Using Bupropion HCl Sustained-Release
 
 | Weight Change | Bupropion HCl Sustained-Release 300 mg/dayEquivalent to 348 mg/day bupropion HBr (n=339) | Bupropion HCl Sustained-Release 400 mg/dayEquivalent to 464 mg/day bupropion HBr (n=112) | Placebo (n=347) |
 | --- | --- | --- | --- |

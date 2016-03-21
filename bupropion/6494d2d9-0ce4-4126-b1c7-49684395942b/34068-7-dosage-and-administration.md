@@ -7,7 +7,7 @@ To minimize the risk of seizure, increase the dose gradually [see Warnings and P
 APLENZIN should be swallowed whole and not crushed, divided, or chewed.
 APLENZIN should be administered in the morning and may be taken with or without regard to meals.
 
-## 2.2 Equivalent Daily Doses of APLENZIN (bupropion hydrobromide) and Bupropion hydrochloride
+## 2.2 Equivalent Daily Doses of APLENZIN (Bupropion hydrobromide) and Bupropion hydrochloride
 
 See Table 1 for equivalent daily doses of APLENZIN (bupropion hydrobromide) and bupropion hydrochloride.
 
@@ -37,7 +37,7 @@ Doses above 300 mg of bupropion HCl extended-release (equivalent to APLENZIN 348
 For the prevention of seasonal MDD episodes associated with SAD, initiate APLENZIN in the autumn, prior to the onset of depressive symptoms.
 Continue treatment through the winter season.
 Taper and discontinue APLENZIN in early spring.
-For patients treated with 348 mg per day, decrease the dose to 150 mg once daily before discontinuing APLENZIN.
+For patients treated with 348 mg per day, decrease the dose to 174 mg once daily before discontinuing APLENZIN.
 Individualize the timing of initiation and duration of treatment should be individualized, based on the patient’s historical pattern of seasonal MDD episodes.
 
 ## 2.5 To Discontinue APLENZIN, Taper the Dose

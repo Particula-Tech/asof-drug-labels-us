@@ -18,18 +18,6 @@ Talk to your healthcare provider or your family member’s healthcare provider a
 
 What is the most important information I should know about antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions?
 
-- 1.Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment.
-- 2.Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
-  Some people may have a particularly high risk of having suicidal thoughts or actions.
-  These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
-- 3.How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
-
-- •Pay close attention to any changes, especially sudden changes in mood, behaviors, thoughts, or feelings.
-  This is very important when an antidepressant medicine is started or when the dose is changed.
-- •Call your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
-- •Keep all follow-up visits with your healthcare provider as scheduled.
-  Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
-
 Call your healthcare provider right away if you or your family member has any of the following symptoms especially if they are new, worse, or worry you:
 
 - •thoughts about suicide or dying
@@ -100,7 +88,7 @@ What Other Important Information Should I Know About APLENZIN?
   - •who take certain medicines
 
 The chance of having seizures increases with higher doses of APLENZIN.
-For more information, see the sections “Who should not take APLENZIN?” and “What should I tell my healthcare provider before using APLENZIN?
+For more information, see the sections “Who should not take APLENZIN?” and “What should I tell my healthcare provider before using APLENZIN?”
 Tell your healthcare provider about all of your medical conditions and all the medicines you take.
 Do not take any other medicines while you are taking APLENZIN unless your healthcare provider has said it is okay to take them.
 
@@ -120,7 +108,7 @@ Do not take APLENZIN again if you have a seizure.
 
 If you have any of the above symptoms of mania, call your healthcare provider.
 
-- •Unusual thoughts or behaviors: Some people may have unusual thoughts or behaviors while taking APLENZIN, including delusions (believe you are someone else), hallucinations (seeing or hearing things that are not there), paranoia (feeling that people are against you), or feeling confused.
+- •Unusual thoughts or behaviors: Some patients may have unusual thoughts or behaviors while taking APLENZIN, including delusions (believe you are someone else), hallucinations (seeing or hearing things that are not there), paranoia (feeling that people are against you), or feeling confused.
   If this happens to you, call your healthcare provider.
 - •Visual Problems
   - •eye pain
@@ -128,7 +116,6 @@ If you have any of the above symptoms of mania, call your healthcare provider.
   - •swelling or redness in or around the eye
 - Only some people are at risk for these problems.
   You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
-
 - •Severe allergic reactions: Some people have severe allergic reactions to APLENZIN.
   Stop taking APLENZIN and call your healthcare provider right away if you get a rash, itching, hives, fever, swollen lymph glands, painful sores in the mouth or around the eyes, swelling of the lips or tongue, chest pain, or trouble breathing.
   These could be signs of a serious allergic reaction.
@@ -159,21 +146,23 @@ Tell your healthcare provider if you have ever had depression, suicidal thoughts
 See “Antidepressant Medicines, Depression, and Other Mental Illnesses, and Suicidal Thoughts or Actions.”
 
 - Tell your healthcare provider about your other medical conditions including if you:
-  1. •have liver problems, especially cirrhosis of the liver.
-  2. •have kidney problems.
-  3. •have, or have had, an eating disorder, such as anorexia nervosa or bulimia.
-  4. •havehad a head injury.
-  5. •have had a seizure (convulsion, fit).
-  6. •have a tumorin your nervous system (brain or spine).
-  7. •have had a heart attack, heart problems, or high blood pressure.
-  8. •are a diabetic taking insulin or other medications to control your blood sugar.
-  9. •drink alcohol.
-  10. •abuse prescription medicines or street drugs.
-  11. •are pregnant or plan to become pregnant.
-  12. •are breastfeeding.
-      APLENZIN passes into your milk in small amounts.
+
+- 
+  - •have liver problems, especially cirrhosis of the liver.
+  - •have kidney problems.
+  - •have, or have had, an eating disorder, such as anorexia nervosa or bulimia.
+  - •have had a head injury.
+  - •have had a seizure (convulsion, fit).
+  - •have a tumor in your nervous system (brain or spine).
+  - •have had a heart attack, heart problems, or high blood pressure.
+  - •are a diabetic taking insulin or other medicines to control your blood sugar.
+  - •drink alcohol.
+  - •abuse prescription medicines or street drugs.
+  - •are pregnant or plan to become pregnant.
+  - •are breastfeeding.
+    APLENZIN passes into your milk in small amounts.
 - •Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
-  Many medicines increase your chances of having seizures or cause other serious side effects if you take them while you are using APLENZIN.
+  Many medicines increase your chances of having seizures or cause other serious side effects if you take them while you are taking APLENZIN.
 
 How should I take APLENZIN?
 
@@ -281,7 +270,9 @@ All other product/brand names are the trademarks of their respective owners.
 
 ©Valeant Pharmaceuticals International, Inc.
 
-Rev.
-12/2014
+9386803
 
-9386802
+20001284
+
+Rev.
+11/2015

@@ -121,7 +121,7 @@ Discontinue APLENZIN if these reactions occur.
 
 ## 5.7 Angle Closure Glaucoma
 
-Angle-Closure Glaucoma: The pupillary dilation that occurs following use of many antidepressant drugs including WELLBUTRIN XL may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+Angle-Closure Glaucoma: The pupillary dilation that occurs following use of many antidepressant drugs including APLENZIN may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
 
 ## 5.8 Hypersensitivity Reactions
 

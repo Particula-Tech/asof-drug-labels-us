@@ -12,7 +12,7 @@ In the third study, outpatients were treated with bupropion 300 mg per day.
 This study demonstrated the efficacy of bupropion as measured by the HDRS total score, the HDRS item 1, the Montgomery-Asberg Depression Rating Scale (MADRS), the CGI-S score, and the CGI-Improvement Scale (CGI-I) score.
 
 A longer-term, placebo-controlled, randomized withdrawal trial demonstrated the efficacy of bupropion HCl sustained-release in the maintenance treatment of MDD.
-The trial included adult outpatients meeting DSM-IV criteria for MDD, recurrent type, who had responded during an 8-week open-label trial of bupropion 300 mg per day.
+The trial included adult outpatients meeting DSM-IV criteria for MDD, recurrent type, who had responded during an 8 week open-label trial of bupropion 300 mg per day.
 Responders were randomized to continuation of bupropion 300 mg per day or placebo, for up to 44 weeks of observation for relapse.
 Response during the open-label phase was defined as a CGI-Improvement Scale score of 1 (very much improved) or 2 (much improved) for each of the final 3 weeks.
 Relapse during the double-blind phase was defined as the investigator’s judgment that drug treatment was needed for worsening depressive symptoms.
