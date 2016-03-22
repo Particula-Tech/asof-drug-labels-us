@@ -13,7 +13,7 @@ Occasionally in post-marketing use, implant insertions have failed because the i
 If IMPLANON is inserted deeply (intramuscular or in the fascia), neural or vascular injury may occur.
 To reduce the risk of neural or vascular injury, IMPLANON should be inserted at the inner side of the non-dominant upper arm about 8-10 cm (3-4 inches) above the medial epicondyle of the humerus.
 IMPLANON should be inserted subdermally just under the skin, avoiding the sulcus (groove) between the biceps and triceps muscles and the large blood vessels and nerves that lie there in the neurovascular bundle deeper in the subcutaneous tissues.
-Deep insertions of IMPLANON have been associated with paraesthesia (due to neural injury) and migration of the implant (due to intramuscular or fascial insertion), and in a very few cases with intravascular insertion.
+Deep insertions of IMPLANON have been associated with paraesthesia (due to neural injury), migration of the implant (due to intramuscular or fascial insertion), and intravascular insertion.
 If infection develops at the insertion site, start suitable treatment.
 If the infection persists, the implant should be removed.
 Incomplete insertions or infections may lead to expulsion.
@@ -21,7 +21,7 @@ Incomplete insertions or infections may lead to expulsion.
 Implant removal may be difficult or impossible if the implant is not inserted correctly, is inserted too deeply, not palpable, encased in fibrous tissue, or has migrated.
 
 There have been reports of migration of the implant within the arm from the insertion site, which may be related to a deep insertion.
-There also have been rare postmarketing reports of implants located within the vessels of the arm and the pulmonary artery, which may be related to deep insertions or intravascular insertion.
+There also have been postmarketing reports of implants located within the vessels of the arm and the pulmonary artery, which may be related to deep insertions or intravascular insertion.
 In cases where the implant has migrated to the pulmonary artery, endovascular procedures may be needed for removal.
 
 If at any time the implant cannot be palpated, it should be localized and removal is recommended.
@@ -128,7 +128,8 @@ In studies, 2.3% of the users reported weight gain as the reason for having the 
 
 Women with a history of hypertension-related diseases or renal disease should be discouraged from using hormonal contraception.
 For women with well-controlled hypertension, use of IMPLANON can be considered.
-Women with hypertension using IMPLANON should be closely monitored. lf sustained hypertension develops during the use of IMPLANON, or if a significant increase in blood pressure does not respond adequately to antihypertensive therapy, IMPLANON should be removed.
+Women with hypertension using IMPLANON should be closely monitored.
+If sustained hypertension develops during the use of IMPLANON, or if a significant increase in blood pressure does not respond adequately to antihypertensive therapy, IMPLANON should be removed.
 
 ## 5.10 Gallbladder Disease
 
