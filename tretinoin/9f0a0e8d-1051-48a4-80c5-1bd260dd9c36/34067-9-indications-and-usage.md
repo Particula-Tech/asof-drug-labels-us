@@ -8,16 +8,16 @@ In double-blinded, vehicle-controlled clinical studies, many patients in the veh
 
 - •RENOVA® (tretinoin cream) 0.02% has NOT DEMONSTRATED A MITIGATING EFFECT on significant signs of chronic sunlight exposure such as coarse or deep wrinkling, tactile roughness, mottled hyperpigmentation, lentigines, telangiectasia, skin laxity, keratinocytic atypia, melanocytic atypia, or dermal elastosis.
 - •RENOVA® (tretinoin cream) 0.02% should be used under medical supervision as an adjunct to a comprehensive skin care and sunlight avoidance program that includes the use of effective sunscreens (minimum SPF of 15) and protective clothing.
-- •Patients with visible actinic keratoses and patients with a history of skin cancer were excluded from clinical trials of RENOVA® (tretinoin cream) 0.02%.
+- •Patients with visible actinic keratosis and patients with a history of skin cancer were excluded from clinical trials of RENOVA® (tretinoin cream) 0.02%.
   Thus the effectiveness and safety of RENOVA® (tretinoin cream) 0.02% in these populations are not known at this time.
-- •Neither the safety nor the effectiveness of RENOVA® (tretinoin cream) 0.02% for the prevention or treatment of actinic keratoses or skin neoplasms has been established.
+- •Neither the safety nor the effectiveness of using RENOVA® (tretinoin cream) 0.02% for the prevention or treatment of actinic keratoses or skin neoplasms has been established.
 - •Neither the safety nor the efficacy of RENOVA® (tretinoin cream) 0.02% daily for greater than 52 weeks has been established, and daily use beyond 52 weeks has not been systematically and histologically investigated in adequate and well-controlled trials.
   (See WARNINGS section.)
 
 ## CLINICAL TRIALS
 
 Four adequate and well-controlled multi-center trials and one single-center randomized, controlled trial were conducted involving a total of 324 evaluable patients treated with RENOVA® (tretinoin cream) 0.02% and 332 evaluable patients treated with the vehicle cream on the face for 24 weeks with a comprehensive skin care and sun avoidance program, to assess the effects on fine and coarse wrinkling, mottled hyperpigmentation, tactile skin roughness, and laxity.
-Patients were evaluated at baseline on a 10 unit scale and changes from the baseline rating were categorized as follows:
+Patients were evaluated at baseline on a 10 unit scale and changes from that baseline rating were categorized as follows:
 
 | Worsening: | Increase of 1 unit or more. |
 | --- | --- |

@@ -4,13 +4,21 @@ NOT FOR OPHTHALMIC, ORAL, OR INTRAVAGINAL USE.
 # QUESTIONS
 
 Physicians and Pharmacists can call 1-800-321-4576, from 8:30 a.m. to 4:30 p.m.
-Eastern time, Monday through Friday.
+Eastern Time, Monday through Friday.
 
 Rx only.
 
-Distributed by: Valeant Dermatology, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807
+Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-Manufactured by: Ortho Pharmaceuticals, a division of Janssen Ortho LLC Manati, Puerto Rico 00674
+By:
+
+Valeant Pharmaceuticals International Inc.
+
+Laval, Quebec H7L 4A8, Canada
+
+Made in Canada
 
 Rev.
-06/13 25150401 25150201
+04/2015
+
+9418701

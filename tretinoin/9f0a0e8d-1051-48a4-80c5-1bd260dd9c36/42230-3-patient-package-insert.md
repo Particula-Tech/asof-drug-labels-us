@@ -14,14 +14,14 @@ RENOVA® (tretinoin cream) 0.02% is a serious medicine.
 Do not use RENOVA® (tretinoin cream) 0.02% if you are pregnant or attempting to become pregnant.
 If you become pregnant while using RENOVA® (tretinoin cream) 0.02%, please contact your doctor immediately.
 
-Avoid sunlight and other medicines that may increase your sensitivity to sunlight (See "Who should not use RENOVA® (tretinoin cream) 0.02%?")
+Avoid sunlight and other medicines that may increase your sensitivity to sunlight (See "Who should not use RENOVA® (tretinoin cream) 0.02%?").
 
 RENOVA® (tretinoin cream) 0.02% does not remove wrinkles or repair sun-damaged skin.
-(See "What is RENOVA® (tretinoin cream) 0.02%" for more details.)
+(See "What is RENOVA® (tretinoin cream) 0.02%?" for more details.)
 
 What is RENOVA® (tretinoin cream) 0.02%?
 
-RENOVA® (tretinoin cream) 0.02% is a prescription medicine that may reduce fine wrinkles.
+RENOVA® (tretinoin cream) 0.02% is a prescription medicine that may reduce fine facial wrinkles.
 It is for patients who are using a total skin care and sunlight avoidance program.
 RENOVA® (tretinoin cream) 0.02% does not remove wrinkles or repair sun-damaged skin.
 RENOVA® (tretinoin cream) 0.02% does not work for everyone who uses it.
@@ -52,7 +52,8 @@ Do not use RENOVA® (tretinoin cream) 0.02% if:
 
 RENOVA® (tretinoin cream) 0.02% can cause increased skin irritation and increased chance of sunburn.
 
-Tell your doctor if you have any skin condition, RENOVA® (tretinoin cream) 0.02% may not be right for you.
+Tell your doctor if you have any skin condition.
+RENOVA® (tretinoin cream) 0.02% may not be right for you.
 
 Because RENOVA® (tretinoin cream) 0.02% may make your skin more likely to burn from sunlight, tell your doctor if you are using other medicines that increase sensitivity to sunlight.
 You should not use RENOVA® (tretinoin cream) 0.02% with such medicines.
@@ -69,13 +70,13 @@ Therefore, tell your doctor if you are breast feeding.
 
 How should I use RENOVA® (tretinoin cream) 0.02%?
 
-Use RENOVA® (tretinoin cream) 0.02% as a part of a total skin care and sun avoidance program.
+Use RENOVA® (tretinoin cream) 0.02% as part of a total skin care and sun avoidance program.
 Follow your doctor's instructions on how to use RENOVA® (tretinoin cream) 0.02%.
 RENOVA® (tretinoin cream) 0.02% is usually applied to the face once a day in the evening, following the 3 steps listed below:
 
-- 1.Gently wash your face with a mild soap.
-- 2.Pat the skin dry and wait 20-30 minutes before applying RENOVA® (tretinoin cream) 0.02%.
-- 3.TUBE: Squeeze a small amount of RENOVA® (tretinoin cream) 0.02% (the size of a pearl about ¼ inch or 5mm diameter) on your fingertip, and apply to your face.
+1. 1.Gently wash your face with a mild soap.
+2. 2.Pat the skin dry and wait 20-30 minutes before applying RENOVA® (tretinoin cream) 0.02%.
+3. 3.TUBE: Squeeze a small amount of RENOVA® (tretinoin cream) 0.02% (the size of a pearl about ¼ inch or 5mm diameter) on your fingertip, and apply to your face.
 
 PUMP: Fully depress the pump twice to dispense a small amount of RENOVA® (tretinoin cream) 0.02% (the size of a pearl—about ¼ inch or 5mm diameter) on your fingertip, and apply to your face.
 
@@ -105,7 +106,7 @@ Avoid as much as possible products that can increase skin irritation, such as:
 - •chemical hair removers or waxes
 - •electrolysis
 - •products with alcohol, spices, astringents, or lime
-- •cleansers, shampoos, or cosmetics with a strong drying effect
+- •cleaners, shampoos, or cosmetics with a strong drying effect
 - •other products that may irritate your skin
 
 What are the possible side effects of RENOVA® (tretinoin cream) 0.02%?
@@ -128,9 +129,15 @@ You can ask your pharmacist or doctor for information about RENOVA® (tretinoin 
 
 Storage: Store at 25°C (77°F), excursions permitted to 15-30°C (59°-86°F).
 
-Distributed by: Valeant Dermatology, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807
+Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-Manufactured by: Ortho Pharmaceuticals, a division of Janssen Ortho LLC Manati, Puerto Rico 00674
+By:
+
+Valeant Pharmaceuticals International Inc.
+
+Laval, Quebec H7L 4A8, Canada
+
+Made in Canada
 
 Rev.
-06/13 25150401 25150201
+04/2015 9418701

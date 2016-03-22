@@ -3,7 +3,7 @@
 - •Do NOT use RENOVA® (tretinoin cream) 0.02% if the patient is pregnant or is attempting to become pregnant or is at high risk of pregnancy,
 - •Do NOT use RENOVA® (tretinoin cream) 0.02% if the patient is sunburned or if the patient has eczema or other chronic skin conditions of the face,
 - •Do NOT use RENOVA® (tretinoin cream) 0.02% if the patient is inherently sensitive to sunlight,
-- •Do NOT use RENOVA® (tretinoin cream) 0.02% if the patient is also taking drug(s) known to be photosensitizers (e.g., thiazides, tetracyclines, fluoroquinolones, phenothiazines, sulfonamides) because of the possibility of augmented phototoxicity.
+- •Do NOT use RENOVA® (tretinoin cream) 0.02% if the patient is also taking drug(s) known to be photosensitizers (e.g., thiazides, tetracyclines, fluoro-quinolones, phenothiazines, sulfonamides) because of the possibility of augmented phototoxicity.
 
 Patients require detailed instruction to obtain maximal benefits and to understand all the precautions necessary to use this product with greatest safety.
 The physician should review the Patient Package Insert.
