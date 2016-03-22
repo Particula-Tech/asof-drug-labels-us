@@ -9,7 +9,6 @@ The following important adverse reactions are described below and elsewhere in t
 - •Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.5)]
 - •Genital Mycotic Infections [see Warnings and Precautions (5.6)]
 - •Increases in Low-Density Lipoprotein Cholesterol (LDL‑C) [see Warnings and Precautions (5.7)]
-
 - 1.Bladder Cancer [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
