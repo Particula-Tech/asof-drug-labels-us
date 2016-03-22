@@ -47,7 +47,7 @@ There were insufficient data to assess the impact of race on the incidence of ad
 
 ## 6.2 Controlled Clinical Trials in Patients with Cluster Headache
 
-In the controlled clinical trials assessing sumatriptan injection as a treatment for cluster headache, no new significant adverse reactions associated with the use of sumatriptan were detected that had not already been identified in association with the drug’s use in migraine.
+In the controlled clinical trials assessing sumatriptan injection as a treatment for cluster headache, no new significant adverse reactions associated with the use of sumatriptan were detected that had not already been identified in association with the drug's use in migraine.
 
 Overall, the frequency of adverse events reported in studies of cluster headache was generally lower.
 Exceptions include reports of paresthesia (5% sumatriptan, 0% placebo), nausea and vomiting (4% sumatriptan, 0% placebo), and bronchospasm (1% sumatriptan, 0% placebo).
@@ -91,7 +91,7 @@ Rare was skin tenderness.
 
 Urogenital: Rare were dysuria, frequency, dysmenorrhea, and renal calculus.
 
-Miscellaneous: Infrequent were miscellaneous laboratory abnormalities, including minor disturbances in liver function tests, “serotonin agonist effect,” and hypersensitivity to various agents.
+Miscellaneous: Infrequent were miscellaneous laboratory abnormalities, including minor disturbances in liver function tests, "serotonin agonist effect," and hypersensitivity to various agents.
 Rare was fever.
 
 ## 6.4 Other Adverse Reactions Observed in the Clinical Development of Sumatriptan

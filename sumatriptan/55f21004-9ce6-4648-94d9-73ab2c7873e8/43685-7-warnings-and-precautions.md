@@ -44,10 +44,10 @@ Patients with Risk Factors for CAD
 
 It is strongly recommended that ALSUMA not be given to patients in whom unrecognized CAD is predicted by the presence of risk factors (e.g., hypertension, hypercholesterolemia, smoking, obesity, diabetes, strong family history of CAD, female with surgical or physiological menopause, or male over 40 years of age) unless a cardiovascular evaluation provides satisfactory clinical evidence that the patient is reasonably free of coronary artery and ischemic myocardial disease or other significant underlying cardiovascular disease.
 The sensitivity of cardiac diagnostic procedures to detect cardiovascular disease or predisposition to coronary artery vasospasm is modest, at best.
-If, during the cardiovascular evaluation, the patient’s medical history or electrocardiographic investigations reveal findings indicative of or consistent with coronary artery vasospasm or myocardial ischemia, ALSUMA should not be administered.
+If, during the cardiovascular evaluation, the patient's medical history or electrocardiographic investigations reveal findings indicative of or consistent with coronary artery vasospasm or myocardial ischemia, ALSUMA should not be administered.
 [see Contraindications (4.2)]
 
-For patients with risk factors predictive of CAD who have a satisfactory cardiovascular evaluation, it is strongly recommended that administration of the first dose of ALSUMA take place in the setting of a physician’s office or similar medically staffed and equipped facility.
+For patients with risk factors predictive of CAD who have a satisfactory cardiovascular evaluation, it is strongly recommended that administration of the first dose of ALSUMA take place in the setting of a physician's office or similar medically staffed and equipped facility.
 Because cardiac ischemia can occur in the absence of clinical symptoms, consideration should be given to obtaining, on the first occasion of use, an electrocardiogram (ECG) during the interval immediately following use of ALSUMA in these patients with risk factors.
 
 It is recommended that patients who are intermittent long-term users of ALSUMA and who have or acquire risk factors predictive of CAD, as described above, undergo cardiovascular evaluation periodically as they continue to use sumatriptan.
@@ -58,8 +58,8 @@ In considering this recommendation for periodic cardiovascular evaluation, it is
 Sensations of tightness, pain, pressure, and heaviness in the precordium, throat, neck, and jaw are relatively common after treatment with sumatriptan.
 Only rarely have these symptoms been associated with ischemic ECG changes.
 
-However, because sumatriptan may cause coronary vasospasm, patients who experience signs or symptoms suggestive of angina following dosing should be evaluated for the presence of CAD or a predisposition to Prinzmetal’s variant angina before receiving additional doses of medication, and should be monitored electrocardiographically if dosing is resumed and similar symptoms occur.
-Patients shown to have CAD and those with Prinzmetal’s variant angina should not receive 5-HT1 agonists.
+However, because sumatriptan may cause coronary vasospasm, patients who experience signs or symptoms suggestive of angina following dosing should be evaluated for the presence of CAD or a predisposition to Prinzmetal's variant angina before receiving additional doses of medication, and should be monitored electrocardiographically if dosing is resumed and similar symptoms occur.
+Patients shown to have CAD and those with Prinzmetal's variant angina should not receive 5-HT1 agonists.
 [see Contraindications (4.2) and Warnings and Precautions (5.1)]
 
 Similarly, patients who experience other symptoms or signs suggestive of decreased arterial flow, such as ischemic bowel syndrome or Raynaud syndrome, following sumatriptan should be evaluated for atherosclerosis or predisposition to vasospasm.
@@ -81,7 +81,7 @@ Both peripheral vascular ischemia and colonic ischemia with abdominal pain and b
 Very rare reports of transient and permanent blindness and significant partial vision loss have been reported with the use of sumatriptan.
 Visual disorders may also be part of a migraine attack.
 
-Patients who experience other symptoms or signs suggestive of decreased arterial flow following the use of any 5-HT1 agonist, such as ischemic bowel syndrome or Raynaud’s syndrome, are candidates for further evaluation.
+Patients who experience other symptoms or signs suggestive of decreased arterial flow following the use of any 5-HT1 agonist, such as ischemic bowel syndrome or Raynaud's syndrome, are candidates for further evaluation.
 [see Contraindications (4.4)]
 
 ## 5.5 Serotonin Syndrome

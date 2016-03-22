@@ -7,7 +7,7 @@ Do not administer intravenously since sumatriptan may cause coronary vasospasm.
 
 ## 4.2 Ischemic or Vasospastic Coronary Artery Disease
 
-Do not use ALSUMA in patients with ischemic heart disease (e.g. angina pectoris, history of myocardial infarction, or documented silent ischemia), or to patients who have symptoms or findings consistent with ischemic heart disease, coronary artery vasospasm, including Prinzmetal’s variant angina or other significant underlying cardiovascular disease.
+Do not use ALSUMA in patients with ischemic heart disease (e.g. angina pectoris, history of myocardial infarction, or documented silent ischemia), or to patients who have symptoms or findings consistent with ischemic heart disease, coronary artery vasospasm, including Prinzmetal's variant angina or other significant underlying cardiovascular disease.
 [see Warnings and Precautions (5.1)]
 
 ## 4.3 Cerebrovascular Syndromes

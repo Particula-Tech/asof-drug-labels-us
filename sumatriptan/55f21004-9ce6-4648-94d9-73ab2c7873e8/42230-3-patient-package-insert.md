@@ -2,7 +2,7 @@
 
 FOOD AND DRUG ADMINISTRATION
 
-Patient Information ALSUMA™ (Awl-SOO’-mah) (sumatriptan injection) Auto-Injector
+Patient Information ALSUMA™ (Awl-SOO'-mah) (sumatriptan injection) Auto-Injector
 
 Read the Patient Information that comes with ALSUMA™ before you start taking it and each time you get a refill.
 There may be new information.
@@ -27,7 +27,7 @@ The risk factors for heart disease include:
 - female who has gone through menopause
 - male over age 40
 
-“Seratonin syndrome” is a serious and life-threatening problem that can be caused by ALSUMA, especially if used with anti-depressant medicines called: selective serotonin reuptake inhibitors (SSRIs) or selective norepinephrine reuptake inhibitors (SNRIs).
+"Seratonin syndrome" is a serious and life-threatening problem that can be caused by ALSUMA, especially if used with anti-depressant medicines called: selective serotonin reuptake inhibitors (SSRIs) or selective norepinephrine reuptake inhibitors (SNRIs).
 
 Ask your healthcare provider or pharmacist for a list of these medicines, if you are not sure.
 
@@ -126,7 +126,7 @@ How should I take ALSUMA?
 What are the possible side effects of ALSUMA?
 
 ALSUMA can cause serious side effects or even death.
-See “What is the most important information I should know about ALSUMA?”
+See "What is the most important information I should know about ALSUMA?"
 
 Serious side effects include:
 
@@ -135,7 +135,7 @@ Serious side effects include:
 - increase in blood pressure
 - stroke
 - changes in mental status (agitation, hallucinations, coma)
-- changes in color or sensation to your fingers and toes (Raynaud’s syndrome)
+- changes in color or sensation to your fingers and toes (Raynaud's syndrome)
 - poor blood flow to your arms or legs
 - poor blood flow to your gastrointestinal tract
 
@@ -204,7 +204,7 @@ Inactive ingredient: sodium chloride
 
 PATIENT INSTRUCTIONS FOR USE
 
-ALSUMA™ (Awl-SOO’-mah) (sumatriptan injection) Auto-Injector
+ALSUMA™ (Awl-SOO'-mah) (sumatriptan injection) Auto-Injector
 
 Read the Patient Instructions for Use that come with the ALSUMA™ Auto-Injector before you start using it and each time you get a refill.
 There may be new information.

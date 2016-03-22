@@ -15,7 +15,7 @@ Blood Pressure: ALSUMA is contraindicated in patients with uncontrolled hyperten
 
 Peripheral (Small) Arteries: In healthy volunteers (N = 18), a study evaluating the effects of sumatriptan on peripheral (small vessel) arterial reactivity failed to detect a clinically significant increase in peripheral resistance.
 
-Heart Rate: Transient increases in blood pressure observed in some patients in clinical studies carried out during sumatriptan’s development as a treatment for migraine were not accompanied by any clinically significant changes in heart rate.
+Heart Rate: Transient increases in blood pressure observed in some patients in clinical studies carried out during sumatriptan's development as a treatment for migraine were not accompanied by any clinically significant changes in heart rate.
 
 Respiratory Rate: Experience gained during the clinical development of sumatriptan as a treatment for migraine failed to detect an effect of the drug on respiratory rate.
 
