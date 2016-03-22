@@ -205,7 +205,7 @@ All other trademarks referenced herein are the property of their respective owne
 
 © 2015 Gilead Sciences, Inc. All rights reserved.
 
-207561-GS-000
+207561-GS-001
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Issued: 11/2015
+Issued: 03/2016
