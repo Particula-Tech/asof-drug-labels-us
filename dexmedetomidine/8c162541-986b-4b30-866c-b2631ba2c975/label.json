@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA205867"
+  ],
+  "inn": "dexmedetomidine",
+  "labeler": "AuroMedics Pharma LLC",
+  "package_ndcs": [
+    "55150-209-02"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "dexmedetomidine hydrochloride",
+      "name": "Dexmedetomidine Hydrochloride"
+    }
+  ],
+  "setid": "8c162541-986b-4b30-866c-b2631ba2c975",
+  "source": "dailymed"
+}
