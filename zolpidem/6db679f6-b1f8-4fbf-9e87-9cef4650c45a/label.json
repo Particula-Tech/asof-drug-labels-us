@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA204299"
+  ],
+  "inn": "zolpidem",
+  "labeler": "GAVIS Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "43386-761-01",
+    "43386-761-30",
+    "43386-762-01",
+    "43386-762-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "zolpidem tartrate",
+      "name": "ZOLPIDEM TARTRATE"
+    }
+  ],
+  "setid": "6db679f6-b1f8-4fbf-9e87-9cef4650c45a",
+  "source": "dailymed"
+}
