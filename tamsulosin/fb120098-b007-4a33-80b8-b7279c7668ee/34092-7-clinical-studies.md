@@ -11,8 +11,8 @@ Mean changes from baseline to Week 13 in total AUA Symptom Score were significan
 The changes from baseline to Week 13 in peak urine flow rate were also significantly greater for the tamsulosin hydrochloride capsules 0.4 mg and 0.8 mg once-daily groups compared to placebo in Study 1, and for the tamsulosin hydrochloride capsules 0.8 mg once-daily group in Study 2 (Table 3, Figures 3A and 3B).
 Overall there were no significant differences in improvement observed in total AUA Symptom Scores or peak urine flow rates between the 0.4 mg and the 0.8 mg dose groups with the exception that the 0.8 mg dose in Study 1 had a significantly greater improvement in total AUA Symptom Score compared to the 0.4 mg dose.
 
-Table 3 Mean (±S.D.)
-Changes from Baseline to Week 13 in Total AUA Symptom Score** and Peak Urine Flow Rate (mL/sec)
+- Table 3 Mean (±S.D.)
+  Changes from Baseline to Week 13 in Total AUA Symptom Score** and Peak Urine Flow Rate (mL/sec)
 
 |  | Total AUA Symptom Score |  | Peak Urine Flow Rate |  |
 | --- | --- | --- | --- | --- |

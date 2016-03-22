@@ -37,8 +37,8 @@ Figure 1 Mean Plasma Tamsulosin Hydrochloride Concentrations Following Single-Do
 
 The effects of food on the pharmacokinetics of tamsulosin hydrochloride are consistent regardless of whether a tamsulosin hydrochloride capsule is taken with a light breakfast or a high-fat breakfast (Table 2).
 
-Table 2 Mean (± S.D.)
-Pharmacokinetic Parameters Following Tamsulosin Hydrochloride Capsules 0.4 mg Once Daily or 0.8 mg Once Daily with a Light Breakfast, High-Fat Breakfast or Fasted
+- Table 2 Mean (± S.D.)
+  Pharmacokinetic Parameters Following Tamsulosin Hydrochloride Capsules 0.4 mg Once Daily or 0.8 mg Once Daily with a Light Breakfast, High-Fat Breakfast or Fasted
 
 | Pharmacokinetic Parameter | 0.4 mg QD to healthy volunteers; n=23 (age range 18 to 32 years) |  | 0.8 mg QD to healthy volunteers; n=22 (age range 55 to 75 years) |  |  |
 | --- | --- | --- | --- | --- | --- |

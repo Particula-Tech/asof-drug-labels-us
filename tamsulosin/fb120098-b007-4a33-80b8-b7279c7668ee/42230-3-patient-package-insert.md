@@ -8,7 +8,7 @@ Read the Patient Information that comes with tamsulosin hydrochloride capsules b
 The information may have changed.
 This leaflet does not take the place of discussions with your doctor about your medical condition or your treatment.
 
-What is tamsulosin hydrochloride capsules?
+What are tamsulosin hydrochloride capsules?
 Tamsulosin hydrochloride is a prescription alpha-blocker medicine used to treat the signs and symptoms of benign prostatic hyperplasia (BPH), a condition your doctor may refer to as an enlarged prostate.
 
 - •tamsulosin hydrochloride is not for women.
@@ -62,7 +62,7 @@ Possible side effects of tamsulosin hydrochloride may include:
 
 Change positions slowly from lying down to sitting up or from a sitting to a standing position until you learn how you react to tamsulosin hydrochloride capsules.
 If you begin to feel dizzy, sit or lie down until you feel better.
-If the symptoms are severe or do not improve, call your doctor
+If the symptoms are severe or do not improve, call your doctor.
 
 - •Allergic reactions.
   Make your doctor aware of any allergic reactions you may experience while taking tamsulosin hydrochloride capsules.
@@ -77,10 +77,9 @@ Rare and more serious allergic reactions may also occur.
 Get medical help right away if you have any of the following reactions:
 
 - 
-  - 
-    - ▪swelling of face, tongue, or throat
-    - ▪difficulty breathing
-    - ▪blistering of the skin
+  - ∘swelling of face, tongue, or throat
+  - ∘difficulty breathing
+  - ∘blistering of the skin
 - •A painful erection that will not go away.
   Tamsulosin hydrochloride capsules can cause a painful erection (priapism), which cannot be relieved by having sex.
   If this happens, get medical help right away.
@@ -142,4 +141,4 @@ Manufactured in Slovenia by Lek Pharmaceuticals d.d.
 
 Distributed by Sandoz Inc., Princeton, NJ 08540
 
-Revised: November 2014
+Revised: December 2015

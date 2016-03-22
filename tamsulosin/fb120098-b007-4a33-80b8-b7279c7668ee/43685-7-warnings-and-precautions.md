@@ -42,7 +42,7 @@ The patient's ophthalmologist should be prepared for possible modifications to t
 
 IFIS may increase the risk of eye complications during and after the operation.
 The benefit of stopping alpha1 blocker therapy prior to cataract or glaucoma surgery has not been established.
-The initiation of therapy with tamsulosin in patients for whom cataract surgery is scheduled is not recommended.
+The initiation of therapy with tamsulosin in patients for whom cataract or glaucoma surgery is scheduled is not recommended.
 
 ## 5.6 Sulfa Allergy
 

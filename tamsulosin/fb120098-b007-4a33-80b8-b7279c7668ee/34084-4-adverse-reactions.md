@@ -8,14 +8,14 @@ The incidence of treatment-emergent adverse events has been ascertained from six
 These studies evaluated safety in 1783 patients treated with tamsulosin hydrochloride capsules and 798 patients administered placebo.
 Table 1 summarizes the treatment-emergent adverse events that occurred in ≥2% of patients receiving either tamsulosin hydrochloride capsules 0.4 mg or 0.8 mg and at an incidence numerically higher than that in the placebo group during two 13-week U.S. trials (US92-03A and US93-01) conducted in 1487 men.
 
-Table 1 Treatment-Emergent* Adverse Events Occurring in ≥2% of Tamsulosin Hydrochloride Capsules or Placebo Patients in Two U.S. Short-Term Placebo-Controlled Clinical Studies
+- Table 1 Treatment-Emergent* Adverse Events Occurring in ≥2% of Tamsulosin Hydrochloride Capsules or Placebo Patients in Two U.S. Short-Term Placebo-Controlled Clinical Studies
 
 | BODY SYSTEM/ADVERSE EVENT | TAMSULOSIN HYDROCHLORIDE CAPSULES GROUPS |  | PLACEBO |
 | --- | --- | --- | --- |
 |  | 0.4 mg n=502 | 0.8 mg n=492 | n=493 |
 | BODY AS WHOLE |  |  |  |
 | Headache | 97 (19.3%) | 104 (21.1%) | 99 (20.1%) |
-| Infection† | 45 (9%) | 53 (10.8%) | 37 (7.5%) |
+| InfectionCoding preferred terms also include cold, common cold, head cold, flu, and flu-like symptoms. | 45 (9%) | 53 (10.8%) | 37 (7.5%) |
 | Asthenia | 39 (7.8%) | 42 (8.5%) | 27 (5.5%) |
 | Back pain | 35 (7%) | 41 (8.3%) | 27 (5.5%) |
 | Chest pain | 20 (4%) | 20 (4.1%) | 18 (3.7%) |
@@ -25,7 +25,7 @@ Table 1 Treatment-Emergent* Adverse Events Occurring in ≥2% of Tamsulosin Hydr
 | Insomnia | 12 (2.4%) | 7 (1.4%) | 3 (0.6%) |
 | Libido decreased | 5 (1%) | 10 (2%) | 6 (1.2%) |
 | RESPIRATORY SYSTEM |  |  |  |
-| Rhinitis‡ | 66 (13.1%) | 88 (17.9%) | 41 (8.3%) |
+| RhinitisCoding preferred terms also include nasal congestion, stuffy nose, runny nose, sinus congestion, and hay fever. | 66 (13.1%) | 88 (17.9%) | 41 (8.3%) |
 | Pharyngitis | 29 (5.8%) | 25 (5.1%) | 23 (4.7%) |
 | Cough increased | 17 (3.4%) | 22 (4.5%) | 12 (2.4%) |
 | Sinusitis | 11 (2.2%) | 18 (3.7%) | 8 (1.6%) |
