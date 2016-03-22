@@ -157,7 +157,7 @@ If the applicator is not kept in the same position during this procedure or if t
 Step 12.
 Always verify the presence of the implant in the woman's arm immediately after insertion by palpation.
 By palpating both ends of the implant, you should be able to confirm the presence of the 4 cm rod (Figure 8).
-See section below "If the rod is not palpable".
+See "If the rod is not palpable" below.
 
 Step 13.
 Place a small adhesive bandage over the insertion site.
@@ -265,7 +265,7 @@ The woman may remove the pressure bandage in 24 hours and the small bandage in 3
 
 Localization and Removal of a Non-Palpable Implant
 
-There have been occasional reports of migration of the implant; usually this involves minor movement relative to the original position, but may lead to the implant not being palpable at the location in which it was placed.
+There have been reports of migration of the implant; usually this involves minor movement relative to the original position [see Warnings and Precautions (5.1)], but may lead to the implant not being palpable at the location in which it was placed.
 An implant that has been deeply inserted or has migrated may not be palpable and therefore imaging procedures, as described below, may be required for localization.
 
 A non-palpable implant should always be located prior to attempting removal.
@@ -273,7 +273,7 @@ Given the radiopaque nature of the implant, suitable methods for localization in
 Ultrasound scanning (USS) with a high-frequency linear array transducer (10 MHz or greater) or magnetic resonance imaging (MRI) may be used.
 Once the implant has been localized in the arm, the implant should be removed according to the instructions in Dosage and Administration (2.3), Procedure for Removal of an Implant that is Palpable, and the use of ultrasound guidance during the removal should be considered.
 
-If the implant cannot be found in the arm after comprehensive localization attempts, consider applying imaging techniques to the chest as rare events of migration to the pulmonary vasculature have been reported.
+If the implant cannot be found in the arm after comprehensive localization attempts, consider applying imaging techniques to the chest as events of migration to the pulmonary vasculature have been reported.
 If the implant is located in the chest, surgical or endovascular procedures may be needed for removal; healthcare providers familiar with the anatomy of the chest should be consulted.
 
 If at any time these imaging methods fail to locate the implant, etonogestrel blood level determination can be used for verification of the presence of the implant.

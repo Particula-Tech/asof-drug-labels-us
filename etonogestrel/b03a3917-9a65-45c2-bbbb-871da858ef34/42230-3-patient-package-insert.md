@@ -114,7 +114,7 @@ If you cannot feel the implant immediately after insertion, the implant may not 
 A deep insertion may cause problems with locating and removing the implant.
 Once the healthcare professional has located the implant, removal may be recommended.
 
-If at any time you or your healthcare provider cannot feel the NEXPLANON implant, use a non-hormonal birth control method (such as condoms) until your healthcare provider confirms that the implant is in place.
+If at any time you cannot feel the NEXPLANON implant, contact your healthcare provider immediately and use a non-hormonal birth control method (such as condoms) until your healthcare provider confirms that the implant is in place.
 You may need special tests to check that the implant is in place or to help find the implant when it is time to take it out.
 If the implant cannot be found in the arm after a thorough search, your healthcare professional may use x-rays or other imaging methods on your chest.
 
@@ -167,7 +167,7 @@ Other common side effects include:
 - Pain
 - Pain at the site of insertion
 
-In rare cases, implants have been reported to be found in a blood vessel, including a blood vessel in the lung.
+Implants have been reported to be found in a blood vessel, including a blood vessel in the lung.
 
 This is not a complete list of possible side effects.
 For more information, ask your healthcare provider for advice about any side effects that concern you.
@@ -186,7 +186,7 @@ Location and removal of the implant may be difficult or impossible because the i
 Special procedures, including surgery in the hospital, may be needed to remove the implant.
 If the implant is not removed, then the effects of NEXPLANON will continue for a longer period of time.
 
-In rare cases, implants have been found in the pulmonary artery (a blood vessel in the lung).
+Implants have been found in the pulmonary artery (a blood vessel in the lung).
 If the implant cannot be found in the arm, your healthcare professional may use x-rays or other imaging methods on the chest.
 If the implant is located in the chest, surgery may be needed.
 
@@ -297,6 +297,6 @@ For patent information: www.merck.com/product/patent/home.html
 
 Copyright © 2011 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 09/2015
+Revised: 03/2016
 
-usppi-mk8415-iptx-1509r016
+usppi-mk8415-iptx-1603r017
