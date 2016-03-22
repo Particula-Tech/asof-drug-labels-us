@@ -16,7 +16,7 @@ Severe acute exacerbations of hepatitis B have been reported in patients who are
 In some patients infected with HBV and treated with EMTRIVA, the exacerbations of hepatitis B were associated with liver decompensation and liver failure.
 Patients who are infected with HBV should be closely monitored with both clinical and laboratory follow-up for at least several months after stopping treatment with TRUVADA.
 If appropriate, initiation of anti-hepatitis B therapy may be warranted.
-HBV -uninfected individuals should be offered vaccination.
+HBV-uninfected individuals should be offered vaccination.
 
 ## 5.3 New Onset or Worsening Renal Impairment
 
@@ -27,7 +27,7 @@ It is recommended that estimated creatinine clearance be assessed in all individ
 In patients at risk of renal dysfunction, including patients who have previously experienced renal events while receiving HEPSERA®, it is recommended that estimated creatinine clearance, serum phosphorus, urine glucose, and urine protein be assessed prior to initiation of TRUVADA, and periodically during TRUVADA therapy.
 
 TRUVADA should be avoided with concurrent or recent use of a nephrotoxic agent (e.g., high-dose or multiple non-steroidal anti-inflammatory drugs (NSAIDs)) [See Drug Interactions (7.4)].
-Cases of acute renal failure after initiation of high dose or multiple NSAIDs have been reported in HIV-infected patients with risk factors for renal dysfunction who appeared stable on tenofovir DF.
+Cases of acute renal failure after initiation of high dose or multiple NSAIDs have been reported in HIV-infected patients with risk factors for renal dysfunction who appeared stable on tenofovir disoproxil fumarate (tenofovir DF).
 Some patients required hospitalization and renal replacement therapy.
 Alternatives to NSAIDs should be considered, if needed, in patients at risk for renal dysfunction.
 
@@ -35,20 +35,20 @@ Persistent or worsening bone pain, pain in extremities, fractures and/or muscula
 
 Treatment of HIV-1 Infection
 
-Dosing interval adjustment of TRUVADA and close monitoring of renal function are recommended in all patients with estimated creatinine clearance 30–49 mL/min, [See Dosage and Administration (2.3)].
+Dosing interval adjustment of TRUVADA and close monitoring of renal function are recommended in all patients with estimated creatinine clearance 30–49 mL/min [See Dosage and Administration (2.4)].
 No safety or efficacy data are available in patients with renal impairment who received TRUVADA using these dosing guidelines, so the potential benefit of TRUVADA therapy should be assessed against the potential risk of renal toxicity.
 TRUVADA should not be administered to patients with estimated creatinine clearance below 30 mL/min or patients requiring hemodialysis.
 
 Pre-exposure Prophylaxis
 
 TRUVADA for a PrEP indication should not be used if estimated creatinine clearance is less than 60 mL/min.
-If a decrease in estimated creatinine clearance is observed in uninfected individuals while using TRUVADA for PrEP, evaluate potential causes and re-assess potential risks and benefits of continued use [See Dosage and Administration (2.3)].
+If a decrease in estimated creatinine clearance is observed in uninfected individuals while using TRUVADA for PrEP, evaluate potential causes and re-assess potential risks and benefits of continued use [See Dosage and Administration (2.4)].
 
 ## 5.4 Coadministration with Other Products
 
 TRUVADA is a fixed-dose combination of emtricitabine and tenofovir disoproxil fumarate.
-Do not coadminister TRUVADA with ATRIPLA, COMPLERA, EMTRIVA, STRIBILD, or VIREAD.
-Due to similarities between emtricitabine and lamivudine, do not coadminister TRUVADA with other drugs containing lamivudine, including Combivir (lamivudine/zidovudine), Epivir or Epivir-HBV (lamivudine), Epzicom (abacavir sulfate/lamivudine), Triumeq (abacavir sulfate/dolutegravir/lamivudine), or Trizivir (abacavir sulfate/lamivudine/zidovudine).
+Do not coadminister TRUVADA with other drugs containing emtricitabine or tenofovir disoproxil fumarate, or containing tenofovir alafenamide, including ATRIPLA, COMPLERA, EMTRIVA, GENVOYA, ODEFSEY, STRIBILD, or VIREAD.
+Due to similarities between emtricitabine and lamivudine, do not coadminister TRUVADA with other drugs containing lamivudine, including Combivir (lamivudine/zidovudine), Dutrebis (lamivudine/raltegravir), Epivir or Epivir-HBV (lamivudine), Epzicom (abacavir sulfate/lamivudine), Triumeq (abacavir sulfate/dolutegravir/lamivudine), or Trizivir (abacavir sulfate/lamivudine/zidovudine).
 
 Do not coadminister TRUVADA with HEPSERA (adefovir dipivoxil).
 
@@ -106,7 +106,7 @@ Use TRUVADA for pre-exposure prophylaxis only as part of a comprehensive prevent
 - Inform uninfected individuals about and support their efforts in reducing sexual risk behavior.
 
 Use TRUVADA to reduce the risk of acquiring HIV-1 only in individuals confirmed to be HIV-negative.
-HIV-1 resistance substitutions may emerge in individuals with undetected HIV-1 infection who are taking only TRUVADA, because TRUVADA alone does not constitute a complete treatment regimen for HIV-1 treatment [See Microbiology: Resistance (12.4)]; therefore, care should be taken to minimize drug exposure in HIV-infected individuals.
+HIV-1 resistance substitutions may emerge in individuals with undetected HIV-1 infection who are taking only TRUVADA, because TRUVADA alone does not constitute a complete treatment regimen for HIV-1 treatment [See Microbiology (12.4)]; therefore, care should be taken to minimize drug exposure in HIV-infected individuals.
 
 - Many HIV-1 tests, such as rapid tests, detect anti-HIV antibodies and may not identify HIV-1 during the acute stage of infection.
   Prior to initiating TRUVADA for a PrEP indication, evaluate seronegative individuals for current or recent signs or symptoms consistent with acute viral infections (e.g., fever, fatigue, myalgia, skin rash, etc.) and ask about potential exposure events (e.g., unprotected, or condom broke during sex with an HIV-1 infected partner) that may have occurred within the last month.

@@ -2,9 +2,9 @@
 
 As a part of patient counseling, healthcare providers must review the TRUVADA Medication Guide with every uninfected individual taking TRUVADA to reduce the risk of acquiring HIV.
 
-See FDA-approved patient labeling (Medication Guide)
+Advise the patient to read FDA-approved patient labeling (Medication Guide).
 
-## 17.1 Important Information for All Patients and Uninfected Individuals
+Important Information for All Patients and Uninfected Individuals
 
 Advise patients and uninfected individuals that:
 
@@ -22,12 +22,12 @@ Advise patients and uninfected individuals that:
   TRUVADA should be avoided with concurrent or recent use of a nephrotoxic agent (e.g., high-dose or multiple NSAIDs) [See Warnings and Precautions (5.3)].
   Dosing interval of TRUVADA may need adjustment in HIV-1 infected patients with renal impairment.
   TRUVADA for a PrEP indication should not be used in HIV-1 uninfected individuals if estimated creatinine clearance is less than 60 mL/min.
-  If a decrease in estimated creatinine clearance is observed in uninfected individuals while using TRUVADA for PrEP, evaluate potential causes and re-assess potential risks and benefits of continued use [See Dosage and Administration (2.3)].
-- Do not administer TRUVADA with ATRIPLA, COMPLERA, EMTRIVA, STRIBILD, or VIREAD; or with drugs containing lamivudine, including Combivir (lamivudine/zidovudine), Epivir or Epivir-HBV (lamivudine), Epzicom (abacavir sulfate/lamivudine), Triumeq (abacavir sulfate/dolutegravir/lamivudine), or Trizivir (abacavir sulfate/lamivudine/zidovudine) [See Warnings and Precautions (5.4)].
+  If a decrease in estimated creatinine clearance is observed in uninfected individuals while using TRUVADA for PrEP, evaluate potential causes and re-assess potential risks and benefits of continued use [See Dosage and Administration (2.4)].
+- Do not administer TRUVADA with ATRIPLA, COMPLERA, EMTRIVA, GENVOYA, ODEFSEY, STRIBILD, or VIREAD; or with drugs containing lamivudine, including Combivir (lamivudine/zidovudine), Dutrebis (lamivudine/raltegravir), Epivir or Epivir-HBV (lamivudine), Epzicom (abacavir sulfate/lamivudine), Triumeq (abacavir sulfate/dolutegravir/lamivudine), or Trizivir (abacavir sulfate/lamivudine/zidovudine) [See Warnings and Precautions (5.4)].
 - Do not administer TRUVADA with HEPSERA [See Warnings and Precautions (5.4)].
 - Decreases in bone mineral density have been observed with the use of VIREAD or TRUVADA.
   Consider bone monitoring in patients and uninfected individuals who have a history of pathologic bone fracture or at risk for osteopenia [See Warnings and Precautions (5.5)].
-- Patients and uninfected individuals should avoid doing things that can spread HIV-1 or HBV infection.
+- Patients and uninfected individuals should avoid doing things that can spread HIV-1 or HBV infection:
   - Do not share needles or other injection equipment.
   - Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
   - Do not have any kind of sex without protection.
@@ -35,7 +35,7 @@ Advise patients and uninfected individuals that:
   - Patients and uninfected individuals should not breastfeed because the drugs in TRUVADA can be passed to the baby in breast milk, and it is not known whether they can harm the baby.
     HIV-positive women should also not breastfeed because of the risk of passing the HIV-1 virus to the baby.
 
-## 17.2 Treatment of HIV-1 Infection
+Treatment of HIV-1 Infection
 
 When TRUVADA is used in the treatment of HIV-infection, advise patients that:
 
@@ -43,7 +43,7 @@ When TRUVADA is used in the treatment of HIV-infection, advise patients that:
 - It is important to take TRUVADA in a regular dosing schedule with combination therapy to avoid missing doses.
 - All patients with HIV-1 should be tested for hepatitis B virus (HBV) before initiating and monitored after discontinuing taking TRUVADA.
 
-## 17.3 Pre-Exposure Prophylaxis
+Pre-Exposure Prophylaxis
 
 When TRUVADA is used to reduce the risk of acquiring HIV-1, advise uninfected individuals about the importance of the following:
 
@@ -55,7 +55,7 @@ When TRUVADA is used to reduce the risk of acquiring HIV-1, advise uninfected in
 - Getting tested regularly (at least every 3 months) for HIV-1 and ask their partner(s) to get tested as well.
 - HIV-1 resistance substitutions may emerge in individuals with undetected HIV-1 infection who are taking TRUVADA, because TRUVADA alone does not constitute a complete regimen for HIV-1 treatment [See Warnings and Precautions (5.9)]
 - Reporting any symptoms of acute HIV-1 infection (flu-like symptoms) to their healthcare provider immediately.
-  - Signs and symptoms of acute infection include: fever, headache, fatigue, arthralgia, vomiting, myalgia, diarrhea, pharyngitis, rash, night sweats, and adenopathy (cervical and inguinal).
+- Signs and symptoms of acute infection include: fever, headache, fatigue, arthralgia, vomiting, myalgia, diarrhea, pharyngitis, rash, night sweats, and adenopathy (cervical and inguinal).
 - Getting tested for other sexually transmitted infections such as syphilis and gonorrhea that may facilitate HIV-1 transmission.
 - Learning about sexual risk behavior and getting support to help reduce sexual risk behavior.
 - Taking TRUVADA on a regular dosing schedule and strictly adhere to the recommended dosing schedule to reduce the risk of acquiring HIV-1.

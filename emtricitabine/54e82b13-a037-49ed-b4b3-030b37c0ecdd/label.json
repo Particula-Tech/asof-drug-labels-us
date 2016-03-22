@@ -5,7 +5,10 @@
   "inn": "emtricitabine",
   "labeler": "Gilead Sciences, Inc",
   "package_ndcs": [
-    "61958-0701-1"
+    "61958-0701-1",
+    "61958-0703-1",
+    "61958-0704-1",
+    "61958-0705-1"
   ],
   "products": [
     {

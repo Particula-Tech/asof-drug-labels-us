@@ -52,9 +52,13 @@ Tenofovir-associated risks, including the risk of viral resistance to tenofovir,
 
 ## 8.4 Pediatric Use
 
-TRUVADA should only be administered to HIV-1 infected pediatric patients 12 years of age and older with body weight greater than or equal to 35 kg.
-Because it is a fixed-dose combination tablet, TRUVADA cannot be adjusted for patients of lower age and weight.
-Safety and efficacy have not been established in pediatric patients less than 12 years of age or weighing less than 35 kg [See Warnings and Precautions (5.5), Adverse Reactions (6.1) and Clinical Pharmacology (12.3)].
+No pediatric clinical trial was conducted to evaluate the safety and efficacy of TRUVADA.
+Data from previously conducted trials with the individual drug products, EMTRIVA and VIREAD, were relied upon to support dosing recommendations for TRUVADA.
+For additional information, please consult the prescribing information for EMTRIVA and VIREAD.
+
+TRUVADA should only be administered to HIV-1 infected pediatric patients with body weight greater than or equal to 17 kg and who are able to swallow a whole tablet.
+Because it is a fixed-dose combination tablet, TRUVADA cannot be adjusted for patients of lower weight [See Warnings and Precautions (5.5), Adverse Reactions (6.1) and Clinical Pharmacology (12.3)].
+TRUVADA has not been evaluated for use in pediatric patients weighing less than 17 kg.
 
 ## 8.5 Geriatric Use
 
@@ -67,9 +71,9 @@ Treatment of HIV-1 Infection
 
 The dosing interval for TRUVADA should be modified in HIV-infected adult patients with estimated creatinine clearance of 30–49 mL/min.
 TRUVADA should not be used in patients with estimated creatinine clearance below 30 mL/min and in patients with end-stage renal disease requiring dialysis.
-[See Dosage and Administration (2.3)].
+[See Dosage and Administration (2.4)].
 
 Pre-exposure Prophylaxis
 
 TRUVADA for a PrEP indication should not be used in HIV-1 uninfected individuals with estimated creatinine clearance below 60 mL/min.
-If a decrease in estimated creatinine clearance is observed in uninfected individuals while using TRUVADA for PrEP, evaluate potential causes and re-assess potential risks and benefits of continued use [See Dosage and Administration (2.3)].
+If a decrease in estimated creatinine clearance is observed in uninfected individuals while using TRUVADA for PrEP, evaluate potential causes and re-assess potential risks and benefits of continued use [See Dosage and Administration (2.4)].

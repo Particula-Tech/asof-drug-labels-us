@@ -15,22 +15,22 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 Clinical Trials in Adult Subjects
 
 The most common adverse reactions (incidence greater than or equal to 10%, any severity) occurring in Study 934, an active-controlled clinical trial of efavirenz, emtricitabine, and tenofovir disoproxil fumarate, include diarrhea, nausea, fatigue, headache, dizziness, depression, insomnia, abnormal dreams, and rash.
-See also Table 2 for the frequency of treatment-emergent adverse reactions (Grades 2–4) occurring in greater than or equal to 5% of subjects treated in any treatment group in this trial.
+See also Table 3 for the frequency of treatment-emergent adverse reactions (Grades 2–4) occurring in greater than or equal to 5% of subjects treated in any treatment group in this trial.
 
 Skin discoloration, manifested by hyperpigmentation on the palms and/or soles, was generally mild and asymptomatic.
 The mechanism and clinical significance are unknown.
 
-Study 934 - Treatment Emergent Adverse Reactions: In Study 934, 511 antiretroviral-naive subjects received either VIREAD + EMTRIVA administered in combination with efavirenz (N=257) or zidovudine/lamivudine administered in combination with efavirenz (N=254) for 144 weeks.
+Study 934 - Treatment Emergent Adverse Reactions: In Study 934, 511 antiretroviral-naïve subjects received either VIREAD + EMTRIVA administered in combination with efavirenz (N=257) or zidovudine/lamivudine administered in combination with efavirenz (N=254) for 144 weeks.
 Subjects had a mean age of 40 years (range 20 to 73 years) and were predominantly male (88%).
 Overall, 65% were White, 17% were Black, and 13% were Hispanic.
-Adverse reactions observed in this trial were generally consistent with those seen in other trials in treatment-experienced or treatment-naive subjects receiving VIREAD and/or EMTRIVA (Table 2).
+Adverse reactions observed in this trial were generally consistent with those seen in other trials in treatment-experienced or treatment-naïve subjects receiving VIREAD and/or EMTRIVA (Table 3).
 
-Table 2 Selected Treatment-Emergent Adverse ReactionsFrequencies of adverse reactions are based on all treatment-emergent adverse events, regardless of relationship to study drug.
+Table 3 Selected Treatment-Emergent Adverse ReactionsFrequencies of adverse reactions are based on all treatment-emergent adverse events, regardless of relationship to study drug.
 (Grades 2–4) Reported in ≥5% in Any Treatment Group in Study 934 (0–144 Weeks)
 
 |  | N=257 | N=254 |
 | --- | --- | --- |
-|  | FTC + TDF + EFVFrom Weeks 96 to 144 of the trial, subjects received TRUVADA with efavirenz in place of VIREAD + EMTRIVA with efavirenz. | AZT/3TC + EFV |
+|  | FTC+TDF+EFVFrom Weeks 96 to 144 of the trial, subjects received TRUVADA with efavirenz in place of VIREAD + EMTRIVA with efavirenz. | AZT/3TC+EFV |
 | Gastrointestinal Disorder |  |  |
 | Diarrhea | 9% | 5% |
 | Nausea | 9% | 7% |
@@ -50,13 +50,13 @@ Table 2 Selected Treatment-Emergent Adverse ReactionsFrequencies of adverse reac
 | Skin and Subcutaneous Tissue Disorders |  |  |
 | Rash eventRash event includes rash, exfoliative rash, rash generalized, rash macular, rash maculo-papular, rash pruritic, and rash vesicular. | 7% | 9% |
 
-Laboratory Abnormalities: Laboratory abnormalities observed in this trial were generally consistent with those seen in other trials of VIREAD and/or EMTRIVA (Table 3).
+Laboratory Abnormalities: Laboratory abnormalities observed in this trial were generally consistent with those seen in other trials of VIREAD and/or EMTRIVA (Table 4).
 
-Table 3 Significant Laboratory Abnormalities Reported in ≥1% of Subjects in Any Treatment Group in Study 934 (0–144 Weeks)
+Table 4 Significant Laboratory Abnormalities Reported in ≥1% of Subjects in Any Treatment Group in Study 934 (0–144 Weeks)
 
 |  | N=257 | N=254 |
 | --- | --- | --- |
-|  | FTC + TDF + EFVFrom Weeks 96 to 144 of the trial, subjects received TRUVADA with efavirenz in place of VIREAD + EMTRIVA with efavirenz. | AZT/3TC + EFV |
+|  | FTC+TDF+EFVFrom Weeks 96 to 144 of the trial, subjects received TRUVADA with efavirenz in place of VIREAD + EMTRIVA with efavirenz. | AZT/3TC+EFV |
 | Any ≥ Grade 3 Laboratory Abnormality | 30% | 26% |
 | Fasting Cholesterol (>240 mg/dL) | 22% | 24% |
 | Creatine Kinase (M: >990 U/L) (F: >845 U/L) | 9% | 7% |
@@ -75,12 +75,17 @@ In addition to the events described above for Study 934, other adverse reactions
 
 In addition to the laboratory abnormalities described above for Study 934, Grades 3–4 laboratory abnormalities of increased bilirubin (>2.5 × ULN), increased pancreatic amylase (>2.0 × ULN), increased or decreased serum glucose (<40 or >250 mg/dL), and increased serum lipase (>2.0 × ULN) occurred in up to 3% of subjects treated with EMTRIVA or VIREAD with other antiretroviral agents in clinical trials.
 
-Clinical Trials in Pediatric Subjects 12 Years of Age and Older
+Clinical Trials in Pediatric Subjects
 
 Emtricitabine: In addition to the adverse reactions reported in adults, anemia and hyperpigmentation were observed in 7% and 32%, respectively, of pediatric subjects (3 months to less than 18 years of age) who received treatment with EMTRIVA in the larger of two open-label, uncontrolled pediatric trials (N=116).
 For additional information, please consult the EMTRIVA prescribing information.
 
-Tenofovir Disoproxil Fumarate: In a pediatric clinical trial conducted in subjects 12 to less than 18 years of age, the adverse reactions observed in pediatric subjects who received treatment with VIREAD were consistent with those observed in clinical trials of VIREAD in adults [See Warnings and Precautions (5.5)].
+Tenofovir Disoproxil Fumarate: In pediatric clinical trials (Studies 352 and 321) conducted in 184 HIV-1 infected subjects 2 to less than 18 years of age, the adverse reactions observed in pediatric subjects who received treatment with VIREAD were consistent with those observed in clinical trials of VIREAD in adults.
+
+Eighty-nine pediatric subjects (2 to less than 12 years of age) received VIREAD in Study 352 for a median exposure of 104 weeks.
+Of these, 4 subjects discontinued from the trial due to adverse reactions consistent with proximal renal tubulopathy.
+Three of these 4 subjects presented with hypophosphatemia and also had decreases in total body or spine BMD Z score [See Warnings and Precautions (5.5)].
+For additional information, please consult the VIREAD prescribing information.
 
 ## 6.2 Adverse Reactions from Clinical Trial Experience in HIV-1 Uninfected Adult Subjects
 
@@ -89,18 +94,18 @@ Subjects were followed for a median of 71 weeks and 87 weeks, respectively.
 These trials enrolled HIV-negative individuals ranging in age from 18 to 67 years.
 The iPrEx trial enrolled only males or transgender females of Hispanic/Latino (72%), White (18%), Black (9%) and Asian (5%) race.
 The Partners PrEP trial enrolled both males (61–64% across treatment groups) and females in Kenya and Uganda.
-Table 4 provides a list of all adverse events that occurred ≥2% of subjects in any treatment group in the iPrEx and Partners PrEP trials.
+Table 5 provides a list of all adverse events that occurred ≥2% of subjects in any treatment group in the iPrEx and Partners PrEP trials.
 
-Laboratory Abnormalities: Table 5 provides a list of laboratory abnormalities observed in both trials.
+Laboratory Abnormalities: Table 6 provides a list of laboratory abnormalities observed in both trials.
 Six subjects in the TDF-containing arms of the Partners PrEP trial discontinued participation in the study due to an increase in blood creatinine compared with no discontinuations in the placebo group.
 One subject in the TRUVADA arm of the iPrEx trial discontinued from the study due to an increase in blood creatinine and another due to low phosphorous.
 
 In addition to the laboratory abnormalities described above, Grade 1 proteinuria (1+) occurred in 6% of subjects receiving TRUVADA in the iPrEx trial.
 Grades 2–3 proteinuria (2–4+) and glycosuria (3+) occurred in less than 1% of subjects treated with TRUVADA in the iPrEx trial and Partners PrEP trial.
 
-Table 4 Selected Adverse Events (All Grades) Reported in ≥2% in Any Treatment Group in the iPrEx Trial and Partners PrEP Trial
+Table 5 Selected Adverse Events (All Grades) Reported in ≥2% in Any Treatment Group in the iPrEx Trial and Partners PrEP Trial
 
-|  | FTC/TDF (N=1251) | Placebo (N=1248) | FTC/TDF (N=1579) | Placebo (N= 1584) |
+|  | FTC/TDF (N=1251) | Placebo (N=1248) | FTC/TDF (N=1579) | Placebo (N=1584) |
 | --- | --- | --- | --- | --- |
 |  | iPrEx Trial |  | Partners PrEP Trial |  |
 | Gastrointestinal Disorders |  |  |  |  |
@@ -125,7 +130,7 @@ Table 4 Selected Adverse Events (All Grades) Reported in ≥2% in Any Treatment 
 | Investigations |  |  |  |  |
 | Weight decreased | 3% | 2% | - | - |
 
-Table 5 Laboratory Abnormalities (Highest Toxicity Grade) Reported for Each Subject in the iPrEx Trial and Partners PrEP Trial
+Table 6 Laboratory Abnormalities (Highest Toxicity Grade) Reported for Each Subject in the iPrEx Trial and Partners PrEP Trial
 
 |  | GradeGrading is per DAIDS criteria. |  | FTC/TDF N= 1251 | Placebo N= 1248 | FTC/TDF N=1579 | Placebo N=1584 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -146,7 +151,7 @@ Table 5 Laboratory Abnormalities (Highest Toxicity Grade) Reported for Each Subj
 Changes in Bone Mineral Density:
 
 In clinical trials of HIV-1 uninfected individuals, decreases in BMD were observed.
-In the iPrEx trial, a substudy of 503 subjects found mean changes from baseline in BMD ranging from -0.4% to -1.0% across total hip, spine, femoral neck, and trochanter in the TRUVADA group compared with the placebo group, which returned toward baseline after discontinuation of treatment.
+In the iPrEx trial, a substudy of 503 subjects found mean changes from baseline in BMD ranging from –0.4% to –1.0% across total hip, spine, femoral neck, and trochanter in the TRUVADA group compared with the placebo group, which returned toward baseline after discontinuation of treatment.
 Thirteen percent of subjects receiving TRUVADA vs. 6% of subjects receiving placebo lost at least 5% of BMD at the spine during treatment.
 Bone fractures were reported in 1.7% of the TRUVADA group compared with 1.4% in the placebo group.
 No correlation between BMD and fractures was noted [See Clinical Studies (14.2)].
