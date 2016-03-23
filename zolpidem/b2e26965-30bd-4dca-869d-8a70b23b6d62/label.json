@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022196"
+  ],
+  "inn": "zolpidem",
+  "labeler": "Magna Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "58407-510-30",
+    "58407-510-60"
+  ],
+  "products": [
+    {
+      "form": "SPRAY, METERED",
+      "generic": "zolpidem tartrate",
+      "name": "ZolpiMIST"
+    }
+  ],
+  "setid": "b2e26965-30bd-4dca-869d-8a70b23b6d62",
+  "source": "dailymed"
+}
