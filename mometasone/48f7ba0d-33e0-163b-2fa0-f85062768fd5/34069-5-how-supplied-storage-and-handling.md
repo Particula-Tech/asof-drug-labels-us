@@ -1,0 +1,17 @@
+# 16. HOW SUPPLIED/STORAGE AND HANDLING
+
+Mometasone Furoate Nasal Spray, 50 mcg is supplied in a white, high-density, polyethylene bottle fitted with a white metered-dose, manual spray pump, and translucent cap.
+It contains 17 g of product formulation, 120 sprays, each delivering 50 mcg of mometasone furoate per actuation.
+
+(NDC 60505-0830-1).
+
+Store at 20° - 25°C (68° - 77°F) [see USP Controlled Room Temperature].
+Do not freeze.
+Protect from light.
+
+When Mometasone Furoate Nasal Spray, 50 mcg is removed from its cardboard container, prolonged exposure of the product to direct light should be avoided.
+Brief exposure to light, as with normal use, is acceptable.
+
+SHAKE WELL BEFORE EACH USE.
+
+Keep out of reach of children.

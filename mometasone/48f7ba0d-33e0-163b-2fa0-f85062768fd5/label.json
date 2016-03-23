@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA091161"
+  ],
+  "inn": "mometasone",
+  "labeler": "Apotex Corp.",
+  "package_ndcs": [
+    "60505-0830-1"
+  ],
+  "products": [
+    {
+      "form": "SPRAY, METERED",
+      "generic": "mometasone furoate",
+      "name": "MOMETASONE FUROATE"
+    }
+  ],
+  "setid": "48f7ba0d-33e0-163b-2fa0-f85062768fd5",
+  "source": "dailymed"
+}
