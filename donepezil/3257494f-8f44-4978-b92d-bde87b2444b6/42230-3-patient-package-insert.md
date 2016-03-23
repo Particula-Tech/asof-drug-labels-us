@@ -121,4 +121,4 @@ For more information, call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
 What are the ingredients in donepezil hydrochloride tablets?
 Active ingredient: donepezil hydrochloride Inactive ingredients: hypromellose, lactose monohydrate, low substituted hydroxypropyl cellulose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, pregelatinized starch (maize), talc, and titanium dioxide.
 In addition, the 10 mg tablets also contain yellow iron oxide.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 090, India Revised: 08/2015
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 090, India Revised: 02/2016
