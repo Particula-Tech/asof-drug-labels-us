@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA076070"
+  ],
+  "inn": "nifedipine",
+  "labeler": "Oceanside Pharmaceuticals",
+  "package_ndcs": [
+    "68682-107-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "nifedipine",
+      "name": "Nifedipine"
+    }
+  ],
+  "setid": "ca5b0178-4e5f-4077-ada5-7058b0a03858",
+  "source": "dailymed"
+}
