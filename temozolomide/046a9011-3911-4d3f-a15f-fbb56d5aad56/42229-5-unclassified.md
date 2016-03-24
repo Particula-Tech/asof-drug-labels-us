@@ -155,9 +155,9 @@ For patent information: www.merck.com/product/patent/home.html
 
 Copyright © 2008 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 12/2014
+Revised: 05/2014
 
-usphi-mk7365-pwi-1512r010
+usphi-mk7365-pwi-1405r014
 
 TEMODAR® (temozolomide) Capsules
 
