@@ -2,7 +2,7 @@
 
 1.
 Controlling occupational exposure to hazardous drugs (OSHA Work-Practice Guidelines).
-Am JHealth Syst Pharm 1996; 53:1669-1685.
+Am J Health Syst Pharm 1996; 53: 1669-1685.
 
 2.
 National Study Commission on Cytotoxic Exposure - Recommendations for Handling Cytotoxic Agents.
@@ -20,9 +20,9 @@ CA - A Cancer Journal for Clinicians Sept/Oct 1983; 258-263.
 American Society of Hospital Pharmacists technical assistance bulletin on handling cytotoxic and hazardous drugs.
 Am J Hosp Pharm 1990; 47:1033-1049.
 
-TEVA PHARMACEUTICALS USA
+TEVA PHARMACEUTICALS USA, INC.
 
-Sellersville, PA 18960
+North Wales, PA 19454
 
 Rev.
-A 2/2010
+B 2/2016

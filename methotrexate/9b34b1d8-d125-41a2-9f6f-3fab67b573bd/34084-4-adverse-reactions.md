@@ -1,8 +1,8 @@
 # ADVERSE REACTIONS
 
-IN GENERAL, THE INCIDENCE AND SEVERITY OF ACUTE SIDE EFFECTS ARE RELATED TO DOSE AND FREQUENCYOF ADMINISTRATION.
-THE MOST SERIOUS REACTIONS ARE DISCUSSED ABOVE UNDER ORGANSYSTEM TOXICITY IN THE PRECAUTION SECTION.
-THAT SECTION SHOULD ALSO BE CONSULTED WHENLOOKING FOR INFORMATION ABOUT ADVERSE REACTIONS WITH METHOTREXATE.
+IN GENERAL, THE INCIDENCE AND SEVERITY OF ACUTE SIDE EFFECTS ARE RELATED TO DOSE AND FREQUENCY OF ADMINISTRATION.
+THE MOST SERIOUS REACTIONS ARE DISCUSSED ABOVE UNDER ORGAN SYSTEM TOXICITY IN THE PRECAUTION SECTION.
+THAT SECTION SHOULD ALSO BE CONSULTED WHEN LOOKING FOR INFORMATION ABOUT ADVERSE REACTIONS WITH METHOTREXATE.
 
 The most frequently reported adverse reactions include ulcerative stomatitis, leukopenia, nausea, and abdominal distress.
 Other frequently reported adverse effects are malaise, undue fatigue, chills and fever, dizziness and decreased resistance to infection.
@@ -10,31 +10,31 @@ Other frequently reported adverse effects are malaise, undue fatigue, chills and
 Other adverse reactions that have been reported with methotrexate are listed below by organ system.
 In the oncology setting, concomitant treatment and the underlying disease make specific attribution of a reaction to methotrexate difficult.
 
-Alimentary System: Gingivitis, pharyngitis, stomatitis, anorexia, nausea, vomiting, diarrhea, hematemesis, melena, gastrointestinal ulceration and bleeding, enteritis, pancreatitis.
+Alimentary System: gingivitis, pharyngitis, stomatitis, anorexia, nausea, vomiting, diarrhea, hematemesis, melena, gastrointestinal ulceration and bleeding, enteritis, pancreatitis.
 
-Blood and Lymphatic System Disorders: Suppressed hematopoiesis causing anemia, aplastic anemia, pancytopenia, leukopenia, neutropenia and/or thrombocytopenia, lymphadenopathy and lymphoproliferative disorders (including reversible).
+Blood and Lymphatic System Disorders: suppressed hematopoiesis causing anemia, aplastic anemia, pancytopenia, leukopenia, neutropenia and/or thrombocytopenia, lymphadenopathy and lymphoproliferative disorders (including reversible).
 Hypogammaglobulinemia has been reported rarely.
 
-Cardiovascular: Pericarditis, pericardial effusion, hypotension, and thromboembolic events (including arterial thrombosis, cerebral thrombosis, deep vein thrombosis, retinal vein thrombosis, thrombophlebitis, and pulmonary embolus).
+Cardiovascular: pericarditis, pericardial effusion, hypotension, and thromboembolic events (including arterial thrombosis, cerebral thrombosis, deep vein thrombosis, retinal vein thrombosis, thrombophlebitis, and pulmonary embolus).
 
-Central Nervous System: Headaches, drowsiness, blurred vision, transient blindness, speech impairment including dysarthria and aphasia, hemiparesis, paresis and convulsions have also occurred following administration of methotrexate.
+Central Nervous System: headaches, drowsiness, blurred vision, transient blindness, speech impairment including dysarthria and aphasia, hemiparesis, paresis and convulsions have also occurred following administration of methotrexate.
 Following low doses, there have been occasional reports of transient subtle cognitive dysfunction, mood alteration, unusual cranial sensations, leukoencephalopathy, or encephalopathy.
 
-Hepatobiliary: Disorders, hepatotoxicity, acute hepatitis, chronic fibrosis and cirrhosis, decrease in serum albumin, liver enzyme elevations.
+Hepatobiliary: disorders, hepatotoxicity, acute hepatitis, chronic fibrosis and cirrhosis, decrease in serum albumin, liver enzyme elevations.
 
 Infection: There have been case reports of sometimes fatal opportunistic infections in patients receiving methotrexate therapy for neoplastic and non-neoplastic diseases.
 Pneumocystis carinii pneumonia was the most common opportunistic infection.
 There have also been reports of infections, pneumonia, sepsis, nocardiosis, histoplasmosis, cryptococcosis, herpes zoster, H. simplex hepatitis, and disseminated H. simplex.
 
-Musculoskeletal System: Stress fracture.
+Musculoskeletal System: stress fracture.
 
-Ophthalmic: Conjunctivitis, serious visual changes of unknown etiology.
+Ophthalmic: conjunctivitis, serious visual changes of unknown etiology.
 
-Pulmonary System: Respiratory fibrosis, respiratory failure, interstitial pneumonitis; deaths have been reported, and chronic interstitial obstructive pulmonary disease has occasionally occurred.
+Pulmonary System: respiratory fibrosis, respiratory failure, interstitial pneumonitis; deaths have been reported, and chronic interstitial obstructive pulmonary disease has occasionally occurred.
 
-Skin: Erythematous rashes, pruritus, urticaria, photosensitivity, pigmentary changes, alopecia, ecchymosis, telangiectasia, acne, furunculosis, erythema multiforme, toxic epidermal necrolysis, Stevens-Johnson Syndrome, skin necrosis, skin ulceration, and exfoliative dermatitis.
+Skin: erythematous rashes, pruritus, urticaria, photosensitivity, pigmentary changes, alopecia, ecchymosis, telangiectasia, acne, furunculosis, erythema multiforme, toxic epidermal necrolysis, Stevens-Johnson Syndrome, skin necrosis, skin ulceration, and exfoliative dermatitis.
 
-Urogenital System: Severe nephropathy or renal failure, azotemia, cystitis, hematuria; defective oogenesis or spermatogenesis, transient oligospermia, menstrual dysfunction, vaginal discharge, and gynecomastia; infertility, abortion, fetal defects.
+Urogenital System: severe nephropathy or renal failure, azotemia, cystitis, hematuria; defective oogenesis or spermatogenesis, transient oligospermia, menstrual dysfunction, vaginal discharge, and gynecomastia; infertility, abortion, fetal defects.
 
 Other rarer reactions related to or attributed to the use of methotrexate such as nodulosis, vasculitis, arthralgia/myalgia, loss of libido/impotence, diabetes, osteoporosis, sudden death, reversible lymphomas, tumor lysis syndrome, soft tissue necrosis and osteonecrosis.
 Anaphylactoid reactions have been reported.
@@ -46,11 +46,11 @@ Virtually all of these patients were on concomitant nonsteroidal anti-inflammato
 Hepatic histology was not examined in these short-term studies.
 (See PRECAUTIONS.)
 
-Incidence greater than 10%: Elevated liver function tests 15%, nausea/vomiting 10%.
+Incidence greater than 10%:Elevated liver function tests 15%, nausea/vomiting 10%.
 
-Incidence 3% to 10%: Stomatitis, thrombocytopenia, (platelet count less than 100,000/mm3).
+Incidence 3% to 10%:Stomatitis, thrombocytopenia, (platelet count less than 100,000/mm3).
 
-Incidence 1% to 3%: Rash/pruritus/dermatitis, diarrhea, alopecia, leukopenia (WBC less than 3000/mm3), pancytopenia, dizziness.
+Incidence 1% to 3%:Rash/pruritus/dermatitis, diarrhea, alopecia, leukopenia (WBC less than 3000/mm3), pancytopenia, dizziness.
 
 Two other controlled trials of patients (n=680) with Rheumatoid Arthritis on 7.5 mg to 15 mg/wk oral doses showed an incidence of interstitial pneumonitis of 1%.
 (See PRECAUTIONS.)

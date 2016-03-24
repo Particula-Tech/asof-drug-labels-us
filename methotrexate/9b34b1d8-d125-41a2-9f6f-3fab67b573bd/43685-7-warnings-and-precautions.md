@@ -1,4 +1,4 @@
-# WARNINGS: SEE BOXED WARNINGS.
+# WARNINGS - SEE BOXED WARNINGS.
 
 Methotrexate formulations and diluents containing preservatives must not be used for intrathecal or high dose methotrexate therapy.
 
@@ -39,7 +39,7 @@ During initial or changing doses, or during periods of increased risk of elevate
 
 Transient liver function test abnormalities are observed frequently after methotrexate administration and are usually not cause for modification of methotrexate therapy.
 Persistent liver function test abnormalities, and/or depression of serum albumin may be indicators of serious liver toxicity and require evaluation.
-(See PRECAUTIONS, Organ System Toxicity, Hepatic.)
+(See PRECAUTIONS, Organ System Toxicity,Hepatic.)
 
 A relationship between abnormal liver function tests and fibrosis or cirrhosis of the liver has not been established for patients with psoriasis.
 Persistent abnormalities in liver function tests may precede appearance of fibrosis or cirrhosis in the rheumatoid arthritis population.
@@ -54,7 +54,7 @@ Caution should be used when NSAIDs and salicylates are administered concomitantl
 These drugs have been reported to reduce the tubular secretion of methotrexate in an animal model and may enhance its toxicity.
 
 Despite the potential interactions, studies of methotrexate in patients with rheumatoid arthritis have usually included concurrent use of constant dosage regimens of NSAIDs, without apparent problems.
-It should be appreciated, however, that the doses used in rheumatoid arthritis (7.5 to 20 mg/week) are somewhat lower than those used in psoriasis and that larger doses could lead to unexpected toxicity.
+It should be appreciated, however, that the doses used in rheumatoid arthritis (7.5 to 20 mg/wk) are somewhat lower than those used in psoriasis and that larger doses could lead to unexpected toxicity.
 
 Methotrexate is partially bound to serum albumin, and toxicity may be increased because of displacement by certain drugs, such as salicylates, phenylbutazone, phenytoin, and sulfonamides.
 Renal tubular transport is also diminished by probenecid; use of methotrexate with this drug should be carefully monitored.
@@ -98,7 +98,7 @@ See CONTRAINDICATIONS.
 Safety and effectiveness in pediatric patients have been established only in cancer chemotherapy and in polyarticular-course juvenile rheumatoid arthritis.
 
 Published clinical studies evaluating the use of methotrexate in children and adolescents (i.e., patients 2 to 16 years of age) with JRA demonstrated safety comparable to that observed in adults with rheumatoid arthritis.
-(See CLINICAL PHARMACOLOGY, ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION.)
+(See CLINICAL PHARMACOLOGY,ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION.)
 
 ## Geriatric Use
 
@@ -132,7 +132,7 @@ Special caution is indicated in the presence of preexisting liver damage or impa
 
 In psoriasis, liver function tests, including serum albumin, should be performed periodically prior to dosing but are often normal in the face of developing fibrosis or cirrhosis.
 These lesions may be detectable only by biopsy.
-The usual recommendation is to obtain a liver biopsy at 1) pretherapy or shortly after initiation of therapy (2 to 4 months), 2) a total cumulative dose of 1.5 grams, and 3) after each additional 1 to 1.5 grams.
+The usual recommendation is to obtain a liver biopsy at 1) pretherapy or shortly after initiation of therapy (2 to 4 months), 2) a total cumulative dose of 1.5 grams, and 3) after each additional 1.0 to 1.5 grams.
 Moderate fibrosis or any cirrhosis normally leads to discontinuation of the drug; mild fibrosis normally suggests a repeat biopsy in 6 months.
 Milder histologic findings such as fatty change and low grade portal inflammation are relatively common pretherapy.
 Although these mild changes are usually not a reason to avoid or discontinue methotrexate therapy, the drug should be used with caution.
@@ -156,6 +156,7 @@ Infection or Immunologic States: Methotrexate should be used with extreme cautio
 Immunization may be ineffective when given during methotrexate therapy.
 Immunization with live virus vaccines is generally not recommended.
 There have been reports of disseminated vaccinia infections after smallpox immunization in patients receiving methotrexate therapy.
+
 Hypogammaglobulinemia has been reported rarely.
 
 Potentially fatal opportunistic infections, especially Pneumocystis carinii pneumonia, may occur with methotrexate therapy.
@@ -173,6 +174,7 @@ Skin: Severe, occasionally fatal, dermatologic reactions, including toxic epider
 Reactions were noted after single or multiple, low, intermediate or high doses of methotrexate in patients with neoplastic and non-neoplastic diseases.
 
 Other Precautions: Methotrexate should be used with extreme caution in the presence of debility.
+
 Methotrexate exits slowly from third space compartments (e.g., pleural effusions or ascites).
 This results in a prolonged terminal plasma half-life and unexpected toxicity.
 In patients with significant third space accumulations, it is advisable to evacuate the fluid before treatment and to monitor plasma methotrexate levels.

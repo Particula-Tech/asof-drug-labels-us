@@ -2,7 +2,7 @@
 
 ## Neoplastic Diseases
 
-Methotrexate tablets are indicated in the treatment of gestational choriocarcinoma, chorio-adenoma destruens and hydatidiform mole.
+Methotrexate is indicated in the treatment of gestational choriocarcinoma, chorioadenoma destruens and hydatidiform mole.
 
 Methotrexate is used in maintenance therapy in combination with other chemotherapeutic agents.
 
@@ -11,12 +11,12 @@ Methotrexate is also used in combination with other chemotherapeutic agents in t
 
 ## Psoriasis
 
-Methotrexate tablets are indicated in the symptomatic control of severe, recalcitrant, disabling psoriasis that is not adequately responsive to other forms of therapy, but only when the diagnosis has been established,as by biopsy and/or after dermatologic consultation.
+Methotrexate is indicated in the symptomatic control of severe, recalcitrant, disabling psoriasis that is not adequately responsive to other forms of therapy, but only when the diagnosis has been established, as by biopsy and/or after dermatologic consultation.
 It is important to ensure that a psoriasis “flare” is not due to an undiagnosed concomitant disease affecting immune responses.
 
 ## Rheumatoid Arthritis including Polyarticular-Course Juvenile Rheumatoid Arthritis
 
-Methotrexate tablets are indicated in the management of selected adults with severe, active, rheumatoid arthritis (ACR criteria), or children with active polyarticular-course juvenile rheumatoid arthritis, who have had an insufficient therapeutic response to, or are intolerant of, an adequate trial of first-line therapy including full dose non-steroidal anti-inflammatory agents (NSAIDs).
+Methotrexate is indicated in the management of selected adults with severe, active, rheumatoid arthritis (ACR criteria), or children with active polyarticular-course juvenile rheumatoid arthritis, who have had an insufficient therapeutic response to, or are intolerant of, an adequate trial of first-line therapy including full dose non-steroidal anti-inflammatory agents (NSAIDs).
 
 Aspirin, NSAIDs, and/or low dose steroids may be continued, although the possibility of increased toxicity with concomitant use of NSAIDs including salicylates has not been fully explored.
 (See PRECAUTIONS, Drug Interactions.)
