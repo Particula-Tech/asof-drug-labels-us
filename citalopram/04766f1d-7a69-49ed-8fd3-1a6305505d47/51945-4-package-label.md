@@ -1,7 +1,13 @@
 # PRINCIPAL DISPLAY PANEL
 
-10 mg: label
+Citalopram Tablets USP 10 mg: Label (Indrad Site)
 
-20 mg: label
+Citalopram Tablets USP 20 mg: Label (Indrad Site)
 
-40 mg: label
+Citalopram Tablets USP 40 mg: Label (Indrad Site)
+
+Citalopram Tablets USP 10 mg: Label (Bharuch Site)
+
+Citalopram Tablets USP 20 mg: Label (Bharuch Site)
+
+Citalopram Tablets USP 40 mg: Label (Bharuch Site)

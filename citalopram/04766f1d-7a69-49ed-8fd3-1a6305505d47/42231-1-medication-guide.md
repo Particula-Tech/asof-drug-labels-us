@@ -305,3 +305,15 @@ For:
 TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920
 
 8050573 Revised August 2014
+
+OR
+
+Manufactured by:
+
+TORRENT PHARMACEUTICALS LTD., Bharuch-392130, INDIA.
+
+Manufactured For:
+
+TORRENT PHARMA INC., Basking Ridge, NJ 07920.
+
+8055781 Revised July 2015
