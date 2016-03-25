@@ -42,11 +42,11 @@ Figure 1: Trial 1 – Percent of Patients Achieving ACR 20 Response Over Time: R
 
 The improvement in all components of the ACR response criteria for the SIMPONI ARIA + MTX group was greater compared to the placebo + MTX group in Trial 1 as shown in Table 3.
 
-Table 3: Trial 1 – Components of ACR Response at Week 14
+Table 3: Trial 1 ─ Components of ACR Response at Week 14
 
 |  | Placebo + MTX | SIMPONI ARIA + MTX |
 | --- | --- | --- |
-|  | Trial 1 Active RA, despite MTX |  |
+| Trial 1 Active RA, despite MTX |  |  |
 | NN reflects randomized patients; actual number of patients evaluable for each endpoint may vary. | 197 | 395 |
 | Number of swollen joints (0–66) |  |  |
 | Baseline | 15 | 15 |

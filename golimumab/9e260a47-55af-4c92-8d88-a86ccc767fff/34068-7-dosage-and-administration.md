@@ -28,6 +28,7 @@ SIMPONI ARIA solution for intravenous infusion should be diluted by a healthcare
    Slowly add the total volume of SIMPONI ARIA solution to the 100-mL infusion bag or bottle.
    Gently mix.
    Discard any unused solution remaining in the vials.
+   Alternatively, SIMPONI ARIA can be diluted using the same method described above with 0.45% w/v sodium chloride for infusion.
 4. Prior to infusion, visually inspect the diluted SIMPONI ARIA solution for particulate matter or discoloration.
    Do not use if these exist.
 5. Use only an infusion set with an in-line, sterile, non-pyrogenic, low protein-binding filter (pore size 0.22 micrometer or less).
