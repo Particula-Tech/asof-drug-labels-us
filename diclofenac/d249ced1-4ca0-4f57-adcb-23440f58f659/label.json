@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022165"
+  ],
+  "inn": "diclofenac",
+  "labeler": "Depomed, Inc.",
+  "package_ndcs": [
+    "13913-012-01",
+    "13913-012-03"
+  ],
+  "products": [
+    {
+      "form": "POWDER, FOR SOLUTION",
+      "generic": "diclofenac potassium",
+      "name": "Cambia"
+    }
+  ],
+  "setid": "d249ced1-4ca0-4f57-adcb-23440f58f659",
+  "source": "dailymed"
+}
