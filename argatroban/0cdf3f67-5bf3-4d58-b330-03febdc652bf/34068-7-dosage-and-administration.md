@@ -66,10 +66,10 @@ Continue titrating the dose until a therapeutic ACT (between 300 and 450 seconds
 In case of dissection, impending abrupt closure, thrombus formation during the procedure, or inability to achieve or maintain an ACT over 300 seconds, additional bolus doses of 150 mcg/kg may be administered and the infusion dose increased to 40 mcg/kg/min.
 Check the ACT after each additional bolus or change in the rate of infusion.
 
-| Table 2. Recommended Starting and Maintenance Doses (Within the Target ACT Range) Argatroban Injection in Patients Undergoing PCI Without Hepatic Impairment (1 mg/mL Final Concentration) |  |  |  |  |
+| Table 2. Recommended Starting and Maintenance Doses (Within the Target ACT Range) of Argatroban Injection in Patients Undergoing PCI Without Hepatic Impairment (1 mg/mL Final Concentration) |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | Body Weight (kg) | Starting Bolus Dose (350 mcg/kg) |  | Starting and Maintenance Continuous Infusion Dosing For ACT 300-450 seconds 25 mcg/kg/min |  |
-| Bolus Dose (mcg) | Bolus Volume (mL) | Continuous Infusion Dose (mg/min) | Continuous Infusion Rate (mL/hr) |  |
+| Bolus Dose (mcg) | Bolus Volume (mL) | Continuous Infusion Dose (mcg/min) | Continuous Infusion Rate (mL/hr) |  |
 | 50 | 17500 | 18 | 1250 | 75 |
 | 60 | 21000 | 21 | 1500 | 90 |
 | 70 | 24500 | 25 | 1750 | 105 |

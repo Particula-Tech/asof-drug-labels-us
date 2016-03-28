@@ -13,4 +13,4 @@ Argatroban is a white, odorless crystalline powder that is freely soluble in gla
 Argatroban Injection is a sterile clear, colorless to pale yellow, slightly viscous solution.
 Argatroban is available in 250-mg (in 2.5-mL) single-use amber vials, with white flip-top caps.
 Each mL of sterile, nonpyrogenic solution contains 100 mg Argatroban.
-Inert ingredients: 1300 mg Propylene glycol, 800 mg Dehydrated alcohol.
+Inert ingredients: 1300 mg Propylene glycol, 760 mg Dehydrated alcohol.

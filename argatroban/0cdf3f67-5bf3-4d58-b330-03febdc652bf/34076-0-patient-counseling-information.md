@@ -10,6 +10,6 @@ Specifically, inform patients to report:
 
 Manufactured by: Exela Pharma Sciences, LLC Lenoir, NC 28645
 
-Distributed by: West-Ward Pharmaceutical Corp., Eatontown, NJ 07724
+Distributed by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724
 
-Revised March 2014
+Revised March 2016
