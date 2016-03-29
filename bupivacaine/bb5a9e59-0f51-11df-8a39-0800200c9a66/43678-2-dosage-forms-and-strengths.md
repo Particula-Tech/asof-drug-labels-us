@@ -3,3 +3,4 @@
 EXPAREL (bupivacaine liposome injectable suspension)
 
 - 20 mL single use vial, 1.3% (13.3 mg/mL)
+- 10 mL single use vial, 1.3% (13.3 mg/mL)

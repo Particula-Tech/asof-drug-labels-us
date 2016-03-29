@@ -4,6 +4,8 @@ EXPAREL (bupivacaine liposome injectable suspension) is available in single-use 
 
 20 mL single use vial, 1.3% (13.3 mg/mL) packaged in cartons of 10 (NDC 65250-266-20)
 
+10 mL single use vial, 1.3% (13.3 mg/mL) packaged in cartons of 10 (NDC-65250-133-10)
+
 Storage
 
 EXPAREL vials should be stored refrigerated between 2°C to 8°C (36°F to 46°F).
