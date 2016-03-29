@@ -28,39 +28,21 @@ In addition to adverse events reported from clinical trials, the following event
 Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
 These events have been chosen for inclusion due to either their seriousness, frequency of reporting, potential causal connection to acyclovir, or a combination of these factors.
 
-### General
+General: Anaphylaxis, angioedema, fever, headache, pain, peripheral edema.
 
-Anaphylaxis, angioedema, fever, headache, pain, peripheral edema.
-
-### Nervous
-
-Aggressive behavior, agitation, ataxia, coma,confusion, decreased consciousness, delirium, dizziness, dysarthria, encephalopathy, hallucinations, paresthesia, psychosis, seizure, somnolence, tremors.
+Nervous: Aggressive behavior, agitation, ataxia, coma, confusion, decreased consciousness, delirium, dizziness, dysarthria, encephalopathy, hallucinations, paresthesia, psychosis, seizure, somnolence, tremors.
 These symptoms may be marked, particularly in older adults or in patients with renal impairment (see PRECAUTIONS).
 
-### Digestive
+Digestive: Diarrhea, gastrointestinal distress, nausea.
 
-Diarrhea, gastrointestinal distress, nausea.
+Hematologic and Lymphatic: Anemia, leukocytoclastic vasculitis, leukopenia, lymphadenopathy, thrombocytopenia.
 
-### Hematologic and Lymphatic
+Hepatobiliary Tract and Pancreas: Elevated liver function tests, hepatitis, hyperbilirubinemia, jaundice.
 
-Anemia, leukocytoclastic vasculitis, leukopenia, lymphadenopathy, thrombocytopenia.
+Musculoskeletal: Myalgia.
 
-### Hepatobiliary Tract and Pancreas
+Skin: Alopecia, erythema multiforme, photosensitive rash, pruritus, rash, Stevens-Johnson syndrome, toxic epidermal necrolysis, urticaria.
 
-Elevated liver function tests, hepatitis, hyperbilirubinemia, jaundice.
+Special Senses: Visual abnormalities.
 
-### Musculoskeletal
-
-Myalgia.
-
-### Skin
-
-Alopecia, erythema multiforme, photosensitive rash, pruritus, rash, Stevens-Johnson syndrome, toxic epidermal necrolysis, urticaria.
-
-### Special Senses
-
-Visual abnormalities.
-
-### Urogenital
-
-Renal failure, elevated blood urea nitrogen, elevated creatinine, hematuria (see WARNINGS).
+Urogenital: Renal failure, elevated blood urea nitrogen, elevated creatinine, hematuria (see WARNINGS).

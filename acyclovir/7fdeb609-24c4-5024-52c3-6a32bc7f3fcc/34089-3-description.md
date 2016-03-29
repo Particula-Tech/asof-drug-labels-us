@@ -1,7 +1,7 @@
 # DESCRIPTION
 
 Acyclovir is a synthetic nucleoside analogue active against herpes viruses.
-Acyclovir tablet is a formulation for oral administration.
+Acyclovir tablets are a formulation for oral administration.
 Each 800 mg tablet of acyclovir contains 800 mg of acyclovir and the inactive ingredients colloidal silicon dioxide, croscarmellose sodium, magnesium stearate and microcrystalline cellulose.
 Each 400 mg tablet of acyclovir contains 400 mg of acyclovir and the inactive ingredients colloidal silicon dioxide, croscarmellose sodium, magnesium stearate and microcrystalline cellulose.
 

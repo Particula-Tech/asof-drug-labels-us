@@ -1,6 +1,6 @@
 # WARNINGS
 
-Acyclovir tablet is intended for oral ingestion only.
+Acyclovir tablets are intended for oral ingestion only.
 Renal failure, in some cases resulting in death, has been observed with acyclovir therapy (see ADVERSE REACTIONS: Observed During Clinical Practice and OVERDOSAGE).
 Thrombotic thrombocytopenic purpura/hemolytic uremic syndrome (TTP/HUS), which has resulted in death, has occurred in immunocompromised patients receiving acyclovir therapy.
 
@@ -13,6 +13,7 @@ Adequate hydration should be maintained.
 ## Information for Patients
 
 Patients are instructed to consult with their physician if they experience severe or troublesome adverse reactions, they become pregnant or intend to become pregnant, they intend to breastfeed while taking orally administered acyclovir, or they have any other questions.
+
 Patients should be advised to maintain adequate hydration.
 
 ### Herpes Zoster
