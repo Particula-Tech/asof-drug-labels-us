@@ -236,4 +236,4 @@ Active ingredient: formoterol fumarate
 
 Inactive ingredients: lactose (contains milk proteins), gelatin (capsule shell)
 
-T2012-118 November 2012
+T2012-218 November 2012
