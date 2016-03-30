@@ -59,7 +59,7 @@ ZARXIO may cause serious side effects, including:
   If you have any of these symptoms, stop using ZARXIO and call your doctor or get emergency medical help right away.
 - •Sickle cell crises.
   You may have a serious sickle cell crisis if you have a sickle cell disorder and take ZARXIO.
-  Serious sickle cell crises has happened in people with sickle cell disorders receiving filgrastim that has sometimes led to death.
+  Serious sickle cell crisis has happened in people with sickle cell disorders receiving filgrastim that has sometimes led to death.
   Call your doctor right away if you have symptoms of sickle cell crisis such as pain or difficulty breathing.
 - •Kidney injury (glomerulonephritis).
   Kidney injury has been seen in patients who received ZARXIO.
@@ -120,7 +120,9 @@ Active ingredient: filgrastim-sndz
 
 Inactive ingredients: glutamic acid, polysorbate 80, sorbitol, sodium hydroxide, water for injection USP
 
-Manufactured by: Sandoz Inc., Princeton, NJ 08540 At: GP Grenzach Produktions GmbH, Grenzach-Wyhlen, Germany, Product of Austria
+Manufactured by: Sandoz Inc., Princeton, NJ 08540, US License No. 2003
+
+At: GP Grenzach Produktions GmbH, Grenzach-Wyhlen, Germany, Product of Austria
 
 For more information visit www.zarxio.com or call 1-800-525-8747.
 
@@ -253,9 +255,11 @@ Step 9: Choose the injection site:
 
 - •Areas of your body that you may use as injection sites include:
   - othe front of your thighs (see Figure E)
-  - othe lower stomach-area (abdomen), but not the area 2 inches around your navel (belly button) (see figure E)
-  - oupper outer arms, if a caregiver is giving you the injection (see Figure F)
-- •Choose a different site for each injection of ZARXIO.
+  - othe lower stomach-area (abdomen), but not the area 2 inches around your navel (belly button) (see Figure E)
+  - oif a caregiver is giving you the injection:
+  - oupper outer arms (see Figure E and Figure F)
+  - oupper areas of the buttocks (see Figure F)
+- •Choose a different site each time you give yourself an injection.
 - •Do not inject into areas where the skin is tender, bruised, red, scaly or hard.
   Avoid areas with scars or stretch marks.
 
@@ -342,10 +346,10 @@ For more information about safe sharps disposal, and for specific information ab
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: Sandoz Inc., Princeton, NJ 08540
+Manufactured by: Sandoz Inc., Princeton, NJ 08540, US License No. 2003
 
 At: GP Grenzach Produktions GmbH, Grenzach-Wyhlen, Germany, Product of Austria
 
-08-2015M
+03-2016M
 
-46168103
+46176756

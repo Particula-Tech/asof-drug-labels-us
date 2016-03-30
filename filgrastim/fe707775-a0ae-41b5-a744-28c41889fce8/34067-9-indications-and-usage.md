@@ -10,7 +10,7 @@ ZARXIO is indicated for reducing the time to neutrophil recovery and the duratio
 
 ## 1.3 Patients with Cancer Undergoing Bone Marrow Transplantation
 
-ZARXIO is indicated to reduce the duration of neutropenia and neutropenia-related clinical sequelae‚ e.g.‚febrile neutropenia, in patients with nonmyeloid malignancies undergoing myeloablative chemotherapy followed by bone marrow transplantation [see Clinical Studies (14.3)].
+ZARXIO is indicated to reduce the duration of neutropenia and neutropenia-related clinical sequelae‚ e.g.‚ febrile neutropenia, in patients with nonmyeloid malignancies undergoing myeloablative chemotherapy followed by bone marrow transplantation [see Clinical Studies (14.3)].
 
 ## 1.4 Patients Undergoing Autologous Peripheral Blood Progenitor Cell Collection and Therapy
 

@@ -10,7 +10,10 @@ Because ZARXIO is produced in E coli‚ the product is non-glycosylated and thus
 ZARXIO injection is a sterile‚ clear‚ colorless to slightly yellowish ‚ preservative-free liquid containing filgrastim-sndz at a specific activity of 1.0 x 108 U/mg (as measured by a cell mitogenesis assay).
 The product is available in single-use prefilled syringes.
 The single-use prefilled syringes contain either 300 mcg/0.5 mL or 480 mcg/0.8 mL of filgrastim-sndz.
-See table below for product composition of each single-use prefilled syringe.
+See Table 4 below for product composition of each single-use prefilled syringe.
+
+Table 4.
+Product Composition
 
 |  | 300 mcg/0.5 mL Syringe | 480 mcg/0.8 mL Syringe |
 | --- | --- | --- |

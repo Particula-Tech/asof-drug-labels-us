@@ -28,7 +28,7 @@ Sickle cell crisis, in some cases fatal, has been reported with the use of filgr
 
 Glomerulonephritis has occurred in patients receiving filgrastim products.
 The diagnoses were based upon azotemia, hematuria (microscopic and macroscopic), proteinuria, and renal biopsy.
-Generally, events of glomerulonephritis resolved after dose reduction or discontinuation of filgrastim.
+Generally, events of glomerulonephritis resolved after dose reduction or discontinuation of filgrastim products.
 If glomerulonephritis is suspected, evaluate for cause.
 If causality is likely, consider dose-reduction or interruption of ZARXIO.
 
@@ -84,8 +84,8 @@ ZARXIO may be started at a reduced dose when the symptoms resolve and the ANC ha
 ## 5.12 Potential Effect on Malignant Cells
 
 ZARXIO is a growth factor that primarily stimulates neutrophils.
-The granulocyte-colony stimulating factor (G­CSF) receptor through which filgrastim acts has also been found on tumor cell lines.
-The possibility that filgrastim acts as a growth factor for any tumor type cannot be excluded.
+The granulocyte-colony stimulating factor (G­CSF) receptor through which ZARXIO acts has also been found on tumor cell lines.
+The possibility that ZARXIO acts as a growth factor for any tumor type cannot be excluded.
 The safety of filgrastim products in chronic myeloid leukemia (CML) and myelodysplasia has not been established.
 
 When ZARXIO is used to mobilize PBPC‚ tumor cells may be released from the marrow and subsequently collected in the leukapheresis product.

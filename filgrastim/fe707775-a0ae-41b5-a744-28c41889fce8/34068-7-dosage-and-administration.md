@@ -8,7 +8,7 @@ Consider dose escalation in increments of 5 mcg/kg for each chemotherapy cycle�
 Recommend stopping ZARXIO if the ANC increases beyond 10‚000/mm3[see Warnings and Precautions (5.10)].
 
 Administer ZARXIO at least 24 hours after cytotoxic chemotherapy.
-Do not administer ZARXIO within the 24-hour period prior to chemotherapy [see Warnings and Precautions (5.12)].
+Do not administer ZARXIO within the 24-hour period prior to chemotherapy [see Warnings and Precautions (5.13)].
 A transient increase in neutrophil count is typically seen 1 to 2 days after initiation of ZARXIO therapy.
 Therefore, to ensure a sustained therapeutic response‚ administer ZARXIO daily for up to 2 weeks or until the ANC has reached 10‚000/mm3 following the expected chemotherapy-induced neutrophil nadir.
 The duration of ZARXIO therapy needed to attenuate chemotherapy-induced neutropenia may be dependent on the myelosuppressive potential of the chemotherapy regimen employed.
@@ -21,7 +21,8 @@ Monitor CBCs and platelet counts frequently following marrow transplantation.
 
 During the period of neutrophil recovery‚ titrate the daily dosage of ZARXIO against the neutrophil response (see Table 1).
 
-Table 1: Recommended Dosage Adjustments During Neutrophil Recovery in Patients with Cancer Following BMT
+Table 1.
+Recommended Dosage Adjustments During Neutrophil Recovery in Patients with Cancer Following BMT
 
 | Absolute Neutrophil Count | ZARXIO Dosage Adjustment |
 | --- | --- |
@@ -67,7 +68,7 @@ The spring-mechanism of the needle guard apparatus affixed to the prefilled syri
 The visibility of these markings is necessary to accurately measure doses of ZARXIO less than 0.3 mL (180 mcg) for direct administration to patients.
 Thus, the direct administration to patients requiring doses of less than 0.3 mL (180 mcg) is not recommended due to the potential for dosing errors.
 
-ZARXIO is supplied in single-dose prefilled syringes (for subcutaneous use) [see Dosage Forms and Strengths (3)].
+ZARXIO is supplied in single-use prefilled syringes (for subcutaneous use) [see Dosage Forms and Strengths (3)].
 Prior to use‚ remove the prefilled syringe from the refrigerator and allow ZARXIO to reach room temperature for a minimum of 30 minutes and a maximum of 24 hours.
 Discard any prefilled syringe left at room temperature for greater than 24 hours.
 Visually inspect ZARXIO for particulate matter and discoloration prior to administration (the solution is clear and colorless to slightly yellowish).
