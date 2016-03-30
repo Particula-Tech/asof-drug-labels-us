@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA204764"
+  ],
+  "inn": "linezolid",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "63323-713-13"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "linezolid",
+      "name": "Linezolid"
+    }
+  ],
+  "setid": "cc3e3ea4-50aa-49ee-a8bc-fb48bfc8e014",
+  "source": "dailymed"
+}
