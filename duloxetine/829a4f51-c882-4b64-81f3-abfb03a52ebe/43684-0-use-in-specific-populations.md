@@ -56,8 +56,6 @@ The presence of duloxetine metabolites in breast milk was not examined.
 
 ## 8.4 Pediatric Use
 
-Generalized Anxiety Disorder
-
 The safety and effectiveness in pediatric patients less than 7 years of age have not been established.
 
 Safety and effectiveness of duloxetine have not been established in pediatric patients less than 18 years of age with MDD.

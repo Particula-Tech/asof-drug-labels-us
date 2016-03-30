@@ -1,10 +1,6 @@
 Medication Guide
 
-Duloxetine (doo-LOX-e-teen) Delayed-release Capsules USP,
-
-20 mg, 30 mg, 40 mg and 60 mg
-
-Rx Only
+Duloxetine (doo-LOX-e-teen) Delayed-release Capsules
 
 Read this Medication Guide before you start taking duloxetine delayed-release capsules and each time you get a refill.
 There may be new information.
@@ -314,4 +310,4 @@ Goa 403722
 
 INDIA
 
-Revised: September 2015 ID#: 242410
+Revised: April 2016 ID#: 244877
