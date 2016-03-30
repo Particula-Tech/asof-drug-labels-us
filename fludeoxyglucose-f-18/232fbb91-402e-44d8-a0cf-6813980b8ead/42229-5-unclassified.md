@@ -2,6 +2,6 @@ Caution: Rx ONLY
 
 Manufactured and Distributed by:
 
-The General Hospital Corporation
+Massachusetts General Hospital
 
 Boston, Massachusetts 02114
