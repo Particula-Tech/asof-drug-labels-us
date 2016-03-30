@@ -50,3 +50,11 @@ For the subset of patients (n=521) who completed extended lung function measurem
 Results from Trial 2 are shown in Figure 1.
 
 Figure 1 FEV1 profile for STIOLTO RESPIMAT, tiotropium 5 mcg and olodaterol 5 mcg over a 24-hour dosing interval after 24 weeks (12 hr PFT subset from Trial 2)
+
+The St. George’s Respiratory Questionnaire (SGRQ) was assessed in Trials 1 and 2 and in two additional 12-week placebo-controlled trials.
+
+In the first 12-week trial, SGRQ responder rates at week 12 (defined as an improvement in score of 4 or more as a threshold) were 53%, 42%, and 31% for STIOLTO RESPIMAT, tiotropium 5mcg, and placebo, respectively, with odds ratios of 1.6 (95% CI 1.1, 2.4) and 2.5 (95% CI 1.6, 3.8) for STIOLTO RESPIMAT vs. tiotropium 5mcg and STIOLTO RESPIMAT vs. placebo, respectively.
+In the second 12-week trial, results were similar with odds ratios of 1.5 (95% CI 1.0, 2.3) and 2.2 (95% CI 1.5, 3.4) for STIOLTO RESPIMAT vs. tiotropium 5mcg and STIOLTO RESPIMAT vs. placebo, respectively.
+For the 52-week trials similar responder rates were seen.
+In Trial 1, the odds ratios for STIOLTO vs. tiotropium 5mcg and STIOLTO vs. olodaterol 5mcg at week 24 were 1.6 (95% CI 1.2, 2.0) and 1.9 (95% CI 1.5, 2.4), respectively.
+The results were similar in the 52-week Trial 2, with odds ratios for STIOLTO vs. tiotropium 5mcg and STIOLTO vs. olodaterol 5mcg of 1.3 (95% CI 1.0, 1.7) and 1.5 (95% CI 1.1, 1.9), respectively.

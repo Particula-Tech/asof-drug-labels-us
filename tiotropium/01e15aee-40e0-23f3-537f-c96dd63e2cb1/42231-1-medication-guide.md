@@ -64,7 +64,7 @@ This may cause serious side effects.
 
 Especially tell your healthcare provider if you take:
 
-- anticholinergics (including ipratropium, aclidinium, umeclidinium or another tiotropium-containing product such as SPIRIVA RESPIMAT or SPIRIVA HandiHaler)
+- anticholinergics (including ipratropium, aclidinium, umeclidinium or another tiotropium-containing product such as SPIRIVA RESPIMAT or SPIRIVA HANDIHALER)
 - atropine
 
 Know the medicines you take.

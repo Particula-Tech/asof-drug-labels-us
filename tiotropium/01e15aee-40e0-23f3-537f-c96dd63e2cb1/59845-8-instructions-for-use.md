@@ -25,7 +25,7 @@ The STIOLTO RESPIMAT inhaler
 | Figure 3 | Step 3. Take the STIOLTO RESPIMAT cartridge out of the box. Push the narrow end of the cartridge into the inhaler. The base of the cartridge will not sit flush with the inhaler. About 1/8 of an inch will remain visible when the cartridge is correctly inserted. See Figure 3. The cartridge can be pushed against a firm surface to ensure that it is correctly inserted. See Figure 3. Do not remove the cartridge once it has been inserted into the inhaler. |  |
 | Figure 4 | Step 4. Put the clear base back into place. See Figure 4. Do not remove the clear base again. Your STIOLTO RESPIMAT inhaler should not be taken apart after you have inserted the cartridge and put the clear base back. |  |
 | Prime For First Time Use The following steps are needed to fill the dosing system the first time you use it and will not affect the number of doses available. After preparation and initial priming, your STIOLTO RESPIMAT inhaler will be able to deliver the labeled number of doses (30 or 14). Proper priming of the inhaler is important to make sure the correct amount of medicine is delivered. |  |  |
-| Figure 5 | Step 5. Hold the STIOLTO RESPIMAT inhaler upright, with the light green cap closed, to avoid accidental release of the dose. Turn the clear base in the direction of the black arrows on the label until it clicks (half a turn). See Figure 5. |  |
+| Figure 5 | Step 5. Hold the STIOLTO RESPIMAT inhaler upright, with the light green cap closed, to avoid accidental release of the dose.Turn the clear base in the direction of the black arrows on the label until it clicks (half a turn). See Figure 5. |  |
 | Figure 6 | Step 6. Flip the light green cap until it snaps fully open. See Figure 6. |  |
 | Figure 7 | Step 7. Point the STIOLTO RESPIMAT inhaler toward the ground (away from your face). Press the dose release button. See Figure 7. Close the light green cap. Repeat Steps 5, 6, and 7 until a spray is visible. Once the spray is visible, you must repeat Steps 5, 6, and 7 three more times to make sure the inhaler is prepared for use. Your STIOLTO RESPIMAT inhaler is now ready to use. These steps will not affect the number of doses available. After preparation and initial priming, your STIOLTO RESPIMAT inhaler will be able to deliver the labeled number of doses (30 or 14). |  |
 | Daily Dosing |  |  |
@@ -62,12 +62,12 @@ This Medication Guide and Instructions for Use has been approved by the U.S. Foo
 
 Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc., Ridgefield, CT 06877 USA
 
-SPIRIVA®, HandiHaler®, STRIVERDI®, STIOLTO™ and RESPIMAT® are registered trademarks and are used under license from Boehringer Ingelheim International GmbH
+SPIRIVA®, HANDIHALER®, STRIVERDI®, STIOLTO™ and RESPIMAT® are registered trademarks and are used under license from Boehringer Ingelheim International GmbH
 
-Copyright © 2015 Boehringer Ingelheim International GmbH.
+Copyright © 2016 Boehringer Ingelheim International GmbH.
 
 ALL RIGHTS RESERVED
 
-Revised: June 2015
+Revised: March 2016
 
-IT6053DF192015 305630-03
+IT6053FC232016 305630-03
