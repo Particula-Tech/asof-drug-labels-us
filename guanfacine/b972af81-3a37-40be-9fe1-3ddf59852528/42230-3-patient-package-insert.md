@@ -26,13 +26,13 @@ Before you take INTUNIV®, tell your doctor if you:
 
 - have heart problems or a low heart rate
 - have fainted
-- have low blood pressure
+- have low or high blood pressure
 - have liver or kidney problems
 - have any other medical conditions
 - are pregnant or plan to become pregnant.
   It is not known if INTUNIV® will harm your unborn baby.
   Talk to your doctor if you are pregnant or plan to become pregnant.
-- are breast-feeding or plan to breast-feed.
+- are breastfeeding or plan to breastfeed.
   It is not known if INTUNIV® passes into your breast milk.
   Talk to your doctor about the best way to feed your baby while taking INTUNIV®.
 
@@ -61,6 +61,10 @@ How should I take INTUNIV®?
 - Your doctor may change your dose.
   Do not change your dose of INTUNIV® without talking to your doctor.
 - Do not stop taking INTUNIV® without talking to your doctor.
+- Try not to miss your dose of INTUNIV®.
+  If you miss a dose of INTUNIV®, take the next dose at your regular time.
+  If you miss 2 or more doses, talk to your doctor, as you may need to restart INTUNIV® with a lower dose.
+- Do not take a double dose to make up for a missed dose.
 - INTUNIV® should be taken 1 time a day in the morning or in the evening, either alone or in combination with an ADHD stimulant medicine that your doctor may prescribe.
   Your doctor will tell you when to take INTUNIV® and when to take your ADHD stimulant medication.
 - INTUNIV® should be swallowed whole with a small amount of water, milk, or other liquid.
@@ -87,6 +91,7 @@ INTUNIV® may cause serious side effects including:
 - low heart rate
 - fainting
 - sleepiness
+- withdrawal symptoms of increased heart rate and high blood pressure after suddenly stopping INTUNIV® (which may be accompanied by headaches, feeling confused, nervousness, agitation, and tremors).
 
 Get medical help right away, if you have any of the symptoms listed above.
 
@@ -136,7 +141,7 @@ What are the ingredients in INTUNIV®?
 Active ingredient: guanfacine hydrochloride
 
 Inactive ingredients: hypromellose, methacrylic acid copolymer, lactose, povidone, crospovidone, microcrystalline cellulose, fumaric acid, and glycerol behenate.
-In addition, the 3mg and 4mg tablets also contain green pigment blend PB-1763.
+In addition, the 3 mg and 4 mg tablets also contain green pigment blend PB-1763.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
@@ -144,8 +149,8 @@ Manufactured for Shire US Inc., 300 Shire Way, Lexington, MA 02421.
 
 INTUNIV® is a registered trademark of Shire LLC.
 
-Revised: 12/2015
+Revised: 3/2016
 
-© 2015 Shire US Inc.
+© 2016 Shire US Inc.
 
 This product is covered by US patents including 6,287,599; 6,811,794.

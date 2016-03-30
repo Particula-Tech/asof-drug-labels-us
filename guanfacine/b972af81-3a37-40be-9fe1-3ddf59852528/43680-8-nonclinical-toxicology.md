@@ -4,7 +4,7 @@
 
 Carcinogenesis
 
-No carcinogenic effect of guanfacine was observed in studies of 78 weeks in mice or 102 weeks in rats at doses up to 6.8 times the maximum recommended human dose of 0.12 mg/kg/day on a mg/ m2 basis.
+No carcinogenic effect of guanfacine was observed in studies of 78 weeks in mice or 102 weeks in rats at doses up to 6.8 times the maximum recommended human dose of 0.12 mg/kg/day on a mg/m2 basis.
 
 Mutagenesis
 

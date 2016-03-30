@@ -9,4 +9,4 @@ Guanfacine HCl is a white to off-white crystalline powder, sparingly soluble in 
 The only organic solvent in which it has relatively high solubility is methanol (>30 mg/mL).
 Each tablet contains guanfacine HCl equivalent to 1 mg, 2 mg, 3 mg, or 4 mg of guanfacine base.
 The tablets also contain hypromellose, methacrylic acid copolymer, lactose, povidone, crospovidone, microcrystalline cellulose, fumaric acid, and glyceryl behenate.
-In addition, the 3mg and 4mg tablets also contain green pigment blend PB-1763.
+In addition, the 3-mg and 4-mg tablets also contain green pigment blend PB-1763.

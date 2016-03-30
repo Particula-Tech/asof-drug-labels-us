@@ -9,7 +9,8 @@ Tablets should not be crushed, chewed or broken prior to administration because 
 Patients should not take INTUNIV® together with a high-fat meal, since this can raise blood levels of INTUNIV®.
 Instruct the parent or caregiver to supervise the child or adolescent taking INTUNIV® and to keep the bottle of tablets out of reach of children.
 
-Instruct patients on how to properly taper the medication, if the health care provider decides to discontinue treatment [see Dosage and Administration (2.5)].
+Advise patients not to abruptly discontinue INTUNIV®.
+Instruct patients on how to properly taper the dose because clinically significant blood pressure increases can occur [see Dosage and Administration (2.5) and Warnings and Precautions (5.4)].
 
 Adverse Reactions
 

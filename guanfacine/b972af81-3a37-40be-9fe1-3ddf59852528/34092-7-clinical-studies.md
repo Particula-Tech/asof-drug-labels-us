@@ -2,15 +2,16 @@
 
 Efficacy of INTUNIV® in the treatment of ADHD was established in children and adolescents (6 to 17 years) in:
 
-- Five short-term, placebo-controlled monotherapy trials (Studies 1, 2, 4, 5, and 6)
+- Five short-term, placebo-controlled monotherapy trials (Studies 1, 2, 4, 5, and 6).
 - One short-term, placebo-controlled adjunctive trial with psychostimulants (Study 3).
 - One long-term, placebo-controlled monotherapy maintenance trial (Study 7).
 
 Studies 1 and 2: Fixed-dose INTUNIV® Monotherapy
 
-Study 1 (301 study) was a double-blind, placebo-controlled, parallel-group, fixed dose study, in which efficacy of once daily dosing with INTUNIV® (2 mg, 3 mg and 4 mg) was evaluated for 5 weeks (n=345) in children and adolescents aged 6-17 years.
+Study 1 (301 study) was a double-blind, placebo-controlled, parallel-group, fixed-dose study, in which efficacy of once daily dosing with INTUNIV® (2 mg, 3 mg and 4 mg) was evaluated for 5 weeks (n=345) in children and adolescents aged 6-17 years.
 Study 2 (304 study) was a double-blind, placebo-controlled, parallel-group, fixed-dose study, in which efficacy of once daily dosing with INTUNIV® (1 mg, 2 mg, 3 mg and 4 mg) was evaluated for 6 weeks (n=324) in children and adolescents aged 6-17 years.
-In both studies, randomized patients in 2 mg, 3 mg and 4 mg dose groups were titrated to their target fixed dose, and continued on the same dose until a dose tapering phase started The lowest dose of 1 mg used in Study 2 was not randomized to patients weighing more than 50 kg.
+In both studies, randomized patients in 2 mg, 3 mg and 4 mg dose groups were titrated to their target fixed dose, and continued on the same dose until a dose tapering phase started.
+The lowest dose of 1 mg used in Study 2 was not randomized to patients weighing more than 50 kg.
 Patients who weighed less than 25 kg were not included in either study.
 
 Signs and symptoms of ADHD were evaluated on a once weekly basis using the clinician administered and scored ADHD Rating Scale (ADHD-RS-IV), which includes both hyperactive/impulsive and inattentive subscales.
@@ -30,7 +31,7 @@ Analyses by age revealed a statistically significant treatment effect only in th
 Due to the relatively small proportion of adolescent patients (ages 13-17) enrolled into these studies (approximately 25%), these data may not have been sufficient to demonstrate efficacy in the adolescent patients.
 In these studies, patients were randomized to a fixed dose of INTUNIV® rather than optimized by body weight.
 Therefore, some adolescent patients were randomized to a dose that might have resulted in relatively lower plasma guanfacine concentrations compared to the younger patients.
-Over half (55%) of the adolescent patients received doses of 0.01-0.04mg/kg.
+Over half (55%) of the adolescent patients received doses of 0.01-0.04 mg/kg.
 In studies in which systematic pharmacokinetic data were obtained, there was a strong inverse correlation between body weight and plasma guanfacine concentrations.
 
 Table 16: Fixed dose Studies
@@ -51,7 +52,7 @@ Table 16: Fixed dose Studies
 
 Study 3: Flexible-dose INTUNIV® as Adjunctive Therapy to Psychostimulants
 
-Study 3 (313 study) was a double-blind, randomized, placebo-controlled, dose-optimization study, in which efficacy of once daily optimized dosing (morning or evening) with INTUNIV® (1mg, 2mg, 3mg and 4mg), when co-administered with psychostimulants, was evaluated for 8 weeks, in children and adolescents aged 6-17 years with a diagnosis of ADHD, with a sub-optimal response to stimulants (n=455).
+Study 3 (313 study) was a double-blind, randomized, placebo-controlled, dose-optimization study, in which efficacy of once daily optimized dosing (morning or evening) with INTUNIV® (1 mg, 2 mg, 3 mg and 4 mg), when co-administered with psychostimulants, was evaluated for 8 weeks, in children and adolescents aged 6-17 years with a diagnosis of ADHD, with a sub-optimal response to stimulants (n=455).
 Patients were started at the 1 mg INTUNIV® dose level and were titrated weekly over a 5-week dose-optimization period to an optimal INTUNIV® dose not to exceed 4 mg/day based on tolerability and clinical response.
 The dose was then maintained for a 3-week dose maintenance period before entry to 1 week of dose tapering.
 Patients took INTUNIV® either in the morning or the evening while maintaining their current dose of psychostimulant treatment given each morning.
@@ -66,7 +67,7 @@ Nearly two-thirds (64.2%) of patients reached optimal doses in the 0.05-0.12 mg/
 
 Studies 4, 5 and 6: Flexible-dose INTUNIV® Monotherapy
 
-Study 4 (314 study) was a double-blind, randomized, placebo-controlled, dose-optimization study, in which efficacy of once daily dosing (morning or evening) with INTUNIV® (1mg, 2mg, 3mg, and 4mg) was evaluated for 8 weeks in children aged 6-12 years (n=340).
+Study 4 (314 study) was a double-blind, randomized, placebo-controlled, dose-optimization study, in which efficacy of once daily dosing (morning or evening) with INTUNIV® (1 mg, 2 mg, 3 mg, and 4 mg) was evaluated for 8 weeks in children aged 6-12 years (n=340).
 
 Signs and symptoms of ADHD were evaluated on a once weekly basis using the clinician administered and scored ADHD Rating Scale (ADHD-RS-IV), which includes both hyperactive/impulsive and inattentive subscales.
 The primary efficacy outcome was the change from baseline score at endpoint on the ADHD-RS-IV total scores.
@@ -103,9 +104,9 @@ Study 7 (315 study) was a double-blind, placebo-controlled, randomized withdrawa
 The study consisted of an open-label phase, including a 7-week dose optimization period to titrate patients to an optimal dose (maximum 4 mg/day for children and 7 mg/day for adolescents; optimized dose range: 0.05 to 0.12 mg/kg/day) and a 6-week dose maintenance period.
 There were 526 patients included in the open-label phase.
 Among those, 315 patients who met response criteria in the open-label phase were then randomized (1:1, INTUNIV:placebo) in a 26-week, double-blind, randomized withdrawal phase.
-The response criteria were defined by ≥ 30% reduction in ADHD-RS-IV total score and a Clinical Global Impression-Improvement (CGI-I) score of 1 or 2 during the open-label phase.
+The response criteria were defined by ≥30% reduction in ADHD-RS-IV total score and a Clinical Global Impression-Improvement (CGI-I) score of 1 or 2 during the open-label phase.
 A statistically significantly lower proportion of treatment failures occurred among INTUNIV patients compared to placebo at the end of the randomized withdrawal period (Figure 4).
-Treatment failure was defined as a ≥ 50% increase (worsening) in ADHD-RS-IV total score and a ≥ 2-point increase in Clinical Global Impression-Severity (CGI-S) score.
+Treatment failure was defined as a ≥50% increase (worsening) in ADHD-RS-IV total score and a ≥2-point increase in Clinical Global Impression-Severity (CGI-S) score.
 Patients who met the treatment failure criteria on two consecutive visits or discontinued for any reason were classified as treatment failure.
 
 Figure 4.

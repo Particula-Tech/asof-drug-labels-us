@@ -22,3 +22,10 @@ Advise patients to avoid use with alcohol.
 
 The sympatholytic action of INTUNIV® may worsen sinus node dysfunction and atrioventricular (AV) block, especially in patients taking other sympatholytic drugs.
 Titrate INTUNIV slowly and monitor vital signs frequently in patients with cardiac conduction abnormalities or patients concomitantly treated with other sympatholytic drugs.
+
+## 5.4 Blood Pressure and Heart Rate Increase upon Discontinuation
+
+Blood pressure and pulse may increase following discontinuation of INTUNIV®.
+In postmarketing experience, hypertensive encephalopathy has been very rarely reported upon abrupt discontinuation of INTUNIV® [see Adverse Reactions (6.2)].
+To minimize the risk of an increase in blood pressure upon discontinuation, the total daily dose of INTUNIV® should be tapered in decrements of no more than 1 mg every 3 to 7 days [see Dosage and Administration (2.5)].
+Blood pressure and pulse should be monitored when reducing the dose or discontinuing INTUNIV®.
