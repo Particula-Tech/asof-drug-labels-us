@@ -25,7 +25,7 @@ The following schedule is recommended:
 
 In Study 1, 15% (158/1031) of patients discontinued Herceptin due to clinical evidence of myocardial dysfunction or significant decline in LVEF after a median follow-up duration of 8.7 years in the AC-TH arm.
 In Study 3 (one-year Herceptin treatment), the number of patients who discontinued Herceptin due to cardiac toxicity at 12.6 months median duration of follow-up was 2.6% (44/1678).
-In Study 4, a total of 2.9% (31/1056) patients in the TCH arm (1.5% during the chemotherapy phase and 1.4% during the monotherapy phase) and 5.7% (61/1068) patients in the AC-TH arm (1.5% during the chemotherapy phase and 4.2% during the monotherapy phase) discontinued Herceptin due to cardiac toxicity.
+In Study 4, a total of 2.9% (31/1056) of patients in the TCH arm (1.5% during the chemotherapy phase and 1.4% during the monotherapy phase) and 5.7% (61/1068) of patients in the AC-TH arm (1.5% during the chemotherapy phase and 4.2% during the monotherapy phase) discontinued Herceptin due to cardiac toxicity.
 
 Among 64 patients receiving adjuvant chemotherapy (Studies 1 and 2) who developed congestive heart failure, one patient died of cardiomyopathy, one patient died suddenly without documented etiology and 33 patients were receiving cardiac medication at last follow-up.
 Approximately 24% of the surviving patients had recovery to a normal LVEF (defined as ≥50%) and no symptoms on continuing medical management at the time of last follow-up.
@@ -54,19 +54,18 @@ Table 2: Incidence of Cardiac DysfunctionCongestive heart failure or significant
 | 5 (paclitaxel) | Cardiac Dysfunction | 11% | 1% | 4% | 1% |
 | 6 | Cardiac DysfunctionIncludes 1 patient with fatal cardiomyopathy. | 7% | N/A | 5% | N/A |
 
-In Study 4, the incidence of NCI-CTC Grade 3/4 cardiac ischemia/infarction was higher in the Herceptin containing regimens: (AC-TH: 0.3% (3/1068) and TCH 0.2% (2/1056)) as compared to none in AC-T.
+In Study 4, the incidence of NCI-CTC Grade 3/4 cardiac ischemia/infarction was higher in the Herceptin containing regimens (AC-TH: 0.3% (3/1068) and TCH: 0.2% (2/1056)) as compared to none in AC-T.
 
 ## 5.2 Infusion Reactions
 
-Infusion reactions consist of a symptom complex characterized by fever and chills, and on occasion included nausea, vomiting, pain (in some cases at tumor sites), headache, dizziness, dyspnea, hypotension, rash, and asthenia.
-[see Adverse Reactions (6.1)]
+Infusion reactions consist of a symptom complex characterized by fever and chills, and on occasion included nausea, vomiting, pain (in some cases at tumor sites), headache, dizziness, dyspnea, hypotension, rash, and asthenia [see Adverse Reactions (6.1)].
 
-In postmarketing reports, serious and fatal infusion reactions have been reported.
-Severe reactions which include bronchospasm, anaphylaxis, angioedema, hypoxia, and severe hypotension, were usually reported during or immediately following the initial infusion.
-However, the onset and clinical course were variable including progressive worsening, initial improvement followed by clinical deterioration, or delayed post-infusion events with rapid clinical deterioration.
+In post-marketing reports, serious and fatal infusion reactions have been reported.
+Severe reactions, which include bronchospasm, anaphylaxis, angioedema, hypoxia, and severe hypotension, were usually reported during or immediately following the initial infusion.
+However, the onset and clinical course were variable, including progressive worsening, initial improvement followed by clinical deterioration, or delayed post-infusion events with rapid clinical deterioration.
 For fatal events, death occurred within hours to days following a serious infusion reaction.
 
-Interrupt Herceptin infusion in all patients experiencing dyspnea, clinically significant hypotension, and intervention of medical therapy administered, which may include: epinephrine, corticosteroids, diphenhydramine, bronchodilators, and oxygen.
+Interrupt Herceptin infusion in all patients experiencing dyspnea, clinically significant hypotension, and intervention of medical therapy administered (which may include epinephrine, corticosteroids, diphenhydramine, bronchodilators, and oxygen).
 Patients should be evaluated and carefully monitored until complete resolution of signs and symptoms.
 Permanent discontinuation should be strongly considered in all patients with severe infusion reactions.
 
@@ -78,10 +77,10 @@ While some patients tolerated Herceptin infusions, others had recurrent severe i
 
 Herceptin can cause fetal harm when administered to a pregnant woman.
 In post marketing reports, use of Herceptin during pregnancy resulted in cases of oligohydramnios and oligohydramnios sequence manifesting as pulmonary hypoplasia, skeletal abnormalities, and neonatal death.
-If the patient becomes pregnant while taking Herceptin or within 7 months following the last dose of Herceptin, apprise the patient of the potential hazard to a fetus [see Use in Specific Populations (8.1)].
 
-Advise females of reproductive potential to avoid becoming pregnant while taking Herceptin.
-If contraceptive methods are being considered, use effective contraception during treatment and for at least 7 months after receiving the last dose of Herceptin [see Use in Specific Populations (8.6)].
+Verify the pregnancy status of females of reproductive potential prior to the initiation of Herceptin.
+Advise pregnant women and females of reproductive potential that exposure to Herceptin during pregnancy or within 7 months prior to conception can result in fetal harm.
+Advise females of reproductive potential to use effective contraception during treatment and for 7 months following the last dose of Herceptin [see Use in Specific Populations (8.1, 8.3) and Clinical Pharmacology (12.3)].
 
 ## 5.4 Pulmonary Toxicity
 
@@ -92,9 +91,8 @@ Patients with symptomatic intrinsic lung disease or with extensive tumor involve
 
 ## 5.5 Exacerbation of Chemotherapy-Induced Neutropenia
 
-In randomized, controlled clinical trials the per-patient incidences of NCI CTC Grade 3–4 neutropenia and of febrile neutropenia were higher in patients receiving Herceptin in combination with myelosuppressive chemotherapy as compared to those who received chemotherapy alone.
-The incidence of septic death was similar among patients who received Herceptin and those who did not.
-[see Adverse Reactions (6.1)]
+In randomized, controlled clinical trials, the per-patient incidences of NCI-CTC Grade 3–4 neutropenia and of febrile neutropenia were higher in patients receiving Herceptin in combination with myelosuppressive chemotherapy as compared to those who received chemotherapy alone.
+The incidence of septic death was similar among patients who received Herceptin and those who did not [see Adverse Reactions (6.1)].
 
 ## 5.6 HER2 Testing
 
@@ -108,8 +106,8 @@ Users should refer to the package inserts of specific assay kits for information
 
 Limitations in assay precision make it inadvisable to rely on a single method to rule out potential Herceptin benefit.
 
-Treatment outcomes for adjuvant breast cancer (Studies 2 and 3) and for metastatic breast cancer (Study 5) as a function of IHC and FISH testing are provided in Tables 8 and 10.
+Treatment outcomes for adjuvant breast cancer (Studies 2 and 3) and for metastatic breast cancer (Study 5) as a function of IHC and FISH testing are provided in Tables 10 and 12.
 
 Assessment of HER2 protein overexpression and HER2 gene amplification in metastatic gastric cancer should be performed using FDA-approved tests specifically for gastric cancers due to differences in gastric vs. breast histopathology, including incomplete membrane staining and more frequent heterogeneous expression of HER2 seen in gastric cancers.
 Study 7 demonstrated that gene amplification and protein overexpression were not as well correlated as with breast cancer.
-Treatment outcomes for metastatic gastric cancer (Study 7), based on HER2 gene amplification (FISH) and HER2 protein overexpression (IHC) test results are provided in Table14.
+Treatment outcomes for metastatic gastric cancer (Study 7) based on HER2 gene amplification (FISH) and HER2 protein overexpression (IHC) test results are provided in Table 14.

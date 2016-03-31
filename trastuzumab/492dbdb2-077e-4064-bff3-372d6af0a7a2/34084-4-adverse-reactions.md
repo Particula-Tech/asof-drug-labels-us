@@ -3,10 +3,10 @@
 The following adverse reactions are discussed in greater detail in other sections of the label:
 
 - Cardiomyopathy [see Warnings and Precautions (5.1)]
-- Infusion reactions [see Warnings and Precautions (5.2)]
-- Embryo-fetal Toxicity [see Warnings and Precautions (5.3)]
-- Pulmonary toxicity [see Warnings and Precautions (5.4)]
-- Exacerbation of chemotherapy-induced neutropenia [see Warnings and Precautions (5.5)]
+- Infusion Reactions [see Warnings and Precautions (5.2)]
+- Embryo-Fetal Toxicity [see Warnings and Precautions (5.3)]
+- Pulmonary Toxicity [see Warnings and Precautions (5.4)]
+- Exacerbation of Chemotherapy-induced Neutropenia [see Warnings and Precautions (5.5)]
 
 The most common adverse reactions in patients receiving Herceptin in the adjuvant and metastatic breast cancer setting are fever, nausea, vomiting, infusion reactions, diarrhea, infections, increased cough, headache, fatigue, dyspnea, rash, neutropenia, anemia, and myalgia.
 Adverse reactions requiring interruption or discontinuation of Herceptin treatment include CHF, significant decline in left ventricular cardiac function, severe infusion reactions, and pulmonary toxicity [see Dosage and Administration (2.2)].
@@ -20,14 +20,14 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Adjuvant Breast Cancer Studies
 
-The data below reflect exposure to one-year Herceptin therapy across three randomized, open-label studies, Studies 1, 2, and 3, with (n=3678) or without (n= 3363) trastuzumab in the adjuvant treatment of breast cancer.
+The data below reflect exposure to one-year Herceptin therapy across three randomized, open-label studies, Studies 1, 2, and 3, with (n = 3678) or without (n = 3363) trastuzumab in the adjuvant treatment of breast cancer.
 
 The data summarized in Table 3 below, from Study 3, reflect exposure to Herceptin in 1678 patients; the median treatment duration was 51 weeks and median number of infusions was 18.
 Among the 3386 patients enrolled in the observation and one-year Herceptin arms of Study 3 at a median duration of follow-up of 12.6 months in the Herceptin arm, the median age was 49 years (range: 21 to 80 years), 83% of patients were Caucasian, and 13% were Asian.
 
 Table 3: Adverse Reactions for Study 3Median follow-up duration of 12.6 months in the one-year Herceptin treatment arm., All GradesThe incidence of Grade 3 or higher adverse reactions was <1% in both arms for each listed term.
 
-| Adverse Reaction | (n=1678) | (n=1708) |
+| Adverse Reaction | (n = 1678) | (n = 1708) |
 | --- | --- | --- |
 |  | One Year Herceptin | Observation |
 | Cardiac |  |  |
@@ -75,7 +75,7 @@ Table 3: Adverse Reactions for Study 3Median follow-up duration of 12.6 months i
 | Pyrexia | 100 (6%) | 6 (0.4%) |
 | Edema Peripheral | 79 (5%) | 37 (2%) |
 | Chills | 85 (5%) | 0 (0%) |
-| Aesthenia | 75 (4.5%) | 30 (2%) |
+| Asthenia | 75 (4.5%) | 30 (2%) |
 | Influenza-like Illness | 40 (2%) | 3 (0.2%) |
 | Sudden Death | 1 (0.06%) | 0 (0%) |
 | Infections |  |  |
@@ -87,7 +87,7 @@ Table 3: Adverse Reactions for Study 3Median follow-up duration of 12.6 months i
 
 In Study 3, a comparison of 3-weekly Herceptin treatment for two years versus one year was also performed.
 The rate of asymptomatic cardiac dysfunction was increased in the 2-year Herceptin treatment arm (8.1% versus 4.6% in the one-year Herceptin treatment arm).
-More patients experienced at least one adverse reaction of grade 3 or higher in the 2-year Herceptin treatment arm (20.4%) compared with the one-year Herceptin treatment arm (16.3%).
+More patients experienced at least one adverse reaction of Grade 3 or higher in the 2-year Herceptin treatment arm (20.4%) compared with the one-year Herceptin treatment arm (16.3%).
 
 The safety data from Studies 1 and 2 were obtained from 3655 patients, of whom 2000 received Herceptin; the median treatment duration was 51 weeks.
 The median age was 49 years (range: 24–80); 84% of patients were White, 7% Black, 4% Hispanic, and 3% Asian.
@@ -108,7 +108,7 @@ In Study 4, the toxicity profile was similar to that reported in Studies 1, 2, a
 
 Metastatic Breast Cancer Studies
 
-The data below reflect exposure to Herceptin in one randomized, open-label study, Study 5, of chemotherapy with (n=235) or without (n=234) trastuzumab in patients with metastatic breast cancer, and one single-arm study (Study 6; n=222) in patients with metastatic breast cancer.
+The data below reflect exposure to Herceptin in one randomized, open-label study, Study 5, of chemotherapy with (n = 235) or without (n = 234) trastuzumab in patients with metastatic breast cancer, and one single-arm study (Study 6; n = 222) in patients with metastatic breast cancer.
 Data in Table 4 are based on Studies 5 and 6.
 
 Among the 464 patients treated in Study 5, the median age was 52 years (range: 25–77 years).
@@ -182,9 +182,9 @@ Cisplatin was administered at 80 mg/m2 on Day 1 and the fluoropyrimidine was adm
 Chemotherapy was administered for six 21-day cycles.
 Median duration of Herceptin treatment was 21 weeks; median number of Herceptin infusions administered was eight.
 
-Table 5: Study 7: Per Patient Incidence of Adverse Reactions of All Grades (Incidence ≥ 5% between Arms) or Grade 3 /4 (Incidence >1% between Arms) and Higher Incidence in Herceptin Arm
+Table 5: Study 7: Per Patient Incidence of Adverse Reactions of All Grades (Incidence ≥ 5% between Arms) or Grade 3 /4 (Incidence > 1% between Arms) and Higher Incidence in Herceptin Arm
 
-|  | Herceptin +FC (N = 294) N (%) |  | FC (N = 290) N (%) |  |
+|  | Herceptin + FC (N = 294) N (%) |  | FC (N = 290) N (%) |  |
 | --- | --- | --- | --- | --- |
 | Body System/ Adverse Event | All Grades | Grades 3/4 | All Grades | Grades 3/4 |
 | Investigations |  |  |  |  |
@@ -192,7 +192,7 @@ Table 5: Study 7: Per Patient Incidence of Adverse Reactions of All Grades (Inci
 | Hypokalemia | 83 (28) | 28 (10) | 69 (24) | 16 (6) |
 | Anemia | 81 (28) | 36 (12) | 61 (21) | 30 (10) |
 | Thrombocytopenia | 47 (16) | 14 (5) | 33 (11) | 8 (3) |
-| Blood And Lymphatic System Disorders |  |  |  |  |
+| Blood and Lymphatic System Disorders |  |  |  |  |
 | Febrile Neutropenia | — | 15 (5) | — | 8 (3) |
 | Gastrointestinal Disorders |  |  |  |  |
 | Diarrhea | 109 (37) | 27 (9) | 80 (28) | 11 (4) |
@@ -203,12 +203,12 @@ Table 5: Study 7: Per Patient Incidence of Adverse Reactions of All Grades (Inci
 | Fever | 54 (18) | 3 (1) | 36 (12) | 0 (0) |
 | Mucosal Inflammation | 37 (13) | 6 (2) | 18 (6) | 2 (1) |
 | Chills | 23 (8) | 1 (≤ 1) | 0 (0) | 0 (0) |
-| Metabolism And Nutrition Disorders |  |  |  |  |
+| Metabolism and Nutrition Disorders |  |  |  |  |
 | Weight Decrease | 69 (23) | 6 (2) | 40 (14) | 7 (2) |
-| Infections And Infestations |  |  |  |  |
+| Infections and Infestations |  |  |  |  |
 | Upper Respiratory Tract Infections | 56 (19) | 0 (0) | 29 (10) | 0 (0) |
 | Nasopharyngitis | 37 (13) | 0 (0) | 17 (6) | 0 (0) |
-| Renal And Urinary Disorders |  |  |  |  |
+| Renal and Urinary Disorders |  |  |  |  |
 | Renal Failure and Impairment | 53 (18) | 8 (3) | 42 (15) | 5 (2) |
 | Nervous System Disorders |  |  |  |  |
 | Dysgeusia | 28 (10) | 0 (0) | 14 (5) | 0 (0) |
@@ -227,19 +227,19 @@ This analysis also showed evidence of reversibility of left ventricular dysfunct
 Table 6 For Studies 1, 2 and 3, events are counted from the beginning of Herceptin treatment.
 For Study 4, events are counted from the date of randomization.: Per-patient Incidence of New Onset Myocardial Dysfunction (by LVEF) Studies 1, 2, 3 and 4
 
-|  | LVEF <50% | ≥10% decrease | ≥16% decrease | <20% and ≥10% | ≥20% |
+|  | LVEF < 50% | ≥ 10% decrease | ≥ 16% decrease | < 20% and ≥ 10% | ≥ 20% |
 | --- | --- | --- | --- | --- | --- |
 |  | LVEF <50% and Absolute Decrease from Baseline |  |  | Absolute LVEF Decrease |  |
-| Studies 1 & 2Studies 1 and 2 regimens: doxorubicin and cyclophosphamide followed by paclitaxel (AC→T) or paclitaxel plus Herceptin (AC→TH).,Median duration of follow-up for studies 1 and 2 combined was 8.3 years in the AC→TH arm. |  |  |  |  |  |
-| AC→TH (n=1856) | 23.1% (428) | 18.5% (344) | 11.2% (208) | 37.9% (703) | 8.9% (166) |
-| AC→T (n=1170) | 11.7% (137) | 7.0% (82) | 3.0% (35) | 22.1% (259) | 3.4% (40) |
+| Studies 1 & 2Studies 1 and 2 regimens: doxorubicin and cyclophosphamide followed by paclitaxel (AC→T) or paclitaxel plus Herceptin (AC→TH).,Median duration of follow-up for Studies 1 and 2 combined was 8.3 years in the AC→TH arm. |  |  |  |  |  |
+| AC→TH (n = 1856) | 23.1% (428) | 18.5% (344) | 11.2% (208) | 37.9% (703) | 8.9% (166) |
+| AC→T (n = 1170) | 11.7% (137) | 7.0% (82) | 3.0% (35) | 22.1% (259) | 3.4% (40) |
 | Study 3Median follow-up duration of 12.6 months in the one-year Herceptin treatment arm. |  |  |  |  |  |
-| Herceptin (n=1678) | 8.6% (144) | 7.0% (118) | 3.8% (64) | 22.4% (376) | 3.5% (59) |
-| Observation (n=1708) | 2.7% (46) | 2.0% (35) | 1.2% (20) | 11.9% (204) | 1.2% (21) |
+| Herceptin (n = 1678) | 8.6% (144) | 7.0% (118) | 3.8% (64) | 22.4% (376) | 3.5% (59) |
+| Observation (n = 1708) | 2.7% (46) | 2.0% (35) | 1.2% (20) | 11.9% (204) | 1.2% (21) |
 | Study 4Study 4 regimens: doxorubicin and cyclophosphamide followed by docetaxel (AC→T) or docetaxel plus Herceptin (AC→TH); docetaxel and carboplatin plus Herceptin (TCH). |  |  |  |  |  |
-| TCH (n=1056) | 8.5% (90) | 5.9% (62) | 3.3% (35) | 34.5% (364) | 6.3% (67) |
-| AC→TH (n=1068) | 17% (182) | 13.3% (142) | 9.8% (105) | 44.3% (473) | 13.2% (141) |
-| AC→T (n=1050) | 9.5% (100) | 6.6% (69) | 3.3% (35) | 34% (357) | 5.5% (58) |
+| TCH (n = 1056) | 8.5% (90) | 5.9% (62) | 3.3% (35) | 34.5% (364) | 6.3% (67) |
+| AC→TH (n = 1068) | 17% (182) | 13.3% (142) | 9.8% (105) | 44.3% (473) | 13.2% (141) |
+| AC→T (n = 1050) | 9.5% (100) | 6.6% (69) | 3.3% (35) | 34% (357) | 5.5% (58) |
 
 Figure 1 Studies 1 and 2: Cumulative Incidence of Time to First LVEF Decline of ≥ 10 Percentage Points from Baseline and to Below 50% with Death as a Competing Risk Event
 
@@ -254,33 +254,33 @@ Figure 3 Study 4: Cumulative Incidence of Time to First LVEF Decline of ≥10 Pe
 Time 0 is the date of randomization.
 
 The incidence of treatment emergent congestive heart failure among patients in the metastatic breast cancer trials was classified for severity using the New York Heart Association classification system (I–IV, where IV is the most severe level of cardiac failure) (see Table 2).
-In the metastatic breast cancer trials the probability of cardiac dysfunction was highest in patients who received Herceptin concurrently with anthracyclines.
+In the metastatic breast cancer trials, the probability of cardiac dysfunction was highest in patients who received Herceptin concurrently with anthracyclines.
 
 In Study 7, 5.0% of patients in the Herceptin plus chemotherapy arm compared to 1.1% of patients in the chemotherapy alone arm had LVEF value below 50% with a ≥ 10% absolute decrease in LVEF from pretreatment values.
 
 Infusion Reactions
 
 During the first infusion with Herceptin, the symptoms most commonly reported were chills and fever, occurring in approximately 40% of patients in clinical trials.
-Symptoms were treated with acetaminophen, diphenhydramine, and meperidine (with or without reduction in the rate of Herceptin infusion); permanent discontinuation of Herceptin for infusional toxicity was required in < 1% of patients.
+Symptoms were treated with acetaminophen, diphenhydramine, and meperidine (with or without reduction in the rate of Herceptin infusion); permanent discontinuation of Herceptin for infusion reactions was required in < 1% of patients.
 Other signs and/or symptoms may include nausea, vomiting, pain (in some cases at tumor sites), rigors, headache, dizziness, dyspnea, hypotension, elevated blood pressure, rash, and asthenia.
-Infusional toxicity occurred in 21% and 35% of patients, and was severe in 1.4% and 9% of patients, on second or subsequent Herceptin infusions administered as monotherapy or in combination with chemotherapy, respectively.
+Infusion reactions occurred in 21% and 35% of patients, and were severe in 1.4% and 9% of patients, on second or subsequent Herceptin infusions administered as monotherapy or in combination with chemotherapy, respectively.
 In the post-marketing setting, severe infusion reactions, including hypersensitivity, anaphylaxis, and angioedema have been reported.
 
 Anemia
 
 In randomized controlled clinical trials, the overall incidence of anemia (30% vs. 21% [Study 5]), of selected NCI-CTC Grade 2–5 anemia (12.3% vs. 6.7% [Study 1]), and of anemia requiring transfusions (0.1% vs. 0 patients [Study 2]) were increased in patients receiving Herceptin and chemotherapy compared with those receiving chemotherapy alone.
 Following the administration of Herceptin as a single agent (Study 6), the incidence of NCI-CTC Grade 3 anemia was < 1%.
-In Study 7 (metastatic gastric cancer) on the Herceptin containing arm as compared to the chemotherapy alone arm the overall incidence of anemia was 28% compared 21% and of NCI CTC Grade 3/4 anemia was 12.2% compared to 10.3%.
+In Study 7 (metastatic gastric cancer), on the Herceptin containing arm as compared to the chemotherapy alone arm, the overall incidence of anemia was 28% compared to 21% and of NCI-CTC Grade 3/4 anemia was 12.2% compared to 10.3%.
 
 Neutropenia
 
 In randomized controlled clinical trials in the adjuvant setting, the incidence of selected NCI-CTC Grade 4–5 neutropenia (1.7% vs. 0.8% [Study 2]) and of selected Grade 2–5 neutropenia (6.4% vs. 4.3% [Study 1]) were increased in patients receiving Herceptin and chemotherapy compared with those receiving chemotherapy alone.
 In a randomized, controlled trial in patients with metastatic breast cancer, the incidences of NCI-CTC Grade 3/4 neutropenia (32% vs. 22%) and of febrile neutropenia (23% vs. 17%) were also increased in patients randomized to Herceptin in combination with myelosuppressive chemotherapy as compared to chemotherapy alone.
-In Study 7 (metastatic gastric cancer) on the Herceptin containing arm as compared to the chemotherapy alone arm, the incidence of NCI CTC Grade 3/4 neutropenia was 36.8% compared to 28.9%; febrile neutropenia 5.1% compared to 2.8%.
+In Study 7 (metastatic gastric cancer) on the Herceptin containing arm as compared to the chemotherapy alone arm, the incidence of NCI-CTC Grade 3/4 neutropenia was 36.8% compared to 28.9%; febrile neutropenia 5.1% compared to 2.8%.
 
 Infection
 
-The overall incidences of infection (46% vs. 30% [Study 5]), of selected NCI-CTC Grade 2–5 infection/febrile neutropenia (24.3% vs. 13.4% [Study 1]) and of selected Grade 3–5 infection/febrile neutropenia (2.9% vs. 1.4%) [Study 2]), were higher in patients receiving Herceptin and chemotherapy compared with those receiving chemotherapy alone.
+The overall incidences of infection (46% vs. 30% [Study 5]), of selected NCI-CTC Grade 2–5 infection/febrile neutropenia (24.3% vs. 13.4% [Study 1]) and of selected Grade 3–5 infection/febrile neutropenia (2.9% vs. 1.4%) [Study 2]) were higher in patients receiving Herceptin and chemotherapy compared with those receiving chemotherapy alone.
 The most common site of infections in the adjuvant setting involved the upper respiratory tract, skin, and urinary tract.
 
 In Study 4, the overall incidence of infection was higher with the addition of Herceptin to AC-T but not to TCH [44% (AC-TH), 37% (TCH), 38% (AC-T)].
@@ -324,7 +324,7 @@ In Study 7 (metastatic gastric cancer) on the Herceptin-containing arm as compar
 Severe (Grade 3/4) renal failure was 2.7% on the Herceptin-containing arm compared to 1.7% on the chemotherapy only arm.
 Treatment discontinuation for renal insufficiency/failure was 2% on the Herceptin-containing arm and 0.3% on the chemotherapy only arm.
 
-In the postmarketing setting, rare cases of nephrotic syndrome with pathologic evidence of glomerulopathy have been reported.
+In the post-marketing setting, rare cases of nephrotic syndrome with pathologic evidence of glomerulopathy have been reported.
 The time to onset ranged from 4 months to approximately 18 months from initiation of Herceptin therapy.
 Pathologic findings included membranous glomerulonephritis, focal glomerulosclerosis, and fibrillary glomerulonephritis.
 Complications included volume overload and congestive heart failure.
@@ -342,9 +342,10 @@ For these reasons, comparison of the incidence of antibodies to Herceptin with t
 
 ## 6.3 Post-Marketing Experience
 
-The following adverse reactions have been identified during post approval use of Herceptin.
+The following adverse reactions have been identified during post-approval use of Herceptin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 - Infusion reaction [see Warnings and Precautions (5.2)]
 - Oligohydramnios or oligohydramnios sequence, including pulmonary hypoplasia, skeletal abnormalities, and neonatal death [see Warnings and Precautions (5.3)]
 - Glomerulopathy [see Adverse Reactions (6.1)]
+- Immune thrombocytopenia

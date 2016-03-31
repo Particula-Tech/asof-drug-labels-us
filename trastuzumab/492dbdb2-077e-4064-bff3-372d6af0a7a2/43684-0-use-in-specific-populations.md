@@ -2,41 +2,78 @@
 
 ## 8.1 Pregnancy
 
-Category D [see Warnings and Precautions (5.3)]
+Pregnancy Exposure Registry and Pharmacovigilance Program
+
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to Herceptin during pregnancy.
+Encourage women who receive Herceptin during pregnancy or within 7 months prior to conception to enroll in the MotHER Pregnancy Registry by contacting 1-800-690-6720 or visiting http://www.motherpregnancyregistry.com/.
+
+In addition, there is a pregnancy pharmacovigilance program for Herceptin.
+If Herceptin is administered during pregnancy, or if a patient becomes pregnant while receiving Herceptin or within 7 months following the last dose of Herceptin, health care providers and patients should immediately report Herceptin exposure to Genentech at 1-888-835-2555.
+
+Risk Summary
 
 Herceptin can cause fetal harm when administered to a pregnant woman.
-In post-marketing reports use of Herceptin during pregnancy resulted in cases of oligohydramnios and of oligohydramnios sequence, manifesting as pulmonary hypoplasia, skeletal abnormalities, and neonatal death.
+In post-marketing reports, use of Herceptin during pregnancy resulted in cases of oligohydramnios and of oligohydramnios sequence, manifesting as pulmonary hypoplasia, skeletal abnormalities, and neonatal death [see Data].
+Apprise the patient of the potential risks to a fetus.
+There are clinical considerations if Herceptin is used in a pregnant woman or if a patient becomes pregnant within 7 months following the last dose of Herceptin [see Clinical Considerations].
 
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+Clinical Considerations
+
+Fetal/Neonatal Adverse Reactions
+
+Monitor women who received Herceptin during pregnancy or within 7 months prior to conception for oligohydramnios.
+If oligohydramnios occurs, perform fetal testing that is appropriate for gestational age and consistent with community standards of care.
+
+Data
+
+Human Data
+
+In post-marketing reports, use of Herceptin during pregnancy resulted in cases of oligohydramnios and of oligohydramnios sequence, manifesting in the fetus as pulmonary hypoplasia, skeletal abnormalities and neonatal death.
 These case reports described oligohydramnios in pregnant women who received Herceptin either alone or in combination with chemotherapy.
 In some case reports, amniotic fluid index increased after Herceptin was stopped.
-In one case, Herceptin therapy resumed after the amniotic fluid index improved, and oligohydramnios recurred.
+In one case, Herceptin therapy resumed after amniotic index improved, and oligohydramnios recurred.
 
-Monitor women exposed to Herceptin during pregnancy for oligohydramnios.
-If oligohydramnios occurs, perform fetal testing that is appropriate for gestational age and consistent with community standards of care.
-The efficacy of IV hydration in management of oligohydramnios due to Herceptin exposure is not known.
+Animal Data
 
-Advise women of the potential hazard to the fetus resulting from Herceptin exposure during pregnancy.
-If Herceptin is administered during pregnancy, or if a patient becomes pregnant while receiving Herceptin or within 7 months following the last dose of Herceptin, immediately report Herceptin exposure to the Genentech Adverse Event Line at 1-888-835-2555.
-Encourage women who may be exposed to Herceptin during pregnancy or within 7 months of conception, to enroll in the MotHER Pregnancy Registry by contacting 1-800-690-6720.
+In studies where trastuzumab was administered to pregnant Cynomolgus monkeys during the period of organogenesis at doses up to 25 mg/kg given twice weekly (up to 25 times the recommended weekly human dose of 2 mg/kg), trastuzumab crossed the placental barrier during the early (Gestation Days 20 to 50) and late (Gestation Days 120 to 150) phases of gestation.
+The resulting concentrations of trastuzumab in fetal serum and amniotic fluid were approximately 33% and 25%, respectively, of those present in the maternal serum but were not associated with adverse developmental effects.
 
-No teratogenic effects were observed in offspring from pregnant cynomolgus monkeys administered trastuzumab during the period of organogenesis at doses up to 25 times the recommended weekly human dose of 2 mg/kg.
-Trastuzumab administration to cynomolgus monkeys during early gestation (Days 20 to 50) or late gestation (Days 120 to 150) resulted in offspring with trastuzumab plasma levels of 15 to 28% of maternal plasma levels.
+## 8.2 Lactation
 
-In mutant mice lacking HER2, embryos died in early gestation.
+Risk Summary
 
-## 8.3 Nursing Mothers
+There is no information regarding the presence of trastuzumab in human milk, the effects on the breastfed infant, or the effects on milk production.
+Published data suggest human IgG is present in human milk but does not enter the neonatal and infant circulation in substantial amounts.
 
-It is not known whether Herceptin is excreted in human milk, but human IgG is excreted in human milk.
-Published data suggest that breast milk antibodies do not enter the neonatal and infant circulation in substantial amounts.
+Trastuzumab was present in the milk of lactating Cynomolgus monkeys but not associated with neonatal toxicity [see Data].
+Consider the developmental and health benefits of breastfeeding along with the mother's clinical need for Herceptin treatment and any potential adverse effects on the breastfed child from Herceptin or from the underlying maternal condition.
+This consideration should also take into account the trastuzumab wash out period of 7 months [see Clinical Pharmacology (12.3)].
 
-Trastuzumab was present in the breast milk of lactating cynomolgus monkeys given 12.5 times the recommended weekly human dose of 2 mg/kg of Herceptin.
-Infant monkeys with detectable serum levels of trastuzumab did not have any adverse effects on growth or development from birth to 3 months of age; however, trastuzumab levels in animal breast milk may not accurately reflect human breast milk levels.
+Data
 
-Because many drugs are secreted in human milk and because of the potential for serious adverse reactions in nursing infants from Herceptin, a decision should be made whether to discontinue nursing, or discontinue drug, taking into account the elimination half-life of trastuzumab and the importance of the drug to the mother.
+In lactating Cynomolgus monkeys, trastuzumab was present in breast milk at about 0.3% of maternal serum concentrations after pre- (beginning Gestation Day 120) and post-partum (through Post-partum Day 28) doses of 25 mg/kg administered twice weekly (25 times the recommended weekly human dose of 2 mg/kg of Herceptin).
+Infant monkeys with detectable serum levels of trastuzumab did not exhibit any adverse effects on growth or development from birth to 1 month of age.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Pregnancy Testing
+
+Verify the pregnancy status of females of reproductive potential prior to the initiation of Herceptin.
+
+Contraception
+
+Females
+
+Herceptin can cause embryo-fetal harm when administered during pregnancy.
+
+Advise females of reproductive potential to use effective contraception during treatment with Herceptin and for 7 months following the last dose of Herceptin [see Use in Specific Populations (8.1) and Clinical Pharmacology (12.3)].
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of Herceptin in pediatric patients has not been established.
+The safety and effectiveness of Herceptin in pediatric patients have not been established.
 
 ## 8.5 Geriatric Use
 
@@ -45,11 +82,5 @@ The risk of cardiac dysfunction was increased in geriatric patients as compared 
 Limitations in data collection and differences in study design of the 4 studies of Herceptin in adjuvant treatment of breast cancer preclude a determination of whether the toxicity profile of Herceptin in older patients is different from younger patients.
 The reported clinical experience is not adequate to determine whether the efficacy improvements (ORR, TTP, OS, DFS) of Herceptin treatment in older patients is different from that observed in patients <65 years of age for metastatic disease and adjuvant treatment.
 
-In Study 7 (metastatic gastric cancer), of the 294 patients treated with Herceptin 108 (37%) were 65 years of age or older, while 13 (4.4%) were 75 and over.
+In Study 7 (metastatic gastric cancer), of the 294 patients treated with Herceptin, 108 (37%) were 65 years of age or older, while 13 (4.4%) were 75 and over.
 No overall differences in safety or effectiveness were observed.
-
-## 8.6 Females of Reproductive Potential
-
-Herceptin can cause embryo-fetal harm when administered during pregnancy.
-Advise females of reproductive potential to avoid becoming pregnant while taking Herceptin.
-If contraceptive methods are being considered, use effective contraception while receiving Herceptin and for at least 7 months following the last dose of Herceptin [see Use in Specific Populations (8.1)].
