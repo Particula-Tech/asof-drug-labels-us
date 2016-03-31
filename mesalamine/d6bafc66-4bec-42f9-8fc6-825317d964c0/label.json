@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA204412"
+  ],
+  "inn": "mesalamine",
+  "labeler": "Warner Chilcott (US), LLC",
+  "package_ndcs": [
+    "0430-0854-27"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, DELAYED RELEASE",
+      "generic": "mesalamine",
+      "name": "Delzicol"
+    }
+  ],
+  "setid": "d6bafc66-4bec-42f9-8fc6-825317d964c0",
+  "source": "dailymed"
+}
