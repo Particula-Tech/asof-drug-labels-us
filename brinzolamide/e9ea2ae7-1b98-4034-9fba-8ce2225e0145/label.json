@@ -6,11 +6,12 @@
   "labeler": "Alcon Laboratories, Inc.",
   "package_ndcs": [
     "0065-0275-10",
-    "0065-0275-15"
+    "0065-0275-15",
+    "0065-0275-25"
   ],
   "products": [
     {
-      "form": "SUSPENSION",
+      "form": "SUSPENSION/ DROPS",
       "generic": "brinzolamide",
       "name": "Azopt"
     }

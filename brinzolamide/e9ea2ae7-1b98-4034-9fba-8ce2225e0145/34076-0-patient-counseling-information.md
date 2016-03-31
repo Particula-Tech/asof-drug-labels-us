@@ -6,7 +6,7 @@ Advise patients that if serious or unusual ocular or systemic reactions or signs
 
 ## 17.2 Temporary Blurred Vision
 
-Vision may be temporarily blurred following dosing with AZOPT (brinzolamide ophthalmic suspension) 1%.
+Vision may be temporarily blurred following dosing with AZOPT® (brinzolamide ophthalmic suspension) 1%.
 Advise patients to exercise care in operating machinery or driving a motor vehicle.
 
 ## 17.3 Avoiding Contamination of the Product
@@ -24,7 +24,7 @@ If more than one topical ophthalmic drug is being used, the drugs should be admi
 
 ## 17.6 Contact Lens Wear
 
-The preservative in AZOPT (brinzolamide ophthalmic suspension) 1%, benzalkonium chloride, may be absorbed by soft contact lenses.
-Contact lenses should be removed during instillation of AZOPT (brinzolamide ophthalmic suspension) 1%, but may be reinserted 15 minutes after instillation.
+The preservative in AZOPT® (brinzolamide ophthalmic suspension) 1%, benzalkonium chloride, may be absorbed by soft contact lenses.
+Contact lenses should be removed during instillation of AZOPT® (brinzolamide ophthalmic suspension) 1%, but may be reinserted 15 minutes after instillation.
 
-©2000-2009, 2011-2012, 2015 Novartis U.S. Patent Nos: 6,071,904. *TRUSOPT is a registered trademark of Merck & Co., Inc. Distributed By: ALCON LABORATORIES, INC. Fort Worth, Texas 76134 USA
+©2000-2009, 2011-2012, 2015 Novartis U.S. Pat.: www.alconpatents.com *TRUSOPT is a registered trademark of Merck & Co., Inc. Alcon® a Novartis company Distributed By: ALCON LABORATORIES, INC. Fort Worth, Texas 76134 USA 1-800-757-9195 9012603-1215

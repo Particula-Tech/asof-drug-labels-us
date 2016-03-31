@@ -8,7 +8,7 @@ Increases in unossified sternebrae, reduced ossification of the skull, and unoss
 No treatment-related malformations were seen.
 Following oral administration of 14C-brinzolamide to pregnant rats, radioactivity was found to cross the placenta and was present in the fetal tissues and blood.
 There are no adequate and well-controlled studies in pregnant women.
-AZOPT (brinzolamide ophthalmic suspension) 1% should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+AZOPT® (brinzolamide ophthalmic suspension) 1% should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ## 8.3 Nursing Mothers
 
@@ -16,12 +16,12 @@ In a study of brinzolamide in lactating rats, decreases in body weight gain in o
 No other effects were observed.
 However, following oral administration of 14C-brinzolamide to lactating rats, radioactivity was found in milk at concentrations below those in the blood and plasma.
 It is not known whether this drug is excreted in human milk.
-Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from AZOPT (brinzolamide ophthalmic suspension) 1%, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from AZOPT® (brinzolamide ophthalmic suspension) 1%, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
 ## 8.4 Pediatric Use
 
-A three-month controlled clinical study was conducted in which AZOPT (brinzolamide ophthalmic suspension) 1% was dosed only twice a day in pediatric patients 4 weeks to 5 years of age.
-Patients were not required to discontinue their IOP-lowering medication(s) until initiation of monotherapy with AZOPT.
+A three-month controlled clinical study was conducted in which AZOPT® (brinzolamide ophthalmic suspension) 1% was dosed only twice a day in pediatric patients 4 weeks to 5 years of age.
+Patients were not required to discontinue their IOP-lowering medication(s) until initiation of monotherapy with AZOPT®.
 IOP-lowering efficacy was not demonstrated in this study in which the mean decrease in elevated IOP was between 0 and 2 mmHg.
 Five out of 32 patients demonstrated an increase in corneal diameter of one millimeter.
 

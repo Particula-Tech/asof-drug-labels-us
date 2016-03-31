@@ -1,4 +1,4 @@
-# PRINCIPLE DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL
 
 NDC 0065-0275-10 Alcon® Azopt® (brinzolamide ophthalmic suspension) 1% 10 mL Sterile EACH mL Contains: Active: Brinzolamide 10 mg Preservative: Benzalkonium Chloride, 0.01% Inactives: Mannitol; Carbomer 974P, Edetate Disodium, Tyloxapol, Sodium Chloride, Hydrochloric Acid and/or Sodium Hydroxide (to adjust pH), and Purified Water.
 Rx Only WARNING: Do not touch dropper tip to any surface, as this may contaminate the suspension.
