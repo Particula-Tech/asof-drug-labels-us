@@ -58,6 +58,6 @@ Risedronate Sodium Tablets, USP
 | Toronto, ON | Weston, Florida |
 | Canada M9L 1T9 | 33326, USA |
 
-Revised: May 2015
+Revised: January 2016
 
-Revision: 10
+Revision: 11
