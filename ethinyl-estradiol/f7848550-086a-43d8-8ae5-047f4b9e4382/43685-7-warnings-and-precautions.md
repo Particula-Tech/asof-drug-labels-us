@@ -16,16 +16,16 @@ The risk of postpartum VTE decreases after the third postpartum week, whereas th
 The use of combination hormonal contraceptives (CHCs) increases the risk of VTE.
 Known risk factors for VTE include smoking, obesity and family history of VTE, in addition to other factors that contraindicate use of CHCs [see Contraindications (4)].
 
-Five epidemiologic studies1- 9 that assessed the risk of VTE associated with use of Xulane are described below.
-These are four case control studies, that compared VTE rates among women using Xulane to rates among women using an OC comparator, and an FDA-funded cohort study that estimated and compared VTE rates among women using various hormonal contraceptives, including Xulane.
-All five studies were retrospective studies from U.S. electronic healthcare databases and included women aged 15 to 44 (10 to 55 in the FDA-funded study) who used Xulane or oral contraceptives containing 20 mcg to 35 mcg of ethinyl estradiol (EE) and levonorgestrel (LNG), norethindrone, or norgestimate (NGM).
+Five epidemiologic studies1- 9 that assessed the risk of VTE associated with use of norelgestromin and ethinyl estradiol transdermal system are described below.
+These are four case control studies, that compared VTE rates among women using norelgestromin and ethinyl estradiol transdermal system to rates among women using an OC comparator, and an FDA-funded cohort study that estimated and compared VTE rates among women using various hormonal contraceptives, including norelgestromin and ethinyl estradiol transdermal system.
+All five studies were retrospective studies from U.S. electronic healthcare databases and included women aged 15 to 44 (10 to 55 in the FDA-funded study) who used norelgestromin and ethinyl estradiol transdermal system or oral contraceptives containing 20 mcg to 35 mcg of ethinyl estradiol (EE) and levonorgestrel (LNG), norethindrone, or norgestimate (NGM).
 NGM is the prodrug for NGMN, the progestin in Xulane.
 
-Some of the data from the epidemiologic studies suggest an increased risk of VTE with use of Xulane compared to use of some combined oral contraceptives (see Table 1).
+Some of the data from the epidemiologic studies suggest an increased risk of VTE with use of norelgestromin and ethinyl estradiol transdermal system compared to use of some combined oral contraceptives (see Table 1).
 The studies used slightly different designs and reported relative risk estimates ranging from 1.2 to 2.2.
 None of the studies have adjusted for body mass index, smoking, and family history of VTE, which are potential confounders.
 The interpretations of these relative risk estimates range from no increase in risk to an approximate doubling of risk.
-One of the studies found a statistically significant increased risk of VTE for current users of Xulane.
+One of the studies found a statistically significant increased risk of VTE for current users of norelgestromin and ethinyl estradiol transdermal system.
 
 The five studies are:
 
@@ -44,7 +44,7 @@ The pooled estimates provide the most reliable estimates of VTE risk.
 Risk ratios from the original and various extensions of the i3 Ingenix and BCDSP NGM studies are provided in Table 1.
 The results of these studies are presented in Figure 1.
 
-Table 1: Estimates (Risk Ratios) of Venous Thromboembolism Risk in Current Users of Xulane Compared to Combined Oral Contraceptive Users
+Table 1: Estimates (Risk Ratios) of Venous Thromboembolism Risk in Current Users of Norelgestromin and Ethinyl Estradiol Transdermal System Compared to Combined Oral Contraceptive Users
 
 | Epidemiologic Study“New users” – i.e., women with no prior exposure to the drug studied during a pre-specified time period – are considered to be the most informative population to study in pharmacoepidemiologic safety studies. All estimates took account of new-user status. The method and time period used to identify “new users” varied from study to study. | Comparator Product | Risk Ratios (95% CI) |
 | --- | --- | --- |
@@ -54,7 +54,7 @@ Table 1: Estimates (Risk Ratios) of Venous Thromboembolism Risk in Current Users
 | BCDSP LNG Study in Marketscan database4 | LNG/30 mcg EE | 1.3 (0.8 – 2.1)69 months of data. |
 | FDA-funded Study in Kaiser Permanente and Medicaid databases84 months of data in FDA-funded study,Results for “All users,” i.e., initiation and continuing use of study combination hormonal contraception: “All progestins”/20-35 mcg EE, Risk Ratio (95% CI) = 1.6 (1.2-2.1)C and LNG/30 mcg EE, Risk Ratio (95% CI) = 1.3 (1.0-1.8).,9 | “All progestinsIncludes the following progestins: LNG, norethindrone, norgestimate.”/20 - 35 mcg EELNG/30 mcg EE | 1.4 (0.9 – 2.0)1.2 (0.8 – 1.9) |
 
-Figure 1: VTE Risk of Xulane Relative to Combined Oral Contraceptives
+Figure 1: VTE Risk of Norelgestromin and Ethinyl Estradiol Transdermal System Relative to Combined Oral Contraceptives
 
 An increased risk of thromboembolic and thrombotic disease associated with the use of combination hormonal contraceptives (CHCs) is well established.
 Although the absolute VTE rates are increased for users of CHCs compared to non-users, the rates associated with pregnancy are even greater, especially during the postpartum period (see Figure 2).
@@ -76,14 +76,14 @@ Use CHCs with caution in women with cardiovascular disease risk factors.
 
 ## 5.2 PK Profile of Ethinyl Estradiol
 
-The PK profile for the Xulane patch is different from the PK profile for oral contraceptives in that it has a higher Css and a lower Cmax.
-AUC and average Css for EE are approximately 60% higher in women using Xulane compared with women using an oral contraceptive containing EE 35 mcg.
-In contrast, the Cmax for EE is approximately 25% lower in women using Xulane.
-Inter-subject variability results in increased exposure to EE in some women using either Xulane or oral contraceptives.
-However, inter-subject variability in women using Xulane is higher.
-It is not known whether there are changes in the risk of serious adverse events based on the differences in PK profiles of EE in women using Xulane compared with women using oral contraceptives containing 30 mcg to 35 mcg of EE.
+The PK profile for the norelgestromin and ethinyl estradiol transdermal system is different from the PK profile for oral contraceptives in that it has a higher Css and a lower Cmax.
+AUC and average Css for EE are approximately 60% higher in women using norelgestromin and ethinyl estradiol transdermal system compared with women using an oral contraceptive containing EE 35 mcg.
+In contrast, the Cmax for EE is approximately 25% lower in women using norelgestromin and ethinyl estradiol transdermal system.
+Inter-subject variability results in increased exposure to EE in some women using either norelgestromin and ethinyl estradiol transdermal system or oral contraceptives.
+However, inter-subject variability in women using norelgestromin and ethinyl estradiol transdermal system is higher.
+It is not known whether there are changes in the risk of serious adverse events based on the differences in PK profiles of EE in women using norelgestromin and ethinyl estradiol transdermal system compared with women using oral contraceptives containing 30 mcg to 35 mcg of EE.
 Increased estrogen exposure may increase the risk of adverse events, including venous thromboembolism.
-[see Boxed Warning and Clinical Pharmacology (12.3).]
+[See Boxed Warning and Clinical Pharmacology (12.3).]
 
 ## 5.3 Liver Disease
 
@@ -122,7 +122,7 @@ Women with a history of pregnancy-related cholestasis may be at an increased ris
 
 Carefully monitor prediabetic and diabetic women who take Xulane.
 CHCs may decrease glucose tolerance in a dose-related fashion.
-In a 6-cycle clinical trial with Xulane there were no clinically significant changes in fasting blood glucose from baseline to end of treatment.
+In a 6-cycle clinical trial with norelgestromin and ethinyl estradiol transdermal system there were no clinically significant changes in fasting blood glucose from baseline to end of treatment.
 
 Consider alternative contraception for women with uncontrolled dyslipidemia.
 A small proportion of women will have adverse lipid changes while on hormonal contraceptives.
@@ -139,14 +139,14 @@ Consider discontinuation of Xulane in the case of increased frequency or severit
 
 ### Unscheduled Bleeding and Spotting
 
-Unscheduled (breakthrough) bleeding and spotting sometimes occur in women using Xulane.
+Unscheduled (breakthrough) bleeding and spotting sometimes occur in women using norelgestromin and ethinyl estradiol transdermal system.
 Consider non-hormonal causes and take adequate diagnostic measures to rule out malignancy, other pathology, or pregnancy in the event of unscheduled bleeding, as in the case of any abnormal vaginal bleeding.
 If pathology and pregnancy have been excluded, time or a change to another contraceptive product may resolve the bleeding.
 
 In the clinical trials, most women started their scheduled (withdrawal) bleeding on the fourth day of the drug-free interval, and the median duration of withdrawal bleeding was 5 to 6 days.
 On average, 26% of women per cycle had 7 or more total days of bleeding and/or spotting (this includes both scheduled and unscheduled bleeding and/or spotting).
-Three clinical studies of the efficacy of Xulane in preventing pregnancy assessed scheduled and unscheduled bleeding [see Clinical Studies (14)] in 3,330 women who completed 22,155 cycles of exposure.
-A total of 36 (1.1%) of the women discontinued Xulane at least in part, due to bleeding or spotting.
+Three clinical studies of the efficacy of norelgestromin and ethinyl estradiol transdermal system in preventing pregnancy assessed scheduled and unscheduled bleeding [see Clinical Studies (14)] in 3,330 women who completed 22,155 cycles of exposure.
+A total of 36 (1.1%) of the women discontinued norelgestromin and ethinyl estradiol transdermal system at least in part, due to bleeding or spotting.
 
 Table 2 summarizes the proportion of subjects who experienced unscheduled (breakthrough) bleeding/spotting by treatment cycle.
 

@@ -17,18 +17,18 @@ Adverse reactions commonly reported by users of combination hormonal contracepti
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-The data described below reflect exposure to Xulane in 3330 sexually active women (3322 of whom had safety data) who participated in three Phase 3 clinical trials designed to evaluate contraceptive efficacy and safety.
-These subjects received six or 13 cycles of contraception (Xulane or an oral contraceptive comparator in two of the trials).
+The data described below reflect exposure to norelgestromin and ethinyl estradiol transdermal system in 3330 sexually active women (3322 of whom had safety data) who participated in three Phase 3 clinical trials designed to evaluate contraceptive efficacy and safety.
+These subjects received six or 13 cycles of contraception (norelgestromin and ethinyl estradiol transdermal system or an oral contraceptive comparator in two of the trials).
 The women ranged in age from 18 to 45 years and were predominantly white (91%).
 
 The most common adverse reactions (≥ 5%) reported during clinical trials were breast symptoms, nausea/vomiting, headache, application site disorder, abdominal pain, dysmenorrhea, vaginal bleeding and menstrual disorders, and mood, affect and anxiety disorders.
 The most common events leading to discontinuation were application site reaction, breast symptoms (including breast discomfort, engorgement and pain), nausea and/or vomiting, headache and emotional lability.
 
-Adverse drug reactions reported by ≥ 2.5% of Xulane-treated subjects in these trials are shown in Table 3.
+Adverse drug reactions reported by ≥ 2.5% of norelgestromin and ethinyl estradiol transdermal system-treated subjects in these trials are shown in Table 3.
 
-Table 3: Adverse Drug Reactions Reported by ≥ 2.5% of Xulane-treated Subjects in Three Phase 3 Clinical Trials
+Table 3: Adverse Drug Reactions Reported by ≥ 2.5% of Norelgestromin and Ethinyl Estradiol Transdermal System-treated Subjects in Three Phase 3 Clinical Trials
 
-| System/Organ ClassMedDRA version 10.0Adverse reaction | Xulane(n = 3322) |
+| System/Organ ClassMedDRA version 10.0Adverse reaction | Norelgestromin and Ethinyl Estradiol Transdermal System(n = 3322) |
 | --- | --- |
 | Reproductive system and breast disorders |  |
 | Breast symptomsRepresents a bundle of similar terms | 22.4% |
@@ -56,7 +56,7 @@ Table 3: Adverse Drug Reactions Reported by ≥ 2.5% of Xulane-treated Subjects 
 | Investigations |  |
 | Weight increased | 2.7% |
 
-Additional adverse drug reactions that occurred in < 2.5% of Xulane-treated subjects in the above clinical trials datasets are:
+Additional adverse drug reactions that occurred in < 2.5% of norelgestromin and ethinyl estradiol transdermal system-treated subjects in the above clinical trials datasets are:
 
 - •Gastrointestinal disorders: Abdominal distension
 - •General disorders and administration site conditions: Fluid retention1, malaise
@@ -72,10 +72,10 @@ Additional adverse drug reactions that occurred in < 2.5% of Xulane-treated subj
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions (Table 4) have been identified during postapproval use of Xulane.
+The following adverse reactions (Table 4) have been identified during postapproval use of norelgestromin and ethinyl estradiol transdermal system.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Table 4: Alphabetical List of Adverse Drug Reactions Identified During Postmarketing Experience with Xulane by System Organ ClassMedDRA version 10.0
+Table 4: Alphabetical List of Adverse Drug Reactions Identified During Postmarketing Experience with Norelgestromin and Ethinyl Estradiol Transdermal System by System Organ ClassMedDRA version 10.0
 
 | System Organ Class | Adverse Drug Reactions |
 | --- | --- |

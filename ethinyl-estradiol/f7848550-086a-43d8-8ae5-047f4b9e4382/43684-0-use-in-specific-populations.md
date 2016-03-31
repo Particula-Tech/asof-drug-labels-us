@@ -18,7 +18,7 @@ Small amounts of contraceptive steroids and/or metabolites are present in breast
 
 ## 8.4 Pediatric Use
 
-Safety and efficacy of Xulane have been established in women of reproductive age.
+Safety and efficacy of norelgestromin and ethinyl estradiol transdermal system have been established in women of reproductive age.
 Efficacy is expected to be the same for post-pubertal adolescents under the age of 18 and for users 18 years and older.
 Use of this product before menarche is not indicated.
 
@@ -31,7 +31,7 @@ Xulane has not been studied in postmenopausal women and is not indicated in this
 No studies with Xulane have been conducted in women with hepatic impairment.
 However, steroid hormones may be poorly metabolized in patients with impaired liver function.
 Acute or chronic disturbances of liver function may necessitate the discontinuation of combined hormonal contraceptive use until markers of liver function return to normal and combined hormonal contraceptive causation has been excluded.
-[see Contraindications (4) and Warnings and Precautions (5.3).]
+[See Contraindications (4) and Warnings and Precautions (5.3).]
 
 ## 8.7 Renal Impairment
 

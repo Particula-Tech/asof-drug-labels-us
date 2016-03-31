@@ -2,8 +2,8 @@
 
 Xulane is a transdermal system with a contact surface area of 14 cm².
 It contains 4.86 mg norelgestromin (NGMN) and 0.53 mg ethinyl estradiol, USP (EE), and its delivery rate is approximately 150 mcg of NGMN and 35 mcg of EE per day.
-Systemic exposures (as measured by area under the curve [AUC] and steady state concentration [Css]) of NGMN and EE during use of Xulane are higher and the Cmax is lower than those produced by an oral contraceptive containing NGM 250 mcg / EE 35 mcg.
-[see Boxed Warning and Clinical Pharmacology (12.3)].
+Systemic exposures (as measured by area under the curve [AUC] and steady state concentration [Css]) of NGMN and EE during use of norelgestromin and ethinyl estradiol transdermal system are higher and the Cmax is lower than those produced by an oral contraceptive containing NGM 250 mcg / EE 35 mcg.
+[See Boxed Warning and Clinical Pharmacology (12.3).]
 
 Xulane is a thin, matrix-type transdermal system consisting of three layers.
 The backing layer is composed of a peach flexible film consisting of a pigmented polyethylene outer layer and a polyester inner layer.

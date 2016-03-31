@@ -22,7 +22,7 @@ How well does Xulane work?
 Your chance of getting pregnant depends on how well you follow the directions for using Xulane.
 The better you follow the directions, the less chance you have of getting pregnant.
 
-In clinical studies, 1 to 2 out of 100 women got pregnant during the first year that they used Xulane.
+In clinical studies, 1 to 2 out of 100 women got pregnant during the first year that they used norelgestromin and ethinyl estradiol transdermal system.
 
 Xulane may not be as effective in women weighing more than 198 lbs.
 (90 kg).
@@ -153,7 +153,7 @@ Xulane may cause serious side effects, including:
 - •blood clots.
   Like pregnancy, hormonal birth control methods increase the risk of serious blood clots (see following graph), especially in women who have other risk factors, such as smoking, obesity, or age greater than 35.
   This increased risk is highest when you first start using hormonal birth control and when you restart the same or different hormonal birth control after not using it for a month or more.
-  Some studies have reported that women who use Xulane have a higher risk of getting a blood clot.
+  Some studies have reported that women who use norelgestromin and ethinyl estradiol transdermal system have a higher risk of getting a blood clot.
   Talk with your healthcare provider about your risk of getting a blood clot before using Xulane or deciding which type of birth control is right for you.
 - It is possible to die or be permanently disabled from a problem caused by a blood clot, such as a heart attack or a stroke.
   Some examples of serious blood clots are blood clots in the:
@@ -195,7 +195,7 @@ The most common side effects of Xulane are:
 - •vaginal bleeding and menstrual disorders, such as spotting or bleeding between periods
 - •mood, affect and anxiety disorders
 
-Some women have spotting or light bleeding, breast tenderness, or feel sick to their stomach during Xulane use.
+Some women have spotting or light bleeding, breast tenderness, or feel sick to their stomach during norelgestromin and ethinyl estradiol transdermal system use.
 If these symptoms occur, do not stop using the Xulane patch.
 The problem will usually go away.
 If it doesn't go away, check with your healthcare provider.
