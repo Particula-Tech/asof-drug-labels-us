@@ -68,14 +68,32 @@ Table 5 Results at Week 24 From a Placebo-Controlled Study for JARDIANCE used in
 
 At Week 24, the systolic blood pressure was statistically significantly reduced compared to placebo by -4.1 mmHg (placebo-corrected, p-value <0.0001) for JARDIANCE 10 mg and -4.8 mmHg (placebo-corrected, p-value <0.0001) for JARDIANCE 25 mg.
 
+Initial Combination Therapy with Metformin A total of 1364 patients with type 2 diabetes participated in a double-blind, randomized, active-controlled study to evaluate the efficacy and safety of JARDIANCE in combination with metformin as initial therapy compared to the corresponding individual components.
+
+Treatment-naïve patients with inadequately controlled type 2 diabetes entered an open-label placebo run-in for 2 weeks.
+At the end of the run-in period, patients who remained inadequately controlled and had an HbA1c between 7 and 10.5% were randomized to one of 8 active-treatment arms: JARDIANCE 10 mg or 25 mg; metformin 1000 mg, or 2000 mg; JARDIANCE 10 mg in combination with 1000 mg or 2000 mg metformin; or JARDIANCE 25 mg in combination with 1000 mg or 2000 mg metformin.
+
+At Week 24, initial therapy of JARDIANCE in combination with metformin provided statistically significant reductions in HbA1c (p-value <0.01) compared to the individual components (see Table 6).
+
+Table 6 Glycemic Parameters at 24 Weeks in a Study Comparing JARDIANCE and Metformin to the Individual Components as Initial Therapy
+
+|  | JARDIANCE 10 mg + Metformin 1000 mga N=161 | JARDIANCE 10 mg + Metformin 2000 mga N=167 | JARDIANCE 25 mg + Metformin 1000 mga N=165 | JARDIANCE 25 mg + Metformin 2000 mga N=169 | JARDIANCE 10 mg N=169 | JARDIANCE 25 mg N=163 | Metformin 1000 mga N=167 | Metformin 2000 mga N=162 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| HbA1c (%) |  |  |  |  |  |  |  |  |
+| Baseline (mean) | 8.7 | 8.7 | 8.8 | 8.7 | 8.6 | 8.9 | 8.7 | 8.6 |
+| Change from baseline (adjusted mean) | -2.0 | -2.1 | -1.9 | -2.1 | -1.4 | -1.4 | -1.2 | -1.8 |
+| Comparison vs JARDIANCE (adjusted mean) (95% CI) | -0.6b (-0.9, -0.4) | -0.7b (-1.0, -0.5) | -0.6c (-0.8, -0.3) | -0.7c (-1.0, -0.5) | -- | -- | -- | -- |
+| Comparison vs metformin (adjusted mean) (95% CI) | -0.8b (-1.0, -0.6) | -0.3b (-0.6, -0.1) | -0.8c (-1.0, -0.5) | -0.3c (-0.6, -0.1) | -- | -- | -- | -- |
+| aMetformin total daily dose, administered in two equally divided doses per day. bp-value ≤0.0062 (modified intent to treat population [observed case] MMRM model included treatment, renal function, region, visit, visit by treatment interaction, and baseline HbA1c). cp-value ≤0.0056 (modified intent to treat population [observed case] MMRM model included treatment, renal function, region, visit, visit by treatment interaction, and baseline HbA1c). |  |  |  |  |  |  |  |  |
+
 Add-On Combination Therapy with Metformin and Sulfonylurea A total of 666 patients with type 2 diabetes participated in a double-blind, placebo-controlled study to evaluate the efficacy and safety of JARDIANCE in combination with metformin plus a sulfonylurea.
 
 Patients with inadequately controlled type 2 diabetes on at least 1500 mg per day of metformin and on a sulfonylurea, entered a 2 week open-label placebo run-in.
 At the end of the run-in, patients who remained inadequately controlled and had an HbA1c between 7% and 10% were randomized to placebo, JARDIANCE 10 mg, or JARDIANCE 25 mg.
 
-Treatment with JARDIANCE 10 mg or 25 mg daily provided statistically significant reductions in HbA1c (p-value <0.0001), FPG, and body weight compared with placebo (see Table 6).
+Treatment with JARDIANCE 10 mg or 25 mg daily provided statistically significant reductions in HbA1c (p-value <0.0001), FPG, and body weight compared with placebo (see Table 7).
 
-Table 6 Results at Week 24 from a Placebo-Controlled Study for JARDIANCE in Combination with Metformin and Sulfonylurea
+Table 7 Results at Week 24 from a Placebo-Controlled Study for JARDIANCE in Combination with Metformin and Sulfonylurea
 
 |  |  | JARDIANCE 10 mg + Metformin + SU N=225 | JARDIANCE 25 mg + Metformin + SU N=216 | Placebo + Metformin + SU N=225 |
 | --- | --- | --- | --- | --- |
@@ -107,11 +125,11 @@ Active-Controlled Study versus Glimepiride in Combination with Metformin The eff
 
 Patients with inadequate glycemic control and an HbA1c between 7% and 10% after a 2-week run-in period were randomized to glimepiride or JARDIANCE 25 mg.
 
-At Week 52, JARDIANCE 25 mg and glimepiride lowered HbA1c and FPG (see Table 7, Figure 4).
+At Week 52, JARDIANCE 25 mg and glimepiride lowered HbA1c and FPG (see Table 8, Figure 4).
 The difference in observed effect size between JARDIANCE 25 mg and glimepiride excluded the pre-specified non-inferiority margin of 0.3%.
 The mean daily dose of glimepiride was 2.7 mg and the maximal approved dose in the United States is 8 mg per day.
 
-Table 7 Results at Week 52 from an Active-Controlled Study Comparing JARDIANCE to Glimepiride as Add-On Therapy in Patients Inadequately Controlled on Metformin
+Table 8 Results at Week 52 from an Active-Controlled Study Comparing JARDIANCE to Glimepiride as Add-On Therapy in Patients Inadequately Controlled on Metformin
 
 |  |  | JARDIANCE 25 mg + Metformin N=765 | Glimepiride + Metformin N=780 |
 | --- | --- | --- | --- |
@@ -148,9 +166,9 @@ Add-On Combination Therapy with Pioglitazone with or without Metformin A total o
 Patients with inadequately controlled type 2 diabetes on metformin at a dose of at least 1500 mg per day and pioglitazone at a dose of at least 30 mg per day were placed into an open-label placebo run-in for 2 weeks.
 Patients with inadequate glycemic control and an HbA1c between 7% and 10% after the run-in period were randomized to placebo, JARDIANCE 10 mg, or JARDIANCE 25 mg.
 
-Treatment with JARDIANCE 10 mg or 25 mg daily resulted in statistically significant reductions in HbA1c (p-value <0.0001), FPG, and body weight compared with placebo (see Table 8).
+Treatment with JARDIANCE 10 mg or 25 mg daily resulted in statistically significant reductions in HbA1c (p-value <0.0001), FPG, and body weight compared with placebo (see Table 9).
 
-Table 8 Results of Placebo-Controlled Study for JARDIANCE in Combination Therapy with Pioglitazone
+Table 9 Results of Placebo-Controlled Study for JARDIANCE in Combination Therapy with Pioglitazone
 
 |  |  | JARDIANCE 10 mg + Pioglitazone N=165 | JARDIANCE 25 mg + Pioglitazone N=168 | Placebo + Pioglitazone N=165 |
 | --- | --- | --- | --- | --- |
@@ -177,10 +195,10 @@ Patients were maintained on a stable dose of insulin prior to enrollment, during
 For the remaining 60 weeks, insulin could be adjusted.
 The mean total daily insulin dose at baseline for JARDIANCE 10 mg, 25 mg, and placebo was 45 IU, 48 IU, and 48 IU, respectively.
 
-JARDIANCE used in combination with insulin (with or without metformin and/or sulfonylurea) provided statistically significant reductions in HbA1c and FPG compared to placebo after both 18 and 78 weeks of treatment (see Table 9).
+JARDIANCE used in combination with insulin (with or without metformin and/or sulfonylurea) provided statistically significant reductions in HbA1c and FPG compared to placebo after both 18 and 78 weeks of treatment (see Table 10).
 JARDIANCE 10 mg or 25 mg daily also resulted in statistically significantly greater percent body weight reduction compared to placebo.
 
-Table 9 Results at Week 18 and 78 for a Placebo-Controlled Study for JARDIANCE in Combination with Insulin
+Table 10 Results at Week 18 and 78 for a Placebo-Controlled Study for JARDIANCE in Combination with Insulin
 
 |  |  | 18 weeks (no insulin adjustment) |  |  | 78 weeks (adjustable insulin dose after 18 weeks) |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -198,26 +216,28 @@ Table 9 Results at Week 18 and 78 for a Placebo-Controlled Study for JARDIANCE i
 |  | Baseline mean in kg | 92 | 95 | 90 | 92 | 95 | 90 |
 |  | % change from baseline (adjusted mean) | -1.8 | -1.4 | -0.1 | -2.4 | -2.4 | 0.7 |
 |  | Difference from placebo (adjusted mean) (95% CI) | -1.7d (-3.0, -0.5) | -1.3e (-2.5, -0.0) | -- | -3.0b (-4.4, -1.7) | -3.0b (-4.4, -1.6) | -- |
-| aModified intent to treat population. Last observation on study (LOCF) was used to impute missing data at Week 18 and 78. At Week 18, 21.3%, 30.3%, and 21.8% was imputed for patients randomized to JARDIANCE 10 mg, JARDIANCE 25 mg, and placebo, respectively. At Week 78, 32.5%, 38.1% and 42.4% was imputed for patients randomized to JARDIANCE 10 mg, JARDIANCE 25 mg, and placebo, respectively bANCOVA p-value <0.0001 (HbA1c: ANCOVA model includes baseline HbA1c, treatment, and region; FPG: MMRM model includes baseline FPG, baseline HbA1c, treatment, region, visit and visit by treatment interaction. Body weight: MMRM model includes baseline body weight, baseline HbA1c, treatment, region, visit and visit by treatment interaction. cp-value=0.0049 dp-value=0.0052 ep-value=0.0463 |  |  |  |  |  |  |  |
+| aModified intent to treat population. Last observation on study (LOCF) was used to impute missing data at Week 18 and 78. At Week 18, 21.3%, 30.3%, and 21.8% was imputed for patients randomized to JARDIANCE 10 mg, JARDIANCE 25 mg, and placebo, respectively. At Week 78, 32.5%, 38.1% and 42.4% was imputed for patients randomized to JARDIANCE 10 mg, JARDIANCE 25 mg, and placebo, respectively. bANCOVA p-value <0.0001 (HbA1c: ANCOVA model includes baseline HbA1c, treatment, and region; FPG: MMRM model includes baseline FPG, baseline HbA1c, treatment, region, visit and visit by treatment interaction. Body weight: MMRM model includes baseline body weight, baseline HbA1c, treatment, region, visit and visit by treatment interaction. cp-value=0.0049 dp-value=0.0052 ep-value=0.0463 |  |  |  |  |  |  |  |
 
-Add-on Combination with MDI Insulin with or without Metformin A total of 563 patients with type 2 diabetes inadequately controlled on multiple daily injections (MDI) of insulin (total daily dose >60 IU), alone or in combination with metformin, participated in a double-blind, placebo-controlled study to evaluate the efficacy of JARDIANCE as add-on therapy to MDI insulin over 18 weeks.
+Add-on Combination with MDI Insulin with or without Metformin
+
+A total of 563 patients with type 2 diabetes inadequately controlled on multiple daily injections (MDI) of insulin (total daily dose >60 IU), alone or in combination with metformin, participated in a double-blind, placebo-controlled study to evaluate the efficacy of JARDIANCE as add-on therapy to MDI insulin over 18 weeks.
 
 Patients entered a 2-week placebo run-in period on MDI insulin with or without metformin background therapy.
 Following the run-in period, patients with inadequate glycemic control were randomized to the addition of JARDIANCE 10 mg, JARDIANCE 25 mg, or placebo.
 Patients were maintained on a stable dose of insulin prior to enrollment, during the run-in period, and during the first 18 weeks of treatment.
 The mean total daily insulin dose at baseline for JARDIANCE 10 mg, JARDIANCE 25 mg, and placebo was 88.6 IU, 90.4 IU, and 89.9 IU, respectively.
 
-JARDIANCE 10 mg or 25 mg daily used in combination with MDI insulin (with or without metformin) provided statistically significant reductions in HbA1c compared to placebo after 18 weeks of treatment (see Table 10).
+JARDIANCE 10 mg or 25 mg daily used in combination with MDI insulin (with or without metformin) provided statistically significant reductions in HbA1c compared to placebo after 18 weeks of treatment (see Table 11).
 
-Table 10 Results at Week 18 for a Placebo-Controlled Study for JARDIANCE in Combination with Insulin and with or without Metformin
+Table 11 Results at Week 18 for a Placebo-Controlled Study for JARDIANCE in Combination with Insulin and with or without Metformin
 
-|  |  | JARDIANCE 10 mg + Insulin +/- Metformin N=186 | JARDIANCE 25 mg + Insulin +/- Metformin N=189 | Placebo + Insulin +/- Metformin N=188 |
-| --- | --- | --- | --- | --- |
-| HbA1c (%)a |  |  |  |  |
-|  | Baseline (mean) | 8.4 | 8.3 | 8.3 |
-|  | Change from baseline (adjusted mean) | -0.9 | -1.0 | -0.5 |
-|  | Difference from placebo (adjusted mean) (95% CI) | -0.4b (-0.6, -0.3) | -0.5b (-0.7, -0.4) | -- |
-| aModified intent to treat population. Last observation on study (LOCF) was used to impute missing data at Week 18. At Week 18, 23.7%, 22.8% and 23.4% was imputed for patients randomized to JARDIANCE 10 mg, JARDIANCE 25 mg, and placebo, respectively. bANCOVA p-value <0.0001 (HbA1c: ANCOVA model includes baseline HbA1c, treatment, renal function, geographical region, and background medication). |  |  |  |  |
+|  | JARDIANCE 10 mg + Insulin +/- Metformin N=186 | JARDIANCE 25 mg + Insulin +/- Metformin N=189 | Placebo + Insulin +/- Metformin N=188 |
+| --- | --- | --- | --- |
+| HbA1c (%)a |  |  |  |
+| Baseline (mean) | 8.4 | 8.3 | 8.3 |
+| Change from baseline (adjusted mean) | -0.9 | -1.0 | -0.5 |
+| Difference from placebo (adjusted mean) (95% CI) | -0.4b (-0.6, -0.3) | -0.5b (-0.7, -0.4) | -- |
+| aModified intent to treat population. Last observation on study (LOCF) was used to impute missing data at Week 18. At Week 18, 23.7%, 22.8% and 23.4% was imputed for patients randomized to JARDIANCE 10 mg, JARDIANCE 25 mg, and placebo, respectively. bANCOVA p-value <0.0001 (HbA1c: ANCOVA model includes baseline HbA1c, treatment, renal function, geographical region, and background medication). |  |  |  |
 
 During an extension period with treatment for up to 52 weeks, insulin could be adjusted to achieve defined glucose target levels.
 The change from baseline in HbA1c was maintained from 18 to 52 weeks with both JARDIANCE 10 mg and 25 mg.
@@ -230,21 +250,21 @@ A total of 738 patients with type 2 diabetes and a baseline eGFR less than 90 mL
 The trial population comprised of 290 patients with mild renal impairment (eGFR 60 to less than 90 mL/min/1.73 m2), 374 patients with moderate renal impairment (eGFR 30 to less than 60 mL/min/1.73 m2), and 74 with severe renal impairment (eGFR less than 30 mL/min/1.73 m2).
 A total of 194 patients with moderate renal impairment had a baseline eGFR of 30 to less than 45 mL/min/1.73 m2 and 180 patients a baseline eGFR of 45 to less than 60 mL/min/1.73 m2.
 
-At Week 24, JARDIANCE 25 mg provided statistically significant reduction in HbA1c relative to placebo in patients with mild to moderate renal impairment (see Table 11).
+At Week 24, JARDIANCE 25 mg provided statistically significant reduction in HbA1c relative to placebo in patients with mild to moderate renal impairment (see Table 12).
 A statistically significant reduction relative to placebo was also observed with JARDIANCE 25 mg in patients with either mild [-0.7 (95% CI: -0.9, -0.5)] or moderate [-0.4 (95% CI: -0.6, -0.3)] renal impairment and with JARDIANCE 10 mg in patients with mild [-0.5 (95% CI: -0.7, -0.3)] renal impairment.
 
 The glucose lowering efficacy of JARDIANCE 25 mg decreased with decreasing level of renal function in the mild to moderate range.
 Least square mean Hb1Ac changes at 24 weeks were -0.6%, -0.5%, and -0.2% for those with a baseline eGFR of 60 to less than 90 mL/min/1.73 m2, 45 to less than 60 mL/min/1.73 m2, and 30 to less than 45 mL/min/1.73 m2, respectively [see Dosage and Administration (2) and Use in Specific Populations (8.6)].
 For placebo, least square mean HbA1c changes at 24 weeks were 0.1%, -0.1%, and 0.2% for patients with a baseline eGFR of 60 to less than 90 mL/min/1.73 m2, 45 to less than 60 mL/min/1.73 m2, and 30 to less than 45 mL/min/1.73 m2, respectively.
 
-Table 11 Results at Week 24 (LOCF) of Placebo-Controlled Study for JARDIANCE in Patients with Type 2 Diabetes and Renal Impairment
+Table 12 Results at Week 24 (LOCF) of Placebo-Controlled Study for JARDIANCE in Patients with Type 2 Diabetes and Renal Impairment
 
-|  | Mild and Moderate Impairmentb |
-| --- | --- |
-|  | JARDIANCE 25 mg |
-| HbA1c |  |
-| Number of patients | n=284 |
-| Comparison vs placebo (adjusted mean) (95% CI) | -0.5a (-0.6, -0.4) |
-| ap-value <0.0001 (HbA1c: ANCOVA model includes baseline HbA1c, treatment, renal function, and background medication) beGFR 30 to less than 90 mL/min/1.73 m2- Modified intent to treat population. Last observation on study (LOCF) was used to impute missing data at Week 24. At Week 24, 24.6% and 26.2% was imputed for patients randomized to JARDIANCE 25 mg and placebo, respectively. |  |
+|  |  | Mild and Moderate Impairmentb |
+| --- | --- | --- |
+|  |  | JARDIANCE 25 mg |
+| HbA1c |  |  |
+|  | Number of patients | n=284 |
+|  | Comparison vs placebo (adjusted mean) (95% CI) | -0.5a (-0.6, -0.4) |
+| ap-value <0.0001 (HbA1c: ANCOVA model includes baseline HbA1c, treatment, renal function, and background medication) beGFR 30 to less than 90 mL/min/1.73 m2- Modified intent to treat population. Last observation on study (LOCF) was used to impute missing data at Week 24. At Week 24, 24.6% and 26.2% was imputed for patients randomized to JARDIANCE 25 mg and placebo, respectively. |  |  |
 
 For patients with severe renal impairment, the analyses of changes in HbA1c and FPG showed no discernible treatment effect of JARDIANCE 25 mg compared to placebo [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
