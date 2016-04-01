@@ -26,19 +26,14 @@ Discontinue PERJETA and trastuzumab if the LVEF has not improved or has declined
 
 ## 5.2 Embryo-Fetal Toxicity
 
-PERJETA can cause fetal harm when administered to a pregnant woman.
-Treatment of pregnant cynomolgus monkeys with pertuzumab resulted in oligohydramnios, delayed fetal kidney development, and embryo-fetal death.
-If PERJETA is administered during pregnancy, or if the patient becomes pregnant while receiving this drug or within 7 months following the last dose of PERJETA in combination with trastuzumab, the patient should be apprised of the potential hazard to a fetus [see Use in Specific Populations (8.1)].
+Based on its mechanism of action and findings in animal studies, PERJETA can cause fetal harm when administered to a pregnant woman.
+PERJETA is a HER2/neu receptor antagonist.
+Cases of oligohydramnios and oligohydramnios sequence manifesting as pulmonary hypoplasia, skeletal abnormalities, and neonatal death have been reported with use of another HER2/neu receptor antagonist (trastuzumab) during pregnancy.
+In an animal reproduction study, administration of pertuzumab to pregnant cynomolgus monkeys during the period of organogenesis resulted in oligohydramnios, delayed fetal kidney development, and embryo-fetal death at exposures 2.5 to 20 times the exposure in humans at the recommended dose, based on Cmax.
 
-Verify pregnancy status prior to the initiation of PERJETA.
-Advise patients of the risks of embryo-fetal death and birth defects and the need for contraception during and after treatment.
-Advise patients to contact their healthcare provider immediately if they suspect they may be pregnant.
-If PERJETA is administered during pregnancy or if a patient becomes pregnant while receiving PERJETA or within 7 months following the last dose of PERJETA in combination with trastuzumab, immediately report exposure to the Genentech Adverse Event Line at 1-888-835-2555.
-Encourage women who may be exposed during pregnancy or within 7 months for PERJETA in combination with trastuzumab prior to conception, to enroll in the MotHER Pregnancy Registry by contacting 1-800-690-6720 [see Patient Counseling Information (17)].
-
-Monitor patients who become pregnant during PERJETA therapy for oligohydramnios.
-If oligohydramnios occurs, perform fetal testing that is appropriate for gestational age and consistent with community standards of care.
-The efficacy of intravenous hydration in the management of oligohydramnios due to PERJETA exposure is not known.
+Verify the pregnancy status of females of reproductive potential prior to the initiation of PERJETA.
+Advise pregnant women and females of reproductive potential that exposure to PERJETA in combination with trastuzumab during pregnancy or within 7 months prior to conception can result in fetal harm, including embryo-fetal death or birth defects.
+Advise females of reproductive potential to use effective contraception during treatment and for 7 months following the last dose of PERJETA in combination with trastuzumab [see Use in Specific Populations (8.1, 8.3)].
 
 ## 5.3 Infusion-Related Reactions
 

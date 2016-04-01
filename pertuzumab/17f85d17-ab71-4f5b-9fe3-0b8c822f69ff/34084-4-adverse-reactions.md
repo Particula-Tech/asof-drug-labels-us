@@ -216,7 +216,7 @@ Table 3 Summary of Adverse Reactions Occurring in ≥ 10% of Patients Receiving 
 
 The following selected adverse reactions were reported in < 10% of patients receiving neoadjuvant treatment in Study 3: (Ptz=pertuzumab; T=trastuzumab; D=docetaxel; FEC= fluorouracil, epirubicin, and cyclophosphamide; TCH=docetaxel, carboplatin, and trastuzumab)
 
-Skin and subcutaneous tissue disorders: Nail disorder (9.7% in the Ptz+T+FEC/Ptz+T+D arm, 6.7% in the FEC/Ptz+T+D arm, and 9.2% in the Ptz+TCH arm), Paronychia (0% in the Ptz+T+FEC/Ptz+T+D and 1.3% in both the FEC/Ptz+T+D and Ptz+TCH arms), Pruritis (2.8% in the Ptz+T+FEC/Ptz+T+D arm, 4.0% in the FEC/Ptz+T+D arm, and 3.9% in the Ptz+TCH arm)
+Skin and subcutaneous tissue disorders: Nail disorder (9.7% in the Ptz+T+FEC/Ptz+T+D arm, 6.7% in the FEC/Ptz+T+D arm, and 9.2% in the Ptz+TCH arm), Paronychia (0% in the Ptz+T+FEC/Ptz+T+D and 1.3% in both the FEC/Ptz+T+D and Ptz+TCH arms), Pruritus (2.8% in the Ptz+T+FEC/Ptz+T+D arm, 4.0% in the FEC/Ptz+T+D arm, and 3.9% in the Ptz+TCH arm)
 
 Infections and infestations: Upper respiratory tract infection (8.3% in the Ptz+T+FEC/Ptz+T+D arm, 4.0% in the FEC/Ptz+T+D arm, and 2.6% in the Ptz+TCH arm), Nasopharyngitis (6.9% in the Ptz+T+FEC/Ptz+T+D arm, 6.7% in the FEC/Ptz+T+D arm, and 7.9% in the Ptz+TCH arm)
 
