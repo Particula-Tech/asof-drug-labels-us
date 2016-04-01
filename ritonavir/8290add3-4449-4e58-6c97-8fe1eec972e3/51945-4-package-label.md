@@ -1,8 +1,10 @@
-NDC 0074–0522–60
+NDC 0074-0522-60
 
-Kaletra® (Lopinavir/Ritonavir) Tablets
+Kaletra®(Lopinavir and Ritonavir) Tablets
 
-100 mg / 25 mg 60 Tablets
+100 mg / 25 mg
+
+60 Tablets
 
 ALERT: Find out about medicines that should NOT be taken with Kaletra®
 
@@ -12,11 +14,13 @@ Dispense the accompanying Medication Guide to each patient
 
 Rx only abbvie
 
-NDC 0074–6799–22
+NDC 0074-6799-22
 
-Kaletra® (Lopinavir/Ritonavir) Tablets
+Kaletra®(Lopinavir and Ritonavir) Tablets
 
-200 mg / 50 mg 120 Tablets
+200 mg / 50 mg
+
+120 Tablets
 
 ALERT: Find out about medicines that should NOT be taken with Kaletra®
 
@@ -26,9 +30,9 @@ Dispense the accompanying Medication Guide to each patient.
 
 Rx only abbvie
 
-NDC 0074–3956–46
+NDC 0074-3956-46
 
-Kaletra® Lopinavir/Ritonavir Oral Solution
+Kaletra® Lopinavir and Ritonavir Oral Solution
 
 80 mg /20 mg per mL
 
