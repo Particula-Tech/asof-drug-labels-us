@@ -22,14 +22,10 @@ Advise protection from sun exposure and monitor for the development of secondary
 
 ## 5.3 Embryo-Fetal Toxicity
 
-Hydroxyurea may cause fetal harm when administered to a pregnant woman.
-Hydroxyurea is genotoxic.
-Hydroxyurea has been demonstrated to be a potent teratogen in a wide variety of animal models, including mice, hamsters, cats, miniature swine, dogs, and monkeys at doses within 1-fold of the human dose given on a mg/m2 basis.
-Hydroxyurea is embryotoxic and causes fetal malformations at 180 mg/kg/day in rats and at 30 mg/kg/day in rabbits.
-Single doses of ≥375 mg/kg to rats caused growth retardation and impaired learning ability.
-Advise pregnant women of the potential risk to a fetus.
-Advise females of reproductive potential to use effective contraception during and after treatment with DROXIA for at least 30 days after therapy.
-Females of reproductive potential should also ensure that their male partner, who is/has taken DROXIA, uses effective contraception during and after treatment for at least 1 year after therapy.
+Based on the mechanism of action and findings in animals, DROXIA can cause fetal harm when administered to a pregnant woman.
+Hydroxyurea was embryotoxic and teratogenic in rats and rabbits at doses 0.8 times and 0.3 times, respectively, the maximum recommended human daily dose on a mg/m2 basis.
+Advise pregnant women of the potential risk to a fetus [see Use in Specific Populations (8.1)].
+Advise females of reproductive potential to use effective contraception during and after treatment with DROXIA for at least 6 months after therapy.
 Advise males of reproductive potential to use effective contraception during and after treatment with DROXIA for at least 1 year after therapy [see Use in Specific Populations (8.1, 8.3)].
 
 ## 5.4 Vasculitic Toxicities
@@ -38,11 +34,19 @@ Cutaneous vasculitic toxicities, including vasculitic ulcerations and gangrene, 
 These vasculitic toxicities were reported most often in patients with a history of, or currently receiving, interferon therapy.
 If cutaneous vasculitic ulcers occur, institute treatment and discontinue DROXIA.
 
-## 5.5 Risks with Concomitant Use of Antiretroviral Drugs
+## 5.5 Live Vaccinations
+
+Avoid use of live vaccine in patients taking DROXIA.
+Concomitant use of DROXIA with a live virus vaccine may potentiate the replication of the virus and/or may increase the adverse reaction of the vaccine because normal defense mechanisms may be suppressed by DROXIA.
+Vaccination with live vaccines in a patient receiving DROXIA may result in severe infection.
+Patient’s antibody response to vaccines may be decreased.
+Consider consultation with a specialist.
+
+## 5.6 Risks with Concomitant Use of Antiretroviral Drugs
 
 Pancreatitis, hepatotoxicity, and peripheral neuropathy have occurred when hydroxyurea was administered concomitantly with antiretroviral drugs, including didanosine and stavudine [see Drug Interactions (7.1)].
 
-## 5.6 Macrocytosis
+## 5.7 Macrocytosis
 
 DROXIA may cause macrocytosis, which is self-limiting, and is often seen early in the course of treatment.
 The morphologic change resembles pernicious anemia, but is not related to vitamin B12 or folic acid deficiency.

@@ -1,4 +1,6 @@
-# Patient Information DROXIA® (drock-SEE-yuh) (hydroxyurea capsules, USP)
+# Patient Information
+
+DROXIA® (drock-SEE-yuh) (hydroxyurea capsules, USP)
 
 Read this Patient Information before you start using DROXIA (hydroxyurea) and each time you get a refill.
 There may be new information.
@@ -30,7 +32,7 @@ DROXIA may cause harm to your unborn baby.
 For females taking DROXIA who can become pregnant:
 
 - •You should talk with your healthcare provider about the risks of DROXIA to your unborn child.
-- •You should use effective birth control during and after treatment with DROXIA for at least 30 days after treatment.
+- •You should use effective birth control during and after treatment with DROXIA for at least 6 months after treatment.
 - •Tell your healthcare provider right away if you become pregnant or think you may be pregnant.
 
 For males taking DROXIA:
@@ -75,6 +77,7 @@ Before taking DROXIA, tell your healthcare provider about all of your medical co
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 Especially tell your healthcare provider if you take an antiretroviral medicine.
 Taking DROXIA with certain antiretroviral medicines can cause serious side effects and may lead to death.
+Tell your healthcare provider if you received or are planning to receive a vaccination.
 
 How should I take DROXIA?
 
@@ -147,4 +150,4 @@ Manufactured for: Bristol-Myers Squibb Company, Princeton, New Jersey 08543 USA 
 For more information, go to www.BMS.com or call 1-800-721-5072.
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-1357793 Revised: July 2015
+1357793A0 Revised: March 2016

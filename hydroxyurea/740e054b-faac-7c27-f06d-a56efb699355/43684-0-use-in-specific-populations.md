@@ -2,18 +2,16 @@
 
 ## 8.1 Pregnancy
 
-### Pregnancy Category D
+### Risk Summary
 
-#### Risk Summary
+DROXIA can cause fetal harm based on findings from animal studies and the drug’s mechanism of action [see Clinical Pharmacology (12.1)].
+There are no data with DROXIA use in pregnant women to inform a drug-associated risk.
+In animal reproduction studies, administration of hydroxyurea to pregnant rats and rabbits during organogenesis produced embryotoxic and teratogenic effects at doses 0.8 times and 0.3 times, respectively, the maximum recommended human daily dose on a mg/m2 basis (see Data).
+Advise women of the potential risk to a fetus and to avoid becoming pregnant while being treated with DROXIA.
 
-DROXIA may cause fetal harm when administered to a pregnant woman.
-There are no adequate and well-controlled studies in pregnant women.
-If this drug is used during pregnancy or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential harm to the fetus.
-Women of childbearing potential should be advised to avoid becoming pregnant.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2%–4% and 15%–20%, respectively.
 
-Drugs which affect DNA synthesis, such as hydroxyurea, may be potential mutagenic agents.
-
-The physician should carefully consider this possibility before administering this drug to male or female patients who may contemplate conception [see Warnings and Precautions (5.3)].
+### Data
 
 #### Animal Data
 
@@ -23,10 +21,39 @@ Embryotoxicity was characterized by decreased fetal viability, reduced live litt
 Hydroxyurea crosses the placenta.
 Single doses of ≥375 mg/kg (about 1.7 times the maximum recommended human daily dose on a mg/m2 basis) to rats caused growth retardation and impaired learning ability.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
+
+### Risk Summary
 
 Hydroxyurea is excreted in human milk.
-Because of the potential for serious adverse reactions with hydroxyurea, discontinue nursing during treatment with DROXIA.
+Because of the potential for serious adverse reactions in a breastfed infant from hydroxyurea, including carcinogenicity, discontinue breastfeeding during treatment with DROXIA.
+
+## 8.3 Females and Males of Reproductive Potential
+
+### Pregnancy Testing
+
+Verify the pregnancy status of females of reproductive potential prior to initiating DROXIA therapy.
+
+### Contraception
+
+#### Females
+
+DROXIA can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
+Advise females of reproductive potential to use effective contraception during and after treatment with DROXIA for at least 6 months after therapy.
+Advise females to immediately report pregnancy.
+
+#### Males
+
+DROXIA may damage spermatozoa and testicular tissue, resulting in possible genetic abnormalities.
+Males with female sexual partners of reproductive potential should use effective contraception during and after treatment with DROXIA for at least 1 year after therapy [see Nonclinical Toxicology (13.1)].
+
+### Infertility
+
+#### Males
+
+Based on findings in animals and humans, male fertility may be compromised by treatment with DROXIA.
+Azoospermia or oligospermia, sometimes reversible, has been observed in men.
+Inform male patients about the possibility of sperm conservation before the start of therapy [see Adverse Reactions (6) and Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
