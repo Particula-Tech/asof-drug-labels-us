@@ -60,7 +60,7 @@ The results of the trials follow:
 
 Pediatrics
 
-The efficacy of risperidone in the treatment of mania in children or adolescents with Bipolar I disorder was demonstrated in a 3-week, randomized, double-blind, placebo controlled, multicenter trial including patients ranging in ages from 10 to 17 years who were experiencing a manic or mixed episode of bipolar I disorder.
+The efficacy of risperidone in the treatment of mania in children or adolescents with Bipolar I disorder was demonstrated in a 3-week, randomized, double-blind, placebo-controlled, multicenter trial including patients ranging in ages from 10 to 17 years who were experiencing a manic or mixed episode of bipolar I disorder.
 Patients were randomized into one of three treatment groups: risperidone 0.5–2.5 mg/day (n = 50, mean modal dose = 1.9 mg), risperidone 3–6 mg/day (n = 61, mean modal dose = 4.7 mg), or placebo (n = 58).
 In all cases, study medication was initiated at 0.5 mg/day and titrated to the target dosage range by Day 7, with further increases in dosage to the maximum tolerated dose within the targeted dose range by Day 10.
 The primary rating instrument used for assessing efficacy in this study was the mean change from baseline in the total YMRS score.

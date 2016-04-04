@@ -36,7 +36,7 @@ Each 4 mg Risperidone Orally Disintegrating Tablet contains 0.84 mg phenylalanin
 
 ## 17.8 Metabolic Changes
 
-Inform patients and caregivers that treatment with risperidone can be associated with hyperglycemia and diabetes mellitus, dyslipidemia, and weight gain[see Warnings and Precautions (5.5)].
+Inform patients and caregivers that treatment with risperidone can be associated with hyperglycemia and diabetes mellitus, dyslipidemia, and weight gain [see Warnings and Precautions (5.5)].
 
 ## 17.9 Tardive Dyskinesia
 
