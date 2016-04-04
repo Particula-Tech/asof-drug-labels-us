@@ -2,9 +2,17 @@
 
 TRICOR® (fenofibrate tablets) is available in two strengths:
 
-48 mg yellow tablets, imprinted with the “a” logo and code identification letters "FI", available in bottles of 90 (NDC 0074-6122-90).
+48 mg
 
-145 mg white tablets, imprinted with the “a” logo and code identification letters "FO", available in bottles of 90 (NDC 0074-6123-90).
+Yellow tablets, imprinted with the code identification letters “FI”, available in bottles of 90 (NDC 0074-3173-90).
+
+Yellow tablets, imprinted with the “a” logo and code identification letters “FI”, available in bottles of 90 (NDC 0074-6122-90).
+
+145 mg
+
+White tablets, imprinted with the code identification letters “FO”, available in bottles of 90 (NDC 0074-3189-90).
+
+White tablets, imprinted with the “a” logo and code identification letters “FO”, available in bottles of 90 (NDC 0074-6123-90).
 
 Storage
 

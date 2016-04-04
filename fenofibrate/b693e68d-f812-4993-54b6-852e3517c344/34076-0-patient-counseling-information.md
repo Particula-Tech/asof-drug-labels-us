@@ -15,4 +15,4 @@ Patients should be advised:
 
 Manufactured for AbbVie Inc., North Chicago, IL 60064, U.S.A. by Fournier Laboratories Ireland Limited, Anngrove, Carrigtwohill Co. Cork, Ireland.
 
-03-A774 February, 2013
+03-B251 February, 2016

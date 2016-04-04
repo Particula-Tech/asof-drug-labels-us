@@ -100,9 +100,11 @@ They are weak inhibitors of CYP2C8, CYP2C19 and CYP2A6, and mild-to-moderate inh
 Table 2 describes the effects of co-administered drugs on fenofibric acid systemic exposure.
 Table 3 describes the effects of co-administered fenofibrate or fenofibric acid on other drugs.
 
-| Table 2. Effects of Co-Administered Drugs on Fenofibric Acid Systemic Exposure from Fenofibrate Administration |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
+Table 2.
+Effects of Co-Administered Drugs on Fenofibric Acid Systemic Exposure from Fenofibrate Administration
+
 | Co-Administered Drug | Dosage Regimen of Co-Administered Drug | Dosage Regimen of Fenofibrate |  | Changes in Fenofibric Acid Exposure |  |
+| --- | --- | --- | --- | --- | --- |
 |  |  |  |  | AUC | Cmax |
 | Lipid-lowering agents |  |  |  |  |  |
 | Atorvastatin | 20 mg once daily for 10 days | Fenofibrate 160 mg1 once daily for 10 days |  | ↓2% | ↓4% |
@@ -115,9 +117,11 @@ Table 3 describes the effects of co-administered fenofibrate or fenofibric acid 
 | 1 TriCor (fenofibrate) oral tablet |  |  |  |  |  |
 | 2 TriCor (fenofibrate) oral micronized capsule |  |  |  |  |  |
 
-| Table 3. Effects of Fenofibrate Co-Administration on Systemic Exposure of Other Drugs |  |  |  |  |
-| --- | --- | --- | --- | --- |
+Table 3.
+Effects of Fenofibrate Co-Administration on Systemic Exposure of Other Drugs
+
 | Dosage Regimen of Fenofibrate | Dosage Regimen of Co-Administered Drug | Change in Co-Administered Drug Exposure |  |  |
+| --- | --- | --- | --- | --- |
 |  |  | Analyte | AUC | Cmax |
 | Lipid-lowering agents |  |  |  |  |
 | Fenofibrate 160 mg1 once daily for 10 days | Atorvastatin, 20 mg once daily for 10 days | Atorvastatin | ↓17% | 0% |

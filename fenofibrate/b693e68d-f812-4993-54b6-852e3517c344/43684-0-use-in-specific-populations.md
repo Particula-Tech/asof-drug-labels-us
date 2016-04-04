@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-### Pregnancy Category C
+Pregnancy Category C
 
 Safety in pregnant women has not been established.
 There are no adequate and well controlled studies of fenofibrate in pregnant women.
