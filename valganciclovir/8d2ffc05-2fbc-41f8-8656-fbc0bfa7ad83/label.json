@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "ANDA204750"
+  ],
+  "inn": "valganciclovir",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "65862-753-01",
+    "65862-753-05",
+    "65862-753-18",
+    "65862-753-60",
+    "65862-753-99"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "valganciclovir hydrochloride",
+      "name": "VALGANCICLOVIR HYDROCHLORIDE"
+    }
+  ],
+  "setid": "8d2ffc05-2fbc-41f8-8656-fbc0bfa7ad83",
+  "source": "dailymed"
+}
