@@ -6,21 +6,23 @@ The following adverse reactions are described in detail in other labeling sectio
 - •Malignancies [see Warnings and Precautions (5.2)]
 - •Embryo-fetal toxicity [see Warnings and Precautions (5.3)]
 - •Vasculitic toxicities [see Warnings and Precautions (5.4)]
-- •Risks with concomitant use of antiretroviral drugs [see Warnings and Precautions (5.5)]
-- •Radiation recall [see Warnings and Precautions (5.6)]
-- •Macrocytosis [see Warnings and Precautions (5.7)]
+- •Risks with concomitant use of antiretroviral drugs [see Warnings and Precautions (5.6)]
+- •Radiation recall [see Warnings and Precautions (5.7)]
+- •Macrocytosis [see Warnings and Precautions (5.8)]
 
 ### Postmarketing Experience
 
 The following adverse reactions have been identified during postapproval use of HYDREA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency.
 
-- •Gastrointestinal disorders: stomatitis, anorexia, nausea, vomiting, diarrhea, and constipation
+- •Reproductive System and Breast disorders: azoospermia, and oligospermia
+- •Gastrointestinal disorders: stomatitis, nausea, vomiting, diarrhea, and constipation
+- •Metabolism and Nutrition disorders: anorexia, tumor lysis syndrome
 - •Skin and subcutaneous tissue disorders: maculopapular rash, skin ulceration, dermatomyositis-like skin changes, peripheral and facial erythema, hyperpigmentation, atrophy of skin and nails, scaling, violet papules, and alopecia
 - •Renal and urinary disorders: dysuria, elevations in serum uric acid, blood urea nitrogen (BUN), and creatinine levels
 - •Nervous system disorders: headache, dizziness, drowsiness, disorientation, hallucinations, and convulsions
 - •General Disorders: fever, chills, malaise, edema, and asthenia
-- •Hepatobiliary disorders: elevation of hepatic enzymes
+- •Hepatobiliary disorders: elevation of hepatic enzymes, cholestasis, and hepatitis
 - •Respiratory disorders: diffuse pulmonary infiltrates, dyspnea, and pulmonary fibrosis
 
 Adverse reactions observed with combined hydroxyurea and irradiation therapy are similar to those reported with the use of hydroxyurea or radiation treatment alone.
