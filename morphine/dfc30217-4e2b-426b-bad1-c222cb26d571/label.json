@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA206544"
+  ],
+  "inn": "morphine",
+  "labeler": "Inspirion Delivery Technologies, Llc",
+  "package_ndcs": [
+    "69296-001-01",
+    "69296-002-01",
+    "69296-003-01",
+    "69296-004-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "morphine sulfate",
+      "name": "MorphaBond"
+    }
+  ],
+  "setid": "dfc30217-4e2b-426b-bad1-c222cb26d571",
+  "source": "dailymed"
+}
