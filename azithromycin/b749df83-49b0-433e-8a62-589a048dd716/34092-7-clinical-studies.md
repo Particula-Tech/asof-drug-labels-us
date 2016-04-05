@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Clinical Studies in Patients with Advanced HIV Infection for the Prevention and Treatment of Disease Due to Disseminated Mycobacterium avium Complex (MAC)
+## 14.1 Clinical Studies in Patients with Advanced HIV Infection for the Prevention and Treatment of Disease Due to Disseminated MAC
 
 [see Indications and Usage (1)]
 
