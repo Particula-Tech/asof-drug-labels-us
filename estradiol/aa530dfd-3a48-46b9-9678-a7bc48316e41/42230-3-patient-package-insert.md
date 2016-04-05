@@ -52,12 +52,16 @@ ESTRING may also affect how your other medicines work.
 
 What are the possible side effects of ESTRING?
 
-If you experience any of the following side-effects, immediately remove ESTRING if possible and contact your healthcare provider:
+If you experience any of the following side-effects, immediately remove ESTRING if possible and contact your healthcare provider.
+If you experience difficulty or pain when trying to remove the ring please do not continue and contact your healthcare provider:
 
 - Cases of toxic shock syndrome (TSS) have been reported in women using vaginal rings.
   Toxic shock syndrome is a rare but serious illness caused by a bacterial infection.
   Symptoms of TSS include fever, nausea, vomiting, diarrhea, muscle pain, dizziness, faintness, or a sunburn-like rash on face and body.
-- Cases of the vaginal ring becoming attached to the vaginal wall, making ring removal difficult, have been reported.
+- Cases of the vaginal ring becoming attached to the vaginal wall, making ring removal difficult, have occurred.
+  Some women have needed surgery to remove vaginal rings
+- Cases of erosion (wearing away) and ulceration (holes) of the vaginal lining have also occurred.
+  Symptoms of vaginal erosion and ulceration can include vaginal pain or soreness, vaginal bleeding, and redness, swelling, or scrapes in the vagina.
 - Cases of bowel obstruction have been reported.
 - Severe allergic reactions have been reported including skin rash, giant hives, swelling of the eyelids, face, lips, tongue or throat.
 
@@ -144,4 +148,4 @@ What are the ingredients in ESTRING?
 ESTRING (estradiol vaginal ring) is a slightly opaque ring with a whitish core containing a drug reservoir of 2 mg estradiol (an estrogen hormone).
 Estradiol, silicone polymers and barium sulfate are combined to form the ring.
 
-Storage: Store at controlled room temperature 15° to 30° C (59° to 86° F).
+Storage: Store at controlled room temperature 15° to 25 °C (59 °F to 77 °F).

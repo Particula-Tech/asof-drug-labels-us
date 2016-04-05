@@ -70,5 +70,4 @@ To remove ESTRING:
 
 If you have any additional questions about removing ESTRING, contact your doctor or healthcare provider.
 
-LAB-0087- 6.
-0 August 2014
+LAB-0087-8.0 09/2015

@@ -7,4 +7,4 @@ NDC 0013-2150-36 ESTRING (estradiol vaginal ring) 2 mg - available in single pac
 
 ## STORAGE
 
-Store at controlled room temperature 15° to 30° C (59° to 86° F).
+Store at controlled room temperature 15° to 25 °C (59 °F to 77 °F).
