@@ -1,14 +1,14 @@
-# PRINCIPAL DISPLAY PANEL - 250 mg - 30 Tablet Bottle
+# PRINCIPAL DISPLAY PANEL - 250 mg - 30 Tablet Bottle Label
 
 NDC 0069-3060-30
 
-30 Tablets Rx only
+Pfizer
 
-Zithromax® (azithromycin)
+Zithromax® (azithromycin) tablets
 
 250 mg*
 
-Pfizer Pfizer Labs Division of Pfizer Inc, NY, NY 10017
+30 Tablets Rx only
 
 # PRINCIPAL DISPLAY PANEL - 250 mg - 6 ct. Blister Pack
 
@@ -74,13 +74,13 @@ Rx only
 
 NDC 0069-3070-30
 
-30 Tablets Rx only
+Pfizer
 
-Zithromax® (azithromycin)
+Zithromax® (azithromycin) tablets
 
 500 mg*
 
-Pfizer Pfizer Labs Division of Pfizer Inc, NY, NY 10017
+30 Tablets Rx only
 
 # PRINCIPAL DISPLAY PANEL - 500 mg - 3 ct. Tablet Blister Pack
 

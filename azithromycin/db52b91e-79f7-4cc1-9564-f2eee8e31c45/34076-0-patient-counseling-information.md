@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-General Patient Counseling
+## General Patient Counseling
 
 ZITHROMAX tablets and oral suspension can be taken with or without food.
 
@@ -17,8 +17,8 @@ Diarrhea is a common problem caused by antibacterials which usually ends when th
 Sometimes after starting treatment with antibacterials patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibacterial drug.
 If this occurs, patients should contact their physician as soon as possible.
 
-See FDA-approved Patient Labeling
+## See FDA-approved Patient Labeling
 
 Licensed from Pliva
 
-LAB-0023-16.0
+LAB-0023-15.0
