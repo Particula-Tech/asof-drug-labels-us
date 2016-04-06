@@ -1,10 +1,8 @@
-# 2 DOSAGE AND ADMINISTRATION
+# 2 DOSAGE & ADMINISTRATION
 
-Dexmethylphenidate Hydrochloride Extended-Release Capsules is for oral administration once daily in the morning.
-
-Dexmethylphenidate Hydrochloride Extended-Release Capsules may be swallowed as whole capsules or alternatively may be administered by sprinkling the capsule contents on a small amount of applesauce (see specific instructions below).
-Dexmethylphenidate Hydrochloride Extended-Release Capsules and/or their contents should not be crushed, chewed, or divided.
-
+Dexmethylphenidate Hydrochloride Extended-release Capsules is for oral administration once daily in the morning.
+Dexmethylphenidate Hydrochloride Extended-release Capsules may be swallowed as whole capsules or alternatively may be administered by sprinkling the capsule contents on a small amount of applesauce (see specific instructions below).
+Dexmethylphenidate Hydrochloride Extended-release Capsules and/or their contents should not be crushed, chewed, or divided.
 The capsules may be carefully opened and the beads sprinkled over a spoonful of applesauce.
 The mixture of drug and applesauce should be consumed immediately in its entirety.
 The drug and applesauce mixture should not be stored for future use.
@@ -13,7 +11,7 @@ Dosage should be individualized according to the needs and responses of the pati
 
 ## 2.1 Patients New to Methylphenidate
 
-The recommended starting dose of Dexmethylphenidate Hydrochloride Extended-Release Capsules for patients who are not currently taking dexmethylphenidate or racemic methylphenidate, or for patients who are on stimulants other than methylphenidate, is 5 mg/day for pediatric patients and 10 mg/day for adult patients.
+The recommended starting dose of Dexmethylphenidate Hydrochloride Extended-release Capsules for patients who are not currently taking dexmethylphenidate or racemic methylphenidate, or for patients who are on stimulants other than methylphenidate, is 5 mg/day for pediatric patients and 10 mg/day for adult patients.
 
 Dosage may be adjusted in 5 mg increments for pediatric patients and in 10 mg increments for adult patients.
 In general, dosage adjustments may proceed at approximately weekly intervals.
@@ -25,14 +23,14 @@ Doses above 30 mg/day in pediatrics and 40 mg/day in adults have not been studie
 
 ## 2.2 Patients Currently Using Methylphenidate
 
-For patients currently using methylphenidate, the recommended starting dose of Dexmethylphenidate Hydrochloride Extended-Release Capsules is half the total daily dose of racemic methylphenidate.
-Patients currently using Dexmethylphenidate Hydrochloride Immediate-Release Capsules may be switched to the same daily dose of Dexmethylphenidate Hydrochloride Extended-Release Capsules.
+For patients currently using methylphenidate, the recommended starting dose of Dexmethylphenidate Hydrochloride Extended-release Capsules is half the total daily dose of racemic methylphenidate.
+Patients currently using Dexmethylphenidate Hydrochloride Tablets may be switched to the same daily dose of Dexmethylphenidate Hydrochloride Extended-release Capsules.
 
 ## 2.3 Maintenance/Extended Treatment
 
-There is no body of evidence available from controlled trials to indicate how long the patient with ADHD should be treated with Dexmethylphenidate Hydrochloride Extended-Release Capsules.
+There is no body of evidence available from controlled trials to indicate how long the patient with ADHD should be treated with Dexmethylphenidate Hydrochloride Extended-release Capsules.
 It is generally agreed, however, that pharmacological treatment of ADHD may be needed for extended periods.
-Nevertheless, the physician who elects to use Dexmethylphenidate Hydrochloride Extended-Release Capsules for extended periods in patients with ADHD should periodically reevaluate the long-term usefulness of the drug for the individual patient with periods off medication to assess the patient’s functioning without pharmacotherapy.
+Nevertheless, the physician who elects to use Dexmethylphenidate Hydrochloride Extended-release Capsules for extended periods in patients with ADHD should periodically reevaluate the long-term usefulness of the drug for the individual patient with periods off medication to assess the patient’s functioning without pharmacotherapy.
 Improvement may be sustained when the drug is either temporarily or permanently discontinued.
 
 ## 2.4 Dose Reduction and Discontinuation

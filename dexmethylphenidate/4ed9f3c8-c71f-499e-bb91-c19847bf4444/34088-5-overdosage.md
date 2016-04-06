@@ -3,6 +3,7 @@
 ## 10.1 Signs and Symptoms
 
 Signs and symptoms of acute methylphenidate overdosage, resulting principally from overstimulation of the CNS and from excessive sympathomimetic effects, may include the following: vomiting, agitation, tremors, hyperreflexia, muscle twitching, convulsions (may be followed by coma), euphoria, confusion, hallucinations, delirium, sweating, flushing, headache, hyperpyrexia, tachycardia, palpitations, cardiac arrhythmias, hypertension, mydriasis, and dryness of mucous membranes.
+Rhabdomyolysis has also been reported in overdose.
 
 ## 10.2 Poison Control Center
 
@@ -11,8 +12,7 @@ The physician may wish to consider contacting a poison control center for up-to-
 ## 10.3 Recommended Treatment
 
 As with the management of all overdosage, the possibility of multiple drug ingestion should be considered.
-
-When treating overdose, practitioners should bear in mind that there is a prolonged release of dexmethylphenidate from Dexmethylphenidate Hydrochloride Extended-Release Capsules.
+When treating overdose, practitioners should bear in mind that there is a prolonged release of dexmethylphenidate from Dexmethylphenidate Hydrochloride Extended-release Capsules.
 
 Treatment consists of appropriate supportive measures.
 The patient must be protected against self-injury and against external stimuli that would aggravate overstimulation already present.
@@ -20,5 +20,4 @@ Gastric contents may be evacuated by gastric lavage as indicated.
 Before performing gastric lavage, control agitation and seizures if present and protect the airway.
 Other measures to detoxify the gut include administration of activated charcoal and a cathartic.
 Intensive care must be provided to maintain adequate circulation and respiratory exchange; external cooling procedures may be required for hyperpyrexia.
-
-Efficacy of peritoneal dialysis for Dexmethylphenidate Hydrochloride Immediate-Release Capsules overdosage has not been established.
+Efficacy of peritoneal dialysis for Dexmethylphenidate Hydrochloride Tablets overdosage has not been established.

@@ -2,7 +2,7 @@
 
 ## 9.1 Controlled Substance Class
 
-Dexmethylphenidate Hydrochloride Extended-Release Capsules, like other methylphenidate products, is classified as a Schedule II controlled substance by Federal regulation.
+Dexmethylphenidate Hydrochloride Extended-release Capsules, like other methylphenidate products, is classified as a Schedule II controlled substance by Federal regulation.
 
 ## 9.2 Abuse, Dependence, Tolerance
 
