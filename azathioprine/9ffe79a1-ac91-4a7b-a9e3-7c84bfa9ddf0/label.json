@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA074419"
+  ],
+  "inn": "azathioprine",
+  "labeler": "West-Ward Pharmaceuticals Corp",
+  "package_ndcs": [
+    "0143-9566-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "azathioprine sodium",
+      "name": "Azathioprine Sodium"
+    }
+  ],
+  "setid": "9ffe79a1-ac91-4a7b-a9e3-7c84bfa9ddf0",
+  "source": "dailymed"
+}
