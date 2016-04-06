@@ -10,7 +10,7 @@ The molecular formula is C18H34CIN208PS and the molecular weight is 504.96.
 
 The structural formula is represented below:
 
-CLEOCIN PHOSPHATE IV Solution in the GALAXY® plastic container for intravenous use is composed of clindamycin phosphate equivalent to 300, 600 and 900 mg of clindamycin premixed with 5% dextrose as a sterile solution.
+CLEOCIN PHOSPHATE IV Solution in the GALAXY plastic container for intravenous use is composed of clindamycin phosphate equivalent to 300, 600 and 900 mg of clindamycin premixed with 5% dextrose as a sterile solution.
 Disodium edetate has been added at a concentration of 0.04 mg/mL.
 The pH has been adjusted with sodium hydroxide and/or hydrochloric acid.
 

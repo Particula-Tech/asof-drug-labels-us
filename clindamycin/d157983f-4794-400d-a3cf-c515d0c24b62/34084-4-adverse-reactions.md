@@ -2,6 +2,10 @@
 
 The following reactions have been reported with the use of clindamycin.
 
+## Infections and Infestations
+
+Clostridium difficile colitis
+
 ## Gastrointestinal
 
 Antibiotic-associated colitis (see WARNINGS), pseudomembranous colitis, abdominal pain, nausea, and vomiting.
@@ -12,15 +16,15 @@ An unpleasant or metallic taste occasionally has been reported after intravenous
 
 Maculopapular rash and urticaria have been observed during drug therapy.
 Generalized mild to moderate morbilliform-like skin rashes are the most frequently reported of all adverse reactions.
-Severe skin reactions such as Toxic Epidermal Necrolysis, some with fatal outcome, have been reported (See WARNINGS).
+Severe skin reactions such as Toxic Epidermal Necrolysis, some with fatal outcome, have been reported (see WARNINGS).
 Cases of Acute Generalized Exanthematous Pustulosis (AGEP), erythema multiforme, some resembling Stevens-Johnson syndrome, have been associated with clindamycin.
-Anaphylactoid reactions have also been reported.
+Anaphylactic shock, anaphylactoid reaction, anaphylactic reaction and hypersensitivity have also been reported.
 If a hypersensitivity reaction occurs, the drug should be discontinued.
 The usual agents (epinephrine, corticosteroids, antihistamines) should be available for emergency treatment of serious reactions.
 
 ## Skin and Mucous Membranes
 
-Pruritus, vaginitis, and rare instances of exfoliative dermatitis have been reported (see Hypersensitivity Reactions).
+Pruritus, vaginitis, angioedema and rare instances of exfoliative dermatitis have been reported (see Hypersensitivity Reactions).
 
 ## Liver
 
@@ -36,7 +40,7 @@ Transient neutropenia (leukopenia) and eosinophilia have been reported.
 Reports of agranulocytosis and thrombocytopenia have been made.
 No direct etiologic relationship to concurrent clindamycin therapy could be made in any of the foregoing.
 
-## Immune system
+## Immune System
 
 Drug reaction with eosinophilia and systemic symptoms (DRESS) cases have been reported.
 
@@ -51,4 +55,4 @@ Polyarthritis cases have been reported.
 
 ## Cardiovascular
 
-Cardiopulmonary arrest and hypotension have been reported following too rapid intravenous administration (see DOSAGE AND ADMINISTRATION section.)
+Cardiopulmonary arrest and hypotension have been reported following too rapid intravenous administration (see DOSAGE AND ADMINISTRATION).

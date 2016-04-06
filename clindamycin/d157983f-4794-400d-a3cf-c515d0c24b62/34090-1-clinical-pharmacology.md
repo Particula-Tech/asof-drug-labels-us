@@ -29,7 +29,7 @@ Dosage schedules need not be modified in the presence of mild or moderate renal 
 ### Use in Elderly
 
 Pharmacokinetic studies in elderly volunteers (61–79 years) and younger adults (18–39 years) indicate that age alone does not alter clindamycin pharmacokinetics (clearance, elimination half-life, volume of distribution, and area under the serum concentration-time curve) after IV administration of clindamycin phosphate.
-After oral administration of clindamycin hydrochloride, elimination half-life is increased to approximately 4.0 hours (range 3.4–5.1 h) in the elderly, compared to 3.2 hours (range 2.1– 4.2 h) in younger adults.
+After oral administration of clindamycin hydrochloride, elimination half-life is increased to approximately 4.0 hours (range 3.4–5.1 h) in the elderly, compared to 3.2 hours (range 2.1–4.2 h) in younger adults.
 The extent of absorption, however, is not different between age groups and no dosage alteration is necessary for the elderly with normal hepatic function and normal (age-adjusted) renal function1.
 
 Serum assays for active clindamycin require an inhibitor to prevent in vitro hydrolysis of clindamycin phosphate.
@@ -78,7 +78,7 @@ Anaerobes
 At least 90% of the microorganisms listed below exhibit in vitro minimum inhibitory concentrations (MICs) less than or equal to the clindamycin susceptible MIC breakpoint for organisms of a similar type to those shown in Table 2.
 However, the efficacy of clindamycin in treating clinical infections due to these microorganisms has not been established in adequate and well-controlled clinical trials.
 
-Gram-positive aerobes
+Gram-positive Aerobes
 
 - Staphylococcus epidermidis (methicillin-susceptible strains)
 - Streptococcus agalactiae
@@ -122,7 +122,7 @@ Susceptibility Interpretive Criteria for Clindamycin
 | Pathogen | Minimal Inhibitory Concentrations (MIC in mcg/mL) |  |  | Disk Diffusion (Zone Diameters in mm) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Susceptibility Interpretive Criteria |  |  |  |  |  |
-| Staphylococcus spp. | S ≤ 0.5 | I 1–2 | R ≥4 | S ≥21 | I 15–20 | R ≤14 |
+| Staphylococcus spp. | S ≤0.5 | I 1–2 | R ≥4 | S ≥21 | I 15–20 | R ≤14 |
 | Streptococcus pneumoniae and other Streptococcus spp. | ≤0.25 | 0.5 | ≥1 | ≥19 | 16–18 | ≤15 |
 | Anaerobic Bacteria | ≤2 | 4 | ≥8 | NA | NA | NA |
 | NA=not applicable |  |  |  |  |  |  |

@@ -72,9 +72,9 @@ The following drugs are physically incompatible with clindamycin phosphate: ampi
 The compatibility and duration of stability of drug admixtures will vary depending on concentration and other conditions.
 For current information regarding compatibilities of clindamycin phosphate under specific conditions, please contact the Medical and Drug Information Unit, Pharmacia & Upjohn Company (Division of Pfizer Inc).
 
-## Physico-Chemical Stability of diluted solutions of CLEOCIN PHOSPHATE
+## Physico-Chemical Stability of Diluted Solutions of CLEOCIN PHOSPHATE
 
-Room temperature: 6, 9 and 12 mg/mL (equivalent to clindamycin base) in dextrose injection 5%, sodium chloride injection 0.9%, or Lactated Ringers Injection in glass bottles, demonstrated physical and chemical stability for at least 16 days at 25°C.
+Room Temperature: 6, 9 and 12 mg/mL (equivalent to clindamycin base) in dextrose injection 5%, sodium chloride injection 0.9%, or Lactated Ringers Injection in glass bottles, demonstrated physical and chemical stability for at least 16 days at 25°C.
 
 Refrigeration: 6, 9 and 12 mg/mL (equivalent to clindamycin base) in dextrose injection 5%, sodium chloride injection 0.9%, or Lactated Ringers Injection in glass bottles, demonstrated physical and chemical stability for at least 32 days at 4°C.
 

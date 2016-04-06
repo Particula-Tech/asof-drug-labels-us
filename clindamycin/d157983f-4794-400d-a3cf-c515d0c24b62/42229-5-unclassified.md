@@ -23,12 +23,15 @@ Such use could result in air embolism due to residual air being drawn from the p
 3. Attach administration set.
    Refer to complete directions accompanying set.
 
-PREMIERPro™Rx is a trademark of Premier, Inc., used under license.
-
-CLEOCIN PHOSPHATE IV Solution in the GALAXY plastic containers is manufactured for Pfizer Inc by Baxter Healthcare Corporation, Deerfield, IL 60015.
-
-GALAXY® is a trademark of Baxter International Inc.
+This product's label may have been updated.
+For current full prescribing information, please visit www.pfizer.com.
 
 Distributed by Pharmacia & Upjohn Co. Division of Pfizer Inc. New York, NY 10017
 
-LAB-0696-2.0 May 2014
+PremierProRx® is a registered trademark of Premier, Inc., used under license.
+
+CLEOCIN PHOSPHATE IV Solution in the GALAXY plastic containers is manufactured for Pfizer Inc by Baxter Healthcare Corporation, Deerfield, IL 60015.
+
+GALAXY® is a registered trademark of Baxter International Inc.
+
+LAB-0696-3.0 March 2016
