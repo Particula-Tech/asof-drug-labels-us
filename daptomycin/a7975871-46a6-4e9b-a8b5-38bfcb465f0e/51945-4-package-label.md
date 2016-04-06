@@ -1,23 +1,12 @@
-# PRINCIPAL DISPLAY PANEL - 500 mg Vial Label
-
-500 mg
-
-CUBICIN® (daptomycin for injection)
-
-For intravenous use only Single use only Rx only
-
-# PRINCIPAL DISPLAY PANEL - 1 Vial Carton
+# PRINCIPAL DISPLAY PANEL - 500 mg Vial Carton
 
 NDC 67919-011-01
 
-One single-use vial 500 mg
+Cubicin® (daptomycin for injection) 500 mg per vial
 
-CUBICIN® (daptomycin for injection)
+Must be reconstituted.
+For Intravenous Infusion.
 
-For intravenous use only
+Single-use vial – Discard Unused Portion
 
 Rx only
-
-CUBIST
-
-Cubist Pharmaceuticals, Inc. Lexington, MA 02421 USA
