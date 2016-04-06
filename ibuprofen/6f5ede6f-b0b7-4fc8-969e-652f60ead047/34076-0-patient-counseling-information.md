@@ -27,4 +27,4 @@ For: Recordati Rare Diseases Inc., Lebanon, NJ 08833, U.S.A.
 
 RECORDATI RARE DISEASES GROUP
 
-® Trademark of Recordati Rare Diseases Inc. Revised: January 2016 PC4477C
+® Trademark of Recordati Rare Diseases Inc. Revised: January 2016 PC4477D

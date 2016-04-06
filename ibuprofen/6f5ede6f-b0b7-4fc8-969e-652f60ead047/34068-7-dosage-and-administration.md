@@ -20,16 +20,10 @@ After the first withdrawal from the vial, any solution remaining must be discard
 For administration, NeoProfen should be diluted to an appropriate volume with dextrose or saline.
 NeoProfen should be prepared for infusion and administered within 30 minutes of preparation and infused continuously over a period of 15 minutes.
 The drug should be administered via the IV port that is nearest the insertion site.
-After the first withdrawal from the vial, any solution remaining must be discarded because NeoProfen contains no preservative.For administration, NeoProfen should be diluted to an appropriate volume with dextrose or saline.
-NeoProfen should be prepared for infusion and administered within 30 minutes of preparation and infused continuously over a period of 15 minutes.
-The drug should be administered via the IV port that is nearest the insertion site.
 After the first withdrawal from the vial, any solution remaining must be discarded because NeoProfen contains no preservative.
 
-Since NeoProfen is potentially irritating to tissues, it should be administered carefully to avoid extravasation.Since NeoProfen is potentially irritating to tissues, it should be administered carefully to avoid extravasation.
+Since NeoProfen is potentially irritating to tissues, it should be administered carefully to avoid extravasation.
 
-NeoProfen should not be simultaneously administered in the same intravenous line with Total Parenteral Nutrition (TPN).
-If necessary, TPN should be interrupted for a 15-minute period prior to and after drug administration.
-Line patency should be maintained by using dextrose or saline.
 NeoProfen should not be simultaneously administered in the same intravenous line with Total Parenteral Nutrition (TPN).
 If necessary, TPN should be interrupted for a 15-minute period prior to and after drug administration.
 Line patency should be maintained by using dextrose or saline.
