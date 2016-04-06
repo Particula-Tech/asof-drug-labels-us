@@ -8,7 +8,7 @@ Angiomax is intended for use with aspirin (300-325 mg daily) and has been studie
 
 For patients who do not have HIT/HITTS
 
-The recommended dose of Angiomax is an intravenous (IV) bolus dose of 0.75 mg/kg, followed by an infusion of 1.75 mg/kg/h for the duration of the PCI/PTCA procedure.
+The recommended dose of Angiomax is an intravenous (IV) bolus dose of 0.75 mg/kg, followed immediately by an infusion of 1.75 mg/kg/h for the duration of the PCI/PTCA procedure.
 Five min after the bolus dose has been administered, an activated clotting time (ACT) should be performed and an additional bolus of 0.3 mg/kg should be given if needed.
 
 GPI administration should be considered in the event that any of the conditions listed in the REPLACE-2 clinical trial description [see Clinical Studies (14.1)] is present.
@@ -20,7 +20,11 @@ This should be followed by a continuous infusion at a rate of 1.75 mg/kg/h for t
 
 For ongoing treatment post procedure
 
-Continuation of the Angiomax infusion following PCI/PTCA for up to 4 hours post-procedure is optional, at the discretion of the treating physician.
+Angiomax infusion may be continued following PCI/PTCA for up to 4 hours post-procedure at the discretion of the treating physician.
+
+In patients with ST segment elevation myocardial infarction (STEMI) continuation of the Angiomax infusion at a rate of 1.75 mg/kg/h following PCI/PTCA for up to 4 hours post-procedure should be considered to mitigate risk of stent thrombosis.
+[see Warnings and Precautions (5.2)].
+
 After four hours, an additional IV infusion of Angiomax may be initiated at a rate of 0.2 mg/kg/h (low-rate infusion), for up to 20 hours, if needed.
 
 ## 2.2 Dosing in Renal Impairment
@@ -36,20 +40,22 @@ If a patient is on hemodialysis, the infusion rate should be reduced to 0.25 mg/
 Angiomax is intended for intravenous bolus injection and continuous infusion after reconstitution and dilution.
 To each 250 mg vial, add 5 mL of Sterile Water for Injection, USP.
 Gently swirl until all material is dissolved.
-Each reconstituted vial should be further diluted in 50 mL of 5% Dextrose in Water or 0.9% Sodium Chloride for Injection to yield a final concentration of 5 mg/mL (e.g., 1 vial in 50 mL; 2 vials in 100 mL; 5 vials in 250 mL).
+Next, withdraw and discard 5 mL from a 50 mL infusion bag containing 5% Dextrose in Water or 0.9% Sodium Chloride for Injection.
+Then add the contents of the reconstituted vial to the infusion bag containing 5% Dextrose in Water or 0.9% Sodium Chloride for Injection to yield a final concentration of 5 mg/mL (e.g., 1 vial in 50 mL; 2 vials in 100 mL; 5 vials in 250 mL).
 The dose to be administered is adjusted according to the patient's weight (see Table 1).
 
 If the low-rate infusion is used after the initial infusion, a lower concentration bag should be prepared.
-In order to prepare this bag, reconstitute the 250 mg vial with 5 mL of Sterile Water for Injection, USP.
+In order to prepare this lower concentration, reconstitute the 250 mg vial with 5 mL of Sterile Water for Injection, USP.
 Gently swirl until all material is dissolved.
-Each reconstituted vial should be further diluted in 500 mL of 5% Dextrose in Water or 0.9% Sodium Chloride for Injection to yield a final concentration of 0.5 mg/mL.
+Next, withdraw and discard 5 mL from a 500 mL infusion bag containing 5% Dextrose in Water or 0.9% Sodium Chloride for Injection.
+Then add the contents of the reconstituted vial to the infusion bag containing 5% Dextrose in Water or 0.9% Sodium Chloride for Injection to yield a final concentration of 0.5 mg/mL.
 The infusion rate to be administered should be selected from the right-hand column in Table 1.
 
 Table 1: Dosing Table
 
-| Weight (kg) | Using 5 mg/mL Concentration |  | Using 5 mg/mL Concentration |
+| Weight (kg) | Using 5 mg/mL Concentration |  | Using 0.5 mg/mL Concentration |
 | --- | --- | --- | --- |
-|  | Bolus 0.75 mg/k (mL) | Infusion 1.75 mg/kg/h (mL/h) | Subsequent Low-rate Infusion 0.2 mg/kg/h (mL/h) |
+| Bolus 0.75 mg/kg (mL) | Infusion 1.75 mg/kg/h (mL/h) | Subsequent Low-rate Infusion 0.2 mg/kg/h (mL/h) |  |
 | 43-47 | 7 | 16 | 18 |
 | 48-52 | 7.5 | 17.5 | 20 |
 | 53-57 | 8 | 19 | 22 |

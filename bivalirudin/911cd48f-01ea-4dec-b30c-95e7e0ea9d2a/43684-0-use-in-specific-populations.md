@@ -5,7 +5,7 @@
 Pregnancy Category B
 
 Reproductive studies have been performed in rats at subcutaneous doses up to 150 mg/kg/day, (1.6 times the maximum recommended human dose based on body surface area) and rabbits at subcutaneous doses up to 150 mg/kg/day (3.2 times the maximum recommended human dose based on body surface area).
-These studies revealed no evidence of impaired fertility or harm to the fetus attributable to Angiomax.
+These studies revealed no evidence of impaired fertility or harm to the fetus attributable to bivalirudin.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
@@ -30,6 +30,5 @@ Patients treated with Angiomax experienced fewer bleeding events in each age str
 ## 8.6 Renal Impairment
 
 The disposition of Angiomax was studied in PTCA patients with mild, moderate and severe renal impairment.
-The clearance of Angiomax was reduced approximately 20% in patients with moderate and severe renal impairment and was reduced approximately 80% in dialysis-dependent patients.
-[see Clinical Pharmacology (12.3)].
+The clearance of Angiomax was reduced approximately 20% in patients with moderate and severe renal impairment and was reduced approximately 80% in dialysis-dependent patients [see Clinical Pharmacology (12.3)].
 The infusion dose of Angiomax may need to be reduced, and anticoagulant status monitored in patients with renal impairment [see Dosage and Administration (2.2)].

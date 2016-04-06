@@ -23,11 +23,10 @@ GPIs were added on a "provisional" basis to patients who were randomized to Angi
 - abrupt closure; clinical instability; and
 - prolonged ischemia.
 
-During the study, one or more of these circumstances occurred in 12.7% of patients in the Angiomax with provisional GPI arm.
-GPIs were administered to 7.2% of patients in the Angiomax with provisional GPI arm (62.2% of eligible patients).
-
+During the study, one or more of these circumstances occurred in 10.9% of patients in the Angiomax with provisional GPI arm.
+GPIs were administered to 7.2% of patients in the Angiomax with provisional GPI arm (66.8% of eligible patients).
 Patients ranged in age from 25-95 years (median, 63); weight ranged from 35-199 kg (median 85.5); 74.4% were male and 25.6% were female.
-Indications for PCI included unstable angina (35% of patients), myocardial infarction within 7 days prior to intervention (8% of patients), stable angina (25%) and positive ischemic stress test (24%).
+Indications for PCI included unstable angina (35% of patients), myocardial infarction within 7 days prior to intervention (8% of patients), stable angina (25%) positive ischemic stress test (24%), and other not specified indications (8%).
 Stents were deployed in 85% of patients.
 Ninety-nine percent of patients received aspirin and 86% received thienopyridines prior to study treatment.
 
@@ -53,7 +52,7 @@ Study outcomes are shown in Table 7.
 
 Table 7: Incidences of Clinical Endpoints at 30 Days for REPLACE-2, a Randomized Double-blind Clinical Trial
 
-| Intent-to-treat Population | ANGIOMAX with "Provisional" GPI N=2994 | HEPARIN + GPI N=3008 |
+| Intent-to-treat Population | ANGIOMAX with "Provisional" GPI (n=2994) | HEPARIN + GPI (n=3008) |
 | --- | --- | --- |
 | Efficacy Endpoints |  |  |
 | Death, MI, or urgent revascularization | 7.6% | 7.1% |
@@ -61,8 +60,8 @@ Table 7: Incidences of Clinical Endpoints at 30 Days for REPLACE-2, a Randomized
 | MI | 7.0% | 6.2% |
 | Urgent revascularization | 1.2% | 1.4% |
 | Safety Endpoint |  |  |
-| Major hemorrhage12 | 2.4% | 4.1% |
-| 1 Defined as intracranial bleeding, retroperitoneal bleeding, a transfusion of >2 units of blood/blood products, a fall in Hgb >4 g/dL, whether or not bleeding site is identified, spontaneous or non-spontaneous blood loss with a decrease in Hgb >3 g/dL 2 p-value <0.001 between groups |  |  |
+| Major hemorrhage1,2 | 2.4% | 4.1% |
+| 1 Defined as intracranial bleeding, retroperitoneal bleeding, a transfusion of ≥2 units of blood/blood products, a fall in Hgb >4 g/dL, whether or not bleeding site is identified, spontaneous or non-spontaneous blood loss with a decrease in Hgb >3 g/dL 2 p-value <0.001 between groups |  |  |
 
 At 12 months' follow-up, mortality was 1.9% among patients randomized to Angiomax with "provisional" GPIs and 2.5% among patients randomized to heparin plus GPI.
 
@@ -103,7 +102,7 @@ Study outcomes are shown in Table 8.
 
 Table 8: Incidences of In-hospital Clinical Endpoints in BAT Trial Occurring within 7 Days
 
-| All Patients | ANGIOMAX N=2161 | HEPARIN N=2151 |
+| All Patients | ANGIOMAX (n=2161) | HEPARIN (n=2151) |
 | --- | --- | --- |
 | Efficacy Endpoints |  |  |
 | Procedural failure1 | 7.9% | 9.3% |
