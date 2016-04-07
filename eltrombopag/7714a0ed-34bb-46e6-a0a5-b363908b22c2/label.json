@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022291"
+  ],
+  "inn": "eltrombopag",
+  "labeler": "Novartis Pharmaceuticals Corporation",
+  "package_ndcs": [
+    "0078-0686-15",
+    "0078-0687-15"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "eltrombopag olamine",
+      "name": "PROMACTA"
+    }
+  ],
+  "setid": "7714a0ed-34bb-46e6-a0a5-b363908b22c2",
+  "source": "dailymed"
+}
