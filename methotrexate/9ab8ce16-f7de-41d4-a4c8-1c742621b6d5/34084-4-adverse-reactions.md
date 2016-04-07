@@ -2,10 +2,10 @@
 
 The following adverse reactions are discussed in more detail in other sections of the labeling.
 
-- • Organ System Toxicity [see Warnings and Precautions (5.1)]
-- • Embryo-Fetal Toxicity [see Warnings and Precautions (5.2)]
-- • Effects on Reproduction [see Warnings and Precautions (5.3)]
-- • Malignant Lymphomas [see Warnings and Precautions (5.8)]
+- Organ System Toxicity [see Warnings and Precautions (5.1)]
+- Embryo-Fetal Toxicity [see Warnings and Precautions (5.2)]
+- Effects on Reproduction [see Warnings and Precautions (5.3)]
+- Malignant Lymphomas [see Warnings and Precautions (5.8)]
 
 The most frequently reported adverse reactions include ulcerative stomatitis, leukopenia, nausea, and abdominal distress.
 Other frequently reported adverse reactions are malaise, undue fatigue, chills and fever, dizziness and decreased resistance to infection.

@@ -46,26 +46,8 @@ Proper Storage and Disposal
 Advise patients to store Otrexup at room temperature (68 to 77°F or 20 to 25°C).
 Inform patients and caregivers of the need for proper disposal after use, including the use of a sharps disposal container.
 
-Address Medical Inquiries to:
+Address Medical Inquiries to: Antares Pharma, Inc. Medical Communications 100 Princeton South, Suite 300 Ewing, NJ 08628 1-855-Otrexup (1-855-687-3987)
 
-Antares Pharma, Inc.
+Manufactured for: Antares Pharma, Inc. 100 Princeton South, Suite 300 Ewing, NJ 08628 USA Otrexup™ is the subject of US Patent Nos. RE44,846, 8,021,335, 6,746,429, RE44,847, 8,480,631, 8,562,564, 8,579,865 and 8,945,063.
 
-Medical Communications
-
-100 Princeton South, Suite 300
-
-Ewing, NJ 08628
-
-1-855-Otrexup (1-855-687-3987)
-
-Manufactured for:
-
-Antares Pharma, Inc.
-
-100 Princeton South, Suite 300
-
-Ewing, NJ 08628 USA
-
-Otrexup™ is subject of US Patent Nos. RE44,846, 8,021,335, 6,746,429, RE44,847, 8,480,631, 8,562,564 and 8,579,865.
-
-©2014 Antares Pharma, Inc., Ewing, NJ 08628
+©2016 Antares Pharma, Inc., Ewing, NJ 08628
