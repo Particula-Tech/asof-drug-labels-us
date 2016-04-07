@@ -16,7 +16,7 @@ Rx only
 
 Amerinet Choice®
 
-# PRINCIPAL DISPLAY PANEL - 500 mg Vial Carton
+# PRINCIPAL DISPLAY PANEL - 10 Vial Carton
 
 10 Vials
 
@@ -30,6 +30,4 @@ Sterile For I.V. infusion only Equivalent to 500 mg/vial of azithromycin To yiel
 
 No Latex No Preservative
 
-Amerinet Choice®
-
-Rx only
+Amerinet Choice® Rx only
