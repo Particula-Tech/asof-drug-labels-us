@@ -2,13 +2,11 @@
 
 NDC 0069-3080-30
 
-30 Tablets
+Pfizer
 
-Zithromax® (azithromycin)
+Zithromax® (azithromycin) tablets 600 mg*
 
-600 mg*
-
-Pfizer Pfizer Labs Division of Pfizer Inc, NY, NY 10017
+30 Tablets Rx only
 
 # PRINCIPAL DISPLAY PANEL - 1 g Single Dose Packet Box
 
