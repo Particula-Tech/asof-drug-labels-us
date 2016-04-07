@@ -14,7 +14,7 @@ No Latex No Preservative
 
 Pfizer Injectables
 
-# PRINCIPAL DISPLAY PANEL - 10 Vial Carton
+# PRINCIPAL DISPLAY PANEL - 10 Vials Carton
 
 10 Vials
 
