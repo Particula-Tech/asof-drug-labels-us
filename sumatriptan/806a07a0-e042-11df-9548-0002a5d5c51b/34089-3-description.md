@@ -21,7 +21,7 @@ ZECUITY is a non-sterile product.
 
 The iontophoretic device consists of medical grade adhesive fabric and foam and a plastic dome that contains an activation button, batteries, and electronics (see Figure 2).
 
-- Figure 2: Iontophoretic Device
+1. Figure 2: Iontophoretic Device
 
 | Top View | Bottom View |
 | --- | --- |
@@ -30,6 +30,6 @@ The sumatriptan and salt pads are housed in individual reservoirs.
 Each reservoir is sealed by a foil strip that is removed prior to transfer of the pads to the iontophoretic device (see Figure 3).
 The iontophoretic device and foil reservoirs are co-packaged in a single unit pouch [see Patient Counseling Information (17)].
 
-- Figure 3: Reservoir Card
+1. Figure 3: Reservoir Card
 
 For ZECUITY to function, the pads must completely cover the electrodes [see Patient Counseling Information (17)].

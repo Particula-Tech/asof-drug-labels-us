@@ -2,7 +2,7 @@
 
 See FDA-approved patient labeling (Patient Information and Instructions for Use).
 
-- How to Use ZECUITY
+1. How to Use ZECUITY
 
 Advise patients to carefully read the Patient Instructions for Use.
 Only patients who are able to understand and follow the instructions should use ZECUITY.
@@ -23,11 +23,11 @@ Advise patients that the ZECUITY TDS should not be applied to a previous applica
 
 Inform patients that the safety of using more than 4 ZECUITY in one month has not been established.
 
-- Risk of Injury during Magnetic Resonance Imaging (MRI) procedure
+1. Risk of Injury during Magnetic Resonance Imaging (MRI) procedure
 
 Inform patients that ZECUITY contains metal parts and must be removed before an MRI procedure.
 
-- Potential for Allergic Contact Dermatitis
+1. Potential for Allergic Contact Dermatitis
 
 Caution patients about the potential for developing allergic contact dermatitis (ACD) after use of ZECUITY.
 Inform patients of the signs and symptoms of ACD, and instruct patients to seek medical advice if they develop skin lesions suggestive of ACD.
@@ -45,27 +45,31 @@ Inform patients that anaphylactic/anaphylactoid reactions have occurred in patie
 Such reactions can be life threatening or fatal.
 In general, anaphylactic reactions to drugs are more likely to occur in individuals with a history of sensitivity to multiple allergens [see Warnings and Precautions (5.11)].
 
-- Medication Overuse Headache
+1. Medication Overuse Headache
 
 Inform patients that use of acute migraine drugs for 10 or more days per month may lead to an exacerbation of headache and encourage patients to record headache frequency and drug use (e.g., by keeping a headache diary) [see Warnings and Precautions (5.8)].
 
-- Pregnancy
+1. Pregnancy
 
 Inform patients that ZECUITY should not be used during pregnancy unless the potential benefit justifies the potential risk to the fetus [see Use in Specific Populations (8.1)].
 
-- Nursing Mothers
+1. Nursing Mothers
 
 Advise patients to notify their physician if they are breast-feeding or plan to breast-feed [see Use in Specific Populations (8.3)].
 
-- Ability To Perform Complex Tasks
+1. Ability To Perform Complex Tasks
 
 Since migraines or treatment with sumatriptan may cause somnolence and dizziness, instruct patients to evaluate their ability to perform complex tasks during migraine attacks and after using ZECUITY.
 
-- Serotonin Syndrome
+1. Serotonin Syndrome
 
 Caution patients about the risk of serotonin syndrome with the use of ZECUITY or other triptans, particularly during combined use with SSRIs, SNRIs, TCAs, and MAO inhibitors [see Warnings and Precautions (5.9) and Drug Interactions (7.4)].
 
-Manufactured for NuPathe Inc. by LTS
+ZECUITY® is a registered trademark of Teva Pharmaceuticals International GmbH.
+The other brands listed are trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals International GmbH.
+The makers of these brands are not affiliated with and do not endorse Teva Pharmaceuticals International GmbH or its affiliates or products.
+
+Manufactured for Teva Pharmaceuticals International GmbH by LTS
 
 Lohmann Therapie-Systeme AG, D-56626
 
@@ -75,12 +79,16 @@ and by LTS Lohmann Therapy Systems Corp.,
 
 West Caldwell, NJ 07006
 
-NuPathe, Inc., is a wholly-owned subsidiary of Teva Pharmaceuticals USA, Inc.
+Distributed by:
 
-©2014 Teva Pharmaceuticals USA, Inc.
+Teva Pharmaceuticals USA, Inc.
+
+North Wales, PA 19454
+
+©2016 Teva Pharmaceuticals USA, Inc.
 
 All rights reserved.
 
-ZEC-001
+ZEC-002
 
 Teva logo

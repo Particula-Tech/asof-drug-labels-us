@@ -1,6 +1,6 @@
 # INSTRUCTIONS FOR USE
 
-- ZECUITY® (zeh-CUE-eh-tee)
+1. ZECUITY® (zeh-CUE-eh-tee)
 
 (sumatriptan iontophoretic transdermal system)
 
@@ -18,13 +18,13 @@ Preparation
 
 ZECUITY is a single-use Transdermal System (TDS) or patch.
 
-- •Remove ZECUITY by folding and tearing from the notch at the corner of the clear pouch.See
+- •Remove ZECUITY by folding and tearing from the notch at the corner of the clear pouch.See Figure B
 - •ZECUITY TDS should not be cut.
 - •Do not use ZECUITY TDS if the clear pouch is torn or damaged.
 
 Figure B
 
-- •Choose an application site:See
+- •Choose an application site:See Figure C
 
 Figure C
 
@@ -37,7 +37,7 @@ Step 1 – Pull Tabs
 
 To apply the ZECUITY TDS you must pull the 2 foil tabs.
 These tabs are marked on the package as Step 1a and Step 1b.
-See
+See Figure D
 
 - •Place ZECUITY on a flat surface with the foil packets facing up.
 - •While holding the package, pull both foil tabs out, 1 at a time, and throw the foil tabs away in the trash.
@@ -51,14 +51,14 @@ Step 2 – Rub Foil Packets
 ZECUITY has 2 foil packets that each contain a white medication pad that must be properly attached to the ZECUITY TDS before use.
 
 - •To transfer and attach the medication pads to the ZECUITY TDS use 2 fingers and firmly press and rub each foil packet, tracing the green arrow 3 times around.
-  See
+  See Figure E
 
 Figure E
 
 Step 3– Unfold and Lift Open
 
 Unfold the orange flap, marked as Step 3 on the bottom of the packet and lift open the package.
-See
+See Figure F
 
 Figure F
 
@@ -66,12 +66,12 @@ Step 4 - Peel Pads and Check
 
 - •Slowly peel the first part of the ZECUITY TDS back from the silver liner.
   If the medication pad is not attached, lay the ZECUITY TDS down on a hard surface and repeat Steps 2 and 3.
-  See
+  See Figure G
 
 Figure G
 
 After checking to make sure that both white medication pads are securely attached, peel the ZECUITY TDS completely away from liner.
-See
+See Figure H
 
 - •The ZECUITY TDS will not work properly if both medication pads are not attached.
 - •There may be gel left in the reservoirs after the ZECUITY TDS is
@@ -84,7 +84,7 @@ Step 5 – Apply and Activate
 Apply ZECUITY to your upper arm or thigh and activate it by pressing the button to turn it on.
 The button will blink and then turn solid red as it releases the medicine.
 
-See
+See Figure I
 
 - •If the light does not turn solid red or goes off within the first 15 minutes of application this means no medicine is being delivered.
   The TDS should be gently removed and thrown away.
@@ -122,7 +122,7 @@ How should I store ZECUITY?
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Manufactured for NuPathe Inc. by LTS
+Manufactured for Teva Pharmaceuticals International GmbH by LTS
 
 Lohmann Therapie-Systeme AG, D-56626
 
@@ -132,14 +132,18 @@ and by LTS Lohmann Therapy Systems Corp.,
 
 West Caldwell, NJ 07006
 
-NuPathe, Inc., is a wholly-owned subsidiary of Teva Pharmaceuticals USA, Inc.
+Distributed by:
 
-©2014 Teva Pharmaceuticals USA, Inc.
+Teva Pharmaceuticals USA, Inc.
+
+North Wales, PA 19454
+
+©2016 Teva Pharmaceuticals USA, Inc.
 
 All rights reserved.
 
-ZECIFU-001
+ZECIFU-002
 
-Revised: April 2014
+Revised: February 2016
 
 Teva logo

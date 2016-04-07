@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-- ZECUITY® (zeh-CUE-eh-tee)
+1. ZECUITY® (zeh-CUE-eh-tee)
 
 (sumatriptan iontophoretic transdermal system)
 
@@ -133,9 +133,9 @@ What should I avoid while using ZECUITY?
 
 • Do not bathe, shower, or swim while wearing ZECUITY.
 
-- • ZECUITY can cause dizziness, weakness, or drowsiness.
-  If you have these symptoms, do not drive a car, use machinery, or do anything where you need to be alert.
-- •You should remove ZECUITY before you have a Magnetic Resonance Imaging (MRI) procedure.
+1. • ZECUITY can cause dizziness, weakness, or drowsiness.
+   If you have these symptoms, do not drive a car, use machinery, or do anything where you need to be alert.
+2. •You should remove ZECUITY before you have a Magnetic Resonance Imaging (MRI) procedure.
 
 What are the possible side effects of ZECUITY?
 
@@ -250,10 +250,11 @@ Inactive ingredients:
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-ZECUITY® is a registered trademark of NuPathe Inc. The other brands listed are trademarks of their respective owners and are not trademarks of NuPathe.
-The makers of these brands are not affiliated with and do not endorse NuPathe or its products.
+ZECUITY® is a registered trademark of Teva Pharmaceuticals International GmbH.
+The other brands listed are trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals International GmbH.
+The makers of these brands are not affiliated with and do not endorse Teva Pharmaceuticals International GmbH or its affiliates or products.
 
-Manufactured for NuPathe Inc. by LTS
+Manufactured for Teva Pharmaceuticals International GmbH by LTS
 
 Lohmann Therapie-Systeme AG, D-56626
 
@@ -263,14 +264,18 @@ and by LTS Lohmann Therapy Systems Corp.,
 
 West Caldwell, NJ 07006
 
-NuPathe, Inc., is a wholly-owned subsidiary of Teva Pharmaceuticals USA, Inc.
+Distributed by:
 
-©2014 Teva Pharmaceuticals USA, Inc.
+Teva Pharmaceuticals USA, Inc.
+
+North Wales, PA 19454
+
+©2016 Teva Pharmaceuticals USA, Inc.
 
 All rights reserved.
 
-ZECPL-001
+ZECPL-002
 
-Revised: April 2014
+Revised: February 2016
 
 Teva logo

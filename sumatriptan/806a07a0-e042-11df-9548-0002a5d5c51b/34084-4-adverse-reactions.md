@@ -24,7 +24,8 @@ The most common adverse reactions (≥ 5%) in a controlled single dose study wer
 
 Controlled single dose acute migraine study
 
-Table 1 lists adverse reactions that occurred at a frequency of 2% or greater in a controlled clinical study of ZECUITY in patients with acute migraine (Study 1) [] In that study, patients randomized to the control group used the same activated iontophoretic transdermal delivery system (TDS) as patients randomized to ZECUITY, with the only difference being the absence of sumatriptan in the drug reservoir.
+Table 1 lists adverse reactions that occurred at a frequency of 2% or greater in a controlled clinical study of ZECUITY in patients with acute migraine (Study 1) [see Clinical Studies (14.1)].
+In that study, patients randomized to the control group used the same activated iontophoretic transdermal delivery system (TDS) as patients randomized to ZECUITY, with the only difference being the absence of sumatriptan in the drug reservoir.
 Therefore, patients in the control group were exposed to same TDS-related risks as patients in the ZECUITY group, minus the risks related to sumatriptan.
 Only reactions that occurred at a frequency of 2% or more in patients treated with ZECUITY or control are included in Table 1.
 
@@ -43,7 +44,8 @@ Subgroup analyses of age (≤41 years, >41 years), race (Caucasian, non-Caucasia
 Skin Irritation Examination
 
 In Study 1, patients performed their own examination of the TDS application site at 4, 12, and 24 hours post TDS activation, and daily thereafter until resolution.
-Skin irritation examination scores are summarized in The median time to “no redness” was 2.6 days for ZECUITY compared with 0.3 day in the control group.
+Skin irritation examination scores are summarized in Table 2.
+The median time to “no redness” was 2.6 days for ZECUITY compared with 0.3 day in the control group.
 
 Table 2: Subject Self-examination Skin Irritation Scoring
 
