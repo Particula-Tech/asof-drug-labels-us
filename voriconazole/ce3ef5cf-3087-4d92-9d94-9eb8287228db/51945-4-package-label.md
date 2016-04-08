@@ -53,7 +53,7 @@ NDC 0049-3190-28 Rx only
 
 No Latex No Preservatives
 
-Sterile Singel Use Vial For I.V.
+Sterile Single Use Vial For I.V.
 Infusion Only
 
 Pfizer Injectables

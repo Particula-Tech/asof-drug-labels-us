@@ -1,6 +1,4 @@
-LAB-0271-31.0
-
-February 2014
+LAB-0271-32.0
 
 FDA-Approved Patient Labeling
 
@@ -47,7 +45,7 @@ What should I tell my healthcare provider before taking VFEND?
 
 Before you take VFEND, tell your healthcare provider if you:
 
-- have or ever had an abnormal heart rate or rhythm.
+- have or ever had heart disease, or an abnormal heart rate or rhythm.
   Your healthcare provider may order a test to check your heart (EKG) before starting VFEND.
 - have liver or kidney problems.
   Your healthcare provider may do blood tests to make sure you can take VFEND.
@@ -189,6 +187,11 @@ VFEND tablets: lactose monohydrate, pregelatinized starch, croscarmellose sodium
 
 VFEND oral suspension: colloidal silicon dioxide, titanium dioxide, xanthan gum, sodium citrate dihydrate, sodium benzoate, anhydrous citric acid, natural orange flavor, and sucrose
 
-LAB-0311-11.0
+This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-February 2014
+This product's label may have been updated.
+For current full prescribing information, please visit www.pfizer.com.
+
+LAB-0311-12.0
+
+February 2015
