@@ -1,14 +1,14 @@
 Distributed by:
 
-Kremers Urban Pharmaceuticals Inc.
+Kremers Urban Pharmaceuticals Inc.,
 
-Princeton, NJ 08540, USA
+a subsidiary of Lannett Company, Inc.
 
-for:
+Seymour, IN 47274
 
-Marietta, GA 30062, USA
+Made in the USA
 
-CIA72763H
+CIA72763J
 
 Rev.
-11E 09/2015
+01/2016

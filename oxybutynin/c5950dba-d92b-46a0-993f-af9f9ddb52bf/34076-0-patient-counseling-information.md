@@ -15,4 +15,4 @@
   The tablet shell is eliminated from the body; patients should not be concerned if they occasionally notice in their stool something that looks like a tablet.
 - Oxybutynin chloride extended-release tablets should be taken at approximately the same time each day.
 
-For more information call 1-844-599-CARE or visit kremersurban.com.
+For more information call 1-844-834-0530.
