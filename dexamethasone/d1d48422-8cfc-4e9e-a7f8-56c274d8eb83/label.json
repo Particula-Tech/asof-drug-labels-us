@@ -5,13 +5,14 @@
   "inn": "dexamethasone",
   "labeler": "Alcon Laboratories, Inc.",
   "package_ndcs": [
+    "0065-0652-01",
     "0065-0652-05",
     "0065-0652-10",
     "0065-0652-25"
   ],
   "products": [
     {
-      "form": "SUSPENSION",
+      "form": "SUSPENSION/ DROPS",
       "generic": "tobramycin / dexamethasone",
       "name": "TOBRADEX ST"
     }
