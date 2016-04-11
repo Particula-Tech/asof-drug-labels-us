@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA022426"
+  ],
+  "inn": "alogliptin",
+  "labeler": "Perrigo New York Inc",
+  "package_ndcs": [
+    "45802-238-65",
+    "45802-260-65",
+    "45802-304-65",
+    "45802-351-65",
+    "45802-402-65",
+    "45802-499-65"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "alogliptin benzoate and pioglitazone hydrochloride",
+      "name": "Alogliptin and Pioglitazone"
+    }
+  ],
+  "setid": "642b1e90-701e-42f2-bac6-a4918738e2c9",
+  "source": "dailymed"
+}
