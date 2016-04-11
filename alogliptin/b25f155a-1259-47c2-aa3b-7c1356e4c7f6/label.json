@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA022271"
+  ],
+  "inn": "alogliptin",
+  "labeler": "Perrigo New York Inc",
+  "package_ndcs": [
+    "45802-087-65",
+    "45802-103-65",
+    "45802-150-65"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "alogliptin",
+      "name": "Alogliptin"
+    }
+  ],
+  "setid": "b25f155a-1259-47c2-aa3b-7c1356e4c7f6",
+  "source": "dailymed"
+}
