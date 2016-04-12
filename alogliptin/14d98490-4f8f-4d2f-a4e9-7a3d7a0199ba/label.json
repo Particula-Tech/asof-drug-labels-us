@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA203414"
+  ],
+  "inn": "alogliptin",
+  "labeler": "Perrigo New York Inc",
+  "package_ndcs": [
+    "45802-169-72",
+    "45802-211-72"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "alogliptin and metformin hydrochloride",
+      "name": "alogliptin and metformin hydrochloride"
+    }
+  ],
+  "setid": "14d98490-4f8f-4d2f-a4e9-7a3d7a0199ba",
+  "source": "dailymed"
+}
