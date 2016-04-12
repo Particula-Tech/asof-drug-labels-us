@@ -7,7 +7,7 @@
   - – In patients on canagliflozin, switch to INVOKAMET containing metformin 500 mg with a similar total daily dose of canagliflozin;
   - – In patients already treated with canagliflozin and metformin, switch to INVOKAMET containing the same total daily doses of each component.
 - Take INVOKAMET twice daily with meals, with gradual dose escalation to reduce the gastrointestinal side effects due to metformin [see Dosage Forms and Strengths (3)].
-- In patients with volume depletion not previously treated with canagliflozin, correct this condition before initiating INVOKAMET [see Warnings and Precautions (5.2), Use in Specific Populations (8.5), (8.6), and Patient Counseling Information (17)].
+- In patients with volume depletion not previously treated with canagliflozin, correct this condition before initiating INVOKAMET [see Warnings and Precautions (5.2), Use in Specific Populations (8.5, 8.6), and Patient Counseling Information (17)].
 - Adjust dosing based on effectiveness and tolerability while not exceeding the maximum recommended daily dose of metformin 2000 mg and canagliflozin 300 mg in patients with an eGFR of 60 mL/min/1.73 m2 or greater [see Dosage and Administration (2.2)].
 
 ## 2.2 Recommended Dosage for Patients with Renal Impairment

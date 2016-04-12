@@ -2,7 +2,7 @@
 
 The following adverse reactions are also discussed elsewhere in the labeling:
 
-- Lactic Acidosis [see Boxed Warning and Warnings and Precautions (5.1), (5.4), (5.7), (5.13), (5.14)]
+- Lactic Acidosis [see Boxed Warning and Warnings and Precautions (5.1, 5.4, 5.7, 5.13, 5.14)]
 - Hypotension [see Warnings and Precautions (5.2)]
 - Ketoacidosis [see Warnings and Precautions (5.3)]
 - Impairment in Renal Function [see Warnings and Precautions (5.4)]
@@ -88,7 +88,7 @@ Volume Depletion-Related Adverse Reactions
 Canagliflozin results in an osmotic diuresis, which may lead to reductions in intravascular volume.
 In clinical studies, treatment with canagliflozin was associated with a dose-dependent increase in the incidence of volume depletion-related adverse reactions (e.g., hypotension, postural dizziness, orthostatic hypotension, syncope, and dehydration).
 An increased incidence was observed in patients on the 300 mg dose.
-The three factors associated with the largest increase in volume depletion-related adverse reactions were the use of loop diuretics, moderate renal impairment (eGFR 30 to less than 60 mL/min/1.73 m2), and age 75 years and older (Table 2) [see Dosage and Administration (2.2), Warnings and Precautions (5.2), and Use in Specific Populations (8.5), (8.6)].
+The three factors associated with the largest increase in volume depletion-related adverse reactions were the use of loop diuretics, moderate renal impairment (eGFR 30 to less than 60 mL/min/1.73 m2), and age 75 years and older (Table 2) [see Dosage and Administration (2.2), Warnings and Precautions (5.2), and Use in Specific Populations (8.5, 8.6)].
 
 Table 2: Proportion of Patients With at Least One Volume Depletion-Related Adverse Reaction (Pooled Results from 8 Clinical Trials)
 
@@ -200,7 +200,7 @@ In a pooled population of patients (N=723) with moderate renal impairment (eGFR 
 Severe elevations (greater than or equal to 6.5 mEq/L) occurred in 0.4% of patients treated with placebo, no patients treated with canagliflozin 100 mg, and 1.3% of patients treated with canagliflozin 300 mg.
 
 In these patients, increases in potassium were more commonly seen in those with elevated potassium at baseline.
-Among patients with moderate renal impairment, approximately 84% were taking medications that interfere with potassium excretion, such as potassium-sparing diuretics, angiotensin-converting-enzyme inhibitors, and angiotensin-receptor blockers [see Warnings and Precautions (5.4), (5.5) and Use in Specific Populations (8.6)].
+Among patients with moderate renal impairment, approximately 84% were taking medications that interfere with potassium excretion, such as potassium-sparing diuretics, angiotensin-converting-enzyme inhibitors, and angiotensin-receptor blockers [see Warnings and Precautions (5.4, 5.5) and Use in Specific Populations (8.6)].
 
 Increases in Serum Magnesium
 
@@ -243,5 +243,7 @@ Additional adverse reactions have been identified during postapproval use of can
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Ketoacidosis [see Warnings and Precautions (5.3)]
+
+Anaphylaxis, Angioedema [see Warnings and Precautions (5.10)]
 
 Urosepsis and Pyelonephritis [see Warnings and Precautions (5.6)]

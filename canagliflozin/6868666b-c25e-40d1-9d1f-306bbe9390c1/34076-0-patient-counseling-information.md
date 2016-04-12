@@ -26,8 +26,8 @@ Advise the patient to read the FDA-Approved Patient Labeling (Medication Guide).
 - Genital Mycotic Infections in Males: Inform male patients that yeast infection of penis (e.g., balanitis or balanoposthitis) may occur, especially in uncircumcised males and patients with prior history.
   Provide them with information on the signs and symptoms of balanitis and balanoposthitis (rash or redness of the glans or foreskin of the penis).
   Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.9)].
-- Hypersensitivity Reactions: Inform patients that serious hypersensitivity reactions, such as urticaria and rash, have been reported with canagliflozin.
-  Advise patients to report immediately any signs or symptoms suggesting allergic reaction or angioedema and to take no more drug until they have consulted prescribing physicians [see Warnings and Precautions (5.10)].
+- Hypersensitivity Reactions: Inform patients that serious hypersensitivity reactions, such as urticaria, rash, anaphylaxis, and angioedema, have been reported with canagliflozin.
+  Advise patients to report immediately any signs or symptoms suggesting allergic reaction and to discontinue drug until they have consulted prescribing physicians [see Warnings and Precautions (5.10)].
 - Bone Fracture: Inform patients that bone fractures have been reported in patients taking canagliflozin.
   Provide them with information on factors that may contribute to fracture risk.
 - Laboratory Tests: Inform patients that they will test positive for glucose in their urine while on INVOKAMET [see Drug Interactions (7.2)].

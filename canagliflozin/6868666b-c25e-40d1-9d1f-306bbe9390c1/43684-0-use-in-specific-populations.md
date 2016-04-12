@@ -53,7 +53,7 @@ Safety and effectiveness of INVOKAMET in pediatric patients under 18 years of ag
 
 INVOKAMET
 
-Because renal function abnormalities can occur after initiating canagliflozin, metformin is substantially excreted by the kidney, and aging can be associated with reduced renal function, monitor renal function more frequently after initiating INVOKAMET in the elderly and then adjust dose based on renal function [see Dosage and Administration (2.2) and Warnings and Precautions (5.1), (5.3)].
+Because renal function abnormalities can occur after initiating canagliflozin, metformin is substantially excreted by the kidney, and aging can be associated with reduced renal function, monitor renal function more frequently after initiating INVOKAMET in the elderly and then adjust dose based on renal function [see Dosage and Administration (2.2) and Warnings and Precautions (5.1, 5.3)].
 
 Canagliflozin
 
@@ -76,7 +76,7 @@ The efficacy and safety of canagliflozin were evaluated in a study that included
 These patients had less overall glycemic efficacy and had a higher occurrence of adverse reactions related to reduced intravascular volume, renal-related adverse reactions, and decreases in eGFR compared to patients with mild renal impairment or normal renal function (eGFR greater than or equal to 60 mL/min/1.73 m2).
 Dose-related, transient mean increases in serum potassium were observed early after initiation of canagliflozin (i.e., within 3 weeks) in this trial.
 Increases in serum potassium of greater than 5.4 mEq/L and 15% above baseline occurred in 16.1%, 12.4%, and 27.0% of patients treated with placebo, canagliflozin 100 mg, and canagliflozin 300 mg, respectively.
-Severe elevations (greater than or equal to 6.5 mEq/L) occurred in 1.1%, 2.2%, and 2.2% of patients treated with placebo, canagliflozin 100 mg, and canagliflozin 300 mg, respectively [see Dosage and Administration (2.2), Contraindications (4), Warnings and Precautions (5.2), (5.3), (5.4), and Adverse Reactions (6.1)].
+Severe elevations (greater than or equal to 6.5 mEq/L) occurred in 1.1%, 2.2%, and 2.2% of patients treated with placebo, canagliflozin 100 mg, and canagliflozin 300 mg, respectively [see Dosage and Administration (2.2), Contraindications (4), Warnings and Precautions (5.2, 5.3, 5.4), and Adverse Reactions (6.1)].
 
 The efficacy and safety of canagliflozin have not been established in patients with severe renal impairment (eGFR less than 30 mL/min/1.73 m2), with ESRD, or receiving dialysis.
 Canagliflozin is not expected to be effective in these patient populations [see Contraindications (4) and Clinical Pharmacology (12.3)].

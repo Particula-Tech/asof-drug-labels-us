@@ -72,7 +72,7 @@ Distribution
 
 Canagliflozin
 
-The mean steady-state volume of distribution of canagliflozin following a single intravenous infusion in healthy subjects was 119 L, suggesting extensive tissue distribution.
+The mean steady-state volume of distribution of canagliflozin following a single intravenous infusion in healthy subjects was 83.5 L, suggesting extensive tissue distribution.
 Canagliflozin is extensively bound to proteins in plasma (99%), mainly to albumin.
 Protein binding is independent of canagliflozin plasma concentrations.
 Plasma protein binding is not meaningfully altered in patients with renal or hepatic impairment.
@@ -165,7 +165,7 @@ Geriatric
 
 INVOKAMET
 
-Studies characterizing the pharmacokinetics of canagliflozin and metformin after administration of INVOKAMET in geriatric patients have not been performed [see Warnings and Precautions (5.1), (5.4) and Use in Specific Populations (8.5)].
+Studies characterizing the pharmacokinetics of canagliflozin and metformin after administration of INVOKAMET in geriatric patients have not been performed [see Warnings and Precautions (5.1, 5.4) and Use in Specific Populations (8.5)].
 
 Canagliflozin
 

@@ -20,7 +20,7 @@ In addition, metformin should be promptly withheld in the presence of any condit
 
 Because impaired hepatic function may significantly limit the ability to clear lactate, metformin should be avoided in patients with clinical or laboratory evidence of hepatic impairment.
 Patients should be cautioned against excessive alcohol intake when taking metformin, since alcohol potentiates the effects of metformin on lactate metabolism.
-In addition, metformin should be temporarily discontinued prior to any intravascular radiocontrast study and for any surgical procedure necessitating restricted intake of food or fluids [see Warnings and Precautions (5.4), (5.7), (5.13), (5.14) and Clinical Pharmacology (12.3)].
+In addition, metformin should be temporarily discontinued prior to any intravascular radiocontrast study and for any surgical procedure necessitating restricted intake of food or fluids [see Warnings and Precautions (5.4, 5.7, 5.13, 5.14) and Clinical Pharmacology (12.3)].
 
 The onset of lactic acidosis often is subtle, and accompanied by nonspecific symptoms such as malaise, myalgias, respiratory distress, increasing somnolence, and nonspecific abdominal distress.
 More severe acidosis may be associated with signs such as hypothermia, hypotension, and resistant bradyarrhythmias.
@@ -125,8 +125,9 @@ Monitor and treat appropriately.
 
 ## 5.10 Hypersensitivity Reactions
 
-Hypersensitivity reactions (e.g., generalized urticaria), some serious, were reported with canagliflozin treatment; these reactions generally occurred within hours to days after initiating canagliflozin.
-If hypersensitivity reactions occur, discontinue use of INVOKAMET; treat and monitor until signs and symptoms resolve [see Contraindications (4) and Adverse Reactions (6.1)].
+Hypersensitivity reactions, including angioedema and anaphylaxis, have been reported with canagliflozin.
+These reactions generally occurred within hours to days after initiating canagliflozin.
+If hypersensitivity reactions occur, discontinue use of INVOKAMET; treat and monitor until signs and symptoms resolve [see Contraindications (4) and Adverse Reactions (6.1, 6.2)].
 
 ## 5.11 Bone Fracture
 
