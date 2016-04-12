@@ -55,8 +55,8 @@ Advise them of treatment options and when to seek medical advice [see Warnings a
 
 Hypersensitivity Reactions
 
-Inform patients that serious hypersensitivity reactions such as urticaria and rash have been reported with INVOKANA.
-Advise patients to report immediately any signs or symptoms suggesting allergic reaction or angioedema, and to take no more drug until they have consulted prescribing physicians.
+Inform patients that serious hypersensitivity reactions, such as urticaria, rash, anaphylaxis, and angioedema, have been reported with INVOKANA.
+Advise patients to report immediately any signs or symptoms suggesting allergic reaction, and to discontinue drug until they have consulted prescribing physicians.
 
 Bone Fracture
 

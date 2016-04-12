@@ -38,7 +38,7 @@ However, based on the potential to reduce postprandial plasma glucose excursions
 
 Distribution
 
-The mean steady-state volume of distribution of canagliflozin following a single intravenous infusion in healthy subjects was 119 L, suggesting extensive tissue distribution.
+The mean steady-state volume of distribution of canagliflozin following a single intravenous infusion in healthy subjects was 83.5 L, suggesting extensive tissue distribution.
 Canagliflozin is extensively bound to proteins in plasma (99%), mainly to albumin.
 Protein binding is independent of canagliflozin plasma concentrations.
 Plasma protein binding is not meaningfully altered in patients with renal or hepatic impairment.

@@ -27,7 +27,7 @@ In patients treated with INVOKANA consider monitoring for ketoacidosis and tempo
 
 INVOKANA increases serum creatinine and decreases eGFR.
 Patients with hypovolemia may be more susceptible to these changes.
-Renal function abnormalities can occur after initiating INVOKANA [see Adverse Reactions (6.1)].
+Renal function abnormalities can occur after initiating INVOKANA [see Contraindications (4) and Adverse Reactions (6.1)].
 More frequent renal function monitoring is recommended in patients with an eGFR below 60 mL/min/1.73 m2.
 
 ## 5.4 Hyperkalemia
@@ -57,8 +57,9 @@ Monitor and treat appropriately.
 
 ## 5.8 Hypersensitivity Reactions
 
-Hypersensitivity reactions (e.g., generalized urticaria), some serious, were reported with INVOKANA treatment; these reactions generally occurred within hours to days after initiating INVOKANA.
-If hypersensitivity reactions occur, discontinue use of INVOKANA; treat and monitor until signs and symptoms resolve [see Contraindications (4) and Adverse Reactions (6.1)].
+Hypersensitivity reactions, including angioedema and anaphylaxis, have been reported with INVOKANA.
+These reactions generally occurred within hours to days after initiating INVOKANA.
+If hypersensitivity reactions occur, discontinue use of INVOKANA; treat and monitor until signs and symptoms resolve [see Contraindications (4) and Adverse Reactions (6.1, 6.2)].
 
 ## 5.9 Bone Fracture
 

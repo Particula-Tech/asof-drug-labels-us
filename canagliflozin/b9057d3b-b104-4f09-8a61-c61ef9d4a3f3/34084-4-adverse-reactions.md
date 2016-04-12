@@ -231,4 +231,6 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Ketoacidosis [see Warnings and Precautions (5.2)]
 
+Anaphylaxis, Angioedema [see Warnings and Precautions (5.8)]
+
 Urosepsis and Pyelonephritis [see Warnings and Precautions (5.5)]
