@@ -22,7 +22,7 @@ The most frequently observed adverse events were fever, nausea, constipation, an
 Table 4 provides adverse events that were reported by 10% or more of the 189 patients treated with Zometa 4 mg or pamidronate 90 mg from the two HCM trials.
 Adverse events are listed regardless of presumed causality to study drug.
 
-Table 4: Percentage of Patients with Adverse Events ≥10% Reported in Hypercalcemia of Malignancy Clinical Trials by Body System
+Table 4: Percentage of Patients with Adverse Events greater than or equal to 10% Reported in Hypercalcemia of Malignancy Clinical Trials by Body System
 
 |  | Zometa |  | Pamidronate |  |
 | --- | --- | --- | --- | --- |
@@ -127,7 +127,7 @@ The median duration of exposure for safety analysis for Zometa 4 mg (core plus e
 Table 7 describes adverse events that were reported by 10% or more of patients.
 Adverse events are listed regardless of presumed causality to study drug.
 
-Table 7: Percentage of Patients with Adverse Events ≥10% Reported in Three Bone Metastases Clinical Trials by Body System
+Table 7: Percentage of Patients with Adverse Events greater than or equal to 10% Reported in Three Bone Metastases Clinical Trials by Body System
 
 |  | Zometa |  | Pamidronate |  | Placebo |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -261,7 +261,7 @@ Because these reports are from a population of uncertain size and are subject to
 
 Osteonecrosis of the Jaw
 
-Cases of osteonecrosis (primarily involving the jaws) have been reported predominantly in cancer patients treated with intravenous bisphosphonates including Zometa.
+Cases of osteonecrosis (primarily involving the jaw but also of other anatomical sites including hip, femur and external auditory canal) have been reported predominantly in cancer patients treated with intravenous bisphosphonates including Zometa.
 Many of these patients were also receiving chemotherapy and corticosteroids which may be a risk factor for ONJ.
 Caution is advised when Zometa is administered with anti-angiogenic drugs as an increased incidence of ONJ has been observed with concomitant use of these drugs.
 Data suggests a greater frequency of reports of ONJ in certain cancers, such as advanced breast cancer and multiple myeloma.

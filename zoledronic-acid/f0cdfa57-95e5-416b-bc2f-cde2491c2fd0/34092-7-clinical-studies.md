@@ -18,10 +18,12 @@ To assess the effects of Zometa versus those of pamidronate, the two multicenter
 The results of the primary analysis revealed that the proportion of patients that had normalization of corrected serum calcium by Day 10 were 88% and 70% for Zometa 4 mg and pamidronate 90 mg, respectively (P=0.002) (see Figure 1).
 In these studies, no additional benefit was seen for Zometa 8 mg over Zometa 4 mg; however, the risk of renal toxicity of Zometa 8 mg was significantly greater than that seen with Zometa 4 mg.
 
+Figure 1
+
 Secondary efficacy variables from the pooled HCM studies included the proportion of patients who had normalization of corrected serum calcium (CSC) by Day 4; the proportion of patients who had normalization of CSC by Day 7; time to relapse of HCM; and duration of complete response.
 Time to relapse of HCM was defined as the duration (in days) of normalization of serum calcium from study drug infusion until the last CSC value less than 11.6 mg/dL (less than 2.90 mmol/L).
 Patients who did not have a complete response were assigned a time to relapse of 0 days.
-Duration of complete response was defined as the duration (in days) from the occurrence of a complete response until the last CSC ≤10.8 mg/dL (2.70 mmol/L).
+Duration of complete response was defined as the duration (in days) from the occurrence of a complete response until the last CSC less than or equal to 10.8 mg/dL (2.70 mmol/L).
 The results of these secondary analyses for Zometa 4 mg and pamidronate 90 mg are shown in Table 11.
 
 Table 11: Secondary Efficacy Variables in Pooled HCM Studies

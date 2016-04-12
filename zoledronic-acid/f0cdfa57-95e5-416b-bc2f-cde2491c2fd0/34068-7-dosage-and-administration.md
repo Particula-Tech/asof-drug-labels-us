@@ -5,7 +5,7 @@ Parenteral drug products should be inspected visually for particulate matter and
 ## 2.1 Hypercalcemia of Malignancy
 
 The maximum recommended dose of Zometa in hypercalcemia of malignancy (albumin-corrected serum calcium greater than or equal to 12 mg/dL [3.0 mmol/L]) is 4 mg.
-The 4-mg dose must be given as a single-dose intravenous infusion over no less than 15 minutes.
+The 4 mg dose must be given as a single-dose intravenous infusion over no less than 15 minutes.
 Patients who receive Zometa should have serum creatinine assessed prior to each treatment.
 
 Dose adjustments of Zometa are not necessary in treating patients for hypercalcemia of malignancy presenting with mild-to-moderate renal impairment prior to initiation of therapy (serum creatinine less than 400 µmol/L or less than 4.5 mg/dL).
@@ -53,11 +53,11 @@ Patients should also be administered an oral calcium supplement of 500 mg and a 
 
 Zometa must not be mixed with calcium or other divalent cation-containing infusion solutions, such as Lactated Ringer’s solution, and should be administered as a single intravenous solution in a line separate from all other drugs.
 
-4 mg/100 mL Single-Use Ready-to-Use Bottle
+4 mg per 100 mL Single-Use Ready-to-Use Bottle
 
 Bottles of Zometa ready-to-use solution for infusion contain overfill allowing for the administration of 100 mL of solution (equivalent to 4 mg zoledronic acid).
 This solution is ready-to-use and may be administered directly to the patient without further preparation.
-For single use only.
+For single-use only.
 
 To prepare reduced doses for patients with baseline CrCl less than or equal to 60 mL/min, withdraw the specified volume of the Zometa solution from the bottle (see Table 2) and replace with an equal volume of sterile 0.9% Sodium Chloride, USP, or 5% Dextrose Injection, USP.
 Administer the newly-prepared dose-adjusted solution to the patient by infusion.
@@ -76,7 +76,7 @@ If not used immediately after dilution with infusion media, for microbiological 
 The refrigerated solution should then be equilibrated to room temperature prior to administration.
 The total time between dilution, storage in the refrigerator, and end of administration must not exceed 24 hours.
 
-4 mg/5 mL Single-Use Vial
+4 mg per 5 mL Single-Use Vial
 
 Vials of Zometa concentrate for infusion contain overfill allowing for the withdrawal of 5 mL of concentrate (equivalent to 4 mg zoledronic acid).
 This concentrate should immediately be diluted in 100 mL of sterile 0.9% Sodium Chloride, USP, or 5% Dextrose Injection, USP, following proper aseptic technique, and administered to the patient by infusion.
@@ -84,7 +84,7 @@ Do not store undiluted concentrate in a syringe, to avoid inadvertent injection.
 
 To prepare reduced doses for patients with baseline CrCl less than or equal to 60 mL/min, withdraw the specified volume of the Zometa concentrate from the vial for the dose required (see Table 3).
 
-Table 3: Preparation of Reduced Doses – Zometa Concentrate
+Table 3: Preparation of Reduced Doses–Zometa Concentrate
 
 | Remove and Use Zometa Volume (mL) | Dose (mg) |
 | --- | --- |

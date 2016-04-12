@@ -4,7 +4,8 @@
 - Patients should be informed of the importance of getting their blood tests (serum creatinine) during the course of their Zometa therapy.
 - Zometa should not be given if the patient is pregnant or plans to become pregnant, or if she is breastfeeding.
 - Patients should be advised to have a dental examination prior to treatment with Zometa and should avoid invasive dental procedures during treatment.
-- Patients should be informed of the importance of good dental hygiene and routine dental care.
+- Patients should be informed of the importance of good dental hygiene, routine dental care and regular dental check-ups.
+- Patients should be advised to immediately tell their doctor about any oral symptoms such as loosening of a tooth, pain, swelling, or non-healing of sores or discharge during treatment with Zometa.
 - Patients with multiple myeloma and bone metastasis of solid tumors should be advised to take an oral calcium supplement of 500 mg and a multiple vitamin containing 400 international units of vitamin D daily.
 - Patients should be advised to report any thigh, hip, or groin pain.
   It is unknown whether the risk of atypical femur fracture continues after stopping therapy.
@@ -12,8 +13,8 @@
 - There have been reports of bronchoconstriction in aspirin-sensitive patients receiving bisphosphonates, including zoledronic acid.
   Before being given zoledronic acid, patients should tell their doctor if they are aspirin-sensitive.
 
-Manufactured by Novartis Pharma Stein AG Stein, Switzerland for Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
+Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
 © Novartis
 
-T2015-04 January 2015
+T2016-27 March 2016
