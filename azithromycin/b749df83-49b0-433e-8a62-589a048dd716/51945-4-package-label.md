@@ -8,12 +8,26 @@ Zithromax® (azithromycin) tablets 600 mg*
 
 30 Tablets Rx only
 
+# PRINCIPAL DISPLAY PANEL - 1 g Single Dose Packet
+
+NDC 0069-3051-75
+
+Single Dose Packet
+
+Zithromax® (azithromycin for oral suspension)
+
+FOR ORAL ADMINISTRATION
+
+1 g*
+
+Pfizer Pfizer Labs Division of Pfizer Inc, NY, NY 10017
+
 # PRINCIPAL DISPLAY PANEL - 1 g Single Dose Packet Box
 
 NDC 0069-3051-75
 
+contains ONE DOSE REGIMEN with patient booklet enclosed
+
+FOR POSITION ONLY
+
 Zithromax® (azithromycin for oral suspension) one gram* single dose packet
-
-3 Single Dose Packets For Oral Administration
-
-Pfizer Pfizer Labs Division of Pfizer Inc, NY, NY 10017
