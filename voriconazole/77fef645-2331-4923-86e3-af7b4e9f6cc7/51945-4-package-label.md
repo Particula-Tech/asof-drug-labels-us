@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 200 mg Vial Carton
+# PRINCIPAL DISPLAY PANEL - 200 mg Vial Carton
 
 NDC 0049-3190-38 Rx only
 
@@ -14,7 +14,7 @@ Infusion Only
 
 Amerinet Choice®
 
-PRINCIPAL DISPLAY PANEL - 200 mg Vial Label
+# PRINCIPAL DISPLAY PANEL - 200 mg Vial Label
 
 NDC 0049-3190-38
 
