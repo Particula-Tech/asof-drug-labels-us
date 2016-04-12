@@ -16,9 +16,9 @@ Rx only Each tablet contains: Acetaminophen USP...............
 
 This package is not for household use.
 
-Mallinckrodt Pharmaceuticals™
+Mallinckrodt™
 
-L00A28 Rev 08/2013
+L00A28 Rev 12/2014
 
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 300 mg/30 mg Bottle
 
@@ -38,9 +38,9 @@ Rx only
 
 This package is not for household use.
 
-Mallinckrodt Pharmaceuticals™
+Mallinckrodt™
 
-L00A34 Rev 08/2013
+L00A34 Rev 12/2014
 
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 300 mg/60 mg Bottle
 
@@ -62,6 +62,6 @@ Rx only
 
 This package is not for household use.
 
-Mallinckrodt Pharmaceuticals™
+Mallinckrodt™
 
-L00A37 Rev 08/2013
+L00A37 Rev 12/2014
