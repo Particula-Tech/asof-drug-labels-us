@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA021612"
+  ],
+  "inn": "fenofibrate",
+  "labeler": "ANI Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "62559-460-90",
+    "62559-461-90"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "fenofibrate",
+      "name": "Fenofibrate"
+    }
+  ],
+  "setid": "3a69e15a-eda6-4a6e-8934-6881e4370521",
+  "source": "dailymed"
+}

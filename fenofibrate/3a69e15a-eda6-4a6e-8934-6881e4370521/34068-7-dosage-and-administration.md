@@ -1,0 +1,42 @@
+# 2 DOSAGE AND ADMINISTRATION
+
+## 2.1 General Considerations
+
+Fenofibrate capsules should be given with meals thereby optimizing the absorption of the medication.
+
+Patients should be advised to swallow fenofibrate capsules whole.
+Do not open, crush, dissolve or chew capsules.
+
+Patients should be placed on an appropriate lipid-lowering diet before receiving fenofibrate capsules, and should continue this diet during treatment with fenofibrate capsules.
+
+The initial treatment for dyslipidemia is dietary therapy specific for the type of lipoprotein abnormality.
+Excess body weight and excess alcoholic intake may be important factors in hypertriglyceridemia and should be addressed prior to any drug therapy.
+Physical exercise can be an important ancillary measure.
+Diseases contributory to hyperlipidemia, such as hypothyroidism or diabetes mellitus should be looked for and adequately treated.
+Estrogen therapy, thiazide diuretics and beta-blockers, are sometimes associated with massive rises in plasma triglycerides, especially in subjects with familial hypertriglyceridemia.
+In such cases, discontinuation of the specific etiologic agent may obviate the need for specific drug therapy of hypertriglyceridemia.
+
+Periodic determination of serum lipids should be obtained during initial therapy in order to establish the lowest effective dose of fenofibrate.
+Therapy should be withdrawn in patients who do not have an adequate response after two months of treatment with the maximum recommended dose of 150 mg per day.
+
+Consideration should be given to reducing the dosage of fenofibrate if lipid levels fall significantly below the targeted range.
+
+## 2.2 Primary Hypercholesterolemia or Mixed Dyslipidemia
+
+The dose of fenofibrate capsules is 150 mg once daily.
+
+## 2.3 Severe Hypertriglyceridemia
+
+The initial dose is 50 to 150 mg per day.
+Dosage should be individualized according to patient response, and should be adjusted if necessary following repeat lipid determination at 4 to 8 week intervals.
+
+The maximum dose of fenofibrate capsules is 150 mg once daily.
+
+## 2.4 Impaired Renal Function
+
+In patients with mild-to-moderate renal impairment, treatment with fenofibrate capsules should be initiated at a dose of 50 mg per day, and increased only after evaluation of the effects on renal function and lipid levels at this dose.
+The use of fenofibrate should be avoided in patients with severe renal impairment [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+
+## 2.5 Geriatric Patients
+
+Dose selection for the elderly should be made on the basis of renal function [see Use in Specific Populations (8.5) and Clinical Pharmacology (12.3)].
