@@ -4,7 +4,11 @@ Pfizer
 
 NDC 0009-0057-07
 
-Xanax XR® alprazolam CIV 0.5 mg extended-release tablets
+Xanax XR® CIV
+
+alprazolam extended-release tablets
+
+0.5 mg
 
 60 Tablets Rx only
 
@@ -14,7 +18,11 @@ Pfizer
 
 NDC 0009-0059-07
 
-Xanax XR® alprazolam CIV 1 mg extended-release tablets
+Xanax XR® CIV
+
+alprazolam extended-release tablets
+
+1 mg
 
 60 Tablets Rx only
 
@@ -24,7 +32,11 @@ Pfizer
 
 NDC 0009-0066-07
 
-Xanax XR® alprazolam CIV 2 mg extended-release tablets
+Xanax XR® CIV
+
+alprazolam extended-release tablets
+
+2 mg
 
 60 Tablets Rx only
 
@@ -34,6 +46,10 @@ Pfizer
 
 NDC 0009-0068-07
 
-Xanax XR® alprazolam CIV 3 mg extended-release tablets
+Xanax XR® CIV
+
+alprazolam extended-release tablets
+
+3 mg
 
 60 Tablets Rx only
