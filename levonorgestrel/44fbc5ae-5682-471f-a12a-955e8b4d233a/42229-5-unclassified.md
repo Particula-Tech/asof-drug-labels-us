@@ -47,10 +47,10 @@ For the majority of women, oral contraceptives can be taken safely.
 However, there are some women who are at high risk of developing certain serious diseases that can be life-threatening or may cause temporary or permanent disability or death.
 The risks associated with taking oral contraceptives increase significantly if you:
 
-- •smoke
-- •have high blood pressure, diabetes, high cholesterol, or a tendency to form blood clots, or are obese
-- •have or have had clotting disorders, heart attack, stroke, angina pectoris, cancer of the breast or sex organs, jaundice, malignant or benign liver tumors, or major surgery with prolonged immobilization
-- •have headaches with neurological symptoms
+1. •smoke
+2. •have high blood pressure, diabetes, high cholesterol, or a tendency to form blood clots, or are obese
+3. •have or have had clotting disorders, heart attack, stroke, angina pectoris, cancer of the breast or sex organs, jaundice, malignant or benign liver tumors, or major surgery with prolonged immobilization
+4. •have headaches with neurological symptoms
 
 You should not take the pill if you suspect you are pregnant or have unexplained vaginal bleeding.
 
@@ -66,14 +66,14 @@ These side effects, especially nausea and vomiting, may subside within the first
 The serious side effects of the pill occur very infrequently, especially if you are in good health and do not smoke.
 However, you should know that the following medical conditions have been associated with or made worse by the pill:
 
-- 1.Blood clots in the legs (thrombophlebitis), lungs (pulmonary embolism), stoppage or rupture of a blood vessel in the brain (stroke), blockage of blood vessels in the heart (heart attack and angina pectoris) or other organs of the body.
-  As mentioned above, smoking increases the risk of heart attacks and strokes and subsequent serious medical consequences.
-  Women with migraine also may be at increased risk of stroke with pill use.
-- 2.Liver tumors, which may rupture and cause severe bleeding.
-  A possible, but not definite, association has been found with the pill and liver cancer.
-  However, liver cancers are extremely rare.
-  The chance of developing liver cancer from using the pill is thus even rarer.
-- 3.High blood pressure, although blood pressure usually returns to normal when the pill is stopped.
+1. 1.Blood clots in the legs (thrombophlebitis), lungs (pulmonary embolism), stoppage or rupture of a blood vessel in the brain (stroke), blockage of blood vessels in the heart (heart attack and angina pectoris) or other organs of the body.
+   As mentioned above, smoking increases the risk of heart attacks and strokes and subsequent serious medical consequences.
+   Women with migraine also may be at increased risk of stroke with pill use.
+2. 2.Liver tumors, which may rupture and cause severe bleeding.
+   A possible, but not definite, association has been found with the pill and liver cancer.
+   However, liver cancers are extremely rare.
+   The chance of developing liver cancer from using the pill is thus even rarer.
+3. 3.High blood pressure, although blood pressure usually returns to normal when the pill is stopped.
 
 The symptoms associated with these serious side effects are discussed in the detailed leaflet given to you with your supply of pills.
 Notify your health care provider if you notice any unusual physical disturbances while taking the pill.
@@ -129,56 +129,56 @@ Important Points to Remember
 
 Before You Start Taking levonorgestrel and ethinyl estradiol:
 
-- 1.BE SURE TO READ THESE DIRECTIONS: Before you start taking levonorgestrel and ethinyl estradiol.
-  And Anytime you are not sure what to do.
-- 2.THE RIGHT WAY TO TAKE LEVONORGESTREL AND ETHINYL ESTRADIOL IS TO TAKE ONE PILL EVERY DAY AT THE SAME TIME.
-  If you miss pills, you could get pregnant.
-  This includes starting the pack late.
-  The more pills you miss, the more likely you are to get pregnant.
-  See “WHAT TO DO IF YOU MISS PILLS” below.
-- 3.MANY WOMEN HAVE SPOTTING OR LIGHT BLEEDING, OR MAY FEEL SICK TO THEIR STOMACH DURING THE FIRST 1-3 PACKS OF PILLS.
-  If you feel sick to your stomach, do not stop taking levonorgestrel and ethinyl estradiol.
-  This will usually go away.
-  If it doesn't go away, check with your health care professional.
-- 4.MOST WOMEN HAVE SPOTTING OR BLEEDING DURING THE FIRST FEW MONTHS OF TAKING LEVONORGESTREL AND ETHINYL ESTRADIOL.
-  Do not stop taking your pills even if you are having bleeding or spotting.
-  If the bleeding or spotting lasts for more than 7 consecutive days, talk to your health care provider.
-- 5.MISSING PILLS CAN ALSO CAUSE SPOTTING OR LIGHT BLEEDING, even when you make up these missed pills.
-  On the days you take 2 pills to make up for missed pills, you could also feel a little sick to your stomach.
-- 6.IF YOU VOMIT (within 4 hours after you take your pill), you should follow the instructions for WHAT TO DO IF YOU MISS PILLS.
-  IF YOU HAVE DIARRHEA or IF YOU TAKE SOME MEDICINES, including some antibiotics, your pills may not work as well.
-  Use a back-up nonhormonal method (such as condoms and/or spermicide) until you check with your health care professional.
-- 7.IF YOU HAVE TROUBLE REMEMBERING TO TAKE LEVONORGESTREL AND ETHINYL ESTRADIOL, talk to your health care professional about how to make pill-taking easier or about using another method of birth control.
-- 8.IF YOU HAVE ANY QUESTIONS OR ARE UNSURE ABOUT THE INFORMATION IN THIS LEAFLET, call your health care professional.
+1. 1.BE SURE TO READ THESE DIRECTIONS: Before you start taking levonorgestrel and ethinyl estradiol.
+   And Anytime you are not sure what to do.
+2. 2.THE RIGHT WAY TO TAKE LEVONORGESTREL AND ETHINYL ESTRADIOL IS TO TAKE ONE PILL EVERY DAY AT THE SAME TIME.
+   If you miss pills, you could get pregnant.
+   This includes starting the pack late.
+   The more pills you miss, the more likely you are to get pregnant.
+   See “WHAT TO DO IF YOU MISS PILLS” below.
+3. 3.MANY WOMEN HAVE SPOTTING OR LIGHT BLEEDING, OR MAY FEEL SICK TO THEIR STOMACH DURING THE FIRST 1-3 PACKS OF PILLS.
+   If you feel sick to your stomach, do not stop taking levonorgestrel and ethinyl estradiol.
+   This will usually go away.
+   If it doesn't go away, check with your health care professional.
+4. 4.MOST WOMEN HAVE SPOTTING OR BLEEDING DURING THE FIRST FEW MONTHS OF TAKING LEVONORGESTREL AND ETHINYL ESTRADIOL.
+   Do not stop taking your pills even if you are having bleeding or spotting.
+   If the bleeding or spotting lasts for more than 7 consecutive days, talk to your health care provider.
+5. 5.MISSING PILLS CAN ALSO CAUSE SPOTTING OR LIGHT BLEEDING, even when you make up these missed pills.
+   On the days you take 2 pills to make up for missed pills, you could also feel a little sick to your stomach.
+6. 6.IF YOU VOMIT (within 4 hours after you take your pill), you should follow the instructions for WHAT TO DO IF YOU MISS PILLS.
+   IF YOU HAVE DIARRHEA or IF YOU TAKE SOME MEDICINES, including some antibiotics, your pills may not work as well.
+   Use a back-up nonhormonal method (such as condoms and/or spermicide) until you check with your health care professional.
+7. 7.IF YOU HAVE TROUBLE REMEMBERING TO TAKE LEVONORGESTREL AND ETHINYL ESTRADIOL, talk to your health care professional about how to make pill-taking easier or about using another method of birth control.
+8. 8.IF YOU HAVE ANY QUESTIONS OR ARE UNSURE ABOUT THE INFORMATION IN THIS LEAFLET, call your health care professional.
 
 BEFORE YOU START TAKING LEVONORGESTREL AND ETHINYL ESTRADIOL
 
-- 1.DECIDE WHAT TIME OF DAY YOU WANT TO TAKE YOUR PILL.
-  It is important to take your pill at the SAME TIME every day.
-- 2.LOOK AT YOUR LEVONORGESTREL AND ETHINYL ESTRADIOL BLISTER CARD.
-  The pill pack has 28 “active” brownish peach to light brown pills (with hormones).
-- 3.Locate the top row of the blister card.
-- 4.Pick the day label strip that starts with the first day of your period (this is the day you start bleeding or spotting, even if it is almost midnight when the bleeding begins).
-- 5.Place the day label strip on the tablet blister card over the area that has the days of the week (starting with Sunday) imprinted in the plastic.
+1. 1.DECIDE WHAT TIME OF DAY YOU WANT TO TAKE YOUR PILL.
+   It is important to take your pill at the SAME TIME every day.
+2. 2.LOOK AT YOUR LEVONORGESTREL AND ETHINYL ESTRADIOL BLISTER CARD.
+   The pill pack has 28 “active” brownish peach to light brown pills (with hormones).
+3. 3.Locate the top row of the blister card.
+4. 4.Pick the day label strip that starts with the first day of your period (this is the day you start bleeding or spotting, even if it is almost midnight when the bleeding begins).
+5. 5.Place the day label strip on the tablet blister card over the area that has the days of the week (starting with Sunday) imprinted in the plastic.
 
-- 6.When it comes time to take levonorgestrel and ethinyl estradiol, you will take each pill until the blister card is empty.
-- 7.BE SURE YOU HAVE READY AT ALL TIMES: ANOTHER KIND OF NONHORMONAL BIRTH CONTROL (such as condoms and/or spermicide) to use as a back-up in case you miss pills.
-  AN EXTRA, FULL PILL PACK.
+1. 6.When it comes time to take levonorgestrel and ethinyl estradiol, you will take each pill until the blister card is empty.
+2. 7.BE SURE YOU HAVE READY AT ALL TIMES: ANOTHER KIND OF NONHORMONAL BIRTH CONTROL (such as condoms and/or spermicide) to use as a back-up in case you miss pills.
+   AN EXTRA, FULL PILL PACK.
 
 WHEN TO START THE FIRST PACK OF LEVONORGESTREL AND ETHINYL ESTRADIOL
 
 Day 1 Start
 
-- 1.Take the first “active” brownish peach to light brown pill of the first pack during the first 24 hours of your period.
-- 2.You will not need to use a back-up nonhormonal method of birth control, since you are starting the pill at the beginning of your period.
+1. 1.Take the first “active” brownish peach to light brown pill of the first pack during the first 24 hours of your period.
+2. 2.You will not need to use a back-up nonhormonal method of birth control, since you are starting the pill at the beginning of your period.
 
 WHAT TO DO DURING THE MONTH
 
-- 1.TAKE ONE PILL AT THE SAME TIME EVERY DAY UNTIL THE BLISTER PACK IS EMPTY.
-  Do not skip pills even if you are spotting or bleeding or feel sick to your stomach (nausea).
-  Do not skip pills even if you do not have sex very often.
-- 2.WHEN YOU FINISH A PACK Start the next pack on the day after your last pill.
-  Do not wait any days between packs.
+1. 1.TAKE ONE PILL AT THE SAME TIME EVERY DAY UNTIL THE BLISTER PACK IS EMPTY.
+   Do not skip pills even if you are spotting or bleeding or feel sick to your stomach (nausea).
+   Do not skip pills even if you do not have sex very often.
+2. 2.WHEN YOU FINISH A PACK Start the next pack on the day after your last pill.
+   Do not wait any days between packs.
 
 IF YOU SWITCH FROM ANOTHER BRAND OF COMBINATION PILLS:
 

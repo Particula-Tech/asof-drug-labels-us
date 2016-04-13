@@ -52,6 +52,11 @@ The excess risk is highest during the first year a woman ever uses a combined or
 Venous thromboembolism may be fatal.
 The risk of thromboembolic disease due to oral contraceptives is not related to length of use and gradually disappears after pill use is stopped.
 
+A post-marketing study evaluated the risk of venous thromboembolism with levonorgestrel and ethinyl estradiol use in two large US automated healthcare claims databases.
+The study was terminated early due to discontinuation of product marketing.
+At study discontinuation, the incidence rate of venous thromboembolism among levonorgestrel and ethinyl estradiol users (n= 12,281) was 17.6 per 10,000 person-years, compared to 8.8 per 10,000 person-years among the users of cyclic oral contraceptives containing 20 mcg of ethinyl estradiol and a progestogen, and 5.1 per 10,000 person-years among the user of oral contraceptives containing the progestin levonorgestrel and 20 mcg of ethinyl estradiol.
+Though the study suggests an elevated risk of venous thromboembolism with current levonorgestrel and ethinyl estradiol use compared to these comparator cyclic oral hormonal contraceptives, the interpretation of the results is significantly limited due to the concerns over unmeasured and uncontrolled confounding, suitability of the comparator selection, and validity of the venous thromboembolism definition.
+
 A two-to-four fold increase in relative risk of postoperative thromboembolic complications has been reported with the use of oral contraceptives.
 The relative risk of venous thrombosis in women who have predisposing conditions is twice that of women without such medical conditions.
 If feasible, oral contraceptives should be discontinued at least four weeks prior to and for two weeks after elective surgery of a type associated with an increase in risk of thromboembolism and during and following prolonged immobilization.
@@ -313,15 +318,15 @@ The prescribing information of concomitant medications should be consulted to id
 
 Certain endocrine- and liver-function tests and blood components may be affected by oral contraceptives:
 
-- 1.Increased prothrombin and factors VII, VIII, IX, and X; decreased antithrombin 3; increased norepinephrine-induced platelet aggregability.
-- 2.Increased thyroid-binding globulin (TBG) leading to increased circulating total thyroid hormone, as measured by protein-bound iodine (PBI), T4 by column or by radioimmunoassay.
-  Free T3 resin uptake is decreased, reflecting the elevated TBG; free T4 concentration is unaltered.
-- 3.Other binding proteins may be elevated in serum ie, corticosteroid binding globulin (CBG), sex hormone-binding globulins (SHBG) leading to increased levels of total circulating corticosteroids and sex steroids, respectively.
-  Free or biologically active hormone concentrations are unchanged.
-- 4.Triglycerides may be increased and levels of various other lipids and lipoproteins may be affected.
-- 5.Glucose tolerance may be decreased.
-- 6.Serum folate levels may be depressed by oral contraceptive therapy.
-  This may be of clinical significance if a woman becomes pregnant shortly after discontinuing oral contraceptives.
+1. 1.Increased prothrombin and factors VII, VIII, IX, and X; decreased antithrombin 3; increased norepinephrine-induced platelet aggregability.
+2. 2.Increased thyroid-binding globulin (TBG) leading to increased circulating total thyroid hormone, as measured by protein-bound iodine (PBI), T4 by column or by radioimmunoassay.
+   Free T3 resin uptake is decreased, reflecting the elevated TBG; free T4 concentration is unaltered.
+3. 3.Other binding proteins may be elevated in serum ie, corticosteroid binding globulin (CBG), sex hormone-binding globulins (SHBG) leading to increased levels of total circulating corticosteroids and sex steroids, respectively.
+   Free or biologically active hormone concentrations are unchanged.
+4. 4.Triglycerides may be increased and levels of various other lipids and lipoproteins may be affected.
+5. 5.Glucose tolerance may be decreased.
+6. 6.Serum folate levels may be depressed by oral contraceptive therapy.
+   This may be of clinical significance if a woman becomes pregnant shortly after discontinuing oral contraceptives.
 
 ## 11. Carcinogenesis
 

@@ -52,19 +52,19 @@ Source: Trussell J. Contraceptive efficacy.
 In: Hatcher RA, Trussell J, Stewart F, Cates W, Stewart GK, Kowel D, Guest F. Contraceptive Technology: Seventeenth Revised Edition.
 New York NY: Irvington Publishers; 1998.
 
-- 1.Among typical couples who initiate use of a method (not necessarily for the first time), the percentage who experience an accidental pregnancy during the first year if they do not stop use for any other reason.
-- 2.Among couples who initiate use of a method (not necessarily for the first time) and who use it perfectly (both consistently and correctly), the percentage who experience an accidental pregnancy during the first year if they do not stop use for any other reason.
-- 3.Among couples attempting to avoid pregnancy, the percentage who continue to use a method for one year.
-- 4.The percents becoming pregnant in columns (2) and (3) are based on data from populations where contraception is not used and from women who cease using contraception in order to become pregnant.
-  Among such populations, about 89% become pregnant within one year.
-  This estimate was lowered slightly (to 85%) to represent the percent who would become pregnant within one year among women now relying on reversible methods of contraception if they abandoned contraception altogether.
-- 5.Foams, creams, gels, vaginal suppositories, and vaginal film.
-- 6.Cervical mucus (ovulation) method supplemented by calendar in the pre-ovulatory and basal body temperature in the post-ovulatory phases.
-- 7.With spermicidal cream or jelly.
-- 8.Without spermicides.
-- 9.The treatment schedule is one dose within 72 hours after unprotected intercourse and a second dose 12 hours after the first dose.
-  The FDA has declared the following dosage regimens of oral contraceptives to be safe and effective for emergency contraception: for tablets containing 0.05 mg of ethinyl estradiol and 0.50 mg of norgestrel 1 dose is 2 tablets; for tablets containing 0.02 mg of ethinyl estradiol and 0.1 mg of levonorgestrel 1 dose is 5 tablets; for tablets containing 0.03 mg of ethinyl estradiol and 0.15 mg of levonorgestrel 1 dose is 4 tablets.
-- 10.However, to maintain effective protection against pregnancy, another method of contraception must be used as soon as menstruation resumes, the frequency or duration of breastfeeds is reduced, bottle feeds are introduced, or the baby reaches 6 months of age.
+1. 1.Among typical couples who initiate use of a method (not necessarily for the first time), the percentage who experience an accidental pregnancy during the first year if they do not stop use for any other reason.
+2. 2.Among couples who initiate use of a method (not necessarily for the first time) and who use it perfectly (both consistently and correctly), the percentage who experience an accidental pregnancy during the first year if they do not stop use for any other reason.
+3. 3.Among couples attempting to avoid pregnancy, the percentage who continue to use a method for one year.
+4. 4.The percents becoming pregnant in columns (2) and (3) are based on data from populations where contraception is not used and from women who cease using contraception in order to become pregnant.
+   Among such populations, about 89% become pregnant within one year.
+   This estimate was lowered slightly (to 85%) to represent the percent who would become pregnant within one year among women now relying on reversible methods of contraception if they abandoned contraception altogether.
+5. 5.Foams, creams, gels, vaginal suppositories, and vaginal film.
+6. 6.Cervical mucus (ovulation) method supplemented by calendar in the pre-ovulatory and basal body temperature in the post-ovulatory phases.
+7. 7.With spermicidal cream or jelly.
+8. 8.Without spermicides.
+9. 9.The treatment schedule is one dose within 72 hours after unprotected intercourse and a second dose 12 hours after the first dose.
+   The FDA has declared the following dosage regimens of oral contraceptives to be safe and effective for emergency contraception: for tablets containing 0.05 mg of ethinyl estradiol and 0.50 mg of norgestrel 1 dose is 2 tablets; for tablets containing 0.02 mg of ethinyl estradiol and 0.1 mg of levonorgestrel 1 dose is 5 tablets; for tablets containing 0.03 mg of ethinyl estradiol and 0.15 mg of levonorgestrel 1 dose is 4 tablets.
+10. 10.However, to maintain effective protection against pregnancy, another method of contraception must be used as soon as menstruation resumes, the frequency or duration of breastfeeds is reduced, bottle feeds are introduced, or the baby reaches 6 months of age.
 
 ## Clinical Studies
 

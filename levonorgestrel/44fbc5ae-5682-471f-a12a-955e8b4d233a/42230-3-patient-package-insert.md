@@ -42,22 +42,22 @@ Although cardiovascular disease risks may be increased with oral contraceptive u
 Some women should not use the pill.
 For example, you should not take the pill if you have any of the following conditions:
 
-- •History of heart attack or stroke.
-- •Blood clots in the legs (thrombophlebitis), lungs (pulmonary embolism), or eyes.
-- •History of blood clots in the deep veins of your legs.
-- •Hereditary or acquired blood clotting disorders
-- •Chest pain (angina pectoris).
-- •Known or suspected breast cancer or cancer of the lining of the uterus, cervix or vagina, or certain hormonally-sensitive cancers.
-- •Unexplained vaginal bleeding (until a diagnosis is reached by your health care professional).
-- •Liver tumor (benign or cancerous) or active liver disease.
-- •Yellowing of the whites of the eyes or of the skin (jaundice) during pregnancy or during previous use of the pill.
-- •Known or suspected pregnancy.
-- •A need for surgery with prolonged bedrest.
-- •Heart valve or heart rhythm disorders that may be associated with formation of blood clots.
-- •Diabetes affecting your circulation.
-- •Headaches with neurological symptoms such as aura.
-- •Uncontrolled high blood pressure.
-- •Allergy or hypersensitivity to any of the components of levonorgestrel and ethinyl estradiol tablets
+1. •History of heart attack or stroke.
+2. •Blood clots in the legs (thrombophlebitis), lungs (pulmonary embolism), or eyes.
+3. •History of blood clots in the deep veins of your legs.
+4. •Hereditary or acquired blood clotting disorders
+5. •Chest pain (angina pectoris).
+6. •Known or suspected breast cancer or cancer of the lining of the uterus, cervix or vagina, or certain hormonally-sensitive cancers.
+7. •Unexplained vaginal bleeding (until a diagnosis is reached by your health care professional).
+8. •Liver tumor (benign or cancerous) or active liver disease.
+9. •Yellowing of the whites of the eyes or of the skin (jaundice) during pregnancy or during previous use of the pill.
+10. •Known or suspected pregnancy.
+11. •A need for surgery with prolonged bedrest.
+12. •Heart valve or heart rhythm disorders that may be associated with formation of blood clots.
+13. •Diabetes affecting your circulation.
+14. •Headaches with neurological symptoms such as aura.
+15. •Uncontrolled high blood pressure.
+16. •Allergy or hypersensitivity to any of the components of levonorgestrel and ethinyl estradiol tablets
 
 Tell your health care professional if you have had any of these conditions.
 Your health care professional can recommend another method of birth control.
@@ -66,15 +66,15 @@ Your health care professional can recommend another method of birth control.
 
 Tell your health care professional if you or any family member has ever had:
 
-- •Breast nodules, fibrocystic disease of the breast, an abnormal breast X-ray or mammogram.
-- •Diabetes.
-- •Elevated cholesterol or triglycerides.
-- •High blood pressure.
-- •A tendency to form blood clots.
-- •Migraine or other headaches or epilepsy.
-- •Depression.
-- •Gallbladder, liver, heart, or kidney disease.
-- •History of scanty or irregular menstrual periods.
+1. •Breast nodules, fibrocystic disease of the breast, an abnormal breast X-ray or mammogram.
+2. •Diabetes.
+3. •Elevated cholesterol or triglycerides.
+4. •High blood pressure.
+5. •A tendency to form blood clots.
+6. •Migraine or other headaches or epilepsy.
+7. •Depression.
+8. •Gallbladder, liver, heart, or kidney disease.
+9. •History of scanty or irregular menstrual periods.
 
 Women with any of these conditions should be checked often by their health care professional if they choose to use oral contraceptives.
 Also, be sure to inform your health care professional if you smoke or are on any medications.
@@ -196,15 +196,15 @@ Older women, as all women, who take oral contraceptives, should take an oral con
 
 If any of these adverse effects occur while you are taking oral contraceptives, call your health care professional immediately:
 
-- •Sharp chest pain, coughing of blood, or sudden shortness of breath (indicating a possible clot in the lung).
-- •Pain in the calf (indicating a possible clot in the leg).
-- •Crushing chest pain or heaviness in the chest (indicating a possible heart attack).
-- •Sudden severe headache or vomiting, dizziness or fainting, disturbances of vision or speech, weakness, or numbness in an arm or leg (indicating a possible stroke).
-- •Sudden partial or complete loss of vision (indicating a possible clot in the eye).
-- •Breast lumps (indicating possible breast cancer or fibrocystic disease of the breast; ask your health care professional to show you how to examine your breasts).
-- •Severe pain or tenderness in the stomach area (indicating a possibly ruptured liver tumor).
-- •Difficulty in sleeping, weakness, lack of energy, fatigue, or change in mood (possibly indicating severe depression).
-- •Jaundice or a yellowing of the skin or eyeballs, accompanied frequently by fever, fatigue, loss of appetite, dark-colored urine, or light-colored bowel movements (indicating possible liver problems).
+1. •Sharp chest pain, coughing of blood, or sudden shortness of breath (indicating a possible clot in the lung).
+2. •Pain in the calf (indicating a possible clot in the leg).
+3. •Crushing chest pain or heaviness in the chest (indicating a possible heart attack).
+4. •Sudden severe headache or vomiting, dizziness or fainting, disturbances of vision or speech, weakness, or numbness in an arm or leg (indicating a possible stroke).
+5. •Sudden partial or complete loss of vision (indicating a possible clot in the eye).
+6. •Breast lumps (indicating possible breast cancer or fibrocystic disease of the breast; ask your health care professional to show you how to examine your breasts).
+7. •Severe pain or tenderness in the stomach area (indicating a possibly ruptured liver tumor).
+8. •Difficulty in sleeping, weakness, lack of energy, fatigue, or change in mood (possibly indicating severe depression).
+9. •Jaundice or a yellowing of the skin or eyeballs, accompanied frequently by fever, fatigue, loss of appetite, dark-colored urine, or light-colored bowel movements (indicating possible liver problems).
 
 ## SIDE EFFECTS OF ORAL CONTRACEPTIVES
 
@@ -317,56 +317,56 @@ Important Points to Remember
 
 Before You Start Taking levonorgestrel and ethinyl estradiol:
 
-- 1.BE SURE TO READ THESE DIRECTIONS: Before you start taking levonorgestrel and ethinyl estradiol.
-  And Anytime you are not sure what to do.
-- 2.THE RIGHT WAY TO TAKE LEVONORGESTREL AND ETHINYL ESTRADIOL IS TO TAKE ONE PILL EVERY DAY AT THE SAME TIME.
-  If you miss pills, you could get pregnant.
-  This includes starting the pack late.
-  The more pills you miss, the more likely you are to get pregnant.
-  See “WHAT TO DO IF YOU MISS PILLS” below.
-- 3.MANY WOMEN HAVE SPOTTING OR LIGHT BLEEDING, OR MAY FEEL SICK TO THEIR STOMACH DURING THE FIRST 1-3 PACKS OF PILLS.
-  If you feel sick to your stomach, do not stop taking levonorgestrel and ethinyl estradiol.
-  This will usually go away.
-  If it doesn't go away, check with your health care professional.
-- 4.MOST WOMEN HAVE SPOTTING OR BLEEDING DURING THE FIRST FEW MONTHS OF TAKING LEVONORGESTREL AND ETHINYL ESTRADIOL.
-  Do not stop taking your pills even if you are having bleeding or spotting.
-  If the bleeding or spotting lasts for more than 7 consecutive days, talk to your health care provider.
-- 5.MISSING PILLS CAN ALSO CAUSE SPOTTING OR LIGHT BLEEDING, even when you make up these missed pills.
-  On the days you take 2 pills to make up for missed pills, you could also feel a little sick to your stomach.
-- 6.IF YOU VOMIT (within 4 hours after you take your pill), you should follow the instructions for WHAT TO DO IF YOU MISS PILLS.
-  IF YOU HAVE DIARRHEA or IF YOU TAKE SOME MEDICINES, including some antibiotics, your pills may not work as well.
-  Use a back-up nonhormonal method (such as condoms and/or spermicide) until you check with your health care professional.
-- 7.IF YOU HAVE TROUBLE REMEMBERING TO TAKE LEVONORGESTREL AND ETHINYL ESTRADIOL, talk to your health care professional about how to make pill-taking easier or about using another method of birth control.
-- 8.IF YOU HAVE ANY QUESTIONS OR ARE UNSURE ABOUT THE INFORMATION IN THIS LEAFLET, call your health care professional.
+1. 1.BE SURE TO READ THESE DIRECTIONS: Before you start taking levonorgestrel and ethinyl estradiol.
+   And Anytime you are not sure what to do.
+2. 2.THE RIGHT WAY TO TAKE LEVONORGESTREL AND ETHINYL ESTRADIOL IS TO TAKE ONE PILL EVERY DAY AT THE SAME TIME.
+   If you miss pills, you could get pregnant.
+   This includes starting the pack late.
+   The more pills you miss, the more likely you are to get pregnant.
+   See “WHAT TO DO IF YOU MISS PILLS” below.
+3. 3.MANY WOMEN HAVE SPOTTING OR LIGHT BLEEDING, OR MAY FEEL SICK TO THEIR STOMACH DURING THE FIRST 1-3 PACKS OF PILLS.
+   If you feel sick to your stomach, do not stop taking levonorgestrel and ethinyl estradiol.
+   This will usually go away.
+   If it doesn't go away, check with your health care professional.
+4. 4.MOST WOMEN HAVE SPOTTING OR BLEEDING DURING THE FIRST FEW MONTHS OF TAKING LEVONORGESTREL AND ETHINYL ESTRADIOL.
+   Do not stop taking your pills even if you are having bleeding or spotting.
+   If the bleeding or spotting lasts for more than 7 consecutive days, talk to your health care provider.
+5. 5.MISSING PILLS CAN ALSO CAUSE SPOTTING OR LIGHT BLEEDING, even when you make up these missed pills.
+   On the days you take 2 pills to make up for missed pills, you could also feel a little sick to your stomach.
+6. 6.IF YOU VOMIT (within 4 hours after you take your pill), you should follow the instructions for WHAT TO DO IF YOU MISS PILLS.
+   IF YOU HAVE DIARRHEA or IF YOU TAKE SOME MEDICINES, including some antibiotics, your pills may not work as well.
+   Use a back-up nonhormonal method (such as condoms and/or spermicide) until you check with your health care professional.
+7. 7.IF YOU HAVE TROUBLE REMEMBERING TO TAKE LEVONORGESTREL AND ETHINYL ESTRADIOL, talk to your health care professional about how to make pill-taking easier or about using another method of birth control.
+8. 8.IF YOU HAVE ANY QUESTIONS OR ARE UNSURE ABOUT THE INFORMATION IN THIS LEAFLET, call your health care professional.
 
 ## BEFORE YOU START TAKING LEVONORGESTREL AND ETHINYL ESTRADIOL
 
-- 1.DECIDE WHAT TIME OF DAY YOU WANT TO TAKE YOUR PILL.
-  It is important to take your pill at the SAME TIME every day.
-- 2.LOOK AT YOUR LEVONORGESTREL AND ETHINYL ESTRADIOL BLISTER CARD.
-  The pill pack has 28 “active” brownish peach to light brown pills (with hormones).
-- 3.Locate the top row of the blister card.
-- 4.Pick the day label strip that starts with the first day of your period (this is the day you start bleeding or spotting, even if it is almost midnight when the bleeding begins).
-- 5.Place the day label strip on the tablet blister card over the area that has the days of the week (starting with Sunday) imprinted in the plastic.
+1. 1.DECIDE WHAT TIME OF DAY YOU WANT TO TAKE YOUR PILL.
+   It is important to take your pill at the SAME TIME every day.
+2. 2.LOOK AT YOUR LEVONORGESTREL AND ETHINYL ESTRADIOL BLISTER CARD.
+   The pill pack has 28 “active” brownish peach to light brown pills (with hormones).
+3. 3.Locate the top row of the blister card.
+4. 4.Pick the day label strip that starts with the first day of your period (this is the day you start bleeding or spotting, even if it is almost midnight when the bleeding begins).
+5. 5.Place the day label strip on the tablet blister card over the area that has the days of the week (starting with Sunday) imprinted in the plastic.
 
-- 6.When it comes time to take levonorgestrel and ethinyl estradiol, you will take each pill until the blister card is empty.
-- 7.BE SURE YOU HAVE READY AT ALL TIMES: ANOTHER KIND OF NONHORMONAL BIRTH CONTROL (such as condoms and/or spermicide) to use as a back-up in case you miss pills.
-  AN EXTRA, FULL PILL PACK.
+1. 6.When it comes time to take levonorgestrel and ethinyl estradiol, you will take each pill until the blister card is empty.
+2. 7.BE SURE YOU HAVE READY AT ALL TIMES: ANOTHER KIND OF NONHORMONAL BIRTH CONTROL (such as condoms and/or spermicide) to use as a back-up in case you miss pills.
+   AN EXTRA, FULL PILL PACK.
 
 ## WHEN TO START THE FIRST PACK OF LEVONORGESTREL AND ETHINYL ESTRADIOL
 
 Day 1 Start
 
-- 1.Take the first “active” brownish peach to light brown pill of the first pack during the first 24 hours of your period.
-- 2.You will not need to use a back-up nonhormonal method of birth control, since you are starting the pill at the beginning of your period.
+1. 1.Take the first “active” brownish peach to light brown pill of the first pack during the first 24 hours of your period.
+2. 2.You will not need to use a back-up nonhormonal method of birth control, since you are starting the pill at the beginning of your period.
 
 ## WHAT TO DO DURING THE MONTH
 
-- 1.TAKE ONE PILL AT THE SAME TIME EVERY DAY UNTIL THE BLISTER PACK IS EMPTY.
-  Do not skip pills even if you are spotting or bleeding or feel sick to your stomach (nausea).
-  Do not skip pills even if you do not have sex very often.
-- 2.WHEN YOU FINISH A PACK Start the next pack on the day after your last pill.
-  Do not wait any days between packs.
+1. 1.TAKE ONE PILL AT THE SAME TIME EVERY DAY UNTIL THE BLISTER PACK IS EMPTY.
+   Do not skip pills even if you are spotting or bleeding or feel sick to your stomach (nausea).
+   Do not skip pills even if you do not have sex very often.
+2. 2.WHEN YOU FINISH A PACK Start the next pack on the day after your last pill.
+   Do not wait any days between packs.
 
 ## IF YOU SWITCH FROM ANOTHER BRAND OF COMBINATION PILLS:
 
@@ -434,14 +434,14 @@ This drug has been prescribed specifically for you; do not give it to others who
 In addition to preventing pregnancy, some information suggests that the use of oral contraceptives provide certain other benefits.
 The benefits are:
 
-- •Decreased blood loss, and less iron may be lost.
-  Therefore, anemia due to iron deficiency is less likely to occur.
-- •Pain or other cycle-related symptoms may occur less frequently.
-- •Ovarian cysts may occur less frequently.
-- •Ectopic (tubal) pregnancy may occur less frequently.
-- •Noncancerous cysts or lumps in the breast may occur less frequently.
-- •Acute pelvic inflammatory disease may occur less frequently.
-- •Oral contraceptive use may provide some protection against developing two forms of cancer: cancer of the ovaries and cancer of the lining of the uterus.
+1. •Decreased blood loss, and less iron may be lost.
+   Therefore, anemia due to iron deficiency is less likely to occur.
+2. •Pain or other cycle-related symptoms may occur less frequently.
+3. •Ovarian cysts may occur less frequently.
+4. •Ectopic (tubal) pregnancy may occur less frequently.
+5. •Noncancerous cysts or lumps in the breast may occur less frequently.
+6. •Acute pelvic inflammatory disease may occur less frequently.
+7. •Oral contraceptive use may provide some protection against developing two forms of cancer: cancer of the ovaries and cancer of the lining of the uterus.
 
 If you want more information about birth-control pills, ask your health care professional or pharmacist.
 They have a more technical leaflet called the Professional Labeling which you may wish to read.
@@ -457,4 +457,4 @@ Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
 Questions?
 1 (888)721-7115 www.glenmarkpharma.com/usa
 
-July 2015
+March 2016
