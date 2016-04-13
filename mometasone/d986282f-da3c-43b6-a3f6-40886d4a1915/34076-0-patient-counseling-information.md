@@ -3,7 +3,7 @@
 Inform patients of the following:
 
 - •Use Mometasone Furoate Ointment USP, 0.1% as directed by the physician.
-- It is for external use only.
+  It is for external use only.
 - •Avoid contact with the eyes.
 - •Do not use Mometasone Furoate Ointment USP, 0.1% on the face, underarms, or groin areas.
 - •Do not use Mometasone Furoate Ointment USP, 0.1% for any disorder other than that for which it was prescribed.
