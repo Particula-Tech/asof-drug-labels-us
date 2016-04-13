@@ -7,4 +7,4 @@ Bupropion hydrochloride extended-release tablets (SR), 200 mg of bupropion hydro
 | Bottles of 180 | NDC 0115-5445-19 |
 
 Store at 20°C to 25°C (68°F to 77°F) [see USP Controlled Room Temperature].
-Protect from light and moisture.
+Protect from light.

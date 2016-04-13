@@ -40,7 +40,7 @@ Reported adverse reactions were classified using a COSTART-based Dictionary.
 Table 3.
 Adverse Reactions Reported by at Least 1% of Subjects and at a Greater Frequency Than Placebo in Controlled Clinical Trials
 
-| Body System/ Adverse Reaction | Bupropion Hydrochloride Extended- Release Tablets (SR) 300 mg/day (n = 376) | Bupropion Hydrochloride Extended- Release Tablets (SR) 400 mg/day (n = 114) | Placebo (n = 385) |
+| Body System/ Adverse Reaction | Bupropion Hydrochloride Extended-Release Tablets (SR) 300 mg/day (n = 376) | Bupropion Hydrochloride Extended-Release Tablets (SR) 400 mg/day (n = 114) | Placebo (n = 385) |
 | --- | --- | --- | --- |
 | Body (General) |  |  |  |
 | Headache | 26% | 25% | 23% |
@@ -49,10 +49,10 @@ Adverse Reactions Reported by at Least 1% of Subjects and at a Greater Frequency
 | Asthenia | 2% | 4% | 2% |
 | Chest pain | 3% | 4% | 1% |
 | Pain | 2% | 3% | 2% |
-| Fever | 1% | 2% | — |
+| Fever | 1% | 2% | Adverse events occurring in greater than 0 but less than 0.5% of subjects. |
 | Cardiovascular |  |  |  |
 | Palpitation | 2% | 6% | 2% |
-| Flushing | 1% | 4% | — |
+| Flushing | 1% | 4% |  |
 | Migraine | 1% | 4% | 1% |
 | Hot flashes | 1% | 3% | 1% |
 | Digestive |  |  |  |
@@ -67,7 +67,7 @@ Adverse Reactions Reported by at Least 1% of Subjects and at a Greater Frequency
 | Myalgia | 2% | 6% | 3% |
 | Arthralgia | 1% | 4% | 1% |
 | Arthritis | 0% | 2% | 0% |
-| Twitch | 1% | 2% | — |
+| Twitch | 1% | 2% |  |
 | Nervous system |  |  |  |
 | Insomnia | 11% | 16% | 6% |
 | Dizziness | 7% | 11% | 5% |
@@ -77,7 +77,7 @@ Adverse Reactions Reported by at Least 1% of Subjects and at a Greater Frequency
 | Nervousness | 5% | 3% | 3% |
 | Somnolence | 2% | 3% | 2% |
 | Irritability | 3% | 2% | 2% |
-| Memory decreased | — | 3% | 1% |
+| Memory decreased |  | 3% | 1% |
 | Paresthesia | 1% | 2% | 1% |
 | Central nervous system stimulation | 2% | 1% | 1% |
 | Respiratory |  |  |  |
@@ -91,14 +91,13 @@ Adverse Reactions Reported by at Least 1% of Subjects and at a Greater Frequency
 | Urticaria | 2% | 1% | 0% |
 | Special senses |  |  |  |
 | Tinnitus | 6% | 6% | 2% |
-| Taste perversion | 2% | 4% | — |
+| Taste perversion | 2% | 4% |  |
 | Blurred vision or diplopia | 3% | 2% | 2% |
 | Urogenital |  |  |  |
 | Urinary frequency | 2% | 5% | 2% |
-| Urinary urgency | — | 2% | 0% |
-| Vaginal hemorrhageIncidence based on the number of female subjects. | 0% | 2% | — |
-| Urinary tract infection | 1% | 0% | — |
-| — Hyphen denotes adverse events occurring in greater than 0 but less than 0.5% of subjects. |  |  |  |
+| Urinary urgency |  | 2% | 0% |
+| Vaginal hemorrhageIncidence based on the number of female subjects. | 0% | 2% |  |
+| Urinary tract infection | 1% | 0% |  |
 
 Other Adverse Reactions Observed During the Clinical Development of Bupropion: In addition to the adverse reactions noted above, the following adverse reactions have been reported in clinical trials with the sustained-release formulation of bupropion in depressed subjects and in nondepressed smokers, as well as in clinical trials with the immediate-release formulation of bupropion.
 

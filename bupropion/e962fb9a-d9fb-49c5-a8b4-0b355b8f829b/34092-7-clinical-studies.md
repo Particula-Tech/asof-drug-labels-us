@@ -12,17 +12,17 @@ This trial demonstrated the efficacy of the immediate-release formulation of bup
 Table 6.
 Efficacy of Immediate-Release Bupropion for the Treatment of Major Depressive Disorder
 
-| Trial Number | Treatment Group | Mean Baseline Score (SD) | LS Mean Score at Endpoint Visit (SE) | Placebo subtracted DifferenceDifference (drug minus placebo) in least-squares estimates with respect to the primary efficacy parameter. For Trial 1, it refers to the mean score at the endpoint visit; for Trials 2 and 3, it refers to the mean change from baseline to the endpoint visit. (95% CI) |
+| Primary Efficacy Measure: HDRS |  |  |  |  |
 | --- | --- | --- | --- | --- |
-|  |  | Primary Efficacy Measure: HDRS |  |  |
+| Trial Number | Treatment Group | Mean Baseline Score (SD) | LS Mean Score at Endpoint Visit (SE) | Placebo subtracted DifferenceDifference (drug minus placebo) in least-squares estimates with respect to the primary efficacy parameter. For Trial 1, it refers to the mean score at the endpoint visit; for Trial 2 and 3, it refers to the mean change from baseline to the endpoint visit. (95% CI) |
 | Trial 1 | Immediate-Release Bupropion 300 600 mg/dayDoses that are demonstrated to be statistically significantly superior to placebo. (n = 48) | 28.5 (5.1) | 14.9 (1.3) | -4.7 (-8.8, -0.6) |
-|  | Placebo (n = 27) | 29.3 (7.0) | 19.6 (1.6) | -- |
+| Placebo (n = 27) | 29.3 (7.0) | 19.6 (1.6) | -- |  |
 |  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference (95% CI) |
 | Trial 2 | Immediate-Release Bupropion 300 mg/day (n = 36) | 32.4 (5.9) | -15.5 (1.7) | -4.1 |
-|  | Immediate-Release Bupropion 450 mg/day (n = 34) | 34.8 (4.6) | -17.4 (1.7) | -5.9 (-10.5, -1.4) |
-|  | Placebo (n = 39) | 32.9 (5.4) | -11.5 (1.6) | -- |
+| Immediate-Release Bupropion 450 mg/day (n = 34) | 34.8 (4.6) | -17.4 (1.7) | -5.9 (-10.5, -1.4) |  |
+| Placebo (n = 39) | 32.9 (5.4) | -11.5 (1.6) | -- |  |
 | Trial 3 | Immediate-Release Bupropion 300 mg/day (n = 110) | 26.5 (4.3) | -12.0 (NA) | -3.9 (-5.7, -1.0) |
-|  | Placebo (n = 106) | 27.0 (3.5) | -8.7 (NA) | -- |
+| Placebo (n = 106) | 27.0 (3.5) | -8.7 (NA) | -- |  |
 | n: sample size; SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval included for doses that were demonstrated to be effective; NA: not available. |  |  |  |  |
 
 Although there are not as yet independent trials demonstrating the antidepressant effectiveness of the sustained-release formulation of bupropion, trials have demonstrated the bioequivalence of the immediate-release and sustained-release forms of bupropion under steady-state conditions, i.e., bupropion sustained-release 150 mg twice daily was shown to be bioequivalent to 100 mg 3 times daily of the immediate-release formulation of bupropion, with regard to both rate and extent of absorption, for parent drug and metabolites.

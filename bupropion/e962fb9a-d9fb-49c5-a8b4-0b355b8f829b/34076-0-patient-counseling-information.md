@@ -47,7 +47,7 @@ Pregnancy: Advise patients to notify their healthcare provider if they become pr
 
 Precautions for Nursing Mothers: Advise patients that bupropion hydrochloride extended-release tablets (SR) are present in human milk in small amounts.
 
-Storage Information: Instruct patients to store bupropion hydrochloride extended-release tablets (SR) at room temperature, between 59°F and 86°F (15°C to 30°C) and keep the tablets dry and out of the light.
+Storage Information: Instruct patients to store bupropion hydrochloride extended-release tablets (SR) at room temperature, between 20°C to 25°C (68°F to 77°F) and keep the tablets dry and out of the light.
 
 Administration Information: Instruct patients to swallow bupropion hydrochloride extended-release tablets (SR) whole so that the release rate is not altered.
 Do not chew, divide, or crush tablets; they are designed to slowly release drug in the body.

@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 200 mg - 60 tablet bottle
 
-GLOBAL®
+Impax Generics
 
 NDC 0115-5445-13
 

@@ -12,3 +12,4 @@ The structural formula is:
 Bupropion hydrochloride extended-release tablets (SR) are supplied for oral administration as 200 mg, film-coated, extended-release tablets.
 Each tablet contains the labeled amount of bupropion hydrochloride and the inactive ingredients: colloidal silicon dioxide, hydroxypropyl cellulose, magnesium stearate, and microcrystalline cellulose.
 The film-coating material contains FD&C Yellow No. 6, hypromellose type 2910/ 3cP, 6cP and 50cP, macrogol, polydextrose, titanium dioxide, and triacetin.
+This product meets USP Dissolution Test #3.

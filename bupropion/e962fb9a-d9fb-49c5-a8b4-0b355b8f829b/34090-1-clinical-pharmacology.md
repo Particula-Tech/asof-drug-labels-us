@@ -70,7 +70,7 @@ In subjects with severe hepatic cirrhosis, significant alterations in the pharma
 Table 5.
 Pharmacokinetics of Bupropion and Metabolites in Patients With Severe Hepatic Cirrhosis: Ratio Relative to Healthy Matched Controls
 
-|  | Cmax | AUC | t½ | Tmax= Difference. |
+|  | Cmax | AUC | t½ | Tmax* |
 | --- | --- | --- | --- | --- |
 | Bupropion | 1.69 | 3.12 | 1.43 | 0.5 h |
 | Hydroxybupropion | 0.31 | 1.28 | 3.88 | 19 h |
@@ -95,7 +95,7 @@ In addition, in vitro studies suggest that paroxetine, sertraline, norfluoxetine
 
 Inhibitors of CYP2B6: Ticlopidine, Clopidogrel: In a trial in healthy male volunteers, clopidogrel 75 mg once daily or ticlopidine 250 mg twice daily increased exposures (Cmax and AUC) of bupropion by 40% and 60% for clopidogrel, and by 38% and 85% for ticlopidine, respectively.
 The exposures (Cmax and AUC) of hydroxybupropion were decreased 50% and 52%, respectively, by clopidogrel, and 78% and 84%, respectively, by ticlopidine.
-This effect is thought to be due to the inhibition of the CYP2B6-catalyzed bupropion hydroxylation.
+This effect is thought to be due to the inhibition of the CYP2B6- catalyzed bupropion hydroxylation.
 
 Prasugrel: Prasugrel is a weak inhibitor of CYP2B6.
 In healthy subjects, prasugrel increased bupropion Cmax and AUC values by 14% and 18%, respectively, and decreased Cmax and AUC values of hydroxybupropion, an active metabolite of bupropion, by 32% and 24%, respectively.

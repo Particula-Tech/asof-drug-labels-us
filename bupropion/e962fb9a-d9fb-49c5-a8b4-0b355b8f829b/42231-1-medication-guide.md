@@ -1,6 +1,4 @@
-# MEDICATION GUIDE
-
-Bupropion Hydrochloride Extended-Release Tablets (SR), 200 mg
+# MEDICATION GUIDE Bupropion (bue-PROE-pee-on) Hydrochloride Extended-Release Tablets (SR), 200 mg
 
 Read this Medication Guide carefully before you start taking bupropion hydrochloride extended-release tablets (SR) and each time you get a refill.
 There may be new information.
@@ -122,6 +120,7 @@ You may want to undergo an eye examination to see if you are at risk and receive
   These could be signs of a serious allergic reaction.
 
 What are bupropion hydrochloride extended-release tablets (SR)?
+
 Bupropion hydrochloride extended-release tablets (SR) are a prescription medicine used to treat adults with a certain type of depression called major depressive disorder.
 
 Who should not take bupropion hydrochloride extended-release tablets (SR)?
@@ -159,7 +158,7 @@ Tell your healthcare provider about your other medical conditions including if y
 - abuse prescription medicines or street drugs.
 - are pregnant or plan to become pregnant.
 - are breastfeeding.
-  Bupropion hydrochloride extended-release tablets (SR) pass into your milk in small amounts.
+  Bupropion passes into your milk in small amounts.
 
 Tell your healthcare provider about all the medicines you take, including prescription, over-the-counter medicines, vitamins, and herbal supplements.
 Many medicines increase your chances of having seizures or other serious side effects if you take them while you are taking bupropion hydrochloride extended-release tablets (SR).
@@ -220,7 +219,7 @@ You may also report side effects to Impax Laboratories, Inc. at 1-800-934-6729.
 
 How should I store bupropion hydrochloride extended-release tablets (SR)?
 
-- Store bupropion hydrochloride extended-release tablets (SR) at room temperature between 59°F and 86°F (15°C to 30°C).
+- Store bupropion hydrochloride extended-release tablets (SR) at room temperature between 20°C to 25°C (68°F to 77°F).
 - Keep bupropion hydrochloride extended-release tablets (SR) dry and out of the light.
 - Bupropion hydrochloride extended-release tablets (SR) may have an odor.
 
@@ -258,9 +257,7 @@ APLENZIN® is a registered trademark of sanofi-aventis U.S. LLC.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Mfg. by: IMPAX Laboratories, Inc. Hayward, CA 94544 USA
+Dist. by: Impax Generics Hayward, CA 94544
 
-Dist. by: Global Pharmaceuticals Division of IMPAX Laboratories, Inc. Philadelphia, PA 19124 USA
-
-444-15 Rev.
-07/2014
+444-17 Rev.
+01/2016
