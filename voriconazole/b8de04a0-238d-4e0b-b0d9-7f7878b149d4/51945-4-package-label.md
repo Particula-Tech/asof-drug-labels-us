@@ -22,7 +22,7 @@ voriconazole tablets
 
 Rx only
 
-PRINCIPAL DISPLAY PANEL - 40 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 40 mg Bottle Label
 
 NDC 59762-0935-3
 
