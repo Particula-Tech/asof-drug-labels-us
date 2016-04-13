@@ -2,7 +2,7 @@
 
 The following important adverse reactions are described below and elsewhere in the labeling:
 
-- Lactic Acidosis [see Boxed Warning and Warnings and Precautions (5.1,, 5.4, 5.6, 5.10, 5.11)]
+- Lactic Acidosis [see Boxed Warning and Warnings and Precautions (5.1, 5.4, 5.6, 5.10, 5.11)]
 - Hypotension [see Warnings and Precautions (5.2)]
 - Ketoacidosis [see Warnings and Precautions (5.3)]
 - Impairment in Renal Function [see Warnings and Precautions (5.4)]
@@ -128,7 +128,7 @@ Table 4 Incidence of Overalla and Severeb Hypoglycemic Events in Placebo-Control
 | In Combination with Basal Insulin (18 weeksc) | Placebo (n=170) | Empagliflozin 10 mg (n=169) | Empagliflozin 25 mg (n=155) |
 | Overall (%) | 20.6% | 19.5% | 28.4% |
 | Severe (%) | 0% | 0% | 1.3% |
-| In Combination with MDI Insulin +/-Metformin (18 weeksc) | Placebo (n=188) | Empagliflozin 10 mg (n=186) | Empagliflozin 25 mg (n=189) |
+| In Combination with MDI Insulin +/- Metformin (18 weeksc) | Placebo (n=188) | Empagliflozin 10 mg (n=186) | Empagliflozin 25 mg (n=189) |
 | Overall (%) | 37.2% | 39.8% | 41.3% |
 | Severe (%) | 0.5% | 0.5% | 0.5% |
 | aOverall hypoglycemic events: plasma or capillary glucose of less than or equal to 70 mg/dL bSevere hypoglycemic events: requiring assistance regardless of blood glucose cInsulin dose could not be adjusted during the initial 18 week treatment period |  |  |  |
