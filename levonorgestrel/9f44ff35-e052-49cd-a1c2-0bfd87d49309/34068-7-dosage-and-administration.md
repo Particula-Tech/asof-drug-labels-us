@@ -51,6 +51,7 @@ Use strict aseptic techniques throughout the insertion procedure [see Warnings a
 
 - •Exclude pregnancy and confirm that there are no other contraindications to the use of Skyla.
 - •Ensure that the patient understands the contents of the Patient Information Booklet and obtain the signed patient informed consent located on the last page of the Patient Information Booklet.
+- •Check expiration date of Skyla prior to initiating insertion.
 - •With the patient comfortably in lithotomy position, do a bimanual exam to establish the size, shape and position of the uterus.
 - •Gently insert a speculum to visualize the cervix.
 - •Thoroughly cleanse the cervix and vagina with a suitable antiseptic solution.

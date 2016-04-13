@@ -29,7 +29,7 @@ Follow her pregnancy closely and advise her to report immediately any symptom th
 ### Long-term effects and congenital anomalies
 
 When pregnancy continues with Skyla in place, long-term effects on the offspring are unknown.
-With another LNG IUS, congenital anomalies in live births have occurred infrequently.
+With a LNG-releasing IUS, congenital anomalies in live births have occurred infrequently.
 No clear trend towards specific anomalies has been observed.
 Because of the local exposure of the fetus to LNG, the possibility of teratogenicity following exposure to Skyla cannot be completely excluded.
 Some observational data support a small increased risk of masculinization of the external genitalia of the female fetus following exposure to progestins at doses greater than those currently used for oral contraception.
@@ -37,7 +37,7 @@ Whether these data apply to Skyla is unknown.
 
 ## 5.3 Sepsis
 
-Severe infection or sepsis, including Group A streptococcal sepsis (GAS), have been reported following insertion of another LNG IUS.
+Severe infection or sepsis, including Group A streptococcal sepsis (GAS), have been reported following insertion of a LNG-releasing IUS.
 In some cases, severe pain occurred within hours of insertion followed by sepsis within days.
 Because death from GAS is more likely if treatment is delayed, it is important to be aware of these rare but serious infections.
 Aseptic technique during insertion of Skyla is essential in order to minimize serious infections such as GAS.
@@ -94,7 +94,7 @@ Table 1: Bleeding Patterns Reported with Skyla in Contraception Studies (by 90-d
 | Infrequent bleedingDefined as subjects with 1 or 2 bleeding/spotting episodes in the 90-day reference period | 8% | 19% | 20% | 22% |
 | Frequent bleedingDefined as subjects with more than 5 bleeding/spotting episodes in the 90-day reference period | 31% | 12% | 8% | 4% |
 | Prolonged bleedingDefined as subjects with bleeding/spotting episodes lasting more than 14 days in the 90-day reference period. Subjects with prolonged bleeding may also be included in one of the other categories (excluding amenorrhea) | 59% | 17% | 9% | 3% |
-| Irregular bleedingDefined as subjects with 3 to 5 bleeding/spotting episodes and less than 3 bleeding/spotting-free intervals of 14 or more days | 42% | 28% | 23% | – The End of year 3 result for irregular bleeding in particular is artificially inflated (46%) because removal was not timed to coincide with a complete 90-day reference period. The result from the preceding 90-day reference period (17%) provides a more relevant indication of the observed incidence near the end of the 3-year period. |
+| Irregular bleedingDefined as subjects with 3 to 5 bleeding/spotting episodes and less than 3 bleeding/spotting-free intervals of 14 or more days | 42% | 28% | 23% | –The End of year 3 result for irregular bleeding in particular is artificially inflated (46%) because removal was not timed to coincide with a complete 90-day reference period. The result from the preceding 90-day reference period (17%) provides a more relevant indication of the observed incidence near the end of the 3-year period. |
 
 Table 2: Mean number of Bleeding and Spotting Days per 28-day Cycle Equivalent
 
@@ -150,8 +150,8 @@ Surgical intervention is not usually required.
 
 Women who currently have or have had breast cancer, or have a suspicion of breast cancer, should not use hormonal contraception because some breast cancers are hormone-sensitive [see Contraindications (4)].
 
-Spontaneous reports of breast cancer have been received during postmarketing experience with another LNG IUS.
-Two observational studies have not provided evidence of an increased risk of breast cancer during the use of the other LNG IUS.
+Spontaneous reports of breast cancer have been received during postmarketing experience with a LNG-releasing IUS.
+Observational studies of the risk of breast cancer with use of a LNG-releasing IUS do not provide conclusive evidence of increased risk.
 
 ## 5.10 Clinical Considerations for Use and Removal
 

@@ -11,7 +11,7 @@ The few studies of infant growth and development that have been conducted with p
 
 In general, no adverse effects of progestin-only contraceptives have been found on breastfeeding performance or on the health, growth, or development of the infant.
 Isolated postmarketing cases of decreased milk production have been reported.
-Small amounts of progestins were observed to pass into the breast milk of nursing mothers who used another LNG IUS, resulting in detectable steroid levels in infant serum.
+Small amounts of progestins were observed to pass into the breast milk of nursing mothers who used a LNG-releasing IUS, resulting in detectable steroid levels in infant serum.
 [See Warnings and Precautions (5.6).]
 
 ## 8.4 Pediatric Use

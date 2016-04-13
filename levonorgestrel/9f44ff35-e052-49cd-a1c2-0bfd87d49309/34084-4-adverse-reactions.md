@@ -49,8 +49,9 @@ Table 3: Adverse reactions that occurred in at least 1% of Skyla users in clinic
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post approval use of another LNG IUS.
+The following adverse reactions have been identified during post approval use of a LNG-releasing IUS.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
+- •Arterial thrombotic and venous thromboembolic events, including cases of pulmonary emboli, deep vein thrombosis and stroke
 - •Hypersensitivity including rash, urticaria, and angioedema
 - •Device breakage
