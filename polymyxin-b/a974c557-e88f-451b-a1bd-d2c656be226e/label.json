@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA206589"
+  ],
+  "inn": "polymyxin-b",
+  "labeler": "AuroMedics Pharma LLC",
+  "package_ndcs": [
+    "55150-234-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "polymyxin b",
+      "name": "Polymyxin B"
+    }
+  ],
+  "setid": "a974c557-e88f-451b-a1bd-d2c656be226e",
+  "source": "dailymed"
+}
