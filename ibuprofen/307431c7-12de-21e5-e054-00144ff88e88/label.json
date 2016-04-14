@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021903"
+  ],
+  "inn": "ibuprofen",
+  "labeler": "Prasco Laboratories",
+  "package_ndcs": [
+    "66993-490-36"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "ibuprofen lysine",
+      "name": "Ibuprofen Lysine"
+    }
+  ],
+  "setid": "307431c7-12de-21e5-e054-00144ff88e88",
+  "source": "dailymed"
+}
