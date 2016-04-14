@@ -36,7 +36,7 @@ Each 4 mg RISPERDAL® M-TAB® Orally Disintegrating Tablet contains 0.84 mg phen
 
 ## 17.8 Metabolic Changes
 
-Inform patients and caregivers that treatment with RISPERDAL® can be associated with hyperglycemia and diabetes mellitus, dyslipidemia, and weight gain[see Warnings and Precautions (5.5)].
+Inform patients and caregivers that treatment with RISPERDAL® can be associated with hyperglycemia and diabetes mellitus, dyslipidemia, and weight gain [see Warnings and Precautions (5.5)].
 
 ## 17.9 Tardive Dyskinesia
 

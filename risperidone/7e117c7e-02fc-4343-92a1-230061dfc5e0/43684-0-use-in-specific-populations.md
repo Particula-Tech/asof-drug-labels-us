@@ -152,7 +152,7 @@ RISPERDAL® doses should be reduced in patients with renal disease [see Dosage a
 ## 8.7 Hepatic Impairment
 
 While the pharmacokinetics of risperidone in subjects with liver disease were comparable to those in young healthy subjects, the mean free fraction of risperidone in plasma was increased by about 35% because of the diminished concentration of both albumin and α1-acid glycoprotein.
-RISPERDAL® doses should be reduced in patients with liver disease [see Dosage and Administration (2.4) and Pharmacokinetics (12.3)].
+RISPERDAL® doses should be reduced in patients with liver disease [see Dosage and Administration (2.4)].
 
 ## 8.8 Patients with Parkinson's Disease or Lewy Body Dementia
 

@@ -119,7 +119,7 @@ Commonly-Observed Adverse Reactions in Double-Blind, Placebo-Controlled Clinical
 
 Adult Patients with Bipolar Mania
 
-Table 10 lists the adverse reactions reported in 1% or more of RISPERDAL®-treated adult patients with bipolar mania in four 3-week, double-blind, placebo-controlled monotherapy trials.
+Table 10 lists the adverse reactions reported in 2% or more of RISPERDAL®-treated adult patients with bipolar mania in four 3-week, double-blind, placebo-controlled monotherapy trials.
 
 Table 10.
 Adverse Reactions in ≥2% of RISPERDAL®-Treated Adult Patients (and greater than placebo) with Bipolar Mania in Double-Blind, Placebo-Controlled Monotherapy Trials
@@ -262,7 +262,7 @@ Adverse Reactions in ≥5% of RISPERDAL®-Treated Pediatric Patients (and greate
 
 Other Adverse Reactions Observed During the Clinical Trial Evaluation of Risperidone
 
-The following additional adverse reactions occurred across all placebo-controlled, active-controlled, and open-label studies of RISPERDAL in adults and pediatric patients.
+The following additional adverse reactions occurred across all placebo-controlled, active-controlled, and open-label studies of RISPERDAL® in adults and pediatric patients.
 
 Blood and Lymphatic System Disorders: anemia, granulocytopenia, neutropenia
 
@@ -302,9 +302,9 @@ Skin and Subcutaneous Tissue Disorders: erythema, skin discoloration, skin lesio
 
 Vascular Disorders: hypotension, flushing
 
-Additional Adverse Reactions Reported with RISPERDAL® CONSTA®
+Additional Adverse Reactions Reported with RISPERDAL CONSTA®
 
-The following is a list of additional adverse reactions that have been reported during the premarketing evaluation of RISPERDAL® CONSTA®, regardless of frequency of occurrence:
+The following is a list of additional adverse reactions that have been reported during the premarketing evaluation of RISPERDAL CONSTA®, regardless of frequency of occurrence:
 
 Cardiac Disorders: bradycardia
 

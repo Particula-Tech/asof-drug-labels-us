@@ -15,7 +15,7 @@ Table 18 Summary of Effect of Coadministered Drugs on Exposure to Active Moiety 
 | Paroxetine | 10 mg/day | 4 mg/day | 1.3 | - | Re-evaluate dosing. Do not exceed 8 mg/day |
 |  | 20 mg/day | 4 mg/day | 1.6 | - |  |
 |  | 40 mg/day | 4 mg/day | 1.8 | - |  |
-| Enzyme (CYP3A/ PgP inducers) Inducers |  |  |  |  |  |
+| Enzyme (CYP3A/PgP inducers) Inducers |  |  |  |  |  |
 | Carbamazepine | 573 ± 168 mg/day | 3 mg twice daily | 0.51 | 0.55 | Titrate dose upwards. Do not exceed twice the patient's usual dose |
 | Enzyme (CYP3A) Inhibitors |  |  |  |  |  |
 | Ranitidine | 150 mg twice daily | 1 mg single dose | 1.2 | 1.4 | Dose adjustment not needed |
@@ -24,7 +24,7 @@ Table 18 Summary of Effect of Coadministered Drugs on Exposure to Active Moiety 
 | Other Drugs |  |  |  |  |  |
 | Amitriptyline | 50 mg twice daily | 3 mg twice daily | 1.2 | 1.1 | Dose adjustment not needed |
 
-Effect of Risperidone on other drugs
+Effect of Risperidone on Other Drugs
 
 Lithium
 

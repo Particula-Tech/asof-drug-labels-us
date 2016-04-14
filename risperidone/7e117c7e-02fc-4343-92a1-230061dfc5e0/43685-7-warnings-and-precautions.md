@@ -103,8 +103,7 @@ Change in Fasting Glucose from Three Placebo-Controlled, 3- to 6-Week, Fixed-Dos
 |  | n=76 | n=135 |
 | Serum Glucose | -1.3 | 2.6 |
 |  | Proportion of patients with shifts |  |
-| Serum Glucose (<100 mg/dL to ≥126 mg/dL) | 0% | 0.8% |
-|  | (0/64) | (1/120) |
+| Serum Glucose (<100 mg/dL to ≥126 mg/dL) | 0% (0/64) | 0.8% (1/120) |
 
 In longer-term, uncontrolled, open-label extension pediatric studies, RISPERDAL® was associated with a mean change in fasting glucose of +5.2 mg/dL at Week 24 (n=119).
 
