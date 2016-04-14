@@ -3,7 +3,7 @@
 ## 5.1 Paradoxical Bronchospasm
 
 VENTOLIN HFA can produce paradoxical bronchospasm, which may be life threatening.
-If paradoxical bronchospasm occurs, following dosing with VENTOLIN HFA, it should be discontinued immediately and alternative therapy should be instituted.
+If paradoxical bronchospasm occurs following dosing with VENTOLIN HFA, it should be discontinued immediately and alternative therapy should be instituted.
 It should be recognized that paradoxical bronchospasm, when associated with inhaled formulations, frequently occurs with the first use of a new canister.
 
 ## 5.2 Deterioration of Asthma

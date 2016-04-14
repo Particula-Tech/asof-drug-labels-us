@@ -152,13 +152,9 @@ Your VENTOLIN HFA inhaler
 - •The metal canister holds the medicine.
   See Figure A.
 
-Figure A
-
 - •The canister has a counter to show how many sprays of medicine you have left.
   The number shows through a window in the back of the actuator.
   See Figure B.
-
-Figure B
 
 - •The counter starts at either 204 or 064, depending on which size inhaler you have.
   The number will count down by 1 each time you spray the inhaler.
@@ -187,13 +183,9 @@ Priming your VENTOLIN HFA inhaler
   Then spray the inhaler 1 time into the air away from your face.
   See Figure C. Avoid spraying in eyes.
 
-Figure C
-
 - •Shake and spray the inhaler like this 3 more times to finish priming it.
   The counter should now read 200 or 060, depending on which size inhaler you have.
   See Figure D.
-
-Figure D
 
 - •You must prime your inhaler again if you have not used it in more than 14 days or if you drop it.
   Take the cap off the mouthpiece and shake and spray the inhaler 4 times into the air away from your face.
@@ -215,14 +207,10 @@ Step 2.
 Hold the inhaler with the mouthpiece down.
 See Figure E.
 
-Figure E
-
 Step 3.
 Breathe out through your mouth and push as much air from your lungs as you can.
 Put the mouthpiece in your mouth and close your lips around it.
 See Figure F.
-
-Figure F
 
 Step 4.
 Push the top of the canister all the way down while you breathe in deeply and slowly through your mouth.
@@ -232,8 +220,7 @@ Step 5.
 After the spray comes out, take your finger off the canister.
 After you have breathed in all the way, take the inhaler out of your mouth and close your mouth.
 
-Step 6.
-Hold your breath for about 10 seconds, or for as long as is comfortable.
+Step 6.Hold your breath for about 10 seconds, or for as long as is comfortable.
 Breathe out slowly as long as you can.
 
 If your healthcare provider has told you to use more sprays, wait 1 minute and shake the inhaler again.
@@ -249,8 +236,6 @@ Clean your inhaler at least 1 time each week.
 You may not see any medicine build-up on the inhaler, but it is important to keep it clean so medicine build-up will not block the spray.
 See Figure G.
 
-Figure G
-
 Step 8.
 Take the canister out of the actuator, and take the cap off the mouthpiece.
 The strap on the cap will stay attached to the actuator.
@@ -259,13 +244,9 @@ Step 9.
 Hold the actuator under the faucet and run warm water through it for about 30 seconds.
 See Figure H.
 
-Figure H
-
 Step 10.
 Turn the actuator upside down and run warm water through the mouthpiece for about 30 seconds.
 See Figure I.
-
-Figure I
 
 Step 11.
 Shake off as much water from the actuator as you can.
@@ -275,8 +256,6 @@ If there is any build-up, repeat Steps 9 and 10.
 Step 12.
 Let the actuator air-dry overnight.
 See Figure J.
-
-Figure J
 
 Step 13.
 When the actuator is dry, put the protective cap on the mouthpiece and then put the canister in the actuator and make sure it fits firmly.
@@ -295,7 +274,7 @@ If you need to use your inhaler before the actuator is completely dry:
 Replacing your VENTOLIN HFA inhaler:
 
 - •When the counter reads 020, you should refill your prescription or ask your healthcare provider if you need another prescription for VENTOLIN HFA.
-- •Throw the inhaler away when the counter reads 000or 12 months after you opened the foil pouch, whichever comes first.
+- •Throw the inhaler away when the counter reads 000 or 12 months after you opened the foil pouch, whichever comes first.
   You should not keep using the inhaler when the counter reads 000 because you will not receive the right amount of medicine.
 - •Do not use the inhaler after the expiration date, which is on the packaging it comes in.
 
