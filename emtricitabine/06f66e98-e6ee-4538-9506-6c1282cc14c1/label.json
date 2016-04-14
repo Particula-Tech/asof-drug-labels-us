@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA208215"
+  ],
+  "inn": "emtricitabine",
+  "labeler": "Gilead Sciences, Inc.",
+  "package_ndcs": [
+    "61958-2002-1"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "emtricitabine and tenofovir alafenamide fumarate",
+      "name": "DESCOVY"
+    }
+  ],
+  "setid": "06f66e98-e6ee-4538-9506-6c1282cc14c1",
+  "source": "dailymed"
+}
