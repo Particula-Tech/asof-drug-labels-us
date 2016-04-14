@@ -10,8 +10,8 @@ Table 1: Acyclovir Peak and Trough Concentrations at Steady-State
 
 | Dosage Regimen | CSSmax | CSStrough |
 | --- | --- | --- |
-| 5 mg/kg q 8 h(n=8) | 9.8 mcg/mLrange: 5.5 to 13.8 | 0.7 mcg/mLrange: 0.2 to 1 |
-| 10 mg/kg q 8 h(n=7) | 22.9 mcg/mLrange: 14.1 to 44.1 | 1.9 mcg/mLrange: 0.5 to 2.9 |
+| 5 mg/kg q 8 h (n=8) | 9.8 mcg/mL range: 5.5 to 13.8 | 0.7 mcg/mL range: 0.2 to 1 |
+| 10 mg/kg q 8 h (n=7) | 22.9 mcg/mL range: 14.1 to 44.1 | 1.9 mcg/mL range: 0.5 to 2.9 |
 
 Concentrations achieved in the cerebrospinal fluid are approximately 50% of plasma values.
 Plasma protein binding is relatively low (9% to 33%) and drug interactions involving binding site displacement are not anticipated.
@@ -23,10 +23,10 @@ The half-life and total body clearance of acyclovir are dependent on renal funct
 
 Table 2: Acyclovir Half-life and Total Body Clearance
 
-| Creatinine Clearance(mL/min/1.73 m2) |  | Total Body Clearance |  |
+| Creatinine Clearance (mL/min/1.73 m2) |  | Total Body Clearance |  |
 | --- | --- | --- | --- |
-| Half-Life(hr) | (mL/min/1.73 m2) | (mL/min/kg) |  |
-| >8050-8015-500 (Anuric) | 2.533.519.5 | 32724819029 | 5.13.93.40.5 |
+| Half-Life (hr) | (mL/min/1.73 m2) | (mL/min/kg) |  |
+| >80 50-80 15-50 0 (Anuric) | 2.5 3 3.5 19.5 | 327 248 190 29 | 5.1 3.9 3.4 0.5 |
 
 ## Special Populations
 
@@ -45,16 +45,16 @@ Acyclovir pharmacokinetics were determined in 12 patients ranging in age from bi
 
 Table 3: Acyclovir Pharmacokinetics in Pediatric Patients (Mean ± SD)
 
-| Parameter | Birth to 3 Months of Age(n=12) | 3 Months to 12 Years of Age (n=16) |
+| Parameter | Birth to 3 Months of Age (n=12) | 3 Months to 12 Years of Age (n=16) |
 | --- | --- | --- |
 | CL (mL/min/kg) | 4.46 ± 1.61 | 8.44 ± 2.92 |
 | VDSS (L/kg) | 1.08 ± 0.35 | 1.01 ± 0.28 |
-| Elimination half-life(hours) | 3.80 ± 1.19 | 2.36 ± 0.97 |
+| Elimination half-life (hours) | 3.80 ± 1.19 | 2.36 ± 0.97 |
 
 Geriatrics
 
 Acyclovir plasma concentrations are higher in geriatric patients compared to younger adults, in part due to age-related changes in renal function.
-Dosage reduction may be required in geriatric patients with underlying renal impairment (see PRECAUTIONS, Geriatric Use).
+Dosage reduction may be required in geriatric patients with underlying renal impairment (see PRECAUTIONS,Geriatric Use).
 
 ## Drug Interactions
 

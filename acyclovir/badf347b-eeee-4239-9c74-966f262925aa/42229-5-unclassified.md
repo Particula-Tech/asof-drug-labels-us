@@ -59,7 +59,7 @@ Table 4: Mortality at 1 Year
 
 | HSV Disease Classification | Treatment Group |  |
 | --- | --- | --- |
-| Acyclovir(n=107) | Vidarabine(n=95) |  |
+| Acyclovir (n=107) | Vidarabine (n=95) |  |
 | SEM* (n=85) | 0/54 | 0/31 |
 | CNS† (n=71) | 5/35 | 5/36 |
 | DISS‡ (n=46) | 11/18 | 14/28 |

@@ -6,7 +6,6 @@ The concentration is equivalent to 54.9 mg of acyclovir sodium per mL in Water f
 The sodium content is approximately 5.1 mg/mL.
 The pH range of the solution is 10.85 to 11.50.
 Further dilution of Acyclovir Sodium Injection in an appropriate intravenous solution must be performed before infusion (see DOSAGE AND ADMINISTRATION, Administration).
-
 The chemical name of acyclovir sodium is 9-[(2-Hydroxyethoxy)methyl] guanine, and has the following structural formula:
 
 Acyclovir sodium is a white, crystalline powder with the molecular formula C8H10N5NaO3 and a molecular weight of 247.19.

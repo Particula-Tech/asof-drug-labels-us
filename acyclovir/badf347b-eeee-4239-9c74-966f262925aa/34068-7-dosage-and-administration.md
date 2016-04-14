@@ -65,9 +65,9 @@ PATIENTS WITH ACUTE OR CHRONIC RENAL IMPAIRMENT: Refer to DOSAGE AND ADMINISTRAT
 
 Table 5: Dosage Adjustments for Patients with Renal Impairment
 
-| Creatinine Clearance(mL/min/1.73 m2) | Percent of Recommended Dose | Dosing Interval (hours) |
+| Creatinine Clearance (mL/min/1.73 m2) | Percent of Recommended Dose | Dosing Interval (hours) |
 | --- | --- | --- |
-| >5025 to 5010 to 250 to 10 | 100%100%100%50% | 8122424 |
+| >50 25 to 50 10 to 25 0 to 10 | 100% 100% 100% 50% | 8 12 24 24 |
 
 ## Hemodialysis
 
