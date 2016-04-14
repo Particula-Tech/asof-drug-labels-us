@@ -6,21 +6,21 @@ PREZCOBIX is a fixed-dose combination product containing 800 mg of darunavir and
 In treatment-naïve and treatment-experienced adults with no darunavir resistance-associated substitutions, the recommended dosage of PREZCOBIX is one tablet taken once daily orally with food.
 Administer PREZCOBIX in conjunction with other antiretroviral agents.
 
-## 2.2 Testing Prior to Initiation of PREZCOBIX
+## 2.2 Testing prior to Initiation of PREZCOBIX
 
-HIV Genotypic Testing:
+HIV Genotypic Testing
 
 HIV genotypic testing is recommended for antiretroviral treatment-experienced patients.
 However, when HIV genotypic testing is not feasible, PREZCOBIX can be used in protease inhibitor-naïve patients, but is not recommended in protease inhibitor-experienced patients.
 
-Creatinine Clearance:
+Creatinine Clearance
 
 Prior to starting PREZCOBIX, assess estimated creatinine clearance because cobicistat decreases estimated creatinine clearance due to inhibition of tubular secretion of creatinine without affecting actual renal glomerular function [see Warnings and Precautions (5.1)].
-When coadministering PREZCOBIX with tenofovir disoproxil fumarate (tenofovir DF) assess estimated creatinine clearance, urine glucose, and urine protein at baseline [see Warnings and Precautions (5.3)].
+When co-administering PREZCOBIX with tenofovir disoproxil fumarate (tenofovir DF) assess estimated creatinine clearance, urine glucose, and urine protein at baseline [see Warnings and Precautions (5.3)].
 
 ## 2.3 Patients with Renal Impairment
 
-PREZCOBIX coadministered with tenofovir DF is not recommended in patients who have an estimated creatinine clearance below 70 mL/min [see Warnings and Precautions (5.3) and Adverse Reactions (6.1)].
+PREZCOBIX co-administered with tenofovir DF is not recommended in patients who have an estimated creatinine clearance below 70 mL/min [see Warnings and Precautions (5.3) and Adverse Reactions (6.1)].
 
 ## 2.4 Patients with Hepatic Impairment
 

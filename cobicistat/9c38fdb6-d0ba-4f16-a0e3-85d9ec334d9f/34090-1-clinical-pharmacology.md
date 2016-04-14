@@ -8,12 +8,12 @@ PREZCOBIX is a fixed-dose combination of an HIV-1 antiviral drug, darunavir and 
 
 Cardiac Electrophysiology
 
-Separate thorough QT trials have been conducted for darunavir coadministered with ritonavir and for cobicistat.
-The effect of darunavir coadministered with cobicistat on the QT interval has not been evaluated.
+Separate thorough QT trials have been conducted for darunavir co-administered with ritonavir and for cobicistat.
+The effect of darunavir co-administered with cobicistat on the QT interval has not been evaluated.
 
 Darunavir: In an open-label, randomized, placebo- and active-controlled, four-way crossover trial, 40 healthy subjects were administered supratheraputic doses of darunavir 1600 mg and ritonavir 100 mg once daily and darunavir 800 mg and ritonavir 100 mg twice daily (approximately 2 times the recommended darunavir dose) for seven days.
-At the mean maximum darunavir concentration of 6599 ng/mL observed in this trial, the mean increase in QTcF was 2.2 ms with a 90% two-sided confidence interval (CI) of -2.0 to 6.3 ms. When evaluating the 2-sided 90% CI on the time-matched mean changes in QTcF versus placebo control, the upper bounds of both darunavir coadministered with ritonavir groups never exceeded the 10 ms boundary.
-In the setting of this trial, darunavir coadministered with ritonavir did not appear to prolong the QTc interval.
+At the mean maximum darunavir concentration of 6599 ng/mL observed in this trial, the mean increase in QTcF was 2.2 ms with a 90% two-sided confidence interval (CI) of -2.0 to 6.3 ms. When evaluating the 2-sided 90% CI on the time-matched mean changes in QTcF versus placebo control, the upper bounds of both darunavir co-administered with ritonavir groups never exceeded the 10 ms boundary.
+In the setting of this trial, darunavir co-administered with ritonavir did not appear to prolong the QTc interval.
 
 Cobicistat: The effect of a single dose of cobicistat 250 mg and 400 mg (approximately 1.7 and 2.7 times the recommended dose) on QTc interval was evaluated in a randomized, placebo- and active-controlled (moxifloxacin 400 mg) four-period crossover thorough QT trial in 48 healthy subjects.
 In this trial, no significant QTc prolongation effect of cobicistat was detected.
@@ -30,21 +30,20 @@ The actual glomerular filtration rate, as determined by the clearance of probe d
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetics of darunavir coadministered with cobicistat (150 mg) have been evaluated in healthy adult subjects and in HIV-1 infected subjects.
+The pharmacokinetics of darunavir co-administered with cobicistat (150 mg) have been evaluated in healthy adult subjects and in HIV-1 infected subjects.
 
 Darunavir is primarily metabolized by CYP3A.
 Cobicistat inhibits CYP3A, thereby increasing the plasma concentrations of darunavir.
 
-Under fed (535 total kcal, 171 kcal from fat, 268 kcal from carbohydrates, 96 kcal from protein) and fasted conditions in healthy subjects, the 90% confidence intervals when comparing darunavir exposure between PREZCOBIX and darunavir 800 mg coadministered with cobicistat 150 mg as single entities were within 80–125%.
+Under fed (535 total kcal, 171 kcal from fat, 268 kcal from carbohydrates, 96 kcal from protein) and fasted conditions in healthy subjects, the 90% confidence intervals when comparing darunavir exposure between PREZCOBIX and darunavir 800 mg co-administered with cobicistat 150 mg as single entities were within 80–125%.
 
-Darunavir exposure when comparing darunavir coadministered with cobicistat (as single entities) to darunavir coadministered with ritonavir was evaluated in a relative bioavailability trial [see cobicistat full prescribing information].
-Table 3 displays the population pharmacokinetic estimates of darunavir after oral administration of darunavir 800 mg coadministered with ritonavir 100 mg once daily (based on sparse sampling in 335 subjects in Trial TMC114-C211 and 280 subjects in Trial TMC114-C229) and darunavir 800 mg coadministered with cobicistat 150 mg once daily administered as single entities (based on sparse sampling in 298 subjects in Trial GS-US-216-0130) to HIV-1 infected subjects.
+Darunavir exposure when comparing darunavir co-administered with cobicistat (as single entities) to darunavir co-administered with ritonavir was evaluated in a relative bioavailability trial [see cobicistat full prescribing information].
+Table 3 displays the population pharmacokinetic estimates of darunavir after oral administration of darunavir 800 mg co-administered with ritonavir 100 mg once daily (based on sparse sampling in 335 subjects in Trial TMC114-C211 and 280 subjects in Trial TMC114-C229) and darunavir 800 mg co-administered with cobicistat 150 mg once daily administered as single entities (based on sparse sampling in 298 subjects in Trial GS-US-216-0130) to HIV-1 infected subjects.
 
-Table 3: Population Pharmacokinetic Estimates of Darunavir as Darunavir 800 mg Coadministered with Ritonavir 100 mg Once Daily (Trial TMC114-C211, 48 Week Analysis and Trial TMC114-C229, 48 Week Analysis) and Darunavir 800 mg coadministered with cobicistat 150 mg Once Daily (Study GS-US-216-130, 24 Week Analysis)
+Table 3: Population Pharmacokinetic Estimates of Darunavir as Darunavir 800 mg Co-administered with Ritonavir 100 mg Once Daily (Trial TMC114-C211, 48 Week Analysis and Trial TMC114-C229, 48 Week Analysis) and Darunavir 800 mg co-administered with cobicistat 150 mg Once Daily (Study GS-US-216-130, 24 Week Analysis)
 
-|  | N=335 | N=280 | N=298 |
+| Parameter | Trial TMC114-C211 (treatment-naïve) Darunavir 800 mg co-administered with ritonavir 100 mg once daily N=335 | Trial TMC114-C229 (treatment-experienced) Darunavir 800 mg co-administered with ritonavir 100 mg once daily N=280 | Trial GS-US-216-0130 (treatment-naïve and experienced) Darunavir 800 mg co-administered with cobicistat 150 mg once daily N=298 |
 | --- | --- | --- | --- |
-| Parameter | Trial TMC114-C211 (treatment-naïve) Darunavir 800 mg coadministered with ritonavir 100 mg once daily | Trial TMC114-C229 (treatment-experienced) Darunavir 800 mg coadministered with ritonavir 100 mg once daily | Trial GS-US-216-0130 (treatment-naïve and experienced) Darunavir 800 mg coadministered with cobicistat 150 mg once daily |
 | AUC24h (ng∙h/mL) |  |  |  |
 | Mean ± Standard Deviation | 93026 ± 27050 | 93334 ± 28626 | 100152 ± 32042 |
 | Median (Range) | 87854 (45000–219240) | 87788 (45456–236920) | 96900 (34500–224000) |
@@ -74,14 +73,14 @@ Metabolism
 
 Darunavir: In vitro experiments with human liver microsomes (HLMs) indicate that darunavir primarily undergoes oxidative metabolism.
 Darunavir is extensively metabolized by CYP enzymes, primarily by CYP3A.
-A mass balance trial in healthy subjects showed that after single dose administration of 400 mg 14C-darunavir coadministered with 100 mg ritonavir, the majority of the radioactivity in the plasma was due to darunavir.
+A mass balance trial in healthy subjects showed that after single dose administration of 400 mg 14C-darunavir co-administered with 100 mg ritonavir, the majority of the radioactivity in the plasma was due to darunavir.
 At least 3 oxidative metabolites of darunavir have been identified in humans; all showed activity that was at least 90% less than the activity of darunavir against wild-type HIV-1.
 
 Cobicistat: Cobicistat is metabolized by CYP3A and to a minor extent by CYP2D6 enzymes and does not undergo glucuronidation.
 
 Elimination
 
-Darunavir: A mass balance trial in healthy subjects showed that after single dose administration of 400 mg 14C-darunavir coadministered with 100 mg ritonavir, approximately 79.5% and 13.9% of the administered dose of 14C-darunavir was recovered in the feces and urine, respectively.
+Darunavir: A mass balance trial in healthy subjects showed that after single dose administration of 400 mg 14C-darunavir co-administered with 100 mg ritonavir, approximately 79.5% and 13.9% of the administered dose of 14C-darunavir was recovered in the feces and urine, respectively.
 Unchanged darunavir accounted for approximately 41.2% and 7.7% of the administered dose in feces and urine, respectively.
 
 When single doses of the darunavir and cobicistat fixed dose combination tablet were administered, the terminal elimination half-life of darunavir was approximately 7 hours under fed conditions.
@@ -94,7 +93,7 @@ Specific Populations
 Hepatic impairment
 
 Darunavir: Darunavir is primarily metabolized by the liver.
-The steady-state pharmacokinetic parameters of darunavir were similar after multiple dose coadministration of darunavir 600 mg coadministered with ritonavir 100 mg twice daily to subjects with normal hepatic function (n=16), mild hepatic impairment (Child-Pugh Class A, n=8), and moderate hepatic impairment (Child-Pugh Class B, n=8).
+The steady-state pharmacokinetic parameters of darunavir were similar after multiple dose co-administration of darunavir 600 mg co-administered with ritonavir 100 mg twice daily to subjects with normal hepatic function (n=16), mild hepatic impairment (Child-Pugh Class A, n=8), and moderate hepatic impairment (Child-Pugh Class B, n=8).
 The effect of severe hepatic impairment on the pharmacokinetics of darunavir has not been evaluated [see Use in Specific Populations (8.6)].
 
 Cobicistat: Cobicistat is primarily metabolized by the liver.
@@ -104,34 +103,34 @@ The effect of severe hepatic impairment on the pharmacokinetics of cobicistat ha
 
 Hepatitis B or Hepatitis C Virus Co-infection
 
-Darunavir: In HIV-infected subjects taking darunavir coadministered with ritonavir, the 48 week analysis of the data from clinical studies in HIV-1 infected subjects indicated that hepatitis B and/or hepatitis C virus co-infection status had no apparent effect on the exposure of darunavir.
+Darunavir: In HIV-infected subjects taking darunavir co-administered with ritonavir, the 48 week analysis of the data from clinical studies in HIV-1 infected subjects indicated that hepatitis B and/or hepatitis C virus co-infection status had no apparent effect on the exposure of darunavir.
 
 The effect of hepatitis B and/or C virus infection on the pharmacokinetics of PREZCOBIX have not been evaluated.
 
 Renal Impairment
 
-Darunavir: Population pharmacokinetic analysis showed that the pharmacokinetics of darunavir were not significantly affected in HIV-1 infected subjects with moderate renal impairment taking darunavir coadministered with ritonavir (CrCL between 30–60 mL/min, n=20).
-There are no pharmacokinetic data available in HIV-1 infected patients with severe renal impairment or end stage renal disease taking darunavir coadminstered with either ritonavir or cobicistat [see Use in Specific Populations (8.7)].
+Darunavir: Population pharmacokinetic analysis showed that the pharmacokinetics of darunavir were not significantly affected in HIV-1 infected subjects with moderate renal impairment taking darunavir co-administered with ritonavir (CrCL between 30–60 mL/min, n=20).
+There are no pharmacokinetic data available in HIV-1 infected patients with severe renal impairment or end stage renal disease taking darunavir co-adminstered with either ritonavir or cobicistat [see Use in Specific Populations (8.7)].
 
 Cobicistat: A trial of the pharmacokinetics of cobicistat was performed in non-HIV infected subjects with severe renal impairment (estimated creatinine clearance below 30 mL/min).
 No clinically relevant differences in cobicistat pharmacokinetics were observed between subjects with severe renal impairment and healthy subjects [see Use in Special Populations (8.7)].
 
 Gender
 
-Darunavir: In HIV-infected subjects taking darunavir coadministered with ritonavir, population pharmacokinetic analysis showed higher mean darunavir exposure in HIV-1 infected females compared to males.
+Darunavir: In HIV-infected subjects taking darunavir co-administered with ritonavir, population pharmacokinetic analysis showed higher mean darunavir exposure in HIV-1 infected females compared to males.
 This difference is not clinically relevant.
 
 Cobicistat: No clinically relevant pharmacokinetic differences have been observed between men and women for cobicistat.
 
 Race
 
-Darunavir: Population pharmacokinetic analysis of darunavir in HIV-1 infected subjects taking darunavir coadministered with ritonavir indicated that race had no apparent effect on the exposure to darunavir.
+Darunavir: Population pharmacokinetic analysis of darunavir in HIV-1 infected subjects taking darunavir co-administered with ritonavir indicated that race had no apparent effect on the exposure to darunavir.
 
 Cobicistat: Population pharmacokinetic analysis of cobicistat in HIV-1 infected subjects indicated that race had no clinically relevant effect on the exposure of cobicistat.
 
 Geriatric Patients
 
-Darunavir: In HIV-infected subjects taking darunavir coadministered with ritonavir, population pharmacokinetic analysis showed no considerable differences in darunavir pharmacokinetics for ages 18 to 75 years compared to ages greater than or equal to 65 years (n=12) [see Use in Specific Populations (8.5)].
+Darunavir: In HIV-infected subjects taking darunavir co-administered with ritonavir, population pharmacokinetic analysis showed no considerable differences in darunavir pharmacokinetics for ages 18 to 75 years compared to ages greater than or equal to 65 years (n=12) [see Use in Specific Populations (8.5)].
 
 Cobicistat: Insufficient data are available to determine whether potential differences exist in the pharmacokinetics of cobicistat in geriatric (65 years of age and older) subjects compared to younger subjects.
 
@@ -163,7 +162,7 @@ Resistance
 
 Cell Culture
 
-Darunavir: HIV-1 isolates with a decreased susceptibility to darunavir have been selected in cell culture and obtained from subjects treated with darunavir coadministered with ritonavir.
+Darunavir: HIV-1 isolates with a decreased susceptibility to darunavir have been selected in cell culture and obtained from subjects treated with darunavir co-administered with ritonavir.
 Darunavir-resistant virus derived in cell culture from wild-type HIV-1 had 21- to 88-fold decreased susceptibility to darunavir and developed 2 to 4 of the following amino acid substitutions S37D, R41E/T, K55Q, H69Q, K70E, T74S, V77I, or I85V in the protease.
 Selection in cell culture of darunavir resistant HIV-1 from nine HIV-1 strains harboring multiple PI resistance-associated substitutions resulted in the overall emergence of 22 mutations in the protease gene, coding for amino acid substitutions L10F, V11I, I13V, I15V, G16E, L23I, V32I, L33F, S37N, M46I, I47V, I50V, F53L, L63P, A71V, G73S, L76V, V82I, I84V, T91A/S, and Q92R, of which L10F, V32I, L33F, S37N, M46I, I47V, I50V, L63P, A71V, and I84V were the most prevalent.
 These darunavir-resistant viruses had at least eight protease substitutions and exhibited 50- to 641-fold decreases in darunavir susceptibility with final EC50 values ranging from 125 nM to 3461 nM.

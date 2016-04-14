@@ -1,6 +1,4 @@
-# PATIENT INFORMATION
-
-PREZCOBIX (prez-koe-bix) (darunavir and cobicistat) tablets
+# PATIENT INFORMATION PREZCOBIX® (prez-koe-bix) (darunavir and cobicistat) tablets
 
 Please read this information before you start taking PREZCOBIX and each time you get a refill.
 There may be new information.
@@ -11,11 +9,17 @@ What is the most important information I should know about PREZCOBIX?
   Some people taking PREZCOBIX may develop liver problems which may be life-threatening.
   Your healthcare provider should do blood tests before and during your treatment with PREZCOBIX.
   If you have chronic hepatitis B or C infection, your healthcare provider should check your blood tests more often because you have an increased chance of developing liver problems.
-  Tell your healthcare provider if you have any of the below signs and symptoms of liver problems. dark (tea colored) urineyellowing of your skin or whites of your eyespale colored stools (bowel movements) nauseavomitingpain or tenderness on your right side below your ribsloss of appetite
+
+Tell your healthcare provider if you have any of the below signs and symptoms of liver problems.
+
+| dark (tea colored) urineyellowing of your skin or whites of your eyespale colored stools (bowel movements) | nauseavomitingpain or tenderness on your right side below your ribsloss of appetite |
+| --- | --- |
+
 - PREZCOBIX may cause severe or life-threatening skin reactions or rash.
   Sometimes these skin reactions and skin rashes can become severe and require treatment in a hospital.
   Call your healthcare provider right away if you develop a rash.
-  Stop taking PREZCOBIX and call your healthcare provider right away if you develop any skin changes with symptoms below: fevertirednessmuscle or joint painblisters or skin lesions mouth sores or ulcersred or inflamed eyes, like "pink eye" (conjunctivitis) PREZCOBIX when taken with certain other medicines can cause new or worse kidney problems, including kidney failure.
+  Stop taking PREZCOBIX and call your healthcare provider right away if you develop any skin changes with symptoms below: fevertirednessmuscle or joint painred or inflamed eyes, like "pink eye" (conjunctivitis) blisters or skin lesionsmouth sores or ulcers
+- PREZCOBIX when taken with certain other medicines can cause new or worse kidney problems, including kidney failure.
   Your healthcare provider should check your kidneys before you start and while you are taking PREZCOBIX.
 
 See "What are the possible side effects of PREZCOBIX?" for more information about side effects.
@@ -138,7 +142,7 @@ PREZCOBIX may cause serious side effects including:
 
 The most common side effects of darunavir, one of the medicines in PREZCOBIX, include:
 
-| diarrheanausearash | headachestomach area (abdominal) painvomiting |
+| diarrhearashheadache | nauseastomach area (abdominal) painvomiting |
 | --- | --- |
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
@@ -178,6 +182,6 @@ Manufactured by: Janssen Ortho LLC, Gurabo, PR 00778
 
 Manufactured for: Janssen Therapeutics, Division of Janssen Products, LP, Titusville NJ 08560
 
-Issued: January 2015
+Revision Date: 03 2016
 
 © Janssen Pharmaceuticals, Inc. 2015

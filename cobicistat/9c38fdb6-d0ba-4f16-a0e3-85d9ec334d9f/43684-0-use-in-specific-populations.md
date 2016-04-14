@@ -9,18 +9,18 @@ No adequate and well-controlled studies have been conducted in pregnant women us
 Antiretroviral Pregnancy Registry: To monitor maternal-fetal outcomes of pregnant women exposed to PREZCOBIX, an Antiretroviral Pregnancy Registry has been established.
 Physicians are encouraged to register patients by calling 1-800-258-4263.
 
-Animal Data:
+Animal Data
 
 Cobicistat: Studies in animals have shown no evidence of teratogenicity or an effect on reproductive function.
 In offspring from rat and rabbit dams treated with cobicistat during pregnancy, there were no toxicologically significant effects on developmental endpoints.
 The exposures at the embryo-fetal No Observed Adverse Effects Levels (NOAELs) in rats and rabbits were respectively 1.4 and 3.3 times higher than the exposure in humans at the recommended daily dose of 150 mg.
 
 Darunavir: Reproduction studies conducted with darunavir showed no embryotoxicity or teratogenicity in mice and rats in the presence or absence of ritonavir as well as in rabbits with darunavir alone.
-In these studies, darunavir exposures (based on AUC) were higher in rats (3-fold), whereas in mice and rabbits, exposures were lower (less than 1-fold) compared to those obtained in humans at the recommended clinical dose of darunavir coadministered with ritonavir.
+In these studies, darunavir exposures (based on AUC) were higher in rats (3-fold), whereas in mice and rabbits, exposures were lower (less than 1-fold) compared to those obtained in humans at the recommended clinical dose of darunavir co-administered with ritonavir.
 
-In the rat pre- and postnatal development study, a reduction in pup body weight gain was observed with darunavir alone or coadministered with ritonavir during lactation.
+In the rat pre- and postnatal development study, a reduction in pup body weight gain was observed with darunavir alone or co-administered with ritonavir during lactation.
 This was due to exposure of pups to drug substances via the milk.
-Sexual development, fertility and mating performance of offspring were not affected by maternal treatment with darunavir alone or coadministered with ritonavir.
+Sexual development, fertility and mating performance of offspring were not affected by maternal treatment with darunavir alone or co-administered with ritonavir.
 The maximal plasma exposures achieved in rats were approximately 50% of those obtained in humans at the recommended clinical dose boosted with ritonavir.
 
 In the juvenile toxicity study where rats were directly dosed with darunavir, deaths occurred from post-natal day 5 through 11 at plasma exposure levels ranging from 0.1 to 1.0 of the human exposure levels.
@@ -44,13 +44,13 @@ In general, caution should be exercised in the administration and monitoring of 
 
 ## 8.6 Hepatic Impairment
 
-No clinical trials were conducted with darunavir coadministered with cobicistat in hepatically impaired subjects and the effect of hepatic impairment on darunavir exposure when coadministered with cobicistat has not been evaluated.
-Based on the recommendations for darunavir coadministered with ritonavir, a dose adjustment for patients with mild or moderate hepatic impairment is not necessary.
+No clinical trials were conducted with darunavir co-administered with cobicistat in hepatically impaired subjects and the effect of hepatic impairment on darunavir exposure when co-administered with cobicistat has not been evaluated.
+Based on the recommendations for darunavir co-administered with ritonavir, a dose adjustment for patients with mild or moderate hepatic impairment is not necessary.
 No pharmacokinetic or safety data are available regarding the use of darunavir in subjects with severe hepatic impairment.
 Therefore, PREZCOBIX is not recommended for use in patients with severe hepatic impairment [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 
-A renal impairment trial was not conducted for darunavir coadministered with cobicistat [see Clinical Pharmacology (12.3)].
+A renal impairment trial was not conducted for darunavir co-administered with cobicistat [see Clinical Pharmacology (12.3)].
 Cobicistat has been shown to decrease estimated creatinine clearance without affecting actual renal glomerular function.
 Dosing recommendations are not available for drugs that require dosage adjustment for renal impairment when used in combination with PREZCOBIX [see Warnings and Precautions (5.3), and Clinical Pharmacology (12.2)].

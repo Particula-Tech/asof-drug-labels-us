@@ -11,12 +11,12 @@ The following adverse reactions are discussed in other sections of the labeling:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-During the darunavir clinical development program, where darunavir was coadministered with ritonavir 100 mg once or twice daily, the most common clinical adverse reactions (incidence greater than or equal to 5%) of at least moderate intensity (greater than or equal to Grade 2) were diarrhea, nausea, rash, headache, abdominal pain, and vomiting.
-See the darunavir full prescribing information for additional information on adverse reactions reported with darunavir coadministered with ritonavir.
+During the darunavir clinical development program, where darunavir was co-administered with ritonavir 100 mg once or twice daily, the most common clinical adverse reactions (incidence greater than or equal to 5%) of at least moderate intensity (greater than or equal to Grade 2) were diarrhea, nausea, rash, headache, abdominal pain, and vomiting.
+See the darunavir full prescribing information for additional information on adverse reactions reported with darunavir co-administered with ritonavir.
 See cobicistat full prescribing information for clinical trial information on adverse reactions reported with cobicistat.
 
 One single arm clinical trial was conducted with darunavir and cobicistat administered as single entities in 313 HIV-infected subjects.
-Adverse reactions evaluated through Week 24 did not differ substantially from those reported in clinical trials with darunavir coadministered with ritonavir.
+Adverse reactions evaluated through Week 24 did not differ substantially from those reported in clinical trials with darunavir co-administered with ritonavir.
 
 ## 6.2 Postmarketing Experience
 

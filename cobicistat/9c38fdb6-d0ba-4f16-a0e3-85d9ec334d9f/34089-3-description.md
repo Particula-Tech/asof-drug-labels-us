@@ -10,7 +10,7 @@ The tablets include the following inactive ingredients: colloidal silicon dioxid
 The tablets are film-coated with a coating material containing iron oxide black, iron oxide red, polyethylene glycol, polyvinyl alcohol (partially hydrolyzed), talc, and titanium dioxide.
 
 Darunavir: Darunavir, in the form of darunavir ethanolate, has the following chemical name: [(1S,2R)-3-[[(4-aminophenyl)sulfonyl](2-methylpropyl)amino]-2-hydroxy-1-(phenylmethyl)propyl]-carbamic acid (3R,3aS,6aR)-hexahydrofuro[2,3-b]furan-3-yl ester monoethanolate.
-Its molecular formula is C27H37N3O7S ∙ C2H5OH and its molecular weight is 593.73.
+Its molecular formula is C27H37N3O7S • C2H5OH and its molecular weight is 593.73.
 Darunavir ethanolate has the following structural formula:
 
 Cobicistat: Cobicistat is adsorbed onto silicon dioxide.

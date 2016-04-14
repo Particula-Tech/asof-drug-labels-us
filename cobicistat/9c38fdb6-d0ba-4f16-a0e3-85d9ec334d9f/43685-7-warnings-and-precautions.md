@@ -2,12 +2,12 @@
 
 ## 5.1 Hepatotoxicity
 
-During the darunavir clinical development program (N=3063), where darunavir was coadministered with ritonavir 100 mg once or twice daily, drug-induced hepatitis (e.g., acute hepatitis, cytolytic hepatitis) was reported in 0.5% of subjects.
+During the darunavir clinical development program (N=3063), where darunavir was co-administered with ritonavir 100 mg once or twice daily, drug-induced hepatitis (e.g., acute hepatitis, cytolytic hepatitis) was reported in 0.5% of subjects.
 Patients with pre-existing liver dysfunction, including chronic active hepatitis B or C, have an increased risk for liver function abnormalities including severe hepatic adverse reactions.
 
-Post-marketing cases of liver injury, including some fatalities, have also been reported with darunavir coadministered with ritonavir.
+Post-marketing cases of liver injury, including some fatalities, have also been reported with darunavir co-administered with ritonavir.
 These have generally occurred in patients with advanced HIV-1 disease taking multiple concomitant medications, having co-morbidities including hepatitis B or C co-infection, and/or developing immune reconstitution syndrome.
-A causal relationship with darunavir coadministered with ritonavir has not been established.
+A causal relationship with darunavir co-administered with ritonavir has not been established.
 
 Appropriate laboratory testing should be conducted prior to initiating therapy with PREZCOBIX and patients should be monitored during treatment.
 Increased AST/ALT monitoring should be considered in patients with underlying chronic hepatitis, cirrhosis, or in patients who have pre-treatment elevations of transaminases, especially during the first several months of PREZCOBIX treatment.
@@ -16,7 +16,7 @@ Evidence of new or worsening liver dysfunction (including clinically significant
 
 ## 5.2 Severe Skin Reactions
 
-During the darunavir clinical development program (n=3063), where darunavir was coadministered with ritonavir 100 mg once or twice daily, severe skin reactions, accompanied by fever and/or elevations of transaminases in some cases, was reported in 0.4% of subjects.
+During the darunavir clinical development program (n=3063), where darunavir was co-administered with ritonavir 100 mg once or twice daily, severe skin reactions, accompanied by fever and/or elevations of transaminases in some cases, was reported in 0.4% of subjects.
 Stevens-Johnson Syndrome was rarely (less than 0.1%) reported during the clinical development program.
 During post-marketing experience toxic epidermal necrolysis, drug rash with eosinophilia and systemic symptoms, and acute generalized exanthematous pustulosis have been reported.
 Discontinue PREZCOBIX immediately if signs or symptoms of severe skin reactions develop.
@@ -35,38 +35,38 @@ Consider alternative medications that do not require dosage adjustments in patie
 
 Although cobicistat may cause modest increases in serum creatinine and modest declines in estimated creatinine clearance without affecting renal glomerular function, patients who experience a confirmed increase in serum creatinine of greater than 0.4 mg/dL from baseline should be closely monitored for renal safety.
 
-## 5.4 New Onset or Worsening Renal Impairment When Used with Tenofovir Disoproxil Fumarate
+## 5.4 New Onset or Worsening Renal Impairment when used with Tenofovir Disoproxil Fumarate
 
 Renal impairment, including cases of acute renal failure and Fanconi syndrome, has been reported when cobicistat, a component of PREZCOBIX, was used in an antiretroviral regimen that contained tenofovir DF.
-Coadministration of PREZCOBIX and tenofovir DF is not recommended in patients who have an estimated creatinine clearance below 70 mL/min [see Dosage and Administration (2.3)].
+Co-administration of PREZCOBIX and tenofovir DF is not recommended in patients who have an estimated creatinine clearance below 70 mL/min [see Dosage and Administration (2.3)].
 
 - Document urine glucose and urine protein at baseline [see Dosage and Administration (2.2)] and perform routine monitoring of estimated creatinine clearance, urine glucose, and urine protein during treatment when PREZCOBIX is used with tenofovir DF.
   Measure serum phosphorus in patients with or at risk for renal impairment when used with tenofovir DF.
-- Coadministration of PREZCOBIX and tenofovir DF in combination with concomitant or recent use of a nephrotoxic agent is not recommended.
+- Co-administration of PREZCOBIX and tenofovir DF in combination with concomitant or recent use of a nephrotoxic agent is not recommended.
 
 See cobicistat full prescribing information for additional information regarding cobicistat.
 
-## 5.5 Risk of Serious Adverse Reactions or Loss of Virologic Response Due to Drug Interactions
+## 5.5 Risk of Serious Adverse Reactions or Loss of Virologic response due to Drug Interactions
 
 Initiation of PREZCOBIX, which inhibits CYP3A, in patients receiving medications metabolized by CYP3A, or initiation of medications metabolized by CYP3A in patients already receiving PREZCOBIX may increase plasma concentrations of these medications, which may increase the risk of clinically significant adverse reactions (including life-threatening or fatal reactions) associated with the concomitant medications.
-Coadministration of PREZCOBIX with CYP3A inducers may lead to lower exposures of darunavir and cobicistat and loss of efficacy of darunavir and possible resistance.
+Co-administration of PREZCOBIX with CYP3A inducers may lead to lower exposures of darunavir and cobicistat and loss of efficacy of darunavir and possible resistance.
 Therefore, consider the potential for drug interactions prior to and during PREZCOBIX therapy; review concomitant medications during PREZCOBIX therapy; and monitor for the adverse reactions associated with the concomitant drugs [see Contraindications (4), Drug Interactions (7)].
 
-When used with concomitant medications, PREZCOBIX may result in different drug interactions than those observed or expected with darunavir coadministered with ritonavir.
-Complex or unknown mechanisms of drug interactions preclude extrapolation of drug interactions with darunavir coadministered with ritonavir to certain PREZCOBIX interactions [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
+When used with concomitant medications, PREZCOBIX may result in different drug interactions than those observed or expected with darunavir co-administered with ritonavir.
+Complex or unknown mechanisms of drug interactions preclude extrapolation of drug interactions with darunavir co-administered with ritonavir to certain PREZCOBIX interactions [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
 
-## 5.6 Antiretrovirals Not Recommended
+## 5.6 Antiretrovirals not Recommended
 
-PREZCOBIX is not recommended in combination with other antiretroviral drugs that require pharmacokinetic boosting (i.e., another protease inhibitor or elvitegravir) because dosing recommendations for such combinations have not been established and coadministration may result in decreased plasma concentrations of the antiretroviral agents, leading to loss of therapeutic effect and development of resistance.
+PREZCOBIX is not recommended in combination with other antiretroviral drugs that require pharmacokinetic boosting (i.e., another protease inhibitor or elvitegravir) because dosing recommendations for such combinations have not been established and co-administration may result in decreased plasma concentrations of the antiretroviral agents, leading to loss of therapeutic effect and development of resistance.
 
 PREZCOBIX is not recommended in combination with products containing the individual components of PREZCOBIX (darunavir and cobicistat) or with ritonavir.
-For additional recommendations on use of PREZCOBIX with other antiretroviral agents, see Drug Interactions (7).
+For additional recommendations on use of PREZCOBIX with other antiretroviral agents, [see Drug Interactions (7)].
 
 ## 5.7 Sulfa Allergy
 
 Darunavir contains a sulfonamide moiety.
 Monitor patients with a known sulfonamide allergy after initiating PREZCOBIX.
-In clinical studies with darunavir coadministered with ritonavir, the incidence and severity of rash were similar in subjects with or without a history of sulfonamide allergy.
+In clinical studies with darunavir co-administered with ritonavir, the incidence and severity of rash were similar in subjects with or without a history of sulfonamide allergy.
 
 ## 5.8 Diabetes Mellitus/Hyperglycemia
 
