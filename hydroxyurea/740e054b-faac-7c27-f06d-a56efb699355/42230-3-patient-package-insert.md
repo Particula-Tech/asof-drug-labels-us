@@ -150,4 +150,4 @@ Manufactured for: Bristol-Myers Squibb Company, Princeton, New Jersey 08543 USA 
 For more information, go to www.BMS.com or call 1-800-721-5072.
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-1357793A0 Revised: March 2016
+1357793A1 Revised: March 2016
