@@ -68,6 +68,15 @@ Consideration should also be given to the total daily fluid intake of the patien
 KEPPRA injection should be administered as a 15-minute IV infusion.
 One vial of KEPPRA injection contains 500 mg levetiracetam (500 mg/5 mL).
 
+KEPPRA injection may be mixed with the following diluents and antiepileptic drugs and may be stored in polyvinyl chloride (PVC) bags.
+The diluted solution should not be stored for more than 4 hours at controlled room temperature [15-30°C (59-86°F)].
+
+Diluents: Sodium chloride (0.9%) injection, USP Lactated Ringer's injection Dextrose 5% injection, USP
+
+Other Antiepileptic Drugs: Lorazepam Diazepam Valproate sodium
+
+There are no data to support the physical compatibility of KEPPRA injection with antiepileptic drugs that are not listed above.
+
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
 Product with particulate matter or discoloration should not be used.
 
@@ -124,25 +133,3 @@ Table 2: Dosage Adjustment Regimen for Adult Patients with Renal Impairment
 | Moderate | 30 – 50 | 250 to 750 | Every 12 hours |
 | Severe | < 30 | 250 to 500 | Every 12 hours |
 | ESRD patients using dialysis | ------- | 500 to 1,000Following dialysis, a 250 to 500 mg supplemental dose is recommended. | Every 24 hours |
-
-## 2.8 Compatibility and Stability
-
-KEPPRA injection was found to be physically compatible and chemically stable when mixed with the following diluents and antiepileptic drugs for at least 24 hours and stored in polyvinyl chloride (PVC) bags at controlled room temperature 15-30°C (59-86°F).
-
-Diluents
-
-Sodium chloride (0.9%) injection, USP
-
-Lactated Ringer's injection
-
-Dextrose 5% injection, USP
-
-Other Antiepileptic Drugs
-
-Lorazepam
-
-Diazepam
-
-Valproate sodium
-
-There is no data to support the physical compatibility of KEPPRA injection with antiepileptic drugs that are not listed above.
