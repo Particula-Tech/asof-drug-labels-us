@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA201722"
+  ],
+  "inn": "nitrofurantoin",
+  "labeler": "Sun Pharmaceutical Industries, Inc.",
+  "package_ndcs": [
+    "57664-231-18",
+    "57664-231-88",
+    "57664-232-18",
+    "57664-232-88",
+    "57664-233-18",
+    "57664-233-88"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "nitrofurantion",
+      "name": "Nitrofurantion"
+    }
+  ],
+  "setid": "05f25774-f56a-48ef-bac3-8af663f8581a",
+  "source": "dailymed"
+}
