@@ -4,4 +4,6 @@ Hydroxyzine, when administered to the pregnant mouse, rat, and rabbit, induced f
 Clinical data in human beings are inadequate to establish safety in early pregnancy.
 Until such data are available, hydroxyzine is contraindicated in early pregnancy.
 
+Hydroxyzine is contraindicated in patients with a prolonged QT interval.
+
 Hydroxyzine pamoate is contraindicated for patients who have shown a previous hypersensitivity to any component of this medication.

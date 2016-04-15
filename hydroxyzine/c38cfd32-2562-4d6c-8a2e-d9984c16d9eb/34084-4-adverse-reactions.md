@@ -16,6 +16,10 @@ Drowsiness is usually transitory and may disappear in a few days of continued th
 Involuntary motor activity, including rare instances of tremor and convulsions, has been reported, usually with doses considerably higher than those recommended.
 Clinically significant respiratory depression has not been reported at recommended doses.
 
+Cardiac System
+
+QT prolongation, Torsade de Pointes.
+
 In post-marketing experience, the following additional undesirable effects have been reported:
 
 Body as a Whole: allergic reaction

@@ -14,4 +14,4 @@ In addition, each capsule contains the following inactive ingredients: colloidal
 
 The capsule shell contains the following ingredients: D&C Yellow #10, FD&C Green #3, FD&C Yellow #6, gelatin, and titanium dioxide.
 
-The edible imprinting ink contains the following ingredients: black iron oxide, D&C Yellow #10, FD&C Blue #1, FD&C Blue #2, FD&C Red #40, and shellac glaze.
+The edible imprinting ink contains the following ingredients: black iron oxide, D&C Yellow #10, FD&C Blue #1, FD&C Blue #2, FD&C Red #40, propylene glycol, and shellac glaze.
