@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 60 mg Tablet Bottle Label
 
-GLOBAL®
+Impax Generics
 
 NDC 0115-3511-01
 
