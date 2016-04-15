@@ -26,9 +26,11 @@ Dosing and Administration
 Patients should be instructed to only take KEPPRA XR once daily and to swallow the tablets whole.
 They should not be chewed, broken, or crushed.
 
+Inform patients that they should not be concerned if they occasionally notice something that looks like swollen pieces of the original tablet in their stool.
+
 Pregnancy
 
 Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during KEPPRA XR therapy.
 Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) pregnancy registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
-To enroll, patients can call the toll free number 1-888-233-2334 [see Use In Specific Populations (8.1)].
+To enroll, patients can call the toll free number 1-888-233-2334 [see Use in Specific Populations (8.1)].

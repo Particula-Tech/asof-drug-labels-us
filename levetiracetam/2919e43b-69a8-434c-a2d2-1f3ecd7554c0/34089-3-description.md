@@ -14,3 +14,6 @@ It is freely soluble in chloroform (65.3 g/100 mL) and in methanol (53.6 g/100 m
 KEPPRA XR tablets contain the labeled amount of levetiracetam.
 Inactive ingredients: colloidal anhydrous silica, hypromellose, magnesium stearate, polyethylene glycol 6000, polyvinyl alcohol-partially hydrolyzed, titanium dioxide (E171), Macrogol/PEG3350, and talc.
 The imprinting ink contains shellac, FD&C Red #40, n-butyl alcohol, propylene glycol, titanium dioxide, ethanol, and methanol.
+
+The medication is combined with a drug release controlling polymer that provides a drug release at a controlled rate.
+The biologically inert components of the tablet may occasionally remain intact during GI transit and will be eliminated in the feces as a soft, hydrated mass.

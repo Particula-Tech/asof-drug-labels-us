@@ -11,7 +11,7 @@ The once daily dosage may be adjusted in increments of 1000 mg every 2 weeks to 
 
 KEPPRA XR dosing must be individualized according to the patient's renal function status.
 Recommended dosage adjustments for adults are shown in Table 1.
-In order to calculate the dose recommended for patients with renal impairment, creatine clearance adjusted for body surface area must be calculated.
+In order to calculate the dose recommended for patients with renal impairment, creatinine clearance adjusted for body surface area must be calculated.
 To do this, an estimate of the patient's creatinine clearance (CLcr) in mL/min must first be calculated using the following formula:
 
 | CLcr= | [140-age (years)] × weight (kg) | (× 0.85 for female patients) |

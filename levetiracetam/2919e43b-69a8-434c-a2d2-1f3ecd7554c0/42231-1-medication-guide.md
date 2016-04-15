@@ -86,6 +86,9 @@ Take KEPPRA XR exactly as prescribed.
 - Take KEPPRA XR with or without food.
 - Swallow the tablets whole.
   Do not chew, break, or crush tablets.
+- The inactive part of Keppra XR tablets may not dissolve after all the medicine has been released in your body.
+  You may sometimes notice something in your bowel movement that looks like swollen pieces of the original tablet.
+  This is normal.
 - If you miss a dose of KEPPRA XR, take it as soon as you remember.
   If it is almost time for your next dose, just skip the missed dose.
   Take the next dose at your regular time.
@@ -145,7 +148,7 @@ It may harm them.
 This Medication Guide summarizes the most important information about KEPPRA XR.
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about KEPPRA XR that is written for health professionals.
-You can also get information about KEPPRA XR at www.keppraxr.com or call 1-866-822-0068.
+You can also get information about KEPPRA XR at www.keppraxr.com or call 1- (844) 599-CARE (2273).
 
 What are the ingredients of KEPPRA XR?
 
@@ -162,7 +165,7 @@ This Medication Guide has been approved by the US Food and Drug Administration.
 
 Distributed by UCB, Inc. Smyrna, GA 30080
 
-KEPPRA XR is a registered trademark of the UCB Group of companies © 2014, UCB, Inc., Smyrna, GA 30080 All rights reserved.
+KEPPRA XR is a registered trademark of the UCB Group of companies © 2016, UCB, Inc., Smyrna, GA 30080 All rights reserved.
 
 Rev.
-08/2014
+04/2016
