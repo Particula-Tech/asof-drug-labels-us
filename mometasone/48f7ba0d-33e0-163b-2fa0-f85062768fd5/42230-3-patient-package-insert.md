@@ -2,6 +2,8 @@ Patient Information
 
 Mometasone Furoate Nasal Spray, 50 mcg
 
+(moe met' a sone fure' oh ate)
+
 FOR INTRANASAL USE ONLY
 
 Read the Patient Information that comes with Mometasone Furoate Nasal Spray before you start using it and each time you get a refill.
@@ -109,7 +111,6 @@ You may report side effects to FDA at 1-800-FDA-1088.
 How should I store Mometasone Furoate Nasal Spray?
 
 - Store Mometasone Furoate Nasal Spray at 20° - 25°C (68° - 77°F) [See USP Controlled Room Temperature].
-  Do not freeze.
   Protect from light.
 - Avoid prolonged exposure of Mometasone Furoate Nasal Spray container to bright light.
 - Shake well before each use.
@@ -166,6 +167,7 @@ Shake the bottle well before each use.
 - 
 - 
 - 
+- 
 - Note: It is important to keep the Mometasone Furoate Nasal Spray unit in an upright orientation (as seen in Figure 4).
   Failure to do so may result in an incomplete or non-existent spray.
 
@@ -217,8 +219,6 @@ Patient Instruction for cleaning applicator
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Apotex Inc. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Apotex Corp. |
 | Toronto, Ontario |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Weston, FL |
-| M9L 1T9 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 33326 |
+| M9L 1T9 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 3332 |
 
-000000
-
-March 2016
+April 2016
