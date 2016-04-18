@@ -1,4 +1,4 @@
-NORVASC® (amlodipine besylate)
+NORVASC® (amlodipine besylate) 2.5-mg, 5-mg, and 10-mg tablets
 
 Read this information carefully before you start taking NORVASC (NORE-vask) and each time you refill your prescription.
 There may be new information.
@@ -97,4 +97,4 @@ It may harm them.
 
 You can ask your pharmacist or doctor for information about NORVASC, or you can visit the Pfizer website at www.pfizer.com or call 1-800-438-1985.
 
-LAB-0015-8.0 August 2014
+LAB-0015-9.0 April 2016

@@ -10,17 +10,17 @@ Norvasc® 2.5 (amlodipine besylate)
 
 Pfizer Pfizer Labs Division of Pfizer Inc, NY, NY 10017
 
-PRINCIPAL DISPLAY PANEL - 5 mg Tablets
+# PRINCIPAL DISPLAY PANEL - 5 mg Tablet Bottle Label
 
 NDC 0069-1530-68
 
-90 Tablets Rx only
+Pfizer
 
-Norvasc® 5 (amlodipine besylate)
+Norvasc ® (amlodipine besylate) tablets
 
 5 mg*
 
-Pfizer Pfizer Labs Division of Pfizer Inc, NY, NY 10017
+90 Tablets Rx only
 
 PRINCIPAL DISPLAY PANEL - 5 mg Blister Pack
 
@@ -44,17 +44,17 @@ Norvasc® (amlodipine besylate) 5
 
 For in-institution use only
 
-PRINCIPAL DISPLAY PANEL - 10 mg Tablets
+# PRINCIPAL DISPLAY PANEL - 10 mg Tablet Bottle Label
 
 NDC 0069-1540-68
 
-90 Tablets Rx only
+Pfizer
 
-Norvasc® 10 (amlodipine besylate)
+Norvasc ® (amlodipine besylate) tablets
 
 10 mg*
 
-Pfizer Pfizer Labs Division of Pfizer Inc, NY, NY 10017
+90 Tablets Rx only
 
 PRINCIPAL DISPLAY PANEL - 10 mg Blister Pack
 
