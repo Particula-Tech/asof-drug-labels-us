@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 0.5 mg Label
+# PRINCIPAL DISPLAY PANEL - 0.5 mg Tablet Bottle Label
 
 NDC 0004-0068-01
 
@@ -17,7 +17,7 @@ For additional Medication Guides call 1-877-436-3683 or visit www.gene.com/gene/
 
 Genentech
 
-# PRINCIPAL DISPLAY PANEL - 1 mg Label
+# PRINCIPAL DISPLAY PANEL - 1 mg Tablet Bottle Label
 
 NDC 0004-0058-01
 
@@ -36,7 +36,7 @@ For additional Medication Guides call 1-877-436-3683 or visit www.gene.com/gene/
 
 Genentech
 
-# PRINCIPAL DISPLAY PANEL - 2 mg Label
+# PRINCIPAL DISPLAY PANEL - 2 mg Tablet Bottle Label
 
 NDC 0004-0098-01
 

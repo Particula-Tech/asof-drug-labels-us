@@ -162,7 +162,7 @@ This Medication Guide summarizes the most important information about KLONOPIN.
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about KLONOPIN that is written for health professionals.
 
-For more information, go to www.gene.com/gene/products/information/klonopin or call 1-888-835-2555.
+For more information, go to www.gene.com/patients/medicines/klonopin.
 
 What are the ingredients in KLONOPIN?
 
@@ -175,7 +175,7 @@ Inactive ingredients:
   - 1 mg tablets contain lactose, magnesium stearate, microcrystalline cellulose, corn starch, FD&C Blue No. 1 Lake and FD&C Blue No. 2 Lake
   - 2 mg tablets contain lactose, magnesium stearate, microcrystalline cellulose, corn starch
 
-Issued: December 2013
+Issued: March 2016
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -183,6 +183,6 @@ Distributed by:
 
 Genentech USA, Inc. A Member of the Roche Group 1 DNA Way South San Francisco, CA 94080-4990
 
-© 2013 Genentech, Inc. All rights reserved.
+© 2016 Genentech, Inc. All rights reserved.
 
-For additional copies of this Medication Guide, please call 1-877-436-3683 or visit www.gene.com/gene/products/information/klonopin.
+For additional copies of this Medication Guide, please call 1-877-Genentech (1-877-436-3683) or visit www.gene.com/patients/medicines//klonopin.

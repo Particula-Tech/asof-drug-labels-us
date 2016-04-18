@@ -7,14 +7,7 @@ The adverse experiences for Klonopin are provided separately for patients with s
 The most frequently occurring side effects of Klonopin are referable to CNS depression.
 Experience in treatment of seizures has shown that drowsiness has occurred in approximately 50% of patients and ataxia in approximately 30%.
 In some cases, these may diminish with time; behavior problems have been noted in approximately 25% of patients.
-Others, listed by system, are:
-
-Neurologic: Abnormal eye movements, aphonia, choreiform movements, coma, diplopia, dysarthria, dysdiadochokinesis, "glassy-eyed" appearance, headache, hemiparesis, hypotonia, nystagmus, respiratory depression, slurred speech, tremor, vertigo
-
-Psychiatric: Confusion, depression, amnesia, hallucinations, hysteria, increased libido, insomnia, psychosis (the behavior effects are more likely to occur in patients with a history of psychiatric disturbances).
-The following paradoxical reactions have been observed: excitability, irritability, aggressive behavior, agitation, nervousness, hostility, anxiety, sleep disturbances, nightmares and vivid dreams
-
-Respiratory: Chest congestion, rhinorrhea, shortness of breath, hypersecretion in upper respiratory passages
+Others, listed by system, including those identified during postapproval use of Klonopin are:
 
 Cardiovascular: Palpitations
 
@@ -24,13 +17,20 @@ Gastrointestinal: Anorexia, coated tongue, constipation, diarrhea, dry mouth, en
 
 Genitourinary: Dysuria, enuresis, nocturia, urinary retention
 
+Hematopoietic: Anemia, leukopenia, thrombocytopenia, eosinophilia
+
+Hepatic: Hepatomegaly, transient elevations of serum transaminases and alkaline phosphatase
+
 Musculoskeletal: Muscle weakness, pains
 
 Miscellaneous: Dehydration, general deterioration, fever, lymphadenopathy, weight loss or gain
 
-Hematopoietic: Anemia, leukopenia, thrombocytopenia, eosinophilia
+Neurologic: Abnormal eye movements, aphonia, choreiform movements, coma, diplopia, dysarthria, dysdiadochokinesis, ''glassy-eyed'' appearance, headache, hemiparesis, hypotonia, nystagmus, respiratory depression, slurred speech, tremor, vertigo
 
-Hepatic: Hepatomegaly, transient elevations of serum transaminases and alkaline phosphatase
+Psychiatric: Confusion, depression, amnesia, hallucinations, hysteria, increased libido, insomnia, psychosis (the behavior effects are more likely to occur in patients with a history of psychiatric disturbances).
+The following paradoxical reactions have been observed: excitability, irritability, aggressive behavior, agitation, nervousness, hostility, anxiety, sleep disturbances, nightmares and vivid dreams
+
+Respiratory: Chest congestion, rhinorrhea, shortness of breath, hypersecretion in upper respiratory passages
 
 ## Panic Disorder
 

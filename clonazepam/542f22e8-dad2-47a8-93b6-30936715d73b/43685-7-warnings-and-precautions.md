@@ -114,7 +114,14 @@ Metabolites of Klonopin are excreted by the kidneys; to avoid their excess accum
 
 Klonopin may produce an increase in salivation.
 This should be considered before giving the drug to patients who have difficulty handling secretions.
-Because of this and the possibility of respiratory depression, Klonopin should be used with caution in patients with chronic respiratory diseases.
+
+### Respiratory Compromise
+
+Klonopin should be used with caution in patients with compromised respiratory function.
+
+### Porphyria
+
+Klonopin may have a porphyrogenic effect and should be used with care in patients with porphyria.
 
 ## Information for Patients
 
