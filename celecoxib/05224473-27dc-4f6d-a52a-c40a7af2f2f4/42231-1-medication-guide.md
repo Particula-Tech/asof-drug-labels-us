@@ -141,8 +141,10 @@ NSAID medicines that need a prescription
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
+To request medication information or to report SUSPECTED ADVERSE REACTIONS, contact Actavis at 1-800-272-5525 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch
+
 Manufactured by: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
 
-Distributed by: Watson Pharma, Inc. Parsippany, NJ 07054 USA
+Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Issued: February 2014
+Revised: February 2015

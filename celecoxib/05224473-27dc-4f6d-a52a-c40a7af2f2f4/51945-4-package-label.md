@@ -1,15 +1,15 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-NDC 0591-3982-60 Celecoxib Capsules 50 mg 60 Capsules Rx only
+NDC 0591-3982-60 Celecoxib Capsules 50 mg 60 Capsules Rx Only
 
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL ​
 
-NDC 0591-3983-01 Celecoxib Capsules 100 mg 100 Capsules Rx only
+NDC 0591-3983-01 Celecoxib Capsules 100 mg 100 Capsules Rx Only
 
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-NDC 0591-3984-01 Celecoxib Capsules 200 mg 100 Capsules Rx only
+NDC 0591-3984-01 Celecoxib Capsules 200 mg 100 Capsules Rx Only
 
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-NDC 0591-3985-60 Celecoxib Capsules 400 mg 60 Capsules Rx only
+NDC 0591-3985-60 Celecoxib Capsules 400 mg 60 Capsules Rx Only

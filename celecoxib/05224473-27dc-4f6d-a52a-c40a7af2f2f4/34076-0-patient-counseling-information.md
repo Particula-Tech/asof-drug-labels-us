@@ -60,6 +60,6 @@ Patients with preexisting asthma should be instructed to seek immediate medical 
 
 Manufactured by: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
 
-Distributed by: Watson Pharma, Inc. Parsippany, NJ 07054 USA
+Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Issued: February 2014
+Revised: February 2015
