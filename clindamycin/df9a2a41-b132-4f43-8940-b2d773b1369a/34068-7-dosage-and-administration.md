@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-If significant diarrhea occurs during therapy, this antibiotic should be discontinued (see WARNING box).
+If significant diarrhea occurs during therapy, this antibiotic should be discontinued (see BOXED WARNING).
 
 Adults: Serious infections – 150 to 300 mg every 6 hours.
 More severe infections – 300 to 450 mg every 6 hours.
