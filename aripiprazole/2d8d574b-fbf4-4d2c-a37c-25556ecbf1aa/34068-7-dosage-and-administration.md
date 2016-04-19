@@ -3,7 +3,7 @@
 ## 2.1 Schizophrenia
 
 Adults The recommended starting and target dose for aripiprazole tablets is 10 or 15 mg/day administered on a once-a-day schedule without regard to meals.
-Aripiprazole tablets have been systematically evaluated and shown to be effective in a dose range of 10 mg/day to 30 mg/day, when administered as the tablet formulation; however, doses higher than 10 mg/day or 15 mg/day were not more effective than 10 mg/day or 15 mg/day.
+Aripiprazole tablets have been systematically evaluated and shown to be effective in a dose range of 10 to 30 mg/day, when administered as the tablet formulation; however, doses higher than 10 or 15 mg/day were not more effective than 10 or 15 mg/day.
 Dosage increases should generally not be made before 2 weeks, the time needed to achieve steady-state [see CLINICAL STUDIES (14.1)].
 Maintenance Treatment: Maintenance of efficacy in schizophrenia was demonstrated in a trial involving patients with schizophrenia who had been symptomatically stable on other antipsychotic medications for periods of 3 months or longer.
 These patients were discontinued from those medications and randomized to either aripiprazole tablets 15 mg/day or placebo, and observed for relapse [see CLINICAL STUDIES (14.1)].

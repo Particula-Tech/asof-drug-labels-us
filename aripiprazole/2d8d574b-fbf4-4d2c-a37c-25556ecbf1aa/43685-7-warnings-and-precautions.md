@@ -6,13 +6,13 @@ Increased Mortality Elderly patients with dementia-related psychosis treated wit
 Aripiprazole tablets are not approved for the treatment of patients with dementia-related psychosis [see BOXED WARNING].
 Safety Experience in Elderly Patients with Psychosis Associated with Alzheimer's Disease In three, 10-week, placebo-controlled studies of aripiprazole tablets in elderly patients with psychosis associated with Alzheimer's disease (n=938; mean age: 82.4 years; range: 56 to 99 years), the adverse reactions that were reported at an incidence of ≥3% and aripiprazole tablets incidence at least twice that for placebo were lethargy [placebo 2%, aripiprazole tablets 5%], somnolence (including sedation) [placebo 3%, aripiprazole tablets 8%], and incontinence (primarily, urinary incontinence) [placebo 1%, aripiprazole tablets 5%], excessive salivation [placebo 0%, aripiprazole tablets 4%], and lightheadedness [placebo 1%, aripiprazole tablets 4%].
 The safety and efficacy of aripiprazole tablets in the treatment of patients with psychosis associated with dementia have not been established.
-If the prescriber elects to treat such patients with aripiprazole tablets, assess for the emergence of difficulty swallowing or excessive somnolence, which could predispose to accidental injury or aspiration [see also BOXED WARNING].
+If the prescriber elects to treat such patients with aripiprazole tablets, assess for the emergence of difficulty swallowing or excessive somnolence, which could predispose to accidental injury or aspiration [see BOXED WARNING].
 
 ## 5.2 Cerebrovascular Adverse Events, Including Stroke
 
 In placebo-controlled clinical studies (two flexible dose and one fixed dose study) of dementia-related psychosis, there was an increased incidence of cerebrovascular adverse events (eg, stroke, transient ischemic attack), including fatalities, in aripiprazole-treated patients (mean age: 84 years; range: 78 to 88 years).
 In the fixed-dose study, there was a statistically significant dose response relationship for cerebrovascular adverse events in patients treated with aripiprazole tablets.
-Aripiprazole tablets are not approved for the treatment of patients with dementia-related psychosis [see also BOXED WARNING].
+Aripiprazole tablets are not approved for the treatment of patients with dementia-related psychosis [see BOXED WARNING].
 
 ## 5.3 Suicidal Thoughts and Behaviors in Children, Adolescents and Young Adults
 
@@ -90,9 +90,9 @@ Hyperglycemia/Diabetes Mellitus Hyperglycemia, in some cases extreme and associa
 There have been reports of hyperglycemia in patients treated with aripiprazole tablets [see ADVERSE REACTIONS (6.1, 6.2)].
 Assessment of the relationship between atypical antipsychotic use and glucose abnormalities is complicated by the possibility of an increased background risk of diabetes mellitus in patients with schizophrenia and the increasing incidence of diabetes mellitus in the general population.
 Given these confounders, the relationship between atypical antipsychotic use and hyperglycemia-related adverse events is not completely understood.
-However, epidemiological studies suggest an increased risk of hyperglycemia-related adverse events in patients treated with the atypical antipsychotics.
+However, epidemiological studies suggest an increased risk of hyperglycemia-related adverse reactions in patients treated with the atypical antipsychotics.
 Because aripiprazole tablets were not marketed at the time these studies were performed, it is not known if aripiprazole tablets are associated with this increased risk.
-Precise risk estimates for hyperglycemia-related adverse events in patients treated with atypical antipsychotics are not available.
+Precise risk estimates for hyperglycemia-related adverse reactions in patients treated with atypical antipsychotics are not available.
 Patients with an established diagnosis of diabetes mellitus who are started on atypical antipsychotics should be monitored regularly for worsening of glucose control.
 Patients with risk factors for diabetes mellitus (eg, obesity, family history of diabetes) who are starting treatment with atypical antipsychotics should undergo fasting blood glucose testing at the beginning of treatment and periodically during treatment.
 Any patient treated with atypical antipsychotics should be monitored for symptoms of hyperglycemia including polydipsia, polyuria, polyphagia, and weakness.
@@ -192,7 +192,7 @@ However, due to Otsuka America Pharmaceutical, Inc.'s marketing exclusivity righ
 
 Aripiprazole tablets may cause orthostatic hypotension, perhaps due to its α1-adrenergic receptor antagonism.
 The incidence of orthostatic hypotension-associated events from short-term, placebo-controlled trials of adult patients on oral aripiprazole tablets (n=2467) included (aripiprazole tablets incidence, placebo incidence) orthostatic hypotension (1%, 0.3%), postural dizziness (0.5%, 0.3%), and syncope (0.5%, 0.4%); of pediatric patients 6 to 18 years of age (n=732) on oral aripiprazole tablets included orthostatic hypotension (0.5%, 0%), postural dizziness (0.4%, 0%), and syncope (0.2%, 0%).
-[see ADVERSE REACTIONS (6.1)] The incidence of a significant orthostatic change in blood pressure (defined as a decrease in systolic blood pressure ≥20 mmHg accompanied by an increase in heart rate ≥25 when comparing standing to supine values) for aripiprazole tablets was not meaningfully different from placebo (aripiprazole tablets incidence, placebo incidence): in adult oral aripiprazole tablets-treated patients (4%, 2%), in pediatric oral aripiprazole tablets-treated patients aged 6 to 18 years (0.4%, 1%).
+[see ADVERSE REACTIONS (6.1)] The incidence of a significant orthostatic change in blood pressure (defined as a decrease in systolic blood pressure ≥20 mmHg accompanied by an increase in heart rate ≥25 bpm when comparing standing to supine values) for aripiprazole tablets was not meaningfully different from placebo (aripiprazole tablets incidence, placebo incidence): in adult oral aripiprazole tablets-treated patients (4%, 2%), in pediatric oral aripiprazole tablets-treated patients aged 6 to 18 years (0.4%, 1%).
 Aripiprazole should be used with caution in patients with known cardiovascular disease (history of myocardial infarction or ischemic heart disease, heart failure, or conduction abnormalities), cerebrovascular disease, or conditions which would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medications).
 [see DRUG INTERACTIONS (7.1)].
 

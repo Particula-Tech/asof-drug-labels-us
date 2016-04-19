@@ -26,6 +26,10 @@ Pregnant rabbits were treated with oral doses of 10, 30, and 100 mg/kg/day (2, 3
 At the high dose of 100 mg/kg/day decreased maternal food consumption, and increased abortions were seen as well as increased fetal mortality, decreased fetal weight (also seen at 30 mg/kg/day), increased incidence of a skeletal abnormality (fused sternebrae) (also seen at 30 mg/kg/day).
 In a study in which rats were treated peri- and post-natally with oral doses of 3, 10, and 30 mg/kg/day (1, 3, and 10 times the MRHD on a mg/m2 basis) of aripiprazole from day 17 through day 21 postpartum, slight maternal toxicity, slightly prolonged gestation an increase in stillbirths and, decreases in pup weight (persisting into adulthood) and survival were seen at 30 mg/kg/day.
 
+## 8.2 Labor & Delivery
+
+The effect of aripiprazole tablets on labor and delivery in humans is unknown.
+
 ## 8.3 Nursing Mothers
 
 Aripiprazole is present in human breast milk.
@@ -53,10 +57,10 @@ All drug-related effects were reversible after a 2-month recovery period.
 
 ## 8.5 Geriatric Use
 
-No dosage adjustment is recommended for elderly patients [see also BOXED WARNING, WARNINGS AND PRECAUTIONS (5.1), and CLINICAL PHARMACOLOGY (12.3)].
+No dosage adjustment is recommended for elderly patients [see BOXED WARNING, WARNINGS AND PRECAUTIONS (5.1), and CLINICAL PHARMACOLOGY (12.3)].
 Of the 13,543 patients treated with oral aripiprazole tablets in clinical trials, 1073 (8%) were ≥65 years old and 799 (6%) were ≥75 years old.
 Placebo-controlled studies of oral aripiprazole in schizophrenia, other indications did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
-Aripiprazole tablets are not approved for the treatment of patients with psychosis associated with Alzheimer's disease [see also BOXED WARNINGand WARNINGS AND PRECAUTIONS (5.1)].
+Aripiprazole tablets are not approved for the treatment of patients with psychosis associated with Alzheimer's disease [see BOXED WARNINGand WARNINGS AND PRECAUTIONS (5.1)].
 
 ## 8.6 CYP2D6 Poor Metabolizers
 

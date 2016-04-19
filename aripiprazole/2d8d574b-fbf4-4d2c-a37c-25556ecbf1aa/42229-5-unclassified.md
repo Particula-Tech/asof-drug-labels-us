@@ -57,7 +57,7 @@ Tardive dyskinesia may not go away, even if you stop receiving aripiprazole tabl
 Tardive dyskinesia may also start after you stop receiving aripiprazole tablets. o Problems with your metabolism such as: •high blood sugar (hyperglycemia) and diabetes: Increases in blood sugar can happen in some people who take aripiprazole tablets.
 Extremely high blood sugar can lead to coma or death.
 If you have diabetes or risk factors for diabetes (such as being overweight or a family history of diabetes), your healthcare provider should check your blood sugar before you start aripiprazole tablets and during your treatment.
-Call your healthcare provider if you have any of these symptoms of high blood sugar while taking aripiprazole tablets:  o feel very thirsty  o need to urinate more than usual  o feel very hungry  o feel weak or tired o feel sick to your stomach  o feel confused, or your breath smells fruity. o increased fat levels (cholesterol and triglycerides) in your blood. o weight gain.
+Call your healthcare provider if you have any of these symptoms of high blood sugar while receiving aripiprazole tablets:  o feel very thirsty  o need to urinate more than usual  o feel very hungry  o feel weak or tired o feel sick to your stomach  o feel confused, or your breath smells fruity. o increased fat levels (cholesterol and triglycerides) in your blood. o weight gain.
 You and your healthcare provider should check your weight regularly. • Orthostatic hypotension (decreased blood pressure): Lightheadedness or fainting may happen when rising too quickly from a sitting or lying position. • Low white blood cell count • Seizures (convulsions) • problems with control of your body temperature especially when you exercise a lot or are in an area that is very hot.
 It is important for you to drink water to avoid dehydration.
 See "What should I avoid while receiving aripiprazole tablets?" • difficulty swallowing that can cause food or liquid to get into your lungs.
@@ -85,4 +85,4 @@ Manufactured by: HETEROTM HETERO LABS LIMITED Unit V, Polepally, Jadcherla, Maha
 
 ABILIFY is a trademark of Otsuka Pharmaceutical Company.
 
-Revised: October 2015
+Revised: February 2016
