@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 Increased concentrations of the incretin hormones such as glucagon-like peptide-1 (GLP-1) and glucose-dependent insulinotropic polypeptide (GIP) are released into the bloodstream from the small intestine in response to meals.
-These hormones cause insulin release from the pancreatic beta cells in a glucose-dependent manner but are inactivated by the DPP-4 enzyme within minutes.
+These hormones cause insulin release from the pancreatic beta cells in a glucose-dependent manner but are inactivated by the dipeptidyl peptidase-4 (DPP-4) enzyme within minutes.
 GLP-1 also lowers glucagon secretion from pancreatic alpha cells, reducing hepatic glucose production.
 In patients with type 2 diabetes, concentrations of GLP-1 are reduced but the insulin response to GLP-1 is preserved.
 Alogliptin is a DPP-4 inhibitor that slows the inactivation of the incretin hormones, thereby increasing their bloodstream concentrations and reducing fasting and postprandial glucose concentrations in a glucose-dependent manner in patients with type 2 diabetes mellitus.
@@ -25,7 +25,7 @@ At these doses of NESINA, inhibition of DPP-4 remained above 81% at 24 hours aft
 Cardiac Electrophysiology
 
 In a randomized, placebo-controlled, four-arm, parallel-group study, 257 subjects were administered either alogliptin 50 mg, alogliptin 400 mg, moxifloxacin 400 mg or placebo once daily for a total of seven days.
-No increase in QTc was observed with either dose of alogliptin.
+No increase in corrected QT (QTc) was observed with either dose of alogliptin.
 At the 400 mg dose, peak alogliptin plasma concentrations were 19-fold higher than the peak concentrations following the maximum recommended clinical dose of 25 mg.
 
 ## 12.3 Pharmacokinetics
@@ -34,7 +34,7 @@ The pharmacokinetics of NESINA has been studied in healthy subjects and in patie
 After administration of single, oral doses up to 800 mg in healthy subjects, the peak plasma alogliptin concentration (median Tmax) occurred one to two hours after dosing.
 At the maximum recommended clinical dose of 25 mg, NESINA was eliminated with a mean terminal half-life (T1/2) of approximately 21 hours.
 
-After multiple-dose administration up to 400 mg for 14 days in patients with type 2 diabetes, accumulation of alogliptin was minimal with an increase in total (i.e., AUC) and peak (i.e., Cmax) alogliptin exposures of 34% and 9%, respectively.
+After multiple-dose administration up to 400 mg for 14 days in patients with type 2 diabetes, accumulation of alogliptin was minimal with an increase in total [e.g., area under the plasma concentration curve (AUC)] and peak (i.e., Cmax) alogliptin exposures of 34% and 9%, respectively.
 Total and peak exposure to alogliptin increased proportionally across single doses and multiple doses of alogliptin ranging from 25 mg to 400 mg.
 The intersubject coefficient of variation for alogliptin AUC was 17%.
 The pharmacokinetics of NESINA was also shown to be similar in healthy subjects and in patients with type 2 diabetes.
@@ -55,11 +55,11 @@ Metabolism
 
 Alogliptin does not undergo extensive metabolism and 60% to 71% of the dose is excreted as unchanged drug in the urine.
 
-Two minor metabolites were detected following administration of an oral dose of [14C] alogliptin, N-demethylated, M-I (<1% of the parent compound), and N-acetylated alogliptin, M-II (<6% of the parent compound).
+Two minor metabolites were detected following administration of an oral dose of [14C] alogliptin, N-demethylated, M-I (less than 1% of the parent compound), and N-acetylated alogliptin, M-II (less than 6% of the parent compound).
 M-I is an active metabolite and is an inhibitor of DPP-4 similar to the parent molecule; M-II does not display any inhibitory activity toward DPP-4 or other DPP-related enzymes.
 In vitro data indicate that CYP2D6 and CYP3A4 contribute to the limited metabolism of alogliptin.
 
-Alogliptin exists predominantly as the (R)-enantiomer (>99%) and undergoes little or no chiral conversion in vivo to the (S)-enantiomer.
+Alogliptin exists predominantly as the (R)-enantiomer (more than 99%) and undergoes little or no chiral conversion in vivo to the (S)-enantiomer.
 The (S)-enantiomer is not detectable at the 25 mg dose.
 
 Excretion
@@ -67,7 +67,7 @@ Excretion
 The primary route of elimination of [14C] alogliptin-derived radioactivity occurs via renal excretion (76%) with 13% recovered in the feces, achieving a total recovery of 89% of the administered radioactive dose.
 The renal clearance of alogliptin (9.6 L/hr) indicates some active renal tubular secretion and systemic clearance was 14.0 L/hr.
 
-Specific Populations
+Special Populations
 
 Renal Impairment
 
@@ -79,7 +79,7 @@ Because increases of this magnitude are not considered clinically relevant, dose
 In patients with moderate renal impairment (CrCl ≥30 to <60 mL/min), an approximate two-fold increase in plasma AUC of alogliptin was observed.
 To maintain similar systemic exposures of NESINA to those with normal renal function, the recommended dose is 12.5 mg once daily in patients with moderate renal impairment.
 
-In patients with severe renal impairment (CrCl ≥15 to <30 mL/min) and ESRD (CrCl <15 mL/min or requiring dialysis), an approximate three- and four-fold increase in plasma AUC of alogliptin were observed, respectively.
+In patients with severe renal impairment (CrCl ≥15 to <30 mL/min) and end-stage renal disease (ESRD) (CrCl <15 mL/min or requiring dialysis), an approximate three- and four-fold increase in plasma AUC of alogliptin were observed, respectively.
 Dialysis removed approximately 7% of the drug during a three-hour dialysis session.
 NESINA may be administered without regard to the timing of the dialysis.
 To maintain similar systemic exposures of NESINA to those with normal renal function, the recommended dose is 6.25 mg once daily in patients with severe renal impairment, as well as in patients with ESRD requiring dialysis.

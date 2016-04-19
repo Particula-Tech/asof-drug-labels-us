@@ -2,37 +2,47 @@
 
 ## 5.1 Pancreatitis
 
-There have been postmarketing reports of acute pancreatitis in patients taking NESINA.
-After initiation of NESINA, patients should be observed carefully for signs and symptoms of pancreatitis.
-If pancreatitis is suspected, NESINA should promptly be discontinued and appropriate management should be initiated.
-It is unknown whether patients with a history of pancreatitis are at increased risk for the development of pancreatitis while using NESINA.
+Acute pancreatitis has been reported in the postmarketing setting and in randomized clinical trials.
+In glycemic control trials in patients with type 2 diabetes, acute pancreatitis was reported in 6 (0.2%) patients treated with NESINA 25 mg and 2 (<0.1%) patients treated with active comparators or placebo.
+In the EXAMINE trial (a cardiovascular outcomes trial of patients with type 2 diabetes and high cardiovascular (CV) risk), acute pancreatitis was reported in 10 (0.4%) of patients treated with NESINA and in 7 (0.3%) of patients treated with placebo.
 
-## 5.2 Hypersensitivity Reactions
+It is unknown whether patients with a history of pancreatitis are at increased risk for pancreatitis while using NESINA.
+
+After initiation of NESINA, patients should be observed for signs and symptoms of pancreatitis.
+If pancreatitis is suspected, NESINA should promptly be discontinued and appropriate management should be initiated.
+
+## 5.2 Heart Failure
+
+In the EXAMINE trial which enrolled patients with type 2 diabetes and recent acute coronary syndrome, 106 (3.9%) of patients treated with NESINA and 89 (3.3%) of patients treated with placebo were hospitalized for congestive heart failure.
+
+Consider the risks and benefits of NESINA prior to initiating treatment in patients at risk for heart failure, such as those with a prior history of heart failure and a history of renal impairment, and observe these patients for signs and symptoms of heart failure during therapy.
+Patients should be advised of the characteristic symptoms of heart failure and should be instructed to immediately report such symptoms.
+If heart failure develops, evaluate and manage according to current standards of care and consider discontinuation of NESINA.
+
+## 5.3 Hypersensitivity Reactions
 
 There have been postmarketing reports of serious hypersensitivity reactions in patients treated with NESINA.
 These reactions include anaphylaxis, angioedema and severe cutaneous adverse reactions, including Stevens-Johnson syndrome.
 If a serious hypersensitivity reaction is suspected, discontinue NESINA, assess for other potential causes for the event and institute alternative treatment for diabetes [see Adverse Reactions (6.2)].
-Use caution in a patient with a history of angioedema with another DPP-4 inhibitor because it is unknown whether such patients will be predisposed to angioedema with NESINA.
+Use caution in patients with a history of angioedema with another dipeptidyl peptidase-4 (DPP-4) inhibitor because it is unknown whether such patients will be predisposed to angioedema with NESINA.
 
-## 5.3 Hepatic Effects
+## 5.4 Hepatic Effects
 
 There have been postmarketing reports of fatal and nonfatal hepatic failure in patients taking NESINA, although some of the reports contain insufficient information necessary to establish the probable cause [see Adverse Reactions (6.2)].
-In randomized controlled studies, serum alanine aminotransferase (ALT) elevations greater than three times the upper limit of normal (ULN) were observed: 1.3% in alogliptin-treated patients and 1.5% in all comparator-treated patients.
 
-Patients with type 2 diabetes may have fatty liver disease, which may cause liver test abnormalities, and they may also have other forms of liver disease, many of which can be treated or managed.
-Therefore, obtaining a liver test panel and assessing the patient before initiating NESINA therapy is recommended.
-In patients with abnormal liver tests, NESINA should be initiated with caution.
+In glycemic control trials in patients with type 2 diabetes, serum alanine aminotransferase (ALT) elevations greater than three times the upper limit of normal (ULN) were reported in 1.3% of patients treated with NESINA 25 mg and 1.7% of patients treated with active comparators or placebo.
+In the EXAMINE trial (a cardiovascular outcomes trial of patients with type 2 diabetes and high cardiovascular (CV) risk), increases in serum alanine aminotransferase three times the upper limit of the reference range occurred in 2.4% of patients treated with NESINA and in 1.8% of patients treated with placebo.
 
 Measure liver tests promptly in patients who report symptoms that may indicate liver injury, including fatigue, anorexia, right upper abdominal discomfort, dark urine or jaundice.
 In this clinical context, if the patient is found to have clinically significant liver enzyme elevations and if abnormal liver tests persist or worsen, NESINA should be interrupted and investigation done to establish the probable cause.
 NESINA should not be restarted in these patients without another explanation for the liver test abnormalities.
 
-## 5.4 Use with Medications Known to Cause Hypoglycemia
+## 5.5 Use with Medications Known to Cause Hypoglycemia
 
 Insulin and insulin secretagogues, such as sulfonylureas, are known to cause hypoglycemia.
 Therefore, a lower dose of insulin or insulin secretagogue may be required to minimize the risk of hypoglycemia when used in combination with NESINA.
 
-## 5.5 Severe and Disabling Arthralgia
+## 5.6 Severe and Disabling Arthralgia
 
 There have been postmarketing reports of severe and disabling arthralgia in patients taking DPP-4 inhibitors.
 The time to onset of symptoms following initiation of drug therapy varied from one day to years.
@@ -40,6 +50,6 @@ Patients experienced relief of symptoms upon discontinuation of the medication.
 A subset of patients experienced a recurrence of symptoms when restarting the same drug or a different DPP-4 inhibitor.
 Consider DPP-4 inhibitors as a possible cause for severe joint pain and discontinue drug if appropriate.
 
-## 5.6 Macrovascular Outcomes
+## 5.7 Macrovascular Outcomes
 
 There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with NESINA or any other antidiabetic drug.

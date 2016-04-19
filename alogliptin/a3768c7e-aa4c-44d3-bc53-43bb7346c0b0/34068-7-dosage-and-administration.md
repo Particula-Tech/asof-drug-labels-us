@@ -14,6 +14,6 @@ The dose of NESINA is 12.5 mg once daily for patients with moderate renal impair
 
 The dose of NESINA is 6.25 mg once daily for patients with severe renal impairment (CrCl ≥15 to <30 mL/min) or with end-stage renal disease (ESRD) (CrCl <15 mL/min or requiring hemodialysis).
 NESINA may be administered without regard to the timing of dialysis.
-NESINA has not been studied in patients undergoing peritoneal dialysis [see Clinical Pharmacology (12.3)].
+NESINA has not been studied in patients undergoing peritoneal dialysis [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
 Because there is a need for dose adjustment based upon renal function, assessment of renal function is recommended prior to initiation of NESINA therapy and periodically thereafter.

@@ -1,14 +1,16 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling (Medication Guide)
-
-## 17.1 Instructions
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Inform patients of the potential risks and benefits of NESINA.
 
 Patients should be informed that acute pancreatitis has been reported during use of NESINA.
 Patients should be informed that persistent, severe abdominal pain, sometimes radiating to the back, which may or may not be accompanied by vomiting, is the hallmark symptom of acute pancreatitis.
 Patients should be instructed to promptly discontinue NESINA and contact their physician if persistent severe abdominal pain occurs.
+
+Patients should be informed of the signs and symptoms of heart failure.
+Before initiating NESINA, patients should be asked about a history of heart failure or other risk factors for heart failure including moderate to severe renal impairment.
+Patients should be instructed to contact their healthcare providers as soon as possible if they experience symptoms of heart failure, including increasing shortness of breath, rapid increase in weight, or swelling of the feet.
 
 Patients should be informed that allergic reactions have been reported during use of NESINA.
 If symptoms of allergic reactions (including skin rash, hives and swelling of the face, lips, tongue and throat that may cause difficulty in breathing or swallowing) occur, patients should be instructed to discontinue NESINA and seek medical advice promptly.
