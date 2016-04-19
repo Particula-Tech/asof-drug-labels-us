@@ -14,7 +14,7 @@ When administered to rats during organogenesis, the combination treatment with a
 
 Alogliptin
 
-Alogliptin administered to pregnant rabbits and rats during the period of organogenesis was not teratogenic at doses of up to 200 and 500 mg/kg, or 149 times and 180 times, respectively, the clinical dose based on plasma drug exposure (AUC).
+Alogliptin administered to pregnant rabbits and rats during the period of organogenesis was not teratogenic at doses of up to 200 mg/kg and 500 mg/kg, or 149 times and 180 times, respectively, the clinical dose based on plasma drug exposure (AUC).
 
 Doses of alogliptin up to 250 mg/kg (approximately 95 times clinical exposure based on AUC) given to pregnant rats from gestation Day 6 to lactation Day 20 did not harm the developing embryo or adversely affect growth and development of offspring.
 
@@ -39,7 +39,7 @@ Because many drugs are excreted in human milk, and because of the potential for 
 
 Safety and effectiveness of OSENI in pediatric patients have not been established.
 
-OSENI is not recommended for use in pediatric patients based on adverse effects observed in adults, including fluid retention and congestive heart failure, fractures and urinary bladder tumors [see Warnings and Precautions (5.1, 5.5, 5.6, 5.7)].
+1. OSENI is not recommended for use in pediatric patients based on adverse effects observed in adults, including fluid retention and congestive heart failure, fractures and urinary bladder tumors [see Warnings and Precautions (5.1, 5.5, 5.6, 5.7)].
 
 ## 8.5 Geriatric Use
 
@@ -51,7 +51,7 @@ While this and other reported clinical experiences have not identified differenc
 
 Alogliptin
 
-Of the total number of patients (N=8507) in clinical safety and efficacy studies treated with alogliptin, 2064 (24.3%) patients were ≥65 years old and 341 (4%) patients were ≥75 years old.
+Of the total number of patients (N=9052) in clinical safety and efficacy studies treated with alogliptin, 2257 (24.9%) patients were ≥65 years old and 386 (4.3%) patients were ≥75 years old.
 No overall differences in safety or effectiveness were observed between patients ≥65 years old and younger patients.
 
 Pioglitazone
@@ -66,7 +66,18 @@ In PROactive, 1068 patients (41%) treated with pioglitazone were ≥65 years old
 In pharmacokinetic studies with pioglitazone, no significant differences were observed in pharmacokinetic parameters between elderly and younger patients.
 These clinical experiences have not identified differences in effectiveness and safety between the elderly (≥65 years) and younger patients although small sample sizes for patients ≥75 years old limit conclusions [see Clinical Pharmacology (12.3)].
 
-## 8.6 Hepatic Impairment
+## 8.6 Renal Impairment
+
+Alogliptin
+
+A total of 602 patients with moderate renal impairment (eGFR ≥30 and <60 mL/min/1.73 m2) and 4 patients with severe renal impairment/end-stage renal disease (eGFR <30 mL/min/1.73 m2 or <15 mL/min/1.73 m2, respectively) at baseline were treated with alogliptin in clinical trials in patients with type 2 diabetes.
+Reductions in HbA1c were generally similar in this subgroup of patients.
+The overall incidence of adverse reactions was generally balanced between alogliptin and placebo treatments in this subgroup of patients.
+
+In the EXAMINE trial of high CV risk type 2 diabetes patients, 694 patients had moderate renal impairment and 78 patients had severe renal impairment or end-stage renal disease at baseline.
+The overall incidences of adverse reactions, serious adverse reactions and adverse reactions leading to study drug discontinuation were generally similar between the treatment groups.
+
+## 8.7 Hepatic Impairment
 
 Alogliptin
 

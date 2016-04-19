@@ -7,7 +7,7 @@ OSENI combines two antihyperglycemic agents with complementary and distinct mech
 Alogliptin
 
 Increased concentrations of the incretin hormones such as glucagon-like peptide-1 (GLP-1) and glucose-dependent insulinotropic polypeptide (GIP) are released into the bloodstream from the small intestine in response to meals.
-These hormones cause insulin release from the pancreatic beta cells in a glucose-dependent manner but are inactivated by the DPP-4 enzyme within minutes.
+These hormones cause insulin release from the pancreatic beta cells in a glucose-dependent manner but are inactivated by the dipeptidyl peptidase-4 (DPP-4) enzyme within minutes.
 GLP-1 also lowers glucagon secretion from pancreatic alpha cells, reducing hepatic glucose production.
 In patients with type 2 diabetes, concentrations of GLP-1 are reduced but the insulin response to GLP-1 is preserved.
 Alogliptin is a DPP-4 inhibitor that slows the inactivation of the incretin hormones, thereby increasing their bloodstream concentrations and reducing fasting and postprandial glucose concentrations in a glucose-dependent manner in patients with type 2 diabetes mellitus.
@@ -19,7 +19,7 @@ Pharmacologic studies indicate that pioglitazone improves insulin sensitivity in
 Unlike sulfonylureas, pioglitazone is not an insulin secretagogue.
 Pioglitazone is an agonist for peroxisome proliferator-activated receptor-gamma (PPARγ).
 PPAR receptors are found in tissues important for insulin action such as adipose tissue, skeletal muscle and liver.
-Activation of PPARγ nuclear receptors modulates the transcription of a number of insulin-responsive genes involved in the control of glucose and lipid metabolism.
+Activation of PPARγ nuclear receptors modulates the transcription of a number of insulin- responsive genes involved in the control of glucose and lipid metabolism.
 
 In animal models of diabetes, pioglitazone reduces the hyperglycemia, hyperinsulinemia and hypertriglyceridemia characteristic of insulin-resistant states such as type 2 diabetes.
 The metabolic changes produced by pioglitazone result in increased responsiveness of insulin-dependent tissues and are observed in numerous animal models of insulin resistance.
@@ -44,9 +44,9 @@ Inhibition of DPP-4 remained above 80% at 24 hours for doses greater than or equ
 Peak and total exposure over 24 hours to active GLP-1 were three- to four-fold greater with alogliptin (at doses of 25 to 200 mg) than placebo.
 In a 16-week, double-blind, placebo-controlled study alogliptin 25 mg demonstrated decreases in postprandial glucagon while increasing postprandial active GLP-1 levels compared to placebo over an eight-hour period following a standardized meal.
 It is unclear how these findings relate to changes in overall glycemic control in patients with type 2 diabetes mellitus.
-In this study, alogliptin 25 mg alone demonstrated decreases in two-hour postprandial glucose compared to placebo (-30 mg/dL versus 17.3 mg/dL respectively).
+In this study, alogliptin 25 mg demonstrated decreases in two-hour postprandial glucose compared to placebo (-30 mg/dL versus 17 mg/dL respectively).
 
-Multiple-dose administration of alogliptin to patients with type 2 diabetes also resulted in a peak inhibition of DPP-4 within one to two hours and exceeded 93% across all doses (25 mg, 100 mg and 400 mg) after a single dose and after 14 days of once-daily dosing).
+Multiple-dose administration of alogliptin to patients with type 2 diabetes also resulted in a peak inhibition of DPP-4 within one to two hours and exceeded 93% across all doses (25 mg, 100 mg and 400 mg) after a single dose and after 14 days of once-daily dosing.
 At these doses of alogliptin, inhibition of DPP-4 remained above 81% at 24 hours after 14 days of dosing.
 
 Pioglitazone
@@ -87,7 +87,7 @@ Absorption and Bioavailability
 
 Alogliptin and Pioglitazone
 
-In bioequivalence studies of OSENI, the AUC and maximum concentration (Cmax) of both the alogliptin and the pioglitazone component following a single dose of the combination tablet (12.5 mg/15 mg or 25 mg/45 mg) were bioequivalent to alogliptin (12.5 mg or 25 mg) concomitantly administered with pioglitazone (15 mg or 45 mg respectively) tablets under fasted conditions in healthy subjects.
+In bioequivalence studies of OSENI, the area under the plasma concentration curve (AUC) and maximum concentration (Cmax) of both the alogliptin and the pioglitazone component following a single dose of the combination tablet (12.5 mg/15 mg or 25 mg/45 mg) were bioequivalent to alogliptin (12.5 mg or 25 mg) concomitantly administered with pioglitazone (15 mg or 45 mg respectively) tablets under fasted conditions in healthy subjects.
 
 Administration of OSENI 25 mg/45 mg with food resulted in no significant change in overall exposure of alogliptin or pioglitazone.
 OSENI may therefore be administered with or without food.
@@ -122,13 +122,13 @@ Metabolism
 
 Alogliptin
 
-Alogliptin does not undergo extensive metabolism, and 60% to 71% of the dose is excreted as unchanged drug in the urine.
+Alogliptin does not undergo extensive metabolism and 60% to 71% of the dose is excreted as unchanged drug in the urine.
 
-Two minor metabolites were detected following administration of an oral dose of [14C] alogliptin, N-demethylated, M-I (<1% of the parent compound), and N-acetylated alogliptin, M-II (<6% of the parent compound).
+Two minor metabolites were detected following administration of an oral dose of [14C] alogliptin, N-demethylated, M-I (less than 1% of the parent compound), and N-acetylated alogliptin, M-II (less than 6% of the parent compound).
 M-I is an active metabolite and is an inhibitor of DPP-4 similar to the parent molecule; M-II does not display any inhibitory activity toward DPP-4 or other DPP-related enzymes.
-In vitro data indicate that, CYP2D6 and CYP3A4 contribute to the limited metabolism of alogliptin.
+In vitro data indicate that CYP2D6 and CYP3A4 contribute to the limited metabolism of alogliptin.
 
-Alogliptin exists predominantly as the (R)-enantiomer (>99%) and undergoes little or no chiral conversion in vivo to the (S)-enantiomer.
+Alogliptin exists predominantly as the (R)-enantiomer (more than 99%) and undergoes little or no chiral conversion in vivo to the (S)-enantiomer.
 The (S)-enantiomer is not detectable at the 25 mg dose.
 
 Pioglitazone
@@ -150,8 +150,8 @@ Excretion and Elimination
 
 Alogliptin
 
-The primary route of elimination of [14C] alogliptin derived radioactivity occurred via renal excretion (76%), with 13% recovered in the feces, achieving a total recovery of 89% of the administered radioactive dose.
-The renal clearance of alogliptin (9.6 L/hr) indicates some active renal tubular secretion and systematic clearance was 14.0 L/hr.
+The primary route of elimination of [14C] alogliptin derived radioactivity occurs via renal excretion (76%) with 13% recovered in the feces, achieving a total recovery of 89% of the administered radioactive dose.
+The renal clearance of alogliptin (9.6 L/hr) indicates some active renal tubular secretion and systemic clearance was 14.0 L/hr.
 
 Pioglitazone
 
@@ -169,13 +169,14 @@ Renal Impairment
 Alogliptin
 
 A single-dose, open-label study was conducted to evaluate the pharmacokinetics of alogliptin 50 mg in patients with chronic renal impairment compared with healthy subjects.
+
 In patients with mild renal impairment (creatinine clearance [CrCl] ≥60 to <90 mL/min), an approximate 1.2-fold increase in plasma AUC of alogliptin was observed.
 Because increases of this magnitude are not considered clinically relevant, dose adjustment for patients with mild renal impairment is not recommended.
 
 In patients with moderate renal impairment (CrCl ≥30 to <60 mL/min), an approximate two-fold increase in plasma AUC of alogliptin was observed.
 To maintain similar systemic exposures of OSENI to those with normal renal function, the recommended dose of OSENI is 12.5 mg/15 mg, 12.5 mg/30 mg or 12.5 mg/45 mg once daily in patients with moderate renal impairment.
 
-In patients with severe renal impairment (CrCl ≥15 to <30 mL/min) and ESRD (CrCl <15 mL/min or requiring dialysis), approximate three- and four-fold increases in plasma AUC of alogliptin were observed, respectively.
+In patients with severe renal impairment (CrCl ≥15 to <30 mL/min) and end-stage renal disease (ESRD) (CrCl <15 mL/min or requiring dialysis), an approximate three- and four-fold increase in plasma AUC of alogliptin were observed, respectively.
 Dialysis removed approximately 7% of the drug during a three-hour dialysis session.
 OSENI is not recommended for patients with severe renal impairment or ESRD.
 Coadministration of pioglitazone and alogliptin 6.25 mg once daily based on individual requirements may be considered in these patients.
@@ -206,7 +207,7 @@ Gender
 
 Alogliptin
 
-No dose adjustment is necessary based on gender.
+No dose adjustment of alogliptin is necessary based on gender.
 Gender did not have any clinically meaningful effect on the pharmacokinetics of alogliptin.
 
 Pioglitazone
@@ -219,7 +220,7 @@ Geriatric
 
 Alogliptin
 
-No dose adjustment is necessary based on age.
+No dose adjustment of alogliptin is necessary based on age.
 Age did not have any clinically meaningful effect on the pharmacokinetics of alogliptin.
 
 Pioglitazone
@@ -243,7 +244,7 @@ Race and Ethnicity
 
 Alogliptin
 
-No dose adjustment is necessary based on race.
+No dose adjustment of alogliptin is necessary based on race.
 Race (White, Black and Asian) did not have any clinically meaningful effect on the pharmacokinetics of alogliptin.
 
 Pioglitazone

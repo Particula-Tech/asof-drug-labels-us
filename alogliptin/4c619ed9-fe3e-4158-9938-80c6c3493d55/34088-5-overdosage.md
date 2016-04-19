@@ -3,7 +3,7 @@
 Alogliptin
 
 The highest doses of alogliptin administered in clinical trials were single doses of 800 mg to healthy subjects and doses of 400 mg once daily for 14 days to patients with type 2 diabetes (equivalent to 32 times and 16 times the maximum recommended clinical dose of 25 mg, respectively).
-No serious adverse events were observed at these doses.
+No serious adverse reactions were observed at these doses.
 
 In the event of an overdose, it is reasonable to institute the necessary clinical monitoring and supportive therapy as dictated by the patient's clinical status.
 Per clinical judgment, it may be reasonable to initiate removal of unabsorbed material from the gastrointestinal tract.

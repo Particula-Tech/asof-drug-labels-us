@@ -11,26 +11,24 @@ What is the most important information I should know about OSENI?
 
 OSENI can cause serious side effects, including:
 
-- 1.New or worse heart failure: Pioglitazone, one of the medicines in OSENI, can cause your body to keep extra fluid (fluid retention), which leads to swelling (edema) and weight gain.
-  Extra body fluid can make some heart problems worse or lead to heart failure.
-  Heart failure means your heart does not pump blood well enough.
-  1. •Do not take OSENI if you have severe heart failure.
-  2. •If you have heart failure with symptoms (such as shortness of breath or swelling), even if these symptoms are not severe, OSENI may not be right for you.
-- Call your doctor right away if you have any of the following:
-  1. •swelling or fluid retention, especially in the ankles or legs
-  2. •shortness of breath or trouble breathing, especially when you lie down
-  3. •an unusually fast increase in weight
-  4. •unusual tiredness
-- 2.Inflammation of the pancreas (pancreatitis): Alogliptin, one of the medicines in OSENI, may cause pancreatitis, which may be severe.
-- Certain medical conditions make you more likely to get pancreatitis.
+1. 1.Heart failure: OSENI can cause heart failure and cause your body to keep extra fluid (fluid retention), which leads to swelling (edema) and weight gain.
+   Extra body fluid can make some heart problems worse or lead to heart failure.
+   Before you start taking OSENI:
+2. Tell your doctor if you have ever had heart failure or have problems with your kidneys.
+3. Call your doctor right away if you have any of the following symptoms:
+4. •shortness of breath or trouble breathing, especially when you lie down
+5. •an unusually fast increase in weight
+6. •swelling or fluid retention, especially in the feet, ankles, or legs
+7. These may be symptoms of heart failure.
+8. 2.Inflammation of the pancreas (pancreatitis): Alogliptin, one of the medicines in OSENI, may cause pancreatitis, which may be severe.
+9. Certain medical conditions make you more likely to get pancreatitis.
 
 Before you start taking OSENI:
 
 Tell your doctor if you have ever had:
 
-| •pancreatitis | •stones in your gallbladder (gallstones) | •a history of alcoholism |
+| •pancreatitis | •kidney problems | •liver problems |
 | --- | --- | --- |
-| •kidney problems | •liver problems |  |
 
 Stop taking OSENI and call your doctor right away if you have pain in your stomach area (abdomen) that is severe and will not go away.
 The pain may be felt going from your abdomen through to your back.
@@ -40,7 +38,7 @@ These may be symptoms of pancreatitis.
 What is OSENI?
 
 - •OSENI contains 2 prescription diabetes medicines, alogliptin (NESINA) and pioglitazone (ACTOS).
-- •OSENI is a prescription medicine used with diet and exercise to improve blood sugar (glucose) control in adults with type 2 diabetes.
+- •OSENI is a prescription medicine used along with diet and exercise to improve blood sugar (glucose) control in adults with type 2 diabetes.
 - •OSENI is not for people with type 1 diabetes.
 - •OSENI is not for people with diabetic ketoacidosis (increased ketones in blood or urine).
 
@@ -115,7 +113,7 @@ What are the possible side effects of OSENI?
 
 OSENI can cause serious side effects, including:
 
-- •See “What is the most important information I should know about OSENI?”
+- •See "What is the most important information I should know about OSENI?"
 - •Allergic (hypersensitivity) reactions, such as:
 
 | oswelling of your face, lips, throat and other areas on your skin | odifficulty swallowing or breathing |
@@ -149,9 +147,9 @@ The dose of your sulfonylurea medicine or insulin may need to be lowered while y
 If you have symptoms of low blood sugar, you should check your blood sugar and treat if low, then call your doctor.
 Signs and symptoms of low blood sugar may include:
 
-| oshaking or feeling jittery | osweating | ohunger | oheadache | ochange in mood |
+| oshaking or feeling jittery | osweating | ofast heartbeat | ochange in vision | ohunger |
 | --- | --- | --- | --- | --- |
-| ofast heartbeat | ochange in vision | oconfusion | odizziness |  |
+| oheadache | ochange in mood | oconfusion | odizziness |  |
 
 - •Diabetic eye disease with swelling in the back of the eye (macular edema).
   Tell your doctor right away if you have any changes in your vision.
@@ -188,7 +186,7 @@ Do not give OSENI to other people, even if they have the same symptoms you have.
 It may harm them.
 
 This Medication Guide summarizes the most important information about OSENI.
-If you would like more information, talk with your doctor.
+If you would like to know more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about OSENI that is written for health professionals.
 
 For more information, go to www.oseni.com or call 1-877-TAKEDA-7 (1-877-825-3327).
@@ -199,13 +197,13 @@ Active ingredients: alogliptin and pioglitazone.
 
 Inactive ingredients: mannitol, microcrystalline cellulose, hydroxypropyl cellulose, croscarmellose sodium, magnesium stearate, and lactose monohydrate; the tablets are film-coated with hypromellose, polyethylene glycol, titanium dioxide, talc and ferric oxide (yellow and/or red) and are marked with red A1 or gray F1 printing ink.
 
-Distributed by: Takeda Pharmaceuticals America, Inc. Deerfield, IL 60015
+Distributed by Takeda Pharmaceuticals America, Inc. Deerfield, IL 60015.
 
 OSENI, NESINA and ACTOS are trademarks of Takeda Pharmaceutical Company Limited registered with the U.S. Patent and Trademark Office and are used under license by Takeda Pharmaceuticals America, Inc.
 
-©2013 – 2015 Takeda Pharmaceuticals America, Inc.
+©2013 – 2016 Takeda Pharmaceuticals America, Inc.
 
-ALP008 R4
+ALP008 R5
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-8/2015
+4/2016
