@@ -125,7 +125,7 @@ It is recommended that patients receive premedication with antiemetic agents.
 In clinical studies of the weekly dosage schedule, the majority of patients received 10 mg of dexamethasone given in conjunction with another type of antiemetic agent, such as a 5-HT3 blocker (e.g., ondansetron or granisetron).
 Antiemetic agents should be given on the day of treatment, starting at least 30 minutes before administration of CAMPTOSAR.
 Physicians should also consider providing patients with an antiemetic regimen (e.g., prochlorperazine) for subsequent use as needed.
-A similar antiemetic regimen should be used with Camptosar in combination therapy.
+A similar antiemetic regimen should be used with CAMPTOSAR in combination therapy.
 
 Prophylactic or therapeutic administration of atropine should be considered in patients experiencing cholinergic symptoms.
 

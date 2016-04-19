@@ -87,7 +87,7 @@ Study 1: Percent (%) of Patients Experiencing Clinically Relevant Adverse Events
 Table 6.
 Study 2: Percent (%) of Patients Experiencing Clinically Relevant Adverse Events in Combination TherapiesSeverity of adverse events based on NCI CTC (version 1.0)
 
-|  | Grades 1–4 | Grades 3&4 | Grades 1–4 | Grades 3&4 |
+| Grades 1–4 | Grades 3&4 | Grades 1–4 | Grades 3&4 |  |
 | --- | --- | --- | --- | --- |
 | Adverse Event | Study 2 |  |  |  |
 | Irinotecan + 5-FU/LV infusional days 1&2 every 2 weeks N= 145 |  | 5-FU/LV infusional days 1&2 every 2 weeks N=143 |  |  |
