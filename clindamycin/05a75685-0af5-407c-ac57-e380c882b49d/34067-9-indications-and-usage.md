@@ -4,7 +4,7 @@ CLEOCIN PHOSPHATE products are indicated in the treatment of serious infections 
 
 CLEOCIN PHOSPHATE products are also indicated in the treatment of serious infections due to susceptible strains of streptococci, pneumococci, and staphylococci.
 Its use should be reserved for penicillin-allergic patients or other patients for whom, in the judgment of the physician, a penicillin is inappropriate.
-Because of the risk of antibiotic-associated pseudomembranous colitis, as described in the WARNING box, before selecting clindamycin the physician should consider the nature of the infection and the suitability of less toxic alternatives (e.g., erythromycin).
+Because of the risk of antibiotic-associated pseudomembranous colitis, as described in the BOXED WARNING, before selecting clindamycin the physician should consider the nature of the infection and the suitability of less toxic alternatives (e.g., erythromycin).
 
 Bacteriologic studies should be performed to determine the causative organisms and their susceptibility to clindamycin.
 

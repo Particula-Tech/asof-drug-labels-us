@@ -1,6 +1,6 @@
 # WARNINGS
 
-See WARNING box.
+See BOXED WARNING.
 
 ## Clostridium difficile associated diarrhea
 
@@ -30,7 +30,7 @@ OXYGEN AND INTRAVENOUS CORTICOSTEROIDS SHOULD ALSO BE ADMINISTERED AS INDICATED.
 This product contains benzyl alcohol as a preservative.
 The preservative benzyl alcohol has been associated with serious adverse events, including the "gasping syndrome", and death in pediatric patients.
 Although normal therapeutic doses of this product ordinarily deliver amounts of benzyl alcohol that are substantially lower than those reported in association with the "gasping syndrome", the minimum amount of benzyl alcohol at which toxicity may occur is not known.
-The risk of benzyl alcohol toxicity depends on the quantity administered and the hepatic capacity to detoxify the chemical.
+The risk of benzyl alcohol toxicity depends on the quantity administered and the liver and kidneys' capacity to detoxify the chemical.
 Premature and low birth weight infants may be more likely to develop toxicity.
 
 Usage in Meningitis—Since clindamycin does not diffuse adequately into the cerebrospinal fluid, the drug should not be used in the treatment of meningitis.
@@ -48,7 +48,7 @@ CLEOCIN PHOSPHATE should be prescribed with caution in atopic individuals.
 
 Certain infections may require incision and drainage or other indicated surgical procedures in addition to antibiotic therapy.
 
-The use of CLEOCIN PHOSPHATE may result in overgrowth of nonsusceptible organisms—particularly yeasts.
+The use of CLEOCIN PHOSPHATE may result in overgrowth of nonsusceptible organisms-particularly yeasts.
 Should superinfections occur, appropriate measures should be taken as indicated by the clinical situation.
 
 CLEOCIN PHOSPHATE should not be injected intravenously undiluted as a bolus, but should be infused over at least 10–60 minutes as directed in the DOSAGE AND ADMINISTRATION section.
