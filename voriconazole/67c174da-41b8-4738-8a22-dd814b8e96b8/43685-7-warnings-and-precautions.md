@@ -2,8 +2,8 @@
 
 ## 5.1 Drug Interactions
 
-See Table 6 for a listing of drugs that may significantly alter voriconazole concentrations.
-Also, see Table 7 for a listing of drugs that may interact with voriconazole resulting in altered pharmacokinetics or pharmacodynamics of the other drug [see Contraindications (4) and Drug Interactions (7)].
+See Table 7 for a listing of drugs that may significantly alter voriconazole concentrations.
+Also, see Table 8 for a listing of drugs that may interact with voriconazole resulting in altered pharmacokinetics or pharmacodynamics of the other drug [see Contraindications (4) and Drug Interactions (7)].
 
 ## 5.2 Hepatic Toxicity
 
@@ -70,7 +70,7 @@ In patients with moderate to severe renal dysfunction (creatinine clearance < 50
 Oral voriconazole should be administered to these patients, unless an assessment of the benefit/risk to the patient justifies the use of intravenous voriconazole.
 Serum creatinine levels should be closely monitored in these patients, and if increases occur, consideration should be given to changing to oral voriconazole therapy [see Clinical Pharmacology (12.3) and Dosage and Administration (2.8)].
 
-## 5.11 Monitoring of Renal Function
+## 5.11 Monitoring Renal Function
 
 Acute renal failure has been observed in patients undergoing treatment with voriconazole.
 Patients being treated with voriconazole are likely to be treated concomitantly with nephrotoxic medications and have concurrent conditions that may result in decreased renal function.
@@ -78,7 +78,7 @@ Patients being treated with voriconazole are likely to be treated concomitantly 
 Patients should be monitored for the development of abnormal renal function.
 This should include laboratory evaluation, particularly serum creatinine.
 
-## 5.12 Monitoring of Pancreatic Function
+## 5.12 Monitoring Pancreatic Function
 
 Patients with risk factors for acute pancreatitis (e.g., recent chemotherapy, hematopoietic stem cell transplantation [HSCT]) should be monitored for the development of pancreatitis during voriconazole treatment.
 

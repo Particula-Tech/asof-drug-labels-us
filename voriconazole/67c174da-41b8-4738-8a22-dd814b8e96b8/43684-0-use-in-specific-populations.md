@@ -2,7 +2,9 @@
 
 ## 8.1 Pregnancy
 
-### Teratogenic Effects. Pregnancy Category D
+### Teratogenic Effects
+
+#### Pregnancy Category D
 
 Voriconazole can cause fetal harm when administered to a pregnant woman and should not be taken in pregnancy except in patients where the benefit to the mother clearly outweighs the potential risk to the fetus.
 There are no adequate and well-controlled studies in pregnant women.

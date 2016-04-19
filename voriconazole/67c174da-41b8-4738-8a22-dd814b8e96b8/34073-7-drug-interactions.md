@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-Table 6.
+Table 7.
 Effect of Other Drugs on Voriconazole Pharmacokinetics [see Clinical Pharmacology (12.3)]
 
 | Drug/Drug Class(Mechanism of Interaction by the Drug) | Voriconazole Plasma Exposure(Cmax and AUCτafter 200 mg q12h) | Recommendations for VoriconazoleDosage Adjustment/Comments |
@@ -20,7 +20,7 @@ Effect of Other Drugs on Voriconazole Pharmacokinetics [see Clinical Pharmacolog
 | Other NNRTIsNon-Nucleoside Reverse Transcriptase Inhibitors(CYP3A4 Inhibition or CYP450 Induction) | In Vitro Studies Demonstrated Potential for Inhibition of Voriconazole Metabolism by Delavirdine and Other NNRTIs (Increased Plasma Exposure) | Frequent monitoring for adverse events and toxicity related to voriconazole |
 | A Voriconazole-Efavirenz Drug Interaction Study Demonstrated the Potential for the Metabolism of Voriconazole to be Induced by Efavirenz and Other NNRTIs (Decreased Plasma Exposure) | Careful assessment of voriconazole effectiveness |  |
 
-Table 7.
+Table 8.
 Effect of Voriconazole on Pharmacokinetics of Other Drugs [see Clinical Pharmacology (12.3)]
 
 | Drug/Drug Class (Mechanism of Interaction by Voriconazole) | Drug Plasma Exposure (Cmax and AUCτ) | Recommendations for Drug Dosage Adjustment/Comments |
