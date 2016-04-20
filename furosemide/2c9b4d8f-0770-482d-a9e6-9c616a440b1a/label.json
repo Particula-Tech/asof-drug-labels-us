@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "NDA016273"
+  ],
+  "inn": "furosemide",
+  "labeler": "Validus Pharmaceuticals LLC",
+  "package_ndcs": [
+    "30698-060-01",
+    "30698-060-10",
+    "30698-060-50",
+    "30698-066-05",
+    "30698-066-50",
+    "30698-067-01",
+    "30698-067-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "furosemide",
+      "name": "Lasix"
+    }
+  ],
+  "setid": "2c9b4d8f-0770-482d-a9e6-9c616a440b1a",
+  "source": "dailymed"
+}
