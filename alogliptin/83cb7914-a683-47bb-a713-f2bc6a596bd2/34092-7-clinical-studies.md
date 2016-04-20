@@ -9,7 +9,7 @@ The racial distribution of patients exposed to study medication was 69.2% white,
 The ethnic distribution was 24.3% Hispanic.
 Patients had an overall mean age of approximately 54.4 years (range 22 to 80 years).
 In patients with type 2 diabetes, treatment with KAZANO produced clinically meaningful and statistically significant improvements in A1C versus comparator.
-As is typical for trials of agents to treat type 2 diabetes, the mean reduction in A1C with KAZANO appears to be related to the degree of A1C elevation at baseline.
+As is typical for trials of agents to treat type 2 diabetes, the mean reduction in hemoglobin A1c (A1C) with KAZANO appears to be related to the degree of A1C elevation at baseline.
 
 Alogliptin and Metformin Coadministration in Patients with Type 2 Diabetes Inadequately Controlled on Diet and Exercise
 
@@ -62,7 +62,7 @@ Lipid effects were also neutral.
 | A1C (%) | N=203 | N=103 |
 | Baseline (mean) | 7.9 | 8.0 |
 | Change from baseline (adjusted meanLeast squares means adjusted for treatment, baseline value, geographic region and baseline metformin dose.) | -0.6 | -0.1 |
-| Difference from placebo (adjusted mean with 95% confidence interval) | -0.5p<0.001 compared to placebo.(-0.7, -0.3) | - |
+| Difference from placebo (adjusted mean with 95% confidence interval) | -0.5p<0.001 compared to placebo. (-0.7, -0.3) | - |
 | % of patients (n/N) achieving A1C ≤7% | 44% (92/207) | 18% (19/104) |
 | FPG (mg/dL) | N=204 | N=104 |
 | Baseline (mean) | 172 | 180 |
@@ -87,10 +87,57 @@ Lipid effects were neutral.
 |  | Alogliptin 25 mg + Pioglitazone 30 mg + Metformin | Pioglitazone 45 mg + Metformin |
 | A1C (%) | N=397 | N=394 |
 | Baseline (mean) | 8.2 | 8.1 |
-| Change from baseline (adjusted meanLeast squares means adjusted for treatment, baseline value, geographic region, and baseline metformin dose) | -0.7 | -0.3 |
-| Difference from pioglitazone 45 mg + metformin (adjusted mean with 95% confidence interval) | -0.4Non-inferior and statistically superior to metformin plus pioglitazone at the 0.025 one-sided significance level (-0.5, -0.3) | - |
+| Change from baseline (adjusted meanLeast squares means adjusted for treatment, baseline value, geographic region and baseline metformin dose) | -0.7 | -0.3 |
+| Difference from pioglitazone 45 mg + metformin (adjusted mean with 95% confidence interval) | -0.4Noninferior and statistically superior to metformin + pioglitazone at the 0.025 one-sided significance level (-0.5, -0.3) | - |
 | % of Patients (n/N) achieving A1C ≤7% | 33% (134/404)p<0.001 compared to pioglitazone 45 mg + metformin | 21% (85/399) |
-| FPG (mg/dL) | N=399 | N=396 |
+| Fasting Plasma Glucose (mg/dL) | N=399 | N=396 |
 | Baseline (mean) | 162 | 162 |
 | Change from baseline (adjusted mean) | -15 | -4 |
 | Difference from pioglitazone 45 mg + metformin (adjusted mean with 95% confidence interval) | -11 (-16, -6) | - |
+
+Cardiovascular Safety Trial
+
+A randomized, double-blind, placebo-controlled cardiovascular outcomes trial (EXAMINE) was conducted to evaluate the cardiovascular risk of alogliptin.
+The trial compared the risk of major adverse cardiovascular events (MACE) between alogliptin (N=2701) and placebo (N=2679) when added to standard of care therapies for diabetes and atherosclerotic vascular disease (ASCVD).
+The trial was event driven and patients were followed until a sufficient number of primary outcome events accrued.
+
+Eligible patients were adults with type 2 diabetes who had inadequate glycemic control at baseline (e.g., HbA1c >6.5%) and had been hospitalized for an acute coronary syndrome event (e.g., acute myocardial infarction or unstable angina requiring hospitalization) 15 to 90 days prior to randomization.
+The dose of alogliptin was based on estimated renal function at baseline per dosage and administration recommendations.
+The average time between an acute coronary syndrome event and randomization was approximately 48 days.
+
+The mean age of the population was 61 years.
+Most patients were male (68%), Caucasian (73%), and were recruited from outside of the United States (86%).
+Asian and Black patients contributed 20% and 4% of the total population, respectively.
+At the time of randomization patients had a diagnosis of type 2 diabetes mellitus for approximately 9 years, 87% had a prior myocardial infarction and 14% were current smokers.
+Hypertension (83%) and renal impairment (27% with an eGFR ≤60 ml/min/1.73 m2) were prevalent co-morbid conditions.
+Use of medications to treat diabetes (e.g., metformin 73%, sulfonylurea 54%, insulin 41%), and ASCVD (e.g., statin 94%, aspirin 93%, renin-angiotensin system blocker 88%, beta-blocker 87%) was similar between patients randomized to alogliptin and placebo at baseline.
+During the trial, medications to treat diabetes and ASCVD could be adjusted to ensure care for these conditions adhered to standard of care recommendations set by local practice guidelines.
+
+The primary endpoint in EXAMINE was the time to first occurrence of a MACE defined as the composite of cardiovascular death, nonfatal myocardial infarction (MI), or nonfatal stroke.
+The study was designed to exclude a pre-specified risk margin of 1.3 for the hazard ratio of MACE.
+The median exposure to study drug was 526 days and 95% of the patients were followed to study completion or death.
+
+Table 9 shows the study results for the primary MACE composite endpoint and the contribution of each component to the primary MACE endpoint.
+The upper bound of the confidence interval was 1.16 and excluded a risk margin larger than 1.3.
+
+Table 9.
+Patients with MACE in EXAMINE
+
+| 305 (11.3) | 7.6 | 316 (11.8) | 7.9 | 0.96 (0.80, 1.16) |  |
+| --- | --- | --- | --- | --- | --- |
+| Composite of first event of CV death, nonfatal MI or nonfatal stroke (MACE) | Alogliptin |  | Placebo |  | Hazard Ratio |
+| Number of Patients (%) | Rate per 100 PYPatient Years (PY) | Number of Patients (%) | Rate per 100 PY | (98% CI) |  |
+| N=2701 |  | N=2679 |  |  |  |
+| CV Death | 89 (3.3) | 2.2 | 111 (4.1) | 2.8 |  |
+| Non-fatal MI | 187 (6.9) | 4.6 | 173 (6.5) | 4.3 |  |
+| Non-fatal stroke | 29 (1.1) | 0.7 | 32 (1.2) | 0.8 |  |
+
+The Kaplan-Meier based cumulative event probability is presented in Figure 4 for the time to first occurrence of the primary MACE composite endpoint by treatment arm.
+The curves for placebo and alogliptin overlap throughout the duration of the study.
+The observed incidence of MACE was highest within the first 60 days after randomization in both treatment arms (14.8 MACE per 100 PY), decreased from day 60 to the end of the first year (8.4 per 100 PY) and was lowest after 1 year of follow-up (5.2 per 100 PY).
+
+| Figure 4. Observed Cumulative Rate of MACE in EXAMINE |
+| --- |
+
+The rate of all cause death was similar between treatment arms with 153 (3.6 per 100 PY) recorded among patients randomized to alogliptin and 173 (4.1 per 100 PY) among patients randomized to placebo.
+A total of 112 deaths (2.9 per 100 PY) among patients on alogliptin and 130 among patients on placebo (3.5 per 100 PY) were adjudicated as cardiovascular deaths.

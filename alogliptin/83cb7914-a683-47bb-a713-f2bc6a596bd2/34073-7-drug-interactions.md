@@ -2,8 +2,8 @@
 
 Alogliptin
 
-Alogliptin is primarily renally excreted and CYP-related metabolism is negligible.
-No drug-drug interactions were observed with the CYP-substrates or inhibitors tested or with renally excreted drugs [see Clinical Pharmacology (12.3)].
+Alogliptin is primarily renally excreted.Cytochrome (CYP) P450-related metabolism is negligible.
+No significant drug-drug interactions were observed with the CYP-substrates or inhibitors tested or with renally excreted drugs [see Clinical Pharmacology (12.3)].
 
 Metformin Hydrochloride
 

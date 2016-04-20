@@ -34,7 +34,7 @@ You have a higher chance for getting lactic acidosis with KAZANO if you:
   People whose kidneys are not working properly should not take KAZANO
 - •have liver problems
 - •have congestive heart failure that requires treatment with medicines
-- •drink a lot of alcohol (very often or short-term “binge” drinking)
+- •drink a lot of alcohol (very often or short-term "binge" drinking)
 - •get dehydrated (lose a large amount of body fluids).
   This can happen if you are sick with a fever, vomiting or diarrhea.
   Dehydration can also happen when you sweat a lot with activity or exercise and do not drink enough fluids
@@ -51,19 +51,32 @@ Before you start taking KAZANO:
 
 Tell your doctor if you have ever had:
 
-| •pancreatitis | •stones in your gallbladder (gallstones) | •a history of alcoholism |
+| •pancreatitis | • kidney problems | •liver problems |
 | --- | --- | --- |
-| •kidney problems | •liver problems |  |
 
 Stop taking KAZANO and call your doctor right away if you have pain in your stomach area (abdomen) that is severe and will not go away.
 The pain may be felt going from your abdomen through to your back.
 The pain may happen with or without vomiting.
 These may be symptoms of pancreatitis.
 
+3.
+Heart failure:
+
+Before you start taking KAZANO:
+
+Tell your healthcare provider if you have ever had heart failure or have problems with your kidneys.
+
+Contact your healthcare provider right away if you have any of the following symptoms:
+
+| •increasing shortness of breath or trouble breathing especially when lying down | •an unusually fast increase in weight | •swelling of feet, ankles, or legs |
+| --- | --- | --- |
+
+These may be symptoms of heart failure.
+
 What is KAZANO?
 
 - •KAZANO contains 2 prescription diabetes medicines, alogliptin (NESINA) and metformin hydrochloride.
-- •KAZANO is a prescription medicine used with diet and exercise to improve blood sugar (glucose) control in adults with type 2 diabetes.
+- •KAZANO is a prescription medicine used along with diet and exercise to improve blood sugar (glucose) control in adults with type 2 diabetes.
 - •KAZANO is not for people with type 1 diabetes.
 - •KAZANO is not for people with diabetic ketoacidosis (increased ketones in blood or urine).
 
@@ -85,7 +98,7 @@ Do not take KAZANO if you:
 | --- | --- |
 | oraised, red areas on your skin (hives) | oskin rash, itching, flaking or peeling |
 
-- If you have any of these symptoms, stop taking KAZANO and contact your doctor right away or go to the nearest hospital emergency room.
+1. If you have any of these symptoms, stop taking KAZANO and contact your doctor or go to the nearest hospital emergency room right away.
 
 What should I tell my doctor before and during treatment with KAZANO?
 
@@ -95,7 +108,7 @@ Before you take KAZANO, tell your doctor if you:
 - •have kidney or liver problems
 - •have heart problems, including congestive heart failure
 - •are older than 80 years, you should not take KAZANO unless your kidneys have been checked and they are normal
-- •drink alcohol very often or drink a lot of alcohol in short-term “binge” drinking
+- •drink alcohol very often or drink a lot of alcohol in short-term "binge" drinking
 - •have other medical conditions
 - •are pregnant or plan to become pregnant.
   It is not known if KAZANO will harm your unborn baby.
@@ -120,7 +133,7 @@ How should I take KAZANO?
 - •Your doctor may need to change your dose of KAZANO to control your blood glucose.
   Do not change your dose unless told to do so by your doctor.
 - •If you miss a dose, take it as soon as you remember.
-  If you do not remember until it is time for your next dose, skip the missed dose, and take the next dose at your regular schedule.
+  If you do not remember until it is time for your next dose, skip the missed dose, and take the next dose at your regular time.
   Do not take 2 doses of KAZANO at the same time.
 - •If you take too much KAZANO, call your doctor or go to the nearest hospital emergency room right away.
 - •If your body is under stress, such as from fever, infection, accident or surgery, the dose of your diabetes medicines may need to be changed.
@@ -134,18 +147,16 @@ What are the possible side effects of KAZANO?
 
 KAZANO can cause serious side effects, including:
 
-See “What is the most important information I should know about KAZANO?”
-
+- •See "What is the most important information I should know about KAZANO?"
 - •Allergic (hypersensitivity) reactions, such as:
 
 | oswelling of your face, lips, throat and other areas on your skin | odifficulty swallowing or breathing |
 | --- | --- |
 | oraised, red areas on your skin (hives) | oskin rash, itching, flaking or peeling |
 
-- If you have these symptoms, stop taking KAZANO and contact your doctor right away.
-
-- •Liver problems.
-  Call your doctor right away if you have symptoms, such as:
+1. If you have these symptoms, stop taking KAZANO and contact your doctor right away.
+2. •Liver problems.
+   Call your doctor right away if you have unexplained symptoms, such as:
 
 | onausea or vomiting | ostomach pain | ounusual or unexplained tiredness |
 | --- | --- | --- |
@@ -157,9 +168,9 @@ See “What is the most important information I should know about KAZANO?”
   If you have symptoms of low blood sugar, you should check your blood sugar and treat if low, and then call your doctor.
   Signs and symptoms of low blood sugar may include:
 
-| oshaking or feeling jittery | osweating | ohunger | oheadache | ochange in mood |
+| o shaking or feeling jittery | o fast heartbeat | ohunger | ochange in mood | odizziness |
 | --- | --- | --- | --- | --- |
-| ofast heartbeat | ochange in vision | oconfusion | odizziness |  |
+| osweating | ochange in vision | oheadache | oconfusion |  |
 
 - •Joint pain.
   Some people who take medicines called DPP-4 inhibitors, one of the medicines in KAZANO, may develop joint pain that can be severe.
@@ -199,7 +210,7 @@ Do not give KAZANO to other people, even if they have the same symptoms you have
 It may harm them.
 
 This Medication Guide summarizes the most important information about KAZANO.
-If you would like more information, talk with your doctor.
+If you would like to know more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about KAZANO that is written for health professionals.
 
 For more information go to www.kazano.com or call 1-877-TAKEDA-7 (1-877-825-3327).
@@ -210,13 +221,12 @@ Active ingredients: alogliptin and metformin hydrochloride
 
 Inactive ingredients: mannitol, microcrystalline cellulose, povidone, crospovidone and magnesium stearate; the tablets are film-coated with hypromellose 2910, talc, titanium dioxide and ferric oxide yellow.
 
-Distributed by: Takeda Pharmaceuticals America, Inc. Deerfield, IL 60015
-
+Distributed by Takeda Pharmaceuticals America, Inc. Deerfield, IL 60015.
 KAZANO and NESINA are trademarks of Takeda Pharmaceutical Company Limited registered with the U.S. Patent and Trademark Office and are used under license by Takeda Pharmaceuticals America, Inc.
 
-©2013 - 2015 Takeda Pharmaceuticals America, Inc.
+©2013 - 2016 Takeda Pharmaceuticals America, Inc.
 
-ALM143P R4
+ALM143P R5
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-8/2015
+4/2016

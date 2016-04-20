@@ -18,7 +18,7 @@ Rx Only
 
 ]
 
-PRINCIPAL DISPLAY PANEL – 12.5 MG/500 MG
+PRINCIPAL DISPLAY PANEL – 12.5 MG/1000 MG
 
 NDC 64764-337-60
 
@@ -26,7 +26,7 @@ Kazano
 
 (alogliptin and metformin HCl) tablets
 
-12.5* mg/500 mg
+12.5* mg/1000 mg
 
 Dispense with Medication Guide
 
