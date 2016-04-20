@@ -4,7 +4,9 @@ NDC 0085-1328-01 105 mL
 
 NOXAFIL® (posaconazole)
 
-Oral Suspension 200 mg/5 mL
+Oral Suspension
+
+200 mg/5 mL
 
 Each mL contains: 40 mg posaconazole.
 
