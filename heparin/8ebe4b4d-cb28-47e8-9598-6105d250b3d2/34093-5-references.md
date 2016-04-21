@@ -16,8 +16,10 @@
    Blood.
    2003;102(11):127b.
 
-SAGENT™
+SAGENT®
 
-Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in India ©2013 Sagent Pharmaceuticals, Inc.
+Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in India ©2016 Sagent Pharmaceuticals, Inc.
 
-Revised: February 2013
+Revised: January 2016
+
+SAGENT Pharmaceuticals®

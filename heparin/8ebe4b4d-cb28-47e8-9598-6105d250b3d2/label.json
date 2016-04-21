@@ -3,7 +3,7 @@
     "ANDA090808"
   ],
   "inn": "heparin",
-  "labeler": "Sagent Pharmaceticals",
+  "labeler": "Sagent Pharmaceuticals",
   "package_ndcs": [
     "25021-400-01",
     "25021-400-10",
@@ -15,7 +15,7 @@
   ],
   "products": [
     {
-      "form": "INJECTION",
+      "form": "INJECTION, SOLUTION",
       "generic": "heparin sodium",
       "name": "Heparin Sodium"
     }
