@@ -17,7 +17,7 @@ These risk differences (drug-placebo difference in the number of cases of suicid
 
 Table 1
 
-| Age Range | Drug-Placebo Difference inNumber of Cases of Suicidalityper 1000 Patients Treated |
+| Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
 | --- | --- |
 |  | Increases Compared to Placebo |
 | <18 | 14 additional cases |
@@ -141,6 +141,10 @@ Symptoms such as these may be associated with an increased risk for suicidal thi
 While on therapy with amitriptyline hydrochloride, patients should be advised as to the possible impairment of mental and/or physical abilities required for performance of hazardous tasks, such as operating machinery or driving a motor vehicle.
 
 ## Drug Interactions
+
+### Topiramate
+
+Some patients may experience a large increase in amitriptyline concentration in the presence of topiramate and any adjustments in amitriptyline dose should be made according to the patient’s clinical response and not on the basis of plasma levels.
 
 ### Drugs Metabolized by P450 2D6
 

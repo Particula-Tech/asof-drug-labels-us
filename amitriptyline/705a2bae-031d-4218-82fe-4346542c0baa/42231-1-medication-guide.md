@@ -13,15 +13,15 @@ Talk to your, or your family member’s, healthcare provider about:
 
 What is the most important information I should know about antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions?
 
-- 1.Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
-- 2.Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
-  Some people may have a particularly high risk of having suicidal thoughts or actions.
-  These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
-- 3.How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
-  1. •Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
+1. 1.Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
+2. 2.Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
+   Some people may have a particularly high risk of having suicidal thoughts or actions.
+   These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
+3. 3.How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
+   - ∘Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
      This is very important when an antidepressant medicine is started or when the dose is changed.
-  2. •Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
-  3. •Keep all follow-up visits with the healthcare provider as scheduled.
+   - ∘Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
+   - ∘Keep all follow-up visits with the healthcare provider as scheduled.
      Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
 
 Call a healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
