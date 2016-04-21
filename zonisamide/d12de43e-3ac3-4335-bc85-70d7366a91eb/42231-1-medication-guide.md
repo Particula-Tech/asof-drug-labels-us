@@ -2,38 +2,45 @@
 
 ZONEGRAN® (ZO-nuh-gran)
 
-(zonisamide)
-
-capsules
-
-Read this Medication Guide before you start taking ZONEGRAN and each time you get a refill.
-There may be new information.
-This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
+(zonisamide) capsules
 
 What is the most important information I should know about ZONEGRAN?
 
 ZONEGRAN may cause serious side effects, including:
 
 1. Serious skin rash that can cause death.
-2. Less sweating and increase in your body temperature (fever).
-3. Suicidal thoughts or actions in some people.
-4. Increased level of acid in your blood (metabolic acidosis).
-5. Problems with your concentration, attention, memory, thinking, speech, or language.
-6. Blood cell changes such as reduced red and white blood cell counts.
+2. Serious allergic reactions that may affect different parts of the body.
+3. Less sweating and increase in your body temperature (fever).
+4. Suicidal thoughts or actions in some people.
+5. Increased level of acid in your blood (metabolic acidosis).
+6. Problems with your concentration, attention, memory, thinking, speech, or language.
+7. Blood cell changes such as reduced red and white blood cell counts.
 
 These serious side effects are described below.
 
 1. ZONEGRAN may cause a serious skin rash that can cause death.
    These serious skin reactions are more likely to happen when you begin taking ZONEGRAN within the first 4 months of treatment but may occur at later times.
-2. ZONEGRAN may cause you to sweat less and to increase your body temperature (fever).
+2. ZONEGRAN can cause other types of allergic reactions or serious problems that may affect different parts of the body such as your liver, kidneys, heart, or blood cells.
+   You may or may not have a rash with these types of reactions.
+   These reactions can be very serious and can cause death.
+   Call your health care provider right away if you have:
+   - fever
+   - severe muscle pain
+   - rash
+   - swollen lymph glands
+   - swelling of your face
+   - unusual bruising or bleeding
+   - weakness, fatigue
+   - yellowing of your skin or the white part of your eyes
+3. ZONEGRAN may cause you to sweat less and to increase your body temperature (fever).
    You may need to be hospitalized for this.
    You should watch for decreased sweating and fever, especially when it is hot and especially in children taking ZONEGRAN.
    Call your health care provider right away if you have:
-   - a skin rash
    - high fever, recurring fever, or long lasting fever
    - less sweat than normal
-3. Like other antiepileptic drugs, ZONEGRAN may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
-   Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:How can I watch for early symptoms of suicidal thoughts and actions?Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
+4. Like other antiepileptic drugs, ZONEGRAN may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+   Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you: How can I watch for early symptoms of suicidal thoughts and actions?
+   Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
    Do not stop ZONEGRAN without first talking to a healthcare provider.
    Stopping ZONEGRAN suddenly can cause serious problems.
    Stopping a seizure medicine suddenly in a patient who has epilepsy can cause seizures that will not stop (status epilepticus).
@@ -53,7 +60,7 @@ These serious side effects are described below.
      If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
    - Pay attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
    - Keep all follow-up visits with your healthcare provider as scheduled.
-4. ZONEGRAN can increase the level of acid in your blood (metabolic acidosis).
+5. ZONEGRAN can increase the level of acid in your blood (metabolic acidosis).
    If left untreated, metabolic acidosis can cause brittle or soft bones (osteoporosis, osteomalacia, osteopenia), kidney stones and can slow the rate of growth in children.
    Metabolic acidosis can happen with or without symptoms.
    Sometimes people with metabolic acidosis will:Your healthcare provider should do a blood test to measure the level of acid in your blood before and during your treatment with ZONEGRAN.
@@ -61,8 +68,8 @@ These serious side effects are described below.
    - not feel hungry (loss of appetite)
    - feel changes in heartbeat
    - have trouble thinking clearly
-5. ZONEGRAN may cause problems with your concentration, attention, memory, thinking, speech, or language.
-6. ZONEGRAN can cause blood cell changes such as reduced red and white blood cell counts.
+6. ZONEGRAN may cause problems with your concentration, attention, memory, thinking, speech, or language.
+7. ZONEGRAN can cause blood cell changes such as reduced red and white blood cell counts.
    Call your healthcare provider if you develop fever, sore throat, sores in your mouth, or unusual bruising.
 
 ZONEGRAN can have other serious side effects.
@@ -71,17 +78,9 @@ Tell your healthcare provider if you have any side effect that bothers you.
 Be sure to read the section titled "What are the possible side effects of ZONEGRAN?"
 
 What is ZONEGRAN?
-
 ZONEGRAN is a prescription medicine that is used with other medicines to treat partial seizures in adults.
-
 It is not known if ZONEGRAN is safe or effective in children under 16 years of age.
-
-Who should not take ZONEGRAN?
-
-Do not take ZONEGRAN if you are allergic to medicines that contain sulfa.
-
-What should I tell my healthcare provider before taking ZONEGRAN?
-
+Do not take ZONEGRAN: Do not take ZONEGRAN if you are allergic to medicines that contain sulfa.
 Before taking ZONEGRAN, tell your healthcare provider about all your medical conditions, including if you:
 
 - have or have had depression, mood problems or suicidal thoughts or behavior
@@ -108,11 +107,7 @@ Tell your healthcare provider if you:
   It is not known if ZONEGRAN in your breast milk can harm your baby.
   Talk to your healthcare provider about the best way to feed your baby if you take ZONEGRAN.
 
-Tell your healthcare provider about all the medicines you take including prescription and non-prescription medicines, vitamins or herbal supplements.
-ZONEGRAN and other medicines may affect each other causing side effects.
-
-Know the medicines you take.
-Keep a list of them with you to show your healthcare provider and pharmacist each time you get a new medicine.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins and herbal supplements.
 
 How should I take ZONEGRAN?
 
@@ -134,10 +129,13 @@ What should I avoid while taking ZONEGRAN?
 
 What are the possible side effects of ZONEGRAN?
 
-ZONEGRAN can cause serious side effects including:
+ZONEGRAN can cause serious side effects.
+See "What is the most important information I should know about ZONEGRAN?"
 
-- The side effects mentioned above (see "What is the most important information I should know about ZONEGRAN?")
-- kidney stones: back pain, stomach pain, or blood in your urine may mean you have kidney stones.
+Other serious side effects include:
+
+- kidney stones.
+  Back pain, stomach pain, or blood in your urine may mean you have kidney stones.
   Drink plenty of fluids while you take ZONEGRAN to lower your chance of getting kidney stones.
 - problems with mood or thinking (new or worse depression; sudden changes in mood, behavior, or loss of contact with reality, sometimes associated with hearing voices or seeing things that are not really there; feeling sleepy or tired; trouble concentrating; speech and language problems).
   Call your healthcare provider right away if you have any of the symptoms listed above.
@@ -153,17 +151,14 @@ The most common side effects of ZONEGRAN include:
 
 Side effects can happen at any time, but are more likely to happen during the first several weeks after starting ZONEGRAN.
 
-Tell your healthcare provider about any side effect that bothers you or that does not go away.
 These are not all of the possible side effects of ZONEGRAN.
-For more information, ask your healthcare provider or pharmacist.
-
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store ZONEGRAN?
 
 - Store ZONEGRAN between 59°F to 86°F (15°C to 30°C)
-- dry and away from light
+- Keep ZONEGRAN dry and away from light
 
 Keep ZONEGRAN and all medicines out of the reach of children.
 
@@ -173,24 +168,19 @@ Medicines are sometimes prescribed for purposes other than those listed in a Med
 Do not use ZONEGRAN for a condition for which it was not prescribed.
 Do not give ZONEGRAN to other people, even if they have the same symptoms that you have.
 It may harm them.
-
-This Medication Guide summarizes the most important information about ZONEGRAN.
-If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about ZONEGRAN that is written for health professionals.
-
-For more information, go to www.ZONEGRAN.com or call 1-877-370-1142.
 
 What are the ingredients in ZONEGRAN?
 
 Active ingredient: zonisamide
 
-Inactive ingredients in ZONEGRAN 25 mg and ZONEGRAN 100 mg capsules: microcrystalline cellulose, hydrogenated vegetable oil, sodium lauryl sulfate, gelatin, and titanium dioxide.
-The ZONEGRAN 100 mg capsule also contains: FD&C Red No. 40 and FD&C Yellow No. 6.
+Inactive ingredients in ZONEGRAN 25 mg capsules: microcrystalline cellulose, hydrogenated vegetable oil, sodium lauryl sulfate, gelatin, and titanium dioxide
 
-Revised 09/2015
+Inactive ingredients in ZONEGRAN 100 mg capsules: microcrystalline cellulose, hydrogenated vegetable oil, sodium lauryl sulfate, gelatin, and titanium dioxide, FD&C Red No. 40 and FD&C Yellow No. 6
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
+Manufactured for: Concordia Pharmaceuticals Inc. St. Michael, Barbados BB11005
 
 ZONEGRAN® is a registered trademark of Dainippon Pharmaceutical Co., Ltd. and licensed exclusively to Concordia Pharmaceuticals Inc.
 
-Manufactured for: Concordia Pharmaceuticals Inc. St. Michael, Barbados BB11005
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+Revised: April 2016

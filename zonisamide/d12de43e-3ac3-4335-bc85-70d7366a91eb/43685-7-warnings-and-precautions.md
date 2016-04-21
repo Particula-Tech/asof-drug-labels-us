@@ -20,15 +20,13 @@ During Japanese development, serious rash or rash that led to study drug discont
 Rash usually occurred early in treatment, with 85% reported within 16 weeks in the US and European studies and 90% reported within two weeks in the Japanese studies.
 There was no apparent relationship of dose to the occurrence of rash.
 
-## Serious Hematologic Events:
-
-Two confirmed cases of aplastic anemia and one confirmed case of agranulocytosis were reported in the first 11 years of marketing in Japan, rates greater than generally accepted background rates.
+Serious Hematologic Events: Two confirmed cases of aplastic anemia and one confirmed case of agranulocytosis were reported in the first 11 years of marketing in Japan, rates greater than generally accepted background rates.
 There were no cases of aplastic anemia and two confirmed cases of agranulocytosis in the US, European, or Japanese development programs.
 There is inadequate information to assess the relationship, if any, between dose and duration of treatment and these events.
 
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multi-Organ Hypersensitivity: Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), also known as multi-organ hypersensitivity, has occurred with ZONEGRAN.
 Some of these events have been fatal or life-threatening.
-DRESS typically, although not exclusively, presents with fever, rash, and/or lymphadenopathy, in association with other organ system involvement, such as hepatitis, nephritis, hematologic abnormalities, myocarditis, or myositis, sometimes resembling an acute viral infection.
+DRESS typically, although not exclusively, presents with fever, rash, lymphadenopathy and/or facial swelling, in association with other organ system involvement, such as hepatitis, nephritis, hematologic abnormalities, myocarditis, or myositis, sometimes resembling an acute viral infection.
 Eosinophilia is often present.
 This disorder is variable in its expression, and other organ systems not noted here may be involved.
 It is important to note that early manifestations of hypersensitivity (e.g., fever, lymphadenopathy) may be present even though rash is not evident.
@@ -77,7 +75,7 @@ The risk did not vary substantially by age (5-100 years) in the clinical trials 
 Table 3 shows absolute and relative risk by indication for all evaluated AEDs.
 
 Table 3.
-Risk by indication for antiepileptic drugs in the pooled analysis
+Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
 | Indication | Placebo Patients with Events Per 1000 Patients | Drug Patients with Events Per 1000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1000 Patients |
 | --- | --- | --- | --- | --- |
@@ -127,7 +125,7 @@ In pediatric patients, mean serum bicarbonate reductions ranged from approximate
 In two controlled studies in adults, the incidence of a persistent treatment-emergent decrease in serum bicarbonate to less than 20 mEq/L (observed at 2 or more consecutive visits or the final visit) was dose-related at relatively low zonisamide doses.
 In the monotherapy trial of epilepsy, the incidence of a persistent treatment-emergent decrease in serum bicarbonate was 21% for daily zonisamide doses of 25 mg or 100 mg, and was 43% at a daily dose of 300 mg.
 In a placebo-controlled trial for prophylaxis of migraine, the incidence of a persistent treatment-emergent decrease in serum bicarbonate was 7% for placebo, 29% for 150 mg daily, and 34% for 300 mg daily.
-The incidence of persistent markedly abnormally low serum bicarbonate (decrease to less than 17 mEq/L and more than 5 mEq/L from a pretreatment value of at least 20 mEq/L in these controlled trials was 2% or less.
+The incidence of persistent markedly abnormally low serum bicarbonate (decrease to less than 17 mEq/L and more than 5 mEq/L from a pretreatment value of at least 20 mEq/L) in these controlled trials was 2% or less.
 
 In the pediatric study, the incidence of persistent, treatment-emergent decreases in serum bicarbonate to levels less than 20 mEq/L was 52% at doses up to 100 mg daily, was 90% for a wide range of doses up to 600 mg daily, and generally appeared to increase with higher doses.
 The incidence of a persistent markedly abnormally low serum bicarbonate value was 4% at doses up to 100 mg daily, was 18% for a wide range of doses up to 600 mg daily, and generally appeared to increase with higher doses.
@@ -177,7 +175,7 @@ Zonisamide is metabolized by the liver and eliminated by the kidneys; caution sh
 
 ## Kidney Stones:
 
-Among 991 patients treated during the development of ZONEGRAN, 40 patients (4.0%) with epilepsy receiving ZONEGRAN developed clinically possible or confirmed kidney stones (e.g. clinical symptomatology, sonography, etc.), a rate of 34 per 1000 patient-years of exposure (40 patients with 1168 years of exposure).
+Among 991 patients treated during the development of ZONEGRAN, 40 patients (4.0%) with epilepsy receiving ZONEGRAN developed clinically possible or confirmed kidney stones (e.g., clinical symptomatology, sonography, etc.), a rate of 34 per 1000 patient-years of exposure (40 patients with 1168 years of exposure).
 Of these, 12 were symptomatic, and 28 were described as possible kidney stones based on sonographic detection.
 In nine patients, the diagnosis was confirmed by a passage of a stone or by a definitive sonographic finding.
 The rate of occurrence of kidney stones was 28.7 per 1000 patient-years of exposure in the first six months, 62.6 per 1000 patient-years of exposure between 6 and 12 months, and 24.3 per 1000 patient-years of exposure after 12 months of use.
@@ -200,13 +198,6 @@ In a 30-day study, the GFR returned to baseline within 2–3 weeks of drug disco
 There is no information about reversibility, after drug discontinuation, of the effects on GFR after long-term use.
 ZONEGRAN should be discontinued in patients who develop acute renal failure or a clinically significant sustained increase in the creatinine/BUN concentration.
 ZONEGRAN should not be used in patients with renal failure (estimated GFR < 50 mL/min) as there has been insufficient experience concerning drug dosing and toxicity.
-
-## Sudden Unexplained Death in Epilepsy:
-
-During the development of ZONEGRAN, nine sudden unexplained deaths occurred among 991 patients with epilepsy receiving ZONEGRAN for whom accurate exposure data are available.
-This represents an incidence of 7.7 deaths per 1000 patient-years.
-Although this rate exceeds that expected in a healthy population, it is within the range of estimates for the incidence of sudden unexplained deaths in patients with refractory epilepsy not receiving ZONEGRAN (ranging from 0.5 per 1000 patient-years for the general population of patients with epilepsy, to 2–5 per 1000 patient-years for patients with refractory epilepsy; higher incidences range from 9–15 per 1000 patient-years among surgical candidates and surgical failures).
-Some of the deaths could represent seizure-related deaths in which the seizure was not observed.
 
 ## Status Epilepticus:
 
@@ -263,9 +254,7 @@ Zonisamide was not mutagenic or clastogenic in other in vitro assays (Ames, mous
 Rats treated with zonisamide (20, 60, or 200 mg/kg) before mating and during the initial gestation phase showed signs of reproductive toxicity (decreased corpora lutea, implantations, and live fetuses) at all doses.
 The low dose in this study is approximately 0.5 times the maximum recommended human dose (MRHD) on a mg/m2 basis.
 
-## Pregnancy:
-
-Pregnancy Category C (see WARNINGS, Teratogenicity subsection):
+Pregnancy: (see WARNINGS, Teratogenicity subsection):
 
 Zonisamide may cause serious adverse fetal effects, based on clinical and nonclinical data.
 Zonisamide was teratogenic in multiple animal species.

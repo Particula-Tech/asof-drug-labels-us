@@ -87,9 +87,7 @@ CYP2D6 substrates
 
 Coadministration of multiple dosing of zonisamide up to 400 mg/day with single 50-mg doses of desipramine did not significantly affect the pharmacokinetic parameters of desipramine, a probe drug for CYP2D6 activity.
 
-P-gp substrate
-
-An in vitro study showed that zonisamide is a weak inhibitor of P-gp (MDR1) with an IC50 of 267 µmol/L.
+P-gp substrate An in vitro study showed that zonisamide is a weak inhibitor of P-gp (MDR1) with an IC50 of 267 µmol/L.
 There is a theoretical potential for zonisamide to affect the pharmacokinetics of drugs which are P-gp substrates.
 
 Caution is advised when starting or stopping ZONEGRAN or changing the ZONEGRAN dose in patients who are also receiving drugs which are P-gp substrates (e.g., digoxin, quinidine)
@@ -102,7 +100,7 @@ Drugs which inhibit or induce glucuronide conjugation are not expected to influe
 The absence of a clinically significant pharmacokinetic interaction between zonisamide and lamotrigine indicates a low potential for zonisamide to interact with substances which are metabolized by UDP-GT.
 
 CYP3A4 Induction: Drugs that induce liver enzymes increase the metabolism and clearance of zonisamide and decrease its half-life.
-The half-life of zonisamide following a 400 mg dose in patients concurrently on enzyme-inducing AEDs such as phenytoin, carbamazepine, or phenobarbital was between 27-38 hours, the half-life of zonisamide in patients concurrently on the non-enzyme inducing AED, valproate, was 46 hours.
+The half-life of zonisamide following a 400 mg dose in patients concurrently on enzyme-inducing AEDs such as phenytoin, carbamazepine, or phenobarbital was between 27-38 hours; the half-life of zonisamide in patients concurrently on the non-enzyme inducing AED, valproate, was 46 hours.
 
 These effects are unlikely to be of clinical significance when ZONEGRAN is added to existing therapy; however, changes in zonisamide concentrations may occur if concomitant CYP3A4 inducing anti-epileptic or other drugs are withdrawn, dose adjusted or introduced, an adjustment of the ZONEGRAN dose may be required.
 If co-administration with a potent CYP3A4 inducer (e.g., rifampicin) is necessary, the patient should be closely monitored and the dose of ZONEGRAN and other drugs that are CYP3A4 substrate may need to be adjusted.
