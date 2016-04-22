@@ -1,111 +1,35 @@
-# DORYX 100 mg Trade Label
+PRINCIPAL DISPLAY PANEL
 
-N 0430-0112-24
+DORYX 100 mg Trade Label
 
-DORYX® (Doxycycline Hyclate Delayed-Release Tablets, USP)
+NDC 0430-0112-24 DORYX® (Doxycycline Hyclate Delayed-Release Tablets, USP) 100 mg 100 Tablets Rx Only
 
-100 mg
+PRINCIPAL DISPLAY PANEL
 
-Rx only
+DORYX 100 mg Sample Carton Label
 
-Each tablet contains specially coated pellets of doxycycline hyclate equivalent to 100 mg of doxycycline.
+NDC 0430-0112-96 DORYX® (doxycycline hyclate) Delayed-Release Tablets 100 mg 3 Tablets Rx Only
 
-100 TABLETS
+PRINCIPAL DISPLAY PANEL
 
-US Patent No. 6,958,161
+DORYX 150 mg Trade Label
 
-# DORYX 100 mg Sample Carton Label
+NDC 0430-0115-20 DORYX® (doxycycline hyclate delayed-release tablets,USP) 150 mg 60 Tablets Rx Only
 
-N 0430-0112-96
+PRINCIPAL DISPLAY PANEL
 
-NEW TABLET DESIGN
+DORYX 150 mg Sample Carton Label
 
-NEW TABLET IMPRINT
+NDC 0430-0115-95 DORYX® (doxycycline hyclate delayed-release tablets, USP) 150 mg 3 Tablets Rx Only
 
-DORYX® (doxycycline hyclate) Delayed-Release Tablets
+PRINCIPAL DISPLAY PANEL
 
-100 mg
+DORYX 200 mg Trade Label
 
-Rx only
+NDC 0430-0114-20 DORYX® (Doxycycline Hyclate delayed-release tablets) 200 mg 60 Tablets Rx Only
 
-Physician's Sample - NOT FOR SALE
+PRINCIPAL DISPLAY PANEL
 
-3 Tablets
+DORYX 200 mg Sample Carton Label
 
-US Patent No. 6,958,161
-
-# DORYX 150 mg Trade Label
-
-N 0430-0115-20
-
-DORYX® (doxycycline hyclate delayed-release tablets, USP)
-
-150 mg
-
-Do not chew or crush tablets.
-
-Each tablet contains specially coated pellets of doxycycline hyclate equivalent to 150 mg of doxycycline.
-
-Rx only
-
-60 TABLETS
-
-US Patent No. 6,958,161
-
-# DORYX 150 mg Sample Carton Label
-
-N 0430-0115-95
-
-DORYX® (doxycycline hyclate delayed-release tablets, USP)
-
-150 mg per tablet
-
-Take with adequate amounts of fluid Do not chew or crush tablets
-
-Rx only
-
-Physician's Sample - NOT FOR SALE
-
-3 TABLETS
-
-US Patent No. 6,958,161
-
-# DORYX 200 MG Trade Label
-
-N 0430-0114-20
-
-NEW STRENGTH
-
-DORYX® (doxycycline hyclate delayed-release tablets)
-
-200 mg
-
-Rx only
-
-Each tablet contains specially coated pellets of doxycycline hyclate equivalent to 200 mg of doxycycline.
-
-60 TABLETS
-
-To report SUSPECTED ADVERSE REACTIONS, contact Warner Chilcott at 1-800-521-8813 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch
-
-US Patent No. 6,958,161
-
-# DORYX 200 MG Sample Carton Label
-
-N 0430-0114-95
-
-NEW STRENGTH
-
-DORYX® (doxycycline hyclate delayed-release tablets)
-
-200 mg
-
-Rx only
-
-Physician's Sample - NOT FOR SALE
-
-3 TABLETS
-
-To report SUSPECTED ADVERSE REACTIONS, contact Warner Chilcott at 1-800-521-8813 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch
-
-US Patent No. 6,958,161
+NDC 0430-0114-95 DORYX® (doxycycline hyclate delayed-release tablets) 200 mg 3 Tablets Rx Only
