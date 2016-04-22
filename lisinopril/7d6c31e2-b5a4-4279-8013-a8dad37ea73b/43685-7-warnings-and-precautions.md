@@ -11,9 +11,6 @@ When pregnancy is detected, discontinue lisinopril as soon as possible [see USE 
 
 ## 5.2 Angioedema and Anaphylactoid Reactions
 
-Patients taking concomitant mTOR inhibitor (e.g. temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema.
-[see DRUG INTERACTIONS (7.7)].
-
 Angioedema
 
 Head and Neck Angioedema:
@@ -24,6 +21,8 @@ Lisinopril should be promptly discontinued and appropriate therapy and monitorin
 
 Patients with a history of angioedema unrelated to ACE inhibitor therapy may be at increased risk of angioedema while receiving an ACE inhibitor [see CONTRAINDICATIONS (4)].
 ACE inhibitors have been associated with a higher rate of angioedema in black than in non-black patients.
+
+Patients receiving coadministration of ACE inhibitor and mTOR (mammalian target of rapamycin) inhibitor (e.g., temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema.
 
 Intestinal Angioedema:
 
