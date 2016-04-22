@@ -158,6 +158,6 @@ It is recommended that therapeutic infectious agents not be given concurrently w
 ## 5.11 Hypersensitivity Reactions
 
 In postmarketing experience, serious systemic hypersensitivity reactions (including anaphylaxis) have been reported following administration of the subcutaneous and intravenous formulations of golimumab including SIMPONI ARIA.
-Hypersensitivity reactions including hives, pruritis, dyspnea, and nausea, were reported during infusion and generally within an hour after infusion.
+Hypersensitivity reactions including hives, pruritus, dyspnea, and nausea, were reported during infusion and generally within an hour after infusion.
 Some of these reactions occurred after the first administration of golimumab.
 If an anaphylactic or other serious allergic reaction occurs, administration of SIMPONI ARIA should be discontinued immediately and appropriate therapy instituted.
