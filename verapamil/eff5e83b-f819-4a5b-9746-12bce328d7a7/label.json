@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA018925"
+  ],
+  "inn": "verapamil",
+  "labeler": "EXELA PHARMA SCIENCES, LLC",
+  "package_ndcs": [
+    "51754-0203-2"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "verapamil hydrochloride",
+      "name": "Verapamil Hydrochloride"
+    }
+  ],
+  "setid": "eff5e83b-f819-4a5b-9746-12bce328d7a7",
+  "source": "dailymed"
+}
