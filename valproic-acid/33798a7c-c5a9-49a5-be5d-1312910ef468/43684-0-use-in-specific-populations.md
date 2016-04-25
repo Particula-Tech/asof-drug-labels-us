@@ -4,7 +4,7 @@
 
 Pregnancy Category D for epilepsy and for manic episodes associated with bipolar disorder [see WARNINGS AND PRECAUTIONS (5.2, 5.3)].
 
-Pregnancy Category X for prophylaxis of migraine headaches [see CONTRAINDICATIONS (4)]
+Pregnancy Category X for prophylaxis of migraine headaches [see CONTRAINDICATIONS (4)].
 
 Pregnancy Registry
 

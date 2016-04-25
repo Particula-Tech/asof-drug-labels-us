@@ -86,7 +86,7 @@ The concomitant use of valproate and clonazepam may induce absence status in pat
 Diazepam:
 
 Valproate displaces diazepam from its plasma albumin binding sites and inhibits its metabolism.
-Co- administration of valproate (1,500 mg daily) increased the free fraction of diazepam (10 mg) by 90% in healthy volunteers (n=6).
+Co-administration of valproate (1,500 mg daily) increased the free fraction of diazepam (10 mg) by 90% in healthy volunteers (n=6).
 Plasma clearance and volume of distribution for free diazepam were reduced by 25% and 20%, respectively, in the presence of valproate.
 The elimination half-life of diazepam remained unchanged upon addition of valproate.
 
@@ -124,6 +124,13 @@ Both the clearance and apparent volume of distribution of free phenytoin were re
 
 In patients with epilepsy, there have been reports of breakthrough seizures occurring with the combination of valproate and phenytoin.
 The dosage of phenytoin should be adjusted as required by the clinical situation.
+
+Rufinamide
+
+Based on a population pharmacokinetic analysis, rufinamide clearance was decreased by valproate.
+Rufinamide concentrations were increased by <16% to 70%, dependent on concentration of valproate (with the larger increases being seen in pediatric patients at high doses or concentrations of valproate).
+Patients stabilized on rufinamide before being prescribed valproate should begin valproate therapy at a low dose, and titrate to a clinically effective dose [see DOSAGE AND ADMINISTRATION (2.5)].
+Similarly, patients on valproate should begin at a rufinamide dose lower than 10 mg/kg per day (pediatric patients) or 400 mg per day (adults).
 
 Tolbutamide:
 

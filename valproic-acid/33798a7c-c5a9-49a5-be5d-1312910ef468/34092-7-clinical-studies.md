@@ -148,7 +148,7 @@ The initial dose was 250 mg daily.
 The regimen was advanced by 250 mg every 4 days (8 days for 500 mg/day group), until the randomized dose was achieved.
 The mean trough total valproate levels during the treatment phase were 39.6, 62.5, and 72.5 mcg/mL in the divalproex sodium delayed-release tablets 500, 1,000, and 1,500 mg/day groups, respectively.
 
-The mean 4-week migraine headache rates during the treatment phase, adjusted for differences in baseline rates, were 4.5 in the placebo group, compared to 3.3, 3.0, and 3.3 in the divalproex sodium delayed-release tablets 500, 1,000, and 1,500 mg/day groups, respectively, based on intent-to-treat results (see Figure 4).
+The mean 4-week migraine headache rates during the treatment phase, adjusted for differences in baseline rates, were 4.5 in the placebo group, compared to 3.3, 3, and 3.3 in the divalproex sodium delayed-release tablets 500, 1,000, and 1,500 mg/day groups, respectively, based on intent-to-treat results (see Figure 4).
 Migraine headache rates in the combined divalproex sodium delayed-release tablets 1,000/1,500 mg group were significantly lower than in the placebo group.
 
 Figure 4 Mean 4-week Migraine Rates
