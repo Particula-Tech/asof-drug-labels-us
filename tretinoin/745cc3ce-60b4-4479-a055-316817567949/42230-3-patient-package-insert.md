@@ -126,21 +126,27 @@ IF YOU HAVE QUESTIONS
 
 All questions of a medical nature should be taken up with your doctor.
 
-Manufactured by: Valeant Pharmaceuticals International, Inc., Laval, Quebec H7L 48A
+Manufactured for:
 
-For: Obagi Medical Products, Inc., a division of Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 08807 USA
+Obagi Medical Products, Inc., a division of
+
+Valeant Pharmaceuticals North America LLC
+
+Bridgewater, NJ 08807 USA
+
+By:
+
+Valeant Pharmaceuticals International Inc.
+
+Laval, Quebec H7L 4A8, Canada
 
 Made in Canada
 
-© 2014 Obagi Medical Products, Inc
+© 2015 Obagi Medical Products, Inc
 
 www.obagi.com
 
 Rev.
-06/14
+01/15
 
-9409000
-
-OBAGI ® MEDICAL
-
-A DIVISION OF VALEANT PHARMACEUTICALS
+9441000
