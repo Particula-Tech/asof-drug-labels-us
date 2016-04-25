@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Each bottle contains 5 mg/100 mL.
+Each bottle contains 5 mg per 100 mL.
 NDC 0078-0435-61
 
 Handling

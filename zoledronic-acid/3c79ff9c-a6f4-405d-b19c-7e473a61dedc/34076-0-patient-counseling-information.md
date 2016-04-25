@@ -37,11 +37,12 @@ The incidence of these symptoms decreased markedly with subsequent doses of Recl
 Administration of acetaminophen following Reclast administration may reduce the incidence of these symptoms.
 
 Physicians should inform their patients that there have been reports of persistent pain and/or a non-healing sore of the mouth or jaw, primarily in patients treated with bisphosphonates for other illnesses.
-If they experience these symptoms, they should inform their physician or dentist.
+During treatment with zoledronic acid, patients should be instructed to maintain good oral hygiene and undergo routine dental check-ups.
+If they experience any oral symptoms, they should immediately report them to their physician or dentist.
 
 Severe and occasionally incapacitating bone, joint, and/or muscle pain have been infrequently reported in patients taking bisphosphonates, including Reclast.
 Consider withholding future Reclast treatment if severe symptoms develop.
 
 Atypical femur fractures in patients on bisphosphonate therapy have been reported; patients with thigh or groin pain should be evaluated to rule out a femoral fracture.
 
-T2015-31 January 2015
+T2016-34 April 2016

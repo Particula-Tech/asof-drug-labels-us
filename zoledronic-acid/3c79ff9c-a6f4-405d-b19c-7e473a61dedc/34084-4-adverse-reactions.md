@@ -6,7 +6,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Treatment of Osteoporosis in Postmenopausal Women
 
-The safety of Reclast in the treatment of postmenopausal osteoporosis was assessed in Study 1, a large, randomized, double-blind, placebo-controlled, multinational study of 7736 postmenopausal women aged 65-89 years with osteoporosis, diagnosed by bone mineral density or the presence of a prevalent vertebral fracture.
+The safety of Reclast in the treatment of postmenopausal osteoporosis was assessed in Study 1, a large, randomized, double-blind, placebo-controlled, multinational study of 7736 postmenopausal women aged 65 to 89 years with osteoporosis, diagnosed by bone mineral density or the presence of a prevalent vertebral fracture.
 The duration of the trial was three years with 3862 patients exposed to Reclast and 3852 patients exposed to placebo administered once annually as a single 5 mg dose in 100 mL solution infused over at least 15 minutes, for a total of three doses.
 All women received 1000 to 1500 mg of elemental calcium plus 400 to 1200 international units of vitamin D supplementation per day.
 
@@ -14,7 +14,7 @@ The incidence of all-cause mortality was similar between groups: 3.4% in the Rec
 The incidence of serious adverse events was 29.2% in the Reclast group and 30.1% in the placebo group.
 The percentage of patients who withdrew from the study due to adverse events was 5.4% and 4.8% for the Reclast and placebo groups, respectively.
 
-The safety of Reclast in the treatment of osteoporosis patients with a recent (within 90 days) low-trauma hip fracture was assessed in Study 2, a randomized, double-blind, placebo-controlled, multinational endpoint-driven study of 2127 men and women aged 50-95 years; 1065 patients were randomized to Reclast and 1062 patients were randomized to placebo.
+The safety of Reclast in the treatment of osteoporosis patients with a recent (within 90 days) low-trauma hip fracture was assessed in Study 2, a randomized, double-blind, placebo-controlled, multinational endpoint-driven study of 2127 men and women aged 50 to 95 years; 1065 patients were randomized to Reclast and 1062 patients were randomized to placebo.
 Reclast was administered once annually as a single 5 mg dose in 100 mL solution infused over at least 15 minutes.
 The study continued until at least 211 patients had a confirmed clinical fracture in the study population who were followed for an average of approximately 2 years on study drug.
 Vitamin D levels were not routinely measured but a loading dose of vitamin D (50,000 to 125,000 international units orally or IM) was given to patients and they were started on 1000 to 1500 mg of elemental calcium plus 800 to 1200 international units of vitamin D supplementation per day for at least 14 days prior to the study drug infusions.
@@ -195,7 +195,7 @@ The majority of these symptoms were mild to moderate and resolved within 3 days 
 
 Osteoporosis in Men
 
-The safety of Reclast in men with osteoporosis or osteoporosis secondary to hypogonadism was assessed in a two year randomized, multicenter, double-blind, active controlled group study of 302 men aged 25-86 years.
+The safety of Reclast in men with osteoporosis or osteoporosis secondary to hypogonadism was assessed in a two year randomized, multicenter, double-blind, active controlled group study of 302 men aged 25 to 86 years.
 One hundred fifty three (153) patients were exposed to Reclast administered once annually with a 5 mg dose in 100 mL infused over 15 minutes for up to a total of two doses, and 148 patients were exposed to a commercially-available oral weekly bisphosphonate (active control) for up to two years.
 All participants received 1000 mg of elemental calcium plus 800 to 1000 international units of vitamin D supplementation per day.
 
@@ -269,7 +269,7 @@ In this trial there were no cases of osteonecrosis of the jaw [see Warnings and 
 
 Glucocorticoid-Induced Osteoporosis
 
-The safety of Reclast in men and women in the treatment and prevention of glucocorticoid-induced osteoporosis was assessed in a randomized, multicenter, double-blind, active controlled, stratified study of 833 men and women aged 18-85 years treated with greater than or equal to 7.5 mg/day oral prednisone (or equivalent).
+The safety of Reclast in men and women in the treatment and prevention of glucocorticoid-induced osteoporosis was assessed in a randomized, multicenter, double-blind, active controlled, stratified study of 833 men and women aged 18 to 85 years treated with greater than or equal to 7.5 mg/day oral prednisone (or equivalent).
 Patients were stratified according to the duration of their pre-study corticosteroid therapy: less than or equal to 3 months prior to randomization (prevention subpopulation), and greater than 3 months prior to randomization (treatment subpopulation).
 
 The duration of the trial was one year with 416 patients exposed to Reclast administered once as a single 5 mg dose in 100 mL infused over 15 minutes, and 417 patients exposed to a commercially-available oral daily bisphosphonate (active control) for one year.
@@ -416,6 +416,10 @@ Hypocalcemia has been reported.
 Osteonecrosis of the Jaw
 
 Osteonecrosis of the jaw has been reported.
+
+Osteonecrosis of other bones
+
+Cases of osteonecrosis of other bones (including femur, hip, knee, ankle, wrist and humerus) have been reported; causality has not been determined in the population treated with Reclast.
 
 Ocular Adverse Events
 

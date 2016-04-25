@@ -2,7 +2,7 @@
 
 ## 14.1 Treatment of Postmenopausal Osteoporosis
 
-Study 1: The efficacy and safety of Reclast in the treatment of postmenopausal osteoporosis was demonstrated in Study 1, a randomized, double-blind, placebo-controlled, multinational study of 7736 women aged 65-89 years (mean age of 73) with either: a femoral neck BMD T-score less than or equal to -1.5 and at least two mild or one moderate existing vertebral fracture(s); or a femoral neck BMD T-score less than or equal to -2.5 with or without evidence of an existing vertebral fracture(s).
+Study 1: The efficacy and safety of Reclast in the treatment of postmenopausal osteoporosis was demonstrated in Study 1, a randomized, double-blind, placebo-controlled, multinational study of 7736 women aged 65 to 89 years (mean age of 73) with either: a femoral neck BMD T-score less than or equal to -1.5 and at least two mild or one moderate existing vertebral fracture(s); or a femoral neck BMD T-score less than or equal to -2.5 with or without evidence of an existing vertebral fracture(s).
 Women were stratified into two groups: Stratum I: no concomitant use of osteoporosis therapy or Stratum II: baseline concomitant use of osteoporosis therapies which included calcitonin, raloxifene, tamoxifen, and hormone replacement therapy, but excluded other bisphosphonates.
 
 Women enrolled in Stratum I (n=5661) were evaluated annually for incidence of vertebral fractures.
@@ -23,9 +23,9 @@ Proportion of Patients with New Morphometric Vertebral Fractures
 
 | Outcome | Reclast (%) | Placebo (%) | Absolute Reduction in Fracture Incidence % (95% CI) | Relative Reduction in Fracture Incidence % (95% CI) |
 | --- | --- | --- | --- | --- |
-| At least one new vertebral fracture (0–1 year) | 1.5 | 3.7 | 2.2 (1.4, 3.1) | 60 (43, 72)* |
-| At least one new vertebral fracture (0–2 years) | 2.2 | 7.7 | 5.5 (4.4, 6.6) | 71 (62, 78)* |
-| At least one new vertebral fracture (0–3 years) | 3.3 | 10.9 | 7.6 (6.3, 9.0) | 70 (62, 76)* |
+| At least one new vertebral fracture (0 to 1 year) | 1.5 | 3.7 | 2.2 (1.4, 3.1) | 60 (43, 72)* |
+| At least one new vertebral fracture (0 to 2 years) | 2.2 | 7.7 | 5.5 (4.4, 6.6) | 71 (62, 78)* |
+| At least one new vertebral fracture (0 to 3 years) | 3.3 | 10.9 | 7.6 (6.3, 9.0) | 70 (62, 76)* |
 | * p <0.0001 |  |  |  |  |
 
 The reductions in vertebral fractures over three years were consistent (including new/worsening and multiple vertebral fractures) and significantly greater than placebo regardless of age, geographical region, baseline body mass index, number of baseline vertebral fractures, femoral neck BMD T-score, or prior bisphosphonate usage.
@@ -72,7 +72,7 @@ Effect on Height
 In the 3-year osteoporosis study, standing height was measured annually using a stadiometer.
 The Reclast group revealed less height loss compared to placebo (4.2 mm vs. 7.0 mm, respectively [p<0.001]).
 
-Study 2: The efficacy and safety of Reclast in the treatment of patients with osteoporosis who suffered a recent low-trauma hip fracture was demonstrated in Study 2, a randomized, double-blind, placebo-controlled, multinational endpoint study of 2127 men and women aged 50-95 years (mean age of 74.5).
+Study 2: The efficacy and safety of Reclast in the treatment of patients with osteoporosis who suffered a recent low-trauma hip fracture was demonstrated in Study 2, a randomized, double-blind, placebo-controlled, multinational endpoint study of 2127 men and women aged 50 to 95 years (mean age of 74.5).
 Concomitant osteoporosis therapies excluding other bisphosphonates and parathyroid hormone were allowed.
 Reclast was administered once a year as a single 5 mg dose in 100 mL solution, infused over at least 15 minutes.
 The study continued until at least 211 patients had confirmed clinical fractures in the study population.
@@ -118,7 +118,7 @@ Therefore, Reclast given once at randomization (and placebo given at Month 12) r
 
 ## 14.3 Osteoporosis in Men
 
-The efficacy and safety of Reclast in men with osteoporosis or significant osteoporosis secondary to hypogonadism, was assessed in a randomized, multicenter, double-blind, active controlled, study of 302 men aged 25-86 years (mean age of 64).
+The efficacy and safety of Reclast in men with osteoporosis or significant osteoporosis secondary to hypogonadism, was assessed in a randomized, multicenter, double-blind, active controlled, study of 302 men aged 25 to 86 years (mean age of 64).
 The duration of the trial was two years.
 Patients were randomized to either Reclast which was administered once annually as a 5 mg dose in 100 mL infused over 15 minutes for a total of up to two doses, or to an oral weekly bisphosphonate (active control) for up to two years.
 All participants received 1000 mg of elemental calcium plus 800 to 1000 international units of vitamin D supplementation per day.
@@ -129,7 +129,7 @@ An annual infusion of Reclast was non-inferior to the oral weekly bisphosphonate
 
 ## 14.4 Treatment and Prevention of Glucocorticoid-Induced Osteoporosis
 
-The efficacy and safety of Reclast to prevent and treat glucocorticoid-induced osteoporosis (GIO) was assessed in a randomized, multicenter, double-blind, stratified, active controlled study of 833 men and women aged 18-85 years (mean age of 54.4 years) treated with greater than or equal to 7.5 mg/day oral prednisone (or equivalent).
+The efficacy and safety of Reclast to prevent and treat glucocorticoid-induced osteoporosis (GIO) was assessed in a randomized, multicenter, double-blind, stratified, active controlled study of 833 men and women aged 18 to 85 years (mean age of 54.4 years) treated with greater than or equal to 7.5 mg/day oral prednisone (or equivalent).
 Patients were stratified according to the duration of their pre-study corticosteroid therapy: less than or equal to 3 months prior to randomization (prevention subpopulation), and greater than 3 months prior to randomization (treatment subpopulation).
 The duration of the trial was one year.
 Patients were randomized to either Reclast which was administered once as a 5 mg dose in 100 mL infused over 15 minutes, or to an oral daily bisphosphonate (active control) for one year.
