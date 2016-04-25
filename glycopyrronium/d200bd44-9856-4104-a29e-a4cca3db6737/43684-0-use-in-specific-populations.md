@@ -10,7 +10,7 @@ When glycopyrrolate was administered intravenously to pregnant rabbits during or
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
-Data (Animal Data)
+Animal Data
 
 Glycopyrrolate was orally administered to pregnant rats at dosages of 50, 200, and 400 mg/kg/day during the period of organogenesis.
 These dosages resulted in systemic exposures (estimated AUC0-inf values) approximately 2.5, 23, and 113 times, respectively, the estimated systemic exposure in humans at the MRHD (9 mg per day, administered in three divided doses).
@@ -24,7 +24,14 @@ Glycopyrrolate was intravenously administered to pregnant rabbits at dosages of 
 These dosages resulted in systemic exposures (estimated AUC0-inf values) approximately 0.8, 4.6, and 7.8 times, respectively, the estimated systemic exposure in humans at the MRHD.
 Glycopyrrolate did not affect maternal survival under the conditions of this study.
 Mean maternal body weight gain and mean food consumption over the period of dosing were lower than the corresponding control value in the 0.5 and 1.0 mg/kg/day treatment groups.
-There were no effects of treatment on fetal parameters, including fetal survival, mean fetal weight, or the incidence of external, visceral, or skeletal defects.
+There were no effects of treatment on fetal parameters, including fetal survival, mean fetal weight, and the incidence of external, visceral, or skeletal defects.
+
+Female rats that were pregnant or nursing were orally dosed with glycopyrrolate daily at dosages of 0, 50, 200, or 400 mg/kg/day, beginning on day 7 of gestation, and continuing until day 20 of lactation.
+These dosages resulted in systemic exposures (estimated AUC0-inf values) approximately 2.5, 23, and 113 times, respectively, the estimated systemic exposure in humans at the MRHD (9 mg per day, administered in three divided doses).
+Mean body weight of pups in all treatment groups was reduced compared to the control group during the period of nursing, but eventually recovered to be comparable to the control group, post-weaning.
+No other notable delivery or litter parameters were affected by treatment in any group, including no effects on mean duration of gestation or mean numbers of live pups per litter.
+No treatment-related effects on survival or adverse clinical signs were observed in pups.
+There were no effects of maternal treatment on behavior, learning, memory, or reproductive function of pups.
 
 ## 8.2 Lactation
 

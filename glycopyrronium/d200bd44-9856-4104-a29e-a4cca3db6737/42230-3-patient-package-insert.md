@@ -122,7 +122,7 @@ This leaflet summarizes the most important information about CUVPOSA.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about CUVPOSA that is written for health professionals.
 
-For more information, go to: www.cuvposa.com or call 877-743-8454.
+For more information, go to: www.cuvposa.com or call 866-862-1211.
 
 What are the ingredients in CUVPOSA?
 
@@ -134,8 +134,8 @@ Issued May 2011
 
 Manufactured by: Mikart, Inc. Atlanta, GA 30318
 
-Manufactured for: Merz Pharmaceuticals, LLC Raleigh, NC 27615
+Manufactured for: Merz North America, Inc. Raleigh, NC 27615
 
-© 2015 Merz Pharmaceuticals, LLC CUVPOSA® is a registered trademark of Merz Pharmaceuticals, LLC
+© 2016 Merz Pharmaceuticals, LLC CUVPOSA® is a registered trademark of Merz Pharmaceuticals, LLC
 
-GLY-PPI-06 Rev 10/2015
+GLY-PPI-07 Rev 04/2016
