@@ -39,7 +39,7 @@ Because many drugs are excreted in human milk, and because of the potential for 
 
 Safety and effectiveness of OSENI in pediatric patients have not been established.
 
-1. OSENI is not recommended for use in pediatric patients based on adverse effects observed in adults, including fluid retention and congestive heart failure, fractures and urinary bladder tumors [see Warnings and Precautions (5.1, 5.5, 5.6, 5.7)].
+OSENI is not recommended for use in pediatric patients based on adverse effects observed in adults, including fluid retention and congestive heart failure, fractures and urinary bladder tumors [see Warnings and Precautions (5.1, 5.5, 5.6, 5.7)].
 
 ## 8.5 Geriatric Use
 

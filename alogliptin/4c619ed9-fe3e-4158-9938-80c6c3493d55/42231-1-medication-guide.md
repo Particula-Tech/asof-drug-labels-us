@@ -21,7 +21,7 @@ OSENI can cause serious side effects, including:
 6. •swelling or fluid retention, especially in the feet, ankles, or legs
 7. These may be symptoms of heart failure.
 8. 2.Inflammation of the pancreas (pancreatitis): Alogliptin, one of the medicines in OSENI, may cause pancreatitis, which may be severe.
-9. Certain medical conditions make you more likely to get pancreatitis.
+   Certain medical conditions make you more likely to get pancreatitis.
 
 Before you start taking OSENI:
 
@@ -154,12 +154,12 @@ Signs and symptoms of low blood sugar may include:
 - •Diabetic eye disease with swelling in the back of the eye (macular edema).
   Tell your doctor right away if you have any changes in your vision.
   Your doctor should check your eyes regularly.
-  - •Release of an egg from an ovary in a woman (ovulation) leading to pregnancy.
-    Ovulation may happen when premenopausal women who do not have regular monthly periods take OSENI.
-    This can increase your chance of getting pregnant.
-  - •Joint pain.
-    Some people who take medicines called DPP-4 inhibitors, one of the medicines in OSENI, may develop joint pain that can be severe.
-    Call your doctor if you have severe joint pain.
+- •Release of an egg from an ovary in a woman (ovulation) leading to pregnancy.
+  Ovulation may happen when premenopausal women who do not have regular monthly periods take OSENI.
+  This can increase your chance of getting pregnant.
+- •Joint pain.
+  Some people who take medicines called DPP-4 inhibitors, one of the medicines in OSENI, may develop joint pain that can be severe.
+  Call your doctor if you have severe joint pain.
 
 The most common side effects of OSENI include stuffy or runny nose and sore throat, back pain, cold-like symptoms (upper respiratory tract infection).
 
