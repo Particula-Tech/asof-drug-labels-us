@@ -52,7 +52,7 @@ The pharmacokinetic properties of dolutegravir have been evaluated in healthy ad
 Exposure to dolutegravir was generally similar between healthy subjects and HIV‑1‑infected subjects.
 
 Table 6.
-Dolutegravir Steady-state Pharmacokinetic Parameter Estimates in HIV-1– Infected Adults
+Dolutegravir Steady-State Pharmacokinetic Parameter Estimates in HIV-1– Infected Adults
 
 | Parameter | 50 mg Once Daily Geometric Mean (%CV) |
 | --- | --- |
@@ -107,6 +107,7 @@ Summary of Effect of Dolutegravir on the Pharmacokinetics of Coadministered Drug
 | Coadministered Drug(s)and Dose(s) | Dose of Dolutegravir | n | Geometric Mean Ratio (90% CI) of Pharmacokinetic Parameters of Coadministered Drug with/without Dolutegravir No Effect = 1.00 |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Cmax | AUC | Cτ or C24 |  |  |  |
+| Daclatasvir 60 mg once daily | 50 mg once daily | 12 | 1.03 (0.84 to 1.25) | 0.98 (0.83 to 1.15) | 1.06 (0.88 to 1.29) |
 | Ethinyl estradiol 0.035 mg | 50 mg twice daily | 15 | 0.99 (0.91 to 1.08) | 1.03 (0.96 to 1.11) | 1.02 (0.93 to 1.11) |
 | Metformin 500 mg twice daily | 50 mg once daily | 15a | 1.66 (1.53 to 1.81) | 1.79 (1.65 to 1.93) | — |
 | Metformin 500 mg twice daily | 50 mg twice daily | 15a | 2.11 (1.91 to 2.33) | 2.45 (2.25 to 2.66) | — |
@@ -143,6 +144,7 @@ Summary of Effect of Coadministered Drugs on the Pharmacokinetics of Dolutegravi
 | Calcium carbonate 1,200 mg simultaneous administration (fed) | 50 mg single dose | 11 | 1.07 (0.83 to 1.38) | 1.09 (0.84 to 1.43) | 1.08 (0.81 to 1.42) |
 | Calcium carbonate 1,200 mg 2 h after dolutegravir | 50 mg single dose | 11 | 1.00 (0.78 to 1.29) | 0.94 (0.72 to 1.23) | 0.90 (0.68 to 1.19) |
 | Carbamazepine 300 mg twice daily | 50 mg once daily | 16c | 0.67 (0.61 to 0.73) | 0.51 (0.48 to 0.55) | 0.27 (0.24 to 0.31) |
+| Daclatasvir 60 mg once daily | 50 mg once daily | 12 | 1.29 (1.07 to 1.57) | 1.33 (1.11 to 1.59) | 1.45 (1.25 to 1.68) |
 | Ferrous fumarate 324 mg simultaneous administration (fasted) | 50 mg single dose | 11 | 0.43 (0.35 to 0.52) | 0.46 (0.38 to 0.56) | 0.44 (0.36 to 0.54) |
 | Ferrous fumarate 324 mg simultaneous administration (fed) | 50 mg single dose | 11 | 1.03 (0.84 to 1.26) | 0.98 (0.81 to 1.20) | 1.00 (0.81 to 1.23) |
 | Ferrous fumarate 324 mg 2 h after dolutegravir | 50 mg single dose | 10 | 0.99 (0.81 to 1.21) | 0.95 (0.77 to 1.15) | 0.92 (0.74 to 1.13) |
@@ -176,7 +178,7 @@ Abacavir, Lamivudine, Zidovudine: Fifteen HIV‑1-infected subjects were enrolle
 Analysis showed no clinically relevant changes in the pharmacokinetics of abacavir with the addition of lamivudine or zidovudine or the combination of lamivudine and zidovudine.
 Lamivudine exposure (AUC decreased 15%) and zidovudine exposure (AUC increased 10%) did not show clinically relevant changes with concurrent abacavir.
 
-Lamivudine and Zidovudine: No clinically significant alterations in lamivudine or zidovudine pharmacokinetics were observed in 12 asymptomatic HIV‑1-infected adult patients given a single dose of zidovudine (200 mg) in combination with multiple doses of lamivudine (300 mg every 12 h).
+Lamivudine and Zidovudine: No clinically significant alterations in lamivudine or zidovudine pharmacokinetics were observed in 12 asymptomatic HIV‑1-infected adult patients given a single dose of zidovudine (200 mg) in combination with multiple doses of lamivudine (300 mg every 12 hours).
 
 The effects of other coadministered drugs on abacavir or lamivudine are provided in Table 9.
 
@@ -190,7 +192,7 @@ Effect of Coadministered Drugs on Abacavir or Lamivudine
 | Nelfinavir750 mg every 8 h x 7 to 10 days | LamivudineSingle 150 mg | 11 | ↑10% | 95% CI:1% to 20% | ↔ |
 | Trimethoprim 160 mg/Sulfamethoxazole800 mg daily x 5 days | LamivudineSingle 300 mg | 14 | ↑43% | 90% CI:32% to 55% | ↔ |
 
-↑ = Increase; ↔ = no significant change; AUC = area under the concentration versus time curve; CI = confidence interval.
+↑ = Increase; ↔ = no significant change; AUC = area under the concentration versus time curve; CI = Confidence interval.
 
 a The drug-drug interaction was only evaluated in males.
 
@@ -239,15 +241,16 @@ Amino acid substitutions E92Q, G118R, S153F or Y, G193E or R263K emerged in diff
 
 Abacavir and Lamivudine: HIV-1 isolates with reduced susceptibility to the combination of abacavir and lamivudine have been selected in cell culture with amino acid substitutions K65R, L74V, Y115F, and M184V/I in HIV-1 RT.
 M184V or I substitutions resulted in high-level resistance to lamivudine and approximately 2-fold decrease in susceptibility to abacavir.
-Substitutions K65R, L74M, or Y115F with M184V or I conferred a 7- to 8-fold reduction in abacavir susceptibility, and combinations of three substitutions were required to confer more than an 8-fold reduction in susceptibility.
+Substitutions K65R, L74M or Y115F with M184V or I conferred a 7- to 8-fold reduction in abacavir susceptibility, and combinations of three substitutions were required to confer more than an 8-fold reduction in susceptibility.
 
 Resistance in Clinical Subjects
 
-Dolutegravir: No subjects in the treatment arm receiving dolutegravir + EPZICOM of SINGLE (treatment-naïve trial) had a detectable decrease in susceptibility to dolutegravir or background NRTIs in the resistance analysis subset (n = 8 with HIV-1 RNA greater than 400 copies per mL at failure or last visit through Week 96 and having resistance data).
-One subject in SINGLE with 275 copies per mL HIV-1 RNA had a treatment-emergent integrase substitution (E157Q/P) detected at Week 24, but no corresponding decrease in dolutegravir susceptibility.
-No treatment-emergent genotypic resistance to abacavir and lamivudine, components of TRIUMEQ, was observed in the arm receiving dolutegravir + EPZICOM in the SINGLE trial.
+Dolutegravir: No subjects in the treatment arm receiving dolutegravir + EPZICOM of SINGLE (treatment-naïve trial) had a detectable decrease in susceptibility to dolutegravir or background NRTIs in the resistance analysis subset (n = 11 with HIV-1 RNA greater than 400 copies per mL at failure or last visit and having resistance data).
+Two virologic failure subjects in SINGLE had treatment-emergent G/D/E193D and G193G/E integrase substitutions at Week 84 and Week 108, respectively, and 1 subject with 275 copies per mL HIV-1 RNA had a treatment-emergent Q157Q/P integrase substitution detected at Week 24.
+None of these subjects had a corresponding decrease in dolutegravir susceptibility.
+No treatment-emergent genotypic resistance to abacavir and lamivudine, components of TRIUMEQ, was observed in the arm receiving dolutegravir + EPZICOM in the SINGLE trial through Week 144.
 
-Cross-resistance
+Cross-Resistance
 
 Dolutegravir: The single INSTI-resistance substitutions T66K, I151L, and S153Y conferred a greater than 2-fold decrease in dolutegravir susceptibility (range: 2.3-fold to 3.6-fold from reference).
 Combinations of multiple substitutions T66K/L74M, E92Q/N155H, G140C/Q148R, G140S/Q148H, R or K, Q148R/N155H, T97A/G140S/Q148, and substitutions at E138/G140/Q148 showed a greater than 2-fold decrease in dolutegravir susceptibility (range: 2.5-fold to 21-fold from reference).

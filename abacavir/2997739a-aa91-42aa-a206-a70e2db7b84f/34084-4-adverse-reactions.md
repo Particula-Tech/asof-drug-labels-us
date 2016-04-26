@@ -15,7 +15,7 @@ The following adverse reactions are discussed in other sections of the labeling:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Serious and Fatal Abacavir-associated Hypersensitivity Reactions
+Serious and Fatal Abacavir-Associated Hypersensitivity Reactions
 
 In clinical trials, serious and sometimes fatal hypersensitivity reactions have occurred with abacavir, a component of TRIUMEQ [see Boxed Warning, Warnings and Precautions (5.1)].
 These reactions have been characterized by 2 or more of the following signs or symptoms: (1) fever; (2) rash; (3) gastrointestinal symptoms (including nausea, vomiting, diarrhea, or abdominal pain); (4) constitutional symptoms (including generalized malaise, fatigue, or achiness); (5) respiratory symptoms (including dyspnea, cough, or pharyngitis).
@@ -32,23 +32,23 @@ Serious Dolutegravir Hypersensitivity Reactions
 In clinical trials, hypersensitivity reactions have occurred with dolutegravir, a component of TRIUMEQ [see Warnings and Precautions (5.1)].
 These hypersensitivity reactions have been characterized by rash, constitutional findings, and sometimes organ dysfunction, including liver injury.
 
-Additional Treatment-emergent Adverse Drug Reactions (ADRs) with Use of TRIUMEQ
+Additional Treatment-Emergent Adverse Drug Reactions (ADRs) with Use of TRIUMEQ
 
 The safety assessment of TRIUMEQ is primarily based on the analyses of data from a randomized, international, multicenter, double-blind, active-controlled trial, SINGLE (ING114467) and supported by data in treatment-experienced, INSTI-naïve subjects from SAILING (ING111762) and by data from other treatment-naïve trials.
 See full prescribing information for TIVICAY.
 
-Treatment-naïve Subjects: In SINGLE, 833 adult subjects were randomized and received at least one dose of either dolutegravir (TIVICAY) 50 mg with fixed-dose abacavir and lamivudine (EPZICOM®) once daily (n = 414) or fixed-dose efavirenz/emtricitabine/tenofovir (ATRIPLA®) once daily (n = 419).
-Through 96 weeks, the rate of adverse events leading to discontinuation was 3% in subjects receiving TIVICAY + EPZICOM and 12% in subjects receiving ATRIPLA once daily.
+Treatment-Naïve Subjects: In SINGLE, 833 adult subjects were randomized and received at least one dose of either dolutegravir (TIVICAY) 50 mg with fixed-dose abacavir and lamivudine (EPZICOM®) once daily (n = 414) or fixed-dose efavirenz/emtricitabine/tenofovir (ATRIPLA®) once daily (n = 419) (study treatment was blinded through Week 96 and open-label from Week 96 through Week 144).
+Through 144 weeks, the rate of adverse events leading to discontinuation was 4% in subjects receiving TIVICAY + EPZICOM and 14% in subjects receiving ATRIPLA once daily.
 
 Treatment-emergent ADRs of moderate to severe intensity observed in at least 2% of subjects in either treatment arm of SINGLE are provided in Table 2.
 
 Table 2.
-Treatment-emergent Adverse Drug Reactions of at Least Moderate Intensity (Grades 2 to 4) and at Least 2% Frequency in Treatment-naïve Subjects in SINGLE (Week 96 Analysis)
+Treatment-Emergent Adverse Drug Reactions of at Least Moderate Intensity (Grades 2 to 4) and at Least 2% Frequency in Treatment-Naïve Subjects in SINGLE (Week 144 Analysis)
 
 | Adverse Reaction | TIVICAY + EPZICOMOnce Daily(n = 414) | ATRIPLAOnce Daily(n = 419) |
 | --- | --- | --- |
 | Psychiatric |  |  |
-| Insomnia | 3% | 2% |
+| Insomnia | 3% | 3% |
 | Depression | 1% | 2% |
 | Abnormal dreams | <1% | 2% |
 | Nervous System |  |  |
@@ -66,7 +66,7 @@ Treatment-emergent Adverse Drug Reactions of at Least Moderate Intensity (Grades
 
 a Includes pooled terms: rash, rash generalized, rash macular, rash maculo-papular, rash pruritic, and drug eruption.
 
-Treatment-experienced Subjects: SAILING is an international, double-blind trial in INSTI-naïve, antiretroviral treatment-experienced adult subjects.
+Treatment-Experienced Subjects: SAILING is an international, double-blind trial in INSTI-naïve, antiretroviral treatment-experienced adult subjects.
 Subjects were randomized and received either TIVICAY 50 mg once daily or raltegravir 400 mg twice daily with investigator-selected background regimen consisting of up to 2 agents, including at least one fully active agent.
 At 48 weeks, the rate of adverse events leading to discontinuation was consistent with that seen in the overall treatment-naïve patient population.
 See full prescribing information for TIVICAY.
@@ -100,61 +100,61 @@ Skin and Subcutaneous Tissue Disorders: Pruritus.
 
 Laboratory Abnormalities
 
-Treatment-naïve Subjects: Selected laboratory abnormalities (Grades 2 to 4) with a worsening grade from baseline and representing the worst-grade toxicity in at least 2% of subjects in SINGLE are presented in Table 3.
+Treatment-Naïve Subjects: Selected laboratory abnormalities (Grades 2 to 4) with a worsening grade from baseline and representing the worst-grade toxicity in at least 2% of subjects in SINGLE are presented in Table 3.
 The mean change from baseline observed for selected lipid values is presented in Table 4.
 
 Table 3.
-Selected Laboratory Abnormalities (Grades 2 to 4) in Treatment-naïve Subjects in SINGLE (Week 96 Analysis)
+Selected Laboratory Abnormalities (Grades 2 to 4) in Treatment-Naïve Subjects in SINGLE (Week 144 Analysis)
 
 | Laboratory Abnormality | TIVICAY + EPZICOMOnce Daily(n = 414) | ATRIPLAOnce Daily(n = 419) |
 | --- | --- | --- |
 | ALT |  |  |
-| Grade 2 (>2.5-5.0 x ULN) | 2% | 5% |
-| Grade 3 to 4 (>5.0 x ULN) | <1% | <1% |
+| Grade 2 (>2.5-5.0 x ULN) | 3% | 5% |
+| Grade 3 to 4 (>5.0 x ULN) | 1% | <1% |
 | AST |  |  |
-| Grade 2 (>2.5-5.0 x ULN) | 3% | 3% |
-| Grade 3 to 4 (>5.0 x ULN) | <1% | 3% |
+| Grade 2 (>2.5-5.0 x ULN) | 3% | 4% |
+| Grade 3 to 4 (>5.0 x ULN) | 1% | 3% |
 | Creatine kinase |  |  |
-| Grade 2 (6.0-9.9 x ULN) | 4% | 1% |
-| Grade 3 to 4 (≥10.0 x ULN) | 5% | 7% |
+| Grade 2 (6.0-9.9 x ULN) | 5% | 3% |
+| Grade 3 to 4 (≥10.0 x ULN) | 7% | 8% |
 | Hyperglycemia |  |  |
-| Grade 2 (126-250 mg/dL) | 7% | 5% |
+| Grade 2 (126-250 mg/dL) | 9% | 6% |
 | Grade 3 (>250 mg/dL) | 2% | <1% |
 | Lipase |  |  |
-| Grade 2 (>1.5-3.0 x ULN) | 9% | 9% |
-| Grade 3 to 4 (>3.0 ULN) | 4% | 3% |
+| Grade 2 (>1.5-3.0 x ULN) | 11% | 11% |
+| Grade 3 to 4 (>3.0 ULN) | 5% | 4% |
 | Total neutrophils |  |  |
-| Grade 2 (0.75-0.99 x 109) | 3% | 5% |
-| Grade 3 to 4 (<0.75 x 109) | 2% | 3% |
+| Grade 2 (0.75-0.99 x 109) | 4% | 5% |
+| Grade 3 to 4 (<0.75 x 109) | 3% | 3% |
 
 ULN = Upper limit of normal.
 
 Table 4.
-Mean Change from Baseline in Fasted Lipid Values in Treatment-naïve Subjects in SINGLE (Week 96 Analysisa)
+Mean Change from Baseline in Fasted Lipid Values in Treatment-Naïve Subjects in SINGLE (Week 144 Analysisa)
 
 | Lipid | TIVICAY + EPZICOMOnce Daily(n = 414) | ATRIPLAOnce Daily(n = 419) |
 | --- | --- | --- |
-| Cholesterol (mg/dL) | 23.2 | 28.0 |
-| HDL cholesterol (mg/dL) | 5.2 | 7.4 |
-| LDL cholesterol (mg/dL) | 14.5 | 18.0 |
-| Triglycerides (mg/dL) | 17.2 | 17.4 |
+| Cholesterol (mg/dL) | 24.0 | 26.7 |
+| HDL cholesterol (mg/dL) | 5.4 | 7.2 |
+| LDL cholesterol (mg/dL) | 16.0 | 14.6 |
+| Triglycerides (mg/dL) | 13.6 | 31.9 |
 
-a Subjects on lipid-lowering agents at baseline were excluded from these analyses (TIVICAY n = 30 and ATRIPLA n = 27).
-Fifty-five subjects initiated a lipid-lowering agent post-baseline; their last fasted on-treatment values (prior to starting the agent) were used regardless if they discontinued the agent (SINGLE: TIVICAY n = 25 and ATRIPLA: n = 30).
+a Subjects on lipid-lowering agents at baseline were excluded from these analyses (TIVICAY + EPZICOM n = 30 and ATRIPLA n = 27).
+Seventy-two subjects initiated a lipid-lowering agent post-baseline; their last fasted on-treatment values (prior to starting the agent) were used regardless if they discontinued the agent (TIVICAY + EPZICOM n = 36 and ATRIPLA: n = 36).
 
-Treatment-experienced Subjects: Laboratory abnormalities observed in SAILING were generally similar compared with observations seen in the treatment-naïve trials.
+Treatment-Experienced Subjects: Laboratory abnormalities observed in SAILING were generally similar compared with observations seen in the treatment-naïve trials.
 
 Hepatitis C Virus Co-infection
 
 In SINGLE, the pivotal Phase 3 trial, subjects with hepatitis C virus co-infection were permitted to enroll provided that baseline liver chemistry tests did not exceed 5 times the upper limit of normal; subjects with hepatitis B co-infection were excluded.
 Overall, the safety profile in subjects with hepatitis C virus co-infection was similar to that observed in subjects without hepatitis C co-infection, although the rates of AST and ALT abnormalities were higher in the subgroup with hepatitis C virus co-infection for both treatment groups.
 Grades 2 to 4 ALT abnormalities in hepatitis C co-infected compared with HIV mono-infected subjects receiving TRIUMEQ were observed in 15% and 2% (vs.
-24% and 4% of subjects treated with ATRIPLA), respectively [see Warnings and Precautions (5.3)].
+24% and 4% of subjects treated with ATRIPLA) (Week 96 analysis), respectively [see Warnings and Precautions (5.3)].
 See also full prescribing information for TIVICAY.
 
 Changes in Serum Creatinine: Dolutegravir has been shown to increase serum creatinine due to inhibition of tubular secretion of creatinine without affecting renal glomerular function [see Clinical Pharmacology (12.2)].
-Increases in serum creatinine occurred within the first 4 weeks of treatment and remained stable through 24 to 96 weeks.
-In SINGLE, a mean change from baseline of 0.14 mg per dL (range: -0.32 mg per dL to 0.59 mg per dL) was observed after 96 weeks of treatment.
+Increases in serum creatinine occurred within the first 4 weeks of treatment and remained stable through 144 weeks.
+In SINGLE, a mean change from baseline of 0.14 mg per dL (range: -0.25 mg per dL to 0.81 mg per dL) was observed after 144 weeks of treatment.
 Creatinine increases were similar in treatment-experienced subjects.
 
 Abacavir and Lamivudine

@@ -66,7 +66,7 @@ Advise patients not to re-use or share needles or other injection equipment.
 
 Advise patients not to share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
 
-Always practice safer sex by using a latex or polyurethane condom to lower the chance of sexual contact with semen, vaginal secretions, or blood.
+Advise patients to always practice safer sex by using a latex or polyurethane condom to lower the chance of sexual contact with semen, vaginal secretions, or blood.
 
 Female patients should be advised not to breastfeed because it is not known if TRIUMEQ can be passed to your baby in your breast milk and whether it could harm your baby.
 Mothers with HIV‑1 should not breastfeed because HIV-1 can be passed to the baby in the breast milk.
@@ -106,7 +106,7 @@ Shire Pharmaceuticals Group plc
 
 Basingstoke, UK
 
-©2015 the ViiV Healthcare group of companies.
+©2016 the ViiV Healthcare group of companies.
 All rights reserved.
 
-TRM:3PI
+TRM:4PI

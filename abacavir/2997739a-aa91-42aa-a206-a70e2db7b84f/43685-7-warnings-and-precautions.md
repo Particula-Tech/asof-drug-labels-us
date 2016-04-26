@@ -28,7 +28,7 @@ Due to the potential for severe, serious, and possibly fatal hypersensitivity re
   Therefore, never restart TRIUMEQ or any other abacavir- or dolutegravir-containing product in patients who have stopped therapy with TRIUMEQ due to a hypersensitivity reaction.
 - •If a hypersensitivity reaction is ruled out, patients may restart TRIUMEQ.
   Rarely, patients who have stopped abacavir for reasons other than symptoms of hypersensitivity have also experienced life-threatening reactions within hours of reinitiating abacavir therapy.
-  Therefore, reintroduction of TRIUMEQ, or any other abacavir-containing product, reintroduction of TRIUMEQ or any other abacavir-containing product is recommended only if medical care can be readily accessed.
+  Therefore, reintroduction of TRIUMEQ, or any other abacavir-containing product, is recommended only if medical care can be readily accessed.
 - •A Medication Guide and Warning Card that provide information about recognition of abacavir hypersensitivity reactions should be dispensed with each new prescription and refill.
 
 Dolutegravir
@@ -63,13 +63,13 @@ Clinical and laboratory evidence of exacerbations of hepatitis have occurred aft
 See full prescribing information for EPIVIR (lamivudine).
 Patients should be closely monitored with both clinical and laboratory follow‑up for at least several months after stopping treatment.
 
-Emergence of Lamivudine‑resistant HBV
+Emergence of Lamivudine‑Resistant HBV
 
 Safety and efficacy of lamivudine have not been established for treatment of chronic hepatitis B in subjects dually infected with HIV-1 and HBV.
 Emergence of hepatitis B virus variants associated with resistance to lamivudine has been reported in HIV‑1‑infected subjects who have received lamivudine‑containing antiretroviral regimens in the presence of concurrent infection with hepatitis B virus.
 See full prescribing information for EPIVIR-HBV® (lamivudine).
 
-## 5.4 Use with Interferon- and Ribavirin-based Regimens
+## 5.4 Use with Interferon- and Ribavirin-Based Regimens
 
 Patients receiving interferon alfa with or without ribavirin and TRIUMEQ should be closely monitored for treatment‑associated toxicities, especially hepatic decompensation.
 See full prescribing information for EPIVIR (lamivudine).
