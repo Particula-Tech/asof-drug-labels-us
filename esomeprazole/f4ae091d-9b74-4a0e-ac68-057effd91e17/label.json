@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA205606"
+  ],
+  "inn": "esomeprazole",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "65862-783-01",
+    "65862-783-10",
+    "65862-783-30",
+    "65862-783-78",
+    "65862-783-90",
+    "65862-783-99",
+    "65862-784-01",
+    "65862-784-10",
+    "65862-784-30",
+    "65862-784-78",
+    "65862-784-90",
+    "65862-784-99"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, DELAYED RELEASE",
+      "generic": "esomeprazole magnesium",
+      "name": "Esomeprazole Magnesium"
+    }
+  ],
+  "setid": "f4ae091d-9b74-4a0e-ac68-057effd91e17",
+  "source": "dailymed"
+}
