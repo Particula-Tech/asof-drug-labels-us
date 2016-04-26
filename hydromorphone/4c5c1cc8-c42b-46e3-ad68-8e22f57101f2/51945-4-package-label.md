@@ -19,7 +19,7 @@ Mallinckrodt™
 
 L00H07
 
-Rev 10/2014
+Rev 02/2016
 
 # Principal Display Panel - 4 mg Tablets
 
@@ -42,7 +42,7 @@ Mallinckrodt™
 
 L00H08
 
-Rev 10/2014
+Rev 02/2016
 
 # Principal Display Panel - 8 mg Tablets
 
@@ -65,4 +65,4 @@ Mallinckrodt™
 
 L00H79
 
-Rev 10/2014
+Rev 02/2016
