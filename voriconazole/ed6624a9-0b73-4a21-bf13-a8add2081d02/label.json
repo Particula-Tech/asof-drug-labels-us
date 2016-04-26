@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA205034"
+  ],
+  "inn": "voriconazole",
+  "labeler": "Amneal Pharmaceuticals of New York, LLC",
+  "package_ndcs": [
+    "65162-913-22"
+  ],
+  "products": [
+    {
+      "form": "POWDER, FOR SUSPENSION",
+      "generic": "voriconazole",
+      "name": "Voriconazole"
+    }
+  ],
+  "setid": "ed6624a9-0b73-4a21-bf13-a8add2081d02",
+  "source": "dailymed"
+}
