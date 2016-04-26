@@ -41,5 +41,5 @@ The overall incidences of adverse reactions, serious adverse reactions and adver
 
 ## 8.7 Hepatic Impairment
 
-1. No dose adjustments are required in patients with mild to moderate hepatic impairment (Child-Pugh Grade A and B) based on insignificant change in systemic exposures (e.g., AUC) compared to subjects with normal hepatic function in a pharmacokinetic study.
-   NESINA has not been studied in patients with severe hepatic impairment (Child-Pugh Grade C). Use caution when administering NESINA to patients with liver disease [see Warnings and Precautions (5.3)].
+No dose adjustments are required in patients with mild to moderate hepatic impairment (Child-Pugh Grade A and B) based on insignificant change in systemic exposures (e.g., AUC) compared to subjects with normal hepatic function in a pharmacokinetic study.
+NESINA has not been studied in patients with severe hepatic impairment (Child-Pugh Grade C). Use caution when administering NESINA to patients with liver disease [see Warnings and Precautions (5.3)].

@@ -285,11 +285,9 @@ The median exposure to study drug was 526 days and 95% of the patients were foll
 Table 12 shows the study results for the primary MACE composite endpoint and the contribution of each component to the primary MACE endpoint.
 The upper bound of the confidence interval was 1.16 and excluded a risk margin larger than 1.3.
 
-Table 12.
-Patients with MACE in EXAMINE
-
 | 305 (11.3) | 7.6 | 316 (11.8) | 7.9 | 0.96 (0.80, 1.16) |  |
 | --- | --- | --- | --- | --- | --- |
+| Table 12. Patients with MACE in EXAMINE |  |  |  |  |  |
 | Composite of first event of CV death, nonfatal MI or nonfatal stroke (MACE) | NESINA |  | Placebo |  | Hazard Ratio |
 | Number of Patients (%) | Rate per 100 PYPatient Years (PY) | Number of Patients (%) | Rate per 100 PY | (98% CI) |  |
 | N=2701 |  | N=2679 |  |  |  |

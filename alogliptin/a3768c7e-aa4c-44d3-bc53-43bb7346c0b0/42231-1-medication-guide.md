@@ -25,8 +25,9 @@ Serious side effects can happen to people taking NESINA, including:
    The pain may be felt going from your abdomen through to your back.
    The pain may happen with or without vomiting.
    These may be symptoms of pancreatitis.
-2. 2.Heart failure:
-3. Before you start taking NESINA:Tell your healthcare provider if you have ever had heart failure or have problems with your kidneys.Contact your healthcare provider right away if you have any of the following symptoms:
+2. 2.Heart failure: Before you start taking NESINA:
+3. Tell your healthcare provider if you have ever had heart failure or have problems with your kidneys.
+4. Contact your healthcare provider right away if you have any of the following symptoms:
 
 |  | •increasing shortness of breath or trouble breathing especially when lying down | •an unusually fast increase in weight | •swelling of feet, ankles, or legs |
 | --- | --- | --- | --- |
