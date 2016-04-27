@@ -21,10 +21,10 @@ Risk Differences in the Number of Suicidality Cases by Age Group in the Pooled P
 
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1,000 Subjects Treated |
 | --- | --- |
-| Increases Compared With Placebo |  |
+| Increases Compared with Placebo |  |
 | <18 | 14 additional cases |
 | 18-24 | 5 additional cases |
-| Decreases Compared With Placebo |  |
+| Decreases Compared with Placebo |  |
 | 25-64 | 1 fewer case |
 | ≥65 | 6 fewer cases |
 
@@ -82,7 +82,7 @@ Assess blood pressure before initiating treatment with WELLBUTRIN, and monitor p
 The risk of hypertension is increased if WELLBUTRIN is used concomitantly with MAOIs or other drugs that increase dopaminergic or noradrenergic activity [see Contraindications (4)].
 
 Data from a comparative trial of the sustained-release formulation of bupropion HCl, nicotine transdermal system (NTS), the combination of sustained-release bupropion plus NTS, and placebo as an aid to smoking cessation suggest a higher incidence of treatment-emergent hypertension in patients treated with the combination of sustained-release bupropion and NTS.
-In this trial, 6.1% of subjects treated with the combination of sustained-release bupropion and NTS had treatment‑emergent hypertension compared to 2.5%, 1.6%, and 3.1% of subjects treated with sustained-release bupropion, NTS, and placebo, respectively.
+In this trial, 6.1% of subjects treated with the combination of sustained-release bupropion and NTS had treatment‑emergent hypertension compared with 2.5%, 1.6%, and 3.1% of subjects treated with sustained-release bupropion, NTS, and placebo, respectively.
 The majority of these subjects had evidence of pre-existing hypertension.
 Three subjects (1.2%) treated with the combination of sustained-release bupropion and NTS and 1 subject (0.4%) treated with NTS had study medication discontinued due to hypertension compared with none of the subjects treated with sustained-release bupropion or placebo.
 Monitoring of blood pressure is recommended in patients who receive the combination of bupropion and nicotine replacement.

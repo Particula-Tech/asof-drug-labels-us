@@ -15,11 +15,15 @@ The following adverse reactions are discussed in greater detail in other section
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Adverse Reactions Leading to Discontinuation of Treatment: Adverse reactions were sufficiently troublesome to cause discontinuation of treatment with WELLBUTRIN in approximately 10% of the 2,400 subjects and healthy volunteers who participated in clinical trials during the product’s initial development.
+Adverse Reactions Leading to Discontinuation of Treatment
+
+Adverse reactions were sufficiently troublesome to cause discontinuation of treatment with WELLBUTRIN in approximately 10% of the 2,400 subjects and healthy volunteers who participated in clinical trials during the product’s initial development.
 The more common events causing discontinuation include neuropsychiatric disturbances (3.0%), primarily agitation and abnormalities in mental status; gastrointestinal disturbances (2.1%), primarily nausea and vomiting; neurological disturbances (1.7%), primarily seizures, headaches, and sleep disturbances; and dermatologic problems (1.4%), primarily rashes.
 It is important to note, however, that many of these events occurred at doses that exceed the recommended daily dose.
 
-Commonly Observed Adverse Reactions: Adverse reactions commonly encountered in subjects treated with WELLBUTRIN are agitation, dry mouth, insomnia, headache/migraine, nausea/vomiting, constipation, tremor, dizziness, excessive sweating, blurred vision, tachycardia, confusion, rash, hostility, cardiac arrhythmia, and auditory disturbance.
+Commonly Observed Adverse Reactions
+
+Adverse reactions commonly encountered in subjects treated with WELLBUTRIN are agitation, dry mouth, insomnia, headache/migraine, nausea/vomiting, constipation, tremor, dizziness, excessive sweating, blurred vision, tachycardia, confusion, rash, hostility, cardiac arrhythmia, and auditory disturbance.
 
 Table 2 summarizes the adverse reactions that occurred in placebo-controlled trials at an incidence of at least 1% of subjects receiving WELLBUTRIN and more frequently in these subjects than in the placebo group.
 
@@ -76,7 +80,9 @@ Adverse Reactions Reported by at Least 1% of Subjects and at a Greater Frequency
 | Blurred vision | 14.6 | 10.3 |
 | Gustatory disturbance | 3.1 | 1.1 |
 
-Other Adverse Reactions Observed During the Clinical Development of WELLBUTRIN: The conditions and duration of exposure to WELLBUTRIN varied greatly, and a substantial proportion of the experience was gained in open and uncontrolled clinical settings.
+Other Adverse Reactions Observed during the Clinical Development of WELLBUTRIN
+
+The conditions and duration of exposure to WELLBUTRIN varied greatly, and a substantial proportion of the experience was gained in open and uncontrolled clinical settings.
 During this experience, numerous adverse events were reported; however, without appropriate controls, it is impossible to determine with certainty which events were or were not caused by WELLBUTRIN.
 The following enumeration is organized by organ system and describes events in terms of their relative frequency of reporting in the database.
 
@@ -95,7 +101,7 @@ Genitourinary: Frequent was nocturia; infrequent were vaginal irritation, testic
 
 Neurological: Frequent were ataxia/incoordination, seizure, myoclonus, dyskinesia, and dystonia; infrequent were mydriasis, vertigo, and dysarthria; rare were electroencephalogram (EEG) abnormality, and impaired attention.
 
-Neuropsychiatric: Frequent were mania/hypomania, increased libido, hallucinations, decrease in sexual function, and depression; infrequent were memory impairment, depersonalization, psychosis, dysphoria, mood instability, paranoia, formal thought disorder, and frigidity; rare was suicidal ideation.
+Neuropsychiatric: Frequent were mania/hypomania, increased libido, hallucinations, decrease in sexual function, and depression; infrequent were memory impairment, depersonalization, psychosis, dysphoria, mood instability, paranoia, and formal thought disorder; rare was suicidal ideation.
 
 Oral Complaints: Frequent was stomatitis; infrequent were toothache, bruxism, gum irritation, and oral edema.
 
@@ -105,32 +111,52 @@ Special Senses: Infrequent was visual disturbance; rare was diplopia.
 
 Nonspecific: Frequent were flu‑like symptoms; infrequent was nonspecific pain; rare was overdose.
 
-Altered Appetite and Weight: A weight loss of greater than 5 lbs occurred in 28% of subjects receiving WELLBUTRIN.
+Altered Appetite and Weight
+
+A weight loss of greater than 5 lbs occurred in 28% of subjects receiving WELLBUTRIN.
 This incidence is approximately double that seen in comparable subjects treated with tricyclics or placebo.
 Furthermore, while 35% of subjects receiving tricyclic antidepressants gained weight, only 9.4% of subjects treated with WELLBUTRIN did.
-Consequently, if weight loss is a major presenting sign of a patient’s depressive illness, the anorectic and/or weight reducing potential of WELLBUTRIN should be considered.
+Consequently, if weight loss is a major presenting sign of a patient’s depressive illness, the anorectic and/or weight-reducing potential of WELLBUTRIN should be considered.
 
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of WELLBUTRIN and are not described elsewhere in the label.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Body (General): Arthralgia, myalgia, and fever with rash and other symptoms suggestive of delayed hypersensitivity.
+Body (General)
+
+Arthralgia, myalgia, and fever with rash and other symptoms suggestive of delayed hypersensitivity.
 These symptoms may resemble serum sickness [see Warnings and Precautions (5.8)].
 
-Cardiovascular: Hypertension (in some cases severe), orthostatic hypotension, third degree heart block.
+Cardiovascular
 
-Endocrine: Syndrome of inappropriate antidiuretic hormone secretion, hyperglycemia, hypoglycemia.
+Hypertension (in some cases severe), orthostatic hypotension, third degree heart block.
 
-Gastrointestinal: Esophagitis, hepatitis.
+Endocrine
 
-Hemic and Lymphatic: Ecchymosis, leukocytosis, leukopenia, thrombocytopenia.
+Syndrome of inappropriate antidiuretic hormone secretion, hyperglycemia, hypoglycemia.
+
+Gastrointestinal
+
+Esophagitis, hepatitis.
+
+Hemic and Lymphatic
+
+Ecchymosis, leukocytosis, leukopenia, thrombocytopenia.
 Altered PT and/or INR, infrequently associated with hemorrhagic or thrombotic complications, were observed when bupropion was coadministered with warfarin.
 
-Musculoskeletal: Muscle rigidity/fever/rhabdomyolysis, muscle weakness.
+Musculoskeletal
 
-Nervous System: Aggression, coma, completed suicide, delirium, dream abnormalities, paranoid ideation, paresthesia, restlessness, suicide attempt, unmasking of tardive dyskinesia.
+Muscle rigidity/fever/rhabdomyolysis, muscle weakness.
 
-Skin and Appendages: Stevens‑Johnson syndrome, angioedema, exfoliative dermatitis, urticaria.
+Nervous System
 
-Special Senses: Tinnitus, increased intraocular pressure.
+Aggression, coma, completed suicide, delirium, dream abnormalities, paranoid ideation, paresthesia, parkinsonism, restlessness, suicide attempt, unmasking of tardive dyskinesia.
+
+Skin and Appendages
+
+Stevens‑Johnson syndrome, angioedema, exfoliative dermatitis, urticaria.
+
+Special Senses
+
+Tinnitus, increased intraocular pressure.

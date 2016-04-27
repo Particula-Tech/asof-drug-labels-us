@@ -22,16 +22,16 @@ Talk to your healthcare provider or your family member’s healthcare provider a
 
 What is the most important information I should know about antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions?
 
-- •Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment.
-- •Depression or other serious mental illnesses are the most important causes of suicidal thoughts and actions.
-  Some people may have a particularly high risk of having suicidal thoughts or actions.
-  These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
-- •How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
-- •Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
-  This is very important when an antidepressant medicine is started or when the dose is changed.
-- •Call your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
-- •Keep all follow-up visits with your healthcare provider as scheduled.
-  Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
+1. 1.Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment.
+2. 2.Depression or other serious mental illnesses are the most important causes of suicidal thoughts and actions.
+   Some people may have a particularly high risk of having suicidal thoughts or actions.
+   These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
+3. 3.How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
+   1. •Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
+      This is very important when an antidepressant medicine is started or when the dose is changed.
+   2. •Call your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
+   3. •Keep all follow-up visits with your healthcare provider as scheduled.
+      Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
 
 Call your healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
 
@@ -113,7 +113,6 @@ If you have any of the above symptoms of mania, call your healthcare provider.
   - •swelling or redness in or around the eye
 - Only some people are at risk for these problems.
   You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
-
 - •Severe allergic reactions.
   Some people can have severe allergic reactions to WELLBUTRIN.
   Stop taking WELLBUTRIN and call your healthcare provider right away if you get a rash, itching, hives, fever, swollen lymph glands, painful sores in the mouth or around the eyes, swelling of the lips or tongue, chest pain, or have trouble breathing.
@@ -129,7 +128,7 @@ Do not take WELLBUTRIN if you
 
 - •have or had a seizure disorder or epilepsy.
 - •have or had an eating disorder such as anorexia nervosa or bulimia.
-- •are taking any other medicines that contain bupropion, including ZYBAN (used to help people stop smoking) APLENZIN®, FORFIVO XL™, WELLBUTRIN SR®, or WELLBUTRIN XL®.
+- •are taking any other medicines that contain bupropion, including ZYBAN (used to help people stop smoking) APLENZIN®, FORFIVO XL®, WELLBUTRIN SR®, or WELLBUTRIN XL®.
   Bupropion is the same active ingredient that is in WELLBUTRIN.
 - •drink a lot of alcohol and abruptly stop drinking, or use medicines called sedatives (these make you sleepy), benzodiazepines, or anti-seizure medicines, and you stop using them all of a sudden.
 - •take a monoamine oxidase inhibitor (MAOI).
@@ -161,9 +160,8 @@ Tell your healthcare provider about your other medical conditions including if y
 - •are pregnant or plan to become pregnant.
 - •are breastfeeding.
   WELLBUTRIN passes into your milk in small amounts.
-
-Tell your healthcare provider about all the medicines you take, including prescription, over-the-counter medicines, vitamins, and herbal supplements.
-Many medicines increase your chances of having seizures or other serious side effects if you take them while you are taking WELLBUTRIN.
+- •Tell your healthcare provider about all the medicines you take, including prescription, over-the-counter medicines, vitamins, and herbal supplements.
+  Many medicines increase your chances of having seizures or other serious side effects if you take them while you are taking WELLBUTRIN.
 
 How should I take WELLBUTRIN?
 
@@ -227,7 +225,7 @@ You may also report side effects to GlaxoSmithKline at 1-888-825-5249.
 How should I store WELLBUTRIN?
 
 - •Store WELLBUTRIN at room temperature between 59°F and 86°F (15°C to 30°C).
-- •Keep WELLBUTRIN Tablets dry and out of the light.
+- •Keep WELLBUTRIN tablets dry and out of the light.
 
 Keep WELLBUTRIN and all medicines out of the reach of children.
 
@@ -266,9 +264,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2014, the GSK group of companies.
+©2016 the GSK group of companies.
 All rights reserved.
 
-July 2014
+April 2016
 
-WLT:10MG
+WLT:11MG

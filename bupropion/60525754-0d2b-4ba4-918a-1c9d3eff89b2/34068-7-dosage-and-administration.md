@@ -25,7 +25,7 @@ In patients with mild hepatic impairment (Child-Pugh score: 5 to 6), consider re
 
 ## 2.3 Dose Adjustment in Patients with Renal Impairment
 
-Consider reducing the dose and/or frequency of WELLBUTRIN in patients with renal impairment (Glomerular Filtration Rate <90 mL/min) [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
+Consider reducing the dose and/or frequency of WELLBUTRIN in patients with renal impairment (Glomerular Filtration Rate less than 90 mL per min) [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
 ## 2.4 Switching a Patient to or from a Monoamine Oxidase Inhibitor (MAOI) Antidepressant
 
@@ -43,5 +43,5 @@ If acceptable alternatives to linezolid or intravenous methylene blue treatment 
 The patient should be monitored for 2 weeks or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first.
 Therapy with WELLBUTRIN may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue.
 
-The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with WELLBUTRIN is unclear.
+The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg per kg with WELLBUTRIN is unclear.
 The clinician should, nevertheless, be aware of the possibility of a drug interaction with such use [see Contraindications (4), Drug Interactions (7.6)].

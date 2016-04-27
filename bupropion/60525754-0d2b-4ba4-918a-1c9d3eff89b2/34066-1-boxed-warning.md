@@ -15,4 +15,4 @@ The majority of these reactions occurred during bupropion treatment, but some oc
 In many cases, a causal relationship to bupropion treatment is not certain, because depressed mood may be a symptom of nicotine withdrawal.
 However, some of the cases occurred in patients taking bupropion who continued to smoke.
 Although WELLBUTRIN® is not approved for smoking cessation, observe all patients for neuropsychiatric reactions.
-Instruct the patient to contact a healthcare provider if such reactions occur [seeWarnings and Precautions (5.2)].
+Instruct the patient to contact a healthcare provider if such reactions occur [see Warnings and Precautions (5.2)].
