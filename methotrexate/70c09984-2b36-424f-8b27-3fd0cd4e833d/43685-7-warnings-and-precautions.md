@@ -26,7 +26,7 @@ Due to diminished hepatic and renal function as well as decreased folate stores 
 Patients should be informed of the early signs and symptoms of toxicity, of the need to see their physician promptly if they occur, and the need for close follow-up, including periodic laboratory tests to monitor toxicity.
 
 Both the physician and pharmacist should emphasize to the patient that the recommended dose is taken weekly in rheumatoid arthritis and psoriasis, and that mistaken daily use of the recommended dose has led to fatal toxicity.
-Patients should be encouraged to read the accompanying Patient Information Leaflet.
+Patients should be encouraged to read the Patient Information Leaflet.
 Prescriptions should not be written or refilled on a PRN basis.
 
 Patients should be informed of the potential benefit and risk in the use of methotrexate.
@@ -57,7 +57,7 @@ Caution should be used when NSAIDs and salicylates are administered concomitantl
 These drugs have been reported to reduce the tubular secretion of methotrexate in an animal model and may enhance its toxicity.
 
 Despite the potential interactions, studies of methotrexate in patients with rheumatoid arthritis have usually included concurrent use of constant dosage regimens of NSAIDs, without apparent problems.
-It should be appreciated, however, that the doses used in rheumatoid arthritis (7.5 to 20 mg/week) are somewhat lower than those used in psoriasis and that larger doses could lead to unexpected toxicity.
+It should be appreciated, however, that the doses used in rheumatoid arthritis (7.5 to 20 mg/wk) are somewhat lower than those used in psoriasis and that larger doses could lead to unexpected toxicity.
 
 Methotrexate is partially bound to serum albumin, and toxicity may be increased because of displacement by certain drugs, such as salicylates, phenylbutazone, phenytoin, and sulfonamides.
 Renal tubular transport is also diminished by probenecid; use of methotrexate with this drug should be carefully monitored.
@@ -77,7 +77,7 @@ Certain side effects such as mouth sores may be reduced by folate supplementatio
 
 Trimethoprim/sulfamethoxazole has been reported rarely to increase bone marrow suppression in patients receiving methotrexate, probably by an additive antifolate effect.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
 No controlled human data exist regarding the risk of neoplasia with methotrexate.
 Methotrexate has been evaluated in a number of animal studies for carcinogenic potential with inconclusive results.
@@ -100,7 +100,7 @@ See CONTRAINDICATIONS.
 
 ## Pediatric Use
 
-Safety and effectiveness in pediatric patients have been established, only in cancer chemotherapy and in polyarticular-course juvenile rheumatoid arthritis.
+Safety and effectiveness in pediatric patients have been established only in cancer chemotherapy and in polyarticular-course juvenile rheumatoid arthritis.
 
 Published clinical studies evaluating the use of methotrexate in children and adolescents (i.e., patients 2 to 16 years of age) with JRA demonstrated safety comparable to that observed in adults with rheumatoid arthritis.
 (See CLINICAL PHARMACOLOGY, ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION.)
@@ -160,7 +160,7 @@ Liver function tests should be performed at baseline and at 4 to 8 week interval
 Pretreatment liver biopsy should be performed for patients with a history of excessive alcohol consumption, persistently abnormal baseline liver function test values or chronic hepatitis B or C infection.
 During therapy, liver biopsy should be performed if there are persistent liver function test abnormalities or there is a decrease in serum albumin below the normal range (in the setting of well controlled rheumatoid arthritis).
 
-If the results of a liver biopsy show mild changes (Roenigk grades I,II, IIIa), methotrexate may be continued and the patient monitored as per recommendations listed above.
+If the results of a liver biopsy show mild changes (Roenigk grades I, II, IIIa), methotrexate may be continued and the patient monitored as per recommendations listed above.
 Methotrexate should be discontinued in any patient who displays persistently abnormal liver function tests and refuses liver biopsy or in any patient whose liver biopsy shows moderate to severe changes (Roenigk grade IIIb or IV).
 
 ### Infection or Immunologic States
@@ -169,6 +169,7 @@ Methotrexate should be used with extreme caution in the presence of active infec
 Immunization may be ineffective when given during methotrexate therapy.
 Immunization with live virus vaccines is generally not recommended.
 There have been reports of disseminated vaccinia infections after smallpox immunization in patients receiving methotrexate therapy.
+
 Hypogammaglobulinemia has been reported rarely.
 
 Potentially fatal opportunistic infections, especially Pneumocystis carinii pneumonia, may occur with methotrexate therapy.
@@ -188,7 +189,7 @@ Close attention to renal function including adequate hydration, urine alkaliniza
 
 ### Skin
 
-Severe, occasionally fatal, dermatologic reactions, including toxic epidermal necrolysis, Stevens-Johnson syndrome, exfoliative dermatitis, skin necrosis, and erythema multiforme, have been reported in children and adults, within days of oral, intramuscular, intravenous or intrathecal methotrexate administration.
+Severe, occasionally fatal, dermatologic reactions, including toxic epidermal necrolysis, Stevens-Johnson syndrome, exfoliative dermatitis, skin necrosis, and erythema multiforme, have been reported in children and adults, within days of oral, intramuscular, intravenous, or intrathecal methotrexate administration.
 Reactions were noted after single or multiple, low, intermediate or high doses of methotrexate in patients with neoplastic and non-neoplastic diseases.
 
 ### Other Precautions

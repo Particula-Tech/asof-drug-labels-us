@@ -20,7 +20,7 @@ Limited data from long-term studies indicate that an initial clinical improvemen
 In psoriasis, the rate of production of epithelial cells in the skin is greatly increased over normal skin.
 This differential in proliferation rates is the basis for the use of methotrexate to control the psoriatic process.
 
-In a 6-month double-blind, placebo-controlled trial of 127 pediatric patients with juvenile rheumatoid arthritis (JRA) (mean age, 10.1 years; age range, 2.5 to 18 years; mean duration of disease, 5.1 years) on background non-steroidal anti-inflammatory drugs (NSAIDs) and/or prednisone, methotrexate given weekly at an oral dose of 10 mg/m2 provided significant clinical improvement compared to placebo as measured by either the physician's global assessment, or by a patient composite (25% reduction in the articular-severity score plus improvement in parent and physician global assessments of disease activity).
+In a 6-month, double-blind, placebo-controlled trial of 127 pediatric patients with juvenile rheumatoid arthritis (JRA) (mean age, 10.1 years; age range, 2.5 to 18 years; mean duration of disease, 5.1 years) on background non-steroidal anti-inflammatory drugs (NSAIDs) and/or prednisone, methotrexate given weekly at an oral dose of 10 mg/m2 provided significant clinical improvement compared to placebo as measured by either the physician's global assessment, or by a patient composite (25% reduction in the articular-severity score plus improvement in parent and physician global assessments of disease activity).
 Over two-thirds of the patients in this trial had polyarticular-course JRA, and the numerically greatest response was seen in this subgroup treated with 10 mg/m2/wk methotrexate.
 The overwhelming majority of the remaining patients had systemic-course JRA.
 All patients were unresponsive to NSAIDs; approximately one-third were using low dose corticosteroids.
@@ -36,7 +36,7 @@ At doses of 30 mg/m2 or less, methotrexate is generally well absorbed with a mea
 The absorption of doses greater than 80 mg/m2 is significantly less, possibly due to a saturation effect.
 
 In leukemic pediatric patients, oral absorption of methotrexate also appears to be dose dependent and has been reported to vary widely (23% to 95%).
-A 20-fold difference between highest and lowest peak levels (Cmax: 0.11 to 2.3 micromolar after a 20 mg/m2 dose) has been reported.
+A 20 fold difference between highest and lowest peak levels (Cmax: 0.11 to 2.3 micromolar after a 20 mg/m2 dose) has been reported.
 Significant interindividual variability has also been noted in time to peak concentration (Tmax: 0.67 to 4 hours after a 15 mg/m2 dose) and fraction of dose absorbed.
 The absorption of doses greater than 40 mg/m2 has been reported to be significantly less than that of lower doses.
 Food has been shown to delay absorption and reduce peak concentration.
@@ -94,7 +94,6 @@ It has been postulated that the toxicity of methotrexate for normal tissues is m
 When a patient has delayed drug elimination due to compromised renal function, a third space effusion, or other causes, methotrexate serum concentrations may remain elevated for prolonged periods.
 
 The potential for toxicity from high dose regimens or delayed excretion is reduced by the administration of leucovorin calcium during the final phase of methotrexate plasma elimination.
-
 Pharmacokinetic monitoring of methotrexate serum concentrations may help identify those patients at high risk for methotrexate toxicity and aid in proper adjustment of leucovorin dosing.
 Guidelines for monitoring serum methotrexate levels, and for adjustment of leucovorin dosing to reduce the risk of methotrexate toxicity, are provided below in DOSAGE AND ADMINISTRATION.
 

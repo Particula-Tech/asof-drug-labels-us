@@ -12,7 +12,7 @@ In the oncology setting, concomitant treatment and the underlying disease make s
 
 Alimentary System: Gingivitis, pharyngitis, stomatitis, anorexia, nausea, vomiting, diarrhea, hematemesis, melena, gastrointestinal ulceration and bleeding, enteritis, pancreatitis.
 
-Blood and Lymphatic System Disorders: Suppressed hematopoiesis causing anemia, aplastic anemia, pancytopenia, leukopenia, neutropenia, and/or thrombocytopenia, lymphadenopathy and lymphoproliferative disorders (including reversible).
+Blood and Lymphatic System Disorders: Suppressed hematopoiesis causing anemia, aplastic anemia, pancytopenia, leukopenia, neutropenia and/or thrombocytopenia, lymphadenopathy and lymphoproliferative disorders (including reversible).
 Hypogammaglobulinemia has been reported rarely.
 
 Cardiovascular: Pericarditis, pericardial effusion, hypotension, and thromboembolic events (including arterial thrombosis, cerebral thrombosis, deep vein thrombosis, retinal vein thrombosis, thrombophlebitis, and pulmonary embolus).
@@ -32,7 +32,7 @@ Ophthalmic: Conjunctivitis, serious visual changes of unknown etiology.
 
 Pulmonary System: Respiratory fibrosis, respiratory failure, interstitial pneumonitis deaths have been reported, and chronic interstitial obstructive pulmonary disease has occasionally occurred.
 
-Skin: Erythematous rashes, pruritus, urticaria, photosensitivity, pigmentary changes, alopecia, ecchymosis, telangiectasia, acne, furunculosis, erythema multiforme, toxic epidermal necrolysis, Stevens-Johnson Syndrome, skin necrosis, skin ulceration, and exfoliative dermatitis.
+Skin: Erythematous rashes, pruritus, urticaria, photosensitivity, pigmentary changes, alopecia, ecchymosis, telangiectasia, acne, furunculosis, erythema multiforme, toxic epidermal necrolysis, Stevens-Johnson syndrome, skin necrosis, skin ulceration, and exfoliative dermatitis.
 
 Urogenital System: Severe nephropathy or renal failure, azotemia, cystitis, hematuria; defective oogenesis or spermatogenesis, transient oligospermia, menstrual dysfunction, vaginal discharge, and gynecomastia; infertility, abortion, fetal defects.
 
@@ -41,8 +41,8 @@ Anaphylactoid reactions have been reported.
 
 ## Adverse Reactions in Double-Blind Rheumatoid Arthritis Studies
 
-The approximate incidences of methotrexate attributed (i.e., placebo rate subtracted) adverse reactions in 12- to 18-week double-blind studies of patients (n = 128) with rheumatoid arthritis treated with low-dose oral (7.5 to 15 mg/week) pulse methotrexate are listed below.
-Virtually all of these patients were on concomitant nonsteroidal anti-inflammatory drugs and some were also taking low dosages of corticosteroids.
+The approximate incidences of methotrexate attributed (i.e., placebo rate subtracted) adverse reactions in 12 to 18 week double-blind studies of patients (n = 128) with rheumatoid arthritis treated with low-dose oral (7.5 to 15 mg/wk) pulse methotrexate are listed below.
+Virtually all of these patients were on concomitant non-steroidal anti-inflammatory drugs and some were also taking low dosages of corticosteroids.
 Hepatic histology was not examined in these short-term studies.
 (See PRECAUTIONS.)
 

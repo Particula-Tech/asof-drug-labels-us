@@ -6,7 +6,7 @@ Oral administration in tablet form is often preferred when low doses are being a
 
 ### Choriocarcinoma and Similar Trophoblastic Diseases
 
-Methotrexate is administered orally or intramuscularly in doses of 15 mg to 30 mg daily for a 5-day course.
+Methotrexate is administered orally or intramuscularly in doses of 15 mg to 30 mg daily for a 5 day course.
 Such courses are usually repeated for 3 to 5 times as required, with rest periods of one or more weeks interposed between courses, until any manifesting toxic symptoms subside.
 The effectiveness of therapy is ordinarily evaluated by 24 hour quantitative analysis of urinary chorionic gonadotropin (hCG), which should return to normal or less than 50 IU/24 hr usually after the third or fourth course and usually be followed by a complete resolution of measurable lesions in 4 to 6 weeks.
 One to two courses of methotrexate after normalization of hCG is usually recommended.
@@ -87,12 +87,12 @@ Maximal myelosuppression usually occurs in 7 to 10 days.
 
 ### Psoriasis
 
-Recommended Starting Dose Schedule
+Recommended Starting Dose Schedules
 
 1. 1.Weekly single oral, IM or IV dose schedule: 10 mg to 25 mg per week until adequate response is achieved.
 2. 2.Divided oral dose schedule: 2.5 mg at 12 hour intervals for three doses.
 
-Dosages in each schedule may be gradually adjusted to achieve optimal clinical response; 30 mg/week should not ordinarily be exceeded.
+Dosages in each schedule may be gradually adjusted to achieve optimal clinical response; 30 mg/wk should not ordinarily be exceeded.
 
 Once optimal clinical response has been achieved, each dosage schedule should be reduced to the lowest possible amount of drug and to the longest possible rest period.
 The use of methotrexate may permit the return to conventional topical therapy, which should be encouraged.
