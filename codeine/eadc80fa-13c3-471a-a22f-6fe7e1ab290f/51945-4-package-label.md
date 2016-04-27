@@ -18,7 +18,7 @@ This package is not for household use.
 
 Mallinckrodt™
 
-L00A28 Rev 12/2014
+L00A28 Rev 02/2016
 
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 300 mg/30 mg Bottle
 
@@ -40,7 +40,7 @@ This package is not for household use.
 
 Mallinckrodt™
 
-L00A34 Rev 12/2014
+L00A34 Rev 02/2016
 
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 300 mg/60 mg Bottle
 
@@ -64,4 +64,4 @@ This package is not for household use.
 
 Mallinckrodt™
 
-L00A37 Rev 12/2014
+L00A37 Rev 02/2016
