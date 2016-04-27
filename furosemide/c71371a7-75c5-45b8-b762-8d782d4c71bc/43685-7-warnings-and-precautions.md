@@ -33,6 +33,7 @@ Thus, these patients require careful monitoring, especially during the initial s
 In patients at high risk for radiocontrast nephropathy, furosemide can lead to a higher incidence of deterioration in renal function after receiving radiocontrast compared to high-risk patients who received only intravenous hydration prior to receiving radiocontrast.
 
 In patients with hypoproteinemia (e.g., associated with nephrotic syndrome) the effect of furosemide may be weakened and its ototoxicity potentiated.
+
 Asymptomatic hyperuricemia can occur and gout may rarely be precipitated.
 
 Patients allergic to sulfonamides may also be allergic to furosemide.
