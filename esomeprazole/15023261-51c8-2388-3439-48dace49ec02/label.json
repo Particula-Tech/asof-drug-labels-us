@@ -5,8 +5,10 @@
   "inn": "esomeprazole",
   "labeler": "Dr. Reddy's Laboratories Inc",
   "package_ndcs": [
+    "43598-509-10",
     "43598-509-30",
     "43598-509-90",
+    "43598-510-10",
     "43598-510-30",
     "43598-510-90"
   ],
