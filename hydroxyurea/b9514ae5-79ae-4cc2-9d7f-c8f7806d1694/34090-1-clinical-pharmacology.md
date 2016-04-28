@@ -15,7 +15,7 @@ It appears that hydroxyurea, by inhibition of DNA synthesis, hinders the normal 
 
 Absorption
 
-Following oral administration of hydroxyurea, hydroxyurea reaches peak plasma concentrations in 1 to 4 hours.
+Following oral administration of hydroxyurea capsules, hydroxyurea reaches peak plasma concentrations in 1 to 4 hours.
 Mean peak plasma concentrations and AUCs increase more than proportionally with increase of dose.
 
 There are no data on the effect of food on the absorption of hydroxyurea.
@@ -42,4 +42,4 @@ The effect of renal impairment on the pharmacokinetics of hydroxyurea was assess
 Patients with normal renal function (creatinine clearance [CrCl] >80 mL/min), mild (CrCl 50 to 80 mL/min), moderate (CrCl = 30 to <50 mL/min), or severe (<30 mL/min) renal impairment received a single oral dose of 15 mg/kg hydroxyurea.
 Patients with ESRD received two doses of 15 mg/kg separated by 7 days; the first was given following a 4-hour hemodialysis session, the second prior to hemodialysis.
 The exposure to hydroxyurea (mean AUC) in patients with CrCl <60 mL/min and those with ESRD was 64% higher than in patients with normal renal function (CrCl >60 mL/min).
-Reduce the dose of hydroxyurea when it is administered to patients with creatinine clearance of <60 mL/min or with ESRD following hemodialysis[see Dosage and Administration (2.3) and Use in Specific Populations (8.6)].
+Reduce the dose of hydroxyurea when it is administered to patients with creatinine clearance of <60 mL/min or with ESRD following hemodialysis [see Dosage and Administration (2.3) and Use in Specific Populations (8.6)].

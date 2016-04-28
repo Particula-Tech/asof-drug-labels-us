@@ -8,8 +8,8 @@ Bone marrow suppression may occur, and leukopenia is generally its first and mos
 Thrombocytopenia and anemia occur less often and are seldom seen without a preceding leukopenia.
 Bone marrow depression is more likely in patients who have previously received radiotherapy or cytotoxic cancer chemotherapeutic agents; use hydroxyurea cautiously in such patients.
 
-Evaluate hematologic status prior to and during treatment with hydroxyurea.
-Provide supportive care and modify dose or discontinue hydroxyurea as needed.
+Evaluate hematologic status prior to and during treatment with hydroxyurea capsules.
+Provide supportive care and modify dose or discontinue hydroxyurea capsules as needed.
 Recovery from myelosuppression is usually rapid when therapy is interrupted.
 
 ## 5.2 Malignancies
@@ -21,32 +21,37 @@ Advise protection from sun exposure and monitor for the development of secondary
 
 ## 5.3 Embryo-Fetal Toxicity
 
-Hydroxyurea may cause fetal harm when administered to a pregnant woman.
-Hydroxyurea is genotoxic.
-Hydroxyurea has been demonstrated to be a potent teratogen in a wide variety of animal models, including mice, hamsters, cats, miniature swine, dogs, and monkeys at doses within 1-fold of the human dose given on a mg/m2 basis.
-Hydroxyurea is embryotoxic and causes fetal malformations at 180 mg/kg/day in rats and at 30 mg/kg/day in rabbits.
-Single doses of ≥375 mg/kg to rats caused growth retardation and impaired learning ability.
-Advise pregnant women of the potential risk to a fetus.
-Advise females of reproductive potential to use effective contraception during and after treatment with hydroxyurea for at least 30 days after therapy.
-Females of reproductive potential should also ensure that their male partner, who is/has taken hydroxyurea, uses effective contraception during and after treatment for at least 1 year after therapy.
-Advise males of reproductive potential to use effective contraception during and after treatment with hydroxyurea for at least 1 year after therapy [see Use in Specific Populations (8.1, 8.3)].
+Based on the mechanism of action and findings in animals, hydroxyurea capsules can cause fetal harm when administered to a pregnant woman.
+Hydroxyurea was embryotoxic and teratogenic in rats and rabbits at doses 0.8 times and 0.3 times, respectively, the maximum recommended human daily dose on a mg/m2 basis.
+Advise pregnant women of the potential risk to a fetus [see Use in Specific Populations (8.1)].
+
+Advise females of reproductive potential to use effective contraception during and after treatment with hydroxyurea capsules for at least 6 months after therapy.
+Advise males of reproductive potential to use effective contraception during and after treatment with hydroxyurea capsules for at least 1 year after therapy [see Use in Specific Populations (8.1, 8.3)].
 
 ## 5.4 Vasculitic Toxicities
 
 Cutaneous vasculitic toxicities, including vasculitic ulcerations and gangrene, have occurred in patients with myeloproliferative disorders during therapy with hydroxyurea.
 These vasculitic toxicities were reported most often in patients with a history of, or currently receiving, interferon therapy.
-If cutaneous vasculitic ulcers occur, institute treatment and discontinue of hydroxyurea.
+If cutaneous vasculitic ulcers occur, institute treatment and discontinue hydroxyurea capsules.
 
-## 5.5 Risks with Concomitant Use of Antiretroviral Drugs
+## 5.5 Live Vaccinations
+
+Avoid use of live vaccine in patients taking hydroxyurea capsules.
+Concomitant use of hydroxyurea capsules with a live virus vaccine may potentiate the replication of the virus and/or may increase the adverse reaction of the vaccine because normal defense mechanisms may be suppressed by hydroxyurea capsules.
+Vaccination with live vaccines in a patient receiving hydroxyurea capsules may result in severe infection.
+Patient’s antibody response to vaccines may be decreased.
+Consider consultation with a specialist.
+
+## 5.6 Risks with Concomitant Use of Antiretroviral Drugs
 
 Pancreatitis, hepatotoxicity, and peripheral neuropathy have occurred when hydroxyurea was administered concomitantly with antiretroviral drugs, including didanosine and stavudine [see Drug Interactions (7.1)].
 
-## 5.6 Radiation Recall
+## 5.7 Radiation Recall
 
 Patients who have received irradiation therapy in the past may have an exacerbation of postirradiation erythema.
 Monitor for skin erythema in patients who previously received radiation and manage symptomatically.
 
-## 5.7 Macrocytosis
+## 5.8 Macrocytosis
 
 Hydroxyurea may cause macrocytosis, which is self-limiting, and is often seen early in the course of treatment.
 The morphologic change resembles pernicious anemia, but is not related to vitamin B12 or folic acid deficiency.

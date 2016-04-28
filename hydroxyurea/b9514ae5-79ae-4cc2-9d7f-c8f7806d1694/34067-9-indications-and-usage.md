@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-Hydroxyurea Capsules USP are indicated for the treatment of:
+Hydroxyurea capsules are indicated for the treatment of:
 
 - •Resistant chronic myeloid leukemia.
 - •Locally advanced squamous cell carcinomas of the head and neck (excluding the lip) in combination with chemoradiation.

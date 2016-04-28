@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-Hydroxyurea Capsules USP 500 mg are available as a two-piece hard gelatin capsule with purple opaque cap and pink opaque body filled with white powder, imprinted in black ink barr 882 and packaged in bottles of 100 capsules (NDC 0555-0882-02).
+Hydroxyurea Capsules USP 500 mg are available as a two-piece hard gelatin capsule with purple opaque cap and pink opaque body filled with white powder, imprinted in black ink stylized barr 882 and packaged in bottles of 100 capsules (NDC 0555-0882-02).
 
 ## 16.2 Storage
 
