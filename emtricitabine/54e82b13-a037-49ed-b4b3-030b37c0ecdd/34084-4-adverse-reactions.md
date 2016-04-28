@@ -2,11 +2,11 @@
 
 The following adverse reactions are discussed in other sections of the labeling:
 
-- Lactic Acidosis/Severe Hepatomegaly with Steatosis [See Boxed Warning, Warnings and Precautions (5.1)].
-- Severe Acute Exacerbations of hepatitis B [See Boxed Warning, Warnings and Precautions (5.2)].
-- New Onset or Worsening Renal Impairment [See Warnings and Precautions (5.3)].
-- Bone Effects of Tenofovir DF [See Warnings and Precautions (5.5)].
-- Immune Reconstitution Syndrome [See Warnings and Precautions (5.7)].
+- Lactic Acidosis/Severe Hepatomegaly with Steatosis [see Boxed Warning, Warnings and Precautions (5.1)].
+- Severe Acute Exacerbations of hepatitis B [see Boxed Warning, Warnings and Precautions (5.2)].
+- New Onset or Worsening Renal Impairment [see Warnings and Precautions (5.3)].
+- Bone Effects of Tenofovir DF [see Warnings and Precautions (5.5)].
+- Immune Reconstitution Syndrome [see Warnings and Precautions (5.7)].
 
 ## 6.1 Adverse Reactions from Clinical Trials Experience in HIV-1 Infected Subjects
 
@@ -78,23 +78,23 @@ In addition to the laboratory abnormalities described above for Study 934, Grade
 Clinical Trials in Pediatric Subjects
 
 Emtricitabine: In addition to the adverse reactions reported in adults, anemia and hyperpigmentation were observed in 7% and 32%, respectively, of pediatric subjects (3 months to less than 18 years of age) who received treatment with EMTRIVA in the larger of two open-label, uncontrolled pediatric trials (N=116).
-For additional information, please consult the EMTRIVA prescribing information.
+For additional information, consult the EMTRIVA prescribing information.
 
 Tenofovir Disoproxil Fumarate: In pediatric clinical trials (Studies 352 and 321) conducted in 184 HIV-1 infected subjects 2 to less than 18 years of age, the adverse reactions observed in pediatric subjects who received treatment with VIREAD were consistent with those observed in clinical trials of VIREAD in adults.
 
 Eighty-nine pediatric subjects (2 to less than 12 years of age) received VIREAD in Study 352 for a median exposure of 104 weeks.
 Of these, 4 subjects discontinued from the trial due to adverse reactions consistent with proximal renal tubulopathy.
-Three of these 4 subjects presented with hypophosphatemia and also had decreases in total body or spine BMD Z score [See Warnings and Precautions (5.5)].
-For additional information, please consult the VIREAD prescribing information.
+Three of these 4 subjects presented with hypophosphatemia and also had decreases in total body or spine BMD Z score [see Warnings and Precautions (5.5)].
+For additional information, consult the VIREAD prescribing information.
 
 ## 6.2 Adverse Reactions from Clinical Trial Experience in HIV-1 Uninfected Adult Subjects
 
-No new adverse reactions to TRUVADA were identified from two randomized placebo-controlled clinical trials (iPrEx, Partners PrEP) in which 2830 HIV-1 uninfected adults received TRUVADA once daily for pre-exposure prophylaxis.
+No new adverse reactions to TRUVADA were identified from two randomized placebo-controlled clinical trials (iPrEx, Partners PrEP), in which 2,830 HIV-1 uninfected adults received TRUVADA once daily for pre-exposure prophylaxis.
 Subjects were followed for a median of 71 weeks and 87 weeks, respectively.
 These trials enrolled HIV-negative individuals ranging in age from 18 to 67 years.
-The iPrEx trial enrolled only males or transgender females of Hispanic/Latino (72%), White (18%), Black (9%) and Asian (5%) race.
-The Partners PrEP trial enrolled both males (61–64% across treatment groups) and females in Kenya and Uganda.
-Table 5 provides a list of all adverse events that occurred ≥2% of subjects in any treatment group in the iPrEx and Partners PrEP trials.
+The iPrEx trial enrolled only men or transgender women of Hispanic/Latino (72%), White (18%), Black (9%) and Asian (5%) race.
+The Partners PrEP trial enrolled both men (61–64% across treatment groups) and women in Kenya and Uganda.
+Table 5 provides a list of all adverse events that occurred in 2% or more of subjects in any treatment group in the iPrEx and Partners PrEP trials.
 
 Laboratory Abnormalities: Table 6 provides a list of laboratory abnormalities observed in both trials.
 Six subjects in the TDF-containing arms of the Partners PrEP trial discontinued participation in the study due to an increase in blood creatinine compared with no discontinuations in the placebo group.
@@ -132,7 +132,7 @@ Table 5 Selected Adverse Events (All Grades) Reported in ≥2% in Any Treatment 
 
 Table 6 Laboratory Abnormalities (Highest Toxicity Grade) Reported for Each Subject in the iPrEx Trial and Partners PrEP Trial
 
-|  | GradeGrading is per DAIDS criteria. |  | FTC/TDF N= 1251 | Placebo N= 1248 | FTC/TDF N=1579 | Placebo N=1584 |
+|  | GradeGrading is per DAIDS criteria. |  | FTC/TDF (N= 1251) | Placebo (N= 1248) | FTC/TDF (N=1579) | Placebo (N=1584) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  | iPrEx Trial |  | Partners PrEP Trial |  |
 | Creatinine | 1 | (1.1–1.3 × ULN) | 27 (2%) | 21 (2%) | 18 (1%) | 12 (<1%) |
@@ -152,11 +152,11 @@ Changes in Bone Mineral Density:
 
 In clinical trials of HIV-1 uninfected individuals, decreases in BMD were observed.
 In the iPrEx trial, a substudy of 503 subjects found mean changes from baseline in BMD ranging from –0.4% to –1.0% across total hip, spine, femoral neck, and trochanter in the TRUVADA group compared with the placebo group, which returned toward baseline after discontinuation of treatment.
-Thirteen percent of subjects receiving TRUVADA vs. 6% of subjects receiving placebo lost at least 5% of BMD at the spine during treatment.
+Thirteen percent of subjects receiving TRUVADA versus 6% of subjects receiving placebo lost at least 5% of BMD at the spine during treatment.
 Bone fractures were reported in 1.7% of the TRUVADA group compared with 1.4% in the placebo group.
-No correlation between BMD and fractures was noted [See Clinical Studies (14.2)].
+No correlation between BMD and fractures was noted [see Clinical Studies (14.2)].
 The Partners PrEP trial found similar fracture rates between treatment and placebo groups (0.8% and 0.6%, respectively).
-No BMD evaluations were conducted during this trial [See Clinical Studies (14.3)].
+No BMD evaluations were performed during this trial [see Clinical Studies (14.3)].
 
 ## 6.3 Postmarketing Experience
 

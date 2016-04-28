@@ -1,10 +1,10 @@
 # 12 CLINICAL PHARMACOLOGY
 
-For additional information on Mechanism of Action, Antiviral Activity, Resistance and Cross Resistance, please consult the EMTRIVA and VIREAD prescribing information.
+For additional information on Mechanism of Action, Antiviral Activity, Resistance and Cross Resistance, consult the EMTRIVA and VIREAD prescribing information.
 
 ## 12.1 Mechanism of Action
 
-TRUVADA is a fixed-dose combination of antiviral drugs emtricitabine and tenofovir disoproxil fumarate [See Microbiology (12.4)].
+TRUVADA is a fixed-dose combination of antiviral drugs emtricitabine and tenofovir disoproxil fumarate [see Microbiology (12.4)].
 
 ## 12.3 Pharmacokinetics
 
@@ -70,14 +70,14 @@ Pharmacokinetics of emtricitabine and tenofovir have not been fully evaluated in
 
 Patients with Impaired Renal Function
 
-The pharmacokinetics of emtricitabine and tenofovir are altered in subjects with renal impairment [See Warnings and Precautions (5.3)].
+The pharmacokinetics of emtricitabine and tenofovir are altered in subjects with renal impairment [see Warnings and Precautions (5.3)].
 In adult subjects with creatinine clearance below 50 mL/min, Cmax, and AUC0–∞ of emtricitabine and tenofovir were increased.
 It is recommended that the dosing interval for TRUVADA be modified in HIV-infected adult patients with estimated creatinine clearance 30–49 mL/min.
 No data are available to make dose recommendations in pediatric patients with renal impairment.
-TRUVADA should not be used in patients with estimated creatinine clearance below 30 mL/min and in patients with end-stage renal disease requiring dialysis [See Dosage and Administration (2.4)].
+TRUVADA should not be used in patients with estimated creatinine clearance below 30 mL/min and in patients with end-stage renal disease requiring dialysis [see Dosage and Administration (2.4)].
 
 TRUVADA for a PrEP indication should not be used in HIV-1 uninfected individuals with estimated creatinine clearance below 60 mL/min.
-If a decrease in estimated creatinine clearance is observed in uninfected individuals while using TRUVADA for PrEP, evaluate potential causes and re-assess potential risks and benefits of continued use [See Dosage and Administration (2.4)].
+If a decrease in estimated creatinine clearance is observed in uninfected individuals while using TRUVADA for PrEP, evaluate potential causes and re-assess potential risks and benefits of continued use [see Dosage and Administration (2.4)].
 
 Patients with Hepatic Impairment
 

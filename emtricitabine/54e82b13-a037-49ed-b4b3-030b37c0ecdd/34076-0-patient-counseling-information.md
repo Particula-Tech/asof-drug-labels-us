@@ -14,19 +14,19 @@ Advise patients and uninfected individuals that:
 - Patients and uninfected individuals should remain under the care of a physician when using TRUVADA.
 - It is important to take TRUVADA on a regular dosing schedule to avoid missing doses.
 - Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported.
-  Treatment with TRUVADA should be suspended in patients or uninfected individuals who develop clinical symptoms suggestive of lactic acidosis or pronounced hepatotoxicity (including nausea, vomiting, unusual or unexpected stomach discomfort, and weakness) [See Warnings and Precautions (5.1)].
+  Treatment with TRUVADA should be suspended in patients or uninfected individuals who develop clinical symptoms suggestive of lactic acidosis or pronounced hepatotoxicity (including nausea, vomiting, unusual or unexpected stomach discomfort, and weakness) [see Warnings and Precautions (5.1)].
 - Severe acute exacerbations of hepatitis B have been reported in patients who are coinfected with hepatitis B virus (HBV) and HIV-1 and have discontinued TRUVADA.
   Before initiating TRUVADA, test all patients and uninfected individuals for HBV.
-  All patients who are infected with HBV need close medical follow-up for several months after stopping TRUVADA to monitor for exacerbations of hepatitis [See Warnings and Precautions (5.2)].
+  All patients who are infected with HBV need close medical follow-up for several months after stopping TRUVADA to monitor for exacerbations of hepatitis [see Warnings and Precautions (5.2)].
 - Renal impairment, including cases of acute renal failure and Fanconi syndrome, has been reported in association with the use of VIREAD.
-  TRUVADA should be avoided with concurrent or recent use of a nephrotoxic agent (e.g., high-dose or multiple NSAIDs) [See Warnings and Precautions (5.3)].
+  TRUVADA should be avoided with concurrent or recent use of a nephrotoxic agent (e.g., high-dose or multiple NSAIDs) [see Warnings and Precautions (5.3)].
   Dosing interval of TRUVADA may need adjustment in HIV-1 infected patients with renal impairment.
   TRUVADA for a PrEP indication should not be used in HIV-1 uninfected individuals if estimated creatinine clearance is less than 60 mL/min.
-  If a decrease in estimated creatinine clearance is observed in uninfected individuals while using TRUVADA for PrEP, evaluate potential causes and re-assess potential risks and benefits of continued use [See Dosage and Administration (2.4)].
-- Do not administer TRUVADA with ATRIPLA, COMPLERA, EMTRIVA, GENVOYA, ODEFSEY, STRIBILD, or VIREAD; or with drugs containing lamivudine, including Combivir (lamivudine/zidovudine), Dutrebis (lamivudine/raltegravir), Epivir or Epivir-HBV (lamivudine), Epzicom (abacavir sulfate/lamivudine), Triumeq (abacavir sulfate/dolutegravir/lamivudine), or Trizivir (abacavir sulfate/lamivudine/zidovudine) [See Warnings and Precautions (5.4)].
-- Do not administer TRUVADA with HEPSERA [See Warnings and Precautions (5.4)].
+  If a decrease in estimated creatinine clearance is observed in uninfected individuals while using TRUVADA for PrEP, evaluate potential causes and re-assess potential risks and benefits of continued use [see Dosage and Administration (2.4)].
+- Do not administer TRUVADA with ATRIPLA, COMPLERA, EMTRIVA, GENVOYA, ODEFSEY, STRIBILD, or VIREAD; or with drugs containing lamivudine, including Combivir (lamivudine/zidovudine), Dutrebis (lamivudine/raltegravir), Epivir or Epivir-HBV (lamivudine), Epzicom (abacavir sulfate/lamivudine), Triumeq (abacavir sulfate/dolutegravir/lamivudine), or Trizivir (abacavir sulfate/lamivudine/zidovudine) [see Warnings and Precautions (5.4)].
+- Do not administer TRUVADA with HEPSERA [see Warnings and Precautions (5.4)].
 - Decreases in bone mineral density have been observed with the use of VIREAD or TRUVADA.
-  Consider bone monitoring in patients and uninfected individuals who have a history of pathologic bone fracture or at risk for osteopenia [See Warnings and Precautions (5.5)].
+  Consider bone monitoring in patients and uninfected individuals who have a history of pathologic bone fracture or at risk for osteopenia [see Warnings and Precautions (5.5)].
 - Patients and uninfected individuals should avoid doing things that can spread HIV-1 or HBV infection:
   - Do not share needles or other injection equipment.
   - Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
@@ -53,13 +53,12 @@ When TRUVADA is used to reduce the risk of acquiring HIV-1, advise uninfected in
 - Using condoms consistently and correctly to lower the chance of sexual contact with any body fluids such as semen, vaginal secretions, or blood.
 - Knowing their HIV status and the status of their partner(s).
 - Getting tested regularly (at least every 3 months) for HIV-1 and ask their partner(s) to get tested as well.
-- HIV-1 resistance substitutions may emerge in individuals with undetected HIV-1 infection who are taking TRUVADA, because TRUVADA alone does not constitute a complete regimen for HIV-1 treatment [See Warnings and Precautions (5.9)]
+- HIV-1 resistance substitutions may emerge in individuals with undetected HIV-1 infection who are taking TRUVADA, because TRUVADA alone does not constitute a complete regimen for HIV-1 treatment [see Warnings and Precautions (5.9)]
 - Reporting any symptoms of acute HIV-1 infection (flu-like symptoms) to their healthcare provider immediately.
 - Signs and symptoms of acute infection include: fever, headache, fatigue, arthralgia, vomiting, myalgia, diarrhea, pharyngitis, rash, night sweats, and adenopathy (cervical and inguinal).
 - Getting tested for other sexually transmitted infections such as syphilis and gonorrhea that may facilitate HIV-1 transmission.
 - Learning about sexual risk behavior and getting support to help reduce sexual risk behavior.
 - Taking TRUVADA on a regular dosing schedule and strictly adhere to the recommended dosing schedule to reduce the risk of acquiring HIV-1.
-  Uninfected individuals who miss doses are at greater risk of acquiring HIV-1 than those who do not miss doses.
-  [See Warnings and Precautions (5.9)].
+  Uninfected individuals who miss doses are at greater risk of acquiring HIV-1 than those who do not miss doses [see Warnings and Precautions (5.9)].
 - Women who are pregnant should learn about the risks and benefits of TRUVADA to reduce the risk of acquiring HIV-1 during their pregnancy.
 - Encourage use of the Agreement Form for Initiating TRUVADA for PrEP of Sexually Acquired HIV-1 Infection.

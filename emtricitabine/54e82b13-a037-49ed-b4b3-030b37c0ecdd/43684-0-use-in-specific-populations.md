@@ -17,7 +17,7 @@ If an uninfected individual becomes pregnant while taking TRUVADA for a PrEP ind
 
 Clinical Considerations
 
-As of July 2011, the APR has received prospective reports of 764 and 1219 exposures to emtricitabine- and tenofovir- containing regimens, respectively in the first trimester, 321 and 455 exposures, respectively, in second trimester, and 140 and 257 exposures, respectively, in the third trimester.
+As of July 2011, the APR has received prospective reports of 764 and 1,219 exposures to emtricitabine- and tenofovir-containing regimens, respectively in the first trimester, 321 and 455 exposures, respectively, in second trimester, and 140 and 257 exposures, respectively, in the third trimester.
 Birth defects occurred in 18 of 764 (2.4%) live births for emtricitabine-containing regimens and 27 of 1219 (2.2%) live births for tenofovir-containing regimens (first trimester exposure) and 10 of 461 (2.2%) live births for emtricitabine-containing regimens and 15 of 714 (2.1%) live births for tenofovir-containing regimens (second/third trimester exposure).
 Among pregnant women in the U.S. reference population, the background rate of birth defects is 2.7%.
 There was no association between emtricitabine or tenofovir and overall birth defects observed in the APR.
@@ -54,10 +54,10 @@ Tenofovir-associated risks, including the risk of viral resistance to tenofovir,
 
 No pediatric clinical trial was conducted to evaluate the safety and efficacy of TRUVADA.
 Data from previously conducted trials with the individual drug products, EMTRIVA and VIREAD, were relied upon to support dosing recommendations for TRUVADA.
-For additional information, please consult the prescribing information for EMTRIVA and VIREAD.
+For additional information, consult the prescribing information for EMTRIVA and VIREAD.
 
 TRUVADA should only be administered to HIV-1 infected pediatric patients with body weight greater than or equal to 17 kg and who are able to swallow a whole tablet.
-Because it is a fixed-dose combination tablet, TRUVADA cannot be adjusted for patients of lower weight [See Warnings and Precautions (5.5), Adverse Reactions (6.1) and Clinical Pharmacology (12.3)].
+Because it is a fixed-dose combination tablet, TRUVADA cannot be adjusted for patients of lower weight [see Warnings and Precautions (5.5), Adverse Reactions (6.1) and Clinical Pharmacology (12.3)].
 TRUVADA has not been evaluated for use in pediatric patients weighing less than 17 kg.
 
 ## 8.5 Geriatric Use
@@ -70,10 +70,9 @@ In general, dose selection for the elderly patients should be cautious, keeping 
 Treatment of HIV-1 Infection
 
 The dosing interval for TRUVADA should be modified in HIV-infected adult patients with estimated creatinine clearance of 30–49 mL/min.
-TRUVADA should not be used in patients with estimated creatinine clearance below 30 mL/min and in patients with end-stage renal disease requiring dialysis.
-[See Dosage and Administration (2.4)].
+TRUVADA should not be used in patients with estimated creatinine clearance below 30 mL/min and in patients with end-stage renal disease requiring dialysis [see Dosage and Administration (2.4)].
 
 Pre-exposure Prophylaxis
 
 TRUVADA for a PrEP indication should not be used in HIV-1 uninfected individuals with estimated creatinine clearance below 60 mL/min.
-If a decrease in estimated creatinine clearance is observed in uninfected individuals while using TRUVADA for PrEP, evaluate potential causes and re-assess potential risks and benefits of continued use [See Dosage and Administration (2.4)].
+If a decrease in estimated creatinine clearance is observed in uninfected individuals while using TRUVADA for PrEP, evaluate potential causes and re-assess potential risks and benefits of continued use [see Dosage and Administration (2.4)].

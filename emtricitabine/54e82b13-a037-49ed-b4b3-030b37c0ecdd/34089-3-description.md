@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
-TRUVADA tablets are fixed dose combination tablets containing emtricitabine and tenofovir disoproxil fumarate.
-EMTRIVA is the brand name for emtricitabine, a synthetic nucleoside analog of cytidine.
+TRUVADA tablets are fixed-dose combination tablets containing emtricitabine and tenofovir disoproxil fumarate.
+Emtricitabine is a synthetic nucleoside analog of cytidine.
 Tenofovir DF is converted in vivo to tenofovir, an acyclic nucleoside phosphonate (nucleotide) analog of adenosine 5′-monophosphate.
 Both emtricitabine and tenofovir exhibit inhibitory activity against HIV-1 reverse transcriptase.
 
@@ -23,7 +23,13 @@ Tenofovir disoproxil fumarate is a white to off-white crystalline powder with a 
 The partition coefficient (log p) for tenofovir disoproxil is 1.25 and the pKa is 3.75.
 All dosages are expressed in terms of tenofovir disoproxil fumarate except where otherwise noted.
 
-TRUVADA tablets are for oral administration.
-Each film-coated tablet contains 200 mg of emtricitabine and 300 mg of tenofovir disoproxil fumarate, (which is equivalent to 245 mg of tenofovir disoproxil), as active ingredients.
-The tablets also include the following inactive ingredients: croscarmellose sodium, lactose monohydrate, magnesium stearate, microcrystalline cellulose, and pregelatinized starch (gluten free).
-The tablets are coated with Opadry II Blue Y-30-10701, which contains FD&C Blue #2 aluminum lake, hydroxypropyl methylcellulose 2910, lactose monohydrate, titanium dioxide, and triacetin.
+TRUVADA tablets are for oral administration, and are available in the following strengths:
+
+- Film-coated tablet containing 200 mg of emtricitabine and 300 mg of tenofovir disoproxil fumarate (which is equivalent to 245 mg of tenofovir disoproxil) as active ingredients
+- Film-coated tablet containing 167 mg of emtricitabine and 250 mg of tenofovir disoproxil fumarate (which is equivalent to 204 mg of tenofovir disoproxil) as active ingredients
+- Film-coated tablet containing 133 mg of emtricitabine and 200 mg of tenofovir disoproxil fumarate (which is equivalent to 163 mg of tenofovir disoproxil) as active ingredients
+- Film-coated tablet containing 100 mg of emtricitabine and 150 mg of tenofovir disoproxil fumarate (which is equivalent to 123 mg of tenofovir disoproxil) as active ingredients
+
+All strength of TRUVADA tablets also include the following inactive ingredients: croscarmellose sodium, lactose monohydrate, magnesium stearate, microcrystalline cellulose, and pregelatinized starch (gluten free).
+The 200 mg/300 mg strength tablets are coated with Opadry II Blue Y-30-10701, which contains FD&C Blue #2 aluminum lake, hypromellose 2910, lactose monohydrate, titanium dioxide, and triacetin.
+The 167 mg/250 mg, 133 mg/200 mg, and 100 mg/150 mg strength tablets are coated with Opadry II Blue, which contains FD&C Blue #2 aluminum lake, hypromellose 2910, lactose monohydrate, titanium dioxide, and triacetin.
