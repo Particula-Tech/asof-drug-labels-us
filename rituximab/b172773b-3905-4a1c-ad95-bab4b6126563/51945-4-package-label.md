@@ -12,9 +12,9 @@ For Intravenous Use
 
 100 mg Rx only One 100 mg vial
 
-Jointly Marketed by: Biogen Idec Inc., and Genentech USA, Inc.
+Jointly Marketed by: Biogen Inc. and Genentech USA, Inc.
 
-10165657
+10174668
 
 # PRINCIPAL DISPLAY PANEL - 500 mg Vial Carton
 
@@ -30,6 +30,6 @@ Rituximab
 
 For Intravenous Use Rx only One 500 mg vial
 
-Jointly Marketed by: Biogen Idec Inc., and Genentech USA, Inc.
+Jointly Marketed by: Biogen Inc. and Genentech USA, Inc.
 
-10165658
+10174669
