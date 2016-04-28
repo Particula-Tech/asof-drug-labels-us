@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL – CYCLOSET Tablets, 0.8 mg, 200 Tablet Sample Bottle
+# PRINCIPAL DISPLAY PANEL - 0.8 mg Tablet Bottle Label
 
 NDC 68012-258-20
 

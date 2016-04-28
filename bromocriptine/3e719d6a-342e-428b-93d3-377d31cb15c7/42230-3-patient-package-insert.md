@@ -111,7 +111,7 @@ It may harm them.
 This leaflet summarizes the most important information about CYCLOSET.
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for additional information about CYCLOSET that is written for health professionals.
-For more information, go to www.CYCLOSET.com or call 1-877-757-0666.
+For more information, go to www.CYCLOSET.com or call 1-800-321-4576.
 
 What are the ingredients in CYCLOSET?
 
@@ -125,8 +125,8 @@ Manufactured for: VeroScience, LLC Tiverton, RI 02878
 
 Distributed by: Salix Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-For information for healthcare professionals, call 1-877-757-0666.
+For information for healthcare professionals, call 1-800-321-4576.
 
-Revised: 02/2016
+Revised: 04/2016
 
 CYCLOSET is a registered trademark of: VeroScience, LLC Tiverton, RI 02878
