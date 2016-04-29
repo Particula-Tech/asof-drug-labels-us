@@ -19,7 +19,7 @@ Rare cases have also been reported in association with the use of injectable dih
 
 Administration of Migranal® (dihydroergotamine mesylate, USP) Nasal Spray, should not exceed the dosing guidelines and should not be used for chronic daily administration (see DOSAGE AND ADMINISTRATION).
 
-## Risk of Myocardial Ischemia and/or Infarction and Other Adverse Cardiac Events
+## Risk of Myocardial Ischemia and/or Infarction and Other Adverse Cardiac Events:
 
 Migranal® (dihydroergotamine mesylate, USP) Nasal Spray should not be used by patients with documented ischemic or vasospastic coronary artery disease.
 (See CONTRAINDICATIONS) It is strongly recommended that Migranal® (dihydroergotamine mesylate, USP) Nasal Spray not be given to patients in whom unrecognized coronary artery disease (CAD) is predicted by the presence of risk factors (e.g., hypertension, hypercholesterolemia, smoker, obesity, diabetes, strong family history of CAD, females who are surgically or physiologically postmenopausal, or males who are over 40 years of age) unless a cardiovascular evaluation provides satisfactory clinical evidence that the patient is reasonably free of coronary artery and ischemic myocardial disease or other significant underlying cardiovascular disease.
@@ -87,7 +87,7 @@ Migranal® (dihydroergotamine mesylate, USP) Nasal Spray may cause coronary arte
 Similarly, patients who experience other symptoms or signs suggestive of decreased arterial flow, such as ischemic bowel syndrome or Raynaud's syndrome following the use of any 5-HT agonist are candidates for further evaluation.
 (See WARNINGS).
 
-### Fibrotic Complications
+### Fibrotic Complications:
 
 see WARNINGS: Fibrotic Complications
 

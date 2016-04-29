@@ -50,7 +50,7 @@ For patients with migraine-associated nausea, photophobia, and phonophobia at ba
 
 Patients were not allowed to use additional treatments for eight hours prior to study medication dosing and during the four hour observation period following study treatment.
 Following the 4 hour observation period, patients were allowed to use additional treatments.
-For all studies, the estimated probability of patients using additional treatments for their migraines over the 24 hours following the single 2 mg dose of study treatment is summarized in Figure 3 below.
+For all studies, the estimated probability of patients using additionaul treatments for their migraines over the 24 hours following the single 2 mg dose of study treatment is summarized in Figure 3 below.
 
 * Kaplan-Meier plot based on data obtained from all studies with patients not using additional treatments censored to 24 hours.
 All patients received a single treatment of study medication for their migraine attack.
