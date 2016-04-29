@@ -21,10 +21,10 @@ Risk Differences in the Number of Suicidality Cases by Age Group in the Pooled P
 
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1,000 Subjects Treated |
 | --- | --- |
-| Increases Compared With Placebo |  |
+| Increases Compared with Placebo |  |
 | <18 | 14 additional cases |
 | 18-24 | 5 additional cases |
-| Decreases Compared With Placebo |  |
+| Decreases Compared with Placebo |  |
 | 25-64 | 1 fewer case |
 | ≥65 | 6 fewer cases |
 
@@ -70,7 +70,9 @@ WELLBUTRIN SR is contraindicated in patients with a seizure disorder, current or
 The following conditions can also increase the risk of seizure: severe head injury; arteriovenous malformation; CNS tumor or CNS infection; severe stroke; concomitant use of other medications that lower the seizure threshold (e.g., other bupropion products, antipsychotics, tricyclic antidepressants, theophylline, and systemic corticosteroids); metabolic disorders (e.g., hypoglycemia, hyponatremia, severe hepatic impairment, and hypoxia); use of illicit drugs (e.g., cocaine); or abuse or misuse of prescription drugs such as CNS stimulants.
 Additional predisposing conditions include diabetes mellitus treated with oral hypoglycemic drugs or insulin; use of anorectic drugs; and excessive use of alcohol, benzodiazepines, sedative/hypnotics, or opiates.
 
-Incidence of Seizure with Bupropion Use: When WELLBUTRIN SR is dosed up to 300 mg per day, the incidence of seizure is approximately 0.1% (1/1,000) and increases to approximately 0.4% (4/1,000) at the maximum recommended dose of 400 mg per day.
+Incidence of Seizure with Bupropion Use
+
+When WELLBUTRIN SR is dosed up to 300 mg per day, the incidence of seizure is approximately 0.1% (1/1,000) and increases to approximately 0.4% (4/1,000) at the maximum recommended dose of 400 mg per day.
 
 The risk of seizure can be reduced if the dose of WELLBUTRIN SR does not exceed 400 mg per day, given as 200 mg twice daily, and the titration rate is gradual.
 
