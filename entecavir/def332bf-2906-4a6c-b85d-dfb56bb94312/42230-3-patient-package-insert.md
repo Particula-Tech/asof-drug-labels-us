@@ -139,4 +139,4 @@ For more information, call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
 What are the ingredients in Entecavir Tablets?
 Active ingredient: entecavir Inactive ingredients in entecavir tablets: crospovidone, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, and titanium dioxide.
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt)-509302 India Issued: April 2015
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt)-509302 India Revised: April 2016
