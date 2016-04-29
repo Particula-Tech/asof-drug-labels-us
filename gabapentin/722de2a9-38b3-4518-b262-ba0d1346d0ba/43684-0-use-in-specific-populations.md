@@ -9,7 +9,7 @@ Gabapentin should be used during pregnancy only if the potentialbenefit justifie
 When pregnantmice received oral doses of gabapentin (500, 1000, or 3000 mg/kg/day) duringthe period of organogenesis, embryo-fetal toxicity (increased incidences ofskeletal variations) was observed at the two highest doses.
 The no-effect dosefor embryo-fetal developmental toxicity in mice was 500 mg/kg/day orapproximately ½ of the maximum recommended human dose (MRHD) of 3600 mg/kg on abody surface area (mg/m2) basis.
 
-pregnancy,adverse effect on offspring development (increased incidences of hydroureterand/or hydronephrosis) were observed at all doses.
+In studies in which rats received oral doses of gabapentin (500 to 2000 mg/Kg/day) during pregnancy,adverse effect on offspring development (increased incidences of hydroureterand/or hydronephrosis) were observed at all doses.
 The lowest effect dose fordevelopmental toxicity in rats is approximately equal to the MRHD on a mg/m2basis.
 
 When pregnantrabbits were treated with gabapentin during the period of organogenesis, anincrease in embryo-fetal mortality was observed at all doses tested (60, 300,or 1500 mg/kg).

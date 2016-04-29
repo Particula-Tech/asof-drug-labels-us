@@ -32,7 +32,7 @@ Gabapentin elimination rate constant, plasma clearance, and renal clearance are 
 In elderly patients, and in patients with impaired renal function, gabapentin plasma clearance is reduced.
 Gabapentin can be removed from plasma by hemodialysis.
 
-Special Populations
+Specific Populations
 
 Age
 

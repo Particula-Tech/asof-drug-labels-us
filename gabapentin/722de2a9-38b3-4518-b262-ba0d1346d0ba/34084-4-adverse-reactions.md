@@ -30,9 +30,9 @@ The adverse reactions that most frequently led to withdrawal in gabapentin-treat
 Table 3 lists adverse reactions that occurred in at least 1% of gabapentin-treated patients with postherpetic neuralgia participating in placebo-controlled trials and that were numerically more frequent in the gabapentin group than in the placebo group.
 
 TABLE 3.
-Adverse Reactions in Placebo-Controlled Trials in Postherpetic Neuralgia
+Adverse Reactions in Pooled Placebo-Controlled Trials in Postherpetic Neuralgia
 
-| Body System/ Adverse Reaction | Gabapentin N=336% | Placebo N=227% |
+|  | Gabapentin N=336% | Placebo N=227% |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Asthenia | 6 | 5 |
@@ -137,7 +137,7 @@ Table 5 lists adverse reactions that occurred in at least 2% of gabapentin-treat
 TABLE 5.
 Adverse Reactions in a Placebo-Controlled Add-On Trial in Pediatric Epilepsy Patients Age 3 to 12 Years
 
-| Body System/ Adverse Reaction | Gabapentina N=543 % | Placeboa N=378 % |
+|  | Gabapentina N=119 % | Placeboa N=128 % |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Viral Infection | 11 | 3 |
@@ -165,11 +165,11 @@ Other reactions in more than 2% of pediatric patients 3 to 12 years of age but e
 The following adverse reactions have been identified during postmarketing use of gabapentin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Hepatobiliary disorders: jaundice Investigations: blood glucose fluctuation, elevated creatine kinase, elevated liver function tests Metabolism and nutrition disorders: hyponatremia
+Hepatobiliary disorders: jaundice Investigations: elevated creatine kinase, elevated liver function tests Metabolism and nutrition disorders: hyponatremia
 
-Musculoskeletal and connective tissue disorders: rhabdomyolysis
+Musculoskeletal and connective tissue disorder: rhabdomyolysis
 
-Nervous system disorders: movement disorder Reproductive system and breast disorders: breast enlargement, changes in libido, ejaculation disorders and anorganmia
+Nervous system disorders: movement disorder Reproductive system and breast disorders: breast enlargement, changes in libido, ejaculation disorders and anorgasmia
 
 Skin and subcutaneous tissue disorders: angioedema [see Warnings and Precautions (5.2)], erythema multiforme, Stevens-Johnson syndrome.
 

@@ -36,7 +36,7 @@ In these trials somnolence, ataxia and fatigue were common adverse reactions lea
 During the controlled trials in patients with post-herpetic neuralgia, somnolence and dizziness were reported at a greater rate compared to placebo in patients receiving gabapentin, in dosages up to 3600 mg per day: i.e., 21% in gabapentin-treated patients versus 5% in placebo-treated patients for somnolence and 28% in gabapentin-treated patients versus 8% in placebo-treated patients for dizziness.
 Dizziness and somnolence were among the most common adverse reactions leading to discontinuation of gabapentin.
 
-Patients should be carefully observed for signs of central nervous system (CNS) depression, such as somnolence and sedation, when NEURONTIN is used with other drugs with sedative properties because of potential synergy.
+Patients should be carefully observed for signs of central nervous system (CNS) depression, such as somnolence and sedation, when gabapentin is used with other drugs with sedative properties because of potential synergy.
 In addition, patients who require concomitant treatment with morphine may experience increases in gabapentin concentrations and may require dose adjustment [see Drug Interactions (7.2)].
 
 ## 5.5 Withdrawal Precipitated Seizure, Status Epilepticus
@@ -89,7 +89,7 @@ Gabapentin usein pediatric patients with epilepsy 3-12 years of age is associate
 The mostsignificant of these can be classified into the following categories: 1)emotional lability (primarily behavioral problems), 2) hostility, includingaggressive behaviors, 3) thought disorder, including concentration problems andchange in school performance, and 4) hyperkinesia (primarily restlessness andhyperactivity).
 Among the gabapentin-treated patients, most of the reactionswere mild to moderate in intensity.
 
-In controlled clinical epilepsy trials in pediatric patients 3 to 12years of age, the incidence of these adverse reactions was: emotional lability6% (gabapentin-treated patients) vs. 1.3% (placebotreated patients); hostility5.2% vs. 1.3%; hyperkinesia 4.7% vs. 2.9%; and thought disorder 1.7% vs. 0%.One of these reactions, a report of hostility, was considered serious.Discontinuation of gabapentin treatment occurred in 1.3% of patients reportingemotional lability and hyperkinesia and 0.9% of gabapentin-treated patientsreporting hostility and thought disorder.
+In controlled clinical epilepsy trials in pediatric patients 3 to 12years of age, the incidence of these adverse reactions was: emotional lability6% (gabapentin-treated patients) vs. 1.3% (placebo-treated patients); hostility5.2% vs. 1.3%; hyperkinesia 4.7% vs. 2.9%; and thought disorder 1.7% vs. 0%.One of these reactions, a report of hostility, was considered serious.Discontinuation of gabapentin treatment occurred in 1.3% of patients reportingemotional lability and hyperkinesia and 0.9% of gabapentin-treated patientsreporting hostility and thought disorder.
 One placebo-treated patient (0.4%)withdrew due to emotional lability.
 
 ## 5.8 Tumorigenic Potential

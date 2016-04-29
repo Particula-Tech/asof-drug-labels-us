@@ -66,7 +66,7 @@ If you have suicidal thoughts or actions, your healthcare provider may check for
 Changes in behavior and thinking -Using gabapentin in children 3 to 12 years of age can cause emotional changes, aggressive behavior, problems with concentration, restlessness, changes in school performance, and hyperactivity.
 
 3.
-NEURONTIN may cause a serious or life-threatening allergic reactions that may affect your skin or other parts of your body such as your liver or blood cells.
+Gabapentin may cause a serious or life-threatening allergic reactions that may affect your skin or other parts of your body such as your liver or blood cells.
 This may cause you to be hospitalized or to stop gabapentin.
 You may or may not have a rash with an allergic reaction caused by gabapentin.
 Call a healthcare provider right away if you have any of the following symptoms:
@@ -75,7 +75,7 @@ Call a healthcare provider right away if you have any of the following symptoms:
 
 · hives
 
-· difficulty breadthing
+· difficulty breathing
 
 · fever
 
@@ -132,7 +132,7 @@ You can enroll in this registry by calling 1-888-233-2334.
 Gabapentin can pass into breast milk.
 You and your healthcare provider should decide how you will feed your baby while you take gabapentin.
 
-Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplemenpts.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
 Taking gabapentin with certain other medicines can cause side effects or affect how well they work.
 Do not start or stop other medicines without talking to your healthcare provider.
