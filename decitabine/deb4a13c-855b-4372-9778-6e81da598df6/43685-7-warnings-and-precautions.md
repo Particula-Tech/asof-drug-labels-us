@@ -15,8 +15,7 @@ Based on its mechanism of action, DACOGEN is expected to result in adverse repro
 In preclinical studies in mice and rats, decitabine was teratogenic, fetotoxic, and embryotoxic.
 There are no adequate and well-controlled studies of DACOGEN in pregnant women.
 If this drug is used during pregnancy, or if a patient becomes pregnant while receiving this drug, the patient should be apprised of the potential hazard to the fetus.
-Women of childbearing potential should be advised to avoid becoming pregnant while taking DACOGEN.
-[see Use in Specific Populations (8.1)]
+Women of childbearing potential should be advised to avoid becoming pregnant while taking DACOGEN [see Use in Specific Populations (8.1)].
 
 ## 5.3 Use in Women of Childbearing Potential
 

@@ -47,11 +47,11 @@ Table 5 Response Criteria for Phase 3 MDS Trial*
 | Peripheral Blood | Same as for CR |  |  |  |  |
 | *Cheson BD, Bennett JM, et al. Report of an International Working Group to Standardize Response Criteria for MDS. Blood. 2000; 96:3671-3674. |  |  |  |  |  |
 
-The overall response rate (CR+PR) in the ITT population was 17% in DACOGEN -treated patients and 0% in the SC group (p<0.001).
-(SeeTable 6) The overall response rate was 21% (12/56) in DACOGEN -treated patients considered evaluable for response (i.e., those patients with pathologically confirmed MDS at baseline who received at least 2 cycles of treatment).
+The overall response rate (CR+PR) in the ITT population was 17% in DACOGEN-treated patients and 0% in the SC group (p<0.001).
+(SeeTable 6) The overall response rate was 21% (12/56) in DACOGEN-treated patients considered evaluable for response (i.e., those patients with pathologically confirmed MDS at baseline who received at least 2 cycles of treatment).
 The median duration of response (range) for patients who responded to DACOGEN was 288 days (116-388) and median time to response (range) was 93 days (55-272).
-All but one of the DACOGEN -treated patients who responded did so by the fourth cycle.
-Benefit was seen in an additional 13% of DACOGEN -treated patients who had hematologic improvement, defined as a response less than PR lasting at least 8 weeks, compared to 7% of SC patients.
+All but one of the DACOGEN-treated patients who responded did so by the fourth cycle.
+Benefit was seen in an additional 13% of DACOGEN-treated patients who had hematologic improvement, defined as a response less than PR lasting at least 8 weeks, compared to 7% of SC patients.
 DACOGEN treatment did not significantly delay the median time to AML or death versus supportive care.
 
 Table 6 Analysis of Response (ITT)
