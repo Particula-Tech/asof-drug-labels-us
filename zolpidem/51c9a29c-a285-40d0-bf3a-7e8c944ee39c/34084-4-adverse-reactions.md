@@ -41,7 +41,7 @@ These trials involved patients with chronic insomnia who were treated for 28 to 
 The table is limited to data from doses up to and including 10 mg, the highest dose recommended for use.
 The table includes only adverse events occurring at an incidence of at least 1% for zolpidem patients.
 
-table Incidence of Treatment-Emergent Adverse Experiences in Placebo-Controlled Clinical Trials Lasting up to 35 Nights (Percentage of patients reporting)
+Incidence of Treatment-Emergent Adverse Experiences in Placebo-Controlled Clinical Trials Lasting up to 35 Nights (Percentage of patients reporting)
 
 | Body System/ Adverse Event* | Zolpidem (≤10 mg) (N=152) | Placebo (N=161) |
 | --- | --- | --- |
