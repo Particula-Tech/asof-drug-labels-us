@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA206911"
+  ],
+  "inn": "bromfenac",
+  "labeler": "Sun Pharmaceutical Industries, Inc.",
+  "package_ndcs": [
+    "49708-754-41"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "bromfenac",
+      "name": "BromSite"
+    }
+  ],
+  "setid": "144a5072-341b-4591-8705-773b63044bcc",
+  "source": "dailymed"
+}
