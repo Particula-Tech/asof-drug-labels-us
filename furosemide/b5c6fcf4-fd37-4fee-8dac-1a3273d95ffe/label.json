@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA077293"
+  ],
+  "inn": "furosemide",
+  "labeler": "Leading Pharma, LLC",
+  "package_ndcs": [
+    "69315-116-01",
+    "69315-116-10",
+    "69315-117-01",
+    "69315-117-10",
+    "69315-118-01",
+    "69315-118-05"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "furosemide",
+      "name": "Furosemide"
+    }
+  ],
+  "setid": "b5c6fcf4-fd37-4fee-8dac-1a3273d95ffe",
+  "source": "dailymed"
+}

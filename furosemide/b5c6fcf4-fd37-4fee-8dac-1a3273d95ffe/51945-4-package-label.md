@@ -1,0 +1,73 @@
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
+LEADING PHARMA
+
+NDC 69315-116-01
+
+FUROSEMIDE Tablets, USP
+
+20 mg
+
+Rx only
+
+100 Tablets
+
+LEADING PHARMA
+
+NDC 69315-116-10
+
+FUROSEMIDE Tablets, USP
+
+20 mg
+
+Rx only
+
+1000 Tablets
+
+LEADING PHARMA
+
+NDC 69315-117-01
+
+FUROSEMIDE Tablets, USP
+
+40 mg
+
+Rx only
+
+100 Tablets
+
+LEADING PHARMA
+
+NDC 69315-117-10
+
+FUROSEMIDE Tablets, USP
+
+40 mg
+
+Rx only
+
+1000 Tablets
+
+LEADING PHARMA
+
+NDC 69315-118-01
+
+FUROSEMIDE Tablets, USP
+
+80 mg
+
+Rx only
+
+100 Tablets
+
+LEADING PHARMA
+
+NDC 69315-118-05
+
+FUROSEMIDE Tablets, USP
+
+80 mg
+
+Rx only
+
+500 Tablets
