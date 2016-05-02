@@ -4,6 +4,6 @@
 
 Dexmethylphenidate hydrochloride extended-release capsules, like other methylphenidate products, are classified as a Schedule II controlled substance by Federal regulation.
 
-## 9.2 Abuse
+## 9.2 Abuse, Dependence, Tolerance
 
-See thecomplete boxed warning for drug abuse and dependence information at the beginning of Full Prescribing Information.
+See the complete boxed warning for drug abuse and dependence information at the beginning of Full Prescribing Information.
