@@ -6,7 +6,7 @@ Overdoses of esmolol hydrochloride can cause cardiac and central nervous system 
 These effects may precipitate severe signs, symptoms, sequelae, and complications (for example, severe cardiac and respiratory failure, including shock and coma), and may be fatal.
 Continuous monitoring of the patient is required.
 
-- Cardiac effects include bradycardia, atrioventricular block (1st -, 2nd-, 3rd degree), junctional rhythms, intraventricular conduction delays, decreased cardiac contractility, hypotension, cardiac failure (including cardiogenic shock), cardiac arrest/asystole, and pulseless electrical activity.
+- Cardiac effects include bradycardia, atrioventricular block (1st -, 2nd -, 3rd degree), junctional rhythms, intraventricular conduction delays, decreased cardiac contractility, hypotension, cardiac failure (including cardiogenic shock), cardiac arrest/asystole, and pulseless electrical activity.
 - Central nervous system effects include respiratory depression, seizures, sleep and mood disturbances, fatigue, lethargy, and coma.
 - In addition, bronchospasm, mesenteric ischemia, peripheral cyanosis, hyperkalemia, and hypoglycemia (especially in children) may occur.
 
@@ -33,7 +33,7 @@ Bronchospasm
 
 Consider intravenous administration of a beta2 stimulating agent or a theophylline derivative.
 
-## 10.3 Dilutions Errors
+## 10.3 Dilution Errors
 
 Massive accidental overdoses of esmolol hydrochloride have resulted from dilution errors.
 Some of these overdoses have been fatal while others resulted in permanent disability.

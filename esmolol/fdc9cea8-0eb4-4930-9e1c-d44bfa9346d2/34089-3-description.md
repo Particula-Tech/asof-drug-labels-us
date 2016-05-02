@@ -13,7 +13,7 @@ Esmolol hydrochloride is:
 
 ## 11.1 Esmolol Hydrochloride Injection Dosage Forms
 
-Esmolol hydrochloride injection is a clear, colorless to light yellow, sterile, nonpyrogenic iso-osmotic solution of esmolol hydrochloride in sodium chloride.
+Esmolol hydrochloride injection is a clear, colorless to light yellow, sterile, nonpyrogenic solution of esmolol hydrochloride.
 The formulation is described in the table below:
 
 Table 4: Esmolol Hydrochloride Injection Formulation
@@ -21,7 +21,6 @@ Table 4: Esmolol Hydrochloride Injection Formulation
 |  | Esmolol Hydrochloride Injection |
 | --- | --- |
 | Esmolol Hydrochloride | 10 mg/mL |
-| Sodium Chloride, USP | 5.9 mg/mL |
 | Water for Injection, USP | Q.S. to volume of 10 mL |
 | Sodium Acetate Trihydrate, USP | 2.8 mg/mL |
 | Glacial Acetic Acid, USP | 0.546 mg/mL |
