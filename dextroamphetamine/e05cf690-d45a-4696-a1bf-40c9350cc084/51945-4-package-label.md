@@ -21,7 +21,7 @@ MallinckrodtTM
 
 L00D14
 
-Rev 11/2014
+Rev 02/2016
 
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 10 mg Bottle
 
@@ -46,4 +46,4 @@ MallinckrodtTM
 
 L00D17
 
-Rev 06/2015
+Rev 02/2016
