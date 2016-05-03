@@ -284,17 +284,17 @@ Inactive Ingredients: Each capsule contains the following inactive ingredients: 
 In addition, the 10 mg capsule contains black iron oxide and FD&C yellow no. 6.
 The 20 mg capsule contains black iron oxide, red iron oxide and yellow iron oxide.
 The 30 mg capsule contains red iron oxide and yellow iron oxide.
-The 40 mg capsule contains colloidal silicon dioxide, FD&C yellow no. 6 and sodium lauryl sulfate.
+The 40 mg capsule contains FD&C yellow no. 6.
 
-The edible imprinting ink contains: 10 mg strength, D&C red no. 7 calcium lake, ethylene glycol monoethyl ether, FD&C yellow no. 6 aluminum lake, shellac glaze and titanium dioxide; 20 mg strength, ammonium hydroxide, propylene glycol, shellac glaze, simethicone and titanium dioxide; the 30 mg strength, D&C yellow no. 10 aluminum lake, FD&C blue no.1 aluminum lake, FD&C blue no. 2 aluminum lake, FD&C red no. 40 aluminum lake, iron oxide black, propylene glycol, and shellac glaze; the 40 mg strength, ammonium hydroxide, FD&C blue no. 2 aluminum lake, iron oxide black, propylene glycol, and shellac glaze.
+The edible imprinting ink contains: 10 mg strength, D&C red no. 1 calcium lake, FD&C yellow no. 6 aluminum lake, propylene glycol, shellac glaze, and titanium dioxide; 20 mg strength, ammonium hydroxide, propylene glycol, shellac glaze, simethicone and titanium dioxide; 30 mg strength, D&C yellow no. 10 aluminum lake, FD&C blue no.1 aluminum lake, FD&C blue no. 2 aluminum lake, FD&C red no. 40 aluminum lake, iron oxide black, propylene glycol, and shellac glaze; 40 mg strength, ammonium hydroxide, iron oxide black, propylene glycol, and shellac glaze.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Dilantin is a registered trademark of Warner-Lambert Company LLC.
 
-TEVA PHARMACEUTICALS USA
+TEVA PHARMACEUTICALS USA, INC.
 
-Sellersville, PA 18960
+North Wales, PA 19454
 
 Rev.
-D 1/2015
+E 10/2015

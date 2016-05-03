@@ -162,11 +162,11 @@ Prescribers can only activate their registration by affirming that they meet req
 
 To prescribe isotretinoin, the prescriber must access the iPLEDGE system via the internet (www.ipledgeprogram.com) or telephone (1-866-495-0654) to:
 
-- 1.Register each patient in the iPLEDGE Program.
-- 2.Confirm monthly that each patient has received counseling and education.
-- 3.For females of reproductive potential:
-  1. ∘Enter patient’s two chosen forms of contraception each month.
-  2. ∘Enter monthly result from CLIA-certified laboratory conducted pregnancy test.
+1. 1.Register each patient in the iPLEDGE Program.
+2. 2.Confirm monthly that each patient has received counseling and education.
+3. 3.For females of reproductive potential:
+   1. ∘Enter patient’s two chosen forms of contraception each month.
+   2. ∘Enter monthly result from CLIA-certified laboratory conducted pregnancy test.
 
 Isotretinoin must only be prescribed to female patients who are known not to be pregnant as confirmed by a negative CLIA-certified laboratory conducted pregnancy test.
 
@@ -187,10 +187,10 @@ Meeting the requirements for a female of reproductive potential signifies that s
 
 If the patient has unprotected heterosexual intercourse at any time one month before, during, or one month after therapy, she must:
 
-- 1.Stop taking isotretinoin immediately, if on therapy
-- 2.Have a pregnancy test at least 19 days after the last act of unprotected heterosexual intercourse
-- 3.Start using two forms of effective contraception simultaneously again for one month before resuming isotretinoin therapy
-- 4.Have a second pregnancy test after using two forms of effective contraception for one month as described above depending on whether she has regular menses or not.
+1. 1.Stop taking isotretinoin immediately, if on therapy
+2. 2.Have a pregnancy test at least 19 days after the last act of unprotected heterosexual intercourse
+3. 3.Start using two forms of effective contraception simultaneously again for one month before resuming isotretinoin therapy
+4. 4.Have a second pregnancy test after using two forms of effective contraception for one month as described above depending on whether she has regular menses or not.
 
 Effective forms of contraception include both primary and secondary forms of contraception:
 
@@ -216,7 +216,7 @@ Other:
 Any birth control method can fail.
 There have been reports of pregnancy from female patients who have used oral contraceptives, as well as transdermal patch/injectable/implantable/vaginal ring hormonal birth control products; these pregnancies occurred while these patients were taking Claravis.
 These reports are more frequent for female patients who use only a single method of contraception.
-Therefore, it is critically important that female patients of childbearing potential use two effective forms of contraception simultaneously.
+Therefore, it is critically important that female patients of reproductive potential use two effective forms of contraception simultaneously.
 Patients must receive written warnings about the rates of possible contraception failure (included in patient education kits).
 
 Using two forms of contraception simultaneously substantially reduces the chances that a female will become pregnant over the risk of pregnancy with either form alone.
@@ -275,10 +275,10 @@ After registration, the Responsible Site Pharmacist can only activate the pharma
 
 To dispense isotretinoin, the pharmacist must:
 
-- 1.be trained by the Responsible Site Pharmacist concerning the iPLEDGE Program requirements.
-- 2.obtain authorization from the iPLEDGE Program via the internet (www.ipledgeprogram.com) or telephone (1-866-495-0654) for every isotretinoin prescription.
-  Authorization signifies that the patient has met all program requirements and is qualified to receive isotretinoin.
-- 3.write the Risk Management Authorization (RMA) number on the prescription.
+1. 1.be trained by the Responsible Site Pharmacist concerning the iPLEDGE Program requirements.
+2. 2.obtain authorization from the iPLEDGE Program via the internet (www.ipledgeprogram.com) or telephone (1-866-495-0654) for every isotretinoin prescription.
+   Authorization signifies that the patient has met all program requirements and is qualified to receive isotretinoin.
+3. 3.write the Risk Management Authorization (RMA) number on the prescription.
 
 Claravis must only be dispensed:
 
@@ -298,17 +298,17 @@ Patients must fill isotretinoin prescriptions only at US licensed pharmacies.
 A description of the iPLEDGE Program educational materials available with iPLEDGE is provided below.
 The main goal of these educational materials is to explain the iPLEDGE Program requirements and to reinforce the educational messages.
 
-- 1.The Guide to Best Practices for the iPLEDGE Program includes: isotretinoin teratogenic potential, information on pregnancy testing, and the method to complete a qualified isotretinoin prescription.
-- 2.The iPLEDGE Program Prescriber Contraception Counseling Guide includes: specific information about effective contraception, the limitations of contraceptive methods, behaviors associated with an increased risk of contraceptive failure and pregnancy and the methods to evaluate pregnancy risk.
-- 3.The Pharmacist Guide for the iPLEDGE Program includes: isotretinoin teratogenic potential and the method to obtain authorization to dispense an isotretinoin prescription.
-- 4.The iPLEDGE Program is a systematic approach to comprehensive patient education about their responsibilities and includes education for contraception compliance and reinforcement of educational messages.
-  The iPLEDGE Program includes information on the risks and benefits of isotretinoin which is linked to the Medication Guide dispensed by pharmacists with each isotretinoin prescription.
-- 5.Females of non-reproductive potential and male patients, and females of reproductive potential are provided with separate booklets.
-  Each booklet contains information on isotretinoin therapy including precautions and warnings, a Patient Information/Informed Consent (for all patients) form, and a toll-free line which provides isotretinoin information in two languages.
-- 6.The booklet for females of non-reproductive potential and male patients, The iPLEDGE Program Guide to Isotretinoin for Male Patients and Female Patients Who Cannot Get Pregnant, also includes information about male reproduction and a warning not to share isotretinoin with others or to donate blood during isotretinoin therapy and for one month following discontinuation of isotretinoin.
-- 7.The booklet for females of reproductive potential, The iPLEDGE Program Guide to Isotretinoin for Female Patients Who Can Get Pregnant, includes a referral program that offers female patients free contraception counseling, reimbursed by the manufacturer, by a reproductive specialist; and a second Patient Information/Informed Consent About Birth Defects (for female patients who can get pregnant) form concerning birth defects.
-- 8.The booklet, The iPLEDGE Program Birth Control Workbook includes information on the types of contraceptive methods, the selection and use of appropriate, effective contraception, the rates of possible contraceptive failure and a toll-free contraception counseling line.
-- 9.In addition, there are patient educational materials with the following videos — “Be Prepared, Be Protected” and “Be Aware: The Risk of Pregnancy While on Isotretinoin” (see Information for Patients).
+1. 1.The Guide to Best Practices for the iPLEDGE Program includes: isotretinoin teratogenic potential, information on pregnancy testing, and the method to complete a qualified isotretinoin prescription.
+2. 2.The iPLEDGE Program Prescriber Contraception Counseling Guide includes: specific information about effective contraception, the limitations of contraceptive methods, behaviors associated with an increased risk of contraceptive failure and pregnancy and the methods to evaluate pregnancy risk.
+3. 3.The Pharmacist Guide for the iPLEDGE Program includes: isotretinoin teratogenic potential and the method to obtain authorization to dispense an isotretinoin prescription.
+4. 4.The iPLEDGE Program is a systematic approach to comprehensive patient education about their responsibilities and includes education for contraception compliance and reinforcement of educational messages.
+   The iPLEDGE Program includes information on the risks and benefits of isotretinoin which is linked to the Medication Guide dispensed by pharmacists with each isotretinoin prescription.
+5. 5.Females of non-reproductive potential and male patients, and females of reproductive potential are provided with separate booklets.
+   Each booklet contains information on isotretinoin therapy including precautions and warnings, a Patient Information/Informed Consent (for all patients) form, and a toll-free line which provides isotretinoin information in two languages.
+6. 6.The booklet for females of non-reproductive potential and male patients, The iPLEDGE Program Guide to Isotretinoin for Male Patients and Female Patients Who Cannot Get Pregnant, also includes information about male reproduction and a warning not to share isotretinoin with others or to donate blood during isotretinoin therapy and for one month following discontinuation of isotretinoin.
+7. 7.The booklet for females of reproductive potential, The iPLEDGE Program Guide to Isotretinoin for Female Patients Who Can Get Pregnant, includes a referral program that offers female patients free contraception counseling, reimbursed by the manufacturer, by a reproductive specialist; and a second Patient Information/Informed Consent About Birth Defects (for female patients who can get pregnant) form concerning birth defects.
+8. 8.The booklet, The iPLEDGE Program Birth Control Workbook includes information on the types of contraceptive methods, the selection and use of appropriate, effective contraception, the rates of possible contraceptive failure and a toll-free contraception counseling line.
+9. 9.In addition, there are patient educational materials with the following videos — “Be Prepared, Be Protected” and “Be Aware: The Risk of Pregnancy While on Isotretinoin” (see Information for Patients).
 
 ## General
 

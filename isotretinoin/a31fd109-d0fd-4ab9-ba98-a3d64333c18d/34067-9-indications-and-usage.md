@@ -2,7 +2,7 @@
 
 ## Severe Recalcitrant Nodular Acne
 
-Claravis (isotretinoin capsules, USP) is indicated for the treatment of severe recalcitrant nodular acne.
+Claravis (isotretinoin capsules USP) is indicated for the treatment of severe recalcitrant nodular acne.
 Nodules are inflammatory lesions with a diameter of 5 mm or greater.
 The nodules may become suppurative or hemorrhagic.
 “Severe,” by definition,2 means “many” as opposed to “few or several” nodules.

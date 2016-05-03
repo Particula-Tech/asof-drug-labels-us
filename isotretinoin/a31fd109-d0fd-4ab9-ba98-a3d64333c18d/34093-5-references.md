@@ -48,34 +48,34 @@ ______________________________________________________________________________
 
 (Patient’s Name)
 
-- 1.
-  I understand that there is a very high chance that my unborn baby could have severe birth defects if I am pregnant or become pregnant while taking isotretinoin.
-  This can happen with any amount and even if taken for short periods of time.
-  This is why I must not be pregnant while taking isotretinoin.
-  Initial: __________
-- 2.I understand that I must not get pregnant one month before, during the entire time of my treatment, and for one month after the end of my treatment with isotretinoin.
-  Initial: __________
-- 3.I understand that I must avoid sexual intercourse completely, or I must use two separate, effective forms of birth control (contraception) at the same time.
-  The only exceptions are if I have had surgery to remove the uterus (a hysterectomy) or both of my ovaries (bilateral oophorectomy), or my doctor has medically confirmed that I am postmenopausal.
-  Initial: __________
-- 4.I understand that hormonal birth control products are among the most effective forms of birth control.
-  Combination birth control pills and other hormonal products include skin patches, shots, under-the-skin implants, vaginal rings, and intrauterine devices (IUDs).
-  Any form of birth control can fail.
-  That is why I must use two different birth control methods at the same time, starting one month before, during, and for one month after stopping therapy every time I have sexual intercourse, even if one of the methods I choose is hormonal birth control.
-  Initial: __________
-- 5.I understand that the following are effective forms of birth control:
-- Primary forms
-  1. •tubal sterilization (tying my tubes)
-  2. •partner's vasectomy
-  3. •intrauterine device
-  4. •hormonal (combination birth control pills, skin patches, shots, under-the skin implants, or vaginal ring.
+1. 1.
+   I understand that there is a very high chance that my unborn baby could have severe birth defects if I am pregnant or become pregnant while taking isotretinoin.
+   This can happen with any amount and even if taken for short periods of time.
+   This is why I must not be pregnant while taking isotretinoin.
+   Initial: __________
+2. 2.I understand that I must not get pregnant one month before, during the entire time of my treatment, and for one month after the end of my treatment with isotretinoin.
+   Initial: __________
+3. 3.I understand that I must avoid sexual intercourse completely, or I must use two separate, effective forms of birth control (contraception) at the same time.
+   The only exceptions are if I have had surgery to remove the uterus (a hysterectomy) or both of my ovaries (bilateral oophorectomy), or my doctor has medically confirmed that I am postmenopausal.
+   Initial: __________
+4. 4.I understand that hormonal birth control products are among the most effective forms of birth control.
+   Combination birth control pills and other hormonal products include skin patches, shots, under-the-skin implants, vaginal rings, and intrauterine devices (IUDs).
+   Any form of birth control can fail.
+   That is why I must use two different birth control methods at the same time, starting one month before, during, and for one month after stopping therapy every time I have sexual intercourse, even if one of the methods I choose is hormonal birth control.
+   Initial: __________
+5. 5.I understand that the following are effective forms of birth control:
+6. Primary forms
+   1. •tubal sterilization (tying my tubes)
+   2. •partner's vasectomy
+   3. •intrauterine device
+   4. •hormonal (combination birth control pills, skin patches, shots, under-the skin implants, or vaginal ring.
 
 Secondary forms
 
-- Barrier forms:
-  1. •male latex condom with or without spermicide
-  2. •diaphragm with spermicide
-  3. •cervical cap with spermicide
+1. Barrier forms:
+   1. •male latex condom with or without spermicide
+   2. •diaphragm with spermicide
+   3. •cervical cap with spermicide
 
 Other:
 
@@ -157,62 +157,62 @@ A parent or guardian of a patient under age 18 must also read and understand eac
 
 Do not sign this agreement and do not take isotretinoin if there is anything that you do not understand about all the information you have received about using isotretinoin.
 
-- 1.I,__________________________________________________________________________ (Patient's Name) understand that isotretinoin is a medicine used to treat severe nodular acne that cannot be cleared up by any other acne treatments, including antibiotics.
-  In severe nodular acne, many red, swollen, tender lumps form in the skin.
-  If untreated, severe nodular acne can lead to permanent scars.
-  Initials: __________
-- 2.My doctor has told me about my choices for treating my acne.
-  Initials: __________
-- 3.I understand that there are serious side effects that may happen while I am taking isotretinoin.
-  These have been explained to me.
-  These side effects include serious birth defects in babies of pregnant patients.
-  [Note: There is a second Patient Information/Informed Consent About Birth Defects (for female patients who can get pregnant)].
-  Initials: __________
-- 4.I understand that some patients, while taking isotretinoin or soon after stopping isotretinoin, have become depressed or developed other serious mental problems.
-  Symptoms of depression include sad, “anxious” or empty mood, irritability, acting on dangerous impulses, anger, loss of pleasure or interest in social or sports activities, sleeping too much or too little, changes in weight or appetite, school or work performance going down, or trouble concentrating.
-  Some patients taking isotretinoin have had thoughts about hurting themselves or putting an end to their own lives (suicidal thoughts).
-  Some people tried to end their own lives.
-  And some people have ended their own lives.
-  There were reports that some of these people did not appear depressed.
-  There have been reports of patients on isotretinoin becoming aggressive or violent.
-  No one knows if isotretinoin caused these behaviors or if they would have happened even if the person did not take isotretinoin.
-  Some people have had other signs of depression while taking isotretinoin (see #7 below).
-  Initials: __________
-- 5.Before I start taking isotretinoin, I agree to tell my doctor if I have ever had symptoms of depression (see #7 below), been psychotic, attempted suicide, had any other mental problems, or take medicine for any of these problems.
-  Being psychotic means having a loss of contact with reality, such as hearing voices or seeing things that are not there.
-  Initials: __________
-- 6.Before I start taking isotretinoin, I agree to tell my doctor if, to the best of my knowledge, anyone in my family has ever had symptoms of depression, been psychotic, attempted suicide, or had any other serious mental problems.
-  Initials: __________
-- 7.Once I start taking isotretinoin, I agree to stop using isotretinoin and tell my doctor right away if any of the following signs and symptoms of depression or psychosis happen.
-  I:
-  1. •Start to feel sad or have crying spells
-  2. •Lose interest in activities I once enjoyed
-  3. •Sleep too much or have trouble sleeping
-  4. •Become more irritable, angry, or aggressive than usual (for example, temper outbursts, thoughts of violence)
-  5. •Have a change in my appetite or body weight
-  6. •Have trouble concentrating
-  7. •Withdraw from my friends or family
-  8. •Feel like I have no energy
-  9. •Have feelings of worthlessness or guilt
-  10. •Start having thoughts about hurting myself or taking my own life (suicidal thoughts)
-  11. •Start acting on dangerous impulses
-  12. •Start seeing or hearing things that are not real
-- Initials: __________
-- 8.I agree to return to see my doctor every month I take isotretinoin to get a new prescription for isotretinoin, to check my progress, and to check for signs of side effects.
-  Initials: __________
-- 9.Isotretinoin will be prescribed just for me – I will not share isotretinoin with other people because it may cause serious side effects, including birth defects.
-  Initials: __________
-- 10.I will not give blood while taking isotretinoin or for one month after I stop taking isotretinoin.
-  I understand that if someone who is pregnant gets my donated blood, her baby may be exposed to isotretinoin and may be born with serious birth defects.
-  Initials: __________
-- 11.I have read the The iPLEDGE Program Patient Introductory Brochure, and other materials my provider provided me containing important safety information about isotretinoin.
-  I understand all the information I received.
-  Initials: __________
-- 12.My doctor and I have decided I should take isotretinoin.
-  I understand that I must be qualified in the iPLEDGE Program to have my prescription filled each month.
-  I understand that I can stop taking isotretinoin at any time.
-  I agree to tell my doctor if I stop taking isotretinoin.
-  Initials: __________
+1. 1.I,__________________________________________________________________________ (Patient's Name) understand that isotretinoin is a medicine used to treat severe nodular acne that cannot be cleared up by any other acne treatments, including antibiotics.
+   In severe nodular acne, many red, swollen, tender lumps form in the skin.
+   If untreated, severe nodular acne can lead to permanent scars.
+   Initials: __________
+2. 2.My doctor has told me about my choices for treating my acne.
+   Initials: __________
+3. 3.I understand that there are serious side effects that may happen while I am taking isotretinoin.
+   These have been explained to me.
+   These side effects include serious birth defects in babies of pregnant patients.
+   [Note: There is a second Patient Information/Informed Consent About Birth Defects (for female patients who can get pregnant)].
+   Initials: __________
+4. 4.I understand that some patients, while taking isotretinoin or soon after stopping isotretinoin, have become depressed or developed other serious mental problems.
+   Symptoms of depression include sad, “anxious” or empty mood, irritability, acting on dangerous impulses, anger, loss of pleasure or interest in social or sports activities, sleeping too much or too little, changes in weight or appetite, school or work performance going down, or trouble concentrating.
+   Some patients taking isotretinoin have had thoughts about hurting themselves or putting an end to their own lives (suicidal thoughts).
+   Some people tried to end their own lives.
+   And some people have ended their own lives.
+   There were reports that some of these people did not appear depressed.
+   There have been reports of patients on isotretinoin becoming aggressive or violent.
+   No one knows if isotretinoin caused these behaviors or if they would have happened even if the person did not take isotretinoin.
+   Some people have had other signs of depression while taking isotretinoin (see #7 below).
+   Initials: __________
+5. 5.Before I start taking isotretinoin, I agree to tell my doctor if I have ever had symptoms of depression (see #7 below), been psychotic, attempted suicide, had any other mental problems, or take medicine for any of these problems.
+   Being psychotic means having a loss of contact with reality, such as hearing voices or seeing things that are not there.
+   Initials: __________
+6. 6.Before I start taking isotretinoin, I agree to tell my doctor if, to the best of my knowledge, anyone in my family has ever had symptoms of depression, been psychotic, attempted suicide, or had any other serious mental problems.
+   Initials: __________
+7. 7.Once I start taking isotretinoin, I agree to stop using isotretinoin and tell my doctor right away if any of the following signs and symptoms of depression or psychosis happen.
+   I:
+   1. •Start to feel sad or have crying spells
+   2. •Lose interest in activities I once enjoyed
+   3. •Sleep too much or have trouble sleeping
+   4. •Become more irritable, angry, or aggressive than usual (for example, temper outbursts, thoughts of violence)
+   5. •Have a change in my appetite or body weight
+   6. •Have trouble concentrating
+   7. •Withdraw from my friends or family
+   8. •Feel like I have no energy
+   9. •Have feelings of worthlessness or guilt
+   10. •Start having thoughts about hurting myself or taking my own life (suicidal thoughts)
+   11. •Start acting on dangerous impulses
+   12. •Start seeing or hearing things that are not real
+8. Initials: __________
+9. 8.I agree to return to see my doctor every month I take isotretinoin to get a new prescription for isotretinoin, to check my progress, and to check for signs of side effects.
+   Initials: __________
+10. 9.Isotretinoin will be prescribed just for me – I will not share isotretinoin with other people because it may cause serious side effects, including birth defects.
+    Initials: __________
+11. 10.I will not give blood while taking isotretinoin or for one month after I stop taking isotretinoin.
+    I understand that if someone who is pregnant gets my donated blood, her baby may be exposed to isotretinoin and may be born with serious birth defects.
+    Initials: __________
+12. 11.I have read the The iPLEDGE Program Patient Introductory Brochure, and other materials my provider provided me containing important safety information about isotretinoin.
+    I understand all the information I received.
+    Initials: __________
+13. 12.My doctor and I have decided I should take isotretinoin.
+    I understand that I must be qualified in the iPLEDGE Program to have my prescription filled each month.
+    I understand that I can stop taking isotretinoin at any time.
+    I agree to tell my doctor if I stop taking isotretinoin.
+    Initials: __________
 
 I now allow my doctor _______________________ to begin my treatment with isotretinoin.
 

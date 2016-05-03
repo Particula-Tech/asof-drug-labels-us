@@ -4,7 +4,7 @@
     "ANDA076356"
   ],
   "inn": "isotretinoin",
-  "labeler": "Barr Laboratories, Inc.",
+  "labeler": "Teva Pharmaceuticals USA, Inc.",
   "package_ndcs": [
     "0555-1054-56",
     "0555-1054-86",
@@ -16,7 +16,7 @@
   ],
   "products": [
     {
-      "form": "CAPSULE",
+      "form": "CAPSULE, LIQUID FILLED",
       "generic": "isotretinoin",
       "name": "Claravis"
     }
