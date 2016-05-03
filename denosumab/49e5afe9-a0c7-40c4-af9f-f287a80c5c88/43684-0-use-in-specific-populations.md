@@ -4,7 +4,9 @@
 
 Pregnancy Category X
 
-Risk Summary Prolia may cause fetal harm when administered to a pregnant woman based on findings in animals.
+Risk Summary
+
+Prolia may cause fetal harm when administered to a pregnant woman based on findings in animals.
 In utero denosumab exposure in cynomolgus monkeys resulted in increased fetal loss, stillbirths, and postnatal mortality, along with evidence of absent lymph nodes, abnormal bone growth and decreased neonatal growth.
 Prolia is contraindicated in women who are pregnant.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus.
@@ -12,7 +14,9 @@ If this drug is used during pregnancy, or if the patient becomes pregnant while 
 Women who become pregnant during Prolia treatment are encouraged to enroll in Amgen’s Pregnancy Surveillance Program.
 Patients or their physicians should call 1-800-77-AMGEN (1-800-772-6436) to enroll.
 
-Clinical Considerations The effects of Prolia on the fetus are likely to be greater during the second and third trimesters of pregnancy.
+Clinical Considerations
+
+The effects of Prolia on the fetus are likely to be greater during the second and third trimesters of pregnancy.
 Monoclonal antibodies, such as denosumab, are transported across the placenta in a linear fashion as pregnancy progresses, with the largest amount transferred during the third trimester.
 If the patient becomes pregnant during Prolia therapy, treatment should be discontinued and the patient should consult their physician.
 
@@ -25,7 +29,9 @@ Using the highest seminal fluid concentration measured in men, and assuming 100%
 Thus, the potential amount of fetal exposure when a man treated with Prolia has unprotected sexual intercourse with a pregnant partner is at least 38-times lower than the NOEL in monkeys.
 Therefore, it is unlikely that a female partner or fetus would be exposed to pharmacologically relevant concentrations of denosumab via seminal fluid [see Clinical Pharmacology (12.3)].
 
-Animal Data The effects of denosumab on prenatal development have been studied in both cynomolgus monkeys and genetically engineered mice in which RANK ligand (RANKL) expression was turned off by gene removal (a “knockout mouse”).
+Animal Data
+
+The effects of denosumab on prenatal development have been studied in both cynomolgus monkeys and genetically engineered mice in which RANK ligand (RANKL) expression was turned off by gene removal (a “knockout mouse”).
 In cynomolgus monkeys dosed subcutaneously with denosumab throughout pregnancy at a pharmacologically active dose, there was increased fetal loss during gestation, stillbirths, and postnatal mortality.
 Other findings in offspring included absence of axillary, inguinal, mandibular, and mesenteric lymph nodes; abnormal bone growth, reduced bone strength, reduced hematopoiesis, dental dysplasia and tooth malalignment; and decreased neonatal growth.
 At birth out to 1 month of age, infants had measurable blood levels of denosumab (22-621% of maternal levels).

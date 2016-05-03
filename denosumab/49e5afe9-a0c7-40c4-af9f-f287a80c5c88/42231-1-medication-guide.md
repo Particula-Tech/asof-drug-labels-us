@@ -1,8 +1,4 @@
-MEDICATION GUIDE
-
-Prolia® (PRÓ-lee-a)
-
-(denosumab) Injection, for subcutaneous use
+MEDICATION GUIDE Prolia® (PRÓ-lee-a) (denosumab) Injection, for subcutaneous use
 
 Read the Medication Guide that comes with Prolia before you start taking it and each time you get a refill.
 There may be new information.
@@ -33,12 +29,8 @@ Prolia can cause serious side effects including:
   If you have low blood calcium before you start receiving Prolia, it may get worse during treatment.
   Your low blood calcium must be treated before you receive Prolia.
   Most people with low blood calcium levels do not have symptoms, but some people may have symptoms.
-  Call your doctor right away if you have symptoms of low blood calcium such as:
-  - Spasms, twitches, or cramps in your muscles
-  - Numbness or tingling in your fingers, toes, or around your mouth
-
-Your doctor may prescribe calcium and vitamin D to help prevent low calcium levels in your blood while you take Prolia.
-Take calcium and vitamin D as your doctor tells you to.
+  Call your doctor right away if you have symptoms of low blood calcium such as: • Spasms, twitches, or cramps in your muscles • Numbness or tingling in your fingers, toes, or around your mouth Your doctor may prescribe calcium and vitamin D to help prevent low calcium levels in your blood while you take Prolia.
+  Take calcium and vitamin D as your doctor tells you to.
 
 - Severe jaw bone problems (osteonecrosis).
   Severe jaw bone problems may happen when you take Prolia.
@@ -61,13 +53,7 @@ Take calcium and vitamin D as your doctor tells you to.
 
 - Skin problems.
   Skin problems such as inflammation of your skin (dermatitis), rash, and eczema may happen if you take Prolia.
-  Call your doctor if you have any of the following symptoms of skin problems that do not go away or get worse:
-  - Redness
-  - Itching
-  - Small bumps or patches (rash)
-  - Your skin is dry or feels like leather
-  - Blisters that ooze or become crusty
-  - Skin peeling
+  Call your doctor if you have any of the following symptoms of skin problems that do not go away or get worse: • Redness • Itching • Small bumps or patches (rash) • Your skin is dry or feels like leather • Blisters that ooze or become crusty • Skin peeling
 
 - Bone, joint, or muscle pain.
   Some people who take Prolia develop severe bone, joint, or muscle pain.
@@ -78,9 +64,7 @@ What is Prolia?
 
 Prolia is a prescription medicine used to:
 
-- Treat osteoporosis (thinning and weakening of bone) in women after menopause (“change of life”) who:
-  - are at high risk for fracture (broken bone)
-  - cannot use another osteoporosis medicine or other osteoporosis medicines did not work well
+- Treat osteoporosis (thinning and weakening of bone) in women after menopause (“change of life”) who: ○ are at high risk for fracture (broken bone) ○ cannot use another osteoporosis medicine or other osteoporosis medicines did not work well
 - Increase bone mass in men with osteoporosis who are at high risk for fracture
 - Treat bone loss in men who are at high risk for fracture receiving certain treatments for prostate cancer that has not spread to other parts of the body
 - Treat bone loss in women who are at high risk for fracture receiving certain treatments for breast cancer that has not spread to other parts of the body
@@ -110,10 +94,9 @@ Before taking Prolia, tell your doctor if you:
 - Plan to have dental surgery or teeth removed.
 - Are pregnant or plan to become pregnant.
   Prolia may harm your unborn baby.
-  Tell your doctor right away if you become pregnant while taking Prolia.
-  - Pregnancy Surveillance Program: Prolia is not intended for use in pregnant women.
-    If you become pregnant while taking Prolia, talk to your doctor about enrolling in Amgen’s Pregnancy Surveillance Program or call 1-800-772-6436 (1-800-77-AMGEN).
-    The purpose of this program is to collect information about women who have become pregnant while taking Prolia.
+  Tell your doctor right away if you become pregnant while taking Prolia. ○ Pregnancy Surveillance Program: Prolia is not intended for use in pregnant women.
+  If you become pregnant while taking Prolia, talk to your doctor about enrolling in Amgen’s Pregnancy Surveillance Program or call 1-800-772-6436 (1-800-77-AMGEN).
+  The purpose of this program is to collect information about women who have become pregnant while taking Prolia.
 - Are breastfeeding or plan to breastfeed.
   It is not known if Prolia passes into your breast milk.
   You and your doctor should decide if you will take Prolia or breastfeed.
@@ -195,9 +178,10 @@ You can ask your doctor or pharmacist for information about Prolia that is writt
 For more information, go to www.Prolia.com or call Amgen at 1-800-772-6436.
 
 What are the ingredients in Prolia?
-Active ingredient: denosumab Inactive ingredients: sorbitol, acetate, polysorbate 20 (prefilled syringe only), Water for Injection (USP), and sodium hydroxide
 
-[Amgen Logo]
+Active ingredient: denosumab
+
+Inactive ingredients: sorbitol, acetate, polysorbate 20 (prefilled syringe only), Water for Injection (USP), and sodium hydroxide
 
 Amgen Inc. One Amgen Center Drive Thousand Oaks, California 91320-1799
 

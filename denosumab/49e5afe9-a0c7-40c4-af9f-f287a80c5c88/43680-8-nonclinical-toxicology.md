@@ -2,11 +2,17 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Carcinogenicity The carcinogenic potential of denosumab has not been evaluated in long-term animal studies.
+Carcinogenicity
 
-Mutagenicity The genotoxic potential of denosumab has not been evaluated.
+The carcinogenic potential of denosumab has not been evaluated in long-term animal studies.
 
-Impairment of Fertility Denosumab had no effect on female fertility or male reproductive organs in monkeys at doses that were 13- to 50-fold higher than the recommended human dose of 60 mg subcutaneously administered once every 6 months, based on body weight (mg/kg).
+Mutagenicity
+
+The genotoxic potential of denosumab has not been evaluated.
+
+Impairment of Fertility
+
+Denosumab had no effect on female fertility or male reproductive organs in monkeys at doses that were 13- to 50-fold higher than the recommended human dose of 60 mg subcutaneously administered once every 6 months, based on body weight (mg/kg).
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 

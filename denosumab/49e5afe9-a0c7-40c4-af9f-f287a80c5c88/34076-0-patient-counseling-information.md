@@ -40,7 +40,9 @@ Patients should report severe symptoms if they develop [see Warnings and Precaut
 
 ## 17.9 Embryo-Fetal Toxicity
 
-Pregnancy Advise patients that Prolia is contraindicated in women who are pregnant and may cause fetal harm [see Contraindications (4.2), Use in Specific Populations (8.1)].
+Pregnancy
+
+Advise patients that Prolia is contraindicated in women who are pregnant and may cause fetal harm [see Contraindications (4.2), Use in Specific Populations (8.1)].
 
 ## 17.10 Nursing Mothers
 
@@ -50,3 +52,11 @@ Advise patients that because many drugs are excreted in human milk and because o
 
 If a dose of Prolia is missed, administer the injection as soon as convenient.
 Thereafter, schedule injections every 6 months from the date of the last injection.
+
+Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, California 91320-1799
+
+Patent: http://pat.amgen.com/prolia/
+
+© 2010-2016 Amgen Inc. All rights reserved.
+
+1xxxxxx ± v10

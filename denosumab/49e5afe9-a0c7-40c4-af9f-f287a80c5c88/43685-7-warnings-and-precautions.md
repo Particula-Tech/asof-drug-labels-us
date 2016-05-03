@@ -32,6 +32,7 @@ A routine oral exam should be performed by the prescriber prior to initiation of
 A dental examination with appropriate preventive dentistry is recommended prior to treatment with Prolia in patients with risk factors for ONJ such as invasive dental procedures (e.g. tooth extraction, dental implants, oral surgery), diagnosis of cancer, concomitant therapies (e.g. chemotherapy, corticosteroids, angiogenesis inhibitors), poor oral hygiene, and co-morbid disorders (e.g. periodontal and/or other pre-existing dental disease, anemia, coagulopathy, infection, ill-fitting dentures).
 Good oral hygiene practices should be maintained during treatment with Prolia.
 Concomitant administration of drugs associated with ONJ may increase the risk of developing ONJ.
+The risk of ONJ may increase with duration of exposure to Prolia.
 
 For patients requiring invasive dental procedures, clinical judgment of the treating physician and/or oral surgeon should guide the management plan of each patient based on individual benefit-risk assessment.
 
