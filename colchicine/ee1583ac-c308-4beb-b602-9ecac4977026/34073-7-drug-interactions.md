@@ -27,7 +27,7 @@ If co-administration of colchicine capsules and a P-gp inhibitor is necessary, t
 Some drugs such as HMG-CoA reductase inhibitors and fibrates may increase the risk of myopathy when combined with colchicine capsules.
 Complaints of muscle pain or weakness could be an indication to check serum creatinine kinase levels for signs of myopathy.
 
-## 7.4 Drug Studies
+## 7.4 Drug-Drug Interaction Studies
 
 Four pharmacokinetic studies evaluated the effects of co-administration of voriconazole (200 mg BID), fluconazole (200 mg QD), cimetidine (800 mg BID), and propafenone (225 mg BID) on systemic levels of colchicine.
 Colchicine can be administered with these drugs at the tested doses without a need for dose adjustment.
