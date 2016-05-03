@@ -27,8 +27,8 @@ PRAVACHOL is indicated:
 - •as an adjunct to diet for the treatment of patients with elevated serum TG levels (Fredrickson Type IV).
 - •for the treatment of patients with primary dysbetalipoproteinemia (Fredrickson Type III) who do not respond adequately to diet.
 - •as an adjunct to diet and lifestyle modification for treatment of heterozygous familial hypercholesterolemia (HeFH) in children and adolescent patients ages 8 years and older if after an adequate trial of diet the following findings are present:
-  - a.LDL-C remains ≥190 mg/dL or
-  - b.LDL-C remains ≥160 mg/dL and:
+  - 1.LDL-C remains ≥190 mg/dL or
+  - 2.LDL-C remains ≥160 mg/dL and:
     1. ▪there is a positive family history of premature cardiovascular disease (CVD) or
     2. ▪two or more other CVD risk factors are present in the patient.
 
