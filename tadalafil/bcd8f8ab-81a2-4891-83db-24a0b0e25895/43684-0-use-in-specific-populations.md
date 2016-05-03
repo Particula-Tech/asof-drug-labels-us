@@ -31,10 +31,11 @@ Safety and efficacy in patients below the age of 18 years has not been establish
 
 ## 8.5 Geriatric Use
 
-Of the total number of subjects in ED clinical studies of tadalafil, approximately 25 percent were 65 and over, while approximately 3 percent were 75 and over.
+Of the total number of subjects in ED clinical studies of tadalafil, approximately 19 percent were 65 and over, while approximately 2 percent were 75 and over.
 Of the total number of subjects in BPH clinical studies of tadalafil (including the ED/BPH study), approximately 40 percent were over 65, while approximately 10 percent were 75 and over.
 In these clinical trials, no overall differences in efficacy or safety were observed between older (>65 and ≥75 years of age) and younger subjects (≤65 years of age).
-Therefore no dose adjustment is warranted based on age alone.
+However, in placebo-controlled studies with CIALIS for use as needed for ED, diarrhea was reported more frequently in patients 65 years of age and older who were treated with CIALIS (2.5% of patients) [see Adverse Reactions (6.1)].
+No dose adjustment is warranted based on age alone.
 However, a greater sensitivity to medications in some older individuals should be considered.
 [see Clinical Pharmacology (12.3)].
 

@@ -100,13 +100,15 @@ Diagnostic testing, including measures for inflammation, muscle injury, or renal
 Incidence rates for CIALIS for once daily use for ED, BPH and BPH/ED are described in Tables 2, 3 and 4.
 In studies of CIALIS for once daily use, adverse reactions of back pain and myalgia were generally mild or moderate with a discontinuation rate of <1% across all indications.
 
+Across placebo-controlled studies with CIALIS for use as needed for ED, diarrhea was reported more frequently in patients 65 years of age and older who were treated with CIALIS (2.5% of patients) [see Use in Specific Populations (8.5)].
+
 Across all studies with any CIALIS dose, reports of changes in color vision were rare (<0.1% of patients).
 
 The following section identifies additional, less frequent events (<2%) reported in controlled clinical trials of CIALIS for once daily use or use as needed.
 A causal relationship of these events to CIALIS is uncertain.
 Excluded from this list are those events that were minor, those with no plausible relation to drug use, and reports too imprecise to be meaningful:
 
-Body as a Whole — asthenia, face edema, fatigue, pain
+Body as a Whole — asthenia, face edema, fatigue, pain, peripheral edema
 
 Cardiovascular — angina pectoris, chest pain, hypotension, myocardial infarction, postural hypotension, palpitations, syncope, tachycardia
 
