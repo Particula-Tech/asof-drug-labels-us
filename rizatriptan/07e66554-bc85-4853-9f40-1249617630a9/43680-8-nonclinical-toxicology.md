@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis & Mutagenesis & Impairment Of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Carcinogenesis: Oral carcinogenicity studies were conducted in mice (100 weeks) and rats (106 weeks) at doses of up to 125 mg/kg/day.
 Plasma exposures (AUC) at the highest dose tested were approximately 150 (mice) and 240 times (rats) that in humans at the maximum recommended daily dose (MRDD) of 30 mg/day.
