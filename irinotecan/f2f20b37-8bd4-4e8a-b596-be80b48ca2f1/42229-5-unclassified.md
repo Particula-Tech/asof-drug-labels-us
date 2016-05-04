@@ -5,6 +5,6 @@ Rx only
 
 Distributed by Pharmacia & Upjohn Company Division of Pfizer Inc, NY, NY 10017
 
-NOVAPLUS® NOVAPLUS is a registered trademark of Novation LLC.
+NOVAPLUS is a registered trademark of Vizient, Inc.
 
-Licensed from Yakult Honsha Co., LTD, Japan, and Daiichi Pharmaceutical Co., LTD, Japan LAB-0520-3.0
+LAB-0520-5.0

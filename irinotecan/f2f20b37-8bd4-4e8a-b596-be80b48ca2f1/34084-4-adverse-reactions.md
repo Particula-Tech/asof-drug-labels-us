@@ -41,7 +41,7 @@ Study 1: Percent (%) of Patients Experiencing Clinically Relevant Adverse Events
 | TOTAL Adverse Events | 100 | 53.3 | 100 | 45.7 | 99.6 | 45.7 |
 | GASTROINTESTINAL |  |  |  |  |  |  |
 | Diarrhea |  |  |  |  |  |  |
-| late | 84.9 | 22.7 | 69.4 | 13.2 | 83.0 | 31.0 |
+| Late | 84.9 | 22.7 | 69.4 | 13.2 | 83.0 | 31.0 |
 | grade 3 | -- | 15.1 | -- | 5.9 | -- | 18.4 |
 | grade 4 | -- | 7.6 | -- | 7.3 | -- | 12.6 |
 | early | 45.8 | 4.9 | 31.5 | 1.4 | 43.0 | 6.7 |
@@ -94,7 +94,7 @@ Study 2: Percent (%) of Patients Experiencing Clinically Relevant Adverse Events
 | TOTAL Adverse Events | 100 | 72.4 | 100 | 39.2 |
 | GASTROINTESTINAL |  |  |  |  |
 | Diarrhea |  |  |  |  |
-| late | 72.4 | 14.4 | 44.8 | 6.3 |
+| Late | 72.4 | 14.4 | 44.8 | 6.3 |
 | grade 3 | -- | 10.3 | -- | 4.2 |
 | grade 4 | -- | 4.1 | -- | 2.1 |
 | Cholinergic syndromeIncludes rhinitis, increased salivation, miosis, lacrimation, diaphoresis, flushing, abdominal cramping or diarrhea (occurring during or shortly after infusion of irinotecan) | 28.3 | 1.4 | 0.7 | 0 |
