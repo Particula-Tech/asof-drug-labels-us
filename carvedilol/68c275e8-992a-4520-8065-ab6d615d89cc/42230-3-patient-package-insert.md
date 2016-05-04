@@ -12,9 +12,9 @@ What are carvedilol tablets?
 Carvedilol tablets are a prescription medicine that belongs to a group of medicines called "beta-blockers".
 Carvedilol tablets are used, often with other medicines, for the following conditions:
 
-- •to treat patients with certain types of heart failure
-- •to treat patients who had a heart attack that worsened how well the heart pumps
-- •to treat patients with high blood pressure (hypertension)
+1. •to treat patients with certain types of heart failure
+2. •to treat patients who had a heart attack that worsened how well the heart pumps
+3. •to treat patients with high blood pressure (hypertension)
 
 Carvedilol tablets are not approved for use in children under 18 years of age.
 
@@ -22,37 +22,37 @@ Who should not take carvedilol tablets?
 
 Do not take carvedilol tablets if you:
 
-- •have severe heart failure and are hospitalized in the intensive care unit or require certain intravenous medications that help support circulation (inotropic medications).
-- •are prone to asthma or other breathing problems.
-- •have a slow heartbeat or a heart that skips a beat (irregular heartbeat).
-- •have liver problems.
-- •are allergic to any of the ingredients in carvedilol tablets.
-  The active ingredient is carvedilol.
-  See the end of this leaflet for a list of all the ingredients in carvedilol tablets.
+1. •have severe heart failure and are hospitalized in the intensive care unit or require certain intravenous medications that help support circulation (inotropic medications).
+2. •are prone to asthma or other breathing problems.
+3. •have a slow heartbeat or a heart that skips a beat (irregular heartbeat).
+4. •have liver problems.
+5. •are allergic to any of the ingredients in carvedilol tablets.
+   The active ingredient is carvedilol.
+   See the end of this leaflet for a list of all the ingredients in carvedilol tablets.
 
 What should I tell my doctor before taking carvedilol tablets?
 
 Tell your doctor about all of your medical conditions, including if you:
 
-- •have asthma or other lung problems (such as bronchitis or emphysema).
-- •have problems with blood flow in your feet and legs (peripheral vascular disease).
-  Carvedilol tablets can make some of your symptoms worse.
-- •have diabetes.
-- •have thyroid problems.
-- •have a condition called pheochromocytoma.
-- •have had severe allergic reactions.
-- •are pregnant or trying to become pregnant.
-  It is not known if carvedilol is safe for your unborn baby.
-  You and your doctor should talk about the best way to control your high blood pressure during pregnancy.
-- •are breastfeeding.
-  It is not known if carvedilol passes into your breast milk.
-  You should not breastfeed while using carvedilol tablets.
-- •are scheduled for surgery and will be given anesthetic agents.
-- •are scheduled for cataract surgery and have taken or are currently taking carvedilol tablets.
-- •are taking prescription or non-prescription medicines, vitamins, and herbal supplements.
-  Carvedilol tablets and certain other medicines can affect each other and cause serious side effects.
-  Carvedilol tablets may affect the way other medicines work.
-  Also, other medicines may affect how well carvedilol tablets work.
+1. •have asthma or other lung problems (such as bronchitis or emphysema).
+2. •have problems with blood flow in your feet and legs (peripheral vascular disease).
+   Carvedilol tablets can make some of your symptoms worse.
+3. •have diabetes.
+4. •have thyroid problems.
+5. •have a condition called pheochromocytoma.
+6. •have had severe allergic reactions.
+7. •are pregnant or trying to become pregnant.
+   It is not known if carvedilol is safe for your unborn baby.
+   You and your doctor should talk about the best way to control your high blood pressure during pregnancy.
+8. •are breastfeeding.
+   It is not known if carvedilol passes into your breast milk.
+   You should not breastfeed while using carvedilol tablets.
+9. •are scheduled for surgery and will be given anesthetic agents.
+10. •are scheduled for cataract surgery and have taken or are currently taking carvedilol tablets.
+11. •are taking prescription or non-prescription medicines, vitamins, and herbal supplements.
+    Carvedilol tablets and certain other medicines can affect each other and cause serious side effects.
+    Carvedilol tablets may affect the way other medicines work.
+    Also, other medicines may affect how well carvedilol tablets work.
 
 Keep a list of all the medicines you take.
 Show this list to your doctor and pharmacist before you start a new medicine.
@@ -63,36 +63,36 @@ It is important for you to take your medicine every day as directed by your doct
 If you stop taking carvedilol tablets suddenly, you could have chest pain and/or a heart attack.
 If your doctor decides that you should stop taking carvedilol tablets, your doctor may slowly lower your dose over a period of time before stopping it completely.
 
-- •Take carvedilol tablets exactly as prescribed.
-  Your doctor will tell you how many tablets to take and how often.
-  In order to minimize possible side effects, your doctor might begin with a low dose and then slowly increase the dose.
-- •Do not stop taking carvedilol tablets and do not change the amount of carvedilol tablets you take without talking to your doctor.
-- •Tell your doctor if you gain weight or have trouble breathing while taking carvedilol tablets.
-- •Take carvedilol tablets with food.
-- •If you miss a dose of carvedilol tablets, take your dose as soon as you remember, unless it is time to take your next dose.
-  Take your next dose at the usual time.
-  Do not take 2 doses at the same time.
-- •If you take too many carvedilol tablets, call your doctor or poison control center right away.
+1. •Take carvedilol tablets exactly as prescribed.
+   Your doctor will tell you how many tablets to take and how often.
+   In order to minimize possible side effects, your doctor might begin with a low dose and then slowly increase the dose.
+2. •Do not stop taking carvedilol tablets and do not change the amount of carvedilol tablets you take without talking to your doctor.
+3. •Tell your doctor if you gain weight or have trouble breathing while taking carvedilol tablets.
+4. •Take carvedilol tablets with food.
+5. •If you miss a dose of carvedilol tablets, take your dose as soon as you remember, unless it is time to take your next dose.
+   Take your next dose at the usual time.
+   Do not take 2 doses at the same time.
+6. •If you take too many carvedilol tablets, call your doctor or poison control center right away.
 
 What should I avoid while taking carvedilol tablets?
 
-- •Carvedilol tablets can cause you to feel dizzy, tired, or faint.
-  Do not drive a car, use machinery, or do anything that needs you to be alert if you have these symptoms.
+1. •Carvedilol tablets can cause you to feel dizzy, tired, or faint.
+   Do not drive a car, use machinery, or do anything that needs you to be alert if you have these symptoms.
 
 What are possible side effects of carvedilol tablets?
 
-- •Low blood pressure (which may cause dizziness or fainting when you stand up).
-  If these happen, sit or lie down right away and tell your doctor.
-- •Tiredness.
-  If you feel tired or dizzy you should not drive, use machinery, or do anything that needs you to be alert.
-- •Slow heartbeat.
-- •Changes in your blood sugar.
-  If you have diabetes, tell your doctor if you have any changes in your blood sugar levels.
-- •Carvedilol may hide some of the symptoms of low blood sugar, especially a fast heartbeat.
-- •Carvedilol may mask the symptoms of hyperthyroidism (overactive thyroid).
-- •Worsening of severe allergic reactions.
-- •Rare but serious allergic reactions (including hives or swelling of the face, lips, tongue, and/or throat that may cause difficulty in breathing or swallowing) have happened in patients who were on carvedilol.
-  These reactions can be life-threatening.
+1. •Low blood pressure (which may cause dizziness or fainting when you stand up).
+   If these happen, sit or lie down right away and tell your doctor.
+2. •Tiredness.
+   If you feel tired or dizzy you should not drive, use machinery, or do anything that needs you to be alert.
+3. •Slow heartbeat.
+4. •Changes in your blood sugar.
+   If you have diabetes, tell your doctor if you have any changes in your blood sugar levels.
+5. •Carvedilol may hide some of the symptoms of low blood sugar, especially a fast heartbeat.
+6. •Carvedilol may mask the symptoms of hyperthyroidism (overactive thyroid).
+7. •Worsening of severe allergic reactions.
+8. •Rare but serious allergic reactions (including hives or swelling of the face, lips, tongue, and/or throat that may cause difficulty in breathing or swallowing) have happened in patients who were on carvedilol.
+   These reactions can be life-threatening.
 
 Other side effects of carvedilol tablets include shortness of breath, weight gain, diarrhea, and fewer tears or dry eyes that become bothersome if you wear contact lenses.
 
@@ -103,10 +103,10 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store carvedilol tablets?
 
-- •Store carvedilol tablets at 68° to 77°F (20° to 25°C).
-  Keep the tablets dry.
-- •Safely, throw away carvedilol tablets that are out of date or no longer needed.
-- •Keep carvedilol tablets and all medicines out of the reach of children.
+1. •Store carvedilol tablets at 68° to 77°F (20° to 25°C).
+   Keep the tablets dry.
+2. •Safely, throw away carvedilol tablets that are out of date or no longer needed.
+3. •Keep carvedilol tablets and all medicines out of the reach of children.
 
 General Information about carvedilol tablets
 

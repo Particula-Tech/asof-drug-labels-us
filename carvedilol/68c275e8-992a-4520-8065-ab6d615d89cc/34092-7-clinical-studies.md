@@ -22,21 +22,21 @@ In situations where the primary end points of a trial do not show a significant 
 
 The results of the U.S. and Australia-New Zealand trials were as follows:
 
-Slowing Progression of Heart Failure:One U.S. multicenter trial (366 subjects) had as its primary end point the sum of cardiovascular mortality, cardiovascular hospitalization, and sustained increase in heart failure medications.
+Slowing Progression of Heart Failure: One U.S. multicenter trial (366 subjects) had as its primary end point the sum of cardiovascular mortality, cardiovascular hospitalization, and sustained increase in heart failure medications.
 Heart failure progression was reduced, during an average follow-up of 7 months, by 48% (P = 0.008).
 
 In the Australia-New Zealand trial, death and total hospitalizations were reduced by about 25% over 18 to 24 months.
 In the 3 largest U.S. trials, death and total hospitalizations were reduced by 19%, 39%, and 49%, nominally statistically significant in the last 2 trials.
 The Australia-New Zealand results were statistically borderline.
 
-Functional Measures:None of the multicenter trials had NYHA classification as a primary end point, but all such trials had it as a secondary end point.
+Functional Measures: None of the multicenter trials had NYHA classification as a primary end point, but all such trials had it as a secondary end point.
 There was at least a trend toward improvement in NYHA class in all trials.
 Exercise tolerance was the primary end point in 3 trials; in none was a statistically significant effect found.
 
-Subjective Measures:Health-related quality of life, as measured with a standard questionnaire (a primary end point in 1 trial), was unaffected by carvedilol.
+Subjective Measures: Health-related quality of life, as measured with a standard questionnaire (a primary end point in 1 trial), was unaffected by carvedilol.
 However, patients’ and investigators’ global assessments showed significant improvement in most trials.
 
-Mortality:Death was not a pre-specified end point in any trial, but was analyzed in all trials.
+Mortality: Death was not a pre-specified end point in any trial, but was analyzed in all trials.
 Overall, in these 4 U.S. trials, mortality was reduced, nominally significantly so in 2 trials.
 
 The COMET Trial
