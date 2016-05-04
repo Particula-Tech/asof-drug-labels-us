@@ -29,7 +29,7 @@ The non-linear exposure of dolutegravir following 50 mg twice daily compared wit
 TIVICAY was administered without regard to food in these trials.
 
 Table 6.
-Dolutegravir Steady-state Pharmacokinetic Parameter Estimates in HIV‑1–Infected Adults
+Dolutegravir Steady-State Pharmacokinetic Parameter Estimates in HIV‑1–Infected Adults
 
 | Parameter | 50 mg Once DailyGeometric Meana (%CV) | 50 mg Twice DailyGeometric Meanb (%CV) |
 | --- | --- | --- |
@@ -73,7 +73,7 @@ Renal elimination of unchanged drug was low (less than 1% of the dose).
 
 Dolutegravir has a terminal half-life of approximately 14 hours and an apparent clearance (CL/F) of 1.0 L per hour based on population pharmacokinetic analyses.
 
-Polymorphisms in Drug‑metabolizing Enzymes: In a meta-analysis of healthy subject trials, subjects with UGT1A1 (n = 7) genotypes conferring poor dolutegravir metabolism had a 32% lower clearance of dolutegravir and 46% higher AUC compared with subjects with genotypes associated with normal metabolism via UGT1A1 (n = 41).
+Polymorphisms in Drug‑Metabolizing Enzymes: In a meta-analysis of healthy subject trials, subjects with UGT1A1 (n = 7) genotypes conferring poor dolutegravir metabolism had a 32% lower clearance of dolutegravir and 46% higher AUC compared with subjects with genotypes associated with normal metabolism via UGT1A1 (n = 41).
 
 Specific Populations
 
@@ -102,7 +102,7 @@ Geriatric Patients: Population analyses using pooled pharmacokinetic data from a
 Pediatric Patients: The pharmacokinetics of dolutegravir in HIV‑1–infected children (n = 10) aged 12 to less than 18 years were similar to those observed in HIV‑1–infected adults who received dolutegravir 50 mg once daily (Table 7) [see Clinical Studies (14.2)].
 
 Table 7.
-Dolutegravir Steady-state Pharmacokinetic Parameters in Pediatric Subjects
+Dolutegravir Steady-State Pharmacokinetic Parameters in Pediatric Subjects
 
 | Age/Weight | Dose of TIVICAYa | Dolutegravir Pharmacokinetic Parameter EstimatesGeometric Mean (%CV) |  |  |
 | --- | --- | --- | --- | --- |
@@ -124,8 +124,9 @@ Summary of Effect of Dolutegravir on the Pharmacokinetics of Coadministered Drug
 | Coadministered Drug(s)and Dose(s) | Dose of TIVICAY | n | Geometric Mean Ratio (90% CI) of Pharmacokinetic Parameters of Coadministered Drug with/without Dolutegravir No Effect = 1.00 |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Cmax | AUC | Cτ or C24 |  |  |  |
+| Daclatasvir 60 mg once daily | 50 mg once daily | 12 | 1.03 (0.84 to 1.25) | 0.98 (0.83 to 1.15) | 1.06 (0.88 to 1.29) |
 | Ethinyl estradiol 0.035 mg | 50 mg twice daily | 15 | 0.99 (0.91 to 1.08) | 1.03 (0.96 to 1.11) | 1.02 (0.93 to 1.11) |
-| Metformin 500 mg twice daily | 50 mg once daily | 15a | 1.66 (1.53 to 1.81) | 1.79 (1.65 to 1.93 | _ |
+| Metformin 500 mg twice daily | 50 mg once daily | 15a | 1.66 (1.53 to 1.81) | 1.79 (1.65 to 1.93) | _ |
 | Metformin 500 mg twice daily | 50 mg twice daily | 15a | 2.11 (1.91 to 2.33) | 2.45 (2.25 to 2.66) | _ |
 | Methadone 16 to 150 mg | 50 mg twice daily | 11 | 1.00 (0.94 to 1.06) | 0.98 (0.91 to 1.06) | 0.99 (0.91 to 1.07) |
 | Midazolam 3 mg | 25 mg once daily | 10 | _ | 0.95 (0.79 to 1.15) | _ |
@@ -160,6 +161,7 @@ Summary of Effect of Coadministered Drugs on the Pharmacokinetics of Dolutegravi
 | Calcium carbonate 1,200 mg simultaneous administration (fed) | 50 mg single dose | 11 | 1.07 (0.83 to 1.38) | 1.09 (0.84 to 1.43) | 1.08 (0.81 to 1.42) |
 | Calcium carbonate 1,200 mg 2 h after dolutegravir | 50 mg single dose | 11 | 1.00 (0.78 to 1.29) | 0.94 (0.72 to 1.23) | 0.90 (0.68 to 1.19) |
 | Carbamazepine 300 mg twice daily | 50 mg once daily | 16c | 0.67 (0.61 to 0.73) | 0.51 (0.48 to 0.55) | 0.27 (0.24 to 0.31) |
+| Daclatasvir 60 mg once daily | 50 mg once daily | 12 | 1.29 (1.07 to 1.57) | 1.33 (1.11 to 1.59) | 1.45 (1.25 to 1.68) |
 | Ferrous fumarate 324 mg simultaneous administration (fasted) | 50 mg single dose | 11 | 0.43 (0.35 to 0.52) | 0.46 (0.38 to 0.56) | 0.44 (0.36 to 0.54) |
 | Ferrous fumarate 324 mg simultaneous administration (fed) | 50 mg single dose | 11 | 1.03 (0.84 to 1.26) | 0.98 (0.81 to 1.20) | 1.00 (0.81 to 1.23) |
 | Ferrous fumarate 324 mg 2 h after dolutegravir | 50 mg single dose | 10 | 0.99 (0.81 to 1.21) | 0.95 (0.77 to 1.15) | 0.92 (0.74 to 1.13) |
@@ -203,18 +205,19 @@ Passage of mutant viruses containing the Q148R or Q148H substitutions selected f
 The additional integrase substitutions included T97A, E138K, G140S, and M154I.
 Passage of mutant viruses containing both G140S and Q148H selected for L74M, E92Q, and N155H.
 
-Treatment-naïve Subjects: No subjects in the dolutegravir 50-mg once-daily treatment arms of treatment-naïve trials SPRING-2 and SINGLE had a detectable decrease in susceptibility to dolutegravir or background NRTIs in the resistance analysis subset (n = 9) with HIV-1 RNA greater than 400 copies per mL at failure or last visit through Week 96 and having resistance data.
-One subject in SINGLE with 275 copies per mL HIV-1 RNA had a treatment-emergent integrase substitution (E157Q/P) detected at Week 24, but no corresponding decrease in dolutegravir susceptibility.
+Treatment-Naïve Subjects: No subjects in the dolutegravir 50-mg once-daily treatment arms of treatment-naïve trials SPRING-2 (96 weeks) and SINGLE (144 weeks) had a detectable decrease in susceptibility to dolutegravir or background NRTIs in the resistance analysis subset (n = 12 with HIV-1 RNA greater than 400 copies per mL at failure or last visit and having resistance data).
+Two virologic failure subjects in SINGLE had treatment-emergent G/D/E193D and G193G/E integrase substitutions at Week 84 and Week 108, respectively, and 1 subject with 275 copies per mL HIV-1 RNA had a treatment-emergent Q157Q/P integrase substitution detected at Week 24.
+None of these subjects had a corresponding decrease in dolutegravir susceptibility.
 No treatment-emergent genotypic resistance to the background regimen was observed in the dolutegravir arm in either the SPRING-2 or SINGLE trials.
-No treatment-emergent primary resistance substitutions were observed in either treatment group in the FLAMINGO trial.
+No treatment-emergent primary resistance substitutions were observed in either treatment group in the FLAMINGO trial through Week 96.
 
-Treatment-experienced, Integrase Strand Transfer Inhibitor-naïve Subjects: In the dolutegravir arm of the SAILING trial for treatment-experienced and INSTI-naïve subjects (n = 354), treatment-emergent integrase substitutions were observed in 6 of 28 (21%) subjects who had virologic failure and resistance data.
+Treatment-Experienced, Integrase Strand Transfer Inhibitor-Naïve Subjects: In the dolutegravir arm of the SAILING trial for treatment-experienced and INSTI-naïve subjects (n = 354), treatment-emergent integrase substitutions were observed in 6 of 28 (21%) subjects who had virologic failure and resistance data.
 In 5 of the 6 subjects’ isolates emergent INSTI substitutions included L74L/M/I, Q95Q/L, V151V/I (n = 1 each), and R263K (n = 2).
 The change in dolutegravir phenotypic susceptibility for these 5 subject isolates was less than 2-fold.
 One subject isolate had pre-existing raltegravir resistance substitutions E138A, G140S, and Q148H at baseline and had additional emergent INSTI-resistance substitutions T97A and E138A/T with a corresponding 148-fold reduction in dolutegravir susceptibility at failure.
 In the comparator raltegravir arm, 21 of 49 (43%) subjects with post-baseline resistance data had evidence of emergent INSTI-resistance substitutions (L74M, E92Q, T97A, E138Q, G140S/A, Y143R/C, Q148H/R, V151I, N155H, E157Q, and G163K/R) and raltegravir phenotypic resistance.
 
-Treatment-experienced, Integrase Strand Transfer Inhibitor-experienced Subjects: VIKING-3 examined the efficacy of dolutegravir 50 mg twice daily plus optimized background therapy in subjects with prior or current virologic failure on an INSTI- (elvitegravir or raltegravir) containing regimen.
+Treatment-Experienced, Integrase Strand Transfer Inhibitor-Experienced Subjects: VIKING-3 examined the efficacy of dolutegravir 50 mg twice daily plus optimized background therapy in subjects with prior or current virologic failure on an INSTI- (elvitegravir or raltegravir) containing regimen.
 
 In VIKING-4 (ING116529),30 subjects with current virological failure on an INSTI-containing regimen and genotypic evidence of INSTI-resistance substitutions at screening were randomized to receive either dolutegravir 50 mg twice daily or placebo with the current failing regimen for 7 days and then all subjects received open-label dolutegravir plus optimized background regimen from Day 8.
 Virologic responses at Week 48 by baseline genotypic and phenotypic INSTI-resistance categories and the INSTI resistance-associated substitutions that emerged on dolutegravir treatment in VIKING-4 were consistent with those seen in VIKING-3.
@@ -251,16 +254,16 @@ These baseline phenotypic groups are based on subjects enrolled in VIKING-3 and 
 The data are provided to guide clinicians on the likelihood of virologic success based on pretreatment susceptibility to dolutegravir in INSTI-resistant patients.
 
 Table 11.
-Response by Baseline Dolutegravir Phenotype (Fold-change from Reference) in Subjects with Prior Experience to an Integrase Strand Transfer Inhibitor in VIKING-3
+Response by Baseline Dolutegravir Phenotype (Fold-Change from Reference) in Subjects with Prior Experience to an Integrase Strand Transfer Inhibitor in VIKING-3
 
-| Baseline Dolutegravir Phenotype (Fold-change from Reference) | Response at Week 48 (<50 copies/mL) Subset n = 163 |
+| Baseline Dolutegravir Phenotype (Fold-Change from Reference) | Response at Week 48 (<50 copies/mL) Subset n = 163 |
 | --- | --- |
 | Overall Response | 64% (104/163) |
 | <3-fold change | 72% (83/116) |
 | 3- <10-fold change | 53% (18/34) |
 | ≥10-fold change | 23% (3/13) |
 
-Integrase Strand Transfer Inhibitor Treatment-emergent Resistance
+Integrase Strand Transfer Inhibitor Treatment-Emergent Resistance
 
 There were 50 subjects with virologic failure on the dolutegravir twice-daily regimen in VIKING-3 with HIV-1 RNA greater than 400 copies per mL at the failure timepoint, Week 48 or beyond, or the last timepoint on trial.
 Thirty-nine subjects with virologic failure had resistance data that were used in the Week 48 analysis.
@@ -272,11 +275,11 @@ At failure, the median dolutegravir fold-change from reference was 61-fold (rang
 
 Resistance to one or more background drugs in the dolutegravir twice-daily regimen also emerged in 49% (19 of 39) subjects in the Week 48 resistance analysis.
 
-Cross-resistance
+Cross-Resistance
 
-Site-directed Integrase Strand Transfer Inhibitor-resistant Mutant HIV-1 and HIV-2 Strains: The susceptibility of dolutegravir was tested against 60 INSTI-resistant site-directed mutant HIV-1 viruses (28 with single substitutions and 32 with 2 or more substitutions) and 6 INSTI-resistant site-directed mutant HIV-2 viruses.
+Site-Directed Integrase Strand Transfer Inhibitor-Resistant Mutant HIV-1 and HIV-2 Strains: The susceptibility of dolutegravir was tested against 60 INSTI-resistant site-directed mutant HIV-1 viruses (28 with single substitutions and 32 with 2 or more substitutions) and 6 INSTI-resistant site-directed mutant HIV-2 viruses.
 The single INSTI-resistance substitutions T66K, I151L, and S153Y conferred a greater than 2-fold decrease in dolutegravir susceptibility (range: 2.3-fold to 3.6-fold from reference).
 Combinations of multiple substitutions T66K/L74M, E92Q/N155H, G140C/Q148R, G140S/Q148H, R or K, Q148R/N155H, T97A/G140S/Q148, and substitutions at E138/G140/Q148 showed a greater than 2-fold decrease in dolutegravir susceptibility (range: 2.5-fold to 21-fold from reference).
 In HIV-2 mutants, combinations of substitutions A153G/N155H/S163G and E92Q/T97A/N155H/S163D conferred 4-fold decreases in dolutegravir susceptibility, and E92Q/N155H and G140S/Q148R showed 8.5-fold and 17-fold decreases in dolutegravir susceptibility, respectively.
 
-Reverse Transcriptase Inhibitor- and Protease Inhibitor-resistant Strains: Dolutegravir demonstrated equivalent antiviral activity against 2 NNRTI-resistant, 3 NRTI-resistant, and 2 PI-resistant HIV-1 mutant clones compared with the wild-type strain.
+Reverse Transcriptase Inhibitor- and Protease Inhibitor-Resistant Strains: Dolutegravir demonstrated equivalent antiviral activity against 2 NNRTI-resistant, 3 NRTI-resistant, and 2 PI-resistant HIV-1 mutant clones compared with the wild-type strain.

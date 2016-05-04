@@ -43,7 +43,7 @@ Who should not take TIVICAY?
 
 Do not take TIVICAY if you:
 
-- •have ever had an allergic reaction to a medicine that contains dolutegravir (TIVICAY, TRIUMEQ).
+- •have ever had an allergic reaction to a medicine that contains dolutegravir (TIVICAY, TRIUMEQ®).
 - •take dofetilide (TIKOSYN®).
   Taking TIVICAY and dofetilide (TIKOSYN) can cause side effects that may be life-threatening.
 
@@ -61,7 +61,6 @@ Before you take TIVICAY, tell your healthcare provider if you:
   There is a pregnancy registry for women who take antiviral medicines during pregnancy.
   The purpose of the registry is to collect information about the health of you and your baby.
   Talk to your healthcare provider about how you can take part in this registry.
-
 - •are breastfeeding or plan to breastfeed.
   Do not breastfeed if you take TIVICAY.
   - •You should not breastfeed if you have HIV-1 because of the risk of passing HIV-1 to your baby.
@@ -200,14 +199,14 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-Revised: August 2015
+Revised: April 2016
 
-TVC:4PIL
+TVC:5PIL
 
-©2015, the ViiV Healthcare group of companies.
+©2016 the ViiV Healthcare group of companies.
 All rights reserved.
 
-TIVICAY and LEXIVA are registered trademarks of the ViiV Healthcare group of companies.
+TIVICAY, TRIUMEQ, and LEXIVA are registered trademarks of the ViiV Healthcare group of companies.
 
 The brands listed are trademarks of their respective owners and are not trademarks of the ViiV Healthcare group of companies.
 The makers of these brands are not affiliated with and do not endorse the ViiV Healthcare group of companies or its products.

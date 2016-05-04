@@ -5,7 +5,7 @@ The use of TIVICAY in pediatric patients aged 12 years and older is based on eva
 
 ## 14.1 Adult Subjects
 
-Treatment-naïve Subjects
+Treatment-Naïve Subjects
 
 In SPRING-2, 822 subjects were randomized and received at least 1 dose of either TIVICAY 50 mg once daily or raltegravir 400 mg twice daily, both in combination with fixed-dose dual NRTI treatment (either abacavir sulfate and lamivudine [EPZICOM] or emtricitabine/tenofovir [TRUVADA]).
 There were 808 subjects included in the efficacy and safety analyses.
@@ -14,64 +14,69 @@ At baseline, the median age of subjects was 36 years, 13% female, 15% non-white,
 In SINGLE, 833 subjects were randomized and received at least 1 dose of either TIVICAY 50 mg once daily with fixed-dose abacavir sulfate and lamivudine (EPZICOM) or fixed-dose efavirenz/emtricitabine/tenofovir (ATRIPLA).
 At baseline, the median age of subjects was 35 years, 16% female, 32% non-white, 7% had hepatitis C co-infection (hepatitis B virus co-infection was excluded), 4% were CDC Class C (AIDS), 32% had HIV-1 RNA greater than 100,000 copies per mL, and 53% had CD4+ cell count less than 350 cells per mm3; these characteristics were similar between treatment groups.
 
-Week 96 outcomes for SPRING-2 and SINGLE are provided in Table 12.
+Outcomes for SPRING-2 (Week 96 analysis) and SINGLE (Week 144 open-label phase analysis which followed the Week 96 double-blind phase) are provided in Table 12.
 Side-by-side tabulation is to simplify presentation; direct comparisons across trials should not be made due to differing trial designs.
 
 Table 12.
-Virologic Outcomes of Randomized Treatment in SPRING-2 and SINGLE at Week 96 (Snapshot Algorithm)
+Virologic Outcomes of Randomized Treatment in SPRING-2 at Week 96 and SINGLE at Week 144 (Snapshot Algorithm)
 
-|  | SPRING-2 |  | SINGLE |  |
+|  | SPRING-2 Week 96 |  | SINGLE Week 144 |  |
 | --- | --- | --- | --- | --- |
 | TIVICAY 50 mg Once Daily + 2 NRTIs (n = 403) | Raltegravir 400 mg Twice Daily + 2 NRTIs (n = 405) | TIVICAY 50 mg + EPZICOM Once Daily (n = 414) | ATRIPLA Once Daily (n = 419) |  |
-| HIV-1 RNA <50 copies/mL | 82% | 78% | 80% | 72% |
-| Treatment differencea | 4.9% (95% CI: -0.6%, 10.3%) |  | 8.0% (95% CI: 2.3%, 13.8%) |  |
-| Virologic nonresponseb | 5% | 10% | 7% | 8% |
-| No virologic data | 12% | 12% | 12% | 20% |
+| HIV-1 RNA <50 copies/mL | 82% | 78% | 71% | 63% |
+| Treatment differencea | 4.9% (95% CI: -0.6%, 10.3%)d |  | 8.3% (95% CI: 2.0%, 14.6%)e |  |
+| Virologic nonresponse | 5% | 10% | 10% | 7% |
+| Data in window not <50 copies/mL | 1% | 3% | 4% | <1% |
+| Discontinued for lack of efficacy | 2% | 3% | 3% | 3% |
+| Discontinued for other reasons while not suppressed | <1% | 3% | 3% | 4% |
+| Change in ART regimen | <1% | <1% | 0 | 0 |
+| No virologic data | 12% | 12% | 18% | 30% |
 | Reasons |  |  |  |  |
-| Discontinued study/study drug due to adverse event or deathc | 2% | 2% | 3% | 11% |
-| Discontinued study/study drug for other reasonsd | 8% | 9% | 9% | 8% |
-| Missing data during window but on study | 2% | <1% | <1% | 0 |
+| Discontinued study/study drug due to adverse event or deathb | 2% | 2% | 4% | 14% |
+| Discontinued study/study drug for other reasonsc | 8% | 9% | 12% | 13% |
+| Missing data during window but on study | 2% | <1% | 2% | 3% |
 | Proportion (%) of Subjects with HIV-1 RNA <50 copies/mL by Baseline Category |  |  |  |  |
 | Plasma viral load (copies/mL) |  |  |  |  |
-| ≤100,000 | 84% | 83% | 85% | 73% |
-| >100,000e | 79% | 63% | 71% | 72% |
+| ≤100,000 | 84% | 83% | 73% | 64% |
+| >100,000 | 79% | 63% | 69% | 61% |
 | Gender |  |  |  |  |
-| Male | 84% | 79% | 81% | 75% |
-| Female | 70% | 68% | 76% | 56% |
+| Male | 84% | 79% | 72% | 66% |
+| Female | 70% | 68% | 69% | 48% |
 | Race |  |  |  |  |
-| White | 83% | 78% | 79% | 77% |
-| African-American/African Heritage/Other | 77% | 75% | 83% | 62% |
+| White | 83% | 78% | 72% | 71% |
+| African-American/African Heritage/Other | 77% | 75% | 71% | 47% |
 
 aAdjusted for pre-specified stratification factors.
 
-bIncludes subjects who changed background regimen (BR) to new class or changed BR not permitted per protocol or due to lack of efficacy prior to Week 96 (for SPRING-2 only), subjects who discontinued prior to Week 96 for lack or loss of efficacy, and subjects who were HIV-1 RNA greater than or equal to 50 copies per mL in the Week 48 window.
+bIncludes subjects who discontinued due to an adverse event or death at any time point if this resulted in no virologic data on treatment during the analysis window.
 
-cIncludes subjects who discontinued due to an adverse event or death at any time point from Day 1 through the Week 96 window if this resulted in no virologic data on treatment during the Week 96 window.
+cOther includes reasons such as withdrew consent, loss to follow-up, moved, and protocol deviation.
 
-dOther includes reasons such as withdrew consent, loss to follow-up, moved, and protocol deviation.
+dThe primary endpoint was assessed at Week 48 and the virologic success rate was 88% in the group receiving TIVICAY and 86% in the raltegravir group, with a treatment difference of 2.6% and 95% CI of (-1.9%, 7.2%).
 
-e In SINGLE, the proportion of subjects who had no virologic data due to reasons such as withdrew consent, lost to follow-up, moved, and protocol deviation was 10% (TIVICAY + EPZICOM) and 6% (ATRIPLA) in the greater-than-100,000–copies-per-mL group and 8% and 9% (respectively) in the less-than-or-equal-to-100,000–copies-per-mL group.
+eThe primary endpoint was assessed at Week 48 and the virologic success rate was 88% in the group receiving TIVICAY and 81% in the ATRIPLA group, with a treatment difference of 7.4% and 95% CI of (2.5%, 12.3%).
 
 SPRING-2: Virologic outcomes were also comparable across baseline characteristics including CD4+ cell count, age, and use of EPZICOM or TRUVADA as NRTI background regimen.
 The median change in CD4+ cell counts from baseline were 276 cells per mm3 in the group receiving TIVICAY and 264 cells per mm3 for the raltegravir group at 96 weeks.
 
 There was no treatment-emergent resistance to dolutegravir or to the NRTI background.
 
-SINGLE: Treatment differences were maintained across baseline characteristics including CD4+ cell count, age, gender, and race.
+SINGLE: Treatment differences were maintained across baseline characteristics including baseline viral load, CD4+ cell count, age, gender, and race.
 
-The adjusted mean changes in CD4+ cell counts from baseline were 325 cells per mm3 in the group receiving TIVICAY + EPZICOM and 281 cells per mm3 for the ATRIPLA group at 96 weeks.
-The adjusted difference between treatment arms and 95% CI was 44.0 cells per mm3 (14.3 cells per mm3, 73.6 cells per mm3) (adjusted for pre-specified stratification factors: baseline HIV-1 RNA, baseline CD4+ cell count, and multiplicity).
+The adjusted mean changes in CD4+ cell counts from baseline were 378 cells per mm3 in the group receiving TIVICAY + EPZICOM and 332 cells per mm3 for the ATRIPLA group at 144 weeks.
+The adjusted difference between treatment arms and 95% CI was 46.9 cells per mm3 (15.6 cells per mm3, 78.2 cells per mm3) (adjusted for pre-specified stratification factors: baseline HIV-1 RNA, and baseline CD4+ cell count).
 
 There was no treatment-emergent resistance to dolutegravir, abacavir, or lamivudine.
 
 FLAMINGO: In FLAMINGO, 485 subjects were randomized and received at least 1 dose of either TIVICAY 50 mg once daily (n = 243) or darunavir + ritonavir 800 mg/100 mg once daily (n = 242), both in combination with investigator-selected NRTI background regimen (either fixed-dose abacavir and lamivudine [EPZICOM] or fixed-dose emtricitabine/tenofovir disoproxil fumarate [TRUVADA]).
 There were 484 subjects included in the efficacy and safety analyses.
 At baseline, the median age of subjects was 34 years, 15% female, 28% non-white, 10% had hepatitis B and/or C virus co-infection, 3% were CDC Class C (AIDS), 25% had HIV‑1 RNA greater than 100,000 copies per mL, and 35% had CD4+ cell count less than 350 cells per mm3; these characteristics were similar between treatment groups.
-Overall response rates by Snapshot algorithm through Week 48 were 90% for TIVICAY and 83% for darunavir/ritonavir.
-The adjusted difference in proportion and 95% CI was 7.1% (0.9%, 13.2%).
+Overall response rates by Snapshot algorithm through Week 96 were 80% for TIVICAY and 68% for darunavir/ritonavir.
+The proportion of subjects who were non-responders (HIV-1 RNA greater than or equal to 50 copies per mL) at Week 96 was 8% and 12% in the arms receiving TIVICAY and darunavir + ritonavir, respectively; no virologic data were available for 12% and 21% for subjects treated with TIVICAY and darunavir + ritonavir, respectively.
+The adjusted overall response rate difference in proportion and 95% CI was 12.4% (4.7%, 20.2%).
 No treatment-emergent primary resistance substitutions were observed in either treatment group.
 
-Treatment-experienced, Integrase Strand Transfer Inhibitor-naïve Subjects
+Treatment-Experienced, Integrase Strand Transfer Inhibitor-Naïve Subjects
 
 In the international, multicenter, double-blind trial (SAILING), 719 HIV‑1‑ infected, antiretroviral treatment-experienced adults were randomized and received either TIVICAY 50 mg once daily or raltegravir 400 mg twice daily with investigator-selected background regimen consisting of up to 2 agents, including at least 1 fully active agent.
 There were 715 subjects included in the efficacy and safety analyses.
@@ -118,7 +123,7 @@ Treatment differences were maintained across the baseline characteristics includ
 
 The mean changes in CD4+ cell counts from baseline were 162 cells per mm3 in the group receiving TIVICAY and 153 cells per mm3 in the raltegravir group.
 
-Treatment-experienced, Integrase Strand Transfer Inhibitor-experienced Subjects
+Treatment-Experienced, Integrase Strand Transfer Inhibitor-Experienced Subjects
 
 VIKING-3 examined the effect of TIVICAY 50 mg twice daily over 7 days of functional monotherapy, followed by optimized background therapy (OBT) with continued treatment of TIVICAY 50 mg twice daily.
 

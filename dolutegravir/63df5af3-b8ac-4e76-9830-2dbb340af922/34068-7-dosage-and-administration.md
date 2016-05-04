@@ -19,7 +19,7 @@ The safety and efficacy of doses above 50 mg twice daily have not been evaluated
 
 ## 2.2 Pediatric Patients
 
-Treatment-naïve or Treatment-experienced INSTI-naïve
+Treatment-Naïve or Treatment-Experienced INSTI-Naïve
 
 The recommended dose of TIVICAY in pediatric patients aged 12 years and older and weighing at least 40 kg is 50 mg administered orally once daily.
 
