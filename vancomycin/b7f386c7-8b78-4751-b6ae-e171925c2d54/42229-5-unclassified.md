@@ -1,1 +1,1 @@
-VANCOCIN® (vancomycin hydrochloride, USP) CAPSULES
+VANCOCIN®(vancomycin hydrochloride, USP) CAPSULES

@@ -3,10 +3,10 @@
 ## 5.1 Oral Use Only
 
 This preparation for the treatment of colitis is for oral use only and is not systemically absorbed.
-VANCOCIN CAPSULES must be given orally for treatment of staphylococcal enterocolitis and Clostridium difficile-associated diarrhea.
+VANCOCIN CAPSULES must be given orally for treatment of staphylococcal enterocolitis andClostridium difficile-associated diarrhea.
 Orally administered VANCOCIN CAPSULES are not effective for other types of infections.
 
-Parenteral administration of vancomycin is not effective for treatment of staphylococcal enterocolitis and C. difficile-associated diarrhea.
+Parenteral administration of vancomycin isnoteffective for treatment of staphylococcal enterocolitis andC. difficile-associated diarrhea.
 If parenteral vancomycin therapy is desired, use an intravenous preparation of vancomycin and consult the package insert accompanying that preparation.
 
 ## 5.2 Potential for Systemic Absorption
