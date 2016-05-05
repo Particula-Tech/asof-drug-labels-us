@@ -8,4 +8,4 @@ Storage
 
 Store at controlled room temperature 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 
-The stopper in the Caldolor vial does not contain natural rubber latex, dry natural rubber, or blends of natural rubber.
+The stopper in the CALDOLOR vial does not contain natural rubber latex, dry natural rubber, or blends of natural rubber.

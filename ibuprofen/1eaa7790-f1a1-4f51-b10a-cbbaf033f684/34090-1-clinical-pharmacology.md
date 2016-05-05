@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-CALDOLOR has analgesic, anti-inflammatory, and antipyretic properties.
+Ibuprofen has analgesic, anti-inflammatory, and antipyretic properties.
 
 The mechanism of action of CALDOLOR, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2).
 

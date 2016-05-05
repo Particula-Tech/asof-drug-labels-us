@@ -29,7 +29,7 @@ The incidence rates of adverse reactions listed in the following table were deri
 
 Table 1: Post-operative Patients with Adverse Reactions Observed in ≥ 3% of Patients in any CALDOLOR Treatment Group in Pain Studies*
 
-| Event | Caldolor |  | Placebo (N=287) |
+| Event | CALDOLOR |  | Placebo (N=287) |
 | --- | --- | --- | --- |
 | 400 mg (N=134) | 800 mg (N=304) |  |  |
 | Any Reaction | 118 (88%) | 260 (86%) | 258 (90%) |

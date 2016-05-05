@@ -25,7 +25,7 @@ For weight-based dosing at 10 mg/kg ensure that the concentration of CALDOLOR is
 Visually inspect parenteral drug products for particulate matter and discoloration prior to administration, whenever solution and container permit.
 If visibly opaque particles, discoloration or other foreign particulates are observed, the solution should not be used.
 
-Diluted solutions are stable for up to 24 hours at ambient temperature (approximately 20 to 25° C) and room lighting.
+Diluted solutions are stable for up to 24 hours at ambient temperature (approximately 20° C to 25° C) and room lighting.
 
 ## 2.2 Adults
 

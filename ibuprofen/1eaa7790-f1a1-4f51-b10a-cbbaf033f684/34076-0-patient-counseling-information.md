@@ -30,6 +30,10 @@ Serious Skin Reactions
 
 Advise patients to stop CALDOLOR immediately if they develop any type of rash and to contact their healthcare provider as soon as possible [see Warnings and Precautions (5.9)].
 
+Female Fertility
+
+Advise females of reproductive potential who desire pregnancy that NSAIDs, including CALDOLOR, may be associated with a reversible delay in ovulation [see Use in Specific Populations (8.3)]
+
 Fetal Toxicity
 
 Inform pregnant women to avoid use of CALDOLOR and other NSAIDs starting at 30 weeks gestation because of the risk of the premature closing of the fetal ductus arteriosus [see Warnings and Precautions (5.10) and Use in Specific Populations (8.1)].
