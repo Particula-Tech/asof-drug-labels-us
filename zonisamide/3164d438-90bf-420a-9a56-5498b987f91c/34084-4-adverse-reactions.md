@@ -69,7 +69,7 @@ Other Adverse Reactions in Clinical Trials: Zonisamide has been administered to 
 The frequencies represent the proportion of the 1,598 individuals exposed to zonisamide who experienced an event on at least one occasion.
 All events are included except those already listed in the previous table or discussed in WARNINGS or PRECAUTIONS, trivial events, those too general to be informative, and those not reasonably associated with zonisamide.
 
-Events are further classified within each category and listed in order of decreasing frequency as follows: frequent occurring in at least 1:100 patient; infrequent occurring in 1:100 to 1:1,000 patients; rare occurring in fewer than 1:1,000 patients.
+Events are further classified within each category and listed in order of decreasing frequency as follows: frequent occurring in at least 1:100 patients; infrequent occurring in 1:100 to 1:1,000 patients; rare occurring in fewer than 1:1,000 patients.
 
 Body as a Whole: Frequent: Accidental injury, asthenia.
 Infrequent: Chest pain, flank pain, malaise, allergic reaction, face edema, neck rigidity.
@@ -115,4 +115,6 @@ POST MARKETING EXPERIENCE
 The following serious adverse reactions have been reported since approval and use of zonisamide worldwide.
 These reactions are reported voluntarily from a population of uncertain size; therefore, it is not possible to estimate their frequency or establish a causal relationship to drug exposure.
 
-Acute pancreatitis, rhabdomyolysis, increased creatine phosphokinase.
+Acute pancreatitis, rhabdomyolysis, increased creatine phosphokinase, and drug reaction with eosinophilia and systemic symptoms (DRESS) (see WARNINGS).
+
+To report SUSPECTED ADVERSE REACTIONS, contact Sun Pharmaceutical Industries, Inc. at 1-800-818-4555 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
