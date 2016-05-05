@@ -5,3 +5,4 @@
 3. Hypersensitivity to gemfibrozil.
 4. Combination therapy of gemfibrozil with repaglinide (see PRECAUTIONS).
 5. Combination therapy of gemfibrozil with simvastatin (see WARNINGS andPRECAUTIONS).
+6. Combination therapy of gemfibrozil with dasabuvir (see PRECAUTIONS).

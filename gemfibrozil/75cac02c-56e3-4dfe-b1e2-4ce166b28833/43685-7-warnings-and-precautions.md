@@ -35,7 +35,7 @@ Gemfibrozil therapy should be discontinued if gallstones are found.
 Cases of cholelithiasis have been reported with gemfibrozil therapy.
 
 3.
-Since a reduction of mortality from coronary heart disease has not been demonstrated and because liver and interstitial cell testicular tumors were increased in rats, gemfibrozil should be administered only to those patients described in the INDICATIONS AND USAGEsection.
+Since a reduction of mortality from coronary heart disease has not been demonstrated and because liver and interstitial cell testicular tumors were increased in rats, gemfibrozil should be administered only to those patients described in the INDICATIONS AND USAGE section.
 If a significant serum lipid response is not obtained, gemfibrozil should be discontinued.
 
 4.
@@ -52,7 +52,13 @@ Patients receiving gemfibrozil and complaining of muscle pain, tenderness, or we
 If myositis is suspected or diagnosed, gemfibrozil therapy should be withdrawn.
 
 6.
-Cataracts- Subcapsular bilateral cataracts occurred in 10%, and unilateral in 6.3%, of male rats treated with gemfibrozil at 10 times the human dose.
+Cataracts - Subcapsular bilateral cataracts occurred in 10%, and unilateral in 6.3%, of male rats treated with gemfibrozil at 10 times the human dose.
+7.
+CYP2C8 substrates - Gemfibrozil, an inhibitor of CYP2C8, may increase exposure of CYP2C8 substrates when administered concomitantly (see PRECAUTIONS, Drug Interactions).
+8.
+OATP1B1 substrates – Gemfibrozil is an inhibitor of organic anion-transporter polyprotein (OATP) 1B1 and may increase exposure of drugs that are substrates of OATP1B1 (e.g., atrasentan, atorvastatin, bosentan, ezetimibe, fluvastatin, glyburide, SN38 [active metabolite of irinotecan], rosuvastatin, pitavastatin, pravastatin, rifampin, valsartan, olmesartan).
+Therefore, dosing reductions of drugs that are substrates of OATP1B1 may be required when gemfibrozil is used concomitantly (see PRECAUTIONS, Drug Interactions).
+Combination therapy of gemfibrozil with simvastatin or with repaglinide, which are OATP1B1 substrates, is contraindicated (see CONTRAINDICATIONS).
 
 # PRECAUTIONS
 
@@ -80,18 +86,32 @@ CAUTION SHOULD BE EXERCISED WHEN WARFARIN IS GIVEN IN CONJUNCTION WITH GEMFIBROZ
 THE DOSAGE OF WARFARIN SHOULD BE REDUCED TO MAINTAIN THE PROTHROMBIN TIME AT THE DESIRED LEVEL TO PREVENT BLEEDING COMPLICATIONS.
 FREQUENT PROTHROMBIN DETERMINATIONS ARE ADVISABLE UNTIL IT HAS BEEN DEFINITELY DETERMINED THAT THE PROTHROMBIN LEVEL HAS STABILIZED.
 
-### (C) Repaglinide:
+### (C) CYP2C8 Substrates:
 
-In healthy volunteers, co-administration with gemfibrozil (600 mg twice daily for 3 days) resulted in an 8.1-fold (range 5.5- to 15.0- fold) higher repaglinide AUC and a 28.6-fold (range 18.5- to 80.1-fold) higher repaglinide plasma concentration 7 hours after the dose.
+Gemfibrozil is an inhibitor of CYP2C8 and may increase exposure of drugs mainly metabolized by CYP2C8 (e.g., dabrafenib, loperamide, montelukast, paclitaxel, pioglitazone, rosiglitazone).
+Therefore, dosing reduction of drugs that are mainly metabolized by CYP2C8 enzyme may be required when gemfibrozil is used concomitantly (see WARNINGS).
+Repaglinide: In healthy volunteers, co-administration with gemfibrozil (600 mg twice daily for 3 days) resulted in an 8.1-fold (range 5.5- to 15.0- fold) higher repaglinide AUC and a 28.6-fold (range 18.5- to 80.1-fold) higher repaglinide plasma concentration 7 hours after the dose.
 In the same study, gemfibrozil (600 mg twice daily for 3 days) + itraconazole (200 mg in the morning and 100 mg in the evening at Day 1, then 100 mg twice daily at Day 2-3) resulted in a 19.4- (range 12.9- to 24.7-fold) higher repaglinide AUC and a 70.4-fold (range 42.9- to 119.2-fold) higher repaglinide plasma concentration 7 hours after the dose.
 In addition, gemfibrozil alone or gemfibrozil + itraconazole prolonged the hypoglycemic effects of repaglinide.
 Co-administration of gemfibrozil and repaglinide increases the risk of severe hypoglycemia and is contraindicated (see CONTRAINDICATIONS).
+Dasabuvir: Co-administration of gemfibrozil with dasabuvir increased dasabuvir AUC and Cmax (ratios: 11.3 and 2.01, respectively) due to CYP2C8 inhibition.
+Increased dasabuvir exposure may increase the risk of QT prolongation, therefore, coadministration of gemfibrozil with dasabuvir is contraindicated (see CONTRAINDICATIONS).
 
-### (D) Bile Acid-Binding Resins:
+### (D) OATP1B1 substrates:
+
+Gemfibrozil is an inhibitor of OATP1B1 transporter and may increase exposure of drugs that are substrates of OATP1B1 (e.g., atrasentan, atorvastatin, bosentan, ezetimibe, fluvastatin, glyburide, SN-38 [active metabolite of irinotecan], rosuvastatin, pitavastatin, pravastatin, rifampin, valsartan, olmesartan).
+Therefore, dosing reductions of drugs that are substrates of OATP1B1 may be required when gemfibrozil is used concomitantly (see WARNINGS).
+Combination therapy of gemfibrozil with simvastatin or with repaglinide, which are OATP1B1 substrates, is contraindicated (see CONTRAINDICATIONS).
+
+### (E) In vitro studies of CYP enzymes, UGTA enzymes and OATP1B1 transporter:
+
+In vitro studies have shown that gemfibrozil is an inhibitor of CYP1A2, CYP2C8, CYP2C9, CYP2C19, OATP1B1, and UDP-glucuronosyltransferase (UGT) 1A1 and 1A3 (see WARNINGS).
+
+### (F) Bile Acid-Binding Resins:
 
 Gemfibrozil AUC was reduced by 30% when gemfibrozil was given (600 mg) simultaneously with resin-granule drugs such as colestipol (5 g). Administration of the drugs two hours or more apart is recommended because gemfibrozil exposure was not significantly affected when it was administered two hours apart from colestipol.
 
-### (E) Colchicine
+### (G) Colchicine
 
 Myopathy, including rhabdomyolysis, has been reported with chronic administration of colchicine at therapeutic doses.
 Concomitant use of gemfibrozil may potentiate the development of myopathy.

@@ -14,4 +14,4 @@ KEEP THIS AND ALL MEDICATION OUT OF REACH OF CHILDREN.
 Manufactured for: Northstar Rx LLC Memphis, TN38141 Toll Free Number: 1-800-206-7821 Manufactured by: Piramal Enterprises Limited Plot No. 67-70, Sector -2, Pithampur 454775, Dist.
 Dhar, Madhya Pradesh, INDIA.
 
-October 2015
+April 2016
