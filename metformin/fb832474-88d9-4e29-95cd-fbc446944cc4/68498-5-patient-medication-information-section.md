@@ -1,4 +1,4 @@
-FDA-APPROVED PATIENT LABELING
+# Patient Information
 
 GLUMETZA (Gloo-met-za)
 
@@ -13,34 +13,38 @@ What is the most important information I should know about GLUMETZA?
 
 Serious side effects can happen in people taking GLUMETZA, including:
 
-Lactic Acidosis.
-Metformin hydrochloride, the medicine in GLUMETZA can cause a rare, but serious condition called lactic acidosis (a buildup of an acid in the blood) that can cause death.
+lactic acidosis.
+Metformin, one of the medicines in GLUMETZA can cause a rare but serious condition called lactic acidosis (a buildup of an acid in the blood) that can cause death.
 Lactic acidosis is a medical emergency and must be treated in the hospital.
 
-Stop taking GLUMETZA and call your doctor right away if you get any of the following symptoms of lactic acidosis:
+Call your doctor right away if you have any of the following symptoms, which could be signs of lactic acidosis:
 
-- •feel very weak or tired
-- •have unusual (not normal) muscle pain
-- •have trouble breathing
-- •have unusual sleepiness or sleep longer than usual
-- •have unexplained stomach or intestinal problems with nausea and vomiting, or diarrhea
-- •feel cold, especially in your arms and legs
-- •feel dizzy or lightheaded
-- •have a slow or irregular heartbeat
+- •you feel cold in your hands or feet
+- •you feel dizzy or lightheaded
+- •you have a slow or irregular heartbeat
+- •you feel very weak or tired
+- •you have unusual (not normal) muscle pain
+- •you have trouble breathing
+- •you feel sleepy or drowsy
+- •you have stomach pains, nausea or vomiting
 
-You have a higher chance for getting lactic acidosis with GLUMETZA if you:
+Most people who have had lactic acidosis with metformin have other things that, combined with the metformin, led to the lactic acidosis.
+Tell your doctor if you have any of the following, because you have a higher chance for getting lactic acidosis with GLUMETZA if you:
 
-- •have kidney problems.
-  People whose kidneys are not working properly should not take GLUMETZA.
+- •have severe kidney problems or your kidneys are affected by certain x-ray tests that use injectable dye.
 - •have liver problems
-- •have congestive heart failure that requires treatments with medicines
-- •drink a lot of alcohol (very often or short-term “binge” drinking)
+- •drink alcohol very often, or drink a lot of alcohol in short-term "binge" drinking
 - •get dehydrated (lose a large amount of body fluids).
   This can happen if you are sick with a fever, vomiting, or diarrhea.
-  Dehydration can also happen when you sweat a lot with activity or exercise and do not drink enough fluids.
-- •have certain x-ray tests with injectable dyes or contrast agent
+  Dehydration can also happen when you sweat a lot with activity or exercise and do not drink enough fluids
 - •have surgery
 - •have a heart attack, severe infection, or stroke
+
+The best way to keep from having a problem with lactic acidosis from metformin is to tell your doctor if you have any of the problems in the list above.
+Your doctor may decide to stop your GLUMETZA for a while if you have any of these things.
+
+GLUMETZA can have other serious side effects.
+See “What are the possible side effects of GLUMETZA?”
 
 What is GLUMETZA?
 
@@ -54,10 +58,10 @@ Who should not take GLUMETZA?
 
 Do not take GLUMETZA if you:
 
-- •have kidney problems
+- •have severe kidney problems
 - •are allergic to the metformin hydrochloride in GLUMETZA or any of the ingredients in GLUMETZA.
   See the end of this leaflet for a list of ingredients in GLUMETZA.
-- •you are going to get an injection of dye or contrast agents for an x-ray procedure, GLUMETZA will need to be stopped for a short time.
+- •are going to get an injection of dye or contrast agents for an x-ray procedure, GLUMETZA may need to be stopped for a short time.
   Talk to your doctor about when you should stop GLUMETZA and when you should start GLUMETZA again.
   See “What is the most important information I should know about GLUMETZA?”
 - •have a condition called metabolic acidosis or diabetic ketoacidosis (increased ketones in your blood or urine).
@@ -70,7 +74,9 @@ Before you take GLUMETZA, tell your doctor if you:
   GLUMETZA should not be used to treat people with type 1 diabetes.
 - •have a history or risk for diabetic ketoacidosis (high levels of certain acids, known as ketones, in the blood or urine).
   GLUMETZA should not be used for the treatment of diabetic ketoacidosis.
-- •have kidney problems
+- •have severe kidney problems
+- •are going to get an injection of dye or contrast agents for an x-ray procedure, GLUMETZA may need to be stopped for a short time.
+  Talk to your doctor about when you should stop GLUMETZA and when you should start GLUMETZA again.
 - •have liver problems
 - •have heart problems, including congestive heart failure.
 - •drink alcohol very often, or drink a lot of alcohol in short-term (binge) drinking
@@ -83,7 +89,7 @@ Before you take GLUMETZA, tell your doctor if you:
   It is not known if GLUMETZA passes into your breast milk.
   Talk with your doctor about the best way to feed your baby while you take GLUMETZA.
 
-Tell your doctor about all the medicines you take, including prescription and nonprescription medicines, vitamins and herbal supplements.
+Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins and herbal supplements.
 Know the medicines you take.
 Keep a list of them to show your doctor and pharmacist.
 Talk to your doctor before you start any new medicine.
@@ -93,7 +99,7 @@ GLUMETZA may affect the way other medicines work, and other medicines may affect
 How should I take GLUMETZA?
 
 - •Take GLUMETZA exactly as your doctor tells you.
-- •GLUMETZA should be taken 1 time per day with your evening meal.
+- • GLUMETZA should be taken 1 time per day with your evening meal.
 - •Swallow GLUMETZA tablets whole.
   Do not crush, cut, dissolve, or chew GLUMETZA.
 - •Tell your doctor if you cannot swallow tablets whole.
@@ -103,8 +109,8 @@ How should I take GLUMETZA?
 - •When your body is under some type of stress, such as fever, trauma (such as a car accident), infection, or surgery, the amount of diabetes medicine that you need may change.
   Tell your doctor right away if you have any of these problems.
 - •Your doctor should do blood tests to check how well your kidneys and liver are working before and during your treatment with GLUMETZA.
-- •Your healthcare provider will check your diabetes with regular blood tests, including your blood sugar levels and your hemoglobin A1C.
-- •Follow your doctor's instructions for treating blood sugar that is too low (hypoglycemia).
+- •Your healthcare provider will check your diabetes with regular blood tests, including your blood sugar levels and your hemoglobin A1c.
+- •Follow your doctor’s instructions for treating blood sugar that is too low (hypoglycemia).
   Talk to your doctor if low blood sugar is a problem for you.
   See “What are the possible side effects of GLUMETZA?”
 - •Check your blood sugar regularly and as your doctor tells you to.
@@ -122,13 +128,12 @@ GLUMETZA can cause serious side effects, including:
   Tell your doctor if you take other diabetes medicines.
   If you have symptoms of low blood sugar, you should check your blood sugar and treat if low, then call your doctor.
   Symptoms of low blood sugar include:
-  - •shaking
-  - •sweating
-  - •rapid heartbeat
-  - •change in vision
-  - •hunger
-  - •headache
-  - •change in mood
+
+| •shaking | •sweating |
+| --- | --- |
+| •rapid heartbeat | •change in vision |
+| •hunger | •headache |
+| •change in mood |  |
 
 Common side effects of GLUMETZA include:
 
@@ -137,7 +142,7 @@ Common side effects of GLUMETZA include:
 - •nausea
 - •upset stomach or stomach pain
 
-Taking GLUMETZA with your evening meal can help lessen the common stomach side effects of metformin that usually happens at the beginning of treatment.
+Taking GLUMETZA with your evening meal can help lessen the common stomach side effects of metformin that usually happen at the beginning of treatment.
 If you have unexplained stomach problems, tell your doctor.
 Stomach problems that start later, during treatment may be a sign of something more serious.
 
@@ -153,7 +158,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store GLUMETZA?
 
-- •Store GLUMETZA at 59°F to 86°F (15°C to 30°C).
+- •Store GLUMETZA at 68°F to 77°F (20° to 25°C).
 
 Keep GLUMETZA and all medicines out of the reach of children.
 
@@ -169,7 +174,7 @@ This Patient Information summarizes the most important information about GLUMETZ
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about GLUMETZA that is written for health professionals.
 
-For more information, go to www.GlumetzaXR.com or call 1-888-778-0887.
+For more information, go to www.GlumetzaXR.com or call 1-800-508-0024.
 
 What are the ingredients in GLUMETZA?
 
@@ -192,8 +197,19 @@ High blood sugar can be lowered by diet and exercise, and by certain medicines w
 
 Talk to your doctor about how to prevent, recognize, and take care of low blood sugar (hypoglycemia), high blood sugar (hyperglycemia), and problems you have because of your diabetes.
 
-Santarus, Inc. San Diego, CA 92130 1-888-778-0887 www.GlumetzaXR.com For prescription only
+Salix Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC
 
-Revised January 2013
+Bridgewater, NJ 08807 USA
 
-©2013 Santarus, Inc.
+www.GlumetzaXR.com
+
+For prescription only
+
+Rev.
+04/2016
+
+U.S. Patents 6,488,962; 7,780,987; and 8,323,692
+
+Glumetza is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+
+© Valeant Pharmaceuticals North America LLC

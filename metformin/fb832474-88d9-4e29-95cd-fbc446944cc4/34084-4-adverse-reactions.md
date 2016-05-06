@@ -2,8 +2,13 @@
 
 ## 6.1 Clinical Trials Experience
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+The following adverse reactions are discussed in more detail in other sections of the labeling:
 
+- • Lactic acidosis [see Warnings and Precautions (5.1)]
+- • Vitamin B12 Levels [see Warnings and Precautions (5.2)]
+- • Hypoglycemia [see Warnings and Precautions (5.3)]
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 In clinical trials conducted in the U.S., over 1000 patients with type 2 diabetes mellitus have been treated with GLUMETZA 1500–2000 mg/day in active-controlled and placebo-controlled studies with the 500 mg dosage form.
 
 In the 24-week monotherapy trial comparing GLUMETZA to immediate-release metformin, serious adverse reactions were reported in 3.6% (19/528) of the GLUMETZA-treated patients compared to 2.9% (5/174) of the patients treated with immediate-release metformin.
@@ -17,14 +22,13 @@ Adverse reactions reported in greater than 5% of patients treated with GLUMETZA 
 
 In 0.7% of patients treated with GLUMETZA and glyburide, diarrhea was responsible for discontinuation of study medication compared to no patients in the placebo and glyburide group.
 
-Table 1: Treatment-Emergent Adverse Reactions Reported By >5%* of Patients for the Combined GLUMETZA Groups Versus Placebo Group
+Table 1: Treatment-Emergent Adverse Reactions Reported By >5%ARs that were more common in the GLUMETZA-treated than in the placebo-treated patients. of Patients for the Combined GLUMETZA Groups Versus Placebo Group
 
 | Adverse Reaction | GLUMETZA + Glyburide (n = 431) | Placebo + Glyburide (n = 144) |
 | --- | --- | --- |
 | Hypoglycemia | 13.7% | 4.9% |
 | Diarrhea | 12.5% | 5.6% |
 | Nausea | 6.7% | 4.2% |
-| *ARs that were more common in the GLUMETZA-treated than in the placebo-treated patients. |  |  |
 
 ## 6.2 Laboratory Tests
 
@@ -32,4 +36,4 @@ Vitamin B12 concentrations
 
 Metformin may lower serum vitamin B12 concentrations.
 Measurement of hematologic parameters on an annual basis is advised in patients on GLUMETZA and any apparent abnormalities should be appropriately investigated and managed.
-(See WARNINGS AND PRECAUTIONS (5.6))
+[See Warnings and Precautions (5.2)]
