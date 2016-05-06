@@ -13,9 +13,9 @@ Advise men not to father a child while receiving treatment with VIDAZA.
 | Manufactured by: | Baxter Oncology GmbH |
 |  | 33790 Halle/Westfalen Germany |
 |  | Or |
-|  | BSP Pharmaceuticals S.r.l. |
+|  | BSP Pharmaceuticals S.p.A. |
 |  | 04013 Latina Scalo (Lt) |
 |  | Italy |
 
-VIDAZA® is a registered trademark of Celgene Corporation. ©2004-2015 Celgene Corporation, All Rights Reserved.
-VIDPI.009 12/15
+VIDAZA® is a registered trademark of Celgene Corporation. ©2004-2016 Celgene Corporation, All Rights Reserved.
+VIDPI.010 03/16
