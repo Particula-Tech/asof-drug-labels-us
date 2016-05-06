@@ -10,15 +10,16 @@ Clostridium difficile colitis
 
 Antibiotic-associated colitis (see WARNINGS), pseudomembranous colitis, abdominal pain, nausea, and vomiting.
 The onset of pseudomembranous colitis symptoms may occur during or after antibacterial treatment (see WARNINGS).
-An unpleasant or metallic taste occasionally has been reported after intravenous administration of the higher doses of clindamycin phosphate.
+An unpleasant or metallic taste has been reported after intravenous administration of the higher doses of clindamycin phosphate.
 
 ## Hypersensitivity Reactions
 
 Maculopapular rash and urticaria have been observed during drug therapy.
 Generalized mild to moderate morbilliform-like skin rashes are the most frequently reported of all adverse reactions.
+
 Severe skin reactions such as Toxic Epidermal Necrolysis, some with fatal outcome, have been reported (see WARNINGS).
 Cases of Acute Generalized Exanthematous Pustulosis (AGEP), erythema multiforme, some resembling Stevens-Johnson syndrome, have been associated with clindamycin.
-Anaphylactic shock, anaphylactoid reaction, anaphylactic reaction and hypersensitivity have also been reported.
+Anaphylactic shock, anaphylactic reaction and hypersensitivity have also been reported.
 If a hypersensitivity reaction occurs, the drug should be discontinued.
 The usual agents (epinephrine, corticosteroids, antihistamines) should be available for emergency treatment of serious reactions.
 

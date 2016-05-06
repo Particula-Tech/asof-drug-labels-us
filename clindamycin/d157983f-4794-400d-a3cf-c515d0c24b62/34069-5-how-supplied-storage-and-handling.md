@@ -14,10 +14,10 @@ Store at controlled room temperature 20° to 25°C (68° to 77°F) [see USP].
 CLEOCIN PHOSPHATE IV Solution in GALAXY plastic containers is a sterile solution of clindamycin phosphate with 5% dextrose.
 The single dose GALAXY plastic containers are available as follows:
 
-|  | 300mg/50mL | 24 Single Dose Bags | NDC 0009-3470-02 |
+|  | 300 mg/50 mL | 24 Single Dose Bags | NDC 0009-3470-02 |
 | --- | --- | --- | --- |
-|  | 600mg/50mL | 24 Single Dose Bags | NDC 0009-6780-02 |
-|  | 900mg/50mL | 24 Single Dose Bags | NDC 0009-9890-02 |
+|  | 600 mg/50 mL | 24 Single Dose Bags | NDC 0009-6780-02 |
+|  | 900 mg/50 mL | 24 Single Dose Bags | NDC 0009-9890-02 |
 
 Exposure of pharmaceutical products to heat should be minimized.
 It is recommended that GALAXY plastic containers be stored at room temperature (25°C).

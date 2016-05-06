@@ -1,6 +1,6 @@
 # WARNINGS
 
-See WARNING box.
+See BOXED WARNING.
 
 ## Clostridium difficile associated diarrhea
 
