@@ -71,7 +71,7 @@ Pediatrics
 
 The pharmacokinetics of benazaprilat, evaluated in pediatric patients with hypertension following oral administration of a single dose is presented in table below.
 
-| Age group | Cmax(ng/mL) | Tmax*(h) | AUC0-inf(ng/mL*h) | CL/F/wt(L/h/Kg) | T1/2(h) |
+| Age group | Cmax(ng/mL) | Tmax*(h) | AUC 0-inf(ng/mL*h) | CL/F/wt(L/h/Kg) | T 1/2(h) |
 | --- | --- | --- | --- | --- | --- |
 | >1 to ≤ 24 monthsn=5 | 277(192, 391) | 1(0.6, 2) | 1328(773, 2117) | 0.26(0.18, 0.4) | 5.0(4, 5.8) |
 | >2 to ≤ 6 yearsn=7 | 200(168, 244) | 2(1.4, 2.4) | 978(842, 1152) | 0.36(0.31, 0.42) | 5.5(4.7, 6.5) |
