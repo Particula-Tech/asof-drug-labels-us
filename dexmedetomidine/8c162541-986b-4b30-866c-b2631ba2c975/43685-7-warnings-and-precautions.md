@@ -9,6 +9,7 @@ Due to the known pharmacological effects of dexmedetomidine, patients should be 
 
 Clinically significant episodes of bradycardia and sinus arrest have been reported with dexmedetomidine administration in young, healthy adult volunteers with high vagal tone or with different routes of administration including rapid intravenous or bolus administration.
 Reports of hypotension and bradycardia have been associated with dexmedetomidine infusion.
+Some of these cases have resulted in fatalities.
 If medical intervention is required, treatment may include decreasing or stopping the infusion of dexmedetomidine, increasing the rate of intravenous fluid administration, elevation of the lower extremities, and use of pressor agents.
 Because dexmedetomidine has the potential to augment bradycardia induced by vagal stimuli, clinicians should be prepared to intervene.
 The intravenous administration of anticholinergic agents (e.g., glycopyrrolate, atropine) should be considered to modify vagal tone.
