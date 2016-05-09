@@ -55,7 +55,7 @@ In the two pooled 16- to 24-week add-on to sulfonylurea trials, 201 patients (18
 In the two pooled 16- to 24-week add-on to metformin trials, 155 patients (15.5%) treated with pioglitazone were ≥65 years old and 19 (1.9%) were ≥75 years old.
 In the two pooled 16- to 24-week add-on to insulin trials, 272 patients (25.4%) treated with pioglitazone were ≥65 years old and 22 (2.1%) were ≥75 years old.
 
-In PROactive trial, 1068 patients (41.0%) treated with pioglitazone were ≥65 years old and 42 (1.6%) were ≥75 years old.
+In PROactive Trial, 1068 patients (41.0%) treated with pioglitazone were ≥65 years old and 42 (1.6%) were ≥75 years old.
 
 In pharmacokinetic studies with pioglitazone, no significant differences were observed in pharmacokinetic parameters between elderly and younger patients [see Clinical Pharmacology (12.3)].
 
@@ -64,7 +64,15 @@ Although clinical experiences have not identified differences in effectiveness a
 Metformin hydrochloride
 
 Controlled clinical studies of metformin did not include sufficient numbers of elderly patients to determine whether they respond differently from younger patients, although other reported clinical experience has not identified differences in responses between the elderly and young patients.
-Metformin is known to be substantially excreted by the kidney and because the risk of serious adverse reactions to the drug is greater in patients with impaired renal function, ACTOPLUS MET should only be used in patients with normal renal function [see Contraindications (4), Warnings and Precautions (5.2), and Clinical Pharmacology (12.3)].
-Because aging is associated with reduced renal function, ACTOPLUS MET should be used with caution as age increases.
-Care should be taken in dose selection and should be based on careful and regular monitoring of renal function.
-Generally, elderly patients should not be titrated to the maximum dose of ACTOPLUS MET [see Warnings and Precautions (5.2) and Dosage and Administration (2)].
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy and the higher risk of lactic acidosis.
+Assess renal function more frequently in elderly patients [see Warnings and Precautions (5.2) and Dosage and Administration (2.2)].
+
+## 8.6 Renal Impairment
+
+Metformin is substantially excreted by the kidney, and the risk of metformin accumulation and lactic acidosis increases with the degree of renal impairment.
+ACTOPLUS MET is contraindicated in severe renal impairment, patients with an eGFR below 30 mL/min/1.73 m2 [see Dosage and Administration (2.2), Contraindications (4), Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
+
+## 8.7 Hepatic Impairment
+
+Use of metformin in patients with hepatic impairment has been associated with some cases of lactic acidosis.
+ACTOPLUS MET is not recommended in patients with hepatic impairment [see Warnings and Precautions (5.2)].

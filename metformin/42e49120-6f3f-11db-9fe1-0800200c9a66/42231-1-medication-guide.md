@@ -30,31 +30,32 @@ ACTOPLUS MET can cause serious side effects, including:
   Metformin, one of the medicines in ACTOPLUS MET, can cause a rare but serious condition called lactic acidosis (a buildup of an acid in the blood) that can cause death.
   Lactic acidosis is a medical emergency and must be treated in the hospital.
   - Call your doctor right away if you have any of the following symptoms, which could be signs of lactic acidosis:
+- o you feel cold in your hands or feet
+
+- o you feel dizzy or lightheaded
+
+- o you have a slow irregular heartbeat
+
 - o you feel weak or tired
 
 - o you have unusual (not normal) muscle pain
 
-- o you have stomach pains, nausea, or vomiting
-
 - o you have trouble breathing
 
-- o you feel dizzy or lightheaded
+- o you feel sleepy or drowsy
 
-- o you have a slow or irregular heartbeat
+- o you have stomach pains, nausea, or vomiting
 
 Most people who have had lactic acidosis with metformin have other things that, combined with the metformin, led to the lactic acidosis.
 Tell your doctor if you have any of the following, because you have a higher chance for getting lactic acidosis with ACTOPLUS MET if you:
 
-- •have kidney problems or your kidneys are affected by certain x-ray tests that use injectable dye.
-  People whose kidneys are not working properly should not take ACTOPLUS MET
-- •have liver problems
-- •drink alcohol very often, or drink a lot of alcohol in short-term "binge" drinking
-- •get dehydrated (lose a large amount of body fluids).
+- have severe kidney problems or your kidneys are affected by certain x-ray tests that use injectable dye. have liver problems
+- drink alcohol very often, or drink a lot of alcohol in short-term "binge" drinking
+- dehydrated (lose a large amount of body fluids).
   This can happen if you are sick with a fever, vomiting, or diarrhea.
   Dehydration can also happen when you sweat a lot with activity or exercise and do not drink enough fluids
-- •have surgery
-- •have a heart attack, severe infection, or stroke
-- •are 80 years of age or older and have not had your kidneys tested
+- have surgery
+- have a heart attack, severe infection, or stroke
 
 The best way to keep from having a problem with lactic acidosis from metformin is to tell your doctor if you have any of the problems in the list above.
 Your doctor may decide to stop your ACTOPLUS MET for a while if you have any of these things.
@@ -83,7 +84,7 @@ Do not take ACTOPLUS MET if you:
 - •have severe heart failure
 - •are allergic to pioglitazone, metformin, or any of the ingredients in ACTOPLUS MET.
   See the end of this Medication Guide for a complete list of ingredients in ACTOPLUS MET
-- •have kidneys which are not working properly
+- •have severe kidney problems
 - •have a condition called metabolic acidosis, including diabetic ketoacidosis.
   Diabetic ketoacidosis should be treated with insulin
 
@@ -94,7 +95,7 @@ What should I tell my doctor before taking ACTOPLUS MET?
 Before you take ACTOPLUS MET, tell your doctor if you:
 
 - •have heart failure
-- •have kidney problems
+- •have severe kidney problems
 - •are going to have dye injected into a vein for an x-ray, CAT scan, heart study, or other type of scanning
 - •will be undergoing a surgical procedure
 - •drink a lot of alcohol (all the time or short binge drinking)
@@ -188,11 +189,11 @@ ACTOPLUS MET may cause serious side effects, including:
 
 The most common side effects of ACTOPLUS MET include:
 
-- •cold-like symptoms (upper respiratory tract infection)
-- •swelling (edema)
-- •diarrhea
-- •headache
-- •increased weight
+- cold-like symptoms (upper respiratory tract infection)
+- swelling (edema)
+- diarrhea
+- headache
+- increased weight
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 These are not all the side effects of ACTOPLUS MET.
@@ -235,8 +236,8 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Distributed by: Takeda Pharmaceuticals America, Inc. Deerfield, IL 60015
 
-Revised: July 2014
+Revised: May 2016
 
-© 2009 - 2014 Takeda Pharmaceuticals America, Inc.
+© 2009 - 2016 Takeda Pharmaceuticals America, Inc.
 
-APM001 R12
+APM001 R13

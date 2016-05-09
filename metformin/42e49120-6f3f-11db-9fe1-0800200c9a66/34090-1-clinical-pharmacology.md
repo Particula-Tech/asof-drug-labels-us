@@ -37,7 +37,7 @@ In controlled clinical trials, pioglitazone had an additive effect on glycemic c
 
 Patients with lipid abnormalities were included in clinical trials with pioglitazone.
 Overall, patients treated with pioglitazone had mean decreases in serum triglycerides, mean increases in HDL cholesterol, and no consistent mean changes in LDL and total cholesterol.
-There is no conclusive evidence of macrovascular benefit with pioglitazone or any other antidiabetic medication [see Warnings and Precautions (5.15) and Adverse Reactions (6.1)].
+There is no conclusive evidence of macrovascular benefit with pioglitazone or any other antidiabetic medication [see Warnings and Precautions (5.11) and Adverse Reactions (6.1)].
 
 In a 26-week, placebo-controlled, dose-ranging monotherapy study, mean serum triglycerides decreased in the 15-mg, 30-mg, and 45-mg pioglitazone dose groups compared to a mean increase in the placebo group.
 Mean HDL cholesterol increased to a greater extent in patients treated with pioglitazone than in the placebo-treated patients.
@@ -83,7 +83,7 @@ At steady-state, in both healthy volunteers and patients with type 2 diabetes, p
 Cmax, AUC, and trough serum concentrations (Cmin) for pioglitazone and M-III and M-IV, increased proportionally with administered doses of 15 mg and 30 mg per day.
 
 Following oral administration of pioglitazone, Tmax of pioglitazone was within two hours.
-Food delays the Tmax to three to four hours but does not alter the extent of absorption (AUC).
+Food delays the Tmax to three to four hours, but does not alter the extent of absorption (AUC).
 
 Metformin hydrochloride
 
@@ -152,8 +152,7 @@ Therefore, no dose adjustment in patients with renal impairment is required.
 
 Metformin hydrochloride
 
-In patients with decreased renal function (based on CLcr), the plasma and blood t1/2 of metformin is prolonged and the renal clearance is decreased in proportion to the decrease in CLcr [see Contraindications (4) and Warnings and Precautions (5.2)].
-Because metformin is contraindicated in patients with renal impairment, ACTOPLUS MET is also contraindicated in these patients.
+In patients with decreased renal function (based on CLcr), the plasma and blood t1/2 of metformin is prolonged and the renal clearance is decreased in proportion to the decrease in CLcr [see Dosage and Administration (2.2), Contraindications (4) and Warnings and Precautions (5.2)].
 
 Hepatic Impairment
 
@@ -167,9 +166,7 @@ Use ACTOPLUS MET with caution in patients with liver disease [see Warnings and P
 
 Metformin hydrochloride
 
-No pharmacokinetic studies of metformin have been conducted in subjects with hepatic impairment.
-Use of metformin in patients with hepatic impairment has been associated with some cases of lactic acidosis.
-ACTOPLUS MET is not recommended in patients with hepatic impairment [see Warnings and Precautions (5.5)].
+No pharmacokinetic studies of metformin have been conducted in subjects with hepatic impairment [see Warnings and Precautions (5.5)].
 
 Geriatric Patients
 
@@ -183,8 +180,6 @@ Metformin hydrochloride
 
 Limited data from controlled pharmacokinetic studies of metformin in healthy elderly subjects suggest that total CL/F is decreased, the t½ is prolonged, and Cmax is increased, compared to healthy young subjects.
 From these data, it appears that the change in metformin pharmacokinetics with aging is primarily accounted for by a change in renal function.
-
-As is true for all patients, ACTOPLUS MET treatment should not be initiated in geriatric patients unless measurement of CLcr demonstrates that renal function is not reduced [see Warnings and Precautions (5.2)].
 
 Pediatrics
 
@@ -281,7 +276,7 @@ Metformin hydrochloride
 | Nifedipine | 10 mg | 850 mg | 1.16 | 1.21 |
 | Propranolol | 40 mg | 850 mg | 0.90 | 0.94 |
 | Ibuprofen | 400 mg | 850 mg | 1.05 | 1.07 |
-| Cationic drugs eliminated by renal tubular secretion may reduce metformin elimination: use with caution [see Warnings and Precautions (5) and Drug Interactions (7)]. |  |  |  |  |
+| Drugs that are eliminated by renal tubular secretion may increase the accumulation of metformin [see Warnings and Precautions (5) and Drug Interactions (7)]. |  |  |  |  |
 | Cimetidine | 400 mg | 850 mg | 1.40 | 1.61 |
 | Carbonic anhydrase inhibitors may cause metabolic acidosis: use with caution [see Warnings and Precautions (5) and Drug Interactions (7)]. |  |  |  |  |
 | Topiramate | 100 mgAt steady-state with topiramate 100 mg every 12 hours and metformin 500 mg every 12 hours; AUC = AUC0-12h | 500 mg | 1.25 | 1.17 |

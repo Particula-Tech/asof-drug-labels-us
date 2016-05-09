@@ -7,10 +7,6 @@ The two enantiomers of pioglitazone interconvert in vivo.
 No differences were found in the pharmacologic activity between the two enantiomers.
 The structural formula is as shown:
 
-pioglitazone hydrochloride
-
-pioglitazone hydrochloride
-
 Pioglitazone hydrochloride is an odorless white crystalline powder that has a molecular formula of C19H20N2O3S•HCl and a molecular weight of 392.90 daltons.
 It is soluble in N,N-dimethylformamide, slightly soluble in anhydrous ethanol, very slightly soluble in acetone and acetonitrile, practically insoluble in water, and insoluble in ether.
 
@@ -19,9 +15,5 @@ Metformin hydrochloride is freely soluble in water and is practically insoluble 
 The pKa of metformin is 12.4.
 The pH of a 1% aqueous solution of metformin hydrochloride is 6.68.
 The structural formula is as shown:
-
-metformin hydrochloride
-
-metformin hydrochloride
 
 ACTOPLUS MET is available as a tablet for oral administration containing 15 mg pioglitazone (as the base) with 500 mg metformin hydrochloride (15 mg/500 mg) or 15 mg pioglitazone (as the base) with 850 mg metformin hydrochloride (15 mg/850 mg) formulated with the following excipients: povidone USP, microcrystalline cellulose NF, croscarmellose sodium NF, magnesium stearate NF, hypromellose 2910 USP, polyethylene glycol 8000 NF, titanium dioxide USP, and talc USP.

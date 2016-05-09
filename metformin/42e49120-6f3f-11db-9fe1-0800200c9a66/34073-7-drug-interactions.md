@@ -12,16 +12,28 @@ Therefore, if an inducer of CYP2C8 is started or stopped during treatment with p
 
 ## 7.3 Carbonic Anhydrase Inhibitors
 
-Topiramate or other carbonic anhydrase inhibitors (e.g., zonisamide, acetazolamide or dichlorphenamide) frequently decrease serum bicarbonate and induce non-anion gap, hyperchloremic metabolic acidosis.
-Concomitant use of these drugs may induce metabolic acidosis.
-Use these drugs with caution in patients treated with metformin, as the risk of lactic acidosis may increase.
+Topiramate or other carbonic anhydrase inhibitors (e.g., zonisamide, acetazolamide or dichlorphenamide) frequently causes a decrease in serum bicarbonate and induce non-anion gap, hyperchloremic metabolic acidosis.
+Concomitant use of these drugs with ACTOPLUS MET may increase the risk for lactic acidosis.
+Consider more frequent monitoring of these patients..
 
-## 7.4 Cationic Drugs
+## 7.4 Drugs That Reduce Metformin Clearance
 
-Cationic drugs (e.g., amiloride, digoxin, morphine, procainamide, quinidine, quinine, ranitidine, triamterene, trimethoprim, or vancomycin) that are eliminated by renal tubular secretion theoretically have the potential for interaction with metformin by competing for common renal tubular transport systems.
-Although such interactions remain theoretical (except for cimetidine), careful patient monitoring and dose adjustment of ACTOPLUS MET and/or the interfering drug is recommended in patients who are taking cationic medications that are excreted via the proximal renal tubular secretory system [see Clinical Pharmacology (12.3)].
+Drugs that are eliminated by renal tubular secretion (e.g., cationic drugs such as cimetidine) have the potential for interaction with metformin by competing for common renal tubular transport systems, and may increase the accumulation of metformin and the risk for lactic acidosis [see Clinical Pharmacology (12.3)].
+Consider more frequent monitoring of these patients.
 
-## 7.5 Drugs Affecting Glycemic Control
+## 7.5 Alcohol
+
+Alcohol is known to potentiate the effect of metformin on lactate metabolism.
+Warn patients against excessive alcohol intake while receiving ACTOPLUS MET.
+
+## 7.6 Insulin Secretagogues or Insulin
+
+If hypoglycemia occurs in a patient coadministered ACTOPLUS MET and an insulin secretagogue (e.g., sulfonylurea), the dose of the insulin secretagogue should be reduced.
+
+If hypoglycemia occurs in a patient coadministered ACTOPLUS MET and insulin, the dose of insulin should be decreased by 10% to 25%.
+Further adjustments to the insulin dose should be individualized based on glycemic response.
+
+## 7.7 Drugs Affecting Glycemic Control
 
 Certain drugs tend to produce hyperglycemia and may lead to loss of glycemic control.
 These drugs include the thiazides and other diuretics, corticosteroids, phenothiazines, thyroid products, estrogens, oral contraceptives, phenytoin, nicotinic acid, sympathomimetics, calcium channel blockers, and isoniazid.

@@ -245,7 +245,7 @@ The incidence of reported hypoglycemia was higher with pioglitazone 45 mg compar
 
 Three patients in these four trials were hospitalized due to hypoglycemia.
 All three patients were receiving pioglitazone 30 mg (0.9%) in the 24-week add-on to insulin trial.
-An additional 14 patients reported severe hypoglycemia (defined as causing considerable interference with patient’s usual activities) that did not require hospitalization.
+An additional 14 patients reported severe hypoglycemia (defined as causing considerable interference with patient's usual activities) that did not require hospitalization.
 These patients were receiving pioglitazone 45 mg in combination with sulfonylurea (n=2) or pioglitazone 30 mg or 45 mg in combination with insulin (n=12).
 
 Urinary Bladder Tumors
@@ -285,7 +285,7 @@ These changes may be related to increased plasma volume associated with pioglita
 Vitamin B12 Concentrations
 
 Metformin may lower serum vitamin B12 concentrations.
-Measurement of hematologic parameters on an annual basis is advised in patients on ACTOPLUS MET and any apparent abnormalities should be appropriately investigated and managed [see Warnings and Precautions (5.14)].
+Measurement of hematologic parameters on an annual basis is advised in patients on ACTOPLUS MET and any apparent abnormalities should be appropriately investigated and managed [see Warnings and Precautions (5.10)].
 
 Creatine Phosphokinase
 

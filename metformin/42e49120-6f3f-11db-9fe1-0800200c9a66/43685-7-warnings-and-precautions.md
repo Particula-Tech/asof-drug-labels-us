@@ -15,41 +15,68 @@ Metformin hydrochloride
 
 Lactic Acidosis
 
-Lactic acidosis is a serious, metabolic complication that can occur due to metformin accumulation during treatment with ACTOPLUS MET and it is fatal in approximately 50% of cases.
-Lactic acidosis may also occur in association with a number of pathophysiologic conditions, including diabetes mellitus, and whenever there is significant tissue hypoperfusion and hypoxemia.
-Lactic acidosis is characterized by elevated blood lactate concentrations (>5 mmol/L), decreased blood pH, electrolyte disturbances with an increased anion gap, and an increased lactate/pyruvate ratio.
-When metformin is implicated as the cause of lactic acidosis, metformin plasma levels >5 mcg/mL are generally found.
+There have been post-marketing cases of metformin-associated lactic acidosis, including fatal cases.
+These cases had a subtle onset and were accompanied by nonspecific symptoms such as malaise, myalgias, abdominal pain, respiratory distress, or increased somnolence; however, hypothermia, hypotension and resistant bradyarrhythmias have occurred with severe acidosis.
+Metformin-associated lactic acidosis was characterized by elevated blood lactate concentrations (greater than 5 mmol/L), anion gap acidosis (without evidence of ketonuria or ketonemia), and an increased lactate:pyruvate ratio;metformin plasma levels generally greater than 5 mcg/mL.
+Metformin decreases liver uptake of lactate increasing lactate blood levels which may increase the risk of lactic acidosis, especially in patients at risk.
 
-The reported incidence of lactic acidosis in patients receiving metformin hydrochloride is approximately 0.03 cases/1000 patient-years, with approximately 0.015 fatal cases/1000 patient-years.
-In more than 20,000 patient-years, exposure to metformin in clinical trials, there were no reports of lactic acidosis.
-Reported cases have occurred primarily in diabetic patients with significant renal impairment, including both intrinsic renal disease and renal hypoperfusion, often in the setting of multiple concomitant medical/surgical problems and multiple concomitant medications.
-Patients with congestive heart failure requiring pharmacologic management, particularly when accompanied by hypoperfusion and hypoxemia, are at increased risk of lactic acidosis.
-The risk of lactic acidosis increases with the degree of renal dysfunction and the patient's age.
-The risk of lactic acidosis may, therefore, be significantly decreased by regular monitoring of renal function in patients taking metformin.
-In particular, treatment of the elderly should be accompanied by careful monitoring of renal function.
-ACTOPLUS MET treatment should not be initiated in any patient unless measurement of creatinine clearance demonstrates that renal function is not reduced.
-In addition, metformin should be promptly withheld in the presence of any condition associated with hypoxemia, dehydration, or sepsis.
-Because impaired hepatic function may significantly limit the ability to clear lactate, metformin should generally be avoided in patients with clinical or laboratory evidence of hepatic impairment.
-Patients should be cautioned against excessive alcohol intake when taking metformin, because alcohol potentiates the effects of metformin on lactate metabolism.
-In addition, metformin should be temporarily discontinued prior to any intravascular radiocontrast study and for any surgical procedure necessitating restricted intake of food or fluids [see Warnings and Precautions (5.10, 5.11, 5.12, 5.13)].
-Use of topiramate, a carbonic anhydrase inhibitor, in epilepsy and migraine prophylaxis may frequently cause dose-dependent metabolic acidosis and may exacerbate the risk of metformin-induced lactic acidosis [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
+If metformin-associated lactic acidosis is suspected, general supportive measures should be instituted promptly in a hospital setting, along with immediate discontinuation of ACTOPLUS MET.
+In ACTOPLUS MET-treated patients with a diagnosis or strong suspicion of lactic acidosis, prompt hemodialysis is recommended to correct the acidosis and remove accumulated metformin (metformin hydrochloride is dialyzable, with a clearance of up to 170 mL/min under good hemodynamic conditions).
+Hemodialysis has often resulted in reversal of symptoms and recovery.
 
-The onset of lactic acidosis often is subtle, and accompanied only by nonspecific symptoms such as malaise, myalgias, respiratory distress, increasing somnolence, and nonspecific abdominal distress.
-There may be associated hypothermia, hypotension, and resistant bradyarrhythmias with more marked acidosis.
-Patients should be educated to promptly report these symptoms should they occur.
-If present, ACTOPLUS MET should be withdrawn until lactic acidosis is ruled out.
-Serum electrolytes, ketones, blood glucose, blood pH, lactate levels, and blood metformin levels may be useful.
-Once a patient is stabilized on any dose level of metformin, gastrointestinal symptoms, which are common during initiation of therapy, are unlikely to recur.
-Later occurrence of gastrointestinal symptoms could be due to lactic acidosis or other serious disease.
+Educate patients and their families about the symptoms of lactic acidosis and if these symptoms occur instruct them to discontinue ACTOPLUS MET and report these symptoms to their healthcare provider.
 
-Levels of fasting venous plasma lactate above the upper limit of normal but less than 5 mmol/L in patients taking metformin do not necessarily indicate impending lactic acidosis and may be explainable by other mechanisms, such as poorly controlled diabetes or obesity, vigorous physical activity, or technical problems in sample handling [see Warnings and Precautions (5.10)].
+For each of the known and possible risk factors for metformin-associated lactic acidosis, recommendations to reduce the risk of and manage metformin-associated lactic acidosis are provided below:
 
-Lactic acidosis should be suspected in any diabetic patient with metabolic acidosis lacking evidence of ketoacidosis (ketonuria and ketonemia).
+Renal Impairment
 
-Lactic acidosis is a medical emergency that must be treated in a hospital setting.
-In a patient with lactic acidosis who is taking metformin, the drug should be discontinued immediately and general supportive measures promptly instituted.
-Because metformin hydrochloride is dialyzable (with a clearance of up to 170 mL/min under good hemodynamic conditions), prompt hemodialysis is recommended to correct the acidosis and remove the accumulated metformin.
-Such management often results in prompt reversal of symptoms and recovery [see Contraindications (4) and Warnings and Precautions (5.10)].
+The postmarketing metformin-associated lactic acidosis cases primarily occurred in patients with significant renal impairment.
+The risk of metformin accumulation and metformin-associated lactic acidosis increases with the severity of renal impairment because metformin is substantially excreted by the kidney [see Clinical Pharmacology (12.3)].
+
+- Before initiating ACTOPLUS MET, obtain an eGFR.
+- ACTOPLUS MET is contraindicated in patients with an eGFR less than 30mL/min /1.73 m2.
+  Initiation of ACTOPLUS MET is not recommended in patients with eGFR between 30 – 45 mL/min/1.73 m2.
+- Obtain an eGFR at least annually in all patients taking ACTOPLUS MET.
+  In patients at increased risk for the development of renal impairment (e.g., the elderly), renal function should be assessed more frequently.
+- In patients taking ACTOPLUS MET whose eGFR later falls below 45 mL/min/1.73 m2, assess the benefit and risk of continuing therapy [see Dosage and Administration (2.2), Contraindications (4) and Clinical Pharmacology (12.3)].
+
+Drug Interactions
+
+The concomitant use of ACTOPLUS MET with specific drugs may increase the risk of metformin-associated lactic acidosis: those that impair renal function, result in significant hemodynamic change, interfere with acid-base balance or increase metformin accumulation (e.g. cationic drugs) [see Drug Interactions (7)].
+Therefore, consider more frequent monitoring of patients.
+
+Age 65 or Greater
+
+The risk of metformin-associated lactic acidosis increases with the patient's age because elderly patients have a greater likelihood of having hepatic, renal, or cardiac impairment than younger patients.
+Assess renal function more frequently in elderly patients [see Use in Specific Populations (8.5)].
+
+Radiological Studies with Contrast
+
+Administration of intravascular iodinated contrast agents in metformin-treated patients has led to an acute decrease in renal function and the occurrence of lactic acidosis.
+Stop ACTOPLUS MET at the time of, or prior to, an iodinated contrast imaging procedure in patients with an eGFR between 30 and 60 mL/min/1.73 m2; in patients with a history of hepatic impairment, alcoholism, or heart failure; or in patients who will be administered intra-arterial iodinated contrast.
+Re-evaluate eGFR 48 hours after the imaging procedure, and restart ACTOPLUS MET if renal function is stable.
+
+Surgery and Other Procedures
+
+Withholding of food and fluids during surgical or other procedures may increase the risk for volume depletion, hypotension and renal impairment.
+ACTOPLUS MET should be temporarily discontinued while patients have restricted food and fluid intake.
+
+Hypoxic States
+
+Several of the postmarketing cases of metformin-associated lactic acidosis occurred in the setting of acute congestive heart failure (particularly when accompanied by hypoperfusion and hypoxemia).
+Cardiovascular collapse (shock), acute myocardial infarction, sepsis, and other conditions associated with hypoxemia have been associated with lactic acidosis and may also cause prerenal azotemia.
+When such events occur, discontinue ACTOPLUS MET.
+
+Excessive Alcohol Intake
+
+Alcohol potentiates the effect of metformin on lactate metabolism and this may increase the risk of metformin-associated lactic acidosis.
+Warn patients against excessive alcohol intake while receiving ACTOPLUS MET.
+
+Hepatic Impairment
+
+Patients with hepatic impairment have developed with cases of metformin-associated lactic acidosis.
+This may be due to impaired lactate clearance resulting in higher lactate blood levels.
+Therefore, avoid use of ACTOPLUS MET in patients with clinical or laboratory evidence of hepatic disease.
 
 ## 5.3 Edema
 
@@ -63,7 +90,7 @@ Patients treated with ACTOPLUS MET should be monitored for signs and symptoms of
 ## 5.4 Hypoglycemia
 
 Patients receiving ACTOPLUS MET in combination with insulin or other antidiabetic medications (particularly insulin secretagogues such as sulfonylureas) may be at risk for hypoglycemia.
-A reduction in the dose of the concomitant antidiabetic medication may be necessary to reduce the risk of hypoglycemia [see Dosage and Administration (2.2)].
+A reduction in the dose of the concomitant antidiabetic medication may be necessary to reduce the risk of hypoglycemia [see Drug Interactions (7.7)].
 
 Hypoglycemia can also occur when caloric intake is deficient or when strenuous exercise is not compensated by caloric supplement.
 Elderly, debilitated, or malnourished patients, and those with adrenal or pituitary insufficiency or alcohol intoxication are particularly susceptible to hypoglycemic effects.
@@ -85,8 +112,6 @@ ACTOPLUS MET should not be restarted in these patients without another explanati
 
 Patients who have serum ALT greater than three times the reference range with serum total bilirubin greater than two times the reference range without alternative etiologies are at risk for severe drug-induced liver injury, and should not be restarted on ACTOPLUS MET.
 For patients with lesser elevations of serum ALT or bilirubin and with an alternate probable cause, treatment with ACTOPLUS MET can be used with caution.
-
-Because impaired hepatic function has been associated with some cases of lactic acidosis ACTOPLUS MET should generally be avoided in patients with clinical or laboratory evidence of hepatic disease.
 
 ## 5.6 Urinary Bladder Tumors
 
@@ -128,45 +153,14 @@ As a result, these patients may be at an increased risk for pregnancy while taki
 This effect has not been investigated in clinical trials, so the frequency of this occurrence is not known.
 Adequate contraception in all premenopausal women treated with ACTOPLUS MET is recommended.
 
-## 5.10 Monitoring of Renal Function
+## 5.10 Vitamin B12 Levels
 
-Metformin is substantially excreted by the kidney, and the risk of metformin accumulation and lactic acidosis increases with the degree of impairment of renal function.
-Therefore, ACTOPLUS MET is contraindicated in patients with renal impairment.
-
-Before initiation of therapy with ACTOPLUS MET and at least annually thereafter, renal function should be assessed and verified as normal.
-In patients in whom development of renal dysfunction is anticipated (e.g., elderly), renal function should be assessed more frequently and ACTOPLUS MET discontinued if evidence of renal impairment is present.
-
-Use of Concomitant Medications That May Affect Renal Function or Metformin Disposition
-
-Concomitant medication(s) that may affect renal function or result in significant hemodynamic change or may interfere with the disposition of metformin, such as cationic drugs that are eliminated by renal tubular secretion, should be used with caution [see Clinical Pharmacology (12.3)].
-
-Radiological Studies and Surgical Procedures
-
-Radiologic studies involving the use of intravascular iodinated contrast materials (for example, intravenous urogram, intravenous cholangiography, angiography, and computed tomography (CT) scans with intravascular contrast materials) can lead to acute alteration of renal function and have been associated with lactic acidosis in patients receiving metformin [see Contraindications (4)].
-Therefore, in patients in whom any such study is planned, ACTOPLUS MET should be discontinued at the time of or prior to the procedure, and withheld for 48 hours subsequent to the procedure and reinstituted only after renal function has been re-evaluated and found to be normal.
-
-## 5.11 Hypoxic States
-
-Cardiovascular collapse (shock) from whatever cause, acute congestive heart failure, acute myocardial infarction and other conditions characterized by hypoxemia have been associated with lactic acidosis and may also cause prerenal azotemia.
-When such events occur in patients receiving ACTOPLUS MET therapy, the drug should be promptly discontinued.
-
-## 5.12 Surgical Procedures
-
-Use of ACTOPLUS MET should be temporarily suspended for any surgical procedure (except minor procedures not associated with restricted intake of food and fluids) and should not be restarted until the patient's oral intake has resumed and renal function has been evaluated as normal.
-
-## 5.13 Alcohol Intake
-
-Alcohol is known to potentiate the effect of metformin on lactate metabolism.
-Patients, therefore, should be warned against excessive alcohol intake, acute or chronic, while receiving ACTOPLUS MET.
-
-## 5.14 Vitamin B12 Levels
-
-In controlled clinical trials of metformin of 29 weeks’ duration, a decrease to subnormal levels of previously normal serum vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of patients.
+In controlled clinical trials of metformin of 29 weeks' duration, a decrease to subnormal levels of previously normal serum vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of patients.
 Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, is, however, very rarely associated with anemia and appears to be rapidly reversible with discontinuation of metformin or vitamin B12 supplementation.
 Measurement of hematologic parameters on an annual basis is advised in patients on ACTOPLUS MET and any apparent abnormalities should be appropriately investigated and managed.
 Certain individuals (those with inadequate vitamin B12 or calcium intake or absorption) appear to be predisposed to developing subnormal vitamin B12 levels.
 In these patients, routine serum vitamin B12 measurements at two- to three-year intervals may be useful.
 
-## 5.15 Macrovascular Outcomes
+## 5.11 Macrovascular Outcomes
 
 There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with ACTOPLUS MET or any other oral antidiabetic drug.

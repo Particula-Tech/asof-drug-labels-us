@@ -25,14 +25,24 @@ Liver tests (serum alanine and aspartate aminotransferases, alkaline phosphatase
 Routine periodic monitoring of liver tests during treatment with ACTOPLUS MET is not recommended in patients without liver disease.
 Patients who have liver test abnormalities prior to initiation of ACTOPLUS MET or who are found to have abnormal liver tests while taking ACTOPLUS MET should be managed as described under Warnings and Precautions [see Warnings and Precautions (5.5) and Clinical Pharmacology (12.3)].
 
-## 2.2 Concomitant Use with an Insulin Secretagogue or Insulin
+## 2.2 Recommendations for Use in Renal Impairment
 
-If hypoglycemia occurs in a patient coadministered ACTOPLUS MET and an insulin secretagogue (e.g., sulfonylurea), the dose of the insulin secretagogue should be reduced.
+Assess renal function prior to initiation of ACTOPLUS MET and periodically thereafter.
 
-If hypoglycemia occurs in a patient coadministered ACTOPLUS MET and insulin, the dose of insulin should be decreased by 10% to 25%.
-Further adjustments to the insulin dose should be individualized based on glycemic response.
+ACTOPLUS MET is contraindicated in patients with an estimated glomerular filtration rate (eGFR) below 30 mL/min/1.73 m2.
+
+Initiation of ACTOPLUS MET in patients with an eGFR between 30 – 45 mL/min/1.73 m2 is not recommended.
+
+In patients taking ACTOPLUS MET whose eGFR later falls below 45 mL/min/1.73 m2, assess the benefit risk of continuing therapy.
+
+Discontinue ACTOPLUS MET if the patient's eGFR later falls below 30 mL/min/1.73 m2 [see Contraindications (4) and Warnings and Precautions (5.2)].
 
 ## 2.3 Concomitant Use with Strong CYP2C8 Inhibitors
 
 Coadministration of pioglitazone (one of the ingredients in ACTOPLUS MET) and gemfibrozil, a strong CYP2C8 inhibitor, increases pioglitazone exposure approximately 3-fold.
 Therefore, the maximum recommended dose of ACTOPLUS MET is 15 mg/850 mg daily when used in combination with gemfibrozil or other strong CYP2C8 inhibitors [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
+
+## 2.4 Discontinuation for Iodinated Contrast Imaging Procedures
+
+Discontinue ACTOPLUS MET at the time of, or prior to, an iodinated contrast imaging procedure in patients with an eGFR between 30 and 60 mL/min/1.73 m2; in patients with a history of liver disease, alcoholism or heart failure; or in patients who will be administered intra-arterial iodinated contrast.
+Re-evaluate eGFR 48 hours after the imaging procedure; restart ACTOPLUS MET if renal function is stable [see Warnings and Precautions (5.2)].
