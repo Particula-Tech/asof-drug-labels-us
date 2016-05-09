@@ -1,4 +1,4 @@
-MEDICATION GUIDE
+# MEDICATION GUIDE
 
 PERFOROMIST®(Per-FOR-o-mist) (formoterol fumarate) Inhalation Solution
 
@@ -167,17 +167,17 @@ Do not mix PERFOROMIST Inhalation Solution with other medicines in your nebulize
 PERFOROMIST Inhalation Solution comes sealed in a foil pouch.
 Do not open a sealed pouch until you are ready to use a dose of PERFOROMIST Inhalation Solution.
 
-- 1.Remove vial from the foil pouch.
-- 2.Twist the cap completely off the vial and squeeze all the medicine into the nebulizer medicine cup (reservoir) (Figure 1).
-- 3.Connect the nebulizer reservoir to the mouthpiece or facemask (Figure 2).
-- 4.Connect the nebulizer to the compressor.
-- 5.Sit in a comfortable, upright position.
+- •Remove vial from the foil pouch.
+- •Twist the cap completely off the vial and squeeze all the medicine into the nebulizer medicine cup (reservoir) (Figure 1).
+- •Connect the nebulizer reservoir to the mouthpiece or facemask (Figure 2).
+- •Connect the nebulizer to the compressor.
+- •Sit in a comfortable, upright position.
   Place the mouthpiece in your mouth (Figure 3) or put on the facemask (Figure 4); and turn on the compressor.
-- 6.Breathe as calmly, deeply and evenly as possible through your mouth until no more mist is formed in the nebulizer reservoir.
+- •Breathe as calmly, deeply and evenly as possible through your mouth until no more mist is formed in the nebulizer reservoir.
   The average nebulization time is 9 minutes.
   At this point, the treatment is finished.
-- 7.Discard the PERFOROMIST Inhalation Solution container and top after use.
-- 8.Clean the nebulizer (see manufacturer’s instructions).
+- •Discard the PERFOROMIST Inhalation Solution container and top after use.
+- •Clean the nebulizer (see manufacturer’s instructions).
 
 Manufactured for: Mylan Specialty L.P.
 Morgantown, WV 26505
