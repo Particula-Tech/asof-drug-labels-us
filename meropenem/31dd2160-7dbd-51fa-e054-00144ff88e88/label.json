@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA206086"
+  ],
+  "inn": "meropenem",
+  "labeler": "Savior Lifetec Corporation",
+  "package_ndcs": [
+    "44647-032-01",
+    "44647-032-02",
+    "44647-033-01",
+    "44647-033-02"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "meropenem",
+      "name": "MEROPENEM"
+    }
+  ],
+  "setid": "31dd2160-7dbd-51fa-e054-00144ff88e88",
+  "source": "dailymed"
+}
