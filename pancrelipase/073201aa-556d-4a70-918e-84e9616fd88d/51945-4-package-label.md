@@ -12,27 +12,7 @@ PHARMACIST: DISPENSE IN ORIGINAL CONTAINER
 
 Dispense enclosed Medication Guide to each patient.
 
-Rx only abbvie
-
-NDC-0032-1203-64
-
-70 Capsules
-
-CREON® (pancrelipase) Delayed-Release Capsules
-
-DOSE BY LIPASE UNITS: Lipase 3,000 USP Units, Protease 9,500 USP Units, Amylase 15,000 USP Units
-
-Each capsule contains pancrelipase in enteric-coated spheres.
-
-DISPENSE IN ORIGINAL CONTAINER
-
-Dispense enclosed Medication Guide to each patient.
-
 Rx only
-
-PROFESSIONAL SAMPLE
-
-NOT FOR RESALE
 
 abbvie
 
