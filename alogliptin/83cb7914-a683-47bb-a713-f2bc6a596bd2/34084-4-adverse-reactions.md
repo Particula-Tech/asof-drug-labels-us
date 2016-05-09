@@ -2,10 +2,10 @@
 
 The following serious adverse reactions are described below or elsewhere in the prescribing information:
 
-1. 1.Pancreatitis [see Warnings and Precautions (5.2)]
-2. 2.Heart Failure [see Warnings and Precautions (5.3)]
-3. 3.Hypersensitivity Reactions [see Warnings and Precautions (5.4)]
-4. 4.Hepatic Effects [see Warnings and Precautions (5.5)]
+1. Pancreatitis [see Warnings and Precautions (5.2)]
+2. Heart Failure [see Warnings and Precautions (5.3)]
+3. Hypersensitivity Reactions [see Warnings and Precautions (5.4)]
+4. Hepatic Effects [see Warnings and Precautions (5.5)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -23,11 +23,13 @@ Overall discontinuation of therapy due to adverse reactions was 6.2% with KAZANO
 
 Adverse reactions reported in ≥4% of patients treated with KAZANO and more frequently than in patients who received alogliptin, metformin or placebo are summarized in Table 1.
 
-| Table 1. Adverse Reactions Reported in ≥4% of Patients Treated with KAZANO and More Frequently Than in Patients Receiving Either Alogliptin, Metformin or Placebo |  |  |  |  |
+Table 1.
+Adverse Reactions Reported in ≥4% of Patients Treated with KAZANO and More Frequently Than in Patients Receiving Either Alogliptin, Metformin or Placebo
+
+| N=2794 | N=222 | N=1592 | N=106 |  |
 | --- | --- | --- | --- | --- |
-| Number of Patients (%) |  |  |  |  |
-|  | KAZANOKAZANO − includes data pooled for patients receiving alogliptin 25 and 12.5 mg combined with various dose of metformin | AlogliptinAlogliptin − includes data pooled for patients receiving alogliptin 25 and 12.5 mg | MetforminMetformin − includes data pooled for patients receiving various doses of metformin | Placebo |
-|  | N=2794 | N=222 | N=1592 | N=106 |
+|  | Number of Patients (%) |  |  |  |
+| KAZANOKAZANO – includes data pooled for patients receiving alogliptin 25 and 12.5 mg combined with various dose of metformin | AlogliptinAlogliptin – includes data pooled for patients receiving alogliptin 25 and 12.5 mg | MetforminMetformin – includes data pooled for patients receiving various doses of metformin | Placebo |  |
 | Upper respiratory tract infection | 224 (8.0) | 6 (2.7) | 105 (6.6) | 3 (2.8) |
 | Nasopharyngitis | 191 (6.8) | 7 (3.2) | 93 (5.8) | 2 (1.9) |
 | Diarrhea | 155 (5.5) | 4 (1.8) | 105 (6.6) | 3 (2.8) |
@@ -57,11 +59,13 @@ Overall discontinuation of therapy due to adverse reactions was 6.8% with alogli
 
 Adverse reactions reported in ≥4% of patients treated with alogliptin 25 mg and more frequently than in patients who received placebo are summarized in Table 2.
 
-| Table 2. Adverse Reactions Reported in ≥4% Patients Treated with Alogliptin 25 mg and More Frequently Than in Patients Given Placebo in Pooled Studies |  |  |  |
+Table 2.
+Adverse Reactions Reported in ≥4% Patients Treated with Alogliptin 25 mg and More Frequently Than in Patients Given Placebo in Pooled Studies
+
+| N=6447 | N=3469 | N=2257 |  |
 | --- | --- | --- | --- |
 |  | Number of Patients (%) |  |  |
 | Alogliptin 25 mg | Placebo | Active Comparator |  |
-| N=6447 | N=3469 | N=2257 |  |
 | Nasopharyngitis | 309 (4.8) | 152 (4.4) | 113 (5.0) |
 | Upper Respiratory Tract Infection | 287 (4.5) | 121 (3.5) | 113 (5.0) |
 | Headache | 278 (4.3) | 101 (2.9) | 121 (5.4) |
@@ -79,10 +83,12 @@ Serious adverse reactions of hypoglycemia were reported in 0.8% of patients trea
 
 Metformin Hydrochloride
 
-| Table 3. Most Common Adverse Reactions (≥5%) in a Placebo-Controlled Clinical Study of Metformin MonotherapyReactions that were more common in metformin than placebo-treated patients |  |  |
+Table 3.
+Most Common Adverse Reactions (≥5%) in a Placebo-Controlled Clinical Study of Metformin MonotherapyReactions that were more common in metformin than placebo-treated patients
+
+| % of Patients |  |  |
 | --- | --- | --- |
 | Adverse Reaction | Metformin Monotherapy (n=141) | Placebo (n=145) |
-| % of Patients |  |  |
 | Diarrhea | 53.2 | 11.7 |
 | Nausea/vomiting | 25.5 | 8.3 |
 | Flatulence | 12.1 | 5.5 |
@@ -100,7 +106,7 @@ No clinically meaningful differences were observed among treatment groups regard
 Metformin Hydrochloride
 
 Metformin may lower serum vitamin B12 concentrations.
-Measurement of hematologic parameters on an annual basis is advised in patients on KAZANO, and any apparent abnormalities should be appropriately investigated and managed [see Warnings and Precautions (5.9)].
+Measurement of hematologic parameters on an annual basis is advised in patients on KAZANO, and any apparent abnormalities should be appropriately investigated and managed [see Warnings and Precautions (5.6)].
 
 ## 6.3 Postmarketing Experience
 
@@ -109,4 +115,4 @@ Alogliptin
 The following adverse reactions have been identified during the postmarketing use of alogliptin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria and severe cutaneous adverse reactions, including Stevens-Johnson syndrome, hepatic enzyme elevations, fulminant hepatic failure, severe and disabling arthralgia, acute pancreatitis, diarrhea, constipation, nausea, and ileus [see Warnings and Precautions (5.2, 5.4, 5.5, 5.11).
+Hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria and severe cutaneous adverse reactions, including Stevens-Johnson syndrome, hepatic enzyme elevations, fulminant hepatic failure, severe and disabling arthralgia, acute pancreatitis, diarrhea, constipation, nausea, and ileus [see Warnings and Precautions (5.2, 5.4, 5.5, 5.8).

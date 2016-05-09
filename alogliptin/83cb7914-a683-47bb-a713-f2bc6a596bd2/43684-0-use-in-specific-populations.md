@@ -41,7 +41,7 @@ Safety and effectiveness of KAZANO in pediatric patients have not been establish
 Alogliptin and Metformin Hydrochloride
 
 Elderly patients are more likely to have decreased renal function.
-Because metformin is contraindicated in patients with renal impairment, carefully monitor renal function in the elderly and use KAZANO with caution as age increases [see Warnings and Precautions (5.6) and Clinical Pharmacology (12.3)].
+Monitor renal function in the elderly more frequently [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
 Of the total number of patients (N = 2095) in clinical safety and efficacy studies, 343 (16.4%) patients were 65 years and older and 37 (1.8%) patients were 75 years and older.
 No overall differences in safety or effectiveness were observed between these patients and younger patients.
@@ -57,5 +57,15 @@ Metformin Hydrochloride
 Controlled studies of metformin did not include sufficient numbers of subjects age 65 and over to determine whether they respond differently from younger patients.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 
-Metformin should only be used in patients with normal renal function.
-The initial and maintenance dosing of metformin should be conservative in patients with advanced age due to the potential for decreased renal function in this population [see Contraindications (4), Warnings and Precautions (5.6) and Clinical Pharmacology (12.3)].
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal and cardiac function, and of concomitant disease or other drug therapy and the higher risk of lactic acidosis.
+Assess renal function more frequently in elderly patients [see Contraindications (4), Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+
+## 8.6 Renal Impairment
+
+Metformin is substantially excreted by the kidney, and the risk of metformin accumulation and lactic acidosis increases with the degree of renal impairment.
+KAZANO is contraindicated in severe renal impairment, patients with an eGFR below 30 mL/min/1.73 m2 [see Dosage and Administration (2.2), Contraindications (4), Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+
+## 8.7 Hepatic Impairment
+
+Use of metformin in patients with hepatic impairment has been associated with some cases of lactic acidosis.
+KAZANO is not recommended in patients with hepatic impairment [see Warnings and Precautions (5.1)].

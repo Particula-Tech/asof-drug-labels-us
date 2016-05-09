@@ -22,28 +22,30 @@ Improvements in A1C were not affected by gender, age, race or baseline BMI.
 The mean decrease in body weight was similar between metformin alone and alogliptin when coadministered with metformin.
 Lipid effects were neutral.
 
-| Table 6. Glycemic Parameters at Week 26 for Alogliptin and Metformin Alone and in Combination in Patients with Type 2 Diabetes |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
+Table 6.
+Glycemic Parameters at Week 26 for Alogliptin and Metformin Alone and in Combination in Patients with Type 2 Diabetes
+
 |  | Placebo | Alogliptin 12.5 mg twice daily | Metformin HCl 500 mg twice daily | Metformin HCl 1000 mg twice daily | Alogliptin 12.5 mg + Metformin HCl 500 mg twice daily | Alogliptin 12.5 mg + Metformin HCl 1000 mg twice daily |
+| --- | --- | --- | --- | --- | --- | --- |
 | A1C (%)Intent-to-treat population using last observation on study prior to discontinuation of double-blind study medication or sulfonylurea rescue therapy for patients needing rescue | N=102 | N=104 | N=103 | N=108 | N=102 | N=111 |
 | Baseline (mean) | 8.5 | 8.4 | 8.5 | 8.4 | 8.5 | 8.4 |
 | Change from baseline (adjusted meanLeast squares means adjusted for treatment, geographic region and baseline value) | 0.1 | -0.6 | -0.7 | -1.1 | -1.2 | -1.6 |
 | Difference from metformin (adjusted mean with 95% confidence interval) | - | - | - | - | -0.6p<0.05 when compared to metformin and alogliptin alone (-0.9, -0.3) | -0.4 (-0.7, -0.2) |
-| Difference from alogliptin (adjusted mean with 95% confidence interval) | - | - | - | - | -0.7(-1.0, -0.4) | -1.0 (-1.3, -0.7) |
+| Difference from alogliptin (adjusted mean with 95% confidence interval) | - | - | - | - | -0.7 (-1.0, -0.4) | -1.0 (-1.3, -0.7) |
 | % of Patients (n/N) achieving A1C <7%Compared using logistic regression | 4% (4/102) | 20% (21/104) | 27% (28/103) | 34% (37/108) | 47% (48/102) | 59% (66/111) |
 | FPG (mg/dL) | N=105 | N=106 | N=106 | N=110 | N=106 | N=112 |
 | Baseline (mean) | 187 | 177 | 180 | 181 | 176 | 185 |
 | Change from baseline (adjusted mean) | 12 | -10 | -12 | -32 | -32 | -46 |
-| Difference from metformin (adjusted mean with 95% confidence interval) | - | - | - | - | -20 (-33, -8) | -14(-26, -2) |
+| Difference from metformin (adjusted mean with 95% confidence interval) | - | - | - | - | -20 (-33, -8) | -14 (-26, -2) |
 | Difference from alogliptin (adjusted mean with 95% confidence interval) | - | - | - | - | -22 (-35, -10) | -36 (-49, -24) |
 | 2-Hour PPG (mg/dL)Intent-to-treat population using data available at Week 26 | N=26 | N=34 | N=28 | N=37 | N=31 | N=37 |
 | Baseline (mean) | 263 | 272 | 247 | 266 | 261 | 268 |
 | Change from baseline (adjusted mean) | -21 | -43 | -49 | -54 | -68 | -86 |
 | Difference from metformin (adjusted mean with 95% confidence interval) | - | - | - | - | -19 (-49, 11) | -32 (-58, -5) |
-| Difference from alogliptin (adjusted mean with 95% confidence interval) | - | - | - | - | -25(-53, 3) | -43(-70, -16) |
+| Difference from alogliptin (adjusted mean with 95% confidence interval) | - | - | - | - | -25 (-53, 3) | -43 (-70, -16) |
 
-Figure 3.
-Change from Baseline A1C at Week 26 with Alogliptin and Metformin Alone and Alogliptin in Combination with Metformin
+| Figure 3. Change from Baseline A1C at Week 26 with Alogliptin and Metformin Alone and Alogliptin in Combination with Metformin |
+| --- |
 
 Alogliptin and Metformin Coadministration in Patients with Type 2 Diabetes Inadequately Controlled on Metformin Alone
 
@@ -56,9 +58,11 @@ Improvements in A1C were not affected by gender, age, race, baseline BMI or base
 The mean decrease in body weight was similar between alogliptin 25 mg and placebo when given in combination with metformin.
 Lipid effects were also neutral.
 
-| Table 7. Glycemic Parameters at Week 26 in a Placebo-Controlled Study of Alogliptin as Add-on Therapy to MetforminIntent-to-treat population using last observation on study. |  |  |
-| --- | --- | --- |
+Table 7.
+Glycemic Parameters at Week 26 in a Placebo-Controlled Study of Alogliptin as Add-on Therapy to MetforminIntent-to-treat population using last observation on study.
+
 |  | Alogliptin 25 mg + Metformin | Placebo + Metformin |
+| --- | --- | --- |
 | A1C (%) | N=203 | N=103 |
 | Baseline (mean) | 7.9 | 8.0 |
 | Change from baseline (adjusted meanLeast squares means adjusted for treatment, baseline value, geographic region and baseline metformin dose.) | -0.6 | -0.1 |
@@ -82,9 +86,11 @@ Improvements in A1C were not affected by gender, age, race or baseline BMI.
 The mean increase in body weight was similar in both treatment arms.
 Lipid effects were neutral.
 
-| Table 8. Glycemic Parameters at Week 52 in an Active-Controlled Study of Alogliptin as Add-On Combination Therapy to Metformin and PioglitazoneIntent-to-treat population using last observation on study |  |  |
-| --- | --- | --- |
+Table 8.
+Glycemic Parameters at Week 52 in an Active-Controlled Study of Alogliptin as Add-On Combination Therapy to Metformin and PioglitazoneIntent-to-treat population using last observation on study
+
 |  | Alogliptin 25 mg + Pioglitazone 30 mg + Metformin | Pioglitazone 45 mg + Metformin |
+| --- | --- | --- |
 | A1C (%) | N=397 | N=394 |
 | Baseline (mean) | 8.2 | 8.1 |
 | Change from baseline (adjusted meanLeast squares means adjusted for treatment, baseline value, geographic region and baseline metformin dose) | -0.7 | -0.3 |

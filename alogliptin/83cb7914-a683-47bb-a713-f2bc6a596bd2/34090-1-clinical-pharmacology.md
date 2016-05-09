@@ -19,7 +19,7 @@ Metformin Hydrochloride
 
 Metformin is a biguanide that improves glucose tolerance in patients with type 2 diabetes, lowering both basal and postprandial plasma glucose.
 Metformin decreases hepatic glucose production, decreases intestinal absorption of glucose and improves insulin sensitivity by increasing peripheral glucose uptake and utilization.
-Metformin does not produce hypoglycemia in patients with type 2 diabetes or in healthy subjects except in special circumstances [see Warnings and Precautions (5.10)] and does not cause hyperinsulinemia.
+Metformin does not produce hypoglycemia in patients with type 2 diabetes or in healthy subjects except in special circumstances [see Warnings and Precautions (5.7)] and does not cause hyperinsulinemia.
 With metformin therapy, insulin secretion remains unchanged while fasting insulin levels and daylong plasma insulin response may actually decrease.
 
 ## 12.2 Pharmacodynamics
@@ -114,12 +114,11 @@ Renal Impairment
 Alogliptin and Metformin Hydrochloride
 
 Use of KAZANO in patients with renal impairment increases the risk for lactic acidosis.
-Because KAZANO contains metformin, KAZANO is contraindicated in patients with renal impairment [see Contraindications (4) and Warnings and Precautions (5.6)].
+Because KAZANO contains metformin, KAZANO is contraindicated in patients with severe renal impairment [see Contraindications (4) and Warnings and Precautions (5.1)].
 
 Hepatic Impairment
 
-KAZANO is not recommended in patients with hepatic impairment.
-KAZANO contains metformin and use of metformin in patients with hepatic impairment has been associated with some cases of lactic acidosis [see Warnings and Precautions (5.5)].
+KAZANO is not recommended in patients with hepatic impairment [see Warnings and Precautions (5.1, 5.5)].
 
 Alogliptin
 
@@ -145,9 +144,7 @@ Similarly, in controlled clinical studies in patients with type 2 diabetes, the 
 
 Geriatric
 
-KAZANO contains metformin, which is contraindicated in patients with renal impairment [see Warnings and Precautions (5.6)].
 Due to declining renal function in the elderly, measurement of creatinine clearance should be obtained prior to initiation of therapy.
-Do not use KAZANO if renal function is not within normal range.
 
 Alogliptin
 
@@ -200,9 +197,7 @@ Figure 1.
 Effect of Alogliptin on the Pharmacokinetic Exposure to Other Drugs
 
 *Warfarin was given once daily at a stable dose in the range of 1 mg to 10 mg.
-Alogliptin had no significant effect on the prothrombin time (PT) or International Normalized Ratio (INR).
-
-**Caffeine (1A2 substrate), tolbutamide (2C9 substrate), dextromethorphan (2D6 substrate), midazolam (3A4 substrate) and fexofenadine (P-gp substrate) were administered as a cocktail.
+Alogliptin had no significant effect on the prothrombin time (PT) or International Normalized Ratio (INR). **Caffeine (1A2 substrate), tolbutamide (2C9 substrate), dextromethorphan (2D6 substrate), midazolam (3A4 substrate) and fexofenadine (P-gp substrate) were administered as a cocktail.
 
 Effects of Other Drugs on the Pharmacokinetics of Alogliptin
 
@@ -215,25 +210,29 @@ Metformin Hydrochloride
 
 Pharmacokinetic drug interaction studies have been performed on metformin (Tables 4 and 5).
 
-| Table 4. Effect of Coadministered Drug on Plasma Metformin Systemic Exposure |  |  |  |  |
+Table 4.
+Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
+
+| AUCAUC = AUC0˗∞ | Cmax |  |  |  |
 | --- | --- | --- | --- | --- |
 | Coadministered Drug | Dose of Coadministered DrugAll metformin and coadministered drugs were given as single doses | Dose of Metformin HCl | Geometric Mean Ratio (ratio with/without coadministered drug) No effect = 1.00 |  |
-| AUCAUC = AUC0-∞ | Cmax |  |  |  |
 | No dosing adjustments required for the following: |  |  |  |  |
 | Glyburide | 5 mg | 500 mgmetformin hydrochloride extended-release tablets 500 mg | 0.98Ratio of arithmetic means | 0.99 |
 | Furosemide | 40 mg | 850 mg | 1.09 | 1.22 |
 | Nifedipine | 10 mg | 850 mg | 1.16 | 1.21 |
 | Propranolol | 40 mg | 850 mg | 0.90 | 0.94 |
 | Ibuprofen | 400 mg | 850 mg | 1.05 | 1.07 |
-| Cationic drugs eliminated by renal tubular secretion may reduce metformin elimination: use with caution [see Warnings and Precautions (5) and Drug Interactions (7)] |  |  |  |  |
+| Drugs that are eliminated by renal tubular secretion may increase the accumulation of metformin [see Warnings and Precautions (5) and Drug Interactions (7)]. |  |  |  |  |
 | Cimetidine | 400 mg | 850 mg | 1.40 | 1.61 |
-| Carbonic anhydrase inhibitors may cause metabolic acidosis: use with caution [see Warnings and Precautions (5) and Drug Interactions (7)] |  |  |  |  |
+| Carbonic anhydrase inhibitors may cause metabolic acidosis [see Warnings and Precautions (5) and Drug Interactions (7)] |  |  |  |  |
 | Topiramate | 100 mgAt steady-state with topiramate 100 mg every 12 hours and metformin 500 mg every 12 hours; AUC = AUC0-12h | 500 mg | 1.25 | 1.17 |
 
-| Table 5. Effect of Metformin on Coadministered Drug Systemic Exposure |  |  |  |  |
+Table 5.
+Effect of Metformin on Coadministered Drug Systemic Exposure
+
+| AUCAUC = AUC0˗∞ | Cmax |  |  |  |
 | --- | --- | --- | --- | --- |
 | Coadministered Drug | Dose of Coadministered DrugAll metformin and coadministered drugs were given as single doses | Dose of Metformin HCl | Geometric Mean Ratio (ratio with/without coadministered drug) No effect = 1.00 |  |
-| AUCAUC = AUC0-∞ | Cmax |  |  |  |
 | No dosing adjustments required for the following: |  |  |  |  |
 | Glyburide | 5 mg | 500 mgAUC0-24 hr reported | 0.78Ratio of arithmetic means, p-value of difference <0.05 | 0.63 |
 | Furosemide | 40 mg | 850 mg | 0.87 | 0.69 |

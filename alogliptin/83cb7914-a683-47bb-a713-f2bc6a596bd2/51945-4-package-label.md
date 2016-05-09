@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL – 12.5 MG/500 MG
+# PRINCIPAL DISPLAY PANEL - 12.5 MG/500 MG
 
 NDC 64764-335-60
 
@@ -12,13 +12,11 @@ Dispense with Medication Guide
 
 60 Tablets
 
-Takeda logo
+Takeda
 
 Rx Only
 
-]
-
-PRINCIPAL DISPLAY PANEL – 12.5 MG/1000 MG
+# PRINCIPAL DISPLAY PANEL - 12.5 MG/1000 MG
 
 NDC 64764-337-60
 
@@ -32,6 +30,6 @@ Dispense with Medication Guide
 
 60 Tablets
 
-Takeda logo
+Takeda
 
 Rx Only
