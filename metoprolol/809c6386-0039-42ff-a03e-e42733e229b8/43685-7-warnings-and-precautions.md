@@ -128,7 +128,7 @@ Metoprolol tartrate has been associated with reversible adverse effects on sperm
 
 ### Pregnancy Category C
 
-Upon confirming the diagnosis of pregnancy, women should immediately inform the doctor.
+Upon confirming the diagnosis of pregnancy, women should immediately inform their doctor.
 Metoprolol has been shown to increase postimplantation loss and decrease neonatal survival in rats at doses up to 11 times the maximum daily human dose of 450 mg, when based on surface area.
 Distribution studies in mice confirm exposure of the fetus when metoprolol is administered to the pregnant animal.
 These limited animal studies do not indicate direct or indirect harmful effects with respect to teratogenicity (see PRECAUTIONS: Carcinogenesis, Mutagenesis, Impairment of Fertility).
@@ -145,7 +145,7 @@ An infant consuming one liter of breast milk daily would receive a dose of less 
 
 ## Fertility
 
-The effects of metoprolol on the fertility of human have not been studied.
+The effects of metoprolol on the fertility of humans have not been studied.
 
 Metoprolol showed effects on spermatogenesis in male rats at a therapeutic dose level, but had no effect on rates of conception at higher doses in animal fertility studies (see PRECAUTIONS: Carcinogenesis, Mutagenesis, Impairment of Fertility).
 
