@@ -11,3 +11,7 @@ Zonisamide capsules USP are available in bottles of 100 and 500 with strengths a
 | 500 count | 68462-129-05 |  |  |
 | 100 mg | White opaque body and light green cap with ‘G 24’ printed on cap and ‘100’ printed on the body in black ink. | 100 count | 68462-130-01 |
 | 500 count | 68462-130-05 |  |  |
+
+Store at 25°C (77°F), excursions permitted to 15° to 30°C (59° to 86°F).
+[See USP Controlled Room Temperature.]
+Store in a dry place and protect from light.

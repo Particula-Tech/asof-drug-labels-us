@@ -36,7 +36,7 @@ Zonisamide, at concentrations of 1 to 7 mcg/mL is approximately 40% bound to hum
 Zonisamide extensively binds to erythrocytes, resulting in an eight-fold higher concentration of zonisamide in red blood cells than in plasma.
 Protein binding of zonisamide is unaffected in the presence of therapeutic concentrations of phenytoin, phenobarbital or carbamazepine.
 
-## Metabolism and Elimination:
+## Metabolism and Elimination
 
 Following oral administration of 14C-zonisamide to healthy volunteers, only zonisamide was detected in plasma.
 Zonisamide is excreted primarily in urine as parent drug and as the glucuronide of a metabolite.
@@ -76,13 +76,13 @@ Potential for zonisamide to affect other drugs
 
 Anti-epileptic drugs
 
-In epileptic patients, steady-state dosing with zonisamide resulted in no clinically relevant pharmacokinetic effects on carbamazepine, lamotrigine, phenytoin, or sodium valproate.
+In epileptic patients, steady state dosing with zonisamide resulted in no clinically relevant pharmacokinetic effects on carbamazepine, lamotrigine, phenytoin, or sodium valproate.
 
 Oral contraceptives
 
 In healthy subjects, steady state dosing with zonisamide did not affect serum concentrations of ethinylestradiol or norethisterone in a combined oral contraceptive.
 
-CYP2D6 substrates:
+CYP2D6 substrates
 
 Coadministration of multiple dosing of zonisamide up to 400 mg/day with single 50 mg doses of desipramine did not significantly affect the pharmacokinetic parameters of desipramine, a probe drug for CYP2D6 activity.
 
@@ -91,7 +91,7 @@ P-gp substrate
 An in vitro study showed that zonisamide is a weak inhibitor of P-gp (MDR1) with an IC50 of 267 μmol/L.
 There is a theoretical potential for zonisamide to affect the pharmacokinetics of drugs which are P-gp substrates.
 
-Caution is advised when starting or stopping zonisamide or changing the zonisamide dose in patients who are also receiving drugs which are P-gp substrates (e.g., digoxin, quinidine)
+Caution is advised when starting or stopping zonisamide or changing the zonisamide dose in patients who are also receiving drugs which are P-gp substrates (e.g., digoxin, quinidine).
 
 Potential for Medicinal Product to Affect Zonisamide
 

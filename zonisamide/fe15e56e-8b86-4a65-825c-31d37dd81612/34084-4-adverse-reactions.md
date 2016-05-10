@@ -69,7 +69,7 @@ Zonisamide has been administered to 1,598 individuals during all clinical trials
 The frequencies represent the proportion of the 1,598 individuals exposed to zonisamide who experienced an event on at least one occasion.
 All events are included except those already listed in the previous table or discussed in WARNINGS or PRECAUTIONS, trivial events, those too general to be informative, and those not reasonably associated with zonisamide.
 
-Events are further classified within each category and listed in order of decreasing frequency as follows: frequent occurring in at least 1:100 patient; infrequent occurring in 1:100 to 1:1000 patients; rare occurring in fewer than 1:1000 patients.
+Events are further classified within each category and listed in order of decreasing frequency as follows: frequent occurring in at least 1:100 patients; infrequent occurring in 1:100 to 1:1000 patients; rare occurring in fewer than 1:1000 patients.
 
 Body as a Whole:Frequent: Accidental injury, asthenia.
 Infrequent: Chest pain, flank pain, malaise, allergic reaction, face edema, neck rigidity.
