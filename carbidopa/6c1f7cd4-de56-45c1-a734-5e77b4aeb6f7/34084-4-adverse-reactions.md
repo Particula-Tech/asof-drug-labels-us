@@ -56,7 +56,7 @@ Table 3: Adverse Reactions in Study 2 in Patients with Advanced Parkinson's Dise
 
 | Period | Dose ConversionAll patients were converted to RYTARY in the open label Dose Conversion period and then received randomized treatment during maintenance. % | Maintenance % | Dose Conversion % | Maintenance % |
 | --- | --- | --- | --- | --- |
-|  | RYTARY (N=201) |  | Immediate-Release carbidopa-levodopa (N=192) |  |
+|  | RYTARY (N=201) | Immediate-Release carbidopa-levodopa (N=192) |  |  |
 | Nausea | 4 | 3 | 6 | 2 |
 | Headache | 5 | 1 | 3 | 2 |
 

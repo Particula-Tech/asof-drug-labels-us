@@ -22,11 +22,6 @@
   ],
   "products": [
     {
-      "form": "CAPSULE",
-      "generic": "levodopa and carbidopa",
-      "name": "RYTARY"
-    },
-    {
       "form": "CAPSULE, EXTENDED RELEASE",
       "generic": "levodopa and carbidopa",
       "name": "RYTARY"
