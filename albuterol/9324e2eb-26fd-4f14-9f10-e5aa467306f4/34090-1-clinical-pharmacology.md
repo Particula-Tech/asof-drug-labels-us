@@ -21,7 +21,7 @@ In a pharmacodynamic (PD) trial conducted in 47 patients, the PD and safety prof
 Comparable changes from baseline in the PD measures (serum glucose and potassium concentrations, QTcB, QTcF, heart rate, systolic blood pressure, and diastolic blood pressure) were observed following cumulative dose administration up to 1440 mcg of both PROAIR RESPICLICK and ProAir HFA.
 The overall safety, efficacy and PD profile of PROAIR RESPICLICK and ProAir HFA were comparable.
 
-In a single-dose Phase 2 study also assessing PD, 71 patients using PROAIR RESPICLICK had bronchodilator efficacy that was significantly greater than placebo and comparable to that of ProAir HFA at administered doses of 90 and 180 mcg in adolescent and adult subjects with persistent asthma.
+Following 90 or 180 mcg single-dose inhalation, the bronchodilatory effect of PROAIR RESPICLICK was significantly greater than placebo and comparable to that of ProAir HFA in patients 12 years of age and older (N=71) and pediatric patients 4 to 11 years of age (N=61) with persistent asthma.
 
 Cardiac Electrophysiology
 
@@ -60,6 +60,7 @@ Following intravenous administration of racemic albuterol, between 25% and 46% o
 Specific Populations
 
 Age: No pharmacokinetic studies for PROAIR RESPICLICK have been conducted in neonates or elderly subjects.
+The systemic exposure in children 6 to 11 years of age is similar to that of adults following 180 mcg single dose inhalation of PROAIR RESPICLICK.
 
 Sex: The influence of sex on the pharmacokinetics of PROAIR RESPICLICK has not been studied.
 

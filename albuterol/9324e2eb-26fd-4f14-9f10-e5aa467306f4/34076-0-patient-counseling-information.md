@@ -1,7 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling (Patient Information and Instructions for Using PROAIR RESPICLICK)
-
+Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 Patients should be given the following information:
 
 Frequency of Use
@@ -27,7 +26,7 @@ Instruct patients to store the inhaler at room temperature and to avoid exposure
 
 Instruct patients to never take the inhaler apart.
 
-Inform patients that PROAIR RESPICLICK has a dose counter attached to the actuator.
+Inform patients that PROAIR RESPICLICK has a dose counter.
 When the patient receives the inhaler, the number 200 will be displayed.
 The dose counter will count down each time the mouthpiece cap is opened and closed.
 The dose counter window displays the number of actuations left in the inhaler in units of two (eg, 200, 198, 196, etc). When the counter displays 20, the color of the numbers will change to red to remind the patient to contact their pharmacist for a refill of medication or consult their physician for a prescription refill.
@@ -59,6 +58,9 @@ Patients should be instructed on the proper use of the inhaler.
 See the FDA-approved Patient Information and Patient Instructions for Use.
 Discard PROAIR RESPICLICK 13 months after opening the foil pouch, when the dose counter displays 0 or after the expiration date on the product, whichever comes first.
 
+In general, the technique for administering PROAIR RESPICLICK to children is similar to that for adults.
+Children should use PROAIR RESPICLICK under adult supervision, as instructed by the patient’s physician.
+
 Marketed by: Teva Respiratory, LLC
 
 Horsham, PA 19044
@@ -67,12 +69,12 @@ Manufactured by: Teva Pharmaceutical Industries Ltd.
 
 Jerusalem, Israel
 
-Copyright ©2015, Teva Respiratory, LLC
+Copyright ©2015-2016, Teva Respiratory, LLC
 
 All rights reserved.
 
-ProAir® and RespiClick™ are trademarks owned by Teva Respiratory, LLC
+ProAir® and RespiClick® are trademarks owned by Teva Respiratory, LLC
 
-United States Patent Nos. 6748947, 6871646, 6446627, 7540282, 8006690, 6701917, 6718972, 8651103
+United States Patent Nos. 6748947, 6871646, 6446627, 7540282, 8006690, 6701917, 6718972, 8651103, 8978966, 9216260
 
-PROR-001
+PROR-003

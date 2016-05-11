@@ -1,19 +1,16 @@
 # PATIENT INFORMATION
 
-PROAIR RESPICLICK(prō´ār res-pē-klik)
-
-(albuterol sulfate)
-
-Inhalation Powder
+PROAIR RESPICLICK (prō´ār res-pē-klik) (albuterol sulfate) Inhalation Powder
 
 What is PROAIR RESPICLICK?
 
-PROAIR RESPICLICK is a prescription medicine used in people 12 years of age and older to:
+PROAIR RESPICLICK is a prescription medicine used in people 4 years of age and older to:
 
-- •treat or prevent bronchospasm in people who have reversible obstructive airway disease
-- •prevent exercise-induced bronchospasm
+- 
+  - •treat or prevent bronchospasm in people who have reversible obstructive airway disease
+  - •prevent exercise-induced bronchospasm
 
-It is not known if PROAIR RESPICLICK is safe and effective in children under 12 years of age.
+It is not known if PROAIR RESPICLICK is safe and effective in children under 4 years of age.
 
 Who should not use PROAIR RESPICLICK?
 
@@ -59,9 +56,12 @@ How should I use PROAIR RESPICLICK?
 
 - •For detailed instructions, see “Instructions for Use” at the end of this Patient Information.
 - •Use PROAIR RESPICLICK exactly as your doctor tells you to use it.
+- •If your child needs to use PROAIR RESPICLICK, watch your child closely to make sure your child uses the inhaler correctly.
+  Your doctor will show you how your child should use PROAIR RESPICLICK.
 - •Each dose of PROAIR RESPICLICK should last up to 4 hours to 6 hours.
 - •Do not increase your dose or take extra doses of PROAIR RESPICLICK without first talking to your doctor.
-- •Do not use a spacer or volume holding chamber with PROAIR RESPICLICK.PROAIR RESPICLICK does not need priming.
+- •Do not use a spacer or volume holding chamber with PROAIR RESPICLICK.
+  PROAIR RESPICLICK does not need priming.
 - •Get medical help right away if PROAIR RESPICLICK no longer helps your symptoms.
 - •Get medical help right away if your symptoms get worse or if you need to use your inhaler more often.
 - •While you are using PROAIR RESPICLICK, do not use other inhaled rescue medicines and asthma medicines unless your doctor tells you to do so.
@@ -95,7 +95,7 @@ The most common side effects of PROAIR RESPICLICK include:
 | •upset stomach | •nervousness |
 | •sinus headache | •headache |
 | •urinary tract infection | •dizziness |
-| •your heart feels like it is pounding or racing (palpitations) | •sore throat•runny nose |
+| •your heart feels like it is pounding or racing (palpitations) | •sore throat •runny nose |
 | •chest pain |  |
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
@@ -108,7 +108,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store PROAIR RESPICLICK?
 
-- •Store PROAIR RESPICLICKat room temperature between 59ºF and 77ºF (15ºC and 25ºC).
+- •Store PROAIR RESPICLICK at room temperature between 59ºF and 77ºF (15ºC and 25ºC).
 - •Avoid exposure to extreme heat, cold, or humidity.
 - •Keep the cap on the inhaler closed during storage.
 - •Keep your PROAIR RESPICLICK inhaler dry and clean at all times.
@@ -134,18 +134,14 @@ Active ingredient: albuterol sulfate
 
 Inactive ingredients: lactose (may contain milk proteins)
 
-Marketed by: Teva Respiratory, LLC, Horsham, PA 19044; Manufactured by: Teva Pharmaceutical Industries, Ltd., Jerusalem, Israel; Copyright ©2015, Teva Respiratory, LLC; All rights reserved; ProAir® and RespiClick™ are trademarks owned by Teva Respiratory, LLC
+Marketed by: Teva Respiratory, LLC, Horsham, PA 19044; Manufactured by: Teva Pharmaceutical Industries, Ltd., Jerusalem, Israel; Copyright ©2015-2016, Teva Respiratory, LLC; All rights reserved; ProAir® and RespiClick® are trademarks owned by Teva Respiratory, LLC
 
-PRORPL-001 Rev.
-03/15
+PRORPL-002 Rev.
+04/16
 
 ## Instructions for Use
 
-PROAIR RESPICLICK (prō´ār res-pē-klik)
-
-(albuterol sulfate)
-
-Inhalation Powder
+PROAIR RESPICLICK (prō´ār res-pē-klik) (albuterol sulfate) Inhalation Powder
 
 Your PROAIR RESPICLICK Inhaler
 
@@ -163,6 +159,8 @@ See Figure B.
 
 Figure A
 
+1. 
+
 Figure B
 
 - •Your new PROAIR RESPICLICK inhaler contains ‘200’ doses (inhalations) of medication.
@@ -171,7 +169,7 @@ Figure B
 - •When the dose counter displays ‘0’ your inhaler is empty and you should stop using the inhaler and throw it away.
   See Figure C.
 
-Figure C
+1. Figure C
 
 IMPORTANT:
 
@@ -181,6 +179,10 @@ IMPORTANT:
   If you do not hear the “click” sound the inhaler may not be activated to give you a dose of medicine.
 - •PROAIR RESPICLICK does not have an activation button or medicine canister.
   When you open the cap, a dose of PROAIR will be activated for delivery of the medicine.
+- •In general, the technique for administering PROAIR RESPICLICK to children is similar to that for adults.
+  Children should use PROAIR RESPICLICK under adult supervision, as instructed by the patient’s physician.
+- •Do not use a spacer or volume holding chamber with PROAIR RESPICLICK.
+  PROAIR RESPICLICK does not need priming.
 
 Step-by-step instructions
 
@@ -188,33 +190,30 @@ Step 1.
 Make sure the cap is closed before each dose.
 See Figure D.
 
-Figure D
+1. Figure D
+   1. •Before you use PROAIR RESPICLICK for the first time, look at the dose counter window to check that the inhaler is full and ‘200’ is in the window.
+      The dose counter will count down by one number each time the mouthpiece cap is opened and closed.
+      The dose counter only displays even numbers (example: 200, 198, 196, etc.) in the window.
+   2. •Throw away PROAIR RESPICLICK 13 months after removing it from the foil pouch for the first time, when the dose counter displays ‘0,’ or after the expiration date on the package, whichever comes first.
+      See Figure E.
 
-- •Before you use PROAIR RESPICLICK for the first time, look at the dose counter window to check that the inhaler is full and ‘200’ is in the window.
-  The dose counter will count down by one number each time the mouthpiece cap is opened and closed.
-  The dose counter only displays even numbers (example: 200, 198, 196, etc.) in the window.
-- •Throw away PROAIR RESPICLICK 13 months after removing it from the foil pouch for the first time, when the dose counter displays ‘0,’ or after the expiration date on the package, whichever comes first.
-  See Figure E.
-
-Figure E
+1. Figure E
 
 Step 2.
 Hold the inhaler upright as you open the cap fully.
 See Figure F.
 
-Figure F
-
-- •Open the cap all the way back until you hear a “click”.
-- •Your PROAIR RESPICLICK inhaler is now ready to use.
-- •Do not open the cap unless you are taking a dose.
+1. Figure F
+2. •Open the cap all the way back until you hear a “click”.
+3. •Your PROAIR RESPICLICK inhaler is now ready to use.
+4. •Do not open the cap unless you are taking a dose.
 
 Step 3.
 Breathe out through your mouth and push as much air from your lungs as you can.
 See Figure G.
 
-Figure G
-
-- •Be careful not to breathe out into the inhaler mouthpiece.
+1. Figure G
+2. •Be careful not to breathe out into the inhaler mouthpiece.
 
 Step 4.
 Put the mouthpiece in your mouth and close your lips around it.
@@ -223,31 +222,28 @@ See Figure H.
 
 - •Breathing in deeply through the mouthpiece will deliver the medication to your lungs.
 
-Figure H
+1. Figure H
+2. •Do not let your lips or fingers block the vent above the mouthpiece.
+   See Figure I.
 
-- •Do not let your lips or fingers block the vent above the mouthpiece.
-  See Figure I.
-
-Figure I
+1. Figure I
 
 Step 5.
 Hold your breath for about 10 seconds or as long as you comfortably can.
 See Figure J.
 
-Figure J
-
-- •Remove the inhaler from your mouth.
-- •Check the dose counter on the back of the inhaler to make sure you received the dose.
+1. Figure J
+2. •Remove the inhaler from your mouth.
+3. •Check the dose counter on the back of the inhaler to make sure you received the dose.
 
 Step 6.
 Close the cap over the mouthpiece after each use of the inhaler.
 Make sure the cap closes firmly into place.
 See Figure K.
 
-Figure K
-
-- •Always close the cap after each inhalation so your inhaler will be ready for your next dose.
-- •If you need another dose close the cap and then repeat steps 1-6.
+1. Figure K
+2. •Always close the cap after each inhalation so your inhaler will be ready for your next dose.
+3. •If you need another dose close the cap and then repeat steps 1-6.
 
 How should I store PROAIR RESPICLICK?
 
@@ -280,7 +276,7 @@ Support
 
 This Patient Information and Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Marketed by: Teva Respiratory, LLC, Horsham, PA 19044; Manufactured by: Teva Pharmaceutical Industries, Ltd., Jerusalem, Israel; Copyright ©2015, Teva Respiratory, LLC; All rights reserved; ProAir® and RespiClick™ are trademarks owned by Teva Respiratory, LLC
+Marketed by: Teva Respiratory, LLC, Horsham, PA 19044; Manufactured by: Teva Pharmaceutical Industries, Ltd., Jerusalem, Israel; Copyright ©2015-2016, Teva Respiratory, LLC; All rights reserved; ProAir® and RespiClick® are trademarks owned by Teva Respiratory, LLC
 
-PRORIFU-001 Rev.
-03/15
+PRORIFU-002 Rev.
+04/16

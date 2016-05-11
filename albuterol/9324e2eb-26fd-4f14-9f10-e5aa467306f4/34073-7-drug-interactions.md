@@ -3,7 +3,7 @@
 Other short-acting sympathomimetic bronchodilators should not be used concomitantly with PROAIR RESPICLICK.
 If additional adrenergic drugs are to be administered by any route, they should be used with caution to avoid deleterious cardiovascular effects.
 
-## 7.1 Beta Blockers
+## 7.1 Beta-Blockers
 
 Beta-adrenergic-receptor blocking agents not only block the pulmonary effect of beta-agonists, such as PROAIR RESPICLICK, but may produce severe bronchospasm in asthmatic patients.
 Therefore, patients with asthma should not normally be treated with beta-blockers.
