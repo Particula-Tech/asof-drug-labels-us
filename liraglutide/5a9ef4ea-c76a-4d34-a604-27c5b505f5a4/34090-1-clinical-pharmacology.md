@@ -16,42 +16,42 @@ The pharmacokinetic profile of liraglutide, which makes it suitable for once dai
 
 ## 12.2 Pharmacodynamics
 
-Victoza’s pharmacodynamic profile is consistent with its pharmacokinetic profile observed after single subcutaneous administration as Victoza lowered fasting, premeal and postprandial glucose throughout the day [see Clinical Pharmacology (12.3)].
+VICTOZA’s pharmacodynamic profile is consistent with its pharmacokinetic profile observed after single subcutaneous administration as VICTOZA lowered fasting, premeal and postprandial glucose throughout the day [see Clinical Pharmacology (12.3)].
 
-Fasting and postprandial glucose was measured before and up to 5 hours after a standardized meal after treatment to steady state with 0.6, 1.2 and 1.8 mg Victoza or placebo.
-Compared to placebo, the postprandial plasma glucose AUC0-300min was 35% lower after Victoza 1.2 mg and 38% lower after Victoza 1.8 mg.
+Fasting and postprandial glucose was measured before and up to 5 hours after a standardized meal after treatment to steady state with 0.6, 1.2 and 1.8 mg VICTOZA or placebo.
+Compared to placebo, the postprandial plasma glucose AUC0-300min was 35% lower after VICTOZA 1.2 mg and 38% lower after VICTOZA 1.8 mg.
 
 Glucose-dependent insulin secretion
 
-The effect of a single dose of 7.5 mcg/kg (~ 0.7 mg) Victoza on insulin secretion rates (ISR) was investigated in 10 patients with type 2 diabetes during graded glucose infusion.
+The effect of a single dose of 7.5 mcg/kg (~ 0.7 mg) VICTOZA on insulin secretion rates (ISR) was investigated in 10 patients with type 2 diabetes during graded glucose infusion.
 In these patients, on average, the ISR response was increased in a glucose-dependent manner (Figure 2).
 
 Glucagon secretion
 
-Victoza lowered blood glucose by stimulating insulin secretion and lowering glucagon secretion.
-A single dose of Victoza 7.5 mcg/kg (~ 0.7 mg) did not impair glucagon response to low glucose concentrations.
+VICTOZA lowered blood glucose by stimulating insulin secretion and lowering glucagon secretion.
+A single dose of VICTOZA 7.5 mcg/kg (~ 0.7 mg) did not impair glucagon response to low glucose concentrations.
 
 Gastric emptying
 
-Victoza causes a delay of gastric emptying, thereby reducing the rate at which postprandial glucose appears in the circulation.
+VICTOZA causes a delay of gastric emptying, thereby reducing the rate at which postprandial glucose appears in the circulation.
 
 Cardiac Electrophysiology (QTc)
 
-The effect of Victoza on cardiac repolarization was tested in a QTc study.
-Victoza at steady state concentrations with daily doses up to 1.8 mg did not produce QTc prolongation.
+The effect of VICTOZA on cardiac repolarization was tested in a QTc study.
+VICTOZA at steady state concentrations with daily doses up to 1.8 mg did not produce QTc prolongation.
 
 ## 12.3 Pharmacokinetics
 
 Absorption - Following subcutaneous administration, maximum concentrations of liraglutide are achieved at 8-12 hours post dosing.
 The mean peak (Cmax) and total (AUC) exposures of liraglutide were 35 ng/mL and 960 ng·h/mL, respectively, for a subcutaneous single dose of 0.6 mg.
 After subcutaneous single dose administrations, Cmax and AUC of liraglutide increased proportionally over the therapeutic dose range of 0.6 mg to 1.8 mg.
-At 1.8 mg Victoza, the average steady state concentration of liraglutide over 24 hours was approximately 128 ng/mL.
+At 1.8 mg VICTOZA, the average steady state concentration of liraglutide over 24 hours was approximately 128 ng/mL.
 AUC0-∞ was equivalent between upper arm and abdomen, and between upper arm and thigh.
 AUC0-∞ from thigh was 22% lower than that from abdomen.
 However, liraglutide exposures were considered comparable among these three subcutaneous injection sites.
 Absolute bioavailability of liraglutide following subcutaneous administration is approximately 55%.
 
-Distribution - The mean apparent volume of distribution after subcutaneous administration of Victoza 0.6 mg is approximately 13 L. The mean volume of distribution after intravenous administration of Victoza is 0.07 L/kg.
+Distribution - The mean apparent volume of distribution after subcutaneous administration of VICTOZA 0.6 mg is approximately 13 L. The mean volume of distribution after intravenous administration of VICTOZA is 0.07 L/kg.
 Liraglutide is extensively bound to plasma protein (>98%).
 
 Metabolism - During the initial 24 hours following administration of a single [3H]-liraglutide dose to healthy subjects, the major component in plasma was intact liraglutide.
@@ -60,29 +60,29 @@ Liraglutide is endogenously metabolized in a similar manner to large proteins wi
 Elimination - Following a [3H]-liraglutide dose, intact liraglutide was not detected in urine or feces.
 Only a minor part of the administered radioactivity was excreted as liraglutide-related metabolites in urine or feces (6% and 5%, respectively).
 The majority of urine and feces radioactivity was excreted during the first 6-8 days.
-The mean apparent clearance following subcutaneous administration of a single dose of liraglutide is approximately 1.2 L/h with an elimination half-life of approximately 13 hours, making Victoza suitable for once daily administration.
+The mean apparent clearance following subcutaneous administration of a single dose of liraglutide is approximately 1.2 L/h with an elimination half-life of approximately 13 hours, making VICTOZA suitable for once daily administration.
 
 Specific Populations
 
-Elderly - Age had no effect on the pharmacokinetics of Victoza based on a pharmacokinetic study in healthy elderly subjects (65 to 83 years) and population pharmacokinetic analyses of patients 18 to 80 years of age [see Use in Specific Populations (8.5)].
+Elderly - Age had no effect on the pharmacokinetics of VICTOZA based on a pharmacokinetic study in healthy elderly subjects (65 to 83 years) and population pharmacokinetic analyses of patients 18 to 80 years of age [see Use in Specific Populations (8.5)].
 
-Gender - Based on the results of population pharmacokinetic analyses, females have 34% lower weight-adjusted clearance of Victoza compared to males.
+Gender - Based on the results of population pharmacokinetic analyses, females have 25% lower weight-adjusted clearance of VICTOZA compared to males.
 Based on the exposure response data, no dose adjustment is necessary based on gender.
 
-Race and Ethnicity - Race and ethnicity had no effect on the pharmacokinetics of Victoza based on the results of population pharmacokinetic analyses that included Caucasian, Black, Asian and Hispanic/Non-Hispanic subjects.
+Race and Ethnicity - Race and ethnicity had no effect on the pharmacokinetics of VICTOZA based on the results of population pharmacokinetic analyses that included Caucasian, Black, Asian and Hispanic/Non-Hispanic subjects.
 
-Body Weight - Body weight significantly affects the pharmacokinetics of Victoza based on results of population pharmacokinetic analyses.
+Body Weight - Body weight significantly affects the pharmacokinetics of VICTOZA based on results of population pharmacokinetic analyses.
 The exposure of liraglutide decreases with an increase in baseline body weight.
-However, the 1.2 mg and 1.8 mg daily doses of Victoza provided adequate systemic exposures over the body weight range of 40 – 160 kg evaluated in the clinical trials.
+However, the 1.2 mg and 1.8 mg daily doses of VICTOZA provided adequate systemic exposures over the body weight range of 40 – 160 kg evaluated in the clinical trials.
 Liraglutide was not studied in patients with body weight >160 kg.
 
-Pediatric - Victoza has not been studied in pediatric patients [see Use in Specific Populations (8.4)].
+Pediatric - VICTOZA has not been studied in pediatric patients [see Use in Specific Populations (8.4)].
 
-Renal Impairment - The single-dose pharmacokinetics of Victoza were evaluated in subjects with varying degrees of renal impairment.
+Renal Impairment - The single-dose pharmacokinetics of VICTOZA were evaluated in subjects with varying degrees of renal impairment.
 Subjects with mild (estimated creatinine clearance 50-80 mL/min) to severe (estimated creatinine clearance <30 mL/min) renal impairment and subjects with end-stage renal disease requiring dialysis were included in the trial.
 Compared to healthy subjects, liraglutide AUC in mild, moderate, and severe renal impairment and in end-stage renal disease was on average 35%, 19%, 29% and 30% lower, respectively [see Use in Specific Populations (8.6)].
 
-Hepatic Impairment - The single-dose pharmacokinetics of Victoza were evaluated in subjects with varying degrees of hepatic impairment.
+Hepatic Impairment - The single-dose pharmacokinetics of VICTOZA were evaluated in subjects with varying degrees of hepatic impairment.
 Subjects with mild (Child Pugh score 5-6) to severe (Child Pugh score > 9) hepatic impairment were included in the trial.
 Compared to healthy subjects, liraglutide AUC in subjects with mild, moderate and severe hepatic impairment was on average 11%, 14% and 42% lower, respectively [see Use in Specific Populations (8.7)].
 
@@ -90,49 +90,49 @@ Drug Interactions
 
 In vitro assessment of drug-drug interactions
 
-Victoza has low potential for pharmacokinetic drug-drug interactions related to cytochrome P450 (CYP) and plasma protein binding.
+VICTOZA has low potential for pharmacokinetic drug-drug interactions related to cytochrome P450 (CYP) and plasma protein binding.
 
 In vivo assessment of drug-drug interactions
 
-The drug-drug interaction studies were performed at steady state with Victoza 1.8 mg/day.
+The drug-drug interaction studies were performed at steady state with VICTOZA 1.8 mg/day.
 Before administration of concomitant treatment, subjects underwent a 0.6 mg weekly dose increase to reach the maximum dose of 1.8 mg/day.
-Administration of the interacting drugs was timed so that Cmax of Victoza (8-12 h) would coincide with the absorption peak of the co-administered drugs.
+Administration of the interacting drugs was timed so that Cmax of VICTOZA (8-12 h) would coincide with the absorption peak of the co-administered drugs.
 
 Digoxin
 
-A single dose of digoxin 1 mg was administered 7 hours after the dose of Victoza at steady state.
-The concomitant administration with Victoza resulted in a reduction of digoxin AUC by 16%; Cmax decreased by 31%.
+A single dose of digoxin 1 mg was administered 7 hours after the dose of VICTOZA at steady state.
+The concomitant administration with VICTOZA resulted in a reduction of digoxin AUC by 16%; Cmax decreased by 31%.
 Digoxin median time to maximal concentration (Tmax) was delayed from 1 h to 1.5 h.
 
 Lisinopril
 
-A single dose of lisinopril 20 mg was administered 5 minutes after the dose of Victoza at steady state.
-The co-administration with Victoza resulted in a reduction of lisinopril AUC by 15%; Cmax decreased by 27%.
-Lisinopril median Tmax was delayed from 6 h to 8 h with Victoza.
+A single dose of lisinopril 20 mg was administered 5 minutes after the dose of VICTOZA at steady state.
+The co-administration with VICTOZA resulted in a reduction of lisinopril AUC by 15%; Cmax decreased by 27%.
+Lisinopril median Tmax was delayed from 6 h to 8 h with VICTOZA.
 
 Atorvastatin
 
-Victoza did not change the overall exposure (AUC) of atorvastatin following a single dose of atorvastatin 40 mg, administered 5 hours after the dose of Victoza at steady state.
-Atorvastatin Cmax was decreased by 38% and median Tmax was delayed from 1 h to 3 h with Victoza.
+VICTOZA did not change the overall exposure (AUC) of atorvastatin following a single dose of atorvastatin 40 mg, administered 5 hours after the dose of VICTOZA at steady state.
+Atorvastatin Cmax was decreased by 38% and median Tmax was delayed from 1 h to 3 h with VICTOZA.
 
 Acetaminophen
 
-Victoza did not change the overall exposure (AUC) of acetaminophen following a single dose of acetaminophen 1000 mg, administered 8 hours after the dose of Victoza at steady state.
+VICTOZA did not change the overall exposure (AUC) of acetaminophen following a single dose of acetaminophen 1000 mg, administered 8 hours after the dose of VICTOZA at steady state.
 Acetaminophen Cmax was decreased by 31% and median Tmax was delayed up to 15 minutes.
 
 Griseofulvin
 
-Victoza did not change the overall exposure (AUC) of griseofulvin following co-administration of a single dose of griseofulvin 500 mg with Victoza at steady state.
+VICTOZA did not change the overall exposure (AUC) of griseofulvin following co-administration of a single dose of griseofulvin 500 mg with VICTOZA at steady state.
 Griseofulvin Cmax increased by 37% while median Tmax did not change.
 
 Oral Contraceptives
 
-A single dose of an oral contraceptive combination product containing 0.03 mg ethinylestradiol and 0.15 mg levonorgestrel was administered under fed conditions and 7 hours after the dose of Victoza at steady state.
-Victoza lowered ethinylestradiol and levonorgestrel Cmax by 12% and 13%, respectively.
-There was no effect of Victoza on the overall exposure (AUC) of ethinylestradiol.
-Victoza increased the levonorgestrel AUC0-∞ by 18%.
-Victoza delayed Tmax for both ethinylestradiol and levonorgestrel by 1.5 h.
+A single dose of an oral contraceptive combination product containing 0.03 mg ethinylestradiol and 0.15 mg levonorgestrel was administered under fed conditions and 7 hours after the dose of VICTOZA at steady state.
+VICTOZA lowered ethinylestradiol and levonorgestrel Cmax by 12% and 13%, respectively.
+There was no effect of VICTOZA on the overall exposure (AUC) of ethinylestradiol.
+VICTOZA increased the levonorgestrel AUC0-∞ by 18%.
+VICTOZA delayed Tmax for both ethinylestradiol and levonorgestrel by 1.5 h.
 
 Insulin Detemir
 
-No pharmacokinetic interaction was observed between Victoza and insulin detemir when separate subcutaneous injections of insulin detemir 0.5 Unit/kg (single-dose) and Victoza 1.8 mg (steady state) were administered in patients with type 2 diabetes.
+No pharmacokinetic interaction was observed between VICTOZA and insulin detemir when separate subcutaneous injections of insulin detemir 0.5 Unit/kg (single-dose) and VICTOZA 1.8 mg (steady state) were administered in patients with type 2 diabetes.

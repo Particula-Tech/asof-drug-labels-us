@@ -2,6 +2,6 @@
 
 ## 7.1 Oral Medications
 
-Victoza causes a delay of gastric emptying, and thereby has the potential to impact the absorption of concomitantly administered oral medications.
-In clinical pharmacology trials, Victoza did not affect the absorption of the tested orally administered medications to any clinically relevant degree.
-Nonetheless, caution should be exercised when oral medications are concomitantly administered with Victoza.
+VICTOZA causes a delay of gastric emptying, and thereby has the potential to impact the absorption of concomitantly administered oral medications.
+In clinical pharmacology trials, VICTOZA did not affect the absorption of the tested orally administered medications to any clinically relevant degree.
+Nonetheless, caution should be exercised when oral medications are concomitantly administered with VICTOZA.

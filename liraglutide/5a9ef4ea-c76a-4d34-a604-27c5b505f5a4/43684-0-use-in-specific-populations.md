@@ -4,8 +4,8 @@
 
 Pregnancy Category C.
 
-There are no adequate and well-controlled studies of Victoza in pregnant women.
-Victoza should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+There are no adequate and well-controlled studies of VICTOZA in pregnant women.
+VICTOZA should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 Liraglutide has been shown to be teratogenic in rats at or above 0.8 times the human systemic exposures resulting from the maximum recommended human dose (MRHD) of 1.8 mg/day based on plasma area under the time-concentration curve (AUC).
 Liraglutide has been shown to cause reduced growth and increased total major abnormalities in rabbits at systemic exposures below human exposure at the MRHD based on plasma AUC.
 
@@ -30,34 +30,34 @@ Group mean body weight from birth to postpartum day 14 trended lower in F2 gener
 
 ## 8.3 Nursing Mothers
 
-It is not known whether Victoza is excreted in human milk.
-Because many drugs are excreted in human milk and because of the potential for tumorigenicity shown for liraglutide in animal studies, a decision should be made whether to discontinue nursing or to discontinue Victoza, taking into account the importance of the drug to the mother.
+It is not known whether VICTOZA is excreted in human milk.
+Because many drugs are excreted in human milk and because of the potential for tumorigenicity shown for liraglutide in animal studies, a decision should be made whether to discontinue nursing or to discontinue VICTOZA, taking into account the importance of the drug to the mother.
 In lactating rats, liraglutide was excreted unchanged in milk at concentrations approximately 50% of maternal plasma concentrations.
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of Victoza have not been established in pediatric patients.
-Victoza is not recommended for use in pediatric patients.
+Safety and effectiveness of VICTOZA have not been established in pediatric patients.
+VICTOZA is not recommended for use in pediatric patients.
 
 ## 8.5 Geriatric Use
 
-In the Victoza clinical trials, a total of 797 (20%) of the patients were 65 years of age and over and 113 (2.8%) were 75 years of age and over.
+In the VICTOZA clinical trials, a total of 797 (20%) of the patients were 65 years of age and over and 113 (2.8%) were 75 years of age and over.
 No overall differences in safety or effectiveness were observed between these patients and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
 ## 8.6 Renal Impairment
 
-There is limited experience with Victoza in patients with mild, moderate, and severe renal impairment, including end-stage renal disease.
-However, there have been postmarketing reports of acute renal failure and worsening of chronic renal failure, which may sometimes require hemodialysis [see Warnings and Precautions (5.5) and Adverse Reactions (6.2)].
-Victoza should be used with caution in this patient population.
-No dose adjustment of Victoza is recommended for patients with renal impairment [see Clinical Pharmacology (12.3)].
+No dose adjustment of VICTOZA is recommended for patients with renal impairment [see Clinical Pharmacology (12.3)].
+The safety and efficacy of VICTOZA was evaluated in a 26-week clinical study that included patients with moderate renal impairment (eGFR 30 to 60 mL/min/1.73m2) [see Clinical Studies (14.3)].
+There is limited experience with VICTOZA in patients with severe renal impairment including end stage renal disease.There have been postmarketing reports of acute renal failure and worsening of chronic renal failure, which may sometimes require hemodialysis [see Warnings and Precautions (5.5) and Adverse Reactions (6.2)].
+Use caution in patients who experience dehydration.
 
 ## 8.7 Hepatic Impairment
 
 There is limited experience in patients with mild, moderate or severe hepatic impairment.
-Therefore, Victoza should be used with caution in this patient population.
-No dose adjustment of Victoza is recommended for patients with hepatic impairment [see Clinical Pharmacology (12.3)].
+Therefore, VICTOZA should be used with caution in this patient population.
+No dose adjustment of VICTOZA is recommended for patients with hepatic impairment [see Clinical Pharmacology (12.3)].
 
 ## 8.8 Gastroparesis
 
-Victoza slows gastric emptying.
-Victoza has not been studied in patients with pre-existing gastroparesis.
+VICTOZA slows gastric emptying.
+VICTOZA has not been studied in patients with pre-existing gastroparesis.

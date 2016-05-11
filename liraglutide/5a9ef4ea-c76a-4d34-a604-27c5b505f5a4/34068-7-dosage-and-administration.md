@@ -1,24 +1,31 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-Victoza can be administered once daily at any time of day, independently of meals, and can be injected subcutaneously in the abdomen, thigh or upper arm.
-The injection site and timing can be changed without dose adjustment.
+## 2.1 Important Administration Instructions
 
-For all patients, Victoza should be initiated with a dose of 0.6 mg per day for one week.
-The 0.6 mg dose is a starting dose intended to reduce gastrointestinal symptoms during initial titration, and is not effective for glycemic control.
-After one week at 0.6 mg per day, the dose should be increased to 1.2 mg.
-If the 1.2 mg dose does not result in acceptable glycemic control, the dose can be increased to 1.8 mg.
+- •Inspect visually prior to each injection.
+  Only use if solution is clear, colorless, and contains no particles.
+- •Inject VICTOZA subcutaneously in the abdomen, thigh or upper arm.
+  No dose adjustment is needed if changing the injection site and/or timing.
+- •When using VICTOZA with insulin, administer as separate injections.
+  Never mix.
+- •It is acceptable to inject VICTOZA and insulin in the same body region but the injections should not be adjacent to each other.
 
-When initiating Victoza, consider reducing the dose of concomitantly administered insulin secretagogues (such as sulfonylureas) to reduce the risk of hypoglycemia [see Warnings and Precautions (5.4) and Adverse Reactions (6)].
+## 2.2 General Dosing and Administration
 
-When using Victoza with insulin, administer as separate injections.
-Never mix.
-It is acceptable to inject Victoza and insulin in the same body region but the injections should not be adjacent to each other.
+- •Inject VICTOZA subcutaneously once-daily at any time of day, independently of meals.
+- •Initiate VICTOZA with a dose of 0.6 mg per day for one week.
+  The 0.6 mg dose is a starting dose intended to reduce gastrointestinal symptoms during initial titration, and is not effective for glycemic control.
+  After one week at 0.6 mg per day, the dose should be increased to 1.2 mg.
+  If the 1.2 mg dose does not result in acceptable glycemic control, the dose can be increased to 1.8 mg.
+  If a dose is missed, resume the once-daily regimen as prescribed with the next scheduled dose.
+  Do not administer an extra dose or increase in dose to make up for the missed dose.
+- •If more than 3 days have elapsed since the last VICTOZA dose, reinitiate VICTOZA at 0.6 mg to mitigate any gastrointestinal symptoms associated with reinitiation of treatment.
+  Upon reinitiation, VICTOZA should be titrated at the discretion of the prescriber.
 
-Victoza solution should be inspected prior to each injection, and the solution should be used only if it is clear, colorless, and contains no particles.
+## 2.3 Concomitant Use with an Insulin Secretagogue (e.g., Sulfonylurea) or with Insulin
 
-If a dose is missed, the once-daily regimen should be resumed as prescribed with the next scheduled dose.
-An extra dose or increase in dose should not be taken to make-up for the missed dose.
+When initiating VICTOZA, consider reducing the dose of concomitantly administered insulin secretagogues (such as sulfonylureas) to reduce the risk of hypoglycemia [see Warnings and Precautions (5.4) and Adverse Reactions (6)].
 
-Based on the elimination half-life, patients should be advised to reinitiate Victoza at 0.6 mg if more than 3 days have elapsed since the last Victoza dose.
-This approach will mitigate any gastrointestinal symptoms associated with reinitiation of treatment.
-Upon reinitiation, Victoza should be titrated at the discretion of the prescribing healthcare provider.
+## 2.4 Dosage in Patients with Renal Impairment
+
+No dose adjustment is recommended for patients with renal impairment.
