@@ -14,7 +14,7 @@ No treatment-related fetal abnormalities occurred following concomitant administ
 
 Alogliptin
 
-Alogliptin administered to pregnant rabbits and rats during the period of organogenesis was not teratogenic at doses of up to 200 and 500 mg/kg, or 149 times and 180 times, respectively, the clinical dose based on plasma drug exposure (AUC).
+Alogliptin administered to pregnant rabbits and rats during the period of organogenesis was not teratogenic at doses of up to 200 mg/kg and 500 mg/kg, or 149 times and 180 times, respectively, the clinical dose based on plasma drug exposure (AUC).
 
 Doses of alogliptin up to 250 mg/kg (approximately 95 times clinical exposure based on AUC) given to pregnant rats from gestation Day 6 to lactation Day 20 did not harm the developing embryo or adversely affect growth and development of offspring.
 
@@ -41,15 +41,15 @@ Safety and effectiveness of alogliptin and metformin HCl tablets in pediatric pa
 Alogliptin and Metformin Hydrochloride
 
 Elderly patients are more likely to have decreased renal function.
-Because metformin is contraindicated in patients with renal impairment, carefully monitor renal function in the elderly and use alogliptin and metformin HCl tablets with caution as age increases [see Warnings and Precautions (5.5) and Clinical Pharmacology (12.3)].
+Because metformin is contraindicated in patients with renal impairment, carefully monitor renal function in the elderly and use alogliptin and metformin HCl tablets with caution as age increases [see Warnings and Precautions (5.6) and Clinical Pharmacology (12.3)].
 
-Of the total number of patients (N=2095) in clinical safety and efficacy studies, 343 (16.4%) patients were 65 years and older and 37 (1.8%) patients were 75 years and older.
+Of the total number of patients (N = 2095) in clinical safety and efficacy studies, 343 (16.4%) patients were 65 years and older and 37 (1.8%) patients were 75 years and older.
 No overall differences in safety or effectiveness were observed between these patients and younger patients.
 While this and other reported clinical experiences have not identified differences in responses between the elderly and younger patients, greater sensitivity of some older individuals cannot be excluded.
 
 Alogliptin
 
-Of the total number of patients (N=8507) in clinical safety and efficacy studies treated with alogliptin, 2064 (24.3%) patients were 65 years and older and 341 (4%) patients were 75 years and older.
+Of the total number of patients (N=9052) in clinical safety and efficacy studies treated with alogliptin, 2257 (24.9%) patients were 65 years and older and 386 (4.3%) patients were 75 years and older.
 No overall differences in safety or effectiveness were observed between patients 65 years and over and younger patients.
 
 Metformin Hydrochloride
@@ -58,4 +58,4 @@ Controlled studies of metformin did not include sufficient numbers of subjects a
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 
 Metformin should only be used in patients with normal renal function.
-The initial and maintenance dosing of metformin should be conservative in patients with advanced age due to the potential for decreased renal function in this population [see Contraindications (4), Warnings and Precautions (5.5) and Clinical Pharmacology (12.3)].
+The initial and maintenance dosing of metformin should be conservative in patients with advanced age due to the potential for decreased renal function in this population [see Contraindications (4), Warnings and Precautions (5.6) and Clinical Pharmacology (12.3)].

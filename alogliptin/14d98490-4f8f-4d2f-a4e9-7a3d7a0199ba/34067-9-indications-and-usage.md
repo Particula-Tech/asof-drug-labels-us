@@ -2,8 +2,8 @@
 
 ## 1.1 Monotherapy and Combination Therapy
 
-Alogliptin and metformin HCl tablets are indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus in multiple clinical settings when treatment with both alogliptin and metformin is appropriate [see Clinical Studies (14)].
+Alogliptin and metformin HCl tablets are indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus when treatment with both alogliptin and metformin is appropriate [see Clinical Studies (14)].
 
-## 1.2 Limitation of Use
+Important Limitations of Use
 
-Alogliptin and metformin HCl tablets should not be used in patients with type 1 diabetes mellitus or for the treatment of diabetic ketoacidosis, as it would not be effective in these settings.
+Alogliptin and metformin HCl tablets are not indicated for the treatment of type 1 diabetes mellitus or diabetic ketoacidosis, as it would not be effective in these settings.

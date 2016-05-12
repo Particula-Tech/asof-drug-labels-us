@@ -22,7 +22,7 @@ The structural formula is as shown:
 
 Alogliptin and metformin HCl tablets are available as a tablet for oral administration containing 17 mg alogliptin benzoate equivalent to 12.5 mg alogliptin and:
 
-- •500 mg metformin hydrochloride (12.5 mg/500 mg) or
-- •1000 mg metformin hydrochloride (12.5 mg/1000 mg).
+- 500 mg metformin hydrochloride (12.5 mg/500 mg) or
+- 1000 mg metformin hydrochloride (12.5 mg/1000 mg).
 
 Alogliptin and metformin HCl tablets contain the following inactive ingredients: mannitol, microcrystalline cellulose, povidone, crospovidone, and magnesium stearate; the tablets are film-coated with hypromellose 2910, talc, titanium dioxide and ferric oxide yellow.

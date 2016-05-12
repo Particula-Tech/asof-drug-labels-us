@@ -9,7 +9,7 @@ Alogliptin and metformin HCl tablets combine two antihyperglycemic agents with c
 Alogliptin
 
 Increased concentrations of the incretin hormones such as glucagon-like peptide-1 (GLP-1) and glucose-dependent insulinotropic polypeptide (GIP) are released into the bloodstream from the small intestine in response to meals.
-These hormones cause insulin release from the pancreatic beta cells in a glucose-dependent manner but are inactivated by the DPP-4 enzyme within minutes.
+These hormones cause insulin release from the pancreatic beta cells in a glucose-dependent manner but are inactivated by the dipeptidyl peptidase-4 (DPP-4) enzyme within minutes.
 GLP-1 also lowers glucagon secretion from pancreatic alpha cells, reducing hepatic glucose production.
 In patients with type 2 diabetes, concentrations of GLP-1 are reduced but the insulin response to GLP-1 is preserved.
 Alogliptin is a DPP-4 inhibitor that slows the inactivation of the incretin hormones, thereby increasing their bloodstream concentrations and reducing fasting and postprandial glucose concentrations in a glucose-dependent manner in patients with type 2 diabetes mellitus.
@@ -19,7 +19,7 @@ Metformin Hydrochloride
 
 Metformin is a biguanide that improves glucose tolerance in patients with type 2 diabetes, lowering both basal and postprandial plasma glucose.
 Metformin decreases hepatic glucose production, decreases intestinal absorption of glucose and improves insulin sensitivity by increasing peripheral glucose uptake and utilization.
-Metformin does not produce hypoglycemia in patients with type 2 diabetes or in healthy subjects except in special circumstances [see Warnings and Precautions (5.9)] and does not cause hyperinsulinemia.
+Metformin does not produce hypoglycemia in patients with type 2 diabetes or in healthy subjects except in special circumstances [see Warnings and Precautions (5.10)] and does not cause hyperinsulinemia.
 With metformin therapy, insulin secretion remains unchanged while fasting insulin levels and daylong plasma insulin response may actually decrease.
 
 ## 12.2 Pharmacodynamics
@@ -43,7 +43,7 @@ Absorption and Bioavailability
 
 Alogliptin and Metformin Hydrochloride
 
-In bioequivalence studies of alogliptin and metformin HCl tablets, the area under the curve (AUC) and maximum concentration (Cmax) of both the alogliptin and the metformin component following a single dose of the combination tablet were bioequivalent to the alogliptin 12.5 mg concomitantly administered with metformin HCl 500 or 1000 mg tablets under fasted conditions in healthy subjects.
+In bioequivalence studies of alogliptin and metformin HCl tablets, the area under the plasma concentration curve (AUC) and maximum concentration (Cmax) of both the alogliptin and the metformin component following a single dose of the combination tablet were bioequivalent to the alogliptin 12.5 mg concomitantly administered with metformin HCl 500 or 1000 mg tablets under fasted conditions in healthy subjects.
 Administration of alogliptin and metformin HCl tablets with food resulted in no change in total exposure (AUC) of alogliptin and metformin.
 Mean peak plasma concentrations of alogliptin and metformin were decreased by 13% and 28%, respectively, when administered with food.
 There was no change in time to peak plasma concentrations (Tmax) for alogliptin under fed conditions, however, there was a delayed Tmax for metformin of 1.5 hours.
@@ -52,7 +52,7 @@ These changes are not likely to be clinically significant.
 Alogliptin
 
 The absolute bioavailability of alogliptin is approximately 100%.
-Administration of alogliptin with a high-fat meal resulted in no change in total and peak exposure to alogliptin.
+Administration of alogliptin with a high-fat meal results in no significant change in total and peak exposure to alogliptin.
 Alogliptin may therefore be administered with or without food.
 
 Metformin Hydrochloride
@@ -66,7 +66,7 @@ Distribution
 
 Alogliptin
 
-Following a single, 12.5 mg intravenous dose of alogliptin to healthy subjects, the volume of distribution during the terminal phase was 417 L, indicating that the drug is well distributed into tissues.
+Following a single, 12.5 mg intravenous infusion of alogliptin to healthy subjects, the volume of distribution during the terminal phase was 417 L, indicating that the drug is well distributed into tissues.
 
 Alogliptin is 20% bound to plasma proteins.
 
@@ -98,7 +98,7 @@ Excretion and Elimination
 
 Alogliptin
 
-The primary route of elimination of [14C] alogliptin-derived radioactivity occurred via renal excretion (76%) with 13% recovered in the feces, achieving a total recovery of 89% of the administered radioactive dose.
+The primary route of elimination of [14C] alogliptin-derived radioactivity occurs via renal excretion (76%) with 13% recovered in the feces, achieving a total recovery of 89% of the administered radioactive dose.
 The renal clearance of alogliptin (9.6 L/hr) indicates some active renal tubular secretion and systemic clearance was 14.0 L/hr.
 
 Metformin Hydrochloride
@@ -114,12 +114,12 @@ Renal Impairment
 Alogliptin and Metformin Hydrochloride
 
 Use of alogliptin and metformin HCl tablets in patients with renal impairment increases the risk for lactic acidosis.
-Because alogliptin and metformin HCl tablets contain metformin, alogliptin and metformin HCl tablets are contraindicated in patients with renal impairment [see Contraindications (4) and Warnings and Precautions (5.5)].
+Because alogliptin and metformin HCl tablets contain metformin, alogliptin and metformin HCl tablets are contraindicated in patients with renal impairment [see Contraindications (4) and Warnings and Precautions (5.6)].
 
 Hepatic Impairment
 
 Alogliptin and metformin HCl tablets are not recommended in patients with hepatic impairment.
-Alogliptin and metformin HCl tablets contain metformin and use of metformin in patients with hepatic impairment has been associated with some cases of lactic acidosis [see Warnings and Precautions (5.4)].
+Alogliptin and metformin HCl tablets contain metformin and use of metformin in patients with hepatic impairment has been associated with some cases of lactic acidosis [see Warnings and Precautions (5.5)].
 
 Alogliptin
 
@@ -145,7 +145,7 @@ Similarly, in controlled clinical studies in patients with type 2 diabetes, the 
 
 Geriatric
 
-Alogliptin and metformin HCl tablets contain metformin, which is contraindicated in patients with renal impairment [see Warnings and Precautions (5.5)].
+Alogliptin and metformin HCl tablets contain metformin, which is contraindicated in patients with renal impairment [see Warnings and Precautions (5.6)].
 Due to declining renal function in the elderly, measurement of creatinine clearance should be obtained prior to initiation of therapy.
 Do not use alogliptin and metformin HCl tablets if renal function is not within normal range.
 
