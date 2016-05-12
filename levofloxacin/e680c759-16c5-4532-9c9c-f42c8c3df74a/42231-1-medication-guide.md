@@ -175,7 +175,7 @@ Skin rash may be a sign of a more serious reaction to levofloxacin.
   Call your healthcare provider right away if you have unexplained symptoms such as:
 
 - nausea or vomiting
-- stomack pain
+- stomach pain
 - fever
 - weakness
 - abdominal pain or tenderness
@@ -193,7 +193,7 @@ These can be signs of a serious reaction to levofloxacin (a liver problem).
   Tell your healthcare provider if you have a history of seizures.
   Ask your healthcare provider whether taking levofloxacin will change your risk of having a seizure.
 
-Central Nervous System (CNS) side effects may happen as soon as after taking the first does of levofloxacin.
+Central Nervous System (CNS) side effects may happen as soon as after taking the first dose of levofloxacin.
 Talk to your healthcare provider right away if you get any of these side effects, or other changes in mood or behavior:
 
 - seizures
@@ -212,7 +212,7 @@ Talk to your healthcare provider right away if you get any of these side effects
 
 - Intestine infection (Pseudomembranous colitis): Pseudomembranous colitis can happen with most antibiotics, including levofloxacin.
   Call your healthcare provider right away if you get watery diarrhea, diarrhea that does not go away, or bloody stools.
-  You may have stomack cramps and a fever.
+  You may have stomach cramps and a fever.
   Pseudomembranous colitis can happen 2 or more months after you have finished your antibiotic.
 
 - Changes in sensation and possible nerve damage (Peripheral Neuropathy): Damage to the nerves in arms, hands, legs, or feet can happen in people taking fluoroquinolones, including levofloxacin.
@@ -241,7 +241,7 @@ The nerve damage may be permanent.
 
 - Changes in blood sugar: People who take levofloxacin and other fluoroquinolone medicines with oral anti-diabetes medicines or with insulin can get low blood sugar (hypoglycemia) and high blood sugar (hyperglycemia).
   Follow your healthcare provider's instructions for how often to check your blood sugar.
-  If you have diabetes and you get low blood sugar while taking levofloxacin, stop takig levofloxacin and call your healthcare provider right away.
+  If you have diabetes and you get low blood sugar while taking levofloxacin, stop taking levofloxacin and call your healthcare provider right away.
   Your antibiotic medicine may need to be changed.
 
 - Sensitivity to sunlight (photosensitivity): See "What should I avoid while taking levofloxacin?".

@@ -173,7 +173,7 @@ Table 18: Bacteriological Eradication at Test-of-Cure
 | cUTI | 168/230 | 73.0 | 157/213 | 73.7 |  |
 | AP | 84/103 | 81.6 | 82/105 | 78.1 |  |
 | Microbiological Evaluable PopulationThe Microbiologically Evaluable population included patients with a confirmed diagnosis of cUTI or AP, a causative organism(s) at baseline present at ≥ 105 CFU/mL, a valid test-of-cure urine culture, no pathogen isolated from blood resistant to study drug, no premature discontinuation or loss to follow-up, and compliance with treatment (among other criteria). |  |  |  |  |  |
-| Overall (cUTI or AP) | 228/265 | 86.0 | 215/214 | 89.2 | -3.2 [-8.9, 2.5] |
+| Overall (cUTI or AP) | 228/265 | 86.0 | 215/241 | 89.2 | -3.2 [-8.9, 2.5] |
 | cUTI | 154/185 | 83.2 | 144/165 | 87.3 |  |
 | AP | 74/80 | 92.5 | 71/76 | 93.4 |  |
 
@@ -232,10 +232,10 @@ The one levofloxacin treated animal that died of anthrax did so following the 30
 
 ## 14.10 Plague
 
-Efficacy studies of levofloxacincould not be conducted in humans with pneumonic plague for ethical and feasibility reasons.
+Efficacy studies of levofloxacin could not be conducted in humans with pneumonic plague for ethical and feasibility reasons.
 Therefore, approval of this indication was based on an efficacy study conducted in animals.
 
-The mean plasma concentrations of levofloxacinassociated with a statistically significant improvement in survival over placebo in an African green monkey model of pneumonic plague are reached or exceeded in adult and pediatric patients receiving the recommended oral and intravenous dosage regimens [see INDICATIONS AND USAGE (1.14); DOSAGE AND ADMINISTRATION (2.1), (2.2)].
+The mean plasma concentrations of levofloxacin associated with a statistically significant improvement in survival over placebo in an African green monkey model of pneumonic plague are reached or exceeded in adult and pediatric patients receiving the recommended oral and intravenous dosage regimens [see INDICATIONS AND USAGE (1.14); DOSAGE AND ADMINISTRATION (2.1), (2.2)].
 
 Levofloxacin pharmacokinetics have been evaluated in adult and pediatric patients.
 The mean (± SD) steady state peak plasma concentration in human adults receiving 500 mg orally or intravenously once daily is 5.7 ± 1.4 and 6.4 ± 0.8 mcg/mL, respectively; and the corresponding total plasma exposure (AUC0-24) is 47.5 ± 6.7 and 54.6 ± 11.1 mcg.h/mL, respectively.
@@ -246,6 +246,6 @@ The minimal inhibitory concentration (MIC) of levofloxacin for the Y. pestis str
 Mean plasma concentrations of levofloxacin achieved at the end of a single 30-min infusion ranged from 2.84 to 3.50 mcg/mL in African green monkeys.
 Trough concentrations at 24 hours post-dose ranged from < 0.03 to 0.06 mcg/mL.
 Mean (SD) AUC0-24 was 11.9 (3.1) mcg.h/mL (range 9.50 to 16.86 mcg.h/mL).
-Animals were randomized to receive either a 10-day regimen of IV levofloxacinor placebo beginning within 6 hrs of the onset of telemetered fever (≥ 39oC for more than 1 hour).
-Mortality in the levofloxacingroup was significantly lower (1/17) compared to the placebo group (7/7) [p < 0.001, Fisher’s Exact Test; exact 95% confidence interval (-99.9%, -55.5%) for the difference in mortality].
+Animals were randomized to receive either a 10-day regimen of IV levofloxacin or placebo beginning within 6 hrs of the onset of telemetered fever (≥ 39oC for more than 1 hour).
+Mortality in the levofloxacin group was significantly lower (1/17) compared to the placebo group (7/7) [p < 0.001, Fisher’s Exact Test; exact 95% confidence interval (-99.9%, -55.5%) for the difference in mortality].
 One levofloxacin-treated animal was euthanized on Day 9 post-exposure to Y. pestis due to a gastric complication; it had a blood culture positive for Y. pestis on Day 3 and all subsequent daily blood cultures from Day 4 through Day 7 were negative.

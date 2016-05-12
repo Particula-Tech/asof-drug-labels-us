@@ -25,7 +25,7 @@ Levofloxacin Injection Premix in Single Dose Flexible Containers is a sterile, p
 This is a dilute, non-pyrogenic, nearly isotonic premixed solution that contains levofloxacin in 5% dextrose (D5W).
 Solutions of hydrochloric acid and sodium hydroxide may have been added to adjust the pH.
 
-The flexible container is fabricated from a specially formulated non-plasticized, thermoplastic copolyester (CR3).
+The flexible container is fabricated from polypropylene.
 The amount of water that can permeate from the container into the overwrap is insufficient to affect the solution significantly.
 Solutions in contact with the flexible container can leach out certain of the container’s chemical components in very small amounts within the expiration period.
 The suitability of the container material has been confirmed by tests in animals according to USP biological tests for plastic containers.

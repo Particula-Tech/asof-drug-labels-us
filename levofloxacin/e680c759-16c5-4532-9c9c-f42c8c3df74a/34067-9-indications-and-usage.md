@@ -17,7 +17,7 @@ Culture and susceptibility testing performed periodically during therapy will pr
 
 Levofloxacin is indicated for the treatment of nosocomial pneumonia due to methicillin-susceptible Staphylococcus aureus, Pseudomonas aeruginosa, Serratia marcescens, Escherichia coli, Klebsiella pneumoniae, Haemophilus influenzae, or Streptococcus pneumoniae.
 Adjunctive therapy should be used as clinically indicated.
-Where Pseudomonas aeruginosa is a documented or presumptive pathogen, combination therapy with an anti-pseudomonal b-lactam is recommended [see CLINICAL STUDIES (14.1)].
+Where Pseudomonas aeruginosa is a documented or presumptive pathogen, combination therapy with an anti-pseudomonal β-lactam is recommended [see CLINICAL STUDIES (14.1)].
 
 ## 1.2 Community-Acquired Pneumonia: 7–14 day Treatment Regimen
 

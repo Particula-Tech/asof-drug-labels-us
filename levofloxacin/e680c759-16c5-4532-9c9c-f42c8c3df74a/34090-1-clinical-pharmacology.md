@@ -113,7 +113,7 @@ The mechanism of action of levofloxacin and other fluoroquinolone antimicrobials
 
 Mechanism of Resistance Fluoroquinolone resistance can arise through mutations in defined regions of DNA gyrase or topoisomerase IV, termed the Quinolone-Resistance Determining Regions (QRDRs), or through altered efflux.
 
-Fluoroquinolones, including levofloxacin, differ in chemical structure and mode of action from aminoglycosides, macrolides and b-lactam antibiotics, including penicillins.
+Fluoroquinolones, including levofloxacin, differ in chemical structure and mode of action from aminoglycosides, macrolides and β-lactam antibiotics, including penicillins.
 Fluoroquinolones may, therefore, be active against bacteria resistant to these antimicrobials.
 
 Resistance to levofloxacin due to spontaneous mutation in vitro is a rare occurrence (range: 10-9 to 10-10).
@@ -151,7 +151,7 @@ Reports from the laboratory providing results of the standard single-disk suscep
 
 | Table 9: Susceptibility Test Interpretive Criteria for Levofloxacin |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Minimum Inhibitory Concentrations (mcg/mL) |  |  | Disk Diffusion (zone diamater in mm) |  |  |
+|  | Minimum Inhibitory Concentrations (mcg/mL) |  |  | Disk Diffusion (zone diameter in mm) |  |  |
 | Pathogen | S | I | R | S | I | R |
 | Enterobacteriaceae | ≤ 2 | 4 | ≥ 8 | ≥ 17 | 14–16 | ≤ 13 |
 | Enterococcus faecalis | ≤ 2 | 4 | ≥ 8 | ≥ 17 | 14–16 | ≤ 13 |

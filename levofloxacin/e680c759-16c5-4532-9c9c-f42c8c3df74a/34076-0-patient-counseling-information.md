@@ -34,7 +34,7 @@ Patients should be informed of the following serious adverse reactions that have
 - Diarrhea: Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
   Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
   If this occurs, patients should contact their physician as soon as possible.
-- Peripheral Neuropathies: Patients should be informed that peripheral neuropathy has been associated with levofloxacinuse.
+- Peripheral Neuropathies: Patients should be informed that peripheral neuropathy has been associated with levofloxacin use.
   Symptoms may occur soon after initiation of therapy and may be irreversible.
   If symptoms of peripheral neuropathy including pain, burning, tingling, numbness, and/or weakness develop, patients should discontinue treatment and contact their physician.
 - Prolongation of the QT Interval: Patients should inform their physician of any personal or family history of QT prolongation or proarrhythmic conditions such as hypokalemia, bradycardia, or recent myocardial ischemia; if they are taking any Class IA (quinidine, procainamide), or Class III (amiodarone, sotalol) antiarrhythmic agents.
@@ -55,12 +55,12 @@ Patients should notify their physician if they are taking warfarin, be monitored
 
 ## 17.5 Plague and Anthrax Studies
 
-Patients given levofloxacinfor these conditions should be informed that efficacy studies could not be conducted in humans for ethical and feasibility reasons.
+Patients given levofloxacin for these conditions should be informed that efficacy studies could not be conducted in humans for ethical and feasibility reasons.
 Therefore, approval for these conditions was based on efficacy studies conducted in animals.
 
 Manufactured by: HIKMA FARMACÊUTICA (PORTUGAL), S.A.
 Estrada do Rio da Mó, 8, 8A e 8B – Fervença – 2705-906 Terrugem SNT, PORTUGAL
 
-Distributed by: WEST-WARD PHARMACEUTICAL CORP. Eatontown, NJ 07724 USA
+Distributed by: WEST-WARD PHARMACEUTICALS CORP. Eatontown, NJ 07724 USA
 
-PIN287-WES/3 Revised: 09/2014
+PIN287-WES/4 Revised: April 2016
