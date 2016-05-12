@@ -1,8 +1,15 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1 Clinical Studies Experience
+The following serious adverse reactions are described below or elsewhere in the prescribing information:
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+- Congestive Heart Failure [see Warnings and Precautions (5.1)]
+- Pancreatitis [see Warnings and Precautions (5.2)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.3)]
+- Hepatic Effects [see Warnings and Precautions (5.4)]
+
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 Alogliptin and Pioglitazone
 
@@ -11,8 +18,8 @@ The mean exposure to alogliptin and pioglitazone tablets was 29 weeks with more 
 The studies consisted of two placebo-controlled studies of 16 to 26 weeks in duration and two active-controlled studies of 26 weeks and 52 weeks in duration.
 In the alogliptin and pioglitazone tablets arm, the mean duration of diabetes was approximately six years, the mean body mass index (BMI) was 31 kg/m2 (54% of patients had a BMI ≥30 kg/m2), and the mean age was 54 years (16% of patients ≥65 years of age).
 
-In a pooled analysis of these four controlled clinical studies, the overall incidence of adverse events was 65% in patients treated with alogliptin and pioglitazone tablets compared to 57% treated with placebo.
-Overall discontinuation of therapy due to adverse events was 2.5% with alogliptin and pioglitazone tablets compared to 2.0% with placebo, 3.7% with pioglitazone or 1.3% with alogliptin.
+In a pooled analysis of these four controlled clinical studies, the overall incidence of adverse reactions was 65% in patients treated with alogliptin and pioglitazone tablets compared to 57% treated with placebo.
+Overall discontinuation of therapy due to adverse reactions was 2.5% with alogliptin and pioglitazone tablets compared to 2.0% with placebo, 3.7% with pioglitazone or 1.3% with alogliptin.
 
 Adverse reactions reported in ≥4% of patients treated with alogliptin and pioglitazone tablets and more frequently than in patients who received alogliptin, pioglitazone or placebo are summarized in Table 1.
 
@@ -41,42 +48,26 @@ In a 52-week, active-controlled, double-blind study of alogliptin as add-on ther
 
 Alogliptin
 
-Approximately 8500 patients with type 2 diabetes have been treated with alogliptin in 14 randomized, double-blind, controlled clinical trials with approximately 2900 subjects randomized to placebo and approximately 2200 to an active comparator.
-The mean exposure to alogliptin was 40 weeks with more than 2400 subjects treated for more than one year.
-Among these patients, 63% had a history of hypertension, 51% had a history of dyslipidemia, 25% had a history of myocardial infarction, 8% had a history of unstable angina and 7% had a history of congestive heart failure.
-The mean duration of diabetes was seven years, the mean BMI was 31 kg/m2 (51% of patients had a BMI ≥30 kg/m2) and the mean age was 57 years (24% of patients ≥65 years of age).
+A total of 14,778 patients with type 2 diabetes participated in 14 randomized, double-blind, controlled clinical trials of whom 9052 subjects were treated with alogliptin, 3469 subjects were treated with placebo and 2257 were treated with an active comparator.
+The mean duration of diabetes was seven years, the mean body mass index (BMI) was 31 kg/m2 (49% of patients had a BMI ≥30 kg/m2) and the mean age was 58 years (26% of patients ≥65 years of age).
 
-Two placebo-controlled monotherapy trials of 12 and 26 weeks in duration were conducted in patients treated with alogliptin 12.5 mg daily, alogliptin 25 mg daily and placebo.
-Four placebo-controlled add-on combination therapy trials of 26 weeks in duration were also conducted: with metformin, with a sulfonylurea, with a thiazolidinedione and with insulin.
+The mean exposure to alogliptin was 49 weeks with 3348 subjects treated for more than one year.
 
-Four placebo-controlled and one active-controlled trials of 16 weeks up through two years in duration were conducted in combination with metformin, in combination with pioglitazone and with pioglitazone added to a background of metformin therapy.
-
-Three active-controlled trials of 52 weeks in duration were conducted in patients treated with pioglitazone and metformin, in combination with metformin and as monotherapy compared to glipizide.
-
-In a pooled analysis of these 14 controlled clinical trials, the overall incidence of adverse events was 66% in patients treated with alogliptin 25 mg compared to 62% with placebo and 70% with active comparator.
-Overall discontinuation of therapy due to adverse events was 4.7% with alogliptin 25 mg compared to 4.5% with placebo or 6.2% with active comparator.
+In a pooled analysis of these 14 controlled clinical trials, the overall incidence of adverse reactions was 73% in patients treated with alogliptin 25 mg compared to 75% with placebo and 70% with active comparator.
+Overall discontinuation of therapy due to adverse reactions was 6.8% with alogliptin 25 mg compared to 8.4% with placebo or 6.2% with active comparator.
 
 Adverse reactions reported in ≥4% of patients treated with alogliptin 25 mg and more frequently than in patients who received placebo are summarized in Table 2.
 
 Table 2.
-Adverse Reactions Reported in ≥4% Patients Treated with Alogliptin 25 mg and More Frequently than in Patients Given Placebo in Pooled Studies
+Adverse Reactions Reported in ≥4% Patients Treated with Alogliptin 25 mg and More Frequently Than in Patients Given Placebo in Pooled Studies
 
-|  | N=5902 | N=2926 | N=2257 |
+|  | N=6447 | N=3469 | N=2257 |
 | --- | --- | --- | --- |
 |  | Number of Patients (%) |  |  |
 |  | Alogliptin 25 mg | Placebo | Active Comparator |
-| Nasopharyngitis | 257 (4.4) | 89 (3.0) | 113 (5.0) |
-| Headache | 247 (4.2) | 72 (2.5) | 121 (5.4) |
-| Upper Respiratory Tract Infection | 247 (4.2) | 61 (2.1) | 113 (5.0) |
-
-Pancreatitis
-
-In the clinical trial program, pancreatitis was reported in 11 of 5902 (0.2%) patients receiving alogliptin 25 mg daily compared to five of 5183 (˂0.1%) patients receiving all comparators.
-
-Hypersensitivity Reactions
-
-In a pooled analysis, the overall incidence of hypersensitivity reactions was 0.6% with alogliptin 25 mg compared to 0.8% with all comparators.
-A single event of serum sickness was reported in a patient treated with alogliptin 25 mg.
+| Nasopharyngitis | 309 (4.8) | 152 (4.4) | 113 (5.0) |
+| Upper Respiratory Tract Infection | 287 (4.5) | 121 (3.5) | 113 (5.0) |
+| Headache | 278 (4.3) | 101 (2.9) | 121 (5.4) |
 
 Hypoglycemia
 
@@ -86,19 +77,33 @@ In the monotherapy study, the incidence of hypoglycemia was 1.5% in patients tre
 The use of alogliptin as add-on therapy to glyburide or insulin did not increase the incidence of hypoglycemia compared to placebo.
 In a monotherapy study comparing alogliptin to a sulfonylurea in elderly patients, the incidence of hypoglycemia was 5.4% with alogliptin compared to 26% with glipizide.
 
+In the EXAMINE trial, the incidence of investigator reported hypoglycemia was 6.7% in patients receiving alogliptin and 6.5% in patients receiving placebo.
+Serious adverse reactions of hypoglycemia were reported in 0.8% of patients treated with alogliptin and in 0.6% of patients treated with placebo.
+
+Renal Impairment
+
+In glycemic control trials in patients with type 2 diabetes, 3.4% of patients treated with alogliptin and 1.3% of patients treated with placebo had renal function adverse reactions.
+The most commonly reported adverse reactions were renal impairment (0.5% for alogliptin and 0.1% for active comparators or placebo), decreased creatinine clearance (1.6% for alogliptin and 0.5% for active comparators or placebo) and increased blood creatinine (0.5% for alogliptin and 0.3% for active comparators or placebo) [see Use in Specific Populations (8.6)].
+
+In the EXAMINE trial of high CV risk type 2 diabetes patients, 23% of patients treated with alogliptin and 21% of patients treated with placebo had an investigator reported renal impairment adverse reaction.
+The most commonly reported adverse reactions were renal impairment (7.7% for alogliptin and 6.7% for placebo), decreased glomerular filtration rate (4.9% for alogliptin and 4.3% for placebo) and decreased renal clearance (2.2% for alogliptin and 1.8% for placebo).
+Laboratory measures of renal function were also assessed.
+Estimated glomerular filtration rate decreased by 25% or more in 21.1% of patients treated with alogliptin and 18.7% of patients treated with placebo.
+Worsening of chronic kidney disease stage was seen in 16.8% of patients treated with alogliptin and in 15.5% of patients treated with placebo.
+
 Pioglitazone
 
 Over 8500 patients with type 2 diabetes have been treated with pioglitazone in randomized, double-blind, controlled clinical trials, including 2605 patients with type 2 diabetes and macrovascular disease treated with pioglitazone in the PROactive clinical trial.
 In these trials, over 6000 patients have been treated with pioglitazone for six months or longer, over 4500 patients have been treated with pioglitazone for one year or longer, and over 3000 patients have been treated with pioglitazone for at least two years.
 
-Common Adverse Events: 16- to 26-Week Monotherapy Trials
+Common Adverse Reactions: 16- to 26-Week Monotherapy Trials
 
-A summary of the incidence and type of common adverse events reported in three pooled 16- to 26-week placebo-controlled monotherapy trials of pioglitazone is provided in Table 3.
+A summary of the incidence and type of common adverse reactions reported in three pooled 16- to 26-week placebo-controlled monotherapy trials of pioglitazone is provided in Table 3.
 Terms that are reported represent those that occurred at an incidence of >5% and more commonly in patients treated with pioglitazone than in patients who received placebo.
-None of these adverse events were related to pioglitazone dose.
+None of these adverse reactions were related to pioglitazone dose.
 
 Table 3.
-Three Pooled 16- to 26-Week Placebo-Controlled Clinical Trials of Pioglitazone Monotherapy: Adverse Events Reported at an Incidence >5% and More Commonly in Patients Treated with Pioglitazone than in Patients Treated with Placebo
+Three Pooled 16- to 26-Week Placebo-Controlled Clinical Trials of Pioglitazone Monotherapy: Adverse Reactions Reported at an Incidence >5% and More Commonly in Patients Treated with Pioglitazone than in Patients Treated with Placebo
 
 |  | Placebo N=259 | Pioglitazone N=606 |
 | --- | --- | --- |
@@ -111,14 +116,14 @@ Three Pooled 16- to 26-Week Placebo-Controlled Clinical Trials of Pioglitazone M
 
 Congestive Heart Failure
 
-A summary of the incidence of adverse events related to congestive heart failure for the 16- to 24-week add-on to sulfonylurea trials, for the 16- to 24-week add-on to insulin trials, and for the 16- to 24-week add-on to metformin trials were (at least one congestive heart failure, 0.2% to 1.7%; hospitalized due to congestive heart failure, 0.2% to 0.9%).
-None of the events were fatal.
+A summary of the incidence of adverse reactions related to congestive heart failure for the 16- to 24-week add-on to sulfonylurea trials, for the 16- to 24-week add-on to insulin trials, and for the 16- to 24-week add-on to metformin trials were (at least one congestive heart failure, 0.2% to 1.7%; hospitalized due to congestive heart failure, 0.2% to 0.9%).
+None of the reactions were fatal.
 
 Patients with type 2 diabetes and NYHA class II or early class III congestive heart failure were randomized to receive 24 weeks of double-blind treatment with either pioglitazone at daily doses of 30 mg to 45 mg (N=262) or glyburide at daily doses of 10 mg to 15 mg (N=256).
-A summary of the incidence of adverse events related to congestive heart failure reported in this study is provided in Table 4.
+A summary of the incidence of adverse reactions related to congestive heart failure reported in this study is provided in Table 4.
 
 Table 4.
-Treatment-Emergent Adverse Events of Congestive Heart Failure (CHF) in Patients with NYHA Class II or III Congestive Heart Failure Treated with Pioglitazone or Glyburide
+Treatment-Emergent Adverse Reactions of Congestive Heart Failure (CHF) in Patients with NYHA Class II or III Congestive Heart Failure Treated with Pioglitazone or Glyburide
 
 |  | Pioglitazone N=262 | Glyburide N=256 |
 | --- | --- | --- |
@@ -131,7 +136,7 @@ Treatment-Emergent Adverse Events of Congestive Heart Failure (CHF) in Patients 
 Congestive heart failure events leading to hospitalization that occurred during the PROactive trial are summarized in Table 5.
 
 Table 5.
-Treatment-Emergent Adverse Events of Congestive Heart Failure (CHF) in PROactive Trial
+Treatment-Emergent Adverse Reactions of Congestive Heart Failure (CHF) in PROactive Trial
 
 |  | Placebo N=2633 | Pioglitazone N=2605 |
 | --- | --- | --- |
@@ -189,7 +194,7 @@ None of the patients treated with pioglitazone in the pioglitazone controlled cl
 
 Hypoglycemia
 
-In the pioglitazone clinical trials, adverse events of hypoglycemia were reported based on clinical judgment of the investigators and did not require confirmation with fingerstick glucose testing.
+In the pioglitazone clinical trials, adverse reactions of hypoglycemia were reported based on clinical judgment of the investigators and did not require confirmation with fingerstick glucose testing.
 In the 16-week add-on to sulfonylurea trial, the incidence of reported hypoglycemia was 3.7% with pioglitazone 30 mg and 0.5% with placebo.
 In the 16-week add-on to insulin trial, the incidence of reported hypoglycemia was 7.9% with pioglitazone 15 mg, 15.4% with pioglitazone 30 mg and 4.8% with placebo.
 The incidence of reported hypoglycemia was higher with pioglitazone 45 mg compared to pioglitazone 30 mg in both the 24-week add-on to sulfonylurea trial (15.7% versus 13.4%) and in the 24-week add-on to insulin trial (47.8% versus 43.5%).
@@ -206,10 +211,6 @@ After excluding patients in whom exposure to study drug was less than one year a
 There are too few events of bladder cancer to establish causality.
 
 ## 6.2 Laboratory Abnormalities
-
-Alogliptin
-
-No clinically meaningful changes in hematology, serum chemistry or urinalysis were observed in patients treated with alogliptin.
 
 Pioglitazone
 
@@ -234,7 +235,7 @@ Alogliptin
 The following adverse reactions have been identified during the postmarketing use of alogliptin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria and severe cutaneous adverse reactions, including Stevens-Johnson syndrome, hepatic enzyme elevations, fulminant hepatic failure, severe and disabling arthralgia and acute pancreatitis [see Warnings and Precautions (5.2, 5.3, 5.4, 5.11)].
+Hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria and severe cutaneous adverse reactions, including Stevens-Johnson syndrome, hepatic enzyme elevations, fulminant hepatic failure, severe and disabling arthralgia, acute pancreatitis, diarrhea, constipation, nausea and ileus [see Warnings and Precautions (5.2, 5.3, 5.4, 5.11)].
 
 Pioglitazone
 
