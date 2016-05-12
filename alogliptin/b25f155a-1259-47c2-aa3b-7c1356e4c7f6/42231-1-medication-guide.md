@@ -9,7 +9,10 @@ If you have any questions about alogliptin tablets, ask your doctor or pharmacis
 
 What is the most important information I should know about alogliptin tablets?
 
-Serious side effects can happen to people taking alogliptin tablets, including inflammation of the pancreas (pancreatitis), which may be severe.
+Serious side effects can happen to people taking alogliptin tablets, including:
+
+1.
+Inflammation of the pancreas (pancreatitis): Alogliptin tablets may cause pancreatitis which may be severe.
 
 Certain medical conditions make you more likely to get pancreatitis.
 
@@ -17,13 +20,27 @@ Before you start taking alogliptin tablets:
 
 Tell your doctor if you have ever had:
 
-| •pancreatitis•kidney problems | •stones in your gallbladder (gallstones)•liver problems | •a history of alcoholism |
+| •pancreatitis | •kidney problems | •liver problems |
 | --- | --- | --- |
 
 Stop taking alogliptin tablets and call your doctor right away if you have pain in your stomach area (abdomen) that is severe and will not go away.
 The pain may be felt going from your abdomen through to your back.
 The pain may happen with or without vomiting.
 These may be symptoms of pancreatitis.
+
+2.
+Heart failure:
+
+Before you start taking alogliptin tablets:
+
+Tell your healthcare provider if you have ever had heart failure or have problems with your kidneys.
+
+Contact your healthcare provider right away if you have any of the following symptoms:
+
+| •increasing shortness of breath or trouble breathing especially when lying down | •an unusually fast increase in weight | •swelling of feet, ankles, or legs |
+| --- | --- | --- |
+
+These may be symptoms of heart failure.
 
 What is alogliptin tablets?
 

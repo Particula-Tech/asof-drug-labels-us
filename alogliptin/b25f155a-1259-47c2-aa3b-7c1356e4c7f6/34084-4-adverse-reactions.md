@@ -1,45 +1,35 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1 Clinical Studies Experience
+The following serious adverse reactions are described below or elsewhere in the prescribing information:
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+- Pancreatitis [see Warnings and Precautions (5.1)]
+- Heart Failure [see Warnings and Precautions (5.2)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.3)]
+- Hepatic Effects [see Warnings and Precautions (5.4)]
 
-Approximately 8500 patients with type 2 diabetes have been treated with alogliptin tablets in 14 randomized, double-blind, controlled clinical trials with approximately 2900 subjects randomized to placebo and approximately 2200 to an active comparator.
-The mean exposure to alogliptin tablets was 40 weeks with more than 2400 subjects treated for more than one year.
-Among these patients, 63% had a history of hypertension, 51% had a history of dyslipidemia, 25% had a history of myocardial infarction, 8% had a history of unstable angina and 7% had a history of congestive heart failure.
-The mean duration of diabetes was seven years, the mean body mass index (BMI) was 31 kg/m2 (51% of patients had a BMI ≥30 kg/m2), and the mean age was 57 years (24% of patients ≥65 years of age).
+## 6.1 Clinical Trials Experience
 
-Two placebo-controlled monotherapy trials of 12 and 26 weeks of duration were conducted in patients treated with alogliptin tablets 12.5 mg daily, alogliptin tablets 25 mg daily and placebo.
-Four placebo-controlled add-on combination therapy trials of 26 weeks duration were also conducted: with metformin, with a sulfonylurea, with a thiazolidinedione and with insulin.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Four placebo-controlled and one active-controlled trials of 16 weeks up through two years in duration were conducted in combination with metformin, in combination with pioglitazone and with pioglitazone added to a background of metformin therapy.
+A total of 14,778 patients with type 2 diabetes participated in 14 randomized, double-blind, controlled clinical trials of whom 9052 subjects were treated with alogliptin tablets, 3469 subjects were treated with placebo and 2257 were treated with an active comparator.
+The mean duration of diabetes was seven years, the mean body mass index (BMI) was 31 kg/m2 (49% of patients had a BMI ≥30 kg/m2), and the mean age was 58 years (26% of patients ≥65 years of age).
+The mean exposure to alogliptin tablets was 49 weeks with 3348 subjects treated for more than one year.
 
-Three active-controlled trials of 52 weeks in duration were conducted in patients treated with pioglitazone and metformin, in combination with metformin and as monotherapy compared to glipizide.
-
-In a pooled analysis of these 14 controlled clinical trials, the overall incidence of adverse events was 66% in patients treated with alogliptin tablets 25 mg compared to 62% with placebo and 70% with active comparator.
-Overall discontinuation of therapy due to adverse events was 4.7% with alogliptin tablets 25 mg compared to 4.5% with placebo or 6.2% with active comparator.
+In a pooled analysis of these 14 controlled clinical trials, the overall incidence of adverse reactions was 73% in patients treated with alogliptin tablets 25 mg compared to 75% with placebo and 70% with active comparator.
+Overall discontinuation of therapy due to adverse reactions was 6.8% with alogliptin tablets 25 mg compared to 8.4% with placebo or 6.2% with active comparator.
 
 Adverse reactions reported in ≥4% of patients treated with alogliptin tablets 25 mg and more frequently than in patients who received placebo are summarized in Table 1.
 
 Table 1.
 Adverse Reactions Reported in ≥4% Patients Treated with Alogliptin Tablets 25 mg and More Frequently Than in Patients Given Placebo in Pooled Studies
 
-|  | N=5902 | N=2926 | N=2257 |
+|  | N=6447 | N=3469 | N=2257 |
 | --- | --- | --- | --- |
 |  | Number of Patients (%) |  |  |
 |  | Alogliptin Tablets 25 mg | Placebo | Active Comparator |
-| Nasopharyngitis | 257 (4.4) | 89 (3.0) | 113 (5.0) |
-| Headache | 247 (4.2) | 72 (2.5) | 121 (5.4) |
-| Upper Respiratory Tract Infection | 247 (4.2) | 61 (2.1) | 113 (5.0) |
-
-Pancreatitis
-
-In the clinical trial program, pancreatitis was reported in 11 of 5902 (0.2%) patients receiving alogliptin tablets 25 mg daily compared to five of 5183 (<0.1%) patients receiving all comparators.
-
-Hypersensitivity Reactions
-
-In a pooled analysis, the overall incidence of hypersensitivity reactions was 0.6% with alogliptin tablets 25 mg compared to 0.8% with all comparators.
-A single event of serum sickness was reported in a patient treated with alogliptin tablets 25 mg.
+| Nasopharyngitis | 309 (4.8) | 152 (4.4) | 113 (5.0) |
+| Upper Respiratory Tract Infection | 287 (4.5) | 121 (3.5) | 113 (5.0) |
+| Headache | 278 (4.3) | 101 (2.9) | 121 (5.4) |
 
 Hypoglycemia
 
@@ -50,22 +40,22 @@ The use of alogliptin tablets as add-on therapy to glyburide or insulin did not 
 In a monotherapy study comparing alogliptin tablets to a sulfonylurea in elderly patients, the incidence of hypoglycemia was 5.4% with alogliptin tablets compared to 26% with glipizide (Table 2).
 
 Table 2.
-Incidence and Rate of HypoglycemiaAdverse reactions of hypoglycemia were based on all reports of symptomatic and asymptomatic hypoglycemia; a concurrent glucose measurement was not required; intent-to-treat population. in Placebo and Active-Controlled Studies when Alogliptin Tablets Were Used as Add-On Therapy to Glyburide, Insulin, Metformin, Pioglitazone or Compared to Glipizide
+Incidence and Rate of HypoglycemiaAdverse reactions of hypoglycemia were based on all reports of symptomatic and asymptomatic hypoglycemia; a concurrent glucose measurement was not required; intent-to-treat population. in Placebo and Active-Controlled Studies when Alogliptin Tablets Were Used as Add-On Therapy to Glyburide, Insulin, Metformin, Pioglitazone or Compared to Glipizide or Metformin
 
-| Add-On to Glyburide (26 Weeks) | Alogliptin Tablets 25 mg + Glyburide | Placebo + Glyburide |
+| Add-On to Glyburide (26 Weeks) | Alogliptin Tablets 25 mg | Placebo |
 | --- | --- | --- |
 |  | N=198 | N=99 |
 | Overall (%) | 19 (9.6) | 11 (11.1) |
 | Severe (%)Severe events of hypoglycemia were defined as those events requiring medical assistance or exhibiting depressed level or loss of consciousness or seizure. | 0 | 1 (1) |
-| Add-On to Insulin (± Metformin) (26 Weeks) | Alogliptin Tablets 25 mg + Insulin (± Metformin) | Placebo + Insulin (± Metformin) |
+| Add-On to Insulin (± Metformin) (26 Weeks) | Alogliptin Tablets 25 mg | Placebo |
 |  | N=129 | N=129 |
 | Overall (%) | 35 (27) | 31 (24) |
 | Severe (%) | 1 (0.8) | 2 (1.6) |
-| Add-On to Metformin (26 Weeks) | Alogliptin Tablets 25 mg + Metformin | Placebo + Metformin |
+| Add-On to Metformin (26 Weeks) | Alogliptin Tablets 25 mg | Placebo |
 |  | N=207 | N=104 |
 | Overall (%) | 0 | 3 (2.9) |
 | Severe (%) | 0 | 0 |
-| Add-On to Pioglitazone (± Metformin or Sulfonylurea) (26 Weeks) | Alogliptin Tablets 25 mg + Pioglitazone | Placebo + Pioglitazone |
+| Add-On to Pioglitazone (± Metformin or Sulfonylurea) (26 Weeks) | Alogliptin Tablets 25 mg | Placebo |
 |  | N=199 | N=97 |
 | Overall (%) | 14 (7.0) | 5 (5.2) |
 | Severe (%) | 0 | 1 (1) |
@@ -73,26 +63,32 @@ Incidence and Rate of HypoglycemiaAdverse reactions of hypoglycemia were based o
 |  | N=222 | N=219 |
 | Overall (%) | 12 (5.4) | 57 (26) |
 | Severe (%) | 0 | 3 (1.4) |
-| Add-On to Metformin (26 Weeks) | Alogliptin Tablets 25 mg | Metformin 500 mg twice daily |
+| Compared to Metformin (26 Weeks) | Alogliptin Tablets 25 mg | Metformin 500 mg twice daily |
 |  | N=112 | N=109 |
 | Overall (%) | 2 (1.8) | 2 (1.8) |
 | Severe (%) | 0 | 0 |
-| Add-On to Metformin Compared to Glipizide (52 Weeks) | Alogliptin Tablets 25 mg + Metformin | Glipizide + Metformin |
+| Add-On to Metformin Compared to Glipizide (52 Weeks) | Alogliptin Tablets 25 mg | Glipizide |
 |  | N=877 | N=869 |
 | Overall (%) | 12 (1.4) | 207 (23.8) |
 | Severe (%) | 0 | 4 (0.5) |
 
-Vital Signs
+In the EXAMINE trial, the incidence of investigator reported hypoglycemia was 6.7% in patients receiving alogliptin tablets and 6.5% in patients receiving placebo.
+Serious adverse reactions of hypoglycemia were reported in 0.8% of patients treated with alogliptin tablets and in 0.6% of patients treated with placebo.
 
-No clinically meaningful changes in vital signs or in electrocardiograms were observed in patients treated with alogliptin tablets.
+Renal Impairment
 
-Laboratory Tests
+In glycemic control trials in patients with type 2 diabetes, 3.4% of patients treated with alogliptin tablets and 1.3% of patients treated with placebo had renal function adverse reactions.
+The most commonly reported adverse reactions were renal impairment (0.5% for alogliptin tablets and 0.1% for active comparators or placebo), decreased creatinine clearance (1.6% for alogliptin tablets and 0.5% for active comparators or placebo) and increased blood creatinine (0.5% for alogliptin tablets and 0.3% for active comparators or placebo) [see Use in Specific Populations (8.6)].
 
-No clinically meaningful changes in hematology, serum chemistry or urinalysis were observed in patients treated with alogliptin tablets.
+In the EXAMINE trial of high CV risk type 2 diabetes patients, 23% of patients treated with alogliptin tablets and 21% of patients treated with placebo had an investigator reported renal impairment adverse reaction.
+The most commonly reported adverse reactions were renal impairment (7.7% for alogliptin tablets and 6.7% for placebo), decreased glomerular filtration rate (4.9% for alogliptin tablets and 4.3% for placebo) and decreased renal clearance (2.2% for alogliptin tablets and 1.8% for placebo).
+Laboratory measures of renal function were also assessed.
+Estimated glomerular filtration rate decreased by 25% or more in 21.1% of patients treated with alogliptin tablets and 18.7% of patients treated with placebo.
+Worsening of chronic kidney disease stage was seen in 16.8% of patients treated with alogliptin tablets and in 15.5% of patients treated with placebo.
 
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during the postmarketing use of alogliptin tablets.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria and severe cutaneous adverse reactions, including Stevens-Johnson syndrome, hepatic enzyme elevations, fulminant hepatic failure, severe and disabling arthralgia and acute pancreatitis [see Warnings and Precautions (5.1, 5.2, 5.3, 5.5)].
+Hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria and severe cutaneous adverse reactions, including Stevens-Johnson syndrome, hepatic enzyme elevations, fulminant hepatic failure, severe and disabling arthralgia acute pancreatitis diarrhea, constipation, nausea, and ileus [see Warnings and Precautions (5.1, 5.2, 5.3, 5.5)].

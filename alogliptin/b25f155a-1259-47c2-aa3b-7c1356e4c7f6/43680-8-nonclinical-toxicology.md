@@ -3,7 +3,7 @@
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Rats were administered oral doses of 75, 400 and 800 mg/kg alogliptin for two years.
-No drug-related tumors were observed up to 75 mg/kg or approximately 32 times the maximum recommended clinical dose of 25 mg, based on AUC exposure.
+No drug-related tumors were observed up to 75 mg/kg or approximately 32 times the maximum recommended clinical dose of 25 mg, based on area under the plasma concentration curve (AUC) exposure.
 At higher doses (approximately 308 times the maximum recommended clinical dose of 25 mg), a combination of thyroid C-cell adenomas and carcinomas increased in male but not female rats.
 No drug-related tumors were observed in mice after administration of 50, 150 or 300 mg/kg alogliptin for two years, or up to approximately 51 times the maximum recommended clinical dose of 25 mg, based on AUC exposure.
 
