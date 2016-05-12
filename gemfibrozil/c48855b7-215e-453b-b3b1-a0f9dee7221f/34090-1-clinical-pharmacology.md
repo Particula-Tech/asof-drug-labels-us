@@ -44,7 +44,7 @@ Table II Cardiac Events and All-Cause Mortality (events per 1000 patients) Occur
 
 Cumulative mortality through 8.5 years showed a 20% relative excess of deaths in the group originally randomized to LOPID versus the originally randomized placebo group and a 20% relative decrease in cardiac events in the group originally randomized to LOPID versus the originally randomized placebo group (see Table III).
 This analysis of the originally randomized "intent-to-treat'' population neglects the possible complicating effects of treatment switching during the open-label phase.
-Adjustment of hazard ratios taking into account open-label treatment status from years 6.5 to 8.5, could change the reported hazard ratios for mortality toward unity.
+Adjustment of hazard ratios, taking into account open-label treatment status from years 6.5 to 8.5, could change the reported hazard ratios for mortality toward unity.
 
 Table III Cardiac Events, Cardiac Deaths, Non-Cardiac Deaths, and All-Cause Mortality in the Helsinki Heart Study, Years 0–8.5Intention-to-Treat Analysis of originally randomized patients neglecting the open-label treatment switches and exposure to study conditions.
 
