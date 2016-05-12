@@ -20,9 +20,9 @@ Apart from the severity and duration of their disease, the two populations diffe
 Patients with early disease did not receive concomitant levodopa therapy during treatment with pramipexole; those with advanced Parkinson's disease all received concomitant levodopa treatment.
 Because these two populations may have differential risks for various adverse reactions, this section will, in general, present adverse-reaction data for these two populations separately.
 
-Because the controlled trials performed during premarketing development all used a titration design, with a resultant confounding of time and dose, it was impossible to adequately evaluate the effects of dose on the incidence of adverse events.
+Because the controlled trials performed during premarketing development all used a titration design, with a resultant confounding of time and dose, it was impossible to adequately evaluate the effects of dose on the incidence of adverse reactions.
 
-Early Parkinson's Disease In the three double-blind, placebo-controlled trials of patients with early Parkinson's disease, the most common observed adverse reaction (>5%) that were numerically more frequent in the group treated with pramipexole dihydrochloride tablets were nausea, dizziness, somnolence, insomnia, constipation, asthenia, and hallucinations.
+Early Parkinson's Disease In the three double-blind, placebo-controlled trials of patients with early Parkinson's disease, the most common observed adverse reactions (>5%) that were numerically more frequent in the group treated with pramipexole dihydrochloride tablets were nausea, dizziness, somnolence, insomnia, constipation, asthenia, and hallucinations.
 
 Approximately 12% of 388 patients with early Parkinson’s disease and treated with pramipexole dihydrochloride tablets who participated in the double-blind, placebo-controlled trials discontinued treatment due to adverse reactions compared with 11% of 235 patients who received placebo.
 The adverse reactions most commonly causing discontinuation of treatment were related to the nervous system (hallucinations [3.1% on pramipexole dihydrochloride tablets vs 0.4% on placebo]; dizziness [2.1% on pramipexole dihydrochloride tablets vs 1% on placebo]; somnolence [1.6% on pramipexole dihydrochloride tablets vs 0% on placebo]; headache and confusion [1.3% and 1.0%, respectively, on pramipexole dihydrochloride tablets vs 0% on placebo]); and gastrointestinal system (nausea [2.1% on pramipexole dihydrochloride tablets vs 0.4% on placebo]).
@@ -70,7 +70,7 @@ In a fixed-dose study in early Parkinson's disease, occurrence of the following 
 The frequency of these reactions was generally 2-fold greater than placebo for pramipexole doses greater than 3 mg/day.
 The incidence of somnolence with pramipexole at a dose of 1.5 mg/day was comparable to that reported for placebo.
 
-Advanced Parkinson's Disease In the four double-blind, placebo-controlled trials of patients with advanced Parkinson's disease, the most common observed adverse reactions (>5%) that were numerically more frequent in the group treated with pramipexole dihydrochloride tablets and concomitant levodopa were postural (orthostatic) hypotension, dyskinesia, extrapyramidal syndrome, insomnia, dizziness, hallucinations, accidental injury, dream abnormalities, confusion, constipation, asthenia, somnolence, dystonia, gait abnormality, hypertonia, dry mouth, amnesia, and urinary frequency.
+Advanced Parkinson's Disease In the four double-blind, placebo-controlled trials of patients with advanced Parkinson's disease, the most common adverse reactions (>5%) that were numerically more frequent in the group treated with pramipexole dihydrochloride tablets and concomitant levodopa were postural (orthostatic) hypotension, dyskinesia, extrapyramidal syndrome, insomnia, dizziness, hallucinations, accidental injury, dream abnormalities, confusion, constipation, asthenia, somnolence, dystonia, gait abnormality, hypertonia, dry mouth, amnesia, and urinary frequency.
 
 Approximately 12% of 260 patients with advanced Parkinson’s disease who received pramipexole dihydrochloride tablets and concomitant levodopa in the double-blind, placebo-controlled trials discontinued treatment due to adverse reactions compared with 16% of 264 patients who received placebo and concomitant levodopa.
 The reactions most commonly causing discontinuation of treatment were related to the nervous system (hallucinations [2.7% on pramipexole dihydrochloride tablets vs 0.4% on placebo]; dyskinesia [1.9% on pramipexole dihydrochloride tablets vs 0.8% on placebo] and cardiovascular system (postural [orthostatic] hypotension [2.3% on pramipexole dihydrochloride tablets vs 1.1% on placebo]).
@@ -80,7 +80,7 @@ In these studies, pramipexole dihydrochloride tablets or placebo was administere
 
 Table 5: Adverse-Reactions in Pooled Double-Blind, Placebo-Controlled Trials with Pramipexole Dihydrochloride Tablets in Advanced Parkinson’s Disease
 
-| Body System/ Adverse Reaction | Pramipexole Dihydrochloride tablets† (N=260) % | Placebo† (N=264) % |
+| Body System/ Adverse Reaction | Pramipexole Dihydrochloride tablets (N=260) % | Placebo (N=264) % |
 | --- | --- | --- |
 | Nervous System |  |  |
 | Dyskinesia | 47 | 31 |
@@ -134,9 +134,9 @@ Table 5: Adverse-Reactions in Pooled Double-Blind, Placebo-Controlled Trials wit
 | Skin & Appendages |  |  |
 | Skin disorders | 2 | 1 |
 
-Adverse Events: Relationship to Age, Gender, and Race Among the adverse reactions in patients treated with pramipexole dihydrochloride tablets, hallucination appeared to exhibit a positive relationship to age in patients with Parkinson’s disease.
+Adverse Reactions: Relationship to Age, Gender, and Race Among the adverse reactions in patients treated with pramipexole dihydrochloride tablets, hallucination appeared to exhibit a positive relationship to age in patients with Parkinson’s disease.
 No gender-related differences were observed in Parkinson’s disease patients.
-Less than 4% of patients enrolled were non-Caucasian: therefore, an evaluation of adverse events related to race is not possible.
+Less than 4% of patients enrolled were non-Caucasian: therefore, an evaluation of adverse reactions related to race is not possible.
 
 Laboratory Tests During the development of pramipexole dihydrochloride tablets, no systematic abnormalities on routine laboratory testing were noted.
 
@@ -144,5 +144,5 @@ Laboratory Tests During the development of pramipexole dihydrochloride tablets, 
 
 In addition to the adverse events reported during clinical trials, the following adverse reactions have been identified during post-approval use of pramipexole dihydrochloride tablets, primarily in Parkinson’s disease patients.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-Decisions to include these events in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of reporting, or (3) strength of causal connection to pramipexole tablets.
-Similar types of reactions were grouped into a smaller number of standardized categories using the MedDRA terminology: cardiac failure, inappropriate antidiuretic hormone secretion (SIADH), syncope, vomiting, and weight increase.
+Decisions to include these reactions in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of reporting, or (3) strength of causal connection to pramipexole tablets.
+Similar types of reactions were grouped into a smaller number of standardized categories using the MedDRA terminology: cardiac failure, inappropriate antidiuretic hormone secretion (SIADH), skin reactions (including erythema, rash, pruritus, urticaria), syncope, vomiting, and weight increase.

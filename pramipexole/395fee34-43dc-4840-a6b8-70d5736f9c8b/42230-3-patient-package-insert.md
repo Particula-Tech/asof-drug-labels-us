@@ -103,8 +103,8 @@ Sit and stand up slowly after you have been sitting or lying down.
 - unusual urges.
   Some people who take certain medicines to treat Parkinson’s disease, including pramipexole dihydrochloride tablets, have reported problems, such as gambling, compulsive eating, compulsive buying, and increased sex drive.
 - If you or your family members notice that you are developing unusual urges or behaviors, talk to your doctor.
-- hallucinations and other psychotic-like behavior (seeing visions, hearing sounds or feeling sensations that are not real, confusion, excessive suspicion, aggressive behavior, agitation, delusion beliefs and disorganized thinking).
-  Your chance of having hallucinations and other psychotic-like behaviour is higher if yo are elderly (age 65 or older).
+- hallucinations and other psychotic-like behavior (seeing visions, hearing sounds or feeling sensations that are not real, confusion, excessive suspicion, aggressive behavior, agitation, delusional beliefs and disorganized thinking).
+  Your chance of having hallucinations and other psychotic-like behavior is higher if you are elderly (age 65 or older).
   If you have hallucinations or other psychotic-like changes, talk with your doctor right away.
 - uncontrolled sudden movements (dyskinesia).
   If you have new dyskinesia or your existing dyskinesia gets worse tell your doctor.
@@ -152,7 +152,7 @@ For more information, call ScieGen Pharmaceuticals, Inc. at 1-855-724-3436.
 
 What are the ingredients in pramipexole dihydrochloride tablets?
 
-Active Ingredient: pramipexole dihydrochloride USP Inactive Ingredients: Mannitol, corn starch, colloidal silicon dioxide, povidone and magnesium stearate.
+Active Ingredient: pramipexole dihydrochloride Inactive Ingredients: Mannitol, corn starch, colloidal silicon dioxide, povidone and magnesium stearate.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
@@ -160,4 +160,4 @@ The brands listed are trademarks of their respective owners and are not trademar
 
 Manufactured by: ScieGen Pharmaceuticals, Inc. Hauppauge, NY 11788 USA
 
-Rev: 06/15
+Rev: 02/16
