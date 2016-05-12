@@ -1,8 +1,8 @@
-Zestril is a trademark of Alvogen Pharma US, Inc.
+Zestril is a registered trademark of Alvogen Malta Operations Ltd.
 
 Manufactured by: AstraZeneca UK Limited, Macclesfield, UK
 
 Distributed by: Almatica Pharma, Inc. Pine Brook, NJ 07058 USA
 
-PI438-04 Rev.
-06/2015
+PI438-06 Rev.
+05/2016
