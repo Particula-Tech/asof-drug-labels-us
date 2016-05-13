@@ -39,8 +39,6 @@ Retinal changes (and visual disturbances) may progress even after cessation of t
 
 Suicidal behavior has been reported in very rare cases in patients treated with hydroxychloroquine.
 
-Extrapyramidal disorders may occur with PLAQUENIL (see ADVERSE REACTIONS).
-
 ## Adverse Reactions
 
 Following the administration in doses adequate for the treatment of an acute malarial attack, mild and transient headache, dizziness, and gastrointestinal complaints (diarrhea, anorexia, nausea, abdominal cramps and, on rare occasions, vomiting) may occur.
@@ -48,7 +46,7 @@ Cardiomyopathy has been rarely reported with high daily dosages of hydroxychloro
 
 Psychiatric disorders: Nervousness, emotional lability, psychosis, suicidal behavior.
 
-Nervous system disorders: Dizziness, headache, convulsions and extrapyramidal disorders such as dystonia, dyskinesia, and tremor (see WARNINGS) have been reported with this class of drugs.
+Nervous system disorders: Dizziness, headache, and convulsions have been reported with this class of drugs.
 
 Eye disorders: Retinopathy with changes in pigmentation and visual field defects have been reported.
 In its early form, it appears reversible on discontinuation of hydroxychloroquine.
@@ -126,8 +124,6 @@ In the treatment of rheumatoid arthritis, if objective improvement (such as redu
 Safe use of the drug in the treatment of juvenile arthritis has not been established.
 
 Suicidal behavior has been reported in very rare cases in patients treated with hydroxychloroquine.
-
-Extrapyramidal disorders may occur with PLAQUENIL (see ADVERSE REACTIONS).
 
 ## Precautions
 

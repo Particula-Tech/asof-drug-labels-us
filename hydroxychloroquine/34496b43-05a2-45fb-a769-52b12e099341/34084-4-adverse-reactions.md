@@ -2,7 +2,7 @@
 
 Psychiatric disorders: Nervousness, emotional lability, psychosis, suicidal behavior.
 
-Nervous system disorders: Dizziness, headache, convulsions and extrapyramidal disorders such as dystonia, dyskinesia, and tremor (see WARNINGS, General) have been reported with this class of drugs.
+Nervous system disorders: Dizziness, headache, and convulsions have been reported with this class of drugs.
 
 Eye disorders: Retinopathy with changes in pigmentation and visual field defects have been reported.
 In its early form, it appears reversible on discontinuation of hydroxychloroquine.

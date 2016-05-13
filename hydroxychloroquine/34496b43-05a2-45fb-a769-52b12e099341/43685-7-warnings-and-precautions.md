@@ -24,8 +24,6 @@ Retinal changes (and visual disturbances) may progress even after cessation of t
 
 Suicidal behavior has been reported in very rare cases in patients treated with hydroxychloroquine.
 
-Extrapyramidal disorders may occur with PLAQUENIL (see ADVERSE REACTIONS).
-
 Children are especially sensitive to the 4-aminoquinoline compounds.
 A number of fatalities have been reported following the accidental ingestion of chloroquine, sometimes in relatively small doses (0.75 g or 1 g in one 3-year-old child).
 Patients should be strongly warned to keep these drugs out of the reach of children.
