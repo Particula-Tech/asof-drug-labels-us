@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA019618"
+  ],
+  "inn": "mesalamine",
+  "labeler": "ANI Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "62559-420-07",
+    "62559-420-11"
+  ],
+  "products": [
+    {
+      "form": "ENEMA",
+      "generic": "mesalamine",
+      "name": "Mesalamine"
+    }
+  ],
+  "setid": "3cf751f2-a0c9-45d7-8acb-2bc61db0e4ac",
+  "source": "dailymed"
+}
