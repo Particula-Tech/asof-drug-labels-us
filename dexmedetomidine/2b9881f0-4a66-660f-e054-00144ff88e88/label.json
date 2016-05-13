@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA204023"
+  ],
+  "inn": "dexmedetomidine",
+  "labeler": "Accord Healthcare Inc.",
+  "package_ndcs": [
+    "16729-239-30",
+    "16729-239-93"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "dexmedetomidine hydrochloride",
+      "name": "Dexmedetomidine hydrochloride"
+    }
+  ],
+  "setid": "2b9881f0-4a66-660f-e054-00144ff88e88",
+  "source": "dailymed"
+}
