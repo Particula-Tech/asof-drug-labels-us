@@ -10,6 +10,9 @@ General supportive care, including frequent monitoring of the vital signs and cl
 Hypotension, though unlikely, may be controlled with intravenous fluids and vasopressors (do not use epinephrine as hydroxyzine counteracts its pressor action).
 Caffeine and Sodium Benzoate Injection, USP, may be used to counteract central nervous system depressant effects.
 
+Hydroxyzine overdose may cause QT prolongation and Torsade de Pointes.
+ECG monitoring is recommended in cases of hydroxyzine overdose.
+
 There is no specific antidote.
 It is doubtful that hemodialysis would be of any value in the treatment of overdosage with hydroxyzine.
 However, if other agents such as barbiturates have been ingested concomitantly, hemodialysis may be indicated.
