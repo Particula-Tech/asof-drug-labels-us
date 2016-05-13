@@ -17,7 +17,7 @@ No evidence of reproductive/developmental toxicity occurred in the offspring of 
 ## 8.3 Nursing Mothers
 
 It is not known whether pegfilgrastim is secreted in human milk.
-Other recombinant G-CSF products are poorly secreted in breast milk and G-CSF is not orally absorbed by neonates.
+Other recombinant G-CSF products are poorly secreted in breast milk, and G-CSF is not orally absorbed by neonates.
 Caution should be exercised when administered to a nursing woman.
 
 ## 8.4 Pediatric Use
@@ -25,7 +25,7 @@ Caution should be exercised when administered to a nursing woman.
 The safety and effectiveness of Neulasta have been established in pediatric patients.
 No overall differences in safety were identified between adult and pediatric patients based on postmarketing surveillance and review of the scientific literature.
 
-Use of Neulasta in pediatric patients for chemotherapy-induced neutropenia is based on adequate and well controlled studies in adults with additional pharmacokinetic and safety data in pediatric patients with sarcoma [see Clinical Pharmacology (12.3) and Clinical Studies (14.1)].
+Use of Neulasta in pediatric patients for chemotherapy-induced neutropenia is based on adequate and well-controlled studies in adults with additional pharmacokinetic and safety data in pediatric patients with sarcoma [see Clinical Pharmacology (12.3) and Clinical Studies (14.1)].
 
 The use of Neulasta to increase survival in pediatric patients acutely exposed to myelosuppressive doses of radiation is based on efficacy studies conducted in animals and clinical data supporting the use of Neulasta in patients with cancer receiving myelosuppressive chemotherapy.
 Efficacy studies of Neulasta could not be conducted in humans with acute radiation syndrome for ethical and feasibility reasons.

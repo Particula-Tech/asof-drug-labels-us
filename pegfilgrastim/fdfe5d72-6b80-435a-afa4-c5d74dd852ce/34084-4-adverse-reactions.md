@@ -2,15 +2,15 @@
 
 The following serious adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- Splenic Rupture [See Warnings and Precautions (5.1)]
-- Acute Respiratory Distress Syndrome [See Warnings and Precautions (5.2)]
-- Serious Allergic Reactions [See Warnings and Precautions (5.3)]
-- Allergies to Acrylics [See Warnings and Precautions (5.4)]
-- Use in Patients with Sickle Cell Disorders [See Warnings and Precautions (5.5)]
-- Glomerulonephritis [See Warnings and Precautions (5.6)]
-- Leukocytosis [See Warnings and Precautions (5.7)]
-- Capillary Leak Syndrome [See Warnings and Precautions (5.8)]
-- Potential for Tumor Growth Stimulatory Effects on Malignant Cells [See Warnings and Precautions (5.9)]
+- Splenic Rupture [see Warnings and Precautions (5.1)]
+- Acute Respiratory Distress Syndrome [see Warnings and Precautions (5.2)]
+- Serious Allergic Reactions [see Warnings and Precautions (5.3)]
+- Allergies to Acrylics [see Warnings and Precautions (5.4)]
+- Use in Patients with Sickle Cell Disorders [see Warnings and Precautions (5.5)]
+- Glomerulonephritis [see Warnings and Precautions (5.6)]
+- Leukocytosis [see Warnings and Precautions (5.7)]
+- Capillary Leak Syndrome [see Warnings and Precautions (5.8)]
+- Potential for Tumor Growth Stimulatory Effects on Malignant Cells [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -25,14 +25,14 @@ Most patients received a single 100 mcg/kg (n = 259) or a single 6 mg (n = 546) 
 The following adverse reaction data in Table 2 are from a randomized, double-blind, placebo-controlled study in patients with metastatic or non-metastatic breast cancer receiving docetaxel 100 mg/m2 every 21 days (Study 3).
 A total of 928 patients were randomized to receive either 6 mg Neulasta (n = 467) or placebo (n = 461).
 The patients were 21 to 88 years of age and 99% female.
-The ethnicity was 66% Caucasian, 31% Hispanic, 2% Black, and <1% Asian, Native American or other.
+The ethnicity was 66% Caucasian, 31% Hispanic, 2% Black, and < 1% Asian, Native American, or other.
 
-The most common adverse reactions occurring in ≥ 5% of patients and with a between-group difference of ≥ 5% higher in the pegfilgrastim arm in placebo controlled clinical trials are bone pain and pain in extremity.
+The most common adverse reactions occurring in ≥ 5% of patients and with a between-group difference of ≥ 5% higher in the pegfilgrastim arm in placebo-controlled clinical trials are bone pain and pain in extremity.
 
 Table 2.
-Adverse Reactions with ≥ 5% Higher Incidence in Neulasta Patients Compared to Placebo in (Study 3)
+Adverse Reactions with ≥ 5% Higher Incidence in Neulasta Patients Compared to Placebo in Study 3
 
-| System Organ Class Preferred Term | Placebo (N= 461) | Neulasta 6 mg SC on Day 2 (N= 467) |
+| System Organ Class Preferred Term | Placebo (N = 461) | Neulasta 6 mg SC on Day 2 (N = 467) |
 | --- | --- | --- |
 | Musculoskeletal and connective tissue disorders |  |  |
 | Bone pain | 26% | 31% |
@@ -62,7 +62,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 - Splenic rupture and splenomegaly (enlarged spleen) [see Warnings and Precautions (5.1)]
 - Acute respiratory distress syndrome (ARDS) [see Warnings and Precautions (5.2)]
-- Allergic reactions/hypersensitivity, including anaphylaxis, skin rash, and urticaria, generalized erythema and flushing [see Warnings and Precautions (5.3)]
+- Allergic reactions/hypersensitivity, including anaphylaxis, skin rash, urticaria, generalized erythema, and flushing [see Warnings and Precautions (5.3)]
 - Sickle cell crisis [see Warnings and Precautions (5.5)]
 - Glomerulonephritis [see Warnings and Precautions (5.6)]
 - Leukocytosis [see Warnings and Precautions (5.7)]

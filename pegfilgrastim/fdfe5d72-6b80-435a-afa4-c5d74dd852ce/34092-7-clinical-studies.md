@@ -13,7 +13,7 @@ In Study 1, 157 patients were randomized to receive a single subcutaneous inject
 In Study 2, 310 patients were randomized to receive a single subcutaneous injection of Neulasta (100 mcg/kg) on day 2 or daily subcutaneous filgrastim (5 mcg/kg/day) beginning on day 2 of each chemotherapy cycle.
 
 Both studies met the major efficacy outcome measure of demonstrating that the mean days of severe neutropenia of Neulasta-treated patients did not exceed that of filgrastim-treated patients by more than 1 day in cycle 1 of chemotherapy.
-The mean days of cycle 1 severe neutropenia in Study 1 were 1.8 days in the Neulasta arm compared to 1.6 days in the filgrastim arm [difference in means 0.2 (95% CI -0.2, 0.6)] and in Study 2 were 1.7 days in the Neulasta arm compared to 1.6 days in the Filgrastim arm [difference in means 0.1 (95% CI -0.2, 0.4)].
+The mean days of cycle 1 severe neutropenia in Study 1 were 1.8 days in the Neulasta arm compared to 1.6 days in the filgrastim arm [difference in means 0.2 (95% CI -0.2, 0.6)] and in Study 2 were 1.7 days in the Neulasta arm compared to 1.6 days in the filgrastim arm [difference in means 0.1 (95% CI -0.2, 0.4)].
 
 A secondary endpoint in both studies was days of severe neutropenia in cycles 2 through 4 with results similar to those for cycle 1.
 
@@ -24,7 +24,7 @@ The incidence of hospitalizations (1% versus 14%) and IV anti-infective use (2% 
 
 Study 4 was a multicenter, randomized, open-label study to evaluate the efficacy, safety, and pharmacokinetics [see Clinical Pharmacology (12.3)] of Neulasta in pediatric and young adult patients with sarcoma.
 Patients with sarcoma receiving chemotherapy age 0 to 21 years were eligible.
-Patients were randomized to receive subcutaneous Neulasta as a single dose of 100 mcg/kg (n= 37) or subcutaneous filgrastim at a dose 5 mcg/kg/day (n=6) following myelosuppressive chemotherapy.
+Patients were randomized to receive subcutaneous Neulasta as a single dose of 100 mcg/kg (n = 37) or subcutaneous filgrastim at a dose 5 mcg/kg/day (n = 6) following myelosuppressive chemotherapy.
 Recovery of neutrophil counts was similar in the Neulasta and filgrastim groups.
 The most common adverse reaction reported was bone pain.
 
@@ -40,7 +40,7 @@ The exposure associated with this dosing regimen is expected to provide sufficie
 The safety of Neulasta at a dose of 6 mg has been assessed on the basis of clinical experience in patients with cancer receiving myelosuppressive chemotherapy.
 
 The efficacy of Neulasta for the acute radiation syndrome setting was studied in a randomized, placebo-controlled non-human primate model of radiation injury.
-Rhesus macaques were randomized to either a control (n=23) or treated (n=23) cohort.
+Rhesus macaques were randomized to either a control (n = 23) or treated (n = 23) cohort.
 On study day 0, animals (n = 6 to 8 per irradiation day) were exposed to total body irradiation (TBI) of 7.50 ± 0.15 Gy delivered at 0.8 ± 0.03 Gy/min, representing a dose that would be lethal in 50% of animals by 60 days of follow-up (LD50/60).
 Animals were administered subcutaneous injections of a blinded treatment (control article [5% dextrose in water] or pegfilgrastim [300-319 mcg/kg/day]) on study day 1 and on study day 8.
 The primary endpoint was survival.

@@ -10,6 +10,7 @@
 | Warning: Do not use Neulasta Onpro kit to deliver any other drug product. |  |  |
 |  | See Prescribing Information for information on Neulasta. |  |
 |  | The On-body Injector is for adult patients only. |  |
+|  | The On-body Injector is not recommended for patients with Hematopoietic Subsyndrome of Acute Radiation Syndrome. |  |
 |  | Store Neulasta Onpro kit in the refrigerator at 36˚F to 46˚F (2˚C to 8˚C) until ready for use. If Neulasta Onpro kit is stored at room temperature for more than 12 hours, do not use. Start again with a new Neulasta Onpro kit. |  |
 |  | Keep the prefilled syringe in the Neulasta Onpro kit carton until use to protect from light. |  |
 |  | For patients who have had severe skin reactions to acrylic adhesives, consider the benefit:risk profile before administering pegfilgrastim via the On-body Injector for Neulasta. |  |
@@ -65,20 +66,20 @@
 |  | DO NOT put the gray needle cap back onto syringe. |  |
 |  | DO NOT grasp clear plunger. |  |
 
-| B |  | Inspect medicine and Neulasta prefilled syringe. The Neulasta liquid should always be clear and colorless. |  |  |
-| --- | --- | --- | --- | --- |
-|  | DO NOT use Neulasta prefilled syringe if: |  |  |  |
-|  |  |  | Liquid contains particulate matter or discoloration is observed prior to administration. |  |
-|  |  |  | Any part appears cracked or broken. |  |
-|  |  |  | The gray needle cap is missing or not securely attached. |  |
-|  |  |  | The expiration date printed on the label has passed. |  |
-|  | DO NOT remove gray needle cap until ready to fill On-body Injector. |  |  |  |
-|  | DO NOT pull needle safety guard down over the needle until filling is complete. |  |  |  |
-|  | In all the above cases, start again with a new Neulasta Onpro kit. Call Amgen at 1-800-772-6436. |  |  |  |
-|  | The prefilled syringe gray needle cap contains dry natural rubber, which is derived from latex. |  |  |  |
-| C |  | Carefully remove gray needle cap straight out from the syringe and away from your body. Check syringe, and remove air bubbles. |  |  |
-|  | Take care to expel air only and not medicine. A small droplet at the tip of the needle during air purging is normal. |  |  |  |
-|  | DO NOT recap syringe. |  |  |  |
+| B |  | Inspect medicine and Neulasta prefilled syringe. The Neulasta liquid should always be clear and colorless. |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | DO NOT use Neulasta prefilled syringe if: |  |  |  |  |
+|  |  |  | Liquid contains particulate matter or discoloration is observed prior to administration. |  |  |
+|  |  |  | Any part appears cracked or broken. |  |  |
+|  |  |  | The gray needle cap is missing or not securely attached. |  |  |
+|  |  |  | The expiration date printed on the label has passed. |  |  |
+|  | DO NOT remove gray needle cap until ready to fill On-body Injector. |  |  |  |  |
+|  | DO NOT pull needle safety guard down over the needle until filling is complete. |  |  |  |  |
+|  | In all the above cases, start again with a new Neulasta Onpro kit. Call Amgen at 1-800-772-6436. |  |  |  |  |
+|  |  | The prefilled syringe gray needle cap contains dry natural rubber, which is derived from latex. |  |  |  |
+| C |  | Carefully remove gray needle cap straight out from the syringe and away from your body. Check syringe, and remove air bubbles. |  |  |  |
+|  | Take care to expel air only and not medicine. A small droplet at the tip of the needle during air purging is normal. |  |  |  |  |
+|  | DO NOT recap syringe. |  |  |  |  |
 
 | D |  | Using blue needle cover, to avoid bending the needle and spilling medicine, insert syringe needle at 90 degrees all the way into medicine port. Slowly empty the entire syringe contents. Remove empty syringe from the medicine port. |
 | --- | --- | --- |
@@ -139,9 +140,11 @@
 | If patient reports an On-body Injector leak, they might not have received full dose. Schedule a follow-up appointment, and report the incident to Amgen at 1-800-772-6436. |
 | --- |
 
-Neulasta® (pegfilgrastim) Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, California 91320-1799 © 2002 to 2015 Amgen Inc. All rights reserved. www.neulasta.com 1-800-772-6436 (1-800-77-AMGEN)
+Neulasta® (pegfilgrastim) Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, California 91320-1799 © 2002-2016 Amgen Inc. All rights reserved. www.neulasta.com 1-800-772-6436 (1-800-77-AMGEN)
 
-Issued: 11/2015 v4
+Issued: 4/2016
+
+v5
 
 Do not expose the On-body Injector for Neulasta to the following environments as the On-body Injector may be damaged and the patient could be injured:
 
@@ -304,7 +307,8 @@ Immediately call your healthcare provider if any of the following occur:
 | Important Information |  |
 | --- | --- |
 |  | This On-body Injector delivers Neulasta with an under-the-skin (subcutaneous) injection. See Patient Information for medicine information. |
-|  | If you have concerns about your medication, call your healthcare provider immediately. Serious allergic reactions can happen with Neulasta. Ask your caregiver to be nearby for the first use. Plan to be in a place where you or your caregiver can appropriately monitor the On-body Injector for Neulasta during the approximately 45 minute Neulasta delivery and for an hour after the delivery. |
+|  | If you have concerns about your medication, call your healthcare provider immediately. Serious allergic reactions can happen with Neulasta. Ask your caregiver to be nearby for the first use. |
+|  | Plan to be in a place where you or your caregiver can appropriately monitor the On-body Injector for Neulasta during the approximately 45 minute Neulasta delivery and for an hour after the delivery. |
 |  | Avoid activities and places that may interfere with monitoring during the dosing of Neulasta administered by the On-body Injector (hours 26-29). |
 |  | If you have an allergic reaction during the delivery of Neulasta, remove the On-body Injector by grabbing the edge of the adhesive pad and peeling off the On-body Injector. Get emergency medical help right away. |
 |  | The On-body Injector should be applied to intact, non-irritated skin on the stomach area (abdomen) or back of the arm. The back of the arm may only be used if there is a caregiver available to monitor the status of the On-body Injector. |
@@ -413,3 +417,191 @@ Patent: http://pat.amgen.com/neulasta/
 www.neulasta.com
 
 1-844-MYNEULASTA (1-844-696-3852) Issued: 11/2015 v4
+
+Instructions for Use
+
+Neulasta (nu-las-tah)
+
+(pegfilgrastim)
+
+Injection, for subcutaneous use
+
+Single-Dose Prefilled Syringe
+
+| Guide to parts |  |  |  |
+| --- | --- | --- | --- |
+| Before use |  | After use |  |
+
+Important: The needle is covered by the gray needle cap before use.
+
+Important
+
+Read the Patient Information for important information you need to know about Neulasta before using these Instructions for Use.
+
+Before you use a Neulasta prefilled syringe, read this important information.
+
+Storing the prefilled syringe
+
+- Store Neulasta in the refrigerator between 36°F to 46°F (2°C to 8°C).
+- Do not freeze.
+- Keep the prefilled syringe in the original carton to protect from light or physical damage.
+- Take the prefilled syringe out of the refrigerator 30 minutes before use and allow it to reach room temperature before preparing an injection.
+- Throw away (dispose of) any Neulasta that has been left at room temperature, 68°F to 77°F (20°C to 25°C), for more than 48 hours.
+- Keep the Neulasta prefilled syringe out of the reach of children.
+
+Using the prefilled syringe
+
+- It is important that you do not try to give the injection unless you or your caregiver has received training from your healthcare provider.
+- Make sure the name Neulasta appears on the carton and prefilled syringe label.
+- Check the carton and prefilled syringe label to make sure the dose strength is 6 mg.
+- You should not inject a dose of Neulasta to children weighing less than 45 kg from a Neulasta prefilled syringe.
+  A dose less than 0.6 mL (6 mg) cannot be accurately measured using the Neulasta prefilled syringe.
+- Do not use a prefilled syringe after the expiration date on the label.
+- Do not shake the prefilled syringe.
+- Do not remove the gray needle cap from the prefilled syringe until you are ready to inject.
+- Do not use the prefilled syringe if the carton is open or damaged.
+- Do not use a prefilled syringe if it has been dropped on a hard surface.
+  The prefilled syringe may be broken even if you cannot see the break.
+  Use a new prefilled syringe.
+- Do not slide the blue safety guard over the needle before you give the injection.
+  This will “activate” or lock the blue safety guard.
+  Use another prefilled syringe that has not been activated and is ready to use.
+- The gray needle cap on the prefilled syringe contains dry natural rubber (made from latex).
+  Tell your healthcare provider if you are allergic to latex.
+  You should not give Neulasta using the prefilled syringe if you have latex allergies.
+
+Call your healthcare provider if you have any questions.
+
+Step 1: Prepare
+
+A Remove the prefilled syringe carton from the refrigerator.
+
+Put the original carton with any unused prefilled syringes back in the refrigerator.
+
+Remove the syringe tray from the carton.
+On a clean, well-lit surface, place the syringe tray at room temperature for 30 minutes before you give an injection.
+
+- Do not use the prefilled syringe if the carton is damaged.
+- Do not try to warm the prefilled syringe by using a heat source such as hot water or microwave.
+- Do not leave the prefilled syringe in direct sunlight.
+- Do not shake the prefilled syringe.
+
+Open the tray by peeling away the cover.
+Grab the blue safety guard to remove the prefilled syringe from the tray.
+
+For safety reasons:
+
+- Do not grab the plunger rod.
+- Do not grab the gray needle cap.
+
+B Inspect the medicine and prefilled syringe.
+
+Make sure the medicine in the prefilled syringe is clear and colorless.
+
+- Do not use the prefilled syringe if:
+  - The medicine is cloudy or discolored or contains flakes or particles.
+  - Any part appears cracked or broken.
+  - The prefilled syringe has been dropped.
+  - The gray needle cap is missing or not securely attached.
+  - The expiration date printed on the label has passed.
+
+In all cases, use a new prefilled syringe and call your healthcare provider.
+
+C Gather all materials needed for the injection.
+
+Wash your hands thoroughly with soap and water.
+
+On a clean, well-lit work surface, place the:
+
+- Prefilled syringe
+- Alcohol wipe
+- Cotton ball or gauze pad
+- Adhesive bandage
+- Sharps disposal container
+
+Step 2: Get ready
+
+D Prepare and clean the injection site(s).
+
+You can use:
+
+- Thigh
+- Stomach area (abdomen), except for a 2-inch area right around the navel (belly button)
+- Upper outer area of the buttocks (only if someone else is giving you the injection)
+- Outer area of upper arm (only if someone else is giving you the injection)
+
+Clean the injection site with an alcohol wipe.
+Let the skin dry.
+
+- Do not touch this area again before injecting.
+- If you want to use the same injection site, make sure it is not the same spot on the injection site you used for a previous injection.
+- Do not inject into areas where the skin is tender, bruised, red, or hard.
+  Avoid injecting into areas with scars or stretch marks.
+
+E Hold the prefilled syringe by the syringe barrel.
+Carefully pull the gray needle cap straight off and away from the body.
+
+- Do not remove the gray needle cap from the prefilled syringe until you are ready to inject.
+- Do not twist or bend the gray needle cap.
+- Do not hold the prefilled syringe by the plunger rod.
+- Do not put the gray needle cap back onto the prefilled syringe.
+
+Important: Throw the gray needle cap into the sharps disposal container.
+
+Step 3: Subcutaneous (under the skin) injection
+
+F Pinch the injection site to create a firm surface.
+
+Important: Keep skin pinched while injecting.
+
+G Hold the pinch.
+Insert the needle into the skin at 45 to 90 degrees.
+
+H Using slow and constant pressure, push the plunger rod until it reaches the bottom.
+
+When done, gently pull the syringe off of the skin.
+
+Important: When you remove the syringe, if it looks like the medicine is still in the syringe barrel, this means you have not received a full dose.
+Call your healthcare provider right away.
+
+Step 4: Finish
+
+I
+
+For your safety, pull the blue safety guard until it clicks and covers the needle.
+
+Once extended, the blue safety guard will lock into position and will not slide back over the needle.
+
+Keep your hands away from the needle at all times.
+
+J Discard (throw away) the used prefilled syringe.
+
+- Put the used prefilled syringe in a FDA-cleared sharps disposal container right away after use.
+  Do not throw away (dispose of) the syringe in the household trash.
+- If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
+  - made of a heavy-duty plastic,
+  - can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
+  - upright and stable during use,
+  - leak-resistant, and
+  - properly labeled to warn of hazardous waste inside the container.
+- When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
+  There may be state or local laws about how you should throw away used needles and syringes.
+  For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal
+
+- Do not reuse the prefilled syringe.
+- Do not recycle the prefilled syringe or sharps disposal container or throw them into household trash.
+
+Important: Always keep the sharps disposal container out of the reach of children.
+
+K Examine the injection site.
+
+If there is blood, press a cotton ball or gauze pad on the injection site.
+Do not rub the injection site.
+Apply an adhesive bandage if needed.
+
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
+
+Manufactured by:
+
+Amgen Inc. One Amgen Center Drive Thousand Oaks, California 91320-1799 U.S. License No. 1080 © 2002-2016 Amgen Inc. All rights reserved.
+1xxxxxx Revised: 4/2016 v1

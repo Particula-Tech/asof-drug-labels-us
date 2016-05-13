@@ -1,12 +1,12 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Neulasta single-use prefilled syringe for manual use
+Neulasta single-dose prefilled syringe for manual use
 
-Neulasta is supplied in a prefilled single-use syringe for manual use containing 6 mg pegfilgrastim, supplied with a 27-gauge, 1/2-inch needle with an UltraSafe® Needle Guard.
+Neulasta is supplied in a prefilled single-dose syringe for manual use containing 6 mg pegfilgrastim, supplied with a 27-gauge, 1/2-inch needle with an UltraSafe® Needle Guard.
 
 The needle cap of the prefilled syringe contains dry natural rubber (a derivative of latex).
 
-Neulasta is provided in a dispensing pack containing one sterile 6mg/0.6 mL prefilled syringe (NDC 55513-190-01).
+Neulasta is provided in a dispensing pack containing one sterile 6 mg/0.6 mL prefilled syringe (NDC 55513-190-01).
 
 Neulasta prefilled syringe does not bear graduation marks and is intended only to deliver the entire contents of the syringe (6 mg/0.6 mL) for direct administration.
 Use of the prefilled syringe is not recommended for direct administration for pediatric patients weighing less than 45 kg who require doses that are less than the full contents of the syringe.
@@ -21,7 +21,7 @@ Neulasta OnproTM kit
 
 Neulasta Onpro kit is provided in a carton containing one sterile prefilled syringe and one sterile On-body Injector for Neulasta (NDC 55513-192-01).
 
-The single-use prefilled syringe contains 0.64 mL of solution that delivers 6 mg/0.6 mL of pegfilgrastim when used with the On-body Injector for Neulasta.
+The single-dose prefilled syringe contains 0.64 mL of solution that delivers 6 mg/0.6 mL of pegfilgrastim when used with the On-body Injector for Neulasta.
 The prefilled syringe is supplied with a 27-gauge, 1/2-inch needle with an UltraSafe® Needle Guard.
 The syringe does not bear graduation marks and is only to be used with the On-body Injector for Neulasta.
 
