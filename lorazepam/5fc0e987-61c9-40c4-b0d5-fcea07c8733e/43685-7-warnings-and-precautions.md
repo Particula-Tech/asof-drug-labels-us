@@ -183,8 +183,12 @@ Therefore, lorazepam should not be administered to nursing mothers because, like
 
 ### STATUS EPILEPTICUS
 
-The safety of ATIVAN in pediatric patients with status epilepticus has not been systematically evaluated.
-Open-label studies described in the medical literature included 273 pediatric/adolescent patients; the age range was from a few hours old to 18 years of age.
+The safety and effectiveness of ATIVAN for status epilepticus have not been established in pediatric patients.
+A randomized, double-blind, superiority-design clinical trial of ATIVAN versus intravenous diazepam in 273 pediatric patients ages 3 months to 17 years failed to establish the efficacy of ATIVAN for the treatment of status epilepticus.
+In that trial, assisted ventilation was required in 18% of patients treated with ATIVAN versus 16% of patients treated with diazepam.
+Patients treated with ATIVAN were also more likely to be reported as sedated (67% for ATIVAN vs. 50% for diazepam), and the time for return to baseline mental status was, on average, 2 hours longer for ATIVAN than for diazepam.
+
+Open-label studies described in the medical literature included 273 pediatric patients; the age range was from a few hours old to 18 years of age.
 Paradoxical excitation was observed in 10% to 30% of the pediatric patients under 8 years of age and was characterized by tremors, agitation, euphoria, logorrhea, and brief episodes of visual hallucinations.
 Paradoxical excitation in pediatric patients also has been reported with other benzodiazepines when used for status epilepticus, as an anesthesia, or for pre-chemotherapy treatment.
 

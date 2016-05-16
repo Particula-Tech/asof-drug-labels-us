@@ -3,7 +3,7 @@
     "NDA018140"
   ],
   "inn": "lorazepam",
-  "labeler": "West-ward Pharmaceutical Corp.",
+  "labeler": "West-Ward Pharmaceuticals Corp.",
   "package_ndcs": [
     "0641-6000-01",
     "0641-6000-10",
@@ -15,11 +15,6 @@
     "0641-6003-25"
   ],
   "products": [
-    {
-      "form": "INJECTION",
-      "generic": "lorazeapm",
-      "name": "Ativan"
-    },
     {
       "form": "INJECTION",
       "generic": "lorazepam",
