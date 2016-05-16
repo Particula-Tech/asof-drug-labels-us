@@ -2,7 +2,9 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects: Pregnancy Category C. There are no adequate and well-controlled trials with ADVAIR DISKUS in pregnant women.
+Teratogenic Effects
+
+Pregnancy Category C. There are no adequate and well-controlled trials with ADVAIR DISKUS in pregnant women.
 Corticosteroids and beta2-agonists have been shown to be teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
 Because animal reproduction studies are not always predictive of human response, ADVAIR DISKUS should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 Women should be advised to contact their physicians if they become pregnant while taking ADVAIR DISKUS.
@@ -14,7 +16,7 @@ In rats, combining fluticasone propionate subcutaneously at a dose equivalent to
 No such effects were seen when combining fluticasone propionate subcutaneously at a dose less than the MRHDID (on a mg/m2 basis at a maternal subcutaneous dose of 30 mcg/kg/day) and an oral dose of salmeterol at approximately 80 times the MRHDID (on a mg/m2 basis at a maternal oral dose of 1 mg/kg/day).
 
 Fluticasone Propionate: Mice and rats at fluticasone propionate doses less than or equivalent to the MRHDID (on a mg/m2 basis at a maternal subcutaneous dose of 45 and 100 mcg/kg/day, respectively) showed fetal toxicity characteristic of potent corticosteroid compounds, including embryonic growth retardation, omphalocele, cleft palate, and retarded cranial ossification.
-No teratogenicity was seen in rats at doses approximately equivalent to the MRHDID (on a mg/m2 basis at maternal inhaled doses up to 68.7 mg/kg/day).
+No teratogenicity was seen in rats at doses approximately equivalent to the MRHDID (on a mg/m2 basis at maternal inhaled doses up to 68.7 mcg/kg/day).
 
 In rabbits, fetal weight reduction and cleft palate were observed at a fluticasone propionate dose less than the MRHDID (on a mg/m2 basis at a maternal subcutaneous dose of 4 mcg/kg/day).
 However, no teratogenic effects were reported at fluticasone propionate doses up to approximately 5 times the MRHDID (on a mg/m2 basis at a maternal oral dose up to 300 mcg/kg/day).
@@ -33,7 +35,9 @@ No such effects occurred at a salmeterol dose approximately 20 times the MRHDID 
 New Zealand White rabbits were less sensitive since only delayed ossification of the frontal cranial bones was seen at a salmeterol dose approximately 1,600 times the MRHDID on a mg/m2 basis at a maternal oral dose of 10 mg/kg/day.
 Salmeterol xinafoate crossed the placenta following oral administration to mice and rats.
 
-Nonteratogenic Effects: Hypoadrenalism may occur in infants born of mothers receiving corticosteroids during pregnancy.
+Nonteratogenic Effects
+
+Hypoadrenalism may occur in infants born of mothers receiving corticosteroids during pregnancy.
 Such infants should be carefully monitored.
 
 ## 8.2 Labor and Delivery
@@ -60,10 +64,10 @@ The safety and effectiveness of ADVAIR DISKUS in children with asthma younger th
 Inhaled corticosteroids, including fluticasone propionate, a component of ADVAIR DISKUS, may cause a reduction in growth velocity in children and adolescents [see Warnings and Precautions (5.14)].
 The growth of pediatric patients receiving orally inhaled corticosteroids, including ADVAIR DISKUS, should be monitored.
 
-A 52-week placebo-controlled trial to assess the potential growth effects of fluticasone propionate inhalation powder (FLOVENT® ROTADISK®) at 50 and 100 mcg twice daily was conducted in the US in 325 prepubescent children (244 males and 81 females) aged 4 to 11 years.
-The mean growth velocities at 52 weeks observed in the intent-to-treat population were 6.32 cm/year in the placebo group (n = 76), 6.07 cm/year in the 50-mcg group (n = 98), and 5.66 cm/year in the 100‑mcg group (n = 89).
+A 52-week placebo-controlled trial to assess the potential growth effects of fluticasone propionate inhalation powder (FLOVENT® ROTADISK®) at 50 and 100 mcg twice daily was conducted in the U.S. in 325 prepubescent children (244 males and 81 females) aged 4 to 11 years.
+The mean growth velocities at 52 weeks observed in the intent-to-treat population were 6.32 cm/year in the placebo group (n = 76), 6.07 cm/year in the 50-mcg group (n = 98), and 5.66 cm/year in the 100-mcg group (n = 89).
 An imbalance in the proportion of children entering puberty between groups and a higher dropout rate in the placebo group due to poorly controlled asthma may be confounding factors in interpreting these data.
-A separate subset analysis of children who remained prepubertal during the trial revealed growth rates at 52 weeks of 6.10 cm/year in the placebo group (n = 57), 5.91 cm/year in the 50‑mcg group (n = 74), and 5.67 cm/year in the 100‑mcg group (n = 79).
+A separate subset analysis of children who remained prepubertal during the trial revealed growth rates at 52 weeks of 6.10 cm/year in the placebo group (n = 57), 5.91 cm/year in the 50-mcg group (n = 74), and 5.67 cm/year in the 100-mcg group (n = 79).
 In children aged 8.5 years, the mean age of children in this trial, the range for expected growth velocity is: boys – 3rd percentile = 3.8 cm/year, 50th percentile = 5.4 cm/year, and 97th percentile = 7.0 cm/year; girls – 3rd percentile = 4.2 cm/year, 50th percentile = 5.7 cm/year, and 97th percentile = 7.3 cm/year.
 The clinical relevance of these growth data is not certain.
 

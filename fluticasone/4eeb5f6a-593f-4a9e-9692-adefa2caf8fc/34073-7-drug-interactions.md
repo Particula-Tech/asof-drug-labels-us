@@ -8,10 +8,14 @@ No formal drug interaction trials have been performed with ADVAIR DISKUS.
 Fluticasone propionate and salmeterol, the individual components of ADVAIR DISKUS, are substrates of CYP3A4.
 The use of strong CYP3A4 inhibitors (e.g., ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, ketoconazole, telithromycin) with ADVAIR DISKUS is not recommended because increased systemic corticosteroid and increased cardiovascular adverse effects may occur.
 
-Ritonavir: Fluticasone Propionate: A drug interaction trial with fluticasone propionate aqueous nasal spray in healthy subjects has shown that ritonavir (a strong CYP3A4 inhibitor) can significantly increase plasma fluticasone propionate exposure, resulting in significantly reduced serum cortisol concentrations [see Clinical Pharmacology (12.3)].
+Ritonavir
+
+Fluticasone Propionate: A drug interaction trial with fluticasone propionate aqueous nasal spray in healthy subjects has shown that ritonavir (a strong CYP3A4 inhibitor) can significantly increase plasma fluticasone propionate exposure, resulting in significantly reduced serum cortisol concentrations [see Clinical Pharmacology (12.3)].
 During postmarketing use, there have been reports of clinically significant drug interactions in patients receiving fluticasone propionate and ritonavir, resulting in systemic corticosteroid effects including Cushing’s syndrome and adrenal suppression.
 
-Ketoconazole: Fluticasone Propionate: Coadministration of orally inhaled fluticasone propionate (1,000 mcg) and ketoconazole (200 mg once daily) resulted in a 1.9-fold increase in plasma fluticasone propionate exposure and a 45% decrease in plasma cortisol area under the curve (AUC), but had no effect on urinary excretion of cortisol.
+Ketoconazole
+
+Fluticasone Propionate: Coadministration of orally inhaled fluticasone propionate (1,000 mcg) and ketoconazole (200 mg once daily) resulted in a 1.9-fold increase in plasma fluticasone propionate exposure and a 45% decrease in plasma cortisol area under the curve (AUC), but had no effect on urinary excretion of cortisol.
 
 Salmeterol: In a drug interaction trial in 20 healthy subjects, coadministration of inhaled salmeterol (50 mcg twice daily) and oral ketoconazole (400 mg once daily) for 7 days resulted in greater systemic exposure to salmeterol (AUC increased 16-fold and Cmax increased 1.4-fold).
 Three (3) subjects were withdrawn due to beta2-agonist side effects (2 with prolonged QTc and 1 with palpitations and sinus tachycardia).
@@ -30,4 +34,4 @@ However, under certain circumstances, there may be no acceptable alternatives to
 ## 7.4 Non–Potassium-Sparing Diuretics
 
 The ECG changes and/or hypokalemia that may result from the administration of non–potassium-sparing diuretics (such as loop or thiazide diuretics) can be acutely worsened by beta-agonists, such as salmeterol, a component of ADVAIR DISKUS, especially when the recommended dose of the beta-agonist is exceeded.
-Although the clinical significance of these effects is not known, caution is advised in the coadministration of ADVAIR DISKUS with non–potassium‑sparing diuretics.
+Although the clinical significance of these effects is not known, caution is advised in the coadministration of ADVAIR DISKUS with non–potassium-sparing diuretics.

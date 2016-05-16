@@ -2,24 +2,30 @@
 
 ## 12.1 Mechanism of Action
 
-ADVAIR DISKUS: ADVAIR DISKUS contains both fluticasone propionate and salmeterol.
+ADVAIR DISKUS
+
+ADVAIR DISKUS contains both fluticasone propionate and salmeterol.
 The mechanisms of action described below for the individual components apply to ADVAIR DISKUS.
 These drugs represent 2 different classes of medications (a synthetic corticosteroid and a LABA) that have different effects on clinical, physiologic, and inflammatory indices.
 
-Fluticasone Propionate: Fluticasone propionate is a synthetic trifluorinated corticosteroid with anti‑inflammatory activity.
+Fluticasone Propionate
+
+Fluticasone propionate is a synthetic trifluorinated corticosteroid with anti-inflammatory activity.
 Fluticasone propionate has been shown in vitro to exhibit a binding affinity for the human glucocorticoid receptor that is 18 times that of dexamethasone, almost twice that of beclomethasone-17-monopropionate (BMP), the active metabolite of beclomethasone dipropionate, and over 3 times that of budesonide.
 Data from the McKenzie vasoconstrictor assay in man are consistent with these results.
 The clinical significance of these findings is unknown.
 
 Inflammation is an important component in the pathogenesis of asthma.
 Corticosteroids have been shown to have a wide range of actions on multiple cell types (e.g., mast cells, eosinophils, neutrophils, macrophages, lymphocytes) and mediators (e.g., histamine, eicosanoids, leukotrienes, cytokines) involved in inflammation.
-These anti‑inflammatory actions of corticosteroids contribute to their efficacy in asthma.
+These anti-inflammatory actions of corticosteroids contribute to their efficacy in asthma.
 
 Inflammation is also a component in the pathogenesis of COPD.
 In contrast to asthma, however, the predominant inflammatory cells in COPD include neutrophils, CD8+ T-lymphocytes, and macrophages.
 The effects of corticosteroids in the treatment of COPD are not well defined and inhaled corticosteroids and fluticasone propionate when used apart from ADVAIR DISKUS are not indicated for the treatment of COPD.
 
-Salmeterol Xinafoate: Salmeterol is a selective LABA.
+Salmeterol Xinafoate
+
+Salmeterol is a selective LABA.
 In vitro studies show salmeterol to be at least 50 times more selective for beta2-adrenoceptors than albuterol.
 Although beta2-adrenoceptors are the predominant adrenergic receptors in bronchial smooth muscle and beta1-adrenoceptors are the predominant receptors in the heart, there are also beta2-adrenoceptors in the human heart comprising 10% to 50% of the total beta-adrenoceptors.
 The precise function of these receptors has not been established, but their presence raises the possibility that even selective beta2-agonists may have cardiac effects.
@@ -33,71 +39,79 @@ In humans, single doses of salmeterol administered via inhalation aerosol attenu
 
 ## 12.2 Pharmacodynamics
 
-ADVAIR DISKUS: Healthy Subjects: Cardiovascular Effects: Since systemic pharmacodynamic effects of salmeterol are not normally seen at the therapeutic dose, higher doses were used to produce measurable effects.
-Four (4) trials were conducted with healthy adult subjects: (1) a single‑dose crossover trial using 2 inhalations of ADVAIR DISKUS 500/50, fluticasone propionate powder 500 mcg and salmeterol powder 50 mcg given concurrently, or fluticasone propionate powder 500 mcg given alone, (2) a cumulative dose trial using 50 to 400 mcg of salmeterol powder given alone or as ADVAIR DISKUS 500/50, (3) a repeat-dose trial for 11 days using 2 inhalations twice daily of ADVAIR DISKUS 250/50, fluticasone propionate powder 250 mcg, or salmeterol powder 50 mcg, and (4) a single-dose trial using 5 inhalations of ADVAIR DISKUS 100/50, fluticasone propionate powder 100 mcg alone, or placebo.
+ADVAIR DISKUS
+
+Healthy Subjects: Cardiovascular Effects: Since systemic pharmacodynamic effects of salmeterol are not normally seen at the therapeutic dose, higher doses were used to produce measurable effects.
+Four (4) trials were conducted with healthy adult subjects: (1) a single-dose crossover trial using 2 inhalations of ADVAIR DISKUS 500/50, fluticasone propionate powder 500 mcg and salmeterol powder 50 mcg given concurrently, or fluticasone propionate powder 500 mcg given alone, (2) a cumulative dose trial using 50 to 400 mcg of salmeterol powder given alone or as ADVAIR DISKUS 500/50, (3) a repeat-dose trial for 11 days using 2 inhalations twice daily of ADVAIR DISKUS 250/50, fluticasone propionate powder 250 mcg, or salmeterol powder 50 mcg, and (4) a single-dose trial using 5 inhalations of ADVAIR DISKUS 100/50, fluticasone propionate powder 100 mcg alone, or placebo.
 In these trials no significant differences were observed in the pharmacodynamic effects of salmeterol (pulse rate, blood pressure, QTc interval, potassium, and glucose) whether the salmeterol was given as ADVAIR DISKUS, concurrently with fluticasone propionate from separate inhalers, or as salmeterol alone.
 The systemic pharmacodynamic effects of salmeterol were not altered by the presence of fluticasone propionate in ADVAIR DISKUS.
 The potential effect of salmeterol on the effects of fluticasone propionate on the HPA axis was also evaluated in these trials.
 
-Hypothalamic-Pituitary-Adrenal Axis Effects: No significant differences across treatments were observed in 24‑hour urinary cortisol excretion and, where measured, 24‑hour plasma cortisol AUC.
+Hypothalamic-Pituitary-Adrenal Axis Effects: No significant differences across treatments were observed in 24-hour urinary cortisol excretion and, where measured, 24-hour plasma cortisol AUC.
 The systemic pharmacodynamic effects of fluticasone propionate were not altered by the presence of salmeterol in ADVAIR DISKUS in healthy subjects.
 
-Subjects With Asthma: Adult and Adolescent Subjects: Cardiovascular Effects: In clinical trials with ADVAIR DISKUS in adult and adolescent subjects aged 12 years and older with asthma, no significant differences were observed in the systemic pharmacodynamic effects of salmeterol (pulse rate, blood pressure, QTc interval, potassium, and glucose) whether the salmeterol was given alone or as ADVAIR DISKUS.
-In 72 adult and adolescent subjects with asthma given either ADVAIR DISKUS 100/50 or ADVAIR DISKUS 250/50, continuous 24‑hour electrocardiographic monitoring was performed after the first dose and after 12 weeks of therapy, and no clinically significant dysrhythmias were noted.
+Subjects with Asthma: Adult and Adolescent Subjects: Cardiovascular Effects: In clinical trials with ADVAIR DISKUS in adult and adolescent subjects aged 12 years and older with asthma, no significant differences were observed in the systemic pharmacodynamic effects of salmeterol (pulse rate, blood pressure, QTc interval, potassium, and glucose) whether the salmeterol was given alone or as ADVAIR DISKUS.
+In 72 adult and adolescent subjects with asthma given either ADVAIR DISKUS 100/50 or ADVAIR DISKUS 250/50, continuous 24-hour electrocardiographic monitoring was performed after the first dose and after 12 weeks of therapy, and no clinically significant dysrhythmias were noted.
 
-Hypothalamic-Pituitary-Adrenal Axis Effects: In a 28‑week trial in adult and adolescent subjects with asthma, ADVAIR DISKUS 500/50 twice daily was compared with the concurrent use of salmeterol powder 50 mcg plus fluticasone propionate powder 500 mcg from separate inhalers or fluticasone propionate powder 500 mcg alone.
+Hypothalamic-Pituitary-Adrenal Axis Effects: In a 28-week trial in adult and adolescent subjects with asthma, ADVAIR DISKUS 500/50 twice daily was compared with the concurrent use of salmeterol powder 50 mcg plus fluticasone propionate powder 500 mcg from separate inhalers or fluticasone propionate powder 500 mcg alone.
 No significant differences across treatments were observed in serum cortisol AUC after 12 weeks of dosing or in 24-hour urinary cortisol excretion after 12 and 28 weeks.
 
 In a 12-week trial in adult and adolescent subjects with asthma, ADVAIR DISKUS 250/50 twice daily was compared with fluticasone propionate powder 250 mcg alone, salmeterol powder 50 mcg alone, and placebo.
-For most subjects, the ability to increase cortisol production in response to stress, as assessed by 30‑minute cosyntropin stimulation, remained intact with ADVAIR DISKUS.
-One subject (3%) who received ADVAIR DISKUS 250/50 had an abnormal response (peak serum cortisol <18 mcg/dL) after dosing, compared with 2 subjects (6%) who received placebo, 2 subjects (6%) who received fluticasone propionate 250 mcg, and no subjects who received salmeterol.
+For most subjects, the ability to increase cortisol production in response to stress, as assessed by 30-minute cosyntropin stimulation, remained intact with ADVAIR DISKUS.
+One subject (3%) who received ADVAIR DISKUS 250/50 had an abnormal response (peak serum cortisol less than 18 mcg/dL) after dosing, compared with 2 subjects (6%) who received placebo, 2 subjects (6%) who received fluticasone propionate 250 mcg, and no subjects who received salmeterol.
 
-In a repeat‑dose, 3‑way crossover trial, 1 inhalation twice daily of ADVAIR DISKUS 100/50, FLOVENT® DISKUS® 100 mcg (fluticasone propionate inhalation powder, 100 mcg), or placebo was administered to 20 adult and adolescent subjects with asthma.
+In a repeat-dose, 3-way crossover trial, 1 inhalation twice daily of ADVAIR DISKUS 100/50, FLOVENT® DISKUS® 100 mcg (fluticasone propionate inhalation powder, 100 mcg), or placebo was administered to 20 adult and adolescent subjects with asthma.
 After 28 days of treatment, geometric mean serum cortisol AUC over 12 hours showed no significant difference between ADVAIR DISKUS and FLOVENT DISKUS or between either active treatment and placebo.
 
-Pediatric Subjects: Hypothalamic-Pituitary-Adrenal Axis Effects: In a 12‑week trial in subjects with asthma aged 4 to 11 years who were receiving inhaled corticosteroids at trial entry, ADVAIR DISKUS 100/50 twice daily was compared with fluticasone propionate inhalation powder 100 mcg administered twice daily via the DISKUS.
+Pediatric Subjects: Hypothalamic-Pituitary-Adrenal Axis Effects: In a 12-week trial in subjects with asthma aged 4 to 11 years who were receiving inhaled corticosteroids at trial entry, ADVAIR DISKUS 100/50 twice daily was compared with fluticasone propionate inhalation powder 100 mcg administered twice daily via the DISKUS.
 The values for 24-hour urinary cortisol excretion at trial entry and after 12 weeks of treatment were similar within each treatment group.
-After 12 weeks, 24‑hour urinary cortisol excretion was also similar between the 2 groups.
+After 12 weeks, 24-hour urinary cortisol excretion was also similar between the 2 groups.
 
-Subjects With Chronic Obstructive Pulmonary Disease: Cardiovascular Effects: In clinical trials with ADVAIR DISKUS in subjects with COPD, no significant differences were seen in pulse rate, blood pressure, potassium, and glucose between ADVAIR DISKUS, the individual components of ADVAIR DISKUS, and placebo.
-In a trial of ADVAIR DISKUS 250/50, 8 subjects (2 [1.1%] in the group given ADVAIR DISKUS 250/50, 1 [0.5%] in the fluticasone propionate 250-mcg group, 3 [1.7%] in the salmeterol group, and 2 [1.1%] in the placebo group) had QTc intervals >470 msec at least 1 time during the treatment period.
+Subjects with Chronic Obstructive Pulmonary Disease: Cardiovascular Effects: In clinical trials with ADVAIR DISKUS in subjects with COPD, no significant differences were seen in pulse rate, blood pressure, potassium, and glucose between ADVAIR DISKUS, the individual components of ADVAIR DISKUS, and placebo.
+In a trial of ADVAIR DISKUS 250/50, 8 subjects (2 [1.1%] in the group given ADVAIR DISKUS 250/50, 1 [0.5%] in the fluticasone propionate 250-mcg group, 3 [1.7%] in the salmeterol group, and 2 [1.1%] in the placebo group) had QTc intervals greater than 470 msec at least 1 time during the treatment period.
 Five (5) of these 8 subjects had a prolonged QTc interval at baseline.
 
-In a 24‑week trial, 130 subjects with COPD received continuous 24‑hour electrocardiographic monitoring prior to the first dose and after 4 weeks of twice‑daily treatment with either ADVAIR DISKUS 500/50, fluticasone propionate powder 500 mcg, salmeterol powder 50 mcg, or placebo.
+In a 24-week trial, 130 subjects with COPD received continuous 24-hour electrocardiographic monitoring prior to the first dose and after 4 weeks of twice-daily treatment with either ADVAIR DISKUS 500/50, fluticasone propionate powder 500 mcg, salmeterol powder 50 mcg, or placebo.
 No significant differences in ventricular or supraventricular arrhythmias and heart rate were observed among the groups treated with ADVAIR DISKUS 500/50, the individual components, or placebo.
 One (1) subject in the fluticasone propionate group experienced atrial flutter/atrial fibrillation, and 1 subject in the group given ADVAIR DISKUS 500/50 experienced heart block.
 There were 3 cases of nonsustained ventricular tachycardia (1 each in the placebo, salmeterol, and fluticasone propionate 500-mcg treatment groups).
 
 In 24-week clinical trials in subjects with COPD, the incidence of clinically significant ECG abnormalities (myocardial ischemia, ventricular hypertrophy, clinically significant conduction abnormalities, clinically significant arrhythmias) was lower for subjects who received salmeterol (1%, 9 of 688 subjects who received either salmeterol 50 mcg or ADVAIR DISKUS) compared with placebo (3%, 10 of 370 subjects).
 
-No significant differences with salmeterol 50 mcg alone or in combination with fluticasone propionate as ADVAIR DISKUS 500/50 were observed on pulse rate and systolic and diastolic blood pressure in a subset of subjects with COPD who underwent 12‑hour serial vital sign measurements after the first dose (n = 183) and after 12 weeks of therapy (n = 149).
+No significant differences with salmeterol 50 mcg alone or in combination with fluticasone propionate as ADVAIR DISKUS 500/50 were observed on pulse rate and systolic and diastolic blood pressure in a subset of subjects with COPD who underwent 12-hour serial vital sign measurements after the first dose (n = 183) and after 12 weeks of therapy (n = 149).
 Median changes from baseline in pulse rate and systolic and diastolic blood pressure were similar to those seen with placebo.
 
 Hypothalamic-Pituitary-Adrenal Axis Effects: Short-cosyntropin stimulation testing was performed both at Day 1 and Endpoint in 101 subjects with COPD receiving twice-daily ADVAIR DISKUS 250/50, fluticasone propionate powder 250 mcg, salmeterol powder 50 mcg, or placebo.
 For most subjects, the ability to increase cortisol production in response to stress, as assessed by short cosyntropin stimulation, remained intact with ADVAIR DISKUS 250/50.
-One (1) subject (3%) who received ADVAIR DISKUS 250/50 had an abnormal stimulated cortisol response (peak cortisol <14.5 mcg/dL assessed by high‑performance liquid chromatography) after dosing, compared with 2 subjects (9%) who received fluticasone propionate 250 mcg, 2 subjects (7%) who received salmeterol 50 mcg, and 1 subject (4%) who received placebo following 24 weeks of treatment or early discontinuation from trial.
+One (1) subject (3%) who received ADVAIR DISKUS 250/50 had an abnormal stimulated cortisol response (peak cortisol less than 14.5 mcg/dL assessed by high-performance liquid chromatography) after dosing, compared with 2 subjects (9%) who received fluticasone propionate 250 mcg, 2 subjects (7%) who received salmeterol 50 mcg, and 1 subject (4%) who received placebo following 24 weeks of treatment or early discontinuation from trial.
 
 After 36 weeks of dosing, serum cortisol concentrations in a subset of subjects with COPD (n = 83) were 22% lower in subjects receiving ADVAIR DISKUS 500/50 and 21% lower in subjects receiving fluticasone propionate 500 mcg than in subjects receiving placebo.
 
-Other Fluticasone Propionate Products: Subjects With Asthma: Hypothalamic-Pituitary-Adrenal Axis Effects: In clinical trials with fluticasone propionate inhalation powder using dosages up to and including 250 mcg twice daily, occasional abnormal short cosyntropin tests (peak serum cortisol <18 mcg/dL assessed by radioimmunoassay) were noted both in subjects receiving fluticasone propionate and in subjects receiving placebo.
+Other Fluticasone Propionate Products
+
+Subjects with Asthma: Hypothalamic-Pituitary-Adrenal Axis Effects: In clinical trials with fluticasone propionate inhalation powder using dosages up to and including 250 mcg twice daily, occasional abnormal short cosyntropin tests (peak serum cortisol less than 18 mcg/dL assessed by radioimmunoassay) were noted both in subjects receiving fluticasone propionate and in subjects receiving placebo.
 The incidence of abnormal tests at 500 mcg twice daily was greater than placebo.
-In a 2‑year trial carried out with the DISKHALER® inhalation device in 64 subjects with mild, persistent asthma (mean FEV1 91% of predicted) randomized to fluticasone propionate 500 mcg twice daily or placebo, no subject receiving fluticasone propionate had an abnormal response to 6-hour cosyntropin infusion (peak serum cortisol <18 mcg/dL).
-With a peak cortisol threshold of <35 mcg/dL, 1 subject receiving fluticasone propionate (4%) had an abnormal response at 1 year; repeat testing at 18 months and 2 years was normal.
+In a 2-year trial carried out with the DISKHALER® inhalation device in 64 subjects with mild, persistent asthma (mean FEV1 91% of predicted) randomized to fluticasone propionate 500 mcg twice daily or placebo, no subject receiving fluticasone propionate had an abnormal response to 6-hour cosyntropin infusion (peak serum cortisol less than 18 mcg/dL).
+With a peak cortisol threshold of less than 35 mcg/dL, 1 subject receiving fluticasone propionate (4%) had an abnormal response at 1 year; repeat testing at 18 months and 2 years was normal.
 Another subject receiving fluticasone propionate (5%) had an abnormal response at 2 years.
 No subject on placebo had an abnormal response at 1 or 2 years.
 
-Subjects With Chronic Obstructive Pulmonary Disease: Hypothalamic-Pituitary-Adrenal Axis Effects: After 4 weeks of dosing, the steady-state fluticasone propionate pharmacokinetics and serum cortisol levels were described in a subset of subjects with COPD (n = 86) randomized to twice-daily fluticasone propionate inhalation powder via the DISKUS 500 mcg, fluticasone propionate inhalation powder 250 mcg, or placebo.
+Subjects with Chronic Obstructive Pulmonary Disease: Hypothalamic-Pituitary-Adrenal Axis Effects: After 4 weeks of dosing, the steady-state fluticasone propionate pharmacokinetics and serum cortisol levels were described in a subset of subjects with COPD (n = 86) randomized to twice-daily fluticasone propionate inhalation powder via the DISKUS 500 mcg, fluticasone propionate inhalation powder 250 mcg, or placebo.
 Serial serum cortisol concentrations were measured across a 12-hour dosing interval.
-Serum cortisol concentrations following 250- and 500-mcg twice-daily dosing were 10% and 21% lower than placebo, respectively, indicating a dose‑dependent increase in systemic exposure to fluticasone propionate.
+Serum cortisol concentrations following 250- and 500-mcg twice-daily dosing were 10% and 21% lower than placebo, respectively, indicating a dose-dependent increase in systemic exposure to fluticasone propionate.
 
-Other Salmeterol Xinafoate Products: Subjects With Asthma: Cardiovascular Effects: Inhaled salmeterol, like other beta‑adrenergic agonist drugs, can produce dose-related cardiovascular effects and effects on blood glucose and/or serum potassium [see Warnings and Precautions (5.12, 5.18)].
+Other Salmeterol Xinafoate Products
+
+Subjects with Asthma: Cardiovascular Effects: Inhaled salmeterol, like other beta-adrenergic agonist drugs, can produce dose-related cardiovascular effects and effects on blood glucose and/or serum potassium [see Warnings and Precautions (5.12, 5.18)].
 The cardiovascular effects (heart rate, blood pressure) associated with salmeterol inhalation aerosol occur with similar frequency, and are of similar type and severity, as those noted following albuterol administration.
 
 The effects of rising inhaled doses of salmeterol and standard inhaled doses of albuterol were studied in volunteers and in subjects with asthma.
 Salmeterol doses up to 84 mcg administered as inhalation aerosol resulted in heart rate increases of 3 to 16 beats/min, about the same as albuterol dosed at 180 mcg by inhalation aerosol (4 to 10 beats/min).
 Adult and adolescent subjects receiving 50-mcg doses of salmeterol inhalation powder (N = 60) underwent continuous electrocardiographic monitoring during two 12-hour periods after the first dose and after 1 month of therapy, and no clinically significant dysrhythmias were noted.
 
-Concomitant Use of ADVAIR DISKUS With Other Respiratory Medications: Short-Acting Beta2-Agonists: In clinical trials in subjects with asthma, the mean daily need for albuterol by 166 adult and adolescent subjects aged 12 years and older using ADVAIR DISKUS was approximately 1.3 inhalations/day and ranged from 0 to 9 inhalations/day.
+Concomitant Use of ADVAIR DISKUS with Other Respiratory Medications
+
+Short-Acting Beta2-Agonists: In clinical trials in subjects with asthma, the mean daily need for albuterol by 166 adult and adolescent subjects aged 12 years and older using ADVAIR DISKUS was approximately 1.3 inhalations/day and ranged from 0 to 9 inhalations/day.
 Five percent (5%) of subjects using ADVAIR DISKUS in these trials averaged 6 or more inhalations per day over the course of the 12-week trials.
 No increase in frequency of cardiovascular adverse events was observed among subjects who averaged 6 or more inhalations per day.
 
@@ -116,8 +130,10 @@ Fluticasone Propionate Nasal Spray: In adult and adolescent subjects aged 12 yea
 
 ## 12.3 Pharmacokinetics
 
-Absorption: Fluticasone Propionate: Healthy Subjects: Fluticasone propionate acts locally in the lung; therefore, plasma levels do not predict therapeutic effect.
-Trials using oral dosing of labeled and unlabeled drug have demonstrated that the oral systemic bioavailability of fluticasone propionate is negligible (<1%), primarily due to incomplete absorption and presystemic metabolism in the gut and liver.
+Absorption
+
+Fluticasone Propionate: Healthy Subjects: Fluticasone propionate acts locally in the lung; therefore, plasma levels do not predict therapeutic effect.
+Trials using oral dosing of labeled and unlabeled drug have demonstrated that the oral systemic bioavailability of fluticasone propionate is negligible (less than 1%), primarily due to incomplete absorption and presystemic metabolism in the gut and liver.
 In contrast, the majority of the fluticasone propionate delivered to the lung is systemically absorbed.
 
 Following administration of ADVAIR DISKUS to healthy adult subjects, peak plasma concentrations of fluticasone propionate were achieved in 1 to 2 hours.
@@ -129,7 +145,7 @@ In 15 healthy subjects, systemic exposure to fluticasone propionate from 4 inhal
 Similar results were observed for peak fluticasone propionate plasma concentrations (186 and 182 pg/mL from ADVAIR HFA and ADVAIR DISKUS, respectively, and 307 pg/mL from the fluticasone propionate CFC inhalation aerosol).
 Absolute bioavailability of fluticasone propionate was 5.3% and 5.5% following administration of ADVAIR HFA and ADVAIR DISKUS, respectively.
 
-Subjects With Asthma and COPD: Peak steady-state fluticasone propionate plasma concentrations in adult subjects with asthma (N = 11) ranged from undetectable to 266 pg/mL after a 500-mcg twice-daily dose of fluticasone propionate inhalation powder using the DISKUS inhaler.
+Subjects with Asthma and COPD: Peak steady-state fluticasone propionate plasma concentrations in adult subjects with asthma (N = 11) ranged from undetectable to 266 pg/mL after a 500-mcg twice-daily dose of fluticasone propionate inhalation powder using the DISKUS inhaler.
 The mean fluticasone propionate plasma concentration was 110 pg/mL.
 
 Full pharmacokinetic profiles were obtained from 9 female and 16 male subjects with asthma given fluticasone propionate inhalation powder 500 mcg twice daily using the DISKUS inhaler and from 14 female and 43 male subjects with COPD given 250 or 500 mcg twice daily.
@@ -145,10 +161,12 @@ Following administration of ADVAIR DISKUS to healthy adult subjects, peak plasma
 
 In 15 healthy subjects receiving ADVAIR HFA 230/21 Inhalation Aerosol (920/84 mcg) and ADVAIR DISKUS 500/50 (1,000/100 mcg), systemic exposure to salmeterol was higher (317 versus 169 pg•h/mL) and peak salmeterol concentrations were lower (196 versus 223 pg/mL) following ADVAIR HFA compared with ADVAIR DISKUS, although pharmacodynamic results were comparable.
 
-Subjects With Asthma: Because of the small therapeutic dose, systemic levels of salmeterol are low or undetectable after inhalation of recommended doses (50 mcg of salmeterol inhalation powder twice daily).
+Subjects with Asthma: Because of the small therapeutic dose, systemic levels of salmeterol are low or undetectable after inhalation of recommended doses (50 mcg of salmeterol inhalation powder twice daily).
 Following chronic administration of an inhaled dose of 50 mcg of salmeterol inhalation powder twice daily, salmeterol was detected in plasma within 5 to 45 minutes in 7 subjects with asthma; plasma concentrations were very low, with mean peak concentrations of 167 pg/mL at 20 minutes and no accumulation with repeated doses.
 
-Distribution: Fluticasone Propionate: Following intravenous administration, the initial disposition phase for fluticasone propionate was rapid and consistent with its high lipid solubility and tissue binding.
+Distribution
+
+Fluticasone Propionate: Following intravenous administration, the initial disposition phase for fluticasone propionate was rapid and consistent with its high lipid solubility and tissue binding.
 The volume of distribution averaged 4.2 L/kg.
 
 The percentage of fluticasone propionate bound to human plasma proteins averages 99%.
@@ -156,7 +174,9 @@ Fluticasone propionate is weakly and reversibly bound to erythrocytes and is not
 
 Salmeterol: The percentage of salmeterol bound to human plasma proteins averages 96% in vitro over the concentration range of 8 to 7,722 ng of salmeterol base per milliliter, much higher concentrations than those achieved following therapeutic doses of salmeterol.
 
-Metabolism: Fluticasone Propionate: The total clearance of fluticasone propionate is high (average, 1,093 mL/min), with renal clearance accounting for less than 0.02% of the total.
+Metabolism
+
+Fluticasone Propionate: The total clearance of fluticasone propionate is high (average, 1,093 mL/min), with renal clearance accounting for less than 0.02% of the total.
 The only circulating metabolite detected in man is the 17β-carboxylic acid derivative of fluticasone propionate, which is formed through the CYP3A4 pathway.
 This metabolite had less affinity (approximately 1/2,000) than the parent drug for the glucocorticoid receptor of human lung cytosol in vitro and negligible pharmacological activity in animal studies.
 Other metabolites detected in vitro using cultured human hepatoma cells have not been detected in man.
@@ -167,7 +187,9 @@ No significant amount of unchanged salmeterol base was detected in either urine 
 An in vitro study using human liver microsomes showed that salmeterol is extensively metabolized to α-hydroxysalmeterol (aliphatic oxidation) by CYP3A4.
 Ketoconazole, a strong inhibitor of CYP3A4, essentially completely inhibited the formation of α-hydroxysalmeterol in vitro.
 
-Elimination: Fluticasone Propionate: Following intravenous dosing, fluticasone propionate showed polyexponential kinetics and had a terminal elimination half-life of approximately 7.8 hours.
+Elimination
+
+Fluticasone Propionate: Following intravenous dosing, fluticasone propionate showed polyexponential kinetics and had a terminal elimination half-life of approximately 7.8 hours.
 Less than 5% of a radiolabeled oral dose was excreted in the urine as metabolites, with the remainder excreted in the feces as parent drug and metabolites.
 Terminal half-life estimates of fluticasone propionate for ADVAIR HFA, ADVAIR DISKUS, and fluticasone propionate CFC inhalation aerosol were similar and averaged 5.6 hours.
 
@@ -178,7 +200,9 @@ The xinafoate moiety has no apparent pharmacologic activity.
 The xinafoate moiety is highly protein bound (greater than 99%) and has a long elimination half-life of 11 days.
 No terminal half-life estimates were calculated for salmeterol following administration of ADVAIR DISKUS.
 
-Special Populations: A population pharmacokinetic analysis was performed for fluticasone propionate and salmeterol utilizing data from 9 controlled clinical trials that included 350 subjects with asthma aged 4 to 77 years who received treatment with ADVAIR DISKUS, the combination of HFA-propelled fluticasone propionate and salmeterol inhalation aerosol (ADVAIR HFA), fluticasone propionate inhalation powder (FLOVENT DISKUS), HFA-propelled fluticasone propionate inhalation aerosol (FLOVENT® HFA), or CFC-propelled fluticasone propionate inhalation aerosol.
+Special Populations
+
+A population pharmacokinetic analysis was performed for fluticasone propionate and salmeterol utilizing data from 9 controlled clinical trials that included 350 subjects with asthma aged 4 to 77 years who received treatment with ADVAIR DISKUS, the combination of HFA-propelled fluticasone propionate and salmeterol inhalation aerosol (ADVAIR HFA), fluticasone propionate inhalation powder (FLOVENT DISKUS), HFA-propelled fluticasone propionate inhalation aerosol (FLOVENT® HFA), or CFC-propelled fluticasone propionate inhalation aerosol.
 The population pharmacokinetic analyses for fluticasone propionate and salmeterol showed no clinically relevant effects of age, gender, race, body weight, body mass index, or percent of predicted FEV1 on apparent clearance and apparent volume of distribution.
 
 Age: When the population pharmacokinetic analysis for fluticasone propionate was divided into subgroups based on fluticasone propionate strength, formulation, and age (adolescents/adults and children), there were some differences in fluticasone propionate exposure.
@@ -205,13 +229,15 @@ Hepatic and Renal Impairment: Formal pharmacokinetic studies using ADVAIR DISKUS
 However, since both fluticasone propionate and salmeterol are predominantly cleared by hepatic metabolism, impairment of liver function may lead to accumulation of fluticasone propionate and salmeterol in plasma.
 Therefore, patients with hepatic disease should be closely monitored.
 
-Drug Interactions: In the repeat- and single‑dose trials, there was no evidence of significant drug interaction in systemic exposure between fluticasone propionate and salmeterol when given alone or in combination via the DISKUS.
-The population pharmacokinetic analysis from 9 controlled clinical trials in 350 subjects with asthma showed no significant effects on fluticasone propionate or salmeterol pharmacokinetics following co‑administration with beta2-agonists, corticosteroids, antihistamines, or theophyllines.
+Drug Interactions
+
+In the repeat- and single-dose trials, there was no evidence of significant drug interaction in systemic exposure between fluticasone propionate and salmeterol when given alone or in combination via the DISKUS.
+The population pharmacokinetic analysis from 9 controlled clinical trials in 350 subjects with asthma showed no significant effects on fluticasone propionate or salmeterol pharmacokinetics following co-administration with beta2-agonists, corticosteroids, antihistamines, or theophyllines.
 
 Inhibitors of Cytochrome P450 3A4: Ritonavir: Fluticasone Propionate: Fluticasone propionate is a substrate of CYP3A4.
 Coadministration of fluticasone propionate and the strong CYP3A4 inhibitor ritonavir is not recommended based upon a multiple-dose, crossover drug interaction trial in 18 healthy subjects.
 Fluticasone propionate aqueous nasal spray (200 mcg once daily) was coadministered for 7 days with ritonavir (100 mg twice daily).
-Plasma fluticasone propionate concentrations following fluticasone propionate aqueous nasal spray alone were undetectable (<10 pg/mL) in most subjects, and when concentrations were detectable peak levels (Cmax) averaged 11.9 pg/mL (range: 10.8 to 14.1 pg/mL) and AUC(0-τ) averaged 8.43 pg•h/mL (range: 4.2 to 18.8 pg•h/mL).
+Plasma fluticasone propionate concentrations following fluticasone propionate aqueous nasal spray alone were undetectable (less than 10 pg/mL) in most subjects, and when concentrations were detectable peak levels (Cmax) averaged 11.9 pg/mL (range: 10.8 to 14.1 pg/mL) and AUC(0-τ) averaged 8.43 pg•h/mL (range: 4.2 to 18.8 pg•h/mL).
 Fluticasone propionate Cmax and AUC(0-τ) increased to 318 pg/mL (range: 110 to 648 pg/mL) and 3,102.6 pg•h/mL (range: 1,207.1 to 5,662.0 pg•h/mL), respectively, after coadministration of ritonavir with fluticasone propionate aqueous nasal spray.
 This significant increase in plasma fluticasone propionate exposure resulted in a significant decrease (86%) in serum cortisol AUC.
 

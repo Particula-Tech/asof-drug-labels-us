@@ -16,10 +16,10 @@ Rx only
 
 1 DISKUS® Inhalation Device Containing 1 Foil Strip of 60 Blisters
 
-©2014, the GSK group of companies
+©2015, the GSK group of companies
 
-10000000126876 Rev.
-10/14
+- DEVCOMP-0004264 Rev.
+  8/15
 
 PRINCIPAL DISPLAY PANEL
 
@@ -39,10 +39,10 @@ Rx only
 
 1 DISKUS® Inhalation Device Containing 1 Foil Strip of 60 Blisters
 
-©2014, the GSK group of companies
+©2015, the GSK group of companies
 
-10000000126871 Rev.
-10/14
+- DEVCOMP-0004262 Rev.
+  8/15
 
 PRINCIPAL DISPLAY PANEL
 
@@ -62,7 +62,7 @@ Rx only
 
 1 DISKUS® Inhalation Device Containing 1 Foil Strip of 60 Blisters
 
-©2014, the GSK group of companies
+©2015, the GSK group of companies
 
-10000000126872 Rev.
-10/14
+- DEVCOMP-0004263 Rev.
+  8/15

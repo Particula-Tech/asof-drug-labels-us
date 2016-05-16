@@ -9,46 +9,46 @@ Therefore, when treating patients with asthma, physicians should only prescribe 
 Once asthma control is achieved and maintained, assess the patient at regular intervals and step down therapy (e.g., discontinue ADVAIR DISKUS) if possible without loss of asthma control and maintain the patient on a long-term asthma control medication, such as an inhaled corticosteroid.
 Do not use ADVAIR DISKUS for patients whose asthma is adequately controlled on low- or medium-dose inhaled corticosteroids.
 
-A large placebo‑controlled US trial that compared the safety of salmeterol with placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in subjects receiving salmeterol.
-The Salmeterol Multi-center Asthma Research Trial (SMART) was a randomized double-blind trial that enrolled LABA-naive subjects with asthma to assess the safety of salmeterol 42 mcg twice daily over 28 weeks compared with placebo when added to usual asthma therapy.
+A large placebo-controlled U.S. trial that compared the safety of salmeterol with placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in subjects receiving salmeterol.
+The Salmeterol Multicenter Asthma Research Trial (SMART) was a randomized double-blind trial that enrolled LABA-naive subjects with asthma to assess the safety of salmeterol 42 mcg twice daily over 28 weeks compared with placebo when added to usual asthma therapy.
 A planned interim analysis was conducted when approximately half of the intended number of subjects had been enrolled (N = 26,355), which led to premature termination of the trial.
-The results of the interim analysis showed that subjects receiving salmeterol were at increased risk for fatal asthma events (see Table 1 and Figure 1).
+The results of the interim analysis showed that subjects receiving salmeterol were at increased risk for fatal asthma events (Table 1 and Figure 1).
 In the total population, a higher rate of asthma-related death occurred in subjects treated with salmeterol than those treated with placebo (0.10% versus 0.02%; relative risk: 4.37 [95% CI: 1.25, 15.34]).
 
-Post-hoc subpopulation analyses were performed.
+Post hoc subpopulation analyses were performed.
 In Caucasians, asthma-related death occurred at a higher rate in subjects treated with salmeterol than in subjects treated with placebo (0.07% versus 0.01%; relative risk: 5.82 [95% CI: 0.70, 48.37]).
-In African Americans also, asthma‑related death occurred at a higher rate in subjects treated with salmeterol than those treated with placebo (0.31% versus 0.04%; relative risk: 7.26 [95% CI: 0.89, 58.94]).
-Although the relative risks of asthma‑related death were similar in Caucasians and African Americans, the estimate of excess deaths in subjects treated with salmeterol was greater in African Americans because there was a higher overall rate of asthma‑related death in African American subjects (see Table 1).
-Given the similar basic mechanisms of action of beta2‑agonists, the findings seen in the SMART trial are considered a class effect.
+In African Americans also, asthma-related death occurred at a higher rate in subjects treated with salmeterol than those treated with placebo (0.31% versus 0.04%; relative risk: 7.26 [95% CI: 0.89, 58.94]).
+Although the relative risks of asthma-related death were similar in Caucasians and African Americans, the estimate of excess deaths in subjects treated with salmeterol was greater in African Americans because there was a higher overall rate of asthma-related death in African American subjects (Table 1).
+Given the similar basic mechanisms of action of beta2-agonists, the findings seen in the SMART trial are considered a class effect.
 
-Post-hoc analyses in pediatric subjects aged 12 to 18 years were also performed.
+Post hoc analyses in pediatric subjects aged 12 to 18 years were also performed.
 Pediatric subjects accounted for approximately 12% of subjects in each treatment arm.
 Respiratory-related death or life-threatening experience occurred at a similar rate in the salmeterol group (0.12% [2/1,653]) and the placebo group (0.12% [2/1,622]; relative risk: 1.0 [95% CI: 0.1, 7.2]).
-All-cause hospitalization, however, was increased in the salmeterol group (2% [35/1,653]) versus the placebo group (<1% [16/1,622]; relative risk: 2.1 [95% CI: 1.1, 3.7]).
+All-cause hospitalization, however, was increased in the salmeterol group (2% [35/1,653]) versus the placebo group (less than 1% [16/1,622]; relative risk: 2.1 [95% CI: 1.1, 3.7]).
 
 The data from the SMART trial are not adequate to determine whether concurrent use of inhaled corticosteroids, such as fluticasone propionate, the other active ingredient in ADVAIR DISKUS, or other long-term asthma control therapy mitigates the risk of asthma-related death.
 
 Table 1.
-Asthma-Related Deaths in the 28-Week Salmeterol Multi-center Asthma Research Trial (SMART)
+Asthma-Related Deaths in the 28-Week Salmeterol Multicenter Asthma Research Trial (SMART)
 
-|  | Salmeteroln (%a) | Placebon (%a) | Relative Riskb(95% Confidence Interval) | Excess Deaths Expressed per 10,000 Subjectsc(95% Confidence Interval) |
-| --- | --- | --- | --- | --- |
-| Total Populationd |  |  |  |  |
-| Salmeterol: n = 13,176 | 13 (0.10%) |  | 4.37 (1.25, 15.34) | 8 (3, 13) |
-| Placebo: n = 13,179 |  | 3 (0.02%) |  |  |
-| Caucasian |  |  |  |  |
-| Salmeterol: n = 9,281 | 6 (0.07%) |  | 5.82 (0.70, 48.37) | 6 (1, 10) |
-| Placebo: n = 9,361 |  | 1 (0.01%) |  |  |
-| African American |  |  |  |  |
-| Salmeterol: n = 2,366 | 7 (0.31%) |  | 7.26 (0.89, 58.94) | 27 (8, 46) |
-| Placebo: n = 2,319 |  | 1 (0.04%) |  |  |
-| aLife-table 28-week estimate, adjusted according to the subjects’ actual lengths of exposure to trial treatment to account for early withdrawal of subjects from the trial. |  |  |  |  |
-| bRelative risk is the ratio of the rate of asthma-related death in the salmeterol group and the rate in the placebo group. The relative risk indicates how many more times likely an asthma-related death occurred in the salmeterol group than in the placebo group in a 28-week treatment period. |  |  |  |  |
-| cEstimate of the number of additional asthma-related deaths in subjects treated with salmeterol in SMART, assuming 10,000 subjects received salmeterol for a 28-week treatment period. Estimate calculated as the difference between the salmeterol and placebo groups in the rates of asthma-related death multiplied by 10,000. |  |  |  |  |
-| dThe Total Population includes the following ethnic origins listed on the case report form: Caucasian, African American, Hispanic, Asian, and “Other.” In addition, the Total Population includes those subjects whose ethnic origin was not reported. The results for Caucasian and African American subpopulations are shown above. No asthma-related deaths occurred in the Hispanic (salmeterol n = 996, placebo n = 999), Asian (salmeterol n = 173, placebo n = 149), or “Other” (salmeterol n = 230, placebo n = 224) subpopulations. One asthma-related death occurred in the placebo group in the subpopulation whose ethnic origin was not reported (salmeterol n = 130, placebo n = 127). |  |  |  |  |
+|  | Salmeteroln (%a) | Placebon (%a) | Relative Riskb(95% Confidence Interval) | Excess Deaths Expressed per 10,000 Subjectsc(95% Confidence Interval) |  |
+| --- | --- | --- | --- | --- | --- |
+| Total Populationd |  |  |  |  |  |
+| Salmeterol: n = 13,176 | 13 (0.10%) |  | 4.37 (1.25, 15.34) | 8 (3, 13) |  |
+| Placebo: n = 13,179 |  | 3 (0.02%) |  |  |  |
+| Caucasian |  |  |  |  |  |
+| Salmeterol: n = 9,281 | 6 (0.07%) |  | 5.82 (0.70, 48.37) | 6 (1, 10) |  |
+| Placebo: n = 9,361 |  | 1 (0.01%) |  |  |  |
+| African American |  |  |  |  |  |
+| Salmeterol: n = 2,366 | 7 (0.31%) |  | 7.26 (0.89, 58.94) | 27 (8, 46) |  |
+| Placebo: n = 2,319 |  | 1 (0.04%) |  |  |  |
+| aLife-table 28-week estimate, adjusted according to the subjects’ actual lengths of exposure to trial treatment to account for early withdrawal of subjects from the trial. |  |  |  |  |  |
+| bRelative risk is the ratio of the rate of asthma-related death in the salmeterol group and the rate in the placebo group. The relative risk indicates how many more times likely an asthma-related death occurred in the salmeterol group than in the placebo group in a 28-week treatment period. |  |  |  |  |  |
+| cEstimate of the number of additional asthma-related deaths in subjects treated with salmeterol in SMART, assuming 10,000 subjects received salmeterol for a 28-week treatment period. Estimate calculated as the difference between the salmeterol and placebo groups in the rates of asthma-related death multiplied by 10,000. |  |  |  |  |  |
+| dThe Total Population includes the following ethnic origins listed on the case report form: Caucasian, African American, Hispanic, Asian, and “Other.” In addition, the Total Population includes those subjects whose ethnic origin was not reported. The results for Caucasian and African American subpopulations are shown above. No asthma-related deaths occurred in the Hispanic (salmeterol n = 996, placebo n = 999), Asian (salmeterol n = 173, placebo n = 149), or “Other” (salmeterol n = 230, placebo n = 224) subpopulations. One asthma-related death occurred in the placebo group in the subpopulation whose ethnic origin was not reported (salmeterol n = 130, placebo n = 127). |  |  |  |  |  |
 
 Figure 1.
-Cumulative Incidence of Asthma-Related Deaths in the 28-Week Salmeterol Multi-center Asthma Research Trial (SMART), by Duration of Treatment
+Cumulative Incidence of Asthma-Related Deaths in the 28-Week Salmeterol Multicenter Asthma Research Trial (SMART), by Duration of Treatment
 
 A 16-week clinical trial performed in the United Kingdom, the Salmeterol Nationwide Surveillance (SNS) trial, showed results similar to the SMART trial.
 In the SNS trial, the rate of asthma-related death was numerically, though not statistically significantly, greater in subjects with asthma treated with salmeterol (42 mcg twice daily) than those treated with albuterol (180 mcg 4 times daily) added to usual asthma therapy.
@@ -77,7 +77,7 @@ When prescribing ADVAIR DISKUS, the healthcare provider should also prescribe an
 
 When beginning treatment with ADVAIR DISKUS, patients who have been taking oral or inhaled, short-acting beta2-agonists on a regular basis (e.g., 4 times a day) should be instructed to discontinue the regular use of these drugs.
 
-## 5.3 Excessive Use of ADVAIR DISKUS and Use With Other Long-Acting Beta2-Agonists
+## 5.3 Excessive Use of ADVAIR DISKUS and Use with Other Long-Acting Beta2-Agonists
 
 ADVAIR DISKUS should not be used more often than recommended, at higher doses than recommended, or in conjunction with other medicines containing LABA, as an overdose may result.
 Clinically significant cardiovascular effects and fatalities have been reported in association with excessive use of inhaled sympathomimetic drugs.
@@ -116,7 +116,7 @@ If chickenpox develops, treatment with antiviral agents may be considered.
 
 Inhaled corticosteroids should be used with caution, if at all, in patients with active or quiescent tuberculosis infections of the respiratory tract; systemic fungal, bacterial, viral, or parasitic infections; or ocular herpes simplex.
 
-## 5.7 Transferring Patients From Systemic Corticosteroid Therapy
+## 5.7 Transferring Patients from Systemic Corticosteroid Therapy
 
 Particular care is needed for patients who have been transferred from systemically active corticosteroids to inhaled corticosteroids because deaths due to adrenal insufficiency have occurred in patients with asthma during and after transfer from systemic corticosteroids to less systemically available inhaled corticosteroids.
 After withdrawal from systemic corticosteroids, a number of months are required for recovery of hypothalamic-pituitary-adrenal (HPA) function.
@@ -129,7 +129,7 @@ During periods of stress or a severe asthma attack, patients who have been withd
 These patients should also be instructed to carry a warning card indicating that they may need supplementary systemic corticosteroids during periods of stress or a severe asthma attack.
 
 Patients requiring oral corticosteroids should be weaned slowly from systemic corticosteroid use after transferring to ADVAIR DISKUS.
-Prednisone reduction can be accomplished by reducing the daily prednisone dose by 2.5 mg on a weekly basis during therapy with ADVAIR Diskus.
+Prednisone reduction can be accomplished by reducing the daily prednisone dose by 2.5 mg on a weekly basis during therapy with ADVAIR DISKUS.
 Lung function (mean forced expiratory volume in 1 second [FEV1] or morning peak expiratory flow [AM PEF]), beta-agonist use, and asthma symptoms should be carefully monitored during withdrawal of oral corticosteroids.
 In addition, patients should be observed for signs and symptoms of adrenal insufficiency, such as fatigue, lassitude, weakness, nausea and vomiting, and hypotension.
 
@@ -150,7 +150,7 @@ Particular care should be taken in observing patients postoperatively or during 
 It is possible that systemic corticosteroid effects such as hypercorticism and adrenal suppression (including adrenal crisis) may appear in a small number of patients who are sensitive to these effects.
 If such effects occur, ADVAIR DISKUS should be reduced slowly, consistent with accepted procedures for reducing systemic corticosteroids, and other treatments for management of asthma symptoms should be considered.
 
-## 5.9 Drug Interactions With Strong Cytochrome P450 3A4 Inhibitors
+## 5.9 Drug Interactions with Strong Cytochrome P450 3A4 Inhibitors
 
 The use of strong cytochrome P450 3A4 (CYP3A4) inhibitors (e.g., ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, ketoconazole, telithromycin) with ADVAIR DISKUS is not recommended because increased systemic corticosteroid and increased cardiovascular adverse effects may occur [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
 
@@ -185,9 +185,13 @@ Patients with major risk factors for decreased bone mineral content, such as pro
 Since patients with COPD often have multiple risk factors for reduced BMD, assessment of BMD is recommended prior to initiating ADVAIR DISKUS and periodically thereafter.
 If significant reductions in BMD are seen and ADVAIR DISKUS is still considered medically important for that patient’s COPD therapy, use of medicine to treat or prevent osteoporosis should be strongly considered.
 
-2-Year Fluticasone Propionate Trial: A 2-year trial in 160 subjects (females aged 18 to 40 years, males 18 to 50) with asthma receiving CFC-propelled fluticasone propionate inhalation aerosol 88 or 440 mcg twice daily demonstrated no statistically significant changes in BMD at any time point (24, 52, 76, and 104 weeks of double-blind treatment) as assessed by dual-energy x-ray absorptiometry at lumbar regions L1 through L4.
+2-Year Fluticasone Propionate Trial
 
-3-Year Bone Mineral Density Trial: Effects of treatment with ADVAIR DISKUS 250/50 or salmeterol 50 mcg on BMD at the L1-L4 lumbar spine and total hip were evaluated in 186 subjects with COPD (aged 43 to 87 years) in a 3-year double-blind trial.
+A 2-year trial in 160 subjects (females aged 18 to 40 years, males 18 to 50) with asthma receiving CFC-propelled fluticasone propionate inhalation aerosol 88 or 440 mcg twice daily demonstrated no statistically significant changes in BMD at any time point (24, 52, 76, and 104 weeks of double-blind treatment) as assessed by dual-energy x-ray absorptiometry at lumbar regions L1 through L4.
+
+3-Year Bone Mineral Density Trial
+
+Effects of treatment with ADVAIR DISKUS 250/50 or salmeterol 50 mcg on BMD at the L1-L4 lumbar spine and total hip were evaluated in 186 subjects with COPD (aged 43 to 87 years) in a 3-year double-blind trial.
 Of those enrolled, 108 subjects (72 males and 36 females) were followed for the entire 3 years.
 BMD evaluations were conducted at baseline and at 6-month intervals.
 Conclusions cannot be drawn from this trial regarding BMD decline in subjects treated with ADVAIR DISKUS versus salmeterol due to the inconsistency of treatment differences across gender and between lumbar spine and total hip.
@@ -195,9 +199,11 @@ Conclusions cannot be drawn from this trial regarding BMD decline in subjects tr
 In this trial there were 7 non-traumatic fractures reported in 5 subjects treated with ADVAIR DISKUS and 1 non-traumatic fracture in 1 subject treated with salmeterol.
 None of the non-traumatic fractures occurred in the vertebrae, hip, or long bones.
 
-3-Year Survival Trial: Effects of treatment with ADVAIR DISKUS 500/50, fluticasone propionate 500 mcg, salmeterol 50 mcg, or placebo on BMD was evaluated in a subset of 658 subjects (females and males aged 40 to 80 years) with COPD in the 3-year survival trial.
+3-Year Survival Trial
+
+Effects of treatment with ADVAIR DISKUS 500/50, fluticasone propionate 500 mcg, salmeterol 50 mcg, or placebo on BMD was evaluated in a subset of 658 subjects (females and males aged 40 to 80 years) with COPD in the 3-year survival trial.
 BMD evaluations were conducted at baseline and at 48, 108, and 158 weeks.
-Conclusions cannot be drawn from this trial because of the large number of dropouts (>50%) before the end of the follow-up and the maldistribution of covariates among the treatment groups that can affect BMD.
+Conclusions cannot be drawn from this trial because of the large number of dropouts (greater than 50%) before the end of the follow-up and the maldistribution of covariates among the treatment groups that can affect BMD.
 
 Fracture risk was estimated for the entire population of subjects with COPD in the survival trial (N = 6,184).
 The probability of a fracture over 3 years was 6.3% for ADVAIR DISKUS, 5.4% for fluticasone propionate, 5.1% for salmeterol, and 5.1% for placebo.
