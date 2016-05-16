@@ -26,11 +26,11 @@ Two confirmed cases of aplastic anemia and one confirmed case of agranulocytosis
 There were no cases of aplastic anemia and two confirmed cases of agranulocytosis in the US, European, or Japanese development programs.
 There is inadequate information to assess the relationship, if any, between dose and duration of treatment and these events.
 
-## Drug Reaction with Eos inophilia and Sys temic Symptoms (DRESS)/Multi-Organ Hypersensitivity:
+## Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multi-Organ Hypersensitivity:
 
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), also known as multi-organ hypersensitivity, has occurred with ZONEGRAN.
 Some of these events have been fatal or life-threatening.
-DRESS typically, although not exclusively, presents with fever, rash, and/or lymphadenopathy, in association with other organ system involvement, such as hepatitis, nephritis, hematologic abnormalities, myocarditis, or myositis, sometimes resembling an acute viral infection.
+DRESS typically, although not exclusively, presents with fever, rash, lymphadenopathy and/or facial swelling, in association with other organ system involvement, such as hepatitis, nephritis, hematologic abnormalities, myocarditis, or myositis, sometimes resembling an acute viral infection.
 Eosinophilia is often present.
 This disorder is variable in its expression, and other organ systems not noted here may be involved.
 It is important to note that early manifestations of hypersensitivity (e.g., fever, lymphadenopathy) may be present even though rash is not evident.
@@ -128,7 +128,7 @@ In pediatric patients, mean serum bicarbonate reductions ranged from approximate
 In two controlled studies in adults, the incidence of a persistent treatment-emergent decrease in serum bicarbonate to less than 20 mEq/L (observed at 2 or more consecutive visits or the final visit) was dose-related at relatively low zonisamide doses.
 In the monotherapy trial of epilepsy, the incidence of a persistent treatment-emergent decrease in serum bicarbonate was 21% for daily zonisamide doses of 25 mg or 100 mg, and was 43% at a daily dose of 300 mg.
 In a placebo-controlled trial for prophylaxis of migraine, the incidence of a persistent treatment-emergent decrease in serum bicarbonate was 7% for placebo, 29% for 150 mg daily, and 34% for 300 mg daily.
-The incidence of persistent markedly abnormally low serum bicarbonate (decrease to less than 17 mEq/L and more than 5 mEq/L from a pretreatment value of at least 20 mEq/L in these controlled trials was 2% or less.
+The incidence of persistent markedly abnormally low serum bicarbonate (decrease to less than 17 mEq/L and more than 5 mEq/L from a pretreatment value of at least 20 mEq/L) in these controlled trials was 2% or less.
 
 In the pediatric study, the incidence of persistent, treatment-emergent decreases in serum bicarbonate to levels less than 20 mEq/L was 52% at doses up to 100 mg daily, was 90% for a wide range of doses up to 600 mg daily, and generally appeared to increase with higher doses.
 The incidence of a persistent markedly abnormally low serum bicarbonate value was 4 % at doses up to 100 mg daily, was 18% for a wide range of doses up to 600 mg daily, and generally appeared to increase with higher doses.
@@ -178,7 +178,7 @@ Zonisamide is metabolized by the liver and eliminated by the kidneys; caution sh
 
 ## Kidney Stones:
 
-Among 991 patients treated during the development of ZONEGRAN, 40 patients (4.0%) with epilepsy receiving ZONEGRAN developed clinically possible or confirmed kidney stones (e.g. clinical symptomatology, sonography, etc.), a rate of 34 per 1000 patient-years of exposure (40 patients with 1168 years of exposure).
+Among 991 patients treated during the development of ZONEGRAN, 40 patients (4.0%) with epilepsy receiving ZONEGRAN developed clinically possible or confirmed kidney stones (e.g., clinical symptomatology, sonography, etc.), a rate of 34 per 1000 patient-years of exposure (40 patients with 1168 years of exposure).
 Of these, 12 were symptomatic, and 28 were described as possible kidney stones based on sonographic detection.
 In nine patients, the diagnosis was confirmed by a passage of a stone or by a definitive sonographic finding.
 The rate of occurrence of kidney stones was 28.7 per 1000 patient-years of exposure in the first six months, 62.6 per 1000 patient-years of exposure between 6 and 12 months, and 24.3 per 1000 patient-years of exposure after 12 months of use.
@@ -201,13 +201,6 @@ In a 30-day study, the GFR returned to baseline within 2–3 weeks of drug disco
 There is no information about reversibility, after drug discontinuation, of the effects on GFR after long-term use.
 ZONEGRAN should be discontinued in patients who develop acute renal failure or a clinically significant sustained increase in the creatinine/BUN concentration.
 ZONEGRAN should not be used in patients with renal failure (estimated GFR < 50 mL/min) as there has been insufficient experience concerning drug dosing and toxicity.
-
-## Sudden Unexplained Death in Epilepsy:
-
-During the development of ZONEGRAN, nine sudden unexplained deaths occurred among 991 patients with epilepsy receiving ZONEGRAN for whom accurate exposure data are available.
-This represents an incidence of 7.7 deaths per 1000 patient-years.
-Although this rate exceeds that expected in a healthy population, it is within the range of estimates for the incidence of sudden unexplained deaths in patients with refractory epilepsy not receiving ZONEGRAN (ranging from 0.5 per 1000 patient-years for the general population of patients with epilepsy, to 2–5 per 1000 patient-years for patients with refractory epilepsy; higher incidences range from 9–15 per 1000 patient-years among surgical candidates and surgical failures).
-Some of the deaths could represent seizure-related deaths in which the seizure was not observed.
 
 ## Status Epilepticus:
 
@@ -247,10 +240,14 @@ Consideration should be given to monitoring renal function periodically (see PRE
 
 Zonisamide increases serum chloride and alkaline phosphatase and decreases serum bicarbonate (see WARNINGS, Metabolic Acidosis subsection), phosphorus, calcium, and albumin.
 
-Drug Interactions with CNS Depressants: Concomitant administration of ZONEGRAN and alcohol or other CNS depressant drugs has not been evaluated in clinical studies.
+## Drug Interactions with CNS Depressants:
+
+Concomitant administration of ZONEGRAN and alcohol or other CNS depressant drugs has not been evaluated in clinical studies.
 Because of the potential of zonisamide to cause CNS depression, as well as other cognitive and/or neuropsychiatric adverse events, zonisamide should be used with caution if used in combination with alcohol or other CNS depressants.
 
-Other Carbonic Anhydrase Inhibitors: Concomitant use of ZONEGRAN, a carbonic anhydrase inhibitor, with any other carbonic anhydrase inhibitor (e.g., topiramate, acetazolamide or dichlorphenamide), may increase the severity of metabolic acidosis and may also increase the risk of kidney stone formation.
+## Other Carbonic Anhydrase Inhibitors:
+
+Concomitant use of ZONEGRAN, a carbonic anhydrase inhibitor, with any other carbonic anhydrase inhibitor (e.g., topiramate, acetazolamide or dichlorphenamide), may increase the severity of metabolic acidosis and may also increase the risk of kidney stone formation.
 Therefore, if ZONEGRAN is given concomitantly with another carbonic anhydrase inhibitor, the patient should be monitored for the appearance or worsening of metabolic acidosis (see CLINICAL PHARMACOLOGY, Interactions of Zonisamide with Other Carbonic Anhydrase Inhibitors subsection).
 
 ## Carcinogenicity, Mutagenesis, Impairment of Fertility:
@@ -267,7 +264,7 @@ The low dose in this study is approximately 0.5 times the maximum recommended hu
 
 ## Pregnancy:
 
-Pregnancy Category C (see WARNINGS, Teratogenicity subsection):
+(see WARNINGS, Teratogenicity subsection):
 
 Zonisamide may cause serious adverse fetal effects, based on clinical and nonclinical data.
 Zonisamide was teratogenic in multiple animal species.
@@ -312,7 +309,7 @@ Information on the registry can also be found at the website http://www.aedpregn
 
 ## Labor and Delivery:
 
-The effects of ZONEGRAN on labor and delivery in humans are unknown.
+The effect of ZONEGRAN on labor and delivery in humans is not known.
 
 ## Use in Nursing Mothers:
 
@@ -334,3 +331,117 @@ Single dose pharmacokinetic parameters are similar in elderly and young healthy 
 Clinical studies of zonisamide did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+
+ADVERSE REACTIONS
+
+The most common adverse reactions with ZONEGRAN (an incidence at least 4% greater than placebo) in controlled clinical trials and shown in descending order of frequency were somnolence, anorexia, dizziness, ataxia, agitation/irritability, and difficulty with memory and/or concentration.
+
+In controlled clinical trials, 12% of patients receiving ZONEGRAN as adjunctive therapy discontinued due to an adverse reaction compared to 6% receiving placebo.
+Approximately 21% of the 1,336 patients with epilepsy who received ZONEGRAN in clinical studies discontinued treatment because of an adverse reaction.
+The most common adverse reactions leading to discontinuation were somnolence, fatigue and/or ataxia (6%), anorexia (3%), difficulty concentrating (2%), difficulty with memory, mental slowing, nausea/vomiting (2%), and weight loss (1%).
+Many of these adverse reactions were dose-related (see WARNINGS and PRECAUTIONS).
+
+Adverse Reaction Incidence in Controlled Clinical Trials: Table 4 lists adverse reactions that occurred in at least 2% of patients treated with ZONEGRAN in controlled clinical trials that were numerically more common in the ZONEGRAN group.
+In these studies, either ZONEGRAN or placebo was added to the patient’s current AED therapy.
+
+Table 4.
+Adverse Reactions in Placebo-Controlled, Add-On Trials (Events that occurred in at least 2% of ZONEGRAN-treated patients and occurred more frequently in ZONEGRAN-treated than placebo-treated patients)
+
+| BODY SYSTEM/PREFERRED TERM | ZONEGRAN | PLACEBO |
+| --- | --- | --- |
+|  | (n=269) | (n=230) |
+|  | % | % |
+| BODY AS A WHOLE |  |  |
+| Headache | 10 | 8 |
+| Abdominal Pain | 6 | 3 |
+| Flu Syndrome | 4 | 3 |
+| DIGESTIVE |  |  |
+| Anorexia | 13 | 6 |
+| Nausea | 9 | 6 |
+| Diarrhea | 5 | 2 |
+| Dyspepsia | 3 | 1 |
+| Constipation | 2 | 1 |
+| Dry Mouth | 2 | 1 |
+| HEMATOLOGIC AND LYMPHATIC |  |  |
+| Ecchymosis | 2 | 1 |
+| METABOLIC AND NUTRITIONAL |  |  |
+| Weight Loss | 3 | 2 |
+| NERVOUS SYSTEM |  |  |
+| Dizziness | 13 | 7 |
+| Ataxia | 6 | 1 |
+| Nystagmus | 4 | 2 |
+| Paresthesia | 4 | 1 |
+| NEUROPSYCHIATRIC AND COGNITIVE DYSFUNCTION-ALTERED COGNITIVE FUNCTION |  |  |
+| Confusion | 6 | 3 |
+| Difficulty Concentrating | 6 | 2 |
+| Difficulty with Memory | 6 | 2 |
+| Mental Slowing | 4 | 2 |
+| NEUROPSYCHIATRIC AND COGNITIVE DYSFUNCTION-BEHAVIORAL ABNORMALITIES (NON-PYSCHOSIS-RELATED) |  |  |
+| Agitation/Irritability | 9 | 4 |
+| Depression | 6 | 3 |
+| Insomnia | 6 | 3 |
+| Anxiety | 3 | 2 |
+| Nervousness | 2 | 1 |
+| NEUROPSYCHIATRIC AND COGNITIVE DYSFUNCTION-BEHAVIORAL ABNORMALITIES (PYSCHOSIS-RELATED) |  |  |
+| Schizophrenic/Schizophreniform Behavior | 2 | 0 |
+| NEUROPSYCHIATRIC AND COGNITIVE DYSFUNCTION-CNS DEPRESSION |  |  |
+| Somnolence | 17 | 7 |
+| Fatigue | 8 | 6 |
+| Tiredness | 7 | 5 |
+| NEUROPSYCHIATRIC AND COGNITIVE DYSFUNCTION-SPEECH AND LANGUAGE ABNORMALITIES |  |  |
+| Speech Abnormalities | 5 | 2 |
+| Difficulties in Verbal Expression | 2 | <1 |
+| RESPIRATORY |  |  |
+| Rhinitis | 2 | 1 |
+| SKIN AND APPENDAGES |  |  |
+| Rash | 3 | 2 |
+| SPECIAL SENSES |  |  |
+| Diplopia | 6 | 3 |
+| Taste Perversion | 2 | 0 |
+
+## Other Adverse Reactions in Clinical Trials:
+
+ZONEGRAN has been administered to 1,598 individuals during all clinical trials, only some of which were placebo-controlled.
+The frequencies represent the proportion of the 1,598 individuals exposed to ZONEGRAN who experienced an event on at least one occasion.
+All events are included except those already listed in the previous table or discussed in WARNINGS or PRECAUTIONS, trivial events, those too general to be informative, and those not reasonably associated with ZONEGRAN.
+
+Events are further classified within each category and listed in order of decreasing frequency as follows: frequent occurring in at least 1:100 patients; infrequent occurring in 1:100 to 1:1000 patients; rare occurring in fewer than 1:1000 patients.
+
+Body as a Whole: Frequent: Accidental injury, asthenia.
+Infrequent: Chest pain, flank pain, malaise, allergic reaction, face edema, neck rigidity.
+Rare: Lupus erythematosus.
+
+Cardiovascular: Infrequent: Palpitation, tachycardia, vascular insufficiency, hypotension, hypertension, thrombophlebitis, syncope, bradycardia.
+Rare: Atrial fibrillation, heart failure, pulmonary embolus, ventricular extrasystoles.
+
+Digestive: Frequent: Vomiting.
+Infrequent: Flatulence, gingivitis, gum hyperplasia, gastritis, gastroenteritis, stomatitis, cholelithiasis, glossitis, melena, rectal hemorrhage, ulcerative stomatitis, gastro-duodenal ulcer, dysphagia, gum hemorrhage.
+Rare: Cholangitis, hematemesis, cholecystitis, cholestatic jaundice, colitis, duodenitis, esophagitis, fecal incontinence, mouth ulceration.
+
+Hematologic and Lymphatic: Infrequent: Leukopenia, anemia, immunodeficiency, lymphadenopathy.
+Rare: Thrombocytopenia, microcytic anemia, petechia.
+
+Metabolic and Nutritional: Infrequent: Peripheral edema, weight gain, edema, thirst, dehydration.
+Rare: Hypoglycemia, hyponatremia, lactic dehydrogenase increased, SGOT increased, SGPT increased.
+
+Musculoskeletal: Infrequent: Leg cramps, myalgia, myasthenia, arthralgia, arthritis.
+
+Nervous System: Frequent: Tremor, convulsion, abnormal gait, hyperesthesia, incoordination.
+Infrequent: Hypertonia, twitching, abnormal dreams, vertigo, libido decreased, neuropathy, hyperkinesia, movement disorder, dysarthria, cerebrovascular accident, hypotonia, peripheral neuritis, reflexes increased.
+Rare: Dyskinesia, dystonia, encephalopathy, facial paralysis, hypokinesia, hyperesthesia, myoclonus, oculogyric crisis.
+
+Behavioral Abnormalities –Non-Psychosis-Related: Infrequent: Euphoria.
+
+Respiratory: Frequent: Pharyngitis, cough increased.
+Infrequent: Dyspnea.
+Rare: Apnea, hemoptysis.
+
+Skin and Appendages: Frequent: Pruritus.
+Infrequent: Maculopapular rash, acne, alopecia, dry skin, sweating, eczema, urticaria, hirsutism, pustular rash, vesiculobullous rash.
+
+Special Senses: Frequent: Amblyopia, tinnitus.
+Infrequent: Conjunctivitis, parosmia, deafness, visual field defect, glaucoma.
+Rare: Photophobia, iritis.
+
+Urogenital: Infrequent: Urinary frequency, dysuria, urinary incontinence, hematuria, impotence, urinary retention, urinary urgency, amenorrhea, polyuria, nocturia.
+Rare: Albuminuria, enuresis, bladder pain, bladder calculus, gynecomastia, mastitis, menorrhagia.

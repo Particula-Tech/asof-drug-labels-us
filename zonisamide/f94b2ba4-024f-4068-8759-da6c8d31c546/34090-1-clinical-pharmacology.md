@@ -138,7 +138,7 @@ The primary comparison in both trials was for any dose over Weeks 5–12.
 Table 1.
 Median % Reduction in All Partial Seizures and % Responders in Primary Efficacy Analyses: Intent-To-Treat Analysis
 
-| Study | MEDIAN % REDUCTION IN PARTIAL SEIZURES |  | % RESPONDERS |  |
+| Study | Median % reduction in partial seizures |  | % Responders |  |
 | --- | --- | --- | --- | --- |
 |  | ZONEGRAN | Placebo | ZONEGRAN | Placebo |
 | Study 1: | n=98 | n=72 | n=98 | n=72 |
