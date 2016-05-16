@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021324"
+  ],
+  "inn": "budesonide",
+  "labeler": "Paddock Laboratories LLC",
+  "package_ndcs": [
+    "0574-9850-10"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "budesonide",
+      "name": "Entocort EC"
+    }
+  ],
+  "setid": "24f0312f-f768-42db-bf7c-4ba2ee4fc309",
+  "source": "dailymed"
+}
