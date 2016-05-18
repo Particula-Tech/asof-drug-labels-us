@@ -1,23 +1,18 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-Irbesartan Tablets USP may be administered with other antihypertensive agents and with or without food.
+## 2.1 General Considerations
 
-## Hypertension
+Irbesartan tablet USP may be administered with other antihypertensive agents and with or without food.
 
-The recommended initial dose of irbesartan is 150 mg once daily.
-Patients requiring further reduction in blood pressure should be titrated to 300 mg once daily.
+## 2.2 Hypertension
 
-A low dose of a diuretic may be added, if blood pressure is not controlled by irbesartan tablets USP alone.
-Hydrochlorothiazide has been shown to have an additive effect (see CLINICAL PHARMACOLOGY: Clinical Studies).
-Patients not adequately treated by the maximum dose of 300 mg once daily are unlikely to derive additional benefit from a higher dose or twice-daily dosing.
+The recommended initial dose of irbesartan tablet USP is 150 mg once daily.
+The dosage can be increased to a maximum dose of 300 mg once daily as needed to control blood pressure [see CLINICAL STUDIES (14.1)].
 
-No dosage adjustment is necessary in elderly patients, or in patients with hepatic impairment or mild to severe renal impairment.
+## 2.3 Nephropathy in Type 2 Diabetic Patients
 
-## Nephropathy in Type 2 Diabetic Patients
+The recommended dose is 300 mg once daily [see CLINICAL STUDIES (14.2)].
 
-The recommended target maintenance dose is 300 mg once daily.
-There are no data on the clinical effects of lower doses of irbesartan tablets USP on diabetic nephropathy (see CLINICAL PHARMACOLOGY: Clinical Studies).
+## 2.4 Dose Adjustment in Volume- and Salt-Depleted Patients
 
-## Volume- and Salt-Depleted Patients
-
-A lower initial dose of irbesartan tablets USP (75 mg) is recommended in patients with depletion of intravascular volume or salt (eg, patients treated vigorously with diuretics or on hemodialysis) (see WARNINGS: Hypotension in Volume- or Salt-Depleted Patients).
+The recommended initial dose is 75 mg once daily in patients with depletion of intravascular volume or salt (e.g., patients treated vigorously with diuretics or on hemodialysis) [see WARNINGS AND PRECAUTIONS (5.2)].
