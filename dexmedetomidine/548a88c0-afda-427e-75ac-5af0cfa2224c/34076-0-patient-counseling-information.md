@@ -9,8 +9,4 @@ Blood pressure, heart rate and oxygen levels will be monitored both continuously
 
 Manufactured and Distributed by: Hospira, Inc. Lake Forest, IL 60045 USA
 
-Licensed from: Orion Corporation Espoo, Finland
-
-EN-4004
-
-Hospira, Inc., Lake Forest, IL 60045 USA
+Licensed from: Orion Corporation Espoo, Finland EN-4272 Hospira, Inc., Lake Forest, IL 60045 USA
