@@ -74,6 +74,14 @@ Give special attention to electrolyte and acid-base balance in patients experien
 
 The need to co-administer amiodarone with any other drug known to prolong the QTc interval must be based on a careful assessment of the potential risks and benefits of doing so for each patient.
 
+## Serious Symptomatic Bradycardia When Co-administered with Ledipasvir/Sofosbuvir or with Sofosbuvir with Simeprevir
+
+Postmarketing cases of symptomatic bradycardia, some requiring pacemaker insertion and at least one fatal, have been reported when ledipasvir/sofosbuvir or sofosbuvir with simeprevir were initiated in patients on amiodarone.
+Bradycardia generally occurred within hours to days, but in some cases up to 2 weeks after initiating antiviral treatment.
+Bradycardia generally resolved after discontinuation of antiviral treatment.
+The mechanism for this effect is unknown.
+Monitor heart rate in patients taking or recently discontinuing amiodarone when starting antiviral treatment.
+
 ## Implantable Cardiac Devices
 
 In patients with implanted defibrillators or pacemakers, chronic administration of antiarrhythmic drugs may affect pacing or defibrillating thresholds.
@@ -104,13 +112,11 @@ The risks and complications of antiarrhythmic therapy with Cordarone must be wei
 Regular ophthalmic examination, including funduscopy and slit-lamp examination, is recommended during administration of Cordarone.
 (See "ADVERSE REACTIONS").
 
-## Neonatal Hypo- or Hyperthyroidism
+## Neonatal Injury
 
-Cordarone can cause fetal harm when administered to a pregnant woman.
-Although Cordarone use during pregnancy is uncommon, there have been a small number of published reports of congenital goiter/hypothyroidism and hyperthyroidism.
-If Cordarone is used during pregnancy, or if the patient becomes pregnant while taking Cordarone, the patient should be apprised of the potential hazard to the fetus.
-
-In general, Cordarone Tablets should be used during pregnancy only if the potential benefit to the mother justifies the unknown risk to the fetus.
+Amiodarone can cause fetal harm when administered to a pregnant woman.
+Fetal exposure may increase the potential for adverse experiences including cardiac, thyroid, neurodevelopmental, neurological and growth effects in neonate.
+Inform the patient of the potential hazard to the fetus if Cordarone is administered during pregnancy or if the patient becomes pregnant while taking Cordarone.
 
 In pregnant rats and rabbits, amiodarone HCl in doses of 25 mg/kg/day (approximately 0.4 and 0.9 times, respectively, the maximum recommended human maintenance dose600 mg in a 50 kg patient (doses compared on a body surface area basis)) had no adverse effects on the fetus.
 In the rabbit, 75 mg/kg/day (approximately 2.7 times the maximum recommended human maintenance dose) caused abortions in greater than 90% of the animals.
@@ -311,9 +317,21 @@ In a study in which amiodarone HCl was administered to male and female rats, beg
 
 ## Pregnancy
 
-### Pregnancy Category D
+See "WARNINGS, Neonatal Injury".
 
-See "WARNINGS, Neonatal Hypo- or Hyperthyroidism".
+### Teratogenic Effects
+
+Amiodarone and desethylamiodarone cross the placenta.
+
+Reported risks include:
+
+- neonatal bradycardia, QT prolongation, and periodic ventricular extrasystoles
+- neonatal hypothyroidism (with or without goiter) detected antenatally or in the newborn and reported even after a few days of exposure
+- neonatal hyperthyroxinemia
+- neurodevelopmental abnormalities independent of thyroid function, including speech delay and difficulties with written language and arithmetic, delayed motor development, and ataxia.
+- jerk nystagmus with synchronous head titubation
+- fetal growth retardation
+- premature birth
 
 ## Labor and Delivery
 
@@ -322,9 +340,10 @@ Preclinical studies in rodents have not shown any effect of Cordarone on the dur
 
 ## Nursing Mothers
 
-Cordarone and one of its major metabolites, DEA, are excreted in human milk, suggesting that breast-feeding could expose the nursing infant to a significant dose of the drug.
-Nursing offspring of lactating rats administered Cordarone have been shown to be less viable and have reduced body-weight gains.
-Therefore, when Cordarone therapy is indicated, the mother should be advised to discontinue nursing.
+Amiodarone and one of its major metabolites, DEA, are excreted in human milk, suggesting that breast-feeding could expose the nursing infant to a significant dose of the drug.
+Nursing offspring of lactating rats administered amiodarone have been shown to be less viable and have reduced body-weight gains.
+The risk of exposing the infant to amiodarone and DEA must be weighed against the potential benefit of arrhythmia suppression in the mother.
+Advise the mother to discontinue nursing.
 
 ## Pediatric Use
 
