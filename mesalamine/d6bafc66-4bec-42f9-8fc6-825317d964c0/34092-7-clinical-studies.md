@@ -26,7 +26,7 @@ A randomized, double-blind, 6-week study of two dosage levels of mesalamine dela
 All patients were divided by weight category (17 to less than 33 kg, 33 to less than 54 kg, and 54 to 90 kg) and randomly assigned to receive a low dosage (1.2, 2, and 2.4 grams per day for the respective weight category) or a high dosage (2, 3.6, and 4.8 grams per day).
 Doses were administered every 12 hours.
 
-The proportion of patients who achieved success based on the Truncated Mayo Score (TM-Mayo) (based on the stool frequency and rectal bleeding subscores of the Mayo Score) and based on the PUCAIwas measured after 6 weeks of treatment.
+The proportion of patients who achieved success based on the Truncated Mayo Score (TM-Mayo) (based on the stool frequency and rectal bleeding subscores of the Mayo Score) and based on the PUCAI was measured after 6 weeks of treatment.
 Success based on TM-Mayo was defined as either partial response (improvement from baseline in stool frequency or rectal bleeding subscores with no worsening in the other) or complete response (both stool frequency and rectal bleeding subscores equal 0).
 Success based on PUCAI was defined as either partial response (PUCAI reduction of greater than or equal to 20 points from Baseline to Week 6 with Week 6 score greater than or equal to 10) or complete response (PUCAI less than 10 at Week 6).
 

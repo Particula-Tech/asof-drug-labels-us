@@ -55,9 +55,11 @@ Duration of exposure to mesalamine among the 82 patients in the study ranged fro
 The majority (88%) of patients in each group were treated for more than 5 weeks.
 Table 3 provides a summary of the specific reported adverse reactions.
 
-| Table 3. Adverse Reactions ≥ 5% Reported in Study 3 for the Treatment of Mild to Moderate Ulcerative Colitis in Pediatric Patients* |  |  |
-| --- | --- | --- |
+Table 3.
+Adverse Reactions ≥ 5% Reported in Study 3 for the Treatment of Mild to Moderate Ulcerative Colitis in Pediatric Patients*
+
 | Adverse Reaction | % of Patients with Adverse Reactions |  |
+| --- | --- | --- |
 |  | Low Dosage | High Dosage |
 |  | (n=41) | (n=41) |
 | Nasopharyngitis | 15 | 12 |

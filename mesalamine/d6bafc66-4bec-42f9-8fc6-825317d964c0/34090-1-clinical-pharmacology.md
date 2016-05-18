@@ -8,7 +8,7 @@ Mucosal production of arachidonic acid metabolites, both through the cyclooxygen
 ## 12.3 Pharmacokinetics
 
 Absorption Approximately 28% of mesalamine in mesalamine delayed-release formulation is absorbed after oral ingestion.
-Following replicate single dose oral administration of DELZICOL 400 mg capsule containing four 100 mg tablets in healthy subjects (N = 146) under fasted conditions, the mean Cmax, AUC8-48 and AUCtldc values were 150 ± 235 ng/mL, 640 ± 521 ng.h/mL, and 909 ± 777 ng.h/mL, respectively.
+Following replicate single dose oral administration of DELZICOL 400 mg capsule containing four 100 mg tablets in healthy subjects (N = 146) under fasted conditions, the mean Cmax, AUC8-48 and AUCtldc values were 150 ± 235 ng/mL, 640 ± 521 (ng•h/mL), and 909 ± 777 (ng•h/mL), respectively.
 The median [range] Tmax for mesalamine following DELZICOL 400 mg capsule containing four 100 mg tablets was approximately 10 hours [5.5 – 48 hours], reflecting the delayed-release characteristics of the formulation.
 
 A high fat meal increased systemic exposure of mesalamine (geometric mean Cmax: ↑ 32%; AUC8-48 h: ↑ 46 %; AUC: ↑ 29%) and delayed the median tmax by approximately 4 hours compared to results in the fasted state.
