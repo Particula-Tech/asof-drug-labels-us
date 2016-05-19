@@ -15,14 +15,13 @@ Consider the benefit-risk of withholding IMBRUVICA for at least 3 to 7 days pre 
 ## 5.2 Infections
 
 Fatal and non-fatal infections have occurred with IMBRUVICA therapy.
-Grade 3 or greater infections occurred in 14% to 26% of patients.
-[See Adverse Reactions (6.1), (6.2)].
+Grade 3 or greater infections occurred in 14% to 29% of patients [see Adverse Reactions (6.1), (6.2)].
 Cases of progressive multifocal leukoencephalopathy (PML) have occurred in patients treated with IMBRUVICA.
 Evaluate patients for fever and infections and treat appropriately.
 
 ## 5.3 Cytopenias
 
-Treatment-emergent Grade 3 or 4 cytopenias including neutropenia (range, 19 to 29%), thrombocytopenia (range, 5 to 17%), and anemia (range, 0 to 9%) occurred in patients treated with IMBRUVICA.
+Treatment-emergent Grade 3 or 4 cytopenias including neutropenia (range, 19 to 29%), thrombocytopenia (range, 5 to 17%), and anemia (range, 0 to 9%) based on laboratory measurements occurred in patients treated with single agent IMBRUVICA.
 
 Monitor complete blood counts monthly.
 
@@ -31,11 +30,11 @@ Monitor complete blood counts monthly.
 Atrial fibrillation and atrial flutter (range, 6 to 9%) have occurred in patients treated with IMBRUVICA, particularly in patients with cardiac risk factors, hypertension, acute infections, and a previous history of atrial fibrillation.
 Periodically monitor patients clinically for atrial fibrillation.
 Patients who develop arrhythmic symptoms (e.g., palpitations, lightheadedness) or new onset dyspnea should have an ECG performed.
-Atrial fibrillation should be managed appropriately and if it persists, consider the risks and benefits of IMBRUVICA treatment and dose modification [see Dosage and Administration (2.3)].
+Atrial fibrillation should be managed appropriately, and if it persists, consider the risks and benefits of IMBRUVICA treatment and follow dose modification guidelines [see Dosage and Administration (2.3)].
 
 ## 5.5 Hypertension
 
-Hypertension (range, 6 to 17%) has occurred in patients treated with IMBRUVICA with a median time to onset of 4.5 months (range, 0.03 to 18.40 months).
+Hypertension (range, 6 to 17%) has occurred in patients treated with IMBRUVICA with a median time to onset of 4.6 months (range, 0.03 to 22 months).
 Monitor patients for new onset hypertension or hypertension that is not adequately controlled after starting IMBRUVICA.
 Adjust existing anti-hypertensive medications and/or initiate anti-hypertensive treatment as appropriate.
 
@@ -47,12 +46,12 @@ The most frequent second primary malignancy was non-melanoma skin cancer (range,
 ## 5.7 Tumor Lysis Syndrome
 
 Tumor lysis syndrome has been infrequently reported with IMBRUVICA therapy.
-Assess the baseline risk (eg, high tumor burden) and take appropriate precautions.
+Assess the baseline risk (e.g., high tumor burden) and take appropriate precautions.
 Monitor patients closely and treat as appropriate.
 
 ## 5.8 Embryo-Fetal Toxicity
 
 Based on findings in animals, IMBRUVICA can cause fetal harm when administered to a pregnant woman.
-Administration of ibrutinib to pregnant rats and rabbits during the period of organogenesis caused embryofetal toxicity including malformations at exposures that were 2–20 times higher than those reported in patients with MCL, CLL or WM.
+Administration of ibrutinib to pregnant rats and rabbits during the period of organogenesis caused embryofetal toxicity including malformations at exposures that were 2-20 times higher than those reported in patients with MCL, CLL/SLL or WM.
 Advise women to avoid becoming pregnant while taking IMBRUVICA and for 1 month after cessation of therapy.
 If this drug is used during pregnancy or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus [see Use in Specific Populations (8.1)].

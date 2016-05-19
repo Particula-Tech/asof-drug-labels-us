@@ -11,9 +11,9 @@ At baseline, 39% of subjects had at least one tumor ≥ 5 cm, 49% had bone marro
 IMBRUVICA was administered orally at 560 mg once daily until disease progression or unacceptable toxicity.
 Tumor response was assessed according to the revised International Working Group (IWG) for non-Hodgkin's lymphoma (NHL) criteria.
 The primary endpoint in this study was investigator-assessed overall response rate (ORR).
-Responses to IMBRUVICA are shown in Table 10.
+Responses to IMBRUVICA are shown in Table11.
 
-Table 10: Overall Response Rate (ORR) and Duration of Response (DOR) Based on Investigator Assessment in Patients with MCL
+Table 11: Overall Response Rate (ORR) and Duration of Response (DOR) Based on Investigator Assessment in Patients with MCL
 
 |  | Total (N=111) |
 | --- | --- |
@@ -34,9 +34,9 @@ Lymphocytosis
 Upon initiation of IMBRUVICA, a temporary increase in lymphocyte counts (i.e., ≥ 50% increase from baseline and above absolute lymphocyte count of 5,000/mcL) occurred in 33% of patients in the MCL study.
 The onset of isolated lymphocytosis occurs during the first few weeks of IMBRUVICA therapy and resolves by a median of 8 weeks.
 
-## 14.2 Chronic Lymphocytic Leukemia
+## 14.2 Chronic Lymphocytic Leukemia / Small Lymphocytic Lymphoma
 
-The safety and efficacy of IMBRUVICA in patients with CLL were demonstrated in one uncontrolled trial and two randomized, controlled trials.
+The safety and efficacy of IMBRUVICA in patients with CLL/SLL were demonstrated in one uncontrolled trial and three randomized, controlled trials.
 
 Study 1
 
@@ -65,9 +65,9 @@ The median time since diagnosis was 91 months and the median number of prior tre
 At baseline, 58% of patients had at least one tumor ≥ 5 cm.
 Thirty-two percent of patients had 17p deletion.
 
-Efficacy results for Study 2 are shown in Table 11 and the Kaplan-Meier curves for PFS, assessed by independent review committee (IRC) according to IWCLL criteria, and OS are shown in Figures 1 and 2, respectively.
+Efficacy results for Study 2 are shown in Table 12 and the Kaplan-Meier curves for PFS, assessed by independent review committee (IRC) according to IWCLL criteria, and OS are shown in Figures 1 and 2, respectively.
 
-Table 11: Efficacy Results in Study 2
+Table 12: Efficacy Results in Study 2
 
 | Endpoint | IMBRUVICA N=195 | Ofatumumab N=196 |
 | --- | --- | --- |
@@ -87,32 +87,31 @@ Figure 1: Kaplan-Meier Curve of Progression Free Survival (ITT Population) in St
 
 Figure 2: Kaplan-Meier Curve of Overall Survival (ITT Population) in Study 2
 
-CLL with 17p deletion (del 17p CLL)
+CLL/SLL with 17p deletion (del 17p CLL/SLL) in Study 2
 
-Study 2 included 127 patients with del 17p CLL.
+Study 2 included 127 patients with del 17p CLL/SLL.
 The median age was 67 years (range, 30 to 84 years), 62% were male, and 88% were Caucasian.
 All patients had a baseline ECOG performance status of 0 or 1.
 PFS and ORR were assessed by IRC.
-Efficacy results for del 17p CLL are shown in Table 12.
+Efficacy results for del 17p CLL/SLL are shown in Table 13.
 
-Table 12: Efficacy Results in Patients with del 17p CLL
+Table 13: Efficacy Results in Patients with del 17p CLL/SLL in Study 2
 
 | Endpoint | IMBRUVICA N=63 | Ofatumumab N=64 |
 | --- | --- | --- |
-| Progression Free Survival |  |  |
+| Progression Free SurvivalIRC evaluated. All partial responses achieved; none of the patients achieved a complete response. |  |  |
 | Number of events (%) | 16 (25.4) | 38 (59.4) |
 | Disease progression | 12 | 31 |
 | Death events | 4 | 7 |
 | Median (95% CI), months | NR | 5.8 (5.3, 7.9) |
 | HR (95% CI) | 0.25 (0.14, 0.45) |  |
-| Overall Response RateIRC evaluated. All partial responses achieved; none of the patients achieved a complete response. | 47.6% | 4.7% |
+| Overall Response Rate | 47.6% | 4.7% |
 | CI = confidence interval; HR = hazard ratio; NR = not reached |  |  |
 
 Study 3
 
 A randomized, multi-center, open-label study of IMBRUVICA versus chlorambucil was conducted in patients with treatment naïve CLL or SLL who were 65 years of age or older.
 Patients (n = 269) were randomized 1:1 to receive either IMBRUVICA 420 mg daily until disease progression or unacceptable toxicity, or chlorambucil at a starting dose of 0.5 mg/kg on Days 1 and 15 of each 28-day cycle for a maximum of 12 cycles, with an allowance for intrapatient dose increases up to 0.8 mg/kg based on tolerability.
-After confirmed progression, patients on chlorambucil were able to crossover to ibrutinib.
 
 The median age was 73 years (range, 65 to 90 years), 63% were male, and 91% were Caucasian.
 Ninety one percent of patients had a baseline ECOG performance status of 0 or 1 and 9% had an ECOG performance status of 2.
@@ -120,9 +119,12 @@ The trial enrolled 249 patients with CLL and 20 patients with SLL.
 At baseline, 20% of patients had 11q deletion.
 The most common reasons for initiating CLL therapy include: progressive marrow failure demonstrated by anemia and/or thrombocytopenia (38%), progressive or symptomatic lymphadenopathy (37%), progressive or symptomatic splenomegaly (30%), fatigue (27%) and night sweats (25%).
 
-Efficacy results for Study 3 are shown in Table 13 and the Kaplan-Meier curve for PFS, assessed by independent review committee (IRC) according to IWCLL criteria is shown in Figure 3.
+With a median follow-up of 28.1 months, there were 32 observed death events [11 (8.1%) and 21 (15.8%) in IMBRUVICA and chlorambucil treatment arms, respectively].
+With 41% of patients switching from chlorambucil to IMBRUVICA, the overall survival analysis in the ITT patient population resulted in a statistically significant HR of 0.44 [95% CI (0.21, 0.92)] and 2-year survival rate estimates of 94.7% [95% CI (89.1, 97.4)] and 84.3% [95% CI (76.7, 89.6)] in the IMBRUVICA and chlorambucil arms, respectively.
 
-Table 13: Efficacy Results in Study 3
+Efficacy results for Study 3 are shown in Table 14 and the Kaplan-Meier curve for PFS, assessed by independent review committee (IRC) according to IWCLL criteria is shown in Figure 3.
+
+Table 14: Efficacy Results in Study 3
 
 | Endpoint | IMBRUVICA N=136 | Chlorambucil N=133 |
 | --- | --- | --- |
@@ -131,16 +133,45 @@ Table 13: Efficacy Results in Study 3
 | Disease progression | 12 | 57 |
 | Death events | 3 | 7 |
 | Median (95% CI), months | NR | 18.9 (14.1, 22.0) |
-| HRHR = hazard ratio; NR = not reached (95% CI) | 0.161 (0.091, 0.283) |  |
+| HRHR = hazard ratio; NR = not reached (95% CI) | 0.16 (0.09, 0.28) |  |
 | Overall Response Rate (CR + PR) | 82.4% | 35.3% |
 | P-value | <0.0001 |  |
 
 Figure 3: Kaplan-Meier Curve of Progression-Free Survival (ITT Population) in Study 3
 
+Study 4
+
+A randomized, multicenter, double-blinded Phase 3 study of IMBRUVICA in combination with bendamustine and rituximab (BR) versus placebo + BR was conducted in patients with previously treated CLL or SLL.
+Patients (n = 578) were randomized 1:1 to receive either IMBRUVICA 420 mg daily or placebo in combination with BR until disease progression, or unacceptable toxicity.
+All patients received BR for a maximum of six 28-day cycles.
+Bendamustine was dosed at 70 mg/m2 infused IV over 30 minutes on Cycle 1, Days 2 and 3, and on Cycles 2-6, Days 1 and 2 for up to 6 cycles.
+Rituximab was administered at a dose of 375 mg/m2 in the first cycle, Day 1, and 500 mg/m2 Cycles 2 through 6, Day 1.
+
+The median age was 64 years (range, 31 to 86 years), 66% were male, and 91% were Caucasian.
+All patients had a baseline ECOG performance status of 0 or 1.
+The median time since diagnosis was 5.9 years and the median number of prior treatments was 2 (range, 1 to 11 treatments).
+At baseline, 56% of patients had at least one tumor ≥ 5 cm and 26% presented with del11q.
+
+Efficacy results for Study 4 are shown in Table 15 and the Kaplan-Meier curves for PFS are shown in Figure 4.
+
+Table 15: Efficacy Results in Study 4
+
+| Endpoint | IMBRUVICA + BR N=289 | Placebo + BR N=289 |
+| --- | --- | --- |
+| Progression Free SurvivalIRC evaluated, Twenty four subjects (8.3%) in the IMBRUVICA + BR arm and six subjects (2.1%) in the placebo + BR arm achieved complete response |  |  |
+| Number of events (%) | 56 (19.4) | 183 (63.3) |
+| Median (95% CI), months | Not reached | 13.3 (11.3, 13.9) |
+| HR (95% CI) | 0.20 (0.15, 0.28) |  |
+| Overall Response Rate | 82.7% | 67.8% |
+| BR = bendamustine and rituximab; CI = confidence interval; HR = hazard ratio |  |  |
+
+Figure 4: Kaplan-Meier Curve of Progression-Free Survival (ITT Population) in Study 4
+
 Lymphocytosis
 
 Upon initiation of IMBRUVICA, an increase in lymphocyte counts (i.e., ≥ 50% increase from baseline and above absolute lymphocyte count of 5,000/mcL) occurred in 66% of patients in the CLL studies.
 The onset of isolated lymphocytosis occurs during the first month of IMBRUVICA therapy and resolves by a median of 14 weeks (range, 0.1 to 104 weeks).
+When IMBRUVICA was administered with chemoimmunotherapy, lymphocytosis was 7% with IMBRUVICA + BR versus 6% with placebo + BR.
 
 ## 14.3 Waldenström's Macroglobulinemia
 
@@ -152,9 +183,9 @@ At baseline, the median serum IgM value was 3.5 g/dL (range, 0.7 to 8.4 g/dL).
 
 IMBRUVICA was administered orally at 420 mg once daily until disease progression or unacceptable toxicity.
 The responses were assessed by investigators and an Independent Review Committee (IRC) using criteria adopted from the International Workshop of Waldenström's Macroglobulinemia.
-Responses, defined as partial response or better, per IRC are shown in Table 14.
+Responses, defined as partial response or better, per IRC are shown in Table 16.
 
-Table 14: Overall Response Rate (ORR) and Duration of Response (DOR) Based on IRC Assessment in Patients with WM
+Table 16: Overall Response Rate (ORR) and Duration of Response (DOR) Based on IRC Assessment in Patients with WM
 
 |  | Total (N=63) |
 | --- | --- |
@@ -166,4 +197,4 @@ Table 14: Overall Response Rate (ORR) and Duration of Response (DOR) Based on IR
 | Median duration of response, months (range) | NR (2.8+, 18.8+) |
 | CI = confidence interval; NR = not reached |  |
 
-The median time to response was 1.2 months (range, 0.7–13.4 months).
+The median time to response was 1.2 months (range, 0.7-13.4 months).

@@ -10,11 +10,13 @@ Do not open, break, or chew the capsules.
 
 Mantle Cell Lymphoma
 
-The recommended dose of IMBRUVICA for MCL is 560 mg (four 140 mg capsules) orally once daily.
+The recommended dose of IMBRUVICA for MCL is 560 mg (four 140 mg capsules) orally once daily until disease progression or unacceptable toxicity.
 
-Chronic Lymphocytic Leukemia and Waldenström's Macroglobulinemia
+Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma and Waldenström's Macroglobulinemia
 
-The recommended dose of IMBRUVICA for CLL and WM is 420 mg (three 140 mg capsules) orally once daily.
+The recommended dose of IMBRUVICA for CLL/SLL and WM is 420 mg (three 140 mg capsules) orally once daily until disease progression or unacceptable toxicity.
+
+The recommended dose of IMBRUVICA for CLL/SLL when used in combination with bendamustine and rituximab (administered every 28 days for up to 6 cycles) is 420 mg (three 140 mg capsules) orally once daily until disease progression or unacceptable toxicity.
 
 ## 2.3 Dose Modifications for Adverse Reactions
 
@@ -26,7 +28,7 @@ If these toxicities persist or recur following two dose reductions, discontinue 
 
 Recommended dose modifications are described below:
 
-| Toxicity Occurrence | MCL Dose Modification After Recovery Starting Dose = 560 mg | CLL and WM Dose Modification After Recovery Starting Dose = 420 mg |
+| Toxicity Occurrence | MCL Dose Modification After Recovery Starting Dose = 560 mg | CLL/SLL and WM Dose Modification After Recovery Starting Dose = 420 mg |
 | --- | --- | --- |
 | First | Restart at 560 mg daily | Restart at 420 mg daily |
 | Second | Restart at 420 mg daily | Restart at 280 mg daily |
@@ -47,7 +49,7 @@ Patients taking concomitant strong or moderate CYP3A inhibitors should be monito
 ## 2.5 Dose Modifications for Use in Hepatic Impairment
 
 For patients with mild liver impairment (Child-Pugh class A), the recommended dose is 140 mg daily (one capsule).
-Avoid the use of IMBRUVICA in patients with moderate or severe hepatic impairment (Child-Pugh classes B and C) [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
+Avoid the use of IMBRUVICA in patients with moderate or severe hepatic impairment (Child-Pugh classes B and C) [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 ## 2.6 Missed Dose
 

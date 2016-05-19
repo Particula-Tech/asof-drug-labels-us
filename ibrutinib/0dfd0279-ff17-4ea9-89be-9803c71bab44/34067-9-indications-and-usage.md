@@ -7,13 +7,13 @@ IMBRUVICA is indicated for the treatment of patients with mantle cell lymphoma (
 Accelerated approval was granted for this indication based on overall response rate.
 Continued approval for this indication may be contingent upon verification of clinical benefit in confirmatory trials [see Clinical Studies (14.1)].
 
-## 1.2 Chronic Lymphocytic Leukemia
+## 1.2 Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma
 
-IMBRUVICA is indicated for the treatment of patients with chronic lymphocytic leukemia (CLL) [see Clinical Studies (14.2)].
+IMBRUVICA is indicated for the treatment of patients with chronic lymphocytic leukemia (CLL)/small lymphocytic lymphoma (SLL) [see Clinical Studies (14.2)].
 
-## 1.3 Chronic Lymphocytic Leukemia with 17p deletion
+## 1.3 Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma with 17p deletion
 
-IMBRUVICA is indicated for the treatment of patients with chronic lymphocytic leukemia (CLL) with 17p deletion [see Clinical Studies (14.2)].
+IMBRUVICA is indicated for the treatment of patients with chronic lymphocytic leukemia (CLL)/small lymphocytic leukemia (SLL) with 17p deletion [see Clinical Studies (14.2)].
 
 ## 1.4 Waldenström's Macroglobulinemia
 

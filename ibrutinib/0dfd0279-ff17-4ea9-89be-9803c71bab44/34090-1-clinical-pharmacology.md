@@ -46,7 +46,8 @@ Unchanged ibrutinib accounted for approximately 1% of the radiolabeled excretion
 
 Age
 
-Age (37 to 84 years) does not alter ibrutinib systemic clearance.
+In older patients (67 to 81 years), there is a 14% higher ibrutinib exposure predicted.
+Dose adjustment by age is not warranted.
 
 Gender
 
@@ -63,13 +64,13 @@ Hepatic Impairment
 Ibrutinib is metabolized in the liver.
 In a hepatic impairment trial, a single dose of 140 mg of IMBRUVICA was administered in non-cancer subjects.
 Ibrutinib AUC increased 2.7-, 8.2- and 9.8-fold, respectively, in subjects with mild (n=6), moderate (n=10) and severe (n=8) hepatic impairment relative to subjects with normal liver function.
-Ibrutinib Cmax increased 5.2-, 8.8- and 7.0-fold, respectively, in subjects with mild, moderate and severe hepatic impairment relative to subjects with normal liver function [see Use in Specific Populations (8.7)].
+Ibrutinib Cmax increased 5.2-, 8.8- and 7.0-fold, respectively, in subjects with mild, moderate and severe hepatic impairment relative to subjects with normal liver function [see Use in Specific Populations (8.6)].
 
 Drug Interactions
 
 Coadministration of Ibrutinib with CYP3A Inhibitors
 
-In a sequential design trial of 18 healthy, fasted volunteers, a single dose of 120 mg of IMBRUVICA was administered alone on Day 1 and a single dose of 40 mg of IMBRUVICA was administered on Day 7 in combination with 400 mg of ketoconazole (given daily on Days 4 – 9).
+In a sequential design trial of 18 healthy, fasted volunteers, a single dose of 120 mg of IMBRUVICA was administered alone on Day 1 and a single dose of 40 mg of IMBRUVICA was administered on Day 7 in combination with 400 mg of ketoconazole (given daily on Days 4 - 9).
 Ketoconazole increased ibrutinib dose-normalized Cmax and AUC 29-fold and 24-fold, respectively.
 Simulations using fasted conditions indicate that moderate CYP3A inhibitors diltiazem and erythromycin may increase AUC of ibrutinib by 5- to 8-fold.
 
