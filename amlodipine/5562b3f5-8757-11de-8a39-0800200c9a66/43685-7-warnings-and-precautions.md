@@ -67,6 +67,10 @@ Hypokalemia may develop, especially during brisk diuresis, when severe cirrhosis
 Interference with adequate oral electrolyte intake will also contribute to hypokalemia.
 Hypokalemia may cause cardiac arrhythmia and may also sensitize or exaggerate the response of the heart to the toxic effects of digitalis (e.g., increased ventricular irritability).
 
+Tribenzor also contains olmesartan, a drug that inhibits the renin-angiotensin system (RAS).
+Drugs that inhibit the RAS can cause hyperkalemia.
+Monitor serum electrolytes periodically.
+
 Metabolic acidosis may occur.
 Although a chloride deficit in a particular patient is generally mild and usually does not require specific treatment, except under extraordinary circumstances (as in liver disease or renal disease), chloride replacement may be required in the treatment of metabolic alkalosis.
 
@@ -135,7 +139,7 @@ In these studies, there was no evidence of worsening of heart failure based on m
 ## 5.13 Laboratory Tests
 
 Olmesartan medoxomil.
-In post-marketing experience, increased blood creatinine levels and hyperkalemia have been reported.
+In post-marketing experience, increased blood creatinine levels have been reported.
 
 Amlodipine.
 In post-marketing experience, hepatic enzyme elevations have been reported [see Adverse Reactions (6.2)].
