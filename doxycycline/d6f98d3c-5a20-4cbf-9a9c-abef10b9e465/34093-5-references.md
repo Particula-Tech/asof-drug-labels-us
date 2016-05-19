@@ -22,3 +22,15 @@
    Methods for Antimicrobial Susceptibility Testing for Human Mycoplasmas; Approved Guideline.
    CLSI document M43-A.
    Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, PA 19087 USA, 2011.
+8. Friedman JM and Polifka JE.
+   Teratogenic Effects of Drugs.
+   A Resource for Clinicians (TERIS).
+   Baltimore, MD: The Johns Hopkins University Press, 2000: 149–195.
+9. Cziezel AE and Rockenbauer M. Teratogenic study of doxycycline.
+   Obstet Gynecol 1997; 89: 524–528.
+10. Horne HW Jr and Kundsin RB.
+    The role of mycoplasma among 81 consecutive pregnancies: a prospective study.
+    Int J Fertil 1980; 25: 315–317.
+11. Hale T. Medications and Mothers Milk.
+    9th edition.
+    Amarillo, TX: Pharmasoft Publishing, 2000: 225–226.

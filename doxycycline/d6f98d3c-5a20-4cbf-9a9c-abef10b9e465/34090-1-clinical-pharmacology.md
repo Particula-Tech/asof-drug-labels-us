@@ -58,8 +58,7 @@ The MIC values should be interpreted according to criteria provided in Table 1.
 
 Quantitative methods that require measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
-The zone size should be determined using a standardized test method1,3,4.
-This procedure uses paper disks impregnated with 30-μg doxycycline to test the susceptibility of microorganisms to doxycycline.
+The zone size should be determined using a standardized test method.1,3,4 This procedure uses paper disks impregnated with 30-μg doxycycline to test the susceptibility of microorganisms to doxycycline.
 The disk diffusion interpretive criteria are provided in Table 1.
 
 ### Anaerobic Techniques
@@ -71,7 +70,7 @@ Table 1: Susceptibility Test Interpretive Criteria for Doxycycline and Tetracycl
 
 |  | S | I | R | S | I | R | S | I | R |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| BacteriaOrganisms susceptible to tetracycline are also considered susceptible to doxycycline. However, some organisms that are intermediate or resistant to tetracycline may be susceptible to doxycycline | Minimal Inhibitory Concentration (mcg/mL) |  |  | Zone Diameter (mm) |  |  | Agar Dilution (mcg/mL) |  |  |
+| BacteriaOrganisms susceptible to tetracycline are also considered susceptible to doxycycline. However, some organisms that are intermediate or resistant to tetracycline may be susceptible to doxycycline. | Minimal Inhibitory Concentration (mcg/mL) |  |  | Zone Diameter (mm) |  |  | Agar Dilution (mcg/mL) |  |  |
 | Acinetobacter spp. |  |  |  |  |  |  |  |  |  |
 | Doxycycline | ≤4 | 8 | ≥16 | ≥13 | 10–12 | ≤9 | - | - | - |
 | Tetracycline | ≤4 | 8 | ≥16 | ≥15 | 12–14 | ≤11 | - | - | - |
@@ -85,21 +84,21 @@ Table 1: Susceptibility Test Interpretive Criteria for Doxycycline and Tetracycl
 | Tetracycline | ≤1 | - | - | - | - | - | - | - | - |
 | Enterobacteriaceae |  |  |  |  |  |  |  |  |  |
 | Doxycycline | ≤4 | 8 | ≥16 | ≥14 | 11–13 | ≤10 | - | - | - |
-| Tetracycline | ≤4 | 8 | ≥16 | ≥15 | 12 –14 | ≤11 | - | - | - |
+| Tetracycline | ≤4 | 8 | ≥16 | ≥15 | 12–14 | ≤11 | - | - | - |
 | Franciscella tularensis |  |  |  |  |  |  |  |  |  |
-| Doxycycline | ≤ 4 | - | - | - | - | - | - | - | - |
-| Tetracycline | ≤ 4 | - | - | - | - | - | - | - | - |
+| Doxycycline | ≤4 | - | - | - | - | - | - | - | - |
+| Tetracycline | ≤4 | - | - | - | - | - | - | - | - |
 | Haemophilus influenzae |  |  |  |  |  |  |  |  |  |
 | Tetracycline | ≤2 | 4 | ≥8 | ≥29 | 26–28 | ≤25 | - | - | - |
 | Mycoplasma pneumoniae |  |  |  |  |  |  |  |  |  |
 | Tetracycline | - | - | - | - | - | - | ≤2 | - | - |
 | Nocardiae and other aerobic Actinomyces species |  |  |  |  |  |  |  |  |  |
 | Doxycycline | ≤1 | 2–4 | ≥8 | - | - | - | - | - | - |
-| Neisseria gonorrhoeaeGonococci with 30 mcg tetracycline disk zone diameters of <19 mm usually indicate a plasmid-mediated tetracycline resistant Neisseria gonorrhoeae isolate. Resistance in these strains should be confirmed by a dilution test (MIC ≥ 16 mcg/mL) |  |  |  |  |  |  |  |  |  |
+| Neisseria gonorrhoeaeGonococci with 30 mcg tetracycline disk zone diameters of <19 mm usually indicate a plasmid-mediated tetracycline resistant Neisseria gonorrhoeae isolate. Resistance in these strains should be confirmed by a dilution test (MIC ≥16 mcg/mL). |  |  |  |  |  |  |  |  |  |
 | Tetracycline | - | - | - | ≥38 | 31–37 | ≤30 | ≤0.25 | 0.5–1 | ≥2 |
 | Streptococcus pneumoniae |  |  |  |  |  |  |  |  |  |
 | Doxycycline | ≤0.25 | 0.5 | ≥1 | ≥28 | 25–27 | ≤24 | - | - | - |
-| Tetracycline | ≤1 | 2 | ≥4 | ≥28 | 25–27 | ≤24 |  |  |  |
+| Tetracycline | ≤1 | 2 | ≥4 | ≥28 | 25–27 | ≤24 | - | - | - |
 | Vibrio cholerae |  |  |  |  |  |  |  |  |  |
 | Doxycycline | ≤4 | 8 | ≥16 | - | - | - | - | - | - |
 | Tetracycline | ≤4 | 8 | ≥16 | - | - | - | - | - | - |
@@ -132,7 +131,7 @@ Table 2: Acceptable Quality Control Ranges for Susceptibility Testing for Doxycy
 | Doxycycline | 0.5 – 2 | 18 – 24 | - |
 | Tetracycline | 0.5 – 2 | 18 – 25 | - |
 | Eubacteria lentum ATCC 43055 |  |  |  |
-| Doxycycline | 2 – 16 |  |  |
+| Doxycycline | 2 – 16 | - | - |
 | Haemophilus influenzae ATCC 49247 |  |  |  |
 | Tetracycline | 4 – 32 | 14 – 22 | - |
 | Neisseria gonorrhoeae ATCC 49226 |  |  |  |
@@ -149,7 +148,7 @@ Table 2: Acceptable Quality Control Ranges for Susceptibility Testing for Doxycy
 | Bacteroides fragilis ATCC 25285 |  |  |  |
 | Tetracycline | - | - | 0.12 – 0.5 |
 | Bacteroides thetaiotaomicron ATCC 29741 |  |  |  |
-| Doxycycline | 2 – 16 |  |  |
+| Doxycycline | 2 – 16 | - | - |
 | Tetracycline | - | - | 8 – 32 |
 | Mycoplasma pneumoniae ATCC 29342 |  |  |  |
 | Tetracycline | 0.06–0.5 | - | 0.06–0.5 |
