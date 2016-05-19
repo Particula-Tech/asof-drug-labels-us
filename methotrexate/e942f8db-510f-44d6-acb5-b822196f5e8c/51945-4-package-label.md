@@ -1,6 +1,6 @@
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
-## Trexall 5mg 30s Label Text
+## Trexall® (methotrexate tablets USP) 5 mg, 30s Label Text
 
 NDC 51285-366-01
 
@@ -10,17 +10,27 @@ Trexall®
 
 5 mg
 
-Warning: Discontinue or reduce dosage immediately at first sign of ulceration or bleeding in the mouth, gastrointestinal ulceration or bleeding, diarrhea or marked depression of bone marrow.
+Warning: Discontinue or reduce
+
+dosage immediately at first sign
+
+of ulceration or bleeding in the
+
+mouth, gastrointestinal ulceration
+
+or bleeding, diarrhea or marked
+
+depression of bone marrow.
 
 Rx only
 
-30 Tablets
+30 TABLETS
 
 TEVA
 
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
-## Trexall 7.5 mg 30s Label Text
+## Trexall® (methotrexate tablets USP) 7.5 mg, 30s Label Text
 
 NDC 51285-367-01
 
@@ -30,17 +40,27 @@ Trexall®
 
 7.5 mg
 
-Warning: Discontinue or reduce dosage immediately at first sign of ulceration or bleeding in the mouth, gastrointestinal ulceration or bleeding, diarrhea or marked depression of bone marrow.
+Warning: Discontinue or reduce
+
+dosage immediately at first sign
+
+of ulceration or bleeding in the
+
+mouth, gastrointestinal ulceration
+
+or bleeding, diarrhea or marked
+
+depression of bone marrow.
 
 Rx only
 
-30 Tablets
+30 TABLETS
 
 TEVA
 
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
-## Trexall 10 mg 30s Label Text
+## Trexall® (methotrexate tablets USP) 10 mg, 30s Label Text
 
 NDC 51285-368-01
 
@@ -50,17 +70,27 @@ Trexall®
 
 10 mg
 
-Warning: Discontinue or reduce dosage immediately at first sign of ulceration or bleeding in the mouth, gastrointestinal ulceration or bleeding, diarrhea or marked depression of bone marrow.
+Warning: Discontinue or reduce
+
+dosage immediately at first sign
+
+of ulceration or bleeding in the
+
+mouth, gastrointestinal ulceration
+
+or bleeding, diarrhea or marked
+
+depression of bone marrow.
 
 Rx only
 
-30 Tablets
+30 TABLETS
 
 TEVA
 
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
-## Trexall 15 mg 30s Label Text
+## Trexall® (methotrexate tablets USP) 15 mg, 30s Label Text
 
 NDC 51285-369-01
 
@@ -70,10 +100,20 @@ Trexall®
 
 15 mg
 
-Warning: Discontinue or reduce dosage immediately at first sign of ulceration or bleeding in the mouth, gastrointestinal ulceration or bleeding, diarrhea or marked depression of bone marrow.
+Warning: Discontinue or reduce
+
+dosage immediately at first sign
+
+of ulceration or bleeding in the
+
+mouth, gastrointestinal ulceration
+
+or bleeding, diarrhea or marked
+
+depression of bone marrow.
 
 Rx only
 
-30 Tablets
+30 TABLETS
 
 TEVA
