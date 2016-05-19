@@ -103,7 +103,17 @@ In post-marketing experience, jaundice and hepatic enzyme elevations (mostly con
 Olmesartan medoxomil.
 The following adverse reactions have been reported in post-marketing experience:
 
-Body as a Whole: asthenia, angioedema, anaphylactic reactions, peripheral edema Gastrointestinal: vomiting, diarrhea, sprue-like enteropathy [see Warnings and Precautions (5.8)] Musculoskeletal: rhabdomyolysis Urogenital System: acute renal failure Skin and Appendages: alopecia, pruritus, urticaria
+Body as a Whole: asthenia, angioedema, anaphylactic reactions, peripheral edema
+
+Gastrointestinal: vomiting, diarrhea, sprue-like enteropathy [see Warnings and Precautions (5.8)]
+
+Metabolic and Nutritional Disorders: hyperkalemia
+
+Musculoskeletal: rhabdomyolysis
+
+Urogenital System: acute renal failure
+
+Skin and Appendages: alopecia, pruritus, urticaria
 
 Data from one controlled trial and an epidemiologic study have suggested that high-dose olmesartan may increase cardiovascular (CV) risk in diabetic patients, but the overall data are not conclusive.
 The randomized, placebo-controlled, double-blind ROADMAP trial (Randomized Olmesartan And Diabetes MicroAlbuminuria Prevention trial, n=4447) examined the use of olmesartan, 40 mg daily, vs. placebo in patients with type 2 diabetes mellitus, normoalbuminuria, and at least one additional risk factor for CV disease.

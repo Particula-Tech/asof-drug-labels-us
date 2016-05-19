@@ -67,7 +67,13 @@ Intestinal biopsies of patients often demonstrated villous atrophy.
 If a patient develops these symptoms during treatment with olmesartan, exclude other etiologies.
 Consider discontinuation of Azor in cases where no other etiology is identified.
 
-## 5.9 Laboratory Tests
+## 5.9 Electrolyte and Metabolic Imbalances
+
+Azor contains olmesartan, a drug that inhibits the renin-angiotensin system (RAS).
+Drugs that inhibit the RAS can cause hyperkalemia.
+Monitor serum electrolytes periodically.
+
+## 5.10 Laboratory Tests
 
 Azor.
 There was a greater decrease in hemoglobin and hematocrit in the combination product compared to either component.
@@ -77,4 +83,4 @@ Amlodipine.
 In post-marketing experience, hepatic enzyme elevations have been reported (6.2).
 
 Olmesartan medoxomil.
-In post-marketing experience, increased blood creatinine levels and hyperkalemia have been reported.
+In post-marketing experience, increased blood creatinine levels have been reported.
