@@ -4,8 +4,8 @@ MEDICATION GUIDE
 
 Omeprazole Delayed-Release Capsules, USP
 
-CIA77775F Rev.
-6E 01/2015
+CIA77775G Rev.
+01/2016
 
 Read this Medication Guide before you start taking Omeprazole Delayed-Release Capsules and each time you get a refill.
 There may be new information.
@@ -30,7 +30,7 @@ Omeprazole Delayed-Release Capsules can cause serious side effects, including:
 Omeprazole Delayed-Release Capsules can have other serious side effects.
 See "What are the possible side effects of Omeprazole Delayed-Release Capsules?"
 
-What is Omeprazole Delayed-Release Capsules?
+What are Omeprazole Delayed-Release Capsules?
 
 Omeprazole Delayed-Release Capsules is a prescription medicine called a proton pump inhibitor (PPI).
 Omeprazole Delayed-Release Capsules reduces the amount of acid in your stomach.
@@ -60,7 +60,7 @@ For children 2 to 16 years of age, Omeprazole Delayed-Release Capsules is used:
 - to maintain healing of the esophagus.
   It is not known if Omeprazole Delayed-Release Capsules is safe and effective when used longer than 12 months (1 year) for this purpose.
 
-It is not known if Omeprazole Delayed-Release Capsules is safe and effective for the treatment of gastroesophageal reflux disease (GERD) in children under 2 years of age.
+It is not known if Omeprazole Delayed-Release Capsules is safe and effective for the treatment of gastroesophageal reflux disease (GERD) in children under 1 year of age.
 
 Who should not take Omeprazole Delayed-Release Capsules?
 
@@ -213,7 +213,7 @@ This Medication Guide summarizes the most important information about Omeprazole
 For more information, ask your doctor.
 You can ask your doctor or pharmacist for information that is written for healthcare professionals.
 
-For more information, go to www.kremersurban.com or call 1-844-599-CARE.
+For more information, call 1-844-834-0530.
 
 Instructions for Use
 
@@ -223,7 +223,7 @@ What are the ingredients in Omeprazole Delayed-Release Capsules?
 
 Active ingredient in Omeprazole Delayed-Release Capsules: omeprazole
 
-Inactive ingredients in Omeprazole Delayed-Release Capsules: (including the capsule shells): crospovidone, glyceryl behenate, hypromellose, lactose monohydrate, methacrylic acid copolymer dispersion, silicon dioxide, talc, titanium dioxide and triethyl citrate.
+Inactive ingredients in Omeprazole Delayed-Release Capsules: (including the capsule shells): crospovidone, glyceryl dibehenate, hypromellose, lactose monohydrate, methacrylic acid copolymer dispersion, silicon dioxide, talc, titanium dioxide and triethyl citrate.
 The capsule shells also contain gelatin and may contain sodium lauryl sulfate.
 In addition, the 20 mg and 40 mg capsule shells also contain yellow iron oxide.
 The imprinting ink also contains ammonium hydroxide, butyl alcohol, black iron oxide, isopropyl alcohol, propylene glycol and shellac glaze.

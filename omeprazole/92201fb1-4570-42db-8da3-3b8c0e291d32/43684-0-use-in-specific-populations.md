@@ -14,7 +14,7 @@ There are no adequate and well-controlled studies with Omeprazole Delayed-Releas
 Available epidemiologic data fail to demonstrate an increased risk of major congenital malformations or other adverse pregnancy outcomes with first trimester omeprazole use.
 
 Teratogenicity was not observed in animal reproduction studies with administration of oral esomeprazole magnesium in rats and rabbits with doses about 68 times and 42 times, respectively, an oral human dose of 40 mg (based on a body surface area basis foe a 60 kg person).
-However, changes in bone morphology were observed in offspring of rats dosed through most of pregnancy and lactation at doses equal to or greater than approximately 34 times an oral human dose 40 mg (see Animal Data).
+However, changes in bone morphology were observed in offspring of rats dosed through most of pregnancy and lactation at doses equal to or greater than approximately 34 times an oral human dose of 40 mg (see Animal Data).
 Because of the observed effect at high doses of esomeprazole magnesium on developing bone in rat studies, Omeprazole Delayed-Release Capsules should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 #### Human Data
@@ -58,7 +58,7 @@ Physeal dysplasia in the femur was observed in offspring of rats treated with or
 Effects on maternal bone were observed in pregnant and lactating rats in the pre- and postnatal toxicity study when esomeprazole magnesium was administered at oral doses of 14 to 280 mg/kg/day (about 3.4 to 68 times an oral human dose of 40 mg on a body surface area basis).
 When rats were dosed from gestational day 7 through weaning on postnatal day 21, a statistically significant decrease in maternal femur weight of up to 14% (as compared to placebo treatment) was observed at doses equal to or greater than 138 mg/kg/day (about 34 times an oral human dose of 40 mg on a body surface area basis).
 
-A pre- and postnatal development study in rats with esomeprazole strontium (using equimolar doses compared to esomeprazaole magnesium study) produced similar results in dams and pups as described above.
+A pre- and postnatal development study in rats with esomeprazole strontium (using equimolar doses compared to esomeprazole magnesium study) produced similar results in dams and pups as described above.
 
 ## 8.3 Nursing Mothers
 

@@ -33,7 +33,7 @@ Table 1 Range of Mean Values from Multiple Studies of the Mean Antisecretory Eff
 
 Single daily oral doses of omeprazole ranging from a dose of 10 mg to 40 mg have produced 100% inhibition of 24-hour intragastric acidity in some patients.
 
-### Serum Gastric Effects
+### Serum Gastrin Effects
 
 Serum Gastric Effects
 

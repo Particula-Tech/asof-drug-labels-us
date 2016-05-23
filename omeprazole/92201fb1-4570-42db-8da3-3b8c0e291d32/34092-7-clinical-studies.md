@@ -154,8 +154,6 @@ Results are shown below.
 
 In a U.S. multicenter double-blind placebo controlled study of 20 mg or 40 mg of Omeprazole Delayed-Release Capsules in patients with symptoms of GERD and endoscopically diagnosed erosive esophagitis of grade 2 or above, the percentage healing rates (per protocol) were as follows:
 
-Treatment of Gastric Ulcer % Successful Symptomatic Outcome
-
 | Week | 20 mg Omeprazole Delayed-Release Capsules (n=83) | 40 mg Omeprazole Delayed-Release Capsules (n=87) | Placebo (n=43) |
 | --- | --- | --- | --- |
 | 4 | 39 (p < 0.01) Omeprazole Delayed-Release Capsules versus placebo. | 45 | 7 |

@@ -11,7 +11,7 @@ The stability of omeprazole is a function of pH; it is rapidly degraded in acid 
 Omeprazole Delayed-Release Capsules meet USP Dissolution Test 2.
 
 Omeprazole Delayed-Release Capsules is supplied as delayed-release capsules for oral administration.
-Each delayed-release capsule contains either 10 mg, 20 mg, or 40 mg of omeprazole in the form of enteric-coated microtablets with the following inactive ingredients: crospovidone, glyceryl behenate, hypromellose, lactose monohydrate, methacrylic acid copolymer dispersion, silicon dioxide, talc, titanium dioxide and triethyl citrate.
+Each delayed-release capsule contains either 10 mg, 20 mg, or 40 mg of omeprazole in the form of enteric-coated microtablets with the following inactive ingredients: crospovidone, glyceryl dibehenate, hypromellose, lactose monohydrate, methacrylic acid copolymer dispersion, silicon dioxide, talc, titanium dioxide and triethyl citrate.
 In addition, the capsule shells contain gelatin and may contain sodium lauryl sulfate.
 In addition, the 20 mg and 40 mg capsule shells also contain yellow iron oxide.
 The imprinting ink also contains ammonium hydroxide, butyl alcohol, black iron oxide, isopropyl alcohol, propylene glycol and shellac glaze.
