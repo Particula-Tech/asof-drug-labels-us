@@ -70,8 +70,20 @@ However, because of the absence of an appropriate control group, it is not known
 In this open-label, uncontrolled study, the mortality was 37 deaths/1000 patient years.
 It is not possible to know whether this mortality rate is related to topiramate treatment, because the background mortality rate for a similar, significantly refractory, young pediatric population (1 to 24 months) with partial epilepsy is not known.
 Monotherapy Treatment in Partial Onset Epilepsy in Patients <2 Years Old Safety and effectiveness in patients below the age of 2 years have not been established for the monotherapy treatment of epilepsy.
-Additional pediatric use information for patients ages 12 to 17 years is approved for Janssen Pharmaceuticals, Inc.'s TOPAMAX (topiramate) Tablets.
-However, due to Janssen Pharmaceuticals, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+
+Migraine Prophylaxis in Children 6 to 11 Years Old
+
+Safety and effectiveness in pediatric patients below the age of 12 years have not been established for the prophylaxis treatment of migraine headache.
+In a double-blind study in 90 children age 6 to 11 years (including 59 topiramate-treated and 31 placebo patients), the adverse reaction profile was generally similar to that in pooled double-blind studies of adolescents age 12 to 17 years.
+The adverse reactions that occurred most commonly in topiramate-treated children age 6 to 11 years, and at least twice as frequently than placebo, were gastroenteritis (12% topiramate, 6% placebo), sinusitis (10% topiramate, 3% placebo), weight decrease (8% topiramate, 3% placebo) and paresthesia (7% topiramate, 0% placebo).
+Difficulty with concentration/attention occurred in 3 topiramate-treated patients (5%) and 0 placebo patients.
+The risk for cognitive adverse reaction was greater in younger patients (6 to 11 years) than in older patients (12 to 17 years) [see Warnings and Precautions (5.6)].
+For patients 6 to 11 years, the following were noted to be abnormally increased more frequently with topiramate than with placebo: alkaline phosphatase, creatinine, and eosinophils.
+Analytes abnormally decreased were: total white count and neutrophils [see Warnings and Precautions (5.16)].
+Serum bicarbonate, chloride, phosphorus, and ammonia data were not collected for pediatric patients 6 to 11 years of age.
+Additional pediatric use information for patients ages 12 to 17 years is approved for Janssen Pharmaceuticals, Inc.’s TOPAMAX (topiramate) Tablets.
+However, due to Janssen Pharmaceuticals, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+
 Juvenile Animal Studies When topiramate (30, 90, or 300 mg/kg/day) was administered orally to rats during the juvenile period of development (postnatal days 12 to 50), bone growth plate thickness was reduced in males at the highest dose, which is approximately 5 to 8 times the maximum recommended pediatric dose (9 mg/kg/day) on a body surface area (mg/m2) basis.
 
 ## 8.5 Geriatric Use

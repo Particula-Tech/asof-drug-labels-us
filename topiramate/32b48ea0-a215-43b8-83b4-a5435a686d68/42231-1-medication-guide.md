@@ -87,7 +87,8 @@ What are topiramate tablets?
 Topiramate tablets are a prescription medicine used:
 
 - to treat certain types of seizures (partial onset seizures and primary generalized tonic-clonic seizures) in adults and children 2 years and older,
-- with other medicines to treat certain types of seizures (partial onset seizures, primary generalized tonic-clonic seizures, and seizures associated with Lennox-Gastaut syndrome) in adults and children 2 years and older.
+- with other medicines to treat certain types of seizures (partial onset seizures, primary generalized tonic-clonic seizures, and seizures associated with Lennox-Gastaut syndrome) in adults and children 2 years and older,
+- to prevent migraine headaches in adults.
 
 What should I tell my healthcare provider before taking topiramate tablets?
 
@@ -159,7 +160,7 @@ What are the possible side effects of topiramate tablets?
 
 Topiramate tablets may cause serious side effects including:
 
-See "What is the most important information I should know about topiramate tablets"?
+See "What is the most important information I should know about topiramate tablets?"
 
 - High blood ammonia levels.
   High ammonia in the blood can affect your mental activities, slow your alertness, make you feel tired, or cause vomiting.
@@ -238,4 +239,4 @@ However, due to Janssen Pharmaceuticals, Inc.’s marketing exclusivity rights, 
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 090, India Revised: 11/2015
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 090, India Revised: 05/2016

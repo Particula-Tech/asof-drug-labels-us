@@ -71,8 +71,28 @@ The dosage should then be increased at 1- or 2-week intervals by increments of 1
 Dose titration should be guided by clinical outcome.
 
 In the study of primary generalized tonic-clonic seizures, the initial titration rate was slower than in previous studies; the assigned dose of 6 mg/kg/day was reached at the end of 8 weeks [see Clinical Studies (14.1)].
-Additional pediatric use information for patients ages 12 to 17 years is approved for Janssen Pharmaceuticals, Inc.'s TOPAMAX (topiramate) Tablets.
-However, due to Janssen Pharmaceuticals, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+
+## 2.2 Migraine
+
+The recommended total daily dose of topiramate tablets as treatment for adults for prophylaxis of migraine headache is 100 mg/day administered in two divided doses (Table 3).
+The recommended titration rate for topiramate for migraine prophylaxis to 100 mg/day is:
+
+Table 3: Migraine Prophylaxis Titration Schedule for Adults
+
+|  | Morning Dose | Evening Dose |
+| --- | --- | --- |
+| Week 1 | None | 25 mg |
+| Week 2 | 25 mg | 25 mg |
+| Week 3 | 25 mg | 50 mg |
+| Week 4 | 50 mg | 50 mg |
+
+Dose and titration rate should be guided by clinical outcome.
+If required, longer intervals between dose adjustments can be used.
+
+Topiramate tablets can be taken without regard to meals.
+
+Additional pediatric use information for patients ages 12 to 17 years is approved for Janssen Pharmaceuticals, Inc.’s TOPAMAX (topiramate) Tablets.
+However, due to Janssen Pharmaceuticals, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 2.4 Patients with Renal Impairment
 

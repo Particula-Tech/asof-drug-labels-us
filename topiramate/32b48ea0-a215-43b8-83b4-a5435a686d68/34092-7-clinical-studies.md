@@ -109,9 +109,34 @@ Table 15: Efficacy Results in Double-Blind, Placebo-Controlled, Add-On Epilepsy 
 |  | Improvement in Seizure Severityj | 28 | -- | -- | -- | -- | -- | 52d |
 | Comparisons with placebo: a p=0.08; b p≤0.01; c p≤0.001; d p≤0.05; e p=0.065; f p≤0.005; g p=0.071; h Median % reduction and % responders are reported for PGTC Seizures; i Median % reduction and % responders for drop attacks, i.e., tonic or atonic seizures; j Percent of patients who were minimally, much, or very much improved from baseline * For Protocols YP and YTC, protocol-specified target dosages (<9.3 mg/kg/day) were assigned based on subject’s weight to approximate a dosage of 6 mg/kg per day; these dosages corresponded to mg/day dosages of 125, 175, 225, and 400 mg/day. |  |  |  |  |  |  |  |  |
 
-Subset analyses of the antiepileptic efficacy of topiramate
-
-tablets in these studies showed no differences as a function of gender, race, age, baseline seizure rate, or concomitant AED.
+Subset analyses of the antiepileptic efficacy of topiramate tablets in these studies showed no differences as a function of gender, race, age, baseline seizure rate, or concomitant AED.
 In clinical trials for epilepsy, daily dosages were decreased in weekly intervals by 50 to 100 mg/day in adults and over a 2- to 8-week period in children; transition was permitted to a new antiepileptic regimen when clinically indicated.
-Additional pediatric use information for patients ages 12 to 17 years is approved for Janssen Pharmaceuticals, Inc.'s TOPAMAX (topiramate) Tablets.
-However, due to Janssen Pharmaceuticals, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+
+## 14.3 Migraine Prophylaxis
+
+Adult Patients
+
+The results of 2 multicenter, randomized, double-blind, placebo-controlled, parallel-group clinical trials established the effectiveness of topiramate in the prophylactic treatment of migraine headache.
+The design of both trials (Study 1 was conducted in the U.S. and Study 2 was conducted in the U.S. and Canada) was identical, enrolling patients with a history of migraine, with or without aura, for at least 6 months, according to the International Headache Society (IHS) diagnostic criteria.
+Patients with a history of cluster headaches or basilar, ophthalmoplegic, hemiplegic, or transformed migraine headaches were excluded from the trials.
+Patients were required to have completed up to a 2-week washout of any prior migraine preventive medications before starting the baseline phase.
+Patients who experienced 3 to 12 migraine headaches over the 4 weeks in the baseline phase were randomized to either topiramate 50 mg/day, 100 mg/day, 200 mg/day, or placebo and treated for a total of 26 weeks (8-week titration period and 18-week maintenance period).
+Treatment was initiated at 25 mg/day for one week, and then the daily dosage was increased by 25 mg increments each week until reaching the assigned target dose or maximum tolerated dose (administered twice daily).
+Effectiveness of treatment was assessed by the reduction in migraine headache frequency, as measured by the change in 4-week migraine rate (according to migraines classified by IHS criteria) from the baseline phase to double-blind treatment period in each topiramate treatment group compared to placebo in the Intent-To-Treat (ITT) population.
+In Study 1, a total of 469 patients (416 females, 53 males), ranging in age from 13 to 70 years, were randomized and provided efficacy data.
+Two hundred sixty-five patients completed the entire 26-week double-blind phase.
+The median average daily dosages were 48 mg/day, 88 mg/day, and 132 mg/day in the target dose groups of topiramate 50, 100, and 200 mg/day, respectively.
+The mean migraine headache frequency rate at baseline was approximately 5.5 migraine headaches/28 days and was similar across treatment groups.
+The change in the mean 4-week migraine headache frequency from baseline to the double-blind phase was -1.3, -2.1, and -2.2 in the topiramate 50, 100, and 200 mg/day groups, respectively, versus -0.8 in the placebo group (see Figure 2).
+The treatment differences between the topiramate 100 and 200 mg/day groups versus placebo were similar and statistically significant (p<0.001 for both comparisons).
+In Study 2, a total of 468 patients (406 females, 62 males), ranging in age from 12 to 65 years, were randomized and provided efficacy data.
+Two hundred fifty-five patients completed the entire 26-week double-blind phase.
+The median average daily dosages were 47 mg/day, 86 mg/day, and 150 mg/day in the target dose groups of topiramate 50, 100, and 200 mg/day, respectively.
+The mean migraine headache frequency rate at baseline was approximately 5.5 migraine headaches/28 days and was similar across treatment groups.
+The change in the mean 4-week migraine headache period frequency from baseline to the double-blind phase was -1.4, -2.1, and -2.4 in the topiramate 50, 100, and 200 mg/day groups, respectively, versus -1.1 in the placebo group (see Figure 2).
+The differences between the topiramate 100 and 200 mg/day groups versus placebo were similar and statistically significant (p=0.008 and p <0.001, respectively).
+In both studies, there were no apparent differences in treatment effect within age or gender subgroups.
+Because most patients were Caucasian, there were insufficient numbers of patients from different races to make a meaningful comparison of race.
+For patients withdrawing from topiramate, daily dosages were decreased in weekly intervals by 25 to 50 mg/day.
+Additional pediatric use information for patients ages 12 to 17 years is approved for Janssen Pharmaceuticals, Inc.’s TOPAMAX (topiramate) Tablets.
+However, due to Janssen Pharmaceuticals, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
