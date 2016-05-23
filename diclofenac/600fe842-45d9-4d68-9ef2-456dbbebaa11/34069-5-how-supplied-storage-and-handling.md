@@ -1,4 +1,4 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 ARTHROTEC (diclofenac sodium/misoprostol) is supplied as a film-coated tablet in dosage strengths of either 50 mg diclofenac sodium/200 mcg misoprostol or 75 mg diclofenac sodium/200 mcg misoprostol.
 The 50 mg/200 mcg dosage strength is a round, biconvex, white to off-white tablet imprinted with four "A's" encircling a "50" in the middle on one side and "SEARLE" and "1411" on the other.

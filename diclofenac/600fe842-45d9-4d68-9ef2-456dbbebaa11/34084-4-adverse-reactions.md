@@ -1,14 +1,28 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-## Adverse reactions associated with ARTHROTEC
+The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
-Adverse reaction information for ARTHROTEC is derived from Phase III multinational controlled clinical trials in over 2,000 patients receiving ARTHROTEC 50 or ARTHROTEC 75, as well as from blinded, controlled trials of Voltaren® Delayed-Release tablets (diclofenac) and Cytotec® tablets (misoprostol).
+- Cardiovascular Thrombotic Events [see Warnings and Precautions (5.1)]
+- GI Bleeding, Ulceration and Perforation [see Warnings and Precautions (5.2)]
+- Hepatotoxicity [see Warnings and Precautions (5.3)]
+- Hypertension [see Warnings and Precautions (5.4)]
+- Heart Failure and Edema [see Warnings and Precautions (5.5)]
+- Renal Toxicity and Hyperkalemia [see Warnings and Precautions (5.6)]
+- Anaphylactic Reactions [see Warnings and Precautions (5.7)]
+- Serious Skin Reactions [see Warnings and Precautions (5.9)]
+- Hematologic Toxicity [see Warnings and Precautions (5.11)]
 
-## Gastrointestinal
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+Adverse reaction information for ARTHROTEC is derived from Phase III multinational controlled clinical trials in over 2,000 patients receiving ARTHROTEC 50 or ARTHROTEC 75, as well as from blinded, controlled trials of diclofenac delayed-release tablets and misoprostol tablets.
+
+Gastrointestinal
 
 GI disorders had the highest reported incidence of adverse events for patients receiving ARTHROTEC.
 These events were generally minor, but led to discontinuation of therapy in 9% of patients on ARTHROTEC and 5% of patients on diclofenac.
-For GI ulcer rates, see CLINICAL STUDIES—Upper gastrointestinal safety.
+For GI ulcer rates, [see Clinical Studies (14)].
 
 | GI disorder | ARTHROTEC | Diclofenac |
 | --- | --- | --- |
@@ -25,52 +39,83 @@ Rare instances of profound diarrhea leading to severe dehydration have been repo
 Patients with an underlying condition such as inflammatory bowel disease, or those in whom dehydration, were it to occur, would be dangerous, should be monitored carefully if ARTHROTEC is prescribed.
 The incidence of diarrhea can be minimized by administering ARTHROTEC with food and by avoiding coadministration with magnesium-containing antacids.
 
-## Gynecological
+Gynecological
 
 Gynecological disorders previously reported with misoprostol use have also been reported for women receiving ARTHROTEC (see below).
 Postmenopausal vaginal bleeding may be related to administration of ARTHROTEC.
-If it occurs, diagnostic workup should be undertaken to rule out gynecological pathology (see boxed CONTRAINDICATIONS AND WARNINGS).
+If it occurs, diagnostic workup should be undertaken to rule out gynecological pathology [see Boxed Warnings, Contraindications (4) and Warnings and Precautions (5)].
 
-## Elderly
+Elderly
 
 Overall, there were no significant differences in the safety profile of ARTHROTEC in over 500 patients 65 years of age or older compared with younger patients.
 
-Other adverse experiences reported occasionally or rarely with ARTHROTEC, diclofenac or other NSAIDs, or misoprostol are:
+Other adverse experiences reported occasionally with ARTHROTEC, diclofenac or other NSAIDs, or misoprostol are:
 
-Body as a whole: Asthenia, death, fatigue, fever, infection, malaise, sepsis, chills, edema.
+Body as a whole: asthenia, fatigue, malaise.
 
-Cardiovascular system: Arrhythmia, atrial fibrillation, congestive heart failure, hypertension, hypotension, increased CPK, increased LDH, myocardial infarction, palpitations, phlebitis, premature ventricular contractions, syncope, tachycardia, vasculitis.
+Central and peripheral nervous system: dizziness, drowsiness, headache, insomnia, paresthesia, vertigo.
 
-Central and peripheral nervous system: Coma, convulsions, dizziness, drowsiness, headache, hyperesthesia, hypertonia, hypoesthesia, insomnia, meningitis, migraine, neuralgia, paresthesia, somnolence, stroke, tremor, vertigo.
+Digestive: anorexia, appetite changes, constipation, dry mouth, dysphagia, esophageal ulceration, oesophagitis, eructation, gastritis, gastroesophageal reflux, GI neoplasm benign, peptic ulcer, tenesmus, vomiting.
 
-Congenital, familial and genetic disorders: birth defects
+Female reproductive disorders: breast pain, dysmenorrhea, menstrual disorder, menorrhagia, vaginal hemorrhage.
 
-Digestive: Anorexia, appetite changes, constipation, dry mouth, dysphagia, enteritis, esophageal ulceration, esophagitis, eructation, gastritis, gastroesophageal reflux, GI bleeding, GI neoplasm benign, glossitis, heartburn, hematemesis, hemorrhoids, intestinal perforation, peptic ulcer, stomatitis and ulcerative stomatitis, tenesmus, vomiting.
+Hemic and lymphatic system: epistaxis, leukopenia, melena, purpura, decreased hematocrit.
 
-Female reproductive disorders: Breast pain, dysmenorrhea, intermenstrual bleeding, leukorrhea, menstrual disorder, menorrhagia, vaginal hemorrhage, vaginitis, uterine cramping, uterine hemorrhage.
+Metabolic and nutritional: alanine aminotransferase increased, alkaline phosphatase increased, aspartate aminotransferase increased, dehydration, hyponatremia.
 
-Hemic and lymphatic system: Agranulocytosis, anemia, aplastic anemia, coagulation time increased, ecchymosis, eosinophilia, epistaxis, hemolytic anemia, leukocytosis, leukopenia, lymphadenopathy, melena, pancytopenia, pulmonary embolism, purpura, rectal bleeding, thrombocythemia, thrombocytopenia, decreased hematocrit.
+Musculoskeletal system: arthralgia, myalgia.
 
-Hypersensitivity: Angioedema, laryngeal/pharyngeal edema, urticaria.
+Psychiatric: anxiety, concentration impaired, depression, irritability.
 
-Liver and biliary system: Abnormal hepatic function, bilirubinemia, hepatitis, jaundice, liver failure, pancreatitis.
+Respiratory system: asthma, coughing, hyperventilation.
 
-Male reproductive disorders: Impotence, perineal pain.
+Skin and appendages: alopecia,eczema, pemphigoid reaction, photosensitivity, sweating increased, pruritus.
 
-Metabolic and nutritional: Alanine aminotransferase increased, alkaline phosphatase increased, aspartate aminotransferase increased, BUN increased, dehydration, glycosuria, gout, hypercholesterolemia, hyperglycemia, hyperuricemia, hypoglycemia, hyponatremia, periorbital edema, porphyria, weight changes, fluid retention.
+Special senses: taste perversion, tinnitus.
 
-Musculoskeletal system: Arthralgia, myalgia.
+Renal and urinary disorders: dysuria, nocturia, polyuria, proteinuria, urinary tract infection.
+
+Vision: diplopia.
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified druing post approval of ARTHROTEC, diclofenac or misoprostol.
+Because these reactions are reported voluntarily from apopulation of unceritan size, it is not always possible to reliable estimate their fequesncy or establish a causal relationsip to drug exposure.
+
+Body as a whole: death, fever, infection, sepsis, chills, edema.
+
+Cardiovascular system: arrhythmia, atrial fibrillation, congestive heart failure, hypertension, hypotension, increased CPK, increased LDH, myocardial infarction, palpitations, phlebitis, premature ventricular contractions, syncope, tachycardia, vasculitis.
+
+Central and peripheral nervous system: coma, convulsions, hyperesthesia, hypertonia, hypoesthesia, meningitis, migraine, neuralgia, somnolence, stroke, tremor.
+
+Congenital, familial and genetic disorders: birth defects.
+
+Digestive: enteritis, GI bleeding, glossitis, heartburn, hematemesis, hemorrhoids, intestinal perforation, stomatitis and ulcerative stomatitis.
+
+Female reproductive disorders: intermenstrual bleeding, leukorrhea, vaginitis, uterine cramping, uterine hemorrhage.
+
+Hemic and lymphatic system: agranulocytosis, anemia, aplastic anemia, coagulation time increased, ecchymosis, eosinophilia, hemolytic anemia, leukocytosis, lymphadenopathy, pancytopenia, pulmonary embolism, rectal bleeding, thrombocythemia, thrombocytopenia.
+
+Hypersensitivity: angioedema, laryngeal/pharyngeal edema, urticaria.
+
+Liver and biliary system: abnormal hepatic function, bilirubinemia, liver failure, pancreatitis, hepatitis, jaundice.
+
+Male reproductive disorders: impotence, perineal pain.
+
+Metabolic and nutritional: BUN increased, glycosuria, gout, hypercholesterolemia, hyperglycemia, hyperuricemia, hypoglycemia, periorbital edema, porphyria, weight changes, fluid retention.
 
 Pregnancy, puerperium and perinatal conditions: abnormal uterine contractions, uterine rupture/perforation, retained placenta, amniotic fluid embolism, incomplete abortion, premature birth, fetal death.
 
-Psychiatric: Anxiety, concentration impaired, confusion, depression, disorientation, dream abnormalities, hallucinations, irritability, nervousness, paranoia, psychotic reaction.
+Psychiatric: confusion, disorientation, dream abnormalities, hallucinations, nervousness, paranoia, psychotic reaction.
 
-Respiratory system: Asthma, coughing, dyspnea, hyperventilation, pneumonia, respiratory depression.
+Reproductive system and breast disorders: female fertility decreased.
 
-Skin and appendages: Acne, alopecia, bruising, eczema, erythema multiforme, exfoliative dermatitis, pemphigoid reaction, photosensitivity, pruritus, pruritus ani, rash, skin ulceration, Stevens-Johnson syndrome, sweating increased, toxic epidermal necrolysis, cutaneous reactions (bullous eruption).
+Respiratory system: dyspnea, pneumonia, respiratory depression.
 
-Special senses: Hearing impairment, taste loss, taste perversion, tinnitus.
+Skin and appendages: acne, bruising, erythema multiforme, exfoliative dermatitis, pruritus ani, rash, skin ulceration, Stevens-Johnson syndrome, toxic epidermal necrolysis, cutaneous reactions (bullous eruption).
 
-Urinary system: Cystitis, dysuria, hematuria, interstitial nephritis, micturition frequency, nocturia, nephrotic syndrome, oliguria/polyuria, papillary necrosis, proteinuria, renal failure, urinary tract infection, glomerulonephritis membranous, glomerulonephritis minimal lesion.
+Special senses: hearing impairment, taste loss.
 
-Vision: Amblyopia, blurred vision, conjunctivitis, diplopia, glaucoma, iritis, lacrimation abnormal, night blindness, vision abnormal.
+Renal and urinary disorders: cystitis, hematuria, interstitial nephritis, micturition frequency, nephrotic syndrome, oliguria, papillary necrosis, renal failure, glomerulonephritis membranous, glomerulonephritis minimal lesion, glomerulohephritis.
+
+Vision: amblyopia, blurred vision, conjunctivitis, glaucoma, iritis, lacrimation abnormal, night blindness, vision abnormal.

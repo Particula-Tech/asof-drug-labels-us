@@ -1,13 +1,11 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-See boxed CONTRAINDICATIONS AND WARNINGS related to misoprostol.
+ARTHROTEC is contraindicated in the following patients:
 
-ARTHROTEC should not be taken by pregnant women.
-
-ARTHROTEC is contraindicated in patients with hypersensitivity to diclofenac or to misoprostol or other prostaglandins.
-ARTHROTEC should not be given to patients who have experienced asthma, urticaria, or other allergic-type reactions after taking aspirin or other NSAIDs.
-Severe, rarely fatal, anaphylactic-like reactions to diclofenac sodium have been reported in such patients (see WARNINGS- Anaphylactic Reactions, and PRECAUTIONS- Preexisting Asthma).
-
-ARTHROTEC is contraindicated for the treatment of peri-operative pain in the setting of coronary artery bypass graft (CABG) surgery (see boxed CONTRAINDICATIONS AND WARNINGS).
-
-ARTHROTEC is contraindicated in patients with active gastrointestinal bleeding (see WARNINGS).
+- Known hypersensitivity (e.g., anaphylactic reactions and serious skin reactions) to diclofenac sodium/misoprostol, other prostaglandins, or any components of the drug product [see Warnings and Precautions (5.7, 5.9)]
+- History of asthma, urticaria, or other allergic-type reactions after taking aspirin or other NSAIDs.
+  Severe, sometimes fatal, anaphylactic reactions to NSAIDs have been reported in such patients [see Warnings and Precautions (5.7, 5.8)]
+- In the setting of coronary artery bypass graft (CABG) surgery [see Warnings and Precautions (5.1)]
+- Pregnancy.
+  Use of ARTHROTEC during pregnancy can result in maternal and fetal harm, including abortion, premature birth, birth defects, and uterine rupture [see Use in Specific Populations (8.1)]
+- Active gastrointestinal bleeding [see Warnings and Precautions (5.2)]
