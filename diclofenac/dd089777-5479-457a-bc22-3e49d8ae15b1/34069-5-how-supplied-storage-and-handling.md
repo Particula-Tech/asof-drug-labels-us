@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Dyloject (diclofenac sodium) Injection, is a clear, colorless solution that is supplied as a 1 mL fill in a clear 2 mL glass vial with an orange tamper-evident top.
+DYLOJECT (diclofenac sodium) Injection, is a clear, colorless solution that is supplied as a 1 mL fill in a clear 2 mL glass vial with an orange tamper-evident top.
 
 | NDC No. | Strength | Fill | Container Size |
 | --- | --- | --- | --- |
@@ -13,6 +13,6 @@ Store at Controlled Room Temperature 20 to 25°C (68 to 77°F) [see USP Controll
 Do not freeze.
 Protect from light.
 
-Keep Dyloject out of reach and sight of children.
+Keep DYLOJECT out of reach and sight of children.
 
 Not made with natural rubber latex.

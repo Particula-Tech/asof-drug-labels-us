@@ -1,44 +1,53 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Patients should be informed of the following information before initiating therapy with an NSAID and periodically during the course of ongoing therapy.
-Patients should be informed of the following information before initiating therapy with an NSAID.
+Inform patients, families, or their caregivers of the following information before initiating therapy with DYLOJECT and periodically during the course of ongoing therapy.
 
-Cardiovascular Effects
+Cardiovascular Thrombotic Events
 
-NSAIDs, including Dyloject, may cause serious CV side effects such as myocardial infarction or stroke, which may result in hospitalization and even death.
-Although serious CV events can occur without warning symptoms, advise patients to be alert for the signs and symptoms of chest pain, shortness of breath, weakness, and slurring of speech, and to ask for medical advice when observing any indicative sign or symptoms.
-Inform patients of the importance of this follow-up [see Warnings and Precautions (5.1)].
+Advise patients to be alert for the symptoms of cardiovascular thrombotic events, including chest pain, shortness of breath, weakness, or slurring of speech, and to report any of these symptoms to their health care provider immediately [see Warnings and Precautions (5.1)].
 
-Gastrointestinal Effects
+Gastrointestinal Bleeding, Ulceration, and Perforation
 
-NSAIDs, including Dyloject, can cause GI discomfort and, rarely, serious GI side effects, such as ulcers and bleeding, which may result in hospitalization and even death.
-Although serious GI tract ulcerations and bleeding can occur without warning symptoms, advise patients to be alert for the signs and symptoms of ulcerations and bleeding, and to ask for medical advice when observing any indicative sign or symptoms including epigastric pain, dyspepsia, melena, and hematemesis.
-Inform patients of the importance of this follow-up [see Warnings and Precautions (5.2)].
+Advise patients to report symptoms of ulcerations and bleeding, including epigastric pain, dyspepsia, melena, and hematemesis to their health care provider.
+In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, inform patients of the increased risk for and the signs and symptoms of GI bleeding [see Warnings and Precautions (5.2)].
 
 Hepatotoxicity
 
-Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, diarrhea, pruritus, jaundice, right upper quadrant tenderness, and “flu-like” symptoms).
-Instruct patients to stop therapy with Dyloject and seek immediate medical therapy if any of these occur [see Warnings and Precautions (5.4)].
+Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, diarrhea, jaundice, right upper quadrant tenderness, and “flu-like” symptoms).
+If these occur instruct patients to stop DYLOJECT and seek immediate medical therapy [see Warnings and Precautions (5.3)].
 
-Serious Skin Reactions
+Heart Failure and Edema
 
-NSAIDs, including Dyloject, can cause serious skin reactions such as exfoliative dermatitis, SJS, and TEN, which may result in hospitalization and even death.
-Although serious skin reactions may occur without warning, patients should be alert for the signs and symptoms of skin rash and blisters, fever, or other signs of hypersensitivity such as itching, and to ask for medical advice when observing any indicative sign or symptoms.
-Advise patients to stop Dyloject immediately if they develop any type of rash, and to contact a physician as soon as possible [see Warnings and Precautions (5.8)].
-
-Weight Gain and Edema
-
-Advise patients to promptly report to their physicians signs or symptoms of unexplained weight gain or edema during treatment with Dyloject [see Warnings and Precautions (5.6)].
+Advise patients to be alert for the symptoms of congestive heart failure including shortness of breath, unexplained weight gain, or edema and to contact their healthcare provider if such symptoms occur [see Warnings and Precautions (5.5)].
 
 Anaphylactic Reactions
 
-Inform patients of the signs and symptoms of an anaphylactic reaction (e.g., difficulty breathing, swelling of the face or throat).
-If these occur, therapy should be discontinued and medical therapy initiated [see Warnings and Precautions (5.7)].
+Inform patients of the signs of an anaphylactic reaction (e.g., difficulty breathing, swelling of the face or throat).
+Instruct patients to seek immediate emergency help if these occur [see Contraindications(4) and Warnings and Precautions (5.7)].
 
-Effects During Pregnancy
+Serious Skin Reactions
 
-Starting at 30 weeks gestation, Dyloject and other NSAIDs should be avoided by pregnant women as premature closure of the ductus arteriosus in the fetus may occur [see Use in Specific Populations (8.1)].
+Advise patients to stop DYLOJECT immediately if they develop any type of rash, and to contact their healthcare provider as soon as possible [see Warnings and Precautions (5.9)].
 
-EN-3738
+Female Fertility
 
-Manufactured for: Hospira, Inc., Lake Forest, IL 60045 USA 462-581-00
+Advise females of reproductive potential who desire pregnancy that NSAIDs, including DYLOJECT, may be associated with a reversible delay in ovulation [see Use in Specific Populations (8.3)].
+
+Fetal Toxicity
+
+Inform pregnant women to avoid use of DYLOJECT and other NSAIDs starting at 30 weeks gestation, because of the risk of the premature closing of the fetal ductus arteriosus [see Warnings and Precautions (5.10) and Use in Specific Populations (8.1)].
+
+Avoid Concomitant Use of NSAIDs
+
+Inform patients that the concomitant use of DYLOJECT with other NSAIDs or salicylates (e.g., diflunisal, salsalate) is not recommended due to the increased risk of gastrointestinal toxicity, and little or no increase in efficacy [see Warnings and Precautions (5.2) and Drug Interactions (7)].
+Alert patients that NSAIDs may be present in “over the counter” medications for treatment of colds, fever, or insomnia.
+
+Use of NSAIDS and Low-Dose Aspirin
+
+Inform patients not to use low-dose aspirin concomitantly with DYLOJECT until they talk to their healthcare provider [see Drug Interactions (7)].
+
+EN-4307
+
+Manufactured for:
+
+Hospira, Inc., Lake Forest, IL 60045 USA

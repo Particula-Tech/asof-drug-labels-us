@@ -1,37 +1,41 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions are discussed elsewhere in the labeling:
+The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- •Cardiovascular thrombotic events [see Boxed Warning and Warnings and Precautions (5.1)]
-- •Gastrointestinal effects [see Boxed Warning and Warnings and Precautions (5.2)]
-- •Renal effects [see Contraindications (4) and Warnings and Precautions (5.3)]
-- •Hepatic effects [see Warnings and Precautions (5.4)]
-- •Hypertension [see Warnings and Precautions (5.5)]
-- •Congestive heart failure and edema [see Warnings and Precautions (5.6)]
-- •Anaphylactoid reactions [see Warnings and Precautions (5.7)]
-- •Serious skin reactions [see Warnings and Precautions (5.8)]
+- •Cardiovascular Thrombotic Events [see Warnings and Precautions (5.1)]
+- •GI Bleeding, Ulceration and Perforation [see Warnings and Precautions (5.2)]
+- •Hepatotoxicity [see Warnings and Precautions (5.3)]
+- •Hypertension [see Warnings and Precautions (5.4)]
+- •Heart Failure and Edema [see Warnings and Precautions (5.5)]
+- •Renal Toxicity and Hyperkalemia [see Warnings and Precautions (5.6)]
+- •Anaphylactic Reactions [see Warnings and Precautions (5.7)]
+- •Serious Skin Reactions [see Warnings and Precautions (5.9)]
+- •Hematologic Toxicity [see Warnings and Precautions (5.11)]
 
-Adverse reactions from clinical studies of Dyloject
+## 6.1 Clinical Trials Experience
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
-During clinical development, 1,156 patients were exposed to Dyloject in multiple-dose, controlled and open-label studies.
-Dyloject was administered post-surgically every 6 hours for up to 5 days.
-The incidence rates of adverse reactions listed in the following table are derived from multicenter, controlled clinical studies in post-operative patients comparing Dyloject to placebo in patients who may have also received morphine rescue medication.
+During clinical development, 1,156 patients were exposed to DYLOJECT in multiple-dose, controlled and open-label studies.
+DYLOJECT was administered post-surgically every 6 hours for up to 5 days.
+The incidence rates of adverse reactions listed in the following table are derived from multicenter, controlled clinical studies in post-operative patients comparing DYLOJECT to placebo in patients who may have also received morphine rescue medication.
 
-Table 1: Proportion of Patients Experiencing Common Adverse Reactions in Placebo-Controlled Clinical Studies in Patients with Acute Moderate-to-Severe Postoperative Pain occurring in greater than or equal to 3% in patients treated with DylojectIntravenous morphine was permitted as rescue medication for pain management.
+Table 1: Proportion of Patients Experiencing Common Adverse Reactions in Placebo-Controlled Clinical Studies in Patients with Acute Moderate-to-Severe Postoperative Pain occurring in greater than or equal to 3% in patients treated with DYLOJECT
 
-| MedDRA Preferred Term | PlaceboN=126 | DylojectN=187 |
+| MedDRA Preferred Term | PlaceboIntravenous morphine was permitted as rescue medication for pain management.N=126 | DYLOJECTN=187 |
 | --- | --- | --- |
 | Any Reaction | 104 (83%) | 146 (78%) |
 | NauseaConstipation HeadacheInfusion Site PainDizzinessFlatulenceVomitingInsomniaPruritusHypotensionPyrexiaAnemiaInfusion Site Extravasation | 50 (40%)14 (11%)20 (16%)10 (8%)2 (2%)20 (16%)23 (18%)12 (10%)10 (8%)6 (5%)13 (10%)9 (7%)1 (1%) | 45 (24%)25 (13%)19 (10%)19 (10%)15 (8%)15 (8%)12 (6%)11 (6%)9 (5%)9 (5%)8 (4%)8 (4%)6 (3%) |
+
+Adverse reactions of special interest
+
+Based on the analysis of the pooled data from the multi-dose, controlled clinical trials, post-operative patients treated with DYLOJECT had more adverse reactions related to wound healing (7.5%) compared to patients treated with placebo (4%).
 
 Adverse reactions from clinical studies or spontaneous reports for other formulations of diclofenac and other NSAIDs
 
 In patients taking diclofenac or other NSAIDs, the most frequently reported adverse reactions occurring in approximately 1%-10% of patients are:
 
 Gastrointestinal experiences including abdominal pain, constipation, diarrhea, dyspepsia, flatulence, gross bleeding/perforation, heartburn, nausea, GI ulcers (gastric/duodenal) and vomiting.
-
 Abnormal renal function, anemia, dizziness, edema, elevated liver enzymes, headaches, increased bleeding time, pruritus, rashes and tinnitus.
 
 Additional adverse reactions reported occasionally include:
@@ -75,7 +79,3 @@ Respiratory System: respiratory depression, pneumonia
 Skin and Appendages: angioedema, toxic epidermal necrolysis, erythema multiforme, exfoliative dermatitis, Stevens-Johnson syndrome, urticaria
 
 Special Senses: conjunctivitis, hearing impairment
-
-Adverse reactions of special interest
-
-Based on the analysis of the pooled data from the multi-dose, controlled clinical trials, post-operative patients treated with Dyloject had more adverse reactions related to wound healing (7.5%) compared to patients treated with placebo (4%).

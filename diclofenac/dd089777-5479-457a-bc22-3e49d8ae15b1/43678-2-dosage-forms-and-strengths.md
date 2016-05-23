@@ -1,3 +1,4 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Dyloject Injection is available as a 37.5 mg/mL single-dose glass vial.
+DYLOJECT (diclofenac) Injection: 37.5 mg/mL in a single-dose glass vial.
+DYLOJECT is a clear, colorless, aqueous, nonpyrogenic sterile solution.
