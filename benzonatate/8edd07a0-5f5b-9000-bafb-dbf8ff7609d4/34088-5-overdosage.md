@@ -7,7 +7,7 @@ Drugs of this type are generally well absorbed after ingestion.
 
 ## Signs and Symptoms
 
-The signs and symptoms of overdose of benzonatate have been reported within 15-20 minutes.
+The signs and symptoms of overdose of benzonatate have been reported within 15–20 minutes.
 If capsules are chewed or dissolved in the mouth, oropharyngeal anesthesia will develop rapidly, which may cause choking and airway compromise.
 
 CNS stimulation may cause restlessness and tremors which may proceed to clonic convulsions followed by profound CNS depression.

@@ -4,10 +4,12 @@ Perles, 100 mg (yellow);
 
 bottles of 100
 
-NDC 0069-0122-01
+NDC 0069 0122 01
 
 Imprint: T.
 
-Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
+Store at 25°C (77°F); excursions permitted to 15–30°C (59–86°F) [see USP Controlled Room Temperature].
 
-PROTECT FROM LIGHT Dispense in tight (USP), child-resistant containers.
+PROTECT FROM LIGHT
+
+Dispense in tight (USP), child-resistant containers.
