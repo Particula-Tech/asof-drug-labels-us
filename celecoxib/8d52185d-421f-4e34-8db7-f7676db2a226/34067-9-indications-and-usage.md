@@ -1,28 +1,27 @@
 # 1. INDICATIONS AND USAGE
 
-Carefully consider the potential benefits and risks of CELEBREX and other treatment options before deciding to use CELEBREX.
-Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)]
+CELEBREX is indicated
 
 ## 1.1 Osteoarthritis (OA)
 
-CELEBREX is indicated for relief of the signs and symptoms of OA [see Clinical Studies (14.1)]
+For the management of the signs and symptoms of OA [see Clinical Studies (14.1)]
 
 ## 1.2 Rheumatoid Arthritis (RA)
 
-CELEBREX is indicated for relief of the signs and symptoms of RA [see Clinical Studies (14.2)]
+For the management of the signs and symptoms of RA [see Clinical Studies (14.2)]
 
 ## 1.3 Juvenile Rheumatoid Arthritis (JRA)
 
-CELEBREX is indicated for relief of the signs and symptoms of JRA in patients 2 years and older [see Clinical Studies (14.3)]
+For the management of the signs and symptoms of JRA in patients 2 years and older [see Clinical Studies (14.3)]
 
 ## 1.4 Ankylosing Spondylitis (AS)
 
-CELEBREX is indicated for the relief of signs and symptoms of AS [see Clinical Studies (14.4)]
+For the management of the signs and symptoms of AS [see Clinical Studies (14.4)]
 
-## 1.5 Acute Pain (AP)
+## 1.5 Acute Pain
 
-CELEBREX is indicated for the management of AP in adults [see Clinical Studies (14.5)]
+For the management of acute pain in adults [see Clinical Studies (14.5)]
 
-## 1.6 Primary Dysmenorrhea (PD)
+## 1.6 Primary Dysmenorrhea
 
-CELEBREX is indicated for the treatment of PD [see Clinical Studies (14.5)]
+For the management of primary dysmenorrhea [see Clinical Studies (14.5)]
