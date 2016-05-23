@@ -1,7 +1,7 @@
 # CLINICAL STUDIES
 
 Clinical trials were conducted involving a total of 427 patients (213 treated with Solaraze® and 214 with a gel vehicle).
-Each patient had no fewer than five AK lesions in a major body area, which was defined as one of five 5 cm X 5 cm regions: scalp, forehead, face, forearm and hand.
+Each patient had no fewer than five AK lesions in a major body area, which was defined as one of five 5 cm x 5 cm regions: scalp, forehead, face, forearm and hand.
 Up to three major body areas were studied in any patient.
 All patients were 18 years of age or older (male and female) with no clinically significant medical problems outside of the AK lesions and had undergone a 60-day washout period from disallowed medications (masoprocol, 5-fluorouracil, cyclosporine, retinoids, trichloroacetic acid/lactic acid/peel, 50% glycolic acid peel) and hyaluronan-containing cosmetics.
 Patients were excluded from participation for reasons of known or suspected hypersensitivity to any Solaraze® ingredient, pregnancy, allergies to aspirin or other nonsteroidal anti-inflammatory drugs (NSAIDs), or other dermatological conditions which might affect the absorption of the study medication.
@@ -11,19 +11,17 @@ In addition, all patients were instructed to avoid sun exposure.
 Complete clearing of the AK lesions 30 days after completion of treatment was the primary efficacy variable.
 No long-term patient follow-ups, after the 30-day assessments, were performed for the detection of recurrence.
 
-Complete Clearance of Actinic Keratosis Lesions 30 Days Post-Treatment (all locations)
-
-|  | Solaraze® Gel | Vehicle | p-value |
+| Complete Clearance of Actinic Keratosis Lesions 30 Days Post-Treatment (all locations) |  |  |  |
 | --- | --- | --- | --- |
+|  | Solaraze® Gel | Vehicle | p-value |
 | Study 1 90 days treatment | 27/58 (47%) | 11/59 (19%) | <0.001 |
 | Study 2 90 days treatment | 18/53 (34%) | 10/55 (18%) | 0.061 |
 | Study 3 60 days treatment | 15/48 (31%) | 5/49 (10%) | 0.021 |
 | 30 days treatment | 7/49 (14%) | 2/49 (4%) | 0.221 |
 
-Complete Clearance of Actinic Keratosis Lesions 30 Days Post-Treatment (by location)
-
-|  | Scalp | Forehead | Face | Arm/Forearm | Back of Hand |
+| Complete Clearance of Actinic Keratosis Lesions 30 Days Post-Treatment (by location) |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
+|  | Scalp | Forehead | Face | Arm/Forearm | Back of Hand |
 | Study 1 90 days treatment |  |  |  |  |  |
 | Solaraze® | 1/4 (25%) | 17/30 (57%) | 9/17 (53%) | 4/12 (33%) | 6/16 (38%) |
 | Vehicle | 3/9 (33%) | 8/24 (33%) | 5/17 (29%) | 4/12 (33%) | 0/14 (0) |

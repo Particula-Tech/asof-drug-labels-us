@@ -15,6 +15,4 @@ Almirall Hermal GmbH D-21465 Reinbek, Germany Made in Germany
 
 Manufactured for:
 
-PharmaDerm® A division of Fougera Pharmaceuticals Inc. Melville, NY 11747 USA www.pharmaderm.com www.solaraze.com
-
-IL312C R12/11
+IL312D R04/16

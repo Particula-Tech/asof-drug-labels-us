@@ -100,7 +100,7 @@ Adverse Events Reported (>1% in Any Treatment Group) During Solaraze® Phase 3 C
 
 Skin and Appendages Adverse Events Reported for Solaraze® at Less Than 1% Incidence in the Phase 3 Studies: skin hypertrophy, paresthesia, seborrhea, urticaria, application site reactions (skin carcinoma, hypertonia, skin hypertrophy lacrimation disorder, maculopapular rash, purpuric rash, vasodilation).
 
-Adverse Reactions Reported for Oral Diclofenac Dosage Form (not topical Solaraze® Gel): *Incidence greater than 1% marked with asterisk.
+Adverse Reactions Reported for Oral Diclofenac Dosage Form (not topical Solaraze® Gel): *Incidence Greater than 1% marked with asterisk.
 
 Body as a Whole: abdominal pain or cramps*, headache*, fluid retention*, abdominal distention*, malaise, swelling of lips and tongue, photosensitivity, anaphylaxis, anaphylactoid reactions, chest pain.
 

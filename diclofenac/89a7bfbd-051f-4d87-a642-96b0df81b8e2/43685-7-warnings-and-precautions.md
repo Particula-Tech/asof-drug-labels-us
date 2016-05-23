@@ -4,6 +4,47 @@ As with other NSAIDs, anaphylactoid reactions may occur in patients without prio
 Diclofenac sodium should be given with caution to patients with the aspirin triad.
 The triad typically occurs in asthmatic patients who experience rhinitis with or without nasal polyps, or who exhibit severe, potentially fatal bronchospasm after taking aspirin or other NSAIDs.
 
+Cardiovascular Thrombotic Events
+
+Clinical trials of several COX-2 selective and nonselective NSAIDs of up to three years duration have shown an increased risk of serious cardiovascular (CV) thrombotic events, including myocardial infarction (MI) and stroke, which can be fatal.
+Based on available data, it is unclear that the risk for CV thrombotic events is similar for all NSAIDs.
+The relative increase in serious CV thrombotic events over baseline conferred by NSAID use appears to be similar in those with and without known CV disease or risk factors for CV disease.
+However, patients with known CV disease or risk factors had a higher absolute incidence of excess serious CV thrombotic events, due to their increased baseline rate.
+Some observational studies found that this increased risk of serious CV thrombotic events began as early as the first weeks of treatment.
+The increase in CV thrombotic risk has been observed most consistently at higher doses.
+
+To minimize the potential risk for an adverse CV event in NSAID-treated patients, use the lowest effective dose for the shortest duration possible.
+Physicians and patients should remain alert for the development of such events, throughout the entire treatment course, even in the absence of previous CV symptoms.
+Patients should be informed about the symptoms of serious CV events and the steps to take if they occur.
+
+There is no consistent evidence that concurrent use of aspirin mitigates the increased risk of serious CV thrombotic events associated with NSAID use.
+The concurrent use of aspirin and an NSAID, such as diclofenac, increases the risk of serious gastrointestinal (GI) events.
+
+Status Post Coronary Artery Bypass Graft (CABG) Surgery
+
+Two large, controlled clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10–14 days following CABG surgery found an increased incidence of myocardial infarction and stroke.
+NSAIDs are contraindicated in the setting of CABG.
+
+Post-MI Patients
+
+Observational studies conducted in the Danish National Registry have demonstrated that patients treated with NSAIDs in the post-MI period were at increased risk of reinfarction, CV-related death, and all-cause mortality beginning in the first week of treatment.
+In this same cohort, the incidence of death in the first year post MI was 20 per 100 person years in NSAID-treated patients compared to 12 per 100 person years in non-NSAID exposed patients.
+Although the absolute rate of death declined somewhat after the first year post-MI, the increased relative risk of death in NSAID users persisted over at least the next four years of follow-up.
+
+Avoid the use of Solaraze Gel in patients with a recent MI unless the benefits are expected to outweigh the risk of recurrent CV thrombotic events.
+If Solaraze Gel is used in patients with a recent MI, monitor patients for signs of cardiac ischemia.
+
+Heart Failure and Edema
+
+The Coxib and traditional NSAID Trialists’ Collaboration meta-analysis of randomized controlled trials demonstrated an approximately two-fold increase in hospitalizations for heart failure in COX-2 selective-treated patients and nonselective NSAID-treated patients compared to placebo-treated patients.
+In a Danish National Registry study of patients with heart failure, NSAID use increased the risk of MI, hospitalization for heart failure, and death.
+
+Additionally, fluid retention and edema have been observed in some patients treated with NSAIDs.
+Use of diclofenac may blunt the CV effects of several therapeutic agents used to treat these medical conditions [e.g., diuretics, ACE inhibitors, or angiotensin receptor blockers (ARBs)].
+
+Avoid the use of Solaraze Gel in patients with severe heart failure unless the benefits are expected to outweigh the risk of worsening heart failure.
+If Solaraze Gel is used in patients with severe heart failure, monitor patients for signs of worsening heart failure.
+
 # PRECAUTIONS
 
 ## General
@@ -24,6 +65,14 @@ Exposure to sunlight and the use of sunlamps should be avoided.
 
 Safety and efficacy of the use of Solaraze® together with other dermal products, including cosmetics, sunscreens, and other topical medications on the area being treated, have not been studied.
 
+Cardiovascular Thrombotic Events
+
+Advise patients to be alert for the symptoms of cardiovascular thrombotic events, including chest pain, shortness of breath, weakness, or slurring of speech, and to report any of these symptoms to their health care provider immediately.
+
+Heart Failure and Edema
+
+Advise patients to be alert for the symptoms of congestive heart failure including shortness of breath, unexplained weight gain, or edema and to contact their healthcare provider if such symptoms occur.
+
 ## Drug Interactions
 
 Specific interaction studies between Solaraze® Gel and other topical or oral agents were not performed.
@@ -37,6 +86,7 @@ Therefore, concomitant administration of Solaraze® Gel with oral NSAIDS or aspi
 
 There did not appear to be any increase in drug-related neoplasms following daily topical applications of diclofenac sodium gel for 2 years at concentrations up to 0.035% diclofenac sodium and 2.5% hyaluronate sodium in albino mice.
 (Note: Solaraze® contains 3% diclofenac sodium.)
+
 When administered orally for 2 years, diclofenac showed no evidence of carcinogenic potential in rats given diclofenac sodium at up to 2 mg/kg/day (3 times the estimated systemic human exposure*), or in mice given diclofenac sodium at up to 0.3 mg/kg/day in males and 1 mg/kg/day in females (25% and 83%, respectively, of the estimated systemic human exposure).
 
 A photococarcinogenicity study with up to 0.035% diclofenac in the Solaraze® vehicle gel was conducted in hairless mice at topical doses up to 2.8 mg/ kg/day.
