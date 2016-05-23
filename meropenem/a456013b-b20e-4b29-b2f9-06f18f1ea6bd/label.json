@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA205883"
+  ],
+  "inn": "meropenem",
+  "labeler": "Amneal Biosciences",
+  "package_ndcs": [
+    "70121-1453-1",
+    "70121-1453-7",
+    "70121-1454-1",
+    "70121-1454-7"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "meropenem",
+      "name": "Meropenem"
+    }
+  ],
+  "setid": "a456013b-b20e-4b29-b2f9-06f18f1ea6bd",
+  "source": "dailymed"
+}
