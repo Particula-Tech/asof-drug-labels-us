@@ -1,35 +1,155 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Limitations of Use
+## 5.1 Cardiovascular Thrombotic Events
 
-The total duration of use of SPRIX alone or sequentially with other forms of ketorolac is not to exceed 5 days.
-SPRIX must not be used concomitantly with other forms of ketorolac or other NSAIDs [see Dosage and Administration (2.1)].
+Clinical trials of several COX-2 selective and nonselective NSAIDs of up to three years duration have shown an increased risk of serious cardiovascular (CV) thrombotic events, including myocardial infarction (MI) and stroke, which can be fatal.
+Based on available data, it is unclear that the risk for CV thrombotic events is similar for all NSAIDs.
+The relative increase in serious CV thrombotic events over baseline conferred by NSAID use appears to be similar in those with and without known CV disease or risk factors for CV disease.
+However, patients with known CV disease or risk factors had a higher absolute incidence of excess serious CV thrombotic events, due to their increased baseline rate.
+Some observational studies found that this increased risk of serious CV thrombotic events began as early as the first weeks of treatment.
+The increase in CV thrombotic risk has been observed most consistently at higher doses.
 
-## 5.2 Gastrointestinal (GI) Effects - Risk of Ulceration, Bleeding, and Perforation
+To minimize the potential risk for an adverse CV event in NSAID-treated patients, use the lowest effective dose for the shortest duration possible.
+Physicians and patients should remain alert for the development of such events, throughout the entire treatment course, even in the absence of previous CV symptoms.
+Patients should be informed about the symptoms of serious CV events and the steps to take if they occur.
 
-SPRIX is contraindicated in patients with previously documented peptic ulcers and/or GI bleeding [see Contraindications (4)].
-Ketorolac tromethamine can cause serious GI adverse events including bleeding, ulceration, and perforation of the stomach, small intestine, or large intestine, which can be fatal.
-These serious adverse events can occur at any time, with or without warning symptoms, in patients treated with ketorolac.
+There is no consistent evidence that concurrent use of aspirin mitigates the increased risk of serious CV thrombotic events associated with NSAID use.
+The concurrent use of aspirin and an NSAID, such as ketorolac, increases the risk of serious gastrointestinal (GI) events [see Warnings and Precautions (5.2)].
 
+Status Post Coronary Artery Bypass Graft (CABG) Surgery
+
+Two large, controlled clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10–14 days following CABG surgery found an increased incidence of myocardial infarction and stroke.
+NSAIDs are contraindicated in the setting of CABG [see Contraindications (4)].
+
+Post-MI Patients
+
+Observational studies conducted in the Danish National Registry have demonstrated that patients treated with NSAIDs in the post-MI period were at increased risk of reinfarction, CV-related death, and all-cause mortality beginning in the first week of treatment.
+In this same cohort, the incidence of death in the first year post-MI was 20 per 100 person years in NSAID-treated patients compared to 12 per 100 person years in non-NSAID exposed patients.
+Although the absolute rate of death declined somewhat after the first year post-MI, the increased relative risk of death in NSAID users persisted over at least the next four years of follow-up.
+
+Avoid the use of SPRIX in patients with a recent MI unless the benefits are expected to outweigh the risk of recurrent CV thrombotic events.
+If SPRIX is used in patients with a recent MI, monitor patients for signs of cardiac ischemia.
+
+## 5.2 Gastrointestinal Bleeding, Ulceration, and Perforation
+
+SPRIX is contraindicated in patients with active peptic ulcers and/or GI bleeding and in patients with recent gastrointestinal bleeding or perforation [see Contraindications (4)].
+
+NSAIDs, including ketorolac, cause serious gastrointestinal (GI) adverse events including inflammation, bleeding, ulceration, and perforation of the esophagus, stomach, small intestine, or large intestine, which can be fatal.
+These serious adverse events can occur at any time, with or without warning symptoms, in patients treated with NSAIDs.
 Only one in five patients who develop a serious upper GI adverse event on NSAID therapy is symptomatic.
-Minor upper GI problems, such as dyspepsia, are common and may also occur at any time during NSAID therapy.
-The incidence and severity of GI complications increases with increasing dose of, and duration of treatment with, ketorolac.
-Even short-term therapy is not without risk.
-In addition to past history of ulcer disease, other factors that increase the risk for GI bleeding in patients treated with NSAIDs include concomitant use of oral corticosteroids or anticoagulants, longer duration of NSAID therapy, smoking, use of alcohol, older age, and poor general health status.
-Most spontaneous reports of fatal GI events are in elderly or debilitated patients, and therefore, special care should be taken in treating this population.
+Upper GI ulcers, gross bleeding, or perforation caused by NSAIDs occurred in approximately 1% of patients treated for 3-6 months, and in about 2%-4% of patients treated for one year.
+However, even short-term NSAID therapy is not without risk.
 
-To minimize the potential risk for an adverse GI event, the lowest effective dose should be used for the shortest possible duration.
-Remain alert for signs and symptoms of GI ulceration and bleeding during NSAID therapy, and promptly initiate additional evaluation and treatment if a serious GI adverse event is suspected.
-This should include discontinuation of SPRIX until a serious GI adverse event is ruled out.
-For high risk patients, consider alternate therapies that do not involve NSAIDs.
-Use great care when giving SPRIX to patients with a history of inflammatory bowel disease (ulcerative colitis, Crohn’s disease) as their condition may be exacerbated.
+Risk Factors for GI Bleeding, Ulceration, and Perforation
 
-## 5.3 Hematological Effects
+Patients with a prior history of peptic ulcer disease and/or GI bleeding who used NSAIDs had a greater than 10-fold increased risk for developing a GI bleed compared to patients without these risk factors.
+Other factors that increase the risk of GI bleeding in patients treated with NSAIDs include longer duration of NSAID therapy; concomitant use of oral corticosteroids, aspirin, anticoagulants, or selective serotonin reuptake inhibitors (SSRIs); smoking; use of alcohol; older age; and poor general health status.
+Most postmarketing reports of fatal GI events occurred in elderly or debilitated patients.
+Additionally, patients with advanced liver disease and/or coagulopathy are at increased risk for GI bleeding.
 
-Because prostaglandins play an important role in hemostasis and NSAIDs affect platelet aggregation as well, use caution with use of ketorolac tromethamine in patients who have coagulation disorders, and monitor these patients carefully.
-The effects of NSAIDs other than aspirin on platelet function are reversible.
-Patients on therapeutic doses of anticoagulants (e.g., heparin or dicumarol derivatives) have an increased risk of bleeding complications if given ketorolac tromethamine concurrently; therefore, administer such concomitant therapy only with extreme caution.
-The concurrent use of ketorolac tromethamine and therapy that affects hemostasis, including prophylactic low dose heparin (2500 to 5000 units q12h), warfarin and dextrans, has not been studied extensively, but may also be associated with an increased risk of bleeding.
+Strategies to Minimize the GI Risks in NSAID-treated patients:
+
+- Use the lowest effective dosage for the shortest possible duration.
+- Avoid administration of more than one NSAID at a time.
+- Avoid use in patients at higher risk unless benefits are expected to outweigh the increased risk of bleeding.
+  For such patients, consider alternate therapies other than NSAIDs.
+  Do not use Sprix in those with active GI bleeding,
+- Remain alert for signs and symptoms of GI ulceration and bleeding during NSAID therapy.
+- If a serious GI adverse event is suspected, promptly initiate evaluation and treatment, and discontinue SPRIX until a serious GI adverse event is ruled out.
+- In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, monitor patients more closely for evidence of GI bleeding [see Drug Interactions (7)].
+- Use great care when giving SPRIX to patients with a history of inflammatory bowel disease (ulcerative colitis, Crohn’s disease) as their condition may be exacerbated.
+
+## 5.3 Hepatotoxicity
+
+Elevations of ALT or AST (three or more times the upper limit of normal [ULN]) have been reported in approximately 1% of NSAID-treated patients in clinical trials.
+In addition, rare, sometimes fatal, cases of severe hepatic injury, including fulminant hepatitis, liver necrosis, and hepatic failure have been reported.
+
+Elevations of ALT or AST (less than three times ULN) may occur in up to 15% of patients treated with NSAIDs including ketorolac.
+
+Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, diarrhea, pruritus, jaundice, right upper quadrant tenderness, and "flu-like" symptoms).
+If clinical signs and symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, etc.), discontinue SPRIX immediately, and perform a clinical evaluation of the patient.
+
+## 5.4 Hypertension
+
+NSAIDs, including SPRIX, can lead to new onset of hypertension or worsening of preexisting hypertension, either of which may contribute to the increased incidence of CV events.
+Patients taking angiotensin converting enzyme (ACE) inhibitors, thiazide diuretics, or loop diuretics may have impaired response to these therapies when taking NSAIDs [see Drug Interactions (7)].
+
+Monitor blood pressure (BP) during the initiation of NSAID treatment and throughout the course of therapy.
+
+## 5.5 Heart Failure and Edema
+
+The Coxib and traditional NSAID Trialists’ Collaboration meta-analysis of randomized controlled trials demonstrated an approximately two-fold increase in hospitalizations for heart failure in COX-2 selective-treated patients and nonselective NSAID-treated patients compared to placebo-treated patients.
+In a Danish National Registry study of patients with heart failure, NSAID use increased the risk of MI, hospitalization for heart failure, and death.
+
+Additionally, fluid retention and edema have been observed in some patients treated with NSAIDs.
+Use of ketorolac may blunt the CV effects of several therapeutic agents used to treat these medical conditions (e.g., diuretics, ACE inhibitors, or angiotensin receptor blockers [ARBs]) [see Drug Interactions (7)].
+
+Avoid the use of SPRIX in patients with severe heart failure unless the benefits are expected to outweigh the risk of worsening heart failure.
+If SPRIX is used in patients with severe heart failure, monitor patients for signs of worsening heart failure.
+
+## 5.6 Renal Toxicity and Hyperkalemia
+
+Ketorolac and its metabolites are eliminated primarily by the kidneys.
+Patients with reduced creatinine clearance will have diminished clearance of the drug [see Clinical Pharmacology (12.3)].
+SPRIX is contraindicated in patients with advanced renal impairment [see Contraindications (4)].
+
+Renal Toxicity
+
+Long-term administration of NSAIDs has resulted in renal papillary necrosis and other renal injury.
+Renal toxicity has also been seen in patients in whom renal prostaglandins have a compensatory role in the maintenance of renal perfusion.
+In these patients, administration of an NSAID may cause a dose-dependent reduction in prostaglandin formation and, secondarily, in renal blood flow, which may precipitate overt renal decompensation.
+Patients at greatest risk of this reaction are those with impaired renal function, dehydration, hypovolemia, heart failure, liver dysfunction, those taking diuretics and ACE inhibitors or ARBs, and the elderly.
+Discontinuation of NSAID therapy is usually followed by recovery to the pretreatment state.
+
+No information is available from controlled clinical studies regarding the use of SPRIX in patients with advanced renal disease.
+The renal effects of SPRIX may hasten the progression of renal dysfunction in patients with preexisting renal disease.
+
+Correct volume status in dehydrated or hypovolemic patients prior to initiating SPRIX.
+Monitor renal function in patients with renal or hepatic impairment, heart failure, dehydration, or hypovolemia during use of SPRIX [see Drug Interactions (7)].
+Avoid the use of SPRIX in patients with advanced renal disease unless the benefits are expected to outweigh the risk of worsening renal function.
+If SPRIX is used in patients with advanced renal disease, monitor patients for signs of worsening renal function.
+
+Hyperkalemia
+
+Increases in serum potassium concentration, including hyperkalemia, have been reported with use of NSAIDs, even in some patients without renal impairment.
+In patients with normal renal function, these effects have been attributed to a hyporeninemic-hypoaldosteronism state.
+
+## 5.7 Anaphylactic Reactions
+
+Ketorolac has been associated with anaphylactic reactions in patients with and without known hypersensitivity to ketorolac and in patients with aspirin-sensitive asthma [see Contraindications (4) and Warnings and Precautions (5.8)].
+
+Seek emergency help if an anaphylactic reaction occurs.
+
+## 5.8 Exacerbation of Asthma Related to Aspirin Sensitivity
+
+A subpopulation of patients with asthma may have aspirin-sensitive asthma which may include chronic rhinosinusitis complicated by nasal polyps; severe, potentially fatal bronchospasm; and/or intolerance to aspirin and other NSAIDs.
+Because cross-reactivity between aspirin and other NSAIDs has been reported in such aspirin-sensitive patients, SPRIX is contraindicated in patients with this form of aspirin sensitivity [see Contraindications (4)].
+When SPRIX is used in patients with preexisting asthma (without known aspirin sensitivity), monitor patients for changes in the signs and symptoms of asthma.
+
+## 5.9 Serious Skin Reactions
+
+NSAIDs, including ketorolac, can cause serious skin adverse reactions such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
+These serious events may occur without warning.
+Inform patients about the signs and symptoms of serious skin reactions, and to discontinue the use of SPRIX at the first appearance of skin rash or any other sign of hypersensitivity.
+SPRIX is contraindicated in patients with previous serious skin reactions to NSAIDs [see Contraindications (4)].
+
+## 5.10 Premature Closure of Fetal Ductus Arteriosus
+
+Ketorolac may cause premature closure of the fetal ductus arteriosus.
+Avoid use of NSAIDs, including SPRIX, in pregnant women starting at 30 weeks of gestation (third trimester) [see Use in Specific Populations (8.1)].
+
+## 5.11 Hematologic Toxicity
+
+Anemia has occurred in NSAID-treated patients.
+This may be due to occult or gross blood loss, fluid retention, or an incompletely described effect upon erythropoiesis.
+If a patient treated with SPRIX has any signs or symptoms of anemia, monitor hemoglobin or hematocrit.
+Do not use SPRIX in patients for whom hemostasis is critical [see Contraindications (4), Drug Interactions (7)].
+
+NSAIDs, including SPRIX, may increase the risk of bleeding events.
+Co-morbid conditions such as coagulation disorders or concomitant use of warfarin, other anticoagulants, antiplatelet agents (e.g., aspirin), serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs) may increase this risk.
+Monitor these patients for signs of bleeding [see Drug Interactions (7)].
+
+The concurrent use of ketorolac and therapy that affects hemostasis, including prophylactic low dose heparin (2500 to 5000 units q12h), warfarin and dextrans, has not been studied extensively, but may also be associated with an increased risk of bleeding.
 Until data from such studies are available, carefully weigh the benefits against the risks and use such concomitant therapy in these patients only with extreme caution.
 Monitor patients receiving therapy that affects hemostasis closely.
 
@@ -37,90 +157,20 @@ In clinical trials, serious adverse events related to bleeding were more common 
 In clinical trials and in postmarketing experience with ketorolac IV and IM dosing, postoperative hematomas and other signs of wound bleeding have been reported in association with peri-operative use.
 Therefore, use SPRIX with caution in the postoperative setting when hemostasis is critical.
 
-Anemia is sometimes seen in patients receiving NSAIDs.
-This may be due to fluid retention, occult or gross GI blood loss, or an incompletely described effect upon erythropoiesis.
-Do not use SPRIX in patients for whom hemostasis is critical [see Contraindications (4), Drug Interactions (7.1, 7.2, 7.10)].
+## 5.12 Masking of Inflammation and Fever
 
-## 5.4 Renal Effects
+The pharmacological activity of SPRIX in reducing inflammation, and possibly fever, may diminish the utility of diagnostic signs in detecting infections.
 
-Ketorolac and its metabolites are eliminated primarily by the kidneys.
-Patients with reduced creatinine clearance will have diminished clearance of the drug [see Clinical Pharmacology (12.4)].
-SPRIX is contraindicated in patients with advanced renal impairment [see Contraindications (4)].
+## 5.13 Laboratory Monitoring
 
-In patients in whom renal prostaglandins have a compensatory role in the maintenance of renal perfusion, administration of an NSAID may cause a dose-dependent reduction in prostaglandin formation and renal blood flow, which may precipitate overt renal decompensation.
-Decreased intravascular volume such as when oral intake is poor increases the risks of renal toxicity with NSAIDs.
-Therefore, patients treated with SPRIX should be adequately hydrated.
-Discontinuation of NSAID therapy is usually followed by recovery to the pretreatment state.
+Because serious GI bleeding, hepatotoxicity, and renal injury can occur without warning symptoms or signs, consider monitoring patients on long-term NSAID treatment with a CBC and a chemistry profile periodically [see Warnings and Precautions (5.2, 5.3, 5.6)].
 
-Use SPRIX with caution in patients with impaired renal function, heart failure, liver dysfunction, those taking diuretics or ACE inhibitors, and the elderly.
-Assess the risks and benefits prior to giving SPRIX to these patients, and follow these patients closely during SPRIX therapy.
-Long-term administration of NSAIDs has resulted in renal papillary necrosis and other renal injury such as interstitial nephritis and nephrotic syndrome.
-
-## 5.5 Anaphylactoid Reactions
-
-As with other NSAIDs, anaphylactoid reactions may occur in patients with or without a history of allergic reactions to aspirin or NSAIDs and in patients without known prior exposure to ketorolac.
-SPRIX should be discontinued immediately in patients with allergic reactions.
-SPRIX should not be given to patients with the aspirin triad.
-This symptom complex typically occurs in asthmatic patients who experience rhinitis with or without nasal polyps, or who exhibit severe, potentially fatal bronchospasm after taking aspirin or other NSAIDs [see Contraindications (4), Warnings and Precautions (5.11)].
-Emergency help should be sought in cases where an anaphylactoid reaction occurs.
-
-## 5.6 Cardiovascular Effects
-
-• Cardiovascular (CV) Thrombotic Events
-
-Clinical trials of several COX-2 selective and nonselective NSAIDs of up to three years duration have shown an increased risk of serious CV thrombotic events, myocardial infarction and stroke, which can be fatal.
-All NSAIDs, both COX-2 selective and nonselective, may have a similar risk.
-Patients with known CV disease or risk factors for CV disease may be at greater risk.
-To minimize the potential risk for an adverse CV event in patients treated with an NSAID, the lowest effective dose should be used for the shortest duration possible.
-Physicians and patients should remain alert for the development of such events, even in the absence of previous CV symptoms.
-Patients should be informed about the signs and/or symptoms of serious CV events and the steps to take if they occur.
-There is no consistent evidence that concurrent use of aspirin mitigates the increased risk of serious CV thrombotic events associated with NSAID use.
-The concurrent use of aspirin and an NSAID increases the risk of serious GI events.
-Two large, controlled clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10-14 days following CABG surgery found an increased incidence of myocardial infarction and stroke [see Contraindications (4), Warnings and Precautions (5.2), Drug Interactions (7.2, 7.3, 7.7)].
-
-• Hypertension
-
-NSAIDs can lead to onset of new hypertension or worsening of preexisting hypertension, either of which may contribute to the increased incidence of CV events.
-Patients taking thiazides or loop diuretics may have impaired response to these therapies when taking NSAIDs [see Drug Interactions (7.3)].
-
-• Congestive Heart Failure and Edema
-
-Fluid retention, edema, retention of NaCl, oliguria, and elevations of serum urea nitrogen and creatinine have been reported in clinical trials with ketorolac.
-Therefore, only use SPRIX very cautiously in patients with cardiac decompensation or similar conditions.
-
-## 5.7 Skin Reactions
-
-NSAIDs, including ketorolac, can cause serious skin adverse events such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
-These serious events may occur without warning.
-Inform patients about the signs and symptoms of serious skin manifestations, and discontinue use of the drug at the first appearance of skin rash or any other sign of hypersensitivity [see Contraindications (4)].
-
-## 5.8 Pregnancy
-
-Starting at 30 weeks gestation, SPRIX can cause fetal harm when administered to a pregnant woman due to an increased risk of premature closure of the ductus arteriosus.
-If SPRIX is used at or after 30 weeks gestation, the patient should be apprised of the potential hazard to a fetus [see Use in Specific Populations (8.1)].
-
-## 5.9 Hepatic Effects
-
-Use SPRIX with caution in patients with impaired hepatic function or a history of liver disease.
-Borderline elevations of one or more liver tests may occur in up to 15% of patients taking NSAIDs, including ketorolac.
-These laboratory abnormalities may progress, may remain unchanged, or may be transient with continuing therapy.
-Notable elevations of ALT or AST (approximately three or more times the upper limit of normal) have been reported in approximately 1% of patients in clinical trials with NSAIDs.
-In addition, rare cases of severe hepatic reactions, including jaundice, fulminant hepatitis, liver necrosis, and hepatic failure, some of them with fatal outcomes, have been reported [see Warnings and Precautions (5.4, 5.6), Clinical Pharmacology (12.4)].
-
-Evaluate patients with symptoms and/or signs suggesting liver dysfunction, or in whom an abnormal liver test has occurred, for evidence of the development of a more severe hepatic reaction while on therapy with SPRIX.
-If clinical signs and symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, etc.), discontinue SPRIX.
-
-## 5.10 Inflammation and Fever
-
-The pharmacological activity of SPRIX in reducing inflammation and fever may diminish the utility of these diagnostic signs in detecting infections.
-
-## 5.11 Preexisting Asthma
-
-Patients with asthma may have aspirin-sensitive asthma.
-The use of aspirin in patients with aspirin-sensitive asthma has been associated with severe bronchospasm which can be fatal.
-Since cross reactivity, including bronchospasm, between aspirin and other NSAIDs has been reported in such aspirin-sensitive patients, do not administer SPRIX to patients with this form of aspirin sensitivity, and use with caution in patients with preexisting asthma [see Contraindications (4), Warnings and Precautions (5.5)].
-
-## 5.12 Eye Exposure
+## 5.14 Eye Exposure
 
 Avoid contact of SPRIX with the eyes.
 If eye contact occurs, wash out the eye with water or saline, and consult a physician if irritation persists for more than an hour.
+
+## 5.15 Limitations of Use
+
+The total duration of use of SPRIX alone or sequentially with other forms of ketorolac is not to exceed 5 days.
+SPRIX must not be used concomitantly with other forms of ketorolac or other NSAIDs [see Dosage and Administration (2.1)].

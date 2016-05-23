@@ -1,18 +1,16 @@
 # 10 OVERDOSAGE
 
+Symptoms following acute NSAID overdosages have been typically limited to lethargy, drowsiness, nausea, vomiting, and epigastric pain, which have been generally reversible with supportive care.
+Gastrointestinal bleeding has occurred.
+Hypertension, acute renal failure, respiratory depression, and coma have occurred, but were rare [see Warnings and Precautions (5.1, 5.2, 5.4, 5.6)].
+
 There has been no experience with overdosage of SPRIX.
 In controlled overdosage studies with IM ketorolac injection, daily doses of 360 mg given for five days (approximately 3 times the maximum daily dose of SPRIX) caused abdominal pain and peptic ulcers, which healed after discontinuation of dosing.
 Single overdoses of ketorolac tromethamine have been variously associated with abdominal pain, nausea, vomiting, hyperventilation, peptic ulcers and/or erosive gastritis, and renal dysfunction.
 
-Symptoms and Signs
-
-Symptoms following acute NSAID overdose are usually limited to lethargy, drowsiness, nausea, vomiting, and epigastric pain, which are generally reversible with supportive care.
-Gastrointestinal bleeding can occur.
-Hypertension, acute renal failure, respiratory depression, and coma may occur, but are rare.
-
-Treatment
-
-Manage patients using symptomatic and supportive care following an NSAID overdose.
+Manage patients with symptomatic and supportive care following an NSAID overdosage.
 There are no specific antidotes.
-Activated charcoal (60 g to 100 g in adults, 1 g/kg to 2 g/kg in children) may be indicated in patients seen within 4 hours of ingestion with symptoms or following a large oral overdose (5 to 10 times the usual dose).
-Forced diuresis, alkalization of urine, hemodialysis, or hemoperfusion may not be useful due to high protein binding.
+Consider emesis and/or activated charcoal (60 to 100 grams in adults, 1 to 2 grams per kg of body weight in pediatric patients) and/or osmotic cathartic in symptomatic patients seen within four hours of ingestion or in patients with a large overdosage (5 to 10 times the recommended dosage).
+Forced diuresis, alkalinization of urine, hemodialysis, or hemoperfusion may not be useful due to high protein binding.
+
+For additional information about overdosage treatment contact a poison control center (1-800-222-1222).

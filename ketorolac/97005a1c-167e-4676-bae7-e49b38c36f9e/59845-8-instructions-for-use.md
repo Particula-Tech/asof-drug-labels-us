@@ -1,6 +1,4 @@
-# Instructions for Use
-
-SPRIX® (spriks) (ketorolac tromethamine) Nasal Spray
+Instructions for Use SPRIX® (spriks) (ketorolac tromethamine) Nasal Spray
 
 Read this Instructions for Use before you start using SPRIX and each time you get a refill.
 There may be new information.
@@ -42,12 +40,8 @@ Hold the finger flange with your fingers (See Figure A), and remove the clear pl
 Keep the clear plastic cover for later.
 Remove and throw away the blue plastic safety clip.
 
-Figure A
-
 If the clear plastic cover is improperly removed, the tip of the bottle may be pulled off of the glass vial.
 If this happens, place the tip back onto the glass vial by lining it up carefully and gently pushing it back on until it is back in the correct position (See Figure B). The SPRIX bottle should work properly again.
-
-Figure B
 
 Step 2.
 Hold the SPRIX bottle upright at arm’s length away from you with your index finger and middle finger resting on the top of the finger flange and your thumb supporting the base (see Figure C).
@@ -57,8 +51,6 @@ You may not see a spray the first few times you press down.
 
 Now the pump is primed and ready to use.
 You do not need to prime the pump again if you use more doses from this bottle.
-
-Figure C
 
 Step 3.
 Blow your nose to clear your nostrils.
@@ -74,8 +66,6 @@ Place the tip of the SPRIX bottle into your right nostril.
 
 Step 7.
 Hold the SPRIX bottle upright and aim the tip toward the back of your nose (see Figure D).
-
-Figure D
 
 Step 8.
 Hold your breath and spray 1 time into your right nostril, pressing down on both sides of the finger flange (See Figure D).
@@ -116,14 +106,10 @@ You can ask your pharmacist or healthcare provider for information about SPRIX t
 
 What are the ingredients in SPRIX?
 
-Active ingredient: ketorolac tromethamine
-
-Inactive ingredient: edetate disodium (EDTA), monobasic potassium phosphate, sodium hydroxide, and water for injection
+Active ingredient: ketorolac tromethamine Inactive ingredient: edetate disodium (EDTA), monobasic potassium phosphate, sodium hydroxide, and water for injection
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
 Distributed by: Egalet US Inc. Wayne, PA 19087
 
-LBL # 102.00
-
-Revised: 6/2015
+LBL # 102.01 Revised: 5/2016

@@ -1,13 +1,12 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Limitations of Use
+## 2.1 General Dosing Instructions
 
-The total duration of use of SPRIX alone or sequentially with other formulations of ketorolac (IM/IV or oral) must not exceed 5 days because of the potential for increasing the frequency and severity of adverse reactions associated with the recommended doses [see Warnings and Precautions (5.1)].
-Treat patients for the shortest duration possible, and do not exceed 5 days of therapy with SPRIX.
+Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
 
-Do not use SPRIX concomitantly with other formulations of ketorolac or other NSAIDs [see Warnings and Precautions (5.1)].
+The total duration of use of SPRIX alone or sequentially with other formulations of ketorolac (IM/IV or oral) must not exceed 5 days because of the potential for increasing the frequency and severity of adverse reactions associated with the recommended doses [see Warnings and Precautions (5.15)].
 
-SPRIX has not been shown to be safe and effective in pediatric patients 17 years of age and younger.
+Do not use SPRIX concomitantly with other formulations of ketorolac or other NSAIDs [see Warnings and Precautions (5.15)].
 
 ## 2.2 Administration
 
@@ -56,7 +55,7 @@ The maximum daily dose is 126 mg (four doses).
 ## 2.4 Reduced Doses for Special Populations
 
 For patients ≥ 65 years of age, renally impaired patients, and adult patients less than 50 kg (110 lbs), the recommended dose is 15.75 mg SPRIX (one 15.75 mg spray in only one nostril) every 6 to 8 hours.
-The maximum daily dose is 63 mg (four doses) [see Warnings and Precautions (5.2, 5.4)].
+The maximum daily dose is 63 mg (four doses) [see Warnings and Precautions (5.2, 5.6)].
 
 ## 2.5 Discard Used SPRIX Bottle after 24 Hours
 

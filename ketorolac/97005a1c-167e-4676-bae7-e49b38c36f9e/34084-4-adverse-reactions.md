@@ -1,23 +1,18 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions are discussed elsewhere in the labeling:
+The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- Gastrointestinal effects [see Boxed Warning and Warnings and Precautions (5.2)]
-- Hemorrhage [see Boxed Warning and Warnings and Precautions (5.3)]
-- Renal effects [see Boxed Warning and Warnings and Precautions (5.4)]
-- Anaphylactoid reactions [see Warnings and Precautions (5.5)]
-- Cardiovascular thrombotic events [see Boxed Warning and Warnings and Precautions (5.6)]
-- Hypertension [see Warnings and Precautions (5.6)]
-- Congestive heart failure and edema [see Warnings and Precautions (5.6)]
-- Serious skin reactions [see Warnings and Precautions (5.7)]
-- Hepatic effects [see Warnings and Precautions (5.9)]
+- Cardiovascular Thrombotic Events [see Warnings and Precautions (5.1)]
+- GI Bleeding, Ulceration and Perforation [see Warnings and Precautions (5.2)]
+- Hepatotoxicity [see Warnings and Precautions (5.3)]
+- Hypertension [see Warnings and Precautions (5.4)]
+- Heart Failure and Edema [see Warnings and Precautions (5.5)]
+- Renal Toxicity and Hyperkalemia [see Warnings and Precautions (5.6)]
+- Anaphylactic Reactions [see Warnings and Precautions (5.7)]
+- Serious Skin Reactions [see Warnings and Precautions (5.9)]
+- Hematologic Toxicity [see Warnings and Precautions (5.11)]
 
-The most frequently reported adverse reactions were related to local symptoms, i.e., nasal discomfort or irritation.
-These reactions were generally mild and transient in nature.
-
-The most common drug-related adverse events leading to premature discontinuation were nasal discomfort or nasal pain (rhinalgia).
-
-## 6.1 Experience from SPRIX Clinical Studies
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -27,8 +22,12 @@ The studies enrolled 828 patients (183 men, 645 women) ranging from 18 years to 
 The patients in the postoperative pain studies had undergone major abdominal, orthopedic, gynecologic, or other surgery; 455 patients received SPRIX (31.5 mg) three or four times a day for up to 5 days, and 245 patients received placebo.
 Most patients were receiving concomitant opioids, primarily PCA morphine.
 
-Table 1.
-Post-operative Patients with Adverse Reactions Observed at a rate of 2% or more and at least twice the incidence of the placebo group.
+The most frequently reported adverse reactions were related to local symptoms, i.e., nasal discomfort or irritation.
+These reactions were generally mild and transient in nature.
+
+The most common drug-related adverse events leading to premature discontinuation were nasal discomfort or nasal pain (rhinalgia).
+
+Table 1: Post-Operative Patients with Adverse Reactions Observed at a Rate of 2% or More and at Least Twice the Incidence of the Placebo Group.
 
 |  | SPRIX (N = 455) | Placebo (N = 245) |
 | --- | --- | --- |
@@ -44,10 +43,10 @@ Post-operative Patients with Adverse Reactions Observed at a rate of 2% or more 
 | Hypertension | 2% | 1% |
 | Rhinitis | 2% | <1% |
 
-In controlled clinical trials in major surgery, primarily knee and hip replacements and abdominal hysterectomies, seven patients (N=455, 1.5%) treated with SPRIX experienced serious adverse events of bleeding (4 patients) or hematoma (3 patients) at the operative site versus one patient (N=245, 0.4%) treated with placebo (hematoma).
+In controlled clinical trials in major surgery, primarily knee and hip replacements and abdominal hysterectomies, seven patients (N=455, 1.5%) treated with SPRIX experienced serious adverse events of bleeding (4 patients) or hematoma (3 patients) at the operative site versus one patient (N = 245, 0.4%) treated with placebo (hematoma).
 Six of the seven patients treated with SPRIX underwent a surgical procedure and/or blood transfusion and the placebo patient subsequently required a blood transfusion.
 
-## 6.2 Adverse Reactions Reported in Clinical Trials with Other Dosage Forms of Ketorolac or Other NSAIDs
+Adverse Reactions Reported in Clinical Trials with Other Dosage Forms of Ketorolac or Other NSAIDs
 
 Adverse reaction rates increase with higher doses of ketorolac.
 It is necessary to remain alert for the severe complications of treatment with ketorolac, such as GI ulceration, bleeding, and perforation, postoperative bleeding, acute renal failure, anaphylactic and anaphylactoid reactions, and liver failure.
@@ -82,7 +81,10 @@ Special Senses: abnormal taste, abnormal vision, blurred vision, hearing loss
 
 Urogenital: cystitis, dysuria, hematuria, increased urinary frequency, interstitial nephritis, oliguria/polyuria, proteinuria, renal failure, urinary retention
 
-## 6.3 Adverse Reactions from Postmarketing Experience with Other Dosage Forms of Ketorolac or Other NSAIDs
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post approval use of ketorolac or other NSAIDs.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Other observed reactions (reported from postmarketing experience in patients taking ketorolac or other NSAIDs) are:
 
