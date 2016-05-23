@@ -5,11 +5,11 @@
 The use of drugs of the tetracycline-class during tooth development (last half of pregnancy, infancy and childhood to the age of 8 years) may cause permanent discoloration of the teeth (yellow-gray-brown).
 This adverse reaction is more common during long-term use of the drugs but it has been observed following repeated short-term courses.
 Enamel hypoplasia has also been reported.
-Doxycycline should not be used in this age group, except for anthrax, including inhalational anthrax (post-exposure), unless other drugs are not likely to be effective or are contraindicated.
+Use ACTICLATE and ACTICLATE CAP in pediatric patients 8 years of age or less only when the potential benefits are expected to outweigh the risks in severe or life-threatening conditions (e.g., anthrax, Rocky Mountain spotted fever), particularly when there are no alternative therapies.
 
 ## 5.2 Clostridium difficile Associated Diarrhea
 
-Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including ACTICLATE, and may range in severity from mild diarrhea to fatal colitis.
+Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including ACTICLATE and ACTICLATE CAP, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
@@ -25,23 +25,23 @@ Appropriate fluid and electrolyte management, protein supplementation, antibacte
 Photosensitivity manifested by an exaggerated sunburn reaction has been observed in some individuals taking tetracyclines.
 Patients apt to be exposed to direct sunlight or ultraviolet light should be advised that this reaction can occur with tetracycline drugs, and treatment should be discontinued at the first evidence of skin erythema.
 
-## 5.4 Superinfection
+## 5.4 Potentaial for Microbial Overgrowth
 
-As with other antibacterial preparations, use of ACTICLATE may result in overgrowth of non-susceptible organisms, including fungi.
-If superinfection occurs, the antibacterial should be discontinued and appropriate therapy instituted.
+ACTICLATE and ACTICLATE CAP may result in overgrowth of non-susceptible organisms, including fungi.
+If such infections occur, discontinue use and institute appropriate therapy.
 
 ## 5.5 Intracranial Hypertension
 
-Intracranial hypertension (IH, pseudotumor cerebri) has been associated with the use of tetracyclines including ACTICLATE.
+Intracranial hypertension (IH, pseudotumor cerebri) has been associated with the use of tetracyclines including ACTICLATE and ACTICLATE CAP.
 Clinical manifestations of IH include headache, blurred vision, diplopia, and vision loss; papilledema can be found on fundoscopy.
 Women of childbearing age who are overweight or have a history of IH are at greater risk for developing tetracycline associated IH.
-Concomitant use of isotretinoin and ACTICLATE should be avoided because isotretinoin is also known to cause pseudotumor cerebri.
+Concomitant use of isotretinoin and ACTICLATE and ACTICLATE CAP should be avoided because isotretinoin is also known to cause pseudotumor cerebri.
 
 Although IH typically resolves after discontinuation of treatment, the possibility for permanent visual loss exists.
 If visual disturbance occurs during treatment, prompt ophthalmologic evaluation is warranted.
 Since intracranial pressure can remain elevated for weeks after drug cessation patients should be monitored until they stabilize.
 
-## 5.6 Skeletal Development
+## 5.6 Delayed Skeletal Development
 
 All tetracyclines form a stable calcium complex in any bone-forming tissue.
 A decrease in fibula growth rate has been observed in prematures given oral tetracycline in doses of 25 mg per kg every six hours.
@@ -57,7 +57,7 @@ If any tetracycline is used during pregnancy or if the patient becomes pregnant 
 The antianabolic action of the tetracyclines may cause an increase in BUN.
 Studies to date indicate that this does not occur with the use of doxycycline in patients with impaired renal function.
 
-## 5.8 Malaria
+## 5.8 Incomplete Suppression of Malaria
 
 Doxycycline offers substantial but not complete suppression of the asexual blood stages of Plasmodium strains.
 
@@ -66,7 +66,7 @@ Subjects completing this prophylactic regimen may still transmit the infection t
 
 ## 5.9 Development of Drug-Resistant Bacteria
 
-Prescribing ACTICLATE in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+Prescribing ACTICLATE and ACTICLATE CAP in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
 ## 5.10 Laboratory Monitoring for Long-Term Therapy
 

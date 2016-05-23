@@ -1,21 +1,16 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1 Postmarketing Experience
-
-The following adverse reactions have been identified during post-approval use of doxycycline hyclate tablets.
+The following adverse reactions have been identified during clinical trials or post-approval use of tetracycline-class drugs, including doxycycline.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Due to oral doxycycline’s virtually complete absorption, side effects to the lower bowel, particularly diarrhea, have been infrequent.
-The following adverse reactions have been observed in patients receiving tetracyclines:
-
-Gastrointestinal: Anorexia, nausea, vomiting, diarrhea, glossitis, dysphagia, enterocolitis, and inflammatory lesions (with monilial overgrowth) in the anogenital region.
+Gastrointestinal:Anorexia, nausea, vomiting, diarrhea, glossitis, dysphagia, enterocolitis, and inflammatory lesions (with monilial overgrowth) in the anogenital region.
 Hepatotoxicity has been reported.
 These reactions have been caused by both the oral and parenteral administration of tetracyclines.
 Instances of esophagitis and esophageal ulcerations have been reported in patients receiving capsule and tablet forms of drugs in the tetracycline-class.
 Most of these patients took medications immediately before going to bed [see Dosage and Administration (2.1)].
 
 Skin: Maculopapular and erythematous rashes, Stevens-Johnson syndrome, toxic epidermal necrolysis, exfoliative dermatitis, and erythema multiforme have been reported.
-Photosensitivity is discussed above [see Warnings and Precautions (5.3)].
+Photosensitivity has been reported [see Warnings and Precautions (5.3)].
 
 Renal: Rise in BUN has been reported and is apparently dose-related [see Warnings and Precautions (5.7)].
 

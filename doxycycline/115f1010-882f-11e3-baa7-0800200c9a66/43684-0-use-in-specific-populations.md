@@ -3,9 +3,7 @@
 ## 8.1 Pregnancy
 
 Teratogenic Effects.
-Pregnancy Category D: [see Warnings and Precautions (5.6)]
-
-There are no adequate and well-controlled studies on the use of doxycycline in pregnant women.
+Pregnancy Category D: [see Warnings and Precautions (5.6)] There are no adequate and well-controlled studies on the use of doxycycline in pregnant women.
 The vast majority of reported experience with doxycycline during human pregnancy is short-term, first trimester exposure.
 There are no human data available to assess the effects of long-term therapy of doxycycline in pregnant women such as that proposed for the treatment of anthrax exposure.
 An expert review of published data on experiences with doxycycline use during pregnancy by TERIS - the Teratogen Information System - concluded that therapeutic doses during pregnancy are unlikely to pose a substantial teratogenic risk (the quantity and quality of data were assessed as limited to fair), but the data are insufficient to state that there is no risk.1
@@ -28,12 +26,10 @@ Because of the potential for serious adverse reactions in nursing infants from d
 
 ## 8.4 Pediatric Use
 
-Because of the effects of drugs of the tetracycline-class on tooth development and growth, ACTICLATE should not be used in pediatric patients to the age of 8 years, unless the potential benefits are expected to outweigh the risks such as for anthrax, or when other drugs are not likely to be effective or are contraindicated [see Warnings and Precautions (5.1, 5.6) and Dosage and Administration (2.1, 2.3)].
+Because of the effects of drugs of the tetracycline-class on tooth development and growth, use ACTICLATE and ACTICLATE CAP in pediatric patients 8 years of age or less only when the potential benefits are expected to outweigh the risks in severe or life-threatening conditions (e.g., anthrax, Rocky Mountain spotted fever), particularly when there are no alternative therapies [see Warnings and Precautions (5.1, 5.6) and Dosage and Administration (2.1, 2.5)].
 
 ## 8.5 Geriatric Use
 
 Clinical studies of doxycycline hyclate tablets did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
-
-ACTICLATE Tablets, 75 mg contain 0.34 mg (0.0146 mEq) of sodium.
-ACTICLATE Tablets, 150 mg contain 0.68 mg (0.0295 mEq) of sodium.
+ACTICLATE Tablets each contains less than 1 mg of sodium.

@@ -6,15 +6,15 @@ Because tetracyclines have been shown to depress plasma prothrombin activity, pa
 
 ## 7.2 Penicillin
 
-Since bacteriostatic drugs may interfere with the bactericidal action of penicillin, it is advisable to avoid giving tetracyclines in conjunction with penicillin.
+Since bacteriostatic drugs may interfere with the bactericidal action of penicillin, it is advisable to avoid giving tetracyclines, including ACTICLATE and ACTICLATE CAP in conjunction with penicillin.
 
 ## 7.3 Antacids and Iron Preparations
 
-Absorption of tetracyclines is impaired by antacids containing aluminum, calcium, or magnesium, bismuth subsalicylate, and iron-containing preparations.
+Absorption of tetracyclines, including ACTICLATE and ACTICLATE CAP is impaired by antacids containing aluminum, calcium, or magnesium, bismuth subsalicylate, and iron-containing preparations.
 
 ## 7.4 Oral Contraceptives
 
-Concurrent use of tetracycline may render oral contraceptives less effective.
+Concurrent use of tetracyclines, including ACTICLATE and ACTICLATE CAP may render oral contraceptives less effective.
 
 ## 7.5 Barbiturates and Anti-Epileptics
 

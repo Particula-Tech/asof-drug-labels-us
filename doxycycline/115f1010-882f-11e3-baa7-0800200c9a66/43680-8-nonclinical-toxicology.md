@@ -2,12 +2,16 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Long-term studies in animals to evaluate carcinogenic potential of doxycycline have not been conducted.
-However, there has been evidence of oncogenic activity in rats in studies with the related antibacterials, oxytetracycline (adrenal and pituitary tumors) and minocycline (thyroid tumors).
-Likewise, although mutagenicity studies of doxycycline have not been conducted, positive results in in vitro mammalian cell assays have been reported for related antibacterials (tetracycline, oxytetracycline).
+Long-term studies in animals to evaluate carcinogenic potential of ACTICLATE (doxycycline hyclate) and ACTICLATE CAP (doxycycline hyclate) have not been conducted.
+However, a 2 year carcinogenicity study with doxycycline administered daily by oral gavage to adult rats (20, 75, 200 mg/kg/day) demonstrated an increase in uterine polyps in female rats at 200 mg/kg/day (10 times the maximum recommended daily adult dose of ACTICLATE and ACTICLATE CAP based on body surface area comparison) with no change in tumor incidence in male rats at the same dose.
+A 2-year carcinogenicity study with doxycycline administered daily by oral gavage to adult male (maximum dose 150 mg/kg/day) and female (maximum dose 300 mg/kg/day) mice showed no changes in tumor incidence, at approximately 4 and 7 times the maximum recommended daily adult dose of ACTICLATE and ACTICLATE CAP, based on a body surface area comparison, respectively.
 
-Doxycycline administered orally at dosage levels as high as 250 mg per kg per day had no apparent effect on the fertility of female rats.
-Effect on male fertility has not been studied.
+Mutagenesis and fertility studies have not been conducted with ACTICLATE and ACTICLATE CAP.
+Mutagenesis studies with doxycycline demonstrated no potential to cause genetic toxicity in an in vitro point mutation study with mammalian cells or in an in vivo micronucleus assay in CD-1 mice.
+However, data from an in vitro mammalian chromosomal aberration assay conducted in CHO cells suggest that doxycycline is a weak clastogen.
+Oral administration of doxycycline to Sprague-Dawley rats showed adverse effects on fertility and reproduction including increased time for mating, reduced sperm motility, velocity and concentration as well as increased pre and post implantation loss.
+Reduced sperm velocity was seen at the lowest dosage tested, 50 mg/kg/day which is 2.5 times the maximum recommended daily adult dose of ACTICLATE and ACTICLATE CAP.
+Although doxycycline impairs the fertility of rats when administered at sufficient dosages, the effect of ACTICLATE and ACTICLATE CAP on human fertility is unknown.
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
