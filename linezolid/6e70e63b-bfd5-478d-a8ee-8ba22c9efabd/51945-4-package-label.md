@@ -11,7 +11,7 @@ Sterile and nonpyrogenic Single dose container.
 Do not add supplementary medication.
 Do not use in series connections.
 
-817 988 202 LOT
+LOT
 
 For intravenous administration Check for leaks by squeezing container.
 If leaks are found, discard, as sterility may be impaired.
@@ -19,11 +19,11 @@ Check linezolid solution for clarity; it may exhibit a yellow color that intensi
 DOSAGE AND USE: See accompanying prescribing information.
 MADE IN SINGAPORE
 
-Pfizer Distributed by: Pharmacia & Upjohn Co Division of Pfizer Inc NY, NY 10017
+Pfizer Injectables Distributed by: Pharmacia & Upjohn Co Division of Pfizer Inc NY, NY 10017
 
 7 OTHER
 
-1234567890 FUU 0701 01-68-26-019A
+1234567890 FUU 0701 01-68-26-019B
 
 EXP
 
@@ -55,27 +55,31 @@ NDC 0009-5140-01 Rx only ZYVOX® (linezolid) injection
 
 Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
 Do not freeze.
-Each mL contains: linezolid 2 mg dextrose, USP 50.24 mg sodium citrate, USP 1.64 mg citric acid, USP 0.85 mg water for injection, USP qs pH adjusted to 4.8 with sodium hydroxide or hydrochloric acid.
+Each mL contains: linezolid 2 mg dextrose, USP 50.24 mg sodium citrate, USP 1.64 mg citric acid, USP 0.85 mg water for injection, USP qs
+
+pH adjusted to 4.8 with sodium hydroxide or hydrochloric acid.
 Sterile and nonpyrogenic.
 Single dose container.
 
 LOT
 
+Do not add supplementary medication.
 Do not use in series connections.
 For intravenous administration Check for leaks by squeezing container.
 If leaks are found, discard, as sterility may be impaired.
-Linezolid is sensitive to light.
-Retain overwrap prior to use.
+Check linezolid solution for clarity; it may exhibit a yellow color that intensifies over time, with no adverse effect on potency.
 DOSAGE AND USE: See accompanying prescribing information.
 MADE IN SINGAPORE
 
-Pfizer Distributed by: Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017
+Pfizer Injectables Distributed by: Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017
 
 7 OTHER
 
 EXP
 
-FUU 0703 01-78-26-020A
+free flex
+
+1234567890 FUU 0703 01-68-26-020B
 
 # PRINCIPAL DISPLAY PANEL - 300 mL Bag Box Label
 
