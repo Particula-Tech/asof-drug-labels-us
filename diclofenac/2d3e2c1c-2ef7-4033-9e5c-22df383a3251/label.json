@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021005"
+  ],
+  "inn": "diclofenac",
+  "labeler": "PharmaDerm a division of Fougera Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "10337-844-01"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "diclofenac sodium",
+      "name": "Solaraze"
+    }
+  ],
+  "setid": "2d3e2c1c-2ef7-4033-9e5c-22df383a3251",
+  "source": "dailymed"
+}
