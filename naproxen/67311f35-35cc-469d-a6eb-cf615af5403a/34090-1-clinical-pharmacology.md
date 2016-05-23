@@ -7,8 +7,14 @@ TREXIMET contains sumatriptan and naproxen.
 Sumatriptan binds with high affinity to cloned 5-HT1B/1D receptors.
 Sumatriptan presumably exerts its therapeutic effects in the treatment of migraine headache through agonist effects at the 5-HT1B/1D receptors on intracranial blood vessels and sensory nerves of the trigeminal system, which result in cranial vessel constriction and inhibition of neuropeptide release.
 
-Naproxen is an NSAID with analgesic and antipyretic properties.
-The mechanism of action of naproxen, like that of other NSAIDs, is not completely understood but may be related to prostaglandin synthetase inhibition.
+TREXIMET has analgesic, anti-inflammatory, and antipyretic properties.
+The mechanism of action of TREXIMET, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2).
+
+Naproxen is a potent inhibitor of prostaglandin synthesis in vitro.
+Naproxen concentrations reached during therapy have produced in vivo effects.
+Prostaglandins sensitize afferent nerves and potentiate the action of bradykinin in inducing pain in animal models.
+Prostaglandins are mediators of inflammation.
+Because naproxen is an inhibitor of prostaglandin synthesis, its mode of action may be due to a decrease of prostaglandins in peripheral tissues.
 
 ## 12.2 Pharmacodynamics
 
@@ -86,7 +92,7 @@ Renal Impairment
 The effect of renal impairment on the pharmacokinetics of TREXIMET has not been studied.
 Since naproxen and its metabolites and conjugates are primarily excreted by the kidney, the potential exists for naproxen metabolites to accumulate in the presence of renal insufficiency.
 Elimination of naproxen is decreased in patients with severe renal impairment.
-[see Warnings and Precautions (5.11), Use in Specific Populations (8.6)].
+[see Warnings and Precautions (5.12), Use in Specific Populations (8.6)].
 
 Hepatic Impairment
 
@@ -102,3 +108,15 @@ Race
 
 The effect of race on the pharmacokinetics of TREXIMET has not been studied.
 The systemic clearance and Cmax of sumatriptan were similar in black (n = 34) and white (n = 38) healthy male subjects.
+
+Drug Interaction Studies
+
+Aspirin
+
+When naproxen was administered with aspirin (>1 gram/day), the protein binding of naproxen was reduced, although the clearance of free naproxen was not altered.
+See Table 3 for clinically significant drug interactions of naproxen, an NSAID, with aspirin [see Drug Interactions (7)].
+
+Propranolol
+
+Propranolol 80 mg given twice daily had no significant effect on sumatriptan pharmacokinetics.
+See Table 3 for clinically significant drug interactions of propranolol, a beta-blocker, with TREXIMET [see Drug Interactions (7)].

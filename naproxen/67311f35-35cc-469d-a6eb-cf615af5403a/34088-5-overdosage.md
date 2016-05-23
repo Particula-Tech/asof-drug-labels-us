@@ -5,11 +5,15 @@ Volunteers (N = 174) have received single oral doses of 140 to 400 mg without se
 
 Overdose of sumatriptan in animals has been fatal and has been heralded by convulsions, tremor, paralysis, inactivity, ptosis, erythema of the extremities, abnormal respiration, cyanosis, ataxia, mydriasis, salivation, and lacrimation.
 
-In addition to the adverse events already described, significant naproxen overdosage may be characterized by lethargy, epigastric pain, abdominal discomfort, transient alterations in liver function, hypoprothrombinemia, metabolic acidosis, apnea, disorientation, or vomiting.
-Acute renal failure, respiratory depression, and coma may occur, but are rare.
+Symptoms following acute NSAID overdosages have been typically limited to lethargy, drowsiness, nausea, vomiting and epigastric pain.
+Gastrointestinal bleeding has occurred.
+Hypertension, acute renal failure, respiratory depression, and coma have occurred, but were rare [see Warnings and Precautions (5.1, 5.2)].
 
-Patients should be managed by symptomatic and supportive care.
+Manage patients with symptomatic and supportive care following an NSAID overdosage.
 There are no specific antidotes.
+Consider emesis and/or activated charcoal (60 to 100 grams in adults, 1 to 2 grams per kg of body weight in pediatric patients) and/or osmotic cathartic in symptomatic patients seen within four hours of ingestion or in patients with a large overdosage (5 to 10 times the recommended dosage).
 Hemodialysis does not decrease the plasma concentration of naproxen because of the high degree of its protein binding.
 It is unknown what effect hemodialysis or peritoneal dialysis has on the serum concentrations of sumatriptan.
-Forced diuresis, alkalinization of urine, or hemoperfusion may not be useful due to high protein binding.
+Forced diuresis, alkalinization of urine, hemodialysis, or hemoperfusion may not be useful due to high protein binding.
+
+For additional information about overdosage treatment contact a poison control center (1-800-222-1222).

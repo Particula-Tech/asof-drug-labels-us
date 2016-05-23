@@ -2,21 +2,21 @@
 
 The following serious adverse reactions are described below and elsewhere in labeling:
 
-- Myocardial Ischemia/Infarction, Stroke, Prinzmetal's Angina [see Warnings and Precautions (5.1)]
-- Gastrointestinal effects [see Warnings and Precautions (5.2)]
+- Cardiovascular Thrombotic Events [see Warnings and Precautions (5.1)]
+- GI Bleeding, Ulceration and Perforation [see Warnings and Precautions (5.2)]
 - Arrhythmias [see Warnings and Precautions (5.3)]
-- Chest, throat, neck, and/or jaw pain/tightness/pressure [see Warnings and Precautions (5.4)]
-- Cerebrovascular events [see Warnings and Precautions (5.5)]
-- Other vasospasm reactions [see Warnings and Precautions (5.6)
-- Increase in blood pressure [see Warnings and Precautions (5.7)]
-- Congestive heart failure and edema [see Warnings and Precautions (5.8)]
-- Medication overuse headache [see Warnings and Precautions (5.9)
-- Serotonin syndrome [see Warnings and Precautions (5.10)]
-- Renal Toxicity [see Warnings and Precautions (5.11)]
-- Anaphylactic reactions [see Contraindications (4), Warnings and Precautions (5.12)]
-- Serious skin reactions [see Warnings and Precautions (5.13)]
-- Hepatotoxicity [see Warnings and Precautions (5.15)]
-- Hematological toxicity [see Warnings and Precautions (5.16)]
+- Chest, Throat, Neck, and/or Jaw Pain/Tightness/Pressure [see Warnings and Precautions (5.4)]
+- Cerebrovascular Events [see Warnings and Precautions (5.5)]
+- Other Vasospasm Reactions [see Warnings and Precautions (5.6)]
+- Hepatotoxicity [see Warnings and Precautions (5.7)]
+- Hypertension [see Warnings and Precautions (5.8)]
+- Heart Failure and Edema [see Warnings and Precautions (5.9)]
+- Medication Overuse Headache [see Warnings and Precautions (5.10)]
+- Serotonin Syndrome [see Warnings and Precautions (5.11)]
+- Renal Toxicity and Hyperkalemia [see Warnings and Precautions (5.12)]
+- Anaphylactic Reactions [see Warnings and Precautions (5.13)]
+- Serious Skin Reactions [see Warnings and Precautions (5.14)]
+- Hematological Toxicity [see Warnings and Precautions (5.16)]
 - Exacerbation Asthma Related to Aspirin Sensitivity [see Warnings and Precautions (5.17)]
 - Seizures [see Warnings and Precautions (5.18)]
 

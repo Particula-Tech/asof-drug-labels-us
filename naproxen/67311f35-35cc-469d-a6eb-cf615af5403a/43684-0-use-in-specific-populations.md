@@ -35,17 +35,18 @@ The safety and efficacy of TREXIMET for the acute treatment of migraine in pedia
 
 ## 8.5 Geriatric Use
 
-TREXIMET is not recommended for use in elderly patients who have decreased renal function, higher risk for unrecognized CAD, and increases in blood pressure that may be more pronounced in the elderly [see Warnings and Precautions (5.1, 5.7, 5.11), Clinical Pharmacology (12.3)].
+Elderly patients, compared to younger patients, are at greater risk for NSAID-associated serious cardiovascular, gastrointestinal, and/or renal adverse reactions.
+TREXIMET is not recommended for use in elderly patients who have decreased renal function, higher risk for unrecognized CAD, and increases in blood pressure that may be more pronounced in the elderly [see Warnings and Precautions (5.1, 5.2, 5.3, 5.8,5.12) and Clinical Pharmacology (12.3)].
 
 A cardiovascular evaluation is recommended for geriatric patients who have other cardiovascular risk factors (e.g., diabetes, hypertension, smoking, obesity, strong family history of CAD) prior to receiving TREXIMET [see Warnings and Precautions (5.1)].
 
 ## 8.6 Renal Impairment
 
 TREXIMET is not recommended for use in patients with creatinine clearance less than 30 mL/min.
-Monitor the serum creatinine or creatinine clearance in patients with mild (CrCl = 60 to 89 mL/min) or moderate (CrCL = 30 to 59 mL/min) renal impairment, preexisting kidney disease, or dehydration [see Warnings and Precautions (5.11), Clinical Pharmacology (12.3)].
+Monitor the serum creatinine or creatinine clearance in patients with mild (CrCl = 60 to 89 mL/min) or moderate (CrCL = 30 to 59 mL/min) renal impairment, preexisting kidney disease, or dehydration [see Warnings and Precautions (5.12) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
 TREXIMET is contraindicated in patients with severe hepatic impairment.
 For patients with mild or moderate hepatic impairment, the TREXIMET dose should be reduced.
-[see Contraindications (4), Warnings and Precautions (5.15), Clinical Pharmacology (12.3)].
+[see Contraindications (4), Warnings and Precautions (5.7), and Clinical Pharmacology (12.3)].

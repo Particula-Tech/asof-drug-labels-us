@@ -9,12 +9,12 @@ No rescue medication was allowed within 2 hours postdose.
 Patients evaluated their headache pain 2 hours after taking 1 dose of study medication; headache relief was defined as a reduction in headache severity from moderate or severe pain to mild or no pain.
 Associated symptoms of nausea, photophobia, and phonophobia were also evaluated.
 Sustained pain free was defined as a reduction in headache severity from moderate or severe pain to no pain at 2 hours postdose without a return of mild, moderate, or severe pain and no use of rescue medication for 24 hours postdose.
-The results from Study 1 and 2 are summarized in Table 3.
+The results from Study 1 and 2 are summarized in Table 4.
 In both trials, the percentage of patients achieving headache pain relief 2 hours after treatment was significantly greater among patients receiving TREXIMET 85/500 mg (65% and 57%) compared with those who received placebo (28% and 29%).
 
 Further, the percentage of patients who remained pain free without use of other medications through 24 hours postdose was significantly greater among patients receiving a single dose of TREXIMET 85/500 mg (25% and 23%) compared with those who received placebo (8% and 7%) or either sumatriptan (16% and 14%) or naproxen sodium (10%) alone.
 
-Table 3.
+Table 4.
 Percentage of Adult Patients with 2-Hour Pain Relief and Sustained Pain Free Following TreatmentP values provided only for prespecified comparisons.
 
 |  | TREXIMET 85/500 mg | Sumatriptan 85 mg | Naproxen Sodium 500 mg | Placebo |
@@ -51,10 +51,10 @@ No rescue medication was allowed within 2 hours postdose.
 Patients evaluated their headache pain 2 hours after taking 1 dose of study medication.
 Two-hour pain free was defined as a reduction in headache severity from moderate or severe pain to no pain at 2 hours postdose.
 
-Results are summarized in Table 4.
+Results are summarized in Table 5.
 The percentage of patients who were pain free at 2 hours postdose was significantly greater among patients who received any of the 3 doses of TREXIMET compared with placebo.
 
-Table 4.
+Table 5.
 Percentage of Pediatric Patients 12 to 17 Years of Age with 2-Hour Pain-Free Response Following Treatment in Study 3P values provided only for prespecified comparisons.
 
 | Endpoint | TREXIMET 10/60 mg (n = 96) | TREXIMET 30/180 mg (n = 97) | TREXIMET 85/500 mg (n = 152) | Placebo (n = 145) |

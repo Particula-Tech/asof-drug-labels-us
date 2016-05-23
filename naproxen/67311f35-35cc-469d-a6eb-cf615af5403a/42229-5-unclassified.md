@@ -4,6 +4,7 @@ The makers of these brands are not affiliated with and do not endorse Pernix Ire
 
 Pernix Ireland Limited, distributed by Pernix Therapeutics, LLC Morristown, NJ 07960
 
-©2015, Pernix Ireland Limited All rights reserved.
+©2016, Pernix Ireland Limited.
+All rights reserved.
 
-May 2015 TRE-LC003.02
+May 2016 TRE-LC003.04

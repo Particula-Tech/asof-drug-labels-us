@@ -1,24 +1,41 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Myocardial Ischemia, Myocardial Infarction, Stroke, Prinzmetal's Angina
+## 5.1 Cardiovascular Thrombotic Events
 
-The use of TREXIMET is contraindicated in patients with ischemic or vasospastic coronary artery disease (CAD) or with a history of CABG surgery due to increased risk of serious cardiovascular events with sumatriptan and NSAIDS [see Contraindications (4)].
+The use of TREXIMET is contraindicated in patients with ischemic or vasospastic coronary artery disease (CAD) and in the setting of coronary artery bypass graft (CABG) surgery due to increased risk of serious cardiovascular events with sumatriptan and NSAIDS [see Contraindications (4)].
 
-Cardiovascular Events With Sumatriptan
+Cardiovascular Events with Sumatriptan
 
 There have been rare reports of serious cardiac adverse reactions, including acute myocardial infarction, occurring within a few hours following administration of sumatriptan.
 Some of these reactions occurred in patients without known CAD.
 TREXIMET may cause coronary artery vasospasm (Prinzmetal's angina), even in patients without a history of CAD.
 
-Cardiovascular Events With Nonsteroidal Anti-inflammatory Drugs
+Cardiovascular Thrombotic Events with Nonsteroidal Anti-inflammatory Drugs
 
-Clinical trials of several COX-2 selective and nonselective NSAIDs of up to three years' duration have shown an increased risk of serious cardiovascular thrombotic events, myocardial infarction, and stroke, which can be fatal.
-All NSAIDs, both COX-2 selective and nonselective, may have a similar risk.
-Patients with known cardiovascular disease or risk factors for cardiovascular disease may be at greater risk.
-To minimize the potential risk for an adverse cardiovascular event in patients treated with an NSAID, the lowest effective dose should be used for the shortest duration possible.
+Clinical trials of several COX-2 selective and nonselective NSAIDs of up to three years duration have shown an increased risk of serious cardiovascular (CV) thrombotic events, including myocardial infarction (MI) and stroke, which can be fatal.
+Based on available data, it is unclear that the risk for CV thrombotic events is similar for all NSAIDs.
+The relative increase in serious CV thrombotic events over baseline conferred by NSAID use appears to be similar in those with and without known CV disease or risk factors for CV disease.
+However, patients with known CV disease or risk factors had a higher absolute incidence of excess serious CV thrombotic events, due to their increased baseline rate.
+Some observational studies found that this increased risk of serious CV thrombotic events began as early as the first weeks of treatment.
+The increase in CV thrombotic risk has been observed most consistently at higher doses.
 
-There is no consistent evidence that concurrent use of aspirin mitigates the increased risk of serious cardiovascular thrombotic events associated with NSAID use.
-The concurrent use of aspirin and an NSAID does increase the risk of serious gastrointestinal events [see Warnings and Precautions (5.2)].
+To minimize the potential risk for an adverse CV event in NSAID-treated patients, use the lowest effective dose for the shortest duration possible.
+Physicians and patients should remain alert for the development of such events, throughout the entire treatment course, even in the absence of previous CV symptoms.
+Patients should be informed about the symptoms of serious CV events and the steps to take if they occur.
+
+There is no consistent evidence that concurrent use of aspirin mitigates the increased risk of serious CV thrombotic events associated with NSAID use.
+The concurrent use of aspirin and an NSAID, such as naproxen, increases the risk of serious gastrointestinal (GI) events [see Warnings and Precautions (5.2)].
+
+Status Post Coronary Artery Bypass Graft (CABG) Surgery
+
+Two large, controlled clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10–14 days following CABG surgery found an increased incidence of myocardial infarction and stroke.
+NSAIDs are contraindicated in the setting of CABG [see Contraindications (4)].
+
+Post-MI Patients
+
+Observational studies conducted in the Danish National Registry have demonstrated that patients treated with NSAIDs in the post-MI period were at increased risk of reinfarction, CV-related death, and all-cause mortality beginning in the first week of treatment.
+In this same cohort, the incidence of death in the first year post-MI was 20 per 100 person years in NSAID-treated patients compared to 12 per 100 person years in non-NSAID exposed patients.
+Although the absolute rate of death declined somewhat after the first year post-MI, the increased relative risk of death in NSAID users persisted over at least the next four years of follow-up.
 
 Perform a cardiovascular evaluation in patients who have multiple cardiovascular risk factors (e.g., increased age, diabetes, hypertension, smoking, obesity, strong family history of CAD) prior to receiving TREXIMET.
 If there is evidence of CAD or coronary artery vasospasm, TREXIMET is contraindicated.
@@ -28,13 +45,9 @@ For such patients, consider periodic cardiovascular evaluation in intermittent l
 Physicians and patients should remain alert for the development of cardiovascular events, even in the absence of previous cardiovascular symptoms.
 Patients should be informed about the signs and/or symptoms of serious cardiovascular events and the steps to take if they occur.
 
-Premarketing Experience with TREXIMET
-
-Among 3,302 adult patients with migraine who received TREXIMET in premarketing controlled and uncontrolled clinical trials, a 47-year-old female with cardiac risk factors in an open-label 12-month safety trial experienced signs and symptoms of acute coronary syndrome approximately 2 hours after receiving TREXIMET.
-
 ## 5.2 Gastrointestinal Bleeding, Ulceration, and Perforation
 
-NSAIDs, including naproxen, a component of TREXIMET cause serious gastrointestinal adverse events including inflammation, bleeding, ulceration, and perforation of the stomach, small intestine, or large intestine, which can be fatal.
+NSAIDs, including naproxen, a component of TREXIMET, cause serious gastrointestinal adverse events including inflammation, bleeding, ulceration, and perforation of the stomach, small intestine, or large intestine, which can be fatal.
 These serious adverse events can occur at any time, with or without warning symptoms, in patients treated with NSAIDs.
 Only 1 in 5 patients who develop a serious upper gastrointestinal adverse event on NSAID therapy is symptomatic.
 Upper gastrointestinal ulcers, gross bleeding, or perforation caused by NSAIDs appear to occur in approximately 1% of patients treated daily for 3 to 6 months and in about 2% to 4% of patients treated for 1 year.
@@ -42,15 +55,22 @@ However, even short-term therapy is not without risk.
 
 Among 3,302 adult patients with migraine who received TREXIMET in controlled and uncontrolled clinical trials, 1 patient experienced a recurrence of gastric ulcer after taking 8 doses over 3 weeks, and 1 patient developed a gastric ulcer after treating an average of 8 attacks per month over 7 months.
 
-TREXIMET should be prescribed with extreme caution in those with a prior history of ulcer disease or gastrointestinal bleeding.
-Patients with a prior history of peptic ulcer disease and/or gastrointestinal bleeding who use NSAIDs have a greater than 10-fold increased risk for developing gastrointestinal bleeding compared with patients with neither of these risk factors.
-Other factors that increase the risk for gastrointestinal bleeding in patients treated with NSAIDs include concomitant use of oral corticosteroids or anticoagulants or antiplatelets (including low-dose aspirin), longer duration of NSAID therapy, smoking, use of alcohol, older age, and poor general health status.
-Most postmarketing reports of fatal gastrointestinal events occurred in elderly or debilitated patients, and therefore special care should be taken in treating this population.
+Risk Factors for GI Bleeding, Ulceration, and Perforation
 
-To minimize the potential risk for an adverse gastrointestinal event in NSAID-treated patients, the lowest effective dose should be used for the shortest possible duration.
-Patients and physicians should remain alert for signs and symptoms of gastrointestinal ulceration and bleeding during NSAID therapy and promptly initiate additional evaluation and treatment if a serious gastrointestinal adverse event is suspected.
-This should include discontinuation of the NSAID until a serious gastrointestinal adverse event is ruled out.
-For high-risk patients, alternate therapies that do not involve NSAIDs should be considered.
+Patients with a prior history of peptic ulcer disease and/or gastrointestinal bleeding who use NSAIDs have a greater than 10-fold increased risk for developing gastrointestinal bleeding compared with patients with neither of these risk factors.
+Other factors that increase the risk for gastrointestinal bleeding in patients treated with NSAIDs include longer duration of NSAID therapy; concomitant use of oral corticosteroids, aspirin, anticoagulants, or selective serotonin reuptake inhibitors (SSRIs); smoking; use of alcohol; older age; and poor general health status.
+Most postmarketing reports of fatal gastrointestinal events occurred in elderly or debilitated patients, and therefore special care should be taken in treating this population.
+Additionally, patients with advanced liver disease and/or coagulopathy are at increased risk for GI bleeding.
+
+Strategies to Minimize the GI Risks in NSAID-treated patients:
+
+- Use the lowest effective dosage for the shortest possible duration.
+- Avoid administration of more than one NSAID at a time.
+- Avoid use in patients at higher risk unless benefits are expected to outweigh the increased risk of bleeding.
+  For high risk patients, as well as those with active GI bleeding, consider alternate therapies other than NSAIDs.
+- Remain alert for signs and symptoms of GI ulceration and bleeding during NSAID therapy.
+- If a serious GI adverse event is suspected, promptly initiate evaluation and treatment, and discontinue TREXIMET until a serious GI adverse event is ruled out.
+- In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, monitor patients more closely for evidence of GI bleeding [see Drug Interactions (7)].
 
 ## 5.3 Arrhythmias
 
@@ -76,101 +96,132 @@ TREXIMET is contraindicated in patients with a history of stroke or TIA [see Con
 
 ## 5.6 Other Vasospasm Reactions
 
-Sumatriptan may cause non-coronary vasospastic reactions, such as peripheral vascular ischemia, gastrointestinal vascular ischemia and infarction (presenting with abdominal pain and bloody diarrhea), splenic infarction, and Raynaud′s syndrome.
+Sumatriptan may cause non-coronary vasospastic reactions, such as peripheral vascular ischemia, gastrointestinal vascular ischemia and infarction (presenting with abdominal pain and bloody diarrhea), splenic infarction, and Raynaud's syndrome.
 In patients who experience symptoms or signs suggestive of non-coronary vasospasm reaction following the use of any 5-HT1 agonist, rule out a vasospastic reaction before receiving additional TREXIMET.
 
 Reports of transient and permanent blindness and significant partial vision loss have been reported with the use of 5-HT1 agonists.
 Since visual disorders may be part of a migraine attack, a causal relationship between these events and the use of 5-HT1 agonists have not been clearly established.
 
-## 5.7 Hypertension
-
-Significant elevation in blood pressure, including hypertensive crisis with acute impairment of organ systems, has been reported on rare occasions in patients treated with 5-HT1 agonists, including patients without a history of hypertension.
-
-NSAIDs, including naproxen, a component of TREXIMET, can lead to onset of new hypertension or worsening of preexisting hypertension, either of which may contribute to the increased incidence of cardiovascular events.
-Patients taking thiazides or loop diuretics may have impaired response to these therapies when taking NSAIDs.
-
-Monitor blood pressure in patients treated with TREXIMET.
-TREXIMET is contraindicated in patients with uncontrolled hypertension [see Contraindications (4)].
-
-## 5.8 Heart Failure and Edema
-
-Fluid retention, edema, and peripheral edema have been observed in some patients taking NSAIDs.
-Since each TREXIMET 85/500 mg tablet contains approximately 60 mg of sodium and each TREXIMET 10/60 mg tablet contains approximately 20 mg of sodium, this should be considered in patients whose overall intake of sodium must be severely restricted.
-TREXIMET should be used with caution in patients with fluid retention or heart failure.
-
-## 5.9 Medication Overuse Headache
-
-Overuse of acute migraine drugs (e.g., ergotamine, triptans, opioids, or a combination of these drugs for 10 or more days per month) may lead to exacerbation of headache (medication overuse headache).
-Medication overuse headache may present as migraine-like daily headaches, or as a marked increase in frequency of migraine attacks.
-Detoxification of patients, including withdrawal of the overused drugs, and treatment of withdrawal symptoms (which often includes a transient worsening of headache) may be necessary.
-
-## 5.10 Serotonin Syndrome
-
-Serotonin syndrome may occur with TREXIMET, particularly during coadministration with selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), and MAO inhibitors [see Drug Interactions (7.6)].
-Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination), and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
-The onset of symptoms usually occurs within minutes to hours of receiving a new or a greater dose of a serotonergic medication.
-Discontinue TREXIMET if serotonin syndrome is suspected.
-
-## 5.11 Renal Toxicity
-
-Long-term administration of NSAIDs has resulted in renal papillary necrosis and other renal injury.
-Renal toxicity has also been seen in patients in whom renal prostaglandins have a compensatory role in the maintenance of renal perfusion.
-In these patients administration of an NSAID may cause a dose-dependent reduction in prostaglandin formation and, secondarily, in renal blood flow, which may precipitate overt renal decompensation.
-Patients at greatest risk of this reaction are those with impaired renal function, hypovolemia, heart failure, liver dysfunction, salt depletion, those taking diuretics and angiotensin-converting enzyme (ACE) inhibitors, and the elderly.
-Discontinuation of NSAID therapy is usually followed by recovery to the pretreatment state.
-
-TREXIMET should be discontinued if clinical signs and symptoms consistent with renal disease develop or if systemic manifestations occur.
-
-TREXIMET is not recommended for use in patients with severe renal impairment (creatinine clearance [CrCl] <30 mL/min) [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
-Monitor renal function in patients with mild (CrCl = 60 to 89 mL/min) or moderate (CrCl = 30 to 59 mL/min) renal impairment, preexisting kidney disease, or dehydration.
-
-## 5.12 Anaphylactic Reactions
-
-Anaphylactic reactions may occur in patients without known prior exposure to either component of TREXIMET.
-Such reactions can be life-threatening or fatal.
-In general, anaphylactic reactions to drugs are more likely to occur in individuals with a history of sensitivity to multiple allergens.
-TREXIMET is contraindicated in patients with a history of hypersensitivity reaction to sumatriptan, naproxen, or any other component of TREXIMET [see Contraindications (4)].
-
-TREXIMET should not be given to patients with the aspirin triad.
-This symptom complex typically occurs in patients with asthma who experience rhinitis with or without nasal polyps, or who exhibit severe, potentially fatal bronchospasm after taking aspirin or other NSAIDs [see Contraindications (4)].
-
-## 5.13 Serious Skin Reactions
-
-NSAID-containing products can cause serious adverse events such as exfoliative dermatitis, Stevens-Johnson syndrome, and toxic epidermal necrolysis, which can be fatal.
-These serious events may occur without warning.
-Patients should be informed about the signs and symptoms of serious skin manifestations and use of the drug should be discontinued at the first appearance of skin rash or any other sign of hypersensitivity.
-
-## 5.14 Pregnancy
-
-TREXIMET should not be used during the third trimester of pregnancy because NSAID-containing products have been shown to cause premature closure of the ductus arteriosus [see Contraindications (4), Use in Specific Populations (8.1)].
-
-## 5.15 Hepatotoxicity
+## 5.7 Hepatotoxicity
 
 Borderline elevations of 1 or more liver tests may occur in up to 15% of patients who take NSAIDs including naproxen, a component of TREXIMET.
 Hepatic abnormalities may be the result of hypersensitivity rather than direct toxicity.
 These abnormalities may progress, may remain essentially unchanged, or may be transient with continued therapy.
 Notable (3 times the upper limit of normal) elevations of SGPT (ALT) or SGOT (AST) have been reported in approximately 1% of patients in clinical trials with NSAIDs.
-In addition, cases of severe hepatic reactions, including jaundice and fatal fulminant hepatitis, liver necrosis, and hepatic failure, some of them with fatal outcomes, have been reported with NSAIDs.
+In addition, rare, sometimes fatal cases of severe hepatic injury, including jaundice and fatal fulminant hepatitis, liver necrosis, and hepatic failure have been reported with NSAIDs.
 
 TREXIMET is contraindicated in patients with severe hepatic impairment [see Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
 A patient with symptoms and/or signs suggesting liver dysfunction, or in whom an abnormal liver test has occurred, should be evaluated for evidence of the development of a more severe hepatic reaction while on therapy with TREXIMET.
 TREXIMET should be discontinued if clinical signs and symptoms consistent with liver disease develop, if systemic manifestations occur (e.g., eosinophilia, rash), or if abnormal liver tests persist or worsen.
 
+Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, diarrhea, pruritus, jaundice, right upper quadrant tenderness, and "flulike" symptoms).
+If clinical signs and symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, etc.), discontinue TREXIMET immediately, and perform a clinical evaluation of the patient.
+
+## 5.8 Hypertension
+
+Significant elevation in blood pressure, including hypertensive crisis with acute impairment of organ systems, has been reported on rare occasions in patients treated with 5-HT1 agonists, including sumatriptan, a component of TREXIMET.
+This occurrence has included patients without a history of hypertension.
+
+NSAIDs, including naproxen, a component of TREXIMET, can also lead to onset of new hypertension or worsening of preexisting hypertension, either of which may contribute to the increased incidence of cardiovascular events.
+Patients taking angiotensin converting enzyme (ACE) inhibitors, angiotensin receptor blockers (ARBs), beta-blockers, thiazide diuretics, or loop diuretics may have impaired response to these therapies when taking NSAIDs [see Drug Interactions (7)].
+
+Monitor blood pressure in patients treated with TREXIMET.
+TREXIMET is contraindicated in patients with uncontrolled hypertension [see Contraindications (4)].
+
+## 5.9 Heart Failure and Edema
+
+The Coxib and traditional NSAID Trialists' Collaboration meta-analysis of randomized controlled trials demonstrated an approximately two-fold increase in hospitalizations for heart failure in COX-2 selective-treated patients and nonselective NSAID-treated patients compared to placebo-treated patients.
+In a Danish National Registry study of patients with heart failure, NSAID use increased the risk of MI, hospitalization for heart failure, and death.
+
+Additionally, fluid retention and edema have been observed in some patients treated with NSAIDs.
+Use of naproxen may blunt the CV effects of several therapeutic agents used to treat these medical conditions (e.g., diuretics, ACE inhibitors, or angiotensin receptor blockers [ARBs]) [see Drug Interactions (7)].
+
+Avoid the use of TREXIMET in patients with severe heart failure unless the benefits are expected to outweigh the risk of worsening heart failure.
+If TREXIMET is used in patients with severe heart failure, monitor patients for signs of worsening heart failure.
+
+Since each TREXIMET 85/500 mg tablet contains approximately 60 mg of sodium and each TREXIMET 10/60 mg tablet contains approximately 20 mg of sodium, this should be considered in patients whose overall intake of sodium must be severely restricted.
+
+## 5.10 Medication Overuse Headache
+
+Overuse of acute migraine drugs (e.g., ergotamine, triptans, opioids, or a combination of these drugs for 10 or more days per month) may lead to exacerbation of headache (medication overuse headache).
+Medication overuse headache may present as migraine-like daily headaches, or as a marked increase in frequency of migraine attacks.
+Detoxification of patients, including withdrawal of the overused drugs, and treatment of withdrawal symptoms (which often includes a transient worsening of headache) may be necessary.
+
+## 5.11 Serotonin Syndrome
+
+Serotonin syndrome may occur with TREXIMET, particularly during coadministration with selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), and MAO inhibitors [see Contraindications (4) and Drug Interactions (7.1)].
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination), and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+The onset of symptoms usually occurs within minutes to hours of receiving a new or a greater dose of a serotonergic medication.
+Discontinue TREXIMET if serotonin syndrome is suspected.
+
+## 5.12 Renal Toxicity and Hyperkalemia
+
+Renal Toxicity
+
+Long-term administration of NSAIDs has resulted in renal papillary necrosis and other renal injury.
+Renal toxicity has also been seen in patients in whom renal prostaglandins have a compensatory role in the maintenance of renal perfusion.
+In these patients administration of an NSAID may cause a dose-dependent reduction in prostaglandin formation and, secondarily, in renal blood flow, which may precipitate overt renal decompensation.
+Patients at greatest risk of this reaction are those with impaired renal function, dehydration, hypovolemia, heart failure, liver dysfunction, salt depletion, those taking diuretics and angiotensin-converting enzyme (ACE) inhibitors or ARBs, and the elderly.
+Discontinuation of NSAID therapy is usually followed by recovery to the pretreatment state.
+
+TREXIMET should be discontinued if clinical signs and symptoms consistent with renal disease develop or if systemic manifestations occur.
+
+TREXIMET is not recommended for use in patients with severe renal impairment (creatinine clearance [CrCl] <30 mL/min) unless the benefits are expected to outweigh the risk of worsening renal function [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
+If TREXIMET is used in patients with advanced renal disease, monitor patients for signs of worsening renal function.
+Monitor renal function in patients with mild (CrCl = 60 to 89 mL/min) or moderate (CrCl = 30 to 59 mL/min) renal impairment, preexisting kidney disease, or dehydration.
+
+The renal effects of TREXIMET may hasten the progression of renal dysfunction in patients with pre-existing renal disease.
+
+Correct volume status in dehydrated or hypovolemic patients prior to initiating TREXIMET.
+Monitor renal function in patients with renal or hepatic impairment, heart failure, dehydration, or hypovolemia during use of TREXIMET [see Drug Interactions (7)].
+Avoid the use of TREXIMET in patients with advanced renal disease unless the benefits are expected to outweigh the risk of worsening renal function.
+If TREXIMET is used in patients with advanced renal disease, monitor patients for signs of worsening renal function.
+
+Hyperkalemia
+
+Increases in serum potassium concentration, including hyperkalemia, have been reported with the use of NSAIDs, even in some patients without renal impairment.
+In patients with normal renal function, these effects have been attributed to a hyporeninemic-hypoaldosteronism state.
+
+## 5.13 Anaphylactic Reactions
+
+Anaphylactic reactions may occur in patients without known prior exposure to either component of TREXIMET.
+Such reactions can be life-threatening or fatal.
+In general, anaphylactic reactions to drugs are more likely to occur in individuals with a history of sensitivity to multiple allergens although anaphylactic reactions with naproxen have occurred in patient without known hypersensitivity to naproxen or to patients with aspirin sensitive asthma [see Contraindications (4) and Warnings and Precautions (5.17)].
+TREXIMET should not be given to patients with the aspirin triad.
+This symptom complex typically occurs in patients with asthma who experience rhinitis with or without nasal polyps, or who exhibit severe, potentially fatal bronchospasm after taking aspirin or other NSAIDs [see Contraindications (4)].
+
+TREXIMET is contraindicated in patients with a history of hypersensitivity reaction to sumatriptan, naproxen, or any other component of TREXIMET.
+Naproxen has been associated with anaphylactic reactions in patients without known hypersensitivity to naproxen and in patients with aspirin-sensitive asthma [see Contraindications (4) and Warnings and Precautions (5.17)].
+Seek emergency help if an anaphylactic reaction occurs.
+
+## 5.14 Serious Skin Reactions
+
+NSAID-containing products can cause serious skin adverse reactions such as exfoliative dermatitis, Stevens-Johnson syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
+These serious events may occur without warning.
+Inform patients about the signs and symptoms of serious skin reactions and to discontinue the use of TREXIMET at the first appearance of skin rash or any other sign of hypersensitivity.
+TREXIMET is contraindicated in patients with previous serious skin reactions to NSAIDs [see Contraindications (4)].
+
+## 5.15 Premature Closure of the Ductus Arteriosus
+
+TREXIMET may cause premature closure of the ductus arteriosus.
+Avoid use of NSAIDs, including TREXIMET, in pregnant women starting at 30 weeks of gestation (third trimester) [see Contraindications (4), Use in Specific Populations (8.1)].
+
 ## 5.16 Hematologic Toxicity
 
-Anemia is sometimes seen in patients receiving NSAIDs.
+Anemia has occurred in patients receiving NSAIDs.
 This may be due to fluid retention, occult or gross gastrointestinal blood loss, or an incompletely described effect upon erythropoiesis.
-Patients on long-term treatment with NSAIDs, including TREXIMET, should have their hemoglobin or hematocrit checked if they exhibit any signs or symptoms of anemia.
+If a patient treated with TREXIMET has signs or symptoms of anemia, monitor hemoglobin or hematocrit.
 
-NSAID-containing products inhibit platelet aggregation and have been shown to prolong bleeding time in some patients.
-Unlike aspirin, their effect on platelet function is quantitatively less, of shorter duration, and reversible.
-Patients receiving TREXIMET who may be adversely affected by alterations in platelet function, such as those with coagulation disorders or patients receiving anticoagulants, should be carefully monitored.
+NSAIDs, including TREXIMET, may increase the risk of bleeding events.
+Co-morbid conditions such as coagulation disorders or concomitant use of warfarin, other anticoagulants, antiplatelet agents (e.g., aspirin), serotonin reuptake inhibitors (SSRIs), and serotonin norepinephrine reuptake inhibitors (SNRIs) may increase this risk.
+Monitor these patients for signs of bleeding [see Drug Interactions (7)].
 
 ## 5.17 Exacerbation of Asthma Related to Aspirin Sensitivity
 
-Patients with asthma may have aspirin-sensitive asthma.
-The use of aspirin in patients with aspirin-sensitive asthma has been associated with severe bronchospasm that can be fatal.
-Since cross reactivity, including bronchospasm, between aspirin and other NSAIDs has been reported in such aspirin-sensitive patients, TREXIMET should not be administered to patients with this form of aspirin sensitivity and should be used with caution in patients with preexisting asthma [see Contraindications (4), Warnings and Precautions (5.12)].
+A subpopulation of patients with asthma may have aspirin-sensitive asthma which may include chronic rhinosinusitis complicated by nasal polyps; severe, potentially fatal bronchospasm; and/or intolerance to aspirin and other NSAIDs.
+Because cross-reactivity between aspirin and other NSAIDs has been reported in such aspirin-sensitive patients, TREXIMET is contraindicated in patients with this form of aspirin sensitivity and should be used with caution in patients with preexisting asthma [see Contraindications (4)].
+
+When TREXIMET is used in patients with preexisting asthma (without known aspirin sensitivity), monitor patients for changes in the signs and symptoms of asthma.
 
 ## 5.18 Seizures
 
@@ -178,3 +229,11 @@ Seizures have been reported following administration of sumatriptan.
 Some have occurred in patients with either a history of seizures or concurrent conditions predisposing to seizures.
 There are also reports in patients where no such predisposing factors are apparent.
 TREXIMET should be used with caution in patients with a history of epilepsy or conditions associated with a lowered seizure threshold.
+
+## 5.19 Masking of Inflammation and Fever
+
+The pharmacological activity of TREXIMET in reducing inflammation, and possibly fever, may diminish the utility of diagnostic signs in detecting infections.
+
+## 5.20 Laboratory Monitoring
+
+Because serious GI bleeding, hepatotoxicity, and renal injury can occur without warning symptoms or signs, consider monitoring patients on long-term NSAID treatment with a CBC and a chemistry profile periodically [see Warnings and Precautions (5.2, 5.7, 5.12)].

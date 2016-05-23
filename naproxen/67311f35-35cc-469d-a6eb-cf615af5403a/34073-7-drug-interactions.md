@@ -1,70 +1,67 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Ergot-Containing Drugs
+## 7.1 Clinically Significant Drug Interactions with TREXIMET
 
-Ergot-containing drugs have been reported to cause prolonged vasospastic reactions.
-Because these effects may be additive, use of ergotamine-containing or ergot-type medications (like dihydroergotamine or methysergide) and TREXIMET within 24 hours of each other is contraindicated.
+See Table 3 for clinically significant drug interactions with NSAIDs or Sumatriptan
 
-## 7.2 Monoamine Oxidase-A Inhibitors
+Table 3.
+Clinically Significant Drug Interactions with naproxen or sumatriptan
 
-MAO-A inhibitors increase systemic exposure of orally administered sumatriptan by 7-fold.
-Therefore, the use of TREXIMET in patients receiving MAO-A inhibitors is contraindicated.
+| Ergot-Containing Drugs |  |
+| --- | --- |
+| Clinical Impact: | Ergot-containing drugs have been reported to cause prolonged vasospastic reactions. |
+| Intervention: | Because these effects may be additive, coadministration of TREXIMET and ergotamine-containing or ergot-type medications (like dihydroergotamine or methysergide) within 24 hours of each other is contraindicated. |
+| Monoamine Oxidase-A Inhibitors |  |
+| Clinical Impact: | MAO-A inhibitors increase systemic exposure of orally administered sumatriptan by 7-fold. |
+| Intervention: | The use of TREXIMET in patients receiving MAO-A inhibitors is contraindicated. |
+| Other 5-HT1 Agonists |  |
+| Clinical Impact: | 5-HT1 agonist drugs can cause vasospastic effects. |
+| Intervention: | Because these effects may be additive, coadministration of TREXIMET and other 5 HT1 agonists (e.g., triptans) within 24 hours of each other is contraindicated. |
+| Drugs That Interfere with Hemostasis |  |
+| Clinical Impact: | Naproxen and anticoagulants such as warfarin have a synergistic effect on bleeding. The concomitant use of naproxen and anticoagulants have an increased risk of serious bleeding compared to the use of either drug alone.Serotonin release by platelets plays an important role in hemostasis. Case-control and cohort epidemiological studies showed that concomitant use of drugs that interfere with serotonin reuptake and an NSAID may potentiate the risk of bleeding more than an NSAID alone. |
+| Intervention: | Monitor patients with concomitant use of TREXIMET with anticoagulants (e.g., warfarin), antiplatelet agents (e.g., aspirin), selective serotonin reuptake inhibitors (SSRIs), and serotonin norepinephrine reuptake inhibitors (SNRIs) for signs of bleeding [see Warnings and Precautions (5.16)]. |
+| Aspirin |  |
+| Clinical Impact: | Controlled clinical studies showed that the concomitant use of NSAIDs and analgesic doses of aspirin does not produce any greater therapeutic effect than the use of NSAIDs alone. In a clinical study, the concomitant use of an NSAID and aspirin was associated with a significantly increased incidence of GI adverse reactions as compared to use of the NSAID alone [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)]. |
+| Intervention: | Concomitant use of TREXIMET and analgesic doses of aspirin is not generally recommended because of the increased risk of bleeding [see Warnings and Precautions (5.16)]. |
+| Selective Serotonin Reuptake Inhibitors/Serotonin Norepinephrine Reuptake Inhibitors and Serotonin Syndrome |  |
+| Clinical Impact: | Cases of serotonin syndrome have been reported during coadministration of triptans and SSRIs, SNRIs, TCAs, and MAO inhibitors [see Warnings and Precautions (5.11)]. |
+| Intervention: | Discontinue TREXIMET if serotonin syndrome is suspected. |
+| ACE Inhibitors, Angiotensin Receptor Blockers, and Beta-blockers |  |
+| Clinical Impact: | NSAIDs may diminish the antihypertensive effect of angiotensin converting enzyme (ACE) inhibitors, angiotensin receptor blockers (ARBs), or beta-blockers (including propranolol).In patients who are elderly, volume-depleted (including those on diuretic therapy), or have renal impairment, co-administration of an NSAID with ACE inhibitors or ARBs may result in deterioration of renal function, including possible acute renal failure. These effects are usually reversible. |
+| Intervention: | During concomitant use of TREXIMET and ACE-inhibitors, ARBs, or beta-blockers, monitor blood pressure to ensure that the desired blood pressure is obtained [see Warnings and Precautions (5.8)].During concomitant use of TREXIMET and ACE-inhibitors or ARBs in patients who are elderly, volume-depleted, or have impaired renal function, monitor for signs of worsening renal function [see Warnings and Precautions (5.8)]. |
+| Diuretics |  |
+| Clinical Impact: | Clinical studies, as well as post-marketing observations, showed that NSAIDs reduced the natriuretic effect of loop diuretics (e.g., furosemide) and thiazide diuretics in some patients. This effect has been attributed to the NSAID inhibition of renal prostaglandin synthesis. |
+| Intervention: | During concomitant use of TREXIMET with diuretics, observe patients for signs of worsening renal function, in addition to assuring diuretic efficacy including antihypertensive effects [see Warnings and Precautions (5.8, 5.12)]. |
+| Digoxin |  |
+| Clinical Impact: | The concomitant use of naproxen with digoxin has been reported to increase the serum concentration and prolong the half-life of digoxin. |
+| Intervention: | During concomitant use of TREXIMET and digoxin, monitor serum digoxin levels. |
+| Lithium |  |
+| Clinical Impact: | NSAIDs have produced elevations in plasma lithium levels and reductions in renal lithium clearance. The mean minimum lithium concentration increased 15%, and the renal clearance decreased by approximately 20%. This effect has been attributed to NSAID inhibition of renal prostaglandin synthesis. |
+| Intervention: | During concomitant use of TREXIMET and lithium, monitor patients for signs of lithium toxicity. |
+| Methotrexate |  |
+| Clinical Impact: | Concomitant administration of some NSAIDs with high-dose methotrexate therapy has been reported to elevate and prolong serum methotrexate levels, resulting in deaths from severe hematologic and gastrointestinal toxicity. Concomitant use of NSAIDs and methotrexate may increase the risk for methotrexate toxicity (e.g., neutropenia, thrombocytopenia, renal dysfunction). |
+| Intervention: | During concomitant use of TREXIMET and methotrexate, monitor patients for methotrexate toxicity. |
+| Cyclosporine |  |
+| Clinical Impact: | Concomitant use of NSAIDs and cyclosporine may increase cyclosporine's nephrotoxicity. |
+| Intervention: | During concomitant use of TREXIMET and cyclosporine, monitor patients for signs of worsening renal function. |
+| NSAIDs and Salicylates |  |
+| Clinical Impact: | Concomitant use of naproxen with other NSAIDs or salicylates (e.g., diflunisal, salsalate) increases the risk of GI toxicity, with little or no increase in efficacy [see Warnings and Precautions (5.2)]. |
+| Intervention: | The concomitant use of naproxen with other NSAIDs or salicylates is not recommended. |
+| Pemetrexed |  |
+| Clinical Impact: | Concomitant use of NSAIDs and pemetrexed may increase the risk of pemetrexed-associated myelosuppression, renal, and GI toxicity (see the pemetrexed prescribing information). |
+| Intervention: | During concomitant use of TREXIMET and pemetrexed, in patients with renal impairment whose creatinine clearance ranges from 45 to 79 mL/min, monitor for myelosuppression, renal and GI toxicity. NSAIDs with short elimination half-lives (e.g., diclofenac, indomethacin) should be avoided for a period of two days before, the day of, and two days following administration of pemetrexed. In the absence of data regarding potential interaction between pemetrexed and NSAIDs with longer half-lives (e.g., meloxicam, nabumetone), patients taking these NSAIDs should interrupt dosing for at least five days before, the day of, and two days following pemetrexed administration. |
+| Probenecid |  |
+| Clinical Impact: | Probenecid given concurrently increases naproxen anion plasma levels and extends its plasma half-life significantly. The clinical significance of this is unknown. |
+| Intervention: | Reduce the frequency of administration of Treximet when given concurrently with probenecid. |
 
-## 7.3 Other 5-HT1 Agonists
+## 7.2 Drug/Laboratory Test Interactions
 
-Because their vasospastic effects may be additive, coadministration of TREXIMET and other 5-HT1 agonists (e.g., triptans) within 24 hours of each other is contraindicated.
-
-## 7.4 Methotrexate
-
-Naproxen sodium and other NSAIDs have been reported to reduce the tubular secretion of methotrexate in an animal model, possibly increasing the toxicity of methotrexate.
-Concomitant administration of some NSAIDs with high-dose methotrexate therapy has been reported to elevate and prolong serum methotrexate levels, resulting in deaths from severe hematologic and gastrointestinal toxicity.
-During concomitant use of TREXIMET and methotrexate, monitor patients for methotrexate toxicity.
-
-## 7.5 Aspirin
-
-When naproxen is administered with aspirin (>1 gram/day), its protein binding is reduced, although the clearance of free naproxen is not altered.
-Concomitant administration of TREXIMET and aspirin is not generally recommended because of the increased risk of bleeding [see Warnings and Precautions (5.2)].
-
-## 7.6 Selective Serotonin Reuptake Inhibitors/Serotonin Norepinephrine Reuptake Inhibitors and Serotonin Syndrome
-
-Cases of serotonin syndrome have been reported during coadministration of triptans and SSRIs, SNRIs, TCAs, and MAO inhibitors [see Warnings and Precautions (5.10)].
-
-## 7.7 Angiotensin-Converting Enzyme Inhibitors
-
-NSAIDs may diminish the antihypertensive effect of angiotensin converting enzyme (ACE) inhibitors.
-The use of TREXIMET in patients who are receiving ACE inhibitors may potentiate renal disease states [see Warnings and Precautions (5.11)].
-Monitor for signs of worsening renal function during concomitant use of TREXIMET and ACE-inhibitors in patients who are elderly, volume-depleted, or have impaired renal function.
-
-## 7.8 Diuretics
-
-Clinical trials, as well as postmarketing observations, have shown that NSAIDs can reduce the natriuretic effect of furosemide and thiazides in some patients.
-This response has been attributed to inhibition of renal prostaglandin synthesis.
-During concomitant use of TREXIMET, observe patients for signs of renal failure, in addition to assuring diuretic efficacy [see Warnings and Precautions (5.11)].
-
-## 7.9 Lithium
-
-NSAIDs elevated plasma lithium levels and a reduced renal lithium clearance.
-The mean minimum lithium concentration increased 15%, and the renal clearance was decreased by approximately 20%.
-These effects have been attributed to NSAID inhibition of renal prostaglandin synthesis.
-During concomitant use of TREXIMET and lithium, monitor patients for signs of lithium toxicity.
-
-## 7.10 Probenecid
-
-Probenecid given concurrently increases naproxen anion plasma levels and extends its plasma half-life significantly.
-
-## 7.11 Propranolol and Other Beta-Blockers
-
-Propranolol 80 mg given twice daily had no significant effect on sumatriptan pharmacokinetics.
-Naproxen and other NSAIDs can reduce the antihypertensive effect of propranolol and other beta-blockers.
-
-## 7.12 Warfarin
-
-The effects of warfarin and NSAIDs on gastrointestinal bleeding are synergistic, such that patients taking both drugs have a higher risk of serious gastrointestinal bleeding than patients taking either drug alone.
-
-## 7.13 Drug/Laboratory Test Interactions
+Blood Tests
 
 Naproxen may decrease platelet aggregation and prolong bleeding time.
 This effect should be kept in mind when bleeding times are determined.
+
+Urine Tests
 
 The administration of naproxen sodium may result in increased urinary values for 17-ketogenic steroids because of an interaction between the drug and/or its metabolites with m-di-nitrobenzene used in this assay.
 Although 17-hydroxy-corticosteroid measurements (Porter-Silber test) do not appear to be artificially altered, it is suggested that therapy with naproxen be temporarily discontinued 72 hours before adrenal function tests are performed if the Porter-Silber test is to be used.

@@ -10,6 +10,8 @@ The maximum recommended dosage in a 24-hour period is 2 tablets, taken at least 
 
 The safety of treating an average of more than 5 migraine headaches in adults in a 30-day period has not been established.
 
+Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
+
 ## 2.2 Dosage in Pediatric Patients 12 to 17 Years of Age
 
 The recommended dosage for pediatric patients 12 to 17 years of age is 1 tablet of TREXIMET 10/60 mg.
@@ -18,11 +20,15 @@ The maximum recommended dosage in a 24-hour period is 1 tablet of TREXIMET 85/50
 
 The safety of treating an average of more than 2 migraine headaches in pediatric patients in a 30-day period has not been established.
 
+Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
+
 ## 2.3 Dosing in Patients with Hepatic Impairment
 
 TREXIMET is contraindicated in patients with severe hepatic impairment [see Contraindications (4), Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
 
 In patients with mild to moderate hepatic impairment, the recommended dosage in a 24-hour period is 1 tablet of TREXIMET 10/60 mg [see Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
+
+Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
 
 ## 2.4 Administration Information
 

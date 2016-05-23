@@ -13,7 +13,7 @@ The empirical formula is C14H13NaO3, representing a molecular weight of 252.23.
 Naproxen sodium is a white-to-creamy white crystalline solid, freely soluble in water at neutral pH.
 
 Each TREXIMET 85/500 mg tablet for oral administration contains 119 mg of sumatriptan succinate equivalent to 85 mg of sumatriptan and 500 mg of naproxen sodium.
-Each tablet also contains the inactive ingredients croscarmellose sodium, dextrose monohydrate, dibasic calcium phosphate, FD&C Blue No. 2, lecithin, magnesium stearate, maltodextrin, microcrystalline cellulose, povidone, sodium bicarbonate, sodium carboxymethylcellulose, talc, and titanium dioxide.
+Each tablet also contains the inactive ingredients croscarmellose sodium, dibasic calcium phosphate, FD&C Blue No. 2, hypromellose, magnesium stearate, microcrystalline cellulose, povidone, sodium bicarbonate, talc, titanium dioxide, and triacetin.
 
 Each TREXIMET 10/60 mg tablet for oral administration contains 14 mg of sumatriptan succinate equivalent to 10 mg of sumatriptan and 60 mg of naproxen sodium.
 Each tablet also contains the inactive ingredients croscarmellose sodium, dibasic calcium phosphate, FD&C Blue No. 2, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polyvinyl alcohol, povidone, sodium bicarbonate, talc, and titanium dioxide.
