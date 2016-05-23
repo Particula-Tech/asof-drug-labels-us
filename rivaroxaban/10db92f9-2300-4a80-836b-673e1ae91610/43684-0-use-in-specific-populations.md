@@ -46,13 +46,19 @@ Females of reproductive potential requiring anticoagulation should discuss pregn
 
 ## 8.7 Renal Impairment
 
-In a pharmacokinetic study, compared to healthy subjects with normal creatinine clearance, rivaroxaban exposure increased by approximately 44 to 64% in subjects with renal impairment.
+In pharmacokinetic studies, compared to healthy subjects with normal creatinine clearance, rivaroxaban exposure increased by approximately 44 to 64% in subjects with renal impairment.
 Increases in pharmacodynamic effects were also observed [see Clinical Pharmacology (12.3)].
 
 Nonvalvular Atrial Fibrillation
 
 In the ROCKET AF trial, patients with CrCl 30 to 50 mL/min were administered XARELTO 15 mg once daily resulting in serum concentrations of rivaroxaban and clinical outcomes similar to those in patients with better renal function administered XARELTO 20 mg once daily.
-Patients with CrCl 15 to 30 mL/min were not studied, but administration of XARELTO 15 mg once daily is also expected to result in serum concentrations of rivaroxaban similar to those in patients with normal renal function [see Dosage and Administration (2.3)].
+Patients with CrCl 15 to 30 mL/min were not studied, but administration of XARELTO 15 mg once daily is also expected to result in serum concentrations of rivaroxaban similar to those in patients with normal renal function [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
+
+Patients with End-Stage Renal Disease on Dialysis
+
+Clinical efficacy and safety studies with XARELTO did not enroll patients with end-stage renal disease (ESRD) on dialysis.
+In patients with ESRD maintained on intermittent hemodialysis, administration of XARELTO 15 mg once daily will result in concentrations of rivaroxaban and pharmacodynamic activity similar to those observed in the ROCKET AF study [see Clinical Pharmacology (12.2, 12.3)].
+It is not known whether these concentrations will lead to similar stroke reduction and bleeding risk in patients with ESRD on dialysis as was seen in ROCKET AF.
 
 Treatment of DVT and/or PE, and Reduction in the Risk of Recurrence of DVT and of PE
 

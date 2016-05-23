@@ -2,7 +2,7 @@
 
 ## 14.1 Stroke Prevention in Nonvalvular Atrial Fibrillation
 
-The evidence for the efficacy and safety of XARELTO was derived from ROCKET AF, a multi-national, double-blind study comparing XARELTO (at a dose of 20 mg once daily with the evening meal in patients with CrCl >50 mL/min and 15 mg once daily with the evening meal in patients with CrCl 30 to <50 mL/min) to warfarin (titrated to INR 2.0 to 3.0) to reduce the risk of stroke and non-central nervous system (CNS) systemic embolism in patients with nonvalvular atrial fibrillation (AF).
+The evidence for the efficacy and safety of XARELTO was derived from ROCKET AF, a multi-national, double-blind study comparing XARELTO (at a dose of 20 mg once daily with the evening meal in patients with CrCl >50 mL/min and 15 mg once daily with the evening meal in patients with CrCl 30 to 50 mL/min) to warfarin (titrated to INR 2.0 to 3.0) to reduce the risk of stroke and non-central nervous system (CNS) systemic embolism in patients with nonvalvular atrial fibrillation (AF).
 Patients had to have one or more of the following additional risk factors for stroke:
 
 - a prior stroke (ischemic or unknown type), transient ischemic attack (TIA) or non‑CNS systemic embolism, or
@@ -26,9 +26,9 @@ Patients randomized to warfarin had a mean percentage of time in the INR target 
 In ROCKET AF, XARELTO was demonstrated non-inferior to warfarin for the primary composite endpoint of time to first occurrence of stroke (any type) or non-CNS systemic embolism [HR (95% CI): 0.88 (0.74, 1.03)], but superiority to warfarin was not demonstrated.
 There is insufficient experience to determine how XARELTO and warfarin compare when warfarin therapy is well-controlled.
 
-Table 9 displays the overall results for the primary composite endpoint and its components.
+Table 8 displays the overall results for the primary composite endpoint and its components.
 
-Table 9: Primary Composite Endpoint Results in ROCKET AF Study (Intent-to-Treat Population)
+Table 8: Primary Composite Endpoint Results in ROCKET AF Study (Intent-to-Treat Population)
 
 | Event | N = 7081 n (%) | Event Rate (per 100 Pt-yrs) | N = 7090 n (%) | Event Rate (per 100 Pt-yrs) | Hazard Ratio (95% CI) |
 | --- | --- | --- | --- | --- | --- |
@@ -40,13 +40,13 @@ Table 9: Primary Composite Endpoint Results in ROCKET AF Study (Intent-to-Treat 
 | Unknown Stroke Type | 19 (0.3) | 0.2 | 18 (0.3) | 0.1 |  |
 | Non-CNS Systemic Embolism | 20 (0.3) | 0.2 | 27 (0.4) | 0.2 |  |
 
-Figure 3 is a plot of the time from randomization to the occurrence of the first primary endpoint event in the two treatment arms.
+Figure 4 is a plot of the time from randomization to the occurrence of the first primary endpoint event in the two treatment arms.
 
-Figure 3: Time to First Occurrence of Stroke (any type) or Non-CNS Systemic Embolism by Treatment Group (Intent-to-Treat Population)
+Figure 4: Time to First Occurrence of Stroke (any type) or Non-CNS Systemic Embolism by Treatment Group (Intent-to-Treat Population)
 
-Figure 4 shows the risk of stroke or non-CNS systemic embolism across major subgroups.
+Figure 5 shows the risk of stroke or non-CNS systemic embolism across major subgroups.
 
-| Figure 4: Risk of Stroke or Non-CNS Systemic Embolism by Baseline Characteristics in ROCKET AFData are shown for all randomized patients followed to site notification that the study would end. (Intent-to-Treat Population) |
+| Figure 5: Risk of Stroke or Non-CNS Systemic Embolism by Baseline Characteristics in ROCKET AFData are shown for all randomized patients followed to site notification that the study would end. (Intent-to-Treat Population) |
 | --- |
 
 Note: The figure above presents effects in various subgroups all of which are baseline characteristics and all of which were pre-specified (diabetic status was not pre-specified in the subgroup, but was a criterion for the CHADS2 score).
@@ -84,9 +84,9 @@ Other risk factors included previous episode of DVT/PE (19%), recent surgery or 
 In the EINSTEIN DVT and EINSTEIN PE studies, XARELTO was demonstrated to be non-inferior to enoxaparin/VKA for the primary composite endpoint of time to first occurrence of recurrent DVT or non-fatal or fatal PE [EINSTEIN DVT HR (95% CI): 0.68 (0.44, 1.04); EINSTEIN PE HR (95% CI): 1.12 (0.75, 1.68)].
 In each study the conclusion of non-inferiority was based on the upper limit of the 95% confidence interval for the hazard ratio being less than 2.0.
 
-Table 10 displays the overall results for the primary composite endpoint and its components for EINSTEIN DVT and EINSTEIN PE studies.
+Table 9 displays the overall results for the primary composite endpoint and its components for EINSTEIN DVT and EINSTEIN PE studies.
 
-Table 10: Primary Composite Endpoint ResultsFor the primary efficacy analysis, all confirmed events were considered from randomization up to the end of intended treatment duration (3, 6 or 12 months) irrespective of the actual treatment duration.
+Table 9: Primary Composite Endpoint ResultsFor the primary efficacy analysis, all confirmed events were considered from randomization up to the end of intended treatment duration (3, 6 or 12 months) irrespective of the actual treatment duration.
 If the same patient had several events, the patient may have been counted for several components. in EINSTEIN DVT and EINSTEIN PE Studies – Intent-to-Treat Population
 
 | Event | XARELTO 20 mgTreatment schedule in EINSTEIN DVT and EINSTEIN PE studies: XARELTO 15 mg twice daily for 3 weeks followed by 20 mg once daily; enoxaparin/VKA [enoxaparin: 1 mg/kg twice daily, VKA: individually titrated doses to achieve a target INR of 2.5 (range: 2.0–3.0)] | Enoxaparin/VKA | XARELTO vs. Enoxaparin/VKA Hazard Ratio (95% CI) |
@@ -106,11 +106,11 @@ If the same patient had several events, the patient may have been counted for se
 | Symptomatic recurrent PE only | 23 (1.0) | 20 (0.8) |  |
 | Symptomatic recurrent DVT only | 18 (0.7) | 17 (0.7) |  |
 
-Figures 5 and 6 are plots of the time from randomization to the occurrence of the first primary efficacy endpoint event in the two treatment groups in EINSTEIN DVT and EINSTEIN PE studies, respectively.
+Figures 6 and 7 are plots of the time from randomization to the occurrence of the first primary efficacy endpoint event in the two treatment groups in EINSTEIN DVT and EINSTEIN PE studies, respectively.
 
-Figure 5: Time to First Occurrence of the Composite of Recurrent DVT or Non-fatal or Fatal PE by Treatment Group (Intent-to-Treat Population) – EINSTEIN DVT Study
+Figure 6: Time to First Occurrence of the Composite of Recurrent DVT or Non-fatal or Fatal PE by Treatment Group (Intent-to-Treat Population) – EINSTEIN DVT Study
 
-Figure 6: Time to First Occurrence of the Composite of Recurrent DVT or Non-fatal or Fatal PE by Treatment Group (Intent-to-Treat Population) – EINSTEIN PE Study
+Figure 7: Time to First Occurrence of the Composite of Recurrent DVT or Non-fatal or Fatal PE by Treatment Group (Intent-to-Treat Population) – EINSTEIN PE Study
 
 EINSTEIN Extension Study
 
@@ -127,9 +127,9 @@ Other risk factors included previous episode of DVT/PE (16%), immobilization (14
 
 In the EINSTEIN Extension study XARELTO was demonstrated to be superior to placebo for the primary composite endpoint of time to first occurrence of recurrent DVT or non-fatal or fatal PE [HR (95% CI): 0.18 (0.09, 0.39)].
 
-Table 11 displays the overall results for the primary composite endpoint and its components.
+Table 10 displays the overall results for the primary composite endpoint and its components.
 
-Table 11: Primary Composite Endpoint ResultsFor the primary efficacy analysis, all confirmed events were considered from randomization up to the end of intended treatment duration (6 or 12 months) irrespective of the actual treatment duration. in EINSTEIN Extension Study – Intent-to-Treat Population
+Table 10: Primary Composite Endpoint ResultsFor the primary efficacy analysis, all confirmed events were considered from randomization up to the end of intended treatment duration (6 or 12 months) irrespective of the actual treatment duration. in EINSTEIN Extension Study – Intent-to-Treat Population
 
 | Event | XARELTO 20 mg N = 602 n (%) | Placebo N = 594 n (%) | XARELTO vs. Placebo Hazard Ratio (95% CI) |
 | --- | --- | --- | --- |
@@ -139,9 +139,9 @@ Table 11: Primary Composite Endpoint ResultsFor the primary efficacy analysis, a
 | Symptomatic recurrent PE | 2 (0.3) | 13 (2.2) |  |
 | Symptomatic recurrent DVT | 5 (0.8) | 31 (5.2) |  |
 
-Figure 7 is a plot of the time from randomization to the occurrence of the first primary efficacy endpoint event in the two treatment groups.
+Figure 8 is a plot of the time from randomization to the occurrence of the first primary efficacy endpoint event in the two treatment groups.
 
-Figure 7: Time to First Occurrence of the Composite of Recurrent DVT or Non-fatal or Fatal PE by Treatment Group (Intent-to-Treat Population) – EINSTEIN Extension Study
+Figure 8: Time to First Occurrence of the Composite of Recurrent DVT or Non-fatal or Fatal PE by Treatment Group (Intent-to-Treat Population) – EINSTEIN Extension Study
 
 ## 14.3 Prophylaxis of Deep Vein Thrombosis Following Hip or Knee Replacement Surgery
 
@@ -155,9 +155,9 @@ The studies excluded patients undergoing staged bilateral total hip replacement,
 In RECORD 1, the mean exposure duration (± SD) to active XARELTO and enoxaparin was 33.3 ± 7.0 and 33.6 ± 8.3 days, respectively.
 In RECORD 2, the mean exposure duration to active XARELTO and enoxaparin was 33.5 ± 6.9 and 12.4 ± 2.9 days, respectively.
 After Day 13, oral placebo was continued in the enoxaparin group for the remainder of the double-blind study duration.
-The efficacy data for RECORD 1 and 2 are provided in Table 12.
+The efficacy data for RECORD 1 and 2 are provided in Table 11.
 
-Table 12: Summary of Key Efficacy Analysis Results for Patients Undergoing Total Hip Replacement Surgery - Modified Intent-to-Treat Population
+Table 11: Summary of Key Efficacy Analysis Results for Patients Undergoing Total Hip Replacement Surgery - Modified Intent-to-Treat Population
 
 | Treatment Dosage and Duration | XARELTO 10 mg once daily | Enoxaparin 40 mg once daily | RRRRelative Risk Reduction; CI = confidence interval, p-value | XARELTO 10 mg once daily | EnoxaparinIncludes the placebo-controlled period of RECORD 2 40 mg once daily | RRR, p-value |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -181,9 +181,9 @@ Sixty-eight percent (68%) of patients were female.
 Eighty-one percent (81%) of patients were White, less than 7% were Asian, and less than 2% were Black.
 The study excluded patients with severe renal impairment defined as an estimated creatinine clearance <30 mL/min or patients with significant liver disease (hepatitis or cirrhosis).
 The mean exposure duration (± SD) to active XARELTO and enoxaparin was 11.9 ± 2.3 and 12.5 ± 3.0 days, respectively.
-The efficacy data are provided in Table 13.
+The efficacy data are provided in Table 12.
 
-Table 13: Summary of Key Efficacy Analysis Results for Patients Undergoing Total Knee Replacement Surgery - Modified Intent-to-Treat Population
+Table 12: Summary of Key Efficacy Analysis Results for Patients Undergoing Total Knee Replacement Surgery - Modified Intent-to-Treat Population
 
 | Treatment Dosage and Duration | XARELTO 10 mg once daily | Enoxaparin 40 mg once daily | RRRRelative Risk Reduction; CI = confidence interval, p-value |
 | --- | --- | --- | --- |

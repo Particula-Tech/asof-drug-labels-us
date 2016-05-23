@@ -70,7 +70,7 @@ Although a patient may have had 2 or more events, the patient is counted only on
 | Intraocular | 3 (<0.1) | 2 (<0.1) |
 | Intra-articular | 0 | 4 (<0.1) |
 | Non-fatal non-critical organ bleedingMajor bleeding which is not fatal or in a critical organ, but resulting in a decrease in Hb ≥ 2 g/dL and/or transfusion of ≥2 units of whole blood or packed red blood cells | 27 (0.7) | 37 (0.9) |
-| Decrease in Hb ≥ 2g/dL | 28 (0.7) | 42 (1.0) |
+| Decrease in Hb ≥ 2 g/dL | 28 (0.7) | 42 (1.0) |
 | Transfusion of ≥2 units of whole blood or packed red blood cells | 18 (0.4) | 25 (0.6) |
 | Clinically relevant non-major bleeding | 357 (8.6) | 357 (8.7) |
 | Any bleeding | 1169 (28.3) | 1153 (28.0) |

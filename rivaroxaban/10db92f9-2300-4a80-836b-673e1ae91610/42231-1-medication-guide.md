@@ -19,6 +19,7 @@ What is the most important information I should know about XARELTO?
   - warfarin sodium (Coumadin®, Jantoven®)
   - any medicine that contains heparin
   - clopidogrel (Plavix®)
+  - selective serotonin reuptake inhibitors (SSRIs) or serotonin norepinephrine reuptake inhibitors (SNRIs)
   - other medicines to prevent or treat blood clots
   - unexpected bleeding or bleeding that lasts a long time, such as:
     - nose bleeds that happen often
@@ -191,7 +192,7 @@ Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
 
 Licensed from: Bayer HealthCare AG 51368 Leverkusen, Germany
 
-Revised: December 2014
+Revised: May 2016
 
 © Janssen Pharmaceuticals, Inc. 2011
 

@@ -16,7 +16,7 @@ Discontinue XARELTO in patients with active pathological hemorrhage.
 The terminal elimination half-life of rivaroxaban is 5 to 9 hours in healthy subjects aged 20 to 45 years.
 
 Concomitant use of other drugs that impair hemostasis increases the risk of bleeding.
-These include aspirin, P2Y12 platelet inhibitors, other antithrombotic agents, fibrinolytic therapy, and non-steroidal anti-inflammatory drugs (NSAIDs) [see Drug Interactions (7.3)].
+These include aspirin, P2Y12 platelet inhibitors, other antithrombotic agents, fibrinolytic therapy, non-steroidal anti-inflammatory drugs (NSAIDs) [see Drug Interactions (7.3)], selective serotonin reuptake inhibitors, and serotonin norepinephrine reuptake inhibitors.
 
 Concomitant use of drugs that are combined P-gp and CYP3A4 inhibitors (e.g., ketoconazole and ritonavir) increases rivaroxaban exposure and may increase bleeding risk [see Drug Interactions (7.1)].
 
@@ -47,9 +47,8 @@ If signs or symptoms of spinal hematoma are suspected, initiate urgent diagnosis
 
 Nonvalvular Atrial Fibrillation
 
-Avoid the use of XARELTO in patients with CrCl <15 mL/min since drug exposure is increased.
-Periodically assess renal function as clinically indicated (i.e., more frequently in situations in which renal function may decline) and adjust therapy accordingly.
-Discontinue XARELTO in patients who develop acute renal failure while on XARELTO [see Use in Specific Populations (8.7)].
+Periodically assess renal function as clinically indicated (i.e., more frequently in situations in which renal function may decline) and adjust therapy accordingly [see Dosage and Administration (2.3)].
+Consider dose adjustment or discontinuation of XARELTO in patients who develop acute renal failure while on XARELTO [see Use in Specific Populations (8.7)].
 
 Treatment of Deep Vein Thrombosis (DVT), Pulmonary Embolism (PE), and Reduction in the Risk of Recurrence of DVT and of PE
 
