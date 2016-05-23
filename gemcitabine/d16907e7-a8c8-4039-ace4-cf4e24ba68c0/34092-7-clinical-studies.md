@@ -34,12 +34,12 @@ Table 12: Randomized Trial of Gemcitabine plus Carboplatin versus Carboplatin in
 | Hazard Ratio (95% CI) | 0.98 (0.78, 1.24) |  |  |  |  |
 | p-valueb | p=0.8977 |  |  |  |  |
 | Investigator Reviewed Overall Response Rate | 47.2% | 30.9% |  |  |  |
-| p-valuee | p=0.0016 |  |  |  |  |
+| p-valuec | p=0.0016 |  |  |  |  |
 | CRd PR plus PRNMe | 14.6% 32.6% | 6.2% 24.7% |  |  |  |
 | Independently Reviewed Overall Response Ratef | 46.3% | 35.6% |  |  |  |
-| p-valuee | p=0.11 |  |  |  |  |
+| p-valuec | p=0.11 |  |  |  |  |
 | CRd PR plus PRNMe | 9.1% 37.2% | 4.0% 31.7% |  |  |  |
-| a CI=confidence interval b Complete response c Partial response plus partial response, non-measurable disease d Log Rank, unadjusted e Chi Square f Independently reviewed cohort - Gemcitabine/Carboplatin (n=121), carboplatin (n=101); independent reviewers unable to measure disease detected by sonography or physical exam |  |  |  |  |  |
+| a CI=confidence interval. b Log Rank, unadjusted. c Chi Square. d CR=Complete response. e PR plus PRNM=Partial response plus partial response, non-measurable disease. f Independently reviewed cohort - Gemcitabine/Carboplatin (n=121), carboplatin (n=101); independent reviewers unable to measure disease detected by sonography or physical exam. |  |  |  |  |  |
 
 Figure 1: Kaplan-Meier Curve of Progression Free Survival in Gemcitabine plus Carboplatin versus Carboplatin in Ovarian Cancer (N=356)
 
@@ -75,8 +75,8 @@ Table 13: Randomized Trial of Gemcitabine plus Paclitaxel versus Paclitaxel in B
 | Median Survival in months (95% CI) | 18.6 (16.5, 20.7) | 15.8 (14.1, 17.3) |
 | Hazard Ratio (95% CI) | 0.86 (0.71, 1.04) |  |
 | p-value | Not Significant |  |
-| Overall Response Rate (95% CI) p-value | 40.8% (34.9, 46.7) | 22.1% (17.1, 27.2) |
-| p<0.0001 |  |  |
+| Overall Response Rate (95% CI) | 40.8% (34.9, 46.7) | 22.1% (17.1, 27.2) |
+| p-value | p<0.0001 |  |
 | a Karnofsky Performance Status. b These represent reconciliation of investigator and Independent Review Committee assessments according to a predefined algorithm. c Based on the ITT population. |  |  |
 
 Figure 2: Kaplan-Meier Curve of Time to Documented Disease Progression in Gemcitabine plus Paclitaxel versus Paclitaxel Breast Cancer Study (N=529)
@@ -91,15 +91,15 @@ A multinational, randomized trial compared gemcitabine plus cisplatin to cisplat
 Patients were randomized to receive gemcitabine 1000 mg/m2 on Days 1, 8, and 15 of a 28-day cycle with cisplatin 100 mg/m2 administered on Day 1 of each cycle or to receive cisplatin 100 mg/m2 on Day 1 of each 28-day cycle.
 The primary efficacy outcome measure was overall survival.
 A total of 522 patients were enrolled at clinical centers in Europe, the US, and Canada.
-Patient demographics and baseline characteristics (shown in Table 13) were similar between arms with the exception of histologic subtype of NSCLC, with 48% of patients on the cisplatin arm and 37% of patients on the gemcitabine plus cisplatin arm having adenocarcinoma.
-Efficacy results are presented in Table 13 and Figure 3 for overall survival.
+Patient demographics and baseline characteristics (shown in Table 14) were similar between arms with the exception of histologic subtype of NSCLC, with 48% of patients on the cisplatin arm and 37% of patients on the gemcitabine plus cisplatin arm having adenocarcinoma.
+Efficacy results are presented in Table 14 and Figure 3 for overall survival.
 
 21-Day Schedule
 
 A randomized (1:1), multicenter trial was conducted in 135 patients with Stage IIIB or IV NSCLC.
 Patients were randomized to receive gemcitabine 1250 mg/m2 on Days 1 and 8, and cisplatin 100 mg/m2 on Day 1 of a 21-day cycle or to receive etoposide 100 mg/m2 intravenously on Days 1, 2, and 3 and cisplatin 100 mg/m2 on Day 1 of a 21-day cycle.
 
-There was no significant difference in survival between the two treatment arms (Log rank p=0.18, two-sided).
+There was no significant difference in survival between the two treatment arms (Log rank p=0.18, two-sided, see Table 14).
 The median survival was 8.7 months for the gemcitabine plus cisplatin arm versus 7.0 months for the etoposide plus cisplatin arm.
 Median time to disease progression for the gemcitabine plus cisplatin arm was 5.0 months compared to 4.1 months on the etoposide plus cisplatin arm (Log rank p=0.015, two-sided).
 The objective response rate for the gemcitabine plus cisplatin arm was 33% compared to 14% on the etoposide plus cisplatin arm (Fisher’s Exact p=0.01, two-sided).
@@ -122,7 +122,7 @@ Table 14: Randomized Trials of Gemcitabine plus Cisplatin in Patients with NSCLC
 | p-valuef | p=0.009 |  | p=0.015 |  |
 | Tumor Response | 26% | 10% | 33% | 14% |
 | p-valuef | p<0.0001 |  | p=0.01 |  |
-| a 28-day schedule — Gemcitabine plus cisplatin: Gemcitabine 1000 mg/m2 on Days 1, 8, and 15 and cisplatin 100 mg/m2 on Day 1 every 28 days; Single-agent cisplatin: cisplatin 100 mg/m2 on Day 1 every 28 days. b 21-day schedule — Gemcitabine plus cisplatin: Gemcitabine 1250 mg/m2 on Days 1 and 8 and cisplatin 100 mg/m2 on Day 1 every 21 days; Etoposide plus Cisplatin: cisplatin 100 mg/m2 on Day 1 and intravenous etoposide 100 mg/m2 on Days 1, 2, and 3 every 21 days. c N/A Not applicable. d Karnofsky Performance Status. e CI=confidence intervals f p-value two-sided Fisher’s Exact test for difference in binomial proportions; log rank test for time-to-event analyses. |  |  |  |  |
+| a 28-day schedule — Gemcitabine plus cisplatin: Gemcitabine 1000 mg/m2 on Days 1, 8, and 15 and cisplatin 100 mg/m2 on Day 1 every 28 days; Single-agent cisplatin: cisplatin 100 mg/m2 on Day 1 every 28 days. b 21-day schedule — Gemcitabine plus cisplatin: Gemcitabine 1250 mg/m2 on Days 1 and 8 and cisplatin 100 mg/m2 on Day 1 every 21 days; Etoposide plus Cisplatin: cisplatin 100 mg/m2 on Day 1 and intravenous etoposide 100 mg/m2 on Days 1, 2, and 3 every 21 days. c N/A Not applicable. d Karnofsky Performance Status. e CI=confidence intervals. f p-value two-sided Fisher’s Exact test for difference in binomial proportions; log rank test for time-to-event analyses. |  |  |  |  |
 
 ## 14.4 Pancreatic Cancer
 

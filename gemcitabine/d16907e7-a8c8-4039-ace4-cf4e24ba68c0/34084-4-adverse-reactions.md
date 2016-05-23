@@ -2,14 +2,15 @@
 
 The following serious adverse reactions are discussed in greater detail in another section of the label
 
-- •Schedule-Dependent Toxicity [see Warnings and Precautions (5.1)]
+- •Schedule-dependent Toxicity [see Warnings and Precautions (5.1)]
 - •Myelosuppression [see Warnings and Precautions (5.2)]
 - •Pulmonary Toxicity and Respiratory Failure [see Warnings and Precautions (5.3)]
 - •Hemolytic Uremic Syndrome [see Warnings and Precautions (5.4)]
 - •Hepatic Toxicity [see Warnings and Precautions (5.5)]
-- •Embryo-fetal Toxicity [see Warnings and Precautions (5.6), Use in Specific Populations (8.1), and Nonclinical Toxicology (13.1)]
+- •Embryofetal Toxicity [see Warnings and Precautions (5.6), Use in Specific Populations (8.1), and Nonclinical Toxicology (13.1)]
 - •Exacerbation of Radiation Toxicity [see Warnings and Precautions (5.7)]
 - •Capillary Leak Syndrome [see Warnings and Precautions (5.8)]
+- •Posterior Reversible Encephalopathy Syndrome [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -32,7 +33,7 @@ Table 5: Selected Per-Patient Incidence of Adverse Events in Patients Receiving 
 |  | All Patientsb |  |  |
 | --- | --- | --- | --- |
 | All Grades | Grade 3 | Grade 4 |  |
-| Laboratoryc Hematologic Anemia Neutropenia Thrombocytopenia | 686324 | 7194 | 161 |
+| LaboratorycHematologic Anemia Neutropenia Thrombocytopenia | 686324 | 7194 | 161 |
 | Hepatic Increased ALT Increased AST Increased Alkaline Phosphatase Hyperbilirubinemia | 68675513 | 8672 | 222<1 |
 | Renal Proteinuria Hematuria Increased BUN Increased Creatinine | 4535168 | <1<10<1 | 0000 |
 | Non-laboratoryd Nausea and Vomiting Fever Rash Dyspnea Diarrhea Hemorrhage Infection Alopecia Stomatitis Somnolence Paresthesias | 6941302319171615111110 | 132<131<11<1<1<1<1 | 100<10<1<100<10 |
@@ -62,12 +63,12 @@ Table 6: Per-Patient Incidence of Selected Adverse Reactions from Randomized Tri
 |  | Gemcitabine plus Cisplatinb |  |  | Cisplatinc |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | All Grades | Grade 3 | Grade 4 | All Grades | Grade 3 | Grade 4 |  |  |  |  |  |
-| Laboratoryd Hematologic Anemia RBC Transfusione Neutropenia Thrombocytopenia Platelet Transfusionse Lymphopenia | 893979852175 | 22 2225 25 | 3 3525 18 | 67132013<151 | 6 33 12 | 1 11 5 |  |  |  |  |
+| LaboratorydHematologic Anemia RBC Transfusione Neutropenia Thrombocytopenia Platelet Transfusionse Lymphopenia | 893979852175 | 22 2225 25 | 3 3525 18 | 67132013<151 | 6 33 12 | 1 11 5 |  |  |  |  |
 | Hepatic Increased Transaminases Increased Alkaline Phosphatase | 22 19 | 2 1 | 1 0 | 10 13 | 1 0 | 0 0 |  |  |  |  |
-| Renal Proteinuria Hematuria Elevated Creatinine | 231538 | 004 | 00<1 | 181331 | 002 | 00<1 |  |  |  |  |
+| Renal Proteinuria Hematuria Elevated creatinine | 231538 | 004 | 00<1 | 181331 | 002 | 00<1 |  |  |  |  |
 | Other Laboratory Hyperglycemia Hypomagnesemia Hypocalcemia | 303018 | 442 | 030 | 23177 | 320 | 00<1 |  |  |  |  |
 | Non-laboratoryf Nausea Vomiting Alopecia Neuro Motor Diarrhea Neuro Sensory Infection Fever Neuro Cortical Neuro Mood Local Neuro Headache Stomatitis Hemorrhage Hypotension Rash | 93785335242318161616151414141211 | 2511112213031001110 | 21200202010000000 | 877133151318125910675473 | 201003011011000010 | <1900000000000000 |  |  |  |  |
-| a National Cancer Institute Common Toxicity Criteria (CTC) for severity grading. b N=217-253; all gemcitabine plus cisplatin patients with laboratory or non-laboratory data. Gemcitabine at 1000 mg/m2 on Days 1, 8, and 15 and cisplatin at 100 mg/m2 on Day 1 every 28 days. c N=213-248; all cisplatin patients with laboratory or non-laboratory data. Cisplatin at 100 mg/m2 on Day 1 every 28 days. d Regardless of causality. e Percent of patients receiving transfusions. Percent transfusions are not CTC-graded events. f Non-laboratory events were graded only if assessed to be possibly drug-related. |  |  |  |  |  |  |  |  |  |  |
+| a National Cancer Institute Common Toxicity Criteria (CTC) for severity grading. b N=217-253; all gemcitabine plus cisplatin patients with laboratory or non-laboratory data Gemcitabine at 1000 mg/m2 on Days 1, 8, and 15 and cisplatin at 100 mg/m2 on Day 1 every 28 days. c N=213-248; all cisplatin patients with laboratory or non-laboratory data. Cisplatin at 100 mg/m2 on Day 1 every 28 days. d Regardless of causality. e Percent of patients receiving transfusions. Percent transfusions are not CTC-graded events. f Non-laboratory events were graded only if assessed to be possibly drug-related. |  |  |  |  |  |  |  |  |  |  |
 
 Table 7 presents the incidence of selected adverse reactions, occurring in ≥10% of gemcitabine-treated patients and at a higher incidence in the gemcitabine plus cisplatin arm, reported in a randomized trial of gemcitabine plus cisplatin (n=69) administered in 21-day cycles as compared to etoposide plus cisplatin alone (n=66) in patients receiving first-line treatment for locally advanced or metastatic non-small cell lung cancer (NSCLC) [see Clinical Studies (14.3)].
 A listing of clinically significant adverse reactions is provided following the table.
@@ -84,14 +85,11 @@ Table 7: Per-Patient Incidence of Selected Adverse Reactions in Randomized Trial
 |  | Gemcitabine plus Cisplatinb |  |  | Etoposide plus Cisplatinc |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | All Grades | Grade 3 | Grade 4 | All Grades | Grade 3 | Grade 4 |  |  |  |  |  |  |  |  |  |  |  |  |
-| Laboratoryd Hematologic Anemia RBC Transfusionse Neutropenia Thrombocytopenia Platelet Transfusionse | 882988813 | 22 3639 | 0 2816 | 772187458 | 13 208 | 2 565 |  |  |  |  |  |  |  |  |  |  |  |
+| LaboratorydHematologic Anemia RBC Transfusionse Neutropenia Thrombocytopenia Platelet Transfusionse | 882988813 | 22 - 3639 - | 0 - 2816- | 772187458 | 13 - 208 - | 2 - 565 - |  |  |  |  |  |  |  |  |  |  |  |
 | Hepatic Increased ALT Increased AST Increased Alkaline Phosphatase Bilirubin | 6316 0 | 000 0 | 000 0 | 121111 0 | 000 0 | 000 0 |  |  |  |  |  |  |  |  |  |  |  |
 | Renal Proteinuria Hematuria BUN Creatinine | 122262 | 0000 | 0000 | 51042 | 0000 | 0000 |  |  |  |  |  |  |  |  |  |  |  |
-| Non-laboratoryf,g Nausea and Vomiting Fever Rash Dyspnea Diarrhea Hemorrhage Infection Alopecia Stomatitis Somnolence Paresthesias | 966101149287720338 | 3500010313400 | 40011310000 | 86333133219218316 | 1900000851222 | 70002300000 |  |  |  |  |  |  |  |  |  |  |  |
-| a Grade based on criteria from the World Health Organization (WHO). b N=67-69; all gemcitabine plus cisplatin patients with laboratory or non-laboratory data. Gemcitabine at 1250 mg/m2 on Days 1 and 8 and cisplatin at 100 mg/m2 on Day 1 every 21 days. c N=57-63; all cisplatin plus etoposide patients with laboratory or non-laboratory data. Cisplatin at 100 mg/m2 on Day 1 and intravenous etoposide at 100 mg/m2 on Days 1, 2, and 3 every 21 days. d Regardless of causality. e WHO grading scale not applicable to proportion of patients with transfusions. f Non-laboratory events were graded only if assessed to be possibly drug-related. g Pain data were not collected. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-- •Flu-like syndrome: 3% in the gemcitabine/cisplatin arm versus none in the etoposide/cisplatin arm.
-- •Edema: 12% in the gemcitabine/cisplatin arm versus 2% in the etoposide/cisplatin arm.
+| Non-laboratoryf Nausea and Vomiting Fever Rash Dyspnea Diarrhea Hemorrhage Infection Alopecia Stomatitis Somnolence Paresthesias Flu-like syndromeg Edemag | 966101149287720338 312 | 3500010313400 -- | 40011310000 -- | 86333133219218316 02 | 1900000851222 -- | 70002300000 -- |  |  |  |  |  |  |  |  |  |  |  |
+| a Grade based on criteria from the World Health Organization (WHO). b N=67-69; all gemcitabine plus cisplatin patients with laboratory or non-laboratory data. Gemcitabine at 1250 mg/m2 on Days 1 and 8 and cisplatin at 100 mg/m2 on Day 1 every 21 days. c N=57-63; all cisplatin plus etoposide patients with laboratory or non-laboratory data. Cisplatin at 100 mg/m2 on Day 1 and intravenous etoposide at 100 mg/m2 on Days 1, 2, and 3 every 21 days. d Regardless of causality. e WHO grading scale not applicable to proportion of patients with transfusions. f Non-laboratory events were graded only if assessed to be possibly drug-related. g Flu-like syndrome and edema were not graded. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Breast Cancer
 
@@ -105,12 +103,12 @@ Table 8: Per-Patient Incidence of Selected Adverse Reactions from Comparative Tr
 |  | Gemcitabine plus Paclitaxel(N=262) |  |  | Paclitaxel(N=259) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | All Grades | Grade 3 | Grade 4 | All Grades | Grade 3 | Grade 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Laboratoryb Hematologic Anemia Neutropenia Thrombocytopenia | 696926 | 6315 | 117<1 | 51317 | 34<1 | <17<1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| LaboratorybHematologic Anemia Neutropenia Thrombocytopenia | 696926 | 6315 | 117<1 | 51317 | 34<1 | <17<1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Hepatobiliary Increased ALT Increased AST | 1816 | 52 | <10 | 65 | <1<1 | 00 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Non-laboratoryc Alopecia Neuropathy-sensory Nausea Fatigue Vomiting Diarrhea Anorexia Neuropathy-motor Stomatitis/pharyngitis Fever Rash/desquamation | 9064504029201715131311 | 1451623021<1<1 | 4<10<1000<1<10<1 | 9258312815131210835 | 1932122<1<1<100 | 300<10000000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Non-laboratoryc Alopecia Neuropathy-sensory Nausea Fatigue Vomiting Diarrhea Anorexia Neuropathy-motor Stomatitis/pharyngitis Fever Rash/desquamation Febrile neutropenia | 9064504029201715131311 6 | 1451623021<1<1 5 | 4<10<1000<1<10<1 <1 | 9258312815131210835 2 | 1932122<1<1<100 1 | 300<10000000 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | a Severity grade based on National Cancer Institute Common Toxicity Criteria (CTC) Version 2.0 b Regardless of causality. c Non-laboratory events were graded only if assessed to be possibly drug-related. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-The following clinically relevant, Grade 3 or 4 adverse reactions occurred with a higher incidence in the gemcitabine plus paclitaxel arm compared with the paclitaxel arm: febrile neutropenia (5.0% versus 1.2%) and dyspnea (1.9% versus 0).
+Clinically relevant Grade 3 or 4 dyspnea occurred with a higher incidence in the gemcitabine plus paclitaxel arm compared with the paclitaxel arm (1.9% versus 0).
 
 Ovarian Cancer
 
@@ -120,12 +118,12 @@ Additional clinically significant adverse reactions, occurring in less than 10% 
 The proportion of patients with dose adjustments for carboplatin (1.8% versus 3.8%), doses of carboplatin omitted (0.2% versus 0), and discontinuing treatment for treatment-related adverse reactions (10.9% versus 9.8%), were similar between arms.
 Dose adjustment for gemcitabine occurred in 10.4% of patients and gemcitabine dose was omitted in 13.7% of patients in the gemcitabine/carboplatin arm.
 
-Table 9: Per-Patient Incidence of Adverse Reactions in Randomized Trial of Gemcitabine plus Carboplatin versus Carboplatin in Ovarian Cancer Occurring at Higher Incidence in Gemcitabine-Treated Patients [Between Arm Difference of ≥5% (All Grades) or ≥2% (Grades 3-4)]
+Table 9: Per-Patient Incidence of Adverse Reactions in Randomized Trial of Gemcitabine plus Carboplatin versus Carboplatin in Ovarian Cancera Occurring at Higher Incidence in Gemcitabine-Treated Patients [Between Arm Difference of ≥5% (All Grades) or ≥2% (Grades 3-4)]
 
 |  | Gemcitabine plus Carboplatin (N=175) |  |  | Carboplatin (N=174) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | All Grades | Grade 3 | Grade 4 | All Grades | Grade 3 | Grade 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Laboratoryb Hematologic Neutropenia Anemia Thrombocytopenia RBC Transfusionsc Platelet Transfusionsc | 90 86 78 38 9 | 42 22 30 | 29 6 5 | 58 75 57 15 3 | 11 9 10 | 1 2 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| LaboratorybHematologic Neutropenia Anemia Thrombocytopenia RBC Transfusionsc Platelet Transfusionsc | 90 86 78 38 9 | 42 22 30 | 29 6 5 | 58 75 57 15 3 | 11 9 10 | 1 2 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Non-laboratoryb Nausea Alopecia Vomiting Constipation Fatigue Diarrhea Stomatitis/pharyngitis | 69 49 46 42 40 25 22 | 6 0 6 6 3 3 <1 | 0 0 0 1 <1 0 0 | 61 17 36 37 32 14 13 | 3 0 2 3 5 <1 0 | 0 0 <1 0 0 0 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | a Grade based on Common Toxicity Criteria (CTC) Version 2.0. b Regardless of causality. c Percent of patients receiving transfusions. Transfusions are not CTC-graded events. Blood transfusions included both packed red blood cells and whole blood. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -138,12 +136,4 @@ The following clinically relevant, Grade 3 and 4 adverse reactions occurred more
 The following adverse reactions have been identified during post-approval use of gemcitabine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Cardiovascular - Congestive heart failure, myocardial infarction, Arrhythmias, supraventricular arrhythmias
-
-Vascular Disorders - Peripheral vasculitis, gangrene, and capillary leak syndrome [see Warnings and Precautions (5.9)]
-
-Skin – Cellulitis, severe skin reactions, including desquamation and bullous skin eruptions
-
-Hepatic – Hepatic failure, hepatic veno-occlusive disease
-
-Pulmonary - Interstitial pneumonitis, pulmonary fibrosis, pulmonary edema, and adult respiratory distress syndrome (ARDS)
+Cardiovascular - Congestive heart failure, myocardial infarction, arrhythmias, supraventricular arrhythmias Vascular Disorders - Peripheral vasculitis, gangrene, and capillary leak syndrome [see Warnings and Precautions (5.8)] Skin – Cellulitis, severe skin reactions, including desquamation and bullous skin eruptions Hepatic – Hepatic failure, hepatic veno-occlusive disease Pulmonary - Interstitial pneumonitis, pulmonary fibrosis, pulmonary edema, and adult respiratory distress syndrome (ARDS) Nervous System – Posterior reversible encephalopathy syndrome (PRES) [see Warnings and Precautions 5.9]

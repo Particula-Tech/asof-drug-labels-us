@@ -8,7 +8,7 @@ The half-life of Gemcitabine for Injection, USP is influenced by the length of t
 ## 5.2 Myelosuppression
 
 Myelosuppression manifested by neutropenia, thrombocytopenia, and anemia occurs with Gemcitabine as a single agent and the risks are increased when Gemcitabine is combined with other cytotoxic drugs.
-In clinical trials, Grade 3-4 neutropenia, anemia, and thrombocytopenia occurred in 25%, 8%, and 5%, respectively of patients receiving single-agent.
+In clinical trials, Grade 3-4 neutropenia, anemia, and thrombocytopenia occurred in 25%, 8%, and 5%, respectively of patients receiving single-agent Gemcitabine.
 The frequencies of Grade 3-4 neutropenia, anemia, and thrombocytopenia varied from 48% to 71%, 8 to 28%, and 5 to 55%, respectively, in patients receiving Gemcitabine in combination with another drug.
 
 ## 5.3 Pulmonary Toxicity and Respiratory Failure
@@ -20,7 +20,7 @@ Discontinue gemcitabine in patients who develop unexplained dyspnea, with or wit
 
 ## 5.4 Hemolytic Uremic Syndrome
 
-Hemolytic Uremic Syndrome to include fatalities from renal failure or the requirement for dialysis can occur in patients treated with gemcitabine.
+Hemolytic uremic syndrome, including fatalities from renal failure or the requirement for dialysis can occur in patients treated with gemcitabine.
 In clinical trials, HUS was reported in 6 of 2429 patients (0.25%).
 Most fatal cases of renal failure were due to HUS [see Adverse Reactions (6.1 and 6.2)].
 Assess renal function prior to initiation of gemcitabine and periodically during treatment.
@@ -31,7 +31,6 @@ Renal failure may not be reversible even with discontinuation of therapy.
 ## 5.5 Hepatic Toxicity
 
 Drug-induced liver injury, including liver failure and death, has been reported in patients receiving gemcitabine alone or in combination with other potentially hepatotoxic drugs [see Adverse Reactions (6.1 and 6.2)].
-
 Administration of gemcitabine in patients with concurrent liver metastases or a pre-existing medical history or hepatitis, alcoholism, or liver cirrhosis can lead to exacerbation of the underlying hepatic insufficiency [see Use in Specific Populations (8.7)].
 Assess hepatic function prior to initiation of gemcitabine and periodically during treatment.
 Discontinue gemcitabine in patients that develop severe liver injury.
@@ -45,12 +44,19 @@ If this drug is used during pregnancy, or if a woman becomes pregnant while taki
 ## 5.7 Exacerbation of Radiation Therapy Toxicity
 
 Gemcitabine is not indicated for use in combination with radiation therapy.
-Concurrent (given together or ≤ 7 days apart) – Life-threatening mucositis, especially esophagitis and pneumonitis occurred in a trial in which gemcitabine was administered at a dose of 1000 mg/m2 to patients with non-small cell lung cancer for up to 6 consecutive weeks concurrently with thoracic radiation.
 
-Non-concurrent (given greater than 7 days apart) – Excessive toxicity has not been observed when gemcitabine is administered more than 7 days before or after radiation.
+Concurrent (given together or ≤7 days apart) – Life-threatening mucositis, especially esophagitis and pneumonitis occurred in a trial in which gemcitabine was administered at a dose of 1000 mg/m2 to patients with non-small cell lung cancer for up to 6 consecutive weeks concurrently with thoracic radiation.
+
+Non-concurrent (given >7 days apart) – Excessive toxicity has not been observed when gemcitabine is administered more than 7 days before or after radiation.
 Radiation recall has been reported in patients who receive gemcitabine after prior radiation.
 
 ## 5.8 Capillary Leak Syndrome
 
 Capillary leak syndrome (CLS) with severe consequences has been reported in patients receiving gemcitabine as a single agent or in combination with other chemotherapeutic agents.
 Discontinue gemcitabine if CLS develops during therapy.
+
+## 5.9 Posterior Reversible Encephalopathy Syndrome
+
+Posterior reversible encephalopathy syndrome (PRES) has been reported in patients receiving gemcitabine as a single agent or in combination with other chemotherapeutic agents.
+PRES can present with headache, seizure, lethargy, hypertension, confusion, blindness, and other visual and neurologic disturbances.
+Confirm the diagnosis of PRES with magnetic resonance imaging (MRI) and discontinue gemcitabine if PRES develops during therapy.

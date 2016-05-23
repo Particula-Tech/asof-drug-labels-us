@@ -36,7 +36,7 @@ No meaningful clinical activity was observed in this trial.
 In clinical studies of gemcitabine, enrolling 979 patients with various cancers who received gemcitabine as a single agent, no overall differences in safety were observed between patients aged 65 and older and younger patients, with the exception of a higher rate of Grade 3-4 thrombocytopenia in older patients as compared to younger patients.
 In a randomized trial in women with ovarian cancer, 175 women received gemcitabine plus carboplatin, of which 29% were age 65 years or older.
 Similar effectiveness was observed between older and younger women.
-There was significantly higher Grade 3–4 neutropenia in women 65 years of age or older.
+There was significantly higher Grade 3/4 neutropenia in women 65 years of age or older.
 
 Gemcitabine clearance is affected by age, however there are no recommended dose adjustments based on patients’ age [see Clinical Pharmacology (12.3)].
 
@@ -51,4 +51,4 @@ No clinical studies have been conducted with gemcitabine in patients with decrea
 ## 8.8 Gender
 
 Gemcitabine clearance is affected by gender [see Clinical Pharmacology (12.3)].
-In single-agent studies of gemcitabine, women, especially older women, were more likely not to proceed to a subsequent cycle and to experience Grade 3–4 neutropenia and thrombocytopenia.
+In single-agent studies of gemcitabine, women, especially older women, were more likely not to proceed to a subsequent cycle and to experience Grade 3/4 neutropenia and thrombocytopenia.

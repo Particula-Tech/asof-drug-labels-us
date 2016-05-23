@@ -16,8 +16,8 @@ Table 1: Dosage Reduction Guidelines for Gemcitabine for Myelosuppression on Day
 
 | Treatment Day | Absolute granulocyte count (x 106/L) |  | Platelet count (x 106/L) | % of full dose |
 | --- | --- | --- | --- | --- |
-| Day 1 | ≥1500less than 1500 | andor | ≥100,000less than 100,000 | 100%Delay Treatment Cycle |
-| Day 8 | ≥15001000-1499less than 1000 | andoror | ≥100,00075,000-99,999less than 75,000 | 10050Hold |
+| Day 1 | ≥1500<1500 | andor | ≥100,000<100,000 | 100%Delay Treatment Cycle |
+| Day 8 | ≥15001000-1499<1000 | andoror | ≥100,00075,000-99,999<75,000 | 100%50%Hold |
 
 Table 2: Gemcitabine Dose Modification for Myelosuppression in Previous Cycle in Ovarian Cancer
 
@@ -43,7 +43,7 @@ Table 3: Recommended Dose Reductions for Gemcitabine for Myelosuppression on Day
 | Treatment Day | Absolute granulocyte count |  | Platelet count | % of full dose |
 | --- | --- | --- | --- | --- |
 | Day 1 | ≥1500less than 1500 | andor | ≥100,000less than 100,000 | 100%Hold |
-| Day 8 | ≥12001000-1199700-999less than 700 | andorandor | greater than 75,00050,000-75,000≥50,000less than 50,000 | 100%75%50%Hold |
+| Day 8 | ≥12001000-1199700-999<700 | andorandor | >75,00050,000-75,000≥50,000<50,000 | 100%75%50%Hold |
 
 ## 2.3 Non-Small Cell Lung Cancer
 
@@ -69,7 +69,7 @@ Refer to Dosage and Administration (2.5) for gemcitabine recommendations for non
 Recommended Dose and Schedule
 
 The recommended dose of gemcitabine is 1000 mg/m2 over 30 minutes intravenously.
-The recommended treatment schedule:
+The recommended treatment schedule is as follows:
 
 - •Weeks 1-8: weekly dosing for the first 7 weeks followed by one week rest.
 - •After week 8: weekly dosing on Days 1, 8, and 15 of 28-day cycles.
@@ -86,7 +86,7 @@ Table 4: Recommended Dose Reductions for Gemcitabine for Myelosuppression in Pan
 
 | Absolute granulocyte count(x 106/L) |  | Platelet count(x 106/L) | % of full dose |
 | --- | --- | --- | --- |
-| ≥1000500-999less than 500 | andoror | ≥100,00050,000-99,999less than 50,000 | 10075Hold |
+| ≥1000500-999<500 | AndOrOr | ≥100,00050,000-99,999<50,000 | 100%75%Hold |
 
 ## 2.5 Dose Modifications for Non-Hematologic Adverse Reactions
 
@@ -96,6 +96,7 @@ Permanently discontinue Gemcitabine for any of the following
 - •Severe hepatic toxicity
 - •Hemolytic-Uremic Syndrome
 - •Capillary Leak Syndrome
+- •Posterior reversible encephalopathy syndrome
 
 Withhold gemcitabine or reduce dose by 50% for other severe (Grade 3 or 4) non-hematological toxicity until resolved.
 No dose modifications are recommended for alopecia, nausea, or vomiting.
@@ -105,9 +106,7 @@ No dose modifications are recommended for alopecia, nausea, or vomiting.
 Exercise caution and wear gloves when preparing gemcitabine solutions.
 Immediately wash the skin thoroughly or rinse the mucosa with copious amounts of water if gemcitabine contacts the skin or mucus membranes.
 Death has occurred in animal studies due to dermal absorption.
-For further guidance on handling gemcitabine go to “OSHA Hazardous Drugs” (refer to antineoplastic weblinks including OSHA Technical Manual) at OSHA.
-
-http://www.osha.gov/SLTC/hazardousdrugs/index.html
+For further guidance on handling gemcitabine go to “OSHA Hazardous Drugs” (refer to antineoplastic weblinks including OSHA Technical Manual) at OSHA. http://www.osha.gov/SLTC/hazardousdrugs/index.html
 
 ## 2.7 Preparation for Intravenous Infusion Administration
 
