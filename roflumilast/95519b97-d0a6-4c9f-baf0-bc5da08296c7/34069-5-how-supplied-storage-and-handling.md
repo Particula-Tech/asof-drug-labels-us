@@ -10,7 +10,6 @@ DALIRESP tablets are available:
 - Bottles of 30: NDC 0456-0095-30
 - Bottles of 90: NDC 0456-0095-90
 - 2X10 Unit Dose: NDC 0456-0095-20
-- 10X10 Unit Dose: NDC 0456-0095-63
 
 ## 16.2 Storage and Handling
 

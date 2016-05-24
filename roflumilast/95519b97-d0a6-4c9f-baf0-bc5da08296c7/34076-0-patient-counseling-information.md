@@ -38,5 +38,3 @@ Manufactured by: Takeda GmbH Production Site Oranienburg Lehnitzstrasse 70 – 9
 Manufactured for: Forest Pharmaceuticals, Inc. Subsidiary of Forest Laboratories, LLC St. Louis, MO 63045, USA
 
 Daliresp® is a registered trademark of Takeda GmbH.
-
-© 2010-2014 Forest Laboratories, Inc.
