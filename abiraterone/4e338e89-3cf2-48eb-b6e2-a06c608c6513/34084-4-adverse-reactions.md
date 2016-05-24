@@ -29,14 +29,14 @@ The median duration of treatment with ZYTIGA was 8 months.
 
 Table 1: Adverse Reactions due to ZYTIGA in Study 1
 
-| System/Organ Class Adverse reaction | All GradesAdverse events graded according to CTCAE version 3.0 % | Grade 3–4 % | All Grades % | Grade 3–4 % |
+| System/Organ Class Adverse reaction | All GradesAdverse events graded according to CTCAE version 3.0. % | Grade 3–4 % | All Grades % | Grade 3–4 % |
 | --- | --- | --- | --- | --- |
 |  | ZYTIGA with Prednisone (N=791) |  | Placebo with Prednisone (N=394) |  |
 | Musculoskeletal and connective tissue disorders |  |  |  |  |
-| Joint swelling/discomfortIncludes terms Arthritis, Arthralgia, Joint swelling, and Joint stiffness | 29.5 | 4.2 | 23.4 | 4.1 |
-| Muscle discomfortIncludes terms Muscle spasms, Musculoskeletal pain, Myalgia, Musculoskeletal discomfort, and Musculoskeletal stiffness | 26.2 | 3.0 | 23.1 | 2.3 |
+| Joint swelling/discomfortIncludes terms Arthritis, Arthralgia, Joint swelling, and Joint stiffness. | 29.5 | 4.2 | 23.4 | 4.1 |
+| Muscle discomfortIncludes terms Muscle spasms, Musculoskeletal pain, Myalgia, Musculoskeletal discomfort, and Musculoskeletal stiffness. | 26.2 | 3.0 | 23.1 | 2.3 |
 | General disorders |  |  |  |  |
-| EdemaIncludes terms Edema, Edema peripheral, Pitting edema, and Generalized edema | 26.7 | 1.9 | 18.3 | 0.8 |
+| EdemaIncludes terms Edema, Edema peripheral, Pitting edema, and Generalized edema. | 26.7 | 1.9 | 18.3 | 0.8 |
 | Vascular disorders |  |  |  |  |
 | Hot flush | 19.0 | 0.3 | 16.8 | 0.3 |
 | Hypertension | 8.5 | 1.3 | 6.9 | 0.3 |
@@ -52,11 +52,11 @@ Table 1: Adverse Reactions due to ZYTIGA in Study 1
 | Urinary frequency | 7.2 | 0.3 | 5.1 | 0.3 |
 | Nocturia | 6.2 | 0 | 4.1 | 0 |
 | Injury, poisoning and procedural complications |  |  |  |  |
-| FracturesIncludes all fractures with the exception of pathological fracture | 5.9 | 1.4 | 2.3 | 0 |
+| FracturesIncludes all fractures with the exception of pathological fracture. | 5.9 | 1.4 | 2.3 | 0 |
 | Cardiac disorders |  |  |  |  |
-| ArrhythmiaIncludes terms Arrhythmia, Tachycardia, Atrial fibrillation, Supraventricular tachycardia, Atrial tachycardia, Ventricular tachycardia, Atrial flutter, Bradycardia, Atrioventricular block complete, Conduction disorder, and Bradyarrhythmia | 7.2 | 1.1 | 4.6 | 1.0 |
+| ArrhythmiaIncludes terms Arrhythmia, Tachycardia, Atrial fibrillation, Supraventricular tachycardia, Atrial tachycardia, Ventricular tachycardia, Atrial flutter, Bradycardia, Atrioventricular block complete, Conduction disorder, and Bradyarrhythmia. | 7.2 | 1.1 | 4.6 | 1.0 |
 | Chest pain or chest discomfortIncludes terms Angina pectoris, Chest pain, and Angina unstable. Myocardial infarction or ischemia occurred more commonly in the placebo arm than in the ZYTIGA arm (1.3% vs. 1.1% respectively). | 3.8 | 0.5 | 2.8 | 0 |
-| Cardiac failureIncludes terms Cardiac failure, Cardiac failure congestive, Left ventricular dysfunction, Cardiogenic shock, Cardiomegaly, Cardiomyopathy, and Ejection fraction decreased | 2.3 | 1.9 | 1.0 | 0.3 |
+| Cardiac failureIncludes terms Cardiac failure, Cardiac failure congestive, Left ventricular dysfunction, Cardiogenic shock, Cardiomegaly, Cardiomyopathy, and Ejection fraction decreased. | 2.3 | 1.9 | 1.0 | 0.3 |
 
 Table 2 shows laboratory abnormalities of interest from Study 1.
 Grade 3–4 low serum phosphorus (7%) and low potassium (5%) occurred at a greater than or equal to 5% rate in the ZYTIGA arm.
@@ -83,15 +83,15 @@ The median duration of treatment with ZYTIGA was 13.8 months.
 
 Table 3: Adverse Reactions in ≥5% of Patients on the ZYTIGA Arm in Study 2
 
-| System/Organ Class Adverse reaction | All GradesAdverse events graded according to CTCAE version 3.0 % | Grade 3–4 % | All Grades % | Grade 3–4 % |
+| System/Organ Class Adverse reaction | All GradesAdverse events graded according to CTCAE version 3.0. % | Grade 3–4 % | All Grades % | Grade 3–4 % |
 | --- | --- | --- | --- | --- |
 |  | ZYTIGA with Prednisone (N=542) |  | Placebo with Prednisone (N=540) |  |
 | General disorders |  |  |  |  |
 | Fatigue | 39.1 | 2.2 | 34.3 | 1.7 |
-| EdemaIncludes terms Edema peripheral, Pitting edema, and Generalized edema | 25.1 | 0.4 | 20.7 | 1.1 |
+| EdemaIncludes terms Edema peripheral, Pitting edema, and Generalized edema. | 25.1 | 0.4 | 20.7 | 1.1 |
 | Pyrexia | 8.7 | 0.6 | 5.9 | 0.2 |
 | Musculoskeletal and connective tissue disorders |  |  |  |  |
-| Joint swelling/discomfortIncludes terms Arthritis, Arthralgia, Joint swelling, and Joint stiffness | 30.3 | 2.0 | 25.2 | 2.0 |
+| Joint swelling/discomfortIncludes terms Arthritis, Arthralgia, Joint swelling, and Joint stiffness. | 30.3 | 2.0 | 25.2 | 2.0 |
 | Groin pain | 6.6 | 0.4 | 4.1 | 0.7 |
 | Gastrointestinal disorders |  |  |  |  |
 | Constipation | 23.1 | 0.4 | 19.1 | 0.6 |
@@ -145,7 +145,7 @@ There was one death associated with arrhythmia and one patient with sudden death
 There were 7 (0.5%) deaths due to cardiorespiratory arrest in the ZYTIGA arms and 3 (0.3%) deaths in the placebo arms.
 Myocardial ischemia or myocardial infarction led to death in 3 patients in the placebo arms and 2 deaths in the ZYTIGA arms.
 
-## 6.2 Post Marketing Experience
+## 6.2 Postmarketing Experience
 
 The following additional adverse reactions have been identified during post approval use of ZYTIGA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -153,3 +153,5 @@ Because these reactions are reported voluntarily from a population of uncertain 
 Respiratory, Thoracic and Mediastinal Disorders: non-infectious pneumonitis.
 
 Musculoskeletal and Connective Tissue Disorders: myopathy, including rhabdomyolysis.
+
+Hepatobiliary Disorders: fulminant hepatitis, including acute hepatic failure and death.

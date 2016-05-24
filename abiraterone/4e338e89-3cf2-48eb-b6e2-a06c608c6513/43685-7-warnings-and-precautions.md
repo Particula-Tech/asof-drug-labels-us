@@ -23,6 +23,8 @@ Increased dosage of corticosteroids may be indicated before, during and after st
 
 ## 5.3 Hepatotoxicity
 
+In postmarketing experience, there have been ZYTIGA-associated severe hepatic toxicity, including fulminant hepatitis, acute liver failure and deaths [see Adverse Reactions (6.2)].
+
 In the two randomized clinical trials, grade 3 or 4 ALT or AST increases (at least 5× ULN) were reported in 4% of patients who received ZYTIGA, typically during the first 3 months after starting treatment.
 Patients whose baseline ALT or AST were elevated were more likely to experience liver test elevation than those beginning with normal values.
 Treatment discontinuation due to liver enzyme increases occurred in 1% of patients taking ZYTIGA.
@@ -35,5 +37,7 @@ Elevations of AST, ALT, or bilirubin from the patient's baseline should prompt m
 If at any time AST or ALT rise above five times the ULN, or the bilirubin rises above three times the ULN, interrupt ZYTIGA treatment and closely monitor liver function.
 
 Re-treatment with ZYTIGA at a reduced dose level may take place only after return of liver function tests to the patient's baseline or to AST and ALT less than or equal to 2.5× ULN and total bilirubin less than or equal to 1.5× ULN [see Dosage and Administration (2.2)].
+
+Permanently discontinue ZYTIGA for patients who develop a concurrent elevation of ALT greater than 3 × ULN and total bilirubin greater than 2 × ULN in the absence of biliary obstruction or other causes responsible for the concurrent elevation [see Dosage and Administration (2.2)].
 
 The safety of ZYTIGA re-treatment of patients who develop AST or ALT greater than or equal to 20× ULN and/or bilirubin greater than or equal to 10× ULN is unknown.
