@@ -36,7 +36,7 @@ Lipids in a 26 Week Placebo-Controlled Monotherapy Dose-Ranging Study
 | --- | --- | --- | --- | --- |
 | Triglycerides (mg/dL) | N = 79 | N = 79 | N = 84 | N = 77 |
 | Baseline (mean) | 263 | 284 | 261 | 260 |
-| Percent change from baseline (adjusted mean) | 4.8% | -9.0% | -9.6% | -9.3% |
+| Percent change from baseline (adjusted mean Adjusted for baseline, pooled center, and pooled center by treatment interaction) | 4.8% | -9.0%p < 0.05 versus placebo | -9.6% | -9.3% |
 | HDL Cholesterol (mg/dL) | N = 79 | N = 79 | N = 83 | N = 77 |
 | Baseline (mean) | 42 | 40 | 41 | 41 |
 | Percent change from baseline (adjusted mean) | 8.1% | 14.1% | 12.2% | 19.1% |
@@ -127,8 +127,8 @@ Table 15: Effect of Pioglitazone Coadministration on Systemic Exposure of Other 
 
 | Coadministered Drug |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Pioglitazone Dosage Regimen (mg) | Name and Dose Regimens | Change in AUC |  | Change in Cmax |  |
-| 45 mg (N = 12) | Warfarin |  |  |  |  |
+| Pioglitazone Dosage Regimen (mg) Daily for 7 days unless otherwise noted | Name and Dose Regimens | Change in AUC% change (with/without coadministered drug and no change = 0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively |  | Change in Cmax |  |
+| 45 mg (N = 12) | WarfarinPioglitazone had no clinically significant effect on prothrombin time |  |  |  |  |
 | Daily loading then maintenance doses based PT and INR values Quick's Value = 35 ± 5% | R-Warfarin | ↓ 3% | R-Warfarin | ↓ 2% |  |
 | S-Warfarin | ↓ 1% | S-Warfarin | ↑ 1% |  |  |
 | 45 mg (N = 12) | Digoxin |  |  |  |  |
@@ -157,8 +157,8 @@ Table 16: Effect of Coadministered Drugs on Pioglitazone Systemic Exposure
 
 | Coadministered Drug and Dosage Regimen | Pioglitazone |  |  |
 | --- | --- | --- | --- |
-| Dose Regimen (mg) | Change in AUC | Change in Cmax |  |
-| Gemfibrozil 600 mg twice daily for 2 days(N = 12) | 15 mg single dose | ↑ 3.2 fold | ↑ 6% |
+| Dose Regimen (mg)Daily for 7 days unless otherwise noted | Change in AUCMean ratio (with/without coadministered drug and no change = 1 fold) % change (with/without coadministered drug and no change = 0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively | Change in Cmax |  |
+| Gemfibrozil 600 mg twice daily for 2 days(N = 12) | 15 mg single dose | ↑ 3.2 foldThe half-life of pioglitazone increased from 8.3 hours to 22.7 hours in the presence of gemfibrozil [see Dosage and Administration (2.3) and Drug Interactions (7)] | ↑ 6% |
 | Ketoconazole 200 mg twice daily for 7 days(N = 28) | 45 mg | ↑ 34% | ↑ 14% |
 | Rifampin 600 mg daily for 5 days(N = 10) | 30 mg single dose | ↓ 54% | ↓ 5% |
 | Fexofenadine 60 mg twice daily for 7 days(N = 23) | 45 mg | ↑ 1% | 0% |

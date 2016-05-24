@@ -1,10 +1,10 @@
 # Package/Label Display Panel
 
-## Pioglitazone Tablets USP 15 mg, 90s Label Text
+## Pioglitazone Tablets USP 15 mg 90s Label Text
 
 NDC 0093-7271-98
 
-PIOGLITAZONE
+Pioglitazone
 
 Tablets USP
 
@@ -24,11 +24,11 @@ TEVA
 
 # Package/Label Display Panel
 
-## Pioglitazone Tablets USP 30 mg, 90s Label Text
+## Pioglitazone Tablets USP 30 mg 90s Label Text
 
 NDC 0093-7272-98
 
-PIOGLITAZONE
+Pioglitazone
 
 Tablets USP
 
@@ -48,11 +48,11 @@ TEVA
 
 # Package/Label Display Panel
 
-## Pioglitazone Tablets USP 45 mg, 90s Label Text
+## Pioglitazone Tablets USP 45 mg 90s Label Text
 
 NDC 0093-7273-98
 
-PIOGLITAZONE
+Pioglitazone
 
 Tablets USP
 

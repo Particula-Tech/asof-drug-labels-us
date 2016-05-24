@@ -7,11 +7,9 @@ These trials examined pioglitazone at doses up to 45 mg or placebo once daily in
 
 In a 26 week dose-ranging monotherapy trial, 408 patients with type 2 diabetes were randomized to receive 7.5 mg, 15 mg, 30 mg, or 45 mg of pioglitazone, or placebo once daily.
 Therapy with any previous antidiabetic agent was discontinued eight weeks prior to the double-blind period.
-Treatment with 15 mg, 30 mg, and 45 mg of pioglitazone produced statistically significant improvements in HbA1c and fasting plasma glucose (FPG) at endpoint compared to placebo (seeFigure 1, Table 17).
+Treatment with 15 mg, 30 mg, and 45 mg of pioglitazone produced statistically significant improvements in HbA1c and fasting plasma glucose (FPG) at endpoint compared to placebo (see Figure 1, Table 17).
 
 Figure 1 shows the time course for changes in HbA1c in this 26 week study.
-
-Figure 1: Mean Change from Baseline for HbA1c in a 26 Week Placebo-Controlled Dose-Ranging Study (Observed Values)
 
 Table 17: Glycemic Parameters in a 26 Week Placebo-Controlled Dose-Ranging Monotherapy Trial
 
@@ -20,8 +18,8 @@ Table 17: Glycemic Parameters in a 26 Week Placebo-Controlled Dose-Ranging Monot
 | Total Population |  |  |  |  |
 | HbA1c (%) | N = 79 | N = 79 | N = 85 | N = 76 |
 | Baseline (mean) | 10.4 | 10.2 | 10.2 | 10.3 |
-| Change from baseline (adjusted mean) | 0.7 | -0.3 | -0.3 | -0.9 |
-| Difference from placebo (adjusted mean) 95% Confidence Interval |  | -1.0(-1.6, -0.4) | -1.0(-1.6, -0.4) | -1.6(-2.2, -1.0) |
+| Change from baseline (adjusted mean Adjusted for baseline, pooled center, and pooled center by treatment interaction) | 0.7 | -0.3 | -0.3 | -0.9 |
+| Difference from placebo (adjusted mean) 95% Confidence Interval |  | -1.0p ≤ 0.05 vs. placebo(-1.6, -0.4) | -1.0(-1.6, -0.4) | -1.6(-2.2, -1.0) |
 | Fasting Plasma Glucose (mg/dL) | N = 79 | N = 79 | N = 84 | N = 77 |
 | Baseline (mean) | 268 | 267 | 269 | 276 |
 | Change from baseline (adjusted mean) | 9 | -30 | -32 | -56 |
@@ -36,13 +34,13 @@ Treatment with pioglitazone hydrochloride, as described, produced statistically 
 
 Table 18: Glycemic Parameters in a 24 Week Placebo-Controlled Forced-Titration Monotherapy Trial
 
-|  | Placebo | Pioglitazone 30 mg Once Daily | Pioglitazone 45 mg Once Daily |
+|  | Placebo | Pioglitazone 30 mg Final dose in forced titrationOnce Daily | Pioglitazone 45 mg Once Daily |
 | --- | --- | --- | --- |
 | Total Population |  |  |  |
 | HbA1c (%) | N = 83 | N = 85 | N = 85 |
 | Baseline (mean) | 10.8 | 10.3 | 10.8 |
-| Change from baseline (adjusted mean) | 0.9 | -0.6 | -0.6 |
-| Difference from placebo (adjusted mean) 95% Confidence Interval |  | -1.5(-2.0, -1.0) | -1.5(-2.0, -1.0) |
+| Change from baseline (adjusted meanAdjusted for baseline, pooled center, and pooled center by treatment interaction) | 0.9 | -0.6 | -0.6 |
+| Difference from placebo (adjusted mean) 95% Confidence Interval |  | -1.5p ≤ 0.05 vs. placebo(-2.0, -1.0) | -1.5(-2.0, -1.0) |
 | Fasting Plasma Glucose (mg/dL) | N = 78 | N = 82 | N = 85 |
 | Baseline (mean) | 279 | 268 | 281 |
 | Change from baseline (adjusted mean) | 18 | -44 | -50 |
@@ -59,8 +57,8 @@ Table 19: Glycemic Parameters in a 16 Week Placebo-Controlled Monotherapy Trial
 | Total Population |  |  |
 | HbA1c (%) | N = 93 | N = 100 |
 | Baseline (mean) | 10.3 | 10.5 |
-| Change from baseline (adjusted mean) | 0.8 | -0.6 |
-| Difference from placebo (adjusted mean) 95% Confidence Interval |  | -1.4(-1.8, -0.9) |
+| Change from baseline (adjusted mean Adjusted for baseline, pooled center, and pooled center by treatment interaction) | 0.8 | -0.6 |
+| Difference from placebo (adjusted mean) 95% Confidence Interval |  | -1.4p ≤ 0.050 vs. placebo(-1.8, -0.9) |
 | Fasting Plasma Glucose (mg/dL) | N = 91 | N = 99 |
 | Baseline (mean) | 270 | 273 |
 | Change from baseline (adjusted mean) | 8 | -50 |
@@ -88,8 +86,8 @@ Table 20: Glycemic Parameters in a 16 Week Placebo-Controlled, Add-on to Sulfony
 | Total Population |  |  |  |
 | HbA1c (%) | N = 181 | N = 176 | N = 182 |
 | Baseline (mean) | 9.9 | 10.0 | 9.9 |
-| Change from baseline (adjusted mean) | 0.1 | -0.8 | -1.2 |
-| Difference from placebo + sulfonylurea (adjusted mean Adjusted for baseline, pooled center, and pooled center by treatment interaction) 95% Confidence Interval |  | -0.9(-1.2, -0.6) | -1.3(-1.6, -1.0) |
+| Change from baseline (adjusted mean Adjusted for baseline, pooled center, and pooled center by treatment interaction) | 0.1 | -0.8 | -1.2 |
+| Difference from placebo + sulfonylurea (adjusted mean) 95% Confidence Interval |  | -0.9p ≤ 0.05 vs. placebo + sulfonylurea(-1.2, -0.6) | -1.3(-1.6, -1.0) |
 | Fasting Plasma Glucose (mg/dL) | N = 182 | N = 179 | N = 186 |
 | Baseline (mean) | 236 | 247 | 239 |
 | Change from baseline (adjusted mean) | 6 | -34 | -52 |
@@ -108,8 +106,8 @@ Table 21: Glycemic Parameters in a 24 Week Add-on to Sulfonylurea Trial
 | Total Population |  |  |
 | HbA1c (%) | N = 340 | N = 332 |
 | Baseline (mean) | 9.8 | 9.9 |
-| Change from baseline (adjusted mean) | -1.6 | -1.7 |
-| Difference from 30 mg daily pioglitazone + sulfonylurea (adjusted meanAdjusted for baseline, pooled center, and pooled center by treatment interaction) (95% CI) |  | -0.1 (-0.4, 0.1) |
+| Change from baseline (adjusted meanAdjusted for baseline, pooled center, and pooled center by treatment interaction) | -1.6 | -1.7 |
+| Difference from 30 mg daily pioglitazone + sulfonylurea (adjusted mean) (95% CI) |  | -0.1 (-0.4, 0.1) |
 | Fasting Plasma Glucose (mg/dL) | N = 338 | N = 329 |
 | Baseline (mean) | 214 | 217 |
 | Change from baseline (adjusted mean) | -52 | -56 |
@@ -133,8 +131,8 @@ Table 22: Glycemic Parameters in a 16 Week Placebo-Controlled, Add-on to Metform
 | Total Population |  |  |
 | HbA1c (%) | N = 153 | N = 161 |
 | Baseline (mean) | 9.8 | 9.9 |
-| Change from baseline (adjusted mean) | 0.2 | -0.6 |
-| Difference from placebo + metformin (adjusted mean) 95% Confidence Interval |  | -0.8(-1.2, -0.5) |
+| Change from baseline (adjusted meanAdjusted for baseline, pooled center, and pooled center by treatment interaction) | 0.2 | -0.6 |
+| Difference from placebo + metformin (adjusted mean) 95% Confidence Interval |  | -0.8p ≤ 0.05 vs. placebo + metformin(-1.2, -0.5) |
 | Fasting Plasma Glucose (mg/dL) | N = 157 | N = 165 |
 | Baseline (mean) | 260 | 254 |
 | Change from baseline (adjusted mean) | -5 | -43 |
@@ -151,12 +149,12 @@ Table 23: Glycemic Parameters in a 24 Week Add-on to Metformin Study
 | Total Population |  |  |
 | HbA1c (%) | N = 400 | N = 398 |
 | Baseline (mean) | 9.9 | 9.8 |
-| Change from baseline (adjusted mean) | -0.8 | -1.0 |
+| Change from baseline (adjusted meanAdjusted for baseline, pooled center, and pooled center by treatment interaction) | -0.8 | -1.0 |
 | Difference from 30 mg daily Pioglitazone + Metformin (adjusted mean) (95% CI) |  | -0.2(-0.5, 0.1) |
 | Fasting Plasma Glucose (mg/dL) | N = 398 | N = 399 |
 | Baseline (mean) | 233 | 232 |
 | Change from baseline (adjusted mean) | -38 | -51 |
-| Difference from 30 mg daily Pioglitazone + Metformin (adjusted mean) (95% CI) |  | -12(-21, -4) |
+| Difference from 30 mg daily Pioglitazone + Metformin (adjusted mean) (95% CI) |  | -12p ≤ 0.05 vs. 30 mg daily pioglitazone + metformin(-21, -4) |
 
 95% CI = 95% confidence interval
 
@@ -180,8 +178,8 @@ Table 24: Glycemic Parameters in a 16 Week Placebo-Controlled, Add-on to Insulin
 | Total Population |  |  |  |
 | HbA1c (%) | N = 177 | N = 177 | N = 185 |
 | Baseline (mean) | 9.8 | 9.8 | 9.8 |
-| Change from baseline (adjusted mean) | -0.3 | -1.0 | -1.3 |
-| Difference from placebo + Insulin (adjusted mean) 95% Confidence Interval |  | -0.7(-1.0, -0.5) | -1.0(-1.3, -0.7) |
+| Change from baseline (adjusted meanAdjusted for baseline, pooled center, and pooled center by treatment interaction) | -0.3 | -1.0 | -1.3 |
+| Difference from placebo + Insulin (adjusted mean) 95% Confidence Interval |  | -0.7p ≤ 0.05 vs. placebo + insulin(-1.0, -0.5) | -1.0(-1.3, -0.7) |
 | Fasting Plasma Glucose (mg/dL) | N = 179 | N = 183 | N = 184 |
 | Baseline (mean) | 221 | 222 | 229 |
 | Change from baseline (adjusted mean) | 1 | -35 | -48 |
@@ -203,8 +201,8 @@ Table 25: Glycemic Parameters in a 24 Week Add-on to Insulin Trial
 | Total Population |  |  |
 | HbA1c (%) | N = 328 | N = 328 |
 | Baseline (mean) | 9.9 | 9.7 |
-| Change from baseline (adjusted mean) | -1.2 | -1.5 |
-| Difference from 30 mg daily Pioglitazone + Insulin (adjusted mean) (95% CI) |  | -0.3(-0.5, -0.1) |
+| Change from baseline (adjusted mean Adjusted for baseline, pooled center, and pooled center by treatment interaction) | -1.2 | -1.5 |
+| Difference from 30 mg daily Pioglitazone + Insulin (adjusted mean) (95% CI) |  | -0.3p ≤ 0.05 vs. 30 mg daily pioglitazone + insulin(-0.5, -0.1) |
 | Fasting Plasma Glucose (mg/dL) | N = 325 | N = 327 |
 | Baseline (mean) | 202 | 199 |
 | Change from baseline (adjusted mean) | -32 | -46 |

@@ -2,9 +2,9 @@
 
 The following serious adverse reactions are discussed elsewhere in the labeling:
 
-- •Congestive heart failure [see Boxed Warning and Warnings and Precautions (5.1)]
-- •Edema [see Warnings and Precautions (5.5)]
-- •Fractures [see Warnings and Precautions (5.6)]
+1. •Congestive heart failure [see Boxed Warning and Warnings and Precautions (5.1)]
+2. •Edema [see Warnings and Precautions (5.5)]
+3. •Fractures [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -317,8 +317,8 @@ The relationship of these events to pioglitazone hydrochloride therapy is unknow
 The following adverse reactions have been identified during post-approval use of pioglitazone hydrochloride.
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- •New onset or worsening diabetic macular edema with decreased visual acuity [see Warnings and Precautions (5.7)].
-- •Fatal and nonfatal hepatic failure [see Warnings and Precautions (5.3)].
+1. •New onset or worsening diabetic macular edema with decreased visual acuity [see Warnings and Precautions (5.7)].
+2. •Fatal and nonfatal hepatic failure [see Warnings and Precautions (5.3)].
 
 Postmarketing reports of congestive heart failure have been reported in patients treated with pioglitazone hydrochloride, both with and without previously known heart disease and both with and without concomitant insulin administration.
 
