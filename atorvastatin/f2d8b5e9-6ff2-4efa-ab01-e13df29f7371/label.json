@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA205519"
+  ],
+  "inn": "atorvastatin",
+  "labeler": "ScieGen Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "50228-152-10",
+    "50228-152-90",
+    "50228-153-06",
+    "50228-153-91",
+    "50228-154-11",
+    "50228-154-91",
+    "50228-155-05",
+    "50228-155-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "atorvastatin calcium",
+      "name": "ATORVASTATIN CALCIUM"
+    }
+  ],
+  "setid": "f2d8b5e9-6ff2-4efa-ab01-e13df29f7371",
+  "source": "dailymed"
+}
