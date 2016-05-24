@@ -12,7 +12,7 @@ Rx only
 
 Protect from light.
 Epinephrine is light sensitive and should be stored in the carrying-case provided to protect it from light.
-Store at room temperature (20° to 25°C (68° to 77°F)); excursions permitted to 15° to 30°C (59° to 86°F) (See USP Controlled Room Temperature).
+Store at room temperature (20° to 25°C (68° to 77°F)); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
 Do not refrigerate.
 Before using, check to make sure the solution in the auto-injector is clear and colorless.
 Replace the auto-injector if the solution is discolored (pinkish or brown color), cloudy, or contains particles.

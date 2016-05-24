@@ -28,4 +28,4 @@ Since the dose of epinephrine delivered from Adrenaclick is fixed, consider usin
 
 Clinical studies for the treatment of anaphylaxis have not been performed in subjects aged 65 and over to determine whether they respond differently from younger subjects.
 However, other reported clinical experience with use of epinephrine for the treatment of anaphylaxis has identified that geriatric patients may be particularly sensitive to the effects of epinephrine.
-Therefore, Adrenaclick should be administered with caution in elderly individuals, who may be at greater risk for developing adverse reactions after epinephrine administration [see Warnings and Precautions (5.4) and Overdosage (10)].
+Therefore, Adrenaclick should be administered with caution in elderly individuals, who may be at greater risk for developing adverse reactions after epinephrine administration [see Warnings and Precautions (5.5) and Overdosage (10)].

@@ -1,4 +1,10 @@
-Instructions for Use ADRENACLICK® (a-dren-a-click) (epinephrine injection) auto-injector For allergic emergencies (anaphylaxis)
+# ​Instructions for Use
+
+ADRENACLICK® (a-dren-a-click)
+
+(epinephrine injection, USP) Auto-Injector
+
+For allergic emergencies (anaphylaxis)
 
 Read these Instructions for Use carefully before you use Adrenaclick.
 Before you need to use your Adrenaclick, make sure your healthcare provider shows you the right way to use it.
@@ -26,11 +32,10 @@ Figure A
 STEP 2.
 Administer Adrenaclick
 
+- If you are administering Adrenaclick to a young child, hold the leg firmly in place and limit movement prior to and while administering an injection.
 - Put the red tip against the middle of the outer thigh (upper leg) at a 90° angle (perpendicular) to the thigh.
 - Press down hard and hold firmly against the thigh for approximately 10 seconds to deliver the medicine.
   See Figure B.
-
-Figure B
 
 - Only inject into the middle of the outer thigh.
   Do not inject into any other part of the body.
@@ -71,23 +76,25 @@ Note:
 
 - Adrenaclick is a single-use injectable device that delivers a fixed dose of epinephrine.
   The auto-injector cannot be reused.
+  Do not attempt to reuse Adrenaclick after the device has been activated.
   It is normal for most of the medicine to remain in the auto-injector after the dose is injected.
   The correct dose has been administered if you see the needle sticking out of the red tip.
 - A separate Adrenaclick Trainer is available.
   The Adrenaclick Trainer has a beige color.
   The beige Adrenaclick Trainer contains no medicine and no needle.
   Practice with your Adrenaclick Trainer, but always carry your real Adrenaclick auto-injector in case of an allergic emergency.
+- If you will be administering Adrenaclick to a young child, ask your healthcare provider to show you how to properly hold the leg in place while administering a dose.
 - Do not try to take the Adrenaclick auto-injector apart.
 
 For more information and video instructions on the use of Adrenaclick, go to www.adrenaclick.com or call 1-888-894-6528.
 
 This Patient Information and Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-10/2014
+04/2016
 
 © 2014 Amedra Pharmaceuticals LLC, Horsham, PA.
 All rights reserved.
 
 Manufactured for and Distributed by: Amedra Pharmaceuticals LLC Horsham, PA 19044
 
-51007-06
+51007-07

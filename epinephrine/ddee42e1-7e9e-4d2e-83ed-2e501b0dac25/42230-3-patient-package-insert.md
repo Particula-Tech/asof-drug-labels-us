@@ -1,4 +1,6 @@
-Patient Information ADRENACLICK® (a-dren-a-click) (epinephrine injection) auto-injector For allergic emergencies (anaphylaxis)
+# Patient Information
+
+ADRENACLICK® (a-dren-a-click) (epinephrine injection, USP) Auto-Injector For allergic emergencies (anaphylaxis)
 
 Read this Patient Information Leaflet carefully before you use the Adrenaclick auto-injector, and each time you get a refill.
 There may be new information.
@@ -8,34 +10,41 @@ This information does not take the place of talking with your healthcare provide
 
 What is the most important information I should know about Adrenaclick?
 
-1. Adrenaclick contains epinephrine, a medicine used to treat allergic emergencies (anaphylaxis).
-   Anaphylaxis can be life-threatening, can happen within minutes, and can be caused by stinging and biting insects, allergy injections, foods, medicines, exercise, or other unknown causes.
-   Symptoms of an anaphylaxis may include:
-   - trouble breathing
-   - wheezing
-   - hoarseness (changes in the way your voice sounds)
-   - hives (raised reddened rash that may itch)
-   - severe itching
-   - swelling of your face, lips, mouth, or tongue
-   - skin rash, redness, or swelling
-   - fast heartbeat
-   - weak pulse
-   - feeling very anxious
-   - confusion
-   - stomach pain
-   - losing control of urine or bowel movements (incontinence)
-   - diarrhea or stomach cramps
-   - dizziness, fainting, or “passing out” (unconsciousness)
-2. Always carry your Adrenaclick with you because you may not know when anaphylaxis may happen.
-   Talk to your healthcare provider if you need additional units to keep at work, school, or other locations.
-   Tell your family members, caregivers, and others where you keep your Adrenaclick and how to use it before you need it.
-   You may be unable to speak in an allergic emergency.
-3. When you have an allergic emergency (anaphylaxis)
-   - Use Adrenaclick right away.
-   - Get emergency medical help right away.
-     You may need further medical attention.
-     You may need to use a second Adrenaclick auto-injector if symptoms continue or recur.
-     Only a healthcare provider should give additional doses of epinephrine if you need more than 2 injections for a single anaphylaxis episode.
+1.
+Adrenaclick contains epinephrine, a medicine used to treat allergic emergencies (anaphylaxis).
+Anaphylaxis can be life-threatening, can happen within minutes, and can be caused by stinging and biting insects, allergy injections, foods, medicines, exercise, or other unknown causes.
+Symptoms of an anaphylaxis may include:
+
+- trouble breathing
+- wheezing
+- hoarseness (changes in the way your voice sounds)
+- hives (raised reddened rash that may itch)
+- severe itching
+- swelling of your face, lips, mouth, or tongue
+- skin rash, redness, or swelling
+- fast heartbeat
+- weak pulse
+- feeling very anxious
+- confusion
+- stomach pain
+- losing control of urine or bowel movements (incontinence)
+- diarrhea or stomach cramps
+- dizziness, fainting, or “passing out” (unconsciousness)
+
+2.
+Always carry your Adrenaclick with you because you may not know when anaphylaxis may happen.
+Talk to your healthcare provider if you need additional units to keep at work, school, or other locations.
+Tell your family members, caregivers, and others where you keep your Adrenaclick and how to use it before you need it.
+You may be unable to speak in an allergic emergency.
+
+3.
+When you have an allergic emergency (anaphylaxis)
+
+- Use Adrenaclick right away.
+- Get emergency medical help right away.
+  You may need further medical attention.
+  You may need to use a second Adrenaclick auto-injector if symptoms continue or recur.
+  Only a healthcare provider should give additional doses of epinephrine if you need more than 2 injections for a single anaphylaxis episode.
 
 What is Adrenaclick?
 
@@ -94,7 +103,7 @@ How should I use Adrenaclick?
   If this happens, go immediately to the nearest emergency room.
   Tell the healthcare provider where on your body you received the accidental injection.
 - Your Adrenaclick auto-injector comes packaged in a carton containing 2 Adrenaclick auto-injectors.
-- You may request a separate Trainer, that comes packaged with Trainer Instructions for Use.
+- You may request a separate Trainer, that comes packaged with instructions.
   Additional video instructions on the use of Adrenaclick are available from www.adrenaclick.com.
   The Adrenaclick Trainer has a beige color.
   The beige Adrenaclick Trainer contains no medicine and no needle.
@@ -117,6 +126,16 @@ Adrenaclick may cause serious side effects.
 If you accidently inject Adrenaclick into any other part of your body, go to the nearest emergency room right away.
 Tell the healthcare provider where on your body you received the accidental injection.
 
+- Rarely, patients who use Adrenaclick may develop infections at the injection site within a few days of an injection.
+  Some of these infections can be serious.
+  Call your healthcare provider right away if you have any of the following at an injection site:
+  - redness that does not go away
+  - swelling
+  - tenderness
+  - the area feels warm to the touch
+- Cuts on the skin, bent needles, and needles that remain in the skin after the injection, have happened in young children who do not cooperate and kick or move during an injection.
+  If you inject a young child with Adrenaclick, hold their leg firmly in place before and during the injection to prevent injuries.
+  Ask your healthcare provider to show you how to properly hold the leg of a young child during an injection.
 - If you have certain medical conditions, or take certain medicines, your condition may get worse or you may have more or longer lasting side effects when you use Adrenaclick.
   Talk to your healthcare provider about all your medical conditions.
 

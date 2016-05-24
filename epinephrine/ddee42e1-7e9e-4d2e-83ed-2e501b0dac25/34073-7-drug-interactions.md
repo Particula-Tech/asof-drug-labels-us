@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-Patients who receive epinephrine while concomitantly taking cardiac glycosides, diuretics, or anti-arrhythmics should be observed carefully for the development of cardiac arrhythmias [see Warnings and Precautions (5.4)].
+Patients who receive epinephrine while concomitantly taking cardiac glycosides, diuretics, or anti-arrhythmics should be observed carefully for the development of cardiac arrhythmias [see Warnings and Precautions (5.5)].
 
 The effects of epinephrine may be potentiated by tricyclic antidepressants, monoamine oxidase inhibitors, levothyroxine sodium, and certain antihistamines, notably chlorpheniramine, tripelennamine, and diphenhydramine.
 
