@@ -1,14 +1,14 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 General Instructions
+## 2.1 General Dosing Instructions
 
 Carefully consider the potential benefits and risks of MOBIC and other treatment options before deciding to use MOBIC.
-Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5.4)].
+Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
 
 After observing the response to initial therapy with MOBIC, adjust the dose to suit an individual patient's needs.
 
 In adults, the maximum recommended daily oral dose of MOBIC is 15 mg regardless of formulation.
-In patients with hemodialysis, a maximum daily dosage of 7.5 mg is recommended [see Warnings and Precautions (5.6), Use in Specific Populations (8.7), and Clinical Pharmacology (12.3)].
+In patients with hemodialysis, a maximum daily dosage of 7.5 mg is recommended [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
 
 MOBIC oral suspension 7.5 mg/5 mL or 15 mg/10 mL may be substituted for MOBIC tablets 7.5 mg or 15 mg, respectively.
 
@@ -43,3 +43,15 @@ Juvenile Rheumatoid Arthritis dosing using the oral suspension should be individ
 | 36 kg (80 lb) | 3.0 mL | 4.5 mg |
 | 48 kg (106 lb) | 4.0 mL | 6.0 mg |
 | ≥60 kg (132 lb) | 5.0 mL | 7.5 mg |
+
+## 2.5 Renal Impairment
+
+The use of MOBIC in subjects with severe renal impairment is not recommended.
+
+In patients on hemodialysis, the maximum dosage of MOBIC is 7.5 mg per day [see Clinical Pharmacology (12.3)].
+
+## 2.6 Non-Interchangeability with Other Formulations of Meloxicam
+
+MOBIC Tablets and MOBIC Suspension have not shown equivalent systemic exposure to other approved formulations of oral meloxicam.
+Therefore, MOBIC Tablets and MOBIC Suspension are not interchangeable with other formulations of oral meloxicam product even if the total milligram strength is the same.
+Do not substitute similar dose strengths of MOBIC Tablets or MOBIC Suspension with other formulations of oral meloxicam product.

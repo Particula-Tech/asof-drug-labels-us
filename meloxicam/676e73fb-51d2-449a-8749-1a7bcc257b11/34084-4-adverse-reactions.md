@@ -1,21 +1,22 @@
 # 6 ADVERSE REACTIONS
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
-The following serious adverse reactions are discussed elsewhere in the labeling:
-
-- Cardiovascular thrombotic events [see Boxed Warning and Warnings and Precautions (5.1)]
-- Gastrointestinal effects – risk of GI ulceration, bleeding, and perforation [see Boxed Warning and Warnings and Precautions (5.2)]
-- Hepatic effects [see Warnings and Precautions (5.3)]
+- Cardiovascular Thrombotic Events [see Boxed Warning and Warnings and Precautions (5.1)]
+- GI Bleeding, Ulceration, and Perforation [see Boxed Warning and Warnings and Precautions (5.2)]
+- Hepatotoxicity [see Warnings and Precautions (5.3)]
 - Hypertension [see Warnings and Precautions (5.4)]
-- Congestive heart failure and edema [see Warnings and Precautions (5.5)]
-- Renal effects [see Warnings and Precautions (5.6)]
-- Anaphylactoid reactions [see Warnings and Precautions (5.7)]
-- Adverse skin reactions [see Warnings and Precautions (5.8)]
+- Heart Failure and Edema [see Warnings and Precautions (5.5)]
+- Renal Toxicity and Hyperkalemia [see Warnings and Precautions (5.6)]
+- Anaphylactic Reactions [see Warnings and Precautions (5.7)]
+- Serious Skin Reactions [see Warnings and Precautions (5.9)]
+- Hematologic Toxicity [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
 
-### Adults
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+Adults
 
 Osteoarthritis and Rheumatoid Arthritis
 
@@ -31,11 +32,11 @@ Table 1a depicts adverse events that occurred in ≥2% of the MOBIC treatment gr
 
 Table 1b depicts adverse events that occurred in ≥2% of the MOBIC treatment groups in two 12-week placebo-controlled rheumatoid arthritis trials.
 
-Table 1a Adverse Events (%) Occurring in ≥2% of MOBIC Patients in a 12-Week Osteoarthritis Placebo- and Active-Controlled Trial
+Table 1a Adverse Events (%) Occurring in ≥ 2% of MOBIC Patients in a 12-Week Osteoarthritis Placebo- and Active-Controlled Trial
 
-| No. of Patients | 157 | 154 | 156 | 153 |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Placebo | MOBIC 7.5 mg daily | MOBIC 15 mg daily | Diclofenac 100 mg daily |  |
+| --- | --- | --- | --- | --- | --- |
+| No. of Patients | 157 | 154 | 156 | 153 |  |
 | Gastrointestinal | 17.2 | 20.1 | 17.3 | 28.1 |  |
 | Abdominal pain | 2.5 | 1.9 | 2.6 | 1.3 |  |
 | Diarrhea | 3.8 | 7.8 | 3.2 | 9.2 |  |
@@ -44,7 +45,7 @@ Table 1a Adverse Events (%) Occurring in ≥2% of MOBIC Patients in a 12-Week Os
 | Nausea | 3.2 | 3.9 | 3.8 | 7.2 |  |
 | Body as a Whole |  |  |  |  |  |
 | Accident household | 1.9 | 4.5 | 3.2 | 2.6 |  |
-| Edema1 | 2.5 | 1.9 | 4.5 | 3.3 |  |
+| Edema 1 | 2.5 | 1.9 | 4.5 | 3.3 |  |
 | Fall | 0.6 | 2.6 | 0.0 | 1.3 |  |
 | Influenza-like symptoms | 5.1 | 4.5 | 5.8 | 2.6 |  |
 | Central and Peripheral Nervous System |  |  |  |  |  |
@@ -54,35 +55,35 @@ Table 1a Adverse Events (%) Occurring in ≥2% of MOBIC Patients in a 12-Week Os
 | Pharyngitis | 1.3 | 0.6 | 3.2 | 1.3 |  |
 | Upper respiratory tract infection | 1.9 | 3.2 | 1.9 | 3.3 |  |
 | Skin |  |  |  |  |  |
-| Rash2 | 2.5 | 2.6 | 0.6 | 2.0 |  |
+| Rash 2 | 2.5 | 2.6 | 0.6 | 2.0 |  |
 | 1 WHO preferred terms edema, edema dependent, edema peripheral, and edema legs combined 2 WHO preferred terms rash, rash erythematous, and rash maculo-papular combined |  |  |  |  |  |
 
 Table 1b Adverse Events (%) Occurring in ≥2% of MOBIC Patients in two 12-Week Rheumatoid Arthritis Placebo-Controlled Trials
 
-| No. of Patients | 469 | 481 | 477 |  |
-| --- | --- | --- | --- | --- |
 |  | Placebo | MOBIC 7.5 mg daily | MOBIC 15 mg daily |  |
+| --- | --- | --- | --- | --- |
+| No. of Patients | 469 | 481 | 477 |  |
 | Gastrointestinal Disorders | 14.1 | 18.9 | 16.8 |  |
-| Abdominal pain NOS2 | 0.6 | 2.9 | 2.3 |  |
-| Dyspeptic signs and symptoms1 | 3.8 | 5.8 | 4.0 |  |
-| Nausea2 | 2.6 | 3.3 | 3.8 |  |
+| Abdominal pain NOS 2 | 0.6 | 2.9 | 2.3 |  |
+| Dyspeptic signs and symptoms 1 | 3.8 | 5.8 | 4.0 |  |
+| Nausea 2 | 2.6 | 3.3 | 3.8 |  |
 | General Disorders and Administration Site Conditions |  |  |  |  |
-| Influenza-like illness2 | 2.1 | 2.9 | 2.3 |  |
-| Infection and Infestations Upper respiratory tract infections-pathogen class unspecified1 | 4.1 | 7.0 | 6.5 |  |
-| Musculoskeletal and Connective Tissue Disorders Joint related signs and symptoms1 | 1.9 | 1.5 | 2.3 |  |
+| Influenza-like illness 2 | 2.1 | 2.9 | 2.3 |  |
+| Infection and Infestations Upper respiratory tract infections-pathogen class unspecified 1 | 4.1 | 7.0 | 6.5 |  |
+| Musculoskeletal and Connective Tissue Disorders Joint related signs and symptoms 1 | 1.9 | 1.5 | 2.3 |  |
 | Nervous System Disorders |  |  |  |  |
-| Headaches NOS2 | 6.4 | 6.4 | 5.5 |  |
-| Skin and Subcutaneous Tissue Disorders Rash NOS2 | 1.7 | 1.0 | 2.1 |  |
+| Headaches NOS 2 | 6.4 | 6.4 | 5.5 |  |
+| Skin and Subcutaneous Tissue Disorders Rash NOS 2 | 1.7 | 1.0 | 2.1 |  |
 | 1 MedDRA high level term (preferred terms): dyspeptic signs and symptoms (dyspepsia, dyspepsia aggravated, eructation, gastrointestinal irritation), upper respiratory tract infections-pathogen unspecified (laryngitis NOS, pharyngitis NOS, sinusitis NOS), joint related signs and symptoms (arthralgia, arthralgia aggravated, joint crepitation, joint effusion, joint swelling) 2 MedDRA preferred term: nausea, abdominal pain NOS, influenza-like illness, headaches NOS, and rash NOS |  |  |  |  |
 
 The adverse events that occurred with MOBIC in ≥2% of patients treated short-term (4 to 6 weeks) and long-term (6 months) in active-controlled osteoarthritis trials are presented in Table 2.
 
 Table 2 Adverse Events (%) Occurring in ≥2% of MOBIC Patients in 4 to 6 Weeks and 6 Month Active-Controlled Osteoarthritis Trials
 
-| No. of Patients | 8955 | 256 | 169 | 306 |
-| --- | --- | --- | --- | --- |
 |  | 4 to 6 Weeks Controlled Trials |  | 6 Month Controlled Trials |  |
+| --- | --- | --- | --- | --- |
 |  | MOBIC 7.5 mg daily | MOBIC 15 mg daily | MOBIC 7.5 mg daily | MOBIC 15 mg daily |
+| No. of Patients | 8955 | 256 | 169 | 306 |
 | Gastrointestinal | 11.8 | 18.0 | 26.6 | 24.2 |
 | Abdominal pain | 2.7 | 2.3 | 4.7 | 2.9 |
 | Constipation | 0.8 | 1.2 | 1.8 | 2.6 |
@@ -93,7 +94,7 @@ Table 2 Adverse Events (%) Occurring in ≥2% of MOBIC Patients in 4 to 6 Weeks 
 | Vomiting | 0.6 | 0.8 | 1.8 | 2.6 |
 | Body as a Whole |  |  |  |  |
 | Accident household | 0.0 | 0.0 | 0.6 | 2.9 |
-| Edema1 | 0.6 | 2.0 | 2.4 | 1.6 |
+| Edema 1 | 0.6 | 2.0 | 2.4 | 1.6 |
 | Pain | 0.9 | 2.0 | 3.6 | 5.2 |
 | Central and Peripheral Nervous System |  |  |  |  |
 | Dizziness | 1.1 | 1.6 | 2.4 | 2.6 |
@@ -110,7 +111,7 @@ Table 2 Adverse Events (%) Occurring in ≥2% of MOBIC Patients in 4 to 6 Weeks 
 | Upper respiratory tract infection | 0.2 | 0.0 | 8.3 | 7.5 |
 | Skin |  |  |  |  |
 | Pruritus | 0.4 | 1.2 | 2.4 | 0.0 |
-| Rash2 | 0.3 | 1.2 | 3.0 | 1.3 |
+| Rash 2 | 0.3 | 1.2 | 3.0 | 1.3 |
 | Urinary |  |  |  |  |
 | Micturition frequency | 0.1 | 0.4 | 2.4 | 1.3 |
 | Urinary tract infection | 0.3 | 0.4 | 4.7 | 6.9 |
@@ -118,7 +119,7 @@ Table 2 Adverse Events (%) Occurring in ≥2% of MOBIC Patients in 4 to 6 Weeks 
 
 Higher doses of MOBIC (22.5 mg and greater) have been associated with an increased risk of serious GI events; therefore, the daily dose of MOBIC should not exceed 15 mg.
 
-### Pediatrics
+Pediatrics
 
 Pauciarticular and Polyarticular Course Juvenile Rheumatoid Arthritis (JRA)
 
@@ -147,9 +148,9 @@ The following is a list of adverse drug reactions occurring in <2% of patients r
 | Special Senses | abnormal vision, conjunctivitis, taste perversion, tinnitus |
 | Urinary System | albuminuria, BUN increased, creatinine increased, hematuria, renal failure |
 
-## 6.2 Post Marketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post approval use of MOBIC.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Decisions about whether to include an adverse event from spontaneous reports in labeling are typically based on one or more of the following factors: (1) seriousness of the event, (2) number of reports, or (3) strength of causal relationship to the drug.
-Adverse reactions reported in worldwide post marketing experience or the literature include: acute urinary retention; agranulocytosis; alterations in mood (such as mood elevation); anaphylactoid reactions including shock; erythema multiforme; exfoliative dermatitis; interstitial nephritis; jaundice; liver failure; Stevens-Johnson syndrome, and toxic epidermal necrolysis.
+Adverse reactions reported in worldwide post marketing experience or the literature include: acute urinary retention; agranulocytosis; alterations in mood (such as mood elevation); anaphylactoid reactions including shock; erythema multiforme; exfoliative dermatitis; interstitial nephritis; jaundice; liver failure; Stevens-Johnson syndrome; toxic epidermal necrolysis, and infertility female.

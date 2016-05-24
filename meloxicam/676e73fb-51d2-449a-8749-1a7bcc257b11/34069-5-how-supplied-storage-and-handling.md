@@ -5,15 +5,15 @@ The 7.5 mg tablet is impressed with the Boehringer Ingelheim logo on one side, a
 The 15 mg tablet is impressed with the tablet code “15” on one side and the letter “M” on the other.
 MOBIC is also available as a yellowish green tinged viscous oral suspension containing 7.5 mg meloxicam in 5 mL.
 
-MOBIC tablets 7.5 mg: NDC 0597-0029-01; Bottles of 100
+MOBIC (meloxicam) tablets 7.5 mg: NDC 0597-0029-01; Bottles of 100
 
-MOBIC tablets 15 mg: NDC 0597-0030-01; Bottles of 100
+MOBIC (meloxicam) tablets 15 mg: NDC 0597-0030-01; Bottles of 100
 
-MOBIC oral suspension 7.5 mg/5 mL: NDC 0597-0034-01; Bottles of 100 mL
+MOBIC (meloxicam) oral suspension 7.5 mg/5 mL: NDC 0597-0034-01; Bottles of 100 mL
 
 Storage
 
-Store at 25°C (77°F); excursions permitted to 15°C-30°C (59°F-86°F).
+Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 Keep MOBIC tablets in a dry place.
 
 Dispense tablets in a tight container.
