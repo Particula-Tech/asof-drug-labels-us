@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA761034"
+  ],
+  "inn": "atezolizumab",
+  "labeler": "Genentech, Inc.",
+  "package_ndcs": [
+    "50242-917-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "atezolizumab",
+      "name": "TECENTRIQ"
+    }
+  ],
+  "setid": "6fa682c9-a312-4932-9831-f286908660ee",
+  "source": "dailymed"
+}
