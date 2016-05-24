@@ -1,115 +1,174 @@
 # WARNINGS
 
+Cardiovascular Thrombotic Events
+
+Clinical trials of several COX-2 selective and nonselective NSAIDs of up to three years duration have shown an increased risk of serious cardiovascular (CV) thrombotic events, including myocardial infarction (MI) and stroke, which can be fatal.
+Based on available data, it is unclear that the risk for CV thrombotic events is similar for all NSAIDs.
+The relative increase in serious CV thrombotic events over baseline conferred by NSAID use appears to be similar in those with and without known CV disease or risk factors for CV disease.
+However, patients with known CV disease or risk factors had a higher absolute incidence of excess serious CV thrombotic events, due to their increased baseline rate.
+Some observational studies found that this increased risk of serious CV thrombotic events began as early as the first weeks of treatment.
+The increase in CV thrombotic risk has been observed most consistently at higher doses.
+
+To minimize the potential risk for an adverse CV event in NSAID-treated patients, use the lowest effective dose for the shortest duration possible.
+Physicians and patients should remain alert for the development of such events, throughout the entire treatment course, even in the absence of previous CV symptoms.
+Patients should be informed about the symptoms of serious CV events and the steps to take if they occur.
+
+There is no consistent evidence that concurrent use of aspirin mitigates the increased risk of serious CV thrombotic events associated with NSAID use.
+The concurrent use of aspirin and an NSAID, such as diclofenac, increases the risk of serious gastrointestinal (GI) events (see WARNINGS; Gastrointestinal Bleeding, Ulceration, and Perforation).
+
+Status Post Coronary Artery Bypass Graft (CABG) Surgery
+
+Two large, controlled, clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10-14 days following CABG surgery found an increased incidence of myocardial infarction and stroke.
+NSAIDs are contraindicated in the setting of CABG (see CONTRAINDICATIONS).
+
+Post-MI Patients
+
+Observational studies conducted in the Danish National Registry have demonstrated that patients treated with NSAIDs in the post-MI period were at increased risk of reinfarction, CV-related death, and all-cause mortality beginning in the first week of treatment.
+In this same cohort, the incidence of death in the first year post-MI was 20 per 100 person years in NSAID-treated patients compared to 12 per 100 person years in non-NSAID exposed patients.
+Although the absolute rate of death declined somewhat after the first year post-MI, the increased relative risk of death in NSAID users persisted over at least the next four years of follow-up.
+
+Avoid the use of VOLTAREN-XR in patients with a recent MI unless the benefits are expected to outweigh the risk of recurrent CV thrombotic events.
+If VOLTAREN-XR is used in patients with a recent MI, monitor patients for signs of cardiac ischemia.
+
+Gastrointestinal Bleeding, Ulceration, and Perforation
+
+NSAIDs, including diclofenac, can cause serious gastrointestinal (GI) adverse events including inflammation, bleeding, ulceration, and perforation of the esophagus, stomach, small intestine, or large intestine, which can be fatal.
+These serious adverse events can occur at any time, with or without warning symptoms, in patients treated with NSAIDs.
+Only one in five patients, who develop a serious upper GI adverse event on NSAID therapy, is symptomatic.
+Upper GI ulcers, gross bleeding, or perforation caused by NSAIDs occurred in approximately 1% of patients treated for 3-6 months, and in about 2%-4% of patients treated for one year..
+However, even short-term therapy is not without risk.
+
+Risk Factors for GI Bleeding, Ulceration, and Perforation
+
+Patients with a prior history of peptic ulcer disease and/or GI bleeding who use NSAIDs had a greater than 10-fold increased risk for developing a GI bleed compared to patients without these risk factors.
+Other factors that increase the risk of GI bleeding in patients treated with NSAIDs include longer duration of NSAID therapy, concomitant use of oral corticosteroids, aspirin, anticoagulants, or selective serotonin reuptake inhibitors (SSRIs);smoking, use of alcohol, older age, and poor general health status.
+Most postmarketing reports of fatal GI events occurred in elderly or debilitated patients.
+Additionally, patients with advanced liver disease and/or coagulopathy are at increased risk for GI bleeding.
+
+Strategies to Minimize the GI Risks in NSAID-treated patients:
+
+- Use the lowest effective dose for the shortest possible duration.
+- Avoid administration of more than one NSAID at a time
+- Avoid use in patients at higher risk unless benefits are expected to outweigh the increased risk of bleeding.
+  For such patients, as well as those with active GI bleeding, consider alternate therapies other than NSAIDs.
+- Remain alert for signs and symptoms of GI ulceration and bleeding during NSAID therapy.
+- If a serious GI adverse event is suspected, promptly initiate evaluation and treatment, and discontinue VOLTAREN XR until a serious GI adverse event is ruled out.
+- In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, monitor patients more closely for evidence of GI bleeding (see PRECAUTIONS; Drug Interactions).
+
+Hepatotoxicity
+
+In clinical trials of diclofenac- containing products, meaningful elevations (i.e., more than 3 times the ULN) of AST (SGOT) were observed in about 2% of approximately 5,700 patients at some time during diclofenac treatment (ALT was not measured in all studies).
+
+In a large, open-label, controlled trial of 3,700 patients treated with oral diclofenac sodium for 2-6 months, patients were monitored first at 8 weeks and 1,200 patients were monitored again at 24 weeks.
+Meaningful elevations of ALT and/or AST occurred in about 4% of patients and included marked elevations (greater than 8 times the ULN) in about 1% of the 3,700 patients.
+In that open-label study, a higher incidence of borderline (less than 3 times the ULN), moderate (3-8 times the ULN), and marked (greater than 8 times the ULN) elevations of ALT or AST was observed in patients receiving diclofenac when compared to other NSAIDs.
+Elevations in transaminases were seen more frequently in patients with osteoarthritis than in those with rheumatoid arthritis.
+
+Almost all meaningful elevations in transaminases were detected before patients became symptomatic.
+Abnormal tests occurred during the first 2 months of therapy with diclofenac in 42 of the 51 patients in all trials who developed marked transaminase elevations.
+
+In postmarketing reports, cases of drug-induced hepatotoxicity have been reported in the first month, and in some cases, the first 2 months of therapy, but can occur at any time during treatment with diclofenac.
+Postmarketing surveillance has reported cases of severe hepatic reactions, including liver necrosis, jaundice, fulminant hepatitis with and without jaundice, and liver failure.
+Some of these reported cases resulted in fatalities or liver transplantation.
+
+In a European retrospective population-based, case-controlled study, 10 cases of diclofenac associated drug-induced liver injury with current use compared with non-use of diclofenac were associated with a statistically significant 4-fold adjusted odds ratio of liver injury.
+In this particular study, based on an overall number of 10 cases of liver injury associated with diclofenac, the adjusted odds ratio increased further with female gender, doses of 150 mg or more, and duration of use for more than 90 days.
+
+Physicians should measure transaminases at baseline and periodically in patients receiving long-term therapy with diclofenac, because severe hepatotoxicity may develop without a prodrome of distinguishing symptoms.
+The optimum times for making the first and subsequent transaminase measurements are not known.
+Based on clinical trial data and postmarketing experiences, transaminases should be monitored within 4 to 8 weeks after initiating treatment with diclofenac.
+However, severe hepatic reactions can occur at any time during treatment with diclofenac.
+
+If abnormal liver tests persist or worsen, if clinical signs and/or symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, abdominal pain, diarrhea, dark urine, etc.), VOLTAREN-XR should be discontinued immediately.
+
+Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, diarrhea, pruritus, jaundice, right upper quadrant tenderness, and "flu-like" symptoms).
+If clinical signs and symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, etc.), discontinue VOLTAREN-XR immediately, and perform a clinical evaluation of the patient.
+
+To minimize the potential risk for an adverse liver related event in patients treated with VOLTAREN-XR, use the lowest effective dose for the shortest duration possible.
+Exercise caution when prescribing VOLTAREN-XR with concomitant drugs that are known to be potentially hepatotoxic (e.g., acetaminophen, antibiotics, anti-epileptics).
+
+Hypertension
+
+NSAIDs, including VOLTAREN-XR, can lead to new onset of hypertension or worsening of preexisting hypertension, either of which may contribute to the increased incidence of CV events.
+Patients taking angiotensin converting enzyme (ACE) inhibitors, thiazides diuretics, or loop diuretics may have impaired response to these therapies when taking NSAIDs.
+(see PRECAUTIONS; Drug Interactions).
+
+Monitor blood pressure (BP) during the initiation of NSAID treatment and throughout the course of therapy.
+
+Heart Failure and Edema
+
+The Coxib and traditional NSAID Trialists’ Collaboration meta-analysis of randomized controlled trials demonstrated an approximately two-fold increase in hospitalization for heart failure in COX-2 selective-treated patients and nonselective NSAID-treated patients compared to placebo-treated patients.
+In a Danish National Registry study of patients with heart failure, NSAID use increased the risk of MI, hospitalization for heart failure, and death.
+
+Additionally, fluid retention and edema have been observed in some patients treated with NSAIDs.
+Use of diclofenac may blunt the CV effects of several therapeutic agents used to treat these medical conditions (e.g., diuretics, ACE inhibitors, or angiotensin receptor blockers [ARBs]) (see PRECAUTIONS; Drug Interactions).
+
+Avoid the use of VOLTAREN-XR in patients with severe heart failure unless the benefits are expected to outweigh the risk of worsening heart failure.
+If VOLTAREN-XR is used in patients with severe heart failure, monitor patients for signs of worsening heart failure.
+
+Renal Toxicity and Hyperkalemia
+
+Renal Toxicity
+
+Long-term administration of NSAIDs has resulted in renal papillary necrosis and other renal injury.
+
+Renal toxicity has also been seen in patients in whom renal prostaglandins have a compensatory role in the maintenance of renal perfusion.
+In these patients, administration of an NSAID may cause a dose-dependent reduction in prostaglandin formation and, secondarily, in renal blood flow, which may precipitate overt renal decompensation.
+Patients at greatest risk of this reaction are those with impaired renal function, dehydration, hypovolemia, heart failure, liver dysfunction, those taking diuretics and ACE inhibitors or ARBs, and the elderly.
+Discontinuation of NSAID therapy is usually followed by recovery to the pretreatment state.
+
+No information is available from controlled clinical studies regarding the use of VOLTAREN-XR in patients with advanced renal disease.
+The renal effects of VOLTAREN-XR may hasten the progression of renal dysfunction in patients with preexisting renal disease.
+
+Correct volume status in dehydrated or hypovolemic patients prior to initiating VOLTAREN-XR.
+Monitor renal function in patients with renal or hepatic impairment, heart failure, dehydration, or hypovolemia during use of VOLTAREN-XR (see PRECAUTIONS; Drug Interactions).
+Avoid the use of VOLTAREN-XR in patients with advanced renal disease unless the benefits are expected to outweigh the risk of worsening renal function.
+If VOLTAREN-XR is used in patients with advanced renal disease, monitor patients for signs of worsening renal function.
+
+Hyperkalemia
+
+Increases in serum potassium concentration, including hyperkalemia, have been reported with use of NSAIDs, even in some patients without renal impairment.
+In patients with normal renal function, these effects have been attributed to a hyporeninemic-hypoaldosteronism state.
+
+Anaphylactic Reactions
+
+Diclofenac has been associated with anaphylactic reactions in patients with and without known hypersensitivity to diclofenac and in patients with aspirin-sensitive asthma (see CONTRAINDICATIONS, WARNINGS; Exacerbation of Asthma Related to Aspirin Sensitivity).
+
+Exacerbation of Asthma Related to Aspirin Sensitivity
+
+A subpopulation of patients with asthma may have aspirin-sensitive asthma which may include chronic rhinosinusitis complicated by nasal polyps; severe, potentially fatal bronchospasm; and/or intolerance to aspirin and other NSAIDs.
+Because cross-reactivity between aspirin and other NSAIDs has been reported in such aspirin-sensitive patients, VOLTAREN XR is contraindicated in patients with this form of aspirin sensitivity (see CONTRAINDICATIONS).
+When VOLTAREN XR is used in patients with preexisting asthma (without known aspirin sensitivity), monitor patients for changes in the signs and symptoms of asthma.
+
+Serious Skin Reactions
+
+NSAIDs, including diclofenac, can cause serious skin adverse events such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
+These serious events may occur without warning.
+Inform patients about the signs and symptoms of serious skin reactions and to discontinue the use of VOLTAREN-XR at the first appearance of skin rash or any other sign of hypersensitivity.
+VOLTAREN-XR is contraindicated in patients with previous serious skin reactions to NSAIDs (see CONTRAINDICATIONS)
+
+Premature Closure of Fetal Ductus Arteriosus
+
+Diclofenac may cause premature closure of the fetal ductus arteriosus.
+Avoid use of NSAIDs, including VOLTAREN XR, in pregnant women starting at 30 weeks of gestation (third trimester) (see PRECAUTIONS; Pregnancy).
+
+Hematologic Toxicity
+
+Anemia has occurred in NSAID-treated patients.
+This may be due to occult or gross blood loss, fluid retention, or an incompletely described effect on erythropoiesis.
+If a patient treated with VOLTAREN-XR has any signs or symptoms of anemia, monitor hemoglobin or hematocrit.
+
+NSAIDs, including VOLTAREN-XR, may increase the risk of bleeding events.
+Co-morbid conditions such as coagulation disorders, concomitant use of warfarin, other anticoagulants, antiplatelet agents (e.g., aspirin), serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs) may increase this risk.
+Monitor these patients for signs of bleeding.
+(see PRECAUTIONS; Drug Interactions).
+
 # PRECAUTIONS
 
 ## General
 
-Voltaren®-XR (diclofenac sodium extended-release) tablets, USP cannot be expected to substitute for corticosteroids or to treat corticosteroid insufficiency.
+VOLTAREN®-XR (diclofenac sodium extended-release) tablets, USP cannot be expected to substitute for corticosteroids or to treat corticosteroid insufficiency.
 Abrupt discontinuation of corticosteroids may lead to disease exacerbation.
-Patients on prolonged corticosteroid therapy should have their therapy tapered slowly if a decision is made to discontinue corticosteroids.
+Patients on prolonged corticosteroid therapy should have their therapy tapered slowly if a decision is made to discontinue corticosteroids and the patient should be observed closely for any evidence of adverse effects, including adrenal insufficiency and exacerbation of symptoms of arthritis.
 
-The pharmacological activity of Voltaren-XR in reducing fever and inflammation may diminish the utility of these diagnostic signs in detecting complications of presumed noninfectious, painful conditions.
-
-## Hematological Effects
-
-Anemia is sometimes seen in patients receiving NSAIDs, including Voltaren-XR.
-This may be due to fluid retention, occult or gross GI blood loss, or an incompletely described effect upon erythropoiesis.
-Patients on long-term treatment with NSAIDs, including Voltaren-XR, should have their hemoglobin or hematocrit checked if they exhibit any signs or symptoms of anemia.
-
-NSAIDs inhibit platelet aggregation and have been shown to prolong bleeding time in some patients.
-Unlike aspirin, their effect on platelet function is quantitatively less, of shorter duration, and reversible.
-Patients receiving Voltaren-XR who may be adversely affected by alterations in platelet function, such as those with coagulation disorders or patients receiving anticoagulants, should be carefully monitored.
-
-## Preexisting Asthma
-
-Patients with asthma may have aspirin-sensitive asthma.
-The use of aspirin in patients with aspirin-sensitive asthma has been associated with severe bronchospasm which can be fatal.
-Since cross-reactivity, including bronchospasm, between aspirin and other nonsteroidal anti-inflammatory drugs has been reported in such aspirin-sensitive patients, Voltaren-XR should not be administered to patients with this form of aspirin sensitivity and should be used with caution in all patients with preexisting asthma.
-
-## Information for Patients
-
-Patients should be informed of the following information before initiating therapy with an NSAID and periodically during the course of ongoing therapy.
-Patients should also be encouraged to read the NSAID Medication Guide that accompanies each prescription dispensed.
-
-1. Voltaren-XR, like other NSAIDs, may cause serious CV side effects, such as MI or stroke, which may result in hospitalization and even death.
-   Although serious CV events can occur without warning symptoms, patients should be alert for the signs and symptoms of chest pain, shortness of breath, weakness, slurring of speech, and should ask for medical advice when observing any indicative sign or symptoms.
-   Patients should be apprised of the importance of this follow-up (see WARNINGS, Cardiovascular Effects).
-2. Voltaren-XR, like other NSAIDs, can cause GI discomfort and, rarely, more serious GI side effects, such as ulcers and bleeding, which may result in hospitalization and even death.
-   Although serious GI tract ulcerations and bleeding can occur without warning symptoms, patients should be alert for the signs and symptoms of ulcerations and bleeding, and should ask for medical advice when observing any indicative sign or symptoms including epigastric pain, dyspepsia, melena, and hematemesis.
-   Patients should be apprised of the importance of this follow-up (see WARNINGS, Gastrointestinal Effects: Risk of Ulceration, Bleeding, and Perforation).
-3. Voltaren-XR, like other NSAIDs, can cause serious skin side effects such as exfoliative dermatitis, SJS, and TEN, which may result in hospitalizations and even death.
-   Although serious skin reactions may occur without warning, patients should be alert for the signs and symptoms of skin rash and blisters, fever, or other signs of hypersensitivity such as itching, and should ask for medical advice when observing any indicative signs or symptoms.
-   Patients should be advised to stop the drug immediately if they develop any type of rash and contact their physicians as soon as possible.
-4. Patients should promptly report signs or symptoms of unexplained weight gain or edema to their physicians.
-5. Patients should be informed of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness, and “flu-like” symptoms).
-   If these occur, patients should be instructed to stop therapy and seek immediate medical therapy (see WARNINGS, Hepatic Effects).
-6. Patients should be informed of the signs of an anaphylactic reaction (e.g., difficulty breathing, swelling of the face or throat).
-   If these occur, patients should be instructed to seek immediate emergency help (see WARNINGS, Anaphylactic Reactions).
-7. In late pregnancy, as with other NSAIDs, Voltaren-XR should be avoided because it will cause premature closure of the ductus arteriosus.
-
-## Laboratory Tests
-
-Because serious GI tract ulcerations and bleeding can occur without warning symptoms, physicians should monitor for signs or symptoms of GI bleeding.
-In patients on long-term treatment with NSAIDs, including Voltaren-XR, the CBC and a chemistry profile (including transaminase levels) should be checked periodically.
-If clinical signs and symptoms consistent with liver or renal disease develop, systemic manifestations occur (e.g., eosinophilia, rash, etc.) or if abnormal liver tests persist or worsen, Voltaren-XR should be discontinued.
-
-## Drug Interactions
-
-Aspirin: When Voltaren-XR is administered with aspirin, its protein binding is reduced.
-The clinical significance of this interaction is not known; however, as with other NSAIDs, concomitant administration of diclofenac and aspirin is not generally recommended because of the potential of increased adverse effects.
-
-Methotrexate: NSAIDs have been reported to competitively inhibit methotrexate accumulation in rabbit kidney slices.
-This may indicate that they could enhance the toxicity of methotrexate.
-Caution should be used when NSAIDs are administered concomitantly with methotrexate.
-
-Cyclosporine: Voltaren-XR, like other NSAIDs, may affect renal prostaglandins and increase the toxicity of certain drugs.
-Therefore, concomitant therapy with Voltaren-XR may increase cyclosporine’s nephrotoxicity.
-Caution should be used when Voltaren-XR is administered concomitantly with cyclosporine.
-
-ACE Inhibitors: Reports suggest that NSAIDs may diminish the antihypertensive effect of ACE inhibitors.
-This interaction should be given consideration in patients taking NSAIDs concomitantly with ACE inhibitors.
-
-Furosemide: Clinical studies, as well as postmarketing observations, have shown that Voltaren-XR can reduce the natriuretic effect of furosemide and thiazides in some patients.
-This response has been attributed to inhibition of renal prostaglandin synthesis.
-During concomitant therapy with NSAIDs, the patient should be observed closely for signs of renal failure (see WARNINGS, Renal Effects), as well as to assure diuretic efficacy.
-
-Lithium: NSAIDs have produced an elevation of plasma lithium levels and a reduction in renal lithium clearance.
-The mean minimum lithium concentration increased 15% and the renal clearance was decreased by approximately 20%.
-These effects have been attributed to inhibition of renal prostaglandin synthesis by the NSAID.
-Thus, when NSAIDs and lithium are administered concurrently, subjects should be observed carefully for signs of lithium toxicity.
-
-Warfarin: The effects of warfarin and NSAIDs on GI bleeding are synergistic, such that users of both drugs together have a risk of serious GI bleeding higher than users of either drug alone.
-
-CYP2C9 Inhibitors or Inducers: Diclofenac is metabolized by cytochrome P450 enzymes, predominantly by CYP2C9.
-Co-administration of diclofenac with CYP2C9 inhibitors (e.g. voriconazole) may enhance the exposure and toxicity of diclofenac whereas co-administration with CYP2C9 inducers (e.g. rifampin) may lead to compromised efficacy of diclofenac.
-Use caution when dosing diclofenac with CYP2C9 inhibitors or inducers, a dosage adjustment may be warranted (see CLINICAL PHARMACOLOGY, Pharmacokinetics, Drug Interactions).
-
-## Pregnancy
-
-## Teratogenic Effects: Pregnancy Category C
-
-Reproductive studies conducted in rats and rabbits have not demonstrated evidence of developmental abnormalities.
-However, animal reproduction studies are not always predictive of human response.
-There are no adequate and well-controlled studies in pregnant women.
-
-## Nonteratogenic Effects
-
-Because of the known effects of nonsteroidal anti-inflammatory drugs on the fetal cardiovascular system (closure of ductus arteriosus), use during pregnancy (particularly late pregnancy) should be avoided.
-
-## Labor and Delivery
-
-In rat studies with NSAIDs, as with other drugs known to inhibit prostaglandin synthesis, an increased incidence of dystocia, delayed parturition, and decreased pup survival occurred.
-The effects of Voltaren-XR on labor and delivery in pregnant women are unknown.
-
-## Nursing Mothers
-
-It is not known whether this drug is excreted in human milk.
-Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from Voltaren-XR, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
-
-## Pediatric Use
-
-Safety and effectiveness in pediatric patients have not been established.
-
-## Geriatric Use
-
-As with any NSAIDs, caution should be exercised in treating the elderly (65 years and older).
+The pharmacological activity of VOLTAREN-XR in reducing fever and inflammation may diminish the utility of these diagnostic signs in detecting complications of presumed noninfectious, painful conditions.

@@ -1,8 +1,10 @@
 # CONTRAINDICATIONS
 
-Voltaren®-XR (diclofenac sodium extended-release) tablets, USP is contraindicated in patients with known hypersensitivity to diclofenac.
+VOLTAREN®-XR is contraindicated in the following patients:
 
-Voltaren-XR should not be given to patients who have experienced asthma, urticaria, or allergic-type reactions after taking aspirin or other NSAIDs.
-Severe, rarely fatal, anaphylactic-like reactions to NSAIDs have been reported in such patients (see WARNINGS, Anaphylactic Reactions, and PRECAUTIONS, Preexisting Asthma).
+- Known hypersensitivity (e.g., anaphylactic reactions and serious skin reactions) to diclofenac or any components of the drug product (see WARNINGS; Anaphylactic Reactions, Serious Skin Reactions).
+- History of asthma, urticaria, or allergic-type reactions after taking aspirin or other NSAIDs.
+  Severe, sometimes fatal, anaphylactice reactions to NSAIDs have been reported in such patients (see WARNINGS; Anaphylactic Reactions, PRECAUTIONS; Exacerbation of Asthma Related to Aspirin Sensitivity).
+- In the setting of coronary artery bypass graft (CABG) surgery (see WARNINGS; Cardiovascular Thrombotic Events).
 
-Voltaren-XR is contraindicated for the treatment of perioperative pain in the setting of coronary artery bypass graft (CABG) surgery (see WARNINGS).
+In the setting of coronary artery bypass graft (CABG) surgery (see WARNINGS; Cardiovascular Thrombotic Events).

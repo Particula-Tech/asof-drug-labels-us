@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Voltaren®-XR (diclofenac sodium extended-release) tablets, USP
+VOLTAREN®-XR (diclofenac sodium extended-release) tablets, USP
 
 100 mg
 
@@ -8,7 +8,8 @@ Light pink, film-coated, round, biconvex with beveled edges (imprinted Voltaren 
 
 Bottles of 100……………………………………………………..NDC 0078-0446-05
 
-Do not store above 30ºC (86ºF).
+Store at room temperature 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
+
 Protect from moisture.
 
 Dispense in tight container (USP).
