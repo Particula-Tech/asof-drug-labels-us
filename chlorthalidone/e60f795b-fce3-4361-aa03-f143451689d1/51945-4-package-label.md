@@ -14,17 +14,17 @@ Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F).
 [See USP Controlled Room Temperature.]
 
 30 Tablets Do not accept if tamper-evident ring is broken or missing.
+Do not repackage or remove desiccant canisters.
 Keep container tightly closed.
 Protect from moisture and light.
 
 Dispense and store in original container.
 
-Manufactured for: arbor™ PHARMACEUTICALS, LLC.
-Atlanta, GA 30328
+Manufactured for: arbor PHARMACEUTICALS, LLC Atlanta, GA 30328
 
 Manufactured by: Takeda Osaka, Japan
 
-L127-02 EC-TL12-30-01
+63457-02 EC-TL12-30-02
 
 # PRINCIPAL DISPLAY PANEL - 40 mg/25 mg Tablet Bottle Label
 
@@ -42,14 +42,14 @@ Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F).
 [See USP Controlled Room Temperature.]
 
 30 Tablets Do not accept if tamper-evident ring is broken or missing.
+Do not repackage or remove desiccant canisters.
 Keep container tightly closed.
 Protect from moisture and light.
 
 Dispense and store in original container.
 
-Manufactured for: arbor™ PHARMACEUTICALS, LLC.
-Atlanta, GA 30328
+Manufactured for: arbor PHARMACEUTICALS, LLC Atlanta, GA 30328
 
 Manufactured by: Takeda Osaka, Japan
 
-L129-02 EC-TL25-30-01
+63458-02 EC-TL25-30-02
