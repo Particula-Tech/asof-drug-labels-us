@@ -23,7 +23,7 @@ The safety and effectiveness of cefepime in the treatment of uncomplicated and c
 Use of Cefepime Injection in these age groups is supported by evidence from adequate and well-controlled studies of cefepime in adults with additional pharmacokinetic and safety data from pediatric trials [see Clinical Pharmacology (12)].
 
 Safety and effectiveness in pediatric patients below the age of 2 months have not been established.
-There are insufficient clinical data to support the use of Cefepime Injection in pediatric patients under 2 months of age or for the treatment of serious infections in the pediatric population where the suspected or proven pathogen is Haemophilus influenzae type b.
+There are insufficient clinical data to support the use of Cefepime Injection in pediatric patients under 2 months of age or for the treatment of serious infections in the pediatric population where the suspected or proven pathogen is Haemophilus influenzae type b. In those patients in whom meningeal seeding from a distant infection site or in whom meningitis is suspected or documented, an alternate agent with demonstrated clinical efficacy in this setting should be used.
 
 Cefepime Injection in GALAXY Container should be used only in pediatric patients who require the entire 1 or 2 g dose and not any fraction thereof.
 
@@ -36,3 +36,7 @@ Serious adverse events have occurred in geriatric patients with renal impairment
 
 This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and renal function should be monitored [see Clinical Pharmacology (12), Warnings and Precautions (5), and Dosage and Administration (2)].
+
+## 8.6 Renal Impairment
+
+Adjust the dose of Cefepime Injection in patients with creatinine clearance less than or equal to 60 mL/min to compensate for the slower rate of renal elimination [see Dosage and Administration (2.3)].

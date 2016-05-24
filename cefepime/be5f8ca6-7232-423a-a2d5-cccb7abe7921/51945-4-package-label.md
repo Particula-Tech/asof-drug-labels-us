@@ -1,9 +1,5 @@
 # PACKAGE LABEL - PRINCIPLE DISPLAY PANEL
 
-Container Label
-
-Container Label
-
 Baxter 1 g
 
 Cefepime Injection
@@ -57,10 +53,6 @@ Baxter Healthcare Corporation
 Deerfield, IL 60015 USA PL 2040 Plastic
 
 Made in USA 07-34-63-744
-
-Carton Label
-
-Carton Label
 
 Thaw at room temperature (25°C/77°F) or under refrigeration (5°C/41°F).
 DO NOT FORCE THAW BY IMMERSION IN WATER BATHS OR BY MICROWAVE IRRADIATION.

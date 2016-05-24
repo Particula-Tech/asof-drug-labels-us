@@ -1,7 +1,5 @@
 # 12 CLINICAL PHARMACOLOGY
 
-Cefepime is an antibacterial agent belonging to the cephalosporin class of antibacterials with in vitro antibacterial activity against facultative Gram-positive and Gram-negative bacteria.
-
 ## 12.1 Mechanism of Action
 
 Cefepime is an antibacterial drug.
@@ -14,21 +12,15 @@ However, the pharmacokinetic/pharmacodynamic relationship for cefepime has not b
 
 ## 12.3 Pharmacokinetics
 
-The average plasma concentrations of cefepime observed in healthy adult male volunteers (n=9) at various times following single 30-minute intravenous infusions of cefepime 500 mg, 1 g, and 2 g are summarized in Table 6.
+Pharmacokinetic parameters for cefepime in healthy adult male volunteers (n=9) following single 30-minute intravenous infusions of cefepime 500 mg, 1 g, and 2 g are summarized in Table 6.
 Elimination of cefepime is principally via renal excretion with an average (±SD) half-life of 2 (±0.3) hours and total body clearance of 120 (±8) mL/min in healthy volunteers.
 Cefepime pharmacokinetics are linear over the range 250 mg to 2 g. There is no evidence of accumulation in healthy adult male volunteers (n=7) receiving clinically relevant doses for a period of 9 days.
 
-Table 6: Average Plasma Concentrations in mcg/mL of Cefepime and Derived Pharmacokinetic Parameters (±SD), Intravenous Administration
+Table 6: Mean Pharmacokinetic Parameters for Cefepime (±SD), Intravenous Administration
 
 | Parameter | 500 mg IV | 1 g IV | 2 g IV |
 | --- | --- | --- | --- |
 |  | CEFEPIME |  |  |
-| 0.5 h | 38.2 | 78.7 | 163.1 |
-| 1 h | 21.6 | 44.5 | 85.8 |
-| 2 h | 11.6 | 24.3 | 44.8 |
-| 4 h | 5 | 10.5 | 19.2 |
-| 8 h | 1.4 | 2.4 | 3.9 |
-| 12 h | 0.2 | 0.6 | 1.1 |
 | Cmax, mcg/mL | 39.1 (3.5) | 81.7 (5.1) | 163.9 (25.3) |
 | AUC, h•mcg/mL | 70.8 (6.7) | 148.5 (15.1) | 284.8 (30.6) |
 | Number of subjects (male) | 9 | 9 | 9 |
@@ -37,14 +29,14 @@ Distribution
 
 The average steady-state volume of distribution of cefepime is 18.0 (±2.0) L. The serum protein binding of cefepime is approximately 20% and is independent of its concentration in serum.
 
-Cefepime is excreted in human milk.
+Cefepime is excreted in human milk at a concentration of 0.5 mcg/mL.
 A nursing infant consuming approximately 1000 mL of human milk per day would receive approximately 0.5 mg of cefepime per day [see Use in Specific Populations (8.3)].
 
 Concentrations of cefepime achieved in specific tissues and body fluids are listed in Table 7.
 
-Table 7: Average Concentrations of Cefepime in Specific Body Fluids (mcg/mL) or Tissues (mcg/g)
+Table 7: Mean Concentrations of Cefepime in Specific Body Fluids (mcg/mL) or Tissues (mcg/g)
 
-| Tissue or Fluid | Dose/Route | # of Patients | Average Time of Sample Post-Dose (h) | Average Concentration |
+| Tissue or Fluid | Dose/Route | # of Patients | Mean Time of Sample Post-Dose (h) | Mean Concentration |
 | --- | --- | --- | --- | --- |
 | Blister Fluid | 2 g IV | 6 | 1.5 | 81.4 mcg/mL |
 | Bronchial Mucosa | 2 g IV | 20 | 4.8 | 24.1 mcg/g |
@@ -105,77 +97,58 @@ Cefepime has a low affinity for chromosomally-encoded beta-lactamases.
 Cefepime is highly resistant to hydrolysis by most beta-lactamases and exhibits rapid penetration into Gram-negative bacterial cells.
 Within bacterial cells, the molecular targets of cefepime are the penicillin binding proteins (PBP).
 
-Cefepime has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section.
+Antimicrobial Activity
+
+Cefepime has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections [see INDICATIONS AND USAGE (1)]:
 
 Gram-negative bacteria
 
-Enterobacter spp.
-
-Escherichia coli
-
-Klebsiella pneumoniae
-
-Proteus mirabilis
-
-Pseudomonas aeruginosa
+- Enterobacter spp.
+- Escherichia coli
+- Klebsiella pneumoniae
+- Proteus mirabilis
+- Pseudomonas aeruginosa
 
 Gram-positive bacteria
 
-Staphylococcus aureus (methicillin-susceptible isolates only)
-
-Streptococcus pneumoniae
-
-Streptococcus pyogenes (Lancefield’s Group A streptococci)
-
-Viridans group streptococci
+- Staphylococcus aureus (methicillin-susceptible isolates only)
+- Streptococcus pneumoniae
+- Streptococcus pyogenes (Lancefield’s Group A streptococci)
+- Viridans group streptococci
 
 The following in vitro data are available, but their clinical significance is unknown.
-At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for cefepime.
+At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for cefepime against isolates of similar genus or organism group.
 However, the efficacy of cefepime in treating clinical infections due to these bacteria has not been established in adequate and well-controlled clinical trials.
 
 Gram-positive bacteria
 
-Staphylococcus epidermidis (methicillin-susceptible isolates only)
-
-Staphylococcus saprophyticus
-
-Streptococcus agalactiae (Lancefield’s Group B streptococci)
+- Staphylococcus epidermidis (methicillin-susceptible isolates only)
+- Staphylococcus saprophyticus
+- Streptococcus agalactiae (Lancefield’s Group B streptococci)
 
 NOTE: Most isolates of enterococci, eg, Enterococcus faecalis, and methicillin-resistant staphylococci are resistant to cefepime.
 
 Gram-negative bacteria
 
-Acinetobacter calcoaceticus subsp. lwoffii
-
-Citrobacter diversus
-
-Citrobacter freundii
-
-Enterobacter agglomerans
-
-Haemophilus influenzae
-
-Hafnia alvei
-
-Klebsiella oxytoca
-
-Moraxella catarrhalis
-
-Morganella morganii
-
-Proteus vulgaris
-
-Providencia rettgeri
-
-Providencia stuartii
-
-Serratia marcescens
+- Acinetobacter calcoaceticus subsp. lwoffii
+- Citrobacter diversus
+- Citrobacter freundii
+- Enterobacter agglomerans
+- Haemophilus influenzae
+- Hafnia alvei
+- Klebsiella oxytoca
+- Moraxella catarrhalis
+- Morganella morganii
+- Proteus vulgaris
+- Providencia rettgeri
+- Providencia stuartii
+- Serratia marcescens
 
 NOTE: Cefepime is inactive against many isolates of Stenotrophomonas (formerly Xanthomonas maltophilia and Pseudomonas maltophilia).
 
 Susceptibility Test Methods
 
-When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drug products used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
+When available, the clinical microbiology laboratory should provide cumulative reports of in vitro susceptibility test results for antimicrobial drug products used in local hospitals and practice areas to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
 These reports should aid the physician in selecting an antibacterial drug product for treatment.
 
 Dilution techniques
@@ -188,9 +161,8 @@ The MIC should be interpreted according to criteria provided in Table 8.
 Diffusion techniques
 
 Quantitative methods that require the measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
 The zone size should be determined using a standardized test method.2,3 This procedure uses paper discs impregnated with 30 mcg cefepime to test the susceptibility of microorganisms to cefepime.
-The disc diffusion interpretive criteria are provided in Table 8.
+The disk diffusion interpretive criteria are provided in Table 8.
 
 Table 8: Susceptibility Test Interpretive Criteria for CefepimeFor patients with renal impairment see Table 2 in Dosage and Administration (2.2).
 
@@ -199,17 +171,19 @@ Table 8: Susceptibility Test Interpretive Criteria for CefepimeFor patients with
 | (S) Susceptible | (I) Intermediate | (R) Resistant | (S) Susceptible | (I) Intermediate | (R) Resistant |  |
 | Enterobacteriaceae | ≤2 | 4-8For isolates of Enterobacteriaceae with intermediate susceptibility, use a dose of 2g every 8 hours in patients with normal renal function. | ≥16 | ≥25 | 19-24 | ≤18 |
 | Pseudomonas aeruginosaFor Pseudomonas aeruginosa, use 2 g IV every 8 hours in patients with normal renal function. | ≤8 | - | ≥16 | ≥18 | - | ≤17 |
-| Streptococcus pneumoniaeFor non-meningitis isolates, a penicillin MIC of < 0.06 mcg/ml (or oxacillin zone > 20mm) can predict susceptibility to cefepime.non-meningitisisolates | ≤1 | 2 | ≥4 | - | - | - |
+| Streptococcus pneumoniaeFor non-meningitis isolates, a penicillin MIC of < 0.06 mcg/ml (or oxacillin zone > 20mm) can predict susceptibility to cefepime.non-meningitis isolates | ≤1 | 2 | ≥4 | - | - | - |
 | Streptococcus pyogenes | ≤0.5 | - | - | ≥24 | - | - |
 | Viridans group streptococci | ≤1 | 2 | ≥4 | ≥24 | 22-23 | ≤21 |
 
 Susceptibility of staphylococci to cefepime may be deduced from testing only penicillin and either cefoxitin or oxacillin.
 
-A report of Susceptible indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations at the infection site necessary to inhibit growth of the pathogen.
-A report of Intermediate indicates that the results should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
-This category implies possible clinical applicability in body sites where the drug product is physiologically concentrated or in situations where a high dosage of the drug can be used.
+A report of Susceptible (S) indicates that the antimicrobial drug is likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
+
+A report of Intermediate(I) indicates that the results should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
+This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where a high dosage of the drug can be used.
 This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of Resistant indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations usually achievable at the infection site; other therapy should be selected.
+
+A report of Resistant(R) indicates that the antimicrobial drug is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the infection site; other therapy should be selected.
 
 Quality Control
 

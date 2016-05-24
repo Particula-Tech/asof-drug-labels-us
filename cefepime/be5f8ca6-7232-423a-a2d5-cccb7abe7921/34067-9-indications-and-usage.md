@@ -1,9 +1,5 @@
 # 1 INDICATIONS AND USAGE
 
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of Cefepime Injection and other antibacterial drugs, Cefepime Injection should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
-When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
-In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.
-
 ## 1.1 Pneumonia
 
 Cefepime Injection is indicated for pneumonia (moderate to severe) caused by Streptococcus pneumoniae, including cases associated with concurrent bacteremia, Pseudomonas aeruginosa, Klebsiella pneumoniae, or Enterobacter species.
@@ -25,3 +21,9 @@ Cefepime Injection is indicated for uncomplicated skin and skin structure infect
 ## 1.5 Complicated Intra-abdominal Infections
 
 Cefepime Injection is indicated for complicated intra-abdominal infections (used in combination with metronidazole) caused by Escherichia coli, viridans group streptococci, Pseudomonas aeruginosa, Klebsiella pneumoniae, Enterobacter species, or Bacteroides fragilis [see Clinical Studies (14)].
+
+## 1.6 Usage
+
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of Cefepime Injection and other antibacterial drugs, Cefepime Injection should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
+When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
+In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.
