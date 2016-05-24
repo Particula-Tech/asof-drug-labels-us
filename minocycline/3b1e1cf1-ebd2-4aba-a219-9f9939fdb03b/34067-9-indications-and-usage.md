@@ -7,7 +7,7 @@ Minocycline hydrochloride extended-release tablets USP are indicated to treat on
 ## 1.2 Limitations of Use
 
 Minocycline hydrochloride extended-release tablets USP did not demonstrate any effect on non-inflammatory acne lesions.
-Safety of minocycline hydrochloride extended-release tablets USP has not been established beyond 12 weeks of use.
+Safety of minocycline hydrochloride extended-release tablets USP have not been established beyond 12 weeks of use.
 This formulation of minocycline has not been evaluated in the treatment of infections [see CLINICAL STUDIES (14)]
 
 To reduce the development of drug-resistant bacteria as well as to maintain the effectiveness of other antibacterial drugs, minocycline hydrochloride extended-release tablets USP should be used only as indicated [see WARNINGS AND PRECAUTIONS (5.11)]

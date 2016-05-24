@@ -24,9 +24,6 @@ Patients taking Minocycline hydrochloride (minocycline HCl, USP) extended-releas
 - Minocycline hydrochloride extended-release tablets should be taken exactly as directed.
   Skipping doses or not completing the full course of therapy may decrease the effectiveness of the current treatment course and increase the likelihood that bacteria will develop resistance and will not be treatable by other antibacterial drugs in the future.
 - Patients should be advised to swallow minocycline hydrochloride extended-release tablets whole and not to chew, crush, or split the tablets.
-- Diarrhea is a common problem caused by antibiotics which usually ends with the antibiotic is discontinued.
-  Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even late as two or more months after having taken the last dose of antibiotic.
-  If this occurs, patients should contact their physician as soon as possible.
 
 ® Minocin is a registered trademark of Triax Pharmaceuticals, LLC.
 
@@ -46,4 +43,4 @@ Pithampur (M.P.) - 454 775
 
 INDIA
 
-November 2015 ID#: 243531
+June 1, 2016 ID#: 247030
