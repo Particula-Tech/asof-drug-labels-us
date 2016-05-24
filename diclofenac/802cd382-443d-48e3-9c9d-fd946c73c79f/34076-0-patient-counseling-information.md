@@ -1,60 +1,65 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Medication Guide and Instructions for Use)
+Advise the patient to read the FDA-approved patient labeling (Medication Guide) that accompanies each prescription dispensed.
+Inform patients, families, or their caregivers of the following information before initiating therapy with PENNSAID and periodically during the course of ongoing therapy.
 
-## 17.1 Patient/Caregiver Instructions
+Cardiovascular Thrombotic Events
 
-Inform patients of the following information before initiating therapy with an NSAID and periodically during the course of ongoing therapy.
-Encourage patients to read the NSAID Medication Guide that accompanies each prescription dispensed prior to using PENNSAID [see Medication Guide].
-Also instruct patient/caregiver to read the Patient Instructions for Use.
+Advise patients to be alert for the symptoms of cardiovascular thrombotic events, including chest pain, shortness of breath, weakness, or slurring of speech, and to report any of these symptoms to their health care provider immediately [see Warnings and Precautions (5.1)].
 
-## 17.2 Cardiovascular Effects
+Gastrointestinal Bleeding, Ulceration, and Perforation
 
-PENNSAID, like other NSAIDs, may cause serious CV side effects, such as MI or stroke, which may result in hospitalization and even death.
-Although serious CV events can occur without warning symptoms, instruct patients to be alert for the signs and symptoms of chest pain, shortness of breath, weakness, slurring of speech, and to ask for medical advice when observing any indicative sign or symptoms.
-Inform patients of the importance of this follow-up [see Warnings and Precautions (5.1)].
+Advise patients to report symptoms of ulceration and bleeding, including epigastric pain, dyspepsia, melena, and hematemesis to their health care provider.
+In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, inform patients of the increased risk for and the signs and symptoms of GI bleeding [see Warnings and Precautions (5.2)].
 
-## 17.3 Gastrointestinal Effects
-
-PENNSAID, like other NSAIDs, may cause GI discomfort and, rarely, serious GI side effects, such as ulcers and bleeding, which may result in hospitalization and even death.
-Although serious GI tract ulcerations and bleeding can occur without warning symptoms, inform patients to be alert for the signs and symptoms of ulceration and bleeding, and to ask for medical advice when observing any indicative sign or symptoms including epigastric pain, dyspepsia, melena, and hematemesis.
-Instruct patients of the importance of this follow-up [see Warnings and Precautions (5.2)].
-
-## 17.4 Hepatotoxicity
+Hepatotoxicity
 
 Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness, and "flu-like" symptoms).
-If these occur, instruct patients to stop therapy with PENNSAID and seek immediate medical therapy [see Warnings and Precautions (5.3)].
+If these occur, instruct patients to stop PENNSAID and seek immediate medical therapy [see Warnings and Precautions (5.3)].
 
-## 17.5 Adverse Skin Reactions
+Heart Failure and Edema
 
-PENNSAID, like other NSAIDs, can cause serious systemic skin side effects such as exfoliative dermatitis, SJS, and TEN, which may result in hospitalizations and even death.
-Although serious systemic skin reactions may occur without warning, instruct patients to be alert for the signs and symptoms of skin rash and blisters, fever, or other signs of hypersensitivity such as itching, and to ask for medical advice when observing any indicative signs or symptoms [see Warnings and Precautions (5.8)].
+Advise patients to be alert for the symptoms of congestive heart failure including shortness of breath, unexplained weight gain, or edema and to contact their healthcare provider if such symptoms occur [see Warnings and Precautions (5.5)].
 
-Advise patients to stop PENNSAID immediately if they develop any type of generalized rash and contact their physicians as soon as possible.
+Anaphylactic Reactions
 
-PENNSAID can cause a localized skin reaction at the application site.
-Advise patients to contact their physicians as soon as possible if they develop any type of localized application site rash.
+Inform patients of the signs of an anaphylactic reaction (e.g., difficulty breathing, swelling of the face or throat).
+Instruct patients to seek immediate emergency help if these occur [see Contraindications (4) and Warnings and Precautions (5.7)].
+
+Serious Skin Reactions
+
+Advise patients to stop PENNSAID immediately if they develop any type of rash and contact their health care provider as soon as possible [see Warnings and Precautions (5.9)].
+
+Female Fertility
+
+Advise females of reproductive potential who desire pregnancy that NSAIDs, including PENNSAID, may be associated with a reversible delay in ovulation [see Use in Specific Populations (8.3)]
+
+Fetal Toxicity
+
+Inform pregnant women to avoid use of PENNSAID and other NSAIDs starting at 30 weeks gestation because of the risk of the premature closing of the fetal ductus arteriosus [see Warnings and Precautions (5.10) and Use in Specific Populations (8.1)].
+
+Avoid Concomitant Use of NSAIDs
+
+Inform patients that the concomitant use of PENNSAID with other NSAIDs or salicylates (e.g.,diflunisal, salsalate) is not recommended due to the increased risk of gastrointestinal toxicity, and little or no increase in efficacy [see Warnings and Precautions (5.2) and Drug Interactions (7)].
+Alert patients that NSAIDs may be present in "over the counter" medications for treatment of colds, fever, or insomnia.
+
+Use of NSAIDs and Low-Dose Aspirin
+
+Inform patients not to use low-dose aspirin concomitantly with PENNSAID until they talk to their healthcare provider [see Drug Interactions (7)].
+
+Eye Exposure
+
+Instruct patients to avoid contact of PENNSAID with the eyes and mucosa.
+Advise patients that if eye contact occurs, immediately wash out the eye with water or saline and consult a physician if irritation persists for more than an hour.
+
+Prevention of Secondary Exposure
+
+Instruct patients to avoid skin-to-skin contact between other people and the knee(s) to which PENNSAID was applied until the knee(s) is completely dry.
+
+Special Application Instructions
 
 Instruct patients not to apply PENNSAID to open skin wounds, infections, inflammations, or exfoliative dermatitis, as it may affect absorption and reduce tolerability of the drug.
 
 Instruct patients to wait until the area treated with PENNSAID is completely dry before applying sunscreen, insect repellant, lotion, moisturizer, cosmetics, or other topical medication.
 
 Instruct patients to minimize or avoid exposure of treated knee(s) to natural or artificial sunlight.
-
-## 17.6 Weight Gain and Edema
-
-Instruct patients to promptly report to their physician signs or symptoms of unexplained weight gain or edema following treatment with PENNSAID [see Warnings and Precautions (5.5)].
-
-## 17.7 Anaphylactoid Reactions
-
-Inform patients of the signs of an anaphylactoid reaction (e.g., difficulty breathing, swelling of the face or throat).
-If these occur, instruct patients to seek immediate emergency help [see Warnings and Precautions (5.7)].
-
-## 17.8 Effects During Pregnancy
-
-Instruct patients who are pregnant or intending to become pregnant not to use PENNSAID [see Use in Specific Populations (8.1) and Impairment of Fertility (13.1)].
-
-## 17.9 Eye Exposure
-
-Instruct patients to avoid contact of PENNSAID with the eyes and mucosa.
-Advise patients that if eye contact occurs, immediately wash out the eye with water or saline and consult a physician if irritation persists for more than an hour.

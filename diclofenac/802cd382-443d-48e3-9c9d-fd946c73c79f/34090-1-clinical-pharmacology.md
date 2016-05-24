@@ -2,13 +2,15 @@
 
 ## 12.1 Mechanism of Action
 
-The mechanism of action of diclofenac is similar to that of other nonsteroidal anti-inflammatory drugs.
-Diclofenac inhibits the enzyme, cyclooxygenase (COX), an early component of the arachidonic acid cascade, resulting in the reduced formation of prostaglandins, thromboxanes and prostacylin.
-It is not completely understood how reduced synthesis of these compounds results in therapeutic efficacy.
+Diclofenac has analgesic, anti-inflammatory, and antipyretic properties.
 
-## 12.2 Pharmacodynamics
+The mechanism of action of PENNSAID, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2).
 
-Diclofenac, the active component of PENNSAID has anti-inflammatory, anti-nociception, and antipyretic effects.
+Diclofenac is a potent inhibitor of prostaglandin synthesis in vitro.
+Diclofenac concentrations reached during therapy have produced in vivo effects.
+Prostaglandins sensitize afferent nerves and potentiate the action of bradykinin in inducing pain in animal models.
+Prostaglandins are mediators of inflammation.
+Because diclofenac is an inhibitor of prostaglandin synthesis, its mode of action may be due to a decrease of prostaglandins in peripheral tissues.
 
 ## 12.3 Pharmacokinetics
 
@@ -28,6 +30,8 @@ Diclofenac diffuses into and out of the synovial fluid.
 Diffusion into the joint occurs when plasma levels are higher than those in the synovial fluid, after which the process reverses and synovial fluid levels are higher than plasma levels.
 It is not known whether diffusion into the joint plays a role in the effectiveness of diclofenac.
 
+Elimination
+
 Metabolism:
 
 Five diclofenac metabolites have been identified in human plasma and urine.
@@ -44,8 +48,14 @@ Diclofenac is eliminated through metabolism and subsequent urinary and biliary e
 
 Little or no free unchanged diclofenac is excreted in the urine.
 
-Special Populations:
+Specific Populations:
 
 Pediatric: The pharmacokinetics of PENNSAID has not been investigated in pediatric patients.
 
 Race: Pharmacokinetic differences due to race have not been studied.
+
+Drug Interaction Studies
+
+Aspirin: When NSAIDs were administered with aspirin, the protein binding of NSAIDs were reduced, although the clearance of free NSAID was not altered.
+The clinical significance of this interaction is not known.
+See Table 3 for clinically significant drug interactions of NSAIDs with aspirin [see Drug Interactions (7)].

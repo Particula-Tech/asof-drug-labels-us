@@ -1,3 +1,3 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-2% w/w topical solution
+PENNSAID (diclofenac sodium) topical solution: 2% w/w

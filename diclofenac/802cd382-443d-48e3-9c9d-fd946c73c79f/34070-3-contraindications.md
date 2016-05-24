@@ -1,8 +1,8 @@
 # 4 CONTRAINDICATIONS
 
-PENNSAID is contraindicated:
+PENNSAID is contraindicated in the following patients:
 
-- in patients with a known hypersensitivity to diclofenac sodium or any other component of PENNSAID.
-- in patients who have experienced asthma, urticaria, or allergic-type reactions after taking aspirin or other NSAIDs.
-  Severe, rarely fatal, anaphylactic-like reactions to NSAIDs have been reported in such patients [see Warnings and Precautions (5.7, 5.10)].
-- in the setting of coronary artery bypass graft (CABG) surgery [see Warnings and Precautions (5.1)].
+- Known hypersensitivity (e.g., anaphylactic reactions and serious skin reactions) to diclofenac or any components of the drug product [see Warnings and Precautions (5.7, 5.9)]
+- History of asthma, urticaria, or other allergic-type reactions after taking aspirin or other NSAIDs.
+  Severe, sometimes fatal, anaphylactic reactions to NSAIDs have been reported in such patients [see Warnings and Precautions (5.7, 5.8)]
+- In the setting of coronary artery bypass graft (CABG) surgery [see Warnings and Precautions (5.1)]

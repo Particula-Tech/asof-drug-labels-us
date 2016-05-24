@@ -1,10 +1,20 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1 Clinical Studies Experience
+The following adverse reactions are discussed in greater detail in other sections of the labeling:
+
+- Cardiovascular Thrombotic Events [see Warnings and Precautions (5.1)]
+- GI Bleeding, Ulceration and Perforation [see Warnings and Precautions (5.2)]
+- Hepatotoxicity [see Warnings and Precautions (5.3)]
+- Hypertension [see Warnings and Precautions (5.4)]
+- Heart Failure and Edema [see Warnings and Precautions (5.5)]
+- Renal Toxicity and Hyperkalemia [see Warnings and Precautions (5.6)]
+- Anaphylactic Reactions [see Warnings and Precautions (5.7)]
+- Serious Skin Reactions [see Warnings and Precautions (5.9)]
+- Hematologic Toxicity [see Warnings and Precautions (5.11)]
+
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
-
-PENNSAID
 
 The data described below reflect exposure to PENNSAID of 130 patients treated for 4 weeks (mean duration of 28 days) in one Phase 2 controlled trial.
 This population's mean age was approximately 60 years, 85% of patients were Caucasian, 65% were females, and all patients had primary osteoarthritis.
@@ -99,7 +109,9 @@ Nervous: depression, dizziness, drowsiness, lethargy, paresthesia at application
 
 Respiratory: asthma, dyspnea, laryngismus, laryngitis, pharyngitis, throat swelling
 
-Skin and Appendages: At the Application Site: rash, skin burning sensation; Other Skin and Appendages Adverse Reactions: eczema, skin discoloration, urticaria
+Skin and Appendages: At the Application Site: rash, skin burning sensation;
+
+Other Skin and Appendages Adverse Reactions: eczema, skin discoloration, urticaria
 
 Special Senses: abnormal vision, blurred vision, cataract, ear pain, eye disorder, eye pain, taste perversion
 
