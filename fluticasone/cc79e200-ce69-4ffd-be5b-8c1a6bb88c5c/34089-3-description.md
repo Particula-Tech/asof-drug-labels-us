@@ -9,4 +9,4 @@ It has the following structural formula:
 Fluticasone propionate has a molecular weight of 500.6.
 It is a white to off-white powder and is practically insoluble in water, freely soluble in dimethyl sulfoxide and dimethylformamide, and slightly soluble in methanol and 95% ethanol.
 
-Each gram of CUTIVATE® Lotion contains 0.5 mg fluticasone propionate in a white to off white lotion base of anhydrous citric acid, cetomacrogol 1000, cetostearyl alcohol, dimethicone 360, imidurea, isopropyl myristate, methylparaben, propylene glycol, propylparaben, purified water, and sodium citrate.
+Each gram of CUTIVATE® Lotion contains 0.5 mg fluticasone propionate in a white to off white lotion base of cetomacrogol 1000, cetostearyl alcohol, citric acid monohydrate, dimethicone 350, imidurea, isopropyl myristate, methylparaben, propylene glycol, propylparaben, purified water, and sodium citrate.

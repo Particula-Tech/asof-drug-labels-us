@@ -1,7 +1,5 @@
-Manufactured by:
-
-PharmaDerm® A division of Fougera PHARMACEUTICALS INC. Melville, New York 11747 www.pharmaderm.com
+- Manufactured by:
 
 Patent No. 7300669
 
-46154831A/46155409A Revised: 01/2015 #192
+46154831B/46155409B Revised: 07/2015 #192

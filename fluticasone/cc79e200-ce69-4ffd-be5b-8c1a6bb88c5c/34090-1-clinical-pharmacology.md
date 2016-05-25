@@ -25,7 +25,7 @@ Out of 56 subjects, 49 were considered evaluable with respect to their adrenal a
 One of 49 subjects showed laboratory evidence of suppression immediately post treatment.
 The criterion for HPA axis suppression was a serum cortisol level of less than or equal to 18 micrograms per deciliter at 30-minutes after cosyntropin stimulation.
 Repeated test one week later showed the post cosyntropin stimulation testing serum cortisol returned to normal level (22.1 µg/dL).
-This 4-month old subject had a baseline treatment BSA of 94% and was reported to have received 100% of the twice-daily applications of CUTIVATE Lotion over the 27 day treatment period.
+This 4-month old subject had a baseline treatment BSA of 94% and was reported to have received 100% of the twice-daily applications of CUTIVATE® Lotion over the 27 day treatment period.
 
 ## 12.3 Pharmacokinetics
 

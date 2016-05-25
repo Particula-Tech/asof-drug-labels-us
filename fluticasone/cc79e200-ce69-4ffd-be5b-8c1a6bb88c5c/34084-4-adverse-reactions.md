@@ -2,9 +2,9 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- HPA Axis Suppression and Other Adverse Endocrine Effects [see Warnings and Precautions (5.1)]
-- Local Adverse Reactions [see Warnings and Precautions (5.2)]
-- Concomitant Skin Infections [see Warnings and Precautions (5.3)]
+- •HPA Axis Suppression and Other Adverse Endocrine Effects [see Warnings and Precautions (5.1)]
+- •Local Adverse Reactions [see Warnings and Precautions (5.2)]
+- •Concomitant Skin Infections [see Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience: Controlled Clinical Trials
 
@@ -40,7 +40,7 @@ Table 2: Adverse Events Occurring in ≥ 1% of Patients from Either Arm from Con
 
 | Body System | CUTIVATE® Lotion | Vehicle Lotion |
 | --- | --- | --- |
-|  | N = 221 | N = 217 |
+|  | n=221 | n=217 |
 | Any Adverse Event | 77 (35%) | 82 (38%) |
 | Skin |  |  |
 | Burning and Stinging | 4 (2%) | 3 (1%) |
@@ -74,7 +74,7 @@ Subjects whose lesions cleared after 2 or 3 weeks of treatment continued to appl
 The overall incidence of adverse reactions was 14%.
 These were local, cutaneous reactions and included dry skin (7%), stinging at application site (5%), and excoriation (2%).
 Additionally, a 4-month-old patient treated with CUTIVATE® Lotion had marked elevations of the hepatic enzymes AST and ALT.
-[see Use in Specific Populations (8.4)]
+[See Use in Specific Populations (8.4)]
 
 In another open label HPA axis suppression trial in which CUTIVATE® Lotion was also applied twice daily (rather than the indicated dosing regimen of once daily), 56 pediatric subjects (ages ≥3 months to 12 months), were enrolled [see Use in Specific Populations (8.4)].
 
