@@ -32,21 +32,49 @@ Refer to the full prescribing information of palbociclib for its dose modificati
 
 ## 2.3 Administration Technique
 
-The proper method of administration of FASLODEX for intramuscular use is described in the instructions that follow:
+The proper method of administration of FASLODEX for intramuscular use is described in the following instructions.
 
-1. Remove glass syringe barrel from tray and check that it is not damaged.
-2. Remove perforated patient record label from syringe.
-3. Peel open the safety needle (SafetyGlide™) outer packaging.
-   For complete SafetyGlide™ instructions refer below to the "Directions for Use of SafetyGlide™".
-4. Break the seal of the white plastic cover on the syringe luer connector to remove the cover with the attached rubber tip cap (see Figure 1).
-5. Twist to lock the needle to the luer connector.
-6. Remove needle sheath.
-7. Remove excess gas from the syringe (a small gas bubble may remain).
-8. Administer intramuscularly into the buttock slowly.
-9. Immediately activate needle protection device upon withdrawal from patient by pushing lever arm completely forward until needle tip is fully covered (see Figure 2).
-10. Visually confirm that the lever arm has fully advanced and the needle tip is covered.
-    If unable to activate, discard immediately into an approved sharps collector.
-11. Repeat steps 1 through 10 for second syringe.
+For each syringe:
+
+1. 1.Remove glass syringe barrel from tray and check that it is not damaged.
+2. 2.Remove perforated patient record label from syringe.
+3. 3.Inspect drug product in glass syringe for any visible particulate matter or discoloration prior to use.
+   Discard if particulate matter or discoloration is present.
+4. 4.Peel open the safety needle (SafetyGlide™) outer packaging.
+5. 5.Hold the syringe upright on the ribbed part (C).
+   With the other hand, take hold of the cap (A) and carefully tilt cap back and forth (DO NOT TWIST CAP) until the cap disconnects for removal (see Figure 1).
+
+Figure 1
+
+1. 6.Pull the cap (A) off in a straight upward direction.
+   DO NOT TOUCH THE STERILE SYRINGE TIP (Luer-Lok) (B) (see Figure 2).
+
+Figure 2
+
+1. 7.Attach the safety needle to the syringe tip (Luer-Lok).
+   Twist needle until firmly seated (see Figure 3).
+   Confirm that the needle is locked to the Luer connector before moving or tilting the syringe out of the vertical plane to avoid spillage of syringe contents.
+
+Figure 3
+
+1. For Administration:
+2. 8.Pull shield straight off needle to avoid damaging needle point.
+3. 9.Remove needle sheath.
+4. 10.Expel excess gas from the syringe (a small gas bubble may remain).
+5. 11.Administer intramuscularly slowly (1-2 minutes/injection) into the buttock.
+   For user convenience, the needle ‘bevel up’ position is orientated to the lever arm, as shown in Figure 4.
+
+Figure 4
+
+1. 12.After injection, immediately activate the lever arm to deploy the needle shielding by applying a single-finger stroke to the activation assisted lever arm to push the lever arm completely forward.
+   Listen for a click.
+   Confirm that the needle shielding has completely covered the needle (see Figure 5).
+2. NOTE: Activate away from self and others.
+
+Figure 5
+
+1. 13.Discard the empty single use syringe into an approved sharps collector in accordance with applicable regulations and institutional policy.
+2. 14.Repeat steps 1 through 13 for second syringe.
 
 How To Use FASLODEX
 
@@ -63,39 +91,4 @@ Hands must remain behind the needle at all times during use and disposal.
 
 Do not autoclave SafetyGlide™ Needle before use.
 
-Parenteral drug products should be visually inspected for any particulate matter and discoloration prior to administration, whenever solution and container permit.
-
-DIRECTIONS FOR USE OF SAFETYGLIDE™
-
-For each syringe:
-
-Remove glass syringe barrel from tray and check that it is not damaged.
-
-Peel apart packaging of the SafetyGlide™, break the seal of the white plastic cover on the syringe Luer connector and attach the SafetyGlide™ needle to the Luer Lock of the syringe by twisting.
-
-Transport filled syringe to point of administration.
-
-Pull shield straight off needle to avoid damaging needle point.
-
-Administer injection following package instruction.
-
-For user convenience, the needle ‘bevel up’ position is orientated to the lever arm, as shown in Figure 3.
-
-Immediately activate needle protection device upon withdrawal from patient by pushing lever arm completely forward until needle tip is fully covered (Figure 2).
-
-Visually confirm that the lever arm has fully advanced and the needle tip is covered.
-If unable to activate, discard immediately into an approved sharps collector.
-
-Activation of the protective mechanism may cause minimal splatter of fluid that may remain on the needle after injection.
-
-For greatest safety, use a one-handed technique and activate away from self and others.
-
-After single use, discard in an approved sharps collector in accordance with applicable regulations and institutional policy.
-
 Becton Dickinson guarantees the contents of their unopened or undamaged packages to be sterile, non-toxic and non-pyrogenic.
-
-Figure 1
-
-Figure 2
-
-Figure 3

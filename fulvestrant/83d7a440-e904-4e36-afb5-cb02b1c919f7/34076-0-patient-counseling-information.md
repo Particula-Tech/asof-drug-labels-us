@@ -14,4 +14,4 @@ Monotherapy
 
 Combination Therapy with Palbociclib
 
-See palbociclib prescribing information for Patient Counseling Information.
+See palbociclib full prescribing information for Patient Counseling Information.

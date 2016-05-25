@@ -21,10 +21,10 @@ Approximately 55% of patients had visceral disease.
 
 Results of Study 1 are summarized in Table 6.
 The efficacy of FASLODEX 500 mg was compared to that of FASLODEX 250 mg.
-Figure 4 shows a Kaplan-Meier plot of the Progression Free Survival (PFS) data after a minimum follow-up duration of 18 months demonstrating statistically significant superiority of FASLODEX 500 mg vs. FASLODEX 250 mg.
+Figure 6 shows a Kaplan-Meier plot of the Progression Free Survival (PFS) data after a minimum follow-up duration of 18 months demonstrating statistically significant superiority of FASLODEX 500 mg vs. FASLODEX 250 mg.
 In the initial Overall Survival (OS) analysis after a minimum follow-up duration of 18 months, there was no statistically significant difference in OS between the two treatment groups.
 After a minimum follow-up duration of 50 months, an updated OS analysis was performed.
-Figure 5 shows a Kaplan-Meier plot of the updated OS data.
+Figure 7 shows a Kaplan-Meier plot of the updated OS data.
 
 Table 6: Efficacy Results Study 1: Intent-To-Treat (ITT) Population
 
@@ -38,9 +38,9 @@ Table 6: Efficacy Results Study 1: Intent-To-Treat (ITT) Population
 | Hazard Ratio (95% CI)Not statistically significant as no adjustments were made for multiplicity. | 0.81 (0.69-0.96) |  |
 | ORRORR (Objective Response Rate), as defined as number (%) of patients with complete response or partial response, was analyzed in the evaluable patients with measureable disease at baseline (fulvestrant 500 mg N=240; fulvestrant 250 mg N=261). Minimum follow-up duration of 18 months.(95% CI) | 13.8% (9.7%, 18.8%)(33/240) | 14.6% (10.5%, 19.4%)38/261) |
 
-Figure 4 Kaplan-Meier PFS: Study 1 ITT Population
+Figure 6 Kaplan-Meier PFS: Study 1 ITT Population
 
-Figure 5 Kaplan-Meier OS (Minimum Follow-up Duration of 50 Months): Study 1 ITT Population
+Figure 7 Kaplan-Meier OS (Minimum Follow-up Duration of 50 Months): Study 1 ITT Population
 
 Comparison of FASLODEX 250 mg and Anastrozole 1 mg in Combined Data (Studies 2 and 3)
 
@@ -101,7 +101,7 @@ The majority of patients in each treatment arm were White (74%), all patients ha
 All patients had received prior systemic therapy and 75% of patients had received a previous chemotherapy regimen.
 Twenty-five percent of patients had received no prior therapy in the metastatic disease setting, 60% had visceral metastases, and 23% had bone only disease.
 
-The results from the investigator-assessed PFS from Study 4 are summarized in Table 8 and Figure 6.
+The results from the investigator-assessed PFS from Study 4 are summarized in Table 8 and Figure 8.
 Consistent results were observed across patient subgroups of disease site, sensitivity to prior hormonal therapy and menopausal status.
 Confirmed overall response rate in patients with measurable disease as assessed by the investigator was 24.6% in the FASLODEX plus palbociclib and was 10.9% in the FASLODEX plus placebo arm.
 Duration of response was 9.3 months in the FASLODEX plus palbociclib arm compared with 7.6 months in the FASLODEX plus placebo arm.
@@ -120,5 +120,4 @@ N=number of patients.
 
 CI=confidence interval.
 
-Figure 6.
-Kaplan-Meier Plot of Progression-Free Survival (Investigator Assessment, ITT Population) - Study 4
+Figure 8 Kaplan-Meier Plot of Progression-Free Survival (Investigator Assessment, ITT Population) - Study 4
