@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Linezolid is an antibacterial drug [(see Microbiology (12.4)].
+Linezolid is an antibacterial drug [see Microbiology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
@@ -180,7 +180,7 @@ Antioxidants
 
 The potential for drug-drug interactions with linezolid and the antioxidants Vitamin C and Vitamin E was studied in healthy volunteers.
 Subjects were administered a 600 mg oral dose of linezolid on Day 1, and another 600 mg dose of linezolid on Day 8.
-On Days 2–9, subjects were given either Vitamin C (1000 mg/day) or Vitamin E (800 IU/ day).
+On Days 2 – 9, subjects were given either Vitamin C (1000 mg/day) or Vitamin E (800 IU/ day).
 The AUC0–∞ of linezolid increased 2.3% when co-administered with Vitamin C and 10.9% when co-administered with Vitamin E. No linezolid dose adjustment is recommended during co-administration with Vitamin C or Vitamin E.
 
 Strong CYP 3A4 Inducers
@@ -226,41 +226,35 @@ No serotonin syndrome effects (confusion, delirium, restlessness, tremors, blush
 
 Mechanism of Action
 
-Linezolid is a synthetic antibacterial agent of a new class of antibiotics, the oxazolidinones, which has clinical utility in the treatment of infections caused by aerobic Gram-positive bacteria.
+Linezolid is a synthetic antibacterial agent of the oxazolidinone class, which has clinical utility in the treatment of infections caused by aerobic Gram-positive bacteria.
 The in vitro spectrum of activity of linezolid also includes certain Gram-negative bacteria and anaerobic bacteria.
-Linezolid inhibits bacterial protein synthesis through a mechanism of action different from that of other antibacterial agents; therefore, cross-resistance between linezolid and other classes of antibiotics is unlikely.
-Linezolid binds to a site on the bacterial 23S ribosomal RNA of the 50S subunit and prevents the formation of a functional 70S initiation complex, which is an essential component of the bacterial translation process.
+Linezolid binds to a site on the bacterial 23S ribosomal RNA of the 50S subunit and prevents the formation of a functional 70S initiation complex, which is essential for bacterial reproduction.
 The results of time-kill studies have shown linezolid to be bacteriostatic against enterococci and staphylococci.
 For streptococci, linezolid was found to be bactericidal for the majority of isolates.
 
 Mechanisms of Resistance
 
-In clinical trials, resistance to linezolid developed in 6 patients infected with Enterococcus faecium (4 patients received 200 mg every 12 hours, lower than the recommended dose, and 2 patients received 600 mg every 12 hours).
-In a compassionate use program, resistance to linezolid developed in 8 patients with E. faecium and in 1 patient with Enterococcus faecalis.
-All patients had either unremoved prosthetic devices or undrained abscesses.
-Resistance to linezolid occurs in vitro at a frequency of 1 × 10 –9 to 1 × 10 –11.
 In vitro studies have shown that point mutations in the 23S rRNA are associated with linezolid resistance.
-Reports of vancomycin-resistant E. faecium becoming resistant to linezolid during its clinical use have been published.
+Reports of vancomycin-resistant Enterococcus faecium becoming resistant to linezolid during its clinical use have been published.
 There are reports of Staphylococcus aureus (methicillin-resistant) developing resistance to linezolid during clinical use.
 The linezolid resistance in these organisms is associated with a point mutation in the 23S rRNA (substitution of thymine for guanine at position 2576) of the organism.
+Organisms resistant to oxazolidinones via mutations in chromosomal genes encoding 23S rRNA or ribosomal proteins (L3 and L4) are generally cross-resistant to linezolid.
 Also linezolid resistance in staphylococci mediated by the enzyme methyltransferase has been reported.
 This resistance is mediated by the cfr (chloramphenicol-florfenicol) gene located on a plasmid which is transferable between staphylococci.
 
-Resistance to linezolid has not been reported in Streptococcus spp., including Streptococcus pneumoniae.
-
-Interaction with Other Antimicrobials
+Interaction with Other Antimicrobial Drugs
 
 In vitro studies have demonstrated additivity or indifference between linezolid and vancomycin, gentamicin, rifampin, imipenem-cilastatin, aztreonam, ampicillin, or streptomycin.
 
-Linezolid has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section (1).
+Linezolid has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections [see Indications and Usage (1)].
 
 Gram-positive bacteria
 
 Enterococcus faecium (vancomycin-resistant isolates only) Staphylococcus aureus (including methicillin-resistant isolates) Streptococcus agalactiae Streptococcus pneumoniae Streptococcus pyogenes
 
 The following in vitro data are available, but their clinical significance is unknown.
-At least 90% of the following microorganisms exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for linezolid.
-However, the safety and effectiveness of linezolid in treating clinical infections due to these microorganisms have not been established in adequate and well-controlled clinical trials.
+Greater than 90% of the following bacteria exhibit an in vitro MIC less than or equal to the linezolid-susceptible breakpoint for organisms of similar genus shown in Table 12.
+The safety and effectiveness of linezolid in treating clinical infections due to these bacteria have not been established in adequate and well-controlled clinical trials.
 
 Gram-positive bacteria
 
@@ -272,7 +266,7 @@ Pasteurella multocida
 
 Susceptibility Test Methods
 
-When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drug products used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
+When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drug products used in local hospitals and practice areas to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
 These reports should aid the physician in selecting an antibacterial drug product for treatment.
 
 Dilution techniques
@@ -298,15 +292,16 @@ Susceptibility Test Interpretive Criteria for Linezolid
 |  | Susceptibility Interpretive Criteria |  |  |  |  |  |
 | Pathogen | Minimal Inhibitory Concentrations (MIC in mcg/mL) |  |  | Disk Diffusion (Zone Diameters in mm) |  |  |
 | Enterococcus spp | ≤2 | 4 | ≥8 | ≥23 | 21–22 | ≤20 |
-| Staphylococcus spp The current absence of data on resistant isolates precludes defining any categories other than "Susceptible." Isolates yielding test results suggestive of a "nonsusceptible" category should be retested, and if the result is confirmed, the isolate should be submitted to a reference laboratory for further testing. | ≤4 | --- | --- | ≥21 | --- | --- |
-| Streptococcus pneumoniae | ≤2 | --- | --- | ≥21 | --- | --- |
+| Staphylococcus spp For disk diffusion testing of staphylococcal species, petri plates should be held up to the light source and read with transmitted light. The zone margin should be considered the area showing no obvious, visible growth that can be detected with the unaided eye. Ignore faint growth of tiny colonies that can be detected only with a magnifying lens at the edge of the zone of inhibited growth. Any discernible growth within the zone of inhibition is indicative of resistance. Resistant results obtained by the disk diffusion method should be confirmed using an MIC method. | ≤4 | --- | ≥8 | ≥21 | --- | ≤20 |
+| Streptococcus pneumoniae The current absence of data on resistant isolates precludes defining any categories other than "Susceptible." Isolates yielding test results suggestive of a "nonsusceptible" category should be retested, and if the result is confirmed, the isolate should be submitted to a reference laboratory for further testing. | ≤2 | --- | --- | ≥21 | --- | --- |
 | Streptococcus spp other than S pneumoniae | ≤2 | --- | --- | ≥21 | --- | --- |
+| S=susceptible, I=intermediate, R=resistant |  |  |  |  |  |  |
 
-A report of Susceptible (S) indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentration at the infection site necessary to inhibit growth of the pathogen.
-A report of Intermediate (I) indicates that the result should be considered equivocal, and, if the bacteria is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
+A report of "Susceptible" indicates that the antimicrobial drug is likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
+A report of "Intermediate" indicates that the result should be considered equivocal, and, if the bacteria is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
 This category implies possible clinical applicability in body sites where the drug product is physiologically concentrated or in situations where a high dosage of the drug product can be used.
 This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of Resistant (R) indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations usually achievable at the infection site; other therapy should be selected.
+A report of "Resistant" indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the site of infection; other therapy should be selected.
 
 Quality Control
 
