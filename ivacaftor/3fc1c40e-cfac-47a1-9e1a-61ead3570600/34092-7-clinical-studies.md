@@ -31,14 +31,14 @@ The treatment difference between ORKAMBI and placebo for the mean absolute chang
 These changes persisted throughout the 24-week treatment period (Figure 1).
 Improvements in ppFEV1 were observed regardless of age, disease severity, sex, and geographic region.
 
-| Figure 1. Absolute Change From Baseline at Each Visit in Percent Predicted FEV1 in Trial 1 and Trial 2. |
-| --- |
-| LS = least squares; q12h = every 12 hours |
+| Figure 1. Absolute Change From Baseline at Each Visit in Percent Predicted FEV1 in Trial 1 and Trial 2. |  |
+| --- | --- |
+| LS = least squares; q12h = every 12 hours |  |
 
 Key secondary efficacy variables included relative change from baseline in ppFEV1 at Week 24, assessed as the average of the treatment effects at Week 16 and at Week 24; absolute change from baseline in BMI at Week 24; absolute change from baseline in Cystic Fibrosis Questionnaire Revised (CFQ-R) Respiratory Domain score at Week 24, a measure of respiratory symptoms relevant to patients with CF such as cough, sputum production, and difficulty breathing; proportion of patients achieving ≥5% relative change from baseline in ppFEV1 using the average of Week 16 and Week 24; and number of pulmonary exacerbations through Week 24.
 For the purposes of these trials, a pulmonary exacerbation was defined as a change in antibiotic therapy (IV, inhaled, or oral) as a result of 4 or more of 12 pre-specified sino-pulmonary signs/symptoms.
 
-Table 4: Summary of Other Efficacy Endpoints in Trials 1 and 2 In each trial, a hierarchical testing procedure was performed within each active treatment arm for primary and secondary endpoints vs placebo; at each step, P≤0.0250 and all previous tests also meeting this level of significance was required for statistical significance.
+Table 4: Summary of Other Efficacy Endpoints in Trials 1 and 2In each trial, a hierarchical testing procedure was performed within each active treatment arm for primary and secondary endpoints vs. placebo; at each step, P≤0.0250 and all previous tests also meeting this level of significance was required for statistical significance.
 
 | Placebo (n=184) | ORKAMBI LUM 400 mg q12h/IVA 250 mg q12h (n=182) | Placebo (n=187) | ORKAMBI LUM 400 mg q12h/IVA 250 mg q12h (n=187) |  |  |
 | --- | --- | --- | --- | --- | --- |

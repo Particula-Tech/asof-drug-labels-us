@@ -5,6 +5,7 @@ The following adverse reactions are discussed in greater detail in other section
 - Use in Patients with Advanced Liver Disease [see Warnings and Precautions (5.1)]
 - Liver-related Events [see Warnings and Precautions (5.2)]
 - Respiratory Events [see Warnings and Precautions (5.3)]
+- Effect on Blood Pressure [see Warnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -58,4 +59,10 @@ In patients treated with ORKAMBI, the majority of the events began during the fi
 Menstrual Abnormalities
 
 In Trials 1 and 2, the incidence of combined menstrual abnormality adverse reactions (e.g., amenorrhea, dysmenorrhea, menorrhagia, menstrual irregular) was more common in female patients treated with ORKAMBI (10%) compared to placebo (2%).
-These events occurred more frequently in the subset of female patients treated with ORKAMBI who were using hormonal contraceptives (27%) compared to those not using hormonal contraceptives (3%) [see Warnings and Precautions (5.4) and Drug Interactions (7.11)].
+These events occurred more frequently in the subset of female patients treated with ORKAMBI who were using hormonal contraceptives (27%) compared to those not using hormonal contraceptives (3%) [see Warnings and Precautions (5.5) and Drug Interactions (7.11)].
+
+Increased Blood Pressure
+
+In Trials 1 and 2, adverse reactions related to increases in blood pressure (e.g., hypertension, blood pressure increased) were reported in 1.1% (4/369) of patients treated with ORKAMBI and in no patients who received placebo.
+
+The proportion of patients who experienced a systolic blood pressure value >140 mmHg or a diastolic blood pressure >90 mmHg on at least two occasions was 3.6% and 2.2% in patients treated with ORKAMBI, respectively, compared with 1.6% and 0.5% in patients who received placebo [see Warnings and Precautions (5.4)].

@@ -1,154 +1,31 @@
 Patient Information is perforated for dispensing to the patient.
 
-PATIENT INFORMATION
-
-ORKAMBI (or-KAM-bee) (lumacaftor/ivacaftor) Film-Coated Tablets
-
-What is ORKAMBI?
-
-ORKAMBI is a prescription medicine used for the treatment of cystic fibrosis (CF) in patients age 12 years and older who have two copies of the F508del mutation (F508del/F508del) in their CFTR gene.
-
-ORKAMBI should not be used in patients other than those who have two copies of the F508del mutation in their CFTR gene.
-
-It is not known if ORKAMBI is safe and effective in children under 12 years of age.
-
-Who should not take ORKAMBI?
-
-Do not take ORKAMBI if you take certain medicines or herbal supplements such as:
-
-- antibiotics: rifampin (Rifamate®, Rifater®) or rifabutin (Mycobutin®)
-- seizure medications: phenobarbital, carbamazepine (Tegretol®, Carbatrol®, and Equetro®), or phenytoin (Dilantin®, Phenytek®)
-- sedatives/anxiolytics: triazolam (Halcion®) or midazolam (Dormicum®, Hypnovel®, and Versed®)
-- immunosuppressant medicines: everolimus (Zortress®), sirolimus (Rapamune®), or tacrolimus (Astagraf XL®, Envarsus® XR, Prograf®, Protopic®)
-- St. John's wort (Hypericum perforatum)
-
-Talk to your doctor before taking ORKAMBI if you take any of the medicines or supplements listed above.
-
-What should I tell my doctor before taking ORKAMBI?
-
-Before you take ORKAMBI, tell your doctor if you:
-
-- have or have had liver problems
-- have kidney problems
-- are using birth control (hormonal contraceptives, including oral, injectable, transdermal, or implantable forms).
-  Hormonal contraceptives should not be used as a method of birth control when taking ORKAMBI.
-  Talk to your doctor about the best birth-control method you should use while taking ORKAMBI.
-- are pregnant or plan to become pregnant.
-  It is not known if ORKAMBI will harm your unborn baby.
-  You and your doctor should decide if you will take ORKAMBI while you are pregnant.
-- are breastfeeding or planning to breastfeed.
-  It is not known if ORKAMBI passes into your breast milk.
-  You and your doctor should decide if you will take ORKAMBI while you are breastfeeding.
-
-ORKAMBI may affect the way other medicines work, and other medicines may affect how ORKAMBI works.
-
-Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements, because the dose of ORKAMBI may need to be adjusted when taken with certain medications.
-
-Ask your doctor or pharmacist for a list of these medicines if you are not sure.
-
-Especially tell your doctor if you take:
-
-- antifungal medications such as ketoconazole (e.g., Nizoral®), itraconazole (e.g., Sporanox®), posaconazole (e.g., Noxafil®), or voriconazole (e.g., Vfend®)
-- antibiotics such as telithromycin (e.g., Ketek®), clarithromycin (e.g., Biaxin®), or erythromycin (e.g., Ery-Tab®)
-
-Know the medicines you take.
-Keep a list of them to show your doctor and pharmacist when you get a new medicine.
-
-How should I take ORKAMBI?
-
-- Take ORKAMBI exactly as your doctor tells you to take it.
-- Always take ORKAMBI tablets with fat-containing foods such as eggs, avocados, nuts, butter, peanut butter, cheese pizza, whole-milk dairy products, (such as whole milk, cheese, and yogurt), etc.
-- Take your doses of ORKAMBI 12 hours apart.
-- Each ORKAMBI box contains 4 weekly cartons.
-- Each carton contains 7 daily blister strips.
-- Each blister strip contains 4 tablets so you can take 2 tablets for the morning and 2 tablets for the evening.
-- You may cut along the dotted line to separate your morning dose from your evening dose.
-- In the morning, unpeel the paper backing from a blister strip to remove 2 ORKAMBI tablets and take them with fat-containing food.
-- In the evening, 12 hours later, open another blister strip to remove 2 ORKAMBI tablets and take them with fat-containing food.
-- If you miss a dose within 6 hours of when you usually take it, take your dose with fat-containing food as soon as possible.
-- If you miss a dose and it is more than 6 hours after the time you usually take it, skip that dose only and take the next dose when you usually take it.
-  Do not take 2 doses at the same time to make up for your missed dose.
-- Tell your doctor if you stop ORKAMBI for more than 1 week.
-  Your doctor may need to change your dose of ORKAMBI or other medicines you take.
-
-What should I avoid while taking ORKAMBI?
-
-It is unknown if ORKAMBI causes dizziness.
-Do not drive a car, use machinery, or do anything that needs you to be alert until you know how ORKAMBI affects you.
-
-What are the possible side effects of ORKAMBI?
-
-ORKAMBI can cause serious side effects.
-
-High liver enzymes in the blood, which can be a sign of liver injury, have been reported in patients receiving ORKAMBI.
-Your doctor will do blood tests to check your liver:
-
-- before you start ORKAMBI
-- every 3 months during your first year of taking ORKAMBI
-- every year while you are taking ORKAMBI
-
-Call your doctor right away if you have any of the following symptoms of liver problems:
-
-| pain or discomfort in the upper right stomach (abdominal) arealoss of appetitedark, amber-colored urine | yellowing of your skin or the white part of your eyesnausea or vomitingconfusion |
-| --- | --- |
-
-Respiratory events such as shortness of breath or chest tightness were observed in patients when starting ORKAMBI.
-If you have poor lung function your doctor may monitor you more closely when you start ORKAMBI.
-
-Abnormality of the eye lens (cataract) has been noted in some children and adolescents receiving ivacaftor, a component of ORKAMBI.
-Your doctor should perform eye examinations prior to and during treatment with ORKAMBI to look for cataracts.
-
-The most common side effects of ORKAMBI include:
-
-- shortness of breath and/or chest tightness
-- upper respiratory tract infection (common cold), including sore throat, stuffy or runny nose
-- gastrointestinal symptoms, including nausea, diarrhea, or gas
-- rash
-- fatigue
-- flu or flu-like symptoms
-- increase in muscle enzyme levels
-- irregular, missed, or abnormal periods (menses) and increase in the amount of menstrual bleeding
-
-Tell your doctor if you have any side effect that bothers you or that does not go away.
-
-These are not all the possible side effects of ORKAMBI.
-For more information, ask your doctor or pharmacist.
-
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
-
-How should I store ORKAMBI?
-
-- Store ORKAMBI at room temperature between 68°F to 77°F (20°C to 25°C).
-- Do not use ORKAMBI after the expiration date on the package.
-
-Keep ORKAMBI and all medicines out of the reach of children.
-
-General information about the safe and effective use of ORKAMBI.
-
-Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
-Do not use ORKAMBI for a condition for which it was not prescribed.
-Do not give ORKAMBI to other people, even if they have the same symptoms you have.
-It may harm them.
-
-This Patient Information summarizes the most important information about ORKAMBI.
-If you would like more information, talk with your doctor.
-You can ask your pharmacist or doctor for information about ORKAMBI that is written for health professionals.
-
-For more information, go to www.orkambi.com or call 1-877-752-5933.
-
-What are the ingredients in ORKAMBI?
-
-Active ingredients: lumacaftor and ivacaftor
-
-Inactive ingredients: cellulose, microcrystalline; croscarmellose sodium; hypromellose acetate succinate; magnesium stearate; povidone; and sodium lauryl sulfate.
-
-The tablet film coat contains: carmine, FD&C Blue #1, FD&C Blue #2, polyethylene glycol, polyvinyl alcohol, talc, and titanium dioxide.
-
-The printing ink contains: ammonium hydroxide, iron oxide black, propylene glycol, and shellac.
-
-Manufactured for: Vertex Pharmaceuticals Incorporated; 50 Northern Avenue, Boston, MA 02210 VERTEX, and the VERTEX triangle logo are registered trademarks and ORKAMBI is a trademark of Vertex Pharmaceuticals Incorporated.
-All other trademarks referenced herein are the property of their respective owners. ©2015 Vertex Pharmaceuticals Incorporated 104508
-
-This Patient Information has been approved by the U.S. Food and Drug Administration.
-Approved July 2015
+| PATIENT INFORMATION ORKAMBI (or-KAM-bee) (lumacaftor/ivacaftor) Film-Coated Tablets |  |  |  |
+| --- | --- | --- | --- |
+| What is ORKAMBI?ORKAMBI is a prescription medicine used for the treatment of cystic fibrosis (CF) in patients age 12 years and older who have two copies of the F508del mutation (F508del/F508del) in their CFTR gene.ORKAMBI should not be used in patients other than those who have two copies of the F508del mutation in their CFTR gene.It is not known if ORKAMBI is safe and effective in children under 12 years of age. |  |  |  |
+| Who should not take ORKAMBI?Do not take ORKAMBI if you take certain medicines or herbal supplements such as: |  |  |  |
+|  | antibiotics: rifampin (Rifamate®, Rifater®) or rifabutin (Mycobutin®)seizure medications: phenobarbital, carbamazepine (Tegretol®, Carbatrol®, and Equetro®), or phenytoin (Dilantin®, Phenytek®)sedatives/anxiolytics: triazolam (Halcion®) or midazolam (Dormicum®, Hypnovel®, and Versed®)immunosuppressant medicines: everolimus (Zortress®), sirolimus (Rapamune®), or tacrolimus (Astagraf XL®, Envarsus® XR, Prograf®, Protopic®)St. John's wort (Hypericum perforatum) |  |  |
+| Talk to your doctor before taking ORKAMBI if you take any of the medicines or supplements listed above. |  |  |  |
+| What should I tell my doctor before taking ORKAMBI?Before you take ORKAMBI, tell your doctor if you: |  |  |  |
+|  | have or have had liver problemshave had an organ transplanthave kidney problemsare using birth control (hormonal contraceptives, including oral, injectable, transdermal, or implantable forms). Hormonal contraceptives should not be used as a method of birth control when taking ORKAMBI. Talk to your doctor about the best birth-control method you should use while taking ORKAMBI.are pregnant or plan to become pregnant. It is not known if ORKAMBI will harm your unborn baby. You and your doctor should decide if you will take ORKAMBI while you are pregnant.are breastfeeding or planning to breastfeed. It is not known if ORKAMBI passes into your breast milk. You and your doctor should decide if you will take ORKAMBI while you are breastfeeding. |  |  |
+| ORKAMBI may affect the way other medicines work, and other medicines may affect how ORKAMBI works. |  |  |  |
+| Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements, because the dose of ORKAMBI may need to be adjusted when taken with certain medications.Ask your doctor or pharmacist for a list of these medicines if you are not sure.Especially tell your doctor if you take: |  |  |  |
+|  | antifungal medications such as ketoconazole (e.g., Nizoral®), itraconazole (e.g., Sporanox®), posaconazole (e.g., Noxafil®), or voriconazole (e.g., Vfend®)antibiotics such as telithromycin (e.g., Ketek®), clarithromycin (e.g., Biaxin®), or erythromycin (e.g., Ery-Tab®) |  |  |
+| Know the medicines you take. Keep a list of them to show your doctor and pharmacist when you get a new medicine. |  |  |  |
+| How should I take ORKAMBI? |  |  |  |
+|  | Take ORKAMBI exactly as your doctor tells you to take it.Always take ORKAMBI tablets with fat-containing foods such as eggs, avocados, nuts, butter, peanut butter, cheese pizza, whole-milk dairy products, (such as whole milk, cheese, and yogurt), etc.Take your doses of ORKAMBI 12 hours apart.Each ORKAMBI box contains 4 weekly cartons.Each carton contains 7 daily blister strips.Each blister strip contains 4 tablets so you can take 2 tablets for the morning and 2 tablets for the evening.You may cut along the dotted line to separate your morning dose from your evening dose.In the morning, unpeel the paper backing from a blister strip to remove 2 ORKAMBI tablets and take them with fat-containing food.In the evening, 12 hours later, open another blister strip to remove 2 ORKAMBI tablets and take them with fat-containing food.If you miss a dose within 6 hours of when you usually take it, take your dose with fat-containing food as soon as possible.If you miss a dose and it is more than 6 hours after the time you usually take it, skip that dose only and take the next dose when you usually take it. Do not take 2 doses at the same time to make up for your missed dose.Tell your doctor if you stop ORKAMBI for more than 1 week. Your doctor may need to change your dose of ORKAMBI or other medicines you take. |  |  |
+| What should I avoid while taking ORKAMBI?It is unknown if ORKAMBI causes dizziness. Do not drive a car, use machinery, or do anything that needs you to be alert until you know how ORKAMBI affects you. |  |  |  |
+| What are the possible side effects of ORKAMBI?ORKAMBI can cause serious side effects.High liver enzymes in the blood, which can be a sign of liver injury, have been reported in patients receiving ORKAMBI. Your doctor will do blood tests to check your liver: |  |  |  |
+|  | before you start ORKAMBIevery 3 months during your first year of taking ORKAMBIevery year while you are taking ORKAMBI |  |  |
+| Call your doctor right away if you have any of the following symptoms of liver problems: |  |  |  |
+|  | pain or discomfort in the upper right stomach (abdominal) arealoss of appetitedark, amber-colored urine | yellowing of your skin or the white part of your eyesnausea or vomitingconfusion |  |
+| Respiratory events such as shortness of breath or chest tightness were observed in patients when starting ORKAMBI. If you have poor lung function, your doctor may monitor you more closely when you start ORKAMBI.An increase in blood pressure has been seen in some patients treated with ORKAMBI. Your doctor should monitor your blood pressure during treatment with ORKAMBI.Abnormality of the eye lens (cataract) has been noted in some children and adolescents receiving ivacaftor, a component of ORKAMBI. If you are a child or adolescent, your doctor should perform eye examinations prior to and during treatment with ORKAMBI to look for cataracts.The most common side effects of ORKAMBI include: |  |  |  |
+|  | shortness of breath and/or chest tightnessupper respiratory tract infection (common cold), including sore throat, stuffy or runny nosegastrointestinal symptoms, including nausea, diarrhea, or gasrashfatigueflu or flu-like symptomsincrease in muscle enzyme levelsirregular, missed, or abnormal periods (menses) and increase in the amount of menstrual bleeding |  |  |
+| Tell your doctor if you have any side effect that bothers you or that does not go away.These are not all the possible side effects of ORKAMBI. For more information, ask your doctor or pharmacist.Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |  |  |
+| How should I store ORKAMBI? |  |  |  |
+|  | Store ORKAMBI at room temperature between 68°F to 77°F (20°C to 25°C).Do not use ORKAMBI after the expiration date on the package. |  |  |
+| Keep ORKAMBI and all medicines out of the reach of children. |  |  |  |
+| General information about the safe and effective use of ORKAMBI.Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use ORKAMBI for a condition for which it was not prescribed. Do not give ORKAMBI to other people, even if they have the same symptoms you have. It may harm them.This Patient Information summarizes the most important information about ORKAMBI. If you would like more information, talk with your doctor. You can ask your pharmacist or doctor for information about ORKAMBI that is written for health professionals.For more information, go to www.orkambi.com or call 1-877-752-5933. |  |  |  |
+| What are the ingredients in ORKAMBI?Active ingredients: lumacaftor and ivacaftor Inactive ingredients: cellulose, microcrystalline; croscarmellose sodium; hypromellose acetate succinate; magnesium stearate; povidone; and sodium lauryl sulfate.The tablet film coat contains: carmine, FD&C Blue #1, FD&C Blue #2, polyethylene glycol, polyvinyl alcohol, talc, and titanium dioxide.The printing ink contains: ammonium hydroxide, iron oxide black, propylene glycol, and shellac. |  |  |  |
+| Manufactured for: Vertex Pharmaceuticals Incorporated; 50 Northern Avenue, Boston, MA 02210 VERTEX, and the VERTEX triangle logo are registered trademarks and ORKAMBI is a registered trademark of Vertex Pharmaceuticals Incorporated. All other trademarks referenced herein are the property of their respective owners. ©2016 Vertex Pharmaceuticals Incorporated 104508-01 |  |  |  |
+| This Patient Information has been approved by the U.S. Food and Drug Administration. |  |  | Approved May 2016 |

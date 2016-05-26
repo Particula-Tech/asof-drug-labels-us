@@ -17,12 +17,16 @@ Respiratory Events
 Inform patients that chest discomfort, dyspnea, and respiration abnormal were more common during initiation of ORKAMBI therapy.
 Additional monitoring of patients with ppFEV1 <40 is recommended during initiation of therapy [see Warnings and Precautions (5.3)].
 
+Effect on Blood Pressure
+
+Inform patients that increased blood pressure has been observed in some patients treated with ORKAMBI and that periodic monitoring of their blood pressure during treatment is recommended [see Warnings and Precautions (5.4)].
+
 Drug Interactions with CYP3A Inhibitors and Inducers
 
 Ask patients to tell you all the medications they are taking, including any herbal supplements or vitamins.
-Co–administration with sensitive CYP3A substrates or CYP3A substrates with a narrow therapeutic index is not recommended [see Warnings and Precautions (5.4), Drug Interactions (7), and Clinical Pharmacology (12.3)].
+Co–administration with sensitive CYP3A substrates or CYP3A substrates with a narrow therapeutic index is not recommended [see Warnings and Precautions (5.5), Drug Interactions (7), and Clinical Pharmacology (12.3)].
 
-Instruct patients on alternative methods of birth control because hormonal contraceptives should not be relied upon as an effective method of contraception and there is an increased incidence of menstruation-related adverse reactions when co-administered with ORKAMBI [see Warnings and Precautions (5.4), Adverse Reactions (6.1), and Drug Interactions (7.11)].
+Instruct patients on alternative methods of birth control because hormonal contraceptives should not be relied upon as an effective method of contraception and there is an increased incidence of menstruation-related adverse reactions when co-administered with ORKAMBI [see Warnings and Precautions (5.5), Adverse Reactions (6.1), and Drug Interactions (7.11)].
 
 When initiating ORKAMBI in patients taking strong CYP3A inhibitors (e.g., itraconazole), instruct the patient to reduce the dose of ORKAMBI to 1 tablet daily for the first week of treatment.
 Following this period, continue with the recommended daily dose [see Dosage and Administration (2.3), Drug Interactions (7.1), and Clinical Pharmacology (12.3)].
@@ -50,4 +54,4 @@ Patients should be informed not to take a double dose make up for the forgotten 
 Cataracts
 
 Inform patients that abnormalities of the eye lens (cataract) have been noted in some children and adolescents receiving ivacaftor, a component of ORKAMBI.
-Baseline and follow-up ophthalmological examinations are recommended in pediatric patients initiating ORKAMBI treatment [see Warnings and Precautions (5.5)].
+Baseline and follow-up ophthalmological examinations are recommended in pediatric patients initiating ORKAMBI treatment [see Warnings and Precautions (5.6)].

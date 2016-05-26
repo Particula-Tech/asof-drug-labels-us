@@ -2,32 +2,71 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic effects: Pregnancy Category B. There are no adequate and well-controlled trials of ORKAMBI or its individual components, lumacaftor or ivacaftor, in pregnant women.
-Embryofetal development studies in rats and rabbits were conducted with the individual components of ORKAMBI, lumacaftor and ivacaftor.
-Because animal reproduction studies are not always predictive of human response, ORKAMBI should be used during pregnancy only if clearly needed.
+Risk Summary
+
+There are limited and incomplete human data from clinical trials and postmarketing reports on use of ORKAMBI or its individual components, lumacaftor or ivacaftor, in pregnant women to inform a drug-associated risk.
+In animal reproduction studies, oral administration of lumacaftor to pregnant rats and rabbits during organogenesis demonstrated no teratogenicity or adverse effects on fetal development at doses that produced maternal exposures up to approximately 8 (rats) and 5 (rabbits) times the exposure at the maximum recommended human dose (MRHD).
+Oral administration of ivacaftor to pregnant rats and rabbits during organogenesis demonstrated no teratogenicity or adverse effects on fetal development at doses that produced maternal exposures up to approximately 7 (rats) and 45 (rabbits) times the exposure at the MRHD.
+No adverse developmental effects were observed after oral administration of either lumacaftor or ivacaftor to pregnant rats from organogenesis through lactation at doses that produced maternal exposures approximately 8 and 5 times the exposures at the MRHD, respectively (see Data).
+There are no animal reproduction studies with concomitant administration of lumacaftor and ivacaftor.
+
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+Data
+
+Animal Data
 
 Lumacaftor
 
-Lumacaftor was not teratogenic in rats at approximately 8 times the maximum recommended human dose (MRHD) (on a lumacaftor AUC basis at a maternal oral dose of 2000 mg/kg/day).
-Lumacaftor was not teratogenic in rabbits at approximately 5 times the MRHD (on a lumacaftor AUC basis at a maternal oral dose of 200 mg/kg/day).
+In an embryo-fetal development study in pregnant rats dosed during the period of organogenesis from gestation days 7-17, lumacaftor was not teratogenic and did not affect fetal development or survival at exposures up to 8 times the MRHD (on an AUC basis at maternal oral doses up to 2000 mg/kg/day).
+In an embryo-fetal development study in pregnant rabbits dosed during the period of organogenesis from gestation days 7-19, lumacaftor was not teratogenic and did not affect fetal development or survival at exposures up to 5 times the MRHD (on an AUC basis at maternal oral doses up to 200 mg/kg/day).
+In a pre- and postnatal development study in pregnant female rats dosed from gestation day 6 through lactation day 20, lumacaftor had no effects on delivery or growth and development of offspring at exposures up to 8 times the MRHD (on an AUC basis at maternal oral doses up to 1000 mg/kg/day).
 Placental transfer of lumacaftor was observed in pregnant rats and rabbits.
 
 Ivacaftor
 
-Ivacaftor was not teratogenic in rats at approximately 15 times the MRHD (based on summed AUCs for ivacaftor and its metabolites at a maternal oral dose of 200 mg/kg/day).
-Ivacaftor was not teratogenic in rabbits at approximately 45 times the MRHD (on an ivacaftor AUC basis at a maternal oral dose of 100 mg/kg/day).
+In an embryo-fetal development study in pregnant rats dosed during the period of organogenesis from gestation days 7-17, ivacaftor was not teratogenic and did not affect fetal survival at exposures up to 7 times the MRHD (based on summed AUCs for ivacaftor and its metabolites at maternal oral doses up to 200 mg/kg/day).
+In an embryo-fetal development study in pregnant rabbits dosed during the period of organogenesis from gestation days 7-19, ivacaftor was not teratogenic and did not affect fetal development or survival at exposures up to 45 times the MRHD (on an ivacaftor AUC basis at maternal oral doses up to 100 mg/kg/day).
+In a pre- and postnatal development study in pregnant female rats doses from gestation day 7 through lactation day 20, ivacaftor had no effects on delivery or growth and development of offspring at exposures up to 5 times the MRHD (based on summed AUCs for ivacaftor and its metabolites at maternal oral doses up to 100 mg/kg/day).
+Decreased fetal body weights were observed at a maternally toxic dose that produced exposures 7 times the MRHD (based on summed AUCs for ivacaftor and its metabolites at a maternal oral dose of 200 mg/kg/day).
 Placental transfer of ivacaftor was observed in pregnant rats and rabbits.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-Both lumacaftor and ivacaftor are excreted into the milk of lactating female rats.
-Excretion of lumacaftor or ivacaftor into human milk is probable.
-There are no human studies that have investigated the effects of lumacaftor and ivacaftor on breast-fed infants.
-Caution should be exercised when ORKAMBI is administered to a nursing woman.
+Risk Summary
+
+There is no information regarding the presence of lumacaftor or ivacaftor in human milk, the effects on the breastfed infant, or the effects on milk production.
+Both lumacaftor and ivacaftor are excreted into the milk of lactating rats; however, due to species-specific differences in lactation physiology, animal lactation data may not reliably predict levels in human milk (see Data).
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for ORKAMBI and any potential adverse effects on the breastfed child from ORKAMBI or from the underlying maternal condition.
+
+Data
+
+Lumacaftor
+
+Lacteal excretion of lumacaftor in rats was demonstrated following a single oral dose (100 mg/kg) of 14C-lumacaftor administered 9 to 11 days postpartum to lactating mothers (dams).
+Exposure (AUC0-24h) values for lumacaftor in milk were approximately 40% of plasma levels.
+
+Ivacaftor
+
+Lacteal excretion of ivacaftor in rats was demonstrated following a single oral dose (100 mg/kg) of 14C-ivacaftor administered 9 to 10 days postpartum to lactating mothers (dams).
+Exposure (AUC0-24h) values for ivacaftor in milk were approximately 1.5 times higher than plasma levels.
+
+## 8.3 Females and Males of Reproductive Potential
+
+ORKAMBI may decrease hormonal contraceptive exposure, reducing the effectiveness.
+Hormonal contraceptives, including oral, injectable, transdermal, and implantable, should not be relied upon as an effective method of contraception when co-administered with ORKAMBI [see Warnings and Precautions (5.5) and Drug Interactions (7.11)].
 
 ## 8.4 Pediatric Use
 
 The safety and efficacy of ORKAMBI in patients with CF younger than age 12 years have not been established.
+Cases of non-congenital lens opacities have been reported in pediatric patients treated with ivacaftor, a component of ORKAMBI.
+Although other risk factors were present in some cases (such as corticosteroid use and exposure to radiation), a possible risk attributable to ivacaftor cannot be excluded [see Warnings and Precautions (5.6)].
+
+Juvenile Toxicity Data
+
+In a juvenile toxicology study in which ivacaftor was administered to rats from postnatal days 7 to 35, cataracts were observed at all dose levels, ranging from 0.3 to 2 times the MRHD (based on summed AUCs for ivacaftor and its metabolites at oral doses of 10-50 mg/kg/day).
+This finding has not been observed in older animals.
 
 ## 8.5 Geriatric Use
 
@@ -44,10 +83,15 @@ Therefore, use with caution at a maximum dose of 1 tablet in the morning and 1 t
 ## 8.7 Renal Impairment
 
 ORKAMBI has not been studied in patients with mild, moderate, or severe renal impairment or in patients with end-stage renal disease.
-No dose adjustment is necessary for patients with mild to moderate renal impairment.
+No dose adjustment is necessary for patients with mild and moderate renal impairment.
 Caution is recommended while using ORKAMBI in patients with severe renal impairment (creatinine clearance less than or equal to 30 mL/min) or end-stage renal disease.
 
 ## 8.8 Patients with Severe Lung Dysfunction
 
 The Phase 3 trials included 29 patients receiving ORKAMBI with ppFEV1 <40 at baseline.
 The treatment effect in this subgroup was comparable to that observed in patients with ppFEV1 ≥40.
+
+## 8.9 Patients After Organ Transplantation
+
+ORKAMBI has not been studied in patients with CF who have undergone organ transplantation.
+Use in transplanted patients is not recommended due to potential drug-drug interactions [see Drug Interactions (7.3)].

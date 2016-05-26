@@ -5,7 +5,7 @@ Potential for Other Drugs to Affect Lumacaftor/Ivacaftor
 ## 7.1 Inhibitors of CYP3A
 
 Co-administration of lumacaftor/ivacaftor with itraconazole, a strong CYP3A inhibitor, did not impact the exposure of lumacaftor, but increased ivacaftor exposure by 4.3-fold.
-Due to the induction effect of lumacaftor on CYP3A, at steady-state the net exposure of ivacaftor is not expected to exceed that when given in the absence of lumacaftor at a dose of 150 mg every 12 hours (the approved dose of ivacaftor monotherapy).
+Due to the induction effect of lumacaftor on CYP3A, at steady-state, the net exposure of ivacaftor is not expected to exceed that when given in the absence of lumacaftor at a dose of 150 mg every 12 hours (the approved dose of ivacaftor monotherapy).
 Therefore, no dose adjustment is necessary when CYP3A inhibitors are initiated in patients currently taking ORKAMBI.
 However, when initiating ORKAMBI in patients taking strong CYP3A inhibitors, reduce the ORKAMBI dose to 1 tablet daily (lumacaftor 200 mg/ivacaftor 125 mg total daily dose) for the first week of treatment to allow for the steady-state induction effect of lumacaftor.
 Following this period, continue with the recommended daily dose [see Dosage and Administration (2.3)].
@@ -21,7 +21,7 @@ No dose adjustment is recommended when used with moderate or weak CYP3A inhibito
 
 Co-administration of lumacaftor/ivacaftor with rifampin, a strong CYP3A inducer, had minimal effect on the exposure of lumacaftor, but decreased ivacaftor exposure (AUC) by 57%.
 This may reduce the effectiveness of ORKAMBI.
-Therefore, co-administration with strong CYP3A inducers, such as rifampin, rifabutin, phenobarbital, carbamazepine, phenytoin, and St. John's wort, is not recommended [see Warnings and Precautions (5.4) and Clinical Pharmacology (12.3)].
+Therefore, co-administration with strong CYP3A inducers, such as rifampin, rifabutin, phenobarbital, carbamazepine, phenytoin, and St. John's wort (Hypericum perforatum), is not recommended [see Warnings and Precautions (5.5) and Clinical Pharmacology (12.3)].
 
 No dose adjustment is recommended when used with moderate or weak CYP3A inducers.
 
@@ -31,9 +31,9 @@ Potential for Lumacaftor/Ivacaftor to Affect Other Drugs
 
 Lumacaftor is a strong inducer of CYP3A.
 Co-administration of lumacaftor with ivacaftor, a sensitive CYP3A substrate, decreased ivacaftor exposure by approximately 80%.
-Administration of ORKAMBI may decrease systemic exposure of medicinal products that are substrates of CYP3A, which may decrease the therapeutic effect of the medicinal product.
+Administration of ORKAMBI may decrease systemic exposure of medicinal products which are substrates of CYP3A, thereby decreasing the therapeutic effect of the medicinal product.
 
-Co-administration of ORKAMBI is not recommended with sensitive CYP3A substrates or CYP3A substrates with a narrow therapeutic index [see Warnings and Precautions (5.4) and Clinical Pharmacology (12.3)] such as:
+Co-administration of ORKAMBI is not recommended with sensitive CYP3A substrates or CYP3A substrates with a narrow therapeutic index [see Warnings and Precautions (5.5) and Clinical Pharmacology (12.3)] such as:
 
 - Benzodiazepines: midazolam, triazolam (consider an alternative to these benzodiazepines).
 - Immunosuppressants: cyclosporine, everolimus, sirolimus, and tacrolimus (avoid the use of ORKAMBI).

@@ -25,6 +25,8 @@ Cardiac Electrophysiology
 
 The effect of multiple doses of lumacaftor 600 mg once daily/ivacaftor 250 mg q12h and lumacaftor 1000 mg once daily/ivacaftor 450 mg q12h on QTc interval was evaluated in a randomized, placebo- and active-controlled (400 mg moxifloxacin), parallel, thorough QT study in 168 healthy subjects.
 No meaningful changes in QTc interval were observed with either lumacaftor 600 mg once daily/ivacaftor 250 mg q12h and lumacaftor 1000 mg once daily/ivacaftor 450 mg q12h dose groups.
+A maximum decrease in mean heart rate of up to 8 beats per minute (bpm) from baseline was observed with lumacaftor/ivacaftor treatment.
+In Trials 1 and 2, a similar decrease in heart rate was observed in patients during initiation of ORKAMBI (lumacaftor 400 mg/ivacaftor 250 mg q12h).
 
 ## 12.3 Pharmacokinetics
 
@@ -37,8 +39,8 @@ Table 2: Mean (SD) Pharmacokinetic Parameters of Lumacaftor and Ivacaftor at Ste
 
 |  | Drug | Cmax (μg/mL) | t½Based on lumacaftor 200 mg q12h/ivacaftor 250 mg q12h studied in healthy subjects (h) | AUC0-12h (μg∙h/mL) |
 | --- | --- | --- | --- | --- |
-| Lumacaftor 400 mg q12h/ Ivacaftor 250 mg q12h | Lumacaftor | 25.0 (7.96) | 25.2 (9.94) | 198 (64.8) |
-| Ivacaftor | 0.602 (0.304) | 9.34 (3.81) | 3.66 (2.25) |  |
+| Lumacaftor 400 mg q12h/ | Lumacaftor | 25.0 (7.96) | 25.2 (9.94) | 198 (64.8) |
+| Ivacaftor 250 mg q12h | Ivacaftor | 0.602 (0.304) | 9.34 (3.81) | 3.66 (2.25) |
 
 Absorption
 
@@ -104,7 +106,6 @@ Pharmacokinetic studies have not been performed with ORKAMBI in patients with re
 Hepatic Impairment
 
 Following multiple doses of lumacaftor/ivacaftor for 10 days, subjects with moderately impaired hepatic function (Child-Pugh Class B, score 7 to 9) had approximately 50% higher exposures (AUC0-12h) and approximately 30% higher Cmax for both lumacaftor and ivacaftor compared with healthy subjects matched for demographics.
-
 Pharmacokinetic studies have not been conducted in patients with mild (Child-Pugh Class A, score 5 to 6) or severe hepatic impairment (Child-Pugh Class C, score 10 to 15) receiving ORKAMBI [see Dosage and Administration (2.2), Warnings and Precautions (5.1), Adverse Reactions (6), and Use in Specific Populations (8.6)].
 
 Drug Interaction Studies
@@ -129,9 +130,9 @@ Therefore, concomitant use of ORKAMBI with CYP2B6, CYP2C8, CYP2C9, and CYP2C19 s
 Potential for Other Drugs to Affect Lumacaftor/Ivacaftor
 
 Lumacaftor exposure is not affected by concomitant CYP3A inducers or inhibitors.
-Exposure of ivacaftor when given in combination with lumacaftor is reduced by concomitant CYP3A inducers and increased by concomitant CYP3A inhibitors [see Dosage and Administration (2.3), Warnings and Precautions (5.4), and Drug Interactions (7)].
+Exposure of ivacaftor when given in combination with lumacaftor is reduced by concomitant CYP3A inducers and increased by concomitant CYP3A inhibitors [see Dosage and Administration (2.3), Warnings and Precautions (5.5), and Drug Interactions (7)].
 
-The effects of co-administered drugs on the exposure of lumacaftor and ivacaftor are shown in Table 3 [see Dosage and Administration (2.3), Warnings and Precautions (5.4), and Drug Interactions (7)].
+The effects of co-administered drugs on the exposure of lumacaftor and ivacaftor are shown in Table 3 [see Dosage and Administration (2.3), Warnings and Precautions (5.5), and Drug Interactions (7)].
 
 Table 3: Impact of Other Drugs on Lumacaftor 200 mg q12h/Ivacaftor 250 mg q12h
 
