@@ -12,11 +12,11 @@ U.S. License Number 1760
 
 EYLEA is a registered trademark of Regeneron Pharmaceuticals, Inc.
 
-© 2015, Regeneron Pharmaceuticals, Inc.
+© 2016, Regeneron Pharmaceuticals, Inc.
 
 All rights reserved.
 
-Issue Date: July 2015
+Issue Date: May 2016
 
 Initial U.S. Approval: 2011
 
