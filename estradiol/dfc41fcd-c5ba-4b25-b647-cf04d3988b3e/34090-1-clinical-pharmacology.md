@@ -16,17 +16,17 @@ Estrogens act to reduce the elevated levels of these hormones seen in postmenopa
 
 ## Pharmacokinetics
 
-### Absorption
+Absorption
 
 Estrogen drug products are absorbed through the skin, mucous membranes, and the gastrointestinal tract after release from the drug formulation.
 
-### Distribution
+Distribution
 
 The distribution of exogenous estrogens is similar to that of endogenous estrogens.
 Estrogens are widely distributed in the body and are generally found in higher concentrations in the sex hormone target organs.
 Estrogens circulate in the blood largely bound to sex hormone binding globulin (SHBG) and albumin.
 
-### Metabolism
+Metabolism
 
 Exogenous estrogens are metabolized in the same manner as endogenous estrogens.
 Circulating estrogens exist in a dynamic equilibrium of metabolic interconversions.
@@ -35,15 +35,15 @@ Estradiol is converted reversibly to estrone, and both can be converted to estri
 Estrogens also undergo enterohepatic recirculation via sulfate and glucuronide conjugation in the liver, biliary secretion of conjugates into the intestine, and hydrolysis in the gut followed by reabsorption.
 In postmenopausal women, a significant proportion of the circulating estrogens exist as sulfate conjugates, especially estrone sulfate, which serves as a circulating reservoir for the formation of more active estrogens.
 
-### Excretion
+Excretion
 
 Estradiol, estrone, and estriol are excreted in the urine along with glucuronide and sulfate conjugates.
 
-### Special Populations
+Special Populations
 
 No pharmacokinetic studies were conducted in special populations, including patients with renal or hepatic impairment.
 
-### Drug Interactions
+Drug Interactions
 
 In vitro and in vivo studies have shown that estrogens are metabolized partially by cytochrome P450 3A4 (CYP3A4).
 Therefore, inducers or inhibitors of CYP3A4 may affect estrogen drug metabolism.
@@ -52,7 +52,7 @@ Inhibitors of CYP3A4 such as erythromycin, clarithromycin, ketoconazole, itracon
 
 ## Clinical Studies
 
-### Women’s Health Initiative Studies
+Women’s Health Initiative Studies
 
 The Women’s Health Initiative (WHI) enrolled a total of 27,000 predominantly healthy postmenopausal women to assess the risks and benefits of either the use of oral 0.625 mg conjugated estrogens (CE) per day alone or the use of oral 0.625 mg conjugated estrogens plus 2.5 mg medroxyprogesterone acetate (MPA) per day compared to placebo in the prevention of certain chronic diseases.
 The primary endpoint was the incidence of coronary heart disease (CHD) (nonfatal myocardial infarction and CHD death), with invasive breast cancer as the primary adverse outcome studied.
@@ -63,31 +63,33 @@ The CE/MPA substudy was stopped early because, according to the predefined stopp
 Results of the CE/MPA substudy, which included 16,608 women (average age of 63 years, range 50 to 79; 83.9 percent White, 6.5 percent Black, 5.5 percent Hispanic), after an average follow-up of 5.2 years are presented in Table 1 below:
 
 Table 1.
-RELATIVE AND ABSOLUTE RISK SEEN IN THE CE/MPA SUBSTUDY OF WHIadapted from JAMA, 2002; 288:321-333
+RELATIVE AND ABSOLUTE RISK SEEN IN THE CE/MPA SUBSTUDY OF WHIa
 
-| Eventa subset of the events was combined in a “global index”, defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, endometrial cancer, colorectal cancer, hip fracture, or death due to other causes | Relative Risk CE/MPA versus placebo at 5.2 Years(95 percent CInominal confidence intervals unadjusted for multiple looks and multiple comparisons) | Placebo n = 8102 | CE/MPAn = 8506 |
+| Eventc | Relative Risk CE/MPA versus placebo at 5.2 Years (95 percent CI*) | Placebo n = 8102 | CE/MPA n = 8506 |
 | --- | --- | --- | --- |
-| Absolute Risk per 10,000 Women-years |  |  |  |
+|  |  | Absolute Risk per 10,000 Women-years |  |
 | CHD events | 1.29 (1.02 to 1.63) | 30 | 37 |
 | Non-fatal MI | 1.32 (1.02 to 1.72) | 23 | 30 |
 | CHD death | 1.18 (0.70 to 1.97) | 6 | 7 |
-| Invasive breast cancerincludes metastatic and non-metastatic breast cancer with the exception of in situ breast cancer | 1.26 (1.00 to 1.59) | 30 | 38 |
+| Invasive breast cancerb | 1.26 (1.00 to 1.59) | 30 | 38 |
 | Stroke | 1.41 (1.07 to 1.85) | 21 | 29 |
 | Pulmonary embolism | 2.13 (1.39 to 3.25) | 8 | 16 |
 | Colorectal cancer | 0.63 (0.43 to 0.92) | 16 | 10 |
 | Endometrial cancer | 0.83 (0.47 to 1.47) | 6 | 5 |
 | Hip fracture | 0.66 (0.45 to 0.98) | 15 | 10 |
 | Death due to causes other than the events above | 0.92 (0.74 to 1.14) | 40 | 37 |
-| Global Index | 1.15 (1.03 to 1.28) | 151 | 170 |
-| Deep vein thrombosis not included in Global Index | 2.07 (1.49 to 2.87) | 13 | 26 |
-| Vertebral fractures | 0.66 (0.44 to 0.98) | 15 | 9 |
-| Other osteoporotic fractures | 0.77 (0.69 to 0.86) | 170 | 131 |
+| Global Index c | 1.15 (1.03 to 1.28) | 151 | 170 |
+| Deep vein thrombosis d | 2.07 (1.49 to 2.87) | 13 | 26 |
+| Vertebral fractures d | 0.66 (0.44 to 0.98) | 15 | 9 |
+| Other osteoporotic fractures d | 0.77 (0.69 to 0.86) | 170 | 131 |
+
+a adapted from JAMA, 2002; 288:321-333 b includes metastatic and non-metastatic breast cancer with the exception of in situ breast cancer c a subset of the events was combined in a “global index”, defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, endometrial cancer, colorectal cancer, hip fracture, or death due to other causes d not included in Global Index * nominal confidence intervals unadjusted for multiple looks and multiple comparisons
 
 For those outcomes included in the "global index”, the absolute excess risks per 10,000 women-years in the group treated with CE/MPA were 7 more CHD events, 8 more strokes, 8 more PEs, and 8 more invasive breast cancers, while the absolute risk reductions per 10,000 women-years were 6 fewer colorectal cancers and 5 fewer hip fractures.
 The absolute excess risk of events included in the “global index” was 19 per 10,000 women-years.
 There was no difference between the groups in terms of all-cause mortality (see BOXED WARNINGS, WARNINGS, and PRECAUTIONS).
 
-### Women’s Health Initiative Memory Study
+Women’s Health Initiative Memory Study
 
 The Women’s Health Initiative Memory Study (WHIMS), a substudy of WHI, enrolled 4,532 predominantly healthy postmenopausal women 65 years of age and older (47 percent were age 65 to 69 years, 35 percent were 70 to 74 years, and 18 percent were 75 years of age and older) to evaluate the effects of CE/MPA (0.625 mg conjugated estrogens plus 2.5 mg medroxyprogesterone acetate) on the incidence of probable dementia (primary outcome) compared with placebo.
 

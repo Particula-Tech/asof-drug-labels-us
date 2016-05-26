@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - CARTON LABEL - 1½ OZ (42.5 g)
+# PRINCIPAL DISPLAY PANEL
 
 N 0430-3754-14
 
@@ -8,7 +8,9 @@ Usual Dosage: See enclosed Package Insert for Full Prescribing Information.
 
 CAUTION: Keep this and all medications out of the reach of children.
 
-ESTRACE® CREAM (estradiol vaginal cream, USP, 0.01%)
+ESTRACE® CREAM
+
+(estradiol vaginal cream, USP, 0.01%)
 
 UNSCENTED
 
@@ -17,7 +19,10 @@ Rx only
 NET WT 1½ OZ (42.5 G) TUBE
 
 Store at room temperature.
-Protect from temperatures in excess of 40° C (104° F). Dispense With Insert.
+
+Protect from temperatures in excess of 40° C (104° F).
+
+Dispense With Insert.
 
 CALIBRATED APPLICATOR ENCLOSED
 
@@ -25,7 +30,7 @@ This product also contains purified water, propylene glycol, stearyl alcohol, wh
 
 Read Accompanying Information For The Patient
 
-# PRINCIPAL DISPLAY LABEL - TUBE LABEL - 1½ OZ (42.5 g)
+# PRINCIPAL DISPLAY PANEL
 
 N 0430-3754-14
 

@@ -8,6 +8,13 @@ Read this PATIENT INFORMATION before you start using ESTRACE® Vaginal Cream and
 There may be new information.
 This information does not take the place of talking with your healthcare provider about your medical condition or your treatment.
 
+| WHAT IS THE MOST IMPORTANT INFORMATION I SHOULD KNOW ABOUT ESTRACE VAGINAL CREAM (AN ESTROGEN HORMONE)? |
+| --- |
+| • Estrogens increase the chances of getting cancer of the uterus. |
+| Report any unusual vaginal bleeding right away while you are taking estrogens. Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb). Your healthcare provider should check any unusual vaginal bleeding to find out the cause. |
+| • Do not use estrogens with or without progestins to prevent heart disease, heart attacks, or strokes. |
+| Using estrogens with or without progestins may increase your chances of getting heart attacks, strokes, breast cancer, and blood clots. Using estrogens with progestins may increase your risk of dementia. You and your healthcare provider should talk regularly about whether you still need treatment with ESTRACE Vaginal Cream. |
+
 What is ESTRACE Vaginal Cream?
 
 ESTRACE Vaginal Cream is a medicine that contains estrogen hormones.
@@ -24,22 +31,12 @@ Who should not use ESTRACE Vaginal Cream?
 Do not start using ESTRACE Vaginal Cream if you:
 
 - have unusual vaginal bleeding
-
-- currently have or have had certain cancers
-
-Estrogens may increase the chances of getting certain types of cancers, including cancer of the breast or uterus.
-If you have or have had cancer, talk with your healthcare provider about whether you should use ESTRACE Vaginal Cream.
-
+- currently have or have had certain cancers Estrogens may increase the chances of getting certain types of cancers, including cancer of the breast or uterus.
+  If you have or have had cancer, talk with your healthcare provider about whether you should use ESTRACE Vaginal Cream.
 - had a stroke or heart attack in the past year
-
 - currently have or have had blood clots
-
 - currently have or have had liver problems
-
-- are allergic to ESTRACE Vaginal Cream or any of its ingredients
-
-See the end of this leaflet for a list of ingredients in ESTRACE Vaginal Cream
-
+- are allergic to ESTRACE Vaginal Cream or any of its ingredients See the end of this leaflet for a list of ingredients in ESTRACE Vaginal Cream
 - think you may be pregnant
 
 Tell your healthcare provider:

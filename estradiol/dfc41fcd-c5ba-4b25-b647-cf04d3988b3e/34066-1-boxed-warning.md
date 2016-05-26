@@ -1,4 +1,4 @@
-# ESTROGENS INCREASE THE RISK OF ENDOMETRIAL CANCER
+ESTROGENS INCREASE THE RISK OF ENDOMETRIAL CANCER
 
 Close clinical surveillance of all women taking estrogens is important.
 Adequate diagnostic measures, including endometrial sampling when indicated, should be undertaken to rule out malignancy in all cases of undiagnosed persistent or recurring abnormal vaginal bleeding.
@@ -15,17 +15,3 @@ It is unknown whether this finding applies to younger postmenopausal women or to
 
 Other doses of oral conjugated estrogens with medroxyprogesterone acetate, and other combinations and dosage forms of estrogens and progestins were not studied in the WHI clinical trials and, in the absence of comparable data, these risks should be assumed to be similar.
 Because of these risks, estrogens with or without progestins should be prescribed at the lowest effective doses and for the shortest duration consistent with treatment goals and risks for the individual woman.
-
-WHAT IS THE MOST IMPORTANT INFORMATION I SHOULD KNOW ABOUT ESTRACE VAGINAL CREAM (AN ESTROGEN HORMONE)?
-
-- Estrogens increase the chances of getting cancer of the uterus.
-
-Report any unusual vaginal bleeding right away while you are taking estrogens.
-Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb).
-Your healthcare provider should check any unusual vaginal bleeding to find out the cause.
-
-- Do not use estrogens with or without progestins to prevent heart disease, heart attacks, or strokes.
-
-Using estrogens with or without progestins may increase your chances of getting heart attacks, strokes, breast cancer, and blood clots.
-Using estrogens with progestins may increase your risk of dementia.
-You and your healthcare provider should talk regularly about whether you still need treatment with ESTRACE Vaginal Cream.
