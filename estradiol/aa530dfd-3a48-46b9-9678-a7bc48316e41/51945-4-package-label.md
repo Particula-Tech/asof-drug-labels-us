@@ -6,7 +6,7 @@ Estring® estradiol vaginal ring
 
 2 mg
 
-Store at controlled room temperature 15° to 30°C (59° to 86°F).
+Store at controlled room temperature 15 °C to 25 °C (59 °F to 77 °F).
 
 DOSAGE AND USE See accompanying prescribing information.
 
@@ -14,11 +14,9 @@ Package Not Child-Resistant.
 
 Keep out of reach of children.
 
-7.5 μg/24 hrs of estradiol is released over 90 days.
+7.5 mcg/24 hrs of estradiol is released over 90 days.
 
-MADE IN NETHERLANDS
-
-612701
+61 27 37
 
 Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017
 
