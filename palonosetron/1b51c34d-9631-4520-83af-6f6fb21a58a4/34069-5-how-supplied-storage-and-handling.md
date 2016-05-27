@@ -6,7 +6,7 @@ NDC # 62856-798-01, ALOXI Injection 0.075 mg/1.5 mL (free base) single-use vial 
 
 Storage
 
-- Store at controlled temperature of 20-25°C (68°F-77°F).
-  Excursions permitted to 15-30°C (59-86°F).
+- Store at controlled temperature of 20–25°C (68°F–77°F).
+  Excursions permitted to 15–30°C (59-86°F).
 - Protect from freezing.
 - Protect from light.

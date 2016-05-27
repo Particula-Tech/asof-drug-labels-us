@@ -83,7 +83,7 @@ Table 2: Adverse Reactions from Postoperative Nausea and Vomiting Studies ≥ 2%
 | Electrocardiogram QT prolongation | 16 (5%) | 11 (3%) |
 | Bradycardia | 13 (4%) | 16 (4%) |
 | Headache | 11 (3%) | 14 (4%) |
-| Constipation | 8 (2%) | 11 (3%) |
+| Constipation | 8 (2%) | 11(3%) |
 
 In these clinical trials, the following infrequently reported adverse reactions, assessed by investigators as treatment-related or causality unknown, occurred following administration of ALOXI to adult patients receiving concomitant perioperative and intraoperative medications including those associated with anesthesia:
 

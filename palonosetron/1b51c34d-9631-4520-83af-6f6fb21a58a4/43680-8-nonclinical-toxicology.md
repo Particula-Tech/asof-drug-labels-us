@@ -4,7 +4,7 @@
 
 In a 104-week carcinogenicity study in CD-1 mice, animals were treated with oral doses of palonosetron at 10, 30, and 60 mg/kg/day.
 Treatment with palonosetron was not tumorigenic.
-The highest tested dose produced a systemic exposure to palonosetron (Plasma AUC) of about 150 to 289 times the human exposure (AUC= 29.8 h·mcg/L) at the recommended intravenous dose of 0.25 mg.
+The highest tested dose produced a systemic exposure to palonosetron (Plasma AUC) of about 150 to 289 times the human exposure (AUC= 29.8 h•mcg/L) at the recommended intravenous dose of 0.25 mg.
 In a 104-week carcinogenicity study in Sprague-Dawley rats, male and female rats were treated with oral doses of 15, 30, and 60 mg/kg/day and 15, 45, and 90 mg/kg/day, respectively.
 The highest doses produced a systemic exposure to palonosetron (Plasma AUC) of 137 and 308 times the human exposure at the recommended dose.
 Treatment with palonosetron produced increased incidences of adrenal benign pheochromocytoma and combined benign and malignant pheochromocytoma, increased incidences of pancreatic Islet cell adenoma and combined adenoma and carcinoma and pituitary adenoma in male rats.

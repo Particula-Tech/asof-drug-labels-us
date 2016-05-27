@@ -13,6 +13,6 @@ Serotonin syndrome occurring with overdose of another 5-HT3 receptor antagonist 
 The majority of reports of serotonin syndrome related to 5-HT3 receptor antagonist use occurred in a post-anesthesia care unit or an infusion center.
 
 Symptoms associated with serotonin syndrome may include the following combination of signs and symptoms: mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, with or without gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
-Patients should be monitored for the emergence of serotonin syndrome, especially with concomitant use of ALOXIand other serotonergic drugs.
+Patients should be monitored for the emergence of serotonin syndrome, especially with concomitant use of ALOXI and other serotonergic drugs.
 If symptoms of serotonin syndrome occur, discontinue ALOXI and initiate supportive treatment.
 Patients should be informed of the increased risk of serotonin syndrome, especially if ALOXI is used concomitantly with other serotonergic drugs [see Drug Interactions (7), Patient Counseling Information (17)].

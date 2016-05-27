@@ -1,4 +1,4 @@
-# 2 DOSAGE AND ADMINSTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 ## 2.1 Recommended Dosing
 
@@ -8,9 +8,12 @@ Chemotherapy-Induced Nausea and Vomiting
 | --- | --- | --- |
 | Adults | 0.25 mg x 1 | Infuse over 30 seconds beginning approx. 30 min before the start of chemo |
 | Pediatrics (1 month to less than 17 years) | 20 micrograms per kilogram (max 1.5 mg) x 1 | Infuse over 15 minutes beginning approx. 30 min before the start of chemo |
-| *Note different dosing units in pediatrics |  |  |
 
-Postoperative Nausea and Vomiting Dosage for Adults - a single 0.075 mg intravenous dose administered over 10 seconds immediately before the induction of anesthesia.
+*Note different dosing units in pediatrics
+
+Postoperative Nausea and Vomiting
+
+Dosage for Adults - a single 0.075 mg intravenous dose administered over 10 seconds immediately before the induction of anesthesia.
 
 ## 2.2 Instructions for Intravenous Administration
 

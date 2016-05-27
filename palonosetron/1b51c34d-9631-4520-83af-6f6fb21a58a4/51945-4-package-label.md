@@ -1,14 +1,7 @@
-PRINCIPAL DISPLAY PANEL NDC 62856-797-01 Aloxi® palonosetron HCl injection 0.25 mg/5 mL (0.05 mg/mL) For intravenous injection only.
-5 mL single-use sterile vial.
+PRINCIPAL DISPLAY PANEL
 
-PRINCIPAL DISPLAY PANEL - 0.075 mg/1.5 mL Injection
+NDC 62856-797-01 Aloxi 0.25 mg/ 5 mL (0.05 mg/ mL) Rx Only
 
-NDC 62856-798-01 Rx only
+PRINCIPAL DISPLAY PANEL
 
-Aloxi® palonosetron HCl injection
-
-0.075 mg/1.5 mL single-use vial
-
-For intravenous injection only.
-1.5-mL single-use sterile vial.
-Discard unused portion.
+NDC 62856-798-01 Aloxi 0.075 mg/ 1.5 mL Rx Only

@@ -4,8 +4,7 @@
 
 ALOXI is indicated for:
 
-- Moderately emetogenic cancer chemotherapy --prevention of acute and delayed nausea and vomiting associated with initial and repeat courses
-
+- Moderately emetogenic cancer chemotherapy -- prevention of acute and delayed nausea and vomiting associated with initial and repeat courses
 - Highly emetogenic cancer chemotherapy -- prevention of acute nausea and vomiting associated with initial and repeat courses
 
 ## 1.2 Chemotherapy-Induced Nausea and Vomiting in Pediatric Patients Aged 1 Month to Less than 17 Years
