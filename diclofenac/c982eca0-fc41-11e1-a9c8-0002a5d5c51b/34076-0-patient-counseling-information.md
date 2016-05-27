@@ -1,43 +1,52 @@
 # 17. PATIENT COUNSELING INFORMATION
 
-Inform patients of the availability of a Medication Guide for NSAIDs that accompanies each prescription dispensed, and instruct them to read the NSAID Medication Guide prior to using Zipsor [see Medication Guide].
+Advise the patient to read the FDA-approved patient labeling (Medication Guide) that accompanies each prescription dispensed.
+Inform patients, families, or their caregivers of the following information before initiating therapy with ZIPSOR and periodically during the course of ongoing therapy.
 
-## 17.1 Cardiovascular Effects
+Cardiovascular Thrombotic Events
 
-NSAIDs, including diclofenac, may cause serious CV events, such as MI or stroke, which may result in hospitalization and even death.
-Although serious CV events can occur without warning symptoms, advise patients to be alert for the signs and symptoms of chest pain, shortness of breath, weakness, slurring of speech, and to ask for medical advice when observing any indicative sign or symptoms.
-Inform patients of the importance of this follow-up [see Warnings and Precautions (5.1)].
+Advise patients to be alert for the symptoms of cardiovascular thrombotic events, including chest pain, shortness of breath, weakness, or slurring of speech, and to report any of these symptoms to their health care provider immediately [see Warnings and Precautions (5.1)].
 
-## 17.2 Gastrointestinal Effects
+Gastrointestinal Bleeding, Ulceration, and Perforation
 
-NSAIDs, including diclofenac, can cause GI discomfort and, rarely, more serious GI side effects, such as ulcers and bleeding, which may result in hospitalization and even death.
-Although serious GI tract ulcerations and bleeding can occur without warning symptoms, advise patients to be alert for the signs and symptoms of ulcerations and bleeding, and to ask for medical advice when observing any indicative sign or symptoms including epigastric pain, dyspepsia, melena, and hematemesis.
-Inform patients of the importance of this follow-up [see Warnings and Precautions (5.2)].
+Advise patients to report symptoms of ulcerations and bleeding, including epigastric pain, dyspepsia, melena, and hematemesis to their health care provider.
+In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, inform patients of the increased risk for and the signs and symptoms of GI bleeding [see Warnings and Precautions (5.2)].
 
-## 17.3 Hepatotoxicity
+Hepatotoxicity
 
-Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness, and “flu-like” symptoms).
-If these occur, instruct patients to stop therapy with Zipsor and seek immediate medical therapy [see Warnings and Precautions (5.3)].
+Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, diarrhea, jaundice, right upper quadrant tenderness, and “flu-like” symptoms).
+If these occur, instruct patients to stop ZIPSOR and seek immediate medical therapy [see Warnings and Precautions (5.3)].
 
-## 17.4 Adverse Skin Reactions
+Heart Failure and Edema
 
-NSAIDs can cause serious skin reactions such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which may result in hospitalizations and even death.
-Although serious skin reactions may occur without warning, advise patients to be alert for the signs and symptoms of skin rash and blisters, fever, or other signs of hypersensitivity such as itching, and to ask for medical advice when observing any indicative signs or symptoms.
-Advise patients to stop Zipsor immediately if they develop any type of rash and contact their physicians as soon as possible [see Warnings and Precautions (5.8)].
+Advise patients to be alert for the symptoms of congestive heart failure including shortness of breath, unexplained weight gain, or edema and to contact their healthcare provider if such symptoms occur [see Warnings and Precautions (5.5)].
 
-## 17.5 Weight Gain and Edema
+Anaphylactic Reactions
 
-Advise patients to promptly report to their physicians signs or symptoms of unexplained weight gain or edema during treatment with Zipsor [see Warnings and Precautions (5.5)].
+Inform patients of the signs of an anaphylactic reaction (e.g., difficulty breathing, swelling of the face or throat).
+Instruct patients to seek immediate emergency help if these occur [see Contraindications (4) and Warnings and Precautions (5.7)].
 
-## 17.6 Anaphylactoid Reactions
+Serious Skin Reactions
 
-Inform patients of the signs of an anaphylactoid reaction (e.g., difficulty breathing, swelling of the face or throat).
-Instruct patients to seek immediate emergency help if these occur [see Warnings and Precautions (5.7)].
+Advise patients to stop ZIPSOR immediately if they develop any type of rash and to contact their healthcare provider as soon as possible [see Warnings and Precautions (5.9)].
 
-## 17.7 Effects During Pregnancy
+Female Fertility
 
-Starting at 30 weeks gestation, Zipsor and other NSAIDs, should be avoided by pregnant women as premature closure of the ductus arteriosus in the fetus may occur [see Use in Specific Populations (8.1)].
+Advise females of reproductive potential who desire pregnancy that NSAIDs, including ZIPSOR, may be associated with a reversible delay in ovulation [see Use in Specific Populations (8.3)].
+
+Fetal Toxicity
+
+Inform pregnant women to avoid use of ZIPSOR and other NSAIDs starting at 30 weeks gestation because of the risk of the premature closing of the fetal ductus arteriosus [see Warnings and Precautions (5.10) and Use in Specific Populations (8.1)].
+
+Avoid Concomitant Use of NSAIDs
+
+Inform patients that the concomitant use of ZIPSOR with other NSAIDs or salicylates (e.g., diflunisal, salsalate) is not recommended due to the increased risk of gastrointestinal toxicity, and little or no increase in efficacy [see Warnings and Precautions (5.2) and Drug Interactions (7)].
+Alert patients that NSAIDs may be present in “over the counter” medications for treatment of colds, fever, or insomnia.
+
+Use of NSAIDs and Low-Dose Aspirin
+
+Inform patients not to use low-dose aspirin concomitantly with ZIPSOR until they talk to their healthcare provider [see Drug Interactions (7)].
 
 US Patents: 6,365,180; 7,662,858; 7,884,095; 7,939,518; 8,110,606; 6,287,594; 8,623,920
 
-Marketed by: Depomed, Inc. Newark, CA 94560, USA
+Distributed by: Depomed, Inc. Newark, CA 94560, USA Issued: 5/2016

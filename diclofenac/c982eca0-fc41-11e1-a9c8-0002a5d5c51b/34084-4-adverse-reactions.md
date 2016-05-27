@@ -1,27 +1,28 @@
 # 6. ADVERSE REACTIONS
 
-The following serious adverse reactions are discussed elsewhere in the labeling:
+The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- Cardiovascular thrombotic events [see Boxed Warning and Warnings and Precautions (5.1)]
-- Gastrointestinal effects [see Boxed Warning and Warnings and Precautions (5.2)]
-- Hepatic effects [see Warnings and Precautions (5.3)]
+- Cardiovascular Thrombotic Events [see Warnings and Precautions (5.1)]
+- GI Bleeding, Ulceration and Perforation [see Warnings and Precautions (5.2)]
+- Hepatotoxicity [see Warnings and Precautions (5.3)]
 - Hypertension [see Warnings and Precautions (5.4)]
-- Congestive heart failure and edema [see Warnings and Precautions (5.5)]
-- Renal effects [see Warnings and Precautions (5.6)]
-- Anaphylactoid reactions [see Warnings and Precautions (5.7)]
-- Serious skin reactions [see Warnings and Precautions (5.8)]
+- Heart Failure and Edema [see Warnings and Precautions (5.5)]
+- Renal Toxicity and Hyperkalemia [see Warnings and Precautions (5.6)]
+- Anaphylactic Reactions [see Warnings and Precautions (5.7)]
+- Serious Skin Reactions [see Warnings and Precautions (5.9)]
+- Hematologic Toxicity [see Warnings and Precautions (5.11)]
 
-## 6.1 Clinical Study Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared with the rates in clinical trials of another drug and may not reflect the rates observed in practice.
 
-The safety of Zipsor was evaluated in 965 subjects.
-In patients treated with Zipsor 25 mg (N=345) or a higher dose, three or four times a day, for 4 to 5 days, the most common adverse reactions (i.e., reported in ≥ 1% of Zipsor treated patients) were as follows: gastrointestinal experiences including abdominal pain, constipation, diarrhea, dyspepsia, nausea, vomiting, dizziness, headache, somnolence, pruritus, and increased sweating.
+The safety of ZIPSOR was evaluated in 965 subjects.
+In patients treated with ZIPSOR 25 mg (N=345) or a higher dose, three or four times a day, for 4 to 5 days, the most common adverse reactions (i.e., reported in ≥ 1% of ZIPSOR treated patients) were as follows: gastrointestinal experiences including abdominal pain, constipation, diarrhea, dyspepsia, nausea, vomiting, dizziness, headache, somnolence, pruritus, and increased sweating.
 (see Table 1)
 
-Table 1 Incidence of Treatment Emergent Adverse Reactions with Incidence ≥ 1% of Zipsor Treated Patients in Multiple-Dose Studies
+Table 1 Incidence of Treatment Emergent Adverse Reactions with Incidence ≥ 1% of ZIPSOR Treated Patients in Multiple-Dose Studies
 
-| MedDRA System Organ Class and Preferred Term |  | Zipsor* 25 mg n=345 n (%) |  | Placebo* n=327 n (%) |
+| MedDRA System Organ Class and Preferred Term |  | ZIPSOR* 25 mg n=345 n (%) |  | Placebo* n=327 n (%) |
 | --- | --- | --- | --- | --- |
 | Any Adverse Events |  | 144 (41.7) |  | 181 (55.4) |
 | Abdominal Pain |  | 24 (7.0) |  | 11 (3.4) |
@@ -35,7 +36,7 @@ Table 1 Incidence of Treatment Emergent Adverse Reactions with Incidence ≥ 1% 
 | Somnolence |  | 9 (2.6) |  | 6 (1.8) |
 | Pruritus |  | 5 (1.4) |  | 6 (1.8) |
 | Sweating Increase |  | 4 (1.2) |  | 2 (0.6) |
-| *There was greater use of concomitant opioid rescue medication in placebo treated patients than in Zipsor treated patients. |  |  |  |  |
+| *There was greater use of concomitant opioid rescue medication in placebo treated patients than in ZIPSOR treated patients. |  |  |  |  |
 
 In patients taking other NSAIDs, the most frequently reported adverse experiences occurring in approximately 1%-10% of patients are:
 

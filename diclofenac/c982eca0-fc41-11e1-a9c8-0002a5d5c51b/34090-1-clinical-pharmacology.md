@@ -2,17 +2,22 @@
 
 ## 12.1 Mechanism of Action
 
-Zipsor is an NSAID that exhibits anti-inflammatory, analgesic, and antipyretic activities in animal models.
-The mechanism of action of Zipsor, like that of other NSAIDs, is not completely understood but may involve inhibition of the cyclooxygenase (COX-1 and COX-2) pathways.
-Diclofenac's mechanism may also be related to prostaglandin synthetase inhibition.
-The analgesic mechanism of action needs further elucidation.
+Diclofenac has analgesic, anti-inflammatory, and antipyretic properties.
+
+The mechanism of action of ZIPSOR, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2).
+
+Diclofenac is a potent inhibitor of prostaglandin synthesis in vitro.
+Diclofenac concentrations reached during therapy have produced in vivo effects.
+Prostaglandins sensitize afferent nerves and potentiate the action of bradykinin in inducing pain in animal models.
+Prostaglandins are mediators of inflammation.
+Because diclofenac is an inhibitor of prostaglandin synthesis, its mode of action may be due to a decrease of prostaglandins in peripheral tissues.
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetics of Zipsor was assessed in 24 healthy, normal volunteers who received 25 mg Zipsor under fasting conditions.
-The mean pharmacokinetic parameters for Zipsor are shown in Table 2.
+The pharmacokinetics of ZIPSOR was assessed in 24 healthy, normal volunteers who received 25 mg ZIPSOR under fasting conditions.
+The mean pharmacokinetic parameters for ZIPSOR are shown in Table 3
 
-Table 2 Mean Pharmacokinetics of Zipsor
+Table 3 Mean Pharmacokinetics of ZIPSOR
 
 | PK Parameter | Number of Subjects | Mean ± Standard Deviation |
 | --- | --- | --- |
@@ -27,7 +32,7 @@ Diclofenac is 100% absorbed after oral administration compared to IV administrat
 However, due to first-pass metabolism, only about 50% of the absorbed dose is systemically available.
 After repeated oral administration, no accumulation of diclofenac in plasma occurred.
 
-The extent of diclofenac absorption is not significantly affected when Zipsor is taken with food.
+The extent of diclofenac absorption is not significantly affected when ZIPSOR is taken with food.
 However, the rate of absorption is reduced by food, as indicated by a two-fold increase of Tmax and a 47% decrease in Cmax.
 
 Distribution
@@ -41,10 +46,12 @@ Diclofenac diffuses into and out of the synovial fluid.
 Diffusion into the joint occurs when plasma levels are higher than those in the synovial fluid, after which the process reverses and synovial fluid levels are higher than plasma levels.
 It is not known whether diffusion into the joint plays a role in the effectiveness of diclofenac.
 
+Elimination
+
 Metabolism
 
 Five diclofenac metabolites have been identified in human plasma and urine.
-The metabolites include 4'-hydroxy-, 5-hydroxy-, 3'-hydroxy-, 4',5-dihydroxy- and 3'-hydroxy-4'-methoxy diclofenac.
+The metabolites include 4'-hydroxy-, 5-hydroxy-, 3'-hydroxy-, 4',5-dihydroxy- and 3'- hydroxy-4'-methoxy diclofenac.
 The major diclofenac metabolite, 4'-hydroxy-diclofenac, has very weak pharmacologic activity.
 The formation of 4'-hydroxy diclofenac is primarily mediated by CPY2C9.
 Both diclofenac and its oxidative metabolites undergo glucuronidation or sulfation followed by biliary excretion.
@@ -60,13 +67,20 @@ Approximately 65% of the dose is excreted in the urine, and approximately 35% in
 Because renal elimination is not a significant pathway of elimination for unchanged diclofenac, dosing adjustment in patients with mild to moderate renal dysfunction is not necessary.
 The terminal half-life of unchanged diclofenac is approximately 1 hour.
 
-Special Populations
+Specific Populations
 
-Pediatric: The pharmacokinetics of Zipsor has not been investigated in pediatric patients.
+Pediatric: The pharmacokinetics of ZIPSOR has not been investigated in pediatric patients.
 
 Race: Pharmacokinetic differences due to race have not been studied.
 
-Hepatic Impairment: Hepatic metabolism accounts for almost 100% of diclofenac elimination, so patients with hepatic disease may require reduced doses of Zipsor compared to patients with normal hepatic function.
+Hepatic Impairment: Hepatic metabolism accounts for almost 100% of diclofenac elimination.
+Therefore, in patients with hepatic impairment, start with the lowest dose and if efficacy is not achieved, consider use of an alternate product [see Warnings and Precautions (5.3)].
 
 Renal Impairment: Diclofenac pharmacokinetics has been investigated in subjects with renal insufficiency.
-In patients with renal impairment (inulin clearance 60-90, 30-60, and <30 mL/min; N=6 in each group), AUC values and elimination rate were comparable to those in healthy subjects.
+In patients with renal impairment (inulin clearance 60-90, 30-60, and <30 mL/min; N=6 in each group), AUC values and elimination rate were comparable to those in healthy subjects [see Warnings and Precautions (5.6)].
+
+Drug Interaction Studies
+
+Aspirin: When NSAIDs were administered with aspirin, the protein binding of NSAIDs were reduced, although the clearance of free NSAID was not altered.
+The clinical significance of this interaction is not known.
+See Table 2 for clinically significant drug interactions of NSAIDs with aspirin [see Drug Interactions (7)].

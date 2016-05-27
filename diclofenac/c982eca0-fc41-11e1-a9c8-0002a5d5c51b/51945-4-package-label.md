@@ -6,7 +6,7 @@ NDC 13913-008-11
 
 Rx Only
 
-Zipsor® (diclofenac potassium)
+ZIPSOR® (diclofenac potassium)
 
 Liquid Filled Capsules
 
@@ -20,7 +20,7 @@ NDC 13913-008-12
 
 Rx Only
 
-Zipsor® (diclofenac potassium)
+ZIPSOR® (diclofenac potassium)
 
 120 Liquid Filled Capsules
 
