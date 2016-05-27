@@ -1,25 +1,32 @@
 # CLINICAL PHARMACOLOGY
 
-## Pharmacodynamics
+## Mechanism of Action
 
-Cataflam® (diclofenac potassium immediate-release tablets) is a nonsteroidal anti-inflammatory drug (NSAID) that exhibits anti-inflammatory, analgesic, and antipyretic activities in animal models.
-The mechanism of action of Cataflam, like that of other NSAIDs, is not completely understood but may be related to prostaglandin synthetase inhibition.
+Diclofenac has analgesic, anti-inflammatory, and antipyretic properties.
+
+The mechanism of action of CATAFLAM, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2).
+
+Diclofenac is a potent inhibitor of prostaglandin synthesis in vitro.
+Diclofenac concentrations reached during therapy have produced in vivo effects.
+Prostaglandins sensitize afferent nerves and potentiate the action of bradykinin in inducing pain in animal models.
+Prostaglandins are mediators of inflammation.
+Because diclofenac is an inhibitor of prostaglandin synthesis, its mode of action may be due to a decrease of prostaglandins in peripheral tissues.
 
 ## Pharmacokinetics
 
-### Absorption
+Absorption
 
 Diclofenac is 100% absorbed after oral administration compared to IV administration as measured by urine recovery.
 However, due to first-pass metabolism, only about 50% of the absorbed dose is systemically available (see Table 1).
-In some fasting volunteers, measurable plasma levels are observed within 10 minutes of dosing with Cataflam.
-Peak plasma levels are achieved approximately 1 hour in fasting normal volunteers, with a range of.33 to 2 hours.
+In some fasting volunteers, measurable plasma levels are observed within 10 minutes of dosing with CATAFLAM.
+Peak plasma levels are achieved approximately 1 hour in fasting normal volunteers, with a range of 0.33 to 2 hours.
 Food has no significant effect on the extent of diclofenac absorption.
 However, there is usually a delay in the onset of absorption and a reduction in peak plasma levels of approximately 30%.
 
 Table 1.
 Pharmacokinetic Parameters for Diclofenac
 
-| PK Parameter | Normal Healthy Adults (20-52 yrs.) |  |
+| PK Parameter | Normal Healthy Adults (20-52 years) |  |
 | --- | --- | --- |
 |  | Mean | Coefficient of Variation (%) |
 | Absolute Bioavailability (%) [N = 7] | 55 | 40 |
@@ -29,29 +36,31 @@ Pharmacokinetic Parameters for Diclofenac
 | Apparent Volume of Distribution (V/F; L/kg) [N = 61] | 1.3 | 33 |
 | Terminal Half-life (hr) [N = 48] | 1.9 | 29 |
 
-### Distribution
+Distribution
 
 The apparent volume of distribution (V/F) of diclofenac potassium is 1.3 L/kg.
 
 Diclofenac is more than 99% bound to human serum proteins, primarily to albumin.
-Serum protein binding is constant over the concentration range (0.15-105 µg/mL) achieved with recommended doses.
+Serum protein binding is constant over the concentration range (0.15-105 mcg/mL) achieved with recommended doses.
 
 Diclofenac diffuses into and out of the synovial fluid.
 Diffusion into the joint occurs when plasma levels are higher than those in the synovial fluid, after which the process reverses and synovial fluid levels are higher than plasma levels.
 It is not known whether diffusion into the joint plays a role in the effectiveness of diclofenac.
 
-### Metabolism
+Elimination
+
+Metabolism
 
 Five diclofenac metabolites have been identified in human plasma and urine.
 The metabolites include 4'-hydroxy-, 5-hydroxy-, 3'-hydroxy-, 4',5-dihydroxy- and 3'-hydroxy-4'-methoxy diclofenac.
 The major diclofenac metabolite, 4'-hydroxy-diclofenac, has very weak pharmacologic activity.
-The formation of 4’-hydroxy-diclofenac is primarily mediated by CPY2C9.
+The formation of 4’-hydroxy-diclofenac is primarily mediated by CYP2C9.
 Both diclofenac and its oxidative metabolites undergo glucuronidation or sulfation followed by biliary excretion.
-Acylglucuronidation mediated by UGT2B7 and oxidation mediated by CPY2C8 may also play a role in diclofenac metabolism.
+Acylglucuronidation mediated by UGT2B7 and oxidation mediated by CYP2C8 may also play a role in diclofenac metabolism.
 CYP3A4 is responsible for the formation of minor metabolites, 5-hydroxy- and 3’-hydroxy-diclofenac.
 In patients with renal dysfunction, peak concentrations of metabolites 4'-hydroxy- and 5-hydroxy-diclofenac were approximately 50% and 4% of the parent compound after single oral dosing compared to 27% and 1% in normal healthy subjects.
 
-### Excretion
+Excretion:
 
 Diclofenac is eliminated through metabolism and subsequent urinary and biliary excretion of the glucuronide and the sulfate conjugates of the metabolites.
 Little or no free unchanged diclofenac is excreted in the urine.
@@ -59,18 +68,22 @@ Approximately 65% of the dose is excreted in the urine and approximately 35% in 
 Because renal elimination is not a significant pathway of elimination for unchanged diclofenac, dosing adjustment in patients with mild to moderate renal dysfunction is not necessary.
 The terminal half-life of unchanged diclofenac is approximately 2 hours.
 
-### Drug Interactions
+Special Populations
 
-When co-administered with voriconazole (inhibitor of CYP2C9, 2C19 and 3A4 enzyme), the Cmax and AUC of diclofenac increased by 114% and 78%, respectively (see PRECAUTIONS, Drug Interactions).
-
-## Special Populations
-
-Pediatric: The pharmacokinetics of Cataflam has not been investigated in pediatric patients.
+Pediatric: The pharmacokinetics of CATAFLAM has not been investigated in pediatric patients.
 
 Race: Pharmacokinetic differences due to race have not been identified.
 
-Hepatic Insufficiency: Hepatic metabolism accounts for almost 100% of Cataflam elimination, so patients with hepatic disease may require reduced doses of Cataflam compared to patients with normal hepatic function.
+Hepatic Impairment: Hepatic metabolism accounts for almost 100% of CATAFLAM elimination, so patients with hepatic disease may require reduced doses of CATAFLAM compared to patients with normal hepatic function.
 
-Renal Insufficiency: Diclofenac pharmacokinetics has been investigated in subjects with renal insufficiency.
+Renal Impairment: Diclofenac pharmacokinetics has been investigated in subjects with renal insufficiency.
 No differences in the pharmacokinetics of diclofenac have been detected in studies of patients with renal impairment.
 In patients with renal impairment (inulin clearance 60-90, 30-60, and <30 mL/min; N=6 in each group), AUC values and elimination rate were comparable to those in healthy subjects.
+
+## Drug Interactions Studies
+
+Voriconazole: When co-administered with voriconazole (inhibitor of CYP2C9, 2C19 and 3A4 enzyme), the Cmax and AUC of diclofenac increased by 114% and 78%, respectively (see PRECAUTIONS; Drug Interactions).
+
+Aspirin: When NSAIDs were administered with aspirin, the protein binding of NSAIDs were reduced, although the clearance of free NSAID was not altered.
+The clinical significance of this interaction is not known.
+See Table 2 for clinically significant drug interactions of NSAIDs with aspirin (see PRECAUTIONS; Drug Interactions).

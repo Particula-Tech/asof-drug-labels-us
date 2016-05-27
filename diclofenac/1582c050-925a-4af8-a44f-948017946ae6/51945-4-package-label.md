@@ -4,7 +4,7 @@ Package Label – 50 mg
 
 Rx Only NDC 0078-0436-05
 
-Cataflam® (diclofenac potassium)
+CATAFLAM® (diclofenac potassium)
 
 100 Tablets
 

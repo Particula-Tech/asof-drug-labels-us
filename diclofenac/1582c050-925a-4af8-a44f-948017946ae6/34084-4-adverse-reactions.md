@@ -1,9 +1,25 @@
 # ADVERSE REACTIONS
 
-In 718 patients treated for shorter periods, i.e., 2 weeks or less, with Cataflam® (diclofenac potassium immediate-release tablets), adverse reactions were reported one-half to one-tenth as frequently as by patients treated for longer periods.
-In a 6-month, double-blind trial comparing Cataflam (N=196) versus Voltaren® (diclofenac sodium delayed-release tablets) (N=197) versus ibuprofen (N=197), adverse reactions were similar in nature and frequency.
+The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
-In patients taking Cataflam or other NSAIDs, the most frequently reported adverse experiences occurring in approximately 1%-10% of patients are:
+- Cardiovascular Thrombotic Events (see WARNINGS)
+- GI Bleeding, Ulceration and Perforation (see WARNINGS)
+- Hepatotoxicity (see WARNINGS)
+- Hypertension (see WARNINGS)
+- Heart Failure and Edema (see WARNINGS)
+- Renal Toxicity and Hyperkalemia (see WARNINGS)
+- Anaphylactic Reactions (see WARNINGS)
+- Serious Skin Reactions (see WARNINGS)
+- Hematologic Toxicity (see WARNINGS)
+
+Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+In 718 patients treated for shorter periods, i.e., 2 weeks or less, with CATAFLAM® (diclofenac potassium immediate-release tablets), adverse reactions were reported one-half to one-tenth as frequently as by patients treated for longer periods.
+In a 6-month, double-blind trial comparing CATAFLAM (N=196) versus Voltaren® (diclofenac sodium delayed-release tablets) (N=197) versus ibuprofen (N=197), adverse reactions were similar in nature and frequency.
+
+In patients taking CATAFLAM or other NSAIDs, the most frequently reported adverse experiences occurring in approximately 1%-10% of patients are:
 
 Gastrointestinal experiences including: abdominal pain, constipation, diarrhea, dyspepsia, flatulence, gross bleeding/perforation, heartburn, nausea, GI ulcers (gastric/duodenal) and vomiting.
 
