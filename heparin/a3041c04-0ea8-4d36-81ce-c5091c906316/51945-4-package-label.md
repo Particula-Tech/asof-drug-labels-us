@@ -1,4 +1,4 @@
-# 500 mL Container - P8721
+# PRINCIPAL DISPLAY PANEL
 
 HEPARIN SODIUM 1,000 USP units per 500 mL (2 USP units per mL) in 0.9% Sodium Chloride Injection
 
@@ -6,7 +6,7 @@ NDC 0264-9872-10
 
 500 mL EXCEL® CONTAINER
 
-1,000 USP units per 500 mL (2 USP units per mL) HEPARIN LD-312-3 Y94-003-188
+1,000 USP units per 500 mL (2 USP units per mL) HEPARIN LD-312-6 Y94-003-292
 
 Each 100 mL contains: Heparin Sodium USP (porcine intestinal mucosa) 200 USP Heparin units Sodium Chloride USP 0.9 g Dibasic Sodium Phosphate•7H2O USP 0.43 g Citric Acid Anhydrous USP 0.037g Water for Injection USP qs
 
@@ -27,10 +27,14 @@ Do not remove overwrap until ready for use.
 
 REF P8721
 
+Not made with natural rubber latex, PVC or DEHP.
+
 Rx only
 
-B. Braun Medical Inc. Irvine, CA 92614-5895 USA Made in USA
+B. Braun Medical Inc. Bethlehem, PA 18018-3524 USA API from Spain
 
-LD-311-2 Y94-003-166
+LD-311-5 Y94-003-291
 
-EXP LOT
+EXP
+
+LOT
