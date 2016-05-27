@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021830"
+  ],
+  "inn": "mesalamine",
+  "labeler": "Allergan, Inc.",
+  "package_ndcs": [
+    "0023-5901-18"
+  ],
+  "products": [
+    {
+      "form": "TABLET, DELAYED RELEASE",
+      "generic": "mesalamine",
+      "name": "Asacol HD"
+    }
+  ],
+  "setid": "2f68f68c-58d2-4575-b573-f2e62f95d7e3",
+  "source": "dailymed"
+}
