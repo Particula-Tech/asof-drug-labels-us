@@ -28,18 +28,15 @@ Safety and effectiveness in pediatric patients have not been established.
 
 ## 8.5 Geriatric Use
 
+Elderly patients, compared to younger patients, are at greater risk for NSAID-associated serious cardiovascular, gastrointestinal, and/or renal adverse reactions.
+If the anticipated benefit for the elderly patient outweighs these potential risks, monitor patients for adverse effects [see Warnings and Precautions (5.1, 5.2, 5.3, 5.6, 5.13)].
+
 Clinical studies of CAMBIA did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
-
-Elderly patients are at increased risk for serious GI adverse events.
-
-Diclofenac is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken when using CAMBIA in the elderly.
 
 ## 8.6 Hepatic Impairment
 
 Because hepatic metabolism accounts for almost 100% of diclofenac elimination, patients with hepatic impairment should be considered for treatment with CAMBIA only if the benefits outweigh the risks.
-There is insufficient information available to support dosing recommendations for CAMBIA in patients with hepatic insufficiency.
-[see Clinical Pharmacology (12.3)].
+There is insufficient information available to support dosing recommendations for CAMBIA in patients with hepatic insufficiency [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 

@@ -1,48 +1,45 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions are discussed elsewhere in the labeling:
+The following serious adverse reactions are discussed in greater detail in other sections of the labeling:
 
-• Cardiovascular thrombotic events [see Boxed Warning and Warnings and Precautions (5.1)]
+- Cardiovascular Thrombotic Events [see Warnings and Precautions (5.1)]
+- GI Bleeding, Ulceration and Perforation [see Warnings and Precautions (5.2)]
+- Hepatotoxicity [see Warnings and Precautions (5.3)]
+- Hypertension [see Warnings and Precautions (5.4)]
+- Heart Failure and Edema [see Warnings and Precautions (5.5)]
+- Renal Toxicity and Hyperkalemia [see Warnings and Precautions (5.6)]
+- Anaphylactic Reactions [see Warnings and Precautions (5.7)]
+- Serious Skin Reactions [see Warnings and Precautions (5.9)]
+- Hematologic Toxicity [see Warnings and Precautions (5.11)]
 
-• Gastrointestinal effects [see Boxed Warning and Warnings and Precautions (5.2)]
-
-• Hepatic effects [see Warnings and Precautions (5.3)]
-
-• Hypertension [see Warnings and Precautions (5.4)]
-
-• Congestive Heart Failure and Edema [see Warnings and Precautions (5.5)]
-
-• Renal Effects [see Warnings and Precautions (5.6)]
-
-• Anaphylactoid Reactions [see Warnings and Precautions (5.7)]
-
-• Serious Skin Reactions [see Warnings and Precautions (5.8)]
-
-The most common adverse reactions reported with CAMBIA are nausea and dizziness.
-
-The most common adverse events resulting in discontinuation of patients following CAMBIA dosing in controlled clinical trials were urticaria (0.2%) and flushing (0.2%).
-
-## 6.1 Clinical Studies Experience With CAMBIA
+## 6.1 Clinical Trial Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 The safety of a single dose of CAMBIA was evaluated in 2 placebo-controlled trials with a total of 634 migraine patients treated with CAMBIA for a single migraine headache.
 Following treatment with diclofenac potassium (either CAMBIA or diclofenac potassium immediate-release tablets [as a control]), 5 subjects (0.8%) withdrew from the studies; following placebo exposure, 1 subject (0.2%) withdrew.
-No withdrawals were due to a serious reaction.
 
 The most common adverse reactions (i.e., that occurred in 1% or more of CAMBIA-treated patients) and more frequent with CAMBIA than with placebo were nausea and dizziness (see Table 1).
 
-Table 1: Treatment-Related Adverse Reactions With Incidence >1% and Greater Than Placebo in Studies 1 and 2 Combined
+Table 1: Adverse Reactions With Incidence >1% and Greater Than Placebo in Studies 1 and 2 Combined
 
-| Disorder | CAMBIA | Placebo |
+| Adverse Reactions | CAMBIA | Placebo |
 | --- | --- | --- |
-| Event | N=634 | N=646 |
+|  | N=634 | N=646 |
 | Gastrointestinal |  |  |
 | Nausea | 3% | 2% |
 | Nervous System |  |  |
 | Dizziness | 1% | 0.5% |
 
-## 6.2 Adverse Reactions Reported With Diclofenac and Other NSAIDs
+The most common adverse events resulting in discontinuation of patients following CAMBIA dosing in controlled clinical trials were urticaria (0.2%) and flushing (0.2%).
+No withdrawals were due to a serious reaction.
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post approval use of diclofenac or other NSAIDs.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Adverse Reactions Reported With Diclofenac and Other NSAIDs
 
 In patients taking diclofenac or other NSAIDs, the most frequently reported adverse reactions occurring in approximately 1%-10% of patients are: GI reactions (including abdominal pain, constipation, diarrhea, dyspepsia, flatulence, gross bleeding/perforation, heartburn, nausea, GI ulcers [gastric/duodenal], and vomiting), abnormal renal function, anemia, dizziness, edema, elevated liver enzymes, headaches, increased bleeding time, pruritus, rashes, and tinnitus.
 

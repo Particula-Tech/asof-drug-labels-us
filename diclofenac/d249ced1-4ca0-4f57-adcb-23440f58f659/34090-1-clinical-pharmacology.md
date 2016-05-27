@@ -2,24 +2,39 @@
 
 ## 12.1 Mechanism of Action
 
-CAMBIA is a non-steroidal anti-inflammatory drug (NSAID).
-The mechanism of action of CAMBIA, like that of other NSAIDs, is not completely understood but may be related to prostaglandin synthetase inhibition.
+CAMBIA has analgesic, anti-inflammatory, and antipyretic properties.
+
+The mechanism of action of CAMBIA, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2).
+
+Diclofenac is a potent inhibitor of prostaglandin synthesis in vitro.
+Diclofenac concentrations reached during therapy have produced in vivo effects.
+Prostaglandins sensitize afferent nerves and potentiate the action of bradykinin in inducing pain in animal models.
+Prostaglandins are mediators of inflammation.
+Because diclofenac is an inhibitor of prostaglandin synthesis, its mode of action may be due to a decrease of prostaglandins in peripheral tissues.
 
 ## 12.3 Pharmacokinetics
 
-Absorption: Diclofenac is 100% absorbed after oral administration compared to intravenous administration as measured by urine recovery.
+Absorption:
+
+Diclofenac is 100% absorbed after oral administration compared to intravenous administration as measured by urine recovery.
 However, due to first-pass metabolism, only about 50% of the absorbed dose is systemically available.
 In fasting volunteers, measurable plasma levels were observed within 5 minutes of dosing with CAMBIA.
 Peak plasma levels were achieved at approximately 0.25 hour in fasting normal volunteers, with a range of 0.17 to 0.67 hours.
 High fat food had no significant effect on the extent of diclofenac absorption, but there was a reduction in peak plasma levels of approximately 70% after a high fat meal.
 Decreased Cmax may be associated to decreased effectiveness.
 
-Distribution: The apparent volume of distribution (V/F) of diclofenac potassium is 1.3 L/kg.
+Distribution:
+
+The apparent volume of distribution (V/F) of diclofenac potassium is 1.3 L/kg.
 
 Diclofenac is more than 99% bound to human serum proteins, primarily to albumin.
-Serum protein binding is constant over the concentration range (0.15-105 μg/mL) achieved with recommended doses.
+Serum protein binding is constant over the concentration range (0.15-105 µg/mL) achieved with recommended doses.
 
-Metabolism: Five diclofenac metabolites have been identified in human plasma and urine.
+Elimination
+
+Metabolism
+
+Five diclofenac metabolites have been identified in human plasma and urine.
 The metabolites include 4’-hydroxy-, 5-hydroxy-, 3’-hydroxy-, 4’,5-dihydroxy- and 3’-hydroxy-4’-methoxy diclofenac.
 The major diclofenac metabolite, 4’-hydroxydiclofenac, has very weak pharmacologic activity.
 The formation of 4’-hydroxy diclofenac is primarily mediated by CPY2C9.
@@ -28,16 +43,24 @@ Acylglucuronidation mediated by UGT2B7 and oxidation mediated by CPY2C8 may also
 CYP3A4 is responsible for the formation of minor metabolites, 5-hydroxy and 3’-hydroxy- diclofenac.
 In patients with renal impairment, peak concentrations of metabolites 4’-hydroxy-and 5- hydroxydiclofenac were approximately 50% and 4% of the parent compound after single oral dosing compared to 27% and 1% in normal healthy subjects.
 
-Excretion: Diclofenac is eliminated through metabolism and subsequent urinary and biliary excretion of the glucuronide and the sulfate conjugates of the metabolites.
+Excretion
+
+Diclofenac is eliminated through metabolism and subsequent urinary and biliary excretion of the glucuronide and the sulfate conjugates of the metabolites.
 Little or no free unchanged diclofenac is excreted in the urine.
 Approximately 65% of the dose is excreted in the urine and approximately 35% in the bile as conjugates of unchanged diclofenac plus metabolites.
 Because renal elimination is not a significant pathway of elimination for unchanged diclofenac, dosing adjustment in patients with mild to moderate renal dysfunction is not necessary.
 The terminal half-life of unchanged diclofenac is approximately 2 hours.
 
-Special Populations:
+Specific Populations
 
 Race: There are no pharmacokinetic differences due to race.
 
-Hepatic Impairment: The liver metabolizes almost 100% of diclofenac; there is insufficient information available to support dosing recommendations for CAMBIA in patients with hepatic insufficiency (5.3, 8.6)
+Hepatic Impairment: The liver metabolizes almost 100% of diclofenac; there is insufficient information available to support dosing recommendations for CAMBIA in patients with hepatic insufficiency [see Warnings and Precautions (5.3) and Use in Specific Populations (8.6)].
 
-Renal Impairment: In patients with renal impairment (inulin clearance 60-90, 30-60, and <30 mL/min; N=6 in each group), AUC values and elimination rate were comparable to those in healthy subjects.
+Renal Impairment: In patients with renal impairment (inulin clearance 60-90, 30-60, and <30 mL/min; N=6 in each group), AUC values and elimination rate were comparable to those in healthy subjects [see Warnings and Precautions (5.6) and Use in Specific Populations (8.7)].
+
+Drug Interaction Studies
+
+Aspirin: When NSAIDs were administered with aspirin, the protein binding of NSAIDs were reduced, although the clearance of free NSAID was not altered.
+The clinical significance of this interaction is not known.
+See Table 2 for clinically significant drug interactions of NSAIDs with aspirin [see Drug Interactions (7)].

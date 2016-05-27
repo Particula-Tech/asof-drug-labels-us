@@ -12,7 +12,7 @@ Taking CAMBIA with food may cause a reduction in effectiveness compared to takin
 Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals.
 The safety and effectiveness of a second dose have not been established.
 
-## 2.2 Interchangeability With Other Formulations of Diclofenac
+## 2.2 Non-Interchangeability with Other Formulations of Diclofenac
 
 Different formulations of oral diclofenac (e.g., CAMBIA, diclofenac sodium enteric-coated tablets, diclofenac sodium extended-release tablets, or diclofenac potassium immediate-release tablets) may not be bioequivalent even if the milligram strength is the same.
 Therefore, it is not possible to convert dosing from any other formulation of diclofenac to CAMBIA.
