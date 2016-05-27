@@ -37,7 +37,6 @@ If growth hormone or IGF-I (somatomedin C) levels increase and signs and symptom
 
 The suggested daily dosage of octreotide acetate during the first 2 weeks of therapy ranges from 100 to 600 mcg/day in 2 to 4 divided doses (mean daily dosage is 300 mcg).
 In the clinical studies, the median daily maintenance dosage was approximately 450 mcg, but clinical and biochemical benefits were obtained in some patients with as little as 50 mcg, while others required doses up to 1500 mcg/day.
-
 However, experience with doses above 750 mcg/day is limited.
 
 ## VIPomas

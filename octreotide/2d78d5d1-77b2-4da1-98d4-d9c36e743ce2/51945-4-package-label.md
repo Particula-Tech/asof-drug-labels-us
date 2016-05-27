@@ -1,20 +1,25 @@
-PRINCIPAL DISPLAY PANEL - 50 mcg
+# PRINCIPAL DISPLAY PANEL - 50 mcg
 
 NDC 67457-239-01
 
 Octreotide Acetate Injection
 
-50 mcg (base)/1 mL (0.05 mg/mL) Needle shield may contain latex
+50 mcg (base)/mL
+
+Needle shield may contain latex
 
 Subcutaneous Injection See Insert
 
-Rx only 10 x 1 mL Single-Dose Unit-of-Use Syringes with a fixed 27 gauge 1/2 inch needle
+Rx only
+
+10 x 1 mL Single-Dose Unit-of-Use Syringes with a fixed 27 gauge 1/2 inch needle
 
 Usual Dosage: See accompanying prescribing information.
 
 Storage: REFRIGERATE at 2° to 8°C (36° to 46°F).
 
 Protect from light.
+At room temperature, (20° to 30°C or 70° to 86°F), octreotide acetate injection is stable for 14 days if protected from light.
 
 Retain in carton until time of use.
 
@@ -31,25 +36,30 @@ Made in Italy
 
 Mylan.com
 
-MI:239:10C:R2
+MI:239:10C:R3
 
-PRINCIPAL DISPLAY PANEL - 100 mcg
+# PRINCIPAL DISPLAY PANEL - 100 mcg
 
 NDC 67457-245-01
 
 Octreotide Acetate Injection
 
-100 mcg (base)/1 mL (0.1 mg/mL) Needle shield may contain latex
+100 mcg (base)/mL
+
+Needle shield may contain latex
 
 Subcutaneous Injection See Insert
 
-Rx only 10 x 1 mL Single-Dose Unit-of-Use Syringes with a fixed 27 gauge 1/2 inch needle
+Rx only
+
+10 x 1 mL Single-Dose Unit-of-Use Syringes with a fixed 27 gauge 1/2 inch needle
 
 Usual Dosage: See accompanying prescribing information.
 
 Storage: REFRIGERATE at 2° to 8°C (36° to 46°F).
 
 Protect from light.
+At room temperature, (20° to 30°C or 70° to 86°F), octreotide acetate injection is stable for 14 days if protected from light.
 
 Retain in carton until time of use.
 
@@ -66,25 +76,30 @@ Made in Italy
 
 Mylan.com
 
-MI:245:10C:R2
+MI:245:10C:R3
 
-PRINCIPAL DISPLAY PANEL - 500 mcg
+# PRINCIPAL DISPLAY PANEL - 500 mcg
 
 NDC 67457-246-01
 
 Octreotide Acetate Injection
 
-500 mcg (base)/1 mL (0.5 mg/mL) Needle shield may contain latex
+500 mcg (base)/mL
+
+Needle shield may contain latex
 
 Subcutaneous Injection See Insert
 
-Rx only 10 x 1 mL Single-Dose Unit-of-Use Syringes with a fixed 27 gauge 1/2 inch needle
+Rx only
+
+10 x 1 mL Single-Dose Unit-of-Use Syringes with a fixed 27 gauge 1/2 inch needle
 
 Usual Dosage: See accompanying prescribing information.
 
 Storage: REFRIGERATE at 2° to 8°C (36° to 46°F).
 
 Protect from light.
+At room temperature, (20° to 30°C or 70° to 86°F), octreotide acetate injection is stable for 14 days if protected from light.
 
 Retain in carton until time of use.
 
@@ -101,4 +116,4 @@ Made in Italy
 
 Mylan.com
 
-MI:246:10C:R2
+MI:246:10C:R3
