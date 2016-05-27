@@ -40,9 +40,9 @@ Disease characteristics were M1c stage disease (61%), cutaneous melanoma (74%), 
 More patients in the OPDIVO arm had an ECOG performance status of 0 (71% vs. 58%).
 
 Trial 5 demonstrated a statistically significant improvement in OS for the OPDIVO arm compared with the dacarbazine arm in an interim analysis based on 47% of the total planned events for OS.
-Table 12 and Figure 1 summarize the efficacy results.
+Table 14 and Figure 1 summarize the efficacy results.
 
-Table 12: Efficacy Results - Trial 5
+Table 14: Efficacy Results - Trial 5
 
 |  | OPDIVO (n=210) | Dacarbazine (n=208) |
 | --- | --- | --- |
@@ -51,7 +51,7 @@ Table 12: Efficacy Results - Trial 5
 | Median, months (95% CI) | Not Reached | 10.8 (9.3, 12.1) |
 | Hazard ratio (95% CI) | 0.42 (0.30, 0.60) |  |
 | p-value | <0.0001a |  |
-| Progression-free Survival |  |  |
+| Progression-Free Survival |  |  |
 | Events (%) | 108 (51) | 163 (78) |
 | Median, months (95% CI) | 5.1 (3.5, 10.8) | 2.2 (2.1, 2.4) |
 | Hazard ratio (95% CI) | 0.43 (0.34, 0.56) |  |
@@ -88,9 +88,9 @@ The study population characteristics were: median age 61 years (range: 18 to 90)
 Disease characteristics were: AJCC Stage IV disease (93%); M1c disease (58%); elevated LDH (36%); history of brain metastases (4%); BRAF V600 mutation-positive melanoma (32%); PD-L1 ≥5% tumor cell membrane expression as determined by the clinical trials assay (46%); and prior adjuvant therapy (22%).
 
 Trial 7 demonstrated statistically significant improvements in PFS for patients randomized to either OPDIVO-containing arm as compared with the ipilimumab arm.
-Efficacy results are presented in Table 13 and Figure 2.
+Efficacy results are presented in Table 15 and Figure 2.
 
-Table 13: Efficacy Results in Trial 7
+Table 15: Efficacy Results in Trial 7
 
 |  | OPDIVO plus Ipilimumab (n=314) | OPDIVO (n=316) | Ipilimumab (n=315) |
 | --- | --- | --- | --- |
@@ -140,9 +140,9 @@ In Trial 2, the median age was 63 years (range: 39 to 85) with 44% ≥65 years o
 The majority of patients were white (93%) and male (76%).
 Baseline ECOG performance status was 0 (24%) or 1 (76%).
 
-The trial demonstrated a statistically significant improvement in OS for patients randomized to OPDIVO as compared with docetaxel at the prespecified interim analysis when 199 events were observed (86% of the planned number of events for final analysis) (Table 14 and Figure 6).
+The trial demonstrated a statistically significant improvement in OS for patients randomized to OPDIVO as compared with docetaxel at the prespecified interim analysis when 199 events were observed (86% of the planned number of events for final analysis) (Table 16 and Figure 6).
 
-Table 14: Overall Survival in Trial 2 (Intent-to-Treat Analysis)
+Table 16: Overall Survival in Trial 2 (Intent-to-Treat Analysis)
 
 |  | OPDIVO (n=135) | Docetaxel (n=137) |
 | --- | --- | --- |
@@ -175,9 +175,9 @@ Baseline ECOG performance status was 0 (31%) or 1 (69%), 79% were former/current
 Prior therapy included platinum-doublet regimen (100%) and 40% received maintenance therapy as part of the first-line regimen.
 Histologic subtypes included adenocarcinoma (93%), large cell (2.4%), and bronchoalveolar (0.9%).
 
-Trial 3 demonstrated a statistically significant improvement in OS for patients randomized to OPDIVO as compared with docetaxel at the prespecified interim analysis when 413 events were observed (93% of the planned number of events for final analysis) (Table 15 and Figure 7).
+Trial 3 demonstrated a statistically significant improvement in OS for patients randomized to OPDIVO as compared with docetaxel at the prespecified interim analysis when 413 events were observed (93% of the planned number of events for final analysis) (Table 17 and Figure 7).
 
-Table 15: Efficacy Results in Trial 3
+Table 17: Efficacy Results in Trial 3
 
 |  | OPDIVO (n=292) | Docetaxel (n=290) |
 | --- | --- | --- |
@@ -228,12 +228,12 @@ Patient distribution by MSKCC risk groups was 34% favorable, 47% intermediate, a
 The first tumor assessments were conducted 8 weeks after randomization and continued every 8 weeks thereafter for the first year and then every 12 weeks until progression or treatment discontinuation, whichever occurred later.
 
 The major efficacy outcome measure was overall survival (OS).
-The trial demonstrated a statistically significant improvement in OS for patients randomized to OPDIVO as compared with everolimus at the prespecified interim analysis when 398 events were observed (70% of the planned number of events for final analysis) (Table 16 and Figure 10).
+The trial demonstrated a statistically significant improvement in OS for patients randomized to OPDIVO as compared with everolimus at the prespecified interim analysis when 398 events were observed (70% of the planned number of events for final analysis) (Table 18 and Figure 10).
 OS benefit was observed regardless of PD-L1 expression level.
 
-Other endpoints include confirmed objective response rates, which are also presented in Table 16.
+Other endpoints include confirmed objective response rates, which are also presented in Table 18.
 
-Table 16: Efficacy Results - Trial 6
+Table 18: Efficacy Results - Trial 6
 
 |  | OPDIVO (n=410) | Everolimus (n=411) |
 | --- | --- | --- |
@@ -248,3 +248,37 @@ Table 16: Efficacy Results - Trial 6
 | a Hazard ratio is obtained from a Cox proportional hazards model stratified by MSKCC risk group, number of prior anti-angiogenic therapies, and region with treatment as the sole covariate. b p-value is obtained from a two-sided log-rank test stratified by MSKCC risk group, number of prior anti-angiogenic therapies, and region. The corresponding O’Brien-Fleming efficacy boundary significance level is 0.0148. |  |  |
 
 Figure 10: Overall Survival - Trial 6
+
+## 14.4 Classical Hodgkin Lymphoma
+
+Two studies evaluated the efficacy of OPDIVO as a single agent in patients with cHL after failure of autologous HSCT and post-transplantation brentuximab vedotin.
+
+Trial 8 was a single-arm, open-label, multicenter, multicohort study in cHL.
+Trial 9 was an open-label, multicenter, dose escalation study that included cHL.
+Both studies included patients regardless of their tumor PD-L1 status and excluded patients with ECOG performance status of 2 or greater, autoimmune disease, symptomatic interstitial lung disease, hepatic transaminases more than 3 times ULN, creatinine clearance less than 40 mL/min, prior allogeneic HSCT, or chest irradiation within 24 weeks.
+In addition, both studies required an adjusted diffusion capacity of the lungs for carbon monoxide (DLCO) of over 60% in patients with prior pulmonary toxicity.
+
+Patients received 3 mg/kg of OPDIVO administered intravenously over 60 minutes every 2 weeks until disease progression, maximal clinical benefit, or unacceptable toxicity.
+A cycle consisted of one dose.
+Dose reduction was not permitted.
+
+Efficacy was evaluated by objective response rate (ORR) as determined by an independent radiographic review committee (IRRC).
+Additional outcome measures included duration of response.
+Efficacy was evaluated in 95 patients in Trials 8 and 9 combined who had received brentuximab vedotin after failure of autologous HSCT.
+The median age was 37 years (range: 18 to 72).
+The majority were male (64%) and white (87%).
+Patients had received a median of 5 prior systemic regimens (range: 3 to 15).
+
+Results are shown in Table 19.
+Patients received a median of 17 doses of OPDIVO (range 3 to 48), with a median duration of therapy of 8.3 months (range 1.9 to 24 months).
+
+Table 19: Efficacy in cHL after Autologous HSCT and Brentuximab Vedotin
+
+|  | Trial 8 and Trial 9 (n=95) |
+| --- | --- |
+| Objective Response Rate, n (%)a (95% CI) | 62 (65%) (55, 75) |
+| Complete Remission Rate (95% CI) | 7 (7%) (3, 15) |
+| Partial Remission Rate (95% CI) | 55 (58%) (47, 68) |
+| Median Duration of Response (months) (95% CI) Range | 8.7 (6.8, NE) 0.0+, 23.1+ |
+| Median Time to Response (months) Range | 2.1 0.7, 5.7 |
+| a Per 2007 revised International Working Group criteria. |  |

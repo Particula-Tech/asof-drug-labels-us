@@ -26,7 +26,7 @@ When administered in combination, the clearance of nivolumab increased by 42% in
 There was no effect of anti-ipilimumab antibodies on the clearance of ipilimumab.
 
 Specific Populations: Based on a population PK analysis, the clearance of nivolumab increased with increasing body weight supporting a weight-based dose.
-The population PK analysis suggested that the following factors had no clinically important effect on the clearance of nivolumab: age (29 to 87 years), gender, race, baseline LDH, PD-L1 expression, tumor type, tumor size, renal impairment, and mild hepatic impairment.
+The population PK analysis suggested that the following factors had no clinically important effect on the clearance of nivolumab: age (29 to 87 years), gender, race, baseline LDH, PD-L1 expression, solid tumor type, tumor size, renal impairment, and mild hepatic impairment.
 
 Renal Impairment: The effect of renal impairment on the clearance of nivolumab was evaluated by a population PK analysis in patients with mild (eGFR 60 to 89 mL/min/1.73 m2; n=313), moderate (eGFR 30 to 59 mL/min/1.73 m2; n=140), or severe (eGFR 15 to 29 mL/min/1.73 m2; n=3) renal impairment.
 No clinically important differences in the clearance of nivolumab were found between patients with renal impairment and patients with normal renal function [see Use in Specific Populations (8.6)].

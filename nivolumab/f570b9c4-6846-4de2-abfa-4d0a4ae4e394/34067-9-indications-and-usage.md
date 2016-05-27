@@ -18,3 +18,9 @@ Patients with EGFR or ALK genomic tumor aberrations should have disease progress
 ## 1.3 Renal Cell Carcinoma
 
 OPDIVO (nivolumab) is indicated for the treatment of patients with advanced renal cell carcinoma (RCC) who have received prior anti-angiogenic therapy [see Clinical Studies (14.3)].
+
+## 1.4 Classical Hodgkin Lymphoma
+
+OPDIVO (nivolumab) is indicated for the treatment of patients with classical Hodgkin lymphoma (cHL) that has relapsed or progressed after autologous hematopoietic stem cell transplantation (HSCT) and post-transplantation brentuximab vedotin [see Clinical Studies (14.4)].
+This indication is approved under accelerated approval based on overall response rate.
+Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials [see Clinical Studies (14.4)].

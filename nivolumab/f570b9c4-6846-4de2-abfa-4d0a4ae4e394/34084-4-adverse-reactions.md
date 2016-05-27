@@ -11,16 +11,17 @@ The following adverse reactions are discussed in greater detail in other section
 - •Immune-Mediated Encephalitis [see Warnings and Precautions (5.7)]
 - •Other Immune-Mediated Adverse Reactions [see Warnings and Precautions (5.8)]
 - •Infusion Reactions [see Warnings and Precautions (5.9)]
+- •Complications of Allogeneic HSCT after OPDIVO [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The data in the Warning and Precautions section reflect exposure to OPDIVO, as a single agent, for clinically significant adverse reactions in 1903 patients enrolled in Trials 1, 3, 5, 6, 7, a single-arm trial in NSCLC (n=117), or an additional dose-finding study (n=306) administering OPDIVO as a single agent at doses of 0.1 to 10 mg/kg every 2 weeks [see Warnings and Precautions (5.1, 5.8)].
+The data in the Warnings and Precautions section reflect exposure to OPDIVO, as a single agent, for clinically significant adverse reactions in 2166 patients enrolled in Trials 1, 3, 5, 6, 7, 8, 9, a single-arm trial in NSCLC (n=117), or an additional dose-finding study (n=306) administering OPDIVO as a single agent at doses of 0.1 to 10 mg/kg every 2 weeks [see Warnings and Precautions (5.1, 5.8)].
 In addition, clinically significant adverse reactions of OPDIVO with ipilimumab were evaluated in 501 patients with melanoma enrolled in Trial 4 (n=94), Trial 7 (n=313), or an additional dose-finding study (n=94) administering OPDIVO with ipilimumab at doses of OPDIVO ranging from 0.3 to 3 mg/kg and doses of ipilimumab ranging from 1 to 3 mg/kg, supplemented by immune-mediated adverse reaction reports in ongoing clinical trials [see Warnings and Precautions (5.1, 5.8)].
 
 The data described below reflect exposure to OPDIVO as a single agent in Trials 1, 5, and 7, and to OPDIVO with ipilimumab in Trial 7, which are randomized, active-controlled trials conducted in patients with unresectable or metastatic melanoma.
-Also described below are single-agent OPDIVO data from Trial 3, which is a randomized trial in patients with metastatic non-squamous NSCLC, and Trial 6, which is a randomized trial in patients with advanced RCC.
+Also described below are single-agent OPDIVO data from Trial 3, which is a randomized trial in patients with metastatic non-squamous NSCLC, Trial 6, which is a randomized trial in patients with advanced RCC, and Trials 8 and 9, which are open-label, multiple-cohort trials in patients with cHL.
 
 ### Unresectable or Metastatic Melanoma
 
@@ -270,7 +271,7 @@ Table 9: Selected Laboratory Abnormalities Worsening from Baseline Occurring in 
 | Increased ALT | 23 | 2.4 | 15 | 0.4 |  |  |  |  |  |
 | Increased creatinine | 18 | 0 | 13 | 0.4 |  |  |  |  |  |
 | Increased TSHb | 17 | N/A | 5 | N/A |  |  |  |  |  |
-| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: OPDIVO group (range: 280 to 287 patients) and docetaxel group (range: 252 to 262 patients); TSH: OPDIVO group n=209 and docetaxel group n=207. b Not graded per NCI CTCAE v4.0. |  |  |  |  |  |  |  |  |  |
+| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: OPDIVO group (range: 280 to 287 patients) and docetaxel group (range: 252 to 262 patients); TSH: OPDIVO group n=209 and docetaxel group n=207. b Not graded per NCI CTCAE v4. |  |  |  |  |  |  |  |  |  |
 
 ### Renal Cell Carcinoma
 
@@ -358,11 +359,105 @@ Table 11: Grade 1-4 Laboratory Values Worsening from Baseline Occurring in >15% 
 
 In addition, among patients with TSH less than ULN at baseline, a greater proportion of patients experienced a treatment-emergent elevation of TSH greater than ULN in the OPDIVO group compared to the everolimus group (26% and 14%, respectively).
 
+### Classical Hodgkin Lymphoma
+
+The safety of OPDIVO 3 mg/kg every 2 weeks was evaluated in 263 adult patients with cHL (240 patients in Trial 8 and 23 patients in Trial 9).
+Treatment could continue until disease progression, maximal clinical benefit, or unacceptable toxicity.
+
+The median age was 34 years (range 18 to 72), 98% of patients had received autologous HSCT, none had received allogeneic HSCT, and 74% had received brentuximab vedotin.
+The median number of prior systemic regimens was 4 (range: 1 to 15).
+Patients received a median of 10 doses (cycles) of OPDIVO (range: 1 to 48), with a median duration of therapy of 4.8 months (range: 0.3 to 24 months).
+
+OPDIVO was discontinued due to adverse reactions in 4.2% of patients.
+Twenty-three percent (23%) of patients had a dose delay for an adverse reaction.
+Serious adverse reactions occurred in 21% of patients.
+The most frequent serious adverse reactions reported in at least 1% of patients were infusion-related reaction, pneumonia, pleural effusion, pyrexia, rash, and pneumonitis.
+Ten patients died from causes other than disease progression, including 6 who died from complications of allogeneic HSCT.
+
+The most common adverse reactions (reported in at least 20%) among all patients (safety population), were fatigue, upper respiratory tract infection, pyrexia, diarrhea, and cough.
+
+Among the subset of patients in the efficacy population, the most common adverse reactions also included rash, musculoskeletal pain, pruritus, nausea, arthralgia, and peripheral neuropathy.
+Serious adverse reactions occurred in 27% of these patients.
+
+Table 12 summarizes both the adverse reactions that occurred in at least 10% of patients in the safety population (n=263) and the efficacy population (n=95).
+There is a greater incidence of adverse reactions in the subset of patients evaluated for efficacy; these patients received a median of 17 doses of OPDIVO and a median of 5 prior systemic regimens [see Clinical Studies (14.4)].
+
+Table 12: Selected Non-Hematologic Adverse Reactions Occurring in ≥10% of Patients with cHL (Trials 8 and 9)
+
+|  | OPDIVO cHL Safety Population (n=263) |  | OPDIVO cHL Efficacy Population (n=95) |  |
+| --- | --- | --- | --- | --- |
+| Percentage (%) of Patients |  |  |  |  |
+| Adverse Reactiona | All Grades | Grades 3-4 | All Grades | Grades 3-4 |
+| General Disorders and Administration Site Conditions |  |  |  |  |
+| Fatigueb | 32 | 1.1 | 43 | 1.1 |
+| Pyrexia | 24 | 0.8 | 35 | 1.1 |
+| Gastrointestinal Disorders |  |  |  |  |
+| Diarrhea | 23 | 0.8 | 30 | 1.1 |
+| Nausea | 17 | 0 | 23 | 0 |
+| Vomiting | 15 | 0.8 | 16 | 1.1 |
+| Abdominal painc | 11 | 0.8 | 13 | 2.1 |
+| Constipation | 9 | 0.4 | 14 | 0 |
+| Infections and Infestations |  |  |  |  |
+| Upper respiratory tract infectiond | 28 | 0.4 | 48 | 1.1 |
+| Pneumonia/bronchopneumoniae | 9 | 3.0 | 19 | 5.3 |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |
+| Cough/productive cough | 22 | 0 | 35 | 0 |
+| Dyspnea/exertional dyspnea | 10 | 0.8 | 16 | 2.1 |
+| Skin and Subcutaneous Tissue Disorders |  |  |  |  |
+| Rashf | 19 | 1.5 | 31 | 3.2 |
+| Pruritus | 17 | 0 | 25 | 0 |
+| Musculoskeletal and Connective Tissue Disorders |  |  |  |  |
+| Musculoskeletal paing | 19 | 1.1 | 27 | 1.1 |
+| Arthralgia | 11 | 0 | 21 | 0 |
+| Endocrine Disorders |  |  |  |  |
+| Hypothyroidism/thyroiditis | 12 | 0 | 17 | 0 |
+| Hyperglycemia/Blood Glucose Increased | 9 | 0.4 | 14 | 1.1 |
+| Nervous System Disorders |  |  |  |  |
+| Headache | 12 | 0.4 | 12 | 1.1 |
+| Neuropathy peripheralh | 11 | 0.4 | 21 | 0 |
+| Injury, Poisoning and Procedural Complications |  |  |  |  |
+| Infusion-related reaction | 12 | 0.4 | 18 | 0 |
+| Toxicity was graded per NCI CTCAE v4. |  |  |  |  |
+| a Includes events occurring up to 30 days after last nivolumab dose, regardless of causality. After an immune-mediated adverse reaction, reactions following nivolumab rechallenge were included if they occurred up to 30 days after completing the initial nivolumab course. b Includes asthenia. c Includes abdominal discomfort and upper abdominal pain. d Includes nasopharyngitis, pharyngitis, rhinitis, and sinusitis. e Includes pneumonia bacterial, pneumonia mycoplasmal, pneumocystis jirovecii pneumonia. f Includes dermatitis, dermatitis acneiform, dermatitis exfoliative, and rash described as macular, papular, maculopapular, pruritic, exfoliative, or acneiform. g Includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, neck pain, and pain in extremity. h Includes hyperesthesia, hypoesthesia, paresthesia, dysesthesia, peripheral motor neuropathy, peripheral sensory neuropathy, and polyneuropathy. |  |  |  |  |
+
+Additional information regarding clinically important adverse reactions:
+
+Peripheral neuropathy: In Trials 8 and 9, peripheral neuropathy was observed in 11% (30/263) of all patients receiving OPDIVO.
+Twenty-two patients (8%) had new-onset peripheral neuropathy, and four patients had worsening from baseline.
+Four additional patients with peripheral neuropathy at baseline (three Grade 1 and one Grade 2) did not worsen.
+All events were Grade 1 or 2, except for 1 Grade 3 event (0.4%).
+
+Complications of allogeneic HSCT after OPDIVO: [see Warnings and Precautions (5.10)].
+
+Table 13: Selected Laboratory Abnormalities Worsening from Baseline Occurring in ≥10% of OPDIVO-Treated cHL Patients (Trials 8 and 9)
+
+|  | OPDIVO cHL Safety Populationa |  | OPDIVO cHL Efficacy Populationb |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Test | Percentage (%) of Patientsc |  |  |  |  |  |  |  |  |
+| All Grades | Grades 3-4 | All Grades | Grades 3-4 |  |  |  |  |  |  |
+| Hematology |  |  |  |  |  |  |  |  |  |
+| Neutropenia | 29 | 3.6 | 37 | 6 |  |  |  |  |  |
+| Thrombocytopenia | 28 | 2.4 | 33 | 3.2 |  |  |  |  |  |
+| Lymphopenia | 24 | 8 | 32 | 7 |  |  |  |  |  |
+| Anemia | 22 | 2.8 | 27 | 2.1 |  |  |  |  |  |
+| Chemistry |  |  |  |  |  |  |  |  |  |
+| Increased ALT | 24 | 2.0 | 25 | 2.1 |  |  |  |  |  |
+| Increased AST | 23 | 2.4 | 32 | 3.2 |  |  |  |  |  |
+| Increased alkaline phosphatase | 17 | 1.6 | 21 | 2.1 |  |  |  |  |  |
+| Increased lipase | 16 | 6.5 | 28 | 12 |  |  |  |  |  |
+| Hyponatremia | 14 | 0.8 | 15 | 1.1 |  |  |  |  |  |
+| Hypokalemia | 11 | 1.6 | 14 | 3.2 |  |  |  |  |  |
+| Hypocalcemia | 11 | 0.4 | 14 | 1.1 |  |  |  |  |  |
+| Hypomagnesemia | 10 | 0.4 | 15 | 1.3 |  |  |  |  |  |
+| Increased creatinine | 10 | 0 | 15 | 0 |  |  |  |  |  |
+| Increased bilirubin | 9 | 0.8 | 10 | 0 |  |  |  |  |  |
+| a Number of evaluable patients for the safety population ranges from 226 to 253. b Number of evaluable patients for the efficacy population ranges from 80 to 85. c Includes events occurring up to 30 days after last nivolumab dose. After an immune-mediate adverse reaction, reactions following nivolumab rechallenge were included if they occurred within 30 days of completing the initial nivolumab course. |  |  |  |  |  |  |  |  |  |
+
 ## 6.2 Immunogenicity
 
 As with all therapeutic proteins, there is a potential for immunogenicity.
 
-Of 1037 patients who were treated with OPDIVO as a single agent 3 mg/kg every 2 weeks and evaluable for the presence of anti-nivolumab antibodies, 128 patients (12.3%) tested positive for treatment-emergent anti-nivolumab antibodies by an electrochemiluminescent (ECL) assay and nine patients (0.9%) had neutralizing antibodies against nivolumab.
+Of 1586 patients who were treated with OPDIVO as a single agent 3 mg/kg every 2 weeks and evaluable for the presence of anti-nivolumab antibodies, 157 patients (9.9%) tested positive for treatment-emergent anti-nivolumab antibodies by an electrochemiluminescent (ECL) assay and nine patients (0.6%) had neutralizing antibodies against nivolumab.
 There was no evidence of altered pharmacokinetic profile or increased incidence of infusion reactions with anti-nivolumab antibody development.
 
 Of 394 patients who were treated with OPDIVO with ipilimumab and evaluable for the presence of anti-nivolumab antibodies, 149 patients (37.8%) tested positive for treatment-emergent anti-nivolumab antibodies by an ECL assay and 18 patients (4.6%) had neutralizing antibodies against nivolumab.

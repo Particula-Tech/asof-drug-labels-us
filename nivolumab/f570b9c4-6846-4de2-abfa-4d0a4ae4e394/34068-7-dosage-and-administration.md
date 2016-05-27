@@ -16,7 +16,11 @@ The recommended dose of OPDIVO is 3 mg/kg administered as an intravenous infusio
 
 The recommended dose of OPDIVO is 3 mg/kg administered as an intravenous infusion over 60 minutes every 2 weeks until disease progression or unacceptable toxicity.
 
-## 2.4 Dose Modifications
+## 2.4 Recommended Dosage for cHL
+
+The recommended dose of OPDIVO is 3 mg/kg administered as an intravenous infusion over 60 minutes every 2 weeks until disease progression or unacceptable toxicity.
+
+## 2.5 Dose Modifications
 
 Recommendations for OPDIVO modifications are provided in Table 1.
 When OPDIVO is administered in combination with ipilimumab, if OPDIVO is withheld, ipilimumab should also be withheld.
@@ -56,9 +60,11 @@ Table 1: Recommended Dose Modifications for OPDIVO
 | Life-threatening or Grade 4 adverse reaction | Permanently discontinue |  |
 | Requirement for 10 mg per day or greater prednisone or equivalent for more than 12 weeks | Permanently discontinue |  |
 | Persistent Grade 2 or 3 adverse reactions lasting 12 weeks or longer | Permanently discontinue |  |
-| *Toxicity was graded per National Cancer Institute Common Terminology Criteria for Adverse Events. Version 4.0 (NCI CTCAE v4). a Resume treatment when adverse reaction returns to Grade 0 or 1. |  |  |
 
-## 2.5 Preparation and Administration
+*Toxicity was graded per National Cancer Institute Common Terminology Criteria for Adverse Events.
+Version 4.0 (NCI CTCAE v4). a Resume treatment when adverse reaction returns to Grade 0 or 1.
+
+## 2.6 Preparation and Administration
 
 Visually inspect drug product solution for particulate matter and discoloration prior to administration.
 OPDIVO is a clear to opalescent, colorless to pale-yellow solution.
