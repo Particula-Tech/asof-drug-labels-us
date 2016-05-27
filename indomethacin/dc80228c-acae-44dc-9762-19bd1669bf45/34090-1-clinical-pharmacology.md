@@ -2,32 +2,31 @@
 
 Indomethacin is a nonsteroidal drug with anti-inflammatory, antipyretic and analgesic properties.
 Its mode of action, like that of other anti-inflammatory drugs, is not known.
-
 However, its therapeutic action is not due to pituitary-adrenal stimulation.
 
-Indomethacin is a potent inhibitor of prostaglandin synthesis In vitro.
-Concentrations are reached during therapy which have been demonstrated to have an effect In vivo as well.
+Indomethacin is a potent inhibitor of prostaglandin synthesis in vitro.
+Concentrations are reached during therapy which have been demonstrated to have an effect in vivo as well.
 Prostaglandins sensitize afferent nerves and potentiate the action of bradykinin in inducing pain in animal models.
 Moreover, prostaglandins are known to be among the mediators of inflammation.
-Since Indomethacin is an inhibitor of prostaglandin synthesis, its mode of action may be due to a decrease of prostaglandins in peripheral tissues.
+Since indomethacin is an inhibitor of prostaglandin synthesis, its mode of action may be due to a decrease of prostaglandins in peripheral tissues.
 
 Indomethacin has been shown to be an effective anti-inflammatory agent, appropriate for long-term use in rheumatoid arthritis, ankylosing spondylitis, and osteoarthritis.
 
-Indomethacin affords relief of symptoms: it does not alter the progressive course of the underlying disease.
+Indomethacin affords relief of symptoms; it does not alter the progressive course of the underlying disease.
 
 Indomethacin suppresses inflammation in rheumatoid arthritis as demonstrated by relief of pain, and reduction of fever, swelling and tenderness.
-Improvement in patients treated with Indomethacin for rheumatoid arthritis has been demonstrated by a reduction in joint swelling, average number of joints involved, and morning stiffness; by increased mobility as demonstrated by a decrease in walking time; and by improved functional capability as demonstrated by an increase in grip strength.
+Improvement in patients treated with indomethacin for rheumatoid arthritis has been demonstrated by a reduction in joint swelling, average number of joints involved, and morning stiffness; by increased mobility as demonstrated by a decrease in walking time; and by improved functional capability as demonstrated by an increase in grip strength.
 
-Indomethacin has been reported to diminish basal and C02 stimulated cerebral blood flow in healthy volunteers following acute oral and intravenous administration.
+Indomethacin has been reported to diminish basal and CO2 stimulated cerebral blood flow in healthy volunteers following acute oral and intravenous administration.
 In one study, after one week of treatment with orally administered indomethacin, this effect on basal cerebral blood flow had disappeared.
 The clinical significance of this effect has not been established.
 
-Indomethacin Extended-release capsules USP 75 mg are designed to release 25 mg of drug initially and the remaining 50 mg over approximately 12 hours (90% of dose absorbed by 12 hours).
+Indomethacin Extended-release Capsules USP 75 mg are designed to release 25 mg of drug initially and the remaining 50 mg over approximately 12 hours (90% of dose absorbed by 12 hours).
 Plasma concentrations of indomethacin fluctuate less and are more sustained following administration of Indomethacin Extended-release Capsules USP 75 mg than following administration of 25 mg indomethacin capsules given at 4 to 6 hour Intervals.
 In multiple-dose comparisons, the mean daily steady state plasma level of indomethacin attained with daily administration of Indomethacin Extended-release Capsules USP 75 mg was indistinguishable from that following indomethacin 25 mg capsules given at 0, 6, and 12 hours daily.
 However, there was a significant difference in indomethacin plasma levels between the two dosage regimens especially after 12 hours.
 
-Controlled clinical studies of safety and efficacy in patients with osteoarthritis have shown that one capsule of Indomethacin Extended-release Capsules USP 75 mg was clinically comparable to one 25 mg indomethacin capsule t.i.d.; and in controlled clincal studies in patients with rheumatoid arthritis, one capsule of Indomethacin Extended-release Capsules USP 75 mg taken in the morning and one in the evening were clinically indistinguishable from one 50 mg capsule of indomethacin t.i.d..
+Controlled clinical studies of safety and efficacy in patients with osteoarthritis have shown that one capsule of Indomethacin Extended-release Capsules USP 75 mg was clinically comparable to one 25 mg indomethacin capsule t.i.d.; and in controlled clinical studies in patients with rheumatoid arthritis, one capsule of Indomethacin Extended-release Capsules USP 75 mg taken in the morning and one in the evening were clinically indistinguishable from one 50 mg capsule of indomethacin t.i.d.
 
 Indomethacin is eliminated via renal excretion, metabolism, and biliary excretion.
 Indomethacin undergoes appreciable enterohepatic circulation.

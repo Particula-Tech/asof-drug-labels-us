@@ -1,7 +1,7 @@
 # INDICATIONS AND USAGE:
 
-Carefully consider the potential benefits and risks of Indomethacin Extended-release Capsules USP 75 mg and other treatment options before deciding to use Indomethacin Extended-release Capsule USP 75 mg.
-Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals (see WARNINGS).
+Carefully consider the potential benefits and risks of Indomethacin Extended-release Capsules USP 75 mg and other treatment options before deciding to use Indomethacin Extended-release Capsules USP 75 mg.
+Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals (See WARNINGS).
 
 Indomethacin Extended-release Capsules USP 75 mg has been found effective in active stages of the following:
 
@@ -24,5 +24,4 @@ In such instances the steroid dosage should be reduced slowly and the patients f
 
 The use of indomethacin in conjunction with aspirin or other salicylates is not recommended.
 Controlled clinical studies have shown that the combined use of indomethacin and aspirin does not produce any greater therapeutic effect than the use of indomethacin alone.
-Furthermore, in one of these clinical studies, the incidence of gastrointestinal side effects was significantly increased with combined therapy.
-(See PRECAUTIONS, Drug Interactions).
+Furthermore, in one of these clinical studies, the incidence of gastrointestinal side effects was significantly increased with combined therapy (See PRECAUTIONS, Drug Interactions).

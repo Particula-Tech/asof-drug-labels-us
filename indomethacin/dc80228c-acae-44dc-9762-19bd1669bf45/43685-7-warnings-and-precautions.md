@@ -4,17 +4,33 @@
 
 ### Cardiovascular Thrombotic Events
 
-Clinical trials of several COX-2 selective and nonselective NSAIDs of up to three years duration have shown an increased risk of serious cardiovascular (CV) thrombotic events, myocardial infarction, and stroke, which can be fatal.
-All NSAIDs, both COX-2 selective and nonselective, may have a similar risk.
-Patients with known CV disease or risk factors for CV disease may be at greater risk.
-To minimize the potential risk for an adverse CV event in patients treated with a NSAID, the lowest effective dose should be used for the shortest duration possible.
-Physicians and patients should remain alert for the development of such events, even in the absence of previous CV symptoms.
-Patients should be informed about the signs and/or symptoms of serious CV events and the steps to take if they occur.
+Clinical trials of several COX-2 selective and nonselective NSAIDs of up to three years duration have shown an increased risk of serious cardiovascular (CV) thrombotic events, including myocardial infarction (MI) and stroke, which can be fatal.
+Based on available data, it is unclear that the risk for CV thrombotic events is similar for all NSAIDs.
+The relative increase in serious CV thrombotic events over baseline conferred by NSAID use appears to be similar in those with and without known CV disease or risk factors for CV disease.
+However, patients with known CV disease or risk factors had a higher absolute incidence of excess serious CV thrombotic events, due to their increased baseline rate.
+Some observational studies found that this increased risk of serious CV thrombotic events began as early as the first weeks of treatment.
+The increase in CV thrombotic risk has been observed most consistently at higher doses.
+
+To minimize the potential risk for an adverse CV event in NSAID-treated patients, use the lowest effective dose for the shortest duration possible.
+Physicians and patients should remain alert for the development of such events, throughout the entire treatment course, even in the absence of previous CV symptoms.
+Patients should be informed about the symptoms of serious CV events and the steps to take if they occur.
 
 There is no consistent evidence that concurrent use of aspirin mitigates the increased risk of serious CV thrombotic events associated with NSAID use.
-The concurrent use of aspirin and a NSAID does increase the risk of serious Gl events (see Gl WARNINGS).
+The concurrent use of aspirin and an NSAID, such as indomethacin, increases the risk of serious gastrointestinal (GI) events (See WARNINGS).
 
-Two large, controlled, clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10-14 days following CABG surgery found an increased incidence of myocardial infarction and stroke (see CONTRAINDICATIONS).
+Status Post Coronary Artery Bypass Graft (CABG) Surgery
+
+Two large, controlled clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10–14 days following CABG surgery found an increased incidence of myocardial infarction and stroke.
+NSAIDs are contraindicated in the setting of CABG (See CONTRAINDICATIONS).
+
+Post-MI Patients
+
+Observational studies conducted in the Danish National Registry have demonstrated that patients treated with NSAIDs in the post-MI period were at increased risk of reinfarction, CV-related death, and all-cause mortality beginning in the first week of treatment.
+In this same cohort, the incidence of death in the first year post MI was 20 per 100 person years in NSAID-treated patients compared to 12 per 100 person years in non-NSAID exposed patients.
+Although the absolute rate of death declined somewhat after the first year post-MI, the increased relative risk of death in NSAID users persisted over at least the next four years of follow-up.
+
+Avoid the use of Indomethacin Extended-release Capsules in patients with a recent MI unless the benefits are expected to outweigh the risk of recurrent CV thrombotic events.
+If Indomethacin Extended-release Capsules are used in patients with a recent MI, monitor patients for signs of cardiac ischemia.
 
 ### Hypertension
 
@@ -23,27 +39,34 @@ Patients taking thiazides or loop diuretics may have impaired response to these 
 NSAIDs, including Indomethacin Extended-release Capsules, should be used with caution in patients with hypertension.
 Blood pressure (BP) should be monitored closely during the initiation of NSAID treatment and throughout the course of therapy.
 
-### Congestive Heart Failure and Edema
+### Heart Failure and Edema
 
-Fluid retention and edema have been observed in some patients taking NSAIDs, Indomethacin Extended-release Capsules should be used with caution in patients with fluid retention or heart failure.
+The Coxib and traditional NSAID Trialists’ Collaboration meta-analysis of randomized controlled trials demonstrated an approximately two-fold increase in hospitalizations for heart failure in COX-2 selective-treated patients and nonselective NSAID-treated patients compared to placebo-treated patients.
+In a Danish National Registry study of patients with heart failure, NSAID use increased the risk of MI, hospitalization for heart failure, and death.
+
+Additionally, fluid retention and edema have been observed in some patients treated with NSAIDs.
+Use of indomethacin may blunt the CV effects of several therapeutic agents used to treat these medical conditions [e.g., diuretics, ACE inhibitors, or angiotensin receptor blockers (ARBs)] (See Drug Interactions).
+
+Avoid the use of Indomethacin Extended-release Capsules in patients with severe heart failure unless the benefits are expected to outweigh the risk of worsening heart failure.
+If Indomethacin Extended-release Capsules are used in patients with severe heart failure, monitor patients for signs of worsening heart failure.
 
 ### Gastrointestinal Effects-Risk of Ulceration, Bleeding, and Perforation
 
 NSAIDs, including Indomethacin Extended-release Capsules, can cause serious gastrointestinal (GI) adverse events including inflammation, bleeding, ulceration, and perforation of the stomach, small intestine, or large intestine, which can be fatal.
 These serious adverse events can occur at any time, with or without warning symptoms, in patients treated with NSAIDs.
-Only one in five patients, who develop a serious upper Gl adverse event on NSAID therapy, is symptomatic.
-Upper Gl ulcers, gross bleeding, or perforation caused by NSAIDs occur in approximately 1% of patients treated for 3-6 months, and in about 2-4% of patients treated for one year.
-These trends continue with longer duration of use, increasing the likelihood of developing a serious Gl event at some time during the course of therapy.
+Only one in five patients, who develop a serious upper GI adverse event on NSAID therapy, is symptomatic.
+Upper GI ulcers, gross bleeding, or perforation caused by NSAIDs occur in approximately 1% of patients treated for 3-6 months, and in about 2-4% of patients treated for one year.
+These trends continue with longer duration of use, increasing the likelihood of developing a serious GI event at some time during the course of therapy.
 However, even short-term therapy is not without risk.
 
 NSAIDs should be prescribed with extreme caution in those with a prior history of ulcer disease or gastrointestinal bleeding.
-Patients with a prior history of peptic ulcer disease and/or gastrointestinal bleeding who use NSAIDs have a greater than 10-fold increased risk for developing a Gl bleed compared to patients with neither of these risk factors.
-Other factors that increase the risk for Gl bleeding in patients treated with NSAIDs include concomitant use of oral corticosteroids or anticoagulants, longer duration of NSAID therapy, smoking, use of alcohol, older age, and poor general health status.
-Most spontaneous reports of fatal Gl events are in elderly or debilitated patients and therefore, special care should be taken in treating this population.
+Patients with a prior history of peptic ulcer disease and/or gastrointestinal bleeding who use NSAIDs have a greater than 10-fold increased risk for developing a GI bleed compared to patients with neither of these risk factors.
+Other factors that increase the risk for GI bleeding in patients treated with NSAIDs include concomitant use of oral corticosteroids or anticoagulants, longer duration of NSAID therapy, smoking, use of alcohol, older age, and poor general health status.
+Most spontaneous reports of fatal GI events are in elderly or debilitated patients and therefore, special care should be taken in treating this population.
 
-To minimize the potential risk for an adverse Gl event in patients treated with a NSAID, the lowest effective dose should be used for the shortest possible duration.
-Patients and physicians should remain alert for signs and symptoms of Gl ulceration and bleeding during NSAID therapy and promptly initiate additional evaluation and treatment if a serious Gl adverse event is suspected.
-This should include discontinuation of the NSAID until a serious Gl adverse event is ruled out.
+To minimize the potential risk for an adverse GI event in patients treated with a NSAID, the lowest effective dose should be used for the shortest possible duration.
+Patients and physicians should remain alert for signs and symptoms of GI ulceration and bleeding during NSAID therapy and promptly initiate additional evaluation and treatment if a serious GI adverse event is suspected.
+This should include discontinuation of the NSAID until a serious GI adverse event is ruled out.
 For high risk patients, alternate therapies that do not involve NSAIDs should be considered.
 
 ### Renal Effects
@@ -56,18 +79,15 @@ Discontinuation of NSAID therapy is usually followed by recovery to the pretreat
 
 ### Advanced Renal Disease
 
-No information is available from controlled clinical studies regarding the use of
-
-Indomethacin Extended-release Capsules in patients with advanced renal disease.
-
+No information is available from controlled clinical studies regarding the use of Indomethacin Extended-release Capsules in patients with advanced renal disease.
 Therefore, treatment with Indomethacin Extended-release Capsules is not recommended in these patients with advanced renal disease.
-If Indomethacin Extended-release Capsules therapy must be initiated, close monitoring of the patient's renal function is advisable.
+If Indomethacin Extended-release Capsules therapy must be initiated, close monitoring of the patient’s renal function is advisable.
 
 ### Anaphylactoid Reactions
 
 As with other NSAIDs, anaphylactoid reactions may occur in patients without known prior exposure to Indomethacin Extended-release Capsules.
-Indomethacin Extended- release Capsules should not be given to patients with the aspirin triad.
-This symptom complex typically occurs in asthmatic patients who experience rhinitis with or without nasal polyps, or who exhibit severe, potentially fatal bronchospasm after taking aspirin or other NSAIDs (see CONTRAINDICATIONS and PRECAUTIONS–Preexisting Asthma).
+Indomethacin Extended-release Capsules should not be given to patients with the aspirin triad.
+This symptom complex typically occurs in asthmatic patients who experience rhinitis with or without nasal polyps, or who exhibit severe, potentially fatal bronchospasm after taking aspirin or other NSAIDs (See CONTRAINDICATIONS and PRECAUTIONS - Preexisting Asthma).
 Emergency help should be sought in cases where an anaphylactoid reaction occurs.
 
 ### Skin Reactions
@@ -95,15 +115,15 @@ The pharmacological activity of Indomethacin Extended-release Capsules in reduci
 Borderline elevations of one or more liver tests may occur in up to 15% of patients taking NSAIDs including Indomethacin Extended-release Capsules.
 These laboratory abnormalities may progress, may remain unchanged, or may be transient with continuing therapy.
 Notable elevations of ALT or AST (approximately three or more times the upper limit of normal) have been reported in approximately 1% of patients in clinical trials with NSAIDs.
-In addition, rare cases of hepatic reactions, including jaundice and fetal fulminant hepatitis, liver necrosis and hepatic failure, some of them with fatal outcomes have been reported.
+In addition, rare cases of hepatic reactions, including jaundice and fatal fulminant hepatitis, liver necrosis and hepatic failure, some of them with fatal outcomes have been reported.
 
 A patient with symptoms and/or signs suggesting liver dysfunction, or in whom an abnormal liver test has occurred, should be evaluated for evidence of the development of a more severe hepatic reaction while on therapy with Indomethacin Extended-release Capsules.
-If clinical signs and symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, etc.), Indomethacin- Extended release Capsules should be discontinued.
+If clinical signs and symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, etc.), Indomethacin Extended-release Capsules should be discontinued.
 
 ### Hematological Effects
 
 Anemia is sometimes seen in patients receiving NSAIDs, including Indomethacin Extended-release Capsules.
-This may be due to fluid retention, occult or gross Gl blood loss, or an incompletely described effect upon erythropoiesis.
+This may be due to fluid retention, occult or gross GI blood loss, or an incompletely described effect upon erythropoiesis.
 Patients on long-term treatment with NSAIDs, including Indomethacin Extended-release Capsules, should have their hemoglobin or hematocrit checked if they exhibit any signs or symptoms of anemia.
 
 NSAIDs inhibit platelet aggregation and have been shown to prolong bleeding time in some patients.
@@ -122,14 +142,14 @@ Patients should be informed of the following information before initiating thera
 Patients should also be encouraged to read the NSAID Medication Guide that accompanies each prescription dispensed.
 
 1.
-Indomethacin Extended-release Capsules, like other NSAIDs, may cause serious CV side effects, such as Ml or stroke, which may result in hospitalization and even death.
-Although serious CV events can occur without warning symptoms, patients should be alert for the signs and symptoms of chest pain, shortness of breath, weakness, slurring of speech, and should ask for medical advice when observing any indicative sign or symptoms.
-Patients should be apprised of the importance of this follow-up (see WARNINGS, Cardiovascular Effects).
+Cardiovascular Thrombotic Events
+
+Advise patients to be alert for the symptoms of cardiovascular thrombotic events, including chest pain, shortness of breath, weakness, or slurring of speech, and to report any of these symptoms to their health care provider immediately (See WARNINGS).
 
 2.
-Indomethacin Extended-release Capsules, like other NSAIDs, can cause Gl discomfort and, rarely, serious Gl side effects, such as ulcers and bleeding, which may result in hospitalization and even death.
-Although serious Gl tract ulcerations and bleeding can occur without warning symptoms, patients should be alert for the signs and symptoms of ulcerations and bleeding, and should ask for medical advice when observing any indicative sign or symptoms including epigastric pain, dyspepsia, melena, and hematemesis.
-Patients should be apprised of the importance of this follow-up (see WARNINGS, Gastrointestinal Effects: Risk of Ulceration, Bleeding, and Perforation).
+Indomethacin Extended-release Capsules, like other NSAIDs, can cause GI discomfort and, rarely, serious GI side effects, such as ulcers and bleeding, which may result in hospitalization and even death.
+Although serious GI tract ulcerations and bleeding can occur without warning symptoms, patients should be alert for the signs and symptoms of ulcerations and bleeding, and should ask for medical advice when observing any indicative sign or symptoms including epigastric pain, dyspepsia, melena, and hematemesis.
+Patients should be apprised of the importance of this follow-up (See WARNINGS, Gastrointestinal Effects: Risk of Ulceration, Bleeding, and Perforation).
 
 3.
 Indomethacin Extended-release Capsules, like other NSAIDs, can cause serious skin side effects such as exfoliative dermatitis, SJS, and TEN, which may result in hospitalization and even death.
@@ -137,7 +157,9 @@ Although serious skin reactions may occur without warning, patients should be al
 Patients should be advised to stop the drug immediately if they develop any type of rash and contact their physicians as soon as possible.
 
 4.
-Patients should promptly report signs or symptoms of unexplained weight gain or edema to their physicians.
+Heart Failure And Edema
+
+Advise patients to be alert for the symptoms of congestive heart failure including shortness of breath, unexplained weight gain, or edema and to contact their healthcare provider if such symptoms occur (See WARNINGS).
 
 5.
 Patients should be informed of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness, and "flu-like" symptoms).
@@ -145,7 +167,7 @@ If these occur, patients should be instructed to stop therapy and seek immediate
 
 6.
 Patients should be informed of the signs of an anaphylactoid reaction (e.g., difficulty breathing, swelling of the face or throat).
-If these occur, patients should be instructed to seek immediate emergency help (see WARNINGS).
+If these occur, patients should be instructed to seek immediate emergency help (See WARNINGS).
 
 7.
 In late pregnancy, as with other NSAIDs, Indomethacin Extended-release Capsules should be avoided because it will cause premature closure of the ductus arteriosus.
@@ -153,7 +175,7 @@ In late pregnancy, as with other NSAIDs, Indomethacin Extended-release Capsules 
 ### Laboratory Tests
 
 Because serious GI tract ulcerations and bleeding can occur without warning symptoms, physicians should monitor for signs or symptoms of GI bleeding.
-Patients on long-term treatment with NSAIDs should have their CBC and a chemistry profile checked periodically.
+Patients on long-term treatment with NSAIDs, should have their CBC and a chemistry profile checked periodically.
 If clinical signs and symptoms consistent with liver or renal disease develop, systemic manifestations occur (e.g., eosinophilia, rash, etc.) or if abnormal liver tests persist or worsen, Indomethacin Extended-release Capsules should be discontinued.
 
 ### Drug Interactions
@@ -172,7 +194,7 @@ The clinical significance of this interaction is not known; however, as with oth
 
 Clinical studies, as well as post marketing observations, have shown that Indomethacin Extended-release Capsules can reduce the natriuretic effect-of furosemide and thiazides in some patients.
 This response has been attributed to inhibition of renal prostaglandin synthesis.
-During concomitant therapy with NSAIDs, the patient should be observed closely for signs of renal failure (see WARNINGS, Renal Effects), as well as to assure diuretic efficacy.
+During concomitant therapy with NSAIDs, the patient should be observed closely for signs of renal failure (See WARNINGS, Renal Effects), as well as to assure diuretic efficacy.
 
 #### Lithium
 
