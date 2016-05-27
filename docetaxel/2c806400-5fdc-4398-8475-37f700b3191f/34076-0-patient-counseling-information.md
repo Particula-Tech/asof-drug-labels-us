@@ -26,4 +26,4 @@ Made in Italy
 
 Distributed by: Actavis Pharma Inc. Parsippany, NJ 07054 USA
 
-Revised – February 2015
+Revised – April 2016
