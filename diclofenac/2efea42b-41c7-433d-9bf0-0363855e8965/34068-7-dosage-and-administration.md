@@ -1,14 +1,14 @@
 # DOSAGE AND ADMINISTRATION
 
-Carefully consider the potential benefits and risks of Voltaren® (diclofenac sodium enteric-coated tablets) and other treatment options before deciding to use Voltaren.
-Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals (see WARNINGS).
+Carefully consider the potential benefits and risks of VOLTAREN® (diclofenac sodium enteric-coated tablets) and other treatment options before deciding to use VOLTAREN.
+Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals (see WARNINGS; Gastrointestinal Bleeding, Ulceration, and Perforation).
 
-After observing the response to initial therapy with Voltaren, the dose and frequency should be adjusted to suit an individual patient’s needs.
+After observing the response to initial therapy with VOLTAREN, the dose and frequency should be adjusted to suit an individual patient’s needs.
 
-For the relief of osteoarthritis, the recommended dosage is 100-150 mg/day in divided doses (50 mg b.i.d. or t.i.d., or 75 mg b.i.d.).
+For the relief of osteoarthritis, the recommended dosage is 100-150 mg/day in divided doses (50 mg twice a day or three times a day, or 75 mg twice a day).
 
-For the relief of rheumatoid arthritis, the recommended dosage is 150-200 mg/day in divided doses (50 mg t.i.d. or q.i.d., or 75 mg b.i.d.).
+For the relief of rheumatoid arthritis, the recommended dosage is 150-200 mg/day in divided doses (50 mg three times a day. or four times a day, or 75 mg twice a day.).
 
-For the relief of ankylosing spondylitis, the recommended dosage is 100-125 mg/day, administered as 25 mg q.i.d., with an extra 25-mg dose at bedtime if necessary.
+For the relief of ankylosing spondylitis, the recommended dosage is 100-125 mg/day, administered as 25 mg four times a day, with an extra 25-mg dose at bedtime if necessary.
 
-Different formulations of diclofenac [Voltaren® (diclofenac sodium enteric-coated tablets); Voltaren®-XR (diclofenac sodium extended-release tablets); Cataflam® (diclofenac potassium immediate-release tablets)] are not necessarily bioequivalent even if the milligram strength is the same.
+Different formulations of diclofenac [VOLTAREN® (diclofenac sodium enteric-coated tablets); VOLTAREN®-XR (diclofenac sodium extended-release tablets); CATAFLAM® (diclofenac potassium immediate-release tablets)] are not necessarily bioequivalent even if the milligram strength is the same.

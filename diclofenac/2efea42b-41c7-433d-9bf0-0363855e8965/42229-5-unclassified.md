@@ -1,9 +1,11 @@
-Voltaren®
+VOLTAREN®
 
 (diclofenac sodium enteric-coated tablets)
 
-Tablets of 75 mg
+Tablets 75 mg
 
 Rx only
 
 Prescribing Information
+
+T2016-41 May 2016
