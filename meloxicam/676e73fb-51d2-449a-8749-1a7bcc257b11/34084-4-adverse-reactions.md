@@ -45,7 +45,7 @@ Table 1a Adverse Events (%) Occurring in ≥ 2% of MOBIC Patients in a 12-Week O
 | Nausea | 3.2 | 3.9 | 3.8 | 7.2 |  |
 | Body as a Whole |  |  |  |  |  |
 | Accident household | 1.9 | 4.5 | 3.2 | 2.6 |  |
-| Edema 1 | 2.5 | 1.9 | 4.5 | 3.3 |  |
+| Edema1 | 2.5 | 1.9 | 4.5 | 3.3 |  |
 | Fall | 0.6 | 2.6 | 0.0 | 1.3 |  |
 | Influenza-like symptoms | 5.1 | 4.5 | 5.8 | 2.6 |  |
 | Central and Peripheral Nervous System |  |  |  |  |  |
@@ -55,7 +55,7 @@ Table 1a Adverse Events (%) Occurring in ≥ 2% of MOBIC Patients in a 12-Week O
 | Pharyngitis | 1.3 | 0.6 | 3.2 | 1.3 |  |
 | Upper respiratory tract infection | 1.9 | 3.2 | 1.9 | 3.3 |  |
 | Skin |  |  |  |  |  |
-| Rash 2 | 2.5 | 2.6 | 0.6 | 2.0 |  |
+| Rash2 | 2.5 | 2.6 | 0.6 | 2.0 |  |
 | 1 WHO preferred terms edema, edema dependent, edema peripheral, and edema legs combined 2 WHO preferred terms rash, rash erythematous, and rash maculo-papular combined |  |  |  |  |  |
 
 Table 1b Adverse Events (%) Occurring in ≥2% of MOBIC Patients in two 12-Week Rheumatoid Arthritis Placebo-Controlled Trials
@@ -64,16 +64,16 @@ Table 1b Adverse Events (%) Occurring in ≥2% of MOBIC Patients in two 12-Week 
 | --- | --- | --- | --- | --- |
 | No. of Patients | 469 | 481 | 477 |  |
 | Gastrointestinal Disorders | 14.1 | 18.9 | 16.8 |  |
-| Abdominal pain NOS 2 | 0.6 | 2.9 | 2.3 |  |
-| Dyspeptic signs and symptoms 1 | 3.8 | 5.8 | 4.0 |  |
-| Nausea 2 | 2.6 | 3.3 | 3.8 |  |
+| Abdominal pain NOS2 | 0.6 | 2.9 | 2.3 |  |
+| Dyspeptic signs and symptoms1 | 3.8 | 5.8 | 4.0 |  |
+| Nausea2 | 2.6 | 3.3 | 3.8 |  |
 | General Disorders and Administration Site Conditions |  |  |  |  |
-| Influenza-like illness 2 | 2.1 | 2.9 | 2.3 |  |
-| Infection and Infestations Upper respiratory tract infections-pathogen class unspecified 1 | 4.1 | 7.0 | 6.5 |  |
-| Musculoskeletal and Connective Tissue Disorders Joint related signs and symptoms 1 | 1.9 | 1.5 | 2.3 |  |
+| Influenza-like illness2 | 2.1 | 2.9 | 2.3 |  |
+| Infection and Infestations Upper respiratory tract infections-pathogen class unspecified1 | 4.1 | 7.0 | 6.5 |  |
+| Musculoskeletal and Connective Tissue Disorders Joint related signs and symptoms1 | 1.9 | 1.5 | 2.3 |  |
 | Nervous System Disorders |  |  |  |  |
-| Headaches NOS 2 | 6.4 | 6.4 | 5.5 |  |
-| Skin and Subcutaneous Tissue Disorders Rash NOS 2 | 1.7 | 1.0 | 2.1 |  |
+| Headaches NOS2 | 6.4 | 6.4 | 5.5 |  |
+| Skin and Subcutaneous Tissue Disorders Rash NOS2 | 1.7 | 1.0 | 2.1 |  |
 | 1 MedDRA high level term (preferred terms): dyspeptic signs and symptoms (dyspepsia, dyspepsia aggravated, eructation, gastrointestinal irritation), upper respiratory tract infections-pathogen unspecified (laryngitis NOS, pharyngitis NOS, sinusitis NOS), joint related signs and symptoms (arthralgia, arthralgia aggravated, joint crepitation, joint effusion, joint swelling) 2 MedDRA preferred term: nausea, abdominal pain NOS, influenza-like illness, headaches NOS, and rash NOS |  |  |  |  |
 
 The adverse events that occurred with MOBIC in ≥2% of patients treated short-term (4 to 6 weeks) and long-term (6 months) in active-controlled osteoarthritis trials are presented in Table 2.
@@ -94,7 +94,7 @@ Table 2 Adverse Events (%) Occurring in ≥2% of MOBIC Patients in 4 to 6 Weeks 
 | Vomiting | 0.6 | 0.8 | 1.8 | 2.6 |
 | Body as a Whole |  |  |  |  |
 | Accident household | 0.0 | 0.0 | 0.6 | 2.9 |
-| Edema 1 | 0.6 | 2.0 | 2.4 | 1.6 |
+| Edema1 | 0.6 | 2.0 | 2.4 | 1.6 |
 | Pain | 0.9 | 2.0 | 3.6 | 5.2 |
 | Central and Peripheral Nervous System |  |  |  |  |
 | Dizziness | 1.1 | 1.6 | 2.4 | 2.6 |
@@ -111,7 +111,7 @@ Table 2 Adverse Events (%) Occurring in ≥2% of MOBIC Patients in 4 to 6 Weeks 
 | Upper respiratory tract infection | 0.2 | 0.0 | 8.3 | 7.5 |
 | Skin |  |  |  |  |
 | Pruritus | 0.4 | 1.2 | 2.4 | 0.0 |
-| Rash 2 | 0.3 | 1.2 | 3.0 | 1.3 |
+| Rash2 | 0.3 | 1.2 | 3.0 | 1.3 |
 | Urinary |  |  |  |  |
 | Micturition frequency | 0.1 | 0.4 | 2.4 | 1.3 |
 | Urinary tract infection | 0.3 | 0.4 | 4.7 | 6.9 |
