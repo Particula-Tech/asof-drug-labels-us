@@ -26,6 +26,7 @@ Table 1: Estimated United States Incidence of PML Stratified by Risk Factor
 | †Data beyond 6 years of treatment are limited. |  |  |  |
 | The anti-JCV antibody status was determined using an anti-JCV antibody test (ELISA) that has been analytically and clinically validated and is configured with detection and inhibition steps to confirm the presence of JCV-specific antibodies with an analytical false negative rate of 3%. |  |  |  |
 
+Ordinarily, patients receiving chronic immunosuppressant or immunomodulatory therapy or who have systemic medical conditions resulting in significantly compromised immune system function should not be treated with TYSABRI.
 Infection by the JC virus is required for the development of PML.
 Anti-JCV antibody testing should not be used to diagnose PML.
 Anti-JCV antibody negative status indicates that exposure to the JC virus has not been detected.
@@ -38,12 +39,21 @@ For purposes of risk assessment, a patient with a positive anti-JCV antibody tes
 When assessed, anti-JCV antibody status should be determined using an analytically and clinically validated immunoassay.
 Anti-JCV antibody testing should not be performed for at least two weeks following plasma exchange due to the removal of antibodies from the serum.
 
+Healthcare professionals should monitor patients on TYSABRI for any new sign or symptom suggestive of PML.
+Symptoms associated with PML are diverse, progress over days to weeks, and include progressive weakness on one side of the body or clumsiness of limbs, disturbance of vision, and changes in thinking, memory, and orientation leading to confusion and personality changes.
+The progression of deficits usually leads to death or severe disability over weeks or months.
+Withhold TYSABRI dosing immediately and perform an appropriate diagnostic evaluation at the first sign or symptom suggestive of PML.
+
+MRI findings may be apparent before clinical signs or symptoms.
+Cases of PML, diagnosed based on MRI findings and the detection of JCV DNA in the cerebrospinal fluid in the absence of clinical signs or symptoms specific to PML, have been reported.
+Many of these patients subsequently became symptomatic.
+Periodic monitoring for radiographic signs consistent with PML should be considered to allow for an early diagnosis of PML.
+Lower PML-related mortality and morbidity have been reported following TYSABRI discontinuation in patients with PML who were initially asymptomatic compared to patients with PML who had characteristic clinical signs and symptoms at diagnosis.
+It is not known whether these differences are due to early detection and discontinuation of TYSABRI or due to differences in disease in these patients.
+
 There are no known interventions that can reliably prevent PML or that can adequately treat PML if it occurs.
-It is not known whether early detection of PML and discontinuation of TYSABRI will mitigate the disease.
 PML has been reported following discontinuation of TYSABRI in patients who did not have findings suggestive of PML at the time of discontinuation.
 Patients should continue to be monitored for any new signs or symptoms that may be suggestive of PML for at least six months following discontinuation of TYSABRI.
-
-Ordinarily, patients receiving chronic immunosuppressant or immunomodulatory therapy or who have systemic medical conditions resulting in significantly compromised immune system function should not be treated with TYSABRI.
 
 Because of the risk of PML, TYSABRI is available only under a restricted distribution program, the TOUCH® Prescribing Program.
 
@@ -51,11 +61,6 @@ In multiple sclerosis patients, an MRI scan should be obtained prior to initiati
 This MRI may be helpful in differentiating subsequent multiple sclerosis symptoms from PML.
 
 In Crohn's disease patients, a baseline brain MRI may also be helpful to distinguish pre-existent lesions from newly developed lesions, but brain lesions at baseline that could cause diagnostic difficulty while on TYSABRI therapy are uncommon.
-
-Healthcare professionals should monitor patients on TYSABRI for any new sign or symptom suggestive of PML.
-Typical symptoms associated with PML are diverse, progress over days to weeks, and include progressive weakness on one side of the body or clumsiness of limbs, disturbance of vision, and changes in thinking, memory, and orientation leading to confusion and personality changes.
-The progression of deficits usually leads to death or severe disability over weeks or months.
-Withhold TYSABRI dosing immediately at the first sign or symptom suggestive of PML.
 
 For diagnosis of PML, an evaluation including a gadolinium-enhanced MRI scan of the brain and, when indicated, cerebrospinal fluid analysis for JC viral DNA are recommended.
 If the initial evaluations for PML are negative but clinical suspicion for PML remains, continue to withhold TYSABRI dosing, and repeat the evaluations.
@@ -70,7 +75,7 @@ Immune reconstitution inflammatory syndrome (IRIS) has been reported in the majo
 In almost all cases, IRIS occurred after plasma exchange was used to eliminate circulating TYSABRI.
 It presents as a clinical decline in the patient's condition after TYSABRI removal (and in some cases after apparent clinical improvement) that may be rapid, can lead to serious neurological complications or death, and is often associated with characteristic changes in the MRI.
 TYSABRI has not been associated with IRIS in patients discontinuing treatment with TYSABRI for reasons unrelated to PML.
-In TYSABRI-treated patients with PML, IRIS has been reported within days to several weeks after plasma exchange.
+In TYSABRI treated patients with PML, IRIS has been reported within days to several weeks after plasma exchange.
 Monitoring for development of IRIS and appropriate treatment of the associated inflammation should be undertaken.
 
 ## 5.2. TYSABRI TOUCH Prescribing Program
@@ -87,9 +92,9 @@ Selected requirements of the TOUCH® Prescribing Program include the following:
   - – Review, complete, and sign the Patient-Prescriber Enrollment Form.
   - – Evaluate patients three months after the first infusion, six months after the first infusion, every six months thereafter, and for at least six months after discontinuing TYSABRI.
   - – Determine every six months whether patients should continue on treatment and, if so, authorize treatment for another six months.
-  - – Submit to Biogen Idec the “TYSABRI Patient Status Report and Reauthorization Questionnaire” six months after initiating treatment and every six months thereafter.
+  - – Submit to Biogen the “TYSABRI Patient Status Report and Reauthorization Questionnaire” six months after initiating treatment and every six months thereafter.
   - – Complete an “Initial Discontinuation Questionnaire” when TYSABRI is discontinued, and a “6-Month Discontinuation Questionnaire” following discontinuation of TYSABRI.
-  - – Report cases of PML, hospitalizations due to opportunistic infections, and deaths to Biogen Idec at 1-800-456-2255 as soon as possible.
+  - – Report cases of PML, hospitalizations due to opportunistic infections, and deaths to Biogen at 1-800-456-2255 as soon as possible.
 - Patients must be enrolled in the TOUCH Prescribing Program, read the Medication Guide, understand the risks associated with TYSABRI, and complete and sign the Patient-Prescriber Enrollment Form.
 - Pharmacies and infusion centers must be specially certified to dispense or infuse TYSABRI.
 
@@ -100,7 +105,7 @@ Serious, life-threatening, and sometimes fatal cases have been reported in the p
 Laboratory confirmation in those cases was based on positive PCR for viral DNA in the cerebrospinal fluid.
 The duration of treatment with TYSABRI prior to onset ranged from a few months to several years.
 Monitor patients receiving TYSABRI for signs and symptoms of meningitis and encephalitis.
-If herpes encephalitis or meningitis occurs, TYSBARI should be discontinued, and appropriate treatment for herpes encephalitis/meningitis should be administered.
+If herpes encephalitis or meningitis occurs, TYSABRI should be discontinued, and appropriate treatment for herpes encephalitis/meningitis should be administered.
 
 ## 5.4. Hepatotoxicity
 
@@ -129,7 +134,7 @@ Antibodies detected early in the treatment course (e.g., within the first six mo
 It is recommended that testing be repeated three months after an initial positive result to confirm that antibodies are persistent.
 Prescribers should consider the overall benefits and risks of TYSABRI in a patient with persistent antibodies.
 
-Experience with monoclonal antibodies, including TYSABRI, suggests that patients who receive therapeutic monoclonal antibodies after an extended period without treatment may be at higher risk of hypersensitivity reactions than patients who received regularly scheduled treatment.
+Patients who receive TYSABRI for a short exposure (1 to 2 infusions) followed by an extended period without treatment are at higher risk of developing anti-natalizumab antibodies and/or hypersensitivity reactions on re-exposure, compared to patients who received regularly scheduled treatment.
 Given that patients with persistent antibodies to TYSABRI experience reduced efficacy, and that hypersensitivity reactions are more common in such patients, consideration should be given to testing for the presence of antibodies in patients who wish to recommence therapy following a dose interruption.
 Following a period of dose interruption, patients testing negative for antibodies prior to re-dosing have a risk of antibody development with re-treatment that is similar to TYSABRI naïve patients [see Adverse Reactions (6.2)].
 
@@ -160,7 +165,7 @@ If the patient cannot discontinue systemic corticosteroids within six months, di
 In clinical trials, TYSABRI was observed to induce increases in circulating lymphocytes, monocytes, eosinophils, basophils, and nucleated red blood cells.
 Observed changes persisted during TYSABRI exposure, but were reversible, returning to baseline levels usually within 16 weeks after the last dose.
 Elevations of neutrophils were not observed.
-TYSABRI induces mild decreases in hemoglobin levels that are frequently transient.
+TYSABRI induces mild decreases in hemoglobin levels (mean decrease of 0.6 g/dL) that are frequently transient.
 
 ## 5.8. Immunizations
 

@@ -34,13 +34,26 @@ Table 5: Clinical and MRI Endpoints in Study MS1 (Monotherapy Study) at 2 Years
 | Relative reduction (percentage) | 67% |  |
 | Percentage of patients remaining relapse-free | 67% | 41% |
 | MRI ENDPOINTS |  |  |
-| New or newly enlarging T2-hyperintense lesions Median Percentage of patients with*: 0 lesions 1 lesion 2 lesions 3 or more lesions | 0.0 57% 17% 8% 18% | 5.0 15% 10% 8% 68% |
-| Gd-enhancing lesions Median Percentage of patients with: 0 lesions 1 lesion 2 or more lesions | 0.0 97% 2% 1% | 0.0 72% 12% 16% |
-| All analyses were intent-to-treat. For each endpoint, p<0.001. Determination of p-values: Increase in disability by Cox proportional hazards model adjusted for baseline EDSS and age; relapse rate by Poisson regression adjusting for baseline relapse rate, EDSS, presence of Gd-enhancing lesions, age; percentage relapse-free by logistic regression adjusting for baseline relapse rate; and lesion number by ordinal logistic regression adjusting for baseline lesion number. Annualized relapse rate is calculated as the number of relapses for each subject divided by the number of years followed in the study for that subject. The value reported is the mean across all subjects. *Values do not total 100% due to rounding. |  |  |
+| New or newly enlarging T2-hyperintense lesions |  |  |
+| Median | 0.0 | 5.0 |
+| Percentage of patients with*: |  |  |
+| 0 lesions | 57% | 15% |
+| 1 lesion | 17% | 10% |
+| 2 lesions | 8% | 8% |
+| 3 or more lesions | 18% | 68% |
+| Gd-enhancing lesions |  |  |
+| Median | 0.0 | 0.0 |
+| Percentage of patients with: |  |  |
+| 0 lesions | 97% | 72% |
+| 1 lesion | 2% | 12% |
+| 2 or more lesions | 1% | 16% |
+| All analyses were intent-to-treat. For each endpoint, p<0.001. Determination of p-values: Increase in disability by Cox proportional hazards model adjusted for baseline EDSS and age; relapse rate by Poisson regression adjusting for baseline relapse rate, EDSS, presence of Gd-enhancing lesions, age; percentage relapse-free by logistic regression adjusting for baseline relapse rate; and lesion number by ordinal logistic regression adjusting for baseline lesion number. |  |  |
+| Annualized relapse rate is calculated as the number of relapses for each subject divided by the number of years followed in the study for that subject. The value reported is the mean across all subjects. |  |  |
+| *Values do not total 100% due to rounding. |  |  |
 
 Table 6: Clinical and MRI Endpoints in Study MS2 (Add-On Study) at 2 Years
 
-|  | TYSABRI plus AVONEX n=589 | Placebo plus AVONEX n=582 |
+|  | TYSABRI plus AVONEX n= 589 | Placebo plus AVONEX n=582 |
 | --- | --- | --- |
 | CLINICAL ENDPOINTS |  |  |
 | Percentage with sustained increase in disability | 23% | 29% |
@@ -49,9 +62,22 @@ Table 6: Clinical and MRI Endpoints in Study MS2 (Add-On Study) at 2 Years
 | Relative reduction (percentage) | 56% |  |
 | Percentage of patients remaining relapse-free | 54% | 32% |
 | MRI ENDPOINTS |  |  |
-| New or newly enlarging T2-hyperintense lesions Median Percentage of patients with*: 0 lesions 1 lesion 2 lesions 3 or more lesions | 0.0 67% 13% 7% 14% | 3.0 30% 9% 10% 50% |
-| Gd-enhancing lesions Median Percentage of patients with*: 0 lesions 1 lesion 2 or more lesions | 0.0 96% 2% 1% | 0.0 75% 12% 14% |
-| All analyses were intent-to-treat. For disability accumulation p=0.024, for all other endpoints, p<0.001. Determination of p-values: Increase in disability by Cox proportional hazards model adjusted for baseline EDSS; relapse rate by Poisson regression adjusting for baseline relapse rate, EDSS, presence of Gd-enhancing lesions, age; percentage relapse-free by logistic regression adjusting for baseline relapse rate; and lesion number by ordinal logistic regression adjusting for baseline lesion number. Annualized relapse rate is calculated as the number of relapses for each subject divided by the number of years followed in the study for that subject. The value reported is the mean across all subjects. *Values do not total 100% due to rounding. |  |  |
+| New or newly enlarging T2-hyperintense lesions |  |  |
+| Median | 0.0 | 3.0 |
+| Percentage of patients with*: |  |  |
+| 0 lesions | 67% | 30% |
+| 1 lesion | 13% | 9% |
+| 2 lesions | 7% | 10% |
+| 3 or more lesions | 14% | 50% |
+| Gd-enhancing lesions |  |  |
+| Median | 0.0 | 0.0 |
+| Percentage of patients with*: |  |  |
+| 0 lesions | 96% | 75% |
+| 1 lesion | 2% | 12% |
+| 2 or more lesions | 1% | 14% |
+| All analyses were intent-to-treat. For disability accumulation p=0.024, for all other endpoints, p<0.001. Determination of p-values: Increase in disability by Cox proportional hazards model adjusted for baseline EDSS; relapse rate by Poisson regression adjusting for baseline relapse rate, EDSS, presence of Gd-enhancing lesions, age; percentage relapse-free by logistic regression adjusting for baseline relapse rate; and lesion number by ordinal logistic regression adjusting for baseline lesion number. |  |  |
+| Annualized relapse rate is calculated as the number of relapses for each subject divided by the number of years followed in the study for that subject. The value reported is the mean across all subjects. |  |  |
+| *Values do not total 100% due to rounding. |  |  |
 
 Figure 1: Time to Increase in Disability Sustained for 12 Weeks in Study MS1
 
@@ -79,7 +105,9 @@ Table 7: Induction of Clinical Response and Remission in Study CD2
 | --- | --- | --- | --- |
 | Clinical Response at: Week 8 Week 12 Both Weeks 8 & 12* | 56% 60% 48% | 40% 44% 32% | 16% (8%, 26%) 16% (7%, 25%) 16% (7%, 24%) |
 | Clinical Remission at: Week 8 Week 12 Both Weeks 8 & 12* | 32% 37% 26% | 21% 25% 16% | 11% (3%, 19%) 12% (4%, 21%) 10% (3%, 18%) |
-| *p <0.005 Response is defined as a ≥70-point reduction in CDAI score from baseline. Remission is defined as CDAI <150. |  |  |  |
+| *p <0.005 |  |  |  |
+| Response is defined as a ≥70-point reduction in CDAI score from baseline. |  |  |  |
+| Remission is defined as CDAI <150. |  |  |  |
 
 In studies CD1 and CD2, for subgroups defined by prior use of, or by inadequate response to prior therapies (i.e., corticosteroids, immunosuppressants, and inhibitors of TNF-α), the treatment effect was generally similar to that seen in the whole study population.
 In the subgroup of patients that were taking neither concomitant immunosuppressants nor concomitant corticosteroids, the treatment effect was generally similar to that seen in the whole study population.
@@ -98,8 +126,11 @@ Table 8: Maintenance of Clinical Response and Remission in Study CD3
 |  | TYSABRI | Placebo | Treatment Difference (95% CI) |
 | --- | --- | --- | --- |
 | Clinical Response through: Month 9* Month 15 | n=164 61% 54% | n=167 29% 20% | 32% (21%, 43%) 34% (23%, 44%) |
-| Clinical Remission through: Month 9* Month 15 | n=128 † 45% 40% | n=118 † 26% 15% | 19% (6%, 31%) 25% (13%, 36%) |
-| *p<0.005 †Number of patients included for analysis of “through” Month 9 and Month 15 includes only those in remission upon entry into Study CD3. Response is defined as CDAI <220 and a ≥70-point reduction in CDAI score compared to Baseline from Study CD1. Remission is defined as CDAI <150. |  |  |  |
+| Clinical Remission through: Month 9* Month 15 | n=128† 45% 40% | n=118† 26% 15% | 19% (6%, 31%) 25% (13%, 36%) |
+| *p<0.005 |  |  |  |
+| †Number of patients included for analysis of “through” Month 9 and Month 15 includes only those in remission upon entry into Study CD3. |  |  |  |
+| Response is defined as CDAI <220 and a ≥70-point reduction in CDAI score compared to Baseline from Study CD1. |  |  |  |
+| Remission is defined as CDAI <150. |  |  |  |
 
 For subgroups in study CD3 defined by prior use of, or by inadequate response to prior therapies (i.e., corticosteroids, immunosuppressants, and inhibitors of TNF-α), the treatment effect was generally similar to that seen in the whole study population.
 In the subgroup of patients that were taking neither concomitant immunosuppressants nor concomitant corticosteroids, the treatment effect was generally similar to that seen in the whole study population.

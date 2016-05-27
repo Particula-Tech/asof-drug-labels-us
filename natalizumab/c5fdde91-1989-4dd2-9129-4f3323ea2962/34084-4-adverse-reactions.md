@@ -30,9 +30,37 @@ Table 2: Adverse Reactions in Study MS1 (Monotherapy Study)
 
 | Adverse Reactions (Preferred Term) | TYSABRI n=627 % | Placebo n=312 % |
 | --- | --- | --- |
-| General Headache Fatigue Arthralgia Chest discomfort Acute hypersensitivity reactions** Other hypersensitivity reactions** Seasonal allergy Rigors Weight increased Weight decreased Infection Urinary tract infection Lower respiratory tract infection Gastroenteritis Vaginitis* Tooth infections Herpes Tonsillitis Psychiatric Depression Musculoskeletal/Connective Tissue Disorders Pain in extremity Muscle cramp Joint swelling | 38 27 19 5 4 5 3 3 2 2 21 17 11 10 9 8 7 19 16 5 2 | 33 21 14 3 <1 2 2 <1 <1 <1 17 16 9 6 7 7 5 16 14 3 1 |
-| Gastrointestinal Abdominal discomfort Diarrhea NOS Abnormal liver function test Skin Rash Dermatitis Pruritus Night sweats Menstrual Disorders* Irregular menstruation Dysmenorrhea Amenorrhea Ovarian cyst Neurologic Disorders Somnolence Vertigo Renal and Urinary Disorders Urinary incontinence Urinary urgency/frequency Injury Limb injury NOS Skin laceration Thermal burn | 11 10 5 12 7 4 1 5 3 2 2 2 6 4 9 3 2 1 | 10 9 4 9 4 2 0 4 <1 1 <1 <1 5 3 7 2 <1 <1 |
-| *Percentage based on female patients only. ** Acute versus other hypersensitivity reactions are defined as occurring within 2 hours post-infusion versus more than 2 hours. |  |  |
+| General |  |  |
+| Headache | 38 | 33 |
+| Fatigue | 27 | 21 |
+| Arthralgia | 19 | 14 |
+| Chest discomfort | 5 | 3 |
+| Acute hypersensitivity reactions** | 4 | <1 |
+| Other hypersensitivity reactions** | 5 | 2 |
+| Seasonal allergy | 3 | 2 |
+| Rigors | 3 | <1 |
+| Weight increased | 2 | <1 |
+| Weight decreased | 2 | <1 |
+| Infection |  |  |
+| Urinary tract infection | 21 | 17 |
+| Lower respiratory tract infection | 17 | 16 |
+| Gastroenteritis | 11 | 9 |
+| Vaginitis* | 10 | 6 |
+| Tooth infections | 9 | 7 |
+| Herpes | 8 | 7 |
+| Tonsillitis | 7 | 5 |
+| Psychiatric |  |  |
+| Depression | 19 | 16 |
+| Musculoskeletal/Connective Tissue Disorders |  |  |
+| Pain in extremity Muscle cramp Joint swelling | 16 5 2 | 14 3 1 |
+| Gastrointestinal Abdominal discomfort Diarrhea NOS Abnormal liver function test | 11 10 5 | 10 9 4 |
+| Skin Rash Dermatitis Pruritus Night sweats | 12 7 4 1 | 9 4 2 0 |
+| Menstrual Disorders* Irregular menstruation Dysmenorrhea Amenorrhea Ovarian cyst | 5 3 2 2 | 4 <1 1 <1 |
+| Neurologic Disorders Somnolence Vertigo | 2 6 | <1 5 |
+| Renal and Urinary Disorders Urinary incontinence Urinary urgency/frequency | 4 9 | 3 7 |
+| Injury Limb injury NOS Skin laceration Thermal burn | 3 2 1 | 2 <1 <1 |
+| *Percentage based on female patients only. |  |  |
+| ** Acute versus other hypersensitivity reactions are defined as occurring within 2 hours post-infusion versus more than 2 hours. |  |  |
 
 In Study MS2, peripheral edema was more common in patients who received TYSABRI (5% versus 1% in placebo).
 
@@ -47,15 +75,27 @@ Table 3: Adverse Reactions in Studies CD1 and CD2 (Induction Studies)
 
 | Adverse Reactions* | TYSABRI n=983 % | Placebo n=431 % |
 | --- | --- | --- |
-| General Headache Fatigue Arthralgia Influenza-like illness Acute hypersensitivity reactions Tremor Infection Upper respiratory tract infection Vaginal infections** Viral infection Urinary tract infection Respiratory Pharyngolaryngeal pain Cough Gastrointestinal Nausea Dyspepsia Constipation Flatulence Aphthous stomatitis Skin Rash Dry skin Menstrual Disorder Dysmenorrhea** | 32 10 8 5 2 1 22 4 3 3 6 3 17 5 4 3 2 6 1 2 | 23 8 6 4 <1 <1 16 2 2 1 4 <1 15 3 2 2 <1 4 0 <1 |
-| * Occurred at an incidence of at least 1% higher in TYSABRI-treated patients than placebo-treated patients. ** Percentage based on female patients only. |  |  |
+| General Headache Fatigue Arthralgia Influenza-like illness Acute hypersensitivity reactions Tremor | 32 10 8 5 2 1 | 23 8 6 4 <1 <1 |
+| Infection Upper respiratory tract infection Vaginal infections** Viral infection Urinary tract infection | 22 4 3 3 | 16 2 2 1 |
+| Respiratory Pharyngolaryngeal pain Cough | 6 3 | 4 <1 |
+| Gastrointestinal Nausea Dyspepsia Constipation Flatulence Aphthous stomatitis | 17 5 4 3 2 | 15 3 2 2 <1 |
+| Skin Rash Dry skin | 6 1 | 4 0 |
+| Menstrual Disorder Dysmenorrhea** | 2 | <1 |
+| * Occurred at an incidence of at least 1% higher in TYSABRI-treated patients than placebo-treated patients. |  |  |
+| ** Percentage based on female patients only. |  |  |
 
 Table 4: Adverse Reactions in Study CD3 (Maintenance Study)
 
 | Adverse Reactions* | TYSABRI n=214 % | Placebo n=214 % |
 | --- | --- | --- |
-| General Headache Influenza-like illness Toothache Peripheral edema Infection Influenza Sinusitis Viral infection Vaginal infections** Respiratory Cough Gastrointestinal Lower abdominal pain Musculoskeletal and Connective Tissue Back pain Menstrual Disorder Dysmenorrhea** | 37 11 4 6 12 8 7 8 7 4 12 6 | 31 6 <1 3 5 4 3 <1 5 2 8 3 |
-| * Occurred at an incidence of at least 2% higher in TYSABRI-treated patients than placebo-treated patients. ** Percentage based on female patients only. |  |  |
+| General Headache Influenza-like illness Toothache Peripheral edema | 37 11 4 6 | 31 6 <1 3 |
+| Infection Influenza Sinusitis Viral infection Vaginal infections** | 12 8 7 8 | 5 4 3 <1 |
+| Respiratory Cough | 7 | 5 |
+| Gastrointestinal Lower abdominal pain | 4 | 2 |
+| Musculoskeletal and Connective Tissue Back pain | 12 | 8 |
+| Menstrual Disorder Dysmenorrhea** | 6 | 3 |
+| * Occurred at an incidence of at least 2% higher in TYSABRI-treated patients than placebo-treated patients. |  |  |
+| ** Percentage based on female patients only. |  |  |
 
 Infections
 
@@ -127,8 +167,3 @@ The long-term immunogenicity of TYSABRI and the effects of low to moderate level
 Immunogenicity data are highly dependent on the sensitivity and specificity of the assay.
 Additionally, the observed incidence of antibody-positivity in an assay may be influenced by several factors, including sample handling, timing of sample collection, concomitant medications, and underlying disease.
 For these reasons, comparison of the incidence of antibodies to TYSABRI with the incidence of antibodies to other products may be misleading.
-
-## 7. DRUG INTERACTIONS
-
-Because of the potential for increased risk of PML and other infections, Crohn's disease patients receiving TYSABRI should not be treated with concomitant immunosuppressants (e.g., 6-mercaptopurine, azathioprine, cyclosporine, or methotrexate) or inhibitors of TNF-α, and corticosteroids should be tapered in those patients with Crohn's disease who are on chronic corticosteroids when they start TYSABRI therapy [see Indications and Usage (1.2), Warnings and Precautions (5.1, 5.6)].
-Ordinarily, MS patients receiving chronic immunosuppressant or immunomodulatory therapy should not be treated with TYSABRI [see Indications and Usage (1.1), Warnings and Precautions (5.1, 5.6)].

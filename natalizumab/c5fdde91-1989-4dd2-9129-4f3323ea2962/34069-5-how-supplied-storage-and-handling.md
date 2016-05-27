@@ -5,7 +5,7 @@ Each package contains a single-use vial.
 TYSABRI is a colorless and clear to slightly opalescent solution for dilution prior to intravenous infusion.
 
 TYSABRI is available only through registered infusion centers participating in the TOUCH® Prescribing Program.
-To locate these infusion centers, contact Biogen Idec at 1-800-456-2255.
+To locate these infusion centers, contact Biogen at 1-800-456-2255.
 
 TYSABRI single-use vials must be refrigerated between 2°C to 8°C (36°F to 46°F).
 Do not use beyond the expiration date stamped on the carton and vial label.
