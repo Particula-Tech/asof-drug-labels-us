@@ -60,4 +60,4 @@ Manufactured for: Raptor Pharmaceuticals Inc. 7 Hamilton Landing, Suite 100 Nova
 
 raptor pharmaceuticals, inc.
 
-Update: 8/2015 Part No. US/PRO/0815/0030
+Update: 03/2016 Part No. US/PRO/0815/0030(2)

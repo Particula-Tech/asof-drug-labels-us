@@ -1,12 +1,23 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
+## 16.1 How Supplied
+
 - 25 mg Delayed-release Capsule: A hard gelatin capsule with light blue opaque cap imprinted with “Raptor” Logo in white ink and light blue opaque body imprinted with “25 mg” in white ink, supplied as bottle of 60 capsules (NDC 49663-001-06).
+  Each bottle contains one desiccant canister and one oxygen absorber canister.
 - 75 mg Delayed-release Capsule: A hard gelatin capsule with dark blue opaque cap imprinted with “Raptor” Logo in white ink and light blue opaque body imprinted with “75 mg” in white ink, supplied as bottle of 250 capsules (NDC 49663-002 25).
+  Each bottle contains one desiccant canister and two oxygen absorber canisters.
 
-Store at 20°C to 25°C (68° to 77°F); excursions permitted between 15° and 30°C (59° and 86°F) [See USP Controlled Room Temperature].
-Protect from light and moisture.
+## 16.2 Instructions for the Pharmacist
 
-Dispense only in original packaging.
-Do not subdivide or repackage.
-Do not remove desiccant or oxygen absorber from the container.
-Keep bottles tightly closed in a dry place.
+- Dispense PROCYSBI with a 4 month expiration date
+- Specify “Store at room temperature, 20°C to 25°C (68°F to 77°F).”
+- Dispense only in original packaging.
+  Do not subdivide or repackage.
+
+## 16.3 Storage and Handling
+
+- PHARMACIST: Prior to Dispensing: Store in a refrigerator, 2°C to 8°C (36°F to 46°F).
+- PATIENT: Store at room temperature, 20°C to 25°C (68°F to 77°F).
+- Protect from light and moisture.
+- Do not remove desiccant or oxygen absorber(s) from the container.
+  Keep bottles tightly closed in a dry place.

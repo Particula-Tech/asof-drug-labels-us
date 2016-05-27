@@ -52,7 +52,8 @@ Table 2: Target Weight-Based Maintenance Dosage
 Switching Patients from Immediate-release Cysteamine Bitartrate Capsules
 
 When switching patient from immediate-release cysteamine bitartrate to PROCYSBI, starting total daily dose of PROCYSBI is equal to his/her previous total daily dose of immediate-release cysteamine bitartrate.
-Measure WBC cystine concentration two weeks after initiation of PROCYSBI [see Dosage and Administration (2.3)].Titrate the PROCYSBI dose as needed to achieve target WBC cystine concentrations [see Dosage and Administration (2.2)].
+Measure WBC cystine concentration two weeks after initiation of PROCYSBI [See Dosage and Administration (2.3)].
+Titrate the PROCYSBI dose as needed to achieve target WBC cystine concentrations [see Dosage and Administration (2.2)].
 Do not exceed 1.95 grams/m2 per day.
 
 ## 2.2 Dose Titration
@@ -96,7 +97,7 @@ Administration with Applesauce or Berry Jelly:
 1. Place approximately 4 ounces (1/2 cup) of either applesauce or berry jelly into a clean container
 2. Open the capsule(s)
 3. Sprinkle the intact granules on applesauce or berry jelly
-4. Mix the granules with the applesauce
+4. Mix the granules with the applesauce or berry jelly
 5. Consume the entire contents within 30 minutes of mixing.
    Do not chew the granules.
    Do not save the applesauce or berry jelly and granules for later use.
@@ -124,7 +125,7 @@ A bolus (straight) feeding tube is recommended.
    Keep the feeding tube horizontal during administration and apply rapid and steady pressure (10 mL/10 seconds) to dispense the syringe contents into the tube within 30 minutes of preparation.
 5. Repeat step 3 until all of the mixture is administered.
    Do not save the applesauce and granule mixture for later use.
-6. Draw up a minimum of 10 mL of fruit juice into another syringe, swirly gently, and flush the tube.
+6. Draw up a minimum of 10 mL of fruit juice into another syringe, swirl gently, and flush the tube.
 
 Missed Doses
 

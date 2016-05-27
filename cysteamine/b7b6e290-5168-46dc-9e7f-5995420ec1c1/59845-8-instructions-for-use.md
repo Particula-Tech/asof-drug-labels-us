@@ -18,7 +18,7 @@ Do not use any other food.
 Step 2: Open the PROCYSBI capsule.
 See "Opening PROCYSBI capsules" above.
 You may need to use more than 1 PROCYSBI capsule for the dose prescribed by your doctor.
-Step 3: Sprinkle the granules that are inside of the capsule or capsules onto the applesauce or berry jelly.
+Step 3: Sprinkle the granules that are inside the capsule or capsules onto the applesauce or berry jelly.
 Step 4: Mix the granules with the applesauce or berry jelly.
 Step 5: Swallow the applesauce or berry jelly and granules mixture within 30 minutes after preparing.
 Do not chew the granules.
@@ -72,11 +72,14 @@ Use enough fruit juice to flush the gastrostomy tube so that there is no applesa
 
 How should I store PROCYSBI?
 
-- Store PROCYSBI at room temperature between 68° to 77°F (20° to 25°C).
+- Store PROCYSBI at room temperature, 20°C to 25°C (68°F to 77°F).
+- Dispose of by date on bottle.
+- Discard expired capsules per your local or state regulations.
 - Store PROCYSBI in a dry place away from light.
 - Keep PROCYSBI tightly closed in the original bottle.
-- The PROCYSBI bottle contains a desiccant canister and an oxygen absorber canister.
-  Do not eat or throw away the desiccant canister or oxygen absorber canister.
+- The PROCYSBI bottle (25 mg) contains a desiccant canister and one oxygen absorber canister.
+- The PROCYSBI bottle (75 mg) contains a desiccant canister and two oxygen absorber canisters.
+- Do not eat or throw away the desiccant canister or oxygen absorber canister(s).
 
 Keep PROCYSBI and all medicines out of the reach of children.
 
@@ -84,4 +87,4 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 Manufactured for: Raptor Pharmaceuticals Inc. 7 Hamilton Landing, Suite 100 Novato, CA 94949
 
-Issued 8/2015 Part no. US/PRO/0815/0032
+Issued 03/2016 Part no. US/PRO/0815/0032(2)

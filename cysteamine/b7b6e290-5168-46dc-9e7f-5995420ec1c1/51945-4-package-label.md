@@ -1,3 +1,3 @@
-Package Label - Principal Display Panel - 25 mg, 60 ct Capsules
+PRINCIPAL DISPLAY PANEL - NDC 49663-001-06 - 25 mg, 60-count Bottle Label
 
-Package Label - Principal Display Panel - 75 mg, 250 ct Capsules
+PRINCIPAL DISPLAY PANEL - NDC 49663-002-25 - 75 mg, 250-count Bottle Label
