@@ -6,8 +6,7 @@ Single 3-minute intravenous injections of the same doses resulted in serum level
 Serum concentrations of aztreonam in healthy subjects following completion of single intramuscular injections of 500 mg and 1 g doses are depicted in Figure 1; maximum serum concentrations occur at about 1 hour.
 After identical single intravenous or intramuscular doses of AZACTAM, the serum concentrations of aztreonam are comparable at 1 hour (1.5 hours from start of intravenous infusion) with similar slopes of serum concentrations thereafter.
 
-| FIGURE 1 |
-| --- |
+FIGURE 1
 
 The serum levels of aztreonam following single 500 mg or 1 g (intramuscular or intravenous) or 2 g (intravenous) doses of AZACTAM exceed the MIC90 for Neisseria sp., Haemophilus influenzae, and most genera of the Enterobacteriaceae for 8 hours (for Enterobacter sp., the 8-hour serum levels exceed the MIC for 80% of strains).
 For Pseudomonas aeruginosa, a single 2 g intravenous dose produces serum levels that exceed the MIC90 for approximately 4 to 6 hours.
@@ -82,16 +81,16 @@ No reports of disulfiram-like reactions with alcohol ingestion have been noted; 
 
 ## Microbiology
 
-Mechanism of Action
+#### Mechanism of Action
 
 Aztreonam is a bactericidal agent that acts by inhibition of bacterial cell wall synthesis.
 Aztreonam has activity in the presence of some beta-lactamases, both penicillinases and cephalosporinases, of Gram-negative and Gram-positive bacteria.
 
-Mechanism of Resistance
+#### Mechanism of Resistance
 
 Resistance to aztreonam is primarily through hydrolysis by beta-lactamase, alteration of penicillin-binding proteins (PBPs), and decreased permeability.
 
-Interaction with Other Antimicrobials
+#### Interaction with Other Antimicrobials
 
 Aztreonam and aminoglycosides have been shown to be synergistic in vitro against most strains of P. aeruginosa, many strains of Enterobacteriaceae, and other Gram-negative aerobic bacilli.
 
@@ -131,19 +130,19 @@ Aztreonam has little effect on the anaerobic intestinal microflora in in vitro s
 Clostridium difficile and its cytotoxin were not found in animal models following administration of aztreonam.
 (See ADVERSE REACTIONS: Gastrointestinal.)
 
-### Susceptibility Test Methods
+#### Susceptibility Test Methods
 
 When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drug products used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
 These reports should aid the physician in selecting an antibacterial drug product for treatment.
 
-#### Dilution Techniques
+##### Dilution Techniques
 
 Quantitative methods are used to determine antimicrobial MICs.1-3 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
 The MICs should be determined using a standardized procedure.
 Standardized procedures are based on a dilution method6 (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of aztreonam powder.
 The MIC values should be interpreted according to the criteria in Table 2.
 
-#### Diffusion Techniques
+##### Diffusion Techniques
 
 Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
@@ -160,7 +159,7 @@ Table 2: Susceptibility Test Interpretive Criteria for Aztreonam
 | Pseudomonas aeruginosa | ≤8 | 16 | ≥32 | ≥22 | 16-21 | ≤15 |
 | a The current absence of data on resistant isolates precludes defining any category other than “Susceptible.” If isolates yield MIC results other than susceptible, they should be submitted to a reference laboratory for additional testing. |  |  |  |  |  |  |
 
-#### Quality Control
+##### Quality Control
 
 Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individual performing the test.6-8 Standard aztreonam powder should provide the following range of MIC values noted in Table 3.
 For the diffusion technique using the 30 mcg disk, the criteria in Table 3 should be achieved.

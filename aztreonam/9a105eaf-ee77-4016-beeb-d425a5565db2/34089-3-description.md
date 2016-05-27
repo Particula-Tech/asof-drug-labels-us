@@ -10,6 +10,8 @@ The sulfonic acid substituent in the 1-position of the ring activates the beta-l
 Aztreonam is designated chemically as (Z)-2-[[[(2-amino-4-thiazolyl)[[(2S,3S)-2-methyl-4-oxo-1-sulfo-3-azetidinyl]carbamoyl]methylene]amino]oxy]-2-methylpropionic acid.
 Structural formula:
 
+C13H17N5O8S2 MW 435.44
+
 AZACTAM is a sterile, nonpyrogenic, sodium-free, white powder containing approximately 780 mg arginine per gram of aztreonam.
 Following constitution, the product is for intramuscular or intravenous use.
 Aqueous solutions of the product have a pH in the range of 4.5 to 7.5.
