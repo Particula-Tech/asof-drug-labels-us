@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA019758"
+  ],
+  "inn": "clozapine",
+  "labeler": "HLS Therapeutics (USA), Inc.",
+  "package_ndcs": [
+    "69809-0126-5",
+    "69809-0127-5"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "clozapine",
+      "name": "Clozaril"
+    }
+  ],
+  "setid": "90876802-0e3a-44c9-9ff7-1754dfbe736a",
+  "source": "dailymed"
+}
