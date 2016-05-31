@@ -43,16 +43,16 @@ This section of the Medication Guide is only about the risk of suicidal thoughts
 
 What is the most important information I should know about antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions?
 
-- •Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment.
-- •Depression or other serious mental illnesses are the most important causes of suicidal thoughts and actions.
-  Some people may have a particularly high risk of having suicidal thoughts or actions.
-  These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
-- •How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
-  - 1.Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
-    This is very important when an antidepressant medicine is started or when the dose is changed.
-  - 2.Call your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
-  - 3.Keep all follow-up visits with your healthcare provider as scheduled.
-    Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
+1. 1.Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment.
+2. 2.Depression or other serious mental illnesses are the most important causes of suicidal thoughts and actions.
+   Some people may have a particularly high risk of having suicidal thoughts or actions.
+   These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
+3. 3.How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
+   1. •Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
+      This is very important when an antidepressant medicine is started or when the dose is changed.
+   2. •Call your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
+   3. •Keep all follow-up visits with your healthcare provider as scheduled.
+      Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
 
 Call your healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
 
