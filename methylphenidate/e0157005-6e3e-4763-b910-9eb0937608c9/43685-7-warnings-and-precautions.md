@@ -16,7 +16,7 @@ Further evaluate patients who develop exertional chest pain, unexplained syncope
 
 CNS stimulants cause an increase in blood pressure (mean increase approximately 2 to 4 mmHg) and heart rate (mean increase approximately 3 to 6 bpm).
 Individuals may have larger increases.
-Monitor all patients for hypertension and tachycardia
+Monitor all patients for hypertension and tachycardia.
 
 ## 5.4 Psychiatric Adverse Reactions
 
@@ -55,7 +55,7 @@ Further clinical evaluation (e.g., rheumatology referral) may be appropriate for
 
 CNS stimulants have been associated with weight loss and slowing of growth rate in pediatric patients.
 Closely monitor growth (weight and height) in pediatric patients treated with CNS stimulants, including QUILLIVANT XR.
-Careful follow-up of weight and height in children ages 7 to 10 years who were randomized to either methylphenidate or nonmedication treatment groups over 14 months, as well as in naturalistic subgroups of newly methylphenidate-treated and nonmedication-treated children over 36 months (to the ages of 10 to 13 years), suggests that consistently medicated children (i.e., treatment for 7 days per week throughout the year) have a temporary slowing in growth rate (on average, a total of about 2 cm less growth in height and 2.7 kg less growth in weight over 3 years), without evidence of growth rebound during this period of development..
+Careful follow-up of weight and height in children ages 7 to 10 years who were randomized to either methylphenidate or nonmedication treatment groups over 14 months, as well as in naturalistic subgroups of newly methylphenidate-treated and nonmedication-treated children over 36 months (to the ages of 10 to 13 years), suggests that consistently medicated children (i.e., treatment for 7 days per week throughout the year) have a temporary slowing in growth rate (on average, a total of about 2 cm less growth in height and 2.7 kg less growth in weight over 3 years), without evidence of growth rebound during this period of development.
 
 Published data are inadequate to determine whether chronic use of amphetamines may cause a similar suppression of growth; however, it is anticipated that they likely have this effect as well.
 Therefore, growth should be monitored during treatment with CNS stimulants, and patients who are not growing or gaining height or weight as expected may need to have their treatment interrupted.

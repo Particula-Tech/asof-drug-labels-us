@@ -2,21 +2,23 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
-
 Risk Summary
 
-There are no adequate or well-controlled studies with QUILLIVANT XR in pregnant women.
-Adverse pregnancy outcomes, including premature delivery and low birth weight, have been seen in mothers dependent on other CNS stimulant products such as amphetamines.
-Methylphenidate showed some potential for teratogenicity when pregnant animals were treated during organogenesis: an increased incidence of fetal spina bifida in rabbits at 40 times the maximum recommended human dose (MRHD), on a mg/m2 basis, and an increased incidence of fetal skeletal variations in rats at 7 times the MRHD.
-A decrease in body weight gain was seen in the offspring of rats treated with methylphenidate throughout pregnancy and lactation at 4 times the MRHD.
-QUILLIVANT XR should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+There are limited published studies and small case series that report on the use of methylphenidate in pregnant women; however, the data are insufficient to inform any drug-associated risks.
+There are clinical considerations [see Clinical Considerations].
+No teratogenic effects were observed in embryo-fetal development studies with oral administration of methylphenidate to pregnant rats and rabbits during organogenesis at doses 2 and 11 times, respectively, the maximum recommended human dose (MRHD).
+However, spina bifida was observed in rabbits at a dose 40 times the MRHD [see Data].
+
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2–4% and 15–20%, respectively.
 
 Clinical Considerations
 
-CNS stimulant medications, such as QUILLIVANT XR, cause vasoconstriction and thereby decrease placental perfusion.
-Infants born to amphetamine dependent mothers have an increased risk of premature delivery and low birth weight.
-Monitor infants for symptoms of withdrawal such as feeding difficulties, irritability, agitation, and excessive drowsiness.
+Fetal/Neonatal adverse reactions
+
+CNS stimulant medications, such as QUILLIVANT XR, can cause vasoconstriction and thereby decrease placental perfusion.
+No fetal and/or neonatal adverse reactions have been reported with the use of therapeutic doses of methylphenidate during pregnancy; however, premature delivery and low birth weight infants have been reported in amphetamine-dependent mothers.
+
+Data
 
 Animal Data
 
@@ -25,14 +27,19 @@ Teratogenic effects (increased incidence of fetal spina bifida) were observed in
 The no effect level for embryo-fetal development in rabbits was 60 mg/kg/day (11 times the MRHD on a mg/m2 basis).
 There was no evidence of specific teratogenic activity in rats, although increased incidences of fetal skeletal variations were seen at the highest dose level (7 times the MRHD on a mg/m2 basis), which was also maternally toxic.
 The no effect level for embryo-fetal development in rats was 25 mg/kg/day (2 times the MRHD on a mg/m2 basis).
-When methylphenidate was administered to rats throughout pregnancy and lactation at doses of up to 45 mg/kg/day, offspring body weight gain was decreased at the highest dose (4 times the MRHD on a mg/m2 basis), but no other effects on postnatal development were observed.
-The no effect level for pre- and postnatal development in rats was 15 mg/kg/day (equal to the MRHD on a mg/m2 basis).
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-Methylphenidate is present in human milk.
+Risk Summary
+
+Limited published literature reports that methylphenidate is present in human milk, which resulted in infant doses of 0.16% to 0.7% of the maternal weight-adjusted dosage and a milk/plasma ratio ranging between 1.1 and 2.7.
+There are no reports of adverse effects on the breastfed infant and no effects on milk production.
 Long-term neurodevelopmental effects on infants from CNS stimulant exposure are unknown.
-Because of the potential for serious adverse reactions in nursing infants, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for QUILLIVANT XR and any potential adverse effects on the breastfed infant from QUILLIVANT XR or from the underlying maternal condition.
+
+Clinical Considerations
+
+Monitor breastfeeding infants for adverse reactions, such as agitation, insomnia, anorexia, and reduced weight gain.
 
 ## 8.4 Pediatric Use
 

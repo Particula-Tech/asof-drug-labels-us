@@ -2,7 +2,7 @@
 
 See FDA-approved patient labeling (Medication Guide)
 
-## 17.1 Information for Patients
+Information for Patients
 
 Information on the Medication Guide
 
@@ -68,9 +68,9 @@ Pregnancy
 Instruct patients to inform their healthcare provider if they become pregnant or intend to become pregnant during treatment with QUILLIVANT XR.
 Advise patients of the potential fetal effects from the use of QUILLIVANT XR during pregnancy [see Use in Specific Populations (8.1)].
 
-Nursing Mothers
+Lactation
 
-Advise nursing mothers to discontinue breastfeeding or discontinue QUILLIVANT XR [see Use in Specific Populations (8.3)].
+Advise nursing mothers to discontinue breastfeeding or discontinue QUILLIVANT XR [see Use in Specific Populations (8.2)].
 
 For the Pharmacist
 
