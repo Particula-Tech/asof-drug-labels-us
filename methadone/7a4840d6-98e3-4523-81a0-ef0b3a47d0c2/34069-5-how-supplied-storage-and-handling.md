@@ -6,21 +6,21 @@ DOLOPHINE contains methadone which is a controlled substance.
 Like fentanyl, morphine, oxycodone, hydromorphone, and oxymorphone, methadone is controlled under Schedule II of the Federal Controlled Substances Act.
 DOLOPHINE may be targeted for theft and diversion by criminals [see Warnings and Precautions (5.1)].
 
-Dispense in a tight, light-resistant container as defined in the USP/NF.
+Dispense in a tight, light-resistant, child-resistant container as defined in the USP/NF.
 
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
 ## 16.2 How Supplied
 
-DOLOPHINE Tablets, USP
+DOLOPHINE (methadone hydrochloride USP) Tablets
 
-5 mg Tablets: round, white tablets debossed with tablet identifier 54 162 on one side and scored on the other side.
+5 mg tablets are white, round, biconvex tablets, scored on one side and product identification “54 162” debossed on the other side.
 
-NDC 0054-4218-25: Bottles of 100 tablets.
+NDC 0054-4218-25: Bottle of 100 Tablets
 
-10 mg Tablets: round, white tablet debossed with tablet identifier 54 549 on one side and scored on the other side.
+The 10 mg tablets are white, round, biconvex tablets, scored on one side and product identification “54 549” debossed on the other side.
 
-NDC 0054-4219-25: Bottles of 100 tablets.
+NDC 0054-4219-25: Bottle of 100 Tablets
 
 DEA order form required.

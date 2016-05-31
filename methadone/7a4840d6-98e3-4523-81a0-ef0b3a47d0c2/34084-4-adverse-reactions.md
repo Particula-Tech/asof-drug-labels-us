@@ -4,7 +4,7 @@ The following serious adverse reactions are discussed elsewhere in the labeling:
 
 - •Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
 - •Life Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
-- •QT Prolongation[see Warnings and Precautions (5.3)]
+- •QT Prolongation [see Warnings and Precautions (5.3)]
 - •Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.4)]
 - •Interactions with Other CNS Depressants[see Warnings and Precautions (5.5)]
 - •Hypotensive Effect [see Warnings and Precautions (5.8)]

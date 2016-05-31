@@ -38,14 +38,14 @@ If they cannot reach the healthcare provider right away, instruct them to take t
 
 Disposal of Unused DOLOPHINE: Advise patients to flush the unused tablets down the toilet when DOLOPHINE is no longer needed.
 
-Roxane Laboratories, Inc.
+Distr. by: West-Ward
 
-Columbus, Ohio 43216
+Pharmaceuticals Corp.
 
-www.Roxane.com, or call 1-800-962-8364
+Eatontown, NJ 07724
 
-4077444//07
+For information, please call 1-800-962-8364.
 
-Revised April 2015
+4077444//08
 
-© RLI, 2015
+Revised March 2016

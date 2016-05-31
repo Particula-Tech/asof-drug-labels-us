@@ -47,7 +47,7 @@ St. John’s Wort, Phenobarbital, Carbamazepine: Administration of methadone wit
 
 Cytochrome P450 Inhibitors: Since the metabolism of methadone is mediated primarily by CYP3A4 isozyme, coadministration of drugs that inhibit CYP3A4 activity may cause decreased clearance of methadone.
 
-Voriconazole: Repeat dose administration of oral voriconazole (400 mg every 12 hours for 1 day, then 200 mg every 12 hours for 4 days) increased the peak plasma concentration (Cmax) and AUC of (R)-methadone by 31% and 47%, respectively, in subjects receiving a methadone maintenance dose (30 to 100 mg daily.
+Voriconazole: Repeat dose administration of oral voriconazole (400 mg every 12 hours for 1 day, then 200 mg every 12 hours for 4 days) increased the peak plasma concentration (Cmax) and AUC of (R)-methadone by 31% and 47%, respectively, in subjects receiving a methadone maintenance dose (30 to 100 mg daily).
 The Cmax and AUC of (S)-methadone increased by 65% and 103%, respectively.
 Increased plasma concentrations of methadone have been associated with toxicity including QT prolongation.
 Frequent monitoring for adverse events and toxicity related to methadone is recommended during coadministration.

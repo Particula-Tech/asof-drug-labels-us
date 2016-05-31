@@ -20,7 +20,7 @@ Consider the following important factors that differentiate methadone from other
 - •Steady-state plasma concentrations, and full analgesic effects, are not attained until at least 3 to 5 days on a dose, and may take longer in some patients.
 
 Initiate the dosing regimen for each patient individually, taking into account the patient’s prior analgesic treatment experience and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
-Monitor patients closely for respiratory depression, especially within the first 24-72 hours of initiating therapy with DOLOPHINE [see Warnings and Precautions (5.2)].
+Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy with DOLOPHINE [see Warnings and Precautions (5.2)].
 
 Use of DOLOPHINE as the First Opioid Analgesic: Initiate treatment with DOLOPHINE with 2.5 mg orally every 8 to 12 hours.
 
