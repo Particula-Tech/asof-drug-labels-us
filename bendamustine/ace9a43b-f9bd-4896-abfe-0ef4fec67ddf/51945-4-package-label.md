@@ -2,7 +2,7 @@ Principal Display Panel - Carton Label
 
 NDC 63459-348-04 Rx Only
 
-Sterile Multi-Use Vial
+Sterile Multi-Dose Vial
 
 BENDEKA™ (bendamustine HCl) Injection
 
@@ -24,7 +24,7 @@ GUJ/DRUGS/G/28/1304
 
 Principal Display Panel - Vial Label
 
-NDC 63459-348-04 Multi-Use Vial
+NDC 63459-348-04 Multi-Dose Vial
 
 Sterile Rx Only
 
