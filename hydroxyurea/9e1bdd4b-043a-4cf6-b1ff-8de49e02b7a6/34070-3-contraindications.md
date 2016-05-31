@@ -1,3 +1,3 @@
 # 4 CONTRAINDICATIONS
 
-Hydroxyurea is contraindicated in patients who have demonstrated a previous hypersensitivity to hydroxyurea or any other component of its formulation.
+Hydroxyurea capsules are contraindicated in patients who have demonstrated a previous hypersensitivity to hydroxyurea or any other component of the formulation.

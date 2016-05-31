@@ -2,4 +2,4 @@
 
 Capsules:
 
-- •500 mg opaque dark green opaque (cap) printed “724” in white ink/pink opaque (body) printed “par” in black ink capsules.
+- 500 mg dark green opaque (cap) printed “724” in white ink/ pink opaque (body) printed “par” in black ink.

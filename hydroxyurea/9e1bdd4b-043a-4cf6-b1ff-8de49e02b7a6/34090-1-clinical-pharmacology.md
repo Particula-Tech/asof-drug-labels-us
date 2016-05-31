@@ -2,11 +2,14 @@
 
 ## 12.1 Mechanism of Action
 
-The precise mechanism by which hydroxyurea produces its cytotoxic and cytoreductive effects is not known.
-However, various studies support the hypothesis that hydroxyurea causes an immediate inhibition of DNA synthesis by acting as a ribonucleotide reductase inhibitor, without interfering with the synthesis of ribonucleic acid or of protein.
+The precise mechanism by which hydroxyurea produces its antineoplastic effects cannot, at present, be described.
+However, the reports of various studies in tissue culture in rats and humans lend support to the hypothesis that hydroxyurea causes an immediate inhibition of DNA synthesis by acting as a ribonucleotide reductase inhibitor, without interfering with the synthesis of ribonucleic acid or of protein.
+This hypothesis explains why, under certain conditions, hydroxyurea may induce teratogenic effects.
 
-The mechanisms by which hydroxyurea capsules produces its beneficial effects in patients with sickle cell anemia (SCA) are uncertain.
-Known pharmacologic effects of hydroxyurea capsules that may contribute to its beneficial effects include increasing hemoglobin F levels in red blood cells (RBCs), decreasing neutrophils, increasing the water content of RBCs, increasing deformability of sickled cells, and altering the adhesion of RBCs to endothelium.
+Three mechanisms of action have been postulated for the increased effectiveness of concomitant use of hydroxyurea therapy with irradiation on squamous cell (epidermoid) carcinomas of the head and neck.
+In vitro studies utilizing Chinese hamster cells suggest that hydroxyurea (1) is lethal to normally radioresistant S-stage cells, and (2) holds other cells of the cell cycle in the G1 or pre-DNA synthesis stage where they are most susceptible to the effects of irradiation.
+The third mechanism of action has been theorized on the basis of in vitro studies of HeLa cells.
+It appears that hydroxyurea, by inhibition of DNA synthesis, hinders the normal repair process of cells damaged but not killed by irradiation, thereby decreasing their survival rate; RNA and protein synthesis have shown no alteration.
 
 ## 12.3 Pharmacokinetics
 
@@ -37,7 +40,6 @@ Renal Impairment
 
 The effect of renal impairment on the pharmacokinetics of hydroxyurea was assessed in adult patients with sickle cell disease and renal impairment.
 Patients with normal renal function (creatinine clearance [CrCl] >80 mL/min), mild (CrCl 50 to 80 mL/min), moderate (CrCl =30 to <50 mL/min), or severe (<30 mL/min) renal impairment received a single oral dose of 15 mg/kg hydroxyurea.
-Creatinine clearance values were obtained using 24-hour urine collections.
 Patients with ESRD received two doses of 15 mg/kg separated by 7 days; the first was given following a 4-hour hemodialysis session, the second prior to hemodialysis.
-The exposure to hydroxyurea (mean AUC) in patients with CrCl <60 mL/min and those with ESRD was 64% higher than in patients with normal renal function (CrCl > 60 mL/min).
-Reduce the dose of hydroxyurea capsules when it is administered to patients with creatinine clearance of < 60 mL/min or with ESRD following hemodialysis [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
+The exposure to hydroxyurea (mean AUC) in patients with CrCl <60 mL/min and those with ESRD was 64% higher than in patients with normal renal function (CrCl >60 mL/min).
+Reduce the dose of hydroxyurea capsules when it is administered to patients with creatinine clearance of <60 mL/min or with ESRD following hemodialysis [see Dosage and Administration (2.3) and Use in Specific Populations (8.6)].

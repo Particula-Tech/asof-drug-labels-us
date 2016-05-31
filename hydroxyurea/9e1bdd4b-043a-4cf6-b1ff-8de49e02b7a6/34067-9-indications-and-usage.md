@@ -1,3 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-Hydroxyurea capsules, USP is indicated to reduce the frequency of painful crises and to reduce the need for blood transfusions in patients with sickle cell anemia with recurrent moderate to severe painful crises.
+Hydroxyurea capsules, USP is indicated for the treatment of:
+
+- Resistant chronic myeloid leukemia.
+- Locally advanced squamous cell carcinomas of the head and neck (excluding the lip) in combination with chemoradiation.
