@@ -4,13 +4,13 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-In three, 12 week, double-blind, placebo-controlled, safety and efficacy studies in patients with overactive bladder (Studies 1, 2, and 3), MYRBETRIQ® was evaluated for safety in 2736 patients [see Clinical Studies (14)].
+In three, 12-week, double-blind, placebo-controlled, safety and efficacy studies in patients with overactive bladder (Studies 1, 2, and 3), MYRBETRIQ® was evaluated for safety in 2736 patients [see Clinical Studies (14)].
 Study 1 also included an active control.
 For the combined Studies 1, 2, and 3, 432 patients received MYRBETRIQ® 25 mg, 1375 received MYRBETRIQ® 50 mg, and 929 received MYRBETRIQ® 100 mg once daily.
 In these studies, the majority of the patients were Caucasian (94%), and female (72%) with a mean age of 59 years (range 18 to 95 years).
 
 MYRBETRIQ® was also evaluated for safety in 1632 patients who received MYRBETRIQ® 50 mg once daily (n=812 patients) or MYRBETRIQ® 100 mg (n=820 patients) in a 1 year, randomized, fixed dose, double-blind, active controlled, safety study in patients with overactive bladder (Study 4).
-Of these patients, 731 received MYRBETRIQ® in a previous 12 week study.
+Of these patients, 731 received MYRBETRIQ® in a previous 12-week study.
 In Study 4, 1385 patients received MYRBETRIQ® continuously for at least 6 months, 1311 patients received MYRBETRIQ® for at least 9 months, and 564 patients received MYRBETRIQ® for at least 1 year.
 
 The most frequent adverse events (0.2%) leading to discontinuation in Studies 1, 2 and 3 for the 25 mg or 50 mg dose were nausea, headache, hypertension, diarrhea, constipation, dizziness and tachycardia.
@@ -20,7 +20,7 @@ Atrial fibrillation (0.2%) and prostate cancer (0.1%) were reported as serious a
 Table 1 lists adverse reactions, derived from all adverse events, that were reported in Studies 1, 2 and 3 at an incidence greater than placebo and in 1% or more of patients treated with MYRBETRIQ® 25 mg or 50 mg once daily for up to 12 weeks.
 The most commonly reported adverse reactions (greater than 2% of MYRBETRIQ® patients and greater than placebo) were hypertension, nasopharyngitis, urinary tract infection and headache.
 
-Table 1: Percentages of Patients with Adverse Reactions, Derived from All Adverse Events, Exceeding Placebo Rate and Reported by 1% or More Patients Treated With MYRBETRIQ® 25 mg or 50 mg Once Daily in Studies 1, 2, and 3
+Table 1: Percentages of Patients with Adverse Reactions, Derived from All Adverse Events, Exceeding Placebo Rate and Reported by 1% or More Patients Treated with MYRBETRIQ® 25 mg or 50 mg Once Daily in Studies 1, 2, and 3
 
 |  | Placebo(%) | MYRBETRIQ® 25 mg (%) | MYRBETRIQ® 50 mg (%) |
 | --- | --- | --- | --- |
@@ -42,9 +42,9 @@ Other adverse reactions reported by less than 1% of patients treated with MYRBET
 Cardiac disorders: palpitations, blood pressure increased [see Clinical Pharmacology (12.2)] Eye disorders: glaucoma [see Clinical Pharmacology (12.2)] Gastrointestinal disorders: dyspepsia, gastritis, abdominal distension Infections and Infestations: sinusitis, rhinitis Investigations: GGT increased, AST increased, ALT increased, LDH increased Renal and urinary disorders: nephrolithiasis, bladder pain Reproductive system and breast disorders: vulvovaginal pruritus, vaginal infection Skin and subcutaneous tissue disorders: urticaria, leukocytoclastic vasculitis, rash, pruritus, purpura, lip edema
 
 Table 2 lists the rates of the most commonly reported adverse reactions, derived from all adverse events in patients treated with MYRBETRIQ® 50 mg for up to 52 weeks in Study 4.
-The most commonly reported adverse reactions (>3% of MYRBETRIQ® patients) were hypertension, urinary tract infection, headache, and nasopharyngitis.
+The most commonly reported adverse reactions (> 3% of MYRBETRIQ® patients) were hypertension, urinary tract infection, headache, and nasopharyngitis.
 
-Table 2: Percentages of Patients with Adverse Reactions, Derived from all Adverse Events, Reported by Greater Than 2% of Patients Treated With MYRBETRIQ® 50 mg Once Daily in Study 4
+Table 2: Percentages of Patients with Adverse Reactions, Derived from All Adverse Events, Reported by Greater Than 2% of Patients Treated with MYRBETRIQ® 50 mg Once Daily in Study 4
 
 |  | MYRBETRIQ® 50 mg (%) | Active Control(%) |
 | --- | --- | --- |

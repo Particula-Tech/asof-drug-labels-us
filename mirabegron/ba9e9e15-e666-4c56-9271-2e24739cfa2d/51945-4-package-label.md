@@ -2,7 +2,7 @@
 
 NDC 0469-2601-30
 
-MYRBETRIQ® (mirabegron) extended release tablets 25 mg
+Myrbetriq® (mirabegron) extended release tablets 25 mg
 
 Once-Daily
 
@@ -17,7 +17,7 @@ Rx Only
 
 NDC 0469-2602-30
 
-MYRBETRIQ® (mirabegron) extended release tablets 50 mg
+Myrbetriq® (mirabegron) extended release tablets 50 mg
 
 Once-Daily
 

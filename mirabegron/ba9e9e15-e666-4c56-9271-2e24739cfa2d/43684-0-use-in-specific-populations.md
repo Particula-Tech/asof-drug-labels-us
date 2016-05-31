@@ -50,7 +50,7 @@ No overall differences in safety or effectiveness were observed between patients
 
 ## 8.6 Renal Impairment
 
-MYRBETRIQ® has not been studied in patients with end stage renal disease (CLcr <15 mL/min or eGFR <15 mL/min/1.73 m2 or patients requiring hemodialysis), and, therefore is not recommended for use in these patient populations.
+MYRBETRIQ® has not been studied in patients with end stage renal disease (CLcr < 15 mL/min or eGFR < 15 mL/min/1.73 m2 or patients requiring hemodialysis), and, therefore is not recommended for use in these patient populations.
 
 In patients with severe renal impairment (CLcr 15 to 29 mL/min or eGFR 15 to 29 mL/min/1.73 m2), the daily dose of MYRBETRIQ® should not exceed 25 mg.
 No dose adjustment is necessary in patients with mild or moderate renal impairment (CLcr 30 to 89 mL/min or eGFR 30 to 89 mL/min/1.73 m2) [see Clinical Pharmacology (12.3)].

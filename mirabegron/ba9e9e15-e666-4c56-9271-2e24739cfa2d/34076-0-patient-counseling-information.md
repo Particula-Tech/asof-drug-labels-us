@@ -14,12 +14,12 @@ Rx Only
 
 PRODUCT OF JAPAN OR IRELAND – See bottle label or blister package for origin
 
-Manufactured by: Astellas Pharma Technologies, Inc. Norman, Oklahoma 73072
-
 Marketed and Distributed by: Astellas Pharma US, Inc. Northbrook, Illinois 60062
 
 MYRBETRIQ® is a registered trademark of Astellas Pharma Inc. All other trademarks or registered trademarks are the property of their respective owners.
 
 © 2015 Astellas Pharma US, Inc.
 
-Revised: November 2015 15C024-MIR
+Revised: December 2015
+
+15L110-MIR

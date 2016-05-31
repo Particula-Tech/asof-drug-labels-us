@@ -31,7 +31,7 @@ Increases in DBP were also dose-dependent, but were smaller than SBP.
 In another study in 96 healthy subjects to assess the impact of age on pharmacokinetics of multiple daily doses of 50 mg, 100 mg, 200 mg, and 300 mg of MYRBETRIQ® for 10 days, SBP also increased in a dose-dependent manner.
 The mean maximum increases in SBP were approximately 2.5, 4.5, 5.5 and 6.5 mm Hg for MYRBETRIQ® exposures associated with doses of 50 mg, 100 mg, 200 mg and 300 mg, respectively.
 
-In three, 12-week, double-blind, placebo-controlled, safety and efficacy studies (Studies 1, 2 and 3) in OAB patients receiving MYRBETRIQ® 25 mg, 50 mg, or 100 mg once daily, mean increases in SBP/DBP compared to placebo of approximately 0.5 - 1 mm Hg were observed.
+In three, 12-week, double-blind, placebo-controlled, safety and efficacy studies (Studies 1, 2 and 3) in OAB patients receiving MYRBETRIQ® 25 mg, 50 mg, or 100 mg once daily, mean increases in SBP/DBP compared to placebo of approximately 0.5 – 1 mm Hg were observed.
 Morning SBP increased by at least 15 mm Hg from baseline in 5.3%, 5.1%, and 6.7% of placebo, MYRBETRIQ® 25 mg and MYRBETRIQ® 50 mg patients, respectively.
 Morning DBP increased by at least 10 mm Hg in 4.6%, 4.1% and 6.6% of placebo, MYRBETRIQ® 25 mg, and MYRBETRIQ® 50 mg patients, respectively.
 Both SBP and DBP increases were reversible upon discontinuation of treatment.
