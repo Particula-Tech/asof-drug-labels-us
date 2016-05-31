@@ -69,10 +69,10 @@ Metabolism and nutrition disorders: decreased appetite, hyperkalemia;
 
 Dermatologic: exfoliative dermatitis and erythema multiforme;
 
-Eye disorders:glaucoma;
+Eye disorders: glaucoma;
 
-Gastrointestinal disorders:gastroesophageal reflux disease and ileus;
+Gastrointestinal disorders: gastroesophageal reflux disease and ileus;
 
 Respiratory, thoracic and mediastinal disorders: dysphonia;
 
-Musculoskeletal and connective tissue disorders: muscular weakness;
+Musculoskeletal and connective tissue disorders: muscular weakness.

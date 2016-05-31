@@ -10,7 +10,7 @@ VESIcare can be administered with or without food.
 
 ## 2.2 Dose Adjustment in Patients with Renal Impairment
 
-For patients with severe renal impairment (CLcr <30 mL/min), a daily dose of VESIcare greater than 5 mg is not recommended [see Warnings and Precautions (5.7); Use in Specific Populations (8.6)].
+For patients with severe renal impairment (CLcr < 30 mL/min), a daily dose of VESIcare greater than 5 mg is not recommended [see Warnings and Precautions (5.7); Use in Specific Populations (8.6)].
 
 ## 2.3 Dose Adjustment in Patients with Hepatic Impairment
 

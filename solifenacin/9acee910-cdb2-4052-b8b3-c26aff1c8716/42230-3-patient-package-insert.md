@@ -1,10 +1,6 @@
 # FDA Approved Patient Labeling
 
-VESIcare® (VES-ih-care)
-
-(solifenacin succinate)
-
-Tablet Read the Patient Information that comes with VESIcare before you start taking it and each time you get a refill.
+VESIcare® (VES-ih-care) (solifenacin succinate) Tablet Read the Patient Information that comes with VESIcare before you start taking it and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking with your doctor about your medical condition or treatment.
 What is VESIcare?
@@ -66,10 +62,10 @@ VESIcare may cause serious side effects including:
 
 - •Serious allergic reaction.
   Stop taking VESIcare and get medical help right away if you have:
-  - ºhives, skin rash or swelling
-  - ºsevere itching
-  - ºswelling of your face, mouth or tongue
-  - ºtrouble breathing
+  - ohives, skin rash or swelling
+  - osevere itching
+  - oswelling of your face, mouth or tongue
+  - otrouble breathing
 
 The most common side effects of VESIcare include:
 
@@ -81,11 +77,11 @@ The most common side effects of VESIcare include:
 - •heat exhaustion or heat-stroke.
   This can happen when VESIcare is used in hot environments.
   Symptoms may include:
-  - ºdecreased sweating
-  - ºdizziness
-  - ºtiredness
-  - ºnausea
-  - ºincrease in body temperature
+  - odecreased sweating
+  - odizziness
+  - otiredness
+  - onausea
+  - oincrease in body temperature
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 
@@ -117,7 +113,7 @@ What are the ingredients in VESIcare?
 
 Active ingredient: solifenacin succinate
 
-Inactive ingredients: lactose monohydrate, corn starch, hypromellose 2910, magnesium stearate, talc, polyethylene glycol 8000 and titanium dioxide with yellow ferric oxide (5 mg VESIcare tablet) or red ferric oxide (10 mg VESICARE tablet) What is overactive bladder?
+Inactive ingredients: lactose monohydrate, corn starch, hypromellose 2910, magnesium stearate, talc, polyethylene glycol 8000 and titanium dioxide with yellow ferric oxide (5 mg VESIcare tablet) or red ferric oxide (10 mg VESIcare tablet) What is overactive bladder?
 
 Overactive bladder occurs when you cannot control your bladder contractions.
 When these muscle contractions happen too often or cannot be controlled you can get symptoms of overactive bladder, which are urinary frequency, urinary urgency, and urinary incontinence (leakage).
@@ -125,16 +121,10 @@ Rx Only
 
 PRODUCT OF IRELAND
 
-Manufactured by:
+Marketed and Distributed by: Astellas Pharma US, Inc. Northbrook, IL 60062
 
-Astellas Pharma Technologies, Inc.
+VESIcare is a registered trademark of Astellas Pharma Inc.
 
-Norman, Oklahoma 73072
+© 2016 Astellas Pharma US, Inc.
 
-Marketed and Distributed by:
-
-Astellas Pharma US, Inc.
-
-Northbrook, IL 60062
-
-© 2012 Astellas Pharma US, Inc. Revised: October 2013 13C010-VES
+Revised: February 2016 16A001-VES

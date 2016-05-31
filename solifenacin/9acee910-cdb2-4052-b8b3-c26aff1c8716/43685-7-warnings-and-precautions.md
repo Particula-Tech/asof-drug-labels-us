@@ -39,7 +39,7 @@ Doses of VESIcare greater than 5 mg are not recommended in patients with moderat
 ## 5.7 Renal Impairment
 
 VESIcare should be used with caution in patients with renal impairment.
-Doses of VESIcare greater than 5 mg are not recommended in patients with severe renal impairment (CLcr <30 mL/min) [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
+Doses of VESIcare greater than 5 mg are not recommended in patients with severe renal impairment (CLcr < 30 mL/min) [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
 
 ## 5.8 Patients with Congenital or Acquired QT Prolongation
 

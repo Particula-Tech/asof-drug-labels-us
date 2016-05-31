@@ -41,7 +41,7 @@ Absorption
 
 After oral administration of VESIcare to healthy volunteers, peak plasma levels (Cmax) of solifenacin are reached within 3 to 8 hours after administration, and at steady state ranged from 32.3 to 62.9 ng/mL for the 5 and 10 mg VESIcare tablets, respectively.
 The absolute bioavailability of solifenacin is approximately 90%, and plasma concentrations of solifenacin are proportional to the dose administered.
-Effect of food
+Effect of Food
 
 VESIcare may be administered without regard to meals.
 A single 10 mg dose administration of VESIcare with food increased Cmax and AUC by 4% and 3%, respectively.
