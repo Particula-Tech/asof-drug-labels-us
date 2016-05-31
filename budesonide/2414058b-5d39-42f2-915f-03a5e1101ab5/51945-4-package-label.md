@@ -1,10 +1,12 @@
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel, Part 1 of 2
+
+# Package/Label Display Panel, Part 2 of 2
 
 ## Budesonide Inhalation Suspension, 0.25 mg/2 mL Carton Text
 
 NDC 0093-6815-73
 
-BUDESONIDE Inhalation Suspension
+Budesonide Inhalation Suspension
 
 0.25 mg/2 mL
 
@@ -25,13 +27,15 @@ Rx only
 
 TEVA
 
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel, Part 1 of 2
+
+# Package/Label Display Panel, Part 2 of 2
 
 ## Budesonide Inhalation Suspension, 0.5 mg/2 mL Carton Text
 
 NDC 0093-6816-73
 
-BUDESONIDE Inhalation Suspension
+Budesonide Inhalation Suspension
 
 0.5 mg/2 mL
 

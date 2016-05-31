@@ -12,9 +12,9 @@ The recommended starting dose and highest recommended dose of budesonide inhalat
 
 Dosing recommendations based on previous therapy are as follows:
 
-- Bronchodilators alone: 0.25 mg twice daily
-- Inhaled corticosteroids: 0.25 mg twice daily up to 0.5 mg twice daily
-- Oral corticosteroids: 0.5 mg twice daily
+1. •Bronchodilators alone: 0.25 mg twice daily
+2. •Inhaled corticosteroids: 0.25 mg twice daily up to 0.5 mg twice daily
+3. •Oral corticosteroids: 0.5 mg twice daily
 
 In all patients, it is desirable to downward-titrate to the lowest effective dose once asthma stability is achieved.
 

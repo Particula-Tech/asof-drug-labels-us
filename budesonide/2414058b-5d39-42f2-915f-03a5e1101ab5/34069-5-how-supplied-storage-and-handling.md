@@ -3,10 +3,10 @@
 Illustrated Patient's Instructions for Use accompany each package of budesonide inhalation suspension.
 
 Budesonide inhalation suspension, 0.25 mg/2 mL is supplied in a sealed aluminum foil envelope containing one plastic strip of five single-dose vials.
-Each single-dose vial contains 2 mL of sterile liquid suspension, supplied in unit-dose cartons of 30 vials (6 pouches × 5 vials).
+Each single-dose vial contains 2 mL of sterile liquid suspension, supplied in unit-dose cartons of 30 vials (6 pouches × 5 vials) (NDC 0093-6815-73).
 
 Budesonide inhalation suspension, 0.5 mg/2 mL is supplied in a sealed aluminum foil envelope containing one plastic strip of five single-dose vials.
-Each single-dose vial contains 2 mL of sterile liquid suspension, supplied in unit-dose cartons of 30 vials (6 pouches × 5 vials).
+Each single-dose vial contains 2 mL of sterile liquid suspension, supplied in unit-dose cartons of 30 vials (6 pouches × 5 vials) (NDC 0093-6816-73).
 
 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 Store upright and protect from light.

@@ -2,14 +2,14 @@
 
 Systemic and inhaled corticosteroid use may result in the following:
 
-- Candida albicans infection [see Warnings and Precautions (5.1)]
-- Hypersensitivity reactions including anaphylaxis [see Warnings and Precautions (5.3)]
-- Immunosuppression [see Warnings and Precautions (5.4)]
-- Hypercorticism and adrenal suppression [see Warnings and Precautions (5.6)]
-- Reduction in bone mineral density [see Warnings and Precautions (5.7)]
-- Growth effects in pediatric patients [see Warnings and Precautions (5.8) and Use in Specific Populations, Pediatric Use (8.4)]
-- Glaucoma, increased intraocular pressure and cataracts [see Warnings and Precautions (5.9)]
-- Eosinophilic conditions and Churg-Strauss syndrome [see Warnings and Precautions (5.11)]
+1. •Candida albicans infection [see Warnings and Precautions (5.1)]
+2. •Hypersensitivity reactions including anaphylaxis [see Warnings and Precautions (5.3)]
+3. •Immunosuppression [see Warnings and Precautions (5.4)]
+4. •Hypercorticism and adrenal suppression [see Warnings and Precautions (5.6)]
+5. •Reduction in bone mineral density [see Warnings and Precautions (5.7)]
+6. •Growth effects in pediatric patients [see Warnings and Precautions (5.8) and Use in Specific Populations, Pediatric Use (8.4)]
+7. •Glaucoma, increased intraocular pressure and cataracts [see Warnings and Precautions (5.9)]
+8. •Eosinophilic conditions and Churg-Strauss syndrome [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -49,11 +49,11 @@ Table 1 - Adverse Reactions occurring at an incidence of ≥3% in at least one a
 | Skin and Appendages Disorders |  |  |  |  |
 | Rash | 3 | <1 | 4 | 2 |
 
-The information below includes all adverse reactions by system organ class with an incidence of 1 to < 3%, in at least one budesonide inhalation suspension treatment group where the incidence was higher with budesonide inhalation suspension than with placebo, regardless of relationship to treatment.
+The information below includes all adverse reactions by system organ class with an incidence of 1 to <3%, in at least one budesonide inhalation suspension treatment group where the incidence was higher with budesonide inhalation suspension than with placebo, regardless of relationship to treatment.
 
 Blood and lymphatic system disorders: cervical lymphadenopathy
 
-Ear and labyrinth disorders:earache
+Ear and labyrinth disorders: earache
 
 General disorders and administration site conditions: fatigue, flu-like disorder
 
@@ -71,7 +71,9 @@ Nervous system disorders: hyperkinesia
 
 Psychiatric disorders: emotional lability
 
-Respiratory, thoracic, and mediastinal disorders: chest pain, dysphonia, stridorSkin and subcutaneous tissue disorders: contact dermatitis, eczema, pustular rash, pruritus, purpura
+Respiratory, thoracic, and mediastinal disorders: chest pain, dysphonia, stridor
+
+Skin and subcutaneous tissue disorders: contact dermatitis, eczema, pustular rash, pruritus, purpura
 
 The incidence of reported adverse events was similar between the 447 budesonide inhalation suspension-treated (mean total daily dose 0.5 to 1 mg) and 223 conventional therapy-treated pediatric asthma patients followed for one year in three open-label studies.
 

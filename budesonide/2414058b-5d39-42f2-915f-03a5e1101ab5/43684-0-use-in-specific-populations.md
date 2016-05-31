@@ -7,8 +7,8 @@
 #### Pregnancy category B
 
 Studies of pregnant women, have not shown that inhaled budesonide increases the risk of abnormalities when administered during pregnancy.
-The results from a large population-based prospective cohort epidemiological study reviewing data from three Swedish registries covering approximately 99% of the pregnancies from 1995-1997 (ie, Swedish Medical Birth Registry; Registry of Congenital Malformations; Child Cardiology Registry) indicate no increased risk for congenital malformations from the use of inhaled budesonide during early pregnancy.
-Congenital malformations were studied in 2014 infants born to mothers reporting the use of inhaled budesonide for asthma in early pregnancy (usually 10-12 weeks after the last menstrual period), the period when most major organ malformations occur.
+The results from a large population-based prospective cohort epidemiological study reviewing data from three Swedish registries covering approximately 99% of the pregnancies from 1995 to 1997 (ie, Swedish Medical Birth Registry; Registry of Congenital Malformations; Child Cardiology Registry) indicate no increased risk for congenital malformations from the use of inhaled budesonide during early pregnancy.
+Congenital malformations were studied in 2014 infants born to mothers reporting the use of inhaled budesonide for asthma in early pregnancy (usually 10 to 12 weeks after the last menstrual period), the period when most major organ malformations occur.
 The rate of recorded congenital malformations was similar compared to the general population rate (3.8% vs. 3.5%, respectively).
 In addition, after exposure to inhaled budesonide, the number of infants born with orofacial clefts was similar to the expected number in the normal population (4 children vs. 3.3, respectively).
 
@@ -24,7 +24,7 @@ In another study in rats, no teratogenic or embryocidal effects were seen at inh
 
 Experience with oral corticosteroids since their introduction in pharmacologic, as opposed to physiologic, doses suggests that rodents are more prone to teratogenic effects from corticosteroids than humans.
 
-### Non-teratogenic Effects:
+### Non-teratogenic Effects
 
 Hypoadrenalism may occur in infants born of mothers receiving corticosteroids during pregnancy.
 Such infants should be carefully observed.
@@ -59,7 +59,7 @@ This effect has been observed in the absence of laboratory evidence of hypothala
 The long-term effects of this reduction in growth velocity associated with orally inhaled corticosteroids, including the impact on final adult height, are unknown.
 The potential for “catch up” growth following discontinuation of treatment with orally inhaled corticosteroids has not been adequately studied.
 
-In a study of asthmatic children 5-12 years of age, those treated with budesonide administered via a dry powder inhaler 200 mcg twice daily (n=311) had a 1.1-centimeter reduction in growth compared with those receiving placebo (n=418) at the end of one year; the difference between these two treatment groups did not increase further over three years of additional treatment.
+In a study of asthmatic children 5 to 12 years of age, those treated with budesonide administered via a dry powder inhaler 200 mcg twice daily (n=311) had a 1.1-centimeter reduction in growth compared with those receiving placebo (n=418) at the end of one year; the difference between these two treatment groups did not increase further over three years of additional treatment.
 By the end of four years, children treated with the budesonide dry powder inhaler and children treated with placebo had similar growth velocities.
 Conclusions drawn from this study may be confounded by the unequal use of corticosteroids in the treatment groups and inclusion of data from patients attaining puberty during the course of the study.
 

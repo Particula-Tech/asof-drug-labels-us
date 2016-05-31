@@ -20,9 +20,9 @@ Acute symptoms should be treated with an inhaled, short-acting beta2-agonist suc
 (The healthcare professional should provide that patient with such medication and instruct the patient in how it should be used.)
 Patients should be instructed to notify their healthcare professional immediately if they experience any of the following:
 
-- Decreasing effectiveness of inhaled, short-acting beta2-agonists
-- Need for more inhalations than usual of inhaled, short- acting beta2-agonists
-- Significant decrease in lung function as outlined by the physician
+1. •Decreasing effectiveness of inhaled, short-acting beta2-agonists
+2. •Need for more inhalations than usual of inhaled, short-acting beta2-agonists
+3. •Significant decrease in lung function as outlined by the physician
 
 Patients should not stop therapy with budesonide inhalation suspension without physician/provider guidance since symptoms may recur after discontinuation [see Warnings and Precautions (5.2)]
 
@@ -66,11 +66,9 @@ If symptoms do not improve in that time frame or if the condition worsens, patie
 
 See accompanying Patient Information and Instructions for Use.
 
-Manufactured In England By: IVAX PHARMACEUTICALS UK Runcorn, Cheshire WA7 3FA England
+Manufactured In England By: Norton Healthcare Limited T/A IVAX Pharmaceuticals UK Runcorn, Cheshire WA7 3FA England
 
-Manufactured For: TEVA PHARMACEUTICALS USA Sellersville, PA 18960
-
-BUDESONIDE INHALATION SUSPENSION
+Manufactured For: TEVA PHARMACEUTICALS USA, INC. North Wales, PA 19454
 
 Rev.
-E 9/2011
+F 2/2016

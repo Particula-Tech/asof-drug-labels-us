@@ -17,7 +17,7 @@ Corticosteroids have been shown to have a wide range of inhibitory activities ag
 The anti-inflammatory actions of corticosteroids may contribute to their efficacy in asthma.
 
 Studies in asthmatic patients have shown a favorable ratio between topical anti-inflammatory activities and systemic corticosteroid effects over a wide dose range of inhaled budesonide in a variety of formulations and delivery systems including an inhalation-driven, multi-dose dry powder inhaler and the inhalation suspension for nebulization.
-This is explained by a combination of a relatively high local anti-inflammatory effect, extensive first pass hepatic degradation of orally absorbed drug (85-95%) and the low potency of metabolites (see below).
+This is explained by a combination of a relatively high local anti-inflammatory effect, extensive first pass hepatic degradation of orally absorbed drug (85 to 95%) and the low potency of metabolites (see below).
 
 ## 12.2 Pharmacodynamics
 
@@ -26,7 +26,7 @@ To confirm that systemic absorption is not a significant factor in the clinical 
 The study demonstrated the efficacy of inhaled budesonide but not orally administered budesonide, even though systemic budesonide exposure was comparable for both treatments, indicating that the inhaled treatment is working locally in the lung.
 Thus, the therapeutic effect of conventional doses of orally inhaled budesonide are largely explained by its direct action on the respiratory tract.
 
-Improvement in the control of asthma symptoms following inhalation of budesonide inhalation suspension can occur within 2-8 days of beginning treatment, although maximum benefit may not be achieved for 4-6 weeks.
+Improvement in the control of asthma symptoms following inhalation of budesonide inhalation suspension can occur within 2 to 8 days of beginning treatment, although maximum benefit may not be achieved for 4 to 6 weeks.
 
 Budesonide administered via a dry powder inhaler has been shown in various challenge models (including histamine, methacholine, sodium metabisulfite, and adenosine monophosphate) to decrease bronchial hyperresponsiveness in asthmatic patients.
 The clinical relevance of these models is not certain.
@@ -48,7 +48,7 @@ In 4 of these patients receiving budesonide inhalation suspension, the cortisol 
 
 The effects of budesonide inhalation suspension at doses of 0.5 mg twice daily, and 1 mg and 2 mg twice daily (2 times and 4 times the highest recommended total daily dose, respectively) on 24-hour urinary cortisol excretion were studied in 18 patients between 6 to 15 years of age with persistent asthma in a cross-over study design (4 weeks of treatment per dose level).
 There was a dose-related decrease in urinary cortisol excretion at 2 and 4 times the recommended daily dose.
-The two higher doses of budesonide inhalation suspension (1 and 2 mg twice daily) showed statistically significantly reduced (43-52%) urinary cortisol excretion compared to the run-in period.
+The two higher doses of budesonide inhalation suspension (1 and 2 mg twice daily) showed statistically significantly reduced (43 to 52%) urinary cortisol excretion compared to the run-in period.
 The highest recommended dose of budesonide inhalation suspension, 1 mg total daily dose, did not show statistically significantly reduced urinary cortisol excretion compared to the run-in period.
 
 Budesonide inhalation suspension, like other inhaled corticosteroid products, may impact the HPA axis, especially in susceptible individuals, in younger children, and in patients given high doses for prolonged periods [see Warnings and Precautions (5.5)].
@@ -57,15 +57,15 @@ Budesonide inhalation suspension, like other inhaled corticosteroid products, ma
 
 Absorption:
 
-In asthmatic children 4-6 years of age, the total absolute bioavailability (ie, lung + oral) following administration of budesonide inhalation suspension via jet nebulizer was approximately 6% of the labeled dose.
+In asthmatic children 4 to 6 years of age, the total absolute bioavailability (ie, lung + oral) following administration of budesonide inhalation suspension via jet nebulizer was approximately 6% of the labeled dose.
 
 In children, a peak plasma concentration of 2.6 nmol/L was obtained approximately 20 minutes after nebulization of a 1 mg dose.
 Systemic exposure, as measured by AUC and Cmax, is similar for young children and adults after inhalation of the same dose of budesonide inhalation suspension.
 
 Distribution:
 
-In asthmatic children 4-6 years of age, the volume of distribution at steady-state of budesonide was 3 L/kg, approximately the same as in healthy adults.
-Budesonide is 85-90% bound to plasma proteins, the degree of binding being constant over the concentration range (1-100 nmol/L) achieved with, and exceeding, recommended doses.
+In asthmatic children 4 to 6 years of age, the volume of distribution at steady-state of budesonide was 3 L/kg, approximately the same as in healthy adults.
+Budesonide is 85 to 90% bound to plasma proteins, the degree of binding being constant over the concentration range (1 to 100 nmol/L) achieved with, and exceeding, recommended doses.
 Budesonide showed little or no binding to corticosteroid-binding globulin.
 Budesonide rapidly equilibrated with red blood cells in a concentration independent manner with a blood/plasma ratio of about 0.8.
 
@@ -84,7 +84,7 @@ Budesonide is excreted in urine and feces in the form of metabolites.
 In adults, approximately 60% of an intravenous radiolabeled dose was recovered in the urine.
 No unchanged budesonide was detected in the urine.
 
-In asthmatic children 4-6 years of age, the terminal half-life of budesonide after nebulization is 2.3 hours, and the systemic clearance is 0.5 L/min, which is approximately 50% greater than in healthy adults after adjustment for differences in weight.
+In asthmatic children 4 to 6 years of age, the terminal half-life of budesonide after nebulization is 2.3 hours, and the systemic clearance is 0.5 L/min, which is approximately 50% greater than in healthy adults after adjustment for differences in weight.
 
 Special Populations:
 

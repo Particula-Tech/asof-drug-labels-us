@@ -6,4 +6,4 @@ Budesonide inhalation suspension is indicated for the maintenance treatment of a
 
 Important Limitations of Use:
 
-- Budesonide inhalation suspension is NOT indicated for the relief of acute bronchospasm.
+1. •Budesonide inhalation suspension is NOT indicated for the relief of acute bronchospasm.
