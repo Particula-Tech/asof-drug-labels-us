@@ -1,0 +1,3 @@
+# PRINCIPAL DISPLAY PANEL
+
+NDC 30698-277-01 Hiprex 1 gram 100 Tablets Rx Only

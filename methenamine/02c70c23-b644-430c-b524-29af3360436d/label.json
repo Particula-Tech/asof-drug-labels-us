@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA017681"
+  ],
+  "inn": "methenamine",
+  "labeler": "Validus Pharmaceuticals LLC",
+  "package_ndcs": [
+    "30698-277-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "methenamine hippurate",
+      "name": "HIPREX"
+    }
+  ],
+  "setid": "02c70c23-b644-430c-b524-29af3360436d",
+  "source": "dailymed"
+}
