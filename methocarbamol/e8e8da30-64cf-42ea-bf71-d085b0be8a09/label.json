@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA206128"
+  ],
+  "inn": "methocarbamol",
+  "labeler": "AuroMedics Pharma LLC",
+  "package_ndcs": [
+    "55150-223-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "methocarbamol",
+      "name": "Methocarbamol"
+    }
+  ],
+  "setid": "e8e8da30-64cf-42ea-bf71-d085b0be8a09",
+  "source": "dailymed"
+}
