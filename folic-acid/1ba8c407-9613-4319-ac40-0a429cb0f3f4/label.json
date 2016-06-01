@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA040796"
+  ],
+  "inn": "folic-acid",
+  "labeler": "Leading Pharma, LLC",
+  "package_ndcs": [
+    "69315-127-01",
+    "69315-127-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "folic acid",
+      "name": "Folic Acid"
+    }
+  ],
+  "setid": "1ba8c407-9613-4319-ac40-0a429cb0f3f4",
+  "source": "dailymed"
+}
