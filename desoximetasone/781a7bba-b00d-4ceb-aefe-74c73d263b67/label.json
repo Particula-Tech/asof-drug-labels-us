@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA206792"
+  ],
+  "inn": "desoximetasone",
+  "labeler": "Novel Laboratories, Inc.",
+  "package_ndcs": [
+    "40032-024-60",
+    "40032-024-61"
+  ],
+  "products": [
+    {
+      "form": "OINTMENT",
+      "generic": "desoximetasone",
+      "name": "Desoximetasone"
+    }
+  ],
+  "setid": "781a7bba-b00d-4ceb-aefe-74c73d263b67",
+  "source": "dailymed"
+}
