@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA207322"
+  ],
+  "inn": "polymyxin-b",
+  "labeler": "Gland Pharma Limited",
+  "package_ndcs": [
+    "68083-174-01",
+    "68083-174-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "polymyxin b sulfate",
+      "name": "POLYMYXIN B"
+    }
+  ],
+  "setid": "dc74dee2-1d0b-4fab-a29b-1755fdb5da75",
+  "source": "dailymed"
+}
