@@ -1,14 +1,24 @@
 # HOW SUPPLIED
 
-Lithium Carbonate Extended Release Tablets USP, 450 mg are supplied as round, speckled off-white to yellow, biconvex tablets debossed with "54 346" on one side and scored on the other side, in bottles of 100.
-The tablets meet the requirements of USP Dissolution Test 2 in the USP monograph for Lithium Carbonate Extended Release Tablets USP.
+Lithium Carbonate Extended-release Tablets USP
 
-0054-0020-25 450 mg speckled off-white to yellow tablet, bottle of 100
+450 mg tablets are supplied as speckled, off-white to yellow, round biconvex tablets with “54 346” debossed on one side and scored on the other side.
 
-## Storage Conditions
+NDC 0054-0020-25: Bottle of 100 Tablets
 
-Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
+Storage Conditions
 
-10002294/04 Revised December 2011
+Store at 20° to 25°C (68° to 77°F).
+[See USP Controlled Room Temperature.]
+Protect from moisture.
+Dispense in a tight, child-resistant container as defined in the USP/NF.
 
-© RLI, 2011
+Distr. by: West-Ward
+
+Pharmaceuticals Corp.
+
+Eatontown, NJ 07724
+
+10002294/05
+
+Revised March 2016

@@ -87,7 +87,7 @@ In addition to sweating and diarrhea, concomitant infection with elevated temper
 
 Previously existing underlying thyroid disorders do not necessarily constitute a contraindication to lithium treatment; where hypothyroidism exists, careful monitoring of thyroid function during lithium stabilization and maintenance allows for correction of changing thyroid parameters, if any; where hypothyroidism occurs during lithium stabilization and maintenance, supplemental thyroid treatment may be used.
 
-## Information for the Patient
+## Information for the Patients
 
 A condition known as Brugada Syndrome may pre-exist and be unmasked by lithium therapy.
 Brugada Syndrome is a heart disorder characterized by abnormal electrocardiographic (ECG) findings and risk of sudden death.
