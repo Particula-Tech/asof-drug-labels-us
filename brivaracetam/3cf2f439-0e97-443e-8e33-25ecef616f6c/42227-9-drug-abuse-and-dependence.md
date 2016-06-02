@@ -2,7 +2,7 @@
 
 ## 9.1 Controlled Substance
 
-BRIVIACT contains brivaracetam (schedule to be determined after DEA review).
+BRIVIACT contains brivaracetam and is listed as a Schedule V controlled substance.
 
 ## 9.2 Abuse
 

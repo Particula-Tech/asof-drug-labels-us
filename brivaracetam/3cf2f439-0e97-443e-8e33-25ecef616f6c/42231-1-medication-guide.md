@@ -1,10 +1,10 @@
 # MEDICATION GUIDE
 
-BRIVIACT® (briv ee akt) (brivaracetam) tablets, oral solution, and injection for intravenous use
+BRIVIACT® (briv ee akt) CV (brivaracetam) tablets, oral solution, and injection for intravenous use
 
 What is the most important information I should know about BRIVIACT?
 
-BRIVIACT is a federally controlled substance (insert schedule after DEA review) because it can be abused or lead to dependence.
+BRIVIACT is a federally controlled substance (CV) because it can be abused or lead to dependence.
 Keep BRIVIACT in a safe place to prevent misuse and abuse.
 Selling or giving away BRIVIACT may harm others and is against the law.
 
@@ -156,4 +156,4 @@ All rights reserved.
 For more information, go to www.BRIVIACT.com or call 1-844-599-2273.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Issued: 2/2016
+Issued: 03/2016
