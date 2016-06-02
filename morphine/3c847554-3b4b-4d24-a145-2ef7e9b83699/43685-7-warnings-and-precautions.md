@@ -34,7 +34,7 @@ Morphine sulfate may be expected to have additive effects when used in conjuncti
 In the presence of head injury, intracranial lesions or a preexisting increase in intracranial pressure, the possible respiratory depressant effects of morphine sulfate and its potential to elevate cerebrospinal fluid pressure (resulting from vasodilation following CO2 retention) may be markedly exaggerated.
 Furthermore, morphine sulfate can produce effects on pupillary response and consciousness, which may obscure neurologic signs of further increases in intracranial pressure in patients with head injuries.
 
-## 5.5 Hypotensive Effect
+## 5.5 Hypotensive Effects
 
 Morphine sulfate may cause severe hypotension in an individual whose ability to maintain blood pressure has already been compromised by a depleted blood volume or concurrent administration of drugs such as phenothiazines or general anesthetics.
 Morphine sulfate may produce orthostatic hypotension and syncope in ambulatory patients.

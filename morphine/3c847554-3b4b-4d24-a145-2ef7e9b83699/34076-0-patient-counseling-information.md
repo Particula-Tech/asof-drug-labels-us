@@ -22,10 +22,12 @@ Provide the following information to patients receiving morphine sulfate or thei
 - •Advise patients taking morphine sulfate of the potential for severe constipation; appropriate laxatives and/or stool softeners as well as other appropriate treatments should be initiated from the onset of opioid therapy.
 - •Advise patients of the most common adverse events that may occur while taking morphine sulfate: constipation, nausea, somnolence, lightheadedness, dizziness, sedation, vomiting, and sweating.
 
-Roxane Laboratories, Inc.
+Distr. by: West-Ward
 
-Columbus, Ohio 43216
+Pharmaceuticals Corp.
 
-10004596/05 Revised October 2014
+Eatontown, NJ 07724
 
-©RLI, 2014
+10004596/06
+
+Revised March 2016

@@ -27,7 +27,7 @@ During periods of changing analgesic requirements, including initial titration, 
 
 Start patients who have not been receiving opioid analgesics on morphine sulfate in the following dosing range using tablets, 15 mg or 30 mg strengths:
 
-Morphine Sulfate Tablets: 15 to 30 mg every 4 hours as needed for pain.
+Morphine sulfate tablets: 15 to 30 mg every 4 hours as needed for pain.
 
 Titrate the dose based upon the individual patient’s response to their initial dose of morphine sulfate.
 Adjust the dose to an acceptable level of analgesia taking into account the improvement in pain intensity and the tolerability of the morphine by the patient.
@@ -51,7 +51,7 @@ Physicians and other healthcare professionals are advised to refer to published 
 
 Conversion From Controlled-Release Oral Morphine to Oral Morphine Sulfate
 
-For a given dose, the same total amount of morphine sulfate is available from Morphine Sulfate Tablets, Morphine Sulfate Oral Solution, and controlled-release and extended-release morphine capsules.
+For a given dose, the same total amount of morphine sulfate is available from morphine sulfate tablets, morphine sulfate oral solution, and controlled-release and extended-release morphine capsules.
 The extended duration of release of morphine sulfate from controlled-release tablets or extended-release tablets results in reduced maximum and increased minimum plasma morphine sulfate concentrations than with shorter acting morphine sulfate products.
 Conversion from oral solution or immediate-release tablets to the same total daily dose of controlled-release tablets or extended-release tablets could lead to excessive sedation at peak serum levels.
 Therefore, dosage adjustment with close observation is necessary.
