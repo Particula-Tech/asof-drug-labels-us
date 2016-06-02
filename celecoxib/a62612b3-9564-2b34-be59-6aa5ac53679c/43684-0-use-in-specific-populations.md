@@ -1,30 +1,46 @@
-# 8. USE IN SPECIFIC POPULATIONS
+# 8 USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
 Pregnancy Category C. Pregnancy category D from 30 weeks of gestation onward.
 
-Teratogenic effects: Celecoxib at oral doses ≥150 mg/kg/day (approximately 2-fold human exposure at 200 mg twice daily as measured by AUC0–24), caused an increased incidence of ventricular septal defects, a rare event, and fetal alterations, such as ribs fused, sternebrae fused and sternebrae misshapen when rabbits were treated throughout organogenesis.
-A dose-dependent increase in diaphragmatic hernias was observed when rats were given celecoxib at oral doses ≥30 mg/kg/day (approximately 6-fold human exposure based on the AUC0–24 at 200 mg twice daily) throughout organogenesis.
-There are no studies in pregnant women.
-Celecoxib should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Risk Summary Use of NSAIDs, including celecoxib capsules, during the third trimester of pregnancy increases the risk of premature closure of the fetal ductus arteriosus.
+Avoid use of NSAIDs, including celecoxib capsules, in pregnant women starting at 30 weeks of gestation.
 
-Nonteratogenic effects: Celecoxib produced pre implantation and post-implantation losses and reduced embryo/fetal survival in rats at oral dosages ≥50 mg/kg/day (approximately 6-fold human exposure based on the AUC0–24 at 200 mg twice daily).
-These changes are expected with inhibition of prostaglandin synthesis and are not the result of permanent alteration of female reproductive function, nor are they expected at clinical exposures.
-No studies have been conducted to evaluate the effect of celecoxib on the closure of the ductus arteriosus in humans.
-Therefore, use of celecoxib during the third trimester of pregnancy should be avoided.
+There are no adequate and well-controlled studies of celecoxib capsules in pregnant women.
+Data from observational studies regarding potential embryofetal risks of NSAID use in women in the first or second trimesters of pregnancy are inconclusive.
+In the general U.S. population, all clinically recognized pregnancies, regardless of drug exposure, have a background rate of 2 to 4% for major malformations, and 15 to 20% for pregnancy loss.
+In animal reproduction studies, embryo-fetal deaths and an increase in diaphragmatic hernias were observed in rats administered celecoxib daily during the period of organogenesis at oral doses approximately 6 times the maximum recommended human dose of 200 mg twice daily.
+In addition, structural abnormalities (e.g., septal defects, ribs fused, sternebrae fused and sternebrae misshapen) were observed in rabbits given daily oral doses of celecoxib during the period of organogenesis at approximately 2 times the MRHD [see Data].
+Based on animal data, prostaglandins have been shown to have an important role in endometrial vascular permeability, blastocyst implantation, and decidualization.
+In animal studies, administration of prostaglandin synthesis inhibitors such as celecoxib, resulted in increased pre- and post- implantation loss.
 
-## 8.2 Labor and Delivery
+Clinical Considerations Labor or Delivery There are no studies on the effects of celecoxib capsules during labor or delivery.
+In animal studies, NSAIDs, including celecoxib, inhibit prostaglandin synthesis, cause delayed parturition, and increase the incidence of stillbirth.
 
-Celecoxib produced no evidence of delayed labor or parturition at oral doses up to 100 mg/kg in rats (approximately 7-fold human exposure as measured by the AUC0–24 at 200 mg BID).
+Data Human Data The available data do not establish the presence or absence of developmental toxicity related to the use of celecoxib capsules.
+
+Animal data Celecoxib at oral doses ≥150 mg/kg/day (approximately 2 times the human exposure at 200 mg twice daily as measured by AUC0-24), caused an increased incidence of ventricular septal defects, a rare event, and fetal alterations, such as ribs fused, sternebrae fused and sternebrae misshapen when rabbits were treated throughout organogenesis.
+A dose-dependent increase in diaphragmatic hernias was observed when rats were given celecoxib at oral doses ≥30 mg/kg/day (approximately 6 times human exposure based on the AUC0-24 at 200 mg twice daily for RA) throughout organogenesis.
+In rats, exposure to celecoxib during early embryonic development resulted in pre-implantation and post-implantation losses at oral doses ≥50 mg/kg/day (approximately 6 times human exposure based on the AUC0-24 at 200 mg twice daily for RA).
+
+Celecoxib produced no evidence of delayed labor or parturition at oral doses up to 100 mg/kg in rats (approximately 7-fold human exposure as measured by the AUC0-24 at 200 mg twice daily).
 The effects of celecoxib on labor and delivery in pregnant women are unknown.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-Limited data from 3 published reports that included a total of 12 breastfeeding women showed low levels of celecoxib in breast milk.
+Risk Summary Limited data from 3 published reports that included a total of 12 breastfeeding women showed low levels of celecoxib in breast milk.
 The calculated average daily infant dose was 10 to 40 mcg/kg/day, less than 1% of the weight-based therapeutic dose for a two-year old-child.
 A report of two breastfed infants 17 and 22 months of age did not show any adverse events.
 Caution should be exercised when celecoxib is administered to a nursing woman.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for celecoxib capsules and any potential adverse effects on the breastfed infant from the celecoxib capsules or from the underlying maternal condition.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Infertility Females Based on the mechanism of action, the use of prostaglandin-mediated NSAIDs, including celecoxib capsules, may delay or prevent rupture of ovarian follicles, which has been associated with reversible infertility in some women.
+Published animal studies have shown that administration of prostaglandin synthesis inhibitors has the potential to disrupt prostaglandin mediated follicular rupture required for ovulation.
+Small studies in women treated with NSAIDs have also shown a reversible delay in ovulation.
+Consider withdrawal of NSAIDs, including celecoxib capsules, in women who have difficulties conceiving or who are undergoing investigation of infertility.
 
 ## 8.4 Pediatric Use
 
@@ -36,12 +52,15 @@ The use of celecoxib in patients 2 years to 17 years of age with pauciarticular,
 Celecoxib has not been studied in patients under the age of 2 years, in patients with body weight less than 10 kg (22 lbs), and in patients with active systemic features.
 Patients with systemic onset JRA (without active systemic features) appear to be at risk for the development of abnormal coagulation laboratory tests.
 In some patients with systemic onset JRA, both celecoxib and naproxen were associated with mild prolongation of activated partial thromboplastin time (APTT) but not prothrombin time (PT).
-NSAIDs including celecoxib should be used only with caution in patients with systemic onset JRA, due to the risk of disseminated intravascular coagulation.
-Patients with systemic onset JRA should be monitored for the development of abnormal coagulation tests [see Dosage and Administration (2.3), Warnings and Precautions (5.12), Adverse Reactions (6.3), Animal Toxicology (13.2), Clinical Studies (14.3)].
+When NSAIDs including celecoxib are used in patients with systemic onset JRA, monitor patients for signs and symptoms of abnormal clotting or bleeding, due to the risk of disseminated intravascular coagulation.
+Patients with systemic onset JRA should be monitored for the development of abnormal coagulation tests [see Dosage and Administration (2.4), Warnings and Precautions (5.12), Adverse Reactions (6.3), Animal Toxicology (13.2), Clinical Studies (14.3)].
 
-Alternative therapies for treatment of JRA should be considered in pediatric patients identified to be CYP2C9 poor metabolizers [see Poor Metabolizers of CYP2C9 substrates (8.8)].
+Alternative therapies for treatment of JRA should be considered in pediatric patients identified to be CYP2C9 poor metabolizers [see Poor Metabolizers of CYP2C9 substrates(8.8)].
 
 ## 8.5 Geriatric Use
+
+Elderly patients, compared to younger patients, are at greater risk for NSAID-associated serious cardiovascular, gastrointestinal, and/or renal adverse reactions.
+If the anticipated benefit for the elderly patient outweighs these potential risks, start dosing at the low end of the dosing range, and monitor patients for adverse effects [see Warnings and Precautions (5.1, 5.2, 5.3, 5.6, 5.13)].
 
 Of the total number of patients who received celecoxib in pre-approval clinical trials, more than 3,300 were 65 to 74 years of age, while approximately 1,300 additional patients were 75 years and over.
 No substantial differences in effectiveness were observed between these subjects and younger subjects.
@@ -59,7 +78,6 @@ Celecoxib is not recommended in patients with severe renal insufficiency [see Wa
 
 ## 8.8 Poor Metabolizers of CYP2C9 Substrates
 
-Patients who are known or suspected to be poor CYP2C9 metabolizers based on genotype or previous history/experience with other CYP2C9 substrates (such as warfarin, phenytoin) should be administered celecoxib with caution.
-Consider starting treatment at half the lowest recommended dose in poor metabolizers (i.e., CYP2C9*3/*3).
+In patients who are known or suspected to be poor CYP2C9 metabolizers (i.e., CYP2C9*3/*3), based on genotype or previous history/experience with other CYP2C9 substrates (such as warfarin, phenytoin) administer celecoxib capsules starting with half the lowest recommended dose.
 Alternative management should be considered in JRA patients identified to be CYP2C9 poor metabolizers.
 [see Dosage and Administration (2.6) and Clinical Pharmacology (12.5)].

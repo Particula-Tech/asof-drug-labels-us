@@ -1,4 +1,4 @@
-# 14. CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
 ## 14.1 Osteoarthritis
 
@@ -24,7 +24,7 @@ Doses of 400 mg twice daily provided no additional benefit above that seen with 
 
 In a 12-week, randomized, double-blind active-controlled, parallel-group, multicenter, non-inferiority study, patients from 2 years to 17 years of age with pauciarticular, polyarticular course JRA or systemic onset JRA (with currently inactive systemic features), received one of the following treatments: celecoxib 3 mg/kg (to a maximum of 150 mg) twice daily; celecoxib 6 mg/kg (to a maximum of 300 mg) twice daily; or naproxen 7.5 mg/kg (to a maximum of 500 mg) twice daily.
 The response rates were based upon the JRA Definition of Improvement greater than or equal to 30% (JRA DOI 30) criterion, which is a composite of clinical, laboratory, and functional measures of JRA.
-The JRA DOI 30 response rates at week 12 were 69%, 80% and 67% in the celecoxib 3 mg/kg BID, celecoxib 6 mg/kg BID, and naproxen 7.5 mg/kg BID treatment groups, respectively.
+The JRA DOI 30 response rates at week 12 were 69%, 80% and 67% in the celecoxib 3 mg/kg twice daily, celecoxib 6 mg/kg twice daily, and naproxen 7.5 mg/kg twice daily treatment groups, respectively.
 
 The efficacy and safety of celecoxib for JRA have not been studied beyond six months.
 The long-term cardiovascular toxicity in children exposed to celecoxib has not been evaluated and it is unknown if the long-term risk may be similar to that seen in adults exposed to celecoxib or other COX-2 selective and non-selective NSAIDs [(see Boxed Warning, Warnings and Precautions (5.12)].
@@ -40,11 +40,11 @@ The responder analysis also demonstrated no change in the responder rates beyond
 ## 14.5 Analgesia, Including Primary Dysmenorrhea
 
 In acute analgesic models of post-oral surgery pain, post-orthopedic surgical pain, and primary dysmenorrhea, celecoxib relieved pain that was rated by patients as moderate to severe.
-Single doses [see Dosage and Administration (2.5)] of celecoxib provided pain relief within 60 minutes.
+Single doses [see Dosage and Administration (2.6)] of celecoxib provided pain relief within 60 minutes.
 
 ## 14.6 Special Studies
 
-Adenomatous Polyp Prevention Studies:
+Adenomatous Polyp Prevention Studies
 
 Cardiovascular safety was evaluated in two randomized, double-blind, placebo-controlled, three year studies involving patients with Sporadic Adenomatous Polyps treated with celecoxib: the APC trial (Adenoma Prevention with Celecoxib) and the PreSAP trial (Prevention of Spontaneous Adenomatous Polyps).
 In the APC trial, there was a dose-related increase in the composite endpoint (adjudicated) of cardiovascular death, myocardial infarction, or stroke with celecoxib compared to placebo over 3 years of treatment.
@@ -59,7 +59,7 @@ The PreSAP trial did not demonstrate a statistically significant increased risk 
 Clinical trials of other COX-2 selective and non-selective NSAIDs of up to three-years duration have shown an increased risk of serious cardiovascular thrombotic events, myocardial infarction, and stroke, which can be fatal.
 As a result, all NSAIDs are considered potentially associated with this risk.
 
-Celecoxib Long-Term Arthritis Safety Study (CLASS):
+Celecoxib Long-Term Arthritis Safety Study (CLASS)
 
 This was a prospective, long-term, safety outcome study conducted post-marketing in approximately 5,800 OA patients and 2,200 RA patients.
 Patients received celecoxib 400 mg twice daily (4-fold and 2-fold the recommended OA and RA doses, respectively), ibuprofen 800 mg three times daily or diclofenac 75 mg twice daily (common therapeutic doses).
@@ -75,7 +75,7 @@ The estimated cumulative rates at 9 months of complicated and symptomatic ulcers
 Table 4 also displays results for patients less than or greater than 65 years of age.
 The difference in rates between celecoxib alone and celecoxib with ASA groups may be due to the higher risk for GI events in ASA users.
 
-Table 4: Complicated and Symptomatic Ulcer Rates in Patients Taking Celecoxib 400 mg Twice Daily (Kaplan-Meier Rates at 9 months [%]) Based on Risk Factors
+Table 5: Complicated and Symptomatic Ulcer Rates in Patients Taking Celecoxib 400 mg Twice Daily (Kaplan-Meier Rates at 9 months [%]) Based on Risk Factors
 
 | All Patients |  |
 | --- | --- |
@@ -98,7 +98,7 @@ The cumulative rates in non-ASA users at nine months in each of the three treatm
 The cumulative rates for myocardial infarction in non-ASA users at nine months in each of the three treatment groups were less than 0.2%.
 There was no placebo group in the CLASS trial, which limits the ability to determine whether the three drugs tested had no increased risk of CV events or if they all increased the risk to a similar degree.
 
-Endoscopic Studies: The correlation between findings of short-term endoscopic studies with celecoxib and the relative incidence of clinically significant serious upper GI events with long-term use has not been established.
+Endoscopic Studies The correlation between findings of short-term endoscopic studies with celecoxib and the relative incidence of clinically significant serious upper GI events with long-term use has not been established.
 Serious clinically significant upper GI bleeding has been observed in patients receiving celecoxib in controlled and open-labeled trials [see Warnings and Precautions (5.4) and Clinical Studies (14.6)]
 
 A randomized, double-blind study in 430 RA patients was conducted in which an endoscopic examination was performed at 6 months.

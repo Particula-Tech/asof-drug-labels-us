@@ -2,15 +2,13 @@ PRINCIPAL DISPLAY PANEL - 50 mg label
 
 NDC 60505-3847-6
 
-60 Capsules
-
-Rx only
+60 Capsules Rx only
 
 Celecoxib capsules
 
 50 mg
 
-PRINCIPAL DISPLAY PANEL - 100 mg label
+PRINICIPAL DISPLAY PANEL - 100 mg label
 
 NDC 60505-3848-1
 
