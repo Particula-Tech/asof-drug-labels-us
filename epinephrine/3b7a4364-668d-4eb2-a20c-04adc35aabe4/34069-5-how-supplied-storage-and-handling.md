@@ -13,8 +13,7 @@ Adrenalin® 30 mL Multi-Dose Vials:
 
 Vial and contents must be discarded 30 days after initial use.
 
-Store between 20° to 25°C (68° to 77°F).
-(See USP Controlled Room Temperature.)
+Store between 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 Epinephrine is light sensitive.
 Protect from light and freezing.
 

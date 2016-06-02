@@ -15,3 +15,5 @@ Treatment of arrhythmias consists of administration of a beta-adrenergic blockin
 
 Overdosage sometimes results in extreme pallor and coldness of the skin, metabolic acidosis due to elevated blood lactic acid levels, and kidney failure.
 Suitable corrective measures must be taken in such situations.
+
+Myocardial ischemia, myocardial infarction and cardiomyopathy have been noted in the literature following overdose of epinephrine.
