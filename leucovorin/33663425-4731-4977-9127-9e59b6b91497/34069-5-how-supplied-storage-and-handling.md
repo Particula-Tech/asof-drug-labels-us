@@ -1,47 +1,44 @@
-# HOW SUPPLIED
+# How Supplied/Storage and Handling
 
-Leucovorin Calcium Tablets USP are available for oral administration as:
+Leucovorin Calcium Tablets USP
 
-5 mg white, scored tablets (Identified 54 293).
+5 mg tablets are supplied as an off-white, round, slightly biconvex tablet; scored on one side and product identification “54 293” debossed on the other side.
 
-NDC 0054-8496-19: Unit dose, 10 tablets per strip, 5 strips per shelf pack.
+NDC 0054-8496-19: 5x10 Unit-Dose
 
-NDC 0054-4496-13: Bottles of 30 tablets.
+NDC 0054-4496-13: Bottle of 30 Tablets
 
-NDC 0054-4496-25: Bottles of 100 tablets.
+NDC 0054-4496-25: Bottle of 100 Tablets
 
-10 mg white, scored tablets (Identified 54 942).
+10 mg tablets are supplied as an off-white, round, slightly biconvex tablet; scored on one side and product identification “54 942” debossed on the other side.
 
-NDC 0054-4497-05: Bottles of 12 tablets.
+NDC 0054-4497-05: Bottle of 12 Tablets
 
-NDC 0054-4497-10: Bottles of 24 tablets.
+NDC 0054-4497-10: Bottle of 24 Tablets
 
-15 mg yellow, scored tablets (Identified 54 650).
+15 mg tablets are supplied as an yellow, round, slightly biconvex tablet; scored on one side and product identification “54 650” debossed on the other side.
 
-NDC 0054-4498-10: Bottles of 24 tablets.
+NDC 0054-4498-10: Bottle of 24 Tablets
 
-25 mg yellow, scored tablets (Identified 54 013).
+25 mg tablets are supplied as an yellow, round, slightly biconvex tablet; scored on one side and product identification “54 013” debossed on the other side.
 
-NDC 0054-4499-11: Bottles of 25 tablets.
+NDC 0054-4499-11: Bottle of 25 Tablets
 
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
 Protect From Light and Moisture.
 
-References:
+References
 
-1.Grem JL, Shoemaker DD, Petrelli NJ, Douglas HO.
-Severe and fatal toxic effects observed in treatment with high- and low-dose leucovorin plus 5-fluorouracil for colorectal carcinoma.
-Cancer Treat Rep 1987;71:1122.
+1. 1.Grem JL, Shoemaker DD, Petrelli NJ, Douglas HO.
+   Severe and fatal toxic effects observed in treatment with high- and low-dose leucovorin plus 5-fluorouracil for colorectal carcinoma.
+   Cancer Treat Rep 1987;71:1122.
+2. 2.Link MP, Goorin AM, Miser AW et al. The effect of adjuvant chemotherapy on relapse-free survival in patients with osteosarcoma of the extremity.
+   N Engl J Med 1986;314:1600-1606.
 
-2.Link MP, Goorin AM, Miser AW et al. The effect of adjuvant chemotherapy on relapse-free survival in patients with osteosarcoma of the extremity.
-N Engl J Med 1986;314:1600-1606.
+Distr. by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724
 
-Roxane Laboratories, Inc.
+1. 4055309//06
 
-Columbus, Ohio 43216
-
-4055309//05 Revised October 2014
-
-© RLI, 2014
+Revised March 2016
