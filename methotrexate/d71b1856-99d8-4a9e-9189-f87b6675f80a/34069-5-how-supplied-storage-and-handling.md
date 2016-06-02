@@ -2,14 +2,15 @@
 
 Methotrexate Tablets USP, 2.5 mg (contain an amount of methotrexate sodium equivalent to 2.5 mg of methotrexate USP)
 
-Methotrexate Tablets USP, 2.5 mg are supplied as yellow, round slightly biconvex tablet, scored on one side and product identification “54 323” debossed on the other side.
+2.5 mg tablets is supplied as a yellow, round slightly biconvex tablet, scored on one side and product identification “54 323” debossed on the other side.
 
-NDC 0054-8550-25: Unit dose, 10 tablets per strip, 10 strips per shelf pack, 10 shelf packs per shipper.
+NDC 0054-8550-25: 10x10 Unit-Dose
 
-NDC 0054-4550-15: Bottles of 36 tablets.
+NDC 0054-4550-15: Bottle of 36 Tablets
 
-NDC 0054-4550-25: Bottles of 100 tablets.
+NDC 0054-4550-25: Bottle of 100 Tablets
 
+Dispense with a child-resistant closure in a well closed container, as defined in the USP/NF.
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 Protect from light.

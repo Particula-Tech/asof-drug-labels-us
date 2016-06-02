@@ -4,7 +4,7 @@
 
 Oral administration in tablet form is often preferred when low doses are being administered since absorption is rapid and effective serum levels are obtained.
 
-### Choriocarcinomaand similar trophoblastic diseases
+### Choriocarcinomaand Similar Trophoblastic diseases
 
 Methotrexate is administered orally or intramuscularly in doses of 15 to 30 mg daily for a five-day course.
 Such courses are usually repeated for 3 to 5 times as required, with rest periods of one or more weeks interposed between courses, until any manifesting toxic symptoms subside.
@@ -48,6 +48,7 @@ Therapy with methotrexate as a single agent appears to produce clinical response
 Dosage in early stages is usually 5 to 50 mg once weekly.
 Dose reduction or cessation is guided by patient response and hematologic monitoring.
 Methotrexate has also been administered twice weekly in doses ranging from 15 to 37.5 mg in patients who have responded poorly to weekly therapy.
+Combination chemotherapy regimens that include intravenous methotrexate administered at higher doses with leucovorin rescue have been utilized in advanced stages of the disease.
 
 ## Psoriasis, Rheumatoid Arthritis, and Juvenile Rheumatoid Arthritis
 
@@ -55,8 +56,8 @@ Methotrexate has also been administered twice weekly in doses ranging from 15 to
 
 Recommended Starting Dosage Schedules
 
-- •Single oral doses of 7.5 mg once weekly.
-- •Divided oral dosages of 2.5 mg at 12 hour intervals for 3 doses given as a course once weekly.
+1. 1.Single oral doses of 7.5 mg once weekly.
+2. 2.Divided oral dosages of 2.5 mg at 12 hour intervals for 3 doses given as a course once weekly.
 
 ### Polyarticular-Course Juvenile Rheumatoid Arthritis
 
@@ -73,17 +74,14 @@ The optimal duration of therapy is unknown.
 Limited data available from long-term studies in adults indicate that the initial clinical improvement is maintained for at least two years with continued therapy.
 When methotrexate is discontinued, the arthritis usually worsens within 3 to 6 weeks.
 
-The patient should befully informed of the risks involved and should be under constant supervision of the physician.
-(See Information for Patients under PRECAUTIONS.)
-Assessment of hematologic, hepatic, renal, and pulmonary function should be made by history, physical examination, and laboratory tests before beginning, periodically during, and before reinstituting methotrexate therapy.
-(See PRECAUTIONS.)
-Appropriate steps should be taken to avoid conception during methotrexate therapy.
-(See PRECAUTIONS and CONTRAINDICATIONS.)
+The patient should befully informed of the risks involved and should be under constant supervision of the physician(See Information for Patients under PRECAUTIONS).
+Assessment of hematologic, hepatic, renal, and pulmonary function should be made by history, physical examination, and laboratory tests before beginning, periodically during, and before reinstituting methotrexate therapy (See PRECAUTIONS).
+Appropriate steps should be taken to avoid conception during methotrexate therapy (See PRECAUTIONS and CONTRAINDICATIONS).
 
+Weekly therapy may be instituted to provide doses over a range of 5 mg to 15 mg administered as a single weekly dose.
 All schedules should be continually tailored to the individual patient.
-An initial test dose may be given prior to the regular dosing schedule to detect any extreme sensitivity to adverse effects.
-(See ADVERSE REACTIONS.)
-Maximal myelosuppression usually occurs in seven to ten days.
+An initial test dose may be given prior to the regular dosing schedule to detect any extreme sensitivity to adverse effects (See ADVERSE REACTIONS).
+Maximal myelosuppression usually occurs in seven to ten days.days.
 
 ### Psoriasis
 

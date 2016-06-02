@@ -1,8 +1,8 @@
 # Patient Instructions
 
-METHOTREXATE (meth-oh-trek-seyt) Tablets USP, 2.5 mg
+Methotrexate Tablets USP, 2.5 mg (meth-oh-trek-seyt)
 
-Read the Patient Information that comes with Methotrexate Tablets USP, 2.5 mg before you start using it and each time you get a refill.
+Read the Patient Information that comes with methotrexate before you start using it and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking with your doctor about your condition or treatment.
 
@@ -27,9 +27,11 @@ Methotrexate is a prescription medicine used in treating certain cancers, severe
 
 Who should not take methotrexate?
 
+Do not take methotrexate if:
+
 - •you are pregnant or planning to become pregnant.
   Methotrexate can cause birth defects or death to your unborn child.
-  See “What is the most important information I should know about methotrexate?”.
+  See “What is the most important information I should know about methotrexate?”
 - •you are breast-feeding.
   Methotrexate can harm your baby.
   You will need to decide either to breast-feed or to take methotrexate, but not both.
@@ -73,21 +75,19 @@ How should I take methotrexate?
 - •Your doctor should do regular tests to monitor how methotrexate is affecting your body.
   Check with your doctor after having any blood tests before taking methotrexate again.
   Your doctor will tell you if it is safe to take more methotrexate.
-
-Certain side effects such as mouth sores may be reduced by folate supplementation with methotrexate.
+- •Certain side effects such as mouth sores may be reduced by folate supplementation with methotrexate.
 
 What should I avoid while taking methotrexate?
 
 Do not:
 
 - •get pregnant or try to become pregnant.
-  See “What is the most important information I should know about methotrexate?”.
+  See “What is the most important information I should know about methotrexate?”
 - •breast-feed.
-  See “Who should not take methotrexate?”.
+  See “Who should not take methotrexate?”
 - •drink alcohol.
   Alcohol drinks, including beer and wine, may increase some of the side effects with methotrexate, including the chance of liver damage.
-
-take certain live virus vaccines.
+- •take certain live virus vaccines.
 
 What are the possible side effects of methotrexate?
 
@@ -123,7 +123,7 @@ Ask your doctor or pharmacist for more information.
 
 How should I store methotrexate?
 
-- •Store methotrexate at 20˚ to 25˚C (68˚ to 77˚F).
+- •Store methotrexate at room temperature between 20˚ to 25˚C (68˚ to 77˚F).
   [See USP Controlled Room Temperature.]
 - •Keep methotrexate away from light.
 - •Keep methotrexate and all medicines out of the reach of children.
@@ -139,7 +139,7 @@ This leaflet summarizes the most important information about methotrexate.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about methotrexate that is written for healthcare professionals.
 
-For additional information, you may contact Roxane Laboratories at 1-800-962-8364 or at www.roxane.com.
+For additional information, you may contact West-Ward Pharmaceuticals Corp. at 1-800-962-8364.
 
 What are the ingredients in methotrexate?
 
@@ -147,8 +147,12 @@ Active Ingredient: Methotrexate contains an amount of methotrexate sodium equiva
 
 Inactive Ingredients: lactose (anhydrous), magnesium stearate, pregelatinized starch, sodium hydroxide pellets, and sodium starch glycolate.
 
-10004494/06
+Distr. by: West-Ward
 
-Revised September 2015
+Pharmaceuticals Corp.
 
-© RLI, 2015
+Eatontown, NJ 07724
+
+10004494/07
+
+Revised March 2016
