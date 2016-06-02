@@ -1,7 +1,6 @@
 # 11 DESCRIPTION
 
-Meloxicam, an oxicam derivative, is a member of the enolic acid group of nonsteroidal anti-inflammatory drugs (NSAIDs).
-
+Meloxicam, is a nonsteroidal anti-inflammatory drug (NSAID).
 Each light yellow meloxicam tablet USP contains 7.5 mg or 15 mg meloxicam for oral administration.
 Meloxicam is chemically designated as 4-hydroxy-2-methyl-N-(5-methyl-2-thiazolyl)-2H-1,2-benzothiazine-3-carboxamide-1,1-dioxide.
 The molecular weight is 351.4.

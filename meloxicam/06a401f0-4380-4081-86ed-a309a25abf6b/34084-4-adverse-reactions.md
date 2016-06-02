@@ -1,19 +1,20 @@
 # 6 ADVERSE REACTIONS
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
-The following serious adverse reactions are discussed elsewhere in the labeling:
-
-- Cardiovascular thrombotic events[See BOXED WARNING and WARNINGS AND PRECAUTIONS (5.1)]
-- Gastrointestinal effects – risk of GI ulceration, bleeding, and perforation[See BOXED WARNING and WARNINGS AND PRECAUTIONS (5.2)]
-- Hepatic effects[See WARNINGS AND PRECAUTIONS (5.3)]
-- Hypertension[See WARNINGS AND PRECAUTIONS (5.4)]
-- Congestive heart failure and edema[See WARNINGS AND PRECAUTIONS (5.5)]
-- Renal effects[see WARNINGS AND PRECAUTIONS (5.6)]
-- Anaphylactoid reactions[See WARNINGS AND PRECAUTIONS (5.7)]
-- Adverse skin reactions[See WARNINGS AND PRECAUTIONS (5.8)]
+- Cardiovascular Thrombotic Events [see BOXED WARNING and WARNINGS AND PRECAUTIONS (5.1)]
+- GI Bleeding, Ulceration, and Perforation [see BOXED WARNING and WARNINGS AND PRECAUTIONS (5.2)]
+- Hepatotoxicity [see WARNINGS AND PRECAUTIONS (5.3)]
+- Hypertension [see WARNINGS AND PRECAUTIONS (5.4)]
+- Heart Failure and Edema [see WARNINGS AND PRECAUTIONS (5.5)]
+- Renal Toxicity and Hyperkalemia [see WARNINGS AND PRECAUTIONS (5.6)]
+- Anaphylactic Reactions [see WARNINGS AND PRECAUTIONS (5.7)]
+- Serious Skin Reactions [see WARNINGS AND PRECAUTIONS (5.9)]
+- Hematologic Toxicity [see WARNINGS AND PRECAUTIONS (5.11)]
 
 ## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 Adults
 
@@ -33,7 +34,7 @@ Table 1b depicts adverse events that occurred in ≥2% of the meloxicam treatmen
 
 Table 1a Adverse Events (%) Occurring in ≥2% of Meloxicam Patients in a 12-Week Osteoarthritis Placebo- and Active-Controlled Trial
 
-|  | Placebo | Meloxicam 7.5 mg daily | Meloxicam 15 mg daily | Diclofenac 100 mg daily |
+|  | Placebo | Meloxicam7.5 mg daily | Meloxicam15 mg daily | Diclofenac 100 mg daily |
 | --- | --- | --- | --- | --- |
 | No. of Patients | 157 | 154 | 156 | 153 |
 | Gastrointestinal | 17.2 | 20.1 | 17.3 | 28.1 |
@@ -42,15 +43,19 @@ Table 1a Adverse Events (%) Occurring in ≥2% of Meloxicam Patients in a 12-Wee
 | Dyspepsia | 4.5 | 4.5 | 4.5 | 6.5 |
 | Flatulence | 4.5 | 3.2 | 3.2 | 3.9 |
 | Nausea | 3.2 | 3.9 | 3.8 | 7.2 |
-| Body as a Whole Accident household | 1.9 | 4.5 | 3.2 | 2.6 |
+| Body as a Whole |  |  |  |  |
+| Accident household | 1.9 | 4.5 | 3.2 | 2.6 |
 | EdemaWHO preferred terms edema, edema dependent, edema peripheral, and edema legs combined | 2.5 | 1.9 | 4.5 | 3.3 |
 | Fall | 0.6 | 2.6 | 0.0 | 1.3 |
 | Influenza-like symptoms | 5.1 | 4.5 | 5.8 | 2.6 |
-| Central and Peripheral Nervous System Dizziness | 3.2 | 2.6 | 3.8 | 2.0 |
+| Central and Peripheral Nervous System |  |  |  |  |
+| Dizziness | 3.2 | 2.6 | 3.8 | 2.0 |
 | Headache | 10.2 | 7.8 | 8.3 | 5.9 |
-| Respiratory Pharyngitis | 1.3 | 0.6 | 3.2 | 1.3 |
+| Respiratory |  |  |  |  |
+| Pharyngitis | 1.3 | 0.6 | 3.2 | 1.3 |
 | Upper respiratory tract infection | 1.9 | 3.2 | 1.9 | 3.3 |
-| Skin RashWHO preferred terms rash, rash erythematous, and rash maculo-papular combined | 2.5 | 2.6 | 0.6 | 2.0 |
+| Skin |  |  |  |  |
+| RashWHO preferred terms rash, rash erythematous, and rash maculo-papular combined | 2.5 | 2.6 | 0.6 | 2.0 |
 
 Table 1b Adverse Events (%) Occurring in ≥2% of Meloxicam Patients in two 12-Week Rheumatoid Arthritis Placebo-Controlled Trials
 
@@ -61,11 +66,16 @@ Table 1b Adverse Events (%) Occurring in ≥2% of Meloxicam Patients in two 12-W
 | Abdominal pain NOSMedDRA preferred term: nausea, abdominal pain NOS, influenza-like illness, headaches NOS, and rash NOS | 0.6 | 2.9 | 2.3 |
 | Dyspeptic signs and symptomsMedDRA high level term (preferred terms): dyspeptic signs and symptoms (dyspepsia, dyspepsia aggravated, eructation, gastrointestinal irritation), upper respiratory tract infections-pathogen unspecified (laryngitis NOS, pharyngitis NOS, sinusitis NOS), joint related signs and symptoms (arthralgia, arthralgia aggravated, joint crepitation, joint effusion, joint swelling) | 3.8 | 5.8 | 4.0 |
 | Nausea | 2.6 | 3.3 | 3.8 |
-| General Disorders and Administration Site Conditions Influenza-like illness | 2.1 | 2.9 | 2.3 |
-| Infection and Infestations Upper respiratory tract infections-pathogen class unspecified | 4.1 | 7.0 | 6.5 |
-| Musculoskeletal and Connective Tissue Disorders Joint related signs and symptoms | 1.9 | 1.5 | 2.3 |
-| Nervous System Disorders Headaches NOS | 6.4 | 6.4 | 5.5 |
-| Skin and Subcutaneous Tissue Disorders Rash NOS | 1.7 | 1.0 | 2.1 |
+| General Disorders and Administration Site Conditions |  |  |  |
+| Influenza-like illness | 2.1 | 2.9 | 2.3 |
+| Infection and Infestations |  |  |  |
+| Upper respiratory tract infections-pathogen class unspecified | 4.1 | 7.0 | 6.5 |
+| Musculoskeletal and Connective Tissue Disorders |  |  |  |
+| Joint related signs and symptoms | 1.9 | 1.5 | 2.3 |
+| Nervous System Disorders |  |  |  |
+| Headaches NOS | 6.4 | 6.4 | 5.5 |
+| Skin and Subcutaneous Tissue Disorders |  |  |  |
+| Rash NOS | 1.7 | 1.0 | 2.1 |
 
 The adverse events that occurred with meloxicam in ≥2% of patients treated short-term (4 to 6 weeks) and long-term (6 months) in active-controlled osteoarthritis trials are presented in Table 2.
 
@@ -87,17 +97,24 @@ Table 2 Adverse Events (%) Occurring in ≥2% of Meloxicam Patients in 4 to 6 We
 | Accident household | 0.0 | 0.0 | 0.6 | 2.9 |
 | EdemaWHO preferred terms edema, edema dependent, edema peripheral, and edema legs combined | 0.6 | 2.0 | 2.4 | 1.6 |
 | Pain | 0.9 | 2.0 | 3.6 | 5.2 |
-| Central and Peripheral Nervous System Dizziness | 1.1 | 1.6 | 2.4 | 2.6 |
+| Central and Peripheral Nervous System |  |  |  |  |
+| Dizziness | 1.1 | 1.6 | 2.4 | 2.6 |
 | Headache | 2.4 | 2.7 | 3.6 | 2.6 |
-| Hematologic Anemia | 0.1 | 0.0 | 4.1 | 2.9 |
-| Musculoskeletal Arthralgia | 0.5 | 0.0 | 5.3 | 1.3 |
+| Hematologic |  |  |  |  |
+| Anemia | 0.1 | 0.0 | 4.1 | 2.9 |
+| Musculoskeletal |  |  |  |  |
+| Arthralgia | 0.5 | 0.0 | 5.3 | 1.3 |
 | Back pain | 0.5 | 0.4 | 3.0 | 0.7 |
-| Psychiatric Insomnia | 0.4 | 0.0 | 3.6 | 1.6 |
-| Respiratory Coughing | 0.2 | 0.8 | 2.4 | 1.0 |
+| Psychiatric |  |  |  |  |
+| Insomnia | 0.4 | 0.0 | 3.6 | 1.6 |
+| Respiratory |  |  |  |  |
+| Coughing | 0.2 | 0.8 | 2.4 | 1.0 |
 | Upper respiratory tract infection | 0.2 | 0.0 | 8.3 | 7.5 |
-| Skin Pruritus | 0.4 | 1.2 | 2.4 | 0.0 |
+| Skin |  |  |  |  |
+| Pruritus | 0.4 | 1.2 | 2.4 | 0.0 |
 | RashWHO preferred terms rash, rash erythematous, and rash maculo-papular combined | 0.3 | 1.2 | 3.0 | 1.3 |
-| Urinary Micturition frequency | 0.1 | 0.4 | 2.4 | 1.3 |
+| Urinary |  |  |  |  |
+| Micturition frequency | 0.1 | 0.4 | 2.4 | 1.3 |
 | Urinary tract infection | 0.3 | 0.4 | 4.7 | 6.9 |
 
 Higher doses of meloxicam (22.5 mg and greater) have been associated with an increased risk of serious GI events; therefore, the daily dose of meloxicam should not exceed 15 mg.
@@ -131,9 +148,9 @@ The following is a list of adverse drug reactions occurring in <2% of patients r
 | Special Senses | abnormal vision, conjunctivitis, taste perversion, tinnitus |
 | Urinary System | albuminuria, BUN increased, creatinine increased, hematuria, renal failure |
 
-## 6.2 Post Marketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post approval use of meloxicam.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Decisions about whether to include an adverse event from spontaneous reports in labeling are typically based on one or more of the following factors: (1) seriousness of the event, (2) number of reports, or (3) strength of causal relationship to the drug.
-Adverse reactions reported in worldwide post marketing experience or the literature include: acute urinary retention; agranulocytosis; alterations in mood (such as mood elevation); anaphylactoid reactions including shock; erythema multiforme; exfoliative dermatitis; interstitial nephritis; jaundice; liver failure; Stevens-Johnson syndrome, and toxic epidermal necrolysis.
+Adverse reactions reported in worldwide post marketing experience or the literature include: acute urinary retention; agranulocytosis; alterations in mood (such as mood elevation); anaphylactoid reactions including shock; erythema multiforme; exfoliative dermatitis; interstitial nephritis; jaundice; liver failure; Stevens-Johnson syndrome; toxic epidermal necrolysis, and infertility female.
