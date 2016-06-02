@@ -1,22 +1,24 @@
 # HOW SUPPLIED
 
-Lithium Carbonate Extended Release Tablets, USP
+Lithium Carbonate Extended-release Tablets USP
 
-300 mg beige-colored, biconvex, film-coated tablets
+300 mg tablets are supplied as beige coated, round biconvex tablets with “54 107” debossed on one side and plain on the other side.
 
-(Identified 54 107)
+NDC 0054-0021-25: Bottle of 100 Tablets
 
-0054-0021-25 Bottles of 100
-
-0054-0021-29 Bottles of 500
-
-Storage
+NDC 0054-0021-29: Bottle of 500 Tablets Storage
 
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 Protect from moisture.
 Dispense in tight, child-resistant container as defined in USP/NF.
 
-10002523/05 Revised December 2011
+Distr. by: West-Ward
 
-© RLI, 2011
+Pharmaceuticals Corp.
+
+Eatontown, NJ 07724
+
+10002523/06
+
+Revised March 2016
