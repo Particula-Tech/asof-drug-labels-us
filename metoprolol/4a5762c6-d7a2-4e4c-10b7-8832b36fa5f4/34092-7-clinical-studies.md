@@ -8,7 +8,7 @@ In each study, beta1-blockade was expressed as the percent change from baseline 
 TOPROL-XL administered once a day, and immediate-release metoprolol administered once to four times a day, provided comparable total beta1-blockade over 24 hours (area under the beta1-blockade versus time curve) in the dose range 100-400 mg.
 At a dosage of 50 mg once daily, TOPROL-XL produced significantly higher total beta1-blockade over 24 hours than immediate-release metoprolol.
 For TOPROL-XL, the percent reduction in exercise heart rate was relatively stable throughout the entire dosage interval and the level of beta1-blockade increased with increasing doses from 50 to 300 mg daily.
-The effects at peak/trough (ie, at 24-hours post-dosing) were: 14/9, 16/10, 24/14, 27/22 and 27/20% reduction in exercise heart rate for doses of 50, 100, 200, 300 and 400 mg TOPROL-XL once a day, respectively.
+The effects at peak/trough (i.e., at 24-hours post-dosing) were: 14/9, 16/10, 24/14, 27/22 and 27/20% reduction in exercise heart rate for doses of 50, 100, 200, 300 and 400 mg TOPROL-XL once a day, respectively.
 In contrast to TOPROL-XL, immediate-release metoprolol given at a dose of 50-100 mg once a day produced a significantly larger peak effect on exercise tachycardia, but the effect was not evident at 24 hours.
 To match the peak to trough ratio obtained with TOPROL-XL over the dosing range of 200 to 400 mg, a t.i.d. to q.i.d. divided dosing regimen was required for immediate-release metoprolol.
 A controlled cross-over study in heart failure patients compared the plasma concentrations and beta1-blocking effects of 50 mg immediate-release metoprolol administered t.i.d., 100 mg and 200 mg TOPROL-XL once daily.

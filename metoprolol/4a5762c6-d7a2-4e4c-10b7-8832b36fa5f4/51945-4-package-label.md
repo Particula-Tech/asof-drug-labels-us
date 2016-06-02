@@ -18,21 +18,13 @@ CAUTION Verify Product Dispensed
 
 Mfd. for: AstraZeneca LP
 
-Wilmington, DE 19850
-
-By: AstraZeneca AB
-
-S-151 85 Södertälje, Sweden
-
-Product of Sweden
-
 AstraZeneca
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 50 mg
 
-NDC 0186-1090-05
+NDC 0186-1090-30
 
-100 tablets
+30 tablets
 
 TOPROL-XL®
 
@@ -46,21 +38,11 @@ Rx only
 
 CAUTION Verify Product Dispensed
 
-Mfd. for: AstraZeneca LP
-
-Wilmington, DE 19850
-
-By: AstraZeneca AB
-
-S-151 85 Södertälje, Sweden
-
-Product of Sweden
-
 AstraZeneca
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 100 mg
 
-NDC 0186-1092-05
+NDC 0186-1092-25
 
 100 tablets
 
@@ -76,23 +58,13 @@ Rx only
 
 CAUTION Verify Product Dispensed
 
-Mfd. for: AstraZeneca LP
-
-Wilmington, DE 19850
-
-By: AstraZeneca AB
-
-S-151 85 Södertälje, Sweden
-
-Product of Sweden
-
 AstraZeneca
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 200 mg
 
-NDC 0186-1094-05
+NDC 0186-1094-35
 
-100 tablets
+1000 tablets
 
 TOPROL-XL®
 
@@ -106,14 +78,8 @@ Rx only
 
 CAUTION Verify Product Dispensed
 
-Mfd. for: AstraZeneca LP
+THIS IS A BULK PACKAGE AND
 
-Wilmington, DE 19850
-
-By: AstraZeneca AB
-
-S-151 85 Södertälje, Sweden
-
-Product of Sweden
+NOT INTENDED FOR DISPENSING.
 
 AstraZeneca

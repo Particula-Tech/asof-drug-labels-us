@@ -2,7 +2,7 @@
 
 ## 7.1 Catecholamine Depleting Drugs
 
-Catecholamine depleting drugs (eg, reserpine, monoamine oxidase (MAO) inhibitors) may have an additive effect when given with beta-blocking agents.
+Catecholamine depleting drugs (e.g., reserpine, monoamine oxidase (MAO) inhibitors) may have an additive effect when given with beta-blocking agents.
 Observe patients treated with TOPROL-XL plus a catecholamine depletor for evidence of hypotension or marked bradycardia, which may produce vertigo, syncope, or postural hypotension.
 
 ## 7.2 CYP2D6 Inhibitors
