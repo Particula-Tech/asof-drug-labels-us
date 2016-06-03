@@ -1,0 +1,41 @@
+{
+  "application_numbers": [
+    "NDA017581",
+    "NDA018164",
+    "NDA018965",
+    "NDA020067"
+  ],
+  "inn": "naproxen",
+  "labeler": "Canton Laboratories",
+  "package_ndcs": [
+    "69437-028-28",
+    "69437-203-01",
+    "69437-316-01",
+    "69437-415-01",
+    "69437-416-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "naproxen sodium",
+      "name": "Anaprox DS"
+    },
+    {
+      "form": "TABLET, DELAYED RELEASE",
+      "generic": "naproxen",
+      "name": "EC-Naprosyn"
+    },
+    {
+      "form": "SUSPENSION",
+      "generic": "naproxen",
+      "name": "Naprosyn"
+    },
+    {
+      "form": "TABLET",
+      "generic": "naproxen",
+      "name": "Naprosyn"
+    }
+  ],
+  "setid": "8bff5df5-d856-4237-b6a8-ae445b454844",
+  "source": "dailymed"
+}
