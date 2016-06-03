@@ -10,7 +10,7 @@ For Intravenous Use Only Cytosafe® Vial Caution: Cytotoxic Agent
 
 PRINCIPAL DISPLAY PANEL - 100 mg/5 mL Vial Carton
 
-NDC 0009-7529-03 Rx only
+NDC 0009-7529-03
 
 Single Use: Discard unused portion Camptosar® irinotecan hydrochloride injection
 
@@ -21,3 +21,5 @@ For Intravenous Use Only
 Cytosafe® Vial Caution: Cytotoxic Agent
 
 Pfizer Injectables
+
+Rx only
