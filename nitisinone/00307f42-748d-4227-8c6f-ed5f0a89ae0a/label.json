@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA206356"
+  ],
+  "inn": "nitisinone",
+  "labeler": "Swedish Orphan Biovitrum AB (publ)",
+  "package_ndcs": [
+    "66658-204-90"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "nitisinone",
+      "name": "ORFADIN"
+    }
+  ],
+  "setid": "00307f42-748d-4227-8c6f-ed5f0a89ae0a",
+  "source": "dailymed"
+}
