@@ -9,14 +9,15 @@ In patients with volume depletion, correcting this condition prior to initiation
 
 ## 2.2 Patients with Renal Impairment
 
-No dose adjustment is needed in patients with mild renal impairment (eGFR of 60 mL/min/1.73 m2 or greater).
+Assessment of renal function is recommended prior to initiation of INVOKANA and periodically thereafter.
 
 The dose of INVOKANA is limited to 100 mg once daily in patients with moderate renal impairment with an eGFR of 45 to less than 60 mL/min/1.73 m2.
 
-INVOKANA should not be initiated in patients with an eGFR less than 45 mL/min/1.73 m2.
+Initiation of INVOKANA is not recommended in patients with an eGFR less than 45 mL/min/1.73 m2.
 
-Assessment of renal function is recommended prior to initiation of INVOKANA therapy and periodically thereafter.
-INVOKANA should be discontinued when eGFR is persistently less than 45 mL/min/1.73 m2 [see Warnings and Precautions (5.3) and Use in Specific Populations (8.6)].
+Use of INVOKANA is not recommended when eGFR is persistently less than 45 mL/min/1.73 m2 [see Warnings and Precautions (5.3) and Use in Specific Populations (8.6)].
+
+INVOKANA is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 [see Contraindications (4)].
 
 ## 2.3 Concomitant Use with UDP-Glucuronosyl Transferase (UGT) Enzyme Inducers
 

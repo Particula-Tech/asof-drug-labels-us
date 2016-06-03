@@ -2,25 +2,52 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects
+Risk Summary
 
-Pregnancy Category C
+Based on animal data showing adverse renal effects, INVOKANA is not recommended during the second and third trimesters of pregnancy.
 
-There are no adequate and well-controlled studies of INVOKANA in pregnant women.
-Based on results from rat studies, canagliflozin may affect renal development and maturation.
-In a juvenile rat study, increased kidney weights and renal pelvic and tubular dilatation were evident at greater than or equal to 0.5 times clinical exposure from a 300 mg dose [see Nonclinical Toxicology (13.2)].
+Limited data with INVOKANA in pregnant women are not sufficient to determine a drug-associated risk for major birth defects or miscarriage.
+There are risks to the mother and fetus associated with poorly controlled diabetes in pregnancy [see Clinical Considerations].
 
-These outcomes occurred with drug exposure during periods of animal development that correspond to the late second and third trimester of human development.
-During pregnancy, consider appropriate alternative therapies, especially during the second and third trimesters.
-INVOKANA should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+In animal studies, adverse renal pelvic and tubule dilatations that were not reversible were observed in rats when canagliflozin was administered during a period of renal development corresponding to the late second and third trimesters of human pregnancy, at an exposure 0.5-times the 300 mg clinical dose, based on AUC.
 
-## 8.3 Nursing Mothers
+The estimated background risk of major birth defects is 6–10% in women with pre-gestational diabetes with a HbA1c >7 and has been reported to be as high as 20–25% in women with a HbA1c >10.
+The estimated background risk of miscarriage for the indicated population is unknown.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2–4% and 15–20%, respectively.
 
-It is not known if INVOKANA is excreted in human milk.
-INVOKANA is secreted in the milk of lactating rats reaching levels 1.4 times higher than that in maternal plasma.
-Data in juvenile rats directly exposed to INVOKANA showed risk to the developing kidney (renal pelvic and tubular dilatations) during maturation.
+Clinical Considerations
+
+Disease-associated maternal and/or embryo/fetal risk
+
+Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, stillbirth and delivery complications.
+Poorly controlled diabetes increases the fetal risk for major birth defects, stillbirth, and macrosomia related morbidity.
+
+Animal Data
+
+Canagliflozin dosed directly to juvenile rats from postnatal day (PND) 21 until PND 90 at doses of 4, 20, 65, or 100 mg/kg increased kidney weights and dose dependently increased the incidence and severity of renal pelvic and tubular dilatation at all doses tested.
+Exposure at the lowest dose was greater than or equal to 0.5-times the 300 mg clinical dose, based on AUC.
+These outcomes occurred with drug exposure during periods of renal development in rats that correspond to the late second and third trimester of human renal development.
+The renal pelvic dilatations observed in juvenile animals did not fully reverse within a 1 month recovery period.
+
+In embryo-fetal development studies in rats and rabbits, canagliflozin was administered for intervals coinciding with the first trimester period of organogenesis in humans.
+No developmental toxicities independent of maternal toxicity were observed when canagliflozin was administered at doses up to 100 mg/kg in pregnant rats and 160 mg/kg in pregnant rabbits during embryonic organogenesis or during a study in which maternal rats were dosed from gestation day (GD) 6 through PND 21, yielding exposures up to approximately 19-times the 300 mg clinical dose, based on AUC.
+
+## 8.2 Lactation
+
+Risk Summary
+
+There is no information regarding the presence of INVOKANA in human milk, the effects on the breastfed infant, or the effects on milk production.
+Canagliflozin is present in the milk of lactating rats [see Data].
 Since human kidney maturation occurs in utero and during the first 2 years of life when lactational exposure may occur, there may be risk to the developing human kidney.
-Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from INVOKANA, a decision should be made whether to discontinue nursing or to discontinue INVOKANA, taking into account the importance of the drug to the mother [see Nonclinical Toxicology (13.2)].
+
+Because of the potential for serious adverse reactions in a breastfed infant, advise women that use of INVOKANA is not recommended while breastfeeding.
+
+Data
+
+Animal Data
+
+Radiolabeled canagliflozin administered to lactating rats on day 13 post-partum was present at a milk/plasma ratio of 1.40, indicating that canagliflozin and its metabolites are transferred into milk at a concentration comparable to that in plasma.
+Juvenile rats directly exposed to canagliflozin showed a risk to the developing kidney (renal pelvic and tubular dilatations) during maturation.
 
 ## 8.4 Pediatric Use
 

@@ -36,6 +36,11 @@ Inform patients that ketoacidosis has been reported during use of INVOKANA.
 Instruct patients to check ketones (when possible) if symptoms consistent with ketoacidosis occur even if blood glucose is not elevated.
 If symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness, and labored breathing) occur, instruct patients to discontinue INVOKANA and seek medical advice immediately [see Warnings and Precautions (5.2)].
 
+Acute Kidney Injury
+
+Inform patients that acute kidney injury has been reported during use of INVOKANA.
+Advise patients to seek medical advice immediately if they have reduced oral intake (such as due to acute illness or fasting) or increased fluid losses (such as due to vomiting, diarrhea, or excessive heat exposure), as it may be appropriate to temporarily discontinue INVOKANA use in those settings [see Warnings and Precautions (5.3)].
+
 Serious Urinary Tract Infections
 
 Inform patients of the potential for urinary tract infections, which may be serious.
@@ -62,3 +67,12 @@ Bone Fracture
 
 Inform patients that bone fractures have been reported in patients taking INVOKANA.
 Provide them with information on factors that may contribute to fracture risk.
+
+Pregnancy
+
+Advise pregnant women, and females of reproductive potential of the potential risk to a fetus with treatment with INVOKANA [see Use in Specific Populations (8.1)].
+Instruct females of reproductive potential to report pregnancies to their physicians as soon as possible.
+
+Lactation
+
+Advise women that breastfeeding is not recommended during treatment with INVOKANA [see Use in Specific Populations (8.2)].

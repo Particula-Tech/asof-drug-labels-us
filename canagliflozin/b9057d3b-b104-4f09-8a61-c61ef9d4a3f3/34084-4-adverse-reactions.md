@@ -4,7 +4,7 @@ The following important adverse reactions are described below and elsewhere in t
 
 - Hypotension [see Warnings and Precautions (5.1)]
 - Ketoacidosis [see Warnings and Precautions (5.2)]
-- Impairment in Renal Function [see Warnings and Precautions (5.3)]
+- Acute Kidney Injury and Impairment in Renal Function [see Warnings and Precautions (5.3)]
 - Hyperkalemia [see Warnings and Precautions (5.4)]
 - Urosepsis and Pyelonephritis [see Warnings and Precautions (5.5)]
 - Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.6)]
@@ -35,14 +35,17 @@ Table 1: Adverse Reactions From Pool of Four 26–Week Placebo-Controlled Studie
 
 | Adverse Reaction | Placebo N=646 | INVOKANA 100 mg N=833 | INVOKANA 300 mg N=834 |
 | --- | --- | --- | --- |
-| Female genital mycotic infectionsFemale genital mycotic infections include the following adverse reactions: Vulvovaginal candidiasis, Vulvovaginal mycotic infection, Vulvovaginitis, Vaginal infection, Vulvitis, and Genital infection fungal. Percentages calculated with the number of female subjects in each group as denominator: placebo (N=312), INVOKANA 100 mg (N=425), and INVOKANA 300 mg (N=430). | 3.2% | 10.4% | 11.4% |
-| Urinary tract infectionsUrinary tract infections include the following adverse reactions: Urinary tract infection, Cystitis, Kidney infection, and Urosepsis. | 4.0% | 5.9% | 4.3% |
-| Increased urinationIncreased urination includes the following adverse reactions: Polyuria, Pollakiuria, Urine output increased, Micturition urgency, and Nocturia. | 0.8% | 5.3% | 4.6% |
-| Male genital mycotic infectionsMale genital mycotic infections include the following adverse reactions: Balanitis or Balanoposthitis, Balanitis candida, and Genital infection fungal. Percentages calculated with the number of male subjects in each group as denominator: placebo (N=334), INVOKANA 100 mg (N=408), and INVOKANA 300 mg (N=404). | 0.6% | 4.2% | 3.7% |
-| Vulvovaginal pruritus | 0.0% | 1.6% | 3.0% |
-| ThirstThirst includes the following adverse reactions: Thirst, Dry mouth, and Polydipsia. | 0.2% | 2.8% | 2.3% |
-| Constipation | 0.9% | 1.8% | 2.3% |
-| Nausea | 1.5% | 2.2% | 2.3% |
+| Urinary tract infectionsUrinary tract infections include the following adverse reactions: Urinary tract infection, Cystitis, Kidney infection, and Urosepsis. | 3.8% | 5.9% | 4.4% |
+| Increased urinationIncreased urination includes the following adverse reactions: Polyuria, Pollakiuria, Urine output increased, Micturition urgency, and Nocturia. | 0.7% | 5.1% | 4.6% |
+| ThirstThirst includes the following adverse reactions: Thirst, Dry mouth, and Polydipsia. | 0.1% | 2.8% | 2.4% |
+| Constipation | 0.9% | 1.8% | 2.4% |
+| Nausea | 1.6% | 2.1% | 2.3% |
+|  | N=312 | N=425 | N=430 |
+| Female genital mycotic infectionsFemale genital mycotic infections include the following adverse reactions: Vulvovaginal candidiasis, Vulvovaginal mycotic infection, Vulvovaginitis, Vaginal infection, Vulvitis, and Genital infection fungal. | 2.8% | 10.6% | 11.6% |
+| Vulvovaginal pruritus | 0.0% | 1.6% | 3.2% |
+|  | N=334 | N=408 | N=404 |
+| Male genital mycotic infectionsMale genital mycotic infections include the following adverse reactions: Balanitis or Balanoposthitis, Balanitis candida, and Genital infection fungal. | 0.7% | 4.2% | 3.8% |
+| Note: Percentages were weighted by studies. Study weights were proportional to the harmonic mean of the three treatment sample sizes. |  |  |  |
 
 Abdominal pain was also more commonly reported in patients taking INVOKANA 100 mg (1.8%), 300 mg (1.7%) than in patients taking placebo (0.8%).
 
@@ -59,9 +62,11 @@ At baseline, the population had diabetes for an average of 11 years, had a mean 
 Baseline renal function was normal or mildly impaired (mean eGFR 81 mL/min/1.73 m2).
 
 The types and frequency of common adverse reactions observed in the pool of eight clinical trials were consistent with those listed in Table 1.
-In this pool, INVOKANA was also associated with the adverse reactions of fatigue (1.7% with comparator, 2.2% with INVOKANA 100 mg, and 2.0% with INVOKANA 300 mg) and loss of strength or energy (i.e., asthenia) (0.6% with comparator, 0.7% with INVOKANA 100 mg, and 1.1% with INVOKANA 300 mg).
+Percentages were weighted by studies.
+Study weights were proportional to the harmonic mean of the three treatment sample sizes.
+In this pool, INVOKANA was also associated with the adverse reactions of fatigue (1.8% with comparator, 2.2% with INVOKANA 100 mg, and 2.0% with INVOKANA 300 mg) and loss of strength or energy (i.e., asthenia) (0.6% with comparator, 0.7% with INVOKANA 100 mg, and 1.1% with INVOKANA 300 mg).
 
-In the pool of eight clinical trials, the incidence rate of pancreatitis (acute or chronic) was 0.9, 2.7, and 0.9 per 1000 patient-years of exposure to comparator, INVOKANA 100 mg, and INVOKANA 300 mg, respectively.
+In the pool of eight clinical trials, the incidence rate of pancreatitis (acute or chronic) was 0.1, 0.2, and 0.1 receiving comparator, INVOKANA 100 mg, and INVOKANA 300 mg, respectively.
 
 In the pool of eight clinical trials, hypersensitivity-related adverse reactions (including erythema, rash, pruritus, urticaria, and angioedema) occurred in 3.0%, 3.8%, and 4.2% of patients receiving comparator, INVOKANA 100 mg, and INVOKANA 300 mg, respectively.
 Five patients experienced serious adverse reactions of hypersensitivity with INVOKANA, which included 4 patients with urticaria and 1 patient with a diffuse rash and urticaria occurring within hours of exposure to INVOKANA.
@@ -131,12 +136,12 @@ Discontinuations due to renal-related adverse events occurred in 1.0% with place
 
 Genital Mycotic Infections
 
-In the pool of four placebo-controlled clinical trials, female genital mycotic infections (e.g., vulvovaginal mycotic infection, vulvovaginal candidiasis, and vulvovaginitis) occurred in 3.2%, 10.4%, and 11.4% of females treated with placebo, INVOKANA 100 mg, and INVOKANA 300 mg, respectively.
+In the pool of four placebo-controlled clinical trials, female genital mycotic infections (e.g., vulvovaginal mycotic infection, vulvovaginal candidiasis, and vulvovaginitis) occurred in 2.8%, 10.6%, and 11.6% of females treated with placebo, INVOKANA 100 mg, and INVOKANA 300 mg, respectively.
 Patients with a history of genital mycotic infections were more likely to develop genital mycotic infections on INVOKANA.
 Female patients who developed genital mycotic infections on INVOKANA were more likely to experience recurrence and require treatment with oral or topical antifungal agents and anti-microbial agents.
 In females, discontinuation due to genital mycotic infections occurred in 0% and 0.7% of patients treated with placebo and INVOKANA, respectively [see Warnings and Precautions (5.7)].
 
-In the pool of four placebo-controlled clinical trials, male genital mycotic infections (e.g., candidal balanitis, balanoposthitis) occurred in 0.6%, 4.2%, and 3.7% of males treated with placebo, INVOKANA 100 mg, and INVOKANA 300 mg, respectively.
+In the pool of four placebo-controlled clinical trials, male genital mycotic infections (e.g., candidal balanitis, balanoposthitis) occurred in 0.7%, 4.2%, and 3.8% of males treated with placebo, INVOKANA 100 mg, and INVOKANA 300 mg, respectively.
 Male genital mycotic infections occurred more commonly in uncircumcised males and in males with a prior history of balanitis or balanoposthitis.
 Male patients who developed genital mycotic infections on INVOKANA were more likely to experience recurrent infections (22% on INVOKANA versus none on placebo), and require treatment with oral or topical antifungal agents and anti-microbial agents than patients on comparators.
 In males, discontinuations due to genital mycotic infections occurred in 0% and 0.5% of patients treated with placebo and INVOKANA, respectively.
@@ -230,6 +235,8 @@ Additional adverse reactions have been identified during postapproval use of INV
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Ketoacidosis [see Warnings and Precautions (5.2)]
+
+Acute Kidney Injury and Impairment in Renal Function [see Warnings and Precautions (5.3)]
 
 Anaphylaxis, Angioedema [see Warnings and Precautions (5.8)]
 

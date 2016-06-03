@@ -23,12 +23,21 @@ In some but not all cases, factors predisposing to ketoacidosis such as insulin 
 Before initiating INVOKANA, consider factors in the patient history that may predispose to ketoacidosis including pancreatic insulin deficiency from any cause, caloric restriction, and alcohol abuse.
 In patients treated with INVOKANA consider monitoring for ketoacidosis and temporarily discontinuing INVOKANA in clinical situations known to predispose to ketoacidosis (e.g., prolonged fasting due to acute illness or surgery).
 
-## 5.3 Impairment in Renal Function
+## 5.3 Acute Kidney Injury and Impairment in Renal Function
+
+INVOKANA causes intravascular volume contraction [see Warnings and Precautions (5.1)] and can cause renal impairment [see Adverse Reactions (6.1)].
+There have been postmarketing reports of acute kidney injury, some requiring hospitalization and dialysis, in patients receiving INVOKANA; some reports involved patients younger than 65 years of age.
+
+Before initiating INVOKANA, consider factors that may predispose patients to acute kidney injury including hypovolemia, chronic renal insufficiency, congestive heart failure and concomitant medications (diuretics, ACE inhibitors, ARBs, NSAIDs).
+Consider temporarily discontinuing INVOKANA in any setting of reduced oral intake (such as acute illness or fasting) or fluid losses (such as gastrointestinal illness or excessive heat exposure); monitor patients for signs and symptoms of acute kidney injury.
+If acute kidney injury occurs, discontinue INVOKANA promptly and institute treatment.
 
 INVOKANA increases serum creatinine and decreases eGFR.
 Patients with hypovolemia may be more susceptible to these changes.
-Renal function abnormalities can occur after initiating INVOKANA [see Contraindications (4) and Adverse Reactions (6.1)].
-More frequent renal function monitoring is recommended in patients with an eGFR below 60 mL/min/1.73 m2.
+Renal function abnormalities can occur after initiating INVOKANA [see Adverse Reactions (6.1)].
+Renal function should be evaluated prior to initiation of INVOKANA and monitored periodically thereafter.
+Dosage adjustment and more frequent renal function monitoring are recommended in patients with an eGFR below 60 mL/min/1.73 m2.
+Use of INVOKANA is not recommended when eGFR is persistently less than 45 mL/min/1.73 m2 and is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 [see Dosage and Administration (2.2), Contraindications (4), Use in Specific Populations (8.6)].
 
 ## 5.4 Hyperkalemia
 
