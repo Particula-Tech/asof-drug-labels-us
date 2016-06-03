@@ -24,4 +24,3 @@ Table 6: Drugs that are Contraindicated with REYATAZ (Information in the table a
 | PDE5 Inhibitor | Sildenafilb when dosed as REVATIO® for the treatment of pulmonary arterial hypertension | Potential for sildenafil-associated adverse events (which include visual disturbances, hypotension, priapism, and syncope). |
 | Protease Inhibitors | Indinavir | Both REYATAZ and indinavir are associated with indirect (unconjugated) hyperbilirubinemia. |
 | Non-nucleoside Reverse Transcriptase Inhibitors | Nevirapine | Nevirapine substantially decreases atazanavir exposure which may result in loss of therapeutic effect and development of resistance. Potential risk for nevirapine-associated adverse reactions due to increased nevirapine exposures. |
-| a See Drug Interactions, Table 16 (7) for parenterally administered midazolam. b See Drug Interactions, Table 16 (7) for sildenafil when dosed as VIAGRA® for erectile dysfunction. |  |  |

@@ -23,7 +23,7 @@ Advise patients to avoid doing things that can spread HIV infection to others.
 Inform patients that atazanavir may produce changes in the electrocardiogram (eg, PR prolongation).
 Tell patients to consult their healthcare provider if they are experiencing symptoms such as dizziness or lightheadedness [see Warnings and Precautions (5.1)].
 
-### Severe Skin Reactions
+### Severe Skin Reaction
 
 Inform patients there have been reports of severe skin reactions (eg, Stevens-Johnson syndrome, erythema multiforme, and toxic skin eruptions) with REYATAZ use.
 Advise patients that if signs or symptoms of severe skin reactions or hypersensitivity reactions develop, they must discontinue REYATAZ and seek medical evaluation immediately [see Warnings and Precautions (5.2) and Adverse Reactions (6.1)].

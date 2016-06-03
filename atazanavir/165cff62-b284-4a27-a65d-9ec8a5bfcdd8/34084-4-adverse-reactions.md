@@ -256,7 +256,7 @@ Hepatic System: hepatic function abnormalities
 
 Hepatobiliary Disorders: cholelithiasis [see Warnings and Precautions (5.5)], cholecystitis, cholestasis
 
-Metabolic System and Nutrition Disorders: diabetes mellitus, hyperglycemia [see Warnings and Precautions (5.7)]
+Metabolic System and Nutrition Disorders: diabetes mellitus, hyperglycemia [see Warnings and Precautions (5.8)]
 
 Musculoskeletal System: arthralgia
 

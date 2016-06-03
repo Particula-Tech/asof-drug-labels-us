@@ -24,7 +24,7 @@ Dose Adjustments during Pregnancy and the Postpartum Period
   - •For treatment-experienced pregnant women during the second or third trimester, when REYATAZ is coadministered with either an H2-receptor antagonist or tenofovir, REYATAZ 400 mg with ritonavir 100 mg once daily is recommended.
     There are insufficient data to recommend a REYATAZ dose for use with both an H2-receptor antagonist and tenofovir in treatment-experienced pregnant women.
 - •No dosage adjustment is required for postpartum patients.
-  However, patients should be closely monitored for adverse events because atazanavir exposures could be higher during the first 2 months after delivery [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3).]
+  However, patients should be closely monitored for adverse events because atazanavir exposures could be higher during the first 2 months after delivery [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
 
 #### Maternal Adverse Reactions
 

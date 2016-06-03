@@ -2,7 +2,7 @@
 
 ## 2.1 Overview
 
-- •REYATAZ capsules and oral powdermust be taken with food.
+- •REYATAZ capsules and oral powder must be taken with food.
 - •Do not open the capsules.
 - •The recommended oral dosage of REYATAZ depends on the treatment history of the patient and the use of other coadministered drugs.
   When coadministered with H2-receptor antagonists or proton-pump inhibitors, dose separation may be required [see Dosage and Administration (2.2, 2.3, 2.4, 2.5) and Drug Interactions (7)].
@@ -60,10 +60,10 @@ Table 3 displays the recommended dosage of REYATAZ oral powder and ritonavir.
 
 Table 3: Recommended Dosage of REYATAZ Oral Powder and Ritonavir in Pediatric Patients (at least 3 months of age and weighing at least 5 kg)a,b
 
-| Body Weight | Daily Dosage of REYATAZ Oral Powder | Daily Dosage of Ritonavir |
+| Body Weight | Daily Dosage of REYATAZ Oral Powder | Daily Dosage of Ritonavir Oral Solution |
 | --- | --- | --- |
-| 5 kg to less than 15 kg | 200 mg (4 packets)c,d | 80 mgc |
-| 15 kg to less than 25 kg | 250 mg (5 packets)d | 80 mgc |
+| 5 kg to less than 15 kg | 200 mg (4 packets)c,d | 80 mg |
+| 15 kg to less than 25 kg | 250 mg (5 packets)d | 80 mg |
 | a The same recommendations regarding the timing and maximum doses of concomitant PPIs and H2RAs in adults also apply to pediatric patients. See Drug Interactions (7) for instructions concerning coadministration of acid reducing medications (eg, H2RA or PPIs), and other antiretroviral drugs (eg, efavirenz, tenofovir, and didanosine). b For pediatric patients at least 25 kg who cannot swallow REYATAZ capsules, 300 mg (6 packets) REYATAZ oral powder is taken once daily with food along with 100 mg ritonavir. c Only patients weighing 5 to less than 10 kg who do not tolerate the 200 mg (4 packets) dose of REYATAZ oral powder and have not previously taken an HIV protease inhibitor, may take 150 mg (3 packets) REYATAZ oral powder with close HIV viral load monitoring. d Each packet contains 50 mg of REYATAZ. |  |  |
 
 Instructions for Mixing REYATAZ Oral Powder [see FDA-approved Instructions for Use]

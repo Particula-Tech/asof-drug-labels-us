@@ -4,7 +4,7 @@
 
 REYATAZ has been shown to prolong the PR interval of the electrocardiogram in some patients.
 In healthy volunteers and in patients, abnormalities in atrioventricular (AV) conduction were asymptomatic and generally limited to first-degree AV block.
-There have been reports of second-degree AV block and other conduction abnormalities [see Adverse Reactions (6.4) and Overdosage (10)].
+There have been reports of second-degree AV block and other conduction abnormalities [see Adverse Reactions (6.2) and Overdosage (10)].
 In clinical trials that included electrocardiograms, asymptomatic first-degree AV block was observed in 5.9% of atazanavir-treated patients (n=920), 5.2% of lopinavir/ritonavir-treated patients (n=252), 10.4% of nelfinavir-treated patients (n=48), and 3.0% of efavirenz-treated patients (n=329).
 In Study AI424-045, asymptomatic first-degree AV block was observed in 5% (6/118) of atazanavir/ritonavir-treated patients and 5% (6/116) of lopinavir/ritonavir-treated patients who had on-study electrocardiogram measurements.
 Because of limited clinical experience in patients with preexisting conduction system disease (eg, marked first-degree AV block or second- or third-degree AV block).
