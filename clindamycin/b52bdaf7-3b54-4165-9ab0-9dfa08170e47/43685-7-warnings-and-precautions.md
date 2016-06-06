@@ -2,7 +2,7 @@
 
 Pseudomembranous colitis has been reported with nearly all antibacterial agents, including clindamycin, and may range in severity from mild to life-threatening.
 Orally and parenterally administered clindamycin has been associated with severe colitis which may end fatally.
-Diarrhea, bloody diarrhea, and colitis (including pseudomembranous colitis) have been reported with the use of orally and parenterally administered clindamycin, as well as with topical (dermal) formulations of clindamycin.
+Diarrhea, bloody diarrhea, and colitis (including pseudomembranous colitis) have been reported with the use of orally and parenterally administered clindamycin, as well as with topical (dermal and vaginal) formulations of clindamycin.
 Therefore, it is important to consider this diagnosis in patients who present with diarrhea subsequent to the administration of clindamycin, even when administered by the vaginal route, because approximately 5% of the clindamycin dose is systemically absorbed from the vagina.
 
 Treatment with antibacterial agents alters the normal flora of the colon and may permit overgrowth of clostridia.

@@ -2,7 +2,7 @@
 
 In two clinical studies involving 674 evaluable non-pregnant women with bacterial vaginosis comparing Clindamycin phosphate vaginal cream 2% for 3 or 7 days, the clinical cure rates, determined at 1 month posttherapy, ranged from 72% to 81% for the 3-day treatment and 84% to 86% for the 7-day treatment.
 
-|  | Clindamycin phosphate vaginal cream 2% 3 Day |  | Clindamycin phosphate vaginal cream 2% 7 Day |  |
+|  | Clindamycin Phosphate Vaginal Cream 2% 3 Day |  | Clindamycin Phosphate Vaginal Cream 2% 7 Day |  |
 | --- | --- | --- | --- | --- |
 | US Study | 94/131 | 72% | 110/128 | 86% |
 | European Study | 161/199 | 81% | 181/216 | 84% |
