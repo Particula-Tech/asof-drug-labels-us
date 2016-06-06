@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-INVOKAMET (canagliflozin and metformin hydrochloride) is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus who are not adequately controlled on a regimen containing metformin or canagliflozin, or in patients who are already treated with both canagliflozin and metformin [see Clinical Studies (14)].
+INVOKAMET (canagliflozin and metformin hydrochloride) is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus when treatment with both canagliflozin and metformin is appropriate.
 
 Limitations of Use
 

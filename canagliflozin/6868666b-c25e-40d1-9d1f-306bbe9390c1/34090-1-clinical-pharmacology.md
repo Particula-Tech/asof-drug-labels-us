@@ -16,7 +16,7 @@ Metformin
 
 Metformin is an antihyperglycemic agent which improves glucose tolerance in patients with type 2 diabetes, lowering both basal and postprandial plasma glucose.
 Metformin decreases hepatic glucose production, decreases intestinal absorption of glucose, and improves insulin sensitivity by increasing peripheral glucose uptake and utilization.
-Metformin does not produce hypoglycemia in either patients with type 2 diabetes or normal subjects except in special circumstances [see Warnings and Precautions (5.8)] and does not cause hyperinsulinemia.
+Metformin does not produce hypoglycemia in either patients with type 2 diabetes or normal patients except in special circumstances [see Warnings and Precautions (5.7)] and does not cause hyperinsulinemia.
 With metformin therapy, insulin secretion remains unchanged while fasting insulin levels and day-long plasma insulin response may actually decrease.
 
 ## 12.2 Pharmacodynamics
@@ -26,7 +26,7 @@ Canagliflozin
 Following single and multiple oral doses of canagliflozin in patients with type 2 diabetes, dose-dependent decreases in RTG and increases in urinary glucose excretion were observed.
 From a starting RTG value of approximately 240 mg/dL, canagliflozin at 100 mg and 300 mg once daily suppressed RTG throughout the 24-hour period.
 Maximal suppression of mean RTG over the 24-hour period was seen with the 300 mg daily dose to approximately 70 to 90 mg/dL in patients with type 2 diabetes in Phase 1 studies.
-The reductions in RTG led to increases in mean UGE of approximately 100 g/day in subjects with type 2 diabetes treated with either 100 mg or 300 mg of canagliflozin.
+The reductions in RTG led to increases in mean UGE of approximately 100 g/day in patients with type 2 diabetes treated with either 100 mg or 300 mg of canagliflozin.
 The 24-h mean RTG at steady state was similar following once daily and twice daily dosing regimens at the same total daily dose of 100 mg or 300 mg.
 In patients with type 2 diabetes given 100 to 300 mg once daily over a 16-day dosing period, reductions in RTG and increases in urinary glucose excretion were observed over the dosing period.
 In this study, plasma glucose declined in a dose-dependent fashion within the first day of dosing.
@@ -128,13 +128,13 @@ A single-dose, open-label study evaluated the pharmacokinetics of canagliflozin 
 Renal impairment did not affect the Cmax of canagliflozin.
 Compared to healthy subjects (N=3; eGFR greater than or equal to 90 mL/min/1.73 m2), plasma AUC of canagliflozin was increased by approximately 15%, 29%, and 53% in subjects with mild (N=10), moderate (N=9), and severe (N=10) renal impairment, respectively, (eGFR 60 to less than 90, 30 to less than 60, and 15 to less than 30 mL/min/1.73 m2, respectively) but was similar for ESRD (N=8) subjects and healthy subjects.
 Increases in canagliflozin AUC of this magnitude are not considered clinically relevant.
-The pharmacodynamic response to canagliflozin declines with increasing severity of renal impairment [see Contraindications (4) and Warnings and Precautions (5.3)].
+The pharmacodynamic response to canagliflozin declines with increasing severity of renal impairment [see Contraindications (4) and Warnings and Precautions (5.4)].
 
 Canagliflozin was negligibly removed by hemodialysis.
 
 Metformin
 
-In patients with decreased renal function (based on measured creatinine clearance), the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased in proportion to the decrease in creatinine clearance [see Contraindications (4) and Warnings and Precautions (5.3)].
+In patients with decreased renal function (based on measured creatinine clearance), the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased in proportion to the decrease in creatinine clearance [see Contraindications (4) and Warnings and Precautions (5.4)].
 
 Hepatic Impairment
 
@@ -143,11 +143,11 @@ Canagliflozin
 Relative to subjects with normal hepatic function, the geometric mean ratios for Cmax and AUC∞ of canagliflozin were 107% and 110%, respectively, in subjects with Child-Pugh class A (mild hepatic impairment) and 96% and 111%, respectively, in subjects with Child-Pugh class B (moderate hepatic impairment) following administration of a single 300 mg dose of canagliflozin.
 
 These differences are not considered to be clinically meaningful.
-There is no clinical experience in patients with Child-Pugh class C (severe) hepatic impairment [see Warnings and Precautions (5.7)].
+There is no clinical experience in patients with Child-Pugh class C (severe) hepatic impairment [see Warnings and Precautions (5.1)].
 
 Metformin
 
-No pharmacokinetic studies of metformin have been conducted in patients with hepatic insufficiency [see Warnings and Precautions (5.7)].
+No pharmacokinetic studies of metformin have been conducted in patients with hepatic insufficiency [see Warnings and Precautions (5.1)].
 
 Pharmacokinetic Effects of Age, Body Mass Index (BMI)/Weight, Gender and Race
 
@@ -229,7 +229,7 @@ Table 6: Effect of Canagliflozin on Systemic Exposure of Co-Administered Drugs
 | Glyburide | 1.25 mg | 200 mg QD for 6 days | glyburide | 1.02 (0.98; 1.07) | 0.93 (0.85; 1.01) |
 | 3-cis-hydroxy-glyburide | 1.01 (0.96; 1.07) | 0.99 (0.91; 1.08) |  |  |  |
 | 4-trans-hydroxy-glyburide | 1.03 (0.97; 1.09) | 0.96 (0.88; 1.04) |  |  |  |
-| Hydrochlorothiazide | 25 mg QD for 35 days | 300 mg QD for 7 days | Hydrochloro-thiazide | 0.99 (0.95; 1.04) | 0.94 (0.87; 1.01) |
+| Hydrochlorothiazide | 25 mg QD for 35 days | 300 mg QD for 7 days | Hydrochlorothiazide | 0.99 (0.95; 1.04) | 0.94 (0.87; 1.01) |
 | Metformin | 2,000 mg | 300 mg QD for 8 days | metformin | 1.20 (1.08; 1.34) | 1.06 (0.93; 1.20) |
 | Simvastatin | 40 mg | 300 mg QD for 7 days | simvastatin | 1.12 (0.94; 1.33) | 1.09 (0.91; 1.31) |
 | simvastatin acid | 1.18 (1.03; 1.35) | 1.26 (1.10; 1.45) |  |  |  |
@@ -251,9 +251,9 @@ Table 7: Effect of Co−Administered Drugs on Plasma Metformin Systemic Exposure
 | Nifedipine | 10 mg | 850 mg | 1.16 | 1.21 |
 | Propranolol | 40 mg | 850 mg | 0.90 | 0.94 |
 | Ibuprofen | 400 mg | 850 mg | 1.05 | 1.07 |
-| Cationic drugs eliminated by renal tubular secretion may reduce metformin elimination: use with caution [see Warnings and Precautions (5) and Drug Interactions (7)] |  |  |  |  |
+| Drugs that are eliminated by renal tubular secretion increase the accumulation of metformin [see Warnings and Precautions (5) and Drug Interactions (7)] |  |  |  |  |
 | Cimetidine | 400 mg | 850 mg | 1.40 | 1.61 |
-| Carbonic anhydrase inhibitors may cause metabolic acidosis: use with caution [see Warnings and Precautions (5) and Drug Interactions (7)] |  |  |  |  |
+| Carbonic anhydrase inhibitors may cause metabolic acidosis [see Warnings and Precautions (5) and Drug Interactions (7)] |  |  |  |  |
 | TopiramateHealthy volunteer study at steady state with topiramate 100 mg every 12 hours and metformin 500 mg every 12 hours for 7 days. Study conducted to assess pharmacokinetics only | 100 mg | 500 mg | 1.25Steady state AUC0–12h. | 1.18 |
 
 Table 8: Effect of Metformin on Co−Administered Drug Systemic Exposures

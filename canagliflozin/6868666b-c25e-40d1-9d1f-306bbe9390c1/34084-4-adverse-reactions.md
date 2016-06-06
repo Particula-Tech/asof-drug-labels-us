@@ -2,19 +2,18 @@
 
 The following adverse reactions are also discussed elsewhere in the labeling:
 
-- Lactic Acidosis [see Boxed Warning and Warnings and Precautions (5.1, 5.4, 5.7, 5.13, 5.14)]
+- Lactic Acidosis [see Boxed Warning and Warnings and Precautions (5.1, 5.4)]
 - Hypotension [see Warnings and Precautions (5.2)]
 - Ketoacidosis [see Warnings and Precautions (5.3)]
-- Impairment in Renal Function [see Warnings and Precautions (5.4)]
+- Acute Kidney Injury and Impairment in Renal Function [see Warnings and Precautions (5.4)]
 - Hyperkalemia [see Warnings and Precautions (5.5)]
 - Urosepsis and Pyelonephritis [see Warnings and Precautions (5.6)]
-- Impaired Hepatic Function [see Warnings and Precautions (5.7)]
-- Hypoglycemia with Concomitant Use of Sulfonylurea or Insulin [see Warnings and Precautions (5.8)]
-- Genital Mycotic Infections [see Warnings and Precautions (5.9)]
-- Hypersensitivity Reactions [see Warnings and Precautions (5.10)]
-- Bone Fracture [see Warnings and Precautions (5.11)]
-- Vitamin B12 Deficiency [see Warnings and Precautions (5.12)]
-- Increases in Low-Density Lipoprotein (LDL-C) [see Warnings and Precautions (5.15)]
+- Hypoglycemia with Concomitant Use of Sulfonylurea or Insulin [see Warnings and Precautions (5.7)]
+- Genital Mycotic Infections [see Warnings and Precautions (5.8)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.9)]
+- Bone Fracture [see Warnings and Precautions (5.10)]
+- Vitamin B12 Deficiency [see Warnings and Precautions (5.11)]
+- Increases in Low-Density Lipoprotein (LDL-C) [see Warnings and Precautions (5.12)]
 
 ## 6.1 Clinical Studies Experience
 
@@ -26,9 +25,9 @@ Canagliflozin
 
 The data in Table 1 is derived from four 26-week placebo-controlled trials.
 In one trial canagliflozin was used as monotherapy and in three trials canagliflozin was used as add-on therapy with metformin (with or without other agents) [see Clinical Studies (14)].
-These data reflect exposure of 1667 patients to canagliflozin and a mean duration of exposure to canagliflozin of 24 weeks with 1275 subjects exposed to a combination of canagliflozin and metformin.
+These data reflect exposure of 1667 patients to canagliflozin and a mean duration of exposure to canagliflozin of 24 weeks with 1275 patients exposed to a combination of canagliflozin and metformin.
 Patients received canagliflozin 100 mg (N=833), canagliflozin 300 mg (N=834) or placebo (N=646) once daily.
-The mean daily dose of metformin was 2138 mg (SD 337.3) for the 1275 subjects in the three placebo-controlled metformin add-on studies.
+The mean daily dose of metformin was 2138 mg (SD 337.3) for the 1275 patients in the three placebo-controlled metformin add-on studies.
 The mean age of the population was 56 years and 2% were older than 75 years of age.
 Fifty percent (50%) of the population was male and 72% were Caucasian, 12% were Asian, and 5% were Black or African American.
 At baseline the population had diabetes for an average of 7.3 years, had a mean HbA1C of 8.0% and 20% had established microvascular complications of diabetes.
@@ -37,18 +36,21 @@ Baseline renal function was normal or mildly impaired (mean eGFR 88 mL/min/1.73 
 Table 1 shows common adverse reactions associated with the use of canagliflozin.
 These adverse reactions were not present at baseline, occurred more commonly on canagliflozin than on placebo, and occurred in at least 2% of patients treated with either canagliflozin 100 mg or canagliflozin 300 mg.
 
-Table 1: Adverse Reactions From Pool of Four 26−Week Placebo-Controlled Studies Reported in ≥ 2% of Canagliflozin-Treated PatientsThe four placebo-controlled trials included one monotherapy trial and three add-on combination trials with metformin, metformin and sulfonylurea, or metformin and pioglitazone.
+Table 1: Adverse Reactions From Pool of Four 26–Week Placebo-Controlled Studies Reported in ≥ 2% of Canagliflozin-Treated PatientsThe four placebo-controlled trials included one monotherapy trial and three add-on combination trials with metformin, metformin and sulfonylurea, or metformin and pioglitazone.
 
 | Adverse Reaction | Placebo N=646 | Canagliflozin 100 mg N=833 | Canagliflozin 300 mg N=834 |
 | --- | --- | --- | --- |
-| Female genital mycotic infectionsFemale genital mycotic infections include the following adverse reactions: Vulvovaginal candidiasis, Vulvovaginal mycotic infection, Vulvovaginitis, Vaginal infection, Vulvitis, and Genital infection fungal. Percentages calculated with the number of female subjects in each group as denominator: placebo (N=312), canagliflozin 100 mg (N=425), and canagliflozin 300 mg (N=430). | 3.2% | 10.4% | 11.4% |
-| Urinary tract infectionsUrinary tract infections include the following adverse reactions: Urinary tract infection, Cystitis, Kidney infection, and Urosepsis. | 4.0% | 5.9% | 4.3% |
-| Increased urinationIncreased urination includes the following adverse reactions: Polyuria, Pollakiuria, Urine output increased, Micturition urgency, and Nocturia. | 0.8% | 5.3% | 4.6% |
-| Male genital mycotic infectionsMale genital mycotic infections include the following adverse reactions: Balanitis or Balanoposthitis, Balanitis candida, and Genital infection fungal. Percentages calculated with the number of male subjects in each group as denominator: placebo (N=334), canagliflozin 100 mg (N=408), and canagliflozin 300 mg (N=404). | 0.6% | 4.2% | 3.7% |
-| Vulvovaginal pruritus | 0.0% | 1.6% | 3.0% |
-| ThirstThirst includes the following adverse reactions: Thirst, Dry mouth, and Polydipsia. | 0.2% | 2.8% | 2.3% |
-| Constipation | 0.9% | 1.8% | 2.3% |
-| Nausea | 1.5% | 2.2% | 2.3% |
+| Urinary tract infectionsUrinary tract infections include the following adverse reactions: Urinary tract infection, Cystitis, Kidney infection, and Urosepsis. | 3.8% | 5.9% | 4.4% |
+| Increased urinationIncreased urination includes the following adverse reactions: Polyuria, Pollakiuria, Urine output increased, Micturition urgency, and Nocturia. | 0.7% | 5.1% | 4.6% |
+| ThirstThirst includes the following adverse reactions: Thirst, Dry mouth, and Polydipsia. | 0.1% | 2.8% | 2.4% |
+| Constipation | 0.9% | 1.8% | 2.4% |
+| Nausea | 1.6% | 2.1% | 2.3% |
+|  | N=312 | N=425 | N=430 |
+| Female genital mycotic infectionsFemale genital mycotic infections include the following adverse reactions: Vulvovaginal candidiasis, Vulvovaginal mycotic infection, Vulvovaginitis, Vaginal infection, Vulvitis, and Genital infection fungal. | 2.8% | 10.6% | 11.6% |
+| Vulvovaginal pruritus | 0.0% | 1.6% | 3.2% |
+|  | N=334 | N=408 | N=404 |
+| Male genital mycotic infectionsMale genital mycotic infections include the following adverse reactions: Balanitis or Balanoposthitis, Balanitis candida, and Genital infection fungal. | 0.7% | 4.2% | 3.8% |
+| Note: Percentages were weighted by studies. Study weights were proportional to the harmonic mean of the three treatment sample sizes. |  |  |  |
 
 Abdominal pain was also more commonly reported in patients taking canagliflozin 100 mg (1.8%), 300 mg (1.7%) than in patients taking placebo (0.8%).
 
@@ -56,6 +58,8 @@ Canagliflozin and Metformin
 
 The incidence and type of adverse reactions in the three 26-week placebo-controlled metformin add-on studies, representing a majority of data from the four 26-week placebo-controlled trials, was similar to the adverse reactions described in Table 1.
 There were no additional adverse reactions identified in the pooling of these three placebo-controlled studies that included metformin relative to the four placebo-controlled studies.
+
+In a trial with canagliflozin as initial combination therapy with metformin [see Clinical Studies (14.1)], an increased incidence of diarrhea was observed in the canagliflozin and metformin combination groups (4.2%) compared to canagliflozin or metformin monotherapy groups (1.7%).
 
 Pool of Placebo- and Active-Controlled Trials - Canagliflozin
 
@@ -70,9 +74,11 @@ At baseline, the population had diabetes for an average of 11 years, had a mean 
 Baseline renal function was normal or mildly impaired (mean eGFR 81 mL/min/1.73 m2).
 
 The types and frequency of common adverse reactions observed in the pool of eight clinical trials were consistent with those listed in Table 1.
-In this pool, canagliflozin was also associated with the adverse reactions of fatigue (1.7% with comparator, 2.2% with canagliflozin 100 mg, and 2.0% with canagliflozin 300 mg) and loss of strength or energy (i.e., asthenia) (0.6% with comparator, 0.7% with canagliflozin 100 mg, and 1.1% with canagliflozin 300 mg).
+Percentages were weighted by studies.
+Study weights were proportional to the harmonic mean of the three treatment sample sizes.
+In this pool, canagliflozin was also associated with the adverse reactions of fatigue (1.8% with comparator, 2.2% with canagliflozin 100 mg, and 2.0% with canagliflozin 300 mg) and loss of strength or energy (i.e., asthenia) (0.6% with comparator, 0.7% with canagliflozin 100 mg, and 1.1% with canagliflozin 300 mg).
 
-In the pool of eight clinical trials, the incidence rate of pancreatitis (acute or chronic) was 0.9, 2.7, and 0.9 per 1000 patient-years of exposure to comparator, canagliflozin 100 mg, and canagliflozin 300 mg, respectively.
+In the pool of eight clinical trials, the incidence rate of pancreatitis (acute or chronic) was 0.1, 0.2, and 0.1 receiving comparator, canagliflozin 100 mg, and canagliflozin 300 mg, respectively.
 
 In the pool of eight clinical trials, hypersensitivity-related adverse reactions (including erythema, rash, pruritus, urticaria, and angioedema) occurred in 3.0%, 3.8%, and 4.2% of patients receiving comparator, canagliflozin 100 mg, and canagliflozin 300 mg, respectively.
 Five patients experienced serious adverse reactions of hypersensitivity with canagliflozin, which included 4 patients with urticaria and 1 patient with a diffuse rash and urticaria occurring within hours of exposure to canagliflozin.
@@ -141,22 +147,22 @@ Discontinuations due to renal-related adverse events occurred in 1.0% with place
 
 Genital Mycotic Infections
 
-In the pool of four placebo-controlled clinical trials, female genital mycotic infections (e.g., vulvovaginal mycotic infection, vulvovaginal candidiasis, and vulvovaginitis) occurred in 3.2%, 10.4%, and 11.4% of females treated with placebo, canagliflozin 100 mg, and canagliflozin 300 mg, respectively.
+In the pool of four placebo-controlled clinical trials, female genital mycotic infections (e.g., vulvovaginal mycotic infection, vulvovaginal candidiasis, and vulvovaginitis) occurred in 2.8%, 10.6%, and 11.6% of females treated with placebo, canagliflozin 100 mg, and canagliflozin 300 mg, respectively.
 Patients with a history of genital mycotic infections were more likely to develop genital mycotic infections on canagliflozin.
 Female patients who developed genital mycotic infections on canagliflozin were more likely to experience recurrence and require treatment with oral or topical antifungal agents and anti-microbial agents.
-In females, discontinuation due to genital mycotic infections occurred in 0% and 0.7% of patients treated with placebo and canagliflozin, respectively [see Warnings and Precautions (5.9)].
+In females, discontinuation due to genital mycotic infections occurred in 0% and 0.7% of patients treated with placebo and canagliflozin, respectively [see Warnings and Precautions (5.8)].
 
-In the pool of four placebo-controlled clinical trials, male genital mycotic infections (e.g., candidal balanitis, balanoposthitis) occurred in 0.6%, 4.2%, and 3.7% of males treated with placebo, canagliflozin 100 mg, and canagliflozin 300 mg, respectively.
+In the pool of four placebo-controlled clinical trials, male genital mycotic infections (e.g., candidal balanitis, balanoposthitis) occurred in 0.7%, 4.2%, and 3.8% of males treated with placebo, canagliflozin 100 mg, and canagliflozin 300 mg, respectively.
 Male genital mycotic infections occurred more commonly in uncircumcised males and in males with a prior history of balanitis or balanoposthitis.
 Male patients who developed genital mycotic infections on canagliflozin were more likely to experience recurrent infections (22% on canagliflozin versus none on placebo), and require treatment with oral or topical antifungal agents and anti-microbial agents than patients on comparators.
 In males, discontinuations due to genital mycotic infections occurred in 0% and 0.5% of patients treated with placebo and canagliflozin, respectively.
-In the pooled analysis of 8 controlled trials, phimosis was reported in 0.3% of uncircumcised male patients treated with canagliflozin and 0.2% required circumcision to treat the phimosis [see Warnings and Precautions (5.9)].
+In the pooled analysis of 8 controlled trials, phimosis was reported in 0.3% of uncircumcised male patients treated with canagliflozin and 0.2% required circumcision to treat the phimosis [see Warnings and Precautions (5.8)].
 
 Hypoglycemia
 
 In canagliflozin clinical trials, hypoglycemia was defined as any event regardless of symptoms, where biochemical hypoglycemia was documented (any glucose value below or equal to 70 mg/dL).
 Severe hypoglycemia was defined as an event consistent with hypoglycemia where the patient required the assistance of another person to recover, lost consciousness, or experienced a seizure (regardless of whether biochemical documentation of a low glucose value was obtained).
-In individual clinical trials [see Clinical Studies (14.6)], episodes of hypoglycemia occurred at a higher rate when canagliflozin was co-administered with insulin or sulfonylureas (Table 4) [see Warnings and Precautions (5.8)].
+In individual clinical trials [see Clinical Studies (14.6)], episodes of hypoglycemia occurred at a higher rate when canagliflozin was co-administered with insulin or sulfonylureas (Table 4) [see Warnings and Precautions (5.7)].
 
 Table 4: Incidence of HypoglycemiaNumber of patients experiencing at least one event of hypoglycemia based on either biochemically documented episodes or severe hypoglycemic events in the intent-to-treat population in Controlled Clinical Studies
 
@@ -184,7 +190,7 @@ Bone Fracture
 
 The occurrence of bone fractures was evaluated in a pool of nine clinical trials with a mean duration of exposure to canagliflozin of 85 weeks.
 The incidence rates of adjudicated bone fractures were 1.1, 1.4, and 1.5 per 100 patient-years of exposure in the comparator, canagliflozin 100 mg, and canagliflozin 300 mg groups, respectively.
-Fractures were observed as early as 12 weeks after treatment initiation and were more likely to be low trauma (e.g., fall from no more than standing height), and affect the upper extremities [see Warnings and Precautions (5.11)].
+Fractures were observed as early as 12 weeks after treatment initiation and were more likely to be low trauma (e.g., fall from no more than standing height), and affect the upper extremities [see Warnings and Precautions (5.10)].
 
 Metformin
 
@@ -200,7 +206,7 @@ In a pooled population of patients (N=723) with moderate renal impairment (eGFR 
 Severe elevations (greater than or equal to 6.5 mEq/L) occurred in 0.4% of patients treated with placebo, no patients treated with canagliflozin 100 mg, and 1.3% of patients treated with canagliflozin 300 mg.
 
 In these patients, increases in potassium were more commonly seen in those with elevated potassium at baseline.
-Among patients with moderate renal impairment, approximately 84% were taking medications that interfere with potassium excretion, such as potassium-sparing diuretics, angiotensin-converting-enzyme inhibitors, and angiotensin-receptor blockers [see Warnings and Precautions (5.4, 5.5) and Use in Specific Populations (8.6)].
+Among patients with moderate renal impairment, approximately 84% were taking medications that interfere with potassium excretion, such as potassium-sparing diuretics, angiotensin-converting-enzyme inhibitors, and angiotensin-receptor blockers [see Warnings and Precautions (5.2, 5.5) and Use in Specific Populations (8.6)].
 
 Increases in Serum Magnesium
 
@@ -218,7 +224,7 @@ Increases in Low-Density Lipoprotein Cholesterol (LDL-C) and non-High-Density Li
 
 In the pool of four placebo-controlled trials, dose-related increases in LDL-C with canagliflozin were observed.
 Mean changes (percent changes) from baseline in LDL-C relative to placebo were 4.4 mg/dL (4.5%) and 8.2 mg/dL (8.0%) with canagliflozin 100 mg and canagliflozin 300 mg, respectively.
-The mean baseline LDL-C levels were 104 to 110 mg/dL across treatment groups [see Warnings and Precautions (5.15)].
+The mean baseline LDL-C levels were 104 to 110 mg/dL across treatment groups [see Warnings and Precautions (5.12)].
 
 Dose-related increases in non-HDL-C with canagliflozin were observed.
 Mean changes (percent changes) from baseline in non-HDL-C relative to placebo were 2.1 mg/dL (1.5%) and 5.1 mg/dL (3.6%) with canagliflozin 100 mg and 300 mg, respectively.
@@ -244,6 +250,8 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Ketoacidosis [see Warnings and Precautions (5.3)]
 
-Anaphylaxis, Angioedema [see Warnings and Precautions (5.10)]
+Acute Kidney Injury and Impairment in Renal Function [see Warnings and Precautions (5.4)]
+
+Anaphylaxis, Angioedema [see Warnings and Precautions (5.9)]
 
 Urosepsis and Pyelonephritis [see Warnings and Precautions (5.6)]

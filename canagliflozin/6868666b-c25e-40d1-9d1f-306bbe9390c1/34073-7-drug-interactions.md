@@ -2,16 +2,21 @@
 
 ## 7.1 Drug Interactions with Metformin
 
-Cationic Drugs
-
-Cationic drugs (e.g., amiloride, digoxin, morphine, procainamide, quinidine, quinine, ranitidine, triamterene, trimethoprim, or vancomycin) that are eliminated by renal tubular secretion theoretically have the potential for interaction with metformin by competing for common renal tubular transport systems.
-Although such interactions remain theoretical (except for cimetidine), careful patient monitoring and dose adjustment of INVOKAMET and/or the interfering drug is recommended in patients who are taking cationic medications that are excreted via the proximal renal tubular secretory system.
-
 Carbonic Anhydrase Inhibitors
 
-Topiramate or other carbonic anhydrase inhibitors (e.g., zonisamide, acetazolamide or dichlorphenamide) frequently decrease serum bicarbonate and induce non-anion gap, hyperchloremic metabolic acidosis.
-Concomitant use of these drugs may induce metabolic acidosis and may increase the risk of lactic acidosis.
-Monitor for signs and symptoms of acidosis when these drugs are used concomitantly with INVOKAMET [see Warnings and Precautions (5.1)].
+Topiramate or other carbonic anhydrase inhibitors (e.g., zonisamide, acetazolamide or dichlorphenamide) frequently causes a decrease in serum bicarbonate and induce non-anion gap, hyperchloremic metabolic acidosis.
+Concomitant use of these drugs with INVOKAMET may increase the risk for lactic acidosis.
+Consider more frequent monitoring of these patients.
+
+Drugs That Reduce Metformin Clearance
+
+Drugs that are eliminated by renal tubular secretion (e.g. cationic drugs such as cimetidine) have the potential for interaction with metformin by competing for common renal tubular transport systems, and may increase the accumulation of metformin and the risk for lactic acidosis [see Clinical Pharmacology (12.3)].
+Consider more frequent monitoring of these patients.
+
+Alcohol
+
+Alcohol is known to potentiate the effect of metformin on lactate metabolism.
+Warn patients against excessive alcohol intake while receiving INVOKAMET.
 
 Drugs Affecting Glycemic Control
 

@@ -2,40 +2,51 @@
 
 ## 5.1 Lactic Acidosis
 
-Lactic acidosis is a rare, but serious, metabolic complication that can occur due to metformin accumulation during treatment with INVOKAMET and is fatal in approximately 50% of cases.
-Lactic acidosis may also occur in association with a number of pathophysiologic conditions, including diabetes mellitus, and whenever there is significant tissue hypoperfusion and hypoxemia.
-Lactic acidosis is characterized by elevated blood lactate levels (greater than 5 mmol/L), decreased blood pH, electrolyte disturbances with an increased anion gap, and an increased lactate/pyruvate ratio.
-When metformin is implicated as the cause of lactic acidosis, metformin plasma levels greater than 5 mcg/mL are generally found.
+There have been post-marketing cases of metformin-associated lactic acidosis, including fatal cases.
+These cases had a subtle onset and were accompanied by nonspecific symptoms such as malaise, myalgias, abdominal pain, respiratory distress, or increased somnolence; however, hypothermia, hypotension and resistant bradyarrhythmias have occurred with severe acidosis.
+Metformin-associated lactic acidosis was characterized by elevated blood lactate concentrations (>5 mmol/Liter), anion gap acidosis (without evidence of ketonuria or ketonemia), and an increased lactate:pyruvate ratio; metformin plasma levels generally >5 mcg/mL.
+Metformin decreases liver uptake of lactate increasing lactate blood levels which may increase the risk of lactic acidosis, especially in patients at risk.
 
-The reported incidence of lactic acidosis in patients receiving metformin is approximately 0.03 cases/1000 patient-years (with approximately 0.015 fatal cases/1000 patient-years).
-In more than 20,000 patient-years exposure to metformin in clinical trials, there were no reports of lactic acidosis.
-Reported cases have occurred primarily in diabetic patients with significant renal insufficiency, including both intrinsic renal disease and renal hypoperfusion, often in the setting of multiple concomitant medical/surgical problems and multiple concomitant medications.
-Patients with congestive heart failure requiring pharmacologic management, particularly when accompanied by hypoperfusion and hypoxemia due to unstable or acute failure, are at increased risk of lactic acidosis.
+If metformin-associated lactic acidosis is suspected, general supportive measures should be instituted promptly in a hospital setting, along with immediate discontinuation of INVOKAMET.
+In INVOKAMET-treated patients with a diagnosis or strong suspicion of lactic acidosis, prompt hemodialysis is recommended to correct the acidosis and remove accumulated metformin (metformin hydrochloride is dialyzable, with a clearance of up to 170 mL/minute under good hemodynamic conditions).
+Hemodialysis has often resulted in reversal of symptoms and recovery.
 
-The risk of lactic acidosis increases with the degree of renal dysfunction and the patient's age.
-The risk of lactic acidosis may, therefore, be significantly decreased by regular monitoring of renal function in patients taking metformin.
-In particular, treatment of the elderly should be accompanied by careful monitoring of renal function.
-Metformin treatment should not be initiated in any patients unless measurement of creatinine clearance demonstrates that renal function is not reduced.
-In addition, metformin should be promptly withheld in the presence of any condition associated with hypoxemia, dehydration, or sepsis.
+Educate patients and their families about the symptoms of lactic acidosis and if these symptoms occur instruct them to discontinue INVOKAMET and report these symptoms to their healthcare provider.
 
-Because impaired hepatic function may significantly limit the ability to clear lactate, metformin should be avoided in patients with clinical or laboratory evidence of hepatic impairment.
-Patients should be cautioned against excessive alcohol intake when taking metformin, since alcohol potentiates the effects of metformin on lactate metabolism.
-In addition, metformin should be temporarily discontinued prior to any intravascular radiocontrast study and for any surgical procedure necessitating restricted intake of food or fluids [see Warnings and Precautions (5.4, 5.7, 5.13, 5.14) and Clinical Pharmacology (12.3)].
+For each of the known and possible risk factors for metformin-associated lactic acidosis, recommendations to reduce the risk of and manage metformin-associated lactic acidosis are provided below:
 
-The onset of lactic acidosis often is subtle, and accompanied by nonspecific symptoms such as malaise, myalgias, respiratory distress, increasing somnolence, and nonspecific abdominal distress.
-More severe acidosis may be associated with signs such as hypothermia, hypotension, and resistant bradyarrhythmias.
-Patients should be educated to recognize and promptly report these symptoms.
-If present, INVOKAMET should be discontinued until lactic acidosis is ruled out.
-Gastrointestinal symptoms in patients on a chronic, stable dose of metformin could be caused by lactic acidosis or other serious disease.
+Renal Impairment: The postmarketing metformin-associated lactic acidosis cases primarily occurred in patients with significant renal impairment.
+The risk of metformin accumulation and metformin-associated lactic acidosis increases with the severity of renal impairment because metformin is substantially excreted by the kidney [see Clinical Pharmacology (12.3)].
 
-To rule out lactic acidosis, serum electrolytes, ketones, blood glucose, blood pH, lactate levels, and blood metformin levels may be useful.
-Levels of fasting venous plasma lactate above the upper limit of normal but less than 5 mmol/L in patients taking metformin do not necessarily indicate impending lactic acidosis and may be due to other mechanisms, such as poorly controlled diabetes or obesity, vigorous physical activity, or technical problems in sample handling.
+- Before initiating INVOKAMET, obtain an estimated glomerular filtration rate (eGFR).
+- INVOKAMET is contraindicated in patients with an eGFR less than 45 mL/minute/1.73 m2.
+- Obtain an eGFR at least annually in all patients taking INVOKAMET.
+  In patients at increased risk for the development of renal impairment (e.g., the elderly), renal function should be assessed more frequently.
 
-Lactic acidosis should be suspected in any diabetic patient with metabolic acidosis lacking evidence of ketoacidosis (ketonuria and ketonemia).
-Lactic acidosis is a medical emergency that must be treated in a hospital setting.
-In a patient with lactic acidosis who is taking metformin, the drug should be discontinued immediately and general supportive measures promptly instituted.
-Metformin is dialyzable (clearance of up to 170 mL/min under good hemodynamic conditions) and prompt hemodialysis is recommended to remove the accumulated metformin and correct the metabolic acidosis.
-Such management often results in prompt reversal of symptoms and recovery [see Boxed Warning and Contraindications (4)].
+Drug Interactions: The concomitant use of INVOKAMET with specific drugs may increase the risk of metformin-associated lactic acidosis: those that impair renal function, result in significant hemodynamic change, interfere with acid-base balance or increase metformin accumulation (e.g. cationic drugs) [see Drug Interactions (7)].
+Therefore, consider more frequent monitoring of patients.
+
+Age 65 or Greater: The risk of metformin-associated lactic acidosis increases with the patient's age because elderly patients have a greater likelihood of having hepatic, renal, or cardiac impairment than younger patients.
+Assess renal function more frequently in elderly patients [see Use in Specific Populations (8.5)].
+
+Radiological Studies with Contrast: Administration of intravascular iodinated contrast agents in metformin-treated patients has led to an acute decrease in renal function and the occurrence of lactic acidosis.
+Stop INVOKAMET at the time of, or prior to, an iodinated contrast imaging procedure in patients with an eGFR between 45 and 60 mL/min/1.73 m2; in patients with a history of hepatic impairment, alcoholism, or heart failure; or in patients who will be administered intra-arterial iodinated contrast.
+Re-evaluate eGFR 48 hours after the imaging procedure, and restart INVOKAMET if renal function is stable.
+
+Surgery and Other Procedures: Withholding of food and fluids during surgical or other procedures may increase the risk for volume depletion, hypotension and renal impairment.
+
+INVOKAMET should be temporarily discontinued while patients have restricted food and fluid intake.
+
+Hypoxic States: Several of the postmarketing cases of metformin-associated lactic acidosis occurred in the setting of acute congestive heart failure (particularly when accompanied by hypoperfusion and hypoxemia).
+Cardiovascular collapse (shock), acute myocardial infarction, sepsis, and other conditions associated with hypoxemia have been associated with lactic acidosis and may also cause pre-renal azotemia.
+When such events occur, discontinue INVOKAMET.
+
+Excessive Alcohol Intake: Alcohol potentiates the effect of metformin on lactate metabolism and this may increase the risk of metformin-associated lactic acidosis.
+Warn patients against excessive alcohol intake while receiving INVOKAMET.
+
+Hepatic Impairment: Patients with hepatic impairment have developed metformin-associated lactic acidosis.
+This may be due to impaired lactate clearance resulting in higher lactate blood levels.
+Therefore, avoid use of INVOKAMET in patients with clinical or laboratory evidence of hepatic disease.
 
 ## 5.2 Hypotension
 
@@ -60,29 +71,21 @@ In some but not all cases, factors predisposing to ketoacidosis such as insulin 
 Before initiating INVOKAMET consider factors in the patient history that may predispose to ketoacidosis including pancreatic insulin deficiency from any cause, caloric restriction, and alcohol abuse.
 In patients treated with INVOKAMET consider monitoring for ketoacidosis and temporarily discontinuing INVOKAMET in clinical situations known to predispose to ketoacidosis (e.g., prolonged fasting due to acute illness or surgery).
 
-## 5.4 Impairment in Renal Function
+## 5.4 Acute Kidney Injury and Impairment in Renal Function
+
+Canagliflozin causes intravascular volume contraction [see Warnings and Precautions (5.2)] and can cause renal impairment [see Adverse Reactions (6.1)].
+There have been postmarketing reports of acute kidney injury, some requiring hospitalization and dialysis, in patients receiving canagliflozin; some reports involved patients younger than 65 years of age.
+
+Before initiating INVOKAMET, consider factors that may predispose patients to acute kidney injury including hypovolemia, chronic renal insufficiency, congestive heart failure, and concomitant medications (diuretics, ACE inhibitors, ARBs, NSAIDs).
+Consider temporarily discontinuing INVOKAMET in any setting of reduced oral intake (such as acute illness or fasting) or fluid losses (such as gastrointestinal illness or excessive heat exposure); monitor patients for signs and symptoms of acute kidney injury.
+If acute kidney injury occurs, discontinue INVOKAMET promptly and institute treatment.
 
 Canagliflozin increases serum creatinine and decreases eGFR.
 Patients with hypovolemia may be more susceptible to these changes.
 Renal function abnormalities can occur after initiating INVOKAMET [see Adverse Reactions (6.1)].
-
-Metformin is known to be substantially excreted by the kidney.
-The risk of metformin accumulation and lactic acidosis increases with the degree of impairment of renal function.
-Therefore, INVOKAMET is contraindicated in patients with renal impairment [see Contraindications (4), Warnings and Precautions (5.1), and Use in Specific Populations (8.6)].
-
-Before initiation of INVOKAMET therapy and at least annually thereafter, assess renal function [see Contraindications (4)].
-In patients in whom development of renal impairment is anticipated (e.g., elderly), assess renal function more frequently and discontinue INVOKAMET if evidence of renal impairment is present (e.g. serum creatinine levels greater than or equal to 1.5 mg/dL for males or 1.4 mg/dL for females, or eGFR is less than 45 mL/min/1.73 m2).
-
-Use of Concomitant Medications That May Affect Renal Function or Metformin Disposition
-
-Monitor and adjust dose of INVOKAMET or concomitant drug in patients taking medication(s) that may affect renal function or result in a significant hemodynamic change or interfere with the disposition of metformin [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
-
-Radiological Studies and Surgical Procedures
-
-Radiologic studies involving the use of intravascular iodinated contrast materials (e.g., intravenous urogram, intravenous cholangiography, angiography, and computed tomography) can lead to acute alteration of renal function and have been associated with lactic acidosis in patients receiving metformin.
-Therefore, in patients in whom any such study is planned, temporarily discontinue INVOKAMET at the time of or prior to the procedure, and withhold for 48 hours subsequent to the procedure and reinstitute only after renal function has been confirmed to be normal.
-
-Temporarily discontinue INVOKAMET for any surgical procedure (except minor procedures not associated with restricted intake of food and fluids) and restart after the patient's oral intake has resumed and renal function has been evaluated as normal.
+Renal function should be evaluated prior to initiation of INVOKAMET and monitored periodically thereafter.
+Dosage adjustment and more frequent renal function monitoring are recommended in patients with an eGFR below 60 mL/min/1.73 m2.
+INVOKAMET is contraindicated in patients with an eGFR below 45 mL/min/1.73 m2 [see Dosage and Administration (2.2), Contraindications (4), Warnings and Precautions (5.1), Use in Specific Populations (8.6)].
 
 ## 5.5 Hyperkalemia
 
@@ -97,12 +100,7 @@ There have been postmarketing reports of serious urinary tract infections includ
 Treatment with SGLT2 inhibitors increases the risk for urinary tract infections.
 Evaluate patients for signs and symptoms of urinary tract infections and treat promptly, if indicated [see Adverse Reactions (6)].
 
-## 5.7 Impaired Hepatic Function
-
-Metformin use in patients with impaired hepatic function has been associated with some cases of lactic acidosis.
-Therefore, INVOKAMET is not recommended in patients with hepatic impairment [see Warnings and Precautions (5.1)].
-
-## 5.8 Hypoglycemia with Concomitant Use of Sulfonylurea or Insulin
+## 5.7 Hypoglycemia with Concomitant Use of Sulfonylurea or Insulin
 
 Canagliflozin
 
@@ -117,24 +115,24 @@ Elderly, debilitated, or malnourished patients, and those with adrenal or pituit
 Hypoglycemia may be difficult to recognize in the elderly, and in people who are taking beta-adrenergic blocking drugs.
 Monitor for a need to lower the dose of INVOKAMET to minimize the risk of hypoglycemia in these patients.
 
-## 5.9 Genital Mycotic Infections
+## 5.8 Genital Mycotic Infections
 
 Canagliflozin increases the risk of genital mycotic infections.
 Patients with a history of genital mycotic infections and uncircumcised males were more likely to develop genital mycotic infections [see Adverse Reactions (6.1)].
 Monitor and treat appropriately.
 
-## 5.10 Hypersensitivity Reactions
+## 5.9 Hypersensitivity Reactions
 
 Hypersensitivity reactions, including angioedema and anaphylaxis, have been reported with canagliflozin.
 These reactions generally occurred within hours to days after initiating canagliflozin.
 If hypersensitivity reactions occur, discontinue use of INVOKAMET; treat and monitor until signs and symptoms resolve [see Contraindications (4) and Adverse Reactions (6.1, 6.2)].
 
-## 5.11 Bone Fracture
+## 5.10 Bone Fracture
 
 An increased risk of bone fracture, occurring as early as 12 weeks after treatment initiation, was observed in patients using canagliflozin.
 Consider factors that contribute to fracture risk prior to initiating INVOKAMET [see Adverse Reactions (6.1)].
 
-## 5.12 Vitamin B12 Levels
+## 5.11 Vitamin B12 Levels
 
 In controlled, 29-week clinical trials of metformin, a decrease to subnormal levels of previously normal serum vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of metformin-treated patients.
 Such decreases, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, is, however, very rarely associated with anemia or neurologic manifestations due to the short duration (less than 1 year) of the clinical trials.
@@ -143,21 +141,11 @@ The decrease in vitamin B12 levels appears to be rapidly reversible with discont
 Measure hematologic parameters on an annual basis in patients on INVOKAMET and investigate and treat if abnormalities occur.
 Patients with inadequate vitamin B12 or calcium intake or absorption may be predisposed to developing subnormal vitamin B12 levels, and routine serum vitamin B12 measurement at 2- to 3-year intervals is recommended in these patients.
 
-## 5.13 Alcohol Intake
-
-Alcohol is known to potentiate the effect of metformin on lactate metabolism.
-Warn patients against excessive alcohol intake while receiving INVOKAMET [see Warnings and Precautions (5.1)].
-
-## 5.14 Hypoxic States
-
-Cardiovascular collapse (shock) from whatever cause (e.g., acute congestive heart failure, acute myocardial infarction and other conditions characterized by hypoxemia) have been associated with lactic acidosis and may also cause prerenal azotemia.
-When such events occur, promptly discontinue INVOKAMET [see Warnings and Precautions (5.1)].
-
-## 5.15 Increases in Low-Density Lipoprotein (LDL-C)
+## 5.12 Increases in Low-Density Lipoprotein (LDL-C)
 
 Dose-related increases in LDL-C occur with canagliflozin [see Adverse Reactions (6.1)].
 Monitor LDL-C and treat if appropriate after initiating INVOKAMET.
 
-## 5.16 Macrovascular Outcomes
+## 5.13 Macrovascular Outcomes
 
 There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with INVOKAMET or any other antidiabetic drug [see Adverse Reactions (6.1)].

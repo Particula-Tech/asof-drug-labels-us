@@ -2,48 +2,83 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects
+Risk Summary
 
-Pregnancy Category C:
+Based on animal data showing adverse renal effects, INVOKAMET is not recommended during the second and third trimesters of pregnancy.
 
-INVOKAMET
+Limited data with INVOKAMET or canagliflozin in pregnant women are not sufficient to determine a drug-associated risk for major birth defects or miscarriage.
+Published studies with metformin use during pregnancy have not reported a clear association with metformin and major birth defect or miscarriage risk [see Data].
+There are risks to the mother and fetus associated with poorly controlled diabetes in pregnancy [see Clinical Considerations].
 
-There are no adequate and well-controlled studies in pregnant women with INVOKAMET or its individual components.
-During pregnancy, consider appropriate alternative therapies, especially during the second and third trimesters.
-INVOKAMET should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+In animal studies, adverse renal pelvic and tubule dilatations that were not reversible were observed in rats when canagliflozin was administered at an exposure 0.5-times the 300 mg clinical dose, based on AUC during a period of renal development corresponding to the late second and third trimesters of human pregnancy.
+No adverse developmental effects were observed when metformin was administered to pregnant Sprague Dawley rats and rabbits during the period of organogenesis at doses up to 2- and 6-times, respectively, a 2000 mg clinical dose, based on body surface area [see Data].
+
+The estimated background risk of major birth defects is 6–10% in women with pre-gestational diabetes with an HbA1c >7 and has been reported to be as high as 20–25% in women with a HbA1c >10.
+The estimated background risk of miscarriage for the indicated population is unknown.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2–4% and 15–20%, respectively.
+
+Clinical Considerations
+
+Disease-associated maternal and/or embryo/fetal risk
+
+Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, stillbirth and delivery complications.
+Poorly controlled diabetes increases the fetal risk for major birth defects, stillbirth, and macrosomia related morbidity.
+
+Data
+
+Human Data
+
+Published data from post-marketing studies have not reported a clear association with metformin and major birth defects, miscarriage, or adverse maternal or fetal outcomes when metformin was used during pregnancy.
+However, these studies cannot definitely establish the absence of any metformin-associated risk because of methodological limitations, including small sample size and inconsistent comparator groups.
+
+Animal Data
 
 Canagliflozin
 
-Based on results from rat studies, canagliflozin may affect renal development and maturation.
-In a juvenile rat study, increased kidney weights and renal pelvic and tubular dilatation were evident at greater than or equal to 0.5 times clinical exposure from a 300 mg dose [see Nonclinical Toxicology (13.2)].
+Canagliflozin dosed directly to juvenile rats from postnatal day (PND) 21 until PND 90 at doses of 4, 20, 65, or 100 mg/kg increased kidney weights and dose dependently increased the incidence and severity of renal pelvic and tubular dilatation at all doses tested.
+Exposure at the lowest dose was greater than or equal to 0.5-times the 300 mg clinical dose, based on AUC.
+These outcomes occurred with drug exposure during periods of renal development in rats that correspond to the late second and third trimester of human renal development.
+The renal pelvic dilatations observed in juvenile animals did not fully reverse within a 1 month recovery period.
 
-These outcomes occurred with drug exposure during periods of animal development that correspond to the late second and third trimester of human development.
+In embryo-fetal development studies in rats and rabbits, canagliflozin was administered for intervals coinciding with the first trimester period of organogenesis in humans.
+No developmental toxicities independent of maternal toxicity were observed when canagliflozin was administered at doses up to 100 mg/kg in pregnant rats and 160 mg/kg in pregnant rabbits during embryonic organogenesis or during a study in which maternal rats were dosed from gestation day (GD) 6 through PND 21, yielding exposures up to approximately 19-times the 300 mg clinical dose, based on AUC.
 
-Metformin
+Metformin Hydrochloride
 
-Metformin was not teratogenic in rats and rabbits at doses up to 600 mg/kg/day.
-This represents an exposure of about 2 and 6 times the maximum recommended human daily dose of 2,000 mg based on body surface area comparisons for rats and rabbits, respectively.
-Determination of fetal concentrations demonstrated a partial placental barrier to metformin.
+Metformin hydrochloride did not cause adverse developmental effects when administered to pregnant Sprague Dawley rats and rabbits up to 600 mg/kg/day during the period of organogenesis.
+This represents an exposure of about 2- and 6-times a 2000 mg clinical dose based on body surface area (mg/m2) for rats and rabbits, respectively.
 
-## 8.3 Nursing Mothers
+Canagliflozin and Metformin
 
-INVOKAMET
+No adverse developmental effects were observed when canagliflozin and metformin were co-administered to pregnant rats during the period of organogenesis at exposures up to 11 and 13 times, respectively, the 300 mg and 2000 mg clinical doses of canagliflozin and metformin based on AUC.
 
-No studies in lactating animals have been conducted with the combined components of INVOKAMET.
+## 8.2 Lactation
 
-Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from INVOKAMET, a decision should be made whether to discontinue nursing or to discontinue INVOKAMET, taking into account the importance of the drug to the mother [see Nonclinical Toxicology (13.2)].
+Risk Summary
 
-Canagliflozin
-
-It is not known if canagliflozin is excreted in human milk.
-Canagliflozin is secreted in the milk of lactating rats reaching levels 1.4 times higher than that in maternal plasma.
-Data in juvenile rats directly exposed to canagliflozin showed risk to the developing kidney (renal pelvic and tubular dilatations) during maturation.
+There is no information regarding the presence of INVOKAMET or canagliflozin in human milk, the effects on the breastfed infant, or the effects on milk production.
+Limited published studies report that metformin is present in human milk [see Data].
+However, there is insufficient information on the effects of metformin on the breastfed infant and no available information on the effects of metformin on milk production.
+Canagliflozin is present in the milk of lactating rats [see Data].
 Since human kidney maturation occurs in utero and during the first 2 years of life when lactational exposure may occur, there may be risk to the developing human kidney.
 
-Metformin
+Because of the potential for serious adverse reactions in a breastfed infant, advise women that use of INVOKAMET is not recommended while breastfeeding.
 
-Studies in lactating rats show that metformin is excreted into milk and reaches levels comparable to those in plasma.
-It is not known whether metformin is secreted in human milk.
+Data
+
+Human Data
+
+Published clinical lactation studies report that metformin is present in human milk which resulted in infant doses approximately 0.11% to 1% of the maternal weight-adjusted dosage and a milk/plasma ratio ranging between 0.13 and 1.
+However, the studies were not designed to definitely establish the risk of use of metformin during lactation because of small sample size and limited adverse event data collected in infants.
+
+Animal Data
+
+Radiolabeled canagliflozin administered to lactating rats on day 13 post-partum was present at a milk/plasma ratio of 1.40, indicating that canagliflozin and its metabolites are transferred into milk at a concentration comparable to that in plasma.
+Juvenile rats directly exposed to canagliflozin showed a risk to the developing kidney (renal pelvic and tubular dilatations) during maturation.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Discuss the potential for unintended pregnancy with premenopausal women as therapy with metformin may result in ovulation in some anovulatory women.
 
 ## 8.4 Pediatric Use
 
@@ -76,7 +111,13 @@ The efficacy and safety of canagliflozin were evaluated in a study that included
 These patients had less overall glycemic efficacy and had a higher occurrence of adverse reactions related to reduced intravascular volume, renal-related adverse reactions, and decreases in eGFR compared to patients with mild renal impairment or normal renal function (eGFR greater than or equal to 60 mL/min/1.73 m2).
 Dose-related, transient mean increases in serum potassium were observed early after initiation of canagliflozin (i.e., within 3 weeks) in this trial.
 Increases in serum potassium of greater than 5.4 mEq/L and 15% above baseline occurred in 16.1%, 12.4%, and 27.0% of patients treated with placebo, canagliflozin 100 mg, and canagliflozin 300 mg, respectively.
-Severe elevations (greater than or equal to 6.5 mEq/L) occurred in 1.1%, 2.2%, and 2.2% of patients treated with placebo, canagliflozin 100 mg, and canagliflozin 300 mg, respectively [see Dosage and Administration (2.2), Contraindications (4), Warnings and Precautions (5.2, 5.3, 5.4), and Adverse Reactions (6.1)].
+Severe elevations (greater than or equal to 6.5 mEq/L) occurred in 1.1%, 2.2%, and 2.2% of patients treated with placebo, canagliflozin 100 mg, and canagliflozin 300 mg, respectively [see Dosage and Administration (2.2), Contraindications (4), Warnings and Precautions (5.1, 5.3, 5.4), and Adverse Reactions (6.1)].
 
 The efficacy and safety of canagliflozin have not been established in patients with severe renal impairment (eGFR less than 30 mL/min/1.73 m2), with ESRD, or receiving dialysis.
 Canagliflozin is not expected to be effective in these patient populations [see Contraindications (4) and Clinical Pharmacology (12.3)].
+
+## 8.7 Hepatic Impairment
+
+Use of metformin in patients with hepatic impairment has been associated with some cases of lactic acidosis.
+INVOKAMET is not recommended in patients with hepatic impairment.
+[see Warnings and Precautions (5.1)]
