@@ -75,7 +75,7 @@ What else do I need to know about antidepressant medicines?
 
 It is not known if ZYBAN is safe and effective in children under the age of 18.
 
-What other important information should I know about ZYBAN?
+What Other Important Information Should I Know About ZYBAN?
 
 - •Seizures: There is a chance of having a seizure (convulsion, fit) with ZYBAN, especially in people:
   - •with certain medical problems.
@@ -135,7 +135,7 @@ Do not take ZYBAN if you:
 
 - •have or had a seizure disorder or epilepsy.
 - •have or had an eating disorder such as anorexia nervosa or bulimia.
-- •are taking any other medicines that contain bupropion, including WELLBUTRIN, WELLBUTRIN SR, WELLBUTRIN XL, APLENZIN®, or FORFIVO XL™.
+- •are taking any other medicines that contain bupropion, including WELLBUTRIN, WELLBUTRIN SR, WELLBUTRIN XL, APLENZIN®, or FORFIVO XL®.
   Bupropion is the same active ingredient that is in ZYBAN.
 - •drink a lot of alcohol and abruptly stop drinking, or take medicines called sedatives (these make you sleepy), benzodiazepines, or anti-seizure medicines, and you stop taking them all of a sudden.
 - •take a monoamine oxidase inhibitor (MAOI).
@@ -178,12 +178,12 @@ How should I take ZYBAN?
 - •ZYBAN is usually taken for 7 to 12 weeks.
   Your healthcare provider may decide to prescribe ZYBAN for longer than 12 weeks to help you stop smoking.
   Follow your healthcare provider’s instructions.
-- •Swallow ZYBAN Tablets whole.
-  Do not chew, cut, or crush ZYBAN Tablets.
+- •Swallow ZYBAN tablets whole.
+  Do not chew, cut, or crush ZYBAN tablets.
   If you do, the medicine will be released into your body too quickly.
   If this happens you may be more likely to get side effects including seizures.
   Tell your healthcare provider if you cannot swallow tablets.
-- •ZYBAN Tablets may have an odor.
+- •ZYBAN tablets may have an odor.
   This is normal.
 - •Take your doses of ZYBAN at least 8 hours apart.
 - •You may take ZYBAN with or without food.
@@ -280,9 +280,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2014, the GSK group of companies.
+©2016 the GSK group of companies.
 All rights reserved.
 
-August 2014
+June 2016
 
-ZYB:9MG
+ZYB:10MG

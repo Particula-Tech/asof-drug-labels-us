@@ -1,8 +1,8 @@
 # 11 DESCRIPTION
 
-ZYBAN (bupropion hydrochloride) Sustained‑Release Tablets are a non‑nicotine aid to smoking cessation.
+ZYBAN (bupropion hydrochloride) sustained‑release tablets are a non‑nicotine aid to smoking cessation.
 ZYBAN is chemically unrelated to nicotine or other agents currently used in the treatment of nicotine addiction.
-Initially developed and marketed as an antidepressant (WELLBUTRIN [bupropion hydrochloride] Tablets and WELLBUTRIN SR [bupropion hydrochloride] Sustained‑Release Tablets), ZYBAN is also chemically unrelated to tricyclic, tetracyclic, selective serotonin re-uptake inhibitor, or other known antidepressant agents.
+Initially developed and marketed as an antidepressant (WELLBUTRIN [bupropion hydrochloride] tablets and WELLBUTRIN SR [bupropion hydrochloride] sustained‑release tablets), ZYBAN is also chemically unrelated to tricyclic, tetracyclic, selective serotonin re-uptake inhibitor, or other known antidepressant agents.
 Its structure closely resembles that of diethylpropion; it is related to phenylethylamines.
 It is designated as (±)-1-(3-chlorophenyl)-2-[(1,1-dimethylethyl)amino]-1-propanone hydrochloride.
 The molecular weight is 276.2.

@@ -15,10 +15,14 @@ The following adverse reactions are discussed in greater detail in other section
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Adverse Reactions Leading to Discontinuation of Treatment: Adverse reactions were sufficiently troublesome to cause discontinuation of treatment in 8% of the 706 subjects treated with ZYBAN and 5% of the 313 patients treated with placebo.
+Adverse Reactions Leading to Discontinuation of Treatment
+
+Adverse reactions were sufficiently troublesome to cause discontinuation of treatment in 8% of the 706 subjects treated with ZYBAN and 5% of the 313 patients treated with placebo.
 The more common events leading to discontinuation of treatment with ZYBAN included nervous system disturbances (3.4%), primarily tremors, and skin disorders (2.4%), primarily rashes.
 
-Commonly Observed Adverse Reactions: The most commonly observed adverse reactions consistently associated with the use of ZYBAN were dry mouth and insomnia.
+Commonly Observed Adverse Reactions
+
+The most commonly observed adverse reactions consistently associated with the use of ZYBAN were dry mouth and insomnia.
 The incidence of dry mouth and insomnia may be related to the dose of ZYBAN.
 The occurrence of these adverse reactions may be minimized by reducing the dose of ZYBAN.
 In addition, insomnia may be minimized by avoiding bedtime doses.
@@ -27,7 +31,7 @@ Adverse reactions reported in the dose-response and comparator trials are presen
 Reported adverse reactions were classified using a COSTART‑based dictionary.
 
 Table 2.
-Adverse Reactions Reported by at Least 1% of Subjects and at a Greater Frequency than Placebo in the Dose-response Trial
+Adverse Reactions Reported by at Least 1% of Subjects and at a Greater Frequency than Placebo in the Dose-Response Trial
 
 | Adverse Reaction | ZYBAN 100 to 300 mg/day(n = 461)% | Placebo(n = 150)% |
 | --- | --- | --- |
@@ -114,7 +118,9 @@ aSubjects randomized to ZYBAN or placebo received placebo patches.
 
 Adverse reactions in a 1-year maintenance trial and a 12-week COPD trial with ZYBAN were quantitatively and qualitatively similar to those observed in the dose‑response and comparator trials.
 
-Other Adverse Reactions Observed during the Clinical Development of Bupropion: In addition to the adverse reactions noted above, the following adverse reactions have been reported in clinical trials with the sustained‑release formulation of bupropion in depressed subjects and in nondepressed smokers, as well as in clinical trials with the immediate‑release formulation of bupropion.
+Other Adverse Reactions Observed during the Clinical Development of Bupropion
+
+In addition to the adverse reactions noted above, the following adverse reactions have been reported in clinical trials with the sustained‑release formulation of bupropion in depressed subjects and in nondepressed smokers, as well as in clinical trials with the immediate‑release formulation of bupropion.
 
 Adverse reaction frequencies represent the proportion of subjects who experienced a treatment‑emergent adverse reaction on at least one occasion in placebo‑controlled trials for depression (n = 987) or smoking cessation (n = 1,013), or subjects who experienced an adverse reaction requiring discontinuation of treatment in an open‑label surveillance trial with bupropion sustained‑release tablets (n = 3,100).
 All treatment‑emergent adverse reactions are included except those listed in Tables 2 and 3, those listed in other safety‑related sections of the prescribing information, those subsumed under COSTART terms that are either overly general or excessively specific so as to be uninformative, those not reasonably associated with the use of the drug, and those that were not serious and occurred in fewer than 2 subjects.
@@ -157,28 +163,52 @@ Infrequent were impotence, polyuria, and urinary urgency.
 The following adverse reactions have been identified during post-approval use of ZYBAN and are not described elsewhere in the label.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a relationship to drug exposure.
 
-Body (General): Arthralgia, myalgia, and fever with rash and other symptoms suggestive of delayed hypersensitivity.
+Body (General)
+
+Arthralgia, myalgia, and fever with rash and other symptoms suggestive of delayed hypersensitivity.
 These symptoms may resemble serum sickness [see Warnings and Precautions (5.8)].
 
-Cardiovascular: Cardiovascular disorder, complete AV block, extrasystoles, hypotension, myocardial infarction, phlebitis, and pulmonary embolism.
+Cardiovascular
 
-Digestive: Colitis, esophagitis, gastrointestinal hemorrhage, gum hemorrhage, hepatitis, increased salivation, intestinal perforation, liver damage, pancreatitis, stomach ulcer, and stool abnormality.
+Cardiovascular disorder, complete AV block, extrasystoles, hypotension, myocardial infarction, phlebitis, and pulmonary embolism.
 
-Endocrine: Hyperglycemia, hypoglycemia, and syndrome of inappropriate antidiuretic hormone.
+Digestive
 
-Hemic and Lymphatic: Anemia, leukocytosis, leukopenia, lymphadenopathy, pancytopenia, and thrombocytopenia.
+Colitis, esophagitis, gastrointestinal hemorrhage, gum hemorrhage, hepatitis, increased salivation, intestinal perforation, liver damage, pancreatitis, stomach ulcer, and stool abnormality.
+
+Endocrine
+
+Hyperglycemia, hypoglycemia, and syndrome of inappropriate antidiuretic hormone.
+
+Hemic and Lymphatic
+
+Anemia, leukocytosis, leukopenia, lymphadenopathy, pancytopenia, and thrombocytopenia.
 Altered PT and/or INR, infrequently associated with hemorrhagic or thrombotic complications, were observed when bupropion was coadministered with warfarin.
 
-Metabolic and Nutritional: Glycosuria.
+Metabolic and Nutritional
 
-Musculoskeletal: Arthritis and muscle rigidity/fever/rhabdomyolysis, and muscle weakness.
+Glycosuria.
 
-Nervous System: Abnormal electroencephalogram (EEG), aggression, akinesia, aphasia, coma, completed suicide, delirium, delusions, dysarthria, dyskinesia, dystonia, euphoria, extrapyramidal syndrome, hallucinations, hypokinesia, increased libido, manic reaction, neuralgia, neuropathy, paranoid ideation, restlessness, suicide attempt, and unmasking tardive dyskinesia.
+Musculoskeletal
 
-Respiratory: Pneumonia.
+Arthritis and muscle rigidity/fever/rhabdomyolysis, and muscle weakness.
 
-Skin: Alopecia, angioedema, exfoliative dermatitis, hirsutism, and Stevens-Johnson syndrome.
+Nervous System
 
-Special Senses: Deafness, increased intraocular pressure, and mydriasis.
+Abnormal electroencephalogram (EEG), aggression, akinesia, aphasia, coma, completed suicide, delirium, delusions, dysarthria, euphoria, extrapyramidal syndrome (dyskinesia, dystonia, hypokinesia, parkinsonism), hallucinations, increased libido, manic reaction, neuralgia, neuropathy, paranoid ideation, restlessness, suicide attempt, and unmasking tardive dyskinesia.
 
-Urogenital: Abnormal ejaculation, cystitis, dyspareunia, dysuria, gynecomastia, menopause, painful erection, prostate disorder, salpingitis, urinary incontinence, urinary retention, urinary tract disorder, and vaginitis.
+Respiratory
+
+Pneumonia.
+
+Skin
+
+Alopecia, angioedema, exfoliative dermatitis, hirsutism, and Stevens-Johnson syndrome.
+
+Special Senses
+
+Deafness, increased intraocular pressure, and mydriasis.
+
+Urogenital
+
+Abnormal ejaculation, cystitis, dyspareunia, dysuria, gynecomastia, menopause, painful erection, prostate disorder, salpingitis, urinary incontinence, urinary retention, urinary tract disorder, and vaginitis.

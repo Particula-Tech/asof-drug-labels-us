@@ -5,10 +5,14 @@
 Bupropion is primarily metabolized to hydroxybupropion by CYP2B6.
 Therefore, the potential exists for drug interactions between ZYBAN and drugs that are inhibitors or inducers of CYP2B6.
 
-Inhibitors of CYP2B6: Ticlopidine and Clopidogrel: Concomitant treatment with these drugs can increase bupropion exposure but decrease hydroxybupropion exposure.
+Inhibitors of CYP2B6
+
+Ticlopidine and Clopidogrel: Concomitant treatment with these drugs can increase bupropion exposure but decrease hydroxybupropion exposure.
 Based on clinical response, dosage adjustment of ZYBAN may be necessary when coadministered with CYP2B6 inhibitors (e.g., ticlopidine or clopidogrel) [see Clinical Pharmacology (12.3)].
 
-Inducers of CYP2B6: Ritonavir, Lopinavir, and Efavirenz: Concomitant treatment with these drugs can decrease bupropion and hydroxybupropion exposure.
+Inducers of CYP2B6
+
+Ritonavir, Lopinavir, and Efavirenz: Concomitant treatment with these drugs can decrease bupropion and hydroxybupropion exposure.
 Dosage increase of ZYBAN may be necessary when coadministered with ritonavir, lopinavir, or efavirenz [see Clinical Pharmacology (12.3)] but should not exceed the maximum recommended dose.
 
 Carbamazepine, Phenobarbital, Phenytoin: While not systematically studied, these drugs may induce the metabolism of bupropion and may decrease bupropion exposure [see Clinical Pharmacology (12.3)].
@@ -16,7 +20,9 @@ If bupropion is used concomitantly with a CYP inducer, it may be necessary to in
 
 ## 7.2 Potential for ZYBAN to Affect Other Drugs
 
-Drugs Metabolized by CYP2D6: Bupropion and its metabolites (erythrohydrobupropion, threohydrobupropion, hydroxybupropion) are CYP2D6 inhibitors.
+Drugs Metabolized by CYP2D6
+
+Bupropion and its metabolites (erythrohydrobupropion, threohydrobupropion, hydroxybupropion) are CYP2D6 inhibitors.
 Therefore, coadministration of ZYBAN with drugs that are metabolized by CYP2D6 can increase the exposures of drugs that are substrates of CYP2D6.
 Such drugs include certain antidepressants (e.g., venlafaxine, nortriptyline, imipramine, desipramine, paroxetine, fluoxetine, and sertraline), antipsychotics (e.g., haloperidol, risperidone, thioridazine), beta-blockers (e.g., metoprolol), and Type 1C antiarrhythmics (e.g., propafenone and flecainide).
 When used concomitantly with ZYBAN, it may be necessary to decrease the dose of these CYP2D6 substrates, particularly for drugs with a narrow therapeutic index.

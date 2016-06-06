@@ -12,20 +12,26 @@ Bupropion is a racemic mixture.
 The pharmacological activity and pharmacokinetics of the individual enantiomers have not been studied.
 The mean elimination half-life (±SD) of bupropion after chronic dosing is 21 (±9) hours, and steady-state plasma concentrations of bupropion are reached within 8 days.
 
-Absorption: The absolute bioavailability of ZYBAN in humans has not been determined because an intravenous formulation for human use is not available.
+Absorption
+
+The absolute bioavailability of ZYBAN in humans has not been determined because an intravenous formulation for human use is not available.
 However, it appears likely that only a small proportion of any orally administered dose reaches the systemic circulation intact.
 In rat and dog studies, the bioavailability of bupropion ranged from 5% to 20%.
 
 In humans, following oral administration of ZYBAN, peak plasma concentration (Cmax) of bupropion is usually achieved within 3 hours.
 
 ZYBAN can be taken with or without food.
-Bupropion Cmax and AUC was increased by 11% to 35%, and 16% to 19%, respectively, when ZYBAN was administered with food to healthy volunteers in three trials.
+Bupropion Cmax and AUC were increased by 11% to 35%, and 16% to 19%, respectively, when ZYBAN was administered with food to healthy volunteers in three trials.
 The food effect is not considered clinically significant.
 
-Distribution: In vitro tests show that bupropion is 84% bound to human plasma proteins at concentrations up to 200 mcg per mL.
+Distribution
+
+In vitro tests show that bupropion is 84% bound to human plasma proteins at concentrations up to 200 mcg per mL.
 The extent of protein binding of the hydroxybupropion metabolite is similar to that for bupropion; whereas, the extent of protein binding of the threohydrobupropion metabolite is about half that seen with bupropion.
 
-Metabolism: Bupropion is extensively metabolized in humans.
+Metabolism
+
+Bupropion is extensively metabolized in humans.
 Three metabolites are active: hydroxybupropion, which is formed via hydroxylation of the tert‑butyl group of bupropion, and the amino-alcohol isomers, threohydrobupropion and erythrohydrobupropion, which are formed via reduction of the carbonyl group.
 In vitro findings suggest that CYP2B6 is the principal isoenzyme involved in the formation of hydroxybupropion, while cytochrome P450 enzymes are not involved in the formation of threohydrobupropion.
 Oxidation of the bupropion side chain results in the formation of a glycine conjugate of meta‑chlorobenzoic acid, which is then excreted as the major urinary metabolite.
@@ -40,10 +46,14 @@ However, their elimination half-lives are longer, 33 (±10) and 37 (±13) hours,
 
 Bupropion and its metabolites exhibit linear kinetics following chronic administration of 300 to 450 mg per day.
 
-Elimination: Following oral administration of 200 mg of 14C‑bupropion in humans, 87% and 10% of the radioactive dose were recovered in the urine and feces, respectively.
+Elimination
+
+Following oral administration of 200 mg of 14C‑bupropion in humans, 87% and 10% of the radioactive dose were recovered in the urine and feces, respectively.
 Only 0.5% of the oral dose was excreted as unchanged bupropion.
 
-Population Subgroups: Factors or conditions altering metabolic capacity (e.g., liver disease, congestive heart failure [CHF], age, concomitant medications, etc.) or elimination may be expected to influence the degree and extent of accumulation of the active metabolites of bupropion.
+Population Subgroups
+
+Factors or conditions altering metabolic capacity (e.g., liver disease, congestive heart failure [CHF], age, concomitant medications, etc.) or elimination may be expected to influence the degree and extent of accumulation of the active metabolites of bupropion.
 The elimination of the major metabolites of bupropion may be affected by reduced renal or hepatic function because they are moderately polar compounds and are likely to undergo further metabolism or conjugation in the liver prior to urinary excretion.
 
 Renal Impairment: There is limited information on the pharmacokinetics of bupropion in patients with renal impairment.
@@ -88,7 +98,9 @@ Gender: Pooled analysis of bupropion pharmacokinetic data from 90 healthy male a
 The mean systemic exposure (AUC) was approximately 13% higher in male volunteers compared with female volunteers.
 The clinical significance of this finding is unknown.
 
-Drug Interactions: Potential for Other Drugs to Affect ZYBAN: In vitro studies indicate that bupropion is primarily metabolized to hydroxybupropion by CYP2B6.
+Drug Interactions
+
+Potential for Other Drugs to Affect ZYBAN: In vitro studies indicate that bupropion is primarily metabolized to hydroxybupropion by CYP2B6.
 Therefore, the potential exists for drug interactions between ZYBAN and drugs that are inhibitors or inducers of CYP2B6.
 In addition, in vitro studies suggest that paroxetine, sertraline, norfluoxetine, fluvoxamine, and nelfinavir inhibit the hydroxylation of bupropion.
 
@@ -120,7 +132,9 @@ The AUC of hydroxybupropion was unchanged, whereas Cmax of hydroxybupropion was 
 
 Carbamazepine, Phenobarbital, Phenytoin: While not systematically studied, these drugs may induce the metabolism of bupropion.
 
-Potential for ZYBAN to Affect Other Drugs: Animal data indicated that bupropion may be an inducer of drug-metabolizing enzymes in humans.
+Potential for ZYBAN to Affect Other Drugs
+
+Animal data indicated that bupropion may be an inducer of drug-metabolizing enzymes in humans.
 In one trial, following chronic administration of bupropion 100 mg three times daily to 8 healthy male volunteers for 14 days, there was no evidence of induction of its own metabolism.
 Nevertheless, there may be potential for clinically important alterations of blood levels of co-administered drugs.
 

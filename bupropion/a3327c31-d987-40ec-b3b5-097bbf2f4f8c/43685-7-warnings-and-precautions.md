@@ -31,7 +31,7 @@ The risk differences (drug vs. placebo), however, were relatively stable within 
 These risk differences (drug-placebo difference in the number of cases of suicidality per 1,000 subjects treated) are provided in Table 1.
 
 Table 1.
-Risk Differences in the Number of Suicidality Cases by Age Group in the Pooled Placebo-controlled Trials of Antidepressants in Pediatric and Adult Subjects
+Risk Differences in the Number of Suicidality Cases by Age Group in the Pooled Placebo-Controlled Trials of Antidepressants in Pediatric and Adult Subjects
 
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1,000 Subjects Treated |
 | --- | --- |
@@ -71,7 +71,9 @@ ZYBAN is contraindicated in patients with a seizure disorder, current or prior d
 The following conditions can also increase the risk of seizure: severe head injury; arteriovenous malformation; CNS tumor or CNS infection; severe stroke; concomitant use of other medications that lower the seizure threshold (e.g., other bupropion products, antipsychotics, tricyclic antidepressants, theophylline, and systemic corticosteroids), metabolic disorders (e.g., hypoglycemia, hyponatremia, severe hepatic impairment, and hypoxia), use of illicit drugs (e.g., cocaine), or abuse or misuse of prescription drugs such as CNS stimulants.
 Additional predisposing conditions include diabetes mellitus treated with oral hypoglycemic drugs or insulin; use of anorectic drugs; and excessive use of alcohol, benzodiazepines, sedative/hypnotics, or opiates.
 
-Incidence of Seizure with Bupropion Use: Doses for smoking cessation should not exceed 300 mg per day.
+Incidence of Seizure with Bupropion Use
+
+Doses for smoking cessation should not exceed 300 mg per day.
 The seizure rate associated with doses of sustained‑release bupropion in depressed patients up to 300 mg per day is approximately 0.1% (1/1,000) and increases to approximately 0.4% (4/1000) at doses up to 400 mg per day.
 
 The risk of seizure can be reduced if the dose of ZYBAN for smoking cessation does not exceed 300 mg per day, given as 150 mg twice daily, and titration rate is gradual.
@@ -108,7 +110,7 @@ Instruct patients to contact a healthcare professional if such reactions occur.
 In clinical trials with ZYBAN conducted in nondepressed smokers, the incidence of neuropsychiatric side effects was generally comparable to placebo.
 However, in the postmarketing experience, patients taking ZYBAN to quit smoking have reported similar types of neuropsychiatric symptoms to those reported by patients in the clinical trials of bupropion for depression.
 
-## 5.7 Angle-closure Glaucoma
+## 5.7 Angle-Closure Glaucoma
 
 The pupillary dilation that occurs following use of many antidepressant drugs including bupropion may trigger an angle-closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
 

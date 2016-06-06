@@ -5,11 +5,13 @@
 Treatment with ZYBAN should be initiated before the patient’s planned quit day, while the patient is still smoking, because it takes approximately 1 week of treatment to achieve steady-state blood levels of bupropion.
 The patient should set a “target quit date” within the first 2 weeks of treatment with ZYBAN.
 
-Dosing: To minimize the risk of seizure:
+Dosing
+
+To minimize the risk of seizure:
 
 - •Begin dosing with one 150-mg tablet per day for 3 days.
-- •Increase dose to 300 mg/day given as one 150-mg tablet twice each day with an interval of at least 8 hours between each dose.
-- •Do not exceed 300 mg/day.
+- •Increase dose to 300 mg per day given as one 150-mg tablet twice each day with an interval of at least 8 hours between each dose.
+- •Do not exceed 300 mg per day.
 
 ZYBAN should be swallowed whole and not crushed, divided, or chewed, as this may lead to an increased risk of adverse effects including seizures [see Warnings and Precautions (5.3)].
 
@@ -56,7 +58,7 @@ In patients with mild hepatic impairment (Child-Pugh score: 5 to 6), consider re
 
 ## 2.7 Dose Adjustment in Patients with Renal Impairment
 
-Consider reducing the dose and/or frequency of ZYBAN in patients with renal impairment (Glomerular Filtration Rate less than 90 mL/min) [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
+Consider reducing the dose and/or frequency of ZYBAN in patients with renal impairment (Glomerular Filtration Rate less than 90 mL per min) [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
 ## 2.8 Use of ZYBAN with Reversible MAOIs Such as Linezolid or Methylene Blue
 
@@ -68,5 +70,5 @@ If acceptable alternatives to linezolid or intravenous methylene blue treatment 
 The patient should be monitored for 2 weeks or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first.
 Therapy with ZYBAN may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue.
 
-The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with ZYBAN is unclear.
+The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg per kg with ZYBAN is unclear.
 The clinician should, nevertheless, be aware of the possibility of a drug interaction with such use [see Contraindications (4), Drug Interactions (7.6)].

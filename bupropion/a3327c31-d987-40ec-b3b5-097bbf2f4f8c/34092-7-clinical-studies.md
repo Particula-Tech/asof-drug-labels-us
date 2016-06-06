@@ -16,7 +16,7 @@ Treatment with ZYBAN (150 or 300 mg per day) was more effective than placebo in 
 In addition, treatment with ZYBAN (7 weeks at 300 mg per day) was more effective than placebo in helping subjects maintain continuous abstinence through Week 26 (6 months) of the trial.
 
 Table 5.
-Dose‑response Trial: Quit Rates by Treatment Group
+Dose‑Response Trial: Quit Rates by Treatment Group
 
 | Abstinence from Week 4 through Specified Week | Treatment Groups |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -68,7 +68,9 @@ Treatment with ZYBAN reduced withdrawal symptoms compared with placebo.
 Reductions on the following withdrawal symptoms were most pronounced: irritability, frustration, or anger; anxiety; difficulty concentrating; restlessness; and depressed mood or negative affect.
 Depending on the trial and the measure used, treatment with ZYBAN showed evidence of reduction in craving for cigarettes or urge to smoke compared with placebo.
 
-Use in Patients with Chronic Obstructive Pulmonary Disease (COPD): ZYBAN was evaluated in a randomized, double‑blind, comparator trial of 404 subjects with mild-to-moderate COPD defined as FEV1 greater than or equal to 35%, FEV1/FVC less than or equal to 70%, and a diagnosis of chronic bronchitis, emphysema, and/or small airways disease.
+Use in Patients with Chronic Obstructive Pulmonary Disease (COPD)
+
+ZYBAN was evaluated in a randomized, double‑blind, comparator trial of 404 subjects with mild-to-moderate COPD defined as FEV1 greater than or equal to 35%, FEV1/FVC less than or equal to 70%, and a diagnosis of chronic bronchitis, emphysema, and/or small airways disease.
 Subjects aged 36 to 76 years were randomized to ZYBAN 300 mg per day (n = 204) or placebo (n = 200) and treated for 12 weeks.
 Treatment with ZYBAN was initiated at 150 mg per day for 3 days while the subject was still smoking and increased to 150 mg twice daily for the remaining treatment period.
 Abstinence from smoking was determined by subject daily diaries and verified by carbon monoxide levels in expired air.
