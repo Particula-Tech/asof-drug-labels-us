@@ -1,11 +1,11 @@
 For Intracavernosal Use
 
-LAB- 0764-1.0
+LAB- 0764-2.0
 
-October 2015
+May 2016
 
 Rx only
 
-LAB-0009-4.0
+LAB-0009-5.0
 
-Revised June 2014
+Revised May 2016

@@ -69,10 +69,10 @@ If you are not sure of the volume or dose to be used, talk to your doctor or pha
 
 Follow these instructions exactly to prepare and inject a sterile dose of CAVERJECT.
 
-If the needle is severely bent at any time, do not use it for injecting CAVERJECT and do not attempt to straighten it prior to injecting CAVERJECT.
-A severely bent and restraightened needle may be predisposed to breakage.
+If the needle is bent at any time, do not use it for injecting CAVERJECT and do not attempt to straighten it prior to injecting CAVERJECT.
+A bent and restraightened needle is predisposed to breakage.
 Needle breakage, with a portion of the needle remaining in the penis, has been reported and, in some cases, required hospitalization and surgical removal.
-If the needle is severely bent while preparing the injection, remove it from the syringe, discard, and attach a new, unused sterile needle to the syringe as described under "Prepare the Dose" below.
+If the needle is bent while preparing the injection, remove it from the syringe, discard, and attach a new, unused sterile needle to the syringe as described under "Prepare the Dose" below.
 
 Use the needle, syringe, alcohol swabs, and vials only once then safely discard the supplies and any unused solution.
 Discard your needle/syringe, and alcohol swabs in a special container for disposal of sharp medical supplies.

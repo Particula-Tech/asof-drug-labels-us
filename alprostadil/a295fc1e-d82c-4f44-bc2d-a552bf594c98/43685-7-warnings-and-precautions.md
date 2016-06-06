@@ -18,6 +18,11 @@ Underlying treatable medical causes of erectile dysfunction should be diagnosed 
 The safety and efficacy of combinations of CAVERJECT and other vasoactive agents have not been systematically studied.
 Therefore, the use of such combinations is not recommended.
 
+CAVERJECT uses a superfine needle for administration.
+As with all superfine needles, the possibility of needle breakage exists.
+Needle breakage, with a portion of the needle remaining in the penis, has been reported and, in some cases, required hospitalization and surgical removal.
+Careful instruction in proper patient handling and injection techniques may minimize the potential for needle breakage.
+
 The patient should be instructed not to re-use or to share needles or syringes.
 As with all prescription medicines, the patient should not allow anyone else to use his medicine.
 
@@ -36,6 +41,10 @@ The instructions for preparation of the solution of CAVERJECT should be carefull
 Vials with precipitates or discoloration should be discarded.
 The reconstituted vial is designed for one use only and should be discarded after withdrawal of proper volume of the solution.
 The content of the reconstituted vial should not be shaken.
+
+The patient should be instructed that, if the needle is bent, it must not be used; they should also not attempt to straighten a bent needle.
+They should remove the needle from the syringe, discard it, and attach a new, unused sterile needle to the syringe.
+
 The needle must be properly discarded after use; it must not be re-used or shared with other persons.
 Patient instructions for administration are included in each package of CAVERJECT.
 

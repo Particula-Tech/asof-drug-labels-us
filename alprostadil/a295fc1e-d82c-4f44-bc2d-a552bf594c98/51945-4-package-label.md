@@ -1,3 +1,11 @@
+# PRINCIPAL DISPLAY PANEL - 5 mcg
+
+Image not available
+
+# PRINCIPAL DISPLAY PANEL - 10 mcg
+
+Image not available
+
 # PRINCIPAL DISPLAY PANEL - 20 mcg Vial Label
 
 NDC 0009-3701-08
