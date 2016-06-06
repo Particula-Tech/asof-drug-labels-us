@@ -35,6 +35,8 @@
    Ann.
    Allergy 29:30-34, 1971.
 
-Revision: June 2002
+Revision: October 2008
 
-© Alk-Abello, Inc. 2002 107J
+© Alk-Abello, Inc., 2008 No. 107K
+
+Distributed in Canada by: ALK-Abelló Pharmaceuticals, Inc. #35-151 Brunel Road Mississauga, Ontario Canada L4Z 2H6
