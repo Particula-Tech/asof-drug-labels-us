@@ -1,19 +1,15 @@
-PRINCIPAL DISPLAY PANEL - 20 mg Tablet
+PRINCIPAL DISPLAY PANEL
 
-NDC 30698-449-01
+NDC 30698-447-01 Lotensin benazepril HCI 5 mg 100 Tablets Rx Only
 
-Lotensin® benazepril HCl
+PRINCIPAL DISPLAY PANEL
 
-20 mg 100 Tablets
+NDC 30698-448-01 Lotensin benazepril HCI 10 mg 100 Tablets Rx Only
 
-Rx Only
+PRINCIPAL DISPLAY PANEL
 
-PRINCIPAL DISPLAY PANEL - 40 mg Tablet
+NDC 30698-449-01 Lotensin benazepril HCI 20 mg 100 Tablets Rx Only
 
-NDC 30698-450-01
+PRINCIPAL DISPLAY PANEL
 
-Lotensin® benazepril HCl
-
-40 mg 100 Tablets
-
-Rx Only
+NDC 30698-450-01 Lotensin benazepril HCI 40 mg 100 Tablets Rx Only
