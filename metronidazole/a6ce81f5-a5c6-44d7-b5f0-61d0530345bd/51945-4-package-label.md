@@ -24,19 +24,13 @@ Inactive: benzyl alcohol, emulsifying wax, glycerin, isopropyl palmitate, purifi
 
 See closure for lot number and expiration date.
 
-Manufactured for:
+Marketed by:
 
 Prasco Laboratories
 
 Mason, OH 45040 USA
 
-Manufactured by:
+Rev.
+10/2014
 
-DPT Laboratories, Ltd.
-
-San Antonio, Texas 78215 USA
-
-Iss.
-06/13
-
-P51806-0
+P51806-1
