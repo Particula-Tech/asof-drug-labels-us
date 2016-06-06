@@ -1,6 +1,6 @@
-# Patient Information
+# PATIENT INFORMATION
 
-Valsartan Tablets USP
+Valsartan Tablets USP (val sar’ tan)
 
 Read the Patient Information that comes with valsartan tablets USP before you take it and each time you get a refill.
 There may be new information.
@@ -45,7 +45,7 @@ Tell your doctor about all your medical conditions including whether you:
 - have ever had a reaction called angioedema, to another blood pressure medicine.
   Angioedema causes swelling of the face, lips, tongue and/or throat, and may cause difficulty breathing.
 
-Tell your doctor about all the medicines you take including prescription and non prescription medicines, vitamins and herbal supplements.
+Tell your doctor about all the medicines you take including prescription and nonprescription medicines, vitamins and herbal supplements.
 Especially tell your doctor if you take:
 
 - other medicines for high blood pressure or a heart problem
@@ -54,8 +54,8 @@ Especially tell your doctor if you take:
   Your doctor may check the amount of potassium in your blood periodically
 - a salt substitute.
   Your doctor may check the amount of potassium in your blood periodically
-- Nonsteroidal anti-inflammatory drugs (like ibuprofen or naproxen)
-- certain antibiotics (rifamycin group), a drug used to protect against transplant rejection (cyclosporin) or an antiretroviral drug used to treat HIV/AIDS infection (ritonavir).
+- nonsteroidal anti-inflammatory drugs (like ibuprofen or naproxen)
+- certain antibiotics (rifamycin group), a drug used to protect against transplant rejection (cyclosporine) or an antiretroviral drug used to treat HIV/AIDS infection (ritonavir).
   These drugs may increase the effect of valsartan.
 - Lithium, a medicine used in some types of depression
 
@@ -74,7 +74,8 @@ How should I take valsartan tablets USP?
 - Valsartan tablets USP can be taken with or without food.
 - If you miss a dose, take it as soon as you remember.
 - If it is close to your next dose, do not take the missed dose.
-  Take the next dose at your regular time.If you take too much valsartan tablets USP, call your doctor or Poison Control Center, or go to the nearest hospital emergency room.
+  Take the next dose at your regular time.
+- If you take too much valsartan tablets USP, call your doctor or Poison Control Center, or go to the nearest hospital emergency room.
 
 What are the possible side effects of valsartan tablets USP?
 Valsartan tablets USP may cause the following serious side effects: Injury or death to an unborn baby.
@@ -129,4 +130,4 @@ For more information about valsartan tablets, ask your pharmacist or doctor, or 
 What are the ingredients in valsartan tablets USP?
 Active ingredient: valsartan USP Inactive ingredients: anhydrous lactose, crospovidone, dental-type silica, hypromellose, iron oxide yellow, magnesium stearate, microcrystalline cellulose, polyethylene glycol, and titanium dioxide; and iron oxide red in 80 mg.
 All brands mentioned are trademarks of their respective owners and are not trademarks of Jubilant Generics Limited.
-Rx Only Manufactured by: Jubilant Generics Limited Roorkee-247661, India Marketed by: Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD-21801, USA Revised: December 2014
+Rx Only Manufactured by: Jubilant Generics Limited Roorkee-247661, India Marketed by: Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD-21801, USA Revised: May 2016
