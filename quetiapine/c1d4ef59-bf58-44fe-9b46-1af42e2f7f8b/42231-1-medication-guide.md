@@ -1,6 +1,6 @@
 # Medication Guide
 
-Quetiapine (kwe-TYE-a-peen) Tablets
+Quetiapine (kwe-TYE-a-peen) Tablets USP
 
 Read this Medication Guide before you start taking quetiapine tablets and each time you get a refill.
 There may be new information.
@@ -10,23 +10,23 @@ What is the most important information I should know about quetiapine tablets?
 
 Quetiapine tablets may cause serious side effects, including:
 
-- 1.Risk of death in the elderly with dementia.
-  Medicines like quetiapine tablets can increase the risk of death in elderly people who have memory loss (dementia).
-  Quetiapine tablets are not for treating psychosis in the elderly with dementia.
-- 2.Risk of suicidal thoughts or actions (antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions).
-- •Talk to your or your family member’s healthcare provider about:
-  - oall risks and benefits of treatment with antidepressant medicines.
-  - oall treatment choices for depression or other serious mental illness
-- •Antidepressant medications may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
-- •Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
-  Some people may have a particularly high risk of having suicidal thoughts or actions.
-  These include people who have (or have a family history of) depression, bipolar illness (also called manic-depressive illness), or suicidal thoughts or actions.
-- •How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
-  - oPay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
-    This is very important when an antidepressant medicine is started or when the dose is changed.
-  - oCall the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
-  - oKeep all follow-up visits with the healthcare provider as scheduled.
-    Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
+1. 1.Risk of death in the elderly with dementia.
+   Medicines like quetiapine tablets can increase the risk of death in elderly people who have memory loss (dementia).
+   Quetiapine tablets are not for treating psychosis in the elderly with dementia.
+2. 2.Risk of suicidal thoughts or actions (antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions).
+3. •Talk to your or your family member’s healthcare provider about:
+   - oall risks and benefits of treatment with antidepressant medicines.
+   - oall treatment choices for depression or other serious mental illness
+4. •Antidepressant medications may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
+5. •Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
+   Some people may have a particularly high risk of having suicidal thoughts or actions.
+   These include people who have (or have a family history of) depression, bipolar illness (also called manic-depressive illness), or suicidal thoughts or actions.
+6. •How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
+   - oPay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
+     This is very important when an antidepressant medicine is started or when the dose is changed.
+   - oCall the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
+   - oKeep all follow-up visits with the healthcare provider as scheduled.
+     Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
 
 Call a healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
 
@@ -90,9 +90,9 @@ Before you take quetiapine tablets, tell your healthcare provider if you have or
 - •any other medical condition
 - •pregnancy or plans to become pregnant.
   It is not known if quetiapine tablets will harm your unborn baby.
-- •breastfeeding or plans to breastfeed.
+- •breast-feeding or plans to breast-feed.
   Quetiapine fumarate can pass into your breast milk.
-  You and your healthcare provider should decide if you will take quetiapine tablets or breastfeed.
+  You and your healthcare provider should decide if you will take quetiapine tablets or breast-feed.
   You should not do both.
 
 Tell the healthcare provider about all the medicines that you take or recently have taken including prescription medicines, over-the-counter medicines, herbal supplements and vitamins.
@@ -252,4 +252,4 @@ TEVA PHARMACEUTICALS USA, INC.
 North Wales, PA 19454
 
 Rev.
-E 7/2015
+F 1/2016

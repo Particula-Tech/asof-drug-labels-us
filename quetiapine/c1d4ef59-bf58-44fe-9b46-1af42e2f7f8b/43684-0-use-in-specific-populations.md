@@ -44,13 +44,13 @@ Because of the potential for serious adverse reactions in nursing infants from q
 
 In published case reports, the level of quetiapine in breast milk ranged from undetectable to 170 mcg/L.
 The estimated infant dose ranged from 0.09% to 0.43% of the weight-adjusted maternal dose.
-Based on a limited number (N = 8) of mother/infant pairs, calculated infant daily doses range from less than 0.01 mg/kg (at a maternal daily dose up to 100 mg quetiapine) to 0.1 mg/kg (at a maternal daily dose of 400 mg).
+Based on a limited number (N=8) of mother/infant pairs, calculated infant daily doses range from less than 0.01 mg/kg (at a maternal daily dose up to 100 mg quetiapine) to 0.1 mg/kg (at a maternal daily dose of 400 mg).
 
 ## 8.4 Pediatric Use
 
 In general, the adverse reactions observed in children and adolescents during the clinical trials were similar to those in the adult population with few exceptions.
 Increases in systolic and diastolic blood pressure occurred in children and adolescents and did not occur in adults.
-Orthostatic hypotension occurred more frequently in adults (4 to 7%) compared to children and adolescents (< 1%) [see Warnings and Precautions (5.7) and Adverse Reactions (6.1)].
+Orthostatic hypotension occurred more frequently in adults (4 to 7%) compared to children and adolescents (<1%) [see Warnings and Precautions (5.7) and Adverse Reactions (6.1)].
 
 Schizophrenia
 

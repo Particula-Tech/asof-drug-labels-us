@@ -12,8 +12,8 @@ Quetiapine fumarate’s antagonism of adrenergic α1 receptors may explain the o
 
 ## 12.2 Pharmacodynamics
 
-Quetiapine fumarate is an antagonist at multiple neurotransmitter receptors in the brain: serotonin 5HT1A and 5HT2 (IC50s = 717 & 148nM, respectively), dopamine D1 and D2 (IC50s = 1268 & 329nM, respectively), histamine H1 (IC50 = 30nM), and adrenergic α1 and α2 receptors (IC50s = 94 & 271nM, respectively).
-Quetiapine fumarate has no appreciable affinity at cholinergic muscarinic and benzodiazepine receptors (IC50s > 5000 nM).
+Quetiapine fumarate is an antagonist at multiple neurotransmitter receptors in the brain: serotonin 5HT1A and 5HT2 (IC50s=717 & 148nM, respectively), dopamine D1 and D2 (IC50s=1268 & 329nM, respectively), histamine H1 (IC50=30nM), and adrenergic α1 and α2 receptors (IC50s=94 & 271nM, respectively).
+Quetiapine fumarate has no appreciable affinity at cholinergic muscarinic and benzodiazepine receptors (IC50s >5000 nM).
 
 Effect on QT Interval
 
@@ -62,7 +62,7 @@ In vitro studies using human liver microsomes revealed that the cytochrome P450 
 
 Age
 
-Oral clearance of quetiapine was reduced by 40% in elderly patients (≥ 65 years, n = 9) compared to young patients (n = 12), and dosing adjustment may be necessary [see Dosage and Administration (2.3)].
+Oral clearance of quetiapine was reduced by 40% in elderly patients (≥65 years, n=9) compared to young patients (n=12), and dosing adjustment may be necessary [see Dosage and Administration (2.3)].
 
 Gender
 
@@ -78,12 +78,12 @@ Smoking has no effect on the oral clearance of quetiapine.
 
 Renal Insufficiency
 
-Patients with severe renal impairment (Clcr = 10 to 30 mL/min/1.73 m2, n = 8) had a 25% lower mean oral clearance than normal subjects (Clcr > 80 mL/min/1.73 m2, n = 8), but plasma quetiapine concentrations in the subjects with renal insufficiency were within the range of concentrations seen in normal subjects receiving the same dose.
+Patients with severe renal impairment (Clcr=10 to 30 mL/min/1.73 m2, n=8) had a 25% lower mean oral clearance than normal subjects (Clcr >80 mL/min/1.73 m2, n=8), but plasma quetiapine concentrations in the subjects with renal insufficiency were within the range of concentrations seen in normal subjects receiving the same dose.
 Dosage adjustment is therefore not needed in these patients [see Use in Specific Populations (8.6)].
 
 Hepatic Insufficiency
 
-Hepatically impaired patients (n = 8) had a 30% lower mean oral clearance of quetiapine than normal subjects.
+Hepatically impaired patients (n=8) had a 30% lower mean oral clearance of quetiapine than normal subjects.
 In two of the 8 hepatically impaired patients, AUC and Cmax were 3 times higher than those observed typically in healthy subjects.
 Since quetiapine is extensively metabolized by the liver, higher plasma levels are expected in the hepatically impaired population, and dosage adjustment may be needed [see Dosage and Administration (2.4) and Use in Specific Populations (8.7)].
 
@@ -93,9 +93,9 @@ The in vivo assessments of effect of other drugs on the pharmacokinetics of quet
 
 Table 17: The Effect of Other Drugs on the Pharmacokinetics of Quetiapine
 
-| CoadministeredDrug | Dose schedules |  | Effect onQuetiapinePharmacokinetics |
+| Coadministereddrug | Dose schedules |  | Effect on quetiapinepharmacokinetics |
 | --- | --- | --- | --- |
-| CoadministeredDrug | Quetiapine |  |  |
+| Coadministereddrug | Quetiapine |  |  |
 | Phenytoin | 100 mg three times daily | 250 mg three times daily | 5 fold Increase in oral clearance |
 | Divalproex | 500 mg twice daily | 150 mg twice daily | 17% increase mean max plasma concentration at steady state. No effect on absorption or mean oral clearance |
 | Thioridazine | 200 mg twice daily | 300 mg twice daily | 65% increase in oral clearance |
@@ -111,9 +111,9 @@ Quetiapine at doses of 750 mg/day did not affect the single dose pharmacokinetic
 
 Table 18: The Effect of Quetiapine on the Pharmacokinetics of Other Drugs
 
-|  | Dose Schedules |  | Effect on OtherDrugsPharmacokinetics |
+|  | Dose Schedules |  | Effect on other drugspharmacokinetics |
 | --- | --- | --- | --- |
-| CoadministeredDrug | CoadministeredDrug | Quetiapine |  |
+| Coadministereddrug | Coadministereddrug | Quetiapine |  |
 | Lorazepam | 2 mg, single dose | 250 mg threetimes daily | Oral clearance of lorazepam reduced by 20% |
 | Divalproex | 500 mg twice daily | 150 mgtwice daily | Cmax and AUC of free valproic acid at steady-state was decreased by 10 to 12% |
 | Lithium | Up to 2400 mg/day given in twice dailydoses | 250 mg threetimes daily | No effect on steady state pharmacokinetics of lithium |
