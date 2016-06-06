@@ -44,8 +44,7 @@ Advise patients to notify their healthcare provider if they are breastfeeding or
 
 Heart Failure and Edema
 
-Advise patients to be alert for the symptoms of congestive heart failure including shortness of breath, unexplained weight gain, or edema and to contact their healthcare provider if such symptoms occur [see Warnings and Precautions (5.9)].Anaphylactic Reactions Inform patients of the signs of an anaphylactic reaction (e.g., difficulty breathing, swelling of the face or throat).
-Instruct patients to seek immediate emergency help if these occur [see Contraindications (4) and Warnings and Precautions (5.13)].
+Advise patients to be alert for the symptoms of congestive heart failure including shortness of breath, unexplained weight gain, or edema and to contact their healthcare provider if such symptoms occur [see Warnings and Precautions (5.9)].
 
 Concomitant Use with Other Triptans or Ergot Medications
 
