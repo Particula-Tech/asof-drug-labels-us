@@ -1,6 +1,6 @@
 # Patient Information
 
-ZARXIO (zar-zee-oh)
+ZARXIO® (zar-zee-oh)
 
 (filgrastim-sndz)
 
@@ -8,7 +8,7 @@ injection
 
 What is ZARXIO?
 
-ZARXIO is a man-made form of granulocyte colony-stimulating factor (G­CSF).
+ZARXIO is a man-made form of granulocyte colony-stimulating factor (G‑CSF).
 G-CSF is a substance produced by the body.
 It stimulates the growth of neutrophils, a type of white blood cell important in the body’s fight against infection.
 
@@ -93,9 +93,9 @@ You may report side effects to FDA at 1-800-FDA-1088.
 How should I store ZARXIO?
 
 - •Store ZARXIO in the refrigerator between 36°F to 46°F (2°C to 8°C).
-  - •Avoid freezing ZARXIO.
-    If frozen, thaw in the refrigerator before use.
-    Throw away (dispose of) ZARXIO if it has been frozen more than 1 time.
+- •Avoid freezing ZARXIO.
+  If frozen, thaw in the refrigerator before use.
+  Throw away (dispose of) ZARXIO if it has been frozen more than 1 time.
 - •Store ZARXIO in the original pack to protect it from light.
 - •Do not shake ZARXIO.
 - •Take ZARXIO out of the refrigerator 30 minutes before use and allow it to reach room temperature before preparing an injection.
@@ -130,7 +130,7 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Instructions for Use
 
-ZARXIO (zar-zee-oh)
+ZARXIO® (zar-zee-oh)
 
 (filgrastim-sndz)
 
@@ -139,7 +139,7 @@ injection
 Important:
 
 - •Do not inject yourself or someone else until you have been shown how to inject ZARXIO.
-  Your doctor or nurse will show you how to prepare and inject ZARXIO properly using the ZARXIO prefilled syringe with UltraSafe Passive™ Needle Guard.
+  Your doctor or nurse will show you how to prepare and inject ZARXIO properly using the ZARXIO prefilled syringe with UltraSafe Passive® Needle Guard.
   Talk to your doctor or nurse if you have any questions.
 - •You should not inject a dose of ZARXIO less than 0.3 mL (180 mcg) from a ZARXIO prefilled syringe.
   A dose less than 0.3 mL cannot be accurately measured using the ZARXIO prefilled syringe.
@@ -288,7 +288,7 @@ Gently tap the syringe with your fingers until the air bubble rises to the top o
 Figure H
 
 Step 13.
-Holding the syringe as shown, Press slowly on the plunger to push out the excess medicine until the edge of the conical base of the plunger stopper lines up with the syringe marking for your prescribed dose.
+Holding the syringe as shown, press slowly on the plunger to push out the excess medicine until the edge of the conical base of the plunger stopper lines up with the syringe marking for your prescribed dose.
 See Figure I, example for a dose of 0.4 mL.
 
 Be careful not to touch the needle guard wings before use.
@@ -350,6 +350,6 @@ Manufactured by: Sandoz Inc., Princeton, NJ 08540, US License No. 2003
 
 At: GP Grenzach Produktions GmbH, Grenzach-Wyhlen, Germany, Product of Austria
 
-03-2016M
+04-2016M
 
-46176756
+46183110

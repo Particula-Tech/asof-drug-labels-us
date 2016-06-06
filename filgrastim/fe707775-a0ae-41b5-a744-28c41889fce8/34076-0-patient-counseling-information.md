@@ -1,7 +1,7 @@
 # 17 PATIENT COUNSELING INFORMATION
 
 Review the steps for direct patient administration with patients and caregivers.
-Training should aim to ensure that patients and caregivers can successfully perform all of the steps in the Instructions for use of ZARXIO prefilled syringe with BD UltraSafe Passive™ Needle Guard, including showing the patient or caregiver how to measure the required dose, particularly if a patient is on a dose other than the entire syringe.
+Training should aim to ensure that patients and caregivers can successfully perform all of the steps in the Instructions for Use of ZARXIO prefilled syringe with BD UltraSafe Passive® Needle Guard, including showing the patient or caregiver how to measure the required dose, particularly if a patient is on a dose other than the entire syringe.
 If a patient or caregiver is not able to demonstrate that they can measure the dose and administer the product successfully, you should consider whether the patient is an appropriate candidate for self-administration of ZARXIO [see Instructions for Use].
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
@@ -24,7 +24,7 @@ Advise patients of the following risks and potential risks with ZARXIO:
   Advise patients to report signs or symptoms of vasculitis to their physician immediately [see Warnings and Precautions (5.11)].
 - •Advise females of reproductive potential that ZARXIO should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus [see Use in Specific Populations (8.1)].
 
-ZARXIO™ (filgrastim-sndz)
+ZARXIO® (filgrastim-sndz)
 
 ZARXIO is a trademark of Novartis AG
 

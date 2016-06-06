@@ -110,4 +110,4 @@ Additional efficacy endpoints included a comparison between patients randomized 
 
 The incidence for each of these 5 clinical parameters was lower in the filgrastim arm compared to the control arm for cohorts in each of the 3 major diagnostic categories.
 An analysis of variance showed no significant interaction between treatment and diagnosis‚ suggesting that efficacy did not differ substantially in the different diseases.
-Although filgrastim substantially reduced neutropenia in all patient groups‚ in patients with cyclic neutropenia‚ cycling persisted but the period of neutropenia was shortened to 1 day
+Although filgrastim substantially reduced neutropenia in all patient groups‚ in patients with cyclic neutropenia‚ cycling persisted but the period of neutropenia was shortened to 1 day.

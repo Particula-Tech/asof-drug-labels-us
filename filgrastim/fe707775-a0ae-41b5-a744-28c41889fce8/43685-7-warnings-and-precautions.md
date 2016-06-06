@@ -84,7 +84,7 @@ ZARXIO may be started at a reduced dose when the symptoms resolve and the ANC ha
 ## 5.12 Potential Effect on Malignant Cells
 
 ZARXIO is a growth factor that primarily stimulates neutrophils.
-The granulocyte-colony stimulating factor (G­CSF) receptor through which ZARXIO acts has also been found on tumor cell lines.
+The granulocyte-colony stimulating factor (G‑CSF) receptor through which ZARXIO acts has also been found on tumor cell lines.
 The possibility that ZARXIO acts as a growth factor for any tumor type cannot be excluded.
 The safety of filgrastim products in chronic myeloid leukemia (CML) and myelodysplasia has not been established.
 

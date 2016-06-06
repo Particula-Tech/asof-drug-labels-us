@@ -1,6 +1,6 @@
 # 0.5 mL Carton
 
-Zarxio™
+Zarxio®
 
 (filgrastim-sndz)
 
@@ -27,9 +27,9 @@ No Preservative.
 Refrigerate.
 Do Not Freeze.
 
-Caution: Contains Natural Rubber Latex Which May
+Caution: Contains Natural Rubber Latex
 
-Cause Allergic Reaction.
+Which May Cause Allergic Reaction.
 
 Rx only
 
@@ -39,7 +39,7 @@ a Novartis company
 
 # 0.8 mL Carton
 
-Zarxio™
+Zarxio®
 
 (filgrastim-sndz)
 
@@ -66,9 +66,9 @@ No Preservative.
 Refrigerate.
 Do Not Freeze.
 
-Caution: Contains Natural Rubber Latex Which May
+Caution: Contains Natural Rubber Latex
 
-Cause Allergic Reaction.
+Which May Cause Allergic Reaction.
 
 Rx only
 

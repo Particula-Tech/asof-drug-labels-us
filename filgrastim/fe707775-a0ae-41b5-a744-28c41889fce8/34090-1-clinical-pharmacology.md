@@ -11,9 +11,9 @@ G-CSF is not species-specific and has been shown to have minimal direct in vivo 
 ## 12.2 Pharmacodynamics
 
 In phase 1 studies involving 96 patients with various nonmyeloid malignancies‚ administration of filgrastim resulted in a dose-dependent increase in circulating neutrophil counts over the dose range of 1 to 70 mcg/kg/day.
-This increase in neutrophil counts was observed whether filgrastim was administered intravenous (1 to70 mcg/kg twice daily)‚ subcutaneous (1 to 3 mcg/kg once daily)‚ or by continuous subcutaneous infusion (3 to 11 mcg/kg/day).
+This increase in neutrophil counts was observed whether filgrastim was administered intravenous (1 to 70 mcg/kg twice daily)‚ subcutaneous (1 to 3 mcg/kg once daily)‚ or by continuous subcutaneous infusion (3 to 11 mcg/kg/day).
 With discontinuation of filgrastim therapy‚ neutrophil counts returned to baseline in most cases within 4 days.
-Isolated neutrophils displayed normal phagocytic (measured by zymosan-stimulated chemoluminescence) and chemotactic (measured by migration under agarose using N-formyl-methionyl-leucyl­phenylalanine [fMLP] as the chemotaxin) activity in vitro.
+Isolated neutrophils displayed normal phagocytic (measured by zymosan-stimulated chemiluminescence) and chemotactic (measured by migration under agarose using N-formyl-methionyl-leucyl‑phenylalanine [fMLP] as the chemotaxin) activity in vitro.
 
 The absolute monocyte count was reported to increase in a dose-dependent manner in most patients receiving filgrastim; however‚ the percentage of monocytes in the differential count remained within the normal range.
 Absolute counts of both eosinophils and basophils did not change and were within the normal range following administration of filgrastim.

@@ -60,10 +60,10 @@ Thereafter, if the patient is clinically stable, less frequent routine monitorin
 ## 2.5 Important Administration Instructions
 
 Patient self-administration and administration by a caregiver may benefit from training by a healthcare professional.
-Training should aim to demonstrate to those patients and caregivers how to measure the dose using the prefilled syringe, and the focus should be on ensuring that a patient or caregiver can successfully perform all of the steps in the Instructions for use of ZARXIO prefilled syringe with BD UltraSafe Passive™ Needle Guard.
+Training should aim to demonstrate to those patients and caregivers how to measure the dose using the prefilled syringe, and the focus should be on ensuring that a patient or caregiver can successfully perform all of the steps in the Instructions for Use of ZARXIO prefilled syringe with BD UltraSafe Passive® Needle Guard.
 If a patient or caregiver is not able to demonstrate that they can measure the dose and administer the product successfully, you should consider whether the patient is an appropriate candidate for self-administration of ZARXIO [see Instructions for Use].
 
-ZARXIO prefilled syringe with BD UltraSafe Passive™ Needle Guard is not designed to allow for direct administration of doses of less than 0.3 mL (180 mcg).
+ZARXIO prefilled syringe with BD UltraSafe Passive® Needle Guard is not designed to allow for direct administration of doses of less than 0.3 mL (180 mcg).
 The spring-mechanism of the needle guard apparatus affixed to the prefilled syringe interferes with the visibility of the graduation markings on the syringe barrel corresponding to 0.1 mL and 0.2 mL.
 The visibility of these markings is necessary to accurately measure doses of ZARXIO less than 0.3 mL (180 mcg) for direct administration to patients.
 Thus, the direct administration to patients requiring doses of less than 0.3 mL (180 mcg) is not recommended due to the potential for dosing errors.
@@ -97,4 +97,4 @@ When diluted in 5% Dextrose Injection, USP, or 5% Dextrose plus Albumin (Human)�
 Do not dilute with saline at any time, because the product may precipitate.
 
 Diluted ZARXIO solution can be stored at room temperature for up to 24 hours.
-This 24 hour time period includes the time during room temperature storage of the infusion solution and the duration of the infusion
+This 24 hour time period includes the time during room temperature storage of the infusion solution and the duration of the infusion.

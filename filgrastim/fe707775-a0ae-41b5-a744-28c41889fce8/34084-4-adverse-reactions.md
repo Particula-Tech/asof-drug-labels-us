@@ -5,7 +5,7 @@ The following serious adverse reactions are discussed in greater detail in other
 - •Splenic Rupture [see Warnings and Precautions (5.1)]
 - •Acute Respiratory Distress Syndrome [see Warnings and Precautions (5.2)]
 - •Serious Allergic Reactions [see Warnings and Precautions (5.3)]
-- •Sickle Cell Disorders [see Warnings and Precautions (5.45.4)]
+- •Sickle Cell Disorders [see Warnings and Precautions (5.4)]
 - •Glomerulonephritis [see Warnings and Precautions (5.5)]
 - •Alveolar Hemorrhage and Hemoptysis [see Warnings and Precautions (5.6)]
 - •Capillary Leak Syndrome [see Warnings and Precautions (5.7)]
@@ -138,7 +138,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 - •splenic rupture and splenomegaly (enlarged spleen) [see Warnings and Precautions (5.1)]
 - •acute respiratory distress syndrome [see Warnings and Precautions (5.2)]
-- •anaphylaxis [see Warnings and Precautions (5.35.3)]
+- •anaphylaxis [see Warnings and Precautions (5.3)]
 - •sickle cell disorders [see Warnings and Precautions (5.4)]
 - •glomerulonephritis [see Warnings and Precautions (5.5)]
 - •alveolar hemorrhage and hemoptysis [see Warnings and Precautions (5.6)]
