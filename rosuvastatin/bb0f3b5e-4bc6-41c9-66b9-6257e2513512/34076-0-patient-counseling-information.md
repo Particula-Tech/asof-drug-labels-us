@@ -1,33 +1,43 @@
 # 17 PATIENT COUNSELING INFORMATION
 
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
+
 Patients should be instructed not to take 2 doses of CRESTOR within 12 hours of each other.
 
-## 17.1 Skeletal Muscle Effects
+Skeletal Muscle Effects
 
 Patients should be advised to report promptly unexplained muscle pain, tenderness, or weakness, particularly if accompanied by malaise or fever or if these muscle signs or symptoms persist after discontinuing CRESTOR.
 
-## 17.2 Concomitant Use of Antacids
+Concomitant Use of Antacids
 
 When taking CRESTOR with an aluminum and magnesium hydroxide combination antacid, the antacid should be taken at least 2 hours after CRESTOR administration.
 
-## 17.3 Pregnancy
+Embryofetal Toxicity
 
-If the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus and the lack of known clinical benefit with continued use during pregnancy.
+Advise females of reproductive potential of the risk to a fetus, to use effective contraception during treatment, and to inform their healthcare provider of a known or suspected pregnancy [see Contraindications (4) and Use in Specific Populations (8.1, 8.3)].
 
-## 17.4 Liver Enzymes
+Lactation
+
+Advise women not to breastfeed during treatment with CRESTOR [see Contraindications (4) and Use in Specific Populations (8.2)].
+
+Liver Enzymes
 
 It is recommended that liver enzyme tests be performed before the initiation of CRESTOR and if signs or symptoms of liver injury occur.
 All patients treated with CRESTOR should be advised to promptly report any symptoms that may indicate liver injury, including fatigue, anorexia, right upper abdominal discomfort, dark urine or jaundice.
 
 CRESTOR is a trademark of the AstraZeneca group of companies.
 
-© AstraZeneca 2015
+© AstraZeneca 2015, 2016
 
 Licensed from SHIONOGI & CO., LTD., Osaka, Japan
 
-Distributed by: AstraZeneca Pharmaceuticals LP Wilmington, DE 19850
+Distributed by:
+
+AstraZeneca Pharmaceuticals LP
+
+Wilmington, DE 19850
 
 ASTRAZENECA
 
 Rev.
-November, 2015
+May 2016

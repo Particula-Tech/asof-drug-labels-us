@@ -2,8 +2,11 @@
 
 ## 2.1 General Dosing Information
 
-The dose range for CRESTOR is 5 to 40 mg orally once daily.
-The usual starting dose is 10‑20 mg.
+The dose range for CRESTOR in adults is 5 to 40 mg orally once daily.
+The usual starting dose is 10 to 20 mg once daily.
+The usual starting dose in adult patients with homozygous familial hypercholesterolemia is 20 mg once daily.
+
+The maximum CRESTOR dose of 40 mg should be used only for those patients who have not achieved their LDL-C goal utilizing the 20 mg dose [see Warnings and Precautions (5.1)].
 
 CRESTOR can be administered as a single dose at any time of day, with or without food.
 The tablet should be swallowed whole.
@@ -12,30 +15,18 @@ When initiating CRESTOR therapy or switching from another HMG‑CoA reductase in
 
 After initiation or upon titration of CRESTOR, lipid levels should be analyzed within 2 to 4 weeks and the dosage adjusted accordingly.
 
-The 40 mg dose of CRESTOR should be used only for those patients who have not achieved their LDL‑C goal utilizing the 20 mg dose [see Warnings and Precautions (5.1)].
+## 2.2 Pediatric Dosing
 
-## 2.2 Heterozygous Familial Hypercholesterolemia in Pediatric Patients (8 to 17 years of age)
+In heterozygous familial hypercholesterolemia, the recommended dose range is 5 to 10 mg orally once daily in patients 8 to less than 10 years of age, and 5 to 20 mg orally once daily in patients 10 to 17 years of age.
 
-In patients 8 to less than 10 years of age with heterozygous familial hypercholesterolemia, the usual dose range is 5 to 10 mg orally once daily.
-Safety and efficacy of doses greater than 10 mg have not been studied in this population.
+In homozygous familial hypercholesterolemia, the recommended dose is 20 mg orally once daily in patients 7 to 17 years of age.
 
-In patients 10 to 17 years of age with heterozygous familial hypercholesterolemia, the usual dose range is 5 to 20 mg orally once daily.
-Safety and efficacy of doses greater than 20 mg have not been studied in this population.
-
-Doses should be individualized according to the recommended goal of therapy [see Clinical Pharmacology (12) and Indications and Usage (1.1)].
-Adjustments should be made at intervals of 4 weeks or more.
-
-## 2.3 Homozygous Familial Hypercholesterolemia
-
-The recommended starting dose of CRESTOR is 20 mg once daily.
-Response to therapy should be estimated from preapheresis LDL‑C levels.
-
-## 2.4 Dosing in Asian Patients
+## 2.3 Dosing in Asian Patients
 
 In Asian patients, consider initiation of CRESTOR therapy with 5 mg once daily due to increased rosuvastatin plasma concentrations.
 The increased systemic exposure should be taken into consideration when treating Asian patients not adequately controlled at doses up to 20 mg/day [see Use in Specific Populations (8.8) and Clinical Pharmacology (12.3)].
 
-## 2.5 Use with Concomitant Therapy
+## 2.4 Use with Concomitant Therapy
 
 Patients taking cyclosporine
 
@@ -43,14 +34,15 @@ The dose of CRESTOR should not exceed 5 mg once daily [see Warnings and Precauti
 
 Patients taking gemfibrozil
 
-Initiate CRESTOR therapy with 5 mg once daily.
+Avoid concomitant use of CRESTOR with gemfibrozil.
+If concomitant use cannot be avoided, initiate CRESTOR at 5 mg once daily.
 The dose of CRESTOR should not exceed 10 mg once daily [see Warnings and Precautions (5.1), Drug Interactions (7.2), and Clinical Pharmacology (12.3)].
 
-Patients taking atazanavir and ritonavir, lopinavir and ritonavir or simeprevir
+Patients taking atazanavir and ritonavir, lopinavir and ritonavir, or simeprevir
 
 Initiate CRESTOR therapy with 5 mg once daily.
 The dose of CRESTOR should not exceed 10 mg once daily [see Warnings and Precautions (5.1), Drug Interactions (7.3), and Clinical Pharmacology (12.3)].
 
-## 2.6 Dosing in Patients with Severe Renal Impairment
+## 2.5 Dosing in Patients with Severe Renal Impairment
 
 For patients with severe renal impairment (CLcr <30 mL/min/1.73 m2) not on hemodialysis, dosing of CRESTOR should be started at 5 mg once daily and not exceed 10 mg once daily [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].

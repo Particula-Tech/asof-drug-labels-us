@@ -10,38 +10,76 @@ Second, rosuvastatin inhibits hepatic synthesis of VLDL, which reduces the total
 
 ## 12.3 Pharmacokinetics
 
-- •Absorption: In clinical pharmacology studies in man, peak plasma concentrations of rosuvastatin were reached 3 to 5 hours following oral dosing.
-  Both Cmax and AUC increased in approximate proportion to CRESTOR dose.
-  The absolute bioavailability of rosuvastatin is approximately 20%.
-  Administration of CRESTOR with food did not affect the AUC of rosuvastatin.
-  The AUC of rosuvastatin does not differ following evening or morning drug administration.
-- •Distribution: Mean volume of distribution at steady-state of rosuvastatin is approximately 134 liters.
-  Rosuvastatin is 88% bound to plasma proteins, mostly albumin.
-  This binding is reversible and independent of plasma concentrations.
-- •Metabolism: Rosuvastatin is not extensively metabolized; approximately 10% of a radiolabeled dose is recovered as metabolite.
-  The major metabolite is N-desmethyl rosuvastatin, which is formed principally by cytochrome P450 \ 2C9, and in vitro studies have demonstrated that N-desmethyl rosuvastatin has approximately one-sixth to one-half the HMG‑CoA reductase inhibitory activity of the parent compound.
-  Overall, greater than 90% of active plasma HMG‑CoA reductase inhibitory activity is accounted for by the parent compound.
-- •Excretion: Following oral administration, rosuvastatin and its metabolites are primarily excreted in the feces (90%).
-  The elimination half-life (t1/2) of rosuvastatin is approximately 19 hours.
-  After an intravenous dose, approximately 28% of total body clearance was via the renal route, and 72% by the hepatic route.
-- •Race: A population pharmacokinetic analysis revealed no clinically relevant differences in pharmacokinetics among Caucasian, Hispanic, and Black or Afro-Caribbean groups.
-  However, pharmacokinetic studies, including one conducted in the US, have demonstrated an approximate 2‑fold elevation in median exposure (AUC and Cmax) in Asian subjects when compared with a Caucasian control group.
-- •Gender: There were no differences in plasma concentrations of rosuvastatin between men and women.
-- •Pediatric: In a population pharmacokinetic analysis of two pediatric trials involving patients with heterozygous familial hypercholesterolemia 10 to 17 years of age and 8 to 17 years of age, respectively, rosuvastatin exposure appeared comparable to or lower than rosuvastatin exposure in adult patients.
-- •Geriatric: There were no differences in plasma concentrations of rosuvastatin between the nonelderly and elderly populations (age ≥65 years).
-- •Renal Impairment: Mild to moderate renal impairment (CLcr ≥ 30 mL/min/1.73 m2) had no influence on plasma concentrations of rosuvastatin.
-  However, plasma concentrations of rosuvastatin increased to a clinically significant extent (about 3‑fold) in patients with severe renal impairment (CLcr < 30 mL/min/1.73 m2) not receiving hemodialysis compared with healthy subjects (CLcr > 80 mL/min/1.73 m2).
-- •Hemodialysis: Steady-state plasma concentrations of rosuvastatin in patients on chronic hemodialysis were approximately 50% greater compared with healthy volunteer subjects with normal renal function.
-- •Hepatic Impairment: In patients with chronic alcohol liver disease, plasma concentrations of rosuvastatin were modestly increased.
-  In patients with Child‑Pugh A disease, Cmax and AUC were increased by 60% and 5%, respectively, as compared with patients with normal liver function.
-  In patients with Child‑Pugh B disease, Cmax and AUC were increased 100% and 21%, respectively, compared with patients with normal liver function.
+Absorption
 
-Drug-Drug Interactions:
+In clinical pharmacology studies in man, peak plasma concentrations of rosuvastatin were reached 3 to 5 hours following oral dosing.
+Both Cmax and AUC increased in approximate proportion to CRESTOR dose.
+The absolute bioavailability of rosuvastatin is approximately 20%.
+
+Administration of CRESTOR with food did not affect the AUC of rosuvastatin.
+
+The AUC of rosuvastatin does not differ following evening or morning drug administration.
+
+Distribution
+
+Mean volume of distribution at steady-state of rosuvastatin is approximately 134 liters.
+Rosuvastatin is 88% bound to plasma proteins, mostly albumin.
+This binding is reversible and independent of plasma concentrations.
+
+Metabolism
+
+Rosuvastatin is not extensively metabolized; approximately 10% of a radiolabeled dose is recovered as metabolite.
+The major metabolite is N-desmethyl rosuvastatin, which is formed principally by cytochrome P450 \ 2C9, and in vitro studies have demonstrated that N-desmethyl rosuvastatin has approximately one-sixth to one-half the HMG‑CoA reductase inhibitory activity of the parent compound.
+Overall, greater than 90% of active plasma HMG‑CoA reductase inhibitory activity is accounted for by the parent compound.
+
+Excretion
+
+Following oral administration, rosuvastatin and its metabolites are primarily excreted in the feces (90%).
+The elimination half-life (t1/2) of rosuvastatin is approximately 19 hours.
+
+After an intravenous dose, approximately 28% of total body clearance was via the renal route, and 72% by the hepatic route.
+
+Specific Populations
+
+Race
+
+A population pharmacokinetic analysis revealed no clinically relevant differences in pharmacokinetics among Caucasian, Hispanic, and Black or Afro-Caribbean groups.
+However, pharmacokinetic studies, including one conducted in the US, have demonstrated an approximate 2‑fold elevation in median exposure (AUC and Cmax) in Asian subjects when compared with a Caucasian control group.
+
+Gender
+
+There were no differences in plasma concentrations of rosuvastatin between men and women.
+
+Pediatric
+
+In a population pharmacokinetic analysis of two pediatric trials involving patients with heterozygous familial hypercholesterolemia 10 to 17 years of age and 8 to 17 years of age, respectively, rosuvastatin exposure appeared comparable to or lower than rosuvastatin exposure in adult patients.
+
+Geriatric
+
+There were no differences in plasma concentrations of rosuvastatin between the nonelderly and elderly populations (age ≥65 years).
+
+Renal Impairment
+
+Mild to moderate renal impairment (CLcr ≥ 30 mL/min/1.73 m2) had no influence on plasma concentrations of rosuvastatin.
+However, plasma concentrations of rosuvastatin increased to a clinically significant extent (about 3‑fold) in patients with severe renal impairment (CLcr < 30 mL/min/1.73 m2) not receiving hemodialysis compared with healthy subjects (CLcr > 80 mL/min/1.73 m2).
+
+Hemodialysis
+
+Steady-state plasma concentrations of rosuvastatin in patients on chronic hemodialysis were approximately 50% greater compared with healthy volunteer subjects with normal renal function.
+
+Hepatic Impairment
+
+In patients with chronic alcohol liver disease, plasma concentrations of rosuvastatin were modestly increased.
+
+In patients with Child‑Pugh A disease, Cmax and AUC were increased by 60% and 5%, respectively, as compared with patients with normal liver function.
+In patients with Child‑Pugh B disease, Cmax and AUC were increased 100% and 21%, respectively, compared with patients with normal liver function.
+
+Drug-Drug Interactions
 
 Rosuvastatin clearance is not dependent on metabolism by cytochrome P450 3A4 to a clinically significant extent.
 
 Rosuvastatin is a substrate for certain transporter proteins including the hepatic uptake transporter organic anion-transporting polyprotein 1B1 (OATP1B1) and efflux transporter breast cancer resistance protein (BCRP).
-Concomitant administration of CRESTOR with medications that are inhibitors of these transporter proteins (e.g. cyclosporine, certain HIV protease inhibitors) may result in increased rosuvastatin plasma concentrations and an increased risk of myopathy [see Dosage and Administration (2.5)].
+Concomitant administration of CRESTOR with medications that are inhibitors of these transporter proteins (e.g. cyclosporine, certain HIV protease inhibitors) may result in increased rosuvastatin plasma concentrations and an increased risk of myopathy [see Dosage and Administration (2.4)].
 It is recommended that prescribers consult the relevant product information when considering administration of such products together with CRESTOR.
 
 Table 4.
@@ -71,7 +109,7 @@ Effect of Coadministered Drugs on Rosuvastatin Systemic Exposure
 | Erythromycin 500 mg QID for 7 days | 80 mg | 0.8(0.7-0.9) | 0.7(0.5-0.9) |
 
 Table 5.
-Effect of Rosuvastatin Coadministration on Systemic Exposure To Other Drugs
+Effect of Rosuvastatin Coadministration on Systemic Exposure to Other Drugs
 
 |  | Name and Dose | Change in AUC | Change in Cmax |
 | --- | --- | --- | --- |
@@ -87,4 +125,3 @@ Effect of Rosuvastatin Coadministration on Systemic Exposure To Other Drugs
 Disposition of HMG-CoA reductase inhibitors, including rosuvastatin, involves OATP1B1 and other transporter proteins.
 Higher plasma concentrations of rosuvastatin have been reported in very small groups of patients (n=3 to 5) who have two reduced function alleles of the gene that encodes OATP1B1 (SLCO1B1 521T > C). The frequency of this genotype (i.e., SLCO1B1 521 C/C) is generally lower than 5% in most racial/ethnic groups.
 The impact of this polymorphism on efficacy and/or safety of rosuvastatin has not been clearly established.
-Doses should be titrated according to patient response and tolerability.
