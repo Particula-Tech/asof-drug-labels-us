@@ -1,6 +1,8 @@
-PATIENT INFORMATION and INSTRUCTIONS FOR USE
+# PATIENT INFORMATION and INSTRUCTIONS FOR USE
 
-EPIPEN® (epinephrine) Auto-Injector 0.3 mg Epipen® = one dose of 0.30 mg epinephrine (USP, 1:1000, 0.3 mL) EPIPEN JR® (epinephrine) Auto-Injector 0.15 mg Epipen Jr® = one dose of 0.15 mg epinephrine (USP, 1:2000, 0.3 mL)
+EPIPEN® (epinephrine injection, USP) Auto-Injector 0.3 mg EpiPen® = one dose of 0.3 mg epinephrine (USP, 1:1000, 0.3 mL)
+
+EPIPEN JR® (epinephrine injection, USP) Auto-Injector 0.15 mg EpiPen® = one dose of 0.15 mg epinephrine (USP, 1:2000, 0.3 mL)
 
 For allergic emergencies (anaphylaxis)
 
@@ -76,7 +78,7 @@ Tell your healthcare provider of all known allergies.
 Especially tell your healthcare provider if you take certain asthma medicines.
 
 EpiPen or EpiPen Jr and other medicines may affect each other, causing side effects.
-EpiPen or EpiPen Jr may affect the way other medicines work, and other medicines may affect how the EpiPen or EpiPen Jr works.
+EpiPen or EpiPen Jr may affect the way other medicines work, and other medicines may affect how EpiPen or EpiPen Jr works.
 
 Know the medicines you take.
 Keep a list of them to show your healthcare provider and pharmacist when you get a new medicine.
@@ -119,6 +121,16 @@ EpiPen and EpiPen Jr may cause serious side effects.
   - •fingers, toes, hands, or feet
 - If you accidentally inject EpiPen or EpiPen Jr into any other part of your body, go to the nearest emergency room right away.
   Tell the healthcare provider where on your body you received the accidental injection.
+- •Rarely, patients who have used EpiPen or EpiPen Jr may develop infections at the injection site within a few days of an injection.
+  Some of these infections can be serious.
+  Call your healthcare provider right away if you have any of the following at an injection site:
+  - •redness that does not go away
+  - •swelling
+  - •tenderness
+  - •the area feels warm to the touch
+- •Cuts on the skin, bent needles, and needles that remain in the skin after the injection, have happened in young children who do not cooperate and kick or move during an injection.
+  If you inject a young child with EpiPen or EpiPen Jr, hold their leg firmly in place before and during the injection to prevent injuries.
+  Ask your healthcare provider to show you how to properly hold the leg of a young child during injection.
 - •If you have certain medical conditions, or take certain medicines, your condition may get worse or you may have longer lasting side effects when you use your EpiPen or EpiPen Jr.
   Talk to your healthcare provider about all your medical conditions.
 
@@ -195,7 +207,9 @@ Important Information
 
 Instructions for Use
 
-EPIPEN® (epinephrine) Auto-Injector 0.3 mg Epipen® = one dose of 0.30 mg epinephrine (USP, 1:1000, 0.3 mL) EPIPEN JR® (epinephrine) Auto-Injector 0.15 mg Epipen Jr® = one dose of 0.15 mg epinephrine (USP, 1:2000, 0.3 mL)
+EPIPEN® (epinephrine injection, USP) Auto-Injector 0.3 mg EpiPen® = one dose of 0.3 mg epinephrine (USP, 1:1000, 0.3 mL)
+
+EPIPEN JR® (epinephrine injection, USP) Auto-Injector 0.15 mg EpiPen® = one dose of 0.15 mg epinephrine (USP, 1:2000, 0.3 mL)
 
 For allergic emergencies (anaphylaxis)
 
@@ -208,14 +222,14 @@ Your EpiPen and EpiPen Jr Auto-Injector
 
 A dose of EpiPen or EpiPen Jr® requires 3 simple steps: Prepare, Administer and Get emergency medical help
 
-1. Step 1.
-   Prepare EpiPen or EpiPen Jr for injection
+Step 1.
+Prepare EpiPen or EpiPen Jr for injection
 
 |  | Remove the EpiPen or EpiPen Jr from the clear carrier tube. |
 | --- | --- |
 |  | Flip open the yellow cap of your EpiPen or the green cap of your EpiPen Jr carrier tube. |
 |  | Tip and slide the auto-injector out of the carrier tube. |
-|  | Grasp the auto-injector in your fist with the orange tip pointing downward.With your other hand, remove the blue safety release by pulling straight up without bending or twisting it. |
+|  | Grasp the auto-injector in your fist with the orange tip (needle end) pointing downward.With your other hand, remove the blue safety release by pulling straight up without bending or twisting it. |
 
 - Note:
 
@@ -226,33 +240,37 @@ A dose of EpiPen or EpiPen Jr® requires 3 simple steps: Prepare, Administer and
 Step 2.
 Administer EpiPen or EpiPen Jr
 
-|  | Hold the auto-injector with orange tip near the middle of the outer thigh (upper leg). Swing and firmly push the orange tip against the middle of the outer thigh until it “clicks”. Keep the auto-injector firmly pushed against the thigh at a 90° angle (perpendicular) to the thigh. |
+| If you are administering EpiPen or EpiPen Jr to a young child, hold the leg firmly in place while administering an injection. |  |
 | --- | --- |
-|  | Hold firmly against the thigh for approximately 10 seconds to deliver the medicine. The injection is now complete. |
-|  | Remove the auto-injector from the thigh. The orange tip will extend to cover the needle. |
+|  | Place the orange tip against the middle of the outer thigh (upper leg) at a right angle (perpendicular) to the thigh. Swing and push the auto-injector firmly until it ‘clicks’. The click signals that the injection has started. |
+|  | Hold firmly in place for 3 seconds (count slowly 1,2,3). The injection is now complete. |
+|  | Remove the auto-injector from the thigh. The orange tip will extend to cover the needle. If the needle is still visible, do not attempt to reuse it. |
 |  | Massage the injection area for 10 seconds. |
 
-1. Step 3.
-   Get emergency medical help now.
-   You may need further medical attention.
-   You may need to use a second EpiPen or EpiPen Jr Auto-Injector if symptoms continue or recur.
-2. •Take your used auto-injector with you when you go to see a healthcare provider.
-3. •Tell the healthcare provider that you have received an injection of epinephrine.
-   Show the healthcare provider where you received the injection.
-4. •Give your used EpiPen or EpiPen Jr Auto-Injector to the healthcare provider for inspection and proper disposal.
-5. •Ask for a refill, if needed.
+Step 3.
+Get emergency medical help now.
+You may need further medical attention.
+You may need to use a second EpiPen or EpiPen Jr Auto-Injector if symptoms continue or recur.
+
+- •Take your used auto-injector with you when you go to see a healthcare provider.
+- •Tell the healthcare provider that you have received an injection of epinephrine.
+  Show the healthcare provider where you received the injection.
+- •Give your used EpiPen or EpiPen Jr Auto-Injector to the healthcare provider for inspection and proper disposal.
+- •Ask for a refill, if needed.
 
 Note:
 
 - •The used auto-injector with extended needle cover will not fit in the carrier tube.
 - •EpiPen and EpiPen Jr are single-use injectable devices that deliver a fixed dose of epinephrine.
   The auto-injector cannot be reused.
+  Do not attempt to reuse EpiPen after the device has been activated.
   It is normal for most of the medicine to remain in the auto-injector after the dose is injected.
   The correct dose has been administered if the orange needle tip is extended and the window is blocked.
 - •Your EpiPen and EpiPen Jr Auto-Injector may come packaged with an EpiPen Trainer and separate Trainer Instructions for Use.
   The EpiPen Trainer has a grey color.
   The grey EpiPen Trainer contains no medicine and no needle.
   Practice with your EpiPen Trainer, but always carry your real EpiPen or EpiPen Jr Auto-Injector in case of an allergic emergency.
+- •If you are administering EpiPen or EpiPen Jr to a young child, ask your healthcare provider to show you how to properly hold the leg in place while administering a dose.
 - •Do not try to take the EpiPen or EpiPen Jr Auto-Injector apart.
 
 This Patient Information and Instructions for Use has been approved by the U.S. Food and Drug Administration.
@@ -263,13 +281,16 @@ Mylan Specialty L.P., Morgantown, WV 26505, U.S.A. by Meridian Medical Technolog
 
 EpiPen® and EpiPen Jr® are registered trademarks of Mylan Inc. licensed exclusively to its wholly-owned affiliate, Mylan Specialty L.P. of, Morgantown, WV 26505, U.S.A.
 
-©2014 by Meridian Medical Technologies, Inc.
+Copyright © 2016 Meridian Medical Technologies.
+All rights reserved.
 
-Revised: April 2014 MS:PIL:EPI:R1 0001811
+Revised: May 2016 MS:PIL:EPI:R2
 
-EpiPen® (Epinephrine) Auto-Injector 0.3 mg
+0001927
 
-EpiPen Jr® (Epinephrine) Auto-Injector 0.15 mg
+EPIPEN® (epinephrine injection, USP) Auto-Injector 0.3 mg EpiPen® = one dose of 0.3 mg epinephrine (USP, 1:1000, 0.3 mL)
+
+EPIPEN JR® (epinephrine injection, USP) Auto-Injector 0.15 mg EpiPen® = one dose of 0.15 mg epinephrine (USP, 1:2000, 0.3 mL)
 
 MyEpiPen.com
 
@@ -313,8 +334,9 @@ Practice Instructions
 | --- | --- |
 |  | •Grasp the grey Trainer in your fist with the orange tip pointing downward.•With your other hand, remove blue safety release by pulling straight up without bending or twisting it.•Removing the blue safety release unlocks the Trainer. |
 |  | 2 Administer the Trainer Simulation |
-|  | •Hold the Trainer with the orange tip near the middle of the outer thigh (upper leg).•Swing and firmly push the orange tip against the middle of the outer thigh until it “clicks”. Keep the Trainer firmly pushed against the thigh at a 90º angle (perpendicular) to the thigh. |
-|  | •Hold firmly against the thigh for approximately 10 seconds.•Remove the Trainer from the thigh and massage the injection area for 10 seconds. The orange tip automatically extends out after use. |
+| •If practicing with a young child, hold the leg firmly in place while using the EpiPen Trainer. Ask your healthcare provider to show you how to properly hold the leg to practice so that you will be prepared before an allergic emergency happens. |  |
+|  | •Place the orange tip against the middle of the outer thigh (upper leg) at a right angle (perpendicular) to the thigh.•Swing and push the trainer firmly until it ‘clicks.’ The click signals that the injection has started. |
+|  | •Hold firmly in place for 3 seconds (count slowly 1,2,3).•Remove the Trainer from the thigh and massage the injection area for 10 seconds. The orange tip automatically extends out after use. |
 |  | Note: •In an actual emergency, you would need to seek medical help right away•The actual auto-injector is made to work through clothing•Do not inject into any other part of the body |
 |  | 3 To reset the Trainer |
 |  | •Put the blue safety release back on the Trainer•Place the orange tip on a hard surface•Squeeze the sides of the orange tip and push down on the Trainer with the other hand |
@@ -325,7 +347,7 @@ Practice Session Information
 
 In case of an allergic emergency, use the real yellow EpiPen or green EpiPen Jr Auto-Injector and not the grey Trainer.
 
-Follow instructions on the reverse side of this insert under Practice Instructions.
+Follow instructions above.
 Repeat as often as needed until you are able to self-inject quickly and correctly.
 
 Reread:
@@ -351,7 +373,7 @@ Important differences between the Trainer and your real yellow EpiPen or green E
 | Contains medication? | NO | YES | YES |
 | Has needle? | NO | YES | YES |
 | Comes in Carrier Tube? | NO | YES | YES |
-| Color of Label | Grey | Yellow | Green |
+| Color of Label? | Grey | Yellow | Green |
 | Has expiration date? | NO | YES | YES |
 | Can be reused? | YES | NO (use only once) | NO (use only once) |
 | Okay to remove and replace safety release? | YES | NO (remove just once before use) | NO (remove just once before use) |
@@ -363,5 +385,7 @@ Manufactured for Mylan Specialty L.P., Morgantown, WV 26505, U.S.A. by Meridian 
 
 EpiPen® and EpiPen Jr® are registered trademarks of Mylan Inc. licensed exclusively to its wholly-owned affiliate, Mylan Specialty L. P. of Morgantown, WV 26505, U.S.A.
 
-- ©2014 by Meridian Medical Technologies, Inc.
-- Revised: April 2014 MS:EPIT:R1 0001809
+Copyright © 2016 Meridian Medical Technologies.
+All rights reserved.
+
+Revised: April 2016 MS:EPIT:R2 0001929

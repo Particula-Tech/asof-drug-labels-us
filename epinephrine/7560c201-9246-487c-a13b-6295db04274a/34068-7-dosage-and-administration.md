@@ -6,6 +6,7 @@ Selection of the appropriate dosage strength (EpiPen 0.3 mg or EpiPen Jr 0.15 mg
 - •Patients 15 to 30 kg (33 pounds to 66 pounds): EpiPen Jr 0.15 mg
 
 Inject EpiPen or EpiPen Jr intramuscularly or subcutaneously into the anterolateral aspect of the thigh, through clothing if necessary.
+Instruct caregivers of young children who are prescribed an EpiPen or EpiPen Jr and who may be uncooperative and kick or move during an injection to hold the leg firmly in place and limit movement prior to and during an injection [see Warnings and Precautions (5.2)].
 
 Each EpiPen or EpiPen Jr contains a single dose of epinephrine for single-use injection.
 Since the doses of epinephrine delivered from EpiPen or EpiPen Jr are fixed, consider using other forms of injectable epinephrine if doses lower than 0.15 mg are deemed necessary.

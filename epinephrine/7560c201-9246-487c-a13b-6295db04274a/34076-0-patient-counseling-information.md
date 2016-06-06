@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-[see FDA-Approved Patient Labeling (Patient Information and Instructions for Use)]
+[See FDA-Approved Patient Labeling (Patient Information and Instructions for Use).]
 
 A healthcare provider should review the patient instructions and operation of EpiPen and EpiPen Jr in detail, with the patient or caregiver.
 
@@ -9,15 +9,18 @@ Patients who are at risk of or with a history of severe allergic reactions (anap
 
 Administration and Training
 
-Patients and/or caregivers should be instructed in the appropriate use of EpiPen and EpiPen Jr.
+Instruct patients and/or caregivers in the appropriate use of EpiPen and EpiPen Jr.
 EpiPen should be injected into the middle of the outer thigh (through clothing, if necessary).
 Each device is a single-use injection.
 Advise patients to seek immediate medical care in conjunction with administration of EpiPen.
 
+Instruct caregivers to hold the leg of young children firmly in place and limit movement prior to and during injection.
+Lacerations, bent needles, and embedded needles have been reported when EpiPen and EpiPen Jr have been injected into the thigh of young children who are uncooperative and kick or move during an injection [see Warnings and Precautions (5.2)].
+
 Complete patient information, including dosage, directions for proper administration and precautions can be found inside each EpiPen or EpiPen Jr carton.
 A printed label on the surface of EpiPen shows instructions for use and a diagram depicting the injection process.
 
-Patients and/or caregivers should be instructed to use the Trainer to familiarize themselves with the use of EpiPen in an allergic emergency.
+Instruct patients and/or caregivers to use and practice with the Trainer to familiarize themselves with the use of EpiPen in an allergic emergency.
 The Trainer may be used multiple times.
 A Trainer device is provided in 2-Pak cartons.
 
@@ -27,20 +30,25 @@ Epinephrine may produce symptoms and signs that include an increase in heart rat
 These signs and symptoms usually subside rapidly, especially with rest, quiet and recumbency.
 Patients with hypertension or hyperthyroidism may develop more severe or persistent effects, and patients with coronary artery disease could experience angina.
 Patients with diabetes may develop increased blood glucose levels following epinephrine administration.
-Patients with Parkinson’s disease may notice a temporary worsening of symptoms [see Warnings and Precautions (5.4)].
+Patients with Parkinson’s disease may notice a temporary worsening of symptoms [see Warnings and Precautions (5.5)].
 
 Accidental Injection
 
 Advise patients to seek immediate medical care in the case of accidental injection.
 Since epinephrine is a strong vasoconstrictor when injected into the digits, hands, or feet, treatment should be directed at vasodilatation if there is such an accidental injection to these areas [see Warnings and Precautions (5.2)].
 
+Serious Infections at the Injection Site
+
+Rare cases of serious skin and soft tissue infections, including necrotizing fasciitis and myonecrosis caused by Clostridia (gas gangrene), have been reported at the injection site following epinephrine injection for anaphylaxis.
+Advise patients to seek medical care if they develop signs or symptoms of infection, such as persistent redness, warmth, swelling, or tenderness, at the epinephrine injection site [see Warnings and Precautions (5.3)].
+
 Storage and Handling
 
 Instruct patients to inspect the epinephrine solution visually through the clear window of the auto-injector periodically.
-EpiPen and EpiPen Jr should be replaced if the epinephrine solution appears discolored (pinkish or brown color), cloudy, or contains particles.
+Replace EpiPen and EpiPen Jr if the epinephrine solution appears discolored (pinkish or brown color), cloudy, or contains particles.
 Epinephrine is light sensitive and should be stored in the carrier tube provided to protect it from light.
 The carrier tube is not waterproof.
-Patients should be instructed that EpiPen and EpiPen Jr must be used or properly disposed once the blue safety release is removed or after use [see Storage and Handling (16.2)].
+Instruct patients that EpiPen and EpiPen Jr must be used or properly disposed once the blue safety release is removed or after use [see Storage and Handling (16.2)].
 
 Complete patient information, including dosage, directions for proper administration and precautions can be found inside each EpiPen Auto-Injector carton.
 
@@ -48,6 +56,9 @@ Manufactured for Mylan Specialty L.P., Morgantown, WV 26505, U.S.A. by Meridian 
 
 EpiPen® and EpiPen Jr® are registered trademarks of Mylan Inc. licensed exclusively to its wholly-owned affiliate, Mylan Specialty L. P. of Morgantown, WV 26505, U.S.A.
 
-©2014 by Meridian Medical Technologies, Inc.
+Copyright © 2016 Meridian Medical Technologies.
+All rights reserved.
 
-MS:EPI:R1 0001808
+May 2016 MS:EPI:R2
+
+0001928

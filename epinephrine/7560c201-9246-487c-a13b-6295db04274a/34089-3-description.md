@@ -21,5 +21,4 @@ Chemically, epinephrine is (-)-3,4- Dihydroxy-α-[(methylamino)methyl]benzyl alc
 Epinephrine solution deteriorates rapidly on exposure to air or light, turning pink from oxidation to adrenochrome and brown from the formation of melanin.
 Replace EpiPen and EpiPen Jr if the epinephrine solution appears discolored (pinkish or brown color), cloudy, or contains particles.
 
-Thoroughly review the patient instructions and operation of EpiPen or EpiPen Jr with patients and caregivers prior to use.
-[see Patient Counseling Information (17)].
+Thoroughly review the patient instructions and operation of EpiPen or EpiPen Jr with patients and caregivers prior to use [see Patient Counseling Information (17)].
