@@ -29,7 +29,7 @@ Absorption: Indirect calculations indicate that fluticasone propionate delivered
 Trials using oral dosing of labeled and unlabeled drug have demonstrated that the oral systemic bioavailability of fluticasone propionate is negligible (<1%), primarily due to incomplete absorption and presystemic metabolism in the gut and liver.
 After intranasal treatment of patients with rhinitis for 3 weeks, fluticasone propionate plasma concentrations were above the level of detection (50 pg/mL) only when recommended doses were exceeded and then only in occasional samples at low plasma levels.
 
-Distribution:Following intravenous administration, the initial disposition phase for fluticasone propionate was rapid and consistent with its high lipid solubility and tissue binding.
+Distribution: Following intravenous administration, the initial disposition phase for fluticasone propionate was rapid and consistent with its high lipid solubility and tissue binding.
 The volume of distribution averaged 4.2 L/kg.
 
 The percentage of fluticasone propionate bound to human plasma proteins averaged 99%.
@@ -53,6 +53,6 @@ Plasma fluticasone propionate concentrations following fluticasone propionate aq
 Fluticasone propionate Cmax and AUC(0-τ) increased to 318 pg/mL (range: 110 to 648 pg/mL) and 3,102.6 pg•h/mL (range: 1,207.1 to 5,662.0 pg•h/mL), respectively, after coadministration of ritonavir with fluticasone propionate aqueous nasal spray.
 This significant increase in plasma fluticasone propionate exposure resulted in a significant decrease (86%) in serum cortisol AUC.
 
-Ketoconazole:Coadministration of orally inhaled fluticasone propionate (1,000 mcg) and ketoconazole (200 mg once daily) resulted in a 1.9-fold increase in plasma fluticasone propionate exposure and a 45% decrease in plasma cortisol AUC, but had no effect on urinary excretion of cortisol.
+Ketoconazole: Coadministration of orally inhaled fluticasone propionate (1,000 mcg) and ketoconazole (200 mg once daily) resulted in a 1.9-fold increase in plasma fluticasone propionate exposure and a 45% decrease in plasma cortisol AUC, but had no effect on urinary excretion of cortisol.
 
-Erythromycin:In a multiple-dose drug interaction study, coadministration of orally inhaled fluticasone propionate (500 mcg twice daily) and erythromycin (333 mg 3 times daily) did not affect fluticasone propionate pharmacokinetics.
+Erythromycin: In a multiple-dose drug interaction study, coadministration of orally inhaled fluticasone propionate (500 mcg twice daily) and erythromycin (333 mg 3 times daily) did not affect fluticasone propionate pharmacokinetics.

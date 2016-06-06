@@ -26,13 +26,21 @@ Patients should not increase the prescribed dosage but should contact their heal
 
 Keep Spray Out of Eyes and Mouth: Inform patients to avoid spraying fluticasone propionate nasal spray in their eyes and mouth.
 
+Distr. by: West-Ward
+
+Pharmaceuticals Corp.
+
+Eatontown, NJ 07724
+
+10002064/08
+
+Revised March 2016
+
 # Patient Information
 
-FLUTICASONE PROPIONATE
+Fluticasone Propionate Nasal Spray USP, 50 mcg
 
 (FLOO-tih-kah-sone)
-
-Nasal Spray USP, 50 mcg
 
 Read the Patient Information that comes with fluticasone propionate nasal spray before you start using it and each time you get a refill.
 There may be new information.
@@ -95,47 +103,47 @@ Fluticasone propionate nasal spray may cause serious side effects, including:
 
 - •nose problems.
   Nose problems may include:
-  - onose bleeds.
-  - osores (ulcers) in your nose.
-  - oa certain fungal infection in your nose, mouth, and/or throat (thrush).
-  - ohole in the cartilage of your nose (nasal septal perforation).
+  - •nose bleeds.
+  - •sores (ulcers) in your nose.
+  - •a certain fungal infection in your nose, mouth, and/or throat (thrush).
+  - •hole in the cartilage of your nose (nasal septal perforation).
 - Symptoms of nasal septal perforation may include:
-  1. ▪crusting in the nose
-  2. ▪nose bleeds
-  3. ▪runny nose
-  4. ▪whistling sound when you breathe
-  5. oslow wound healing.
+  1. •crusting in the nose
+  2. •nose bleeds
+  3. •runny nose
+  4. •whistling sound when you breathe
+  5. •slow wound healing.
      You should not use fluticasone propionate nasal spray until your nose has healed if you have a sore in your nose, have had surgery on your nose, or if your nose has been injured.
 - •eye problems including glaucoma and cataracts.
   You should have regular eye exams while you use fluticasone propionate nasal spray.
 - •serious allergic reactions.
   Call your healthcare provider or get emergency medical care if you get any of the following signs of a serious allergic reaction:
-  - orash
-  - ohives
-  - oswelling of your face, mouth, and tongue
-  - obreathing problems
+  - •rash
+  - •hives
+  - •swelling of your face, mouth, and tongue
+  - •breathing problems
 - •weakened immune system and increased chance of getting infections (immunosuppression).
   Taking medicines that weaken your immune system makes you more likely to get infections and can make certain infections worse.
   These infections may include tuberculosis (TB), ocular herpes simplex infections, and infections caused by fungi, bacteria, viruses, and parasites.
   Avoid contact with people who have a contagious disease such as chickenpox or measles while using fluticasone propionate nasal spray.
   If you come in contact with someone who has chickenpox or measles call your healthcare provider right away.
   Symptoms of an infection may include:
-  - ofever
-  - ofeeling tired
-  - opain
-  - onausea
-  - oaches
-  - ovomiting
-  - ochills
+  - •fever
+  - •feeling tired
+  - •pain
+  - •nausea
+  - •aches
+  - •vomiting
+  - •chills
 - •lowered steroid hormone levels (adrenal insufficiency).
   Adrenal insufficiency happens when your adrenal glands do not make enough steroid hormones.
   This can happen when you stop taking oral corticosteroid medicines (such as prednisone) and start taking medicine containing an inhaled steroid (such as fluticasone propionate nasal spray).
   Symptoms of adrenal insufficiency may include:
-  - ofeeling tired
-  - olack of energy
-  - oweakness
-  - o nausea and vomiting
-  - olow blood pressure
+  - •feeling tired
+  - •lack of energy
+  - •weakness
+  - •nausea and vomiting
+  - •low blood pressure
 - •slowed growth in children.
   A child’s growth should be checked often.
 
@@ -157,9 +165,9 @@ Ask your healthcare provider or pharmacist for more information.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-How do I store fluticasone propionate nasal spray?
+How do I store Fluticasone Propionate Nasal Spray?
 
-- •Store fluticasone propionate nasal spray at 68° to 77°F (20° to 25°C).
+- •Store fluticasone propionate nasal spray between 39° and 86°F (4° and 30°C).
 
 Keep fluticasone propionate nasal spray and all medicines out of the reach of children.
 
@@ -178,19 +186,19 @@ For more information about fluticasone propionate nasal spray, call 1-800-962-83
 
 What are the ingredients in fluticasone propionate nasal spray?
 
-Active ingredient: fluticasone propionate.
+Active ingredient: fluticasone propionate USP.
 
-Inactive ingredients: 0.02% w/w benzalkonium chloride, dextrose, microcrystalline cellulose and carboxymethylcellulose sodium, 0.25% w/w phenylethyl alcohol, and polysorbate 80.
+Inactive ingredients: 0.02% w/w benzalkonium chloride, dextrose, microcrystalline cellulose and carboxymethylcellulose sodium, 0.25% w/w phenylethyl alcohol and polysorbate 80.
 
 Instructions for Use
 
-FLUTICASONE PROPIONATE (FLOO-tih-kah-sone)
+Fluticasone Propionate Nasal Spray USP, 50 mcg
 
-Nasal Spray USP, 50 mcg
+(FLOO-tih-kah-sone)
 
 Fluticasone propionate nasal spray is for use in your nose only.
 
-Read this information before you start using your fluticasone propionate nasal spray.BEFORE USING
+Read this information before you start using your fluticasone propionate nasal spray.
 
 Your fluticasone propionate nasal spray must be primed before you use it for the first time and when you have not used it for a week or more.
 
@@ -258,18 +266,17 @@ Do not try to unblock the nasal applicator by inserting a pin or other sharp obj
 
 Storing your fluticasone propionate nasal spray:
 
-- •Store at 20° to 25°C (68° to 77°F).
-  [See USP Controlled Room Temperature.]
+- •Store between 39° and 86°F (4° and 30°C).
 - •Do not use your fluticasone propionate nasal spray after the date shown as “EXP” on the label or box.
 
 This Patient Information and Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Roxane Laboratories, Inc.
+Distr. by: West-Ward
 
-Columbus, Ohio 43216
+Pharmaceuticals Corp.
 
-10002064/07
+Eatontown, NJ 07724
 
-Revised April 2015
+10002064/08
 
-© RLI, 2015
+Revised March 2016

@@ -22,17 +22,17 @@ Also included in Table 1 are adverse reactions from 2 trials in which 167 childr
 
 Table 1: Adverse Reactions with Fluticasone Propionate Nasal Spray with >3% Incidence and More Common than Placebo in Subjects ≥ 4 Years with Allergic Rhinitis
 
-| Adverse Reaction | Placebo (N = 758) % | Fluticasone Propionate 100 mcg Once Daily (N = 167) % | Fluticasone Propionate 200 mcg Once Daily (N = 782) % |
+| Adverse Reaction | Fluticasone Propionate 100 mcg Once Daily (N = 167) % | Fluticasone Propionate 200 mcg Once Daily (N = 782) % | Placebo (N = 758) % |
 | --- | --- | --- | --- |
-| Headache | 14.6 | 6.6 | 16.1 |
-| Pharyngitis | 7.2 | 6 | 7.8 |
-| Epistaxis | 5.4 | 6 | 6.9 |
-| Nasal burning/nasal irritation | 2.6 | 2.4 | 3.2 |
-| Nausea/vomiting | 2 | 4.8 | 2.6 |
-| Asthma symptoms | 2.9 | 7.2 | 3.3 |
-| Cough | 2.8 | 3.6 | 3.8 |
+| Headache | 6.6 | 16.1 | 14.6 |
+| Pharyngitis | 6 | 7.8 | 7.2 |
+| Epistaxis | 6 | 6.9 | 5.4 |
+| Nasal Burning/Nasal Irritation | 2.4 | 3.2 | 2.6 |
+| Nausea/Vomiting | 4.8 | 2.6 | 2 |
+| Asthma Symptoms | 7.2 | 3.3 | 2.9 |
+| Cough | 3.6 | 3.8 | 2.8 |
 
-Other adverse reactions with fluticasone propionate nasal spray observed with an incidence less than or equal to 3% but great than or equal to 1% and more common than with placebo included: blood in nasal mucus, runny nose, abdominal pain, diarrhea, fever, flu-like symptoms, aches and pains, dizziness, and bronchitis.
+Other adverse reactions with fluticasone propionate nasal spray observed with an incidence less than or equal to 3% but greater than or equal to 1% and more common than with placebo included: blood in nasal mucus, runny nose, abdominal pain, diarrhea, fever, flu-like symptoms, aches and pains, dizziness, and bronchitis.
 
 ## 6.2 Postmarketing Experience
 

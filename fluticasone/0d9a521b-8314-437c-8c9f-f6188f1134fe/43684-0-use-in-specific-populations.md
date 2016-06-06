@@ -61,7 +61,7 @@ The potential for fluticasone propionate nasal spray to cause growth suppression
 
 A limited number of subjects aged 65 years and older (n=129) or 75 years and older (n=11) have been treated with fluticasone propionate nasal spray in clinical trials.
 While the number of subjects is too small to permit separate analysis of efficacy and safety, the adverse reactions reported in this population were similar to those reported by younger patients.
-In general,dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
 ## 8.6 Hepatic Impairment
 
