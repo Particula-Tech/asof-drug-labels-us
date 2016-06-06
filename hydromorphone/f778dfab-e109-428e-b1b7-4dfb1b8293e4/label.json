@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA205814"
+  ],
+  "inn": "hydromorphone",
+  "labeler": "Aurolife Pharma, LLC",
+  "package_ndcs": [
+    "13107-107-01",
+    "13107-107-05",
+    "13107-107-20",
+    "13107-107-99",
+    "13107-108-01",
+    "13107-108-05",
+    "13107-108-20",
+    "13107-108-99",
+    "13107-109-01",
+    "13107-109-05",
+    "13107-109-20",
+    "13107-109-99"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "hydromorphone hydrochloride",
+      "name": "HYDROMORPHONE HYDROCHLORIDE"
+    }
+  ],
+  "setid": "f778dfab-e109-428e-b1b7-4dfb1b8293e4",
+  "source": "dailymed"
+}
