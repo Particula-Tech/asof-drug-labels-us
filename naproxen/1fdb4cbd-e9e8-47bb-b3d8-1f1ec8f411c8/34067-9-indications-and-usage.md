@@ -1,14 +1,13 @@
 # INDICATIONS AND USAGE
 
 Carefully consider the potential benefits and risks of naproxen and other treatment options before deciding to use naproxen tablets.
-Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals (see WARNINGS).
-
+Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals (see WARNINGS: Gastrointestinal Bleeding, Ulceration, and Perforation).
 Naproxen tablets are indicated:
 
-- For the relief of the signs and symptoms of rheumatoid arthritis
+- For the relief of the signs and symptoms of rheumatoid arthritis.
 - For the relief of the signs and symptoms of osteoarthritis
 - For the relief of the signs and symptoms of ankylosing spondylitis
-- For the relief of the signs and symptoms of juvenilearthritis
+- For the relief of the signs and symptoms of juvenile arthritis
 
 Naproxen tablets are also indicated:
 

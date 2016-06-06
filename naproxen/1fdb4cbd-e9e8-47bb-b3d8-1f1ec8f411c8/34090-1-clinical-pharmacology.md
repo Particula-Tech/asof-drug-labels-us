@@ -1,13 +1,13 @@
 # CLINICAL PHARMACOLOGY
 
-Pharmacodynamics
+Mechanism of Action
 
-Naproxen is a nonsteroidal anti-inflammatory drug(NSAID) with analgesic and antipyreticproperties.
-The mechanism of action of the naproxen anion, like that of other NS AIDs, is not completely understood but may be related to prostaglandin synthetase inhibition.
+Naproxen has analgesic, anti-inflammatory, and antipyretic properties.
+The mechanism of action of the naproxen, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2).
 
 Pharmacokinetics
 
-Naproxen is rapidly and completely absorbed from the gastrointestinaltract with an in vivo bioavailability of 95%.
+Naproxen is rapidly and completely absorbed from the gastrointestinal tract with an in vivo bioavailability of 95%.
 The elimination half-life of naproxen ranges from 12 to 17 hours.
 Steady-state levels of naproxen are reached in 4 to 5 days, and the degree of naproxen accumulation is consistent with this half-life.
 
@@ -22,6 +22,8 @@ At therapeutic levels naproxen is greater than 99% albumin-bound.
 At doses of naproxen greater than 500 mg/day there is less than proportional increase in plasma levels due to an increase in clearance caused by saturation of plasma protein binding at higher doses (average trough Css 36.5, 49.2 and 56.4 mg/L with 500, 1000 and 1500 mg daily doses of naproxen, respectively).
 The naproxen anion has been found in the milk of lactating women at a concentration equivalent to approximately 1% of maximum naproxen concentration in plasma (see PRECAUTIONS: Nursing Mothers).
 
+Elimination
+
 Metabolism
 
 Naproxen is extensively metabolized in the liver to 6-0-desmethyl naproxen, and both parent and metabolites do not induce metabolizing enzymes.
@@ -32,9 +34,9 @@ Excretion
 The clearance of naproxen is 0.13 mL/min/kg.
 Approximately 95% of the naproxen from any dose is excreted in the urine, primarily as naproxen (< 1%), 6-0-desmethyl naproxen (< 1%) or their conjugates (66% to 92%).
 The plasma half-life of the naproxen anion in humans ranges from 12 to 17 hours.
-The corresponding half-lives of both naproxen's metabolites and conjugates are shorter than 12 hours, and their rates of excretion have been found to coincide closely with the rate of naproxen disappearance from the plasma.
+The corresponding half-lives of both naproxen’s metabolites and conjugates are shorter than 12 hours, and their rates of excretion have been found to coincide closely with the rate of naproxen disappearance from the plasma.
 Small amounts, 3% or less of the administered dose, are excreted in the feces.
-In patients with renal failure metabolites may accumulate (see WARNINGS: Renal Effects).
+In patients with renal failure metabolites may accumulate (see WARNINGS: Renal Toxicity and Hyperkalemia).
 
 Special Populations
 
@@ -54,45 +56,55 @@ Race
 
 Pharmacokinetic differences due to race have not been studied.
 
-Hepatic Insufficiency
+Hepatic Impairment
 
 Naproxen pharmacokinetics has not been determined in subjects with hepatic insufficiency.
 
-Renal Insufficiency
+Chronic alcoholic liver disease and probably other diseases with decreased or abnormal plasma proteins (albumin) reduce the total plasma concentration of naproxen, but the plasma concentration of unbound naproxen is increased.
+Caution is advised when high doses are required and some adjustment of dosage may be required in these patients.
+It is prudent to use the lowest effective dose.
+
+Renal Impairment
 
 Naproxen pharmacokinetics has not been determined in subjects with renal insufficiency.
 Given that naproxen, its metabolites and conjugates are primarily excreted by the kidney, the potential exists for naproxen metabolites to accumulate in the presence of renal insufficiency.
 Elimination of naproxen is decreased in patients with severe renal impairment.
-Naproxen-containing products are not recommended for use in patients with moderate to severe and severe renal impairment (creatinine clearance < 30 mL/min) (see WARNINGS: Renal Effects).
+Naproxen-containing products are not recommended for use in patients with moderate to severe and severe renal impairment (creatinine clearance < 30 mL/min) (see WARNINGS: Renal Toxicity and Hyperkalemia).
+
+Drug Interaction Studies
+
+Aspirin: When NSAIDs were administered with aspirin, the protein binding of NSAIDs were reduced, although the clearance of free NSAID was not altered.
+The clinical significance of this interaction is not known.
+See Table 1 for clinically significant drug interactions of NSAIDs with aspirin (see PRECAUTIONS; Drug Interactions).
 
 CLINICAL STUDIES
 
 General Information
 
-Naproxen has been studied in patients with rheumatoid arthritis, osteoarthritis, juvenilearthritis, ankylosing spondylitis, tendonitis and bursitis, and acutegout.
+Naproxen has been studied in patients with rheumatoid arthritis, osteoarthritis, juvenile arthritis, ankylosing spondylitis, tendonitis and bursitis, and acute gout.
 Improvement in patients treated for rheumatoid arthritis was demonstrated by a reduction in joint swelling, a reduction in duration of morning stiffness, a reduction in disease activity as assessed by both the investigator and patient, and by increased mobility as demonstrated by a reduction in walking time.
 Generally, response to naproxen has not been found to be dependent on age, sex, severity or duration of rheumatoid arthritis.
 
 In patients with osteoarthritis, the therapeutic action of naproxen has been shown by a reduction in joint pain or tenderness, an increase in range of motion in knee joints, increased mobility as demonstrated by a reduction in walking time, and improvement in capacity to perform activities of daily living impaired by the disease.
 
-In a clinical trial comparing standard formulations of naproxen 375 mg bid (750 mg a day) vs 750 mg bid (1500 mg/day), 9 patients in the 750 mg group terminated prematurely because of adverse events.
+In a clinical trial comparing standard formulations of naproxen 375 mg twice a day (750 mg a day) vs 750 mg twice a day (1500 mg/day), 9 patients in the 750 mg group terminated prematurely because of adverse events.
 Nineteen patients in the 1500 mg group terminated prematurely because of adverse events.
 Most of these adverse events were gastrointestinal events.
 
-In clinical studies in patients with rheumatoid arthritis, osteoarthritis, and juvenile arthritis, naproxen has been shown to be comparable to aspirinand indomethacin in controlling the aforementioned measures of disease activity, but the frequency and severity of the milder gastrointestinal adverse effects (nausea, dyspepsia, heartburn) and nervous system adverse effects (tinnitus, dizziness, lightheadedness) were less in naproxen-treated patients than in those treated with aspirin or indomethacin.
+In clinical studies in patients with rheumatoid arthritis, osteoarthritis, and juvenile arthritis, naproxen has been shown to be comparable to aspirin and indomethacin in controlling the aforementioned measures of disease activity, but the frequency and severity of the milder gastrointestinal adverse effects (nausea, dyspepsia, heartburn) and nervous system adverse effects (tinnitus, dizziness, lightheadedness) were less in naproxen-treated patients than in those treated with aspirin or indomethacin.
 
-In patients with ankylosingspondylitis, naproxen has been shown to decrease night pain, morning stiffness and pain at rest.
+In patients with ankylosing spondylitis, naproxen has been shown to decrease night pain, morning stiffness and pain at rest.
 In double-blind studies the drug was shown to be as effective as aspirin, but with fewer side effects.
 
 In patients with acute gout, a favorable response to naproxen was shown by significant clearing of inflammatory changes (e.g., decrease in swelling, heat) within 24 to 48 hours, as well as by relief of pain and tenderness.
 
-Naproxen has been studied in patients with mild to moderate pain secondary to postoperative, orthopedic, postpartumepisiotomyand uterine contractionpain and dysmenorrhea.
+Naproxen has been studied in patients with mild to moderate pain secondary to postoperative, orthopedic, postpartum episiotomy and uterine contraction pain and dysmenorrhea.
 Onset of pain relief can begin within 1 hour in patients taking naproxen and within 30 minutes in patients taking naproxen sodium.
 Analgesic effect was shown by such measures as reduction of pain intensity scores, increase in pain relief scores, decrease in numbers of patients requiring additional analgesic medication, and delay in time to remedication.
 The analgesic effect has been found to last for up to 12 hours.
 
 Naproxen may be used safely in combination with gold salts and/or corticosteroids; however, in controlled clinical trials, when added to the regimen of patients receiving corticosteroids, it did not appear to cause greater improvement over that seen with corticosteroids alone.
-Whether naproxen has a "steroid-sparing" effect has not been adequately studied.
+Whether naproxen has a “steroid-sparing” effect has not been adequately studied.
 When added to the regimen of patients receiving gold salts, naproxen did result in greater improvement.
 Its use in combination with salicylates is not recommended because there is evidence that aspirin increases the rate of excretion of naproxen and data are inadequate to demonstrate that naproxen and aspirin produce greater improvement over that achieved with aspirin alone.
 In addition, as with other NSAIDs, the combination may result in higher frequency of adverse events than demonstrated for either product alone.

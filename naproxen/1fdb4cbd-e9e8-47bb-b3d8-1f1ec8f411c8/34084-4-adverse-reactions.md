@@ -1,12 +1,24 @@
 # ADVERSE REACTIONS
 
-Adverse reactions reported in controlled clinical trials in 960 patients treated for rheumatoid arthritisor osteoarthritisare listed below.
+The following adverse reactions are discussed in greater detail in other sections of the labeling:
+
+- Cardiovascular Thrombotic Events (see WARNINGS)
+- GI Bleeding, Ulceration and Perforation (see WARNINGS)
+- Hepatotoxicity (see WARNINGS)
+- Hypertension (see WARNINGS)
+- Heart Failure and Edema (see WARNINGS)
+- Renal Toxicity and Hyperkalemia (see WARNINGS)
+- Anaphylactic Reactions (see WARNINGS)
+- Serious Skin Reactions (see WARNINGS)
+- Hematologic Toxicity (see WARNINGS)
+
+Adverse reactions reported in controlled clinical trials in 960 patients treated for rheumatoid arthritisor osteoarthritis are listed below.
 In general, reactions in patients treated chronically were reported 2 to 10 times more frequently than they were in short-term studies in the 962 patients treated for mild to moderate pain or for dysmenorrhea.
 The most frequent complaints reported related to the gastrointestinal tract.
 
 A clinical study found gastrointestinal reactions to be more frequent and more severe in rheumatoid arthritis patients taking daily doses of 1500 mg naproxen compared to those taking 750 mg naproxen (see CLINICAL PHARMACOLOGY).
 
-In controlled clinical trials with about 80 pediatric patients and in well-monitored, open-label studies with about 400 pediatric patients with juvenile arthritis treated with naproxen, the incidence of rash and prolonged bleeding times were increased, the incidence of gastrointestinal and central nervous systemreactions were about the same, and the incidence of other reactions were lower in pediatric patients than in adults.
+In controlled clinical trials with about 80 pediatric patients and in well-monitored, open-label studies with about 400 pediatric patients with juvenile arthritis treated with naproxen, the incidence of rash and prolonged bleeding times were increased, the incidence of gastrointestinal and central nervous system reactions were about the same, and the incidence of other reactions were lower in pediatric patients than in adults.
 
 In patients taking naproxen in clinical trials, the most frequently reported adverse experiences in approximately 1% to 10% of patients are:
 
@@ -29,7 +41,7 @@ In patients taking NSAIDs, the following adverse experiences have also been repo
 
 Gastrointestinal (GI) Experiences, including:flatulence, gross bleeding/perforation, GI ulcers (gastric/duodenal), vomiting
 
-General:abnormalrenal function, anemia, elevated liver enzymes, increased bleeding time, rashes
+General: abnormal renal function, anemia, elevated liver enzymes, increased bleeding time, rashes
 
 The following are additional adverse experiences reported in < 1% of patients taking naproxen during clinical trials and through postmarketing reports.
 Those adverse reactions observed through postmarketing reports are italicized.
@@ -38,16 +50,16 @@ Body as a Whole:anaphylactoid reactions, angioneurotic edema, menstrual disorder
 
 Cardiovascular:congestive heart failure, vasculitis, hypertension, pulmonary edema
 
-Gastrointestinal: inflammation,bleeding(sometimesfatal,particularlyinthe elderly), ulceration, perforation and obstruction of the upper or lower gastrointestinal tract.
+Gastrointestinal: inflammation, bleeding(sometimes fatal, particularly in the elderly), ulceration, perforation and obstruction of the upper or lower gastrointestinal tract.
 Esophagitis, stomatitis, hematemesis,pancreatitis, vomiting,colitis, exacerbation of inflammatory bowel disease (ulcerative colitis, Crohn’s disease).
 
 Hepatobiliary: jaundice, abnormal liver function tests, hepatitis (some cases have been fatal)
 
-Hemic and Lymphatic:eosinophilia, leucopenia,melena, thrombocytopenia, agranulocytosis, granulocytopenia, hemolytic anemia, aplastic anemia
+Hemic and Lymphatic: eosinophilia, leucopenia, melena, thrombocytopenia, agranulocytosis, granulocytopenia, hemolytic anemia, aplastic anemia
 
 Metabolic and Nutritional:hyperglycemia, hypoglycemia
 
-Nervous System: inability to concentrate, depression, dream abnormalities, insomnia, malaise, myalgia, muscle weakness, asepticmeningitis, cognitive dysfunction, convulsions
+Nervous System: inability to concentrate, depression, dream abnormalities, insomnia, malaise, myalgia, muscle weakness, aseptic meningitis, cognitive dysfunction, convulsions
 
 Respiratory: eosinophilic pneumonitis, asthma
 
@@ -56,7 +68,7 @@ If skin fragility, blistering or other symptoms suggestive of pseudoporphyria oc
 
 Special Senses: hearing impairment, corneal opacity, papillitis, retrobulbar optic neuritis, papilledema
 
-Urogenital:glomerularnephritis, hematuria, hyperkalemia, interstitial nephritis, nephrotic syndrome, renal disease, renal failure, renal papillary necrosis, raised serum creatinine
+Urogenital:glomerular nephritis, hematuria, hyperkalemia, interstitial nephritis, nephrotic syndrome, renal disease, renal failure, renal papillary necrosis, raised serum creatinine
 
 Reproduction (female):infertility
 
@@ -80,6 +92,6 @@ Respiratory:asthma, respiratory depression, pneumonia
 
 Dermatologic:exfoliative dermatitis
 
-Special Senses:blurred vision, conjunctivitis Urogenital: cystitis, dysuria, oliguria/polyuria, proteinuria
+Special Senses:blurred vision, conjunctivitis
 
 Urogenital:cystitis, dysuria, oliguria/polyuria, proteinuria

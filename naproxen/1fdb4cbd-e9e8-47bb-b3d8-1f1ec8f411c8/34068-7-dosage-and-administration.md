@@ -1,7 +1,7 @@
 # DOSAGE AND ADMINISTRATION
 
 Carefully consider the potential benefits and risks of naproxen and other treatment options before deciding to use naproxen tablets.
-Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals (see WARNINGS).
+Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals (see WARNINGS; Gastrointestinal Bleeding, Ulceration, and Perforation).
 
 After observing the response to initial therapy with naproxen tablets, the dose and frequency should be adjusted to suit an individual patient's needs.
 
@@ -11,7 +11,7 @@ This difference should be taken into consideration when changing formulation.
 Although naproxen tablets, naproxen suspension, naproxen delayed-released tablets, and naproxen sodium tablets all circulate in the plasma as naproxen, they have pharmacokinetic differences that may affect onset of action.
 Onset of pain relief can begin within 1 hour in patients taking naproxen.
 The recommended strategy for initiating therapy is to choose a formulation and a starting dose likely to be effective for the patient and then adjust the dosage based on observation of benefit and/or adverse events.
-A lower dose should be considered in patients with renal or hepatic impairment or in elderly patients (see WARNINGS and PRECAUTIONS).
+A lower dose should be considered in patients with renal or hepatic impairment or in elderly patients (see WARNINGS; Hepatotoxicity, and Renal Toxicity and Hyperkalemia, and PRECAUTIONS; Geriatric use).
 
 Geriatric Patients
 
@@ -36,6 +36,12 @@ The morning and evening doses do not have to be equal in size and administration
 
 Juvenile Arthritis
 
+Naproxen Tablets may not allow for the flexible dose titration needed in pediatric patients with juvenile arthritis.
+A liquid formulation may be more appropriate.
+In pediatric patients, doses of 5 mg/kg/day produced plasma levels of naproxen similar to those seen in adults taking 500 mg of naproxen (see Clinical Pharmacology).
+The recommended total daily dose of naproxen is approximately 10 mg/kg given in 2 divided doses.
+One-half of the 250 mg tablet will be needed for dosing lower-weight children.
+Dosing with Naproxen Tablets is not appropriate for children weighing less than 25 kilograms.
 The recommended total daily dose of naproxen is approximately 10 mg/kg given in 2 divided doses (i.e., 5 mg/kg given twice a day).
 Naproxen tablets are not well suited to this dosage so use of naproxen oral suspension is recommended for this indication.
 
@@ -45,7 +51,6 @@ Because the sodium salt of naproxen is more rapidly absorbed, naproxen sodium is
 Naproxen may also be used.
 The recommended starting dose of naproxen is 500 mg, followed by 500 mg every 12 hours or 250 mg every 6 to 8 hours as required.
 The initial total daily dose should not exceed 1250 mg of naproxen.
-Thereafter, the total daily dose should not exceed 1000 mg of naproxen.
 
 Acute Gout
 
