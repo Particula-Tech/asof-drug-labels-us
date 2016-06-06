@@ -85,5 +85,5 @@ How should BUPHENYL be stored?
 BUPHENYL should be stored in a tightly closed bottle at room temperature.
 
 This leaflet provides a brief summary of the information available on BUPHENYL.
-The information here is incomplete and is not designed to take the place of your doctor’s instructions.
+The information here is incomplete and is not designed to take the place of your doctor's instructions.
 For more complete information, consult your physician, or contact Horizon Therapeutics, Inc. at 1-855-UCD-SUPT (1-855-823-7878).

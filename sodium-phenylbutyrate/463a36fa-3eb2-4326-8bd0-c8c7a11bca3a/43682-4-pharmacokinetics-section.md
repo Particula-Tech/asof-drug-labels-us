@@ -7,7 +7,7 @@ Pharmacokinetic studies have not been conducted in the primary patient populatio
 ## Absorption:
 
 Peak plasma levels of phenylbutyrate occur within 1 hour after a single dose of 5 grams of sodium phenylbutyrate tablet with a Cmax of 218 µg/mL under fasting conditions; peak plasma levels of phenylbutyrate occur within 1 hour after a single dose of 5 grams of sodium phenylbutyrate powder with a Cmax of 195 µg/mL under fasting conditions.
-The effect of food on phenylbutyrate’s absorption is unknown.
+The effect of food on phenylbutyrate's absorption is unknown.
 
 ## Disposition:
 
@@ -17,7 +17,7 @@ Following oral administration of 5 grams (tablets), measurable plasma levels of 
 The pharmacokinetic parameters for phenylbutyrate for Cmax (µg/mL), Tmax (hours), and elimination half-life (hours) were 218, 1.35, and 0.77, respectively, and for phenylacetate were 48.5, 3.74, and 1.15, respectively.
 Following oral administration of 5 grams of the powder, measurable plasma levels of phenylbutyrate and phenylacetate were detected 15 and 30 minutes after dosing, respectively, and phenylacetylglutamine was detected shortly thereafter.
 The pharmacokinetic parameters for phenylbutyrate for Cmax (µg/mL), Tmax (hours), and elimination half-life (hours) were 195, 1.00, and 0.76, respectively, and for phenylacetate were 45.3, 3.55, and 1.29, respectively.
-The major sites for metabolism of sodium are the liver and kidney.
+The major sites for metabolism of sodium phenylbutyrate are the liver and kidney.
 
 ## Excretion:
 
