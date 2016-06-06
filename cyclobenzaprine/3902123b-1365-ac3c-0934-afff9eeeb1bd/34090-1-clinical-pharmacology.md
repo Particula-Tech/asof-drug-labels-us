@@ -23,6 +23,8 @@ There was a 35% increase in peak plasma cyclobenzaprine concentration (Cmax) and
 No effect, however, was noted in Tmax or the shape of the mean plasma cyclobenzaprine concentration versus time profile.
 Cyclobenzaprine in plasma was first detectable in both the fed and fasted states at 1.5 hours.
 
+When the contents of AMRIX capsules were administered by sprinkling on applesauce, it was found to be bioequivalent to the same dose when administered as an intact capsule.
+
 In a multiple-dose study utilizing AMRIX 30 mg administered once daily for 7 days in a group of healthy adult subjects (n=35), a 2.5-fold accumulation of plasma cyclobenzaprine levels was noted at steady-state.
 
 Metabolism and Excretion
