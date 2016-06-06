@@ -85,6 +85,9 @@ CAVERJECT IMPULSE may cause serious side effects, including:
 - needle breakage.
   There is a possibility of needle breakage with use of CAVERJECT IMPULSE.
   To best avoid breaking the needle, you should pay careful attention to your healthcare provider's instructions and try to handle the syringe and needle properly.
+  If the needle is bent at any time, do not attempt to straighten it and do not use it.
+  A bent and re-straightened needle is predisposed to breakage.
+  Remove the needle from the syringe, discard, and attach a new, unused sterile needle to the syringe.
   If the needle breaks during injection and you are able to see and grasp the broken end, you should remove it and contact your healthcare provider.
   If you cannot see or cannot grasp the broken end, you should promptly contact your healthcare provider
 - benzyl alcohol toxicity.

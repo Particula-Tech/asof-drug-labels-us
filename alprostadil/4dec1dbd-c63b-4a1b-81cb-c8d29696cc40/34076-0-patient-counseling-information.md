@@ -23,6 +23,9 @@ When self-administering the patient should be instructed to:
 - Alternate the side of the penis that is injected and the site of injection
 - Compress the site of injection with an alcohol swab or sterile gauze for 5 minutes
 - Use each CAVERJECT IMPULSE system only once and discard after use
+- Do not use a bent needle.
+  If the needle is bent, it must not be used; they should also not attempt to straighten a bent needle.
+  They should remove the needle from the syringe, discard it, and attach a new, unused sterile needle to the syringe.
 - Not re-use or share needles and to properly discard after use
 
 Penile Pain

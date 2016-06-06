@@ -41,15 +41,16 @@ The risks of prolonged erection, priapism, and hypotension may be increased.
 
 ## 5.7 Needle Breakage
 
-CAVERJECT IMPULSE uses a superfine (29 gauge) needle.
+CAVERJECT IMPULSE uses a superfine (29 gauge) needle for administration.
 As with all superfine needles, the possibility of needle breakage exists and cases of needle breakage have been reported.
+Needle breakage, with a portion of the needle remaining in the penis, has been reported and, in some cases, required hospitalization and surgical removal.
 Careful instruction in proper patient handling and injection techniques may minimize the potential for needle breakage.
 
 ## 5.8 Benzyl Alcohol
 
 The preservative benzyl alcohol contained in CAVERJECT IMPULSE has been associated with serious adverse events, including the "gasping syndrome", and death in pediatric patients.
 The minimum amount of benzyl alcohol at which toxicity may occur is not known.
-The risk of benzyl alcohol toxicity depends on the quantity administered and the hepatic capacity to detoxify the chemical.
+The risk of benzyl alcohol toxicity depends on the quantity administered and the liver and kidneys' capacity to detoxify the chemical.
 Premature and low-birth weight infants may be more likely to develop toxicity.
 CAVERJECT IMPULSE is not indicated for pediatric patients.
 
