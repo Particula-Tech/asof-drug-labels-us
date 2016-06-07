@@ -3,7 +3,7 @@
 ## 5.1 Myelosuppression, Immunosuppression, Bone Marrow Failure and Infections
 
 Cyclophosphamide can cause myelosuppression (leukopenia, neutropenia, thrombocytopenia and anemia), bone marrow failure, and severe immunosuppression which may lead to serious and sometimes fatal infections, including sepsis and septic shock.
-Latent infections can be reactivated [see 6 ADVERSE REACTIONS(6.2)].
+Latent infections can be reactivated [see ADVERSE REACTIONS (6.2)].
 
 Antimicrobial prophylaxis may be indicated in certain cases of neutropenia at the discretion of the managing physician.
 In case of neutropenic fever, antibiotic therapy is indicated.
@@ -29,7 +29,7 @@ Urotoxicity (bladder ulceration, necrosis, fibrosis, contracture and secondary c
 Urotoxicity can be fatal.
 Urotoxicity can occur with short-term or long-term use of cyclophosphamide.
 
-Before starting treatment, exclude or correct any urinary tract obstructions [see 4 CONTRAINDICATIONS (4)].
+Before starting treatment, exclude or correct any urinary tract obstructions [see CONTRAINDICATIONS (4)].
 Urinary sediment should be checked regularly for the presence of erythrocytes and other signs of urotoxicity and/or nephrotoxicity.
 Cyclophosphamide should be used with caution, if at all, in patients with active urinary tract infections.
 Aggressive hydration with forced diuresis and frequent bladder emptying can reduce the frequency and severity of bladder toxicity.
@@ -57,7 +57,7 @@ Monitor patients for signs and symptoms of pulmonary toxicity.
 
 ## 5.5 Secondary Malignancies
 
-Cyclophosphamide is genotoxic [see 13 NONCLINICAL TOXICOLOGY(13.1)].
+Cyclophosphamide is genotoxic [see NONCLINICAL TOXICOLOGY (13.1)].
 Secondary malignancies (urinary tract cancer, myelodysplasia, acute leukemias, lymphomas, thyroid cancer, and sarcomas) have been reported in patients treated with cyclophosphamide-containing regimens.
 The risk of bladder cancer may be reduced by prevention of hemorrhagic cystitis.
 
@@ -70,11 +70,11 @@ Other risk factors predisposing to the development of VOD include preexisting di
 
 ## 5.7 Embryo-Fetal Toxicity
 
-Cyclophosphamide can cause fetal harm when administered to a pregnant woman [see 8 USE IN SPECIFIC POPULATIONS(8.1)].
+Cyclophosphamide can cause fetal harm when administered to a pregnant woman [see USE IN SPECIFIC POPULATIONS (8.1)].
 Exposure to cyclophosphamide during pregnancy may cause birth defects, miscarriage, fetal growth retardation, and fetotoxic effects in the newborn.
 Cyclophosphamide is teratogenic and embryo-fetal toxic in mice, rats, rabbits and monkeys.
 
-Advise female patients of reproductive potential to avoid becoming pregnant and to use highly effective contraception during treatment and for up to 1 year after completion of therapy [see 8 USE IN SPECIFIC POPULATIONS(8.6)].
+Advise female patients of reproductive potential to avoid becoming pregnant and to use highly effective contraception during treatment and for up to 1 year after completion of therapy [see USE IN SPECIFIC POPULATIONS (8.6)].
 
 ## 5.8 Infertility
 
@@ -83,7 +83,7 @@ Cyclophosphamide interferes with oogenesis and spermatogenesis.
 It may cause sterility in both sexes.
 Development of sterility appears to depend on the dose of cyclophosphamide, duration of therapy, and the state of gonadal function at the time of treatment.
 Cyclophosphamide-induced sterility may be irreversible in some patients.
-Advise patients on the potential risks for infertility [see 8 USE IN SPECIFIC POPULATIONS(8.4 and 8.6)].
+Advise patients on the potential risks for infertility [see USE IN SPECIFIC POPULATIONS (8.4 and 8.6)].
 
 ## 5.9 Impairment of Wound Healing
 

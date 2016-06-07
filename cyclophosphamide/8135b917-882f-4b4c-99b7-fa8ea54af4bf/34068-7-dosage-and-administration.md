@@ -13,12 +13,12 @@ Many other regimens of intravenous and oral cyclophosphamide have been reported.
 Dosages must be adjusted in accord with evidence of antitumor activity and/or leukopenia.
 The total leukocyte count is a good, objective guide for regulating dosage.
 
-When cyclophosphamide is included in combined cytotoxic regimens, it may be necessary to reduce the dose of cyclophosphamide as well as that of the other drugs.
+When cyclophosphamide is included in combined cytotoxic regimens, it may be necessary to reduce the dose of cyclophosphamide, as well as that of the other drugs.
 
 ## 2.2 Dosing for Minimal Change Nephrotic Syndrome in Pediatric Patients
 
 An oral dose of 2 mg per kg daily for 8 to 12 weeks (maximum cumulative dose 168 mg per kg) is recommended.
-Treatment beyond 90 days increases the probability of sterility in males [see 8 USE IN SPECIFIC POPULATIONS(8.4)].
+Treatment beyond 90 days increases the probability of sterility in males [see USE IN SPECIFIC POPULATIONS (8.4)].
 
 ## 2.3 Handling and Administration
 

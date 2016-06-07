@@ -2,7 +2,7 @@
 
 ## 1.1 Malignant Diseases
 
-Cyclophosphamide Capsules are indicated for the treatment of:
+Cyclophosphamide is indicated for the treatment of:
 
 - •malignant lymphomas (Stages III and IV of the Ann Arbor staging system), Hodgkin’s disease, lymphocytic lymphoma (nodular or diffuse), mixed-cell type lymphoma, histiocytic lymphoma, Burkitt’s lymphoma
 - •multiple myeloma
@@ -15,4 +15,8 @@ Cyclophosphamide Capsules are indicated for the treatment of:
 
 Cyclophosphamide, although effective alone in susceptible malignancies, is more frequently used concurrently or sequentially with other antineoplastic drugs.
 
-## 1.2 Minimal Change Nephrotic Syndrome in Pediatric Patients Cyclophosphamide is indicated for the treatment of biopsy proven minimal change nephrotic syndrome in pediatric patients who failed to adequately respond to or are unable to tolerate adrenocorticosteroid therapy. Limitations of Use: The safety and effectiveness for the treatment of nephrotic syndrome in adults or other renal disease has not been established.
+## 1.2 Minimal Change Nephrotic Syndrome in Pediatric Patients
+
+Cyclophosphamide is indicated for the treatment of biopsy proven minimal change nephrotic syndrome in pediatric patients who failed to adequately respond to or are unable to tolerate adrenocorticosteroid therapy.
+
+Limitations of Use: The safety and effectiveness for the treatment of nephrotic syndrome in adults or other renal disease has not been established.

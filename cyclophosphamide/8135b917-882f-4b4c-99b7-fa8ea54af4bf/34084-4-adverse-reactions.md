@@ -2,6 +2,18 @@
 
 - The following adverse reactions are discussed in more detail in other sections of the labeling.
 
+- •Hypersensitivity [see Contraindications (4)]
+- •Myelosuppression, Immunosuppression, Bone Marrow Failure, and Infections [see Warnings and Precautions (5.1)]
+- •Urinary Tract and Renal Toxicity [see Warnings and Precautions (5.2)]
+- •Cardiotoxicity [see Warnings and Precautions (5.3)]
+- •Pulmonary Toxicity [see Warnings and Precautions (5.4)]
+- •Secondary Malignancies [see Warnings and Precautions (5.5)]
+- •Veno-occlusive Liver Disease [see Warnings and Precautions (5.6)]
+- •Embryo-Fetal Toxicity [see Warnings and Precautions (5.7)]
+- •Reproductive System Toxicity [see Warnings and Precautions (5.8) and Use in Specific Populations (8.4 and 8.6)]
+- •Impaired Wound Healing [see Warnings and Precautions (5.9)]
+- •Hyponatremia [see Warnings and Precautions (5.10)]
+
 ## 6.1 Common Adverse Reactions
 
 ### Hematopoietic system
