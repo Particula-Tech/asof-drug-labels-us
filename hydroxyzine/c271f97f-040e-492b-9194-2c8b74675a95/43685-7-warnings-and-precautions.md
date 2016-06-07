@@ -12,6 +12,15 @@ Therefore, when central nervous system depressants are administered concomitantl
 Since drowsiness may occur with use of the drug, patients should be warned of this possibility and cautioned against driving a car or operating dangerous machinery while taking Vistaril (hydroxyzine pamoate).
 Patients should be advised against the simultaneous use of other CNS depressant drugs, and cautioned that the effect of alcohol may be increased.
 
+## QT Prolongation/Torsade de Pointes (TdP)
+
+Cases of QT prolongation and Torsade de Pointes have been reported during post-marketing use of hydroxyzine.
+The majority of reports occurred in patients with other risk factors for QT prolongation/TdP (pre-existing heart disease, electrolyte imbalances or concomitant arrhythmogenic drug use).
+Therefore, hydroxyzine should be used with caution in patients with risk factors for QT prolongation, congenital long QT syndrome, a family history of long QT syndrome, other conditions that predispose to QT prolongation and ventricular arrhythmia, as well as recent myocardial infarction, uncompensated heart failure, and bradyarrhythmias.
+
+Caution is recommended during the concomitant use of drugs known to prolong the QT interval.
+These include Class 1A (e.g., quinidine, procainamide) or Class III (e.g., amiodarone, sotalol) antiarrhythmics, certain antipsychotics (e.g., ziprasidone, iloperidone, clozapine, quetiapine, chlorpromazine), certain antidepressants (e.g., citalopram, fluoxetine), certain antibiotics (e.g., azithromycin, erythromycin, clarithromycin, gatifloxacin, moxifloxacin); and others (e.g., pentamidine, methadone, ondansetron, droperidol).
+
 ## Geriatric Use
 
 A determination has not been made whether controlled clinical studies of VISTARIL included sufficient numbers of subjects aged 65 and over to define a difference in response from younger subjects.
