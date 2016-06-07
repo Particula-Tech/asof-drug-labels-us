@@ -15,8 +15,6 @@ Patients should be advised:
 
 Product of Israel
 
-Manufactured into capsules by: Galephar Pharmaceutical Research Inc. Humacao, PR 00792
-
 Manufactured for: Kowa Pharmaceuticals America, Inc. Montgomery, AL 36117
 
 Kowa Kowa Pharmaceuticals America, Inc.
