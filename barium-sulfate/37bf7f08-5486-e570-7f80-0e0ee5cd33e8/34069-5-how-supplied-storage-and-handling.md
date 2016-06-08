@@ -11,4 +11,4 @@ No. D121, NDC 32909-121-07.
 Manufactured by E-Z-EM Canada Inc. for E-Z-EM, Inc. a subsidiary of Bracco Diagnostics Inc. Monroe Township, NJ 08831 Tel: 1-516-333-8230 1-800 544-4624
 
 rev.
-03/14 TX1717
+06/15 TX1754

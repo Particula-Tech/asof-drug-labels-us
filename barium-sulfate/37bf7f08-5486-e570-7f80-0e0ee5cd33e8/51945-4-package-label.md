@@ -1,4 +1,3 @@
-Varibar® Thin Honey - Barium Sulfate Suspension CAT.
-NO.: D121 NDC: 32909-121-07
+Varibar Thin Honey Carton
 
-Varibar® Thin Honey - Box
+Varibar Thin Honey Unit Label
