@@ -1,45 +1,37 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Aspirin
+See Table 2 for clinically significant drug interactions with diclofenac.
 
-When diclofenac is administered with aspirin, the binding of diclofenac to protein is reduced, although the clearance of free diclofenac is not altered.
-The clinical significance of this interaction is not known; however, as with other NSAIDs, concomitant administration of diclofenac and aspirin is not generally recommended because of the potential of increased adverse effects.
+Table 2: Clinically Significant Drug Interactions with Diclofenac
 
-## 7.2 Anticoagulants
-
-The effects of anticoagulants such as warfarin and NSAIDs on GI bleeding are synergistic, such that users of both drugs together have a risk of serious GI bleeding higher than users of either drug alone.
-
-## 7.3 ACE-inhibitors
-
-NSAIDs may diminish the antihypertensive effect of angiotensin converting enzyme (ACE) inhibitors.
-Consider this interaction in patients taking NSAIDs concomitantly with ACE-inhibitors.
-
-## 7.4 Diuretics
-
-Clinical studies, as well as post marketing observations, have shown that NSAIDs can reduce the natriuretic effect of furosemide and thiazides in some patients.
-This response has been attributed to inhibition of renal prostaglandin synthesis.
-During concomitant therapy with NSAIDs, observe the patient closely for signs of renal failure [see Warnings and Precautions (5.6)], as well as to assure diuretic efficacy.
-
-## 7.5 Lithium
-
-NSAIDs have produced an elevation of plasma lithium levels and a reduction in renal lithium clearance.
-The mean minimum lithium concentration increased 15% and the renal clearance was decreased by approximately 20%.
-These effects have been attributed to inhibition of renal prostaglandin synthesis by the NSAID.
-Thus, when NSAIDs and lithium are administered concurrently, observe patients carefully for signs of lithium toxicity.
-
-## 7.6 Methotrexate
-
-NSAIDs have been reported to competitively inhibit methotrexate accumulation in rabbit kidney slices.
-This may indicate that they could enhance the toxicity of methotrexate.
-Use caution when NSAIDs, including diclofenac, are administered concomitantly with methotrexate.
-
-## 7.7 Cyclosporine
-
-Diclofenac, like other NSAIDs, may affect renal prostaglandins and increase the toxicity of certain drugs.
-Therefore, concomitant therapy with diclofenac may increase cyclosporine's nephrotoxicity.
-Use caution when diclofenac is administered concomitantly with cyclosporine.
-
-## 7.8 Oral Nonsteroidal Anti-inflammatory Drugs
-
-Concomitant use of oral and topical NSAIDs may result in a higher rate of hemorrhage, more frequent abnormal creatinine, urea and hemoglobin.
-Do not use combination therapy with Flector Patch and an oral NSAID unless the benefit outweighs the risk and conduct periodic laboratory evaluations.
+| Drugs That Interfere with Hemostasis |  |
+| --- | --- |
+| Clinical Impact: | Diclofenac and anticoagulants such as warfarin have a synergistic effect on bleeding. The concomitant use of diclofenac and anticoagulants have an increased risk of serious bleeding compared to the use of either drug alone.Serotonin release by platelets plays an important role in hemostasis. Case-control and cohort epidemiological studies showed that concomitant use of drugs that interfere with serotonin reuptake and an NSAID may potentiate the risk of bleeding more than an NSAID alone. |
+| Intervention: | Monitor patients with concomitant use of FLECTOR PATCH with anticoagulants (e.g., warfarin), antiplatelet agents (e.g., aspirin), selective serotonin reuptake inhibitors (SSRIs), and serotonin norepinephrine reuptake inhibitors (SNRIs) for signs of bleeding [see Warnings and Precautions (5.11)]. |
+| Aspirin |  |
+| Clinical Impact: | Controlled clinical studies showed that the concomitant use of NSAIDs and analgesic doses of aspirin does not produce any greater therapeutic effect than the use of NSAIDs alone. In a clinical study, the concomitant use of an NSAID and aspirin was associated with a significantly increased incidence of GI adverse reactions as compared to use of the NSAID alone [see Warnings and Precautions (5.2)]. |
+| Intervention: | Concomitant use of FLECTOR PATCH and analgesic doses of aspirin is not generally recommended because of the increased risk of bleeding [see Warnings and Precautions (5.11)]. FLECTOR PATCH is not a substitute for low dose aspirin for cardiovascular protection. |
+| ACE Inhibitors, Angiotensin Receptor Blockers, and Beta-Blockers |  |
+| Clinical Impact: | NSAIDs may diminish the antihypertensive effect of angiotensin converting enzyme (ACE) inhibitors, angiotensin receptor blockers (ARBs), or beta-blockers (including propranolol).In patients who are elderly, volume-depleted (including those on diuretic therapy), or have renal impairment, co-administration of an NSAID with ACE inhibitors or ARBs may result in deterioration of renal function, including possible acute renal failure. These effects are usually reversible. |
+| Intervention: | During concomitant use of FLECTOR PATCH and ACE-inhibitors, ARBs, or beta-blockers, monitor blood pressure to ensure that the desired blood pressure is obtained.During concomitant use of FLECTOR PATCH and ACE-inhibitors or ARBs in patients who are elderly, volume-depleted, or have impaired renal function, monitor for signs of worsening renal function [see Warnings and Precautions (5.6)].When these drugs are administered concomitantly, patients should be adequately hydrated. Assess renal function at the beginning of the concomitant treatment and periodically thereafter. |
+| Diuretics |  |
+| Clinical Impact: | Clinical studies, as well as post-marketing observations, showed that NSAIDs reduced the natriuretic effect of loop diuretics (e.g., furosemide) and thiazide diuretics in some patients. This effect has been attributed to the NSAID inhibition of renal prostaglandin synthesis. |
+| Intervention: | During concomitant use of FLECTOR PATCH with diuretics, observe patients for signs of worsening renal function, in addition to assuring diuretic efficacy including antihypertensive effects [see Warnings and Precautions (5.6)]. |
+| Digoxin |  |
+| Clinical Impact: | The concomitant use of diclofenac with digoxin has been reported to increase the serum concentration and prolong the half-life of digoxin. |
+| Intervention: | During concomitant use of FLECTOR PATCH and digoxin, monitor serum digoxin levels. |
+| Lithium |  |
+| Clinical Impact: | NSAIDs have produced elevations in plasma lithium levels and reductions in renal lithium clearance. The mean minimum lithium concentration increased 15%, and the renal clearance decreased by approximately 20%. This effect has been attributed to NSAID inhibition of renal prostaglandin synthesis. |
+| Intervention: | During concomitant use of FLECTOR PATCH and lithium, monitor patients for signs of lithium toxicity. |
+| Methotrexate |  |
+| Clinical Impact: | Concomitant use of NSAIDs and methotrexate may increase the risk for methotrexate toxicity (e.g., neutropenia, thrombocytopenia, renal dysfunction). |
+| Intervention: | During concomitant use of FLECTOR PATCH and methotrexate, monitor patients for methotrexate toxicity. |
+| Cyclosporine |  |
+| Clinical Impact: | Concomitant use of FLECTOR PATCH and cyclosporine may increase cyclosporine's nephrotoxicity. |
+| Intervention: | During concomitant use of FLECTOR PATCH and cyclosporine, monitor patients for signs of worsening renal function. |
+| NSAIDs and Salicylates |  |
+| Clinical Impact: | Concomitant use of diclofenac with other NSAIDs or salicylates (e.g., diflunisal, salsalate) increases the risk of GI toxicity, with little or no increase in efficacy [see Warnings and Precautions (5.2)]. |
+| Intervention: | The concomitant use of diclofenac with other NSAIDs or salicylates is not recommended. |
+| Pemetrexed |  |
+| Clinical Impact: | Concomitant use of FLECTOR PATCH and pemetrexed may increase the risk of pemetrexed-associated myelosuppression, renal, and GI toxicity (see the pemetrexed prescribing information). |
+| Intervention: | During concomitant use of FLECTOR PATCH and pemetrexed, in patients with renal impairment whose creatinine clearance ranges from 45 to 79 mL/min, monitor for myelosuppression, renal and GI toxicity. NSAIDs with short elimination half-lives (e.g., diclofenac, indomethacin) should be avoided for a period of two days before, the day of, and two days following administration of pemetrexed. In the absence of data regarding potential interaction between pemetrexed and NSAIDs with longer half-lives (e.g., meloxicam, nabumetone), patients taking these NSAIDs should interrupt dosing for at least five days before, the day of, and two days following pemetrexed administration. |

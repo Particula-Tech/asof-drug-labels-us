@@ -2,33 +2,40 @@
 
 ## 12.1 Mechanism of Action
 
-Diclofenac is a nonsteroidal anti-inflammatory drug (NSAID).
-In pharmacologic studies, diclofenac has shown anti-inflammatory, analgesic, and antipyretic activity.
-As with other NSAIDs, its mode of action is not known; its ability to inhibit prostaglandin synthesis, however, may be involved in its anti-inflammatory activity, as well as contribute to its efficacy in relieving pain associated with inflammation.
+Diclofenac has analgesic, anti-inflammatory, and antipyretic properties.
+
+The mechanism of action of diclofenac, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2).
+
+Diclofenac is a potent inhibitor of prostaglandin synthesis in vitro.
+Diclofenac concentrations reached during therapy have produced in vivo effects.
+Prostaglandins sensitize afferent nerves and potentiate the action of bradykinin in inducing pain in animal models.
+Prostaglandins are mediators of inflammation.
+Because diclofenac is an inhibitor of prostaglandin synthesis, its mode of action may be due to a decrease of prostaglandins in peripheral tissues.
 
 ## 12.2 Pharmacodynamics
 
-Flector Patch applied to intact skin provides local analgesia by releasing diclofenac epolamine from the patch into the skin.
+FLECTOR PATCH applied to intact skin provides local analgesia by releasing diclofenac epolamine from the patch into the skin.
 
 ## 12.3 Pharmacokinetics
 
 Absorption
 
-Following a single application of the Flector Patch on the upper inner arm, peak plasma concentrations of diclofenac (range 0.7 – 6 ng/mL) were noted between 10 – 20 hours of application.
-Plasma concentrations of diclofenac in the range of 1.3 – 8.8 ng/mL were noted after five days with twice-a-day Flector Patch application.
+Following a single application of the FLECTOR PATCH on the upper inner arm, peak plasma concentrations of diclofenac (range 0.7 – 6 ng/mL) were noted between 10 – 20 hours of application.
+Plasma concentrations of diclofenac in the range of 1.3 – 8.8 ng/mL were noted after five days with twice-a-day FLECTOR PATCH application.
 
-Systemic exposure (AUC) and maximum plasma concentrations of diclofenac, after repeated dosing for four days with Flector Patch, were lower (<1%) than after a single oral 50-mg diclofenac sodium tablet.
+Systemic exposure (AUC) and maximum plasma concentrations of diclofenac, after repeated dosing for four days with FLECTOR PATCH, were lower (<1%) than after a single oral 50-mg diclofenac sodium tablet.
 
-The pharmacokinetics of Flector Patch has been tested in healthy volunteers at rest or undergoing moderate exercise (cycling 20 min/h for 12 h at a mean HR of 100.3 bpm).
+The pharmacokinetics of FLECTOR PATCH has been tested in healthy volunteers at rest or undergoing moderate exercise (cycling 20 min/h for 12 h at a mean HR of 100.3 bpm).
 No clinically relevant differences in systemic absorption were observed, with peak plasma concentrations in the range of 2.2 – 8.1 ng/mL while resting, and 2.7 – 7.2 ng/mL during exercise.
 
 Distribution
 
 Diclofenac has a very high affinity (>99%) for human serum albumin.
-
 Diclofenac diffuses into and out of the synovial fluid.
 Diffusion into the joint occurs when plasma levels are higher than those in the synovial fluid, after which the process reverses and synovial fluid levels are higher than plasma levels.
 It is not known whether diffusion into the joint plays a role in the effectiveness of diclofenac.
+
+Elimination
 
 Metabolism
 
@@ -42,7 +49,17 @@ CYP3A4 is responsible for the formation of minor metabolites, 5-hydroxy and 3'-h
 
 Excretion
 
-The plasma elimination half-life of diclofenac after application of Flector Patch is approximately 12 hours.
+The plasma elimination half-life of diclofenac after application of FLECTOR PATCH is approximately 12 hours.
 Diclofenac is eliminated through metabolism and subsequent urinary and biliary excretion of the glucuronide and the sulfate conjugates of the metabolites.
 Little or no free unchanged diclofenac is excreted in the urine.
 Approximately 65% of the dose is excreted in the urine and approximately 35% in the bile as conjugates of unchanged diclofenac plus metabolites.
+
+Specific Populations
+
+The pharmacokinetics of Flector Patch has not been investigated in children, patients with hepatic or renal impairment, or specific racial groups.
+
+Drug Interaction Studies
+
+Aspirin: When NSAIDs were administered with aspirin, the protein binding of NSAIDs were reduced, although the clearance of free NSAID was not altered.
+The clinical significance of this interaction is not known.
+See Table 1 for clinically significant drug interactions of NSAIDs with aspirin [see Drug Interactions (7)].

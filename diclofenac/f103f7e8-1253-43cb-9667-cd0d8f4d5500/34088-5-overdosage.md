@@ -1,9 +1,11 @@
 # 10 OVERDOSAGE
 
-There is limited experience with overdose of Flector Patch.
-In clinical studies, the maximum single dose administered was one Flector Patch containing 180 mg of diclofenac epolamine.
-There were no serious adverse events.
+Symptoms following acute NSAID overdosages have been typically limited to lethargy, drowsiness, nausea, vomiting, and epigastric pain, which have been generally reversible with supportive care.
+Gastrointestinal bleeding has occurred.
+Hypertension, acute renal failure, respiratory depression, and coma have occurred, but were rare [see Warnings and Precautions (5.1, 5.2, 5.4, 5.6)].
 
-Should systemic side effects occur due to incorrect use or accidental overdose of this product, the general measures recommended for intoxication with non-steroidal anti-inflammatory drugs should be taken.
+Manage patients with symptomatic and supportive care following an NSAID overdosage.
+There are no specific antidotes.
+Forced diuresis, alkalinization of urine, hemodialysis, or hemoperfusion may not be useful due to high protein binding.
 
-For additional information about overdose treatment, call a poison control center (1-800-222-1222).
+For additional information about overdosage treatment contact a poison control center (1-800-222-1222).

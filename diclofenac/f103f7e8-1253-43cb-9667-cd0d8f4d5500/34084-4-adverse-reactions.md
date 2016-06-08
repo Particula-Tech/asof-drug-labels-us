@@ -1,33 +1,44 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1 Clinical Studies Experience
+The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+- Cardiovascular Thrombotic Events [see Warnings and Precautions (5.1)]
+- GI Bleeding, Ulceration and Perforation [see Warnings and Precautions (5.2)]
+- Hepatotoxicity [see Warnings and Precautions (5.3)]
+- Hypertension [see Warnings and Precautions (5.4)]
+- Heart Failure and Edema [see Warnings and Precautions (5.5)]
+- Renal Toxicity and Hyperkalemia [see Warnings and Precautions (5.6)]
+- Anaphylactic Reactions [see Warnings and Precautions (5.7)]
+- Serious Skin Reactions [see Warnings and Precautions (5.9)]
+- Hematologic Toxicity [see Warnings and Precautions (5.11)]
 
-In controlled trials during the premarketing development of Flector Patch, approximately 600 patients with minor sprains, strains, and contusions have been treated with Flector Patch for up to two weeks.
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+In controlled trials during the premarketing development of FLECTOR PATCH, approximately 600 patients with minor sprains, strains, and contusions were treated with FLECTOR PATCH for up to two weeks.
 
 Adverse Events Leading to Discontinuation of Treatment
 
-In the controlled trials, 3% of patients in both the Flector Patch and placebo patch groups discontinued treatment due to an adverse event.
-The most common adverse events leading to discontinuation were application site reactions, occurring in 2% of both the Flector Patch and placebo patch groups.
+In the controlled trials, 3% of patients in both the FLECTOR PATCH and placebo patch groups discontinued treatment due to an adverse event.
+The most common adverse events leading to discontinuation were application site reactions, occurring in 2% of both the FLECTOR PATCH and placebo patch groups.
 Application site reactions leading to dropout included pruritus, dermatitis, and burning.
 
 Common Adverse Events
 
 Localized Reactions
 
-Overall, the most common adverse events associated with Flector Patch treatment were skin reactions at the site of treatment.
-
-Table 1 lists all adverse events, regardless of causality, occurring in ≥ 1% of patients in controlled trials of Flector Patch.
-A majority of patients treated with Flector Patch had adverse events with a maximum intensity of "mild" or "moderate."
+Overall, the most common adverse events associated with FLECTOR PATCH treatment were skin reactions at the site of treatment.
+Table 1 lists all adverse events, regardless of causality, occurring in ≥ 1% of patients in controlled trials of FLECTOR PATCH.
+A majority of patients treated with FLECTOR PATCH had adverse events with a maximum intensity of "mild" or "moderate."
 
 Table 1.
-Common Adverse Events (by body system and preferred term) in ≥1% of Patients treated with Flector Patch or Placebo Patch The table lists adverse events occurring in placebo-treated patients because the placebo-patch was comprised of the same ingredients as Flector Patch except for diclofenac.
+Common Adverse Events (by body system and preferred term) in ≥ 1% of Patients treated with FLECTOR PATCH or Placebo Patch The table lists adverse events occurring in placebo-treated patients because the placebo-patch was comprised of the same ingredients as FLECTOR PATCH except for diclofenac.
 Adverse events in the placebo group may therefore reflect effects of the non-active ingredients.
 
-| N | Percent | N | Percent |  |
+|  | N | Percent | N | Percent |
 | --- | --- | --- | --- | --- |
-|  | Diclofenac N=572 |  | Placebo N=564 |  |
+| Category | Diclofenac N=572 |  | Placebo N=564 |  |
 | Application Site Conditions | 64 | 11 | 70 | 12 |
 | Pruritus | 31 | 5 | 44 | 8 |
 | Dermatitis | 9 | 2 | 3 | <1 |
@@ -42,7 +53,7 @@ Adverse events in the placebo group may therefore reflect effects of the non-act
 | Headache | 7 | 1 | 10 | 2 |
 | Paresthesia | 6 | 1 | 8 | 1 |
 | Somnolence | 4 | 1 | 6 | 1 |
-| Other Includes: hypoaesthesia, dizziness, and hyperkinesias. | 4 | 1 | 3 | <1 |
+| Other Includes: hypoesthesia, dizziness, and hyperkinesias. | 4 | 1 | 3 | <1 |
 
-Foreign labeling describes that dermal allergic reactions may occur with Flector Patch treatment.
+Foreign labeling describes that dermal allergic reactions may occur with FLECTOR PATCH treatment.
 Additionally, the treated area may become irritated or develop itching, erythema, edema, vesicles, or abnormal sensation.
