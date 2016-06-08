@@ -1,12 +1,12 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 General Instructions
+## 2.1 General Dosing Instructions
 
 Carefully consider the potential benefits and risks of meloxicam tablets and other treatment options before deciding to use meloxicam tablets.
-Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5.4)].
+Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
 After observing the response to initial therapy with meloxicam tablets, adjust the dose to suit an individual patient's needs.
 In adults, the maximum recommended daily oral dose of meloxicam is 15 mg regardless of formulation.
-In patients with hemodialysis, a maximum daily dosage of 7.5 mg is recommended [see Warnings and Precautions (5.6), Use in Specific Populations (8.7), and Clinical Pharmacology (12.3)].
+In patients with hemodialysis, a maximum daily dosage of 7.5 mg is recommended [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
 Meloxicam tablets may be taken without regard to timing of meals.
 
 ## 2.2 Osteoarthritis
@@ -23,3 +23,14 @@ Some patients may receive additional benefit by increasing the dose to 15 mg onc
 
 For the treatment of juvenile rheumatoid arthritis, the recommended oral dose of meloxicam is 0.125 mg/kg once daily up to a maximum of 7.5 mg.
 There was no additional benefit demonstrated by increasing the dose above 0.125 mg/kg once daily in these clinical trials.
+
+## 2.5 Renal Impairment
+
+The use of meloxicam tablets in subjects with severe renal impairment is not recommended.
+In patients on hemodialysis, the maximum dosage of meloxicam tablets is 7.5 mg per day [see Clinical Pharmacology (12.3)].
+
+## 2.6 Non-Interchangeability with Other Formulations of Meloxicam
+
+Meloxicam tablets have not shown equivalent systemic exposure to other approved formulations of oral meloxicam.
+Therefore, meloxicam tablets are not interchangeable with other formulations of oral meloxicam product even if the total milligram strength is the same.
+Do not substitute similar dose strengths of meloxicam tablets with other formulations of oral meloxicam product.
