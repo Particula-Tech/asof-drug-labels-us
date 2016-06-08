@@ -27,3 +27,10 @@ In many, but not all, of these cases, buprenorphine was misused by self-injectio
 Preclinical studies have shown that the combination of benzodiazepines and buprenorphine altered the usual ceiling effect on buprenorphine-induced respiratory depression, making the respiratory effects of buprenorphine appear similar to those of full opioid agonists.
 Buprenorphine sublingual tablet should be prescribed with caution to patients taking benzodiazepines or other drugs that act on the CNS, regardless of whether these drugs are taken on the advice of a physician or are being abused/misused.
 Patients should be warned that it is extremely dangerous to self-administer non-prescribed benzodiazepines while taking buprenorphine sublingual tablet, and should also be cautioned to use benzodiazepines concurrently with buprenorphine sublingual tablet only as directed by their physician.
+
+## 7.4 Serotonergic Drugs
+
+The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system, such as selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that effect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), and monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue), has resulted in serotonin syndrome.
+
+If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and dose adjustment.
+Discontinue Buprenorphine sublingual tablets if serotonin syndrome is suspected.

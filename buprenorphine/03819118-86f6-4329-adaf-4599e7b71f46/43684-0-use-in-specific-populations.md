@@ -18,7 +18,7 @@ Buprenorphine sublingual tablets should be used during pregnancy only if the pot
 Clinical Considerations Disease-associated maternal and embryo-fetal risk Opioid dependence in pregnancy is associated with adverse obstetrical outcomes such as low birth weight, preterm birth, and fetal death.
 
 Fetal/neonatal adverse reactions Neonatal abstinence syndrome may occur in newborn infants of mothers who were on buprenorphine maintenance treatment.
-Observe newborns for poor feeding, diarrhea, irritability, tremor, rigidity, and seizures, and manage accordingly [see Warnings and Precautions (5.9)].
+Observe newborns for poor feeding, diarrhea, irritability, tremor, rigidity, and seizures, and manage accordingly [see Warnings and Precautions (5.10)].
 
 Labor or Delivery As with all opioids, use of buprenorphine prior to delivery may result in respiratory depression in the newborn.
 
@@ -71,8 +71,13 @@ In general, dose selection for an elderly patient should be cautious, usually st
 The effects of hepatic impairment on the pharmacokinetics of buprenorphine were evaluated in a pharmacokinetic study.
 Buprenorphine is extensively metabolized in the liver and buprenorphine plasma levels were found to be higher and the half-life was found to be longer in subjects with moderate and severe hepatic impairment, but not in subjects with mild hepatic impairment.
 
-For patients with severe hepatic impairment, a dose adjustment is recommended, and patients with moderate or severe hepatic impairment should be monitored for signs and symptoms of toxicity or overdose caused by increased levels of buprenorphine [see Dosage and Administration (2.5), Warnings and Precautions (5.11) and Clinical Pharmacology (12.3)].
+For patients with severe hepatic impairment, a dose adjustment is recommended, and patients with moderate or severe hepatic impairment should be monitored for signs and symptoms of toxicity or overdose caused by increased levels of buprenorphine [see Dosage and Administration (2.5), Warnings and Precautions (5.12) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 
 No differences in buprenorphine pharmacokinetics were observed between 9 dialysis-dependent and 6 normal patients following IV administration of 0.3 mg buprenorphine.
+
+## 8.8 Infertility
+
+Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
+It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2)].

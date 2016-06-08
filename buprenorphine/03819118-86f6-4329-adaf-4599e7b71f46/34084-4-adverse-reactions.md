@@ -92,3 +92,9 @@ Adverse Events (≥5%) by Body System and Treatment Group in a 16-week Study
 ## 6.2 Adverse Events - Postmarketing Experience with Buprenorphine Sublingual Tablets
 
 The most frequently reported postmarketing adverse events with buprenorphine not observed in clinical trials, excluding drug exposure during pregnancy, was drug misuse or abuse.
+
+Serotonin syndrome, adrenal insufficiency
+
+Androgen deficiency: Chronic use of opioids may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
+The causal role of opioids in the clinical syndrome of hypogonadism is unknown because the various medical, physical, lifestyle, and psychological stressors that may influence gonadal hormone levels have not been adequately controlled for in studies conducted to date.
+Patients presenting with symptoms of androgen deficiency should undergo laboratory evaluation.

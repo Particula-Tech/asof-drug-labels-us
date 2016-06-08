@@ -29,7 +29,7 @@ Buprenorphine sublingual tablet dosing should be initiated preferably when moder
 ## 2.2 Maintenance
 
 - Buprenorphine and naloxone is preferred for maintenance treatment.
-- Where buprenorphine is used in maintenance in patients who cannot tolerate the presence of naloxone, the dosage of buprenorphine should be progressively adjusted in increments / decrements of 2 mg or 4 mg buprenorphine to a level that holds the patient in treatment and suppresses opioid withdrawal signs and symptoms.
+- Where buprenorphine is used in maintenance in patients who cannot tolerate the presence of naloxone, the dosage of buprenorphine should be progressively adjusted in increments decrements of 2 mg or 4 mg buprenorphine to a level that holds the patient in treatment and suppresses opioid withdrawal signs and symptoms.
 - The maintenance dose is generally in the range of 4 mg to 24 mg buprenorphine per day depending on the individual patient.
   Doses higher than this have not been demonstrated to provide any clinical advantage.
 
@@ -66,14 +66,14 @@ Continuation or modification of pharmacotherapy should be based on the physician
 
 If treatment goals are not being achieved, the physician should re-evaluate the appropriateness of continuing the current treatment.
 
-## 2.5 Patients With Hepatic Impairment
+## 2.5 Patients with Hepatic Impairment
 
 Severe hepatic impairment: Consider reducing the starting and titration incremental dose by half compared to patients with normal liver function, and monitor for signs and symptoms of toxicity or overdose caused by increased levels of buprenorphine.
 
 Moderate hepatic impairment: Although no dose adjustment is necessary for patients with moderate hepatic impairment, buprenorphine sublingual tablets should be used with caution in these patients and prescribers should monitor patients for signs and symptoms of toxicity or overdose caused by increased levels of buprenorphine.
 
 Mild hepatic impairment: No clinically significant differences in pharmacokinetic parameters were observed in subjects with mild hepatic impairment.
-No dose adjustment is needed in patients with mild hepatic impairment [see Warnings and Precautions (5.11)].
+No dose adjustment is needed in patients with mild hepatic impairment [see Warnings and Precautions (5.12)].
 
 ## 2.6 Unstable Patients
 

@@ -37,7 +37,17 @@ The withdrawal syndrome is typically milder than seen with full agonists and may
 Buprenorphine can be abused in a manner similar to other opioids.
 This should be considered when prescribing or dispensing buprenorphine in situations when the clinician is concerned about an increased risk of misuse, abuse, or diversion [see Drug Abuse and Dependence (9.3)].
 
-## 5.6 Hepatitis, Hepatic Events
+## 5.6 Adrenal Insufficiency
+
+Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
+Presentation of adrenal insufficiency may include non-specific symptoms and signs including nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
+If adrenal insufficiency is suspected, confirm the diagnosis with diagnostic testing as soon as possible.
+If adrenal insufficiency is diagnosed, treat with physiologic replacement doses of corticosteroids.
+Wean the patient off of the opioid to allow adrenal function to recover and continue corticosteroid treatment until adrenal function recovers.
+Other opioids may be tried as some cases reported use of a different opioid without recurrence of adrenal insufficiency.
+The information available does not identify any particular opioids as being more likely to be associated with adrenal insufficiency.
+
+## 5.7 Hepatitis, Hepatic Events
 
 Cases of cytolytic hepatitis and hepatitis with jaundice have been observed in individuals receiving buprenorphine in clinical trials and through post-marketing adverse event reports.
 The spectrum of abnormalities ranges from transient asymptomatic elevations in hepatic transaminases to case reports of death, hepatic failure, hepatic necrosis, hepatorenal syndrome, and hepatic encephalopathy.
@@ -50,56 +60,56 @@ Periodic monitoring of liver function during treatment is also recommended.
 A biological and etiological evaluation is recommended when a hepatic event is suspected.
 Depending on the case, buprenorphine sublingual tablet may need to be carefully discontinued to prevent withdrawal signs and symptoms and a return by the patient to illicit drug use, and strict monitoring of the patient should be initiated.
 
-## 5.7 Allergic Reactions
+## 5.8 Allergic Reactions
 
 Cases of hypersensitivity to buprenorphine products have been reported both in clinical trials and in the post-marketing experience.
 Cases of bronchospasm, angioneutrotic edema, and anaphylactic shock have been reported.
 The most common signs and symptoms include rashes, hives, and pruritus.
 A history of hypersensitivity to buprenorphine is a contraindication to the use of buprenorphine sublingual tablet.
 
-## 5.8 Precipitation of Opioid Withdrawal Signs and Symptoms
+## 5.9 Precipitation of Opioid Withdrawal Signs and Symptoms
 
 Because of the partial agonist properties of buprenorphine, buprenorphine sublingual tablet may precipitate opioid withdrawal signs and symptoms in individuals physically dependent on full opioid agonists if administered sublingually or parenterally before the agonist effects of other opioids have subsided.
 
-## 5.9 Neonatal Withdrawal
+## 5.10 Neonatal Withdrawal
 
 Neonatal withdrawal has been reported in the infants of women treated with buprenorphine during pregnancy.
 From post-marketing reports, the time to onset of neonatal withdrawal signs and symptoms ranged from Day 1 to Day 8 of life with most cases occurring on Day 1.
 Adverse events associated with the neonatal withdrawal syndrome included hypertonia, neonatal tremor, neonatal agitation, and myoclonus and there have been reports of convulsions, apnea, respiratory depression and bradycardia.
 
-## 5.10 Use in Opioid Naïve Patients
+## 5.11 Use in Opioid Naïve Patients
 
 There have been reported deaths of opioid naïve individuals who received a 2 mg dose of buprenorphine as a sublingual tablet for analgesia.
 Buprenorphine sublingual tablet is not appropriate as an analgesic.
 
-## 5.11 Use in Patients With Impaired Hepatic Function
+## 5.12 Use in Patients with Impaired Hepatic Function
 
 In a pharmacokinetic study, buprenorphine plasma levels were found to be higher and the half-life was found to be longer in subjects with moderate and severe hepatic impairment, but not in subjects with mild hepatic impairment.
 
 For patients with severe hepatic impairment, a dose adjustment is recommended, and patients with moderate or severe hepatic impairment should be monitored for signs and symptoms of toxicity or overdose caused by increased levels of buprenorphine [see Dosage and Administration (2.5) and Use in Specific Populations (8.6)].
 
-## 5.12 Impairment of Ability to Drive and Operate Machinery
+## 5.13 Impairment of Ability to Drive and Operate Machinery
 
 Buprenorphine sublingual tablet may impair the mental or physical abilities required for the performance of potentially dangerous tasks such as driving a car or operating machinery, especially during treatment induction and dose adjustment.
 Patients should be cautioned about driving or operating hazardous machinery until they are reasonably certain that buprenorphine therapy does not adversely affect his or her ability to engage in such activities.
 
-## 5.13 Orthostatic Hypotension
+## 5.14 Orthostatic Hypotension
 
 Like other opioids, buprenorphine sublingual tablet may produce orthostatic hypotension in ambulatory patients.
 
-## 5.14 Elevation of Cerebrospinal Fluid Pressure
+## 5.15 Elevation of Cerebrospinal Fluid Pressure
 
 Buprenorphine, like other opioids, may elevate cerebrospinal fluid pressure and should be used with caution in patients with head injury, intracranial lesions and other circumstances when cerebrospinal pressure may be increased.
 Buprenorphine can produce miosis and changes in the level of consciousness that may interfere with patient evaluation.
 
-## 5.15 Elevation of Intracholedochal Pressure
+## 5.16 Elevation of Intracholedochal Pressure
 
 Buprenorphine has been shown to increase intracholedochal pressure, as do other opioids, and thus should be administered with caution to patients with dysfunction of the biliary tract.
 
-## 5.16 Effects in Acute Abdominal Conditions
+## 5.17 Effects in Acute Abdominal Conditions
 
 As with other opioids, buprenorphine may obscure the diagnosis or clinical course of patients with acute abdominal conditions.
 
-## 5.17 General Precautions
+## 5.18 General Precautions
 
 Buprenorphine sublingual tablet should be administered with caution in debilitated patients and those with myxedema or hypothyroidism; adrenal cortical insufficiency (e.g., Addison's disease); CNS depression or coma; toxic psychoses; prostatic hypertrophy or urethral stricture; acute alcoholism; delirium tremens; or kyphoscoliosis.

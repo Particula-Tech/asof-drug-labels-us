@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-BUPRENORPHINE (byoo-pre-NOR-feen) SUBLINGUAL TABLETS CIII
+BUPRENORPHINE (bue" pre nor' feen) SUBLINGUAL TABLETS CIII
 
 Rx Only
 
@@ -199,4 +199,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 40-9095
 
-(MG 41-1125/0115)
+(MG 41-1125/0416)

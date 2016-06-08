@@ -82,7 +82,7 @@ The disposition of buprenorphine in patients with hepatic impairment was compare
 In subjects with mild hepatic impairment, the changes in mean Cmax, AUC0-last, and half-life values of buprenorphine were not clinically significant.
 No dose adjustment is needed in patients with mild hepatic impairment.
 
-For subjects with moderate and severe hepatic impairment, mean Cmax, AUC0-last, and half-life values of buprenorphine were increased (Table 4) [see Warnings and Precautions (5.11) and Use in Specific Populations (8.6)].
+For subjects with moderate and severe hepatic impairment, mean Cmax, AUC0-last, and half-life values of buprenorphine were increased (Table 4) [see Warnings and Precautions (5.12) and Use in Specific Populations (8.6)].
 
 Table 4.
 Changes in Buprenorphine Pharmacokinetic Parameters in Subjects with Moderate and Severe Hepatic Impairment

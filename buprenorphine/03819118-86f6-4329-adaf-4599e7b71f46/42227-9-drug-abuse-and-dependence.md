@@ -27,4 +27,4 @@ Proper assessment of the patient, proper prescribing practices, periodic re-eval
 Buprenorphine is a partial agonist at the mu-opioid receptor and chronic administration produces physical dependence of the opioid type, characterized by moderate withdrawal signs and symptoms upon abrupt discontinuation or rapid taper.
 The withdrawal syndrome is typically milder than seen with full agonists and may be delayed in onset [see Warnings and Precautions (5.5)].
 
-A neonatal withdrawal syndrome has been reported in the infants of women treated with buprenorphine during pregnancy [see Warnings and Precautions (5.9)].
+A neonatal withdrawal syndrome has been reported in the infants of women treated with buprenorphine during pregnancy [see Warnings and Precautions (5.10)].
