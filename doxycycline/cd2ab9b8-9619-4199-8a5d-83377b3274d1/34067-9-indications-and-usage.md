@@ -102,4 +102,4 @@ In severe acne, doxycycline may be useful adjunctive therapy.
 
 ## 1.9 Prophylaxis of malaria
 
-Doxycycline is indicated for the prophylaxis of malaria due to Plasmodium falciparum in short-term travelers (less than 4 months) to areas with chloroquine and/or pyrimethamine-sulfadoxine resistant strains [see Dosage and Administration (2.2) and Patient Counseling Information (17)].
+Doxycycline is indicated for the prophylaxis of malaria due to Plasmodium falciparum in short-term travelers (< 4 months) to areas with chloroquine and/or pyrimethamine-sulfadoxine resistant strains [see Dosage and Administration (2.2) and Patient Counseling Information (17)].

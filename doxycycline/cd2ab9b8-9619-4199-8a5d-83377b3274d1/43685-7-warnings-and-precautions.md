@@ -30,12 +30,12 @@ Patients apt to be exposed to direct sunlight or ultraviolet light should be adv
 As with other antibacterial preparations, use of doxycycline hyclate delayed-release tablets may result in overgrowth of non-susceptible organisms, including fungi.
 If superinfection occurs, the antibacterial should be discontinued and appropriate therapy instituted.
 
-## 5.5Intracranial Hypertension
+## 5.5 Intracranial Hypertension
 
-Intracranial hypertension (IH, pseudotumor cerebri) has been associated with the use of tetracycline including doxycycline hyclate delayed-release tablets.
+Intracranial hypertension (IH, pseudotumor cerebri) has been associated with the use of tetracycline including Doxycycline.
 Clinical manifestations of IH include headache, blurred vision, diplopia, and vision loss; papilledema can be found on fundoscopy.
 Women of childbearing age who are overweight or have a history of IH are at greater risk for developing tetracycline associated IH.
-Avoid concomitant use of isotretinoin and doxycycline hyclate delayed-release tablets because isotretinoin is also known to cause pseudotumor cerebri.
+Avoid concomitant use of isotretinoin and doxycycline because isotretinoin is also known to cause pseudotumor cerebri.
 
 Although IH typically resolves after discontinuation of treatment, the possibility for permanent visual loss exists.
 If visual disturbance occurs during treatment, prompt ophthalmologic evaluation is warranted.

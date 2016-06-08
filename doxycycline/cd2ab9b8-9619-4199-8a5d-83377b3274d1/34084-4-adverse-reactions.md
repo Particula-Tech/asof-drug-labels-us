@@ -2,7 +2,8 @@
 
 ## 6.1 Clinical Trial Experience
 
-The safety and efficacy of doxycycline hyclate delayed-release tablets, 200 mg as a single daily dose was evaluated in a multicenter, randomized, double-blind, active-controlled study. doxycycline hyclate delayed-release tablets, 200 mg was given orally once-a-day for 7 days and compared to doxycycline hyclate capsules 100 mg given orally twice daily for 7 days for the treatment of men and women with uncomplicated urogenital C. trachomatis infection.
+The safety and efficacy of doxycycline hyclate delayed-release tablets, 200 mg as a single daily dose was evaluated in a multicenter, randomized, double-blind, active-controlled study.
+Doxycycline hyclate delayed-release tablets, 200 mg was given orally once-a-day for 7 days and compared to doxycycline hyclate capsules 100 mg given orally twice daily for 7 days for the treatment of men and women with uncomplicated urogenital C. trachomatis infection.
 
 Adverse events in the Safety Population were reported by 99 (40.2%) subjects in the doxycycline hyclate delayed-release tablets, 200 mg treatment group and 132 (53.2%) subjects in the doxycycline hyclate capsules reference treatment group.
 Most AEs were mild in intensity.
@@ -10,7 +11,7 @@ The most commonly reported adverse events in both treatment groups were nausea, 
 
 Table 1: Adverse Reactions Reported in Greater than or Equal to 2% of Subjects
 
-|  | Doxycycline hyclate delayed-release tablets |
+|  | Doxycycline hyclate delayed-release tablets, 200 mg N = 246 |
 | --- | --- |
 | Preferred Term | n (%) |
 | Subjects with any AE | 99 (40.2) |

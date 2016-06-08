@@ -47,7 +47,7 @@ Clostridium species Fusobacterium fusiforme Propionibacterium acnes
 
 Other Bacteria
 
-Norcardiae and other aerobic Actinomyces species Borrelia recurrentis Chlamydophila psittaci Chlamydia trachomatis Mycoplasma pneumoniae Rickettsiae Treponema pallidum Treponema pallidum subspecies pertenue Ureaplasma urealyticum
+Borrelia recurrentis Chlamydophila psittaci Chlamydia trachomatis Mycoplasma pneumoniae Norcardiae and other aerobic Actinomyces species Rickettsiae Treponema pallidum Treponema pallidum subspecies pertenue Ureaplasma urealyticum
 
 Parasites
 
@@ -94,7 +94,7 @@ Table 2: Susceptibility Test Interpretive Criteria for Doxycycline and Tetracycl
 | Mycoplasma pneumoniae Tetracycline | - | - | - | - | - | - | ≤2 | - | - |
 | Nocardiae and other aerobic Actinomyces species Doxycycline | ≤1 | 2-4 | ≥8 | - | - | - |  |  |  |
 | Neisseria gonorrhoeaeGonococci with 30 mcg tetracycline disk zone diameters of less than 19 mm usually indicate a plasmid-mediated tetracycline resistant Neisseria gonorrhoeae isolate. Resistance in these strains should be confirmed by a dilution test (MIC greater than or equal to 16 mcg/mL). Tetracycline | - | - | - | ≥38 | 31-37 | ≤30 | ≤0.25 | 0.5-1 | ≥2 |
-| Streptococcus pneumoniae Doxycycline Tetracycline | ≤0. 25 ≤1 | 0.5 2 | ≥1 ≥4 | ≥28 ≥28 | 25-27 25-27 | ≤24 ≤24 | - - | - - | - - |
+| Streptococcus pneumoniae Doxycycline Tetracycline | ≤0.25 ≤1 | 0.5 2 | ≥1 ≥4 | ≥28 ≥28 | 25-27 25-27 | ≤24 ≤24 | - - | - - | - - |
 | Vibrio cholerae Doxycycline Tetracycline | ≤4 ≤4 | 8 8 | ≥16 ≥16 | - - | - - | - - | - - | - - | - - |
 | Yersinia pestis Doxycycline Tetracycline | ≤4 ≤4 | 8 8 | ≥16 ≥16 | - - | - - | - - | - - | - - | - - |
 | Ureaplasma urealyticum Tetracycline | - | - | - | - | - | - | ≤1 |  | ≥2 |
@@ -125,6 +125,6 @@ Table 3: Acceptable Quality Control Ranges for Susceptiblity Testing for Doxycyc
 | Tetracycline | 0.12 - 1 |  | - |
 | Staphylococcus pneumoniae ATCC 49619 Doxycycline Tetracycline | 0.015 - 0.12 0.06 - 0.5 | 25 - 34 27 - 31 | - - |
 | Bacteroides fragilis ATCC 25285 Tetracycline | - | - | 0.125 - 0.5 |
-| Bacteroides thetaiotaomicron ATCC 29741 Doxycycline Tetracycline | 2-16 - | - - | 8 - 32 |
+| Bacteroides thetaiotaomicron ATCC 29741 Doxycycline Tetracycline | 2-8 - | - - | 8 - 32 |
 | Mycoplasma pneumoniae ATCC 29342 Tetracycline | 0.06 - 0.5 | - | 0.06 - 0.5 |
 | Ureaplasma urealyticum ATCC 33175 Tetracycline | - | - | ≥8 |

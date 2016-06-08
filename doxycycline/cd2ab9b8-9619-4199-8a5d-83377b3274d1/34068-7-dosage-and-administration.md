@@ -49,9 +49,9 @@ Children weighing 45 kg or more should receive the adult dose.
 
 ## 2.4 Sprinkling the tablet over applesauce
 
-doxycycline hyclate delayed-release tablets may also be administered by carefully breaking up the tablet and sprinkling the tablet contents (delayed-release pellets) on a spoonful of applesauce.
+Doxycycline hyclate delayed-release tablets may also be administered by carefully breaking up the tablet and sprinkling the tablet contents (delayed-release pellets) on a spoonful of applesauce.
 The delayed-release pellets must not be crushed or damaged when breaking up the tablet.
 Any loss of pellets in the transfer would prevent using the dose.
 The applesauce/ doxycycline hyclate delayed-release tablets mixture should be swallowed immediately without chewing and may be followed by a glass of water if desired.
 The applesauce should not be hot, and it should be soft enough to be swallowed without chewing.
-In the event that a prepared dose of applesauce/ doxycycline hyclate delayed-release tablets Tablet cannot be taken immediately, the mixture should be discarded and not stored for later use.
+In the event that a prepared dose of applesauce/ doxycycline hyclate delayed-release tablet cannot be taken immediately, the mixture should be discarded and not stored for later use.
