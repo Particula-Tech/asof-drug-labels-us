@@ -1,6 +1,6 @@
 # Package/Label Display Panel
 
-## Diclofenac Potassium Tablets 50 mg 100s Label Text
+## Diclofenac Potassium Tablets USP 50 mg 100s Label Text
 
 NDC 0093-0948-01
 

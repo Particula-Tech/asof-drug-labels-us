@@ -12,4 +12,4 @@ Dispense in a tight, light-resistant container as defined in the USP, with a chi
 Manufactured For: TEVA PHARMACEUTICALS USA, INC. North Wales, PA 19454
 
 Rev.
-K 12/2014
+L 5/2016

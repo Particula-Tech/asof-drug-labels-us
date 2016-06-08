@@ -1,8 +1,9 @@
 # CONTRAINDICATIONS
 
-Diclofenac potassium tablets are contraindicated in patients with known hypersensitivity to diclofenac.
+Diclofenac is contraindicated in the following patients:
 
-Diclofenac potassium tablets should not be given to patients who have experienced asthma, urticaria, or allergic-type reactions after taking aspirin or other NSAIDs.
-Severe, rarely fatal, anaphylactic-like reactions to NSAIDs have been reported in such patients (see WARNINGS, Anaphylactic Reactions and PRECAUTIONS, Preexisting Asthma).
-
-Diclofenac potassium tablets are contraindicated for the treatment of perioperative pain in the setting of coronary artery bypass graft (CABG) surgery (see WARNINGS).
+- •Known hypersensitivity (e.g., anaphylactic reactions and serious skin reactions) to diclofenac or any components of the drug product (see WARNINGS; Anaphylactic Reactions, Serious Skin Reactions).
+- •History of asthma, urticaria, or allergic-type reactions after taking aspirin or other NSAIDs.
+  Severe, sometimes fatal, anaphylactic reactions to NSAIDs have been reported in such patients
+- (see WARNINGS; Anaphylactic Reactions, Exacerbation of Asthma Related to Aspirin Sensitivity).
+- •In the setting of coronary artery bypass graft (CABG) surgery (see WARNINGS; CardiovascularThrombotic Events).
