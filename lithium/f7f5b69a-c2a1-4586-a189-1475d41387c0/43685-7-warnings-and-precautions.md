@@ -6,10 +6,8 @@ Lithium toxicity is closely related to serum lithium concentrations and can occu
 
 Outpatients and their families should be warned that the patient must discontinue lithium therapy and contact his physician if such clinical signs of lithium toxicity as diarrhea, vomiting, tremor, mild ataxia, drowsiness, or muscular weakness occur.
 
-Lithium should generally not be given to patients with significant renal or cardiovascular disease, severe debilitation, dehydration, sodium depletion, or to patients receiving diuretics, angiotensin converting enzyme (ACE) inhibitors or angiotensin receptor blockers (ARBs) since the risk of impaired lithium elimination resulting in increasing lithium serum concentrations and severe toxicity is high in such patients.
-If the psychiatric indication is life threatening, and if such a patient fails to respond to other measures, lithium treatment may be undertaken with extreme caution and continuous monitoring of serum lithium concentrations.
-Enhanced monitoring for lithium toxicity should occur during drug initiation, or after any changes in lithium dose or administration schedule as further adjustment to the usually low doses ordinarily tolerated by these individuals may be required.
-In such instances, hospitalization is a necessity.
+The risk of lithium toxicity is increased in patients with significant renal or cardiovascular disease, severe debilitation or dehydration, or sodium depletion, and for patients receiving prescribed medications that may affect kidney function, such as angiotensin converting enzyme inhibitors (ACE inhibitors), angiotensin receptor blockers (ARBs), diuretics (loops and thiazides) and NSAIDs.
+For these patients, consider starting with lower doses and titrating slowly while frequently monitoring serum lithium concentrations and signs of lithium toxicity.
 
 Unmasking of Brugada Syndrome
 
@@ -24,12 +22,16 @@ Chronic lithium therapy may be associated with diminution of renal concentrating
 Such patients should be carefully managed to avoid dehydration with resulting lithium retention and toxicity.
 This condition is usually reversible when lithium is discontinued.
 
+Post marketing cases consistent with nephrotic syndrome have been reported with the use of lithium.
+Biopsy findings in patients with nephrotic syndrome include minimal change disease and focal segmental glomerulosclerosis.
+Discontinuation of lithium in patients with nephrotic syndrome has resulted in remission of nephrotic syndrome.
+
 Morphologic changes with glomerular and interstitial fibrosis and nephron atrophy have been reported in patients on chronic lithium therapy.
 Morphologic changes have also been seen in manic-depressive patients never exposed to lithium.
 The relationship between renal function and morphologic changes and their association with lithium therapy have not been established.
 
 Kidney function should be assessed prior to and during lithium therapy.
-Routine urinalysis and other tests may be used to evaluate tubular function (e.g., urine specific gravity or osmolality following a period of water deprivation, or 24-hour urine volume) and glomerular function (e.g., serum creatinine or creatinine clearance).
+Routine urinalysis and other tests may be used to evaluate tubular function (e.g., urine specific gravity or osmolality following a period of water deprivation, or 24-hour urine volume) and glomerular function (e.g., serum creatinine, creatinine clearance, or proteinuria).
 During lithium therapy, progressive or sudden changes in renal function, even within the normal range, indicate the need for re-evaluation of treatment.
 
 Encephalopathic Syndrome
@@ -82,14 +84,13 @@ Previously existing thyroid disorders do not necessarily constitute a contraindi
 Where hypothyroidism preexists, careful monitoring of thyroid function during lithium stabilization and maintenance allows for correction of changing thyroid parameters and/or adjustment of lithium doses, if any.
 If hypothyroidism occurs during lithium stabilization and maintenance, supplemental thyroid treatment may be used.
 
-In general, the concomitant use of diuretics or angiotensin converting enzyme (ACE) inhibitors or angiotension receptor blockers (ARBs) with lithium carbonate should be avoided.
-In those cases where concomitant use is necessary, extreme caution is advised since sodium loss from these drugs may reduce the renal clearance of lithium resulting in increased serum lithium concentrations with the risk of lithium toxicity.
-When such combinations are used, the lithium dosage may need to be decreased, and more frequent monitoring of lithium serum concentrations is recommended.
+Diuretic-, ACE-, and ARB-induced sodium loss may increase serum lithium concentrations.
+Start with lower doses of lithium or reduce dosage, while frequently monitoring serum lithium concentrations and signs of lithium toxicity.
 See WARNINGS for additional caution information.
 
 Concomitant administration of carbamazepine and lithium may increase the risk of neurotoxic side effects.
 
-The following drugs can lower serum lithium concentrations by increasing urinary lithium excretion: acetazolamide, urea, xanthine preparations and alkalinizing agents such as sodium bicarbonate.
+The following drugs can lower serum lithium concentrations by increasing urinary lithium excretion: acetazolamide, urea, xanthine preparations, and alkalinizing agents such as sodium bicarbonate.
 
 Concomitant extended use of iodide preparations, especially potassium iodide, with lithium may produce hypothyroidism.
 

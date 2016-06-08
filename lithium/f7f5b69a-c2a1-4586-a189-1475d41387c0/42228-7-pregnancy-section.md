@@ -1,3 +1,3 @@
 # Usage in Pregnancy
 
-Pregnancy Category D. (See WARNINGS).
+Pregnancy Category D. (see WARNINGS).

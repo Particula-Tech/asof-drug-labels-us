@@ -11,8 +11,8 @@ Transient and mild nausea and general discomfort may also appear during the firs
 
 These side effects usually subside with continued treatment or with a temporary reduction or cessation of dosage.
 If persistent, a cessation of lithium therapy may be required.
-Diarrhea, vomiting, drowsiness, muscular weakness and lack of coordination may be early signs of lithium intoxication, and can occur at lithium concentrations below 2.0 mEq/L.
-At higher concentrations, giddiness, ataxia, blurred vision, tinnitus and a large output of dilute urine may be seen.
+Diarrhea, vomiting, drowsiness, muscular weakness, and lack of coordination may be early signs of lithium intoxication, and can occur at lithium concentrations below 2.0 mEq/L.
+At higher concentrations, giddiness, ataxia, blurred vision, tinnitus, and a large output of dilute urine may be seen.
 Serum lithium concentrations above 3.0 mEq/L may produce a complex clinical picture involving multiple organs and organ systems.
 Serum lithium concentrations should not be permitted to exceed 2.0 mEq/L during the acute treatment phase.
 
