@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA204395"
+  ],
+  "inn": "sodium-phenylbutyrate",
+  "labeler": "Par Pharmaceutical, Inc.",
+  "package_ndcs": [
+    "49884-170-04"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "sodium phenylbutyrate tablets, 500 mg",
+      "name": "Sodium Phenylbutyrate"
+    }
+  ],
+  "setid": "4020b962-eaee-4184-b04b-14ca757c51a1",
+  "source": "dailymed"
+}
