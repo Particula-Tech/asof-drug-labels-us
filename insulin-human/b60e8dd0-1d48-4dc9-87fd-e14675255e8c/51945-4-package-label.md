@@ -36,6 +36,8 @@ For Single Patient Use Only
 
 prefilled insulin delivery device
 
+500 units/mL
+
 500 units per mL
 
 2 x 3 mL prefilled pens
