@@ -7,8 +7,8 @@ Each tablet also contains the following ingredients: calcium stearate, lactose m
 
 The structural formulas are as follows:
 
-Norethindrone Acetate, USP Ethinyl Estradiol, USP
+1. Norethindrone Acetate, USP Ethinyl Estradiol, USP
 
 C22H28O3 M.W.
-340.47 C20H24O2 M.W.
-296.41
+340.46 C20H24O2 M.W.
+296.40

@@ -8,7 +8,7 @@ Substances decreasing or increasing the plasma concentration of estrogen: In vit
 Therefore, inducers or inhibitors of CYP3A4 may affect estrogen drug metabolism.
 Inducers of CYP3A4 such as St. John’s wort (Hypericum perforatum) preparations, phenobarbital, carbamazepine and rifampin may decrease the plasma concentration of estrogens, possibly resulting in a decrease in therapeutic effects and/or changes in the uterine bleeding profile.
 Inhibitors of CYP3A4 such as erythromycin, clarithromycin, ketoconazole, itraconazole, ritonavir and grapefruit juice may increase the plasma concentration of estrogens and may result in side effects.
-Coadministration of atorvastatin and certain hormonal products containing ethinyl estradiol increase AUC values for ethinyl estradiol approximately 20 percent.
+Co-administration of atorvastatin and certain hormonal products containing ethinyl estradiol increase AUC values for ethinyl estradiol approximately 20 percent.
 Ascorbic acid and acetaminophen may increase the plasma ethinyl estradiol concentration, possibly by inhibition of conjugation.
 
 ## 7.2 Effect of Combined Hormonal Products on Other Drugs

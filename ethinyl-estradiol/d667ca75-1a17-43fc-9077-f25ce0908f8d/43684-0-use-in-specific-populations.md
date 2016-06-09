@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Jintelishould not be used during pregnancy [see Contraindications (4)].
+Jinteli should not be used during pregnancy [see Contraindications (4)].
 There appears to be little or no increased risk of birth defects in children born to women who have used estrogens and progestins as an oral contraceptive inadvertently during early pregnancy.
 
 ## 8.3 Nursing Mothers
@@ -19,7 +19,7 @@ Clinical studies have not been conducted in the pediatric population.
 
 ## 8.5 Geriatric Use
 
-There have not been sufficient numbers of geriatric women involved in clinical studies utilizing Jintelito determine whether those over 65 years of age differ from younger subjects in their response to Jinteli.
+There have not been sufficient numbers of geriatric women involved in clinical studies utilizing Jinteli to determine whether those over 65 years of age differ from younger subjects in their response to Jinteli.
 
 The Women’s Health Initiative Studies
 

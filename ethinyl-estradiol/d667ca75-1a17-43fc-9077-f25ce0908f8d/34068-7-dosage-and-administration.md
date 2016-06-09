@@ -5,7 +5,7 @@ Postmenopausal women should be re-evaluated periodically as clinically appropria
 
 ## 2.1 Treatment of Moderate to Severe Vasomotor Symptoms due to Menopause
 
-Jintelitherapy consists of a single tablet to be taken orally once daily.
+Jinteli therapy consists of a single tablet to be taken orally once daily.
 
 ## 2.2 Prevention of Postmenopausal Osteoporosis
 

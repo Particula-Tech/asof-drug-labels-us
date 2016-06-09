@@ -1,6 +1,6 @@
 # Patient Information
 
-- INFORMATION FOR THE PATIENT (norethindrone acetate and ethinyl estradiol tablets USP)
+1. Jinteli® (norethindrone acetate and ethinyl estradiol tablets USP)
 
 Read this Patient Information before you start taking Jinteli and each time you get a refill.
 There may be new information.
@@ -44,28 +44,28 @@ If you do not have a uterus, you do not need a progestin and you should not take
 Do not take Jinteli if you:
 
 - 
-  - have unusual vaginal bleeding
+  - •have unusual vaginal bleeding
 
 Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb).
 Your healthcare provider should check any unusual vaginal bleeding to find out the cause.
 
 - 
-  - currently have or have had certain cancers.
+  - •currently have or have had certain cancers.
 
 Estrogens may increase the chance of getting certain types of cancers, including cancer of the breast or uterus.
 If you have or have had cancer, talk with your healthcare provider about whether you should take Jinteli.
 
 - 
-  - had a stroke or heart attack
-  - currently have or have had blood clots
-  - currently have or have had liver problems
-  - have been diagnosed with a bleeding disorder
-  - are allergic to Jinteli or any of its ingredients.
+  - •had a stroke or heart attack
+  - •currently have or have had blood clots
+  - •currently have or have had liver problems
+  - •have been diagnosed with a bleeding disorder
+  - •are allergic to Jinteli or any of its ingredients.
 
 See the list of ingredients in Jinteli at the end of this leaflet.
 
 - 
-  - think you may be pregnant
+  - •think you may be pregnant
 
 Jinteli is not for pregnant women.
 If you think you may be pregnant, you should have a pregnancy test and know the results.
@@ -76,17 +76,17 @@ What should I tell my healthcare provider before I take Jinteli?
 Before you take Jinteli, tell your healthcare provider if you:
 
 - 
-  - have any unusual vaginal bleeding
+  - •have any unusual vaginal bleeding
 - Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb).
   Your healthcare provider should check any unusual vaginal bleeding to find out the cause.
-  1. have any other medical conditions
+  1. • have any other medical conditions
 
 Your healthcare provider may need to check you more carefully if you have certain conditions, such as asthma (wheezing), epilepsy (seizures), diabetes, migraine, endometriosis, lupus, angioedema (swelling of face and tongue), or problems with your heart, liver, thyroid, kidneys, or have high calcium levels in your blood.
 
 - 
-  - are going to have surgery or will be on bed rest
-- Your healthcare provider will let you know if you need to stop taking Jinteli
-  1. are breastfeeding
+  - •are going to have surgery or will be on bed rest
+- Your healthcare provider will let you know if you need to stop taking Jinteli.
+  1. •are breastfeeding
 - The hormones in Jinteli can pass into your breast milk.
 
 Tell your healthcare provider about all the medicines you take,
@@ -99,9 +99,9 @@ Keep a list of your medicines and show it to your healthcare provider and pharma
 How should I take Jinteli?
 
 - 
-  - Take Jinteli exactly as your healthcare provider tells you to take it.
-  - Take 1 Jinteli tablet at the same time each day.
-  - You and your healthcare provider should talk regularly (every 3 to 6 months) about the dose you are taking and whether or not you still need treatment with Jinteli.
+  - •Take Jinteli exactly as your healthcare provider tells you to take it.
+  - •Take 1 Jinteli tablet at the same time each day.
+  - •You and your healthcare provider should talk regularly (every 3 to 6 months) about the dose you are taking and whether or not you still need treatment with Jinteli.
 
 What are the possible side effects of Jinteli?
 
@@ -110,39 +110,39 @@ Side effects are grouped by how serious they are and how often they happen when 
 Serious, but less common side effects include:
 
 - 
-  - heart attack
-  - stroke
-  - blood clots
-  - dementia
-  - breast cancer
-  - cancer of the lining of the uterus (womb)
-  - cancer of the ovary
-  - high blood pressure
-  - high blood sugar
-  - gallbladder disease
-  - liver problems
-  - changes in your thyroid hormone levels
-  - enlargement of benign tumors of the uterus (“fibroids”)
+  - •heart attack
+  - •stroke
+  - •blood clots
+  - •dementia
+  - •breast cancer
+  - •cancer of the lining of the uterus (womb)
+  - •cancer of the ovary
+  - •high blood pressure
+  - •high blood sugar
+  - •gallbladder disease
+  - •liver problems
+  - •changes in your thyroid hormone levels
+  - •enlargement of benign tumors of the uterus (“fibroids”)
 
 Call your healthcare provider right away if you get any of the following warning signs or any other unusual symptoms that concern you:
 
 - 
-  - new breast lumps
-  - unusual vaginal bleeding
-  - changes in vision or speech
-  - sudden new severe headaches
-  - severe pains in your chest or legs with or without shortness of breath, weakness and fatigue
+  - •new breast lumps
+  - •unusual vaginal bleeding
+  - •changes in vision or speech
+  - •sudden new severe headaches
+  - •severe pains in your chest or legs with or without shortness of breath, weakness and fatigue
 
 Less serious, but common side effects include:
 
 - 
-  - headache
-  - breast pain
-  - irregular vaginal bleeding or spotting
-  - stomach or abdominal cramps, bloating
-  - hair loss
-  - fluid retention
-  - vaginal yeast infection
+  - •headache
+  - •breast pain
+  - •irregular vaginal bleeding or spotting
+  - •stomach or abdominal cramps, bloating
+  - •hair loss
+  - •fluid retention
+  - •vaginal yeast infection
 
 These are not all the possible side effects of Jinteli.
 For more information, ask your healthcare provider or pharmacist.
@@ -166,7 +166,7 @@ Ask your healthcare provider for ways to lower your chances of getting heart dis
 How should I store Jinteli?
 
 - 
-  - Store Jinteli at room temperature between 20° to 25°C (68° to 77°F).
+  - •Store Jinteli at room temperature between 20° to 25°C (68° to 77°F).
 
 Keep Jinteli out of the reach of children.
 
@@ -185,7 +185,7 @@ For more information call 1-888-838-2872.
 
 What are the ingredients in Jinteli?
 
-Active Ingredients: norethindrone acetate, USP and ethinyl estradiol, USP
+Active Ingredients: norethindrone acetate and ethinyl estradiol
 
 Inactive Ingredients: calcium stearate, lactose monohydrate, microcrystalline cellulose, pregelatinized corn starch, and sodium starch glycolate
 
@@ -196,4 +196,4 @@ TEVA PHARMACEUTICALS USA, INC.
 North Wales, PA 19454
 
 Rev.
-B 12/2014
+C 2/2016

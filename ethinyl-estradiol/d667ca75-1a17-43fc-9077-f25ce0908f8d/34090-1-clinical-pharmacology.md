@@ -31,36 +31,36 @@ Currently, there is no pharmacodynamic data known for Jinteli.
 Absorption
 
 Norethindrone acetate (NA) is completely deacetylated to norethindrone after oral administration, and the disposition of norethindrone acetate is indistinguishable from that of orally administered norethindrone.
-Norethindrone acetate and ethinyl estradiol (EE) are absorbed from Jintelitablets, with maximum plasma concentrations of norethindrone and ethinyl estradiol generally occurring 1 to 2 hours postdose.
+Norethindrone acetate and ethinyl estradiol (EE) are absorbed from Jinteli tablets, with maximum plasma concentrations of norethindrone and ethinyl estradiol generally occurring 1 to 2 hours postdose.
 Both are subject to first-pass metabolism after oral dosing, resulting in an absolute bioavailability of approximately 64 percent for norethindrone and 55 percent for ethinyl estradiol.
-Bioavailability of Jintelitablets is similar to that from solution for norethindrone and slightly less for ethinyl estradiol.
+Bioavailability of Jinteli tablets is similar to that from solution for norethindrone and slightly less for ethinyl estradiol.
 Administration of Jinteli tablets with a high fat meal decreases rate but not extent of ethinyl estradiol absorption.
-The extent of norethindrone absorption is increased by 27 percent following administration of Jintelitablets with food.
+The extent of norethindrone absorption is increased by 27 percent following administration of Jinteli tablets with food.
 
-The full pharmacokinetic profile of Jintelitablets was not characterized due to assay sensitivity limitations.
+The full pharmacokinetic profile of Jinteli tablets was not characterized due to assay sensitivity limitations.
 However, the multiple-dose pharmacokinetics were studied at a dose of 1 mg NA/10 mcg EE in 18 postmenopausal women.
 Mean plasma concentrations are shown below (Figure 1) and pharmacokinetic parameters are found in Table 2.
 Based on a population pharmacokinetic analysis, mean steady-state concentrations of norethindrone for 1 mg NA/5 mcg EE and 1/10 are slightly more than proportional to dose when compared to 0.5 mg NA/2.5 mcg EE tablets.
 It can be explained by higher SHBG concentrations.
-Mean steady-state plasma concentrations of ethinyl estradiol for the Jinteli0.5/2.5 tablets and Jinteli1/5 tablets are proportional to dose, but there is a less than proportional increase in steady-state concentrations for the NA/EE 1/10 tablet.
+Mean steady-state plasma concentrations of ethinyl estradiol for the Jinteli 0.5/2.5 tablets and Jinteli 1/5 tablets are proportional to dose, but there is a less than proportional increase in steady-state concentrations for the NA/EE 1/10 tablet.
 
 Figure 1.
 Mean Steady-State (Day 87) Plasma Norethindrone and Ethinyl Estradiol
 
 Concentrations Following Continuous Oral Administration of 1 mg NA/10 mcg EE Tablets
 
-| Table 2. Mean (SD) Single-Dose (Day 1) and Steady-State (Day 87) Pharmacokinetic ParametersCmax = Maximum plasma concentrations; tmax = time of Cmax; AUC (0 to 24) = Area under the plasma concentration-time curve over the dosing interval; and CL/F = Apparent oral clearance; t1/2 = Elimination half-lifeFollowing Administration of 1 mg NA/10 mcg EE Tablets |  |  |  |  |  |
+| Table 2. Mean (SD) Single-Dose (Day 1) and Steady-State (Day 87) Pharmacokinetic ParametersCmax = Maximum plasma concentration; tmax = time of Cmax; AUC (0 to 24) = Area under the plasma concentration-time curve over the dosing interval; and CL/F = Apparent oral clearance; t1/2 = Elimination half-lifeFollowing Administration of 1 mg NA/10 mcg EE Tablets |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  | Cmax | tmax | AUC (0 to 24) | CL/F | t1/2 |
 | NORETHINDRONE | ng/mL | hr | ng·hr/mL | mL/min | hr |
-| Day 1Day 87 | 6 (3.3)10.7 (3.6) | 1.8 (0.8)1.8 (0.8) | 29.7 (16.5)81.8 (36.7) | 588 (416)226 (139) | 10.3 (3.7)13.3 (4.5) |
+| Day 1Day 87 | 6.0 (3.3)10.7 (3.6) | 1.8 (0.8)1.8 (0.8) | 29.7 (16.5)81.8 (36.7) | 588 (416)226 (139) | 10.3 (3.7)13.3 (4.5) |
 | ETHINYL ESTRADIOL | pg/mL | hr | pg·hr/mL | mL/min | hr |
-| Day 1Day 87 | 33.5 (13.7)38.3 (11.9) | 2.2 (1)1.8 (0.7) | 339 (113)471 (132) | NDND = Not Determined383 (119) | ND23.9 (7.1) |
+| Day 1Day 87 | 33.5 (13.7)38.3 (11.9) | 2.2 (1.0)1.8 (0.7) | 339 (113)471 (132) | NDND = Not determined383 (119) | ND23.9 (7.1) |
 
-Based on a population pharmacokinetic analysis, average steady-state concentrations (Css) of norethindrone and ethinyl estradiol for Jinteli1/5 tablets are estimated to be 2.6 ng/mL and 11.4 pg/mL, respectively.
-Css values of norethindrone and ethinyl estradiol for Jinteli0.5/2.5 tablets are estimated to be 1.1 ng/mL and 5.4 ng/mL, respectively.
+Based on a population pharmacokinetic analysis, average steady-state concentrations (Css) of norethindrone and ethinyl estradiol for Jinteli 1/5 tablets are estimated to be 2.6 ng/mL and 11.4 pg/mL, respectively.
+Css values of norethindrone and ethinyl estradiol for Jinteli 0.5/2.5 tablets are estimated to be 1.1 ng/mL and 5.4 ng/mL, respectively.
 
-The pharmacokinetics of ethinyl estradiol and norethindrone acetate were not affected by age, (age range 40 to 62 years), in the postmenopausal population studied.
+The pharmacokinetics of norethindrone acetate and ethinyl estradiol were not affected by age, (age range 40 to 62 years), in the postmenopausal population studied.
 
 Distribution
 
@@ -74,6 +74,22 @@ Although ethinyl estradiol does not bind to SHBG, it induces SHBG synthesis.
 
 Metabolism
 
+Exogenous estrogens are metabolized in the same manner as endogenous estrogens.
+Circulating estrogens exist in a dynamic equilibrium of metabolic interconversions.
+These transformations take place mainly in the liver.
+Estradiol is converted reversibly to estrone, and both can be converted to estriol, which is a major urinary metabolite.
+Estrogens also undergo enterohepatic recirculation via sulfate and glucuronide conjugation in the liver, biliary secretion of conjugates into the intestine, and hydrolysis in the intestine followed by reabsorption.
+In postmenopausal women, a significant proportion of the circulating estrogens exist as sulfate conjugates, especially estrone sulfate, which serves as a circulating reservoir for the formation of more active estrogens.
+
+Norethindrone undergoes extensive biotransformation, primarily via reduction, followed by sulfate and glucuronide conjugation.
+The majority of metabolites in the circulation are sulfates, with glucuronides accounting for most of the urinary metabolites.
+A small amount of norethindrone acetate is metabolically converted to ethinyl estradiol, such that exposure to ethinyl estradiol following administration of 1 mg of norethindrone acetate is equivalent to oral administration of 2.8 mcg ethinyl estradiol.
+Ethinyl estradiol is also extensively metabolized, both by oxidation and by conjugation with sulfate and glucuronide.
+Sulfates are the major circulating conjugates of ethinyl estradiol and glucuronides predominate in urine.
+The primary oxidative metabolite is 2-hydroxy ethinyl estradiol, formed by the CYP3A4 isoform of cytochrome P450.
+Part of the first-pass metabolism of ethinyl estradiol is believed to occur in gastrointestinal mucosa.
+Ethinyl estradiol may undergo enterohepatic circulation.
+
 Excretion
 
 Estradiol, estrone, and estriol are excreted in the urine along with glucuronide and sulfate conjugates.
@@ -83,3 +99,5 @@ Plasma clearance values for norethindrone and ethinyl estradiol are similar (app
 Steady-state elimination half-lives of norethindrone and ethinyl estradiol following administration of 1 mg NA/10 mcg EE tablets are approximately 13 hours and 24 hours, respectively.
 
 Use in Specific Populations
+
+No pharmacokinetic studies were conducted in specific populations, including women with renal or hepatic impairment.

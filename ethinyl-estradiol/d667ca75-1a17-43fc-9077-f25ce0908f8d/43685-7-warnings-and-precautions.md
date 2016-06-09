@@ -30,13 +30,13 @@ Subgroup analyses of women 50 to 59 years of age suggest a statistically non-sig
 In postmenopausal women with documented heart disease (n = 2,763), average 66.7 years of age, in a controlled clinical trial of secondary prevention of cardiovascular disease (Heart and Estrogen/Progestin Replacement Study [HERS]), treatment with daily CE (0.625 mg) plus MPA (2.5 mg) demonstrated no cardiovascular benefit.
 During an average follow-up of 4.1 years, treatment with CE plus MPA did not reduce the overall rate of CHD events in postmenopausal women with established CHD.
 There were more CHD events in the CE plus MPA-treated group than in the placebo group in year 1, but not during the subsequent years.
-Two thousand, three hundred and twenty one (2,321) women from the original HERS trial agreed to participate in an open label extension of HERS, HERS II.
+Two thousand, three hundred and twenty-one (2,321) women from the original HERS trial agreed to participate in an open label extension of HERS, HERS II.
 Average follow-up in HERS II was an additional 2.7 years, for a total of 6.8 years overall.
 Rates of CHD events were comparable among women in the CE plus MPA group and the placebo group in HERS, HERS II, and overall.
 
 Venous Thromboembolism
 
-In the WHI estrogen plus progestin substudy, a statistically significant 2 fold greater rate of VTE (DVT and PE) was reported in women receiving daily CE (0.625 mg) plus MPA (2.5 mg) compared to women receiving placebo (35 versus 17 per 10,000 women-years).
+In the WHI estrogen plus progestin substudy, a statistically significant 2-fold greater rate of VTE (DVT and PE) was reported in women receiving daily CE (0.625 mg) plus MPA (2.5 mg) compared to women receiving placebo (35 versus 17 per 10,000 women-years).
 Statistically significant increases in risk for both DVT (26 versus 13 per 10,000 women-years) and PE (18 versus 8 per 10,000 women-years) were also demonstrated.
 The increase in VTE risk was demonstrated during the first year and persisted3 [see Clinical Studies (14.5)].
 Should a VTE occur or be suspected, estrogen plus progestin therapy should be discontinued immediately.
@@ -62,7 +62,7 @@ Metastatic disease was rare with no apparent difference between the two groups.
 Other prognostic factors, such as histologic subtype, grade and hormone receptor status did not differ between the groups5 [see Clinical Studies (14.5)].
 
 The most important randomized clinical trial providing information about breast cancer in estrogen-alone users is the WHI substudy of daily CE (0.625 mg)-alone.
-In the WHI estrogen-alone substudy, after an average follow up of 7.1 years, daily CE-alone was not associated with an increased risk of invasive breast cancer (relative risk [RR] 0.8 [see Clinical Studies (14.5)].
+In the WHI estrogen-alone substudy, after an average follow up of 7.1 years, daily CE-alone was not associated with an increased risk of invasive breast cancer (relative risk [RR] 0.80 [see Clinical Studies (14.5)].
 
 Consistent with the WHI clinical trials, observational studies have also reported an increased risk of breast cancer for estrogen plus progestin therapy, and a smaller increased risk for estrogen-alone therapy, after several years of use.
 The risk increased with duration of use, and appeared to return to baseline over about 5 years after stopping treatment (only the observational studies have substantial data on risk after stopping).
@@ -81,7 +81,7 @@ Endometrial hyperplasia (a possible precursor of endometrial cancer) has been re
 An increased risk of endometrial cancer has been reported with the use of unopposed estrogen therapy in a woman with a uterus.
 The reported endometrial cancer risk among unopposed estrogen users is about 2 to 12 times greater than in non-users, and appears dependent on duration of treatment and on estrogen dose.
 Most studies show no significant increased risk associated with use of estrogens for less than 1 year.
-The greatest risk appears associated with prolonged use, with increased risks of 15 to 24 fold for 5 to 10 years or more.
+The greatest risk appears associated with prolonged use, with increased risks of 15- to 24-fold for 5 to 10 years or more.
 This risk has been shown to persist for at least 8 to 15 years after estrogen therapy is discontinued.
 
 Clinical surveillance of all women using estrogen-alone or estrogen plus progestin therapy is important.
@@ -113,12 +113,12 @@ The absolute risk of probable dementia for CE-alone versus placebo was 37 versus
 
 When data from the two populations in the WHIMS estrogen-alone and estrogen plus progestin ancillary studies were pooled as planned in the WHIMS protocol, the reported overall relative risk for probable dementia was
 
-1.76 (95 percent CI, 1.19 to 2.6).
+1.76 (95 percent CI, 1.19 to 2.60).
 Since both ancillary substudies were conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women8 [see Use in Specific Populations (8.5), and Clinical Studies (14.6)].
 
 ## 5.4 Gallbladder Disease
 
-A 2 to 4 fold increase in the risk of gallbladder disease requiring surgery in postmenopausal women receiving estrogens has been reported.
+A 2- to 4-fold increase in the risk of gallbladder disease requiring surgery in postmenopausal women receiving estrogens has been reported.
 
 ## 5.5 Hypercalcemia
 
@@ -197,7 +197,7 @@ Free T4 and free T3 concentrations are unaltered.
 Women on thyroid replacement therapy may require higher doses of thyroid hormone.
 
 Other binding proteins may be elevated in serum, for example, corticosteroid binding globulin (CBG), sex hormone-binding globulin (SHBG), leading to increased total circulating corticosteroids and sex steroids, respectively.
-Jinteli1/5 was associated with an SHBG increase of 22 percent.
+Jinteli 1/5 was associated with an SHBG increase of 22 percent.
 Free hormone concentrations, such as testosterone and estradiol, may be decreased.
 Other plasma proteins may be increased (angiotensinogen/renin substrate, alpha-1-antitrypsin, ceruloplasmin).
 

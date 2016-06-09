@@ -1,4 +1,4 @@
-WARNING: CARDIOVASCULAR DISORDERS, BREAST CANCER, ENDOMETRIAL CANCER AND PROBABLE DEMENTIA
+# WARNING: CARDIOVASCULAR DISORDERS, BREAST CANCER, ENDOMETRIAL CANCER AND PROBABLE DEMENTIA
 
 Estrogen Plus Progestin Therapy
 
@@ -23,8 +23,11 @@ Endometrial Cancer There is an increased risk of endometrial cancer in a woman w
 Adding a progestin to estrogen therapy has been shown to reduce the risk of endometrial hyperplasia, which may be a precursor to endometrial cancer.
 Adequate diagnostic measures, including directed or random endometrial sampling when indicated, should be undertaken to rule out malignancy in postmenopausal women with undiagnosed persistent or recurring abnormal genital bleeding [see Warnings and Precautions (5.2)].
 
-- 
-- Cardiovascular Disorders and Probable Dementia Estrogen-alone therapy should not be used for the prevention of cardiovascular disease or dementia [see Warnings and Precautions (5.1, 5.3), and Clinical Studies (14.5, 14.6)].
+1. 
+
+Cardiovascular Disorders and Probable Dementia
+
+Estrogen-alone therapy should not be used for the prevention of cardiovascular disease or dementia [see Warnings and Precautions (5.1, 5.3), and Clinical Studies (14.5, 14.6)].
 
 The WHI estrogen-alone substudy reported increased risks of stroke and DVT in postmenopausal women (50 to 79 years of age) during 7.1 years of treatment with daily oral CE (0.625 mg)-alone, relative to placebo [see Warnings and Precautions (5.1), and Clinical Studies (14.5)].
 

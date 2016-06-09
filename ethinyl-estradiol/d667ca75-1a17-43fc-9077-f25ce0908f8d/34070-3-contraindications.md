@@ -1,6 +1,6 @@
 # 4 CONTRAINDICATIONS
 
-Jinteliis contraindicated in women with any of the following conditions:
+Jinteli is contraindicated in women with any of the following conditions:
 
 - •Undiagnosed abnormal genital bleeding
 - •Known, suspected, or history of breast cancer
