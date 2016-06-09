@@ -8,7 +8,5 @@ It is a white to off white crystalline powder with a melting point range of 201 
 It is freely soluble in alcohol and chloroform, very soluble in water, and virtually insoluble in ether.
 The pH of a 1% solution ranges from 4.6 to 5.6.
 Inactive ingredients include hydroxypropyl cellulose, lactose monohydrate, and magnesium stearate.
-
-Gelatin capsule shells contain gelatin, purified water, sodium lauryl sulfate, and titanium dioxide..
-
-In addition to the ingredients listed above, each capsule contains iron oxide used in the black monogramming ink.
+Gelatin capsule shells contain: gelatin, monogramming ink, purified water, sodium lauryl sulfate and titanium dioxide.
+The monogramming ink contains: ammonium hydroxide, iron oxide, isopropyl alcohol, n-butyl alcohol, propylene glycol and shellac.

@@ -94,13 +94,11 @@ In one subject with lupus erythematosus receiving concomitant multiple drug ther
 In two other subjects receiving cevimeline in the clinical trials, very high AST levels were noted.
 The significance of these findings is unknown.
 
-Additional adverse events (relationship unknown) which occurred in other clinical studies (patient population different from Sjögren’s patients) are as follows:
-
-cholinergic syndrome, blood pressure fluctuation, cardiomegaly, postural hypotension, aphasia, convulsions, abnormal gait, hyperesthesia, paralysis, abnormal sexual function, enlarged abdomen, change in bowel habits, gum hyperplasia, intestinal obstruction, bundle branch block, increased creatine phosphokinase, electrolyte abnormality, glycosuria, gout, hyperkalemia, hyperproteinemia, increased lactic dehydrogenase (LDH), increased alkaline phosphatase, failure to thrive, abnormal platelets, aggressive reaction, amnesia, apathy, delirium, delusion, dementia, illusion, impotence, neurosis, paranoid reaction, personality disorder, hyperhemoglobinemia, apnea, atelectasis, yawning, oliguria, urinary retention, distended vein, lymphocytosis
+Additional adverse events (relationship unknown) which occurred in other clinical studies (patient population different from Sjögren’s patients) are as follows: cholinergic syndrome, blood pressure fluctuation, cardiomegaly, postural hypotension, aphasia, convulsions, abnormal gait, hyperesthesia, paralysis, abnormal sexual function, enlarged abdomen, change in bowel habits, gum hyperplasia, intestinal obstruction, bundle branch block, increased creatine phosphokinase, electrolyte abnormality, glycosuria, gout, hyperkalemia, hyperproteinemia, increased lactic dehydrogenase (LDH), increased alkaline phosphatase, failure to thrive, abnormal platelets, aggressive reaction, amnesia, apathy, delirium, delusion, dementia, illusion, impotence, neurosis, paranoid reaction, personality disorder, hyperhemoglobinemia, apnea, atelectasis, yawning, oliguria, urinary retention, distended vein, lymphocytosis.
 
 The following adverse reaction has been identified during post-approval use of cevimeline.
 Because post-marketing adverse reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 ## Post-Marketing Adverse Events
 
-Liver and Biliary System Disorders: cholecystitis
+Liver and Biliary System Disorders:cholecystitis

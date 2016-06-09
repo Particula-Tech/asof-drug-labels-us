@@ -52,7 +52,7 @@ No other significant differences in tumor incidence were observed in either mice
 
 Cevimeline exhibited no evidence of mutagenicity or clastogenicity in a battery of assays that included an Ames test, an in vitro chromosomal aberration study in mammalian cells, a mouse lymphoma study in L5178Y cells, or a micronucleus assay conducted in vivo in ICR mice.
 
-Cevimeline did not adversely affect the reproductive performance or fertility of male Sprague- Dawley rats when administered for 63 days prior to mating and throughout the period of mating at dosages up to 45 mg/kg/day (approximately 5 times the maximum recommended dose for a 60 kg human following normalization of the data on the basis of body surface area estimates).
+Cevimeline did not adversely affect the reproductive performance or fertility of male Sprague-Dawley rats when administered for 63 days prior to mating and throughout the period of mating at dosages up to 45 mg/kg/day (approximately 5 times the maximum recommended dose for a 60 kg human following normalization of the data on the basis of body surface area estimates).
 Females that were treated with cevimeline at dosages up to 45 mg/kg/day from 14 days prior to mating through day seven of gestation exhibited a statistically significantly smaller number of implantations than did control animals.
 
 ## Pregnancy
