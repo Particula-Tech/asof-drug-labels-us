@@ -14,4 +14,6 @@ Medication Guide for Nonsteroidal Anti-Inflammatory Drugs (NSAIDs)
 | Manufactured for: Time-Cap Labs, Inc. 7 Michael Avenue, Farmingdale, NY 11735, USA Manufactured by: Marksans Pharma Ltd. Plot No. L-82, L-83, Verna Indl. Estate, Verna, GOA - 403 722, India |
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Revised: May 2016 All registered trademarks in this document are the property of their respective owners.
+Revised: May 2016
+
+All registered trademarks in this document are the property of their respective owners.
