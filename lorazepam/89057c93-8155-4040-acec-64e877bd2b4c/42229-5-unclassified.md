@@ -4,9 +4,7 @@ Manufactured by: MEDA Manufacturing GmbH Cologne, Germany D-51063
 
 For: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-Ativan® is a registered trademark of Valeant International Bermuda.
+Ativan is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
-Made in Germany
-
-011625 Rev.
-01/13
+9508100 Rev.
+10/15

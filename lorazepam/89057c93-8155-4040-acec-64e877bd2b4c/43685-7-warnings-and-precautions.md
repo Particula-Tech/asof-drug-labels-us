@@ -8,7 +8,7 @@ Use of benzodiazepines, including lorazepam, both used alone and in combination 
 
 Use of benzodiazepines, including lorazepam, may lead to physical and psychological dependence.
 
-As with all patients on CNS- depressant drugs, patients receiving lorazepam should be warned not to operate dangerous machinery or motor vehicles and that their tolerance for alcohol and other CNS depressants will be diminished.
+As with all patients on CNS-depressant drugs, patients receiving lorazepam should be warned not to operate dangerous machinery or motor vehicles and that their tolerance for alcohol and other CNS depressants will be diminished.
 
 ## Physical and Psychological Dependence
 
@@ -33,9 +33,10 @@ Lorazepam may have abuse potential, especially in patients with a history of dru
 
 # PRECAUTIONS
 
-In patients with depression, a possibility for suicide should be borne in mind; benzodiazepines should not be used in such patients without adequate anti-depressant therapy.
+In patients with depression, a possibility for suicide should be borne in mind; benzodiazepines should not be used in such patients without adequate antidepressant therapy.
 
-Lorazepam should be used with caution in patients with compromised respiratory function (e.g., COPD, sleep apnea syndrome).
+Lorazepam should be used with caution in patients with compromised respiratory function (e.g.
+COPD, sleep apnea syndrome).
 
 Elderly or debilitated patients may be more susceptible to the sedative effects of lorazepam.
 Therefore, these patients should be monitored frequently and have their dosage adjusted carefully according to patient response; the initial dosage should not exceed 2 mg.
@@ -65,7 +66,7 @@ To assure the safe and effective use of Ativan (lorazepam), patients should be i
 ## Essential Laboratory Tests
 
 Some patients on Ativan (lorazepam) have developed leukopenia, and some have had elevations of LDH.
-As with other benzodiazepines, periodic blood counts and liver-function tests are recommended for patients on long-term therapy.
+As with other benzodiazepines, periodic blood counts and liver function tests are recommended for patients on long-term therapy.
 
 ## Clinically Significant Drug Interactions
 
@@ -76,7 +77,7 @@ Concomitant use of clozapine and lorazepam may produce marked sedation, excessiv
 Concurrent administration of lorazepam with valproate results in increased plasma concentrations and reduced clearance of lorazepam.
 Lorazepam dosage should be reduced to approximately 50% when coadministered with valproate.
 
-Concurrent administration of lorazepam with probenecid may results in a more rapid onset or prolonged effect of lorazepam due to increased half-life and decreased total clearance.
+Concurrent administration of lorazepam with probenecid may result in a more rapid onset or prolonged effect of lorazepam due to increased half-life and decreased total clearance.
 Lorazepam dosage needs to be reduced by approximately 50% when coadministered with probenecid.
 
 The effects of probenecid and valproate on lorazepam may be due to inhibition of glucuronidation.
