@@ -2,52 +2,51 @@
 
 ## 14.1 Osteoarthritis
 
-Celecoxib has demonstrated significant reduction in joint pain compared to placebo.
-Celecoxib was evaluated for treatment of the signs and the symptoms of OA of the knee and hip in placebo- and active-controlled clinical trials of up to 12 weeks duration.
-In patients with OA, treatment with Celecoxib Capsules 100 mg twice daily or 200 mg once daily resulted in improvement in WOMAC (Western Ontario and McMaster Universities) osteoarthritis index, a composite of pain, stiffness, and functional measures in OA.
-In three 12-week studies of pain accompanying OA flare, Celecoxib Capsules doses of 100 mg twice daily and 200 mg twice daily provided significant reduction of pain within 24-48 hours of initiation of dosing.
-At doses of 100 mg twice daily or 200 mg twice daily the effectiveness of celecoxib was shown to be similar to that of naproxen 500 mg twice daily.
+Celecoxib capsules have demonstrated significant reduction in joint pain compared to placebo.
+Celecoxib capsules were evaluated for treatment of the signs and the symptoms of OA of the knee and hip in placebo- and active-controlled clinical trials of up to 12 weeks duration.
+In patients with OA, treatment with celecoxib capsules 100 mg twice daily or 200 mg once daily resulted in improvement in WOMAC (Western Ontario and McMaster Universities) osteoarthritis index, a composite of pain, stiffness, and functional measures in OA.
+In three 12-week studies of pain accompanying OA flare, celecoxib capsules doses of 100 mg twice daily and 200 mg twice daily provided significant reduction of pain within 24-48 hours of initiation of dosing.
+At doses of 100 mg twice daily or 200 mg twice daily the effectiveness of celecoxib capsules was shown to be similar to that of naproxen 500 mg twice daily.
 Doses of 200 mg twice daily provided no additional benefit above that seen with 100 mg twice daily.
 A total daily dose of 200 mg has been shown to be equally effective whether administered as 100 mg twice daily or 200 mg once daily.
 
 ## 14.2 Rheumatoid Arthritis
 
-Celecoxib Capsules has demonstrated significant reduction in joint tenderness/pain and joint swelling compared to placebo.
-Celecoxib Capsules was evaluated for treatment of the signs and symptoms of RA in placebo- and active-controlled clinical trials of up to 24 weeks in duration.
-Celecoxib was shown to be superior to placebo in these studies, using the ACR20 Responder Index, a composite of clinical, laboratory, and functional measures in RA.
-Celecoxib Capsules doses of 100 mg twice daily and 200 mg twice daily were similar in effectiveness and both were comparable to naproxen 500 mg twice daily.
+Celecoxib capsules have demonstrated significant reduction in joint tenderness/pain and joint swelling compared to placebo.
+Celecoxib capsules were evaluated for treatment of the signs and symptoms of RA in placebo- and active-controlled clinical trials of up to 24 weeks in duration.
+Celecoxib capsules were shown to be superior to placebo in these studies, using the ACR20 Responder Index, a composite of clinical, laboratory, and functional measures in RA.
+Celecoxib capsules doses of 100 mg twice daily and 200 mg twice daily were similar in effectiveness and both were comparable to naproxen 500 mg twice daily.
 
-Although Celecoxib Capsules 100 mg twice daily and 200 mg twice daily provided similar overall effectiveness, some patients derived additional benefit from the 200 mg twice daily dose.
+Although celecoxib capsules 100 mg twice daily and 200 mg twice daily provided similar overall effectiveness, some patients derived additional benefit from the 200 mg twice daily dose.
 Doses of 400 mg twice daily provided no additional benefit above that seen with 100-200 mg twice daily.
 
 ## 14.3 Juvenile Rheumatoid Arthritis
 
 In a 12-week, randomized, double-blind active-controlled, parallel-group, multicenter, non-inferiority study, patients from 2 years to 17 years of age with pauciarticular, polyarticular course JRA or systemic onset JRA (with currently inactive systemic features), received one of the following treatments: celecoxib 3 mg/kg (to a maximum of 150 mg) twice daily; celecoxib 6 mg/kg (to a maximum of 300 mg) twice daily; or naproxen 7.5 mg/kg (to a maximum of 500 mg) twice daily.
 The response rates were based upon the JRA Definition of Improvement greater than or equal to 30% (JRA DOI 30) criterion, which is a composite of clinical, laboratory, and functional measures of JRA.
-The JRA DOI 30 response rates at week 12 were 69%, 80% and 67% in the celecoxib 3 mg/kg BID, celecoxib 6 mg/kg BID, and naproxen 7.5 mg/kg BID treatment groups, respectively.
+The JRA DOI 30 response rates at week 12 were 69%, 80% and 67% in the celecoxib 3 mg/kg twice daily, celecoxib 6 mg/kg twice daily, and naproxen 7.5 mg/kg twice daily treatment groups, respectively.
 
-The efficacy and safety of celecoxib for JRA have not been studied beyond six months.
-The long-term cardiovascular toxicity in children exposed to celecoxib has not been evaluated and it is unknown if the long-term risk may be similar to that seen in adults exposed to celecoxib or other COX-2 selective and non-selective NSAIDs [(see Boxed Warning, Warnings and Precautions (5.12)].
+The efficacy and safety of celecoxib capsules for JRA have not been studied beyond six months.
+The long-term cardiovascular toxicity in children exposed to celecoxib capsules have not been evaluated and it is unknown if the long-term risk may be similar to that seen in adults exposed to celecoxib capsules or other COX-2 selective and non-selective NSAIDs [(see Boxed Warning, Warnings and Precautions (5.12)].
 
 ## 14.4 Ankylosing Spondylitis
 
-Celecoxib Capsules was evaluated in AS patients in two placebo- and active-controlled clinical trials of 6 and 12 weeks duration.
-
-Celecoxib Capsules at doses of 100 mg twice daily, 200 mg once daily and 400 mg once daily was shown to be statistically superior to placebo in these studies for all three co-primary efficacy measures assessing global pain intensity (Visual Analogue Scale), global disease activity (Visual Analogue Scale) and functional impairment (Bath Ankylosing Spondylitis Functional Index).
-In the 12-week study, there was no difference in the extent of improvement between the 200 mg and 400 mg Celecoxib Capsules doses in a comparison of mean change from baseline, but there was a greater percentage of patients who responded to Celecoxib Capsules 400 mg, 53%, than to Celecoxib Capsules 200 mg, 44%, using the Assessment in Ankylosing Spondylitis response criteria (ASAS 20).
+Celecoxib capsules were evaluated in AS patients in two placebo- and active-controlled clinical trials of 6 and 12 weeks duration.
+Celecoxib capsules at doses of 100 mg twice daily, 200 mg once daily and 400 mg once daily was shown to be statistically superior to placebo in these studies for all three co-primary efficacy measures assessing global pain intensity (Visual Analogue Scale), global disease activity (Visual Analogue Scale) and functional impairment (Bath Ankylosing Spondylitis Functional Index).
+In the 12-week study, there was no difference in the extent of improvement between the 200 mg and 400 mg celecoxib capsules doses in a comparison of mean change from baseline, but there was a greater percentage of patients who responded to celecoxib capsules 400 mg, 53%, than to celecoxib capsules 200 mg, 44%, using the Assessment in Ankylosing Spondylitis response criteria (ASAS 20).
 The ASAS 20 defines a responder as improvement from baseline of at least 20% and an absolute improvement of at least 10 mm, on a 0 to 100 mm scale, in at least three of the four following domains: patient global pain, Bath Ankylosing Spondylitis Functional Index, and inflammation.
 The responder analysis also demonstrated no change in the responder rates beyond 6 weeks.
 
 ## 14.5 Analgesia, including Primary Dysmenorrhea
 
-In acute analgesic models of post-oral surgery pain, post-orthopedic surgical pain, and primary dysmenorrhea, Celecoxib relieved pain that was rated by patients as moderate to severe.
-Single doses [see Dosage and Administration (2.5)] of Celecoxib provided pain relief within 60 minutes.
+In acute analgesic models of post-oral surgery pain, post-orthopedic surgical pain, and primary dysmenorrhea, celecoxib capsules relieved pain that was rated by patients as moderate to severe.
+Single doses [see Dosage and Administration (2.6)] of celecoxib capsules provided pain relief within 60 minutes.
 
 ## 14.6 Special Studies
 
-Adenomatous Polyp Prevention Studies:
+Adenomatous Polyp Prevention Studies
 
-Cardiovascular safety was evaluated in two randomized, double-blind, placebo-controlled, three year studies involving patients with Sporadic Adenomatous Polyps treated with Celecoxib Capsules: the APC trial (Adenoma Prevention with Celecoxib) and the PreSAP trial (Prevention of Spontaneous Adenomatous Polyps).
+Cardiovascular safety was evaluated in two randomized, double-blind, placebo-controlled, three year studies involving patients with Sporadic Adenomatous Polyps treated with celecoxib capsules: the APC trial (Adenoma Prevention with Celecoxib) and the PreSAP trial (Prevention of Spontaneous Adenomatous Polyps).
 In the APC trial, there was a dose-related increase in the composite endpoint (adjudicated) of cardiovascular death, myocardial infarction, or stroke with celecoxib compared to placebo over 3 years of treatment.
 The PreSAP trial did not demonstrate a statistically significant increased risk for the same composite endpoint (adjudicated):
 
@@ -60,23 +59,23 @@ The PreSAP trial did not demonstrate a statistically significant increased risk 
 Clinical trials of other COX-2 selective and non-selective NSAIDs of up to three-years duration have shown an increased risk of serious cardiovascular thrombotic events, myocardial infarction, and stroke, which can be fatal.
 As a result, all NSAIDs are considered potentially associated with this risk.
 
-Celecoxib Long-Term Arthritis Safety Study (CLASS):
+Celecoxib Long-Term Arthritis Safety Study (CLASS)
 
 This was a prospective, long-term, safety outcome study conducted post-marketing in approximately 5,800 OA patients and 2,200 RA patients.
-Patients received Celecoxib Capsules 400 mg twice daily (4-fold and 2-fold the recommended OA and RA doses, respectively), ibuprofen 800 mg three times daily or diclofenac 75 mg twice daily (common therapeutic doses).
-Median exposures for celecoxib (n = 3,987) and diclofenac (n = 1,996) were 9 months while ibuprofen (n = 1,985) was 6 months.
+Patients received celecoxib capsules 400 mg twice daily (4-fold and 2-fold the recommended OA and RA doses, respectively), ibuprofen 800 mg three times daily or diclofenac 75 mg twice daily (common therapeutic doses).
+Median exposures for celecoxib capsules (n=3,987) and diclofenac (n=1,996) were 9 months while ibuprofen (n=1,985) was 6 months.
 The primary endpoint of this outcome study was the incidence of complicated ulcers (gastrointestinal bleeding, perforation or obstruction).
-Patients were allowed to take concomitant low-dose (£ 325 mg/day) aspirin (ASA) for cardiovascular prophylaxis (ASA subgroups: celecoxib, n = 882; diclofenac, n = 445; ibuprofen, n = 412).
-Differences in the incidence of complicated ulcers between celecoxib and the combined group of ibuprofen and diclofenac were not statistically significant.
+Patients were allowed to take concomitant low-dose (325 mg/day) aspirin (ASA) for cardiovascular prophylaxis (ASA subgroups: celecoxib capsules, n=882; diclofenac, n=445; ibuprofen, n=412).
+Differences in the incidence of complicated ulcers between celecoxib capsules and the combined group of ibuprofen and diclofenac were not statistically significant.
 
-Patients on celecoxib and concomitant low-dose ASA (N=882) experienced 4-fold higher rates of complicated ulcers compared to those not on ASA (N=3105).
-The Kaplan-Meier rate for complicated ulcers at 9 months was 1.12% versus 0.32% for those on low dose ASA and those not on ASA, respectively [see Warnings and Precautions (5.4)].
+Patients on celecoxib capsules and concomitant low-dose ASA (N=882) experienced 4-fold higher rates of complicated ulcers compared to those not on ASA (N=3105).
+The Kaplan-Meier rate for complicated ulcers at 9 months was 1.12% versus 0.32% for those on low-dose ASA and those not on ASA, respectively [see Warnings and Precautions (5.2)].
 
-The estimated cumulative rates at 9 months of complicated and symptomatic ulcers for patients treated with Celecoxib Capsules 400 mg twice daily are described in Table 4.
+The estimated cumulative rates at 9 months of complicated and symptomatic ulcers for patients treated with celecoxib capsules 400 mg twice daily are described in Table 4.
 Table 4 also displays results for patients less than or greater than 65 years of age.
-The difference in rates between celecoxib alone and celecoxib with ASA groups may be due to the higher risk for GI events in ASA users.
+The difference in rates between celecoxib capsules alone and celecoxib capsules with ASA groups may be due to the higher risk for GI events in ASA users.
 
-Table 4: Complicated and Symptomatic Ulcer Rates in Patients Taking Celecoxib Capsules 400 mg Twice Daily (Kaplan-Meier Rates at 9 months [%]) Based on Risk Factors
+Table 5: Complicated and Symptomatic Ulcer Rates in Patients Taking Celecoxib Capsules 400 mg Twice Daily (Kaplan-Meier Rates at 9 months [%]) Based on Risk Factors
 
 | All Patients |  |
 | --- | --- |
@@ -89,8 +88,8 @@ Table 4: Complicated and Symptomatic Ulcer Rates in Patients Taking Celecoxib Ca
 | Celecoxib alone (n=1080) | 1.40 |
 | Celecoxib with ASA (n=479) | 3.06 |
 
-In a small number of patients with a history of ulcer disease, the complicated and symptomatic ulcer rates in patients taking celecoxib alone or celecoxib with ASA were, respectively, 2.56% (n=243) and 6.85% (n=91) at 48 weeks.
-These results are to be expected in patients with a prior history of ulcer disease [see Warnings and Precautions (5.4) and Adverse Reactions (6.1)].
+In a small number of patients with a history of ulcer disease, the complicated and symptomatic ulcer rates in patients taking celecoxib capsules alone or celecoxib capsules with ASA were, respectively, 2.56% (n=243) and 6.85% (n=91) at 48 weeks.
+These results are to be expected in patients with a prior history of ulcer disease [see Warnings and Precautions (5.2) and Adverse Reactions (6.1)].
 
 Cardiovascular safety outcomes were also evaluated in the CLASS trial.
 Kaplan-Meier cumulative rates for investigator-reported serious cardiovascular thromboembolic adverse events (including MI, pulmonary embolism, deep venous thrombosis, unstable angina, transient ischemic attacks, and ischemic cerebrovascular accidents) demonstrated no differences between the celecoxib, diclofenac, or ibuprofen treatment groups.
@@ -99,18 +98,20 @@ The cumulative rates in non-ASA users at nine months in each of the three treatm
 The cumulative rates for myocardial infarction in non-ASA users at nine months in each of the three treatment groups were less than 0.2%.
 There was no placebo group in the CLASS trial, which limits the ability to determine whether the three drugs tested had no increased risk of CV events or if they all increased the risk to a similar degree.
 
-Endoscopic Studies: The correlation between findings of short-term endoscopic studies with Celecoxib Capsules and the relative incidence of clinically significant serious upper GI events with long-term use has not been established.
-Serious clinically significant upper GI bleeding has been observed in patients receiving Celecoxib Capsules in controlled and open-labeled trials [see Warnings and Precautions (5.4) and Clinical Studies (14.6)]
+Endoscopic Studies
+
+The correlation between findings of short-term endoscopic studies with celecoxib capsules and the relative incidence of clinically significant serious upper GI events with long-term use has not been established.
+Serious clinically significant upper GI bleeding has been observed in patients receiving celecoxib capsules in controlled and open-labeled trials [see Warnings and Precautions (5.2) and Clinical Studies (14.6)].
 
 A randomized, double-blind study in 430 RA patients was conducted in which an endoscopic examination was performed at 6 months.
-The incidence of endoscopic ulcers in patients taking Celecoxib Capsules 200 mg twice daily was 4% vs. 15% for patients taking diclofenac SR 75 mg twice daily.
-However, Celecoxib was not statistically different than diclofenac for clinically relevant GI outcomes in the CLASS trial [see Clinical Studies (14.6)].
+The incidence of endoscopic ulcers in patients taking celecoxib capsules 200 mg twice daily was 4% vs. 15% for patients taking diclofenac SR 75 mg twice daily.
+However, celecoxib capsules was not statistically different than diclofenac for clinically relevant GI outcomes in the CLASS trial [see Clinical Studies (14.6)].
 
 The incidence of endoscopic ulcers was studied in two 12-week, placebo-controlled studies in 2157 OA and RA patients in whom baseline endoscopies revealed no ulcers.
-There was no dose relationship for the incidence of gastroduodenal ulcers and the dose of Celecoxib Capsules (50 mg to 400 mg twice daily).
-The incidence for naproxen 500 mg twice daily was 16.2 and 17.6% in the two studies, for placebo was 2.0 and 2.3%, and for all doses of Celecoxib Capsules the incidence ranged between 2.7%-5.9%.
-There have been no large, clinical outcome studies to compare clinically relevant GI outcomes with Celecoxib Capsules and naproxen.
+There was no dose relationship for the incidence of gastroduodenal ulcers and the dose of celecoxib capsules (50 mg to 400 mg twice daily).
+The incidence for naproxen 500 mg twice daily was 16.2 and 17.6% in the two studies, for placebo was 2.0 and 2.3%, and for all doses of celecoxib capsules the incidence ranged between 2.7%-5.9%.
+There have been no large, clinical outcome studies to compare clinically relevant GI outcomes with celecoxib and naproxen.
 
-In the endoscopic studies, approximately 11% of patients were taking aspirin (£ 325 mg/day).
-In the celecoxib groups, the endoscopic ulcer rate appeared to be higher in aspirin users than in non-users.
+In the endoscopic studies, approximately 11% of patients were taking aspirin (325 mg/day).
+In the celecoxib capsule groups, the endoscopic ulcer rate appeared to be higher in aspirin users than in non-users.
 However, the increased rate of ulcers in these aspirin users was less than the endoscopic ulcer rates observed in the active comparator groups, with or without aspirin.
