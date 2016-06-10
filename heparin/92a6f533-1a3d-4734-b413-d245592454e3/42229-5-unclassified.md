@@ -1,69 +1,7 @@
-Do not admix with other drugs.
-
 Rx only
-
-Revised: September 2013
 
 EXCEL is a registered trademark of B. Braun Medical Inc.
 
-# Directions for Use of EXCEL® Container
+B. Braun Medical Inc. Bethlehem, PA 18018-3524 USA 1-800-227-2862
 
-Do not admix with other drugs.
-
-Caution: Do not use plastic container in series connection.
-
-## To Open
-
-Tear overwrap down at notch and remove solution container.
-Check for minute leaks by squeezing solution container firmly.
-If leaks are found, discard solution as sterility may be impaired.
-
-| NOTE: | Before use, perform the following checks: |
-| --- | --- |
-|  | Inspect each container. Read the label. Ensure solution is the one ordered and is within the expiration date. |
-|  | Invert container and carefully inspect the solution in good light for cloudiness, haze, or particulate matter. Any container which is suspect should not be used. |
-|  | Use only if solution is clear and container and seals are intact. |
-
-## Preparation for Administration
-
-1. Remove plastic protector from sterile set port at bottom of container.
-2. Attach administration set.
-   Refer to complete directions accompanying set.
-
-B. Braun Medical Inc. Irvine, CA 92614-5895 USA 1-800-227-2862 www.bbraun.com Made in USA
-
-Y36-002-847 LD-239-5
-
-# PRINCIPAL DISPLAY PANEL - 250 mL Container Label
-
-HEPARIN SODIUM 25,000 USP units per 250 mL (100 USP units per mL) in 5% Dextrose Injection
-
-NDC 0264-9587-20 250 mL EXCEL® CONTAINER
-
-25,000 USP units per 250 mL (100 USP units per mL) HEPARIN
-
-LD-310-2 Y94-003-165
-
-Each 100 mL contains: Heparin Sodium USP (porcine intestinal mucosa) 10,000 USP Heparin units; Hydrous Dextrose USP 5 g; Dibasic Sodium Phosphate•7H2O USP 0.41 g; Citric Acid Anhydrous USP 0.093 g; Sodium Metabisulfite NF (antioxidant) <0.07 g Water for Injection USP qs
-
-Electrolytes (mEq/liter): Sodium 38 Phosphate (HPO) 30; Citrate 15
-
-WARNING: CONTAINS SULFITES.
-Do not admix with other drugs.
-
-Sterile.
-Single dose container.
-
-For intravenous use only.
-
-Recommended Storage: Room temperature (25°C).
-Avoid excessive heat.
-Protect from freezing.
-See Package Insert.
-Do not remove overwrap until ready for use.
-
-REF P5872 Rx only B. Braun Medical Inc. Irvine, CA 92614-5895 USA Made in USA
-
-LD-309-2 Y94-003-164
-
-EXP LOT
+Y36-002-900 LD-239-8

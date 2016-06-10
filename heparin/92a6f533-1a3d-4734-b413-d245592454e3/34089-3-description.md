@@ -1,36 +1,22 @@
-# DESCRIPTION
+# 11 DESCRIPTION
+
+Heparin is a heterogenous group of straight-chain anionic mucopolysaccharides, called glycosaminoglycans having anticoagulant properties.
+It is composed of polymers of alternating derivations of alpha-L-iduronic acid 2-sulfate (1), 2-deoxy-2-sulfamino- alpha-D-glucose 6-sulfate (2), beta-D-glucuronic acid (3), 2-acetamido-2- deoxy-alpha-D-glucose (4), and alpha-L-iduronic acid (5).
+
+Structure of Heparin Sodium (representative subunits):
 
 Heparin Sodium in 5% Dextrose Injection is a sterile, nonpyrogenic solution prepared from heparin sodium (derived from porcine intestinal mucosa and standardized for use as an anticoagulant) and Hydrous Dextrose USP in Water for Injection USP.
 It is to be administered by intravenous injection.
 The potency is determined by a biological assay using a USP reference standard based on units of heparin activity per milligram.
 
-Heparin is a heterogenous group of straight-chain anionic mucopolysaccharides, called glycosaminoglycans having anticoagulant properties.
-Although others may be present, the main sugars occurring in heparin are: (1) alpha-L-iduronic acid 2-sulfate, (2) 2-deoxy-2-sulfamino-alpha-D-glucose 6-sulfate, (3) beta-D-glucuronic acid, (4) 2-acetamido-2-deoxy-alpha-D-glucose, and (5) alpha-L-iduronic acid.
-These sugars are present in decreasing amounts, usually in the order (2) > (1) > (4) > (3) > (5), and are joined by glycosidic linkages, forming polymers of varying sizes.
-Heparin is strongly acidic because of its content of covalently linked sulfate and carboxylic acid groups.
-In heparin sodium, the acidic protons of the sulfate units are partially replaced by sodium ions.
+The pH range is 5.6 (4.5 – 7.0) and the osmolarity mOsmol/L (calc.) is 315.
+The concentration of electrolytes is 38 mEq/L Sodium, 30 mEq/L Phosphate, and 15 mEq/L Citrate.
 
-(See chart below for quantitative information.)
+40 USP units/mL: Each 100 mL of the 20,000 USP units per 500 mL preparation contains: 4,000 USP units of heparin sodium, 5 g Hydrous Dextrose USP, 0.41 g Dibasic Sodium Phosphate, 0.093 g Citric Acid Anhydrous USP, 0.0686 g Sodium Metabisulfite NF (antioxidant), and Water for Injection USP until quantity sufficient.
 
-| Structure of Heparin Sodium (representative subunits): | Structure of Hydrous Dextrose USP: |
-| --- | --- |
+50 USP units/mL: Each 100 mL of the 25,000 USP units per 500 mL preparation contains: 5,000 USP units of heparin sodium, 5 g Hydrous Dextrose USP, 0.41 g Dibasic Sodium Phosphate, 0.093 g Citric Acid Anhydrous USP, 0.0686 g Sodium Metabisulfite NF (antioxidant), and Water for Injection USP until quantity sufficient.
 
-| Solution | Heparin Sodium USP | Hydrous Dextrose USP | Dibasic Sodium Phosphate Heptahydrate USP | Citric Acid Anhydrous USP | Sodium | Phosphate | Citrate |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Composition – Each 100 mL Contains: |  |  |  |  | Concentration of Electrolytes (mEq/liter) |  |  | pH | Calculated Osmolarity mOsmol/liter |
-| Heparin Sodium 20,000 USP units per 500 mL (40 USP units per mL) in 5% Dextrose Injection | 4,000 USP units | 5 g | 0.41 g | 0.093 g | 38 | 30 | 15 | 5.6 (4.5–7.0) | 315 |
-| Heparin Sodium 25,000 USP units per 500 mL (50 USP units per mL) in 5% Dextrose Injection | 5,000 USP units | 5 g | 0.41 g | 0.093 g | 38 | 30 | 15 | 5.6 (4.5–7.0) | 315 |
-| Heparin Sodium 25,000 USP units per 250 mL (100 USP units per mL) in 5% Dextrose Injection | 10,000 USP units | 5 g | 0.41 g | 0.093 g | 38 | 30 | 15 | 5.6 (4.5–7.0) | 315 |
-| Sodium Metabisulfite NF (antioxidant) <0.07 g Water for Injection USP qs |  |  |  |  |  |  |  |  |  |
-
-The formulas of the inactive ingredients are:
-
-| Ingredients | Molecular Formula | Molecular Weight |
-| --- | --- | --- |
-| Dibasic Sodium Phosphate Heptahydrate USP | Na2HPO4•7H2O | 268.07 |
-| Citric Acid Anhydrous USP | CH2(COOH)C(OH)(COOH)CH2COOH | 192.12 |
-
-Not made with natural rubber latex, PVC or DEHP.
+100 USP units/mL: Each 100 mL of the 25,000 USP units per 250 mL preparation contains: 10,000 USP units of heparin sodium, 5 g Hydrous Dextrose USP, 0.41 g Dibasic Sodium Phosphate, 0.093 g Citric Acid Anhydrous USP, 0.0686 g Sodium Metabisulfite NF (antioxidant), and Water for Injection USP until quantity sufficient.
 
 The plastic container is made from a multilayered film specifically developed for parenteral drugs.
 It contains no plasticizers and exhibits virtually no leachables.
@@ -39,5 +25,6 @@ The container is nontoxic and biologically inert.
 The container-solution unit is a closed system and is not dependent upon entry of external air during administration.
 The container is overwrapped to provide protection from the physical environment and to provide an additional moisture barrier when necessary.
 
+The plastic container is not made with natural rubber latex, PVC or DEHP.
+
 The closure system has two ports; the one for the administration set has a tamper evident plastic protector.
-Refer to the Directions for Use of the container.

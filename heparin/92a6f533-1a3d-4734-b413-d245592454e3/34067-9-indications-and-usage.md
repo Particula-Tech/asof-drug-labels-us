@@ -1,5 +1,10 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-Heparin Sodium in 5% Dextrose Injection is indicated as a continuous intravenous infusion following an initial intravenous therapeutic dose of heparin sodium.
+Heparin sodium is indicated for:
 
-Heparin Sodium Injection is indicated for anticoagulant therapy in prophylaxis and treatment of venous thrombosis and its extension; for prophylaxis and treatment of pulmonary embolism; in atrial fibrillation with embolization; for treatment of acute and chronic consumptive coagulopathies (disseminated intravascular coagulation); for prevention of clotting in arterial and heart surgery; and in prophylaxis and treatment of peripheral arterial embolism.
+- Prophylaxis and treatment of venous thrombosis and pulmonary embolism;
+- Prophylaxis and treatment of thromboembolic complications associated with atrial fibrillation;
+- Treatment of acute and chronic consumption coagulopathies (disseminated intravascular coagulation);
+- Prevention of clotting in arterial and cardiac surgery;
+- Prophylaxis and treatment of peripheral arterial embolism;
+- Anticoagulant use in blood transfusions, extracorporeal circulation, and dialysis procedures.
