@@ -2,7 +2,7 @@
 
 | NDC | Container | Concentration | Fill | Quantity |
 | --- | --- | --- | --- | --- |
-| 42998-402-01 | Ampul | 0.2 mg/mL | 1 mL | UNI-AMPTM pak of 25 |
+| 42998-402-01 | Ampul | 0.2 mg/mL | 1 mL | UNI-AMP TM pak of 25 |
 | 42998-402-05 | Ampul | 1 mg/5 mL (0.2 mg/mL) | 5 mL | 10 ampuls per carton |
 
 Protect from light.

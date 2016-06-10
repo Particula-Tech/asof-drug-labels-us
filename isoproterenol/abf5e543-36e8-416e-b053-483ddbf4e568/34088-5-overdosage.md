@@ -8,4 +8,4 @@ Blood pressure, pulse, respiration, and ECG should be monitored.
 
 It is not known whether isoproterenol hydrochloride is dialyzable.
 
-The oral LD50 of isoproterenol hydrochloride in mice is 3,850 mg/kg ± 1,190 mg/kg of pure drug in solution.
+The oral LD 50 of isoproterenol hydrochloride in mice is 3,850 mg/kg ± 1,190 mg/kg of pure drug in solution.

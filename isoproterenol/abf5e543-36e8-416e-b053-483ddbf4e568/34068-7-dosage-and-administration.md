@@ -20,10 +20,10 @@ There are no well-controlled studies in children to establish appropriate dosing
 
 Recommended dosage for adults with shock and hypoperfusion states:
 
-| Route of Administration | Preparation of Dilution† | Infusion Rate†† |
+| Route of Administration | Preparation of Dilution † | Infusion Rate †† |
 | --- | --- | --- |
 | Intravenous infusion | Dilute 5 mL (1 mg) in 500 mL of 5% Dextrose Injection, USP | 0.5 mcg to 5 mcg per minute(0.25 mL to 2.5 mL of diluted solution) |
-| † Concentrations up to 10 times greater have been used when limitation of volume is essential.†† Rates over 30 mcg per minute have been used in advanced stages of shock. The rate of infusion should be adjusted on the basis of heart rate, central venous pressure, systemic blood pressure, and urine flow. If the heart rate exceeds 110 beats per minute, it may be advisable to decrease or temporarily discontinue the infusion. |  |  |
+| † Concentrations up to 10 times greater have been used when limitation of volume is essential. †† Rates over 30 mcg per minute have been used in advanced stages of shock. The rate of infusion should be adjusted on the basis of heart rate, central venous pressure, systemic blood pressure, and urine flow. If the heart rate exceeds 110 beats per minute, it may be advisable to decrease or temporarily discontinue the infusion. |  |  |
 
 Recommended dosage for adults with bronchospasm occurring during anesthesia:
 
