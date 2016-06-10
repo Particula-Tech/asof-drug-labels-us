@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA208026"
+  ],
+  "inn": "linagliptin",
+  "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "0597-0270-12",
+    "0597-0270-73",
+    "0597-0270-94",
+    "0597-0275-33",
+    "0597-0275-81",
+    "0597-0275-88"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "linagliptin and metformin hydrochloride",
+      "name": "Jentadueto XR"
+    }
+  ],
+  "setid": "3d02a4d4-d312-80b4-05c4-691b8f0aa7aa",
+  "source": "dailymed"
+}
