@@ -42,7 +42,7 @@ Advise patients not to perform such tasks until they know how they will react to
 Anaphylaxis
 
 Inform patients that anaphylaxis has been reported with ingredients contained in BELBUCA.
-Advise patients how to recognize such a reaction and when to seek medical attention[see Warnings and Precautions (5.12)].
+Advise patients how to recognize such a reaction and when to seek medical attention [see Warnings and Precautions (5.12)].
 
 Pregnancy
 
@@ -76,7 +76,7 @@ To dispose of unused BELBUCA film, inform the patient to:
 2. Drop the BELBUCA films into toilet and flush.
 3. Discard foil packaging in trash.
 
-Instruct patients not to flush BELBUCA down the toilet in thefoil packages or cartons [see Dosage and Administration (2.8)].
+Instruct patients not to flush BELBUCA down the toilet in thefoil packages or cartons [s ee Dosage and Administration (2.8)].
 
 Healthcare professionals can telephone Endo Pharmaceuticals (1-800-462-3636) for information on this product.
 

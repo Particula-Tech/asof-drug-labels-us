@@ -1,6 +1,6 @@
 Medication Guide
 
-BELBUCATM (bel-BUE-kuh)
+BELBUCA TM (bel-BUE-kuh)
 
 (buprenorphine) buccal film, CIII
 

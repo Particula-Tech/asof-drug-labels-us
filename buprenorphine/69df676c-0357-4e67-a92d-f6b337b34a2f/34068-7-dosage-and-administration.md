@@ -108,4 +108,4 @@ To dispose of unused BELBUCA film:
 2. Drop the BELBUCA films into toilet and flush.
 3. Discard foil packaging in trash.
 
-Do not flush BELBUCA down the toilet in the foil packages or cartons [see Patient Counseling Information (17)].
+Do not flush BELBUCA down the toilet in the foil packages or cartons [s ee Patient Counseling Information (17)].

@@ -24,7 +24,7 @@ Contact local state professional licensing board or state controlled substances 
 Serious, life-threatening, or fatal respiratory depression has been reported with the use of buprenorphine, even when used as recommended.
 Respiratory depression, from opioid use, if not immediately recognized and treated, may lead to respiratory arrest and death.
 Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical status [see Overdosage (10)].
-Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
+Carbon dioxide (CO 2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
 
 While serious, life-threatening or fatal respiratory depression can occur at any time during the use of BELBUCA, the risk is greatest during initiation of therapy or following a dose increase.
 Closely monitor patients for respiratory depression when initiating therapy with BELBUCA and following dose increases.
@@ -82,7 +82,7 @@ Avoid the use of BELBUCA in patients with circulatory shock.
 
 ## 5.9 Risks of Use in Patients with Head Injury or Increased Intracranial Pressure
 
-In patients who may be susceptible to the intracranial effects of CO2 retention (e.g., those with evidence of increased intracranial pressure or brain tumors), BELBUCA may reduce respiratory drive, and the resultant CO2 retention can further increase intracranial pressure.
+In patients who may be susceptible to the intracranial effects of CO 2 retention (e.g., those with evidence of increased intracranial pressure or brain tumors), BELBUCA may reduce respiratory drive, and the resultant CO 2 retention can further increase intracranial pressure.
 Monitor such patients for signs of sedation and respiratory depression, particularly when initiating therapy with BELBUCA.
 
 Opioids may also obscure the clinical course in a patient with a head injury.
