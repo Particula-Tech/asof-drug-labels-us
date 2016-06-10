@@ -25,10 +25,10 @@ Neither dose of dolutegravir had a significant effect on the actual glomerular f
 
 The pharmacokinetic properties of dolutegravir have been evaluated in healthy adult subjects and HIV‑1–infected adult subjects.
 Exposure to dolutegravir was generally similar between healthy subjects and HIV‑1–infected subjects.
-The non-linear exposure of dolutegravir following 50 mg twice daily compared with 50 mg once daily in HIV‑1–infected subjects (Table 6) was attributed to the use of metabolic inducers in the background antiretroviral regimens of subjects receiving dolutegravir 50 mg twice daily in clinical trials.
+The non-linear exposure of dolutegravir following 50 mg twice daily compared with 50 mg once daily in HIV‑1–infected subjects (Table 7) was attributed to the use of metabolic inducers in the background antiretroviral regimens of subjects receiving dolutegravir 50 mg twice daily in clinical trials.
 TIVICAY was administered without regard to food in these trials.
 
-Table 6.
+Table 7.
 Dolutegravir Steady-State Pharmacokinetic Parameter Estimates in HIV‑1–Infected Adults
 
 | Parameter | 50 mg Once DailyGeometric Meana (%CV) | 50 mg Twice DailyGeometric Meanb (%CV) |
@@ -99,26 +99,27 @@ Race: Population analyses using pooled pharmacokinetic data from adult trials in
 
 Geriatric Patients: Population analyses using pooled pharmacokinetic data from adult trials indicated age had no clinically relevant effect on the pharmacokinetics of dolutegravir.
 
-Pediatric Patients: The pharmacokinetics of dolutegravir in HIV‑1–infected children (n = 10) aged 12 to less than 18 years were similar to those observed in HIV‑1–infected adults who received dolutegravir 50 mg once daily (Table 7) [see Clinical Studies (14.2)].
+Pediatric Patients: The pharmacokinetics of dolutegravir in HIV‑1–infected children (n = 17) weighing at least 30 kg were similar to those observed in HIV‑1–infected adults who received dolutegravir 50 mg once daily (Table 8) [see Clinical Studies (14.2)].
 
-Table 7.
+Table 8.
 Dolutegravir Steady-State Pharmacokinetic Parameters in Pediatric Subjects
 
-| Age/Weight | Dose of TIVICAYa | Dolutegravir Pharmacokinetic Parameter EstimatesGeometric Mean (%CV) |  |  |
+| Weight (n) | Dose of TIVICAY | Dolutegravir Pharmacokinetic Parameter EstimatesGeometric Mean (%CV) |  |  |
 | --- | --- | --- | --- | --- |
-| Cmax(mcg/mL)(n = 10) | AUC(0-24)(mcg.h/mL)(n = 10) | C24(mcg/mL)(n = 10) |  |  |
-| 12 to <18 years and ≥40 kg a | 50 mgonce daily | 3.49 (38) | 46 (43) | 0.90 (59) |
+| Cmax(mcg/mL) | AUC(0-24)(mcg.h/mL) | C24(mcg/mL) |  |  |
+| ≥40 kg (n = 14) | 50 mgonce daily | 3.89 (43) | 50.1 (53) | 0.99 (66) |
+| ≥30 to <40 kg (n = 3) | 35 mgonce daily | 4.40 (54) | 64.6 (64) | 1.33 (93) |
 
-aOne subject weighing 37 kg received TIVICAY 35 mg once daily.
+Population pharmacokinetic analyses demonstrate comparable exposures in children, at least 30 kg, dosed by weight-bands (35 mg or 50 mg of dolutegravir) to that observed in adults.
 
 Drug Interactions
 
 Drug interaction trials were performed with TIVICAY and other drugs likely to be coadministered or commonly used as probes for pharmacokinetic interactions.
-As dolutegravir is not expected to affect the pharmacokinetics of other drugs dependent on hepatic metabolism (Table 8) [see Drug Interactions (7.1)], the primary focus of these drug interaction trials was to evaluate the effect of coadministered drug on dolutegravir (Table 9).
+As dolutegravir is not expected to affect the pharmacokinetics of other drugs dependent on hepatic metabolism (Table 9) [see Drug Interactions (7.1)], the primary focus of these drug interaction trials was to evaluate the effect of coadministered drug on dolutegravir (Table 10).
 
-Dosing or regimen recommendations as a result of established and other potentially significant drug-drug interactions with TIVICAY are provided in Table 5 [see Dosage and Administration (2.1), Drug Interactions (7.3)].
+Dosing or regimen recommendations as a result of established and other potentially significant drug-drug interactions with TIVICAY are provided in Table 6 [see Dosage and Administration (2.1), Drug Interactions (7.3)].
 
-Table 8.
+Table 9.
 Summary of Effect of Dolutegravir on the Pharmacokinetics of Coadministered Drugs
 
 | Coadministered Drug(s)and Dose(s) | Dose of TIVICAY | n | Geometric Mean Ratio (90% CI) of Pharmacokinetic Parameters of Coadministered Drug with/without Dolutegravir No Effect = 1.00 |  |  |
@@ -136,7 +137,7 @@ Summary of Effect of Dolutegravir on the Pharmacokinetics of Coadministered Drug
 
 a The number of subjects represents the maximum number of subjects that were evaluated.
 
-Table 9.
+Table 10.
 Summary of Effect of Coadministered Drugs on the Pharmacokinetics of Dolutegravir
 
 | Coadministered Drug(s)and Dose(s) | Dose of TIVICAY | n | Geometric Mean Ratio (90% CI) of Dolutegravir Pharmacokinetic Parameters with/without Coadministered Drugs No Effect = 1.00 |  |  |
@@ -226,11 +227,11 @@ Response by Baseline Genotype
 
 Of the 183 subjects with baseline data, 30% harbored virus with a substitution at Q148, and 33% had no primary INSTI-resistance substitutions (T66A/I/K, E92Q/V, Y143R/C/H, Q148H/R/K, and N155H) at baseline, but had historical genotypic evidence of INSTI-resistance substitutions, phenotypic evidence of elvitegravir or raltegravir resistance, or genotypic evidence of INSTI-resistance substitutions at screening.
 
-Response rates by baseline genotype were analyzed in an “as-treated” analysis at Week 48 (n = 175) (Table 10).
-The response rate at Week 48 to dolutegravir-containing regimens was 47% (24 of 51) when Q148 substitutions were present at baseline; Q148 was always present with additional INSTI-resistance substitutions (see Table 10).
+Response rates by baseline genotype were analyzed in an “as-treated” analysis at Week 48 (n = 175) (Table 11).
+The response rate at Week 48 to dolutegravir-containing regimens was 47% (24 of 51) when Q148 substitutions were present at baseline; Q148 was always present with additional INSTI-resistance substitutions (see Table 11).
 In addition, a diminished virologic response of 40% (6 of 15) was observed when the substitution E157Q or K was present at baseline with other INSTI-resistance substitutions but without a Q148H or R substitution.
 
-Table 10.
+Table 11.
 Response by Baseline Integrase Genotype in Subjects with Prior Experience to an Integrase Strand Transfer Inhibitor in VIKING-3
 
 | Baseline Genotype | Week 48 (<50 copies/mL) n = 175 |
@@ -249,11 +250,11 @@ cThe most common pathway with Q148H/R + greater than or equal to 2 INSTI-resista
 
 Response by Baseline Phenotype
 
-Response rates by baseline phenotype were analyzed in an as-treated analysis using all subjects with available baseline phenotypes through Week 48 (n = 163) (see Table 11).
+Response rates by baseline phenotype were analyzed in an as-treated analysis using all subjects with available baseline phenotypes through Week 48 (n = 163) (see Table 12).
 These baseline phenotypic groups are based on subjects enrolled in VIKING-3 and are not meant to represent definitive clinical susceptibility cut points for dolutegravir.
 The data are provided to guide clinicians on the likelihood of virologic success based on pretreatment susceptibility to dolutegravir in INSTI-resistant patients.
 
-Table 11.
+Table 12.
 Response by Baseline Dolutegravir Phenotype (Fold-Change from Reference) in Subjects with Prior Experience to an Integrase Strand Transfer Inhibitor in VIKING-3
 
 | Baseline Dolutegravir Phenotype (Fold-Change from Reference) | Response at Week 48 (<50 copies/mL) Subset n = 163 |

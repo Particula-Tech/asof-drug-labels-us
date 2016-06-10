@@ -1,8 +1,8 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-TIVICAY tablets may be taken with or without food.
-
 ## 2.1 Adults
+
+TIVICAY tablets may be taken with or without food.
 
 Table 1.
 Dosing Recommendations for TIVICAY in Adult Patients
@@ -10,19 +10,27 @@ Dosing Recommendations for TIVICAY in Adult Patients
 | Population | Recommended Dose |
 | --- | --- |
 | Treatment-naïve or treatment-experienced INSTI-naïve | 50 mg once daily |
-| Treatment-naïve or treatment-experienced INSTI-naïve when coadministered with certain UGT1A or CYP3A inducers [see Drug Interactions (7.3) for relevant inducers] | 50 mg twice daily |
+| Treatment-naïve or treatment-experienced INSTI-naïve when coadministered with certain UGT1A or CYP3A inducers [see Drug Interactions (7.3)] | 50 mg twice daily |
 | INSTI-experienced with certain INSTI-associated resistance substitutions or clinically suspected INSTI resistancea [see Microbiology (12.4)] | 50 mg twice daily |
 
 a Alternative combinations that do not include metabolic inducers should be considered where possible [see Drug Interactions (7)].
 
-The safety and efficacy of doses above 50 mg twice daily have not been evaluated.
-
 ## 2.2 Pediatric Patients
+
+TIVICAY tablets may be taken with or without food.
 
 Treatment-Naïve or Treatment-Experienced INSTI-Naïve
 
-The recommended dose of TIVICAY in pediatric patients aged 12 years and older and weighing at least 40 kg is 50 mg administered orally once daily.
+The recommended dose of TIVICAY in pediatric patients weighing at least 30 kg is provided in Table 2.
 
-If certain UGT1A or CYP3A inducers are coadministered, then the recommended dose of TIVICAY is 50 mg twice daily [see Drug Interactions (7.3) for relevant inducers].
+Table 2.
+Dosing Recommendations for TIVICAY in Pediatric Patients Weighing at Least 30 kg
 
-Safety and efficacy of TIVICAY have not been established in pediatric patients younger than 12 years or weighing less than 40 kg, or in pediatric patients who are INSTI-experienced with documented or clinically suspected resistance to other INSTIs (raltegravir, elvitegravir).
+| Body Weight (kg) | Daily Dosea (Number of Tablets per Dose when Different Strength(s) are Required) |
+| --- | --- |
+| 30 to less than 40 | 35 mg once daily (One 25-mg tablet and one 10-mg tablet) |
+| 40 or greater | 50 mg once daily |
+
+a If certain UGT1A or CYP3A inducers are coadministered, then increase the weight-based dose of TIVICAY to twice daily [see Drug Interactions (7.3) for relevant inducers].
+
+Safety and efficacy of TIVICAY have not been established in pediatric patients who are INSTI-experienced with documented or clinically suspected resistance to other INSTIs (raltegravir, elvitegravir).

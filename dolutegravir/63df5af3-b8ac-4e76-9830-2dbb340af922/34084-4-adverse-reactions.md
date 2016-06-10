@@ -1,17 +1,17 @@
 # 6 ADVERSE REACTIONS
 
-The following adverse drug reactions (adverse events assessed as causally related by the investigator or ADRs) are discussed in other sections of the labeling:
+The following serious adverse drug reactions are discussed in other sections of the labeling:
 
 - •Hypersensitivity reactions [see Warnings and Precautions (5.1)].
 - •Effects on serum liver biochemistries in patients with hepatitis B or C co-infection [see Warnings and Precautions (5.2)].
 - •Fat Redistribution [see Warnings and Precautions (5.3)].
 - •Immune Reconstitution Syndrome [see Warnings and Precautions (5.4)].
 
-## 6.1 Clinical Trials Experience in Adult Subjects
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Treatment‑Emergent Adverse Drug Reactions (ADRs)
+Clinical Trials Experience in Adult Subjects
 
 Treatment-Naïve Subjects: The safety assessment of TIVICAY in HIV‑1‑infected treatment-naïve subjects is based on the analyses of data from 2 international, multicenter, double-blind trials, SPRING-2 (ING113086) and SINGLE (ING114467) and data from the international, multicenter, open-label FLAMINGO (ING114915) trial.
 
@@ -22,10 +22,10 @@ Through 96 weeks, the rate of adverse events leading to discontinuation was 2% i
 In SINGLE, 833 subjects were randomized and received at least 1 dose of either TIVICAY 50 mg with fixed-dose abacavir sulfate and lamivudine (EPZICOM) once daily or fixed-dose efavirenz/emtricitabine/tenofovir (ATRIPLA®) once daily (study treatment was blinded through Week 96 and open-label from Week 96 through Week 144).
 Through 144 weeks, the rates of adverse events leading to discontinuation were 4% in subjects receiving TIVICAY 50 mg once daily + EPZICOM and 14% in subjects receiving ATRIPLA once daily.
 
-Treatment-emergent ADRs of moderate to severe intensity observed in at least 2% of subjects in either treatment arm in SPRING-2 and SINGLE trials are provided in Table 2.
+Treatment-emergent adverse drug reactions (ADRs) of moderate to severe intensity observed in at least 2% of subjects in either treatment arm in SPRING-2 and SINGLE trials are provided in Table 3.
 Side-by-side tabulation is to simplify presentation; direct comparisons across trials should not be made due to differing trial designs.
 
-Table 2.
+Table 3.
 Treatment-Emergent Adverse Drug Reactions of at Least Moderate Intensity (Grades 2 to 4) and at Least 2% Frequency in Treatment-Naïve Subjects in SPRING-2 (Week 96 Analysis) and SINGLE Trials (Week 144 Analysis)
 
 | System Organ Class/ Preferred Term | SPRING-2 |  | SINGLE |  |
@@ -68,9 +68,7 @@ The rate of adverse events leading to discontinuation was 4% of subjects at Week
 
 Treatment-emergent ADRs in VIKING-3 were generally similar compared with observations with the 50-mg once-daily dose in adult Phase 3 trials.
 
-Less Common Adverse Reactions Observed in Treatment-Naïve and Treatment-Experienced Trials
-
-The following ADRs occurred in less than 2% of treatment-naïve or treatment-experienced subjects receiving TIVICAY in a combination regimen in any one trial.
+Less Common Adverse Reactions Observed in Treatment-Naïve and Treatment-Experienced Trials: The following ADRs occurred in less than 2% of treatment-naïve or treatment-experienced subjects receiving TIVICAY in a combination regimen in any one trial.
 These events have been included because of their seriousness and assessment of potential causal relationship.
 
 Gastrointestinal Disorders: Abdominal pain, abdominal discomfort, flatulence, upper abdominal pain, vomiting.
@@ -86,13 +84,13 @@ Renal and Urinary Disorders: Renal impairment.
 
 Skin and Subcutaneous Tissue Disorders: Pruritus.
 
-Laboratory Abnormalities
+Laboratory Abnormalities:
 
-Treatment-Naïve Subjects: Selected laboratory abnormalities (Grades 2 to 4) with a worsening grade from baseline and representing the worst-grade toxicity in at least 2% of subjects are presented in Table 3.
-The mean change from baseline observed for selected lipid values is presented in Table 4.
+Treatment-Naïve Subjects: Selected laboratory abnormalities (Grades 2 to 4) with a worsening grade from baseline and representing the worst-grade toxicity in at least 2% of subjects are presented in Table 4.
+The mean change from baseline observed for selected lipid values is presented in Table 5.
 Side-by-side tabulation is to simplify presentation; direct comparisons across trials should not be made due to differing trial designs.
 
-Table 3.
+Table 4.
 Selected Laboratory Abnormalities (Grades 2 to 4) in Treatment-Naïve Subjects in SPRING-2 (Week 96 Analysis) and SINGLE Trials (Week 144 Analysis)
 
 | Laboratory ParameterPreferred Term | SPRING-2 |  | SINGLE |  |
@@ -122,7 +120,7 @@ Selected Laboratory Abnormalities (Grades 2 to 4) in Treatment-Naïve Subjects i
 
 ULN = Upper limit of normal.
 
-Table 4.
+Table 5.
 Mean Change from Baseline in Fasted Lipid Values in Treatment-Naïve Subjects in SPRING-2 (Week 96 Analysisa) and SINGLE Trials (Week 144 Analysisa)
 
 | Laboratory ParameterPreferred Term | SPRING-2 |  | SINGLE |  |
@@ -148,20 +146,19 @@ Overall, the safety profile in subjects with hepatitis B and/or C virus co-infec
 Grades 2 to 4 ALT abnormalities in hepatitis B and/or C co-infected compared with HIV mono-infected subjects receiving TIVICAY were observed in 18% vs. 3% with the 50-mg once-daily dose and 13% vs. 8% with the 50-mg twice-daily dose.
 Liver chemistry elevations consistent with immune reconstitution syndrome were observed in some subjects with hepatitis B and/or C at the start of therapy with TIVICAY, particularly in the setting where anti-hepatitis therapy was withdrawn [see Warnings and Precautions (5.2)].
 
-Changes in Serum Creatinine
-
-Dolutegravir has been shown to increase serum creatinine due to inhibition of tubular secretion of creatinine without affecting renal glomerular function [see Clinical Pharmacology (12.2)].
+Changes in Serum Creatinine: Dolutegravir has been shown to increase serum creatinine due to inhibition of tubular secretion of creatinine without affecting renal glomerular function [see Clinical Pharmacology (12.2)].
 Increases in serum creatinine occurred within the first 4 weeks of treatment and remained stable through 96 weeks.
 In treatment-naïve subjects, a mean change from baseline of 0.15 mg per dL (range: -0.32 mg per dL to 0.65 mg per dL) was observed after 96 weeks of treatment.
 Creatinine increases were comparable by background NRTIs and were similar in treatment-experienced subjects.
 
-## 6.2 Clinical Trials Experience in Pediatric Subjects
+Clinical Trials Experience in Pediatric Subjects
 
-IMPAACT P1093 is an ongoing multicenter, open-label, non-comparative trial of approximately 160 HIV‑1‑infected pediatric subjects aged 6 weeks to less than 18 years, of which 23 treatment-experienced, INSTI-naïve subjects aged 12 to less than 18 years were enrolled [see Use in Specific Populations (8.4), Clinical Studies (14.2)].
+IMPAACT P1093 is an ongoing multicenter, open-label, non-comparative trial of approximately 160 HIV‑1‑infected pediatric subjects aged 4 weeks to less than 18 years, of which 46 treatment-experienced, INSTI-naïve subjects aged 6 to less than 18 years have been enrolled [see Use in Specific Populations (8.4), Clinical Studies (14.2)].
 
 The adverse reaction profile was similar to that for adults.
-Grade 2 ADRs reported in at least 1 subject were rash (n = 1), abdominal pain (n = 1), and diarrhea (n = 1).
-No Grade 3 or 4 ADRs were reported.
-The Grade 3 laboratory abnormalities were elevated total bilirubin and lipase reported in 1 subject each.
-No Grade 4 laboratory abnormalities were reported.
+Grade 2 ADRs reported by more than one subject were decreased neutrophil count (n = 3) and diarrhea (n = 2).
+There were no Grade 3 or 4 drug-related ADRs reported.
+No ADRs led to discontinuation.
+
+The Grade 3 or 4 laboratory abnormalities reported in more than one subject were elevated total bilirubin (n = 3) and decreased neutrophil count (n = 2).
 The changes in mean serum creatinine were similar to those observed in adults.

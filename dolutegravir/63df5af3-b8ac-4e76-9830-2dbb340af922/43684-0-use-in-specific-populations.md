@@ -2,39 +2,49 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category B. There are no adequate and well-controlled studies in pregnant women.
-Because animal reproduction studies are not always predictive of human response, and dolutegravir was shown to cross the placenta in animal studies, this drug should be used during pregnancy only if clearly needed.
+Pregnancy Exposure Registry
 
-Antiretroviral Pregnancy Registry
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to TIVICAY during pregnancy.
+Healthcare providers are encouraged to register patients by calling the Antiretroviral Pregnancy Registry (APR) at 1-800-258-4263.
 
-To monitor maternal-fetal outcomes of pregnant women with HIV exposed to TIVICAY and other antiretroviral agents, an Antiretroviral Pregnancy Registry has been established.
-Physicians are encouraged to register patients by calling 1-800-258-4263.
+Risk Summary
 
-Animal Data
+There are insufficient human data on the use of TIVICAY during pregnancy to inform a drug-associated risk of birth defects and miscarriage.
+Given the limited number of pregnancies exposed to dolutegravir-based regimens reported to the APR, no definitive conclusions can be drawn on the safety of TIVICAY in pregnancy, and continued monitoring is ongoing through the APR.
+The background rate for major birth defects in a U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP) is 2.7%.
+The estimated background rate of miscarriage in clinically recognized pregnancies in the U.S. general population is 15% to 20%.
+In animal reproduction studies, no evidence of adverse developmental outcomes was observed with dolutegravir [see Data].
+During organogenesis in the rat and rabbit, systemic exposures (AUC) to dolutegravir were less than (rabbits) and approximately 27 times (rats) the exposure in humans at the maximum recommended human dose (MRHD).
+In the rat pre/post-natal developmental study, maternal systemic exposure (AUC) to dolutegravir was approximately 27 times the exposure in humans at the MRHD.
 
-Reproduction studies have been performed in rats and rabbits at doses up to 27 times the human dose of 50 mg twice daily and have revealed no evidence of impaired fertility or harm to the fetus due to TIVICAY.
+Data
 
-Oral administration of dolutegravir to pregnant rats at doses up to 1,000 mg per kg daily, approximately 27 times the 50-mg twice-daily human clinical exposure based on AUC, from days 6 to 17 of gestation did not elicit maternal toxicity, developmental toxicity, or teratogenicity.
+Animal Data: Dolutegravir was administered orally at up to 1,000 mg per kg daily to pregnant rats and rabbits on gestation Days 6 to 17 and 6 to 18, respectively, and also to rats on gestation day 6 to lactation/post-partum Day 20.
+No adverse effects on embryo-fetal (rats and rabbits) or pre/post-natal (rats) development were observed at up to the highest dose tested.
+During organogenesis systemic exposures (AUC) to dolutegravir in rabbits were less than the exposure in humans at the maximum recommended human dose (MRHD) and in rats were approximately 27 times the exposure in humans at the MRHD.
+In the rat pre/post-natal development study, decreased body weight of the developing offspring was observed during lactation at a maternally toxic dose (approximately 27 times human exposure at the MRHD).
 
-Oral administration of dolutegravir to pregnant rabbits at doses up to 1,000 mg per kg daily, approximately 0.4 times the 50‑mg twice-daily human clinical exposure based on AUC, from days 6 to 18 of gestation did not elicit developmental toxicity or teratogenicity.
-In rabbits, maternal toxicity (decreased food consumption, scant/no feces/urine, suppressed body weight gain) was observed at 1,000 mg per kg.
+## 8.2 Lactation
 
-## 8.3 Nursing Mothers
+Risk Summary
 
 The Centers for Disease Control and Prevention recommend that HIV‑1‑infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV-1 infection.
-Studies in lactating rats and their offspring indicate that dolutegravir was present in rat milk.
-It is not known whether dolutegravir is excreted in human milk.
+It is not known whether TIVICAY is present in human breast milk, affects human milk production, or has effects on the breastfed infant.
+When administered to lactating rats, dolutegravir was present in milk [see Data].
 
-Because of both the potential for HIV transmission and the potential for adverse reactions in nursing infants, instruct mothers not to breastfeed.
+Because of the potential for (1) HIV‑1 transmission (in HIV-negative infants), and (2) developing viral resistance (in HIV-positive infants), instruct mothers not to breastfeed if they are receiving TIVICAY.
+
+Data
+
+Animal Data: Dolutegravir was the primary drug-related component excreted into the milk of lactating rats following a single oral dose of 50 mg per kg on lactation Day 10, with milk concentrations of up to approximately 1.3 times that of maternal plasma concentrations observed 8 hours post-dose.
 
 ## 8.4 Pediatric Use
 
-Safety and efficacy of TIVICAY have not been established in pediatric patients younger than 12 years, weighing less than 40 kg, or in any pediatric patients who are INSTI-experienced with documented or clinically suspected resistance to other INSTIs (raltegravir, elvitegravir).
+The safety, virologic, and immunologic responses in subjects who received TIVICAY were evaluated in 46 treatment-experienced, INSTI-naïve, HIV‑1–infected subjects aged 6 to less than 18 years in an open-label, multicenter, dose-finding clinical trial, IMPAACT P1093 [see Clinical Pharmacology (12.3), Clinical Studies (14.2)].
+Frequency, type, and severity of adverse drug reactions among the 46 pediatric subjects were comparable to those observed in adults [see Adverse Reactions (6.2)].
+In 17 subjects weighing at least 30 kg, pharmacokinetic parameters of dolutegravir were comparable to adults receiving 50 mg once daily [see Clinical Pharmacology (12.3)].
 
-The safety, virologic, and immunologic responses in subjects who received TIVICAY were evaluated in 23 treatment-experienced, INSTI-naïve, HIV‑1–infected subjects aged 12 to less than 18 years in an open-label, multicenter, dose-finding clinical trial, IMPAACT P1093 [see Adverse Reactions (6.2), Clinical Pharmacology (12.3), Clinical Studies (14.2)].
-Pharmacokinetic parameters, evaluated in 9 subjects weighing at least 40 kg receiving 50 mg daily and 1 subject (weighing 37 kg) receiving 35 mg once daily, were similar to adults receiving 50 mg once daily.
-See Dosage and Administration (2.2) for dosing recommendations for pediatric patients aged 12 years and older and weighing at least 40 kg.
-Frequency, type, and severity of adverse drug reactions in pediatric subjects were comparable to those observed in adults [see Adverse Reactions (6.2)].
+Safety and efficacy of TIVICAY have not been established in pediatric patients weighing less than 30 kg or in any pediatric patients who are INSTI-experienced.
 
 ## 8.5 Geriatric Use
 

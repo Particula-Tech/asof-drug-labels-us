@@ -14,10 +14,10 @@ At baseline, the median age of subjects was 36 years, 13% female, 15% non-white,
 In SINGLE, 833 subjects were randomized and received at least 1 dose of either TIVICAY 50 mg once daily with fixed-dose abacavir sulfate and lamivudine (EPZICOM) or fixed-dose efavirenz/emtricitabine/tenofovir (ATRIPLA).
 At baseline, the median age of subjects was 35 years, 16% female, 32% non-white, 7% had hepatitis C co-infection (hepatitis B virus co-infection was excluded), 4% were CDC Class C (AIDS), 32% had HIV-1 RNA greater than 100,000 copies per mL, and 53% had CD4+ cell count less than 350 cells per mm3; these characteristics were similar between treatment groups.
 
-Outcomes for SPRING-2 (Week 96 analysis) and SINGLE (Week 144 open-label phase analysis which followed the Week 96 double-blind phase) are provided in Table 12.
+Outcomes for SPRING-2 (Week 96 analysis) and SINGLE (Week 144 open-label phase analysis which followed the Week 96 double-blind phase) are provided in Table 13.
 Side-by-side tabulation is to simplify presentation; direct comparisons across trials should not be made due to differing trial designs.
 
-Table 12.
+Table 13.
 Virologic Outcomes of Randomized Treatment in SPRING-2 at Week 96 and SINGLE at Week 144 (Snapshot Algorithm)
 
 |  | SPRING-2 Week 96 |  | SINGLE Week 144 |  |
@@ -55,7 +55,6 @@ cOther includes reasons such as withdrew consent, loss to follow-up, moved, and 
 dThe primary endpoint was assessed at Week 48 and the virologic success rate was 88% in the group receiving TIVICAY and 86% in the raltegravir group, with a treatment difference of 2.6% and 95% CI of (-1.9%, 7.2%).
 
 eThe primary endpoint was assessed at Week 48 and the virologic success rate was 88% in the group receiving TIVICAY and 81% in the ATRIPLA group, with a treatment difference of 7.4% and 95% CI of (2.5%, 12.3%).
-
 SPRING-2: Virologic outcomes were also comparable across baseline characteristics including CD4+ cell count, age, and use of EPZICOM or TRUVADA as NRTI background regimen.
 The median change in CD4+ cell counts from baseline were 276 cells per mm3 in the group receiving TIVICAY and 264 cells per mm3 for the raltegravir group at 96 weeks.
 
@@ -82,9 +81,9 @@ In the international, multicenter, double-blind trial (SAILING), 719 HIV‑1‑ 
 There were 715 subjects included in the efficacy and safety analyses.
 At baseline, the median age was 43 years, 32% were female, 50% non-white, 16% had hepatitis B and/or C virus co-infection, 46% were CDC Class C (AIDS), 20% had HIV-1 RNA greater than 100,000 copies per mL, and 72% had CD4+ cell count less than 350 cells per mm3; these characteristics were similar between treatment groups.
 All subjects had at least 2-class antiretroviral treatment resistance, and 49% of subjects had at least 3-class antiretroviral treatment resistance at baseline.
-Week 48 outcomes for SAILING are shown in Table 13.
+Week 48 outcomes for SAILING are shown in Table 14.
 
-Table 13.
+Table 14.
 Virologic Outcomes of Randomized Treatment in SAILING at 48 Weeks (Snapshot Algorithm)
 
 |  | TIVICAY 50 mg Once Daily + BRa(n = 354) | Raltegravir 400 mg Twice Daily + BRa(n = 361) |
@@ -136,9 +135,9 @@ Mean reduction from baseline in HIV-1 RNA at Day 8 (primary endpoint) was 1.4 lo
 Response at Week 48 was affected by baseline INSTI substitutions [see Microbiology (12.4)].
 
 After the functional monotherapy phase, subjects had the opportunity to re-optimize their background regimen when possible.
-Week 48 virologic outcomes for VIKING-3 are shown in Table 14.
+Week 48 virologic outcomes for VIKING-3 are shown in Table 15.
 
-Table 14.
+Table 15.
 Virologic Outcomes of Treatment of VIKING-3 at 48 Weeks (Snapshot Algorithm)
 
 |  | TIVICAY 50 mg Twice Daily + OBT(n = 183) |
@@ -162,14 +161,18 @@ The median change in CD4+ cell count from baseline was 80 cells per mm3 at Week 
 ## 14.2 Pediatric Subjects
 
 IMPAACT P1093 is a Phase 1/2, 48-week, multicenter, open-label trial to evaluate the pharmacokinetic parameters, safety, tolerability, and efficacy of TIVICAY in combination treatment regimens in HIV‑1‑infected infants, children, and adolescents.
+Subjects were stratified by age, enrolling adolescents first (Cohort 1: aged 12 to less than 18 years) and then younger children (Cohort 2A: aged 6 to less than 12 years).
+All subjects received a weight-based dose of TIVICAY [see Dosage and Administration (2.2)].
 
-The initial dose-finding stage included intensive pharmacokinetic evaluation in 10 INSTI-naïve subjects (aged 12 to 18 years).
-Dose selection was based upon achieving similar dolutegravir plasma exposure and trough concentration as seen in adults.
-After dose selection, an additional 13 subjects were enrolled for evaluation of long-term safety, tolerability, and efficacy.
+These 46 subjects had a mean age of 12 years (range: 6 to 17), were 54% female and 52% black.
+At baseline, mean plasma HIV-1 RNA was 4.6 log10 copies per mL, median CD4+ cell count was 639 cells per mm3 (range: 9 to 1,700), and median CD4+% was 23% (range: 1% to 44%).
+Overall, 39% had baseline plasma HIV-1 RNA greater than 50,000 copies per mL and 33% had a CDC HIV clinical classification of category C. Most subjects had previously used at least 1 NNRTI (50%) or 1 PI (70%).
 
-These 23 subjects had a mean age of 14 years (range: 12 to 17), were 78% female and 52% black.
-At baseline, mean plasma HIV-1 RNA was 4.3 log10 copies per mL, median CD4+ cell count was 466 cells per mm3 (range: 11 to 1,025), and median CD4+% was 22% (range: 1% to 39%).
-Overall, 17% had baseline plasma HIV-1 RNA greater than 50,000 copies per mL and 39% had a CDC HIV clinical classification of category C. Most subjects had previously used at least 1 NNRTI (52%) or 1 PI (78%).
+At Week 24, the proportion of subjects with HIV-1 RNA less than 50 copies per mL in Cohort 1 and Cohort 2A was 70% (16/23) and 61% (14/23), respectively.
+At Week 48, the proportion of subjects from Cohort 1 with HIV-1 RNA less than 50 copies per mL was 61% (14/23).
+Virologic outcomes were also evaluated based on body weight.
+Across both cohorts, virologic suppression (HIV-1 RNA less than 50 copies per mL) at Week 24 was achieved in 75% (18/24) of subjects weighing at least 40 kg and 55% (6/11) of subjects in the 30 to less than 40 kg weight-band.
+At Week 48, 63% (12/19) of the subjects in Cohort 1 weighing at least 40 kg were virologically suppressed.
 
-At 24 weeks, 70% of subjects treated with TIVICAY once daily (35 mg: n = 4, 50 mg: n = 19) plus OBT achieved a viral load less than 50 copies per mL.
-The median CD4+ cell count (percent) increase from baseline to Week 24 was 63 cells per mm3 (5%).
+The median CD4+ cell count increase from baseline to Week 48 was 84 cells per mm3 in Cohort 1.
+For Cohort 2A, the median CD4+ cell count increase from baseline to Week 24 was 209 cells per mm3.
