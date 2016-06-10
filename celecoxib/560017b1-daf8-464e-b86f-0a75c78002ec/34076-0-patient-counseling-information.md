@@ -1,62 +1,51 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Patients should be informed of the following information before initiating therapy with celecoxib and periodically during the course of ongoing therapy.
+Advise the patient to read the FDA-approved patient labeling (Medication Guide) that accompanies each prescription dispensed.
+Inform patients, families, or their caregivers of the following information before initiating therapy with celecoxib capsules and periodically during the course of ongoing therapy
 
-## 17.1 Medication Guide
+Cardiovascular Thrombotic Events
 
-Patients should be informed of the availability of a Medication Guide for NSAIDs that accompanies each prescription dispensed, and should be instructed to read the Medication Guide prior to using celecoxib.
+Advise patients to be alert for the symptoms of cardiovascular thrombotic events, including chest pain, shortness of breath, weakness, or slurring of speech, and to report any of these symptoms to their health care provider immediately [see WARNINGS AND PRECAUTIONS (5.1)].
 
-## 17.2 Cardiovascular Effects
+Gastrointestinal Bleeding, Ulceration, and Perforation
 
-Patients should be informed that celecoxib may cause serious CV side effects such as MI or stroke, which may result in hospitalization and even death.
-Patients should be informed of the the signs and symptoms of chest pain, shortness of breath, weakness, slurring of speech, and to seek immediate medical advice if they observe any of these signs or symptoms.
-[see WARNINGS AND PRECAUTIONS (5.1)].
+Advise patients to report symptoms of ulcerations and bleeding, including epigastric pain, dyspepsia, melena, and hematemesis to their health care provider.
+In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, inform patients of the increased risk for and the signs and symptoms of GI bleeding [see WARNINGS AND PRECAUTIONS (5.2)].
 
-Patients should be informed that celecoxib can lead to the onset of new hypertension or worsening of preexisting hypertension, and that celecoxib may impair the response of some antihypertensive agents.
-Patients should be instructed on the proper follow up for monitoring of blood pressure.
-[see WARNINGS AND PRECAUTIONS (5.2) and DRUG INTERACTIONS (7.4)].
+Hepatotoxicity
 
-## 17.3 Gastrointestinal Effects
+Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, diarrhea jaundice, right upper quadrant tenderness, and "flu-like" symptoms).
+If these occur, instruct patients to stop celecoxib capsules and seek immediate medical therapy [see WARNINGS AND PRECAUTIONS (5.3), USE IN SPECIFIC POPULATIONS (8.6)].
 
-Patients should be informed that celecoxib can cause gastrointestinal discomfort and more serious side effects, such as ulcers and bleeding, which may result in hospitalization and even death.
-Patients should be informed of the signs and symptoms of ulcerations and bleeding, and to seek immediate medical advice if they observe any signs or symptoms that are indicative of these disorders, including epigastric pain, dyspepsia, melena and hematemesis.
-[see WARNINGS AND PRECAUTIONS (5.4)].
+Heart Failure and Edema
 
-## 17.4 Hepatic Effects
+Advise patients to be alert for the symptoms of congestive heart failure including shortness of breath, unexplained weight gain, or edema and to contact their healthcare provider if such symptoms occur [see WARNINGS AND PRECAUTIONS (5.5)].
 
-Patients should be informed of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness, and "flu-like" symptoms).
-Patients should be instructed that they should stop therapy and seek immediate medical therapy if these signs and symptoms occur [see WARNINGS AND PRECAUTIONS (5.5), USE IN SPECIFIC POPULATIONS (8.6)].
+Anaphylactic Reactions
 
-## 17.5 Adverse Skin Reactions
+Inform patients of the signs of an anaphylactic reaction (e.g., difficulty breathing, swelling of the face or throat).
+Instruct patients to seek immediate emergency help if these occur [see CONTRAINDICATIONS (4) and WARNINGS AND PRECAUTIONS (5.7)].
 
-Patients should be informed that celecoxib is a sulfonamide and can cause serious skin side effects such as exfoliative dermatitis, SJS, and TEN, which may result in hospitalizations and even death.
-Although serious skin reactions may occur without warning, patients should be informed of the signs and symptoms of skin rash and blisters, fever, or other signs of hypersensitivity such as itching, and seek immediate medical advice when observing any indicative signs or symptoms.
+Serious Skin Reactions
 
-Patients should be advised to stop celecoxib immediately if they develop any type of rash and contact their physician as soon as possible.
+Advise patients to stop celecoxib capsules immediately if they develop any type of rash and to contact their healthcare provider as soon as possible [see WARNINGS AND PRECAUTIONS (5.9)].
 
-Patients with prior history of sulfa allergy should not take celecoxib [see WARNINGS AND PRECAUTIONS (5.8)].
+Female Fertility
 
-## 17.6 Weight Gain and Edema
+Advise females of reproductive potential who desire pregnancy that NSAIDs, including celecoxib capsules, may be associated with a reversible delay in ovulation [see USE IN SPECIFIC POPULATIONS (8.3)].
 
-Long-term administration of NSAIDs including celecoxib has resulted in renal injury.
-Patients at greatest risk are those taking diuretics, ACE-inhibitors, angiotensin II antagonists, or with renal or liver dysfunction, heart failure, and the elderly [see WARNINGS AND PRECAUTIONS (5.3, 5.6), USE IN SPECIFIC POPULATIONS (8)].
+Fetal Toxicity
 
-Patients should be instructed to promptly report to their physicians signs or symptoms of unexplained weight gain or edema following treatment with celecoxib [see WARNINGS AND PRECAUTIONS (5.3)].
+Inform pregnant women to avoid use of celecoxib capsules and other NSAIDs starting at 30 weeks of gestation because of the risk of the premature closing of the fetal ductus arteriosus [see WARNINGS AND PRECAUTIONS (5.10) and USE IN SPECIFIC POPULATIONS (8.1)].
 
-## 17.7 Anaphylactoid Reactions
+Avoid Concomitant Use of NSAIDs
 
-Patients should be informed of the signs and symptoms of an anaphylactoid reaction (e.g., difficulty breathing, swelling of the face or throat).
-Patients should be instructed to seek immediate emergency assistance if they develop any of these signs and symptoms [see WARNINGS AND PRECAUTIONS (5.7)].
+Inform patients that the concomitant use of celecoxib capsules with other NSAIDs or salicylates (e.g., diflunisal, salsalate) is not recommended due to the increased risk of gastrointestinal toxicity, and little or no increase in efficacy [see WARNINGS AND PRECAUTIONS (5.2) and DRUG INTERACTIONS (7)].
+Alert patients that NSAIDs may be present in "over the counter" medications for treatment of colds, fever, or insomnia.
 
-## 17.8 Effects During Pregnancy
+Use of NSAIDS and Low-Dose Aspirin
 
-Patients should be informed that in late pregnancy celecoxib should be avoided because it may cause premature closure of the ductus arteriosus [see WARNINGS AND PRECAUTIONS (5.9), USE IN SPECIFIC POPULATIONS (8.1)].
-
-## 17.9 Preexisting Asthma
-
-Patients should be instructed to tell their physicians if they have a history of asthma or aspirin-sensitive asthma because the use of NSAIDs in patients with aspirin-sensitive asthma has been associated with severe bronchospasm, which can be fatal.
-Patients with this form of aspirin sensitivity should be instructed not to take Celecoxib.
-Patients with preexisting asthma should be instructed to seek immediate medical attention if their asthma worsens after taking Celecoxib [see WARNINGS AND PRECAUTIONS (5.13)].
+Inform patients not to use low-dose aspirin concomitantly with celecoxib capsules until they talk to their healthcare provider [see DRUG INTERACTIONS (7)].
 
 Manufactured for:
 
@@ -64,7 +53,7 @@ Lupin Pharmaceuticals, Inc.
 
 Baltimore, Maryland 21202
 
-United States
+United States.
 
 Manufactured by:
 
@@ -72,6 +61,6 @@ Lupin Limited
 
 Goa 403 722
 
-INDIA
+INDIA.
 
-March 2015 ID#: 240729
+Revised: June 11, 2016 ID#: 247376

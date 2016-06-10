@@ -1,3 +1,5 @@
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
 Celecoxib Capsules
 
 50 mg – Bottle of 60s

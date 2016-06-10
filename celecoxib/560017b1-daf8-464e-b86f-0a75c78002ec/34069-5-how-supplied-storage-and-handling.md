@@ -2,17 +2,13 @@
 
 Celecoxib Capsules, 50 mg are available as size "3" capsules having red opaque cap, imprinted with 'LU' in black ink and white opaque body imprinted with 'N41' in black ink, containing white to off-white powder.
 
-They are supplied as follows:
-
-NDC Number Size
+They are supplied as follows: NDC Number Size
 
 NDC 68180-395-07 bottle of 60
 
 Celecoxib Capsules, 100 mg are available as size "3" capsules having blue opaque cap, imprinted with 'LU' in black ink and white opaque body imprinted with 'N42' in black ink, containing white to off-white powder.
 
-They are supplied as follows:
-
-NDC Number Size
+They are supplied as follows: NDC Number Size
 
 NDC 68180-396-01 bottle of 100
 
@@ -38,4 +34,6 @@ NDC 68180-398-07 bottle of 60
 
 NDC 68180-398-01 bottle of 100
 
-Storage: Store at 25°C (77°F); excursions permitted to 15 to 30°C (59 to 86°F) [see USP Controlled Room Temperature].
+Storage
+
+Store at 25°C (77°F); excursions permitted to 15 to 30°C (59 to 86°F) [see USP Controlled Room Temperature].
