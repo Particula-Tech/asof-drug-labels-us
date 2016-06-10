@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA206229"
+  ],
+  "inn": "levonorgestrel",
+  "labeler": "Allergan, Inc.",
+  "package_ndcs": [
+    "0023-5858-01"
+  ],
+  "products": [
+    {
+      "form": "INTRAUTERINE DEVICE",
+      "generic": "levonorgestrel",
+      "name": "LILETTA"
+    }
+  ],
+  "setid": "aaf0eb2a-f88a-4f26-a445-0fd30176c326",
+  "source": "dailymed"
+}
