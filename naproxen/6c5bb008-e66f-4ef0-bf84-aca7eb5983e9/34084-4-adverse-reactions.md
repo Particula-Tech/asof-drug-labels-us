@@ -1,5 +1,18 @@
 # ADVERSE REACTIONS
 
+The following adverse reactions are discussed in greater detail in other sections of the labeling:
+
+- 
+  - •Cardiovascular Thrombotic Events (see WARNINGS)
+  - •GI Bleeding, Ulceration and Perforation (see WARNINGS)
+  - •Hepatotoxicity (see WARNINGS)
+  - •Hypertension (see WARNINGS)
+  - •Heart Failure and Edema (see WARNINGS)
+  - •Renal Toxicity and Hyperkalemia (see WARNINGS)
+  - •Anaphylactic Reactions (see WARNINGS)
+  - •Serious Skin Reactions (see WARNINGS)
+  - •Hematologic Toxicity (see WARNINGS)
+
 Adverse reactions reported in controlled clinical trials in 960 patients treated for rheumatoid arthritis or osteoarthritis are listed below.
 In general, reactions in patients treated chronically were reported 2 to 10 times more frequently than they were in short-term studies in the 962 patients treated for mild to moderate pain or for dysmenorrhea.
 The most frequent complaints reported related to the gastrointestinal tract.
@@ -39,7 +52,7 @@ Body as a Whole: anaphylactoid reactions, angioneurotic edema, menstrual disorde
 Cardiovascular: congestive heart failure, vasculitis, hypertension, pulmonary edema
 
 Gastrointestinal: inflammation, bleeding (sometimes fatal, particularly in the elderly), ulceration, perforation and obstruction of the upper or lower gastrointestinal tract.
-Esophagitis, stomatitis, hematemesis, pancreatitis, vomiting, colitis, exacerbation of inflammatory bowel disease (ulcerative colitis, Crohn’s disease)
+Esophagitis, stomatitis, hematemesis, pancreatitis, vomiting, colitis, exacerbation of inflammatory bowel disease (ulcerative colitis, Crohn’s disease).
 
 Hepatobiliary: jaundice, abnormal liver function tests, hepatitis (some cases have been fatal)
 
@@ -56,9 +69,9 @@ If skin fragility, blistering or other symptoms suggestive of pseudoporphyria oc
 
 Special Senses: hearing impairment, corneal opacity, papillitis, retrobulbar optic neuritis, papilledema
 
-Urogenital: glomerular nephritis, hematuria, hyperkalemia, interstitial nephritis, nephrotic syndrome, renal disease, renal failure, renal papillary necrosis, raised serum creatinine
+Urogenital:glomerular nephritis, hematuria, hyperkalemia, interstitial nephritis, nephrotic syndrome, renal disease, renal failure, renal papillary necrosis, raised serum creatinine
 
-Reproduction (female): infertility
+Reproduction (female):infertility
 
 In patients taking NSAIDs, the following adverse experiences have also been reported in <1% of patients.
 
