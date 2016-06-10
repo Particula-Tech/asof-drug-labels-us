@@ -83,7 +83,6 @@ Before you take SELZENTRY, tell your healthcare provider if you:
   There is a pregnancy registry for women who take antiviral medicines during pregnancy.
   The purpose of the registry is to collect information about the health of you and your baby.
   Talk to your healthcare provider about how you can take part in this registry.
-
 - •are breastfeeding or plan to breastfeed.
   Do not breastfeed.
   We do not know if SELZENTRY can be passed to your baby in your breast milk and whether it could harm your baby.
