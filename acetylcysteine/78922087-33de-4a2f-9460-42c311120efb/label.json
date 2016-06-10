@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA207916"
+  ],
+  "inn": "acetylcysteine",
+  "labeler": "Arbor Pharmaceuticals",
+  "package_ndcs": [
+    "24338-700-02",
+    "24338-700-10",
+    "24338-725-02",
+    "24338-725-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EFFERVESCENT",
+      "generic": "acetylcysteine",
+      "name": "Cetylev"
+    }
+  ],
+  "setid": "78922087-33de-4a2f-9460-42c311120efb",
+  "source": "dailymed"
+}
