@@ -79,7 +79,9 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 The following adverse reactions have been identified during post approval use of zoledronic acid injection:
 
-Acute Phase Reactions Fever, headache, flu-like symptoms, nausea, vomiting, diarrhea, arthralgia, and myalgia.
+Acute Phase Reactions
+
+Fever, headache, flu-like symptoms, nausea, vomiting, diarrhea, arthralgia, and myalgia.
 Symptoms may be significant and lead to dehydration.
 
 Acute Renal Failure
@@ -89,7 +91,7 @@ Transient rise in serum creatinine can be correctable with intravenous fluids.
 
 Allergic Reactions
 
-Allergic reactions with intravenous zoledronic acid including anaphylactic reaction/shock, urticaria, angioedema, Stevens-Johnson syndrome, toxic edpidermal necrolysis, and bronchoconstriction have been reported.
+Allergic reactions with intravenous zoledronic acid including anaphylactic reaction/shock, urticaria, angioedema, Stevens-Johnson syndrome, toxic epidermal necrolysis, and bronchoconstriction have been reported.
 
 Asthma Exacerbations
 
@@ -102,6 +104,10 @@ Hypocalcemia has been reported.
 Osteonecrosis of the Jaw
 
 Osteonecrosis of the jaw has been reported.
+
+Osteonecrosis of other bones
+
+Cases of osteonecrosis of other bones (including femur, hip, knee, ankle, wrist and humerus) have been reported; causality has not been determined in the population treated with zoledronic acid injection.
 
 Ocular Adverse Events
 

@@ -140,4 +140,4 @@ Your risk of kidney problems is higher if you:
   What are the ingredients in Zoledronic Acid Injection?
   Active ingredient: zoledronic acid monohydrate Inactive ingredients: mannitol and sodium citrate.
   This Medication Guide has been approved by the U.S. Food and Drug Administration.Rx Only Manufactured by: Gland Pharma Limited D.P.
-  Pally – 500 043 INDIA Manufactured for: Dr. Reddy’s Laboratories Limited Bachupally – 500 090 INDIA Revised: 0515
+  Pally – 500 043 INDIA Manufactured for: Dr. Reddy’s Laboratories Limited Bachupally – 500 090 INDIA Revised: 0516

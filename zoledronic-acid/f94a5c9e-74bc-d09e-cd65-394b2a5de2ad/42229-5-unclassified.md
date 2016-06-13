@@ -30,7 +30,8 @@ The incidence of these symptoms decreased markedly with subsequent doses of zole
 Administration of acetaminophen following zoledronic acid injection administration may reduce the incidence of these symptoms.
 
 Physicians should inform their patients that there have been reports of persistent pain and/or a non-healing sore of the mouth or jaw, primarily in patients treated with bisphosphonates for other illnesses.
-If they experience these symptoms, they should inform their physician or dentist.
+During treatment with zoledronic acid, patients should be instructed to maintain good oral hygiene and undergo routine dental check-ups.
+If they experience any oral symptoms, they should immediately report them to their physician or dentist.
 
 Severe and occasionally incapacitating bone, joint, and/or muscle pain have been infrequently reported in patients taking bisphosphonates, including zoledronic acid injection.
 Consider withholding future zoledronic acid injection treatment if severe symptoms develop.

@@ -14,7 +14,7 @@ Zoledronic acid injection must be administered as an intravenous infusion over n
 The recommended dose is a 5 mg infusion.
 The infusion time must not be less than 15 minutes given over a constant infusion rate.
 
-### Re-treatment of Paget’s Disease
+### Re-treatment of Paget?s Disease
 
 After a single treatment with zoledronic acid injection in Paget’s disease an extended remission period is observed.
 Specific re-treatment data are not available.
