@@ -1,3 +1,9 @@
-# CONTRAINDICATIONS:
+# 4 CONTRAINDICATIONS
 
-This product should not be used in patients with known gastric or intestinal perforation or hypersensitivity to barium sulfate products.
+E-Z-HD is contraindicated in patients:
+
+- Known or suspected perforation of the GI tract
+- Known obstruction of the GI tract
+- At high risk of GI perforation such as those with a recent prior GI perforation, acute GI hemorrhage or ischemia, toxic megacolon, severe ileus, post GI surgery or biopsy, acute GI injury or burn, or recent radiotherapy to the rectum or prostate
+- At high risk of aspiration such as those with prior aspiration, tracheo-esophageal fistula, or obtundation
+- With known severe hypersensitivity to barium sulfate or any of the E-Z-HD excipients

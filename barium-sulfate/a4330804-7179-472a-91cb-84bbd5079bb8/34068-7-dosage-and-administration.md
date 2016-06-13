@@ -1,32 +1,16 @@
-# DOSAGE AND ADMINISTRATION:
+# 2 DOSAGE AND ADMINISTRATION
 
-The volume and concentration of E‑Z‑HD™ to be administered will depend on the degree and extent of contrast required in the area(s) under examination and on the equipment and technique employed.
+The recommended dose of reconstituted E-Z-HD for adults and pediatric patients 12 years and olderis between 65 and 135 mL given orally (155 to 321 grams of barium sulfate, respectively).
+Volumes closer to 65 mL are recommended for the examination of the esophagus and volumes up to 135 mL are recommended for examination of the entire upper GI tract.
 
-Mixing Instructions for Cat.
-No. 764:
+The E-Z-HD powder must be reconstituted prior to administration by a healthcare provider according to the following instructions:
 
-Accurately measure 65 mL of water (measuring cup Cat.
-No. 763 may be used.)
-Add water to the E-Z-HD™ bottle and replace the lid securely.
-Invert the bottle and tap with fingers to mix contrast with water.
-Shake vigorously for 30 seconds.
-Wait 5 minutes, then reshake thoroughly.
-To use with the straw (Cat.
-No. 841), remove the adhesive label on top of cap.
-Remove the cap and use the straw to push out the cap liner.
-Replace the cap.
-
-Typical adult dose:
-
-65 mL to 135 mL.
-
-Yield:
-
-After reconstitution with 65 mL of water, yields 135 mL of suspension, 85% w/w, 250% w/v.
-
-Use immediately upon reconstitution.
-Discard any unused suspension.
-
-MRI Technical Note:
-
-If patient is scheduled for MR study immediately or shortly after an upper GI procedure with this product, the regions of the GI tract which still contain this product may appear as areas of lowered signal intensity (black) with certain pulse sequences.
+- Accurately measure 65 mL of water and add this water to the bottle containing the supplied E-Z-HD powder
+- Replace cap securely on bottle and shake vigorously for 30 seconds
+- Wait 5 minutes and re-shake bottle thoroughly.
+  Reconstitution yields approximately 140 mL of E-Z-HD for oral suspension containing 2.38 grams of barium sulfate per mL
+- Administer the reconstituted E-Z-HD for oral suspension immediately upon reconstitution
+- To use with a straw, remove the adhesive label from top of the cap.
+  Remove cap and use straw to push out cap liner.
+  Replace cap
+- Discard any unused suspension

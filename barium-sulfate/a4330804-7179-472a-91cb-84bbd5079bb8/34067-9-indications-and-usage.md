@@ -1,3 +1,3 @@
-# INDICATIONS AND USAGE:
+# 1 INDICATIONS AND USAGE
 
-For use in double contrast radiography of the esophagus, stomach and duodenum.
+E-Z-HD is indicated for use in double-contrast radiographic examinations of the esophagus, stomach and duodenum to help visualize the gastrointestinal (GI) tract in patients 12 years and older.
