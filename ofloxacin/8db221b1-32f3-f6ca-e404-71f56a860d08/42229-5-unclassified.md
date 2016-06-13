@@ -40,18 +40,22 @@ How should Ofloxacin Otic Solution be given?
 | --- | --- |
 | The person giving Ofloxacin Otic Solution should wash his/her hands with soap and water. |  |
 
-| 2. Clean ear & warm bottleGently clean any discharge that can be removed easily from the outer ear. DO NOT INSERT ANY OBJECT OR SWAB INTO THE EAR CANAL.Hold the bottle of Ofloxacin Otic Solution in the hand for one or two minutes to warm the solution. |  |  |
+| 2. Clean ear & warm bottle |  |  |
 | --- | --- | --- |
-| Before using the medication for the first time, be sure the white plastic sealing tape between the bottle and the cap is unbroken. To break the seal and open the bottle, unscrew the cap by turning as indicated by the arrow. |  |  |
+| Gently clean any discharge that can be removed easily from the outer ear. DO NOT INSERT ANY OBJECT OR SWAB INTO THE EAR CANAL. |  |  |
+| Hold the bottle of Ofloxacin Otic Solution in the hand for one or two minutes to warm the solution. |  |  |
+| Before using the medication for the first time, be sure the white plastic sealing tape between the bottle and the cap is unbroken. |  |  |
+| To break the seal and open the bottle, unscrew the cap by turning as indicated by the arrow. |  |  |
 
 | 3. Add drops |  |
 | --- | --- |
-| For a Middle Ear Infection: The person receiving Ofloxacin Otic Solution should lie on his/her side with the infected ear up. Patients (12 and older) should have 10 drops of Ofloxacin Otic Solution put into the infected ear. Pediatric patients under 12 should have 5 drops put into the infected ear. The tip of the bottle should not touch the fingers or the ear or any other surfaces.For an Ear Canal Infection ("Swimmer's Ear"):The person receiving Ofloxacin Otic Solution should lie on his/her side with the infected ear up. Patients (13 and older) should have 10 drops of Ofloxacin Otic Solution put into the infected ear. Pediatric patients under 13 should have 5 drops put into the infected ear. The tip of the bottle should not touch the fingers or the ear or any other surfaces. |  |
+| For a Middle Ear Infection: The person receiving Ofloxacin Otic Solution should lie on his/her side with the infected ear up. Patients (12 and older) should have 10 drops of Ofloxacin Otic Solution put into the infected ear. Pediatric patients under 12 should have 5 drops put into the infected ear. The tip of the bottle should not touch the fingers or the ear or any other surfaces. For an Ear Canal Infection ("Swimmer's Ear"):The person receiving Ofloxacin Otic Solution should lie on his/her side with the infected ear up. Patients (13 and older) should have 10 drops of Ofloxacin Otic Solution put into the infected ear. Pediatric patients under 13 should have 5 drops put into the infected ear. The tip of the bottle should not touch the fingers or the ear or any other surfaces. |  |
 
 BE SURE TO FOLLOW THE INSTRUCTIONS BELOW FOR THE PATIENT’S SPECIFIC EAR INFECTION.
 
-| 4. Press ear or pull ear For a Middle Ear Infection:While the person receiving Ofloxacin Otic Solution lies on his/her side, the person giving the drops should gently press the TRAGUS (see diagram) 4 times in a pumping motion. This will allow the drops to pass through the hole or tube in the eardrum and into the middle ear. |  |  |
+| 4. Press ear or pull ear |  |  |
 | --- | --- | --- |
+| For a Middle Ear Infection:While the person receiving Ofloxacin Otic Solution lies on his/her side, the person giving the drops should gently press the TRAGUS (see diagram) 4 times in a pumping motion. This will allow the drops to pass through the hole or tube in the eardrum and into the middle ear. |  |  |
 | For an Ear Canal Infection ("Swimmer's Ear"):While the person receiving the drops lies on his/her side, the person giving the drops should gently pull the outer ear upward and backward. This will allow the ear drops to flow down into the ear canal. |  |  |
 
 | 5. Stay on side |  |
@@ -113,18 +117,21 @@ Do not use this medicine if outdated.
 If you wish to learn more about Ofloxacin Otic Solution ask the doctor or pharmacist.
 Complete Prescribing Information is available from your doctor or pharmacist upon request.
 
+HOW SUPPLIED
+
 Bottles containing 5 mL and 10 mL.
 
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature].
+Protect from light.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
 | Manufactured by: | Manufactured for: |
 | --- | --- |
 | Apotex Inc. | Apotex Corp. |
-| Toronto, Ontario | Weston, Florida |
+| Toronto, Ontario | Weston, FL |
 | Canada | 33326 |
 | M9L 1T9 |  |
 
-247807 January 2007
+000000 September 2015

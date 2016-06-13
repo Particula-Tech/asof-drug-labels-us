@@ -6,7 +6,7 @@ In the phase III clinical trials performed in support of once-daily dosing, 799 
 The studies, which served as the basis for approval, were 020 (pediatric, adolescents and adults), 016 (adolescents and adults) and 017 (pediatric).
 The following treatment-related adverse events occurred in two or more of the subjects.
 
-| Adverse Event | Studies 002/003Studies 002/003 (BID) and 016/017 (QD) were active-controlled and comparative. Study 020 (QD) was open and non-comparative. BID (N=229) | Studies 016/017 QD (N=3109) | Studies 002 QD (N=489) |
+| Adverse Event | Studies 002/003Studies 002/003 (BID) and 016/017 (QD) were active-controlled and comparative. Study 020 (QD) was open and non-comparative. BID (N=229) | Studies 016/017 QD (N=310) | Study 020 QD (N=489) |
 | --- | --- | --- | --- |
 |  | Incidence Rate |  |  |
 | Application Site Reaction | 3% | 16.8% | 0.6% |

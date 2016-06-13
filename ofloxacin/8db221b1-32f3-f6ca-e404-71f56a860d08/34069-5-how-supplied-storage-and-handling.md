@@ -10,12 +10,13 @@ The NDC codes are:
 
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature].
+Protect from light.
 
 | Manufactured by: | Manufactured for: |
 | --- | --- |
 | Apotex Inc. | Apotex Corp. |
-| Toronto, Ontario | Weston, Florida |
+| Toronto, Ontario | Weston, FL |
 | Canada | 33326 |
 | M9L 1T9 |  |
 
-247807 January 2007
+000000 September 2015
