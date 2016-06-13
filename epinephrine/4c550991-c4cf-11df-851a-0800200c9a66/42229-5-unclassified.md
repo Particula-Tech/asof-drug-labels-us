@@ -219,7 +219,7 @@ Auvi‑Q® TRAINER
 
 Trainer Instructions for Use
 
-Important: The Auvi-Q® Trainer Does Not contain a needle or medicine.
+Important: The Auvi‑Q® Trainer Does Not contain a needle or medicine.
 Always carry your real Auvi‑Q® with you in case of an allergic emergency.
 
 Important Information about the Auvi‑Q® Trainer:
@@ -238,32 +238,31 @@ If your Auvi‑Q® Trainer does not work properly call your healthcare provider 
 
 | Your Auvi‑Q® Trainer | Figure A. |  |
 | --- | --- | --- |
-|  | Auvi‑Q® Trainer | Auvi‑Q® |
-|  | The Auvi‑Q® Trainer: is inside a gray outer casedoes not have a needle or medicine insidecan be reused (the red safety guard can be placed back on the base of the Trainer after use)has no expiration date | Auvi‑Q®: is inside an orange (0.3 mg) or blue (0.15 mg) outer casecontains a needle and epinephrine medicinecannot be reused (the red safety guard cannot be placed back on the base of Auvi‑Q® after use)has a medicine expiration date listed on the device |
-|  | In case of an allergic emergency, use the real Auvi‑Q® and not the gray Trainer. |  |
-| Who should practice using the Auvi‑Q® Trainer? | Anyone who may need to help you with Auvi‑Q® in case of an allergic emergency: YouCaregiversFamilyFriendsCo-workersTeachersChild Care or Day Care Workers |  |
-|  | Have them practice using the Trainer and review the Patient Information Leaflet included in the packaging with each prescription of Auvi‑Q®. |  |
-|  | For more information and video instructions on the use of Auvi‑Q®, go to www.auvi-q.com or call 1-800-633-1610. |  |
-| Practicing with the Auvi‑Q® Trainer | Practice with the Auvi‑Q® Trainer before an allergic emergency happens to make sure you are able to safely use the real Auvi‑Q® in an emergency. You should practice daily for the first week after you receive your Auvi‑Q® Trainer to help you feel comfortable using Auvi‑Q® quickly and safely. Even when you are comfortable using the Trainer, continue to practice using it often. |  |
-| How to Use the Trainer |  |  |
-| How the Auvi‑Q® Trainer works | Although the Trainer does not have a needle and contains no medicine, it works the same way as the real Auvi‑Q®. |  |
-| As with the real Auvi‑Q®, the Auvi‑Q® Trainer contains an electronic voice instruction system to help guide you through each step of your injection. If the voice instructions do not work for the Auvi‑Q® Trainer for any reason, you can still use the Auvi‑Q® Trainer as instructed in this leaflet to practice. |  |  |
-| The Auvi‑Q® Trainer has the same blinking red and green lights as the real Auvi‑Q®. |  |  |
+| Auvi‑Q® Trainer | Auvi‑Q® |  |
+| The Auvi‑Q® Trainer: is inside a gray outer casedoes not have a needle or medicine insidecan be reused (the red safety guard can be placed back on the base of the Trainer after use)has no expiration date | Auvi‑Q®: is inside an orange (0.3 mg) or blue (0.15 mg) outer casecontains a needle and epinephrine medicinecannot be reused (the red safety guard cannot be placed back on the base of Auvi‑Q® after use)has a medicine expiration date listed on the device |  |
+| In case of an allergic emergency, use the real Auvi‑Q® and not the gray Trainer. |  |  |
+
+| Who should practice using the Auvi‑Q® Trainer? | Anyone who may need to help you with Auvi‑Q® in case of an allergic emergency: YouCaregiversFamilyFriendsCo-workersTeachersChild Care or Day Care Workers Have them practice using the Trainer and review the Patient Information Leaflet included in the packaging with each prescription of Auvi‑Q®. For more information and video instructions on the use of Auvi‑Q®, go to www.auvi‑q.com or call 1-800-633-1610. |
+| --- | --- |
+
+| Practicing with the Auvi‑Q® Trainer | Practice with the Auvi‑Q® Trainer before an allergic emergency happens to make sure you are able to safely use the real Auvi‑Q® in an emergency. You should practice daily for the first week after you receive your Auvi‑Q® Trainer to help you feel comfortable using Auvi‑Q® quickly and safely. Even when you are comfortable using the Trainer, continue to practice using it often. |
+| --- | --- |
+
+How to Use the Trainer
+
+| How the Auvi‑Q® Trainer works | Although the Trainer does not have a needle and contains no medicine, it works the same way as the real Auvi‑Q®. As with the real Auvi‑Q®, the Auvi‑Q® Trainer contains an electronic voice instruction system to help guide you through each step of your injection. If the voice instructions do not work for the Auvi‑Q® Trainer for any reason, you can still use the Auvi‑Q® Trainer as instructed in this leaflet to practice. The Auvi‑Q® Trainer has the same blinking red and green lights as the real Auvi‑Q®. |
+| --- | --- |
 
 | Follow These Steps |  |
 | --- | --- |
-| 1.Pull the Auvi‑Q® Trainer from the outer case. |  |
-| 2.Pull off Red safety guard. |  |
-| Note: The red safety guard is made to fit tight similar to the safety guard on the real Auvi‑Q®. Pull firmly to remove. |  |
-| 3.Place black end against the middle of the outer thigh (through clothing, if needed), then press firmly, and hold in place for 5 seconds. |  |
-| Only practice using the middle of your outer thigh. The outer thigh is where you would inject with the real Auvi‑Q®. |  |
-| Note: The Auvi‑Q® Trainer makes a distinct sound (click and hiss) when you press it against your outer thigh. This is the same sound that is made with the real Auvi‑Q®. This is normal, and indicates Auvi‑Q® is working correctly. Do not pull Auvi‑Q® away from your leg when you hear the click and hiss sound. |  |
-| 4.After practicing, reset the Auvi‑Q® Trainer: a.Replace the Red safety guardb.Slide the Auvi‑Q® Trainer all the way back into the gray outer case to reset the electronic voice system |  |
-| Note: Leave the Auvi‑Q® Trainer in its outer case for at least 5 seconds between each time you practice to allow the electronic voice system to reset. |  |
+| 1. Pull the Auvi‑Q® Trainer from the outer case. |  |
+| 2. Pull off Red safety guard. Note: The red safety guard is made to fit tight similar to the safety guard on the real Auvi‑Q®. Pull firmly to remove. |  |
+| 3. Place black end against the middle of the outer thigh (through clothing, if needed), then press firmly, and hold in place for 5 seconds. Only practice using the middle of your outer thigh. The outer thigh is where you would inject with the real Auvi‑Q®. Note: The Auvi‑Q® Trainer makes a distinct sound (click and hiss) when you press it against your outer thigh. This is the same sound that is made with the real Auvi‑Q®. This is normal, and indicates Auvi‑Q® is working correctly. Do not pull Auvi‑Q® away from your leg when you hear the click and hiss sound. |  |
+| 4. After practicing, reset the Auvi‑Q® Trainer: a.Replace the Red safety guardb.Slide the Auvi‑Q® Trainer all the way back into the gray outer case to reset the electronic voice system Note: Leave the Auvi‑Q® Trainer in its outer case for at least 5 seconds between each time you practice to allow the electronic voice system to reset. |  |
 
 Storage:
 
-- Store the Auvi‑Q® Trainer at room temperature; the Auvi‑Q® Trainer should not be used at temperatures less than 50ºF (10ºC) or greater than 104ºF (40ºC).
+- Store the Auvi‑Q® Trainer at room temperature; the Auvi‑Q® Trainer should not be used at temperatures less than 50°F (10°C) or greater than 104°F (40°C).
 - Store the Auvi‑Q® Trainer in its outer case.
 - Keep the Auvi‑Q® Trainer away from dirt, chemicals, and water.
 
