@@ -2,7 +2,7 @@
 
 NDC: 24338-530-25
 
-Sotylize™ (sotalol hydrochloride) oral solution
+Sotylize® (sotalol hydrochloride) oral solution
 
 5 mg/mL
 

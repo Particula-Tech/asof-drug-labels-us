@@ -167,8 +167,8 @@ Manufactured by: Patheon Inc. Whitby Region Operations 111 Consumers Drive Whitb
 
 Distributed by: Arbor Pharmaceuticals, LLC, Atlanta, GA 30328
 
-Issued: 10/2014
+Issued: 07/2015
 
-SOTYLIZE is a trademark of Arbor Pharmaceuticals, LLC © 2014 Arbor Pharmaceuticals, LLC
+SOTYLIZE is a registered trademark of Arbor Pharmaceuticals, LLC © 2015 Arbor Pharmaceuticals, LLC
 
-SOT-PPI-01
+SOT-PPI-02
