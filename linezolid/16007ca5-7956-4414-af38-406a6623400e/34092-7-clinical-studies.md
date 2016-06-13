@@ -23,7 +23,9 @@ Table 14: Cure Rates at the Test-of-Cure Visit for Microbiologically Evaluable A
 | Methicillin-resistant S. aureus | 13/22 (59) | 7/10 (70) |
 | Streptococcus pneumoniae | 9/9 (100) | 9/10 (90) |
 
-Complicated Skin and Skin Structure Infections: Adult patients with clinically documented complicated skin and skin structure infections were enrolled in a randomized, multi-center, double-blind, double-dummy trial comparing study medications administered intravenously followed by medications given orally for a total of 10 to 21 days of treatment.
+Complicated Skin and Skin Structure Infections
+
+Adult patients with clinically documented complicated skin and skin structure infections were enrolled in a randomized, multi-center, double-blind, double-dummy trial comparing study medications administered intravenously followed by medications given orally for a total of 10 to 21 days of treatment.
 One group of patients received linezolid I.V.
 Injection 600 mg every 12 hours followed by linezolid tablets 600 mg every 12 hours; the other group received oxacillin 2 g every 6 hours intravenously followed by dicloxacillin 500 mg every 6 hours orally.
 Patients could receive concomitant aztreonam if clinically indicated.
@@ -56,7 +58,7 @@ Diabetic Foot Infections: Adult diabetic patients with clinically documented com
 One group of patients received linezolid 600 mg every 12 hours intravenously or orally; the other group received ampicillin/sulbactam 1.5 to 3 g intravenously or amoxicillin/clavulanate 500 to 875 mg every 8 to 12 hours orally.
 In countries where ampicillin/sulbactam is not marketed, amoxicillin/clavulanate 500 mg to 2 g every 6 hours was used for the intravenous regimen.
 Patients in the comparator group could also be treated with vancomycin 1 g every 12 hours intravenously if MRSA was isolated from the foot infection.
-Patients in either treatment group who had Gram- negative bacilli isolated from the infection site could also receive aztreonam 1 to 2 g every 8-12 hours intravenously.
+Patients in either treatment group who had Gram- negative bacilli isolated from the infection site could also receive aztreonam 1 to 2 g every 8 to 12 hours intravenously.
 All patients were eligible to receive appropriate adjunctive treatment methods, such as debridement and off-loading, as typically required in the treatment of diabetic foot infections, and most patients received these treatments.
 There were 241 linezolid-treated and 120 comparator-treated patients in the intent-to-treat (ITT) study population.
 Two hundred twelve (86%) linezolid-treated patients and 105 (85%) comparator-treated patients were clinically evaluable.
@@ -100,7 +102,7 @@ Table 17: Cure Rates at the Test-of-Cure Visit for ITT Adult Patients with Docum
 
 ## 14.2 Pediatric Patients
 
-Infections due to Gram-positive Bacteria: A safety and efficacy study provided experience on the use of linezolid in pediatric patients for the treatment of nosocomial pneumonia, complicated skin and skin structure infections, catheter-related bacteremia, bacteremia of unidentified source, and other infections due to Gram-positive bacterial pathogens, including methicillin-resistant and -susceptible Staphylococcus aureus and vancomycin-resistant Enterococcus faecium.
+Infections due to Gram-positive Bacteria: A safety and efficacy study provided experience on the use of linezolid in pediatric patients for the treatment of nosocomial pneumonia, complicated skin and skin structure infections, and other infections due to Gram-positive bacterial pathogens, including methicillin-resistant and -susceptible Staphylococcus aureus and vancomycin-resistant Enterococcus faecium.
 Pediatric patients ranging in age from birth through 11 years with infections caused by the documented or suspected Gram-positive bacteria were enrolled in a randomized, open-label, comparator-controlled trial.
 One group of patients received linezolid I.V. injection 10 mg/kg every 8 hours followed by linezolid for oral suspension 10 mg/kg every 8 hours.
 A second group received vancomycin 10 to 15 mg/kg intravenously every 6 to 24 hours, depending on age and renal clearance.
@@ -111,17 +113,14 @@ The cure rates for ITT, MITT, and clinically evaluable patients are presented in
 After the study was completed, 13 additional patients ranging from 4 days through 16 years of age were enrolled in an open-label extension of the VRE arm of the study.
 Table 19 provides clinical cure rates by pathogen for microbiologically evaluable patients including microbiologically evaluable patients with vancomycin-resistant Enterococcus faecium from the extension of this study.
 
-Table 18: Cure Rates at the Test-of-Cure Visit for Intent to Treat, Modified Intent-to-Treat, and Clinically Evaluable Pediatric Patients by Baseline Diagnosis
+Table 18: Cure Rates at the Test-of-Cure Visit for Intent-to-Treat, Modified Intent-to-Treat, and Clinically Evaluable Pediatric Patients for the Overall Population and by Baseline Diagnosis
 
 | Population | ITT |  | MITTMITT = ITT patients with an isolated Gram-positive pathogen at baseline |  | Clinically Evaluable |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Linezolid n/N (%) | Vancomycin n/N (%) | Linezolid n/N (%) | Vancomycin n/N (%) | Linezolid n/N (%) | Vancomycin n/N (%) |  |
 | Any diagnosis | 150/186 (81) | 69/83 (83) | 86/108 (80) | 44/49 (90) | 106/117(91) | 49/54 (91) |
-| Bacteremia of unidentified source | 22/29 (76) | 11/16 (69) | 8/12 (67) | 7/8 (88) | 14/17 (82) | 7/9 (78) |
-| Catheter-related bacteremia | 30/41 (73) | 8/12 (67) | 25/35 (71) | 7/10 (70) | 21/25 (84) | 7/9 (78) |
 | Complicated skin and skin structure infections | 61/72 (85) | 31/34 (91) | 37/43 (86) | 22/23 (96) | 46/49 (94) | 26/27 (96) |
 | Nosocomial pneumonia | 13/18 (72) | 11/12 (92) | 5/6 (83) | 4/4 (100) | 7/7 (100) | 5/5 (100) |
-| Other infections | 24/26 (92) | 8/9 (89) | 11/12 (92) | 4/4 (100) | 18/19 (95) | 4/4 (100) |
 
 Table 19: Cure Rates at the Test-of-Cure Visit for Microbiologically Evaluable Pediatric Patients with Infections due to Gram-positive Pathogens
 

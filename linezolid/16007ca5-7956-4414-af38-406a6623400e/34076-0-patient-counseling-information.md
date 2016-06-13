@@ -24,10 +24,12 @@ Patients should be advised that:
 - •Inform patient, particularly those with diabetes mellitus that hypoglycemic reactions, such as diaphoresis and tremulousness, along with low blood glucose measurements may occur when treated with linezolid.
   If such reactions occur, patients should contact a physician or other health professional for proper treatment.
 
-Roxane Laboratories, Inc.
+Distr. by: West-Ward
 
-Columbus, Ohio 43216
+Pharmaceuticals Corp.
 
-10006274/01 Revised January 2015
+Eatontown, NJ 07724
 
-© RLI, 2015
+10006274/02
+
+Revised May 2016

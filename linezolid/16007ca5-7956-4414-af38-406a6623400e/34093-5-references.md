@@ -1,14 +1,11 @@
 # 15 REFERENCES
 
-- 1.Clinical and Laboratory Standards Institute (CLSI).
-  Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically–8th Edition.
-  Approved Standard CLSI Document M7-A8, CLSI, 940 West Valley Rd., Suite 1400, Wayne, PA 19087-1898, 2009.
-- 2.CLSI.
-  Performance Standards for Antimicrobial Susceptibility Testing: 20th Informational Supplement.
-  Approved Standard CLSI Document M100-S20, 2010
-- 3.CLSI.
-  Performance Standards for Antimicrobial Disk Susceptibility Tests–10th Edition.
-  Approved Standard CLSI Document M2-A10,2009.
-- 4.Fine MJ, Auble TE, Yealy DM, et al. A Prediction Rule to Identify Low-Risk Patients with Community- Acquired Pneumonia.
-  The New England Journal of Medicine.
-  1997;336 (4):243-250.
+1. 1.Clinical and Laboratory Standards Institute (CLSI).
+   Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically; Approved Standard – Tenth Edition.
+   CLSI document M07-A10, Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2015
+2. 2.Clinical and Laboratory Standards Institute (CLSI).
+   Performance Standards for Antimicrobial Susceptibility Testing; Twenty-fifth Informational Supplement.
+   CLSI document M100-S25, Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2015
+3. 3.Clinical and Laboratory Standards Institute (CLSI).
+   Performance Standards for Antimicrobial Disk Diffusion Susceptibility Tests; Approved Standard – Twelfth Edition.
+   CLSI document M02-A12, Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2015

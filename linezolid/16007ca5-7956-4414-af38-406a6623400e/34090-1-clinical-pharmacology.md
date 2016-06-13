@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Linezolid is an antibacterial drug [(see Microbiology (12.4)].
+Linezolid is an antibacterial drug [see Microbiology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
@@ -16,7 +16,7 @@ Plasma concentrations of linezolid at steady-state after oral doses of 600 mg gi
 
 Table 8: Mean (Standard Deviation) Pharmacokinetic Parameters of Linezolid in Adults
 
-| Dose of Linezolid | CmaxCmax = Maximum plasma concentration; Cmin = Minimum plasma concentration; Tmax = Time to Cmax; AUC = Area under concentration-time curve; t1/2 = Elimination half-life; CL = Systemic clearancemcg/mL | Cminmcg/mL | Tmaxhrs | AUCAUC for single dose = AUC0-∞; for multiple-dose = AUC0-τmcg • h/mL | t1/2hrs | CL mL/min |
+| Dose of Linezolid | Cmaxmcg/mL | Cminmcg/mL | Tmaxhrs | AUCAUC for single dose = AUC0-∞; for multiple-dose = AUC0-τmcg • h/mL | t1/2hrs | CL mL/min |
 | --- | --- | --- | --- | --- | --- | --- |
 | 400 mg tablet |  |  |  |  |  |  |
 | single doseData dose-normalized from 375 mg | 8.1 | --- | 1.52 | 55.1 | 5.2 | 146 |
@@ -178,7 +178,7 @@ Commonly used drugs such as phenylpropanolamine and pseudoephedrine have been sp
 Initial doses of adrenergic agents, such as dopamine or epinephrine, should be reduced and titrated to achieve the desired response.
 
 Tyramine: A significant pressor response has been observed in normal adult subjects receiving linezolid and tyramine doses of more than 100 mg.
-Therefore, patients receiving linezolid need to avoid consuming large amounts of foods or beverages with high tyramine content [see Patient Counseling Information (1)].
+Therefore, patients receiving linezolid need to avoid consuming large amounts of foods or beverages with high tyramine content [see Patient Counseling Information (17)].
 
 Pseudoephedrine HCl or phenylpropanolamine HCl: A reversible enhancement of the pressor response of either pseudoephedrine HCl (PSE) or phenylpropanolamine HCl (PPA) is observed when linezolid is administered to healthy normotensive subjects [see Warnings and Precautions (5.6) and Drug Interactions (7)].
 A similar study has not been conducted in hypertensive patients.
@@ -196,29 +196,29 @@ No serotonin syndrome effects (confusion, delirium, restlessness, tremors, blush
 
 ## 12.4 Microbiology
 
-Mechanism of Action: Linezolid is a synthetic antibacterial agent of a new class of antibiotics, the oxazolidinones, which has clinical utility in the treatment of infections caused by aerobic Gram-positive bacteria.
+Mechanism of Action
+
+Linezolid is a synthetic antibacterial agent of the oxazolidinone class, which has clinical utility in the treatment of infections caused by aerobic Gram-positive bacteria.
 The in vitro spectrum of activity of linezolid also includes certain Gram-negative bacteria and anaerobic bacteria.
-Linezolid inhibits bacterial protein synthesis through a mechanism of action different from that of other antibacterial agents; therefore, cross-resistance between linezolid and other classes of antibiotics is unlikely.
-Linezolid binds to a site on the bacterial 23S ribosomal RNA of the 50S subunit and prevents the formation of a functional 70S initiation complex, which is an essential component of the bacterial translation process.
+Linezolid binds to a site on the bacterial 23S ribosomal RNA of the 50S subunit and prevents the formation of a functional 70S initiation complex, which is essential for bacterial reproduction.
 The results of time-kill studies have shown linezolid to be bacteriostatic against enterococci and staphylococci.
 For streptococci, linezolid was found to be bactericidal for the majority of isolates.
 
-Mechanisms of Resistance: In clinical trials, resistance to linezolid developed in 6 patients infected with Enterococcus faecium (4 patients received 200 mg every 12 hours, lower than the recommended dose, and 2 patients received 600 mg every 12 hours).
-In a compassionate use program, resistance to linezolid developed in 8 patients with E. faecium and in 1 patient with Enterococcus faecalis.
-All patients had either unremoved prosthetic devices or undrained abscesses.
-Resistance to linezolid occurs in vitro at a frequency of 1 x 10 –9 to 1 x 10 –11.
+Mechanisms of Resistance
+
 In vitro studies have shown that point mutations in the 23S rRNA are associated with linezolid resistance.
-Reports of vancomycin-resistant E. faecium becoming resistant to linezolid during its clinical use have been published.
+Reports of vancomycin-resistant Enterococcus faecium becoming resistant to linezolid during its clinical use have been published.
 There are reports of Staphylococcus aureus (methicillin-resistant) developing resistance to linezolid during clinical use.
 The linezolid resistance in these organisms is associated with a point mutation in the 23S rRNA (substitution of thymine for guanine at position 2576) of the organism.
+Organisms resistant to oxazolidinones via mutations in chromosomal genes encoding 23S rRNA or ribosomal proteins (L3 and L4) are generally cross-resistant to linezolid.
 Also linezolid resistance in staphylococci mediated by the enzyme methyltransferase has been reported.
 This resistance is mediated by the cfr (chloramphenicol-florfenicol) gene located on a plasmid which is transferable between staphylococci.
 
-Resistance to linezolid has not been reported in Streptococcus spp., including Streptococcus pneumoniae.
+Interaction with Other Antimicrobial Drugs
 
-Interaction with Other Antimicrobials: In vitro studies have demonstrated additivity or indifference between linezolid and vancomycin, gentamicin, rifampin, imipenem-cilastatin, aztreonam, ampicillin, or streptomycin.
+In vitro studies have demonstrated additivity or indifference between linezolid and vancomycin, gentamicin, rifampin, imipenem-cilastatin, aztreonam, ampicillin, or streptomycin.
 
-Linezolid has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section (1).
+Linezolid has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections [see Indications and Usage (1)].
 
 Gram-positive bacteria: Enterococcus faecium (vancomycin-resistant isolates only)
 
@@ -230,9 +230,8 @@ Streptococcus pneumoniae
 
 Streptococcus pyogenes
 
-The following in vitro data are available, but their clinical significance is unknown.
-At least 90% of the following microorganisms exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for linezolid.
-However, the safety and effectiveness of linezolid in treating clinical infections due to these microorganisms have not been established in adequate and well-controlled clinical trials.
+Greater than 90% of the following bacteria exhibit an in vitro MIC less than or equal to the linezolid-susceptible breakpoint for organisms of similar genus shown in Table 12.
+The safety and effectiveness of linezolid in treating clinical infections due to these bacteria have not been established in adequate and well-controlled clinical trials.
 
 Gram-positive bacteria: Enterococcus faecalis (including vancomycin-resistant isolates)
 
@@ -248,15 +247,21 @@ Gram-negative bacteria:
 
 Pasteurella multocida
 
-Susceptibility Test Methods: When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drug products used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
+Susceptibility Test Methods:
+
+When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drug products used in local hospitals and practice areas to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
 These reports should aid the physician in selecting an antibacterial drug product for treatment.
 
-Dilution techniques: Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
+Dilution techniques:
+
+Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
 The MICs should be determined using a standardized method1,2 (broth and/or agar).
 The MIC values should be interpreted according to criteria provided in Table 12.
 
-Diffusion techniques: Quantitative methods that require measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
+Diffusion techniques:
+
+Quantitative methods that require measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
 The zone size should be determined using a standardized test method2,3.
 This procedure uses paper disks impregnated with 30 mcg linezolid to test the susceptibility of bacteria to linezolid.
@@ -269,20 +274,19 @@ Table 12: Susceptibility Test Interpretive Criteria for Linezolid
 | Minimal Inhibitory Concentrations (MIC in mcg/mL) |  |  | Disk Diffusion (Zone Diameters in mm) |  |  |  |
 | S | I | R | S | I | R |  |
 | Enterococcus spp | ≤2 | 4 | ≥8 | ≥23 | 21 to 22 | ≤20 |
-| Staphylococcus sppa | ≤4 | --- | --- | ≥21 | --- | --- |
-| Streptococcus pneumoniaea | ≤2 | --- | --- | ≥21 | --- | --- |
-| Streptococcus spp otherthan S pneumoniaea | ≤2 | --- | --- | ≥21 | --- | --- |
+| Staphylococcus sppFor disk diffusion testing of staphylococcal species, petri plates should be held up to the light source and read with transmitted light. The zone margin should be considered the area showing no obvious, visible growth that can be detected with the unaided eye. Ignore faint growth of tiny colonies that can be detected only with a magnifying lens at the edge of the zone of inhibited growth. Any discernible growth within the zone of inhibition is indicative of resistance. Resistant results obtained by the disk diffusion method should be confirmed using an MIC method. | ≤4 | --- | ≥8 | ≥21 | --- | ≤20 |
+| Streptococcus pneumoniaeThe current absence of data on resistant isolates precludes defining any categories other than “Susceptible.” Isolates yielding test results suggestive of a “nonsusceptible” category should be retested, and if the result is confirmed, the isolate should be submitted to a reference laboratory for further testing. | ≤2 | --- | --- | ≥21 | --- | --- |
+| Streptococcus spp otherthan S pneumoniae | ≤2 | --- | --- | ≥21 | --- | --- |
 
-- aThe current absence of data on resistant isolates precludes defining any categories other than “Susceptible.”
-  Isolates yielding test results suggestive of a “nonsusceptible” category should be retested, and if the result is confirmed, the isolate should be submitted to a reference laboratory for further testing.
-
-A report of Susceptible (S) indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentration at the infection site necessary to inhibit growth of the pathogen.
-A report of Intermediate (I) indicates that the result should be considered equivocal, and, if the bacteria is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
+A report of “Susceptible” indicates that the antimicrobial drug is likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
+A report of “Intermediate” indicates that the result should be considered equivocal, and, if the bacteria is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
 This category implies possible clinical applicability in body sites where the drug product is physiologically concentrated or in situations where a high dosage of the drug product can be used.
 This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of Resistant (R) indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations usually achievable at the infection site; other therapy should be selected.
+A report of “Resistant” indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the site of infection; other therapy should be selected.
 
-Quality Control: Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test1,2,3.
+Quality Control:
+
+Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test1,2,3.
 Standard linezolid powder should provide the following range of MIC values noted in Table 13.
 For the diffusion technique using the 30 mcg linezolid disk, the criteria in Table 13 should be achieved.
 
