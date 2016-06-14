@@ -26,18 +26,20 @@ Improvements in A1C were not affected by gender, age or baseline body mass index
 
 The mean change in body weight with NESINA was similar to placebo.
 
-| Table 3. Glycemic Parameters at Week 26 in a Placebo-Controlled Monotherapy Study of NESINAIntent-to-treat population using last observation on study |  |  |
-| --- | --- | --- |
+Table 3.
+Glycemic Parameters at Week 26 in a Placebo-Controlled Monotherapy Study of NESINAIntent-to-treat population using last observation on study
+
 |  | NESINA 25 mg | Placebo |
+| --- | --- | --- |
 | A1C (%) | N=128 | N=63 |
 | Baseline (mean) | 7.9 | 8.0 |
 | Change from baseline (adjusted meanLeast squares means adjusted for treatment, baseline value, geographic region and duration of diabetes) | -0.6 | 0 |
-| Difference from placebo (adjusted mean with 95% confidence interval) | -0.6p<0.01 compared to placebo (-0.8, -0.3) | - |
+| Difference from placebo (adjusted mean with 95% confidence interval) | -0.6p<0.01 compared to placebo (-0.8, -0.3) | ˗ |
 | % of patients (n/N) achieving A1C ≤7% | 44% (58/131) | 23% (15/64) |
 | FPG (mg/dL) | N=129 | N=64 |
 | Baseline (mean) | 172 | 173 |
 | Change from baseline (adjusted mean) | -16 | 11 |
-| Difference from placebo (adjusted mean with 95% confidence interval) | -28 (-40, -15) | - |
+| Difference from placebo (adjusted mean with 95% confidence interval) | -28 (-40, -15) | ˗ |
 
 In a 26-week, double-blind, active-controlled study, a total of 655 patients (mean baseline A1C = 8.8%) were randomized to receive NESINA 25 mg alone, pioglitazone 30 mg alone, NESINA 12.5 mg with pioglitazone 30 mg or NESINA 25 mg with pioglitazone 30 mg once daily.
 Coadministration of NESINA 25 mg with pioglitazone 30 mg resulted in statistically significant improvements from baseline in A1C and FPG compared to NESINA 25 mg alone and to pioglitazone 30 mg alone (Table 4).
@@ -47,20 +49,22 @@ Improvements in A1C were not affected by gender, age or baseline BMI.
 
 The mean increase in body weight was similar between pioglitazone alone and NESINA when coadministered with pioglitazone.
 
-| Table 4. Glycemic Parameters at Week 26 in an Active-Controlled Study of NESINA, Pioglitazone, and NESINA in Combination with PioglitazoneIntent-to-treat population using last observation carried forward |  |  |  |
-| --- | --- | --- | --- |
+Table 4.
+Glycemic Parameters at Week 26 in an Active-Controlled Study of NESINA, Pioglitazone, and NESINA in Combination with PioglitazoneIntent-to-treat population using last observation carried forward
+
 |  | NESINA 25 mg | Pioglitazone 30 mg | NESINA 25 mg + Pioglitazone 30 mg |
+| --- | --- | --- | --- |
 | A1C (%) | N=160 | N=153 | N=158 |
 | Baseline (mean) | 8.8 | 8.8 | 8.8 |
 | Change from baseline (adjusted meanLeast squares means adjusted for treatment, geographic region and baseline value) | -1.0 | -1.2 | -1.7 |
-| Difference from NESINA 25 mg (adjusted mean with 95% confidence interval) | - | - | -0.8 p<0.01 compared to NESINA 25 mg or pioglitazone 30 mg (-1.0, -0.5) |
-| Difference from pioglitazone 30 mg (adjusted mean with 95% confidence interval) | - | - | -0.6 (-0.8, -0.3) |
+| Difference from NESINA 25 mg (adjusted mean with 95% confidence interval) | ˗ | ˗ | -0.8p<0.01 compared to NESINA 25 mg or pioglitazone 30 mg (-1.0, -0.5) |
+| Difference from pioglitazone 30 mg (adjusted mean with 95% confidence interval) | ˗ | ˗ | -0.6 (-0.8, -0.3) |
 | % of patients (n/N) achieving A1C ≤7% | 24% (40/164) | 34% (55/163) | 63% (103/164) |
 | FPG (mg/dL) | N=162 | N=157 | N=162 |
 | Baseline (mean) | 189 | 189 | 185 |
 | Change from baseline (adjusted mean) | -26 | -37 | -50 |
-| Difference from NESINA 25 mg (adjusted mean with 95% confidence interval) | - | - | -24 (-34, -15) |
-| Difference from pioglitazone 30 mg (adjusted mean with 95% confidence interval) | - | - | -13 (-22, -4) |
+| Difference from NESINA 25 mg (adjusted mean with 95% confidence interval) | ˗ | ˗ | -24 (-34, -15) |
+| Difference from pioglitazone 30 mg (adjusted mean with 95% confidence interval) | ˗ | ˗ | -13 (-22, -4) |
 
 In a 26-week, double-blind, placebo-controlled study, a total of 784 patients inadequately controlled on diet and exercise alone (mean baseline A1C = 8.4%) were randomized to one of seven treatment groups: placebo; metformin HCl 500 mg or metformin HCl 1000 mg twice daily; NESINA 12.5 mg twice daily; NESINA 25 mg daily; or NESINA 12.5 mg in combination with metformin HCl 500 mg or metformin HCl 1000 mg twice daily.
 Both coadministration treatment arms (NESINA 12.5 mg + metformin HCl 500 mg and NESINA 12.5 mg + metformin HCl 1000 mg) resulted in statistically significant improvements in A1C and FPG when compared with their respective individual alogliptin and metformin component regimens (Table 5).
@@ -70,25 +74,27 @@ A total of 12.3% of patients receiving NESINA 12.5 mg + metformin HCl 500 mg, 2.
 Improvements in A1C were not affected by gender, age, race or baseline BMI.
 The mean decrease in body weight was similar between metformin alone and NESINA when coadministered with metformin.
 
-| Table 5. Glycemic Parameters at Week 26 for NESINA and Metformin Alone and in Combination in Patients with Type 2 Diabetes |  |  |  |  |  |  |
+Table 5.
+Glycemic Parameters at Week 26 for NESINA and Metformin Alone and in Combination in Patients with Type 2 Diabetes
+
+|  | Placebo | NESINA 12.5 mg Twice Daily | Metformin HCl 500 mg Twice Daily | Metformin HCl 1000 mg Twice Daily | NESINA 12.5 mg + Metformin HCl 500 mg Twice Daily | NESINA 12.5 mg + Metformin HCl 1000 mg Twice Daily |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Placebo | NESINA12.5 mg Twice Daily | Metformin HCl500 mg Twice Daily | Metformin HCl1000 mg Twice Daily | NESINA12.5 mg+ Metformin HCl500 mgTwice Daily | NESINA12.5 mg+ Metformin HCl1000 mgTwice Daily |
 | A1C (%)Intent-to-treat population using last observation on study prior to discontinuation of double-blind study medication or sulfonylurea rescue therapy for patients needing rescue | N=102 | N=104 | N=103 | N=108 | N=102 | N=111 |
 | Baseline (mean) | 8.5 | 8.4 | 8.5 | 8.4 | 8.5 | 8.4 |
 | Change from baseline (adjusted meanLeast squares means adjusted for treatment, geographic region and baseline value) | 0.1 | -0.6 | -0.7 | -1.1 | -1.2 | -1.6 |
-| Difference from metformin (adjusted mean with 95% confidence interval) | - | - | - | - | -0.6p<0.05 when compared to metformin and NESINA alone(-0.9, -0.3) | -0.4(-0.7, -0.2) |
-| Difference from NESINA (adjusted mean with 95% confidence interval) | - | - | - | - | -0.7(-1.0, -0.4) | -1.0(-1.3, -0.7) |
-| % of patients (n/N) achievingA1C <7%Compared using logistic regression | 4%(4/102) | 20%(21/104) | 27%(28/103) | 34%(37/108) | 47%(48/102) | 59%(66/111) |
+| Difference from metformin (adjusted mean with 95% confidence interval) | - | - | - | - | -0.6p<0.05 when compared to metformin and NESINA alone (-0.9, -0.3) | -0.4 (-0.7, -0.2) |
+| Difference from NESINA (adjusted mean with 95% confidence interval) | - | - | - | - | -0.7 (-1.0, -0.4) | -1.0 (-1.3, -0.7) |
+| % of patients (n/N) achieving A1C <7%Compared using logistic regression | 4% (4/102) | 20% (21/104) | 27% (28/103) | 34% (37/108) | 47% (48/102) | 59% (66/111) |
 | FPG (mg/dL) | N=105 | N=106 | N=106 | N=110 | N=106 | N=112 |
 | Baseline (mean) | 187 | 177 | 180 | 181 | 176 | 185 |
 | Change from baseline (adjusted mean) | 12 | -10 | -12 | -32 | -32 | -46 |
-| Difference from metformin (adjusted mean with 95% confidence interval) | - | - | - | - | -20(-33, -8) | -14(-26, -2) |
-| Difference from NESINA (adjusted mean with 95% confidence interval) | - | - | - | - | -22(-35, -10) | -36(-49, -24) |
+| Difference from metformin (adjusted mean with 95% confidence interval) | - | - | - | - | -20 (-33, -8) | -14 (-26, -2) |
+| Difference from NESINA (adjusted mean with 95% confidence interval) | - | - | - | - | -22 (-35, -10) | -36 (-49, -24) |
 | 2-Hour PPG (mg/dL)Intent-to-treat population using data available at Week 26 | N=26 | N=34 | N=28 | N=37 | N=31 | N=37 |
 | Baseline (mean) | 263 | 272 | 247 | 266 | 261 | 268 |
 | Change from baseline (adjusted mean) | -21 | -43 | -49 | -54 | -68 | -86 |
-| Difference from metformin (adjusted mean with 95% confidence interval) | - | - | - | - | -19(-49, 11) | -32(-58, -5) |
-| Difference from NESINA (adjusted mean with 95% confidence interval) | - | - | - | - | -25(-53, -3) | -43(-70, -16) |
+| Difference from metformin (adjusted mean with 95% confidence interval) | - | - | - | - | -19 (-49, 11) | -32 (-58, -5) |
+| Difference from NESINA (adjusted mean with 95% confidence interval) | - | - | - | - | -25 (-53, -3) | -43 (-70, -16) |
 
 ## 14.2 Combination Therapy
 
@@ -108,18 +114,20 @@ Improvements in A1C were not affected by gender, age, baseline BMI or baseline m
 
 The mean decrease in body weight was similar between NESINA and placebo when given in combination with metformin.
 
-| Table 6. Glycemic Parameters at Week 26 in a Placebo-Controlled Study of NESINA as Add-On Therapy to MetforminIntent-to-treat population using last observation on study |  |  |
-| --- | --- | --- |
+Table 6.
+Glycemic Parameters at Week 26 in a Placebo-Controlled Study of NESINA as Add-On Therapy to MetforminIntent-to-treat population using last observation on study
+
 |  | NESINA 25 mg + Metformin | Placebo + Metformin |
+| --- | --- | --- |
 | A1C (%) | N=203 | N=103 |
 | Baseline (mean) | 7.9 | 8.0 |
 | Change from baseline (adjusted meanLeast squares means adjusted for treatment, baseline value, geographic region and baseline metformin dose) | -0.6 | -0.1 |
-| Difference from placebo (adjusted mean with 95% confidence interval) | -0.5p<0.001 compared to placebo (-0.7, -0.3) | - |
+| Difference from placebo (adjusted mean with 95% confidence interval) | -0.5p<0.001 compared to placebo (-0.7, -0.3) | ˗ |
 | % of patients (n/N) achieving A1C ≤7% | 44% (92/207) | 18% (19/104) |
 | FPG (mg/dL) | N=204 | N=104 |
 | Baseline (mean) | 172 | 180 |
 | Change from baseline (adjusted mean) | -17 | 0 |
-| Difference from placebo (adjusted mean with 95% confidence interval) | -17 (-26, -9) | - |
+| Difference from placebo (adjusted mean with 95% confidence interval) | -17 (-26, -9) | ˗ |
 
 In the second 26-week, double-blind, placebo-controlled study, a total of 1554 patients already on metformin (mean baseline A1C = 8.5%) were randomized to one of 12 double-blind treatment groups: placebo; 12.5 mg or 25 mg of NESINA alone; 15 mg, 30 mg or 45 mg of pioglitazone alone; or 12.5 mg or 25 mg of NESINA in combination with 15 mg, 30 mg or 45 mg of pioglitazone.
 Patients were maintained on a stable dose of metformin (median dose = 1700 mg) during the treatment period.
@@ -131,9 +139,11 @@ Improvements in A1C were not affected by gender, age or baseline BMI.
 
 The mean increase in body weight was similar between pioglitazone alone and NESINA when coadministered with pioglitazone.
 
-| Table 7. Glycemic Parameters in a 26-Week Study of NESINA, Pioglitazone and NESINA in Combination with Pioglitazone when Added to MetforminIntent-to-treat population using last observation on study |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+Table 7.
+Glycemic Parameters in a 26-Week Study of NESINA, Pioglitazone and NESINA in Combination with Pioglitazone when Added to MetforminIntent-to-treat population using last observation on study
+
 |  | Placebo | NESINA 25 mg | Pioglitazone 15 mg | Pioglitazone 30 mg | Pioglitazone 45 mg | NESINA 25 mg + Pioglitazone 15 mg | NESINA 25 mg + Pioglitazone 30 mg | NESINA 25 mg + Pioglitazone 45 mg |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | A1C (%) | N=126 | N=123 | N=127 | N=123 | N=126 | N=127 | N=124 | N=126 |
 | Baseline (mean) | 8.5 | 8.6 | 8.5 | 8.5 | 8.5 | 8.5 | 8.5 | 8.6 |
 | Change from baseline (adjusted meanLeast squares means adjusted for treatment, geographic region, metformin dose and baseline value) | -0.1 | -0.9 | -0.8 | -0.9 | -1.0 | -1.3p≤0.01 when compared to corresponding doses of pioglitazone and NESINA alone | -1.4 | -1.6 |
@@ -145,9 +155,6 @@ The mean increase in body weight was similar between pioglitazone alone and NESI
 | Change from baseline (adjusted mean) | 7 | -19 | -24 | -29 | -32 | -38 | -42 | -53 |
 | Difference from pioglitazone (adjusted mean with 95% confidence interval) | - | - | - | - | - | -14 (-24, -5) | -13 (-23, -3) | -20 (-30, -11) |
 | Difference from NESINA (adjusted mean with 95% confidence interval) | - | - | - | - | - | -19 (-29, -10) | -23 (-33, -13) | -34 (-44, -24) |
-
-Figure 3.
-Change from Baseline in A1C at Week 26 with NESINA and Pioglitazone Alone and NESINA in Combination with Pioglitazone When Added to Metformin
 
 Add-On Therapy to a Thiazolidinedione
 
@@ -165,18 +172,20 @@ Clinically meaningful reductions in A1C were observed with NESINA compared to pl
 
 The mean increase in body weight was similar between NESINA and placebo when given in combination with pioglitazone.
 
-| Table 8. Glycemic Parameters in a 26-Week, Placebo-Controlled Study of NESINA as Add-On Therapy to PioglitazoneIntent-to-treat population using last observation on study |  |  |
-| --- | --- | --- |
+Table 8.
+Glycemic Parameters in a 26-Week, Placebo-Controlled Study of NESINA as Add-On Therapy to PioglitazoneIntent-to-treat population using last observation on study
+
 |  | NESINA 25 mg + Pioglitazone ± Metformin ± Sulfonylurea | Placebo + Pioglitazone ± Metformin ± Sulfonylurea |
+| --- | --- | --- |
 | A1C (%) | N=195 | N=95 |
 | Baseline (mean) | 8 | 8 |
 | Change from baseline (adjusted meanLeast squares means adjusted for treatment, baseline value, geographic region, baseline treatment regimen (pioglitazone, pioglitazone + metformin or pioglitazone + sulfonylurea) and baseline pioglitazone dose) | -0.8 | -0.2 |
-| Difference from placebo (adjusted mean with 95% confidence interval) | -0.6p<0.01 compared to placebo (-0.8, -0.4) | - |
+| Difference from placebo (adjusted mean with 95% confidence interval) | -0.6p<0.01 compared to placebo (-0.8, -0.4) | ˗ |
 | % of patients (n/N) achieving A1C ≤7% | 49% (98/199) | 34% (33/97) |
 | FPG (mg/dL) | N=197 | N=97 |
 | Baseline (mean) | 170 | 172 |
 | Change from baseline (adjusted mean) | -20 | -6 |
-| Difference from placebo (adjusted mean with 95% confidence interval) | -14 (-23, -5) | - |
+| Difference from placebo (adjusted mean with 95% confidence interval) | -14 (-23, -5) | ˗ |
 
 Add-on Combination Therapy with Pioglitazone and Metformin
 
@@ -191,18 +200,20 @@ Improvements in A1C were not affected by gender, age, race or baseline BMI.
 
 The mean increase in body weight was similar in both treatment arms.
 
-| Table 9. Glycemic Parameters in a 52-Week, Active-Controlled Study of NESINA as Add-On Combination Therapy to Metformin and PioglitazoneIntent-to-treat population using last observation on study |  |  |
-| --- | --- | --- |
+Table 9.
+Glycemic Parameters in a 52-Week, Active-Controlled Study of NESINA as Add-On Combination Therapy to Metformin and PioglitazoneIntent-to-treat population using last observation on study
+
 |  | NESINA 25 mg + Pioglitazone 30 mg + Metformin | Pioglitazone 45 mg + Metformin |
+| --- | --- | --- |
 | A1C (%) | N=397 | N=394 |
 | Baseline (mean) | 8.2 | 8.1 |
 | Change from baseline (adjusted meanLeast squares means adjusted for treatment, baseline value, geographic region and baseline metformin dose.) | -0.7 | -0.3 |
-| Difference from pioglitazone 45 mg + metformin (adjusted mean with 95% confidence interval) | -0.4Noninferior and statistically superior to metformin + pioglitazone at the 0.025 one-sided significance level (-0.5, -0.3) | - |
+| Difference from pioglitazone 45 mg + metformin (adjusted mean with 95% confidence interval) | -0.4Noninferior and statistically superior to metformin + pioglitazone at the 0.025 one-sided significance level (-0.5, -0.3) | ˗ |
 | % of patients (n/N) achieving A1C≤7% | 33% (134/404)p<0.001 compared to pioglitazone 45 mg + metformin | 21% (85/399) |
 | Fasting Plasma Glucose (mg/dL) | N=399 | N=396 |
 | Baseline (mean) | 162 | 162 |
 | Change from baseline (adjusted mean) | -15 | -4 |
-| Difference from pioglitazone 45 mg + metformin (adjusted mean with 95% confidence interval) | -11 (-16, -6) | - |
+| Difference from pioglitazone 45 mg + metformin (adjusted mean with 95% confidence interval) | -11 (-16, -6) | ˗ |
 
 Add-On Therapy to a Sulfonylurea
 
@@ -219,18 +230,20 @@ Improvements in A1C were not affected by gender, age, baseline BMI or baseline g
 
 The mean change in body weight was similar between NESINA and placebo when given in combination with glyburide.
 
-| Table 10. Glycemic Parameters in a 26-Week, Placebo-Controlled Study of NESINA as Add-On Therapy to GlyburideIntent-to-treat population using last observation on study |  |  |
-| --- | --- | --- |
+Table 10.
+Glycemic Parameters in a 26-Week, Placebo-Controlled Study of NESINA as Add-On Therapy to GlyburideIntent-to-treat population using last observation on study
+
 |  | NESINA 25 mg + Glyburide | Placebo + Glyburide |
+| --- | --- | --- |
 | A1C (%) | N=197 | N=97 |
 | Baseline (mean) | 8.1 | 8.2 |
 | Change from baseline (adjusted meanLeast squares means adjusted for treatment, baseline value, geographic region and baseline glyburide dose) | -0.5 | 0 |
-| Difference from placebo (adjusted mean with 95% confidence interval) | -0.5p<0.01 compared to placebo (-0.7, -0.3) | - |
+| Difference from placebo (adjusted mean with 95% confidence interval) | -0.5p<0.01 compared to placebo (-0.7, -0.3) | ˗ |
 | % of patients (n/N) achieving A1C ≤7% | 35% (69/198) | 18% (18/99) |
 | FPG (mg/dL) | N=198 | N=99 |
 | Baseline (mean) | 174 | 177 |
 | Change from baseline (adjusted mean) | -8 | 2 |
-| Difference from placebo (adjusted mean with 95% confidence interval) | -11 (-22, 1) | - |
+| Difference from placebo (adjusted mean with 95% confidence interval) | -11 (-22, 1) | ˗ |
 
 Add-On Therapy to Insulin
 
@@ -247,18 +260,20 @@ Clinically meaningful reductions in A1C were observed with NESINA compared to pl
 
 The mean increase in body weight was similar between NESINA and placebo when given in combination with insulin.
 
-| Table 11. Glycemic Parameters in a 26-Week, Placebo-Controlled Study of NESINA as Add-On Therapy to InsulinIntent-to-treat population using last observation on study |  |  |
-| --- | --- | --- |
+Table 11.
+Glycemic Parameters in a 26-Week, Placebo-Controlled Study of NESINA as Add-On Therapy to InsulinIntent-to-treat population using last observation on study
+
 |  | NESINA 25 mg + Insulin ± Metformin | Placebo + Insulin ± Metformin |
+| --- | --- | --- |
 | A1C (%) | N=126 | N=126 |
 | Baseline (mean) | 9.3 | 9.3 |
 | Change from baseline (adjusted meanLeast squares means adjusted for treatment, baseline value, geographic region, baseline treatment regimen (insulin or insulin + metformin) and baseline daily insulin dose) | -0.7 | -0.1 |
-| Difference from placebo (adjusted mean with 95% confidence interval) | -0.6p<0.05 compared to placebo (-0.8, -0.4) | - |
+| Difference from placebo (adjusted mean with 95% confidence interval) | -0.6p<0.05 compared to placebo (-0.8, -0.4) | ˗ |
 | % of patients (n/N) achieving A1C ≤7% | 8% (10/129) | 1% (1/129) |
 | FPG (mg/dL) | N=128 | N=127 |
 | Baseline (mean) | 186 | 196 |
 | Change from baseline (adjusted mean) | -12 | 6 |
-| Difference from placebo (adjusted mean with 95% confidence interval) | -18 (-33, -2) | - |
+| Difference from placebo (adjusted mean with 95% confidence interval) | -18 (-33, -2) | ˗ |
 
 ## 14.3 Cardiovascular Safety Trial
 
@@ -285,9 +300,11 @@ The median exposure to study drug was 526 days and 95% of the patients were foll
 Table 12 shows the study results for the primary MACE composite endpoint and the contribution of each component to the primary MACE endpoint.
 The upper bound of the confidence interval was 1.16 and excluded a risk margin larger than 1.3.
 
+Table 12.
+Patients with MACE in EXAMINE
+
 | 305 (11.3) | 7.6 | 316 (11.8) | 7.9 | 0.96 (0.80, 1.16) |  |
 | --- | --- | --- | --- | --- | --- |
-| Table 12. Patients with MACE in EXAMINE |  |  |  |  |  |
 | Composite of first event of CV death, nonfatal MI or nonfatal stroke (MACE) | NESINA |  | Placebo |  | Hazard Ratio |
 | Number of Patients (%) | Rate per 100 PYPatient Years (PY) | Number of Patients (%) | Rate per 100 PY | (98% CI) |  |
 | N=2701 |  | N=2679 |  |  |  |

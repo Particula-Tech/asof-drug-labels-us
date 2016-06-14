@@ -2,10 +2,10 @@
 
 The following serious adverse reactions are described below or elsewhere in the prescribing information:
 
-- •Pancreatitis [see Warnings and Precautions (5.1)]
-- •Heart Failure [see Warnings and Precautions (5.2)]
-- •Hypersensitivity Reactions [see Warnings and Precautions (5.3)]
-- •Hepatic Effects [see Warnings and Precautions (5.4)]
+- Pancreatitis [see Warnings and Precautions (5.1)]
+- Heart Failure [see Warnings and Precautions (5.2)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.3)]
+- Hepatic Effects [see Warnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -20,11 +20,13 @@ Overall discontinuation of therapy due to adverse reactions was 6.8% with NESINA
 
 Adverse reactions reported in ≥4% of patients treated with NESINA 25 mg and more frequently than in patients who received placebo are summarized in Table 1.
 
-| Table 1. Adverse Reactions Reported in ≥4% Patients Treated with NESINA 25 mg and More Frequently Than in Patients Given Placebo in Pooled Studies |  |  |  |
+Table 1.
+Adverse Reactions Reported in ≥4% Patients Treated with NESINA 25 mg and More Frequently Than in Patients Given Placebo in Pooled Studies
+
+|  | N=6447 | N=3469 | N=2257 |
 | --- | --- | --- | --- |
 |  | Number of Patients (%) |  |  |
 |  | NESINA 25 mg | Placebo | Active Comparator |
-|  | N=6447 | N=3469 | N=2257 |
 | Nasopharyngitis | 309 (4.8) | 152 (4.4) | 113 (5.0) |
 | Upper Respiratory Tract Infection | 287 (4.5) | 121 (3.5) | 113 (5.0) |
 | Headache | 278 (4.3) | 101 (2.9) | 121 (5.4) |
@@ -37,9 +39,11 @@ In the monotherapy study, the incidence of hypoglycemia was 1.5% in patients tre
 The use of NESINA as add-on therapy to glyburide or insulin did not increase the incidence of hypoglycemia compared to placebo.
 In a monotherapy study comparing NESINA to a sulfonylurea in elderly patients, the incidence of hypoglycemia was 5.4% with NESINA compared to 26% with glipizide (Table 2).
 
-| Table 2. Incidence and Rate of HypoglycemiaAdverse reactions of hypoglycemia were based on all reports of symptomatic and asymptomatic hypoglycemia; a concurrent glucose measurement was not required; intent-to-treat population. in Placebo and Active-Controlled Studies when NESINA Was Used as Add-On Therapy to Glyburide, Insulin, Metformin, Pioglitazone or Compared to Glipizide or Metformin |  |  |
-| --- | --- | --- |
+Table 2.
+Incidence and Rate of HypoglycemiaAdverse reactions of hypoglycemia were based on all reports of symptomatic and asymptomatic hypoglycemia; a concurrent glucose measurement was not required; intent-to-treat population. in Placebo and Active-Controlled Studies when NESINA Was Used as Add-On Therapy to Glyburide, Insulin, Metformin, Pioglitazone or Compared to Glipizide or Metformin
+
 | Add-On to Glyburide (26 Weeks) | NESINA 25 mg | Placebo |
+| --- | --- | --- |
 |  | N=198 | N=99 |
 | Overall (%) | 19 (9.6) | 11 (11.1) |
 | Severe (%)Severe events of hypoglycemia were defined as those events requiring medical assistance or exhibiting depressed level or loss of consciousness or seizure. | 0 | 1 (1) |
