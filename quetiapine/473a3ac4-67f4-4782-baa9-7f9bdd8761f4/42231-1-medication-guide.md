@@ -14,12 +14,10 @@ What is the most important information I should know about SEROQUEL XR?
 
 SEROQUEL XR may cause serious side effects, including:
 
-1. risk of death in the elderly with dementia: Medicines like SEROQUEL XR can increase the risk of death in elderly people who have memory loss (dementia).
-SEROQUEL XR is not for treating psychosis in the elderly with dementia.
-
-2. risk of suicidal thoughts or actions (antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions).
-
-• Talk to your, or your family member’s, healthcare provider about:
+1. 1. risk of death in the elderly with dementia: Medicines like SEROQUEL XR can increase the risk of death in elderly people who have memory loss (dementia).
+   SEROQUEL XR is not for treating psychosis in the elderly with dementia.
+2. 2. risk of suicidal thoughts or actions (antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions).
+3. • Talk to your, or your family member’s, healthcare provider about:
 
 o all risks and benefits of treatment with antidepressant medicines
 
@@ -40,29 +38,18 @@ o all treatment choices for depression or other serious mental illness
 
 Call a healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
 
-• thoughts about suicide or dying
-
-• attempts to commit suicide
-
-• new or worse depression
-
-• new or worse anxiety
-
-• feeling very agitated or restless
-
-• panic attacks
-
-• trouble sleeping (insomnia)
-
-• new or worse irritability
-
-• acting aggressive, being angry, or violent
-
-• acting on dangerous impulses
-
-• an extreme increase in activity and talking (mania)
-
-• other unusual changes in behavior or mood
+1. • thoughts about suicide or dying
+2. • attempts to commit suicide
+3. • new or worse depression
+4. • new or worse anxiety
+5. • feeling very agitated or restless
+6. • panic attacks
+7. • trouble sleeping (insomnia)
+8. • new or worse irritability
+9. • acting aggressive, being angry, or violent
+10. • acting on dangerous impulses
+11. • an extreme increase in activity and talking (mania)
+12. • other unusual changes in behavior or mood
 
 What else do I need to know about antidepressant medicines?
 
@@ -88,17 +75,13 @@ What is SEROQUEL XR?
 
 SEROQUEL XR is a prescription medicine used to treat:
 
-• schizophrenia in people 13 years of age or older
-
-• bipolar disorder in adults, including:
-
-- o depressive episodes associated with bipolar disorder
-- o manic episodes associated with bipolar I disorder alone or with lithium or divalproex
-- o long-term treatment of bipolar I disorder with lithium or divalproex
-
-• manic episodes associated with bipolar I disorder in children ages 10 to 17 years old.
-
-• major depressive disorder as add-on treatment with antidepressant medicines when your healthcare provider determines that 1 antidepressant alone is not enough to treat your depression.
+1. • schizophrenia in people 13 years of age or older
+2. • bipolar disorder in adults, including:
+3. o depressive episodes associated with bipolar disorder
+4. o manic episodes associated with bipolar I disorder alone or with lithium or divalproex
+5. o long-term treatment of bipolar I disorder with lithium or divalproex
+6. • manic episodes associated with bipolar I disorder in children ages 10 to 17 years old.
+7. • major depressive disorder as add-on treatment with antidepressant medicines when your healthcare provider determines that 1 antidepressant alone is not enough to treat your depression.
 
 It is not known if SEROQUEL XR is safe and effective in children under 10 years of age.
 
@@ -111,36 +94,24 @@ What should I tell my healthcare provider before taking SEROQUEL XR?
 
 Before you take SEROQUEL XR, tell your healthcare provider if you have or have had:
 
-• diabetes or high blood sugar in you or your family.
-Your healthcare provider should check your blood sugar before you start SEROQUEL XR and also during therapy.
-
-• high levels of total cholesterol, triglycerides or LDL-cholesterol or low levels of HDL-cholesterol
-
-• low or high blood pressure
-
-• low white blood cell count
-
-• cataracts
-
-• seizures
-
-• abnormal thyroid tests
-
-• high prolactin levels
-
-• heart problems
-
-• liver problems
-
-• any other medical condition
-
-• pregnancy or plans to become pregnant.
-It is not known if SEROQUEL XR will harm your unborn baby
-
-• breast-feeding or plans to breast-feed.
-SEROQUEL XR can pass into your breast milk.
-You and your healthcare provider should decide if you will take SEROQUEL XR or breast-feed.
-You should not do both.
+1. • diabetes or high blood sugar in you or your family.
+   Your healthcare provider should check your blood sugar before you start SEROQUEL XR and also during therapy.
+2. • high levels of total cholesterol, triglycerides or LDL-cholesterol or low levels of HDL-cholesterol
+3. • low or high blood pressure
+4. • low white blood cell count
+5. • cataracts
+6. • seizures
+7. • abnormal thyroid tests
+8. • high prolactin levels
+9. • heart problems
+10. • liver problems
+11. • any other medical condition
+12. • pregnancy or plans to become pregnant.
+    It is not known if SEROQUEL XR will harm your unborn baby
+13. • breast-feeding or plans to breast-feed.
+    SEROQUEL XR can pass into your breast milk.
+    You and your healthcare provider should decide if you will take SEROQUEL XR or breast-feed.
+    You should not do both.
 
 Tell the healthcare provider about all the medicines that you take or recently have taken including prescription medicines, over-the-counter medicines, herbal supplements and vitamins.
 
@@ -155,64 +126,50 @@ How should I take SEROQUEL XR?
 •Take SEROQUEL XR exactly as your healthcare provider tells you to take it.
 Do not change the dose yourself.
 
-• Take SEROQUEL XR by mouth, with a light meal or without food.
-
-• SEROQUEL XR should be swallowed whole and not split, chewed or crushed.
-
-• If you feel you need to stop SEROQUEL XR, talk with your healthcare provider first.
-If you suddenly stop taking SEROQUEL XR, you may have side effects such as trouble sleeping or trouble staying asleep (insomnia), nausea, and vomiting.
-
-• If you miss a dose of SEROQUEL XR, take it as soon as you remember.
-If you are close to your next dose, skip the missed dose.
-Just take the next dose at your regular time.
-Do not take 2 doses at the same time unless your healthcare provider tells you to.
-If you are not sure about your dosing, call your healthcare provider.
+1. • Take SEROQUEL XR by mouth, with a light meal or without food.
+2. • SEROQUEL XR should be swallowed whole and not split, chewed or crushed.
+3. • If you feel you need to stop SEROQUEL XR, talk with your healthcare provider first.
+   If you suddenly stop taking SEROQUEL XR, you may have side effects such as trouble sleeping or trouble staying asleep (insomnia), nausea, and vomiting.
+4. • If you miss a dose of SEROQUEL XR, take it as soon as you remember.
+   If you are close to your next dose, skip the missed dose.
+   Just take the next dose at your regular time.
+   Do not take 2 doses at the same time unless your healthcare provider tells you to.
+   If you are not sure about your dosing, call your healthcare provider.
 
 What should I avoid while taking SEROQUEL XR?
 
-• Do not drive, operate machinery, or do other dangerous activities until you know how SEROQUEL XR affects you.
-SEROQUEL XR may make you drowsy.
-
-• Avoid getting overheated or dehydrated.
-
-o Do not over-exercise.
-
-o In hot weather, stay inside in a cool place if possible.
-
-o Stay out of the sun.
-Do not wear too much or heavy clothing.
-
-o Drink plenty of water.
-
-• Do not drink alcohol while taking SEROQUEL XR.
-It may make some side effects of SEROQUEL XR worse.
+1. • Do not drive, operate machinery, or do other dangerous activities until you know how SEROQUEL XR affects you.
+   SEROQUEL XR may make you drowsy.
+2. • Avoid getting overheated or dehydrated.
+3. o Do not over-exercise.
+4. o In hot weather, stay inside in a cool place if possible.
+5. o Stay out of the sun.
+   Do not wear too much or heavy clothing.
+6. o Drink plenty of water.
+7. • Do not drink alcohol while taking SEROQUEL XR.
+   It may make some side effects of SEROQUEL XR worse.
 
 What are possible side effects of SEROQUEL XR?
 
 SEROQUEL XR can cause serious side effects, including:
 
-• See “What is the most important information I should know about SEROQUEL XR?”
-
-• stroke that can lead to death can happen in elderly people with dementia who take medicines like SEROQUEL
-
-• neuroleptic malignant syndrome (NMS).
-NMS is a rare but very serious condition that can happen in people who take antipsychotic medicines, including SEROQUEL XR.
-NMS can cause death and must be treated in a hospital.
-Call your healthcare provider right away if you become severely ill and have some or all of these symptoms:
-
-- o high fever
-- o excessive sweating
-- o rigid muscles
-- o confusion
-- o changes in your breathing, heartbeat, and blood pressure
-
-• high blood sugar (hyperglycemia).
-High blood sugar can happen if you have diabetes already or if you have never had diabetes.
-High blood sugar could lead to:
-
-- o build up of acid in your blood due to ketones (ketoacidosis)
-- o coma
-- o death
+1. • See “What is the most important information I should know about SEROQUEL XR?”
+2. • stroke that can lead to death can happen in elderly people with dementia who take medicines like SEROQUEL
+3. • neuroleptic malignant syndrome (NMS).
+   NMS is a rare but very serious condition that can happen in people who take antipsychotic medicines, including SEROQUEL XR.
+   NMS can cause death and must be treated in a hospital.
+   Call your healthcare provider right away if you become severely ill and have some or all of these symptoms:
+4. o high fever
+5. o excessive sweating
+6. o rigid muscles
+7. o confusion
+8. o changes in your breathing, heartbeat, and blood pressure
+9. • high blood sugar (hyperglycemia).
+   High blood sugar can happen if you have diabetes already or if you have never had diabetes.
+   High blood sugar could lead to:
+10. o build up of acid in your blood due to ketones (ketoacidosis)
+11. o coma
+12. o death
 
 Increases in blood sugar can happen in some people who take SEROQUEL XR.
 Extremely high blood sugar can lead to coma or death.
@@ -220,68 +177,47 @@ If you have diabetes or risk factors for diabetes (such as being overweight or a
 
 Call your healthcare provider if you have any of these symptoms of high blood sugar (hyperglycemia) while taking SEROQUEL XR:
 
-- o feel very thirsty
-- o need to urinate more than usual
-- o feel very hungry
-- o feel weak or tired
-- o feel sick to your stomach
-- o feel confused, or your breath smells fruity
-
-• high fat levels in your blood (increased cholesterol and triglycerides).
-High fat levels may happen in people treated with SEROQUEL XR.
-You may not have any symptoms, so your healthcare provider may decide to check your cholesterol and triglycerides during your treatment with SEROQUEL XR.
-
-• increase in weight (weight gain).
-Weight gain is common in people who take SEROQUEL XR so you and your healthcare provider should check your weight regularly.
-Talk to your healthcare provider about ways to control weight gain, such as eating a healthy, balanced diet, and exercising.
-
-• movements you cannot control in your face, tongue, or other body parts (tardive dyskinesia).
-These may be signs of a serious condition.
-Tardive dyskinesia may not go away, even if you stop taking SEROQUEL XR.
-Tardive dyskinesia may also start after you stop taking SEROQUEL XR.
-
-• decreased blood pressure (orthostatic hypotension), including lightheadedness or fainting caused by a sudden change in heart rate and blood pressure when rising too quickly from a sitting or lying position.
-
-• increases in blood pressure in children and teenagers.
-Your healthcare provider should check blood pressure in children and adolescents before starting SEROQUEL XR and during therapy.
-SEROQUEL XR is not approved for patients under 10 years of age.
-
-• low white blood cell count
-
-• cataracts
-
-• seizures
-
-• abnormal thyroid tests: Your healthcare provider may do blood tests to check your thyroid hormone level.
-
-• increases in prolactin levels: Your healthcare provider may do blood tests to check your prolactin levels.
-
-• sleepiness, drowsiness, feeling tired, difficulty thinking and doing normal activities
-
-• increased body temperature
-
-• difficulty swallowing
-
-• trouble sleeping or trouble staying asleep (insomnia), nausea, or vomiting if you suddenly stop taking SEROQUEL XR.
-These symptoms usually get better 1 week after you start having them.
+1. o feel very thirsty
+2. o need to urinate more than usual
+3. o feel very hungry
+4. o feel weak or tired
+5. o feel sick to your stomach
+6. o feel confused, or your breath smells fruity
+7. • high fat levels in your blood (increased cholesterol and triglycerides).
+   High fat levels may happen in people treated with SEROQUEL XR.
+   You may not have any symptoms, so your healthcare provider may decide to check your cholesterol and triglycerides during your treatment with SEROQUEL XR.
+8. • increase in weight (weight gain).
+   Weight gain is common in people who take SEROQUEL XR so you and your healthcare provider should check your weight regularly.
+   Talk to your healthcare provider about ways to control weight gain, such as eating a healthy, balanced diet, and exercising.
+9. • movements you cannot control in your face, tongue, or other body parts (tardive dyskinesia).
+   These may be signs of a serious condition.
+   Tardive dyskinesia may not go away, even if you stop taking SEROQUEL XR.
+   Tardive dyskinesia may also start after you stop taking SEROQUEL XR.
+10. • decreased blood pressure (orthostatic hypotension), including lightheadedness or fainting caused by a sudden change in heart rate and blood pressure when rising too quickly from a sitting or lying position.
+11. • increases in blood pressure in children and teenagers.
+    Your healthcare provider should check blood pressure in children and adolescents before starting SEROQUEL XR and during therapy.
+    SEROQUEL XR is not approved for patients under 10 years of age.
+12. • low white blood cell count
+13. • cataracts
+14. • seizures
+15. • abnormal thyroid tests: Your healthcare provider may do blood tests to check your thyroid hormone level.
+16. • increases in prolactin levels: Your healthcare provider may do blood tests to check your prolactin levels.
+17. • sleepiness, drowsiness, feeling tired, difficulty thinking and doing normal activities
+18. • increased body temperature
+19. • difficulty swallowing
+20. • trouble sleeping or trouble staying asleep (insomnia), nausea, or vomiting if you suddenly stop taking SEROQUEL XR.
+    These symptoms usually get better 1 week after you start having them.
 
 The most common side effects of SEROQUEL XR include:
 
-• dry mouth
-
-• constipation
-
-• dizziness
-
-• increased appetite
-
-• upset stomach
-
-• fatigue
-
-• stuffy nose
-
-• difficulty moving
+1. • dry mouth
+2. • constipation
+3. • dizziness
+4. • increased appetite
+5. • upset stomach
+6. • fatigue
+7. • stuffy nose
+8. • difficulty moving
 
 These are not all the possible side effects of SEROQUEL XR.
 For more information, ask your healthcare provider or pharmacist.
@@ -293,7 +229,7 @@ How should I store SEROQUEL XR?
 
 •Store SEROQUEL XR at room temperature, between 68°F to 77°F (20°C to 25°C).
 
-• Keep SEROQUEL XR and all medicines out of the reach of children.
+1. • Keep SEROQUEL XR and all medicines out of the reach of children.
 
 General information about the safe and effective use of SEROQUEL XR.
 
