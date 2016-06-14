@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-VARIBAR® THIN HONEY (Target Viscosity 1500 CPS) Barium Sulfate Esophageal Paste (40% w/v, 29% w/w) is for oral administration.
+VARIBAR® THIN HONEY (Target Viscosity 1500 CPS) Barium Sulfate Suspension (40% w/v, 29% w/w) is for oral administration.
 Each 100 mL contains 40 g barium sulfate.
 Barium sulfate, due to its high molecular density is opaque to x-rays and, therefore, acts as a positive contrast agent for radiographic studies.
 The active ingredient is barium sulfate and its structural formula is BaSO4.
