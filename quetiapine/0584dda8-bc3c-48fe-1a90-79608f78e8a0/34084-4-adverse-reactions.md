@@ -358,7 +358,7 @@ It is important to emphasize that, although the reactions reported occurred duri
 
 Reactions are further categorized by body system and listed in order of decreasing frequency according to the following definitions: frequent adverse reactions are those occurring in at least 1/100 patients (only those not already listed in the tabulated results from placebo-controlled trials appear in this listing); infrequent adverse reactions are those occurring in 1/100 to 1/1000 patients; rare reactions are those occurring in fewer than 1/1000 patients.
 
-Nervous System: Infrequent: abnormal dreams, dyskinesia, thinking abnormal, tardive dyskinesia, vertigo, involuntary movements, confusion, amnesia, psychosis, hallucinations, hyperkinesia, libido increased, urinary retention, incoordination, paranoid reaction, abnormal gait, myoclonus, delusions, manic reaction, apathy, ataxia, depersonalization, stupor, bruxism, catatonic reaction, hemiplegia; Rare: aphasia, buccoglossal syndrome, choreoathetosis, delirium, emotional lability, euphoria, libido decreased, neuralgia, stuttering, subdural hematoma.
+Nervous System: Infrequent: abnormal dreams, dyskinesia, thinking abnormal, tardive dyskinesia, vertigo, involuntary movements, confusion, amnesia, psychosis, hallucinations, hyperkinesia, libido increased, urinary retention, incoordination, paranoid reaction, abnormal gait, myoclonus, delusions, manic reaction, apathy, ataxia, depersonalization, stupor, bruxism, catatonic reaction, hemiplegia; aphasia, buccoglossal syndrome, choreoathetosis, delirium, emotional lability, euphoria, libido decreased, neuralgia, stuttering, subdural hematoma.
 
 Body as a Whole: Frequent: flu syndrome; Infrequent: neck pain, pelvic pain suicide attempt, malaise, photosensitivity reaction, chills, face edema, moniliasis; Rare: abdomen enlarged.
 
@@ -372,7 +372,7 @@ Metabolic and Nutritional System: Infrequent: weight loss, alkaline phosphatase 
 
 Skin and Appendages System: Infrequent: pruritus, acne, eczema, contact dermatitis, maculopapular rash, seborrhea, skin ulcer; Rare: exfoliative dermatitis, psoriasis, skin discoloration.
 
-Urogenital System: Infrequent: dysmenorrheal Adjusted for gender., vaginitis, urinary incontinence, metrorrhagia, impotence, dysuria, vaginal moniliasis, abnormal ejaculation, cystitis, urinary frequency, amenorrhea, female lactation, leukorrhea, vaginal hemorrhage, vulvovaginitis, orchitis; Rare: gynecomastia, nocturia, polyuria, acute kidney failure.
+Urogenital System: Infrequent: dysmenorrheal Adjusted for gender., vaginitis, urinary incontinence, metrorrhagia, impotence, dysuria, vaginal moniliasis, abnormal ejaculation, cystitis, urinary frequency, amenorrhea, female lactation, leukorrhea, vaginal hemorrhage, vulvovaginitis, orchitis; gynecomastia, nocturia, polyuria, acute kidney failure.
 
 Special Senses: Infrequent: conjunctivitis, abnormal vision, dry eyes, tinnitus, taste perversion, blepharitis, eye pain; Rare: abnormality of accommodation, deafness, glaucoma.
 
@@ -432,4 +432,4 @@ Mean increases in heart rate were 3.4 bpm for SEROQUEL XR, compared to 0.3 bpm i
 The following adverse reactions were identified during post approval of SEROQUEL.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Adverse reactions reported since market introduction which were temporally related to quetiapine therapy include anaphylactic reaction, cardiomyopathy, hyponatremia, myocarditis, nocturnal enuresis, pancreatitis, retrograde amnesia, rhabdomyolysis, syndrome of inappropriate antidiuretic hormone secretion (SIADH), Stevens-Johnson syndrome (SJS), and toxic epidermal necrolysis (TEN).
+Adverse reactions reported since market introduction which were temporally related to quetiapine therapy include anaphylactic reaction, cardiomyopathy, drug reaction with eosinophilia and systemic symptoms (DRESS), hyponatremia, myocarditis, nocturnal enuresis, pancreatitis, retrograde amnesia, rhabdomyolysis, syndrome of inappropriate antidiuretic hormone secretion (SIADH), Stevens-Johnson syndrome (SJS), and toxic epidermal necrolysis (TEN).
