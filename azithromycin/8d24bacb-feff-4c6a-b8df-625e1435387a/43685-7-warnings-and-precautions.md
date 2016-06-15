@@ -2,10 +2,11 @@
 
 ## 5.1 Hypersensitivity
 
-Serious allergic reactions, including angioedema, anaphylaxis, and dermatologic reactions including Stevens-Johnson Syndrome, toxic epidermal necrolysis, and Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) have been reported in patients on azithromycin therapy.
+Serious allergic reactions, including angioedema, anaphylaxis, and dermatologic reactions including Stevens-Johnson Syndrome, and toxic epidermal necrolysis have been reported in patients on azithromycin therapy.
 [see Contraindications (4.1)]
 
 Fatalities have been reported.
+Cases of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) have also been reported.
 Despite initially successful symptomatic treatment of the allergic symptoms, when symptomatic therapy was discontinued, the allergic symptoms recurred soon thereafter in some patients without further azithromycin exposure.
 These patients required prolonged periods of observation and symptomatic treatment.
 The relationship of these episodes to the long tissue half-life of azithromycin and subsequent prolonged exposure to antigen is unknown at present.
@@ -24,8 +25,8 @@ Prolonged cardiac repolarization and QT interval, imparting a risk of developing
 Cases of torsades de pointes have been spontaneously reported during postmarketing surveillance in patients receiving azithromycin.
 Providers should consider the risk of QT prolongation, which can be fatal when weighing the risks and benefits of azithromycin for at-risk groups including:
 
-- patients with known prolongation of the QT interval, a history of torsades de pointes, congenital long QT syndrome, bradyarrhythmias or uncompensated heart failure
-- patients on drugs known to prolong the QT interval
+- patients with known prolongation of the QT interval, a history of torsades de pointes, congenital long QT syndrome, bradyarrhythmias or uncompensated heart failure.
+- patients on drugs known to prolong the QT interval.
 - patients with ongoing proarrhythmic conditions such as uncorrected hypokalemia or hypomagnesemia, clinically significant bradycardia, and in patients receiving Class IA (quinidine, procainamide) or Class III (dofetilide, amiodarone, sotalol) antiarrhythmic agents.
 
 Elderly patients may be more susceptible to drug-associated effects on the QT interval.

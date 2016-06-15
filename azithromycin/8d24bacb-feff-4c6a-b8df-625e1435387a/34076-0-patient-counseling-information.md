@@ -7,4 +7,4 @@ Sometimes after starting treatment with antibacterials, patients can develop wat
 If this occurs, patients should notify their physician as soon as possible.
 
 This product's label may have been updated.
-For current full prescribing information, please visit www.amerinet-gpo.com
+For current full prescribing information, please visit www.intalere.com.

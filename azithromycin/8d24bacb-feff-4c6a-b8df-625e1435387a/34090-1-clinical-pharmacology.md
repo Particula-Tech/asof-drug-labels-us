@@ -2,7 +2,8 @@
 
 ## 12.1 Mechanism of Action
 
-Azithromycin is a macrolide antibacterial drug [see Microbiology (12.4)]
+Azithromycin is a macrolide antibacterial drug.
+[see Microbiology (12.4)]
 
 ## 12.2 Pharmacodynamics
 
@@ -80,7 +81,7 @@ Geriatric Patients
 
 Pharmacokinetic studies with intravenous azithromycin have not been performed in older volunteers.
 Pharmacokinetics of azithromycin following oral administration in older volunteers (65–85 years old) were similar to those in younger volunteers (18–40 years old) for the 5-day therapeutic regimen.
-[see Geriatric Use 8.5)].
+[see Geriatric Use 8.5)]
 
 Pediatric Patients
 
@@ -96,7 +97,8 @@ No dosage adjustment of drugs listed in Table 1 is recommended when co-administe
 
 Co-administration of azithromycin with efavirenz or fluconazole had a modest effect on the pharmacokinetics of azithromycin.
 Nelfinavir significantly increased the Cmax and AUC of azithromycin.
-No dosage adjustment of azithromycin is recommended when administered with drugs listed in Table 2 [see Drug Interactions (7.3)].
+No dosage adjustment of azithromycin is recommended when administered with drugs listed in Table 2.
+[see Drug Interactions (7.3)]
 
 Table 1.
 Drug Interactions: Pharmacokinetic Parameters for Co-administered Drugs in the Presence of Azithromycin
@@ -122,7 +124,8 @@ Drug Interactions: Pharmacokinetic Parameters for Co-administered Drugs in the P
 | Zidovudine | 500 mg/day orally for 21 days | 1,200 mg/day orally for 14 days | 4 | 1.31 (0.43 to 3.97) | 1.30 (0.69 to 2.43) |
 
 Table 2.
-Drug Interactions: Pharmacokinetic Parameters for Azithromycin in the Presence of Co-administered Drugs [see Drug Interactions (7.3)].
+Drug Interactions: Pharmacokinetic Parameters for Azithromycin in the Presence of Co-administered Drugs.
+[see Drug Interactions (7.3)]
 
 | Mean Cmax | Mean AUC |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
