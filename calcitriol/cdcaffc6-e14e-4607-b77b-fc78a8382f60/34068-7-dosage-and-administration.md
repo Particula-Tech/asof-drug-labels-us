@@ -1,7 +1,7 @@
 # DOSAGE AND ADMINISTRATION
 
 The optimal daily dose of calcitriol must be carefully determined for each patient.
-Calcitriol Capsules should be administered orally.
+Calcitriol capsules should be administered orally.
 Calcitriol therapy should always be started at the lowest possible dose and should not be increased without careful monitoring of serum calcium.
 
 The effectiveness of calcitriol therapy is predicated on the assumption that each patient is receiving an adequate but not excessive daily intake of calcium.

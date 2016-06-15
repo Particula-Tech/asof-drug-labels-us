@@ -1,10 +1,17 @@
 # HOW SUPPLIED
 
-Calcitriol Capsules are supplied as oval, soft gelatin capsules.
-The 0.25 mcg capsules are imprinted with “547” in black ink.
+Calcitriol Capsules
 
-0054-0007-13 - 0.25 mcg yellow capsule, bottle of 30
+0.25 mg capsules are supplied as yellow, oval soft gelatin capsules, imprinted with “547” in black ink.
 
-0054-0007-25 - 0.25 mcg yellow capsule, bottle of 100
+NDC 0054-0007-13: Bottle of 30 Capsules
+
+NDC 0054-0007-25: Bottle of 100 Capsules
 
 Calcitriol Capsules should be protected from light.
+
+Storage
+
+Store at 20° to 25°C (68° to 77°F).
+[See USP Controlled Room Temperature.]
+Protect from light.

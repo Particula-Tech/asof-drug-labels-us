@@ -14,7 +14,7 @@ Calcitriol should be used during pregnancy only if the potential benefit justifi
 
 ## Nonteratogenic Effects
 
-In the rabbit, dosages of 0.3 mcg/kg/day (approximately 6 times maximum recommended dose based on surface area) administered on days 7 to 18 of ges-tation resulted in 19% maternal mortality, a decrease in mean fetal body weight and a reduced number of newborn surviving to 24 hours.
+In the rabbit, dosages of 0.3 mcg/kg/day (approximately 6 times maximum recommended dose based on surface area) administered on days 7 to 18 of gestation resulted in 19% maternal mortality, a decrease in mean fetal body weight and a reduced number of newborn surviving to 24 hours.
 A study of perinatal and postnatal development in rats resulted in hypercalcemia in the offspring of dams given calcitriol at doses of 0.08 or 0.3 mcg/kg/day (approximately 1 and 3 times the maximum recommended dose based on mg/m2), hypercalcemia and hypophosphatemia in dams given calcitriol at a dose of 0.08 or 0.3 mcg/kg/day, and increased serum urea nitrogen in dams given calcitriol at a dose of 0.3 mcg/kg/day.
 In another study in rats, maternal weight gain was slightly reduced at a dose of 0.3 mcg/kg/day (approximately 3 times the maximum recommended dose based on mg/m2) administered on days 7 to 15 of gestation.
 The offspring of a woman administered 17 mcg/day to 36 mcg/day of calcitriol (approximately 17 to 36 times the maximum recommended dose), during pregnancy manifested mild hypercalcemia in the first 2 days of life which returned to normal at day 3.
