@@ -22,8 +22,10 @@ The container closure is not made with natural rubber latex.
 
 To report SUSPECTED ADVERSE REACTIONS, contact Sagent Pharmaceuticals, Inc. at 1-866-625-1618 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
-SAGENT™
+SAGENT®
 
-Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in India ©2013 Sagent Pharmaceuticals, Inc.
+Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in India ©2016 Sagent Pharmaceuticals, Inc.
 
-Revised: April 2013
+Revised: January 2016
+
+SAGENT Pharmaceuticals®

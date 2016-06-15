@@ -6,7 +6,7 @@ Metoprolol Tartrate Injection, USP
 
 5 mg per 5 mL
 
-(1 mg/mL)
+(1 mg per mL)
 
 Rx only
 
