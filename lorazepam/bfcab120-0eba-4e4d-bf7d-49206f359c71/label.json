@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "NDA017794"
+  ],
+  "inn": "lorazepam",
+  "labeler": "Oceanside Pharmaceuticals",
+  "package_ndcs": [
+    "68682-303-01",
+    "68682-303-10",
+    "68682-303-50",
+    "68682-304-01",
+    "68682-304-10",
+    "68682-304-50",
+    "68682-305-01",
+    "68682-305-10",
+    "68682-305-50"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "lorazepam",
+      "name": "Ativan"
+    }
+  ],
+  "setid": "bfcab120-0eba-4e4d-bf7d-49206f359c71",
+  "source": "dailymed"
+}
