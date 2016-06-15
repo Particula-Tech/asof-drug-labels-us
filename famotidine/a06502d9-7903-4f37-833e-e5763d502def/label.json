@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA019462"
+  ],
+  "inn": "famotidine",
+  "labeler": "Valeant Pharmaceuticals North America LLC",
+  "package_ndcs": [
+    "0187-4420-10",
+    "0187-4420-30",
+    "0187-4440-10",
+    "0187-4440-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "famotidine",
+      "name": "Pepcid"
+    }
+  ],
+  "setid": "a06502d9-7903-4f37-833e-e5763d502def",
+  "source": "dailymed"
+}
