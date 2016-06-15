@@ -39,7 +39,7 @@ Recurrence Rates in Immunocompetent Adults at 6 and 12 Months
 
 | Outcome | 6 Months |  |  | 12 Months |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Valacyclovir Hydrochloride 1 gram once daily(n = 269) | Oral acyclovir 400 mg twice daily(n = 267) | Placebo(n = 134) | Valacyclovir Hydrochloride 1 gram once daily (n = 269) | Oral acyclovir 400 mg twice daily(n = 267) | Placebo(n = 134) |  |
+| Valacyclovir Hydrochloride 1 gram once daily (n = 269) | Oral acyclovir 400 mg twice daily(n = 267) | Placebo(n = 134) | Valacyclovir Hydrochloride 1 gram once daily (n = 269) | Oral acyclovir 400 mg twice daily(n = 267) | Placebo(n = 134) |  |
 | Recurrence free | 55% | 54% | 7% | 34% | 34% | 4% |
 | Recurrences | 35% | 36% | 83% | 46% | 46% | 85% |
 | Unknown* | 10% | 10% | 10% | 19% | 19% | 10% |
@@ -76,7 +76,7 @@ The efficacy results are summarized in Table 7.
 Table 7.
 Percentage of Susceptible Partners Who Acquired HSV‑2 Defined by the Primary and Selected Secondary Endpoints
 
-| Endpoint | Valacyclovir* (n = 743) | Placebo (n = 741) |
+| Endpoint | Valacyclovir Hydrochloride* (n = 743) | Placebo (n = 741) |
 | --- | --- | --- |
 | Symptomatic HSV‑2 acquisition | 4 (0.5%) | 16 (2.2%) |
 | HSV‑2 seroconversion | 12 (1.6%) | 24 (3.2%) |
@@ -97,13 +97,13 @@ In patients greater than 50 years of age, among the 83% who reported pain after 
 
 ## 14.4 Chickenpox
 
-The use of valacyclovir hydrochloride for treatment of chickenpox in pediatric patients 2 to <18 years of age is based on single-dose pharmacokinetic and multiple-dose safety data froman open-label trial with valacyclovir and supported by safety and extrapolated efficacy data from 3 randomized, double-blind, placebo-controlled trials evaluating oral acyclovir in pediatric patients.
+The use of valacyclovir hydrochloride for treatment of chickenpox in pediatric patients 2 to <18 years of age is based on single-dose pharmacokinetic and multiple-dose safety data from an open-label trial with valacyclovir and supported by safety and extrapolated efficacy data from 3 randomized, double-blind, placebo-controlled trials evaluating oral acyclovir in pediatric patients.
 
 The single-dose pharmacokinetic and multiple-dose safety study enrolled 27 pediatric patients 1 to <12 years of age with clinically suspected VZV infection.
 Each subject was dosed with valacyclovir oral suspension, 20 mg/kg 3 times daily for 5 days.
 Acyclovir systemic exposures in pediatric patients following valacyclovir oral suspension were compared with historical acyclovir systemic exposures in immunocompetent adults receiving the solid oral dosage form of valacyclovir or acyclovir for the treatment of herpes zoster.
-The mean projected daily acyclovir exposures in pediatric patients across all age-groups (1 to <12 years ofage) were lower (Cmax:↓13%,AUC: ↓30%)than the mean daily historical exposures in adults receiving valacyclovir 1 gram 3 times daily, but were higher (daily AUC: ↑50%)than the mean daily historical exposures in adults receiving acyclovir 800 mg 5 times daily.
+The mean projected daily acyclovir exposures in pediatric patients across all age-groups (1 to <12 years of age) were lower (Cmax: ↓13%,AUC: ↓30%)than the mean daily historical exposures in adults receiving valacyclovir 1 gram 3 times daily, but were higher (daily AUC: ↑50%) than the mean daily historical exposures in adults receiving acyclovir 800 mg 5 times daily.
 The projected daily exposures in pediatric patients were greater (daily AUC approximately 100% greater) than the exposures seen in immunocompetent pediatric patients receiving acyclovir 20 mg/kg 4 times daily for the treatment of chickenpox.
-Based on the pharmacokinetic and safety data from this study and the safety and extrapolated efficacy data from the acyclovir studies, oral valacyclovir 20 mg/kg 3 times a day for 5 days (not to exceed 1 gram 3 times daily) is recommended for the treatment of chickenpox inpediatric patients 2 to <18 years of age.
+Based on the pharmacokinetic and safety data from this study and the safety and extrapolated efficacy data from the acyclovir studies, oral valacyclovir 20 mg/kg 3 times a day for 5 days (not to exceed 1 gram 3 times daily) is recommended for the treatment of chickenpox in pediatric patients 2 to <18 years of age.
 Because the efficacy and safety of acyclovir for the treatment of chickenpox in children <2 years of age have not been established, efficacy data cannot be extrapolated to support valacyclovir treatment in children <2 years of age with chickenpox.
-Valacyclovir is also not recommended for the treatment of herpes zoster in children because safety data up to 7 days’ duration are not available[see Use in Specific Populations (8.4)].
+Valacyclovir is also not recommended for the treatment of herpes zoster in children because safety data up to 7 days’ duration are not available [see Use in Specific Populations (8.4)].

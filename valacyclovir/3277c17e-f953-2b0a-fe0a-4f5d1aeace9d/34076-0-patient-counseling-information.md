@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling (17.6).
+See FDA-Approved Patient Labeling.
 
 ## 17.1 Importance of Adequate Hydration
 
@@ -39,11 +39,4 @@ Patients should be advised to initiate treatment as soon as possible after a dia
 ## 17.5 Chickenpox
 
 Patients should be advised to initiate treatment at the earliest sign or symptom of chickenpox.
-
-## 17.6 FDA-Approved Patient Labeling
-
-Patient labeling is provided as a tear-off leaflet at the end of this full prescribing information.
-
-Manufactured by: Jubilant Life Sciences Limited Roorkee - 247661, India.
-Marketed by: Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD 21801, USA.
-Revised: May, 2012
+Manufactured by: Jubilant Generics Limited Roorkee - 247661, India Marketed by: Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD 21801, USA Revised: June 2016

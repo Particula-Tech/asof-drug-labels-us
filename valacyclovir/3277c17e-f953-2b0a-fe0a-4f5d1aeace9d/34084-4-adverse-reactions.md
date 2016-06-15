@@ -39,12 +39,12 @@ Incidence (%) of Laboratory Abnormalities in Herpes Zoster and Genital Herpes St
 
 | Laboratory Abnormality | Herpes Zoster |  | Genital Herpes Treatment |  |  | Genital Herpes Suppression |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Valacyclovir hydrochloride 1 gram 3 times daily(n = 967) | Placebo(n = 195) | Valacyclovir hydrochloride 1 gram twice daily (n = 1,194) | Valacyclovir hydrochloride 500 mg twice daily(n = 1,159) | Placebo(n = 439) | Valacyclovir hydrochloride 1 gram once daily (n = 269) | Valacyclovir hydrochloride 500 mg once daily (n = 266) | Placebo (n = 134) |  |
+| Valacyclovir Hydrochloride 1 gram 3 times daily(n = 967) | Placebo(n = 195) | Valacyclovir Hydrochloride 1 gram twice daily (n = 1,194) | Valacyclovir Hydrochloride 500 mg twice daily(n = 1,159) | Placebo(n = 439) | Valacyclovir Hydrochloride 1 gram once daily (n = 269) | Valacyclovir Hydrochloride 500 mg once daily (n = 266) | Placebo (n = 134) |  |
 | Hemoglobin (<0.8 x LLN) | 0.8% | 0% | 0.3% | 0.2% | 0% | 0% | 0.8% | 0.8% |
 | White blood cells (<0.75 x LLN) | 1.3% | 0.6% | 0.7% | 0.6% | 0.2% | 0.7% | 0.8% | 1.5% |
 | Platelet count (<100,000/mm3) | 1.0% | 1.2% | 0.3% | 0.1% | 0.7% | 0.4% | 1.1% | 1.5% |
 | AST (SGOT) (>2 x ULN) | 1.0% | 0% | 1.0% | * | 0.5% | 4.1% | 3.8% | 3.0% |
-| Serum creatinine(>1.5 x ULN) | 0.2% | 0% | 0.7% | 0% | 0% | 0% | 0% | 0% |
+| Serum creatinine (>1.5 x ULN) | 0.2% | 0% | 0.7% | 0% | 0% | 0% | 0% | 0% |
 
 *Data were not collected prospectively.
 LLN = Lower limit of normal.
@@ -53,7 +53,7 @@ ULN = Upper limit of normal.
 ## 6.2 Clinical Trials Experience in Pediatric Patients
 
 The safety profile of valacyclovir hydrochloride has been studied in 177 pediatric patients 1 month to <18 years of age.
-Sixty-five of these pediatric patients, 12 to <18 years of age, received oral caplets for 1 to 2 days for treatment of cold sores.
+Sixty-five of these pediatric patients, 12 to <18 years of age, received oral tablets for 1 to 2 days for treatment of cold sores.
 The remaining 112 pediatric patients, 1 month to <12 years of age, participated in 3 pharmacokinetic and safety studies and received valacyclovir oral suspension.
 Fifty-one of these 112 pediatric patients received oral suspension for 3 to 6 days.
 The frequency, intensity, and nature of clinical adverse reactions and laboratory abnormalities were similar to those seen in adults.
@@ -67,10 +67,11 @@ In addition to adverse events reported from clinical trials, the following event
 Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
 These events have been chosen for inclusion due to a combination of their seriousness, frequency of reporting, or potential causal connection to valacyclovir hydrochloride.
 General: Facial edema, hypertension, tachycardia.
-Allergic: Acute hypersensitivity reactions including anaphylaxis, angioedema, dyspnea, pruritus, rash, and urticaria [see Contraindications (4)] CNS Symptoms: Aggressive behavior; agitation; ataxia; coma; confusion; decreased consciousness; dysarthria; encephalopathy; mania; and psychosis, including auditory and visual hallucinations, seizures, tremors [see Warnings and Precautions (5.3), Use in Specific Populations (8.5), (8.6)].
+Allergic: Acute hypersensitivity reactions including anaphylaxis, angioedema, dyspnea, pruritus, rash, and urticaria [see Contraindications (4)].
+CNS Symptoms: Aggressive behavior; agitation; ataxia; coma; confusion; decreased consciousness; dysarthria; encephalopathy; mania; and psychosis, including auditory and visual hallucinations, seizures, tremors [see Warnings and Precautions (5.3), Use in Specific Populations (8.5), (8.6)].
 Eye: Visual abnormalities.
 Gastrointestinal: Diarrhea.
 Hepatobiliary Tract and Pancreas: Liver enzyme abnormalities, hepatitis.
 Renal: Renal failure, renal pain (may be associated with renal failure) [see Warnings and Precautions (5.2), Use in Specific Populations (8.5), (8.6)].
-Hematologic:Thrombocytopenia, aplastic anemia, leukocytoclastic vasculitis, TTP/HUS [see Warnings and Precautions (5.1)].
+Hematologic: Thrombocytopenia, aplastic anemia, leukocytoclastic vasculitis, TTP/HUS [see Warnings and Precautions (5.1)].
 Skin: Erythema multiforme, rashes including photosensitivity, alopecia.

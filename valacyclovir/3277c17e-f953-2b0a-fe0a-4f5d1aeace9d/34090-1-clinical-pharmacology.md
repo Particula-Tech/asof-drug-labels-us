@@ -6,7 +6,7 @@ Valacyclovir is an antiviral drug [see Clinical Pharmacology (12.4)].
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetics of valacyclovir and acyclovir after oral administration of valacyclovir hydrochloride have been investigated in 14 volunteer studies involving 283 adults and in 3 studies involving 112 pediatric subjects from1 month to <12 years of age.
+The pharmacokinetics of valacyclovir and acyclovir after oral administration of valacyclovir hydrochloride have been investigated in 14 volunteer studies involving 283 adults and in 3 studies involving 112 pediatric subjects from 1 month to <12 years of age.
 
 Pharmacokinetics in Adults: Absorption and Bioavailability: After oral administration, valacyclovir hydrochloride is rapidly absorbed from the gastrointestinal tract and nearly completely converted to acyclovir and L-valine by first-pass intestinal and/or hepatic metabolism.
 
@@ -71,10 +71,10 @@ Acyclovir pharmacokinetic parameter estimates following a 20 mg/kg dose are prov
 Table 4.
 Mean (±SD) Plasma Acyclovir Pharmacokinetic Parameter Estimates Following First-Dose Administration of 20 mg/kg Valacyclovir Oral Suspension to Pediatric Patients vs. 1 Gram Single Dose of Valacyclovir Hydrochloride to Adults
 
-| Parameter | Pediatric Patients (20 mg/kg Oral Suspension) |  |  | Adults 1 gram Solid Dose of Valacyclovir Hydrochloridea (N=15) |
+| Parameter | Pediatric Patients (20 mg/kg Oral Suspension) |  |  | Adults 1 gram Solid Dose of Valacyclovir Hydrochloridea (N = 15) |
 | --- | --- | --- | --- | --- |
-|  | 1-<2 yr (N=6) | 2-<6 yr (N=12) | 6-<12 yr (N=8) |  |
-| AUC(mcg.hr/mL) Cmax (mcg/mL) | 14.4(±6.26) 4.03(±1.37) | 10.1(±3.35) 3.75(±1.14) | 13.1(±3.43) 4.71(±1.20 | 17.2(±3.10) 4.72(±1.37) |
+|  | 1-<2 yr (N = 6) | 2-<6 yr (N = 12) | 6-<12 yr (N = 8) |  |
+| AUC (mcg.hr/mL) Cmax (mcg/mL) | 14.4 (±6.26) 4.03 (±1.37) | 10.1 (±3.35) 3.75 (±1.14) | 13.1 (±3.43) 4.71 (±1.20 | 17.2 (±3.10) 4.72 (±1.37) |
 
 a Historical estimates using pediatric pharmacokinetic sampling schedule.
 
