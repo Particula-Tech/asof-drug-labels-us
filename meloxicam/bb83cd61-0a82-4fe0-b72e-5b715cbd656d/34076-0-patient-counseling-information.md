@@ -1,56 +1,58 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved Medication Guide
+Advise the patient to read the FDA-approved patient labeling (Medication Guide) that accompanies each prescription dispensed.
 
-Patients should be informed of the following information before initiating therapy with an NSAID and periodically during the course of ongoing therapy.
+Inform patients, families or their caregivers of the following information before initiating therapy with an NSAID and periodically during the course of ongoing therapy.
 
-## 17.1 Medication Guide
+Cardiovascular Thrombotic Events
 
-Inform patients of the availability of a Medication Guide for NSAIDs that accompanies each prescription dispensed, and instruct them to read the Medication Guide prior to using meloxicam.
+Advise patients to be alert for the symptoms of cardiovascular thrombotic events, including chest pain, shortness of breath, weakness, or slurring of speech, and to report any of these symptoms to their healthcare provider immediately [see Warnings and Precautions (5.1)].
 
-## 17.2 Cardiovascular Effects
+Gastrointestinal Bleeding, Ulceration, and Perforation
 
-NSAIDs including meloxicam may cause serious CV side effects, such as MI or stroke, which may result in hospitalization and even death.
-Although serious CV events can occur without warning symptoms, patients should be alert for the signs and symptoms of chest pain, shortness of breath, weakness, slurring of speech, and should ask for medical advice when observing any indicative sign or symptoms.
-Patients should be apprised of the importance of this follow-up [see Warnings and Precautions (5.1)].
+Advise patients to report symptoms of ulcerations and bleeding, including epigastric pain, dyspepsia, melena, and hematemesis to their healthcare provider.
+In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, inform patients of the increased risk for the signs and symptoms of GI bleeding [see Warnings and Precautions (5.2)].
 
-## 17.3 Gastrointestinal Effects
+Hepatotoxicity
 
-NSAIDs including meloxicam, can cause GI discomfort and, rarely, serious GI side effects, such as ulcers and bleeding, which may result in hospitalization and even death.
-Although serious GI tract ulcerations and bleeding can occur without warning symptoms, patients should be alert for the signs and symptoms of ulcerations and bleeding, and should ask for medical advice when observing any indicative sign or symptoms including epigastric pain, dyspepsia, melena, and hematemesis.
-Patients should be apprised of the importance of this follow-up [see Warnings and Precautions (5.2)].
+Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, diarrhea, pruritus, jaundice, right upper quadrant tenderness, and "flu-like" symptoms).
+If these occur, instruct patients to stop meloxicam and seek immediate medical therapy [see Warnings and Precautions (5.3)].
 
-## 17.4 Hepatotoxicity
+Heart Failure and Edema
 
-Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness, and "flu-like" symptoms).
-If these occur, instruct patients to stop therapy and seek immediate medical therapy [see Warnings and Precautions (5.3)].
+Advise patients to be alert for the symptoms of congestive heart failure including shortness of breath, unexplained weight gain, or edema and to contact their healthcare provider if such symptoms occur [see Warnings and Precautions (5.5)].
 
-## 17.5 Adverse Skin Reactions
+Anaphylactic Reactions
 
-NSAIDs including meloxicam, can cause serious skin side effects such as exfoliative dermatitis, Stevens - Johnson syndrome (SJS), and toxic epidermal necrolysis (TEN), which may result in hospitalization and even death.
-Although serious skin reactions may occur without warning, patients should be alert for the signs and symptoms of skin rash and blisters, fever, or other signs of hypersensitivity such as itching, and should ask for medical advice when observing any indicative signs or symptoms.
-Advise patients to stop the drug immediately if they develop any type of rash and contact their physicians as soon as possible [see Warnings and Precautions (5.8)].
+Inform patients of the signs of an anaphylactic reaction (e.g., difficulty breathing, swelling of the face or throat).
+Instruct patients to seek immediate emergency help if these occur [see Contraindications (4) and Warnings and Precautions (5.7)].
 
-## 17.6 Weight Gain and Edema
+Serious Skin Reactions
 
-Advise patients to promptly report signs or symptoms of unexplained weight gain or edema to their physicians [see Warnings and Precautions (5.5)].
+Advise patients to stop meloxicam immediately if they develop any type of rash and to contact their healthcare provider as soon as possible [see Warnings and Precautions (5.9)].
 
-## 17.7 Anaphylactoid Reactions
+Female Fertility
 
-Inform patients of the signs of an anaphylactoid reaction (e.g., difficulty breathing, swelling of the face or throat).
-Instruct patients seek immediate emergency help [see Warnings and Precautions (5.7)].
+Advise females of reproductive potential who desire pregnancy that NSAIDs, including meloxicam, may be associated with a reversible delay in ovulation [see Use in Specific Populations (8.3)].
 
-## 17.8 Effects During Pregnancy
+Fetal Toxicity
 
-Starting at 30 weeks gestation, meloxicam should be avoided as premature closure of the ductus arteriosus in the fetus may occur [see Warnings and Precautions (5.9) and Use in Specific Populations (8.1)].
+Inform pregnant women to avoid use of meloxicam and other NSAIDs starting at 30 weeks gestation because of the risk of the premature closing of the fetal ductus arteriosus [see Warnings and Precautions (5.10) and Use in Specific Populations (8.1)].
 
-## 17.9 Effects On Female Fertility
+Avoid Concomitant Use of NSAIDs
 
-Advise females of reproductive potential who desire pregnancy that NSAIDs, including Meloxicam, may be associated with a reversible delay in ovulation For women who have difficulties conceiving, or who are undergoing investigation of infertility, use of meloxicam is not recommended [see Use in Specific Populations (8.8)].
+Inform patients that the concomitant use of meloxicam with other NSAIDs or salicylates (e.g., diflunisal, salsalate) is not recommended due to the increased risk of gastrointestinal toxicity, and little or no increase in efficacy [see Warnings and Precautions (5.2) and Drug Interactions (7)].
+Alert patients that NSAIDs may be present in "over the counter" medications for treatment of colds, fever, or insomnia.
+
+Use of NSAIDs and Low-Dose Aspirin
+
+Inform patients not to use low-dose aspirin concomitantly with meloxicam until they talk to their healthcare provider [see Drug Interactions (7)].
 
 Manufactured by:
 
-Cipla, Ltd., Kurkumbh, India
+Cipla, Ltd.,
+
+Kurkumbh, India
 
 Manufactured for:
 
@@ -58,4 +60,141 @@ Cipla USA, Inc.
 
 9100 S. Dadeland Blvd., Suite 1500 Miami, FL 33156
 
-Revised: 7/2014
+Revised: 6/2016
+
+Medication Guide for Nonsteroidal Anti-inflammatory Drugs (NSAIDs)
+
+What is the most important information I should know about medicines called Nonsteroidal Anti-inflammatory Drugs (NSAIDs)?
+
+NSAIDs can cause serious side effects, including:
+
+- Increased risk of a heart attack or stroke that can lead to death.
+  This risk may happen early in treatment and may increase:
+  - with increasing doses of NSAIDs
+  - with longer use of NSAIDs
+
+Do not take NSAIDs right before or after a heart surgery called a "coronary artery bypass graft (CABG)."
+
+Avoid taking NSAIDs after a recent heart attack, unless your healthcare provider tells you to.
+You may have an increased risk of another heart attack if you take NSAIDs after a recent heart attack.
+
+- Increased risk of bleeding, ulcers, and tears (perforation) of the esophagus (tube leading from the mouth to the stomach), stomach and intestines:
+  - anytime during use
+  - without warning symptoms
+  - that may cause death
+
+The risk of getting an ulcer or bleeding increases with:
+
+| ○ past history of stomach ulcers, or stomach or intestinal bleeding with use of NSAIDs | ○ older age |
+| --- | --- |
+| ○ taking medicines called "corticosteroids", "anticoagulants", “SSRIs” or “SNRIs” | ○ poor health |
+| ○ increasing doses of NSAIDs | ○ advanced liver disease |
+| ○ longer use of NSAIDs | ○ bleeding problems |
+| ○ smoking |  |
+| ○ drinking alcohol |  |
+
+NSAIDs should only be used:
+
+- exactly as prescribed
+- at the lowest dose possible for your treatment
+- for the shortest time needed
+
+What are NSAIDs?
+
+NSAIDs are used to treat pain and redness, swelling, and heat (inflammation) from medical conditions such as different types of arthritis, menstrual cramps, and other types of short-term pain.
+
+Who should not take NSAIDs?
+
+Do not take NSAIDs:
+
+- if you have had an asthma attack, hives, or other allergic reaction with aspirin or any other NSAIDs.
+- right before or after heart bypass surgery.
+
+Before taking NSAIDS, tell your healthcare provider about all of your medical conditions, including if you:
+
+- have liver or kidney problems.
+- have high blood pressure.
+- have asthma
+- are pregnant or plan to become pregnant.
+  Talk to your healthcare provider if you are considering taking NSAIDs during pregnancy.
+  You should not take NSAIDs after 29 weeks of pregnancy.
+- are breastfeeding or plan to breast feed.
+
+Tell your healthcare provider about all of the medicines you take, including prescription or over-the-counter medicines, vitamins or herbal supplements.
+NSAIDs and some other medicines can interact with each other and cause serious side effects.
+Do not start taking any new medicine without talking to your healthcare provider first.
+
+What are the possible side effects of NSAIDs?
+
+NSAIDs can cause serious side effects, including:
+
+See "What is the most important information I should know about medicines called Nonsteroidal Anti-inflammatory Drugs (NSAIDs)?"
+
+- new or worse high blood pressure
+- heart failure
+- liver problems including liver failure
+- kidney problems including kidney failure
+- low red blood cells (anemia)
+- life-threatening skin reactions
+- life-threatening allergic reactions
+- Other side effects of NSAIDs include: stomach pain, constipation, diarrhea, gas, heartburn, nausea, vomiting, and dizziness.
+
+Get emergency help right away if you get any of the following symptoms:
+
+| ● shortness of breath or trouble breathing | ● slurred speech |
+| --- | --- |
+| ● chest pain | ● swelling of the face or throat |
+| ● weakness in one part or side of your body |  |
+
+Stop taking your NSAID and call your healthcare provider right away if you get any of the following symptoms:
+
+| ● nausea | ● there is blood in your bowel movement or it is black |
+| --- | --- |
+| ● more tired or weaker than usual | ● vomit blood |
+| ● diarrhea | ● there is blood in your bowel movement or it is black and sticky like tar |
+| ● itching | ● unusual weight gain |
+| ● your skin or eyes look yellow | ● skin rash or blisters with fever |
+| ● indigestion or stomach pain | ● swelling of the arms, legs, hands and feet |
+| ● flu-like symptoms |  |
+
+If you take too much of your NSAID, call your healthcare provider or get medical help right away.
+
+These are not all the possible side effects of NSAIDs.
+For more information, ask your healthcare provider or pharmacist about NSAIDs.
+
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+
+Other information about NSAIDs:
+
+- Aspirin is an NSAID but it does not increase the chance of a heart attack.
+  Aspirin can cause bleeding in the brain, stomach, and intestines.
+  Aspirin can also cause ulcers in the stomach and intestines.
+- Some NSAIDs are sold in lower doses without a prescription (over-the-counter).
+  Talk to your healthcare provider before using over-the-counter NSAIDs for more than 10 days.
+
+General information about the safe and effective use of NSAIDs
+
+Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
+Do not use NSAIDs for a condition for which it was not prescribed.
+Do not give NSAIDs to other people, even if they have the same symptoms that you have.
+It may harm them.
+
+If you would like more information about NSAIDs, talk with your healthcare provider.
+You can ask your pharmacist or healthcare provider for information about NSAIDs that is written for health professionals.
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+Manufactured by:
+
+Cipla Ltd,
+
+Kurkumbh, India
+
+Manufactured for:
+
+Cipla USA, Inc.
+
+9100 S. Dadeland Blvd., Suite 1500 Miami, FL 33156
+
+Revised: 6/2016

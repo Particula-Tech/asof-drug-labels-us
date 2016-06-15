@@ -1,26 +1,20 @@
 # 6 ADVERSE REACTIONS
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
-The following serious adverse reactions are discussed elsewhere in the labeling:
-
-Cardiovascular thrombotic events [see Boxed Warning and Warnings and Precautions (5.1)]
-
-Gastrointestinal effects – risk of GI ulceration, bleeding, and perforation [see Boxed Warning and Warnings and Precautions (5.2)]
-
-Hepatic effects [see Warnings and Precautions (5.3)]
-
-Hypertension [see Warnings and Precautions (5.4)]
-
-Congestive heart failure and edema [see Warnings and Precautions (5.5)]
-
-Renal effects [see Warnings and Precautions (5.6)]
-
-Anaphylactoid reactions [see Warnings and Precautions (5.7)]
-
-Adverse skin reactions [see Warnings and Precautions (5.8)]
+- Cardiovascular Thrombotic Events [see Boxed Warning and Warnings and Precautions (5.1)]
+- GI Bleeding, Ulceration, and Perforation [see Boxed Warning and Warnings and Precautions (5.2)]
+- Hepatotoxicity [see Warnings and Precautions (5.3)]
+- Hypertension [see Warnings and Precautions (5.4)]
+- Heart Failure and Edema [see Warnings and Precautions (5.5)]
+- Renal Toxicity and Hyperkalemia [see Warnings and Precautions (5.6)]
+- Anaphylactic Reactions [see Warnings and Precautions (5.7)]
+- Serious Skin Reactions [see Warnings and Precautions (5.9)]
+- Hematologic Toxicity [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 Adults
 
@@ -34,11 +28,11 @@ Gastrointestinal (GI) adverse events were the most frequently reported adverse e
 A 12-week multicenter, double-blind, randomized trial was conducted in patients with osteoarthritis of the knee or hip to compare the efficacy and safety of meloxicam with placebo and with an active control.
 Two 12-week multicenter, double-blind, randomized trials were conducted in patients with rheumatoid arthritis to compare the efficacy and safety of meloxicam with placebo.
 
-Table 1a depicts adverse events that occurred in ≥ 2% of the meloxicam treatment groups in a 12-week placebo- and active-controlled osteoarthritis trial.
+Table 1a depicts adverse events that occurred in ≥2% of the meloxicam treatment groups in a 12-week placebo- and active-controlled osteoarthritis trial.
 
-Table 1b depicts adverse events that occurred in ≥ 2% of the meloxicam treatment groups in two 12-week placebo-controlled rheumatoid arthritis trials.
+Table 1b depicts adverse events that occurred in ≥2% of the meloxicam treatment groups in two 12-week placebo-controlled rheumatoid arthritis trials.
 
-Table 1a Adverse Events (%) Occurring in ≥ 2% of Meloxicam Patients in a 12-Week Osteoarthritis Placebo- and Active-Controlled Trial
+Table 1a: Adverse Events (%) Occurring in ≥ 2% of Meloxicam Patients in a 12-Week Osteoarthritis Placebo- and Active-Controlled Trial
 
 |  | Placebo | Meloxicam 7.5 mg daily | Meloxicam 15 mg daily | Diclofenac 100 mg daily |
 | --- | --- | --- | --- | --- |
@@ -65,7 +59,7 @@ Table 1a Adverse Events (%) Occurring in ≥ 2% of Meloxicam Patients in a 12-We
 | 1WHO preferred terms edema, edema dependent, edema peripheral, and edema legs combined |  |  |  |  |
 | 2WHO preferred terms rash, rash erythematous, and rash maculo-papular combined |  |  |  |  |
 
-Table 1b Adverse Events (%) Occurring in ≥ 2% of Meloxicam Patients in two 12-Week Rheumatoid Arthritis Placebo-Controlled Trials
+Table 1b: Adverse Events (%) Occurring in ≥ 2% of Meloxicam Patients in two 12-Week Rheumatoid Arthritis Placebo-Controlled Trials
 
 |  | Placebo | Meloxicam | Meloxicam |
 | --- | --- | --- | --- |
@@ -85,14 +79,14 @@ Table 1b Adverse Events (%) Occurring in ≥ 2% of Meloxicam Patients in two 12-
 | Headaches NOS2 | 6.4 | 6.4 | 5.5 |
 | Skin and Subcutaneous Tissue Disorders |  |  |  |
 | Rash NOS2 | 1.7 | 1.0 | 2.1 |
-| 1 MedDRA high level term (preferred terms): dyspeptic signs and symptoms (dyspepsia, dyspepsia aggravated, eructation, gastrointestinal irritation), upper respiratory tract infections-pathogen unspecified (laryngitis NOS, pharyngitis NOS, sinusitis NOS), joint related signs and symptoms (arthralgia, arthralgia aggravated, joint crepitation, joint effusion, joint swelling) |  |  |  |
-| 2 MedDRA preferred term: nausea, abdominal pain NOS, influenza-like illness, headaches NOS, and rash NOS |  |  |  |
+| 1MedDRA high level term (preferred terms): dyspeptic signs and symptoms (dyspepsia, dyspepsia aggravated, eructation, gastrointestinal irritation), upper respiratory tract infections-pathogen unspecified (laryngitis NOS, pharyngitis NOS, sinusitis NOS), joint related signs and symptoms (arthralgia, arthralgia aggravated, joint crepitation, joint effusion, joint swelling) |  |  |  |
+| 2MedDRA preferred term: nausea, abdominal pain NOS, influenza-like illness, headaches NOS, and rash NOS |  |  |  |
 
 The adverse events that occurred with meloxicam in ≥ 2% of patients treated short-term (4 to 6 weeks) and long-term (6 months) in active-controlled osteoarthritis trials are presented in Table 2.
 
-Table 2 Adverse Events (%) Occurring in ≥ 2% of Meloxicam Patients in 4 to 6 Weeks and 6 Month Active-Controlled Osteoarthritis Trials
+Table 2: Adverse Events (%) Occurring in ≥ 2% of Meloxicam Patients in 4 to 6 Weeks and 6 Month Active-Controlled Osteoarthritis Trials
 
-|  | 4 to 6 Weeks Controlled Trials |  | 6 Month Controlled Trials |  |
+|  | 4 to 6 Weeks | Controlled Trials | 6 Month | Controlled Trials |
 | --- | --- | --- | --- | --- |
 |  | Meloxicam 7.5 mg daily | Meloxicam 15 mg daily | Meloxicam 7.5 mg daily | Meloxicam 15 mg daily |
 | No. of Patients | 8955 | 256 | 169 | 306 |
@@ -130,21 +124,19 @@ Table 2 Adverse Events (%) Occurring in ≥ 2% of Meloxicam Patients in 4 to 6 W
 | 1WHO preferred terms edema, edema dependent, edema peripheral, and edema legs combined |  |  |  |  |
 | 2WHO preferred terms rash, rash erythematous, and rash maculo-papular combined |  |  |  |  |
 
-Higher doses of meloxicam (22.5 mg and greater) have been associated with an increased risk of serious GI events; therefore, the daily dose of meloxicam should not exceed 15 mg.
-
 Pediatrics
 
 Pauciarticular and Polyarticular Course Juvenile Rheumatoid Arthritis (JRA)
 
 Three hundred and eighty-seven patients with pauciarticular and polyarticular course JRA were exposed to meloxicam with doses ranging from 0.125 to 0.375 mg/kg per day in three clinical trials.
-These studies consisted of two 12 week multicenter, double-blind, randomized trials (one with a 12 week open-label extension and one with a 40 week extension) and one 1 year open-label PK study.
+These studies consisted of two 12-week multicenter, double-blind, randomized trials (one with a 12-week open-label extension and one with a 40-week extension) and one 1-year open-label PK study.
 The adverse events observed in these pediatric studies with meloxicam were similar in nature to the adult clinical trial experience, although there were differences in frequency.
 In particular, the following most common adverse events, abdominal pain, vomiting, diarrhea, headache, and pyrexia, were more common in the pediatric than in the adult trials.
-Rash was reported in seven (< 2%) patients receiving meloxicam.
+Rash was reported in seven (<2%) patients receiving meloxicam.
 No unexpected adverse events were identified during the course of the trials.
 The adverse events did not demonstrate an age or gender-specific subgroup effect.
 
-The following is a list of adverse drug reactions occurring in < 2% of patients receiving meloxicam in clinical trials involving approximately 16,200 patients.
+The following is a list of adverse drug reactions occurring in <2% of patients receiving meloxicam in clinical trials involving approximately 16,200 patients.
 
 | Body as a Whole | allergic reaction, face edema, fatigue, fever, hot flushes, malaise, syncope, weight decrease, weight increase |
 | --- | --- |
@@ -161,9 +153,9 @@ The following is a list of adverse drug reactions occurring in < 2% of patients 
 | Special Senses | abnormal vision, conjunctivitis, taste perversion, tinnitus |
 | Urinary System | albuminuria, BUN increased, creatinine increased, hematuria, renal failure |
 
-## 6.2 Post Marketing Experience
+## 6.2 Postmarketing Experence
 
 The following adverse reactions have been identified during post approval use of meloxicam.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Decisions about whether to include an adverse event from spontaneous reports in labeling are typically based on one or more of the following factors: (1) seriousness of the event, (2) number of reports, or (3) strength of causal relationship to the drug.
-Adverse reactions reported in worldwide post marketing experience or the literature include: acute urinary retention; agranulocytosis; alterations in mood (such as mood elevation); anaphylactoid reactions including shock; erythema multiforme; exfoliative dermatitis; interstitial nephritis; jaundice; liver failure; Stevens-Johnson syndrome, and toxic epidermal necrolysis.
+Adverse reactions reported in worldwide post marketing experience or the literature include: acute urinary retention; agranulocytosis; alterations in mood (such as mood elevation); anaphylactoid reactions including shock; erythema multiforme; exfoliative dermatitis; interstitial nephritis; jaundice; liver failure; Stevens-Johnson syndrome; toxic epidermal necrolysis, and infertility female.
