@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA204921"
+  ],
+  "inn": "lacosamide",
+  "labeler": "Breckenridge Pharmaceutical, Inc.",
+  "package_ndcs": [
+    "51991-348-05",
+    "51991-348-06",
+    "51991-349-05",
+    "51991-349-06",
+    "51991-350-05",
+    "51991-350-06",
+    "51991-351-05",
+    "51991-351-06"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "lacosamide",
+      "name": "LACOSAMIDE"
+    }
+  ],
+  "setid": "f7ea3ce6-4ca7-4405-a011-48e7d71360a5",
+  "source": "dailymed"
+}

@@ -1,0 +1,63 @@
+# PRINCIPAL DISPLAY PANEL - 50 mg Tablet Bottle Label
+
+NDC 51991-348-06
+
+CV
+
+Lacosamide Tablets
+
+50 mg
+
+60 Tablets Rx Only
+
+PHARMACIST: DISPENSE WITH THE ACCOMPANYING MEDICATION GUIDE TO EACH PATIENT
+
+Breckenridge Pharmaceutical, Inc.
+
+# PRINCIPAL DISPLAY PANEL - 100 mg Tablet Bottle Label
+
+NDC 51991-349-06
+
+CV
+
+Lacosamide Tablets
+
+100 mg
+
+60 Tablets Rx Only
+
+PHARMACIST: DISPENSE WITH THE ACCOMPANYING MEDICATION GUIDE TO EACH PATIENT
+
+Breckenridge Pharmaceutical, Inc.
+
+# PRINCIPAL DISPLAY PANEL - 150 mg Tablet Bottle Label
+
+NDC 51991-350-06
+
+CV
+
+Lacosamide Tablets
+
+150 mg
+
+60 Tablets Rx Only
+
+PHARMACIST: DISPENSE WITH THE ACCOMPANYING MEDICATION GUIDE TO EACH PATIENT
+
+Breckenridge Pharmaceutical, Inc.
+
+# PRINCIPAL DISPLAY PANEL - 200 mg Tablet Bottle Label
+
+NDC 51991-351-06
+
+CV
+
+Lacosamide Tablets
+
+200 mg
+
+60 Tablets Rx Only
+
+PHARMACIST: DISPENSE WITH THE ACCOMPANYING MEDICATION GUIDE TO EACH PATIENT
+
+Breckenridge Pharmaceutical, Inc.
