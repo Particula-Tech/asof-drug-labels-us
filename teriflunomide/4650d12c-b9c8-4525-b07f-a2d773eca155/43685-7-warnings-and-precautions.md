@@ -6,7 +6,7 @@ Severe liver injury including fatal liver failure and dysfunction has been repor
 A similar risk would be expected for teriflunomide because recommended doses of teriflunomide and leflunomide result in a similar range of plasma concentrations of teriflunomide.
 Patients with pre-existing liver disease may be at increased risk of developing elevated serum transaminases when taking AUBAGIO.
 Patients with pre-existing acute or chronic liver disease, or those with serum alanine aminotransferase (ALT) greater than two times the upper limit of normal (ULN) before initiating treatment, should not normally be treated with AUBAGIO.
-AUBAGIO is contraindicated in patients with severe hepatic impairment [see Contraindications (4.1)].
+AUBAGIO is contraindicated in patients with severe hepatic impairment [see Contraindications (4)].
 
 In placebo-controlled trials, ALT greater than three times the ULN occurred in 61/1045 (5.8%) and 62/1002 (6.2%) of patients receiving AUBAGIO 7 mg and 14 mg, respectively, and 38/997 (3.8%) of patients receiving placebo, during the treatment period.
 These elevations occurred mostly within the first year of treatment.
@@ -29,7 +29,7 @@ If AUBAGIO-induced liver injury is unlikely because some other probable cause ha
 ## 5.2 Use in Women of Childbearing Potential
 
 There are no adequate and well-controlled studies evaluating AUBAGIO in pregnant women.
-However, based on animal studies, teriflunomide may increase the risk of teratogenic effects or fetal death when administered to a pregnant woman [see Contraindications (4.2)].
+However, based on animal studies, teriflunomide may increase the risk of teratogenic effects or fetal death when administered to a pregnant woman [see Contraindications (4)].
 
 Women of childbearing potential must not be started on AUBAGIO until pregnancy is excluded and it has been confirmed that they are using reliable contraception.
 Before starting treatment with AUBAGIO, patients must be fully counseled on the potential for serious risk to the fetus.
@@ -38,7 +38,7 @@ It is possible that rapidly lowering the plasma concentration of teriflunomide b
 
 Upon discontinuing AUBAGIO, it is recommended that all women of childbearing potential undergo an accelerated elimination procedure.
 Women receiving AUBAGIO treatment who wish to become pregnant must discontinue AUBAGIO and undergo an accelerated elimination procedure, which includes verification of teriflunomide plasma concentrations less than 0.02 mg/L (0.02 mcg/mL).
-Human plasma concentrations of teriflunomide less than 0.02 mg/L (0.02 mcg/mL) are expected to have minimal risk [see Contraindications (4.2), Warnings and Precautions (5.3) and Use in Specific Populations (8.1)].
+Human plasma concentrations of teriflunomide less than 0.02 mg/L (0.02 mcg/mL) are expected to have minimal risk [see Contraindications (4), Warnings and Precautions (5.3) and Use in Specific Populations (8.1)].
 
 ## 5.3 Procedure for Accelerated Elimination of Teriflunomide
 
@@ -59,13 +59,14 @@ Use of the accelerated elimination procedure may potentially result in return of
 
 ## 5.4 Bone Marrow Effects/Immunosuppression Potential/Infections
 
-White Blood Cell (WBC) count decrease
+Bone Marrow Effects
 
 A mean decrease in white blood cell (WBC) count of approximately 15% (mainly neutrophils and lymphocytes) and in platelet count of approximately 10% was observed in placebo-controlled trials with 7 mg and 14 mg of AUBAGIO compared to baseline.
 The decrease in mean WBC count occurred during the first 6 weeks and WBC count remained low during treatment.
 In placebo-controlled studies, neutrophil count < 1.5×109/L was observed in 12% and 16% of patients receiving AUBAGIO 7 mg and 14 mg, respectively, compared with 7% of patients receiving placebo; lymphocyte count <0.8×109/L was observed in 10% and 12% of patients receiving AUBAGIO 7 mg and 14 mg, respectively, compared with 6% of patients receiving placebo.
-No cases of serious pancytopenia were reported in premarketing clinical trials of AUBAGIO but rare cases of pancytopenia, agranulocytosis, and thrombocytopenia have been reported in the postmarketing setting with leflunomide.
+No cases of serious pancytopenia were reported in premarketing clinical trials of AUBAGIO but rare cases of pancytopenia and agranulocytosis have been reported in the postmarketing setting with leflunomide.
 A similar risk would be expected for AUBAGIO [see Clinical Pharmacology (12.3)].
+Cases of thrombocytopenia with AUBAGIO, including rare cases with platelet counts less than 50,000/mm3, have been reported in the postmarketing setting.
 Obtain a complete blood cell count (CBC) within 6 months before the initiation of treatment with AUBAGIO.
 Further monitoring should be based on signs and symptoms suggestive of bone marrow suppression.
 
@@ -102,7 +103,23 @@ The risk of malignancy, particularly lymphoproliferative disorders, is increased
 There is a potential for immunosuppression with AUBAGIO.
 No apparent increase in the incidence of malignancies and lymphoproliferative disorders was reported in the AUBAGIO clinical trials, but larger and longer-term studies would be needed to determine whether there is an increased risk of malignancy or lymphoproliferative disorders with AUBAGIO.
 
-## 5.5 Peripheral Neuropathy
+## 5.5 Hypersensitivity and Serious Skin Reactions
+
+AUBAGIO can cause anaphylaxis and severe allergic reactions [see Contraindications (4)].
+
+Signs and symptoms have included dyspnea, urticaria, and angioedema including lips, eyes, throat, and tongue.
+
+Cases of serious skin reactions, including cases of Stevens-Johnson syndrome (SJS) and a fatal case of toxic epidermal necrolysis (TEN), have been reported with AUBAGIO.
+
+In patients treated with leflunomide, the parent compound, very rare cases of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) have also been reported.
+
+Inform patients of the signs and symptoms of anaphylaxis and angioedema and signs and symptoms that may signal a serious skin reaction.
+Inform patients that a fever associated with signs of other organ system involvement (e.g., rash, lymphadenopathy, or hepatic dysfunction) may be drug-related.
+Instruct patients to discontinue AUBAGIO and seek immediate medical care should these signs and symptoms occur.
+Discontinue AUBAGIO, unless the reactions are clearly not drug-related, and begin an accelerated elimination procedure immediately [see Warnings and Precautions (5.3)].
+In such cases, patients should not be re-exposed to teriflunomide [see Contraindications (4)].
+
+## 5.6 Peripheral Neuropathy
 
 In placebo-controlled studies, peripheral neuropathy, including both polyneuropathy and mononeuropathy (e.g., carpal tunnel syndrome), occurred more frequently in patients taking AUBAGIO than in patients taking placebo.
 The incidence of peripheral neuropathy confirmed by nerve conduction studies was 1.4% (13 patients) and 1.9% (17 patients) of patients receiving 7 mg and 14 mg of AUBAGIO, respectively, compared with 0.4% receiving placebo (4 patients).
@@ -114,12 +131,6 @@ Peripheral neuropathy also occurred in patients receiving leflunomide.
 Age older than 60 years, concomitant neurotoxic medications, and diabetes may increase the risk for peripheral neuropathy.
 If a patient taking AUBAGIO develops symptoms consistent with peripheral neuropathy, such as bilateral numbness or tingling of hands or feet, consider discontinuing AUBAGIO therapy and performing an accelerated elimination procedure [see Warnings and Precautions (5.3)].
 
-## 5.6 Skin Reactions
-
-Rare cases of Stevens-Johnson syndrome and toxic epidermal necrolysis have been reported in patients with rheumatoid arthritis receiving leflunomide.
-A similar risk would be expected for AUBAGIO [see Clinical Pharmacology (12.3)].
-If a patient taking AUBAGIO develops any of these conditions, stop AUBAGIO therapy and perform an accelerated elimination procedure [see Warnings and Precautions (5.3)].
-
 ## 5.7 Increased Blood Pressure
 
 In placebo-controlled studies, the mean change from baseline to the end of study in systolic blood pressure was +2.3 mmHg and +2.7 mmHg for AUBAGIO 7 mg and 14 mg, respectively, and -0.6 mmHg for placebo.
@@ -130,11 +141,11 @@ Elevated blood pressure should be appropriately managed during treatment with AU
 
 ## 5.8 Respiratory Effects
 
+Interstitial lung disease, including acute interstitial pneumonitis, has been reported with AUBAGIO in the postmarketing setting.
+
 Interstitial lung disease and worsening of pre-existing interstitial lung disease have been reported during treatment with leflunomide.
-A similar risk would be expected for AUBAGIO [see Clinical Pharmacology (12.3)].
-Interstitial lung disease may be fatal.
-Interstitial lung disease may occur acutely at any time during therapy and has a variable clinical presentation.
-New onset or worsening pulmonary symptoms, such as cough and dyspnea, with or without associated fever, may be a reason for discontinuation of the therapy and for further investigation as appropriate.
+Interstitial lung disease may be fatal and may occur acutely at any time during therapy with a variable clinical presentation.
+New onset or worsening pulmonary symptoms, such as cough and dyspnea, with or without associated fever, may be a reason for discontinuation of therapy and for further investigation as appropriate.
 If discontinuation of the drug is necessary, consider initiation of an accelerated elimination procedure [see Warnings and Precautions (5.3)].
 
 ## 5.9 Concomitant Use with Immunosuppressive or Immunomodulating Therapies

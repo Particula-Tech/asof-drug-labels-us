@@ -8,7 +8,7 @@ Concomitant use of AUBAGIO with other potentially hepatotoxic drugs may increase
 Obtain transaminase and bilirubin levels within 6 months before initiation of AUBAGIO therapy.
 Monitor ALT levels at least monthly for six months after starting AUBAGIO [see Warnings and Precautions (5.1)].
 If drug induced liver injury is suspected, discontinue AUBAGIO and start an accelerated elimination procedure with cholestyramine or charcoal [see Warnings and Precautions (5.3)].
-AUBAGIO is contraindicated in patients with severe hepatic impairment [see Contraindications (4.1)].
+AUBAGIO is contraindicated in patients with severe hepatic impairment [see Contraindications (4)].
 Patients with pre-existing liver disease may be at increased risk of developing elevated serum transaminases when taking AUBAGIO.
 
 ## Risk of Teratogenicity
@@ -16,4 +16,4 @@ Patients with pre-existing liver disease may be at increased risk of developing 
 Based on animal data, AUBAGIO may cause major birth defects if used during pregnancy.
 Pregnancy must be excluded before starting AUBAGIO.
 AUBAGIO is contraindicated in pregnant women or women of childbearing potential who are not using reliable contraception.
-Pregnancy must be avoided during AUBAGIO treatment or prior to the completion of an accelerated elimination procedure after AUBAGIO treatment [see Contraindications (4.2), Warnings and Precautions (5.2), and Use in Specific Populations (8.1)].
+Pregnancy must be avoided during AUBAGIO treatment or prior to the completion of an accelerated elimination procedure after AUBAGIO treatment [see Contraindications (4), Warnings and Precautions (5.2), and Use in Specific Populations (8.1)].

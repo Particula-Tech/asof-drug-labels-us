@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category X [see Contraindications (4.2) and Warnings and Precautions (5.2)]
+Pregnancy Category X [see Contraindications (4) and Warnings and Precautions (5.2)]
 
 When teriflunomide (oral doses of 1, 3, or 10 mg/kg/day) was administered to pregnant rats throughout the period of organogenesis, high incidences of fetal malformation (primarily craniofacial, and axial and appendicular skeletal defects) and embryofetal death were observed at doses not associated with maternal toxicity.
 Adverse effects on embryofetal development were observed following dosing at various stages throughout organogenesis.
@@ -49,7 +49,7 @@ Clinical studies of AUBAGIO did not include patients over 65 years old.
 
 No dosage adjustment is necessary for patients with mild and moderate hepatic impairment.
 The pharmacokinetics of teriflunomide in severe hepatic impairment have not been evaluated.
-AUBAGIO is contraindicated in patients with severe hepatic impairment [see Contraindications (4.1) Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].
+AUBAGIO is contraindicated in patients with severe hepatic impairment [see Contraindications (4) Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 

@@ -2,10 +2,10 @@
 
 The following serious adverse reactions are described elsewhere in the prescribing information:
 
-- Hepatotoxicity [see Contraindications (4.1) and Warnings and Precautions (5.1)]
+- Hepatotoxicity [see Contraindications (4) and Warnings and Precautions (5.1)]
 - Bone Marrow Effects/Immunosuppression Potential/Infections [see Warnings and Precautions (5.4)]
-- Peripheral Neuropathy [see Warnings and Precautions (5.5)]
-- Skin Reactions [see Warnings and Precautions (5.6)]
+- Hypersensitivity and Serious Skin Reactions [see Contraindications (4) and Warnings and Precautions (5.5)]
+- Peripheral Neuropathy [see Warnings and Precautions (5.6)]
 - Increased Blood Pressure [see Warnings and Precautions (5.7)]
 - Respiratory Effects [see Warnings and Precautions (5.8)]
 
@@ -52,3 +52,14 @@ Hypophosphatemia
 
 In clinical trials, 18% of AUBAGIO-treated patients had hypophosphatemia with serum phosphorus levels of at least 0.6 mmol/L, compared to 7% of placebo-treated patients; 4% of AUBAGIO-treated patients had hypophosphatemia with serum phosphorus levels at least 0.3 mmol/L but less than 0.6 mmol/L, compared to 0.8% of placebo-treated patients.
 No patient in any treatment group had a serum phosphorus below 0.3 mmol/L.
+
+## 6.2 Post Marketing Experience
+
+The following adverse reactions have been identified during post approval use of AUBAGIO.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+- Hypersensitivity reactions, some of which were severe, such as anaphylaxis and angioedema [see Warnings and Precautions (5.5)]
+- Severe skin reactions, including toxic epidermal necrolysis and Stevens-Johnson syndrome [see Warnings and Precautions (5.5)]
+- Thrombocytopenia [see Warnings and Precautions (5.4)]
+- Interstitial lung disease [see Warnings and Precautions (5.8)]
+- Pancreatitis

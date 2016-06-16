@@ -36,6 +36,11 @@ Peripheral Neuropathy
 Inform patients that they may develop peripheral neuropathy.
 Advise patients that they should contact their physician if they develop symptoms of peripheral neuropathy, such as numbness or tingling of hands or feet.
 
+Serious Allergic Reactions
+
+Advise patients to discontinue AUBAGIO and seek immediate medical attention if any signs or symptoms of a hypersensitivity reaction occur [See Contraindications (4) and Warnings and Precautions (5.5)].
+Signs and symptoms include dyspnea, urticaria, and angioedema including lips, eyes, throat, and tongue or skin rash.
+
 Increased Blood Pressure
 
 Inform patients that AUBAGIO may increase blood pressure.

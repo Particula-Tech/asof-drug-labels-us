@@ -53,6 +53,7 @@ Who should not take AUBAGIO?
 
 Do not take AUBAGIO if you:
 
+- have had an allergic reaction to AUBAGIO or a medicine called leflunomide
 - have severe liver problems
 - are pregnant or are of childbearing age and not using effective birth control
 - take a medicine called leflunomide
@@ -114,8 +115,8 @@ AUBAGIO may cause serious side effects, including:
   - are over 60 years of age
   - take certain medicines that affect your nervous system
   - have diabetes
-- serious skin problems.
-  Tell your doctor if you have any skin problems such as redness and peeling.
+- Allergic reactions, including serious skin problems.
+  Tell your doctor if you have difficulty breathing, itching, swelling on any part of your body including in your lips, eyes, throat or tongue, or any skin problems such as rash or redness and peeling.
 - new or worsening breathing problems.
   Tell your doctor if you have shortness of breath or coughing with or without fever.
 - high blood pressure.
