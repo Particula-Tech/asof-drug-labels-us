@@ -90,7 +90,7 @@ For more information and video instructions on the use of Adrenaclick, go to www
 
 This Patient Information and Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-04/2016
+05/2016
 
 © 2014 Amedra Pharmaceuticals LLC, Horsham, PA.
 All rights reserved.
