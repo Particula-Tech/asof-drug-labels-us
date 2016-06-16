@@ -92,7 +92,7 @@ The mean elimination half-life of atazanavir in healthy volunteers (n=214) and H
 
 In healthy subjects, the renal elimination of unchanged atazanavir was approximately 7% of the administered dose.
 REYATAZ has been studied in adult subjects with severe renal impairment (n=20), including those on hemodialysis, at multiple doses of 400 mg once daily.
-The mean atazanavir Cmax was 9% lower, AUC was 19% higher, and Cmin was 96% higher in subjects with severe renal impairment not undergoing hemodialysis (n=10), than in age-, weight-, and gender‑matched subjects with normal renal function.
+The mean atazanavir Cmax was 9% lower, AUC was 19% higher, and Cmin was 96% higher in subjects with severe renal impairment not undergoing hemodialysis (n=10), than in age-, weight-, and gender-matched subjects with normal renal function.
 In a 4-hour dialysis session, 2.1% of the administered dose was removed.
 When atazanavir was administered either prior to, or following hemodialysis (n=10), the geometric means for Cmax, AUC, and Cmin were approximately 25% to 43% lower compared to subjects with normal renal function.
 The mechanism of this decrease is unknown.
@@ -298,7 +298,7 @@ In addition, three known resistance-associated substitutions for other PIs arose
 Reduced susceptibility to ATV, RTV, or ATV/RTV was not seen with these viruses.
 In AI424-451, ATV/RTV resistance-associated substitutions G16E, V82A/I/T, I84V, and/or L90M arose in the viruses of two subjects.
 The virus population harboring the M46M/V, V82V/I, I84I/V, and L90L/M substitutions acquired phenotypic resistance to RTV (RTV phenotypic fold-change of 3.5, with a RTV cutoff of 2.5-fold change).
-However, these substitutions did not result in phenotypic resistance to ATV (ATV phenotypic fold-change of <1.8, with an ATV cutoff of 2.2 fold-change).
+However, these substitutions did not result in phenotypic resistance to ATV (ATV phenotypic fold-change of <1.8, with an ATV cutoff of 2.2-fold change).
 Secondary PI resistance-associated amino acid substitutions also arose in the viruses of one subject each, including V11V/I, D30D/G, E35E/D, K45K/R, L63P/S, and I72I/T.
 Q61D and Q61E/G emerged in the viruses of two subjects who failed treatment with ATV/RTV.
 Viruses from nine subjects in the two studies developed NRTI resistance-associated substitutions: K65K/R (n=1), M184V (n=7), and T215I (n=1).
