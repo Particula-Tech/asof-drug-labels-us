@@ -257,7 +257,7 @@ Because these reports are from a population of uncertain size and are subject to
 
 Osteonecrosis of the Jaw
 
-Cases of osteonecrosis (primarily involving the jaws) have been reported predominantly in cancer patients treated with intravenous bisphosphonates including zoledronic acid injection.
+Cases of osteonecrosis (primarily involving the jaw but also ofother anatomical sites including hip, femur and external auditorycanal) have been reported predominantly in cancer patients treated with intravenous bisphosphonates including zoledronic acid injection.
 Many of these patients were also receiving chemotherapy and corticosteroids which may be a risk factor for ONJ.
 Caution is advised when zoledronic acid injection is administered with anti-angiogenic drugs as an increased incidence of ONJ has been observed with concomitant use of these drugs.
 Data suggests a greater frequency of reports of ONJ in certain cancers, such as advanced breast cancer and multiple myeloma.
