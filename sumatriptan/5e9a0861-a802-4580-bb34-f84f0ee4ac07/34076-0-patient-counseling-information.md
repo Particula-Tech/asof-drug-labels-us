@@ -21,8 +21,10 @@ Nursing Mothers Advise patients to notify their healthcare provider if they are 
 Ability to Perform Complex Tasks Since migraines or treatment with Sumavel DosePro may cause somnolence and dizziness, instruct patients to evaluate their ability to perform complex tasks during migraine attacks and after administration of Sumavel DosePro.
 
 How to Use Sumavel DosePro Importance of Training Patients who are to self-administer Sumavel DosePro in medically unsupervised situations should receive instruction on the proper use of Sumavel DosePro from the physician or healthcare professional prior to administering for the first time.
-Patients should be made aware that they will hear a click and feel a burst of air and a sensation will be felt at the time the dose is delivered.
-Patients should be advised not to use a device if the tip of the device is tilted or broken off upon removal from packaging.
+
+Advise patients that they will hear a click and feel a burst of air.
+Inform the patients that they will feel the dose being delivered.
+Instruct patients not to use a device if the tip of the device is tilted or broken off upon removal from packaging [see Instructions for Use].
 
 Choosing Administration Sites Sumavel DosePro delivers the medication to the subcutaneous space in a manner similar to a subcutaneous injection.
 Since delivery is to be given subcutaneously, patients should be instructed to use administration sites on the abdomen or the thigh with adequate subcutaneous thickness to accommodate penetration of the drug into the subcutaneous space.
@@ -34,6 +36,10 @@ Distributed by: Endo Pharmaceuticals Inc. Malvern, PA 19355
 
 Manufactured by: Patheon UK, Limited Swindon, United Kingdom
 
-U.S. Patent Nos. 5,957,886; 6,135,979; 6,174,304; 6,251,091; 6,280,410; 6,681,810; 7,776,007; 7,901,385; 8,118,771; 8,241,243; 8,241,244; 8,267,903; 8,287,489; 8,343,130; 8,491,524; 8,663,158; 8,715,259; and 8,734,384; Patents Pending.
+Sumavel® is a registered trademark of Endo Ventures Bermuda Limited.
 
-©2014 Endo Pharmaceuticals Inc. All rights reserved.
+DosePro® is a registered trademark of Zogenix, Inc.
+
+©2016 Endo Pharmaceuticals Inc. All rights reserved.
+
+Revised 06/2016

@@ -239,10 +239,11 @@ Place Sumavel DosePro straight out from the delivery site with the end of the cl
 Do not hold Sumavel DosePro at an angle to your skin.
 
 During the next step, you will hear a click and feel a burst of air.
-Do not be alarmed – this indicates that the medicine has been delivered.
+Do not be alarmed.
+This means that the medicine has been delivered.
 
 Steadily press Sumavel DosePro straight down against your skin until you hear a click and feel a burst of air.
-A sensation will be felt at the time the dose is delivered.
+You will feel the dose being delivered.
 There is no button to push.
 After you hear the click and feel the burst of air, the medicine has been delivered and you can remove Sumavel DosePro from your skin.
 
@@ -259,10 +260,10 @@ Distributed by: Endo Pharmaceuticals Inc. Malvern, PA 19355
 
 Manufactured by: Patheon UK, Limited Swindon, United Kingdom
 
-U.S. Patent Nos. 5,957,886; 6,135,979; 6,174,304; 6,251,091; 6,280,410; 6,681,810; 7,776,007; 7,901,385; 8,118,771; 8,241,243; 8,241,244; 8,267,903; 8,287,489; 8,343,130; 8,491,524; 8,663,158; 8,715,259; and 8,734,384; Patents Pending.
-
 Sumavel® is a registered trademark of Endo Ventures Bermuda Limited.
 
 DosePro® is a registered trademark of Zogenix, Inc.
 
-©2014, Endo Pharmaceuticals Inc. All rights reserved.
+©2016 Endo Pharmaceuticals Inc. All rights reserved.
+
+Revised: June 2016
