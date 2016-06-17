@@ -5,7 +5,9 @@
   "inn": "amoxicillin",
   "labeler": "Vernalis Therapeutics, Inc.",
   "package_ndcs": [
-    "69442-030-01"
+    "69442-030-01",
+    "69442-030-10",
+    "69442-030-11"
   ],
   "products": [
     {

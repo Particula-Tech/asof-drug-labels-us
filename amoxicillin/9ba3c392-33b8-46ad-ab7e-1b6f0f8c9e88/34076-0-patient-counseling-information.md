@@ -32,4 +32,4 @@ Distributed by: Vernalis Therapeutics, Inc., Berwyn, PA 19312
 
 U.S. Patents 6,544,555; 6,669,948; 6,723,341
 
-Rev 11/2015
+Rev 06/16
