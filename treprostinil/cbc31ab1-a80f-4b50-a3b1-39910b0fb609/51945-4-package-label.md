@@ -71,18 +71,18 @@ TYVASO® (treprostinil) INHALATION SOLUTION
 
 Treprostinil 1.74 mg/2.9 mL (0.6 mg/mL)
 
-TYVASO is for oral inhalation use only and is intended for administration with the TYVASO Inhalation System
+TYVASO is for oral inhalation use only and is intended for administration with the TYVASO Inhalation System.
 
-See package insert and Instructions for Use manual for dosage and administration
+See package insert and Instructions for Use manual for dosage and administration.
 
 TYVASO Inhalation System Refill Kit
 
 | CONTENTS | QTY |
 | --- | --- |
 | 28 ampule carton of TYVASO (seven foil pouches each containing four 2.9 mL ampules) | 1 |
-| Set of dome assembly, inhalation piece, mouthpiece, and 2 filter shells | 1 |
+| Set of Dome assembly, Inhalation piece, Mouthpiece, and 2 Filter shells | 1 |
 | Medicine cups | 32 |
-| Filters | 65 |
+| Filters membranes | 65 |
 | Plugs for storage between treatment sessions | 2 |
 | Treatment Tracker | 1 |
 
@@ -92,10 +92,10 @@ Hydrochloric acid and sodium hydroxide may have been added to adjust pH.
 
 - —One new ampule should be used each day.
   Each ampule of TYVASO (once opened and transferred to the medicine cup) should remain in the device for no more than 1 day.
-  Any remaining TYVASO and the medicine cup should be discarded at the end of each day
-- —Once a foil pouch is opened, use ampules within 7 days
-- —Store unused ampules of TYVASO in the foil pouch until use, protected from light
-- —Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature]
+  Any remaining TYVASO and the medicine cup should be discarded at the end of each day.
+- —Once a foil pouch is opened, use ampules within 7 days.
+- —Store unused ampules of TYVASO in the foil pouch until use, protected from light.
+- —Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 
 Keep out of the reach of children.
 
@@ -106,7 +106,7 @@ Manufactured for United Therapeutics Corporation Research Triangle Park, NC 2770
 United Therapeutics CORPORATION
 
 EXP LOT RTP3088 Rev.
-00
+01
 
 # PRINCIPAL DISPLAY PANEL - Institutional Starter Kit
 
@@ -150,4 +150,4 @@ Manufactured by United Therapeutics Corporation Research Triangle Park, NC 27709
 
 United Therapeutics CORPORATION
 
-EXP LOT
+EXP LOT 100408 REV.00

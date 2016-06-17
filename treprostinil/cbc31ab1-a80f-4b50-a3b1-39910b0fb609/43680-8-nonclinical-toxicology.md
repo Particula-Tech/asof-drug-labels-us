@@ -9,10 +9,20 @@ Treprostinil sodium did not affect fertility or mating performance of male or fe
 In this study, males were dosed from 10 weeks prior to mating and through the 2-week mating period.
 Females were dosed from 2 weeks prior to mating until gestational day 6.
 
+Oral administration of treprostinil diolamine to Tg.rasH2 mice at 0, 5, 10 and 20 mg/kg/day in males and 0, 3, 7.5 and 15 mg/kg/day in females daily for 26 weeks did not significantly increase the incidence of tumors.
+The exposures, when based on AUC, obtained at the highest dose levels used in males and females are about 208- and 460-fold, respectively, the human exposure following a single inhaled dose of 54 mcg.
+
+Treprostinil diolamine was tested in vivo in a rat micronucleus assay and did not induce an increased incidence of micronucleated polychromatic erythrocytes.
+
 ## 13.3 Developmental Toxicity
 
 In pregnant rats, continuous sc infusions of treprostinil sodium during organogenesis and late gestational development, at rates as high as 900 ng treprostinil/kg/min (about 117 times the recommended starting human sc infusion rate and about 16 times the average rate achieved in clinical trials, on a ng/m2 basis), resulted in no evidence of harm to the fetus.
 In pregnant rabbits, effects of continuous sc infusions of treprostinil during organogenesis were limited to an increased incidence of fetal skeletal variations (bilateral full rib or right rudimentary rib on lumbar vertebra 1) associated with maternal toxicity (reduction in body weight and food consumption) at an infusion rate of 150 ng treprostinil/kg/min (about 41 times the starting human sc infusion rate and 5 times the average rate achieved in clinical trials, on a ng/m2 basis).
+
+In studies with treprostinil diolamine, no adverse effect doses for fetal viability / growth, fetal development (teratogenicity), and postnatal development were determined in rats.
+In pregnant rats, no evidence of harm to the fetus was observed following oral administration of treprostinil diolamine at the highest dose tested (20 mg/kg/day), which represents about 154 and 1479 times the human exposure, when based on Cmax and AUC following a single dose of 54 mcg, respectively.
+In pregnant rabbits, external fetal and soft tissue malformations and fetal skeletal malformation occurred.
+The dose at which no adverse effects were seen (0.5 mg/kg/day) represents about 9 and 145 times the human exposure, when based on Cmax and AUC following a single dose of 54 mcg, respectively.
 
 ## 13.4 Inhalational Toxicity
 

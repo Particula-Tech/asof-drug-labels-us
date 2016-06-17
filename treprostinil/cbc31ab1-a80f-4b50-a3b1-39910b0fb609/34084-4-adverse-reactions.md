@@ -29,6 +29,8 @@ Eighty-nine (89%) percent of patients achieved the target dose of nine breaths, 
 Forty-two (42%) percent achieved a dose of 12 breaths four times daily.
 The adverse events during this chronic dosing study were qualitatively similar to those observed in the 12-week placebo controlled trial.
 
+In a prospective, observational study comparing patients taking Tyvaso (958 patient-years of exposure) and a control group (treatment with other approved therapies for PAH; 1094 patient-years), Tyvaso was associated with a higher rate of cough (16.2 per 100 patient-years vs. 10.9 per 100 pt-years), throat irritation (4.5 per 100 pt-years vs. 1.2 per 100 pt-years), nasal discomfort (2.6 per 100 pt-years vs. 1.3 per 100 pt-years), and haemoptysis (2.5 per 100 pt-years vs. 1.3 per 100 pt-years) compared to the control group.
+
 Adverse Events Associated with Route of Administration
 
 Adverse events in the treated group during the double-blind and open-label phase reflecting irritation to the respiratory tract included: cough, throat irritation, pharyngeal pain, epistaxis, hemoptysis and wheezing.

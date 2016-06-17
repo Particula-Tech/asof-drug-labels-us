@@ -2,7 +2,7 @@
 
 ## 5.1 Patients with Pulmonary Disease or Pulmonary Infections
 
-The safety and efficacy of Tyvaso have not been established in patients with significant underlying lung disease (e.g., asthma or chronic obstructive pulmonary disease).
+The efficacy of Tyvaso has not been established in patients with significant underlying lung disease (e.g., asthma or chronic obstructive pulmonary disease).
 Patients with acute pulmonary infections should be carefully monitored to detect any worsening of lung disease and loss of drug effect.
 
 ## 5.2 Risk of Symptomatic Hypotension
@@ -16,7 +16,7 @@ Titrate slowly in patients with hepatic or renal insufficiency, because such pat
 
 ## 5.4 Risk of Bleeding
 
-Since Tyvaso inhibits platelet aggregation, there may be an increased risk of bleeding, particularly among patients receiving anticoagulant therapy.
+Tyvaso inhibits platelet aggregation and increases the risk of bleeding.
 
 ## 5.5 Effect of Other Drugs on Treprostinil
 

@@ -6,7 +6,8 @@ Pregnancy Category B
 
 There are no adequate and well controlled studies with Tyvaso in pregnant women.
 Animal reproduction studies have not been conducted with treprostinil administered by the inhalation route.
-However, studies in pregnant rabbits using continuous subcutaneous (sc) infusions of treprostinil sodium at infusion rates higher than the recommended human sc infusion rate resulted in an increased incidence of fetal skeletal variations associated with maternal toxicity [see Nonclinical Toxicology (13.3)].
+However, studies in pregnant rabbits using continuous subcutaneous (sc) infusions of treprostinil sodium at infusion rates higher than the recommended human sc infusion rate resulted in an increased incidence of fetal skeletal variations associated with maternal toxicity.
+Also, a study in pregnant rabbits administered oral treprostinil diolamine at exposures higher than those in humans resulted in external fetal and soft tissue malformations and fetal skeletal malformations [see Nonclinical Toxicology (13.3)].
 Animal reproduction studies are not always predictive of human response.
 
 ## 8.2 Labor and Delivery

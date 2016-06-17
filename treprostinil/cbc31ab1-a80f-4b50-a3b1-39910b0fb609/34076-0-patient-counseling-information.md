@@ -11,7 +11,7 @@ In the event that a scheduled treatment session is missed or interrupted, therap
 Patients should avoid skin or eye contact with Tyvaso.
 If Tyvaso comes in contact with the skin or eyes, instruct patients to rinse immediately with water [see Dosage and Administration (2.4)].
 
-©Copyright 2014 United Therapeutics Corp. All rights reserved.
+©Copyright 2016 United Therapeutics Corp. All rights reserved.
 
 Tyvaso manufactured for:
 
