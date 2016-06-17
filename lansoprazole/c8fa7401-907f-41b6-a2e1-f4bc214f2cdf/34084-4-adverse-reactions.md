@@ -9,14 +9,15 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 The following adverse reactions were reported by the treating physician to have a possible or probable relationship to drug in 1% or more of lansoprazole-treated patients and occurred at a greater rate in lansoprazole-treated patients than placebo-treated patients in Table 1.
 
-Table 1: Incidence of Possibly or Probably Treatment-Related Adverse Reactions in Short-Term, Placebo-Controlled Lansoprazole Studies
+Table 1.
+Incidence of Possibly or Probably Treatment-Related Adverse Reactions in Short-Term, Placebo-Controlled Lansoprazole Studies
 
-| Body System/Adverse Event | Lansoprazole (N = 2,768) % | Placebo (N = 1,023) % |
+| Body System/Adverse Event | Lansoprazole (N = 2768) % | Placebo (N = 1023) % |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Abdominal Pain | 2.1 | 1.2 |
 | Digestive System |  |  |
-| Constipation | 1 | 0.4 |
+| Constipation | 1.0 | 0.4 |
 | Diarrhea | 3.8 | 2.3 |
 | Nausea | 1.3 | 1.2 |
 
@@ -111,7 +112,7 @@ Abnormal liver function tests, increased SGOT (AST), increased SGPT (ALT), incre
 Urine abnormalities such as albuminuria, glycosuria, and hematuria were also reported.
 Additional isolated laboratory abnormalities were reported.
 
-In the placebo controlled studies, when SGOT (AST) and SGPT (ALT) were evaluated, 0.4% (4/978) and 0.4% (11/2,677) patients, who received placebo and lansoprazole, respectively, had enzyme elevations greater than three times the upper limit of normal range at the final treatment visit.
+In the placebo controlled studies, when SGOT (AST) and SGPT (ALT) were evaluated, 0.4% (4/978) and 0.4% (11/2677) patients, who received placebo and lansoprazole, respectively, had enzyme elevations greater than three times the upper limit of normal range at the final treatment visit.
 None of these patients who received lansoprazole reported jaundice at any time during the study.
 
 In clinical trials using combination therapy with lansoprazole plus amoxicillin and clarithromycin, and lansoprazole plus amoxicillin, no increased laboratory abnormalities particular to these drug combinations were observed.

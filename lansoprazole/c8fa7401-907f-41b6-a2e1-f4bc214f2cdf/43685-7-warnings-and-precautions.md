@@ -12,7 +12,7 @@ Discontinue lansoprazole if acute interstitial nephritis develops [see Contraind
 
 ## 5.3 Cyanocobalamin (Vitamin B12) Deficiency
 
-Daily treatment with any acid-suppressing medications over a long period of time (e.g., longer than 3 years) may lead to malabsorption of cyanocobalamin (Vitamin B12) caused by hypo- or achlorhydria.
+Daily treatment with any acid-suppressing medications over a long period of time (e.g., longer than three years) may lead to malabsorption of cyanocobalamin (Vitamin B12) caused by hypo- or achlorhydria.
 Rare reports of cyanocobalamin deficiency occurring with acid-suppressing therapy have been reported in the literature.
 This diagnosis should be considered if clinical symptoms consistent with cyanocobalamin deficiency are observed.
 
@@ -35,7 +35,7 @@ Patients at risk for osteoporosis-related fractures should be managed according 
 
 ## 5.6 Hypomagnesemia
 
-Hypomagnesemia, symptomatic and asymptomatic, has been reported rarely in patients treated with PPIs for at least 3 months, in most cases after a year of therapy.
+Hypomagnesemia, symptomatic and asymptomatic, has been reported rarely in patients treated with PPIs for at least three months, in most cases after a year of therapy.
 Serious adverse events include tetany, arrhythmias, and seizures.
 In most patients, treatment of hypomagnesemia required magnesium replacement and discontinuation of the PPI.
 

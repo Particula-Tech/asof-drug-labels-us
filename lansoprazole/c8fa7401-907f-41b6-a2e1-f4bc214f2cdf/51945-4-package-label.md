@@ -1,8 +1,8 @@
-PRINCIPAL DISPLAY PANEL – 15 mg
+# PRINCIPAL DISPLAY PANEL – 15 mg
 
 NDC 0378-8015-93
 
-Lansoprazole Delayed-release Capsules, USP 15 mg
+Lansoprazole Delayed-Release Capsules, USP 15 mg
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
@@ -23,7 +23,7 @@ Made in India
 
 Mylan.com
 
-RMX8015H5
+RMX8015H6
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -31,11 +31,11 @@ Keep container tightly closed.
 
 Code No.: MH/DRUGS/25/NKD/89
 
-PRINCIPAL DISPLAY PANEL – 30 mg
+# PRINCIPAL DISPLAY PANEL – 30 mg
 
 NDC 0378-8030-93
 
-Lansoprazole Delayed-release Capsules, USP 30 mg
+Lansoprazole Delayed-Release Capsules, USP 30 mg
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
@@ -56,7 +56,7 @@ Made in India
 
 Mylan.com
 
-RMX8030H5
+RMX8030H6
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 

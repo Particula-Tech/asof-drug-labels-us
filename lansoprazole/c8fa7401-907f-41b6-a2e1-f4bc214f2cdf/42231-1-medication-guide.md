@@ -1,4 +1,6 @@
-MEDICATION GUIDE LANSOPRAZOLE DELAYED-RELEASE CAPSULES, USP (lan soe′ pra zole) 15 mg and 30 mg
+# Medication Guide
+
+Lansoprazole Delayed-Release Capsules, USP (lan soe′ pra zole)
 
 Read this Medication Guide before you start taking lansoprazole delayed-release capsules and each time you get a refill.
 There may be new information.
@@ -23,12 +25,12 @@ Lansoprazole delayed-release capsules can cause serious side effects, including:
 Lansoprazole delayed-release capsules can have other serious side effects.
 See “What are the possible side effects of lansoprazole delayed-release capsules?”
 
-What is lansoprazole?
+What are lansoprazole delayed-release capsules?
 
-Lansoprazole is a prescription medicine called a proton pump inhibitor (PPI).
-Lansoprazole reduces the amount of acid in your stomach.
+Lansoprazole delayed-release capsules are a prescription medicine called a proton pump inhibitor (PPI).
+Lansoprazole delayed-release capsules reduce the amount of acid in your stomach.
 
-Lansoprazole is used in adults:
+Lansoprazole delayed-release capsules are used in adults:
 
 - •for 4 weeks for the healing and symptom relief of duodenal ulcers.
   The duodenal area is the area where food passes when it leaves the stomach.
@@ -43,37 +45,37 @@ Lansoprazole is used in adults:
 - GERD happens when acid in your stomach backs up into the tube (esophagus) that connects your mouth to your stomach.
   This may cause a burning feeling in your chest or throat, sour taste or burping.
 - •for 8 weeks to heal the acid-related damage to the lining of the esophagus (called erosive esophagitis) and to relieve symptoms.
-  If needed, your doctor may prescribe another 8 weeks of lansoprazole.
+  If needed, your doctor may prescribe another 8 weeks of lansoprazole delayed-release capsules.
 - •for continued healing of erosive esophagitis.
 - •for the long-term treatment of conditions where your stomach makes too much acid.
   This includes a condition called Zollinger-Ellison syndrome.
 
-Lansoprazole is used in children and adolescents (ages 1 to 17):
+Lansoprazole delayed-release capsules are used in children and adolescents (ages 1 to 17):
 
 - •for up to 12 weeks to treat GERD and erosive esophagitis in children 1 to 11 years old.
 - •for up to 8 weeks to treat GERD and erosive esophagitis in adolescents 12 to 17 years old.
 
-Lansoprazole is not effective for symptoms of GERD in children under the age of one year.
+Lansoprazole delayed-release capsules are not effective for symptoms of GERD in children under the age of 1 year.
 
 Who should not take lansoprazole delayed-release capsules?
 
-Do not take lansoprazole delayed-release capsules if you are allergic to lansoprazole or any of the other ingredients in lansoprazole delayed-release capsules.
-See the end of this Medication Guide for a complete list of ingredients in lansoprazole delayed-release capsules.
+- •Do not take lansoprazole delayed-release capsules if you are allergic to lansoprazole or any of the other ingredients in lansoprazole delayed-release capsules.
+  See the end of this Medication Guide for a complete list of ingredients in lansoprazole delayed-release capsules.
 
 What should I tell my doctor before taking lansoprazole delayed-release capsules?
 
 Before you take lansoprazole delayed-release capsules, tell your doctor if you:
 
-- •have been told that you have low magnesium levels in your blood
-- •have liver problems
-- •have any other medical conditions
+- •have been told that you have low magnesium levels in your blood.
+- •have liver problems.
+- •have any other medical conditions.
 - •are pregnant or plan to become pregnant.
   It is not known if lansoprazole will harm your unborn baby.
 - •are breastfeeding or plan to breastfeed.
   It is not known if lansoprazole passes into your breast milk.
   You and your doctor should decide if you will take lansoprazole or breastfeed.
   You should not do both.
-  Talk to your doctor about the best way to feed your baby if you take lansoprazole.
+  Talk to your doctor about the best way to feed your baby if you take lansoprazole delayed-release capsules.
 
 Tell your doctor about all the medicines you take, including prescription and non-prescription drugs, vitamins, and herbal supplements.
 Lansoprazole delayed-release capsules may affect how other medicines work, and other medicines may affect how lansoprazole delayed-release capsules work.
@@ -81,6 +83,7 @@ Lansoprazole delayed-release capsules may affect how other medicines work, and o
 Especially tell your doctor if you take:
 
 - •atazanavir (Reyataz)
+- •nelfinavir (Viracept)
 - •erlotinib (Tarceva)
 - •digoxin (Lanoxin)
 - •a product that contains iron
@@ -111,8 +114,8 @@ How should I take lansoprazole delayed-release capsules?
 - •If you miss a dose, take it as soon as you remember.
   If it is almost time for your next dose, skip the missed dose.
   Just take the next dose at your regular time.
-  Do not take two doses at the same time.
-- •If you take too much lansoprazole, call your doctor right away.
+  Do not take 2 doses at the same time.
+- •If you take too many lansoprazole delayed-release capsules, call your doctor right away.
 
 What are the possible side effects of lansoprazole delayed-release capsules?
 
@@ -169,16 +172,16 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store lansoprazole delayed-release capsules?
 
-- •Store lansoprazole delayed-release capsules at 20° to 25°C (68° to 77°F).
+- •Store lansoprazole delayed-release capsules at room temperature between 20° to 25°C (68° to 77°F).
 
 Keep lansoprazole delayed-release capsules and all medicines out of the reach of children.
 
 General information about lansoprazole delayed-release capsules
 
 Medicines are sometimes prescribed for conditions other than those listed in a Medication Guide.
-Do not use lansoprazole for conditions for which it was not prescribed.
-Do not give lansoprazole to other people, even if they have the same symptoms you have.
-It may harm them.
+Do not use lansoprazole delayed-release capsules for conditions for which they were not prescribed.
+Do not give lansoprazole delayed-release capsules to other people, even if they have the same symptoms you have.
+They may harm them.
 
 This Medication Guide summarizes the most important information about lansoprazole delayed-release capsules.
 If you would like more information, talk with your doctor.
@@ -188,29 +191,28 @@ For more information, call Mylan Pharmaceuticals Inc. at 1-877-446-3679 (1-877-4
 
 What are the ingredients in lansoprazole delayed-release capsules?
 
-Active ingredient: lansoprazole, USP.
+Active ingredient: lansoprazole.
 
-Inactive ingredients in lansoprazole delayed-release capsules: colloidal silicon dioxide, corn starch, hydroxypropyl cellulose, low substituted hydroxypropyl cellulose, magnesium carbonate, methacrylic acid copolymer, polyethylene glycol, polysorbate 80, sucrose, sugar spheres, talc and titanium dioxide.
-The empty hard-shell gelatin capsules contain gelatin and titanium dioxide.
-The empty 15 mg hard-shell gelatin capsule also contains FD&C Green No. 3 and FD&C Red No. 40.
-The empty 30 mg hard-shell gelatin capsule also contains FD&C Blue No. 1 and FD&C Red No 3.
+Inactive ingredients in lansoprazole delayed-release capsules: colloidal silicon dioxide, corn starch, gelatin, hydroxypropyl cellulose, low substituted hydroxypropyl cellulose, magnesium carbonate, methacrylic acid copolymer, polyethylene glycol, polysorbate 80, sucrose, sugar spheres, talc and titanium dioxide.
+The 15 mg capsules also contain FD&C Green No. 3 and FD&C Red No. 40.
+The 30 mg capsules also contain FD&C Blue No. 1 and FD&C Red No 3.
 The imprinting ink contains black iron oxide, potassium hydroxide, propylene glycol, shellac and strong ammonia solution.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-INSTRUCTIONS FOR USE LANSOPRAZOLE DELAYED-RELEASE CAPSULES, USP (lan soe′ pra zole) 15 mg and 30 mg
+Instructions for Use Lansoprazole Delayed-Release Capsules, USP (lan soe′ pra zole)
 
-Lansoprazole Delayed-release Capsules:
+Lansoprazole Delayed-Release Capsules:
 
 - •Swallow lansoprazole delayed-release capsules whole.
   Do not crush or chew them.
 - •You should take lansoprazole delayed-release capsules before eating.
-- •Lansoprazole delayed-release capsules with certain foods:
+- •Lansoprazole Delayed-Release Capsule with Certain Foods:
 - You can only use applesauce, ENSURE pudding, cottage cheese, yogurt or strained pears.
   1. 1.Open the capsule.
-  2. 2.Sprinkle the pellets on one tablespoon of either applesauce, ENSURE pudding, cottage cheese, yogurt or strained pears.
+  2. 2.Sprinkle the pellets on 1 tablespoon of either applesauce, ENSURE pudding, cottage cheese, yogurt or strained pears.
   3. 3.Swallow right away.
-- •Lansoprazole delayed-release capsules with certain juices:
+- •Lansoprazole Delayed-Release Capsule with Certain Juices:
 - You can only use apple juice, orange juice or tomato juice.
   1. 1.Open the capsule.
   2. 2.Sprinkle the pellets into 60 mL (about ¼ cup) of either apple juice, orange juice or tomato juice.
@@ -218,7 +220,7 @@ Lansoprazole Delayed-release Capsules:
   4. 4.Swallow right away.
   5. 5.To make sure that the entire dose is taken, rinse the glass with ½ cup or more of juice to get out any leftover pellets.
      Swallow the juice right away.
-- •Lansoprazole delayed-release capsules through a nasogastric tube (NG tube) 16 French or larger, as prescribed by your doctor:
+- •Lansoprazole Delayed-Release Capsule Through a Nasogastric Tube (NG Tube) 16 French or Larger, as Prescribed by Your Doctor:
 - You can only use apple juice.
   1. 1.Open the capsule and empty the pellets into a syringe.
   2. 2.Do not break or crush the pellets.
@@ -231,7 +233,7 @@ Lansoprazole delayed-release capsules should not be used in foods or liquids not
 
 How should I store lansoprazole delayed-release capsules?
 
-- •Store lansoprazole delayed-release capsules at 20° to 25°C (68° to 77°F).
+- •Store lansoprazole delayed-release capsules at room temperature between 20° to 25°C (68° to 77°F).
 
 Keep lansoprazole delayed-release capsules and all medicines out of the reach of children.
 
@@ -241,8 +243,8 @@ The brand names listed are trademarks of their respective owners.
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Manufactured in India by: Mylan Laboratories Limited Hyderabad — 500 034, India Code No.: MH/DRUGS/25/NKD/89
+Manufactured by: Mylan Laboratories Limited Hyderabad — 500 034, India Code No.: MH/DRUGS/25/NKD/89
 
-75055874
+75058895
 
-REVISED JANUARY 2015 MX:LANS:R8mmh
+Revised: 4/2016 MX:LANS:R9mmh

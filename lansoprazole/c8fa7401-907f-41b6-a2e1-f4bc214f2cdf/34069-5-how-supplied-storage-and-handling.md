@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Lansoprazole Delayed-release Capsules, USP are available containing 15 mg or 30 mg of lansoprazole, USP.
+Lansoprazole Delayed-Release Capsules, USP are available containing 15 mg or 30 mg of lansoprazole, USP.
 
 The 15 mg capsule is a hard-shell gelatin capsule with a green opaque cap and green opaque body filled with white to off-white pellets.
 The capsule is axially printed with MYLAN over 8015 in black ink on both the cap and the body.
