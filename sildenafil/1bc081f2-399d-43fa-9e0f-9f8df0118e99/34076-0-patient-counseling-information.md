@@ -1,4 +1,4 @@
-# 17. PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
 See FDA-approved patient labeling (Patient Information).
 
@@ -13,20 +13,21 @@ See FDA-approved patient labeling (Patient Information).
 This product's label may have been updated.
 For current full prescribing information, please visit www.torrentpharma.com
 
+Trademarks are the property of their respective owners.
+
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., Indrad-382 721, Dist.
-Mehsana, INDIA.
+TORRENT PHARMACEUTICALS LTD., Indrad-382 721, INDIA.
 
-For:
+Manufactured for:
 
-TORRENT PHARMA INC., 5380 Holiday Terrace, Suite 40, Kalamazoo, Michigan 49009.
+TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-8038769 Revised November 2012
+8056366 Revised September 2015
 
 PATIENT INFORMATION
 
-Sildenafil Tablets
+Sildenafil (sil DEN a fil) Tablets
 
 Read this Patient Information before you start taking sildenafil tablets and each time you get a refill.
 There may be new information.
@@ -35,8 +36,9 @@ If you have any questions about sildenafil tablets, ask your doctor or pharmacis
 
 What is the most important information I should know about sildenafil tablets?
 
-Never take sildenafil tablets with any nitrate medicines.
+Never take sildenafil tablets with any nitrate or guanylate cyclase stimulator medicines.
 Your blood pressure could drop quickly to an unsafe level.
+
 Nitrate medicines include:
 
 - Medicines that treat chest pain (angina)
@@ -44,7 +46,11 @@ Nitrate medicines include:
 - Isosorbide mononitrate or dinitrate
 - Street drugs called "poppers" (amyl nitrate or nitrite)
 
-Ask your doctor or pharmacist if you are not sure if you are taking a nitrate medicine.
+Guanylate cyclase stimulators include:
+
+- Riociguat (Adempas)
+
+Ask your doctor or pharmacist if you are not sure if you are taking a nitrate or a guanylate cyclase stimulator medicine.
 
 What are sildenafil tablets?
 
@@ -55,7 +61,7 @@ Your heart has to work hard to pump blood into your lungs.
 Sildenafil tablets improve the ability to exercise and can slow down worsening changes in your physical condition.
 
 - Sildenafil tablets are not for use in children
-- It is not known if sildenafil tablets are effective for the treatment of PAH in people who are also taking a medicine called bosentan (Tracleer®)
+- Adding sildenafil tablets to another medication used to treat PAS, does not result in improvement in your ability to exercise.
 
 Sildenafil tablet contains the same medicine as sildenafil citrate tablets, 25 mg, 50 mg and 100 mg, which are used to treat erectile dysfunction (impotence).
 Do not take sildenafil tablets, 20 mg with sildenafil citrate tablets, 25 mg, 50 mg and 100 mg or other PDE-5 inhibitors.
@@ -65,6 +71,9 @@ Who should not take sildenafil tablet?
 Do not take sildenafil tablets if you:
 
 - take nitrate medicines.
+  See "What is the most important information I should know about sildenafil tablets?
+  "
+- take guanylate cyclase stimulator medicines.
   See "What is the most important information I should know about sildenafil tablets?
   "
 - are allergic to sildenafil or any other ingredient in sildenafil tablets.
@@ -96,6 +105,9 @@ Especially tell your doctor if you take
 - Nitrate medicines.
   See "What is the most important information I should know about sildenafil tablets?
   "
+- Riociguat (Adempas).
+  See "What is the most important information I should know about sildenafil tablets?
+  "
 - Ritonavir (Norvir®) or other medicines used to treat HIV infection
 - Ketoconazole (Nizoral®)
 - Itraconazole (Sporanox)
@@ -104,7 +116,7 @@ Especially tell your doctor if you take
 Know the medicines you take.
 Keep a list of your medicines and show it to your doctor and pharmacist when you get a new medicine.
 
-How should I take sildenafil tablets ?
+How should I take sildenafil tablets?
 
 - Take sildenafil tablets exactly as your doctor tells you.
 
@@ -126,7 +138,7 @@ Talk to your doctor first.
 
 • If you take too much sildenafil tablets, call your doctor or go to the nearest hospital emergency room.
 
-What are the possible side effects of sildenafil tablets ?
+What are the possible side effects of sildenafil tablets?
 
 - low blood pressure.
   Low blood pressure may cause you to feel faint or dizzy.
@@ -136,14 +148,14 @@ What are the possible side effects of sildenafil tablets ?
   More shortness of breath than usual may be due to your underlying medical condition.
 - decreased eyesight or loss of sight in one or both eyes (NAION).
   If you notice a sudden decrease or loss of eyesight, talk to your doctor right away.
-  It is not possible to determine if these events are related to oral medicines for the treatment of erectile dysfunction, including sildenafil, or to other medical problems, or combination of these factors.
 - sudden decrease or loss of hearing.
   If you notice a sudden decrease or loss of hearing, talk to your doctor right away.
   It is not possible to determine whether these events are related directly to this class of oral medicines, including sildenafil, or to other diseases or medicines, to other factors, or to a combination of factors.
 - heart attack, stroke, irregular heartbeats, and death.
   Most of these happened in men who already had heart problems.
 - erections that last several hours.
-  Tell your doctor right away if you have an erection that lasts more than 4 hours.
+  If you have an erection that lasts more than 4 hours, get medical help right away.
+  If it is not treated right away, priapism can permanently damage your penis.
 
 The most common side effects with sildenafil tablets include:
 
@@ -159,7 +171,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store sildenafil tablets?
 
-- Store sildenafil tablets at 20° - 25°C (68° - 77°F); excursions permitted to 15° - 30°C (59° - 86°F) [see USP Controlled Room Temperature].
+- Store sildenafil tablets at 20° to 25°C (68° to 77°F); excursions permitted between 15°C and 30°C (59°F and 86°F) [see USP Controlled Room Temperature].
 - Keep sildenafil tablets and all medicines away from children.
 
 General information about sildenafil tablets
@@ -179,22 +191,23 @@ What are the ingredients in sildenafil tablets?
 
 Sildenafil Tablets
 
-Active ingredients: sildenafil citrate
+Active ingredients: sildenafil citrate, USP
 
 Inactive ingredients: croscarmellose sodium, dibasic calcium phosphate anhydrous, hypromellose, microcrystalline cellulose, sodium stearyl fumarate, titanium dioxide and triacetin.
 
 This product's label may have been updated.
 For current full prescribing information, please visit www.torrentpharma.com
 
+Trademarks are the property of their respective owners.
+
 This Patient Information has been approved by the U.S. Food and Drug Administration
 
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., Indrad-382 721, Dist.
-Mehsana, INDIA.
+TORRENT PHARMACEUTICALS LTD., Indrad-382 721, INDIA.
 
-For:
+Manufactured for:
 
-TORRENT PHARMA INC., 5380 Holiday Terrace, Suite 40, Kalamazoo, Michigan 49009.
+TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-8038769 Revised November 2012
+8056368 Revised September 2015

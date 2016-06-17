@@ -1,4 +1,4 @@
-# 16. HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Sildenafil 20 mg tablets are white to off-white, round biconvex film coated tablets debossed with '85' on one side and plain on other side.
 
@@ -12,4 +12,4 @@ Bottles of 5000 NDC 13668-185-51
 
 100 Unit dose Tablets NDC 13668-185-74
 
-Recommended Storage for Sildenafil Tablets Store at 20° - 25°C (68° - 77°F); excursions permitted to 15° - 30°C (59° - 86°F) [see USP Controlled Room Temperature].
+Recommended Storage for Sildenafil Tablets: Store at 20° to 25°C (68° to 77°F); excursions permitted between 15°C and 30°C (59°F and 86°F) [see USP Controlled Room Temperature].
