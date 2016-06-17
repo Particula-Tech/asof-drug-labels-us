@@ -1,0 +1,13 @@
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
+Cyanocobalamin Injection, USP
+
+1 mL vial
+
+NDC 70069-005-01
+
+Carton
+
+25 vials
+
+NDC 70069-005-10
