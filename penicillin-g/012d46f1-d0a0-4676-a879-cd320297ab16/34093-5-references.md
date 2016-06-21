@@ -39,6 +39,6 @@
     Performance Standards for Antimicrobial Disk Susceptibility Tests, Approved Standard – 11th ed.
     CLSI document M02-A11, 2012
 
-LAB-0588-6.0
+LAB-0588-7.0
 
-October 2015
+June 2016
