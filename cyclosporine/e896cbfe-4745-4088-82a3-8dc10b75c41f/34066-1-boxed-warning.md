@@ -1,4 +1,4 @@
-WARNING
+# WARNING
 
 Only physicians experienced in management of systemic immunosuppressive therapy for the indicated disease should prescribe Gengraf® Capsules (cyclosporine capsules, USP [MODIFIED]).
 At doses used in solid organ transplantation, only physicians experienced in immunosuppressive therapy and management of organ transplant recipients should prescribe Gengraf®.
@@ -17,7 +17,7 @@ Cyclosporine blood concentrations should be monitored in transplant and rheumato
 Dose adjustments should be made in transplant patients to minimize possible organ rejection due to low concentrations.
 Comparison of blood concentrations in the published literature with blood concentrations obtained using current assays must be done with detailed knowledge of the assay methods employed.
 
-For Psoriasis Patients (See also BOXED WARNING above)
+# For Psoriasis Patients (See also BOXED WARNING above)
 
 Psoriasis patients previously treated with PUVA and to a lesser extent, methotrexate or other immunosuppressive agents, UVB, coal tar, or radiation therapy, are at an increased risk of developing skin malignancies when taking Gengraf® Capsules (cyclosporine capsules, USP [MODIFIED]).
 

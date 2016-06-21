@@ -12,6 +12,12 @@ Oval, white imprinted in blue, the “a” logo, 25 mg, and the code OR.
 Packages of 30 unit-dose blisters.
 (NDC 0074-6463-32).
 
+### 50 mg
+
+Oval, white, with one blue stripe, imprinted in blue, 50 mg, and the code OS.
+Packages of 30 unit-dose blisters.
+(NDC 0074-0541-30).
+
 ### 100 mg
 
 Oval, white, with two blue stripes, imprinted in blue, 100 mg, and the code OT.
@@ -33,4 +39,4 @@ Sandimmune® is a registered trademark of Novartis Pharmaceuticals Corporation.
 
 AbbVie Inc., North Chicago, IL 60064, U.S.A.
 
-03-B056 June, 2015
+03-B247 December, 2015
