@@ -16,6 +16,8 @@ Rx ONLY
 
 SANOFI
 
+Pull to remove leaflet
+
 # PRINCIPAL DISPLAY PANEL - 4 mL Vial Carton
 
 NDC 0075-8004-04
@@ -33,3 +35,5 @@ Contains 4 mL
 Rx ONLY
 
 SANOFI
+
+Pull to remove leaflet
