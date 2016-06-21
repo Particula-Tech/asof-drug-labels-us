@@ -18,6 +18,8 @@ Rx ONLY
 
 SANOFI
 
+Pull to remove leaflet
+
 # PRINCIPAL DISPLAY PANEL - 1 mL Vial Carton
 
 Winthrop
@@ -35,3 +37,5 @@ Contains 1 mL
 Rx ONLY
 
 SANOFI
+
+Pull to remove leaflet
