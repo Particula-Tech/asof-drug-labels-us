@@ -1,12 +1,14 @@
 # CLINICAL PHARMACOLOGY
 
-General
+## General
 
 Propofol is an intravenous sedative-hypnotic agent for use in the induction and maintenance of anesthesia or sedation.
 Intravenous injection of a therapeutic dose of propofol induces hypnosis with minimal excitation, usually within 40 seconds from the start of injection (the time for one arm-brain circulation).
 As with other rapidly acting intravenous anesthetic agents, the half-time of the blood-brain equilibration is approximately 1 to 3 minutes, accounting for the rate of induction of anesthesia.
+The mechanism of action, like all general anesthetics, is poorly understood.
+However, propofol is thought to produce its sedative/anesthetic affects by the positive modulation of the inhibitory function of the neurotransmitter GABA through the ligand-gated GABAA receptors.
 
-Pharmacodynamics
+## Pharmacodynamics
 
 Pharmacodynamic properties of propofol are dependent upon the therapeutic blood propofol concentrations.
 Steady-state propofol blood concentrations are generally proportional to infusion rates.
@@ -45,9 +47,7 @@ Clinical studies indicate that propofol injectable emulsion does not suppress th
 
 Animal studies and limited experience in susceptible patients have not indicated any propensity of propofol injectable emulsion to induce malignant hyperthermia.
 
-Hemosiderin deposits have been observed in the livers of dogs receiving propofol injectable emulsion containing 0.005% disodium edetate over a four-week period; the clinical significance of this is unknown.
-
-Pharmacokinetics
+## Pharmacokinetics
 
 The pharmacokinetics of propofol are well described by a three compartment linear model with compartments representing the plasma, rapidly equilibrating tissues, and slowly equilibrating tissues.
 

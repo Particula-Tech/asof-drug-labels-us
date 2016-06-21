@@ -10,9 +10,12 @@ These cardiorespiratory effects are more likely to occur following rapid bolus a
 For sedation of intubated, mechanically ventilated patients in the Intensive Care Unit (ICU), propofol injectable emulsion should be administered only by persons skilled in the management of critically ill patients and trained in cardiovascular resuscitation and airway management.
 
 Use of propofol injectable emulsion for both adult and pediatric ICU sedation has been associated with a constellation of metabolic derangements and organ system failures, referred to as Propofol Infusion Syndrome, that have resulted in death.
-The syndrome is characterized by severe metabolic acidosis, hyperkalemia, lipemia, rhabdomyolysis, hepatomegaly, cardiac and renal failure.
-The syndrome is most often associated with prolonged, high-dose infusions (> 5 mg/kg/h for > 48h) but has also been reported following large-dose, short-term infusions during surgical anesthesia.
+The syndrome is characterized by severe metabolic acidosis, hyperkalemia, lipemia, rhabdomyolysis, hepatomegaly, renal failure, ECG changes* and/or cardiac failure.
+The following appear to be major risk factors for the development of these events: decreased oxygen delivery to tissues; serious neurological injury and/or sepsis; high dosages of one or more of the following pharmacological agents; vasoconstrictors, steroids, inotropes and/or prolonged, high-dose infusions of propofol (> 5 mg/kg/h for > 48h).
+The syndrome has also been reported following large-dose, short-term infusions during surgical anesthesia.
 In the setting of prolonged need for sedation, increasing propofol dose requirements to maintain a constant level of sedation, or onset of metabolic acidosis during administration of a propofol infusion, consideration should be given to using alternative means of sedation.
+
+*Coved ST segment elevation (similar to ECG changes of the Brugada syndrome).
 
 Abrupt discontinuation of propofol injectable emulsion prior to weaning or for daily evaluation of sedation levels should be avoided.
 This may result in rapid awakening with associated anxiety, agitation, and resistance to mechanical ventilation.
@@ -26,6 +29,9 @@ The clinical significance of these findings is not known.
 There have been reports in which failure to use aseptic technique when handling propofol injectable emulsion was associated with microbial contamination of the product and with fever, infection, sepsis, other life-threatening illness, and death.
 Do not use if contamination is suspected.
 Discard unused portions as directed within the required time limits (see DOSAGE AND ADMINISTRATION - Handling Procedures).
+
+There have been reports, in the literature and other public sources, of the transmission of bloodborne pathogens (such as Hepatitis B, Hepatitis C, HIV) from unsafe injection practices, and use of propofol vials intended for single use on multiple persons.
+Propofol injectable emulsion vial is never to be accessed more than once or used on more than one person.
 
 # PRECAUTIONS
 

@@ -46,7 +46,7 @@ Incidence greater than 1% - Probably Causally Related
 | Skin and Appendages: | Rash [Peds: 5%]Pruritus [Peds: 2%] |  |
 | Events without an * or % had an incidence of 1% to 3% |  |  |
 
-| Incidence less than 1% - Probably Causally Related |  |  |
+|  | Incidence less than 1% - Probably Causally Related |  |
 | --- | --- | --- |
 |  | Anesthesia/MAC Sedation | ICU Sedation |
 | Body as a Whole: | Anaphylaxis/Anaphylactoid Reaction, Perinatal Disorder, [Tachycardia], [Bigeminy], [Bradycardia], [Premature Ventricular Contractions], [Hemorrhage], [ECG Abnormal], [Arrhythmia Atrial], [Fever], [Extremities Pain], [Anticholinergic Syndrome] |  |

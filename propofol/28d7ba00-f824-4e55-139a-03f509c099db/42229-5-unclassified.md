@@ -1,6 +1,5 @@
-10 mg/mL CONTAINS BENZYL ALCOHOL (See PRECAUTIONS section.)
-Fliptop Vial FOR I.V.
-ADMINISTRATION Shake Well Before Use
+PROPOFOL Injectable Emulsion Rx only 10 mg/mL CONTAINS BENZYL ALCOHOL (See PRECAUTIONS section.)
+Fliptop Vial FOR INTRAVENOUS ADMINISTRATION Shake Well Before Use
 
 Strict aseptic technique must always be maintained during handling.
 Propofol injectable emulsion is a single-use parenteral product which contains benzyl alcohol 1.5 mg/mL and sodium benzoate 0.7 mg/mL to inhibit the rate of growth of microorganisms, for up to 12 hours, in the event of accidental extrinsic contamination.
@@ -9,3 +8,6 @@ Accordingly, strict aseptic technique must still be adhered to.
 Do not use if contamination is suspected.
 Discard unused portions as directed within the required time limits (see DOSAGE AND ADMINISTRATION – Handling Procedures).
 There have been reports in which failure to use aseptic technique when handling propofol injectable emulsion was associated with microbial contamination of the product and with fever, infection/sepsis, other life-threatening illness, and/or death.
+
+There have been reports, in the literature and other public sources, of the transmission of bloodborne pathogens (such as Hepatitis B, Hepatitis C, HIV) from unsafe injection practices, and use of propofol vials intended for single use on multiple persons.
+Propofol injectable emulsion vials are never to be accessed more than once or used on more than one person.
