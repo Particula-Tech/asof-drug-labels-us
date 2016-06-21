@@ -14,7 +14,7 @@ These effects were reversible upon discontinuation of treatment.
 
 If HPA axis suppression is noted, an attempt should be made to withdraw the drug, to reduce the frequency of application, or to substitute a less potent corticosteroid.
 Recovery of HPA axis function is generally prompt upon discontinuation of topical corticosteroids.
-Infrequently, signs and symptoms of glucocorticosteroid insufficiency may occur requiring supplemental systemic corticosteroids.
+Infrequently, signs and symptoms of glucocortico-steroid insufficiency may occur requiring supplemental systemic corticosteroids.
 For information on systemic supplementation, see prescribing information for those products.
 
 Pediatric patients may be more susceptible to systemic toxicity from equivalent doses due to their larger skin surface to body mass ratios (see PRECAUTIONS: Pediatric Use).
@@ -36,7 +36,7 @@ Patients using topical corticosteroids should receive the following information 
    It is for external use only.
    Avoid contact with the eyes.
 2. The medication should not be used for any disorder other than that for which it was prescribed.
-3. The treated skin area should not be bandaged, otherwise covered or wrapped, so as to be occlusive unless directed by the physician.
+3. The treated skin area should not be bandaged, other-wise covered or wrapped, so as to be occlusive unless directed by the physician.
 4. Patients should report to their physician any signs of local adverse reactions.
 
 ## Laboratory Tests
@@ -79,7 +79,7 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 ## Pediatric Use
 
 Safety and effectiveness of Halobetasol Propionate Cream in pediatric patients have not been established and use in pediatric patients under 12 is not recommended.
-Because of a higher ratio of skin surface area to body mass, pediatric patients are at a greater risk than adults of HPA axis suppression and Cushing's syndrome when they are treated with topical corticosteroids.
+Because of a higher ratio of skin surface area to body mass, pediatric patients are at a greater risk than adults of HPA axis suppression and Cushing's syndrome when they are treated with topical corti-costeroids.
 They are therefore also at greater risk of adrenal insufficiency during or after withdrawal of treatment.
 Adverse effects including striae have been reported with inappropriate use of topical corticosteroids in infants and children.
 

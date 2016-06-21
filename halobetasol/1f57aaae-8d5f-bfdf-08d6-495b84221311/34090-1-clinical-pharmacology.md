@@ -13,6 +13,6 @@ Occlusive dressings with hydrocortisone for up to 24 hours have not been demonst
 Topical corticosteroids can be absorbed from normal intact skin.
 Inflammation and/or other disease processes in the skin may increase percutaneous absorption.
 
-Human and animal studies indicate that less than 6% of the applied dose of halobetasol propionate enters the circulation within 96 hours following topical administration of the cream.
+Human and animal studies indicate that less than 6% of the applied dose of halobetasol propionate enters the circulation within 96 hours following topical administration of Halobetasol Propionate Cream.
 
 Studies performed with Halobetasol Propionate Cream indicate that it is in the super-high range of potency as compared with other topical corticosteroids.
