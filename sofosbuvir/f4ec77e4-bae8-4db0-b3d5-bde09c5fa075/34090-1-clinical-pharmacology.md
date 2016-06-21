@@ -83,8 +83,8 @@ Geriatric Patients: Population pharmacokinetic analysis in HCV-infected subjects
 Patients with Renal Impairment: The pharmacokinetics of ledipasvir were studied with a single dose of 90 mg ledipasvir in HCV negative subjects with severe renal impairment (eGFR less than 30 mL/min by Cockcroft-Gault).
 No clinically relevant differences in ledipasvir pharmacokinetics were observed between healthy subjects and subjects with severe renal impairment.
 
-The pharmacokinetics of sofosbuvir were studied in HCV negative subjects with mild (eGFR between 50 to less than 80 mL/min/1.73m2), moderate (eGFR between 30 to less than 50 mL/min/1.73m2), severe renal impairment (eGFR less than 30 mL/min/1.73m2), and subjects with ESRD requiring hemodialysis following a single 400 mg dose of sofosbuvir.
-Relative to subjects with normal renal function (eGFR greater than 80 mL/min/1.73m2), the sofosbuvir AUC0–inf was 61%, 107%, and 171% higher in mild, moderate, and severe renal impairment, while the GS-331007 AUC0–inf was 55%, 88%, and 451% higher, respectively.
+The pharmacokinetics of sofosbuvir were studied in HCV negative subjects with mild (eGFR between 50 to less than 80 mL/min/1.73 m2), moderate (eGFR between 30 to less than 50 mL/min/1.73 m2), severe renal impairment (eGFR less than 30 mL/min/1.73 m2), and subjects with ESRD requiring hemodialysis following a single 400 mg dose of sofosbuvir.
+Relative to subjects with normal renal function (eGFR greater than 80 mL/min/1.73 m2), the sofosbuvir AUC0–inf was 61%, 107%, and 171% higher in mild, moderate, and severe renal impairment, while the GS-331007 AUC0–inf was 55%, 88%, and 451% higher, respectively.
 In subjects with ESRD, relative to subjects with normal renal function, sofosbuvir and GS-331007 AUC0–inf was 28% and 1280% higher when sofosbuvir was dosed 1 hour before hemodialysis compared with 60% and 2070% higher when sofosbuvir was dosed 1 hour after hemodialysis, respectively.
 A 4 hour hemodialysis session removed approximately 18% of administered dose [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
 
@@ -152,7 +152,7 @@ Table 5 Drug Interactions: Changes in Pharmacokinetic Parameters for Ledipasvir,
 | GS-331007 | 0.97 (0.83, 1.14) | 1.00 (0.87, 1.13) | NA |  |  |  |  |  |
 | NA = not available/not applicable, ND = not dosed. tenofovir DF = tenofovir disoproxil fumarate |  |  |  |  |  |  |  |  |
 
-No effect on the pharmacokinetic parameters of ledipasvir, sofosbuvir, and GS-331007 was observed with raltegravir and the combination of abacavir and lamivudine; emtricitabine, rilpivirine, and tenofovirdisoproxil fumarate; or dolutegravir, emtricitabine, and tenofovir disoproxil fumarate.
+No effect on the pharmacokinetic parameters of ledipasvir, sofosbuvir, and GS-331007 was observed with raltegravir and the combination of abacavir and lamivudine; emtricitabine, rilpivirine, and tenofovir disoproxil fumarate; or dolutegravir, emtricitabine, and tenofovir disoproxil fumarate.
 
 Ledipasvir is an inhibitor of drug transporter P-gp and breast cancer resistance protein (BCRP) and may increase intestinal absorption of coadministered substrates for these transporters.
 Ledipasvir is an inhibitor of transporters OATP1B1, OATP1B3, and BSEP only at concentrations exceeding those achieved in clinic.

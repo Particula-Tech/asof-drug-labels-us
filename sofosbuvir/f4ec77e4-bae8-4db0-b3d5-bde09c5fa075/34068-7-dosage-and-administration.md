@@ -26,4 +26,4 @@ For further information on ribavirin dosing and dosage modifications, refer to t
 
 ## 2.2 Severe Renal Impairment and End Stage Renal Disease
 
-No dosage recommendation can be given for patients with severe renal impairment (estimated Glomerular Filtration Rate [eGFR] less than 30 mL/min/1.73m2) or with end stage renal disease (ESRD) due to higher exposures (up to 20-fold) of the predominant sofosbuvir metabolite [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+No dosage recommendation can be given for patients with severe renal impairment (estimated Glomerular Filtration Rate [eGFR] less than 30 mL/min/1.73 m2) or with end stage renal disease (ESRD) due to higher exposures (up to 20-fold) of the predominant sofosbuvir metabolite [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].

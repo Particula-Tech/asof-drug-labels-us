@@ -58,7 +58,7 @@ Table 3 Adverse Reactions with ≥5% Greater Frequency Reported in Treatment-Exp
 
 Adverse Reactions in Subjects Co-infected with HIV-1
 
-The safety assessment of HARVONI was based on an open-label clinical trial in 335 genotype 1 or 4 subjects with HCV/HIV-1 coinfection who were on stable antiretroviral therapy in Study ION-4 [see Clinical Studies (14.4)].
+The safety assessment of HARVONI was based on an open-label clinical trial in 335 genotype 1 or 4 subjects with HCV/HIV-1 co-infection who were on stable antiretroviral therapy in Study ION-4 [see Clinical Studies (14.4)].
 The safety profile in HCV/HIV-1 co-infected subjects was similar to that observed in HCV mono-infected subjects.
 The most common adverse reactions occurring in at least 10% of subjects were headache (20%) and fatigue (17%).
 

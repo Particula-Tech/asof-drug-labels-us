@@ -2,7 +2,7 @@
 
 ## 14.1 Description of Clinical Trials
 
-The efficacy and safety of HARVONI were evaluated in four trials in genotype 1 HCV mono-infected subjects including one trial exclusively in treatment-experienced subjects with compensated cirrhosis (Child-Pugh A), one trial in genotype 1 or 4 HCV/HIV-1 co-infected subjects, two trials in genotype 4, 5 or 6 HCV mono-infected subjects and two trials in genotype 1 or 4 HCV infected pretransplant subjects with decompensated cirrhosis (Child-Pugh B and C) or posttransplant with Metavir F0–F3 fibrosis, compensated cirrhosis, decompensated cirrhosis or fibrosing cholestatic hepatitis (FCH), as summarized in Table 7 [see Clinical Studies (14.2,14.3, 14.4 and 14.5)]:
+The efficacy and safety of HARVONI were evaluated in four trials in genotype 1 HCV mono-infected subjects including one trial exclusively in treatment-experienced subjects with compensated cirrhosis (Child-Pugh A), one trial in genotype 1 or 4 HCV/HIV-1 co-infected subjects, two trials in genotype 4, 5 or 6 HCV mono-infected subjects and two trials in genotype 1 or 4 HCV infected pretransplant subjects with decompensated cirrhosis (Child-Pugh B and C) or post-transplant with Metavir F0–F3 fibrosis, compensated cirrhosis, decompensated cirrhosis or fibrosing cholestatic hepatitis (FCH), as summarized in Table 7 [see Clinical Studies (14.2,14.3, 14.4 and 14.5)]:
 
 Table 7 Trials Conducted with HARVONI with or without Ribavirin in Subjects with Chronic HCV Genotype 1, 4, 5 or 6 Infection
 
