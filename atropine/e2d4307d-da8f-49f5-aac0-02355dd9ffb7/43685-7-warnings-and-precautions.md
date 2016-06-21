@@ -7,9 +7,9 @@ INDIVIDUALS SHOULD NOT RELY SOLELY UPON ANTIDOTES SUCH AS ATROPINE AND PRALIDOXI
 
 Patients who have had previous anaphylactic reactions to atropine who have mild symptoms of organophosphorous or nerve agent poisoning should not be treated without adequate medical supervision.
 
-While AtroPen® can be administered to all individuals with a life-threatening exposure to organophosphorous nerve agents and insecticides, it should be administered with extreme caution to individuals with the following disorders when the symptoms of nerve agent poisoning are less severe: individuals who are hypersensitive to any component of the product, disorders of heart rhythm such as atrial flutter, severe narrow angle glaucoma, pyloric stenosis, prostatic hypertrophy, significant renal insufficiency, or a recent myocardial infarction.
+While ATROPEN® can be administered to all individuals with a life-threatening exposure to organophosphorous nerve agents and insecticides, it should be administered with extreme caution to individuals with the following disorders when the symptoms of nerve agent poisoning are less severe: individuals who are hypersensitive to any component of the product, disorders of heart rhythm such as atrial flutter, severe narrow angle glaucoma, pyloric stenosis, prostatic hypertrophy, significant renal insufficiency, or a recent myocardial infarction.
 
-More than one dose of atropine (AtroPen® Auto-Injector) may be necessary initially, especially when exposure is massive or symptoms are severe.
+More than one dose of atropine (ATROPEN® Auto-Injector) may be necessary initially, especially when exposure is massive or symptoms are severe.
 However, no more than three doses should be administered unless under the supervision of trained medical personnel.
 High doses of atropine may be required for many hours following high-dose exposure to maintain atropinization.
 (See DOSAGE AND ADMINISTRATION)
@@ -29,7 +29,7 @@ Laboratory Tests: Treatment of organophosphorous nerve agent and insecticide poi
 Red blood cell and plasma cholinesterase, and urinary paranitrophenol measurements (in the case of parathion exposure) may be helpful in confirming the diagnosis and following the course of the illness.
 A reduction in red blood cell cholinesterase concentration to below 50% of normal has been seen only with organophosphorous ester poisoning.
 
-Information for Patients: Appropriate steps must be taken to insure that users understand the indications for and use of the AtroPen®, including review of symptoms of poisoning and operation of the AtroPen® (see DOSAGE AND ADMINISTRATION).
+Information for Patients: Appropriate steps must be taken to insure that users understand the indications for and use of the ATROPEN®, including review of symptoms of poisoning and operation of the ATROPEN® (see DOSAGE AND ADMINISTRATION).
 
 Drug Interactions: When atropine and pralidoxime are used together, the signs of atropinization (flushing, mydriasis, tachycardia, dryness of the mouth and nose) may occur earlier than might be expected than when atropine is used alone because pralidoxime may potentiate the effect of atropine.
 

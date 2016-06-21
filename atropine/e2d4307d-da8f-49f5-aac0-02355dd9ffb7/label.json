@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA017106"
+  ],
   "inn": "atropine",
   "labeler": "Meridian Medical Technologies, Inc.",
   "package_ndcs": [
@@ -8,7 +10,13 @@
     "11704-106-01",
     "11704-107-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "atropine sulfate",
+      "name": "AtroPen Auto-Injector"
+    }
+  ],
   "setid": "e2d4307d-da8f-49f5-aac0-02355dd9ffb7",
   "source": "dailymed"
 }

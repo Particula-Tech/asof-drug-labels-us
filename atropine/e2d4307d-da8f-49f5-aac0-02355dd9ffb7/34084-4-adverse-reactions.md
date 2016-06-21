@@ -16,7 +16,7 @@ This is especially true if the total dose of atropine has been large and the adm
 Excitement and manic behavior immediately following recovery of consciousness have been reported in several cases.
 However, similar behavior has occurred in cases of organophosphate poisoning that were not treated with pralidoxime.
 
-Amitai et el (JAMA 1990) evaluated the safety of AtroPen® 0.5 mg, 1 mg and 2 mg in a case series of 240 children who received AtroPen® inappropriately (i.e., no nerve agent exposure) during the 1990 Gulf War Period.
+Amitai et el (JAMA 1990) evaluated the safety of ATROPEN® 0.5 mg, 1 mg and 2 mg in a case series of 240 children who received ATROPEN® inappropriately (i.e., no nerve agent exposure) during the 1990 Gulf War Period.
 Overall, severity of atropinization followed a nonlinear correlation with dose.
 Estimated doses up to 0.045 mg/kg produced no signs of atropinization.
 Estimated doses between 0.045 mg/kg to 0.175 mg/kg and even greater than 0.175 mg/kg were associated with mild and severe effects respectively.

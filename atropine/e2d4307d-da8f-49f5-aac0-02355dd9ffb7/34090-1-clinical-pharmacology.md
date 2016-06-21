@@ -37,7 +37,7 @@ Much of the drug is destroyed by enzymatic hydrolysis, particularly in the liver
 Traces are found in various secretions, including milk.
 Atropine readily crosses the placental barrier and enters the fetal circulation.
 
-The approximate Cmax of atropine following 1.67 mg atropine given intramuscularly to adults by the 2 mg AtroPen® delivery system was 9.6 ± 1.5 (mean ± SEM) ng/mL.
+The approximate Cmax of atropine following 1.67 mg atropine given intramuscularly to adults by the 2 mg ATROPEN® delivery system was 9.6 ± 1.5 (mean ± SEM) ng/mL.
 The mean Tmax was 3 minutes.
 The T1/2 of intravenous atropine in pediatric subjects under 2 years is 6.9 ± 3.3 (mean ± SD) hours; in children over 2 years, the T1/2 is 2.5 ± 1.2 (mean ± SD) hours; in adults 16-58 years the T1/2 is 3.0 ± 0.9 (mean ± SD) hours; in geriatric patients 65-75 years it is 10.0 ± 7.3 (mean ± SD) hours.
 The protein binding of atropine is 14 to 22% in plasma.

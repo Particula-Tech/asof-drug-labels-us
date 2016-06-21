@@ -1,17 +1,17 @@
 # DESCRIPTION
 
 Each prefilled auto-injector provides a dose of the antidote atropine in a self-contained unit, specially designed for self or caregiver administration.
-Four strengths of AtroPen® are available; they are AtroPen® 0.25 mg, AtroPen® 0.5 mg, AtroPen® 1 mg, and AtroPen® 2 mg.
+Four strengths of ATROPEN® are available; they are ATROPEN® 0.25 mg, ATROPEN® 0.5 mg, ATROPEN® 1 mg, and ATROPEN® 2 mg.
 
-When activated the AtroPen® 0.25 mg dispenses 0.21 mg atropine base (equivalent to 0.25 mg atropine sulfate).
-The AtroPen® 0.25 mg delivers 0.3 mL of sterile pyrogen-free solution containing citrate buffer, sodium chloride and Water for Injection.
+When activated the ATROPEN® 0.25 mg dispenses 0.21 mg atropine base (equivalent to 0.25 mg atropine sulfate).
+The ATROPEN® 0.25 mg delivers 0.3 mL of sterile pyrogen-free solution containing citrate buffer, sodium chloride and Water for Injection.
 The pH range is 4.0-5.0.
 
-When activated, the AtroPen® 0.5 mg dispenses 0.42 mg atropine base (equivalent to 0.5 mg atropine sulfate), the AtroPen® 1 mg dispenses 0.84 mg atropine base (equivalent to 1 mg atropine sulfate), and the AtroPen® 2 mg dispenses 1.67 mg atropine base (equivalent to 2 mg atropine sulfate).
-Each 0.5 mg, 1 mg and 2 mg AtroPen® delivers atropine in 0.7 mL of sterile pyrogen-free solution containing glycerin, phenol, citrate buffer and Water for Injection.
+When activated, the ATROPEN® 0.5 mg dispenses 0.42 mg atropine base (equivalent to 0.5 mg atropine sulfate), the ATROPEN® 1 mg dispenses 0.84 mg atropine base (equivalent to 1 mg atropine sulfate), and the ATROPEN® 2 mg dispenses 1.67 mg atropine base (equivalent to 2 mg atropine sulfate).
+Each 0.5 mg, 1 mg and 2 mg ATROPEN® delivers atropine in 0.7 mL of sterile pyrogen-free solution containing glycerin, phenol, citrate buffer and Water for Injection.
 The pH range is 4.0–5.0.
 
-After the AtroPen® Auto-Injector has been activated, the empty container should be disposed of properly (see DOSAGE AND ADMINISTRATION).
+After the ATROPEN® Auto-Injector has been activated, the empty container should be disposed of properly (see DOSAGE AND ADMINISTRATION).
 It cannot be refilled, nor can the protruding needle be retracted.
 
 Atropine, an anticholinergic agent (muscarinic antagonist), occurs as white crystals, usually needle-like, or as a white, crystalline powder.
