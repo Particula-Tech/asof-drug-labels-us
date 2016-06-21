@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA204368"
+  ],
+  "inn": "oxaliplatin",
+  "labeler": "Qilu Pharmaceutical Co., Ltd.",
+  "package_ndcs": [
+    "67184-0508-1",
+    "67184-0509-1",
+    "67184-0510-1"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "oxaliplatin",
+      "name": "Oxaliplatin"
+    }
+  ],
+  "setid": "33d4f4b4-bb4e-46af-9e89-df20154436d0",
+  "source": "dailymed"
+}
