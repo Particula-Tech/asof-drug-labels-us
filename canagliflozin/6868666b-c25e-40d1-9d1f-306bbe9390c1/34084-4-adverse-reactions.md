@@ -36,7 +36,7 @@ Baseline renal function was normal or mildly impaired (mean eGFR 88 mL/min/1.73 
 Table 1 shows common adverse reactions associated with the use of canagliflozin.
 These adverse reactions were not present at baseline, occurred more commonly on canagliflozin than on placebo, and occurred in at least 2% of patients treated with either canagliflozin 100 mg or canagliflozin 300 mg.
 
-Table 1: Adverse Reactions From Pool of Four 26–Week Placebo-Controlled Studies Reported in ≥ 2% of Canagliflozin-Treated PatientsThe four placebo-controlled trials included one monotherapy trial and three add-on combination trials with metformin, metformin and sulfonylurea, or metformin and pioglitazone.
+Table 1: Adverse Reactions From Pool of Four 26−Week Placebo-Controlled Studies Reported in ≥ 2% of Canagliflozin-Treated PatientsThe four placebo-controlled trials included one monotherapy trial and three add-on combination trials with metformin, metformin and sulfonylurea, or metformin and pioglitazone.
 
 | Adverse Reaction | Placebo N=646 | Canagliflozin 100 mg N=833 | Canagliflozin 300 mg N=834 |
 | --- | --- | --- | --- |

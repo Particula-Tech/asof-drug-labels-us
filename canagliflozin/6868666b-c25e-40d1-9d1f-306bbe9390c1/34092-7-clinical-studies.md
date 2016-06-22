@@ -21,14 +21,14 @@ At the end of treatment, canagliflozin 100 mg and canagliflozin 300 mg in combin
 
 Table 9: Results from 26-Week Active-Controlled Clinical Study of Canagliflozin Alone or Canagliflozin as Initial Combination Therapy with MetforminIntent-to-treat population
 
-| Efficacy Parameter | Metformin XR (N=237) | Canagliflozin 100 mg (N=237) | Canagliflozin 300 mg (N=238) | Canagliflozin 100 mg + Metformin XR (N=237) | Canagliflozin 300 mg + Metformin XR (N=237) |
-| --- | --- | --- | --- | --- | --- |
 | HbA1C (%) |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Efficacy Parameter | Metformin XR (N=237) | Canagliflozin 100 mg (N=237) | Canagliflozin 300 mg (N=238) | Canagliflozin 100 mg + Metformin XR (N=237) | Canagliflozin 300 mg + Metformin XR (N=237) |
 | Baseline (mean) | 8.81 | 8.78 | 8.77 | 8.83 | 8.90 |
 | Change from baseline (adjusted mean)There were 121 patients without week 26 efficacy data. Analyses addressing missing data gave consistent results with the results provided in this table. | -1.30 | -1.37 | -1.42 | -1.77 | -1.78 |
-| Difference from canagliflozin 100 mg (adjusted mean) (95% CI) Least squares mean adjusted for covariates including baseline value and stratification factor |  |  |  | -0.40Adjusted p=0.001 (-0.59, -0.21) |  |
+| Difference from canagliflozin 100 mg (adjusted mean) (95% CI)Least squares mean adjusted for covariates including baseline value and stratification factor |  |  |  | -0.40 (-0.59, -0.21) |  |
 | Difference from canagliflozin 300 mg (adjusted mean) (95% CI) |  |  |  |  | -0.36 (-0.56, -0.17) |
-| Difference from metformin XR (adjusted mean) (95% CI) |  |  |  | -0.46 (-0.66, -0.27) | -0.48 (-0.67, -0.28) |
+| Difference from metformin XR (adjusted mean) (95% CI) |  |  |  | -0.46Adjusted p=0.001 (-0.66, -0.27) | -0.48 (-0.67, -0.28) |
 | Percent of patients achieving HbA1C < 7% | 38 | 34 | 39 | 47Adjusted p<0.05 | 51 |
 
 ## 14.2 Canagliflozin as Add-on Combination Therapy with Metformin
@@ -45,12 +45,12 @@ Statistically significant (p<0.001 for both doses) mean changes from baseline in
 
 Table 10: Results from 26-Week Placebo-Controlled Clinical Study of Canagliflozin in Combination with MetforminIntent-to-treat population using last observation in study prior to glycemic rescue therapy
 
-| Efficacy Parameter | Placebo + Metformin (N=183) | Canagliflozin 100 mg + Metformin (N=368) | Canagliflozin 300 mg + Metformin (N=367) |
-| --- | --- | --- | --- |
 | HbA1C (%) |  |  |  |
+| --- | --- | --- | --- |
+| Efficacy Parameter | Placebo + Metformin (N=183) | Canagliflozin 100 mg + Metformin (N=368) | Canagliflozin 300 mg + Metformin (N=367) |
 | Baseline (mean) | 7.96 | 7.94 | 7.95 |
 | Change from baseline (adjusted mean) | -0.17 | -0.79 | -0.94 |
-| Difference from placebo (adjusted mean) (95% CI)Least squares mean adjusted for baseline value and stratification factors |  | -0.62p<0.001 (-0.76, -0.48) | -0.77 (-0.91, -0.64) |
+| Difference from placebo (adjusted mean) (95% CI)Least squares mean adjusted for baseline value and stratification factors |  | -0.62 (-0.76, -0.48) | -0.77 (-0.91, -0.64) |
 | Percent of patients achieving HbA1C < 7% | 30 | 46 | 58 |
 | Fasting Plasma Glucose (mg/dL) |  |  |  |
 | Baseline (mean) | 164 | 169 | 173 |
@@ -63,7 +63,7 @@ Table 10: Results from 26-Week Placebo-Controlled Clinical Study of Canagliflozi
 | Body Weight |  |  |  |
 | Baseline (mean) in kg | 86.7 | 88.7 | 85.4 |
 | % change from baseline (adjusted mean) | -1.2 | -3.7 | -4.2 |
-| Difference from placebo (adjusted mean) (95% CI) |  | -2.5 (-3.1, -1.9) | -2.9 (-3.5, -2.3) |
+| Difference from placebo (adjusted mean) (95% CI) |  | -2.5p<0.001 (-3.1, -1.9) | -2.9 (-3.5, -2.3) |
 
 ## 14.3 Canagliflozin Compared to Glimepiride, Both as Add-on Combination Therapy with Metformin
 
@@ -80,9 +80,9 @@ As shown in Table 11, treatment with canagliflozin 100 mg and 300 mg daily provi
 
 Table 11: Results from 52−Week Clinical Study Comparing Canagliflozin to Glimepiride in Combination with MetforminIntent-to-treat population using last observation in study prior to glycemic rescue therapy
 
-| Efficacy Parameter | Canagliflozin 100 mg + Metformin (N=483) | Canagliflozin 300 mg + Metformin (N=485) | Glimepiride (titrated) + Metformin (N=482) |
-| --- | --- | --- | --- |
 | HbA1C (%) |  |  |  |
+| --- | --- | --- | --- |
+| Efficacy Parameter | Canagliflozin 100 mg + Metformin (N=483) | Canagliflozin 300 mg + Metformin (N=485) | Glimepiride (titrated) + Metformin (N=482) |
 | Baseline (mean) | 7.78 | 7.79 | 7.83 |
 | Change from baseline (adjusted mean) | -0.82 | -0.93 | -0.81 |
 | Difference from glimepiride (adjusted mean) (95% CI)Least squares mean adjusted for baseline value and stratification factors | -0.01Canagliflozin + metformin is considered non-inferior to glimepiride + metformin because the upper limit of this confidence interval is less than the pre-specified non-inferiority margin of < 0.3%. (-0.11, 0.09) | -0.12 (-0.22, -0.02) |  |
@@ -111,12 +111,12 @@ Canagliflozin 100 mg and 300 mg once daily also resulted in a greater proportion
 
 Table 12: Results from 26−Week Placebo-Controlled Clinical Study of Canagliflozin in Combination with Metformin and SulfonylureaIntent-to-treat population using last observation in study prior to glycemic rescue therapy
 
-| Efficacy Parameter | Placebo + Metformin and Sulfonylurea (N=156) | Canagliflozin 100 mg + Metformin and Sulfonylurea (N=157) | Canagliflozin 300 mg + Metformin and Sulfonylurea (N=156) |
-| --- | --- | --- | --- |
 | HbA1C (%) |  |  |  |
+| --- | --- | --- | --- |
+| Efficacy Parameter | Placebo + Metformin and Sulfonylurea (N=156) | Canagliflozin 100 mg + Metformin and Sulfonylurea (N=157) | Canagliflozin 300 mg + Metformin and Sulfonylurea (N=156) |
 | Baseline (mean) | 8.12 | 8.13 | 8.13 |
 | Change from baseline (adjusted mean) | -0.13 | -0.85 | -1.06 |
-| Difference from placebo (adjusted mean) (95% CI)Least squares mean adjusted for baseline value and stratification factors |  | -0.71p<0.001 (-0.90, -0.52) | -0.92 (-1.11, -0.73) |
+| Difference from placebo (adjusted mean) (95% CI)Least squares mean adjusted for baseline value and stratification factors |  | -0.71 (-0.90, -0.52) | -0.92 (-1.11, -0.73) |
 | Percent of patients achieving HbA1C < 7% | 18 | 43 | 57 |
 | Fasting Plasma Glucose (mg/dL) |  |  |  |
 | Baseline (mean) | 170 | 173 | 168 |
@@ -125,7 +125,7 @@ Table 12: Results from 26−Week Placebo-Controlled Clinical Study of Canagliflo
 | Body Weight |  |  |  |
 | Baseline (mean) in kg | 90.8 | 93.5 | 93.5 |
 | % change from baseline (adjusted mean) | -0.7 | -2.1 | -2.6 |
-| Difference from placebo (adjusted mean) (95% CI) |  | -1.4 (-2.1, -0.7) | -2.0 (-2.7, -1.3) |
+| Difference from placebo (adjusted mean) (95% CI) |  | -1.4p<0.001 (-2.1, -0.7) | -2.0 (-2.7, -1.3) |
 
 ## 14.5 Canagliflozin Compared to Sitagliptin, Both as Add-on Combination Therapy with Metformin and Sulfonylurea
 
@@ -141,9 +141,9 @@ A mean change in systolic blood pressure from baseline of -5.06 mmHg was observe
 
 Table 13: Results from 52−Week Clinical Study Comparing Canagliflozin to Sitagliptin in Combination with Metformin and SulfonylureaIntent-to-treat population using last observation in study prior to glycemic rescue therapy
 
-| Efficacy Parameter | Canagliflozin 300 mg + Metformin and Sulfonylurea (N=377) | Sitagliptin 100 mg + Metformin and Sulfonylurea (N=378) |
-| --- | --- | --- |
 | HbA1C (%) |  |  |
+| --- | --- | --- |
+| Efficacy Parameter | Canagliflozin 300 mg + Metformin and Sulfonylurea (N=377) | Sitagliptin 100 mg + Metformin and Sulfonylurea (N=378) |
 | Baseline (mean) | 8.12 | 8.13 |
 | Change from baseline (adjusted mean) | -1.03 | -0.66 |
 | Difference from sitagliptin (adjusted mean) (95% CI)Least squares mean adjusted for baseline value and stratification factors | -0.37Canagliflozin + metformin+ sulfonylurea is considered non-inferior to sitagliptin + metformin+ sulfonylurea because the upper limit of this confidence interval is less than the pre-specified non-inferiority margin of < 0.3%. (-0.50, -0.25) |  |
@@ -171,14 +171,14 @@ At the of end of treatment, canagliflozin 100 mg and 300 mg once daily resulted 
 Canagliflozin 100 mg and 300 mg once daily also resulted in a greater proportion of patients achieving an HbA1C less than 7%, in significant reduction in fasting plasma glucose (FPG), and in percent body weight reduction compared to placebo when added to metformin and pioglitazone (see Table 14).
 Statistically significant (p<0.05 for both doses) mean changes from baseline in systolic blood pressure relative to placebo were -4.1 mmHg and -3.5 mmHg with canagliflozin 100 mg and 300 mg, respectively.
 
-Table 14: Results from 26−Week Placebo-Controlled Clinical Study of Canagliflozin in Combination with Metformin and PioglitazoneIntent-to-treat population using last observation in study prior to glycemic rescue therapy
+Table 14: Results from 26−Week Placebo-Controlled Clinical Study of Canagliflozin in Combination with Metformin and Pioglitazone Intent-to-treat population using last observation in study prior to glycemic rescue therapy
 
-| Efficacy Parameter | Placebo + Metformin and Pioglitazone (N=115) | Canagliflozin 100 mg + Metformin and Pioglitazone (N=113) | Canagliflozin 300 mg + Metformin and Pioglitazone (N=114) |
-| --- | --- | --- | --- |
 | HbA1C (%) |  |  |  |
+| --- | --- | --- | --- |
+| Efficacy Parameter | Placebo + Metformin and Pioglitazone (N=115) | Canagliflozin 100 mg + Metformin and Pioglitazone (N=113) | Canagliflozin 300 mg + Metformin and Pioglitazone (N=114) |
 | Baseline (mean) | 8.00 | 7.99 | 7.84 |
 | Change from baseline (adjusted mean) | -0.26 | -0.89 | -1.03 |
-| Difference from placebo (adjusted mean) (95% CI)Least squares mean adjusted for baseline value and stratification factors |  | -0.62p<0.001 (-0.81, -0.44) | -0.76 (-0.95, -0.58) |
+| Difference from placebo (adjusted mean) (95% CI)Least squares mean adjusted for baseline value and stratification factors |  | -0.62 (-0.81, -0.44) | -0.76 (-0.95, -0.58) |
 | Percent of patients achieving HbA1C < 7% | 33 | 47 | 64 |
 | Fasting Plasma Glucose (mg/dL) |  |  |  |
 | Baseline (mean) | 164 | 169 | 164 |
@@ -187,7 +187,7 @@ Table 14: Results from 26−Week Placebo-Controlled Clinical Study of Canagliflo
 | Body Weight |  |  |  |
 | Baseline (mean) in kg | 94.0 | 94.2 | 94.4 |
 | % change from baseline (adjusted mean) | -0.1 | -2.8 | -3.8 |
-| Difference from placebo (adjusted mean) (95% CI) |  | -2.7 (-3.6, -1.8) | -3.7 (-4.6, -2.8) |
+| Difference from placebo (adjusted mean) (95% CI) |  | -2.7p<0.001 (-3.6, -1.8) | -3.7 (-4.6, -2.8) |
 
 ## 14.7 Canagliflozin as Add-on Combination Therapy with Insulin (With or Without Other Anti-Hyperglycemic Agents, Including Metformin)
 
@@ -208,9 +208,9 @@ An increased incidence of hypoglycemia was observed in this study, which is cons
 
 Table 15: Results from 18−Week Placebo-Controlled Clinical Study of Canagliflozin in Combination with Metformin and Insulin ≥ 30 Units/DayIntent-to-treat population using last observation in study prior to glycemic rescue therapy
 
-| Efficacy Parameter | Placebo + Metformin + Insulin (N=145) | Canagliflozin 100 mg + Metformin + Insulin (N=139) | Canagliflozin 300 mg + Metformin + Insulin (N=148) |
-| --- | --- | --- | --- |
 | HbA1C (%) |  |  |  |
+| --- | --- | --- | --- |
+| Efficacy Parameter | Placebo + Metformin + Insulin (N=145) | Canagliflozin 100 mg + Metformin + Insulin (N=139) | Canagliflozin 300 mg + Metformin + Insulin (N=148) |
 | Baseline (mean) | 8.15 | 8.20 | 8.22 |
 | Change from baseline (adjusted mean) | 0.03 | -0.64 | -0.79 |
 | Difference from placebo (adjusted mean) (95% CI)Least squares mean adjusted for baseline value and stratification factors |  | -0.66p≤0.001 (-0.81, -0.51) | -0.82 (-0.96, -0.67) |

@@ -202,18 +202,18 @@ In Vivo Assessment of Drug Interactions
 
 Table 5: Effect of Co−Administered Drugs on Systemic Exposures of Canagliflozin
 
-| AUCAUCinf for drugs given as a single dose and AUC24h for drugs given as multiple doses (90% CI) | Cmax (90% CI) |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| Co-Administered Drug | Dose of Co-Administered DrugSingle dose unless otherwise noted | Dose of Canagliflozin | Geometric Mean Ratio (Ratio With/Without Co-Administered Drug) No Effect = 1.0 |  |  |
-| See Drug Interactions (7.2) for the clinical relevance of the following: |  |  |  |  |  |
-| Rifampin | 600 mg QD for 8 days | 300 mg | 0.49 (0.44; 0.54) | 0.72 (0.61; 0.84) |  |
-| No dose adjustments of canagliflozin required for the following: |  |  |  |  |  |
-| Cyclosporine | 400 mg | 300 mg QD for 8 days | 1.23 (1.19; 1.27) | 1.01 (0.91; 1.11) |  |
-| Ethinyl estradiol and levonorgestrel | 0.03 mg ethinyl estradiol and 0.15 mg levonorgestrel | 200 mg QD for 6 days | 0.91 (0.88; 0.94) | 0.92 (0.84; 0.99) |  |
-| Hydrochlorothiazide | 25 mg QD for 35 days | 300 mg QD for 7 days | 1.12 (1.08; 1.17) | 1.15 (1.06; 1.25) |  |
-| Metformin | 2,000 mg | 300 mg QD for 8 days | 1.10 (1.05; 1.15) | 1.05 (0.96; 1.16) |  |
-| Probenecid | 500 mg BID for 3 days | 300 mg QD for 17 days | 1.21 (1.16; 1.25) | 1.13 (1.00; 1.28) |  |
-| QD = once daily; BID = twice daily |  |  |  |  |  |
+| AUCAUCinf for drugs given as a single dose and AUC24h for drugs given as multiple doses (90% CI) | Cmax (90% CI) |  |  |  |
+| --- | --- | --- | --- | --- |
+| Co-Administered Drug | Dose of Co-Administered Drug | Dose of CanagliflozinSingle dose unless otherwise noted | Geometric Mean Ratio (Ratio With/Without Co-Administered Drug) No Effect = 1.0 |  |
+| See Drug Interactions (7.2) for the clinical relevance of the following: |  |  |  |  |
+| Rifampin | 600 mg QD for 8 days | 300 mg | 0.49 (0.44; 0.54) | 0.72 (0.61; 0.84) |
+| No dose adjustments of canagliflozin required for the following: |  |  |  |  |
+| Cyclosporine | 400 mg | 300 mg QD for 8 days | 1.23 (1.19; 1.27) | 1.01 (0.91; 1.11) |
+| Ethinyl estradiol and levonorgestrel | 0.03 mg ethinyl estradiol and 0.15 mg levonorgestrel | 200 mg QD for 6 days | 0.91 (0.88; 0.94) | 0.92 (0.84; 0.99) |
+| Hydrochlorothiazide | 25 mg QD for 35 days | 300 mg QD for 7 days | 1.12 (1.08; 1.17) | 1.15 (1.06; 1.25) |
+| Metformin | 2,000 mg | 300 mg QD for 8 days | 1.10 (1.05; 1.15) | 1.05 (0.96; 1.16) |
+| Probenecid | 500 mg BID for 3 days | 300 mg QD for 17 days | 1.21 (1.16; 1.25) | 1.13 (1.00; 1.28) |
+| QD = once daily; BID = twice daily |  |  |  |  |
 
 Table 6: Effect of Canagliflozin on Systemic Exposure of Co-Administered Drugs
 
@@ -262,9 +262,9 @@ Table 8: Effect of Metformin on Co−Administered Drug Systemic Exposures
 | --- | --- | --- | --- | --- |
 | Co-Administered Drug | Dose of Co-Administered DrugSingle dose unless otherwise noted | Dose of Metformin | Geometric Mean Ratio (Ratio With/Without Co-Administered Drug) No Effect = 1.00 |  |
 | No dose adjustments required for the following: |  |  |  |  |
-| Glyburide | 5 mg | 500 mgAUC0–24 hr reported | 0.78Ratio of arithmetic means, p-value of difference <0.05 | 0.63 |
+| Glyburide | 5 mg | 500 mg | 0.78Ratio of arithmetic means, p-value of difference <0.05 | 0.63 |
 | Furosemide | 40 mg | 850 mg | 0.87 | 0.69 |
-| Nifedipine | 10 mg | 850 mg | 1.10 | 1.08 |
+| Nifedipine | 10 mg | 850 mg | 1.10AUC0–24 hr reported | 1.08 |
 | Propranolol | 40 mg | 850 mg | 1.01 | 0.94 |
 | Ibuprofen | 400 mg | 850 mg | 0.97Ratio of arithmetic means. | 1.01 |
 | Cimetidine | 400 mg | 850 mg | 0.95 | 1.01 |
