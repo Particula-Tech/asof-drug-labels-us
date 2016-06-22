@@ -24,7 +24,7 @@ The following adverse reactions are discussed in more detail in other sections o
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
 The most commonly reported adverse reactions (≥5%) across CLOZARIL clinical trials were: CNS reactions, including sedation, dizziness/vertigo, headache, and tremor; cardiovascular reactions, including tachycardia, hypotension, and syncope; autonomic nervous system reactions, including hypersalivation, sweating, dry mouth, and visual disturbances; gastrointestinal reactions, including constipation and nausea; and fever.
-Table 9 summarizes the most commonly reported adverse reactions ≥5%) in CLOZARIL-treated patients (compared to chlorpromazine-treated patients) in the pivotal, 6-week, controlled trial in treatment-resistant schizophrenia.
+Table 9 summarizes the most commonly reported adverse reactions (≥5%) in CLOZARIL-treated patients (compared to chlorpromazine-treated patients) in the pivotal, 6-week, controlled trial in treatment-resistant schizophrenia.
 
 Table 9.
 Common Adverse Reactions (≥5%) in the 6-Week, Randomized, Chlorpromazine-controlled Trial in Treatment-Resistant Schizophrenia
@@ -103,15 +103,15 @@ Incidence of Adverse Reactions in Patients Treated with CLOZARIL or Olanzapine i
 
 | Adverse Reactions | CLOZARIL N=479 % Reporting | Olanzapine N=477 % Reporting |
 | --- | --- | --- |
-| Salivary hypersecretion | 48% | 6% |
-| Somnolence | 46% | 25% |
-| Weight increased | 31% | 56% |
-| Dizziness (excluding vertigo) | 27% | 12% |
-| Constipation | 25% | 10% |
-| Insomnia | 20% | 33% |
-| Nausea | 17% | 10% |
-| Vomiting | 17% | 9% |
-| Dyspepsia | 14% | 8% |
+| Salivary hypersecretion | 48 | 6 |
+| Somnolence | 46 | 25 |
+| Weight increased | 31 | 56 |
+| Dizziness (excluding vertigo) | 27 | 12 |
+| Constipation | 25 | 10 |
+| Insomnia | 20 | 33 |
+| Nausea | 17 | 10 |
+| Vomiting | 17 | 9 |
+| Dyspepsia | 14 | 8 |
 
 Dystonia
 

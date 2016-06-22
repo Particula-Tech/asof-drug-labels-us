@@ -118,7 +118,7 @@ Use CLOZARIL cautiously in patients with cardiovascular disease (history of myoc
 
 ## 5.4 Seizures
 
-Seizure has been estimated to occur in association with clozapine use at a cumulative incidence at one year of approximately 5%, based on the occurrence of one or more seizures in 61 of 1743 patients exposed to clozapine during its clinical testing prior to domestic marketing (i.e., a crude rate of 3.5%).
+Seizure has been estimated to occur in association with clozapine use at a cumulative incidence at 1 year of approximately 5%, based on the occurrence of 1 or more seizures in 61 of 1743 patients exposed to clozapine during its clinical testing prior to domestic marketing (i.e., a crude rate of 3.5%).
 The risk of seizure is dose-related.
 Initiate treatment with a low dose (12.5 mg), titrate slowly, and use divided dosing.
 
