@@ -21,9 +21,9 @@ Table 6: Effect of Alendronate Sodium on Fracture Incidence in the Three-Year St
 | Vertebral fractures (diagnosed by X-ray)* |  |  |  |  |
 | ≥1 new vertebral fracture | 7.9 | 15 | 7.1 | 47† |
 | ≥2 new vertebral fractures | 0.5 | 4.9 | 4.4 | 90† |
-| Clinical (symptomatic)fractures |  |  |  |  |
+| Clinical (symptomatic) fractures |  |  |  |  |
 | Any clinical (symptomatic) fracture | 13.8 | 18.1 | 4.3 | 26‡ |
-| ≥1 clinical (symptomatic)vertebral fracture | 2.3 | 5 | 2.7 | 54§ |
+| ≥1 clinical (symptomatic) vertebral fracture | 2.3 | 5 | 2.7 | 54§ |
 | Hip fracture | 1.1 | 2.2 | 1.1 | 51¶ |
 | Wrist (forearm) fracture | 2.2 | 4.1 | 1.9 | 48¶ |
 | *Number evaluable for vertebral fractures: alendronate sodium, n=984; placebo, n=966 †p<0.001, ‡p=0.007, §p<0.01, ¶p<0.05 |  |  |  |  |

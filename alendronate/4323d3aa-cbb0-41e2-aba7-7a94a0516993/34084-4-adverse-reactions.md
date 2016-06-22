@@ -18,7 +18,7 @@ Table 1: Osteoporosis Treatment Studies in Postmenopausal Women Adverse Reaction
 
 | Alendronate Sodium* % (n=196) | Placebo % (n=397) | Alendronate Sodium† % (n=3236) | Placebo % (n=3223) |  |
 | --- | --- | --- | --- | --- |
-|  | United States / Multinational Studies |  | Fracture Intervention Trial |  |
+|  | United States/ Multinational Studies |  | Fracture Intervention Trial |  |
 | Gastrointestinal |  |  |  |  |
 | abdominal pain | 6.6 | 4.8 | 1.5 | 1.5 |
 | nausea | 3.6 | 4 | 1.1 | 1.5 |
@@ -152,3 +152,4 @@ Nervous System: dizziness and vertigo.
 Pulmonary: acute asthma exacerbations.
 Skin: rash (occasionally with photosensitivity), pruritus, alopecia, severe skin reactions, including Stevens-Johnson syndrome and toxic epidermal necrolysis.
 Special Senses: uveitis, scleritis or episcleritis.
+Cholesteatoma of the external auditory canal (focal osteonecrosis).

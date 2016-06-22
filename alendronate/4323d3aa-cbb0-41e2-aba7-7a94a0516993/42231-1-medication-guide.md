@@ -151,8 +151,7 @@ How do I store alendronate sodium tablets?
 - Keep alendronate sodium tablets in a tightly closed container.
 
 Keep alendronate sodium tablets and all medicines out of the reach of children.
-General information about the safe and effective use of alendronate sodium tablets.
-Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
+General information about the safe and effective use of alendronate sodium tablets Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use alendronate sodium tablets for a condition for which it was not prescribed.
 Do not give alendronate sodium tablets to other people, even if they have the same symptoms you have.
 They may harm them.
@@ -163,4 +162,7 @@ For more information, call Northstar Rx LLC at 1-800-206-7821.
 What are the ingredients in alendronate sodium tablets?
 Active ingredient: alendronate monosodium salt trihydrate Inactive ingredients: corn starch, magnesium stearate, microcrystalline cellulose, povidone, and sodium starch glycolate.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Manufactured for: Northstar Rx LLC Memphis, TN 38141 Toll Free: 1-800-206-7821 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India M.L.No.: 19/HD/AP/95/F/R Revised: 04/2015
+Medication Guides available at www.northstarrxllc.com/products or call 1-800-206-7821.
+Manufactured for: Northstar Rx LLC Memphis, TN 38141.
+Toll Free: 1-800-206-7821 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India.
+M.L.No.: 19/HD/AP/95/F/R Revised: 05/2016

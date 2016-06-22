@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Alendronate sodium is a bisphosphonate that acts as a specific inhibitor of osteoclast­mediated bone resorption.
+Alendronate sodium is a bisphosphonate that acts as a specific inhibitor of osteoclast-­mediated bone resorption.
 Bisphosphonates are synthetic analogs of pyrophosphate that bind to the hydroxyapatite found in bone.
 Alendronate sodium is chemically described as (4-amino-1-hydroxybutylidene) bisphosphonic acid monosodium salt trihydrate.
 The molecular formula of alendronate sodium is C4H12NNaO7P2•3H2O and its formula weight is 325.12.
