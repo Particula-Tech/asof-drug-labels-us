@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA204442"
+  ],
+  "inn": "buprenorphine",
+  "labeler": "Braeburn Pharmaceuticals",
+  "package_ndcs": [
+    "58284-100-14"
+  ],
+  "products": [
+    {
+      "form": "IMPLANT",
+      "generic": "buprenorphine hydrochloride",
+      "name": "Probuphine"
+    }
+  ],
+  "setid": "10fd7088-cc4a-4bda-a5e3-a82563540a9a",
+  "source": "dailymed"
+}

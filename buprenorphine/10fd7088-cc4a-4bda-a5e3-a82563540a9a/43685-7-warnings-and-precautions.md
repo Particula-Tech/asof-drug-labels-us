@@ -1,0 +1,175 @@
+# 5. WARNINGS AND PRECAUTIONS
+
+## 5.1. Serious Complications from Insertion and Removal of PROBUPHINE
+
+Rare but serious complications including nerve damage and migration resulting in embolism and death may result from improper insertion of drug implants inserted in the upper arm.
+Additional complications may include local migration, protrusion, and expulsion.
+
+Insert PROBUPHINE in accordance with the instructions.
+[see Indications and Usage (1), Dosage and Administration (2.1)].
+It is essential to insert PROBUPHINE subdermally so that each implant is palpable after insertion.
+It is also essential to confirm proper placement by palpation immediately after insertion.
+If PROBUPHINE is inserted too deeply (intramuscular or in the fascia), neural or vascular injury may occur.
+
+Incomplete insertions or infections may lead to protrusion or expulsion.
+[see Dosage and Administration (2.8)].
+Accidental exposures to PROBUPHINE can result from protrusion or expulsion of the implants.
+[see Warnings and Precautions (5.7)].
+
+Improper insertion may lead to complicated removal if the implant is inserted too deeply, is not palpable, or has migrated.
+Deep insertions may lead to difficulty localizing the implant; additional surgical procedures may be required in order to remove the implant [see Dosage and Administration (2.6, 2.7)].
+Injury to deeper neural or vascular structures in the arm may occur when removing deeply inserted implants.
+
+All Healthcare Providers must successfully complete a live training program on the insertion and removal procedures and become certified in the PROBUPHINE REMS program, prior to performing insertions or prescribing PROBUPHINE implants.
+There are additional requirements and prerequisites that must be met to become certified to insert PROBUPHINE implants.
+Only Healthcare Providers who have performed a surgical procedure in the last 3 months and demonstrate competency in the PROBUPHINE procedures at the live training can become certified to perform insertions.
+Patients must be monitored to ensure that PROBUPHINE is removed by a healthcare provider certified to insert PROBUPHINE implants.
+[see Warnings and Precautions (5.2)].
+
+## 5.2. PROBUPHINE REMS Program
+
+PROBUPHINE is available only through a restricted program under a REMS, called the PROBUPHINE REMS Program, because of the risk of complications of migration, protrusion and expulsion, and nerve damage associated with the insertion and removal of PROBUPHINE [see Warnings and Precautions (5.1)].
+
+Notable requirements of the PROBUPHINE REMS Program include the following:
+
+- Healthcare Providers who Prescribe PROBUPHINE must be certified with the program by enrolling and completing live training
+- Healthcare Providers who Insert PROBUPHINE must
+  - meet the prerequisite requirements [see Dosage and Administration (2.1) and Warnings and Precautions (5.1)]
+  - be certified with the program by enrolling and completing live training, including demonstrating competency in PROBUPHINE procedures
+- Patients must be monitored to ensure that PROBUPHINE is removed by a healthcare provider certified to insert PROBUPHINE implants
+- PROBUPHINE will only be distributed to certified prescribers through a restricted distribution program
+
+Further information is available at www.PROBUPHINEREMS.com or 1-844-859-6341.
+
+## 5.3. Addiction, Abuse, and Misuse
+
+PROBUPHINE contains buprenorphine, a Schedule III controlled substance that can be abused in a manner similar to other opioids.
+Buprenorphine is sought by people with opioid use disorders and is subject to criminal diversion.
+Consider these risks and the patient's stability in treatment for opioid dependence when determining whether PROBUPHINE is appropriate for the patient.
+Monitor all patients receiving PROBUPHINE for conditions indicative of diversion or progression of opioid dependence and addictive behaviors.
+
+## 5.4. Risk of Respiratory and Central Nervous System (CNS) Depression
+
+Buprenorphine, particularly when taken by the IV route, in combination with benzodiazepines or other CNS depressants (including alcohol), has been associated with significant respiratory depression and death.
+Many, but not all, post-marketing reports regarding coma and death associated with the concomitant use of buprenorphine and benzodiazepines involved misuse by self- injection.
+Deaths have also been reported in association with concomitant administration of buprenorphine with other depressants such as alcohol or other CNS depressant drugs.
+
+PROBUPHINE should be prescribed with caution to patients taking benzodiazepines or other drugs that act on the CNS, at onset of treatment, regardless of whether these drugs are taken on the advice of a healthcare provider or are being abused/misused.
+If patients are anticipated to begin taking benzodiazepines or other drugs after beginning PROBUPHINE treatment, healthcare providers should assess the risks and benefits of initiating PROBUPHINE for those patients.
+Warn patients of the potential danger of self-administration of benzodiazepines or other depressants while under treatment with PROBUPHINE [see Drug Interactions (7.3, 7.4), Patient Counseling Information (17)].
+
+Use PROBUPHINE with caution in patients with compromised respiratory function (e.g., chronic obstructive pulmonary disease, cor pulmonale, decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression) [see Warnings and Precautions (5.4)].
+
+Patients receiving buprenorphine in the presence of opioid analgesics, general anesthetics, benzodiazepines, phenothiazines, other tranquilizers, sedative/hypnotics, or other CNS depressants (including alcohol) may exhibit increased CNS depression.
+Consider dose reduction of CNS depressants in situations of concomitant prescription [see Drug Interactions (7.3, 7.4)].
+
+## 5.5. Neonatal Opioid Withdrawal Syndrome
+
+Neonatal opioid withdrawal syndrome (NOWS) is an expected and treatable outcome of prolonged use of opioids during pregnancy, whether that use is medically-authorized or illicit.
+Unlike opioid withdrawal syndrome in adults, NOWS may be life-threatening if not recognized and treated in the neonate.
+Healthcare professionals should observe newborns for signs of NOWS and manage accordingly [see Use in Specific Populations (8.1)].
+
+Advise pregnant women receiving opioid addiction treatment with PROBUPHINE of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see Use in Specific Populations 8.1].
+This risk must be balanced against the risk of untreated opioid addiction which often results in continued or relapsing illicit opioid use and is associated with poor pregnancy outcomes.
+Therefore, prescribers should discuss the importance and benefits of management of opioid addiction throughout pregnancy.
+
+## 5.6. Adrenal Insufficiency
+
+Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
+Presentation of adrenal insufficiency may include non-specific symptoms and signs including nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
+If adrenal insufficiency is suspected, confirm the diagnosis with diagnostic testing as soon as possible.
+If adrenal insufficiency is diagnosed, treat with physiologic replacement doses of corticosteroids.
+Wean the patient off of the opioid to allow adrenal function to recover and continue corticosteroid treatment until adrenal function recovers.
+Other opioids may be tried as some cases reported use of a different opioid without recurrence of adrenal insufficiency.
+The information available does not identify any particular opioids as being more likely to be associated with adrenal insufficiency.
+
+## 5.7. Unintentional Pediatric Exposure
+
+Buprenorphine can cause severe, possibly fatal, respiratory depression in children who are accidentally exposed to it.
+Instruct patients to keep the expelled implant(s) away from others, especially children.
+
+## 5.8. Risk of Opioid Withdrawal with Abrupt Discontinuation of PROBUPHINE Treatment
+
+Buprenorphine is a partial agonist at the mu-opioid receptor and chronic administration produces physical dependence of the opioid type, characterized by withdrawal signs and symptoms upon abrupt discontinuation or rapid taper.
+The withdrawal syndrome is milder than that seen with full agonists, and may be delayed in onset [see Drug Abuse and Dependence (9.2, 9.3)].
+If PROBUPHINE implants are not to be immediately replaced upon removal, maintain patients on their previous dosage of sublingual buprenorphine until PROBUPHINE treatment is resumed [see Dosage and Administration (2.1)].
+Patients who elect to discontinue PROBUPHINE treatment should be monitored for withdrawal with consideration given to use of a tapering dose of transmucosal buprenorphine.
+
+## 5.9. Risk of Hepatitis, Hepatic Events
+
+Cases of cytolytic hepatitis and hepatitis with jaundice have been observed in individuals receiving sublingual buprenorphine for the treatment of opioid dependence, both in clinical trials and through post-marketing adverse event reports.
+
+The spectrum of abnormalities ranges from transient asymptomatic elevations in hepatic transaminases to case reports of death, hepatic failure, hepatic necrosis, hepatorenal syndrome, and hepatic encephalopathy.
+In many cases, the presence of pre-existing liver enzyme abnormalities, infection with hepatitis B or hepatitis C virus, concomitant usage of other potentially hepatotoxic drugs, and ongoing injection drug abuse may have played a causative or contributory role.
+In other cases, insufficient data were available to determine the etiology of the abnormality.
+The possibility exists that buprenorphine had a causative or contributory role in the development of the hepatic abnormality in some cases.
+Liver function tests are recommended prior to initiation of treatment to establish a baseline.
+Periodic monitoring of liver function during treatment is also recommended.
+
+A biological and etiological evaluation is recommended when a hepatic event is suspected.
+Monitor patients with declining hepatic function for side effects resulting from increased exposure to buprenorphine.
+Patients may require removal of PROBUPHINE implants [see Dosage and Administration (2.5)].
+
+## 5.10. Hypersensitivity Reactions
+
+Allergic reactions to buprenorphine and/or EVA are possible.
+Cases of hypersensitivity to buprenorphine sublingual tablets have been reported both in clinical trials and in the post-marketing experience.
+Cases of bronchospasm, angioneurotic edema, and anaphylactic shock have been reported.
+The most common signs and symptoms include rashes, hives, and pruritus.
+A history of hypersensitivity to buprenorphine or EVA is a contraindication to PROBUPHINE use.
+
+## 5.11. Precipitation of Opioid Withdrawal in Patients Dependent on Full Agonist Opioids
+
+Because of the partial opioid agonist properties of buprenorphine, buprenorphine may precipitate opioid withdrawal signs and symptoms in persons who are currently physically dependent on full opioid agonists such as heroin, morphine, or methadone before the effects of the full opioid agonist have subsided.
+Verify that patients are clinically stable on transmucosal buprenorphine and not dependent on full agonists before inserting PROBUPHINE.
+
+## 5.12. Risks Associated with Treatment of Emergent Acute Pain
+
+While on PROBUPHINE, situations may arise where patients need acute pain management, or may require anesthesia.
+Treat patients receiving PROBUPHINE with a non-opioid analgesic whenever possible.
+Patients requiring opioid therapy for analgesia may be treated with a high-affinity full opioid analgesic under the supervision of a physician, with particular attention to respiratory function.
+Higher doses may be required for analgesic effect.
+Therefore, a higher potential for toxicity exists with opioid administration.
+If opioid therapy is required as part of anesthesia, patients should be continuously monitored in an anesthesia care setting by persons not involved in the conduct of the surgical or diagnostic procedure.
+The opioid therapy must be provided by individuals specifically trained in the use of anesthetic drugs and the management of the respiratory effects of potent opioids, specifically the establishment and maintenance of a patent airway and assisted ventilation.
+
+## 5.13. Use in Patients With Impaired Hepatic Function
+
+In a pharmacokinetic study with sublingual buprenorphine, buprenorphine plasma levels were found to be higher and the half-life was found to be longer in subjects with moderate and severe hepatic impairment, but not in subjects with mild hepatic impairment.
+The effect of hepatic impairment on the pharmacokinetics of implanted buprenorphine, such as PROBUPHINE, has not been studied.
+
+Because PROBUPHINE cannot be titrated, patients with pre-existing moderate to severe hepatic impairment are not candidates for treatment with PROBUPHINE.
+Patients who develop moderate to severe hepatic impairment while being treated with PROBUPHINE should be monitored for signs and symptoms of toxicity or overdose caused by increased levels of buprenorphine, and patients may require removal of PROBUPHINE implants [see Use in Specific Populations (8.6), Clinical Pharmacology (12)].
+
+## 5.14. Impairment of Ability to Drive and Operate Machinery
+
+PROBUPHINE may impair the mental or physical abilities required for the performance of potentially dangerous tasks such as driving a car or operating machinery, especially for the first 24-48 hours following initial insertion.
+Caution patients about driving or operating hazardous machinery until they are reasonably certain that PROBUPHINE does not adversely affect their ability to engage in such activities.
+
+## 5.15. Orthostatic Hypotension
+
+PROBUPHINE may produce orthostatic hypotension in ambulatory patients.
+
+## 5.16. Elevation of Cerebrospinal Fluid Pressure
+
+Buprenorphine may elevate cerebrospinal fluid pressure and should be used with caution in patients with head injury, intracranial lesions, and other circumstances where cerebrospinal pressure may be increased.
+Buprenorphine can produce miosis and changes in the level of consciousness that may interfere with patient evaluation.
+
+## 5.17. Elevation of Intracholedochal Pressure
+
+Buprenorphine has been shown to increase intracholedochal pressure, as do other opioids, and thus should be administered with caution to patients with dysfunction of the biliary tract.
+
+## 5.18. Effects in Acute Abdominal Conditions
+
+Buprenorphine may obscure the diagnosis or clinical course of patients with acute abdominal conditions.
+
+## 5.19. Infection at Implant Site
+
+Infection may occur at the site of the insertion or removal.
+Excessive palpation shortly after insertion of the implants may increase the chance of infection.
+Improper removal carries risk of implant-site infection.
+
+## 5.20. General Precautions
+
+PROBUPHINE should be administered with caution in debilitated patients and those with myxedema or hypothyroidism; adrenal cortical insufficiency (e.g., Addison's disease); CNS depression or coma; toxic psychoses; prostatic hypertrophy or urethral stricture; acute alcoholism; delirium tremens; or kyphoscoliosis.
+PROBUPHINE should also be administered with caution in patients with a history of keloid formation, connective tissue disease, e.g. scleroderma, or history of recurrent MRSA infections.
