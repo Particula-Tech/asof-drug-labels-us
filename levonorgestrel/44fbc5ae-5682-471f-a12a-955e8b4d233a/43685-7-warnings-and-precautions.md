@@ -52,10 +52,11 @@ The excess risk is highest during the first year a woman ever uses a combined or
 Venous thromboembolism may be fatal.
 The risk of thromboembolic disease due to oral contraceptives is not related to length of use and gradually disappears after pill use is stopped.
 
-A post-marketing study evaluated the risk of venous thromboembolism with levonorgestrel and ethinyl estradiol use in two large US automated healthcare claims databases.
-The study was terminated early due to discontinuation of product marketing.
-At study discontinuation, the incidence rate of venous thromboembolism among levonorgestrel and ethinyl estradiol users (n= 12,281) was 17.6 per 10,000 person-years, compared to 8.8 per 10,000 person-years among the users of cyclic oral contraceptives containing 20 mcg of ethinyl estradiol and a progestogen, and 5.1 per 10,000 person-years among the user of oral contraceptives containing the progestin levonorgestrel and 20 mcg of ethinyl estradiol.
-Though the study suggests an elevated risk of venous thromboembolism with current levonorgestrel and ethinyl estradiol use compared to these comparator cyclic oral hormonal contraceptives, the interpretation of the results is significantly limited due to the concerns over unmeasured and uncontrolled confounding, suitability of the comparator selection, and validity of the venous thromboembolism definition.
+A post-marketing observational study evaluated the risk of venous thromboembolism with levonorgestrel and ethinyl estradiol use in two large US automated healthcare claims databases.
+The study was not completed as planned due to low accrual of levonorgestrel and ethinyl estradiol users in these databases and discontinuation of the product from the market due to low usage.
+At study discontinuation, the crude incidence rate of venous thromboembolism among levonorgestrel and ethinyl estradiol users (n=12,281) was 17.6 per 10,000 person-years, compared to 8.8 per 10,000 person-years among the users of cyclic oral contraceptives containing 20 mcg of ethinyl estradiol and a progestogen, and 5.1 per 10,000 person-years among the users of cyclic oral contraceptives containing the progestin levonorgestrel and 20 mcg of ethinyl estradiol.
+Adjustment for important risk factors or confounders (such as obesity, cardiovascular disease and other diseases) for venous thromboembolism could not be performed due to the small sample size.
+Although the study results suggest an elevated risk of venous thromboembolism with current levonorgestrel and ethinyl estradiol use compared to cyclic oral hormonal contraceptive use, reliable interpretation of the results is significantly limited due to the small sample size and concerns over unmeasured and uncontrolled confounding, as well as questions about the suitability of the comparator selection and the validity of the venous thromboembolism definition.
 
 A two-to-four fold increase in relative risk of postoperative thromboembolic complications has been reported with the use of oral contraceptives.
 The relative risk of venous thrombosis in women who have predisposing conditions is twice that of women without such medical conditions.
