@@ -2,7 +2,7 @@
 
 ZIANA (clindamycin phosphate 1.2% and tretinoin 0.025%) Gel is supplied as follows:
 
-30 gram tube NDC 99207-300-30 60 gram tube NDC 99207-300-60
+1. 30 gram tube NDC 99207-300-30 60 gram tube NDC 99207-300-60
 
 Storage and Handling
 
