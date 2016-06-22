@@ -17,7 +17,7 @@ The most common reactions reported with APRISO (≥3%) are shown in Table 1 belo
 
 Table 1: Treatment-Emergent Adverse Reactions during Clinical Trials Occurring in at Least 3% of APRISO-Treated Patients and at a Greater Rate than with Placebo
 
-| MedDRA Preferred Term | APRISO 1.5g/day N=367 | Placebo N=185 |
+| MedDRA Preferred Term | APRISO 1.5 g/day N=367 | Placebo N=185 |
 | --- | --- | --- |
 | Headache | 11% | 8% |
 | Diarrhea | 8% | 7% |

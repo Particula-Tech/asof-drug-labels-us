@@ -28,5 +28,4 @@ Reports from uncontrolled clinical studies and postmarketing reporting systems s
 Caution should be taken to closely monitor blood cell counts during mesalamine therapy.
 
 Mesalamine is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken when prescribing this drug therapy.
-[see Warning and Precautions (5.1)].
+Because elderly patients are more likely to have decreased renal function, care should be taken when prescribing this drug therapy [see Warnings and Precautions (5.1)].

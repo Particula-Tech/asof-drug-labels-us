@@ -33,7 +33,7 @@ Table 2: Single Dose and Multiple Dose Mean (±SD) Plasma Pharmacokinetic Parame
 | Cmax (μg/mL) | 2.8 ± 0.8 | 3.4 ± 0.9 |
 | Tmax (h)a | 4 (4, 12) | 5 (2, 8) |
 | t½ (h)b | 12 ± 11 | 14 ± 10 |
-| a Median (range); b Harmonic mean (pseudo SD); c after 7days of treatment |  |  |
+| a Median (range); b Harmonic mean (pseudo SD); c after 7 days of treatment |  |  |
 
 In a separate study (n = 30), it was observed that under fasting conditions about 32% ± 11% (mean ± SD) of the administered dose was systemically absorbed based on the combined cumulative urinary excretion of 5-ASA and N-Ac-5-ASA over 96 hours post-dose.
 

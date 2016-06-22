@@ -1,28 +1,27 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-## 17.1 Patients with Phenylketonuria
+Patients with Phenylketonuria
 
-- Inform patients with phenylketonuria (PKU) or their caregivers that each APRISO capsule contains aspartame equivalent to 0.56 mg of phenylalanine, so that the recommended adult dosing provides an equivalent of 2.24 mg of phenylalanine per day.
+- •Inform patients with phenylketonuria (PKU) or their caregivers that each APRISO capsule contains aspartame equivalent to 0.56 mg of phenylalanine, so that the recommended adult dosing provides an equivalent of 2.24 mg of phenylalanine per day.
 
-## 17.2 General Counseling Information
+General Counseling Information
 
-- Instruct patients not to take APRISO capsules with antacids, because it could affect the way APRISO dissolves.
-- Instruct patients to contact a health care provider if they experience a worsening of ulcerative colitis symptoms, because it could be due to a reaction to APRISO.
-
-Manufactured by:
-
-Catalent Pharma Solutions
+- •Instruct patients not to take APRISO capsules with antacids, because it could affect the way APRISO dissolves.
+- •Instruct patients to contact a health care provider if they experience a worsening of ulcerative colitis symptoms, because it could be due to a reaction to APRISO.
 
 Manufactured for:
 
-Salix Pharmaceuticals, Inc.
+Salix Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 08807 USA
 
-Raleigh, NC 27615
+Rev.
+06/2016
 
-* APRISOTM is a trademark of Salix Pharmaceuticals, Inc.
+9510500
 
-© 2008 Salix Pharmaceuticals, Inc.
+Apriso is a trademark of Valeant Pharmaceuticals International, Inc, or its affiliates.
 
-Product protected by U.S. Patent No. 6,551,620 and U.S. Patent No. 7,547,451
+© Valeant Pharmaceuticals North America LLC
 
-VENART-113-2
+Product protected by U.S. Patent Nos. 6,551,620; 7,547,451; 8,337,886; 8,496,965; 8,865,688; 8,911,778; 8,940,328; and 8,956,647
+
+Please see www.salix.com for patent information.

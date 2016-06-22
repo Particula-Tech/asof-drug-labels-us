@@ -7,7 +7,7 @@ Renal impairment, including minimal change nephropathy, acute and chronic inters
 It is recommended that patients have an evaluation of renal function prior to initiation of APRISO therapy and periodically while on therapy.
 Exercise caution when using APRISO in patients with known renal dysfunction or a history of renal disease.
 
-In animal studies, the kidney was the principal organ for toxicity [See Nonclinical Toxicology (13.2)]
+In animal studies, the kidney was the principal organ for toxicity [see Nonclinical Toxicology (13.2)].
 
 ## 5.2 Mesalamine-Induced Acute Intolerance Syndrome
 
