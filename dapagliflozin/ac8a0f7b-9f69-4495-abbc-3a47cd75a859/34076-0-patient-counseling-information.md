@@ -10,11 +10,11 @@ Inform patients of the potential risks and benefits of XIGDUO XR and of alternat
 Also inform patients about the importance of adherence to dietary instructions, regular physical activity, periodic blood glucose monitoring and HbA1c testing, recognition and management of hypoglycemia and hyperglycemia, and assessment of diabetes complications.
 Advise patients to seek medical advice promptly during periods of stress such as fever, trauma, infection, or surgery, as medication requirements may change.
 
-Counsel patients against excessive alcohol intake while receiving XIGDUO XR [see Warnings and Precautions (5.8)].
+Counsel patients against excessive alcohol intake while receiving XIGDUO XR [seeWarnings and Precautions (5.1)].
 
-Inform patients about the importance of regular testing of renal function and hematological parameters when receiving treatment with XIGDUO XR [see Contraindications (4) and Warnings and Precautions (5.3)].
+Inform patients about the importance of regular testing of renal function and hematological parameters when receiving treatment with XIGDUO XR [seeContraindications (4) and Warnings and Precautions (5.1)].
 
-Inform patients that the incidence of hypoglycemia may be increased when XIGDUO XR is added to an insulin secretagogue (e.g., sulfonylurea) or insulin [see Warnings and Precautions (5.11)].
+Inform patients that the incidence of hypoglycemia may be increased when XIGDUO XR is added to an insulin secretagogue (e.g., sulfonylurea) or insulin [seeWarnings and Precautions (5.6)].
 
 Instruct patient to immediately inform her healthcare provider if she is pregnant or plans to become pregnant.
 Based on animal data, XIGDUO XR may cause fetal harm in the second and third trimesters of pregnancy.
@@ -39,32 +39,36 @@ Although gastrointestinal symptoms that occur after stabilization are unlikely t
 
 Hypotension
 
-Inform patients that symptomatic hypotension may occur with XIGDUO XR and advise them to contact their healthcare provider if they experience such symptoms [see Warnings and Precautions (5.4)].
+Inform patients that symptomatic hypotension may occur with XIGDUO XR and advise them to contact their healthcare provider if they experience such symptoms [seeWarnings and Precautions (5.2)].
 Inform patients that dehydration may increase the risk for hypotension, and to have adequate fluid intake.
 
 Ketoacidosis
 
 Inform patients that ketoacidosis has been reported during use of dapagliflozin.
 Instruct patients to check ketones (when possible) if symptoms of ketoacidosis occur even if blood glucose is not elevated.
-If symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness, and labored breathing) occur, instruct patients to discontinue XIGDUO XR and seek medical advice immediately.
-[see Warnings and Precautions (5.5)].
+If symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness, and labored breathing) occur, instruct patients to discontinue XIGDUO XR and seek medical advice immediately [see Warnings and Precautions (5.3)].
+
+Acute Kidney Injury
+
+Inform patients that acute kidney injury has been reported during use of dapagliflozin.
+Advise patients to seek medical advice immediately if they have reduced oral intake (due to acute illness or fasting) or increased fluid losses (due to vomiting, diarrhea, or excessive heat exposure), as it may be appropriate to temporarily discontinue XIGDUO XR use in those settings [see Warnings and Precautions (5.4)].
 
 Serious Urinary Tract Infections
 
 Inform patients of the potential for urinary tract infections, which may be serious.
 Provide them with information on the symptoms of urinary tract infections.
-Advise them to seek medical advice promptly if such symptoms occur [see Warnings and Precautions (5.6)].
+Advise them to seek medical advice promptly if such symptoms occur [seeWarnings and Precautions (5.5)].
 
 Genital Mycotic Infections in Females (e.g., Vulvovaginitis)
 
 Inform female patients that vaginal yeast infections may occur and provide them with information on the signs and symptoms of vaginal yeast infections.
-Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.15)].
+Advise them of treatment options and when to seek medical advice [seeWarnings and Precautions (5.8)].
 
 Genital Mycotic Infections in Males (e.g., Balanitis)
 
 Inform male patients that yeast infections of the penis (e.g., balanitis or balanoposthitis) may occur, especially in patients with prior history.
 Provide them with information on the signs and symptoms of balanitis and balanoposthitis (rash or redness of the glans or foreskin of the penis).
-Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.15)].
+Advise them of treatment options and when to seek medical advice [seeWarnings and Precautions (5.8)].
 
 Hypersensitivity Reactions
 
@@ -88,5 +92,3 @@ Distributed by:
 AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
-
-1. 12/2015

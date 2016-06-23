@@ -52,19 +52,20 @@ Safety and effectiveness of XIGDUO XR in pediatric patients under 18 years of ag
 XIGDUO XR
 
 No XIGDUO XR dosage change is recommended based on age.
+More frequent assessment of renal function is recommended in elderly patients.
 
 Dapagliflozin
 
 A total of 1424 (24%) of the 5936 dapagliflozin-treated patients were 65 years and over and 207 (3.5%) patients were 75 years and older in a pool of 21 double-blind, controlled, clinical safety and efficacy studies of dapagliflozin.
 After controlling for level of renal function (eGFR), efficacy was similar for patients under age 65 years and those 65 years and older.
-In patients ≥65 years of age, a higher proportion of patients treated with dapagliflozin had adverse reactions related to volume depletion and renal impairment or failure compared to patients treated with placebo [see Warnings and Precautions (5.4) and Adverse Reactions (6.1)].
+In patients ≥65 years of age, a higher proportion of patients treated with dapagliflozin had adverse reactions related to volume depletion and renal impairment or failure compared to patients treated with placebo [seeWarnings and Precautions (5.3)andAdverse Reactions (6.1)].
 
 Metformin hydrochloride
 
 Controlled clinical studies of metformin did not include sufficient numbers of elderly patients to determine whether they respond differently than younger patients, although other reported clinical experience has not identified differences in responses between the elderly and young patients.
-Metformin is known to be substantially excreted by the kidney and because the risk of lactic acidosis with metformin is greater in patients with moderately to severely impaired renal function, XIGDUO XR should only be used in patients with normal or mildly impaired renal function.
-The initial and maintenance dosing of metformin should be conservative in patients with advanced age due to the potential for decreased renal function in this population.
-Any dose adjustment should be based on a careful assessment of renal function [see Contraindications (4), Warnings and Precautions (5.1, 5.3), and Clinical Pharmacology (12.3)].
+Metformin is known to be substantially excreted by the kidney and because the risk of lactic acidosis with metformin is greater in patients with moderately to severely impaired renal function.
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy and the higher risk of lactic acidosis.
+Assess renal function more frequently in elderly patients [see Warnings and Precautions (5.1), andClinical Pharmacology (12.3)].
 
 ## 8.6 Patients with Mild Renal Impairment (eGFR ≥60 to <90 mL/min/1.73 m2)
 
@@ -72,3 +73,8 @@ Dapagliflozin
 
 The pool of 21 double-blind, active- and placebo-controlled clinical safety and efficacy studies (dapagliflozin as monotherapy or in combination with other antidiabetic therapies) included 53% (4906/9339) of patients with mild renal impairment.
 The safety profile in patients with mild renal impairment is similar to that in the overall population.
+
+## 8.7 Hepatic Impairment
+
+Use of metformin in patients with hepatic impairment has been associated with some cases of lactic acidosis.
+XIGDUO XR is not recommended in patients with hepatic impairment [see Warnings and Precautions (5.1)].

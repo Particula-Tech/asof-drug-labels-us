@@ -16,7 +16,7 @@ Metformin hydrochloride
 
 Metformin improves glucose tolerance in patients with type 2 diabetes, lowering both basal and postprandial plasma glucose.
 Metformin decreases hepatic glucose production, decreases intestinal absorption of glucose, and improves insulin sensitivity by increasing peripheral glucose uptake and utilization.
-Metformin does not produce hypoglycemia in either patients with type 2 diabetes or in healthy subjects, except in unusual circumstances [see Warnings and Precautions (5.10)], and does not cause hyperinsulinemia.
+Metformin does not produce hypoglycemia in either patients with type 2 diabetes or in healthy subjects, except in unusual circumstances [seeWarnings and Precautions (5.6)], and does not cause hyperinsulinemia.
 With metformin therapy, insulin secretion remains unchanged while fasting insulin levels and day-long plasma insulin response may actually decrease.
 
 ## 12.2 Pharmacodynamics
@@ -28,7 +28,7 @@ Dapagliflozin
 Increases in the amount of glucose excreted in the urine were observed in healthy subjects and in patients with type 2 diabetes mellitus following the administration of dapagliflozin (see Figure 1).
 Dapagliflozin doses of 5 or 10 mg per day in patients with type 2 diabetes mellitus for 12 weeks resulted in excretion of approximately 70 grams of glucose in the urine per day.
 A near maximum glucose excretion was observed at the dapagliflozin daily dose of 20 mg.
-This urinary glucose excretion with dapagliflozin also results in increases in urinary volume [see Adverse Reactions (6.1)].
+This urinary glucose excretion with dapagliflozin also results in increases in urinary volume [seeAdverse Reactions (6.1)].
 
 ### Cardiac Electrophysiology
 
@@ -108,29 +108,18 @@ In blood, the elimination half-life is approximately 17.6 hours, suggesting that
 
 #### Renal Impairment
 
-XIGDUO XR
-
-Use of metformin in patients with renal impairment increases the risk for lactic acidosis.
-Because XIGDUO XR contains metformin, XIGDUO XR is contraindicated in patients with moderate to severe renal impairment [see Contraindications (4) and Warnings and Precautions (5.3)].
-No dose adjustment of XIGDUO XR is required in patients with mild renal impairment [see Use in Specific Populations (8.6)].
-
 Dapagliflozin
 
 At steady-state (20 mg once-daily dapagliflozin for 7 days), patients with type 2 diabetes with mild, moderate, or severe renal impairment (as determined by eGFR) had geometric mean systemic exposures of dapagliflozin that were 45%, 2.04-fold, and 3.03-fold higher, respectively, as compared to patients with type 2 diabetes with normal renal function.
 Higher systemic exposure of dapagliflozin in patients with type 2 diabetes mellitus with renal impairment did not result in a correspondingly higher 24-hour glucose excretion.
 The steady-state 24-hour urinary glucose excretion in patients with type 2 diabetes and mild, moderate, and severe renal impairment was 42%, 80%, and 90% lower, respectively, than in patients with type 2 diabetes with normal renal function.
-The impact of hemodialysis on dapagliflozin exposure is not known [see Dosage and Administration (2.2), Warnings and Precautions (5.3), and Use in Specific Populations (8.6)].
+The impact of hemodialysis on dapagliflozin exposure is not known [see Dosage and Administration (2.2), Warnings and Precautions (5.1), and Use in Specific Populations (8.6)].
 
 Metformin hydrochloride
 
-In patients with decreased renal function (based on measured creatinine clearance), the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased in proportion to the decrease in creatinine clearance.
+In patients with decreased renal function (based on measured eGFR), the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased in proportion to the decrease in eGFR [see Contraindications (4) and Warnings and Precautions (5.1)].
 
 #### Hepatic Impairment
-
-XIGDUO XR
-
-Use of metformin in patients with hepatic impairment has been associated with some cases of lactic acidosis.
-Because XIGDUO XR contains metformin, XIGDUO XR should generally be avoided in patients with hepatic impairment [see Warnings and Precautions (5.7)].
 
 Dapagliflozin
 
@@ -152,8 +141,6 @@ Metformin hydrochloride
 
 Limited data from controlled pharmacokinetic studies of metformin in healthy elderly subjects suggests that total plasma clearance of metformin is decreased, the half-life is prolonged, and Cmax is increased, compared to healthy young subjects.
 From these data, it appears that the change in metformin pharmacokinetics with aging is primarily accounted for by a change in renal function.
-
-XIGDUO XR should not be initiated in patients of any age unless measurement of creatinine clearance demonstrates that renal function is only normal or mildly impaired [see Warnings and Precautions (5.1, 5.3) and Use in Specific Populations (8.6)].
 
 #### Pediatric
 
@@ -215,7 +202,7 @@ Table 7: Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
 | Nifedipine (10 mg) | 850 mg | ↑9% | ↑20% |
 | Propranolol (40 mg) | 850 mg | ↓10% | ↓6% |
 | Ibuprofen (400 mg) | 850 mg | ↑5% | ↑7% |
-| Cationic drugs eliminated by renal tubular secretion may reduce metformin elimination: use with caution [see Warnings and Precautions (5.10)and Drug Interactions (7.3)]. |  |  |  |
+| Drugs eliminated by renal tubular secretion may increase the accumulation of metformin [see Drug Interactions (7.4)]. |  |  |  |
 | Cimetidine (400 mg) | 850 mg | ↑40% | ↑60% |
 
 #### Effects of Metformin on Other Drugs

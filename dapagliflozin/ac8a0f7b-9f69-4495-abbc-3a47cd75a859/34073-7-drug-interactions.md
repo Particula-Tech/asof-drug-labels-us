@@ -14,15 +14,23 @@ Dapagliflozin
 Monitoring glycemic control with 1,5-AG assay is not recommended as measurements of 1,5-AG are unreliable in assessing glycemic control in patients taking SGLT2 inhibitors.
 Use alternative methods to monitor glycemic control.
 
-## 7.3 Cationic Drugs
+## 7.3 Carbonic Anhydrase Inhibitors
 
-Metformin hydrochloride
+Topiramate or other carbonic anhydrase inhibitors (e.g., zonisamide, acetazolamide or dichlorphenamide) frequently causes a decrease in serum bicarbonate and induce non-anion gap, hyperchloremic metabolic acidosis.
+Concomitant use of these drugs with XIGDUO XR may increase the risk for lactic acidosis.
+Consider more frequent monitoring of these patients.
 
-Cationic drugs (e.g., amiloride, cimetidine, digoxin, morphine, procainamide, quinidine, quinine, ranitidine, triamterene, trimethoprim, or vancomycin) that are eliminated by renal tubular secretion theoretically have the potential for interaction with metformin by competing for common renal tubular transport systems.
-A 40% increase in exposure (AUC) of metformin when coadministered with cimetidine was observed in normal healthy volunteers.
-Although such interactions remain theoretical (except for cimetidine), careful patient monitoring and dose adjustment of XIGDUO XR and/or the interfering drug is recommended in patients who are taking cationic medications that are excreted via the proximal renal tubular secretory system.
+## 7.4 Drugs that Reduce Metformin Clearance
 
-## 7.4 Use with Other Drugs
+Drugs that are eliminated by renal tubular secretion (e.g., cationic drugs such as cimetidine) have the potential for interaction with metformin by competing for common renal tubular transport systems, and may increase the accumulation of metformin and risk for lactic acidosis [see Clinical Pharmacology (12.3)].
+Consider more frequent monitoring of these patients.
+
+## 7.5 Alcohol
+
+Alcohol is known to potentiate the effect of metformin on lactate metabolism.
+Warn patients against excessive alcohol intake while receiving XIGDUO XR.
+
+## 7.6 Use with Other Drugs
 
 Metformin hydrochloride
 

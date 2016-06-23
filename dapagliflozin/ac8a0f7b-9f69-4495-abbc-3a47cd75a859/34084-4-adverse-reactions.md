@@ -2,15 +2,16 @@
 
 The following important adverse reactions are described below and elsewhere in the labeling:
 
-- •Use in Patients with Renal Impairment [see Warnings and Precautions (5.3)]
-- •Hypotension [see Warnings and Precautions (5.4)]
-- •Ketoacidosis [see Warnings and Precautions (5.5)]
-- •Urosepsis and Pyelonephritis [see Warnings and Precautions (5.6)]
-- •Use with Medications Known to Cause Hypoglycemia [see Warnings and Precautions (5.11)]
-- •Vitamin B12 Concentrations [see Warnings and Precautions (5.14)]
-- •Genital Mycotic Infections [see Warnings and Precautions (5.15)]
-- •Increases in Low-Density Lipoprotein Cholesterol (LDL-C) [see Warnings and Precautions (5.16)]
-- •Bladder Cancer [see Warnings and Precautions (5.17)]
+1. • Lactic Acidosis [see Boxed Warning and Warnings and Precautions (5.1)]
+2. • Hypotension [see Warnings and Precautions (5.2)]
+3. • Ketoacidosis [see Warnings and Precautions (5.3)]
+4. • Acute Kidney Injury and Impairment in Renal Function [see Warnings and Precautions (5.4)]
+5. • Urosepsis and Pyelonephritis [see Warnings and Precautions (5.5)]
+6. • Use with Medications Known to Cause Hypoglycemia [see Warnings and Precautions (5.6)]
+7. • Vitamin B12 Concentrations [see Warnings and Precautions (5.7)]
+8. • Genital Mycotic Infections [see Warnings and Precautions (5.8)]
+9. • Increases in Low-Density Lipoprotein Cholesterol (LDL-C) [see Warnings and Precautions (5.9)]
+10. • Bladder Cancer [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -111,7 +112,7 @@ Baseline renal function was normal or mildly impaired in 88% of patients and mod
 ### Volume Depletion
 
 Dapagliflozin causes an osmotic diuresis, which may lead to reductions in intravascular volume.
-Adverse reactions related to volume depletion (including reports of dehydration, hypovolemia, orthostatic hypotension, or hypotension) are shown in Table 3 for the 12-study and 13-study, short-term, placebo-controlled pools [see Warnings and Precautions (5.4)].
+Adverse reactions related to volume depletion (including reports of dehydration, hypovolemia, orthostatic hypotension, or hypotension) are shown in Table 3 for the 12-study and 13-study, short-term, placebo-controlled pools [see Warnings and Precautions (5.2)].
 
 Table 3: Adverse Reactions of Volume DepletionVolume depletion includes reports of dehydration, hypovolemia, orthostatic hypotension, or hypotension. in Clinical Studies with Dapagliflozin
 
@@ -174,7 +175,7 @@ There was no apparent pattern with respect to the anatomic site of fracture.
 ### Hypoglycemia
 
 The frequency of hypoglycemia by study [see Clinical Studies (14)] is shown in Table 6.
-Hypoglycemia was more frequent when dapagliflozin was added to sulfonylurea or insulin [see Warnings and Precautions (5.11)].
+Hypoglycemia was more frequent when dapagliflozin was added to sulfonylurea or insulin [see Warnings and Precautions (5.6)].
 
 Table 6: Incidence of MajorMajor episodes of hypoglycemia were defined as symptomatic episodes requiring external (third party) assistance due to severe impairment in consciousness or behavior with a capillary or plasma glucose value <54 mg/dL and prompt recovery after glucose or glucagon administration. and MinorMinor episodes of hypoglycemia were defined as either a symptomatic episode with a capillary or plasma glucose measurement <63 mg/dL regardless of need for external assistance, or an asymptomatic capillary or plasma glucose measurement <63 mg/dL that does not qualify as a major episode.
 Hypoglycemia in Placebo-Controlled Studies
@@ -238,13 +239,13 @@ Mean percent change from baseline at Week 24 were 0.0% versus 2.5% for total cho
 Metformin hydrochloride
 
 Metformin may lower serum vitamin B12 concentrations.
-Measurement of hematologic parameters on an annual basis is advised in patients on XIGDUO XR and any apparent abnormalities should be appropriately investigated and managed [see Warnings and Precautions (5.14)].
+Measurement of hematologic parameters on an annual basis is advised in patients on XIGDUO XR and any apparent abnormalities should be appropriately investigated and managed [seeWarnings and Precautions (5.7)].
 
 ## 6.2 Postmarketing Experience
 
 Additional adverse reactions have been identified during postapproval use of dapagliflozin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-• Ketoacidosis [see Warnings and Precautions (5.5)]
-
-• Urosepsis and Pyelonephritis [see Warnings and Precautions (5.6)]
+- •Ketoacidosis [see Warnings and Precautions (5.3)]
+- •Acute Kidney Injury and Impairment in Renal Function [see Warnings and Precautions (5.4)]
+- •Urosepsis and Pyelonephritis [see Warnings and Precautions (5.5)]
