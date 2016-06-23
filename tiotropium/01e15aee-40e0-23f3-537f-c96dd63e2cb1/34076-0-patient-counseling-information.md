@@ -53,8 +53,8 @@ If not used for more than 21 days, patients are to actuate the inhaler until an 
 
 Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
-SPIRIVA®, HANDIHALER®, STRIVERDI®, STIOLTO™ and RESPIMAT® are registered trademarks and are used under license from Boehringer Ingelheim International GmbH
+STIOLTO® and RESPIMAT® are registered trademarks and are used under license from Boehringer Ingelheim International GmbH
 
 Copyright © 2016 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-IT6053FC232016 305630-03
+IT6053GF142016 305630-04

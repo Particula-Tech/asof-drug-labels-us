@@ -50,4 +50,4 @@ A study in subjects with severe hepatic impairment was not performed [see Clinic
 ## 8.7 Renal Impairment
 
 No dose adjustment is required for patients with renal impairment.
-However, patients with moderate to severe renal impairment (creatinine clearance of ≤60 mL/min) treated with STIOLTO RESPIMAT should be monitored closely for anticholinergic side effects [see Dosage and Administration (2), Warnings and Precautions (5.9), and Clinical Pharmacology (12.3)].
+However, patients with moderate to severe renal impairment (creatinine clearance of <60 mL/min) treated with STIOLTO RESPIMAT should be monitored closely for anticholinergic side effects [see Dosage and Administration (2), Warnings and Precautions (5.9), and Clinical Pharmacology (12.3)].

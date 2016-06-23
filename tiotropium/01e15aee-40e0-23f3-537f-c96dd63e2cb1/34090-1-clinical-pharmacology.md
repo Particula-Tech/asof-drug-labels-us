@@ -130,8 +130,8 @@ Specific Populations Olodaterol A pharmacokinetic meta-analysis showed that no d
 Geriatric Patients Tiotropium As expected for all predominantly renally excreted drugs, advancing age was associated with a decrease of tiotropium renal clearance (347 mL/min in COPD patients <65 years to 275 mL/min in COPD patients ≥65 years).
 This did not result in a corresponding increase in AUC0-6,ss and Cmax,ss values.
 
-Renal Impairment Tiotropium Following inhaled administration of therapeutic doses of tiotropium to steady-state to patients with COPD, mild renal impairment (creatinine clearance 60-90 mL/min) resulted in 23% higher AUC0-6,ss and 17% higher Cmax,ss values.
-Moderate renal impairment (creatinine clearance 30-60 mL/min) resulted in 57% higher AUC0-6,ss and 31% higher Cmax,ss values compared to COPD patients with normal renal function (creatinine clearance >90 mL/min).
+Renal Impairment Tiotropium Following inhaled administration of therapeutic doses of tiotropium to steady-state to patients with COPD, mild renal impairment (creatinine clearance 60 - <90 mL/min) resulted in 23% higher AUC0-6,ss and 17% higher Cmax,ss values.
+Moderate renal impairment (creatinine clearance 30 - <60 mL/min) resulted in 57% higher AUC0-6,ss and 31% higher Cmax,ss values compared to COPD patients with normal renal function (creatinine clearance >90 mL/min).
 In COPD patients with severe renal impairment (CLCR <30 mL/min), a single intravenous administration of tiotropium bromide resulted in 94% higher AUC0-4 and 52% higher Cmax compared to COPD patients with normal renal function.
 
 Olodaterol Olodaterol levels were increased by approximately 40% in subjects with severe renal impairment.

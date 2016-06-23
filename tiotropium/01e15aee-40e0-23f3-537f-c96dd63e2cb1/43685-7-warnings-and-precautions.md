@@ -72,7 +72,7 @@ Instruct patients to consult a physician immediately should any of these signs o
 
 ## 5.10 Renal Impairment
 
-Because tiotropium is a predominantly renally excreted drug, patients with moderate to severe renal impairment (creatinine clearance of ≤60 mL/min) treated with STIOLTO RESPIMAT should be monitored closely for anticholinergic side effects [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
+Because tiotropium is a predominantly renally excreted drug, patients with moderate to severe renal impairment (creatinine clearance of <60 mL/min) treated with STIOLTO RESPIMAT should be monitored closely for anticholinergic side effects [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
 
 ## 5.11 Hypokalemia and Hyperglycemia
 

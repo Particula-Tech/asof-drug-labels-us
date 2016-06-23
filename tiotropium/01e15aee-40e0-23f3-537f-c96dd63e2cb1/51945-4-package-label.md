@@ -17,13 +17,3 @@ Cartridge:
 Inhaler - Front
 
 Inhaler - Back
-
-Stiolto Respimat Institutional Pack Packaging NDC 0597-0155-31
-
-Carton:
-
-Cartridge:
-
-Inhaler - Front
-
-Inhaler - Back

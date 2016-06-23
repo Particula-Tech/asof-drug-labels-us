@@ -1,4 +1,4 @@
-Medication Guide STIOLTO™ RESPIMAT® (sti-OL-to– RES peh mat) (tiotropium bromide and olodaterol) Inhalation Spray
+Medication Guide STIOLTO® RESPIMAT® (sti-OL-to– RES peh mat) (tiotropium bromide and olodaterol) Inhalation Spray
 
 Read the Medication Guide that comes with STIOLTO RESPIMAT before you start using it and each time you get a refill.
 There may be new information.
@@ -125,7 +125,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store STIOLTO RESPIMAT?
 
-- Store STIOLTO RESPIMAT at room temperature between 68°F to 77°F (20°C to 25°C).
+- Store STIOLTO RESPIMAT at room temperature 68°F to 77°F (20°C to 25°C).
 - Do not freeze your STIOLTO cartridge or RESPIMAT inhaler.
 - Keep your STIOLTO RESPIMAT and all medicines out of the reach of children.
 

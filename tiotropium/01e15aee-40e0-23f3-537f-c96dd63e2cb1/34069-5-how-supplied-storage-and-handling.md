@@ -13,11 +13,10 @@ The light green-colored cap and the written information on the label of the gray
 STIOLTO RESPIMAT Inhalation Spray is available as:
 
 - STIOLTO RESPIMAT Inhalation Spray: 60 metered actuations (NDC 0597-0155-61)
-- STIOLTO RESPIMAT Inhalation Spray: 28 metered actuations (NDC 0597-0155-31) (institutional pack)
 
-The STIOLTO RESPIMAT cartridge has a net fill weight of at least 4 grams and when used with the STIOLTO RESPIMAT inhaler, is designed to deliver the labeled number of metered actuations (60 or 28) after preparation for use; which is respectively, the equivalent of 30 or 14 days of medication when used according to the Instructions for Use (one dose equals two actuations).
+The STIOLTO RESPIMAT cartridge has a net fill weight of at least 4 grams and when used with the STIOLTO RESPIMAT inhaler, is designed to deliver the labeled number of metered actuations after preparation for use.
 
-When the labeled number of actuations (60 or 28) has been dispensed from the inhaler, the RESPIMAT locking mechanism will be engaged and no more actuations can be dispensed.
+When the labeled number of actuations has been dispensed from the inhaler, the RESPIMAT locking mechanism will be engaged and no more actuations can be dispensed.
 
 After assembly, the STIOLTO RESPIMAT inhaler should be discarded at the latest 3 months after first use or when the locking mechanism is engaged, whichever comes first.
 
