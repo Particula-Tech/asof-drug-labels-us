@@ -1,33 +1,59 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Instructions for Use).
+Advise the patient to read the FDA-approved patient labeling (Instructions for Use)
 
-Paradoxical Bronchospasm Inform patients that COMBIVENT RESPIMAT can produce paradoxical bronchospasm that can be life-threatening.
+Paradoxical Bronchospasm
+
+Inform patients that COMBIVENT RESPIMAT can produce paradoxical bronchospasm that can be life-threatening.
 If paradoxical bronchospasm occurs, patients should discontinue using COMBIVENT RESPIMAT.
 
-Ocular Effects Caution patients to avoid spraying the aerosol into their eyes and be advised that this may result in precipitation or worsening of narrow-angle glaucoma, mydriasis, increased intraocular pressure, acute eye pain or discomfort, temporary blurring of vision, visual halos or colored images in association with red eyes from conjunctival and corneal congestion.
+Ocular Effects
+
+Caution patients to avoid spraying the aerosol into their eyes and be advised that this may result in precipitation or worsening of narrow‑angle glaucoma, mydriasis, increased intraocular pressure, acute eye pain or discomfort, temporary blurring of vision, visual halos or colored images in association with red eyes from conjunctival and corneal congestion.
 Patients should also be advised that should any combination of these symptoms develop, they should consult their physician immediately.
 
 Since dizziness, accommodation disorder, mydriasis, and blurred vision may occur with use of COMBIVENT RESPIMAT, patients should be cautioned about engaging in activities requiring balance and visual acuity such as driving a car or operating appliances or machinery.
 
-Urinary Retention Inform patients that COMBIVENT RESPIMAT may cause urinary retention and should be advised to consult their physician if they experience difficulty with urination.
+Urinary Retention
 
-Adverse Effects Associated with Beta2-agonists Inform patients of adverse effects associated with beta2-agonists, such as palpitations, chest pain, rapid heart rate, tremor, or nervousness.
+Inform patients that COMBIVENT RESPIMAT may cause urinary retention and should be advised to consult their physician if they experience difficulty with urination.
 
-Frequency of Use The action of COMBIVENT RESPIMAT should last 4 to 5 hours or longer.
+Adverse Effects Associated with Beta2-agonists
+
+Inform patients of adverse effects associated with beta2-agonists, such as palpitations, chest pain, rapid heart rate, tremor, or nervousness.
+
+Frequency of Use
+
+The action of COMBIVENT RESPIMAT should last 4 to 5 hours or longer.
 COMBIVENT RESPIMAT should not be used more frequently than recommended.
 Safety and efficacy of additional doses of COMBIVENT RESPIMAT beyond six inhalations in 24 hours have not been studied.
 Patients should be told not to increase the dose or frequency of COMBIVENT RESPIMAT without consulting a physician.
 Patients should be instructed that if they find that treatment with COMBIVENT RESPIMAT becomes less effective for symptomatic relief, their symptoms become worse, and/or they need to use the product more frequently than usual, medical attention should be sought immediately.
 
-Concomitant Drug Use Remind patients that while taking COMBIVENT RESPIMAT, other inhaled drugs should be taken only as directed by a physician.
+Concomitant Drug Use
 
-Pregnancy Patients who are pregnant or nursing should contact their physician about the use of COMBIVENT RESPIMAT.
+Remind patients that while taking COMBIVENT RESPIMAT, other inhaled drugs should be taken only as directed by a physician.
 
-Preparation for Use and Priming Instruct patients that priming COMBIVENT RESPIMAT is essential to ensure appropriate content of the medication in each actuation.
+Pregnancy
+
+Patients who are pregnant or nursing should contact their physician about the use of COMBIVENT RESPIMAT.
+
+Preparation for Use and Priming
+
+Instruct patients that priming COMBIVENT RESPIMAT is essential to ensure appropriate content of the medication in each actuation.
 
 When using the unit for the first time, the COMBIVENT RESPIMAT cartridge is inserted into the COMBIVENT RESPIMAT inhaler and the unit is primed.
 COMBIVENT RESPIMAT patients are to actuate the inhaler toward the ground until an aerosol cloud is visible and then repeat the process three more times.
 The unit is then considered primed and ready for use.
 If not used for more than 3 days, patients are to actuate the inhaler once to prepare the inhaler for use.
 If not used for more than 21 days, patients are to actuate the inhaler until an aerosol cloud is visible and then repeat the process three more times to prepare the inhaler for use.
+
+Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
+
+Address medical inquiries to: (800) 542-6257 or 800 459-9906 TTY.
+
+RESPIMAT® is a registered trademark of and used under license from Boehringer Ingelheim International GmbH COMBIVENT® is a registered trademark of Boehringer Ingelheim Pharmaceuticals, Inc.
+
+Copyright © 2016 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+
+OT24008IF132016 304000-04

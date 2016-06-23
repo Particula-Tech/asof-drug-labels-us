@@ -6,14 +6,6 @@ Inhaler Front
 
 Inhaler Back
 
-COMBIVENT RESPIMAT (ipratropium bromide and albuterol) Inhalation Spray NDC: 0597-0024-58 Institutional Pack Carton Label
-
-Cartridge Label
-
-Inhaler Front
-
-Inhaler Back
-
 COMBIVENT RESPIMAT (ipratropium bromide and albuterol) Inhalation Spray NDC:0597-0024-59 Professional Sample Carton Label
 
 Cartridge Label

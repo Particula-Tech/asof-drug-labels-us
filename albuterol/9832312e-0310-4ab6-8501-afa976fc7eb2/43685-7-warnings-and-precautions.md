@@ -7,10 +7,10 @@ If it occurs, therapy with COMBIVENT RESPIMAT should be discontinued immediately
 
 ## 5.2 Cardiovascular Effect
 
-The albuterol sulfate contained in COMBIVENT RESPIMAT, like other beta-adrenergic agonists, can produce a clinically significant cardiovascular effect in some patients, as measured by pulse rate, blood pressure, and/or symptoms.
+The albuterol sulfate contained in COMBIVENT RESPIMAT, like other beta‑adrenergic agonists, can produce a clinically significant cardiovascular effect in some patients, as measured by pulse rate, blood pressure, and/or symptoms.
 If these symptoms occur, COMBIVENT RESPIMAT may need to be discontinued.
 There is some evidence from post-marketing data and published literature of rare occurrences of myocardial ischemia associated with albuterol.
-In addition, beta-adrenergic agonists have been reported to produce electrocardiogram (ECG) changes, such as flattening of the T wave, prolongation of the QTc interval, and ST segment depression.
+In addition, beta‑adrenergic agonists have been reported to produce electrocardiogram (ECG) changes, such as flattening of the T wave, prolongation of the QTc interval, and ST segment depression.
 Therefore, COMBIVENT RESPIMAT should be used with caution in patients with cardiovascular disorders; especially coronary insufficiency, cardiac arrhythmias, and hypertension [see Drug Interactions (7.2)].
 
 ## 5.3 Ocular Effects
@@ -45,5 +45,5 @@ COMBIVENT RESPIMAT contains albuterol sulfate, a beta2-adrenergic sympathomimeti
 
 ## 5.8 Hypokalemia
 
-Beta2-adrenergic agonists may produce significant hypokalemia in some patients (possibly through intracellular shunting) which has the potential to produce adverse cardiovascular effects.
+Beta2‑adrenergic agonists may produce significant hypokalemia in some patients (possibly through intracellular shunting) which has the potential to produce adverse cardiovascular effects.
 The decrease in serum potassium is usually transient, not requiring supplementation [see Drug Interactions (7.2)].

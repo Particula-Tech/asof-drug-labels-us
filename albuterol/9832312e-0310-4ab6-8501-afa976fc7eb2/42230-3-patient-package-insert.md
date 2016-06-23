@@ -1,12 +1,10 @@
-Instructions for Use
-
-COMBIVENT® RESPIMAT® (COM beh vent - RES peh mat) (ipratropium bromide and albuterol) Inhalation Spray
+Instructions for Use COMBIVENT® RESPIMAT® (COM beh vent - RES peh mat) (ipratropium bromide and albuterol) inhalation spray
 
 For Oral Inhalation Only Do not spray COMBIVENT RESPIMAT into your eyes
 
-Read this Instructions for Use before you start using COMBIVENT RESPIMAT and each time you get a refill.
+Read these Instructions for Use before you start using COMBIVENT RESPIMAT and each time you get a refill.
 There may be new information.
-This information does not take the place of talking to your doctor about your medical condition or your treatment.
+This leaflet does not take the place of talking to your doctor about your medical condition or your treatment.
 
 Use COMBIVENT RESPIMAT exactly as prescribed by your doctor.
 Do not change your dose or how often you use COMBIVENT RESPIMAT without talking with your doctor.
@@ -15,59 +13,129 @@ Tell your doctor about all of the medicines you take.
 COMBIVENT RESPIMAT may affect the way some medicines work and some other medicines may affect the way COMBIVENT RESPIMAT works.
 Do not use other inhaled medicines with COMBIVENT RESPIMAT without talking to your doctor.
 
-The COMBIVENT RESPIMAT inhaler has a slow moving mist that helps you to inhale the medicine.
-
-Before your COMBIVENT RESPIMAT inhaler is used for the first time, the COMBIVENT RESPIMAT cartridge must be inserted into the COMBIVENT RESPIMAT inhaler and then primed.
-The instructions below show you how to prepare and prime the inhaler for first time use and how to use the inhaler for daily dosing.
+The COMBIVENT RESPIMAT inhaler has a slow moving mist that helps you inhale the medicine.
 
 Do not turn the clear base before inserting the cartridge.
 
-The COMBIVENT RESPIMAT inhaler
+- Store COMBIVENT RESPIMAT at room temperature 68°F to 77°F (20°C to 25°C).
+- Do not freeze your COMBIVENT RESPIMAT cartridge and inhaler.
+- If COMBIVENT RESPIMAT has not been used for more than 3 days, release 1 puff towards the ground.
+- If COMBIVENT RESPIMAT has not been used for more than 21 days, repeat steps 4 to 6 under the “Prepare for first use” until a mist is visible.
+  Then repeat steps 4 to 6 three more times.
+- Keep your COMBIVENT RESPIMAT cartridge and inhaler out of the reach of children.
 
-| Prepare For First Time Use |  |  |
-| --- | --- | --- |
-| Figure 1 | Step 1. With the orange cap closed, press the safety catch while pulling off the clear base. See Figure 1. Be careful not to touch the piercing element located inside the bottom of the clear base. |  |
-| Figure 2 | Step 2. Write the discard by date on the label of the COMBIVENT RESPIMAT inhaler. The discard by date is 3 months from the date the cartridge is inserted into the inhaler. See Figure 2. |  |
-| Figure 3 | Step 3. Take the COMBIVENT RESPIMAT cartridge out of the box. Push the narrow end of the cartridge into the inhaler. The base of the cartridge will not sit flush with the inhaler. About 1/8 of an inch will remain visible when the cartridge is correctly inserted. See Figure 3. The cartridge can be pushed against a firm surface to ensure that it is correctly inserted. See Figure 3. Do not remove the cartridge once it has been inserted into the inhaler. |  |
-| Figure 4 | Step 4. Put the clear base back into place. See Figure 4. Do not remove the clear base again. Your COMBIVENT RESPIMAT inhaler should not be taken apart after you have inserted the cartridge and put the clear base back. |  |
-| Prime For First Time Use |  |  |
-| The following steps are needed to fill the dosing system the first time you use it and will not affect the number of doses available. After preparation and initial priming, your COMBIVENT RESPIMAT inhaler will be able to deliver the labeled number of doses (120 or 60). Proper priming of the inhaler is important to make sure the correct amount of medicine is delivered. |  |  |
-| Figure 5 | Step 5. Hold the COMBIVENT RESPIMAT inhaler upright, with the orange cap closed, to avoid accidental release of the dose. Turn the clear base in the direction of the white arrows on the label until it clicks (half a turn). See Figure 5. |  |
-| Figure 6 | Step 6. Flip the orange cap until it snaps fully open. See Figure 6. |  |
-| Figure 7 | Step 7. Point the COMBIVENT RESPIMAT inhaler toward the ground (away from your face). Press the dose release button. See Figure 7. Close the orange cap. Repeat Steps 5, 6, and 7 until a spray is visible. Once the spray is visible, you must repeat Steps 5, 6, and 7 three more times to make sure the inhaler is prepared for use. Your COMBIVENT RESPIMAT inhaler is now ready to use. These steps will not affect the number of doses available. After preparation and initial priming, your COMBIVENT RESPIMAT inhaler will be able to deliver the labeled number of doses (120 or 60). |  |
-| Daily Dosing |  |  |
-| Figure A | Step A. Hold the COMBIVENT RESPIMAT inhaler upright with the orange cap closed, so you do not accidentally release a dose of medicine. Turn the clear base in the direction of the white arrows on the label until it clicks (half a turn). See Figure A. |  |
-| Figure B | Step B. Flip the orange cap until it snaps fully open. Breathe out slowly and fully, and then close your lips around the end of the mouthpiece without covering the air vents. See Figure B. Point your COMBIVENT RESPIMAT inhaler to the back of your throat. While taking in a slow, deep breath through your mouth, press the dose release button and continue to breathe in slowly for as long as you can. Hold your breath for 10 seconds or for as long as comfortable. Close the orange cap until you use your COMBIVENT RESPIMAT inhaler again. |  |
-|  | Helpful Hints for Daily Dosing: Using the COMBIVENT RESPIMAT inhaler requires 3 simple steps. A helpful way to remember the steps for Daily Dosing is to remember TOP: Turn the clear base Open the cap and close your lips around the mouthpiece Press the dose-release button and inhale |  |
-| If your COMBIVENT RESPIMAT inhaler has not been used for more than 3 days, spray 1 puff toward the ground to prepare the inhaler for use. If your COMBIVENT RESPIMAT inhaler has not been used for more than 21 days, repeat Steps 5, 6, and 7 until a spray is visible. Then repeat Steps 5, 6, and 7 three more times to prepare the inhaler for use. For more information or a video demonstration on how to use COMBIVENT RESPIMAT, go to www.combivent.com, or scan the code below. You may also call 1-800-542-6257 or (TTY) 1-800-459-9906 for further information about COMBIVENT RESPIMAT. |  |  |
-| When should I get a new COMBIVENT RESPIMAT inhaler? |  |  |
-| 120 Dose Product 60 Dose Product | COMBIVENT RESPIMAT is available with 120 or 60 doses of medicine. One puff from COMBIVENT RESPIMAT equals one dose of medicine. The dose indicator shows approximately how much medicine is left. When the pointer enters the red area of the scale, there is enough medicine for 7 days (120 dose product) or 3 days (60 dose product). This is when you need to refill your prescription or ask your doctor if you need another prescription for COMBIVENT RESPIMAT Inhalation Spray. Once the dose indicator has reached the end of the scale, all puffs have been used and the COMBIVENT RESPIMAT inhaler locks automatically. At this point, the base cannot be turned any further. Throw away the COMBIVENT RESPIMAT inhaler 3 months after insertion of cartridge into inhaler, even if all the medicine has not been used, or when the inhaler is locked, whichever comes first. |  |
-| Questions and Answers about your COMBIVENT RESPIMAT inhaler |  |  |
-| What if... | Reason | What to do |
-| I can not turn the base easily? | The COMBIVENT RESPIMAT inhaler is already prepared and ready to use. The COMBIVENT RESPIMAT inhaler is locked and all the medicine has been used. | The COMBIVENT RESPIMAT inhaler can be used as it is. Prepare and use a new COMBIVENT RESPIMAT inhaler. |
-| I can not press the dose release button? | The clear base has not been turned. | Turn the clear base until it clicks (half a turn). |
-| The clear base springs back after I have turned it and a small amount of moisture is released? | The clear base was not turned far enough. | Prepare the COMBIVENT RESPIMAT inhaler for use by turning the clear base until it clicks (half a turn). |
-| I can turn the clear base past the point where it clicks? | Either the dose release button has been pressed, or the clear base has been turned too far. | With the orange cap closed, turn the clear base until it clicks (half a turn). |
+How to care for your COMBIVENT RESPIMAT inhaler
 
-How should I care for my COMBIVENT RESPIMAT inhaler?
-Clean the mouthpiece, including the metal part inside the mouthpiece, with a damp cloth or tissue only, at least 1 time a week.
+Clean the mouthpiece, including the metal part inside the mouthpiece, with a damp cloth or tissue only, at least once a week.
 Any minor discoloration in the mouthpiece does not affect your COMBIVENT RESPIMAT inhaler.
 
-If the outside of your COMBIVENT RESPIMAT inhaler gets dirty, wipe it with a damp cloth.
+When to get a new COMBIVENT RESPIMAT inhaler
 
-- Store COMBIVENT RESPIMAT at Room Temperature between 59°F to 86°F (15°C to 30°C).
-- Do not freeze your COMBIVENT RESPIMAT cartridge and inhaler.
+- Your inhaler contains 120 puffs (120 doses); or if you have a sample, your inhaler contains 60 puffs (60 doses) instead.
 
-Keep your COMBIVENT RESPIMAT cartridge and inhaler out of the reach of children.
+- The dose indicator shows approximately how much medicine is left.
+- When the dose indicator enters the red area of the scale you need to get a refill; there is approximately medicine for 7 days left (if you have a sample, there is approximately medicine for 3 days left).
+- When the dose indicator reaches the end of the red scale, your COMBIVENT RESPIMAT is empty and automatically locks.
+  At this point, the clear base cannot be turned any further.
+- Three months after insertion of cartridge, throw away the COMBIVENT RESPIMAT even if it has not been used, or when the inhaler is locked, or when it expires, whichever comes first.
 
-Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
+Prepare for first use
 
-RESPIMAT® is a registered trademark of and used under license from Boehringer Ingelheim International GmbH COMBIVENT® is a registered trademark of Boehringer Ingelheim Pharmaceuticals, Inc.
+| 1. Remove clear base Keep the cap closed.Press the safety catch while firmly pulling off the clear base with your other hand. Be careful not to touch the piercing element.Write the discard by date on the label (3 months from the date the cartridge is inserted). |  |
+| --- | --- |
+| 2. Insert cartridge Insert the narrow end of the cartridge into the inhaler.Place the inhaler on a firm surface and push down firmly until it clicks into place. |  |
+| 3. Replace clear base Put the clear base back into place until it clicks.Do not remove the clear base or the cartridge after it has been put together. |  |
+| 4. Turn Keep the cap closed.Turn the clear base in the direction of the arrows on the label until it clicks (half a turn). |  |
+| 5. Open Open the cap until it snaps fully open. |  |
+| 6. Press Point the inhaler toward the ground.Press the dose-release button.Close the cap.If you do not see a mist, repeat steps 4 to 6 until a mist is seen.After a mist is seen, Repeat steps 4 to 6 three more times.After complete preparation of your inhaler, it will be ready to deliver the number of puffs on the label. |  |
 
-Copyright © 2016 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Daily use (TOP)
+
+| Turn Keep the cap closed.Turn the clear base in the direction of the arrows on the label until it clicks (half a turn). |  |
+| --- | --- |
+| Open OPEN the cap until it snaps fully open. |  |
+| Press Breathe out slowly and fully.Close your lips around the mouthpiece without covering the air vents.Point the inhaler to the back of your throat.While taking a slow, deep breath through your mouth, Press the dose-release button and continue to breathe in.Hold your breath for 10 seconds or for as long as comfortable.Close the cap until you use your inhaler again. |  |
+
+Answers to Common Questions
+
+It is difficult to insert the cartridge deep enough:
+
+Did you accidentally turn the clear base before inserting the cartridge?
+Open the cap, press the dose-release button, then insert the cartridge.
+
+Did you insert the cartridge with the wide end first?
+Insert the cartridge with the narrow end first.
+
+I cannot press the dose-release button:
+
+Did you turn the clear base?
+If not, turn the clear base in a continuous movement until it clicks (half a turn).
+
+Is the dose indicator on the COMBIVENT RESPIMAT pointing to zero?
+The COMBIVENT RESPIMAT inhaler is locked after 120 puffs (120 doses).
+If you have a sample, the COMBIVENT RESPIMAT inhaler is locked after 60 puffs (60 doses).
+Prepare and use your new COMBIVENT RESPIMAT inhaler.
+
+I cannot turn the clear base:
+
+Did you turn the clear base already?
+If the clear base has already been turned, follow steps “Open” and “Press” under “Daily use” to get your medicine.
+
+Is the dose indicator on the COMBIVENT RESPIMAT pointing to zero?
+The COMBIVENT RESPIMAT inhaler is locked after 120 puffs (120 doses).
+If you have a sample, the COMBIVENT RESPIMAT inhaler is locked after 60 puffs (60 doses).
+Prepare and use your new COMBIVENT RESPIMAT inhaler.
+
+The dose indicator on the COMBIVENT RESPIMAT reaches zero too soon:
+
+Did you use COMBIVENT RESPIMAT as indicated (1 puff four times daily)?
+COMBIVENT RESPIMAT will deliver 120 puffs and last 30 days if used at 1 puff four times daily.
+If you have a sample, COMBIVENT RESPIMAT will deliver 60 puffs and last 15 days if used at 1 puff four times daily.
+
+Did you turn the clear base before you inserted the cartridge?
+The dose indicator counts each turn of the clear base regardless whether a cartridge has been inserted or not.
+
+Did you spray in the air often to check whether the COMBIVENT RESPIMAT is working?
+Once you have prepared COMBIVENT RESPIMAT, no test-spraying is required if used daily.
+
+Did you insert the cartridge into a used COMBIVENT RESPIMAT?
+Always insert a new cartridge into a NEW COMBIVENT RESPIMAT.
+
+My COMBIVENT RESPIMAT sprays automatically:
+
+Was the cap open when you turned the clear base?
+Close the cap, then turn the clear base.
+
+Did you press the dose-release button when turning the clear base?
+Close the cap, so the dose-release button is covered, then turn the clear base.
+
+Did you stop when turning the clear base before it clicked?
+Turn the clear base in a continuous movement until it clicks (half a turn).
+
+My COMBIVENT RESPIMAT doesn’t spray:
+
+Did you insert a cartridge?
+If not, insert a cartridge.
+
+Did you repeat Turn, Open, Press (TOP) less than three times after inserting the cartridge?
+Repeat Turn, Open, Press (TOP) three times after inserting the cartridge as shown in steps 4 to 6 under “Prepare for first use”.
+
+Is the dose indicator on the COMBIVENT RESPIMAT pointing to 0?
+You have used up all your medicine and the inhaler is locked.
+
+For more information about COMBIVENT RESPIMAT or a video demonstration on how to use COMBIVENT RESPIMAT, go to www.combivent.com, or scan the code below.
+You may also call 1-800-542-6257 or (TTY) 1-800-459-9906 for further information about COMBIVENT RESPIMAT.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: January 2016
+Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc., Ridgefield, CT 06877 USA
 
-OT24008HB032016 304000-03
+RESPIMAT® is a registered trademark of and used under license from Boehringer Ingelheim International GmbH
+
+COMBIVENT® is a registered trademark of Boehringer Ingelheim Pharmaceuticals, Inc. Copyright © 2016 Boehringer Ingelheim International GmbH
+
+ALL RIGHTS RESERVED
+
+Revised: June 2016
+
+OT24008IF132016 304000-04

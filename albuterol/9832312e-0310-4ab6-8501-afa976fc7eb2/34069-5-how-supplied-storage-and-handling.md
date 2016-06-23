@@ -10,12 +10,12 @@ The clear base is removed to insert the cartridge.
 The inhaler contains a dose indicator.
 The orange colored cap and the written information on the label of the gray inhaler body indicate that it is labeled for use with the COMBIVENT RESPIMAT cartridge.
 
-COMBIVENT RESPIMAT Inhalation Spray is available as: COMBIVENT RESPIMAT Inhalation Spray: 120 metered actuations (NDC 0597-0024-02) COMBIVENT RESPIMAT Inhalation Spray: 60 metered actuations (NDC 0597-0024-58) (institutional pack)
+COMBIVENT RESPIMAT Inhalation Spray is available as: COMBIVENT RESPIMAT Inhalation Spray: 120 metered actuations (NDC 0597-0024-02))
 
-The COMBIVENT RESPIMAT cartridge has a net fill weight of 4 grams and when used with the COMBIVENT RESPIMAT inhaler, is designed to deliver the labeled number of metered actuations (120 or 60) after preparation for use; which is, respectively, equivalent to 30 or 15 days of medication when used as one inhalation four times a day.
+The COMBIVENT RESPIMAT cartridge has a net fill weight of 4 grams and when used with the COMBIVENT RESPIMAT inhaler, is designed to deliver the labeled number of metered actuations after preparation for use.
 Each actuation from the COMBIVENT RESPIMAT inhaler delivers 20 mcg ipratropium bromide (monohydrate) and 100 mcg albuterol (equivalent to 120 mcg albuterol sulfate) from the mouthpiece.
 
-When the labeled number of metered actuations (120 or 60) has been dispensed from the inhaler, the RESPIMAT locking mechanism will be engaged and no more actuations can be dispensed.
+When the labeled number of metered actuations has been dispensed from the inhaler, the RESPIMAT locking mechanism will be engaged and no more actuations can be dispensed.
 
 After assembly, the COMBIVENT RESPIMAT inhaler should be discarded at the latest 3 months after first use or when the locking mechanism is engaged, whichever comes first.
 

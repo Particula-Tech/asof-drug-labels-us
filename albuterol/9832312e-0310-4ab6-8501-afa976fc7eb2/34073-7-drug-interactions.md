@@ -8,7 +8,7 @@ There are no formal studies fully evaluating the interaction effects of COMBIVEN
 There is the potential for an additive interaction with concomitantly used anticholinergic medications.
 Therefore, avoid coadministration of COMBIVENT RESPIMAT with other anticholinergic-containing drugs as this may lead to an increase in anticholinergic adverse effects [see Warnings and Precautions (5.3, 5.4)].
 
-## 7.2 Beta-adrenergic Agonists
+## 7.2 Beta‑adrenergic Agonists
 
 Caution is advised in the coadministration of COMBIVENT RESPIMAT and other sympathomimetic agents due to the increased risk of adverse cardiovascular effects [see Warnings and Precautions (5.2, 5.5)].
 
@@ -19,8 +19,8 @@ Beta-receptor blocking agents should be used with caution in patients with hyper
 
 ## 7.4 Diuretics
 
-The ECG changes and/or hypokalemia which may result from the administration of non-potassium sparing diuretics (such as loop or thiazide diuretics) can be acutely worsened by beta2-agonists, especially when the recommended dose of the beta2-agonist is exceeded.
-Although the clinical significance of these effects is not known, caution is advised in the coadministration of beta-agonist-containing drugs, such as COMBIVENT RESPIMAT, with non-potassium sparing diuretics.
+The ECG changes and/or hypokalemia which may result from the administration of non‑potassium sparing diuretics (such as loop or thiazide diuretics) can be acutely worsened by beta2-agonists, especially when the recommended dose of the beta2-agonist is exceeded.
+Although the clinical significance of these effects is not known, caution is advised in the coadministration of beta-agonist‑containing drugs, such as COMBIVENT RESPIMAT, with non‑potassium sparing diuretics.
 Consider monitoring potassium levels.
 
 ## 7.5 Monoamine Oxidase Inhibitors or Tricyclic Antidepressants

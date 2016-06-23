@@ -28,7 +28,7 @@ The COMBIVENT RESPIMAT cartridge is only intended for use with the COMBIVENT RES
 The COMBIVENT RESPIMAT inhaler is a hand held, pocket sized oral inhalation device that uses mechanical energy to generate a slow moving aerosol cloud of medication from a metered volume of the drug solution.
 The COMBIVENT RESPIMAT inhaler has an orange-colored cap.
 
-When used with the COMBIVENT RESPIMAT inhaler, each cartridge containing 4 grams of a sterile aqueous solution, delivers 120 (or 60) metered actuations after preparation for use, the equivalent of 30 days’ (or 15 days’) medication when used as one inhalation four times a day.
+When used with the COMBIVENT RESPIMAT inhaler, each cartridge containing 4 grams of a sterile aqueous solution delivers the labeled number of metered actuations after preparation for use.
 Each actuation from the COMBIVENT RESPIMAT inhaler delivers 20 mcg ipratropium bromide (monohydrate) and 100 mcg albuterol (equivalent to 120 mcg albuterol sulfate) in 11.4 mcL of solution from the mouthpiece.
 As with all inhaled drugs, the actual amount of drug delivered to the lung may depend on patient factors, such as the coordination between the actuation of the inhaler and inspiration through the delivery system.
 The duration of inspiration should be at least as long as the spray duration (1.5 seconds).
