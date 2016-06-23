@@ -19,7 +19,7 @@ Metformin Hydrochloride
 
 Metformin is a biguanide that improves glucose tolerance in patients with type 2 diabetes, lowering both basal and postprandial plasma glucose.
 Metformin decreases hepatic glucose production, decreases intestinal absorption of glucose and improves insulin sensitivity by increasing peripheral glucose uptake and utilization.
-Metformin does not produce hypoglycemia in patients with type 2 diabetes or in healthy subjects except in special circumstances [see Warnings and Precautions (5.10)] and does not cause hyperinsulinemia.
+Metformin does not produce hypoglycemia in patients with type 2 diabetes or in healthy subjects except in special circumstances [see Warnings and Precautions (5.7)] and does not cause hyperinsulinemia.
 With metformin therapy, insulin secretion remains unchanged while fasting insulin levels and daylong plasma insulin response may actually decrease.
 
 ## 12.2 Pharmacodynamics
@@ -114,12 +114,11 @@ Renal Impairment
 Alogliptin and Metformin Hydrochloride
 
 Use of alogliptin and metformin HCl tablets in patients with renal impairment increases the risk for lactic acidosis.
-Because alogliptin and metformin HCl tablets contain metformin, alogliptin and metformin HCl tablets are contraindicated in patients with renal impairment [see Contraindications (4) and Warnings and Precautions (5.6)].
+Because alogliptin and metformin HCl tablets contain metformin, alogliptin and metformin HCl tablets are contraindicated in patients with severe renal impairment [see Contraindications (4) and Warnings and Precautions (5.1)].
 
 Hepatic Impairment
 
-Alogliptin and metformin HCl tablets are not recommended in patients with hepatic impairment.
-Alogliptin and metformin HCl tablets contain metformin and use of metformin in patients with hepatic impairment has been associated with some cases of lactic acidosis [see Warnings and Precautions (5.5)].
+Alogliptin and metformin HCl tablets are not recommended in patients with hepatic impairment [see Warnings and Precautions (5.1, 5.5)].
 
 Alogliptin
 
@@ -145,9 +144,7 @@ Similarly, in controlled clinical studies in patients with type 2 diabetes, the 
 
 Geriatric
 
-Alogliptin and metformin HCl tablets contain metformin, which is contraindicated in patients with renal impairment [see Warnings and Precautions (5.6)].
 Due to declining renal function in the elderly, measurement of creatinine clearance should be obtained prior to initiation of therapy.
-Do not use alogliptin and metformin HCl tablets if renal function is not within normal range.
 
 Alogliptin
 
@@ -218,7 +215,7 @@ Pharmacokinetic drug interaction studies have been performed on metformin (Table
 Table 4.
 Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
 
-| AUCAUC = AUC0-∞ | Cmax |  |  |  |
+| AUCAUC = AUC0˗∞ | Cmax |  |  |  |
 | --- | --- | --- | --- | --- |
 | Coadministered Drug | Dose of Coadministered DrugAll metformin and coadministered drugs were given as single doses | Dose of Metformin HCl | Geometric Mean Ratio (ratio with/without coadministered drug) No effect = 1.00 |  |
 | No dosing adjustments required for the following: |  |  |  |  |
@@ -227,15 +224,15 @@ Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
 | Nifedipine | 10 mg | 850 mg | 1.16 | 1.21 |
 | Propranolol | 40 mg | 850 mg | 0.90 | 0.94 |
 | Ibuprofen | 400 mg | 850 mg | 1.05 | 1.07 |
-| Cationic drugs eliminated by renal tubular secretion may reduce metformin elimination: use with caution [see Warnings and Precautions (5) and Drug Interactions (7)] |  |  |  |  |
+| Drugs that are eliminated by renal tubular secretion may increase the accumulation of metformin [see Warnings and Precautions (5) and Drug Interactions (7)] |  |  |  |  |
 | Cimetidine | 400 mg | 850 mg | 1.40 | 1.61 |
-| Carbonic anhydrase inhibitors may cause metabolic acidosis: use with caution [see Warnings and Precautions (5) and Drug Interactions (7)] |  |  |  |  |
+| Carbonic anhydrase inhibitors may cause metabolic acidosis [see Warnings and Precautions (5) and Drug Interactions (7)] |  |  |  |  |
 | Topiramate | 100 mgAt steady-state with topiramate 100 mg every 12 hours and metformin 500 mg every 12 hours; AUC = AUC0-12h | 500 mg | 1.25 | 1.17 |
 
 Table 5.
 Effect of Metformin on Coadministered Drug Systemic Exposure
 
-| AUCAUC = AUC0-∞ | Cmax |  |  |  |
+| AUCAUC = AUC0˗∞ | Cmax |  |  |  |
 | --- | --- | --- | --- | --- |
 | Coadministered Drug | Dose of Coadministered DrugAll metformin and coadministered drugs were given as single doses | Dose of Metformin HCl | Geometric Mean Ratio (ratio with/without coadministered drug) No effect = 1.00 |  |
 | No dosing adjustments required for the following: |  |  |  |  |

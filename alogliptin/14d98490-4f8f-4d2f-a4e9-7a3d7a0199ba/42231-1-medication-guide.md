@@ -15,24 +15,34 @@ Alogliptin and metformin HCl tablets can cause serious side effects, including:
   Metformin, one of the medicines in alogliptin and metformin HCl tablets, can cause a rare but serious condition called lactic acidosis (a buildup of an acid in the blood) that can cause death.
   Lactic acidosis is a medical emergency and must be treated in the hospital.
 
-Stop taking alogliptin and metformin HCl tablets and call your doctor right away if you get any of the following symptoms of lactic acidosis:
+Call your doctor right away if you have any of the following symptoms, which could be signs of lactic acidosis:
 
-| feel very weak or tired have trouble breathing have unexplained stomach or intestinal problems with nausea and vomiting, or diarrhea feel dizzy or lightheaded | have unusual (not normal) muscle pain have unusual sleepiness or sleep longer than usual feel cold, especially in your arms and legs have a slow or irregular heartbeat |
-| --- | --- |
+- you feel cold in your hands or feet
+- you feel dizzy or lightheaded
+- you have a slow or irregular heartbeat
+- you feel very weak or tired
+- you have unusual (not normal) muscle pain
+- you have trouble breathing
+- you feel sleepy or drowsy
+- you have stomach pains, nausea or vomiting
 
-You have a higher chance for getting lactic acidosis with alogliptin and metformin HCl tablets if you:
+Most people who have had lactic acidosis with metformin have other things that, combined with metformin, led to the lactic acidosis.
+Tell your doctor if you have any of the following, because you have a higher chance for getting lactic acidosis with alogliptin and metformin HCl tablets if you:
 
-- have kidney problems.
-  People whose kidneys are not working properly should not take alogliptin and metformin HCl tablets
+- have severe kidney problems or your kidneys are affected by certain x-ray tests that use injectable dye
 - have liver problems
-- have congestive heart failure that requires treatment with medicines
-- drink a lot of alcohol (very often or short-term "binge" drinking)
+- drink alcohol very often, or drink a lot of alcohol in short-term "binge" drinking
 - get dehydrated (lose a large amount of body fluids).
-  This can happen if you are sick with a fever, vomiting or diarrhea.
+  This can happen if you are sick with a fever, vomiting, or diarrhea.
   Dehydration can also happen when you sweat a lot with activity or exercise and do not drink enough fluids
-- have certain x-ray tests with injectable dyes or contrast agents
 - have surgery
-- have a heart attack, severe infection or stroke
+- have a heart attack, severe infection, or stroke
+
+The best way to keep from having a problem with lactic acidosis from metformin is to tell your doctor if you have any of the problems listed above.
+You doctor may decide to stop alogliptin and metformin HCl tablets for a while if you have any of these things.
+
+Alogliptin and metformin HCl tablets can have other serious side effects.
+See "What are the possible side effects of alogliptin and metformin HCl tablets?"
 
 - 2.Inflammation of the pancreas (pancreatitis).
   Alogliptin, one of the medicines in alogliptin and metformin HCl tablets, may cause pancreatitis, which may be severe.
@@ -50,8 +60,7 @@ The pain may be felt going from your abdomen through to your back.
 The pain may happen with or without vomiting.
 These may be symptoms of pancreatitis.
 
-3.
-Heart failure:
+- 3.Heart failure:
 
 Before you start taking alogliptin and metformin HCl tablets:
 
@@ -77,26 +86,29 @@ Who should not take alogliptin and metformin HCl tablets?
 
 Do not take alogliptin and metformin HCl tablets if you:
 
-- have kidney problems
+- have severe kidney problems
 - have a condition called metabolic acidosis or have had diabetic ketoacidosis (increased ketones in your blood or urine)
-- are going to get an injection of dye or contrast agents for an x-ray procedure, alogliptin and metformin HCl tablets will need to be stopped for a short time.
+- are going to get an injection of dye or contrast agents for an x-ray procedure, alogliptin and metformin HCl tablets may need to be stopped for a short time.
   Talk to your doctor about when you should stop alogliptin and metformin HCl tablets and when you should start alogliptin and metformin HCl tablets again
 - are allergic to alogliptin or metformin or any of the ingredients in alogliptin and metformin HCl tablets or have had a serious allergic (hypersensitivity) reaction to alogliptin or metformin.
-  See the end of this Medication Guide for a complete list of the ingredients in alogliptin and metformin HCl tablets Symptoms of a serious allergic reaction to alogliptin and metformin HCl tablets may include:
+  See the end of this Medication Guide for a complete list of the ingredients in alogliptin and metformin HCl tablets
 
-| oswelling of your face, lips, throat and other areas on your skinoraised, red areas on your skin (hives) | odifficulty with swallowing or breathingoskin rash, itching, flaking or peeling |
+Symptoms of a serious allergic reaction to alogliptin and metformin HCl tablets may include:
+
+| swelling of your face, lips, throat and other areas on your skin raised, red areas on your skin (hives) | difficulty with swallowing or breathing skin rash, itching, flaking or peeling |
 | --- | --- |
 
-1. If you have any of these symptoms, stop taking alogliptin and metformin HCl tablets and contact your doctor or go to the nearest hospital emergency room right away.
+If you have any of these symptoms, stop taking alogliptin and metformin HCl tablets and contact your doctor or go to the nearest hospital emergency room right away.
 
 What should I tell my doctor before and during treatment with alogliptin and metformin HCl tablets?
 
 Before you take alogliptin and metformin HCl tablets, tell your doctor if you:
 
 - have or have had inflammation of your pancreas (pancreatitis)
-- have kidney or liver problems
+- have severe kidney or liver problems
 - have heart problems, including congestive heart failure
-- are older than 80 years, you should not take alogliptin and metformin HCl tablets unless your kidneys have been checked and they are normal
+- are going to get an injection of dye or contrast agents for an x-ray procedure, alogliptin and metformin HCl tablets may need to be stopped for a short time.
+  Talk to your doctor about when you should stop alogliptin and metformin HCl tablets and when you should start alogliptin and metformin HCl tablets again
 - drink alcohol very often or drink a lot of alcohol in short-term "binge" drinking
 - have other medical conditions
 - are pregnant or plan to become pregnant.
@@ -138,26 +150,16 @@ Alogliptin and metformin HCl tablets can cause serious side effects, including:
 
 See "What is the most important information I should know about alogliptin and metformin HCl tablets?"
 
-- Allergic (hypersensitivity) reactions, such as:
+- Allergic (hypersensitivity) reactions, such as: swelling of your face, lips, throat and other areas on your skin raised, red areas on your skin (hives) difficulty swallowing or breathing skin rash, itching, flaking or peeling If you have these symptoms, stop taking alogliptin and metformin HCl tablets and contact your doctor right away.
 
-| oswelling of your face, lips, throat and other areas on your skinoraised, red areas on your skin (hives) | odifficulty swallowing or breathingoskin rash, itching, flaking or peeling |
-| --- | --- |
-
-- If you have these symptoms, stop taking alogliptin and metformin HCl tablets and contact your doctor right away.
-- •Liver problems.
-  Call your doctor right away if you have unexplained symptoms, such as:
-
-| onausea or vomitingoloss of appetite | ostomach painodark urine | ounusual or unexplained tirednessoyellowing of your skin or the whites of your eyes |
-| --- | --- | --- |
+- Liver problems.
+  Call your doctor right away if you have unexplained symptoms, such as: nausea or vomiting loss of appetite stomach pain dark urine unusual or unexplained tiredness yellowing of your skin or the whites of your eyes
 
 - Low blood sugar (hypoglycemia).
   If you take alogliptin and metformin HCl tablets with another medicine that can cause low blood sugar, such as a sulfonylurea or insulin, your risk of getting low blood sugar is higher.
   The dose of your sulfonylurea medicine or insulin may need to be lowered while you take alogliptin and metformin HCl tablets.
   If you have symptoms of low blood sugar, you should check your blood sugar and treat if low, and then call your doctor.
-  Signs and symptoms of low blood sugar may include:
-
-| shaking or feeling jitterysweating | fast heartbeat change in vision | hungerheadache | change in moodconfusion | dizziness |
-| --- | --- | --- | --- | --- |
+  Signs and symptoms of low blood sugar may include: shaking or feeling jitterysweating fast heartbeat change in vision hungerheadache change in moodconfusion dizziness
 
 - Joint pain.
   Some people who take medicines called DPP-4 inhibitors, one of the medicines in alogliptin and metformin HCl tablets, may develop joint pain that can be severe.
@@ -165,7 +167,7 @@ See "What is the most important information I should know about alogliptin and m
 
 The most common side effects of alogliptin and metformin HCl tablets include:
 
-| ocold-like symptoms (upper respiratory tract infection)oincrease in blood pressureourinary tract infection | ostuffy or runny nose and sore throatoheadache | odiarrheaoback pain |
+| cold-like symptoms (upper respiratory tract infection) increase in blood pressure urinary tract infection | stuffy or runny nose and sore throat headache | diarrhea back pain |
 | --- | --- | --- |
 
 Taking alogliptin and metformin HCl tablets with food can help lessen the common stomach side effects of metformin that usually happen at the beginning of treatment.
@@ -210,7 +212,7 @@ Distributed By Perrigo® Allegan, MI 49010 • www.perrigo.com
 
 All trademarks are the property of their respective owners
 
-ALK334 R2
+ALK334 R3
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-4/2016
+5/2016

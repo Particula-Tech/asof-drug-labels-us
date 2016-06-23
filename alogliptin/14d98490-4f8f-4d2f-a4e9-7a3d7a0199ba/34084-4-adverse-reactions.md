@@ -26,17 +26,17 @@ Adverse reactions reported in ≥4% of patients treated with alogliptin and metf
 Table 1.
 Adverse Reactions Reported in ≥4% of Patients Treated with Alogliptin and Metformin HCl Tablets and More Frequently Than in Patients Receiving Either Alogliptin, Metformin or Placebo
 
-|  | N=2794 | N=222 | N=1592 | N=106 |  |
-| --- | --- | --- | --- | --- | --- |
-| Number of Patients (%) |  |  |  |  |  |
-|  | Alogliptin and Metformin HCl TabletsAlogliptin and metformin HCl tablets – includes data pooled for patients receiving alogliptin 25 and 12.5 mg combined with various dose of metformin | AlogliptinAlogliptin – includes data pooled for patients receiving alogliptin 25 and 12.5 mg | MetforminMetformin – includes data pooled for patients receiving various doses of metformin | Placebo |  |
-| Upper respiratory tract infection | 224 (8.0) | 6 (2.7) | 105 (6.6) | 3 (2.8) |  |
-| Nasopharyngitis | 191 (6.8) | 7 (3.2) | 93 (5.8) | 2 (1.9) |  |
-| Diarrhea | 155 (5.5) | 4 (1.8) | 105 (6.6) | 3 (2.8) |  |
-| Hypertension | 154 (5.5) | 5 (2.3) | 96 (6.0) | 6 (5.7) |  |
-| Headache | 149 (5.3) | 11 (5.0) | 74 (4.6) | 3 (2.8) |  |
-| Back pain | 119 (4.3) | 1 (0.5) | 72 (4.5) | 1 (0.9) |  |
-| Urinary tract infection | 116 (4.2) | 4 (1.8) | 59 (3.7) | 2 (1.9) |  |
+|  | N=2794 | N=222 | N=1592 | N=106 |
+| --- | --- | --- | --- | --- |
+| Number of Patients (%) |  |  |  |  |
+|  | Alogliptin and Metformin HCl TabletsAlogliptin and metformin HCl tablets – includes data pooled for patients receiving alogliptin 25 and 12.5 mg combined with various dose of metformin | AlogliptinAlogliptin – includes data pooled for patients receiving alogliptin 25 and 12.5 mg | MetforminMetformin – includes data pooled for patients receiving various doses of metformin | Placebo |
+| Upper respiratory tract infection | 224 (8.0) | 6 (2.7) | 105 (6.6) | 3 (2.8) |
+| Nasopharyngitis | 191 (6.8) | 7 (3.2) | 93 (5.8) | 2 (1.9) |
+| Diarrhea | 155 (5.5) | 4 (1.8) | 105 (6.6) | 3 (2.8) |
+| Hypertension | 154 (5.5) | 5 (2.3) | 96 (6.0) | 6 (5.7) |
+| Headache | 149 (5.3) | 11 (5.0) | 74 (4.6) | 3 (2.8) |
+| Back pain | 119 (4.3) | 1 (0.5) | 72 (4.5) | 1 (0.9) |
+| Urinary tract infection | 116 (4.2) | 4 (1.8) | 59 (3.7) | 2 (1.9) |
 
 Hypoglycemia
 
@@ -106,7 +106,7 @@ No clinically meaningful differences were observed among treatment groups regard
 Metformin Hydrochloride
 
 Metformin may lower serum vitamin B12 concentrations.
-Measurement of hematologic parameters on an annual basis is advised in patients on alogliptin and metformin HCl tablets, and any apparent abnormalities should be appropriately investigated and managed [see Warnings and Precautions (5.9)].
+Measurement of hematologic parameters on an annual basis is advised in patients on alogliptin and metformin HCl tablets, and any apparent abnormalities should be appropriately investigated and managed [see Warnings and Precautions (5.6)].
 
 ## 6.3 Postmarketing Experience
 
@@ -115,4 +115,4 @@ Alogliptin
 The following adverse reactions have been identified during the postmarketing use of alogliptin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria and severe cutaneous adverse reactions, including Stevens-Johnson syndrome, hepatic enzyme elevations, fulminant hepatic failure, severe and disabling arthralgia, acute pancreatitis, diarrhea, constipation, nausea, and ileus [see Warnings and Precautions (5.2, 5.4, 5.5, 5.11)].
+Hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria and severe cutaneous adverse reactions, including Stevens-Johnson syndrome, hepatic enzyme elevations, fulminant hepatic failure, severe and disabling arthralgia, acute pancreatitis, diarrhea, constipation, nausea, and ileus [see Warnings and Precautions (5.2, 5.4, 5.5, 5.8)].

@@ -30,8 +30,8 @@ Glycemic Parameters at Week 26 for Alogliptin and Metformin Alone and in Combina
 | A1C (%)Intent-to-treat population using last observation on study prior to discontinuation of double-blind study medication or sulfonylurea rescue therapy for patients needing rescue | N=102 | N=104 | N=103 | N=108 | N=102 | N=111 |
 | Baseline (mean) | 8.5 | 8.4 | 8.5 | 8.4 | 8.5 | 8.4 |
 | Change from baseline (adjusted meanLeast squares means adjusted for treatment, geographic region and baseline value) | 0.1 | -0.6 | -0.7 | -1.1 | -1.2 | -1.6 |
-| Difference from metformin (adjusted mean with 95% confidence interval) | - | - | - | - | -0.6p<0.05 when compared to metformin and alogliptin alone (-0.9, -0.3) | -0.4 (-0.7, -0.2) |
-| Difference from alogliptin (adjusted mean with 95% confidence interval) | - | - | - | - | -0.7 (-1.0, -0.4) | -1.0 (-1.3, -0.7) |
+| Difference from metformin (adjusted mean with 95% confidence interval) | - | - | - | - | -0.6 (-0.9, -0.3) | -0.4 (-0.7, -0.2) |
+| Difference from alogliptin (adjusted mean with 95% confidence interval) | - | - | - | - | -0.7p<0.05 when compared to metformin and alogliptin alone (-1.0, -0.4) | -1.0 (-1.3, -0.7) |
 | % of Patients (n/N) achieving A1C <7%Compared using logistic regression | 4% (4/102) | 20% (21/104) | 27% (28/103) | 34% (37/108) | 47% (48/102) | 59% (66/111) |
 | FPG (mg/dL) | N=105 | N=106 | N=106 | N=110 | N=106 | N=112 |
 | Baseline (mean) | 187 | 177 | 180 | 181 | 176 | 185 |
@@ -66,12 +66,12 @@ Glycemic Parameters at Week 26 in a Placebo-Controlled Study of Alogliptin as Ad
 | A1C (%) | N=203 | N=103 |
 | Baseline (mean) | 7.9 | 8.0 |
 | Change from baseline (adjusted meanLeast squares means adjusted for treatment, baseline value, geographic region and baseline metformin dose.) | -0.6 | -0.1 |
-| Difference from placebo (adjusted mean with 95% confidence interval) | -0.5p<0.001 compared to placebo. (-0.7, -0.3) | - |
+| Difference from placebo (adjusted mean with 95% confidence interval) | -0.5p<0.001 compared to placebo. (-0.7, -0.3) | ˗ |
 | % of Patients (n/N) achieving A1C ≤7% | 44% (92/207) | 18% (19/104) |
 | FPG (mg/dL) | N=204 | N=104 |
 | Baseline (mean) | 172 | 180 |
 | Change from baseline (adjusted mean) | -17 | 0 |
-| Difference from placebo (adjusted mean with 95% confidence interval) | -17 (-26, -9) | - |
+| Difference from placebo (adjusted mean with 95% confidence interval) | -17 (-26, -9) | ˗ |
 
 Alogliptin Add-On Therapy in Patients with Type 2 Diabetes Inadequately Controlled on the Combination of Metformin and Pioglitazone
 
@@ -94,12 +94,12 @@ Glycemic Parameters at Week 52 in an Active-Controlled Study of Alogliptin as Ad
 | A1C (%) | N=397 | N=394 |
 | Baseline (mean) | 8.2 | 8.1 |
 | Change from baseline (adjusted meanLeast squares means adjusted for treatment, baseline value, geographic region and baseline metformin dose) | -0.7 | -0.3 |
-| Difference from pioglitazone 45 mg + metformin (adjusted mean with 95% confidence interval) | -0.4Noninferior and statistically superior to metformin + pioglitazone at the 0.025 one-sided significance level (-0.5, -0.3) | - |
+| Difference from pioglitazone 45 mg + metformin (adjusted mean with 95% confidence interval) | -0.4Noninferior and statistically superior to metformin + pioglitazone at the 0.025 one-sided significance level (-0.5, -0.3) | ˗ |
 | % of Patients (n/N) achieving A1C ≤7% | 33% (134/404)p<0.001 compared to pioglitazone 45 mg + metformin | 21% (85/399) |
 | Fasting Plasma Glucose (mg/dL) | N=399 | N=396 |
 | Baseline (mean) | 162 | 162 |
 | Change from baseline (adjusted mean) | -15 | -4 |
-| Difference from pioglitazone 45 mg + metformin (adjusted mean with 95% confidence interval) | -11 (-16, -6) | - |
+| Difference from pioglitazone 45 mg + metformin (adjusted mean with 95% confidence interval) | -11 (-16, -6) | ˗ |
 
 Cardiovascular Safety Trial
 
