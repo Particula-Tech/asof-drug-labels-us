@@ -15,17 +15,15 @@ SPIRIVA RESPIMAT Inhalation Spray is available in two dosage strengths, identifi
 To deliver the recommended dosage for COPD:
 
 - SPIRIVA RESPIMAT Inhalation Spray 2.5 mcg/actuation 60 metered actuations (NDC 0597-0100-61)
-- SPIRIVA RESPIMAT Inhalation Spray 2.5 mcg/actuation 28 metered actuations (NDC 0597-0100-31) (institutional pack)
 
 To deliver the recommended dosage for asthma:
 
 - SPIRIVA RESPIMAT Inhalation Spray 1.25 mcg/actuation 60 metered actuations (NDC 0597-0160-61)
-- SPIRIVA RESPIMAT Inhalation Spray 1.25 mcg/actuation 28 metered actuations (NDC 0597-0160-31) (institutional pack)
 
-The SPIRIVA RESPIMAT cartridge for each strength has a net fill weight of 4 grams and when used with the SPIRIVA RESPIMAT inhaler, is designed to deliver the labeled number of metered actuations (60 or 28) after preparation for use; which is, respectively, equivalent to 30 or 14 days of medication when used according to the Instructions for Use.
+The SPIRIVA RESPIMAT cartridge for each strength has a net fill weight of 4 grams and when used with the SPIRIVA RESPIMAT inhaler, is designed to deliver the labeled number of metered actuations after preparation for use.
 Each actuation from the SPIRIVA RESPIMAT inhaler delivers 1.25 or 2.5 mcg of tiotropium (equivalent to 1.562 or 3.124 mcg, respectively, of tiotropium bromide monohydrate) from the mouthpiece.
 
-When the labeled number of actuations (60 or 28) has been dispensed from the inhaler, the RESPIMAT locking mechanism will be engaged and no more actuations can be dispensed.
+When the labeled number of actuations has been dispensed from the inhaler, the RESPIMAT locking mechanism will be engaged and no more actuations can be dispensed.
 
 After assembly, the SPIRIVA RESPIMAT inhaler should be discarded at the latest 3 months after first use or when the locking mechanism is engaged, whichever comes first.
 

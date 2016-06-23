@@ -164,7 +164,7 @@ Improvements in morning and evening peak expiratory flow (PEF) were consistent w
 Examination of age, gender, smoking history, and serum IgE level subgroups did not identify differences in response among these subgroups.
 
 The improvement of lung function compared to placebo was maintained for 24 hours (Figure 2).
-The bronchodilator effects of SPIRIVA RESPIMAT 2.5 mcg were apparent after first dose; however, maximum bronchodilator effect took up to 4 to 8 weeks to be achieved.
+The bronchodilator effects of SPIRIVA RESPIMAT 2.5 mcg were apparent after first dose; however, maximum bronchodilator effect may take up to 4 to 8 weeks to be achieved.
 
 Figure 2 FEV1 Response over 24-Hours following 24-Weeks of Treatment, Trial 3
 

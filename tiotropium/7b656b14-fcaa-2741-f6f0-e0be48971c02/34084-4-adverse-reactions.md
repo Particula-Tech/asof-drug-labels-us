@@ -44,7 +44,7 @@ Table 1 Number Percentage) of COPD Patients Exposed to SPIRIVA RESPIMAT 5 mcg wi
 | Sinusitis | 103 (3.1) | 88 (2.7) |
 | *Adverse reactions include a grouping of similar terms |  |  |
 
-Other reactions that occurred in the SPIRIVA RESPIMAT 5 mcg group at an incidence of 1% to 3% and at a higher incidence rate on SPIRIVA RESPIMAT 5 mcg than on placebo included: Cardiac disorders: palpitations; Gastrointestinal disorders: constipation; gastroesophageal reflux disease; oropharyngeal candidiasis; Nervous system disorders: dizziness; Respiratory system disorders (Upper): dysphonia; Skin and subcutaneous tissue disorders: pruritus, rash; Renal and urinary disorders: urinary tract infection.
+Other reactions that occurred in the SPIRIVA RESPIMAT 5 mcg group at an incidence of 1% to 3% and at a higher incidence rate on SPIRIVA RESPIMAT 5 mcg than on placebo included: Cardiac disorders: palpitations; Gastrointestinal disorders: constipation, gastroesophageal reflux disease, oropharyngeal candidiasis; Nervous system disorders: dizziness; Respiratory system disorders (Upper): dysphonia; Skin and subcutaneous tissue disorders: pruritus, rash; Renal and urinary disorders: urinary tract infection.
 
 Less Common Adverse Reactions Among the adverse reactions observed in the clinical trials with an incidence of <1% and at a higher incidence rate on SPIRIVA RESPIMAT 5 mcg than on placebo were: dysphagia, gingivitis, intestinal obstruction including ileus paralytic, joint swelling, dysuria, urinary retention, epistaxis, laryngitis, angioedema, dry skin, skin infection, and skin ulcer.
 
@@ -68,7 +68,7 @@ Table 2 Number (Percentage) of Asthma Patients Exposed to SPIRIVA RESPIMAT 2.5 m
 |  | Headache | 30 (3.8) | 20 (2.7) |
 | *Adverse reactions include a grouping of similar terms |  |  |  |
 
-Other reactions that occurred in the SPIRIVA RESPIMAT 2.5 mcg group at an incidence of 1% to 2% and at a higher incidence rate on SPIRIVA RESPIMAT 2.5 mcg than on placebo included: Nervous system disorders: dizziness; Gastrointestinal disorders: oropharyngeal, candidiasis, diarrhea; Respiratory system disorders (Upper): cough, rhinitis allergic; Renal and urinary disorders: urinary tract infection; General disorders and administration site conditions: pyrexia; and Vascular disorders: hypertension.
+Other reactions that occurred in the SPIRIVA RESPIMAT 2.5 mcg group at an incidence of 1% to 2% and at a higher incidence rate on SPIRIVA RESPIMAT 2.5 mcg than on placebo included: Nervous system disorders: dizziness; Gastrointestinal disorders: oropharyngeal candidiasis, diarrhea; Respiratory system disorders (Upper): cough, rhinitis allergic; Renal and urinary disorders: urinary tract infection; General disorders and administration site conditions: pyrexia; and Vascular disorders: hypertension.
 
 Less Common Adverse Reactions Among the adverse reactions observed in the clinical trials with an incidence of 0.5% to <1% and at a higher incidence rate on SPIRIVA RESPIMAT 2.5 mcg than on placebo were: palpitations, dysphonia, acute tonsillitis, tonsillitis, rhinitis, herpes zoster, gastroesophageal reflux disease, oropharyngeal discomfort, abdominal pain upper, insomnia, hypersensitivity (including immediate reactions), angioedema, dehydration, arthralgia, muscle spasms, pain in extremity, chest pain, hepatic function abnormal, liver function test abnormal.
 
