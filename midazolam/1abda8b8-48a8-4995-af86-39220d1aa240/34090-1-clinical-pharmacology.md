@@ -38,7 +38,7 @@ In cardiac hemodynamic studies in adults, IV induction of general anesthesia wit
 Slow heart rates (less than 65/minute), particularly in patients taking propranolol for angina, tended to rise slightly; faster heart rates (e.g., 85/minute) tended to slow slightly.
 In pediatric patients, a comparison of IV midazolam (500 mcg/kg) with propofol (2.5 mg/kg) revealed a mean 15% decrease in systolic blood pressure in patients who had received IV midazolam vs a mean 25% decrease in systolic blood pressure following propofol.
 
-Pharmacokinetics:
+Pharmacokinetics
 
 Midazolam’s activity is primarily due to the parent drug.
 Elimination of the parent drug takes place via hepatic metabolism of midazolam to hydroxylated metabolites that are conjugated and excreted in the urine.
@@ -83,12 +83,12 @@ The effects of accumulation can be reduced by maintaining the lowest midazolam i
 Infrequent hypotensive episodes have occurred during continuous infusion; however, neither the time to onset nor the duration of the episode appeared to be related to plasma concentrations of midazolam or alpha-hydroxy-midazolam.
 Further, there does not appear to be an increased chance of occurrence of a hypotensive episode with increased loading doses.
 
-Patients with renal impairment may have longer elimination half-lives for midazolam (see CLINICAL PHARMACOLOGY, Special Populations: Renal Failure).
+Patients with renal impairment may have longer elimination half-lives for midazolam (see CLINICAL PHARMACOLOGY, Special Populations, Renal Failure).
 
-Special Populations:
+Special Populations
 
 Changes in the pharmacokinetic profile of midazolam due to drug interactions, physiological variables, etc., may result in changes in the plasma concentration-time profile and pharmacological response to midazolam in these patients.
-For example, patients with acute renal failure appear to have a longer elimination half-life for midazolam and may experience delayed recovery (see CLINICAL PHARMACOLOGY, Special Populations: Renal Failure).
+For example, patients with acute renal failure appear to have a longer elimination half-life for midazolam and may experience delayed recovery (see CLINICAL PHARMACOLOGY, Special Populations, Renal Failure).
 In other groups, the relationship between prolonged half-life and duration of effect has not been established.
 
 Pediatrics and Neonates: In pediatric patients aged 1 year and older, the pharmacokinetic properties following a single dose of midazolam reported in 10 separate studies of midazolam are similar to those in adults.

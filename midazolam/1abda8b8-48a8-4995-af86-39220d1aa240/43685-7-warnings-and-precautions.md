@@ -60,36 +60,28 @@ The neonate also has reduced and/or immature organ function and is also vulnerab
 
 # PRECAUTIONS
 
-## General:
-
-Intravenous doses of midazolam should be decreased for elderly and for debilitated patients (see WARNINGS and DOSAGE AND ADMINISTRATION).
+General: Intravenous doses of midazolam should be decreased for elderly and for debilitated patients (see WARNINGS and DOSAGE AND ADMINISTRATION).
 These patients will also probably take longer to recover completely after midazolam administration for the induction of anesthesia.
 
 Midazolam does not protect against the increase in intracranial pressure or against the heart rate rise and/or blood pressure rise associated with endotracheal intubation under light general anesthesia.
 
-Use with Other CNS Depressants:
-
-The efficacy and safety of midazolam in clinical use are functions of the dose administered, the clinical status of the individual patient, and the use of concomitant medications capable of depressing the CNS.
+Use with Other CNS Depressants: The efficacy and safety of midazolam in clinical use are functions of the dose administered, the clinical status of the individual patient, and the use of concomitant medications capable of depressing the CNS.
 Anticipated effects range from mild sedation to deep levels of sedation virtually equivalent to a state of general anesthesia where the patient may require external support of vital functions.
 Care must be taken to individualize and carefully titrate the dose of midazolam to the patient’s underlying medical/surgical conditions, administer to the desired effect being certain to wait an adequate time for peak CNS effects of both midazolam and concomitant medications, and have the personnel and size-appropriate equipment and facilities available for monitoring and intervention (see Boxed WARNING, WARNINGS and DOSAGE AND ADMINISTRATION).
 Practitioners administering midazolam must have the skills necessary to manage reasonably foreseeable adverse effects, particularly skills in airway management.
 For information regarding withdrawal (see DRUG ABUSE AND DEPENDENCE).
 
-## Information for Patients:
+Information for Patients: To assure safe and effective use of benzodiazepines, the following information and instructions should be communicated to the patient when appropriate:
 
-To assure safe and effective use of benzodiazepines, the following information and instructions should be communicated to the patient when appropriate:
-
-1. Inform your physician about any alcohol consumption and medicine you are now taking, especially blood pressure medication and antibiotics, including drugs you buy without a prescription.
+1. 1.Inform your physician about any alcohol consumption and medicine you are now taking, especially blood pressure medication and antibiotics, including drugs you buy without a prescription.
    Alcohol has an increased effect when consumed with benzodiazepines; therefore, caution should be exercised regarding simultaneous ingestion of alcohol during benzodiazepine treatment.
-2. Inform your physician if you are pregnant or are planning to become pregnant.
-3. Inform your physician if you are nursing.
-4. Patients should be informed of the pharmacological effects of midazolam, such as sedation and amnesia, which in some patients may be profound.
+2. 2.Inform your physician if you are pregnant or are planning to become pregnant.
+3. 3.Inform your physician if you are nursing.
+4. 4.Patients should be informed of the pharmacological effects of midazolam, such as sedation and amnesia, which in some patients may be profound.
    The decision as to when patients who have received injectable midazolam, particularly on an outpatient basis, may again engage in activities requiring complete mental alertness, operate hazardous machinery or drive a motor vehicle must be individualized.
-5. Patients receiving continuous infusion of midazolam in critical care settings over an extended period of time, may experience symptoms of withdrawal following abrupt discontinuation.
+5. 5.Patients receiving continuous infusion of midazolam in critical care settings over an extended period of time, may experience symptoms of withdrawal following abrupt discontinuation.
 
-## Drug Interactions:
-
-The sedative effect of intravenous midazolam is accentuated by any concomitantly administered medication, which depresses the central nervous system, particularly narcotics (e.g., morphine, meperidine and fentanyl) and also secobarbital and droperidol.
+Drug Interactions: The sedative effect of intravenous midazolam is accentuated by any concomitantly administered medication, which depresses the central nervous system, particularly narcotics (e.g., morphine, meperidine and fentanyl) and also secobarbital and droperidol.
 Consequently, the dosage of midazolam should be adjusted according to the type and amount of concomitant medications administered and the desired clinical response (see DOSAGE AND ADMINISTRATION).
 
 Caution is advised when midazolam is administered concomitantly with drugs that are known to inhibit the P450-3A4 enzyme system such as cimetidine (not ranitidine), erythromycin, diltiazem, verapamil, ketoconazole and itraconazole.
@@ -125,11 +117,9 @@ No significant adverse interactions with commonly used premedications or drugs u
 In neonates, however, severe hypotension has been reported with concomitant administration of fentanyl.
 This effect has been observed in neonates on an infusion of midazolam who received a rapid injection of fentanyl and in patients on an infusion of fentanyl who have received a rapid injection of midazolam.
 
-## Drug/Laboratory Test Interactions:
+Drug/Laboratory Test Interactions: Midazolam has not been shown to interfere with results obtained in clinical laboratory tests.
 
-Midazolam has not been shown to interfere with results obtained in clinical laboratory tests.
-
-## Carcinogenesis, Mutagenesis, Impairment of Fertility:
+Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Carcinogenesis: Midazolam maleate was administered with diet in mice and rats for 2 years at dosages of 1, 9 and 80 mg/kg/day.
 In female mice in the highest dose group there was a marked increase in the incidence of hepatic tumors.
@@ -142,7 +132,7 @@ Mutagenesis: Midazolam did not have mutagenic activity in Salmonella typhimurium
 
 Impairment of Fertility: A reproduction study in male and female rats did not show any impairment of fertility at dosages up to 10 times the human IV dose of 0.35 mg/kg.
 
-## Pregnancy:
+Pregnancy
 
 Teratogenic Effects: Pregnancy Category D (see WARNINGS).
 
@@ -151,7 +141,7 @@ Segment II teratology studies, performed with midazolam maleate injectable in ra
 Nonteratogenic Effects: Studies in rats showed no adverse effects on reproductive parameters during gestation and lactation.
 Dosages tested were approximately 10 times the human dose of 0.35 mg/kg.
 
-## Labor and Delivery:
+Labor and Delivery
 
 In humans, measurable levels of midazolam were found in maternal venous serum, umbilical venous and arterial serum and amniotic fluid, indicating placental transfer of the drug.
 Following intramuscular administration of 0.05 mg/kg of midazolam, both the venous and the umbilical arterial serum concentrations were lower than maternal concentrations.
@@ -159,12 +149,12 @@ Following intramuscular administration of 0.05 mg/kg of midazolam, both the veno
 The use of injectable midazolam in obstetrics has not been evaluated in clinical studies.
 Because midazolam is transferred transplacentally and because other benzodiazepines given in the last weeks of pregnancy have resulted in neonatal CNS depression, midazolam is not recommended for obstetrical use.
 
-## Nursing Mothers:
+Nursing Mothers
 
 Midazolam is excreted in human milk.
 Caution should be exercised when midazolam is administered to a nursing woman.
 
-## Pediatric Use:
+Pediatric Use
 
 The safety and efficacy of midazolam for sedation/anxiolysis/amnesia following single dose intramuscular administration, intravenously by intermittent injections and continuous infusion have been established in pediatric and neonatal patients.
 For specific safety monitoring and dosage guidelines see Boxed WARNING, CLINICAL PHARMACOLOGY, INDICATIONS AND USAGE, WARNINGS, PRECAUTIONS, ADVERSE REACTIONS, OVERDOSAGE and DOSAGE AND ADMINISTRATION.
@@ -178,7 +168,7 @@ The health care practitioner who uses this medication in pediatric patients shou
 Midazolam should not be administered by rapid injection in the neonatal population.
 Severe hypotension and seizures have been reported following rapid IV administration, particularly, with concomitant use of fentanyl.
 
-## Geriatric Use:
+Geriatric Use
 
 Because geriatric patients may have altered drug distribution and diminished hepatic and/or renal function, reduced doses of midazolam are recommended.
 Intravenous and intramuscular doses of midazolam should be decreased for elderly and for debilitated patients (see WARNINGS and DOSAGE AND ADMINISTRATION) and subjects over 70 years of age may be particularly sensitive.

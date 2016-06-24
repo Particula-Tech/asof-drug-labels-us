@@ -1,4 +1,4 @@
-WARNING
+# WARNING
 
 Adult and Pediatric: Intravenous midazolam has been associated with respiratory depression and respiratory arrest, especially when used for sedation in noncritical care settings.
 In some cases, where this was not recognized promptly and treated effectively, death or hypoxic encephalopathy has resulted.
