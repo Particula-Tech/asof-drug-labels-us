@@ -1,3 +1,1 @@
-Injection, USP
-
-Rx only
+Heparin Sodium Rx only Injection, USP
