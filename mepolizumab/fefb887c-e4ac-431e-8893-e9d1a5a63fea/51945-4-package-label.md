@@ -30,5 +30,5 @@ Do not accept if plastic overseal is missing or not securely fitted.
 
 ©2015 the GSK group of companies
 
-- 10000000138268 Rev.
-  11/15
+1. 10000000138268 Rev.
+   11/15

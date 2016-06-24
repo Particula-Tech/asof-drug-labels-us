@@ -8,5 +8,5 @@
 | General information about the safe and effective use of NUCALA.Medicines are sometimes prescribed for purposes other than those listed in a Patient Information Leaflet. You can ask your pharmacist or healthcare provider for information about NUCALA that is written for health professionals. |
 | What are the ingredients in NUCALA?Active Ingredient: mepolizumab.Inactive Ingredients: polysorbate 80, sodium phosphate dibasic heptahydrate, and sucrose.For more information, call GlaxoSmithKline (GSK) at 1-888-825-5249 or visit www.NUCALA.com. NUCALA is a trademark of the GSK group of companies.Manufactured by:GlaxoSmithKline LLC, Philadelphia, PA 19112, U.S. License No. 1727Distributed by:GlaxoSmithKline, Research Triangle Park, NC 27709 ©2015 the GSK group of companies. All rights reserved.NCL:1PIL |
 
-- This Patient Information has been approved by the U.S. Food and Drug Administration.
-  Approved: November 2015
+1. This Patient Information has been approved by the U.S. Food and Drug Administration.
+   Approved: November 2015
