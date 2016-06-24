@@ -4,7 +4,7 @@
 
 NDC 0093-7701-98
 
-LEVOCETIRIZINE DIHYDROCHLORIDE Tablets 5 mg
+Levocetirizine Dihydrochloride Tablets 5 mg
 
 Rx only
 

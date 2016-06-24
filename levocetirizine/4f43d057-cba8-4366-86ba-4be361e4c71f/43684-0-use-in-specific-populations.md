@@ -44,7 +44,7 @@ In general, dose selection for an elderly patient should be cautious, usually st
 ## 8.6 Renal Impairment
 
 Levocetirizine dihydrochloride is known to be substantially excreted by the kidneys and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection and it may be useful to monitor renal function [see Dosage and Administration (2) andClinical Pharmacology (12.3)].
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection and it may be useful to monitor renal function [see Dosage and Administration (2) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 

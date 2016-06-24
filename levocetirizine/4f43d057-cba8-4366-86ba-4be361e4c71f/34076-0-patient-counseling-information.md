@@ -19,13 +19,13 @@ Manufactured In Israel By:
 TEVA PHARMACEUTICAL IND.
 LTD.
 
-Jerusalem, 91010, Israel
+Jerusalem, 9777402, Israel
 
 Manufactured For:
 
-TEVA PHARMACEUTICALS USA
+TEVA PHARMACEUTICALS USA, INC.
 
-Sellersville, PA 18960
+North Wales, PA 19454
 
 Rev.
-H 11/2013
+I 12/2015
