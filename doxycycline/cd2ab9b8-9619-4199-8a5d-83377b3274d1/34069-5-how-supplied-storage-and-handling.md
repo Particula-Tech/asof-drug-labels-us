@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Doxycycline hyclate delayed-release tablets, USP, 50 mg are white, oval scored tablets containing yellow pellets and debossed with "DV" on one face and plain on the other.
+Doxycycline hyclate delayed-release tablets, USP, 50 mg are white, oval tablets containing yellow pellets and debossed with "DV" on one face and plain on the other.
 Each tablet contains specially coated pellets of doxycycline hyclate equivalent to 50 mg of doxycycline.
 
 Bottles of 120 tablets: NDC 51862-709-12
