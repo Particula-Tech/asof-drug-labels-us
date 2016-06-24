@@ -40,3 +40,15 @@ Renal Function and Other Hematologic Parameters Monitoring Inform patients that 
 Severe and Disabling Arthralgia Inform patients that severe and disabling joint pain may occur with this class of drugs.
 The time to onset of symptoms can range from one day to years.
 Instruct patients to seek medical advice if severe joint pain occurs [see Warnings and Precautions (5.10)].
+
+Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
+
+Marketed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA and Eli Lilly and Company Indianapolis, IN 46285 USA
+
+Licensed from: Boehringer Ingelheim International GmbH, Ingelheim, Germany
+
+Copyright © 2015 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+
+IT5571MH182015 300661-07
+
+IT5645J 302118-07

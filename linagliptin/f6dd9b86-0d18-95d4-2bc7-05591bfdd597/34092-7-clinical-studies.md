@@ -39,7 +39,7 @@ Table 6 Glycemic Parameters at Final Visit (24-Week Study) for Linagliptin and M
 | Difference from placebo (adjusted mean) (95% CI) | -- | -19 (-31, -6) | -26 (-38, -14) | -43 (-56, -31) | -42 (-55, -30) | -60 (-72, -47) |
 | *Total daily dose of linagliptin is equal to 5 mg **Full analysis population using last observation on study ***Metformin 500 mg twice daily, n=140; Linagliptin 2.5 mg twice daily + Metformin 500 twice daily, n=136; Metformin 1000 mg twice daily, n=137; Linagliptin 2.5 mg twice daily + Metformin 1000 mg twice daily, n=138 ****HbA1c: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates. |  |  |  |  |  |  |
 
-Figure 1 Adjusted Mean Change from Baseline for A1C (%) over 24 Weeks with Linagliptin and Metformin, Alone and in Combination in Patients with Type 2 Diabetes Mellitus Inadequately Controlled with Diet and Exercise - FAS completers
+Figure 1 Adjusted Mean Change from Baseline for A1C (%) over 24 Weeks with Linagliptin and Metformin, Alone and in Combination in Patients with Type 2 Diabetes Mellitus Inadequately Controlled with Diet and Exercise - FAS completers.
 
 ## 14.2 Initial Combination Therapy with Linagliptin and Metformin vs Linagliptin in Treatment-Naïve Patients
 
