@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 12.5 mg Vial Carton
+# PRINCIPAL DISPLAY PANEL - 12.5 mg Kit Carton
 
 12.5 mg Dose Pack
 
@@ -6,9 +6,7 @@ Store Package in Refrigerator (see bottom panel for storage conditions)
 
 NDC 50458-309-11
 
-Risperdal CONSTA® risperiDONE Long-Acting Injection
-
-NEW COMPONENTS AND INSTRUCTIONS FOR USE
+RisperdalCONSTA® risperiDONE Long-Acting Injection
 
 DOSE PACK CONTENTS:
 
@@ -24,7 +22,7 @@ Rx only Single use only
 
 For deltoid or gluteal intramuscular injection only PLEASE READ COMPLETE INSTRUCTIONS PRIOR TO USE.
 
-# PRINCIPAL DISPLAY PANEL - 25 mg Vial Carton
+# PRINCIPAL DISPLAY PANEL - 25 mg Kit Carton
 
 25 mg Dose Pack
 
@@ -32,9 +30,7 @@ Store Package in Refrigerator (see bottom panel for storage conditions)
 
 NDC 50458-306-11
 
-Risperdal CONSTA® risperiDONE Long-Acting Injection
-
-NEW COMPONENTS AND INSTRUCTIONS FOR USE
+RisperdalCONSTA® risperiDONE Long-Acting Injection
 
 DOSE PACK CONTENTS:
 
@@ -50,7 +46,7 @@ Rx only Single use only
 
 For deltoid or gluteal intramuscular injection only PLEASE READ COMPLETE INSTRUCTIONS PRIOR TO USE.
 
-# PRINCIPAL DISPLAY PANEL - 37.5 mg Vial Carton
+# PRINCIPAL DISPLAY PANEL - 37.5 mg Kit Carton
 
 37.5 mg Dose Pack
 
@@ -58,9 +54,7 @@ Store Package in Refrigerator (see bottom panel for storage conditions)
 
 NDC 50458-307-11
 
-Risperdal CONSTA® risperiDONE Long-Acting Injection
-
-NEW COMPONENTS AND INSTRUCTIONS FOR USE
+RisperdalCONSTA® risperiDONE Long-Acting Injection
 
 DOSE PACK CONTENTS:
 
@@ -76,7 +70,7 @@ Rx only Single use only
 
 For deltoid or gluteal intramuscular injection only PLEASE READ COMPLETE INSTRUCTIONS PRIOR TO USE.
 
-# PRINCIPAL DISPLAY PANEL - 50 mg Vial Carton
+# PRINCIPAL DISPLAY PANEL - 50 mg Kit Carton
 
 50 mg Dose Pack
 
@@ -84,9 +78,7 @@ Store Package in Refrigerator (see bottom panel for storage conditions)
 
 NDC 50458-308-11
 
-Risperdal CONSTA® risperiDONE Long-Acting Injection
-
-NEW COMPONENTS AND INSTRUCTIONS FOR USE
+RisperdalCONSTA® risperiDONE Long-Acting Injection
 
 DOSE PACK CONTENTS:
 
