@@ -4,9 +4,9 @@ Vibramycin is an antibacterial drug synthetically derived from oxytetracycline, 
 
 The structural formula of doxycycline monohydrate is
 
-with a molecular formula of C22H24N2O8•H2O and a molecular weight of 462.46.
+with a molecular formula of C22H24N2O8∙H2O and a molecular weight of 462.46.
 The chemical designation for doxycycline is 4-(Dimethylamino)-1,4,4a,5,5a,6,11,12a-octahydro-3,5,10,12,12a-pentahydroxy-6-methyl-1,11-dioxo-2-naphthacenecarboxamide monohydrate.
-The molecular formula for doxycycline hydrochloride hemiethanolate hemihydrate is (C22H24N2O8•HCl)2•C2H6O•H2O and the molecular weight is 1025.89.
+The molecular formula for doxycycline hydrochloride hemiethanolate hemihydrate is (C22H24N2O8∙HCl)2∙C2H6O∙H2O and the molecular weight is 1025.89.
 Doxycycline is a light-yellow crystalline powder.
 Doxycycline hyclate is soluble in water, while doxycycline monohydrate is very slightly soluble in water.
 
