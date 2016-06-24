@@ -20,7 +20,9 @@ THE DOSAGES REPORTED IN PUBLISHED STUDIES UTILIZED GENERAL-USE PVC ADMINISTRATIO
 
 # PRECAUTIONS
 
-General: Severe hypotension and shock may occur with even small doses of nitroglycerin.
+## General:
+
+Severe hypotension and shock may occur with even small doses of nitroglycerin.
 This drug should therefore be used with caution in patients who may be volume depleted or who, for whatever reason, are already hypotensive.
 Hypotension induced by nitroglycerin may be accompanied by paradoxical bradycardia and increased angina pectoris.
 
@@ -42,9 +44,13 @@ Nitroglycerin infusions should be administered only via a pump that can maintain
 
 Intracoronary injection of nitroglycerin infusions has not been studied.
 
-Laboratory Tests: Because of the propylene glycol content of intravenous nitroglycerin, serum triglyceride assays that rely on glycerol oxidase may give falsely elevated results in patients receiving this medication.
+## Laboratory Tests:
 
-Drug Interactions: The vasodilating effects of nitroglycerin may be additive with those of other vasodilators.
+Because of the propylene glycol content of intravenous nitroglycerin, serum triglyceride assays that rely on glycerol oxidase may give falsely elevated results in patients receiving this medication.
+
+## Drug Interactions:
+
+The vasodilating effects of nitroglycerin may be additive with those of other vasodilators.
 
 Administration of nitroglycerin infusions through the same infusion set as blood can result in pseudoagglutination and hemolysis.
 More generally, nitroglycerin in 5% dextrose or sodium chloride 0.9% should not be mixed with any other medication of any kind.
@@ -52,7 +58,9 @@ More generally, nitroglycerin in 5% dextrose or sodium chloride 0.9% should not 
 Intravenous nitroglycerin interferes, at least in some patients, with the anticoagulant effect of heparin.
 In patients receiving intravenous nitroglycerin, concomitant heparin therapy should be guided by frequent measurement of the activated partial thromboplastin time.
 
-Carcinogenesis, Mutagenesis, Impairment of Fertility: Animal carcinogenesis studies with injectable nitroglycerin have not been performed.
+## Carcinogenesis, Mutagenesis, Impairment of Fertility:
+
+Animal carcinogenesis studies with injectable nitroglycerin have not been performed.
 
 Rats receiving up to 434 mg/kg/day of dietary nitroglycerin for 2 years developed dose-related fibrotic and neoplastic changes in liver, including carcinomas, and interstitial cell tumors in testes.
 At high doses, the incidences of hepatocellular carcinomas in both sexes were 52% vs. 0% in controls, and incidences of testicular tumors were 52% vs. 8% in controls.
@@ -67,13 +75,19 @@ No specific effect on the fertility of the F0 generation was seen.
 Infertility noted in subsequent generations, however, was attributed to increased interstitial cell tissue and aspermatogenesis in the high dose males.
 In this three-generation study there was no clear evidence of teratogenicity.
 
-Pregnancy: Pregnancy Category C: Animal teratology studies have not been conducted with nitroglycerin injection.
+## Pregnancy: Pregnancy Category C:
+
+Animal teratology studies have not been conducted with nitroglycerin injection.
 Teratology studies in rats and rabbits, however, were conducted with topically applied nitroglycerin ointment at doses up to 80 mg/kg/day and 240 mg/kg/day, respectively.
 No toxic effects on dams or fetuses were seen at any dose tested.
 There are no adequate and well-controlled studies in pregnant women.
 Nitroglycerin should be given to a pregnant woman only if clearly needed.
 
-Nursing Mothers: It is not known whether nitroglycerin is excreted in human milk.
+## Nursing Mothers:
+
+It is not known whether nitroglycerin is excreted in human milk.
 Because many drugs are excreted in human milk, caution should be exercised when nitroglycerin is administered to a nursing woman.
 
-Pediatric Use: Safety and effectiveness in children have not been established.
+## Pediatric Use:
+
+Safety and effectiveness in children have not been established.

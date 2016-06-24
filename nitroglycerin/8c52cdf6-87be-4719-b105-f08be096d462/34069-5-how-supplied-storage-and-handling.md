@@ -1,4 +1,6 @@
-HOW SUPPLIED: Nitroglycerin Injection, USP, 5 mg/mL is available as follows:
+# HOW SUPPLIED:
+
+Nitroglycerin Injection, USP, 5 mg/mL is available as follows:
 
 | NDC 0517-4810-25 | 50 mg/10 mL Single Dose Vial | Packages of 25 |
 | --- | --- | --- |

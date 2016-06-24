@@ -13,7 +13,9 @@ In the large majority of these trials, active agents were indistinguishable from
 Attempts to overcome nitrate tolerance by dose escalation, even to doses far in excess of those used acutely, have consistently failed.
 Only after nitrates have been absent from the body for several hours has their anti-anginal efficacy been restored.
 
-Pharmacokinetics: The volume of distribution of nitroglycerin is about 3 L/kg, and nitroglycerin is cleared from this volume at extremely rapid rates, with a resulting serum half-life of about 3 minutes.
+## Pharmacokinetics:
+
+The volume of distribution of nitroglycerin is about 3 L/kg, and nitroglycerin is cleared from this volume at extremely rapid rates, with a resulting serum half-life of about 3 minutes.
 The observed clearance rates (close to 1 L/kg/min) greatly exceed hepatic blood flow; known sites of extrahepatic metabolism include red blood cells and vascular walls.
 
 The first products in the metabolism of nitroglycerin are inorganic nitrate and the 1,2- and 1,3- dinitroglycerols.
@@ -23,7 +25,9 @@ The dinitrates are further metabolized to (non-vasoactive) mononitrates and, ult
 To avoid development of tolerance to nitroglycerin, drug-free intervals of 10-12 hours are known to be sufficient; shorter intervals have not been well studied.
 In one well-controlled clinical trial, subjects receiving nitroglycerin appeared to exhibit a rebound or withdrawal effect, so that their exercise tolerance at the end of the daily drug-free interval was less than that exhibited by the parallel group receiving placebo.
 
-Clinical Trials: Blinded, placebo-controlled trials of intravenous nitroglycerin have not been reported, but multiple investigators have reported open-label studies, and there are scattered reports of studies in which intravenous nitroglycerin was tested in blinded fashion against sodium nitroprusside.
+## Clinical Trials:
+
+Blinded, placebo-controlled trials of intravenous nitroglycerin have not been reported, but multiple investigators have reported open-label studies, and there are scattered reports of studies in which intravenous nitroglycerin was tested in blinded fashion against sodium nitroprusside.
 
 In each of these studies, therapeutic doses of intravenous nitroglycerin were found to reduce systolic and diastolic arterial blood pressure.
 The heart rate was usually increased, presumably as a reflexive response to the fall in blood pressure.
