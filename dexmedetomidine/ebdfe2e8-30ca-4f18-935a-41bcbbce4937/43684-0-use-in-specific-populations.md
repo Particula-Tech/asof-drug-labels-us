@@ -4,7 +4,7 @@
 
 ### Teratogenic Effects. Pregnancy Category C
 
-There are no adequate and well controlled studies of dexmedetomidine hydrochloride injection use in pregnant women.
+There are no adequate and well-controlled studies of dexmedetomidine hydrochloride injection use in pregnant women.
 In an in vitro human placenta study, placental transfer of dexmedetomidine occurred.
 In a study in the pregnant rat, placental transfer of dexmedetomidine was observed when radiolabeled dexmedetomidine was administered subcutaneously.
 Thus, fetal exposure should be expected in humans, and dexmedetomidine hydrochloride injection should be used during pregnancy only if the potential benefits justify the potential risk to the fetus.
@@ -22,7 +22,7 @@ The safety of dexmedetomidine hydrochloride injection during labor and delivery 
 ## 8.3 Nursing Mothers
 
 It is not known whether dexmedetomidine hydrochloride is excreted in human milk.
-Radiolabeled dexmedetomidine administered subcutaneously to lactating female rats was excreted in milk.
+Radio-labeled dexmedetomidine administered subcutaneously to lactating female rats was excreted in milk.
 Because many drugs are excreted in human milk, caution should be exercised when dexmedetomidine hydrochloride injection is administered to a nursing woman.
 
 ## 8.4 Pediatric Use

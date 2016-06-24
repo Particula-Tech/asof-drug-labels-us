@@ -36,7 +36,7 @@ Table 2: Adverse Reactions With an Incidence > 2% - Procedural Sedation Populati
 | HypoxiaHypoxia was defined in absolute and relative terms as SpO2 < 90% or 10% decrease from baseline. | 2% | 3% |
 | Bradypnea | 2% | 4% |
 
-## 6.2 Post-Marketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post approval use of dexmedetomidine hydrochloride injection.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -53,11 +53,11 @@ Table 3: Adverse Reactions Experienced During Post-Approval Use of Dexmedetomidi
 | Gastrointestinal Disorders | Abdominal pain, diarrhea, nausea, vomiting |
 | General Disorders and Administration Site Conditions | Chills, hyperpyrexia, pain, pyrexia, thirst |
 | Hepatobiliary Disorders | Hepatic function abnormal, hyperbilirubinemia |
-| Investigations | Alanine aminotransferase increased, aspartate aminotransferase increased, blood alkaline phosphatase increased, blood urea increased, electrocardiogram T wave inversion, gammaglutamyltransferase increased |
-| Metabolism and Nutrition Disorders | Acidosis, hyperkalemia, hypoglycemia, hypovolemia |
+| Investigations | Alanine aminotransferase increased, aspartate aminotransferase increased, blood alkaline phosphatase increased, blood urea increased, electrocardiogram T wave inversion, gammaglutamyltransferase increased, electrocardiogram QT prolonged |
+| Metabolism and Nutrition Disorders | Acidosis, hyperkalemia, hypoglycemia, hypovolemia, hypernatremia |
 | Nervous System Disorders | Convulsion, dizziness, headache, neuralgia, neuritis, speech disorder |
 | Psychiatric Disorders | Agitation, confusional state, delirium, hallucination, illusion |
-| Renal and Urinary Disorders | Oliguria |
+| Renal and Urinary Disorders | Oliguria, polyuria |
 | Respiratory, Thoracic and Mediastinal Disorders | Apnea, bronchospasm, dyspnea, hypercapnia, hypoventilation, hypoxia, pulmonary congestion, respiratory acidosis |
 | Skin and Subcutaneous Tissue Disorders | Hyperhidrosis |
 | Surgical and Medical Procedures | Light anesthesia |
