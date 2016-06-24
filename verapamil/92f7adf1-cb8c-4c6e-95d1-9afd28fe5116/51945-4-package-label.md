@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 120 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 120 mg Capsule Bottle Label
 
 NDC 62175-580-37 100 capsules
 
@@ -10,7 +10,7 @@ sustained-release pellet filled capsules
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 180 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 180 mg Capsule Bottle Label
 
 NDC 62175-581-37 100 capsules
 
@@ -22,7 +22,7 @@ sustained-release pellet filled capsules
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 240 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 240 mg Capsule Bottle Label
 
 NDC 62175-582-37 100 capsules
 
@@ -34,7 +34,7 @@ sustained-release pellet filled capsules
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 360 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 360 mg Capsule Bottle Label
 
 NDC 62175-583-37 100 capsules
 
