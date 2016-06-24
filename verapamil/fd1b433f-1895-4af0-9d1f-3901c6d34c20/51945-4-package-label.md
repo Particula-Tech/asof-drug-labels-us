@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 100 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 100 mg Capsule Bottle Label
 
 NDC 62175-570-37 100 capsules
 
@@ -10,7 +10,7 @@ Verelan® PM
 
 Rx only
 
-PRINCIPAL DISPLAY PANEL - 200 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 200 mg Capsule Bottle Label
 
 NDC 62175-571-37 100 capsules
 
@@ -22,7 +22,7 @@ Verelan® PM
 
 Rx only
 
-PRINCIPAL DISPLAY PANEL - 300 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 300 mg Capsule Bottle Label
 
 NDC 62175-572-37 100 capsules
 

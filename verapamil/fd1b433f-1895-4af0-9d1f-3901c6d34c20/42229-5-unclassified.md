@@ -1,8 +1,8 @@
 Distributed by:
 
-Kremers Urban Pharmaceuticals Inc.
+Kremers Urban Pharmaceuticals Inc., a subsidiary of Lannett Company, Inc.
 
-Princeton, NJ 08540, USA
+Seymour, IN 47274, USA
 
 Manufactured by:
 
@@ -12,5 +12,5 @@ Verelan® is a registered trademark of Recro Technology LLC CODAS® is a registe
 
 Printed in USA
 
-Material Code: 6002421-02 Rev.
-04/2015
+Material Code: 6002421-03 Rev.
+01/2016
