@@ -79,8 +79,6 @@ If more than 6 hours have elapsed, they should be instructed to skip the dose fo
 The next day, they should take AFINITOR at the usual time.
 Warn patients to not take 2 doses to make up for the one that they missed.
 
-Manufactured by: Novartis Pharma Stein AG Stein, Switzerland
-
 Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
-T2016-26 February 2016
+T2016-51 June 2016

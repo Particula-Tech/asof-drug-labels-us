@@ -32,8 +32,8 @@ Studies in healthy subjects indicate that there are no clinically significant ph
 
 A study in healthy subjects demonstrated that co-administration of an oral dose of midazolam (sensitive CYP3A4 substrate) with everolimus resulted in a 25% increase in midazolam Cmax and a 30% increase in midazolam AUC(0-inf).
 
-Coadministration of everolimus and exemestane increased exemestane Cmin by 45% and C2h by 64%.
+Co-administration of everolimus and exemestane increased exemestane Cmin by 45% and C2h by 64%.
 However, the corresponding estradiol levels at steady state (4 weeks) were not different between the 2 treatment arms.
 No increase in adverse events related to exemestane was observed in patients with hormone receptor-positive, HER2-negative advanced breast cancer receiving the combination.
 
-Coadministration of everolimus and depot octreotide increased octreotide Cmin by approximately 50%.
+Co-administration of everolimus and depot octreotide increased octreotide Cmin by approximately 50%.

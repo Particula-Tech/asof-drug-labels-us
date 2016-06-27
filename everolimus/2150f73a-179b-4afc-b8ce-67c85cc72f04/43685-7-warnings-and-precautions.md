@@ -3,7 +3,7 @@
 ## 5.1 Non-infectious Pneumonitis
 
 Non-infectious pneumonitis is a class effect of rapamycin derivatives, including AFINITOR.
-Non-infectious pneumonitis was reported in up to 19% of patients treated with AFINITOR in clinical trials.
+Non-infectious pneumonitis was reported in up to 19% of patients treated with AFINITOR in clinical trials, some cases reported with pulmonary hypertension (including pulmonary arterial hypertension) as a secondary event.
 The incidence of Common Terminology Criteria (CTC) Grade 3 and 4 non-infectious pneumonitis was up to 4.0% and up to 0.2%, respectively [see Adverse Reactions (6.1, 6.2, 6.3, 6.4, 6.5)].
 Fatal outcomes have been observed.
 
@@ -18,7 +18,7 @@ If symptoms are moderate, consider interrupting therapy until symptoms improve.
 The use of corticosteroids may be indicated.
 AFINITOR may be reintroduced at a daily dose approximately 50% lower than the dose previously administered [see Table 1 in Dosage and Administration (2.2)].
 
-For cases of Grade 3 non-infectious pneumonitis interrupt AFINITOR until resolution to less than or equal to Grade 1.
+For cases of Grade 3 non-infectious pneumonitis, interrupt AFINITOR until resolution to less than or equal to Grade 1.
 AFINITOR may be re-introduced at a daily dose approximately 50% lower than the dose previously administered depending on the individual clinical circumstances [see Dosage and Administration (2.2)].
 If toxicity recurs at Grade 3, consider discontinuation of AFINITOR.
 For cases of Grade 4 non-infectious pneumonitis, discontinue AFINITOR.

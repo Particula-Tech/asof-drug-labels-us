@@ -19,7 +19,7 @@ Animal Data
 
 In animal reproductive studies, oral administration of everolimus to female rats before mating and through organogenesis induced embryo-fetal toxicities, including increased resorption, pre-implantation and post-implantation loss, decreased numbers of live fetuses, malformation (e.g., sternal cleft), and retarded skeletal development.
 These effects occurred in the absence of maternal toxicities.
-Embryo-fetal toxicities in rats occurred at doses ≥ 0.1 mg/kg (0.6 mg/m2) with resulting exposures of approximately 4% of the exposure (AUC0-24h) achieved in patients receiving the 10 mg daily dose of everolimus.
+Embryo-fetal toxicities in rats occurred at doses ≥0.1 mg/kg (0.6 mg/m2) with resulting exposures of approximately 4% of the exposure (AUC0-24h) achieved in patients receiving the 10 mg daily dose of everolimus.
 In rabbits, embryotoxicity evident as an increase in resorptions occurred at an oral dose of 0.8 mg/kg (9.6 mg/m2), approximately 1.6 times either the 10 mg daily dose or the median dose administered to SEGA patients on a body surface area basis.
 The effect in rabbits occurred in the presence of maternal toxicities.
 
@@ -66,31 +66,32 @@ The effectiveness of AFINITOR in pediatric patients with SEGA was demonstrated i
 
 Study 1 was a randomized, double-blind, multicenter trial comparing AFINITOR (n=78) to placebo (n=39) in pediatric and adult patients.
 The median age was 9.5 years (range 0.8 to 26 years).
-At the time of randomization, a total of 20 patients were < 3 years of age, 54 patients were 3 to < 12 years of age, 27 patients were 12 to < 18 years of age, and 16 patients were ≥ 18 years of age.
-The overall nature, type, and frequency of adverse reactions across the age groups evaluated were similar, with the exception of a higher per patient incidence of infectious serious adverse events in patients < 3 years of age.
-A total of 6 of 13 patients (46%) < 3 years of age had at least 1 serious adverse event due to infection, compared to 2 of 7 patients (29%) treated with placebo.
+At the time of randomization, a total of 20 patients were <3 years of age, 54 patients were 3 to <12 years of age, 27 patients were 12 to <18 years of age, and 16 patients were ≥18 years of age.
+The overall nature, type, and frequency of adverse reactions across the age groups evaluated were similar, with the exception of a higher per patient incidence of infectious serious adverse events in patients <3 years of age.
+A total of 6 of 13 patients (46%) <3 years of age had at least 1 serious adverse event due to infection, compared to 2 of 7 patients (29%) treated with placebo.
 No patient in any age group discontinued AFINITOR due to infection [see Adverse Reactions (6.5)].
 Subgroup analyses showed reduction in SEGA volume with AFINITOR treatment in all pediatric age subgroups.
 
-Study 2 was an open-label, single-arm, single-center trial of AFINITOR (N=28) in patients aged ≥ 3 years; median age was 11 years (range 3 to 34 years).
-A total of 16 patients were 3 to < 12 years, 6 patients were 12 to < 18 years, and 6 patients were ≥ 18 years.
+Study 2 was an open-label, single-arm, single-center trial of AFINITOR (N=28) in patients aged ≥3 years; median age was 11 years (range 3 to 34 years).
+A total of 16 patients were 3 to <12 years, 6 patients were 12 to <18 years, and 6 patients were ≥ 18 years.
 The frequency of adverse reactions across the age groups was generally similar [see Adverse Reactions (6.5)].
 Subgroup analyses showed reductions in SEGA volume with AFINITOR treatment in all pediatric age subgroups.
 
 Although a conclusive determination cannot be made due to the limited number of patients and lack of a comparator arm in the open label follow-up periods of Study 1 and Study 2, AFINITOR did not appear to adversely impact growth and pubertal development in the 115 pediatric patients treated with AFINITOR for a median duration of 4.1 years.
 
-Everolimus clearance normalized to body surface area was higher in pediatric patients than in adults with SEGA [see Clinical Pharmacology (12.3)].The recommended starting dose and subsequent requirement for therapeutic drug monitoring to achieve and maintain trough concentrations of 5 to 15 ng/mL are the same for adult and pediatric patients with SEGA [see Dosage and Administration (2.3, 2.4)].
+Everolimus clearance normalized to body surface area was higher in pediatric patients than in adults with SEGA [see Clinical Pharmacology (12.3)].
+The recommended starting dose and subsequent requirement for therapeutic drug monitoring to achieve and maintain trough concentrations of 5 to 15 ng/mL are the same for adult and pediatric patients with SEGA [see Dosage and Administration (2.3, 2.4)].
 
 ## 8.5 Geriatric Use
 
 In the randomized advanced hormone receptor positive, HER2-negative breast cancer study, 40% of AFINITOR-treated patients were ≥ 65 years of age, while 15% were 75 years and over.
 No overall differences in effectiveness were observed between elderly and younger patients.
-The incidence of deaths due to any cause within 28 days of the last AFINITOR dose was 6% in patients ≥ 65 years of age compared to 2% in patients < 65 years of age.
-Adverse reactions leading to permanent treatment discontinuation occurred in 33% of patients ≥ 65 years of age compared to 17% in patients < 65 years of age [see Warnings and Precautions (5.7)].
+The incidence of deaths due to any cause within 28 days of the last AFINITOR dose was 6% in patients ≥65 years of age compared to 2% in patients <65 years of age.
+Adverse reactions leading to permanent treatment discontinuation occurred in 33% of patients ≥65 years of age compared to 17% in patients <65 years of age [see Warnings and Precautions (5.7)].
 
 In two other randomized trials (advanced renal cell carcinoma and advanced neuroendocrine tumors of pancreatic origin), no overall differences in safety or effectiveness were observed between elderly and younger patients.
-In the randomized advanced RCC study, 41% of AFINITOR treated patients were ≥ 65 years of age, while 7% were 75 years and over.
-In the randomized advanced PNET study, 30% of AFINITOR-treated patients were ≥ 65 years of age, while 7% were 75 years and over.
+In the randomized advanced RCC study, 41% of AFINITOR treated patients were ≥65 years of age, while 7% were 75 years and over.
+In the randomized advanced PNET study, 30% of AFINITOR-treated patients were ≥65 years of age, while 7% were 75 years and over.
 
 Other reported clinical experience has not identified differences in response between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out [see Clinical Pharmacology (12.3)].
 

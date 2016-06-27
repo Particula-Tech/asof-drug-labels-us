@@ -30,7 +30,7 @@
 | What should I avoid while taking AFINITOR or AFINITOR DISPERZ? You should not drink grapefruit juice or eat grapefruit during your treatment with AFINITOR or AFINITOR DISPERZ. It may make the amount of AFINITOR in your blood increase to a harmful level. |  |
 | What are the possible side effects of AFINITOR or AFINITOR DISPERZ? AFINITOR and AFINITOR DISPERZ can cause serious side effects. |  |
 | See “What is the most important information I should know about AFINITOR and AFINITOR DISPERZ?” for more information.Delayed wound healing. AFINITOR can cause incisions to heal slowly or not heal well. Call your healthcare provider right away if you have any of the following symptoms: your incision is red, warm or painful blood, fluid, or pus in your incisionyour incision opens upswelling of your incision |  |
-| Common side effects of AFINITOR in people with advanced hormone receptor-positive, HER 2-negative breast cancer, advanced neuroendocrine tumors of the pancreas, stomach and intestine (gastrointestinal) or lung, and advanced kidney cancer include |  |
+| Common side effects of AFINITOR in people with advanced hormone receptor-positive, HER2-negative breast cancer, advanced neuroendocrine tumors of the pancreas, stomach and intestine (gastrointestinal) or lung, and advanced kidney cancer include |  |
 | Mouth ulcers. AFINITOR can cause mouth ulcers and sores. Tell your healthcare provider if you have pain, discomfort, or open sores in your mouth. Your healthcare provider may tell you to use a special mouthwash or mouth gel that does not contain alcohol, peroxide, iodine, or thyme. |  |
 | InfectionsFeeling weak or tiredCough, shortness of breathDiarrhea and constipationRash, dry skin, and itchingNausea and vomitingFeverLoss of appetite, weight lossSwelling of arms, hands, feet, ankles, face or other parts of the body Abnormal tasteDry mouth | Inflammation of lining of the digestive systemHeadacheNose bleedsPain in arms and legs, mouth and throat, back or jointsHigh blood glucoseHigh blood pressureDifficulty sleepingHair lossMuscle spasmsFeeling dizzyNail disorders |
 | Common side effects of AFINITOR and AFINITOR DISPERZ in people who have SEGA or renal angiomyolipoma with TSC include: |  |
@@ -46,9 +46,8 @@
 | Active ingredient: everolimus. Inactive ingredients: anhydrous lactose, butylated hydroxytoluene, crospovidone, hypromellose, lactose monohydrate, and magnesium stearate. |  |
 | What are the ingredients in AFINITOR DISPERZ? |  |
 | Active ingredient: everolimus. Inactive ingredients: butylated hydroxytoluene, colloidal silicon dioxide, crospovidone, hypromellose, lactose monohydrate, magnesium stearate, mannitol, and microcrystalline cellulose. |  |
-| Manufactured by: Novartis Pharma Stein AG Stein, Switzerland |  |
 | Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936 |  |
 | The brands listed are the trademarks or register marks of their respective owners and are not trademarks or register marks of Novartis. |  |
 | © Novartis |  |
-| T2016-25 |  |
-| This Patient Information has been approved by the U.S. Food and Drug Administration. | Revised: 2/2016 |
+| T2016-52 |  |
+| This Patient Information has been approved by the U.S. Food and Drug Administration. | Revised: 6/2016 |

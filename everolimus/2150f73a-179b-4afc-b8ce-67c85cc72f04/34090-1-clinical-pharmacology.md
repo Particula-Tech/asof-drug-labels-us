@@ -89,7 +89,7 @@ Effects of Age and Gender
 
 In a population pharmacokinetic evaluation in cancer patients, no relationship was apparent between oral clearance and patient age or gender.
 
-In patients with SEGA, the geometric mean Cmin values normalized to mg/m2 dose in patients aged < 10 years and 10 to 18 years were lower by 54% and 40%, respectively, than those observed in adults (> 18 years of age), suggesting that everolimus clearance normalized to body surface area was higher in pediatric patients as compared to adults.
+In patients with SEGA, the geometric mean Cmin values normalized to mg/m2 dose in patients aged <10 years and 10 to 18 years were lower by 54% and 40%, respectively, than those observed in adults (>18 years of age), suggesting that everolimus clearance normalized to body surface area was higher in pediatric patients as compared to adults.
 
 Ethnicity
 

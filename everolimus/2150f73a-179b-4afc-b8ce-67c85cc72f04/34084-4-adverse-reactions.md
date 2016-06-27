@@ -17,9 +17,9 @@ The efficacy and safety of AFINITOR (10 mg/day) plus exemestane (25 mg/day) (n=4
 The median age of patients was 61 years (range 28-93 years), and 75% were Caucasian.
 Safety results are based on a median follow-up of approximately 13 months.
 
-The most common adverse reactions (incidence ≥ 30%) were stomatitis, infections, rash, fatigue, diarrhea, and decreased appetite.
-The most common Grade 3/4 adverse reactions (incidence ≥ 2%) were stomatitis, infections, hyperglycemia, fatigue, dyspnea, pneumonitis, and diarrhea.
-The most common laboratory abnormalities (incidence ≥ 50%) were hypercholesterolemia, hyperglycemia, increased aspartate transaminase (AST), anemia, leukopenia, thrombocytopenia, lymphopenia, increased alanine transaminase (ALT), and hypertriglyceridemia.
+The most common adverse reactions (incidence ≥30%) were stomatitis, infections, rash, fatigue, diarrhea, and decreased appetite.
+The most common Grade 3/4 adverse reactions (incidence ≥2%) were stomatitis, infections, hyperglycemia, fatigue, dyspnea, pneumonitis, and diarrhea.
+The most common laboratory abnormalities (incidence ≥50%) were hypercholesterolemia, hyperglycemia, increased aspartate transaminase (AST), anemia, leukopenia, thrombocytopenia, lymphopenia, increased alanine transaminase (ALT), and hypertriglyceridemia.
 The most common Grade 3/4 laboratory abnormalities (incidence ≥ 3%) were lymphopenia, hyperglycemia, anemia, decreased potassium, increased AST, increased ALT, and thrombocytopenia.
 
 Fatal adverse reactions occurred more frequently in patients who received AFINITOR plus exemestane (2%) compared to patients on the placebo plus exemestane arm (0.4%).
@@ -28,7 +28,7 @@ Dose adjustments (interruptions or reductions) were more frequent among patients
 
 Table 2 compares the incidence of treatment-emergent adverse reactions reported with an incidence of ≥10% for patients receiving AFINITOR 10 mg daily versus placebo.
 
-Table 2: Adverse Reactions Reported ≥ 10% of Patients with Advanced HR+ BC*
+Table 2: Adverse Reactions Reported ≥10% of Patients with Advanced HR+ BC*
 
 |  | AFINITOR (10 mg/day) + exemestanea N=482 |  |  | Placebo + exemestanea N=238 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -79,7 +79,7 @@ Table 2: Adverse Reactions Reported ≥ 10% of Patients with Advanced HR+ BC*
 
 Key observed laboratory abnormalities are presented in Table 3.
 
-Table 3: Key Laboratory Abnormalities Reported in ≥ 10% of Patients with Advanced HR+ BC
+Table 3: Key Laboratory Abnormalities Reported in ≥10% of Patients with Advanced HR+ BC
 
 | Laboratory parameter | AFINITOR (10 mg/day) + exemestanea N=482 |  |  | Placebo + exemestanea N=238 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -109,7 +109,7 @@ Advanced Pancreatic Neuroendocrine Tumors (PNET)
 In a randomized, controlled trial of AFINITOR (n=204) versus placebo (n=203) in patients with advanced PNET the median age of patients was 58 years (range 20-87), 79% were White, and 55% were male.
 Patients on the placebo arm could cross over to open-label AFINITOR upon disease progression.
 
-The most common adverse reactions (incidence ≥ 30%) were stomatitis, rash, diarrhea, fatigue, edema, abdominal pain, nausea, fever, and headache.
+The most common adverse reactions (incidence ≥30%) were stomatitis, rash, diarrhea, fatigue, edema, abdominal pain, nausea, fever, and headache.
 The most common Grade 3-4 adverse reactions (incidence ≥ 5%) were stomatitis and diarrhea.
 The most common laboratory abnormalities (incidence ≥ 50%) were decreased hemoglobin, hyperglycemia, alkaline phosphatase increased, hypercholesterolemia, bicarbonate decreased, and increased aspartate transaminase (AST).
 The most common Grade 3-4 laboratory abnormalities (incidence ≥ 3%) were hyperglycemia, lymphopenia, decreased hemoglobin, hypophosphatemia, increased alkaline phosphatase, neutropenia, increased aspartate transaminase (AST), potassium decreased, and thrombocytopenia.
@@ -122,9 +122,9 @@ Dose delay or reduction was necessary in 61% of everolimus patients and 29% of p
 Grade 3-4 renal failure occurred in six patients in the everolimus arm and three patients in the placebo arm.
 Thrombotic events included five patients with pulmonary embolus in the everolimus arm and one in the placebo arm as well as three patients with thrombosis in the everolimus arm and two in the placebo arm.
 
-Table 4 compares the incidence of treatment-emergent adverse reactions reported with an incidence of ≥ 10% for patients receiving AFINITOR 10 mg daily versus placebo.
+Table 4 compares the incidence of treatment-emergent adverse reactions reported with an incidence of ≥10% for patients receiving AFINITOR 10 mg daily versus placebo.
 
-Table 4: Adverse Reactions Reported ≥ 10% of Patients with Advanced PNET
+Table 4: Adverse Reactions Reported ≥10% of Patients with Advanced PNET
 
 |  | AFINITOR N=204 |  |  | Placebo N=203 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -183,7 +183,7 @@ In female patients aged 18 to 55 years, irregular menstruation occurred in 5 of 
 
 Key observed laboratory abnormalities are presented in Table 5.
 
-Table 5: Key Laboratory Abnormalities Reported in ≥ 10% of Patients with Advanced PNET
+Table 5: Key Laboratory Abnormalities Reported in ≥10% of Patients with Advanced PNET
 
 | Laboratory parameter | AFINITOR N=204 |  | Placebo N=203 |  |
 | --- | --- | --- | --- | --- |
@@ -216,14 +216,14 @@ Table 5: Key Laboratory Abnormalities Reported in ≥ 10% of Patients with Advan
 Unresectable, Locally Advanced or Metastatic, Well-Differentiated, Non-Functional Neuroendocrine Tumors of Gastrointestinal or Lung Origin
 
 In a randomized, controlled trial of AFINITOR (n=202 treated) versus placebo (n=98 treated) in patients with advanced non-functional NET of GI or lung origin, the median age of patients was 63 years (range 22-86), 76% were White, and 53% were female.
-The median duration of exposure to AFINITOR was 9.3 months; 64% of patients were treated for > 6 months and 39% were treated for > 12 months.
+The median duration of exposure to AFINITOR was 9.3 months; 64% of patients were treated for ≥6 months and 39% were treated for ≥12 months.
 AFINITOR was discontinued for adverse reactions in 29% of patients, dose reduction or delay was required in 70% of AFINITOR-treated patients.
 
 Serious adverse reactions occurred in 42% of AFINITOR-treated patients and included 3 fatal events (cardiac failure, respiratory failure, and septic shock).
 
-Table 6 and Table 7 summarize the incidence of adverse reactions of AFINITOR occurring at an incidence of ≥ 10% and at > 5% absolute incidence over placebo (all Grades) or > 2% higher incidence over placebo (Grade 3 and 4).
+Table 6 and Table 7 summarize the incidence of adverse reactions of AFINITOR occurring at an incidence of ≥10% and at ≥5% absolute incidence over placebo (all Grades) or ≥2% higher incidence over placebo (Grade 3 and 4).
 
-Table 6: Adverse Reactions in ≥ 10% of AFINITOR-Treated Patients with Non-Functional NET of Gastrointestinal or Lung Origin†
+Table 6: Adverse Reactions in ≥10% of AFINITOR-Treated Patients with Non-Functional NET of Gastrointestinal or Lung Origin†
 
 |  | AFINITOR N=202 |  |  | Placebo N=98 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -258,7 +258,7 @@ Table 6: Adverse Reactions in ≥ 10% of AFINITOR-Treated Patients with Non-Func
 | Pruritus | 17 | 1 | 0 | 9 | 0 | 0 |
 | † Grading according to NCI CTCAE Version 4.03 a Includes stomatitis, mouth ulceration, aphthous stomatitis, gingival pain, glossitis, tongue ulceration and mucosal inflammation. b Urinary tract infection, nasopharyngitis, upper respiratory tract infection, lower respiratory tract infection (pneumonia, bronchitis), abscess, pyelonephritis, septic shock and viral myocarditis. c Includes pneumonitis and interstitial lung disease. |  |  |  |  |  |  |
 
-Table 7: Laboratory Abnormalities in ≥ 10% of AFINITOR-Treated Patients with Non-Functional NET of Gastrointestinal or Lung Origin†
+Table 7: Laboratory Abnormalities in ≥10% of AFINITOR-Treated Patients with Non-Functional NET of Gastrointestinal or Lung Origin†
 
 |  | AFINITOR N=202 |  |  | Placebo N=98 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -287,17 +287,17 @@ The data described below reflect exposure to AFINITOR (n=274) and placebo (n=137
 The median age of patients was 61 years (range 27-85), 88% were Caucasian, and 78% were male.
 The median duration of blinded study treatment was 141 days (range 19-451 days) for patients receiving AFINITOR and 60 days (range 21-295 days) for those receiving placebo.
 
-The most common adverse reactions (incidence ≥ 30%) were stomatitis, infections, asthenia, fatigue, cough, and diarrhea.
-The most common Grade 3-4 adverse reactions (incidence ≥ 3%) were infections, dyspnea, fatigue, stomatitis, dehydration, pneumonitis, abdominal pain, and asthenia.
-The most common laboratory abnormalities (incidence ≥ 50%) were anemia, hypercholesterolemia, hypertriglyceridemia, hyperglycemia, lymphopenia, and increased creatinine.
-The most common Grade 3-4 laboratory abnormalities (incidence ≥ 3%) were lymphopenia, hyperglycemia, anemia, hypophosphatemia, and hypercholesterolemia.
+The most common adverse reactions (incidence ≥30%) were stomatitis, infections, asthenia, fatigue, cough, and diarrhea.
+The most common Grade 3-4 adverse reactions (incidence ≥3%) were infections, dyspnea, fatigue, stomatitis, dehydration, pneumonitis, abdominal pain, and asthenia.
+The most common laboratory abnormalities (incidence ≥50%) were anemia, hypercholesterolemia, hypertriglyceridemia, hyperglycemia, lymphopenia, and increased creatinine.
+The most common Grade 3-4 laboratory abnormalities (incidence ≥3%) were lymphopenia, hyperglycemia, anemia, hypophosphatemia, and hypercholesterolemia.
 Deaths due to acute respiratory failure (0.7%), infection (0.7%), and acute renal failure (0.4%) were observed on the AFINITOR arm but none on the placebo arm.
 The rates of treatment-emergent adverse events (irrespective of causality) resulting in permanent discontinuation were 14% and 3% for the AFINITOR and placebo treatment groups, respectively.
 The most common adverse reactions (irrespective of causality) leading to treatment discontinuation were pneumonitis and dyspnea.
 Infections, stomatitis, and pneumonitis were the most common reasons for treatment delay or dose reduction.
 The most common medical interventions required during AFINITOR treatment were for infections, anemia, and stomatitis.
 
-Table 8 compares the incidence of treatment-emergent adverse reactions reported with an incidence of ≥ 10% for patients receiving AFINITOR 10 mg daily versus placebo.
+Table 8 compares the incidence of treatment-emergent adverse reactions reported with an incidence of ≥10% for patients receiving AFINITOR 10 mg daily versus placebo.
 Within each MedDRA system organ class, the adverse reactions are presented in order of decreasing frequency.
 
 Table 8: Adverse Reactions Reported in at Least 10% of Patients with RCC and at a Higher Rate in the AFINITOR Arm than in the Placebo Arm
@@ -338,17 +338,17 @@ Table 8: Adverse Reactions Reported in at Least 10% of Patients with RCC and at 
 | Median duration of treatment (d) | 141 |  |  | 60 |  |  |
 | Grading according to CTCAE Version 3.0 a Stomatitis (including aphthous stomatitis), and mouth and tongue ulceration. b Includes all preferred terms within the ‘infections and infestations’ system organ class, the most common being nasopharyngitis (6%), pneumonia (6%), urinary tract infection (5%), bronchitis (4%), and sinusitis (3%), and also including aspergillosis (<1%), candidiasis (<1%), and sepsis (<1%). c Includes pneumonitis, interstitial lung disease, lung infiltration, pulmonary alveolar hemorrhage, pulmonary toxicity, and alveolitis. |  |  |  |  |  |  |
 
-Other notable adverse reactions occurring more frequently with AFINITOR than with placebo, but with an incidence of < 10% include:
+Other notable adverse reactions occurring more frequently with AFINITOR than with placebo, but with an incidence of <10% include:
 
 Gastrointestinal disorders: Abdominal pain (9%), dry mouth (8%), hemorrhoids (5%), dysphagia (4%)
 
-General disorders and administration site conditions: Weight decreased (9%), chest pain (5%), chills (4%), impaired wound healing (< 1%)
+General disorders and administration site conditions: Weight decreased (9%), chest pain (5%), chills (4%), impaired wound healing (<1%)
 
 Respiratory, thoracic and mediastinal disorders: Pleural effusion (7%), pharyngolaryngeal pain (4%), rhinorrhea (3%)
 
 Skin and subcutaneous tissue disorders: Hand-foot syndrome (reported as palmar-plantar erythrodysesthesia syndrome) (5%), nail disorder (5%), erythema (4%), onychoclasis (4%), skin lesion (4%), acneiform dermatitis (3%), angioedema (<1%)
 
-Metabolism and nutrition disorders: Exacerbation of pre-existing diabetes mellitus (2%), new onset of diabetes mellitus (< 1%)
+Metabolism and nutrition disorders: Exacerbation of pre-existing diabetes mellitus (2%), new onset of diabetes mellitus (<1%)
 
 Psychiatric disorders: Insomnia (9%)
 
@@ -396,20 +396,20 @@ The data described below are based on a randomized (2:1), double-blind, placebo-
 The median age of patients was 31 years (range 18 to 61 years), 89% were Caucasian, and 34% were male.
 The median duration of blinded study treatment was 48 weeks (range 2 to 115 weeks) for patients receiving AFINITOR and 45 weeks (range 9 to 115 weeks) for those receiving placebo.
 
-The most common adverse reaction reported for AFINITOR (incidence ≥ 30%) was stomatitis.
-The most common Grade 3-4 adverse reactions (incidence ≥ 2%) were stomatitis and amenorrhea.
-The most common laboratory abnormalities (incidence ≥ 50%) were hypercholesterolemia, hypertriglyceridemia, and anemia.
-The most common Grade 3-4 laboratory abnormality (incidence ≥ 3%) was hypophosphatemia.
+The most common adverse reaction reported for AFINITOR (incidence ≥30%) was stomatitis.
+The most common Grade 3-4 adverse reactions (incidence ≥2%) were stomatitis and amenorrhea.
+The most common laboratory abnormalities (incidence ≥50%) were hypercholesterolemia, hypertriglyceridemia, and anemia.
+The most common Grade 3-4 laboratory abnormality (incidence ≥3%) was hypophosphatemia.
 
 The rate of adverse reactions resulting in permanent discontinuation was 3.8% in the AFINITOR-treated patients.
 Adverse reactions leading to permanent discontinuation in the AFINITOR arm were hypersensitivity/angioedema/bronchospasm, convulsion, and hypophosphatemia.
 Dose adjustments (interruptions or reductions) due to adverse reactions occurred in 52% of AFINITOR-treated patients.
 The most common adverse reaction leading to AFINITOR dose adjustment was stomatitis.
 
-Table 10 compares the incidence of adverse reactions reported with an incidence of ≥ 10% for patients receiving AFINITOR and occurring more frequently with AFINITOR than with placebo.
+Table 10 compares the incidence of adverse reactions reported with an incidence of ≥10% for patients receiving AFINITOR and occurring more frequently with AFINITOR than with placebo.
 Laboratory abnormalities are described separately in Table 11.
 
-Table 10: Adverse Reactions Reported in ≥ 10% of AFINITOR-treated Patients with Renal Angiomyolipoma
+Table 10: Adverse Reactions Reported in ≥10% of AFINITOR-treated Patients with Renal Angiomyolipoma
 
 |  | AFINITOR N=79 |  |  | Placebo N=39 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -434,7 +434,7 @@ Table 10: Adverse Reactions Reported in ≥ 10% of AFINITOR-treated Patients wit
 Amenorrhea occurred in 15% of AFINITOR-treated females (8 of 52) and 4% (1 of 26) of females in the placebo group.
 Other adverse reactions involving the female reproductive system were menorrhagia (10%), menstrual irregularities (10%), and vaginal hemorrhage (8%).
 
-The following additional adverse reactions occurred in less than 10% of AFINITOR -treated patients: epistaxis (9%), decreased appetite (6%), otitis media (6%), depression (5%), abnormal taste (5%), increased blood luteinizing hormone (LH) levels (4%), increased blood follicle stimulating hormone (FSH) levels (3%), hypersensitivity (3%), ovarian cyst (3%), pneumonitis (1%), and angioedema (1%).
+The following additional adverse reactions occurred in less than 10% of AFINITOR-treated patients: epistaxis (9%), decreased appetite (6%), otitis media (6%), depression (5%), abnormal taste (5%), increased blood luteinizing hormone (LH) levels (4%), increased blood follicle stimulating hormone (FSH) levels (3%), hypersensitivity (3%), ovarian cyst (3%), pneumonitis (1%), and angioedema (1%).
 
 Table 11: Key Laboratory Abnormalities Reported in AFINITOR-treated Patients with Renal Angiomyolipoma
 
@@ -466,15 +466,15 @@ The median age of patients was 9.5 years (range 0.8 to 26 years), 93% were Cauca
 The median duration of blinded study treatment was 52 weeks (range 24 to 89 weeks) for patients receiving AFINITOR and 47 weeks (range 14 to 88 weeks) for those receiving placebo.
 
 The most common adverse reactions reported for AFINITOR (incidence ≥ 30%) were stomatitis and respiratory tract infection.
-The most common Grade 3-4 adverse reactions (incidence ≥ 2%) were stomatitis, pyrexia, pneumonia, gastroenteritis, aggression, agitation, and amenorrhea.
-The most common key laboratory abnormalities (incidence ≥ 50%) were hypercholesterolemia and elevated partial thromboplastin time.
-The most common Grade 3-4 laboratory abnormality (incidence ≥ 3%) was neutropenia.
+The most common Grade 3-4 adverse reactions (incidence ≥2%) were stomatitis, pyrexia, pneumonia, gastroenteritis, aggression, agitation, and amenorrhea.
+The most common key laboratory abnormalities (incidence ≥50%) were hypercholesterolemia and elevated partial thromboplastin time.
+The most common Grade 3-4 laboratory abnormality (incidence ≥3%) was neutropenia.
 
 There were no adverse reactions resulting in permanent discontinuation.
 Dose adjustments (interruptions or reductions) due to adverse reactions occurred in 55% of AFINITOR-treated patients.
 The most common adverse reaction leading to AFINITOR dose adjustment was stomatitis.
 
-Table 12 compares the incidence of adverse reactions reported with an incidence of ≥ 10% for patients receiving AFINITOR and occurring more frequently with AFINITOR than with placebo.
+Table 12 compares the incidence of adverse reactions reported with an incidence of ≥10% for patients receiving AFINITOR and occurring more frequently with AFINITOR than with placebo.
 Laboratory abnormalities are described separately in Table 13.
 
 Table 12: Adverse Reactions Reported in ≥10% of AFINITOR-treated Patients with SEGA in Study 1
@@ -529,4 +529,4 @@ Updated safety information from 111 patients treated with AFINITOR for a median 
 ## 6.6 Postmarketing Experience
 
 The following adverse reactions have been identified during post approval use of AFINITOR.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate frequency or establish a causal relationship to drug exposure: acute pancreatitis, cholecystitis, cholelithiasis, arterial thrombotic events and reflex sympathetic dystrophy.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate frequency or establish a causal relationship to drug exposure: acute pancreatitis, cholecystitis, cholelithiasis, arterial thrombotic events, reflex sympathetic dystrophy, and cardiac failure with some cases reported with pulmonary hypertension (including pulmonary arterial hypertension) as a secondary event.

@@ -2,18 +2,18 @@
 
 ## 14.1 Advanced Hormone Receptor-Positive, HER2-Negative Breast Cancer
 
-A randomized, double-blind, multicenter study of AFINITOR plus exemestane versus placebo plus exemestane was conducted in 724 postmenopausal women with estrogen receptor-positive, HER 2/neu-negative advanced breast cancer with recurrence or progression following prior therapy with letrozole or anastrozole.
+A randomized, double-blind, multicenter study of AFINITOR plus exemestane versus placebo plus exemestane was conducted in 724 postmenopausal women with estrogen receptor-positive, HER2/neu-negative advanced breast cancer with recurrence or progression following prior therapy with letrozole or anastrozole.
 Randomization was stratified by documented sensitivity to prior hormonal therapy (yes versus no) and by the presence of visceral metastasis (yes versus no). Sensitivity to prior hormonal therapy was defined as either (1) documented clinical benefit (complete response [CR], partial response [PR], stable disease ≥ 24 weeks) to at least one prior hormonal therapy in the advanced setting or (2) at least 24 months of adjuvant hormonal therapy prior to recurrence.
 Patients were permitted to have received 0-1 prior lines of chemotherapy for advanced disease.
 
 The primary endpoint for the trial was progression-free survival (PFS) evaluated by Response Evaluation Criteria In Solid Tumors (RECIST), based on investigator (local radiology) assessment.
 Other endpoints included overall survival (OS), objective response rate (ORR), and safety.
 
-Patients were randomly allocated in a 2:1 ratio to AFINITOR 10 mg/day plus exemestane 25 mg/day (n = 485) or to placebo plus exemestane 25 mg/day (n = 239).
+Patients were randomly allocated in a 2:1 ratio to AFINITOR 10 mg/day plus exemestane 25 mg/day (n=485) or to placebo plus exemestane 25 mg/day (n=239).
 The two treatment groups were generally balanced with respect to baseline demographics and disease characteristics.
 Patients were not permitted to cross over to AFINITOR at the time of disease progression.
 
-The median progression-free survival by investigator assessment at the time of the final PFS analysis was 7.8 and 3.2 months in the AFINITOR and placebo arms, respectively [HR = 0.45 (95% CI: 0.38, 0.54), one-sided log-rank p < 0.0001] (see Table 14 and Figure 1).
+The median progression-free survival by investigator assessment at the time of the final PFS analysis was 7.8 and 3.2 months in the AFINITOR and placebo arms, respectively [HR = 0.45 (95% CI: 0.38, 0.54), one-sided log-rank p <0.0001] (see Table 14 and Figure 1).
 The results of the PFS analysis based on independent central radiological assessment were consistent with the investigator assessment.
 PFS results were also consistent across the subgroups of age, race, presence and extent of visceral metastases, and sensitivity to prior hormonal therapy.
 
@@ -139,11 +139,11 @@ Figure 4: Kaplan-Meier Progression-free Survival Curves
 
 A randomized (2:1), double-blind, placebo-controlled trial of AFINITOR was conducted in 118 patients with renal angiomyolipoma as a feature of TSC (n=113) or sporadic lymphangioleiomyomatosis (n=5).
 
-The key eligibility requirements for this trial were at least one angiomyolipoma of ≥ 3 cm in longest diameter on CT/MRI based on local radiology assessment, no immediate indication for surgery, and age ≥ 18 years.
+The key eligibility requirements for this trial were at least one angiomyolipoma of ≥3 cm in longest diameter on CT/MRI based on local radiology assessment, no immediate indication for surgery, and age ≥18 years.
 Patients received daily oral AFINITOR 10 mg or matching placebo until disease progression or unacceptable toxicity.
 CT or MRI scans for disease assessment were obtained at baseline, 12, 24, and 48 weeks and annually thereafter.
 Clinical and photographic assessment of skin lesions were conducted at baseline and every 12 weeks thereafter until treatment discontinuation.
-The major efficacy outcome measure was angiomyolipoma response rate based on independent central radiology review, which was defined as a ≥ 50% reduction in angiomyolipoma volume, absence of new angiomyolipoma lesion ≥ 1 cm, absence of kidney volume increase ≥ 20%, and no angiomyolipoma related bleeding of ≥ Grade 2.
+The major efficacy outcome measure was angiomyolipoma response rate based on independent central radiology review, which was defined as a ≥50% reduction in angiomyolipoma volume, absence of new angiomyolipoma lesion ≥1 cm, absence of kidney volume increase ≥20%, and no angiomyolipoma related bleeding of ≥ Grade 2.
 Key supportive efficacy outcome measures were time to angiomyolipoma progression and skin lesion response rate.
 The primary analyses of efficacy outcome measures were limited to the blinded treatment period and conducted 6 months after the last patient was randomized.
 The comparative angiomyolipoma response rate analysis was stratified by use of enzyme-inducing antiepileptic drugs (EIAEDs) at randomization (yes versus no).
@@ -151,7 +151,7 @@ The comparative angiomyolipoma response rate analysis was stratified by use of e
 Of the 118 patients enrolled, 79 were randomized to AFINITOR and 39 to placebo.
 The median age was 31 years (range 18 to 61 years), 34% were male, and 89% were Caucasian.
 At baseline, 17% of patients were receiving EIAEDs.
-On central radiology review at baseline, 92% of patients had at least 1 angiomyolipoma of ≥ 3 cm in longest diameter, 29% had angiomyolipomas ≥ 8 cm, 78% had bilateral angiomyolipomas, and 97% had skin lesions.
+On central radiology review at baseline, 92% of patients had at least 1 angiomyolipoma of ≥3 cm in longest diameter, 29% had angiomyolipomas ≥8 cm, 78% had bilateral angiomyolipomas, and 97% had skin lesions.
 The median values for the sum of all target renal angiomyolipoma lesions at baseline were 85 cm3 (range 9 to 1612 cm3) and 120 cm3 (range 3 to 4520 cm3) in the AFINITOR and placebo arms respectively.
 Forty-six (39%) patients had prior renal embolization or nephrectomy.
 The median duration of follow-up was 8.3 months (range 0.7 to 24.8 months) at the time of the primary analysis.
@@ -160,7 +160,7 @@ The renal angiomyolipoma response rate was statistically significantly higher in
 Results are displayed in Table 18.
 The median response duration was 5.3+ months (range 2.3+ to 19.6+ months).
 
-There were 3 patients in the AFINITOR arm and 8 patients in the placebo arm with documented angiomyolipoma progression by central radiologic review (defined as a ≥ 25% increase from nadir in the sum of angiomyolipoma target lesion volumes to a value greater than baseline, appearance of a new angiomyolipoma ≥ 1.0 cm in longest diameter, an increase in renal volume ≥ 20% from nadir for either kidney and to a value greater than baseline, or Grade ≥ 2 angiomyolipoma-related bleeding).
+There were 3 patients in the AFINITOR arm and 8 patients in the placebo arm with documented angiomyolipoma progression by central radiologic review (defined as a ≥25% increase from nadir in the sum of angiomyolipoma target lesion volumes to a value greater than baseline, appearance of a new angiomyolipoma ≥1.0 cm in longest diameter, an increase in renal volume ≥ 20% from nadir for either kidney and to a value greater than baseline, or Grade ≥2 angiomyolipoma-related bleeding).
 The time to angiomyolipoma progression was statistically significantly longer in the AFINITOR arm (HR 0.08 [95% CI: 0.02, 0.37]; p <0.0001).
 
 Table 18: Angiomyolipoma Response
@@ -188,7 +188,7 @@ No patient underwent a nephrectomy for angiomyolipoma progression and one patien
 ## 14.5 Subependymal Giant Cell Astrocytoma with Tuberous Sclerosis Complex
 
 Study 1 was a randomized (2:1), double-blind, placebo-controlled trial of AFINITOR conducted in 117 pediatric and adult patients with subependymal giant cell astrocytoma (SEGA) and tuberous sclerosis complex (TSC).
-Eligible patients had at least one SEGA lesion ≥ 1.0 cm in longest diameter on MRI based on local radiology assessment and one or more of the following: serial radiological evidence of SEGA growth, a new SEGA lesion ≥ 1 cm in longest diameter, or new or worsening hydrocephalus.
+Eligible patients had at least one SEGA lesion ≥1.0 cm in longest diameter on MRI based on local radiology assessment and one or more of the following: serial radiological evidence of SEGA growth, a new SEGA lesion ≥1 cm in longest diameter, or new or worsening hydrocephalus.
 Patients randomized to the treatment arm received AFINITOR tablets at a starting dose of 4.5 mg/m2 daily, with subsequent dose adjustments as needed to achieve and maintain everolimus trough concentrations of 5 to 15 ng/mL as tolerated.
 AFINITOR/matched placebo treatment continued until disease progression or unacceptable toxicity.
 MRI scans for disease assessment were obtained at baseline, 12, 24, and 48 weeks, and annually thereafter.
@@ -199,9 +199,9 @@ The primary analysis of SEGA response rate was limited to the blinded treatment 
 The analysis of SEGA response rate was stratified by use of enzyme-inducing antiepileptic drugs (EIAEDs) at randomization (yes versus no).
 
 Of the 117 patients enrolled, 78 were randomized to AFINITOR and 39 to placebo.
-The median age was 9.5 years (range 0.8 to 26 years; 69% were 3 to < 18 years at enrollment; 17% were < 3 years at enrollment), 57% were male, and 93% were Caucasian.
+The median age was 9.5 years (range 0.8 to 26 years; 69% were 3 to < 18 years at enrollment; 17% were <3 years at enrollment), 57% were male, and 93% were Caucasian.
 At baseline, 18% of patients were receiving EIAEDs.
-Based on central radiology review at baseline, 98% of patients had at least one SEGA lesion ≥ 1.0 cm in longest diameter, 79% had bilateral SEGAs, 43% had ≥ 2 target SEGA lesions, 26% had growth in or into the inferior surface of the ventricle, 9% had evidence of growth beyond the subependymal tissue adjacent to the ventricle, and 7% had radiographic evidence of hydrocephalus.
+Based on central radiology review at baseline, 98% of patients had at least one SEGA lesion ≥1.0 cm in longest diameter, 79% had bilateral SEGAs, 43% had ≥2 target SEGA lesions, 26% had growth in or into the inferior surface of the ventricle, 9% had evidence of growth beyond the subependymal tissue adjacent to the ventricle, and 7% had radiographic evidence of hydrocephalus.
 The median values for the sum of all target SEGA lesions at baseline were 1.63 cm3 (range 0.18 to 25.15 cm3) and 1.30 cm3 (range 0.32 to 9.75 cm3) in the AFINITOR and placebo arms respectively.
 Eight (7%) patients had prior SEGA-related surgery.
 The median duration of follow-up was 8.4 months (range 4.6 to 17.2 months) at the time of primary analysis.
@@ -229,7 +229,7 @@ After the primary analysis, patients treated with AFINITOR underwent additional 
 A total of 111 patients (78 patients randomized to AFINITOR and 33 patients randomized to placebo) received at least one dose of AFINITOR.
 Median duration of AFINITOR treatment and follow-up was 3.9 years (range: 0.2 to 4.9 years).
 
-By four years after the last patient was enrolled, a total of 64 of the 111 patients treated with AFINITOR had a ≥ 50% reduction in SEGA volume relative to baseline, including 27 patients identified at the time of the primary analysis and 37 patients with a SEGA response after the primary analysis.
+By four years after the last patient was enrolled, a total of 64 of the 111 patients treated with AFINITOR had a ≥50% reduction in SEGA volume relative to baseline, including 27 patients identified at the time of the primary analysis and 37 patients with a SEGA response after the primary analysis.
 The median time to SEGA response was 5.3 months (range: 2.5 to 33.1 months).
 Thirteen of the 111 patients treated with AFINITOR had documented disease progression by the end of the follow-up period and no patient required surgical intervention for SEGA during the course of the study.
 
@@ -237,7 +237,7 @@ Study 2 was an open-label, single-arm trial conducted to evaluate the safety and
 Serial radiological evidence of SEGA growth was required for entry.
 Tumor assessments were performed every 6 months for 60 months after the last patient was enrolled or disease progression, whichever occurred earlier.
 The major efficacy outcome measure was the reduction in volume of the largest SEGA lesion with 6 months of treatment, as assessed via independent central radiology review.
-Progression was defined as an increase in volume of the largest SEGA lesion over baseline that was ≥ 25% over the nadir observed on study.
+Progression was defined as an increase in volume of the largest SEGA lesion over baseline that was ≥25% over the nadir observed on study.
 
 Study 2 enrolled 28 patients who received AFINITOR for a median duration of 5.7 years (range: 5 months to 6.9 years); 23 of 28 patients (82%) remained on AFINITOR for at least 5 years.
 Across the study population, the median age was 11 years (range 3-34), 61% male, 86% Caucasian.
@@ -247,4 +247,4 @@ At the completion of the study, the median duration of durable response was 12 m
 
 By 60 months after the last patient was enrolled, 11% of patients (3/28) had documented disease progression.
 No patient developed a new SEGA lesion while on AFINITOR.
-Nine additional patients were identified as having a > 50% volumetric reduction in their largest SEGA lesion between 1 to 4 years after initiating AFINITOR including 3 patients who had surgical resection with subsequent regrowth prior to receiving AFINITOR.
+Nine additional patients were identified as having a >50% volumetric reduction in their largest SEGA lesion between 1 to 4 years after initiating AFINITOR including 3 patients who had surgical resection with subsequent regrowth prior to receiving AFINITOR.
