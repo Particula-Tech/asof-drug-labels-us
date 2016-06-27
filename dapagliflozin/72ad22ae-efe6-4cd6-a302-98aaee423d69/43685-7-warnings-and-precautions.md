@@ -9,7 +9,7 @@ Monitor for signs and symptoms of hypotension after initiating therapy.
 
 ## 5.2 Ketoacidosis
 
-Reports of ketoacidosis, a serious life-threatening condition requiring urgent hospitalization have been identified in postmarketing surveillance in patients with type 1 and type 2 diabetes mellitus receiving sodium glucose co-transporter-2 (SGLT2) inhibitors, including FARXIGA.
+Reports of ketoacidosis, a serious life-threatening condition requiring urgent hospitalization have been identified in postmarketing surveillance in patients with type 1 and type 2 diabetes mellitus receiving sodium-glucose cotransporter 2 (SGLT2) inhibitors, including FARXIGA.
 FARXIGA is not indicated for the treatment of patients with type 1 diabetes mellitus [see Indications and Usage (1.1)].
 
 Patients treated with FARXIGA who present with signs and symptoms consistent with severe metabolic acidosis should be assessed for ketoacidosis regardless of presenting blood glucose levels as ketoacidosis associated with FARXIGA may be present even if blood glucose levels are less than 250 mg/dL.
@@ -23,12 +23,20 @@ In some but not all cases, factors predisposing to ketoacidosis such as insulin 
 Before initiating FARXIGA, consider factors in the patient history that may predispose to ketoacidosis including pancreatic insulin deficiency from any cause, caloric restriction and alcohol abuse.
 In patients treated with FARXIGA consider monitoring for ketoacidosis and temporarily discontinuing FARXIGA in clinical situations known to predispose to ketoacidosis (e.g., prolonged fasting due to acute illness or surgery).
 
-## 5.3 Impairment in Renal Function
+## 5.3 Acute Kidney Injury and Impairment in Renal Function
+
+FARXIGA causes intravascular volume contraction [see Warning and Precautions (5.1)], and can cause renal impairment [see Adverse Reactions (6.1)].
+There have been postmarketing reports of acute kidney injury, some requiring hospitalization and dialysis, in patients receiving FARXIGA; some reports involved patients younger than 65 years of age.
+
+Before initiating FARXIGA, consider factors that may predispose patients to acute kidney injury including hypovolemia, chronic renal insufficiency, congestive heart failure, and concomitant medications (diuretics, ACE inhibitors, ARBs, NSAIDs).
+Consider temporarily discontinuing FARXIGA in any setting of reduced oral intake (such as acute illness or fasting) or fluid losses (gastrointestinal illness or excessive heat exposure); monitor patients for signs and symptoms of acute kidney injury.
+If acute kidney injury occurs, discontinue FARXIGA promptly and institute treatment.
 
 FARXIGA increases serum creatinine and decreases eGFR.
 Elderly patients and patients with impaired renal function may be more susceptible to these changes.
-Adverse reactions related to renal function can occur after initiating FARXIGA [see Adverse Reactions (6)].
+Adverse reactions related to renal function can occur after initiating FARXIGA [see Adverse Reactions (6.1)].
 Renal function should be evaluated prior to initiation of FARXIGA and monitored periodically thereafter.
+Use of FARXIGA is not recommended in patients with an eGFR persistently between 30 and less than 60 mL/min/1.73 m2 and is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2[see Dosage and Administration (2.2),Contraindications (4), Use in Specific Populations (8.6)].
 
 ## 5.4 Urosepsis and Pyelonephritis
 

@@ -4,12 +4,12 @@ The following important adverse reactions are described below and elsewhere in t
 
 - •Hypotension [see Warnings and Precautions (5.1)]
 - •Ketoacidosis [see Warnings and Precautions (5.2)]
-- •Impairment in Renal Function [see Warnings and Precautions (5.3)]
+- •Acute Kidney Injury and Impairment in Renal Function [see Warnings and Precautions (5.3)]
 - •Urosepsis and Pyelonephritis [see Warnings and Precautions (5.4)]
 - •Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.5)]
 - •Genital Mycotic Infections [see Warnings and Precautions (5.6)]
-- •Increases in Low-Density Lipoprotein Cholesterol (LDL‑C) [see Warnings and Precautions (5.7)]
-- 1.Bladder Cancer [see Warnings and Precautions (5.8)]
+- •Increases in Low-Density Lipoprotein Cholesterol (LDL C) [see Warnings and Precautions (5.7)]
+- •Bladder Cancer [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -196,4 +196,5 @@ Additional adverse reactions have been identified during postapproval use of FAR
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 - •Ketoacidosis [see Warnings and Precautions (5.2)]
+- •Acute Kidney Injury and Impairment in Renal Function [see Warnings and Precautions (5.3)]
 - •Urosepsis and Pyelonephritis [see Warnings and Precautions (5.4)]

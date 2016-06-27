@@ -58,7 +58,7 @@ The mean plasma terminal half-life (t½) for dapagliflozin is approximately 12.9
 At steady state (20 mg once-daily dapagliflozin for 7 days), patients with type 2 diabetes with mild, moderate, or severe renal impairment (as determined by eGFR) had geometric mean systemic exposures of dapagliflozin that were 45%, 2.04-fold, and 3.03-fold higher, respectively, as compared to patients with type 2 diabetes with normal renal function.
 Higher systemic exposure of dapagliflozin in patients with type 2 diabetes mellitus with renal impairment did not result in a correspondingly higher 24-hour urinary glucose excretion.
 The steady-state 24-hour urinary glucose excretion in patients with type 2 diabetes and mild, moderate, and severe renal impairment was 42%, 80%, and 90% lower, respectively, than patients with type 2 diabetes with normal renal function.
-The impact of hemodialysis on dapagliflozin exposure is not known [See Dosage and Administration (2.2), Warnings and Precautions (5.3), Use in Specific Populations (8.6), andClinical Studies (14.7)].
+The impact of hemodialysis on dapagliflozin exposure is not known [see Dosage and Administration (2.2), Warnings and Precautions (5.3), Use in Specific Populations (8.6), and Clinical Studies (14.7)].
 
 #### Hepatic Impairment
 
@@ -134,4 +134,4 @@ Table 7: Effects of Dapagliflozin on the Systemic Exposures of Coadministered Dr
 | Simvastatin (40 mg) | 20 mg | ↔ | ↑19% |
 | Digoxin (0.25 mg) | 20 mg loading dose then 10 mg once daily for 7 days | ↔ | ↔ |
 | Warfarin (25 mg) | 20 mg loading dose then 10 mg once daily for 7 days | ↔ | ↔ |
-| ↔ = no change (geometric mean ratio of test:reference within 0.80 to 1.25); ↓ or ↑ = parameter was lower or higher, respectively, with coadministration compared to the other medicine administered alone (geometric mean ratio of test:reference was lower than 0.80 or higher than 1.25). |  |  |  |
+| ↔ = no change (geometric mean ratio of test: reference within 0.80 to 1.25); ↓ or ↑ = parameter was lower or higher, respectively, with coadministration compared to the other medicine administered alone (geometric mean ratio of test: reference was lower than 0.80 or higher than 1.25). |  |  |  |

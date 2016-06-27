@@ -38,11 +38,16 @@ Inform patients that ketoacidosis has been reported during use of FARXIGA.
 Instruct patients to check ketones (when possible) if symptoms consistent with ketoacidosis occur even if blood glucose is not elevated.
 If symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness and labored breathing) occur, instruct patients to discontinue FARXIGA and seek medical advice immediately [see Warnings and Precautions (5.2)].
 
+Acute Kidney Injury
+
+Inform patients that acute kidney injury has been reported during use of FARXIGA.
+Advise patients to seek medical advice immediately if they have reduced oral intake (due to acute illness or fasting) or increased fluid losses (due to vomiting, diarrhea, or excessive heat exposure), as it may be appropriate to temporarily discontinue FARXIGA use in those settings [see Warnings and Precautions (5.3)].
+
 Serious Urinary Tract Infections
 
 Inform patients of the potential for urinary tract infections, which may be serious.
 Provide them with information on the symptoms of urinary tract infections.
-Advise them to seek medical advice promptly if such symptoms occur [see Warnings and Precautions (5.4)].
+Advise them to seek medical advice promptly if such symptoms occur[see Warnings and Precautions (5.4)].
 
 Genital Mycotic Infections in Males (e.g., Balanitis)
 

@@ -11,8 +11,10 @@ In patients with volume depletion, correcting this condition prior to initiation
 
 Assessment of renal function is recommended prior to initiation of FARXIGA therapy and periodically thereafter.
 
-FARXIGA should not be initiated in patients with an eGFR less than 60 mL/min/1.73 m2.
+Initiation of FARXIGA is not recommended in patients with an eGFR less than 60 mL/min/1.73 m2.
 
 No dose adjustment is needed in patients with mild renal impairment (eGFR of 60 mL/min/1.73 m2 or greater).
 
-FARXIGA should be discontinued when eGFR is persistently less than 60 mL/min/1.73 m2[see Warnings and Precautions (5.3)and Use in Specific Populations (8.6)].
+Use of FARXIGA is not recommended in patients with an eGFR persistently between 30 and less than 60 mL/min/1.73 m2[see Warnings and Precautions (5.3) and Use in Specific Populations (8.6)].
+
+FARXIGA is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2[see Contraindications (4)].

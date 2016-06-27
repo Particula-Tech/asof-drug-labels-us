@@ -159,7 +159,7 @@ Statistically significant (p<0.05 for both doses) mean changes from baseline in 
 
 ### Add-on Combination Therapy with Metformin and a Sulfonylurea
 
-A total of 218 patients with type 2 diabetes and inadequate glycemic control (HbA1c≥7% and ≤10.5%) participated in a 24-week, placebo-controlled study to evaluate FARXIGA in combination with metformin and a sulfonylurea.
+A total of 218 patients with type 2 diabetes and inadequate glycemic control (HbA1c ≥7% and ≤10.5%) participated in a 24-week, placebo-controlled study to evaluate FARXIGA in combination with metformin and a sulfonylurea.
 Patients on a stable dose of metformin (immediate- or extended-release formulations) ≥1500mg/day plus maximum tolerated dose, which must be at least half the maximum dose, of a sulfonylurea for at least 8 weeks prior to enrollment were randomized after an 8-week placebo lead-in period to FARXIGA 10 mg or placebo.
 Dose-titration of FARXIGA or metformin was not permitted during the 24 –week treatment period.
 Down-titration of the sulfonylurea was permitted to prevent hypoglycemia, but no up-titration was permitted.
