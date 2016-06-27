@@ -67,4 +67,4 @@ NitroMist is a registered trademark of Mist Pharmaceuticals, LLC
 
 NDC 76299-430-08 NDC 76299-430-04
 
-141P300 Revised 07/2015
+141P301 Revised 06/2016

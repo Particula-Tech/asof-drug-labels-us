@@ -4,6 +4,8 @@
 
 Administration of NitroMist is contraindicated in patients who are using a selective inhibitor of cyclic guanosine monophosphate (cGMP)-specific phosphodiesterase type 5 (PDE5).
 PDE5 inhibitors such as sildenafil, vardenafil, and tadalafil have been shown to potentiate the hypotensive effects of organic nitrates.
+Do not use NitroMist in patients who are taking the soluble guanylate cyclase (sGC) stimulator riociguat.
+Concomitant use may result in severe hypotension, syncope, or myocardial ischemia.
 
 The time course and dose dependence of this interaction have not been studied, and use within a few days of one another cannot be recommended.
 Appropriate supportive care for the severe hypotension has not been studied, but it seems reasonable to treat this as a nitrate overdose, with elevation of the extremities and with central volume expansion.
