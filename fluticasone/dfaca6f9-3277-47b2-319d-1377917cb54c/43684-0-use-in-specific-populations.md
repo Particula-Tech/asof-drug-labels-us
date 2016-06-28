@@ -87,7 +87,7 @@ To minimize the systemic effects of orally inhaled corticosteroids, including AD
 
 Clinical trials of ADVAIR HFA did not include sufficient numbers of subjects aged 65 years and older to determine whether older subjects respond differently than younger subjects.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
-In addition, as with other products containing beta 2 -agonists, special caution should be observed when using ADVAIR HFA in geriatric patients who have concomitant cardiovascular disease that could be adversely affected by beta 2 -agonists.
+In addition, as with other products containing beta2-agonists, special caution should be observed when using ADVAIR HFA in geriatric patients who have concomitant cardiovascular disease that could be adversely affected by beta2-agonists.
 
 ## 8.6 Hepatic Impairment
 

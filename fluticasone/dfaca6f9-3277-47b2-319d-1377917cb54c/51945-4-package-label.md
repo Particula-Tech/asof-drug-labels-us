@@ -28,8 +28,8 @@ With Counter
 
 ©2015, the GSK group of companies
 
-10000000132553 Rev.
-3/15
+1. 10000000132553 Rev.
+   3/15
 
 PRINCIPAL DISPLAY PANEL
 
@@ -61,8 +61,8 @@ With Counter
 
 ©2015, the GSK group of companies
 
-10000000132527 Rev.
-3/15
+1. 10000000132527 Rev.
+   3/15
 
 PRINCIPAL DISPLAY PANEL
 
@@ -94,5 +94,5 @@ With Counter
 
 ©2015, the GSK group of companies
 
-10000000132528 Rev.
-3/15
+1. 10000000132528 Rev.
+   3/15
