@@ -29,6 +29,6 @@ Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A
 
 Manufactured by: ACS Dobfar Info SA Campascio, Switzerland
 
-Revised: November 2015 L52USLEVET02
+Revised: May 2016 HQ:LEVETIJ:R2
 
-HQ:LEVETIJ:R1
+L52USLEVET03

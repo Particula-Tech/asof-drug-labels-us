@@ -5,7 +5,7 @@
 Levetiracetam in Sodium Chloride Injection is for intravenous use only.
 It is available in three different concentrations single-use 100 mL bag, each containing a different total dosage of levetiracetam: 500 mg (5 mg/mL), 1000 mg (10 mg/mL), or 1500 mg (15 mg/mL).
 
-### A single 100 mL bag should be administered intravenously over a 15-minute IV infusion period.
+A single 100 mL bag should be administered intravenously over a 15-minute IV infusion period.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
 
@@ -48,9 +48,9 @@ At the end of the intravenous treatment period, the patient may be switched to l
 
 ## 2.5 Adult Patients with Impaired Renal Function
 
-- Levetiracetam dosing must be individualized according to the patient's renal function status.
-  Recommended doses and adjustment for dose for adults are shown in Table 1.
-  To use this dosing table, an estimate of the patient's creatinine clearance (CLcr) in mL/min is needed.
+Levetiracetam dosing must be individualized according to the patient's renal function status.
+Recommended doses and adjustment for dose for adults are shown in Table 1.
+To use this dosing table, an estimate of the patient's creatinine clearance (CLcr) in mL/min is needed.
 
 Table 1: Dosing Adjustment Regimen for Adult Patients with Impaired Renal Function
 

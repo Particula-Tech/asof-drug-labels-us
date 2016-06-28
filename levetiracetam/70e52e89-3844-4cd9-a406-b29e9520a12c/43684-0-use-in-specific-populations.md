@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Levetiracetam blood levels may decrease during pregnancy [see Warnings and Precautions (5.8)].
+Levetiracetam blood levels may decrease during pregnancy [see Warnings and Precautions (5.7)].
 
 ### Pregnancy Category C
 
@@ -41,20 +41,7 @@ Because of the potential for serious adverse reactions in nursing infants from l
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of levetiracetam in the adjunctive treatment of partial onset seizures in pediatric patients age 1 month to 16 years with epilepsy have been established [see Clinical Studies (14.1)].
-
-The safety and effectiveness of levetiracetam injection as adjunctive treatment of myoclonic seizures in adolescents 12 years of age and older with juvenile myoclonic epilepsy have been established [see Clinical Studies (14.2)].
-
-The safety and effectiveness of levetiracetam as adjunctive therapy in the treatment of primary generalized tonic-clonic seizures in pediatric patients 6 years of age and older with idiopathic generalized epilepsy have been established [see Clinical Studies (14.3)].
-
-A 3-month, randomized, double-blind, placebo-controlled study was performed to assess the neurocognitive and behavioral effects of levetiracetam as adjunctive therapy in 98 (levetiracetam N=64, placebo N=34) pediatric patients, ages 4 years to 16 years, with partial seizures that were inadequately controlled.
-The target dose was 60 mg/kg/day.
-Neurocognitive effects were measured by the Leiter-R Attention and Memory (AM) Battery, which measures various aspects of a child's memory and attention.
-Although no substantive differences were observed between the placebo and drug treated groups in the median change from baseline in this battery, the study was not adequate to assess formal statistical non-inferiority of the drug and placebo.
-The Achenbach Child Behavior Checklist (CBCL/6-18), a standardized validated tool used to assess a child's competencies and behavioral/emotional problems, was also assessed in this study.
-An analysis of the CBCL/6-18 indicated, on average, a worsening in levetiracetam-treated patients in aggressive behavior, one of the eight syndrome scores [see Warnings and Precautions (5.1)].
-
-Studies of levetiracetam in juvenile rats (dosing from day 4 through day 52 of age) and dogs (dosing from week 3 through week 7 of age) at doses of up to 1800 mg/kg/day (approximately 7 and 24 times, respectively, the maximum recommended pediatric dose of 60 mg/kg/day on a mg/m2 basis) did not indicate a potential for age-specific toxicity.
+Safety and effectiveness of levetiracetam injection in patients below the age of 16 years have not been established.
 
 ## 8.5 Geriatric Use
 
