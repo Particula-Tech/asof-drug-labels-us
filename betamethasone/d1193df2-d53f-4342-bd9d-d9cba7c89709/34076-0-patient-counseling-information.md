@@ -18,6 +18,10 @@ Inform patients of the following:
 
 Manufactured by:
 
+LEO Laboratories Ltd. 285 Cashel Road Dublin 12, Ireland
+
+or
+
 Colep Laupheim GmbH & Co. KG
 
 Fockestraße 12

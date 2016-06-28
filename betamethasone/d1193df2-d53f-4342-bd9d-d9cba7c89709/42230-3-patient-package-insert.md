@@ -95,13 +95,13 @@ You can ask your doctor or pharmacist for information about Enstilar® Foam that
 
 What are the ingredients in Enstilar® Foam?
 Active ingredients: calcipotriene hydrate, betamethasone dipropionate.
-Inactive ingredients: white petrolatum, PPG-11 stearyl ether, mineral oil, all-rac-alpha-tocopherol, and butylhydroxytoluene.
+Inactive ingredients: white petrolatum, polyoxypropylene stearyl ether, mineral oil, all-rac-alpha-tocopherol, and butylhydroxytoluene.
 
 Propellants: dimethyl ether and butane.
 
-Manufactured by: Colep Laupheim GmbH & Co. KG, Fockestraße 12, 88471 Laupheim, Germany (DE)
+Manufactured by: LEO Laboratories Ltd., 285 Cashel Road, Dublin 12, Ireland or Colep Laupheim GmbH & Co. KG, Fockestraße 12, 88471 Laupheim, Germany (DE)
 
 Distributed by: LEO Pharma Inc., 1 Sylvan Way, Parsippany, NJ 07054
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Issued: October 2015
+Issued: June 2016

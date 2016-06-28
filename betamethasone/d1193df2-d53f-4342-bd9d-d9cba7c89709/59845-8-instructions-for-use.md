@@ -15,6 +15,10 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 Manufactured by:
 
+LEO Laboratories Ltd. 285 Cashel Road Dublin 12, Ireland
+
+or
+
 Colep Laupheim GmbH & Co. KG
 
 Fockestraße 12
@@ -31,4 +35,4 @@ LEO Pharma Inc.
 
 Parsippany, NJ 07054
 
-Issued: October 2015
+Issued: June 2016

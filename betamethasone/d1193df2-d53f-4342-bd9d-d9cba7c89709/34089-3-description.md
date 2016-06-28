@@ -18,4 +18,4 @@ Betamethasone dipropionate is a white to almost white crystalline powder.
 Enstilar® Foam is a white to off-white opalescent liquid in a pressurized aluminum spray can with a continuous valve and actuator.
 The propellants used in Enstilar® Foam are dimethyl ether and butane.
 At administration the product is a white to off-white foam after evaporation of the propellants.
-Each gram of Enstilar® Foam contains 52.2 mcg calcipotriene hydrate (equivalent to 50 mcg of calcipotriene) and 0.643 mg of betamethasone dipropionate (equivalent to 0.5 mg of betamethasone) in a base of white petrolatum, PPG-11 stearyl ether, mineral oil, all-rac-alpha-tocopherol, and butylhydroxytoluene.
+Each gram of Enstilar® Foam contains 52.2 mcg calcipotriene hydrate (equivalent to 50 mcg of calcipotriene) and 0.643 mg of betamethasone dipropionate (equivalent to 0.5 mg of betamethasone) in a base of white petrolatum, polyoxypropylene stearyl ether, mineral oil, all-rac-alpha-tocopherol, and butylhydroxytoluene.
