@@ -2,7 +2,7 @@
 
 Dexmedetomidine Hydrochloride Injection, 200 mcg/2 mL (100 mcg/mL), for intravenous infusion, is available in:
 
-Mylan Institutional LLC NDC 67457-251-02 2 mL in a 3 mL single-dose vial, cartons of 25
+NOVAPLUS® NDC 67457-581-02 2 mL in a 3 mL single-dose vial, cartons of 25
 
 The strength is based on the dexmedetomidine base.
 Vials are intended for single use only.
