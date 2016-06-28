@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA078321"
+  ],
+  "inn": "metformin",
+  "labeler": "TAGI Pharma, Inc.",
+  "package_ndcs": [
+    "51224-007-50",
+    "51224-007-60",
+    "51224-107-50",
+    "51224-107-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "metformin hydrochloride",
+      "name": "Metformin Hydrochloride"
+    }
+  ],
+  "setid": "dd0ee2bf-f658-42dc-976d-49af0b1f32b5",
+  "source": "dailymed"
+}
