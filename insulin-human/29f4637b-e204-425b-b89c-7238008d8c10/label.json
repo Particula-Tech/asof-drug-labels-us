@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "NDA022472"
+  ],
+  "inn": "insulin-human",
+  "labeler": "Mannkind Corporation",
+  "package_ndcs": [
+    "47918-874-90",
+    "47918-880-18",
+    "47918-882-36",
+    "47918-884-63",
+    "47918-894-63"
+  ],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "insulin human",
+      "name": "Afrezza"
+    },
+    {
+      "form": "POWDER, METERED",
+      "generic": "insulin human",
+      "name": "Afrezza"
+    }
+  ],
+  "setid": "29f4637b-e204-425b-b89c-7238008d8c10",
+  "source": "dailymed"
+}
