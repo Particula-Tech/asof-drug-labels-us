@@ -19,7 +19,7 @@ Administration should not be made within 2 inches of the naval.
 Sumavel DosePro is not to be administered to other areas of the body, including the arm.
 
 Instruct patients on the proper use of Sumavel DosePro and direct them to use proper injection sites.
-Patients should be instructed not to use Sumavel DosePro if the tip of the device is tilted or broken off upon removal from packaging [see Patient counseling Information (17)].
+Instruct patients to not use Sumavel DosePro if the tip of the device is tilted or broken off upon removal from packaging [see Patient counseling Information (17) and Instructions for Use].
 
 Sumavel DosePro is for single use only.
 Discard after use.

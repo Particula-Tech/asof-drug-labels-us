@@ -1,31 +1,28 @@
-Patient Information Sumavel® DosePro® (SUE-muh-vell DOSE-pro) (sumatriptan injection) Needle-free Delivery System
-
-Read this Patient Information before you start using Sumavel DosePro and each time you get a refill.
-There may be new information.
-This information does not take the place of talking with your healthcare provider about your medical condition or treatment.
+PATIENT INFORMATION Sumavel® DosePro® (SUE-muh-vell DOSE-pro) (sumatriptan injection) for subcutaneous use Needle-free Delivery System
 
 What is the most important information I should know about Sumavel DosePro?
-Sumavel DosePro can cause serious side effects, including: Heart attack and other heart problems.
-Heart problems may lead to death.
 
-Stop taking Sumavel DosePro and get emergency medical help right away if you have any of the following symptoms of a heart attack:
+Sumavel DosePro can cause serious side effects, including:
 
-- discomfort in the center of your chest that lasts for more than a few minutes, or that goes away and comes back
-- severe tightness, pain, pressure, or heaviness in your chest, throat, neck, or jaw
-- pain or discomfort in your arms, back, neck, jaw, or stomach
-- shortness of breath with or without chest discomfort
-- breaking out in a cold sweat
-- nausea or vomiting
-- feeling lightheaded
+- Heart attack and other heart problems.
+  Heart problems may lead to death.
+  Stop taking Sumavel DosePro and get emergency medical help right away if you have any of the following symptoms of a heart attack:
+  - discomfort in the center of your chest that lasts for more than a few minutes, or that goes away and comes back
+  - severe tightness, pain, pressure, or heaviness in your chest, throat, neck, or jaw
+  - pain or discomfort in your arms, back, neck, jaw, or stomach
+  - shortness of breath with or without chest discomfort
+  - breaking out in a cold sweat
+  - nausea or vomiting
+  - feeling lightheaded
 
 Sumavel DosePro is not for people with risk factors for heart disease unless a heart exam is done and shows no problem.
 You have a higher risk for heart disease if you:
 
 - have high blood pressure
-- have high cholesterol levels
 - smoke
-- are overweight
 - have diabetes
+- have high cholesterol levels
+- are overweight
 - have a family history of heart disease
 
 What is Sumavel DosePro?
@@ -38,9 +35,7 @@ Sumavel DosePro is not used to prevent or decrease the number of migraine or clu
 
 It is not known if Sumavel DosePro is safe and effective in children under 18 years of age.
 
-Who should not take Sumavel DosePro?
-
-Do not take Sumavel DosePro if you have:
+Do not take Sumavel DosePro:
 
 - heart problems or a history of heart problems
 - narrowing of blood vessels to your legs, arms, stomach, or kidney (peripheral vascular disease)
@@ -48,14 +43,22 @@ Do not take Sumavel DosePro if you have:
 - hemiplegic migraines or basilar migraines.
   If you are not sure if you have these types of migraines, ask your healthcare provider.
 - had a stroke, transient ischemic attacks (TIAs), or problems with your blood circulation
-- taken any of the following medicines in the last 24 hours: • almotriptan (AXERT®) • eletriptan (RELPAX®) • frovatriptan (FROVA®) • naratriptan (AMERGE®) • rizatriptan (MAXALT®, MAXALT-MLT®) • ergotamines (CAFERGOT®, ERGOMAR®, MIGERGOT®) • dihydroergotamine (D.H.E.
-  45®, MIGRANAL®) Ask your healthcare provider if you are not sure if your medicine is listed above.
+- taken any of the following medicines in the last 24 hours:
+  - almotriptan (AXERT®)
+  - naratriptan (AMERGE®)
+  - dihydroergotamine (D.H.E.
+    45®, MIGRANAL®)
+  - eletriptan (RELPAX®)
+  - rizatriptan (MAXALT®, MAXALT-MLT®)
+  - ergotamines (CAFERGOT®, ERGOMAR®, MIGERGOT®)
+  - frovatriptan (FROVA®)
+
+Ask your healthcare provider if you are not sure if your medicine is listed above.
+
 - are allergic to sumatriptan or any of the ingredients in Sumavel DosePro.
   See the end of this leaflet for a complete list of ingredients in Sumavel DosePro.
 
-What should I tell my healthcare provider before taking Sumavel DosePro?
-
-Before you take Sumavel DosePro, tell your healthcare provider about all of your medical conditions, including if you:
+Before taking Sumavel DosePro, tell your healthcare provider about all of your medical conditions, including if you:
 
 - have high blood pressure
 - have high cholesterol
@@ -110,21 +113,38 @@ If you have these symptoms, do not drive a car, use machinery, or do anything wh
 
 What are the possible side effects of Sumavel DosePro?
 
-Sumavel DosePro may cause serious side effects, including:
+See “What is the most important information I should know about Sumavel DosePro?”
 
-- See “What is the most important information I should know about Sumavel DosePro?”
 - stroke
 - changes in color or sensation in your fingers and toes (Raynaud’s syndrome)
-- stomach and intestinal problems (gastrointestinal and colonic ischemic events) Symptoms of gastrointestinal and colonic ischemic events include: • sudden or severe stomach pain • stomach pain after meals • weight loss • nausea or vomiting • constipation or diarrhea • bloody diarrhea • fever
-- problems with blood circulation to your legs and feet (peripheral vascular ischemia) Symptoms of peripheral vascular ischemia include: • cramping and pain in your legs or hips • feeling of heaviness or tightness in your leg muscles • burning or aching pain in your feet or toes while resting • numbness, tingling, or weakness in your legs • cold feeling or color changes in 1 or both legs or feet
-
+- stomach and intestinal problems (gastrointestinal and colonic ischemic events).
+  Symptoms of gastrointestinal and colonic ischemic events include:
+  - sudden or severe stomach pain
+  - weight loss
+  - constipation or diarrhea
+  - fever
+  - stomach pain after meals
+  - nausea or vomiting
+  - bloody diarrhea
+- problems with blood circulation to your legs and feet (peripheral vascular ischemia).
+  Symptoms of peripheral vascular ischemia include:
+  - cramping and pain in your legs or hips
+  - feeling of heaviness or tightness in your leg muscles
+  - burning or aching pain in your feet or toes while resting
+  - numbness, tingling, or weakness in your legs
+  - cold feeling or color changes in 1 or both legs or feet
 - medication overuse headaches.
   Some people who use too many Sumavel DosePro injections may have worse headaches (medication overuse headache).
   If your headaches get worse, your healthcare provider may decide to stop your treatment with Sumavel DosePro.
 - serotonin syndrome.
   Serotonin syndrome is a rare but serious problem that can happen in people using Sumavel DosePro, especially if Sumavel DosePro is used with anti-depressant medicines called SSRIs or SNRIs.
-  Call your healthcare provider right away if you have any of the following symptoms of serotonin syndrome: • mental changes such as seeing things that are not there (hallucinations), agitation, or coma • fast heartbeat • changes in blood pressure • high body temperature • tight muscles • trouble walking
-
+  Call your healthcare provider right away if you have any of the following symptoms of serotonin syndrome:
+  - mental changes such as seeing things that are not there (hallucinations), agitation, or coma
+  - fast heartbeat
+  - changes in blood pressure
+  - high body temperature
+  - tight muscles
+  - trouble walking
 - seizures.
   Seizures have happened in people taking Sumavel DosePro who have never had seizures before.
   Talk with your healthcare provider about your chance of having seizures while you take Sumavel DosePro.
@@ -138,17 +158,13 @@ The most common side effects of Sumavel DosePro include:
 - discomfort or stiffness in your neck
 - feeling weak, drowsy, or tired
 
-Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
-
 These are not all the possible side effects of Sumavel DosePro.
-For more information, ask your healthcare provider or pharmacist.
-
 Call your doctor for medical advice about side effects.
-You may report side effects to the FDA at 1-800-FDA-1088.
+You may report side effects to FDA at 1-800-FDA-1088.
 
-How should I store Sumavel DosePro Injection?
+How should I store Sumavel DosePro?
 
-- Store Sumavel DosePro between 68 oF to 77 oF (20 oC to 25 oC).
+- Store Sumavel DosePro between 68 °F to 77 °F (20 °C to 25 °C).
 - Do not freeze.
 - Protect from light.
 
@@ -156,24 +172,23 @@ Keep Sumavel DosePro and all medicines out of the reach of children.
 
 General information about the safe and effective use of Sumavel DosePro.
 
-Medicines are sometimes prescribed for purposes other than those listed in Patient Information leaflets.
+Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
 Do not use Sumavel DosePro for a condition for which it was not prescribed.
-Do not give Sumavel DosePro to other people, even if they have the same symptoms you have.
+Do not give Sumavel DosePro to other people, even if they have the same symptoms that you have.
 It may harm them.
+You can ask your pharmacist or healthcare provider for information about Sumavel DosePro that is written for health professionals.
 
-This Patient Information leaflet summarizes the most important information about Sumavel DosePro.
-If you would like more information, talk with your healthcare provider.
-You can ask your healthcare provider or pharmacist for information about Sumavel DosePro that is written for healthcare professionals.
-
-For more information, go to www.SumavelDosePro.com or call Endo Pharmaceuticals at 1-800-462-3636
-
-What are the ingredients in Sumavel DosePro Injection?
+What are the ingredients in Sumavel DosePro?
 
 Active ingredient: sumatriptan succinate
 
 Inactive ingredients: sodium chloride, water for injection
 
-Instructions for Use Sumavel® DosePro® (SUE-muh-vell DOSE-pro) (sumatriptan injection) Needle-free Delivery System
+For more information, go to www.SumavelDosePro.com or call Endo Pharmaceuticals at 1-800-462-3636
+
+SIE 90030
+
+Instructions for Use Sumavel® DosePro® (SUE-muh-vell DOSE-pro) (sumatriptan injection), for subcutaneous use Needle-free Delivery System
 
 Read these Instructions for Use which come with Sumavel DosePro before you start using it and each time you get a refill.
 Follow these instructions each time you use Sumavel DosePro.
