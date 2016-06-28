@@ -15,14 +15,4 @@ Darunavir was not mutagenic or genotoxic in a battery of in vitro and in vivo as
 
 Impairment of Fertility
 
-No effects on fertility or early embryonic development were observed with darunavir in rats and darunavir has shown no teratogenic potential in mice or rats (in the presence or absence of ritonavir), and rabbits.
-
-## 13.2 Animal Toxicology and/or Pharmacology
-
-In juvenile rats single doses of darunavir (20 mg/kg to 160 mg/kg at ages 5–11 days) or multiple doses of darunavir (40 mg/kg to 1000 mg/kg at age 12 days) caused mortality.
-The mortalities were associated with convulsions in some of the animals.
-Within this age range exposures in plasma, liver and brain were dose and age dependent and were considerably greater than those observed in adult rats.
-These findings were attributed to the ontogeny of the CYP450 liver enzymes involved in the metabolism of darunavir and the immaturity of the blood-brain barrier.
-No treatment-related mortalities were noted in juvenile rats after a single dose of darunavir at 1000 mg/kg on day 26 of age or after repeat dosing at 500 mg/kg from day 23 to 50 of age.
-The exposures and toxicity profile in the older animals (day 23 or day 26) were comparable to those observed in adult rats.
-Due to uncertainties regarding the rate of development of the human blood-brain barrier and liver enzymes, do not administer PREZISTA/ritonavir in pediatric patients below 3 years of age.
+No effects on fertility or early embryonic development were observed with darunavir in rats.

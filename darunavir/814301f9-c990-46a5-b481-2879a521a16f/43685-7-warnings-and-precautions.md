@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 General
+## 5.1 Importance of Co-administration with Ritonavir
 
 PREZISTA must be co-administered with ritonavir and food to achieve the desired antiviral effect.
 Failure to administer PREZISTA with ritonavir and food may result in a loss of efficacy of darunavir.
@@ -50,14 +50,14 @@ Initiation of PREZISTA/ritonavir, a CYP3A inhibitor, in patients receiving medic
 Initiation of medications that inhibit or induce CYP3A may increase or decrease concentrations of PREZISTA/ritonavir, respectively.
 These interactions may lead to:
 
-- Clinically significant adverse reactions, potentially leading to severe, life-threatening, or fatal events from greater exposures of concomitant medications.
+- Clinically significant adverse reactions, potentially leading to severe, life threatening, or fatal events from greater exposures of concomitant medications.
 - Clinically significant adverse reactions from greater exposures of PREZISTA/ritonavir.
 - Loss of therapeutic effect of PREZISTA/ritonavir and possible development of resistance.
 
 See Table 11 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations [see Drug Interactions (7)].
 Consider the potential for drug interactions prior to and during PREZISTA/ritonavir therapy; review concomitant medications during PREZISTA/ritonavir therapy; and monitor for the adverse reactions associated with the concomitant drugs [see Contraindications (4) and Drug Interactions (7)].
 
-## 5.6 Diabetes Mellitus / Hyperglycemia
+## 5.6 Diabetes Mellitus/Hyperglycemia
 
 New onset diabetes mellitus, exacerbation of pre-existing diabetes mellitus, and hyperglycemia have been reported during postmarketing surveillance in HIV-infected patients receiving protease inhibitor (PI) therapy.
 Some patients required either initiation or dose adjustments of insulin or oral hypoglycemic agents for treatment of these events.
@@ -85,10 +85,6 @@ In some patients, additional factor VIII was given.
 In more than half of the reported cases, treatment with PIs was continued or reintroduced if treatment had been discontinued.
 A causal relationship between PI therapy and these episodes has not been established.
 
-## 5.10 Resistance/Cross-Resistance
+## 5.10 Not Recommended in Pediatric Patients Below 3 Years of Age
 
-Because the potential for HIV cross-resistance among PIs has not been fully explored in PREZISTA/ritonavir treated patients, the effect therapy with PREZISTA will have on the activity of subsequently administered PIs is unknown [see Microbiology (12.4)].
-
-## 5.11 Pediatric Patients
-
-Do not administer PREZISTA/ritonavir in pediatric patients below 3 years of age in view of toxicity and mortality observed in juvenile rats dosed with darunavir (from 20 mg/kg to 1000 mg/kg) up to days 23 to 26 of age [see Use in Specific Populations (8.1 and 8.4), Clinical Pharmacology (12.3), and Nonclinical Toxicology (13.2)].
+PREZISTA/ritonavir in pediatric patients below 3 years of age is not recommended in view of toxicity and mortality observed in juvenile rats dosed with darunavir (from 20 mg/kg to 1000 mg/kg) up to days 23 to 26 of age [see Use in Specific Populations (8.1 and 8.4), and Clinical Pharmacology (12.3)].

@@ -72,7 +72,7 @@ Rx only
 
 janssen
 
-PRINCIPAL DISPLAY PANEL - 100 mg per mL Bottle Carton
+PRINCIPAL DISPLAY PANEL - 200 mL Bottle Carton
 
 200 mL NDC 59676-565-01
 
