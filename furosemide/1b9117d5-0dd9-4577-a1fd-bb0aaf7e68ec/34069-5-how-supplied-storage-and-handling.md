@@ -1,6 +1,7 @@
 # HOW SUPPLIED
 
 Furosemide Injection, USP is clear, colorless to slightly yellow solution.
+
 Furosemide Injection, USP (10 mg/mL)
 
 | NDC 23155-473-41 | 2 mL single dose amber colored vial (23155-473-31) packaged in boxes of 25. |
@@ -11,7 +12,20 @@ Furosemide Injection, USP (10 mg/mL)
 | NDC 23155-473-45 | 10 mL single dose amber colored vial (23155-473-33) packaged in boxes of 50. |
 
 Do not use if solution is discolored.
+
 Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) (See USP Controlled Room Temperature).
+
 Protect from light.
-Manufactured by: Emcure Pharmaceuticals Ltd., Hinjwadi, Pune, India.
-Manufactured for: Heritage Pharmaceuticals Inc. Eatontown, NJ 07724 1.866.901.DRUG (3784)
+
+Manufactured for:
+
+Heritage Pharmaceuticals Inc.
+
+Eatontown, NJ 07724
+
+1.866.901.DRUG (3784)
+
+Made In India
+
+Rev.
+04/16
