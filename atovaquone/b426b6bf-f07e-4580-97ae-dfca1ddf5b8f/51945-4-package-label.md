@@ -33,8 +33,8 @@ Research Triangle Park, NC 27709
 
 Made in Canada
 
-- A135317 Rev.
-  6/15
+1. A135317 Rev.
+   6/15
 
 PRINCIPAL DISPLAY PANEL
 
@@ -48,8 +48,6 @@ SUSPENSION
 
 750 mg/ 5mL
 
-5 mL
-
 Each 5 mL sachet (1 teaspoonful) contains 750 mg atovaquone.
 
 Store at 15o to 25oC (59o to 77oF).
@@ -57,11 +55,13 @@ DO NOT FREEZE.
 
 See accompanying prescribing information for Dosage and Administration.
 
+5 mL
+
 Rx only
 
 Contains 42 sachets of 5 mL each
 
 ©2015, the GSK group of companies
 
-- A133004 Rev.
-  2/15
+1. A137261 Rev.
+   9/15

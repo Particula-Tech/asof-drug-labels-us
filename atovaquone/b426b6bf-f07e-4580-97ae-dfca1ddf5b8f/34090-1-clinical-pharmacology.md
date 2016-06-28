@@ -64,10 +64,11 @@ Relationship between Plasma Atovaquone Concentration and Successful Treatment
 | 20 to <25 | 18/18 | 100% | 17.8/18 | 99% |
 | 25+ | 6/6 | 100% | 6/6 | 100% |
 
-- aSuccessful treatment was defined as improvement in clinical and respiratory measures persisting at least 4 weeks after cessation of therapy.
-  Improvement in clinical and respiratory measures was assessed using a composite of parameters that included oral body temperature, respiratory rate, severity scores for cough, dyspnea, and chest pain/tightness.
-  This analysis was based on data from subjects for whom both outcome and steady-state plasma atovaquone concentration data were available.
-- bBased on logistic regression analysis.
+aSuccessful treatment was defined as improvement in clinical and respiratory measures persisting at least 4 weeks after cessation of therapy.
+Improvement in clinical and respiratory measures was assessed using a composite of parameters that included oral body temperature, respiratory rate, severity scores for cough, dyspnea, and chest pain/tightness.
+This analysis was based on data from subjects for whom both outcome and steady-state plasma atovaquone concentration data were available.
+
+bBased on logistic regression analysis.
 
 A dosing regimen of MEPRON suspension for the treatment of mild‑to‑moderate PCP was selected to achieve average plasma atovaquone concentrations of approximately 20 mcg/mL, because this plasma concentration was previously shown to be well tolerated and associated with the highest treatment success rates (Table 6).
 In an open‑label PCP treatment trial with MEPRON suspension, dosing regimens of 1,000 mg once daily, 750 mg twice daily, 1,500 mg once daily, and 1,000 mg twice daily were explored.
