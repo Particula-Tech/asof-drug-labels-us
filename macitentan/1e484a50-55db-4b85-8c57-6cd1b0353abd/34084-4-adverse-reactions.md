@@ -36,6 +36,8 @@ Immune system disorders: hypersensitivity reactions (angioedema, pruritus and ra
 
 Respiratory, thoracic and mediastinal disorders: nasal congestion
 
-General disorders and administration site conditions: edema/fluid retention
+General disorders and administration site conditions: edema/fluid retention.
 
 Cases of edema and fluid retention occurred within weeks of starting Opsumit, some requiring intervention with a diuretic, fluid management or hospitalization for decompensated heart failure.
+
+Cardiac disorders: symptomatic hypotension
