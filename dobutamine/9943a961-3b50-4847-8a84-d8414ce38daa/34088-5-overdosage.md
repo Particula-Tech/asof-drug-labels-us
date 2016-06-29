@@ -3,8 +3,8 @@
 Overdoses of dobutamine have been reported rarely.
 The following is provided to serve as a guide if such an overdose is encountered.
 
-Signs and Symptoms: Toxicity from dobutamine hydrochloride is usually due to excessive cardiac β‑receptor stimulation.
-The duration of action of dobutamine hydrochloride is generally short (T½ = two minutes) because it is rapidly metabolized by catechol-O-methyltransferase.
+Signs and Symptoms: Toxicity from dobutamine hydrochloride is usually due to excessive cardiac β-receptor stimulation.
+The duration of action of dobutamine hydrochloride is generally short (T½ = 2 minutes) because it is rapidly metabolized by catechol-O-methyltransferase.
 The symptoms of toxicity may include anorexia, nausea, vomiting, tremor, anxiety, palpitations, headache, shortness of breath, and anginal and nonspecific chest pain.
 The positive inotropic and chronotropic effects of dobutamine on the myocardium may cause hypertension, tachyarrhythmias, myocardial ischemia, and ventricular fibrillation.
 Hypotension may result from vasodilation.

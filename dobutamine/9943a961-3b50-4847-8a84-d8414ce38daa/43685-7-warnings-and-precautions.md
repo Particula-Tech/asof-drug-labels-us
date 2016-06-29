@@ -7,8 +7,8 @@ Approximately 10% of adult patients in clinical studies have had rate increases 
 Usually, reduction of dosage reverses these effects.
 
 Because dobutamine facilitates atrioventricular conduction, patients with atrial fibrillation are at risk of developing rapid ventricular response.
-Patients with pre-existing hypertension appear to face an increased risk of developing an exaggerated pressure response.
 In patients who have atrial fibrillation with rapid ventricular response, a digitalis preparation should be used prior to institution of therapy with dobutamine.
+Patients with pre-existing hypertension appear to face an increased risk of developing an exaggerated pressure response.
 
 Ectopic Activity
 
@@ -22,14 +22,6 @@ Dobutamine in 5% Dextrose Injection, USP contains sodium bisulfite, a sulfite th
 The overall prevalence of sulfite sensitivity in the general population is unknown and probably low.
 Sulfite sensitivity is seen more frequently in asthmatic than in nonasthmatic people.
 
-Solutions containing dextrose should not be administered through the same administration set as blood, as this may result in pseudoagglutination or hemolysis.
-
-The intravenous administration of solutions may cause fluid overloading resulting in dilution of serum electrolyte concentrations, overhydration, congested states or pulmonary edema.
-The risk of dilutional states is inversely proportional to the electrolyte concentrations of the injections.
-The risk of solute overload causing congested states with peripheral and pulmonary edema is directly proportional to the electrolyte concentration of the injections.
-
-Excess administration of potassium-free solutions may result in significant hypokalemia.
-
 # PRECAUTIONS
 
 General
@@ -39,18 +31,13 @@ In addition, pulmonary wedge pressure and cardiac output should be monitored whe
 
 Hypovolemia should be corrected with suitable volume expanders before treatment with Dobutamine in 5% Dextrose Injection, USP is instituted.
 
-Animal studies indicate that dobutamine may be ineffective if the patient has recently received a β‑blocking drug.
+Animal studies indicate that dobutamine may be ineffective if the patient has recently received a β-blocking drug.
 In such a case, the peripheral vascular resistance may increase.
 
 No improvement may be observed in the presence of marked mechanical obstruction, such as severe valvular aortic stenosis.
 
-Solutions containing dextrose should be used with caution in patients with known subclinical or overt diabetes mellitus.
-
 Do not administer unless solution is clear and container is undamaged.
-
 Discard unused portion.
-
-If administration is controlled by a pumping device, care must be taken to discontinue pumping action before the container runs dry or air embolism may result.
 
 Usage Following Acute Myocardial Infarction: Clinical experience with dobutamine following myocardial infarction has been insufficient to establish the safety of the drug for this use.
 There is concern that any agent that increases contractile force and heart rate may increase the size of an infarction by intensifying ischemia, but it is not known whether dobutamine does so.
