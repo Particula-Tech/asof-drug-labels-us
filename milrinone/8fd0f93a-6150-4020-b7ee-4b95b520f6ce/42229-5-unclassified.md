@@ -18,9 +18,9 @@ If the administration port protector is damaged, detached, or not present, disca
 
 (Use aseptic technique)
 
-1. Suspend container from eyelet support.
-2. Remove protector from administration port at bottom of container.
-3. Attach administration set.
+1. 1.Suspend container from eyelet support.
+2. 2.Remove protector from administration port at bottom of container.
+3. 3.Attach administration set.
    Refer to complete directions accompanying set.
 
 Caution: Do not administer simultaneously with blood.

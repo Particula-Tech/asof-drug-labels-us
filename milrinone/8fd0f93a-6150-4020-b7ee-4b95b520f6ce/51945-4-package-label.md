@@ -1,5 +1,7 @@
 # PACKAGE LABELING - PRINCIPAL DISPLAY PANEL
 
+Container Label
+
 LOT EXP
 
 200 mL 2J0901 NDC 0338-6011-37
@@ -26,6 +28,8 @@ INTRAVIA CONTAINER BAXTER AND INTRAVIA ARE TRADEMARKS OF BAXTER INTERNATIONAL IN
 
 US PAT NOS 5 849 843 5 998 019 PAT PENDING
 
+Carton Label
+
 LOT EXP
 
 10 x 200 mL Single Dose IntraVia Containers
@@ -39,6 +43,8 @@ Protect from freezing.
 Avoid excessive heat.
 
 GS1 128 BARCODE PLACEMENT ONLY (01)50303386011376
+
+Container
 
 LOT EXP
 
@@ -60,11 +66,17 @@ INTRAVIA CONTAINER BAXTER AND INTRAVIA ARE TRADEMARKS OF BAXTER INTERNATIONAL IN
 
 Baxter Logo BAXTER HEALTHCARE CORPORATION DEERFIELD IL 60015 USA MADE IN USA
 
-LOT EXP
+Carton
 
-10 x 100 mL Single Dose IntraVia Containers
+Lot: PXXXXXX
 
-NDC 0338-6010-48 Code 2J0901
+Exp: JAN 9999
+
+Code: 2J0900
+
+QTY: 10 x 100 mL Single Dose IntraVia Containers
+
+NDC 0338-6010-48
 
 Milrinone Lactate in 5% Dextrose Injection 20 mg/100 mL
 
@@ -72,8 +84,4 @@ Recommended storage: Store at room temperature (25°C/77°F); however brief expo
 Protect from freezing.
 Avoid excessive heat.
 
-GS1 128 BARCODE PLACEMENT ONLY (01)50303386010485
-
-07-06-61-019
-
-Baxter Logo
+BARCODE PLACEMENT ONLY (01)50303386010485(17)990100(21)000000150225(10)PXXXXXX
