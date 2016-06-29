@@ -37,13 +37,15 @@ Women of Reproductive Potential
 
 Advise patients to inform their health care professional if they are pregnant or are contemplating pregnancy.
 
-Literature issued December 16, 2015
+Literature revised June 17, 2016
 
 Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
 
-And Boehringer Ingelheim Pharmaceuticals, Inc., Ridgefield, CT 06877, USA
+And
 
-Copyright © 2015, Eli Lilly and Company.
+Boehringer Ingelheim Pharmaceuticals, Inc., Ridgefield, CT 06877, USA
+
+Copyright © 2015, 2016, Eli Lilly and Company.
 All rights reserved.
 
-BASKP-0001-USPI-20151216
+BASKP-0002-USPI-20160617

@@ -4,7 +4,11 @@
 
 BASAGLAR is a clear, colorless, sterile solution, with no visible particles, 100 units per mL (U-100) available as:
 
-5 x 3 mL BASAGLAR KwikPen (prefilled) NDC 0002-7711-59 (HP-7711)
+5 x 3 mL BASAGLAR KwikPen (prefilled) NDC 0002-7715-59 (HP-7715)
+
+Needles are not included.
+
+This device is recommended for use with Becton, Dickinson & Company's insulin pen needles which are sold separately.
 
 ## 16.2 Storage and Handling
 
@@ -17,6 +21,6 @@ Do not use after the expiration date.
 
 Storage conditions are summarized in the following table:
 
-|  | Not In-Use (Unopened) Room Temperature (Below 86°F [30°C]) | Not In-Use (Unopened) Refrigerated (36°F to 46°F [2°C to 8°C]) | In-Use (Opened) Room Temperature, (Below 86°F [30°C]) |
+|  | Not In-Use (Unopened) Room Temperature (up to 86°F [30°C]) | Not In-Use (Unopened) Refrigerated (36°F to 46°F [2°C to 8°C]) | In-Use (Opened) Room Temperature, (up to 86°F [30°C]) |
 | --- | --- | --- | --- |
 | 3 mL BASAGLAR KwikPen (prefilled) | 28 days | Until expiration date | 28 days, Do not refrigerate. |

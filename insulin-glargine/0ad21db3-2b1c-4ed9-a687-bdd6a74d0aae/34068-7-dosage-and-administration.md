@@ -6,7 +6,7 @@
 - Train patients on proper use and injection technique before initiating BASAGLAR.
 - Visually inspect BASAGLAR KwikPen for particulate matter and discoloration prior to administration.
   Only use if the solution is clear and colorless with no visible particles.
-- Inject between 1 and 60 units per injection.
+- Inject between 1 and 80 units per injection.
 - Administer BASAGLAR subcutaneously into the abdominal area, thigh, or deltoid, and rotate injection sites within the same region from one injection to the next to reduce the risk of lipodystrophy [see Adverse Reactions (6.1)].
 - Do not dilute or mix BASAGLAR with any other insulin or solution as the onset of action or time to peak effect of BASAGLAR and the mixed insulin may be altered in an unpredictable manner.
 - Do not administer intravenously or via an insulin pump because this could result in severe hypoglycemia.
