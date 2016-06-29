@@ -311,7 +311,7 @@ Due to the narrow therapeutic index of pimozide and its known ability to prolong
 
 Based on the mechanism of action of SNRIs and SSRIs, including paroxetine hydrochloride and the potential for serotonin syndrome, caution is advised when paroxetine hydrochloride is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, lithium, fentanyl, tramadol or St. John's Wort (see WARNINGS: Serotonin Syndrome).
 
-The concomitant use of paroxetine hydrochloride with MAOIs (including linezolid and intravenous methylene blue) is contradicated (see CONTRADICATIONS).
+The concomitant use of paroxetine hydrochloride with MAOIs (including linezolid and intravenous methylene blue) is contraindicated (see CONTRADICATIONS).
 The concomitant use of paroxetine hydrochloride with other SSRIs, SNRIs or tryptophan is not recommended (see PRECAUTIONS: Drug Interactions: Tryptophan).
 
 ### Thioridazine
@@ -497,7 +497,7 @@ Events reported upon discontinuation of treatment with paroxetine hydrochloride 
 
 ## Geriatric Use
 
-SSRIs and SNRIs, including paroxetine hydrochloride, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event (see PRECAUTIONS:Hyponatremia).
+SSRIs and SNRIs, including paroxetine hydrochloride, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event (see PRECAUTIONS: Hyponatremia).
 
 In worldwide premarketing clinical trials with paroxetine hydrochloride, 17% of patients treated with paroxetine hydrochloride (approximately 700) were 65 years of age or older.
 Pharmacokinetic studies revealed a decreased clearance in the elderly, and a lower starting dose is recommended; there were, however, no overall differences in the adverse event profile between elderly and younger patients, and effectiveness was similar in younger and older patients (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).

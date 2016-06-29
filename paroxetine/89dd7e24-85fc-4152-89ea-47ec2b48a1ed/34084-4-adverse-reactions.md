@@ -99,7 +99,7 @@ Treatment-Emergent Adverse Experience Incidence in Placebo-Controlled Clinical T
 | Special Senses | Blurred Vision | 4% | 1% |
 |  | Taste Perversion | 2% | 0% |
 | Urogenital System | Ejaculatory DisturbancePercentage corrected for gender.Mostly “ejaculatory delay”. | 13% | 0% |
-|  | Other Male Genital Disoders‡Includes “anorgasmia,” “erectile difficulties,” “delayed ejaculation/orgasm,” and “sexual dysfunction,” and “impotence”. | 10% | 0% |
+|  | Other Male Genital Disorders‡Includes “anorgasmia,” “erectile difficulties,” “delayed ejaculation/orgasm,” and “sexual dysfunction,” and “impotence”. | 10% | 0% |
 |  | Urinary Frequency | 3% | 1% |
 |  | Urination DisorderIncludes mostly “difficulty with micturition” and “urinary hesitancy”. | 3% | 0% |
 |  | Female Genital Disorders‡Includes mostly “anorgasmia” and “difficulty reaching climax/orgasm”. | 2% | 0% |
@@ -193,12 +193,12 @@ Treatment-Emergent Adverse Experience Incidence in Placebo-Controlled Clinical T
 |  | Nervousness | 4% | 3% |
 |  | Libido Decreased | 9% | 2% |
 |  | Abnormal Dreams | - | - |
-| Respiratory System | Respiraoty Disorder | 7% | 5% |
+| Respiratory System | Respiratory Disorder | 7% | 5% |
 |  | Sinusitis | 4% | 3% |
 |  | Yawn | 4% | - |
 | Special Senses | Abnormal Vision | 2% | 1% |
 | Urogenital System | Abnormal EjaculationPercentage corrected for gender. | 25% | 2% |
-|  | Femal Genital Disorder† | 4% | 1% |
+|  | Female Genital Disorder† | 4% | 1% |
 |  | Impotence† | 4% | 3% |
 
 ## Dose Dependency of Adverse Events

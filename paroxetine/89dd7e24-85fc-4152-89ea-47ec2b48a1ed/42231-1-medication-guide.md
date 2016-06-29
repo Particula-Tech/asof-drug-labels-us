@@ -53,7 +53,6 @@ Visual problems
 - •eye pain
 - •changes in vision
 - •swelling or redness in or around the eye
-
 - Only some people are at risk for these problems.
   You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 
@@ -220,7 +219,7 @@ You may report side effects to the FDA at 1-800-FDA-1088 or 1-800-332-1088.
 
 How should I store paroxetine tablets?
 
-- •Store paroxetine tablets at 20° to 25 °C (68° to 77°F).
+- •Store paroxetine tablets at 20° to 25°C (68° to 77°F).
 - •Keep paroxetine tablets away from light.
 - •Keep bottle of paroxetine tablets closed tightly.
 
@@ -249,6 +248,10 @@ Inactive ingredients in tablets: dibasic calcium phosphate dihydrate, FD&C Blue 
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED OCTOBER 2014 PXTT:R10mh/MG:PXTT:R4mh
+Manufactured by: ALPHAPHARM PTY LTD 15 Garnet Street Carole Park QLD 4300 Australia
+
+2848/1
+
+REVISED MARCH 2016 ALP:PXTT:R8mh/ALP:MG:PXTT:R1mh
