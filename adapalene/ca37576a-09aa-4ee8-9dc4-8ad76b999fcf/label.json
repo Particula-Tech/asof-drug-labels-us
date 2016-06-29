@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA208322"
+  ],
+  "inn": "adapalene",
+  "labeler": "Taro Pharmaceuticals U.S.A., Inc.",
+  "package_ndcs": [
+    "51672-1377-6",
+    "51672-1377-9"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "adapalene",
+      "name": "Adapalene"
+    }
+  ],
+  "setid": "ca37576a-09aa-4ee8-9dc4-8ad76b999fcf",
+  "source": "dailymed"
+}
