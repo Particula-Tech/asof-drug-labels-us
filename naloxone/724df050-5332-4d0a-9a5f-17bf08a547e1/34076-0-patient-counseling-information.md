@@ -89,7 +89,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 How should I store NARCAN Nasal Spray?
 
 - Store NARCAN Nasal Spray at room temperature between 59°F to 77°F (15°C to 25°C).
-  NARCAN Nasal Spray may be stored for short periods between 39°F to 104°F (4°C to 40°C).
+  NARCAN Nasal Spray may be stored for short periods up to 104°F (40°C).
 - Do not freeze NARCAN Nasal Spray.
 - Keep NARCAN Nasal Spray in its box until ready to use.
   Protect from light.
@@ -110,4 +110,4 @@ Distributed by Adapt Pharma, Inc., Radnor, PA 19087 USA.
 For more information, go to www.narcannasalspray.com or call 1-844-4NARCAN (1-844-462-7226).
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Issued: 11/2015
+Revised: 02/2016
