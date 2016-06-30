@@ -2,21 +2,19 @@
 
 The therapeutic effects of CARDIZEM CD are believed to be related to its ability to inhibit the cellular influx of calcium ions during membrane depolarization of cardiac and vascular smooth muscle.
 
-## Mechanisms of Action
+Mechanisms of Action
 
-Hypertension.
-CARDIZEM CD produces its antihypertensive effect primarily by relaxation of vascular smooth muscle and the resultant decrease in peripheral vascular resistance.
+Hypertension: CARDIZEM CD produces its antihypertensive effect primarily by relaxation of vascular smooth muscle and the resultant decrease in peripheral vascular resistance.
 The magnitude of blood pressure reduction is related to the degree of hypertension; thus hypertensive individuals experience an antihypertensive effect, whereas there is only a modest fall in blood pressure in normotensives.
 
-Angina.
-CARDIZEM CD has been shown to produce increases in exercise tolerance, probably due to its ability to reduce myocardial oxygen demand.
-This is accomplished via reductions in heart rate and systemic blood pressure at submaximal and maximal work loads.
+Angina: CARDIZEM CD has been shown to produce increases in exercise tolerance, probably due to its ability to reduce myocardial oxygen demand.
+This is accomplished via reductions in heart rate and systemic blood pressure at submaximal and maximal workloads.
 Diltiazem has been shown to be a potent dilator of coronary arteries, both epicardial and subendocardial.
-Spontaneous and ergonovine-induced coronary artery spasm are inhibited by diltiazem.
+Spontaneous and ergonovine-induced coronary artery spasms are inhibited by diltiazem.
 
 In animal models, diltiazem interferes with the slow inward (depolarizing) current in excitable tissue.
 It causes excitation-contraction uncoupling in various myocardial tissues without changes in the configuration of the action potential.
-Diltiazem produces relaxation of coronary vascular smooth muscle and dilation of both large and small coronary arteries at drug levels which cause little or no negative inotropic effect.
+Diltiazem produces relaxation of coronary vascular smooth muscle and dilation of both large and small coronary arteries at drug levels that cause little or no negative inotropic effect.
 The resultant increases in coronary blood flow (epicardial and subendocardial) occur in ischemic and nonischemic models and are accompanied by dose-dependent decreases in systemic blood pressure and decreases in peripheral resistance.
 
 ## Hemodynamic and Electrophysiologic Effects
@@ -25,17 +23,17 @@ Like other calcium channel antagonists, diltiazem decreases sinoatrial and atrio
 In the intact animal, prolongation of the AH interval can be seen at higher doses.
 
 In man, diltiazem prevents spontaneous and ergonovine-provoked coronary artery spasm.
-It causes a decrease in peripheral vascular resistance and a modest fall in blood pressure in normotensive individuals and, in exercise tolerance studies in patients with ischemic heart disease, reduces the heart rate-blood pressure product for any given work load.
-Studies to date, primarily in patients with good ventricular function, have not revealed evidence of a negative inotropic effect; cardiac output, ejection fraction, and left ventricular end diastolic pressure have not been affected.
+It causes a decrease in peripheral vascular resistance and a modest fall in blood pressure in normotensive individuals and, in exercise tolerance studies in patients with ischemic heart disease, reduces the heart rate-blood pressure product for any given workload.
+Studies, primarily in patients with good ventricular function, have not revealed evidence of a negative inotropic effect; cardiac output, ejection fraction, and left ventricular end diastolic pressure have not been affected.
 Such data have no predictive value with respect to effects in patients with poor ventricular function, and increased heart failure has been reported in patients with preexisting impairment of ventricular function.
-There are as yet few data on the interaction of diltiazem and beta-blockers in patients with poor ventricular function.
+There are few data on the interaction of diltiazem and beta-blockers in patients with poor ventricular function.
 Resting heart rate is usually slightly reduced by diltiazem.
 
 In hypertensive patients, CARDIZEM CD produces antihypertensive effects both in the supine and standing positions.
 In a double-blind, parallel, dose-response study utilizing doses ranging from 90 to 540 mg once daily, CARDIZEM CD lowered supine diastolic blood pressure in an apparent linear manner over the entire dose range studied.
 The changes in diastolic blood pressure, measured at trough, for placebo, 90 mg, 180 mg, 360 mg, and 540 mg were –2.9, –4.5, –6.1, –9.5, and –10.5 mm Hg, respectively.
 Postural hypotension is infrequently noted upon suddenly assuming an upright position.
-No reflex tachycardia is associated with the chronic anti-hypertensive effects.
+No reflex tachycardia is associated with the chronic antihypertensive effects.
 CARDIZEM CD decreases vascular resistance, increases cardiac output (by increasing stroke volume), and produces a slight decrease or no change in heart rate.
 During dynamic exercise, increases in diastolic pressure are inhibited, while maximum achievable systolic pressure is usually reduced.
 Chronic therapy with CARDIZEM CD produces no change or an increase in plasma catecholamines.
@@ -74,12 +72,14 @@ There is a departure from linearity when dose strengths are increased; the half-
 A study that compared patients with normal hepatic function to patients with cirrhosis found an increase in half-life and a 69% increase in bioavailability in the hepatically impaired patients.
 A single study in nine patients with severely impaired renal function showed no difference in the pharmacokinetic profile of diltiazem compared to patients with normal renal function.
 
-CARDIZEM CD Capsules.
-When compared to a regimen of CARDIZEM tablets at steady-state, more than 95% of drug is absorbed from the CARDIZEM CD formulation.
-A single 360-mg dose of the capsule results in detectable plasma levels within 2 hours and peak plasma levels between 10 and 14 hours; absorption occurs throughout the dosing interval.
+CARDIZEM CD Capsules: When compared to a regimen of CARDIZEM tablets at steady-state, more than 95% of drug is absorbed from the CARDIZEM CD formulation.
+A single 360 mg dose of the capsule results in detectable plasma levels within 2 hours and peak plasma levels between 10 and 14 hours; absorption occurs throughout the dosing interval.
 When CARDIZEM CD was coadministered with a high fat content breakfast, the extent of diltiazem absorption was not affected.
 Dose-dumping does not occur.
 The apparent elimination half-life after single or multiple dosing is 5 to 8 hours.
 A departure from linearity similar to that seen with CARDIZEM tablets and CARDIZEM SR capsules is observed.
-As the dose of CARDIZEM CD capsules is increased from a daily dose of 120 mg to 240 mg, there is an increase in the area-under-the-curve of 2.7 times.
-When the dose is increased from 240 mg to 360 mg, there is an increase in the area-under-the-curve of 1.6 times.
+As the dose of CARDIZEM CD capsules is increased from a daily dose of 120 mg to 240 mg, there is an increase in the area under the curve of 2.7 times.
+When the dose is increased from 240 mg to 360 mg, there is an increase in the area under the curve of 1.6 times.
+
+In an in vitro dissolution study, the release rate of diltiazem from CARDIZEM CD increased significantly as the alcohol percentage in the dissolution medium increased.
+The effect of alcohol on the release rate may lead to a change in the pharmacokinetics of diltiazem, such as a more rapid absorption and/or an increase in the systemic exposure of diltiazem (see PRECAUTIONS, Drug Interactions).
