@@ -13,7 +13,7 @@ The safety of TYBOST is based on Week 144 data from a Phase 3 trial, Study 114, 
 - TYBOST coadministered with atazanavir and tenofovir DF/emtricitabine (administered as TRUVADA) (N=344) or;
 - ritonavir coadministered with atazanavir and tenofovir DF/emtricitabine (administered as TRUVADA) (N=348).
 
-The most common adverse reactions (Grades 2–4) and reported in >5% of subjects in the TYBOST group were jaundice (6%), and rash (5%).
+The most common adverse reactions (Grades 2–4) and reported in >5% of subjects in the TYBOST group were jaundice (6%) and rash (5%).
 The proportion of subjects who discontinued study treatment due to adverse events, regardless of severity, was 11% in both the TYBOST and ritonavir groups.
 Table 3 displays the frequency of adverse reactions (Grades 2–4) occurring in at least 2% of subjects in the TYBOST group in Study 114.
 
@@ -31,7 +31,7 @@ Table 3 Selected Adverse ReactionsFrequencies of adverse reactions are based on 
 
 Less Common Adverse Reactions
 
-Selected adverse reactions of at least moderate severity (≥ Grade 2) occurring in less than 2% of subjects receiving TYBOST coadministered with atazanavir and TRUVADA are listed below.
+Selected adverse reactions of at least moderate severity (≥Grade 2) occurring in less than 2% of subjects receiving TYBOST coadministered with atazanavir and TRUVADA are listed below.
 These events have been included because of the investigator's assessment of potential causal relationship and were considered serious or have been reported in more than one subject treated with TYBOST and with greater frequency compared with ritonavir.
 
 Gastrointestinal Disorders: vomiting, upper abdominal pain
@@ -50,9 +50,9 @@ Laboratory Abnormalities: The frequency of laboratory abnormalities (Grades 3–
 
 Table 4 Laboratory Abnormalities (Grades 3–4) in ≥2% of HIV-1 Infected Treatment-Naïve Adults in the TYBOST Coadministered with Atazanavir Group in Study 114 (Week 144 Analysis)
 
-|  | TYBOST + Atazanavir + TRUVADA | Ritonavir + Atazanavir + TRUVADA |
-| --- | --- | --- |
 | Laboratory Parameter Abnormality | N=344 | N=348 |
+| --- | --- | --- |
+|  | TYBOST + Atazanavir + TRUVADA | Ritonavir + Atazanavir + TRUVADA |
 | Total Bilirubin (>2.5 × ULN) | 73% | 66% |
 | Creatine Kinase (≥10.0 × ULN) | 8% | 9% |
 | Urine RBC (Hematuria) (>75 RBC/HPF) | 6% | 3% |

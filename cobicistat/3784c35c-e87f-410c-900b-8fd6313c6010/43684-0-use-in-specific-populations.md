@@ -4,13 +4,13 @@
 
 Pregnancy Exposure Registry
 
-There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to TYBOST during pregnancy.
+There is a pregnancy exposure registry that monitors fetal outcomes in women exposed to TYBOST during pregnancy.
 Healthcare providers are encouraged to register patients by calling the Antiretroviral Pregnancy Registry 1-800-258-4263.
 
 Risk Summary
 
 There are no data with TYBOST in pregnant women to inform a drug-associated risk.
-In animal reproduction studies in rats and rabbits, no evidence of fetal harm was observed with oral administration of cobicistat during organogenesis at doses that produced exposures up to 1.4 and 3.3-times, respectively, the maximal recommended human dose (MRHD) of 150 mg [see Data].
+In animal reproduction studies in rats and rabbits, no evidence of fetal harm was observed with oral administration of cobicistat during organogenesis at doses that produced exposures up to 1.4 and 3.3 times, respectively, the maximal recommended human dose (MRHD) of 150 mg [see Data].
 Consider the benefits and risks of TYBOST when prescribing TYBOST to a pregnant woman.
 
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2–4% and 15–20%, respectively.
@@ -21,7 +21,7 @@ Data
 
 Animal Data
 
-Cobicistat was administered orally to pregnant rats at doses of 0, 25, 50, 125 mg/kg/day on gestation day 6 to 17.
+Cobicistat was administered orally to pregnant rats at doses of 0, 25, 50, and 125 mg/kg/day on gestation day 6 to 17.
 Maternal toxicity (adverse clinical signs, decreased body weight and food consumption) was noted at 125 mg/kg/day and was associated with increases in postimplantation loss and decreased fetal weights.
 No malformations were noted at doses up to 125 mg/kg/day.
 Systemic exposures (AUC) at 50 mg/kg/day in pregnant females was 1.4-fold higher than the exposures at the MRHD.
@@ -38,7 +38,7 @@ Systemic exposures (AUC) at this dose were slightly lower than (0.9-fold) the MR
 
 Risk Summary
 
-There is no information regarding the presence of cobicistat in human milk, the effects on the breastfed infant or the effects on milk production.
+There is no information regarding the presence of cobicistat in human milk, the effects on the breastfed infant, or the effects on milk production.
 The Centers for Disease Control and Prevention recommend that HIV-infected mothers not breastfeed their infants to avoid risking postnatal transmission of HIV.
 
 ## 8.4 Pediatric Use

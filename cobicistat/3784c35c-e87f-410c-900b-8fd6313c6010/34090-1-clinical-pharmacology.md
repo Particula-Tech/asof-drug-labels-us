@@ -45,7 +45,7 @@ The maximum mean (95% upper confidence bound) difference in PR from placebo afte
 Effects on Serum Creatinine
 
 The effect of TYBOST on serum creatinine was investigated in a trial in subjects with normal renal function (eGFR ≥80 mL/min, N=12) and mild-to-moderate renal impairment (eGFR 50–79 mL/min, N=18).
-A statistically significant decrease in the estimated glomerular filtration rate, calculated by Cockcroft-Gault method (eGFRCG) from baseline, was observed after 7 days of treatment with cobicistat 150 mg among subjects with normal renal function (-9.9 ± 13.1 mL/min) and mild-to-moderate renal impairment (-11.9 ± 7.0 mL/min).
+A statistically significant decrease in the estimated glomerular filtration rate, calculated by Cockcroft-Gault method (eGFRCG) from baseline, was observed after 7 days of treatment with cobicistat 150 mg among subjects with normal renal function (−9.9 ± 13.1 mL/min) and mild-to-moderate renal impairment (−11.9 ± 7.0 mL/min).
 No statistically significant changes in eGFRCG were observed compared to baseline for subjects with normal renal function or mild-to-moderate renal impairment 7 days after cobicistat was discontinued.
 The actual glomerular filtration rate, as determined by the clearance of probe drug iohexol, was not altered from baseline following treatment with TYBOST among subjects with normal renal function and mild-to-moderate renal impairment, indicating that cobicistat inhibits tubular secretion of creatinine, reflected as a reduction in eGFRCG, without affecting the actual glomerular filtration rate [see Warnings and Precautions (5.1)].
 
@@ -53,12 +53,12 @@ The actual glomerular filtration rate, as determined by the clearance of probe d
 
 Absorption
 
-In a trial where subjects were instructed to take coadministered TYBOST and darunavir with food, median cobicistat peak plasma concentrations were observed was approximately 3.5 hours post-dose.
+In a trial where subjects were instructed to take coadministered TYBOST and darunavir with food, median cobicistat peak plasma concentrations were observed approximately 3.5 hours postdose.
 Steady-state cobicistat Cmax, AUCtau, and Ctau (mean ± SD) values were 0.99 ± 0.3 mcg/mL (n=60), 7.6 ± 3.7 mcg*hr/mL (n=59), and 0.03 ± 0.1 mcg/mL (n=59), respectively.
 
 Effect of Food on Oral Absorption
 
-A food effect trial was not conducted for TYBOST.
+A food-effect trial was not conducted for TYBOST.
 In clinical trials, TYBOST was coadministered with other antiretroviral agents [see Clinical Studies (14)] under fed conditions, in accordance with the prescribing information for these agents.
 It is recommended that TYBOST coadministered with atazanavir or darunavir be administered with food [see Dosage and Administration (2.1)].
 

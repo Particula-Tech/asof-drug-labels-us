@@ -33,7 +33,7 @@ Initiation of medications that inhibit or induce CYP3A may respectively increase
 
 Increased concentrations may lead to:
 
-- clinically significant adverse reactions, potentially leading to severe, life threatening, or fatal events from higher exposures of concomitant medications.
+- clinically significant adverse reactions, potentially leading to severe, life-threatening, or fatal events from higher exposures of concomitant medications.
 - clinically significant adverse reactions from higher exposures of TYBOST and atazanavir or darunavir.
 
 Decreased antiretroviral concentrations may lead to:
@@ -46,7 +46,7 @@ Consider the potential for drug interactions prior to and during TYBOST with ata
 TYBOST or ritonavir when administered with either atazanavir or darunavir may result in different drug interactions when used with concomitant medications.
 Complex or unknown mechanisms of drug interactions preclude extrapolation of ritonavir drug interactions to certain TYBOST interactions [see Drug Interactions (7), and Clinical Pharmacology (12.3)].
 
-## 5.4 Antiretrovirals that are Not Recommended
+## 5.4 Antiretrovirals that are Not Recommended in Combination with TYBOST
 
 The following antiretrovirals are not recommended in combination with TYBOST because dosing recommendations for such combinations have not been established and coadministration may result in decreased plasma concentrations of the antiretroviral agents, leading to loss of therapeutic effect and development of resistance:
 
@@ -57,6 +57,6 @@ The following antiretrovirals are not recommended in combination with TYBOST bec
 - Darunavir 600 mg twice daily
 - Other HIV-1 protease inhibitors including fosamprenavir, saquinavir, or tipranavir
 
-TYBOST in combination with STRIBILD® fixed-dose combination tablets (elvitegravir, cobicistat, emtricitabine, tenofovir DF) is not recommended because cobicistat is a component of STRIBILD.
+TYBOST in combination with fixed-dose combination tablets that contain cobicistat is not recommended.
 
 TYBOST in combination with lopinavir/ritonavir or regimens containing ritonavir is not recommended due to similar effects of TYBOST and ritonavir on CYP3A.
