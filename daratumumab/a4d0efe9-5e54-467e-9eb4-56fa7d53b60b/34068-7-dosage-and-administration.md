@@ -81,7 +81,7 @@ Prepare the solution for infusion using aseptic technique as follows:
   Discard any unused portion left in the vial.
 - Gently invert the bag/container to mix the solution.
   Do not shake.
-- Following dilution the infusion bag/container may be stored for up to 24 hours in a refrigerator at 2ºC to 8ºC (36ºF to 46ºF), protected from light.
+- Following dilution the infusion bag/container may be stored for up to 24 hours in a refrigerator at 2°C to 8°C (36°F to 46°F), protected from light.
   Do not freeze.
   After allowing the bag/container to come to room temperature, use immediately since DARZALEX solutions do not contain a preservative.
 - Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.

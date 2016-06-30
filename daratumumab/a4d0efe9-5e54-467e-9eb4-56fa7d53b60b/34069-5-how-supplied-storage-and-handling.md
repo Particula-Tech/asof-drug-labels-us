@@ -10,7 +10,7 @@ NDC 57894-502-20 contains one 400 mg/20 mL single-dose vial
 
 ## 16.2 Storage and Stability
 
-Store in a refrigerator at 2ºC to 8ºC (36ºF to 46ºF).
+Store in a refrigerator at 2°C to 8°C (36°F to 46°F).
 
 Do not freeze or shake.
 Protect from light.
