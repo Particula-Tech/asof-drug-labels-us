@@ -1,12 +1,14 @@
 # 11 DESCRIPTION
 
-Epinephrine Injection USP, 1 mg/mL (1:1,000) is supplied as a sterile aqueous solution that is colorless and nonpyrogenic.
-Each milliliter contains 1 mg Epinephrine base (as the hydrochloride), Sodium Chloride 9 mg (for isotonicity), and Water for Injection, USP, qs.
-Contains no sulfites.
-May contain Hydrochloric Acid for pH adjustment.
+Epinephrine Injection USP, 1 mg/mL (1:1000) is supplied as a sterile aqueous solution with a pH range of 2.2-5.0, that is colorless and nonpyrogenic.
+Each milliliter contains 1 mg epinephrine, sodium chloride 9 mg (for isotonicity), hydrochloric acid for pH adjustment, and water for injection, USP, qs.
+Contains no preservatives or sulfites.
 
-This sterile solution is to be administered after dilution by the intravenous route.
-The solution contains no preservatives such as sulfites.
+Solution must be diluted prior to intravenous or ocular use.
 
-Epinephrine, USP is a sympathomimetic (adrenergic) agent designated chemically as 4-[1-hydroxy-2 (methylamino) ethyl]-1,2 benzenediol, a white, microcrystalline powder.
+Epinephrine, USP is a sympathomimetic catecholamine (adrenergic agent) designated chemically as 4-[1-hydroxy-2 (methylamino) ethyl]-1,2 benzenediol, a white, microcrystalline powder.
 It has the following structural formula:
+
+The molecular weight of epinephrine is 183.2.
+
+Epinephrine solution deteriorates rapidly on exposure to air or light, turning pink from oxidation to adrenochrome and brown from the formation of melanin.

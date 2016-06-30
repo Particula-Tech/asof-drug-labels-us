@@ -1,12 +1,14 @@
 # 10 OVERDOSAGE
 
-Myocardial ischemia and infarction, cardiomyopathy, pulmonary edema, and renal insufficiency were observed in literature reports of accidental overdoses.
-
-Toxic effects of overdosage can be counteracted by injection of an alpha-adrenergic blocker (such as phentolamine mesylate) and a beta-adrenergic blocker (such as propranolol).
-Rapid-acting vasodilators such as nitrites, or alpha-adrenergic blocking agents can be given to counteract the marked pressor effect of large doses of epinephrine causing a sharp rise in the blood pressure.
-Treatment of acute toxicity is mainly supportive since epinephrine is rapidly inactivated in the body.
-
-Epinephrine overdosage can also cause transient bradycardia followed by tachycardia, and these may be accompanied by potentially fatal cardiac arrhythmias.
+Overdosage of epinephrine may produce extremely elevated arterial pressure, which may result in cerebrovascular hemorrhage, particularly in elderly patients.
+Overdosage may also result in pulmonary edema because of peripheral vascular constriction together with cardiac stimulation.
+Epinephrine overdosage may also cause transient bradycardia followed by tachycardia and these may be accompanied by potentially fatal cardiac arrhythmias.
 Premature ventricular contractions may appear within one minute after injection and may be followed by multifocal ventricular tachycardia (prefibrillation rhythm).
 Subsidence of the ventricular effects may be followed by atrial tachycardia and occasionally by atrioventricular block.
-Treatment of arrhythmias consists of administration of a beta-adrenergic blocking drug such as propranolol.
+Myocardial ischemia and infarction, cardiomyopathy, extreme pallor and coldness of the skin, metabolic acidosis due to elevated blood lactic acid levels, and renal insufficiency and failure have also been reported.
+
+Epinephrine is rapidly inactivated in the body and treatment following overdose is primarily supportive.
+Treatment of pulmonary edema consists of a rapidly acting alpha-adrenergic blocking drug (such as phentolamine mesylate) and respiratory support.
+Treatment of arrhythmias consists of administration of a beta-adrenergic blocking drug (such as propranolol).
+If necessary, pressor effects may be counteracted by rapidly acting vasodilators (such as nitrites) or alpha-adrenergic blocking drugs.
+If prolonged hypotension follows such measures, it may be necessary to administer another pressor drug.

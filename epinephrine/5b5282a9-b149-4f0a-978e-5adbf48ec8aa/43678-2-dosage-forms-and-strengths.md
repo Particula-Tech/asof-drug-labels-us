@@ -1,3 +1,3 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-2 mL clear glass ampule containing 1 mg/1 mL epinephrine as the hydrochloride in a sterile, preservative free/sulfite free solution, marked Epinephrine Injection USP, 1 mg/mL (1:1,000) [see Dosage and Administration (2)].
+Injection solution: 1 mg/1 mL (1:1000) epinephrine as a sterile solution in a 2 mL single-use clear glass ampule, marked Epinephrine Injection USP, 1 mg/mL (1:1000).
