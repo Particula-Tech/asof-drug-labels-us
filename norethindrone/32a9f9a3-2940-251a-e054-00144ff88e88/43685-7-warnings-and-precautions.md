@@ -98,20 +98,6 @@ Adding a progestin to estrogen therapy in postmenopausal women has been shown to
 
 Ovarian Cancer
 
-Ovarian cancer is much rarer than breast cancer.
-
-Epidemiological evidence from a large meta-analysis suggests a slightly increased risk in women taking estrogen-only or combined estrogen-progestagen HRT, which becomes apparent within 5 years of use and diminishes over time after stopping.
-
-Some other studies, including the WHI trial, suggest that the use of combined HRTs may be associated with a similar, or slightly smaller risk.
-
-Undesirable effects
-
-Use of estrogen-only and or combined estrogen-progestagen HRT has been associated with a slightly increased risk of having ovarian cancer diagnosed.
-
-A meta-analysis from 52 epidemiological studies reported an increased risk of ovarian cancer in women currently using HRT compared to women who have never used HRT (RR 1.43, 95% CI 1.31-1.56).
-For women aged 50 to 54 years taking 5 years of HRT, this results in about 1 extra case per 2000 users.
-In women aged 50 to 54 who are not taking HRT, about 2 women in 2000 will be diagnosed with ovarian cancer over a 5-year period
-
 The WHI estrogen plus progestin substudy reported a statistically non-significant increased risk of ovarian cancer.
 After an average follow-up of 5.6 years, the relative risk for ovarian cancer for CE plus MPA versus placebo was 1.58 (95 percent CI, 0.77-3.24].
 The absolute risk for CE plus MPA versus placebo was 4 versus 3 cases per 10,000 women-years.
