@@ -26,7 +26,7 @@ colestipol hydrochloride for oral suspension, USP
 
 300 grams Rx only
 
-# PRINCIPAL DISPLAY PANEL - 300 g Bottle Carton
+# PRINCIPAL DISPLAY PANEL - 300 gram Bottle Carton
 
 Pfizer NDC 0009-0260-17
 
@@ -88,7 +88,7 @@ Phenylketonurics: contains phenylalanine 18.2 mg per 7.5 g dose
 
 450 grams (60-7.5 gram scoops) Rx only
 
-# PRINCIPAL DISPLAY PANEL - 450 g Bottle Carton
+# PRINCIPAL DISPLAY PANEL - 450 gram Bottle Carton
 
 Pfizer NDC 0009-0370-05
 
