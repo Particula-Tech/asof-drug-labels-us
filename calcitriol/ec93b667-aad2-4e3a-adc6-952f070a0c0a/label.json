@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA075765"
+  ],
+  "inn": "calcitriol",
+  "labeler": "Teva Pharmaceuticals USA, Inc.",
+  "package_ndcs": [
+    "0093-7352-01",
+    "0093-7353-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, LIQUID FILLED",
+      "generic": "calcitriol",
+      "name": "Calcitriol"
+    }
+  ],
+  "setid": "ec93b667-aad2-4e3a-adc6-952f070a0c0a",
+  "source": "dailymed"
+}

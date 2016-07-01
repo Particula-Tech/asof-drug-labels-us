@@ -1,0 +1,13 @@
+Manufactured In Israel/Germany By:
+
+TEVA PHARMACEUTICAL IND.
+LTD./CATALENT GERMANY EBERBACH
+
+Manufactured For:
+
+TEVA PHARMACEUTICALS USA, INC.
+
+North Wales, PA 19454
+
+Rev.
+H 3/2016
