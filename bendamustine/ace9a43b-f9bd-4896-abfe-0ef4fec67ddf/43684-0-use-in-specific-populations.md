@@ -29,7 +29,8 @@ Because many drugs are excreted in human milk and because of the potential for s
 
 ## 8.4 Pediatric Use
 
-The effectiveness of bendamustine hydrochloride in pediatric patients has not been established. bendamustine hydrochloride was evaluated in a single Phase 1/2 trial in pediatric patients with leukemia.
+The effectiveness of bendamustine hydrochloride in pediatric patients has not been established.
+Bendamustine hydrochloride was evaluated in a single Phase 1/2 trial in pediatric patients with leukemia.
 The safety profile for bendamustine hydrochloride in pediatric patients was consistent with that seen in adults, and no new safety signals were identified.
 
 The trial included pediatric patients from 1-19 years of age with relapsed or refractory acute leukemia, including 27 patients with acute lymphocytic leukemia (ALL) and 16 patients with acute myeloid leukemia (AML). bendamustine hydrochloride was administered as an intravenous infusion over 60 minutes on Days 1 and 2 of each 21-day cycle.

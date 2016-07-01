@@ -16,5 +16,5 @@ BENDEKA (bendamustine hydrochloride) Injection is supplied in individual cartons
 
 ## 16.3 Storage
 
-BENDEKA (bendamustine hydrochloride) Injection should be stored in refrigerator, 2° to 8°C (36° to 46°F).
+Store BENDEKA (bendamustine hydrochloride) Injection in refrigerator, 2° to 8°C (36° to 46°F).
 Retain in original carton until time of use to protect from light.

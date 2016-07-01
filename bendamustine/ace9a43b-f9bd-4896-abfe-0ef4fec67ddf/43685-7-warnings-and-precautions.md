@@ -15,9 +15,12 @@ Prior to the initiation of the next cycle of therapy, the ANC should be ≥ 1 x 
 
 ## 5.2 Infections
 
-Infection, including pneumonia, sepsis, septic shock, and death have occurred in adult and pediatric patients in clinical trials and in postmarketing reports for bendamustine hydrochloride.
+Infection, including pneumonia, sepsis, septic shock, hepatitis and death have occurred in adult and pediatric patients in clinical trials and in postmarketing reports for bendamustine hydrochloride.
 Patients with myelosuppression following treatment with bendamustine hydrochloride are more susceptible to infections.
 Advise patients with myelosuppression following BENDEKA (bendamustine hydrochloride) Injection treatment to contact a physician immediately if they have symptoms or signs of infection.
+
+Patients treated with bendamustine hydrochloride are at risk for reactivation of infections including (but not limited to) hepatitis B, cytomegalovirus, Mycobacterium tuberculosis, and herpes zoster.
+Patients should undergo appropriate measures (including clinical and laboratory monitoring, prophylaxis, and treatment) for infection and infection reactivation prior to administration.
 
 ## 5.3 Anaphylaxis and Infusion Reactions
 
@@ -59,7 +62,7 @@ If skin reactions are severe or progressive, withhold or discontinue BENDEKA (be
 There are reports of pre-malignant and malignant diseases that have developed in patients who have been treated with bendamustine hydrochloride, including myelodysplastic syndrome, myeloproliferative disorders, acute myeloid leukemia and bronchial carcinoma.
 The association with BENDKA (bendamustine hydrochloride) Injection therapy has not been determined.
 
-## 5.7 Extravasation
+## 5.7 Extravasation Injury
 
 Bendamustine hydrochloride extravasations have been reported in post marketing resulting in hospitalizations from erythema, marked swelling, and pain.
 Assure good venous access prior to starting drug infusion and monitor the intravenous infusion site for redness, swelling, pain, infection, and necrosis during and after administration of BENDEKA (bendamustine hydrochloride) Injection.

@@ -34,7 +34,8 @@ Table 5: Efficacy Data for CLL
 | ** nPR was defined as described for CR with the exception that the bone marrow biopsy shows persistent nodules. |  |  |  |
 | † PR was defined as ≥50% decrease in peripheral lymphocyte count from the pretreatment baseline value, and either ≥50% reduction in lymphadenopathy, or ≥50% reduction in the size of spleen or liver, as well as one of the following hematologic improvements: neutrophils ≥ 1.5 x 109/L or 50% improvement over baseline, platelets >100 x 109/L or 50% improvement over baseline, hemoglobin >110g/L or 50% improvement over baseline without transfusions, for a period of at least 56 days. |  |  |  |
 | †† PFS was defined as time from randomization to progression or death from any cause. |  |  |  |
-| Kaplan-Meier estimates of progression-free survival comparing bendamustine hydrochloride with chlorambucil are shown in Figure 1. |  |  |  |
+
+Kaplan-Meier estimates of progression-free survival comparing bendamustine hydrochloride with chlorambucil are shown in Figure 1.
 
 Figure 1.
 Progression-Free Survival

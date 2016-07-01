@@ -8,12 +8,12 @@ The following serious adverse reactions have been associated with bendamustine h
 - Tumor Lysis Syndrome [see Warnings and Precautions (5.4)]
 - Skin Reactions [see Warnings and Precautions (5.5)]
 - Other Malignancies [see Warnings and Precautions (5.6)]
-- Extravasation injury [see Warnings and Precautions (5.7)]
+- Extravasation Injury [see Warnings and Precautions (5.7)]
+
+## 6.1 Adverse Events in Clinical Trials
 
 The data described below reflect exposure to bendamustine hydrochloride in 329 patients who participated in an actively controlled trial (N=153) for the treatment of CLL and two single arm studies (N=176) for the treatment of indolent B cell NHL.
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
-
-## 6.1 Adverse Events in Clinical Trials
 
 The safety of BENDEKA (bendamustine hydrochloride) Injection administered IV as a 50 mL admixture over a 10-minute infusion is supported by clinical trials using bendamustine hydrochloride administered IV as a 500 mL admixture over 30-60 minutes infusion time, as well as an open-label, crossover study in 81 ‘end-of-life' cancer patients treated with BENDEKA.
 In total, safety data from clinical studies are available from over 400 cancer patients exposed to bendamustine hydrochloride at doses in the range used in the treatment of CLL and NHL.
@@ -188,8 +188,7 @@ Table 3: Non-Hematologic Adverse Reactions Occurring in at Least 5% of NHL Patie
 | Vascular disorders |  |  |
 | Hypotension | 10 (6) | 2 (1) |
 | *Patients may have reported more than 1 adverse reaction. |  |  |
-
-NOTE: Patients counted only once in each preferred term category and once in each system organ class category.
+| NOTE: Patients counted only once in each preferred term category and once in each system organ class category. |  |  |
 
 Hematologic toxicities, based on laboratory values and CTC grade, in NHL patients treated in both single arm studies combined are described in Table 4.
 Clinically important chemistry laboratory values that were new or worsened from baseline and occurred in >1% of patients at grade 3 or 4, in NHL patients treated in both single arm studies combined were hyperglycemia (3%), elevated creatinine (2%), hyponatremia (2%), and hypocalcemia (2%).
@@ -215,7 +214,18 @@ Adverse reactions occurring less frequently but possibly related to bendamustine
 ## 6.4 Post-Marketing Experience
 
 The following adverse reactions have been identified during post-approval use of bendamustine hydrochloride.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: anaphylaxis; and injection or infusion site reactions including phlebitis, pruritus, irritation, pain, and swelling; pneumocystis jiroveci pneumonia and pneumonitis.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Skin reactions including SJS and TEN have occurred when bendamustine hydrochloride was administered concomitantly with allopurinol and other medications known to cause these syndromes.
-[see Warnings and Precautions (5.5)].
+Blood and lymphatic systems disorders: Pancytopenia.
+
+Cardiovascular disorders: Atrial fibrillation, congestive heart failure (some fatal), myocardial infarction (some fatal), palpitation.
+
+General disorders and administration site conditions: Injection site reactions (including phlebitis, pruritus, irritation, pain, swelling), infusion site reactions (including phlebitis, pruritus, irritation, pain, swelling).
+
+Immune system disorders: Anaphylaxis.
+
+Infections and infestations: Pneumocystis jiroveci pneumonia.
+
+Respiratory, thoracic and mediastinal disorders: Pneumonitis.
+
+Skin and subcutaneous tissue disorders: Stevens-Johnson syndrome (with concomitant allopurinol and other medications known to cause the syndrome), Toxic epidermal necrolysis (with concomitant allopurinol and other medications known to cause the condition) [see Warnings and Precautions (5.5)].

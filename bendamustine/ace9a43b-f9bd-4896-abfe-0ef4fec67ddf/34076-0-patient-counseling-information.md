@@ -17,9 +17,11 @@
   Advise patients to report pregnancy immediately.
   Advise patients to avoid nursing while receiving bendamustine hydrochloride.
 
+BEN-003
+
 Distributed By: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-12/2015
+06/2016
 
 All rights reserved.
