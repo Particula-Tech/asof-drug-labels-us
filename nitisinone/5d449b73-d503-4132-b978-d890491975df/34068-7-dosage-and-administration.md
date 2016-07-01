@@ -2,20 +2,59 @@
 
 ## 2.1 Dosage
 
-The recommended dose of ORFADIN is 1 to 2 mg/kg divided into two daily doses.
-The initial dose is 1 mg/kg/day divided for morning and evening administration.
+The recommended starting dosage of ORFADIN is 0.5 mg/kg orally twice daily.
+Titrate the dose for individual patients, as needed based on biochemical and/or clinical response.
+Adjust the dose of nitisinone individually.
+Monitor plasma and/or urine succinylacetone concentrations, liver function parameters and alpha-fetoprotein levels.
+If succinylacetone is still detectable one month after the start of nitisinone treatment, increase the nitisinone dosage to 0.75 mg/kg twice daily.
+A maximum dosage of 1 mg/kg orally twice daily may be needed based on the evaluation of all biochemical parameters.
 
-Treatment with ORFADIN should be initiated by a physician experienced in the treatment of HT-1.
-The dose of ORFADIN may be adjusted in each patient.
-In patients whose erythrocyte PBG-synthase activity and urine 5-ALA and urine succinylacetone are not normalized within one month after the start of ORFADIN treatment, the ORFADIN dose may be increased to 1.5 mg/kg/day.
-In patients receiving 1.5 mg/kg/day, whose erythrocyte PBG-synthase activity and urine 5-ALA and urine succinylacetone remain elevated and whose plasma succinylacetone is not normalized after three months, the dose may be increased to up a maximum dose of 2 mg/kg/day.
+If the biochemical response is satisfactory, the dosage should be adjusted only according to body weight gain.
 
-If plasma nitisinone concentration, plasma succinylacetone, urine 5-ALA and erythrocyte PBG-synthase activity are not available, clinical laboratory assessments should include urine succinylacetone, liver function tests, alpha-fetoprotein, and serum tyrosine and phenylalanine level.
-During initiation of therapy and during acute exacerbations, it may be necessary to follow more closely all available biochemical parameters [see Warnings and Precautions (5)].
+In addition to the tests above, during the initiation of therapy or if there is a deterioration in the patient's condition, it may be necessary to follow all available biochemical parameters more closely (i.e. plasma succinylacetone, urine 5-aminolevulinate (ALA) and erythrocyte porphobilinogen (PBG)-synthase activity).
 
-## 2.2 Administration
+## 2.2 Preparation and Administration Instructions
 
-ORFADIN should be taken at least one hour before or at least two hours after a meal, since food effect is unknown.
-For young children, ORFADIN capsules may be opened and the contents suspended in a small amount of water immediately before use.
+Preparation of the Oral Suspension
 
-Physicians should counsel patients and their parents or caregivers of the need to maintain dietary restriction of tyrosine and phenylalanine when taking ORFADIN to treat hereditary tyrosinemia type 1.
+The oral suspension will be dispensed with an oral syringe of appropriate size and a bottle adaptor provided by a pharmacist or other healthcare provider.
+
+Preparing a Bottle Without the Adapter Already Inserted:
+
+- Store the bottle in the refrigerator prior to first use.
+- Remove the bottle from the refrigerator.
+  Calculate 60 days from when the bottle is removed from the refrigerator.
+  Write this date as the “Discard after” date on the bottle label.
+- Allow the bottle to warm to room temperature (30 to 60 minutes).
+- Shake the bottle vigorously for at least 20 seconds until the solid cake at the bottom of the bottle is completely dispersed.
+  Check that there are no particles left at the bottom of the bottle.
+  Foam will form in the bottle.
+- Insert the bottle adapter.
+
+Preparing a Bottle With the Adapter Inserted:
+
+- Shake the bottle vigorously for at least 5 seconds.
+  Check that there are no particles left at the bottom of the bottle.
+  Foam will form in the bottle.
+
+Measuring and Administering the Dose
+
+Once the bottle is prepared with the adapter:
+
+1. Use the oral syringe to measure the dose.
+2. Keep the bottle upright and insert the oral syringe into the adapter.
+3. Carefully turn the bottle upside down with the oral syringe in place.
+   Wait for the foam to rise to the top of the bottle.
+4. Pull back on the syringe plunger to withdraw the dose.
+5. Leave the syringe in the adapter and turn the bottle upright.
+6. Remove the syringe from the adapter by gently twisting it out of the bottle.
+7. Dispense the dose into the patient's mouth.
+8. Do not remove the bottle adapter.
+9. Store the bottle at room temperature (not above 25°C).
+
+Administration of ORFADIN Capsules and Oral Suspension
+
+- Maintain dietary restriction of tyrosine and phenylalanine when taking ORFADIN.
+- Capsules: Take at least one hour before, or two hours after a meal [see Clinical Pharmacology (12.3)].
+  For patients who have difficulty swallowing the capsules and who are intolerant to the oral suspension [see Warnings and Precautions (5.3)], the capsules may be opened and the contents suspended in a small amount of water, formula or apple sauce immediately before use.
+- Oral suspension: Take without regard to meals [see Clinical Pharmacology (12.3)].

@@ -147,3 +147,53 @@ NDC 66658-110-60
 Marketed by:
 
 Sobi, Inc 890 Winter Street Waltham, MA 02451
+
+Principal Display Panel - Carton Label
+
+60 capsules NDC 66658-120-60
+
+Orfadin® Capsules (Nitisinone) 20 mg
+
+For Oral Use
+
+Rx only.
+
+See Package Insert.
+
+Store refrigerated 2-8 °C (36-46 °F)
+
+sobi
+
+Expiration Date:
+
+Lot:
+
+Principal Display Panel - Bottle Label
+
+For Oral Use
+
+Rx only
+
+See Package Insert
+
+Store refrigerated 2-8 °C (36-46 °F)
+
+Manufactured by:
+
+Apotek Produktion & Laboratorier AB, Sweden
+
+Orfadin® Capsules
+
+(Nitisinone)
+
+20 mg
+
+sobi
+
+NDC 66658-110-60
+
+60 capsules
+
+Marketed by:
+
+Sobi, Inc 890 Winter Street Waltham, MA 02451

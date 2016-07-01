@@ -7,6 +7,13 @@ It is practically insoluble in water, soluble in 2M sodium hydroxide and in meth
 
 Chemically, nitisinone is 2-(2-nitro-4-trifluoromethylbenzoyl) cyclohexane-1,3-dione, and the structural formula is:
 
-ORFADIN is a hard white-opaque capsule, marked as 2 mg, 5 mg or 10 mg strengths of nitisinone and is intended for oral administration.
-Each capsule contains 2 mg, 5 mg or 10 mg nitisinone, plus pre-gelatinized starch.
+Capsules: Hard, white-opaque capsule, marked as 2 mg, 5 mg, 10 mg or 20 mg strengths of nitisinone, intended for oral administration.
+Each capsule contains 2 mg, 5 mg, 10 mg or 20 mg nitisinone, plus pre-gelatinized starch.
 The capsule shell is gelatin and titanium dioxide and the imprint is an iron oxide.
+
+Oral suspension: 4 mg/mL, a white, slightly viscous opaque suspension.
+The inactive ingredients are hydroxypropyl methylcellulose, glycerol, polysorbate 80, sodium benzoate, citric acid monohydrate, trisodium citrate dihydrate, strawberry aroma (artificial) and purified water.
+
+Glycerol: Each mL contains 500 mg.
+
+Sodium: Each mL contains 0.7 mg (0.03 mEq).
