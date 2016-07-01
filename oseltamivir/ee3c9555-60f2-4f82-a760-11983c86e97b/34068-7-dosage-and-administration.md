@@ -1,178 +1,137 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Dosing for Treatment and Prophylaxis of Influenza
+## 2.1 Dosage and Administration Overview
 
-Treatment with TAMIFLU should begin within 2 days of onset of symptoms of influenza or following close contact with an infected individual.
+Administer TAMIFLU for the treatment of influenza in patients 2 weeks of age or older [see Dosage and Administration (2.2)] or for prophylaxis of influenza in patients 1 year and older [see Dosage and Administration (2.3)] using:
 
-TAMIFLU may be taken with or without food [see Clinical Pharmacology (12.3)].
-However, when taken with food, tolerability may be enhanced in some patients.
+- TAMIFLU capsules or
+- TAMIFLU for oral suspension (supplied as a powder).
+  This is the preferred formulation (6 mg per mL) for patients who cannot swallow capsules.
+  Prior to use, the supplied TAMIFLU powder must be constituted with water by the pharmacist to produce the oral suspension [see Dosage and Administration (2.5)].
+
+The capsules and oral suspension may be taken with or without food; however, tolerability may be enhanced if TAMIFLU is taken with food.
+
+Adjust the TAMIFLU dosage in patients with moderate or severe renal impairment [see Dosage and Administration (2.4)].
 
 For patients who cannot swallow capsules, TAMIFLU for oral suspension is the preferred formulation.
-If the oral suspension product is not available, TAMIFLU capsules may be opened and mixed with sweetened liquids such as regular or sugar-free chocolate syrup, corn syrup, caramel topping, or light brown sugar (dissolved in water).
-If the appropriate strengths of TAMIFLU capsules are not available to mix with sweetened liquids and the oral suspension product is not available, then a pharmacist may compound an emergency supply of oral suspension from TAMIFLU 75 mg capsules [see Dosage and Administration (2.8)].
+When TAMIFLU for oral suspension is not available from wholesaler or the manufacturer, TAMIFLU capsules may be opened and mixed with sweetened liquids such as regular or sugar-free chocolate syrup, corn syrup, caramel topping, or light brown sugar (dissolved in water).
+During emergency situations and when neither the oral suspension or the age-appropriate strengths of TAMIFLU capsules to mix with sweetened liquids are available, then a pharmacist may prepare an emergency supply of oral suspension from TAMIFLU 75 mg capsules [see Dosage and Administration (2.6)].
 
-## 2.2 Treatment of Influenza
+## 2.2 Recommended Dosage for Treatment of Influenza
 
-Adults and Adolescents (13 years of age and older)
-
-The recommended oral dose of TAMIFLU for treatment of influenza in adults and adolescents 13 years and older is 75 mg twice daily for 5 days.
-TAMIFLU for oral suspension may be used by patients who cannot swallow a capsule (12.5 mL of TAMIFLU for oral suspension [6 mg/mL] delivers 75 mg) [see Dosage and Administration (2.1)].
-
-Pediatric Patients (2 weeks to 12 years of age)
-
-The recommended oral dose of TAMIFLU for treatment of influenza in pediatric patients 1 year to 12 years of age is shown in Table 1.
-
-The recommended oral dose of TAMIFLU for treatment of influenza in pediatric patients 2 weeks to less than 1 year of age is 3 mg/kg twice daily for 5 days (shown in Table 1).
-
-## 2.3 Prophylaxis of Influenza
+Initiate treatment with TAMIFLU within 48 hours of influenza symptom onset.
 
 Adults and Adolescents (13 years of age and older)
 
-The recommended oral dose of TAMIFLU for prophylaxis of influenza in adults and adolescents 13 years and older following close contact with an infected individual is 75 mg once daily for at least 10 days.
-The recommended dose for prophylaxis during a community outbreak of influenza is 75 mg once daily.
-Safety and efficacy have been demonstrated for up to 6 weeks in immunocompetent patients.
-The duration of protection lasts for as long as dosing is continued.
-Safety has been demonstrated for up to 12 weeks in immunocompromised patients.
-TAMIFLU for oral suspension may also be used by patients who cannot swallow a capsule (12.5 mL of TAMIFLU for oral suspension [6 mg/mL] delivers 75 mg).
+The recommended oral dosage of TAMIFLU for treatment of influenza in adults and adolescents 13 years and older is 75 mg twice daily (one 75 mg capsule or 12.5 mL of oral suspension twice daily) for 5 days.
 
-Pediatric Patients (2 weeks to 12 years of age)
+Pediatric Patients (2 weeks of age through 12 years of age)
 
-The recommended oral dose of TAMIFLU for prophylaxis of influenza in pediatric patients 1 to 12 years of age based on body weight is shown in Table 1.
-Prophylaxis in pediatric patients following close contact with an infected individual is recommended for 10 days.
-For prophylaxis in pediatric patients during a community outbreak of influenza, dosing may be continued for up to 6 weeks.
+Table 1 displays the recommended oral dosage of TAMIFLU for treatment of influenza in pediatric patients 2 weeks of age through 12 years of age and provides information about prescribing the capsule or the formulation for oral suspension.
 
-The safety and efficacy of TAMIFLU for prophylaxis of influenza have not been established in infants less than 1 year of age.
+## 2.3 Recommended Dosage for Prophylaxis of Influenza
 
-Table 1 Treatment (twice daily dosing for 5 days) and Prophylaxis (once daily dosing for 10 days) Dosing of Oral TAMIFLU for Influenza in Pediatric Patients
+Initiate post-exposure prophylaxis with TAMIFLU within 48 hours following close contact with an infected individual.
+Initiate seasonal prophylaxis with TAMIFLU during a community outbreak.
 
-| Weight (kg) |  | Treatment Dosing for 5 days | Prophylaxis Dosing for 10 days | Volume of Oral Suspension (6 mg/mL) for each DoseAn oral dosing dispensing device that measures the appropriate volume in mL should be utilized with the oral suspension. | Number of Bottles of Oral Suspension to Dispense | Number of Capsules and Strength to DispenseOral Suspension is the preferred formulation for patients who cannot swallow capsules. |
-| --- | --- | --- | --- | --- | --- | --- |
-| Patients from 2 Weeks to less than 1 Year of Age |  |  |  |  |  |  |
-| Any weight |  | 3 mg/kg twice daily | Not applicableTAMIFLU is not approved for prophylaxis of patients less than 1 year of age | 0.5 mL/kgFor patients less than 1 year of age, provide an appropriate dosing device that can accurately measure and administer small volumes. | 1 bottle | Not applicable |
-| Patients 1 to 12 Years of Age Based on Body Weight |  |  |  |  |  |  |
-| 15 kg or less |  | 30 mg twice daily | 30 mg once daily | 5 mL | 1 bottle | 10 Capsules 30 mg |
-| 15.1 kg thru 23 kg |  | 45 mg twice daily | 45 mg once daily | 7.5 mL | 2 bottles | 10 Capsules 45 mg |
-| 23.1 kg thru 40 kg |  | 60 mg twice daily | 60 mg once daily | 10 mL | 2 bottles | 20 Capsules 30 mg |
-| 40.1 kg or more |  | 75 mg twice daily | 75 mg once daily | 12.5 mL | 3 bottles | 10 Capsules 75 mg |
+Adults and Adolescents (13 years of age and older)
 
-## 2.4 Renal Impairment
+The recommended dosage of TAMIFLU for prophylaxis of influenza in adults and adolescents 13 years and older is 75 mg orally once daily (one 75 mg capsule or 12.5 mL of oral suspension once daily) for at least 10 days following close contact with an infected individual and up to 6 weeks during a community outbreak.
+In immunocompromised patients, TAMIFLU may be continued for up to 12 weeks [see Use in Specific Populations (8.9)].
+The duration of protection lasts for as long as TAMIFLU dosing is continued.
 
-Data are available on plasma concentrations of oseltamivir carboxylate following various dosing schedules in patients with renal impairment [see Clinical Pharmacology (12.3)].
+Pediatric Patients (1 year to 12 years of age)
 
-Treatment of Influenza
+Table 1 displays the recommended oral dosage of TAMIFLU for prophylaxis of influenza in pediatric patients 1 year to 12 years of age based on body weight and provides information about prescribing the capsule or the formulation for oral suspension.
+Prophylaxis in pediatric patients is recommended for 10 days following close contact with an infected individual and up to 6 weeks during a community outbreak [see Use in Specific Populations (8.4) and Clinical Studies (14.2)].
 
-Dose adjustment is recommended for adult patients with creatinine clearance between 10 and 60 mL/min and patients with end-stage renal disease (ESRD) undergoing hemodialysis or continuous peritoneal dialysis receiving TAMIFLU for the treatment of influenza [see Clinical Pharmacology (12.3)].
-TAMIFLU is not recommended for patients with ESRD not undergoing dialysis.
-The recommended doses are detailed in Table 2 below.
+Table 1 TAMIFLU Dosage Recommendations in Pediatric Patients for Treatment and Prophylaxis of Influenza
 
-Table 2 Recommended Dose Adjustments for Treatment of Influenza in Adult Patients with Renal Impairment or End Stage Renal Disease (ESRD) on Dialysis
-
-| Renal Impairment/Creatinine Clearance | Recommended Treatment RegimenCapsules or suspension can be used for 30 mg dosing. |
-| --- | --- |
-| Mild Creatinine Clearance >60-90 mL/min | 75 mg twice daily for 5 days |
-| Moderate Creatinine Clearance >30-60 mL/min | 30 mg twice daily for 5 days |
-| Severe Creatinine Clearance >10-30 mL/min | 30 mg once daily for 5 days |
-| ESRD Patients on Hemodialysis Creatinine Clearance ≤10 mL/min | 30 mg after every hemodialysis cycle. Treatment duration not to exceed 5 daysAssuming three hemodialysis sessions are performed in the 5-day period. Treatment can be initiated immediately if influenza symptoms develop during the 48 hours between hemodialysis sessions; however, the post-hemodialysis dose should still be administered independently of time of administration of the initial dose. |
-| ESRD Patients on Continuous Ambulatory Peritoneal DialysisData derived from studies in continuous ambulatory peritoneal dialysis (CAPD) patients. Creatinine Clearance ≤10 mL/min | A single 30 mg dose administered immediately after a dialysis exchange |
-
-Prophylaxis of Influenza
-
-For the prophylaxis of influenza, dose adjustment is recommended for adult patients with creatinine clearance between 10 and 60 mL/min and patients with end-stage renal disease (ESRD) undergoing hemodialysis or continuous peritoneal dialysis receiving TAMIFLU [see Clinical Pharmacology (12.3)].
-The duration of prophylaxis is the same as recommended for patients with normal renal function.
-TAMIFLU is not recommended for patients with ESRD not undergoing dialysis.
-The recommended doses are detailed in Table 3 below.
-
-Table 3 Recommended Dose Adjustments for Prophylaxis of Influenza in Adult Patients with Renal Impairment or End Stage Renal Disease (ESRD) on Dialysis
-
-| Renal Impairment/Creatinine Clearance | Recommended Prophylaxis RegimenCapsules or suspension can be used for 30 mg dosing. |
-| --- | --- |
-| Mild Creatinine Clearance >60-90 mL/min | 75 mg once daily |
-| Moderate Creatinine Clearance >30-60 mL/min | 30 mg once daily |
-| Severe Creatinine Clearance >10-30 mL/min | 30 mg every other day |
-| ESRD Patients on Hemodialysis Creatinine Clearance ≤10 mL/min | 30 mg after alternate hemodialysis cyclesAn initial dose can be administered prior to the start of dialysis. |
-| ESRD Patients on Continuous Ambulatory Peritoneal DialysisData derived from studies in continuous ambulatory peritoneal dialysis (CAPD) patients. Creatinine Clearance ≤10 mL/min | 30 mg once weekly immediately after dialysis exchange |
-
-## 2.5 Hepatic Impairment
-
-No dose adjustment is recommended for patients with mild or moderate hepatic impairment (Child-Pugh score ≤9) [see Clinical Pharmacology (12.3)].
-
-## 2.6 Geriatric Patients
-
-No dose adjustment is required for geriatric patients [see Use in Specific Populations (8.5) and Clinical Pharmacology (12.3)].
-
-## 2.7 Preparation of TAMIFLU for Oral Suspension
-
-It is recommended that TAMIFLU for oral suspension be constituted by the pharmacist prior to dispensing to the patient:
-
-- a)Tap the closed bottle several times to loosen the powder.
-- b)Measure 55 mL of water in a graduated cylinder.
-- c) Add the total amount of water for constitution to the bottle.
-- d) Close bottle with child-resistant cap tightly and shake the closed bottle well for 15 seconds.
-
-Label the bottle with instructions to Shake Well before each use.
-
-The constituted TAMIFLU for oral suspension (6 mg/mL) should be used within 17 days of preparation when stored under refrigeration or within 10 days if stored at controlled room temperature; the pharmacist should write the date of expiration of the constituted suspension on a pharmacy label.
-The patient package insert should be dispensed to the patient.
-Pharmacists should ensure patients have an oral dosing dispenser that measures the appropriate volume in milliliters.
-Pharmacists should counsel patients on how to utilize an oral dosing dispenser and correctly measure the oral suspension as prescribed (see Table 1).
-
-## 2.8 Emergency Compounding of an Oral Suspension from 75 mg TAMIFLU Capsules (Final Concentration 6 mg/mL)
-
-The following directions are provided for use only during emergency situations.
-These directions are not intended to be used if the FDA-approved, commercially manufactured TAMIFLU for oral suspension is readily available from wholesalers or the manufacturer.
-
-Compounding an oral suspension with this procedure will provide one patient with enough medication for a 5-day course of treatment or a 10-day course of prophylaxis.
-
-Commercially manufactured TAMIFLU for oral suspension (6 mg/mL) is the preferred product for pediatric and adult patients who have difficulty swallowing capsules or where lower doses are needed.
-In the event that TAMIFLU for oral suspension is not available, the pharmacist may compound a suspension (6 mg/mL) from TAMIFLU capsules 75 mg using one of these vehicles: Cherry Syrup (Humco®), Ora-Sweet® SF (sugar-free) (Paddock Laboratories), or simple syrup.
-Other vehicles have not been studied.
-This compounded suspension should not be used for convenience or when the FDA-approved TAMIFLU for oral suspension is commercially available.
-
-First, determine the dose of TAMIFLU for the patients [see Dosage and Administration (2)] then determine total volume of an oral suspension needed to be compounded based on Table 4.
-
-Table 4 Volume of an Oral Suspension (6 mg/mL) Needed to be Compounded Based Upon the Patient's TAMIFLU Dose
-
-| TAMIFLU DoseIf the TAMIFLU dose is between the doses listed, the total volume of oral suspension to compound should default to the next greater dose listed. |  | Total Volume to Compound per Patient (mL) |
-| --- | --- | --- |
-| 15 mg or less |  | 37.5 mL |
-| 30 mg |  | 75 mL |
-| 45 mg |  | 100 mL |
-| 60 mg |  | 125 mL |
-| 75 mg |  | 150 mL |
-
-Second, determine the number of capsules and the amount of water and vehicle (Cherry Syrup, Ora-Sweet® SF, or simple syrup) that are needed to prepare the total volume (determined from Table 4: 37.5 mL, 75 mL, 100 mL, 125 mL, or 150 mL) of compounded oral suspension (6 mg/mL) (see Table 5).
-
-Table 5 Number of TAMIFLU 75 mg Capsules and Amount of Vehicle (Cherry Syrup, Ora-Sweet® SF, or Simple Syrup) Needed to Prepare the Total Volume of a Compounded Oral Suspension (6 mg/mL)
-
-| Total Volume of Compounded Oral Suspension to be Prepared | 37.5 mL | 75 mL | 100 mL | 125 mL | 150 mL |
+| Weight | Treatment Dosage for 5 days | Prophylaxis Dosage for 10 daysThe recommended duration for post-exposure prophylaxis is 10 days and the recommended duration for community outbreak (seasonal/pre-exposure) prophylaxis is up to 6 weeks (or up to 12 weeks in immunocompromised patients). The amount supplied (e.g., number of bottles or capsules) for seasonal prophylaxis may be greater than for post-exposure prophylaxis. | Volume of Oral Suspension (6 mg/mL) for each DoseUse an oral dosing dispensing device that measures the appropriate volume in mL with the oral suspension. | Number of Bottles of Oral Suspension to Dispense | Number of Capsules to Dispense (Strength)TAMIFLU for oral suspension is the preferred formulation for patients who cannot swallow capsules. |
 | --- | --- | --- | --- | --- | --- |
-| Number of TAMIFLU 75 mg CapsulesIncludes overage to ensure all doses can be delivered | 3 capsules (225 mg oseltamivir) | 6 capsules (450 mg oseltamivir) | 8 capsules (600 mg oseltamivir) | 10 capsules (750 mg oseltamivir) | 12 capsules (900 mg oseltamivir) |
+| Patients from 2 Weeks to less than 1 Year of Age |  |  |  |  |  |
+| Any weight | 3 mg/kg twice daily | Not applicable | 0.5 mL/kgFor patients less than 1 year of age, provide an appropriate dosing device that can accurately measure and administer small volumes. | 1 bottle | Not applicable |
+| Patients 1 to 12 Years of Age Based on Body Weight |  |  |  |  |  |
+| 15 kg or less | 30 mg twice daily | 30 mg once daily | 5 mL | 1 bottle | 10 capsules (30 mg) |
+| 15.1 kg to 23 kg | 45 mg twice daily | 45 mg once daily | 7.5 mL | 2 bottles | 10 capsules (45 mg) |
+| 23.1 kg to 40 kg | 60 mg twice daily | 60 mg once daily | 10 mL | 2 bottles | 20 capsules (30 mg) |
+| 40.1 kg or more | 75 mg twice daily | 75 mg once daily | 12.5 mL | 3 bottles | 10 capsules (75 mg) |
+
+## 2.4 Dosage in Patients with Renal Impairment
+
+Table 2 displays the dosage recommendations for the treatment and prophylaxis of influenza in adults with various stages of renal impairment (estimated creatinine clearance of less than or equal to 90 mL per minute).
+Dosage modifications are recommended in adults with an estimated creatinine clearance less than or equal to 60 mL per minute [see Use in Specific Population (8.6) and Clinical Pharmacology (12.3)].
+
+Table 2 Recommended Dosage Modifications for Treatment and Prophylaxis of Influenza in Adults with Renal Impairment or End Stage Renal Disease (ESRD) on Dialysis
+
+| Renal Impairment (Creatinine Clearance) | Recommended Treatment RegimenCapsules or oral suspension can be used for 30 mg dosing. | Recommended Prophylaxis RegimenThe recommended duration for post-exposure prophylaxis is at least 10 days and the recommended duration for community outbreak (seasonal/pre-exposure) prophylaxis is up to 6 weeks (or up to 12 weeks in immunocompromised patients). |
+| --- | --- | --- |
+| Mild (>60-90 mL/minute) | 75 mg twice daily for 5 days | 75 mg once daily |
+| Moderate (>30-60 mL/minute) | 30 mg twice daily for 5 days | 30 mg once daily |
+| Severe (>10-30 mL/minute) | 30 mg once daily for 5 days | 30 mg every other day |
+| ESRD Patients on Hemodialysis (≤ 10 mL/minute) | 30 mg immediately and then 30 mg after every hemodialysis cycle (treatment duration not to exceed 5 days) | 30 mg immediately and then 30 mg after alternate hemodialysis cycles |
+| ESRD Patients on Continuous Ambulatory Peritoneal DialysisData derived from studies in continuous ambulatory peritoneal dialysis (CAPD) patients. (≤10 mL/minute) | A single 30 mg dose administered immediately | 30 mg immediately and then 30 mg once weekly |
+| ESRD Patients not on Dialysis | TAMIFLU is not recommended | TAMIFLU is not recommended |
+
+## 2.5 Preparation and Storage of Constituted TAMIFLU Oral Suspension
+
+Prior to dispensing to the patient, constitute TAMIFLU for oral suspension (supplied as powder):
+
+- a)Tap the closed bottle containing the supplied TAMIFLU white powder several times to loosen the powder.
+- b)Measure 55 mL of water in a graduated cylinder.
+- c)Add the total amount of water for constitution to the bottle.
+- d)Close bottle with child-resistant cap tightly and shake the closed bottle well for 15 seconds.
+- e)Label the bottle with instructions to "Shake Well Before Use".
+- f)The constituted oral suspension contains 360 mg of oseltamivir base per 60 mL of volume (6 mg per mL) and is white, tutti-frutti–flavored).
+  Use the constituted oral suspension within 17 days of preparation when stored under refrigeration, 2º to 8ºC (36º to 46ºF), or within 10 days if stored at controlled room temperature, 25ºC (77ºF).
+  Write the expiration date of the constituted oral suspension on the bottle label.
+- g)Ensure patients have an oral dosing dispenser that measures the appropriate volume in milliliters.
+  Counsel patients on how to utilize the oral dosing dispenser and correctly measure the oral suspension as prescribed (see Tables 1 and 2).
+
+## 2.6 Emergency Preparation of Oral Suspension from 75 mg TAMIFLU Capsules
+
+The following directions are provided for use only during emergency situations and when FDA-approved, commercially manufactured TAMIFLU for oral suspension is not available from wholesalers or the manufacturer.
+
+The following emergency preparation instructions will provide one patient with enough TAMIFLU for a 5-day course of treatment of influenza or a 10-day course of prophylaxis of influenza:
+
+Step #1: Determine the dosage of TAMIFLU for the patient [see Dosage and Administration (2.2, 2.3, and 2.4)] then determine the total volume of oral suspension needed to be prepared (see Table 3).
+
+Table 3 Emergency Preparation: Volume of Prepared Oral Suspension (6 mg per mL) Based Upon TAMIFLU Dose
+
+| TAMIFLU DoseIf the TAMIFLU dose is between the doses listed, use the greater listed dose to determine the total volume of prepared oral suspension. | Total Volume to Prepare per Patient |
+| --- | --- |
+| 15 mg or less | 37.5 mL |
+| 30 mg | 75 mL |
+| 45 mg | 100 mL |
+| 60 mg | 125 mL |
+| 75 mg | 150 mL |
+
+Step #2: Preparation must be performed with only one of the following vehicles (other vehicles have not been studied): Cherry Syrup (Humco®), Ora-Sweet® SF (sugar-free) (Paddock Laboratories), or simple syrup.
+Determine the number of capsules and the amount of water and vehicle needed to prepare the total volume (see Table 3) of prepared oral suspension (6 mg per mL) for a complete treatment or prophylaxis course (see Table 4).
+
+Table 4 Emergency Preparation: Number of TAMIFLU 75 mg Capsules and Amount of Water and Vehicle Needed to Prepare the Total Volume of a Prepared Oral Suspension (6 mg per mL)
+
+| Total Volume of Prepared Oral Suspension | 37.5 mL | 75 mL | 100 mL | 125 mL | 150 mL |
+| --- | --- | --- | --- | --- | --- |
+| Number of TAMIFLU 75 mg Capsules (Total Strength)Includes overage to ensure all doses can be delivered | 3 (225 mg) | 6 (450 mg) | 8 (600 mg) | 10 (750 mg) | 12 (900 mg) |
 | Amount of Water | 2.5 mL | 5 mL | 7 mL | 8 mL | 10 mL |
 | Volume of Vehicle Cherry Syrup (Humco®) OR Ora-Sweet® SF (Paddock Laboratories) OR simple syrup | 34.5 mL | 69 mL | 91 mL | 115 mL | 137 mL |
 
-Third, follow the procedure below for compounding the oral suspension (6 mg/mL) from TAMIFLU capsules 75 mg:
+Step #3: Follow the instructions below for preparing the 75 mg TAMIFLU capsules to produce the oral suspension (6 mg per mL):
 
-1. Place the specified amount of water into a polyethyleneterephthalate (PET) or glass bottle (see Table 5).
+1. Place the specified amount of water into a polyethyleneterephthalate (PET) or glass bottle (see Table 4).
+   Constitution in other bottle types is not recommended because there is no stability data with other bottle types.
 2. Carefully separate the capsule body and cap and pour the contents of the required number of TAMIFLU 75 mg capsules into the PET or glass bottle.
 3. Gently swirl the suspension to ensure adequate wetting of the TAMIFLU powder for at least 2 minutes.
 4. Slowly add the specified amount of vehicle to the bottle.
 5. Close the bottle using a child-resistant cap and shake well for 30 seconds to completely dissolve the active drug and to ensure homogeneous distribution of the dissolved drug in the resulting suspension.
-   (Note: The active drug, oseltamivir phosphate, readily dissolves in the specified vehicles.
-   The suspension is caused by inert ingredients of TAMIFLU capsules which are insoluble in these vehicles.)
+   The active drug, oseltamivir phosphate, readily dissolves in the specified vehicles.
+   The suspension is caused by inert ingredients of TAMIFLU capsules which are insoluble in these vehicles.
 6. Put an ancillary label on the bottle indicating "Shake Well Before Use."
 7. Instruct the parent or caregiver that any unused suspension remaining in the bottle following completion of therapy must be discarded by either affixing an ancillary label to the bottle or adding a statement to the pharmacy label instructions.
-8. Place an appropriate expiration date on the label according to storage conditions below.
-
-Storage of the Emergency Compounded Suspension
-
-- Refrigeration: Stable for 5 weeks (35 days) when stored in a refrigerator at 2° to 8°C (36° to 46°F).
-- Room Temperature: Stable for five days (5 days) when stored at room temperature, 25°C (77°F).
-
-Note: The storage conditions are based on stability studies of compounded oral suspensions, using the above mentioned vehicles, which were placed in glass and polyethyleneterephthalate (PET) bottles.
-Stability studies have not been conducted with other vehicles or bottle types.
-
-Place a pharmacy label on the bottle that includes the patient's name, dosing instructions, and drug name and any other required information to be in compliance with all State and Federal Pharmacy Regulations.
-
-Dosing of the Compounded Suspension (6 mg/mL)
-
-Refer to Dosage and Administration sections 2.2, 2.3, 2.4 and Table 1 for the proper dosing instructions for the pharmacy label.
+8. Place a pharmacy label on the bottle that includes the patient's name, dosing instructions, drug name and any other required information to be in compliance with all State and Federal Pharmacy Regulations.
+   Place an appropriate expiration date on the label according to storage conditions below.
+9. Include the recommended dosage on the pharmacy label as per Tables 1 and 2 [see Dosage and Administration (2.2, 2.3, and 2.4)].
+10. Store the prepared oral suspension in glass or PET bottles either:
+    - In a refrigerator [2° to 8°C (36° to 46°F)]: Stable for 5 weeks when stored in a refrigerator.
+    - At room temperature [25°C (77°F)]: Stable for 5 days when stored at room temperature.

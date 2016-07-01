@@ -1,22 +1,29 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved Patient Labeling (Patient Information and Instructions for Use)
+Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
-## 17.1 Information for Patients
+Serious Skin/Hypersensitivity Reactions
 
-Patients and/or caregivers should be advised of the risk of severe allergic reactions (including anaphylaxis) or serious skin reactions and should stop TAMIFLU and seek immediate medical attention if an allergic-like reaction occurs or is suspected.
+Advise patients and/or caregivers of the risk of severe allergic reactions (including anaphylaxis) or serious skin reactions.
+Instruct patients and/or caregiver to stop TAMIFLU and seek immediate medical attention if an allergic-like reaction occurs or is suspected [see Warnings and Precautions (5.1)].
 
-Patients and/or caregivers should be advised of the risk of neuropsychiatric events in patients with influenza and should contact their physician if they experience signs of abnormal behavior while receiving TAMIFLU.
-Their physician will determine if TAMIFLU treatment should be continued.
+Neuropsychiatric Events
 
-Instruct patients to begin treatment with TAMIFLU as soon as possible from the first appearance of flu symptoms.
-Similarly, prevention should begin as soon as possible after exposure, at the recommendation of a physician.
+Advise patients and/or caregivers of the risk of neuropsychiatric events in TAMIFLU-treated patients with influenza and instruct patients to contact their physician if they experience signs of abnormal behavior while receiving TAMIFLU [see Warnings and Precautions (5.2)].
 
+Important Dosing Information
+
+Instruct patients to begin treatment with TAMIFLU as soon as possible from the first appearance of flu symptoms, within 48 hours of onset of symptoms.
+Similarly, instruct patients to start taking TAMIFLU for prevention as soon as possible after exposure [see Dosage and Administration (2)].
 Instruct patients to take any missed doses as soon as they remember, except if it is near the next scheduled dose (within 2 hours), and then continue to take TAMIFLU at the usual times.
 
-TAMIFLU is not a substitute for a flu vaccination.
-Patients should continue receiving an annual flu vaccination according to guidelines on immunization practices.
+Influenza Vaccines
 
-A bottle of TAMIFLU for oral suspension contains approximately 11 g sorbitol.
-One dose of 75 mg TAMIFLU for oral suspension delivers 2 g sorbitol.
-For patients with hereditary fructose intolerance, this is above the daily maximum limit of sorbitol and may cause dyspepsia and diarrhea.
+Instruct patients that TAMIFLU is not a substitute for receiving an annual flu vaccination.
+Patients should continue receiving an annual flu vaccination according to guidelines on immunization practices.
+Because of the potential for TAMIFLU to inhibit replication of live attenuated influenza vaccine (LAIV) and possibly reduce efficacy of LAIV, avoid administration of LAIV within 2 weeks or 48 hours after TAMIFLU administration, unless medically necessary [see Drug Interactions (7.1)].
+
+Fructose Intolerance
+
+Inform patients with hereditary fructose intolerance that one dose of 75 mg TAMIFLU oral suspension (supplied as powder) delivers 2 grams of sorbitol.
+Inform patients with hereditary fructose intolerance that this is above the daily maximum limit of sorbitol and may cause dyspepsia and diarrhea [see Warnings and Precautions (5.4)].

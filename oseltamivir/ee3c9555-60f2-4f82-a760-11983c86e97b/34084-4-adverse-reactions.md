@@ -5,117 +5,66 @@ The following serious adverse reactions are discussed below and elsewhere in the
 - Serious skin and hypersensitivity reactions [see Warnings and Precautions (5.1)]
 - Neuropsychiatric events [see Warnings and Precautions (5.2)]
 
-The most common adverse reactions are nausea and vomiting.
-
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Treatment Studies in Adult and Adolescent Subjects (13 years of age and older)
+Adverse Reactions from Treatment and Prophylaxis Trials in Adult and Adolescent Subjects (13 years of age and older)
 
-A total of 1171 subjects who participated in adult controlled clinical trials for the treatment of influenza were treated with TAMIFLU.
-The most frequently reported adverse events in these studies were nausea and vomiting.
-These events were generally of mild to moderate severity and usually occurred on the first 2 days of administration.
-Less than 1% of subjects discontinued prematurely from clinical trials due to nausea and vomiting.
+The overall safety profile of TAMIFLU is based on data from 2,646 adult and adolescent subjects that received the recommended dosage of 75 mg orally twice daily for 5 days for treatment of influenza and 1,943 adult and adolescent subjects that received the recommended dosage of 75 mg orally once daily for up to 6 weeks for prophylaxis of influenza in clinical trials.
 
-Adverse events that occurred with an incidence of 1% or greater in 1440 subjects taking placebo or TAMIFLU 75 mg twice daily in adult treatment studies are shown in Table 6.
-This summary includes 945 healthy young adults and 495 "at risk" subjects (elderly patients and patients with chronic cardiac or respiratory disease).
-Those events reported numerically more frequently in subjects taking TAMIFLU compared with placebo were nausea, vomiting, bronchitis, insomnia, and vertigo.
+The most common adverse reactions in the pooled treatment and pooled prophylaxis trials in adults and adolescents are displayed in Table 5.
+The majority of these adverse reactions were reported on a single occasion, occurred on either the first or second treatment day and resolved spontaneously within 1-2 days.
+This summary includes otherwise healthy adults/adolescents and subjects "at risk" (subjects at higher risk of developing complications associated with influenza, e.g., elderly patients and patients with chronic cardiac or respiratory disease).
+In general, the safety profile in the subjects "at risk" was qualitatively similar to that in otherwise healthy adults/adolescents.
 
-Prophylaxis Studies in Adult and Adolescent Subjects (13 years of age and older)
+Table 5 Adverse Reactions Occurring in ≥1% of Adults and Adolescents (13 years of age and older) in Treatment and Prophylaxis TrialsAdverse reactions that occurred in ≥1% of TAMIFLU-treated adults and adolescents and ≥1% greater in TAMIFLU-treated subjects compared to placebo-treated subjects in either the treatment or prophylaxis trials.
 
-A total of 4187 subjects (adolescents, healthy adults, and elderly) participated in prophylaxis studies, of whom 1790 received the recommended dose of 75 mg once daily for up to 6 weeks.
-Adverse events were qualitatively very similar to those seen in the treatment studies, despite a longer duration of dosing (see Table 6).
-Events reported more frequently in subjects receiving TAMIFLU compared to subjects receiving placebo in prophylaxis studies, and more commonly than in treatment studies, were aches and pains, rhinorrhea, dyspepsia and upper respiratory tract infections.
-However, the difference in incidence between TAMIFLU and placebo for these events was less than 1%.
-There were no clinically relevant differences in the safety profile of the 942 elderly subjects who received TAMIFLU or placebo, compared with the younger population.
+| Adverse Reaction | TAMIFLU 75 mg twice daily (n = 2646) | Placebo (n = 1977) | TAMIFLU 75 mg once daily (n = 1943) | Placebo (n = 1586) |
+| --- | --- | --- | --- | --- |
+| System Organ Class | Treatment Trials |  | Prophylaxis Trials |  |
+| Gastrointestinal Disorders |  |  |  |  |
+| Nausea | 10% | 6% | 8% | 4% |
+| Vomiting | 8% | 3% | 2% | 1% |
+| Nervous System Disorders |  |  |  |  |
+| Headache | 2% | 1% | 17% | 16% |
+| General Disorders |  |  |  |  |
+| Pain | <1% | <1% | 4% | 3% |
 
-Table 6 Most Frequent Adverse Events in Studies in Naturally Acquired Influenza in Subjects 13 Years of Age and Older
+Adverse Reactions from Treatment and Prophylaxis Trials in Pediatric Subjects (1 year to 12 years of age)
 
-| N=716 |  | N=724 |  | N=1688 |  | N=1790 |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Treatment |  |  |  | Prophylaxis |  |  |  |
-| Adverse Event Adverse events included are all events reported in the treatment studies with frequency ≥1% in the TAMIFLU 75 mg twice daily group. | Placebo |  | TAMIFLU 75 mg twice daily |  | Placebo/ No ProphylaxisThe majority of subjects received placebo; 254 subjects from a randomized, open-label postexposure prophylaxis study in households did not receive placebo or prophylaxis therapy. |  | TAMIFLU 75 mg once daily |  |
-| Nausea (without vomiting) | 40 | (6%) | 72 | (10%) | 56 | (3%) | 129 | (7%) |
-| Vomiting | 21 | (3%) | 68 | (9%) | 16 | (1%) | 39 | (2%) |
-| Diarrhea | 70 | (10%) | 48 | (7%) | 40 | (2%) | 50 | (3%) |
-| Bronchitis | 15 | (2%) | 17 | (2%) | 22 | (1%) | 15 | (1%) |
-| Abdominal pain | 16 | (2%) | 16 | (2%) | 25 | (1%) | 37 | (2%) |
-| Dizziness | 25 | (3%) | 15 | (2%) | 21 | (1%) | 24 | (1%) |
-| Headache | 14 | (2%) | 13 | (2%) | 306 | (18%) | 326 | (18%) |
-| Cough | 12 | (2%) | 9 | (1%) | 119 | (7%) | 94 | (5%) |
-| Insomnia | 6 | (1%) | 8 | (1%) | 15 | (1%) | 22 | (1%) |
-| Vertigo | 4 | (1%) | 7 | (1%) | 4 | (<1%) | 4 | (<1%) |
-| Fatigue | 7 | (1%) | 7 | (1%) | 163 | (10%) | 139 | (8%) |
+A total of 1,481 pediatric subjects (including otherwise healthy pediatric subjects aged 1 year to 12 years and asthmatic pediatric subjects aged 6 to 12 years) participated in clinical trials of TAMIFLU for the treatment of influenza.
+A total of 859 pediatric subjects received treatment with TAMIFLU for oral suspension either at a 2 mg per kg twice daily for 5 days or weight-band dosing.
+Vomiting was the only adverse reaction reported at a frequency of >1% in subjects receiving TAMIFLU (16%) compared to placebo (8%).
 
-Additional adverse events occurring in less than 1% of patients receiving TAMIFLU for treatment included unstable angina, anemia, pseudomembranous colitis, humerus fracture, pneumonia, pyrexia, and peritonsillar abscess.
+Amongst the 148 pediatric subjects aged 1 year to 12 years who received TAMIFLU at doses of 30 to 60 mg once daily for 10 days in a post-exposure prophylaxis study in household contacts (n = 99), and in a separate 6–week seasonal influenza prophylaxis safety study (n = 49), vomiting was the most frequent adverse reaction (8% on TAMIFLU versus 2% in the no prophylaxis group).
 
-Treatment Studies in Pediatric Subjects (1 to 12 years of age)
+Adverse Reactions from Treatment Trials in Pediatric Subjects (2 weeks to less than 1 year of age)
 
-A total of 1032 pediatric subjects aged 1 to 12 years (including 698 otherwise healthy pediatric subjects aged 1 to 12 years and 334 asthmatic pediatric subjects aged 6 to 12 years) participated in controlled clinical trials of TAMIFLU given for the treatment of influenza.
-A total of 515 pediatric subjects received treatment with TAMIFLU for oral suspension.
+Assessment of adverse reactions in pediatric subjects 2 weeks to less than 1 year of age was based on two open-label studies that included safety data on 135 influenza-infected subjects 2 weeks to less than 1 year of age (including premature infants at least 36 weeks post conceptional age) exposed to TAMIFLU at doses ranging from 2 to 3.5 mg per kg of the formulation for oral suspension twice daily orally for 5 days.
+The safety profile of TAMIFLU was similar across the age range studied, with vomiting (9%), diarrhea (7%) and diaper rash (7%) being the most frequently reported adverse reactions, and was generally comparable to that observed in older pediatric and adult subjects.
 
-Adverse events occurring in 1% or greater of pediatric subjects receiving TAMIFLU treatment are listed in Table 7.
-The most frequently reported adverse event was vomiting.
-Other events reported more frequently by pediatric subjects treated with TAMIFLU included abdominal pain, epistaxis, ear disorder, and conjunctivitis.
-These events generally occurred once and resolved despite continued dosing resulting in discontinuation of drug in 8 out of 515 (2%) cases.
+Adverse Reactions from the Prophylaxis Trial in Immunocompromised Subjects
 
-The adverse event profile in adolescents is similar to that described for adult subjects and pediatric subjects aged 1 to 12 years.
-
-Prophylaxis Studies in Pediatric Subjects (1 to 12 years of age)
-
-Pediatric subjects aged 1 to 12 years participated in a postexposure prophylaxis study in households, both as index cases (n=134) and as contacts (n=222).
-Gastrointestinal events were the most frequent, particularly vomiting.
-In a separate 6-week, uncontrolled, pediatric seasonal prophylaxis study (n=49), the adverse events noted were consistent with those previously observed (see Table 7).
-
-Table 7 Most Frequent Adverse Events Occurring in Children Aged 1 to 12 Years in Studies in Naturally Acquired Influenza
-
-| Adverse EventAdverse events included in Table 7 are all events reported in the treatment studies with frequency ≥1% in the TAMIFLU 75 mg twice daily group. | Placebo N=517 |  | TAMIFLU 2 mg/kg twice daily N=515 |  | No Prophylaxis N=87 |  | Prophylaxis with TAMIFLU once dailyUnit dose = age-based dosing of 30 mg, 45 mg, or 60 mg N=99 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Treatment TrialsPooled data from trials of TAMIFLU treatment of naturally acquired influenza. |  |  |  | Household Prophylaxis TrialA randomized, open-label study of household transmission in which household contacts received either prophylaxis or no prophylaxis but treatment if they became ill. Only contacts who received prophylaxis or who remained on no prophylaxis are included in this table. |  |  |  |
-| Vomiting | 48 | (9%) | 77 | (15%) | 2 | (2%) | 10 | (10%) |
-| Diarrhea | 55 | (11%) | 49 | (10%) | - |  | 1 | (1%) |
-| Otitis media | 58 | (11%) | 45 | (9%) | 2 | (2%) | 2 | (2%) |
-| Abdominal pain | 20 | (4%) | 24 | (5%) | - |  | 3 | (3%) |
-| Asthma (including aggravated) | 19 | (4%) | 18 | (3%) | 1 | (1%) | 1 | (1%) |
-| Nausea | 22 | (4%) | 17 | (3%) | 1 | (1%) | 4 | (4%) |
-| Epistaxis | 13 | (3%) | 16 | (3%) | - |  | 1 | (1%) |
-| Pneumonia | 17 | (3%) | 10 | (2%) | 2 | (2%) | - |  |
-| Ear disorder | 6 | (1%) | 9 | (2%) | - |  | - |  |
-| Sinusitis | 13 | (3%) | 9 | (2%) | - |  | - |  |
-| Bronchitis | 11 | (2%) | 8 | (2%) | 2 | (2%) | - |  |
-| Conjunctivitis | 2 | (<1%) | 5 | (1%) | - |  | - |  |
-| Dermatitis | 10 | (2%) | 5 | (1%) | - |  | - |  |
-| Lymphadenopathy | 8 | (2%) | 5 | (1%) | - |  | - |  |
-| Tympanic membrane disorder | 6 | (1%) | 5 | (1%) | - |  | - |  |
-
-Treatment Studies in Pediatric Subjects (2 weeks to less than 1 year of age)
-
-Assessment of adverse reactions is based on two open label studies that included safety data on 135 influenza-infected subjects 2 weeks to less than 1 year of age (including premature infants at least 36 weeks post conceptional age) exposed to TAMIFLU at doses ranging from 2 to 3.5 mg/kg twice daily for 5 days.
-The safety profile was similar across the age range studied, with vomiting, diarrhea and diaper rash being the most frequently reported adverse reactions.
-The safety profile observed in subjects 2 weeks to less than 1 year of age was consistent with the established safety profile of adults and pediatric subjects older than 1 year of age.
-
-Prophylaxis Study in Immunocompromised Subjects
-
-In a 12-week seasonal prophylaxis study in 475 immunocompromised subjects, including 18 pediatric subjects 1 to 12 years of age, the safety profile in the 238 subjects receiving TAMIFLU was consistent with that previously observed in other TAMIFLU prophylaxis clinical trials.
+In a 12-week seasonal prophylaxis study in 475 immunocompromised subjects, including 18 pediatric subjects 1 year to 12 years of age, the safety profile in the 238 subjects receiving TAMIFLU 75 mg once daily was consistent with that previously observed in other TAMIFLU prophylaxis clinical trials [see Clinical Studies (14.2)].
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of TAMIFLU.
+The following adverse reactions have been identified during post-approval use of TAMIFLU.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to TAMIFLU exposure.
 
-Body as a Whole: Swelling of the face or tongue, allergy, anaphylactic/anaphylactoid reactions, hypothermia
+General disorders and administration site conditions: Swelling of the face or tongue, allergy, anaphylactic/anaphylactoid reactions, hypothermia
 
-Dermatologic: Rash, dermatitis, urticaria, eczema, toxic epidermal necrolysis, Stevens-Johnson Syndrome, erythema multiforme [see Warnings and Precautions (5.1)]
+Skin and subcutaneous tissue disorders: Rash, dermatitis, urticaria, eczema, toxic epidermal necrolysis, Stevens-Johnson Syndrome, erythema multiforme [see Warnings and Precautions (5.1)]
 
-Digestive: Hepatitis, liver function tests abnormal
+Gastrointestinal Disorders: Gastrointestinal bleeding, hemorrhagic colitis
 
-Cardiac: Arrhythmia
+Cardiac Disorders: Arrhythmia
 
-Gastrointestinal disorders: Gastrointestinal bleeding, hemorrhagic colitis
+Hepatobiliary Disorders: Hepatitis, abnormal liver function tests
 
-Neurologic: Seizure
+Nervous System Disorders: Seizure
 
-Metabolic: Aggravation of diabetes
+Metabolism and Nutrition Disorders: Aggravation of diabetes
 
-Psychiatric: Abnormal behavior, delirium, including symptoms such as hallucinations, agitation, anxiety, altered level of consciousness, confusion, nightmares, delusions [see Warnings and Precautions (5.2)]
+Psychiatric Disorders: Abnormal behavior, delirium, including symptoms such as hallucinations, agitation, anxiety, altered level of consciousness, confusion, nightmares, delusions [see Warnings and Precautions (5.2)]

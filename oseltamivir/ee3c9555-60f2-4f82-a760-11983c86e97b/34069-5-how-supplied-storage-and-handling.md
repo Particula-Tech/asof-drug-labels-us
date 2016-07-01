@@ -16,19 +16,18 @@ Available in blister packages of 10 (NDC 0004-0800-85).
 
 Storage
 
-Store the capsules at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
+Store the capsules at 25ºC (77ºF); excursions permitted to 15º to 30ºC (59º to 86ºF) [See USP Controlled Room Temperature].
 
-TAMIFLU for Oral Suspension
+TAMIFLU for Oral Suspension (Supplied as Powder)
 
 Supplied as a white powder blend in a glass bottle.
 After constitution, the powder blend produces a white tutti-frutti–flavored oral suspension.
-After constitution with 55 mL of water, each bottle delivers a usable volume of 60 mL of oral suspension equivalent to 360 mg oseltamivir base (6 mg/mL).
-(NDC 0004-0822-05).
+After constitution with 55 mL of water, each bottle delivers a usable volume of 60 mL of oral suspension equivalent to 360 mg oseltamivir base (6 mg/mL) [see Dosage and Administration (2.5)] (NDC 0004-0822-05).
 
 Storage
 
-Store dry powder at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
+Store dry powder at 25ºC (77ºF); excursions permitted to 15º to 30ºC (59º to 86ºF) [See USP Controlled Room Temperature].
 
-Store constituted suspension under refrigeration for up to 17 days at 2° to 8°C (36° to 46°F).
+Store constituted oral suspension under refrigeration for up to 17 days at 2º to 8ºC (36º to 46ºF).
 Do not freeze.
-Alternatively, store constituted suspension for up to 10 days at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
+Alternatively, store constituted oral suspension for up to 10 days at 25ºC (77ºF); excursions permitted to 15º to 30ºC (59º to 86ºF) [See USP Controlled Room Temperature].

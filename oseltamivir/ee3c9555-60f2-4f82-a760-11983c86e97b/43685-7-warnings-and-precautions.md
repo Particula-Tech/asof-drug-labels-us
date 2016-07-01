@@ -3,32 +3,29 @@
 ## 5.1 Serious Skin/Hypersensitivity Reactions
 
 Cases of anaphylaxis and serious skin reactions including toxic epidermal necrolysis, Stevens-Johnson Syndrome, and erythema multiforme have been reported in postmarketing experience with TAMIFLU.
-TAMIFLU should be stopped and appropriate treatment instituted if an allergic-like reaction occurs or is suspected.
+Stop TAMIFLU and institute appropriate treatment if an allergic-like reaction occurs or is suspected.
+The use of TAMIFLU is contraindicated in patients with known serious hypersensitivity to TAMIFLU [see Contraindications (4) and Adverse Reactions (6.2)].
 
 ## 5.2 Neuropsychiatric Events
 
-Influenza can be associated with a variety of neurologic and behavioral symptoms that can include events such as hallucinations, delirium, and abnormal behavior, in some cases resulting in fatal outcomes.
-These events may occur in the setting of encephalitis or encephalopathy but can occur without obvious severe disease.
-
-There have been postmarketing reports (mostly from Japan) of delirium and abnormal behavior leading to injury, and in some cases resulting in fatal outcomes, in patients with influenza who were receiving TAMIFLU.
+There have been postmarketing reports (mostly from Japan) of delirium and abnormal behavior leading to injury, and in some cases resulting in fatal outcomes, in patients with influenza who were receiving TAMIFLU [see Adverse Reactions (6.2)].
 Because these events were reported voluntarily during clinical practice, estimates of frequency cannot be made but they appear to be uncommon based on TAMIFLU usage data.
 These events were reported primarily among pediatric patients and often had an abrupt onset and rapid resolution.
 The contribution of TAMIFLU to these events has not been established.
-Closely monitor patients with influenza for signs of abnormal behavior.
-If neuropsychiatric symptoms occur, evaluate the risks and benefits of continuing treatment for each patient.
+Influenza can be associated with a variety of neurologic and behavioral symptoms that can include events such as hallucinations, delirium, and abnormal behavior, in some cases resulting in fatal outcomes.
+These events may occur in the setting of encephalitis or encephalopathy but can occur without obvious severe disease.
+Closely monitor TAMIFLU-treated patients with influenza for signs of abnormal behavior.
+If neuropsychiatric symptoms occur, evaluate the risks and benefits of continuing TAMIFLU for each patient.
 
-## 5.3 Bacterial Infections
+## 5.3 Risk of Bacterial Infections
 
+There is no evidence for efficacy of TAMIFLU in any illness caused by pathogens other than influenza viruses.
 Serious bacterial infections may begin with influenza-like symptoms or may coexist with or occur as complications during the course of influenza.
 TAMIFLU has not been shown to prevent such complications.
+Prescribers should be alert to the potential for secondary bacterial infections and treat them as appropriate.
 
-## 5.4 Limitations of Populations Studied
+## 5.4 Fructose Intolerance in Patients with Hereditary Fructose Intolerance
 
-Efficacy of TAMIFLU in the treatment of influenza in patients with chronic cardiac disease and/or respiratory disease has not been established.
-No difference in the incidence of complications was observed between the treatment and placebo groups in this population.
-No information is available regarding treatment of influenza in patients with any medical condition sufficiently severe or unstable to be considered at imminent risk of requiring hospitalization.
-
-Efficacy of TAMIFLU for treatment or prophylaxis of influenza has not been established in immunocompromised patients.
-
-Safety and efficacy of TAMIFLU for treatment of influenza in pediatric patients less than 2 weeks of age have not been established.
-Safety and efficacy of TAMIFLU for prophylaxis of influenza have not been established for pediatric patients less than 1 year of age.
+Fructose can be harmful to patients with hereditary fructose intolerance.
+One dose of 75 mg TAMIFLU for oral suspension delivers 2 grams of sorbitol.
+This is above the daily maximum limit of sorbitol for patients with hereditary fructose intolerance, and may cause dyspepsia and diarrhea.
