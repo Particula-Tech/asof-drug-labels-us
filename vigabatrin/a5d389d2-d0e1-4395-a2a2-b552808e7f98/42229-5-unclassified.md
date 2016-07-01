@@ -77,7 +77,7 @@ The data from all three pediatric studies were pooled and used in a pharmacometr
 All three studies were randomized, double-blind, placebo-controlled, parallel-group, adjunctive-treatment studies in patients aged 3-16 years with uncontrolled complex partial seizures with or without secondary generalization.
 The study period included a 6 to 10 week baseline phase and a 14 to 17 week treatment phase (composed of a titration and maintenance period).
 
-The pharmacometric bridging approach consisted of defining a weight-normalized dose-response, and showing that a similar dose-response relationship exists between pediatric patients and adults patients when SABRIL was given as adjunctive therapy for complex partial seizures.
+The pharmacometric bridging approach consisted of defining a weight-normalized dose-response, and showing that a similar dose-response relationship exists between pediatric patients and adult patients when SABRIL was given as adjunctive therapy for complex partial seizures.
 Dosing recommendations in pediatric patients 10 to 16 years of age were derived from simulations utilizing these pharmacometric dose-response analyses [see Dosage and Administration (2.2)].
 
 ## 14.2 Infantile Spasms

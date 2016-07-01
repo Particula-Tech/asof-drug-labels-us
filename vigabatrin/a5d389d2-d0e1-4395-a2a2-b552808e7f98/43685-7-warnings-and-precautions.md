@@ -1,52 +1,65 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Vision Loss
+## 5.1 Permanent Vision Loss
 
-Because of the risk of vision loss, and because, when it is effective, SABRIL provides an observable symptomatic benefit, patient response and continued need for treatment should be periodically assessed.
+SABRIL can cause permanent vision loss.
+Because of this risk and because, when it is effective, SABRIL provides an observable symptomatic benefit; patient response and continued need for treatment should be periodically assessed.
+
+Based upon adult studies, 30 percent or more of patients can be affected with bilateral concentric visual field constriction ranging in severity from mild to severe.
+Severe cases may be characterized by tunnel vision to within 10 degrees of visual fixation, which can result in disability.
+In some cases, SABRIL also can damage the central retina and may decrease visual acuity.
+Symptoms of vision loss from SABRIL are unlikely to be recognized by patients or caregivers before vision loss is severe.
+Vision loss of milder severity, while often unrecognized by the patient or caregiver, can still adversely affect function.
+
+Because assessing vision may be difficult in infants and children, the frequency and extent of vision loss is poorly characterized in these patients.
+For this reason, the understanding of the risk is primarily based on the adult experience.
+The possibility that vision loss from SABRIL may be more common, more severe, or have more severe functional consequences in infants and children than in adults cannot be excluded.
+
+The onset of vision loss from SABRIL is unpredictable, and can occur within weeks of starting treatment or sooner, or at any time after starting treatment, even after months or years.
+
+The risk of vision loss increases with increasing dose and cumulative exposure, but there is no dose or exposure known to be free of risk of vision loss.
 
 In patients with refractory complex partial seizures, SABRIL should be withdrawn if a substantial clinical benefit is not observed within 3 months of initiating treatment.
-If, in the clinical judgment of the prescriber, evidence of treatment failure becomes obvious earlier than 3 months, treatment should be discontinued at that time.
+If, in the clinical judgment of the prescriber, evidence of treatment failure becomes obvious earlier than 3 months, treatment should be discontinued at that time [see Dosage and Administration (2.2) and Warnings and Precautions (5.6)].
 
 In patients with infantile spasms, SABRIL should be withdrawn if a substantial clinical benefit is not observed within 2 to 4 weeks.
-If, in the clinical judgment of the prescriber, evidence of treatment failure becomes obvious earlier than 2 to 4 weeks, treatment should be discontinued at that time [see BOXED WARNING].
+If, in the clinical judgment of the prescriber, evidence of treatment failure becomes obvious earlier than 2 to 4 weeks, treatment should be discontinued at that time [see Dosage and Administration (2.3) and Warnings and Precautions (5.6)].
 
-Monitoring of Vision Monitoring of vision by an ophthalmic professional with expertise in visual field interpretation and the ability to perform dilated indirect ophthalmoscopy of the retina is required, unless a patient is formally exempted from periodic ophthalmologic assessment as documented in the Support, Help And Resources for Epilepsy (SHARE) program [see Warnings and Precautions (5.2)].
+SABRIL should not be used in patients with, or at high risk of, other types of irreversible vision loss unless the benefits of treatment clearly outweigh the risks.
+The interaction of other types of irreversible vision damage with vision damage from SABRIL has not been well-characterized, but is likely adverse.
+
+SABRIL should not be used with other drugs associated with serious adverse ophthalmic effects such as retinopathy or glaucoma unless the benefits clearly outweigh the risks.
+
+Monitoring of Vision
+
+Monitoring of vision by an ophthalmic professional with expertise in visual field interpretation and the ability to perform dilated indirect ophthalmoscopy of the retina is recommended [see Warnings and Precautions (5.2)].
 Because vision testing in infants is difficult, vision loss may not be detected until it is severe.
-For patients receiving SABRIL who are not exempted, vision assessment is required at baseline (no later than 4 weeks after starting SABRIL) and at least every 3 months while on therapy and about 3-6 months after the discontinuation of therapy.
-
+For patients receiving SABRIL, vision assessment is recommended at baseline (no later than 4 weeks after starting SABRIL), at least every 3 months while on therapy, and about 3-6 months after the discontinuation of therapy.
 The diagnostic approach should be individualized for the patient and clinical situation.
-For all patients, attempts to monitor vision periodically and/or formal exemptions must be documented under the SHARE program.
 
 In adults and cooperative pediatric patients, perimetry is recommended, preferably by automated threshold visual field testing.
-Additional testing may also include electrophysiology (e.g., electroretinography [ERG]), retinal imaging (e.g., optical coherence tomography [OCT]), and/or other methods appropriate for the patient, but this additional testing is not required.
-In patients exempted from vision testing, treatment may continue according to clinical judgment, with appropriate patient counseling and with documentation in the SHARE program of the exemption.
+Additional testing may also include electrophysiology (e.g., electroretinography [ERG]), retinal imaging (e.g., optical coherence tomography [OCT]), and/or other methods appropriate for the patient.
+In patients who cannot be tested, treatment may continue according to clinical judgment, with appropriate patient counseling.
 Because of variability, results from ophthalmic monitoring must be interpreted with caution, and repeat assessment is recommended if results are abnormal or uninterpretable.
 Repeat assessment in the first few weeks of treatment is recommended to establish if, and to what degree, reproducible results can be obtained, and to guide selection of appropriate ongoing monitoring for the patient.
 
 The onset and progression of vision loss from SABRIL is unpredictable, and it may occur or worsen precipitously between assessments.
 Once detected, vision loss due to SABRIL is not reversible.
 It is expected that even with frequent monitoring, some SABRIL patients will develop severe vision loss.
-Drug discontinuation should be considered, balancing benefit and risk, if visual loss is documented.
+Consider drug discontinuation, balancing benefit and risk, if vision loss is documented.
+It is possible that vision loss can worsen despite discontinuation of SABRIL.
 
-## 5.2 SABRIL SHARE Program
+## 5.2 SABRIL REMS Program
 
-SABRIL is available only through a restricted distribution program called the SHARE program, because of the risk of vision loss.
+SABRIL is available only through a restricted distribution program called the SABRIL REMS program, because of the risk of permanent vision loss.
 
-Notable requirements components of the SHARE Program include the following:
+Notable requirements of the SABRIL REMS Program include the following:
 
-- Prescribers must be certified with the program by enrolling and reviewing educational materials and comply with the following:
-  - Assess vision prior to initiating therapy and then every 3 months during therapy.
-  - Remove patients from SABRIL therapy if the patients do not experience a meaningful reduction in seizures.
-  - The prescriber may, with appropriate documentation and caregiver counseling, exempt certain patients from vision assessment, using the Ophthalmologic Assessment Form, if:
-    - The patient is blind (subsequent Ophthalmologic Assessment Forms do not need to be submitted to the REMS coordinating center)
-    - The patient’s general neurological and/or mental condition permanently precludes the need for visual assessment (subsequent Ophthalmologic Assessment Forms do not need to be submitted to the REMS coordinating center)
-    - The patient’s general neurological condition temporarily precludes the ability to assess visual function.
-      The evaluation, however, may be performed at a later time as clinically appropriate.
-    - The patient’s medical condition prevents visual assessment being performed safely
-    - For other reasons specified by the prescriber
-- Patient/parent/legal guardian must understand the risks and benefits and sign a Patient-Prescriber Agreement.
-- Pharmacies that dispense SABRIL must be certified and agree to comply with the REMS requirements.
-  Certified pharmacies must only dispense SABRIL to patients who are enrolled in the program.
+- Prescribers must be certified by enrolling in the program, agreeing to counsel patients on the risk of vision loss and the need for periodic monitoring of vision, and reporting any event suggestive of vision loss to Lundbeck.
+- Patients must enroll in the program.
+- Pharmacies must be certified and must only dispense to patients authorized to receive SABRIL.
+
+Further information is available at www.SabrilREMS.com, or call 1-888-457-4273.
 
 ## 5.3 Magnetic Resonance Imaging (MRI) Abnormalities in Infants
 
@@ -79,7 +92,7 @@ An increase in apoptosis was seen in some brain regions following vigabatrin exp
 Long-term neurobehavioral abnormalities (convulsions, neuromotor impairment, learning deficits) were also observed following vigabatrin treatment of young rats.
 Administration of vigabatrin to juvenile dogs produced vacuolar changes in the brain gray matter (including the septal nuclei, hippocampus, hypothalamus, thalamus, cerebellum, and globus pallidus).
 Neurobehavioral effects of vigabatrin were not assessed in the juvenile dog.
-These effects in young animals occurred at doses lower than those producing neurotoxicity in adult animals and were associated with plasma vigabatrin levels substantially lower than those achieved clinically in infants and children [see Use in Specific Populations (8.1) and (8.4)].
+These effects in young animals occurred at doses lower than those producing neurotoxicity in adult animals and were associated with plasma vigabatrin levels substantially lower than those achieved clinically in infants and children [see Use in Specific Populations (8.1, 8.4)].
 
 In a published study, vigabatrin (200, 400 mg/kg/day) induced apoptotic neurodegeneration in the brain of young rats when administered by intraperitoneal injection on postnatal days 5-7.
 
@@ -127,13 +140,14 @@ Behaviors of concern should be reported immediately to healthcare providers.
 ## 5.6 Withdrawal of Antiepileptic Drugs (AEDs)
 
 As with all AEDs, SABRIL should be withdrawn gradually.
+However, if withdrawal is needed because of a serious adverse event, rapid discontinuation can be considered.
 Patients and caregivers should be told not to suddenly discontinue SABRIL therapy.
 
 In controlled clinical studies in adults with complex partial seizures, SABRIL was tapered by decreasing the daily dose 1000 mg/day on a weekly basis until discontinued.
 
 In a controlled study in pediatric patients with complex partial seizures, SABRIL was tapered by decreasing the daily dose by one third every week for three weeks.
 
-In a controlled clinical study in patients with infantile spasms, SABRIL was tapered by decreasing the daily dose at a rate of 25-50 mg/kg every 3-4 days [see Dosage and Administration (2.1)].
+In a controlled clinical study in patients with infantile spasms, SABRIL was tapered by decreasing the daily dose at a rate of 25-50 mg/kg every 3-4 days.
 
 ## 5.7 Anemia
 
@@ -163,7 +177,7 @@ In a pool of North American controlled and uncontrolled epilepsy studies, 4.2% (
 In the subset of North American placebo-controlled epilepsy trials, 1.4% (4/280) of SABRIL treated patients and no (0/188) placebo patients developed signs and/or symptoms of peripheral neuropathy.
 Initial manifestations of peripheral neuropathy in these trials included, in some combination, symptoms of numbness or tingling in the toes or feet, signs of reduced distal lower limb vibration or position sensation, or progressive loss of reflexes, starting at the ankles.
 Clinical studies in the development program were not designed to investigate peripheral neuropathy systematically and did not include nerve conduction studies, quantitative sensory testing, or skin or nerve biopsy.
-There is insufficient evidence to determine if development of these signs and symptoms were related to duration of SABRIL treatment, cumulative dose, or if the findings of peripheral neuropathy were completely reversible upon discontinuation of SABRIL.
+There is insufficient evidence to determine if development of these signs and symptoms was related to duration of SABRIL treatment, cumulative dose, or if the findings of peripheral neuropathy were completely reversible upon discontinuation of SABRIL.
 
 ## 5.10 Weight Gain
 

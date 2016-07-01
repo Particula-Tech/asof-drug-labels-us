@@ -46,11 +46,11 @@ A cross study comparison between 23 Caucasian and 7 Japanese patients who receiv
 However, the mean renal clearance of Caucasians (5.2 L/hr) was about 25% higher than the Japanese (4.0 L/hr).
 Inter-subject variability in renal clearance was 20% in Caucasians and was 30% in Japanese.
 
-Renal Impairment Mean AUC increased by 30% and the terminal half-life increased by 55% (8.1 hr vs 12.5 hr) in adult patients with mild renal impairment (CLcr from >50-80 mL/min) in comparison to normal subjects.
+Renal Impairment Mean AUC increased by 30% and the terminal half-life increased by 55% (8.1 hr vs 12.5 hr) in adult patients with mild renal impairment (CLcr from >50 to 80 mL/min) in comparison to normal subjects.
 
-Mean AUC increased by two-fold and the terminal half-life increased by two-fold in adult patients with moderate renal impairment (CLcr from >30-50 mL/min) in comparison to normal subjects.
+Mean AUC increased by two-fold and the terminal half-life increased by two-fold in adult patients with moderate renal impairment (CLcr from >30 to 50 mL/min) in comparison to normal subjects.
 
-Mean AUC increased by 4.5-fold and the terminal half-life increased by 3.5-fold in adult patients with severe renal impairment (CLcr from >10-30 mL/min) in comparison to normal subjects.
+Mean AUC increased by 4.5-fold and the terminal half-life increased by 3.5-fold in adult patients with severe renal impairment (CLcr from >10 to 30 mL/min) in comparison to normal subjects.
 
 Adult patients with renal impairment Dosage adjustment, including starting at a lower dose, is recommended for adult patients with any degree of renal impairment [see Use in Specific Populations (8.6) and Dosage and Administration (2.4)].
 
