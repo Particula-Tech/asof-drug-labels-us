@@ -2,7 +2,7 @@
 
 The following serious and otherwise important adverse reactions are described elsewhere in labeling:
 
-- Vision Loss [see BOXED WARNING and Warnings and Precautions (5.1)]
+- Permanent Vision Loss [see BOXED WARNING and Warnings and Precautions (5.1)]
 - Magnetic Resonance Imaging (MRI) Abnormalities in Infants [see Warnings and Precautions (5.3)]
 - Neurotoxicity [see Warnings and Precautions (5.4)]
 - Suicidal Behavior and Ideation [see Warnings and Precautions (5.5)]
@@ -52,7 +52,7 @@ Refractory Complex Partial Seizures Adults Table 5 lists the adverse reactions t
 | Fatigue | 23 | 40 | 16 |
 | Gait disturbance | 6 | 12 | 7 |
 | Asthenia | 5 | 7 | 1 |
-| Oedema peripheral | 5 | 7 | 1 |
+| Edema peripheral | 5 | 7 | 1 |
 | Fever | 4 | 7 | 3 |
 | Chest pain | 1 | 5 | 1 |
 | Thirst | 2 | 0 | 0 |
@@ -105,12 +105,12 @@ Refractory Complex Partial Seizures Adults Table 5 lists the adverse reactions t
 | Anxiety | 4 | 0 | 3 |
 | Depressed mood | 5 | 0 | 1 |
 | Abnormal thinking | 3 | 7 | 0 |
-| Abnormal behaviour | 3 | 5 | 1 |
+| Abnormal behavior | 3 | 5 | 1 |
 | Expressive language disorder | 1 | 7 | 1 |
 | Nervousness | 2 | 5 | 2 |
 | Abnormal dreams | 1 | 5 | 1 |
 | Reproductive System |  |  |  |
-| Dysmenorrhoea | 9 | 5 | 3 |
+| Dysmenorrhea | 9 | 5 | 3 |
 | Erectile dysfunction | 0 | 5 | 0 |
 | Respiratory and Thoracic Disorders |  |  |  |
 | Pharyngolaryngeal pain | 7 | 14 | 5 |
