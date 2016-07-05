@@ -55,7 +55,7 @@ LEO Pharma Inc. 1 Sylvan Way
 
 Parsippany, NJ 07054, USA
 
-Revised 10/2015
+Revised 06/2016
 
 # Instructions for Use
 
@@ -115,4 +115,4 @@ LEO Pharma Inc. 1 Sylvan Way
 
 Parsippany, NJ 07054, USA
 
-Issued 10/2015
+Issued 06/2016

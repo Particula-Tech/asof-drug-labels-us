@@ -16,7 +16,7 @@ The enlarged fontanelles were most likely due to the effect of calcipotriene upo
 The estimated maternal and fetal no-adverse effect levels (NOAEL) in the rat (108 mcg/m2/day) and rabbit (48 mcg/m2/day) derived from oral studies are lower than the maximum topical dose of calcipotriene in man (460 mcg/m2/day).
 
 Corticosteroids have been shown to be teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
-Betamethasone dipropionate has been shown to be teratogenic in mice and rabbits when given by the subcutaneous route at doses of 156 mcg/kg (468 mcg/m2/day) and 2.5 mcg/kg (30 mcg/m2/day), respectively.
+Betamethasone dipropionate has been shown to be teratogenic in mice and rabbits when given by the subcutaneous route at doses of 156 mcg/kg/day (468 mcg/m2/day) and 2.5 mcg/kg/day (30 mcg/m2/day), respectively.
 Those dose levels are lower than the maximum topical dose in man (about 5,950 mcg/m2/day).
 The abnormalities observed included umbilical hernia, exencephaly and cleft palate.
 

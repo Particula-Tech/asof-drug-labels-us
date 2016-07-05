@@ -128,7 +128,7 @@ What are the ingredients in Taclonex® Topical Suspension?
 
 Active ingredients: calcipotriene hydrate and betamethasone dipropionate.
 
-Inactive ingredients: hydrogenated castor oil, PPG-11 stearyl ether, all-rac-alpha-tocopherol, butylhydroxytoluene and mineral oil.
+Inactive ingredients: hydrogenated castor oil, polyoxypropylene stearyl ether, all-rac-alpha-tocopherol, butylhydroxytoluene and mineral oil.
 
 Manufactured by: LEO Laboratories Ltd., 285 Cashel Road, Dublin 12, Ireland
 
@@ -137,4 +137,4 @@ Distributed by: LEO Pharma Inc., 1 Sylvan Way, Parsippany, NJ 07054, USA
 For more information, go to www.taclonex.com or call 1-877-494-4536.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Revised 10/2015
+Revised 06/2016
