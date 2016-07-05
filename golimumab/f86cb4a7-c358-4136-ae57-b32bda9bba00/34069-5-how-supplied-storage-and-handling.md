@@ -20,7 +20,7 @@ Prefilled Syringe
 
 Storage and Handling
 
-SIMPONI must be refrigerated at 2 ºC to 8 ºC (36 ºF to 46 ºF) and protected from light.
+SIMPONI must be refrigerated at 2 °C to 8 °C (36 °F to 46 °F) and protected from light.
 Keep the product in the original carton to protect from light until the time of use.
 Do not freeze.
 Do not shake.

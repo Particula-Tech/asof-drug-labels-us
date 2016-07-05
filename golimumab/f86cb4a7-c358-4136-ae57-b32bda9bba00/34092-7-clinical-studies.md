@@ -55,7 +55,7 @@ Table 2: Trials RA-1, RA-2, and RA-3 Proportion of Patients with an ACR Response
 | Week 14 | 2% | 10% | 4% | 13% | NA | NA |
 | Week 24 | 2% | 9% | 5% | 20% | 16% | 24%Not significantly different from MTX monotherapy. |
 
-Table 3: Trial RA-2 ─ Median Percent Improvement from Baseline in the Individual ACR Components at Week 14In Trial RA-2, about 70 and 85% of patients received concomitant low dose corticosteroids (equivalent to ≤ 10 mg of prednisone a day) and/or NSAIDs during the trials, respectively.
+Table 3: Trial RA-2 ─ Median Percent Improvement from Baseline in the Individual ACR Components at Week 14In Trial RA-2, about 70% and 85% of patients received concomitant low dose corticosteroids (equivalent to ≤ 10 mg of prednisone a day) and/or NSAIDs during the trials, respectively.
 
 |  | Background MTX | SIMPONI 50 mg + Background MTX |
 | --- | --- | --- |

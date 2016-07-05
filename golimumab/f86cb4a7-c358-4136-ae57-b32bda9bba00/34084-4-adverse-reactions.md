@@ -46,7 +46,7 @@ In the controlled Phase 3 trials in patients with RA, PsA, and AS through Week 1
 In Phase 3 trials in RA, PsA, and AS through 1 year of follow-up, 4.0% of SIMPONI-treated patients and 2.6% of control patients were newly antinuclear antibody (ANA)-positive (at titers of 1:160 or greater).
 The frequency of anti-dsDNA antibodies at 1 year of follow-up was uncommon in patients who were anti-dsDNA negative at baseline.
 Through Week 60 of the UC trials, 3.5% of patients who received SIMPONI induction and 100 mg during maintenance were newly ANA-positive (at titers of 1:160 or greater) compared with 3.5% of patients who received SIMPONI induction and placebo during the maintenance portion of the UC trial.
-The frequency of anti-dsDNA antibodies at 1 year of follow-up in patients who were anti-dsDNA negative at baseline was 0.5% in patients receiving SIMPONI induction and 100 mg during maintenance compared with 0% in patients who received SIMPONI induction and placebo during maintenance [see Warnings and Precautions [5.5)].
+The frequency of anti-dsDNA antibodies at 1 year of follow-up in patients who were anti-dsDNA negative at baseline was 0.5% in patients receiving SIMPONI induction and 100 mg during maintenance compared with 0% in patients who received SIMPONI induction and placebo during maintenance [see Warnings and Precautions (5.5)].
 
 Injection Site Reactions
 
