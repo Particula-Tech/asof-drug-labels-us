@@ -43,7 +43,7 @@ Immunologic: Angioedema
 
 Metabolic and Nutritional Disorders: Hyperkalemia, hyponatremia.
 
-Respiratory system disorders: Cough
+Respiratory System Disorders: Cough.
 
 Skin and Appendages Disorders: Pruritus, rash and urticaria.
 

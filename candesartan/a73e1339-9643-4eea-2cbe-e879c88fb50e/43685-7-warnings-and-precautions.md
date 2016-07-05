@@ -51,7 +51,7 @@ In the CHARM-Added program, where candesartan or placebo was given in addition t
 ## 5.5 Hyperkalemia
 
 Drugs that inhibit the renin-angiotensin system can cause hyperkalemia.
-Concomitant use of ATACAND with drugs that may increase potassium levels may increase the risk of hyperkalemia [see Drug Interactions (7)]..
+Concomitant use of ATACAND with drugs that increase potassium levels may increase the risk of hyperkalemia [see Drug Interactions (7.1)].
 
 Monitor serum potassium periodically.
 

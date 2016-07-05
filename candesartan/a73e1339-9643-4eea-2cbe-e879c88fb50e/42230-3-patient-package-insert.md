@@ -143,7 +143,7 @@ You can report side effects to FDA at 1-800-FDA-1088.
 How should I store ATACAND?
 
 - •Do not keep medicine that is out of date or that you no longer need.
-- •Store ATACAND Tablets at room temperature below 86°F (30°C).
+- •Store ATACAND tablets at room temperature below 86°F (30°C).
 - •Store ATACAND oral suspension at room temperature below 86°F (30°C).
 - •Use the oral suspension within 30 days after first opening the bottle.
   Do not use after the expiration date stated on the bottle.
@@ -152,7 +152,7 @@ How should I store ATACAND?
 
 Keep ATACAND and all medicine out of the reach of children.
 
-General information about ATACAND.
+General information about ATACAND
 
 Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
 Do not use ATACAND for a condition for which it was not prescribed.
@@ -186,14 +186,14 @@ Manufactured under the license
 
 from Takeda Pharmaceutical Company, Ltd.
 
-by: AstraZeneca AB, S-151 85 Södertälje, Sweden
+by: AstraZeneca AB, SE-151 85 Södertälje, Sweden
 
-for: AstraZeneca LP, Wilmington, DE 19850
+for: AstraZeneca Pharmaceuticals LP, Wilmington, DE 19850
 
 ATACAND is a registered trademark of the AstraZeneca group of companies.
 
 Ora-Plus®, Ora-Sweet SF®, and Ora-Blend SF® are registered trademarks of Paddock Laboratories, Inc.
 
-Issued: XX/XXXX
+Issued: 07/2016
 
-©AstraZeneca 2010, 2013, 2015
+©AstraZeneca 2016

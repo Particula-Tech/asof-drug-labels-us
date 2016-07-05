@@ -22,7 +22,9 @@ They are supplied as follows:
 
 NDC 0186-0032-31 unit of use bottles of 30
 
-NDC 0186-0032-54 unit of use bottles of 90Storage
+NDC 0186-0032-54 unit of use bottles of 90
+
+Storage
 
 Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
 Keep container tightly closed.
