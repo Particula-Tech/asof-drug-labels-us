@@ -21,7 +21,7 @@ Blockade of the angiotensin II receptor inhibits the negative regulatory feedbac
 Hydrochlorothiazide is a thiazide diuretic.
 Thiazides affect the renal tubular mechanisms of electrolyte reabsorption, directly increasing excretion of sodium and chloride in approximately equivalent amounts.
 Indirectly, the diuretic action of hydrochlorothiazide reduces plasma volume, with consequent increases in plasma renin activity, increases in aldosterone secretion, increases in urinary potassium loss, and decreases in serum potassium.
-The renin-aldosterone link is mediated by angiotensin II, so coadministration of an angiotensin II receptor antagonist tends to reverse the potassium loss associated with these diuretics.
+The renin-aldosterone link is mediated by angiotensin II, so co‑administration of an angiotensin II receptor antagonist tends to reverse the potassium loss associated with these diuretics.
 
 The mechanism of the antihypertensive effect of thiazides is unknown.
 

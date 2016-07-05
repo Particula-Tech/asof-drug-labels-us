@@ -126,7 +126,7 @@ Dual Blockade of the Renin-Angiotensin System (RAS)
 Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
 Closely monitor blood pressure, renal function and electrolytes in patients on ATACAND HCT and other agents that affect the RAS.
 
-Coadministration of ATACAND HCT with potassium sparing diuretics, potassium supplements, potassium-containing salt substitutes or other drugs that raise serum potassium levels may result in hyperkalemia.
+Co-administration of ATACAND HCT with potassium sparing diuretics, potassium supplements, potassium-containing salt substitutes or other drugs that raise serum potassium levels may result in hyperkalemia.
 Monitor serum potassium in such patients.
 
 Do not co-administer aliskiren with ATACAND HCT in patients with diabetes.
