@@ -1,29 +1,35 @@
 # HOW SUPPLIED
 
-Diazepam Oral Solution, 5 mg per 5 mL (Orange-colored, wintergreen-spice flavored solution)
+Diazepam Oral Solution
 
-NDC 0054-8207-16: Unit dose Patient CupTM filled to deliver 5 mL (Diazepam 5 mg), ten 5 mL Patient CupsTM per shelf pack, 4 shelf packs per shipper.
+The 5 mg per 5 mL oral solution is supplied as a (wintergreen-spice flavored) clear, orange-colored solution.
 
-NDC 0054-3188-63: Bottle of 500 mL.
+NDC 0054-3188-63: Bottle of 500 mL
 
-Store at 25°C (77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature]
+Store at 20° to 25°C (68° to 77°F).
+[See USP Controlled Room Temperature.]
 
-Dispense in tight, light-resistant container as defined in the USP/NF.
+Dispense in a tight, light-resistant container as defined in the USP/NF.
 
-Diazepam IntensolTM Oral Solution (Concentrate), 5 mg per mL
+Diazepam Intensol™ Oral Solution (Concentrate)
 
-(Clear, yellow solution)
+The 25 mg per 5 mL (5 mg/mL) oral solution (concentrate) is supplied as a clear, yellow solution.
 
-NDC 0054-3185-44: Bottle of 30 mL with calibrated dropper [graduations of 0.2 mL (1 mg), 0.4 mL (2 mg), 0.6 mL (3 mg), 0.8 mL (4 mg), and 1 mL (5 mg) on the dropper].
+NDC 0054-3185-44: Bottle of 30 mL with calibrated dropper [graduations of 0.2 mL (1 mg), 0.4 mL (2 mg), 0.6 mL (3 mg), 0.8 mL (4 mg), 1.0 mL (5 mg) on the dropper.]
 
-Store at 25°C (77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature]
+Store at 20° to 25°C (68° to 77°F).
+[See USP Controlled Room Temperature.]
 
 Discard opened bottle after 90 days.
 
 PROTECT FROM LIGHT.
 
-4048501//06 Revised July 2012
+Distr. by: West-Ward
 
-© RLI, 2012
+Pharmaceuticals Corp.
 
-Diazepam Oral Solution, 5 mg per 5 mL, CIV
+Eatontown, NJ 07724
+
+4048501//07
+
+Revised May 2016
