@@ -17,8 +17,7 @@ Dehydration may occur with excessive sweating, diarrhea, or vomiting and with no
 
 Potassium Supplements
 
-Advise patients not to use potassium supplements or salt substitutes containing potassium without consulting their healthcare provider.
-[see Drug Interactions (7.3)].
+Advise patients not to use potassium supplements or salt substitutes containing potassium without consulting their healthcare provider [see Drug Interactions (7.3)].
 
 Acute myopia and secondary angle-closure glaucoma
 

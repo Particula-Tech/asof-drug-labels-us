@@ -41,7 +41,7 @@ No patient discontinued due to increases or decreases in serum potassium.
 On average, the combination of irbesartan and hydrochlorothiazide had no effect on serum potassium.
 Higher doses of irbesartan ameliorated the hypokalemic response to hydrochlorothiazide.
 
-Coadministration of AVALIDE with potassium sparing diuretics, potassium supplements, potassium-containing salt substitutes or other drugs that raise serum potassium levels may result hyperkalemia, sometimes severe.
+Coadministration of AVALIDE with potassium sparing diuretics, potassium supplements, potassium-containing salt substitutes or other drugs that raise serum potassium levels may result in hyperkalemia, sometimes severe.
 Monitor serum potassium in such patients.
 
 Hydrochlorothiazide

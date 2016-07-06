@@ -28,7 +28,7 @@ There was essentially no change in average heart rate in irbesartan-treated pati
 
 ## 14.2 Irbesartan-Hydrochlorothiazide
 
-The antihypertensive effects of AVALIDE (irbesartan-hydrochlorothiazide) Tablets were examined in 4 placebo-controlled studies in patients with mild-moderate hypertension (mean seated diastolic blood pressure [SeDBP] between 90 and 110 mmHg), one study in patients with moderate hypertension (mean seated systolic blood pressure [SeSBP] 160 to 179 mmHg or SeDBP 100 to 109 mmHg), and one study in patients with severe hypertension (mean SeDBP ≥110 mmHg) of 8 to 12 weeks.
+The antihypertensive effects of AVALIDE (irbesartan-hydrochlorothiazide) tablets were examined in 4 placebo-controlled studies in patients with mild-moderate hypertension (mean seated diastolic blood pressure [SeDBP] between 90 and 110 mmHg), one study in patients with moderate hypertension (mean seated systolic blood pressure [SeSBP] 160 to 179 mmHg or SeDBP 100 to 109 mmHg), and one study in patients with severe hypertension (mean SeDBP ≥110 mmHg) of 8 to 12 weeks.
 These trials included 3149 patients randomized to fixed doses of irbesartan (37.5 to 300 mg) and concomitant hydrochlorothiazide (6.25 to 25 mg).
 
 Study I was a factorial study that compared all combinations of irbesartan (37.5 mg, 100 mg, and 300 mg or placebo) and hydrochlorothiazide (6.25 mg, 12.5 mg, and 25 mg or placebo).
