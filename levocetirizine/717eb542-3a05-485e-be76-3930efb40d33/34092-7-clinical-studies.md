@@ -20,7 +20,7 @@ Results for two of these trials are shown in Table 4.
 
 Table 4 Mean Reflective Total Symptom Score* in Allergic Rhinitis Dose-Ranging Trials
 
-| Treatment | N | Baseline | OnTreatmentAdjustedMean | Difference from Placebo |  |  |
+| Treatment | N | Baseline | On Treatment Adjusted Mean | Difference from Placebo |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Estimate | 95% CI | p-value |  |  |  |  |
 | Seasonal Allergic Rhinitis Trial – Reflective total symptom score |  |  |  |  |  |  |
