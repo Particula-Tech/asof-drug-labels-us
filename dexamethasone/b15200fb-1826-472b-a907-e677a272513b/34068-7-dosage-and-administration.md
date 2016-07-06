@@ -75,12 +75,12 @@ For palliative management of patients with recurrent or inoperable brain tumors,
 
 ## Dexamethasone Suppression Tests
 
-- 1.Tests for Cushing’s syndrome
+- •Tests for Cushing’s syndrome
 - Give 1 mg of dexamethasone orally at 11:00 p.m.
   Blood is drawn for plasma cortisol determination at 8:00 a.m. the following morning.
 - For greater accuracy, give 0.5 mg of dexamethasone orally every 6 hours for 48 hours.
   Twenty-four hour urine collections are made for determination of 17-hydroxycorticosteroid excretion.
-- 2.Test to distinguish Cushing’s syndrome due to pituitary ACTH excess from Cushing’s syndrome due to other causes.
+- •Test to distinguish Cushing’s syndrome due to pituitary ACTH excess from Cushing’s syndrome due to other causes.
 - Give 2 mg of dexamethasone orally every 6 hours for 48 hours.
   Twenty-four hour urine collections are made for determination of 17-hydroxycorticosteroid excretion.
 

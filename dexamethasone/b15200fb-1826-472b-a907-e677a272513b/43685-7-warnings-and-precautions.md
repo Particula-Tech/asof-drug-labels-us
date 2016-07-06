@@ -6,14 +6,18 @@ Rare instances of anaphylactoid reactions have occurred in patients receiving co
 
 Increased dosage of rapidly acting corticosteroids is indicated in patients on corticosteroid therapy subjected to any unusual stress before, during, and after the stressful situation.
 
-Cardio-Renal: Average and large doses of corticosteroids can cause elevation of blood pressure, sodium and water retention, and increased excretion of potassium.
+## Cardio-Renal
+
+Average and large doses of corticosteroids can cause elevation of blood pressure, sodium and water retention, and increased excretion of potassium.
 These effects are less likely to occur with the synthetic derivatives except when used in large doses.
 Dietary salt restriction and potassium supplementation may be necessary.
 All corticosteroids increase calcium excretion.
 
 Literature reports suggest an apparent association between use of corticosteroids and left ventricular free wall rupture after a recent myocardial infarction; therefore, therapy with corticosteroids should be used with great caution in these patients.
 
-Endocrine: Corticosteroids can produce reversible hypothalamic-pituitary adrenal (HPA) axis suppression with the potential for corticosteroid insufficiency after withdrawal of treatment.
+## Endocrine
+
+Corticosteroids can produce reversible hypothalamic-pituitary adrenal (HPA) axis suppression with the potential for corticosteroid insufficiency after withdrawal of treatment.
 Adrenocortical insufficiency may result from too rapid withdrawal of corticosteroids and may be minimized by gradual reduction of dosage.
 This type of relative insufficiency may persist for months after discontinuation of therapy; therefore, in any situation of stress occurring during that period, hormone therapy should be reinstituted.
 If the patient is receiving steroids already, dosage may have to be increased.
@@ -23,7 +27,7 @@ Changes in thyroid status of the patient may necessitate adjustment in dosage.
 
 ## Infections
 
-## General
+General
 
 Patients who are on corticosteroids are more susceptible to infections than are healthy individuals.
 There may be decreased resistance and inability to localize infection when corticosteroids are used.
@@ -80,23 +84,33 @@ Since complications of treatment with corticosteroids are dependent on the size 
 Kaposi's sarcoma has been reported to occur in patients receiving corticosteroid therapy, most often for chronic conditions.
 Discontinuation of corticosteroids may result in clinical improvement.
 
-Cardio-Renal: As sodium retention with resultant edema and potassium loss may occur in patients receiving corticosteroids, these agents should be used with caution in patients with congestive heart failure, hypertension, or renal insufficiency.
+## Cardio-Renal
 
-Endocrine: Drug-induced secondary adrenocortical insufficiency may be minimized by gradual reduction of dosage.
+As sodium retention with resultant edema and potassium loss may occur in patients receiving corticosteroids, these agents should be used with caution in patients with congestive heart failure, hypertension, or renal insufficiency
+
+## Endocrine
+
+Drug-induced secondary adrenocortical insufficiency may be minimized by gradual reduction of dosage.
 This type of relative insufficiency may persist for months after discontinuation of therapy; therefore, in any situation of stress occurring during that period, hormone therapy should be reinstituted.
 Since mineralocorticoid secretion may be impaired, salt and/or a mineralocorticoid should be administered concurrently.
 
-Gastrointestinal: Steroids should be used with caution in active or latent peptic ulcers, diverticulitis, fresh intestinal anastomoses, and nonspecific ulcerative colitis, since they may increase the risk of a perforation.
+## Gastrointestinal
+
+Steroids should be used with caution in active or latent peptic ulcers, diverticulitis, fresh intestinal anastomoses, and nonspecific ulcerative colitis, since they may increase the risk of a perforation.
 
 Signs of peritoneal irritation following gastrointestinal perforation in patients receiving corticosteroids may be minimal or absent.
 
 There is an enhanced effect due to decreased metabolism of corticosteroids in patients with cirrhosis.
 
-Musculoskeletal: Corticosteroids decrease bone formation and increase bone resorption both through their effect on calcium regulation (i.e., decreasing absorption and increasing excretion) and inhibition of osteoblast function.
+## Musculoskeletal
+
+Corticosteroids decrease bone formation and increase bone resorption both through their effect on calcium regulation (i.e., decreasing absorption and increasing excretion) and inhibition of osteoblast function.
 This, together with a decrease in the protein matrix of the bone secondary to an increase in protein catabolism, and reduced sex hormone production, may lead to inhibition of bone growth in pediatric patients and the development of osteoporosis at any age.
 Special consideration should be given to patients at increased risk of osteoporosis (e.g., postmenopausal women) before initiating corticosteroid therapy.
 
-Neuro-Psychiatric: Although controlled clinical trials have shown corticosteroids to be effective in speeding the resolution of acute exacerbations of multiple sclerosis, they do not show that they affect the ultimate outcome or natural history of the disease.
+## Neuro-Psychiatric
+
+Although controlled clinical trials have shown corticosteroids to be effective in speeding the resolution of acute exacerbations of multiple sclerosis, they do not show that they affect the ultimate outcome or natural history of the disease.
 The studies do show that relatively high doses of corticosteroids are necessary to demonstrate a significant effect (see DOSAGE AND ADMINISTRATION).
 
 An acute myopathy has been observed with the use of high doses of corticosteroids, most often occurring in patients with disorders of neuromuscular transmission (e.g., myasthenia gravis), or in patients receiving concomitant therapy with neuromuscular blocking drugs (e.g., pancuronium).
@@ -125,7 +139,7 @@ Patients should also be advised that if they are exposed, medical advice should 
 
 Aminoglutethimide: Aminoglutethimide may diminish adrenal suppression by corticosteroids.
 
-Amphotericin B Injection and Potassium-depleting Agents: When corticosteroids are administered concomitantly with potassium-depleting agents (e.g., amphotericin B, diuretics), patients should be observed closely for development of hypokalemia.
+Amphotericin B Injection and Potassium-depleting agents: When corticosteroids are administered concomitantly with potassium-depleting agents (e.g., amphotericin B, diuretics), patients should be observed closely for development of hypokalemia.
 In addition, there have been cases reported in which concomitant use of amphotericin B and hydrocortisone was followed by cardiac enlargement and congestive heart failure.
 
 Antibiotics: Macrolide antibiotics have been reported to cause a significant decrease in corticosteroid clearance (see Drug Interactions: Hepatic Enzyme Inducers, Inhibitors and Substrates).
@@ -176,7 +190,9 @@ Vaccines: Patients on corticosteroid therapy may exhibit a diminished response t
 Corticosteroids may also potentiate the replication of some organisms contained in live attenuated vaccines.
 Routine administration of vaccines or toxoids should be deferred until corticosteroid therapy is discontinued if possible (see WARNINGS: Infections: Vaccination).
 
-Carcinogenesis, Mutagenesis, Impairment of Fertility: No adequate studies have been conducted in animals to determine whether corticosteroids have a potential for carcinogenesis or mutagenesis.
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+No adequate studies have been conducted in animals to determine whether corticosteroids have a potential for carcinogenesis or mutagenesis.
 
 Steroids may increase or decrease motility and number of spermatozoa in some patients.
 
