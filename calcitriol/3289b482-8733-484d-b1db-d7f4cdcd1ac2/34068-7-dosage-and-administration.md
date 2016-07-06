@@ -1,7 +1,7 @@
 # DOSAGE AND ADMINISTRATION
 
-The optimal daily dose of Calcitriol Oral Solution must be carefully determined for each patient.
-Calcitriol Oral Solution is administered orally as an oral solution (1 mcg/mL).
+The optimal daily dose of calcitriol oral solution must be carefully determined for each patient.
+Calcitriol oral solution is administered orally as an oral solution (1 mcg/mL).
 Calcitriol therapy should always be started at the lowest possible dose and should not be increased without careful monitoring of serum calcium.
 
 The effectiveness of calcitriol therapy is predicated on the assumption that each patient is receiving an adequate but not excessive daily intake of calcium.
@@ -9,7 +9,7 @@ Patients are advised to have a dietary intake of calcium at a minimum of 600 mg 
 The U.S. RDA for calcium in adults is 800 mg to 1200 mg.
 To ensure that each patient receives an adequate daily intake of calcium, the physician should either prescribe a calcium supplement or instruct the patient in proper dietary measures.
 
-Because of improved calcium absorption from the gastrointestinal tract, some patients on Calcitriol Oral Solution may be maintained on a lower calcium intake.
+Because of improved calcium absorption from the gastrointestinal tract, some patients on calcitriol oral solution may be maintained on a lower calcium intake.
 Patients who tend to develop hypercalcemia may require only low doses of calcium or no supplementation at all.
 
 During the titration period of treatment with calcitriol, serum calcium levels should be checked at least twice weekly.

@@ -1,12 +1,13 @@
 # HOW SUPPLIED
 
-Calcitriol Oral Solution 1 mcg/mL
+Calcitriol Oral Solution
 
-Clear, colorless to pale yellow oral solution containing 1 mcg/mL.
+1 mcg/mL oral solution is supplied as a clear, pale yellow solution.
+Each 15 mL amber glass bottle is supplied with 20 single-use, graduated oral dispensers.
 
-NDC 0054-3120-41: Each amber glass bottle of 15 mL of oral solution supplied with 20 single-use, graduated oral dispensers.
+NDC 0054-3120-41: Bottle of 15 mL
 
-Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F).
-[See USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F).
+[See USP Controlled Room Temperature.]
 
-Protect from light.
+PROTECT FROM LIGHT.

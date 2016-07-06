@@ -3,7 +3,7 @@
 Administration of calcitriol to patients in excess of their daily requirements can cause hypercalcemia, hypercalciuria and hyperphosphatemia.
 Since calcitriol is a derivative of vitamin D, the signs and symptoms of overdose are the same for an overdose of vitamin D (see ADVERSE REACTIONS).
 High intake of calcium and phosphate concomitant with calcitriol may lead to similar abnormalities.
-The serum calcium times phosphate (Ca x P) product should not be allowed to exceed 70 mg2/dl2.
+The serum calcium times phosphate (Ca x P) product should not be allowed to exceed 70 mg2/dL2.
 High levels of calcium in the dialysate bath may contribute to the hypercalcemia (see WARNINGS).
 
 ## Treatment of Hypercalcemia and Overdosage in Dialysis Patients and Hypoparathyroidism Patients:
@@ -26,7 +26,9 @@ If calcitriol therapy was previously administered at a dosage of 0.25 mcg/day, c
 If hypercalcemia is persistent at the reduced dosage, serum PTH should be measured.
 If serum PTH is normal, discontinue calcitriol therapy and monitor patient in 3 months’ time.
 
-Treatment of Hyperphosphatemia in Predialysis Patients: If serum phosphorus levels exceed 5 mg/dL to 5.5 mg/dL, a calcium-containing phosphate binding agent (i.e., calcium carbonate or calcium acetate) should be taken with meals.
+## Treatment of Hyperphosphatemia in Predialysis Patients
+
+If serum phosphorus levels exceed 5 mg/dL to 5.5 mg/dL, a calcium-containing phosphate binding agent (i.e., calcium carbonate or calcium acetate) should be taken with meals.
 Serum phosphorus levels should be determined as described earlier (see PRECAUTIONS: Laboratory Tests).
 Aluminum-containing gels should be used with caution as phosphate binding agents because of the risk of slow aluminum accumulation.
 

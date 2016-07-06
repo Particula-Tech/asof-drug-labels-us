@@ -4,7 +4,7 @@
 
 Calcitriol is rapidly absorbed from the intestine.
 Peak serum concentrations (above basal values) were reached within 3 to 6 hours following oral administration of single doses of 0.25 to 1 mcg of calcitriol.
-Following a single oral dose of 0.5 mcg, mean serum concentrations of calcitriol rose from a baseline value of 40.0 ± 4.4 (SD) pg/mL to 60.0 ± 4.4 pg/mL at 2 hours, and declined to 53.0 ± 6.9 at 4 hours, 50 ± 7.0 at 8 hours, 44 ± 4.6 at 12 hours and 41.5 ± 5.1 at 24 hours.
+Following a single oral dose of 0.5 mcg, mean serum concentrations of calcitriol rose from a baseline value of 40 ± 4.4 (SD) pg/mL to 60 ± 4.4 pg/mL at 2 hours, and declined to 53 ± 6.9 at 4 hours, 50 ± 7 at 8 hours, 44 ± 4.6 at 12 hours and 41.5 ± 5.1 at 24 hours.
 
 Following multiple-dose administration, serum calcitriol levels reached steady-state within 7 days.
 
@@ -13,7 +13,7 @@ Following multiple-dose administration, serum calcitriol levels reached steady-s
 Calcitriol is approximately 99.9% bound in blood.
 Calcitriol and other vitamin D metabolites are transported in blood, by an alpha-globulin vitamin D binding protein.
 There is evidence that maternal calcitriol may enter the fetal circulation.
-Calcitriol is transferred into human milk at low levels (i.e., 2.2 ± 0.1 pg/mL).
+Calcitriol is transferred into human breast milk at low levels (i.e., 2.2 ± 0.1 pg/mL).
 
 ### Metabolism
 
@@ -40,7 +40,7 @@ The elimination half-life of calcitriol in serum after single oral doses is abou
 
 The steady-state pharmacokinetics of oral calcitriol were determined in a small group of pediatric patients (age range: 1.8 to 16 years) undergoing peritoneal dialysis.
 Calcitriol was administered for 2 months at an average dose of 10.2 ng/kg (SD 5.5 ng/kg).
-In this pediatric population, mean Cmax was 116 pmol/L, mean serum half-life was 27.4 hours, and mean clearance was 15.3 mL/hr/kg.
+In this pediatric population, mean Cmax was 116 pmol/L, mean serum half-life was 27.4 hours, and mean clearance was 15.3 mL/hr/kg.1
 
 ### Geriatric
 

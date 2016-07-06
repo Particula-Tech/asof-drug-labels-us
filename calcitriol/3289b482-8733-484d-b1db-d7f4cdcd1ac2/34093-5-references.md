@@ -1,11 +1,15 @@
 # REFERENCE
 
-1. Jones CL, et al. Comparisons between oral and intraperitoneal 1,25-dihydroxyvitamin D3 therapy in children treated with peritoneal dialysis.
-   Clin Nephrol.
-   1994; 42:44-49.
+- •Jones CL, et al. Comparisons between oral and intraperitoneal 1,25-dihydroxyvitamin D3 therapy in children treated with peritoneal dialysis.
+  Clin Nephrol.
+  1994; 42:44-49.
 
-10001654/04
+Distr. by: West-Ward
 
-Revised January 2012
+Pharmaceuticals Corp.
 
-© RLI, 2012
+Eatontown, NJ 07724
+
+10001654/06
+
+Revised March 2016

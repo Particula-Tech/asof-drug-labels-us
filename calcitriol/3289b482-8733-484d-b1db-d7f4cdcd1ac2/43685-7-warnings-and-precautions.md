@@ -102,7 +102,7 @@ Since calcitriol is the most potent active metabolite of vitamin D3, pharmacolog
 
 ### Calcium Supplements
 
-Uncontrolled intake of additional calcium-containing preparations should be avoided (seePRECAUTIONS: General).
+Uncontrolled intake of additional calcium-containing preparations should be avoided (see PRECAUTIONS: General).
 
 ### Magnesium
 
@@ -168,7 +168,7 @@ Late: polyuria, polydipsia, anorexia, weight loss, nocturia, conjunctivitis (cal
 In clinical studies on hypoparathyroidism and pseudohypoparathyroidism, hypercalcemia was noted on at least one occasion in about 1 in 3 patients and hypercalciuria in about 1 in 7 patients.
 Elevated serum creatinine levels were observed in about 1 in 6 patients (approximately one half of whom had normal levels at baseline).
 
-In concurrent hypercalcemia and hyperphosphatemia, soft-tissue calcification may occur, this can be seen radiographically (see WARNINGS).
+In concurrent hypercalcemia and hyperphosphatemia, soft-tissue calcification may occur; this can be seen radiographically (see WARNINGS).
 
 In patients with normal renal function, chronic hypercalcemia may be associated with an increase in serum creatinine (see PRECAUTIONS: General).
 
