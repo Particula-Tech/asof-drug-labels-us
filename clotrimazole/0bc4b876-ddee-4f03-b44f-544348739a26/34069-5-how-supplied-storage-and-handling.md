@@ -1,23 +1,26 @@
 # HOW SUPPLIED
 
-Clotrimazole Troches (clotrimazole lozenges) USP are white, flat face tablets that are plain on one side and embossed with “54 552” on the other side.
+Clotrimazole Troche (lozenges) USP
 
-Clotrimazole Troche (clotrimazole lozenges) USP, 10 mg
+10 mg troche is supplied as white, round, flat face beveled edge troche with product identification “54 552” on one side and plain on the other side.
 
-0054-4146-22: Bottles of 70
+NDC 0054-4146-22: Bottle of 70 Troches
 
-0054-4146-23: Bottles of 140
+NDC 0054-4146-23: Bottle of 140 Troches
 
-0054-8146-22: 7 x 10 Unit-Dose Tablets
+NDC 0054-8146-22: 7x10 Unit-Dose Troches
 
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
+
 Avoid freezing.
 
-Roxane Laboratories, Inc.
+Distr. by: West-Ward
 
-Columbus, Ohio 43216
+Pharmaceuticals Corp.
 
-10001777/08 Revised August 2014
+Eatontown, NJ 07724
 
-© RLI, 2014
+10001777/09
+
+Revised April 2016

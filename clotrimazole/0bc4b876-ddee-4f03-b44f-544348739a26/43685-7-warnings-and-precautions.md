@@ -1,6 +1,6 @@
 # WARNING
 
-Clotrimazole Troches (clotrimazole lozenges) USP are not indicated for the treatment of systemic mycoses including systemic candidiasis.
+Clotrimazole is not indicated for the treatment of systemic mycoses including systemic candidiasis.
 
 # PRECAUTIONS
 
