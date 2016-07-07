@@ -11,7 +11,7 @@
 - •Rotate injection sites within the same region from one injection to the next to reduce the risk of lipodystrophy [see Adverse Reactions (6.1)].
 - •DO NOT administer TRESIBA intravenously, intramuscularly or in an insulin infusion pump.
 - •DO NOT dilute or mix TRESIBA with any other insulin products or solutions.
-- •DO NOT transfer TRESIBA from the TRESIBA pen into a syringe for administration [see Warningsand Precautions (5.4)].
+- •DO NOT transfer TRESIBA from the TRESIBA pen into a syringe for administration [see Warnings and Precautions (5.4)].
 
 ## 2.2 General Dosing Instructions
 

@@ -28,7 +28,7 @@ The total glucose-lowering effect of 0.4 U/kg of TRESIBA U-100 and 0.4 U/kg of T
 
 Absorption
 
-In patients with type 1 diabetes, after 8 days of once daily subcutaneous dosing with 0.4 U/kg of TRESIBA,maximum degludec concentrations of 4472 pmol/L were attained at a median of 9 hours (tmax).
+In patients with type 1 diabetes, after 8 days of once daily subcutaneous dosing with 0.4 U/kg of TRESIBA, maximum degludec concentrations of 4472 pmol/L were attained at a median of 9 hours (tmax).
 After the first dose of TRESIBA, median onset of appearance was around one hour.
 
 Total insulin degludec concentration (i.e., exposure) increased in a dose proportional manner after subcutaneous administration of 0.4 U/kg to 0.8 U/kg TRESIBA.
@@ -84,7 +84,7 @@ Renal function was defined using creatinine clearance (Clcr) as follows: ≥90 m
 Subjects requiring dialysis were classified as having end-stage renal disease (ESRD).
 Total (AUCIDeg,0-120h,SD) and peak exposure of TRESIBA were on average about 10-25% and 13-27% higher, respectively in subjects with mild to severe renal impairment except subjects with ESRD who showed similar exposure as compared to subjects with normal renal function.
 No systematic trend was noted for this increase in exposure across different renal impairment subgroups.
-Hemodialysis did not affect clearance of TRESIBA (CL/FIDeg,SD) in subjects with ESRD[see Use in Specific Populations (8.6)].
+Hemodialysis did not affect clearance of TRESIBA (CL/FIDeg,SD) in subjects with ESRD [see Use in Specific Populations (8.6)].
 
 Hepatic Impairment-
 

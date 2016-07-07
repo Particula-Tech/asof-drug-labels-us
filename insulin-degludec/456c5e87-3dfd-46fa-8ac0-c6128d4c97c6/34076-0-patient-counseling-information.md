@@ -23,9 +23,7 @@ Medication errors
 Inform patients to always check the insulin label before each injection [see Warnings and Precautions (5.4)].
 TRESIBA FlexTouch pen is available in concentrations of 100 units/mL or 200 units/mL.
 
-Inform patients that the dose counter of TRESIBA FlexTouch pen shows the number of units of
-
-TRESIBA to be injected.
+Inform patients that the dose counter of TRESIBA FlexTouch pen shows the number of units of TRESIBA to be injected.
 NO dose re-calculation is required [see Dosage and Administration (2.2)].
 
 Instruct patients that when injecting TRESIBA, they must press and hold down the dose button until the dose counter shows 0 and then keep the needle in the skin and count slowly to 6.
@@ -65,17 +63,15 @@ Advise patients to inform their health care professional if they are pregnant or
 
 Rx Only
 
-Date of Issue: 12/2015
+Date of Issue: 06/2016
 
-Version: 2
+Version: 3
 
 Novo Nordisk®, TRESIBA®, FlexTouch®, LEVEMIR®, NOVOLOG®, NovoFine® and NovoTwist® are registered trademarks of Novo Nordisk A/S.
 
-© 2015 Novo Nordisk
+© 2015-2016 Novo Nordisk
 
-TRESIBA® is covered by US Patent No. 7,615,532 and other patents pending.
-
-FlexTouch® is covered by US Patent Nos. 6,899,699, 7,686,786, 8,672,898, 8,684,969, 8,920,383, D724,721, D734,450 and other patents pending.
+PATENT Information: http://novonordisk-us.com/patients/products/product-patents.html
 
 Manufactured by:
 

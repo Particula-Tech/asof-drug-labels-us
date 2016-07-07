@@ -2,7 +2,7 @@
 
 The following adverse reactions are also discussed elsewhere:
 
-- •Hypoglycemia [see Warnings and Precautions(5.3)]
+- •Hypoglycemia [see Warnings and Precautions (5.3)]
 - •Hypersensitivity and allergic reactions [see Warnings and Precautions (5.5)]
 - •Hypokalemia [see Warnings and Precautions (5.6)]
 
@@ -28,7 +28,7 @@ The mean duration of diabetes was 11 years and the mean HbA1c at baseline was 8.
 A history of neuropathy, ophthalmopathy, nephropathy and cardiovascular disease at baseline was reported for 14%, 10%, 6% and 0.6% of participants respectively.
 At baseline, the mean eGFR was 83 mL/min/1.73 m2 and 9% had an eGFR less than 60 mL/min/1.73 m2.
 
-Common adverse reactions (excluding hypoglycemia)occurring in TRESIBA treated subjects during clinical trials in patients with type 1 diabetes mellitus and type 2 diabetes mellitus are listed in Table 1 and Table 2, respectively.
+Common adverse reactions (excluding hypoglycemia) occurring in TRESIBA treated subjects during clinical trials in patients with type 1 diabetes mellitus and type 2 diabetes mellitus are listed in Table 1 and Table 2, respectively.
 Common adverse reactions were defined as reactions occurring in ≥5% of the population studied.
 Hypoglycemia is not shown in these tables but discussed in a dedicated subsection below.
 

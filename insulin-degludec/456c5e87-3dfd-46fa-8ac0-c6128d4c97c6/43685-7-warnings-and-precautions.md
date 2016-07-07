@@ -43,7 +43,7 @@ Accidental mix-ups between basal insulin products and other insulins, particular
 To avoid medication errors between TRESIBA and other insulins, instruct patients to always check the insulin label before each injection.
 
 Do not transfer TRESIBA from the TRESIBA pen to a syringe.
-The markings on the insulin syringe will not measure the dose correctly and can result in overdosage and severe hypoglycemia [see Dosage and Administration(2.1) and Warnings and Precautions (5.3)].
+The markings on the insulin syringe will not measure the dose correctly and can result in overdosage and severe hypoglycemia [see Dosage and Administration (2.1) and Warnings and Precautions (5.3)].
 
 ## 5.5 Hypersensitivity and Allergic Reactions
 

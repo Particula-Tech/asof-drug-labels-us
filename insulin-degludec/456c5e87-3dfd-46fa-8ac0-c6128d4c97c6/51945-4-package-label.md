@@ -28,6 +28,8 @@ Store at 36°F - 46°F (2°C - 8°C).
 
 Do not freeze.
 
+After first use, store between 36°F - 86°F (2°C - 30°C).
+
 Protect from light.
 
 # PRINCIPAL DISPLAY PANEL U-200
@@ -59,5 +61,7 @@ Keep in a cold place until first use.
 Store at 36°F - 46°F (2°C - 8°C).
 
 Do not freeze.
+
+After first use, store between 36°F - 86°F (2°C - 30°C).
 
 Protect from light.

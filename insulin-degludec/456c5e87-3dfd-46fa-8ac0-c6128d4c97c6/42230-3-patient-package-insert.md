@@ -199,7 +199,6 @@ Step 9:
   Press and hold in the dose button until the dose counter
 - shows “0”.
   The “0” must line up with the dose pointer.
-
 - •A drop of insulin should be seen at the needle tip (See Figure J).
 - o If you do not see a drop of insulin, repeat steps 7 to 9, no more than 6 times.
 - o If you still do not see a drop of insulin, change the needle and repeat steps 7 to 9.
@@ -274,9 +273,9 @@ Step 15:
 
 - •If you do not have a sharps container, carefully slip the needle into the outer needle cap (See Figure S). Safely remove the needle and throw it away as soon as you can.
 
-- o Do not store the Pen with the needle attached.
-  Storing without the needle attached helps prevent
-- leaking, blocking of the needle, and air from entering the Pen.
+1. o Do not store the Pen with the needle attached.
+   Storing without the needle attached helps prevent
+2. leaking, blocking of the needle, and air from entering the Pen.
 
 Step 16:
 
@@ -310,7 +309,7 @@ Before use:
 
 Pen in use:
 
-- •Store the Pen you are currently using out of the refrigerator below 86°F.
+- •Store the Pen you are currently using at room temperature (below 86°F [30°C]) or in a refrigerator (36°F to 46°F [2°C to 8°C]).
 - •Keep TRESIBA away from heat or light.
 - •The TRESIBA FlexTouch Pen you are using should be thrown away after 56 days, even if it still has insulin left in it and the expiration date has not passed.
 
@@ -325,11 +324,11 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 Manufactured by: Novo Nordisk A/S DK-2880 Bagsvaerd, Denmark
 
-Revised: 09/2015
+Revised: 06/2016
 
 For more information go to www.TRESIBA.com
 
-© 2015 Novo Nordisk
+© 2015-2016 Novo Nordisk
 
 Instructions for Use
 
@@ -409,7 +408,6 @@ Step 9:
 - •Hold the Pen with the needle pointing up.
   Press and hold in the dose button until the dose counter shows “0”.
   The “0” must line up with the dose pointer.
-
 - •A drop of insulin should be seen at the needle tip (See Figure J).
 - o If you do not see a drop of insulin, repeat steps 7 to 9, no more than 6 times.
 - o If you still do not see a drop of insulin, change the needle and repeat steps 7 to 9.
@@ -513,14 +511,14 @@ How should I store my TRESIBA FlexTouch Pen?
 
 Before use:
 
-- •Store unused TRESIBA FlexTouch Pens in the refrigerator at 36OF to 46OF (2OC to 8OC).
+- •Store unused TRESIBA FlexTouch Pens in the refrigerator at 36°F to 46°F (2°C to 8°C).
 - •Do not freeze TRESIBA.
   Do not use TRESIBA if it has been frozen.
 - •Unused Pens may be used until the expiration date printed on the label, if kept in the refrigerator.
 
 Pen in use:
 
-- •Store the Pen you are currently using out of the refrigerator below 86OF.
+- •Store the Pen you are currently using at room temperature (below 86°F [30°C]) or in a refrigerator (36°F to 46°F [2°C to 8°C]).
 - •Keep TRESIBA away from heat or light.
 - •The TRESIBA FlexTouch Pen you are using should be thrown away after 56 days, even if it still has insulin left in it and the expiration date has not passed.
 
@@ -539,8 +537,8 @@ Novo Nordisk A/S
 
 DK-2880 Bagsvaerd, Denmark
 
-Revised: 09/2015
+Revised: 06/2016
 
 For more information go to www.TRESIBA.com
 
-© 2015 Novo Nordisk
+© 2015-2016 Novo Nordisk
