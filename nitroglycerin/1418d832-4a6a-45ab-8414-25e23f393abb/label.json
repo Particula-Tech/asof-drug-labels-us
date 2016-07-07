@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "NDA208424"
+  ],
+  "inn": "nitroglycerin",
+  "labeler": "Espero Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "70007-400-01",
+    "70007-400-12",
+    "70007-400-36",
+    "70007-400-96",
+    "70007-400-99"
+  ],
+  "products": [
+    {
+      "form": "POWDER",
+      "generic": "nitroglycerin",
+      "name": "GONITRO"
+    }
+  ],
+  "setid": "1418d832-4a6a-45ab-8414-25e23f393abb",
+  "source": "dailymed"
+}
