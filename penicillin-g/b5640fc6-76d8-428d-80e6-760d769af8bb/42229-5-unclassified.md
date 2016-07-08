@@ -40,6 +40,6 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
     Performance Standards for Antimicrobial Disk Susceptibility Tests, Approved Standard – 11th ed.
     CLSI document M02-A11, 2012
 
-LAB-0635-5.0
+LAB-0635-6.0
 
-October 2015
+June 2016
