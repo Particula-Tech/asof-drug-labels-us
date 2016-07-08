@@ -7,7 +7,7 @@ Administer ZALTRAP prior to any component of the FOLFIRI regimen on the day of t
 
 Continue ZALTRAP until disease progression or unacceptable toxicity.
 
-## 2.2 Dose Modification / Treatment Delay Recommendations
+## 2.2 Dose Modification/Treatment Delay Recommendations
 
 Discontinue ZALTRAP for:
 

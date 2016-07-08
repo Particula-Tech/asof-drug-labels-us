@@ -105,6 +105,6 @@ For these reasons, comparison of the incidence of antibodies to ZALTRAP with the
 The following adverse reactions have been identified during post-approval use of ZALTRAP.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Musculoskeletal and connective tissue disorders
+Musculoskeletal and connective tissue disorders: Osteonecrosis of the jaw
 
-Osteonecrosis of the jaw
+Cardiac disorders: Cardiac failure, Ejection fraction decreased

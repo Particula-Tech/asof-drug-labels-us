@@ -64,7 +64,7 @@ Discontinue ZALTRAP in patients who experience an ATE [see Dosage and Administra
 
 Severe proteinuria, nephrotic syndrome, and thrombotic microangiopathy (TMA) occurred more frequently in patients treated with ZALTRAP.
 In patients with mCRC, proteinuria was reported in 62% patients treated with ZALTRAP/FOLFIRI compared to 41% patients treated with placebo/FOLFIRI.
-Grade 3–4 proteinuria occurred in 8% of patients treated with ZALTRAP/FOLFIRI to 1% of patients treated with placebo/FOLFIRI [see Adverse Reactions (6.1)].
+Grade 3–4 proteinuria occurred in 8% of patients treated with ZALTRAP/FOLFIRI compared to 1% of patients treated with placebo/FOLFIRI [see Adverse Reactions (6.1)].
 Nephrotic syndrome occurred in 2 patients (0.5%) treated with ZALTRAP/FOLFIRI compared to none of the patients treated with placebo/FOLFIRI.
 TMA was reported in 3 of 2258 patients with cancer enrolled across completed studies.
 
