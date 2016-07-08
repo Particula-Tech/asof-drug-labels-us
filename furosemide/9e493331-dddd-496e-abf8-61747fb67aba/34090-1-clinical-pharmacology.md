@@ -15,7 +15,7 @@ The peak effect occurs within the first or second hour.
 The duration of diuretic effect is 6 to 8 hours.
 
 In fasted normal men, the mean bioavailability of furosemide from Furosemide Tablets and Furosemide Oral Solution is 64% and 60%, respectively, of that from an intravenous injection of the drug.
-Although furosemide is somewhat more rapidly absorbed from the oral solution (50 minutes) than from the tablet (87 minutes), peak plasma levels and area under the plasma concentration-time curves do not differ significantly.
+Although furosemide is more rapidly absorbed from the oral solution (50 minutes) than from the tablet (87 minutes), peak plasma levels and area under the plasma concentration-time curves do not differ significantly.
 Peak plasma concentrations increase with increasing dose but times-to-peak do not differ among doses.
 The terminal half-life of furosemide is approximately 2 hours.
 
@@ -27,4 +27,4 @@ Geriatric Population
 Furosemide binding to albumin may be reduced in elderly patients.
 Furosemide is predominantly excreted unchanged in the urine.
 The renal clearance of furosemide after intravenous administration in older healthy male subjects (60 to 70 years of age) is statistically significantly smaller than in younger healthy male subjects (20 to 35 years of age).
-The initial diuretic effect of furosemide in older subjects is decreased relative to younger subjects (See Geriatric Use: Geriatric Use).
+The initial diuretic effect of furosemide in older subjects is decreased relative to younger subjects (See PRECAUTIONS: Geriatric Use).

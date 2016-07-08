@@ -8,7 +8,7 @@ Supplemental potassium chloride and, if required, an aldosterone antagonist are 
 If increasing azotemia and oliguria occur during treatment of severe progressive renal disease, furosemide should be discontinued.
 
 Cases of tinnitus and reversible or irreversible hearing impairment and deafness have been reported.
-Usually, reports indicate that furosemide ototoxicity is associated with rapid injection, severe renal impairment, doses exceeding several times the usual recommended dose, or concomitant therapy with aminoglycoside antibiotics, ethacrynic acid, or other ototoxic drugs.
+Reports usually indicate that furosemide ototoxicity is associated with rapid injection, severe renal impairment, the use of higher than recommended doses, hyopproteinemia or concomitant therapy with aminoglycoside antibiotics, ethacrynic acid, or other ototoxic drugs.
 If the physician elects to use high dose parenteral therapy, controlled intravenous infusion is advisable (for adults, an infusion rate not exceeding 4 mg furosemide per minute has been used) (See PRECAUTIONS: Drug Interactions).
 
 # PRECAUTIONS
@@ -17,7 +17,7 @@ General
 
 Excessive diuresis may cause dehydration and blood volume reduction with circulatory collapse and possibly vascular thrombosis and embolism, particularly in elderly patients.
 As with any effective diuretic, electrolyte depletion may occur during furosemide therapy, especially in patients receiving higher doses and a restricted salt intake.
-Hypokalemia may develop with furosemide, especially with brisk diuresis, inadequate oral electrolyte intake, when cirrhosis is present or during concomitant use of corticosteroids or ACTH.
+Hypokalemia may develop with furosemide, especially with brisk diuresis, inadequate oral electrolyte intake, when cirrhosis is present or during concomitant use of corticosteroids, ACTH, licorice in large amounts, or prolonged use of laxatives.
 Digitalis therapy may exaggerate metabolic effects of hypokalemia, especially myocardial effects.
 
 All patients receiving furosemide therapy should be observed for these signs or symptoms of fluid or electrolyte imbalance (hyponatremia, hypochloremic alkalosis, hypokalemia, hypomagnesemia or hypocalcemia): dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia, arrhythmia, or gastrointestinal disturbances such as nausea and vomiting.
@@ -84,6 +84,7 @@ Furosemide combined with angiotensin converting enzyme inhibitors or angiotensin
 An interruption or reduction in the dosage of furosemide, angiotensin converting enzyme inhibitors, or angiotensin receptor blockers may be necessary.
 
 Potentiation occurs with ganglionic or peripheral adrenergic blocking drugs.
+
 Furosemide may decrease arterial responsiveness to norepinephrine.
 However, norepinephrine may still be used effectively.
 
