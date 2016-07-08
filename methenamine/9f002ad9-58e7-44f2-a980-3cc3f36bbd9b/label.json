@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA205661"
+  ],
+  "inn": "methenamine",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "65862-782-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "methenamine hippurate",
+      "name": "Methenamine Hippurate"
+    }
+  ],
+  "setid": "9f002ad9-58e7-44f2-a980-3cc3f36bbd9b",
+  "source": "dailymed"
+}
