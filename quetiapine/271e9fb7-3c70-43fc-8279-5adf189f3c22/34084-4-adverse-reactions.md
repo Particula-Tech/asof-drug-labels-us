@@ -140,7 +140,7 @@ Table 11: Adverse Reaction Incidence in 8-Week Placebo-Controlled Clinical Trial
 
 | Preferred Term | Quetiapine (n=698) | Placebo (n=347) |
 | --- | --- | --- |
-| Somnolence | 57% | 15% |
+| SomnolenceSomnolence combines adverse reaction terms somnolence and sedation | 57% | 15% |
 | Dry Mouth | 44% | 13% |
 | Dizziness | 18% | 7% |
 | Constipation | 10% | 4% |
@@ -209,7 +209,7 @@ Table 12: Adverse Reactions Associated with EPS in a Short-Term, Placebo-Control
 | Dyskinetic Event | 2 | 3.8 | 0 | 0 | 0 | 0 | 1 | 2 | 0 | 0 | 0 | 0 |
 | Other Extrapyramidal Event | 2 | 3.8 | 0 | 0 | 3 | 5.8 | 3 | 5.9 | 1 | 1.9 | 4 | 7.8 |
 
-Parkinsonism incidence rates as measured by the Simpson-Angus total score for placebo and the five fixed doses (75, 150, 300, 600, 750 mg/day) were: -0.6; -1.0, -1.2; -1.6; -1.8 and -1.8.
+Parkinsonism incidence rates as measured by the Simpson-Angus total score for placebo and the five fixed doses (75, 150, 300, 600, 750 mg/day) were: -0.6; -1, -1.2; -1.6; -1.8 and -1.8.
 The rate of anticholinergic medication use to treat emergent EPS for placebo and the five fixed doses was: 14%; 11%; 10%; 8%; 12% and 11%.
 
 In six additional placebo-controlled clinical trials (3 in acute mania and 3 in schizophrenia) using variable doses of quetiapine, there were no differences between the quetiapine and placebo treatment groups in the incidence of EPS, as assessed by Simpson-Angus total scores, spontaneous complaints of EPS and the use of concomitant anticholinergic medications to treat EPS.
@@ -249,10 +249,10 @@ Table 13: Adverse Reaction Incidence in a 6-Week Placebo-Controlled Clinical Tri
 
 | Preferred Term | Quetiapine 400 mg (n=73) | Quetiapine 800 mg (n=74) | Placebo (n=75) |
 | --- | --- | --- | --- |
-| Somnolence | 33% | 35% | 11% |
+| SomnolenceSomnolence combines adverse reaction terms somnolence and sedation. | 33% | 35% | 11% |
 | Dizziness | 8% | 15% | 5% |
 | Dry Mouth | 4% | 10% | 1% |
-| TrachycardiaTachycardia combines adverse reaction terms tachycardia and sinus tachycardia. | 6% | 11% | 0% |
+| TachycardiaTachycardia combines adverse reaction terms tachycardia and sinus tachycardia. | 6% | 11% | 0% |
 | Irritability | 3% | 5% | 0% |
 | Arthralgia | 1% | 3% | 0% |
 | Asthenia | 1% | 3% | 1% |
@@ -279,7 +279,7 @@ Table 14: Adverse Reactions in a 3-Week Placebo-Controlled Clinical Trial for th
 
 | Preferred Term | Quetiapine 400 mg (n=95) | Quetiapine 600 mg (n=98) | Placebo (n=90) |
 | --- | --- | --- | --- |
-| Somnolence | 50% | 57% | 14% |
+| SomnolenceSomolence combines adverse reactions terms somnolence and sedation. | 50% | 57% | 14% |
 | Dizziness | 19% | 17% | 2% |
 | Nausea | 6% | 10% | 4% |
 | Fatigue | 14% | 9% | 4% |
@@ -329,7 +329,7 @@ Table 16 presents a listing of patients with adverse reactions associated with e
 
 Table 16: Adverse Reactions Associated with Extrapyramidal Symptoms in a Placebo-Controlled Trial in Children and Adolescent Patients with Bipolar I Mania (3-week duration)
 
-| Preferred Term | Quetiapine 400 mg/day (N=95) |  | Quetiapine 600 mg/day (N=98) |  | All Quetiapine (N=193) |  | Placebo (N=90) |  |
+| Preferred TermThere were no adverse experiences with the preferred term of dystonic or dyskinetic events. | Quetiapine 400 mg/day (N=95) |  | Quetiapine 600 mg/day (N=98) |  | All Quetiapine (N=193) |  | Placebo (N=90) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | n | % | n | % | n | % | n | % |  |
 | Parkinsonism | 2 | 2.1 | 1 | 1 | 3 | 1.6 | 1 | 1.1 |
@@ -372,7 +372,7 @@ Endocrine System:Infrequent: hypothyroidism, diabetes mellitus; Rare: hyperthyro
 
 Laboratory, ECG and Vital Sign Changes Observed in Clinical Studies - Laboratory Changes
 
-Neutrophil Counts:Adults: In placebo-controlled monotherapy clinical trials involving 3368 patients on quetiapine fumarate and 1515 on placebo, the incidence of at least one occurrence of neutrophil count <1 x 109/L among patients with a normal baseline neutrophil count and at least one available follow up laboratory measurement was 0.3% (10/2967) in patients treated with quetiapine fumarate, compared to 0.1% (2/1349) in patients treated with placebo [see Warnings and Precautions (5.9)].
+Neutrophil Counts:Adults: In placebo-controlled monotherapy clinical trials involving 3368 patients on quetiapine and 1515 on placebo, the incidence of at least one occurrence of neutrophil count <1 x 109/L among patients with a normal baseline neutrophil count and at least one available follow up laboratory measurement was 0.3% (10/2967) in patients treated with quetiapine, compared to 0.1% (2/1349) in patients treated with placebo [see Warnings and Precautions (5.9)].
 
 Transaminase Elevations:Adults: Asymptomatic, transient and reversible elevations in serum transaminases (primarily ALT) have been reported.
 In schizophrenia trials in adults, the proportions of patients with transaminase elevations of >3 times the upper limits of the normal reference range in a pool of 3- to 6-week placebo-controlled trials were approximately 6% (29/483) for quetiapine compared to 1% (3/194) for placebo.

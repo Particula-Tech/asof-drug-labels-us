@@ -7,10 +7,9 @@ All doses and tablet strengths are expressed as milligrams of base, not as fumar
 Its molecular formula is C42H50N6O4S2•C4H4O4 and it has a molecular weight of 883.11 (fumarate salt).
 The structural formula is:
 
-Quetiapine fumarate is a white to off-white crystalline powder which is moderately soluble in water.
+Quetiapine fumarate USP is a white to off-white powder which is moderately soluble in water.
 
-Quetiapine Fumarate Tablets are supplied for oral administration as 25 mg (round, white), 50 mg (oval, white), 100 mg (round white), 200 mg (round, white), 300 mg (oval, white), and 400 mg (oval, white) tablets.
+Quetiapine Tablets USP are available for oral administration containing either 25 mg, 50 mg, 100 mg, 200 mg, 300 mg or 400 mg of quetiapine fumarate.
+Each 25 mg tablet contains the following inactive ingredients: lactose, magnesium stearate, microcrystalline cellulose, povidone and sodium starch glycolate.
 
-Inactive ingredients in the 25 mg tablet are lactose, magnesium stearate, microcrystalline cellulose, povidone, purified water and sodium starch glycolate.
-
-Inactive ingredients in the 50 mg, 100 mg, 200 mg, 300 mg and 400 mg tablets are colloidal silicon dioxide, magnesium stearate, microcrystalline cellulose, povidone, purified water and sodium starch glycolate.
+The 50 mg, 100 mg, 200 mg, 300 mg and 400 mg tablets contain the following inactive ingredients: colloidal silicon dioxide, magnesium stearate, microcrystalline cellulose, povidone and sodium starch glycolate.

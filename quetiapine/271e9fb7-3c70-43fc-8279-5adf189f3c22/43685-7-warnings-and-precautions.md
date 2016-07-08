@@ -58,12 +58,12 @@ Screening Patients for Bipolar Disorder
 A major depressive episode may be the initial presentation of bipolar disorder.
 It is generally believed (though not established in controlled trials) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed/manic episode in patients at risk for bipolar disorder.
 Whether any of the symptoms described above represent such a conversion is unknown.
-However, prior to initiating treatment with an antidepressant, including quetiapine fumarate, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
+However, prior to initiating treatment with an antidepressant, including quetiapine, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
 
 ## 5.3 Cerebrovascular Adverse Reactions, Including Stroke, in Elderly Patients with Dementia-Related Psychosis
 
 In placebo-controlled trials with risperidone, aripiprazole, and olanzapine in elderly subjects with dementia, there was a higher incidence of cerebrovascular adverse reactions (cerebrovascular accidents and transient ischemic attacks) including fatalities compared to placebo-treated subjects.
-Quetiapine fumarate is not approved for the treatment of patients with dementia-related psychosis [see also Boxed WarningandWarnings and Precautions (5.1)].
+Quetiapine is not approved for the treatment of patients with dementia-related psychosis [see also Boxed WarningandWarnings and Precautions (5.1)].
 
 ## 5.4 Neuroleptic Malignant Syndrome (NMS)
 
@@ -151,7 +151,7 @@ Table 4: Percentage of Adult Patients with Shifts in Total Cholesterol, Triglyce
 
 Children and Adolescents: Table 5 shows the percentage of children and adolescents with changes in total cholesterol, triglycerides, LDL-cholesterol and HDL-cholesterol from baseline in clinical trials with quetiapine.
 
-Table 5: Percentage of Adult Patients with Shifts in Total Cholesterol, Triglycerides, LDL-Cholesterol and HDL-Cholesterol from Baseline to Clinically Significant Levels by Indication
+Table 5: Percentage of Children and Adolescents with Shifts in Total Cholesterol, Triglycerides, LDL-Cholesterol and HDL-Cholesterol from Baseline to Clinically Significant Levels
 
 | Laboratory Analyte | Indication | Treatment Arm | n | Patients n (%) |
 | --- | --- | --- | --- | --- |

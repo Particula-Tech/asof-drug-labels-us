@@ -6,7 +6,7 @@ Prescribers or other health professionals should inform patients, their families
 A patient Medication Guide about “Antidepressant Medicines, Depression and other Serious Mental Illness, and Suicidal Thoughts or Actions” is available for quetiapine.
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
-The complete text of the Medication Guide is reprinted at the end of this document.
+The Medication Guide is provided separately.
 
 Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking quetiapine.
 
@@ -73,13 +73,13 @@ Patients should be advised to notify their physician if they become pregnant or 
 
 Need for Comprehensive Treatment Program
 
-Quetiapineis indicated as an integral part of a total treatment program for adolescents with schizophrenia and pediatric bipolar disorder that may include other measures (psychological, educational, and social).
-Effectiveness and safety of quetiapinehave not been established in pediatric patients less than 13 years of age for schizophrenia or less than 10 years of age for bipolar mania.
+Quetiapine is indicated as an integral part of a total treatment program for adolescents with schizophrenia and pediatric bipolar disorder that may include other measures (psychological, educational, and social).
+Effectiveness and safety of quetiapine have not been established in pediatric patients less than 13 years of age for schizophrenia or less than 10 years of age for bipolar mania.
 Appropriate educational placement is essential and psychosocial intervention is often helpful.
 The decision to prescribe atypical antipsychotic medication will depend upon the physician’s assessment of the chronicity and severity of the patient’s symptoms [see Indications and Usage (1.3)].
 
-Roxane Laboratories, Inc. Columbus, Ohio 43216
+Distr. by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724
 
-10004966/02
+10004966/03
 
-Revised February 2014 © RLI, 2014
+Revised March 2016

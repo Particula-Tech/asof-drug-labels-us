@@ -1,5 +1,11 @@
 # Medication Guide
 
+Quetiapine Tablets USP
+
+(kwe tye ’a peen)
+
+Rx only
+
 Read this Medication Guide before you start taking quetiapine and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
@@ -8,53 +14,51 @@ What is the most important information I should know about quetiapine?
 
 Quetiapine may cause serious side effects, including:
 
-- 1.Risk of death in the elderly with dementia.
-  Medicines like quetiapine can increase the risk of death in elderly people who have memory loss (dementia).
-  Quetiapine is not for treating psychosis in the elderly with dementia.
-- 2.Risk of suicidal thoughts or actions (antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions).
-
-- •Talk to your or your family member’s healthcare provider about:
-  - oall risks and benefits of treatment with antidepressant medicines.
-  - oall treatment choices for depression or other serious mental illness
-- •Antidepressant medications may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
-- •Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
-  Some people may have a particularly high risk of having suicidal thoughts or actions.
-  These include people who have (or have a family history of) depression, bipolar illness (also called manic-depressive illness), or suicidal thoughts or actions.
-- •How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
-  - oPay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
-    This is very important when an antidepressant medicine is started or when the dose is changed.
-  - oCall the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
-  - oKeep all follow-up visits with the healthcare provider as scheduled.
-    Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
-    Call a healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you: thoughts about suicide or dying
-- •thoughts about suicide or dying
-- •attempts to commit suicide
-- •new or worse depression
-- •new or worse anxiety
-- •feeling very agitated or restless
-- •panic attacks
-- •trouble sleeping (insomnia)
-- •new or worse irritability
-- •acting aggressive, being angry, or violent
-- •acting on dangerous impulses
-- •an extreme increase in activity and talking (mania)
-- •other unusual changes in behavior or mood
+1. 1.Risk of death in the elderly with dementia.
+   Medicines like quetiapine can increase the risk of death in elderly people who have memory loss (dementia).
+   Quetiapine is not for treating psychosis in the elderly with dementia.
+2. 2.Risk of suicidal thoughts or actions (antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions).
+3. •Talk to your or your family member’s healthcare provider about:
+   - oall risks and benefits of treatment with antidepressant medicines
+   - oall treatment choices for depression or other serious mental illness
+4. •Antidepressant medications may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
+5. •Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
+   Some people may have a particularly high risk of having suicidal thoughts or actions.
+   These include people who have (or have a family history of) depression, bipolar illness (also called manic-depressive illness), or suicidal thoughts or actions.
+6. •How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
+   - oPay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
+     This is very important when an antidepressant medicine is started or when the dose is changed
+   - oCall the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings
+   - oKeep all follow-up visits with the healthcare provider as scheduled.
+     Call the healthcare provider between visits as needed, especially if you have concerns about symptoms Call a healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
+7. •thoughts about suicide or dying
+8. •attempts to commit suicide
+9. •new or worse depression
+10. •new or worse anxiety
+11. •feeling very agitated or restless
+12. •panic attacks
+13. •trouble sleeping (insomnia)
+14. •new or worse irritability
+15. •acting aggressive, being angry, or violent
+16. •acting on dangerous impulses
+17. •an extreme increase in activity and talking (mania)
+18. •other unusual changes in behavior or mood
 
 What else do I need to know about antidepressant medicines?
 
 - •Never stop an antidepressant medicine without first talking to your healthcare provider.
-  Stopping an antidepressant medicine suddenly can cause other symptoms.
+  Stopping an antidepressant medicine suddenly can cause other symptoms
 - •Antidepressants are medicines used to treat depression and other illnesses.
   It is important to discuss all the risks of treating depression and also the risks of not treating it.
-  Patients and their families or other caregivers should discuss all treatment choices with the healthcare provider, not just the use of antidepressants.
+  Patients and their families or other caregivers should discuss all treatment choices with the healthcare provider, not just the use of antidepressants
 - •Antidepressant medicines have other side effects.
-  Talk to the healthcare provider about the side effects of the medicine prescribed for you or your family member.
+  Talk to the healthcare provider about the side effects of the medicine prescribed for you or your family member
 - •Antidepressant medicines can interact with other medicines.
   Know all of the medicines that you or your family member take.
   Keep a list of all medicines to show the healthcare provider.
-  Do not start new medicines without first checking with your healthcare provider.
+  Do not start new medicines without first checking with your healthcare provider
 - •Not all antidepressant medicines prescribed for children are FDA approved for use in children.
-  Talk to your child’s healthcare provider for more information.
+  Talk to your child’s healthcare provider for more information
 
 What is quetiapine?
 
@@ -90,7 +94,7 @@ Before you take quetiapine, tell your healthcare provider if you have or have ha
 - •breastfeeding or plans to breastfeed.
   Quetiapine can pass into your breast milk.
   You and your healthcare provider should decide if you will take quetiapine or breastfeed.
-  You should not do both.
+  You should not do both
 
 Tell the healthcare provider about all the medicines that you take or recently have taken including prescription medicines, over-the-counter medicines, herbal supplements and vitamins.
 
@@ -103,28 +107,28 @@ Tell those giving the test that you are taking quetiapine.
 How should I take quetiapine?
 
 - •Take quetiapine exactly as your healthcare provider tells you to take it.
-  Do not change the dose yourself.
-- •Take quetiapine by mouth, with or without food.
+  Do not change the dose yourself
+- •Take quetiapine by mouth, with or without food
 - •If you feel you need to stop quetiapine, talk with your healthcare provider first.
-  If you suddenly stop taking quetiapine, you may have side effects such as trouble sleeping or trouble staying asleep (insomnia), nausea, and vomiting.
+  If you suddenly stop taking quetiapine, you may have side effects such as trouble sleeping or trouble staying asleep (insomnia), nausea, and vomiting
 - •If you miss a dose of quetiapine, take it as soon as you remember.
   If you are close to your next dose, skip the missed dose.
   Just take the next dose at your regular time.
   Do not take 2 doses at the same time unless your healthcare provider tells you to.
-  If you are not sure about your dosing, call your healthcare provider.
+  If you are not sure about your dosing, call your healthcare provider
 
 What should I avoid while taking quetiapine?
 
 - •Do not drive, operate machinery, or do other dangerous activities until you know how quetiapine affects you.
-  Quetiapine may make you drowsy.
-- •Avoid getting overheated or dehydrated.
-  - oDo not over-exercise.
-  - oIn hot weather, stay inside in a cool place if possible.
+  Quetiapine may make you drowsy
+- •Avoid getting overheated or dehydrated
+  - oDo not over-exercise
+  - oIn hot weather, stay inside in a cool place if possible
   - oStay out of the sun.
-    Do not wear too much or heavy clothing.
-  - oDrink plenty of water.
+    Do not wear too much or heavy clothing
+  - oDrink plenty of water
 - •Do not drink alcohol while taking quetiapine.
-  It may make some side effects of quetiapine worse.
+  It may make some side effects of quetiapine worse
 
 What are possible side effects of quetiapine?
 
@@ -142,7 +146,7 @@ Quetiapine can cause serious side effects, including:
   - oconfusion
   - ochanges in your breathing, heartbeat, and blood pressure
 - •High blood sugar (hyperglycemia).
-  High blood sugar can happen if you have diabetes already or if you have never had diabetes.
+  High blood sugar can happen if you have diabetes already or if you have never had diabetes
 - High blood sugar could lead to:
   1. obuild up of acid in your blood due to ketones (ketoacidosis)
   2. ocoma
@@ -159,29 +163,29 @@ Quetiapine can cause serious side effects, including:
   6. ofeel confused, or your breath smells fruity
 - •high fat levels in your blood (increased cholesterol and triglycerides).
   High fat levels may happen in people treated with quetiapine.
-  You may not have any symptoms, so your healthcare provider may decide to check your cholesterol and triglycerides during your treatment with quetiapine.
+  You may not have any symptoms, so your healthcare provider may decide to check your cholesterol and triglycerides during your treatment with quetiapine
 - •increase in weight (weight gain).
   Weight gain is common in people who take quetiapine so you and your healthcare provider should check your weight regularly.
-  Talk to your healthcare provider about ways to control weight gain, such as eating a healthy, balanced diet, and exercising.
+  Talk to your healthcare provider about ways to control weight gain, such as eating a healthy, balanced diet, and exercising
 - •movements you cannot control in your face, tongue, or other body parts (tardive dyskinesia).
   These may be signs of a serious condition.
   Tardive dyskinesia may not go away, even if you stop taking quetiapine.
-  Tardive dyskinesia may also start after you stop taking quetiapine.
-- •decreased blood pressure (orthostatic hypotension), including lightheadedness or fainting caused by a sudden change in heart rate and blood pressure when rising too quickly from a sitting or lying position.
+  Tardive dyskinesia may also start after you stop taking quetiapine
+- •decreased blood pressure (orthostatic hypotension), including lightheadedness or fainting caused by a sudden change in heart rate and blood pressure when rising too quickly from a sitting or lying position
 - •increases in blood pressure in children and teenagers.
-  Your healthcare provider should check blood pressure in children and adolescents before starting quetiapine and during therapy.
+  Your healthcare provider should check blood pressure in children and adolescents before starting quetiapine and during therapy
 - •low white blood cell count
 - •cataracts
 - •seizures
 - •abnormal thyroid tests.
-  Your healthcare provider may do blood tests to check your thyroid hormone level.
+  Your healthcare provider may do blood tests to check your thyroid hormone level
 - •increases in prolactin levels.
-  Your healthcare provider may do blood tests to check your prolactin levels.
+  Your healthcare provider may do blood tests to check your prolactin levels
 - •sleepiness, drowsiness, feeling tired, difficulty thinking and doing normal activities
 - •increased body temperature
 - •difficulty swallowing
 - •trouble sleeping or trouble staying asleep (insomnia), nausea, and vomiting if you suddenly stop taking quetiapine.
-  These symptoms usually get better 1 week after you start having them.
+  These symptoms usually get better 1 week after you start having them
 
 The most common side effects of quetiapine include:
 
@@ -212,8 +216,8 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store quetiapine?
 
-- •Store quetiapine at room temperature, between 68°F to 77°F (20°C to 25°C).
-- •Keep quetiapine and all medicines out of the reach of children.
+- •Store quetiapine at room temperature, between 68°F to 77°F (20°C to 25°C)
+- •Keep quetiapine and all medicines out of the reach of children
 
 General information about the safe and effective use of quetiapine.
 
@@ -225,20 +229,20 @@ It may harm them.
 This Medication Guide summarizes the most important information about quetiapine.
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about quetiapine that is written for health professionals.
-For more information, go to www.roxane.com, or call 1-800-962-8364.
+For more information, please call 1-800-962-8364.
 
-What are the ingredients in quetiapine?
+What are the ingredients in Quetiapine Tablets USP?
 
-Active ingredient: quetiapine fumarate
+Active ingredient: quetiapine fumarate USP
 
-Inactive ingredients: The 25 mg tablet contains lactose, magnesium stearate, microcrystalline cellulose, povidone, purified water and sodium starch glycolate.
+Inactive ingredients: The 25 mg tablet contains lactose, magnesium stearate, microcrystalline cellulose, povidone and sodium starch glycolate.
 
-The 50 mg, 100 mg, 200 mg, 300 mg and 400 mg tablets contain colloidal silicon dioxide, magnesium stearate, microcrystalline cellulose, povidone, purified water and sodium starch glycolate.
+The 50 mg, 100 mg, 200 mg, 300 mg and 400 mg tablets contain colloidal silicon dioxide, magnesium stearate, microcrystalline cellulose, povidone and sodium starch glycolate.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Roxane Laboratories, Inc. Columbus, Ohio 43216
+Distr. by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724
 
-10004966/02
+10004966/03
 
-Revised February 2014 © RLI, 2014
+Revised March 2016

@@ -25,7 +25,7 @@ In post marketing experience there were cases reported of QT prolongation in pat
 
 Adults
 
-Quetiapine fumarate activity is primarily due to the parent drug.
+Quetiapine activity is primarily due to the parent drug.
 The multiple-dose pharmacokinetics of quetiapine are dose-proportional within the proposed clinical dose range, and quetiapine accumulation is predictable upon multiple dosing.
 Elimination of quetiapine is mainly via hepatic metabolism with a mean terminal half-life of about 6 hours within the proposed clinical dose range.
 Steady-state concentrations are expected to be achieved within two days of dosing.
@@ -38,7 +38,7 @@ However, when adjusted for dose and weight, AUC and Cmax of the parent compound 
 For the active metabolite, norquetiapine, AUC and Cmax were 45% and 31% higher, respectively, in children and adolescents than in adults.
 When adjusted for dose and weight, the pharmacokinetics of the metabolite, norquetiapine, was similar between children and adolescents and adults [see Use in Specific Populations (8.4)].
 
-Absorption: Quetiapine fumarate is rapidly absorbed after oral administration, reaching peak plasma concentrations in 1.5 hours.
+Absorption: Quetiapine is rapidly absorbed after oral administration, reaching peak plasma concentrations in 1.5 hours.
 The tablet formulation is 100% bioavailable relative to solution.
 The bioavailability of quetiapine is marginally affected by administration with food, with Cmax and AUC values increased by 25% and 15%, respectively.
 
@@ -77,11 +77,11 @@ Table 17: The Effect of Other Drugs on the Pharmacokinetics of Quetiapine
 | --- | --- | --- | --- |
 | Coadministered Drug | Quetiapine |  |  |
 | Phenytoin | 100 mg three times daily | 250 mg three times daily | 5 fold increase in oral clearance |
-| Divalproex | 500 mg twice daily | 150 mg twice daily | 17% increase mean max plasma concentration at steady state. No affect on absorption or mean oral clearance |
+| Divalproex | 500 mg twice daily | 150 mg twice daily | 17% increase mean max plasma concentration at steady state. No effect on absorption or mean oral clearance |
 | Thioridazine | 200 mg twice daily | 300 mg twice daily | 65% increase in oral clearance |
 | Cimetidine | 400 mg three times daily for 4 days | 150 mg three times daily | 20% decrease in mean oral clearance |
 | Ketoconazole (potent CYP 3A4 inhibitor) | 200 mg once daily for 4 days | 25 mg single dose | 84% decrease in oral clearance resulting in a 6.2 fold increase in AUC of quetiapine |
-| Fluoxetine | 60 mg once daily | 300 mg twice daily | No change in stady state PK |
+| Fluoxetine | 60 mg once daily | 300 mg twice daily | No change in steady state PK |
 | Imipramine | 75 mg twice daily | 300 mg twice daily | No change in steady state PK |
 | Haloperidol | 7.5 mg twice daily | 300 mg twice daily | No change in steady state PK |
 | Risperidone | 3 mg twice daily | 300 mg twice daily | No change in steady state PK |
@@ -97,4 +97,4 @@ Table 18: The Effect of Quetiapine on the Pharmacokinetics of Other Drugs
 | Lorazepam | 2 mg, single dose | 250 mg three times daily | Oral clearance of lorazepam reduced by 20% |
 | Divalproex | 500 mg twice daily | 150 mg twice daily | Cmax and AUC of free valproic acid at steady-state was decreased by 10 to 12% |
 | Lithium | Up to 2400 mg/day given in twice daily doses | 250 mg three times daily | No effect on steady-state pharmacokinetics of lithium |
-| Antipyrine | 1 g, single dose | 250 mg thee times daily | No effect on clearance of antipyrine or urinary recovery of its metabolites |
+| Antipyrine | 1 g, single dose | 250 mg three times daily | No effect on clearance of antipyrine or urinary recovery of its metabolites |
