@@ -88,7 +88,7 @@ Tetracycline, a bacteriostatic antibiotic, may antagonize the bactericidal effec
 
 Concurrent administration of penicillin and probenecid increases and prolongs serum penicillin levels by decreasing the apparent volume of distribution and slowing the rate of excretion by competitively inhibiting renal tubular secretion of penicillin.
 
-## Pregnancy Category B
+## Pregnancy
 
 Reproduction studies performed in the mouse, rat, and rabbit have revealed no evidence of impaired fertility or harm to the fetus due to penicillin G. Human experience with the penicillins during pregnancy has not shown any positive evidence of adverse effects on the fetus.
 There are, however, no adequate and well-controlled studies in pregnant women showing conclusively that harmful effects of these drugs on the fetus can be excluded.
