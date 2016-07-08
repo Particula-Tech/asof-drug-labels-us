@@ -40,7 +40,7 @@ Bupivacaine Hydrochloride is contraindicated for obstetrical paracervical blocks
 Use in Epidural Anesthesia: During epidural administration of Bupivacaine Hydrochloride, 0.5% and 0.75% solutions should be administered in incremental doses of 3 mL to 5 mL with sufficient time between doses to detect toxic manifestations of unintentional intravascular or intrathecal injection.
 In obstetrics, only the 0.5% and 0.25% concentrations should be used; incremental doses of 3 mL to 5 mL of the 0.5% solution not exceeding 50 mg to 100 mg at any dosing interval are recommended.
 Repeat doses should be preceded by a test dose containing epinephrine if not contraindicated.
-Use only the single-dose ampuls and single-dose vials for caudal or epidural anesthesia; the multiple-dose vials contain a preservative and therefore should not be used for these procedures.
+Use only the single-use ampuls and single-use vials for caudal or epidural anesthesia; the multiple-use vials contain a preservative and therefore should not be used for these procedures.
 
 Test Dose for Caudal and Lumbar Epidural Blocks: The Test Dose of Bupivacaine Hydrochloride (0.5% bupivacaine with 1:200,000 epinephrine in a 3 mL ampul) is recommended for use as a test dose when clinical conditions permit prior to caudal and lumbar epidural blocks.
 This may serve as a warning of unintended intravascular or subarachnoid injection.
@@ -57,7 +57,7 @@ The lowest effective dose should be employed and time should be allowed between 
 Injections should be made slowly and with frequent aspirations.
 Until further experience is gained, Bupivacaine in dentistry is not recommended for pediatric patients younger than 12 years.
 
-Unused portions of solution not containing preservatives, i.e., those supplied in single-dose ampuls and single-dose vials, should be discarded following initial use.
+Unused portions of solution not containing preservatives, i.e., those supplied in single-use ampuls and single-use vials, should be discarded following initial use.
 
 This product should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
 Solutions which are discolored or which contain particulate matter should not be administered.

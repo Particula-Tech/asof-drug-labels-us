@@ -4,7 +4,7 @@ LOCAL ANESTHETICS SHOULD ONLY BE EMPLOYED BY CLINICIANS WHO ARE WELL VERSED IN D
 (See also ADVERSE REACTIONS, PRECAUTIONS, and OVERDOSAGE.)
 DELAY IN PROPER MANAGEMENT OF DOSE-RELATED TOXICITY, UNDERVENTILATION FROM ANY CAUSE, AND/OR ALTERED SENSITIVITY MAY LEAD TO THE DEVELOPMENT OF ACIDOSIS, CARDIAC ARREST AND, POSSIBLY, DEATH.
 
-Local anesthetic solutions containing antimicrobial preservatives, i.e., those supplied in multiple-dose vials, should not be used for epidural or caudal anesthesia because safety has not been established with regard to intrathecal injection, either intentionally or unintentionally, of such preservatives.
+Local anesthetic solutions containing antimicrobial preservatives, i.e., those supplied in multiple-use vials, should not be used for epidural or caudal anesthesia because safety has not been established with regard to intrathecal injection, either intentionally or unintentionally, of such preservatives.
 
 Intra-articular infusions of local anesthetics following arthroscopic and other surgical procedures is an unapproved use, and there have been post-marketing reports of chondrolysis in patients receiving such infusions.
 The majority of reported cases of chondrolysis have involved the shoulder joint; cases of gleno-humeral chondrolysis have been described in pediatric and adult patients following intra-articular infusions of local anesthetics with and without epinephrine for periods of 48 to 72 hours.
@@ -28,7 +28,7 @@ Therefore, Bupivacaine Hydrochloride is not recommended for use in this techniqu
 Bupivacaine Hydrochloride with epinephrine 1:200,000 contains sodium metabisulfite, a sulfite that may cause allergic-type reactions including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people.
 The overall prevalence of sulfite sensitivity in the general population is unknown and probably low.
 Sulfite sensitivity is seen more frequently in asthmatic than in nonasthmatic people.
-Single-dose ampuls and single-dose vials of Bupivacaine Hydrochloride without epinephrine do not contain sodium metabisulfite.
+Single-use ampuls and single-use vials of Bupivacaine Hydrochloride without epinephrine do not contain sodium metabisulfite.
 
 # PRECAUTIONS
 

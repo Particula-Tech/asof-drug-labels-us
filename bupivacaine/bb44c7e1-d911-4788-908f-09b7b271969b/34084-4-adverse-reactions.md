@@ -23,7 +23,7 @@ In a survey of studies of epidural anesthesia, overt toxicity progressing to con
 Cardiovascular System Reactions: High doses or unintentional intravascular injection may lead to high plasma levels and related depression of the myocardium, decreased cardiac output, heartblock, hypotension, bradycardia, ventricular arrhythmias, including ventricular tachycardia and ventricular fibrillation, and cardiac arrest.
 (See WARNINGS, PRECAUTIONS, and OVERDOSAGE.)
 
-Allergic: Allergic-type reactions are rare and may occur as a result of sensitivity to the local anesthetic or to other formulation ingredients, such as the antimicrobial preservative methylparaben contained in multiple-dose vials or sulfites in epinephrine-containing solutions.
+Allergic: Allergic-type reactions are rare and may occur as a result of sensitivity to the local anesthetic or to other formulation ingredients, such as the antimicrobial preservative methylparaben contained in multiple-use vials or sulfites in epinephrine-containing solutions.
 These reactions are characterized by signs such as urticaria, pruritus, erythema, angioneurotic edema (including laryngeal edema), tachycardia, sneezing, nausea, vomiting, dizziness, syncope, excessive sweating, elevated temperature, and possibly, anaphylactoid-like symptomatology (including severe hypotension).
 Cross sensitivity among members of the amide-type local anesthetic group has been reported.
 The usefulness of screening for sensitivity has not been definitely established.
