@@ -10,7 +10,7 @@ Additional liquid or volume must be administered with caution because of the ris
 Clearance of nifedipine would be expected to be prolonged in patients with impaired liver function.
 Since nifedipine is highly protein bound, dialysis is not likely to be of any benefit; however, plasmapheresis may be beneficial.
 
-There has been one reported case of massive overdosage with tablets of another extended release formulation of nifedipine.
+There has been one reported case of massive overdosage with tablets of another extended-release formulation of nifedipine.
 The main effects of ingestion of approximately 4800 mg of nifedipine in a young man attempting suicide as a result of cocaine-induced depression was initial dizziness, palpitations, flushing, and nervousness.
 Within several hours of ingestion, nausea, vomiting, and generalized edema developed.
 No significant hypotension was apparent at presentation, 18 hours post ingestion.

@@ -13,5 +13,5 @@ Nifedipine Extended-Release Tablets, USP are supplied in:
 | 60 mg | Bottles of 100 | 68682-106-10 |
 | 60 mg | Bottles of 300 | 68682-106-30 |
 
-The tablets should be protected from light and moisture and stored at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
+The tablets should be protected from light and moisture and stored at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 Dispense in tight, light-resistant containers.

@@ -2,7 +2,7 @@
 
 Dosage should be adjusted according to each patient's needs.
 It is recommended that nifedipine extended-release tablet be administered orally once daily on an empty stomach.
-Nifedipine extended-release tablet is an extended release dosage form and tablets should be swallowed whole, not bitten or divided.
+Nifedipine extended-release tablet is an extended-release dosage form and tablets should be swallowed whole, not bitten or divided.
 In general, titration should proceed over a 7 to 14 day period starting with 30 mg once daily.
 Upward titration should be based on therapeutic efficacy and safety.
 The usual maintenance dose is 30 mg to 60 mg once daily.

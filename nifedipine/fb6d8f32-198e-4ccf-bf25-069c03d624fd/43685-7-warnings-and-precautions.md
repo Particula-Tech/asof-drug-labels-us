@@ -27,7 +27,7 @@ Patients with tight aortic stenosis may be at greater risk for such an event, as
 
 # PRECAUTIONS
 
-## General – Hypotension
+## General Hypotension
 
 Because nifedipine decreases peripheral vascular resistance, careful monitoring of blood pressure during the initial administration and titration of nifedipine extended-release tablets is suggested.
 Close observation is especially recommended for patients already taking medications that are known to lower blood pressure (see WARNINGS).
@@ -35,7 +35,7 @@ Close observation is especially recommended for patients already taking medicati
 ## Peripheral Edema
 
 Mild to moderate peripheral edema occurs in a dose-dependent manner with nifedipine extended-release tablets.
-The placebo subtracted rate is approximately 8% at 30 mg, 12% at 60 mg, and 19% at 90 mg daily.
+The placebo subtracted rate is approximately 8% at 30 mg, 12% at 60 mg and 19% at 90 mg daily.
 This edema is a localized phenomenon, thought to be associated with vasodilation of dependent arterioles and small blood vessels and not due to left ventricular dysfunction or generalized fluid retention.
 With patients whose hypertension is complicated by congestive heart failure, care should be taken to differentiate this peripheral edema from the effects of increasing left ventricular dysfunction.
 
@@ -49,7 +49,7 @@ Careful monitoring and dose reduction may be necessary; consider initiating ther
 
 Nifedipine extended-release tablets are an extended-release tablet and should be swallowed whole and taken on an empty stomach.
 It should not be administered with food.
-Do not chew, divide, or crush tablets.
+Do not chew, divide or crush tablets.
 
 ## Laboratory Tests
 
@@ -57,7 +57,7 @@ Rare, usually transient, but occasionally significant elevations of enzymes such
 The relationship to nifedipine therapy is uncertain in most cases, but probable in some.
 These laboratory abnormalities have rarely been associated with clinical symptoms; however, cholestasis with or without jaundice has been reported.
 A small increase (<5%) in mean alkaline phosphatase was noted in patients treated with nifedipine extended-release tablets.
-This was an isolated finding, and it rarely resulted in values which fell outside the normal range.
+This was an isolated finding and it rarely resulted in values which fell outside the normal range.
 Rare instances of allergic hepatitis have been reported with nifedipine treatment.
 In controlled studies, nifedipine extended-release tablets did not adversely affect serum uric acid, glucose, cholesterol or potassium.
 
@@ -85,14 +85,14 @@ Careful monitoring and dose adjustment may be necessary; consider initiating nif
 
 ### Strong CYP3A Inducers
 
-Strong CYP3A inducers, such as rifampin, rifabutin, phenobarbital, phenytoin, carbamazepine, and St. John's Wort reduce the bioavailability and efficacy of nifedipine; therefore nifedipine should not be used in combination with strong CYP3A inducers such as rifampin (See CONTRAINDICATIONS).
+Strong CYP3A inducers, such as rifampin, rifabutin, phenobarbital, phenytoin, carbamazepine, and St. John's Wort reduce the bioavailability and efficacy of nifedipine; therefore nifedipine should not be used in combination with strong CYP3A inducers such as rifampin (see CONTRAINDICATIONS).
 
 ### Cardiovascular Drugs
 
 Antiarrhythmics
 
 Quinidine: Quinidine is a substrate of CYP3A and has been shown to inhibit CYP3A in vitro.
-Coadministraion of multiple doses of quinidine sulfate, 200 mg t.i.d., and nifedipine, 20 mg t.i.d., increased Cmax and AUC of nifedipine in healthy volunteers by factors of 2.30 and 1.37, respectively.
+Coadministration of multiple doses of quinidine sulfate, 200 mg t.i.d., and nifedipine, 20 mg t.i.d., increased Cmax and AUC of nifedipine in healthy volunteers by factors of 2.30 and 1.37, respectively.
 The heart rate in the initial interval after drug administration was increased by up to 17.9 beats/minute.
 The exposure to quinidine was not importantly changed in the presence of nifedipine.
 Monitoring of heart rate and adjustment of the nifedipine dose, if necessary, are recommended when quinidine is added to a treatment with nifedipine.
@@ -141,7 +141,7 @@ Blood pressure should be monitored when doxazosin is coadministered with nifedip
 Digitalis
 
 Digoxin: The simultaneous administration of nifedipine and digoxin may lead to reduced clearance resulting in an increase in plasma concentration of digoxin.
-Since there have been isolated reports of patients with elevated digoxin levels, and there is a possible interaction between digoxin and nifedipine extended-release tablet, it is recommended that digoxin levels be monitored when initiating, adjusting, and discontinuing nifedipine extended-release tablet to avoid possible over- or under-digitalization.
+Since there have been isolated reports of patients with elevated digoxin levels and there is a possible interaction between digoxin and nifedipine extended-release tablet, it is recommended that digoxin levels be monitored when initiating, adjusting and discontinuing nifedipine extended-release tablet to avoid possible over- or under-digitalization.
 
 Antithrombotics
 
@@ -162,7 +162,7 @@ Non-Cardiovascular Drugs
 
 Antifungal Drugs
 
-Ketoconazole, itraconazole, and fluconazole are CYP3A inhibitors and can inhibit the metabolism of nifedipine and increase the exposure to nifedipine during concomitant therapy.
+Ketoconazole, itraconazole and fluconazole are CYP3A inhibitors and can inhibit the metabolism of nifedipine and increase the exposure to nifedipine during concomitant therapy.
 Blood pressure should be monitored and a dose reduction of nifedipine considered.
 
 Antisecretory Drugs
@@ -198,12 +198,12 @@ Blood pressure should be monitored and a reduction of the dose of nifedipine con
 
 Antitubercular Drugs
 
-1. Rifampin: Strong CYP3A inducers, such as rifampin, rifapentin, and rifabutin reduce the bioavailability of nifedipine which may reduce the efficacy of nifedipine; therefore nifedipine should not be used in combination with strong CYP3A inducers such as rifampin (See CONTRAINDICATIONS).
-   The impact of multiple oral doses of 600 mg rifampin on the pharmacokinetics of nifedipine after a single oral dose of 20 mg nifedipine capsule was evaluated in a clinical study.
-   Twelve healthy male volunteers received a single oral dose of 20 mg nifedipine capsule on study Day 1.
-   Starting on study Day 2, the subjects received 600 mg rifampin once daily for 14 days.
-   On study Day 15, a second single oral dose of 20 mg nifedipine capsule was administered together with the last dose of rifampin.
-   Compared to study Day 1, 14 days pretreatment with rifampin reduced Cmax and AUC of concomitantly administered nifedipine on average by 95% and 97%, respectively.
+Rifampin: Strong CYP3A inducers, such as rifampin, rifapentin, and rifabutin reduce the bioavailability of nifedipine which may reduce the efficacy of nifedipine; therefore nifedipine should not be used in combination with strong CYP3A inducers such as rifampin (see CONTRAINDICATIONS).
+The impact of multiple oral doses of 600 mg rifampin on the pharmacokinetics of nifedipine after a single oral dose of 20 mg nifedipine capsule was evaluated in a clinical study.
+Twelve healthy male volunteers received a single oral dose of 20 mg nifedipine capsule on study Day 1.
+Starting on study Day 2, the subjects received 600 mg rifampin once daily for 14 days.
+On study Day 15, a second single oral dose of 20 mg nifedipine capsule was administered together with the last dose of rifampin.
+Compared to study Day 1, 14 days pretreatment with rifampin reduced Cmax and AUC of concomitantly administered nifedipine on average by 95% and 97%, respectively.
 
 Antiviral Drugs
 
@@ -219,7 +219,7 @@ Fluoxetine, a CYP3A inhibitor, can inhibit the metabolism of nifedipine and incr
 Blood pressure should be monitored and a reduction of the dose of nifedipine considered.
 
 Valproic acid may increase the exposure to nifedipine during concomitant therapy.
-Blood pressure should be monitored, and a dose reduction of nifedipine considered.
+Blood pressure should be monitored and a dose reduction of nifedipine considered.
 
 Phenytoin, Phenobarbital, and Carbamazepine: Nifedipine is metabolized by CYP3A.
 Coadministration of nifedipine 10 mg capsule and 60 mg nifedipine coat-core tablet with phenytoin, an inducer of CYP3A, lowered the AUC and Cmax of nifedipine by approximately 70%.
@@ -236,7 +236,7 @@ Tacrolimus: Tacrolimus has been shown to be metabolized via the CYP3A system.
 Nifedipine has been shown to inhibit the metabolism of tacrolimus in vitro.
 Transplant patients on tacrolimus and nifedipine required from 26% to 38% smaller doses than patients not receiving nifedipine.
 Nifedipine can increase the exposure to tacrolimus.
-When nifedipine is coadministered with tacrolimus, the blood concentrations of tacrolimus should be monitored and a reduction of the dose of tacrolimus considered.
+When nifedipine is coadministered with tacrolimus the blood concentrations of tacrolimus should be monitored and a reduction of the dose of tacrolimus considered.
 
 Sirolimus: A single 60 mg dose of nifedipine and a single 10 mg dose of sirolimus oral solution were administered to 24 healthy volunteers.
 Clinically significant pharmacokinetic drug interactions were not observed.

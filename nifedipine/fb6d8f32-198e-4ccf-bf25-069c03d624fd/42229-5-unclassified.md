@@ -1,24 +1,16 @@
-Rx only
-
-For Oral Use
+Rx only For Oral Use
 
 # Patients with Galactose Intolerance
 
 Since this medicinal product contains lactose, patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.
 
-Manufactured in Canada by: Valeant Pharmaceuticals International, Inc. Steinbach, MB R5G1Z7 Canada
+Manufactured by: Valeant Pharmaceuticals International, Inc. Steinbach, MB R5G 1Z7 Canada
 
-Distributed by: Oceanside Pharmaceuticals, a division of
+Distributed by: Oceanside Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-Valeant Pharmaceuticals North America LLC
+9495301
 
-Bridgewater, NJ 08807 USA
-
-Made in Canada
-
-9495300
-
-20001266
+20001540
 
 Rev.
-11/15
+06/2016

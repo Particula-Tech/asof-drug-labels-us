@@ -52,22 +52,23 @@ Protein binding may be greatly reduced in patients with renal or hepatic impairm
 
 After administration of nifedipine extended-release tablets to healthy elderly men and women (age >60 years), the mean Cmax is 36% higher and the average plasma concentration is 70% greater than in younger patients.
 
-In healthy subjects, the elimination half-life of a different sustained release nifedipine formulation was longer in elderly subjects (6.7 h) compared to young subjects (3.8 h) following oral administration.
+In healthy subjects, the elimination half-life of a different sustained-release nifedipine formulation was longer in elderly subjects (6.7 h) compared to young subjects (3.8 h) following oral administration.
 A decreased clearance was also observed in the elderly (348 mL/min) compared to young subjects (519 mL/min) following intravenous administration.
 
-1. Coadministration of nifedipine with grapefruit juice results in up to a 2-fold increase in AUC and Cmax due to inhibition of CYP3A related first-pass metabolism.
-   Ingestion of grapefruit and grapefruit juice should be avoided while taking nifedipine.
+Coadministration of nifedipine with grapefruit juice results in up to a 2-fold increase in AUC and Cmax due to inhibition of CYP3A related first-pass metabolism.
+Ingestion of grapefruit and grapefruit juice should be avoided while taking nifedipine.
 
 ## Clinical Studies
 
-Nifedipine extended-release tablets produced dose-related decreases in systolic and diastolic blood pressure as demonstrated in two double-blind, randomized, placebo-controlled trials in which over 350 patients were treated with nifedipine extended-release tablets, 30, 60, or 90 mg once daily for 6 weeks.
+Nifedipine extended-release tablets produced dose-related decreases in systolic and diastolic blood pressure as demonstrated in two double-blind, randomized, placebo-controlled trials in which over 350 patients were treated with nifedipine extended-release tablets, 30, 60 or 90 mg once daily for 6 weeks.
 In the first study, nifedipine extended-release tablet was given as monotherapy and in the second study, nifedipine extended-release tablet was added to a beta-blocker in patients not controlled on a beta-blocker alone.
 The mean trough (24 hours post-dose) blood pressure results from these studies are shown below:
 
-MEAN REDUCTIONS IN TROUGH SUPINE BLOOD PRESSURE (mmHg) SYSTOLIC/DIASTOLIC
+MEAN REDUCTIONS IN TROUGH SUPINE BLOOD PRESSURE (mmHg)
 
-| NIFEDIPINE EXTENDED-RELEASE DOSE | N | MEAN TROUGH REDUCTIONPlacebo response subtracted |
+|  | SYSTOLIC/DIASTOLIC |  |
 | --- | --- | --- |
+| NIFEDIPINE EXTENDED-RELEASE DOSE | N | MEAN TROUGH REDUCTIONPlacebo response subtracted |
 | STUDY 1 |  |  |
 | 30 mg | 60 | 5.3/2.9 |
 | 60 mg | 57 | 8.0/4.1 |

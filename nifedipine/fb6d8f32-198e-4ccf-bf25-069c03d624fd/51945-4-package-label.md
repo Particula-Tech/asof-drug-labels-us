@@ -2,14 +2,12 @@
 
 NDC 68682-106-10
 
-Rx only
-
-NIFEdipene Extended-Release Tablets, USP
+NIFEdipine Extended-Release Tablets, USP
 
 60 mg
 
+Rx only
+
 100 Tablets
 
-OCEANSIDE®
-
-PHARMACEUTICALS
+OCEANSIDE® PHARMACEUTICALS

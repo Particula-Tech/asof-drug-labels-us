@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-The incidence of adverse events during treatment with nifedipine extended-release tablets in doses up to 90 mg daily were derived from multi-center, placebo-controlled clinical trials in 370 hypertensive patients.
+The incidence of adverse events during treatment with nifedipine extended-release tablets in doses up to 90 mg daily were derived from multi-center placebo-controlled clinical trials in 370 hypertensive patients.
 Atenolol 50 mg once daily was used concomitantly in 187 of the 370 patients on nifedipine extended-release tablets and in 64 of the 126 patients on placebo.
 All adverse events reported during nifedipine extended-release tablets therapy were tabulated independently of their causal relationship to medication.
 
@@ -38,7 +38,7 @@ Urogenital: impotence, urinary frequency
 
 Other adverse events reported with an incidence of less than 1% were:
 
-Body as a Whole/Systemic: allergic reaction, asthenia, cellulitis, substernal chest pain, chills, facial edema, lab test abnormal, malaise, neck pain, pelvic pain, pain, photosensitivity reaction.
+Body as a Whole/Systemic: allergic reaction, asthenia, cellulitis, substernal chest pain, chills, facial edema, lab test abnormal, malaise, neck pain, pelvic pain, pain, photosensitivity reaction
 
 Cardiovascular: atrial fibrillation, bradycardia, cardiac arrest, extrasystole, hypotension, migraine, palpitations, phlebitis, postural hypotension, tachycardia, cutaneous angiectases
 
@@ -58,7 +58,7 @@ Respiratory: dyspnea, increased cough, rales, pharyngitis, stridor
 
 Special Senses: abnormal vision, amblyopia, conjunctivitis, diplopia, eye disorder, eye hemorrhage, tinnitus
 
-Urogenital/Reproductive: dysuria, kidney calculus, nocturia, breast engorgement, polyuria, urogenital disorder, erectile dysfunction (ED).
+Urogenital/Reproductive: dysuria, kidney calculus, nocturia, breast engorgement, polyuria, urogenital disorder, erectile dysfunction (ED)
 
 The following adverse events have been reported rarely in patients given nifedipine in coat core or other formulations: allergenic hepatitis, alopecia, anaphylactic reaction, anemia, arthritis with ANA (+), depression, erythromelalgia, exfoliative dermatitis, fever, gingival hyperplasia, gynecomastia, hyperglycemia, jaundice, leukopenia, mood changes, muscle cramps, nervousness, paranoid syndrome, purpura, shakiness, sleep disturbances, Stevens-Johnson syndrome, syncope, taste perversion, thrombocytopenia, toxic epidermal necrolysis, transient blindness at the peak of plasma level, tremor, and urticaria.
 

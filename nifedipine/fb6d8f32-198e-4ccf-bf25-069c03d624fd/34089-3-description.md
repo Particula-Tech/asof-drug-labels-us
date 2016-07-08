@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Nifedipine extended-release tablets are an extended release tablet dosage form of the calcium channel blocker nifedipine.
+Nifedipine extended-release tablets are an extended-release tablet dosage form of the calcium channel blocker nifedipine.
 Nifedipine is 3,5-pyridinedicarboxylic acid, 1,4-dihydro-2,6-dimethyl-4-(2-nitrophenyl)-, dimethyl ester.
 The molecular formula is C17H18N2O6 and has the structural formula:
 
