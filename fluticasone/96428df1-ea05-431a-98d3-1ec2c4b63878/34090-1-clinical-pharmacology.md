@@ -36,7 +36,7 @@ Increased cyclic AMP levels cause relaxation of bronchial smooth muscle and inhi
 Cardiovascular Effects
 
 Healthy Subjects: QTc interval prolongation was studied in a double-blind, multiple-dose, placebo- and positive-controlled crossover study in 85 healthy volunteers.
-The maximum mean (95% upper confidence bound) difference in QTcF from placebo after baseline-correction was 4.9 (7.5) milliseconds and 9.6 (12.2) milliseconds seen 30 minutes after dosing for fluticasone furoate /vilanterol 200 mcg/25 mcg and fluticasone furoate/vilanterol 800 mcg/100 mcg, respectively.
+The maximum mean (95% upper confidence bound) difference in QTcF from placebo after baseline-correction was 4.9 (7.5) milliseconds and 9.6 (12.2) milliseconds seen 30 minutes after dosing for fluticasone furoate/vilanterol 200 mcg/25 mcg and fluticasone furoate/vilanterol 800 mcg/100 mcg, respectively.
 
 A dose-dependent increase in heart rate was also observed.
 The maximum mean (95% upper confidence bound) difference in heart rate from placebo after baseline-correction was 7.8 (9.4) beats/min and 17.1 (18.7) beats/min seen 10 minutes after dosing for fluticasone furoate/vilanterol 200 mcg/25 mcg and fluticasone furoate/vilanterol 800 mcg/100 mcg, respectively.
@@ -100,8 +100,8 @@ The effect of renal and hepatic impairment and other intrinsic factors on the ph
 Figure 1.
 Impact of Intrinsic Factors on the Pharmacokinetics (PK) of Fluticasone Furoate (FF) and Vilanterol (VI) Following Administration as Fluticasone Furoate/Vilanterol Combination
 
-- a Severe renal impairment (CrCl less than 30 mL/min) compared with healthy subjects; mild (Child-Pugh A), moderate (Child-Pugh B), and severe (Child-Pugh C) hepatic impairment compared with healthy subjects.
-- b For COPD and asthma, the following comparisons were made: age compared with less than or equal to 65 years, gender compared with female, and ethnicity compared with white.
+1. a Severe renal impairment (CrCl less than 30 mL/min) compared with healthy subjects; mild (Child-Pugh A), moderate (Child-Pugh B), and severe (Child-Pugh C) hepatic impairment compared with healthy subjects.
+2. b For COPD and asthma, the following comparisons were made: age compared with less than or equal to 65 years, gender compared with female, and ethnicity compared with white.
 
 Race: Systemic exposure [AUC(0-24)] to inhaled fluticasone furoate 200 mcg was 27% to 49% higher in healthy subjects of Japanese, Korean, and Chinese heritage compared with white subjects.
 Similar differences were observed for subjects with COPD or asthma (Figure 1).
@@ -134,9 +134,9 @@ The increase in fluticasone furoate exposure was associated with a 27% reduction
 The increase in vilanterol exposure was not associated with an increase in beta-agonist–related systemic effects on heart rate or blood potassium.
 
 Figure 2.
-Impact of Coadministered Drugsa on the Pharmacokinetics (PK) of Fluticasone Furoate (FF) and Vilanterol (VI) Following Administration as Fluticasone Furoate/Vilanterol Combination or Vilanterol Coadministered with a Long-Acting Muscarinic Antagonist
+Impact of Coadministered Drugsa on the Pharmacokinetics (PK) of Fluticasone Furoate (FF) and Vilanterol (VI) Following Administration as Fluticasone Furoate/Vilanterol Combination or Vilanterol Coadministered with a Long-acting Muscarinic Antagonist
 
-- a Compared with placebo group.
+1. a Compared with placebo group.
 
 Inhibitors of P-glycoprotein: Fluticasone furoate and vilanterol are both substrates of P-glycoprotein (P-gp).
 Coadministration of repeat-dose (240 mg once daily) verapamil (a potent P-gp inhibitor and moderate CYP3A4 inhibitor) did not affect the vilanterol Cmax or AUC in healthy subjects (Figure 2).

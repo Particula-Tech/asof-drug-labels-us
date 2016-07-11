@@ -288,34 +288,34 @@ Wait to open the cover until you are ready to take your dose.
 
 Figure D
 
-- Step 1.
-  Open the cover of the inhaler.
-  See Figure D.
-- •Slide the cover down to expose the mouthpiece.
-  You should hear a “click.”
-  The counter will count down by 1 number.
-  You do not need to shake this kind of inhaler.
-  Your inhaler is now ready to use.
-- •If the counter does not count down as you hear the click, the inhaler will not deliver the medicine.
-  Call your healthcare provider or pharmacist if this happens.
+1. Step 1.
+   Open the cover of the inhaler.
+   See Figure D.
+2. •Slide the cover down to expose the mouthpiece.
+   You should hear a “click.”
+   The counter will count down by 1 number.
+   You do not need to shake this kind of inhaler.
+   Your inhaler is now ready to use.
+3. •If the counter does not count down as you hear the click, the inhaler will not deliver the medicine.
+   Call your healthcare provider or pharmacist if this happens.
 
 Figure E
 
-- Step 2.
-  Breathe out.
-  See Figure E.
-- •While holding the inhaler away from your mouth, breathe out (exhale) fully.
-  Do not breathe out into the mouthpiece.
+1. Step 2.
+   Breathe out.
+   See Figure E.
+2. •While holding the inhaler away from your mouth, breathe out (exhale) fully.
+   Do not breathe out into the mouthpiece.
 
 Figure F
 
-- Step 3.
-  Inhale your medicine.
-  See Figure F.
-- •Put the mouthpiece between your lips, and close your lips firmly around it.
-  Your lips should fit over the curved shape of the mouthpiece.
-- •Take one long, steady, deep breath in through your mouth.
-  Do not breathe in through your nose.
+1. Step 3.
+   Inhale your medicine.
+   See Figure F.
+2. •Put the mouthpiece between your lips, and close your lips firmly around it.
+   Your lips should fit over the curved shape of the mouthpiece.
+3. •Take one long, steady, deep breath in through your mouth.
+   Do not breathe in through your nose.
 
 Figure G
 
@@ -329,11 +329,11 @@ Figure H
 
 Figure I
 
-- Step 4.
-  Breathe out slowly and gently.
-  See Figure I.
-- •You may not taste or feel the medicine, even when you are using the inhaler correctly.
-- •Do not take another dose from the inhaler even if you do not feel or taste the medicine.
+1. Step 4.
+   Breathe out slowly and gently.
+   See Figure I.
+2. •You may not taste or feel the medicine, even when you are using the inhaler correctly.
+3. •Do not take another dose from the inhaler even if you do not feel or taste the medicine.
 
 Figure J
 

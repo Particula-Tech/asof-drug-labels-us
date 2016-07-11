@@ -21,7 +21,7 @@ Instruct patients to seek medical attention immediately if they experience any o
 
 Tell patients they should not stop therapy with BREO ELLIPTA without physician/provider guidance since symptoms may recur after discontinuation.
 
-Do Not Use Additional Long-Acting Beta2-Agonists
+Do Not Use Additional Long-acting Beta2-agonists
 
 Instruct patients not to use other LABA for COPD and asthma.
 
@@ -54,7 +54,7 @@ Ocular Effects
 
 Inform patients that long-term use of inhaled corticosteroids may increase the risk of some eye problems (cataracts or glaucoma); consider regular eye examinations.
 
-Risks Associated with Beta-Agonist Therapy
+Risks Associated with Beta-agonist Therapy
 
 Inform patients of adverse effects associated with beta2‑agonists, such as palpitations, chest pain, rapid heart rate, tremor, or nervousness.
 
@@ -72,7 +72,7 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2015, the GSK group of companies.
+©2016 the GSK group of companies.
 All rights reserved.
 
-BRE:6PI
+BRE:7PI

@@ -35,7 +35,7 @@ In Trial 2, subjects were randomized to BREO ELLIPTA 100/25, fluticasone furoate
 All treatments were administered as 1 inhalation once daily.
 
 Of the 2,254 patients, 70% were male and 84% were white.
-They had a mean age of 62 years and an average smoking history of 44 pack-years, with 54% identified as current smokers.
+They had a mean age of 62 years and an average smoking history of 44 pack years, with 54% identified as current smokers.
 At screening, the mean postbronchodilator percent predicted FEV1 was 48% (range: 14% to 87%), mean postbronchodilator FEV1/FVC ratio was 47% (range: 17% to 88%), and the mean percent reversibility was 14% (range: -41% to 152%).
 
 The co-primary efficacy variables in both trials were weighted mean FEV1 (0 to 4 hours) postdose on Day 168 and change from baseline in trough FEV1 on Day 169 (the mean of the FEV1 values obtained 23 and 24 hours after the final dose on Day 168).
@@ -50,14 +50,14 @@ Least Squares Mean Change from Baseline in Weighted Mean FEV1 (0-4 h) and Trough
 | Treatment | n | Weighted Mean FEV1 (0-4 h)a (mL) |  |  | Trough FEV1b (mL) |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Difference from |  |  | Difference from |  |  |  |
-| Placebo(95% CI) | Fluticasone Furoate100 mcg(95% CI) | Fluticasone Furoate200 mcg(95% CI) | Placebo(95% CI) | Vilanterol25 mcg(95% CI) |  |  |
+| Placebo(95% CI) | Fluticasone Furoate100 mcg(95% CI) | Fluticasone Furoate200 mcg(95% CI) | Placebo (95% CI) | Vilanterol25 mcg(95% CI) |  |  |
 | Trial 1 |  |  |  |  |  |  |
 | BREO ELLIPTA 100/25 | 204 | 214(161, 266) | 168(116, 220) | –– | 144(91, 197) | 45(-8, 97) |
 | BREO ELLIPTA 200/25 | 205 | 209(157, 261) | –– | 168(117, 219) | 131(80, 183) | 32(-19, 83) |
 | Trial 2 |  |  |  |  |  |  |
 | BREO ELLIPTA 100/25 | 206 | 173(123, 224) | 120(70, 170) | –– | 115(60, 169) | 48(-6, 102) |
 
-aAt Day 168.
+a At Day 168.
 
 bAt Day 169.
 
@@ -90,7 +90,7 @@ In these 2 trials, exacerbations were defined as worsening of 2 or more major sy
 COPD exacerbations were considered to be of moderate severity if treatment with systemic corticosteroids and/or antibiotics was required and were considered to be severe if hospitalization was required.
 
 Trials 3 and 4 included 3,255 subjects, of which 57% were male and 85% were white.
-They had a mean age of 64 years and an average smoking history of 46 pack-years, with 44% identified as current smokers.
+They had a mean age of 64 years and an average smoking history of 46 pack years, with 44% identified as current smokers.
 At screening, the mean postbronchodilator percent predicted FEV1 was 45% (range: 12% to 91%), and mean postbronchodilator FEV1/FVC ratio was 46% (range: 17% to 81%), indicating that the subject population had moderate to very severely impaired airflow obstruction.
 The mean percent reversibility was 15% (range: -65% to 313%).
 
@@ -116,15 +116,15 @@ Comparator Trials
 
 Three 12-week, randomized, double-blind, double-dummy trials were conducted with BREO ELLIPTA 100/25 once daily versus fluticasone propionate/salmeterol 250 mcg/50 mcg twice daily to evaluate the efficacy of serial lung function of BREO ELLIPTA in subjects with COPD.
 The primary endpoint of each study was change from baseline in weighted mean FEV1 (0 to 24 hours) on Day 84.
-Of the 519 patients in Trial 5, 64% were male and 97% were white; mean age was 61 years; average smoking history was 40 pack-years, with 55% identified as current smokers.
+Of the 519 patients in Trial 5, 64% were male and 97% were white; mean age was 61 years; average smoking history was 40 pack years, with 55% identified as current smokers.
 At screening in the treatment group using BREO ELLIPTA 100/25, the mean postbronchodilator percent predicted FEV1 was 48% (range: 19% to 70%), the mean (SD) FEV1/FVC ratio was 0.51 (0.11), and the mean percent reversibility was 11% (range: -12% to 83%).
 At screening in the treatment group using fluticasone propionate/salmeterol 250 mcg/50 mcg, the mean postbronchodilator percent predicted FEV1 was 47% (range: 14% to 71%), the mean (SD) FEV1/FVC ratio was 0.49 (0.10), and the mean percent reversibility was 11% (range: -13% to 50%).
 
-Of the 511 patients in Trial 6, 68% were male and 94% were white; mean age was 62 years; average smoking history was 35 pack-years, with 52% identified as current smokers.
+Of the 511 patients in Trial 6, 68% were male and 94% were white; mean age was 62 years; average smoking history was 35 pack years, with 52% identified as current smokers.
 At screening in the treatment group using BREO ELLIPTA 100/25, the mean postbronchodilator percent predicted FEV1 was 48% (range: 18% to 70%), the mean (SD) FEV1/FVC ratio was 0.51 (0.10), and the mean percent reversibility was 12% (range: -56% to 77%).
 At screening in the treatment group using fluticasone propionate/salmeterol 250 mcg/50 mcg, the mean postbronchodilator percent predicted FEV1 was 49% (range: 15% to 70%), the mean (SD) FEV1/FVC ratio was 0.50 (0.10), and the mean percent reversibility was 12% (range: -66% to 72%).
 
-Of the 828 patients in Trial 7, 72% were male and 98% were white; mean age was 61 years; average smoking history was 38 pack-years, with 60% identified as current smokers.
+Of the 828 patients in Trial 7, 72% were male and 98% were white; mean age was 61 years; average smoking history was 38 pack years, with 60% identified as current smokers.
 At screening in the treatment group using BREO ELLIPTA 100/25, the mean postbronchodilator percent predicted FEV1 was 48% (range: 18% to 70%), the mean (SD) FEV1/FVC ratio was 0.52 (0.10), and the mean percent reversibility was 12% (range: -26% to 84%).
 At screening in the treatment group using fluticasone propionate/salmeterol 250 mcg/50 mcg, the mean postbronchodilator percent predicted FEV1 was 48% (range: 16% to 70%), the mean (SD) FEV1/FVC ratio was 0.51 (0.10), and the mean percent reversibility was 12% (range: -15% to 67%).
 
@@ -190,7 +190,7 @@ Demography of Asthma Trials 1, 2, 3, 5, and 6
 
 N/A = Data not collected.
 
-aTrials did not include current smokers; past smokers had less than 10 packs per year history.
+1. a Trials did not include current smokers; past smokers had less than 10 packs per year history.
 
 Trials 1, 2, and 3 were 12- or 24-week trials that evaluated the efficacy of BREO ELLIPTA on lung function in subjects with asthma.
 In Trial 1, subjects were randomized to BREO ELLIPTA 100/25, fluticasone furoate 100 mcg, or placebo.
@@ -212,7 +212,8 @@ Change from Baseline in Weighted Mean FEV1 (0-24 h) (mL) and Trough FEV1 (mL) at
 | Study (Duration)Background Treatment | n | Weighted Mean FEV1 (0-24 h) (mL) |  |  |
 | --- | --- | --- | --- | --- |
 | Difference from |  |  |  |  |
-| Treatment | Placebo(95% CI) | Fluticasone Furoate 100 mcg(95% CI) | Fluticasone Furoate 200 mcg(95% CI) |  |
+| Placebo(95% CI) | Fluticasone Furoate 100 mcg(95% CI) | Fluticasone Furoate 200 mcg(95% CI) |  |  |
+| Treatment |  |  |  |  |
 | Trial 1 (12 Weeks)Low- to mid-dose ICS or low-dose ICS + LABA |  |  |  |  |
 | BREO ELLIPTA 100/25 | 108 | 302(178, 426) | 116(-5, 236) | –– |
 | Trial 2 (12 Weeks)Mid- to high-dose ICS or mid-dose ICS + LABA |  |  |  |  |
@@ -220,8 +221,9 @@ Change from Baseline in Weighted Mean FEV1 (0-24 h) (mL) and Trough FEV1 (mL) at
 | Trial 3 (24 Weeks)High-dose ICS or mid-dose ICS + LABA |  |  |  |  |
 | BREO ELLIPTA 200/25 | 89 | –– | –– | 136(1, 270) |
 | Study (Duration)Background Treatment | n | Trough FEV1 (mL) |  |  |
-| Treatment | Difference from |  |  |  |
+| Difference from |  |  |  |  |
 | Placebo(95% CI) | Fluticasone Furoate 100 mcg(95% CI) | Fluticasone Furoate 200 mcg(95% CI) |  |  |
+| Treatment |  |  |  |  |
 | Trial 1 (12 Weeks)Low- to mid-dose ICS or low-dose ICS + LABA |  |  |  |  |
 | BREO ELLIPTA 100/25 | 200 | 172(87, 258) | 36(-48, 120) | –– |
 | Trial 2 (12 Weeks)Mid- to high-dose ICS or mid-dose ICS + LABA |  |  |  |  |

@@ -27,7 +27,7 @@ Adverse reactions observed in the other trials were similar to those observed in
 
 The incidence of adverse reactions associated with BREO ELLIPTA 100/25 in Table 1 is based on 2 placebo-controlled, 6-month clinical trials (Trials 1 and 2; n = 1,224 and n = 1,030, respectively).
 Of the 2,254 subjects, 70% were male and 84% were white.
-They had a mean age of 62 years and an average smoking history of 44 pack-years, with 54% identified as current smokers.
+They had a mean age of 62 years and an average smoking history of 44 pack years, with 54% identified as current smokers.
 At screening, the mean postbronchodilator percent predicted FEV1 was 48% (range: 14% to 87%), the mean postbronchodilator FEV1/forced vital capacity (FVC) ratio was 47% (range: 17% to 88%), and the mean percent reversibility was 14% (range: -41% to 152%).
 
 Subjects received 1 inhalation once daily of the following: BREO ELLIPTA 100/25, BREO ELLIPTA 200/25, fluticasone furoate/vilanterol 50 mcg/25 mcg, fluticasone furoate 100 mcg, fluticasone furoate 200 mcg, vilanterol 25 mcg, or placebo.
@@ -40,17 +40,17 @@ Adverse Reactions with BREO ELLIPTA 100/25 with ≥3% Incidence and More Common 
 | Infections and infestations |  |  |  |  |
 | Nasopharyngitis | 9 | 10 | 8 | 8 |
 | Upper respiratory tract infection | 7 | 5 | 4 | 3 |
-| Oropharyngeal candidiasis a | 5 | 2 | 3 | 2 |
+| Oropharyngeal candidiasisa | 5 | 2 | 3 | 2 |
 | Nervous system disorders |  |  |  |  |
 | Headache | 7 | 9 | 7 | 5 |
 
-aIncludes oral candidiasis, oropharyngeal candidiasis, candidiasis, and fungal oropharyngitis.
+1. a Includes oral candidiasis, oropharyngeal candidiasis, candidiasis, and fungal oropharyngitis.
 
 12-Month Trials
 
 Long-term safety data is based on two 12-month trials (Trials 3 and 4; n = 1,633 and n = 1,622, respectively).
 Trials 3 and 4 included 3,255 subjects, of which 57% were male and 85% were white.
-They had a mean age of 64 years and an average smoking history of 46 pack-years, with 44% identified as current smokers.
+They had a mean age of 64 years and an average smoking history of 46 pack years, with 44% identified as current smokers.
 At screening, the mean postbronchodilator percent predicted FEV1 was 45% (range: 12% to 91%), and the mean postbronchodilator FEV1/FVC ratio was 46% (range: 17% to 81%), indicating that the subject population had moderate to very severely impaired airflow obstruction.
 Subjects received 1 inhalation once daily of the following: BREO ELLIPTA 100/25, BREO ELLIPTA 200/25, fluticasone furoate/vilanterol 50 mcg/25 mcg, or vilanterol 25 mcg.
 In addition to the reactions shown in Table 1, adverse reactions occurring in greater than or equal to 3% of the subjects treated with BREO ELLIPTA 100/25 (n = 806) for 12 months included back pain, pneumonia [see Warnings and Precautions (5.5)], bronchitis, sinusitis, cough, oropharyngeal pain, arthralgia, influenza, pharyngitis, and pyrexia.
@@ -59,7 +59,7 @@ In addition to the reactions shown in Table 1, adverse reactions occurring in gr
 
 BREO ELLIPTA for the treatment of asthma was studied in 18 double-blind, parallel-group, controlled trials (11 with placebo) of 4 to 76 weeks’ duration, which enrolled 9,969 subjects with asthma.
 BREO ELLIPTA 100/25 was studied in 2,369 subjects and BREO ELLIPTA 200/25 was studied in 956 subjects.
-While subjects aged 12 to 17 years were included in these trials, BREO ELLIPTA is not approved for use in this age-group [see Use in Specific Populations (8.4)].
+While subjects aged 12 to 17 years were included in these trials, BREO ELLIPTA is not approved for use in this age group [see Use in Specific Populations (8.4)].
 The safety data described below are based on two 12-week efficacy trials, one 24-week efficacy trial, and two long-term trials.
 
 12-Week Trials
@@ -75,14 +75,14 @@ Adverse Reactions with BREO ELLIPTA 100/25 with ≥2% Incidence and More Common 
 | --- | --- | --- | --- |
 | Infections and infestations |  |  |  |
 | Nasopharyngitis | 10 | 7 | 7 |
-| Oral candidiasis a | 2 | 2 | 0 |
+| Oral candidiasisa | 2 | 2 | 0 |
 | Nervous system disorders |  |  |  |
 | Headache | 5 | 4 | 4 |
 | Respiratory, thoracic, and mediastinal disorders |  |  |  |
 | Oropharyngeal pain | 2 | 2 | 1 |
 | Dysphonia | 2 | 1 | 0 |
 
-aIncludes oral candidiasis and oropharyngeal candidiasis.
+a Includes oral candidiasis and oropharyngeal candidiasis.
 
 Trial 2 was a 12-week trial that evaluated the efficacy of BREO ELLIPTA 100/25, BREO ELLIPTA 200/25, and fluticasone furoate 100 mcg in adolescent and adult subjects with asthma.
 This trial did not have a placebo arm.
@@ -155,3 +155,7 @@ Tremor.
 Psychiatric Disorders
 
 Nervousness.
+
+Respiratory, Thoracic, and Mediastinal Disorders
+
+Paradoxical bronchospasm.

@@ -37,7 +37,7 @@ Acute symptoms should be treated with an inhaled, short-acting beta2-agonist.
 When beginning treatment with BREO ELLIPTA, patients who have been taking oral or inhaled, short-acting beta2-agonists on a regular basis (e.g., 4 times a day) should be instructed to discontinue the regular use of these drugs and to use them only for symptomatic relief of acute respiratory symptoms.
 When prescribing BREO ELLIPTA, the healthcare provider should also prescribe an inhaled, short-acting beta2-agonist and instruct the patient on how it should be used.
 
-## 5.3 Excessive Use of BREO ELLIPTA and Use with Other Long-Acting Beta2-Agonists
+## 5.3 Excessive Use of BREO ELLIPTA and Use with Other Long-acting Beta2-agonists
 
 BREO ELLIPTA should not be used more often than recommended, at higher doses than recommended, or in conjunction with other medicines containing LABA, as an overdose may result.
 Clinically significant cardiovascular effects and fatalities have been reported in association with excessive use of inhaled sympathomimetic drugs.

@@ -44,10 +44,10 @@ The safety and efficacy in pediatric patients (aged 17 years and younger) have n
 In a 24- to 76-week exacerbation trial, subjects received BREO ELLIPTA 100/25 (n = 1,009) or fluticasone furoate 100 mcg (n = 1,010).
 Subjects had a mean age of 42 years and a history of one or more asthma exacerbations that required treatment with oral/systemic corticosteroids or emergency department visit or in-patient hospitalization for the treatment of asthma in the year prior to study entry.
 [See Clinical Studies (14.2).]
-Adolescents aged 12 to 17 years made up 14% of the study population (n = 281), with a mean exposure of 352 days for subjects in this age-group treated with BREO ELLIPTA 100/25 (n = 151) and 355 days for subjects in this age-group treated with fluticasone furoate 100 mcg (n = 130).
-In this age-group, 10% of subjects treated with BREO ELLIPTA 100/25 reported an asthma exacerbation compared with 7% for subjects treated with fluticasone furoate 100 mcg.
+Adolescents aged 12 to 17 years made up 14% of the study population (n = 281), with a mean exposure of 352 days for subjects in this age group treated with BREO ELLIPTA 100/25 (n = 151) and 355 days for subjects in this age group treated with fluticasone furoate 100 mcg (n = 130).
+In this age group, 10% of subjects treated with BREO ELLIPTA 100/25 reported an asthma exacerbation compared with 7% for subjects treated with fluticasone furoate 100 mcg.
 Among the adolescents, asthma-related hospitalizations occurred in 4 subjects (2.6%) treated with BREO ELLIPTA 100/25 compared with 0 subjects treated with fluticasone furoate 100 mcg.
-There were no asthma-related deaths or asthma-related intubations observed in the adolescent age-group.
+There were no asthma-related deaths or asthma-related intubations observed in the adolescent age group.
 
 Effects on Growth
 
