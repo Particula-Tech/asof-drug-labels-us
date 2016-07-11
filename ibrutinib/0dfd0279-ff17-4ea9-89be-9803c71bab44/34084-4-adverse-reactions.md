@@ -83,7 +83,7 @@ Adverse reaction of hyperuricemia was reported for 15% of patients.
 Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma
 
 The data described below reflect exposure in one single-arm, open-label clinical trial and three randomized controlled clinical trials in patients with CLL/SLL (n=1278 total and n=668 patients exposed to IMBRUVICA).
-Study 1 included 51 patients with previously treated CLL, Study 2 included 391 randomized patients with previously treated CLL or SLL who received single agent IMBRUVICA or ofatumumab, Study 3 included 269 randomized patients 65 years or older with treatment naïve-CLL or SLL who received single agent IMBRUVICA or chlorambucil and Study 4 included 578 randomized patients with previously treated CLL or SLL who received IMBRUVICA in combination with bendamustine and rituximab or placebo in combination with bendamustine and rituximab.
+Study 1 included 51 patients with previously treated CLL/SLL, Study 2 included 391 randomized patients with previously treated CLL or SLL who received single agent IMBRUVICA or ofatumumab, Study 3 included 269 randomized patients 65 years or older with treatment naïve-CLL or SLL who received single agent IMBRUVICA or chlorambucil and Study 4 included 578 randomized patients with previously treated CLL or SLL who received IMBRUVICA in combination with bendamustine and rituximab or placebo in combination with bendamustine and rituximab.
 
 The most commonly occurring adverse reactions in Studies 1, 2, 3 and 4 in patients with CLL/SLL receiving IMBRUVICA (≥ 20%) were neutropenia, thrombocytopenia, anemia, diarrhea, musculoskeletal pain, nausea, rash, bruising, fatigue, pyrexia and hemorrhage.
 Four to 10 percent of patients receiving IMBRUVICA in Studies 1, 2, 3 and 4 discontinued treatment due to adverse reactions.
@@ -337,6 +337,8 @@ The following adverse reactions have been identified during post-approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Hepatobiliary disorders: hepatic failure (includes multiple terms)
+
+Respiratory disorders: interstitial lung disease (includes multiple terms)
 
 Metabolic and nutrition disorders: tumor lysis syndrome [see Warnings & Precautions (5.7)]
 

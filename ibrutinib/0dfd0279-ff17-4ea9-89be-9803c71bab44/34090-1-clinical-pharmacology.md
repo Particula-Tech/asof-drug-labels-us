@@ -12,6 +12,8 @@ Nonclinical studies show that ibrutinib inhibits malignant B-cell proliferation 
 
 In patients with recurrent B-cell lymphoma > 90% occupancy of the BTK active site in peripheral blood mononuclear cells was observed up to 24 hours after ibrutinib doses of ≥ 2.5 mg/kg/day (≥ 175 mg/day for average weight of 70 kg).
 
+In healthy subjects, at a single dose 3 times the maximum recommended dose (1680 mg), ibrutinib did not prolong the QT interval to any clinically relevant extent.
+
 ## 12.3 Pharmacokinetics
 
 Absorption

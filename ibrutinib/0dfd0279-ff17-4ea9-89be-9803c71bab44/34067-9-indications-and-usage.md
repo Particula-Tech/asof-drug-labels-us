@@ -13,7 +13,7 @@ IMBRUVICA is indicated for the treatment of patients with chronic lymphocytic le
 
 ## 1.3 Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma with 17p deletion
 
-IMBRUVICA is indicated for the treatment of patients with chronic lymphocytic leukemia (CLL)/small lymphocytic leukemia (SLL) with 17p deletion [see Clinical Studies (14.2)].
+IMBRUVICA is indicated for the treatment of patients with chronic lymphocytic leukemia (CLL)/small lymphocytic lymphoma (SLL) with 17p deletion [see Clinical Studies (14.2)].
 
 ## 1.4 Waldenström's Macroglobulinemia
 

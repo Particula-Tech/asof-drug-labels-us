@@ -1,9 +1,8 @@
 # 7 DRUG INTERACTIONS
 
-Ibrutinib is primarily metabolized by cytochrome P450 enzyme 3A (CYP3A).
-
 ## 7.1 CYP3A Inhibitors
 
+Ibrutinib is primarily metabolized by cytochrome P450 enzyme 3A (CYP3A).
 In healthy volunteers, co-administration of ketoconazole, a strong CYP3A inhibitor, increased Cmax and AUC of ibrutinib by 29- and 24-fold, respectively.
 The highest ibrutinib dose evaluated in clinical trials was 12.5 mg/kg (actual doses of 840 – 1400 mg) given for 28 days with single dose AUC values of 1445 ± 869 ng ∙ hr/mL which is approximately 50% greater than steady state exposures seen at the highest indicated dose (560 mg).
 
