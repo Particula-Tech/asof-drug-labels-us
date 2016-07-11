@@ -2,15 +2,13 @@ PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – Vial Label
 
 NDC 25021-608-20
 
-Propofol Injectable Emulsion, USP
+PROPOFOL Injectable Emulsion, USP
 
-1%
+Rx only
 
 200 mg per 20 mL
 
 (10 mg per mL)
-
-Rx only
 
 Contains a Sulfite
 

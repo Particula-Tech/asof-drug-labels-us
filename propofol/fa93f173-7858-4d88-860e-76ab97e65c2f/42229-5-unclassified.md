@@ -1,6 +1,6 @@
 Contains a sulfite FOR INTRAVENOUS ADMINISTRATION
 
-SAGENT™ Rx only
+SAGENT® Rx only
 
 Strict aseptic technique must always be maintained during handling.
 Propofol injectable emulsion is a single access parenteral product (single patient infusion vial) which contains sodium metabisulfite (0.25 mg/mL) to retard the rate of growth of microorganisms, for up to 12 hours, in the event of accidental extrinsic contamination.
