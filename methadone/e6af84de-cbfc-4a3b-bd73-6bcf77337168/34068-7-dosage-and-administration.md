@@ -7,7 +7,7 @@ Consider the following important factors that differentiate methadone from other
   Deaths have been reported during conversion to methadone from chronic, high-dose treatment with other opioid agonists and during initiation of methadone treatment of addiction in subjects previously abusing high doses of other opioid agonists.
 - •There is high interpatient variability in absorption, metabolism, and relative analgesic potency.
   Population-based conversion ratios between methadone and other opioids are not accurate when applied to individuals.
-- •With repeated dosing, methadone is retained in theliver and then slowly released, prolonging the duration of potential toxicity.
+- •With repeated dosing, methadone is retained in the liver and then slowly released, prolonging the duration of potential toxicity.
 - •Steady-state plasma concentrations are not attained until 3 to 5 days after initiation of dosing.
 - •Methadone has a narrow therapeutic index, especially when combined with other drugs.
 

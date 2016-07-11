@@ -4,10 +4,11 @@
 
 Pregnancy Category C
 
-There are no adequate and well controlled studies of methadone use in pregnant women.Methadone has been shown to be teratogenic in the hamster at doses 2 times the human daily oral dose (120 mg/day on a mg/m2 basis) and in mice at doses equivalent to the human daily oral dose (120 mg/day on a mg/m2 basis).
+There are no adequate and well controlled studies of methadone use in pregnant women.
+Methadone has been shown to be teratogenic in the hamster at doses 2 times the human daily oral dose (120 mg/day on a mg/m2 basis) and in mice at doses equivalent to the human daily oral dose (120 mg/day on a mg/m2 basis).
 Increased neonatal mortality and significant differences in behavioral tests have been reported in the offspring of male rodents that were treated with methadone prior to mating when compared to control animals.
 Methadone has been detected in human amniotic fluid and cord plasma at concentrations proportional to maternal plasma and in newborn urine at lower concentrations than corresponding maternal urine.
-DISKETS Dispersible Tablets should be used in pregnancy only if the potential benefit justifies the potential risk to the fetus.
+DISKETS should be used in pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 Dosage Adjustment During Pregnancy
 
@@ -15,7 +16,7 @@ The disposition of oral methadone has been studied in approximately 30 pregnant 
 Total body clearance of methadone was increased in pregnant patients compared to the same patients postpartum or to non-pregnant opioid-dependent women.
 The terminal half-life of methadone is decreased during 2nd and 3rd trimesters.
 The decrease in plasma half-life and increased clearance of methadone resulting in lower methadone trough levels during pregnancy can lead to withdrawal symptoms in some pregnant patients.
-The dosage may need to be increased or the dosing interval decreased in pregnant patients receiving DISKETS Dispersible Tablets to achieve therapeutic effect [seeDosage and Administration (2.6)].
+The dosage may need to be increased or the dosing interval decreased in pregnant patients receiving DISKETS to achieve therapeutic effect [see Dosage and Administration (2.6)].
 
 Effect on the Neonate
 
@@ -76,7 +77,7 @@ Methadone is not for use in women during and immediately prior to labor.
 Opioid analgesics may prolong labor by temporarily reducing the strength, duration and frequency of uterine contractions.
 However, these effects are not consistent and may be offset by an increased rate of cervical dilatation, which tends to shorten labor.
 
-Opioids with mixed agonist-antagonist properties should not be used for pain control during labor in patients chronically treated with methadone as they may precipitate acute withdrawal [seeDrug Interactions(7.4)].
+Opioids with mixed agonist-antagonist properties should not be used for pain control during labor in patients chronically treated with methadone as they may precipitate acute withdrawal [see Drug Interactions (7.4)].
 
 Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
 Closely observe neonates whose mothers received opioid analgesics during labor for signs of respiratory depression.
@@ -90,9 +91,9 @@ Peak methadone levels in milk occur approximately 4 to 5 hours after an oral dos
 Based on an average milk consumption of 150 mL/kg/day, an infant would consume approximately 17.4 mcg/kg/day which is approximately 2 to 3% of the oral maternal dose.
 Methadone has been detected in very low plasma concentrations in some infants whose mothers were taking methadone.
 Cases of sedation and respiratory depression in infants exposed to methadone through breast milk have been reported.
-Caution should be exercised when DISKETS Dispersible Tablets are administered to a nursing woman.
+Caution should be exercised when DISKETS are administered to a nursing woman.
 
-Advise women who are being treated with DISKETS Dispersible Tablets and who are breastfeeding or express a desire to breastfeed of the presence of methadone in human milk.
+Advise women who are being treated with DISKETS and who are breastfeeding or express a desire to breastfeed of the presence of methadone in human milk.
 Instruct breastfeeding mothers how to identify respiratory depression and sedation in their babies and when it may be necessary to contact their healthcare provider or seek immediate medical care.
 Breastfed infants of mothers using methadone should be weaned gradually to prevent development of withdrawal symptoms in the infant.
 

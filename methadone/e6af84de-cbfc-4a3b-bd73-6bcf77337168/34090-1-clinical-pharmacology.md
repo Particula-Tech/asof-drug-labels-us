@@ -13,7 +13,7 @@ Other NMDA receptor antagonists have been shown to produce neurotoxic effects in
 
 Absorption
 
-Following oral administration the bioavailability of methadone ranges between 36 to 100% and peak plasma concentrations are achievedbetween 1 to 7.5 hours.
+Following oral administration the bioavailability of methadone ranges between 36 to 100% and peak plasma concentrations are achieved between 1 to 7.5 hours.
 Dose proportionality of methadone pharmacokinetics is not known.
 However, after administration of daily oral doses ranging from 10 to 225 mg, the steady-state plasma concentrations ranged between 65 to 630 ng/mL and the peak concentrations ranged between 124 to 1255 ng/mL.
 Effect of food on the bioavailability of methadone has not been evaluated.
@@ -33,7 +33,7 @@ Methadone appears to be a substrate for P-glycoprotein but its pharmacokinetics 
 Excretion
 
 The elimination of methadone is mediated by extensive biotransformation, followed by renal and fecal excretion.
-Published reports indicatethat after multiple dose administration the apparent plasma clearance of methadone ranged between 1.4 and 126 L/h, and the terminal half-life (T1/2) was highly variable and ranged between 8 to 59 hours in different studies.
+Published reports indicate that after multiple dose administration the apparent plasma clearance of methadone ranged between 1.4 and 126 L/h, and the terminal half-life (T1/2) was highly variable and ranged between 8 to 59 hours in different studies.
 Methadone is a basic (pKa=9.2) compound and the pH of the urinary tract can alter its disposition in plasma.
 Also, since methadone is lipophilic, it has been known to persist in the liver and other tissues.
 The slow release from the liver and other tissues may prolong the duration of methadone action despite low plasma concentrations.
@@ -44,14 +44,14 @@ Cytochrome P450 Interactions
 
 Methadone undergoes hepatic N-demethylation by cytochrome P450 (CYP) isoforms, principally CYP3A4, CYP2B6, CYP2C19, and to a lesser extent by CYP2C9 and CYP2D6.
 Coadministration of methadone with CYP inducers may result in more rapid metabolism and potential for decreased effects of methadone, whereas administration with CYP inhibitors may reduce metabolism and potentiate methadone’s effects.
-Although antiretroviral drugs such as efavirenz, nelfinavir, nevirapine, ritonavir, lopinavir+ritonavir combination are known to inhibit some CYPs, they are shown to reduce the plasma levels of methadone, possibly due to CYP induction activity [see Drug Interactions (7.1)].
+Although antiretroviral drugs such as efavirenz, nelfinavir, nevirapine, ritonavir, lopinavir + ritonavir combination are known to inhibit some CYPs, they are shown to reduce the plasma levels of methadone, possibly due to CYP induction activity [see Drug Interactions (7.1)].
 Therefore, drugs administered concomitantly with methadone should be evaluated for interaction potential; clinicians are advised to evaluate individual response to drug therapy.
 
 Cytochrome P450 Inducers
 
 The following drug interactions were reported following coadministration of methadone with known inducers of cytochrome P450 enzymes.
 
-Rifampin: In patients well-stabilized on methadone, concomitant administration of rifampin resulted in a marked reduction in serum methadone levels anda concurrent appearance of withdrawal symptoms.
+Rifampin: In patients well-stabilized on methadone, concomitant administration of rifampin resulted in a marked reduction in serum methadone levels and a concurrent appearance of withdrawal symptoms.
 
 Phenytoin: In a pharmacokinetic study with patients on methadone maintenance therapy, phenytoin administration (250 mg twice daily initially for 1 day followed by 300 mg daily for 3 to 4 days) resulted in an approximately 50% reduction in methadone exposure and withdrawal symptoms occurred concurrently.
 Upon discontinuation of phenytoin, the incidence of withdrawal symptoms decreased and methadone exposure increased to a level comparable to that prior to phenytoin administration
@@ -62,7 +62,7 @@ Cytochrome P450 Inhibitors
 
 Since the metabolism of methadone is mediated primarily by CYP3A4 isozyme, coadministration of drugs that inhibit CYP3A4 activity may cause decreased clearance of methadone.
 
-Voriconazole: Repeat dose administration of oral voriconazole (400 mg every 12 hours for 1 day, then 200 mg every 12 hours for 4 days) increased the peak plasma concentration (Cmax)and AUC of (R)-methadone by 31% and 47%, respectively, in subjects receiving a methadone maintenance dose (30 to 100 mg daily).
+Voriconazole: Repeat dose administration of oral voriconazole (400 mg every 12 hours for 1 day, then 200 mg every 12 hours for 4 days) increased the peak plasma concentration (Cmax) and AUC of (R)-methadone by 31% and 47%, respectively, in subjects receiving a methadone maintenance dose (30 to 100 mg daily).
 The Cmax and AUC of (S)-methadone increased by 65% and 103%, respectively.
 Increased plasma concentrations of methadone have been associated with toxicity including QT prolongation.
 Frequent monitoring for adverse events and toxicity related to methadone is recommended during coadministration.
@@ -72,9 +72,9 @@ Antiretroviral drugs
 
 Although antiretroviral drugs such as efavirenz, nelfinavir, nevirapine, ritonavir, telaprevir, lopinavir+ritonavir combination are known to inhibit some CYPs, they are shown to reduce the plasma levels of methadone, possibly due to CYP induction activity.
 
-Abacavir, amprenavir, darunavir+ritonavir, efavirenz, nelfinavir, nevirapine, ritonavir, telaprevir, lopinavir+ritonavir, saquinavir+ritonavir, tipranvir+ritonavir combination: Coadministration of these anti-retroviral agents resultedin increased clearance or decreased plasma levels of methadone [see Drug Interactions (7.1)].
+Abacavir, amprenavir, darunavir + ritonavir, efavirenz, nelfinavir, nevirapine, ritonavir, telaprevir, lopinavir + ritonavir, saquinavir + ritonavir, tipranvir + ritonavir combination: Coadministration of these anti-retroviral agents resultedin increased clearance or decreased plasma levels of methadone [see Drug Interactions (7.1)].
 
-Didanosine and Stavudine: Methadone decreased the AUC and peak levels for didanosine and stavudine, witha more significant decrease for didanosine.
+Didanosine and Stavudine: Methadone decreased the AUC and peak levels for didanosine and stavudine, with a more significant decrease for didanosine.
 Methadone disposition was not substantially altered [see Drug Interactions (7.1)].
 
-Zidovudine: Methadone increased the AUC of zidovudine whichcould result in toxic effects [see Drug Interactions (7.1)].
+Zidovudine: Methadone increased the AUC of zidovudine which could result in toxic effects [see Drug Interactions (7.1)].

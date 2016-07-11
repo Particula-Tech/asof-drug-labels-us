@@ -12,7 +12,7 @@ The following serious adverse reactions and/or conditions are discussed elsewher
 - •Hypotensive Effect [see Warnings and Precautions (5.8)]
 - •Head Injuries and Increased Intracranial Pressure [see Warnings and Precautions (5.9)]
 - •Gastrointestinal Effects [see Warnings and Precautions (5.10)]
-- •Seizures[see Warnings and Precautions (5.11)]
+- •Seizures [see Warnings and Precautions (5.11)]
 
 The major hazards of methadone are respiratory depression and, to a lesser degree, systemic hypotension.
 Respiratory arrest, shock, cardiac arrest, and death have occurred.
@@ -52,7 +52,7 @@ Advise patients how to recognize such a reaction and when to seek medical attent
 
 Maintenance on a Stabilized Dose: During prolonged administration of methadone, as in a methadone maintenance treatment program, constipation and sweating often persist and hypogonadism, decreased serum testosterone and reproductive effects are thought to be related to chronic opioid use.
 
-DISKETS Dispersible Tablets for the Detoxification and Maintenance Treatment of Opioid Dependence
+DISKETS for the Detoxification and Maintenance Treatment of Opioid Dependence
 
 During the induction phase of methadone maintenance treatment, patients are being withdrawn from illicit opioids and may have opioid withdrawal symptoms.
-Monitor patients for signs and symptoms including: lacrimation, rhinorrhea, sneezing, yawning, excessive perspiration, goose-flesh, fever, chilling alternating with flushing, restlessness, irritability, weakness, anxiety, depression, dilated pupils, tremors, tachycardia, abdominal cramps, body aches, involuntary twitching and kicking movements, anorexia, nausea, vomiting, diarrhea, intestinal spasms, and weight loss and consider dose adjustment as indicated
+Monitor patients for signs and symptoms including: lacrimation, rhinorrhea, sneezing, yawning, excessive perspiration, goose-flesh, fever, chilling alternating with flushing, restlessness, irritability, weakness, anxiety, depression, dilated pupils, tremors, tachycardia, abdominal cramps, body aches, involuntary twitching and kicking movements, anorexia, nausea, vomiting, diarrhea, intestinal spasms, and weight loss and consider dose adjustment as indicated.

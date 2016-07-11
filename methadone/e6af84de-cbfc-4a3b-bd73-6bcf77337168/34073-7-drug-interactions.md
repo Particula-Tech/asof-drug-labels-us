@@ -6,19 +6,19 @@ Methadone undergoes hepatic N-demethylation by cytochrome P450 (CYP) isoforms, p
 
 Cytochrome P450 Inducers
 
-Concurrent use of methadone and drugs that induce cytochrome P450 enzymes(such as rifampicin, phenytoin, phenobarbital, carbamazepine, and St. John’s Wort) may result in reduced efficacy of methadone and could precipitate a withdrawal syndrome.
+Concurrent use of methadone and drugs that induce cytochrome P450 enzymes (such as rifampicin, phenytoin, phenobarbital, carbamazepine, and St. John’s Wort) may result in reduced efficacy of methadone and could precipitate a withdrawal syndrome.
 Closely monitor patients receiving DISKETS Dispersible Tablets and an enzyme inducer closely for signs of withdrawal and adjust the methadone dose accordingly.
 
 Cytochrome P450 Inhibitors
 
-Coadministration of drugs that inhibit CYP3A4 (such as ketoconazole, itraconazole, voriconazole, clarithromycin, erythromycin, telithromycin) and/or drugs that inhibit CYP2C9 (such as sertraline and fluvoxamine) may cause decreased clearance of methadone, which could increase or prolong adverse drug effects and may cause fatal respiratory depression [see Clinical Pharmacology (12.3)].
-Monitor patients closely for signs of respiratory or central nervous system depression when DISKETS Dispersible Tablets are prescribed with a CYP3A4 inhibitor and reduce the dosage if necessary.
+Coadministration of drugs that inhibit CYP3A4 (such as ketoconazole, itraconazole, voriconazole, clarithromycin, erythromycin, telithromycin) and/or drugs that inhibit CYP2C9 (such as sertraline and fluvoxamine) may cause decreased clearance of methadone, which could increase or prolong adverse drug effects and may cause fatal respiratory depression[see Clinical Pharmacology (12.3)].
+Monitor patients closely for signs of respiratory or central nervous system depression when DISKETS is prescribed with a CYP3A4 inhibitor and reduce the dosage if necessary.
 
 Paradoxical Effects of Antiretroviral Agents on Methadone
 
 Concurrent use of certain protease inhibitors with CYP3A4 inhibitory activity, alone and in combination, such as abacavir, amprenavir, darunavir+ritonavir, efavirenz, nelfinavir, nevirapine, ritonavir, telaprevir, lopinavir+ritonavir, saquinavir+ritonavir, and tipranvir+ritonavir, has resulted in increased clearance or decreased plasma levels of methadone.
-This may result in reduced efficacy of DISKETS Dispersible Tablets and could precipitate a withdrawal syndrome.
-Monitor patients receiving DISKETS Dispersible Tablets and any of these anti-retroviral therapies closely for evidence of withdrawal effects and adjust the DISKETS Dispersible Tablets dose accordingly.
+This may result in reduced efficacy of DISKETS and could precipitate a withdrawal syndrome.
+Monitor patients receiving DISKETS and any of these anti-retroviral therapies closely for evidence of withdrawal effects and adjust the DISKETS dose accordingly.
 
 Effects of Methadone on Antiretroviral Agents
 
@@ -30,16 +30,16 @@ Zidovudine: Experimental evidence demonstrated that methadone increased the AUC 
 ## 7.2 CNS Depressants
 
 Concurrent use of methadone and other central nervous system (CNS) depressants (e.g. sedatives, hypnotics, general anesthetics, antiemetics, phenothiazines, other tranquilizers, alcohol and drugs of abuse) can increase the risk of respiratory depression, hypotension, and profound sedation or coma.
-Monitor patients receiving CNS depressants and DISKETS Dispersible Tablets for signs of respiratory depression and hypotension.
+Monitor patients receiving CNS depressants and DISKETS for signs of respiratory depression and hypotension.
 When such combined therapy is contemplated, reduce the initial dose of one or both agents.
 Deaths have been reported when methadone has been abused in conjunction with benzodiazepines.
 
 ## 7.3 Potentially Arrhythmogenic Agents
 
-Monitor patients closely for cardiac conduction changes when any drug known to have the potential to prolong the QT interval is prescribed in conjunction with DISKETS Dispersible Tablets.
-Pharmacodynamic interactions may occur with concomitant use of DISKETS Dispersible Tablets and potentially arrhythmogenic agents such as class I and III antiarrhythmics, some neuroleptics and tricyclic antidepressants, and calcium channel blockers.
+Monitor patients closely for cardiac conduction changes when any drug known to have the potential to prolong the QT interval is prescribed in conjunction with DISKETS.
+Pharmacodynamic interactions may occur with concomitant use of DISKETS and potentially arrhythmogenic agents such as class I and III antiarrhythmics, some neuroleptics and tricyclic antidepressants, and calcium channel blockers.
 
-Similarly, monitor patients closely when prescribing DISKETS Dispersible Tablets concomitantly with drugs capable of inducing electrolyte disturbances (hypomagnesemia, hypokalemia) that may prolong the QT interval, including diuretics, laxatives, and, in rare cases, mineralocorticoid hormones.
+Similarly, monitor patients closely when prescribing DISKETS concomitantly with drugs capable of inducing electrolyte disturbances (hypomagnesemia, hypokalemia) that may prolong the QT interval, including diuretics, laxatives, and, in rare cases, mineralocorticoid hormones.
 
 ## 7.4 Opioid Antagonists, Mixed Agonist/Antagonists, and Partial Agonists
 
@@ -48,16 +48,16 @@ Examples of such agents are naloxone, naltrexone, pentazocine, nalbuphine, butor
 
 ## 7.5 Antidepressants
 
-Monoamine Oxidase (MAO) Inhibitors: Therapeutic doses of meperidine have precipitated severe reactions in patients concurrently receiving monoamineoxidase inhibitors or those who have received such agents within 14 days.
+Monoamine Oxidase (MAO) Inhibitors: Therapeutic doses of meperidine have precipitated severe reactions in patients concurrently receiving monoamine oxidase inhibitors or those who have received such agents within 14 days.
 Similar reactions thus far have not been reported with methadone.
-However, if the use of DISKETS Dispersible Tablets is necessary in such patients, a sensitivity test should be performed in which repeated small, incremental doses of DISKETS Dispersible Tablets are administered over the course of several hours while the patient’s condition and vital signs are carefully observed.
+However, if the use of DISKETS is necessary in such patients, a sensitivity test should be performed in which repeated small, incremental doses of DISKETS are administered over the course of several hours while the patient’s condition and vital signs are carefully observed.
 
 Desipramine: Blood levels of desipramine have increased with concurrent methadone administration.
 
 ## 7.6 Anticholinergics
 
 Anticholinergics or other drugs with anticholinergic activity when used concurrently with opioids may result in increased risk of urinary retention and/or severe constipation, which may lead to paralytic ileus.
-Monitor patients for signs of urinary retention or reduced gastric motility when DISKETS Dispersible Tablets are used concurrently with anticholinergic drugs.
+Monitor patients for signs of urinary retention or reduced gastric motility when DISKETS are used concurrently with anticholinergic drugs.
 
 ## 7.7 Laboratory Test Interactions
 

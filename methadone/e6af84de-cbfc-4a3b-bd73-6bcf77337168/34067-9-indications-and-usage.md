@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-DISKETS Dispersible Tablets contain methadone, an opioid agonist indicated for the:
+DISKETS dispersible tablets contain methadone, an opioid agonist indicated for the:
 
 - •Detoxification treatment of opioid addiction (heroin or other morphine-like drugs).
 - •Maintenance treatment of opioid addiction (heroin or other morphine-like drugs), in conjunction with appropriate social and medical services.
