@@ -1,0 +1,1 @@
+# PRINCIPAL DISPLAY PANEL - NDC: 51267-890-99 - 8 mg/90 mg 120-count Bottle Label
