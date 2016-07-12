@@ -1,0 +1,7 @@
+PRINCIPAL DISPLAY PANEL
+
+NDC 0023-5868-05 Femring 0.05 mg/day Rx only
+
+PRINCIPAL DISPLAY PANEL
+
+NDC 0023-5869-10 Femring 0.10 mg/day Rx only

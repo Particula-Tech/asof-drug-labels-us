@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA021367"
+  ],
+  "inn": "estradiol",
+  "labeler": "Allergan, Inc.",
+  "package_ndcs": [
+    "0023-5868-05",
+    "0023-5869-10"
+  ],
+  "products": [
+    {
+      "form": "RING",
+      "generic": "estradiol acetate",
+      "name": "Femring"
+    }
+  ],
+  "setid": "9e4c5295-1fe9-4da3-90f9-04204e3e72e4",
+  "source": "dailymed"
+}
