@@ -15,6 +15,4 @@ Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
 
 Manufactured by: Mylan Institutional Galway, Ireland
 
-Revised: 5/2016 0914L100 MI/NP:DEXDIJ:R7
-
-N+ and NOVAPLUS are registered trademarks of Vizient, Inc.
+Revised: 5/2016 0802L105 MI:DEXDIJ:R7
