@@ -75,8 +75,7 @@ Before taking SUBOXONE, tell your doctor if you:
 - Have mental problems such as hallucinations (seeing or hearing things that are not there)
 - Have any other medical condition
 - Are pregnant or plan to become pregnant.
-  It is not known if SUBOXONE will harm your unborn baby.
-  If you take SUBOXONE while pregnant, your baby may have symptoms of withdrawal at birth.
+  If you take SUBOXONE while pregnant, your baby may have symptoms of opioid withdrawal or respiratory depression at birth.
   Talk to your doctor if you are pregnant or plan to become pregnant.
 - Are breastfeeding or plan to breastfeed.
   SUBOXONE can pass into your milk and may harm your baby.
@@ -248,8 +247,8 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 SUBOXONE® is a registered trademark of Indivior UK Limited
 
-Revised: September 2015
+Revised: June 2016
 
-Copyright © 2015 Indivior Inc.
+Copyright © 2016 Indivior Inc.
 
 Printed in USA
