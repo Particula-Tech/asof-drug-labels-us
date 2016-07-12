@@ -22,10 +22,10 @@ Table 6: Mean (CV%) Piperacillin and Tazobactam PK Parameters
 | 4.5 g | 298 | 322 (16) | 210 | 15.4 | 0.84 | -- |
 | Tazobactam |  |  |  |  |  |  |
 | Piperacillin/Tazobactam Dosea | Cmax mcg/mL | AUCb mcg•h/mL | CL mL/min | V L | T1/2 h | CLR mL/min |
-| 2.25 g | 15 | 16 (21) | 258 | 17 | 0.77 | -- |
-| 3.375 g | 24 | 25 (8) | 251 | 14.8 | 0.68 | 166 |
+| 2.25 g | 15 | 16.0 (21) | 258 | 17.0 | 0.77 | -- |
+| 3.375 g | 24 | 25.0 (8) | 251 | 14.8 | 0.68 | 166 |
 | 4.5 g | 34 | 39.8 (15) | 206 | 14.7 | 0.82 | -- |
-| a Piperacillin and tazobactam were given in combination, infused over 30 minutes b Numbers in parentheses are coefficients of variation (CV%). |  |  |  |  |  |  |
+| a Piperacillin and tazobactam were given in combination, infused over 30 minutes. b Numbers in parentheses are coefficients of variation (CV%). |  |  |  |  |  |  |
 
 Peak plasma concentrations of piperacillin and tazobactam are attained immediately after completion of an intravenous infusion of piperacillin and tazobactam.
 Piperacillin plasma concentrations, following a 30-minute infusion of piperacillin and tazobactam, were similar to those attained when equivalent doses of piperacillin were administered alone.
@@ -46,41 +46,59 @@ Infusion of Piperacillin and Tazobactam for Injection
 
 | Tissue or Fluid | Na | Sampling periodb (h) | Mean PIP Concentration Range (mg/L) | Tissue:Plasma Range | Tazo Concentration Range (mg/L) | Tazo Tissue:Plasma Range |
 | --- | --- | --- | --- | --- | --- | --- |
-| Skin | 35 | 0.5 to 4.5 | 34.8 to 94.2 | 0.6 to 1.1 | 4 to 7.7 | 0.49 to 0.93 |
-| Fatty Tissue | 37 | 0.5 to 4.5 | 4 to 10.1 | 0.097 to 0.115 | 0.7 to 1.5 | 0.1 to 0.13 |
-| Muscle | 36 | 0.5 to 4.5 | 9.4 to 23.3 | 0.29 to 0.18 | 1.4 to 2.7 | 0.18 to 0.3 |
+| Skin | 35 | 0.5 to 4.5 | 34.8 to 94.2 | 0.60 to 1.1 | 4.0 to 7.7 | 0.49 to 0.93 |
+| Fatty Tissue | 37 | 0.5 to 4.5 | 4.0 to 10.1 | 0.097 to 0.115 | 0.7 to 1.5 | 0.10 to 0.13 |
+| Muscle | 36 | 0.5 to 4.5 | 9.4 to 23.3 | 0.29 to 0.18 | 1.4 to 2.7 | 0.18 to 0.30 |
 | Proximal Intestinal Mucosa | 7 | 1.5 to 2.5 | 31.4 | 0.55 | 10.3 | 1.15 |
 | Distal Intestinal Mucosa | 7 | 1.5 to 2.5 | 31.2 | 0.59 | 14.5 | 2.1 |
-| Appendix | 22 | 0.5 to 2.5 | 26.5 to 64.1 | 0.43 to 0.53 | 9.1 to 18.6 | 0.8 to 1.35 |
-| a Each subject provided a single sample b Time from the start of the infusion |  |  |  |  |  |  |
+| Appendix | 22 | 0.5 to 2.5 | 26.5 to 64.1 | 0.43 to 0.53 | 9.1 to 18.6 | 0.80 to 1.35 |
+| a Each subject provided a single sample. b Time from the start of the infusion |  |  |  |  |  |  |
 
-Metabolism Piperacillin is metabolized to a minor microbiologically active desethyl metabolite.
+Metabolism
+
+Piperacillin is metabolized to a minor microbiologically active desethyl metabolite.
 Tazobactam is metabolized to a single metabolite that lacks pharmacological and antibacterial activities.
-Excretion Following single or multiple piperacillin and tazobactam doses to healthy subjects, the plasma half-life of piperacillin and of tazobactam ranged from 0.7 to 1.2 hours and was unaffected by dose or duration of infusion.
+
+Excretion
+
+Following single or multiple piperacillin and tazobactam doses to healthy subjects, the plasma half-life of piperacillin and of tazobactam ranged from 0.7 to 1.2 hours and was unaffected by dose or duration of infusion.
+
 Both piperacillin and tazobactam are eliminated via the kidney by glomerular filtration and tubular secretion.
 Piperacillin is excreted rapidly as unchanged drug with 68% of the administered dose excreted in the urine.
 Tazobactam and its metabolite are eliminated primarily by renal excretion with 80% of the administered dose excreted as unchanged drug and the remainder as the single metabolite.
 Piperacillin, tazobactam and desethyl piperacillin are also secreted into the bile.
-Specific Populations Renal impairment After the administration of single doses of piperacillin/tazobactam to subjects with renal impairment, the half-life of piperacillin and of tazobactam increases with decreasing creatinine clearance.
+
+Specific Populations
+
+Renal Impairment
+
+After the administration of single doses of piperacillin/tazobactam to subjects with renal impairment, the half-life of piperacillin and of tazobactam increases with decreasing creatinine clearance.
 At creatinine clearance below 20 mL/min, the increase in half-life is twofold for piperacillin and fourfold for tazobactam compared to subjects with normal renal function.
 Dosage adjustments for piperacillin and tazobactam are recommended when creatinine clearance is below 40 mL/min in patients receiving the usual recommended daily dose of piperacillin and tazobactam for injection.
 See Dosage and Administration (2) for specific recommendations for the treatment of patients with renal-­impairment.
+
 Hemodialysis removes 30% to 40% of a piperacillin/tazobactam dose with an additional 5% of the tazobactam dose removed as the tazobactam metabolite.
 Peritoneal dialysis removes approximately 6% and 21% of the piperacillin and tazobactam doses, respectively, with up to 16% of the tazobactam dose removed as the tazobactam metabolite.
 For dosage recommendations for patients undergoing hemodialysis [see Dosage and Administration (2)].
+
 Hepatic Impairment The half-life of piperacillin and of tazobactam increases by approximately 25% and 18%, respectively, in patients with hepatic cirrhosis compared to healthy subjects.
 However, this difference does not warrant dosage adjustment of piperacillin and tazobactam due to hepatic cirrhosis.
+
 Pediatrics Piperacillin and tazobactam pharmacokinetics were studied in pediatric patients 2 months of age and older.
 The clearance of both compounds is slower in the younger patients compared to older children and adults.
+
 In a population PK analysis, estimated clearance for 9 month-old to 12 year-old patients was comparable to adults, with a population mean (SE) value of 5.64 (0.34) mL/min/kg.
 The piperacillin clearance estimate is 80% of this value for pediatric patients 2 to 9 months old.
 In patients younger than 2 months of age, clearance of piperacillin is slower compared to older children; however, it is not adequately characterized for dosing recommendations.
 The population mean (SE) for piperacillin distribution volume is 0.243 (0.011) L/kg and is independent of age.
+
 Geriatrics The impact of age on the pharmacokinetics of piperacillin and tazobactam was evaluated in healthy male subjects, aged 18 to 35 years (n=6) and aged 65 to 80 years (n=12).
 Mean half-life for piperacillin and tazobactam was 32% and 55% higher, respectively, in the elderly compared to the younger subjects.
 This difference may be due to age-related changes in creatinine clearance.
+
 Race The effect of race on piperacillin and tazobactam was evaluated in healthy male volunteers.
 No difference in piperacillin or tazobactam pharmacokinetics was observed between Asian (n=9) and Caucasian (n=9) healthy volunteers who received single 4/0.5 g doses.
+
 Drug Interactions The potential for pharmacokinetic drug interactions between piperacillin and tazobactam and aminoglycosides, probenecid, vancomycin, heparin, vecuronium, and methotrexate has been evaluated [see Drug Interactions (7)].
 
 ## 12.4 Microbiology

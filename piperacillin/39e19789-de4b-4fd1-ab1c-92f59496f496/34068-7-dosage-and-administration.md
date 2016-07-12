@@ -41,7 +41,7 @@ For pediatric patients between 2 months and 9 months of age, the recommended pip
 Pediatric patients weighing over 40 kg and with normal renal function should receive the adult dose.
 It has not been determined how to adjust piperacillin and tazobactam for injection dosage in pediatric patients with renal impairment.
 
-## 2.5 Reconstitution and Dilution of Powder Formulation
+## 2.5 Reconstitution and Dilution of Powder Formulations
 
 Single dose vials Reconstitute piperacillin and tazobactam for injection vials with a compatible reconstitution diluent from the list provided below.
 2.25 g, 3.375 g, and 4.5 g piperacillin and tazobactam for injection should be reconstituted with 10 mL, 15 mL, and 20 mL, respectively.
@@ -54,14 +54,14 @@ Piperacillin and tazobactam should not be mixed with other drugs in a syringe or
 Piperacillin and tazobactam is not chemically stable in solutions that contain only sodium bicarbonate and solutions that significantly alter the pH.
 Piperacillin and tazobactam should not be added to blood products or albumin hydrolysates.
 Parenteral drug products should be inspected visually for particulate matter or discoloration prior to administration, whenever solution and container permit.
-Stability of Piperacillin and Tazobactam Powder Formulation Following Reconstitution Piperacillin and tazobactam for injection reconstituted from single vials is stable in glass and plastic containers (plastic syringes, I.V. bags and tubing) when used with compatible diluents.
+Stability of Piperacillin and Tazobactam Powder Formulations Following Reconstitution Piperacillin and tazobactam for injection reconstituted from single dose vials is stable in glass and plastic containers (plastic syringes, I.V. bags and tubing) when used with compatible diluents.
 Single dose vials should be used immediately after reconstitution.
-Discard any unused portion after 24 hours if stored at room temperature (20°C to 25°C [68°F to 77°F]), or after 48 hours if stored at refrigerated temperature (2°C to 8°C [36°F to 46°F]).
+Discard any unused portion after 24 hours if stored at room temperature (20° to 25°C [68° to 77°F]), or after 48 hours if stored at refrigerated temperature (2° to 8°C [36° to 46°F]).
 Vials should not be frozen after reconstitution.
 Stability studies in the I.V. bags have demonstrated chemical stability (potency, pH of reconstituted solution and clarity of solution) for up to 24 hours at room temperature and up to one week at refrigerated temperature.
 Piperacillin and tazobactam for injection contains no preservatives.
 Appropriate consideration of aseptic technique should be used.
-Piperacillin and tazobactam for injection reconstituted from single vials can be used in ambulatory intravenous infusion pumps.
+Piperacillin and tazobactam for injection reconstituted from single dose vials can be used in ambulatory intravenous infusion pumps.
 Stability of piperacillin and tazobactam for injection in an ambulatory intravenous infusion pump has been demonstrated for a period of 12 hours at room temperature.
 Each dose was reconstituted and diluted to a volume of 37.5 mL or 25 mL.
 One-day supplies of dosing solution were aseptically transferred into the medication reservoir (I.V. bags or cartridge).
@@ -80,7 +80,7 @@ Table 2: Compatibility with Aminoglycosides
 | --- | --- | --- | --- | --- |
 | Amikacin | 2.25 3.375 4.5 | 50 100 150 | 1.75 to 7.5 | 0.9% sodium chloride or 5% dextrose |
 | Gentamicin | 2.25 3.375 4.5 | 50 100 150 | 0.7 to 3.32 | 0.9% sodium chloride or 5% dextrose |
-| a Diluent volumes apply only to single vials b The concentration ranges in Table 2 are based on administration of the aminoglycoside in divided doses (10 to 15 mg/kg/day in two daily doses for amikacin and 3 to 5 mg/kg/day in three daily doses for gentamicin). Administration of amikacin or gentamicin in a single daily dose or in doses exceeding those stated above via Y-site with piperacillin and tazobactam has not been evaluated. See package insert for each aminoglycoside for complete Dosage and Administration instructions. |  |  |  |  |
+| a Diluent volumes apply only to single dose vials b The concentration ranges in Table 2 are based on administration of the aminoglycoside in divided doses (10 to 15 mg/kg/day in two daily doses for amikacin and 3 to 5 mg/kg/day in three daily doses for gentamicin). Administration of amikacin or gentamicin in a single daily dose or in doses exceeding those stated above via Y-site with piperacillin and tazobactam has not been evaluated. See package insert for each aminoglycoside for complete Dosage and Administration instructions. |  |  |  |  |
 
 Only the concentration and diluents for amikacin or gentamicin with the dosages of piperacillin and tazobactam listed above have been established as compatible for co-administration via Y-site infusion.
 Simultaneous co-administration via Y-site infusion in any manner other than listed above may result in inactivation of the aminoglycoside by piperacillin and tazobactam.

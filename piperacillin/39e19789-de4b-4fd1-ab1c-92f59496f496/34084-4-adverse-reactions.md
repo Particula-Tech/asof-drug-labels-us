@@ -12,95 +12,43 @@ Table 3: Adverse Reactions from Piperacillin and Tazobactam for Injection Monoth
 
 | System Organ Class Adverse Reaction |
 | --- |
-| Gastrointestinal disorders |
-| Diarrhea (11.3%) |
-| Constipation (7.7%) |
-| Nausea (6.9%) |
-| Vomiting (3.3%) |
-| Dyspepsia (3.3%) |
-| Abdominal pain (1.3%) |
-| Pseudomembranous colitis (≤1%) |
-| General disorders and administration site conditions |
-| Fever (2.4%) |
-| Injection site reaction (≤1%) |
-| Rigors (≤1%) |
-| Immune system disorders |
-| Anaphylaxis (≤1%) |
-| Infections and infestations |
-| Candidiasis (1.6%) |
-| Metabolism and nutrition disorders |
-| Hypoglycemia (≤1%) |
-| Musculoskeletal and connective tissue disorders |
-| Myalgia (≤1%) |
-| Arthralgia (≤1%) |
-| Nervous system disorders |
-| Headache (7.7%) |
-| Insomnia (6.6%) |
-| Skin and subcutaneous tissue disorders |
-| Rash (4.2%, including maculopapular, bullous, and urticarial) |
-| Pruritus (3.1%) |
-| Vascular disorders |
-| Phlebitis (1.3%) |
-| Thrombophlebitis (≤1%) |
-| Hypotension (≤1%) |
-| Purpura (≤1%) |
-| Epistaxis (≤1%) |
-| Flushing (≤1%) |
+| Gastrointestinal disorders Diarrhea (11.3%) Constipation (7.7%) Nausea (6.9%) Vomiting (3.3%) Dyspepsia (3.3%) Abdominal pain (1.3%) |
+| General disorders and administration site conditions Fever (2.4%) Injection site reaction (≤1%) Rigors (≤1%) |
+| Immune system disorders Anaphylaxis (≤1%) |
+| Infections and infestations Candidiasis (1.6%) Pseudomembranous colitis (≤1%) |
+| Metabolism and nutrition disorders Hypoglycemia (≤1%) |
+| Musculoskeletal and connective tissue disorders Myalgia (≤1%) Arthralgia (≤1%) |
+| Nervous system disorders Headache (7.7%) |
+| Psychiatric disorders Insomnia (6.6%) |
+| Skin and subcutaneous tissue disorders Rash (4.2%, including maculopapular, bullous, and urticarial) Pruritus (3.1%) Purpura (≤1%) |
+| Vascular disorders Phlebitis (1.3%) Thrombophlebitis (≤1%) Hypotension (≤1%) Flushing (≤1%) |
+| Respiratory, thoracic and mediastinal disorders Epistaxis (≤1%) |
 
 Nosocomial Pneumonia Trials
 
 Two trials of nosocomial lower respiratory tract infections were conducted.
 In one study, 222 patients were treated with piperacillin and tazobactam in a dosing regimen of 4.5 g every 6 hours in combination with an aminoglycoside and 215 patients were treated with imipenem/cilastatin (500 mg/500 mg q6h) in combination with an aminoglycoside.
 In this trial, treatment-emergent adverse events were reported by 402 patients, 204 (91.9%) in the piperacillin/tazobactam group and 198 (92.1%) in the imipenem/cilastatin group.
-Twenty-five (11%) patients in the piperacillin/tazobactam group and 14 (6.5%) in the imipenem/cilastatin group (p > 0.05) discontinued treatment due to an adverse event.
+Twenty-five (11.0%) patients in the piperacillin/tazobactam group and 14 (6.5%) in the imipenem/cilastatin group (p > 0.05) discontinued treatment due to an adverse event.
 
 The second trial used a dosing regimen of 3.375 g given every 4 hours with an aminoglycoside.
 
 Table 4: Adverse Reactions from Piperacillin and Tazobactam for Injection Plus Aminoglycoside Clinical Trialsa
 
-| System Organ Class Adverse Reaction |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Blood and lymphatic system disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Thrombocythemia (1.4%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Anemia (≤1%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Thrombocytopenia (≤1%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Eosinophilia (≤1%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Gastrointestinal disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Diarrhea (20%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Constipation (8.4%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Nausea (5.8%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Vomiting (2.7%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Dyspepsia (1.9%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Abdominal pain (1.8%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Stomatitis (≤1%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| General disorders and administration site conditions |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Fever (3.2%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Injection site reaction (≤1%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Infections and infestations |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Oral candidiasis (3.9%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Candidiasis (1.8%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Investigations |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| BUN increased (1.8%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Blood creatinine increased (1.8%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Liver function test abnormal (1.4%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Alkaline phosphatase increased (≤1%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Aspartate aminotransferase increased (≤1%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Alanine aminotransferase increased (≤1%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Metabolism and nutrition disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hypoglycemia (≤1%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hypokalemia (≤1%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Nervous system disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Headache (4.5%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Insomnia (4.5%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Renal and urinary disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Renal failure (≤1%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Skin and subcutaneous tissue disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Rash (3.9%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Pruritus (3.2%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Vascular disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Thrombophlebitis (1.3%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hypotension (1.3%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| aFor adverse drug reactions that appeared in both studies the higher frequency is presented. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| System Organ Class Adverse Reaction |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Blood and lymphatic system disorders Thrombocythemia (1.4%) Anemia (≤1%) Thrombocytopenia (≤1%) Eosinophilia (≤1%) |  |  |  |  |  |  |  |  |  |  |  |
+| Gastrointestinal disorders Diarrhea (20%) Constipation (8.4%) Nausea (5.8%) Vomiting (2.7%) Dyspepsia (1.9%) Abdominal pain (1.8%) Stomatitis (≤1%) |  |  |  |  |  |  |  |  |  |  |  |
+| General disorders and administration site conditions Fever (3.2%) Injection site reaction (≤1%) |  |  |  |  |  |  |  |  |  |  |  |
+| Infections and infestations Oral candidiasis (3.9%) Candidiasis (1.8%) |  |  |  |  |  |  |  |  |  |  |  |
+| Investigations BUN increased (1.8%) Blood creatinine increased (1.8%) Liver function test abnormal (1.4%) Alkaline phosphatase increased (≤1%) Aspartate aminotransferase increased (≤1%) Alanine aminotransferase increased (≤1%) |  |  |  |  |  |  |  |  |  |  |  |
+| Metabolism and nutrition disorders Hypoglycemia (≤1%) Hypokalemia (≤1%) |  |  |  |  |  |  |  |  |  |  |  |
+| Nervous system disorders Headache (4.5%) |  |  |  |  |  |  |  |  |  |  |  |
+| Psychiatric disorders Insomnia (4.5%) |  |  |  |  |  |  |  |  |  |  |  |
+| Renal and urinary disorders Renal failure (≤1%) |  |  |  |  |  |  |  |  |  |  |  |
+| Skin and subcutaneous tissue disorders Rash (3.9%) Pruritus (3.2%) |  |  |  |  |  |  |  |  |  |  |  |
+| Vascular disorders Thrombophlebitis (1.3%) Hypotension (1.3%) |  |  |  |  |  |  |  |  |  |  |  |
+| a For adverse drug reactions that appeared in both studies the higher frequency is presented. |  |  |  |  |  |  |  |  |  |  |  |
 
 Pediatrics
 
@@ -114,7 +62,7 @@ Adverse Laboratory Events (Seen During Clinical Trials)
 Of the trials reported, including that of nosocomial lower respiratory tract infections in which a higher dose of piperacillin and tazobactam for injection was used in combination with an aminoglycoside, changes in laboratory parameters include:
 
 Hematologic—decreases in hemoglobin and hematocrit, thrombocytopenia, increases in platelet count, eosinophilia, leukopenia, neutropenia.
-These patients were withdrawn from therapy; some had accompanying systemic symptoms (e.g., fever, rigors, chills).
+These patients were withdrawn from therapy; some had accompanying systemic symptoms (e.g., fever, rigors, chills)
 
 Coagulation—positive direct Coombs' test, prolonged prothrombin time, prolonged partial thromboplastin time
 
@@ -127,10 +75,10 @@ Additional laboratory events include abnormalities in electrolytes (i.e., increa
 ## 6.2 Post-Marketing Experience
 
 In addition to the adverse drug reactions identified in clinical trials in Table 3 and Table 4, the following adverse reactions have been identified during post-approval use of piperacillin and tazobactam.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish causal relationship to drug exposure.
-Gastrointestinal—hepatitis, jaundice Hematologic—hemolytic anemia, agranulocytosis, pancytopenia Immune—hypersensitivity reactions, anaphylactic/anaphylactoid reactions (including shock) Renal—interstitial nephritis Skin and Appendages—erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms, (DRESS), acute generalized exanthematous pustulosis (AGEP)
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+Hepatobiliary—hepatitis, jaundice Hematologic—hemolytic anemia, agranulocytosis, pancytopenia Immune—hypersensitivity reactions, anaphylactic/anaphylactoid reactions (including shock) Renal—interstitial nephritis Respiratory—eosinophilic pneumonia Skin and Appendages—erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms, (DRESS), acute generalized exanthematous pustulosis (AGEP), dermatitis exfoliative
 
 ## 6.3 Additional Experience with piperacillin
 
-The following adverse reaction has also been reported for piperacillin for injection: Skeletal—prolonged muscle relaxation [see Drug Interactions (7.4)].
+The following adverse reaction has also been reported for piperacillin for injection: Skeletal—prolonged muscle relaxation [see Drug Interactions (7.5)].
 Post-marketing experience with piperacillin and tazobactam in pediatric patients suggests a similar safety profile to that seen in adults.
