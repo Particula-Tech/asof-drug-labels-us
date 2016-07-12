@@ -2,29 +2,40 @@
 
 ## 17.1 Appropriate Treatments
 
-Patients with the following conditions should be instructed to receive appropriate management measures: variceal bleeding, hepatic encephalopathy, ascites or in need of an urgent liver transplant [see Warnings and Precautions (5)].
+Patients with the following conditions should be instructed to receive appropriate management measures: variceal bleeding, hepatic encephalopathy, ascites, in need of an urgent liver transplant or hepatic function deterioration [see Warnings and Precautions (5)].
 
 Caution has to be exercised to maintain the bile flow of the patients taking ursodiol.
 
 ## 17.2 Drug Interactions
 
-Patients should be informed that adsorption of ursodiol may be reduced if they are taking bile acid sequestering agents, such as cholestyramine and colestipol, aluminum-based antacids, or drugs known to alter the metabolism of cholesterol.
-[see Drug Interactions (7)].
+Patients should be informed that absorption of ursodiol may be reduced if they are taking bile acid sequestering agents, such as cholestyramine and colestipol, aluminum-based antacids, or drugs known to alter the metabolism of cholesterol [see Drug Interactions (7)].
 
-Manufactured by:
+Rx Only
 
-Actavis Elizabeth LLC
+Dist. by:
 
-200 Elmora Avenue
+Par Pharmaceutical
 
-Elizabeth, NJ 07207 USA
+Chestnut Ridge, NY 10977 U.S.A.
 
-Distributed by:
+Product of Italy
 
-Par Pharmaceutical Companies, Inc.
+Mfg. by:
 
-Spring Valley, NY 10977
+Par Formulations Private Limited,
 
-Revised - June 2013 0S412-01-10-02
+1/58, Pudupakkam, Kelambakkam - 603 103.
 
-40-9230
+Made in India
+
+from Active Pharmaceutical Ingredient made in Italy
+
+Mfg.
+Lic.
+No.: TN00002121
+
+OS412-01-74-03
+
+SE7513/02
+
+R02/16

@@ -19,8 +19,8 @@ The following table summarizes the adverse reactions observed in two placebo-con
 | Note: Those adverse reactions occurring at the same or higher incidence in the placebo as in the UDCA group have been deleted from this table (this includes diarrhea and thrombocytopenia at 12 months, nausea/vomiting, fever and other toxicity). UDCA = Ursodeoxycholic acid = Ursodiol |  |  |  |  |
 
 In a randomized, cross-over study in sixty PBC patients, seven patients (11.6%) reported nine adverse reactions: abdominal pain and asthenia (1 patient), nausea (3 patients), dyspepsia (2 patients) and anorexia and esophagitis (1 patient each).
-One patient on the twice a day regimen (total dose 1000 mg) withdrew due to nausea.
-All of these nine adverse reactions except esophagitis were observed with the twice a day regimen at a total daily dose of 1000 mg or greater.
+One patient on the twice a day regimen (total dose 1,000 mg) withdrew due to nausea.
+All of these nine adverse reactions except esophagitis were observed with the twice a day regimen at a total daily dose of 1,000 mg or greater.
 However, an adverse reaction may occur at any dose.
 
 ## 6.2 Postmarketing Experience
@@ -30,10 +30,10 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 - •Gastrointestinal disorders: abdominal discomfort, abdominal pain, constipation, diarrhea, dyspepsia, nausea, vomiting.
 - •General disorders and administration site conditions: malaise, peripheral edema, pyrexia.
-- •Hepatobiliary disorders: jaundice (or aggravation of pre-existing jaundice)
+- •Hepatobiliary disorders: jaundice (or aggravation of preexisting jaundice).
 - •Immune System Disorders: Drug hypersensitivity to include facial edema, urticaria, angioedema and laryngeal edema.
 - •Abnormal Laboratory Tests: ALT increased, AST increased, blood alkaline phosphatase increased, blood bilirubin increased, y-GT increased, hepatic enzyme increased, liver function test abnormal, transaminases increased.
 - •Musculoskeletal and connective tissue disorders: myalgia
 - •Nervous system disorders: dizziness, headache.
 - •Respiratory, thoracic and mediastinal disorders: cough.
-- •Skin and subcutaneous tissue disorder: alopecia, pruritus, rash
+- •Skin and subcutaneous tissue disorder: alopecia, pruritus, rash.
