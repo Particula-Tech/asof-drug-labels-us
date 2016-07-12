@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA205433"
+  ],
+  "inn": "tobramycin",
+  "labeler": "Genericus, Inc.",
+  "package_ndcs": [
+    "70644-899-99"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "tobramycin",
+      "name": "Tobramycin"
+    }
+  ],
+  "setid": "dad13445-f591-4829-96f9-1598ba03dff8",
+  "source": "dailymed"
+}
