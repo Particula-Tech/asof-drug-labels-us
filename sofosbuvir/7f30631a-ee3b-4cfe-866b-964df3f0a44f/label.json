@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA208341"
+  ],
+  "inn": "sofosbuvir",
+  "labeler": "Gilead Sciences, Inc.",
+  "package_ndcs": [
+    "61958-2201-1"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "velpatasvir and sofosbuvir",
+      "name": "Epclusa"
+    }
+  ],
+  "setid": "7f30631a-ee3b-4cfe-866b-964df3f0a44f",
+  "source": "dailymed"
+}
