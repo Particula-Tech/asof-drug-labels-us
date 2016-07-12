@@ -12,5 +12,5 @@ Storage
 
 Protect from light and freezing.
 Store unopened SPRIX between 2°C to 8°C (36°F to 46°F).
-During use, keep containers of SPRIX Nasal Spray at controlled room temperature, between 15°C to30°C (59°F to 86°F), out of direct sunlight.
+During use, keep containers of SPRIX Nasal Spray at controlled room temperature, between 15°C to 30°C (59°F to 86°F), out of direct sunlight.
 Bottles of SPRIX should be discarded within 24 hours of priming.

@@ -43,7 +43,7 @@ Table 1: Post-Operative Patients with Adverse Reactions Observed at a Rate of 2%
 | Hypertension | 2% | 1% |
 | Rhinitis | 2% | <1% |
 
-In controlled clinical trials in major surgery, primarily knee and hip replacements and abdominal hysterectomies, seven patients (N=455, 1.5%) treated with SPRIX experienced serious adverse events of bleeding (4 patients) or hematoma (3 patients) at the operative site versus one patient (N = 245, 0.4%) treated with placebo (hematoma).
+In controlled clinical trials in major surgery, primarily knee and hip replacements and abdominal hysterectomies, seven patients (N=455, 1.5%) treated with SPRIX experienced serious adverse events of bleeding (4 patients) or hematoma (3 patients) at the operative site versus one patient (N=245, 0.4%) treated with placebo (hematoma).
 Six of the seven patients treated with SPRIX underwent a surgical procedure and/or blood transfusion and the placebo patient subsequently required a blood transfusion.
 
 Adverse Reactions Reported in Clinical Trials with Other Dosage Forms of Ketorolac or Other NSAIDs

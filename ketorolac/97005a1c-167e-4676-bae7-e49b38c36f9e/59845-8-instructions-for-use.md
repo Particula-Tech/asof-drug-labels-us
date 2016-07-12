@@ -36,12 +36,12 @@ Before you use SPRIX for the first time, you will need to prime the bottle.
 Priming SPRIX:
 
 Step 1.
-Hold the finger flange with your fingers (See Figure A), and remove the clear plastic cover with your opposite hand.
+Hold the finger flange with your fingers (see Figure A), and remove the clear plastic cover with your opposite hand.
 Keep the clear plastic cover for later.
 Remove and throw away the blue plastic safety clip.
 
 If the clear plastic cover is improperly removed, the tip of the bottle may be pulled off of the glass vial.
-If this happens, place the tip back onto the glass vial by lining it up carefully and gently pushing it back on until it is back in the correct position (See Figure B). The SPRIX bottle should work properly again.
+If this happens, place the tip back onto the glass vial by lining it up carefully and gently pushing it back on until it is back in the correct position (see Figure B). The SPRIX bottle should work properly again.
 
 Step 2.
 Hold the SPRIX bottle upright at arm’s length away from you with your index finger and middle finger resting on the top of the finger flange and your thumb supporting the base (see Figure C).
@@ -68,7 +68,7 @@ Step 7.
 Hold the SPRIX bottle upright and aim the tip toward the back of your nose (see Figure D).
 
 Step 8.
-Hold your breath and spray 1 time into your right nostril, pressing down on both sides of the finger flange (See Figure D).
+Hold your breath and spray 1 time into your right nostril, pressing down on both sides of the finger flange (see Figure D).
 
 Step 9.
 Breathe in gently through your mouth after you use SPRIX.

@@ -53,7 +53,7 @@ Strategies to Minimize the GI Risks in NSAID-treated patients:
 - Avoid administration of more than one NSAID at a time.
 - Avoid use in patients at higher risk unless benefits are expected to outweigh the increased risk of bleeding.
   For such patients, consider alternate therapies other than NSAIDs.
-  Do not use Sprix in those with active GI bleeding,
+  Do not use Sprix in those with active GI bleeding.
 - Remain alert for signs and symptoms of GI ulceration and bleeding during NSAID therapy.
 - If a serious GI adverse event is suspected, promptly initiate evaluation and treatment, and discontinue SPRIX until a serious GI adverse event is ruled out.
 - In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, monitor patients more closely for evidence of GI bleeding [see Drug Interactions (7)].
