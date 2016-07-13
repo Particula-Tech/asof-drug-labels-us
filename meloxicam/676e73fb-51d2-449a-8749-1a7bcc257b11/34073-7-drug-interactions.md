@@ -33,6 +33,3 @@ Table 3 Clinically Significant Drug Interactions with Meloxicam
 | Pemetrexed |  |
 | Clinical Impact: | Concomitant use of MOBIC and pemetrexed may increase the risk of pemetrexed-associated myelosuppression, renal, and GI toxicity (see the pemetrexed prescribing information). |
 | Intervention: | During concomitant use of MOBIC and pemetrexed, in patients with renal impairment whose creatinine clearance ranges from 45 to 79 mL/min, monitor for myelosuppression, renal and GI toxicity. Patients taking meloxicam should interrupt dosing for at least five days before, the day of, and two days following pemetrexed administration. In patients with creatinine clearance below 45 mL/min, the concomitant administration of meloxicam with pemetrexed is not recommended. |
-| Kayexalate® (sodium polystyrene sulfonate) |  |
-| Clinical Impact: | Cases of intestinal necrosis (possibly fatal) have been described in patients who received concomitant sorbitol and Kayexalate® (sodium polystyrene sulfonate). Due to the presence of sorbitol in MOBIC Oral Suspension, use with Kayexalate® is not recommended. |
-| Intervention: | The concomitant use of MOBIC Oral Suspension with Kayexalate® is not recommended. |

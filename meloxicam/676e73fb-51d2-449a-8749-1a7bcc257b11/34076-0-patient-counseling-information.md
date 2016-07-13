@@ -48,8 +48,6 @@ Use of NSAIDs and Low-Dose Aspirin
 
 Inform patients not to use low-dose aspirin concomitantly with MOBIC until they talk to their healthcare provider [see Drug Interactions (7)].
 
-Kayexalate is a registered trademark of Sanofi-Aventis
-
 For current prescribing information, scan the code below or call Boehringer Ingelheim Pharmaceuticals, Inc. at 1-800-542-6257 or TTY 1-800-459-9906.
 
 Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
@@ -58,4 +56,4 @@ Licensed from: Boehringer Ingelheim International GmbH
 
 Copyright 2016 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-090340141/10 OT1407JE122016
+090340141/11 OT1407KF302016
