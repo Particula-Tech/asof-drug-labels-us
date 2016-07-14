@@ -52,7 +52,7 @@ Protein binding may be greatly reduced in patients with renal or hepatic impairm
 
 After administration of nifedipine extended-release tablets to healthy elderly men and women (age >60 years), the mean Cmax is 36% higher and the average plasma concentration is 70% greater than in younger patients.
 
-In healthy subjects, the elimination half-life of a different sustained release nifedipine formulation was longer in elderly subjects (6.7 h) compared to young subjects (3.8 h) following oral administration.
+In healthy subjects, the elimination half-life of a different sustained-release nifedipine formulation was longer in elderly subjects (6.7 h) compared to young subjects (3.8 h) following oral administration.
 A decreased clearance was also observed in the elderly (348 mL/min) compared to young subjects (519 mL/min) following intravenous administration.
 
 Coadministration of nifedipine with grapefruit juice results in up to a 2-fold increase in AUC and Cmax due to inhibition of CYP3A related first-pass metabolism.
