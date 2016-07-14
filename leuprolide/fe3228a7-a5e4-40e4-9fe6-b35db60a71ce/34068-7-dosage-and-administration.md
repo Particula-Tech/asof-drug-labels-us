@@ -33,41 +33,41 @@ Each carton contains:
 - One sterile needle
 - Desiccant pack(s)
 
-1. On a clean field, open all of the packages and remove the contents.
-   Discard the desiccant pack(s).
-2. Pull out the blue-tipped short plunger rod and attached stopper from Syringe B and discard (Figure 1).
-   Gently insert the long, white replacement plunger rod into the gray primary stopper remaining in Syringe B by twisting it in place (Figure 2).
-3. Unscrew the clear cap from Syringe A (Figure 3).
-   Remove the gray rubber cap from Syringe B (Figure 4).
-4. Join the two syringes together by pushing in and twisting until secure (Figure 5).
-5. Inject the liquid contents of Syringe A into Syringe B containing the leuprolide acetate.
-   Thoroughly mix the product by pushing the contents of both syringes back and forth between syringes (approximately 45 seconds) to obtain a uniform suspension (Figure 6).
-   When thoroughly mixed, the suspension will appear light tan to tan (ELIGARD® 7.5 mg) or colorless to pale yellow (ELIGARD®, 22.5 mg, 30 mg and 45 mg) in color.
-   Please Note: Product must be mixed as described; shaking will not provide adequate mixing of the product.
-6. Hold the syringes vertically with Syringe B on the bottom.
-   The syringes should remain securely coupled.
-   Draw the entire mixed product into Syringe B (short, wide syringe) by depressing the Syringe A plunger and slightly withdrawing the Syringe B plunger.
-   Uncouple Syringe A while continuing to push down on the Syringe A plunger (Figure 7).
-   Note: Small air bubbles will remain in the formulation – this is acceptable.
-7. Hold Syringe B upright.
-   Remove the cap on the bottom of the sterile needle cartridge by twisting it (Figure 8).
-   Attach the needle cartridge to the end of Syringe B (Figure 9) by pushing in and turning the needle until it is firmly seated.
-   Do not twist the needle onto the syringe until it is stripped.
-   Pull off the clear needle cartridge cover prior to administration (Figure 10).
+- On a clean field, open all of the packages and remove the contents.
+  Discard the desiccant pack(s).
+- Pull out the blue-tipped short plunger rod and attached stopper from Syringe B and discard (Figure 1).
+  Gently insert the long, white replacement plunger rod into the gray primary stopper remaining in Syringe B by twisting it in place (Figure 2).
+- Unscrew the clear cap from Syringe A (Figure 3).
+  Remove the gray rubber cap from Syringe B (Figure 4).
+- Join the two syringes together by pushing in and twisting until secure (Figure 5).
+- Inject the liquid contents of Syringe A into Syringe B containing the leuprolide acetate.
+  Thoroughly mix the product by pushing the contents of both syringes back and forth between syringes (approximately 45 seconds) to obtain a uniform suspension (Figure 6).
+  When thoroughly mixed, the suspension will appear light tan to tan (ELIGARD® 7.5 mg) or colorless to pale yellow (ELIGARD®, 22.5 mg, 30 mg and 45 mg) in color.
+  Please Note: Product must be mixed as described; shaking will not provide adequate mixing of the product.
+- Hold the syringes vertically with Syringe B on the bottom.
+  The syringes should remain securely coupled.
+  Draw the entire mixed product into Syringe B (short, wide syringe) by depressing the Syringe A plunger and slightly withdrawing the Syringe B plunger.
+  Uncouple Syringe A while continuing to push down on the Syringe A plunger (Figure 7).
+  Note: Small air bubbles will remain in the formulation – this is acceptable.
+- Hold Syringe B upright.
+  Remove the cap on the bottom of the sterile needle cartridge by twisting it (Figure 8).
+  Attach the needle cartridge to the end of Syringe B (Figure 9) by pushing in and turning the needle until it is firmly seated.
+  Do not twist the needle onto the syringe until it is stripped.
+  Pull off the clear needle cartridge cover prior to administration (Figure 10).
 
 ## 2.2 Administration Procedure
 
 IMPORTANT: Allow the product to reach room temperature before using.
 Once mixed, the product must be administered within 30 minutes.
 
-1. Choose an injection site on the abdomen, upper buttocks, or anywhere with adequate amounts of subcutaneous tissue that does not have excessive pigment, nodules, lesions, or hair.
-   Since you can vary the injection site with a subcutaneous injection, choose an area that hasn't recently been used.
-2. Cleanse the injection-site area with an alcohol swab.
-3. Using the thumb and forefinger of your non-dominant hand, grab and bunch the area of skin around the injection site.
-4. Using your dominant hand, insert the needle quickly at a 90° angle.
-   The approximate angle you use will depend on the amount and fullness of the subcutaneous tissue and the length of the needle.
-   After the needle is inserted, release the skin with your nondominant hand.
-5. Inject the drug using a slow, steady push.
-   Press down on the plunger until the syringe is empty.
-6. Withdraw the needle quickly at the same angle used for insertion.
-7. Discard all components safely in an appropriate biohazard container.
+- Choose an injection site on the abdomen, upper buttocks, or anywhere with adequate amounts of subcutaneous tissue that does not have excessive pigment, nodules, lesions, or hair.
+  Since you can vary the injection site with a subcutaneous injection, choose an area that hasn't recently been used.
+- Cleanse the injection-site area with an alcohol swab.
+- Using the thumb and forefinger of your non-dominant hand, grab and bunch the area of skin around the injection site.
+- Using your dominant hand, insert the needle quickly at a 90° angle.
+  The approximate angle you use will depend on the amount and fullness of the subcutaneous tissue and the length of the needle.
+  After the needle is inserted, release the skin with your nondominant hand.
+- Inject the drug using a slow, steady push.
+  Press down on the plunger until the syringe is empty.
+- Withdraw the needle quickly at the same angle used for insertion.
+- Discard all components safely in an appropriate biohazard container.
