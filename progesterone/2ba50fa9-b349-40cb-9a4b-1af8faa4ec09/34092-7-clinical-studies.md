@@ -48,4 +48,4 @@ In women age 35 and older and in women with serum FSH levels between 10 and 15 I
 
 Subjects who became pregnant received study medication for a total of 10 weeks.
 Patients over 34 kg/m2 were not studied.
-The efficacy of Endometrin in this patient group is unknown
+The efficacy of Endometrin in this patient group is unknown.
