@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
-Vagifem 10 mcg (estradiol vaginal tablets) are small, white, film-coated tablets containing 10.3 mcg of estradiol hemihydrate equivalent to 10 mcg of estradiol.
-Vagifem 25 mcg (estradiol vaginal tablets) are small, white, film-coated tablets containing 25.8 mcg of estradiol hemihydrate equivalent to 25 mcg of estradiol.
+Vagifem 10 mcg (estradiol vaginal inserts) are small, white, film-coated tablets containing 10.3 mcg of estradiol hemihydrate equivalent to 10 mcg of estradiol.
+Vagifem 25 mcg (estradiol vaginal inserts) are small, white, film-coated tablets containing 25.8 mcg of estradiol hemihydrate equivalent to 25 mcg of estradiol.
 Each tablet of Vagifem 10 mcg and 25 mcg contains the following excipients: hypromellose, lactose monohydrate, maize starch and magnesium stearate.
 The film coating contains hypromellose and polyethylene glycol.
 Each Vagifem tablet is 6 mm in diameter and is placed in a disposable applicator.

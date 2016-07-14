@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-Each Vagifem (estradiol vaginal tablets), 10 mcg and 25 mcg, is contained in a disposable, single-use applicator, packaged in a blister pack.
+Each Vagifem (estradiol vaginal inserts), 10 mcg and 25 mcg, is contained in a disposable, single-use applicator, packaged in a blister pack.
 Cartons contain 8 or 18 applicators with inset tablets.
 
 Vagifem 25 mcg

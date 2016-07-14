@@ -4,10 +4,10 @@ NDC 0169-5176-04
 
 Vagifem®
 
-(estradiol vaginal tablets)
+(estradiol vaginal inserts)
 
 10mcg
 
-18 vaginal tablets
+18 vaginal inserts
 
 novo nordisk®

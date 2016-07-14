@@ -85,7 +85,7 @@ WHI publications can be viewed at www.nhlbi.nih.gov/whi.
 | Event | Relative RiskCE vs. Placebo(95% nCINominal confidence intervals unadjusted for multiple looks and multiple comparisons.) | CEn=5,310 | Placebon=5,429 |
 | --- | --- | --- | --- |
 |  |  | Absolute Risk per 10,000 Women-Years |  |
-| CHD eventsResults are based on centrally adjudicated data for an average follow-up of 7.1 years. Non-fatal MICHD death | 0.95 (0.78-1.16)0.91 (0.73-1.14)1.01 (0.71-1.43) | 544016 | 574316 |
+| CHD eventsResults are based on centrally adjudicated data for an average follow-up of 7.1 years. Non-fatal MI CHD death | 0.95 (0.78-1.16)0.91 (0.73-1.14)1.01 (0.71-1.43) | 544016 | 574316 |
 | All Strokes | 1.33 (1.05-1.68) | 45 | 33 |
 | Ischemic stroke | 1.55 (1.19-2.01) | 38 | 25 |
 | Deep vein thrombosis,Not included in "global index". | 1.47 (1.06-2.06) | 23 | 15 |
@@ -129,7 +129,7 @@ WHI publications can be viewed at www.nhlbi.nih.gov/whi,Results are based on cen
 | --- | --- | --- | --- |
 |  |  | Absolute Risk per 10,000 Women-Years |  |
 | CHD events Non-fatal MI CHD death | 1.23 (0.99-1.53)1.28 (1.00-1.63)1.10 (0.70-1.75) | 41318 | 34258 |
-| All StrokesIschemic stroke | 1.31 (1.03-1.68)1.44 (1.09-1.90) | 3326 | 2518 |
+| All Strokes Ischemic stroke | 1.31 (1.03-1.68)1.44 (1.09-1.90) | 3326 | 2518 |
 | Deep vein thrombosisNot included in “global index”. | 1.95 (1.43-2.67) | 26 | 13 |
 | Pulmonary embolism | 2.13 (1.45-3.11) | 18 | 8 |
 | Invasive breast cancerIncludes metastatic and non-metastatic breast cancer, with the exception of in situ cancer. | 1.24 (1.01-1.54) | 41 | 33 |

@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Risks From Systemic Absorption
+## 5.1 Risks from Systemic Absorption
 
 Vagifem is intended only for vaginal administration.
 Systemic absorption occurs with the use of Vagifem.
@@ -27,7 +27,7 @@ The increase in risk was demonstrated after the first year and persisted.1 Shoul
 
 Coronary Heart Disease
 
-In the WHI estrogen-alone substudy, no overall effect on coronary heart disease (CHD) events (defined as nonfatal MI, silent MI, or CHD death) was reported in women receiving estrogen-alone compared to placebo2[see Clinical Studies (14.2)].
+In the WHI estrogen-alone substudy, no overall effect on coronary heart disease (CHD) events (defined as nonfatal MI, silent MI, or CHD death) was reported in women receiving estrogen-alone compared to placebo2 [see Clinical Studies (14.2)].
 
 Subgroup analysis of women 50 to 59 years of age suggests a statistically non-significant reduction in CHD events (CE [0.625 mg]-alone compared to placebo) in women with less than 10 years since menopause (8 versus 16 per 10,000 women-years).1
 
@@ -76,11 +76,12 @@ In the WHI estrogen-alone substudy, after an average follow-up of 7.1 years, dai
 The most important randomized clinical trial providing information about breast cancer in estrogen plus progestin users is the WHI substudy of daily CE (0.625 mg) plus MPA (2.5 mg).
 After a mean follow-up of 5.6 years, the estrogen plus progestin substudy reported an increased risk of invasive breast cancer in women who took daily CE plus MPA.
 In this substudy, prior use of estrogen-alone or estrogen plus progestin therapy was reported by 26 percent of the women.
-The relative risk of invasive breast cancer was 1.24, and the absolute risk was 41 versus 33 cases per 10,000 women-years, for CE plus MPA compared with placebo.Among women who reported prior use of hormone therapy, the relative risk of invasive breast cancer was 1.86, and the absolute risk was 46 versus 25 cases per 10,000 women-years, for CE plus MPA compared with placebo.
+The relative risk of invasive breast cancer was 1.24, and the absolute risk was 41 versus 33 cases per 10,000 women-years, for CE plus MPA compared with placebo.
+Among women who reported prior use of hormone therapy, the relative risk of invasive breast cancer was 1.86, and the absolute risk was 46 versus 25 cases per 10,000 women-years, for CE plus MPA compared with placebo.
 Among women who reported no prior use of hormone therapy, the relative risk of invasive breast cancer was 1.09, and the absolute risk was 40 versus 36 cases per 10,000 women-years for CE plus MPA compared with placebo.
 In the same substudy, invasive breast cancers were larger, were more likely to be node positive, and were diagnosed at a more advanced stage in the CE (0.625 mg) plus MPA (2.5 mg) group compared with the placebo group.
 Metastatic disease was rare, with no apparent difference between the two groups.
-Other prognostic factors, such as histologic subtype, grade and hormone receptor status did not differ between the groups6[see Clinical Studies (14.2)].
+Other prognostic factors, such as histologic subtype, grade and hormone receptor status did not differ between the groups6 [see Clinical Studies (14.2)].
 
 Consistent with the WHI clinical trial, observational studies have also reported an increased risk of breast cancer for estrogen plus progestin therapy, and a smaller increased risk for estrogen-alone therapy, after several years of use.
 The risk increased with duration of use, and appeared to return to baseline over about 5 years after stopping treatment (only the observational studies have substantial data on risk after stopping).

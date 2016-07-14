@@ -25,7 +25,7 @@ Please keep your hands clean and dry while handling the tablet.
 
 Step 3: Hold the applicator so that the finger of one hand can press the applicator plunger as shown in Figure B.
 
-Step 4: Next select the best position for vaginal insertion of Vagifem (estradiol vaginal tablets) that is most comfortable for you.
+Step 4: Next select the best position for vaginal insertion of Vagifem (estradiol vaginal inserts) that is most comfortable for you.
 See suggested reclining Figure C or standing Figure D position illustrated below:
 
 Step 5: Using the other hand, guide the applicator gently and comfortably through the vaginal opening (see Figures C and D above).
@@ -39,5 +39,5 @@ This will eject the tablet inside your vagina where it will dissolve slowly over
 Step 8: After depressing the plunger, gently remove the applicator and dispose of it the same way you would a plastic tampon applicator.
 The applicator is of no further use and should be discarded properly.
 Insertion may be done at any time of the day.
-It is advisable to use the same time daily for all applications of Vagifem (estradiol vaginal tablets).
+It is advisable to use the same time daily for all applications of Vagifem (estradiol vaginal inserts).
 If you have any questions, please consult your healthcare provider or pharmacist.

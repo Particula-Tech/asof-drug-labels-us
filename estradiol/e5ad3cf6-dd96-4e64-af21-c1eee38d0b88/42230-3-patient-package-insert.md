@@ -1,6 +1,6 @@
 # FDA-Approved Patient Labeling
 
-Vagifem® (estradiol vaginal tablets)
+Vagifem® (estradiol vaginal inserts)
 
 Read this PATIENT INFORMATION before you start using Vagifem and read what you get each time you refill your Vagifem prescription.
 There may be new information.
@@ -15,7 +15,6 @@ What is Vagifem used for?
 Vagifem is used after menopause to:
 
 - •Treat menopausal changes in and around the vagina
-
 - You and your healthcare provider should talk regularly about whether you still need treatment with Vagifem to control these problems.
 
 Who should not use Vagifem?
@@ -24,43 +23,30 @@ Do not start using Vagifem if you:
 
 - •Have unusual vaginal bleeding
 - •Currently have or have had certain cancers
-
 - Estrogens may increase the chances of getting certain types of cancers, including cancer of the breast or uterus.
   If you have or have had cancer, talk with your healthcare provider about whether you should use Vagifem.
-
 - •Had a stroke or heart attack
 - •Currently have or have had blood clots
 - •Currently have or have had liver problems
 - •Have been diagnosed with a bleeding disorder
 - •Are allergic to Vagifem or any of its ingredients
-
 - See the list of ingredients in Vagifem at the end of this leaflet.
-
 - •Think you may be pregnant
 
 Tell your healthcare provider:
 
 - •If you have any unusual vaginal bleeding
-
 - Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb).
   Your healthcare provider should check any unusual vaginal bleeding to find out the cause.
-
 - •About all of your medical problems
-
 - Your healthcare provider may need to check you more carefully if you have certain conditions, such as asthma (wheezing), epilepsy (seizures), diabetes, migraine, endometriosis, lupus, problems with your heart, liver, thyroid, kidneys, or have high calcium levels in your blood.
-
 - •About all the medicines you take
-
 - This includes prescription and nonprescription medicines, vitamins, and herbal supplements.
   Some medicines may affect how Vagifem works.
   Vagifem may also affect how your other medicines work.
-
 - •If you are going to have surgery or will be on bed rest
-
 - You may need to stop using Vagifem.
-
 - •If you are breast feeding
-
 - The hormone in Vagifem can pass into your breast milk.
 
 How should I use Vagifem?
@@ -69,7 +55,6 @@ Vagifem is a tablet that you place in your vagina with an applicator.
 
 - •Take the dose recommended by your healthcare provider and talk to him or her about how well that dose is working for you
 - •Estrogens should be used at the lowest dose possible for your treatment only as long as needed
-
 - You and your healthcare provider should talk regularly (for example, every 3 to 6 months) about the dose you are using and whether you still need treatment with Vagifem.
 
 Step 1: Tear off a single applicator.
@@ -79,7 +64,7 @@ Please keep your hands clean and dry while handling the tablet.
 
 Step 3: Hold the applicator so that the finger of one hand can press the applicator plunger as shown in Figure B.
 
-Step 4: Next select the best position for vaginal insertion of Vagifem (estradiol vaginal tablets) that is most comfortable for you.
+Step 4: Next select the best position for vaginal insertion of Vagifem (estradiol vaginal inserts) that is most comfortable for you.
 See suggested reclining Figure C or standing Figure D position illustrated below:
 
 Step 5: Using the other hand, guide the applicator gently and comfortably through the vaginal opening (see Figures C and D above).
@@ -93,7 +78,7 @@ This will eject the tablet inside your vagina where it will dissolve slowly over
 Step 8: After depressing the plunger, gently remove the applicator and dispose of it the same way you would a plastic tampon applicator.
 The applicator is of no further use and should be discarded properly.
 Insertion may be done at any time of the day.
-It is advisable to use the same time daily for all applications of Vagifem (estradiol vaginal tablets).
+It is advisable to use the same time daily for all applications of Vagifem (estradiol vaginal inserts).
 If you have any questions, please consult your healthcare provider or pharmacist.
 
 Dosage
@@ -150,16 +135,11 @@ What can I do to lower my chances of a serious side effect with Vagifem?
 
 - •Talk with your healthcare provider regularly about whether you should continue using Vagifem
 - •If you have a uterus, talk with your healthcare provider about whether the addition of a progestin is right for you
-
 - The addition of a progestin is generally recommended for a woman with a uterus to reduce the chance of getting cancer of the uterus.
   See your healthcare provider right away if you get vaginal bleeding while using Vagifem.
-
 - •Have a pelvic exam, breast exam and mammogram (breast X-ray) every year unless your healthcare provider tells you something else
-
 - If members of your family have had breast cancer or if you have ever had breast lumps or an abnormal mammogram, you may need to have breast exams more often.
-
 - •If you have high blood pressure, high cholesterol (fat in the blood), diabetes, are overweight, or if you use tobacco, you may have higher chances for getting heart disease
-
 - Ask your healthcare provider for ways to lower your chances for getting heart disease.
 
 General information about the safe and effective use of Vagifem.
@@ -178,7 +158,7 @@ You can get more information by calling the toll free number 1-888-824-4336.
 
 What are the ingredients in Vagifem?
 
-Vagifem (estradiol vaginal tablets) are small, white, film-coated tablets containing estradiol.
+Vagifem (estradiol vaginal inserts) are small, white, film-coated tablets containing estradiol.
 Each tablet also contains hypromellose, lactose monohydrate, maize starch and magnesium stearate.
 The film coating contains hypromellose and polyethylene glycol.
 
@@ -190,11 +170,11 @@ Do not refrigerate.
 
 [see USP Controlled Room Temperature].
 
-Vagifem® is a registered trademark owned by Novo Nordisk FemCare AG.
+Vagifem® is a registered trademark owned by Novo Nordisk Health Care AG.
 
-© 2003-2014 Novo Nordisk
+© 2003-2016 Novo Nordisk
 
-Date of Issue: 10/2014
+Date of Issue: 7/2016
 
 For information contact:
 
