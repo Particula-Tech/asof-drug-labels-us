@@ -6,6 +6,7 @@ Since safety and efficacy of mometasone furoate cream have not been established 
 
 Therapy should be discontinued when control is achieved.
 If no improvement is seen within 2 weeks, reassessment of diagnosis may be necessary.
+
 Safety and efficacy of mometasone furoate cream in pediatric patients for more than 3 weeks of use have not been established.
 
 Mometasone furoate cream should not be used with occlusive dressings unless directed by a physician.
