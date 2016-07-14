@@ -22,7 +22,7 @@ In placebo-controlled studies, the incidence of cough in irbesartan-treated pati
 
 Nephropathy in Type 2 Diabetic Patients
 
-Hyperkalemia: In the Irbesartan Diabetic Nephropathy Trial (IDNT) (proteinuria ≥900 mg/day, and serum creatinine ranging from 1.0–3.0 mg/dL), the percent of patients with potassium>6 mEq/L was 18.6% in the AVAPRO group versus 6.0% in the placebo group.
+Hyperkalemia: In the Irbesartan Diabetic Nephropathy Trial (IDNT) (proteinuria ≥900 mg/day, and serum creatinine ranging from 1.0–3.0 mg/dL), the percent of patients with potassium >6 mEq/L was 18.6% in the AVAPRO group versus 6.0% in the placebo group.
 Discontinuations due to hyperkalemia in the AVAPRO group were 2.1% versus 0.4% in the placebo group.
 
 In IDNT, the adverse reactions were similar to those seen in patients with hypertension with the exception of an increased incidence of orthostatic symptoms which occurred more frequently in the AVAPRO versus placebo group: dizziness (10.2% vs 6.0%), orthostatic dizziness (5.4% vs 2.7%) and orthostatic hypotension (5.4% vs 3.2%).
@@ -32,4 +32,4 @@ In IDNT, the adverse reactions were similar to those seen in patients with hyper
 The following adverse reactions have been identified during post-approval use of AVAPRO.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate reliably their frequency or to establish a causal relationship to drug exposure.
 
-Urticaria; angioedema (involving swelling of the face, lips, pharynx, and/or tongue); increased liver function tests; jaundice; hepatitis; hyperkalemia; thrombocytopenia; increased CPK; tinitus.
+Urticaria; angioedema (involving swelling of the face, lips, pharynx, and/or tongue); increased liver function tests; jaundice; hepatitis; hyperkalemia; thrombocytopenia; increased CPK; tinnitus.

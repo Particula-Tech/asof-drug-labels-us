@@ -2,7 +2,7 @@
 
 ## 1.1 Hypertension
 
-AVAPRO is indicated for the treatment of hypertension, to lower blood pressure.
+AVAPRO® is indicated for the treatment of hypertension, to lower blood pressure.
 Lowering blood pressure lowers the risk of fatal and non-fatal cardiovascular (CV) events, primarily strokes and myocardial infarction.
 These benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes including this drug.
 
