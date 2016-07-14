@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA080556"
+  ],
+  "inn": "thiamine",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "63323-013-26"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "thiamine hydrochloride",
+      "name": "Thiamine"
+    }
+  ],
+  "setid": "af3f9344-f743-4bad-b319-53b96e13fee2",
+  "source": "dailymed"
+}
