@@ -1,10 +1,10 @@
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
 ## BusPIRone Hydrochloride Tablets USP, 5 mg 100s Label Text
 
 NDC 0093-0053-01
 
-BusPIRone HYDROCHLORIDE Tablets USP 5 mg
+BusPIRone Hydrochloride Tablets USP 5 mg
 
 Rx only
 
@@ -12,13 +12,13 @@ Rx only
 
 TEVA
 
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
 ## BusPIRone Hydrochloride Tablets USP, 10 mg 100s Label Text
 
 NDC 0093-0054-01
 
-BusPIRone HYDROCHLORIDE Tablets USP 10 mg
+BusPIRone Hydrochloride Tablets USP 10 mg
 
 Rx only
 
@@ -26,13 +26,13 @@ Rx only
 
 TEVA
 
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
 ## BusPIRone Hydrochloride Tablets USP, 15 mg 100s Label Text
 
 NDC 0093-1003-01
 
-BusPIRone HYDROCHLORIDE Tablets USP 15 mg
+BusPIRone Hydrochloride Tablets USP 15 mg
 
 PHARMACIST: PLEASE DISPENSE WITH ATTACHED PATIENT INFORMATON LEAFLET
 
@@ -42,13 +42,13 @@ Rx only
 
 TEVA
 
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
 ## BusPIRone Hydrochloride Tablets USP, 30 mg 60s Label Text
 
 NDC 0093-5200-06
 
-BusPIRone HYDROCHLORIDE Tablets USP 30 mg
+BusPIRone Hydrochloride Tablets USP 30 mg
 
 PHARMACIST: PLEASE DISPENSE WITH ATTACHED PATIENT INFORMATON LEAFLET
 

@@ -38,12 +38,12 @@ See ADVERSE REACTIONS, Postmarketing Experience.
 
 To assure safe and effective use of buspirone hydrochloride tablets, the following information and instructions should be given to patients:
 
-1. Inform your physician about any medications, prescription or non-prescription, alcohol, or drugs that you are now taking or plan to take during your treatment with buspirone hydrochloride tablets.
-2. Inform your physician if you are pregnant, or if you are planning to become pregnant, or if you become pregnant while you are taking buspirone hydrochloride tablets.
-3. Inform your physician if you are breastfeeding an infant.
-4. Until you experience how this medication affects you, do not drive a car or operate potentially dangerous machinery.
-5. You should take buspirone hydrochloride tablets consistently, either always with or always without food.
-6. During your treatment with buspirone hydrochloride tablets, avoid drinking large amounts of grapefruit juice.
+1. 1.Inform your physician about any medications, prescription or non-prescription, alcohol, or drugs that you are now taking or plan to take during your treatment with buspirone hydrochloride tablets.
+2. 2.Inform your physician if you are pregnant, or if you are planning to become pregnant, or if you become pregnant while you are taking buspirone hydrochloride tablets.
+3. 3.Inform your physician if you are breastfeeding an infant.
+4. 4.Until you experience how this medication affects you, do not drive a car or operate potentially dangerous machinery.
+5. 5.You should take buspirone hydrochloride tablets consistently, either always with or always without food.
+6. 6.During your treatment with buspirone hydrochloride tablets, avoid drinking large amounts of grapefruit juice.
 
 ## Laboratory Tests
 
@@ -203,7 +203,7 @@ There are no long-term safety or efficacy data in this population.
 In one study of 6632 patients who received buspirone for the treatment of anxiety, 605 patients were ≥ 65 years old and 41 were ≥ 75 years old; the safety and efficacy profiles for these 605 elderly patients (mean age = 70.8 years) were similar to those in the younger population (mean age = 43.3 years).
 Review of spontaneously reported adverse clinical events has not identified differences between elderly and younger patients, but greater sensitivity of some older patients cannot be ruled out.
 
-There were no effects of age on the pharmacokinetics of buspirone (see CLINICALPHARMACOLOGY, Special Populations).
+There were no effects of age on the pharmacokinetics of buspirone (see CLINICAL PHARMACOLOGY, Special Populations).
 
 ## Use in Patients With Impaired Hepatic or Renal Function
 
