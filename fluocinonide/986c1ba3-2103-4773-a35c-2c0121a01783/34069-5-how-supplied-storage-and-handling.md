@@ -1,10 +1,10 @@
 # HOW SUPPLIED
 
-Fluocinonide Cream USP, 0.05% (Emulsified Base) is supplied in 15 gram, 30 gram, and 60 gram tubes.
+Fluocinonide Cream USP, 0.05% (Emulsified Base) is supplied in 15 gram (NDC 0093-0263-15), 30 gram (NDC 0093-0263-30), and 60 gram (NDC 0093-0263-92) tubes.
 
-Fluocinonide Cream USP, 0.05% is supplied in 15 gram, 30 gram, and 60 gram tubes.
+Fluocinonide Cream USP, 0.05% is supplied in 15 gram (NDC 0093-0262-15), 30 gram (NDC 0093-0262-30), and 60 gram (NDC 0093-0262-92) tubes.
 
-Fluocinonide Ointment USP, 0.05% is supplied in 15 gram, 30 gram, and 60 gram tubes.
+Fluocinonide Ointment USP, 0.05% is supplied in 15 gram (NDC 0093-0264-15), 30 gram (NDC 0093-0264-30), and 60 gram (NDC 0093-0264-92) tubes.
 
 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
@@ -18,9 +18,9 @@ Zagreb, Croatia
 
 Manufactured For:
 
-TEVA PHARMACEUTICALS USA
+TEVA PHARMACEUTICALS USA, INC.
 
-Sellersville, PA 18960
+North Wales, PA 19454
 
 Rev.
-O 3/2013
+P 2/2016

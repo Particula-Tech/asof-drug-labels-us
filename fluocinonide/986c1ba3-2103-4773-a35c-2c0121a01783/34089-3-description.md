@@ -6,7 +6,7 @@ The active component is the corticosteroid fluocinonide, which is the 21-acetate
 It has the following structural formula:
 
 C26H32F207 M.W.
-494.54
+494.52
 
 Each gram of Fluocinonide Cream USP, 0.05% (Emulsified Base) contains: 0.5 mg fluocinonide, USP in a water-washable aqueous emollient base of stearyl alcohol, cetyl alcohol, mineral oil, propylene glycol, sorbitan monostearate, polysorbate 60, citric acid monohydrate and purified water.
 
