@@ -149,7 +149,7 @@ Manufactured for Shire US Inc., 300 Shire Way, Lexington, MA 02421.
 
 INTUNIV® is a registered trademark of Shire LLC.
 
-Revised: 3/2016
+Revised: 7/2016
 
 © 2016 Shire US Inc.
 

@@ -98,7 +98,7 @@ Table 8: Other Common Adverse Reactions (≥2% for all doses of INTUNIV and >rat
 | Dry Mouth | 1% | 3% | 3% | 3% |
 | Adverse reactions ≥2% for all doses of INTUNIV and >rate in placebo in any dose group but did not meet this criteria in all doses combined: affect lability (affect lability, mood swings), increased weight, syncope/loss of consciousness (loss of consciousness, presyncope, syncope), dyspepsia, tachycardia (tachycardia, sinus tachycardia), and bradycardia (bradycardia, sinus bradycardia). |  |  |  |  |
 
-Table 9: Percentage of Patients Experiencing Most Common (≥ 5% and at least twice the rate for placebo) Adverse Reactions in the Monotherapy Flexible Dose Study 5
+Table 9: Percentage of Patients Experiencing Most Common (≥5% and at least twice the rate for placebo) Adverse Reactions in the Monotherapy Flexible Dose Study 5
 
 | Adverse Reaction Term | Placebo (N=155) | All Doses of INTUNIV® (N=157) |
 | --- | --- | --- |

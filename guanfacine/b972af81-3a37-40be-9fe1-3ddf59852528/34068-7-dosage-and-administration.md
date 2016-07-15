@@ -54,14 +54,14 @@ Taper the daily dose in decrements of no more than 1 mg every 3 to 7 days to avo
 
 When reinitiating patients to the previous maintenance dose after two or more missed consecutive doses, consider titration based on patient tolerability.
 
-## 2.7 Dosage Adjustment with Concomitant Use of Strong CYP3A4 Inhibitors or Inducers
+## 2.7 Dosage Adjustment with Concomitant Use of Strong and Moderate CYP3A4 Inhibitors or Inducers
 
-Dosage adjustments for INTUNIV® are recommended with concomitant use of strong CYP3A4 inhibitors (e.g., ketoconazole), or CYP3A4 inducers (e.g., carbamazepine) (Table 2) [see Drug Interactions (7)].
+Dosage adjustments for INTUNIV® are recommended with concomitant use of strong and moderate CYP3A4 inhibitors (e.g., ketoconazole) or CYP3A4 inducers (e.g., carbamazepine) (Table 2) [see Drug Interactions (7)].
 
 Table 2: INTUNIV® Dosage Adjustments for Patients Taking Concomitant CYP3A4 Inhibitors or Inducers
 
 |  | Starting INTUNIV® while currently on a CYP3A4 modulator | Continuing INTUNIV® while adding a CYP3A4 modulator | Continuing INTUNIV® while stopping a CYP3A4 modulator |
 | --- | --- | --- | --- |
 |  | Clinical Scenarios |  |  |
-| CYP3A4 Strong Inhibitors | Decrease INTUNIV® dosage to half the recommended level. (see Table 1) | Decrease INTUNIV® dosage to half the recommended level. (see Table 1) | Increase INTUNIV® dosage to recommended level. (see Table 1) |
-| CYP3A4 Strong Inducers | Consider increasing INTUNIV® dosage up to double the recommended level. (see Table 1) | Consider increasing INTUNIV® dosage up to double the recommended level over 1 to 2 weeks. (see Table 1) | Decrease INTUNIV® dosage to recommended level over 1 to 2 weeks. (see Table 1) |
+| CYP3A4 Strong and moderate Inhibitors | Decrease INTUNIV® dosage to half the recommended level. (see Table 1) | Decrease INTUNIV® dosage to half the recommended level. (see Table 1) | Increase INTUNIV® dosage to recommended level. (see Table 1) |
+| CYP3A4 Strong and moderate Inducers | Consider increasing INTUNIV® dosage up to double the recommended level. (see Table 1) | Consider increasing INTUNIV® dosage up to double the recommended level over 1 to 2 weeks. (see Table 1) | Decrease INTUNIV® dosage to recommended level over 1 to 2 weeks. (see Table 1) |
