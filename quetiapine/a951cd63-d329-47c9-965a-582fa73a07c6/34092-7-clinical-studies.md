@@ -85,7 +85,7 @@ Adjunct Therapy:
 In this 3-week placebo-controlled trial, 170 patients with bipolar mania (YMRS ≥20) were randomized to receive quetiapine or placebo as adjunct treatment to lithium or divalproex.
 Patients may or may not have received an adequate treatment course of lithium or divalproex prior to randomization.
 Quetiapine was superior to placebo when added to lithium or divalproex alone in the reduction of YMRS total score.
-(Study 3 in Table 20).
+(study 3 in Table 20).
 
 The majority of patients in this trial taking quetiapine were dosed in a range between 400 mg/day and 800 mg per day.
 In a similarly designed trial (n=200), quetiapine was associated with an improvement in YMRS scores but did not demonstrate superiority to placebo, possibly due to a higher placebo effect.

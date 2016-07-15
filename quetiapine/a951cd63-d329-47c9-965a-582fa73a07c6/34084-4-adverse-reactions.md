@@ -204,7 +204,7 @@ Three methods were used to measure EPS: (1) Simpson-Angus total score (mean chan
 
 In Table 12, dystonic event included nuchal rigidity, hypertonia, dystonia, muscle rigidity, oculogyration; parkinsonism included cogwheel rigidity, tremor, drooling, hypokinesia; akathisia included akathisia, psychomotor agitation; dyskinetic event included tardive dyskinesia, dyskinesia, choreoathetosis; and other extrapyramidal event included restlessness, extrapyramidal disorder, movement disorder.
 
-Table 12: Adverse reactions associated with EPS in a short-term, placebo-controlled multiple fixed-dose Phase III schizophrenia trial (6 weeks duration)
+Table 12: Adverse Reactions Associated with EPS in a Short-Term, Placebo-Controlled Multiple Fixed-Dose Phase III Schizophrenia Trial (6 weeks duration)
 
 | Preferred Term | Quetiapine 75 mg/day (N=53) |  | Quetiapine 150 mg/day (N=48) |  | Quetiapine 300 mg/day (N=52) |  | Quetiapine 600 mg/day (N=51) |  | Quetiapine 750 mg/day (N=54) |  | Placebo (N=51) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -440,7 +440,7 @@ Infrequent: hypothyroidism, diabetes mellitus;
 
 Rare: hyperthyroidism.
 
-* adjusted for gender
+* Adjusted for gender
 
 Laboratory, ECG and Vital Sign Changes Observed in Clinical Studies
 
@@ -466,7 +466,7 @@ In a database of controlled and uncontrolled clinical trials, decreases in hemog
 Interference with Urine Drug Screens:
 
 There have been literature reports suggesting false positive results in urine enzyme immunoassays for methadone and tricyclic antidepressants in patients who have taken quetiapine.
-Caution should be exercised in the interpretation of positive urine drug screen results for these drugs, and confirmation by alternative analytical technique (e.g. chromatographic methods) should be considered.
+Caution should be exercised in the interpretation of positive urine drug screen results for these drugs, and confirmation by alternative analytical technique (e.g., chromatographic methods) should be considered.
 
 ECG Changes:
 
@@ -496,4 +496,4 @@ Mean increases in heart rate were 3.4 bpm for quetiapine extended-release, compa
 The following adverse reactions were identified during post approval of quetiapine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Adverse reactions reported since market introduction which were temporally related to quetiapine therapy include anaphylactic reaction, cardiomyopathy, hyponatremia, myocarditis, nocturnal enuresis, pancreatitis, retrograde amnesia, rhabdomyolysis, syndrome of inappropriate antidiuretic hormone secretion (SIADH), Stevens-Johnson syndrome (SJS), and toxic epidermal necrolysis (TEN).
+Adverse reactions reported since market introduction which were temporally related to quetiapine therapy include anaphylactic reaction, cardiomyopathy, drug reaction with eosinophilia and systemic symptoms (DRESS), hyponatremia, myocarditis, nocturnal enuresis, pancreatitis, retrograde amnesia, rhabdomyolysis, syndrome of inappropriate antidiuretic hormone secretion (SIADH), Stevens-Johnson syndrome (SJS), and toxic epidermal necrolysis (TEN).

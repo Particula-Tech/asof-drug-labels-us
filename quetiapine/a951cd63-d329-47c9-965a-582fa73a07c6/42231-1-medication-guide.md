@@ -16,19 +16,18 @@ Quetiapine tablets may cause serious side effects, including:
 2. risk of suicidal thoughts or actions (antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions).
 
 - Talk to your or your family member's healthcare provider about:
-- all risks and benefits of treatment with antidepressant medicines.
-- all treatment choices for depression or other serious mental illness.
+  - all risks and benefits of treatment with antidepressant medicines.
+  - all treatment choices for depression or other serious mental illness.
 - Antidepressant medications may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
 - Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
   Some people may have a particularly high risk of having suicidal thoughts or actions.
   These include people who have (or have a family history of) depression, bipolar illness (also called manic-depressive illness), or suicidal thoughts or actions.
 - How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
-
-- Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
-  This is very important when an antidepressant medicine is started or when the dose is changed.
-- Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
-- Keep all follow-up visits with the healthcare provider as scheduled.
-  Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
+  - Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
+    This is very important when an antidepressant medicine is started or when the dose is changed.
+  - Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
+  - Keep all follow-up visits with the healthcare provider as scheduled.
+    Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
 
 Call a healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
 
@@ -67,10 +66,9 @@ Quetiapine tablet is a prescription medicine used to treat:
 
 - schizophrenia in people 13 years of age or older
 - bipolar disorder in adults, including:
-- depressive episodes associated with bipolar disorder
-- manic episodes associated with bipolar I disorder alone or with lithium or divalproex
-- long-term treatment of bipolar I disorder with lithium or divalproex
-
+  - depressive episodes associated with bipolar disorder
+  - manic episodes associated with bipolar I disorder alone or with lithium or divalproex
+  - long-term treatment of bipolar I disorder with lithium or divalproex
 - manic episodes associated with bipolar I disorder in children ages 10 to 17 years old
 
 It is not known if quetiapine tablet is safe and effective in children under 10 years of age.
@@ -124,12 +122,11 @@ What should I avoid while taking quetiapine tablets?
 - Do not drive, operate machinery, or do other dangerous activities until you know how quetiapine tablet affects you.
   Quetiapine tablets may make you drowsy.
 - Avoid getting overheated or dehydrated.
-- Do not over-exercise.
-- In hot weather, stay inside in a cool place if possible.
-- Stay out of the sun.
-  Do not wear too much or heavy clothing.
-- Drink plenty of water.
-
+  - Do not over-exercise.
+  - In hot weather, stay inside in a cool place if possible.
+  - Stay out of the sun.
+    Do not wear too much or heavy clothing.
+  - Drink plenty of water.
 - Do not drink alcohol while taking quetiapine tablets.
   It may make some side effects of quetiapine tablets worse.
 
@@ -143,18 +140,17 @@ Quetiapine tablets can cause serious side effects, including:
   NMS is a rare but very serious condition that can happen in people who take antipsychotic medicines, including quetiapine tablets.
   NMS can cause death and must be treated in a hospital.
   Call your healthcare provider right away if you become severely ill and have some or all of these symptoms:
-- high fever
-- excessive sweating
-- rigid muscles
-- confusion
-- changes in your breathing, heartbeat, and blood pressure
+  - high fever
+  - excessive sweating
+  - rigid muscles
+  - confusion
+  - changes in your breathing, heartbeat, and blood pressure
 - high blood sugar (hyperglycemia).
   High blood sugar can happen if you have diabetes already or if you have never had diabetes.
   High blood sugar could lead to:
-
-- build up of acid in your blood due to ketones (ketoacidosis)
-- coma
-- death
+  - build up of acid in your blood due to ketones (ketoacidosis)
+  - coma
+  - death
 
 Increases in blood sugar can happen in some people who take quetiapine tablets.
 Extremely high blood sugar can lead to coma or death.
@@ -181,9 +177,7 @@ Call your healthcare provider if you have any of these symptoms of high blood su
   Tardive dyskinesia may also start after you stop taking quetiapine tablets.
 - decreased blood pressure (orthostatic hypotension), including lightheadedness or fainting caused by a sudden change in heart rate and blood pressure when rising too quickly from a sitting or lying position.
 - increases in blood pressure in children and teenagers.
-
-Your healthcare provider should check blood pressure in children and adolescents before starting quetiapine tablets and during therapy.
-
+  Your healthcare provider should check blood pressure in children and adolescents before starting quetiapine tablets and during therapy.
 - low white blood cell count
 - cataracts
 - seizures

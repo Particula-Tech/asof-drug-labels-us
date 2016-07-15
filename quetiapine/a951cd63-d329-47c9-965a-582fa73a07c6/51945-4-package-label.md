@@ -1,49 +1,47 @@
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+Quetiapine Tablets USP, 25 mg
+
+Rx only
 
 NDC 68180-445-01
 
-Quetiapine Tablets, 25 mg
+Container Label: Bottle of 100 Tablets
+
+Quetiapine Tablets USP, 50 mg
 
 Rx only
-
-Container Label: Bottle of 100 Tablets
 
 NDC 68180-446-01
 
-Quetiapine Tablets, 50 mg
+Container Label: Bottle of 100 Tablets
+
+Quetiapine Tablets USP, 100 mg
 
 Rx only
-
-Container Label: Bottle of 100 Tablets
 
 NDC 68180-447-01
 
-Quetiapine Tablets, 100 mg
+Container Label: Bottle of 100 Tablets
+
+Quetiapine Tablets USP, 200 mg
 
 Rx only
-
-Container Label: Bottle of 100 Tablets
 
 NDC 68180-448-01
 
-Quetiapine Tablets, 200 mg
+Container Label: Bottle of 100 Tablets
+
+Quetiapine Tablets USP, 300 mg
 
 Rx only
-
-Container Label: Bottle of 100 Tablets
 
 NDC 68180-449-01
 
-Quetiapine Tablets, 300 mg
-
-Rx only
-
 Container Label: Bottle of 100 Tablets
 
-NDC 68180-450-01
-
-Quetiapine Tablets, 400 mg
+Quetiapine Tablets USP, 400 mg
 
 Rx only
+
+NDC 68180-450-01
 
 Container Label: Bottle of 100 Tablets
