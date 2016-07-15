@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA019781"
+  ],
+  "inn": "progesterone",
+  "labeler": "Virtus Pharmaceuticals",
+  "package_ndcs": [
+    "69543-372-10",
+    "69543-373-10"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "progesterone",
+      "name": "Prometrium"
+    }
+  ],
+  "setid": "a451784e-f6a0-414a-8409-3407f1d1d086",
+  "source": "dailymed"
+}

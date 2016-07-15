@@ -1,0 +1,27 @@
+# PRINCIPAL DISPLAY PANEL - 100 mg Capsule Bottle Label
+
+100 Capsules NDC 69543-372-10
+
+PROMETRIUM® (progesterone, USP) Capsules
+
+100 mg
+
+Rx only
+
+DO NOT USE IF ALLERGIC TO PEANUTS
+
+VIRTUS PHARMACEUTICALS
+
+# PRINCIPAL DISPLAY PANEL - 200 mg Capsule Bottle Label
+
+100 Capsules NDC 69543-373-10
+
+PROMETRIUM® (progesterone, USP) Capsules
+
+200 mg
+
+Rx only
+
+DO NOT USE IF ALLERGIC TO PEANUTS
+
+VIRTUS PHARMACEUTICALS
