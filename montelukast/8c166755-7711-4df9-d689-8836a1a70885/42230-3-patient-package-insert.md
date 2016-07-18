@@ -123,7 +123,7 @@ SINGULAIR may cause serious side effects.
 - Behavior and mood-related changes.
   Tell your healthcare provider right away if you or your child have any of these symptoms while taking SINGULAIR:
 
-| agitation including aggressive behavior or hostilityattention problemsbad or vivid dreamsdepressiondisorientation (confusion)feeling anxioushallucinations (seeing or hearing things that are not really there) | irritabilitymemory problemsrestlessnesssleep walkingsuicidal thoughts and actions (including suicide)tremortrouble sleeping |
+| agitation including aggressive behavior or hostilityattention problemsbad or vivid dreamsdepressiondisorientation (confusion)feeling anxioushallucinations (seeing or hearing things that are not really there) | irritabilitymemory problemsrestlessnesssleep walkingsuicidal thoughts and actions (including suicide)tremortrouble sleepinguncontrolled muscle movements |
 | --- | --- |
 
 - Increase in certain white blood cells (eosinophils) and possible inflamed blood vessels throughout the body (systemic vasculitis).

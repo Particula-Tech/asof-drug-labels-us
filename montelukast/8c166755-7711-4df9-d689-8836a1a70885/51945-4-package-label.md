@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - Oral Granules - 4 mg Carton
+# PRINCIPAL DISPLAY PANEL - 4 mg Packet Carton
 
 Singulair® 4 mg (Montelukast Sodium) ORAL GRANULES
 
