@@ -1,12 +1,16 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Vials Single-dose‚ preservative-free vials containing 300 mcg/mL of filgrastim.
+Vials
+
+Single-dose‚ preservative-free vials containing 300 mcg/mL of filgrastim.
 Dispensing packs of 10 vials (NDC 55513-530-10).
 
 Single-dose‚ preservative-free vials containing 480 mcg/1.6 mL (300 mcg/mL) of filgrastim.
 Dispensing packs of 10 vials (NDC 55513-546-10).
 
-Prefilled Syringes (SingleJect®) Single-dose‚ preservative-free, prefilled syringe with 27 gauge, ½ inch needle with an UltraSafe® Needle Guard, containing 300 mcg/0.5 mL of filgrastim.
+Prefilled Syringes (SingleJect®)
+
+Single-dose‚ preservative-free, prefilled syringe with 27 gauge, ½ inch needle with an UltraSafe® Needle Guard, containing 300 mcg/0.5 mL of filgrastim.
 
 - Pack of 1 prefilled syringe (NDC 55513-924-91).
 - Pack of 10 prefilled syringes (NDC 55513-924-10).

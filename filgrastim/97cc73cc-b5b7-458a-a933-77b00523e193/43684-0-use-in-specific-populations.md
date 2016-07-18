@@ -43,7 +43,7 @@ The relationship of these events to NEUPOGEN administration is unknown [see Warn
 
 The use of NEUPOGEN to increase survival in pediatric patients acutely exposed to myelosuppressive doses of radiation is based on studies conducted in animals and clinical data supporting the use of NEUPOGEN in other approved indications [see Dosage and Administration (2.1 to 2.4) and Clinical Studies (14.6)].
 
-## 8.5 Geriatric Use
+## 8.5 GERIATRIC USE
 
 Among 855 subjects enrolled in 3 randomized, placebo-controlled trials of NEUPOGEN-treated patients receiving myelosuppressive chemotherapy, there were 232 subjects age 65 or older, and 22 subjects age 75 or older.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects.

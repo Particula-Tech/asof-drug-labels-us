@@ -62,13 +62,17 @@ Monitor platelet counts.
 
 ## 5.10 Leukocytosis
 
-Patients with Cancer Receiving Myelosuppressive Chemotherapy White blood cell counts of 100‚000/mm3 or greater were observed in approximately 2% of patients receiving NEUPOGEN at dosages above 5 mcg/kg/day.
+Patients with Cancer Receiving Myelosuppressive Chemotherapy
+
+White blood cell counts of 100‚000/mm3 or greater were observed in approximately 2% of patients receiving NEUPOGEN at dosages above 5 mcg/kg/day.
 In patients with cancer receiving NEUPOGEN as an adjunct to myelosuppressive chemotherapy‚ to avoid the potential risks of excessive leukocytosis‚ it is recommended that NEUPOGEN therapy be discontinued if the ANC surpasses 10‚000/mm3 after the chemotherapy-induced ANC nadir has occurred.
 Monitor CBCs at least twice weekly during therapy.
 Dosages of NEUPOGEN that increase the ANC beyond 10‚000/mm3 may not result in any additional clinical benefit.
 In patients with cancer receiving myelosuppressive chemotherapy‚ discontinuation of NEUPOGEN therapy usually resulted in a 50% decrease in circulating neutrophils within 1 to 2 days‚ with a return to pretreatment levels in 1 to 7 days.
 
-Peripheral Blood Progenitor Cell Collection and Therapy During the period of administration of NEUPOGEN for PBPC mobilization in patients with cancer, discontinue NEUPOGEN if the leukocyte count rises to > 100,000/mm3.
+Peripheral Blood Progenitor Cell Collection and Therapy
+
+During the period of administration of NEUPOGEN for PBPC mobilization in patients with cancer, discontinue NEUPOGEN if the leukocyte count rises to > 100,000/mm3.
 
 ## 5.11 Cutaneous Vasculitis
 
@@ -96,7 +100,7 @@ Because of the potential sensitivity of rapidly dividing myeloid cells to cytoto
 The safety and efficacy of NEUPOGEN have not been evaluated in patients receiving concurrent radiation therapy.
 Avoid the simultaneous use of NEUPOGEN with chemotherapy and radiation therapy.
 
-## 5.14 Nuclear Imaging
+## 5.14Nuclear Imaging
 
 Increased hematopoietic activity of the bone marrow in response to growth factor therapy has been associated with transient positive bone-imaging changes.
 This should be considered when interpreting bone-imaging results.

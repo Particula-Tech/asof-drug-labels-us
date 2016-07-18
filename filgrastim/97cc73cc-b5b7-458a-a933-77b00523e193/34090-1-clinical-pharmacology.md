@@ -39,14 +39,22 @@ The absolute bioavailability of filgrastim after subcutaneous administration is 
 
 Specific Populations
 
-Patients Acutely Exposed to Myelosuppressive Doses of Radiation The pharmacokinetics of filgrastim is not available in patients acutely exposed to myelosuppressive doses of radiation.
+Patients Acutely Exposed to Myelosuppressive Doses of Radiation
+
+The pharmacokinetics of filgrastim is not available in patients acutely exposed to myelosuppressive doses of radiation.
 Based on limited pharmacokinetics data in irradiated non-human primates, the area under the time-concentration curve (AUC), reflecting the exposure to filgrastim in non-human primates at 10 mcg/kg dose of NEUPOGEN, appears to be similar to that in humans at 5 mcg/kg.
 Simulations conducted using the population pharmacokinetic model indicates that the exposures to filgrastim at a NEUPOGEN dose of 10 mcg/kg in patients acutely exposed to myelosuppressive doses of radiation are expected to exceed the exposures at a dose of 10 mcg/kg in irradiated non-human primates.
 
-Pediatric Patients The pharmacokinetics of filgrastim in pediatric patients after chemotherapy are similar to those in adult patients receiving the same weight-normalized doses, suggesting no age-related differences in the pharmacokinetics of filgrastim [see Use in Specific Populations (8.4)].
+Pediatric Patients
 
-Renal Impairment In a study with healthy volunteers, subjects with moderate renal impairment, and subjects with end-stage renal disease (n=4 per group), higher serum concentrations were observed in subjects with end-stage renal disease.
+The pharmacokinetics of filgrastim in pediatric patients after chemotherapy are similar to those in adult patients receiving the same weight-normalized doses, suggesting no age-related differences in the pharmacokinetics of filgrastim [see Use in Specific Populations (8.4)].
+
+Renal Impairment
+
+In a study with healthy volunteers, subjects with moderate renal impairment, and subjects with end-stage renal disease (n = 4 per group), higher serum concentrations were observed in subjects with end-stage renal disease.
 However, dose adjustment in patients with renal impairment is not necessary.
 
-Hepatic Impairment Pharmacokinetics and pharmacodynamics of filgrastim are similar between subjects with hepatic impairment and healthy subjects (n = 12/group).
+Hepatic Impairment
+
+Pharmacokinetics and pharmacodynamics of filgrastim are similar between subjects with hepatic impairment and healthy subjects (n = 12/group).
 The study included 10 subjects with mild hepatic impairment (Child-Pugh Class A) and 2 subjects with moderate hepatic impairment (Child-Pugh Class B). Therefore, filgrastim dose adjustment for patients with hepatic impairment is not necessary.

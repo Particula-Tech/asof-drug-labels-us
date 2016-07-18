@@ -1,6 +1,9 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Patient Information).
+Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
+Review the steps for direct patient administration with patients and caregivers.
+Training by the healthcare provider should aim to ensure that patients and caregivers can successfully perform all of the steps in the Instructions for Use of NEUPOGEN vial and prefilled syringe, including showing the patient or caregiver how to measure the required dose, particularly if a patient is on a dose other than the entire prefilled syringe.
+If a patient or caregiver is not able to demonstrate that they can measure the dose and administer the product successfully, you should consider whether the patient is an appropriate candidate for self-administration of NEUPOGEN or whether the patient would benefit from a different NEUPOGEN presentation.
 
 Advise patients of the following risks and potential risks with NEUPOGEN:
 
@@ -21,14 +24,26 @@ Advise patients of the following risks and potential risks with NEUPOGEN:
 - Advise females of reproductive potential that NEUPOGEN should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus [see Use in Specific Populations (8.1)].
 - Advise patients acutely exposed to myelosuppressive doses of radiation (Hematopoietic Syndrome of Acute Radiation Syndrome) that efficacy studies of NEUPOGEN for this indication could not be conducted in humans for ethical and feasibility reasons and that, therefore, approval of this use was based on efficacy studies conducted in animals [see Clinical Studies (14.6)].
 
+Instruct patients who self-administer NEUPOGEN using the prefilled syringe or single-dose vial of the:
+
+- Importance of following the applicable Instructions for Use.
+- Dangers of reusing needles, syringes, or unused portions of single-dose vials.
+- Importance of following local requirements for proper disposal of used syringes, needles, and unused vials.
+- Importance of informing the healthcare provider if difficulty occurs when measuring or administering partial contents of the NEUPOGEN prefilled syringe.
+  If difficulty occurs, use of the NEUPOGEN vial may be considered.
+- Difference in product concentration of the NEUPOGEN prefilled syringe in comparison to the NEUPOGEN vial.
+  When switching patients from the NEUPOGEN prefilled syringe to the NEUPOGEN vial, or vice versa, ensure that patients understand the correct volume to be administered since the concentration of NEUPOGEN differs between the prefilled syringe and the vial.
+
 NEUPOGEN® (filgrastim)
 
-Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, California 91320-1799 US License Number 1080
+Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, California 91320-1799 U.S. License Number 1080
 
 Patent: http://pat.amgen.com/neupogen/
 
-© 1991-2015 Amgen Inc. All rights reserved.
+© 1991-2016 Amgen Inc. All rights reserved.
 
 www.NEUPOGEN.com 1-800-77-AMGEN (1-800-772-6436)
 
-1xxxxxx V29
+1xxxxxx
+
+v30

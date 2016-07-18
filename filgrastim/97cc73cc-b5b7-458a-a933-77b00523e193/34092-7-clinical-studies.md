@@ -5,7 +5,7 @@
 The safety and efficacy of NEUPOGEN to decrease the incidence of infection‚ as manifested by febrile neutropenia‚ in patients with nonmyeloid malignancies receiving myelosuppressive anti-cancer drugs were established in a randomized‚ double-blind‚ placebo-controlled trial conducted in patients with small cell lung cancer (Study 1).
 
 In Study 1, patients received up to 6 cycles of intravenous chemotherapy including intravenous cyclophosphamide and doxorubicin on day 1; and etoposide on days 1, 2, and 3 of 21 day cycles.
-Patients were randomized to receive NEUPOGEN (n=99) at a dose of 230 mcg/m2 (4 to 8 mcg/kg/day) or placebo (n=111).
+Patients were randomized to receive NEUPOGEN (n = 99) at a dose of 230 mcg/m2 (4 to 8 mcg/kg/day) or placebo (n = 111).
 Study drug was administered subcutaneously daily beginning on day 4, for a maximum of 14 days.
 A total of 210 patients were evaluable for efficacy and 207 were evaluable for safety.
 The demographic and disease characteristics were balanced between arms with a median age of 62 (range 31 to 80) years; 64% males; 89% Caucasian; 72% extensive disease and 28% limited disease.
@@ -20,7 +20,7 @@ There were also statistically significant reductions in the incidence and overal
 The safety and efficacy of NEUPOGEN to reduce the time to neutrophil recovery and the duration of fever, following induction or consolidation chemotherapy treatment of patients with acute myeloid leukemia (AML) was established in a randomized, double-blind‚ placebo-controlled‚ multi-center trial in patients with newly diagnosed, de novo AML (Study 4).
 
 In Study 4 the initial induction therapy consisted of intravenous daunorubicin days 1, 2, and 3; cytosine arabinoside days 1 to 7; and etoposide days 1 to 5.
-Patients were randomized to receive subcutaneous NEUPOGEN (n=259) at a dose of 5 mcg/kg/day or placebo (n=262) from 24 hours after the last dose of chemotherapy until neutrophil recovery (ANC ≥ 1000/mm3 for 3 consecutive days or ≥ 10,000/mm3 for 1 day) or for a maximum of 35 days.
+Patients were randomized to receive subcutaneous NEUPOGEN (n = 259) at a dose of 5 mcg/kg/day or placebo (n = 262) from 24 hours after the last dose of chemotherapy until neutrophil recovery (ANC ≥ 1000/mm3 for 3 consecutive days or ≥ 10,000/mm3 for 1 day) or for a maximum of 35 days.
 The demographic and disease characteristics were balanced between arms with a median age of 54 (range 16 to 89) years; 54% males; initial white blood cell count (65% < 25,000/mm3 and 27% > 100,000/mm3); 29% unfavorable cytogenetics.
 
 The main efficacy endpoint was median duration of severe neutropenia defined as neutrophil count < 500/mm3.
@@ -42,14 +42,14 @@ The main efficacy endpoint was duration of severe neutropenia ANC < 500/mm3.
 A statistically significant reduction in the median number of days of severe neutropenia (ANC < 500/mm3) occurred in the NEUPOGEN-treated groups versus the control group (23 days in the control group‚ 11 days in the 10 mcg/kg/day group, and 14 days in the 30 mcg/kg/day group [11 days in the combined treatment groups‚ p = 0.004]).
 
 In Study 9, patients with Hodgkin’s disease and non-Hodgkin’s lymphoma received a preparative regimen of intravenous cyclophosphamide, etoposide, and BCNU (“CVP”).
-There were 43 evaluable patients randomized to continuous subcutaneous infusion NEUPOGEN 10 mcg/kg/day (n=19), NEUPOGEN 30 mcg/kg/day (n=10) and no treatment (n=14) starting the day after marrow infusion for a maximum of 28 days.
+There were 43 evaluable patients randomized to continuous subcutaneous infusion NEUPOGEN 10 mcg/kg/day (n = 19), NEUPOGEN 30 mcg/kg/day (n = 10) and no treatment (n = 14) starting the day after marrow infusion for a maximum of 28 days.
 The median age was 33 (range 17 to 56) years; 67% males; 28% Hodgkin’s disease and 72% non-Hodgkin’s lymphoma.
 
 The main efficacy endpoint was duration of severe neutropenia.
 There was statistically significant reduction in the median number of days of severe neutropenia (ANC < 500/mm3) in the NEUPOGEN-treated groups versus the control group (21.5 days in the control group versus 10 days in the NEUPOGEN-treated groups, p < 0.001).
 The number of days of febrile neutropenia was also reduced significantly in this study (13.5 days in the control group versus 5 days in the NEUPOGEN-treated groups‚ p < 0.0001).
 
-In Study 10, 70 patients scheduled to undergo bone marrow transplantation for multiple underlying conditions using multiple preparative regimens were randomized to receive NEUPOGEN 300 mcg/m2/day (n=33) or placebo (n=37) days 5 through 28 after marrow infusion.
+In Study 10, 70 patients scheduled to undergo bone marrow transplantation for multiple underlying conditions using multiple preparative regimens were randomized to receive NEUPOGEN 300 mcg/m2/day (n = 33) or placebo (n = 37) days 5 through 28 after marrow infusion.
 The median age was 18 (range 1 to 45) years, 56% males.
 The underlying disease was: 67% hematologic malignancy, 24% aplastic anemia, 9% other.
 A statistically significant reduction in the median number of days of severe neutropenia occurred in the treated group versus the control group (19 days in the control group and 15 days in the treatment group‚ p < 0.001) and time to recovery of ANC to ≥ 500/mm3 (21 days in the control group and 16 days in the treatment group‚ p < 0.001).
@@ -112,7 +112,7 @@ The incidence for each of these 5 clinical parameters was lower in the NEUPOGEN 
 An analysis of variance showed no significant interaction between treatment and diagnosis‚ suggesting that efficacy did not differ substantially in the different diseases.
 Although NEUPOGEN substantially reduced neutropenia in all patient groups‚ in patients with cyclic neutropenia‚ cycling persisted but the period of neutropenia was shortened to 1 day.
 
-## 14.6Patients Acutely Exposed to Myelosuppressive Doses of Radiation (Hematopoietic Syndrome of Acute Radiation Syndrome)
+## 14.6 Patients Acutely Exposed to Myelosuppressive Doses of Radiation (Hematopoietic Syndrome of Acute Radiation Syndrome)
 
 Efficacy studies of NEUPOGEN could not be conducted in humans with acute radiation syndrome for ethical and feasibility reasons.
 Approval of this indication was based on efficacy studies conducted in animals and data supporting the use of NEUPOGEN for other approved indications [see Dosage and Administration (2.1 to 2.4)].

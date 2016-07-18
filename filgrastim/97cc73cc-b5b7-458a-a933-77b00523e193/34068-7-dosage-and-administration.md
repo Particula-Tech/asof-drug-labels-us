@@ -46,12 +46,16 @@ The use of NEUPOGEN prior to confirmation of a correct diagnosis of SCN may impa
 
 The recommended starting dosage in patients with Congenital Neutropenia is 6 mcg/kg as a twice daily subcutaneous injection and the recommended starting dosage in patients with Idiopathic or Cyclic Neutropenia is 5 mcg/kg as a single daily subcutaneous injection.
 
-Dosage Adjustments in Patients with Severe Chronic Neutropenia Chronic daily administration is required to maintain clinical benefit.
+Dosage Adjustments in Patients with Severe Chronic Neutropenia
+
+Chronic daily administration is required to maintain clinical benefit.
 Individualize the dosage based on the patient’s clinical course as well as ANC.
 In the SCN postmarketing surveillance study, the reported median daily doses of NEUPOGEN were: 6 mcg/kg (congenital neutropenia), 2.1 mcg/kg (cyclic neutropenia), and 1.2 mcg/kg (idiopathic neutropenia).
 In rare instances, patients with congenital neutropenia have required doses of NEUPOGEN greater than or equal to 100 mcg/kg/day.
 
-Monitor CBCs for Dosage Adjustments During the initial 4 weeks of NEUPOGEN therapy and during the 2 weeks following any dosage adjustment‚ monitor CBCs with differential and platelet counts.
+Monitor CBCs for Dosage Adjustments
+
+During the initial 4 weeks of NEUPOGEN therapy and during the 2 weeks following any dosage adjustment‚ monitor CBCs with differential and platelet counts.
 Once a patient is clinically stable‚ monitor CBCs with differential and platelet counts monthly during the first year of treatment.
 Thereafter, if the patient is clinically stable, less frequent routine monitoring is recommended.
 
@@ -78,12 +82,24 @@ Do not administer NEUPOGEN if particulates or discoloration are observed.
 Discard unused portion of NEUPOGEN in vials or prefilled syringes; do not re-enter the vial.
 Do not save unused drug for later administration.
 
-Subcutaneous Injection Inject NEUPOGEN subcutaneously in the outer area of upper arms, abdomen, thighs, or upper outer areas of the buttock.
-If patients or caregivers are to administer NEUPOGEN, instruct them in appropriate injection technique and ask them to follow the subcutaneous injection procedures in the Patient Information.
+Subcutaneous Injection
 
-Administration Instructions for the Prefilled Syringe Persons with latex allergies should not administer the NEUPOGEN prefilled syringe, because the needle cap contains dry natural rubber (derived from latex).
+Inject NEUPOGEN subcutaneously in the outer area of upper arms, abdomen, thighs, or upper outer areas of the buttock.
+If patients or caregivers are to administer NEUPOGEN, instruct them in appropriate injection technique and ask them to follow the subcutaneous injection procedures in the Instructions for Use for the vial or prefilled syringe [see Patient Counseling Information (17)].
 
-Administration Instructions for Dilution (Vial Only) If required for intravenous administration‚ NEUPOGEN (vial only) may be diluted in 5% Dextrose Injection, USP from a concentration of 300 mcg/mL to 5 mcg/mL (do not dilute to a final concentration less than 5 mcg/mL).
+Training by the healthcare provider should aim to demonstrate to those patients and caregivers how to measure the dose of NEUPOGEN, and the focus should be on ensuring that a patient or caregiver can successfully perform all of the steps in the Instructions for Use for the vial or prefilled syringe.
+If a patient or caregiver is not able to demonstrate that they can measure the dose and administer the product successfully, you should consider whether the patient is an appropriate candidate for self-administration of NEUPOGEN or whether the patient would benefit from a different NEUPOGEN presentation.
+If a patient or caregiver experiences difficulty measuring the required dose, especially if it is other than the entire contents of the NEUPOGEN prefilled syringe, use of the NEUPOGEN vial may be considered.
+
+If the patient or caregiver misses a dose of NEUPOGEN, instruct them to contact their healthcare provider.
+
+Administration Instructions for the Prefilled Syringe
+
+Persons with latex allergies should not administer the NEUPOGEN prefilled syringe, because the needle cap contains dry natural rubber (derived from latex).
+
+Administration Instructions for Dilution (Vial Only)
+
+If required for intravenous administration‚ NEUPOGEN (vial only) may be diluted in 5% Dextrose Injection, USP from a concentration of 300 mcg/mL to 5 mcg/mL (do not dilute to a final concentration less than 5 mcg/mL).
 NEUPOGEN diluted to concentrations from 5 mcg/mL to 15 mcg/mL should be protected from adsorption to plastic materials by the addition of Albumin (Human) to a final concentration of 2 mg/mL.
 When diluted in 5% Dextrose Injection, USP or 5% Dextrose plus Albumin (Human)‚ NEUPOGEN is compatible with glass bottles‚ polyvinyl chloride (PVC) and polyolefin intravenous bags‚ and polypropylene syringes.
 Do not dilute with saline at any time because the product may precipitate.
