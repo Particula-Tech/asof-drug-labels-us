@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA050795"
+  ],
+  "inn": "doxycycline",
+  "labeler": "Mayne Pharma",
+  "package_ndcs": [
+    "51862-559-00",
+    "51862-559-60",
+    "51862-560-00",
+    "51862-560-12"
+  ],
+  "products": [
+    {
+      "form": "TABLET, DELAYED RELEASE",
+      "generic": "doxycycline hyclate",
+      "name": "DORYX MPC"
+    }
+  ],
+  "setid": "f9277bb8-982d-444d-9325-35d5c53a2d35",
+  "source": "dailymed"
+}
