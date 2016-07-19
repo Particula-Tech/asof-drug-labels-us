@@ -6,6 +6,6 @@ NDC 45802-736-84
 
 Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%/5%
 
-For External Use Only
+45g
 
-45 g
+For External Use Only

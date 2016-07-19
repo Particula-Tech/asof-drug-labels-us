@@ -9,7 +9,6 @@ The clinical significance of this in vitro antagonism is not known.
 ## 7.2 Concomitant Topical Medications
 
 Concomitant topical acne therapies should be used with caution since a possible cumulative irritancy effect may occur, especially with the use of peeling, desquamating, or abrasive agents.
-
 If irritancy or dermatitis occurs, reduce frequency of application or temporarily interrupt treatment and resume once the irritation subsides.
 Treatment should be discontinued if the irritation persists.
 
@@ -17,3 +16,7 @@ Treatment should be discontinued if the irritation persists.
 
 Clindamycin has been shown to have neuromuscular blocking properties that may enhance the action of other neuromuscular blocking agents.
 Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%/5% should be used with caution in patients receiving such agents.
+
+## 7.4 Topical Sulfone Products
+
+Use of topical benzoyl-peroxide-containing preparations with topical sulfone products may cause skin and facial hair to temporarily change color (yellow/orange).

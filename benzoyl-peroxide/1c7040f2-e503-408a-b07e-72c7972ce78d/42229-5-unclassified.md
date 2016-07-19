@@ -1,11 +1,9 @@
 # PATIENT INFORMATION
 
-PATIENT INFORMATION
-
 Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%/5%
 
-Important: For use on the skin only (topical use).
-Do not get Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%/5% in your mouth, eyes, vagina, or on your lips.
+| Important: For use on the skin only (topical use). Do not get Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%/5% in your mouth, eyes, vagina, or on your lips. |
+| --- |
 
 Read this Patient Information before you start using Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%/5% and each time you get a refill.
 There may be new information.
@@ -38,11 +36,14 @@ Before using Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%/5%, tell your 
   Clindamycin when taken by mouth or by injection has been reported to appear in breast milk.
   You and your healthcare provider should decide if you will use Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%/5% while breastfeeding.
 
-Tell your healthcare provider about all the medicines you take, including prescription or over-the-counter medicines, vitamins, herbal supplements, and skin products you use.
+Tell your healthcare provider about all the medicines you take,
+
+including prescription or over-the-counter medicines, vitamins, herbal supplements, and skin products you use.
 Using other topical acne products may increase the irritation of your skin when used with Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%/5%.
 
 - •Especially tell your healthcare provider if you take a medicine that contains erythromycin.
   Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%/5% should not be used with products that contain erythromycin.
+- •Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%/5% may cause skin and facial hair to temporarily change color (yellow or orange) when used with topical products that contain sulfones.
 
 How should I use Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%/5%?
 
@@ -51,7 +52,7 @@ How should I use Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%/5%?
 - •Apply a thin layer of Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%/5% to your face 1 time a day, in the evening or as directed by your healthcare provider.
   Wash your hands with soap and water after applying Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%/5%.
 - •Do not get Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%/5% in your mouth, eyes, nose, vagina, or on your lips.
-  Do not get Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%/5% on cuts or open wounds
+  Do not get Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%/5% on cuts or open wounds.
 
 What should I avoid while using Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%/5%?
 
@@ -70,9 +71,9 @@ Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%/5% may cause serious side e
   Stop using Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%/5% and call your healthcare provider right away if you have severe watery diarrhea, or bloody diarrhea.
 - •Allergic reactions.
   Stop using Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%/5% and call your healthcare provider or get help right away if you have any of the following symptoms:
-  - osevere itching
-  - oswelling of your face, eyes, lips, tongue, or throat
-  - otrouble breathing
+- osevere itching
+- oswelling of your face, eyes, lips, tongue, or throat
+- otrouble breathing
 
 The most common side effects with Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%/5% are skin reactions and may include redness, peeling, dryness, and burning.
 
@@ -123,6 +124,6 @@ Perrigo®
 
 Allegan, MI 49010 • www.perrigo.com
 
-Rev 12-14
+Rev 09-15
 
-5M400 RC J4
+5M400 RC J6

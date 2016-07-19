@@ -8,6 +8,7 @@ See FDA-approved patient labeling (Patient Information).
   To minimize exposure to sunlight, a hat or other clothing should be worn.
   Sunscreen may also be used.
 - •Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%/5% may bleach hair or colored fabric.
+- •Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%/5% may cause skin and facial hair to temporarily change color (yellow/orange) when used with topical sulfone products.
 
 Made in Israel
 
@@ -21,6 +22,6 @@ Perrigo®
 
 Allegan, MI 49010 • www.perrigo.com
 
-Rev 12-14
+Rev 09-15
 
-5M400 RC J4
+5M400 RC J6

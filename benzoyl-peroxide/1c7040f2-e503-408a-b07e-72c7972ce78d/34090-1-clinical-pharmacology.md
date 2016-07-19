@@ -8,7 +8,7 @@ Benzoyl Peroxide: Benzoyl peroxide is an oxidizing agent with bacteriocidal and 
 
 ## 12.3 Pharmacokinetics
 
-A comparative trial of the pharmacokinetics of clindamycin phosphate and benzoyl peroxide gel, 1.2%/5% and 1% clindamycin solution alone in 78 subjects indicated that mean plasma clindamycin levels during the 4-week dosing period were <0.5 ng/mL for both treatment groups.
+A comparative trial of the pharmacokinetics of clindamycin phosphate and benzoyl peroxide gel, 1.2%/5% and 1% clindamycin solution alone in 78 subjects indicated that mean plasma clindamycin levels during the 4-week dosing period were less than 0.5 ng/mL for both treatment groups.
 
 Benzoyl peroxide has been shown to be absorbed by the skin where it is converted to benzoic acid.
 Less than 2% of the dose enters systemic circulation as benzoic acid.
