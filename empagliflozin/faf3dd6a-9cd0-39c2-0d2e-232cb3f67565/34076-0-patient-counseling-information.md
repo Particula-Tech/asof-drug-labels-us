@@ -25,7 +25,8 @@ It is not known if JARDIANCE is excreted in breast milk; however, based on anima
 Hypotension Inform patients that hypotension may occur with JARDIANCE and advise them to contact their healthcare provider if they experience such symptoms [see Warnings and Precautions (5.1)].
 Inform patients that dehydration may increase the risk for hypotension, and to have adequate fluid intake.
 
-Ketoacidosis Inform patients that ketoacidosis has been reported during use of JARDIANCE.
+Ketoacidosis Inform patients that ketoacidosis is a serious life-threatening condition.
+Cases of ketoacidosis have been reported during use of JARDIANCE.
 Instruct patients to check ketones (when possible) if symptoms consistent with ketoacidosis occur even if blood glucose is not elevated.
 If symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness, and labored breathing) occur, instruct patients to discontinue JARDIANCE and seek medical advice immediately [see Warnings and Precautions (5.2)].
 
