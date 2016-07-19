@@ -9,4 +9,4 @@ In these conditions oral therapy is recommended.
 
 Rx only
 
-LAB-0143-5.0 October 2015
+LAB-0143-6.0 June 2016

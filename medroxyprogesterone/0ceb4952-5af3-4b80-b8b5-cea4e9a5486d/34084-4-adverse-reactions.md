@@ -32,6 +32,9 @@ See PRECAUTIONS for possible adverse effects on the fetus
 - –pyrexia
 - –fatigue
 - –malaise
+- –injection site reaction, injection site pain/tenderness, injection site persistent atrophy/indentation/dimpling, lipodystrophy acquired, injection site nodule/lump
+
+In a few instances there have been undesirable sequelae at the site of injection, such as residual lump, change in color of skin, or sterile abscess.
 
 ## Investigations
 
@@ -63,8 +66,6 @@ See PRECAUTIONS for possible adverse effects on the fetus
 ## Metabolism and Nutrition Disorders
 
 - –hypercalcemia
-
-In a few instances there have been undesirable sequelae at the site of injection, such as residual lump, change in color of skin, or sterile abscess.
 
 A statistically significant association has been demonstrated between use of estrogen-pro-gestin combination drugs and pulmonary embolism and cerebral thrombosis and embolism.
 For this reason patients on progestin therapy should be carefully observed.
