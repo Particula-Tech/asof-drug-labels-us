@@ -1,3 +1,3 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-CARDURA is contraindicated in patients with a known sensitivity to quinazolines (e.g., prazosin, terazosin), doxazosin, or any of the inert ingredients.
+The use of CARDURA is contraindicated in patients with a hypersensitivity to doxazosin, other quinazolines (e.g., prazosin, terazosin), or any of its components.

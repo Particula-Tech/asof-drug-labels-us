@@ -1,3 +1,1 @@
-Rx only
-
-LAB-0071-6.0 September 2014
+LAB-0071-7.0
