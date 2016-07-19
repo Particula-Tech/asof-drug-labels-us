@@ -13,6 +13,9 @@
 ## 2.2 Recommended Dosage in Patients with Renal Impairment
 
 - Assess renal function prior to initiation of SYNJARDY and periodically, thereafter.
-- Do not initiate or continue SYNJARDY in patients with serum creatinine levels greater than or equal to 1.5 mg/dL for males or 1.4 mg/dL for females.
-  In patients eligible for SYNJARDY based on creatinine cutoff criteria do not initiate or continue SYNJARDY if eGFR is persistently less than 45 mL/min/1.73 m2.
-  In patients eligible for SYNJARDY based on creatinine cutoff criteria, no dose adjustment is needed if eGFR is greater than or equal to 45 mL/min/1.73 m2 [see Contraindications (4) and Warnings and Precautions (5.4)].
+- SYNJARDY is contraindicated in patients with an eGFR less than 45 mL/min/1.73 m2 [see Contraindications (4) and Warnings and Precautions (5.1, 5.4)].
+
+## 2.3 Discontinuation for Iodinated Contrast Imaging Procedures
+
+Discontinue SYNJARDY at the time of, or prior to, an iodinated contrast imaging procedure in patients with an eGFR between 45 and 60 mL/min/1.73 m2; in patients with a history of liver disease, alcoholism or heart failure; or in patients who will be administered intra-arterial iodinated contrast.
+Re-evaluate eGFR 48 hours after the imaging procedure; restart SYNJARDY if renal function is stable [see Warnings and Precautions (5.1)].

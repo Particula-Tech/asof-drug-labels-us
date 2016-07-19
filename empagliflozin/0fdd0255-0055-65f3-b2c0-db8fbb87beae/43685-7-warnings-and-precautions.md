@@ -2,40 +2,50 @@
 
 ## 5.1 Lactic Acidosis
 
-Lactic acidosis is a serious, metabolic complication that can occur due to metformin accumulation during treatment with SYNJARDY and is fatal in approximately 50% of cases.
-Lactic acidosis may also occur in association with a number of pathophysiologic conditions, including diabetes mellitus, and whenever there is significant tissue hypoperfusion and hypoxemia.
-Lactic acidosis is characterized by elevated blood lactate levels (>5 mmol/L), decreased blood pH, electrolyte disturbances with an increased anion gap, and an increased lactate/pyruvate ratio.
-When metformin is implicated as the cause of lactic acidosis, metformin plasma levels of >5 µg/mL are generally found.
+There have been postmarketing cases of metformin-associated lactic acidosis, including fatal cases.
+These cases had a subtle onset and were accompanied by nonspecific symptoms such as malaise, myalgias, abdominal pain, respiratory distress, or increased somnolence; however, hypothermia, hypotension, and resistant bradyarrhythmias have occurred with severe acidosis.
+Metformin-associated lactic acidosis was characterized by elevated blood lactate concentrations (>5 mmol/Liter), anion gap acidosis (without evidence of ketonuria or ketonemia), and an increased lactate:pyruvate ratio; metformin plasma levels generally >5 mcg/mL.
+Metformin decreases liver uptake of lactate increasing lactate blood levels which may increase the risk of lactic acidosis, especially in patients at risk.
 
-The reported incidence of lactic acidosis in patients receiving metformin is approximately 0.03 cases/1000 patient-years, (with approximately 0.015 fatal cases/1000 patient-years).
-In more than 20,000 patient-years exposure to metformin in clinical trials, there were no reports of lactic acidosis.
-Reported cases have occurred primarily in diabetic patients with significant renal impairment, including both intrinsic renal disease and renal hypoperfusion, often in the setting of multiple concomitant medical/surgical problems and multiple concomitant medications.
-Patients with congestive heart failure requiring pharmacologic management, particularly when accompanied by hypoperfusion and hypoxemia due to unstable or acute failure, are at increased risk of lactic acidosis.
-The risk of lactic acidosis increases with the degree of renal impairment and the patient’s age.
-The risk of lactic acidosis may, therefore, be significantly decreased by regular monitoring of renal function in patients taking metformin.
-In particular, treatment of the elderly should be accompanied by careful monitoring of renal function.
-Metformin treatment should not be initiated in any patient unless measurement of creatinine clearance demonstrates that renal function is not reduced.
-In addition, metformin should be promptly withheld in the presence of any condition associated with hypoxemia, dehydration, or sepsis.
-Because impaired hepatic function may significantly limit the ability to clear lactate, metformin should be avoided in patients with clinical or laboratory evidence of hepatic impairment.
-Patients should be cautioned against excessive alcohol intake when taking metformin, since alcohol potentiates the effects of metformin on lactate metabolism.
-In addition, metformin should be temporarily discontinued prior to any intravascular radiocontrast study and for any surgical procedure necessitating restricted intake of food or fluids.
-Use of topiramate, a carbonic anhydrase inhibitor, in epilepsy and migraine prophylaxis may cause dose-dependent metabolic acidosis and may exacerbate the risk of metformin-induced lactic acidosis [see Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
+If metformin-associated lactic acidosis is suspected, general supportive measures should be instituted promptly in a hospital setting, along with immediate discontinuation of SYNJARDY.
+In SYNJARDY-treated patients with a diagnosis or strong suspicion of lactic acidosis, prompt hemodialysis is recommended to correct the acidosis and remove accumulated metformin (metformin hydrochloride is dialyzable, with a clearance of up to 170 mL/minute under good hemodynamic conditions).
+Hemodialysis has often resulted in reversal of symptoms and recovery.
 
-The onset of lactic acidosis is often subtle, and accompanied by nonspecific symptoms such as malaise, myalgias, respiratory distress, increasing somnolence, and nonspecific abdominal distress.
-More severe acidosis may be associated with signs such as hypothermia, hypotension, and resistant bradyarrhythmias.
-Patients should be educated to recognize and promptly report these symptoms.
-If present, SYNJARDY should be discontinued until lactic acidosis is ruled out.
-Gastrointestinal symptoms, which are commonly reported during initiation of metformin therapy are less frequently observed in subjects on a chronic, stable, dose of metformin.
-Gastrointestinal symptoms in subjects on chronic, stable, dose of metformin could be caused by lactic acidosis or other serious disease.
+Educate patients and their families about the symptoms of lactic acidosis and if these symptoms occur instruct them to discontinue SYNJARDY and report these symptoms to their healthcare provider.
 
-To rule out lactic acidosis, serum electrolytes, ketones, blood glucose, blood pH, lactate levels, and blood metformin levels may be useful.
-Levels of fasting venous plasma lactate above the upper limit of normal but less than 5 mmol/L in patients taking metformin do not necessarily indicate impending lactic acidosis and may be due to other mechanisms, such as poorly-controlled diabetes or obesity, vigorous physical activity, or technical problems in sample handling.
+For each of the known and possible risk factors for metformin-associated lactic acidosis, recommendations to reduce the risk of and manage metformin-associated lactic acidosis are provided below:
 
-Lactic acidosis should be suspected in any diabetic patient with metabolic acidosis lacking evidence of ketoacidosis (ketonuria and ketonemia).
-Lactic acidosis is a medical emergency that must be treated in a hospital setting.
-In a patient with lactic acidosis who is taking metformin, the drug should be discontinued immediately and supportive measures promptly instituted.
-Metformin is dialyzable (clearance of up to 170 mL/min under good hemodynamic conditions) and prompt hemodialysis is recommended to remove the accumulated metformin and correct the metabolic acidosis.
-Such management often results in prompt reversal of symptoms and recovery [see Boxed Warning and Contraindications (4)].
+Renal Impairment: The postmarketing metformin-associated lactic acidosis cases primarily occurred in patients with significant renal impairment.
+The risk of metformin accumulation and metformin-associated lactic acidosis increases with the severity of renal impairment because metformin is substantially excreted by the kidney [see Clinical Pharmacology (12.3)].
+
+- Before initiating SYNJARDY, obtain an estimated glomerular filtration rate (eGFR).
+- SYNJARDY is contraindicated in patients with an eGFR below 45 mL/min/1.73 m2.
+- Obtain an eGFR at least annually in all patients taking SYNJARDY.
+  In patients at increased risk for the development of renal impairment (e.g., the elderly), renal function should be assessed more frequently.
+
+Drug Interactions: The concomitant use of SYNJARDY with specific drugs may increase the risk of metformin-associated lactic acidosis: those that impair renal function, result in significant hemodynamic change, interfere with acid-base balance or increase metformin accumulation (e.g., cationic drugs) [see Drug Interactions (7.2)].
+Therefore, consider more frequent monitoring of patients.
+
+Age 65 or Greater: The risk of metformin-associated lactic acidosis increases with the patient’s age because elderly patients have a greater likelihood of having hepatic, renal, or cardiac impairment than younger patients.
+Assess renal function more frequently in elderly patients [see Use in Specific Populations (8.5)].
+
+Radiological Studies with Contrast: Administration of intravascular iodinated contrast agents in metformin-treated patients has led to an acute decrease in renal function and the occurrence of lactic acidosis.
+Stop SYNJARDY at the time of, or prior to, an iodinated contrast imaging procedure in patients with an eGFR between 45 and 60 mL/min/1.73 m2; in patients with a history of hepatic impairment, alcoholism, or heart failure; or in patients who will be administered intra-arterial iodinated contrast.
+Re-evaluate eGFR 48 hours after the imaging procedure, and restart SYNJARDY if renal function is stable.
+
+Surgery and Other Procedures: Withholding of food and fluids during surgical or other procedures may increase the risk for volume depletion, hypotension and renal impairment.
+SYNJARDY should be temporarily discontinued while patients have restricted food and fluid intake.
+
+Hypoxic States: Several of the postmarketing cases of metformin-associated lactic acidosis occurred in the setting of acute congestive heart failure (particularly when accompanied by hypoperfusion and hypoxemia).
+Cardiovascular collapse (shock), acute myocardial infarction, sepsis, and other conditions associated with hypoxemia have been associated with lactic acidosis and may also cause prerenal azotemia.
+When such events occur, discontinue SYNJARDY.
+
+Excessive Alcohol Intake: Alcohol potentiates the effect of metformin on lactate metabolism and this may increase the risk of metformin-associated lactic acidosis.
+Warn patients against excessive alcohol intake while receiving SYNJARDY.
+
+Hepatic Impairment: Patients with hepatic impairment have developed cases of metformin-associated lactic acidosis.
+This may be due to impaired lactate clearance resulting in higher lactate blood levels.
+Therefore, avoid use of SYNJARDY in patients with clinical or laboratory evidence of hepatic disease.
 
 ## 5.2 Hypotension
 
@@ -47,6 +57,7 @@ Monitor for signs and symptoms of hypotension after initiating therapy and incre
 ## 5.3 Ketoacidosis
 
 Reports of ketoacidosis, a serious life-threatening condition requiring urgent hospitalization have been identified in postmarketing surveillance in patients with type 1 and type 2 diabetes mellitus receiving sodium glucose co-transporter-2 (SGLT2) inhibitors, including empagliflozin.
+Fatal cases of ketoacidosis have been reported in patients taking empagliflozin.
 SYNJARDY is not indicated for the treatment of patients with type 1 diabetes mellitus [see Indications and Usage (1)].
 
 Patients treated with SYNJARDY who present with signs and symptoms consistent with severe metabolic acidosis should be assessed for ketoacidosis regardless of presenting blood glucose levels, as ketoacidosis associated with SYNJARDY may be present even if blood glucose levels are less than 250 mg/dL.
@@ -63,21 +74,10 @@ In patients treated with SYNJARDY consider monitoring for ketoacidosis and tempo
 ## 5.4 Impairment in Renal Function
 
 Empagliflozin increases serum creatinine and decreases eGFR [see Adverse Reactions (6.1)].
-The risk of impaired renal function with empagliflozin is increased in elderly patients and patients with moderate renal impairment.
+The risk of impaired renal function with empagliflozin is increased in elderly patients and patients with renal impairment.
 
-Metformin is known to be substantially excreted by the kidney.
-The risk of metformin accumulation and lactic acidosis increases with the degree of renal impairment.
-Therefore, SYNJARDY is contraindicated in patients with renal impairment (serum creatinine levels greater than or equal to 1.5 mg/dL for males or 1.4 mg/dL for females, or eGFR less than 45 mL/min/1.73 m2) [see Contraindications (4), Warnings and Precautions (5.1), and Use in Specific Populations (8.6)].
-
-Before initiation of therapy with SYNJARDY and at least annually thereafter, renal function should be assessed and verified to be normal.
-In patients in whom development of renal impairment is anticipated (e.g., elderly), renal function should be assessed more frequently and SYNJARDY discontinued if evidence of renal impairment is present (serum creatinine levels greater than or equal to 1.5 mg/dL for males or 1.4 mg/dL for females, or eGFR less than 45 mL/min/1.73 m2).
-
-Use of concomitant medications that may affect renal function or metformin disposition: Concomitant medication(s) that may affect renal function or result in significant hemodynamic change or interfere with the disposition of metformin should be used with caution [see Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
-
-Radiological studies and surgical procedures: Radiologic studies involving the use of intravascular iodinated contrast materials (e.g., intravenous urogram, intravenous cholangiography, angiography, and computed tomography) can lead to acute alteration of renal function and have been associated with lactic acidosis in patients receiving metformin.
-Therefore, in patients in whom any such study is planned, SYNJARDY should be temporarily discontinued at the time of or prior to the procedure, and withheld for 48 hours subsequent to the procedure and reinstituted only after renal function has been confirmed to be normal.
-
-SYNJARDY should be temporarily discontinued for any surgical procedure (except minor procedures not associated with restricted intake of food and fluids) and should not be restarted until the patient’s oral intake has resumed and renal function has been evaluated as normal.
+Before initiation of therapy with SYNJARDY and at least annually thereafter, renal function should be assessed.
+In patients in whom development of renal impairment is anticipated (e.g., elderly), renal function should be assessed more frequently and SYNJARDY discontinued if eGFR is below 45 mL/min/1.73 m2.
 
 ## 5.5 Urosepsis and Pyelonephritis
 
@@ -85,11 +85,7 @@ There have been postmarketing reports of serious urinary tract infections includ
 Treatment with SGLT2 inhibitors increases the risk for urinary tract infections.
 Evaluate patients for signs and symptoms of urinary tract infections and treat promptly, if indicated [see Adverse Reactions (6)].
 
-## 5.6 Impaired Hepatic Function
-
-Because impaired hepatic function has been associated with some cases of lactic acidosis with metformin therapy, SYNJARDY should generally be avoided in patients with clinical or laboratory evidence of hepatic disease [see Warnings and Precautions (5.1)].
-
-## 5.7 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
+## 5.6 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
 
 Empagliflozin Insulin and insulin secretagogues are known to cause hypoglycemia.
 The risk of hypoglycemia is increased when empagliflozin is used in combination with insulin secretagogues (e.g., sulfonylurea) or insulin [see Adverse Reactions (6.1)].
@@ -100,13 +96,13 @@ Elderly, debilitated, or malnourished patients, and those with adrenal or pituit
 Hypoglycemia may be difficult to recognize in the elderly, and in people who are taking β-adrenergic blocking drugs.
 Monitor for a need to lower the dose of SYNJARDY to minimize the risk of hypoglycemia in these patients.
 
-## 5.8 Genital Mycotic Infections
+## 5.7 Genital Mycotic Infections
 
 Empagliflozin increases the risk for genital mycotic infections [see Adverse Reactions (6.1)].
 Patients with a history of chronic or recurrent genital mycotic infections were more likely to develop mycotic genital infections.
 Monitor and treat as appropriate.
 
-## 5.9 Vitamin B12 Levels
+## 5.8 Vitamin B12 Levels
 
 In controlled, 29-week clinical trials of metformin, a decrease to subnormal levels of previously normal serum vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of metformin-treated patients.
 Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, is, however, very rarely associated with anemia or neurologic manifestations due to the short duration (<1 year) of the clinical trials.
@@ -116,21 +112,11 @@ Measurement of hematologic parameters on an annual basis is advised in patients 
 Certain individuals (those with inadequate vitamin B12 or calcium intake or absorption) appear to be predisposed to developing subnormal vitamin B12 levels.
 In these patients, routine serum vitamin B12 measurement at 2- to 3-year intervals may be useful.
 
-## 5.10 Alcohol Intake
-
-Alcohol is known to potentiate the effect of metformin on lactate metabolism.
-Patients, therefore, should be warned against excessive alcohol intake while receiving SYNJARDY [see Warnings and Precautions (5.1)].
-
-## 5.11 Hypoxic States
-
-Cardiovascular collapse (shock) from whatever cause (e.g., acute congestive heart failure, acute myocardial infarction, and other conditions characterized by hypoxemia) have been associated with lactic acidosis and may also cause prerenal azotemia.
-When such events occur in patients on SYNJARDY therapy, the drug should be promptly discontinued [see Warnings and Precautions (5.1)].
-
-## 5.12 Increased Low-Density Lipoprotein Cholesterol (LDL-C)
+## 5.9 Increased Low-Density Lipoprotein Cholesterol (LDL-C)
 
 Increases in LDL-C can occur with empagliflozin.
 Monitor and treat as appropriate.
 
-## 5.13 Macrovascular Outcomes
+## 5.10 Macrovascular Outcomes
 
 There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with SYNJARDY, or any other antidiabetic drug.

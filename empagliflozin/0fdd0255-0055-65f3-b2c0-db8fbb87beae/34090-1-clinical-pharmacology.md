@@ -11,7 +11,7 @@ By inhibiting SGLT2, empagliflozin reduces renal reabsorption of filtered glucos
 Metformin hydrochloride Metformin is an antihyperglycemic agent which improves glucose tolerance in patients with type 2 diabetes mellitus, lowering both basal and postprandial plasma glucose.
 It is not chemically or pharmacologically related to any other classes of oral antihyperglycemic agents.
 Metformin decreases hepatic glucose production, decreases intestinal absorption of glucose, and improves insulin sensitivity by increasing peripheral glucose uptake and utilization.
-Unlike SUs, metformin does not produce hypoglycemia in either patients with type 2 diabetes mellitus or normal subjects (except in special circumstances) [see Warnings and Precautions (5.7)] and does not cause hyperinsulinemia.
+Unlike SUs, metformin does not produce hypoglycemia in either patients with type 2 diabetes mellitus or normal subjects (except in special circumstances) [see Warnings and Precautions (5.6)] and does not cause hyperinsulinemia.
 With metformin therapy, insulin secretion remains unchanged while fasting insulin levels and day-long plasma insulin response may actually decrease.
 
 ## 12.2 Pharmacodynamics
@@ -70,8 +70,7 @@ Elimination Renal clearance is approximately 3.5 times greater than creatinine c
 Following oral administration, approximately 90% of the absorbed drug is eliminated via the renal route within the first 24 hours, with a plasma elimination half-life of approximately 6.2 hours.
 In blood, the elimination half-life is approximately 17.6 hours, suggesting that the erythrocyte mass may be a compartment of distribution.
 
-Specific Populations Renal Impairment SYNJARDY: Studies characterizing the pharmacokinetics of empagliflozin and metformin after administration of SYNJARDY in renally impaired patients have not been performed.
-Since metformin is contraindicated in patients with renal impairment, use of SYNJARDY is also contraindicated in patients with renal impairment (serum creatinine levels greater than or equal to 1.5 mg/dL for males or 1.4 mg/dL for females, or eGFR less than 45 mL/min/1.73 m2) [see Contraindications (4) and Warnings and Precautions (5.4)].
+Specific Populations Renal Impairment SYNJARDY: Studies characterizing the pharmacokinetics of empagliflozin and metformin after administration of SYNJARDY in renally impaired patients have not been performed [see Contraindications (4) and Warnings and Precautions (5.4)].
 
 Empagliflozin: In patients with mild (eGFR: 60 to less than 90 mL/min/1.73 m2), moderate (eGFR: 30 to less than 60 mL/min/1.73 m2), and severe (eGFR: less than 30 mL/min/1.73 m2) renal impairment and subjects with kidney failure/end stage renal disease (ESRD) patients, AUC of empagliflozin increased by approximately 18%, 20%, 66%, and 48%, respectively, compared to subjects with normal renal function.
 Peak plasma levels of empagliflozin were similar in subjects with moderate renal impairment and kidney failure/ESRD compared to patients with normal renal function.
@@ -79,11 +78,9 @@ Peak plasma levels of empagliflozin were roughly 20% higher in subjects with mil
 Population pharmacokinetic analysis showed that the apparent oral clearance of empagliflozin decreased with a decrease in eGFR leading to an increase in drug exposure.
 However, the fraction of empagliflozin that was excreted unchanged in urine, and urinary glucose excretion, declined with decrease in eGFR.
 
-Metformin hydrochloride: In patients with decreased renal function (based on measured creatinine clearance), the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased in proportion to the decrease in creatinine clearance [see Contraindications (4) and Warnings and Precautions (5.4)].
+Metformin hydrochloride: In patients with decreased renal function (based on measured eGFR), the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased in proportion to the decrease in eGFR [see Contraindications (4) and Warnings and Precautions (5.1)].
 
-Hepatic Impairment SYNJARDY: Studies characterizing the pharmacokinetics of empagliflozin and metformin after administration of SYNJARDY in hepatically impaired patients have not been performed.
-However, use of metformin alone in patients with hepatic impairment has been associated with some cases of lactic acidosis.
-Therefore, use of SYNJARDY is not recommended in patients with hepatic impairment [see Warnings and Precautions (5.6)].
+Hepatic Impairment SYNJARDY: Studies characterizing the pharmacokinetics of empagliflozin and metformin after administration of SYNJARDY in hepatically impaired patients have not been performed [see Warnings and Precautions (5.1)].
 
 Empagliflozin: In subjects with mild, moderate, and severe hepatic impairment according to the Child-Pugh classification, AUC of empagliflozin increased by approximately 23%, 47%, and 75%, and Cmax increased by approximately 4%, 23%, and 48%, respectively, compared to subjects with normal hepatic function.
 
@@ -108,10 +105,10 @@ Pediatric Studies characterizing the pharmacokinetics of empagliflozin or metfor
 
 Drug Interactions Pharmacokinetic drug interaction studies with SYNJARDY have not been performed; however, such studies have been conducted with the individual components empagliflozin and metformin.
 
-Empagliflozin In vitro Assessment of Drug Interactions: In vitro data suggest that the primary route of metabolism of empagliflozin in humans is glucuronidation by the uridine 5'-diphospho-glucuronosyltransferases UGT2B7, UGT1A3, UGT1A8, and UGT1A9.
-Empagliflozin does not inhibit, inactivate, or induce CYP450 isoforms.
-Empagliflozin also does not inhibit UGT1A1.
-Therefore, no effect of empagliflozin is anticipated on concomitantly administered drugs that are substrates of the major CYP450 isoforms or UGT1A1.
+Empagliflozin In vitro Assessment of Drug Interactions: Empagliflozin does not inhibit, inactivate, or induce CYP450 isoforms.
+In vitro data suggest that the primary route of metabolism of empagliflozin in humans is glucuronidation by the uridine 5'-diphospho-glucuronosyltransferases UGT1A3, UGT1A8, UGT1A9, and UGT2B7.
+Empagliflozin does not inhibit UGT1A1, UGT1A3, UGT1A8, UGT1A9, or UGT2B7.
+Therefore, no effect of empagliflozin is anticipated on concomitantly administered drugs that are substrates of the major CYP450 isoforms or UGT1A1, UGT1A3, UGT1A8, UGT1A9, or UGT2B7.
 The effect of UGT induction (e.g., induction by rifampicin or any other UGT enzyme inducer) on empagliflozin exposure has not been evaluated.
 
 Empagliflozin is a substrate for P-glycoprotein (P-gp) and breast cancer resistance protein (BCRP), but it does not inhibit these efflux transporters at therapeutic doses.
@@ -147,9 +144,9 @@ Table 5 Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
 | Nifedipine | 10 mg | 850 mg | metformin | 1.16 | 1.21 |
 | Propranolol | 40 mg | 850 mg | metformin | 0.90 | 0.94 |
 | Ibuprofen | 400 mg | 850 mg | metformin | 1.05‡ | 1.07‡ |
-| Cationic drugs eliminated by renal tubular secretion may reduce metformin elimination: use with caution [see Warnings and Precautions (5.4) and Drug Interactions (7.1)]. |  |  |  |  |  |
+| Drugs that are eliminated by renal tubular secretion may increase the accumulation of metformin [see Warnings and Precautions (5.1) and Drug Interactions (7.1)]. |  |  |  |  |  |
 | Cimetidine | 400 mg | 850 mg | metformin | 1.40 | 1.61 |
-| Carbonic anhydrase inhibitors may cause metabolic acidosis: use with caution [see Warnings and Precautions (5.1) and Drug Interactions (7.1)]. |  |  |  |  |  |
+| Carbonic anhydrase inhibitors may cause metabolic acidosis [see Warnings and Precautions (5.1) and Drug Interactions (7.1)]. |  |  |  |  |  |
 | Topiramate** | 100 mg | 500 mg | metformin | 1.25 | 1.17 |
 | * All metformin and coadministered drugs were given as single doses † AUC = AUC(INF) ‡ Ratio of arithmetic means **At steady state with topiramate 100 mg every 12 hours and metformin 500 mg every 12 hours; AUC = AUC0-12h |  |  |  |  |  |
 
