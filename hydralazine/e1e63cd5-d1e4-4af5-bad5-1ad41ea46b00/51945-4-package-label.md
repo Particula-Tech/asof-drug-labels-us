@@ -8,6 +8,7 @@ BiDil® isosorbide dinitrate 20 mg/hydralazine HCl 37.5 mg
 
 Store at room temperature 15°C - 30°C (59°F - 86°F)
 
-BDTL1.02 Rev 05/15 CIA75473C
+BDTL1.03 Rev.
+03/16 CIA75473D
 
 U.S. Patent #s 6,784,177; 6,465,463
