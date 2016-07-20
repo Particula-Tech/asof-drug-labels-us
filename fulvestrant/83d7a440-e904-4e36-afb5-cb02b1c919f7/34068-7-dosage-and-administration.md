@@ -4,11 +4,11 @@
 
 Monotherapy
 
-The recommended dose is 500 mg to be administered intramuscularly into the buttocks slowly (1 - 2 minutes per injection) as two 5 mL injections, one in each buttock, on days 1, 15, 29 and once monthly thereafter [see Clinical Studies (14)].
+The recommended dose is 500 mg to be administered intramuscularly into the buttocks (gluteal area) slowly (1 - 2 minutes per injection) as two 5 mL injections, one in each buttock, on days 1, 15, 29 and once monthly thereafter [see Clinical Studies (14)].
 
 Combination Therapy with Palbociclib
 
-When FASLODEX is used in combination with palbociclib, the recommended dose is 500 mg to be administered intramuscularly into the buttocks slowly (1 - 2 minutes per injection) as two 5 mL injections, one in each buttock, on days 1, 15, 29 and once monthly thereafter.
+When FASLODEX is used in combination with palbociclib, the recommended dose is 500 mg to be administered intramuscularly into the buttocks (gluteal area) slowly (1 - 2 minutes per injection) as two 5 mL injections, one in each buttock, on days 1, 15, 29 and once monthly thereafter.
 The recommended dose of palbociclib is a 125 mg capsule taken orally once daily for 21 consecutive days followed by 7 days off treatment to comprise a complete cycle of 28 days.
 Palbociclib should be taken with food.
 Please refer to the full prescribing information of palbociclib.
@@ -21,7 +21,7 @@ Monotherapy
 
 Hepatic Impairment:
 
-A dose of 250 mg is recommended for patients with moderate hepatic impairment (Child-Pugh class B) to be administered intramuscularly into the buttock slowly (1 - 2 minutes) as one 5 mL injection on days 1, 15, 29 and once monthly thereafter.
+A dose of 250 mg is recommended for patients with moderate hepatic impairment (Child-Pugh class B) to be administered intramuscularly into the buttock (gluteal area) slowly (1 - 2 minutes) as one 5 mL injection on days 1, 15, 29 and once monthly thereafter.
 
 FASLODEX has not been evaluated in patients with severe hepatic impairment (Child-Pugh class C) [see Warnings and Precautions (5.2) and Use in Specific Populations (8.6)].
 
@@ -31,6 +31,10 @@ When FASLODEX is used in combination with palbociclib, refer to monotherapy dose
 Refer to the full prescribing information of palbociclib for its dose modification, management of toxicities, and for use with concomitant medication.
 
 ## 2.3 Administration Technique
+
+Administer the injection according to the local guidelines for performing large volume intramuscular injections.
+
+NOTE: Due to the proximity of the underlying sciatic nerve, caution should be taken if administering FASLODEX at the dorsogluteal injection site [see Warnings and Precautions (5.3) and Adverse Reactions (6.1)].
 
 The proper method of administration of FASLODEX for intramuscular use is described in the following instructions.
 
@@ -44,12 +48,8 @@ For each syringe:
 5. 5.Hold the syringe upright on the ribbed part (C).
    With the other hand, take hold of the cap (A) and carefully tilt cap back and forth (DO NOT TWIST CAP) until the cap disconnects for removal (see Figure 1).
 
-Figure 1
-
 1. 6.Pull the cap (A) off in a straight upward direction.
    DO NOT TOUCH THE STERILE SYRINGE TIP (Luer-Lok) (B) (see Figure 2).
-
-Figure 2
 
 1. 7.Attach the safety needle to the syringe tip (Luer-Lok).
    Twist needle until firmly seated (see Figure 3).
@@ -61,17 +61,13 @@ Figure 3
 2. 8.Pull shield straight off needle to avoid damaging needle point.
 3. 9.Remove needle sheath.
 4. 10.Expel excess gas from the syringe (a small gas bubble may remain).
-5. 11.Administer intramuscularly slowly (1-2 minutes/injection) into the buttock.
+5. 11.Administer intramuscularly slowly (1-2 minutes/injection) into the buttock (gluteal area).
    For user convenience, the needle ‘bevel up’ position is orientated to the lever arm, as shown in Figure 4.
-
-Figure 4
 
 1. 12.After injection, immediately activate the lever arm to deploy the needle shielding by applying a single-finger stroke to the activation assisted lever arm to push the lever arm completely forward.
    Listen for a click.
    Confirm that the needle shielding has completely covered the needle (see Figure 5).
 2. NOTE: Activate away from self and others.
-
-Figure 5
 
 1. 13.Discard the empty single use syringe into an approved sharps collector in accordance with applicable regulations and institutional policy.
 2. 14.Repeat steps 1 through 13 for second syringe.

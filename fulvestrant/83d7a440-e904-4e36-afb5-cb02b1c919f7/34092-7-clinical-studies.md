@@ -109,7 +109,7 @@ At the time of final analysis of PFS, OS data were not mature with 29% of events
 
 Table 8: Efficacy Results - Study 4 (Investigator Assessment, ITT Population)
 
-|  | FASLODEX plus palbociclib(N=347) | FASLODEX plus placebo(N=174) |
+| : | FASLODEX plus palbociclib(N=347) | FASLODEX plus placebo(N=174) |
 | --- | --- | --- |
 | Progression-Free Survival |  |  |
 | Number of PFS Events (%) | 145 (41.8%) | 114 (65.5%) |

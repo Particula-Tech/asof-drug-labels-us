@@ -4,7 +4,8 @@ The following adverse reactions are discussed in more detail in other sections o
 
 - •Risk of Bleeding [see Warnings and Precautions (5.1)]
 - •Increased Exposure in Patients with Hepatic Impairment [see Warnings and Precautions (5.2)]
-- •Embryo-Fetal Toxicity [see Warnings and Precautions (5.3)]
+- •Injection Site Reaction [see Warnings and Precautions (5.3)]
+- •Embryo-Fetal Toxicity [see Warnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -25,7 +26,7 @@ Table 1: Adverse Reactions in Study 1 (≥5% in Either Treatment Group)
 | --- | --- | --- |
 | Fulvestrant 500 mg N=361 | Fulvestrant 250 mgN=374 |  |
 | Body as a Whole |  |  |
-| Injection Site Pain | 42 (11.6) | 34 (9.1) |
+| Injection Site PainIncluding more severe injection site related sciatica, neuralgia, neuropathic pain, and peripheral neuropathy. | 42 (11.6) | 34 (9.1) |
 | Headache | 28 (7.8) | 25 (6.7) |
 | Back Pain | 27 (7.5) | 40 (10.7) |
 | Fatigue | 27 (7.5) | 24 (6.4) |
@@ -68,7 +69,7 @@ Table 2: Adverse Reactions in Studies 2 and 3 (≥5% from Combined Data)
 | Headache | 15.4 | 16.8 |
 | Back Pain | 14.4 | 13.2 |
 | Abdominal Pain | 11.8 | 11.6 |
-| Injection Site PainAll patients on FASLODEX received injections, but only those anastrozole patients who were in the North American Study 2 received placebo injections. | 10.9 | 6.6 |
+| Injection Site PainIncluding more severe injection site related sciatica, neuralgia, neuropathic pain, and peripheral neuropathy. All patients on FASLODEX received injections, but only those anastrozole patients who were in the North American Study 2 received placebo injections. | 10.9 | 6.6 |
 | Pelvic Pain | 9.9 | 9.0 |
 | Chest Pain | 7.1 | 5.0 |
 | Flu Syndrome | 7.1 | 6.4 |
