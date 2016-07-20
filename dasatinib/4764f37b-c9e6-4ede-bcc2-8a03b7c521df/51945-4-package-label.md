@@ -22,4 +22,4 @@ See How Supplied section for a complete list of available packages of SPRYCEL.
 
 # SPRYCEL 140 mg tablets Representative Packaging
 
-30 Tablets NDC 0003-0857-22 SPRYCEL® (dasatinib) Tablets 140 mg Rx only Do not crush or cut tablet Bristol-Myers Squibb
+1. 30 Tablets NDC 0003-0857-22 SPRYCEL® (dasatinib) Tablets 140 mg Rx only Do not crush or cut tablet Bristol-Myers Squibb
