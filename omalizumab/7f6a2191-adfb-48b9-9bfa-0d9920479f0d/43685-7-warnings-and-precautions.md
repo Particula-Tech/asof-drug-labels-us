@@ -22,12 +22,12 @@ Discontinue Xolair in patients who experience a severe hypersensitivity reaction
 
 ## 5.2 Malignancy
 
-Malignant neoplasms were observed in 20 of 4127 (0.5%) Xolair-treated patients compared with 5 of 2236 (0.2%) control patients in clinical studies of adults and adolescents (≥ 12 years of age) with asthma and other allergic disorders.
+Malignant neoplasms were observed in 20 of 4127 (0.5%) Xolair-treated patients compared with 5 of 2236 (0.2%) control patients in clinical studies of adults and adolescents ≥ 12 years of age with asthma and other allergic disorders.
 The observed malignancies in Xolair-treated patients were a variety of types, with breast, non-melanoma skin, prostate, melanoma, and parotid occurring more than once, and five other types occurring once each.
 The majority of patients were observed for less than 1 year.
 The impact of longer exposure to Xolair or use in patients at higher risk for malignancy (e.g., elderly, current smokers) is not known.
 
-In a subsequent observational study of 5007 Xolair-treated and 2829 non-Xolair-treated patients with moderate to severe persistent asthma and a positive skin test reaction or in vitro reactivity to a perennial aeroallergen, patients were followed for up to 5 years.
+In a subsequent observational study of 5007 Xolair-treated and 2829 non-Xolair-treated adolescent and adult patients with moderate to severe persistent asthma and a positive skin test reaction or in vitro reactivity to a perennial aeroallergen, patients were followed for up to 5 years.
 In this study, the incidence rates of primary malignancies (per 1000 patient years) were similar among Xolair-treated (12.3) and non-Xolair-treated patients (13.0) [see Adverse Reactions (6)].
 However, study limitations preclude definitively ruling out a malignancy risk with Xolair.
 Study limitations include: the observational study design, the bias introduced by allowing enrollment of patients previously exposed to Xolair (88%), enrollment of patients (56%) while a history of cancer or a premalignant condition were study exclusion criteria, and the high study discontinuation rate (44%).
@@ -62,7 +62,7 @@ Physicians should stop Xolair if a patient develops this constellation of signs 
 Monitor patients at high risk of geohelminth infection while on Xolair therapy.
 Insufficient data are available to determine the length of monitoring required for geohelminth infections after stopping Xolair treatment.
 
-In a one-year clinical trial conducted in Brazil in patients at high risk for geohelminthic infections (roundworm, hookworm, whipworm, threadworm), 53% (36/68) of Xolair-treated patients experienced an infection, as diagnosed by standard stool examination, compared to 42% (29/69) of placebo controls.
+In a one-year clinical trial conducted in Brazil in adult and adolescent patients at high risk for geohelminthic infections (roundworm, hookworm, whipworm, threadworm), 53% (36/68) of Xolair-treated patients experienced an infection, as diagnosed by standard stool examination, compared to 42% (29/69) of placebo controls.
 The point estimate of the odds ratio for infection was 1.96, with a 95% confidence interval (0.88, 4.36) indicating that in this study a patient who had an infection was anywhere from 0.88 to 4.36 times as likely to have received Xolair than a patient who did not have an infection.
 Response to appropriate anti-geohelminth treatment of infection as measured by stool egg counts was not different between treatment groups.
 
@@ -70,4 +70,4 @@ Response to appropriate anti-geohelminth treatment of infection as measured by s
 
 Serum total IgE levels increase following administration of Xolair due to formation of Xolair:IgE complexes [see Clinical Pharmacology (12.2)].
 Elevated serum total IgE levels may persist for up to 1 year following discontinuation of Xolair.
-Do not use serum total IgE levels obtained less than 1 year following discontinuation to reassess the dosing regimen for asthma patients, because these levels may not reflect steady state free IgE levels.
+Do not use serum total IgE levels obtained less than 1 year following discontinuation to reassess the dosing regimen for asthma patients, because these levels may not reflect steady state free IgE levels [see Dosage and Administration (2.1)].

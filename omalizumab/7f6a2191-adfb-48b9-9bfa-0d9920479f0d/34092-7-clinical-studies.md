@@ -31,14 +31,14 @@ Patients then entered an ICS reduction phase of 12 weeks during which ICS dose r
 
 The distribution of the number of asthma exacerbations per patient in each group during a study was analyzed separately for the stable steroid and steroid-reduction periods.
 
-In both Asthma Trials 1 and 2 the number of exacerbations per patient was reduced in patients treated with Xolair compared with placebo (Table 6).
+In both Asthma Trials 1 and 2 the number of exacerbations per patient was reduced in patients treated with Xolair compared with placebo (Table 7).
 
 Measures of airflow (FEV1) and asthma symptoms were also evaluated in these trials.
 The clinical relevance of the treatment-associated differences is unknown.
-Results from the stable steroid phase Asthma Trial 1 are shown in Table 7.
-Results from the stable steroid phase of Asthma Trial 2 and the steroid reduction phases of both Asthma Trials 1 and 2 were similar to those presented in Table 7.
+Results from the stable steroid phase Asthma Trial 1 are shown in Table 8.
+Results from the stable steroid phase of Asthma Trial 2 and the steroid reduction phases of both Asthma Trials 1 and 2 were similar to those presented in Table 8.
 
-Table 6.
+Table 7.
 Frequency of Asthma Exacerbations per Patient by Phase in Trials 1 and 2
 
 |  | Stable Steroid Phase (16 wks) |  |  |  |
@@ -58,12 +58,12 @@ Frequency of Asthma Exacerbations per Patient by Phase in Trials 1 and 2
 | p-Value | 0.004 |  | < 0.001 |  |
 | Mean number exacerbations/patient | 0.2 | 0.4 | 0.2 | 0.3 |
 
-Table 7.
+Table 8.
 Asthma Symptoms and Pulmonary Function During Stable Steroid Phase of Trial 1
 
-| Endpoint | Mean Baseline | Median Change (Baseline to Wk 16) | Mean Baseline | Median Change (Baseline to Wk 16) |
-| --- | --- | --- | --- | --- |
 |  | Xolair N = 268Number of patients available for analysis ranges 255-258 in the Xolair group and 238-239 in the placebo group. |  | Placebo N = 257 |  |
+| --- | --- | --- | --- | --- |
+| Endpoint | Mean Baseline | Median Change (Baseline to Wk 16) | Mean Baseline | Median Change (Baseline to Wk 16) |
 | Total asthma symptom score | 4.3 | –1.5Comparison of Xolair versus placebo (p < 0.05). | 4.2 | –1.1 |
 | Nocturnal asthma score | 1.2 | –0.4 | 1.1 | –0.2 |
 | Daytime asthma score | 2.3 | –0.9 | 2.3 | –0.6 |
@@ -82,10 +82,10 @@ Patients were stratified by use of ICS-only or ICS with concomitant use of oral 
 Patients received Xolair for 16 weeks with an unchanged corticosteroid dose unless an acute exacerbation necessitated an increase.
 Patients then entered an ICS reduction phase of 16 weeks during which ICS or oral steroid dose reduction was attempted in a step-wise manner.
 
-The number of exacerbations in patients treated with Xolair was similar to that in placebo-treated patients (Table 8).
+The number of exacerbations in patients treated with Xolair was similar to that in placebo-treated patients (Table 9).
 The absence of an observed treatment effect may be related to differences in the patient population compared with Asthma Trials 1 and 2, study sample size, or other factors.
 
-Table 8.
+Table 9.
 Percentage of Patients with Asthma Exacerbations by Subgroup and Phase in Trial 3
 
 |  | Stable Steroid Phase (16 wks) |  |  |  |
@@ -104,11 +104,23 @@ Reductions in exacerbations were not seen in patients who required oral steroids
 
 Pediatric Patients 6 to < 12 Years of Age
 
-Clinical trials with Xolair in pediatric patients 6 to 11 years of age have been conducted [see Use in Specific Populations (8.4)]
+The safety and efficacy of Xolair in pediatric patients 6 to <12 years of age with moderate to severe asthma is based on one randomized, double-blind, placebo controlled, multi-center trial (Trial 4) and an additional supportive study (Trial 5).
 
-Pediatric Patients <6 Years of Age
+Trial 4 was a 52-week study that evaluated the safety and efficacy of Xolair as add-on therapy in 628 pediatric patients ages 6 to <12 years with moderate to severe asthma inadequately controlled despite the use of inhaled corticosteroids (fluticasone propionate DPI ≥200 mcg/day or equivalent) with or without other controller asthma medications.
+Eligible patients were those with a diagnosis of asthma >1 year, a positive skin prick test to at least one perennial aeroallergen, and a history of clinical features such as daytime and/or night-time symptoms and exacerbations within the year prior to study entry.
+During the first 24 weeks of treatment, steroid doses remained constant from baseline.
+This was followed by a 28-week period during which inhaled corticosteroid adjustment was allowed.
 
-Clinical trials with Xolair in pediatric patients less than 6 years of age have not been conducted [see Use in Specific Populations (8.4)]
+The primary efficacy variable was the rate of asthma exacerbations during the 24-week, fixed steroid treatment phase.
+An asthma exacerbation was defined as a worsening of asthma symptoms as judged clinically by the investigator, requiring doubling of the baseline inhaled corticosteroid dose for at least 3 days and/or treatment with rescue systemic (oral or IV) corticosteroids for at least 3 days.
+At 24 weeks, the Xolair group had a statistically significantly lower rate of asthma exacerbations (0.45 vs. 0.64) with an estimated rate ratio of 0.69 (95% CI: 0.53, 0.90).
+
+The Xolair group also had a lower rate of asthma exacerbations compared to placebo over the full 52-week double-blind treatment period (0.78 vs. 1.36; rate ratio: 0.57; 95% CI: 0.45, 0.72).
+Other efficacy variables such as nocturnal symptom scores, beta-agonist use, and measures of airflow (FEV1) were not significantly different in Xolair-treated patients compared to placebo.
+
+Trial 5 was a 28-week randomized, double blind, placebo-controlled study that primarily evaluated safety in 334 pediatric patients, 298 of whom were 6 to <12 years of age, with moderate to severe asthma who were well-controlled with inhaled corticosteroids (beclomethasone dipropionate 168-420 mcg/day).
+A 16-week steroid treatment period was followed by a 12-week steroid dose reduction period.
+Patients treated with Xolair had fewer asthma exacerbations compared to placebo during both the 16-week fixed steroid treatment period (0.18 vs. 0.32; rate ratio: 0.58; 95% CI: 0.35, 0.96) and the 28-week treatment period (0.38 vs. 0.76; rate ratio: 0.50; 95% CI: 0.36, 0.71).
 
 ## 14.2 Chronic Idiopathic Urticaria
 
@@ -126,15 +138,15 @@ The mean weekly itch severity scores at baseline were fairly balanced across tre
 The reported median durations of CIU at enrollment across treatment groups were between 2.5 and 3.9 years (with an overall subject-level range of 0.5 to 66.4 years).
 
 In both CIU Trials 1 and 2, patients who received Xolair 150 mg or 300 mg had greater decreases from baseline in weekly itch severity scores and weekly hive count scores than placebo at Week 12.
-Representative results from CIU Trial 1 are shown (Table 9); similar results were observed in CIU Trial 2.
+Representative results from CIU Trial 1 are shown (Table 10); similar results were observed in CIU Trial 2.
 The 75-mg dose did not demonstrate consistent evidence of efficacy and is not approved for use.
 
-Table 9.
+Table 10.
 Change from Baseline to Week 12 in Weekly Itch Severity Score and Weekly Hive Count Score in CIU Trial 1 Modified intent-to-treat (mITT) population: all patients who were randomized and received at least one dose of study medication.
 
-| n | 77 | 80 | 81 | 80 |
-| --- | --- | --- | --- | --- |
 |  | Xolair 75mg | Xolair 150mg | Xolair 300mg | Placebo |
+| --- | --- | --- | --- | --- |
+| n | 77 | 80 | 81 | 80 |
 | Weekly Itch Severity Score |  |  |  |  |
 | Mean Baseline Score (SD) | 14.5 (3.6) | 14.1 (3.8) | 14.2 (3.3) | 14.4 (3.5) |
 | Mean Change Week 12(SD) | -6.46 (6.14) | -6.66 (6.28) | -9.40 (5.73) | -3.63 (5.22) |

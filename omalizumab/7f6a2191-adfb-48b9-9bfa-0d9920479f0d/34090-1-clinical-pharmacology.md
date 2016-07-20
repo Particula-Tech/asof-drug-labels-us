@@ -63,7 +63,7 @@ Special Populations
 Asthma
 
 The population pharmacokinetics of omalizumab was analyzed to evaluate the effects of demographic characteristics in patients with asthma.
-Analyses of these data suggested that no dose adjustments are necessary for age (12-76 years), race, ethnicity, or gender.
+Analyses of these data suggested that no dose adjustments are necessary for age (6-76 years), race, ethnicity, or gender.
 
 Chronic Idiopathic Urticaria
 

@@ -2,25 +2,27 @@
 
 ## 2.1 Dosage for Asthma
 
-Administer Xolair 150 to 375 mg by subcutaneous injection every 2 or 4 weeks.
-Determine doses (mg) and dosing frequency by serum total IgE level (IU/mL), measured before the start of treatment, and body weight (kg) (see Table 1 and 2).
+Administer Xolair 75 to 375 mg by subcutaneous injection every 2 or 4 weeks.
+Determine dose (mg) and dosing frequency by serum total IgE level (IU/mL) measured before the start of treatment, and by body weight (kg).
 
-Adjust doses for significant changes in body weight (see Table 1 and 2).
+Adjust doses for significant changes in body weight during treatment (see Table 1, 2 and 3).
 
 Total IgE levels are elevated during treatment and remain elevated for up to one year after the discontinuation of treatment.
 Therefore, re-testing of IgE levels during Xolair treatment cannot be used as a guide for dose determination.
 
 - Interruptions lasting less than one year: Dose based on serum IgE levels obtained at the initial dose determination.
-- Interruptions lasting one year or more: Re-test total serum IgE levels for dose determination.
+- Interruptions lasting one year or more: Re-test total serum IgE levels for dose determination using Table 1, 2, or 3 based on the patient's age.
 
 Periodically reassess the need for continued therapy based upon the patient's disease severity and level of asthma control.
+
+Adult and adolescent patients 12 years of age and older: Initiate dosing according to Table 1 or 2.
 
 Table 1.
 Subcutaneous Xolair Doses Every 4 Weeks for Patients 12 Years of Age and Older with Asthma
 
-| 30–60 kg | > 60–70 kg | > 70–90 kg | > 90–150 kg |  |
-| --- | --- | --- | --- | --- |
 | Pre-treatment Serum IgE | Body Weight |  |  |  |
+| --- | --- | --- | --- | --- |
+| 30–60 kg | > 60–70 kg | > 70–90 kg | > 90–150 kg |  |
 | ≥ 30–100 IU/mL | 150 mg | 150 mg | 150 mg | 300 mg |
 | > 100–200 IU/mL | 300 mg | 300 mg | 300 mg |  |
 | > 200–300 IU/mL | 300 mg |  |  |  |
@@ -31,9 +33,9 @@ Subcutaneous Xolair Doses Every 4 Weeks for Patients 12 Years of Age and Older w
 Table 2.
 Subcutaneous Xolair Doses Every 2 Weeks for Patients 12 Years of Age and Older with Asthma
 
-|  | 30–60 kg | > 60–70 kg | > 70–90 kg | > 90–150 kg |
-| --- | --- | --- | --- | --- |
 | Pre-treatment Serum IgE | Body Weight |  |  |  |
+| --- | --- | --- | --- | --- |
+| 30–60 kg | > 60–70 kg | > 70–90 kg | > 90–150 kg |  |
 | ≥ 30–100 IU/mL |  | SEE TABLE 1 |  |  |
 | > 100–200 IU/mL |  | 225 mg |  |  |
 | > 200–300 IU/mL |  | 225 mg | 225 mg | 300 mg |
@@ -41,6 +43,11 @@ Subcutaneous Xolair Doses Every 2 Weeks for Patients 12 Years of Age and Older w
 | > 400–500 IU/mL | 300 mg | 300 mg | 375mg |  |
 | > 500–600 IU/mL | 300 mg | 375 mg | DO NOT DOSE |  |
 | > 600–700 IU/mL | 375 mg |  |  |  |
+
+Pediatric patients 6 to <12 years of age: Initiate dosing according to Table 3.
+
+| Table 3. Subcutaneous Xolair Doses Every 2 or 4 Weeks* for Pediatric Patients with Asthma Who Begin Xolair Between the Ages of 6 to <12 Years |
+| --- |
 
 ## 2.2 Dosage for Chronic Idiopathic Urticaria
 
@@ -55,7 +62,7 @@ Periodically reassess the need for continued therapy.
 
 The supplied Xolair lyophilized powder must be reconstituted with Sterile Water for Injection (SWFI) USP, using the following instructions:
 
-- 1)Before reconstitution, determine the number of vials that will need to be reconstituted (each vial delivers 150 mg of Xolair) [see Dosage and Administration (2.1, 2.2)].
+- 1)Before reconstitution, determine the number of vials that will need to be reconstituted (each vial delivers 150 mg of Xolair in 1.2 mL) (see Table 4).
 - 2)Draw 1.4 mL of SWFI, USP, into a 3 mL syringe equipped with a 1 inch, 18-gauge needle.
 - 3)Place the vial upright on a flat surface and using standard aseptic technique, insert the needle and inject the SWFI, USP, directly onto the product.
 - 4)Keeping the vial upright, gently swirl the upright vial for approximately 1 minute to evenly wet the powder.
@@ -72,10 +79,12 @@ The supplied Xolair lyophilized powder must be reconstituted with Sterile Water 
   Reconstituted Xolair vials should be protected from sunlight.
 - 9)Using a new 3 mL syringe equipped with a 1-inch, 18-gauge needle, insert the needle into the inverted vial.
   Position the needle tip at the very bottom of the solution in the vial stopper when drawing the solution into the syringe.
-  The reconstituted product is somewhat viscous; in order to obtain the full 1.2 mL dose, all of the product must be withdrawn from the vial before expelling any air or excess solution from the syringe.
+  The reconstituted product is somewhat viscous.
+  Withdraw all of the product from the vial before expelling any air or excess solution from the syringe.
   Before removing the needle from the vial, pull the plunger all the way back to the end of the syringe barrel in order to remove all of the solution from the inverted vial.
 - 10)Replace the 18-gauge needle with a 25-gauge needle for subcutaneous injection.
-- 11)Expel air, large bubbles, and any excess solution in order to obtain the required 1.2 mL dose.
+- 11)Expel air, large bubbles, and any excess solution in order to obtain a volume of 1.2 mL corresponding to a dose of 150 mg of Xolair.
+  To obtain a volume of 0.6 mL corresponding to a dose of 75 mg of Xolair, expel air, large bubbles and discard 0.6 mL from the syringe.
   A thin layer of small bubbles may remain at the top of the solution in the syringe.
 
 ## 2.4 Administration
@@ -83,14 +92,15 @@ The supplied Xolair lyophilized powder must be reconstituted with Sterile Water 
 Administer Xolair by subcutaneous injection.
 The injection may take 5-10 seconds to administer because the solution is slightly viscous.
 Do not administer more than 150 mg (contents of one vial) per injection site.
-Divide doses of more than 150 mg among two or more injection sites (Table 3).
+Divide doses of more than 150 mg among two or more injection sites (Table 4).
 
-Table 3.
-Number of Injections and Total Injection Volumes
+Table 4.
+Number of Vials, Injections and Total Injection Volumes
 
-| Xolair DoseAll doses in the table are approved for use in asthma patients. The 150 mg and 300 mg Xolair doses are intended for use in CIU patients. | Number of Injections | Total Volume Injected |
-| --- | --- | --- |
-| 150 mg | 1 | 1.2 mL |
-| 225 mg | 2 | 1.8 mL |
-| 300 mg | 2 | 2.4 mL |
-| 375mg | 3 | 3.0 mL |
+| Xolair DoseAll doses in the table are approved for use in asthma patients. The 150 mg and 300 mg Xolair doses are intended for use in CIU patients. | Number of vials | Number of Injections | Total Volume Injected |
+| --- | --- | --- | --- |
+| 75 mg | 1 | 1 | 0.6 mL |
+| 150 mg | 1 | 1 | 1.2 mL |
+| 225 mg | 2 | 2 | 1.8 mL |
+| 300 mg | 2 | 2 | 2.4 mL |
+| 375mg | 3 | 3 | 3.0 mL |

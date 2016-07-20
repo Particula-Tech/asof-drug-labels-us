@@ -9,7 +9,7 @@ Use of Xolair has been associated with:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Adverse Reactions from Clinical Studies in Patients with Asthma
+Adverse Reactions from Clinical Studies in Adult and Adolescent Patients 12 Years of Age and Older with Asthma
 
 The data described below reflect Xolair exposure for 2076 adult and adolescent patients ages 12 and older, including 1687 patients exposed for six months and 555 exposed for one year or more, in either placebo-controlled or other controlled asthma studies.
 The mean age of patients receiving Xolair was 42 years, with 134 patients 65 years of age or older; 60% were women, and 85% Caucasian.
@@ -18,11 +18,11 @@ Patients received Xolair 150 to 375 mg every 2 or 4 weeks or, for patients assig
 The adverse events most frequently resulting in clinical intervention (e.g., discontinuation of Xolair, or the need for concomitant medication to treat an adverse event) were injection site reaction (45%), viral infections (23%), upper respiratory tract infection (20%), sinusitis (16%), headache (15%), and pharyngitis (11%).
 These events were observed at similar rates in Xolair-treated patients and control patients.
 
-Table 4 shows adverse reactions from four placebo-controlled asthma trials that occurred ≥ 1% and more frequently in patients receiving Xolair than in those receiving placebo.
+Table 5 shows adverse reactions from four placebo-controlled asthma trials that occurred ≥ 1% and more frequently in adult and adolescent patients 12 years of age and older receiving Xolair than in those receiving placebo.
 Adverse events were classified using preferred terms from the International Medical Nomenclature (IMN) dictionary.
 Injection site reactions were recorded separately from the reporting of other adverse events.
 
-Table 4.
+Table 5.
 Adverse Reactions ≥ 1% More Frequent in Xolair-Treated Adult or Adolescent Patients 12 years of Age and Older in Four Placebo-controlled Asthma Trials
 
 | Adverse reaction | Xolair n = 738 | Placebo n = 717 |
@@ -55,12 +55,24 @@ From other sources, anaphylaxis to Xolair was observed in 0.1% of patients in cl
 
 Injection Site Reactions
 
-Injection site reactions of any severity occurred at a rate of 45% in Xolair-treated patients compared with 43% in placebo-treated patients.
+In adults and adolescents, injection site reactions of any severity occurred at a rate of 45% in Xolair-treated patients compared with 43% in placebo-treated patients.
 The types of injection site reactions included: bruising, redness, warmth, burning, stinging, itching, hive formation, pain, indurations, mass, and inflammation.
 
 Severe injection site reactions occurred more frequently in Xolair-treated patients compared with patients in the placebo group (12% versus 9%).
 
 The majority of injection site reactions occurred within 1 hour-post injection, lasted less than 8 days, and generally decreased in frequency at subsequent dosing visits.
+
+Adverse Reactions from Clinical Studies in Pediatric Patients 6 to <12 Years of Age with Asthma
+
+The data described below reflect Xolair exposure for 926 patients 6 to < 12 years of age, including 583 patients exposed for six months and 292 exposed for one year or more, in either placebo-controlled or other controlled asthma studies.
+The mean age of pediatric patients receiving Xolair was 8.8 years; 69% were male, and 64% were Caucasian.
+Pediatric patients received Xolair 75 mg to 375 mg every 2 or 4 weeks or, for patients assigned to control groups, standard therapy with or without a placebo.
+No cases of malignancy were reported in patients treated with Xolair in these trials.
+
+The most common adverse reactions occurring at ≥3% in the pediatric patients receiving Xolair and more frequently than in patients treated with placebo were nasopharyngitis, headache, pyrexia, upper abdominal pain, pharyngitis streptococcal, otitis media, viral gastroenteritis, arthropod bite, and epistaxis.
+
+The adverse events most frequently resulting in clinical intervention (e.g., discontinuation of Xolair, or the need for concomitant medication to treat an adverse event) were bronchitis (0.2%), headache (0.2%) and urticaria (0.2%).
+These events were observed at similar rates in Xolair-treated patients and control patients.
 
 Adverse Reactions from Clinical Studies in Patients with Chronic Idiopathic Urticaria (CIU)
 
@@ -71,15 +83,15 @@ The data described below reflect Xolair exposure for 733 patients enrolled and r
 The mean age of patients receiving Xolair 300 mg was 43 years, 75% were women, and 89% were white.
 The demographic profiles for patients receiving Xolair 150 mg and 75 mg were similar.
 
-Table 5 shows adverse reactions that occurred in ≥ 2% of patients receiving Xolair (150 or 300 mg) and more frequently than those receiving placebo.
+Table 6 shows adverse reactions that occurred in ≥ 2% of patients receiving Xolair (150 or 300 mg) and more frequently than those receiving placebo.
 Adverse reactions are pooled from Trial 2 and the first 12 weeks of Trials 1 and 3.
 
-Table 5.
-Adverse Reactions Occurring in ≥2 % in Xolair-Treated Patients and More Frequently than in Patients Treated with Placebo (Day 1 to Week 12) in CIU Trials
+Table 6.
+Adverse Reactions Occurring in ≥2% in Xolair-Treated Patients and More Frequently than in Patients Treated with Placebo (Day 1 to Week 12) in CIU Trials
 
-| Adverse Reactionsby MedDRA (15.1) System Organ Class and Preferred Term | 150mg (n=175) | 300mg (n=412) | Placebo (n=242) |
-| --- | --- | --- | --- |
 |  | CIU Trials 1, 2 and 3 Pooled |  |  |
+| --- | --- | --- | --- |
+| Adverse Reactionsby MedDRA (15.1) System Organ Class and Preferred Term | 150mg (n=175) | 300mg (n=412) | Placebo (n=242) |
 | Gastrointestinal disorders |  |  |  |
 | Nausea | 2 (1.1%) | 11 (2.7%) | 6 (2.5%) |
 | Infections and infestations |  |  |  |
@@ -104,7 +116,7 @@ None of the events resulted in study discontinuation or treatment interruption.
 
 Cardiovascular and Cerebrovascular Events from Clinical Studies in Patients with Asthma
 
-A 5-year observational cohort study was conducted in patients ≥ 12 years old with moderate to severe persistent asthma and a positive skin test reaction to a perennial aeroallergen to evaluate the long term safety of Xolair, including the risk of malignancy [see Warnings and Precautions (5.2)].
+A 5-year observational cohort study was conducted in patients ≥ 12 years of age with moderate to severe persistent asthma and a positive skin test reaction to a perennial aeroallergen to evaluate the long term safety of Xolair, including the risk of malignancy [see Warnings and Precautions (5.2)].
 A total of 5007 Xolair-treated and 2829 non-Xolair-treated patients enrolled in the study.
 Similar percentages of patients in both cohorts were current (5%) or former smokers (29%).
 Patients had a mean age of 45 years and were followed for a mean of 3.7 years.
@@ -124,7 +136,8 @@ However, the results of the pooled analysis were based on a low number of events
 
 ## 6.2 Immunogenicity
 
-Antibodies to Xolair were detected in approximately 1/1723 (< 0.1%) of patients treated with Xolair in the clinical studies for approval of asthma.
+Antibodies to Xolair were detected in approximately 1/1723 (< 0.1%) of patients treated with Xolair in the clinical studies evaluated for approval of asthma in patients 12 years of age and older.
+In three pediatric studies, antibodies to Xolair were detected in one patient out of 581 patients 6 to <12 years of age treated with Xolair and evaluated for antibodies.
 There were no detectable antibodies in the patients treated in the phase 3 CIU clinical trials, but due to levels of Xolair at the time of anti-therapeutic antibody sampling and missing samples for some patients, antibodies to Xolair could only have been determined in 88% of the 733 patients treated in these clinical studies.
 The data reflect the percentage of patients whose test results were considered positive for antibodies to Xolair in ELISA assays and are highly dependent on the sensitivity and specificity of the assays.
 Additionally, the observed incidence of antibody positivity in the assay may be influenced by several factors including sample handling, timing of sample collection, concomitant medications, and underlying disease.

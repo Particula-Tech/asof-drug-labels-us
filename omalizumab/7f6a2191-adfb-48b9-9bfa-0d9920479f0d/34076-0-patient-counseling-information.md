@@ -17,7 +17,3 @@ Inform patients of the risk of life-threatening anaphylaxis with Xolair includin
 
 Instruct patients receiving Xolair not to decrease the dose of, or stop taking any other asthma or CIU medications unless otherwise instructed by their physician.
 Inform patients that they may not see immediate improvement in their asthma or CIU symptoms after beginning Xolair therapy.
-
-Pregnancy Exposure Registry
-
-Encourage pregnant women exposed to Xolair to enroll in the Xolair Pregnancy Exposure Registry [1-866-4XOLAIR (1-866-496-5247)] or visit www.xolairpregnancyregistry.com [see Use in Specific Populations (8.1)].
