@@ -2,7 +2,7 @@
 
 NDC 59676-575-30 30 Tablets
 
-PREZCOBIX™ (darunavir and cobicistat) Tablets
+PREZCOBIX® (darunavir and cobicistat) Tablets
 
 800mg/150mg
 
