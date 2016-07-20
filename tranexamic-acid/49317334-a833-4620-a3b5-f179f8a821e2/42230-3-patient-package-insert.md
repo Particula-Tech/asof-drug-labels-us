@@ -1,4 +1,4 @@
-PATIENT INFORMATION LYSTEDA (pronounced lye-sted-a) tranexamic acid tablets
+PATIENT INFORMATION LYSTEDA (pronounced lye-sted-a) tranexamic acid, USP tablets
 
 Read the Patient Information that comes with LYSTEDA before you start using the drug and each time you get a refill.
 There may be new information.
@@ -139,4 +139,4 @@ Manufactured for: Ferring Pharmaceuticals Inc. Parsippany, NJ 07054
 By: Mikart, Inc. Atlanta, GA 30318
 
 Rev.
-10/2013 6540-04
+03/2016 6540-05
