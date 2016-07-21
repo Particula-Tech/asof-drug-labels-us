@@ -1,0 +1,34 @@
+{
+  "application_numbers": [
+    "ANDA079170"
+  ],
+  "inn": "rosuvastatin",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "65862-293-06",
+    "65862-293-30",
+    "65862-293-90",
+    "65862-293-99",
+    "65862-294-06",
+    "65862-294-30",
+    "65862-294-90",
+    "65862-294-99",
+    "65862-295-06",
+    "65862-295-30",
+    "65862-295-90",
+    "65862-295-99",
+    "65862-296-10",
+    "65862-296-30",
+    "65862-296-90",
+    "65862-296-99"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "rosuvastatin calcium",
+      "name": "Rosuvastatin Calcium"
+    }
+  ],
+  "setid": "47924917-bbd5-45de-96cb-c7ff9754da97",
+  "source": "dailymed"
+}
