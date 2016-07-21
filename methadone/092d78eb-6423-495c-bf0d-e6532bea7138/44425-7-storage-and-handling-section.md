@@ -6,8 +6,8 @@ Store in carton until contents have been used.
 
 Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
 
-Manufactured by: AAIPharma Services Charleston, SC 29405 U.S.A.
+Manufactured by: Alcami Corporation Charleston, SC 29405 U.S.A.
 
-PC-3374E
+PC-3374F
 
-REVISED JANUARY 2013 MI:MTHDIJ:R2
+REVISED APRIL 2016 MI:MTHDIJ:R3
