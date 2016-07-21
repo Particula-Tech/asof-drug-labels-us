@@ -13,7 +13,7 @@ Physicians and patients should remain alert for the development of such events, 
 Patients should be informed about the symptoms of serious CV events and the steps to take if they occur.
 There is no consistent evidence that concurrent use of aspirin mitigates the increased risk of serious CV thrombotic events associated with NSAID use.
 The concurrent use of aspirin and an NSAID, such as meloxicam, increases the risk of serious gastrointestinal (GI) events [see Warnings and Precautions (5.2)].
-Status Post Coronary Artery Bypass Graft (CABG) Surgery Two large, controlled clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10-14 days following CABG surgery found an increased incidence of myocardial infarction and stroke.
+Status Post Coronary Artery Bypass Graft (CABG) Surgery Two large, controlled clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10 to 14 days following CABG surgery found an increased incidence of myocardial infarction and stroke.
 NSAIDs are contraindicated in the setting of CABG [see Contraindications (4)].
 Post-MI Patients
 
@@ -28,7 +28,7 @@ If meloxicam is used in patients with a recent MI, monitor patients for signs of
 NSAIDs, including meloxicam, can cause serious gastrointestinal (GI) adverse events including inflammation, bleeding, ulceration, and perforation of the esophagus, stomach, small intestine, or large intestine, which can be fatal.
 These serious adverse events can occur at any time, with or without warning symptoms, in patients treated with NSAIDs.
 Only one in five patients who develop a serious upper GI adverse event on NSAID therapy is symptomatic.
-Upper GI ulcers, gross bleeding, or perforation caused by NSAIDs occurred in approximately 1% of patients treated for 3-6 months, and in about 2-4% of patients treated for one year.
+Upper GI ulcers, gross bleeding, or perforation caused by NSAIDs occurred in approximately 1% of patients treated for 3 to 6 months, and in about 2 to 4% of patients treated for one year.
 However, even short-term NSAID therapy is not without risk.
 Risk Factors for GI Bleeding, Ulceration, and Perforation Patients with a prior history of peptic ulcer disease and/or GI bleeding who used NSAIDs had a greater than 10-fold increased risk for developing a GI bleed compared to patients without these risk factors.
 Other factors that increase the risk of GI bleeding in patients treated with NSAIDs include longer duration of NSAID therapy; concomitant use of oral corticosteroids, aspirin, anticoagulants, or selective serotonin reuptake inhibitors (SSRIs); smoking; use of alcohol; older age; and poor general health status.

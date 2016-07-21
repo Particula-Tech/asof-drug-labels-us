@@ -6,7 +6,7 @@ Risk Summary Use of NSAIDs, including meloxicam, during the third trimester of p
 Avoid use of NSAIDs, including meloxicam, in pregnant women starting at 30 weeks of gestation (third trimester) [see Warnings and Precautions (5.10)].
 There are no adequate and well-controlled studies of meloxicam in pregnant women.
 Data from observational studies regarding potential embryofetal risks of NSAID use in women in the first or second trimesters of pregnancy are inconclusive.
-In the general U.S. population, all clinically recognized pregnancies, regardless of drug exposure, have a background rate of 2-4% for major malformations, and 15-20% for pregnancy loss.
+In the general U.S. population, all clinically recognized pregnancies, regardless of drug exposure, have a background rate of 2 to 4% for major malformations, and 15 to 20% for pregnancy loss.
 In animal reproduction studies, embryofetal death was observed in rats and rabbits treated during the period of organogenesis with meloxicam at oral doses equivalent to 0.65- and 6.5-times the maximum recommended human dose (MRHD) of meloxicam.
 Increased incidence of septal heart defects were observed in rabbits treated throughout embryogenesis with meloxicam at an oral dose equivalent to 78-times the MRHD.
 In pre- and post-natal reproduction studies, there was an increased incidence of dystocia, delayed parturition, and decreased offspring survival at 0.08-times MRHD of meloxicam.
@@ -25,7 +25,7 @@ Oral administration of meloxicam to pregnant rats during late gestation through 
 
 Risk Summary There are no human data available on whether meloxicam is present in human milk, or on the effects on breastfed infants, or on milk production.
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for meloxicam and any potential adverse effects on the breastfed infant from the meloxicam or from the underlying maternal condition.
-Data Animal data Meloxicam was present in the milk of lactating rats at concentrations higher than those in plasma.
+Data Animal Data Meloxicam was present in the milk of lactating rats at concentrations higher than those in plasma.
 
 ## 8.3 Females and Males of Reproductive Potential
 

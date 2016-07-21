@@ -38,11 +38,8 @@ NSAIDs should only be used:
 - for the shortest time needed
 
 What are NSAIDs?
-
 NSAIDs are used to treat pain and redness, swelling, and heat (inflammation) from medical conditions such as different types of arthritis, menstrual cramps, and other types of short-term pain.
-
 Who should not take NSAIDs?
-
 Do not take NSAIDs:
 
 - if you have had an asthma attack, hives, or other allergic reaction with aspirin or any other NSAIDs.
@@ -61,12 +58,8 @@ Before taking NSAIDs, tell your healthcare provider about all of your medical co
 Tell your healthcare provider about all of the medicines you take, including prescription or over-the-counter medicines, vitamins or herbal supplements.
 NSAIDs and some other medicines can interact with each other and cause serious side effects.
 Do not start taking any new medicine without talking to your healthcare provider first.
-
 What are the possible side effects of NSAIDs?
-
-NSAIDs can cause serious side effects, including:
-
-See “What is the most important information I should know about medicines called Nonsteroidal Anti-inflammatory Drugs (NSAIDs)?”
+NSAIDs can cause serious side effects, including: See “What is the most important information I should know about medicines called Nonsteroidal Anti-inflammatory Drugs (NSAIDs)?”
 
 - new or worse high blood pressure
 - heart failure
@@ -130,6 +123,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides
 
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810
-
-Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India Revised: 06/2016
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India Revised: 07/2016

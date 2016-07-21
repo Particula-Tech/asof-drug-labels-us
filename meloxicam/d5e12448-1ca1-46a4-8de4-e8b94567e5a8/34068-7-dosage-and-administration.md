@@ -4,7 +4,9 @@
 
 Carefully consider the potential benefits and risks of meloxicam tablets and other treatment options before deciding to use meloxicam tablets.
 Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
+
 After observing the response to initial therapy with meloxicam tablets, adjust the dose to suit an individual patient's needs.
+
 In adults, the maximum recommended daily oral dose of meloxicam is 15 mg regardless of formulation.
 In patients with hemodialysis, a maximum daily dosage of 7.5 mg is recommended [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
 Meloxicam tablets may be taken without regard to timing of meals.
@@ -21,8 +23,9 @@ Some patients may receive additional benefit by increasing the dose to 15 mg onc
 
 ## 2.4 Juvenile Rheumatoid Arthritis (JRA) Pauciarticular and Polyarticular Course
 
-For the treatment of juvenile rheumatoid arthritis, the recommended oral dose of meloxicam is 0.125 mg/kg once daily up to a maximum of 7.5 mg.
-There was no additional benefit demonstrated by increasing the dose above 0.125 mg/kg once daily in these clinical trials.
+For the treatment of juvenile rheumatoid arthritis, the recommended oral dose of meloxicam is 7.5 mg once daily in children who weigh ≥60 kg.
+There was no additional benefit demonstrated by increasing the dose above 7.5 mg in clinical trials.
+Meloxicam tablets should not be used in children who weigh <60 kg.
 
 ## 2.5 Renal Impairment
 
