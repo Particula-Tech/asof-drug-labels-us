@@ -1,4 +1,4 @@
-| PATIENT INFORMATION DARZALEX™ (Dar'-zah-lex) (daratumumab) injection, for intravenous use |  |  |
+| PATIENT INFORMATION DARZALEX® (Dar'-zah-lex) (daratumumab) injection, for intravenous use |  |  |
 | --- | --- | --- |
 | What is DARZALEX? |  |  |
 | DARZALEX is a prescription medicine used to treat a type of cancer called multiple myeloma in people who: have received at least three prior medicines to treat multiple myeloma, including a proteasome inhibitor and an immunomodulatory agent, ordid not respond to a proteasome inhibitor and an immunomodulatory agent It is not known if DARZALEX is safe and effective in children. |  |  |
@@ -16,4 +16,4 @@
 | Active ingredient: daratumumab |  |  |
 | Inactive ingredients: glacial acetic acid, mannitol, polysorbate 20, sodium acetate trihydrate, sodium chloride, and water for injection |  |  |
 | Manufactured by: Janssen Biotech, Inc., Horsham, PA 19044 U.S. License Number 1864 For more information, call 1-800-526-7736 or go to www.DARZALEX.com. |  |  |
-| This Patient Information has been approved by the U.S. Food and Drug Administration. |  | Issued: November/2015 |
+| This Patient Information has been approved by the U.S. Food and Drug Administration. |  | Revised: June/2016 |
