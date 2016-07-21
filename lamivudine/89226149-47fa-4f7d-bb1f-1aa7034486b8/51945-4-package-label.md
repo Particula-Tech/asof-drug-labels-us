@@ -40,8 +40,8 @@ Made in Canada
 
 EPIVIR is a registered trademark
 
-- A126815 Rev.
-  7/14
+1. A126815 Rev.
+   7/14
 
 PRINCIPAL DISPLAY PANEL
 
@@ -85,8 +85,8 @@ Made in Canada
 
 EPIVIR is a registered trademark
 
-- A126816 Rev.
-  7/14
+1. A126816 Rev.
+   7/14
 
 PRINCIPAL DISPLAY PANEL
 
@@ -112,5 +112,5 @@ Do not use if shrinkband on bottle is broken or missing.
 
 - ©2014, the ViiV Healthcare group of companies
 
-- 10000000131523 Rev.
-  12/14
+1. 10000000131523 Rev.
+   12/14

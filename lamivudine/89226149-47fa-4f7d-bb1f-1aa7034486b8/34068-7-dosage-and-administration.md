@@ -8,26 +8,26 @@ If lamivudine is administered to a patient infected with HIV‑1 and HBV, the do
 ## 2.2 Recommended Dosage for Pediatric Patients
 
 The recommended dosage of EPIVIR oral solution in HIV‑1-infected pediatric patients aged 3 months and older is 4 mg per kg taken orally twice daily or 8 mg per kg taken orally once daily (up to a maximum of 300 mg daily), administered in combination with other antiretroviral agents.
-Consider HIV-1 viral load and CD4+ cell count/percentage when selecting the dosing interval for patients initiating treatment with oral solution [see Clinical Pharmacology (12.3)].
+Consider HIV-1 viral load and CD4+ cell count/percentage when selecting the dosing interval for patients initiating treatment with oral solution [see Warnings and Precautions (5.6), Clinical Pharmacology (12.3)].
 
-EPIVIR is also available as a scored tablet for HIV‑1-infected pediatric patients who weigh at least 14 kg and for whom a solid dosage form is appropriate.
-Before prescribing EPIVIR tablets, children should be assessed for the ability to swallow tablets.
-If a child is unable to reliably swallow EPIVIR tablets, the oral solution formulation should be prescribed.
+EPIVIR scored tablet is the preferred formulation for HIV‑1-infected pediatric patients who weigh at least 14 kg and for whom a solid dosage form is appropriate.
+Before prescribing EPIVIR scored tablets, pediatric patients should be assessed for the ability to swallow tablets.
+For patients unable to safely and reliably swallow EPIVIR tablets, the oral solution formulation should be prescribed [see Warnings and Precautions (5.6)].
 The recommended oral dosage of EPIVIR tablets for HIV‑1-infected pediatric patients is presented in Table 1.
 
 Table 1.
 Dosing Recommendations for EPIVIR Scored (150-mg) Tablets in Pediatric Patients
 
-| Weight(kg) | Once-daily Dosing Regimena | Twice-daily Dosing Regimen Using Scored 150-mg Tablet |  |  |
+| Weight(kg) | Once-Daily Dosing Regimena | Twice-Daily Dosing Regimen Using Scored 150-mg Tablet |  |  |
 | --- | --- | --- | --- | --- |
 | AM Dose | PM Dose | Total Daily Dose |  |  |
 | 14 to <20 | 1 tablet (150 mg) | ½ tablet (75 mg) | ½ tablet (75 mg) | 150 mg |
 | ≥20 to <25 | 1½ tablets (225 mg) | ½ tablet (75 mg) | 1 tablet (150 mg) | 225 mg |
 | ≥25 | 2 tablets (300 mg)b | 1 tablet (150 mg) | 1 tablet (150 mg) | 300 mg |
 
-aData regarding the efficacy of once-daily dosing is limited to subjects who transitioned from twice-daily dosing to once-daily dosing after 36 weeks of treatment [see Clinical Studies (14.2)].
+a Data regarding the efficacy of once-daily dosing is limited to subjects who transitioned from twice-daily dosing to once-daily dosing after 36 weeks of treatment [see Clinical Studies (14.2)].
 
-bPatients may alternatively take one 300-mg tablet, which is not scored.
+b Patients may alternatively take one 300-mg tablet, which is not scored.
 
 ## 2.3 Patients with Renal Impairment
 

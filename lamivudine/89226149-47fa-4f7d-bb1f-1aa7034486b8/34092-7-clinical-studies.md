@@ -8,7 +8,7 @@ Information from trials with clinical endpoints or a combination of CD4+ cell co
 Clinical Endpoint Trial
 
 NUCB3007 (CAESAR) was a multicenter, double-blind, placebo-controlled trial comparing continued current therapy (zidovudine alone [62% of subjects] or zidovudine with didanosine or zalcitabine [38% of subjects]) to the addition of EPIVIR or EPIVIR plus an investigational non-nucleoside reverse transcriptase inhibitor (NNRTI), randomized 1:2:1.
-A total of 1,816 HIV-1-infected adults with 25 to 250 CD4+ cells per mm3 (median = 122 cells per mm3) at baseline were enrolled: median age was 36 years, 87% were male, 84% were nucleoside-experienced, and 16% were therapy-naive.
+A total of 1,816 HIV‑1-infected adults with 25 to 250 CD4+ cells per mm3 (median = 122 cells per mm3) at baseline were enrolled: median age was 36 years, 87% were male, 84% were nucleoside-experienced, and 16% were therapy-naive.
 The median duration on trial was 12 months.
 Results are summarized in Table 9.
 
@@ -28,8 +28,8 @@ Dual Nucleoside Analogue Trials: Principal clinical trials in the initial develo
 These trials demonstrated the antiviral effect of lamivudine in a 2-drug combination.
 More recent uses of lamivudine in treatment of HIV-1 infection incorporate it into multiple-drug regimens containing at least 3 antiretroviral drugs for enhanced viral suppression.
 
-Dose Regimen Comparison Surrogate Endpoint Trials in Therapy-naive Adults: EPV20001 was a multicenter, double-blind, controlled trial in which subjects were randomized 1:1 to receive EPIVIR 300 mg once daily or EPIVIR 150 mg twice daily, in combination with zidovudine 300 mg twice daily and efavirenz 600 mg once daily.
-A total of 554 antiretroviral treatment-naive HIV-1-infected adults enrolled: male (79%), white (50%), median age of 35 years, baseline CD4+ cell counts of 69 to 1,089 cells per mm3 (median = 362 cells per mm3), and median baseline plasma HIV-1 RNA of 4.66 log10 copies per mL.
+Dose Regimen Comparison Surrogate Endpoint Trials in Therapy-Naive Adults: EPV20001 was a multicenter, double-blind, controlled trial in which subjects were randomized 1:1 to receive EPIVIR 300 mg once daily or EPIVIR 150 mg twice daily, in combination with zidovudine 300 mg twice daily and efavirenz 600 mg once daily.
+A total of 554 antiretroviral treatment-naive HIV‑1-infected adults enrolled: male (79%), white (50%), median age of 35 years, baseline CD4+ cell counts of 69 to 1,089 cells per mm3 (median = 362 cells per mm3), and median baseline plasma HIV-1 RNA of 4.66 log10 copies per mL.
 Outcomes of treatment through 48 weeks are summarized in Figure 1 and Table 10.
 
 Figure 1.
@@ -69,7 +69,7 @@ In intent‑to‑treat analyses of 48‑week data, the proportions of subjects w
 Clinical Endpoint Trial
 
 ACTG300 was a multicenter, randomized, double-blind trial that provided for comparison of EPIVIR plus RETROVIR (zidovudine) with didanosine monotherapy.
-A total of 471 symptomatic, HIV-1-infected therapy-naive (less than or equal to 56 days of antiretroviral therapy) pediatric subjects were enrolled in these 2 treatment arms.
+A total of 471 symptomatic, HIV‑1-infected therapy-naive (less than or equal to 56 days of antiretroviral therapy) pediatric subjects were enrolled in these 2 treatment arms.
 The median age was 2.7 years (range: 6 weeks to 14 years), 58% were female, and 86% were non-white.
 The mean baseline CD4+ cell count was 868 cells per mm3 (mean: 1,060 cells per mm3 and range: 0 to 4,650 cells per mm3 for subjects aged less than or equal to 5 years; mean: 419 cells per mm3 and range: 0 to 1,555 cells per mm3 for subjects aged over 5 years) and the mean baseline plasma HIV-1 RNA was 5.0 log10 copies per mL.
 The median duration on trial was 10.1 months for the subjects receiving EPIVIR plus RETROVIR and 9.2 months for subjects receiving didanosine monotherapy.
@@ -86,7 +86,7 @@ Number of Subjects (%) Reaching a Primary Clinical Endpoint (Disease Progression
 | CDC Clinical Category C | 2 (0.8%) | 8 (3.4%) |
 | Death | 2 (0.8%) | 11 (4.7%) |
 
-Once-daily Dosing
+Once-Daily Dosing
 
 ARROW (COL105677) was a 5-year randomized, multicenter trial which evaluated multiple aspects of clinical management of HIV-1 infection in pediatric subjects.
 HIV–1-infected, treatment-naïve subjects aged 3 months to 17 years were enrolled and treated with a first-line regimen containing EPIVIR and abacavir, dosed twice daily according to World Health Organization recommendations.
@@ -100,7 +100,7 @@ The differences between virologic responses in the two treatment arms were compa
 Table 12.
 Virologic Outcome of Randomized Treatment at Week 96a (ARROW Randomization 3)
 
-| Outcome | EPIVIR plus Abacavir Twice-daily Dosing(n = 333) | EPIVIR plus Abacavir Once-daily Dosing(n = 336) |
+| Outcome | EPIVIR plus Abacavir Twice-Daily Dosing(n = 333) | EPIVIR plus Abacavir Once-Daily Dosing(n = 336) |
 | --- | --- | --- |
 | HIV-1 RNA <80 copies/mLb | 70% | 67% |
 | HIV-1 RNA ≥80 copies/mLc | 28% | 31% |
@@ -116,3 +116,6 @@ bPredicted difference (95% CI) of response rate is -4.5% (-11% to 2%) at Week 96
 cIncludes subjects who discontinued due to lack or loss of efficacy or for reasons other than an adverse event or death, and had a viral load value of greater than or equal to 80 copies per mL, or subjects who had a switch in background regimen that was not permitted by the protocol.
 
 dOther includes reasons such as withdrew consent, loss to follow-up, etc. and the last available HIV-1 RNA less than 80 copies per mL (or missing).
+
+Analyses by formulation demonstrated the proportion of subjects with HIV-1 RNA of less than 80 copies per mL at randomization and Week 96 was higher in subjects who had received tablet formulations (75% [458/610] and 72% [434/601]) than in those who had received any solution formulations at any time (52% [29/56] and 54% [30/56]), respectively.
+These differences were observed in each different age group evaluated.

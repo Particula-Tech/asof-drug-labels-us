@@ -4,12 +4,14 @@ The following adverse reactions are discussed in other sections of the labeling:
 
 - •Lactic acidosis and severe hepatomegaly with steatosis [see Boxed Warning, Warnings and Precautions (5.1)].
 - •Exacerbations of hepatitis B [see Boxed Warning, Warnings and Precautions (5.2)].
-- •Hepatic decompensation in patients co-infected with HIV-1 and hepatitis C [see Warnings and Precautions (5.4)].
-- •Pancreatitis [see Warnings and Precautions (5.5)].
-- •Immune reconstitution syndrome [see Warnings and Precautions (5.6)].
+- •Hepatic decompensation in patients co-infected with HIV-1 and hepatitis C [see Warnings and Precautions (5.3)].
+- •Pancreatitis [see Warnings and Precautions (5.4)].
+- •Immune reconstitution syndrome [see Warnings and Precautions (5.5)].
 - •Fat redistribution [see Warnings and Precautions (5.7)].
 
-## 6.1 Clinical Trials Experience in Adult Subjects
+## 6.1 Clinical Trials Experience
+
+Clinical Trials Experience in Adult Subjects
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
@@ -53,7 +55,7 @@ Selected Clinical Adverse Reactions (Greater than or Equal to 5% Frequency) in F
 
 aEither zidovudine monotherapy or zidovudine in combination with zalcitabine.
 
-Pancreatitis: Pancreatitis was observed in 9 out of 2,613 adult subjects (0.3%) who received EPIVIR in controlled clinical trials EPV20001, NUCA3001, NUCB3001, NUCA3002, NUCB3002, and NUCB3007 [see Warnings and Precautions (5.5)].
+Pancreatitis: Pancreatitis was observed in 9 out of 2,613 adult subjects (0.3%) who received EPIVIR in controlled clinical trials EPV20001, NUCA3001, NUCB3001, NUCA3002, NUCB3002, and NUCB3007 [see Warnings and Precautions (5.4)].
 
 EPIVIR 300 mg Once Daily: The types and frequencies of clinical adverse reactions reported in subjects receiving EPIVIR 300 mg once daily or EPIVIR 150 mg twice daily (in 3-drug combination regimens in EPV20001 and EPV40001) for 48 weeks were similar.
 
@@ -85,7 +87,7 @@ ND = Not done.
 
 The frequencies of selected laboratory abnormalities reported in subjects receiving EPIVIR 300 mg once daily or EPIVIR 150 mg twice daily (in 3-drug combination regimens in EPV20001 and EPV40001) were similar.
 
-## 6.2 Clinical Trials Experience in Pediatric Subjects
+Clinical Trials Experience in Pediatric Subjects
 
 EPIVIR oral solution has been studied in 638 pediatric subjects aged 3 months to 18 years in 3 clinical trials.
 
@@ -116,18 +118,14 @@ Selected Clinical Adverse Reactions and Physical Findings (Greater than or Equal
 
 aIncludes pain, discharge, erythema, or swelling of an ear.
 
-Pancreatitis
-
-Pancreatitis, which has been fatal in some cases, has been observed in antiretroviral nucleoside‑experienced pediatric subjects receiving EPIVIR alone or in combination with other antiretroviral agents.
+Pancreatitis: Pancreatitis, which has been fatal in some cases, has been observed in antiretroviral nucleoside‑experienced pediatric subjects receiving EPIVIR alone or in combination with other antiretroviral agents.
 In an open‑label dose‑escalation trial (NUCA2002), 14 subjects (14%) developed pancreatitis while receiving monotherapy with EPIVIR.
 Three of these subjects died of complications of pancreatitis.
 In a second open‑label trial (NUCA2005), 12 subjects (18%) developed pancreatitis.
 In Trial ACTG300, pancreatitis was not observed in 236 subjects randomized to EPIVIR plus RETROVIR.
-Pancreatitis was observed in 1 subject in this trial who received open‑label EPIVIR in combination with RETROVIR and ritonavir following discontinuation of didanosine monotherapy [see Warnings and Precautions (5.5)].
+Pancreatitis was observed in 1 subject in this trial who received open‑label EPIVIR in combination with RETROVIR and ritonavir following discontinuation of didanosine monotherapy [see Warnings and Precautions (5.4)].
 
-Paresthesias and Peripheral Neuropathies
-
-Paresthesias and peripheral neuropathies were reported in 15 subjects (15%) in Trial NUCA2002, 6 subjects (9%) in Trial NUCA2005, and 2 subjects (less than 1%) in Trial ACTG300.
+Paresthesias and Peripheral Neuropathies: Paresthesias and peripheral neuropathies were reported in 15 subjects (15%) in Trial NUCA2002, 6 subjects (9%) in Trial NUCA2005, and 2 subjects (less than 1%) in Trial ACTG300.
 
 Selected laboratory abnormalities experienced by therapy‑naive (less than or equal to 56 days of antiretroviral therapy) pediatric subjects are listed in Table 6.
 
@@ -146,22 +144,18 @@ Frequencies of Selected Grade 3-4 Laboratory Abnormalities in Pediatric Subjects
 
 ULN = Upper limit of normal.
 
-Pediatric Subjects Once-daily versus Twice-daily Dosing (COL105677)
-
-The safety of once-daily compared with twice-daily dosing of EPIVIR was assessed in the ARROW trial.
+Pediatric Subjects Once-Daily versus Twice-Daily Dosing (COL105677): The safety of once-daily compared with twice-daily dosing of EPIVIR was assessed in the ARROW trial.
 Primary safety assessment in the ARROW trial was based on Grade 3 and Grade 4 adverse events.
 The frequency of Grade 3 and 4 adverse events was similar among subjects randomized to once-daily dosing compared with subjects randomized to twice-daily dosing.
 One event of Grade 4 hepatitis in the once-daily cohort was considered as uncertain causality by the investigator and all other Grade 3 or 4 adverse events were considered not related by the investigator.
 
-Neonates
-
-Limited short-term safety information is available from 2 small, uncontrolled trials in South Africa in neonates receiving lamivudine with or without zidovudine for the first week of life following maternal treatment starting at Week 38 or 36 of gestation [see Clinical Pharmacology (12.3)].
+Neonates: Limited short-term safety information is available from 2 small, uncontrolled trials in South Africa in neonates receiving lamivudine with or without zidovudine for the first week of life following maternal treatment starting at Week 38 or 36 of gestation [see Clinical Pharmacology (12.3)].
 Selected adverse reactions reported in these neonates included increased liver function tests, anemia, diarrhea, electrolyte disturbances, hypoglycemia, jaundice and hepatomegaly, rash, respiratory infections, and sepsis; 3 neonates died (1 from gastroenteritis with acidosis and convulsions, 1 from traumatic injury, and 1 from unknown causes).
 Two other nonfatal gastroenteritis or diarrhea cases were reported, including 1 with convulsions; 1 infant had transient renal insufficiency associated with dehydration.
 The absence of control groups limits assessments of causality, but it should be assumed that perinatally exposed infants may be at risk for adverse reactions comparable to those reported in pediatric and adult HIV-1-infected patients treated with lamivudine-containing combination regimens.
 Long-term effects of in utero and infant lamivudine exposure are not known.
 
-## 6.3 Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of EPIVIR.
 Because these reactions are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

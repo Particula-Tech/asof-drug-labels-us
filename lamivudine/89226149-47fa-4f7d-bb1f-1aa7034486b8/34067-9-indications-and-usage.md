@@ -4,4 +4,4 @@ EPIVIR is a nucleoside analogue indicated in combination with other antiretrovir
 
 Limitations of Use:
 
-The dosage of this product is for HIV‑1 and not for HBV.
+- •The dosage of this product is for HIV‑1 and not for HBV.
