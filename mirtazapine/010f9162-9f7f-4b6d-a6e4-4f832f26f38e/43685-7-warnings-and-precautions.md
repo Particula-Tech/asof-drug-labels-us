@@ -81,6 +81,15 @@ Treatment with REMERON and any concomitant serotonergic agents should be discont
 
 The pupillary dilation that occurs following use of many antidepressant drugs including REMERON may trigger an angle-closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
 
+## QT Prolongation and Torsades de Pointes
+
+The effect of REMERON (mirtazapine) on QTc interval was assessed in a clinical randomized trial with placebo and positive (moxifloxacin) controls involving 54 healthy volunteers using exposure response analysis.
+This trial showed a positive relationship between mirtazapine concentrations and prolongation of the QTc interval.
+However, the degree of QT prolongation observed with both 45 mg (therapeutic) and 75 mg (supratherapeutic) doses of mirtazapine was not at a level generally considered to be clinically meaningful.
+During the postmarketing use of mirtazapine, cases of QT prolongation, Torsades de Pointes, ventricular tachycardia, and sudden death, have been reported (see ADVERSE REACTIONS).
+The majority of reports occurred in association with overdose or in patients with other risk factors for QT prolongation, including concomitant use of QTc-prolonging medicines (see PRECAUTIONS, Drug Interactions and OVERDOSE sections).
+Caution should be exercised when REMERON is prescribed in patients with known cardiovascular disease or family history of QT prolongation, and in concomitant use with other medicinal products thought to prolong the QTc interval.
+
 # PRECAUTIONS
 
 ## General
@@ -299,6 +308,10 @@ Accordingly, patients should be advised to avoid alcohol while taking REMERON.
 Concomitant administration of diazepam (15 mg) had a minimal effect on plasma levels of mirtazapine (15 mg) in 12 healthy subjects.
 However, the impairment of motor skills produced by REMERON has been shown to be additive with those caused by diazepam.
 Accordingly, patients should be advised to avoid diazepam and other similar drugs while taking REMERON.
+
+### QTc-Prolonging Drugs
+
+The risk of QT prolongation and/or ventricular arrhythmias (e.g., Torsades de Pointes) may be increased with concomitant use of medicines which prolong the QTc interval (e.g., some antipsychotics and antibiotics) and in case of mirtazapine overdose (see ADVERSE REACTIONS and OVERDOSE sections).
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 

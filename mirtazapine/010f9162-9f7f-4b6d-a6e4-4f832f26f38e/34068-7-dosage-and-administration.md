@@ -37,7 +37,7 @@ Therapy with REMERON may be resumed 24 hours after the last dose of linezolid or
 The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with REMERON is unclear.
 The clinician should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use (see WARNINGS).
 
-## Discontinuation of Remeron Treatment
+## Discontinuation of REMERON Treatment
 
 Symptoms associated with the discontinuation or dose reduction of REMERON Tablets have been reported.
 Patients should be monitored for these and other symptoms when discontinuing treatment or during dosage reduction.
