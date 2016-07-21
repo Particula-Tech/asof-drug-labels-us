@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA077397"
+  ],
+  "inn": "sertraline",
+  "labeler": "Cipla USA Inc.",
+  "package_ndcs": [
+    "69097-833-02",
+    "69097-833-05",
+    "69097-833-07",
+    "69097-833-12",
+    "69097-834-02",
+    "69097-834-05",
+    "69097-834-07",
+    "69097-834-12",
+    "69097-835-02",
+    "69097-835-05",
+    "69097-835-07",
+    "69097-835-12"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "sertraline hydrochloride",
+      "name": "Sertraline Hydrochloride"
+    }
+  ],
+  "setid": "cf71d1b9-5ebb-429f-a07f-a87cd168250f",
+  "source": "dailymed"
+}
