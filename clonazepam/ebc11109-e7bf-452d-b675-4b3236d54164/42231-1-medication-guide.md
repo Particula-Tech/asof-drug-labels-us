@@ -1,4 +1,4 @@
-Medication Guide Clonazepam Tablets, USP CIV
+Medication Guide Clonazepam Tablets, USP (kloe-NA-za-pam) CIV
 
 Read this Medication Guide before you start taking clonazepam tablets and each time you get a refill.
 There may be new information.
@@ -16,8 +16,8 @@ Stopping clonazepam tablets suddenly can cause serious problems.
 Clonazepam tablets can cause serious side effects, including:
 
 1. Clonazepam tablets can slow your thinking and motor skills
-   - Do not drive, operate heavy machinery, or do other dangerous activities until you know how clonazepam tablets affects you.
-   - Do not drink alcohol or take other drugs that may make you sleepy or dizzy while taking clonazepam until you talk to your healthcare provider.
+   - Do not drive, operate heavy machinery, or do other dangerous activities until you know how clonazepam tablets affect you.
+   - Do not drink alcohol or take other drugs that may make you sleepy or dizzy while taking clonazepam tablets until you talk to your healthcare provider.
      When taken with alcohol or drugs that cause sleepiness or dizziness, clonazepam tablets may make your sleepiness or dizziness worse.
 2. Like other antiepileptic drugs, clonazepam tablets may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
    Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you: How can I watch for early symptoms of suicidal thoughts and actions?
@@ -114,8 +114,8 @@ How should I take clonazepam tablets?
 What should I avoid while taking clonazepam tablets?
 
 - Clonazepam tablets can slow your thinking and motor skills.
-  Do not drive, operate heavy machinery, or do other dangerous activities until you know how clonazepam tablets affects you.
-- Do not drink alcohol or take other drugs that may make you sleepy or dizzy while taking clonazepam until you talk to your healthcare provider.
+  Do not drive, operate heavy machinery, or do other dangerous activities until you know how clonazepam tablets affect you.
+- Do not drink alcohol or take other drugs that may make you sleepy or dizzy while taking clonazepam tablets until you talk to your healthcare provider.
   When taken with alcohol or drugs that cause sleepiness or dizziness, clonazepam tablets may make your sleepiness or dizziness worse.
 
 What are the possible side effects of clonazepam tablets?
@@ -158,6 +158,7 @@ It may harm them.
 This Medication Guide summarizes the most important information about clonazepam tablets.
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about clonazepam tablets that is written for health professionals.
+For more information, go to www.accord-healthcare.com or call Accord Healthcare Inc. at 1-866-941-7875.
 
 What are the ingredients in clonazepam tablets?
 
@@ -177,6 +178,6 @@ Manufactured For: Accord Healthcare, Inc., 1009, Slater Road, Suite 210-B, Durha
 Manufactured By: Intas Pharmaceuticals Limited, Plot No.: 457, 458, Village – Matoda, Bavla Road, Ta.- Sanand, Dist.- Ahmedabad – 382 210.
 India.
 
-10 7744 1 626035
+10 0533 0 667114
 
-Issued October, 2010.
+Issued April 2016

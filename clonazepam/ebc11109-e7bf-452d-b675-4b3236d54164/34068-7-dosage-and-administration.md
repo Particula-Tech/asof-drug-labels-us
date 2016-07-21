@@ -3,9 +3,9 @@
 Clonazepam is available as a tablet.
 The tablets should be administered with water by swallowing the tablet whole.
 
-## Seizure Disorders:
+Seizure Disorders:
 
-### Adults:
+Adults:
 
 The initial dose for adults with seizure disorders should not exceed 1.5 mg/day divided into three doses.
 Dosage may be increased in increments of 0.5 mg to 1 mg every 3 days until seizures are adequately controlled or until side effects preclude any further increase.
@@ -15,7 +15,7 @@ Maximum recommended daily dose is 20 mg.
 The use of multiple anticonvulsants may result in an increase of depressant adverse effects.
 This should be considered before adding clonazepam to an existing anticonvulsant regimen.
 
-### Pediatric Patients:
+Pediatric Patients:
 
 Clonazepam is administered orally.
 In order to minimize drowsiness, the initial dose for infants and children (up to 10 years of age or 30 kg of body weight) should be between 0.01 and 0.03 mg/kg/day but not to exceed 0.05 mg/kg/day given in two or three divided doses.
@@ -23,14 +23,14 @@ Dosage should be increased by no more than 0.25 mg to 0.5 mg every third day unt
 Whenever possible, the daily dose should be divided into three equal doses.
 If doses are not equally divided, the largest dose should be given before retiring.
 
-### Geriatric Patients:
+Geriatric Patients:
 
 There is no clinical trial experience with clonazepam in seizure disorder patients 65 years of age and older.
 In general, elderly patients should be started on low doses of clonazepam and observed closely (see PRECAUTIONS: Geriatric Use).
 
-## Panic Disorder:
+Panic Disorder:
 
-### Adults:
+Adults:
 
 The initial dose for adults with panic disorder is 0.25 mg bid.
 An increase to the target dose for most patients of 1 mg/day may be made after 3 days.
@@ -44,11 +44,11 @@ Treatment should be discontinued gradually, with a decrease of 0.125 mg bid ever
 There is no body of evidence available to answer the question of how long the patient treated with clonazepam should remain on it.
 Therefore, the physician who elects to use clonazepam for extended periods should periodically reevaluate the long-term usefulness of the drug for the individual patient.
 
-### Pediatric Patients:
+Pediatric Patients:
 
 There is no clinical trial experience with clonazepam in panic disorder patients under 18 years of age.
 
-### Geriatric Patients:
+Geriatric Patients:
 
 There is no clinical trial experience with clonazepam in panic disorder patients 65 years of age and older.
 In general, elderly patients should be started on low doses of clonazepam and observed closely (see PRECAUTIONS: Geriatric Use).

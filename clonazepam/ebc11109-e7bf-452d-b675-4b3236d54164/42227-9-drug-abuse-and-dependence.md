@@ -1,10 +1,10 @@
 # DRUG ABUSE AND DEPENDENCE
 
-## Controlled Substance Class:
+Controlled Substance Class:
 
 Clonazepam is a Schedule IV controlled substance.
 
-## Physical and Psychological Dependence:
+Physical and Psychological Dependence:
 
 Withdrawal symptoms, similar in character to those noted with barbiturates and alcohol (eg, convulsions, psychosis, hallucinations, behavioral disorder, tremor, abdominal and muscle cramps) have occurred following abrupt discontinuance of clonazepam.
 The more severe withdrawal symptoms have usually been limited to those patients who received excessive doses over an extended period of time.

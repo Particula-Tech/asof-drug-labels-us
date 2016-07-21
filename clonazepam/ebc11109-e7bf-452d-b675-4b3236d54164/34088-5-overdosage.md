@@ -1,10 +1,10 @@
 # OVERDOSAGE
 
-## Human Experience:
+Human Experience:
 
 Symptoms of clonazepam overdosage, like those produced by other CNS depressants, include somnolence, confusion, coma and diminished reflexes.
 
-## Overdose Management:
+Overdose Management:
 
 Treatment includes monitoring of respiration, pulse and blood pressure, general supportive measures and immediate gastric lavage.
 Intravenous fluids should be administered and an adequate airway maintained.
