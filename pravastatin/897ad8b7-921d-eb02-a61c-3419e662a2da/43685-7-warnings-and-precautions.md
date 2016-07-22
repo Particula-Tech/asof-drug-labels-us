@@ -7,7 +7,7 @@ A history of renal impairment may be a risk factor for the development of rhabdo
 Such patients merit closer monitoring for skeletal muscle effects.
 
 Uncomplicated myalgia has also been reported in pravastatin-treated patients [see Adverse Reactions (6)].
-Myopathy, defined as muscle aching or muscle weakness in conjunction with increases in creatine phosphokinase (CPK) values to greater than 10 times the upper limit of normal (ULN), was rare (<0.1%) in pravastatin clinical trials.
+Myopathy, defined as muscle aching or muscle weakness in conjunction with increases in creatine phosphokinase (CPK) values to greater than 10 times the ULN, was rare (<0.1%) in pravastatin clinical trials.
 Myopathy should be considered in any patient with diffuse myalgias, muscle tenderness or weakness, and/or marked elevation of CPK.
 Predisposing factors include advanced age (≥65), uncontrolled hypothyroidism, and renal impairment.
 
@@ -34,11 +34,11 @@ Cases of myopathy, including rhabdomyolysis, have been reported with pravastatin
 
 Statins, like some other lipid-lowering therapies, have been associated with biochemical abnormalities of liver function.
 In 3 long-term (4.8-5.9 years), placebo-controlled clinical trials (WOS, LIPID, CARE), 19,592 subjects (19,768 randomized) were exposed to pravastatin or placebo [see Clinical Studies (14)].
-In an analysis of serum transaminase values (ALT, AST), incidences of marked abnormalities were compared between the pravastatin and placebo treatment groups; a marked abnormality was defined as a post-treatment test value greater than 3 times the upper limit of normal for subjects with pretreatment values less than or equal to the upper limit of normal, or 4 times the pretreatment value for subjects with pretreatment values greater than the upper limit of normal but less than 1.5 times the upper limit of normal.
+In an analysis of serum transaminase values (ALT, AST), incidences of marked abnormalities were compared between the pravastatin and placebo treatment groups; a marked abnormality was defined as a post-treatment test value greater than 3 times the ULN for subjects with pretreatment values less than or equal to the ULN, or 4 times the pretreatment value for subjects with pretreatment values greater than the ULN but less than 1.5 times the ULN.
 Marked abnormalities of ALT or AST occurred with similar low frequency (≤1.2%) in both treatment groups.
 Overall, clinical trial experience showed that liver function test abnormalities observed during pravastatin therapy were usually asymptomatic, not associated with cholestasis, and did not appear to be related to treatment duration.
 In a 320-patient placebo-controlled clinical trial, subjects with chronic (>6 months) stable liver disease, due primarily to hepatitis C or non-alcoholic fatty liver disease, were treated with 80 mg pravastatin or placebo for up to 9 months.
-The primary safety endpoint was the proportion of subjects with at least one ALT ≥2 times the upper limit of normal for those with normal ALT (≤ the upper limit of normal) at baseline or a doubling of the baseline ALT for those with elevated ALT (> the upper limit of normal) at baseline.
+The primary safety endpoint was the proportion of subjects with at least one ALT ≥2 times the ULN for those with normal ALT (≤ ULN) at baseline or a doubling of the baseline ALT for those with elevated ALT (> ULN) at baseline.
 By Week 36, 12 out of 160 (7.5%) subjects treated with pravastatin met the prespecified safety ALT endpoint compared to 20 out of 160 (12.5%) subjects receiving placebo.
 Conclusions regarding liver safety are limited since the study was not large enough to establish similarity between groups (with 95% confidence) in the rates of ALT elevation.
 

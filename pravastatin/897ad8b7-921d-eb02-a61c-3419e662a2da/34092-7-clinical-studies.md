@@ -105,7 +105,7 @@ Furthermore, pravastatin attenuated cholestyramine-induced increases in TG level
 ## 14.4 Hypertriglyceridemia (Fredrickson Type IV)
 
 The response to pravastatin in patients with Type IV hyperlipidemia (baseline TG >200 mg/dL and LDL-C <160 mg/dL) was evaluated in a subset of 429 patients from the CARE study.
-For pravastatin-treated subjects, the median (min, max) baseline TG level was 246.0 (200.5, 349.5) mg/dL (see Table 8.)
+For pravastatin-treated subjects, the median (min, max) baseline TG level was 246.0 (200.5, 349.5) mg/dL (see Table 8).
 
 Table 8: Patients with Fredrickson Type IV Hyperlipidemia Median (25th, 75th percentile) % Change from Baseline
 

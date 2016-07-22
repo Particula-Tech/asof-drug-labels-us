@@ -4,10 +4,6 @@
 
 PRAVACHOL® (pravastatin sodium) Tablets are supplied as:
 
-10 mg tablets: Pink to peach, rounded, rectangular-shaped, biconvex with a “P” embossed on one side and “PRAVACHOL 10” engraved on the opposite side.
-They are supplied in bottles of 90 (NDC 0003-5154-05).
-Bottles contain a desiccant canister.
-
 20 mg tablets: Yellow, rounded, rectangular-shaped, biconvex with a “P” embossed on one side and “PRAVACHOL 20” engraved on the opposite side.
 They are supplied in bottles of 90 (NDC 0003-5178-05).
 Bottles contain a desiccant canister.
