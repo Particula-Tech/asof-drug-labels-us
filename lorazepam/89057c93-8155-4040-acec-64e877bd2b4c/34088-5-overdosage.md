@@ -7,7 +7,7 @@ Therefore, in the management of overdosage, it should be borne in mind that mult
 
 Overdosage of benzodiazepines is usually manifested by varying degrees of central nervous system depression ranging from drowsiness to coma.
 In mild cases, symptoms include drowsiness, mental confusion, paradoxical reactions, dysarthria and lethargy.
-In more serious cases, and especially when other drugs or alcohol were ingested, symptoms may include ataxia, hypotonia, hypotension, cardiovascular depression, respiratory depression, hypnotic state, coma, and, death.
+In more serious cases, and especially when other drugs or alcohol were ingested, symptoms may include ataxia, hypotonia, hypotension, cardiovascular depression, respiratory depression, hypnotic state, coma, and death.
 
 ## Management
 

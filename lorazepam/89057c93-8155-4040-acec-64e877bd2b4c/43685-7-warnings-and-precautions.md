@@ -4,7 +4,7 @@ Pre-existing depression may emerge or worsen during use of benzodiazepines inclu
 Ativan (lorazepam) is not recommended for use in patients with a primary depressive disorder or psychosis.
 
 Use of benzodiazepines, including lorazepam, both used alone and in combination with other CNS depressants, may lead to potentially fatal respiratory depression.
-(See PRECAUTIONS Clinically Significant Drug Interactions)
+(See PRECAUTIONS Clinically Significant Drug Interactions).
 
 Use of benzodiazepines, including lorazepam, may lead to physical and psychological dependence.
 
