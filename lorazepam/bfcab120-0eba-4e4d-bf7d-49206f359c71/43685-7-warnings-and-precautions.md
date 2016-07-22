@@ -17,11 +17,10 @@ The risk of dependence increases with higher doses and longer term use and is fu
 The dependence potential is reduced when lorazepam is used at the appropriate dose for short-term treatment.
 Addiction-prone individuals (such as drug addicts or alcoholics) should be under careful surveillance when receiving lorazepam or other psychotropic agents.
 
-In general, benzodiazepines should be prescribed for short periods only (e.g.
-2 to 4 weeks).
+In general, benzodiazepines should be prescribed for short periods only (e.g., 2 to 4 weeks).
 Extension of the treatment period should not take place without reevaluation of the need for continued therapy.
 Continuous long-term use of product is not recommended.
-Withdrawal symptoms (e.g., rebound insomnia) can appear following cessation of recommended doses after as little as one week of therapy.
+Withdrawal symptoms (e.g. rebound insomnia) can appear following cessation of recommended doses after as little as one week of therapy.
 Abrupt discontinuation of product should be avoided and a gradual dosage-tapering schedule followed after extended therapy.
 
 Abrupt termination of treatment may be accompanied by withdrawal symptoms.
