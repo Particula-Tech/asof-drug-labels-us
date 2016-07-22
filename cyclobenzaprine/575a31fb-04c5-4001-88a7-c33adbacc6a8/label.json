@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA090478"
+  ],
+  "inn": "cyclobenzaprine",
+  "labeler": "Cipla USA Inc.",
+  "package_ndcs": [
+    "69097-845-07",
+    "69097-845-15",
+    "69097-846-07",
+    "69097-846-15"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "cyclobenzaprine",
+      "name": "Cyclobenzaprine Hydrochloride"
+    }
+  ],
+  "setid": "575a31fb-04c5-4001-88a7-c33adbacc6a8",
+  "source": "dailymed"
+}
