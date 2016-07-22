@@ -2,7 +2,7 @@
 
 ## 5.1 Hyperglycemia, Hypoglycemia or Death due to Dosing Errors with the Vial Presentation
 
-Medication errors associated with the HUMULIN R U-500 vial presentation have occurred and resulted in patients experiencing hyperglycemia, hypoglycemia or death.
+Medication errors associated with the HUMULIN R U-500 vial presentation resulting in patients experiencing hyperglycemia, hypoglycemia or death have been reported.
 The majority of errors occurred due to errors in dispensing, prescribing or administration.
 Attention to details at all levels may prevent these errors.
 
@@ -10,28 +10,29 @@ Dispensing Errors
 
 Instruct patients to always inspect insulin vials to confirm that the correct insulin is dispensed including the correct insulin brand and concentration.
 
-The HUMULIN R U-500 vial, which contains 20 mL, has a band of diagonal brown stripes.
-“U-500” is also highlighted in red on the HUMULIN R U-500 vial label.
+The HUMULIN R U-500 vial, which contains 20 mL, has a band of aqua coloring, a 500 units/mL concentration statement consisting of white lettering on a green rectangular background, and a green “U-500” statement prominently displayed next to the trade name.
+Additionally, the vial has a green flip top and a red warning on the front panel describing the highly concentrated dose and a statement advising use with only U-500 insulin syringes.
 
 Prescribing Errors
 
-When using a U-100 insulin syringe or tuberculin syringe, express the prescribed dose of HUMULIN R U-500 in units of insulin along with the appropriate corresponding markings on the syringe the patient is using [see Dosage and Administration (2.4)].
+Dosing errors have occurred when the HUMULIN R U-500 dose was administered with syringes other than a U-500 insulin syringe.
+Patients should be prescribed U-500 syringes for use with the HUMULIN R U-500 vials.
+The prescribed dose of HUMULIN R U-500 should always be expressed in units of insulin [see Dosage and Administration (2.4)].
 
 Administration Errors
 
 Instruct patients to always check the insulin label before each injection.
 
-A majority of the medication errors with HUMULIN R U-500 vial presentation occurred due to dosing confusion when the HUMULIN R U-500 dose was prescribed in units or volume corresponding to a U-100 syringe or tuberculin syringe markings, respectively, or the prescribed dose was administered without recognizing that the markings on the syringe used do not directly correspond to U-500 dose.
-Adhere to administration and conversion instructions [see Dosage and Administration (2.1, 2.4)].
+Use only a U-500 insulin syringe with HUMULIN R U-500 to avoid administration errors.
+Do not use any other type of syringe to administer Humulin R U-500.
+Adhere to administration instructions [see Dosage and Administration (2.1, 2.4)].
 
 Instruct the patient to inform hospital or emergency department staff of the dose of HUMULIN R U-500 prescribed, in the event of a future hospitalization or visit to the Emergency Department.
 
-Conversion instructions are provided and should always be used when administering HUMULIN R U-500 doses with U-100 insulin syringes or 1 mL tuberculin syringes [see Dosage and Administration (2.4)].
-
-## 5.2 Never Share a HUMULIN R U-500 KwikPen or Syringe Between Patients
+## 5.2 Never Share a HUMULIN R U-500 KwikPen or U-500 Insulin Syringe Between Patients
 
 HUMULIN R U-500 KwikPens should never be shared between patients, even if the needle is changed.
-Patients using HUMULIN R U-500 vials should never share needles or syringes with another person.
+Patients using HUMULIN R U-500 vials should never share needles or U-500 insulin syringes with another person.
 Sharing poses a risk for transmission of blood-borne pathogens.
 
 ## 5.3 Hyperglycemia or Hypoglycemia with Changes in Insulin Regimen

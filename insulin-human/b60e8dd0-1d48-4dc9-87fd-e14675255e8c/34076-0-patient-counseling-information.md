@@ -9,7 +9,7 @@ To avoid medication errors between HUMULIN R U-500 and other insulins, patients 
 
 If using the HUMULIN R U-500 KwikPen, patients should be counseled to dial and dose the prescribed number of units of insulin (no dose conversion is required) [see Dosage and Administration (2.3)].
 
-When using HUMULIN R U-500 from a vial, patients should be counseled to calculate the conversion and measure the amount of delivered insulin using the unit of measurement that corresponds to the type of syringe being used [see Dosage and Administration (2.4)].
+When using HUMULIN R U-500 from a vial, patients should be counseled to use only a U-500 insulin syringe and be informed that no dose conversion is required [see Dosage and Administration (2.4)].
 
 Patients should be instructed on self-management procedures including glucose monitoring, proper injection technique, and management of hypoglycemia and hyperglycemia, especially at initiation of HUMULIN R U-500 therapy.
 Patients must be instructed on handling of special situations such as intercurrent conditions (illness, stress, or emotional disturbances), an inadequate or skipped insulin dose, inadvertent administration of an increased insulin dose, inadequate food intake, and skipped meals.
@@ -23,10 +23,3 @@ Never use HUMULIN R U-500 if it has become viscous (thickened) or cloudy; use it
 HUMULIN R U-500 should not be used after the printed expiration date.
 
 Do not dilute or mix HUMULIN R U-500 with any other insulin products or solutions [see Dosage and Administration (2.1)].
-
-Literature Revised: March 2016
-
-Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA Copyright © 1997, 2016, Eli Lilly and Company.
-All rights reserved.
-
-LINR500-0003-USPI-20160301
