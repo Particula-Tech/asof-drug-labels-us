@@ -45,7 +45,7 @@ Therapy with REMERONSolTab may be resumed 24 hours after the last dose of linezo
 The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with REMERONSolTab is unclear.
 The clinician should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use (see WARNINGS).
 
-## Discontinuation of Remeron Treatment
+## Discontinuation of REMERONSolTab Treatment
 
 Symptoms associated with the discontinuation or dose reduction of REMERONSolTab Orally Disintegrating Tablets have been reported.
 Patients should be monitored for these and other symptoms when discontinuing treatment or during dosage reduction.

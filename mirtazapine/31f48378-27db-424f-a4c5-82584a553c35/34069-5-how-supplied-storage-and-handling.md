@@ -12,6 +12,6 @@ REMERONSolTab (mirtazapine) Orally Disintegrating Tablets are supplied as:
 
 ## Storage
 
-Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 Protect from light and moisture.
 Use immediately upon opening individual tablet blister.
