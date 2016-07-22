@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "ANDA205612"
+  ],
+  "inn": "ropivacaine",
+  "labeler": "AuroMedics Pharma LLC",
+  "package_ndcs": [
+    "55150-195-20",
+    "55150-196-99",
+    "55150-197-20",
+    "55150-198-30",
+    "55150-199-20",
+    "55150-200-10",
+    "55150-201-20"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "ropivacaine hydrochloride",
+      "name": "Ropivacaine Hydrochloride"
+    }
+  ],
+  "setid": "3763b7b6-da49-4658-b93d-28f5da24d09e",
+  "source": "dailymed"
+}
