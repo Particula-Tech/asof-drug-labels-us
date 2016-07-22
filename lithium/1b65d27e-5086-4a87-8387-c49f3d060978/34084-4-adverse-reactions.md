@@ -18,50 +18,21 @@ Serum lithium concentrations should not be permitted to exceed 2 mEq/L during th
 
 The following reactions have been reported and appear to be related to serum lithium concentrations, including concentrations within the therapeutic range:
 
-## Central Nervous System:
-
-tremor, muscle hyperirritability (fasciculations, twitching, clonic movements of whole limbs), hypertonicity, ataxia, choreoathetotic movements, hyperactive deep tendon reflex, extrapyramidal symptoms including acute dystonia, cogwheel rigidity, blackout spells, epileptiform seizures, slurred speech, dizziness, vertigo, downbeat nystagmus, incontinence of urine or feces, somnolence, psychomotor retardation, restlessness, confusion, stupor, coma, tongue movements, tics, tinnitus, hallucinations, poor memory, slowed intellectual functioning, startled response, worsening of organic brain syndromes.
-Cases of Pseudotumor Cerebri (increased intracranial pressure and papilledema) have been reported with lithium use.
+Central Nervous System: tremor, muscle hyperirritability (fasciculations, twitching, clonic movements of whole limbs), hypertonicity, ataxia, choreoathetotic movements, hyperactive deep tendon reflex, extrapyramidal symptoms including acute dystonia, cogwheel rigidity, blackout spells, epileptiform seizures, slurred speech, dizziness, vertigo, downbeat nystagmus, incontinence of urine or feces, somnolence, psychomotor retardation, restlessness, confusion, stupor, coma, tongue movements, tics, tinnitus, hallucinations, poor memory, slowed intellectual functioning, startled response, worsening of organic brain syndromes.
+Cases of Pseudotumor cerebri (increased intracranial pressure and papilledema) have been reported with lithium use.
 If undetected, this condition may result in enlargement of the blind spot, constriction of visual fields, and eventual blindness due to optic atrophy.
-Lithium should be discontinued, if clinically possible, if this syndrome occurs;
-
-## Cardiovascular:
-
-cardiac arrhythmia, hypotension, peripheral circulatory collapse, bradycardia, sinus node dysfunction with severe bradycardia (which may result in syncope), unmasking of Brugada Syndrome [See WARNINGSand PATIENT COUNSELING INFORMATION];
-
-## Gastrointestinal:
-
-anorexia, nausea, vomiting, diarrhea, gastritis, salivary gland swelling, abdominal pain, excessive salivation, flatulence, indigestion;
-
-## Genitourinary:
-
-glycosuria, decreased creatinine clearance, albuminuria, oliguria, and symptoms of nephrogenic diabetes insipidus including polyuria, thirst and polydipsia;
-
-## Dermatologic:
-
-drying and thinning of hair, alopecia, anesthesia of skin, acne, chronic folliculitis, xerosis cutis, psoriasis or its exacerbation, generalized pruritus with or without rash, cutaneous ulcers, angioedema;
-
-## Autonomic Nervous System:
-
-blurred vision, dry mouth, impotence/sexual dysfunction;
-
-## Thyroid Abnormalities:
-
-euthyroid goiter and/or hypothyroidism (including myxedema) accompanied by lower T3 and T4.
+Lithium should be discontinued, if clinically possible, if this syndrome occurs.
+Cardiovascular: cardiac arrhythmia, hypotension, peripheral circulatory collapse, bradycardia, sinus node dysfunction with severe bradycardia (which may result in syncope), Unmasking of Brugada Syndrome (See WARNINGS and PATIENT COUNSELING INFORMATION).
+Gastrointestinal: anorexia, nausea, vomiting, diarrhea, gastritis, salivary gland swelling, abdominal pain, excessive salivation, flatulence, indigestion.
+Genitourinary: glycosuria, decreased creatinine clearance, albuminuria, oliguria, and symptoms of nephrogenic diabetes insipidus including polyuria, thirst and polydipsia.
+Dermatologic: drying and thinning of hair, alopecia, anesthesia of skin, acne, chronic folliculitis, xerosis cutis, psoriasis or its exacerbation, generalized pruritus with or without rash, cutaneous ulcers, angioedema.
+Autonomic Nervous System: blurred vision, dry mouth, impotence/sexual dysfunction.
+Thyroid Abnormalities: euthyroid goiter and/or hypothyroidism (including myxedema) accompanied by lower T3 and T4.
 131Iodine uptake may be elevated (see PRECAUTIONS).
-Paradoxically, rare cases of hyperthyroidism have been reported;
-
-## EEG Changes:
-
-diffuse slowing, widening of frequency spectrum, potentiation and disorganization of background rhythm;
-
-## EKG Changes:
-
-reversible flattening, isoelectricity or inversion of T-waves;
-
-## Miscellaneous:
-
-fatigue, lethargy, transient scotomata, exophthalmos, dehydration, weight loss, leucocytosis, headache, transient hyperglycemia, hypercalcemia, hyperparathyroidism, albuminuria, excessive weight gain, edematous swelling of ankles and wrists, metallic taste, dysgeusia/taste distortion, salty taste, thirst, swollen lips, tightness in chest, swollen and/or painful joints, fever, polyarthralgia, and dental caries.
+Paradoxically, rare cases of hyperthyroidism have been reported.
+EEG Changes: diffuse slowing, widening of frequency spectrum, potentiation and disorganization of background rhythm.
+EKG Changes: reversible flattening, isoelectricity or inversion of T-waves.
+Miscellaneous: fatigue, lethargy, transient scotomata, exophthalmos, dehydration, weight loss, leucocytosis, headache, transient hyperglycemia, hypercalcemia, hyperparathyroidism, albuminuria, excessive weight gain, edematous swelling of ankles or wrists, metallic taste, dysgeusia/taste distortion, salty taste, thirst, swollen lips, tightness in chest, swollen and/or painful joints, fever, polyarthralgia, and dental caries.
 
 Some reports of nephrogenic diabetes insipidus, hyperparathyroidism, and hypothyroidism which persist after lithium discontinuation have been received.
 
