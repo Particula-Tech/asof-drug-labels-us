@@ -19,6 +19,8 @@ Table 1 Adverse Reactions Reported in ≥5% of Patients Treated with Empaglifloz
 
 Empagliflozin Adverse reactions that occurred in ≥2% of patients receiving empagliflozin and more commonly than in patients given placebo included (10 mg, 25 mg, and placebo): urinary tract infection (9.3%, 7.6%, and 7.6%), female genital mycotic infections (5.4%, 6.4%, and 1.5%), upper respiratory tract infection (3.1%, 4.0%, and 3.8%), increased urination (3.4%, 3.2%, and 1.0%), dyslipidemia (3.9%, 2.9%, and 3.4%), arthralgia (2.4%, 2.3%, and 2.2%), male genital mycotic infections (3.1%, 1.6%, and 0.4%), and nausea (2.3%, 1.1%, and 1.4%).
 
+Thirst (including polydipsia) was reported in 0%, 1.7%, and 1.5% for placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively.
+
 Empagliflozin causes an osmotic diuresis, which may lead to intravascular volume contraction and adverse reactions related to volume depletion.
 
 Linagliptin Adverse reactions reported in ≥2% of patients treated with linagliptin 5 mg and more commonly than in patients treated with placebo included: nasopharyngitis (7.0% and 6.1%), diarrhea (3.3% and 3.0%), and cough (2.1% and 1.4%).
@@ -34,7 +36,7 @@ Table 2 summarizes the reports of hypoglycemia with empagliflozin and linaglipti
 
 Table 2 Incidence of Overalla and Severeb Hypoglycemic Adverse Reactions
 
-| Add-on to Metformin (52 weeks) | GLYXAMBI 10 mg/5 mg n=136 | GLYXAMBI 25 mg/5 mg n=137 |
+| Add-on to Metformin (52 weeks) | GLYXAMBI 10 mg/5 mg (n=136) | GLYXAMBI 25 mg/5 mg (n=137) |
 | --- | --- | --- |
 | Overall (%) | 2.2% | 3.6% |
 | Severe (%) | 0% | 0% |

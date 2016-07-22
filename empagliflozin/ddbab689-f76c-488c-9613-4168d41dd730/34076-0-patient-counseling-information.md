@@ -32,7 +32,8 @@ If symptoms of allergic reactions (such as rash, skin flaking or peeling, urtica
 Hypotension Inform patients that hypotension may occur with GLYXAMBI and advise them to contact their healthcare provider if they experience such symptoms [see Warnings and Precautions (5.2)].
 Inform patients that dehydration may increase the risk for hypotension, and to have adequate fluid intake.
 
-Ketoacidosis Inform patients that ketoacidosis has been reported during use of empagliflozin.
+Ketoacidosis Inform patients that ketoacidosis is a serious life-threatening condition.
+Cases of ketoacidosis have been reported during use of empagliflozin.
 Instruct patients to check ketones (when possible) if symptoms consistent with ketoacidosis occur even if blood glucose is not elevated.
 If symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness, and labored breathing) occur, instruct patients to discontinue GLYXAMBI and seek medical advice immediately [see Warnings and Precautions (5.3)].
 
@@ -49,7 +50,7 @@ Advise them of treatment options and when to seek medical advice [see Warnings a
 
 Severe and Disabling Arthralgia Inform patients that severe and disabling joint pain may occur with this class of drugs.
 The time to onset of symptoms can range from one day to years.
-Instruct patients to seek medical advice if severe joint pain occurs [see Warnings and Precautions (5.9)].
+Instruct patients to seek medical advice if severe joint pain occurs [see Warnings and Precautions (5.10)].
 
 Laboratory Tests Inform patients that renal function should be assessed prior to initiation of GLYXAMBI and monitored periodically thereafter.
 
