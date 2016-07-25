@@ -46,10 +46,7 @@ Families and caregivers of patients being treated with antidepressants for Major
 Such monitoring should include daily observation by families and caregivers.
 Prescriptions for fluoxetine should be written for the smallest quantity of capsules consistent with good patient management, in order to reduce the risk of overdose.
 
-It should be noted that fluoxetine is approved in the pediatric population for Major Depressive Disorder and Obsessive Compulsive Disorder.
-
-Information for pediatric patients (10 to 17 years) is approved for Eli Lilly and Company’s Fluoxetine Capsules.
-However due to Eli Lilly and Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+It should be noted that fluoxetine is approved in the pediatric population for Major Depressive Disorder and Obsessive Compulsive Disorder; and fluoxetine in combination with olanzapine with for the acute treatment of depressive episodes associated with Bipolar I Disorder.
 
 ## 5.2 Serotonin Syndrome
 
@@ -155,7 +152,7 @@ Among the most common adverse reactions associated with discontinuation (inciden
 Post-marketing cases of QT interval prolongation and ventricular arrhythmia including Torsades de Pointes have been reported in patients treated with fluoxetine.
 Fluoxetine should be used with caution in patients with congenital long QT syndrome; a previous history of QT prolongation; a family history of long QT syndrome or sudden cardiac death; and other conditions that predispose to QT prolongation and ventricular arrhythmia.
 Such conditions include concomitant use of drugs that prolong the QT interval; hypokalemia or hypomagnesemia; recent myocardial infarction, uncompensated heart failure, bradyarrhythmias, and other significant arrhythmias; and conditions that predispose to increased fluoxetine exposure (overdose, hepatic impairment, use of CYP2D6 inhibitors, CYP2D6 poor metabolizer status, or use of other highly protein-bound drugs).
-Fluoxetine is primarily metabolized by CYP2D6 [see Contraindications (4.2), Drug Interactions (7.7,7.8), Overdose (10.1), and Clinical Pharmacology (12.3)].
+Fluoxetine is primarily metabolized by CYP2D6 [see Contraindications (4.2), Drug Interactions (7.7, 7.8), Overdose (10.1), and Clinical Pharmacology (12.3)].
 Pimozide and thioridazine are contraindicated for use with fluoxetine.
 Avoid the concomitant use of drugs known to prolong the QT interval.
 These include specific antipsychotics (e.g., ziprasidone, iloperidone, chlorpromazine, mesoridazine, droperidol,); specific antibiotics (e.g., erythromycin, gatifloxacin, moxifloxacin, sparfloxacin); Class 1A antiarrhythmic medications (e.g., quinidine, procainamide); Class III antiarrhythmics (e.g., amiodarone, sotalol); and others (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol or tacrolimus) [see Drug Interactions (7.7, 7.8) and Clinical Pharmacology (12.3)].

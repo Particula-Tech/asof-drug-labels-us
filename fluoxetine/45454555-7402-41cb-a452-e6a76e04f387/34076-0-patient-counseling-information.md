@@ -76,12 +76,16 @@ Patients should be advised to consult with their healthcare provider if their sy
 
 Pregnancy — Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy.
 Fluoxetine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus [see Use in Specific Populations (8.1)].
+
 Nursing Mothers — Patients should be advised to notify their physician if they intend to breast-feed an infant during therapy.
 Because fluoxetine is excreted in human milk, nursing while taking fluoxetine is not recommended [see Use in Specific Populations (8.3)].
+
 Pediatric Use of Fluoxetine — Fluoxetine is approved for use in pediatric patients with MDD and OCD [see Box Warning and Warnings and Precautions (5.1)].
 Limited evidence is available concerning the longer-term effects of fluoxetine on the development and maturation of children and adolescent patients.
 Height and weight should be monitored periodically in pediatric patients receiving fluoxetine [see Warnings and Precautions (5.6) and Use in Specific Populations (8.4)].
-Information for pediatric patients (10 to 17 years) is approved for Eli Lilly and Company’s Fluoxetine Capsules.
-However due to Eli Lilly and Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+
+Pediatric Use of fluoxetine and olanzapine in combination – Safety and efficacy of fluoxetine and olanzapine in combination in patients 10 to 17 years of age have been established for the acute treatment of depressive episodes associated with Bipolar I Disorder [see Warnings and Precautions (5.16) and Use in Specific Population (8.4)].
+
 Symbyax® and Sarafem® are registered trademarks of Eli Lilly.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 12/2014
+
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 090, India Revised: 07/2016 Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides
