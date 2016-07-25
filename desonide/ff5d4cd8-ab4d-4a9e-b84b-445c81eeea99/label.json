@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "ANDA072354",
+    "NDA019048"
+  ],
+  "inn": "desonide",
+  "labeler": "Actavis Pharma, Inc.",
+  "package_ndcs": [
+    "0472-0803-02",
+    "0472-0803-04",
+    "0472-0804-15",
+    "0472-0804-60"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "desonide",
+      "name": "Desonide"
+    },
+    {
+      "form": "LOTION",
+      "generic": "desonide",
+      "name": "Desonide"
+    }
+  ],
+  "setid": "ff5d4cd8-ab4d-4a9e-b84b-445c81eeea99",
+  "source": "dailymed"
+}
