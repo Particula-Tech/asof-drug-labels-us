@@ -2,68 +2,75 @@
 
 ## 8.1 Pregnancy
 
-DULERA: Teratogenic Effects: Pregnancy Category C
+Risk Summary
 
-There are no adequate and well-controlled studies of DULERA, mometasone furoate only or formoterol fumarate only in pregnant women.
-Animal reproduction studies of mometasone furoate and formoterol in mice, rats, and/or rabbits revealed evidence of teratogenicity as well as other developmental toxic effects.
-Because animal reproduction studies are not always predictive of human response, DULERA should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-
-Mometasone Furoate: Teratogenic Effects
-
-When administered to pregnant mice, rats, and rabbits, mometasone furoate increased fetal malformations and decreased fetal growth (measured by lower fetal weights and/or delayed ossification).
-Dystocia and related complications were also observed when mometasone furoate was administered to rats late in gestation.
+There are no randomized clinical studies of DULERA, mometasone furoate, or formoterol fumarate in pregnant women.
+There are clinical considerations with the use of DULERA in pregnant women [see Clinical Considerations].
+Animal reproduction studies with DULERA are not available; however, studies are available with its individual components, mometasone furoate and formoterol fumarate.
+In animal reproduction studies, subcutaneous administration of mometasone furoate to pregnant mice, rats, or rabbits caused increased fetal malformations and decreased fetal survival and growth following administration of doses that produced exposures approximately 1/3 to 8 times the maximum recommended human dose (MRHD) on a mcg/m2 or AUC basis [see Data].
 However, experience with oral corticosteroids suggests that rodents are more prone to teratogenic effects from corticosteroid exposure than humans.
+In animal reproduction studies, oral administration of formoterol fumarate to pregnant rats and rabbits caused increased fetal malformations (rats and rabbits), decreased fetal weight (rats), and increased neonatal mortality (rats) following administration of doses that produced exposures approximately 1200 to 49,000 times the MRHD on a mg/m2 or AUC basis [see Data].
+These adverse effects generally occurred at large multiples of the MRHD when formoterol fumarate was administered by the oral route to achieve high systemic exposures.
+No effects were observed in a study with rats that received formoterol fumarate by the inhalation route at an exposure approximately 500 times the MRHD.
 
-In a mouse reproduction study, subcutaneous mometasone furoate produced cleft palate at approximately one-third of the maximum recommended daily human dose (MRHD) on a mcg/m2 basis and decreased fetal survival at approximately 1 time the MRHD.
-No toxicity was observed at approximately one-tenth of the MRHD on a mcg/m2 basis.
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+In the U.S. general population, the estimated risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-In a rat reproduction study, mometasone furoate produced umbilical hernia at topical dermal doses approximately 6 times the MRHD on a mcg/m2 basis and delays in ossification at approximately 3 times the MRHD on a mcg/m2 basis.
+Clinical Considerations
 
-In another study, rats received subcutaneous doses of mometasone furoate throughout pregnancy or late in gestation.
-Treated animals had prolonged and difficult labor, fewer live births, lower birth weight, and reduced early pup survival at a dose that was approximately 8 times the MRHD on an area under the curve (AUC) basis.
-Similar effects were not observed at approximately 4 times MRHD on an AUC basis.
+Disease-associated maternal and/or embryo/fetal risk
 
-In rabbits, mometasone furoate caused multiple malformations (e.g., flexed front paws, gallbladder agenesis, umbilical hernia, hydrocephaly) at topical dermal doses approximately 3 times the MRHD on a mcg/m2 basis.
-In an oral study, mometasone furoate increased resorptions and caused cleft palate and/or head malformations (hydrocephaly and domed head) at a dose less than the MRHD based on AUC.
-At a dose approximately 2 times the MRHD based on AUC, most litters were aborted or resorbed [see Nonclinical Toxicology (13.2)].
+In women with poorly or moderately controlled asthma, there is an increased risk of several perinatal adverse outcomes such as preeclampsia in the mother and prematurity, low birth weight, and small for gestational age in the neonate.
+Pregnant women with asthma should be closely monitored and medication adjusted as necessary to maintain optimal asthma control.
 
-Nonteratogenic Effects:
-
-Hypoadrenalism may occur in infants born to women receiving corticosteroids during pregnancy.
-Infants born to mothers taking substantial corticosteroid doses during pregnancy should be monitored for signs of hypoadrenalism.
-
-Formoterol Fumarate: Teratogenic Effects
-
-Formoterol fumarate administered throughout organogenesis did not cause malformations in rats or rabbits following oral administration.
-When given to rats throughout organogenesis, oral doses of approximately 80 times the MRHD on a mcg/m2 basis and above delayed ossification of the fetus, and doses of approximately 2400 times the MRHD on a mcg/m2 basis and above decreased fetal weight.
-Formoterol fumarate has been shown to cause stillbirth and neonatal mortality at oral doses of approximately 2400 times the MRHD on a mcg/m2 basis and above in rats receiving the drug during the late stage of pregnancy.
-These effects, however, were not produced at a dose of approximately 80 times the MRHD on a mcg/m2 basis.
-
-In another testing laboratory, formoterol was shown to be teratogenic in rats and rabbits.
-Umbilical hernia, a malformation, was observed in rat fetuses at oral doses approximately 1200 times and greater than the MRHD on a mcg/m2 basis.
-Brachygnathia, a skeletal malformation, was observed in rat fetuses at an oral dose approximately 6100 times the MRHD on a mcg/m2 basis.
-In another study in rats, no teratogenic effects were seen at inhalation doses up to approximately 500 times the MRHD on a mcg/m2 basis.
-Subcapsular cysts on the liver were observed in rabbit fetuses at an oral dose approximately 49,000 times the MRHD on a mcg/m2 basis.
-No teratogenic effects were observed at oral doses up to approximately 3000 times the MRHD on a mcg/m2 basis [see Nonclinical Toxicology (13.2)].
-
-## 8.2 Labor and Delivery
+Labor or delivery
 
 There are no adequate and well-controlled human studies that have studied the effects of DULERA during labor and delivery.
+Because of the potential for beta-agonist interference with uterine contractility, use of DULERA during labor should be restricted to those patients in whom the benefits clearly outweigh the risk.
 
-Because beta-agonists may potentially interfere with uterine contractility, DULERA should be used during labor only if the potential benefit justifies the potential risk [see Nonclinical Toxicology (13.2)].
+Data
 
-## 8.3 Nursing Mothers
+Animal Data
 
-DULERA: It is not known whether DULERA is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when DULERA is administered to a nursing woman.
+Mometasone Furoate
 
-Since there are no data from well-controlled human studies on the use of DULERA on nursing mothers, based on data for the individual components, a decision should be made whether to discontinue nursing or to discontinue DULERA, taking into account the importance of DULERA to the mother.
+In an embryofetal development study with pregnant mice dosed throughout the period of organogenesis, mometasone furoate produced cleft palate at an exposure approximately one-third of the MRHD (on a mcg/m2 basis with maternal subcutaneous doses of 60 mcg/kg and above) and decreased fetal survival at an exposure approximately equivalent to the MRHD (on a mcg/m2 basis with a maternal subcutaneous dose of 180 mcg/kg).
+No toxicity was observed with a dose that produced an exposure approximately one-tenth of the MRHD (on a mcg/m2 basis with maternal topical dermal doses of 20 mcg/kg and above).
 
-Mometasone Furoate: It is not known if mometasone furoate is excreted in human milk.
-However, other corticosteroids are excreted in human milk.
+In an embryofetal development study with pregnant rats dosed throughout the period of organogenesis, mometasone furoate produced fetal umbilical hernia at exposures approximately 6 times the MRHD (on a mcg/m2 basis with maternal topical dermal doses of 600 mcg/kg and above) and delays in fetal ossification at exposures approximately 3 times the MRHD (on a mcg/m2 basis with maternal topical dermal doses of 300 mcg/kg and above).
 
-Formoterol Fumarate: In reproductive studies in rats, formoterol was excreted in the milk.
-It is not known whether formoterol is excreted in human milk.
+In another reproductive toxicity study, pregnant rats were dosed with mometasone furoate throughout pregnancy or late in gestation.
+Treated animals had prolonged and difficult labor, fewer live births, lower birth weight, and reduced early pup survival at an exposure that was approximately 8 times the MRHD (on an area under the curve (AUC) basis with a maternal subcutaneous dose of 15 mcg/kg).
+There were no findings with an exposure approximately 4 times the MRHD (on an AUC basis with a maternal subcutaneous dose of 7.5 mcg/kg).
+
+Embryofetal development studies were conducted with pregnant rabbits dosed with mometasone furoate by either the topical dermal route or oral route throughout the period of organogenesis.
+In the study using the topical dermal route, mometasone furoate caused multiple malformations in fetuses (e.g., flexed front paws, gallbladder agenesis, umbilical hernia, hydrocephaly) at an exposure approximately 3 times the MRHD (on a mcg/m2 basis with maternal topical dermal doses of 150 mcg/kg and above).
+In the study using the oral route, mometasone furoate caused increased fetal resorptions and cleft palate and/or head malformations (hydrocephaly and domed head) at an exposure approximately 1/2 of the MRHD (on AUC basis with a maternal oral dose of 700 mcg/kg).
+At an exposure approximately 2 times the MRHD (on an AUC basis with a maternal oral dose of 2800 mcg/kg), most litters were aborted or resorbed.
+No effects were observed at an exposure approximately 1/10 of the MRHD (on an AUC basis with a maternal oral dose of 140 mcg/kg).
+
+Formoterol Fumarate
+
+In embryofetal development studies with pregnant rats and rabbits dosed throughout the period of organogenesis, formoterol fumarate did not cause malformations in either species.
+However, for pregnant rats dosed throughout organogenesis, formoterol fumarate caused delayed fetal ossification at an exposure approximately 80 times the MRHD (on a mcg/m2 basis with maternal oral doses of 200 mcg/kg and higher) and decreased fetal weight at an exposure approximately 2400 times the MRHD (on a mcg/m2 basis with maternal oral doses of 6000 mcg/kg and above).
+In a pre- and post-natal development study with rats dosed during the late stage of pregnancy, formoterol fumarate caused stillbirth and neonatal mortality at an exposure approximately 2400 times the MRHD (on a mcg/m2 basis with maternal oral doses of 6000 mcg/kg and above).
+However, no effects were observed in this study at an exposure approximately 80 times the MRHD (on a mcg/m2 basis with a maternal oral dose of 200 mcg/kg).
+
+In embryofetal development studies, conducted by another testing laboratory, with pregnant rats and rabbits dosed throughout the period of organogenesis, formoterol fumarate was teratogenic in both species.
+Umbilical hernia, a malformation, was observed in rat fetuses at exposures approximately 1200 times the MRHD (on a mcg/m2 basis with maternal oral doses of 3000 mcg/kg/day and above).
+Brachygnathia, a skeletal malformation, was observed in rat fetuses at an exposure approximately 6100 times the MRHD (on a mcg/m2 basis with a maternal oral dose of 15,000 mcg/kg/day).
+In another study with rats, no teratogenic effects were observed with exposures up to approximately 500 times the MRHD (on a mcg/m2 basis with a maternal inhalation dose of 1200 mcg/kg/day).
+Subcapsular cysts on the liver were observed in rabbit fetuses at an exposure approximately 49,000 times the MRHD (on a mcg/m2 basis with a maternal oral dose of 60,000 mcg/kg/day).
+No teratogenic effects were observed with exposures up to approximately 3000 times the MRHD (on a mcg/m2 basis with a maternal oral dose of 3500 mcg/kg).
+
+## 8.2 Lactation
+
+Risk Summary
+
+There are no available data on the presence of DULERA, mometasone furoate, or formoterol fumarate in human milk, the effects on the breastfed child, or the effects on milk production.
+Other inhaled corticosteroids, similar to mometasone furoate, are present in human milk.
+Formoterol fumarate is present in rat milk; however, due to species specific differences in lactation physiology, animal lactation data may not reliably predict levels in human milk.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for DULERA and any potential adverse effects on the breastfed infant from DULERA or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 

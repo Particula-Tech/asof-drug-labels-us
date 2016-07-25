@@ -31,32 +31,3 @@ Animal Pharmacology
 
 Formoterol fumarate: Studies in laboratory animals (minipigs, rodents, and dogs) have demonstrated the occurrence of cardiac arrhythmias and sudden death (with histologic evidence of myocardial necrosis) when beta-agonists and methylxanthines are administered concurrently.
 The clinical significance of these findings is unknown.
-
-Reproductive Toxicology Studies
-
-Mometasone furoate: In mice, mometasone furoate caused cleft palate at subcutaneous doses of 60 mcg/kg and above (approximately 1/3 of the maximum recommended human dose MRHD on a mcg/m2 basis).
-Fetal survival was reduced at 180 mcg/kg (approximately equal to the MRHD on a mcg/m2 basis).
-No toxicity was observed at 20 mcg/kg (approximately one-tenth of the MRHD on a mcg/m2 basis).
-
-In rats, mometasone furoate produced umbilical hernia at topical dermal doses of 600 mcg/kg and above (approximately 6 times the MRHD on a mcg/m2 basis).
-A dose of 300 mcg/kg (approximately 3 times the MRHD on a mcg/m2 basis) produced delays in ossification, but no malformations.
-
-When rats received subcutaneous doses of mometasone furoate throughout pregnancy or during the later stages of pregnancy, 15 mcg/kg (approximately 8 times the MRHD on an AUC basis) caused prolonged and difficult labor and reduced the number of live births, birth weight, and early pup survival.
-Similar effects were not observed at 7.5 mcg/kg (approximately 4 times the MRHD on an AUC basis).
-
-In rabbits, mometasone furoate caused multiple malformations (e.g., flexed front paws, gallbladder agenesis, umbilical hernia, hydrocephaly) at topical dermal doses of 150 mcg/kg and above (approximately 3 times the MRHD on a mcg/m2 basis).
-In an oral study, mometasone furoate increased resorptions and caused cleft palate and/or head malformations (hydrocephaly and domed head) at 700 mcg/kg (less than the MRHD on an area under the curve [AUC] basis).
-At 2800 mcg/kg (approximately 2 times the MRHD on an AUC basis) most litters were aborted or resorbed.
-No toxicity was observed at 140 mcg/kg (less than the MRHD on an AUC basis).
-
-Formoterol fumarate: Formoterol fumarate administered throughout organogenesis did not cause malformations in rats or rabbits following oral administration.
-When given to rats throughout organogenesis, oral doses of 0.2 mg/kg (approximately 80 times the MRHD on a mcg/m2 basis) and above delayed ossification of the fetus, and doses of 6 mg/kg (approximately 2400 times the MRHD on a mcg/m2 basis) and above decreased fetal weight.
-Formoterol fumarate has been shown to cause stillbirth and neonatal mortality at oral doses of 6 mg/kg (approximately 2400 times the MRHD on a mcg/m2 basis) and above in rats receiving the drug during the late stage of pregnancy.
-These effects, however, were not produced at a dose of 0.2 mg/kg (approximately 80 times the MRHD on a mcg/m2 basis).
-
-In another testing laboratory, formoterol fumarate was shown to be teratogenic in rats and rabbits.
-Umbilical hernia, a malformation, was observed in rat fetuses at oral doses of 3 mg/kg/day and above (approximately 1200 times greater than the MRHD on a mcg/m2 basis).
-Brachygnathia, a skeletal malformation, was observed for rat fetuses at an oral dose of 15 mg/kg/day (approximately 6100 times the MRHD on a mcg/m2 basis).
-In another study in rats, no teratogenic effects were seen at inhalation doses up to 1.2 mg/kg/day (approximately 500 times the MRHD on a mcg/m2 basis).
-Subcapsular cysts on the liver were observed for rabbit fetuses at an oral dose of 60 mg/kg (approximately 49,000 times the MRHD on a mcg/m2 basis).
-No teratogenic effects were observed at oral doses up to 3.5 mg/kg (approximately 3000 times the MRHD on a mcg/m2 basis).
