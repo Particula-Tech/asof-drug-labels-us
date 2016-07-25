@@ -40,7 +40,7 @@ Conversely, markedly prolonged GI retention times (e.g., chronic constipation) c
 Distribution: At the plasma concentrations achieved by therapeutic doses, approximately 98% of the circulating drug is bound to plasma proteins.
 
 Metabolism: Doxazosin is extensively metabolized in the liver.
-In vitro studies suggest that the primary pathway for elimination is via CYP 3A4; however, CYP 2D6 and CYP 2C19 metabolic pathways also exist to a lesser extent.
+In vitro studies suggest that the primary pathway for elimination is via CYP 3A4; however, CYP 2D6 and CYP 2C9 metabolic pathways also exist to a lesser extent.
 No in vivo drug interaction studies have been performed with CARDURA XL.
 Although several active metabolites of doxazosin have been identified, the pharmacokinetics of these metabolites has not been characterized [see Drug Interactions (7)].
 
