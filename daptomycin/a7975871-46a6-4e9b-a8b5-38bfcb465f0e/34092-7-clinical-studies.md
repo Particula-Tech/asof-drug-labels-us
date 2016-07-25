@@ -85,7 +85,7 @@ Table 13: Adjudication Committee Success Rates at Test of Cure in the S. aureus 
 
 | CUBICIN 6 mg/kg | ComparatorComparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 2 g IV q4h), each with initial low-dose gentamicin. |  |  |
 | --- | --- | --- | --- |
-| Population | Success Rate n/N (%) |  | Difference: CUBICIN–Comparator (Confidence Interval) |
+| Population | Success Rate n/N (%) |  | Difference: CUBICIN−Comparator (Confidence Interval) |
 | Overall | 53/120 (44%) | 48/115 (42%) | 2.4% (−10.2, 15.1)95% Confidence Interval |
 | Baseline Pathogen |  |  |  |
 | Methicillin-susceptible S. aureus | 33/74 (45%) | 34/70 (49%) | −4.0% (−22.6, 14.6)97.5% Confidence Interval (adjusted for multiplicity) |

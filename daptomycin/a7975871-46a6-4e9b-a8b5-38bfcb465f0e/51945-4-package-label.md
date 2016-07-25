@@ -4,9 +4,11 @@ NDC 67919-011-01
 
 Cubicin® (daptomycin for injection) 500 mg per vial
 
-Must be reconstituted.
+Must be refrigerated.
 For Intravenous Infusion.
 
-Single-use vial – Discard Unused Portion
+Use 0.9% Sodium Chloride Injection for reconstitution only.
+
+Single-dose vial – Discard Unused Portion
 
 Rx only

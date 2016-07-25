@@ -1,6 +1,6 @@
 CUBICIN® (daptomycin for injection)
 
-Distributed by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+Distributed by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO.,INC., Whitehouse Station, NJ 08889, USA
 
 For patent information: www.merck.com/product/patent/home.html
 
@@ -8,4 +8,4 @@ The trademarks depicted herein are owned by their respective companies.
 
 Copyright © 2015 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-uspi-mk3009-i-1511r002
+uspi-mk3009-i-1607r003

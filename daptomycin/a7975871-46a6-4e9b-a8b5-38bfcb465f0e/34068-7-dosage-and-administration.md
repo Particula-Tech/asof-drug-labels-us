@@ -29,35 +29,47 @@ Table 1: Recommended Dosage of CUBICIN in Adult Patients
 
 ## 2.5 Preparation of CUBICIN for Administration
 
-CUBICIN is supplied in single-use vials, each containing 500 mg daptomycin as a sterile, lyophilized powder.
+Reconstitution of CUBICIN Vial
+
+CUBICIN is supplied in single-dose vials, each containing 500 mg daptomycin as a sterile, lyophilized powder.
 The contents of a CUBICIN vial should be reconstituted, using aseptic technique, to 50 mg/mL as follows:
 
-1. Note: To minimize foaming, AVOID vigorous agitation or shaking of the vial during or after reconstitution.
-2. 1.
-   Remove the polypropylene flip-off cap from the CUBICIN vial to expose the central portion of the rubber stopper.
-3. 2.
-   Slowly transfer 10 mL of 0.9% sodium chloride injection through the center of the rubber stopper into the CUBICIN vial, pointing the transfer needle toward the wall of the vial.
-4. 3.
-   Ensure that all of the CUBICIN powder is wetted by gently rotating the vial.
-5. 4.
-   Allow the wetted product to stand undisturbed for 10 minutes.
-6. 5.
-   Gently rotate or swirl the vial contents for a few minutes, as needed, to obtain a completely reconstituted solution.
+1. To minimize foaming, AVOID vigorous agitation or shaking of the vial during or after reconstitution.
+2. Remove the polypropylene flip-off cap from the CUBICIN vial to expose the central portion of the rubber stopper.
+3. Wipe the top of the rubber stopper with an alcohol swab or other antiseptic solution and allow to dry.
+   After cleaning, do not touch the rubber stopper or allow it to touch any other surface.
+4. Slowly transfer 10 mL of 0.9% sodium chloride injection through the center of the rubber stopper into the CUBICIN vial, pointing the transfer needle toward the wall of the vial.
+   It is recommended that a beveled sterile transfer needle that is 21 gauge or smaller in diameter, or a needleless device is used, pointing the transfer needle toward the wall of the vial.
+5. Ensure that all of the CUBICIN powder is wetted by gently rotating the vial.
+   1. Allow the wetted product to stand undisturbed for 10 minutes.
+   2. Gently rotate or swirl the vial contents for a few minutes, as needed, to obtain a completely reconstituted solution.
 
-For intravenous (IV) injection over a period of 2 minutes, administer the appropriate volume of the reconstituted CUBICIN (concentration of 50 mg/mL).
-
-For IV infusion over a period of 30 minutes, the appropriate volume of the reconstituted CUBICIN (concentration of 50 mg/mL) should be further diluted, using aseptic technique, into a 50 mL IV infusion bag containing 0.9% sodium chloride injection.
+Administration Instructions
 
 Parenteral drug products should be inspected visually for particulate matter prior to administration.
 
+Slowly remove reconstituted liquid (50 mg daptomycin/mL) from the vial using a beveled sterile needle that is 21 gauge or smaller in diameter.
+Administer as an intravenous injection or infusion as described below:
+
+Intravenous Injection over a period of 2 minutes
+
+For intravenous (IV) injection over a period of 2 minutes, administer the appropriate volume of the reconstituted CUBICIN (concentration of 50 mg/mL).
+
+Intravenous Infusion over a period of 30 minutes
+
+For IV infusion over a period of 30 minutes, the appropriate volume of the reconstituted CUBICIN (concentration of 50 mg/mL) should be further diluted, using aseptic technique, into a 50 mL IV infusion bag containing 0.9% sodium chloride injection.
+
 No preservative or bacteriostatic agent is present in this product.
 Aseptic technique must be used in the preparation of final IV solution.
+Do not exceed the In-Use storage conditions of the reconstituted and diluted solutions of CUBICIN described below.
+Discard unused portions of CUBICIN.
+
+In-Use Storage Conditions for CUBICIN Once Reconstituted in Acceptable Intravenous Diluents
+
 Stability studies have shown that the reconstituted solution is stable in the vial for 12 hours at room temperature and up to 48 hours if stored under refrigeration at 2 to 8°C (36 to 46°F).
 
 The diluted solution is stable in the infusion bag for 12 hours at room temperature and 48 hours if stored under refrigeration.
 The combined storage time (reconstituted solution in vial and diluted solution in infusion bag) should not exceed 12 hours at room temperature or 48 hours under refrigeration.
-
-CUBICIN vials are for single use only.
 
 ## 2.6 Compatible Intravenous Solutions
 
@@ -70,5 +82,5 @@ CUBICIN is not compatible with dextrose-containing diluents.
 CUBICIN should not be used in conjunction with ReadyMED® elastomeric infusion pumps.
 Stability studies of CUBICIN solutions stored in ReadyMED® elastomeric infusion pumps identified an impurity (2-mercaptobenzothiazole) leaching from this pump system into the CUBICIN solution.
 
-Because only limited data are available on the compatibility of CUBICIN with other IV substances, additives and other medications should not be added to CUBICIN single-use vials or infusion bags, or infused simultaneously with CUBICIN through the same IV line.
+Because only limited data are available on the compatibility of CUBICIN with other IV substances, additives and other medications should not be added to CUBICIN single-dose vials or infusion bags, or infused simultaneously with CUBICIN through the same IV line.
 If the same IV line is used for sequential infusion of different drugs, the line should be flushed with a compatible intravenous solution before and after infusion with CUBICIN.

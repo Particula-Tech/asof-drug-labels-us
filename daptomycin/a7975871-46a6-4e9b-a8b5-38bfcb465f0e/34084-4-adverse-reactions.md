@@ -2,11 +2,11 @@
 
 The following adverse reactions are described, or described in greater detail, in other sections:
 
-1. -Anaphylaxis/hypersensitivity reactions [see Warnings and Precautions (5.1)]
-2. -Myopathy and rhabdomyolysis [see Warnings and Precautions (5.2)]
-3. -Eosinophilic pneumonia [see Warnings and Precautions (5.3)]
-4. -Peripheral neuropathy [see Warnings and Precautions (5.4)]
-5. -Increased International Normalized Ratio (INR)/prolonged prothrombin time [see Warnings and Precautions (5.9) and Drug Interactions (7.2)]
+- Anaphylaxis/hypersensitivity reactions [see Warnings and Precautions (5.1)]
+- Myopathy and rhabdomyolysis [see Warnings and Precautions (5.2)]
+- Eosinophilic pneumonia [see Warnings and Precautions (5.3)]
+- Peripheral neuropathy [see Warnings and Precautions (5.4)]
+- Increased International Normalized Ratio (INR)/prolonged prothrombin time [see Warnings and Precautions (5.9) and Drug Interactions (7.2)]
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -162,8 +162,12 @@ Three of these 11 CUBICIN-treated patients discontinued therapy due to CPK eleva
 
 ## 6.2 Post-Marketing Experience
 
-The following adverse reactions have been identified during postapproval use of CUBICIN.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency reliably or establish a causal relationship to drug exposure.
+The following adverse reactions have been identified during post-approval use of CUBICIN.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Blood and lymphatic system disorders: anemia
+
+General and administration site conditions: pyrexia
 
 Immune System Disorders: anaphylaxis; hypersensitivity reactions, including angioedema, drug rash with eosinophilia and systemic symptoms (DRESS), pruritus, hives, shortness of breath, difficulty swallowing, truncal erythema, and pulmonary eosinophilia [see Contraindications (4), Warnings and Precautions (5.1)]
 
@@ -175,8 +179,10 @@ Respiratory, Thoracic, and Mediastinal Disorders: cough, eosinophilic pneumonia 
 
 Nervous System Disorders: peripheral neuropathy [see Warnings and Precautions (5.4)]
 
-Skin and Subcutaneous Tissue Disorders: serious skin reactions, including Stevens-Johnson syndrome and vesiculobullous rash (with or without mucous membrane involvement)
+Skin and Subcutaneous Tissue Disorders: serious skin reactions, including Stevens-Johnson syndrome and vesiculobullous rash (with or without mucous membrane involvement), acute generalized exanthematous pustulosis
 
 Gastrointestinal Disorders: nausea, vomiting
+
+Renal and urinary disorders: acute kidney injury, renal insufficiency, and renal failure
 
 Special Senses: visual disturbances

@@ -1,7 +1,7 @@
 # 17 PATIENT COUNSELING INFORMATION
 
 Patients should be advised that allergic reactions, including serious allergic reactions, could occur and that serious reactions require immediate treatment.
-Patients should report any previous allergic reactions to CUBICIN.
+Patients should report any previous allergic reactions to daptomycin.
 [See Warnings and Precautions (5.1).]
 
 Patients should be advised to report muscle pain or weakness, especially in the forearms and lower legs, as well as tingling or numbness.
