@@ -2,14 +2,16 @@
 
 ## 5.1 Fetal Toxicity
 
-Pregnancy Category D
-
+Lisinopril can cause fetal harm when administered to a pregnant woman.
 Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
 Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
 Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
 When pregnancy is detected, discontinue lisinopril as soon as possible [see USE IN SPECIFIC POPULATIONS (8.1)].
 
 ## 5.2 Angioedema and Anaphylactoid Reactions
+
+Patients taking concomitant mTOR inhibitor (e.g. temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema.
+[see DRUG INTERACTIONS (7.7)].
 
 Angioedema
 
@@ -21,8 +23,6 @@ Lisinopril should be promptly discontinued and appropriate therapy and monitorin
 
 Patients with a history of angioedema unrelated to ACE inhibitor therapy may be at increased risk of angioedema while receiving an ACE inhibitor [see CONTRAINDICATIONS (4)].
 ACE inhibitors have been associated with a higher rate of angioedema in black than in non-black patients.
-
-Patients receiving coadministration of ACE inhibitor and mTOR (mammalian target of rapamycin) inhibitor (e.g., temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema.
 
 Intestinal Angioedema:
 
@@ -48,7 +48,7 @@ Anaphylactoid reactions have also been reported in patients undergoing low-densi
 
 Monitor renal function periodically in patients treated with lisinopril.
 Changes in renal function including acute renal failure can be caused by drugs that inhibit the renin-angiotensin system.
-Patients whose renal function may depend in part on the activity of the renin-angiotensin system (eg, patients with renal artery stenosis, chronic kidney disease, severe congestive heart failure, post-myocardial infarction or volume depletion) may be at particular risk of developing acute renal failure on lisinopril.
+Patients whose renal function may depend in part on the activity of the renin-angiotensin system (e.g., patients with renal artery stenosis, chronic kidney disease, severe congestive heart failure, post-myocardial infarction or volume depletion) may be at particular risk of developing acute renal failure on lisinopril.
 Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on lisinopril [see ADVERSE REACTIONS (6.1), DRUG INTERACTIONS (7.4)].
 
 ## 5.4 Hypotension

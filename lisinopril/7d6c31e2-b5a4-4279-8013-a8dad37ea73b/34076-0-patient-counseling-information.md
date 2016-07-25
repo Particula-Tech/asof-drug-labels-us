@@ -5,14 +5,17 @@ It is not a disclosure of all possible adverse or intended effects.
 
 Pregnancy
 
-Tell female patients of childbearing age about the consequences of exposure to lisinopril during pregnancy.
-Discuss treatment options with women planning to become pregnant.
-Tell patients to report pregnancies to their physicians as soon as possible.
+Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
+Advise females of reproductive potential to notify their healthcare provider with a known or suspected pregnancy [see WARNINGS AND PRECAUTIONS (5.1) and USE IN SPECIFIC POPULATIONS (8.1)].
 
 Angioedema
 
 Angioedema, including laryngeal edema may occur at any time during treatment with angiotensin converting enzyme inhibitors, including lisinopril.
 Tell patients to report immediately any signs or symptoms suggesting angioedema (swelling of face, extremities, eyes, lips, tongue, difficulty in swallowing or breathing) and to take no more drug until they have consulted with the prescribing physician.
+
+Lactation
+
+Advise women not to breastfeed during treatment with lisinopril [see USE IN SPECIFIC POPULATIONS (8.2)].
 
 Symptomatic Hypotension
 
@@ -32,7 +35,7 @@ Tell diabetic patients treated with oral antidiabetic agents or insulin starting
 
 Leukopenia/Neutropenia
 
-Tell patients to report promptly any indication of infection (eg, sore throat, fever), which may be a sign of leukopenia/neutropenia.
+Tell patients to report promptly any indication of infection (e.g., sore throat, fever), which may be a sign of leukopenia/neutropenia.
 
 Manufactured for:
 
@@ -44,4 +47,4 @@ United States.
 
 MADE IN INDIA
 
-Revised: May, 2016 ID#: 245495
+Revised: August, 2016 ID#: 247467

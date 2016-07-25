@@ -67,3 +67,4 @@ The pharmacokinetics of lisinopril were studied in 29 pediatric hypertensive pat
 After doses of 0.1 to 0.2 mg per kg, steady state peak plasma concentrations of lisinopril occurred within 6 hours and the extent of absorption based on urinary recovery was about 28%.
 These values are similar to those obtained previously in adults.
 The typical value of lisinopril oral clearance (systemic clearance/absolute bioavailability) in a child weighing 30 kg is 10 L/h, which increases in proportion to renal function.
+In a multicenter, open-label pharmacokinetic study of daily oral lisinopril in 22 pediatric hypertensive patients with stable kidney transplant (ages 7 to 17 years; estimated glomerular filtration rate > 30 mL/min/1.73 m2), dose normalized exposures were in the range reported previously in children without a kidney transplant.

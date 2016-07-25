@@ -66,7 +66,7 @@ Visual loss, diplopia, blurred vision, tinnitus, photophobia, taste disturbances
 
 Urogenital:
 
-Impotence
+Impotence.
 
 Miscellaneous:
 
@@ -79,7 +79,7 @@ Serum Potassium:
 
 In clinical trials hyperkalemia (serum potassium greater than 5.7 mEq/L) occurred in 2.2% and 4.8% of lisinopril-treated patients with hypertension and heart failure, respectively [see WARNINGS AND PRECAUTIONS (5.5)].
 
-Creatinine, Blood Urea Nitrogen
+Creatinine, Blood Urea Nitrogen:
 
 Minor increases in blood urea nitrogen and serum creatinine, reversible upon discontinuation of therapy, were observed in about 2% of patients with hypertension treated with lisinopril alone.
 Increases were more common in patients receiving concomitant diuretics and in patients with renal artery stenosis [see WARNINGS AND PRECAUTIONS (5.4)].
@@ -88,7 +88,7 @@ Frequently, these abnormalities resolved when the dosage of the diuretic was dec
 
 Patients with acute myocardial infarction in the GISSI-3 trial treated with lisinopril had a higher (2.4% versus 1.1% in placebo) incidence of renal dysfunction in-hospital and at six weeks (increasing creatinine concentration to over 3 mg/dL or a doubling or more of the baseline serum creatinine concentration).
 
-Hemoglobin and Hematocrit
+Hemoglobin and Hematocrit:
 
 Small decreases in hemoglobin and hematocrit (mean decreases of approximately 0.4 g% and 1.3 vol%, respectively) occurred frequently in patients treated with lisinopril but were rarely of clinical importance in patients without some other cause of anemia.
 In clinical trials, less than 0.1% of patients discontinued therapy due to anemia.
@@ -100,14 +100,14 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Other reactions include:
 
-Metabolism and nutrition disorders
+Metabolism and Nutrition Disorders
 
 Hyponatremia [see WARNINGS AND PRECAUTIONS (5.4)], cases of hypoglycemia in diabetic patients on oral antidiabetic agents or insulin [see DRUG INTERACTIONS (7.2)]
 
-Nervous system and psychiatric disorders
+Nervous System and Psychiatric Disorders
 
 Mood alterations (including depressive symptoms), mental confusion, hallucinations
 
-Skin and subcutaneous tissue disorders
+Skin and Subcutaneous Tissue Disorders
 
 Psoriasis
