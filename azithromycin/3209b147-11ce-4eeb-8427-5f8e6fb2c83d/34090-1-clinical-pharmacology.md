@@ -12,16 +12,16 @@ The principal pharmacokinetic/pharmacodynamic parameter best associated with cli
 Cardiac Electrophysiology
 
 QTc interval prolongation was studied in a randomized, placebo-controlled parallel trial in 116 healthy subjects who received either chloroquine (1000 mg) alone or in combination with oral azithromycin (500 mg, 1000 mg, and 1500 mg once daily).
-Coadministration of azithromycin increased the QTc interval in a dose-and concentration-dependent manner.
+Coadministration of azithromycin increased the QTc interval in a dose- and concentration-dependent manner.
 In comparison to chloroquine alone, the maximum mean (95% upper confidence bound) increases in QTcF were 5 (10) ms, 7 (12) ms and 9 (14) ms with the coadministration of 500 mg, 1000 mg and 1500 mg azithromycin, respectively.
 
 ## 12.3 Pharmacokinetics
 
-Following oral administration of a single 500 mg dose (two 250 mg tablets) to 36 fasted healthy male volunteers, the mean (SD) pharmacokinetic parameters were AUC0-72 = 4.3 (1.2) mcg·h/mL; Cmax = 0.5 (0.2) mcg/mL; Tmax = 2.2 (0.9) hours.
+Following oral administration of a single 500 mg dose (two 250 mg tablets) to 36 fasted healthy male volunteers, the mean (SD) pharmacokinetic parameters were AUC0-72 = 4.3 (1.2) mcg·hr/mL; Cmax = 0.5 (0.2) mcg/mL; Tmax = 2.2 (0.9) hours.
 Two azithromycin 250 mg tablets are bioequivalent to a single 500 mg tablet.
 
 In a two-way crossover study, 12 adult healthy volunteers (6 males, 6 females) received 1500 mg of azithromycin administered in single daily doses over either 5 days (two 250 mg tablets on day 1, followed by one 250 mg tablet on days 2 to 5) or 3 days (500 mg per day for days 1 to 3).
-Due to limited serum samples on day 2 (3 day regimen) and days 2 to 4 (5 day regimen), the serum concentration-time profile of each subject was fit to a 3 compartment model and the AUC 0-∞ for the fitted concentration profile was comparable between the 5 day and 3 day regimens.
+Due to limited serum samples on day 2 (3 day regimen) and days 2 to 4 (5 day regimen), the serum concentration-time profile of each subject was fit to a 3 compartment model and the AUC0-∞ for the fitted concentration profile was comparable between the 5 day and 3 day regimens.
 
 |  | 3 Day Regimen |  | 5 Day Regimen |  |
 | --- | --- | --- | --- | --- |
@@ -30,7 +30,7 @@ Due to limited serum samples on day 2 (3 day regimen) and days 2 to 4 (5 day reg
 | Serum AUC0-∞ (mcg·hr/mL) | 17.4 (6.2)* |  | 14.9 (3.1)* |  |
 | Serum T1/2 | 71.8 hr |  | 68.9 hr |  |
 
-- *Total AUC for the entire 3-day and 5-day regimens.
+1. *Total AUC for the entire 3 day and 5 day regimens.
 
 Absorption
 
@@ -44,7 +44,7 @@ Distribution
 
 The serum protein binding of azithromycin is variable in the concentration range approximating human exposure, decreasing from 51% at 0.02 mcg/mL to 7% at 2 mcg/mL.
 
-The antibacterial activity of azithromycin is pH related and appears to be reduced with decreasing pH, However, the extensive distribution of drug to tissues may be relevant to clinical activity.
+The antibacterial activity of azithromycin is pH related and appears to be reduced with decreasing pH, however, the extensive distribution of drug to tissues may be relevant to clinical activity.
 
 Azithromycin has been shown to penetrate into human tissues, including skin, lung, tonsil, and cervix.
 Extensive tissue distribution was confirmed by examination of additional tissues and fluids (bone, ejaculum, prostate, ovary, uterus, salpinx, stomach, liver, and gallbladder).
@@ -58,8 +58,7 @@ In vitro and in vivo studies to assess the metabolism of azithromycin have not b
 
 Elimination
 
-Plasma concentrations of azithromycin following single 500 mg oral and IV doses declined in a polyphasic pattern resulting in a mean apparent plasma clearance of 630 mL/min and terminal elimination half-life of 68 hours.
-The prolonged terminal half-life is thought to be due to extensive uptake and subsequent release of drug from tissues.
+Plasma concentrations of azithromycin following single 500 mg oral and IV doses declined in a polyphasic pattern resulting in a mean apparent plasma clearance of 630 mL/min and terminal elimination half-life of 68 hr. The prolonged terminal half-life is thought to be due to extensive uptake and subsequent release of drug from tissues.
 Biliary excretion of azithromycin, predominantly as unchanged drug, is a major route of elimination.
 Over the course of a week, approximately 6% of the administered dose appears as unchanged drug in urine.
 
@@ -88,10 +87,10 @@ Dosage adjustment does not appear to be necessary for older patients with normal
 Pediatric Patients
 
 In two clinical studies, azithromycin for oral suspension was dosed at 10 mg/kg on day 1, followed by 5 mg/kg on days 2 through 5 in two groups of pediatric patients (aged 1 to 5 years and 5 to 15 years, respectively).
-The mean pharmacokinetic parameters on day 5 were Cmax = 0.216 mcg/mL, Tmax = 1.9 hours, and AUC0-24 = 1.822 mcg·hr/mL for the 1 to 5 year-old group and were Cmax = 0.383 mcg/mL, Tmax = 2.4 hours, and AUC0-24 = 3.109 mcg·hr/mL for the 5 to 15 year-old group.
+The mean pharmacokinetic parameters on day 5 were Cmax = 0.216 mcg/mL, Tmax = 1.9 hr, and AUC0-24 = 1.822 mcg·hr/mL for the 1 to 5 year-old group and were Cmax = 0.383 mcg/mL, Tmax = 2.4 hr, and AUC0-24 = 3.109 mcg·hr/mL for the 5 to 15 year-old group.
 
 In another study, 33 pediatric patients received doses of 12 mg/kg/day (maximum daily dose 500 mg) for 5 days, of whom 31 patients were evaluated for azithromycin pharmacokinetics following a low fat breakfast.
-In this study, azithromycin concentrations were determined over a 24 hour period following the last daily dose.
+In this study, azithromycin concentrations were determined over a 24 hr period following the last daily dose.
 Patients weighing above 41.7 kg received the maximum adult daily dose of 500 mg.
 Seventeen patients (weighing 41.7 kg or less) received a total dose of 60 mg/kg.
 The following table shows pharmacokinetic data in the subset of pediatric patients who received a total dose of 60 mg/kg.
@@ -167,44 +166,44 @@ Azithromycin has been shown to be active against most isolates of the following 
 
 Gram-Positive Bacteria
 
-- Staphylococcus aureus
-- Streptococcus agalactiae
-- Streptococcus pneumoniae
-- Streptococcus pyogenes
+1. Staphylococcus aureus
+2. Streptococcus agalactiae
+3. Streptococcus pneumoniae
+4. Streptococcus pyogenes
 
 Gram-Negative Bacteria
 
-- Haemophilus ducreyi
-- Haemophilus influenzae
-- Moraxella catarrhalis
-- Neisseria gonorrhoeae
+1. Haemophilus ducreyi
+2. Haemophilus influenzae
+3. Moraxella catarrhalis
+4. Neisseria gonorrhoeae
 
 Other Bacteria
 
-- Chlamydophila pneumoniae
-- Chlamydia trachomatis
-- Mycoplasma pneumoniae
+1. Chlamydophila pneumoniae
+2. Chlamydia trachomatis
+3. Mycoplasma pneumoniae
 
 The following in vitro data are available, but their clinical significance is unknown.
 Azithromycin exhibits in vitro minimal inhibitory concentrations (MICs) of 4 mcg/ml or less against most (≥ 90%) isolates of the following bacteria; however, the safety and effectiveness of azithromycin in treating clinical infections due to these bacteria have not been established in adequate and well-controlled trials.
 
-- Gram-Positive Bacteria
-- Beta-hemolytic streptococci (Groups C, F, G)
-- Viridans group streptococci
+1. Gram-Positive Bacteria
+2. Beta-hemolytic streptococci (Groups C, F, G)
+3. Viridans group streptococci
 
 Gram-Negative Bacteria
 
-- Bordetella pertussis
-- Legionella pneumophila
+1. Bordetella pertussis
+2. Legionella pneumophila
 
 Anaerobic Bacteria
 
-- Prevotella bivia
-- Peptostreptococcus species
+1. Prevotella bivia
+2. Peptostreptococcus species
 
 Other Bacteria
 
-- Ureaplasma urealyticum
+1. Ureaplasma urealyticum
 
 Susceptibility Testing Methods
 
@@ -216,7 +215,7 @@ Dilution Techniques
 Quantitative methods are used to determine minimal inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antibacterial compounds.
 The MICs should be determined using a standardized test method 1,2,3 (broth or agar).
-The MIC values should be interpreted according to criteria provided in Table 1.
+The MIC values should be interpreted according to criteria provided in Table 3.
 
 Diffusion Techniques
 
@@ -224,20 +223,20 @@ Quantitative methods that require measurement of zone diameters can also provide
 The zone size provides an estimate of the susceptibility of bacteria to antibacterial compounds.
 The zone size should be determined using a standardized method2,3.
 This procedure uses paper disk impregnated with 15 mcg azithromycin to test the susceptibility of bacteria to azithromycin.
-The disk diffusion interpretive criteria are provided in Table 1.
+The disk diffusion interpretive criteria are provided in Table 3.
 
-| Table 1: Susceptibility Test Interpretive Criteria for AzithromycinaaClarithromycin is used for susceptibility testing due to its better solubility |  |  |  |  |  |  |
+| Table 3: Susceptibility Test Interpretive Criteria for AzithromycinClarithromycin is used for susceptibility testing due to its better solubility |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Pathogen | Minimum Inhibitory Concentrations (mcg/mL) |  |  | Disk Diffusion (zone diameter in mm) |  |  |
 |  | S | I | R | S | I | R |
-| Haemophilus influenzaebbInsufficient information is available to determine Intermediate or Resistant interpretive criteria | ≤ 4 | - | - | ≥ 12 |  |  |
+| Haemophilus influenzaeInsufficient information is available to determine Intermediate or Resistant interpretive criteria | ≤ 4 | - | - | ≥ 12 |  |  |
 | Staphylococcus aureus | ≤ 2 | 4 | ≥ 8 | ≥ 18 | 14 to 17 | ≤ 13 |
 | Streptococci including S. pneumoniae | ≤ 0.5 | 1 | ≥ 2 | ≥ 18 | 14 to 17 | ≤ 13 |
 
 The ability to correlate MIC values and plasma drug levels is difficult as azithromycin concentrates in macrophages and tissues.
 [see Clinical Pharmacology (12)]
 
-A report of “Susceptible” indicates that the pathogen is likely to inhibit growth of the pathogen if the antibacterial compound reaches the concentration at the infection site necessary to inhibit growth of the pathogen.
+A report of “Susceptible” indicates that the antibacterial is likely to inhibit growth of the pathogen if the antibacterial compound reaches the concentration at the infection site necessary to inhibit growth of the pathogen.
 A report of “Intermediate” indicates that the result should be considered equivocal, and if the microorganism is not fully susceptible to alternative clinically feasible drugs, the test should be repeated.
 This category implies possible clinical applicability in body sites where the drug is physiologically concentrated.
 This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
@@ -246,17 +245,17 @@ A report of “Resistant” indicates that the antibacterial is not likely to in
 Quality Control
 
 Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test 1,2,3.
-Standard azithromycin powder should provide the following range of MIC values provided in Table 2.
-For the diffusion technique using the 15 mcg azithromycin disk the criteria provided in Table 2 should be achieved.
+Standard azithromycin powder should provide the following range of MIC values provided in Table 4.
+For the diffusion technique using the 15 mcg azithromycin disk the criteria provided in Table 4 should be achieved.
 
-Table 2.
+Table 4.
 Acceptable Quality Control Ranges for Susceptibility Testing
 
 | Quality Control Organism | Minimum Inhibitory Concentrations(mcg/mL) | Disk Diffusion (zone diameters in mm) |
 | --- | --- | --- |
 | Staphylococcus aureusATCC* 25923 | Not Applicable | 21 to 26 |
 | Staphylococcus aureusATCC 29213 | 0.5 to 2 | Not Applicable |
-| Haemophilus influenzaATCC 49247 | 1 to 4 | 13 to 21 |
+| Haemophilus influenzaeATCC 49247 | 1 to 4 | 13 to 21 |
 | Streptococcus pneumoniae ATCC 49619 | 0.06 to 0.25 | 19 to 25 |
 
 *ATCC = American Type Culture Collection

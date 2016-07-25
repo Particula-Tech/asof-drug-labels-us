@@ -2,7 +2,7 @@
 
 Azithromycin (a ZITH roe MYE sin)
 
-For Oral Suspension USP
+For Oral Suspension
 
 Read this Patient Information leaflet before you start taking azithromycin for oral suspension and each time you get a refill.
 There may be new information.
@@ -103,16 +103,15 @@ Azithromycin for oral suspension can cause serious side effects, including:
 - •Serious allergic reactions.
   Allergic reactions can happen in people taking azithromcyin the active ingredient in azithromycin for oral suspension, even after only 1 dose.
   Stop taking azithromycin for oral suspension and get emergency medical help right away if you have any of the following symptoms of a severe allergic reaction:
-  - ohives
   - otrouble breathing or swallowing
   - oswelling of the lips, tongue, face
   - othroat tightness, hoarseness
   - orapid heartbeat
   - ofaintness
-  - oskin rash
+  - oskin rash (hives)
+  - onew onset of fever and swollen lymph nodes
 - Stop taking azithromycin for oral suspension at the first sign of a skin rash and call your healthcare provider.
 - Skin rash may be a sign of a more serious reaction to azithromycin for oral suspension.
-
 - •Liver damage (hepatotoxicity).
   Hepatotoxicity can happen in people who take azithromycin for oral suspension.
   Call your healthcare provider right away if you have unexplained symptoms such as:
@@ -179,12 +178,19 @@ Active ingredient: azithromycin monohydrate
 
 Inactive ingredients: ammonio methacrylate copolymer, banana flavor, cherry flavor, colloidal silicon dioxide, FD&C Red No. 40, hydroxypropyl cellulose, sucrose, tribasic sodium phosphate anhydrous, vanilla flavor, and xanthan gum.
 
-- Manufactured In Croatia By:
-- PLIVA HRVATSKA d.o.o.
-- Zagreb, Croatia
-- Manufactured For:
-- TEVA PHARMACEUTICALS USA, INC.
-- North Wales, PA 19454
+This Patient Information has been approved by the U.S. Food and Drug Administration.
+
+Manufactured In Croatia By:
+
+Pliva Hrvatska d.o.o.
+
+Zagreb, Croatia
+
+Manufactured For:
+
+Teva Pharmaceuticals USA, Inc.
+
+North Wales, PA 19454
 
 Rev.
-B 6/2014
+C 6/2016

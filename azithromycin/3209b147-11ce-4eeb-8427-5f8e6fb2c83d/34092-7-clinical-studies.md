@@ -45,14 +45,9 @@ Pharyngitis/Tonsillitis
 In three double-blind controlled studies, conducted in the United States, azithromycin (12 mg/kg once a day for 5 days) was compared to penicillin V (250 mg three times a day for 10 days) in the treatment of pharyngitis due to documented Group A β-hemolytic streptococci (GABHS or S. pyogenes).
 Azithromycin was clinically and microbiologically statistically superior to penicillin at Day 14 and Day 30 with the following clinical success (i.e., cure and improvement) and bacteriologic efficacy rates (for the combined evaluable patient with documented GABHS):
 
-Three U.S. Streptococcal Pharyngitis Studies
-
-Azithromycin vs. Penicillin V
-
-EFFICACY RESULTS
-
-|  | Day 14 | Day 30 |
+| Three U.S. Streptococcal Pharyngitis StudiesAzithromycin vs. Penicillin VEFFICACY RESULTS |  |  |
 | --- | --- | --- |
+|  | Day 14 | Day 30 |
 | Bacteriologic Eradication: |  |  |
 | Azithromycin | 323/340 (95%) | 255/330 (77%) |
 | Penicillin V | 242/332 (73%) | 206/325 (63%) |
@@ -82,8 +77,10 @@ Microbiologic determinations were made at the pre-treatment visit.
 Microbiology was not reassessed at later visits.
 The following clinical success rates were obtained from the evaluable group:
 
-| Pathogen | Day 11Azithromycin | Day 30Azithromycin |
+| Pathogen |  |  |
 | --- | --- | --- |
+|  | Day 11 | Day 30 |
+|  | Azithromycin | Azithromycin |
 | S. pneumoniae | 61/74 (82%) | 40/56 (71%) |
 | H. influenzae | 43/54 (80%) | 30/47 (64%) |
 | M. catarrhalis | 28/35 (80%) | 19/26 (73%) |
@@ -122,7 +119,7 @@ Each patient received active drug and placebo matched for the comparator.
 For the 366 patients who were evaluated for clinical efficacy at the Day 12 visit, the clinical success rate (i.e., cure plus improvement) was 83% for azithromycin and 88% for the control agent.
 For the 362 patients who were evaluated at the Days 24 to 28 visit, the clinical success rate was 74% for azithromycin and 69% for the control agent.
 
-Efficacy using azithromycin 30 mg/kg given as a single dose
+Efficacy using azithromycin 30 mg/kg given as a single dose.
 
 Trial 5
 

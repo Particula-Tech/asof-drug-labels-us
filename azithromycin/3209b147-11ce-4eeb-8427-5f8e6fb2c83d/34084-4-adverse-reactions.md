@@ -64,7 +64,7 @@ The incidence is described in the table below:
 | --- | --- | --- | --- | --- | --- |
 | 5 day | 5.8% | 1.9% | 1.9% | 1.9% | 1.6% |
 
-Pharyngitis/tonsillitis: For the recommended dosage regimen of 12 mg/kg on Days 1 to 5, the most frequent adverse reactions attributed to treatment were diarrhea, vomiting, abdominal pain, nausea, and headache.
+Pharyngitis/Tonsillitis: For the recommended dosage regimen of 12 mg/kg on Days 1 to 5, the most frequent adverse reactions attributed to treatment were diarrhea, vomiting, abdominal pain, nausea, and headache.
 
 The incidence is described in the table below:
 
@@ -80,13 +80,13 @@ Cardiovascular: Chest pain.
 Gastrointestinal: Dyspepsia, constipation, anorexia, enteritis, flatulence, gastritis, jaundice, loose stools, and oral moniliasis.
 Hematologic and Lymphatic: Anemia and leukopenia.
 
-Nervous System: Headache (otitis media dosage), hyperkinesia, dizziness, nervousness, and insomnia.
+Nervous System: Headache (otitis media dosage), hyperkinesia, dizziness, agitation, nervousness, and insomnia.
 
 General: Fever, face edema, fatigue, fungal infection, malaise, and pain.
 
 Allergic: Rash and allergic reaction.
 
-Respiratory: Increased cough, pharyngitis, pleural effusion, and rhinitis.
+Respiratory: Cough, pharyngitis, pleural effusion, and rhinitis.
 
 Skin and Appendages: Eczema, fungal dermatitis, pruritus, sweating, urticaria, and vesiculobullous rash.
 
@@ -94,7 +94,7 @@ Special Senses: Conjunctivitis.
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post approval use of azithromycin.
+The following adverse reactions have been identified during post-approval use of azithromycin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Adverse reactions reported with azithromycin during the postmarketing period in adult and/or pediatric patients for which a causal relationship may not be established include:
@@ -117,7 +117,7 @@ Liver/Biliary: Abnormal liver function, hepatitis, cholestatic jaundice, hepatic
 Nervous System: Convulsions, dizziness/vertigo, headache, somnolence, hyperactivity, nervousness, agitation, and syncope.
 Psychiatric: Aggressive reaction and anxiety.
 
-Skin/Appendages: Pruritus, serious skin reactions including erythema multiforme, Stevens-Johnson syndrome and toxic epidermal necrolysis.
+Skin/Appendages: Pruritus serious skin reactions including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, and DRESS.
 
 Special Senses: Hearing disturbances including hearing loss, deafness and/or tinnitus, and reports of taste/smell perversion and/or loss.
 

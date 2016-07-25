@@ -1,17 +1,17 @@
 # 1 INDICATIONS AND USAGE
 
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of azithromycin for oral suspension USP and other antibacterial drugs, azithromycin for oral suspension USP should be used only to treat infections that are proven or strongly suspected to be caused by susceptible bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of azithromycin for oral suspension and other antibacterial drugs, azithromycin for oral suspension should be used only to treat infections that are proven or strongly suspected to be caused by susceptible bacteria.
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.
 
-Azithromycin for oral suspension USP is a macrolide antibacterial drug indicated for the treatment of patients with mild to moderate infections caused by susceptible strains of the designated microorganisms in the specific conditions listed below.
+Azithromycin for oral suspension is a macrolide antibacterial drug indicated for the treatment of patients with mild to moderate infections caused by susceptible strains of the designated microorganisms in the specific conditions listed below.
 Recommended dosages and durations of therapy in adult and pediatric patient populations vary in these indications.
 [see Dosage and Administration (2)]
 
 ## 1.1 Adult Patients
 
 - •Acute bacterial exacerbations of chronic bronchitis due to Haemophilus influenzae, Moraxella catarrhalis, or Streptococcus pneumoniae.
-- •Acute bacterial sinusitis due to Haemophilus influenzae, Moraxella catarrhalis. or Streptococcus pneumoniae.
+- •Acute bacterial sinusitis due to Haemophilus influenzae, Moraxella catarrhalis, or Streptococcus pneumoniae.
 - •Community-acquired pneumonia due to Chlamydophila pneumoniae, Haemophilus influenzae, Mycoplasma pneumoniae, or Streptococcus pneumoniae in patients appropriate for oral therapy.
 - •Pharyngitis/tonsillitis caused by Streptococcus pyogenes as an alternative to first-line therapy in individuals who cannot use first-line therapy.
 - •Uncomplicated skin and skin structure infections due to Staphylococcus aureus, Streptococcus pyogenes, or Streptococcus agalactiae.
@@ -21,11 +21,10 @@ Recommended dosages and durations of therapy in adult and pediatric patient popu
 
 ## 1.2 Pediatric Patients
 
-- [see Use in Specific Populations (8.4) and Clinical Studies (14.2)]
-
-- •Acute otitis media (> 6 months of age) caused by Haemophilus influenzae, Moraxella catarrhalis, or Streptococcus pneumoniae
-- •Community-acquired pneumonia (> 6 months of age) due to Chlamydophila pneumoniae, Haemophilus influenzae, Mycoplasma pneumonia, or Streptococcus pneumoniae in patients appropriate for oral therapy.
-- •Pharyngitis/tonsillitis (> 2 years of age) caused by Streptococcus pyogenes as an alternative to first-line therapy in individuals who cannot use first-line therapy.
+1. [see Use in Specific Populations (8.4) and Clinical Studies (14.2)]
+2. •Acute otitis media (> 6 months of age) caused by Haemophilus influenzae, Moraxella catarrhalis, or Streptococcus pneumoniae
+3. •Community-acquired pneumonia (> 6 months of age) due to Chlamydophila pneumoniae, Haemophilus influenzae, Mycoplasma pneumonia, or Streptococcus pneumoniae in patients appropriate for oral therapy.
+4. •Pharyngitis/tonsillitis (> 2 years of age) caused by Streptococcus pyogenes as an alternative to first-line therapy in individuals who cannot use first-line therapy.
 
 ## 1.3 Limitations of Use
 

@@ -2,7 +2,7 @@
 
 ## 2.1 Adult Patients
 
-[See Indications and Usage (1.1) and Clinical Pharmacology (12.3)]
+[see Indications and Usage (1.1) and Clinical Pharmacology (12.3)]
 
 | Infection* | Recommended Dose/Duration of Therapy |
 | --- | --- |
@@ -31,7 +31,7 @@ Azithromycin for oral suspension can be taken with or without food.
 | PEDIATRIC DOSAGE GUIDELINES FOR OTITIS MEDIA, ACUTE BACTERIAL SINUSITIS, AND COMMUNITY-ACQUIRED PNEUMONIA(Age 6 months and above, [see Use in Specific Populations (8.4)])Based on Body Weight |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | OTITIS MEDIA AND COMMUNITY-ACQUIRED PNEUMONIA: (5 Day Regimen)* |  |  |  |  |  |  |  |
-| Dosing Calculated on 10 mg/kg/day Day 1and 5 mg/kg/day Days 2 to 5. |  |  |  |  |  |  |  |
+| Dosing Calculated on 10 mg/kg/day Day 1 and 5 mg/kg/day Days 2 to 5. |  |  |  |  |  |  |  |
 | Weight |  | 100 mg/5 mL |  | 200 mg/5 mL |  | Total mL perTreatmentCourse | Total mg perTreatmentCourse |
 | Kg | Lbs. | Day 1 | Days 2 to 5 | Day 1 | Days 2 to 5 |  |  |
 | 5 | 11 | 2.5 mL; (½ tsp) | 1.25 mL; (¼ tsp) |  |  | 7.5 mL | 150 mg |
@@ -45,8 +45,8 @@ Azithromycin for oral suspension can be taken with or without food.
 
 | OTITIS MEDIA AND ACUTE BACTERIAL SINUSITIS: (3 Day Regimen)* |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Dosing Calculated on 10 mg/kg/day |  |  |  |  |  |
-| Weight |  | 100 mg/5 mL | 200 mg/5 mL | Total mL perTreatmentCourse | Total mg perTreatmentCourse |
+| Dosing Calculated on 10 mg/kg/day. |  |  |  |  |  |
+| Weight |  | 100 mg/5 mL | 200 mg/5 mL | Total mL per Treatment Course | Total mg per Treatment Course |
 | Kg | Lbs. | Days 1 to 3 | Days 1 to 3 |  |  |
 | 5 | 11 | 2.5 mL; (½ tsp) |  | 7.5 mL | 150 mg |
 | 10 | 22 | 5 mL; (1 tsp) |  | 15 mL | 300 mg |
@@ -59,8 +59,8 @@ Azithromycin for oral suspension can be taken with or without food.
 
 | OTITIS MEDIA: (1 Day Regimen) |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| Dosing Calculated on 30 mg/kg as a single dose |  |  |  |  |
-| Weight |  | 200 mg/5 mL | Total mL perTreatment Course | Total mg perTreatment Course |
+| Dosing Calculated on 30 mg/kg as a single dose. |  |  |  |  |
+| Weight |  | 200 mg/5 mL | Total mL per Treatment Course | Total mg per Treatment Course |
 | Kg | Lbs. | 1 Day Regimen |  |  |
 | 5 | 11 | 3.75 mL; (3/4 tsp) | 3.75 mL | 150 mg |
 | 10 | 22 | 7.5 mL; (1½ tsp) | 7.5 mL | 300 mg |
@@ -70,7 +70,7 @@ Azithromycin for oral suspension can be taken with or without food.
 | 50 and above | 110 and above | 37.5 mL; (7½ tsp) | 37.5 mL | 1500 mg |
 
 The safety of re-dosing azithromycin in pediatric patients who vomit after receiving 30 mg/kg as a single dose has not been established.
-In clinical studies involving 487 patients with acute otitis media given a single 30 mg/kg dose of azithromycin, eight patients who vomited within 30 minutes of dosing were re-dosed at the same total dose.
+In clinical studies involving 487 patients with acute otitis media given a single 30 mg/kg dose of azithromycin, 8 patients who vomited within 30 minutes of dosing were re-dosed at the same total dose.
 
 Pharyngitis/Tonsillitis: The recommended dose of azithromycin for children with pharyngitis/tonsillitis is 12 mg/kg once daily for 5 days.
 (See chart below.)
@@ -79,7 +79,7 @@ Pharyngitis/Tonsillitis: The recommended dose of azithromycin for children with 
 | --- | --- | --- | --- | --- |
 | PHARYNGITIS/TONSILLITIS: (5 Day Regimen) |  |  |  |  |
 | Dosing Calculated on 12 mg/kg/day for 5 days. |  |  |  |  |
-| Weight |  | 200 mg/5 mL | Total mL per TreatmentCourse | Total mg per TreatmentCourse |
+| Weight |  | 200 mg/5 mL | Total mL per Treatment Course | Total mg per Treatment Course |
 | Kg | Lbs. | Day 1 to 5 |  |  |
 | 8 | 18 | 2.5 mL; (½ tsp) | 12.5 mL | 500 mg |
 | 17 | 37 | 5 mL; (1 tsp) | 25 mL | 1000 mg |
@@ -96,3 +96,10 @@ The table below indicates the volume of water to be used for constitution:
 | 9 mL (600 mg) | 15 mL (600 mg) | 200 mg/5 mL |
 | 12 mL (900 mg) | 22.5 mL (900 mg) | 200 mg/5 mL |
 | 15 mL (1200 mg) | 30 mL (1200 mg) | 200 mg/5 mL |
+
+Shake well before each use.
+Oversized bottle provides shake space.
+Keep tightly closed.
+
+After mixing, store suspension at 5° to 25°C (41° to 77°F) and use within 10 days.
+Discard after full dosing is completed.

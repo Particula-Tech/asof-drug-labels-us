@@ -2,10 +2,11 @@
 
 ## 5.1 Hypersensitivity
 
-Serious allergic reactions, including angioedema, anaphylaxis, and dermatologic reactions including Stevens-Johnson syndrome and toxic epidermal necrolysis have been reported in patients on azithromycin therapy.
+Serious allergic reactions, including angioedema, anaphylaxis, and dermatologic reactions including Stevens-Johnson syndrome, and toxic epidermal necrolysis have been reported in patients on azithromycin therapy.
 [see Contraindications (4.1)]
 
 Fatalities have been reported.
+Cases of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) have also been reported.
 Despite initially successful symptomatic treatment of the allergic symptoms, when symptomatic therapy was discontinued, the allergic symptoms recurred soon thereafter in some patients without further azithromycin exposure.
 These patients required prolonged periods of observation and symptomatic treatment.
 The relationship of these episodes to the long tissue half-life of azithromycin and subsequent prolonged exposure to antigen is presently unknown.
@@ -45,9 +46,7 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 
 ## 5.5 Exacerbation of Myasthenia Gravis
 
-Exacerbation of symptoms of myasthenia gravis and new onset of myasthenic syndrome have been reported in patients receiving
-
-azithromycin therapy.
+Exacerbation of symptoms of myasthenia gravis and new onset of myasthenic syndrome have been reported in patients receiving azithromycin therapy.
 
 ## 5.6 Use in Sexually Transmitted Infections
 
@@ -58,6 +57,4 @@ Appropriate antibacterial therapy and follow-up tests for these diseases should 
 
 ## 5.7 Development of Drug-Resistant Bacteria
 
-Prescribing azithromycin in the absence of a proven or strongly suspected bacterial infection is unlikely to provide benefit to the
-
-patient and increases the risk of the development of drug-resistant bacteria.
+Prescribing azithromycin in the absence of a proven or strongly suspected bacterial infection is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.

@@ -1,10 +1,10 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-## 17.1 General Patient Counseling
+General Patient Counseling
 
 Azithromycin tablets and oral suspension can be taken with or without food.
 
-Patients should also be cautioned not to take aluminum-and magnesium-containing antacids and azithromycin simultaneously.
+Patients should also be cautioned not to take aluminum- and magnesium-containing antacids and azithromycin simultaneously.
 
 The patient should be directed to discontinue azithromycin immediately and contact a physician if any signs of an allergic reaction occur.
 
@@ -17,14 +17,19 @@ Diarrhea is a common problem caused by antibacterials which usually ends when th
 Sometimes after starting treatment with antibacterials patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibacterial drug.
 If this occurs, patients should contact their physician as soon as possible.
 
-## 17.2 See FDA-approved Patient Labeling
+See FDA-approved Patient Labeling
 
-- Manufactured In Croatia By:
-- PLIVA HRVATSKA d.o.o.
-- Zagreb, Croatia
-- Manufactured For:
-- TEVA PHARMACEUTICALS USA, INC.
-- North Wales, PA 19454
+Manufactured In Croatia By:
+
+Pliva Hrvatska d.o.o.
+
+Zagreb, Croatia
+
+Manufactured For:
+
+Teva Pharmaceuticals USA, Inc.
+
+North Wales, PA 19454
 
 Rev.
-F 6/2014
+G 6/2016
