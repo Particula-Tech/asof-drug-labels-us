@@ -4,7 +4,8 @@
 - Patients should be informed of the importance of getting their blood tests (serum creatinine) during the course of their Zoledronic acid Injection therapy.
 - Zoledronic acid Injection should not be given if the patient is pregnant or plans to become pregnant, or if she is breast feeding.
 - Patients should be advised to have a dental examination prior to treatment with Zoledronic acid Injection and should avoid invasive dental procedures during treatment.
-- Patients should be informed of the importance of good dental hygiene and routine dental care.
+- Patients should be informed of the importance of good dental hygiene, routine dental care and regular dental check-ups.
+- Patients should be advised to immediately tell their doctor about any oral symptoms such as loosening of a tooth, pain, swelling, or non-healing of sores or discharge during treatment with Zoledronic acid Injection.
 - Patients with multiple myeloma and bone metastasis of solid tumors should be advised to take an oral calcium supplement of 500 mg and a multiple vitamin containing 400 international units of Vitamin D daily.
 - Patients should be advised to report any thigh, hip or groin pain.
   It is unknown whether the risk of atypical femur fracture continues after stopping therapy.
@@ -13,4 +14,4 @@
   Before being given zoledronic acid, patients should tell their doctor if they are aspirin-sensitive.
 
 The brands listed are the registered trademarks of their respective owners and are not trademarks of Gland Pharma Limited.
-Manufactured by: Gland Pharma Limited Hyderabad-500 043, INDIA Revised: July 2015
+Manufactured by: Gland Pharma Limited Hyderabad-500 043, INDIA Revised: April 2016
