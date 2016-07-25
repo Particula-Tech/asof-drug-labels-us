@@ -11,4 +11,4 @@ U.S. Patents 5,196,404; 7,598,343; 7,582,727
 
 Hemochron® is a registered trademark of International Technidyne Corporation, Edison, NJ.
 
-[PN 1615]
+[PN 1515-1]
