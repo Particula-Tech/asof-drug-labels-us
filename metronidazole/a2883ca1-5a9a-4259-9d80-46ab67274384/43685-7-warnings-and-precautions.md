@@ -128,8 +128,6 @@ Fertility was restored in most rats after an eight week, drug-free recovery peri
 
 ### Teratogenic effects
 
-#### Pregnancy Category B
-
 There are no adequate and well-controlled studies of FLAGYL 375 capsules in pregnant women.
 There are published data from case-control studies, cohort studies, and 2-meta-analyses that include more than 5000 pregnant women who used metronidazole during pregnancy.
 Many studies included first trimester exposures.
