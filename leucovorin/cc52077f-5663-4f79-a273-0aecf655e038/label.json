@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA040335"
+  ],
+  "inn": "leucovorin",
+  "labeler": "West-Ward Pharmaceuticals Corp",
+  "package_ndcs": [
+    "0143-9552-01",
+    "0143-9553-01",
+    "0143-9554-01",
+    "0143-9555-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "leucovorin calcium",
+      "name": "Leucovorin Calcium"
+    }
+  ],
+  "setid": "cc52077f-5663-4f79-a273-0aecf655e038",
+  "source": "dailymed"
+}
