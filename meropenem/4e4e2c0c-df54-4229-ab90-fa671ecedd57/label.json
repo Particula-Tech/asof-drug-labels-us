@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA206141"
+  ],
+  "inn": "meropenem",
+  "labeler": "Gland Pharma Limited",
+  "package_ndcs": [
+    "68083-146-10",
+    "68083-147-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "meropenem",
+      "name": "Meropenem"
+    }
+  ],
+  "setid": "4e4e2c0c-df54-4229-ab90-fa671ecedd57",
+  "source": "dailymed"
+}
