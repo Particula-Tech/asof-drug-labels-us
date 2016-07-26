@@ -27,10 +27,10 @@ Alcon® ALCON LABORATORIES, INC. Fort Worth, Texas 76134 USA 1-800-757-9195 MedI
 NDC 0998-0204-15 Alcon® Isopto® Carpine 2% (pilocarpine hydrochloride ophthalmic solution) Sterile 15 mL Rx Only FOR TOPICAL OPHTHALMIC USE ONLY INGREDIENTS: Each mL contains: Active: pilocarpine hydrochloride 2%.
 Preservative: benzalkonium chloride 0.01%.
 Inactives: 0.5% hypromellose 2910, boric acid, sodium citrate, hydrochloric acid and/or sodium hydroxide (to adjust pH), purified water.
-USUAL DOSAGE: One drop in the eye(s) up to four times daily.
+USUAL DOSAGE: One drop topically in the eye(s) up to four times daily.
 Read enclosed insert.
 STORAGE: Store at 15°-25°C (59°-77°F) and protect from freezing.
-ALCON LABORATORIES, INC. Fort Worth, Texas 76134 USA Printed in USA © 2003, 2004, 2010 Alcon, Inc. H11847-0910 LOT:/EXP.:
+ALCON LABORATORIES, INC. Fort Worth, Texas 76134 USA Printed in USA © 2003, 2004, 2010 Alcon, Inc. H12940-1013 LOT:/EXP.:
 
 NDC 0998-0206-15 Alcon® Isopto® Carpine 4% (pilocarpine hydrochloride ophthalmic solution) 15 mL Sterile Rx Only FOR TOPICAL OPHTHALMIC USE ONLY USUAL DOSAGE: One drop in the eye(s) up to four times daily.
 Read enclosed insert.
@@ -46,4 +46,4 @@ Inactives: 0.5% hypromellose 2910, boric acid, sodium citrate, hydrochloric acid
 USUAL DOSAGE: One drop in the eye(s) up to four times daily.
 Read enclosed insert.
 STORAGE: Store at 15°-25°C (59°-77°F) and protect from freezing.
-ALCON LABORATORIES, INC. Fort Worth, Texas 76134 USA Printed in USA © 2001, 2003, 2004, 2010 Alcon, Inc. H11848-0910 LOT:/EXP.:
+ALCON LABORATORIES, INC. Fort Worth, Texas 76134 USA Printed in USA © 2001, 2003, 2004, 2010 Alcon, Inc. H12941-1013 LOT:/EXP.:
