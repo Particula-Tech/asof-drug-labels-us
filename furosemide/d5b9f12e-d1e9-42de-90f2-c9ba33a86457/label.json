@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA207552"
+  ],
+  "inn": "furosemide",
+  "labeler": "Amneal Biosciences",
+  "package_ndcs": [
+    "70121-1076-1",
+    "70121-1163-1",
+    "70121-1163-5",
+    "70121-1164-1"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "furosemide",
+      "name": "Furosemide"
+    }
+  ],
+  "setid": "d5b9f12e-d1e9-42de-90f2-c9ba33a86457",
+  "source": "dailymed"
+}
