@@ -7,7 +7,7 @@ Effect of Other Drugs on Voriconazole Pharmacokinetics [see CLINICAL PHARMACOLOG
 | --- | --- | --- |
 | RifampinResults based on in vivo clinical studies generally following repeat oral dosing with 200 mg q12h voriconazole to healthy subjects, and Rifabutin (CYP450 Induction) | Significantly Reduced | Contraindicated |
 | Efavirenz (400 mg q24h)Results based on in vivo clinical study following repeat oral dosing with 400 mg q12h for 1 day, then 200 mg q12h for at least 2 days voriconazole to healthy subjects (CYP450 Induction) | Significantly Reduced | Contraindicated |
-| Efavirenz (300 mg q24h)(CYP450 Induction) | Slight Decrease in AUCτ | When voriconazole is coadministered with efavirenz, voriconazole oral maintenance dose should be increased to 400 mg q12h and efavirenz should be decreased to 300 mg q24h |
+| Efavirenz (300 mg q24h) (CYP450 Induction) | Slight Decrease in AUCτ | When voriconazole is coadministered with efavirenz, voriconazole oral maintenance dose should be increased to 400 mg q12h and efavirenz should be decreased to 300 mg q24h |
 | High-dose Ritonavir (400 mg q12h) (CYP450 Induction) | Significantly Reduced | Contraindicated |
 | Low-dose Ritonavir (100 mg q12h) (CYP450 Induction) | Reduced | Coadministration of voriconazole and low-dose ritonavir (100 mg q12h) should be avoided, unless an assessment of the benefit/risk to the patient justifies the use of voriconazole |
 | Carbamazepine (CYP450 Induction) | Not Studied In Vivo or In Vitro, but Likely to Result in Significant Reduction | Contraindicated |

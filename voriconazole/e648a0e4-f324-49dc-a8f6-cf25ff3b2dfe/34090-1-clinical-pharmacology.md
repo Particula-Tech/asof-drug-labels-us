@@ -11,6 +11,7 @@ General Pharmacokinetic Characteristics
 The pharmacokinetics of voriconazole have been characterized in healthy subjects, special populations and patients.
 
 During oral administration of 200 mg or 300 mg twice daily for 14 days in patients at risk of aspergillosis (mainly patients with malignant neoplasms of lymphatic or hematopoietic tissue), the observed pharmacokinetic characteristics were similar to those observed in healthy subjects.
+
 The pharmacokinetics of voriconazole are non-linear due to saturation of its metabolism.
 The interindividual variability of voriconazole pharmacokinetics is high.
 Greater than proportional increase in exposure is observed with increasing dose.
@@ -401,7 +402,7 @@ MICs should be determined using a standardized procedure at 48 hours.1 Standardi
 The MIC values should be interpreted according to the criteria provided in Table 10.
 
 Diffusion Techniques–Qualitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of Candida spp. to an antifungal agent.
-One such standardized procedure requires the use of standardized inoculum concentrations.3 This procedure uses paper disks impregnated with 1 mcg of voriconazole to test the susceptibility of yeasts to voriconazole at 24 hours.
+One such standardized procedure requires the use of standardized inoculum concentrations.2 This procedure uses paper disks impregnated with 1 mcg of voriconazole to test the susceptibility of yeasts to voriconazole at 24 hours.
 Disk diffusion interpretive criteria are also provided in Table 10.
 
 Table 10.

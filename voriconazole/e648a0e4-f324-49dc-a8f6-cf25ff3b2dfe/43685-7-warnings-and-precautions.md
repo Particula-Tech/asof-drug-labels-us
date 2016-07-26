@@ -14,7 +14,7 @@ Liver dysfunction has usually been reversible on discontinuation of therapy [see
 
 Measure serum transaminase levels and bilirubin at the initiation of voriconazole therapy and monitor at least weekly for the first month of treatment.
 Monitoring frequency can be reduced to monthly during continued use if no clinically significant changes are noted.
-If liver function tests become markedly elevated compared to baseline, voriconazole should be discontinued unless the medical judgment of the benefit-risk of the treatment for the patient justifies continued use[see WARNINGS AND PRECAUTIONS (5.9), DOSAGE AND ADMINISTRATION (2.4, 2.7), and ADVERSE REACTIONS (6.3)].
+If liver function tests become markedly elevated compared to baseline, voriconazole should be discontinued unless the medical judgment of the benefit-risk of the treatment for the patient justifies continued use [see WARNINGS AND PRECAUTIONS (5.9), DOSAGE AND ADMINISTRATION (2.4, 2.7), and ADVERSE REACTIONS (6.3)].
 
 ## 5.3 Visual Disturbances
 

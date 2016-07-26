@@ -38,7 +38,7 @@ Overall Efficacy and Success by Species in the Primary Treatment of Acute Invasi
 | --- | --- | --- | --- |
 |  | Voriconazole | Ampho BAmphotericin B followed by other licensed antifungal therapy | Stratified Difference (95% CI)Difference and corresponding 95% confidence interval are stratified by protocol |
 | Efficacy as Primary Therapy |  |  |  |
-| Satisfactory Global ResponseAssessed by independent Data Review Committee (DRC) | 76/144 (53) | 42/133 (32) | 21.8% (10.5%, 33.0%) p<0.0001 |
+| Satisfactory Global ResponseAssessed by independent Data Review Committee (DRC) | 76/144 (53) | 42/133 (32) | 21.8% (10.5%, 33%) p<0.0001 |
 | Survival at Day 84Proportion of subjects alive | 102/144 (71) | 77/133 (58) | 13.1% (2.1%, 24.2%) |
 | Success by Species |  |  |  |
 | Success n/N (%) |  |  |  |
@@ -54,7 +54,7 @@ Overall Efficacy and Success by Species in the Primary Treatment of Acute Invasi
 Study 304 – Primary and Salvage Therapy of Aspergillosis
 
 In this non-comparative study, an overall success rate of 52% (26/50) was seen in patients treated with voriconazole for primary therapy.
-Success was seen in 17/29 (59%) with Aspergillus fumigatus infections and 3/6 (50%) patients with infections due to non-fumigatus species [A. flavus (1/1); A. nidulans (0/2); A. niger(2/2); A. terreus (0/1)].
+Success was seen in 17/29 (59%) with Aspergillus fumigatus infections and 3/6 (50%) patients with infections due to non-fumigatus species [A. flavus (1/1); A. nidulans (0/2); A. niger (2/2); A. terreus (0/1)].
 Success in patients who received voriconazole as salvage therapy is presented in Table 13.
 
 Study 309/604 – Treatment of Patients with Invasive Aspergillosis who were Refractory to, or Intolerant of, other Antifungal Therapy

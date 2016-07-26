@@ -151,7 +151,7 @@ Do not use voriconazole for injection for a condition for which it was not presc
 Do not give voriconazole for injection to other people, even if they have the same symptoms that you have.
 It may harm them.
 
-This Patient Information Leaflet summarizes the most important information about voriconazole for injection.
+This Patient Information leaflet summarizes the most important information about voriconazole for injection.
 If you would like more information, talk to your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about voriconazole for injection that is written for health professionals.
 
@@ -167,11 +167,12 @@ The brands listed are the registered trademarks of their respective owners and a
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Finished drug product manufactured by Lek Pharmaceuticals, d.d.
-SI-1526, Ljujana, Slovenia
+Finished drug product Manufactured by Lek Pharmaceuticals, d.d.
+
+SI-1526, Ljubljana, Slovenia
 
 for Sandoz Inc., Princeton, NJ 08540
 
 Product of India
 
-Rev.: February 2015
+Rev.: February 2016
