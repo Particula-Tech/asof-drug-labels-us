@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA074531"
+  ],
+  "inn": "fluphenazine",
+  "labeler": "West-Ward Pharmaceuticals Corp",
+  "package_ndcs": [
+    "0143-9529-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "fluphenazine decanoate",
+      "name": "Fluphenazine Decanoate"
+    }
+  ],
+  "setid": "1967dc24-f2a5-4095-baa9-a9d1c5410311",
+  "source": "dailymed"
+}
