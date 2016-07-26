@@ -16,7 +16,7 @@ Camber Pharmaceuticals Inc.
 
 Piscataway, NJ 08854
 
-By: HETEROTM 2028011
+By: HETEROTM 2032998
 
 Hetero Labs Limited Unit V, Polepally,
 
@@ -24,4 +24,4 @@ Jadcherla, Mahaboob Nagar – 509 301, India.
 
 Barcode
 
-Revised: February 2015
+Revised: December 2015
