@@ -7,7 +7,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 In the U.S. clinical trial population of 465 patients, the adverse reactions summarized in Table 2 were reported to occur in 1% or more of patients on therapy with omeprazole.
 Numbers in parentheses indicate percentages of the adverse reactions considered by investigators as possibly, probably or definitely related to the drug.
 
-Table 2: Adverse Reactions Occurring in 1% or More of Patients on Omeprazole Therapy
+Table 2: Adverse Reactions Occurring In 1% or More of Patients on Omeprazole Therapy
 
 |  | Omeprazole(n = 465) | Placebo(n = 64) | Ranitidine(n = 195) |
 | --- | --- | --- | --- |
@@ -26,7 +26,7 @@ Table 2: Adverse Reactions Occurring in 1% or More of Patients on Omeprazole The
 
 Table 3 summarizes the adverse reactions that occurred in 1% or more of omeprazole-treated patients from international double-blind, and open-label clinical trials in which 2,631 patients and subjects received omeprazole.
 
-Table 3: Incidence of Adverse Reactions ≥1% Causal Relationship not Assessed
+Table 3: Incidence of Adverse Reactions ≥1 % Causal Relationship not Assessed
 
 |  | Omeprazole (n = 2631) | Placebo(n = 120) |
 | --- | --- | --- |
@@ -44,9 +44,9 @@ Table 3: Incidence of Adverse Reactions ≥1% Causal Relationship not Assessed
 | Headache | 2.9 | 2.5 |
 
 A controlled clinical trial was conducted in 359 critically ill patients, comparing ZEGERID 40 mg/1680 mg suspension once daily to I.V. cimetidine 1200 mg/day for up to 14 days.
-The incidence and total number of AEs experienced by ≥3% of patients in either group are presented in Table 4 by body system and preferred term.
+The incidence and total number of AEs experienced by ≥ 3% of patients in either group are presented in Table 4 by body system and preferred term.
 
-Table 4: Number (%) of Critically Ill Patients with Frequently Occurring (≥3%) Adverse Events by Body System and Preferred Term
+Table 4: Number (%) of Critically Ill Patients with Frequently Occurring (≥ 3%) Adverse Events by Body System and Preferred Term
 
 |  | ZEGERID®(N=178) | Cimetidine(N=181) |
 | --- | --- | --- |
@@ -102,7 +102,8 @@ Table 4: Number (%) of Critically Ill Patients with Frequently Occurring (≥3%)
 | VASCULAR DISORDERS |  |  |
 | Hypertension NOS | 14 (7.9) | 6 (3.3) |
 | Hypotension NOS | 17 (9.6) | 12 (6.6) |
-| NOS = Not otherwise specified. |  |  |
+
+NOS = Not otherwise specified.
 
 ## 6.2 Postmarketing Experience
 

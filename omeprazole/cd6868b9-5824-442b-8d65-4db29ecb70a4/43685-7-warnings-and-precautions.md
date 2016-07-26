@@ -4,7 +4,7 @@
 
 Symptomatic response to therapy with omeprazole does not preclude the presence of gastric malignancy.
 
-## 5.2 Atrophic gastritis
+## 5.2 Atrophic Gastritis
 
 Atrophic gastritis has been noted occasionally in gastric corpus biopsies from patients treated long-term with omeprazole.
 
@@ -63,7 +63,7 @@ Patients at risk for osteoporosis-related fractures should be managed according 
 
 ## 5.9 Hypomagnesemia
 
-Hypomagnesemia, symptomatic and asymptomatic, has been reported rarely in patients treated with PPIS for at least three months, in most cases after a year of therapy.
+Hypomagnesemia, symptomatic and asymptomatic, has been reported rarely in patients treated with PPIs. for at least three months, in most cases after a year of therapy.
 Serious adverse events include tetany, arrhythmias, and seizures.
 In most patients, treatment of hypomagnesemia required magnesium replacement and discontinuation of the PPI.
 
@@ -81,7 +81,7 @@ Serum chromogranin A (CgA) levels increase secondary to drug-induced decreases i
 The increased CgA level may cause false positive results in diagnostic investigations for neuroendocrine tumors.
 Providers should temporarily stop omeprazole treatment before assessing CgA levels and consider repeating the test if initial CgA levels are high.
 If serial tests are performed (e.g. for monitoring), the same commercial laboratory should be used for testing, as reference ranges between tests may vary.
-[See Pharmacodynamics (12.2)]
+[See Pharmacodynamics (12.2)].
 
 ## 5.12 Concomitant Use of ZEGERID with Methotrexate
 

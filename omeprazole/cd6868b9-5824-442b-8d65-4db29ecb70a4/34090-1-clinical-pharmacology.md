@@ -21,9 +21,9 @@ Table 5: Effect of ZEGERID Oral Suspension on Intragastric pH, Day 7
 |  | Omeprazole/Sodium Bicarbonate |  |
 | --- | --- | --- |
 | Parameter | 40 mg/1680 mg(n = 24) | 20 mg/1680 mg(n = 28) |
-| % Decrease from Baseline for Integrated Gastric Acidity (mmol●hr/L) | 84% | 82% |
+| % Decrease from Baseline for Integrated Gastric Acidity (mmol•hr/L) | 84% | 82% |
 | Coefficient of variation | 20% | 24% |
-| % Time Gastric pH > 4 P < 0.05 20 mg vs. 40 mg(Hours) | 77%(18.6 h) | 51%(12.2 h) |
+| % Time Gastric pH > 4*(Hours)* | 77%(18.6 h) | 51%(12.2 h) |
 | Coefficient of variation | 27% | 43% |
 | Median pH | 5.2 | 4.2 |
 | Coefficient of variation | 17% | 37% |
@@ -35,7 +35,8 @@ The antisecretory effect lasts longer than would be expected from the very short
 
 Enterochromaffin-like (ECL) Cell Effects
 
-In 24-month carcinogenicity studies in rats, a dose-related significant increase in gastric carcinoid tumors and ECL cell hyperplasia was observed in both male and female animals [See Nonclinical Toxicology (13.1)].Carcinoid tumors have also been observed in rats subjected to fundectomy or long-term treatment with other proton pump inhibitors or high doses of H2-receptor antagonists.
+In 24-month carcinogenicity studies in rats, a dose-related significant increase in gastric carcinoid tumors and ECL cell hyperplasia was observed in both male and female animals [See Nonclinical Toxicology (13.1)].
+Carcinoid tumors have also been observed in rats subjected to fundectomy or long-term treatment with other proton pump inhibitors or high doses of H2-receptor antagonists.
 Human gastric biopsy specimens have been obtained from more than 3000 patients treated with omeprazole in long-term clinical trials.
 The incidence of ECL cell hyperplasia in these studies increased with time; however, no case of ECL cell carcinoids, dysplasia, or neoplasia has been found in these patients.
 These studies are of insufficient duration and size to rule out the possible influence of long-term administration of omeprazole on the development of any premalignant or malignant conditions.
@@ -77,7 +78,7 @@ Absorption
 In separate in vivo bioavailability studies, when ZEGERID Oral Suspension and Capsules are administered on an empty stomach 1 hour prior to a meal, the absorption of omeprazole is rapid, with mean peak plasma levels (% CV) of omeprazole being 1954 ng/mL (33%) and 1526 ng/mL (49%), respectively, and time to peak of approximately 30 minutes (range 10-90 min) after a single-dose or repeated-dose administration.
 Absolute bioavailability of ZEGERID Powder for Oral Suspension (compared to I.V. administration) is about 30-40% at doses of 20 – 40 mg, due in large part to presystemic metabolism.
 
-When ZEGERID Oral Suspension 40 mg/1680 mg was administered in a two-dose loading regimen, the omeprazole AUC (0-inf) (ng●hr/mL) was 1665 after Dose 1 and 3356 after Dose 2, while Tmax was approximately 30 minutes for both Dose 1 and Dose 2.
+When ZEGERID Oral Suspension 40 mg/1680 mg was administered in a two-dose loading regimen, the omeprazole AUC (0-inf) (ng•hr/mL) was 1665 after Dose 1 and 3356 after Dose 2, while Tmax was approximately 30 minutes for both Dose 1 and Dose 2.
 
 Following single or repeated once daily dosing, peak plasma concentrations of omeprazole from ZEGERID are approximately proportional from 20 to 40 mg doses, but a greater than linear mean AUC (three-fold increase) is observed when doubling the dose to 40 mg.
 The bioavailability of omeprazole from ZEGERID increases upon repeated administration.

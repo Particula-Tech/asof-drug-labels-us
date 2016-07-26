@@ -35,7 +35,7 @@ Patients should be advised that this drug is not approved for use in patients le
 Patients on a sodium-restricted diet or patients at risk of developing congestive heart failure (CHF) should be informed of the sodium content of ZEGERID Capsules (304 mg per capsule) and ZEGERID Powder (460 mg per packet).
 Patients should be informed that chronic use of sodium bicarbonate may cause problems and increased sodium intake can cause swelling and weight gain.
 If this occurs, they should contact their healthcare provider.
-[See Warnings and Precautions (5.5)]
+[See Warnings and Precautions (5.3)]
 
 Patients should be informed that the most frequent adverse reactions associated with ZEGERID include headache, abdominal pain, nausea, diarrhea, vomiting and flatulence.
 [See Adverse Reactions (6)]
@@ -44,7 +44,7 @@ Pregnant women should be advised that a harmful effect of ZEGERID on the fetus c
 [See Pregnancy (8.1)]
 
 Patients should be advised to use this drug with caution if they are regularly taking calcium supplements.
-[See Warnings and Precautions (5.5)]
+[See Warnings and Precautions (5.3)]
 
 Advise patients to immediately report and seek care for diarrhea that does not improve.
 This may be a sign of Clostridium difficile associated diarrhea.
@@ -53,14 +53,19 @@ This may be a sign of Clostridium difficile associated diarrhea.
 Advise patients to immediately report and seek care for any cardiovascular or neurological symptoms including palpitations, dizziness, seizures and tetany as these may be signs of hypomagnesemia.
 [See Warnings and Precautions (5.9)].
 
-ZEGERID® Capsules and Powder for Oral Suspension are manufactured for: Santarus, Inc., a wholly owned subsidiary of Salix Pharmaceuticals, Inc., Raleigh, NC 27615
+ZEGERID® Capsules and Powder for Oral Suspension are
 
-Product protected by one or more of the following U.S patent Nos. RE45,198; 6,780,882; 7,399,772
+Manufactured for: Salix Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-Please see www.salix.com for patent information.
+Please see www.salix.com for patent information
 
-ZEGERID® is a registered trademark of Santarus, Inc., a wholly owned subsidiary of Salix Pharmaceuticals, Inc., Raleigh, NC 27615.
+Zegerid is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
-REV DEC 2014
+All other product/brand names are trademarks of their respective owners.
 
-VENART-292-0
+© Valeant Pharmaceuticals North America LLC
+
+Rev.
+06/2016
+
+1. 9524000 2000007980

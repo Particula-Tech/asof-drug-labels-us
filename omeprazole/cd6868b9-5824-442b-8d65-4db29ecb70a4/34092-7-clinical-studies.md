@@ -10,7 +10,7 @@ Table 6: Treatment of Active Duodenal Ulcer
 | % of Patients Healed |  |  |
 | --- | --- | --- |
 |  | Omeprazole 20 mg a.m.(n = 99) | Placeboa.m.(n = 48) |
-| Week 2 | 41(p ≤ 0.01) | 13 |
+| Week 2 | 41(p≤0.01) | 13 |
 | Week 4 | 75 | 27 |
 
 Complete daytime and nighttime pain relief occurred significantly faster (p ≤ 0.01) in patients treated with omeprazole 20 mg than in patients treated with placebo.
@@ -25,12 +25,12 @@ Table 7: Treatment of Active Duodenal Ulcer % of Patients Healed
 |  | Omeprazole 20 mg a.m.(n = 145) | Ranitidine150 mg b.i.d.(n = 148) |
 | --- | --- | --- |
 | Week 2 | 42 | 34 |
-| Week 4 | 82(p < 0.01) | 63 |
+| Week 4 | 82(p<0.01) | 63 |
 
 Healing occurred significantly faster in patients treated with omeprazole than in those treated with ranitidine 150 mg b.i.d.
 (p < 0.01).
 
-In a foreign multinational randomized, double-blind study of 105 patients with endoscopically documented duodenal ulcer, 40 mg and 20 mg of omeprazole were compared to 150 mg b.i.d. of ranitidine at 2,4 and 8 weeks.
+In a foreign multinational randomized, double-blind study of 105 patients with endoscopically documented duodenal ulcer, 40 mg and 20 mg of omeprazole were compared to 150 mg b.i.d. of ranitidine at 2, 4 and 8 weeks.
 At 2 and 4 weeks both doses of omeprazole were statistically superior (per protocol) to ranitidine, but 40 mg was not superior to 20 mg of omeprazole, and at 8 weeks there was no significant difference between any of the active drugs.
 (See Table 8)
 
@@ -53,7 +53,7 @@ Table 9: Treatment of Gastric Ulcer % of Patients Healed (All Patients Treated)
 |  | Omeprazole40 mg q.d.(n = 214) | Omeprazole20 mg q.d.(n = 202) | Placebo(n = 104) |
 | --- | --- | --- | --- |
 | Week 4 | 55.6(p < 0.01) Omeprazole 40 mg or 20 mg versus placebo | 47.5 | 30.8 |
-| Week 8 | 82.7,(p < 0.05) Omeprazole 40 mg versus 20 mg | 74.8 | 48.1 |
+| Week 8 | 82.7(p<0.05) Omeprazole 40 mg versus 20 mg | 74.8 | 48.1 |
 
 For the stratified groups of patients with ulcer size less than or equal to 1 cm, no difference in healing rates between 40 mg and 20 mg was detected at either 4 or 8 weeks.
 For patients with ulcer size greater than 1 cm, 40 mg was significantly more effective than 20 mg at 8 weeks.
@@ -65,8 +65,8 @@ Table 10: Treatment of Gastric Ulcer % of Patients Healed (All Patients Treated)
 
 |  | Omeprazole40 mg q.d.(n = 187) | Omeprazole20 mg q.d.(n = 200) | Ranitidine 150 mg b.i.d.(n = 199) |
 | --- | --- | --- | --- |
-| Week 4 | 78.1(p < 0.01) Omeprazole 40 mg versus ranitidine,(p < 0.01) Omeprazole 40 mg versus 20 mg | 63.5 | 56.3 |
-| Week 8 | 91.4, | 81.5 | 78.4 |
+| Week 4 | 78.1(p<0.01) Omeprazole 40 mg versus ranitidine(p<0.01) Omeprazole 40 mg versus 20 mg | 63.5 | 56.3 |
+| Week 8 | 91.4 | 81.5 | 78.4 |
 
 ## 14.3 Gastroesophageal Reflux Disease (GERD)
 
@@ -77,8 +77,8 @@ Table 11: % Successful Symptomatic OutcomeDefined as complete resolution of hear
 
 |  | Omeprazole20 mg a.m. | Omeprazole10 mg a.m. | Placeboa.m. |
 | --- | --- | --- | --- |
-| All patients | 46(p < 0.005) versus 10 mg,(p < 0.005) versus placebo(n = 205) | 31(n = 199) | 13(n = 105) |
-| Patients with confirmed GERD | 56,(n = 115) | 36(n = 109) | 14(n = 59) |
+| All patients | 46(p<0.005) versus 10 mg(p<0.005) versus placebo(n = 205) | 31(n = 199) | 13(n = 105) |
+| Patients with confirmed GERD | 56(n = 115) | 36(n = 109) | 14(n = 59) |
 
 Erosive Esophagitis - In a U.S. multicenter double-blind placebo controlled study of 40 mg or 20 mg of omeprazole delayed release capsules in patients with symptoms of GERD and endoscopically diagnosed erosive esophagitis of grade 2 or above, the percentage healing rates (per protocol) were as shown in Table 12.
 
@@ -121,7 +121,7 @@ In patients who initially had grades 3 or 4 erosive esophagitis, for maintenance
 ## 14.5 Reduction of Risk of Upper Gastrointestinal Bleeding in Critically Ill Patients
 
 A double-blind, multicenter, randomized, non-inferiority clinical trial was conducted to compare ZEGERID Oral Suspension 40 mg/1680 mg and I.V. cimetidine for the reduction of risk of upper gastrointestinal (GI) bleeding in critically ill patients (mean APACHE II score = 23.7).
-The primary endpoint was significant upper GI bleeding defined as bright red blood which did not clear after adjustment of the nasogastric tube and a 5 to 10 minute lavage, or persistent Gastroccult® positive coffee grounds for 8 consecutive hours which did not clear with 100 cc lavage.
+The primary endpoint was significant upper GI bleeding defined as bright red blood which did not clear after adjustment of the nasogastric tube and a 5 to 10 minute lavage, or persistent Gastroccult positive coffee grounds for 8 consecutive hours which did not clear with 100 cc lavage.
 ZEGERID Oral Suspension 40 mg/1680 mg (two doses administered 6 to 8 hours apart on the first day via orogastric or nasogastric tube, followed by 40 mg q.d. thereafter) was compared to continuous I.V. cimetidine (300 mg bolus, and 50 to 100 mg/hr continuously thereafter) for up to 14 days (mean = 6.8 days).
 A total of 359 patients were studied, age range 16 to 91 (mean = 56 yrs), 58.5% were males, and 64% were Caucasians.
 The results of the study showed that ZEGERID was non-inferior to I.V. cimetidine, 10/181 (5.5%) patients in the cimetidine group vs. 7/178 (3.9%) patients in the ZEGERID group experienced clinically significant upper GI bleeding.

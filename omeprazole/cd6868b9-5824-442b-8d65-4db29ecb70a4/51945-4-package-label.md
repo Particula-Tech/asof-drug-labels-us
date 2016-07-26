@@ -1,48 +1,28 @@
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL- 20 mg sachet
 
-TO OPEN: LOCATE TEAR SLIT.
-FOLD CORNER
+Zegerid®
 
-OF PACKET OVER TEAR SLIT.
-TEAR AT SLIT
+omeprazole/sodium bicarbonate
 
-OR OPEN WITH SCISSORS.
+Powder for Oral Suspension
 
-Rx only
+20 mg/1680 mg
 
 NDC 68012-052-30
 
-Zegerid®
+Contains 30 single
 
-omeprazole/sodium bicarbonate
-
-Powder for Oral Suspension
-
-20mg/1680mg
-
-SANTARUS, INC.®
-
-Salix
-
-PHARMACEUTICALS, INC.
-
-For more information call 1-800-508-0024.
-
-See back panel for directions for use.
-
-# Package/Label Display Panel- 40 mg sachet
-
-TO OPEN: LOCATE TEAR SLIT.
-FOLD CORNER
-
-OF PACKET OVER TEAR SLIT.
-TEAR AT SLIT
-
-OR OPEN WITH SCISSORS.
+20-mg dose packets
 
 Rx only
 
-NDC 68012-054-30
+Dispense with
+
+enclosed
+
+Medication guide
+
+# Package/Label Display Panel- 40 mg sachet
 
 Zegerid®
 
@@ -50,19 +30,25 @@ omeprazole/sodium bicarbonate
 
 Powder for Oral Suspension
 
+NDC 68012-054-30
+
+Contains 30 single
+
+40-mgdose packets
+
+Rx only
+
+Dispense with
+
+enclosed
+
+medication guide
+
 40mg/1680mg
 
-SANTARUS, INC.®
-
-Salix
-
-PHARMACEUTICALS, INC.
-
-For more information call 1-800-508-0024.
-
-See back panel for directions for use.
-
 # Package/Label Display Panel – 20 mg capsules
+
+Rx only
 
 NDC 68012-102-30
 
@@ -74,22 +60,18 @@ Capsules
 
 30 Capsules
 
-Rx only
-
 20mg/1100mg
 
 # Package/Label Display Panel – 40 mg capsules
 
 NDC 68012-104-30
 
-Zegerid®
+Rx only
 
-omeprazole/sodium bicarbonate
+Zegerid®omeprazole/sodium bicarbonate
 
 Capsules
 
 30 Capsules
-
-Rx only
 
 40mg/1100mg

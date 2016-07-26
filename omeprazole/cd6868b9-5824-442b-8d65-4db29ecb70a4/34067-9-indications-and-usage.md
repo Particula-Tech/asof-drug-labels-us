@@ -34,7 +34,7 @@ ZEGERID is indicated to maintain healing of erosive esophagitis.
 Controlled studies do not extend beyond 12 months.
 [See Clinical Studies (14.4)]
 
-## 1.5 Reduction of Risk of Upper Gastrointestinal Bleeding in Critically Ill Patients (40mg oral suspension only)
+## 1.5 Reduction of Risk of Upper Gastrointestinal Bleeding in Critically Ill Patients (40 mg oral suspension only)
 
 ZEGERID Powder for Oral Suspension 40 mg/1680 mg is indicated for the reduction of risk of upper GI bleeding in critically ill patients.
 [See Clinical Studies, Reduction of Risk of Upper Gastrointestinal Bleeding in Critically Ill Patients (14.5)]
