@@ -2,10 +2,10 @@
 
 The following serious adverse reactions are described below or elsewhere in the prescribing information:
 
-- Pancreatitis [see Warnings and Precautions (5.1)]
-- Heart Failure [see Warnings and Precautions (5.2)]
-- Hypersensitivity Reactions [see Warnings and Precautions (5.3)]
-- Hepatic Effects [see Warnings and Precautions (5.4)]
+- •Pancreatitis [see Warnings and Precautions (5.1)]
+- •Heart Failure [see Warnings and Precautions (5.2)]
+- •Hypersensitivity Reactions [see Warnings and Precautions (5.3)]
+- •Hepatic Effects [see Warnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trials Experience
 

@@ -14,7 +14,6 @@ If pancreatitis is suspected, alogliptin tablets should promptly be discontinued
 ## 5.2 Heart Failure
 
 In the EXAMINE trial which enrolled patients with type 2 diabetes and recent acute coronary syndrome, 106 (3.9%) of patients treated with alogliptin tablets and 89 (3.3%) of patients treated with placebo were hospitalized for congestive heart failure.
-
 Consider the risks and benefits of alogliptin tablets prior to initiating treatment in patients at risk for heart failure, such as those with a prior history of heart failure and a history of renal impairment, and observe these patients for signs and symptoms of heart failure during therapy.
 Patients should be advised of the characteristic symptoms of heart failure and should be instructed to immediately report such symptoms.
 If heart failure develops, evaluate and manage according to current standards of care and consider discontinuation of alogliptin tablets.

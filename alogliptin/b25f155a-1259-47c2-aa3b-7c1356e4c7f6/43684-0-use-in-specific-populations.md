@@ -2,23 +2,39 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category B
+Risk Summary
 
-No adequate or well-controlled studies in pregnant women have been conducted with alogliptin tablets.
-Based on animal data, alogliptin tablets are not predicted to increase the risk of developmental abnormalities.
-Because animal reproduction studies are not always predictive of human risk and exposure, alogliptin tablets, like other antidiabetic medications, should be used during pregnancy only if clearly needed.
+Limited data with alogliptin in pregnant women are not sufficient to determine a drug-associated risk for major birth defects or miscarriage.
+There are risks to the mother and fetus associated with poorly controlled diabetes in pregnancy [see Clinical Considerations].
 
-Alogliptin administered to pregnant rabbits and rats during the period of organogenesis was not teratogenic at doses of up to 200 mg/kg and 500 mg/kg, or 149 times and 180 times, respectively, the clinical dose based on plasma drug exposure (AUC).
+No adverse developmental effects were observed when alogliptin was administered to pregnant rats and rabbits during organogenesis at exposures 180- and 149-times the 25 mg clinical dose, respectively, based on plasma drug exposure (AUC)[see Data].
 
-Doses of alogliptin up to 250 mg/kg (approximately 95 times clinical exposure based on AUC) given to pregnant rats from gestation Day 6 to lactation Day 20 did not harm the developing embryo or adversely affect growth and development of offspring.
+The estimated background risk of major birth defects is 6-10% in women with pre-gestational diabetes with a HbA1c >7 and has been reported to be as high as 20-25% in women with HbA1c >10.
+The estimated background risk of miscarriage for the indicated population is unknown.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
-Placental transfer of alogliptin into the fetus was observed following oral dosing to pregnant rats.
+Clinical Considerations
 
-## 8.3 Nursing Mothers
+Disease-associated maternal and/or embryo/fetal risk
 
-Alogliptin is secreted in the milk of lactating rats in a 2:1 ratio to plasma.
-It is not known whether alogliptin is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when alogliptin tablets are administered to a nursing woman.
+Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, still birth and delivery complications.
+Poorly controlled diabetes increases the fetal risk for major birth defects, still birth, and macrosomia related morbidity.
+
+Data
+
+Animal Data
+
+Alogliptin administered to pregnant rabbits and rats during the period of organogenesis did not cause adverse developmental effects at doses of up to 200 mg/kg and 500 mg/kg, or 149 times and 180 times, the 25 mg clinical dose, respectively, based on plasma drug exposure (AUC).Placental transfer of alogliptin into the fetus was observed following oral dosing to pregnant rats.
+
+No adverse developmental outcomes were observed in offspring when alogliptin was administered to pregnant rats during gestation and lactation at doses up to 250 mg/kg (~ 95 times the 25 mg clinical dose, based on AUC).
+
+## 8.2 Lactation
+
+Risk Summary
+
+There is no information regarding the presence of alogliptin in human milk, the effects on the breastfed infant, or the effects on milk production.
+Alogliptin is present in rat milk: however, due to species specific differences in lactation physiology, animal lactation data may not reliably predict levels in human milk.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for alogliptin tablets and any potential adverse effects on the breastfed infant from alogliptin tablets or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
