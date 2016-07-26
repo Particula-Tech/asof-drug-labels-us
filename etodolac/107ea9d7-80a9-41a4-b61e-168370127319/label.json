@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA076174"
+  ],
+  "inn": "etodolac",
+  "labeler": "NORTHSTAR RX LLC",
+  "package_ndcs": [
+    "16714-497-01",
+    "16714-497-02",
+    "16714-498-01",
+    "16714-498-02",
+    "16714-499-01",
+    "16714-499-02"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "etodolac",
+      "name": "Etodolac"
+    }
+  ],
+  "setid": "107ea9d7-80a9-41a4-b61e-168370127319",
+  "source": "dailymed"
+}
