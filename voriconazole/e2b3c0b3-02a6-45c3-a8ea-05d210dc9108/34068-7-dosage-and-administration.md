@@ -37,7 +37,7 @@ Table 1 Recommended Dosing Regimen
 
 a Increase dose when voriconazole is co-administered with phenytoin or efavirenz (7); Decrease dose in patients with hepatic impairment (2.7)
 
-bIn healthy volunteer studies, the 200 mg oral q12h dose provided an exposure (AUCτ) similar to a 3 mg/kg IV q12h dose; the 300 mg oral q12h dose provided an exposure (AUCτ) similar to a 4 mg/kg IV q12h dose [see CLINICAL PHARMACOLOGY (12)].
+b In healthy volunteer studies, the 200 mg oral q12h dose provided an exposure (AUCτ) similar to a 3 mg/kg IV q12h dose; the 300 mg oral q12h dose provided an exposure (AUCτ) similar to a 4 mg/kg IV q12h dose [see CLINICAL PHARMACOLOGY (12)].
 
 c Adult patients who weigh less than 40 kg should receive half of the oral maintenance dose.
 

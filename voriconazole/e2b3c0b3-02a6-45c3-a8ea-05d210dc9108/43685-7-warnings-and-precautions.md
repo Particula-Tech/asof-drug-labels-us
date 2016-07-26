@@ -2,8 +2,8 @@
 
 ## 5.1 Drug Interactions
 
-See Table 6 for a listing of drugs that may significantly alter voriconazole concentrations.
-Also, see Table 7 for a listing of drugs that may interact with voriconazole resulting in altered pharmacokinetics or pharmacodynamics of the other drug [see CONTRAINDICATIONS (4), and DRUG INTERACTIONS (7)].
+See Table 7 for a listing of drugs that may significantly alter voriconazole concentrations.
+Also, see Table 8 for a listing of drugs that may interact with voriconazole resulting in altered pharmacokinetics or pharmacodynamics of the other drug [see CONTRAINDICATIONS (4), and DRUG INTERACTIONS (7)].
 
 ## 5.2 Hepatic Toxicity
 

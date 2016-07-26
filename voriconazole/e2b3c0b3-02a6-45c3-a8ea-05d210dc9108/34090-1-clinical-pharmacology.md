@@ -15,9 +15,9 @@ During oral administration of 200 mg or 300 mg twice daily for 14 days in patien
 The pharmacokinetics of voriconazole are non-linear due to saturation of its metabolism.
 The interindividual variability of voriconazole pharmacokinetics is high.
 Greater than proportional increase in exposure is observed with increasing dose.
-It is estimated that, on average, increasing the oral dose from 200 mg q12h to 300 mg q12h leads to an approximately 2.5-fold increase in exposure (AUCτ), similarly, increasing the intravenous dose from 3 mg/kg q12h to 4 mg/kg q12h produces an approximately 2.5-fold increase in exposure (Table 8).
+It is estimated that, on average, increasing the oral dose from 200 mg q12h to 300 mg q12h leads to an approximately 2.5-fold increase in exposure (AUCτ), similarly, increasing the intravenous dose from 3 mg/kg q12h to 4 mg/kg q12h produces an approximately 2.5-fold increase in exposure (Table 9).
 
-Table 8: Geometric Mean (%CV) Plasma Voriconazole Pharmacokinetic Parameters in Adults Receiving Different Dosing Regimens
+Table 9: Geometric Mean (%CV) Plasma Voriconazole Pharmacokinetic Parameters in Adults Receiving Different Dosing Regimens
 
 |  | 6 mg/kg IV (loading dose) | 3 mg/kg IV q12h | 4 mg/kg IV q12H | 400 mg Oral (loading dose) | 200 mg Oral q12h | 300 mg Oral q12h |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -379,7 +379,7 @@ Voriconazole at steady state (400 mg PO q12h for 1 day, then 200 mg q12h for 8 d
 The pharmacokinetics of adjusted doses of voriconazole and efavirenz were studied in healthy male subjects following administration of voriconazole (400 mg PO q12h on Days 2 to 7) with efavirenz (300 mg PO q24h on Days 1 to 7), relative to steady-state administration of voriconazole (400 mg for 1 day, then 200 mg PO q12h for 2 days) or efavirenz (600 mg q24h for 9 days).
 Coadministration of voriconazole 400 mg q12h with efavirenz 300 mg q24h, decreased voriconazole AUCτ by 7% (90% CI: -23%, 13%) and increased Cmax by 23% (90% CI: -1%, 53%); efavirenz AUCτ was increased by 17% (90% CI: 6%, 29%) and Cmax was equivalent.
 
-Coadmistration of standard doses of voriconazole and efavirenz (400 mg q24h or higher) is contraindicated.
+Coadministration of standard doses of voriconazole and efavirenz (400 mg q24h or higher) is contraindicated.
 
 Voriconazole may be coadministered with efavirenz if the voriconazole maintenance dose is increased to 400 mg q12h and the efavirenz dose is decreased to 300 mg q24h.
 When treatment with voriconazole is stopped, the initial dosage of efavirenz should be restored [see DOSAGE AND ADMINISTRATION (2.4), CONTRAINDICATIONS (4) and DRUG INTERACTIONS (7)].
@@ -459,7 +459,7 @@ Voriconazole has been shown to be active against most strains of the following m
 Aspergillus fumigatus Aspergillus flavus Aspergillus niger Aspergillus terreus Candida albicans Candida glabrata (In clinical studies, the voriconazole MIC90 was 4 mcg/mL)* Candida krusei Candida parapsilosis Candida tropicalis Fusarium spp. including Fusarium solani Scedosporium apiospermum
 
 *In clinical studies, voriconazole MIC90 for C. glabrata baseline isolates was 4 mcg/mL; 13/50 (26%) C. glabrata baseline isolates were resistant (MIC ≥4 mcg/mL) to voriconazole.
-However, based on 1,054 isolates tested in surveillance studies the MIC90 was 1 mcg/mL (see Table 11).
+However, based on 1,054 isolates tested in surveillance studies the MIC90 was 1 mcg/mL (see Table 12).
 
 The following data are available, but their clinical significance is unknown.
 
@@ -482,15 +482,15 @@ Broth Microdilution Techniques
 Quantitative methods are used to determine antifungal minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of Candida spp. to antifungal agents.
 MICs should be determined using a standardized procedure at 48 hours.1 Standardized procedures are based on a microdilution method (broth) with standardized inoculum concentrations and standardized concentrations of voriconazole powder.
-The MIC values should be interpreted according to the criteria provided in Table 9.
+The MIC values should be interpreted according to the criteria provided in Table 10.
 
 Diffusion Techniques
 
 Qualitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of Candida spp. to an antifungal agent.
 One such standardized procedure requires the use of standardized inoculum concentrations.2 This procedure uses paper disks impregnated with 1 mcg of voriconazole to test the susceptibility of yeasts to voriconazole at 24 hours.
-Disk diffusion interpretive criteria are also provided in Table 9.
+Disk diffusion interpretive criteria are also provided in Table 10.
 
-Table 9 Susceptibility Interpretive Criteria for Voriconazole1,2
+Table 10 Susceptibility Interpretive Criteria for Voriconazole1,2
 
 |  | Broth Microdilution at 48 hours (MIC in mcg/mL) |  |  | Disk Diffusion at 24 hours (Zone diameters in mm) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -506,11 +506,11 @@ A report of Resistant (R) indicates that the antimicrobial is not likely to inhi
 Quality Control
 
 Standardized susceptibility test procedures require the use of quality control organisms to ensure the accuracy of the technical aspects of the test procedures.
-Standard voriconazole powder and 1 mcg disks should provide the following range of values noted in Table 10.
+Standard voriconazole powder and 1 mcg disks should provide the following range of values noted in Table 11.
 
 NOTE: Quality control microorganisms are specific strains of organisms with intrinsic biological properties relating to resistance mechanisms and their genetic expression within fungi; the specific strains used for microbiological control are not clinically significant.
 
-Table 10 Acceptable Quality Control Ranges for Voriconazole to be used in Validation of Susceptibility Test Results
+Table 11 Acceptable Quality Control Ranges for Voriconazole to be used in Validation of Susceptibility Test Results
 
 | QC Strain | Broth Microdilution (MIC in mcg/mL) at 48-hour | Disk Diffusion (Zone diameter in mm) at 24-hour |
 | --- | --- | --- |

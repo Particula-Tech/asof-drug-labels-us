@@ -178,4 +178,4 @@ Manufactured in India by Sandoz Private Ltd.
 for Sandoz Inc., Princeton, NJ 08540
 
 Rev.
-February 2015
+January 2016

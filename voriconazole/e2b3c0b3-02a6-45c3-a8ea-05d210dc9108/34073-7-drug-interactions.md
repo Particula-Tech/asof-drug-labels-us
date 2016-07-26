@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-Table 6.
+Table 7.
 Effect of Other Drugs on Voriconazole Pharmacokinetics [see Clinical Pharmacology (12.3)]
 
 | Drug/Drug Class (Mechanism of Interaction by the Drug) | Voriconazole Plasma Exposure (Cmax and AUCτ after 200 mg q12h) | Recommendations for Voriconazole Dosage Adjustment/Comments |
@@ -21,14 +21,14 @@ Effect of Other Drugs on Voriconazole Pharmacokinetics [see Clinical Pharmacolog
 
 *Results based on in vivo clinical studies generally following repeat oral dosing with 200 mg q12h voriconazole to healthy subjects **Results based on in vivo clinical study following repeat oral dosing with 400 mg q12h for 1 day, then 200 mg q12h for at least 2 days voriconazole to healthy subjects *** Non-Nucleoside Reverse Transcriptase Inhibitors
 
-Table 7.
+Table 8.
 Effect of Voriconazole on Pharmacokinetics of Other Drugs [see CLINICAL PHARMACOLOGY (12.3)]
 
 | Drug/Drug Class (Mechanism of Interaction by Voriconazole) | Drug Plasma Exposure (Cmax and AUCτ) | Recommendations for Drug Dosage Adjustment/Comments |
 | --- | --- | --- |
 | Sirolimus* (CYP3A4 Inhibition) | Significantly Increased | Contraindicated |
 | Rifabutin* (CYP3A4 Inhibition) | Significantly Increased | Contraindicated |
-| Efavirenz (400 mg q 24h)** (CYP3A4 Inhibition) Efavirenz (300 mg q 24h) **(CYP3A4 Inhibition) | Significantly Increased Slight decrease in AUCt | ContraindicatedWhen voriconazole is coadministered with efavirenz, voriconazole oral maintenance dose should be increased to 400 mg q12h and efavirenz should be decreased to 300 mg q24h |
+| Efavirenz (400 mg q 24h)** (CYP3A4 Inhibition) Efavirenz (300 mg q 24h) **(CYP3A4 Inhibition) | Significantly Increased Slight Increased in AUCt | ContraindicatedWhen voriconazole is coadministered with efavirenz, voriconazole oral maintenance dose should be increased to 400 mg q12h and efavirenz should be decreased to 300 mg q24h |
 | High-dose Ritonavir (400 mg q12h)**(CYP3A4 Inhibition)Low-dose Ritonavir (100 mg q12h)** | No Significant Effect of Voriconazole onRitonavir Cmax or AUCτSlight Decrease in Ritonavir Cmax and AUCτ | Contraindicated because of significant reduction of voriconazole Cmax and AUCτ |
 | Coadministration of voriconazole and low-dose ritonavir (100 mg q12h) should be avoided (due to the reduction in voriconazole Cmax and AUCτ) unless an assessment of the benefit/risk to the patient justifies the use of voriconazole |  |  |
 | Terfenadine, Astemizole, Cisapride, Pimozide, Quinidine (CYP3A4 Inhibition) | Not Studied In Vivo or In Vitro, but Drug Plasma Exposure Likely to be Increased | Contraindicated because of potential for QT prolongation and rare occurrence of torsade de pointes |
