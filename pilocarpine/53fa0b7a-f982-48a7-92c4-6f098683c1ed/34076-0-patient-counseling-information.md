@@ -26,27 +26,4 @@ If more than one topical ophthalmic medication is being used, the medicines must
 
 To limit exposure to pilocarpine to the eye alone, close eyes gently and apply pressure with finger to the corner of eye by the nose for 2 minutes after instillation of Pilocarpine Hydrochloride Ophthalmic Solution.
 
-Rx Only
-
-Printed in USA
-
-*DROP-TAINER is a registered trademark of Alcon Research, Ltd.
-
-Dist.
-By:
-
-Falcon Pharmaceuticals, Ltd.
-
-Fort Worth, Texas 76134 USA
-
-Mfd. by:
-
-Alcon Laboratories, Inc.
-
-6201 South Freeway
-
-Fort Worth, Texas 76134 USA
-
-1-800-757-9195
-
-9006010-1010
+Rx Only Printed in USA *DROP-TAINER is a registered trademark of Alcon Research, Ltd. Manufactured by Alcon Laboratories, Inc. Fort Worth, Texas 76134 for Sandoz Inc. Princeton, NJ 08540 9007060-1011
