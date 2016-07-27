@@ -89,9 +89,9 @@ The elevations were transient and did not lead to discontinuation in any patient
 
 ## 6.2 Postmarketing Experience
 
-In addition to the adverse reactions reported during clinical trials and listed above, adverse events have also been identified during post-approval use of levocetirizine dihydrochloride.
-Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-Adverse events of hypersensitivity and anaphylaxis, increased appetite, angioedema, fixed drug eruption, pruritus, rash and urticaria, convulsion, paraesthesia, dizziness, tremor, dysgeusia, vertigo, movement disorders (including dystonia and oculogyric crisis), aggression and agitation, hallucinations, depression, insomnia, suicidal ideation, visual disturbances, blurred vision, palpitations, tachycardia, dyspnea, nausea, vomiting, hepatitis, dysuria, urinary retention, myalgia, and edema have been reported.
+In addition to the adverse reactions reported during clinical trials and listed above, adverse reactions have also been identified during post-approval use of levocetirizine dihydrochloride.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+Adverse reactions of hypersensitivity and anaphylaxis, increased appetite, angioedema, fixed drug eruption, pruritus, rash and urticaria, convulsion, paraesthesia, dizziness, tremor, dysgeusia, vertigo, movement disorders (including dystonia and oculogyric crisis), aggression and agitation, hallucinations, depression, insomnia, suicidal ideation, visual disturbances, blurred vision, palpitations, tachycardia, dyspnea, nausea, vomiting, hepatitis, dysuria, urinary retention, myalgia, arthralgia, and edema have been reported.
 
-Besides these events reported under treatment with levocetirizine dihydrochloride, other potentially severe adverse events have been reported from the postmarketing experience with cetirizine.
+Besides these reactions reported under treatment with levocetirizine dihydrochloride, other potentially severe adverse events have been reported from the postmarketing experience with cetirizine.
 Since levocetirizine is the principal pharmacologically active component of cetirizine, one should take into account the fact that the following adverse events could also potentially occur under treatment with levocetirizine dihydrochloride: orofacial dyskinesia, severe hypotension, cholestasis, glomerulonephritis, still birth, tic, myoclonus, and extrapyramidal symptoms.

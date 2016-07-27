@@ -92,17 +92,17 @@ The significant improvement in the instantaneous pruritus severity score over pl
 
 Table 6: Mean Reflective Pruritus Severity Score in Chronic Idiopathic Urticaria Trials
 
-| Treatment | N | Baseline | On Treatment Adjusted Mean | Difference from Placebo |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Estimate | 95% CI | p-value |  |  |  |  |
-| Dose-Ranging Trial – Reflective Pruritus Severity Score |  |  |  |  |  |  |
-| Levocetirizine Dihydrochloride 2.5 mg | 69 | 2.08 | 1.02 | 0.82 | (0.58, 1.06) | < 0.001 |
-| Levocetirizine Dihydrochloride 5 mg | 62 | 2.07 | 0.92 | 0.91 | (0.66, 1.16) | < 0.001 |
-| Levocetirizine Dihydrochloride 10 mg | 55 | 2.04 | 0.73 | 1.11 | (0.85, 1.37) | < 0.001 |
-| Placebo | 60 | 2.25 | 1.84 |  |  |  |
-| Chronic Idiopathic Urticaria Trial – Reflective Pruritus Severity Score |  |  |  |  |  |  |
-| Levocetirizine Dihydrochloride 5 mg | 80 | 2.07 | 0.94 | 0.62 | (0.38, 0.86) | < 0.001 |
-| Placebo | 82 | 2.06 | 1.56 |  |  |  |
+| Treatment | N | Baseline | On Treatment Adjusted Mean | Difference from Placebo |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Estimate | 95% CI |  | p-value |  |  |  |  |
+| Dose Ranging Trial – Reflective pruritus severity score |  |  |  |  |  |  |  |
+| Levocetirizine Dihydrochloride 2.5 mg | 69 | 2.08 | 1.02 | 0.82 | (0.58, 1.06) | < 0.001 |  |
+| Levocetirizine Dihydrochloride 5 mg | 62 | 2.07 | 0.92 | 0.91 | (0.66, 1.16) | < 0.001 |  |
+| Levocetirizine Dihydrochloride 10 mg | 55 | 2.04 | 0.73 | 1.11 | (0.85, 1.37) | < 0.001 |  |
+| Placebo | 60 | 2.25 | 1.84 |  |  |  |  |
+| Chronic Idiopathic Urticaria Trial – Reflective pruritus severity score |  |  |  |  |  |  |  |
+| Levocetirizine Dihydrochloride 5 mg | 80 | 2.07 | 0.94 | 0.62 | (0.38, 0.86) | < 0.001 |  |
+| Placebo | 82 | 2.06 | 1.56 |  |  |  |  |
 
 Pediatric Patients
 

@@ -1,31 +1,22 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-## 17.1 Somnolence
+Somnolence
 
-Caution patients against engaging in hazardous occupations requiring complete mental alertness, and motor coordination such as operating machinery or driving a motor vehicle after ingestion of levocetirizine dihydrochloride.
+Caution patients against engaging in hazardous occupations requiring complete mental alertness, and motor coordination such as operating machinery or driving a motor vehicle after ingestion of levocetirizine dihydrochloride tablets.
 
-## 17.2 Concomitant Use of Alcohol and Other Central Nervous System Depressants
+Concomitant Use of Alcohol and other Central Nervous System Depressants
 
-Instruct patients to avoid concurrent use of levocetirizine dihydrochloride with alcohol or other central nervous system depressants because additional reduction in mental alertness may occur.
+Instruct patients to avoid concurrent use of levocetirizine dihydrochloride tablets with alcohol or other central nervous system depressants because additional reduction in mental alertness may occur.
 
-## 17.3 Dosing of Levocetirizine Dihydrochloride
+Dosing of Levocetirizine Dihydrochloride Tablets
 
 Do not exceed the recommended daily dose in adults and adolescents 12 years of age and older of 5 mg once daily in the evening.
 In children 6 to 11 years of age the recommended dose is 2.5 mg once daily in the evening.
-Advise patients to not ingest more than the recommended dose of levocetirizine dihydrochloride because of the increased risk of somnolence at higher doses.
+In children 6 months to 5 years of age, the recommended dose is 1.25 mg once daily in the evening.
+Advise patients to not ingest more than the recommended dose of levocetirizine dihydrochloride tablets because of the increased risk of somnolence at higher doses.
 
-Manufactured In Israel By:
-
-TEVA PHARMACEUTICAL IND.
-LTD.
-
-Jerusalem, 9777402, Israel
-
-Manufactured For:
-
-TEVA PHARMACEUTICALS USA, INC.
-
-North Wales, PA 19454
+Manufactured In Israel By: Teva Pharmaceutical Ind.
+Ltd. Jerusalem, 9777402, Israel Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-I 12/2015
+K 6/2016
