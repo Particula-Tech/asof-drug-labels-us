@@ -1,10 +1,11 @@
 Rx only
 
-Must be diluted before IV infusion
+Must be diluted before intravenous infusion.
 
-| WARNINGS Etoposide should be administered under the supervision of a qualified physician experienced in the use of cancer chemotherapeutic agents. Severe myelo-suppression with resulting infection or bleeding may occur. |
-| --- |
+Lake Zurich, IL 60047
 
-45636E
+www.fresenius-kabi.us
 
-Revised: January 2008
+45636F
+
+Revised: February 2016

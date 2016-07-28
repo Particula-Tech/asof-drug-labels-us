@@ -1,4 +1,4 @@
-# INDICATIONS AND USAGE
+# INDICATIONS AND USAGE:
 
 Etoposide Injection, USP is indicated in the management of the following neoplasms:
 
@@ -6,6 +6,8 @@ Etoposide Injection, USP is indicated in the management of the following neoplas
 
 Etoposide Injection, USP in combination therapy with other approved chemotherapeutic agents in patients with refractory testicular tumors who have already received appropriate surgical, chemotherapeutic, and radiotherapeutic therapy.
 
+Adequate data on the use of etoposide capsules in the treatment of testicular cancer are not available.
+
 ## Small Cell Lung Cancer
 
-Etoposide Injection, USP in combination with other approved chemotherapeutic agents as first line treatment in patients with small cell lung cancer.
+Etoposide Injection, USP and/or capsules in combination with other approved chemotherapeutic agents as first line treatment in patients with small cell lung cancer.

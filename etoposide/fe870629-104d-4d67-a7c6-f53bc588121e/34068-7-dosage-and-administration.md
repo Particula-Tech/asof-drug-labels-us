@@ -1,6 +1,8 @@
-# DOSAGE AND ADMINISTRATION
+# DOSAGE AND ADMINISTRATION:
 
 Note: Plastic devices made of acrylic or ABS (a polymer composed of acrylonitrile, butadiene, and styrene) have been reported to crack and leak when used with undiluted Etoposide Injection, USP.
+
+Etoposide Injection, USP
 
 The usual dose of Etoposide Injection, USP in testicular cancer in combination with other approved chemotherapeutic agents ranges from 50 to 100 mg/m2/day on days 1 through 5 to 100 mg/m2/day on days 1, 3, and 5.
 
@@ -9,6 +11,10 @@ In small cell lung cancer, the Etoposide Injection, USP dose in combination with
 For recommended dosing adjustments in patients with renal impairment (see PRECAUTIONS).
 
 Chemotherapy courses are repeated at 3- to 4-week intervals after adequate recovery from any toxicity.
+
+Etoposide Capsules
+
+In small cell lung cancer, the recommended dose of etoposide capsules is two times the IV dose rounded to the nearest 50 mg.
 
 The dosage, by either route, should be modified to take into account the myelosuppressive effects of other drugs in the combination or the effects of prior x-ray therapy or chemotherapy which may have compromised bone marrow reserve.
 
@@ -32,8 +38,7 @@ Parenteral drug products should be inspected visually for particulate matter and
 ## Stability
 
 Unopened vials of Etoposide Injection, USP are stable for 24 months at room temperature (25°C).
-Vials diluted as recommended to a concentration of 0.2 or 0.4 mg/mL are stable for 96 and 24 hours, respectively, at room temperature (25°C) under normal room fluorescent light in both glass and plastic containers.
+Vials diluted as recommended to a concentration of 0.2 to 0.4 mg/mL are stable for 96 and 24 hours, respectively, at room temperature (25°C) under normal room fluorescent light in both glass and plastic containers.
 
 Procedures for proper handling and disposal of anticancer drugs should be considered.
-Several guidelines on this subject have been published4-10.
-There is no general agreement that all of the procedures recommended in the guidelines are necessary or appropriate.
+Several guidelines on this subject have been published.1-8 There is no general agreement that all of the procedures recommended in the guidelines are necessary or appropriate.

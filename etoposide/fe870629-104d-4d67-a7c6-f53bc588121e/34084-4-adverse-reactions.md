@@ -1,4 +1,4 @@
-# ADVERSE REACTIONS
+# ADVERSE REACTIONS:
 
 The following data on adverse reactions are based on both oral and intravenous administration of etoposide as a single agent, using several different dose schedules for treatment of a wide variety of malignancies.
 
@@ -11,7 +11,7 @@ Death associated with myelosuppression has been reported.
 
 The occurrence of acute leukemia with or without a preleukemic phase has been reported rarely in patients treated with etoposide in association with other antineoplastic agents (see WARNINGS).
 
-## Gastrointestingal Toxicity
+## Gastrointestinal Toxicity
 
 Nausea and vomiting are the major gastrointestinal toxicities.
 The severity of such nausea and vomiting is generally mild to moderate with treatment discontinuation required in 1% of patients.
@@ -24,19 +24,19 @@ Gastrointestinal toxicities are slightly more frequent after oral administration
 Transient hypotension following rapid intravenous administration has been reported in 1% to 2% of patients.
 It has not been associated with cardiac toxicity or electrocardiographic changes.
 No delayed hypotension has been noted.
-To prevent this rare occurrence, it is recommended that etoposide be administered by slow intravenous infusion over a 30 to 60 minute period.
+To prevent this rare occurrence, it is recommended that etoposide be administered by slow intravenous infusion over a 30- to 60‑minute period.
 If hypotension occurs, it usually responds to cessation of the infusion and administration of fluids or other supportive therapy as appropriate.
 When restarting the infusion, a slower administration rate should be used.
 
 ## Allergic Reactions
 
-Anaphylactic-like reactions characterized by chills, fever, tachycardia, bronchospasm, dyspnea and/or hypotension have been reported to occur in 0.7% to 2% of patients receiving intravenous etoposide and in less than 1% of the patients treated with the oral capsules.
+Anaphylactic-like reactions characterized by chills, fever, tachycardia, bronchospasm, dyspnea, and/or hypotension have been reported to occur in 0.7% to 2% of patients receiving intravenous etoposide and in less than 1% of the patients treated with the oral capsules.
 These reactions have usually responded promptly to the cessation of the infusion and administration of pressor agents, corticosteroids, antihistamines, or volume expanders as appropriate; however, the reactions can be fatal.
 Hypertension and/or flushing have also been reported.
 Blood pressure usually normalizes within a few hours after cessation of the infusion.
 Anaphylactic-like reactions have occurred during the initial infusion of etoposide.
 
-Facial/tongue swelling, coughing, diaphoresis, cyanosis, tightness in throat, laryngospasm, back pain and/or loss of consciousness have sometimes occurred in association with the above reactions.
+Facial/tongue swelling, coughing, diaphoresis, cyanosis, tightness in throat, laryngospasm, back pain, and/or loss of consciousness have sometimes occurred in association with the above reactions.
 In addition, an apparent hypersensitivity-associated apnea has been reported rarely.
 
 Rash, urticaria, and/or pruritus have infrequently been reported at recommended doses.
@@ -48,7 +48,7 @@ Reversible alopecia, sometimes progressing to total baldness, was observed in up
 
 ## Other Toxicities
 
-The following adverse reactions have been infrequently reported: abdominal pain, aftertaste, constipation, dysphagia, asthenia, fatigue, malaise, somnolence, transient cortical blindness, optic neuritis, interstitial pneumonitis/pulmonary fibrosis, fever, seizure, (occasionally associated with allergic reactions), Stevens-Johnson syndrome, and toxic epidermal necrolysis, pigmentation, and a single report of radiation recall dermatitis.
+The following adverse reactions have been infrequently reported: abdominal pain, aftertaste, constipation, dysphagia, asthenia, fatigue, malaise, somnolence, transient cortical blindness, optic neuritis, interstitial pneumonitis/pulmonary fibrosis, fever, seizure (occasionally associated with allergic reactions), Stevens-Johnson syndrome, and toxic epidermal necrolysis, pigmentation, and a single report of radiation recall dermatitis.
 
 Hepatic toxicity, generally in patients receiving higher doses of the drug than those recommended, has been reported with etoposide.
 Metabolic acidosis has also been reported in patients receiving higher doses.

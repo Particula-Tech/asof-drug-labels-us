@@ -1,4 +1,4 @@
-# CLINICAL PHARMACOLOGY
+# CLINICAL PHARMACOLOGY:
 
 Etoposide has been shown to cause metaphase arrest in chick fibroblasts.
 Its main effect, however, appears to be at the G2 portion of the cell cycle in mammalian cells.
@@ -21,28 +21,36 @@ Although it is detectable in CSF and intracerebral tumors, the concentrations ar
 Etoposide concentrations are higher in normal lung than in lung metastases and are similar in primary tumors and normal tissues of the myometrium.
 In vitro, etoposide is highly protein bound (97%) to human plasma proteins.
 An inverse relationship between plasma albumin levels and etoposide renal clearance is found in children.
-In a study determining the effect of other therapeutic agents on the in vitro binding of carbon-14 labeled etoposide to human serum proteins, only phenylbutazone, sodium salicylate, and aspirin displaced protein-bound etoposide at concentrations achieved in vivo.1
+In a study determining the effect of other therapeutic agents on the in vitro binding of carbon-14 labeled etoposide to human serum proteins, only phenylbutazone, sodium salicylate, and aspirin displaced protein-bound etoposide at concentrations achieved in vivo.
 
 Etoposide binding ratio correlates directly with serum albumin in patients with cancer and in normal volunteers.
-The unbound fraction of etoposide significantly correlated with bilirubin in a population of cancer patients.2 Data have suggested a significant inverse correlation between serum albumin concentration and free fraction of etoposide (see PRECAUTIONS).
+The unbound fraction of etoposide significantly correlated with bilirubin in a population of cancer patients.
+Data have suggested a significant inverse correlation between serum albumin concentration and free fraction of etoposide (see PRECAUTIONS).
 
-After intravenous administration of 3H-etoposide (70 to 290 mg/m2), mean recoveries of radioactivity in the urine range from 42 to 67%, and fecal recoveries range from 0 to 16% of the dose.
-Less than 50% of an intravenous dose is excreted in the urine as etoposide with mean recoveries of 8 to 35% within 24 hours.
+After intravenous administration of 14C-etoposide (100 to 124 mg/m2), mean recovery of radioactivity in the urine was 56% of the dose at 120 hours, 45% of which was excreted as etoposide; fecal recovery of radioactivity was 44% of the dose at 120 hours.
 
 In children, approximately 55% of the dose is excreted in the urine as etoposide in 24 hours.
 The mean renal clearance of etoposide is 7 to 10 mL/min/m2 or about 35% of the total body clearance over a dose range of 80 to 600 mg/m2.
 Etoposide, therefore, is cleared by both renal and nonrenal processes, i.e., metabolism and biliary excretion.
 The effect of renal disease on plasma etoposide clearance is not known.
 
-Biliary excretion appears to be a minor route of etoposide elimination.
-Only 6% or less of an intravenous dose is recovered in the bile as etoposide.
-Metabolism accounts for most of the nonrenal clearance of etoposide.
-The major urinary metabolite of etoposide in adults and children is the hydroxy acid [4’-demethylepipodophyllic acid-9-(4,6-0-(R)-ethylidene-ß-D-glucopyranoside)], formed by opening of the lactone ring.
+Biliary excretion of unchanged drug and/or metabolites is an important route of etoposide elimination as fecal recovery of radioactivity is 44% of the intravenous dose.
+The hydroxy acid metabolite [4’-demethylepipodophyllic acid-9-(4,6-O-(R)-ethylidene-β-D-glucopyranoside)], formed by opening of the lactone ring, is found in the urine of adults and children.
 It is also present in human plasma, presumably as the trans isomer.
-Glucuronide and/or sulfate conjugates of etoposide are excreted in human urine and represent 5 to 22% of the dose.
+Glucuronide and/or sulfate conjugates of etoposide are also excreted in human urine.
+Only 8% or less of an intravenous dose is excreted in the urine as radiolabeled metabolites of 14C-etoposide.
 In addition, O-demethylation of the dimethoxyphenol ring occurs through the CYP450 3A4 isoenzyme pathway to produce the corresponding catechol.
 
-After intravenous infusion, the Cmax and AUC values exhibit marked intra- and inter-subject variability.
+After either intravenous infusion or oral capsule administration, the Cmax and AUC values exhibit marked intra- and inter-subject variability.
+This results in variability in the estimates of the absolute oral bioavailability of etoposide oral capsules.
+
+Cmax and AUC values for orally administered etoposide capsules consistently fall in the same range as the Cmax and AUC values for an intravenous dose of one-half the size of the oral dose.
+The overall mean value of oral capsule bioavailability is approximately 50% (range 25 to 75%).
+The bioavailability of etoposide capsules appears to be linear up to a dose of at least 250 mg/m2.
+
+There is no evidence of a first-pass effect for etoposide.
+For example, no correlation exists between the absolute oral bioavailability of etoposide capsules and nonrenal clearance.
+No evidence exists for any other differences in etoposide metabolism and excretion after administration of oral capsules as compared to intravenous infusion.
 
 In adults, the total body clearance of etoposide is correlated with creatinine clearance, serum albumin concentration, and nonrenal clearance.
 Patients with impaired renal function receiving etoposide have exhibited reduced total body clearance, increased AUC and a lower volume of distribution at steady state (see PRECAUTIONS).
