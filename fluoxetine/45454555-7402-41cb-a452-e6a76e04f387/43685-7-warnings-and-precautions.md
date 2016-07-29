@@ -46,7 +46,10 @@ Families and caregivers of patients being treated with antidepressants for Major
 Such monitoring should include daily observation by families and caregivers.
 Prescriptions for fluoxetine should be written for the smallest quantity of capsules consistent with good patient management, in order to reduce the risk of overdose.
 
-It should be noted that fluoxetine is approved in the pediatric population for Major Depressive Disorder and Obsessive Compulsive Disorder; and fluoxetine in combination with olanzapine with for the acute treatment of depressive episodes associated with Bipolar I Disorder.
+It should be noted that fluoxetine is approved in the pediatric population for Major Depressive Disorder and Obsessive Compulsive Disorder.
+
+Information for pediatric patients (10 to 17 years) is approved for Eli Lilly and Company’s Fluoxetine Capsules.
+However due to Eli Lilly and Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 5.2 Serotonin Syndrome
 
