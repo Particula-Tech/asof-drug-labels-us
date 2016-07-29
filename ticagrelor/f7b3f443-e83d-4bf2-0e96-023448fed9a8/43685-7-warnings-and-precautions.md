@@ -7,6 +7,8 @@ Drugs that inhibit platelet function including BRILINTA increase the risk of ble
 If possible, manage bleeding without discontinuing BRILINTA.
 Stopping BRILINTA increases the risk of subsequent cardiovascular events [see Warnings and Precautions (5.4) and Adverse Reactions (6.1)].
 
+Platelet transfusion did not reverse the antiplatelet effect of BRILINTA in healthy volunteers and is unlikely to be of clinical benefit in patients with bleeding.
+
 ## 5.2 Concomitant Aspirin Maintenance Dose
 
 In PLATO the use of BRILINTA with maintenance doses of aspirin above 100 mg decreased the effectiveness of BRILINTA.
