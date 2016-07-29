@@ -1,4 +1,60 @@
-# PRINCIPAL DISPLAY PANEL - 360 mg Label
+# Package/Label Display Panel -120 mg
+
+NDC 0187-0795-42
+
+Cardizem® (diltiazem HCl) CD ONCE-A-DAY DOSAGE
+
+120 mg
+
+90 Capsules
+
+Rx ONLY
+
+VALEANT Pharmaceuticals North America LLC
+
+# Package/Label Display Panel – 180 mg
+
+NDC 0187-0796-42
+
+Cardizem® (diltiazem HCl) CD ONCE-A-DAY DOSAGE
+
+180 mg
+
+90 Capsules
+
+Rx ONLY
+
+VALEANT Pharmaceuticals North America LLC
+
+# Package/Label Display Panel – 240 mg
+
+NDC 0187-0797-42
+
+Cardizem® (diltiazem HCl) CD ONCE-A-DAY DOSAGE
+
+240 mg
+
+90 Capsules
+
+Rx ONLY
+
+VALEANT Pharmaceuticals North America LLC
+
+# Package/Label Display Panel – 300 mg
+
+NDC 0187-0798-42
+
+Cardizem® (diltiazem HCl) CD ONCE-A-DAY DOSAGE
+
+300 mg
+
+90 Capsules
+
+Rx ONLY
+
+VALEANT Pharmaceuticals North America LLC
+
+# Package/Label Display Panel – 360 mg
 
 NDC 0187-0799-42
 
