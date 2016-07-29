@@ -1,4 +1,4 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
 Doxazosin mesylate, USP is a quinazoline compound that is a selective inhibitor of the alpha1 subtype of alpha-adrenergic receptors.
 The chemical name of doxazosin mesylate, USP is 1-(4-amino-6,7-dimethoxy-2-quinazolinyl)-4-(1,4-benzodioxan-2-ylcarbonyl) piperazine methanesulfonate.
