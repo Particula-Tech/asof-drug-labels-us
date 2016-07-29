@@ -4,9 +4,9 @@ NDC 45945-151-01 Contains one x 1 mL
 
 Gablofen® (baclofen injection) 50 mcg/mL For intrathecal use only Single Use Syringe-Discard Unused Portion Rx only Distributed by: Mallinckrodt Brand Pharmaceuticals, Inc. Hazelwood, MO 63042 USA
 
-780-05440.01 Rev 02/2014
-
 Mallinckrodt™ Pharmaceuticals
+
+780-05440 Rev 05/2015
 
 # Principal Display Panel
 
@@ -19,7 +19,7 @@ Mallinckrodt™ Pharmaceuticals
 
 Distributed by: Mallinckrodt Brand Pharmaceuticals, Inc. Hazelwood, MO 63042 USA
 
-780-05407.01 Rev 08/2014
+780-05407 Rev 10/2015
 
 # Principal Display Panel
 
@@ -32,7 +32,7 @@ Mallinckrodt™ Pharmaceuticals
 
 Distributed by: Mallinckrodt Brand Pharmaceuticals, Inc. Hazelwood, MO 63042 USA
 
-780-05412.01 Rev 08/2014
+780-05412 Rev 10/2015
 
 # Principal Display Panel
 
@@ -45,4 +45,4 @@ Mallinckrodt™ Pharmaceuticals
 
 Distributed by: Mallinckrodt Brand Pharmaceuticals, Inc. Hazelwood, MO 63042 USA
 
-780-05423.02 Rev 08/2014
+780-05423 Rev 10/2015
