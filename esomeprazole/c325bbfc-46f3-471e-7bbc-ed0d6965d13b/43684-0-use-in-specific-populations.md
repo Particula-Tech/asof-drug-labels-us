@@ -89,4 +89,4 @@ For adult patients with GERD, no dosage adjustment is necessary in patients with
 
 For adult patients with bleeding gastric or duodenal ulcers and liver impairment, no dosage adjustment of the initial esomeprazole 80 mg infusion is necessary.
 For adult patients with mild to moderate liver impairment (Child Pugh Classes A and B), a maximum continuous infusion of esomeprazole 6 mg/h should not be exceeded.
-For adult patients with severe liver impairment (Child Pugh Class C), a maximum continuous infusion of 4 mg/h should not be exceeded [seeDosage and Administration (2.2), Clinical Pharmacology (12.3)].
+For adult patients with severe liver impairment (Child Pugh Class C), a maximum continuous infusion of 4 mg/h should not be exceeded [seeDosage and Administration (2.2),Clinical Pharmacology (12.3)].

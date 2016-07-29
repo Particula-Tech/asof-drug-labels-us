@@ -1,41 +1,66 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Risk of Concomitant Gastric Malignancy
+## 5.1 Presence of Gastric Malignancy
 
-Symptomatic response to therapy with NEXIUM does not preclude the presence of gastric malignancy.
+In adults, symptomatic response to therapy with NEXIUM I.V. does not preclude the presence of gastric malignancy.
+Consider additional follow-up and diagnostic testing in adults patients who have suboptimal response or an early symptomatic relapse after completing treatment with a PPI.
+In older patients also consider an endoscopy.
 
-## 5.2 Atrophic Gastritis
-
-Atrophic gastritis has been noted occasionally in gastric corpus biopsies from patients treated long-term with omeprazole, of which esomeprazole is an enantiomer.
-
-## 5.3 Acute Interstitial Nephritis
+## 5.2 Acute Interstitial Nephritis
 
 Acute interstitial nephritis has been observed in patients taking PPIs including NEXIUM I.V..
 Acute interstitial nephritis may occur at any point during PPI therapy and is generally attributed to an idiopathic hypersensitivity reaction.
 Discontinue NEXIUM I.V. if acute interstitial nephritis develops [see Contraindications (4)].
 
-## 5.4 Clostridium difficile Associated Diarrhea
+## 5.3 Clostridium difficile Associated Diarrhea
 
 Published observational studies suggest that PPI therapy like NEXIUM may be associated with an increased risk of Clostridium difficile associated diarrhea, especially in hospitalized patients.
 This diagnosis should be considered for diarrhea that does not improve [see Adverse Reactions (6.2)].
 
 Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
 
-## 5.5 Interaction with Clopidogrel
+## 5.4 Bone Fracture
+
+Several published observational studies suggest that proton pump inhibitor (PPI) therapy may be associated with an increased risk for osteoporosis-related fractures of the hip, wrist, or spine.
+The risk of fracture was increased in patients who received high-dose, defined as multiple daily doses, and long-term PPI therapy (a year or longer).
+Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
+Patients at risk for osteoporosis-related fractures should be managed according to established treatment guidelines [seeDosage and Administration (2)andAdverse Reactions (6.2)].
+
+## 5.5 Cutaneous and Systemic Lupus Erythematosus
+
+Cutaneous lupus erythematosus (CLE) and systemic lupus erythematosus (SLE) have been reported in patients taking PPIs, including esomeprazole.
+These events have occurred as both new onset and an exacerbation of existing autoimmune disease.
+The majority of PPI-induced lupus erythematosus cases were CLE.
+
+The most common form of CLE reported in patients treated with PPIs was subacute CLE (SCLE).
+Onset of CLE occurred up to 2 years after continuous drug therapy (range from 1 to 104 weeks).
+CLE occurred primarily in older patients, although cases were reported in patients as young as 7 months of age.
+Generally, positive antinuclear antibodies (ANA) and histological findings were observed, consistent with a diagnosis of CLE.
+Organ involvement was not typically seen.
+Complete recovery generally has occurred within 12 weeks after discontinuation of the drug.
+
+Systemic lupus erythematosus (SLE) is less commonly reported than CLE in patients receiving PPIs.
+PPI associated SLE is usually milder than non-drug induced SLE.
+Onset of SLE typically occurred within 30 days after initiating PPI treatment, but some cases occurred days or years after initiating treatment.
+SLE occurred primarily in older patients, although cases also occurred in young adults.
+The majority of patients presented with rash; however, arthralgia and cytopenia were also reported.
+Antibody testing for lupus, including ANA and antihistone antibodies, may be positive.
+Clinical signs and symptoms of SLE associated with PPI use were usually reversible once the PPI was discontinued.
+Clinical symptoms generally resolved within 8 weeks.
+Elevated serological test results may take longer to resolve than clinical manifestations.
+
+Avoid administration of PPIs for longer than medically indicated.
+If signs or symptoms consistent with CLE or SLE are noted in patients receiving NEXIUM I.V., discontinue the drug and refer the patient to the appropriate specialist for evaluation.
+Most patients improve with discontinuation of the PPI alone in 4 to 12 weeks.
+
+## 5.6 Interaction with Clopidogrel
 
 Avoid concomitant use of NEXIUM I.V. with clopidogrel.
 Clopidogrel is a prodrug.
 Inhibition of platelet aggregation by clopidogrel is entirely due to an active metabolite.
 The metabolism of clopidogrel to its active metabolite can be impaired by use with concomitant medications, such as esomeprazole, that inhibit CYP2C19 activity.
 Concomitant use of clopidogrel with 40 mg esomeprazole reduces the pharmacological activity of clopidogrel.
-When using NEXIUM I.V. consider alternative anti-platelet therapy [seeDrug Interactions (7), Pharmacokinetics (12.3)].
-
-## 5.6 Bone Fracture
-
-Several published observational studies suggest that proton pump inhibitor (PPI) therapy may be associated with an increased risk for osteoporosis-related fractures of the hip, wrist, or spine.
-The risk of fracture was increased in patients who received high-dose, defined as multiple daily doses, and long-term PPI therapy (a year or longer).
-Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
-Patients at risk for osteoporosis-related fractures should be managed according to established treatment guidelines [seeDosage and Administration (2)andAdverse Reactions (6.2)].
+When using NEXIUM I.V. consider alternative anti-platelet therapy [seeDrug Interactions (7), Clinical Pharmacology (12.3)].
 
 ## 5.7 Hypomagnesemia
 

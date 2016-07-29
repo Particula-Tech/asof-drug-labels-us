@@ -27,7 +27,7 @@ Adult Patients
 The recommended adult dose is either 20 mg or 40 mg NEXIUM given once daily by intravenous injection (no less than 3 minutes) or intravenous infusion (10 minutes to 30 minutes).
 Safety and efficacy of NEXIUM I.V. for Injection as a treatment of GERD patients with erosive esophagitis for more than 10 days have not been demonstrated.
 
-Dosage adjustment is not required in patients with mild to moderate liver impairment (Child Pugh Classes A and B). For patients with severe liver impairment (Child Pugh Class C), a maximum dose of 20 mg once daily of NEXIUM should not be exceeded [seeUse in Specific Populations (8.6), Clinical Pharmacology (12.3)].
+Dosage adjustment is not required in patients with mild to moderate liver impairment (Child Pugh Classes A and B). For patients with severe liver impairment (Child Pugh Class C), a maximum dose of 20 mg once daily of NEXIUM should not be exceeded [seeUse in Specific Populations (8.6),Clinical Pharmacology (12.3)].
 
 Pediatric Patients
 
@@ -49,7 +49,7 @@ Intravenous therapy should be followed by oral acid-suppressive therapy.
 
 For patients with liver impairment, no dosage adjustment of the initial esomeprazole 80 mg infusion is necessary.
 For patients with mild to moderate liver impairment (Child Pugh Classes A and B), a maximum continuous infusion of esomeprazole 6 mg/h should not be exceeded.
-For patients with severe liver impairment (Child Pugh Class C), a maximum continuous infusion of 4 mg/h should not be exceeded [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
+For patients with severe liver impairment (Child Pugh Class C), a maximum continuous infusion of 4 mg/h should not be exceeded [see Use in Specific Populations (8.6),Clinical Pharmacology (12.3)].
 
 ## 2.3 Preparation and Administration Instructions
 
