@@ -80,4 +80,4 @@ Administration with Water via a NG or Gastric Tube (Size 6 or Larger)
 2. 2.Immediately shake the syringe and leave 2 to 3 minutes to thicken.
 3. 3.Shake the syringe and inject through the nasogastric or gastric tube into the stomach within 30 minutes.
 4. 4.Refill the syringe with an equal amount of water.
-5. 5.Shake and flush any remaining contents from the nasogastric or gastric tube into the stomach
+5. 5.Shake and flush any remaining contents from the nasogastric or gastric tube into the stomach.

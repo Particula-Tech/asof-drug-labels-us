@@ -20,7 +20,7 @@ PRILOSEC in combination with clarithromycin is indicated for treatment of patien
 
 Among patients who fail therapy, PRILOSEC with clarithromycin is more likely to be associated with the development of clarithromycin resistance as compared with triple therapy.
 In patients who fail therapy, susceptibility testing should be done.
-If resistance to clarithromycin is demonstrated or susceptibility testing is not possible, alternative antimicrobial therapy should be instituted [see Clinical Pharmacology (12.4) and the clarithromycin prescribing information, Microbiology section.]
+If resistance to clarithromycin is demonstrated or susceptibility testing is not possible, alternative antimicrobial therapy should be instituted [see Clinical Pharmacology (12.4) and the clarithromycin prescribing information, Microbiology section].
 
 ## 1.3 Treatment of Active Benign Gastric Ulcer
 

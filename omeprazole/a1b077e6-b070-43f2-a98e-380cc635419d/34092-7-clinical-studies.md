@@ -43,8 +43,6 @@ Treatment of Active Duodenal Ulcer % of Patients Healed
 
 Triple Therapy (PRILOSEC/clarithromycin/amoxicillin)
 
-H. pylori Eradication in Patients with Duodenal Ulcer Disease
-
 Three U.S., randomized, double-blind clinical studies in patients with H. pylori infection and duodenal ulcer disease (n = 558) compared PRILOSEC plus clarithromycin plus amoxicillin with clarithromycin plus amoxicillin.
 Two studies (1 and 2) were conducted in patients with an active duodenal ulcer, and the other study (3) was conducted in patients with a history of a duodenal ulcer in the past 5 years but without an ulcer present at the time of enrollment.
 The dose regimen in the studies was PRILOSEC 20 mg twice daily plus clarithromycin 500 mg twice daily plus amoxicillin 1 g twice daily for 10 days; or clarithromycin 500 mg twice daily plus amoxicillin 1 g twice daily for 10 days.

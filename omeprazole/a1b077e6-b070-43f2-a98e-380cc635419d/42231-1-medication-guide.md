@@ -23,6 +23,9 @@ Talk with your doctor.
 
 PRILOSEC can cause serious side effects, including:
 
+- •Kidney problems (acute interstitial nephritis).
+  Kidney problems may happen at any time during treatment with PRILOSEC.
+  Call your doctor if you have a decrease in the amount that you urinate or if you have blood in your urine.
 - •Diarrhea.
   PRILOSEC may increase your risk of getting severe diarrhea.
   This diarrhea may be caused by an infection (Clostridium difficile) in your intestines.
@@ -31,6 +34,9 @@ PRILOSEC can cause serious side effects, including:
   People who take multiple daily doses of proton pump inhibitor medicines for a long period of time (a year or longer) may have an increased risk of fractures of the hip, wrist, or spine.
   You should take PRILOSEC exactly as prescribed, at the lowest dose possible for your treatment and for the shortest time needed.
   Talk to your doctor about your risk of bone fracture if you take PRILOSEC.
+- •Certain types of lupus erythematosus.
+  Some people who take proton pump inhibitors (PPIs), including PRILOSEC, develop certain types of lupus erythematosus or have worsening of the lupus they already have.
+  Call your doctor right away if you have joint pain or rash on your cheeks or arms that gets worse in the sun.
 
 PRILOSEC can have other serious side effects.
 See “What are the possible side effects of PRILOSEC?”
@@ -213,12 +219,12 @@ Inactive granules in PRILOSEC For Delayed-Release Oral Suspension: citric acid, 
 
 Manufactured by: AstraZeneca Pharmaceuticals LP, Wilmington, DE 19850
 
-PRILOSEC is a trademark of the AstraZeneca group of companies. ©2015 AstraZeneca Pharmaceuticals LP.
+PRILOSEC is a trademark of the AstraZeneca group of companies. ©2016 AstraZeneca Pharmaceuticals LP.
 All rights reserved.
 
 For more information, go to www.astrazeneca-us.com or call 1-800-236-9933.
 
-1. This Medication Guide has been approved by the U.S. Food and Drug Administration Revised: DATE 02/2016
+1. This Medication Guide has been approved by the U.S. Food and Drug Administration Revised: DATE 07/2016
 
 INSTRUCTIONS FOR USE
 

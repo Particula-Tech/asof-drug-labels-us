@@ -8,10 +8,11 @@ Advise patients to report to their healthcare provider if they experience any si
 
 - 
   - •Hypersensitivity reactions [see Contraindications (4)].
-  - •Acute Interstitial Nephritis [see Warnings and Precautions (5.3)].
-  - •Cyanocobalamin (vitamin B-12) Deficiency [see Warnings and Precautions (5.4)].
-  - •Clostridium difficile Associated Diarrhea [see Warnings and Precautions (5.5)].
-  - •Bone Fracture [see Warnings and Precautions (5.7)].
+  - •Acute Interstitial Nephritis [see Warnings and Precautions (5.2)].
+  - •Clostridium difficile Associated Diarrhea [see Warnings and Precautions (5.3)].
+  - •Bone Fracture [see Warnings and Precautions (5.4)].
+  - •Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)].
+  - •Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.7)].
   - •Hypomagnesemia [see Warnings and Precautions (5.8)].
 
 Drug Interactions
@@ -40,6 +41,6 @@ PRILOSEC For Delayed-Release Oral Suspension
 
 PRILOSEC is a trademark of the AstraZeneca group of companies.
 
-Manufactured for: AstraZeneca LP, Wilmington, DE 19850
+Manufactured for: AstraZeneca Pharmaceuticals LP, Wilmington, DE 19850
 
 ©AstraZeneca 2016
