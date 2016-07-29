@@ -23,6 +23,9 @@ Talk with your doctor.
 
 NEXIUM can cause serious side effects, including:
 
+- •Kidney problems (acute interstitial nephritis).
+  Kidney problems may happen at any time during treatment with NEXIUM.
+  Call your doctor if you have a decrease in the amount that you urinate or if you have blood in your urine.
 - •Diarrhea.
   NEXIUM may increase your risk of getting severe diarrhea.
   This diarrhea may be caused by an infection (Clostridium difficile) in your intestines.
@@ -31,6 +34,9 @@ NEXIUM can cause serious side effects, including:
   People who take multiple daily doses of Proton Pump Inhibitor medicines for a long period of time (a year or longer) may have an increased risk of fractures of the hip, wrist, or spine.
   You should take NEXIUM exactly as prescribed, at the lowest dose possible for your treatment and for the shortest time needed.
   Talk to your doctor about your risk of bone fracture if you take NEXIUM.
+- •Certain types of lupus erythematosus.
+  Some people who take proton pump inhibitors (PPIs), including NEXIUM, develop certain types of lupus erythematosus or have worsening of the lupus they already have.
+  Call your doctor right away if you have joint pain or rash on your cheeks or arms that gets worse in the sun.
   NEXIUM can have other serious side effects.
   See “What are the possible side effects of NEXIUM?”
 
@@ -123,10 +129,6 @@ What are the possible side effects of NEXIUM?
 NEXIUM can cause serious side effects, including:
 
 - •See “What is the most important information I should know about NEXIUM?”
-- •Chronic (lasting a long time) inflammation of the stomach lining (Atrophic Gastritis).
-  Using NEXIUM for a long period of time may increase the risk of inflammation to your stomach lining.
-  You may or may not have symptoms.
-  Tell your doctor if you have stomach pain, nausea, vomiting, or weight loss.
 - •Vitamin B-12 deficiency.
   NEXIUM reduces the amount of acid in your stomach.
   Stomach acid is needed to absorb vitamin B-12 properly.
@@ -257,7 +259,7 @@ AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-Revised 01/2016
+Revised 07/2016
 
 NEXIUM is a registered trademark of the AstraZeneca group of companies.
 

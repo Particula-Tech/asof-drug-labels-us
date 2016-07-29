@@ -25,7 +25,7 @@ Table 10: Sustained ResolutionDefined as 7 consecutive days with no heartburn re
 
 |  |  |  | Cumulative PercentDefined as the cumulative proportion of patients who have reached the start of sustained resolution. with Sustained Resolution |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Study | No. of Patients | Treatment Groups | Day 14 | Day 28 | Significance Level log-rank test vs. omeprazole 20 mg |
+| Study | No. of Patients | Treatment Groups | Day 14 | Day 28 | Significance Level log-rank test vs. omeprazole 20 mg. |
 | 1 | 573 | NEXIUM 20 mg | 64.3% | 72.7% | N.S. |
 |  | 555 | Omeprazole 20 mg | 64.1% | 70.9% |  |
 | 2 | 621 | NEXIUM 40 mg | 64.8% | 74.2% | p <0.001 |

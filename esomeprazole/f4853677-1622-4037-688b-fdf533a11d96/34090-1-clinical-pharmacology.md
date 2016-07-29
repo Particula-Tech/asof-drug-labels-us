@@ -133,7 +133,7 @@ Pediatric (1 to 11 month of age)
 
 The pharmacokinetic parameters following repeated dose administration of 1.0 mg/kg esomeprazole in 1 to 11 month old infants are summarized in Table 5.
 
-Table 5: Summary of PK Parameters in 1 Month to < 1 Year Olds with GERD Following 7/8 Days of Once-Daily Oral Esomeprazole Treatment
+Table 5: Summary of PK parameters in 1 month to < 1 year Olds with GERD Following 7/8 Days of Once-Daily Oral Esomeprazole Treatment
 
 |  | 1 month to < 1 year |
 | --- | --- |
