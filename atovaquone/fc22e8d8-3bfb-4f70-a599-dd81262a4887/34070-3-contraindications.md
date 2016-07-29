@@ -6,4 +6,4 @@ MALARONE is contraindicated in individuals with known hypersensitivity reactions
 
 ## 4.2 Severe Renal Impairment
 
-MALARONE is contraindicated for prophylaxis of P. falciparum malaria in patients with severe renal impairment (creatinine clearance <30 mL/min) because of pancytopenia in patients with severe renal impairment treated with proguanil [see Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
+MALARONE is contraindicated for prophylaxis of P. falciparum malaria in patients with severe renal impairment (creatinine clearance <30 mL/min) because of pancytopenia in patients with severe renal impairment treated with proguanil [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].

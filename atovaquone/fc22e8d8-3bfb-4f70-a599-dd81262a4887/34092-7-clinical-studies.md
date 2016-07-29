@@ -5,12 +5,12 @@
 MALARONE was evaluated for prophylaxis of P. falciparum malaria in 5 clinical trials in malaria‑endemic areas and in 3 active‑controlled trials in non‑immune travelers to malaria‑endemic areas.
 
 Three placebo‑controlled trials of 10 to 12 weeks’ duration were conducted among residents of malaria‑endemic areas in Kenya, Zambia, and Gabon.
-The mean age of subjects was 30 (range 17‑55), 32 (range 16‑64), and 10 (range 5‑16) years, respectively.
-Of a total of 669 randomized patients (including 264 pediatric patients 5 to 16 years of age), 103 were withdrawn for reasons other than falciparum malaria or drug‑related adverse events (55% of these were lost to follow‑up and 45% were withdrawn for protocol violations).
+The mean age of subjects was 30 (range: 17 to 55), 32 (range: 16 to 64), and 10 (range: 5 to 16) years, respectively.
+Of a total of 669 randomized patients (including 264 pediatric patients aged 5 to 16 years), 103 were withdrawn for reasons other than falciparum malaria or drug‑related adverse events (55% of these were lost to follow‑up and 45% were withdrawn for protocol violations).
 The results are listed in Table 6.
 
 Table 6.
-Prevention of Parasitemiaa in Placebo Controlled Clinical Trials of MALARONE for Prophylaxis of P. falciparum Malaria in Residents of Malaria Endemic Areas
+Prevention of Parasitemiaa in Placebo-Controlled Clinical Trials of MALARONE for Prophylaxis of P. falciparum Malaria in Residents of Malaria-Endemic Areas
 
 |  | MALARONE | Placebo |
 | --- | --- | --- |
@@ -29,7 +29,7 @@ In a 10‑week study in 175 South African subjects who moved into malaria‑ende
 Since no placebo control was included, the incidence of malaria in this study was not known.
 
 Two active-controlled trials were conducted in non‑immune travelers who visited a malaria‑endemic area.
-The mean duration of travel was 18 days (range 2 to 38 days).
+The mean duration of travel was 18 days (range: 2 to 38 days).
 Of a total of 1,998 randomized patients who received MALARONE or controlled drug, 24 discontinued from the study before follow-up evaluation 60 days after leaving the endemic area.
 Nine of these were lost to follow-up, 2 withdrew because of an adverse experience, and 13 were discontinued for other reasons.
 These trials were not large enough to allow for statements of comparative efficacy.
@@ -47,7 +47,7 @@ Prevention of Parasitemiaa in Active-Controlled Clinical Trials of MALARONE for 
 
 a Free of parasitemia during the period of prophylactic therapy.
 
-A third randomized, open‑label study was conducted which included 221 otherwise healthy pediatric patients (weighing ≥11 kg and 2 to 17 years of age) who were at risk of contracting malaria by traveling to an endemic area.
+A third randomized, open‑label study was conducted which included 221 otherwise healthy pediatric patients (weighing ≥11 kg and aged 2 to 17 years) who were at risk of contracting malaria by traveling to an endemic area.
 The mean duration of travel was 15 days (range 1 to 30 days).
 Prophylaxis with MALARONE (n = 110, dosage based on body weight) began 1 or 2 days before entering the endemic area and lasted until 7 days after leaving the area.
 A control group (n = 111) received prophylaxis with chloroquine/proguanil dosed according to WHO guidelines.
@@ -55,23 +55,25 @@ No cases of malaria occurred in either group of children.
 However, the study was not large enough to allow for statements of comparative efficacy.
 In addition, the true exposure rate to P. falciparum malaria in this study is unknown.
 
-Causal Prophylaxis: In separate trials with small numbers of volunteers, atovaquone and proguanil hydrochloride were independently shown to have causal prophylactic activity directed against liver‑stage parasites of P. falciparum.
+Causal Prophylaxis
+
+In separate trials with small numbers of volunteers, atovaquone and proguanil hydrochloride were independently shown to have causal prophylactic activity directed against liver‑stage parasites of P. falciparum.
 Six patients given a single dose of atovaquone 250 mg 24 hours prior to malaria challenge were protected from developing malaria, whereas all 4 placebo‑treated patients developed malaria.
 
 During the 4 weeks following cessation of prophylaxis in clinical trial participants who remained in malaria‑endemic areas and were available for evaluation, malaria developed in 24 of 211 (11.4%) subjects who took placebo and 9 of 328 (2.7%) who took MALARONE.
 While new infections could not be distinguished from recrudescent infections, all but 1 of the infections in patients treated with MALARONE occurred more than 15 days after stopping therapy.
-The single case occurring on day 8 following cessation of therapy with MALARONE probably represents a failure of prophylaxis with MALARONE.
+The single case occurring on Day 8 following cessation of therapy with MALARONE probably represents a failure of prophylaxis with MALARONE.
 
 The possibility that delayed cases of P. falciparum malaria may occur some time after stopping prophylaxis with MALARONE cannot be ruled out.
 Hence, returning travelers developing febrile illnesses should be investigated for malaria.
 
 ## 14.2 Treatment of Acute, Uncomplicated P. falciparum Malaria Infections
 
-In 3 phase II clinical trials, atovaquone alone, proguanil hydrochloride alone, and the combination of atovaquone and proguanil hydrochloride were evaluated for the treatment of acute, uncomplicated malaria caused by P. falciparum.
+In 3 Phase 2 clinical trials, atovaquone alone, proguanil hydrochloride alone, and the combination of atovaquone and proguanil hydrochloride were evaluated for the treatment of acute, uncomplicated malaria caused by P. falciparum.
 Among 156 evaluable patients, the parasitological cure rate (elimination of parasitemia with no recurrent parasitemia during follow‑up for 28 days) was 59/89 (66%) with atovaquone alone, 1/17 (6%) with proguanil hydrochloride alone, and 50/50 (100%) with the combination of atovaquone and proguanil hydrochloride.
 
-MALARONE was evaluated for treatment of acute, uncomplicated malaria caused by P. falciparum in 8 phase III randomized, open-label, controlled clinical trials (N = 1,030 enrolled in both treatment groups).
-The mean age of subjects was 27 years and 16% were children ≤12 years of age; 74% of subjects were male.
+MALARONE was evaluated for treatment of acute, uncomplicated malaria caused by P. falciparum in 8 Phase 3 randomized, open-label, controlled clinical trials (N = 1,030 enrolled in both treatment groups).
+The mean age of subjects was 27 years and 16% were children 12 years and younger; 74% of subjects were male.
 Evaluable patients included those whose outcome at 28 days was known.
 Among 471 evaluable patients treated with the equivalent of 4 MALARONE Tablets once daily for 3 days, 464 had a sensitive response (elimination of parasitemia with no recurrent parasitemia during follow‑up for 28 days) (Table 8).
 Seven patients had a response of RI resistance (elimination of parasitemia but with recurrent parasitemia between 7 and 28 days after starting treatment).
@@ -99,7 +101,7 @@ b Elimination of parasitemia with no recurrent parasitemia during follow‑up fo
 c Patients hospitalized only for acute care.
 Follow‑up conducted in outpatients.
 
-d Study in pediatric patients 3 to 12 years of age.
+d Study in pediatric patients aged 3 to 12 years.
 
 When these 8 trials were pooled and 2 additional trials evaluating MALARONE alone (without a comparator arm) were added to the analysis, the overall efficacy (elimination of parasitemia with no recurrent parasitemia during follow‑up for 28 days) in 521 evaluable patients was 98.7%.
 

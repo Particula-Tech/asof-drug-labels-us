@@ -13,11 +13,13 @@ Patients should be instructed:
 - •that falciparum malaria carries a higher risk of death and serious complications in pregnant women than in the general population.
   Pregnant women anticipating travel to malarious areas should discuss the risks and benefits of such travel with their physicians.
 
+MALARONE is a registered trademark of the GSK group of companies.
+
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2013, GlaxoSmithKline.
+©2016 the GSK group of companies.
 All rights reserved.
 
-MLR:6PI
+MLR:7PI

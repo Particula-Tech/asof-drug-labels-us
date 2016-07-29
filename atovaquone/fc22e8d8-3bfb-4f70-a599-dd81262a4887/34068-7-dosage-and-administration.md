@@ -9,9 +9,13 @@ MALARONE may be crushed and mixed with condensed milk just prior to administrati
 
 Start prophylactic treatment with MALARONE 1 or 2 days before entering a malaria‑endemic area and continue daily during the stay and for 7 days after return.
 
-Adults: One MALARONE Tablet (adult strength = 250 mg atovaquone/100 mg proguanil hydrochloride) per day.
+Adults
 
-Pediatric Patients: The dosage for prevention of malaria in pediatric patients is based upon body weight (Table 1).
+One MALARONE Tablet (adult strength = 250 mg atovaquone/100 mg proguanil hydrochloride) per day.
+
+Pediatric Patients
+
+The dosage for prevention of malaria in pediatric patients is based upon body weight (Table 1).
 
 Table 1.
 Dosage for Prevention of Malaria in Pediatric Patients
@@ -25,9 +29,13 @@ Dosage for Prevention of Malaria in Pediatric Patients
 
 ## 2.2 Treatment of Acute Malaria
 
-Adults: Four MALARONE Tablets (adult strength; total daily dose 1 g atovaquone/400 mg proguanil hydrochloride) as a single daily dose for 3 consecutive days.
+Adults
 
-Pediatric Patients: The dosage for treatment of acute malaria in pediatric patients is based upon body weight (Table 2).
+Four MALARONE Tablets (adult strength; total daily dose 1 g atovaquone/400 mg proguanil hydrochloride) as a single daily dose for 3 consecutive days.
+
+Pediatric Patients
+
+The dosage for treatment of acute malaria in pediatric patients is based upon body weight (Table 2).
 
 Table 2.
 Dosage for Treatment of Acute Malaria in Pediatric Patients
