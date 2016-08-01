@@ -238,8 +238,13 @@ Inactive ingredients: microcrystalline cellulose, hypromellose 2910, ethylcellul
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
+For Medication Guides, please visit www.upsher-smith.com or call 1-888-650-3789.
+
 Manufactured for USL PHARMA, INC. Denver, CO 80223
 
-Revised: 0315
+Revised: 0516
+
+This product may be covered by one or more U.S. patent(s).
+See www.uslpatents.com.
 
 All trademarks are owned by their respective owners.
