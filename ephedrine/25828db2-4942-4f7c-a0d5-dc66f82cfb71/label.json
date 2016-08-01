@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA208289"
+  ],
+  "inn": "ephedrine",
+  "labeler": "Éclat Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "76014-005-25",
+    "76014-005-30"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "ephedrine sulfate",
+      "name": "Akovaz"
+    }
+  ],
+  "setid": "25828db2-4942-4f7c-a0d5-dc66f82cfb71",
+  "source": "dailymed"
+}
