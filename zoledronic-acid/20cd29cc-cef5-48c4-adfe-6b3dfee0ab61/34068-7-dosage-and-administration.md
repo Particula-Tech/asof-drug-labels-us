@@ -45,7 +45,7 @@ In the clinical studies, renal deterioration was defined as follows:
 
 For patients with normal baseline creatinine, increase of 0.5 mg/dL
 
-For patients with abnormal baseline creatinine, increase of 1.0 mg/dL
+For patients with abnormal baseline creatinine, increase of 1 mg/dL
 
 In the clinical studies, zoledronic acid injection treatment was resumed only when the creatinine returned to within 10% of the baseline value.
 Zoledronic acid injection should be reinitiated at the same dose as that prior to treatment interruption.

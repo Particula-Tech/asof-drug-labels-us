@@ -25,7 +25,7 @@ Zoledronic acid injection treatment in patients with hypercalcemia of malignancy
 In the clinical studies, patients with serum creatinine greater than 400 μmol/L or greater than 4.5 mg/dL were excluded.
 
 Zoledronic acid injection treatment is not recommended in patients with bone metastases with severe renal impairment.
-In the clinical studies, patients with serum creatinine greater than 265 μmol/L or greater than 3.0 mg/dL were excluded and there were only 8 of 564 patients treated with zoledronic acid injection 4 mg by 15-minute infusion with a baseline creatinine greater than 2 mg/dL.
+In the clinical studies, patients with serum creatinine greater than 265 μmol/L or greater than 3 mg/dL were excluded and there were only 8 of 564 patients treated with zoledronic acid injection 4 mg by 15-minute infusion with a baseline creatinine greater than 2 mg/dL.
 Limited pharmacokinetic data exists in patients with creatinine clearance less than 30 mL/min [see Clinical Pharmacology (12.3)].
 
 ## 5.4 Osteonecrosis of the Jaw
@@ -87,9 +87,9 @@ If this drug is used during pregnancy, or if the patient becomes pregnant while 
 
 ## 5.10 Hypocalcemia
 
-Hypocalcemia has been reported in patients treated with Zoledronic acid injection.
-Cardiac arrhythmias and neurologic adverse events (seizures, tetany, and numbness) have been reported secondary to cases of severe hypocalcemia.
-In some instances, hypocalcemia may be life-threatening.
-Caution is advised when zoledronlc acid injection is administered with drugs known to cause hypocalcemia, as severe hypocalcemia may develop, [seeDrug Interactions (7)].
-Serum calcium should be measured and hypocalcemia must be corrected before initiating zoledronlc acid injection.
-Adequately supplement patients with calcium and vitamin D.
+1. Hypocalcemia has been reported in patients treated with Zoledronic acid injection.
+   Cardiac arrhythmias and neurologic adverse events (seizures, tetany, and numbness) have been reported secondary to cases of severe hypocalcemia.
+   In some instances, hypocalcemia may be life-threatening.
+   Caution is advised when zoledronlc acid injection is administered with drugs known to cause hypocalcemia, as severe hypocalcemia may develop, [see Drug Interactions (7)].
+   Serum calcium should be measured and hypocalcemia must be corrected before initiating zoledronlc acid injection.
+   Adequately supplement patients with calcium and vitamin D.

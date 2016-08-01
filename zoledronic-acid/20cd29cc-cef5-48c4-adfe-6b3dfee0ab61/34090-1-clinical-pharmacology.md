@@ -53,8 +53,7 @@ Following an intravenous dose of 20 nCi 14C-zoledronic acid in a patient with ca
 
 Excretion
 
-In 64 patients with cancer and bone metastases, on average (± s.d.)
-39 ± 16% of the administered zoledronic acid dose was recovered in the urine within 24 hours, with only trace amounts of drug found in urine post-Day 2.
+In 64 patients with cancer and bone metastases, on average (± SD) 39 ± 16% of the administered zoledronic acid dose was recovered in the urine within 24 hours, with only trace amounts of drug found in urine post-Day 2.
 The cumulative percent of drug excreted in the urine over 0 to 24 hours was independent of dose.
 The balance of drug not recovered in urine over 0 to 24 hours, representing drug presumably bound to bone, is slowly released back into the systemic circulation, giving rise to the observed prolonged low plasma concentrations.
 The 0 to 24 hour renal clearance of zoledronic acid was 3.7 ± 2.0 L/h.
@@ -67,7 +66,7 @@ Special Populations
 
 Pediatrics
 
-Zoledronic acid injection is not indicated for use in children [see Pediatric Use (8.4)].
+Zoledronic acid injection is not indicated for use in children [see Use in Specific Populations (8.4)].
 
 Geriatrics
 
