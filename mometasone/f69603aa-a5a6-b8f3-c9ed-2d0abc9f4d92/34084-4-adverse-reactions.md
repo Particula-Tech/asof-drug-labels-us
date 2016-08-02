@@ -10,4 +10,4 @@ The following adverse reactions were reported to be possibly or probably related
 The following signs of skin atrophy were also observed among 97 subjects treated with Mometasone Furoate Cream 0.1% in a clinical trial: shininess, 4; telangiectasia, 1; loss of elasticity, 4; loss of normal skin markings, 4; thinness, 1; and bruising, 1.
 The following additional local adverse reactions have been reported with topical corticosteroids, but may occur more frequently with the use of occlusive dressings.
 These reactions are: irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, striae, and miliaria.
-To report SUSPECTED ADVERSE REACTIONS, contact G&W Laboratories, Inc. at 1-800-922-1038 or FDA at 1-800-1088 orwww.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact G&W Laboratories, Inc. at 1-800-922-1038 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

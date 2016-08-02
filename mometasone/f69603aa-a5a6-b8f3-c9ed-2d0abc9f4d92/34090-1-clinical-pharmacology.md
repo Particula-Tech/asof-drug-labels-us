@@ -14,7 +14,7 @@ Studies performed with Mometasone Furoate Cream 0.1% indicate that it is in the 
 In a study evaluating the effects of mometasone furoate cream on the HPA axis, 15 grams were applied twice daily for 7 days to six adult subjects with psoriasis or atopic dermatitis.
 The cream was applied without occlusion to at least 30% of the body surface.
 The results showed that the drug caused a slight lowering of adrenal corticosteroid secretion [see Warnings and Precautions (5.1)].
-Ninety-seven pediatric subjects ages 6 to 23 months with atopic dermatitis, were enrolled in an open-label, HPA axis safety trial.
+Ninety-seven pediatric subjects ages 6 to 23 months with atopic dermatitis, were enrolled in an open-label, HPA axis safety study.
 Mometasone Furoate Cream 0.1% was applied once daily for approximately 3 weeks over a mean body surface area of 41% (range 15%-94%).
 In approximately 16% of subjects who showed normal adrenal function by Cortrosyn test before starting treatment, adrenal suppression was observed at the end of treatment with Mometasone Furoate Cream 0.1%.
 The criteria for suppression were: basal cortisol level of ≤5 mcg/dL, 30-minute post-stimulation level of ≤18 mcg/dL, or an increase of <7 mcg/dL.

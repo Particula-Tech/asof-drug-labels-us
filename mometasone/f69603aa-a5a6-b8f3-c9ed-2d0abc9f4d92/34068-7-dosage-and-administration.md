@@ -1,4 +1,4 @@
-# 2 DOSAGE & ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 Apply a thin film of Mometasone Furoate Cream 0.1% to the affected skin areas once daily.
 Mometasone Furoate Cream 0.1% may be used in pediatric patients 2 years of age or older.
