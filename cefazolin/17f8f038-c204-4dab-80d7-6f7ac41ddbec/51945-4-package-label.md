@@ -50,7 +50,7 @@ Rx only
 
 Produced in USA with API from Italy.
 
-LD-201-5 Y37-002-506
+LD-201-6 Y37-002-511
 
 PEEL HERE
 
