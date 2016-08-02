@@ -154,7 +154,7 @@ ARTHROTEC is contraindicated in patients with previous serious skin reactions to
 ## 5.10 Premature Closure of Fetal Ductus Arteriosus
 
 Diclofenac may cause premature closure of the fetal ductus arteriosus.
-ARTHROTEC is contraindicated in pregnant woment.
+ARTHROTEC is contraindicated in pregnant women.
 Advise pregnant women of the potential risk to a fetus.
 Verify the pregnancy status of females of reproductive potential prior to initiation of ARTHOTEC.
 Advise females of reproductive potential to use effective contraception during treatment with ARTHROTEC [see Contraindications (4) and Use in Specific Populations (8.1, 8.3)].

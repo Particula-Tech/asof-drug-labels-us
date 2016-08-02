@@ -29,5 +29,5 @@
 | General information about the safe and effective use of NSAIDs |  |
 | Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use NSAIDs for a condition for which it was not prescribed. Do not give NSAIDs to other people, even if they have the same symptoms that you have. It may harm them. |  |
 | If you would like more information about NSAIDs, talk with your healthcare provider. You can ask your pharmacist or healthcare provider for information about NSAIDs that is written for health professionals. |  |
-| Manufactured for: Pfizer Inc., 235 East 42nd Street, New York, NY, 10017 Distributed by: Pfizer labs, Division of Pfizer Inc., 235 East 42nd Street, New York, NY, 10017 For more information, go to www.pfizer.com or call 1-800-438-1985 |  |
-| This Medication Guide has been approved by the U.S. Food and Drug Administration. LAB: 0793-1.0 May 2016 |  |
+| Manufactured for: Pfizer Inc., 235 East 42nd Street, New York, NY, 10017 Distributed by: G. D. Searle LLC, Division of Pfizer Inc., 235 East 42nd Street, New York, NY, 10017 For more information, go to www.pfizer.com or call 1-800-438-1985 |  |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration. LAB: 0793-2.0 May 2016 |  |

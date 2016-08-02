@@ -154,7 +154,7 @@ Diclofenac
 
 Aspirin: When ARTHROTEC was administered with aspirin, the protein binding of diclofenac was reduced, although the clearance of the free diclofenac was not altered.
 The clinical significance of this interaction is not known.
-See table 1 for clinically significant drug interactions of NSAIDs with asprin [see Drug Interactions (7)].
+See table 1 for clinically significant drug interactions of NSAIDs with aspirin [see Drug Interactions (7)].
 
 Voriconazole: When a single dose diclofenac (50 mg) was coadministered with the last dose of voriconazole (400 mg every 12 hours on Day 1, followed by 200 mg every 12 hours on Day 2), the mean Cmax and AUC of diclofenac were increased by 114% and 78%, respectively, when compared to diclofenac alone [see Drug Interactions (7)].
 
