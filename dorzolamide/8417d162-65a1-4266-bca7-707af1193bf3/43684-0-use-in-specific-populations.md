@@ -3,10 +3,7 @@
 ## 8.1 Pregnancy
 
 Teratogenic Effects.
-
-### Pregnancy Category C
-
-Developmental toxicity studies with dorzolamide hydrochloride in rabbits at oral doses of ≥ 2.5 mg/kg/day revealed malformations of the vertebral bodies.
+Pregnancy Category C. Developmental toxicity studies with dorzolamide hydrochloride in rabbits at oral doses of ≥ 2.5 mg/kg/day revealed malformations of the vertebral bodies.
 These malformations occurred at doses that caused metabolic acidosis with decreased body weight gain in dams and decreased fetal weights.
 No treatment-related malformations were seen at 1 mg/kg/day.
 These doses represent estimated plasma Cmax levels in rabbits, 37 and 15 times higher than the lower limit of detection in human plasma following ocular administration, respectively.
@@ -25,7 +22,7 @@ Because many drugs are excreted in human milk and because of the potential for s
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of Dorzolamide HCl Ophthalmic Solutionhave been demonstrated in pediatric patients in a 3-month, multicenter, double-masked, active-treatment-controlled trial.
+Safety and effectiveness of Dorzolamide HCl Ophthalmic Solution have been demonstrated in pediatric patients in a 3-month, multicenter, double-masked, active-treatment-controlled trial.
 
 ## 8.5 Geriatric Use
 
@@ -34,6 +31,6 @@ No overall differences in safety or effectiveness have been observed between eld
 ## 8.6 Renal and Hepatic Impairment
 
 Dorzolamide has not been studied in patients with severe renal impairment (CrCl < 30 mL/min).
-Because dorzolamide and its metabolite are excreted in predominantly by the kidney, Dorzolamide HCl Ophthalmic Solution is not recommended in such patients.
+Because dorzolamide and its metabolite are excreted predominantly by the kidney, Dorzolamide HCl Ophthalmic Solution is not recommended in such patients.
 
 Dorzolamide has not been studied in patients with hepatic impairment and should therefore be used with caution in such patients.

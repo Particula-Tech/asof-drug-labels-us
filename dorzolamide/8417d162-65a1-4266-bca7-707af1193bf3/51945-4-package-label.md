@@ -2,22 +2,8 @@ PRINCIPAL DISPLAY PANEL
 
 NDC 24208-485-10
 
-BAUSCH & LOMB
+Dorzolamide HCl Ophthalmic Solution 2%* Dorzolamide Equivalent (Dorzolamide Hydrochloride, USP 22.3 mg/mL) (Sterile)
 
-Dorzolamide HCl
+FOR TOPICAL APPLICATION IN THE EYE
 
-Ophthalmic
-
-Solution, 2%*
-
-Dorzolamide Equivalent
-
-(Dorzolamide hydrochloride USP
-
-22.3 mg/mL)
-
-(Sterile)
-
-10 mL
-
-Rx only
+Rx only 10 mL BAUSCH + LOMB
