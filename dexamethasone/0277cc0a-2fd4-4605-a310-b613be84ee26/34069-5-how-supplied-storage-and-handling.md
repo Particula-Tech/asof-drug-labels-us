@@ -1,6 +1,8 @@
 # HOW SUPPLIED
 
-Dexamethasone Sodium Phosphate Injection, USP is available in the following package:
+Dexamethasone Sodium Phosphate Injection, USP is available in the following packages:
+
+4 mg/mL 1 mL vials packaged in 25s (NDC 0641-6145-25) 5 mL vials packaged in 25s (NDC 0641-6146-25)
 
 10 mg/mL 1 mL vials packaged in 25s (NDC 0641-0367-25)
 
@@ -12,6 +14,6 @@ Avoid freezing.
 Do not use if solution is hazy or has a precipitate.
 Do not autoclave.
 
-To report SUSPECTED ADVERSE REACTIONS, contact West-Ward Pharmaceutical Corp. at 1-877-845-0689, or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact West-Ward Pharmaceuticals Corp. at 1-877-845-0689, or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
 For Product Inquiry call 1-877-845-0689.

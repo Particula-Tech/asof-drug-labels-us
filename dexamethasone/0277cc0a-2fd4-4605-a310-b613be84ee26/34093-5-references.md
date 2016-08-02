@@ -27,8 +27,8 @@ Surg.
 
 Manufactured by:
 
-WEST-WARD PHARMACEUTICALS Eatontown, NJ 07724 USA
+WEST-WARD A HIKMA COMPANY Eatontown, NJ 07724 USA
 
-Revised September 2014
+Revised June 2016
 
-462-331-03
+462-331-04

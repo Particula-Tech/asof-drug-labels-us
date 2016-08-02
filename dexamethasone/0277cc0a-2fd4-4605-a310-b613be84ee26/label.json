@@ -1,12 +1,17 @@
 {
   "application_numbers": [
+    "ANDA084282",
     "ANDA087702"
   ],
   "inn": "dexamethasone",
-  "labeler": "West-Ward Pharmaceutical Corp.",
+  "labeler": "West-Ward Pharmaceuticals Corp.",
   "package_ndcs": [
     "0641-0367-21",
-    "0641-0367-25"
+    "0641-0367-25",
+    "0641-6145-01",
+    "0641-6145-25",
+    "0641-6146-01",
+    "0641-6146-25"
   ],
   "products": [
     {
