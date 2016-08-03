@@ -66,19 +66,16 @@ Children should use PROAIR HFA Inhalation Aerosol under adult supervision, as in
 
 See tear-off illustrated Information for the Patient leaflet.
 
-Mktd by: Teva Respiratory, LLC Horsham, PA 19044
-
-Mfd by: IVAX Pharmaceuticals Ireland Waterford, Ireland
+1. Mktd by: Teva Respiratory, LLC Frazer, PA 19355
+2. Mfd by: IVAX Pharmaceuticals Ireland Waterford, Ireland
 
 Copyright ©2012, Teva Respiratory, LLC
 
 All rights reserved.
 
-PROAIR® is a registered trademark of Teva Respiratory, LLC
+PROAIR® is a registered trademark of Teva Respiratory, LLC The color red as used on the ProAir® HFA inhaler is a registered trademark of Teva Respiratory, LLC
 
-Manufactured In Ireland
-
-PE 2557 05/12
+Manufactured In Ireland PE 3378 06/2016
 
 Attention Pharmacist:
 

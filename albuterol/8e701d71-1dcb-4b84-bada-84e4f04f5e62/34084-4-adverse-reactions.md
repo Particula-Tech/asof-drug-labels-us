@@ -2,10 +2,10 @@
 
 Use of PROAIR HFA may be associated with the following:
 
-- Paradoxical bronchospasm [see Warnings and Precautions (5.1)]
-- Cardiovascular Effects [see Warnings and Precautions (5.4)]
-- Immediate hypersensitivity reactions [see Warnings and Precautions (5.6)]
-- Hypokalemia [see Warnings and Precautions (5.8)]
+- •Paradoxical bronchospasm [see Warnings and Precautions (5.1)]
+- •Cardiovascular Effects [see Warnings and Precautions (5.4)]
+- •Immediate hypersensitivity reactions [see Warnings and Precautions (5.6)]
+- •Hypokalemia [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 

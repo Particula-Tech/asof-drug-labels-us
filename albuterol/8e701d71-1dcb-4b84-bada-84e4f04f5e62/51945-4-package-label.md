@@ -1,12 +1,30 @@
-PRINCIPAL DISPLAY PANEL - Inhaler Carton
+# Package/Label Display Panel, Part 1 of 2
+
+# Package/Label Display Panel, Part 2 of 2
+
+## ProAir® HFA (albuterol sulfate) Inhalation Aerosol 90 mcg per Actuation, 200 Metered Inhalations Carton Text
 
 NDC 59310-579-22
 
-PROAIR® HFA (albuterol sulfate) Inhalation Aerosol 90 mcg per actuation
+PROAIR® HFA
 
-With Dose Counter
+(albuterol sulfate)
 
-For Oral Inhalation with ProAir® HFA Actuator Only
+Inhalation Aerosol
+
+90 mcg per actuation
+
+With Dose
+
+Counter
+
+For Oral
+
+Inhalation with
+
+ProAir® HFA
+
+Actuator Only
 
 Rx only
 
