@@ -18,7 +18,7 @@ The safety and effectiveness of MERREM I.V. have been established for pediatric 
 
 Skin and Skin Structure Infections
 
-Use of MERREM I.V. in pediatric patients 3 months of age and older with complicated skin and skin structure infections is supported by evidence from an adequate and well-controlled study in adults and additional data from pediatric pharmacokinetics studies [see Indications and Usage (1.3),Dosage and Administration (2.3), Adverse Reactions (6.1), Clinical Pharmacology (12.3)andClinical Studies (14.1)].
+Use of MERREM I.V. in pediatric patients 3 months of age and older with complicated skin and skin structure infections is supported by evidence from an adequate and well-controlled study in adults and additional data from pediatric pharmacokinetics studies [see Indications and Usage (1.3), Dosage and Administration (2.3), Adverse Reactions (6.1), Clinical Pharmacology (12.3)andClinical Studies (14.1)].
 
 Intra-abdominal Infections
 

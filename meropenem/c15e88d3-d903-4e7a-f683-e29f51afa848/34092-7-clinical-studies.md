@@ -15,7 +15,7 @@ The following table provides the results for the overall as well as subgroup com
 
 | Success RatePercent of satisfactory clinical response at follow-up evaluation. |  |  |
 | --- | --- | --- |
-| Population | MERREM I.V. nn=number of patients with satisfactory response.N=number of patients in the clinically evaluable population or respective subgroup within treatment groups. (%) | Imipenem-cilastatin n (%) |
+| Population | MERREM I.V. nn=number of patients with satisfactory response./NN=number of patients in the clinically evaluable population or respective subgroup within treatment groups. (%) | Imipenem-cilastatin n/N (%) |
 | Total | 225/261 (86) | 238/287 (83) |
 | Diabetes mellitus | 83/97 (86) | 76/105 (72) |
 | No diabetes mellitus | 142/164 (87) | 162/182 (89) |

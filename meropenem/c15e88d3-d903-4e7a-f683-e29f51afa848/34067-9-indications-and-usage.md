@@ -6,7 +6,7 @@ In the absence of such data, local epidemiology and susceptibility patterns may 
 
 MERREM I.V. is useful as presumptive therapy in the indicated condition (e.g., intra-abdominal infections) prior to the identification of the causative organisms because of its broad spectrum of bactericidal activity.
 
-For information regarding use in pediatric patients [seeIndications and Usage (1.1), (1.2), (1.3), Dosage and Administration (2.3), Adverse Reactions (6.1), andClinical Pharmacology (12.3)].
+For information regarding use in pediatric patients [see Indications and Usage (1.1), (1.2), (1.3), Dosage and Administration (2.3), Adverse Reactions (6.1), and Clinical Pharmacology (12.3)].
 
 ## 1.1 Skin and Skin Structure Infections (Adult Patients and Pediatric Patients 3 Months of Age and Older Only)
 

@@ -63,7 +63,7 @@ While MERREM I.V. possesses the characteristic low toxicity of the beta-lactam g
 
 ## 5.8 Patients with Renal Impairment
 
-In patients with renal impairment, thrombocytopenia has been observed but no clinical bleeding reported [see Dosage and Administration (2.2), Adverse Reactions (6.1), Use In Specific Populations (8.5) and (8.6), and Clinical Pharmacology (12.3)].
+In patients with renal impairment, thrombocytopenia has been observed but no clinical bleeding reported [see Dosage and Administration (2.2), Adverse Reactions (6.1), Use in Specific Populations (8.5) and (8.6), and Clinical Pharmacology (12.3)].
 
 ## 5.9 Dialysis
 

@@ -69,7 +69,7 @@ Specific Populations
 Renal Impairment
 
 Pharmacokinetic studies with MERREM I.V. in patients with renal impairment have shown that the plasma clearance of meropenem correlates with creatinine clearance.
-Dosage adjustments are necessary in subjects with renal impairment (creatinine clearance 50 mL/min or less) [see Dosage and Administration (2.2) andUse In Specific Populations (8.6)].
+Dosage adjustments are necessary in subjects with renal impairment (creatinine clearance 50 mL/min or less) [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
 
 Meropenem I.V. is hemodialyzable.
 However, there is no information on the usefulness of hemodialysis to treat overdosage [see Overdosage (10)].
@@ -183,13 +183,59 @@ Staphylococcus epidermidis (methicillin-susceptible isolates only)
 
 Gram-negative bacteria
 
-| Aeromonas hydrophilaCampylobacter jejuni Citrobacter koseri (formerly diversus)Citrobacter freundiiEnterobacter cloacaeHafnia alveiKlebsiella oxytocaMoraxella catarrhalisMorganella morganiiPasteurella multocidaProteus vulgarisSerratia marcescens |  |
-| --- | --- |
+Aeromonas hydrophila
+
+Campylobacter jejuni
+
+Citrobacter koseri (formerly diversus)
+
+Citrobacter freundii
+
+Enterobacter cloacae
+
+Hafnia alvei
+
+Klebsiella oxytoca
+
+Moraxella catarrhalis
+
+Morganella morganii
+
+Pasteurella multocida
+
+Proteus vulgaris
+
+1. Serratia marcescens
 
 Anaerobic bacteria
 
-| Bacteroides distasonisBacteroides ovatusBacteroides uniformisBacteroides ureolyticusBacteroides vulgatusClostridium difficileClostridium perfringensEubacterium lentumFusobacterium speciesPrevotella biviaPrevotella intermediaPrevotella melaninogenicaPorphyromonas asaccharolyticaPropionibacterium acnes |  |
-| --- | --- |
+Bacteroides distasonis
+
+Bacteroides ovatus
+
+Bacteroides uniformis
+
+Bacteroides ureolyticus
+
+Bacteroides vulgatus
+
+Clostridium difficile
+
+Clostridium perfringens
+
+Eubacterium lentum
+
+Fusobacterium species
+
+Prevotella bivia
+
+Prevotella intermedia
+
+Prevotella melaninogenica
+
+Porphyromonas asaccharolytica
+
+1. Propionibacterium acnes
 
 Susceptibility Test Methods
 
