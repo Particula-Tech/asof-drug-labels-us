@@ -2,40 +2,62 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects: Pregnancy Category C. There are no adequate and well-controlled trials with FLOVENT HFA in pregnant women.
-Corticosteroids have been shown to be teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
-Because animal reproduction studies are not always predictive of human response, FLOVENT HFA should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-Women should be advised to contact their physicians if they become pregnant while taking FLOVENT HFA.
+Risk Summary
 
-Mice and rats at fluticasone propionate doses approximately 0.1 and 0.5 times, respectively, the maximum recommended human daily inhalation dose (MRHDID) for adults (on a mg/m2 basis at maternal subcutaneous doses of 45 and 100 mcg/kg/day, respectively) showed fetal toxicity characteristic of potent corticosteroid compounds, including embryonic growth retardation, omphalocele, cleft palate, and retarded cranial ossification.
-No teratogenicity was seen in rats at doses up to 0.3 times the MRHDID (on a mcg/m2 basis at maternal inhaled doses up to 68.7 mcg/kg/day).
+There are no randomized clinical studies of FLOVENT HFA in pregnant women.
+There are clinical considerations with the use of FLOVENT HFA in pregnant women [see Clinical Considerations].
+In animals, teratogenicity characteristic of corticosteroids, decreased fetal body weight, and/or skeletal variations in rats, mice, and rabbits were observed with subcutaneously administered maternal toxic doses of fluticasone propionate less than the maximum recommended human daily inhaled dose (MRHDID) on a mg/m2 basis [see Animal Data].
+However, fluticasone propionate administered via inhalation to rats decreased fetal body weight, but did not induce teratogenicity at a maternal toxic dose approximately 0.5 times the MRHDID on a mg/m2 basis [see Animal Data].
+Experience with oral corticosteroids suggests that rodents are more prone to teratogenic effects from corticosteroids than humans.
 
-In rabbits, fetal weight reduction and cleft palate were observed at a fluticasone propionate dose approximately 0.04 times the MRHDID for adults (on a mg/m2 basis at a maternal subcutaneous dose of 4 mcg/kg/day).
-However, no teratogenic effects were reported at fluticasone propionate doses up to approximately 3 times the MRHDID for adults (on a mg/m2 basis at a maternal oral dose up to 300 mcg/kg/day).
-No fluticasone propionate was detected in the plasma in this study, consistent with the established low bioavailability following oral administration [see Clinical Pharmacology (12.3)].
+The estimated risk of major birth defects and miscarriage for the indicated population is unknown.
+In the U.S. general population, the estimated risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+Clinical Considerations
+
+Disease-Associated Maternal and/or Embryofetal Risk: In women with poorly or moderately controlled asthma, there is an increased risk of several perinatal adverse outcomes such as pre-eclampsia in the mother and prematurity, low birth weight, and small for gestational age in the neonate.
+Pregnant women with asthma should be closely monitored and medication adjusted as necessary to maintain optimal asthma control.
+
+Data
+
+Animal Data: In embryofetal development studies with pregnant rats and mice dosed by the subcutaneous route throughout the period of organogenesis, fluticasone propionate was teratogenic in both species.
+Omphalocele, decreased body weight, and skeletal variations were observed in rat fetuses, in the presence of maternal toxicity, at a dose approximately 0.5 times the MRHDID (on a mg/m2 basis with a maternal subcutaneous dose of 100 mcg/kg/day).
+The rat no observed adverse effect level (NOAEL) was observed at approximately 0.17 times the MRHDID (on a mg/m2 basis with a maternal subcutaneous dose of 30 mcg/kg/day).
+Cleft palate and fetal skeletal variations were observed in mouse fetuses at a dose approximately 0.1 times the MRHDID (on a mg/m2 basis with a maternal subcutaneous dose of 45 mcg/kg/day).
+The mouse NOAEL was observed with a dose approximately 0.04 times the MRHDID (on a mg/m2 basis with a maternal subcutaneous dose of 15 mcg/kg/day).
+
+In an embryofetal development study with pregnant rats dosed by the inhalation route throughout the period of organogenesis, fluticasone propionate produced decreased fetal body weights and skeletal variations, in the presence of maternal toxicity, at a dose approximately 0.5 times the MRHDID (on a mg/m2 basis with a maternal inhalation dose of 91 mcg/kg/day); however, there was no evidence of teratogenicity.
+The NOAEL was observed with a dose approximately 0.13 times the MRHDID (on a mg/m2 basis with a maternal inhalation dose of 23 mcg/kg/day).
+
+In an embryofetal development study in pregnant rabbits that were dosed by the subcutaneous route throughout organogenesis, fluticasone propionate produced reductions of fetal body weights, in the presence of maternal toxicity, at doses approximately 0.006 times the MRHDID and higher (on a mg/m2 basis with a maternal subcutaneous dose of 0.57 mcg/kg/day).
+Teratogenicity was evident based upon a finding of cleft palate for 1 fetus at dose approximately 0.04 times the MRHDID (on a mg/m2 basis with a maternal subcutaneous dose of 4 mcg/kg/day).
+The NOAEL was observed in rabbit fetuses with a dose approximately 0.001 times the MRHDID (on a mg/m2 basis with a maternal subcutaneous dose of 0.08 mcg/kg/day).
 
 Fluticasone propionate crossed the placenta following subcutaneous administration to mice and rats and oral administration to rabbits.
 
-Experience with oral corticosteroids since their introduction in pharmacologic, as opposed to physiologic, doses suggests that rodents are more prone to teratogenic effects from corticosteroids than humans.
-In addition, because there is a natural increase in corticosteroid production during pregnancy, most women will require a lower exogenous corticosteroid dose and many will not need corticosteroid treatment during pregnancy.
+In a pre- and post-natal development study in pregnant rats dosed from late gestation through delivery and lactation (Gestation Day 17 to Postpartum Day 22), fluticasone propionate was not associated with decreases in pup body weight, and had no effects on developmental landmarks, learning, memory, reflexes, or fertility at doses up to 0.3 times the MRHDID (on a mg/m2 basis with maternal subcutaneous doses up to 50 mcg/kg/day).
 
-Nonteratogenic Effects: Hypoadrenalism may occur in infants born of mothers receiving corticosteroids during pregnancy.
-Such infants should be carefully monitored.
+## 8.2 Lactation
 
-## 8.3 Nursing Mothers
+Risk Summary
 
-It is not known whether fluticasone propionate is excreted in human breast milk.
-However, other corticosteroids have been detected in human milk.
-Subcutaneous administration to lactating rats of tritiated fluticasone propionate at a dose approximately 0.05 times the MRHDID in adults on a mg/m2 basis resulted in measurable radioactivity in milk.
+There are no available data on the presence of fluticasone propionate in human milk, the effects on the breastfed child, or the effects on milk production.
+Other corticosteroids have been detected in human milk.
+However, fluticasone propionate concentrations in plasma after inhaled therapeutic doses are low and therefore concentrations in human breast milk are likely to be correspondingly low [see Clinical Pharmacology (12.3)].
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for FLOVENT HFA and any potential adverse effects on the breastfed child from FLOVENT HFA or from the underlying maternal condition.
 
-Since there are no data from controlled trials on the use of FLOVENT HFA by nursing mothers, caution should be exercised when FLOVENT HFA is administered to a nursing woman.
+Data
+
+Animal Data: Subcutaneous administration of tritiated fluticasone propionate at a dose in lactating rats approximately 0.05 times the MRHDID for adults (on a mg/m2 basis) resulted in measurable levels in milk.
 
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of FLOVENT HFA in children aged 4 years and older have been established [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.2)].The safety and effectiveness of FLOVENT HFA in children younger than 4 years have not been established.
 Use of FLOVENT HFA in patients aged 4 to 11 years is supported by evidence from adequate and well-controlled trials in adults and adolescents aged 12 years and older, pharmacokinetic trials in patients aged 4 to 11 years, established efficacy of fluticasone propionate formulated as FLOVENT® DISKUS® (fluticasone propionate inhalation powder) and FLOVENT® ROTADISK® (fluticasone propionate inhalation powder) in patients aged 4 to 11 years, and supportive findings with FLOVENT HFA in a trial conducted in subjects aged 4 to 11 years.
 
-Effects on Growth: Orally inhaled corticosteroids may cause a reduction in growth velocity when administered to pediatric patients.
+Effects on Growth
+
+Orally inhaled corticosteroids may cause a reduction in growth velocity when administered to pediatric patients.
 A reduction of growth velocity in children or teenagers may occur as a result of poorly controlled asthma or from use of corticosteroids including inhaled corticosteroids.
 The effects of long-term treatment of children and adolescents with inhaled corticosteroids, including fluticasone propionate, on final adult height are not known.
 
@@ -51,14 +73,16 @@ To minimize the systemic effects of orally inhaled corticosteroids, including FL
 
 Since a cross trial comparison in adult and adolescent subjects (aged 12 years and older) indicated that systemic exposure of inhaled fluticasone propionate from FLOVENT HFA would be higher than exposure from FLOVENT ROTADISK, results from a trial to assess the potential growth effects of FLOVENT ROTADISK in pediatric subjects (aged 4 to 11 years) are provided.
 
-A 52-week placebo-controlled trial to assess the potential growth effects of fluticasone propionate inhalation powder (FLOVENT ROTADISK) at 50 and 100 mcg twice daily was conducted in the US in 325 prepubescent children (244 males and 81 females) aged 4 to 11 years.
+A 52-week placebo-controlled trial to assess the potential growth effects of fluticasone propionate inhalation powder (FLOVENT ROTADISK) at 50 and 100 mcg twice daily was conducted in the U.S. in 325 prepubescent children (244 males and 81 females) aged 4 to 11 years.
 The mean growth velocities at 52 weeks observed in the intent-to-treat population were 6.32 cm/year in the placebo group (n = 76), 6.07 cm/year in the 50-mcg group (n = 98), and 5.66 cm/year in the 100-mcg group (n = 89).
 An imbalance in the proportion of children entering puberty between groups and a higher dropout rate in the placebo group due to poorly controlled asthma may be confounding factors in interpreting these data.
 A separate subset analysis of children who remained prepubertal during the trial revealed growth rates at 52 weeks of 6.10 cm/year in the placebo group (n = 57), 5.91 cm/year in the 50-mcg group (n = 74), and 5.67 cm/year in the 100-mcg group (n = 79).
 In children aged 8.5 years, the mean age of children in this trial, the range for expected growth velocity is: boys – 3rd percentile = 3.8 cm/year, 50th percentile = 5.4 cm/year, and 97th percentile = 7.0 cm/year; girls – 3rd percentile = 4.2 cm/year, 50th percentile = 5.7 cm/year, and 97th percentile = 7.3 cm/year.
 The clinical relevance of these growth data is not certain.
 
-Children Younger than 4 Years: Pharmacokinetics: [see Clinical Pharmacology (12.3)].
+Children Younger than 4 Years
+
+Pharmacokinetics:[see Clinical Pharmacology (12.3)].
 
 Pharmacodynamics: A 12-week, double-blind, placebo-controlled, parallel-group trial was conducted in children with asthma aged 1 to younger than 4 years.
 Twelve-hour overnight urinary cortisol excretion after a 12-week treatment period with 88 mcg of FLOVENT HFA twice daily (n = 73) and with placebo (n = 42) were calculated.
@@ -95,14 +119,13 @@ In Vitro Medication Delivery through AeroChamber Plus® Valved Holding Chamber w
 | 2 to 5 Years | Medium | 8.0 | 02510 | 7.87.78.19.0 | 12.3-18.0 | 0.4-0.60.4-0.60.5-0.70.5-0.7 |
 | >5 Years | Medium | 12.0 | 02510 | 12.311.812.010.1 | 18.0 | 0.70.70.70.6 |
 
-a Centers for Disease Control growth charts, developed by the National Center for Health Statistics in collaboration with the National Center for Chronic Disease Prevention and Health Promotion (2000).
-Ranges correspond to the average of the 50th percentile weight for boys and girls at the ages indicated.
-
-b A single inhalation of FLOVENT HFA in a 70-kg adult without use of a valved holding chamber and mask delivers approximately 44 mcg, or 0.6 mcg/kg.
+1. a Centers for Disease Control growth charts, developed by the National Center for Health Statistics in collaboration with the National Center for Chronic Disease Prevention and Health Promotion (2000).
+   Ranges correspond to the average of the 50 th percentile weight for boys and girls at the ages indicated.
+2. b A single inhalation of FLOVENT HFA in a 70-kg adult without use of a valved holding chamber and mask delivers approximately 44 mcg, or 0.6 mcg/kg.
 
 ## 8.5 Geriatric Use
 
-Of the total number of subjects treated with FLOVENT HFA in US and non-US clinical trials, 173 were aged 65 years or older, 19 of which were 75 years or older.
+Of the total number of subjects treated with FLOVENT HFA in U.S. and non-U.S. clinical trials, 173 were aged 65 years or older, 19 of which were 75 years or older.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger subjects, but greater sensitivity of some older individuals cannot be ruled out.
 
 ## 8.6 Hepatic Impairment

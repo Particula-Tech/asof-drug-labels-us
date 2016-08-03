@@ -27,8 +27,8 @@ Made in UK
 
 ©2015, the GSK group of companies
 
-62000000003138 Rev.
-2/15
+1. 62000000003138 Rev.
+   2/15
 
 PRINCIPAL DISPLAY PANEL
 
@@ -59,8 +59,8 @@ Made in Singapore
 
 ©2015, the GSK group of companies
 
-62000000003142 Rev.
-2/15
+1. 62000000003142 Rev.
+   2/15
 
 PRINCIPAL DISPLAY PANEL
 
@@ -91,5 +91,5 @@ Made in Singapore
 
 ©2015, the GSK group of companies
 
-62000000003146 Rev.
-2/15
+1. 62000000003146 Rev.
+   2/15

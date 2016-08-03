@@ -35,25 +35,35 @@ At week 16, 8 subjects (73%) on placebo compared with 14 (54%) and 13 (68%) subj
 
 ## 12.3 Pharmacokinetics
 
-Absorption: Fluticasone propionate acts locally in the lung; therefore, plasma levels do not predict therapeutic effect.
+Absorption
+
+Fluticasone propionate acts locally in the lung; therefore, plasma levels do not predict therapeutic effect.
 Trials using oral dosing of labeled and unlabeled drug have demonstrated that the oral systemic bioavailability of fluticasone propionate is negligible (less than 1%), primarily due to incomplete absorption and presystemic metabolism in the gut and liver.
 In contrast, the majority of the fluticasone propionate delivered to the lung is systemically absorbed.
 
-Distribution: Following intravenous administration, the initial disposition phase for fluticasone propionate was rapid and consistent with its high lipid solubility and tissue binding.
+Distribution
+
+Following intravenous administration, the initial disposition phase for fluticasone propionate was rapid and consistent with its high lipid solubility and tissue binding.
 The volume of distribution averaged 4.2 L/kg.
 
 The percentage of fluticasone propionate bound to human plasma proteins averages 99%.
 Fluticasone propionate is weakly and reversibly bound to erythrocytes and is not significantly bound to human transcortin.
 
-Metabolism: The total clearance of fluticasone propionate is high (average, 1,093 mL/min), with renal clearance accounting for less than 0.02% of the total.
+Metabolism
+
+The total clearance of fluticasone propionate is high (average, 1,093 mL/min), with renal clearance accounting for less than 0.02% of the total.
 The only circulating metabolite detected in man is the 17β-carboxylic acid derivative of fluticasone propionate, which is formed through the CYP3A4 pathway.
 This metabolite had less affinity (approximately 1/2,000) than the parent drug for the glucocorticoid receptor of human lung cytosol in vitro and negligible pharmacological activity in animal studies.
 Other metabolites detected in vitro using cultured human hepatoma cells have not been detected in man.
 
-Elimination: Following intravenous dosing, fluticasone propionate showed polyexponential kinetics and had a terminal elimination half-life of approximately 7.8 hours.
+Elimination
+
+Following intravenous dosing, fluticasone propionate showed polyexponential kinetics and had a terminal elimination half-life of approximately 7.8 hours.
 Less than 5% of a radiolabeled oral dose was excreted in the urine as metabolites, with the remainder excreted in the feces as parent drug and metabolites.
 
-Special Populations: Gender: No significant difference in clearance (CL/F) of fluticasone propionate was observed.
+Special Populations
+
+Gender: No significant difference in clearance (CL/F) of fluticasone propionate was observed.
 
 Pediatrics: A population pharmacokinetic analysis was performed for FLOVENT HFA using steady-state data from 4 controlled clinical trials and single-dose data from 1 controlled clinical trial.
 The combined cohort for analysis included 269 subjects (161 males and 108 females) with asthma aged 6 months to 66 years who received treatment with FLOVENT HFA.
@@ -96,7 +106,9 @@ Therefore, patients with hepatic disease should be closely monitored.
 
 Race: No significant difference in clearance (CL/F) of fluticasone propionate in Caucasian, African-American, Asian, or Hispanic populations was observed.
 
-Drug Interactions: Inhibitors of Cytochrome P450 3A4: Ritonavir: Fluticasone propionate is a substrate of CYP3A4.
+Drug Interactions
+
+Inhibitors of Cytochrome P450 3A4: Ritonavir: Fluticasone propionate is a substrate of CYP3A4.
 Coadministration of fluticasone propionate and the strong CYP3A4 inhibitor ritonavir is not recommended based upon a multiple-dose, crossover drug interaction trial in 18 healthy subjects.
 Fluticasone propionate aqueous nasal spray (200 mcg once daily) was coadministered for 7 days with ritonavir (100 mg twice daily).
 Plasma fluticasone propionate concentrations following fluticasone propionate aqueous nasal spray alone were undetectable (less than 10 pg/mL) in most subjects, and when concentrations were detectable, peak levels (Cmax) averaged 11.9 pg/mL (range: 10.8 to 14.1 pg/mL) and AUC(0-τ) averaged 8.43 pg•h/mL (range: 4.2 to 18.8 pg•h/mL).
