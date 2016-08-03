@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA061837"
+  ],
+  "inn": "tetracycline",
+  "labeler": "Actavis Pharma, Inc.",
+  "package_ndcs": [
+    "0591-2474-01",
+    "0591-2474-10",
+    "0591-2475-01",
+    "0591-2475-10"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "tetracycline hydrochloride",
+      "name": "Tetracycline Hydrochloride"
+    }
+  ],
+  "setid": "32a409a0-fea6-411a-8218-c1c7df46d664",
+  "source": "dailymed"
+}
