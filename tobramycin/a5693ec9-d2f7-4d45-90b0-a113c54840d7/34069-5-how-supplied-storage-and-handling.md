@@ -1,26 +1,22 @@
-# HOW SUPPLIED:
+# HOW SUPPLIED
 
-Tobramycin Ophthalmic Solution USP, 0.3% is supplied in a plastic bottle with a controlled drop tip in the following size:
+Tobramycin Ophthalmic Solution USP, 0.3% is supplied in a plastic bottle with a controlled drop tip and a tan polypropylene cap in the following size:
 
-10 mL bottle (5 mL fill) NDC 24208-290-05
+NDC 24208-290-05-10 mL bottle (5 mL fill)
 
-Storage:
+Storage
 
 Store at 2°-25°C (36°-77°F).
 Avoid excessive heat.
 
 KEEP OUT OF REACH OF CHILDREN.
 
-Revised August 2015
+Revised July 2016
 
 Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 08807 USA
 
-Bausch & Lomb Incorporated
-
-Tampa, FL 33637
-
 ©Bausch & Lomb Incorporated
 
-9116802(folded)
+9116803 (folded)
 
-9116902 (flat)
+9116903 (flat)
