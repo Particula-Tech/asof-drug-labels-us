@@ -17,7 +17,7 @@ Because of the potential for serious adverse reactions from LEVAQUIN® in nursin
 ## 8.4 Pediatric Use
 
 Quinolones, including levofloxacin, cause arthropathy and osteochondrosis in juvenile animals of several species.
-[see Warnings and Precautions (5.10) and Animal Toxicology and/or Pharmacology (13.2)].
+[see Warnings and Precautions (5.11) and Animal Toxicology and/or Pharmacology (13.2)].
 
 Pharmacokinetics following intravenous administration
 
@@ -28,14 +28,14 @@ Inhalational Anthrax (Post-Exposure)
 
 Levofloxacin is indicated in pediatric patients 6 months of age and older, for inhalational anthrax (post-exposure).
 The risk-benefit assessment indicates that administration of levofloxacin to pediatric patients is appropriate.
-The safety of levofloxacin in pediatric patients treated for more than 14 days has not been studied [see Indications and Usage (1.13), Dosage and Administration (2.2) and Clinical Studies (14.9)].
+The safety of levofloxacin in pediatric patients treated for more than 14 days has not been studied [see Indications and Usage (1.7), Dosage and Administration (2.2) and Clinical Studies (14.9)].
 
 Plague
 
 Levofloxacin is indicated in pediatric patients, 6 months of age and older, for treatment of plague, including pneumonic and septicemic plague due to Yersinia pestis (Y. pestis) and prophylaxis for plague.
 Efficacy studies of LEVAQUIN® could not be conducted in humans with pneumonic plague for ethical and feasibility reasons.
 Therefore, approval of this indication was based on an efficacy study conducted in animals.
-The risk-benefit assessment indicates that administration of levofloxacin to pediatric patients is appropriate [see Indications and Usage (1.14), Dosage and Administration (2.2) and Clinical Studies (14.10)].
+The risk-benefit assessment indicates that administration of levofloxacin to pediatric patients is appropriate [see Indications and Usage (1.8), Dosage and Administration (2.2) and Clinical Studies (14.10)].
 
 Safety and effectiveness in pediatric patients below the age of six months have not been established.
 
@@ -70,7 +70,7 @@ Geriatric patients are at increased risk for developing severe tendon disorders 
 This risk is further increased in patients receiving concomitant corticosteroid therapy.
 Tendinitis or tendon rupture can involve the Achilles, hand, shoulder, or other tendon sites and can occur during or after completion of therapy; cases occurring up to several months after fluoroquinolone treatment have been reported.
 Caution should be used when prescribing LEVAQUIN® to elderly patients especially those on corticosteroids.
-Patients should be informed of this potential side effect and advised to discontinue LEVAQUIN® and contact their healthcare provider if any symptoms of tendinitis or tendon rupture occur [see Boxed Warning; Warnings and Precautions (5.1); and Adverse Reactions (6.3)].
+Patients should be informed of this potential side effect and advised to discontinue LEVAQUIN® and contact their healthcare provider if any symptoms of tendinitis or tendon rupture occur [see Boxed Warning; Warnings and Precautions (5.2); and Adverse Reactions (6.3)].
 
 In Phase 3 clinical trials, 1,945 LEVAQUIN®-treated patients (26%) were ≥ 65 years of age.
 Of these, 1,081 patients (14%) were between the ages of 65 and 74 and 864 patients (12%) were 75 years or older.
@@ -78,10 +78,10 @@ No overall differences in safety or effectiveness were observed between these su
 
 Severe, and sometimes fatal, cases of hepatotoxicity have been reported post-marketing in association with LEVAQUIN®.
 The majority of fatal hepatotoxicity reports occurred in patients 65 years of age or older and most were not associated with hypersensitivity.
-LEVAQUIN® should be discontinued immediately if the patient develops signs and symptoms of hepatitis [see Warnings and Precautions (5.5)].
+LEVAQUIN® should be discontinued immediately if the patient develops signs and symptoms of hepatitis [see Warnings and Precautions (5.8)].
 
 Elderly patients may be more susceptible to drug-associated effects on the QT interval.
-Therefore, precaution should be taken when using LEVAQUIN® with concomitant drugs that can result in prolongation of the QT interval (e.g., Class IA or Class III antiarrhythmics) or in patients with risk factors for torsade de pointes (e.g., known QT prolongation, uncorrected hypokalemia) [see Warnings and Precautions (5.9)].
+Therefore, precaution should be taken when using LEVAQUIN® with concomitant drugs that can result in prolongation of the QT interval (e.g., Class IA or Class III antiarrhythmics) or in patients with risk factors for torsade de pointes (e.g., known QT prolongation, uncorrected hypokalemia) [see Warnings and Precautions (5.10)].
 
 The pharmacokinetic properties of levofloxacin in younger adults and elderly adults do not differ significantly when creatinine clearance is taken into consideration.
 However, since the drug is known to be substantially excreted by the kidney, the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
