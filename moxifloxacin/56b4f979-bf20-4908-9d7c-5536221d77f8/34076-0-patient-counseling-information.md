@@ -2,6 +2,39 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide)
 
+Serious Adverse Reactions
+
+Advise patients to stop taking AVELOX if they experience an adverse reaction and to call their healthcare provider for advice on completing the full course of treatment with another antibacterial drug.
+
+Inform patients of the following serious adverse reactions that have been associated with AVELOX or other fluoroquinolone use:
+
+- •Disabling and potentially irreversible serious adverse reactions that may occur together: Inform patients that disabling and potentially irreversible serious adverse reactions, including tendinitis and tendon rupture, peripheral neuropathies, and central nervous system effects, have been associated with use of AVELOX and may occur together in the same patient.
+  Inform patients to stop taking AVELOX immediately if they experience an adverse reaction and to call their healthcare provider.
+- •Tendinitis and Tendon Rupture: Instruct patients to contact their healthcare provider if they experience pain, swelling, or inflammation of a tendon, or weakness or inability to use one of their joints; rest and refrain from exercise; and discontinue AVELOX treatment.
+  Symptoms may be irreversible.
+  The risk of severe tendon disorder with fluoroquinolones is higher in older patients usually over 60 years of age, in patients taking corticosteroid drugs, and in patients with kidney, heart or lung transplants.
+- •Peripheral Neuropathies: Inform patients that peripheral neuropathies have been associated with AVELOX use, symptoms may occur soon after initiation of therapy and may be irreversible.
+  If symptoms of peripheral neuropathy including pain, burning, tingling, numbness and/or weakness develop, immediately discontinue AVELOX and tell them to contact their physician.
+- •Central nervous system effects (for example, convulsions, dizziness, lightheadedness, increased intracranial pressure): Inform patients that convulsions have been reported in patients receiving fluoroquinolones, including AVELOX.
+  Instruct patients to notify their physician before taking this drug if they have a history of convulsions.
+  Inform patients that they should know how they react to AVELOX before they operate an automobile or machinery or engage in other activities requiring mental alertness and coordination.
+  Instruct patients to notify their physician if persistent headache with or without blurred vision occurs.
+- •Exacerbation of Myasthenia Gravis: Instruct patients to inform their physician of any history of myasthenia gravis.
+  Instruct patients to notify their physician if they experience any symptoms of muscle weakness, including respiratory difficulties.
+- •Hypersensitivity Reactions: Inform patientsthat AVELOX can cause hypersensitivity reactions, even following a single dose, and to discontinue the drug at the first sign of a skin rash, hives or other skin reactions, a rapid heartbeat, difficulty in swallowing or breathing, any swelling suggesting angioedema (for example, swelling of the lips, tongue, face, tightness of the throat, hoarseness), or other symptoms of an allergic reaction.
+- •Hepatotoxicity: Inform patients that severe hepatotoxicity (including acute hepatitis and fatal events) has been reported in patients taking AVELOX.
+  Instruct patients to inform their physician if they experience any signs or symptoms of liver injury including: loss of appetite, nausea, vomiting, fever, weakness, tiredness, right upper quadrant tenderness, itching, yellowing of the skin and eyes, light colored bowel movements or dark colored urine.
+- •Diarrhea: Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
+  Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
+  If this occurs, instruct patients to contact their physician as soon as possible.
+- •Prolongation of the QT Interval: Instruct patients to inform their physician of any personal or family history of QT prolongation or proarrhythmic conditions such as hypokalemia, bradycardia, or recent myocardial ischemia; if they are taking any Class IA (quinidine, procainamide), or Class III (amiodarone, sotalol) antiarrhythmic agents.
+  Instruct patients to notify their physician if they have any symptoms of prolongation of the QT interval, including prolonged heart palpitations or a loss of consciousness.
+- •Photosensitivity/Phototoxicity: Inform patients that photosensitivity/phototoxicity has been reported in patients receiving fluoroquinolones.
+  Inform patients to minimize or avoid exposure to natural or artificial sunlight (tanning beds or UVA/B treatment) while taking quinolones.
+  If patients need to be outdoors while using quinolones, instruct them to wear loose-fitting clothes that protect skin from sun exposure and discuss other sun protection measures with their physician.
+  If a sunburn-like reaction or skin eruption occurs, instruct patients to contact their physician.
+- •Blood Glucose Disturbances: Inform the patients that if they are diabetic and are being treated with insulin or an oral hypoglycemic agent and a hypoglycemic reaction occurs, they should discontinue AVELOX and consult a physician.
+
 Antibacterial Resistance
 
 Inform patients that antibacterial drugs including AVELOX should only be used to treat bacterial infections.
@@ -15,37 +48,6 @@ Inform patients that AVELOX tablets may be taken with or without food.
 Advise patients drink fluids liberally.
 
 Inform patients that AVELOX tablets should be taken at least 4 hours before or 8 hours after multivitamins (containing iron or zinc), antacids (containing magnesium or aluminum), sucralfate, or didanosine buffered tablets for oral suspension or the pediatric powder for oral solution.
-
-Serious and Potentially Serious Adverse Reactions
-
-Inform patients about the following serious adverse reactions associated with AVELOX or other fluoroquinolones:
-
-- •Tendon Disorders: Instruct patients to contact their healthcare provider if they experience pain, swelling, or inflammation of a tendon, or weakness or inability to use one of their joints; rest and refrain from exercise; and discontinue AVELOX treatment.
-  The risk of severe tendon disorder with fluoroquinolones is higher in older patients usually over 60 years of age, in patients taking corticosteroid drugs, and in patients with kidney, heart or lung transplants.
-- •Exacerbation of Myasthenia Gravis: Instruct patients to inform their physician of any history of myasthenia gravis, as fluoroquinolones like AVELOX may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
-  Advise patients to seek medical care right away if they have any worsening muscle weakness or breathing problems.
-- •Prolongation of the QT interval: AVELOX may produce changes in the electrocardiogram (QTc interval prolongation).
-  AVELOX should be avoided in patients receiving Class IA (for example quinidine, procainamide) or Class III (for example amiodarone, sotalol) antiarrhythmic agents.
-  AVELOX may add to the QTc prolonging effects of other drugs such as cisapride, erythromycin, antipsychotics, and tricyclic antidepressants.
-  Instruct patients to inform their physician of any personal or family history of QTc prolongation or proarrhythmic conditions such as recent hypokalemia, significant bradycardia, and acute myocardial ischemia.
-  Advise patients to contact their physician if they experience palpitations or fainting spells while taking AVELOX.
-- •Hypersensitivity Reactions: Advise patients that AVELOX may be associated with hypersensitivity reactions, including anaphylactic reactions, even following a single dose and to discontinue AVELOX at the first sign of a skin rash or other signs of an allergic reaction.
-- •Convulsions: Inform the patients that convulsions have been reported in patients receiving fluoroquinolones, including AVELOX.
-  Patients should notify their physician before taking AVELOX if they have a history of this condition and if they are taking NSAIDs.
-- •Neurologic Adverse Effects (for example, dizziness, lightheadedness): Inform patients thatAVELOX may cause dizziness, lightheadedness and vision disorderstherefore, they should know how they react to this drug before they operate an automobile or machinery or engage in activities requiring mental alertness or coordination.
-- •Psychotic Reaction:Psychotic reactions sometimes resulting in self-injurious behavior have been reported in patients receiving fluoroquinolones.
-  Patients should notify their physician if they have a history of psychiatric illness before taking AVELOX.
-- •Peripheral Neuropathies: Inform patients that peripheral neuropathy has been associated with AVELOX use.
-  Symptoms may occur soon after initiation of therapy and may be irreversible.
-  Advise patients to discontinue AVELOX and seek medical care if symptoms of peripheral neuropathy including pain, burning, tingling, numbness, and/or weakness develop.
-- •Blood Glucose Disturbances: Inform the patients that if they are diabetic and are being treated with insulin or an oral hypoglycemic agent and a hypoglycemic reaction occurs, they should discontinue AVELOX and consult a physician.
-- •Photosensitivity/Phototoxicity: Inform patients that photosensitivity/phototoxicity has been reported in patients receiving fluoroquinolones, including AVELOX.
-  Patients should minimize or avoid exposure to natural or artificial sunlight (tanning beds or UVA/B treatment) while taking AVELOX.
-  If patients need to be outdoors while using AVELOX, they should wear loose-fitting clothes that protect skin from sun exposure and discuss other sun protection measures with their physician.
-  If a sunburn-like reaction or skin eruption occurs, patients should contact their physician.
-- •Diarrhea: Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
-  Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
-  If this occurs, patients should contact their physician as soon as possible.
 
 Plague Studies
 

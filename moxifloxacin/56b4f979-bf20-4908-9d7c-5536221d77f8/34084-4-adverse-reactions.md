@@ -2,17 +2,18 @@
 
 The following serious and otherwise important adverse reactions are discussed in greater detail in the warnings and precautions section of the label:
 
-- •Tendinopathy and Tendon Rupture [see Warnings and Precautions (5.1)]
-- •Exacerbation of Myasthenia Gravis [see Warnings and Precautions (5.2)]
-- •QT Prolongation [see Warnings and Precautions (5.3)]
-- •Hypersensitivity Reactions [see Warnings and Precautions (5.4)]
-- •Other Serious and Sometimes Fatal Reactions [see Warnings and Precautions (5.5)]
-- •Central Nervous System Effects [see Warnings and Precautions (5.6)]
-- •Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.7)]
-- •Peripheral Neuropathy that may be irreversible [see Warnings and Precautions (5.8)]
-- •Blood Glucose Disturbances [see Warnings and Precautions (5.10)]
-- •Photosensitivity/Phototoxicity [see Warnings and Precautions (5.11)]
-- •Development of Drug Resistant Bacteria [see Warnings and Precautions (5.12)]
+- •Disabling and Potentially Irreversible Serious Adverse Reactions Including Tendinitis and Tendon Rupture, Peripheral Neuropathy, and Central Nervous System Effects [see Warnings and Precautions (5.1)]
+- •Tendinitis and Tendon Rupture[see Warnings and Precautions (5.2)]
+- •Peripheral Neuropathy [see Warnings and Precautions (5.3)]
+- •Central Nervous System Effects [see Warnings and Precautions (5.4)]
+- •Exacerbation of Myasthenia Gravis [see Warnings and Precautions (5.5)]
+- •QT Prolongation [see Warnings and Precautions (5.6)]
+- •Other Serious and Sometimes Fatal Adverse Reactions [see Warnings and Precautions (5.7)]
+- •Hypersensitivity Reactions [see Warnings and Precautions (5.8)]
+- •Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.9)]
+- •Blood Glucose Disturbances [see Warnings and Precautions (5.11)]
+- •Photosensitivity/Phototoxicity [see Warnings and Precautions (5.12)]
+- •Development of Drug Resistant Bacteria [see Warnings and Precautions (5.13)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -160,17 +161,17 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Table 4: Postmarketing Reports of Adverse Drug Reactions
 
-| System Organ Class | Adverse Reaction |
+| System Organ Class | Adverse Reactions |
 | --- | --- |
-| Blood and Lymphatic System Disorders | AgranulocytosisPancytopenia[see Warnings and Precautions (5.5)] |
+| Blood and Lymphatic System Disorders | AgranulocytosisPancytopenia[see Warnings and Precautions (5.7)] |
 | Cardiac Disorders | Ventricular tachyarrhythmias (including in very rare cases cardiac arrest and torsade de pointes, and usually in patients with concurrent severe underlying proarrhythmic conditions) |
 | Ear and Labyrinth Disorders | Hearing impairment, including deafness(reversible in majority of cases) |
 | Eye Disorders | Vision loss (especially in the course of CNS reactions, transient in majority of cases) |
-| Hepatobiliary Disorders | Hepatitis (predominantly cholestatic)Hepatic failure (including fatal cases)Jaundice Acute hepatic necrosis [see Warnings and Precautions (5.5)] |
-| Immune System Disorders | Anaphylactic reactionAnaphylactic shock Angioedema (including laryngeal edema)[see Warnings and Precautions (5.4, 5.5)] |
-| Musculoskeletal and Connective Tissue Disorders | Tendon rupture [see Warnings and Precautions (5.1)] |
-| Nervous System Disorders | Altered coordinationAbnormal gait[see Warnings and Precautions (5.8)]Myasthenia gravis (exacerbation of)[see Warnings and Precautions (5.2)]Muscle weaknessPeripheral neuropathy (that may be irreversible), polyneuropathy[see Warnings and Precautions (5.8)] |
-| Psychiatric Disorders | Psychotic reaction (very rarely culminating in self-injurious behavior, such as suicidal ideation/thoughts or suicide attempts [see Warnings and Precautions (5.6)] |
-| Renal and Urinary Disorders | Interstitial nephritis [see Warnings and Precautions (5.5)] |
-| Respiratory, Thoracic and Mediastinal Disorders | Allergic pneumonitis[see Warnings and Precautions (5.5)] |
-| Skin and Subcutaneous Tissue Disorders | Photosensitivity/phototoxicity reaction[see Warnings and Precautions (5.10)]Stevens-Johnson syndromeToxic epidermal necrolysis[see Warnings and Precautions (5.5)] |
+| Hepatobiliary Disorders | Hepatitis (predominantly cholestatic)Hepatic failure (including fatal cases)Jaundice Acute hepatic necrosis [see Warnings and Precautions (5.7)] |
+| Immune System Disorders | Anaphylactic reactionAnaphylactic shock Angioedema (including laryngeal edema)[see Warnings and Precautions (5.7, 5.8)] |
+| Musculoskeletal and Connective Tissue Disorders | Tendon rupture [see Warnings and Precautions (5.2)] |
+| Nervous System Disorders | Altered coordinationAbnormal gait[see Warnings and Precautions (5.3)]Myasthenia gravis (exacerbation of)[see Warnings and Precautions (5.5)]Muscle weaknessPeripheral neuropathy (that may be irreversible), polyneuropathy[see Warnings and Precautions (5.3)] |
+| Psychiatric Disorders | Psychotic reaction (very rarely culminating in self-injurious behavior, such as suicidal ideation/thoughts or suicide attempts [see Warnings and Precautions (5.4)] |
+| Renal and Urinary Disorders | Interstitial nephritis [see Warnings and Precautions (5.7)] |
+| Respiratory, Thoracic and Mediastinal Disorders | Allergic pneumonitis[see Warnings and Precautions (5.7)] |
+| Skin and Subcutaneous Tissue Disorders | Photosensitivity/phototoxicity reaction[see Warnings and Precautions (5.12)]Stevens-Johnson syndromeToxic epidermal necrolysis[see Warnings and Precautions (5.7)] |

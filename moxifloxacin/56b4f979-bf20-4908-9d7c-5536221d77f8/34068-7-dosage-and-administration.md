@@ -7,25 +7,25 @@ The duration of therapy depends on the type of infection as described in Table 1
 
 Table 1: Dosage and Duration of Therapy in Adult Patients
 
-| Type of Infectiona |  | Dose Every 24 hours | Durationb (days) |
-| --- | --- | --- | --- |
-| Acute Bacterial Sinusitis (1.1) | 400 mg |  | 10 |
-| Acute Bacterial Exacerbation of Chronic Bronchitis (1.2) | 400 mg |  | 5 |
-| Community Acquired Pneumonia (1.3) | 400 mg |  | 7–14 |
-| Uncomplicated Skin andSkin Structure Infections (SSSI) (1.4) | 400 mg |  | 7 |
-| Complicated SSSI (1.5) | 400 mg |  | 7–21 |
-| Complicated Intra-Abdominal Infections (1.6) | 400 mg |  | 5–14 |
-| Plague (1.7)C | 400 mg |  | 10–14 |
+| Type of Infectiona | Dose Every 24 hours | Durationb (days) |
+| --- | --- | --- |
+| Community Acquired Pneumonia (1.1) | 400 mg | 7–14 |
+| Uncomplicated Skin and Skin Structure Infections (SSSI) (1.2) | 400 mg | 7 |
+| Complicated SSSI (1.3) | 400 mg | 7–21 |
+| Complicated Intra-Abdominal Infections (1.4) | 400 mg | 5–14 |
+| Plague (1.5)C | 400 mg | 10–14 |
+| Acute Bacterial Sinusitis (ABS) (1.6) | 400 mg | 10 |
+| Acute Bacterial Exacerbation of Chronic Bronchitis (ABECB) (1.7) | 400 mg | 5 |
 
-- a)Due to the designated pathogens [see Indications and Usage (1)].
-- b)Sequential therapy (intravenous to oral) may be instituted at the discretion of the physician
-- c)Drug administration should begin as soon as possible after suspected or confirmed exposure to Yersinia pestis.
+1. a)Due to the designated pathogens [see Indications and Usage (1)].
+2. b)Sequential therapy (intravenous to oral) may be instituted at the discretion of the physician
+3. c)Drug administration should begin as soon as possible after suspected or confirmed exposure to Yersinia pestis.
 
 ### Conversion of Intravenous to Oral Dosing in Adults
 
 Intravenous formulation is indicated when it offers a route of administration advantageous to the patient (for example, patient cannot tolerate an oral dosage form).
 When switching from intravenous to oral formulation, no dosage adjustment is necessary.
-Patients whose therapy is started with AVELOXInjection may be switched to AVELOX Tablets when clinically indicated at the discretion of the physician.
+Patients whose therapy is started with AVELOX Injection may be switched to AVELOX Tablets when clinically indicated at the discretion of the physician.
 
 ## 2.2 Important Administration Instructions
 
@@ -60,13 +60,13 @@ Compatible Intravenous Solutions: AVELOX Injection is compatible with the follow
 
 0.9% Sodium Chloride Injection, USP
 
-1Molar Sodium Chloride Injection
+1 Molar Sodium Chloride Injection
 
 5% Dextrose Injection, USP
 
 Sterile Water for Injection, USP
 
-10 % Dextrose for Injection, USP
+10% Dextrose for Injection, USP
 
 Lactated Ringer’s for Injection
 
@@ -76,6 +76,6 @@ Refer to complete directions that have been provided with the administration set
 
 To prepare AVELOX Injection premix in flexible containers:
 
-- 1.Close flow control clamp of administration set.
-- 2.Remove cover from port at bottom of container.
-- 3.Insert piercing pin from an appropriate transfer set (for example, one that does not require excessive force, such as ISO compatible administration set) into port with a gentle twisting motion until pin is firmly seated.
+1. Close flow control clamp of administration set.
+2. Remove cover from port at bottom of container.
+3. Insert piercing pin from an appropriate transfer set (for example, one that does not require excessive force, such as ISO compatible administration set) into port with a gentle twisting motion until pin is firmly seated.

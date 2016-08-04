@@ -10,8 +10,7 @@ AVELOX is a member of the fluoroquinolone class of antibacterial agents [see Mic
 
 A study of the skin response to ultraviolet (UVA and UVB) and visible radiation conducted in 32 healthy volunteers (8 per group) demonstrated that AVELOX does not show phototoxicity in comparison to placebo.
 The minimum erythematous dose (MED) was measured before and after treatment with AVELOX (200 mg or 400 mg once daily), lomefloxacin (400 mg once daily), or placebo.
-In this study, the MED measured for both doses of AVELOX were not significantly different from placebo, while lomefloxacin significantly lowered the MED.
-[See Warnings and Precautions (5.11).]
+In this study, the MED measured for both doses of AVELOX were not significantly different from placebo, while lomefloxacin significantly lowered the MED [see Warnings and Precautions (5.12)].
 
 ## 12.3 Pharmacokinetics
 
@@ -35,7 +34,7 @@ Table 5: Mean (± SD) Cmax and AUC values following single and multiple doses of
 | Healthy young male (n = 8) | 3.6 ± 0.5 | 48.2 ± 9 |  |
 | Healthy young female (n = 9) | 4.2 ± 0.5 | 49.3 ± 9.5 |  |
 
-- a)Range of means from different studies
+1. a)Range of means from different studies
 
 Table 6: Mean (± SD) Cmax and AUC values following single and multiple doses of 400 mg moxifloxacin given by 1-hour intravenous infusion
 
@@ -46,7 +45,7 @@ Table 6: Mean (± SD) Cmax and AUC values following single and multiple doses of
 | Patients (n = 118) |  |  |  |
 | Male (n = 64) | 4.4 ± 3.7 |  |  |
 | Female (n = 54) | 4.5 ± 2 |  |  |
-|  65 years (n = 58) | 4.6 ± 4.2 |  |  |
+| < 65 years (n = 58) | 4.6 ± 4.2 |  |  |
 | ≥ 65 years (n = 60) | 4.3 ± 1.3 |  |  |
 | Multiple Dose intravenous |  |  |  |
 | Healthy young male (n = 8) | 4.2 ± 0.8 | 38 ± 4.7 | 14.8 ± 2.2 |
@@ -54,11 +53,11 @@ Table 6: Mean (± SD) Cmax and AUC values following single and multiple doses of
 | Patientsb (n = 107) |  |  |  |
 | Male (n = 58) | 4.2 ± 2.6 |  |  |
 | Female (n = 49) | 4.6 ± 1.5 |  |  |
-| 65 years (n = 52) | 4.1 ± 1.4 |  |  |
+| <65 years (n = 52) | 4.1 ± 1.4 |  |  |
 | ≥65 years (n = 55) | 4.7 ± 2.7 |  |  |
 
-- a)Range of means from different studies
-- b)Expected Cmax (concentration obtained around the time of the end of the infusion)
+1. a)Range of means from different studies
+2. b)Expected Cmax (concentration obtained around the time of the end of the infusion)
 
 Plasma concentrations increase proportionately with dose up to the highest dose tested (1200 mg single oral dose).
 The mean (± SD) elimination half-life from plasma is 12 ± 1.3 hours; steady-state is achieved after at least three days with a 400 mg once daily regimen.
@@ -87,19 +86,19 @@ Table 7: Moxifloxacin Concentrations (mean ± SD) in Tissues and the Correspondi
 | Anterior Ethmoid Mucosa | 3 | 3.7 ± 1.1b | 8.8 ± 4.3 | 2.2 ± 0.6 |
 | Nasal Polyps | 4 | 3.7 ± 1.1b | 9.8 ± 4.5 | 2.6 ± 0.6 |
 | Skin, Musculoskeletal |  |  |  |  |
-| Blister Fluid | 5 | 3± 0.5c | 2.6 ± 0.9 | 0.9 ± 0.2 |
+| Blister Fluid | 5 | 3 ± 0.5c | 2.6 ± 0.9 | 0.9 ± 0.2 |
 | Subcutaneous Tissue | 6 | 2.3 ± 0.4d | 0.9 ± 0.3e | 0.4 ± 0.6 |
 | Skeletal Muscle | 6 | 2.3 ± 0.4d | 0.9 ± 0.2e | 0.4 ± 0.1 |
 | Intra-Abdominal |  |  |  |  |
 | Abdominal tissue | 8 | 2.9 ± 0.5 | 7.6 ± 2 | 2.7 ± 0.8 |
 | Abdominal exudate | 10 | 2.3 ± 0.5 | 3.5 ±1.2 | 1.6 ± 0.7 |
-| Abscess fluid | 6 | 2.7 ± 0.7 | 2.3 ±1.5 | 0.8±0.4 |
+| Abscess fluid | 6 | 2.7 ± 0.7 | 2.3 ±1.5 | 0.8 ± 0.4 |
 
-- a)All moxifloxacin concentrations were measured 3 hours after a single 400 mg dose, except the abdominal tissue and exudate concentrations which were measured at 2 hours post-dose and the sinus concentrations which were measured 3 hours post-dose after 5 days of dosing.
-- b)N = 5
-- c)N = 7
-- d)N = 12
-- e)Reflects only non-protein bound concentrations of drug.
+1. a)All moxifloxacin concentrations were measured 3 hours after a single 400 mg dose, except the abdominal tissue and exudate concentrations which were measured at 2 hours post-dose and the sinus concentrations which were measured 3 hours post-dose after 5 days of dosing.
+2. b)N = 5
+3. c)N = 7
+4. d)N = 12
+5. e)Reflects only non-protein bound concentrations of drug.
 
 ### Metabolism
 
@@ -124,8 +123,7 @@ The mean (± SD) apparent total body clearance and renal clearance are 12 ± 2 L
 Following oral administration of 400 mg moxifloxacin for 10 days in 16 elderly (8 male; 8 female) and 17 young (8 male; 9 female) healthy volunteers, there were no age-related changes in moxifloxacin pharmacokinetics.
 In 16 healthy male volunteers (8 young; 8 elderly) given a single 200 mg dose of oral moxifloxacin, the extent of systemic exposure (AUC and Cmax) was not statistically different between young and elderly males and elimination half-life was unchanged.
 No dosage adjustment is necessary based on age.
-In large phase III studies, the concentrations around the time of the end of the infusion in elderly patients following intravenous infusion of 400 mg were similar to those observed in young patients.
-[See Use In Specific Populations (8.5).]
+In large phase III studies, the concentrations around the time of the end of the infusion in elderly patients following intravenous infusion of 400 mg were similar to those observed in young patients [see Use In Specific Populations (8.5)].
 
 #### Pediatric
 
@@ -151,10 +149,9 @@ No dosage adjustment is necessary in patients with renal impairment, including t
 
 In a single oral dose study of 24 patients with varying degrees of renal function from normal to severely impaired, the mean peak concentrations (Cmax) of moxifloxacin were reduced by 21% and 28% in the patients with moderate (CLCR≥ 30 and ≤ 60 mL/min) and severe (CLCR<30 mL/min) renal impairment, respectively.
 The mean systemic exposure (AUC) in these patients was increased by 13%.
-In the moderate and severe renally impaired patients, the mean AUC for the sulfate conjugate (M1) increased by 1.7-fold (ranging up to 2.8-fold) and mean AUC and Cmax for the glucuronide conjugate (M2) increased by 2.8-fold (ranging up to 4.8-fold) and 1.4-fold (ranging up to 2.5-fold), respectively.
-[See Use in Specific Populations (8.6).]
+In the moderate and severe renally impaired patients, the mean AUC for the sulfate conjugate (M1) increased by 1.7-fold (ranging up to 2.8-fold) and mean AUC and Cmax for the glucuronide conjugate (M2) increased by 2.8-fold (ranging up to 4.8-fold) and 1.4-fold (ranging up to 2.5-fold), respectively [see Use in Specific Populations (8.6)].
 
-The pharmacokinetics of single dose and multiple dose moxifloxacin were studied in patients with CLCR 20 mL/min on either hemodialysis or continuous ambulatory peritoneal dialysis (8 HD, 8 CAPD).
+The pharmacokinetics of single dose and multiple dose moxifloxacin were studied in patients with CLCR< 20 mL/min on either hemodialysis or continuous ambulatory peritoneal dialysis (8 HD, 8 CAPD).
 Following a single 400 mg oral dose, the AUC of moxifloxacin in these HD and CAPD patients did not vary significantly from the AUC generally found in healthy volunteers.
 Cmax values of moxifloxacin were reduced by about 45% and 33% in HD and CAPD patients, respectively, compared to healthy, historical controls.
 The exposure (AUC) to the sulfate conjugate (M1) increased by 1.4- to 1.5-fold in these patients.
@@ -168,7 +165,7 @@ HD and CAPD also removed about 4% and 2% of the glucuronide metabolite (M2), res
 
 #### Hepatic Insufficiency
 
-No dosage adjustment is recommended for mild, moderate, or severe hepatic insufficiency (Child-Pugh Classes A, B, or C). However, due to metabolic disturbances associated with hepatic insufficiency, which may lead to QT prolongation, AVELOX should be used with caution in these patients [see Warnings and Precautions (5.3) and Use in Specific Populations (8.7)].
+No dosage adjustment is recommended for mild, moderate, or severe hepatic insufficiency (Child-Pugh Classes A, B, or C). However, due to metabolic disturbances associated with hepatic insufficiency, which may lead to QT prolongation, AVELOX should be used with caution in these patients [see Warnings and Precautions (5.6) and Use in Specific Populations (8.7)].
 
 In 400 mg single oral dose studies in 6 patients with mild (Child-Pugh Class A) and 10 patients with moderate (Child-Pugh Class B) hepatic insufficiency, moxifloxacin mean systemic exposure (AUC) was 78% and 102%, respectively, of 18 healthy controls and mean peak concentration (Cmax) was 79% and 84% of controls.
 
@@ -194,8 +191,7 @@ However, fluoroquinolones, including AVELOX, have been reported to enhance the a
 #### Antacids
 
 When moxifloxacin (single 400 mg tablet dose) was administered two hours before, concomitantly, or 4 hours after an aluminum/magnesium-containing antacid (900 mg aluminum hydroxide and 600 mg magnesium hydroxide as a single oral dose) to 12 healthy volunteers there was a 26%, 60% and 23% reduction in the mean AUC of moxifloxacin, respectively.
-Moxifloxacin should be taken at least 4 hours before or 8 hours after antacids containing magnesium or aluminum, as well as sucralfate, metal cations such as iron, and multivitamin preparations with zinc, or didanosine buffered tablets for oral suspension or the pediatric powder for oral solution.
-[See Dosage and Administration (2.2) and Drug Interactions (7.1).]
+Moxifloxacin should be taken at least 4 hours before or 8 hours after antacids containing magnesium or aluminum, as well as sucralfate, metal cations such as iron, and multivitamin preparations with zinc, or didanosine buffered tablets for oral suspension or the pediatric powder for oral solution [see Dosage and Administration (2.2) and Drug Interactions (7.1)].
 
 #### Atenolol
 
@@ -415,8 +411,8 @@ Table 9: Acceptable Quality Control Ranges for Moxifloxacin
 | Enterococcus faecalis ATCC 29212 | 0.06–0.5 | - |
 | Escherichia coli ATCC 25922 | 0.008–0.06 | 28–35 |
 | Haemophilus influenzae ATCC 49247 | 0.008–0.03 | 31–39 |
-| Staphylococcus aureus ATCC29213 | 0.015–0.06 | - |
-| Staphylococcus aureus ATCC25923 | - | 28–35 |
+| Staphylococcus aureus ATCC 29213 | 0.015–0.06 | - |
+| Staphylococcus aureus ATCC 25923 | - | 28–35 |
 | Streptococcus pneumoniae ATCC 49619 | 0.06–0.25 | 25–31 |
 | Bacteroides fragilis ATCC 25285 | 0.125–0.5 | - |
 | Bacteroides thetaiotaomicron ATCC 29741 | 1–4 | - |

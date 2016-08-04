@@ -17,7 +17,9 @@ This study compared AVELOX with clarithromycin (500 mg twice daily for 10 days) 
 Clinical success was assessed at 7-17 days post-therapy.
 The clinical success for AVELOX was 89% (222/250) compared to 89% (224/251) for clarithromycin.
 
-Table 10: Clinical Success Rates at Follow-Up Visit for Clinically Evaluable Patients by Pathogen (Acute Bacterial Exacerbation of Chronic Bronchitis)
+Table 10: Clinical Success Rates at Follow-Up Visit for Clinically Evaluable Patients by Pathogen
+
+(Acute Bacterial Exacerbation of Chronic Bronchitis)
 
 | PATHOGEN | AVELOX | Clarithromycin |
 | --- | --- | --- |
@@ -78,11 +80,11 @@ Table 12: Clinical and Bacteriological Success Rates for AVELOX-Treated MDRSP CA
 | Trimethoprim/sulfamethoxazole-resistant | 28/30 | 93% | 28/30 | 93% |
 | Tetracycline-resistant | 17/18 | 94% | 17/18 | 94% |
 
-- a)n = number of patients successfully treated; N = number of patients with MDRSP (from a total of 37 patients)
-- b)n = number of patients successfully treated (presumed eradication or eradication); N = number of patients with MDRSP (from a total of 37 patients)
-- c)One patient had a respiratory isolate that was resistant to penicillin and cefuroxime but a blood isolate that was intermediate to penicillin and cefuroxime.
-  The patient is included in the database based on the respiratory isolate.
-- d)Azithromycin, clarithromycin, and erythromycin were the macrolide antimicrobials tested.
+1. a)n = number of patients successfully treated; N = number of patients with MDRSP (from a total of 37 patients)
+2. b)n = number of patients successfully treated (presumed eradication or eradication); N = number of patients with MDRSP (from a total of 37 patients)
+3. c)One patient had a respiratory isolate that was resistant to penicillin and cefuroxime but a blood isolate that was intermediate to penicillin and cefuroxime.
+   The patient is included in the database based on the respiratory isolate.
+4. d)Azithromycin, clarithromycin, and erythromycin were the macrolide antimicrobials tested.
 
 Not all isolates were resistant to all antimicrobial classes tested.
 Success and eradication rates are summarized in Table 13.
@@ -97,8 +99,8 @@ Table 13: Clinical Success Rates and Microbiological Eradication Rates for Resis
 | Resistant to 5 antimicrobials | 7/7 (100%)a | 7/7 (100%)a |
 | Bacteremia with MDRSP | 9/9 (100%) | 9/9 (100%) |
 
-- a)One patient had a respiratory isolate resistant to 5 antimicrobials and a blood isolate resistant to 3 antimicrobials.
-  The patient was included in the category resistant to 5 antimicrobials.
+1. a)One patient had a respiratory isolate resistant to 5 antimicrobials and a blood isolate resistant to 3 antimicrobials.
+   The patient was included in the category resistant to 5 antimicrobials.
 
 ## 14.4 Uncomplicated Skin and Skin Structure Infections
 
@@ -121,12 +123,12 @@ The overall success rates in the evaluable patients and the clinical success by 
 
 Table 14: Overall Clinical Success Rates in Patients with Complicated Skin and Skin Structure Infections
 
-| Study | AVELOX n/ N (%) | Comparator n/N (%) | 95% Confidence Interval a |
+| Study | AVELOX n/N (%) | Comparator n/N (%) | 95% Confidence Interval a |
 | --- | --- | --- | --- |
 | North America | 125/162 (77.2%) | 141/173 (81.5%) | (-14.4%, 2%) |
 | International | 254/315 (80.6%) | 268/317 (84.5%) | (-9.4%, 2.2%) |
 
-- a)of difference in success rates between Moxifloxacin and comparator (Moxifloxacin – comparator)
+1. a)of difference in success rates between Moxifloxacin and comparator (Moxifloxacin – comparator)
 
 Table 15: Clinical Success Rates by Pathogen in Patients with Complicated Skin and Skin Structure Infections
 
@@ -137,7 +139,7 @@ Table 15: Clinical Success Rates by Pathogen in Patients with Complicated Skin a
 | Klebsiella pneumoniae | 11/12 (91.7 %) | 7/10 (70%) |
 | Enterobacter cloacae | 9/11 (81.8%) | 4/7 (57.1%) |
 
-- a)methicillin susceptibility was only determined in the North American Study
+1. a)methicillin susceptibility was only determined in the North American Study
 
 ## 14.6 Complicated Intra-Abdominal Infections
 
@@ -153,16 +155,16 @@ Table 16: Clinical Success Rates in Patients with Complicated Intra-Abdominal In
 
 | Study | AVELOX n/ N (%) | Comparator n/N (%) | 95% Confidence Intervala |
 | --- | --- | --- | --- |
-| North America (overall) | 146/183 (79.8 %) | 153/196 (78.1 %) | (-7.4%, 9.3%) |
-| Abscess | 40/57 (70.2 %) | 49/63 (77.8 %)b | NAc |
-| Non-abscess | 106/126 (84.1 %) | 104/133 (78.2 %) | NA |
-| International (overall) | 199/246 (80.9 %) | 218/265 (82.3 %) | (-8.9 %, 4.2%) |
-| Abscess | 73/93 (78.5 %) | 86/99 (86.9 %) | NA |
-| Non-abscess | 126/153 (82.4 %) | 132/166 (79.5 %) | NA |
+| North America (overall) | 146/183 (79.8%) | 153/196 (78.1%) | (-7.4%, 9.3%) |
+| Abscess | 40/57 (70.2%) | 49/63 (77.8%)b | NAc |
+| Non-abscess | 106/126 (84.1%) | 104/133 (78.2%) | NA |
+| International (overall) | 199/246 (80.9%) | 218/265 (82.3%) | (-8.9%, 4.2%) |
+| Abscess | 73/93 (78.5%) | 86/99 (86.9%) | NA |
+| Non-abscess | 126/153 (82.4%) | 132/166 (79.5%) | NA |
 
-- a)of difference in success rates between AVELOX and comparator (AVELOX – comparator)
-- b)Excludes 2 patients who required additional surgery within the first 48 hours.
-- c)NA - not applicable
+1. a)of difference in success rates between AVELOX and comparator (AVELOX – comparator)
+2. b)Excludes 2 patients who required additional surgery within the first 48 hours.
+3. c)NA - not applicable
 
 ## 14.7 Plague
 

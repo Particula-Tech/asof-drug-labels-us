@@ -24,7 +24,7 @@ Because of the potential for serious adverse reactions in infants who are nursin
 ## 8.4 Pediatric Use
 
 Safety and effectiveness in pediatric patients and adolescents less than 18 years of age have not been established.
-AVELOX causes arthropathy in juvenile animals [see Boxed Warning, Warnings and Precautions (5.9), and Clinical Pharmacology (12.3)].
+AVELOX causes arthropathy in juvenile animals [see Boxed Warning, Warnings and Precautions (5.10), and Clinical Pharmacology (12.3)].
 
 ## 8.5 Geriatric Use
 
@@ -32,8 +32,7 @@ Geriatric patients are at increased risk for developing severe tendon disorders 
 This risk is further increased in patients receiving concomitant corticosteroid therapy.
 Tendinitis or tendon rupture can involve the Achilles, hand, shoulder, or other tendon sites and can occur during or after completion of therapy; cases occurring up to several months after fluoroquinolone treatment have been reported.
 Caution should be used when prescribing AVELOX to elderly patients especially those on corticosteroids.
-Patients should be informed of this potential side effect and advised to discontinue AVELOX and contact their healthcare provider if any symptoms of tendinitis or tendon rupture occur.
-[See Boxed Warning, and Warnings and Precautions (5.1).]
+Patients should be informed of this potential side effect and advised to discontinue AVELOX and contact their healthcare provider if any symptoms of tendinitis or tendon rupture occur [see Boxed Warning, and Warnings and Precautions (5.2)].
 
 In controlled multiple-dose clinical trials, 23% of patients receiving oral AVELOX were greater than or equal to 65 years of age and 9% were greater than or equal to 75 years of age.
 The clinical trial data demonstrate that there is no difference in the safety and efficacy of oral AVELOX in patients aged 65 or older compared to younger adults.
@@ -41,8 +40,7 @@ The clinical trial data demonstrate that there is no difference in the safety an
 In trials of intravenous use, 42% of AVELOX patients were greater than or equal to 65 years of age, and 23% were greater than or equal to 75 years of age.
 The clinical trial data demonstrate that the safety of intravenous AVELOX in patients aged 65 or older was similar to that of comparator-treated patients.
 In general, elderly patients may be more susceptible to drug-associated effects of the QT interval.
-Therefore, AVELOX should be avoided in patients taking drugs that can result in prolongation of the QT interval (for example, class IA or class III antiarrhythmics) or in patients with risk factors for torsade de pointes (for example, known QT prolongation, uncorrected hypokalemia).
-[See Warnings and Precautions (5.3), Drug Interactions (7.4), and Clinical Pharmacology (12.3).]
+Therefore, AVELOX should be avoided in patients taking drugs that can result in prolongation of the QT interval (for example, class IA or class III antiarrhythmics) or in patients with risk factors for torsade de pointes (for example, known QT prolongation, uncorrected hypokalemia) [see Warnings and Precautions (5.6), Drug Interactions (7.5), and Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 
@@ -51,4 +49,4 @@ No dosage adjustment is necessary in patients with renal impairment, including t
 
 ## 8.7 Hepatic Impairment
 
-No dosage adjustment is recommended for mild, moderate, or severe hepatic insufficiency (Child-Pugh Classes A, B, or C). However, due to metabolic disturbances associated with hepatic insufficiency, which may lead to QT prolongation, AVELOX should be used with caution in these patients [see Warnings and Precaution (5.3) and Clinical Pharmacology, (12.3)].
+No dosage adjustment is recommended for mild, moderate, or severe hepatic insufficiency (Child-Pugh Classes A, B, or C). However, due to metabolic disturbances associated with hepatic insufficiency, which may lead to QT prolongation, AVELOX should be used with caution in these patients [see Warnings and Precaution (5.6) and Clinical Pharmacology, (12.3)].
