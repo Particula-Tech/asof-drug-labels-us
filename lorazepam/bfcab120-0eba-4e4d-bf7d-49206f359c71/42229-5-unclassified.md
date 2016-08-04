@@ -10,5 +10,5 @@ Bridgewater, NJ 08807 USA
 
 Made in Germany
 
-9492202 Rev.
+9492200 Rev.
 10/15
