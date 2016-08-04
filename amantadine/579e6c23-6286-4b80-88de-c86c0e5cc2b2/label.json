@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "ANDA208278"
+  ],
+  "inn": "amantadine",
+  "labeler": "Cadila Healthcare Limited",
+  "package_ndcs": [
+    "65841-835-01",
+    "65841-835-05",
+    "65841-835-06",
+    "65841-835-30",
+    "65841-835-77"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "amantadine hydrochloride",
+      "name": "amantadine hydrochloride"
+    }
+  ],
+  "setid": "579e6c23-6286-4b80-88de-c86c0e5cc2b2",
+  "source": "dailymed"
+}
