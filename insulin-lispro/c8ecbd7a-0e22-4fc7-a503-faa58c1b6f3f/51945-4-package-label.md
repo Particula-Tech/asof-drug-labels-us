@@ -54,8 +54,6 @@ PACKAGE CARTON – HUMALOG Cartridge 3mL
 
 NDC 0002-7516-59
 
-100 units per mL
-
 VL-7516
 
 5 x 3 mL Cartridges
@@ -70,11 +68,7 @@ Rx only
 
 U-100
 
-For use in Eli Lilly and Company's HumaPen® MEMOIRTM
-
-and HumaPen® LUXURA® HD insulin delivery devices
-
-and Owen Mumford, Ltd.'s Autopen® 3 mL insulin delivery device.
+For use in Eli Lilly and Company's HumaPen® LUXURA® HD insulin delivery device.
 
 www.humalog.com
 
