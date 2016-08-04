@@ -34,8 +34,8 @@ Table 11: Steady-state Pharmacokinetic Parameters Following Multiple Oral and IV
 
 | Parameters | 500 mg | 400 mg | 750 mg | 400 mg |
 | --- | --- | --- | --- | --- |
-|  | every 12 hours, orally | every 12 hours, intravenous | every 12 hours, orally. | every 8 hours, intravenous intravenous |
-| AUC (mcg•hr/mL) | 13.7AUC 0–12h | 12.7 | 31.6AUC24h = AUC0–12h x 2 | 32.9 |
+|  | every 12 hours, orally | every 12 hours, intravenous | every 12 hours, orally. | every 8 hours, intravenous |
+| AUC (mcg•hr/mL) | 13.7 | 12.7 | 31.6 | 32.9 |
 | Cmax (mcg/mL) | 2.97 | 4.56 | 3.59 | 4.07 |
 
 #### Food
@@ -64,7 +64,7 @@ Low levels of the drug have been detected in the aqueous and vitreous humors of 
 Four metabolites have been identified in human urine which together account for approximately 15% of an oral dose.
 The metabolites have antimicrobial activity, but are less active than unchanged ciprofloxacin.
 Ciprofloxacin is an inhibitor of human cytochrome P450 1A2 (CYP1A2) mediated metabolism.
-Co-administration of ciprofloxacin with other drugs primarily metabolized by CYP1A2 results in increased plasma concentrations of these drugs and could lead to clinically significant adverse events of the co-administered drug [see Contraindications (4.2), Warnings and Precautions (5.6, 5.15), and Drug Interactions (7)].
+Co-administration of ciprofloxacin with other drugs primarily metabolized by CYP1A2 results in increased plasma concentrations of these drugs and could lead to clinically significant adverse events of the co-administered drug [see Contraindications (4.2), Warnings and Precautions (5.9, 5.15), and Drug Interactions (7)].
 
 ### Excretion
 
@@ -88,8 +88,7 @@ This may arise from either biliary clearance or transintestinal elimination.
 Pharmacokinetic studies of the oral (single dose) and intravenous (single and multiple dose) forms of ciprofloxacin indicate that plasma concentrations of ciprofloxacin are higher in elderly subjects (older than 65 years) as compared to young adults.
 Although the Cmax is increased 16% to 40%, the increase in mean AUC is approximately 30%, and can be at least partially attributed to decreased renal clearance in the elderly.
 Elimination half-life is only slightly (~20%) prolonged in the elderly.
-These differences are not considered clinically significant.
-[See Use in Specific Populations (8.5).]
+These differences are not considered clinically significant [see Use in Specific Populations (8.5)].
 
 #### Renal Impairment
 
@@ -114,7 +113,7 @@ Based on population pharmacokinetic analysis of pediatric patients with various 
 
 #### Antacids
 
-Concurrent administration of antacids containing magnesium hydroxide or aluminum hydroxide may reduce the bioavailability of ciprofloxacin by as much as 90% [see Dosage and Administration (2.1) and Drug Interactions (7)].
+Concurrent administration of antacids containing magnesium hydroxide or aluminum hydroxide may reduce the bioavailability of ciprofloxacin by as much as 90% [see Dosage and Administration (2.4) and Drug Interactions (7)].
 
 Histamine H2-receptor antagonists
 
@@ -132,7 +131,7 @@ Concomitant administration of tizanidine and CIPRO is contraindicated due to the
 #### Ropinirole
 
 In a study conducted in 12 patients with Parkinson’s disease who were administered 6 mg ropinirole once daily with 500 mg CIPRO twice-daily, the mean Cmax and mean AUC of ropinirole were increased by 60% and 84%, respectively.
-Monitoring for ropinirole-related adverse reactions and appropriate dose adjustment of ropinirole is recommended during and shortly after co-administration with CIPRO [see Warnings and Precautions (5.6)].
+Monitoring for ropinirole-related adverse reactions and appropriate dose adjustment of ropinirole is recommended during and shortly after co-administration with CIPRO [see Warnings and Precautions (5.9)].
 
 #### Clozapine
 
@@ -311,12 +310,12 @@ Table 12: Susceptibility Test Interpretive Criteria for Ciprofloxacin
 | Staphylococcus epidermidis | ≤1 | 2 | ≥4 | ≥21 | 16–20 | ≤15 |
 | Staphylococcus saprophyticus | ≤1 | 2 | ≥4 | ≥21 | 16–20 | ≤15 |
 | Pseudomonas aeruginosa | ≤1 | 2 | ≥4 | ≥21 | 16–20 | ≤15 |
-| Haemophilus influenzaeThe current absence of data on resistant isolates precludes defining any results other than “Susceptible.” If isolates yield MIC results other than susceptible, they should be submitted to a reference laboratory for further testing. | ≤1 | - | - | ≥21 | - | - |
+| Haemophilus influenzae | ≤1 | - | - | ≥21 | - | - |
 | Haemophilus parainfluenzae | ≤1 | - | - | ≥21 | - | - |
 | Salmonellatyphi | ≤0.06 | 0.12–0.5 | ≥1 | ≥31 | 21–30 | ≤20 |
 | Streptococcus pneumoniae | ≤1 | 2 | ≥4 | ≥21 | 16–20 | ≤15 |
 | Streptococcus pyogenes | ≤1 | 2 | ≥4 | ≥21 | 16–20 | ≤15 |
-| Neisseria gonorrhoeaeMIC is determined by the agar dilution method | ≤0.06 | 0.12–0.5 | ≥1 | ≥41 | 28–40 | ≤27 |
+| Neisseria gonorrhoeae | ≤0.06 | 0.12–0.5 | ≥1 | ≥41 | 28–40 | ≤27 |
 | Bacillus anthracis | ≤0.25 | - | - | - | - | - |
 | Yersinia pestis | ≤0.25 | - | - | - | - | - |
 | S=Susceptible, I=Intermediate, and R=Resistant. |  |  |  |  |  |  |
@@ -327,7 +326,7 @@ This category implies possible clinical applicability in body sites where the dr
 This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
 A report of “Resistant” indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations usually achievable at the infection site; other therapy should be selected.
 
-Quality Control
+### Quality Control
 
 Standardized susceptibility test procedures require the use of laboratory controls to monitor the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test.5,6,7,8 Standard ciprofloxacin powder should provide the following range of MIC values noted in Table 13.
 For the diffusion technique using the ciprofloxacin 5 mcg disk the criteria in Table 13 should be achieved.
@@ -342,5 +341,7 @@ Table 13: Acceptable Quality Control Ranges for Ciprofloxacin
 | Pseudomonas aeruginosa ATCC 27853 | 0.25–1 | 25–33 |
 | Staphylococcus aureus ATCC 29213 | 0.12–0.5 | - |
 | Staphylococcus aureus ATCC 25923 | - | 22–30 |
-| Neisseria gonorrhoeae ATCC 49226MIC is determined by the agar dilution method | 0.001–0.008 | 48–58 |
+| Neisseria gonorrhoeae ATCC 492261 | 0.001–0.008 | 48–58 |
 | Campylobacter jejuni ATCC 33560 | 0.06–0.25 and 0.03–0.12 | - |
+
+1MIC is determined by the agar dilution method

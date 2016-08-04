@@ -1,3 +1,5 @@
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+
 Cipro 250 mg 100 Tablets
 
 NDC 50419-758-01
@@ -25,6 +27,8 @@ Bayer HealthCare Pharmaceuticals Inc.
 Whippany, NJ 07981
 
 Manufactured in Germany
+
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
 Cipro 500 mg 100 Tablets
 
@@ -54,6 +58,8 @@ Whippany, NJ 07981
 
 Manufactured in Germany
 
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+
 Cipro® 5% Oral Suspension Kit
 
 NDC 50419-777-01
@@ -82,7 +88,7 @@ Whippany, NJ 07981
 
 Manufactured in Italy
 
-Cipro® 5% Oral Suspension Kit
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
 NDC 50419-773-01
 

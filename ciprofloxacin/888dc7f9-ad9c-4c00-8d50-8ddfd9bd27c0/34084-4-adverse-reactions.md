@@ -2,18 +2,18 @@
 
 The following serious and otherwise important adverse drug reactions are discussed in greater detail in other sections of labeling:
 
-- •Tendon Effects [seeWarnings and Precautions (5.1)]
-- •Exacerbation of Myasthenia Gravis [see Warnings and Precautions (5.2)]
-- •Hypersensitivity Reactions [seeWarnings and Precautions (5.3)]
-- •Other Serious and Sometimes Fatal Reactions [seeWarnings and Precautions (5.4)]
-- •Hepatotoxicity [see Warnings and Precautions (5.5)]
-- •Serious Adverse Reactions with Concomitant Theophylline [see Warnings and Precautions (5.6)]
-- •Central Nervous System Effects [seeWarnings and Precautions (5.7)]
-- •Clostridium difficile-Associated Diarrhea [seeWarnings and Precautions (5.8)]
-- •Peripheral Neuropathy [seeWarnings and Precautions (5.9)]
-- •Prolongation of the QT Interval [see Warnings and Precautions (5.10)]
-- •Musculoskeletal Disorders in Pediatric Patients [see Warnings and Precautions (5.11)]
-- •Photosensitivity/Phototoxicity [seeWarnings and Precautions (5.13)]
+- •Disabling and Potentially Irreversible Serious Adverse Reactions [see Warnings and Precautions (5.1)]
+- •Tendinitis and Tendon Rupture [see Warnings and Precautions (5.2)]
+- •Peripheral Neuropathy [see Warnings and Precautions (5.3)]
+- •Central Nervous System Effects [see Warnings and Precautions (5.4)] Exacerbation of Myasthenia Gravis [see Warnings and Precautions (5.5)]
+- •Other Serious and Sometimes Fatal Adverse Reactions [see Warnings and Precautions (5.6)]
+- •Hypersensitivity Reactions [see Warnings and Precautions (5.7)]
+- •Hepatotoxicity [see Warnings and Precautions (5.8)]
+- •Serious Adverse Reactions with Concomitant Theophylline [see Warnings and Precautions (5.9)]
+- •Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.10)]
+- •Prolongation of the QT Interval [see Warnings and Precautions (5.11)]
+- •Musculoskeletal Disorders in Pediatric Patients [see Warnings and Precautions (5.12)]
+- •Photosensitivity/Phototoxicity [see Warnings and Precautions (5.13)]
 - •Development of Drug Resistant Bacteria [see Warnings and Precautions (5.14)]
 
 ## 6.1 Clinical Trials Experience
@@ -60,17 +60,17 @@ At the end of 1 year, the rate of these adverse reactions reported at any time d
 
 Table 7: Musculoskeletal Adverse Reactions1 as Assessed by the IPSC
 
-|  | CIPRO | Comparator |
-| --- | --- | --- |
-| All Patients (within 6 weeks) | 31/335 (9.3%) | 21/349 (6%) |
-| 95% Confidence IntervalThe study was designed to demonstrate that the arthropathy rate for the ciprofloxacin group did not exceed that of the control group by more than + 6%. At both the 6 week and 1 year evaluations, the 95% confidence interval indicated that it could not be concluded that the ciprofloxacin group had findings comparable to the control group. | (-0.8%, +7.2%) |  |
-| Age Group |  |  |
-| 12 months < 24 months | 1/36 (2.8%) | 0/41 |
-| 2 years < 6 years | 5/124 (4%) | 3/118 (2.5%) |
-| 6 years < 12 years | 18/143 (12.6%) | 12/153 (7.8%) |
-| 12 years to 17 years | 7/32 (21.9%) | 6/37 (16.2 %) |
-| All Patients (within 1 year) | 46/335 (13.7%) | 33/349 (9.5%) |
-| 95% Confidence IntervalIncluded: arthralgia, abnormal gait, abnormal joint exam, joint sprains, leg pain, back pain, arthrosis, bone pain, pain, myalgia, arm pain, and decreased range of motion in a joint (knee, elbow, ankle, hip, wrist, and shoulder) | (-0.6%, + 9.1%) |  |
+|  | CIPRO | Comparator |  |
+| --- | --- | --- | --- |
+| All Patients (within 6 weeks) | 31/335 (9.3%) | 21/349 (6%) |  |
+| 95% Confidence Interval2 | (-0.8%, +7.2%) |  |  |
+| Age Group |  |  |  |
+| 12 months < 24 months | 1/36 (2.8%) | 0/41 |  |
+| 2 years < 6 years | 5/124 (4%) | 3/118 (2.5%) |  |
+| 6 years < 12 years | 18/143 (12.6%) | 12/153 (7.8%) |  |
+| 12 years to 17 years | 7/32 (21.9%) | 6/37 (16.2 %) |  |
+| All Patients (within 1 year) | 46/335 (13.7%) | 33/349 (9.5%) |  |
+| 95% Confidence Interval1 | (-0.6%, + 9.1%) |  |  |
 
 The incidence rates of neurological adverse reactions within 6 weeks of treatment initiation were 3% (9/335) in the CIPRO group versus 2% (7/349) in the comparator group and included dizziness, nervousness, insomnia, and somnolence.
 
@@ -118,7 +118,7 @@ Table 8: Postmarketing Reports of Adverse Drug Reactions
 
 Changes in laboratory parameters while on CIPRO are listed below:
 
-- Hepatic –Elevations of ALT (SGPT), AST (SGOT), alkaline phosphatase, LDH, serum bilirubin.
+1. Hepatic –Elevations of ALT (SGPT), AST (SGOT), alkaline phosphatase, LDH, serum bilirubin.
 
 Hematologic–Eosinophilia, leukopenia, decreased blood platelets, elevated blood platelets, pancytopenia.
 

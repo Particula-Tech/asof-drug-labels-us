@@ -14,8 +14,7 @@ CIPRO 250 mg and 500 mg are available in bottles of 100.
 Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 
 CIPRO Oral Suspension is supplied in 5% and 10% strengths.
-The drug product is composed of two components (microcapsules containing the active ingredient and diluent) which must be mixed by the pharmacist.
-[See Dosage and Administration (2.5)]
+The drug product is composed of two components (microcapsules containing the active ingredient and diluent) which must be mixed by the pharmacist [see Dosage and Administration (2.5)].
 
 | Strengths | Total volumeafter reconstitution | CiprofloxacinConcentration | Ciprofloxacincontents per bottle | NDC Code |
 | --- | --- | --- | --- | --- |

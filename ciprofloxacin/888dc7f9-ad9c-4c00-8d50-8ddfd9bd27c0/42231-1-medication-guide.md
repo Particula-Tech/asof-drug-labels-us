@@ -1,3 +1,5 @@
+# Medication Guide
+
 Medication Guide
 
 CIPRO® (Sip-row)
@@ -37,10 +39,9 @@ This information does not take the place of talking to your healthcare provider 
 What is the most important information I should know about CIPRO?
 
 CIPRO, a fluoroquinolone antibacterial medicine, can cause serious side effects.
-Some of these serious side effects could result in death.
+Some of these serious side effects can happen at the same time and could result in death.
 
-If you get any of the following serious side effects while you take CIPRO, get medical help right away.
-Talk with your healthcare provider about whether you should continue to take CIPRO.
+If you get any of the following serious side effects while you take CIPRO, you should stop taking CIPRO immediately and get medical help right away.
 
 1.
 Tendon rupture or swelling of the tendon (tendinitis).
@@ -48,9 +49,7 @@ Tendon rupture or swelling of the tendon (tendinitis).
 - •Tendon problems can happen in people of all ages who take CIPRO.
   Tendons are tough cords of tissue that connect muscles to bones.
   Symptoms of tendon problems may include:
-- opain
-- oswelling
-  - otears and inflammation of tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites.
+- oPain, swelling, tears and swelling of the tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites.
 - •The risk of getting tendon problems while you take CIPRO is higher if you:
 - oare over 60 years of age
 - oare taking steroids (corticosteroids)
@@ -60,23 +59,39 @@ Tendon rupture or swelling of the tendon (tendinitis).
 - ophysical activity or exercise
 - okidney failure
 - otendon problems in the past, such as in people with rheumatoid arthritis (RA)
-- •Call your healthcare provider right away at the first sign of tendon pain, swelling or inflammation.
-  Stop taking CIPRO until tendinitis or tendon rupture has been ruled out by your healthcare provider.
-  Avoid exercise and using the affected area.
-- The most common area of pain and swelling is the Achilles tendon at the back of your ankle.
+- •Stop taking CIPRO immediately and get medical help right away at the first sign of tendon pain, swelling or inflammation.
+  The most common area of pain and swelling is the Achilles tendon at the back of your ankle.
   This can also happen with other tendons.
-  Talk to your healthcare provider about the risk of tendon rupture with continued use of CIPRO.
-  You may need a different antibiotic that is not a fluoroquinolone to treat your infection.
 - •Tendon rupture can happen while you are taking or after you have finished taking CIPRO.
-  Tendon ruptures have happened up to several months after people have finished taking their fluoroquinolone.
-- •Get medical help right away if you get any of the following signs or symptoms of a tendon rupture:
+  Tendon ruptures can happen within hours or days of taking CIPRO and have happened up to several months after people have finished taking their fluoroquinolone.
+- •Stop taking CIPRO immediately and get medical help right away if you get any of the following signs or symptoms of a tendon rupture:
 - ohear or feel a snap or pop in a tendon area
 - obruising right after an injury in a tendon area
 - ounable to move the affected area or bear weight
-- 2.Worsening of myasthenia gravis (a problem that causes muscle weakness).
-  Fluoroquinolones like CIPRO may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
-  Call your healthcare provider right away if you have any worsening muscle weakness or breathing problems.
-- See “What are the possible side effects of CIPRO?”
+- 2.
+  Changes in sensation and possible nerve damage (Peripheral Neuropathy).
+  Damage to the nerves in arms, hands, legs, or feet can happen in people who take fluoroquinolones, including CIPRO.
+  Stop taking CIPRO immediately and talk to your healthcare provider right away if you get any of the following symptoms of peripheral neuropathy in your arms, hands, legs, or feet:
+
+| •pain•burning•tingling | •numbness•weakness |
+| --- | --- |
+
+1. CIPRO may need to be stopped to prevent permanent nerve damage.
+2. 3.
+   Central Nervous System (CNS) effects.
+   Seizures have been reported in people who take fluoroquinolone antibacterial medicines, including CIPRO.
+   Tell your healthcare provider if you have a history of seizures before you start taking CIPRO.
+   CNS side effects may happen as soon as after taking the first dose of CIPRO.
+   Stop taking CIPRO immediately and talk to your healthcare provider right away if you get any of these side effects, or other changes in mood or behavior:
+
+| •seizures •hear voices, see things, or sense things that are not there (hallucinations) •feel restless •tremors •feel anxious or nervous•confusion •depression | •trouble sleeping •nightmares •feel lightheaded or dizzy•feel more suspicious (paranoia) •suicidal thoughts or acts •headaches that will not go away, with or without blurred vision |
+| --- | --- |
+
+1. 4.
+   Worsening of myasthenia gravis (a problem that causes muscle weakness).
+   Fluoroquinolones like CIPRO may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
+   Tell your healthcare provider if you have a history of myasthenia gravis before you start taking CIPRO.
+   Call your healthcare provider right away if you have any worsening muscle weakness or breathing problems.
 
 What is CIPRO?
 
@@ -98,6 +113,8 @@ These bacterial infections include:
 - •inhalational anthrax
 - •plague
 - •Studies of CIPRO for use in the treatment of plague and anthrax were done in animals only, because plague and anthrax could not be studied in people.
+- •CIPRO should not be used in patients with acute exacerbation of chronic bronchitis, acute uncomplicated cystitis, and sinus infections, if there are other treatment options available.
+- •CIPRO should not be used as the first choice of antibacterial medicine to treat lower respiratory tract infections cause by a certain type of bacterial called Streptococcus pneumoniae.
 - •CIPRO is also used in children younger than 18 years of age to treatcomplicated urinary tract and kidney infections or who may have breathed in anthrax germs, have plague or have been exposed to plague germs.
 - •Children younger than 18 years of age have a higher chance of getting bone, joint, or tendon (musculoskeletal) problems such as pain or swelling while taking CIPRO.
   CIPRO should not be used as the first choice of antibacterial medicine in children under 18 years of age.
@@ -118,11 +135,11 @@ What should I tell my healthcare provider before taking CIPRO?
 
 Before you take CIPRO, tell your healthcare provider if you:
 
-- •have tendon problems
-- •have a disease that causes muscle weakness (myasthenia gravis)
+- •have tendon problems; CIPRO should not be used in patients who have a history of tendon problems
+- •have a disease that causes muscle weakness (myasthenia gravis); CIPRO should not be used in patients who have a known history of myasthenia gravis
 - •have liver problems
 - •have central nervous system problems (such as epilepsy)
-- •have nerve problems
+- •have nerve problems; CIPRO should not be used in patients who have a history of a nerve problem called peripheral neuropathy
 - •have or anyone in your family has an irregular heartbeat, especially a condition called “QT prolongation”
 - •have or have had seizures
 - •have kidney problems.
@@ -139,31 +156,29 @@ Before you take CIPRO, tell your healthcare provider if you:
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
-CIPRO and other medicines can affect each other causing side effects.
-
-Especially tell your healthcare provider if you take:
-
-- •a steroid medicine
-- •an anti-psychotic medicine
-- •a tricyclic antidepressant
-- •a water pill (diuretic)
-- •theophylline (such as Theo-24®, Elixophyllin®, Theochron®, Uniphyl®, Theolair®)
-- •a medicine to control your heart rate or rhythm (antiarrhythmics)
-- •an oral anti-diabetes medicine
-- •phenytoin (Fosphenytoin Sodium®, Cerebyx®, Dilantin-125®, Dilantin®, Extended Phenytoin Sodium®, Prompt Phenytoin Sodium®, Phenytek®)
-- •cyclosporine (Gengraf®, Neoral®, Sandimmune®, Sangcya®).
-- •a blood thinner (such as warfarin, Coumadin®, Jantoven®)
-- •methotrexate (Trexall®)
-- •ropinirole (Requip®)
-- •clozapine (Clozaril®, Fazaclo® ODT®)
-- •a Non-Steroidal Anti-Inflammatory Drug (NSAID).
+- •CIPRO and other medicines can affect each other causing side effects.
+- •Especially tell your healthcare provider if you take:
+- oa steroid medicine
+- oan anti-psychotic medicine
+- oa tricyclic antidepressant
+- oa water pill (diuretic)
+- otheophylline (such as Theo-24®, Elixophyllin®, Theochron®, Uniphyl®, Theolair®)
+- oa medicine to control your heart rate or rhythm (antiarrhythmics)
+- oan oral anti-diabetes medicine
+- ophenytoin (Fosphenytoin Sodium®, Cerebyx®, Dilantin-125®, Dilantin®, Extended Phenytoin Sodium®, Prompt Phenytoin Sodium®, Phenytek®)
+- ocyclosporine (Gengraf®, Neoral®, Sandimmune®, Sangcya®).
+- oa blood thinner (such as warfarin, Coumadin®, Jantoven®)
+- omethotrexate (Trexall®)
+- oropinirole (Requip®)
+- oclozapine (Clozaril®, Fazaclo® ODT®)
+- oa Non-Steroidal Anti-Inflammatory Drug (NSAID).
   Many common medicines for pain relief are NSAIDs.
   Taking an NSAID while you take CIPRO or other fluoroquinolones may increase your risk of central nervous system effects and seizures.
-- •sildenafil (Viagra®, Revatio®)
-- •duloxetine
-- •products that contain caffeine
-- •probenecid (Probalan®, Col-probenecid ®)
-- •certain medicines may keep CIPRO Tablets, CIPRO Oral Suspension from working correctly.
+- osildenafil (Viagra®, Revatio®)
+- oduloxetine
+- oproducts that contain caffeine
+- oprobenecid (Probalan®, Col-probenecid ®)
+- •Certain medicines may keep CIPRO Tablets, CIPRO Oral Suspension from working correctly.
   Take CIPRO Tablets and Oral Suspension either 2 hours before or 6 hours after taking these medicines, vitamins, or supplements:
 - oan antacid, multivitamin, or other medicine or supplements that has magnesium, calcium, aluminum, iron, or zinc
 - osucralfate (Carafate®)
@@ -195,6 +210,10 @@ How should I take CIPRO?
 - •Drink plenty of fluids while taking CIPRO.
 - •Do not skip any doses of CIPRO, or stop taking it, even if you begin to feel better, until you finish your prescribed treatment unless:
   - oyou have tendon problems.
+    See “What is the most important information I should know about CIPRO?”
+  - oyou have nerve problems.
+    See “What is the most important information I should know about CIPRO?”
+  - oyou have central nervous system problems.
     See “What is the most important information I should know about CIPRO?”
   - oyou have a serious allergic reaction.
     See “What are the possible side effects of CIPRO?”
@@ -246,41 +265,15 @@ CIPRO may cause serious side effects, including:
   - olight colored bowel movements
   - odark colored urine
   - oyellowing of your skin or the whites of your eyes
-- Stop taking CIPRO and tell your healthcare provider right away if you have yellowing of your skin or white part of your eyes, or if you have dark urine.
-  These can be signs of a serious reaction to CIPRO (a liver problem).
-- •Central Nervous System (CNS) effects.
-  Seizures have been reported in people who take fluoroquinolone antibacterial medicines, including CIPRO.
-  Tell your healthcare provider if you have a history of seizures.
-  Ask your healthcare provider whether taking CIPRO will change your risk of having a seizure.
-- CNS side effects may happen as soon as after taking the first dose of CIPRO.
-  Talk to your healthcare provider right away if you get any of these side effects, or other changes in mood or behavior:
-- oseizures
-- ohear voices, see things, or sense things that are not there (hallucinations)
-- ofeel restless
-- otremors
-- ofeel anxious or nervous
-- oconfusion
-- odepression
-- otrouble sleeping
-- onightmares
-- ofeel lightheaded or dizzy
-- ofeel more suspicious (paranoia)
-- osuicidal thoughts or acts
-- oheadaches that will not go away, with or without blurred vision
-- •Intestine infection(Pseudomembranous colitis).
-  Pseudomembranous colitis can happen with many antibacterial medicines, including CIPRO.
-  Call your healthcare provider right away if you get watery diarrhea, diarrhea that does not go away, or bloody stools.
-  You may have stomach cramps and a fever.
-  Pseudomembranous colitis can happen 2 or more months after you have finished your antibacterial medicine.
-- •Changes in sensation and possible nerve damage (Peripheral Neuropathy).
-  Damage to the nerves in arms, hands, legs, or feet can happen in people who take fluoroquinolones, including CIPRO.
-  Talk with your healthcare provider right away if you get any of the following symptoms of peripheral neuropathy in your arms, hands, legs, or feet:
-- opain
-- oburning
-- otingling
-- onumbness
-- oweakness
-- CIPRO may need to be stopped to prevent permanent nerve damage.
+
+Stop taking CIPRO and tell your healthcare provider right away if you have yellowing of your skin or white part of your eyes, or if you have dark urine.
+These can be signs of a serious reaction to CIPRO (a liver problem).
+Intestine infection(Pseudomembranous colitis).
+Pseudomembranous colitis can happen with many antibacterial medicines, including CIPRO.
+Call your healthcare provider right away if you get watery diarrhea, diarrhea that does not go away, or bloody stools.
+You may have stomach cramps and a fever.
+Pseudomembranous colitis can happen 2 or more months after you have finished your antibacterial medicine.
+
 - •Serious heart rhythm changes (QT prolongation and torsade de pointes).
   Tell your healthcare provider right away if you have a change in your heart beat (a fast or irregular heartbeat), or if you faint.
   CIPRO may cause a rare heart problem known as prolongation of the QT interval.
@@ -314,12 +307,12 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store CIPRO?
 
-- CIPRO Tablets
-- •Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F).
+1. CIPRO Tablets
+2. •Store at room temperature between 20° to 25°C (68° to 77°F).
 
 CIPRO Oral Suspension
 
-- •Store microcapsules and diluent below 25°C (77°F); excursions are permitted from 15°C to 30°C (59°F to 86°F).
+- •Store microcapsules and diluent below 25°C (77°F).
 - •Do not freeze.
 - •After your CIPRO treatment is finished, safely throw away any unused oral suspension.
 - CIPRO XR
@@ -342,36 +335,33 @@ For more information call 1-888-842-2937.
 
 What are the ingredients in CIPRO?
 
-- CIPRO Tablets:
-- •Active ingredient: ciprofloxacin hydrochloride
-- •Inactiveingredients: cornstarch, microcrystalline cellulose, silicon dioxide, crospovidone, magnesium stearate, hypromellose, titanium dioxide, and polyethylene glycol
-- CIPRO Oral Suspension:
-- •Active ingredient: ciprofloxacin hydrochloride
-- •Inactive ingredients:
-- oMicrocapsules contains: povidone, methacrylic acid copolymer, hypromellose, magnesium stearate, and Polysorbate 20
-- oDiluent contains: medium-chain triglycerides, sucrose, soy-lecithin, water, and strawberry flavor
-- CIPRO XR:
-- •Active ingredient: ciprofloxacin hydrochloride
-- •Inactive ingredients: crospovidone, hypromellose, magnesium stearate, polyethylene glycol, silica colloidal anhydrous, succinic acid, and titanium dioxide
-- CIPRO IV:
-- •Active ingredient: ciprofloxacin
-- •Inactive ingredients: lactic acid as a solubilizing agent, hydrochloric acid for pH adjustment
-
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
-- Manufactured for:
-- Bayer HealthCare Pharmaceuticals Inc.
-- Whippany, NJ 07981
-- Manufactured in Germany
+1. CIPRO Tablets:
+2. •Active ingredient: ciprofloxacin hydrochloride
+3. •Inactiveingredients: cornstarch, microcrystalline cellulose, silicon dioxide, crospovidone, magnesium stearate, hypromellose, titanium dioxide, and polyethylene glycol
+4. CIPRO Oral Suspension:
+5. •Active ingredient: ciprofloxacin hydrochloride
+6. •Inactive ingredients:
+7. oMicrocapsules contains: povidone, methacrylic acid copolymer, hypromellose, magnesium stearate, and Polysorbate 20
+8. oDiluent contains: medium-chain triglycerides, sucrose, soy-lecithin, water, and strawberry flavor
+9. CIPRO XR:
+10. •Active ingredient: ciprofloxacin hydrochloride
+11. •Inactive ingredients: crospovidone, hypromellose, magnesium stearate, polyethylene glycol, silica colloidal anhydrous, succinic acid, and titanium dioxide
+12. CIPRO IV:
+13. •Active ingredient: ciprofloxacin
+14. •Inactive ingredients: lactic acid as a solubilizing agent, hydrochloric acid for pH adjustment
+15. Manufactured for:
+16. Bayer HealthCare Pharmaceuticals Inc.
+17. Whippany, NJ 07981
+18. Manufactured in Germany
 
 CIPRO is a registered trademark of Bayer Aktiengesellschaft.
 
 Rx Only
 
-©2015 Bayer HealthCare Pharmaceuticals Inc.
+©1987 Bayer HealthCare Pharmaceuticals Inc.
 
 CIPRO (ciprofloxacin*) 5% and 10% Oral Suspension Manufactured in Italy
 
 CIPRO (ciprofloxacin HCl) Tablets Manufactured in Germany
 
-Revised: February 2015
+1. This Medication Guide has been approved by the U.S. Food and Drug AdministrationRevised:7/2016
