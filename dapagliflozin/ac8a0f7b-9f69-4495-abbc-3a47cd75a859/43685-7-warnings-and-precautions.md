@@ -58,6 +58,7 @@ Monitor for signs and symptoms of hypotension after initiating therapy.
 ## 5.3 Ketoacidosis
 
 Reports of ketoacidosis, a serious life-threatening condition requiring urgent hospitalization have been identified in postmarketing surveillance in patients with type 1 and type 2 diabetes mellitus taking sodium-glucose co transporter 2 (SGLT2) inhibitors, including dapagliflozin.
+Fatal cases of ketoacidosis have been reported in patients taking dapagliflozin.
 XIGDUO XR is not indicated for the treatment of patients with type 1 diabetes mellitus [see Indications and Usage (1.1)].
 
 Patients treated with XIGDUO XR who present with signs and symptoms consistent with severe metabolic acidosis should be assessed for ketoacidosis regardless of blood glucose levels as ketoacidosis associated with XIGDUO XR may be present even if blood glucose levels are less than 250 mg/dL.
