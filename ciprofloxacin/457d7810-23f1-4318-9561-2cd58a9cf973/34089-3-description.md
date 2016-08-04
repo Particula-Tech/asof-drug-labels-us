@@ -10,7 +10,7 @@ CIPRO IV solutions are available as sterile 0.2% ready-for-use infusion solution
 CIPRO IV contains lactic acid as a solubilizing agent and hydrochloric acid for pH adjustment.
 The pH range for the 0.2% ready-for-use infusion solutions is 3.5 to 4.6.
 
-The plastic container is not made with natural rubber latex..
+The plastic container is not made with natural rubber latex.
 Solutions in contact with the plastic container can leach out certain of its chemical components in very small amounts within the expiration period, for example, di(2-ethylhexyl) phthalate (DEHP), up to 5 parts per million.
 The suitability of the plastic has been confirmed in tests in animals according to USP biological tests for plastic containers as well as by tissue culture toxicity studies.
 

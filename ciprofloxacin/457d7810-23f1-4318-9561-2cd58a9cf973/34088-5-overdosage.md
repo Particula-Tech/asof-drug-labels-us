@@ -5,4 +5,4 @@ Observe the patient carefully and give supportive treatment, including monitorin
 Adequate hydration must be maintained.
 Only a small amount of ciprofloxacin (less than 10%) is removed from the body after hemodialysis or peritoneal dialysis.
 
-In mice, rats, rabbits and dogs, significant toxicity including tonic/clonic convulsions was observed at intravenous doses of ciprofloxacin between 125mg/kg and 300 mg/kg.
+In mice, rats, rabbits and dogs, significant toxicity including tonic/clonic convulsions was observed at intravenous doses of ciprofloxacin between 125 mg/kg and 300 mg/kg.

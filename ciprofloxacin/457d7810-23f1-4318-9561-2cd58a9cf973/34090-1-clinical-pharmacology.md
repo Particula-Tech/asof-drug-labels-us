@@ -10,7 +10,7 @@ Ciprofloxacin is a member of the fluoroquinolone class of antibacterial agents [
 
 Following 60-minute intravenous infusions of 200 mg and 400 mg CIPRO IV to normal volunteers, the mean maximum serum concentrations achieved were 2.1 and 4.6 mcg/mL, respectively; the concentrations at 12 hours were 0.1 and 0.2 mcg/mL, respectively (Table 9).
 
-Table 9: Steady-state Ciprofloxacin Serum Concentrations (mcg/mL) After 60-minute INTRAVENOUS Infusions every 12 hours
+Table 9: Steady-state Ciprofloxacin Serum Concentrations (mcg/mL) After 60-minute INTRAVENOUS Infusions every 12 hours.
 
 | Time after starting the infusion |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -31,8 +31,8 @@ Table 10: Steady-state Pharmacokinetic Parameters Following Multiple Oral and In
 
 | Parameters | 500 mg | 400 mg | 750 mg | 400 mg |
 | --- | --- | --- | --- | --- |
-|  | every 12 hours Orally. | every 12 hours, intravenously | every 12 hours, orally | every 8 hours, intravenously |
-| AUC (mcg•hr/mL) | 13.7AUC 0-12h | 12.7 | 31.6AUC24h = AUC0-12h x 2 | 32.9AUC24h = AUC0-8h x 3 |
+|  | every 12 hours orally. | every 12 hours, intravenously | every 12 hours, orally | every 8 hours, intravenously |
+| AUC (mcg•hr/mL) | 13.7 | 12.7 | 31.6 | 32.9 |
 | Cmax (mcg/mL) | 2.97 | 4.56 | 3.59 | 4.07 |
 
 ### Distribution
@@ -49,7 +49,7 @@ Low levels of the drug have been detected in the aqueous and vitreous humors of 
 After intravenous administration, three metabolites of ciprofloxacin have been identified in human urine which together account for approximately 10% of the intravenous dose.
 The metabolites have antimicrobial activity, but are less active than unchanged.
 Ciprofloxacin is an inhibitor of human cytochrome P450 1A2 (CYP1A2) mediated metabolism.
-Co-administration of ciprofloxacin with other drugs primarily metabolized by CYP1A2 results in increased plasma concentrations of these drugs and could lead to clinically significant adverse events of the co-administered drug [see Contraindications (4.2), Warnings and Precautions (5.6, 5.15) Drug Interactions (7)].
+Co-administration of ciprofloxacin with other drugs primarily metabolized by CYP1A2 results in increased plasma concentrations of these drugs and could lead to clinically significant adverse events of the co-administered drug [see Contraindications (4.2), Warnings and Precautions (5.9, 5.15) and Drug Interactions (7)].
 
 ### Excretion
 
@@ -68,15 +68,14 @@ Approximately 15% of an intravenous dose is recovered from the feces within 5 da
 #### Elderly
 
 Pharmacokinetic studies of the oral (single dose) and intravenous (single and multiple dose) forms of ciprofloxacin indicate that plasma concentrations of ciprofloxacin are higher in elderly subjects (older than 65 years) as compared to young adults.
-Although the Cmax is increased 16% to40%, the increase in mean AUC is approximately 30%, and can be at least partially attributed to decreased renal clearance in the elderly.
+Although the Cmax is increased 16% to 40%, the increase in mean AUC is approximately 30%, and can be at least partially attributed to decreased renal clearance in the elderly.
 Elimination half-life is only slightly (~20%) prolonged in the elderly.
-These differences are not considered clinically significant.
-[See Use in Specific Populations (8.5).]
+These differences are not considered clinically significant [see Use in Specific Populations (8.5)].
 
 #### Renal Impairment
 
 In patients with reduced renal function, the half-life of ciprofloxacin is slightly prolonged.
-Dosage adjustments may be required [see Use in Specific Populations (8.6), Dosage and Administration (2.3)].
+Dosage adjustments may be required [see Use in Specific Populations (8.6) and Dosage and Administration (2.3)].
 
 #### Hepatic Impairment
 
@@ -251,12 +250,12 @@ Table 11: Susceptibility Test Interpretive Criteria for Ciprofloxacin
 | Staphylococcus epidermidis | ≤1 | 2 | ≥4 | ≥21 | 16–20 | ≤15 |
 | Staphylococcus saprophyticus | ≤1 | 2 | ≥4 | ≥21 | 16–20 | ≤15 |
 | Pseudomonas aeruginosa | ≤1 | 2 | ≥4 | ≥21 | 16–20 | ≤15 |
-| Haemophilus influenzaeThe current absence of data on resistant isolates precludes defining any results other than “Susceptible”. If isolates yield MIC results other than susceptible, they should be submitted to a reference laboratory for further testing. | ≤1 | - | - | ≥21 | - | - |
-| Haemophilus parainfluenzae | ≤1 | - | - | ≥21 | - | - |
+| Haemophilus influenzae1 | ≤1 | - | - | ≥21 | - | - |
+| Haemophilus parainfluenzae1 | ≤1 | - | - | ≥21 | - | - |
 | Streptococcus pneumoniae | ≤1 | 2 | ≥4 | ≥21 | 16–20 | ≤15 |
 | Streptococcus pyogenes | ≤1 | 2 | ≥4 | ≥21 | 16–20 | ≤15 |
 | Bacillus anthracis | ≤0.25 | - | - | - | - | - |
-| Yersinia pestis | ≤0.25 | - | - | - | - | - |
+| Yersinia pestis1 | ≤0.25 | - | - | - | - | - |
 | S=Susceptible, I=Intermediate, and R=Resistant. |  |  |  |  |  |  |
 
 A report of “Susceptible” indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations at the site of infection necessary to inhibit growth of the pathogen.
@@ -272,11 +271,11 @@ For the diffusion technique using the ciprofloxacin 5 mcg disk the criteria in T
 
 Table 12: Acceptable Quality Control Ranges for Ciprofloxacin
 
-| Acceptable Quality Control Ranges for Ciprofloxacin | MIC range (mcg/mL) | Zone Diameter (mm) |
+| Bacteria | MIC range (mcg/mL) | Zone Diameter (mm) |
 | --- | --- | --- |
-| Acceptable Quality Control Ranges for Ciprofloxacin | 0.25–2 | - |
-| Acceptable Quality Control Ranges for Ciprofloxacin | 0.004–0.015 | 30–40 |
-| Acceptable Quality Control Ranges for Ciprofloxacin | 0.004–0.03 | 34–42 |
-| Acceptable Quality Control Ranges for Ciprofloxacin | 0.25–1 | 25–33 |
-| Acceptable Quality Control Ranges for Ciprofloxacin | 0.12–0.5 | - |
-| Acceptable Quality Control Ranges for Ciprofloxacin | - | 22–30 |
+| Enterococcus faecalis ATCC 29212 | 0.25–2 | - |
+| Escherichia coli ATCC 25922 | 0.004–0.015 | 30–40 |
+| Haemophilus influenzae ATCC 49247 | 0.004–0.03 | 34–42 |
+| Pseudomonas aeruginosa ATCC 27853 | 0.25–1 | 25–33 |
+| Staphylococcus aureus ATCC 29213 | 0.12–0.5 | - |
+| Staphylococcus aureus ATCC 25923 | - | 22–30 |

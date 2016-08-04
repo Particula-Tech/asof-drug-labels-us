@@ -14,7 +14,7 @@ Table 13: Clinical Response Rates
 | --- | --- | --- |
 |  | N = 233 | N = 237 |
 |  | Success (%) | Success (%) |
-| Clinical Resolution of Initial Febrile Episode with No Modifications of Empirical RegimenTo be evaluated as a clinical resolution, patients had to have: (1) resolution of fever; (2) microbiological eradication of infection (if an infection was microbiologically documented); (3) resolution of signs/symptoms of infection; and (4) no modification of empirical antibiotic regimen | 63 (27%) | 52 (21.9%) |
+| Clinical Resolution of Initial Febrile Episode with No Modifications of Empirical Regimen | 63 (27%) | 52 (21.9%) |
 | Clinical Resolution of Initial Febrile Episode Including Patients with Modifications of Empirical Regimen | 187 (80.3%) | 185 (78.1%) |
 | Overall Survival | 224 (96.1%) | 223 (94.1%) |
 
@@ -30,7 +30,7 @@ The Per Protocol population had a causative organism(s) with protocol specified 
 
 The clinical success and bacteriologic eradication rates in the Per Protocol population were similar between ciprofloxacin and the comparator group as shown in Table 14.
 
-Table 14:: Clinical Success and Bacteriologic Eradication at Test of Cure (5 to 9 Days Post-Therapy)
+Table 14: Clinical Success and Bacteriologic Eradication at Test of Cure (5 to 9 Days Post-Therapy)
 
 |  | CIPRO | Comparator |
 | --- | --- | --- |

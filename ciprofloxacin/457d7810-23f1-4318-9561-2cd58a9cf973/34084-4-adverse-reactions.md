@@ -2,18 +2,19 @@
 
 The following serious and otherwise important adverse drug reactions are discussed in greater detail in other sections of labeling:
 
-- •Tendon Effects [seeWarnings and Precautions (5.1)]
-- •Exacerbation of Myasthenia Gravis [see Warnings and Precautions (5.2)]
-- •Hypersensitivity Reactions [seeWarnings and Precautions (5.3)]
-- •Other Serious and Sometimes Fatal Reactions [seeWarnings and Precautions (5.4)]
-- •Hepatotoxicity [see Warnings and Precautions (5.5)]
-- •Serious Adverse Reactions with Concomitant Theophylline [see Warnings and Precautions (5.6)]
-- •Central Nervous System Effects [seeWarnings and Precautions (5.7)]
-- •Clostridium difficile-Associated Diarrhea [seeWarnings and Precautions (5.8)]
-- •Peripheral Neuropathy [seeWarnings and Precautions (5.9)]
-- •Prolongation of the QT Interval [see Warnings and Precautions (5.10)]
-- •Musculoskeletal Disorders in Pediatric Patients [see Warnings and Precautions (5.11)]
-- •Photosensitivity/Phototoxicity [seeWarnings and Precautions (5.13)]
+- •Disabling and Potentially Irreversible Serious Adverse Reactions [see Warnings and Precautions (5.1)]
+- •Tendinitis and Tendon Rupture [see Warnings and Precautions (5.2)]
+- •Peripheral Neuropathy [see Warnings and Precautions (5.3)]
+- •Central Nervous System Effects [see Warnings and Precautions (5.4)]
+- •Exacerbation of Myasthenia Gravis [see Warnings and Precautions (5.5)]
+- •Other Serious and Sometimes Fatal Adverse Reactions [see Warnings and Precautions (5.6)]
+- •Hypersensitivity Reactions [see Warnings and Precautions (5.7)]
+- •Hepatotoxicity [see Warnings and Precautions (5.8)]
+- •Serious Adverse Reactions with Concomitant Theophylline [see Warnings and Precautions (5.9)]
+- •Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.10)]
+- •Prolongation of the QT Interval [see Warnings and Precautions (5.11)]
+- •Musculoskeletal Disorders in Pediatric Patients [see Warnings and Precautions (5.12)]
+- •Photosensitivity/Phototoxicity [see Warnings and Precautions (5.13)]
 - •Development of Drug Resistant Bacteria [see Warnings and Precautions (5.14)]
 
 ## 6.1 Clinical Trials Experience
@@ -44,7 +45,7 @@ Table 5: Medically Important Adverse Reactions That Occurred in less than 1% Cip
 | Musculoskeletal | ArthralgiaJoint StiffnessMuscle Weakness |
 | Renal/Urogenital | Renal FailureInterstitial NephritisHemorrhagic CystitisRenal CalculiFrequent UrinationGynecomastiaCrystalluriaCylindruriaHematuriaAlbuminuria |
 | Respiratory | Respiratory ArrestDyspneaLaryngeal EdemaHemoptysisBronchospasm |
-| Skin/Hypersensitivity | Allergic ReactionsAnaphylactic Reactions including life-threatening anaphylactic shockErythema Multiforme/Stevens-Johnson SyndromeExfoliative DermatitisToxic Epidermal NecrolysisVasculitisAngioedemaextremitiesPurpuraFeverPruritusUrticariaIncreased PerspirationErythema NodosumThrombophlebitisBurningPhotosensitivity/Phototoxicity Reaction |
+| Skin/Hypersensitivity | Allergic ReactionsAnaphylactic Reactions including life-threatening anaphylactic shockErythema Multiforme/Stevens-Johnson SyndromeExfoliative DermatitisToxic Epidermal NecrolysisVasculitisAngioedemaExtremitiesPurpuraFeverPruritusUrticariaIncreased PerspirationErythema NodosumThrombophlebitisBurningPhotosensitivity/Phototoxicity Reaction |
 | Special Senses | Decreased Visual AcuityBlurred VisionDisturbed Vision (diplopia, chromatopsia, and photopsia)AnosmiaHearing LossTinnitusNystagmusBad Taste |
 
 In several instances, nausea, vomiting, tremor, irritability, or palpitation were judged by investigators to be related to elevated serum levels of theophylline possibly as a result of drug interaction with ciprofloxacin.
@@ -65,12 +66,12 @@ Ciprofloxacin-treated patients were more likely to report more than one adverse 
 The rate of musculoskeletal adverse reactions was consistently higher in the ciprofloxacin group compared to the control group across all age subgroups.
 At the end of 1 year, the rate of these adverse reactions reported at any time during that period was 13.7% (46/335) in the ciprofloxacin-treated group versus 9.5% (33/349) in the comparator-treated patients (Table 6).
 
-Table 6: Musculoskeletal Adverse ReactionsIncluded: arthralgia, abnormal gait, abnormal joint exam, joint sprains, leg pain, back pain, arthrosis, bone pain, pain, myalgia, arm pain, and decreased range of motion in a joint (knee, elbow, ankle, hip, wrist, and shoulder) as Assessed by the IPSC
+Table 6: Musculoskeletal Adverse Reactions1 as Assessed by the IPSC
 
 |  |  |  | CIPRO | Comparator |
 | --- | --- | --- | --- | --- |
 | All Patients (within 6 weeks) | 31/335 (9.3%) |  | 21/349 (6%) |  |
-| 95% Confidence IntervalThe study was designed to demonstrate that the arthropathy rate for the CIPRO group did not exceed that of the control group by more than + 6%. At both the 6 week and 1 year evaluations, the 95% confidence interval indicated that it could not be concluded that the ciprofloxacin group had findings comparable to the control group. | (-0.8%, +7.2%) |  |  |  |
+| 95% Confidence Interval | (-0.8%, +7.2%) |  |  |  |
 | Age Group |  |  |  |  |
 | 12 months to 24 months | 1/36 (2.8%) |  | 0/41 |  |
 | 2 years to <6 years | 5/124 (4%) |  | 3/118 (2.5%) |  |
@@ -110,7 +111,6 @@ Table 7: Postmarketing Reports of Adverse Drug Reactions
 | --- | --- |
 | Cardiovascular | QT prolongationTorsade de PointesVasculitis and ventricular arrhythmia |
 | Central Nervous System | HypertoniaMyastheniaExacerbation of myasthenia gravisPeripheral neuropathyPolyneuropathyTwitching |
-| Eye Disorders | Nystagmus |
 | Gastrointestinal | Pseudomembranous colitis |
 | Hemic/Lymphatic | Pancytopenia (life threatening or fatal outcome)Methemoglobinemia |
 | Hepatobiliary | Hepatic failure (including fatal cases) |
@@ -119,7 +119,7 @@ Table 7: Postmarketing Reports of Adverse Drug Reactions
 | Musculoskeletal | MyalgiaMyoclonusTendinitisTendon rupture |
 | Psychiatric Disorders | AgitationConfusion Delirium |
 | Skin/Hypersensitivity | Acute generalize exanthematous pustulosis (AGEP)Fixed eruptionSerum sickness-like reaction |
-| Special Senses | AnosmiaHyperesthesiaHypesthesiaTaste loss |
+| Special Senses | AnosmiaHyperesthesiaHypesthesiaNystagmusTaste loss |
 
 ## 6.3 Adverse Laboratory Changes
 
