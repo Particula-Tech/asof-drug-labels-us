@@ -34,7 +34,8 @@ Advise them of treatment options and when to seek medical advice [see Warnings a
 
 Ketoacidosis
 
-Inform patients that ketoacidosis has been reported during use of FARXIGA.
+Inform patients that ketoacidosis is a serious life-threatening condition.
+Cases of ketoacidosis have been reported during use of FARXIGA.
 Instruct patients to check ketones (when possible) if symptoms consistent with ketoacidosis occur even if blood glucose is not elevated.
 If symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness and labored breathing) occur, instruct patients to discontinue FARXIGA and seek medical advice immediately [see Warnings and Precautions (5.2)].
 
