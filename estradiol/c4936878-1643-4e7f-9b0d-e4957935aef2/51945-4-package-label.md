@@ -1,12 +1,20 @@
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
-## Estradiol Tablets USP 0.5 mg 100s Label Text
+## Estradiol Tablets USP 0.5 mg, 100s Label Text
 
 NDC 0555-0899-02
 
-ESTRADIOL TABLETS USP 0.5 mg
+Estradiol
 
-PHARMACIST: Dispense the accompanying Patient Information Sheet to each patient.
+Tablets USP
+
+0.5 mg
+
+PHARMACIST: PLEASE DISPENSE
+
+WITH ATTACHED PATIENT
+
+INFORMATION LEAFLET.
 
 Rx only
 
@@ -14,15 +22,23 @@ Rx only
 
 TEVA
 
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
-## Estradiol Tablets USP 1 mg 100s Label Text
+## Estradiol Tablets USP 1 mg, 100s Label Text
 
 NDC 0555-0886-02
 
-ESTRADIOL TABLETS USP 1 mg
+Estradiol
 
-PHARMACIST: Dispense the accompanying Patient Information Sheet to each patient.
+Tablets USP
+
+1 mg
+
+PHARMACIST: PLEASE DISPENSE
+
+WITH ATTACHED PATIENT
+
+INFORMATION LEAFLET.
 
 Rx only
 
@@ -30,17 +46,25 @@ Rx only
 
 TEVA
 
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
-## Estradiol Tablets USP 2 mg 100s Label Text
+## Estradiol Tablets USP 2 mg, 100s Label Text
 
 NDC 0555-0887-02
 
-ESTRADIOL TABLETS USP 2 mg
+Estradiol
 
-PHARMACIST: Dispense the accompanying Patient Information Sheet to each patient.
+Tablets USP
 
-Contains FD&C Yellow No. 5 (tartrazine) as a color additive.
+2 mg
+
+PHARMACIST: PLEASE DISPENSE WITH
+
+ATTACHED PATIENT INFORMATION LEAFLET.
+
+Contains FD&C Yellow No. 5 (tartrazine)
+
+as a color additive.
 
 Rx only
 

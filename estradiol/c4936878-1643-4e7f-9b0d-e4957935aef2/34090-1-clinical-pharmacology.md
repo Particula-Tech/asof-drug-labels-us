@@ -56,7 +56,7 @@ The results of a two-year, randomized, placebo-controlled, double-blind, dose-ra
 When estrogen therapy is discontinued, bone mass declines at a rate comparable to the immediate postmenopausal period.
 There is no evidence that estrogen replacement therapy restores bone mass to premenopausal levels.
 
-### Women's Health Initiative Studies
+### Women’s Health Initiative Studies
 
 The Women’s Health Initiative (WHI) enrolled a total of 27,000 predominantly healthy postmenopausal women to assess the risks and benefits of either the use of oral 0.625 mg conjugated estrogens (CE) per day alone or the use of oral 0.625 mg conjugated estrogens plus 2.5 mg medroxyprogesterone acetate (MPA) per day compared to placebo in the prevention of certain chronic diseases.
 The primary endpoint was the incidence of coronary heart disease (CHD) (nonfatal myocardial infarction and CHD death), with invasive breast cancer as the primary adverse outcome studied.
@@ -68,10 +68,10 @@ Results of the CE/MPA substudy, which included 16,608 women (average age of 63 y
 
 Table 1: RELATIVE AND ABSOLUTE RISK SEEN IN THE CE/MPA SUBSTUDY OF WHIadapted from JAMA, 2002; 288:321-333
 
-| Event a subset of the events was combined in a “global index”, defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, endometrial cancer, colorectal cancer, hip fracture, or death due to other causes | Relative Risk CE/MPA vs placebo at 5.2 Years(95% CInominal confidence intervals unadjusted for multiple looks and multiple comparisons) | Placebo n = 8102 | CE/MPAn = 8506 |
+| Eventa subset of the events was combined in a “global index”, defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, endometrial cancer, colorectal cancer, hip fracture, or death due to other causes | Relative Risk CE/MPA vs placeboat 5.2 Years(95% CInominal confidence intervals unadjusted for multiple looks and multiple comparisons) | Placebon = 8102 | CE/MPAn = 8506 |
 | --- | --- | --- | --- |
-|  |  | Absolute Risk per 10,000 Women-years |  |
-| CHD events Non-fatal MI CHD death | 1.29 (1.02 to 1.63) 1.32 (1.02 to 1.72) 1.18 (0.70 to 1.97) | 30 23 6 | 37 30 7 |
+|  |  | Absolute Risk per 10,000 Women-Years |  |
+| CHD eventsNon-fatal MI CHD death | 1.29 (1.02 to 1.63)1.32 (1.02 to 1.72)1.18 (0.70 to 1.97) | 30236 | 37307 |
 | Invasive breast cancerincludes metastatic and non-metastatic breast cancer with the exception of in situ breast cancer | 1.26 (1.00 to 1.59) | 30 | 38 |
 | Stroke | 1.41 (1.07 to 1.85) | 21 | 29 |
 | Pulmonary embolism | 2.13 (1.39 to 3.25) | 8 | 16 |
@@ -89,7 +89,7 @@ The absolute excess risk of events included in the “global index” was 19 per
 There was no difference between the groups in terms of all-cause mortality.
 (See BOXED WARNINGS, WARNINGS, and PRECAUTIONS.)
 
-### Women's Health Initiative Memory Study
+### Women’s Health Initiative Memory Study
 
 The Women’s Health Initiative Memory Study (WHIMS), a substudy of WHI, enrolled 4,532 predominantly healthy postmenopausal women 65 years of age and older (47% were age 65 to 69 years, 35% were 70 to 74 years, and 18% were 75 years of age and older) to evaluate the effects of CE/MPA (0.625 mg conjugated estrogens plus 2.5 mg medroxyprogesterone acetate) on the incidence of probable dementia (primary outcome) compared with placebo.
 
