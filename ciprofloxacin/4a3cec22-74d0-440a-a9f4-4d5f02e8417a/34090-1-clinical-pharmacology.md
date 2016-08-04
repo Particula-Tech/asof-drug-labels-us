@@ -18,7 +18,7 @@ The following table compares the pharmacokinetic parameters obtained at steady s
 
 Table 5: Ciprofloxacin Pharmacokinetics (Mean ± SD) Following CIPRO and CIPRO XR Administration
 
-|  | Cmax(mg/L) | AUC0–24h(mg•h/L) | T1/2 (hr) | Tmax(hr) 1 |
+|  | Cmax(mg/L) | AUC0–24h(mg•h/L) | T1/2 (hr) | Tmax (hr) 1 |
 | --- | --- | --- | --- | --- |
 | CIPRO XR 500 mg QD | 1.59 ± 0.43 | 7.97 ± 1.87 | 6.6 ± 1.4 | 1.5 (1 – 2.5) |
 | CIPRO 250 mg BID | 1.14 ± 0.23 | 8.25 ± 2.15 | 4.8 ± 0.6 | 1 (0.5 – 2.5) |
@@ -45,7 +45,7 @@ Other minor metabolites are desethylene ciprofloxacin (M1), and formylciprofloxa
 The relative proportion of drug and metabolite in serum corresponds to the composition found in urine.
 Excretion of these metabolites was essentially complete by 24 hours after dosing.
 Ciprofloxacin is an inhibitor of CYP1A2 mediated metabolism.
-Co-administration of ciprofloxacin with other drugs primarily metabolized by CYP1A2 results in increased plasma concentrations of these drugs and could lead to clinically significant adverse events of the co-administered drug [see Contraindications (4.2), Warnings and Precautions (5.6, 5.15) and Drug Interactions (7)].
+Co-administration of ciprofloxacin with other drugs primarily metabolized by CYP1A2 results in increased plasma concentrations of these drugs and could lead to clinically significant adverse events of the co-administered drug [see Contraindications (4.2), Warnings and Precautions (5.9, 5.15) and Drug Interactions (7)].
 
 ### Elimination
 
@@ -67,14 +67,13 @@ This may arise from either biliary clearance or transintestinal elimination.
 Pharmacokinetic studies of the immediate-release oral tablet (single dose) and intravenous (single and multiple dose) forms of ciprofloxacin indicate that plasma concentrations of ciprofloxacin are higher in elderly subjects (> 65 years) as compared to young adults.
 Cmax is increased 16 to 40%, and mean AUC is increased approximately 30%, which can be at least partially attributed to decreased renal clearance in the elderly.
 Elimination half-life is only slightly (~20%) prolonged in the elderly.
-These differences are not considered clinically significant.
-[See Use in Specific Populations (8.5).]
+These differences are not considered clinically significant [see Use in Specific Populations (8.5)].
 
 #### Renal Impairment
 
 In patients with reduced renal function, the half-life of ciprofloxacin is slightly prolonged.
 No dose adjustment is required for patients with uncomplicated UTIs receiving 500 mg CIPRO XR.
-For cUTI and AUP, where 1000 mg is the appropriate dose, the dosage of CIPRO XR should be reduced to CIPRO XR 500 mg q24h in patients with creatinine clearance equal to or below 30 mL/min [see Dosage and Administration (2.2)].
+For cUTI and AUP, where 1000 mg is the appropriate dose, the dosage of CIPRO XR should be reduced to CIPRO XR 500 mg q24h in patients with creatinine clearance equal to or below 30 mL/min [see Dosage and Administration (2.3)].
 
 #### Hepatic Impairment
 
@@ -113,7 +112,7 @@ Careful monitoring of clozapine associated adverse reactions and appropriate adj
 #### Sildenafil
 
 Following concomitant administration of a single oral dose of 50 mg sildenafil with 500 mg CIPRO to healthy subjects, the mean Cmax and mean AUC of sildenafil were both increased approximately two-fold.
-Use sildenafil with caution when co-administered with CIPRO XR due to the expected two-fold increase in the exposure of sildenafil upon co-administration of CIPRO (see Pharmacokinetics 12.3).
+Use sildenafil with caution when co-administered with CIPRO XR due to the expected two-fold increase in the exposure of sildenafil upon co-administration of CIPRO [see Drug Interactions (7)].
 
 #### Duloxetine
 
@@ -125,6 +124,9 @@ In a study conducted in 9 healthy volunteers, concomitant use of 1.5 mg/kg IV li
 Although lidocaine treatment was well tolerated at this elevated exposure, a possible interaction with CIPRO XR and an increase in adverse reactions related to lidocaine may occur upon concomitant administration.
 
 #### Metoclopramide
+
+Metoclopramide significantly accelerates the absorption of oral ciprofloxacin resulting in a shorter time to reach maximum plasma concentrations.
+No significant effect was observed on the bioavailability of ciprofloxacin.
 
 #### Omeprazole
 
@@ -199,15 +201,18 @@ Serratia marcescens
 When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drug products used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
 These reports should aid the physician in selecting an antibacterial drug product for treatment.
 
-- Dilution Techniques
-- Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
-  These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-  The MICs should be determined using a standardized test method (broth and/or agar).1,3 The MIC values should be interpreted according to criteria provided in Table 5.
-- Diffusion Techniques
-- Quantitative methods that require measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-  The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
-  The zone size should be determined using a standardized test method.2,3 This procedure uses paper disks impregnated with 5 mcg ciprofloxacin to test the susceptibility of bacteria to ciprofloxacin.
-  The disc diffusion interpretive criteria are provided in Table 6.
+### Dilution Techniques
+
+1. Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
+   These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
+   The MICs should be determined using a standardized test method (broth and/or agar).1,3 The MIC values should be interpreted according to criteria provided in Table 5.
+
+### Diffusion Techniques
+
+1. Quantitative methods that require measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
+   The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
+   The zone size should be determined using a standardized test method.2,3 This procedure uses paper disks impregnated with 5 mcg ciprofloxacin to test the susceptibility of bacteria to ciprofloxacin.
+   The disc diffusion interpretive criteria are provided in Table 6.
 
 Table 6: Susceptibility Test Interpretive Criteria for Ciprofloxacin
 
@@ -226,9 +231,10 @@ This category implies possible clinical applicability in body sites where the dr
 This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
 A report of “Resistant” indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations usually achievable at the infection site; other therapy should be selected.
 
-- Quality Control
-- Standardized susceptibility test procedures require the use of laboratory controls to monitor the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test.1, 2 Standard ciprofloxacin powder should provide the following range of MIC values noted in Table 7.
-  For the diffusion technique using the ciprofloxacin 5 mcg disk the criteria in Table 7 should be achieved.
+### Quality Control
+
+1. Standardized susceptibility test procedures require the use of laboratory controls to monitor the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test.1, 2 Standard ciprofloxacin powder should provide the following range of MIC values noted in Table 7.
+   For the diffusion technique using the ciprofloxacin 5 mcg disk the criteria in Table 7 should be achieved.
 
 Table 7: Acceptable Quality Control Ranges for Ciprofloxacin
 

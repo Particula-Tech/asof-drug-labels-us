@@ -43,27 +43,23 @@ Geriatric patients are at increased risk for developing severe tendon disorders 
 This risk is further increased in patients receiving concomitant corticosteroid therapy.
 Tendinitis or tendon rupture can involve the Achilles, hand, shoulder, or other tendon sites and can occur during or after completion of therapy; cases occurring up to several months after fluoroquinolone treatment have been reported.
 Caution should be used when prescribing CIPRO XR to elderly patients especially those on corticosteroids.
-Patients should be informed of this potential side effect and advised to discontinue CIPRO XR and contact their healthcare provider if any symptoms of tendinitis or tendon rupture occur.
-[See Boxed Warning, Warnings and Precautions (5.1), and Adverse Reactions (6.2).]
+Patients should be informed of this potential side effect and advised to discontinue CIPRO XR and contact their healthcare provider if any symptoms of tendinitis or tendon rupture occur [see Boxed Warning, Warnings and Precautions (5.2), and Adverse Reactions (6.2)].
 
 In a large, prospective, randomized CIPRO XR clinical trial in cUTI, 49% (509/1035) of the patients were 65 and over, while 30% (308/1035) were 75 and over.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals on any drug therapy cannot be ruled out.
 Ciprofloxacin is known to be substantially excreted by the kidney, and the risk of adverse reactions may be greater in patients with impaired renal function.
 No alteration of dosage is necessary for patients greater than 65 years of age with normal renal function.
-However, since some older individuals experience reduced renal function by virtue of their advanced age, care should be taken in dose selection for elderly patients, and renal function monitoring may be useful in these patients.
-[See Dosage and Administration (2.2) and Clinical Pharmacology (12.3).]
+However, since some older individuals experience reduced renal function by virtue of their advanced age, care should be taken in dose selection for elderly patients, and renal function monitoring may be useful in these patients [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
 
 In general, elderly patients may be more susceptible to drug-associated effects on the QT interval.
-Therefore, precaution should be taken when using CIPRO XR with concomitant drugs that can result in prolongation of the QT interval (for example, class IA or class III antiarrhythmics) or in patients with risk factors for torsade de pointes (for example, known QT prolongation, uncorrected hypokalemia).
-[See Warnings and Precautions (5.10).]
+Therefore, precaution should be taken when using CIPRO XR with concomitant drugs that can result in prolongation of the QT interval (for example, class IA or class III antiarrhythmics) or in patients with risk factors for torsade de pointes (for example, known QT prolongation, uncorrected hypokalemia) [see Warnings and Precautions (5.11)].
 
 ## 8.6 Renal Impairment
 
 Ciprofloxacin is eliminated primarily by renal excretion; however, the drug is also metabolized and partially cleared through the biliary system of the liver and through the intestine.
 These alternate pathways of drug elimination appear to compensate for the reduced renal excretion in patients with renal impairment.
 No dosage adjustment is required for patients with uncomplicated UTIs receiving 500 mg CIPRO XR.
-Dosing in children (less than 18 years of age) with impaired renal function has not been studied.
-[See Clinical Pharmacology (12.3).]
+Dosing in children (less than 18 years of age) with impaired renal function has not been studied [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 

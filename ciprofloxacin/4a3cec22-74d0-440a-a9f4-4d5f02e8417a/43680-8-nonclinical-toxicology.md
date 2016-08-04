@@ -34,7 +34,7 @@ Fertility studies performed in rats at oral doses of ciprofloxacin up to 100 mg/
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
-Ciprofloxacin and other quinolones have been shown to cause arthropathy in immature animals of most species tested [see Warnings and Precautions (5.11)].Damage of weight bearing joints was observed in juvenile dogs and rats.
+Ciprofloxacin and other quinolones have been shown to cause arthropathy in immature animals of most species tested [see Warnings and Precautions (5.12)].Damage of weight bearing joints was observed in juvenile dogs and rats.
 In young beagles, 100 mg/kg ciprofloxacin, given daily for 4 weeks, caused degenerative articular changes of the knee joint.
 At 30 mg/kg, the effect on the joint was minimal.
 In a subsequent study in young beagle dogs, oral ciprofloxacin doses of 30 mg/kg and 90 mg/kg given daily for 2 weeks caused articular changes which were still observed by histopathology after a treatment-free period of 5 months.
@@ -47,8 +47,8 @@ This is primarily related to the reduced solubility of ciprofloxacin under alkal
 In rhesus monkeys, crystalluria without nephropathy has been noted after single oral doses as low as 5 mg/kg (approximately 0.1-times the highest recommended therapeutic dose based upon body surface area.
 After 6 months of intravenous dosing at 10 mg/kg/day, no nephropathological changes were noted; however, nephropathy was observed after dosing at 20 mg/kg/day for the same duration (approximately 0.4 times the highest recommended therapeutic dose based upon body surface area).
 
-In dogs ciprof1oxacin administered at 3 and 10 mg/kg by rapid infusion injection (15 sec.) produces hypotensive effects.
-These effects are considered to be related to histamine release because they are partially antagonized by pyrilamine. an antihistamine.
+In dogs, ciprof1oxacin administered at 3 and 10 mg/kg by rapid infusion injection (15 sec.) produces hypotensive effects.
+These effects are considered to be related to histamine release because they are partially antagonized by pyrilamine, an antihistamine.
 In rhesus monkeys, rapid infusion injection also produces hypotension. but the effect in this species is inconsistent and less pronounced.
 
 In mice, concomitant administration of nonsteroidal anti-inflammatory drugs such as phenylbutazone and indomethacin with quinolones has been reported to enhance the CNS stimulatory effect of quinolones.

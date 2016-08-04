@@ -2,17 +2,18 @@
 
 The following serious and otherwise important adverse drug reactions are discussed in greater detail in other sections of labeling:
 
-- •Tendon Effects [seeWarnings and Precautions (5.1)]
-- •Exacerbation of Myasthenia Gravis [see Warnings and Precautions (5.2)]
-- •Hypersensitivity Reactions [seeWarnings and Precautions (5.3)]
-- •Other Serious and Sometimes Fatal Reactions [seeWarnings and Precautions (5.4)]
-- •Hepatotoxicity [see Warnings and Precautions (5.5)]
-- •Serious Adverse Reactions with Concomitant Theophylline [see Warnings and Precautions (5.6)]
-- •Central Nervous System Effects [seeWarnings and Precautions (5.7)]
-- •Clostridium difficile-Associated Diarrhea [seeWarnings and Precautions (5.8)]
-- •Peripheral Neuropathy [seeWarnings and Precautions (5.9)]
-- •Prolongation of the QT Interval [see Warnings and Precautions (5.10)]
-- •Musculoskeletal Disorders in Pediatric Patients [see Warnings and Precautions (5.11)]
+- •Disabling and Potentially Irreversible Serious Adverse Reactions [seeWarnings and Precautions (5.1)]
+- •Tenditits and Tendon Rupture[seeWarnings and Precautions (5.2)]
+- •Peripheral Neuropathy [seeWarnings and Precautions (5.3)]
+- •Central Nervous System Effects [seeWarnings and Precautions (5.4)]
+- •Exacerbation of Myasthenia Gravis [see Warnings and Precautions (5.5)]
+- •Other Serious and Sometimes Fatal Adverse Reactions [seeWarnings and Precautions (5.6)]
+- •Hypersensitivity Reactions [seeWarnings and Precautions (5.7)]
+- •Hepatotoxicity [see Warnings and Precautions (5.8)]
+- •Serious Adverse Reactions with Concomitant Theophylline [see Warnings and Precautions (5.9)]
+- •Clostridium difficile-Associated Diarrhea [seeWarnings and Precautions (5.10)]
+- •Prolongation of the QT Interval [see Warnings and Precautions (5.11)]
+- •Musculoskeletal Disorders in Pediatric Patients [see Warnings and Precautions (5.12)]
 - •Photosensitivity/Phototoxicity [seeWarnings and Precautions (5.13)]
 - •Development of Drug Resistant Bacteria [see Warnings and Precautions (5.14)]
 
@@ -27,7 +28,7 @@ The adverse reaction information from clinical studies does, however, provide a 
 In the clinical trial of uncomplicated UTIs, CIPRO XR (500 mg once daily) in 444 patients was compared to ciprofloxacin immediate-release tablets (250 mg twice daily) in 447 patients for 3 days.
 Discontinuations due to adverse reactions thought to be drug-related occurred in 0.2% (1/444) of patients in the CIPRO XR arm and in 0% (0/447) of patients in the control arm.
 
-In the clinical trial of cUTI and acute uncomplicated pyelonephritis (AUP) defined as infections occurring in premenopausal, non-pregnant women with no known urological abnormalities or comorbidities, CIPRO XR (1000 mg once daily)in 517 patients was compared to ciprofloxacin immediate-release tablets (500 mg twice daily)in 518 patients for 7 to 14 days.
+In the clinical trial of cUTI and acute uncomplicated pyelonephritis (AUP) defined as infections occurring in premenopausal, non-pregnant women with no known urological abnormalities or comorbidities, CIPRO XR (1000 mg once daily) in 517 patients was compared to ciprofloxacin immediate-release tablets (500 mg twice daily) in 518 patients for 7 to 14 days.
 Discontinuations due to adverse reactions thought to be drug-related occurred in 3.1% (16/517) of patients in the CIPRO XR arm and in 2.3% (12/518) of patients in the control arm.
 The most common reasons for discontinuation in the CIPRO XR arm were nausea/vomiting (4 patients) and dizziness (3 patients).
 In the control arm the most common reason for discontinuation was nausea/vomiting (3 patients).
@@ -56,7 +57,7 @@ Table 2: Medically Important Adverse Reactions That Occurred In <1% of CIPRO XR 
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been reported from worldwide marketing experience with fluoroquinolones, including CIPRO XR.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure (Table 3).
 
 Table 3: Postmarketing Reports of Adverse Drug Reactions
 

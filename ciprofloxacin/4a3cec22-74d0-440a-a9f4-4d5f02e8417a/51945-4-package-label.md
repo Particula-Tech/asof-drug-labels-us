@@ -1,3 +1,5 @@
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+
 Cipro XR 500 mg Tablets
 
 NDC 50419-788-01
@@ -9,6 +11,8 @@ ONCE DAILY Cipro XR (ciprofloxacin extended-release tablets) Rx Only
 Manufactured for Bayer HealthCare
 
 Bayer HealthCare Pharmaceuticals Inc. Wayne, NJ 07470 Manufactured in Germany
+
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
 Cipro XR 1000 mg Tablets
 
