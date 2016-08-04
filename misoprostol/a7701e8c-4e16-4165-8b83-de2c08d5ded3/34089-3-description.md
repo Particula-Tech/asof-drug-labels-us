@@ -1,8 +1,8 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-Diclofenac sodium/misoprostol tablet is a combination product containing diclofenac sodium, a nonsteroidal anti-inflammatory drug (NSAID) with analgesic properties, and misoprostol, a gastrointestinal (GI) mucosal protective prostaglandin E1 analog.
+Diclofenac sodium/misoprostol is a combination product containing diclofenac sodium, a nonsteroidal anti-inflammatory drug (NSAID) with analgesic properties, and misoprostol, a gastrointestinal (GI) mucosal protective prostaglandin E1 analog.
 Diclofenac sodium/misoprostol oral tablets are white to off-white, round, biconvex, and approximately 11 mm in diameter.
-Each tablet consists of an enteric-coated core containing 50 mg or 75 mg of diclofenac sodium surrounded by an outer mantle containing 200 mcg misoprostol.
+Each tablet consists of an enteric-coated core containing 50 mg (diclofenac sodium/misoprostol 50) or 75 mg (diclofenac sodium/misoprostol 75) diclofenac sodium surrounded by an outer mantle containing 200 mcg misoprostol.
 
 Diclofenac sodium is a phenylacetic acid derivative that is a white to off-white, virtually odorless, crystalline powder.
 Diclofenac sodium is freely soluble in methanol, soluble in ethanol, and practically insoluble in chloroform and in dilute acid.
@@ -16,4 +16,4 @@ Its chemical formula and name are:
 
 C22H38O5 [M.W. = 382.54] (±) methyl 11α,16-dihydroxy-16-methyl-9-oxoprost-13E-en-1-oate.
 
-Inactive ingredients in diclofenac sodium/misoprostol tablets include: colloidal silicon dioxide; crospovidone; hydrogenated castor oil; hypromellose; lactose; magnesium stearate; methacrylic acid copolymer; microcrystalline cellulose; povidone (polyvidone) K-30; sodium hydroxide; starch (corn); talc; triethyl citrate.
+Inactive ingredients in diclofenac sodium/misoprostol include: colloidal silicon dioxide; crospovidone; hydrogenated castor oil; hypromellose; lactose; magnesium stearate; methacrylic acid copolymer; microcrystalline cellulose; povidone (polyvidone) K-30; sodium hydroxide; starch (corn); talc; triethyl citrate.

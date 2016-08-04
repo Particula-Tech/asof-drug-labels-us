@@ -1,30 +1,33 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-The toxic dose of diclofenac sodium/misoprostol tablets has not been determined.
+The toxic dose of diclofenac sodium/misoprostol has not been determined.
 However, signs of overdosage from the components of the product have been described.
 
-## Diclofenac sodium
+Diclofenac
+
+Symptoms following acute NSAID overdosages have been typically limited to lethargy, drowsiness, nausea, vomiting, and epigastric pain, which have been generally reversible with supportive care.
+Gastrointestinal bleeding has occurred.
+Hypertension, acute renal failure, respiratory depression, and coma have occurred, but were rare [see Warnings and Precautions (5.1, 5.2, 5.4, 5.6)].
 
 Clinical signs that may suggest diclofenac sodium overdose include GI complaints, confusion, drowsiness, or general hypotonia.
-Reports of overdosage with diclofenac cover 66 cases.
-In approximately one-half of these reports of overdosage, concomitant medications were also taken.
-The highest dose of diclofenac was 5.0 g in a 17-year-old man who suffered loss of consciousness, increased intracranial pressure, and aspiration pneumonitis, and died 2 days after overdose.
-A 24-year-old woman who took 4.0 g and the 28- and 42-year-old women, each of whom took 3.75 g, did not develop any clinically significant signs or symptoms.
-However, there was a report of a 17-year-old woman who experienced vomiting and drowsiness after an overdose of 2.37 g of diclofenac.
 
-Animal studies show a wide range of susceptibilities to acute overdosage, with primates being more resistant to acute toxicity than rodents (LD50 in mg/kg: rats, 55; dogs, 500; monkeys, 3200).
+Manage patients with symptomatic and supportive care following an NSAID overdosage.
+There are no specific antidotes.
+Consider emesis and/or activated charcoal (60 to 100 grams in adults, 1 to 2 grams per kg of body weight in pediatric patients) and/or osmotic cathartic in symptomatic patients seen within four hours of ingestion or in patients with a large overdosage (5 to 10 times the recommended dosage).
+Forced diuresis, alkalinization of urine, hemodialysis, or hemoperfusion may not be useful due to high protein binding.
 
-## Misoprostol
+Misoprostol
 
 The toxic dose of misoprostol in humans has not been determined.
 Cumulative total daily doses of 1600 mcg have been tolerated, with only symptoms of GI discomfort being reported.
-In animals, the acute toxic effects are diarrhea, GI lesions, focal cardiac necrosis, hepatic necrosis, renal tubular necrosis, testicular atrophy, respiratory difficulties, and depression of the central nervous system.
 Clinical signs that may indicate an overdose are sedation, tremor, convulsions, dyspnea, abdominal pain, diarrhea, fever, palpitations, hypotension, or bradycardia.
 
-## Diclofenac sodium/misoprostol
+Diclofenac sodium/misoprostol
 
-Symptoms of overdosage with diclofenac sodium/misoprostol tablets should be treated with supportive therapy.
+Symptoms of overdosage with diclofenac sodium/misoprostol should be treated with supportive therapy.
 In case of acute overdosage, gastric lavage is recommended.
 Induced diuresis may be beneficial because diclofenac sodium and misoprostol metabolites are excreted in the urine.
 The effect of dialysis or hemoperfusion on the elimination of diclofenac sodium (99% protein bound) and misoprostol acid remains unproven.
 The use of oral activated charcoal may help to reduce the absorption of diclofenac sodium and misoprostol.
+
+For additional information about overdosage treatment contact a poison control center (1-800-222-1222).

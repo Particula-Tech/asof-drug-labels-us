@@ -1,6 +1,6 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Diclofenac sodium/misoprostol tablets are supplied as film-coated tablets in dosage strengths of either 50 mg diclofenac sodium/200 mcg misoprostol or 75 mg diclofenac sodium/200 mcg misoprostol.
+Diclofenac sodium/misoprostol is supplied as film-coated tablet in dosage strengths of either 50 mg diclofenac sodium/200 mcg misoprostol or 75 mg diclofenac sodium/200 mcg misoprostol.
 The 50 mg/200 mcg dosage strength is a round, biconvex, white to off-white tablet imprinted with a "50" in the middle on one side and "G" and "0028" on the other.
 The 75 mg/200 mcg dosage strength is a round, biconvex, white to off-white tablet imprinted with a "75" in the middle on one side and "G" and "0029" on the other.
 
