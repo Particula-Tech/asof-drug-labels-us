@@ -2,4 +2,4 @@ Antifibrinolytic agent
 
 Rx only
 
-LAB-0258-8.0 December 2014
+LAB-0258-9.0 June 2016

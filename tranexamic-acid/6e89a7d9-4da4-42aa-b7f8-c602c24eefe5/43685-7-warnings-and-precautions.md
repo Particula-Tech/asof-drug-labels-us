@@ -50,7 +50,7 @@ No mutagenic activity has been demonstrated in several in vitro and in vivo test
 
 There are no clinical data to assess the effects of tranexamic acid on fertility.
 
-## Pregnancy (Category B)
+## Pregnancy
 
 Reproduction studies performed in mice, rats, and rabbits have not revealed any evidence of impaired fertility or adverse effects on the fetus due to tranexamic acid.
 
