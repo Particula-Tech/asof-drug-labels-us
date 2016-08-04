@@ -115,14 +115,9 @@ Fluoxetine capsules are used to treat:
 - Obsessive Compulsive Disorder (OCD)
 - Bulimia Nervosa*
 - Panic Disorder*
-- Depressive episodes associated with Bipolar I Disorder, taken with olanzapine (Zyprexa)*
+- Depressive episodes associated with Bipolar I Disorder, taken with olanzapine (Zyprexa)
 
-* Not approved for use in children
-
-Information for pediatric patients (10 to 17 years) is approved for Eli Lilly and Company’s Fluoxetine Capsules.
-However due to Eli Lilly and Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
-
-Talk to your healthcare provider if you do not think that your condition is getting better with fluoxetine capsules treatment.
+* Not approved for use in children Talk to your healthcare provider if you do not think that your condition is getting better with fluoxetine capsules treatment.
 Who should not take fluoxetine capsules?
 Do not take fluoxetine capsules if you:
 
@@ -259,4 +254,4 @@ Orap® is a registered trademark of Teva Pharmaceuticals USA.
 Coumadin® is a registered trademark of Bristol Myers Squibb.
 Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc. Zyprexa® is a registered trademark of Eli Lilly and Company.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 090, India Revised: 05/2016
+Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 090, India Revised: 08/2016
