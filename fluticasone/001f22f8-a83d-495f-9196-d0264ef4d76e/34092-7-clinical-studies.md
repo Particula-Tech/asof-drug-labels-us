@@ -2,7 +2,7 @@
 
 ## 14.1 Adult and Adolescent Subjects Aged 12 Years and Older
 
-Four randomized, double-blind, parallel-group, placebo-controlled, US clinical trials were conducted in 1,036 adult and adolescent subjects (aged 12 years and older) with asthma to assess the efficacy and safety of FLOVENT DISKUS in the treatment of asthma.
+Four randomized, double-blind, parallel-group, placebo-controlled, U.S. clinical trials were conducted in 1,036 adult and adolescent subjects (aged 12 years and older) with asthma to assess the efficacy and safety of FLOVENT DISKUS in the treatment of asthma.
 Fixed dosages of 100, 250, and 500 mcg twice daily were compared with placebo to provide information about appropriate dosing to cover a range of asthma severity.
 Subjects in these trials included those inadequately controlled with bronchodilators alone and those already maintained on daily inhaled corticosteroids.
 All doses were delivered by inhalation of the contents of 1 or 2 blisters from FLOVENT DISKUS twice daily.

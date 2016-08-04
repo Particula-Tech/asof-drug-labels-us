@@ -24,9 +24,9 @@ If a patient is exposed to measles, prophylaxis with pooled intramuscular immuno
 (See the respective package inserts for complete VZIG and IG prescribing information.)
 If chickenpox develops, treatment with antiviral agents may be considered.
 
-Inhaled corticosteroids should be used with caution, if at all, in patients with active or quiescent tuberculosis infections of the respiratory tract; systemic fungal, bacterial, viral or parasitic infections; or ocular herpes simplex.
+Inhaled corticosteroids should be used with caution, if at all, in patients with active or quiescent tuberculosis infections of the respiratory tract; systemic fungal, bacterial, viral, or parasitic infections; or ocular herpes simplex.
 
-## 5.4 Transferring Patients From Systemic Corticosteroid Therapy
+## 5.4 Transferring Patients from Systemic Corticosteroid Therapy
 
 Particular care is needed for patients who have been transferred from systemically active corticosteroids to inhaled corticosteroids because deaths due to adrenal insufficiency have occurred in patients with asthma during and after transfer from systemic corticosteroids to less systemically available inhaled corticosteroids.
 After withdrawal from systemic corticosteroids, a number of months are required for recovery of hypothalamic-pituitary-adrenal (HPA) function.
@@ -69,9 +69,9 @@ There have been reports of anaphylactic reactions in patients with severe milk p
 
 Decreases in bone mineral density (BMD) have been observed with long-term administration of products containing inhaled corticosteroids.
 The clinical significance of small changes in BMD with regard to long-term consequences such as fracture is unknown.
-Patients with major risk factors for decreased bone mineral content, such as prolonged immobilization, family history of osteoporosis, postmenopausal status, tobacco use, advanced age, poor nutrition, or chronic use of drugs that can reduce bone mass (e.g., anticonvulsants, oral corticosteroids) should be monitored and treated with established standards of care.
+Patients with major risk factors for decreased bone mineral content, such as prolonged immobilization, family history of osteoporosis, postmenopausal status, tobacco use, advanced age, poor nutrition, or chronic use of drugs that can reduce bone mass (e.g., anticonvulsants, oral corticosteroids), should be monitored and treated with established standards of care.
 
-A 2-year trial in 160 subjects (females aged 18 to 40 years, males 18 to 50) with asthma receiving CFC-propelled fluticasone propionate inhalation aerosol 88 or 440 mcg twice daily demonstrated no statistically significant changes in BMD at any time point (24, 52, 76, and 104 weeks of double-blind treatment) as assessed by dual-energy x-ray absorptiometry at lumbar regions L1 through L4.
+A 2-year trial in 160 subjects (females aged 18 to 40 years, males 18 to 50) with asthma receiving chlorofluorocarbon (CFC)-propelled fluticasone propionate inhalation aerosol 88 or 440 mcg twice daily demonstrated no statistically significant changes in BMD at any time point (24, 52, 76, and 104 weeks of double-blind treatment) as assessed by dual-energy x-ray absorptiometry at lumbar regions L1 through L4.
 
 ## 5.8 Effect on Growth
 
@@ -89,7 +89,7 @@ Therefore, close monitoring is warranted in patients with a change in vision or 
 As with other inhaled medicines, bronchospasm may occur with an immediate increase in wheezing after dosing.
 If bronchospasm occurs following dosing with FLOVENT DISKUS, it should be treated immediately with an inhaled, short-acting bronchodilator; FLOVENT DISKUS should be discontinued immediately; and alternative therapy should be instituted.
 
-## 5.11 Drug Interactions With Strong Cytochrome P450 3A4 Inhibitors
+## 5.11 Drug Interactions with Strong Cytochrome P450 3A4 Inhibitors
 
 The use of strong cytochrome P450 3A4 (CYP3A4) inhibitors (e.g., ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, ketoconazole, telithromycin) with FLOVENT DISKUS is not recommended because increased systemic corticosteroid adverse effects may occur [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
 

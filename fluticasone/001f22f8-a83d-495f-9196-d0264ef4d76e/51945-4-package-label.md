@@ -20,8 +20,8 @@ Rx only
 
 ©2014, the GSK group of companies
 
-- 10000000126837 Rev.
-  9/14
+1. 10000000126837 Rev.
+   9/14
 
 # Click here to enter text.
 
@@ -47,8 +47,8 @@ Rx only
 
 ©2014, the GSK group of companies
 
-- 10000000126839 Rev.
-  9/14
+1. 10000000126839 Rev.
+   9/14
 
 PRINCIPAL DISPLAY PANEL
 
@@ -72,5 +72,5 @@ Rx only
 
 ©2014, the GSK group of companies
 
-- 10000000126841 Rev.
-  9/14
+1. 10000000126841 Rev.
+   9/14

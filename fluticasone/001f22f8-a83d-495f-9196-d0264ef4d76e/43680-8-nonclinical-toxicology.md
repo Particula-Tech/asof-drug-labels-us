@@ -7,5 +7,4 @@ Fluticasone propionate demonstrated no tumorigenic potential in mice at oral dos
 Fluticasone propionate did not induce gene mutation in prokaryotic or eukaryotic cells in vitro.
 No significant clastogenic effect was seen in cultured human peripheral lymphocytes in vitro or in the in vivo mouse micronucleus test.
 
-No evidence of impairment of fertility was observed in male and female rats at subcutaneous doses up to 50 mcg/kg (approximately 0.2 times the MRHDID for adults on a mg/m2 basis).
-Prostate weight was significantly reduced.
+Fertility and reproductive performance were unaffected in male and female rats at subcutaneous doses up to 50 mcg/kg (approximately 0.2 times the MRHDID for adults on a mg/m2 basis).
