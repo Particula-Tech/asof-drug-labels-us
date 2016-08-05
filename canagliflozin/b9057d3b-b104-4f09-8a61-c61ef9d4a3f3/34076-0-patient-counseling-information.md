@@ -32,7 +32,8 @@ Inform patients that dehydration may increase the risk for hypotension, and to h
 
 Ketoacidosis
 
-Inform patients that ketoacidosis has been reported during use of INVOKANA.
+Inform patients that ketoacidosis is a serious life-threatening condition.
+Cases of ketoacidosis have been reported during use of INVOKANA.
 Instruct patients to check ketones (when possible) if symptoms consistent with ketoacidosis occur even if blood glucose is not elevated.
 If symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness, and labored breathing) occur, instruct patients to discontinue INVOKANA and seek medical advice immediately [see Warnings and Precautions (5.2)].
 
