@@ -100,7 +100,7 @@ Dispense the enclosed Medication Guide to each patient
 
 # PRINCIPAL DISPLAY PANEL - 90 – 4 Unit/90 – 8 Unit Kit Carton (Titration Pack)
 
-NDC 47918-880-16 Rx ONLY
+NDC 47918-880-18 Rx ONLY
 
 For FPO Only
 
