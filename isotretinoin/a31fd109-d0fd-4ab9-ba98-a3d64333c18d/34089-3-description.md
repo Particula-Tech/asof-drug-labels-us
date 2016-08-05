@@ -13,6 +13,6 @@ The 20 mg capsule contains black iron oxide, red iron oxide and yellow iron oxid
 The 30 mg capsule contains red iron oxide and yellow iron oxide.
 The 40 mg capsule contains FD&C yellow no. 6.
 
-The edible imprinting ink contains: 10 mg strength, D&C red no. 1 calcium lake, FD&C yellow no. 6 aluminum lake, propylene glycol, shellac glaze, and titanium dioxide; 20 mg strength, ammonium hydroxide, propylene glycol, shellac glaze, simethicone and titanium dioxide; 30 mg strength, D&C yellow no. 10 aluminum lake, FD&C blue no.1 aluminum lake, FD&C blue no. 2 aluminum lake, FD&C red no. 40 aluminum lake, iron oxide black, propylene glycol, and shellac glaze; 40 mg strength, ammonium hydroxide, iron oxide black, propylene glycol, and shellac glaze.
+The edible imprinting ink contains: 10 mg strength, D&C red no. 7 calcium lake, FD&C yellow no. 6 aluminum lake, propylene glycol, shellac glaze, and titanium dioxide; 20 mg strength, ammonium hydroxide, propylene glycol, shellac glaze, simethicone and titanium dioxide; 30 mg strength, D&C yellow no. 10 aluminum lake, FD&C blue no.1 aluminum lake, FD&C blue no. 2 aluminum lake, FD&C red no. 40 aluminum lake, iron oxide black, propylene glycol, and shellac glaze; 40 mg strength, ammonium hydroxide, iron oxide black, propylene glycol, and shellac glaze.
 
 Meets dissolution test 2.

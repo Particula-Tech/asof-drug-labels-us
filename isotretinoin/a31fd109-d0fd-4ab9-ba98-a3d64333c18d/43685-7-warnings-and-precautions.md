@@ -216,7 +216,7 @@ Other:
 Any birth control method can fail.
 There have been reports of pregnancy from female patients who have used oral contraceptives, as well as transdermal patch/injectable/implantable/vaginal ring hormonal birth control products; these pregnancies occurred while these patients were taking Claravis.
 These reports are more frequent for female patients who use only a single method of contraception.
-Therefore, it is critically important that female patients of reproductive potential use two effective forms of contraception simultaneously.
+Therefore, it is critically important that females of reproductive potential use two effective forms of contraception simultaneously.
 Patients must receive written warnings about the rates of possible contraception failure (included in patient education kits).
 
 Using two forms of contraception simultaneously substantially reduces the chances that a female will become pregnant over the risk of pregnancy with either form alone.
