@@ -57,7 +57,8 @@ Monitor for signs and symptoms after initiating therapy.
 
 ## 5.3 Ketoacidosis
 
-Reports of ketoacidosis, a serious life-threatening condition requiring urgent hospitalization have been identified in postmarketing surveillance in patients with type 1 and type 2 diabetes mellitus receiving sodium glucose co-transporter-2 (SGLT2) inhibitors, including canagliflozin.
+Reports of ketoacidosis, a serious life-threatening condition requiring urgent hospitalization have been identified in postmarketing surveillance in patients with type 1 and type 2 diabetes mellitus receiving sodium glucose co transporter 2 (SGLT2) inhibitors, including canagliflozin.
+Fatal cases of ketoacidosis have been reported in patients taking canagliflozin.
 INVOKAMET is not indicated for the treatment of patients with type 1 diabetes mellitus [see Indications and Usage (1)].
 
 Patients treated with INVOKAMET who present with signs and symptoms consistent with severe metabolic acidosis should be assessed for ketoacidosis regardless of presenting blood glucose levels, as ketoacidosis associated with INVOKAMET may be present even if blood glucose levels are less than 250 mg/dL.

@@ -15,7 +15,8 @@ Advise the patient to read the FDA-Approved Patient Labeling (Medication Guide).
   If a dose is missed, advise patients not to take two doses of INVOKAMET at the same time.
 - Hypotension: Inform patients that symptomatic hypotension may occur with INVOKAMET and advise them to contact their doctor if they experience such symptoms [see Warnings and Precautions (5.2)].
   Inform patients that dehydration may increase the risk for hypotension and to have adequate fluid intake.
-- Ketoacidosis: Inform patients that ketoacidosis has been reported during use of canagliflozin.
+- Ketoacidosis: Inform patients that ketoacidosis is a serious life-threatening condition.
+  Cases of ketoacidosis have been reported during use of canagliflozin.
   Instruct patients to check ketones (when possible) if symptoms consistent with ketoacidosis occur even if blood glucose is not elevated.
   If symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness, and labored breathing) occur, instruct patients to discontinue INVOKAMET and seek medical advice immediately [see Warnings and Precautions (5.3)].
 - Acute Kidney Injury: Inform patients that acute kidney injury has been reported during use of canagliflozin.
