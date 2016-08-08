@@ -169,9 +169,9 @@ Based on extrapolation from a pharmacokinetic study with ketoconazole in 7 patie
 
 ## 2.8 Administration Precautions
 
-Docetaxel Injection is a cytotoxic anticancer drug and, as with other potentially toxic compounds, caution should be exercised when handling and preparing Docetaxel Injection solutions.
-The use of gloves is recommended.
-Please refer to [see How Supplied/Storage and Handling (16.3)].
+Docetaxel Injection is a cytotoxic anticancer drug.
+Follow special handling and disposal procedures when preparing Docetaxel Injection solutions.
+1
 
 If Docetaxel Injection, initial diluted solution, or final dilution for infusion should come into contact with the skin, immediately and thoroughly wash with soap and water.
 If Docetaxel Injection, initial diluted solution, or final dilution for infusion should come into contact with mucosa, immediately and thoroughly wash with water.
@@ -179,7 +179,7 @@ If Docetaxel Injection, initial diluted solution, or final dilution for infusion
 Contact of the Docetaxel Injection with plasticized PVC equipment or devices used to prepare solutions for infusion is not recommended.
 In order to minimize patient exposure to the plasticizer DEHP (di-2-ethylhexyl phthalate), which may be leached from PVC infusion bags or sets, the final Docetaxel Injection dilution for infusion should be stored in bottles (glass, polypropylene) or plastic bags (polypropylene, polyolefin) and administered through polyethylene-lined administration sets.
 
-Two-vial formulation (Injection Concentrate and Diluent)
+Two-vial formulation (Injection with Diluent)
 
 Docetaxel Injection requires two dilutions prior to administration.
 Please follow the preparation instructions provided below.
@@ -195,17 +195,17 @@ Table 3 – Initial Dilution of Docetaxel Injection
 | Docetaxel Injection 20 mg/0.5 mL | 1.5 to 2.08 mL | 1.95 mL | 10 mg/mL |
 | Docetaxel Injection 80 mg/2 mL | 6 to 7.4 mL | 7.2 mL | 10 mg/mL |
 
-One-vial formulation (Injection Concentrate)
+One-vial formulation (Injection)
 
-Docetaxel Injection Concentrate requires NO prior dilution with a diluent and is ready to add to the infusion solution.
+Docetaxel Injection requires NO prior dilution with a diluent and is ready to add to the infusion solution.
 
 Please follow the preparation instructions provided below.
 
 ## 2.9 Preparation and Administration
 
-DO NOT use the two-vial formulation (Injection Concentrate and diluent) with the one-vial formulation.
+DO NOT use the two-vial formulation (Injection with diluent) with the one-vial formulation.
 
-Two-vial formulation (Injection Concentrate and Diluent)
+Two-vial formulation (Injection with Diluent)
 
 A.Initial Diluted Solution
 
@@ -228,13 +228,13 @@ B.Final Dilution for Infusion
    If the Docetaxel Injection initial diluted solution or final dilution for intravenous infusion is not clear or appears to have precipitation, these should be discarded.
    The final Docetaxel Injection dilution for infusion should be administered intravenously as a 1-hour infusion under ambient room temperature and lighting conditions.
 
-One-vial formulation (Injection Concentrate)
+One-vial formulation (Injection)
 
-Docetaxel Injection Concentrate (20 mg/mL) requires NO prior dilution with a diluent and is ready to add to the infusion solution.
+Docetaxel Injection (20 mg/mL) requires NO prior dilution with a diluent and is ready to add to the infusion solution.
 Use only a 21 gauge needle to withdraw docetaxel from the vial because larger bore needles (e.g., 18 and 19 gauge) may result in stopper coring and rubber particulates.
 
-1. Docetaxel Injection Concentrate vials should be stored between 15°C and 25°C (59°F and 77°F).
-2. Using only a 21 gauge needle, aseptically withdraw the required amount of Docetaxel Injection Concentrate (20 mg docetaxel/mL) with a calibrated syringe and inject via a single injection (one shot) into a 250 mL infusion bag or bottle of either 0.9% Sodium Chloride solution or 5% Dextrose solution to produce a final concentration of 0.3 mg/mL to 0.74 mg/mL.
+1. Docetaxel Injection vials should be stored between 15°C and 25°C (59°F and 77°F).
+2. Using only a 21 gauge needle, aseptically withdraw the required amount of Docetaxel Injection (20 mg docetaxel/mL) with a calibrated syringe and inject via a single injection into a 250 mL infusion bag or bottle of either 0.9% Sodium Chloride solution or 5% Dextrose solution to produce a final concentration of 0.3 mg/mL to 0.74 mg/mL.
    If a dose > 200 mg of docetaxel is required, use a larger volume of the infusion vehicle so that a concentration of 0.74 mg/mL docetaxel is not exceeded
 3. Thoroughly mix the infusion by gentle manual rotation.
 4. As with all parenteral products, docetaxel should be inspected visually for particulate matter or discoloration prior to administration whenever the solution and container permit.

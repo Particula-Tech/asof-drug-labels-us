@@ -23,7 +23,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 Responding patients may not experience an improvement in performance status on therapy and may experience worsening.
 The relationship between changes in performance status, response to therapy, and treatment-related side effects has not been established.
 
-## 6.1 Clinical Trials Experience
+## 6.1 Clinical Trial Experience
 
 Breast Cancer
 
@@ -306,7 +306,7 @@ Lung Cancer
 
 Monotherapy with docetaxel for unresectable, locally advanced or metastatic NSCLC previously treated with platinum-based chemotherapy
 
-Docetaxel 75 mg/m 2: Treatment emergent adverse drug reactions are shown in Table 8.
+Treatment emergent adverse drug reactions are shown in Table 8.
 Included in this table are safety data for a total of 176 patients with non-small cell lung carcinoma and a history of prior treatment with platinum-based chemotherapy who were treated in two randomized, controlled trials.
 These reactions were described using NCI Common Toxicity Criteria regardless of relationship to study treatment, except for the hematologic toxicities or where otherwise noted.
 
@@ -629,7 +629,7 @@ Ophthalmologic:conjunctivitis, lacrimation or lacrimation with or without conjun
 Excessive tearing which may be attributable to lacrimal duct obstruction has been reported.
 Rare cases of transient visual disturbances (flashes, flashing lights, scotomata) typically occurring during drug infusion and in association with hypersensitivity reactions have been reported.
 These were reversible upon discontinuation of the infusion.
-Cases of cystoid macular edema (CME) have been reported in patients treated with Docetaxel Injection.
+Cases of cystoid macular edema (CME) have been reported in patients treated with docetaxel.
 
 Hearing: rare cases of ototoxicity, hearing disorders and/or hearing loss have been reported, including cases associated with other ototoxic drugs.
 

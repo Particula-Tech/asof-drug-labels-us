@@ -37,7 +37,7 @@ Three breast cancer patients with severe liver impairment (bilirubin >1.7 times 
 In gastric cancer patients treated with docetaxel in combination with cisplatin and fluorouracil (TCF), febrile neutropenia and/or neutropenic infection occurred in 12% of patients receiving G-CSF compared to 28% who did not.
 Patients receiving TCF should be closely monitored during the first and subsequent cycles for febrile neutropenia and neutropenic infection [see Dosage and Administration (2.7), Adverse Reactions (6)]
 
-## 5.4 Hypersensitivity reaction
+## 5.4 Hypersensitivity Reactions
 
 Patients should be observed closely for hypersensitivity reactions, especially during the first and second infusions.
 Severe hypersensitivity reactions characterized by generalized rash/erythema, hypotension and/or bronchospasm, or very rarely fatal anaphylaxis, have been reported in patients premedicated with 3 days of corticosteroids.
@@ -102,11 +102,11 @@ Cases of intoxication have been reported with some formulations of docetaxel due
 The alcohol content in a dose of Docetaxel Injection may affect the central nervous system and should be taken into account for patients in whom alcohol intake should be avoided or minimized.
 Consideration should be given to the alcohol content in Docetaxel Injection on the ability to drive or use machines immediately after the infusion.
 
-For Two-vial formulation (Injection Concentrate and Diluent) Each administration of Docetaxel Injection at 100 mg/m 2 delivers 0.15 g/m 2of ethanol.
+For Two-vial formulation (Injection with Diluent) Each administration of Docetaxel Injection at 100 mg/m 2 delivers 0.15 g/m 2of ethanol.
 For a patient with a BSA of 2.0 m 2, this would deliver 0.3 grams of ethanol [see Description (11)].
 Other docetaxel products may have a different amount of alcohol.
 
-For One-vial formulation (Injection Concentrate) Each administration of Docetaxel Injection at 100 mg/m 2 delivers 1.975 g/m 2 of ethanol.
+For One-vial formulation (Injection) Each administration of Docetaxel Injection at 100 mg/m 2 delivers 1.975 g/m 2 of ethanol.
 For a patient with a BSA of 2.0 m 2, this would deliver 3.95 grams of ethanol [see Description (11)].
 Other docetaxel products may have a different amount of alcohol.
 

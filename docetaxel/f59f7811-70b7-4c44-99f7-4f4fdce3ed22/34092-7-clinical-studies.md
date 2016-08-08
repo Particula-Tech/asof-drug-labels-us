@@ -2,7 +2,7 @@
 
 ## 14.1 Locally Advanced or Metastatic Breast Cancer
 
-The efficacy and safety of docetaxel have been evaluated in locally advanced or metastatic breast cancer after failure of previous chemotherapy (alkylating agent-containing regimens or anthracycline-containing regimens).
+The efficacy and safety of another formulation of docetaxel have been evaluated in locally advanced or metastatic breast cancer after failure of previous chemotherapy (alkylating agent-containing regimens or anthracycline-containing regimens).
 
 Randomized Trials
 
@@ -62,7 +62,7 @@ Among 26 patients whose best response to an anthracycline had been progression, 
 
 ## 14.2 Adjuvant Treatment of Breast Cancer
 
-A multicenter, open-label, randomized trial (TAX316) evaluated the efficacy and safety of docetaxel for the adjuvant treatment of patients with axillary-node-positive breast cancer and no evidence of distant metastatic disease.
+A multicenter, open-label, randomized trial (TAX316) evaluated the efficacy and safety of another formulation of docetaxel for the adjuvant treatment of patients with axillary-node-positive breast cancer and no evidence of distant metastatic disease.
 After stratification according to the number of positive lymph nodes (1 to 3, 4+), 1491 patients were randomized to receive either docetaxel 75 mg/m 2 administered 1-hour after doxorubicin 50 mg/m 2 and cyclophosphamide 500 mg/m 2 (TAC arm), or doxorubicin 50 mg/m 2 followed by fluorouracil 500 mg/m 2 and cyclosphosphamide 500 mg/m 2 (FAC arm).
 Both regimens were administered every 3 weeks for 6 cycles.
 
@@ -100,7 +100,7 @@ Table 15 - Subset Analyses-Adjuvant Breast Cancer Study
 
 ## 14.3 Non-Small Cell Lung Cancer (NSCLC)
 
-The efficacy and safety of docetaxel has been evaluated in patients with unresectable, locally advanced or metastatic non-small cell lung cancer whose disease has failed prior platinum-based chemotherapy or in patients who are chemotherapy-naïve.
+The efficacy and safety of another formulation of docetaxel has been evaluated in patients with unresectable, locally advanced or metastatic non-small cell lung cancer whose disease has failed prior platinum-based chemotherapy or in patients who are chemotherapy-naïve.
 
 Monotherapy with docetaxel for NSCLC Previously Treated with Platinum Based Chemotherapy
 
@@ -179,7 +179,7 @@ Table 18 - Response and TTP Analysis of Docetaxel in Combination Therapy for Che
 
 ## 14.4 Hormone Refractory Prostate Cancer
 
-The safety and efficacy of docetaxel in combination with prednisone in patients with androgen independent (hormone refractory) metastatic prostate cancer were evaluated in a randomized multicenter active control trial.
+The safety and efficacy of another formulation of docetaxel in combination with prednisone in patients with androgen independent (hormone refractory) metastatic prostate cancer were evaluated in a randomized multicenter active control trial.
 A total of 1006 patients with Karnofsky Performance Status (KPS) ≥60 were randomized to the following treatment groups:
 
 - Docetaxel 75 mg/m 2 every 3 weeks for 10 cycles.
@@ -207,7 +207,7 @@ Figure 5 - TAX327 Survival K-M Curves
 
 ## 14.5 Gastric Adenocarcinoma
 
-A multicenter, open-label, randomized trial was conducted to evaluate the safety and efficacy of docetaxel for the treatment of patients with advanced gastric adenocarcinoma, including adenocarcinoma of the gastroesophageal junction, who had not received prior chemotherapy for advanced disease.
+A multicenter, open-label, randomized trial was conducted to evaluate the safety and efficacy of another formulation of docetaxel for the treatment of patients with advanced gastric adenocarcinoma, including adenocarcinoma of the gastroesophageal junction, who had not received prior chemotherapy for advanced disease.
 A total of 445 patients with KPS >70 were treated with either docetaxel (T) (75 mg/m 2 on day 1) in combination with cisplatin (C) (75 mg/m 2 on day 1) and fluorouracil (F) (750 mg/m 2 per day for 5 days) or cisplatin (100 mg/m 2 on day 1) and fluorouracil (1000 mg/m 2 per day for 5 days).
 The length of a treatment cycle was 3 weeks for the TCF arm and 4 weeks for the CF arm.
 The demographic characteristics were balanced between the two treatment arms.
@@ -246,7 +246,7 @@ Figure 7 - Gastric Cancer Study (TAX325) Survival K-M Curve
 
 Induction chemotherapy followed by radiotherapy (TAX323)
 
-The safety and efficacy of docetaxel in the induction treatment of patients with squamous cell carcinoma of the head and neck (SCCHN) was evaluated in a multicenter, open-label, randomized trial (TAX323).
+The safety and efficacy of another formulation of docetaxel in the induction treatment of patients with squamous cell carcinoma of the head and neck (SCCHN) was evaluated in a multicenter, open-label, randomized trial (TAX323).
 In this study, 358 patients with inoperable locally advanced SCCHN, and WHO performance status 0 or 1, were randomized to one of two treatment arms.
 Patients on the docetaxel arm received docetaxel (T) 75 mg/m 2 followed by cisplatin (P) 75 mg/m 2 on Day 1, followed by fluorouracil (F) 750 mg/m 2 per day as a continuous infusion on Days 1 to 5.
 The cycles were repeated every three weeks for 4 cycles.
@@ -282,7 +282,7 @@ Figure 9 - TAX323 Overall Survival K-M Curve
 
 Induction chemotherapy followed by chemoradiotherapy (TAX324)
 
-The safety and efficacy of docetaxel in the induction treatment of patients with locally advanced (unresectable, low surgical cure, or organ preservation) SCCHN was evaluated in a randomized, multicenter open-label trial (TAX324).
+The safety and efficacy of another formulation of docetaxel in the induction treatment of patients with locally advanced (unresectable, low surgical cure, or organ preservation) SCCHN was evaluated in a randomized, multicenter open-label trial (TAX324).
 In this study, 501 patients, with locally advanced SCCHN, and a WHO performance status of 0 or 1, were randomized to one of two treatment arms.
 Patients on the docetaxel arm received docetaxel (T) 75 mg/m 2 by intravenous infusion on day 1 followed by cisplatin (P) 100 mg/m 2 administered as a 30-minute to three-hour intravenous infusion, followed by the continuous intravenous infusion of fluorouracil (F) 1000 mg/m 2/day from day 1 to day 4.
 The cycles were repeated every 3 weeks for 3 cycles.

@@ -2,79 +2,57 @@
 
 ## 16.1 How Supplied
 
-Two-vial formulation (Injection Concentrate and Diluent)
+Two-vial formulation (Injection with Diluent)
 
-Docetaxel Injection USP is supplied in a single-use vial as a sterile, pyrogen-free, non-aqueous, viscous solution with an accompanying sterile, non-pyrogenic, Diluent (13% polyethylene glycol 400 in water for injection) vial.
+Docetaxel Injection is supplied in single dose vials for 80 mg/mL and 20 mg/mL as a sterile, pyrogen-free, non-aqueous, viscous solution with an accompanying sterile, non-pyrogenic, diluent vial.
 
-Docetaxel Injection USP 80 mg/2 mL (NDC 16729-228-50)
+Docetaxel Injection 80 mg/2 mL with Diluent for Docetaxel Injection USP 80 mg: Both items are in a blister pack in one carton.
+NDC 16729-228-50
 
-Docetaxel Injection USP 80 mg/2 mL: 80 mg docetaxel anhydrous USP, anhydrous citric acid for pH adjustment, 120 mg dehydrated alcohol, in 2 mL polysorbate 80 and Diluent for Docetaxel Injection USP 80 mg (13% (w/v) polyethylene glycol 400 in water for injection).
-Both items are in a blister pack in one carton.
+Docetaxel Injection 20 mg/0.5 mL with Diluent for Docetaxel Injection USP 20 mg: Both items are in a blister pack in one carton.
+NDC 16729-120-49
 
-Docetaxel Injection USP 20 mg/0.5 mL (NDC 16729-120-49)
+One-vial formulation (Injection)
 
-Docetaxel Injection USP 20 mg/0.5 mL: 20 mg docetaxel anhydrous USP, anhydrous citric acid for pH adjustment, 30 mg dehydrated alcohol, in 0.5 mL polysorbate 80 and Diluent for Docetaxel Injection USP 20 mg (13% (w/v) polyethylene glycol 400 in water for injection).
-Both items are in a blister pack in one carton.
+Docetaxel Injection is supplied in single dose and multiple dose vials as a sterile, pyrogen-free, non-aqueous solution.
 
-One-vial formulation (Injection Concentrate)
+Docetaxel Injection Single Dose Vials
 
-Docetaxel Injection USP is supplied in a single use and multi use vial as a sterile, pyrogen-free, non-aqueous solution.
+Docetaxel Injection 160 mg/8 mL: The vial is in one carton.
+NDC 16729-231-65
 
-How supplied details of Docetaxel Injection USP Single Use Vials
+Docetaxel Injection 80 mg/4 mL: The vial is in one carton.
+NDC 16729-231-64
 
-Docetaxel Injection USP 160 mg/8 mL (NDC 16729-231-65)
+Docetaxel Injection 20 mg/1 mL: The vial is in one carton.
+NDC 16729-231-63
 
-Docetaxel Injection USP 160 mg/8 mL: 160 mg docetaxel anhydrous USP, 32 mg anhydrous citric acid, 4160 mg polysorbate 80 and 3160 mg dehydrated alcohol in 8 mL.
+Docetaxel Injection Multiple Dose Vials
 
-The vial is in one carton.
+Docetaxel Injection 160 mg/8 mL: The vial is in one carton.
+NDC 16729-267-65
 
-Docetaxel Injection USP 80 mg/4 mL (NDC 16729-231-64)
+Docetaxel Injection 80 mg/4 mL: The vial is in one carton.
+NDC 16729-267-64
 
-Docetaxel Injection USP 80 mg/4 mL: 80 mg docetaxel anhydrous USP, 16 mg anhydrous citric acid, 2080 mg polysorbate 80 and 1580 mg dehydrated alcohol in 4 mL.
-
-The vial is in one carton.
-
-Docetaxel Injection USP 20 mg/mL (NDC 16729-231-63)
-
-Docetaxel Injection USP 20 mg/1 mL: 20 mg docetaxel anhydrous USP, 4 mg anhydrous citric acid, 520 mg polysorbate 80 and 395 mg dehydrated alcohol in 1 mL.
-
-The vial is in one carton.
-
-How supplied details of Docetaxel Injection USP Multi Use Vials
-
-Docetaxel Injection USP 160 mg/8 mL (NDC 16729-267-65)
-
-Docetaxel Injection USP 160 mg/8 mL: 160 mg docetaxel anhydrous USP, 32 mg anhydrous citric acid, 4160 mg polysorbate 80 and 3160 mg dehydrated alcohol in 8 mL.
-
-The vial is in one carton.
-
-Docetaxel Injection USP 80 mg/4 mL (NDC 16729-267-64)
-
-Docetaxel Injection USP 80 mg/4 mL: 80 mg docetaxel anhydrous USP, 16 mg anhydrous citric acid, 2080 mg polysorbate 80 and 1580 mg dehydrated alcohol in 4 mL.
-
-The vial is in one carton.
-
-Docetaxel Injection USP 20 mg/mL (NDC 16729-267-63)
-
-Docetaxel Injection USP 20 mg/1 mL: 20 mg docetaxel anhydrous USP, 4 mg anhydrous citric acid, 520 mg polysorbate 80 and 395 mg dehydrated alcohol in 1 mL.
-
-The vial is in one carton.
+Docetaxel Injection 20 mg/1 mL: The vial is in one carton.
+NDC 16729-267-63
 
 ## 16.2 Storage
 
-Two-vial formulation (Injection Concentrate and Diluent)
+Two-vial formulation (Injection with Diluent)
 
 Store at 25°C (77°F); excursions permitted from 15°C - 30°C (59°-86°F) [see USP Controlled Room Temperature].
 Protect from light.
 
-One-vial formulation (Injection Concentrate)
+One-vial formulation (Injection)
 
 Store between 15°C and 25°C (59°F and 77°F); Retain in the original package to protect from light.
 Freezing does not adversely affect the product.
 
-After initial puncture, Docetaxel Injection Concentrate multi use vials are stable for 28 days when stored at room temperature, with protection from light.
+After initial puncture, Docetaxel Injection multiple dose vials are stable for 28 days when stored at room temperature, with protection from light.
 
 ## 16.3 Handling and Disposal
 
-Procedures for proper handling and disposal of anticancer drugs should be considered.
-Several guidelines on this subject have been published [see References (15)].
+Follow procedures for proper handling and disposal of anticancer drugs.
+1

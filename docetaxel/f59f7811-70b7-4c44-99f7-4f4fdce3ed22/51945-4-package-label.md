@@ -76,10 +76,10 @@ Docetaxel Injection USP 80 mg/2 mL (NDC 16729-228-50)
 
 Docetaxel Injection USP 20 mg/0.5 mL (NDC 16729-120-49)
 
-One-vial formulation (Injection Concentrate)- Single Use
+One-vial formulation (Injection Concentrate)- Single Dose
 
 Docetaxel Injection USP 160 mg/8 mL (NDC 16729-231-65)
 
-# One-vial formulation (Injection Concentrate)- Multi Use
+# One-vial formulation (Injection Concentrate)- Multiple Dose
 
 Docetaxel Injection USP 160 mg/8 mL (NDC 16729-267-65)
