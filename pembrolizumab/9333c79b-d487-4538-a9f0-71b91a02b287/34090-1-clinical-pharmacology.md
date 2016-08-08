@@ -9,19 +9,11 @@ In syngeneic mouse tumor models, blocking PD-1 activity resulted in decreased tu
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetics of pembrolizumab was studied in 2195 patients who received doses of 1 to 10 mg/kg every 2 weeks or 2 to 10 mg/kg every 3 weeks.
-Based on population pharmacokinetic analyses in patients with solid tumors, the geometric mean [% coefficient of variation (CV%)] for clearance, steady-state volume of distribution, and terminal half-life were 202 mL/day (37%), 7.38 L (19%) and 27 days (38%), respectively.
+The pharmacokinetics of pembrolizumab was studied in 2195 patients with various cancers who received doses of 1 to 10 mg/kg every 2 weeks or 2 to 10 mg/kg every 3 weeks.
+Based on population pharmacokinetic analyses in patients with solid tumors, the geometric mean [% coefficient of variation (CV%)] for clearance (CL), steady-state volume of distribution, and terminal half-life were 202 mL/day (38%), 7.38 L (19%) and 27 days (38%), respectively.
 
 Steady-state concentrations of pembrolizumab were reached by 19 weeks of repeated dosing with an every 3-week regimen and the systemic accumulation was 2.2-fold.
 The peak concentration (Cmax), trough concentration (Cmin), and area under the plasma concentration versus time curve at steady state (AUCss) of pembrolizumab increased dose proportionally in the dose range of 2 to 10 mg/kg every 3 weeks.
 
-Specific Populations: The effects of various covariates on the pharmacokinetics of pembrolizumab were assessed in population pharmacokinetic analyses.
-The CL of pembrolizumab increased with increasing body weight; the resulting exposure differences were adequately addressed by the administration of a weight-based dose.
-The following factors had no clinically important effect on the CL of pembrolizumab: age (range: 15 to 94 years), gender, race, renal impairment, mild hepatic impairment, or tumor burden.
-
-Renal Impairment: The effect of renal impairment on the CL of pembrolizumab was evaluated by population pharmacokinetic analyses in patients with various solid tumors and mild (eGFR 60 to 89 mL/min/1.73 m2; n=937), moderate (eGFR 30 to 59 mL/min/1.73 m2; n=201), or severe (eGFR 15 to 29 mL/min/1.73 m2; n=4) renal impairment compared to patients with normal (eGFR greater than or equal to 90 mL/min/1.73 m2; n=1027) renal function.
-No clinically important differences in the CL of pembrolizumab were found between patients with renal impairment and patients with normal renal function [see Use in Specific Populations (8.6)].
-
-Hepatic Impairment: The effect of hepatic impairment on the CL of pembrolizumab was evaluated by population pharmacokinetic analyses in patients with various solid tumors and mild hepatic impairment (TB less than or equal to ULN and AST greater than ULN or TB between 1 and 1.5 times ULN and any AST; n=269) compared to patients with normal hepatic function (TB and AST less than or equal to ULN; n=1871).
-No clinically important differences in the CL of pembrolizumab were found between patients with mild hepatic impairment and normal hepatic function.
-There is insufficient information to determine whether there are clinically important differences in the CL of pembrolizumab in patients with moderate or severe hepatic impairment [see Use in Specific Populations (8.7)].
+Specific Populations: The following factors had no clinically important effect on the CL of pembrolizumab: age (range: 15 to 94 years), sex, race (94% White), renal impairment (eGFR greater than or equal to 15 mL/min/1.73 m2), mild hepatic impairment (total bilirubin less than or equal to upper limit of normal (ULN) and AST greater than ULN or total bilirubin between 1 and 1.5 times ULN and any AST), or tumor burden.
+There is insufficient information to determine whether there are clinically important differences in the CL of pembrolizumab in patients with moderate or severe hepatic impairment.

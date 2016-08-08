@@ -15,18 +15,19 @@ The following adverse reactions are discussed in greater detail in other section
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 The data described in the WARNINGS AND PRECAUTIONS section reflect exposure to KEYTRUDA in 2117 patients in two randomized, open-label, active-controlled clinical trials, which enrolled 912 patients with unresectable or metastatic melanoma and one single-arm trial which enrolled 655 patients with metastatic melanoma and 550 patients with NSCLC.
-Across all studies, KEYTRUDA was administered at doses of 2 mg/kg intravenously every 3 weeks (19%), 10 mg/kg intravenously every 2 weeks (31%), or 10 mg/kg intravenously every 3 weeks (50%).
+In addition, these data reflect exposure to KEYTRUDA in a non-randomized, open-label, multi-cohort trial which enrolled 192 patients with HNSCC.
+Across all studies, KEYTRUDA was administered at doses of 2 mg/kg intravenously every 3 weeks, 10 mg/kg intravenously every 2 weeks, 10 mg/kg intravenously every 3 weeks, or 200 mg intravenously every 3 weeks.
 Among these 2117, 43% of the patients were exposed for 6 months or more and 10% of the patients were exposed for 12 months or more.
 
-The data described below were obtained in two randomized, open-label, active-controlled clinical trials (Trials 2 and 6), which enrolled 912 patients with unresectable or metastatic melanoma or in a single-arm trial (Trial 1), which enrolled 550 patients with metastatic non-small cell lung cancer (NSCLC).
-In these trials, KEYTRUDA was administered at 2 mg/kg every 3 weeks or 10 mg/kg every 2 or 3 weeks.
+The data described below were obtained in two randomized, open-label, active-controlled clinical trials which enrolled 912 patients with unresectable or metastatic melanoma and two non-randomized, open-label, multi-cohort trials which enrolled 550 patients with NSCLC and 192 patients with HNSCC.
+In these trials, KEYTRUDA was administered at 2 mg/kg every 3 weeks, 200 mg every 3 weeks, or 10 mg/kg every 2 or 3 weeks.
 
-Unresectable or Metastatic Melanoma
+Melanoma
 
-Ipilimumab-Naive Melanoma (Trial 6)
+Ipilimumab-Naive Melanoma (Trial 1)
 
-The safety of KEYTRUDA for the treatment of patients with unresectable or metastatic melanoma who had not received prior ipilimumab and who had received no more than one prior systemic therapy was investigated in Trial 6.
-Trial 6 was a multicenter, open-label, active-controlled trial where patients were randomized (1:1:1) and received KEYTRUDA 10 mg/kg every 2 weeks (n=278) or KEYTRUDA 10 mg/kg every 3 weeks (n=277) until disease progression or unacceptable toxicity or ipilimumab 3 mg/kg every 3 weeks for 4 doses unless discontinued earlier for disease progression or unacceptable toxicity (n=256) [see Clinical Studies (14.1)].
+The safety of KEYTRUDA for the treatment of patients with unresectable or metastatic melanoma who had not received prior ipilimumab and who had received no more than one prior systemic therapy was investigated in Trial 1.
+Trial 1 was a multicenter, open-label, active-controlled trial where patients were randomized (1:1:1) and received KEYTRUDA 10 mg/kg every 2 weeks (n=278) or KEYTRUDA 10 mg/kg every 3 weeks (n=277) until disease progression or unacceptable toxicity or ipilimumab 3 mg/kg every 3 weeks for 4 doses unless discontinued earlier for disease progression or unacceptable toxicity (n=256) [see Clinical Studies (14.1)].
 Patients with autoimmune disease, a medical condition that required systemic corticosteroids or other immunosuppressive medication; a history of interstitial lung disease; or active infection requiring therapy, including HIV or hepatitis B or C, were ineligible.
 
 The median duration of exposure was 5.6 months (range: 1 day to 11.0 months) for KEYTRUDA and similar in both treatment arms.
@@ -35,19 +36,18 @@ No patients in either arm received treatment for more than one year.
 
 The study population characteristics were: median age of 62 years (range: 18 to 89 years), 60% male, 98% White, 32% had an elevated lactate dehydrogenase (LDH) value at baseline, 65% had M1c stage disease, 9% with history of brain metastasis, and approximately 36% had been previously treated with one or more lines of systemic therapy which included a BRAF inhibitor (15%), chemotherapy (13%), and immunotherapy (6%).
 
-In Trial 6, the adverse reaction profile was similar for the every 2 week and every 3 week schedule, therefore summary safety results are provided in a pooled analysis (n=555) of both KEYTRUDA arms.
+In Trial 1, the adverse reaction profile was similar for the every 2 week and every 3 week schedule, therefore summary safety results are provided in a pooled analysis (n=555) of both KEYTRUDA arms.
 Adverse reactions leading to permanent discontinuation of KEYTRUDA occurred in 9% of patients.
 Adverse reactions leading to discontinuation of KEYTRUDA in more than one patient were colitis (1.4%), autoimmune hepatitis (0.7%), allergic reaction (0.4%), polyneuropathy (0.4%), and cardiac failure (0.4%).
 Adverse reactions leading to interruption of KEYTRUDA occurred in 21% of patients; the most common (≥1%) was diarrhea (2.5%).
 The most common adverse reactions (reported in at least 20% of patients) were fatigue and diarrhea.
 Table 1 and Table 2 summarize the incidence of selected adverse reactions and laboratory abnormalities, respectively, that occurred in at least 10% of patients receiving KEYTRUDA.
 
-Table 1: SelectedAdverse reactions occurring at same or higher incidence than in the ipilimumab arm Adverse Reactions Occurring in ≥10% of Patients Receiving KEYTRUDA (Trial 6)
+Table 1: SelectedAdverse reactions occurring at same or higher incidence than in the ipilimumab arm Adverse Reactions Occurring in ≥10% of Patients Receiving KEYTRUDA (Trial 1)
 
 | Adverse Reaction | All GradesGraded per NCI CTCAE v4.0 (%) | Grade 3-4 (%) | All Grades (%) | Grade 3-4 (%) |
 | --- | --- | --- | --- | --- |
-|  | KEYTRUDA |  | Ipilimumab |  |
-|  | 10 mg/kg every 2 or 3 weeks |  |  |  |
+|  | KEYTRUDA 10 mg/kg every 2 or 3 weeks |  | Ipilimumab |  |
 |  | n=555 |  | n=256 |  |
 | General Disorders and Administration Site Conditions |  |  |  |  |
 | Fatigue | 28 | 0.9 | 28 | 3.1 |
@@ -67,12 +67,11 @@ Table 1: SelectedAdverse reactions occurring at same or higher incidence than in
 
 Other clinically important adverse reactions occurring in ≥10% of patients receiving KEYTRUDA were diarrhea (26%), nausea (21%), and pruritus (17%).
 
-Table 2: SelectedLaboratory abnormalities occurring at same or higher incidence than in ipilimumab arm Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of Melanoma Patients Receiving KEYTRUDA (Trial 6)
+Table 2: SelectedLaboratory abnormalities occurring at same or higher incidence than in ipilimumab arm Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of Melanoma Patients Receiving KEYTRUDA (Trial 1)
 
 | Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA (520 to 546 patients) and ipilimumab (237 to 247 patients); hypertriglyceridemia: KEYTRUDA n=429 and ipilimumab n=183; hypercholesterolemia: KEYTRUDA n=484 and ipilimumab n=205). | All GradesGraded per NCI CTCAE v4.0 % | Grades 3-4 % | All Grades % | Grades 3-4 % |
 | --- | --- | --- | --- | --- |
-|  | KEYTRUDA |  | Ipilimumab |  |
-|  | 10 mg/kg every 2 or 3 weeks |  |  |  |
+|  | KEYTRUDA 10 mg/kg every 2 or 3 weeks |  | Ipilimumab |  |
 | Chemistry |  |  |  |  |
 | Hyperglycemia | 45 | 4.2 | 45 | 3.8 |
 | Hypertriglyceridemia | 43 | 2.6 | 31 | 1.1 |
@@ -106,23 +105,24 @@ Table 3 summarizes the incidence of adverse reactions occurring in at least 10% 
 
 Table 3: SelectedAdverse reactions occurring at same or higher incidence than in chemotherapy arm Adverse Reactions Occurring in ≥10% of Patients Receiving KEYTRUDA (Trial 2)
 
-| Adverse Reaction | All GradesGraded per NCI CTCAE v4.0 (%) | Grade 3-4 (%) |  | All Grades (%) |  | Grade 3-4 (%) |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | KEYTRUDA 2 mg/kg or 10 mg/kg every 3 weeks n=357 |  |  | ChemotherapyChemotherapy: dacarbazine, temozolomide, carboplatin plus paclitaxel, paclitaxel, or carboplatin n=171 |  |  |
-| General Disorders and Administration Site Conditions |  |  |  |  |  |  |
-| Pyrexia | 14 | 0.3 |  | 9 |  | 0.6 |
-| Asthenia | 10 | 2.0 |  | 9 |  | 1.8 |
-| Skin and Subcutaneous Tissue Disorders |  |  |  |  |  |  |
-| Pruritus | 28 | 0 |  | 8 |  | 0 |
-| RashIncludes rash, rash erythematous, rash generalized, rash macular, rash maculo-papular, rash papular, and rash pruritic | 24 | 0.6 |  | 8 |  | 0 |
-| Gastrointestinal Disorders |  |  |  |  |  |  |
-| Constipation | 22 | 0.3 |  | 20 |  | 2.3 |
-| Diarrhea | 20 | 0.8 |  | 20 |  | 2.3 |
-| Abdominal pain | 13 | 1.7 |  | 8 |  | 1.2 |
-| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |  |  |
-| Cough | 18 | 0 |  | 16 |  | 0 |
-| Musculoskeletal and Connective Tissue Disorders |  |  |  |  |  |  |
-| Arthralgia | 14 | 0.6 |  | 10 |  | 1.2 |
+| Adverse Reaction | All GradesGraded per NCI CTCAE v4.0 (%) | Grade 3-4 (%) | All Grades (%) | Grade 3-4 (%) |
+| --- | --- | --- | --- | --- |
+|  | KEYTRUDA 2 mg/kg or 10 mg/kg every 3 weeks |  | ChemotherapyChemotherapy: dacarbazine, temozolomide, carboplatin plus paclitaxel, paclitaxel, or carboplatin |  |
+|  | n=357 |  | n=171 |  |
+| General Disorders and Administration Site Conditions |  |  |  |  |
+| Pyrexia | 14 | 0.3 | 9 | 0.6 |
+| Asthenia | 10 | 2.0 | 9 | 1.8 |
+| Skin and Subcutaneous Tissue Disorders |  |  |  |  |
+| Pruritus | 28 | 0 | 8 | 0 |
+| RashIncludes rash, rash erythematous, rash generalized, rash macular, rash maculo-papular, rash papular, and rash pruritic | 24 | 0.6 | 8 | 0 |
+| Gastrointestinal Disorders |  |  |  |  |
+| Constipation | 22 | 0.3 | 20 | 2.3 |
+| Diarrhea | 20 | 0.8 | 20 | 2.3 |
+| Abdominal pain | 13 | 1.7 | 8 | 1.2 |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |
+| Cough | 18 | 0 | 16 | 0 |
+| Musculoskeletal and Connective Tissue Disorders |  |  |  |  |
+| Arthralgia | 14 | 0.6 | 10 | 1.2 |
 
 Other clinically important adverse reactions occurring in patients receiving KEYTRUDA were fatigue (43%), nausea (22%), decreased appetite (20%), vomiting (13%), and peripheral neuropathy (1.7%).
 
@@ -147,8 +147,8 @@ Other laboratory abnormalities occurring in ≥20% of patients receiving KEYTRUD
 
 NSCLC
 
-Among the 550 patients with metastatic NSCLC enrolled in Trial 1, the median duration of therapy was 2.8 months (range: 1 day to 25.6 months).
-Patients with NSCLC and autoimmune disease, a medical condition that required immunosuppression, or who had received more than 30 Gy of thoracic radiation within the prior 26 weeks were ineligible for Trial 1.
+Among the 550 patients with metastatic NSCLC enrolled in Trial 3, the median duration of exposure to KEYTRUDA was 2.8 months (range: 1 day to 25.6 months).
+Patients with NSCLC and autoimmune disease, a medical condition that required immunosuppression, or who had received more than 30 Gy of thoracic radiation within the prior 26 weeks were ineligible for Trial 3.
 The median age of patients was 64 years (range: 28 to 93), 47% were age 65 years or older, 53% were male, 83% were White, and 67% received two or more prior systemic treatments.
 Disease characteristics were Stage III (4%), Stage IV (96%), and brain metastases (11%).
 Baseline ECOG performance status (PS) was 0 (35%) or 1 (65%).
@@ -162,7 +162,7 @@ The majority of patients treated with KEYTRUDA 2 mg/kg every three weeks had sho
 Table 5 summarizes adverse reactions that occurred in at least 10% of patients.
 The most common adverse reactions (reported in at least 20% of patients) were fatigue, decreased appetite, dyspnea, and cough.
 
-Table 5: Adverse Reactions in ≥10% of Patients with NSCLC (Trial 1)
+Table 5: Adverse Reactions in ≥10% of Patients with NSCLC (Trial 3)
 
 | Adverse Reaction | All Grades (%) | Grade 3Of the ≥10% adverse reactions, none was reported as Grade 4 or 5. (%) |
 | --- | --- | --- |
@@ -190,7 +190,7 @@ Table 5: Adverse Reactions in ≥10% of Patients with NSCLC (Trial 1)
 | Pruritus | 12 | 0 |
 | RashIncludes the terms dermatitis, dermatitis acneiform, erythema multiforme, drug eruption, rash, rash generalized, rash pruritic, rash macular/maculo-papular, papular | 18 | <1 |
 
-Table 6: Laboratory Abnormalities Worsened from Baseline in ≥20% of Patients with NSCLC (Trial 1)
+Table 6: Laboratory Abnormalities Worsened from Baseline in ≥20% of Patients with NSCLC (Trial 3)
 
 | Laboratory Test | All Grades % | Grades 3-4 % |
 | --- | --- | --- |
@@ -206,11 +206,28 @@ Table 6: Laboratory Abnormalities Worsened from Baseline in ≥20% of Patients w
 | Hematology |  |  |
 | Anemia | 36 | 2 |
 
+HNSCC
+
+Among the 192 patients with HNSCC enrolled in Trial 4, the median duration of exposure to KEYTRUDA was 3.3 months (range: 1 day to 27.9 months).
+Patients with autoimmune disease or a medical condition that required immunosuppression were ineligible for Trial 4.
+The median age of patients was 60 years (range: 20 to 84), 35% were age 65 years or older, 83% were male, 77% were White, 15% were Asian, and 5% were Black.
+Sixty-one percent of patients had two or more lines of therapy in the recurrent or metastatic setting, and 95% had prior radiation therapy.
+Baseline ECOG PS was 0 (30%) or 1 (70%) and 86% had M1 disease.
+
+KEYTRUDA was discontinued due to adverse reactions in 17% of patients.
+Serious adverse reactions occurred in 45% of patients receiving KEYTRUDA.
+The most frequent serious adverse reactions reported in at least 2% of patients were pneumonia, dyspnea, confusional state, vomiting, pleural effusion, and respiratory failure.
+The incidence of adverse reactions, including serious adverse reactions, was similar between dosage regimens (10 mg/kg every 2 weeks or 200 mg every 3 weeks); these data were pooled.
+The most common adverse reactions (occurring in ≥20% of patients) were fatigue, decreased appetite, and dyspnea.
+Adverse reactions occurring in patients with HNSCC were generally similar to those occurring in patients with melanoma or NSCLC, with the exception of increased incidences of facial edema (10% all Grades; 2.1% Grades 3-4) and new or worsening hypothyroidism [see Warnings and Precautions (5.4)].
+
 ## 6.2 Immunogenicity
 
 As with all therapeutic proteins, there is the potential for immunogenicity.
 Trough levels of pembrolizumab interfere with the electrochemiluminescent (ECL) assay results; therefore, a subset analysis was performed in the patients with a concentration of pembrolizumab below the drug tolerance level of the anti-product antibody assay.
-In clinical studies in patients treated with pembrolizumab at a dose of 2 mg/kg every 3 weeks or 10 mg/kg every two or three weeks, 1 (0.3%) of 392 evaluable patients tested positive for treatment-emergent anti-pembrolizumab antibodies and confirmed positive in the neutralizing assay.
+In clinical studies in patients treated with pembrolizumab at a dose of 2 mg/kg every 3 weeks, 200 mg every 3 weeks, or 10 mg/kg every two or three weeks, 20 (1.7%) of 1149 evaluable patients tested positive for treatment-emergent anti-pembrolizumab antibodies.
+Among the 20 patients who tested positive for treatment emergent anti-pembrolizumab antibodies, only 4 patients were tested for neutralizing antibodies and one was positive.
+There was no evidence of an altered pharmacokinetic profile or increased infusion reactions with anti-pembrolizumab binding antibody development.
 
 The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
 Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.

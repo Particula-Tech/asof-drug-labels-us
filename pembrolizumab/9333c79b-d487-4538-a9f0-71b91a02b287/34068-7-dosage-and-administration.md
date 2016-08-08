@@ -7,7 +7,13 @@ Information on FDA-approved tests for the detection of PD-L1 expression in NSCLC
 
 ## 2.2 Recommended Dosing
 
+Melanoma and Non-Small Cell Lung Cancer
+
 The recommended dose of KEYTRUDA is 2 mg/kg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression or unacceptable toxicity.
+
+Head and Neck Cancer
+
+The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression [see Clinical Studies (14.3)].
 
 ## 2.3 Dose Modifications
 

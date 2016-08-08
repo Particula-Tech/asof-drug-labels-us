@@ -12,3 +12,10 @@ Patients with EGFR or ALK genomic tumor aberrations should have disease progress
 This indication is approved under accelerated approval based on tumor response rate and durability of response.
 An improvement in survival or disease-related symptoms has not yet been established.
 Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
+
+## 1.3 Head and Neck Cancer
+
+KEYTRUDA is indicated for the treatment of patients with recurrent or metastatic head and neck squamous cell carcinoma (HNSCC) with disease progression on or after platinum-containing chemotherapy [see Clinical Studies (14.3)].
+
+This indication is approved under accelerated approval based on tumor response rate and durability of response.
+Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.

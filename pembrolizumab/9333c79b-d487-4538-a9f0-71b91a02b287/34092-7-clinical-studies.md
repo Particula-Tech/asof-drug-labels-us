@@ -2,9 +2,9 @@
 
 ## 14.1 Melanoma
 
-Ipilimumab-Naive Melanoma (Trial 6)
+Ipilimumab-Naive Melanoma (Trial 1)
 
-The safety and efficacy of KEYTRUDA were evaluated in Trial 6, a randomized (1:1:1), open-label, multicenter, active-controlled trial.
+The safety and efficacy of KEYTRUDA were evaluated in Trial 1, a randomized (1:1:1), open-label, multicenter, active-controlled trial.
 Patients were randomized to receive KEYTRUDA at a dose of 10 mg/kg every 2 weeks or 10mg/kg every 3 weeks as an intravenous infusion until disease progression or unacceptable toxicity or to ipilimumab 3 mg/kg every 3 weeks as an intravenous infusion for 4 doses unless discontinued earlier for disease progression or unacceptable toxicity.
 Patients with disease progression could receive additional doses of treatment unless disease progression was symptomatic, was rapidly progressive, required urgent intervention, occurred with a decline in performance status, or was confirmed at 4 to 6 weeks with repeat imaging.
 Randomization was stratified by line of therapy (0 vs. 1), ECOG PS (0 vs. 1), and PD-L1 expression (≥1% of tumor cells [positive] vs. <1% of tumor cells [negative]) according to an investigational use only (IUO) assay.
@@ -21,7 +21,7 @@ Among patients with BRAF mutation-positive melanoma, 139 (46%) were previously t
 
 The study demonstrated statistically significant improvements in OS and PFS for patients randomized to KEYTRUDA as compared to ipilimumab (Table 7 and Figure 1).
 
-Table 7: Efficacy Results in Trial 6
+Table 7: Efficacy Results in Trial 1
 
 |  | KEYTRUDA 10 mg/kg every 3 weeks n=277 | KEYTRUDA 10 mg/kg every 2 weeks n=279 | Ipilimumab 3 mg/kg every 3 weeks n=278 |
 | --- | --- | --- | --- |
@@ -41,6 +41,9 @@ Table 7: Efficacy Results in Trial 6
 
 Among the 91 patients randomized to KEYTRUDA 10 mg/kg every 3 weeks with an objective response, response durations ranged from 1.4+ to 8.1+ months.
 Among the 94 patients randomized to KEYTRUDA 10 mg/kg every 2 weeks with an objective response, response durations ranged from 1.4+ to 8.2 months.
+
+| Figure 1: Kaplan-Meier Curve for Overall Survival in Trial 1 |
+| --- |
 
 Ipilimumab-Refractory Melanoma (Trial 2)
 
@@ -65,8 +68,9 @@ There was no statistically significant difference between KEYTRUDA 2 mg/kg and c
 
 Table 8: Efficacy Results in Trial 2
 
-|  | KEYTRUDA 2 mg/kg every 3 weeks n=180 | KEYTRUDA 10 mg/kg every 3 weeks n=181 | Chemotherapy n=179 |
+|  | n=180 | n=181 | n=179 |
 | --- | --- | --- | --- |
+|  | KEYTRUDA 2 mg/kg every 3 weeks | KEYTRUDA 10 mg/kg every 3 weeks | Chemotherapy |
 | Progression-Free Survival |  |  |  |
 | Number of Events, n (%) | 129 (72%) | 126 (70%) | 155 (87%) |
 | Progression, n (%) | 105 (58%) | 107 (59%) | 134 (75%) |
@@ -79,12 +83,15 @@ Table 8: Efficacy Results in Trial 2
 | Complete response % | 2% | 3% | 0% |
 | Partial response % | 19% | 23% | 4% |
 
+| Figure 2: Kaplan-Meier Curve for Progression-Free Survival in Trial 2 |
+| --- |
+
 Among the 38 patients randomized to KEYTRUDA 2 mg/kg with an objective response, response durations ranged from 1.3+ to 11.5+ months.
 Among the 46 patients randomized to KEYTRUDA 10 mg/kg with an objective response, response durations ranged from 1.1+ to 11.1+ months.
 
 ## 14.2 Non-Small Cell Lung Cancer
 
-The efficacy of KEYTRUDA was investigated in a sub-group of a cohort of 280 patients enrolled in a multicenter, open-label multi-cohort, activity-estimating study (Trial 1).
+The efficacy of KEYTRUDA was investigated in a sub-group of a cohort of 280 patients enrolled in a multicenter, open-label multi-cohort, activity-estimating study (Trial 3).
 The cohort consisted of patients with metastatic NSCLC that had progressed following platinum-containing chemotherapy, and if appropriate, targeted therapy for ALK or EGFR mutations and any evidence of PD-L1 expression by a clinical trial immunohistochemistry assay.
 Patients with autoimmune disease; a medical condition that required immunosuppression; or who had received more than 30 Gy of thoracic radiation within the prior 26 weeks were ineligible.
 
@@ -103,13 +110,31 @@ The ORR and duration of response were similar regardless of schedule (every 2 we
 
 Table 9: Efficacy Results
 
-| Endpoint | n=61 |
-| --- | --- |
 | Overall Response Rate |  |
+| --- | --- |
+| Endpoint | n=61 |
 | ORR %, (95% CI) | 41% (29, 54) |
 | Complete Response | 0% |
 | Partial Response | 41% |
 
 Among the 25 responding patients, 21 (84%) patients had ongoing responses at the final analysis of ORR; 11 (44%) patients had ongoing responses of 6 months or longer.
 
-In a separate subgroup of 25 patients with limited follow-up with PD-L1 expression TPS greater than or equal to 50% receiving KEYTRUDA at a dose of 2 mg/kg every 3 weeks in Trial 1, activity was also observed.
+In a separate subgroup of 25 patients with limited follow-up with PD-L1 expression TPS greater than or equal to 50% receiving KEYTRUDA at a dose of 2 mg/kg every 3 weeks in Trial 3, activity was also observed.
+
+## 14.3 Head and Neck Cancer
+
+The efficacy of KEYTRUDA was investigated in Trial 4, a multicenter, nonrandomized, open-label, multi-cohort study that enrolled 174 patients with recurrent or metastatic HNSCC who had disease progression on or after platinum-containing chemotherapy administered for recurrent or metastatic HNSCC or following platinum-containing chemotherapy administered as part of induction, concurrent, or adjuvant therapy.
+Patients with active autoimmune disease, a medical condition that required immunosuppression, evidence of interstitial lung disease, or ECOG PS ≥ 2 were ineligible.
+
+Patients received KEYTRUDA 10 mg/kg every 2 weeks (n=53) or 200 mg every 3 weeks (n=121) until unacceptable toxicity or disease progression that was symptomatic, was rapidly progressive, required urgent intervention, occurred with a decline in performance status, or was confirmed at least 4 weeks later with repeat imaging.
+Patients without disease progression were treated for up to 24 months.
+Treatment with pembrolizumab could be reinitiated for subsequent disease progression and administered for up to 1 additional year.
+Assessment of tumor status was performed every 8 weeks.
+The major efficacy outcome measures were ORR according to RECIST 1.1, as assessed by blinded independent central review, and duration of response.
+
+Among the 174 patients, the baseline characteristics were median age 60 years (32% age 65 or older); 82% male; 75% White, 16% Asian, and 6% Black; 87% had M1 disease; 33% had HPV positive tumors; 63% had prior cetuximab; 29% had an ECOG PS of 0 and 71% had an ECOG PS of 1; and the median number of prior lines of therapy administered for the treatment of HNSCC was 2.
+
+The ORR was 16% (95% CI: 11, 22) with a complete response rate of 5%.
+The median follow-up time was 8.9 months.
+Among the 28 responding patients, the median duration of response had not been reached (range 2.4+ to 27.7+ months), with 23 patients having responses of 6 months or longer.
+The ORR and duration of response were similar irrespective of dosage regimen (10 mg/kg every 2 weeks or 200 mg every 3 weeks) or HPV status.

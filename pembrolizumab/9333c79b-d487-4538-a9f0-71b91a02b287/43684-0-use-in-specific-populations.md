@@ -43,14 +43,5 @@ Safety and effectiveness of KEYTRUDA have not been established in pediatric pati
 
 ## 8.5 Geriatric Use
 
-Of the 2117 patients with melanoma or NSCLC treated with KEYTRUDA, 43% were 65 years and over.
+Of 2309 patients treated with KEYTRUDA in clinical studies, 43% were 65 years and over.
 No overall differences in safety or efficacy were reported between elderly patients and younger patients.
-
-## 8.6 Renal Impairment
-
-Based on a population pharmacokinetic analysis, no dose adjustment is needed for patients with renal impairment [see Clinical Pharmacology (12.3)].
-
-## 8.7 Hepatic Impairment
-
-Based on a population pharmacokinetic analysis, no dose adjustment is needed for patients with mild hepatic impairment [total bilirubin (TB) less than or equal to ULN and AST greater than ULN or TB greater than 1 to 1.5 times ULN and any AST].
-KEYTRUDA has not been studied in patients with moderate (TB greater than 1.5 to 3 times ULN and any AST) or severe (TB greater than 3 times ULN and any AST) hepatic impairment [see Clinical Pharmacology (12.3)].
