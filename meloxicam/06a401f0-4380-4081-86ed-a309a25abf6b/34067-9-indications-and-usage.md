@@ -10,4 +10,4 @@ Meloxicam tablets USP are indicated for relief of the signs and symptoms of rheu
 
 ## 1.3 Juvenile Rheumatoid Arthritis (JRA) Pauciarticular and Polyarticular Course
 
-Meloxicam tablets USP are indicated for relief of the signs and symptoms of pauciarticular or polyarticular course Juvenile Rheumatoid Arthritis in patients 2 years of age and older [see CLINICAL STUDIES (14.2)].
+Meloxicam tablets USP are indicated for relief of the signs and symptoms of pauciarticular or polyarticular course Juvenile Rheumatoid Arthritis in patients who weigh ≥60 kg [see DOSAGE AND ADMINISTRATION (2.4) and CLINICAL STUDIES (14.2)].
