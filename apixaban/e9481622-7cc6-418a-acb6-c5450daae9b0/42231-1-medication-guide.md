@@ -100,6 +100,7 @@ How should I take ELIQUIS?
 - ●Do not change your dose or stop taking ELIQUIS unless your doctor tells you to.
 - ●If you miss a dose of ELIQUIS, take it as soon as you remember.
   Do not take more than one dose of ELIQUIS at the same time to make up for a missed dose.
+- ●If you have difficulty swallowing the tablet whole, talk to your doctor about other ways to take ELIQUIS.
 - ●Your doctor will decide how long you should take ELIQUIS.
   Do not stop taking it without first talking with your doctor.
   If you are taking ELIQUIS for atrial fibrillation, stopping ELIQUIS may increase your risk of having a stroke.
@@ -161,4 +162,4 @@ COUMADIN® is a registered trademark of Bristol-Myers Squibb Pharma Company.
 
 All other trademarks are property of their respective companies.
 
-1356615A0 / 1356514A0 1356616 Revised June 2015
+1356615A2 / 1356514A1 1356616A0 Revised July 2016

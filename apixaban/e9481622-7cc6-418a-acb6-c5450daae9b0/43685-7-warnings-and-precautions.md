@@ -16,14 +16,18 @@ These include aspirin and other antiplatelet agents, other anticoagulants, hepar
 Advise patients of signs and symptoms of blood loss and to report them immediately or go to an emergency room.
 Discontinue ELIQUIS in patients with active pathological hemorrhage.
 
-There is no established way to reverse the anticoagulant effect of apixaban, which can be expected to persist for at least 24 hours after the last dose, i.e., for about two drug half-lives.
-A specific antidote for ELIQUIS is not available.
+### Reversal of Anticoagulant Effect
+
+A specific antidote for ELIQUIS is not available, and there is no established way to reverse bleeding in patients taking ELIQUIS.
+The pharmacodynamic effect of ELIQUIS can be expected to persist for at least 24 hours after the last dose, i.e., for about two drug half-lives.
+Use of procoagulant reversal agents, such as prothrombin complex concentrate (PCC), activated prothrombin complex concentrate or recombinant factor VIIa, may be considered but has not been evaluated in clinical studies [see Clinical Pharmacology (12.2)].
+When PCCs are used, monitoring for the anticoagulation effect of apixaban using a clotting test (PT, INR, or aPTT) or anti-factor Xa (FXa) activity is not useful and is not recommended.
+Activated oral charcoal reduces absorption of apixaban, thereby lowering apixaban plasma concentration [see Overdosage (10)].
+
 Hemodialysis does not appear to have a substantial impact on apixaban exposure [see Clinical Pharmacology (12.3)].
 Protamine sulfate and vitamin K are not expected to affect the anticoagulant activity of apixaban.
 There is no experience with antifibrinolytic agents (tranexamic acid, aminocaproic acid) in individuals receiving apixaban.
-There is neither scientific rationale for reversal nor experience with systemic hemostatics (desmopressin and aprotinin) in individuals receiving apixaban.
-Use of procoagulant reversal agents such as prothrombin complex concentrate, activated prothrombin complex concentrate, or recombinant factor VIIa may be considered but has not been evaluated in clinical studies.
-Activated oral charcoal reduces absorption of apixaban, thereby lowering apixaban plasma concentration [see Overdosage (10)].
+There is no experience with systemic hemostatics (desmopressin and aprotinin) in individuals receiving apixaban and they are not expected to be effective as a reversal agent.
 
 ## 5.3 Spinal/Epidural Anesthesia or Puncture
 

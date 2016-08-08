@@ -40,9 +40,25 @@ No clinically significant differences in safety or effectiveness were observed w
 
 ## 8.6 Renal Impairment
 
-No dose adjustment is recommended for patients with renal impairment alone, including those with end-stage renal disease (ESRD) maintained on hemodialysis, except nonvalvular atrial fibrillation patients who meet the criteria for dosage adjustment [see Dosage and Administration (2.1)].
+### Reduction of Risk of Stroke and Systemic Embolism in Patients with Nonvalvular Atrial Fibrillation
 
-Patients with ESRD (CrCl <15 mL/min) receiving or not receiving hemodialysis were not studied in clinical efficacy and safety studies with ELIQUIS; therefore, the dosing recommendations are based on pharmacokinetic and pharmacodynamic (anti-Factor Xa activity) data in subjects with ESRD maintained on dialysis [see Clinical Pharmacology (12.3)].
+The recommended dose is 2.5 mg twice daily in patients with at least two of the following characteristics [see Dosage and Administration (2.1)]:
+
+- •age ≥80 years
+- •body weight ≤60 kg
+- •serum creatinine ≥1.5 mg/dL
+
+#### Patients with End-Stage Renal Disease on Dialysis
+
+Clinical efficacy and safety studies with ELIQUIS did not enroll patients with end-stage renal disease (ESRD) on dialysis.
+In patients with ESRD maintained on intermittent hemodialysis, administration of ELIQUIS at the usually recommended dose [see Dosage and Administration (2.1)] will result in concentrations of apixaban and pharmacodynamic activity similar to those observed in the ARISTOTLE study [see Clinical Pharmacology (12.3)].
+It is not known whether these concentrations will lead to similar stroke reduction and bleeding risk in patients with ESRD on dialysis as was seen in ARISTOTLE.
+
+### Prophylaxis of Deep Vein Thrombosis Following Hip or Knee Replacement Surgery, and Treatment of DVT and PE and Reduction in the Risk of Recurrence of DVT and PE
+
+No dose adjustment is recommended for patients with renal impairment, including those with ESRD on dialysis [see Dosage and Administration (2.1)].
+
+Clinical efficacy and safety studies with ELIQUIS did not enroll patients with ESRD on dialysis or patients with a CrCl <15 mL/min; therefore, dosing recommendations are based on pharmacokinetic and pharmacodynamic (anti-FXa activity) data in subjects with ESRD maintained on dialysis [see Clinical Pharmacology 12.3)].
 
 ## 8.7 Hepatic Impairment
 

@@ -60,5 +60,7 @@ In patients already taking 2.5 mg twice daily, avoid coadministration of ELIQUIS
 
 ## 2.6 Administration Options
 
-For patients who are unable to swallow whole tablets, 5 mg and 2.5 mg ELIQUIS tablets may be crushed and suspended in 60 mL D5W and immediately delivered through a nasogastric tube (NGT) [see Clinical Pharmacology (12.3)].
-Information regarding the administration of crushed and suspended ELIQUIS tablets swallowed by mouth is not available.
+For patients who are unable to swallow whole tablets, 5 mg and 2.5 mg ELIQUIS tablets may be crushed and suspended in water, 5% dextrose in water (D5W), or apple juice, or mixed with applesauce and promptly administered orally [see Clinical Pharmacology (12.3)].
+Alternatively, ELIQUIS tablets may be crushed and suspended in 60 mL of water or D5W and promptly delivered through a nasogastric tube [see Clinical Pharmacology (12.3)].
+
+Crushed ELIQUIS tablets are stable in water, D5W, apple juice, and applesauce for up to 4 hours.

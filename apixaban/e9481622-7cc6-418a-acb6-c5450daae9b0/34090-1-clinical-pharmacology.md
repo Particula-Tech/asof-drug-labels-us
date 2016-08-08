@@ -18,6 +18,15 @@ A concentration-dependent increase in anti-FXa activity was observed in the dose
 
 This test is not recommended for assessing the anticoagulant effect of apixaban.
 
+### Effect of PCCs on Pharmacodynamics of ELIQUIS
+
+There is no clinical experience to reverse bleeding with the use of 4-factor PCC products in individuals who have received ELIQUIS.
+
+Effects of 4-factor PCCs on the pharmacodynamics of apixaban were studied in healthy subjects.
+Following administration of apixaban dosed to steady state, endogenous thrombin potential (ETP) returned to pre-apixaban levels 4 hours after the initiation of a 30 minute PCC infusion, compared to 45 hours with placebo.
+Mean ETP levels continued to increase and exceeded pre-apixaban levels reaching a maximum (34 – 51% increase over pre-apixaban levels) at 21 hours after initiating PCC and remained elevated (21 – 27% increase) at the end of the study (69 hours after initiation of PCC).
+The clinical relevance of this increase in ETP is unknown.
+
 ### Pharmacodynamic Drug Interaction Studies
 
 Pharmacodynamic drug interaction studies with aspirin, clopidogrel, aspirin and clopidogrel, prasugrel, enoxaparin, and naproxen were conducted.
@@ -46,7 +55,9 @@ The absolute bioavailability of apixaban is approximately 50% for doses up to 10
 Food does not affect the bioavailability of apixaban.
 Maximum concentrations (Cmax) of apixaban appear 3 to 4 hours after oral administration of ELIQUIS.
 At doses ≥25 mg, apixaban displays dissolution-limited absorption with decreased bioavailability.
-Following administration of a crushed 5 mg ELIQUIS tablet that was suspended in 60 mL D5W and delivered through a nasogastric tube (NGT), exposure was similar to that seen in other clinical trials involving healthy volunteers receiving a single oral 5 mg tablet dose.
+Following oral administration of 10 mg of apixaban as 2 crushed 5 mg tablets suspended in 30 mL of water, exposure was similar to that after oral administration of 2 intact 5 mg tablets.
+Following oral administration of 10 mg of apixaban as 2 crushed 5 mg tablets mixed with 30 g of applesauce, the Cmax and AUC were 20% and 16% lower, respectively, when compared to administration of 2 intact 5 mg tablets.
+Following administration of a crushed 5 mg ELIQUIS tablet that was suspended in 60 mL D5W and delivered through a nasogastric tube, exposure was similar to that seen in other clinical trials involving healthy volunteers receiving a single oral 5 mg tablet dose.
 
 ### Distribution
 
@@ -77,7 +88,7 @@ In vitro apixaban studies at concentrations significantly greater than therapeut
 Therefore, apixaban is not expected to alter the metabolic clearance of coadministered drugs that are metabolized by these enzymes.
 Apixaban is not a significant inhibitor of P-gp.
 
-The effects of coadministered drugs on the pharmacokinetics of apixaban and associated dose recommendations are summarized in Figure 2 [see also Warnings and Precautions (5.2) and Drug Interactions (7)].
+The effects of coadministered drugs on the pharmacokinetics of apixaban are summarized in Figure 2 [see also Warnings and Precautions (5.2) and Drug Interactions (7)].
 
 Figure 2: Effect of Coadministered Drugs on the Pharmacokinetics of Apixaban
 
@@ -91,14 +102,16 @@ The effects of level of renal impairment, age, body weight, and level of hepatic
 
 Figure 3: Effect of Specific Populations on the Pharmacokinetics of Apixaban
 
-* ESRD subjects maintained with chronic and stable hemodialysis; reported PK findings are following single dose of apixaban post hemodialysis. † Results reflect CrCl of 15 mL/min based on regression analysis. ‡ Dashed vertical lines illustrate pharmacokinetic changes that were used to inform dosing recommendations. § No dose adjustment is recommended for nonvalvular atrial fibrillation patients unless at least 2 of the following patient characteristics (age ≥80 years, body weight ≤60 kg, or serum creatinine ≥1.5 mg/dL) are present.
+* ESRD subjects treated with intermittent hemodialysis; reported PK findings are following single dose of apixaban post hemodialysis. † Results reflect CrCl of 15 mL/min based on regression analysis. ‡ Dashed vertical lines illustrate pharmacokinetic changes that were used to inform dosing recommendations. § No dose adjustment is recommended for nonvalvular atrial fibrillation patients unless at least 2 of the following patient characteristics (age ≥80 years, body weight ≤60 kg, or serum creatinine ≥1.5 mg/dL) are present.
 
 Gender: A study in healthy subjects comparing the pharmacokinetics in males and females showed no meaningful difference.
 
 Race: The results across pharmacokinetic studies in normal subjects showed no differences in apixaban pharmacokinetics among White/Caucasian, Asian, and Black/African American subjects.
 No dose adjustment is required based on race/ethnicity.
 
-Hemodialysis in ESRD subjects: Following a 4-hour hemodialysis session with a dialysate flow rate of 500 mL/min and a blood flow rate in the range of 350 to 500 mL/min started 2 hours after administration of a single 5 mg dose of apixaban, the AUC of apixaban was 17% greater compared to those with normal renal function.
-The dialysis clearance of apixaban is approximately 18 mL/min resulting in a 14% decrease in exposure due to hemodialysis compared to off-dialysis period.
+Hemodialysis in ESRD subjects: Systemic exposure to apixaban administered as a single 5 mg dose in ESRD subjects dosed immediately after the completion of a 4-hour hemodialysis session (post-dialysis) is 36% higher when compared to subjects with normal renal function (Figure 3).
+The systemic exposure to apixaban administered 2 hours prior to a 4-hour hemodialysis session with a dialysate flow rate of 500 mL/min and a blood flow rate in the range of 350 to 500 mL/min is 17% higher compared to those with normal renal function.
+The dialysis clearance of apixaban is approximately 18 mL/min.
+The systemic exposure of apixaban is 14% lower on dialysis when compared to not on dialysis.
 
-Protein binding was similar (92%-94%) between healthy controls and the on-dialysis and off-dialysis periods.
+Protein binding was similar (92%-94%) between healthy controls and ESRD subjects during the on-dialysis and off-dialysis periods.
