@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1 Donepezil hydrochloride Tablets
+## 16.1 Donepezil hydrochloride Tablets, USP
 
 Donepezil hydrochloride tablets USP, 5 mg are white round biconvex, film coated tablets debossed with "I" on one side and "24" on the other side.
 They are supplied as follows

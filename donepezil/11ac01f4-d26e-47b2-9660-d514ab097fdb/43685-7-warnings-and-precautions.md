@@ -15,7 +15,7 @@ Syncopal episodes have been reported in association with the use of donepezil hy
 Donepezil hydrochloride, as a predictable consequence of its pharmacological properties, has been shown to produce diarrhea, nausea, and vomiting.
 These effects, when they occur, appear more frequently with the 10 mg/day dose than with the 5 mg/day dose.
 
-Although in most cases, these effects have been mild and transient, sometimes lasting one to three weeks, and have resolved during continued use of donepezil hydrochloride, patients should be observed closely at the initiation of treatment and after dose increases.
+Although in most cases, these effects have been transient, sometimes lasting one to three weeks, and have resolved during continued use of donepezil hydrochloride, patients should be observed closely at the initiation of treatment and after dose increases.
 
 ## 5.4 Peptic Ulcer Disease and GI Bleeding
 

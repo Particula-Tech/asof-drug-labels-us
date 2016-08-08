@@ -6,7 +6,7 @@ No evidence of carcinogenic potential was obtained in an 88-week carcinogenicity
 Donepezil was negative in a battery of genotoxicity assays (in vitro bacterial reverse mutation, in vitro mouse lymphoma tk, in vitro chromosomal aberration, and in vivo mouse micronucleus).
 Donepezil had no effect on fertility in rats at oral doses up to 10 mg/kg/day (approximately 4 times the MRHD on a mg/m2 basis) when administered to males and females prior to and during mating and continuing in females through implantation.
 
-## 13.2 Animal Toxicology
+## 13.2 Animal Toxicology and/ or Pharmacology
 
 In an acute dose neurotoxicity study in female rats, oral administration of donepezil and memantine in combination resulted in increased incidence, severity, and distribution of neurodegeneration compared with memantine alone.
 The no-effect levels of the combination were associated with clinically relevant plasma donepezil and memantine levels.

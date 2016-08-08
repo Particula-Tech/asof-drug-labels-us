@@ -1,6 +1,6 @@
 # Patient Package Insert
 
-Donepezil Hydrochloride Tablets
+Patient Package Insert Donepezil Hydrochloride (doe-NEP-e-zil HYE-droe-KLOR-ide) Tablets
 
 Read the Patient Information that comes with donepezil hydrochloride tablets before the patient starts taking it and each time you get a refill.
 There may be new information.
@@ -9,7 +9,7 @@ If you have questions, ask the doctor or pharmacist.
 
 What is donepezil hydrochloride tablet?
 
-Donepezil hydrochloride comes as donepezil hydrochloride film-coated tablets in dosage strengths of 5 mg and 10 mg,
+Donepezil hydrochloride comes as donepezil hydrochloride film-coated tablets in dosage strengths of 5 mg and 10 mg.
 
 Donepezil hydrochloride tablet is a prescription medicine to treat mild, moderate and severe Alzheimer's disease.
 Donepezil hydrochloride tablet can help with mental function and with doing daily tasks.
@@ -96,18 +96,10 @@ You can ask your pharmacist or doctor for information about donepezil hydrochlor
 
 What are the ingredients in donepezil hydrochloride tablets?
 
-Active ingredient: donepezil hydrochloride
+Active ingredient: donepezil hydrochloride USP
 
 Inactive ingredients: corn starch, hydroxypropyl cellulose, lactose monohydrate, magnesium stearate and microcrystalline cellulose.
 The film coating contains hypromellose, polyethylene glycol, talc and titanium dioxide.
 Additionally, the 10 mg tablet contains yellow iron oxide as a coloring agent.
 Manufactured for: Camber Pharmaceuticals Inc. Piscataway, NJ 08854 Manufactured by: HETEROTM HETERO LABS LIMITED Unit V, Polepally, Jadcherla, Mahaboob Nagar-509 301, India.
-Revised: February 2015
-
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL 10 mg
-
-Donepezil Hydrochloride Tablets, USP 10 mg - 30s count
-
-Donepezil Hydrochloride Tablets, USP 10 mg - Blister foil
-
-Donepezil Hydrochloride Tablets, USP 10 mg - Blister carton
+Revised: September 2015
