@@ -17,13 +17,3 @@ NDC 0006-0041-68 bottles of 100.
 ## Storage
 
 Store at controlled room temperature 20 to 25°C (68 to 77°F).
-
-Rx only
-
-MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
-
-Issued May 2004
-
-Printed in USA
-
-7921151
