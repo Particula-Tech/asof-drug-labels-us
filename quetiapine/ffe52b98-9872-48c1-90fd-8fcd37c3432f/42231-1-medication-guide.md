@@ -181,7 +181,7 @@ Call your healthcare provider if you have any of these symptoms of high blood su
   These may be signs of a serious condition.
   Tardive dyskinesia may not go away, even if you stop taking quetiapine fumarate tablets.
   Tardive dyskinesia may also start after you stop taking quetiapine fumarate tablets.
-- decreased blood pressure (Orthostatic hypotension), including lightheadedness or fainting caused by a sudden change in heart rate and blood pressure when rising too quickly from a sitting or lying position
+- decreased blood pressure (orthostatic hypotension), including lightheadedness or fainting caused by a sudden change in heart rate and blood pressure when rising too quickly from a sitting or lying position
 - increases in blood pressure in children and teenagers.
   Your healthcare provider should check blood pressure in children and adolescents before starting quetiapine fumarate tablets and during therapy.
 - low white blood cell count
@@ -257,7 +257,15 @@ Sun Pharmaceutical Industries, Inc.
 
 Cranbury, NJ 08512
 
-ISS.
-11/2014
+Manufactured by:
 
-PGPI0246D
+Sun Pharmaceutical Industries Limited
+
+Survey No.: 259/15,
+
+Dadra-396 191 (U.T. of D & NH), India.
+
+ISS.
+07/2016
+
+PGPI0246E

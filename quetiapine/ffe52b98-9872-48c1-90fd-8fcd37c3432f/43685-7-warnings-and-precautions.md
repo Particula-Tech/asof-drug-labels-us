@@ -49,7 +49,7 @@ Prescriptions for quetiapine fumarate tablets should be written for the smallest
 Screening Patients for Bipolar Disorder:A major depressive episode may be the initial presentation of bipolar disorder.
 It is generally believed (though not established in controlled trials) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed/manic episode in patients at risk for bipolar disorder.
 Whether any of the symptoms described above represent such a conversion is unknown.
-However, prior to initiating treatment with an antidepressant, including quetiapine, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression
+However, prior to initiating treatment with an antidepressant, including quetiapine, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
 
 ## 5.3 Cerebrovascular Adverse Reactions, Including Stroke, in Elderly Patients with Dementia-Related Psychosis
 
@@ -278,7 +278,7 @@ The use of quetiapine should be avoided in combination with other drugs that are
 
 Quetiapine should also be avoided in circumstances that may increase the risk of occurrence of torsade de pointes and/or sudden death including (1) a history of cardiac arrhythmias such as bradycardia; (2) hypokalemia or hypomagnesemia; (3) concomitant use of other drugs that prolong the QTc interval; and (4) presence of congenital prolongation of the QT interval.
 
-Caution should also be exercised when quetiapine is prescribed in patients with increased risk of QT prolongation (e.g. cardiovascular disease, family history of QT prolongation, the elderly, congestive heart failure and heart hypertrophy).
+Caution should also be exercised when quetiapine is prescribed in patients with increased risk of QT prolongation (e.g., cardiovascular disease, family history of QT prolongation, the elderly, congestive heart failure and heart hypertrophy).
 
 ## 5.12 Seizures
 

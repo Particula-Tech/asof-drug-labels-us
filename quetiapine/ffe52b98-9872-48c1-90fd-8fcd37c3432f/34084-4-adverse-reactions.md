@@ -179,8 +179,6 @@ Adverse Reaction Incidence in 8-Week Placebo-Controlled Clinical Trials for the 
 | Dysphagia | 2% | 0% |
 | Restless Legs Syndrome | 2% | 0% |
 
-1Somnolence combines adverse reaction terms somnolence and sedation
-
 Explorations for interactions on the basis of gender, age, and race did not reveal any clinically meaningful differences in the adverse reaction occurrence on the basis of these demographic factors.
 
 Dose Dependency of Adverse Reactions in Short-Term, Placebo-Controlled Trials
@@ -208,7 +206,7 @@ Three methods were used to measure EPS: (1) Simpson-Angus total score (mean chan
 
 In Table 12, dystonic event included nuchal rigidity, hypertonia, dystonia, muscle rigidity, oculogyration; parkinsonism included cogwheel rigidity, tremor, drooling, hypokinesia; akathisia included akathisia, psychomotor agitation; dyskinetic event included tardive dyskinesia, dyskinesia, choreoathetosis; and other extrapyramidal event included restlessness, extrapyramidal disorder, movement disorder.
 
-Table 12: Adverse reactions associated with EPS in a short-term, placebo-controlled multiple fixed-dose Phase III schizophrenia trial (6 weeks duration)
+Table 12: Adverse Reactions Associated with EPS in a Short-Term, Placebo-Controlled Multiple Fixed-Dose Phase III Schizophrenia Trial (6 weeks duration)
 
 | Preferred Term | Quetiapine75 mg/day (N=53) |  | Quetiapine150 mg/day (N=48) |  | Quetiapine300 mg/day (N=52) |  | Quetiapine600 mg/day (N=51) |  | Quetiapine750 mg/day (N=54) |  | Placebo (N=51) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -446,4 +444,4 @@ Mean increases in heart rate were 3.4 bpm for quetiapine fumarate extended-relea
 The following adverse reactions were identified during post approval of quetiapine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Adverse reactions reported since market introduction which were temporally related to quetiapine therapy include anaphylactic reaction, cardiomyopathy, hyponatremia, myocarditis, nocturnal pancreatitis, enuresis, retrograde amnesia, rhabdomyolysis, syndrome of inappropriate antidiuretic hormone secretion (SIADH), Stevens-Johnson syndrome (SJS), and toxic epidermal necrolysis (TEN).
+Adverse reactions reported since market introduction which were temporally related to quetiapine therapy include anaphylactic reaction, cardiomyopathy, drug reaction with eosinophilia and systemic symptoms (DRESS), hyponatremia, myocarditis, nocturnal pancreatitis, enuresis, retrograde amnesia, rhabdomyolysis, syndrome of inappropriate antidiuretic hormone secretion (SIADH), Stevens-Johnson syndrome (SJS), and toxic epidermal necrolysis (TEN).

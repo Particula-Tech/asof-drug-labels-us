@@ -48,7 +48,7 @@ Table 19: Schizophrenia Short-Term Trials
 | Quetiapine(750 mg/day) | 41 (9.6) | -8.7 (1.6) | -7.8 (-12.2, -3.4) |  |
 | Placebo | 38.4 (9.7) | -1 (1.6) | -- |  |
 | Study 3 | Quetiapine(450 mg/day BID) | 42.1 (10.7) | -10 (1.3) | -4.6 (-7.8, -1.4) |
-| Quetiapine(450 mg/day TID) | 42.7 (10.4) | -8.6 (1.3) | -3.2 (-6.4, 0) |  |
+| Quetiapine(450 mg/day TID)Doses that are statistically significant superior to quetiapine 50 mg BID. | 42.7 (10.4) | -8.6 (1.3) | -3.2 (-6.4, 0) |  |
 | Quetiapine (50 mg BID) | 41.7 (10) | -5.4 (1.3) | -- |  |
 |  |  | Primary Efficacy Endpoint: PANSS Total |  |  |
 | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference (95% CI) |  |  |

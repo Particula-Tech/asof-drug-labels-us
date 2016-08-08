@@ -3,7 +3,7 @@
 ## 1.1 Schizophrenia
 
 Quetiapine fumarate tablets are indicated for the treatment of schizophrenia.
-The efficacy of quetiapine fumarate tablets in schizophrenia was established in three 6-week trials in adults and one 6-week trial in adolescents (13 to ¬17 years).
+The efficacy of quetiapine fumarate tablets in schizophrenia was established in three 6-week trials in adults and one 6-week trial in adolescents (13 to 17 years).
 The effectiveness of quetiapine fumarate tablets for the maintenance treatment of schizophrenia has not been systematically evaluated in controlled clinical trials [see Clinical Studies (14.1)].
 
 ## 1.2 Bipolar Disorder
