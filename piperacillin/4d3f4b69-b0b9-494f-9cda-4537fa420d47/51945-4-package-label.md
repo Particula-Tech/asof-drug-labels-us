@@ -6,8 +6,9 @@ Piperacillin and Tazobactam
 
 for Injection, USP
 
-- 2.25 grams*/vial
-- 10 x 2.25 gram Single Dose Vials For IV Use Only
+2.25 grams*/vial
+
+10 x 2.25 gram Single Dose Vials For IV Use Only
 
 *Each vial provides piperacillin and
 

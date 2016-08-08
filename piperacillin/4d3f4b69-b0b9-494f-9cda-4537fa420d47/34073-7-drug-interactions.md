@@ -22,25 +22,32 @@ Piperacillin and tazobactam for injection is not compatible with tobramycin for 
 Probenecid administered concomitantly with piperacillin and tazobactam for injection prolongs the half-life of piperacillin by 21% and that of tazobactam by 71% because probenecid inhibits tubular renal secretion of both piperacillin and tazobactam.
 Probenecid should not be co-administered with piperacillin and tazobactam for injection unless the benefit outweighs the risk.
 
-## 7.3 Anticoagulants
+## 7.3 Vancomycin
+
+A limited number of retrospective studies have detected an increased incidence of acute kidney injury in patients concomitantly administered piperacillin/tazobactam and vancomycin as compared to vancomycin alone.
+Monitor kidney function in patients concomitantly administered with piperacillin/tazobactam and vancomycin.
+
+No pharmacokinetic interactions have been noted between piperacillin/tazobactam and vancomycin.
+
+## 7.4 Anticoagulants
 
 Coagulation parameters should be tested more frequently and monitored regularly during simultaneous administration of high doses of heparin, oral anticoagulants, or other drugs that may affect the blood coagulation system or the thrombocyte function.
-[see Warnings and Precautions (5.4)]
+[see Warnings and Precautions (5.3)]
 
-## 7.4 Vecuronium
+## 7.5 Vecuronium
 
 Piperacillin when used concomitantly with vecuronium has been implicated in the prolongation of the neuromuscular blockade of vecuronium.
 Piperacillin and tazobactam for injection could produce the same phenomenon if given along with vecuronium.
 Due to their similar mechanism of action, it is expected that the neuromuscular blockade produced by any of the non-depolarizing muscle relaxants could be prolonged in the presence of piperacillin.
 Monitor for adverse reactions related to neuromuscular blockade (See package insert for vecuronium bromide).
 
-## 7.5 Methotrexate
+## 7.6 Methotrexate
 
 Limited data suggests that co-administration of methotrexate and piperacillin may reduce the clearance of methotrexate due to competition for renal secretion.
 The impact of tazobactam on the elimination of methotrexate has not been evaluated.
 If concurrent therapy is necessary, serum concentrations of methotrexate as well as the signs and symptoms of methotrexate toxicity should be frequently monitored.
 
-## 7.6 Effects on Laboratory Tests
+## 7.7 Effects on Laboratory Tests
 
 There have been reports of positive test results using the Bio-Rad Laboratories Platelia Aspergillus EIA test in patients receiving piperacillin/tazobactam injection who were subsequently found to be free of Aspergillus infection.
 Cross-reactions with non-Aspergillus polysaccharides and polyfuranoses with the Bio-Rad Laboratories Platelia Aspergillus EIA test have been reported.

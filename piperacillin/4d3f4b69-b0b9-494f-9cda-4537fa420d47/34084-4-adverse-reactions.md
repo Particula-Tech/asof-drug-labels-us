@@ -12,7 +12,7 @@ Table 3: Adverse Reactions from Piperacillin and Tazobactam for Injection Monoth
 
 | System Organ Class Adverse Reaction |
 | --- |
-| Gastrointestinaldisorders |
+| Gastrointestinal disorders |
 | Diarrhea (11.3%) |
 | Constipation (7.7%) |
 | Nausea (6.9%) |
@@ -35,17 +35,19 @@ Table 3: Adverse Reactions from Piperacillin and Tazobactam for Injection Monoth
 | Arthralgia (≤1%) |
 | Nervous system disorders |
 | Headache (7.7%) |
+| Psychiatric disorders |
 | Insomnia (6.6%) |
 | Skin and subcutaneous tissue disorders |
 | Rash (4.2%, including maculopapular, bullous, and urticarial) |
 | Pruritus (3.1%) |
+| Purpura (≤1%) |
 | Vascular disorders |
 | Phlebitis (1.3%) |
 | Thrombophlebitis (≤1%) |
 | Hypotension (≤1%) |
-| Purpura (≤1%) |
-| Epistaxis (≤1%) |
 | Flushing (≤1%) |
+| Respiratory, thoracic and mediastinal disorders |
+| Epistaxis (≤1%) |
 
 Nosocomial Pneumonia Trials
 
@@ -91,6 +93,7 @@ Table 4: Adverse Reactions from Piperacillin and Tazobactam Injection Plus Amino
 | Hypokalemia (≤1%) |
 | Nervous system disorders |
 | Headache (4.5%) |
+| Psychiatric disorders |
 | Insomnia (4.5%) |
 | Renal and urinary disorders |
 | Renal failure (≤1%) |
@@ -126,10 +129,9 @@ Additional laboratory events include abnormalities in electrolytes (i.e., increa
 ## 6.2 Post-Marketing Experience
 
 In addition to the adverse drug reactions identified in clinical trials in Table 3 and Table 4, the following adverse reactions have been identified during postapproval use of piperacillin and tazobactam for injection.
-
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish causal relationship to drug exposure.
 
-Gastrointestinal–hepatitis, jaundice
+Hepatobiliary–hepatitis, jaundice
 
 Hematologic–hemolytic anemia, agranulocytosis, pancytopenia
 
@@ -137,12 +139,14 @@ Immune–hypersensitivity reactions, anaphylactic/anaphylactoid reactions (inclu
 
 Renal–interstitial nephritis
 
-Skin and Appendages–erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms, (DRESS), acute generalized exanthematous pustulosis (AGEP)
+Respiratory–eosinophilic pneumonia
+
+Skin and Appendages–erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms, (DRESS), acute generalized exanthematous pustulosis (AGEP), dermatitis exfoliative
 
 ## 6.3 Additional Experience with Piperacillin
 
 The following adverse reaction has also been reported for piperacillin for injection:
 
-Skeletal–prolonged muscle relaxation [see Drug Interactions (7.4)].
+Skeletal–prolonged muscle relaxation [see Drug Interactions (7.5)].
 
 Post-marketing experience with piperacillin and tazobactam for injection in pediatric patients suggests a similar safety profile to that seen in adults
