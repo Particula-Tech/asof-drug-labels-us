@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "ANDA079179"
+  ],
+  "inn": "imatinib",
+  "labeler": "Apotex Corp",
+  "package_ndcs": [
+    "60505-2900-0",
+    "60505-2900-1",
+    "60505-2900-3",
+    "60505-2900-8",
+    "60505-2900-9",
+    "60505-2901-0",
+    "60505-2901-1",
+    "60505-2901-3",
+    "60505-2901-5",
+    "60505-2901-9"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "imatinib mesylate",
+      "name": "Imatinib Mesylate"
+    }
+  ],
+  "setid": "0291eca5-7a1d-4a79-30be-252224d96509",
+  "source": "dailymed"
+}
