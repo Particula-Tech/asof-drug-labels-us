@@ -170,7 +170,7 @@ Multidose Vial
 
 NOT for Lock Flush
 
-# PRINCIPAL DISPLAY PANEL - 30 mL Multidose Vial Carton
+# PRINCIPAL DISPLAY PANEL - 30 mL Vial Carton
 
 Ten—30 mL Multidose Vials
 
@@ -178,7 +178,7 @@ NDC 0069-0137-03 Contains 10 of NDC 0069-0137-01
 
 HEPARIN Sodium Injection, USP
 
-30,000 USP units/30mL (1,000 USP units per mL)
+30,000 USP units/30 mL (1,000 USP units per mL)
 
 Derived from porcine intestinal tissue
 
