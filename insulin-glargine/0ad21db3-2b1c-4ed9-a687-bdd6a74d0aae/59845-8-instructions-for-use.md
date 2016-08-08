@@ -156,7 +156,7 @@ This Instructions for Use have been approved by the U.S. Food and Drug Administr
 
 BASAGLAR® and BASAGLAR® KwikPen® are trademarks of Eli Lilly and Company.
 
-Instructions for Use revised: June 17, 2016
+Instructions for Use revised: August 5, 2016
 
 Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA and Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877, USA
 
@@ -166,6 +166,8 @@ All rights reserved.
 | BASAGLAR KwikPen meets the current dose accuracy and functional requirements of ISO 11608-1:2014. |
 | --- |
 
+BI (logo)
+
 Lilly (red script)
 
-BASKP-0002-IFU-20160617
+BASKP-0003-IFU-20160805
