@@ -17,7 +17,7 @@ The formula of the active ingredient is:
 | --- | --- | --- |
 | Mannitol USP |  | 182.17 |
 
-The EXCEL® Container is Latex-free, PVC-free, and DEHP-free.
+Not made with natural rubber latex, PVC or DEHP.
 
 The plastic container is made from a multilayered film specifically developed for parenteral drugs.
 It contains no plasticizers.

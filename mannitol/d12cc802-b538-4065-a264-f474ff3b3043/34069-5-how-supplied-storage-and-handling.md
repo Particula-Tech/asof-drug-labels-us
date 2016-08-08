@@ -3,7 +3,7 @@
 20% Mannitol Injection USP is supplied sterile and nonpyrogenic in EXCEL® Containers.
 The 500 mL and 250 mL containers are packaged 24 per case.
 
-| NDC | Cat. No. | Size |
+| NDC | REF | Size |
 | --- | --- | --- |
 | 20% Mannitol Injection USP |  |  |
 | 0264-7578-10 | L5781 | 500 mL |
