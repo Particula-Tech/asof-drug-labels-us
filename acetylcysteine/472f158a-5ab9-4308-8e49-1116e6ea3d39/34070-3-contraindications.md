@@ -1,3 +1,3 @@
 # 4 CONTRAINDICATIONS
 
-Acetadote is contraindicated in patients with previous anaphylactoid reactions to acetylcysteine.
+ACETADOTE is contraindicated in patients with a previous hypersensitivity reaction to acetylcysteine [see Warnings and Precautions (5.1)].
