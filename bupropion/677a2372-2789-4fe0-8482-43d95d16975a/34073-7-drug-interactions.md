@@ -1,85 +1,64 @@
 # 7 DRUG INTERACTIONS
 
-Few systemic data have been collected on the metabolism of bupropion following concomitant administration with other drugs or, alternatively, the effect of concomitant administration of bupropion on the metabolism of other drugs.
-
 ## 7.1 Potential for Other Drugs to Affect FORFIVO XL
 
-Because bupropion is extensively metabolized, the coadministration of other drugs may affect its clinical activity.
+Bupropion is primarily metabolized to hydroxybupropion by CYP2B6.
+Therefore, the potential exists for drug interactions between FORFIVO XL and drugs that are inhibitors or inducers of CYP2B6.
 
-Substrates or Inhibitors/Inducers of Cytochrome P450IIB6 (CYP2B6): In vitro studies indicate that bupropion is primarily metabolized to hydroxybupropion by the CYP2B6 isoenzyme.
-Therefore, the potential exists for a drug interaction between FORFIVO XL and drugs that are substrates or inhibitors/inducers of the CYP2B6 isoenzyme (e.g., orphenadrine, thiotepa, cyclophosphamide, ticlopidine and clopidogrel).
-In addition, in vitro studies suggest that paroxetine, sertraline, norfluoxetine, and fluvoxamine as well as nelfinavir, inhibit the hydroxylation of bupropion.
+Inhibitors of CYP2B6
 
-- Ticlopidine, Clopidogrel: In a study in healthy male volunteers, 75 mg clopidogrel once daily or 250 mg ticlopidine twice daily increased exposures (Cmax and AUC) of bupropion by 40% and 60% for clopidogrel, by 38% and 85% for ticlopidine, respectively.
-  The exposures of hydroxybupropion were decreased.
-  This effect is thought to be due to the inhibition of the CYP2B6-catalyzed bupropion hydroxylation.
-  Coadministration of FORFIVO XL with ticlopidine or clopidogrel is not recommended.
-- Prasugrel: Prasugrel is a weak inhibitor of CYP2B6.
-  In healthy subjects, prasugrel increased Cmax and AUC values of bupropion by 14% and 18%, respectively, and decreased Cmax and AUC values of hydroxybupropion, an active metabolite of bupropion, by 32% and 24%, respectively.
-  The inhibition of prasugrel on bupropion metabolism is not considered clinically significant.
-- Ritonavir, Lopinavir, Efavirenz: In a series of studies in healthy volunteers, ritonavir (100 mg twice daily or 600 mg twice daily) or ritonavir 100 mg plus lopinavir (KALETRA®) 400 mg twice daily reduced the exposure of bupropion and its major metabolites in a dose dependent manner by approximately 20% to 80%.
-  Similarly, efavirenz 600 mg once daily for 2 weeks reduced the exposure of bupropion by approximately 55%.
-  This effect is thought to be due to the induction of bupropion metabolism.
-  Patients receiving any of these drugs with bupropion may need increased doses of bupropion, but the maximum recommended dose of bupropion should not be exceeded [see Clinical Pharmacology (12.3)].
+Ticlopidine and Clopidogrel: Concomitant treatment with these drugs can increase bupropion exposures but decrease hydroxybupropion exposure.
+Coadministration of FORFIVO XL with ticlopidine or clopidogrel is not recommended [see Clinical Pharmacology (12.3)].
 
-Cimetidine: The threohydrobupropion metabolite of bupropion does not appear to be produced by the cytochrome P450 isoenzymes.
-The effects of concomitant administration of cimetidine on the pharmacokinetics of bupropion and its active metabolites were studied in 24 healthy young male volunteers.
-Following oral administration of two 150-mg tablets of the sustained-release formulation of bupropion hydrochloride with and without 800 mg of cimetidine, the pharmacokinetics of bupropion and hydroxybupropion were unaffected.
-However, there were 16% and 32% increases in the AUC and Cmax, respectively, of the combined moieties of threohydrobupropion and erythrohydrobupropion.
+Inducers of CYP2B6
 
-Carbamazepine, Phenobarbital, Phenytoin: While not systematically studied, these drugs may induce the metabolism of bupropion.
+Ritonavir, Lopinavir,and Efavirenz: Concomitant treatment with these drugs can decrease bupropion and hydroxybupropion exposure.
+Patients receiving any of these drugs with bupropion may need increased doses of bupropion, but the maximum recommended dose of bupropion should not be exceeded [see Clinical Pharmacology (12.3)].
+
+Carbamazepine, Phenobarbital, and Phenytoin: Although not systematically studied, these drugs may induce metabolism of bupropion and may decrease bupropion exposure [see Clinical Pharmacology (12.3)].
+If bupropion is used concomitantly with a CYP inducer, it may be necessary to increase the dose of bupropion but the maximum recommended dose should not be exceeded.
 
 ## 7.2 Potential for FORFIVO XL to Affect Other Drugs
 
-Animal data indicated that bupropion may be an inducer of drug-metabolizing enzymes in humans.
-In one study, following chronic administration of bupropion hydrochloride, 100 mg 3 times daily to 8 healthy male volunteers for 14 days, there was no evidence of induction of its own metabolism.
-Nevertheless, there may be the potential for clinically important alterations of blood levels of coadministered drugs.
+Drugs Metabolized by CYP2D6
 
-Lamotrigine: Multiple oral doses of bupropion had no statistically significant effects on the single dose pharmacokinetics of lamotrigine in 12 healthy volunteers.
+Bupropion and its metabolites (erythrohydrobupropion, threohydrobupropion, and hydroxybupropion) are CYP2D6 inhibitors.
+Therefore, coadministration of bupropion with drugs that are metabolized by CYP2D6 can increase the exposures of drugs that are substrates of CYP2D6.
+Such drugs include antidepressants (eg, venlafaxine, nortriptyline, imipramine, desipramine, paroxetine, fluoxetine, and sertraline), antipsychotics (eg, haloperidol, risperidone, and thioridazine), beta-blockers (eg, metoprolol), and Type 1C antiarrhythmics (eg, propafenone, and flecainide).
+When used concomitantly with bupropion, it may be necessary to decrease the dose of these CYP2D6 substrates, particularly for drugs with a narrow therapeutic index.
 
-Drugs Metabolized by Cytochrome P450IID6 (CYP2D6)
+Drugs that require metabolic activation by CYP2D6 to be effective (eg, tamoxifen) theoretically could have reduced efficacy when administered concomitantly with inhibitors of CYP2D6 such as bupropion.
+Patients treated concomitantly with FORFIVO XL and such drugs may require increased doses of the drug [see Clinical Pharmacology (12.3)].
 
-Many drugs, including most antidepressants (SSRIs, many tricyclics), beta-blockers, antiarrhythmics, and antipsychotics are metabolized by the CYP2D6 isoenzyme.
-Although bupropion is not metabolized by this isoenzyme, bupropion and hydroxybupropion are inhibitors of the CYP2D6 isoenzyme in vitro.
-In a study of 15 male subjects (ages 19 to 35 years) who were extensive metabolizers of the CYP2D6 isoenzyme, daily doses of bupropion hydrochloride given as 150 mg twice daily followed by a single dose of 50 mg desipramine increased the Cmax, AUC, and t1/2 of desipramine by an average of approximately 2-, 5-, and 2-fold, respectively.
-The effect was present for at least 7 days after the last dose of bupropion.
-Concomitant use of bupropion with other drugs metabolized by CYP2D6 has not been formally studied.
+## 7.3 Drugs that Lower Seizure Threshold
 
-Therefore, coadministration of bupropion with drugs that are metabolized by the CYP2D6 isoenzyme including certain antidepressants (e.g., venlafaxine, nortriptyline, imipramine, desipramine, paroxetine, fluoxetine, and sertraline), antipsychotics (e.g., haloperidol, risperidone, and thioridazine), beta-blockers (e.g., metoprolol), and Type 1C antiarrhythmics (e.g., propafenone, and flecainide), should be approached with caution and should be initiated at the lower end of the dose range of the concomitant medication.
-If bupropion is added to the treatment regimen of a patient already receiving a drug metabolized by CYP2D6, the need to decrease the dose of the original medication should be considered, particularly for those concomitant medications with a narrow therapeutic index.
+Because there is no lower strength for FORFIVO XL, concurrent administration of FORFIVO XL tablets and agents that lower the seizure threshold (eg, other bupropion products, antipsychotics, antidepressants, theophylline, or systemic corticosteroids) should be undertaken only with extreme caution [see Warnings and Precautions (5.3)].
 
-CYP2D6 in order to be effective (e.g., tamoxifen) theoretically could have reduced efficacy when administered concomitantly with inhibitors of CYP2D6 such as bupropion.
+## 7.4 Dopaminergic Drugs (Levodopa and Amantadine)
 
-Although citalopram is not primarily metabolized by CYP2D6, in one study bupropion increased the Cmax and AUC of citalopram by 30% and 40%, respectively.
-Citalopram did not affect the pharmacokinetics of bupropion and its three metabolites.
+Bupropion, levodopa, and amantadine have dopamine agonist effects.
+CNS toxicity has been reported when bupropion was coadministered with levodopa or amantadine.
+Adverse reactions have included restlessness, agitation, tremor, ataxia, gait disturbance, vertigo, and dizziness.
+It is presumed that the toxicity results from cumulative dopamine agonist effects.
+Because there is no lower strength for FORFIVO XL, administration of FORFIVO XL tablets to patients receiving either levodopa or amantadine concurrently should be undertaken with caution.
 
-## 7.3 Nicotine Transdermal System
-
-Data from a smoking cessation study suggest that a higher incidence of hypertension in patients who received the combination of sustained-release bupropion hydrochloride and nicotine transdermal system (NTS).
-Monitoring of blood pressure is recommended in patients who receive the combination of bupropion and nicotine replacement [see Warnings and Precautions (5.7)].
-
-## 7.4 Drug Laboratory Test Interactions
-
-False-positive urine immunoassay screening tests for amphetamines have been reported in patients taking bupropion.
-This is due to lack of specificity of some screening tests.
-False-positive test results may result even following discontinuation of bupropion therapy.
-Confirmatory test such as gas chromatography/mass spectrometry, will distinguish bupropion from amphetamines.
-
-## 7.5 MAO Inhibitors
-
-Studies in animals demonstrate that the acute toxicity of bupropion is enhanced by the MAO inhibitor phenelzine [see Contraindications (4)].
-
-## 7.6 Drugs that Lower Seizure Threshold
-
-Since there is no lower strength for FORFIVO XL, concurrent administration of FORFIVO XL tablets and agents (e.g., antipsychotics, other antidepressants, theophylline, systemic steroids, etc.) that lower seizure threshold should be undertaken only with caution [see Warnings and Precautions (5.4)].
-
-## 7.7 Alcohol
+## 7.5 Use with Alcohol
 
 In postmarketing experience, there have been rare reports of adverse neuropsychiatric events or reduced alcohol tolerance in patients who were drinking alcohol during treatment with bupropion.
 Alcohol increased the release rate of FORFIVO XL in vitro.
 The consumption of alcohol during treatment with FORFIVO XL should be avoided.
 
-## 7.8 Levodopa and Amantadine
+## 7.6 Monoamine Oxidase Inhibitors (MAOIs)
 
-Limited clinical data suggest a higher incidence of adverse experiences in patients receiving bupropion concurrently with either levodopa or amantadine.
-Since there is no lower strength for FORFIVO XL, administration of FORFIVO XL tablets to patients receiving either levodopa or amantadine concurrently should be undertaken with caution.
+Bupropion inhibits the reuptake of dopamine and norepinephrine.
+Concomitant use of MAOIs and bupropion is contraindicated because there is an increased risk of hypertensive reactions if bupropion is used concomitantly with MAOIs.
+Studies in animals demonstrate that the acute toxicity of bupropion is enhanced by the MAOI phenelzine.
+At least 14 days should elapse between discontinuation of an MAOI intended to treat depression and initiation of treatment with FORFIVO XL.
+Conversely, at least 14 days should be allowed after stopping FORFIVO XL before starting an MAOI antidepressant [see Dosage and Administration (2.7, 2.8) and Contraindications (4)].
+
+## 7.7 Drug-Laboratory Test Interactions
+
+False-positive urine immunoassay screening tests for amphetamines have been reported in patients taking bupropion.
+This is due to lack of specificity of some screening tests.
+False-positive test results may result even following discontinuation of bupropion therapy.
+Confirmatory tests such as gas chromatography/mass spectrometry, will distinguish bupropion from amphetamines.

@@ -1,11 +1,8 @@
 # 1 INDICATIONS AND USAGE
 
-FORFIVO XL (bupropion hydrochloride extended-release tablets) is indicated for the treatment of major depressive disorder (MDD).
+FORFIVO XL (bupropion hydrochloride extended-release tablets) is indicated for the treatment of major depressive disorder (MDD), as defined by the Diagnostic and Statistical Manual (DSM).
 
-The efficacy in the treatment of MDD was established in two 4-week and one 6-week and one maintenance trial in adult patients whose diagnoses corresponded most closely to the Major Depression category of the APA Diagnostic and Statistical Manual (DSM) [see Clinical Studies (14)].
-
-A major depressive episode (DSM-IV) implies the presence of 1) depressed mood or 2) loss of interest or pleasure; in addition, at least 5 of the following symptoms have been present during the same 2-week period and represent a change from previous functioning: depressed mood, markedly diminished interest or pleasure in usual activities, significant change in weight and/or appetite, insomnia or hypersomnia, psychomotor agitation or retardation, increased fatigue, feelings of guilt or worthlessness, slowed thinking or impaired concentration, a suicide attempt, or suicidal ideation.
-
-The efficacy of bupropion in pediatric population has not been established.
+The efficacy of the immediate-release formulation of bupropion was established in two 4-week controlled inpatient trials and one 6-week controlled outpatient trial of adult patients with MDD.
+The efficacy of the sustained-release formulation of bupropion in the maintenance treatment of MDD was established in a long-term (up to 44 weeks), placebo-controlled trial in patients who had responded to bupropion in an 8-week study of acute treatment [see Clinical Studies (14)].
 
 The physician who elects to use FORFIVO XL for extended periods should periodically reevaluate the long-term usefulness of the drug for the individual patient.
