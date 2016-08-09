@@ -9,7 +9,7 @@ Patients using MIRVASO topical gel should receive the following information and 
 - MIRVASO topical gel should not be applied to irritated skin or open wounds.
 - Avoid contact with the eyes and lips.
 - Patients should wash their hands immediately after applying the medication.
-- Some patients using MIRVASO topical gel may experience erythema or flushing.
+- Some patients using MIRVASO topical gel may experience erythema, flushing or excessive whitening.
 - Patients should report any adverse reactions to their physician.
 - Keep out of reach of children.
 
@@ -21,4 +21,4 @@ Made in Canada.
 
 All trademarks are the property of their respective owners.
 
-P52849-0 or P51217-2
+P52849-1 or P51217-3

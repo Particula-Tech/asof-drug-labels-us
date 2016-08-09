@@ -83,7 +83,7 @@ Get medical help right away if you, a child, or anyone else swallows MIRVASO top
 
 • lack of energy, trouble breathing or stops breathing, a slow heart beat, confusion, sweating, restlessness, muscle spasms, or twitching.
 
-Read and follow the steps below so that you use MIRVASO topical gel pump correctly:
+Read and follow the steps below so that you use your MIRVASO topical gel pump correctly:
 
 1.
 Push the cap down and turn it counter-clockwise until the cap can be removed.
@@ -124,7 +124,7 @@ How should I store MIRVASO topical gel?
 
 • Store MIRVASO topical gel at room temperature between 68°F to 77°F (20°C to 25°C).
 
-Keep MIRVASO topical gel out of the reach of children.
+Keep MIRVASO topical gel and all medicines out of the reach of children.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 

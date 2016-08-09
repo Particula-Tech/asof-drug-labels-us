@@ -17,13 +17,47 @@ Both children were hospitalized overnight and discharged the following day witho
 
 Keep MIRVASO topical gel out of the reach of children.
 
-## 5.4 Erythema and Flushing
+## 5.4 Systemic Adverse Reactions of Alpha-2 Adrenergic Agonists
 
-Some subjects in the clinical trials discontinued use of MIRVASO topical gel because of erythema or flushing.
-The effect of MIRVASO topical gel may begin to diminish hours after application.
-For some subjects in the clinical trials, erythema was reported to return worse compared to the severity at baseline [see Adverse Reactions (6)].
+Postmarketing cases of bradycardia, hypotension (including orthostatic hypotension) and dizziness have been reported.
+Some cases required hospitalization.
+Some cases involved application of MIRVASO topical gel in unapproved dosing regimens and for unapproved indications, including the application of MIRVASO topical gel following laser procedures.
 
-Intermittent flushing occurred in some subjects treated with MIRVASO topical gel.
-The onset of flushing relative to application of MIRVASO topical gel varied, ranging from approximately 30 minutes to several hours [see Adverse Reactions (6)].
+Avoid applying MIRVASO topical gel to irritated skin or open wounds.
 
-Erythema and flushing appeared to resolve after discontinuation of MIRVASO topical gel.
+## 5.5 Local Vasomotor Adverse Reactions
+
+Erythema
+
+Some subjects in the clinical trials discontinued use of MIRVASO topical gel because of erythema.
+Some subjects in the clinical trials reported a rebound phenomenon, where erythema was reported to return worse compared to the severity at baseline.
+
+Erythema appeared to resolve after discontinuation of MIRVASO topical gel.[see Adverse Reactions (6.1)].
+
+The treatment effect of MIRVASO topical gel may begin to diminish hours after application.
+
+From postmarketing reports, some patients have experienced erythema involving areas of the face that were previously not affected by erythema and in areas (e.g., neck and chest) outside of the treatment sites.
+
+Flushing
+
+Some subjects in the clinical trials discontinued use of MIRVASO topical gel because of flushing.
+
+Intermittent flushing occurred in some subjects treated with MIRVASO topical gel in the clinical trials.
+The onset of flushing relative to application of MIRVASO topical gel varied, ranging from approximately 30 minutes to several hours [see Adverse Reactions (6.1)].
+Flushing appeared to resolve after discontinuation of MIRVASO topical gel.
+
+From postmarketing reports, some patients have experienced increased frequency of flushing and/or increased depth of
+
+erythema with the flushing.
+Additionally, some patients reported new onset of flushing.
+
+Pallor and Excessive Whitening
+
+From postmarketing reports, some patients have experienced pallor or excessive whitening at or outside the application site following treatment with MIRVASO topical gel.
+
+## 5.6 Hypersensitivity
+
+Allergic contact dermatitis was reported in the clinical trials for MIRVASO topical gel [see Adverse Reactions (6.1)].
+
+Events reported post marketing with the use of MIRVASO topical gel include angioedema, throat tightening, tongue swelling, and urticaria, [see Adverse Reactions (6.2)].
+Institute appropriate therapy and discontinue MIRVASO topical gel, if clinically significant hypersensitivity reaction occurs.

@@ -1,5 +1,13 @@
 # 6 ADVERSE REACTIONS
 
+The following adverse drug reactions are discussed in greater detail in other sections of the label:
+
+- Systemic Adverse Reactions of Alpha-2 Adrenergic Agonists [see Warnings and Precautions (5.4)]
+- Local Vasomotor Adverse Reactions [see Warnings and Precautions (5.5)]
+- Hypersensitivity [see Warnings and Precautions (5.6)]
+
+## 6.1 Clinical Trials Experience
+
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 During clinical trials, 1210 subjects were exposed to MIRVASO topical gel.
@@ -17,3 +25,16 @@ The most common adverse events (> 4% of subjects) for the entire study were flus
 Allergic contact dermatitis Allergic contact dermatitis to MIRVASO topical gel was reported in approximately 1% of subjects across the clinical development program.
 Two subjects underwent patch testing with individual product ingredients.
 One subject was found to be sensitive to brimonidine tartrate, and one subject was sensitive to phenoxyethanol (a preservative).
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of MIRVASO topical gel.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency or establish a causal relationship to drug exposure.
+
+Cardiovascular disorders: bradycardia, hypotension (including orthostatic hypotension)
+
+Immune system disorders: angioedema, hypersensitivity, lip swelling, swollen tongue, throat tightness, urticaria
+
+Nervous systemic disorders: dizziness
+
+Skin and subcutaneous disorders: pallor

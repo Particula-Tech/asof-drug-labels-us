@@ -5,4 +5,4 @@ MIRVASO topical gel should be applied smoothly and evenly as a thin layer across
 
 Wash hands after applying MIRVASO topical gel.
 
-MIRVASO topical gel is not for oral, ophthalmic, or intravaginal use.
+MIRVASO topical gel is for topical use only and not for oral, ophthalmic, or intravaginal use.
