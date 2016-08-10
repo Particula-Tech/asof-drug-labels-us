@@ -237,7 +237,7 @@ Table 6: Adverse Reactions in ≥10% of AFINITOR-Treated Patients with Non-Funct
 | Vomiting | 15 | 4 | 0 | 12 | 2 | 0 |
 | General disorders and administration site conditions |  |  |  |  |  |  |
 | Peripheral edema | 39 | 3 | 0 | 6 | 1 | 0 |
-| Fatigue 37 | 4 | 1 | 36 | 1 | 0 |  |
+| Fatigue | 37 | 4 | 1 | 36 | 1 | 0 |
 | Asthenia | 23 | 2 | 1 | 8 | 0 | 0 |
 | Pyrexia | 23 | 1 | 1 | 8 | 0 | 0 |
 | Infections |  |  |  |  |  |  |
