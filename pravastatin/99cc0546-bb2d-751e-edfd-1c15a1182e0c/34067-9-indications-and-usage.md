@@ -7,13 +7,15 @@ Drug therapy is indicated as an adjunct to diet when the response to a diet rest
 
 In hypercholesterolemic patients without clinically evident coronary heart disease (CHD), pravastatin sodium tablets are indicated to:
 
-- reduce the risk of myocardial infarction (MI).
+- reduce the risk of MI.
 - reduce the risk of undergoing myocardial revascularization procedures.
 - reduce the risk of cardiovascular mortality with no increase in death from non-cardiovascular causes.
 
 In patients with clinically evident CHD, pravastatin sodium tablets are indicated to:
 
-• reduce the risk of total mortality by reducing coronary death. • reduce the risk of MI.
+• reduce the risk of total mortality by reducing coronary death.
+
+• reduce the risk of MI.
 
 • reduce the risk of undergoing myocardial revascularization procedures.
 
