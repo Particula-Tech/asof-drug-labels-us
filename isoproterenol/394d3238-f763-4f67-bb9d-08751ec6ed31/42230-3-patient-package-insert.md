@@ -1,4 +1,4 @@
-## Patient Instructions for Use
+# Patient Instructions for Use
 
 Medihaler-Iso™
 
