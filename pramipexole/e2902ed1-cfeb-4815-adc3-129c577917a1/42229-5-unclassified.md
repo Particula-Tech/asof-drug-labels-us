@@ -12,6 +12,9 @@ If patients develop nausea, advise that taking MIRAPEX ER tablets with food may 
 MIRAPEX ER tablets should be swallowed whole.
 They should not be chewed, crushed, or divided [see Dosage and Administration (2.1)].
 
+Inform patients that residue in stool which may resemble a swollen original MIRAPEX ER tablet or swollen pieces of the original tablet have been reported [see Adverse Reactions (6.2)].
+Instruct patients to contact their physician if this occurs.
+
 Pramipexole is the active ingredient that is in both MIRAPEX ER tablets and immediate-release pramipexole tablets.
 Ensure that patients do not take both immediate-release pramipexole and MIRAPEX ER.
 
@@ -30,7 +33,7 @@ Accordingly, caution patients against rising rapidly after sitting or lying down
 
 Pregnancy Because the teratogenic potential of pramipexole has not been completely established in laboratory animals, and because experience in humans is limited, advise women to notify their physicians if they become pregnant or intend to become pregnant during therapy [see Use in Specific Populations (8.1)].
 
-Nursing Mothers Because of the possibility that pramipexole may be excreted in breast milk, advise women to notify their physicians if they intend to breast-feed or are breast-feeding an infant [see Use in Specific Populations (8.3)].
+Lactation Because of the possibility that pramipexole may be excreted in breast milk, advise women to notify their physicians if they intend to breast-feed or are breast-feeding an infant [see Use in Specific Populations (8.2)].
 
 Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
@@ -42,4 +45,4 @@ Trademark under license from: Boehringer Ingelheim International GmbH
 
 Copyright © 2016 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-OT220011AAA072016 74988-13
+OT220011ABG292016

@@ -1,4 +1,4 @@
-Patient Information Mirapex ER® [mîr′-ah-pěx] (pramipexole dihydrochloride) extended-release tablets
+Patient Information Mirapex ER® (mîr′-ah-pěx) (pramipexole dihydrochloride) extended-release tablets
 
 Read this Patient Information before you start taking MIRAPEX ER and each time you get a refill.
 There may be new information.
@@ -30,7 +30,7 @@ Before taking MIRAPEX ER, tell your doctor if you:
 Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
 MIRAPEX ER and other medicines may affect each other causing side effects.
-MIRAPEX ER may affect the way other medicines work, and other medicines may affect how MIRPAEX ER works.
+MIRAPEX ER may affect the way other medicines work, and other medicines may affect how MIRAPEX ER works.
 
 Especially tell your doctor if you take:
 
@@ -55,6 +55,8 @@ How should I take MIRAPEX ER?
   Do not chew, crush, or cut MIRAPEX ER.
 - MIRAPEX ER can be taken with or without food.
   Taking MIRAPEX ER with food may lower your chances of getting nausea.
+- You may see something that looks like a swollen original tablet or swollen pieces of the original tablet in your stool.
+  If this happens, tell your doctor.
 - If you miss a dose of MIRAPEX ER it should be taken as soon as possible, but no later than 12 hours after your regularly scheduled time.
   If it is later than 12 hours, the missed dose should be skipped and the next dose should be taken on the following day at your regularly scheduled time.
   Do not double your next MIRAPEX ER dose.

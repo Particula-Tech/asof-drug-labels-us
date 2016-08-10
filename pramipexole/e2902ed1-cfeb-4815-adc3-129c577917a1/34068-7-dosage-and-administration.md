@@ -20,7 +20,7 @@ Patients should be assessed for therapeutic response and tolerability at a minim
 Due to the flexible dose design used in clinical trials, specific dose-response information could not be determined [see Clinical Studies (14)].
 
 MIRAPEX ER tablets may be tapered off at a rate of 0.75 mg per day until the daily dose has been reduced to 0.75 mg.
-Thereafter, the dose may be reduced by 0.375 mg per day.
+Thereafter, the dose may be reduced by 0.375 mg per day [see Warnings and Precautions (5.9)].
 
 Dosing in Patients with Renal Impairment In patients with moderate renal impairment (creatinine clearance between 30 and 50 mL/min), MIRAPEX ER tablets should initially be taken every other day.
 Caution should be exercised and careful assessment of therapeutic response and tolerability should be made before increasing to daily dosing after one week, and before any additional titration in 0.375 mg increments up to 2.25 mg per day.

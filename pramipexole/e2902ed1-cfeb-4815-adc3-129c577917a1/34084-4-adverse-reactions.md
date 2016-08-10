@@ -124,3 +124,7 @@ The following adverse reactions have been identified during post-approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Decisions to include these reactions in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of reporting, or (3) strength of causal connection to pramipexole tablets.
 Similar types of reactions were grouped into a smaller number of standardized categories using the MedDRA terminology: cardiac failure, inappropriate antidiuretic hormone secretion (SIADH), skin reactions (including erythema, rash, pruritus, urticaria), syncope, vomiting, and weight increase.
+
+There are postmarketing reports of patients noticing tablet residue in their stool that resembles a swollen MIRAPEX ER whole tablet or swollen pieces of the tablet.
+Some patients have reported worsening of their Parkinson’s disease symptoms when tablet residue was observed.
+If a patient reports tablet residue with worsening of their Parkinson’s symptoms, prescribers may need to re-evaluate their medications.

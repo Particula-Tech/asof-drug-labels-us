@@ -8,6 +8,6 @@ Trademark under license from: Boehringer Ingelheim International GmbH
 
 Copyright © 2016 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Revised: January 2016
+Revised: July 2016
 
-OT220011AAA072016 74988-13
+OT220011ABG292016
