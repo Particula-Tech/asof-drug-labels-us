@@ -36,7 +36,7 @@ Avoid fluoroquinolones, including LEVAQUIN, in patients who have previously expe
 ## 5.4 Central Nervous System Effects
 
 Fluoroquinolones, including LEVAQUIN, have been associated with an increased risk of central nervous system (CNS) effects, including convulsions, toxic psychoses, increased intracranial pressure (including pseudotumor cerebri).
-Fluoroquinolones may also cause central nervous system stimulation which may lead to tremors, restlessness, anxiety, lightheadedness, confusion, hallucinations, paranoia, depression, nightmares, insomnia, and, rarely, suicidal thoughts or acts.
+Fluoroquinolones may also cause central nervous system stimulation which may lead to tremors, restlessness, anxiety, lightheadedness, confusion, hallucinations, paranoia, depression, nightmares, insomnia, and, rarely, suicidal thoughts or acts, including completed suicide, especially in patients with a medical history of depression, or an underlying risk factor for depression.
 These reactions may occur following the first dose.
 If these reactions occur in patients receiving LEVAQUIN®, discontinue LEVAQUIN and institute appropriate measures.
 As with other fluoroquinolones, LEVAQUIN® should be used with caution in patients with a known or suspected central nervous system (CNS) disorder that may predispose them to seizures or lower the seizure threshold (e.g., severe cerebral arteriosclerosis, epilepsy) or in the presence of other risk factors that may predispose them to seizures or lower the seizure threshold (e.g., certain drug therapy, renal dysfunction).

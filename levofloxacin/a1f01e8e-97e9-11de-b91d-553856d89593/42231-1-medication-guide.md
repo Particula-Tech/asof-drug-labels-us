@@ -170,7 +170,7 @@ LEVAQUIN can cause serious side effects, including:
 - See "What is the most important information I should know about LEVAQUIN?"
 - Serious allergic reactions.Allergic reactions can happen in people taking fluoroquinolones, including LEVAQUIN, even after only 1 dose.
   Stop taking LEVAQUIN and get emergency medical help right away if you have any of the following symptoms of a severe allergic reaction:Skin rash may happen in people taking LEVAQUIN, even after only 1 dose.
-  Stop taking LEVAQUIN at the first sign of a skin rash and call your healthcare provider.
+  Stop taking LEVAQUIN at the first sign of any kind of a skin rash and immediately call your healthcare provider.
   Skin rash may be a sign of a more serious reaction to LEVAQUIN.
   - hives
   - trouble breathing or swallowing
@@ -283,4 +283,4 @@ Manufactured for:
 © Janssen Pharmaceuticals, Inc.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Revised July 2016
+Revised August 2016
