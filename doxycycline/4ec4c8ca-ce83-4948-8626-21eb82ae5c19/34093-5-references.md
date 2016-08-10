@@ -1,17 +1,18 @@
 # REFERENCES
 
 1. Clinical and Laboratory Standards Institute (CLSI).
-   Performance Standards for Antimicrobial Susceptibility Testing; Twenty-fifth Informational Supplement, CLSI document M100-S25.
-   Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2015.
-2. Clinical and Laboratory Standards Institute.
-   Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically; Approved Standard - 10th ed.
-   CLSI document M07-A10.
-   Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2015.
-3. Clinical and Laboratory Standards Institute.
-   Performance Standards for Antimicrobial Disk Susceptibility Tests; Approved Standard – 11th ed.
-   CLSI document M02-A12.
-   Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2015.
-4. Clinical and Laboratory Standards Institute.
+   Performance Standards for Antimicrobial Susceptibility Testing; Twenty-Fourth Informational Supplement.
+   CLSI document M100-S24.
+   Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2014.
+2. Clinical and Laboratory Standards Institute (CLSI).
+   Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically; Approved Standard - Ninth Edition.
+   CLSI document M07-A9.
+   Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2012.
+3. Clinical and Laboratory Standards Institute (CLSI).
+   Performance Standards for Antimicrobial Disk Diffusion Susceptibility Tests; Approved Standard – Eleventh Edition.
+   CLSI document M02-A11.
+   Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2012.
+4. Clinical and Laboratory Standards Institute (CLSI).
    Methods for Antimicrobial Dilution and Disk Susceptibility Testing of Infrequently Isolated or Fastidious Bacteria; Approved Guideline – Second Edition.
    CLSI document M45-A2.
    Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2010.
@@ -27,20 +28,22 @@
    Methods for Antimicrobial Susceptibility Testing for Human Mycoplasmas; Approved Guideline.
    CLSI document M43-A.
    Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2011.
-
-a. Friedman JM and Polifka JE.
-Teratogenic Effects of Drugs.
-A Resource for Clinicians (TERIS).
-Baltimore, MD: The Johns Hopkins University Press, 2000: 149–195. b. Cziezel AE and Rockenbauer M. Teratogenic study of doxycycline.
-Obstet Gynecol 1997; 89: 524–528. c. Horne HW Jr and Kundsin RB.
-The role of mycoplasma among 81 consecutive pregnancies: a prospective study.
-Int J Fertil 1980; 25: 315–317. d. Hale T. Medications and Mothers’ Milk.
-9th edition.
-Amarillo, TX: Pharmasoft Publishing, 2000: 225–226.
+8. Friedman JM and Polifka JE.
+   Teratogenic Effects of Drugs.
+   A Resource for Clinicians (TERIS).
+   Baltimore, MD: The Johns Hopkins University Press, 2000: 149–195.
+9. Cziezel AE and Rockenbauer M. Teratogenic study of doxycycline.
+   Obstet Gynecol 1997; 89: 524–528.
+10. Horne HW Jr and Kundsin RB.
+    The role of mycoplasma among 81 consecutive pregnancies: a prospective study.
+    Int J Fertil 1980; 25: 315–317.
+11. Hale T. Medications and Mothers’ Milk.
+    9th edition.
+    Amarillo, TX: Pharmasoft Publishing, 2000: 225–226.
 
 Distributed By: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724 USA
 
 Manufactured By: HIKMA Pharmaceuticals P.O.
 Box 182400 Amman 11118 - Jordan
 
-Revised September 2015
+Revised June 2016
