@@ -2,7 +2,7 @@
 
 ## 1.1 Prophylaxis of Organ Rejection in Kidney Transplant
 
-Tacrolimus capsules, USP are indicated for the prophylaxis of organ rejection in patients receiving allogeneic kidney transplants.
+Tacrolimus capsules are indicated for the prophylaxis of organ rejection in patients receiving allogeneic kidney transplants.
 It is recommended that tacrolimus capsules be used concomitantly with azathioprine or mycophenolate mofetil (MMF) and adrenal corticosteroids [see Clinical Studies (14.1)].
 Therapeutic drug monitoring is recommended for all patients receiving tacrolimus capsules [see Dosage and Administration (2.6)].
 

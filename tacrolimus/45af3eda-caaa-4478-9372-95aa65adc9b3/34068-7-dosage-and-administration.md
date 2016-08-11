@@ -13,13 +13,13 @@ Summary of Initial Oral Dosage Recommendations and Observed Whole Blood Trough C
 | Patient Population | Recommended Tacrolimus Capsules Initial Oral Dosage Note: daily doses should be administered as two divided doses, every 12 hours | Observed Tacrolimus Whole Blood Trough Concentrations |
 | --- | --- | --- |
 | Adult kidney transplant patients |  |  |
-| In combination with azathioprine | 0.2 mg/kg/day | month 1 to 3: 7 to 20 ng/mLmonth 4 to 12: 5 to 15 ng/mL |
-| In combination with MMF/IL-2 receptor antagonistIn a second smaller trial, the initial dose of tacrolimus was 0.15 to 0.2 mg/kg/day and observed tacrolimus concentrations were 6 to 16 ng/mL during month 1 to 3 and 5 to 12 ng/mL during month 4 to 12 [see Clinical Studies (14.1)]. | 0.1 mg/kg/day | month 1 to 12: 4 to 11 ng/mL |
-| Adult liver transplant patients | 0.10 to 0.15 mg/kg/day | month 1 to 12: 5 to 20 ng/mL |
-| Adult heart transplant patients | 0.075 mg/kg/day | month 1 to 3: 10 to 20 ng/mL month ≥ 4: 5 to 15 ng/mL |
+| In combination with azathioprine | 0.2 mg/kg/day | month 1 to 3: 7 ng/mL to 20 ng/mLmonth 4 to 12: 5 ng/mL to 15 ng/mL |
+| In combination with MMF/IL-2 receptor antagonistIn a second smaller trial, the initial dose of tacrolimus was 0.15 mg/kg/day to 0.2 mg/kg/day and observed tacrolimus concentrations were 6 ng/mL to 16 ng/mL during month 1 to 3 and 5 to 12 ng/mL during month 4 to 12 [see Clinical Studies (14.1)]. | 0.1 mg/kg/day | month 1 to 12: 4 ng/mL to 11 ng/mL |
+| Adult liver transplant patients | 0.10 mg/kg/day to 0.15 mg/kg/day | month 1 to 12: 5 ng/mL to 20 ng/mL |
+| Adult heart transplant patients | 0.075 mg/kg/day | month 1 to 3: 10 ng/mL to 20 ng/mL month ≥ 4: 5 ng/mL to 15 ng/mL |
 
 Dosing should be titrated based on clinical assessments of rejection and tolerability.
-Lower tacrolimus dosages than the recommended initial dosage may be sufficient as maintenance therapy.
+Lower tacrolimus capsules dosages than the recommended initial dosage may be sufficient as maintenance therapy.
 Adjunct therapy with adrenal corticosteroids is recommended early post-transplant.
 
 The data in kidney transplant patients indicate that the Black patients required a higher dose to attain comparable trough concentrations compared to Caucasian patients (Table 2).
@@ -30,10 +30,10 @@ Comparative Dose and Trough Concentrations Based on Race
 | Time After Transplant | Caucasian n = 114 |  | Black n = 56 |  |
 | --- | --- | --- | --- | --- |
 |  | Dose (mg/kg) | Trough Concentrations (ng/mL) | Dose (mg/kg) | Trough Concentrations (ng/mL) |
-| Day 7 | 0.18 | 12 | 0.23 | 10.9 |
+| Day 7 | 0.18 | 12.0 | 0.23 | 10.9 |
 | Month 1 | 0.17 | 12.8 | 0.26 | 12.9 |
 | Month 6 | 0.14 | 11.8 | 0.24 | 11.5 |
-| Month 12 | 0.13 | 10.1 | 0.19 | 11 |
+| Month 12 | 0.13 | 10.1 | 0.19 | 11.0 |
 
 Anaphylactic reactions have occurred with injectables containing castor oil derivatives, such as tacrolimus injection [see Warnings and Precautions (5.11)].
 
@@ -41,14 +41,14 @@ Anaphylactic reactions have occurred with injectables containing castor oil deri
 
 The initial oral dosage recommendations for pediatric patients with liver transplants along with recommendations for whole blood trough concentrations are shown in Table 3.
 For blood concentration monitoring details see Dosage and Administration (2.6).
-If necessary, pediatric patients may start on an IV dose of 0.03 to 0.05 mg/kg/day.
+If necessary, pediatric patients may start on an IV dose of 0.03 mg/kg/day to 0.05 mg/kg/day.
 
 Table 3.
 Summary of Initial Oral Dosage Recommendations and Observed Whole Blood Trough Concentrations in Children
 
 | Patient Population | Recommended Tacrolimus Capsules Initial Oral Dosage Note: daily doses should be administered as two divided doses, every 12 hours | Observed Tacrolimus Whole Blood Trough Concentrations |
 | --- | --- | --- |
-| Pediatric liver transplant patients | 0.15 to 0.20 mg/kg/day | Month 1 to 12: 5 to 20 ng/mL |
+| Pediatric liver transplant patients | 0.15 mg/kg/day to 0.20 mg/kg/day | Month 1 to 12: 5 ng/mL to 20 ng/mL |
 
 Pediatric liver transplantation patients without pre-existing renal or hepatic dysfunction have required and tolerated higher doses than adults to achieve similar blood concentrations.
 
@@ -108,4 +108,5 @@ Comparison of the concentrations in published literature to patient concentratio
 Whole blood is the matrix of choice and specimens should be collected into tubes containing ethylene diamine tetraacetic acid (EDTA) anti-coagulant.
 Heparin anti-coagulation is not recommended because of the tendency to form clots on storage.
 Samples which are not analyzed immediately should be stored at room temperature or in a refrigerator and assayed within 7 days; see assay instructions for specifics.
-If samples are to be kept longer they should be deep frozen at -20° C. One study showed drug recovery > 90% for samples stored at -20° C for 6 months, with reduced recovery observed after 6 months.
+If samples are to be kept longer they should be deep frozen at -20°C.
+One study showed drug recovery > 90% for samples stored at -20°C for 6 months, with reduced recovery observed after 6 months.

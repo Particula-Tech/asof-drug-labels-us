@@ -1,8 +1,8 @@
-# PATIENT INFORMATION LEAFLET
+# Patient Information
 
-TACROLIMUS CAPSULES, USP (ta kroe′ li mus) 0.5 mg, 1 mg and 5 mg
+Tacrolimus Capsules, USP (ta kroe′ li mus)
 
-Read this Patient Information Leaflet before you start taking tacrolimus capsules and each time you get a refill.
+Read this Patient Information before you start taking tacrolimus capsules and each time you get a refill.
 There may be new information.
 This information does not take the place of talking with your doctor about your medical condition or your treatment.
 
@@ -13,7 +13,7 @@ Tacrolimus capsules can cause serious side effects, including:
 1. 1.Increased risk of cancer.
    People who take tacrolimus capsules have an increased risk of getting some kinds of cancer, including skin and lymph gland cancer (lymphoma).
 2. 2.Increased risk of infection.
-   Tacrolimus capsule is a medicine that affects your immune system.
+   Tacrolimus capsules are a medicine that affects your immune system.
    Tacrolimus capsules can lower the ability of your immune system to fight infections.
    Serious infections can happen in people receiving tacrolimus capsules that can cause death.
    Call your doctor right away if you have symptoms of an infection such as:
@@ -25,9 +25,9 @@ Tacrolimus capsules can cause serious side effects, including:
 
 What are tacrolimus capsules?
 
-Tacrolimus capsules are a prescription medicine used with other medicines to help prevent organ rejection in people who have had a kidney, liver, or heart transplant and tacrolimus capsules are not for use with medicines called cyclosporines (Gengraf®*, Neoral®*, and Sandimune®*).
+Tacrolimus capsules are a prescription medicine used with other medicines to help prevent organ rejection in people who have had a kidney, liver, or heart transplant and tacrolimus capsules are not for use with medicines called cyclosporines (Gengraf®, Neoral®, and Sandimune®).
 
-Tacrolimus capsules are not for use with a medicine called sirolimus (Rapamune®*) in people who have had a liver or heart transplants.
+Tacrolimus capsules are not for use with a medicine called sirolimus (Rapamune®) in people who have had a liver or heart transplants.
 
 It is not known if tacrolimus capsules are safe and effective when used with sirolimus in people who have had kidney transplants.
 
@@ -39,7 +39,6 @@ Do not take tacrolimus capsules if you are allergic to tacrolimus or any of the 
 See the end of this leaflet for a complete list of ingredients in tacrolimus capsules.
 
 What should I tell my doctor before taking tacrolimus capsules?
-
 Before you take tacrolimus capsules, tell your doctor if you:
 
 - •plan to receive any live vaccines
@@ -49,19 +48,19 @@ Before you take tacrolimus capsules, tell your doctor if you:
   Talk to your doctor if you are pregnant or plan to become pregnant.
 - •are breastfeeding or plan to breastfeed.
   Tacrolimus can pass into your breast milk.
-  You and your doctor should decide if you will take tacrolimus or breastfeed.
+  You and your doctor should decide if you will take tacrolimus capsules or breastfeed.
   You should not do both.
 
 Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 
 Especially tell your doctor if you take:
 
-- •cyclosporine (Gengraf®*, Neoral®*, and Sandimune®*)
-- •sirolimus (Rapamune®*)
-- •nelfinavir (Viracept®*)
-- •telaprevir (IncivekTM*)
-- •boceprevir (VictrelisTM*)
-- •amiodarone (CordaroneTM*, NexteroneTM*, PaceroneTM*)
+- •cyclosporine (Gengraf®, Neoral®, and Sandimune®)
+- •sirolimus (Rapamune®)
+- •nelfinavir (Viracept®)
+- •telaprevir (IncivekTM)
+- •boceprevir (VictrelisTM)
+- •amiodarone (CordaroneTM, NexteroneTM, PaceroneTM)
 
 Ask your doctor or pharmacist if you are not sure if you take any of the medicines listed above.
 
@@ -101,7 +100,6 @@ What should I avoid while taking tacrolimus capsules?
   Wear protective clothing and use a sunscreen.
 
 What are the possible side effects of tacrolimus capsules?
-
 Tacrolimus capsules may cause serious side effects, including:
 
 - •See “What is the most important information I should know about tacrolimus capsules?”
@@ -199,7 +197,7 @@ Keep tacrolimus capsules and all medicines out of reach of children.
 
 General information about the safe and effective use of tacrolimus capsules
 
-Medicines are sometimes prescribed for purposes other than those listed in a Patient Information Leaflet.
+Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
 Do not use tacrolimus capsules for a condition for which it was not prescribed.
 Do not give tacrolimus capsules to other people, even if they have the same symptoms that you have.
 It may harm them.
@@ -210,27 +208,25 @@ The body’s immune system protects the body against anything that it does not r
 For example, when the immune system detects a virus or bacteria it tries to get rid of it to prevent infection.
 When a person has a liver, kidney, or heart transplant, the immune system does not recognize the new organ as a part of the body and tries to get rid of it, too.
 This is called “rejection”.
-Tacrolimus capsules protects your new organ by slowing down the body’s immune system.
+Tacrolimus capsules protect your new organ by slowing down the body’s immune system.
 
-This Patient Information Leaflet summarizes the most important information about tacrolimus capsules.
+This Patient Information leaflet summarizes the most important information about tacrolimus capsules.
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about tacrolimus capsules that is written for health professionals.
 
 For more information, call Mylan Pharmaceuticals Inc. at 1-877-446-3679 (1-877-4-INFO-RX).
 
-What are the ingredients in tacrolimus capsules, USP?
+What are the ingredients in tacrolimus capsules?
+Active ingredient: tacrolimus Inactive ingredients include: anhydrous lactose, black iron oxide, colloidal silicon dioxide, croscarmellose sodium, gelatin, hypromellose, lactose monohydrate, magnesium stearate, sodium lauryl sulfate, titanium dioxide and yellow iron oxide.
 
-Active ingredient: tacrolimus
+The 0.5 mg capsules contain D&C Red No. 28, D&C Yellow No. 10 and FD&C Red No. 40, the 1 mg capsules contain FD&C Blue No. 1 and FD&C Red No. 3 and the 5 mg capsules contain D&C Red No. 33, D&C Red No. 28 and D&C Yellow No. 10.
 
-Inactive ingredients: anhydrous lactose, black iron oxide, colloidal silicon dioxide, croscarmellose sodium, gelatin, hypromellose, lactose monohydrate, magnesium stearate, sodium lauryl sulfate, titanium dioxide and yellow iron oxide.
-In addition, the 0.5 mg capsules contain D&C Red No. 28, D&C Yellow No. 10 and FD&C Red No. 40, the 1 mg capsules contain FD&C Blue No. 1 and FD&C Red No. 3 and the 5 mg capsules contain D&C Red No. 33, D&C Red No. 28 and D&C Yellow No. 10.
+In addition, the imprinting ink contains the following: black iron oxide, D&C Yellow No. 10 Aluminum Lake, FD&C Blue No. 1 Aluminum Lake, FD&C Blue No. 2 Aluminum Lake, FD&C Red No. 40 Aluminum Lake, propylene glycol and shellac glaze.
 
-The imprinting ink contains the following: black iron oxide, D&C Yellow No. 10 Aluminum Lake, FD&C Blue No. 1 Aluminum Lake, FD&C Blue No. 2 Aluminum Lake, FD&C Red No. 40 Aluminum Lake, propylene glycol and shellac glaze.
+The brands listed are trademarks of their respective owners.
 
-*The brands listed are trademarks of their respective owners.
-
-This Patient Information Leaflet has been approved by the U.S. Food and Drug Administration.
+This Patient Information has been approved by the U.S. Food and Drug Administration.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED AUGUST 2015 TACR:R3ppbpt
+Revised: 7/2016 TACR:R4ppbpt

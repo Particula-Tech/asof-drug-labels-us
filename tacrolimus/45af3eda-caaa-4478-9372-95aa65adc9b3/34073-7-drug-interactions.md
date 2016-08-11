@@ -2,13 +2,13 @@
 
 Since tacrolimus is metabolized mainly by CYP3A enzymes, drugs or substances known to inhibit these enzymes may increase tacrolimus whole blood concentrations.
 Drugs known to induce CYP3A enzymes may decrease tacrolimus whole blood concentrations [see Warnings and Precautions (5.13)and Clinical Pharmacology (12.3)].
-Dose adjustments may be needed along with frequent monitoring of tacrolimus whole blood trough concentrations when tacrolimus is administered with CYP3A inhibitors or inducers.
+Dose adjustments may be needed along with frequent monitoring of tacrolimus whole blood trough concentrations when tacrolimus capsules are administered with CYP3A inhibitors or inducers.
 In addition, patients should be monitored for adverse reactions including changes in renal function and QT prolongation [see Warnings and Precautions (5.7) and (5.14)].
 
 ## 7.1 Mycophenolic Acid Products
 
-With a given dose of mycophenolic acid (MPA) products, exposure to MPA is higher with tacrolimus co-administration than with cyclosporine co-administration because cyclosporine interrupts the enterohepatic recirculation of MPA while tacrolimus does not.
-Clinicians should be aware that there is also a potential for increased MPA exposure after crossover from cyclosporine to tacrolimus in patients concomitantly receiving MPA-containing products.
+With a given dose of mycophenolic acid (MPA) products, exposure to MPA is higher with tacrolimus capsules co-administration than with cyclosporine co-administration because cyclosporine interrupts the enterohepatic recirculation of MPA while tacrolimus does not.
+Clinicians should be aware that there is also a potential for increased MPA exposure after crossover from cyclosporine to tacrolimus capsules in patients concomitantly receiving MPA-containing products.
 
 ## 7.2 Grapefruit Juice
 

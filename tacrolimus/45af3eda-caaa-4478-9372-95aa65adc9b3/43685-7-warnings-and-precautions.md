@@ -2,13 +2,13 @@
 
 ## 5.1 Management of Immunosuppression
 
-Only physicians experienced in immunosuppressive therapy and management of organ transplant patients should use tacrolimus.
+Only physicians experienced in immunosuppressive therapy and management of organ transplant patients should use tacrolimus capsules.
 Patients receiving the drug should be managed in facilities equipped and staffed with adequate laboratory and supportive medical resources.
 The physicians responsible for maintenance therapy should have complete information requisite for the follow up of the patient [see Boxed Warning].
 
 ## 5.2 Lymphoma and Other Malignancies
 
-Patients receiving immunosuppressants, including tacrolimus, are at increased risk of developing lymphomas and other malignancies, particularly of the skin [see Boxed Warning].
+Patients receiving immunosuppressants, including tacrolimus capsules, are at increased risk of developing lymphomas and other malignancies, particularly of the skin [see Boxed Warning].
 The risk appears to be related to the intensity and duration of immunosuppression rather than to the use of any specific agent.
 
 As usual for patients with increased risk for skin cancer, exposure to sunlight and UV light should be limited by wearing protective clothing and using a sunscreen with a high protection factor.
@@ -19,20 +19,20 @@ The risk of PTLD appears greatest in those individuals who are EBV seronegative,
 
 ## 5.3 Serious Infections
 
-Patients receiving immunosuppressants, including tacrolimus, are at increased risk of developing bacterial, viral, fungal, and protozoal infections, including opportunistic infections [see Boxed Warning and Warnings and Precautions (5.4, 5.5)].
+Patients receiving immunosuppressants, including tacrolimus capsules, are at increased risk of developing bacterial, viral, fungal, and protozoal infections, including opportunistic infections [see Boxed Warning and Warnings and Precautions (5.4, 5.5)].
 These infections may lead to serious, including fatal, outcomes.
 Because of the danger of oversuppression of the immune system which can increase susceptibility to infection, combination immunosuppressant therapy should be used with caution.
 
 ## 5.4 Polyoma Virus Infections
 
-Patients receiving immunosuppressants, including tacrolimus, are at increased risk for opportunistic infections, including polyoma virus infections.
+Patients receiving immunosuppressants, including tacrolimus capsules, are at increased risk for opportunistic infections, including polyoma virus infections.
 Polyoma virus infections in transplant patients may have serious, and sometimes fatal, outcomes.
 These include polyoma virus-associated nephropathy (PVAN), mostly due to BK virus infection, and JC virus-associated progressive multifocal leukoencephalopathy (PML) which have been observed in patients receiving tacrolimus [see Adverse Reactions (6.2)].
 
 PVAN is associated with serious outcomes, including deteriorating renal function and kidney graft loss [see Adverse Reactions (6.2)].
 Patient monitoring may help detect patients at risk for PVAN.
 
-Cases of PML have been reported in patients treated with tacrolimus.
+Cases of PML have been reported in patients treated with tacrolimus capsules.
 PML, which is sometimes fatal, commonly presents with hemiparesis, apathy, confusion, cognitive deficiencies and ataxia.
 Risk factors for PML include treatment with immunosuppressant therapies and impairment of immune function.
 In immunosuppressed patients, physicians should consider PML in the differential diagnosis in patients reporting neurological symptoms and consultation with a neurologist should be considered as clinically indicated.
@@ -42,7 +42,7 @@ Physicians should also consider the risk that reduced immunosuppression represen
 
 ## 5.5 Cytomegalovirus (CMV) Infections
 
-Patients receiving immunosuppressants, including tacrolimus, are at increased risk of developing CMV viremia and CMV disease.
+Patients receiving immunosuppressants, including tacrolimus capsules, are at increased risk of developing CMV viremia and CMV disease.
 The risk of CMV disease is highest among transplant recipients seronegative for CMV at time of transplant who receive a graft from a CMV seropositive donor.
 Therapeutic approaches to limiting CMV disease exist and should be routinely provided.
 Patient monitoring may help detect patients at risk for CMV disease.
@@ -50,28 +50,28 @@ Consideration should be given to reducing the amount of immunosuppression in pat
 
 ## 5.6 New Onset Diabetes After Transplant
 
-Tacrolimus was shown to cause new onset diabetes mellitus in clinical trials of kidney, liver, and heart transplantation.
+Tacrolimus capsules was shown to cause new onset diabetes mellitus in clinical trials of kidney, liver, and heart transplantation.
 New onset diabetes after transplantation may be reversible in some patients.
 Black and Hispanic kidney transplant patients are at an increased risk.
-Blood glucose concentrations should be monitored closely in patients using tacrolimus [see Adverse Reactions (6.1)].
+Blood glucose concentrations should be monitored closely in patients using tacrolimus capsules [see Adverse Reactions (6.1)].
 
 ## 5.7 Nephrotoxicity
 
-Tacrolimus, like other calcineurin-inhibitors, can cause acute or chronic nephrotoxicity, particularly when used in high doses.
+Tacrolimus capsules, like other calcineurin-inhibitors, can cause acute or chronic nephrotoxicity, particularly when used in high doses.
 Acute nephrotoxicity is most often related to vasoconstriction of the afferent renal arteriole, is characterized by increasing serum creatinine, hyperkalemia, and/or a decrease in urine output, and is typically reversible.
 Chronic calcineurin-inhibitor nephrotoxicity is associated with increased serum creatinine, decreased kidney graft life, and characteristic histologic changes observed on renal biopsy; the changes associated with chronic calcineurin-inhibitor nephrotoxicity are typically progressive.
-Patients with impaired renal function should be monitored closely as the dosage of tacrolimus may need to be reduced.
+Patients with impaired renal function should be monitored closely as the dosage of tacrolimus capsules may need to be reduced.
 In patients with persistent elevations of serum creatinine who are unresponsive to dosage adjustments, consideration should be given to changing to another immunosuppressive therapy.
 
-Based on reported adverse reactions terms related to decreased renal function, nephrotoxicity was reported in approximately 52% of kidney transplantation patients and in 40% and 36% of liver transplantation patients receiving tacrolimus in the U.S. and European randomized trials, respectively, and in 59% of heart transplantation patients in a European randomized trial [see Adverse Reactions (6.1)].
+Based on reported adverse reactions terms related to decreased renal function, nephrotoxicity was reported in approximately 52% of kidney transplantation patients and in 40% and 36% of liver transplantation patients receiving tacrolimus capsules in the U.S. and European randomized trials, respectively, and in 59% of heart transplantation patients in a European randomized trial [see Adverse Reactions (6.1)].
 
-Due to the potential for additive or synergistic impairment of renal function, care should be taken when administering tacrolimus with drugs that may be associated with renal dysfunction.
+Due to the potential for additive or synergistic impairment of renal function, care should be taken when administering tacrolimus capsules with drugs that may be associated with renal dysfunction.
 These include, but are not limited to, aminoglycosides, ganciclovir, amphotericin B, cisplatin, nucleotide reverse transcriptase inhibitors (e.g., tenofovir) and protease inhibitors (e.g., ritonavir, indinavir).
 Similarly, care should be exercised when administering with CYP3A4 inhibitors such as antifungal drugs (e.g., ketoconazole), calcium channel blockers (e.g., diltiazem, verapamil), and macrolide antibiotics (e.g., clarithromycin, erythromycin, troleandomycin) which will result in increased tacrolimus whole blood concentrations due to inhibition of tacrolimus metabolism [see Drug Interactions (7.3, 7.4, 7.5, 7.6)].
 
 ## 5.8 Neurotoxicity
 
-Tacrolimus may cause a spectrum of neurotoxicities, particularly when used in high doses.
+Tacrolimus capsules may cause a spectrum of neurotoxicities, particularly when used in high doses.
 The most severe neurotoxicities include posterior reversible encephalopathy syndrome (PRES), delirium, and coma.
 Patients treated with tacrolimus have been reported to develop PRES.
 Symptoms indicating PRES include headache, altered mental status, seizures, visual disturbances and hypertension.
@@ -80,26 +80,26 @@ If PRES is suspected or diagnosed, blood pressure control should be maintained a
 This syndrome is characterized by reversal of symptoms upon reduction or discontinuation of immunosuppression.
 
 Coma and delirium, in the absence of PRES, have also been associated with high plasma concentrations of tacrolimus.
-Seizures have occurred in adult and pediatric patients receiving tacrolimus [see Adverse Reactions (6.1)].
+Seizures have occurred in adult and pediatric patients receiving tacrolimus capsules [see Adverse Reactions (6.1)].
 
 Less severe neurotoxicities, include tremors, paresthesias, headache, and other changes in motor function, mental status, and sensory function [see Adverse Reactions (6.1)].
 Tremor and headache have been associated with high whole blood concentrations of tacrolimus and may respond to dosage adjustment.
 
 ## 5.9 Hyperkalemia
 
-Hyperkalemia has been reported with tacrolimus use.
+Hyperkalemia has been reported with tacrolimus capsules use.
 Serum potassium levels should be monitored.
-Careful consideration should be given prior to use of other agents also associated with hyperkalemia (e.g., potassium-sparing diuretics, ACE inhibitors, angiotensin receptor blockers) during tacrolimus therapy [see Adverse Reactions (6.1)].
+Careful consideration should be given prior to use of other agents also associated with hyperkalemia (e.g., potassium-sparing diuretics, ACE inhibitors, angiotensin receptor blockers) during tacrolimus capsules therapy [see Adverse Reactions (6.1)].
 
 ## 5.10 Hypertension
 
-Hypertension is a common adverse effect of tacrolimus therapy and may require antihypertensive therapy [see Adverse Reactions (6.1)].
+Hypertension is a common adverse effect of tacrolimus capsules therapy and may require antihypertensive therapy [see Adverse Reactions (6.1)].
 The control of blood pressure can be accomplished with any of the common antihypertensive agents, though careful consideration should be given prior to use of antihypertensive agents associated with hyperkalemia (e.g., potassium-sparing diuretics, ACE inhibitors, angiotensin receptor blockers) [see Warnings and Precautions (5.9)].
-Calcium channel blocking agents may increase tacrolimus blood concentrations and therefore require dosage reduction of tacrolimus [see Drug Interactions (7.5)].
+Calcium channel blocking agents may increase tacrolimus blood concentrations and therefore require dosage reduction of tacrolimus capsules [see Drug Interactions (7.5)].
 
 ## 5.11 Anaphylactic Reactions with Tacrolimus Injection
 
-Anaphylactic reactions have occurred with injectables containing castor oil derivatives, including tacrolimus, in a small percentage of patients (0.6%).
+Anaphylactic reactions have occurred with injectables containing castor oil derivatives, including tacrolimus capsules, in a small percentage of patients (0.6%).
 The exact cause of these reactions is not known.
 Tacrolimus injection should be reserved for patients who are unable to take tacrolimus capsules [see Indications and Usage (1.4)].
 
@@ -109,39 +109,39 @@ An aqueous solution of epinephrine should be available at the bedside as well as
 
 ## 5.12 Use with Sirolimus
 
-The safety and efficacy of tacrolimus with sirolimus has not been established in kidney transplant patients.
+The safety and efficacy of tacrolimus capsules with sirolimus has not been established in kidney transplant patients.
 
-Use of sirolimus with tacrolimus in studies of de novo liver transplant patients was associated with an excess mortality, graft loss, and hepatic artery thrombosis (HAT) and is not recommended [see Indications and Usage (1.4)].
+Use of sirolimus with tacrolimus capsules in studies of de novo liver transplant patients was associated with an excess mortality, graft loss, and hepatic artery thrombosis (HAT) and is not recommended [see Indications and Usage (1.4)].
 
 Use of sirolimus (2 mg per day) with tacrolimus in heart transplant patients in a U.S. trial was associated with increased risk of renal function impairment, wound healing complications, and insulin-dependent post-transplant diabetes mellitus, and is not recommended [see Clinical Studies (14.3)].
 
 ## 5.13 Use with CYP3A4 Inhibitors and Inducers
 
-When co-administering tacrolimus with strong CYP3A4-inhibitors (e.g., telaprevir, boceprevir, ritonavir, ketoconazole, itraconazole, voriconazole, clarithromycin) and strong inducers (e.g., rifampin, rifabutin) adjustments in the dosing regimen of tacrolimus and subsequent frequent monitoring of tacrolimus whole blood trough concentrations and tacrolimus-associated adverse reactions are recommended [see Drug Interactions (7)].
+When co-administering tacrolimus with strong CYP3A4-inhibitors (e.g., telaprevir, boceprevir, ritonavir, ketoconazole, itraconazole, voriconazole, clarithromycin) and strong inducers (e.g., rifampin, rifabutin) adjustments in the dosing regimen of tacrolimus capsules and subsequent frequent monitoring of tacrolimus whole blood trough concentrations and tacrolimus-associated adverse reactions are recommended [see Drug Interactions (7)].
 
 ## 5.14 QT Prolongation
 
-Tacrolimus may prolong the QT/QTc interval and may cause Torsade de Pointes.
-Avoid tacrolimus in patients with congenital long QT syndrome.
+Tacrolimus capsules may prolong the QT/QTc interval and may cause Torsade de Pointes.
+Avoid tacrolimus capsules in patients with congenital long QT syndrome.
 In patients with congestive heart failure, bradyarrhythmias, those taking certain antiarrhythmic medications or other medicinal products that lead to QT prolongation, and those with electrolyte disturbances such as hypokalemia, hypocalcemia, or hypomagnesemia, consider obtaining electrocardiograms and monitoring electrolytes (magnesium, potassium, calcium) periodically during treatment.
 
-When co-administering tacrolimus with other substrates and/or inhibitors of CYP3A4 that also have the potential to prolong the QT interval, a reduction in tacrolimus dose, frequent monitoring of tacrolimus whole blood concentrations, and monitoring for QT prolongation is recommended.
-Use of tacrolimus with amiodarone has been reported to result in increased tacrolimus whole blood concentrations with or without concurrent QT prolongation [see Drug Interactions (7)].
+When co-administering tacrolimus capsules with other substrates and/or inhibitors of CYP3A4 that also have the potential to prolong the QT interval, a reduction in tacrolimus capsules dose, frequent monitoring of tacrolimus whole blood concentrations, and monitoring for QT prolongation is recommended.
+Use of tacrolimus capsules with amiodarone has been reported to result in increased tacrolimus whole blood concentrations with or without concurrent QT prolongation [see Drug Interactions (7)].
 
 ## 5.15 Myocardial Hypertrophy
 
 Myocardial hypertrophy has been reported in infants, children, and adults, particularly those with high tacrolimus trough concentrations, and is generally manifested by echocardiographically demonstrated concentric increases in left ventricular posterior wall and interventricular septum thickness.
 This condition appears reversible in most cases following dose reduction or discontinuance of therapy.
-In patients who develop renal failure or clinical manifestations of ventricular dysfunction while receiving tacrolimus therapy, echocardiographic evaluation should be considered.
-If myocardial hypertrophy is diagnosed, dosage reduction or discontinuation of tacrolimus should be considered [see Adverse Reactions (6.2)].
+In patients who develop renal failure or clinical manifestations of ventricular dysfunction while receiving tacrolimus capsules therapy, echocardiographic evaluation should be considered.
+If myocardial hypertrophy is diagnosed, dosage reduction or discontinuation of tacrolimus capsules should be considered [see Adverse Reactions (6.2)].
 
 ## 5.16 Immunizations
 
-The use of live vaccines should be avoided during treatment with tacrolimus; examples include (not limited to) the following: intranasal influenza, measles, mumps, rubella, oral polio, BCG, yellow fever, varicella, and TY21a typhoid vaccines.
+The use of live vaccines should be avoided during treatment with tacrolimus capsules; examples include (not limited to) the following: intranasal influenza, measles, mumps, rubella, oral polio, BCG, yellow fever, varicella, and TY21a typhoid vaccines.
 
 ## 5.17 Pure Red Cell Aplasia
 
-Cases of pure red cell aplasia (PRCA) have been reported in patients treated with tacrolimus.
+Cases of pure red cell aplasia (PRCA) have been reported in patients treated with tacrolimus capsules.
 A mechanism for tacrolimus-induced PRCA has not been elucidated.
 All patients reported risk factors for PRCA such as parvovirus B19 infection, underlying disease, or concomitant medications associated with PRCA.
 If PRCA is diagnosed, discontinuation of tacrolimus should be considered [see Adverse Reactions (6.2)].
