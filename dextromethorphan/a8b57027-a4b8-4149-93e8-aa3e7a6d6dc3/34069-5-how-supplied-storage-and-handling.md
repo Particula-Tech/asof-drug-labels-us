@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-This preparation is a yellow to amber colored lemon-mint flavored syrup, containing promethazine hydrochloride 6.25 mg/5 mL, dextromethorphan hydrobromide 15 mg/5 mL and alcohol 8 percent, and is available in 16 fl. oz.
+This preparation is a yellow to amber colored lemon-mint flavored syrup, containing promethazine hydrochloride 6.25 mg/5 mL, dextromethorphan hydrobromide 15 mg/5 mL and alcohol 7 percent, and is available in 16 fl. oz.
 (473 mL) bottles, (NDC 27808-057-01)
 
 Keep tightly closed.

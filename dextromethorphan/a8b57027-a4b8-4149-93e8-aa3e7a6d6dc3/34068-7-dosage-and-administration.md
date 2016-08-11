@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-Promethazine hydrochloride and dextromethorphan hydrobromide syrup is contraindicated for children under 2 years of age (see WARNINGS Black Box Warning and Use in Pediatric Patients).
+Promethazine hydrochloride and dextromethorphan hydrobromide syrup is contraindicated for children under 2 years of age (seeWARNINGS Black Box Warning and Use in Pediatric Patients).
 
 The average effective dose is given in the following table:
 

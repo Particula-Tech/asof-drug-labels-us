@@ -42,7 +42,7 @@ Anticholinergics - Concomitant use of other agents with anticholinergic properti
 
 Monoamine oxidase inhibitors (MAOI) - Drug interactions, including an increased incidence of extrapyramidal effects, have been reported when some MAOI and phenothiazines are used concomitantly.
 
-## DRUG & OR LABORATORY TEST INTERACTIONS
+## Drug/Or Laboratory Test Interactions
 
 The following laboratory tests may be affected in patients who are receiving therapy with promethazine hydrochloride:
 
@@ -50,7 +50,7 @@ Pregnancy Tests: Diagnostic pregnancy tests based on immunological reactions bet
 
 Glucose Tolerance Test: An increase in blood glucose has been reported in patients receiving promethazine.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+## ​Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Long-term animal studies have not been performed to assess the carcinogenic potential of promethazine or of dextromethorphan.
 There are no animal or human data concerning the carcinogenicity, mutagenicity, or impairment of fertility with these drugs.
