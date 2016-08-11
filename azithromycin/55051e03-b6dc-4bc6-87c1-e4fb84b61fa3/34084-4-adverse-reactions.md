@@ -20,15 +20,10 @@ The most common adverse reactions associated with treatment in adult women who r
 Diarrhea (8.5%) and nausea (6.6%) were most commonly reported, followed by vaginitis (2.8%), abdominal pain (1.9%), anorexia (1.9%), rash and pruritus (1.9%).
 When azithromycin was co-administered with metronidazole in these trials, a higher proportion of women experienced adverse reactions of nausea (10.3%), abdominal pain (3.7%), vomiting (2.8%), infusion site reaction, stomatitis, dizziness, or dyspnea (all at 1.9%).
 
-Adverse reactions that occurred with a frequency of 1% or less included the following:
-
-Gastrointestinal: dyspepsia, flatulence, mucositis, oral moniliasis, and gastritis.
-
-Nervous System: headache, somnolence.
-
-Allergic: bronchospasm.
-
-Special Senses: taste perversion.
+Adverse reactions that occurred with a frequency of 1% or less included the following: Gastrointestinal: Dyspepsia, flatulence, mucositis, oral moniliasis, and gastritis.
+Nervous system: Headache, somnolence.
+Allergic: Bronchospasm.
+Special senses: Taste perversion.
 
 ## 6.2 Postmarketing Experience
 
@@ -37,28 +32,31 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Adverse reactions reported with azithromycin during the post-marketing period in adult and/or pediatric patients for which a causal relationship may not be established include:
 
-Allergic: Arthralgia, edema, urticaria and angioedema.
+Allergic:Arthralgia, edema, urticaria and angioedema.
 
-Cardiovascular: Arrhythmias including ventricular tachycardia and hypotension.
+Cardiovascular:Arrhythmias including ventricular tachycardia and hypotension.
 There have been reports of QT prolongation and torsades de pointes.
 
-Gastrointestinal: Anorexia, constipation, dyspepsia, flatulence, vomiting/diarrhea, pseudomembranous colitis, pancreatitis, oral candidiasis, pyloric stenosis, and reports of tongue discoloration.
+Gastrointestinal:Anorexia, constipation, dyspepsia, flatulence, vomiting/diarrhea, pseudomembranous colitis, pancreatitis, oral candidiasis, pyloric stenosis, and reports of tongue discoloration.
 
-General: Asthenia, paresthesia, fatigue, malaise and anaphylaxis (including fatalities).
+General:Asthenia, paresthesia, fatigue, malaise and anaphylaxis (including fatalities).
 
-Genitourinary: Interstitial nephritis and acute renal failure and vaginitis.
+Genitourinary:Interstitial nephritis and acute renal failure and vaginitis.
 
-Hematopoietic: Thrombocytopenia.
+Hematopoietic:Thrombocytopenia.
 
-Liver/biliary: Abnormal liver function, hepatitis, cholestatic jaundice, hepatic necrosis, and hepatic failure, [see Warnings and Precautions (5.2)].
+Liver/biliary:Abnormal liver function, hepatitis, cholestatic jaundice, hepatic necrosis, and hepatic failure.
+[see Warnings and Precautions (5.2)]
 
-Nervous system: Convulsions, dizziness/vertigo, headache, somnolence, hyperactivity, nervousness, agitation and syncope.
+Nervous system:Convulsions, dizziness/vertigo, headache, somnolence, hyperactivity, nervousness, agitation and syncope.
 
-Psychiatric: Aggressive reaction and anxiety.
+Psychiatric:Aggressive reaction and anxiety.
 
-Skin/appendages: Pruritus, serious skin reactions including, erythema multiforme, Stevens-Johnson syndrome and toxic epidermal necrolysis.
+Skin/appendages:Pruritus, serious skin reactions including, erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, and DRESS.
 
-Special senses: Hearing disturbances including hearing loss, deafness and/or tinnitus and reports of taste/smell perversion and/or loss.
+Special senses:
+
+Hearing disturbances including hearing loss, deafness and/or tinnitus and reports of taste/smell perversion and/or loss.
 
 ## 6.3 Laboratory Abnormalities
 

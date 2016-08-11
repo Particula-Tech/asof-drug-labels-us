@@ -30,10 +30,10 @@ In multiple-dose clinical trials of intravenous azithromycin in the treatment of
 No overall differences in safety were observed between these subjects and younger subjects in terms of adverse reactions, laboratory abnormalities, and discontinuations.
 Similar decreases in clinical response were noted in azithromycin- and comparator-treated patients with increasing age.
 
-AZITHROMYCIN for Injection contains 114 mg (4.96 mEq) of sodium per vial.
+Azithromycin for injection contains 114 mg (4.96 mEq) of sodium per vial.
 At the usual recommended doses, patients would receive 114 mg (4.96 mEq) of sodium.
 The geriatric population may respond with a blunted natriuresis to salt loading.
 The total sodium content from dietary and non-dietary sources may be clinically important with regard to such diseases as congestive heart failure.
 
 Elderly patients may be more susceptible to development of torsades de pointes arrhythmias than younger patients.
-[see Warnings and Precautions (5.3)].
+[see Warnings and Precautions (5.3)]

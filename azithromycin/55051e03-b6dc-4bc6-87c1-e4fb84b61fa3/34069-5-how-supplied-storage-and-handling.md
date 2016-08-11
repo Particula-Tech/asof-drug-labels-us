@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-AZITHROMYCIN for Injection, USP is supplied in lyophilized form under a vacuum in a 10-mL vial equivalent to 500 mg of azithromycin for intravenous administration.
+Azithromycin for injection, USP is supplied in lyophilized form under a vacuum in a 10 mL vial equivalent to 500 mg of azithromycin for intravenous administration.
 Each vial also contains sodium hydroxide and 384.5 mg citric acid.
 
 These are packaged as follows:
