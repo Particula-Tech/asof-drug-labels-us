@@ -4,6 +4,11 @@ BUPRENORPHINE (BUE-pre-NOR-feen)
 
 Sublingual Tablets, CIII
 
+Rx Only
+
+| IMPORTANT: Keep buprenorphine sublingual tablets in a secure place away from children. Accidental use by a child is a medical emergency and can result in death. If a child accidentally uses buprenorphine sublingual tablets, get emergency help right away. |
+| --- |
+
 Read this Medication Guide before you start taking buprenorphine sublingual tablets and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking to your doctor.
@@ -34,8 +39,8 @@ These can be signs of an overdose or other serious problems.
   - •Cannot think well or clearly
   - •Have slowed reflexes and breathing
 - •Do not inject (“shoot-up”) buprenorphine sublingual tablets.
-  - •Injecting this medicine may cause life-threatening infections and other serious health problems.
-  - •Injecting buprenorphine sublingual tablets may cause serious withdrawal symptoms such as pain, cramps, vomiting, diarrhea, anxiety, sleep problems and cravings.
+  - •Injecting this medicine may cause life-threatening infections and other serious health problems
+  - •Injecting buprenorphine sublingual tablets may cause serious withdrawal symptoms such as pain, cramps, vomiting, diarrhea, anxiety, sleep problems and cravings
 - •In an emergency, have family members tell the emergency department staff that you are physically dependent on an opioid and are being treated with buprenorphine sublingual tablets.
 
 What are buprenorphine sublingual tablets?
@@ -166,7 +171,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store buprenorphine sublingual tablets?
 
-- •Store buprenorphine sublingual tablets at 20° to 25°C (68° to 77°F).
+- •Store buprenorphine sublingual tablets at 68° to 77°F (20° to 25°C).
   [See USP Controlled Room Temperature.]
 - •Keep buprenorphine sublingual tablets in a safe place, out of the site and reach of children.
 
@@ -190,12 +195,16 @@ For more information call 1-800-962-8364.
 
 What are the ingredients in buprenorphine sublingual tablets?
 
-Active Ingredient: buprenorphine hydrochloride Inactive Ingredients: anhydrous citric acid, corn starch, crospovidone, lactose monohydrate, magnesium stearate, mannitol, povidone, and sodium citrate
+Active Ingredient: buprenorphine hydrochloride USP
 
-Roxane Laboratories, Inc.
+Inactive Ingredients: anhydrous citric acid, corn starch, crospovidone, lactose monohydrate, magnesium stearate, mannitol, povidone and sodium citrate
 
-Columbus, Ohio 43216
+Distr. by: West-Ward
 
-10004964/03 Revised February 2015
+Pharmaceuticals Corp.
 
-©RLI, 2015
+Eatontown, NJ 07724
+
+10004964/04
+
+Revised March 2016

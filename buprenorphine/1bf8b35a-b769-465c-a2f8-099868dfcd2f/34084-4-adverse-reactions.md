@@ -29,7 +29,7 @@ Table 1: Adverse Events ≥5% by Body System and Treatment Group in a 4-Week Stu
 | Vasodilation | 4 (3.9%) | 7 (6.5%) |
 | Digestive System |  |  |
 | Constipation | 8 (7.8%) | 3 (2.8%) |
-| Diarrhea | 5 (4.9%) | 16 (15.0%) |
+| Diarrhea | 5 (4.9%) | 16 (15%) |
 | Nausea | 14 (13.6%) | 12 (11.2%) |
 | Vomiting | 8 (7.8%) | 5 (4.7%) |
 | Nervous System |  |  |
@@ -44,7 +44,7 @@ Table 2 shows adverse events reported by at least 5% of subjects in any dose gro
 
 Table 2: Adverse Events (≥5%) by Body System and Treatment Group in a 16-Week Study
 
-| Body System /Adverse Event (COSTART Terminology) | Buprenorphine DoseSublingual solution. Doses in this table cannot necessarily be delivered in tablet form, but for comparison purposes: "Very low" dose (1 mg solution) would be less than a tablet dose of 2 mg; "Low" dose (4 mg solution) approximates a 6 mg tablet dose; "Moderate" dose (8 mg solution) approximates a 12 mg tablet dose; "High" dose (16 mg solution) approximates a 24 mg tablet dose |  |  |  |  |
+| Body System /Adverse Event (COSTART Terminology) | Buprenorphine DoseSublingual solution. Doses in this table cannot necessarily be delivered in tablet form, but for comparison purposes: "Very low" dose (1 mg solution) would be less than a tablet dose of 2 mg; "Low" dose (4 mg solution) approximates a 6 mg tablet dose; "Moderate" dose (8 mg solution) approximates a 12 mg tablet dose; "High" dose (16 mg solution) approximates a 24 mg tablet dose. |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Very Low (N=184) | Low (N=180) | Moderate (N=186) | High (N=181) | Total (N=731) |  |
 | N (%) | N (%) | N (%) | N (%) | N (%) |  |

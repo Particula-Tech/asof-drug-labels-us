@@ -1,12 +1,14 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Buprenorphine Sublingual Tablets are supplied as white, sublingual tablets available in 2 mg and 8 mg strengths.
-The 2 mg buprenorphine tablet is debossed with product identification "54 775" on one side and plain on the other side.
-The 8 mg buprenorphine tablet is debossed with product identification "54 411" on one side and plain on the other side.
+Buprenorphine Sublingual Tablets
 
-| 0054-0176-13 | 2 mg tablet, Bottle of 30 |
-| --- | --- |
-| 0054-0177-13 | 8 mg tablet, Bottle of 30 |
+2 mg, supplied as white, flat faced, beveled edge tablets with product identification “54” over “775” on one side and plain on the other side.
+
+NDC 0054-0176-13: Bottle of 30 Sublingual Tablets
+
+8 mg, supplied as white, flat faced, beveled edge tablets with product identification “54” over “411” on one side and plain on the other side.
+
+NDC 0054-0177-13: Bottle of 30 Sublingual Tablets
 
 Storage
 

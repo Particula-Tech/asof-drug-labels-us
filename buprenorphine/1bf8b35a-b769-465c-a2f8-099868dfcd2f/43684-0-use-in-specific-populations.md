@@ -61,7 +61,7 @@ No adverse reactions were observed in the infants in these two studies.
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of buprenorphine sublingual tablet has not been established in pediatric patients.
+The safety and effectiveness of buprenorphine sublingual tablets has not been established in pediatric patients.
 
 ## 8.5 Geriatric Use
 

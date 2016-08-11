@@ -58,11 +58,11 @@ Once a stable dosage has been achieved and patient assessment (e.g., urine drug 
 A once-monthly visit schedule may be reasonable for patients on a stable dosage of medication who are making progress toward their treatment objectives.
 Continuation or modification of pharmacotherapy should be based on the physician’s evaluation of treatment outcomes and objectives such as:
 
-- 1.Absence of medication toxicity.
-- 2.Absence of medical or behavioral adverse effects.
-- 3.Responsible handling of medications by the patient.
-- 4.Patient’s compliance with all elements of the treatment plan (including recovery-oriented activities, psychotherapy, and/or other psychosocial modalities).
-- 5.Abstinence from illicit drug use (including problematic alcohol and/or benzodiazepine use).
+- •Absence of medication toxicity.
+- •Absence of medical or behavioral adverse effects.
+- •Responsible handling of medications by the patient.
+- •Patient’s compliance with all elements of the treatment plan (including recovery-oriented activities, psychotherapy, and/or other psychosocial modalities).
+- •Abstinence from illicit drug use (including problematic alcohol and/or benzodiazepine use).
 
 If treatment goals are not being achieved, the physician should re-evaluate the appropriateness of continuing the current treatment.
 

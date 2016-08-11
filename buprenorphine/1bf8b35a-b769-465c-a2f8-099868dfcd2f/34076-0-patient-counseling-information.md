@@ -39,3 +39,13 @@ Instruct patients to read the Medication Guide each time buprenorphine sublingua
 
 Disposal of Unused Buprenorphine Sublingual Tablets: Unused buprenorphine sublingual tablets should be disposed of as soon as they are no longer needed.
 Flush unused tablets down the toilet.
+
+Distr. by: West-Ward
+
+Pharmaceuticals Corp.
+
+Eatontown, NJ 07724
+
+10004964/04
+
+Revised March 2016
