@@ -1,4 +1,4 @@
-## MetroGel-Vaginal® (metronidazole vaginal gel) 0.75% Vaginal Gel
+# MetroGel-Vaginal® (metronidazole vaginal gel) 0.75% Vaginal Gel
 
 DIRECTIONS FOR USE
 

@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020208"
+  ],
   "inn": "metronidazole",
-  "labeler": "3M Pharmaceuticals",
+  "labeler": "3M Company",
   "package_ndcs": [
     "0089-0200-25"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "metronidazole",
+      "name": "Metrogel-Vaginal"
+    }
+  ],
   "setid": "d36b7894-2152-452d-9bba-38067c52c79e",
   "source": "dailymed"
 }
