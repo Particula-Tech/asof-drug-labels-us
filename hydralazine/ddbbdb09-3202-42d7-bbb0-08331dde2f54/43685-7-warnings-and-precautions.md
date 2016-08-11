@@ -64,7 +64,7 @@ Additional in vivo and in vitro studies using lymphoma cells, germinal cells, an
 The extent to which these findings indicate a risk to man is uncertain.
 While long-term clinical observation has not suggested that human cancer is associated with hydralazine use, epidemiologic studies have so far been insufficient to arrive at any conclusions.
 
-## Pregancy
+## Pregnancy
 
 ### Teratogenic Effects
 

@@ -24,7 +24,7 @@ dyspnea.
 
 Neurologic
 
-peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety.
+peripheral neuritis, evidenced by paresthesia, numbness, and tingling, dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety.
 
 Genitourinary
 
@@ -32,7 +32,7 @@ difficulty in urination.
 
 Hematologic
 
-blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly.
+blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura, lymphadenopathy; splenomegaly.
 
 Hypersensitive Reactions
 

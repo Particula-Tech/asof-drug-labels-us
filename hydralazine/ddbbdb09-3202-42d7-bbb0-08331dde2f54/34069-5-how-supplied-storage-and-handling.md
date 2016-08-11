@@ -2,11 +2,11 @@
 
 Hydralazine Hydrochloride Tablets USP are available as:
 
-| 10 mg | Orange, round, convex, unscored tablets, debossed with “PLIVA 398” on one side and plain on the other side. Available in bottles of 100 and 1000. |
+| 10 mg | Orange, round, convex, unscored tablets, debossed with “PLIVA 398” on one side and plain on the other side. Available in bottles of 100 (NDC 50111-398-01) and 1000 (NDC 50111-398-03). |
 | --- | --- |
-| 25 mg | Orange, round, convex, unscored tablets, debossed with “PLIVA 327” on one side and plain on the other side. Available in bottles of 100 and 1000. |
-| 50 mg | Orange, round, convex, unscored tablets, debossed with “PLIVA 328” on one side and plain on the other side. Available in bottles of 100 and 1000. |
-| 100 mg | Orange, round, convex, unscored tablets, debossed with “PLIVA 397” on one side and plain on the other side. Available in bottles of 100. |
+| 25 mg | Orange, round, convex, unscored tablets, debossed with “PLIVA 327” on one side and plain on the other side. Available in bottles of 100 (NDC 50111-327-01) and 1000 (NDC 50111-327-03). |
+| 50 mg | Orange, round, convex, unscored tablets, debossed with “PLIVA 328” on one side and plain on the other side. Available in bottles of 100 (NDC 50111-328-01) and 1000 (NDC 50111-328-03). |
+| 100 mg | Orange, round, convex, unscored tablets, debossed with “PLIVA 397” on one side and plain on the other side. Available in bottles of 100 (NDC 50111-397-01). |
 
 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
@@ -22,9 +22,9 @@ Opava-Komarov, Czech Republic
 
 Manufactured For:
 
-TEVA PHARMACEUTICALS USA
+TEVA PHARMACEUTICALS USA, INC.
 
-Sellersville, PA 18960
+North Wales, PA 19454
 
 Rev.
-E 11/2012
+F 2/2016
