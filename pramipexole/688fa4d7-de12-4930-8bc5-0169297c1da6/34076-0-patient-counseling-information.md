@@ -38,9 +38,9 @@ Pregnancy
 
 Because the teratogenic potential of pramipexole has not been completely established in laboratory animals, and because experience in humans is limited, advise women to notify their physicians if they become pregnant or intend to become pregnant during therapy [see Use in Specific Populations (8.1)].
 
-Nursing Mothers
+Lactation
 
-Because of the possibility that pramipexole may be excreted in breast milk, advise women to notify their physicians if they intend to breast-feed or are breast-feeding an infant [see Use in Specific Populations (8.3)].
+Because of the possibility that pramipexole may be excreted in breast milk, advise women to notify their physicians if they intend to breast-feed or are breast-feeding an infant [see Use in Specific Populations (8.2)].
 
 Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
@@ -52,4 +52,4 @@ Trademark under license from: Boehringer Ingelheim International GmbH
 
 Copyright © 2016 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-10003128/15 OT1338VA072016 10003129/15 IT1322V
+OT1338WG292016

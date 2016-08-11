@@ -55,7 +55,7 @@ Table 2 Dosing of MIRAPEX tablets in Parkinson’s Disease Patients with Renal I
 | Very severe impairment (creatinine Cl <15 mL/min and hemodialysis patients) | The use of MIRAPEX tablets has not been adequately studied in this group of patients. |  |
 
 Discontinuation of Treatment MIRAPEX tablets may be tapered off at a rate of 0.75 mg per day until the daily dose has been reduced to 0.75 mg.
-Thereafter, the dose may be reduced by 0.375 mg per day.
+Thereafter, the dose may be reduced by 0.375 mg per day [see Warnings and Precautions (5.9)].
 
 ## 2.3 Dosing for Restless Legs Syndrome
 

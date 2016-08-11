@@ -147,6 +147,6 @@ The brands listed are trademarks of their respective owners and are not trademar
 
 Copyright © 2016 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Revised: January 2016
+Revised: July 2016
 
-10003128/15 OT1338VA072016 10003129/15 IT1322V
+OT1338WG292016
