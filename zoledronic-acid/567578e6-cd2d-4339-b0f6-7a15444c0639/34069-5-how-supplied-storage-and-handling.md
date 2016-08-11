@@ -8,8 +8,7 @@ Zoledronic Acid Injection is supplied as follows:
 
 Storage Conditions
 
-Store at 20°C - 25°C (68°F - 77°F); excursions permitted to 15°C - 30°C (59°F - 86°F) [see USP Controlled Room Temperature].
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 
 Sterile, Nonpyrogenic, Preservative-free, DEHP-free, PVC-free.
-
 The container closure is not made with natural rubber latex.
