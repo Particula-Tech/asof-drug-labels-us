@@ -27,7 +27,15 @@ Lupin Limited
 
 Goa - 403 722
 
-INDIA.
+INDIA
+
+OR
+
+Lupin Limited
+
+Pithampur (M.P.) - 454 775
+
+INDIA
 
 Address Medical Inquiries to:
 
@@ -39,4 +47,4 @@ Baltimore, MD 21202
 
 or Call: 1-800-399-2561
 
-October 2013 ID: 235480
+November 2015 ID: 238650
