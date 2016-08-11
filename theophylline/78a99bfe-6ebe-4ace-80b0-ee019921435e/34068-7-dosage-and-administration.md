@@ -28,22 +28,19 @@ Table V. Dosing initiation and titration (as anhydrous theophylline).*
 A. Infants <1 year old.
 
 1. Initial Dosage.
-2. Premature Neonates:
-   - 
-     1. < 24 days postnatal age; 1 mg/kg every 12 hr
-   - ii.≥ 24 days postnatal age; 1.5 mg/kg every 12 hr
-3. Full term infants and infants up to 52 weeks of age:Total daily dose (mg) = [(0.2 x age in weeks)+5.0] x (Kg body Wt).
-   - 
-     - 
-       1. up to age 26 weeks; divide dose into 3 equal amounts administered at 8 hour intervals.
-       2. >26 weeks of age; divide dose into 4 equal amounts administered at 6 hour intervals.
-       3. >26 weeks of age; divide dose into 4 equal amounts administered at 6 hour intervals.
-4. Final Dosage.
+   1. Premature Neonates:
+      1. < 24 days postnatal age; 1 mg/kg every 12 hr
+      2. ≥ 24 days postnatal age; 1.5 mg/kg every 12 hr
+   2. Full term infants and infants up to 52 weeks of age
+      1. up to age 26 weeks; divide dose into 3 equal amounts administered at 8 hour intervals.
+      2. >26 weeks of age; divide dose into 4 equal amounts administered at 6 hour intervals.
+2. Final Dosage.
    Adjusted to maintain a peak steady-state serum theophylline concentration of 5 to 10 mcg/mL in neonates and 10 to 15 mcg/mL in older infants (see Table VI).
    Since the time required to reach steady-state is a function of theophylline half-life, up to 5 days may be required to achieve steady-state in a premature neonate while only 2 to 3 days may be required in a 6 month old infant without other risk factors for impaired clearance in the absence of a loading dose.
    If a serum theophylline concentration is obtained before steady-state is achieved, the maintenance dose should not be increased, even if the serum theophylline concentration is <10 mcg/mL.
 
 B. Children (1 to 15 years) and adults (16 to 60 years) without risk factors for impaired clearance.
+Use in Patients With Impaired Renal Function
 
 | Titration Step | Children <45 kg | Children >45 kg and adults |
 | --- | --- | --- |

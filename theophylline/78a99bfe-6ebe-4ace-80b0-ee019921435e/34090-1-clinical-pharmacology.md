@@ -3,7 +3,7 @@
 Mechanism Of Action:
 
 Theophylline has two distinct actions in the airways of patients with reversible obstruction; smooth muscle relaxation (i.e., bronchodilation) and suppression of the response of the airways to stimuli (i.e., non-bronchodilator prophylactic effects).
-While the mechanisms of action of theophylline are not known with certainty, studies in animals suggest that bronchodilation is mediated by the inhibition of two isozymes of phosphodiesterase (PDE III and, to a lesser extent, PDE IV) while non-bronchodilator prophylactic actions are probably mediated through one or more different molecular mechanisms, that do not involve inhibition of PDE III or antagonism of adenosine receptors.
+While the mechanisms of action of theophylline are not known with certainty, studies in animals suggest that bronchodilatation is mediated by the inhibition of two isozymes of phosphodiesterase (PDE III and, to a lesser extent, PDE IV) while non-bronchodilator prophylactic actions are probably mediated through one or more different molecular mechanisms, that do not involve inhibition of PDE III or antagonism of adenosine receptors.
 Some of the adverse effects associated with theophylline appear to be mediated by inhibition of PDE III (e.g., hypotension, tachycardia, headache, and emesis) and adenosine receptor antagonism (e.g., alterations in cerebral blood flow).
 
 Theophylline increases the force of contraction of diaphragmatic muscles.
@@ -56,15 +56,15 @@ Table I. Mean and range of total body clearance and half-life of theophylline re
 | Fever associated with acute viral respiratory illness (children 9 to 15 years) | NR† | 7 (1 to 1.3) |
 | Liver disease – cirrhosis | 0.31** (0.1 to 0.7) | 32** (10 to 56) |
 | acute hepatitis | 0.35 (0.25 to 0.45) | 19.2 (16.6 to 21.8) |
-| cholestasis | 0.65 (0.25 to 1.45) | 14.4 (5.7 to 31.8) |
+| Cholestasis | 0.65 (0.25 to 1.45) | 14.4 (5.7 to 31.8) |
 | Pregnancy – 1st trimester | NR† | 8.5 (3.1 to 13.9) |
 | 2nd trimester | NR† | 8.8 (3.8 to 13.8) |
 | 3rd trimester | NR† | 13 (8.4 to 17.6) |
 | Sepsis with multi-organ failure | 0.47 (0.19 to 1.9) | 18.8 (6.3 to 24.1) |
 | Thyroid disease – hypothyroid | 0.38 (0.13 to 0.57) | 11.6 (8.2 to 25) |
 | hyperthyroid | 0.8 (0.68 to 0.97) | 4.5 (3.7 to 5.6) |
-| ¶ For various North American patient populations from literature reports. Different rates of elimination and consequent dosage requirements have been observed among other peoples. |  |  |
-| * Clearance represents the volume of blood completely cleared of theophylline by the liver in one minute. Values listed were generally determined at serum theophylline concentrations <20 mcg/mL; clearance my decrease and half-life may increase at higher serum concentrations due to non-linear pharmacokinetics. |  |  |
+| For various North American patient populations from literature reports. Different rates of elimination and consequent dosage requirements have been observed among other peoples. |  |  |
+| * Clearance represents the volume of blood completely cleared of theophylline by the liver in one minute. Values listed were generally determined at serum theophylline concentrations <20 mcg/mL; clearance may decrease and half-life may increase at higher serum concentrations due to non-linear pharmacokinetics. |  |  |
 | ††Reported range or estimated range (mean ± 2 SD) where actual range not reported. |  |  |
 | †NR = not reported or not reported in a comparable format. |  |  |
 | **Median |  |  |
@@ -115,7 +115,7 @@ The remainder is excreted in the urine mainly as 1,3-dimethyluric acid (35 to 40
 Since little theophylline is excreted unchanged in the urine and since active metabolites of theophylline (i.e., caffeine, 3-methylxanthine) do not accumulate to clinically significant levels even in the face of end-stage renal disease, no dosage adjustment for renal insufficiency is necessary in adults and children >3 months of age.
 In contrast, the large fraction of the theophylline dose excreted in the urine as unchanged theophylline and caffeine in neonates requires careful attention to dose reduction and frequent monitoring of serum theophylline concentrations in neonates with reduced renal function (see WARNINGS).
 
-Serum Concentrations At Steady State After multiple doses of theophylline, steady state is reached in 30 to 65 hours (average 40 hours) in adults.
+Serum Concentrations at Steady State After multiple doses of theophylline, steady state is reached in 30 to 65 hours (average 40 hours) in adults.
 At steady state, on a dosage regimen with 6-hour intervals, the expected mean trough concentration is approximately 60% of the mean peak concentration, assuming a mean theophylline half-life of 8 hours.
 The difference between peak and trough concentrations is larger in patients with more rapid theophylline clearance.
 In patients with high theophylline clearance and half-lives of about 4 to 5 hours, such as children age 1 to 9 years, the trough serum theophylline concentration may be only 30% of peak with a 6-hour dosing interval.
@@ -174,4 +174,3 @@ In patients with chronic asthma, including patients with severe asthma requiring
 Theophylline has also been shown to reduce the need for short courses of daily oral prednisone to relieve exacerbations of airway obstruction that are unresponsive to bronchodilators in asthmatics.
 
 In patients with chronic obstructive pulmonary disease (COPD), clinical studies have shown that theophylline decreases dyspnea, air trapping, the work of breathing, and improves contractility of diaphragmatic muscles with little or no improvement in pulmonary function measurements.
-[/S]

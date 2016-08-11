@@ -26,7 +26,7 @@ Acute pulmonary edema
 
 Congestive heart failure
 
-Cor-pulmonale
+Cor pulmonale
 
 Fever; ≥102° for 24 hours or more; or lesser temperature elevations for longer periods
 
@@ -120,7 +120,7 @@ The clinician should not assume that a drug does not interact with theophylline 
 Before addition of a newly available drug in a patient receiving theophylline, the package insert of the new drug and/or the medical literature should be consulted to determine if an interaction between the new drug and theophylline has been reported.
 
 Table II.
-Clinically significant drug interactions with theophylline*
+Clinically significant drug interactions with theophylline*.
 
 | Drug | Type of Interaction | Effect** |
 | --- | --- | --- |
@@ -198,6 +198,7 @@ Results are pending.
 Theophylline has been studied in Ames salmonella, in vivo and in vitro cytogenetics, micronucleus and Chinese hamster ovary test systems and has not been shown to be genotoxic.
 
 In a 14 week continuous breeding study, theophylline, administered to mating pairs of B6C3F1 mice at oral doses of 120, 270 and 500 mg/kg (approximately 1 to 3 times the human dose on a mg/m2 basis) impaired fertility, as evidenced by decreases in the number of live pups per litter, decreases in the mean number of litters per fertile pair, and increases in the gestation period at the high dose as well as decreases in the proportion of pups born alive at the mid and high dose.
+
 In 13 week toxicity studies, theophylline was administered to F344 rats and B6C3F1 mice at oral doses of 40 to 300 mg/kg (approximately 2 times the human dose on a mg/m2 basis).
 At the high dose, systemic toxicity was observed in both species including decreases in testicular weight.
 

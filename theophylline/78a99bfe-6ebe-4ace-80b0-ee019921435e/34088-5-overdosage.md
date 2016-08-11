@@ -16,7 +16,7 @@ Several studies have described the clinical manifestations of theophylline overd
 In general, patients who experience an acute overdose are less likely to experience seizures than patients who have experienced a chronic overdosage, unless the peak serum theophylline concentration is >100 mcg/mL.
 After a chronic overdosage, generalized seizures, life-threatening cardiac arrhythmias, and death may occur at serum theophylline concentrations >30 mcg/mL.
 The severity of toxicity after chronic overdosage is more strongly correlated with the patient’s age than the peak serum theophylline concentration; patients >60 years are at the greatest risk for severe toxicity and mortality after a chronic overdosage.
-Preexisting or concurrent disease may also significantly increase the susceptibility of a patient to a particular toxic manifestation, e.g., patients with neurologic disorders have an increased risk of seizures and patients with cardiac disease have an increased risk of cardiac arrhythmias for a given serum theophylline concentration compared to patients without the underlying disease.
+Pre-existing or concurrent disease may also significantly increase the susceptibility of a patient to a particular toxic manifestation, e.g., patients with neurologic disorders have an increased risk of seizures and patients with cardiac disease have an increased risk of cardiac arrhythmias for a given serum theophylline concentration compared to patients without the underlying disease.
 
 The frequency of various reported manifestations of theophylline overdose according to the mode of overdose are listed in Table IV.
 
@@ -78,10 +78,10 @@ General Recommendations For Patients With Symptoms Of Theophylline Overdose Or S
 
 Acute overdose
 
-1. Serum Concentration >20<30 mcg/mL
+1. Serum Concentration >20 <30 mcg/mL
    1. Administer a single dose of oral activated charcoal.
    2. Monitor the patient and obtain a serum theophylline concentration in 2 to 4 hours to insure that the concentration is not increasing.
-2. Serum Concentration >30<100 mcg/mL
+2. Serum Concentration >30 <100 mcg/mL
    1. Administer multiple dose oral activated charcoal and measures to control emesis.
    2. Monitor the patient and obtain serial theophylline concentrations every 2 to 4 hours to gauge the effectiveness of therapy and to guide further treatment decisions.
    3. Institute extracorporeal removal if emesis, seizures, or cardiac arrhythmias cannot be adequately controlled (see OVERDOSAGE, Extracorporeal Removal).
@@ -93,14 +93,14 @@ Acute overdose
 
 Chronic overdosage
 
-1. Serum Concentration >20<30 mcg/mL (with manifestations of theophylline toxicity)
+1. Serum Concentration >20 <30 mcg/mL (with manifestations of theophylline toxicity)
    1. Administer a single dose of oral activated charcoal.
    2. Monitor the patient and obtain a serum theophylline concentration in 2 to 4 hours to insure that the concentration is not increasing.
 2. Serum Concentration >30 mcg/mL in patients <60 years of age
    1. Administer multiple-dose oral activated charcoal and measures to control emesis.
    2. Monitor the patient and obtain serial theophylline concentrations every 2 to 4 hours to gauge the effectiveness of therapy and to guide further treatment decisions.
    3. Institute extracorporeal removal if emesis, seizures, or cardiac arrhythmias cannot be adequately controlled (see OVERDOSAGE, Extracorporeal Removal).
-3. Serum Concentration >30 mcg/mL in patients >60 years of age.
+3. Serum Concentration >30 mcg/mL in patients >60 years of age
 
 1. Consider prophylactic anticonvulsant therapy.
 2. Administer multiple-dose oral activated charcoal and measures to control emesis.
