@@ -175,11 +175,12 @@ Signs and symptoms of these syndromes may include one or more of the following:
   KHEDEZLA and other SNRIs/SSRIs may cause you to have an increased chance of bleeding.
   Taking aspirin, NSAIDs (non-steroidal anti-inflammatory drugs), or blood thinners may add to this risk.
   Tell your healthcare provider right away about any unusual bleeding or bruising.
-- Visual Problems· eye pain· changes in vision· swelling or redness in or around the eye Only some people are at risk for these problems.
+- Visual ProbelmsOnly some people are at risk for these problems.
   You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
-
-- Symptoms when stopping KHEDEZLA (discontinuation symptoms).
-  Side effects may occur when stopping KHEDEZLA (discontinuation symptoms), especially when therapy is stopped suddenly.
+  - eye pain
+  - chanes in vision
+  - swelling or redness in or around the eye
+- Symptoms when stopping KHEDEZLA (discontinuation symptoms).Side effects may occur when stopping KHEDEZLA (discontinuation symptoms), especially when therapy is stopped suddenly.
   Your healthcare provider may want to decrease your dose slowly to help avoid side effects.
   Some of these side effects may include:
 
@@ -233,7 +234,7 @@ This Medication Guide summarizes the most important information about KHEDEZLA.
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about KHEDEZLA that is written for healthcare professionals.
 
-For more information, call 1-877-745-3667.
+For more information, call 1- 800-793-2145.
 
 ### What are the ingredients in KHEDEZLA?
 
@@ -246,14 +247,14 @@ Inactive ingredients:
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured for: Osmotica Pharmaceutical Corp Marietta, GA 30062
+Manufactured for: Osmotica Pharmaceutical US, LLC Marietta, GA 30062
 
-By AAIPharma 1726 North 23rd Street, Wilmington, NC 28405
+By Alcami 1726 North 23rd Street, Wilmington, NC 28405
 
 Distributed by: Pernix Therapeutics, LLC
 
-Magnolia, TX 77354
+Morristown, NJ 07960
 
-Revised 06/2014
+Revised 07/2016
 
-MG 374-01-84-03 PC 4623FM
+MG 374-01-84-03 PC 4623GM

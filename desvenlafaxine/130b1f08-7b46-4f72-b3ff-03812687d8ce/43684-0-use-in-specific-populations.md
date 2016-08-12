@@ -7,8 +7,8 @@ Pregnancy Category C
 Risk summary
 
 There are no adequate and well-controlled studies of KHEDEZLA in pregnant women.
-In reproductive developmental studies in rats and rabbits with desvenlafaxine succinate, evidence of teratogenicity was not observed at doses up to 30 times a human dose of 100 mg/day (on a mg/m2 basis) in rats, and up to 15 times a human dose of 100 mg/day (on a mg/m2 basis) in rabbits.
-An increase in rat pup deaths was seen during the first 4 days of lactation when dosing occurred during gestation and lactation, at doses greater than 10 times a human dose of 100 mg/day (on a mg/m2 basis).
+In reproductive developmental studies in rats and rabbits with desvenlafaxine succinate, evidence of teratogenicity was not observed at doses up to 30 times a human dose of 100 mg/day (on a mg/m 2 basis) in rats, and up to 15 times a human dose of 100 mg/day (on a mg/m 2 basis) in rabbits.
+An increase in rat pup deaths was seen during the first 4 days of lactation when dosing occurred during gestation and lactation, at doses greater than 10 times a human dose of 100 mg/day (on a mg/m 2 basis).
 KHEDEZLA should be used during pregnancy only if the potential benefits justify the potential risks to the fetus.
 
 Clinical considerations
@@ -26,13 +26,13 @@ It should be noted that, in some cases, the clinical picture is consistent with 
 Animal data
 
 When desvenlafaxine succinate was administered orally to pregnant rats and rabbits during the period of organogenesis at doses up to 300 mg/kg/day and 75 mg/kg/day, respectively, no teratogenic effects were observed.
-These doses are 30 times a human dose of 100 mg/day (on a mg/m2 basis) in rats and 15 times a human dose of 100 mg/day (on a mg/m2 basis) in rabbits.
-However, fetal weights were decreased and skeletal ossification was delayed in rats in association with maternal toxicity at the highest dose, with a no-effect dose 10 times a human dose of 100 mg/day (on a mg/m2 basis).
+These doses are 30 times a human dose of 100 mg/day (on a mg/m 2 basis) in rats and 15 times a human dose of 100 mg/day (on a mg/m 2 basis) in rabbits.
+However, fetal weights were decreased and skeletal ossification was delayed in rats in association with maternal toxicity at the highest dose, with a no-effect dose 10 times a human dose of 100 mg/day (on a mg/m 2 basis).
 
 When desvenlafaxine succinate was administered orally to pregnant rats throughout gestation and lactation, there was a decrease in pup weights and an increase in pup deaths during the first four days of lactation at the highest dose of 300 mg/kg/day.
 The cause of these deaths is not known.
-The no-effect dose for rat pup mortality was 10 times a human dose of 100 mg/day (on a mg/m2 basis).
-Post-weaning growth and reproductive performance of the progeny were not affected by maternal treatment with desvenlafaxine succinate at a dose 30 times a human dose of 100 mg/day (on a mg/m2 basis).
+The no-effect dose for rat pup mortality was 10 times a human dose of 100 mg/day (on a mg/m 2 basis).
+Post-weaning growth and reproductive performance of the progeny were not affected by maternal treatment with desvenlafaxine succinate at a dose 30 times a human dose of 100 mg/day (on a mg/m 2 basis).
 
 ## 8.3 Nursing Mothers
 
@@ -59,6 +59,6 @@ In subjects with severe renal impairment (24-hr CrCl <30 mL/min, Cockcroft-Gault
 
 ## 8.7 Hepatic Impairment
 
-The mean terminal half life (t1/2) changed from approximately 10 hours in healthy subjects and subjects with mild hepatic impairment to 13 and 14 hours in moderate and severe hepatic impairment, respectively.
+The mean terminal half life (t 1/2) changed from approximately 10 hours in healthy subjects and subjects with mild hepatic impairment to 13 and 14 hours in moderate and severe hepatic impairment, respectively.
 The recommended dose in patients with moderate to severe hepatic impairment is 50 mg/day.
 Dose escalation above 100 mg/day is not recommended [see Clinical Pharmacology (12.3)].

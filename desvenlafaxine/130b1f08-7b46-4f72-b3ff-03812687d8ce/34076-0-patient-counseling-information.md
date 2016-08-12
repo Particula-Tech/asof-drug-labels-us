@@ -30,8 +30,7 @@ Patients should be cautioned about the concomitant use of KHEDEZLA and NSAIDs, a
 
 Angle Closure Glaucoma
 
-Patients should be advised that taking Desvenlafaxine can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle closure glaucoma.
-Pre-existing glaucoma is almost always open-angle glaucoma because angle closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
+Patients should be advised that taking Desvenlafaxine can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
 Open-angle glaucoma is not a risk factor for angle closure glaucoma.
 Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
 [see Warnings and Precautions (5.5)]
@@ -75,14 +74,14 @@ Residual Inert Matrix Tablet
 Patients receiving KHEDEZLA may notice an inert matrix tablet passing in the stool or via colostomy.
 Patients should be informed that the active medication has already been absorbed by the time the patient sees the inert matrix tablet.
 
-Manufactured for: Osmotica Pharmaceutical Corp Marietta, GA 30062
+Manufactured for: Osmotica Pharmaceutical US LLC Marietta, GA 30062
 
-By: AAIPharma 1726 North 23rd Street, Wilmington, NC 28405
+By: Alcami 1726 North 23rd Street, Wilmington, NC 28405
 
 Distributed by: Pernix Therapeutics, LLC
 
-Magnolia, TX 77354
+Morristown, NJ 07960
 
-Revised 06/2014
+Revised 07/2016
 
-OS374-01-84-03 PC 4623FP
+OS374-01-84-03 PC 4623GP

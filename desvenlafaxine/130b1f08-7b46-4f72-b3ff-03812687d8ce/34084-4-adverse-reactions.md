@@ -198,9 +198,11 @@ Table 7: Proportion of Patients with Sustained Elevation of Supine Diastolic Blo
 
 In the short-term, placebo-controlled clinical studies with doses of 50 to 400 mg, systolic orthostatic hypotension (decrease ≥30 mm Hg from supine to standing position) occurred more frequently in patients ≥65 years of age receiving desvenlafaxine (8%, 7/87) versus placebo (2.5%, 1/40), compared to patients <65 years of age receiving desvenlafaxine (0.9%, 18/1,937) versus placebo (0.7%, 8/1,218).
 
-## 6.2 Postmarketing Experience
+## 6.2 Adverse Reactions Reported as Reasons for Discontinuation of Treatment in Adult Placebo-Controlled Trials
 
 The following adverse reaction has been identified during post-approval use of desvenlafaxine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
-Skin and subcutaneous tissue disorders –Stevens-Johnson syndrome.
+Skin and subcutaneous tissue disorders-Stevens-Johnson syndrome.
+
+Gastrointestinal System-Acute Pancreatitis

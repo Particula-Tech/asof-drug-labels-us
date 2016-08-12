@@ -66,7 +66,7 @@ KHEDEZLA should also not be started in a patient who is being treated with MAOIs
 All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg.
 No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
 There may be circumstances when it is necessary to initiate treatment with a MAOI such as linezolid or intravenous methylene blue in a patient taking d KHEDEZLA.
-KHEDEZLA should be discontinued before initiating treatment with the MAOI [seeContraindications(4) and Dosage and Administration (2.6)].
+KHEDEZLA should be discontinued before initiating treatment with the MAOI [see Contraindications(4) and Dosage and Administration (2.6)].
 
 If concomitant use of KHEDEZLA with other serotonergic drugs, including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, and St. John's Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
 Treatment with KHEDEZLA and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
@@ -91,7 +91,7 @@ Patients should be cautioned about the risk of bleeding associated with the conc
 
 ## 5.5 Angle Closure Glaucoma
 
-Angle-Closure Glaucoma: The pupillary dilation that occurs following use of many antidepressant drugs including Desvenlafaxine may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+Angle-Clousure Glaucoma: The pupillary dilation that occurs following use of many antidepressant drugs including Desvenlafaxine may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
 
 ## 5.6 Activation of Mania/Hypomania
 

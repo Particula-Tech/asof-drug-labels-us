@@ -7,7 +7,7 @@ Non-clinical studies have shown that desvenlafaxine is a potent and selective se
 
 ## 12.2 Pharmacodynamics
 
-Desvenlafaxine lacked significant affinity for numerous receptors, including muscarinic-cholinergic, H1-histaminergic, or α1-adrenergic receptors in vitro.
+Desvenlafaxine lacked significant affinity for numerous receptors, including muscarinic-cholinergic, H 1-histaminergic, or α 1-adrenergic receptors in vitro.
 Desvenlafaxine also lacked monoamine oxidase (MAO) inhibitory activity.
 
 ECG changes
@@ -23,7 +23,7 @@ The single-dose pharmacokinetics of desvenlafaxine are linear and dose-proportio
 With once-daily dosing, steady-state plasma concentrations are achieved within approximately 4 to 5 days.
 At steady-state, multiple-dose accumulation of desvenlafaxine is linear and predictable from the single-dose pharmacokinetic profile.
 
-The mean ± SD terminal half-life, t1/2, after administration of KHEDEZLA is about 9.5 ± 1.5 hours.
+The mean ± SD terminal half-life, t 1/2, after administration of KHEDEZLA is about 9.5 ± 1.5 hours.
 The median (range) time to peak concentration (Tmax) is 6 (3 – 14) hours after administration of 50 mg KHEDEZLA.
 
 Absorption and Distribution
@@ -50,7 +50,7 @@ Drug Interaction Studies
 Inhibitors of CYP3A4 (ketoconazole)
 
 CYP3A4 is a minor pathway for the metabolism of desvenlafaxine.
-In a clinical study, ketoconazole (200 mg BID) increased the area under the concentration vs. time curve (AUC) of desvenlafaxine (400 mg single dose) by about 43% and Cmax by about 8%.
+In a clinical study, ketoconazole (200 mg BID) increased the area under the concentration vs. time curve (AUC) of desvenlafaxine (400 mg single dose) by about 43% and C max by about 8%.
 Concomitant use of KHEDEZLA with potent inhibitors of CYP3A4 may result in higher concentrations of desvenlafaxine.
 
 Inhibitors of other CYP enzymes
@@ -61,15 +61,15 @@ Drugs metabolized by CYP2D6 (e.g. desipramine, dextromethorphan, metoprolol, ato
 
 In vitro studies showed minimal inhibitory effect of desvenlafaxine on CYP2D6.
 Clinical studies have shown that desvenlafaxine does not have a clinically relevant effect on CYP2D6 metabolism at the dose of 100 mg daily.
-When desvenlafaxine succinate was administered at a dose of 100 mg daily in conjunction with a single 50 mg dose of desipramine, a CYP2D6 substrate, the Cmax and AUC of desipramine increased approximately 25% and 17%, respectively.
-When 400 mg (8 times the recommended 50 mg dose) was administered, the Cmax and AUC of desipramine increased approximately 50% and 90%, respectively.
+When desvenlafaxine succinate was administered at a dose of 100 mg daily in conjunction with a single 50 mg dose of desipramine, a CYP2D6 substrate, the C max and AUC of desipramine increased approximately 25% and 17%, respectively.
+When 400 mg (8 times the recommended 50 mg dose) was administered, the C max and AUC of desipramine increased approximately 50% and 90%, respectively.
 Concomitant use of desvenlafaxine with a drug metabolized by CYP2D6 can result in higher concentrations of that drug [see Drug Interactions (7.4)].
 
 Drugs metabolized by CYP3A4 (midazolam)
 
 In vitro, desvenlafaxine does not inhibit or induce the CYP3A4 isozyme.
 In a clinical study, desvenlafaxine 400 mg daily (8 times the recommended 50 mg dose) was co-administered with a single 4 mg dose of midazolam (a CYP3A4 substrate).
-The AUC and Cmax of midazolam decreased by approximately 31% and 16%, respectively.
+The AUC and C max of midazolam decreased by approximately 31% and 16%, respectively.
 Concomitant use of KHEDEZLA with a drug metabolized by CYP3A4 can result in lower exposures to that drug.
 
 Drugs metabolized by CYP1A2, 2A6, 2C8, 2C9 and 2C19
@@ -83,12 +83,12 @@ Special Populations
 
 Age
 
-In a study of healthy subjects administered doses of up to 300 mg, there was an approximate 32% increase in Cmax and a 55% increase in AUC in subjects older than 75 years of age (n = 17), compared with subjects 18 to 45 years of age (n = 16).
-Subjects 65 to 75 years of age (n = 15) had no change in Cmax, but an approximately 32% increase in AUC, compared to subjects 18 to 45 years of age [see Dosage and Administration (2.2)].
+In a study of healthy subjects administered doses of up to 300 mg, there was an approximate 32% increase in C max and a 55% increase in AUC in subjects older than 75 years of age (n = 17), compared with subjects 18 to 45 years of age (n = 16).
+Subjects 65 to 75 years of age (n = 15) had no change in C max, but an approximately 32% increase in AUC, compared to subjects 18 to 45 years of age [see Dosage and Administration (2.2)].
 
 Gender
 
-In a study of healthy subjects administered doses of up to 300 mg, women had an approximately 25% higher Cmax and an approximately 10% higher AUC than age-matched men.
+In a study of healthy subjects administered doses of up to 300 mg, women had an approximately 25% higher C max and an approximately 10% higher AUC than age-matched men.
 No adjustment of dosage on the basis of gender is needed.
 
 Race
@@ -106,7 +106,7 @@ Average AUC values were similar in subjects with mild hepatic impairment and hea
 Systemic clearance (CL/F) was decreased by approximately 20% and 36% in patients with moderate and severe hepatic impairment, respectively, as compared to healthy subjects.
 CL/F values were comparable in mild hepatic impairment and healthy subjects (< 5% difference).
 
-The mean t1/2 changed from approximately 10 hours in healthy subjects and subjects with mild hepatic impairment to 13 and 14 hours in moderate and severe hepatic impairment, respectively.
+The mean t 1/2 changed from approximately 10 hours in healthy subjects and subjects with mild hepatic impairment to 13 and 14 hours in moderate and severe hepatic impairment, respectively.
 The recommended dose in patients with hepatic impairment is 50 mg/day.
 Dose escalation above 100 mg/day is not recommended [see Use in Specific Populations (8.7)].
 
@@ -116,7 +116,7 @@ The disposition of desvenlafaxine after administration of 100 mg was studied in 
 Elimination was significantly correlated with creatinine clearance.
 Increases in AUCs of about 42% in mild renal impairment (24-hr CrCl = 50 to 80 mL/min, Cockcroft-Gault [C-G]), about 56% in moderate renal impairment (24-hr CrCl = 30 to 50 mL/min, C-G), about 108% in severe renal impairment (24-hr CrCl ≤30 mL/min, C-G), and about 116% in ESRD subjects were observed, compared with healthy, age-matched control subjects.
 
-The mean terminal half-life (t1/2) was prolonged from 11.1 hours in the control subjects to approximately 13.5, 15.5, 17.6, and 22.8 hours in mild, moderate, severe renal impairment and ESRD subjects, respectively.
+The mean terminal half-life (t 1/2) was prolonged from 11.1 hours in the control subjects to approximately 13.5, 15.5, 17.6, and 22.8 hours in mild, moderate, severe renal impairment and ESRD subjects, respectively.
 Less than 5% of the drug in the body was cleared during a standard 4-hour hemodialysis procedure.
 
 The maximum recommended dose in patients with moderate renal impairment is 50 mg per day.
