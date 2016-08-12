@@ -59,7 +59,7 @@ Adverse Reactions in Pooled Placebo-Controlled Trials in Patients with Migraine 
 | Skin |  |  |
 | Sweating | 2 | 1 |
 
-- a Includes injection site pain, stinging/burning, swelling, erythema, bruising, bleeding.
+1. a Includes injection site pain, stinging/burning, swelling, erythema, bruising, bleeding.
 
 The incidence of adverse reactions in controlled clinical trials was not affected by gender or age of the patients.
 There were insufficient data to assess the impact of race on the incidence of adverse reactions.
