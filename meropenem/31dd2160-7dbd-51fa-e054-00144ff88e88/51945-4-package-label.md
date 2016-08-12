@@ -14,7 +14,7 @@ Contents are Sterile
 
 NDC 44674-033-10
 
-Meropenem for Injection, USP For Intravenous Use only Discard unused portion R x Only
+Meropenem for Injection, USP For Intravenous Use only Discard unused portion Rx Only
 
 1 gram per Vial meropenem equivalent
 
@@ -38,7 +38,7 @@ Contents are Sterile
 
 NDC 44647-032-10
 
-Meropenem for Injection, USP For Intravenous Use only Discard unused portion R x Only
+Meropenem for Injection, USP For Intravenous Use only Discard unused portion Rx Only
 
 500mg per Vial meropenem equivalent
 

@@ -24,7 +24,7 @@ After a single intravenous dose of Meropenem for Injection, the highest mean con
 
 Table 1 Meropenem Concentrations in Selected Tissues (Highest Concentrations Reported)
 
-| Tissue | Intravenous. Dose (gram) | Number of Samples | Mean [µg/mL or mcg/(gram)] at 1 hour unless otherwise noted | Range [µg/mL or mcg/(gram)] |
+| Tissue | Intravenous. Dose (gram) | Number of Samples | Mean [µg/mL or mcg/(gram)]at 1 hour unless otherwise noted | Range [µg/mL or mcg/(gram)] |
 | --- | --- | --- | --- | --- |
 | Endometrium | 0.5 | 7 | 4.2 | 1.7–10.2 |
 | Myometrium | 0.5 | 15 | 3.8 | 0.4–8.1 |
@@ -32,7 +32,7 @@ Table 1 Meropenem Concentrations in Selected Tissues (Highest Concentrations Rep
 | Cervix | 0.5 | 2 | 7 | 5.4–8.5 |
 | Fallopian tube | 0.5 | 9 | 1.7 | 0.3-3.4 |
 | Skin | 0.5 | 22 | 3.3 | 0.5–12.6 |
-| Interstitial fluid obtained from blister fluid | 0.5 | 9 | 5.5 | 3.2-8.6 |
+| Interstitial fluidobtained from blister fluid | 0.5 | 9 | 5.5 | 3.2-8.6 |
 | Skin | 1 | 10 | 5.3 | 1.3–16.7 |
 | Interstitial fluid | 1 | 5 | 26.3 | 20.9–37.4 |
 | Colon | 1 | 2 | 2.6 | 2.5–2.7 |
@@ -45,7 +45,7 @@ Table 1 Meropenem Concentrations in Selected Tissues (Highest Concentrations Rep
 | Fascia | 1 | 9 | 8.8 | 1.5–20 |
 | Heart valves | 1 | 7 | 9.7 | 6.4–12.1 |
 | Myocardium | 1 | 10 | 15.5 | 5.2–25.5 |
-| CSF (inflamed) | 20 mg/kg in pediatric patients of age 5 months to 8 years 40 mg/kg in pediatric patients of age 1 month to 15 years | 8 5 | 1.1 (2 hours) 3.3 (3 hours) | 0.2-2.8 0.9-6.5 |
+| CSF (inflamed) | 20 mg/kgin pediatric patients of age 5 months to 8 years 40 mg/kgin pediatric patients of age 1 month to 15 years | 8 5 | 1.1 (2 hours) 3.3 (3 hours) | 0.2-2.8 0.9-6.5 |
 | CSF (uninflamed) | 1 | 4 | 0.2 (2 hours) | 0.1–0.3 |
 
 Metabolism
@@ -89,15 +89,15 @@ The elimination half-life for meropenem was approximately 1.5 hours in pediatric
 
 The pharmacokinetics of meropenem in patients less than 3 months of age receiving combination antibacterial drug therapy are given below.
 
-Table 2 Meropenem Pharmacokinetic Parameters in Patients Less Than 3 Months of Age Values are derived from a population pharmacokinetic analysis of sparse data
+Table 2 Meropenem Pharmacokinetic Parameters in Patients Less Than 3 Months of AgeValues are derived from a population pharmacokinetic analysis of sparse data
 
 |  | GA less than 32 weeks PNA less than 2 weeks (20mg/kg every 12 hours) | GA less than 32 weeks PNA 2 weeks or older (20mg/kg every 8 hours) | GA 32 weeks or older PNA less than 2 weeks (20mg/kg every 8 hours) | GA 32 weeks or older PNA 2 weeks or older (30mg/kg every 8 hours) | Overall |
 | --- | --- | --- | --- | --- | --- |
 | CL (L/h/kg) | 0.089 | 0.122 | 0.135 | 0.202 | 0.119 |
 | V (L/kg) | 0.489 | 0.467 | 0.463 | 0.451 | 0.468 |
-| AUC 0-24 (mcg-h/mL) | 448 | 491 | 445 | 444 | 467 |
-| C max (mcg/mL) | 44.3 | 46.5 | 44.9 | 61 | 46.9 |
-| C min (mcg/mL) | 5.36 | 6.65 | 4.84 | 2.1 | 5.65 |
+| AUC0-24 (mcg-h/mL) | 448 | 491 | 445 | 444 | 467 |
+| Cmax (mcg/mL) | 44.3 | 46.5 | 44.9 | 61 | 46.9 |
+| Cmin (mcg/mL) | 5.36 | 6.65 | 4.84 | 2.1 | 5.65 |
 | T1/2 (h) | 3.82 | 2.68 | 2.33 | 1.58 | 2.68 |
 
 Drug Interactions
@@ -113,7 +113,7 @@ Mechanism of Action
 The bactericidal activity of meropenem results from the inhibition of cell wall synthesis.
 Meropenem readily penetrates the cell wall of most Gram-positive and Gram-negative bacteria to reach penicillin-binding-protein (PBP) targets.
 Its strongest affinities are toward PBPs 2, 3 and 4 of Escherichia coli and Pseudomonas aeruginosa; and PBPs 1, 2 and 4 of Staphylococcus aureus.
-Bactericidal concentrations (defined as a 3 log 10 reduction in cell counts within 12 hours to 24 hours) are typically 1-2 times the bacteriostatic concentrations of meropenem, with the exception of Listeria monocytogenes, against which lethal activity is not observed.
+Bactericidal concentrations (defined as a 3 log10 reduction in cell counts within 12 hours to 24 hours) are typically 1-2 times the bacteriostatic concentrations of meropenem, with the exception of Listeria monocytogenes, against which lethal activity is not observed.
 
 Meropenem has significant stability to hydrolysis by β-lactamases, both penicillinases and cephalosporinases produced by Gram-positive and Gram-negative bacteria.
 
@@ -174,7 +174,7 @@ Dilution Techniques:
 Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
 The MICs should be determined using a standardized test method.
-Standardized procedures are based on a dilution method 1,3 (broth or agar) or equivalent using standardized inoculum concentrations and standardized concentrations of meropenem powder.
+Standardized procedures are based on a dilution method1,3 (broth or agar) or equivalent using standardized inoculum concentrations and standardized concentrations of meropenem powder.
 The MIC values should be interpreted according to the criteria provided in Table 3.
 
 Diffusion Techniques:
@@ -187,8 +187,7 @@ The disk diffusion interpretive criteria are provided in Table 3.
 
 Anaerobic Techniques:
 
-For anaerobic bacteria, the susceptibility to meropenem as MICs can be determined by a standardized test method.
-2,4 The MIC values obtained should be interpreted according to the criteria provided in Table 3.
+For anaerobic bacteria, the susceptibility to meropenem as MICs can be determined by a standardized test method.2,4 The MIC values obtained should be interpreted according to the criteria provided in Table 3.
 
 Table 3 Susceptibility Interpretive Criteria for Meropenem
 
@@ -196,12 +195,12 @@ Table 3 Susceptibility Interpretive Criteria for Meropenem
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Minimum Inhibitory Concentrations (mcg/mL) |  |  | Disk Diffusion (zone diameters in mm) |  |  |
 | Enterobacteriaceae | ≤ 1 | 2 | ≥ 4 | ≥ 23 | 20-22 | ≤ 19 |
-| Pseudomonas aeruginosa The interpretive criteria for P. aeruginosa are based upon the dosing of 1g every 8 hours. | ≤ 2 | 4 | ≥ 8 | ≥ 19 | 16-18 | ≤ 15 |
-| Haemophilus influenzae The current absence of data on resistant isolates precludes defining any category other than "Susceptible". If isolates yield MIC results other than susceptible, they should be submitted to a reference laboratory for additional testing. | ≤ 0.5 | — | — | ≥ 20 | — | — |
+| Pseudomonas aeruginosaThe interpretive criteria for P. aeruginosa are based upon the dosing of 1g every 8 hours. | ≤ 2 | 4 | ≥ 8 | ≥ 19 | 16-18 | ≤ 15 |
+| Haemophilus influenzaeThe current absence of data on resistant isolates precludes defining any category other than "Susceptible". If isolates yield MIC results other than susceptible, they should be submitted to a reference laboratory for additional testing. | ≤ 0.5 | — | — | ≥ 20 | — | — |
 | Neisseria meningitidis | ≤ 0.25 | — | — | ≥ 30 | — | — |
 | Streptococcus pneumoniae For nonmeningitis isolates of S. pneumoniae a penicillin MIC of ≤ 0.06 mcg/mL or oxacillin zone ≥ 20 mm can predict susceptibility to meropenem. MIC testing should be performed on isolates that do not test as susceptible by either of these methods, and on all meningitis S. pneumoniae isolates.,Reliable disk diffusion tests for meropenem do not yet exist for testing streptococci. | ≤ 0.25 | 0.5 | ≥ 1 | — | — | — |
 | Streptococcus agalactiae and Streptococcus pyogenes,Viridans group streptococci should be tested for meropenem susceptibility using a MIC method and results should be reported using the interpretive criteria listed for S. agalactiae and S. pyogenes., | ≤ 0.5 | — | — | — | — | — |
-| Anaerobes MIC values using either Brucella blood or Wilkins Chalgren agar (former reference medium) are considered equivalent, based upon published in vitro literature and a multicenter collaborative trial for these antimicrobial agents. Broth microdilution is only recommended for testing the B. fragilis group. MIC values for agar or broth microdilution are considered equivalent for that group. | ≤ 4 | 8 | ≥ 16 | — | — | — |
+| AnaerobesMIC values using either Brucella blood or Wilkins Chalgren agar (former reference medium) are considered equivalent, based upon published in vitro literature and a multicenter collaborative trial for these antimicrobial agents. Broth microdilution is only recommended for testing the B. fragilis group. MIC values for agar or broth microdilution are considered equivalent for that group. | ≤ 4 | 8 | ≥ 16 | — | — | — |
 | S = Susceptible, I = Intermediate, R = Resistant |  |  |  |  |  |  |
 | No interpretative criteria have been established for testing enterococci. |  |  |  |  |  |  |
 | Susceptibility of staphylococci to meropenem may be deduced from testing penicillin and either cefoxitin or oxacillin. |  |  |  |  |  |  |
@@ -229,7 +228,7 @@ Table 4 Acceptable Quality Control Ranges for Meropenem
 | Haemophilus influenzae ATCC 49766 | 0.03-0.12 |  |
 | Haemophilus influenzae ATCC 49247 | — | 20–28 |
 | Pseudomonas aeruginosa ATCC 27853 | 0.25-1 | 27–33 |
-| Bacteroides fragilis Using the Reference Agar Dilution procedure. ATCC 25285 | 0.03–0.25 |  |
+| Bacteroides fragilisUsing the Reference Agar Dilution procedure. ATCC 25285 | 0.03–0.25 |  |
 | Bacteroides thetaiotaomicron ATCC 29741 | 0.125-0.5 |  |
 | Eubacterium lentum ATCC 43055 | 0.125-1 |  |
 | Clostridium dificile ATCC 700057 | 0.5-4 |  |

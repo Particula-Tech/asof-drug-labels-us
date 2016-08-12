@@ -18,6 +18,6 @@ Meropenem for Injection is indicated as a single agent therapy for the treatment
 
 ## 1.3 Bacterial Meningitis (Pediatric Patients 3 Months of age and older only)
 
-Meropenem for Injection is indicated as a single agent therapy for the treatment of bacterial meningitis caused by Streptococcus pneumoniae The efficacy of meropenem as monotherapy in the treatment of meningitis caused by penicillin nonsusceptible isolates of Streptococcus pneumoniae has not been established., Haemophilus influenzae, and Neisseria meningitidis.
+Meropenem for Injection is indicated as a single agent therapy for the treatment of bacterial meningitis caused by Streptococcus pneumoniaeThe efficacy of meropenem as monotherapy in the treatment of meningitis caused by penicillin nonsusceptible isolates of Streptococcus pneumoniae has not been established., Haemophilus influenzae, and Neisseria meningitidis.
 
 Meropenem for Injection has been found to be effective in eliminating concurrent bacteremia in association with bacterial meningitis.

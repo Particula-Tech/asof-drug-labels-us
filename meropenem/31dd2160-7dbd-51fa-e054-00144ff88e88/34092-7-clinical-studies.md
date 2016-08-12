@@ -13,9 +13,9 @@ The success rates in the clinically evaluable patients at the follow-up visit we
 
 The following table provides the results for the overall as well as subgroup comparisons in clinically evaluable population.
 
-| Population | Meropenem for Injection n n=number of patients with satisfactory response./N N=number of patients in the clinically evaluable population or respective subgroup within treatment groups. | Imipenem-cilastatin n /N (%) |
+| Population | Meropenem for Injection nn=number of patients with satisfactory response./NN=number of patients in the clinically evaluable population or respective subgroup within treatment groups. | Imipenem-cilastatin n/N(%) |
 | --- | --- | --- |
-| Success Rate Percent of satisfactory clinical response at follow-up evaluation. |  |  |
+| Success RatePercent of satisfactory clinical response at follow-up evaluation. |  |  |
 | Total | 225/261 (86) | 238/287 (83) |
 | Diabetes mellitus | 83/97 (86) | 76/105 (72) |
 | No diabetes mellitus | 142/164 (87) | 162/182 (89) |
@@ -27,7 +27,7 @@ The following table provides the results for the overall as well as subgroup com
 The following clinical efficacy rates were obtained, per organism.
 The values represent the number of patients clinically cured/number of clinically evaluable patients at the post-treatment follow-up visit, with the percent cure in parentheses (Fully Evaluable analysis set).
 
-| MICROORGANISMS Patients may have more than one pretreatment pathogen. | Meropenem for Injection n n=number of patients with satisfactory response./N N=number of patients in the clinically evaluable population or subgroup within treatment groups. | Imipenem-cilastatin n /N (%) %= Percent of satisfactory clinical response at follow-up evaluation. |
+| MICROORGANISMSPatients may have more than one pretreatment pathogen. | Meropenem for Injection nn=number of patients with satisfactory response./NN=number of patients in the clinically evaluable population or subgroup within treatment groups. | Imipenem-cilastatin n/N (%)%= Percent of satisfactory clinical response at follow-up evaluation. |
 | --- | --- | --- |
 | Gram-positive aerobes |  |  |
 | Staphylococcus aureus, methicillin susceptible | 82/88 (93) | 84/100 (84) |
@@ -79,8 +79,8 @@ The values represent the number of patients clinically cured/number of clinicall
 | MICROORGANISMS | Meropenem for Injection | COMPARATOR |
 | --- | --- | --- |
 | S. pneumoniae | 17/24 (71) | 19/30 (63) |
-| H. influenzae (+) (+) β-lactamase-producing | 8/10 (80) | 6/6 (100) |
-| H. influenzae (-/NT) (-/NT) non-β-lactamase-producing or not tested | 44/59 (75) | 44/60 (73) |
+| H. influenzae (+)(+) β-lactamase-producing | 8/10 (80) | 6/6 (100) |
+| H. influenzae (-/NT)(-/NT) non-β-lactamase-producing or not tested | 44/59 (75) | 44/60 (73) |
 | N. meningitidis | 30/35 (86) | 35/39 (90) |
 | Total (including others) | 102/131 (78) | 108/140 (77) |
 
