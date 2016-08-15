@@ -12,9 +12,9 @@ Manufactured by: Zhejiang Huahai Pharmaceutical Co., Ltd. Xunqiao, Linhai, Zheji
 
 Distributed by: Solco Healthcare US, LLC Cranbury, NJ 08512, USA
 
-Revised: 09/2015
+Revised: 07/2016
 
-07282-04
+07282-05
 
 DONEPEZIL HYDROCHLORIDE PATIENT PACKAGE INSERT
 
