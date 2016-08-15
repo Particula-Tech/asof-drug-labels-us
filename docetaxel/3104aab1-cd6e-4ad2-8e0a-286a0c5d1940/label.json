@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA022234"
+  ],
+  "inn": "docetaxel",
+  "labeler": "Hospira, Inc.",
+  "package_ndcs": [
+    "0409-0366-01",
+    "0409-0367-01",
+    "0409-0369-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "docetaxel",
+      "name": "Docetaxel"
+    }
+  ],
+  "setid": "3104aab1-cd6e-4ad2-8e0a-286a0c5d1940",
+  "source": "dailymed"
+}
