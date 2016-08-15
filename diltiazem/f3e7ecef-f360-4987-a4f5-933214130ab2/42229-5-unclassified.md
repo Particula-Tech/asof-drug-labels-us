@@ -1,12 +1,14 @@
-Rx Only
+Rx only
 
-Caridizem® is a registered trademark of Valeant International Bermuda.
+Cardizem is a registered trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
-Distributed by: Valeant Pharmaceuticals North America LLC Bridgewater, NJ, 08807 USA
+© Valeant Pharmaceuticals North America LLC
 
-Made in Canada
+Distributed by: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
 Rev.
-10/14
+06/2016
 
-9411001
+9411002
+
+50102613D

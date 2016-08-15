@@ -10,8 +10,9 @@ If the drug must be used in such patients, titration should be carried out with 
 
 Concomitant Use With Other Cardiovascular Agents
 
-- 1.Sublingual NTG may be taken as required to abort acute anginal attacks during CARDIZEM (diltiazem hydrochloride) therapy.
-- 2.Prophylactic Nitrate Therapy.
-  CARDIZEM may be safely coadministered with short- and long-acting nitrates, but there have been no controlled studies to evaluate the antianginal effectiveness of this combination.
-- 3.Beta-blockers.
-  (See WARNINGS and PRECAUTIONS).Swallow Cardizem tablets whole; do not split, crush or chew the tablets.
+1. 1.Sublingual NTG may be taken as required to abort acute anginal attacks during CARDIZEM (diltiazem hydrochloride) therapy.
+2. 2.Prophylactic Nitrate Therapy.
+   CARDIZEM may be safely coadministered with short- and long-acting nitrates, but there have been no controlled studies to evaluate the antianginal effectiveness of this combination.
+3. 3.Beta-blockers.
+   (See WARNINGS and PRECAUTIONS).
+4. Swallow Cardizem tablets whole; do not split, crush or chew the tablets.
