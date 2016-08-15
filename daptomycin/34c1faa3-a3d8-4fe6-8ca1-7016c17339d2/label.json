@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021572"
+  ],
+  "inn": "daptomycin",
+  "labeler": "Merck Sharp & Dohme Corp.",
+  "package_ndcs": [
+    "67919-012-02"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "daptomycin",
+      "name": "CUBICIN RF"
+    }
+  ],
+  "setid": "34c1faa3-a3d8-4fe6-8ca1-7016c17339d2",
+  "source": "dailymed"
+}

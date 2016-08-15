@@ -1,0 +1,38 @@
+# 8 USE IN SPECIFIC POPULATIONS
+
+## 8.1 Pregnancy
+
+Teratogenic Effects: Pregnancy Category B
+
+There are no adequate and well-controlled trials of CUBICIN RF in pregnant women.
+Embryofetal development studies performed in rats and rabbits at doses of up to 75 mg/kg (2 and 4 times the 6 mg/kg human dose, respectively, on a body surface area basis) revealed no evidence of harm to the fetus due to daptomycin.
+Because animal reproduction studies are not always predictive of human response, CUBICIN RF should be used during pregnancy only if the potential benefit outweighs the possible risk.
+
+## 8.3 Nursing Mothers
+
+Daptomycin is present in human milk but is poorly bioavailable orally.
+
+In a single case study, CUBICIN was administered daily for 28 days to a nursing mother at an IV dose of 6.7 mg/kg/day, and samples of the patient's breast milk were collected over a 24-hour period on day 27.
+The highest measured concentration of daptomycin in the breast milk was 0.045 mcg/mL1.
+The calculated maximum daily CUBICIN dose to the infant (assuming mean milk consumption of 150 mL/kg/day) was 0.1% of the maternal dose of 6.7 mg/kg/day [see Nonclinical Toxicology (13.2)].
+Caution should be exercised when CUBICIN RF is administered to a nursing woman.
+
+## 8.4 Pediatric Use
+
+Safety and effectiveness of CUBICIN RF in pediatric patients have not been established.
+Avoid use of CUBICIN RF in pediatric patients younger than 12 months due to the risk of potential effects on muscular, neuromuscular, and/or nervous systems (either peripheral and/or central) observed in neonatal dogs [see Warnings and Precautions (5.5) and Nonclinical Toxicology (13.2)].
+
+## 8.5 Geriatric Use
+
+Of the 534 patients treated with CUBICIN in Phase 3 controlled clinical trials of complicated skin and skin structure infections (cSSSI), 27% were 65 years of age or older and 12% were 75 years of age or older.
+Of the 120 patients treated with CUBICIN in the Phase 3 controlled clinical trial of S. aureus bacteremia/endocarditis, 25% were 65 years of age or older and 16% were 75 years of age or older.
+In Phase 3 clinical trials of cSSSI and S. aureus bacteremia/endocarditis, clinical success rates were lower in patients ≥65 years of age than in patients <65 years of age.
+In addition, treatment-emergent adverse events were more common in patients ≥65 years of age than in patients <65 years of age.
+
+The exposure of daptomycin was higher in healthy elderly subjects than in healthy young subjects.
+However, no adjustment of CUBICIN RF dosage is warranted for elderly patients with creatinine clearance (CLCR) ≥30 mL/min [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+
+## 8.6 Patients with Renal Impairment
+
+Daptomycin is eliminated primarily by the kidneys; therefore, a modification of CUBICIN RF dosage interval is recommended for patients with CLCR <30 mL/min, including patients receiving hemodialysis or continuous ambulatory peritoneal dialysis (CAPD).
+In patients with renal impairment, both renal function and creatine phosphokinase (CPK) should be monitored more frequently than once weekly [see Dosage and Administration (2.4), Warnings and Precautions (5.2, 5.8), and Clinical Pharmacology (12.3)].
