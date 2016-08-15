@@ -79,7 +79,7 @@ Table 3: Effect of Coadministered Drugs on the Pharmacokinetics of Pravastatin
 | Antacids 15 mL QID for 3 days | 20 mg single dose | ↓28% | ↓24% |
 | Digoxin 0.2 mg OD for 9 days | 20 mg OD for 9 days | ↑23% | ↑26% |
 | Probucol 500 mg single dose | 20 mg single dose | ↑14% | ↑24% |
-| Warfarin 5 mg OD for 6 days | 20 mg BID for 6 days | ↓13% | ↓6.7% |
+| Warfarin 5 mg OD for 6 days | 20 mg BID for 6 days | ↓13% | ↑6.7% |
 | Itraconazole 200 mg OD for 30 days | 40 mg OD for 30 days | ↑11% (compared to Day 1) | ↑17% (compared to Day 1) |
 | Gemfibrozil 600 mg single dose | 20 mg single dose | ↓7.0% | ↓20% |
 | Aspirin 324 mg single dose | 20 mg single dose | ↑4.7% | ↑8.9% |

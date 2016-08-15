@@ -13,5 +13,6 @@ Pravastatin sodium, USP is an odorless, white to off-white, fine or crystalline 
 It is a relatively polar hydrophilic compound with a partition coefficient (octanol/water) of 0.59 at a pH of 7.0.
 It is soluble in methanol and water (> 300 mg/mL), slightly soluble in isopropanol, and practically insoluble in acetone, acetonitrile, chloroform, and ether.
 
-Pravastatin sodium tablets USP are available for oral administration as 80 mg tablets.
-Inactive ingredients include: calcium phosphate dibasic, crospovidone, lactose anhydrous, magnesium stearate, microcrystalline cellulose, and povidone.
+Pravastatin sodium tablets USP are available for oral administration as 10 mg and 80 mg tablets.
+Inactive ingredients include: calcium phosphate dibasic, crospovidone, lactose anhydrous, microcrystalline cellulose, and povidone.
+Additionally, the 10 mg tablet contains croscarmellose sodium, ferric oxide red, and sodium stearyl fumarate; and the 80 mg tablet contains magnesium stearate.

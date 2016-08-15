@@ -116,9 +116,9 @@ Special Senses: taste disturbance.
 
 ## 6.2 Postmarketing Experience
 
-In addition to the events reported above, as with other drugs in this class, the following events have been reported rarely during postmarketing experience with pravastatin sodium, regardless of causality assessment:
+In addition to the events reported above, as with other drugs in this class, the following events have been reported during postmarketing experience with pravastatin sodium, regardless of causality assessment:
 
-Musculoskeletal: myopathy, rhabdomyolysis.
+Musculoskeletal: myopathy, rhabdomyolysis, tendon disorder, polymyositis.
 
 There have been rare reports of immune-mediated necrotizing myopathy associated with statin use [see Warnings and Precautions (5.1)].
 
@@ -136,7 +136,9 @@ Dermatologic: a variety of skin changes (e.g., nodules, discoloration, dryness o
 
 Renal: urinary abnormality (including dysuria, frequency, nocturia).
 
-Respiratory: dyspnea.
+Respiratory: dyspnea, interstitial lung disease.
+
+Psychiatric: nightmare.
 
 Reproductive: gynecomastia.
 

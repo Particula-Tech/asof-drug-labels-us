@@ -6,24 +6,24 @@ In the Pravastatin Primary Prevention Study (WOS),3 the effect of pravastatin so
 In this randomized, double-blind, placebo-controlled study, patients were treated with standard care, including dietary advice, and either pravastatin sodium 40 mg daily (N = 3302) or placebo (N = 3293) and followed for a median duration of 4.8 years.
 Median (25th, 75th percentile) percent changes from baseline after 6 months of pravastatin treatment in Total-C, LDL-C, TG, and HDL-C were −20.3 (−26.9, −11.7), −27.7 (−36.0, −16.9), −9.1 (−27.6, 12.5), and 6.7 (−2.1, 15.6), respectively.
 
-Pravastatin sodium significantly reduced the rate of first coronary events (either CHD death or nonfatal MI) by 31% (248 events in the placebo group [CHD death = 44, nonfatal MI = 204] versus 174 events in the pravastatin sodium group [CHD death = 31, non-fatal MI = 143], p = 0.0001 [see figure below]).
+Pravastatin sodium significantly reduced the rate of first coronary events (either CHD death or nonfatal MI) by 31% (248 events in the placebo group [CHD death = 44, nonfatal MI = 204] versus 174 events in the pravastatin sodium group [CHD death = 31, nonfatal MI = 143], p = 0.0001 [see figure below]).
 The risk reduction with pravastatin sodium was similar and significant throughout the entire range of baseline LDL cholesterol levels.
 This reduction was also similar and significant across the age range studied with a 40% risk reduction for patients younger than 55 years and a 27% risk reduction for patients 55 years and older.
 The Pravastatin Primary Prevention Study included only men, and therefore it is not clear to what extent these data can be extrapolated to a similar population of female patients.
 
-Pravastatin sodium tablets also significantly decreased the risk for undergoing myocardial revascularization procedures (coronary artery bypass graft [CABG] surgery or percutaneous transluminal coronary angioplasty [PTCA]) by 37% (80 vs 51 patients, p = 0.009) and coronary angiography by 31% (128 vs 90, p = 0.007).
+Pravastatin sodium also significantly decreased the risk for undergoing myocardial revascularization procedures (coronary artery bypass graft [CABG] surgery or percutaneous transluminal coronary angioplasty [PTCA]) by 37% (80 vs 51 patients, p = 0.009) and coronary angiography by 31% (128 vs 90, p = 0.007).
 Cardiovascular deaths were decreased by 32% (73 vs 50, p = 0.03) and there was no increase in death from non-cardiovascular causes.
 
 ## 14.2 Secondary Prevention of Cardiovascular Events
 
-In the LIPID4 study, the effect of pravastatin, 40 mg daily, was assessed in 9014 patients (7498 men; 1516 women; 3514 elderly patients [age ≥ 65 years]; 782 diabetic patients) who had experienced either an MI (5754 patients) or had been hospitalized for unstable angina pectoris (3260 patients) in the preceding 3 to 36 months.
+In the LIPID4 study, the effect of pravastatin 40 mg daily, was assessed in 9014 patients (7498 men; 1516 women; 3514 elderly patients [age ≥ 65 years]; 782 diabetic patients) who had experienced either an MI (5754 patients) or had been hospitalized for unstable angina pectoris (3260 patients) in the preceding 3 to 36 months.
 Patients in this multicenter, double-blind, placebo-controlled study participated for an average of 5.6 years (median of 5.9 years) and at randomization had Total-C between 114 and 563 mg/dL (mean 219 mg/dL), LDL-C between 46 and 274 mg/dL (mean 150 mg/dL), TG between 35 and 2710 mg/dL (mean 160 mg/dL), and HDL-C between 1 and 103 mg/dL (mean 37 mg/dL).
 At baseline, 82% of patients were receiving aspirin and 76% were receiving antihypertensive medication.
 Treatment with pravastatin significantly reduced the risk for total mortality by reducing coronary death (see Table 5).
 The risk reduction due to treatment with pravastatin on CHD mortality was consistent regardless of age.
 Pravastatin significantly reduced the risk for total mortality (by reducing CHD death) and CHD events (CHD mortality or nonfatal MI) in patients who qualified with a history of either MI or hospitalization for unstable angina pectoris.
 
-Table: LIPID - Primary and Secondary Endpoints
+Table 5: LIPID - Primary and Secondary Endpoints
 
 |  | Number (%) of Subjects |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -46,13 +46,13 @@ At baseline, 84% of patients were receiving aspirin and 82% were taking antihype
 Median (25th, 75th percentile) percent changes from baseline after 6 months of pravastatin treatment in Total-C, LDL-C, TG, and HDL-C were −22.0 (−28.4, −14.9), −32.4 (−39.9, −23.7), −11.0 (−26.5, 8.6), and 5.1 (−2.9, 12.7), respectively.
 Treatment with pravastatin significantly reduced the rate of first recurrent coronary events (either CHD death or nonfatal MI), the risk of undergoing revascularization procedures (PTCA, CABG), and the risk for stroke or TIA (see Table 6).
 
-Table: CARE - Primary and Secondary Endpoints
+Table 6: CARE - Primary and Secondary Endpoints
 
 |  | Number (%) of Subjects |  |  |  |
 | --- | --- | --- | --- | --- |
 | Event | Pravastatin 40 mg (N=2081) | Placebo (N=2078) | Risk Reduction | p-value |
 | Primary Endpoint |  |  |  |  |
-| CHD mortality or nonfatal MI1 | 212 (10.2) | 274 (13.2) | 24% | 0.003 |
+| CHD mortality or nonfatal MIThe risk reduction due to treatment with pravastatin was consistent in both sexes. | 212 (10.2) | 274 (13.2) | 24% | 0.003 |
 | Secondary Endpoints |  |  |  |  |
 | Myocardial revascularization procedures (CABG or PTCA) | 294 (14.1) | 391 (18.8) | 27% | < 0.001 |
 | Stroke or TIA | 93 (4.5) | 124 (6.0) | 26% | 0.029 |
@@ -125,7 +125,7 @@ Table 9: Patients With Fredrickson Type III Dysbetalipoproteinemia Median (min, 
 | --- | --- | --- |
 | Study 1 |  |  |
 | Total-C | 386.5 (245.0, 672.0) | −32.7 (−58.5, 4.6) |
-| TG | 443 (275.0, 1299.0) | −23.7 (−68.5, 44.7) |
+| TG | 443.0 (275.0, 1299.0) | −23.7 (−68.5, 44.7) |
 | VLDL-CN = 14 | 206.5 (110.0, 379.0) | −43.8 (−73.1, −14.3) |
 | LDL-C | 117.5 (80.0, 170.0) | −40.8 (−63.7, 4.6) |
 | HDL-C | 30.0 (18.0, 88.0) | 6.4 (−45.0, 105.6) |
@@ -136,7 +136,7 @@ Table 9: Patients With Fredrickson Type III Dysbetalipoproteinemia Median (min, 
 | TG | 343.2 (212.6, 845.9) | −11.9 (−56.5, 44.8) |
 | VLDL-C | 145.0 (71.5, 309.4) | −35.7 (−74.7, 19.1) |
 | LDL-C | 128.6 (63.8, 177.9) | −30.3 (−52.2, 13.5) |
-| HDL-C | 38.7 (27.1, 58) | 5.0 (−17.7, 66.7) |
+| HDL-C | 38.7 (27.1, 58.0) | 5.0 (−17.7, 66.7) |
 | Non-HDL-C | 295.8 (195.3, 421.5) | −35.5 (−81.0, −13.5) |
 
 ## 14.6 Pediatric Clinical Study

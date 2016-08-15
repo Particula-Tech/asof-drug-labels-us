@@ -5,13 +5,13 @@ Drug therapy is indicated as an adjunct to diet when the response to a diet rest
 
 ## 1.1 Prevention of Cardiovascular Disease
 
-In hypercholesterolemic patients without clinically evident coronary heart disease (CHD), pravastatin sodium tablets USP are indicated to:
+In hypercholesterolemic patients without clinically evident coronary heart disease (CHD), pravastatin sodium tablets are indicated to:
 
-- •reduce the risk of myocardial infarction (MI).
-- •reduce the risk of undergoing myocardial revascularization procedures.
-- •reduce the risk of cardiovascular mortality with no increase in death from non-cardiovascular causes.
+1. •reduce the risk of myocardial infarction (MI).
+2. •reduce the risk of undergoing myocardial revascularization procedures.
+3. •reduce the risk of cardiovascular mortality with no increase in death from non-cardiovascular causes.
 
-In patients with clinically evident CHD, Pravastatin sodium tablets USP are indicated to:
+In patients with clinically evident CHD, pravastatin sodium tablets are indicated to:
 
 - •reduce the risk of total mortality by reducing coronary death.
 - •reduce the risk of MI.
@@ -21,17 +21,17 @@ In patients with clinically evident CHD, Pravastatin sodium tablets USP are indi
 
 ## 1.2 Hyperlipidemia
 
-Pravastatin sodium tablets USP are indicated:
+Pravastatin sodium tablets are indicated:
 
-- •as an adjunct to diet to reduce elevated total cholesterol (Total-C), low-density lipoprotein cholesterol (LDL-C), apolipoprotein B (ApoB), and triglyceride (TG) levels and to increase high-density lipoprotein cholesterol (HDL-C) in patients with primary hypercholesterolemia and mixed dyslipidemia (Fredrickson Types IIa and IIb).1
-- •as an adjunct to diet for the treatment of patients with elevated serum TG levels (Fredrickson Type IV).
-- •for the treatment of patients with primary dysbetalipoproteinemia (Fredrickson Type III) who do not respond adequately to diet.
-- •as an adjunct to diet and lifestyle modification for treatment of heterozygous familial hypercholesterolemia (HeFH) in children and adolescent patients ages 8 years and older if after an adequate trial of diet the following findings are present:
-- a. LDL-C remains ≥ 190 mg/dL or
-- b. LDL-C remains ≥ 160 mg/dL and:
-  1. •there is a positive family history of premature cardiovascular disease (CVD) or
-  2. •two or more other CVD risk factors are present in the patient.
+1. •as an adjunct to diet to reduce elevated total cholesterol (Total-C), low-density lipoprotein cholesterol (LDL-C), apolipoprotein B (ApoB), and triglyceride (TG) levels and to increase high-density lipoprotein cholesterol (HDL-C) in patients with primary hypercholesterolemia and mixed dyslipidemia (Fredrickson Types IIa and IIb).1
+2. •as an adjunct to diet for the treatment of patients with elevated serum TG levels (Fredrickson Type IV).
+3. •for the treatment of patients with primary dysbetalipoproteinemia (Fredrickson Type III) who do not respond adequately to diet.
+4. •as an adjunct to diet and lifestyle modification for treatment of heterozygous familial hypercholesterolemia (HeFH) in children and adolescent patients ages 8 years and older if after an adequate trial of diet the following findings are present:
+5. a. LDL-C remains ≥ 190 mg/dL or
+6. b. LDL-C remains ≥ 160 mg/dL and:
+   1. •there is a positive family history of premature cardiovascular disease (CVD) or
+   2. •two or more other CVD risk factors are present in the patient.
 
 ## 1.3 Limitations of Use
 
-Pravastatin sodium tablets USP have not been studied in conditions where the major lipoprotein abnormality is elevation of chylomicrons (Fredrickson Types I and V).
+Pravastatin sodium tablets have not been studied in conditions where the major lipoprotein abnormality is elevation of chylomicrons (Fredrickson Types I and V).
