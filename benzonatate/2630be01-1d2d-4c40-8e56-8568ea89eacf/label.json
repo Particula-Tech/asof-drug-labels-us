@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA081297"
+  ],
+  "inn": "benzonatate",
+  "labeler": "Bionpharma Inc.",
+  "package_ndcs": [
+    "69452-143-20",
+    "69452-143-30",
+    "69452-144-20",
+    "69452-144-30"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "benzonatate",
+      "name": "Benzonatate"
+    }
+  ],
+  "setid": "2630be01-1d2d-4c40-8e56-8568ea89eacf",
+  "source": "dailymed"
+}
