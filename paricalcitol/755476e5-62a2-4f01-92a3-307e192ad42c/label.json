@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA202539"
+  ],
+  "inn": "paricalcitol",
+  "labeler": "Bionpharma Inc.",
+  "package_ndcs": [
+    "69452-145-13",
+    "69452-146-13",
+    "69452-147-13"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "paricalcitol",
+      "name": "Paricalcitol"
+    }
+  ],
+  "setid": "755476e5-62a2-4f01-92a3-307e192ad42c",
+  "source": "dailymed"
+}
