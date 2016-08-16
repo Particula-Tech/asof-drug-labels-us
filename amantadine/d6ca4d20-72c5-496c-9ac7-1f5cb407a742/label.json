@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA078720"
+  ],
+  "inn": "amantadine",
+  "labeler": "Bionpharma Inc.",
+  "package_ndcs": [
+    "69452-142-20",
+    "69452-142-30"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, LIQUID FILLED",
+      "generic": "amantadine hydrochloride",
+      "name": "Amantadine HCl"
+    }
+  ],
+  "setid": "d6ca4d20-72c5-496c-9ac7-1f5cb407a742",
+  "source": "dailymed"
+}
