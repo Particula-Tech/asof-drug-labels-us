@@ -170,8 +170,8 @@ GAVIS Pharmaceuticals, LLC
 
 Somerset, NJ 08873
 
-Iss.
-01/2016
+Rev.
+06/2016
 
 Instructions for Use
 
@@ -221,7 +221,8 @@ Step 2.
 Remove the blister from the Zolpidem Tartrate Sublingual Tablet pouch you placed by your bed (see Figure D).
 
 Step 3.
-Peel off the top layer of paper and push Zolpidem Tartrate Sublingual Tablet from other side (see Figure E).
+Cut blister with scissors at dotted line and take the Zolpidem Tartrate Sublingual Tablet out.
+(see Figure E).
 
 Step 4.
 Leave the empty Zolpidem Tartrate Sublingual Tablet pouch where you can see it.
@@ -256,7 +257,7 @@ GAVIS Pharmaceuticals, LLC
 
 Somerset, NJ 08873
 
-PI7610000201
+PI7610000202
 
-Iss.
-01/2016
+Rev.
+06/2016
