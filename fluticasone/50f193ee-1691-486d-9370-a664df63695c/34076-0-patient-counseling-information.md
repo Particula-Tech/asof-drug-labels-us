@@ -37,7 +37,7 @@ Physicians should closely follow the growth of children and adolescents taking c
 
 Ocular Effects: Advise patients that long-term use of inhaled corticosteroids may increase the risk of some eye problems (cataracts or glaucoma); consider regular eye examinations.
 
-Hypersensitivity Reactions Including Anaphylaxis:Advise patients that hypersensitivity reactions (e.g., urticaria, flushing, allergic dermatitis, bronchospasm), including anaphylaxis, may occur after administration of ARNUITY ELLIPTA.
+Hypersensitivity Reactions Including Anaphylaxis: Advise patients that hypersensitivity reactions (e.g., urticaria, flushing, allergic dermatitis, bronchospasm), including anaphylaxis, may occur after administration of ARNUITY ELLIPTA.
 Instruct patients to discontinue ARNUITY ELLIPTA if such reactions occur.
 There have been reports of anaphylactic reactions in patients with severe milk protein allergy after inhalation of other powder medications containing lactose; therefore, patients with severe milk protein allergy should not use ARNUITY ELLIPTA.
 

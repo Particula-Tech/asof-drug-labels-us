@@ -20,8 +20,8 @@ Made in Singapore
 
 ©2014, the GSK group of companies
 
-10000000127598 Rev.
-9/14
+1. 10000000127598 Rev.
+   9/14
 
 PRINCIPAL DISPLAY PANEL
 
@@ -45,5 +45,5 @@ Made in Singapore
 
 ©2014, the GSK group of companies
 
-10000000127628 Rev.
-10/14
+1. 10000000127628 Rev.
+   10/14

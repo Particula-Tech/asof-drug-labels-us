@@ -100,18 +100,18 @@ ARNUITY ELLIPTA can cause serious side effects, including:
   This can happen when you stop taking oral corticosteroid medicines (such as prednisone) and start taking a medicine containing an inhaled corticosteroid (such as ARNUITY ELLIPTA).
   When your body is under stress from fever, trauma (such as a car accident), infection, surgery, or worse asthma symptoms, adrenal insufficiency can get worse and may cause death.
 - Symptoms of adrenal insufficiency include:
-  1. •feeling tired
-  2. •lack of energy
-  3. •weakness
-  4. •nausea and vomiting
-  5. •low blood pressure
+  1. 1.feeling tired
+  2. 2.lack of energy
+  3. 3.weakness
+  4. 4.nausea and vomiting
+  5. 5.low blood pressure
 - •sudden breathing problems immediately after inhaling your medicine
 - •serious allergic reactions.
   Call your healthcare provider or get emergency medical care if you get any of the following symptoms of a serious allergic reaction:
-  - •rash
-  - •hives
-  - •swelling of your face, mouth, and tongue
-  - •breathing problems
+  - 6.rash
+  - 7.hives
+  - 8.swelling of your face, mouth, and tongue
+  - 9.breathing problems
 - •bone thinning or weakness (osteoporosis)
 - •slow growth in adolescents.
   An adolescent’s growth should be checked often.
