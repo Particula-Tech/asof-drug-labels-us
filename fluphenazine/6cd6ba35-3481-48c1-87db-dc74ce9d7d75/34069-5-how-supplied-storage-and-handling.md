@@ -20,8 +20,9 @@ Protect from light.
 
 Dispense in a tight, light-resistant container as defined in the USP with a child-resistant closure.
 
-Manufactured by: Lannett Company, Inc. Philadelphia, PA 19136
+Distributed by: Lannett Company, Inc. Philadelphia, PA 19136
 
 Made in the USA
 
-Revised 11/11, Revision 1 10-980
+CIB70359B Rev.
+05/16
