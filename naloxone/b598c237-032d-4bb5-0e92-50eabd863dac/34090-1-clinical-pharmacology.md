@@ -3,7 +3,7 @@
 Naloxone prevents or reverses the effects of opioids including respiratory depression, sedation and hypotension.
 Also, it can reverse the psychotomimetic and dysphoric effects of agonist-antagonists such as pentazocine.
 
-Naloxone is an essentially pure opioid antagonist, i.e., it does not possess the “agonistic” or morphine-like properties characteristic of other opioid antagonists.
+Naloxone is an essentially pure opioid antagonist, i.e., it does not possess the "agonistic" or morphine-like properties characteristic of other opioid antagonists.
 When administered in usual doses in the absence of opioids or agonistic effects of other opioid antagonists, it exhibits essentially no pharmacologic activity.
 
 Naloxone has not been shown to produce tolerance or cause physical or psychological dependence.

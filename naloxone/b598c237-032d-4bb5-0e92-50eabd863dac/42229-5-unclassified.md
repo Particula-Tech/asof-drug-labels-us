@@ -28,7 +28,7 @@ Intramuscular or subcutaneous administration may be necessary if the intravenous
 
 Postoperative Opioid-Induced Depression.
 For the partial reversal of opioid depression following the use of opioids during surgery, smaller doses of naloxone hydrochloride are usually sufficient.
-The dose of naloxone hydrochloride should be titrated according to the patient’s response.
+The dose of naloxone hydrochloride should be titrated according to the patient's response.
 For the initial reversal of respiratory depression, naloxone hydrochloride should be injected in increments of 0.1 to 0.2 mg intravenously at two to three minute intervals to the desired degree of reversal, i.e., adequate ventilation and alertness without significant pain or discomfort.
 Larger than necessary dosage of naloxone may result in significant reversal of analgesia and increase in blood pressure.
 Similarly, too rapid reversal may induce nausea, vomiting, sweating or circulatory stress.
