@@ -18,8 +18,9 @@ Rx only
 
 Important: Read accompanying directions carefully.
 
-GlaxoSmithKline
+Made in Canada
 
-©2009, GlaxoSmithKline
+©2015 the GSK group of companies
 
-A067126
+1. 10000000138823 Rev.
+   11/15
