@@ -14,4 +14,4 @@ In the event of overdose, antitoxin raised against botulinum toxin is available 
 However, the antitoxin will not reverse any botulinum toxin-induced effects already apparent by the time of antitoxin administration.
 In the event of suspected or actual cases of botulinum toxin poisoning, please contact your local or state Health Department to process a request for antitoxin through the CDC.
 If you do not receive a response within 30 minutes, please contact the CDC directly at 770-488-7100.
-More information can be obtained at http://www.cdc.gov/ncidod/srp/drugs/drug- service.html.
+More information can be obtained at http://www.cdc.gov/ncidod/srp/drugs/drug-service.html.

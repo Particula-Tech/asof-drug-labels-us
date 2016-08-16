@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise patients to read the FDA-approved patient labelling (Medication Guide).
+Advise the patient to read the FDA-approved patient labelling (Medication Guide).
 
 Advise patients to inform their doctor or pharmacist if they develop any unusual symptoms (including difficulty with swallowing, speaking or breathing), or if any known symptom persists or worsens.
 

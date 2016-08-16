@@ -10,14 +10,14 @@ They are not interchangeable with other preparations of botulinum toxin products
 Post-marketing safety data from DYSPORT® and other approved botulinum toxins suggest that botulinum toxin effects may, in some cases, be observed beyond the site of local injection.
 The symptoms are consistent with the mechanism of action of botulinum toxin and may include asthenia, generalized muscle weakness, diplopia, blurred vision, ptosis, dysphagia, dysphonia, dysarthria, urinary incontinence and breathing difficulties.
 These symptoms have been reported hours to weeks after injection.
-Swallowing and breathing difficulties can be life threatening and there have been reports of death related to spread of toxin effects.
-The risk of the symptoms is probably greatest in children treated for spasticity but symptoms can also occur in adults treated for spasticity and other conditions, and particularly in those patients who have underlying conditions that would predispose them to these symptoms.
-In unapproved uses, including spasticity in children and in approved indications, symptoms consistent with spread of toxin effect have been reported at doses comparable to or lower than the maximum recommended total dose.
+Swallowing and breathing difficulties can be life-threatening and there have been reports of death related to spread of toxin effects.
+The risk of symptoms is probably greatest in children treated for spasticity but symptoms can also occur in adults treated for spasticity and other conditions, particularly in those patients who have underlying conditions that would predispose them to these symptoms.
+In unapproved uses, including upper limb spasticity in children and approved indications, symptoms consistent with spread of toxin effect have been reported at doses comparable to or lower than the maximum recommended total dose [see Use in Specific Populations (8.4)].
 
 ## 5.3 Dysphagia and Breathing Difficulties
 
 Treatment with DYSPORT® and other botulinum toxin products can result in swallowing or breathing difficulties.
-Patients with pre- existing swallowing or breathing difficulties may be more susceptible to these complications.
+Patients with pre-existing swallowing or breathing difficulties may be more susceptible to these complications.
 In most cases, this is a consequence of weakening of muscles in the area of injection that are involved in breathing or swallowing.
 When distant effects occur, additional respiratory muscles may be involved [see Warnings and Precautions (5.2)].
 
@@ -34,7 +34,7 @@ These reactions can occur within hours to weeks after injection with botulinum t
 
 ## 5.4 Facial Anatomy in the Treatment of Glabellar Lines
 
-Caution should be exercised when administering DYSPORT® to patients with surgical alterations to the facial anatomy, excessive weakness or atrophy in the target muscle(s), marked facial asymmetry, inflammation at the injection site(s), ptosis, excessive dermatochalasis, deep dermal scarring, thick sebaceous skin [see Dosage and Administration (2.3] or the inability to substantially lessen glabellar lines by physically spreading them apart [see Clinical Studies (14.2)].
+Caution should be exercised when administering DYSPORT® to patients with surgical alterations to the facial anatomy, excessive weakness or atrophy in the target muscle(s), marked facial asymmetry, inflammation at the injection site(s), ptosis, excessive dermatochalasis, deep dermal scarring, thick sebaceous skin [see Dosage and Administration (2.3)] or the inability to substantially lessen glabellar lines by physically spreading them apart [see Clinical Studies (14.2)].
 
 Do not exceed the recommended dosage and frequency of administration of DYSPORT®.
 In clinical trials, subjects who received a higher dose of DYSPORT® had an increased incidence of eyelid ptosis.
