@@ -9,24 +9,16 @@ The patient should avoid prolonged exposure to sunlight or other forms of ultrav
 
 # PRECAUTIONS
 
-## General
+General: There is a possibility of increased absorption through ulcerated or inflamed skin.
 
-There is a possibility of increased absorption through ulcerated or inflamed skin.
-
-## Information for patients
-
-The medication should be applied with care near the eyes, nose, and mouth.
+Information for patients: The medication should be applied with care near the eyes, nose, and mouth.
 Excessive reaction in these areas may occur due to irritation from accumulation of drug.
 FLUOROPLEX® Cream is applied with the fingers, and the hands should be washed immediately afterward.
 The reaction to FLUOROPLEX® Cream in treated areas may be unsightly during therapy, and, in some cases, for several weeks following cessation of therapy.
 
-## Laboratory Tests
+Laboratory Tests: To rule out the presence of a frank neoplasm, a biopsy should be made of those areas failing to respond to treatment or recurring after treatment.
 
-To rule out the presence of a frank neoplasm, a biopsy should be made of those areas failing to respond to treatment or recurring after treatment.
-
-## Carcinogenesis, mutagenesis, impairment of fertility
-
-Adequate long-term studies in animals to evaluate carcinogenic potential have not been conducted with fluorouracil.
+Carcinogenesis, mutagenesis, impairment of fertility: Adequate long-term studies in animals to evaluate carcinogenic potential have not been conducted with fluorouracil.
 In three in-vitro cell transformation assays, fluorouracil produced morphological transformation of cells.
 Morphological transformation was also produced in one of these in-vitro assays by a metabolite of fluorouracil and the transformed cells produced malignant tumors when injected into immunosuppressed syngeneic mice.
 Fluorouracil has been shown to exert mutagenic acitivity in the yeast cells, Bacillus subtilis and Drosophila assays.
@@ -37,22 +29,12 @@ In mice, single-dose intravenous and intraperitoneal injections of fluorouracil 
 
 Fluorouracil was negative in the dominant lethal mutation assay performed in mice.
 
-## Pregnancy
-
-### Teratogenic Effects
-
-#### Pregnancy Category X
-
-Fluorouracil may cause fetal harm when administered to a pregnant woman.
+Pregnancy: Teratogenic Effects: Pregnancy Category X: Fluorouracil may cause fetal harm when administered to a pregnant woman.
 Fluorouracil administered parenterally has been shown to be teratogenic in mice, rats and hamsters, and embryolethal in monkeys.
 Fluorouracil is contraindicated in women who are or may become pregnant.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
 
-## Nursing mothers
-
-It is not known whether this drug is excreted in human milk.
+Nursing mothers: It is not known whether this drug is excreted in human milk.
 Because many drugs are excreted in human milk, and because there is some systemic absorption of fluorouracil after topical administration (see PRECAUTIONS: General), mothers should not nurse their infants while receiving this drug.
 
-## Pediatric use
-
-Safety and effectiveness in pediatric patients have not been established.
+Pediatric use: Safety and effectiveness in pediatric patients have not been established.
