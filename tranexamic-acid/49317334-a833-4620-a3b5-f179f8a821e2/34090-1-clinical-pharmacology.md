@@ -13,7 +13,7 @@ Although plasmin may be formed by conformational changes in plasminogen, binding
 
 ## 12.2 Pharmacodynamics
 
-Tranexamic acid, at in vitro concentrations of 25 - 100 μM, reduces by 20 - 60% the maximal rate of plasmin lysis of fibrin catalyzed by tissue plasminogen activator (tPA).
+Tranexamic acid, at in vitro concentrations of 25 - 100 µM, reduces by 20 - 60% the maximal rate of plasmin lysis of fibrin catalyzed by tissue plasminogen activator (tPA).
 
 Elevated concentrations of endometrial, uterine, and menstrual blood tPA are observed in women with heavy menstrual bleeding (HMB) compared to women with normal menstrual blood loss.
 The effect of tranexamic acid on lowering endometrial tPA activity and menstrual fluid fibrinolysis is observed in women with HMB receiving tranexamic acid total oral doses of 2-3 g/day for 5 days.

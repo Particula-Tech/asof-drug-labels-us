@@ -6,7 +6,6 @@ Each tablet is debossed with the marking "FP650" and are supplied as:
 | Quantity | Package Type | NDC Number |
 | --- | --- | --- |
 | 30 tablets | HDPE bottle | 55566-2110-2 |
-| 100 tablets | HDPE bottle | 55566-2110-1 |
 
 Storage
 

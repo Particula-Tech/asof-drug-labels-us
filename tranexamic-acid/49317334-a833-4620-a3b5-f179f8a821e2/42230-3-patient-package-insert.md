@@ -139,4 +139,4 @@ Manufactured for: Ferring Pharmaceuticals Inc. Parsippany, NJ 07054
 By: Mikart, Inc. Atlanta, GA 30318
 
 Rev.
-03/2016 6540-05
+08/2016 6540-05
