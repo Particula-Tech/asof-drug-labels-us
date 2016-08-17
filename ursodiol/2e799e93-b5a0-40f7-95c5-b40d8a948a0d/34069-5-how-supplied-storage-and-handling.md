@@ -8,6 +8,11 @@ Store at 20°-25° C (68° -77° F) [See USP Controlled Room Temperature].
 
 Dispense in a well-closed container as defined in the USP with a child-resistant closure.
 
-Manufactured by: Lannett Company, Inc. Philadelphia, PA 19136
+Distributed by: Lannett Company, Inc. Philadelphia, PA 19136
 
-Revised: 10/08
+Made in the USA
+
+CIB70329B
+
+Rev.
+04/16
