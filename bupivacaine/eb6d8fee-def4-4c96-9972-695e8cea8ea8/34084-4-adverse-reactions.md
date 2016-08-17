@@ -5,7 +5,7 @@ A major cause of adverse reactions to this group of drugs is excessive plasma le
 
 The most commonly encountered acute adverse experiences which demand immediate counter-measures are related to the central nervous system and the cardiovascular system.
 These adverse experiences are generally dose related and due to high plasma levels which may result from overdosage, rapid absorption from the injection site, diminished tolerance, or from unintentional intravascular injection of the local anesthetic solution.
-In addition to systemic dose-related toxicity, unintentional subarachnoid injection of drug during the intended performance of caudal or lumbar epidural block or nerve blocks near the vertebral column (especially in the head and neck region) may result in underventilation or apnea(“Total or High Spinal”).
+In addition to systemic dose-related toxicity, unintentional subarachnoid injection of drug during the intended performance of caudal or lumbar epidural block or nerve blocks near the vertebral column (especially in the head and neck region) may result in underventilation or apnea (“Total or High Spinal”).
 Also, hypotension due to loss of sympathetic tone and respiratory paralysis or underventilation due to cephalad extension of the motor level of anesthesia may occur.
 This may lead to secondary cardiac arrest if untreated.
 Patients over 65 years, particularly those with hypertension, may be at increased risk for experiencing the hypotensive effects of bupivacaine.
@@ -24,7 +24,7 @@ In a survey of studies of epidural anesthesia, overt toxicity progressing to con
 
 ## Cardiovascular System Reactions
 
-High doses or unintentional intravascular injection may lead to high plasma levels and related depression of the myocardium, decreased cardiac output, heartblock, hypotension, bradycardia, ventricular arrhythmias, including ventricular tachycardia and ventricular fibrillation, and cardiac arrest(see WARNINGS, PRECAUTIONS, and OVERDOSAGE).
+High doses or unintentional intravascular injection may lead to high plasma levels and related depression of the myocardium, decreased cardiac output, heartblock, hypotension, bradycardia, ventricular arrhythmias, including ventricular tachycardia and ventricular fibrillation, and cardiac arrest (see WARNINGS, PRECAUTIONS, and OVERDOSAGE).
 
 ## Allergic
 

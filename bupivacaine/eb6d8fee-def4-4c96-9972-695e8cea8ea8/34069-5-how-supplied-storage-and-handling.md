@@ -44,8 +44,10 @@ Without Epinephrine:
 | 460557 | 63323-465-57 | 0.25% | 50 mL Multiple Dose Vials packaged in trays of twenty-five. |
 | 460757 | 63323-467-57 | 0.5% | 50 mL Multiple Dose Vials packaged in trays of twenty-five. |
 
-Solutions should be stored at 20° to 25°C(68° to 77°F) [see USP Controlled Room Temperature].
+Solutions should be stored at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
 Solutions containing epinephrine should be protected from light.
 
-All trademarks are the property of Fresenius Kabi USA, LLC.
+The injection is not to be used if its color is pinkish or darker than slightly yellow or if it contains a precipitate.
+
+All trademarks are the property of Fresenius Kabi.
