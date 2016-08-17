@@ -14,7 +14,7 @@ There also have been no studies to determine mutagenicity or whether this medica
 
 ### Teratogenic Effects
 
-#### Pregnancy category C
+#### Pregnancy Category C
 
 Animal reproduction studies have not been conducted with nystatin.
 It is also not known whether nystatin can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.

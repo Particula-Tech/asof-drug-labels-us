@@ -1,9 +1,9 @@
 # DESCRIPTION
 
-Nystatin is an antimycotic polyene antibiotic obtained from Streptomyces noursei.
+Nystatin, USP is an antimycotic polyene antibiotic obtained from Streptomyces noursei.
 Its structural formula:
 
-C 47H75NO17 M.W.
-926.13
+1. C47H75NO17 M.W.
+   926.13
 
-Nystatin tablets contain the inactive ingredients: Corn Starch, Povidone, Compressible Sugar, Microcrystalline Cellulose, Sodium Starch Glycolate, Talc, Magnesium Stearate, Purified Water, and Coloring.
+Nystatin Tablets USP contain the inactive ingredients: Corn Starch, Povidone, Compressible Sugar, Microcrystalline Cellulose, Sodium Starch Glycolate, Talc, Magnesium Stearate, Purified Water, and Coloring.
