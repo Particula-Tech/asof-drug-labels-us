@@ -19,7 +19,7 @@ LOT
 
 EXP
 
-# PRINCIPAL DISPLAY PANEL - 5—1 mL Ampoule Package
+# PRINCIPAL DISPLAY PANEL - 5—1 mL Ampoule Carton
 
 NDC 0009-3169-06 Contains 5 of NDC 0009-3169-01
 
