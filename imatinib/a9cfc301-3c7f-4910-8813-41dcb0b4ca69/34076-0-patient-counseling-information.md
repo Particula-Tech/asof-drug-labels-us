@@ -10,7 +10,7 @@ Advise patients to take imatinib mesylate with a meal and a large glass of water
 Pregnancy and Breastfeeding
 
 Advise patients to inform their doctor if they are or think they may be pregnant.
-Advise women of reproductive potential should to avoid becoming pregnant while taking imatinib mesylate.
+Advise women of reproductive potential to avoid becoming pregnant while taking imatinib mesylate.
 Sexually active female patients taking imatinib mesylate should use highly effective contraception.
 Avoid breastfeeding while taking imatinib mesylate.
 
@@ -35,18 +35,8 @@ Driving and Using Machines
 Advise patients that they may experience undesirable effects such as dizziness, blurred vision or somnolence during treatment with imatinib mesylate.
 Therefore, caution patients about driving a car or operating machinery.
 
-Manufactured In Israel By:
-
-Teva Pharmaceutical Ind.
-Ltd.
-
-Jerusalem, 9777402, Israel
-
-Manufactured For:
-
-Teva Pharmaceuticals USA, Inc.
-
-North Wales, PA 19454
+Manufactured In Israel By: Teva Pharmaceutical Ind.
+Ltd. Jerusalem, 9777402, Israel Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-F 6/2016
+G 8/2016

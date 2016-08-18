@@ -171,7 +171,7 @@ Table 5 Laboratory Abnormalities in Newly Diagnosed CML Clinical Trial (Imatinib
 | −Elevated Alkaline Phosphatase | 0.2 | 0 | 0.8 | 0 |
 | −Elevated SGOT/SGPT | 4.7 | 0.5 | 7.1 | 0.4 |
 
-Table 6 Percent Incidence of Clinically Relevant Grade 3/4NCI Common Terminology Criteria for Adverse Events, version 3.0Laboratory Abnormalities in the Newly Diagnosed CML Clinical Trial (Imatinib Mesylate versus nilotinib)
+Table 6 Percent Incidence of Clinically Relevant Grade 3/4NCI Common Terminology Criteria for Adverse Events, version 3.0 Laboratory Abnormalities in the Newly Diagnosed CML Clinical Trial (Imatinib Mesylate versus nilotinib)
 
 |  | Imatinib Mesylate400 mg once-daily | nilotinib 300 mg twice-daily |
 | --- | --- | --- |
@@ -196,7 +196,7 @@ Table 6 Percent Incidence of Clinically Relevant Grade 3/4NCI Common Terminology
 | Elevated alkaline phosphatase | < 1 | 0 |
 | Elevated creatinine | < 1 | 0 |
 
-Table 7 Laboratory Abnormalities in Other CML Clinical Trials
+- Table 7 Laboratory Abnormalities in Other CML Clinical Trials
 
 |  | Myeloid Blast Crisis(n = 260)600 mg n = 223400 mg n = 37% |  | Accelerated Phase(n = 235)600 mg n = 158400 mg n = 77% |  | Chronic Phase, IFN Failure(n = 532)400 mg% |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -217,8 +217,6 @@ Hepatotoxicity
 Severe elevation of transaminases or bilirubin occurred in approximately 5% of CML patients (see Tables 6 and 7) and were usually managed with dose reduction or interruption (the median duration of these episodes was approximately 1 week).
 Treatment was discontinued permanently because of liver laboratory abnormalities in less than 1.0% of CML patients.
 One patient, who was taking acetaminophen regularly for fever, died of acute liver failure.
-In the Phase 2 GIST trial, Grade 3 or 4 SGPT (ALT) elevations were observed in 6.8% of patients and Grade 3 or 4 SGOT (AST) elevations were observed in 4.8% of patients.
-Bilirubin elevation was observed in 2.7% of patients.
 
 ## 6.2 Adverse Reactions in Pediatric Population
 
@@ -306,141 +304,6 @@ Table 11 Laboratory Abnormalities Reported in DFSP Patients in the Phase 2 Study
 | – Neutropenia | 0 | 8 |
 | Biochemistry Parameters |  |  |
 | – Elevated Creatinine | 0 | 8 |
-
-1. 1.CTC Grades: neutropenia (Grade 3 ≥ 0.5 to 1.0 x 109/L, Grade 4 < 0.5 x 109/L), thrombocytopenia (Grade 3 ≥ 10 to 50 x 109/L, Grade 4 < 10 x 109/L), anemia (Grade 3 ≥ 65 to 80 g/L, Grade 4 < 65 g/L), elevated creatinine (Grade 3 > 3 to 6 x upper limit normal range [ULN], Grade 4 > 6 x ULN)
-
-## 6.9 Gastrointestinal Stromal Tumors
-
-Adjuvant Treatment of GIST
-
-In Study 1, the majority of both imatinib mesylate and placebo treated patients experienced at least one adverse reaction at some time.
-The most frequently reported adverse reactions were similar to those reported in other clinical studies in other patient populations and include diarrhea, fatigue, nausea, edema, decreased hemoglobin, rash, vomiting, and abdominal pain.
-No new adverse reactions were reported in the adjuvant GIST treatment setting that had not been previously reported in other patient populations.
-Drug was discontinued for adverse reactions in 57 patients (17%) and 11 patients (3%) of the imatinib mesylate and placebo treated patients respectively.
-Edema, gastrointestinal disturbances (nausea, vomiting, abdominal distention and diarrhea), fatigue, low hemoglobin, and rash were the most frequently reported adverse reactions at the time of discontinuation.
-
-In Study 2, discontinuation of therapy due to adverse reactions occurred in 15 patients (8%) and 27 patients (14%) of the imatinib mesylate 12-month and 36-month treatment arms, respectively.
-As in previous trials the most common adverse reactions were diarrhea, fatigue, nausea, edema, decreased hemoglobin, rash, vomiting, and abdominal pain.
-
-Adverse reactions, regardless of relationship to study drug, that were reported in at least 5% of the patients treated with imatinib mesylate are shown in Table 14 (Study 1) and Table 15 (Study 2).
-There were no deaths attributable to imatinib mesylate treatment in either trial.
-
-| Table 14: Adverse Reactions Regardless of Relationship to Study Drug Reported in Study 1 (≥ 5% of Imatinib Mesylate Treated Patients)All adverse reactions occurring in ≥ 5% of patients are listed regardless of suspected relationship to treatment. A patient with multiple occurrences of an adverse reaction is counted only once in the adverse reaction category. |  |  |  |  |
-| --- | --- | --- | --- | --- |
-|  | All CTC Grades |  | CTC Grade 3 and above |  |
-|  | Imatinib Mesylate | Placebo | Imatinib Mesylate | Imatinib Mesylate |
-|  | (n = 337) | (n = 345) | (n = 337) | (n = 345) |
-| Preferred Term | % | % | % | % |
-| Diarrhea | 59.3 | 29.3 | 3.0 | 1.4 |
-| Fatigue | 57.0 | 40.9 | 2.1 | 1.2 |
-| Nausea | 53.1 | 27.8 | 2.4 | 1.2 |
-| Periorbital Edema | 47.2 | 14.5 | 1.2 | 0 |
-| Hemoglobin Decreased | 46.9 | 27.0 | 0.6 | 0 |
-| Peripheral Edema | 26.7 | 14.8 | 0.3 | 0 |
-| Rash (Exfoliative) | 26.1 | 12.8 | 2.7 | 0 |
-| Vomiting | 25.5 | 13.9 | 2.4 | 0.6 |
-| Abdominal Pain | 21.1 | 22.3 | 3.0 | 1.4 |
-| Headache | 19.3 | 20.3 | 0.6 | 0 |
-| Dyspepsia | 17.2 | 13.0 | 0.9 | 0 |
-| Anorexia | 16.9 | 8.7 | 0.3 | 0 |
-| Weight Increased | 16.9 | 11.6 | 0.3 | 0 |
-| Liver enzymes (ALT) Increased | 16.6 | 13.0 | 2.7 | 0 |
-| Muscle spasms | 16.3 | 3.3 | 0 | 0 |
-| Neutrophil Count Decreased | 16.0 | 6.1 | 3.3 | 0.9 |
-| Arthralgia | 15.1 | 14.5 | 0 | 0.3 |
-| White Blood Cell Count Decreased | 14.5 | 4.3 | 0.6 | 0.3 |
-| Constipation | 12.8 | 17.7 | 0 | 0.3 |
-| Dizziness | 12.5 | 10.7 | 0 | 0.3 |
-| Liver Enzymes (AST) Increased | 12.2 | 7.5 | 2.1 | 0 |
-| Myalgia | 12.2 | 11.6 | 0 | 0.3 |
-| Blood Creatinine Increased | 11.6 | 5.8 | 0 | 0.3 |
-| Cough | 11.0 | 11.3 | 0 | 0 |
-| Pruritus | 11.0 | 7.8 | 0.9 | 0 |
-| Weight Decreased | 10.1 | 5.2 | 0 | 0 |
-| Hyperglycemia | 9.8 | 11.3 | 0.6 | 1.7 |
-| Insomnia | 9.8 | 7.2 | 0.9 | 0 |
-| Lacrimation Increased | 9.8 | 3.8 | 0 | 0 |
-| Alopecia | 9.5 | 6.7 | 0 | 0 |
-| Flatulence | 8.9 | 9.6 | 0 | 0 |
-| Rash | 8.9 | 5.2 | 0.9 | 0 |
-| Abdominal Distension | 7.4 | 6.4 | 0.3 | 0.3 |
-| Back Pain | 7.4 | 8.1 | 0.6 | 0 |
-| Pain in Extremity | 7.4 | 7.2 | 0.3 | 0 |
-| Hypokalemia | 7.1 | 2.0 | 0.9 | 0.6 |
-| Depression | 6.8 | 6.4 | 0.9 | 0.6 |
-| Facial Edema | 6.8 | 1.2 | 0.3 | 0 |
-| Blood Alkaline Phosphatase Increased | 6.5 | 7.5 | 0 | 0 |
-| Dry skin | 6.5 | 5.2 | 0 | 0 |
-| Dysgeusia | 6.5 | 2.9 | 0 | 0 |
-| Abdominal Pain Upper | 6.2 | 6.4 | 0.3 | 0 |
-| Neuropathy Peripheral | 5.9 | 6.4 | 0 | 0 |
-| Hypocalcemia | 5.6 | 1.7 | 0.3 | 0 |
-| Leukopenia | 5.0 | 2.6 | 0.3 | 0 |
-| Platelet Count Decreased | 5.0 | 3.5 | 0 | 0 |
-| Stomatitis | 5.0 | 1.7 | 0.6 | 0 |
-| Upper Respiratory Tract Infection | 5.0 | 3.5 | 0 | 0 |
-| Vision Blurred | 5.0 | 2.3 | 0 | 0 |
-
-| Table 15: Adverse Reactions Regardless of Relationship to Study Drug by Preferred Term All Grades and 3/4 Grades (≥ 5% of Imatinib Mesylate Treated Patients) Study 2All adverse reactions occurring in ≥ 5% of patients are listed regardless of suspected relationship to treatment. A patient with multiple occurrences of an adverse reaction is counted only once in the adverse reaction category. |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| Preferred Term | All CTC Grades |  | CTC Grades 3 and above |  |
-|  | Imatinib Mesylate | Imatinib Mesylate | Imatinib Mesylate | Imatinib Mesylate |
-|  | 12 Months | 36 Months | 12 Months | 36 Months |
-|  | (n = 194) | (n = 198) | (n = 194) | (n = 198) |
-|  | % | % | % | % |
-| Patients with at least one AE | 99.0 | 100.0 | 20.1 | 32.8 |
-| Hemoglobin decreased | 72.2 | 80.3 | 0.5 | 0.5 |
-| Periorbital edema | 59.3 | 74.2 | 0.5 | 1.0 |
-| Blood lactate dehydrogenase increased | 43.3 | 60.1 | 0 | 0 |
-| Diarrhea | 43.8 | 54.0 | 0.5 | 2.0 |
-| Nausea | 44.8 | 51.0 | 1.5 | 0.5 |
-| Muscle spasms | 30.9 | 49.0 | 0.5 | 1.0 |
-| Fatigue | 48.5 | 48.5 | 1.0 | 0.5 |
-| White blood cell count decreased | 34.5 | 47.0 | 2.1 | 3.0 |
-| Pain | 25.8 | 45.5 | 1.0 | 3.0 |
-| Blood creatinine increased | 30.4 | 44.4 | 0 | 0 |
-| Edema peripheral | 33.0 | 40.9 | 0.5 | 1.0 |
-| Dermatitis | 29.4 | 38.9 | 2.1 | 1.5 |
-| Aspartate aminotransferase increased | 30.9 | 37.9 | 1.5 | 3.0 |
-| Alanine aminotransferase increased | 28.9 | 34.3 | 2.1 | 3.0 |
-| Neutrophil count decreased | 24.2 | 33.3 | 4.6 | 5.1 |
-| Hypoproteinemia | 23.7 | 31.8 | 0 | 0 |
-| Infection | 13.9 | 27.8 | 1.5 | 2.5 |
-| Weight increased | 13.4 | 26.8 | 0 | 0.5 |
-| Pruritus | 12.9 | 25.8 | 0 | 0 |
-| Flatulence | 19.1 | 24.7 | 1.0 | 0.5 |
-| Vomiting | 10.8 | 22.2 | 0.5 | 1.0 |
-| Dyspepsia | 17.5 | 21.7 | 0.5 | 1.0 |
-| Hypoalbuminemia | 11.9 | 21.2 | 0 | 0 |
-| Edema | 10.8 | 19.7 | 0 | 0.5 |
-| Abdominal distension | 11.9 | 19.2 | 0.5 | 0 |
-| Headache | 8.2 | 18.2 | 0 | 0 |
-| Lacrimation increased | 18.0 | 17.7 | 0 | 0 |
-| Arthralgia | 8.8 | 17.2 | 0 | 1.0 |
-| Blood alkaline phosphatase increased | 10.8 | 16.7 | 0 | 0.5 |
-| Dyspnea | 6.2 | 16.2 | 0.5 | 1.5 |
-| Myalgia | 9.3 | 15.2 | 0 | 1.0 |
-| Platelet count decreased | 11.3 | 14.1 | 0 | 0 |
-| Blood bilirubin increased | 11.3 | 13.1 | 0 | 0 |
-| Dysgeusia | 9.3 | 12.6 | 0 | 0 |
-| Paresthesia | 5.2 | 12.1 | 0 | 0.5 |
-| Vision blurred | 10.8 | 11.1 | 1.0 | 0.5 |
-| Alopecia | 11.3 | 10.6 | 0 | 0 |
-| Decreased appetite | 9.8 | 10.1 | 0 | 0 |
-| Constipation | 8.8 | 9.6 | 0 | 0 |
-| Pyrexia | 6.2 | 9.6 | 0 | 0 |
-| Depression | 3.1 | 8.1 | 0 | 0 |
-| Abdominal pain | 2.6 | 7.6 | 0 | 0 |
-| Conjunctivitis | 5.2 | 7.6 | 0 | 0 |
-| Photosensitivity reaction | 3.6 | 7.1 | 0 | 0 |
-| Dizziness | 4.6 | 6.6 | 0.5 | 0 |
-| Hemorrhage | 3.1 | 6.6 | 0 | 0 |
-| Dry skin | 6.7 | 6.1 | 0.5 | 0 |
-| Nasopharyngitis | 1.0 | 6.1 | 0 | 0.5 |
-| Palpitations | 5.2 | 5.1 | 0 | 0 |
-
-1. 1.All adverse reactions occurring in ≥ 5% of patients are listed regardless of suspected relationship to treatment.
-   A patient with multiple occurrences of an adverse reaction is counted only once in the adverse reaction category.
 
 ## 6.10 Additional Data from Multiple Clinical Trials
 

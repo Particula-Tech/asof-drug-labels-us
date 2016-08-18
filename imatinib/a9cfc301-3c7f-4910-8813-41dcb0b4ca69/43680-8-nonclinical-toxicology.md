@@ -8,6 +8,7 @@ Neoplastic lesions were not seen at: 30 mg/kg/day for the kidneys, urinary bladd
 The papilloma/carcinoma of the preputial/clitoral gland were noted at 30 and 60 mg/kg/day, representing approximately 0.5 to 4 or 0.3 to 2.4 times the human daily exposure (based on AUC) at 400 mg/day or 800 mg/day, respectively, and 0.4 to 3.0 times the daily exposure in children (based on AUC) at 340 mg/m2.
 The renal tubule adenoma/carcinoma, renal pelvis transitional cell neoplasms, the urinary bladder and urethra transitional cell papillomas, the small intestine adenocarcinomas, the parathyroid glands adenomas, the benign and malignant medullary tumors of the adrenal glands and the non-glandular stomach papillomas/carcinomas were noted at 60 mg/kg/day.
 The relevance of these findings in the rat carcinogenicity study for humans is not known.
+
 Positive genotoxic effects were obtained for imatinib in an in vitro mammalian cell assay (Chinese hamster ovary) for clastogenicity (chromosome aberrations) in the presence of metabolic activation.
 Two intermediates of the manufacturing process, which are also present in the final product, are positive for mutagenesis in the Ames assay.
 One of these intermediates was also positive in the mouse lymphoma assay.

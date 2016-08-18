@@ -8,12 +8,11 @@ Imatinib inhibits colony formation in assays using ex vivo peripheral blood and 
 
 In vivo, imatinib inhibits tumor growth of BCR-ABL transfected murine myeloid cells as well as BCR-ABL positive leukemia lines derived from CML patients in blast crisis.
 
-In vitro, imatinib inhibits proliferation and induces apoptosis in GIST cells, which express an activating c-kit mutation.
+Imatinib is also an inhibitor of the receptor tyrosine kinases for platelet-derived growth factor (PDGF) and stem cell factor (SCF), c-kit, and inhibits PDGF- and SCF-mediated cellular events.
 
 ## 12.3 Pharmacokinetics
 
 The pharmacokinetics of imatinib mesylate have been evaluated in studies in healthy subjects and in population pharmacokinetic studies in over 900 patients.
-The pharmacokinetics of imatinib mesylate are similar in CML and GIST patients.
 Imatinib is well absorbed after oral administration with Cmax achieved within 2 to 4 hours post-dose.
 Mean absolute bioavailability is 98%.
 Following oral administration in healthy volunteers, the elimination half-lives of imatinib and its major active metabolite, the N-demethyl derivative (CGP74588), are approximately 18 and 40 hours, respectively.

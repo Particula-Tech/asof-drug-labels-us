@@ -27,7 +27,3 @@ Adult patients with hypereosinophilic syndrome and/or chronic eosinophilic leuke
 ## 1.8 Dermatofibrosarcoma Protuberans (DFSP)
 
 Adult patients with unresectable, recurrent and/or metastatic dermatofibrosarcoma protuberans.
-
-## 1.10 Adjuvant Treatment of GIST
-
-Adjuvant treatment of adult patients following complete gross resection of Kit (CD117) positive GIST.

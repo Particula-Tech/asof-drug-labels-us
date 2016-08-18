@@ -8,7 +8,6 @@ An unexpected rapid weight gain should be carefully investigated and appropriate
 The probability of edema was increased with higher imatinib mesylate dose and age > 65 years in the CML studies.
 Severe superficial edema was reported in 1.5% of newly diagnosed CML patients taking imatinib mesylate, and in 2% to 6% of other adult CML patients taking imatinib mesylate.
 In addition, other severe fluid retention (e.g., pleural effusion, pericardial effusion, pulmonary edema, and ascites) reactions were reported in 1.3% of newly diagnosed CML patients taking imatinib mesylate, and in 2% to 6% of other adult CML patients taking imatinib mesylate.
-Severe fluid retention was reported in 9% to 13.1% of patients taking imatinib mesylate for GIST [see Adverse Reactions (6.9)].
 In a randomized trial in patients with newly diagnosed Ph+CML in chronic phase comparing imatinib mesylate and nilotinib, severe (Grade 3 or 4) fluid retention occurred in 2.5% of patients receiving imatinib mesylate and in 3.9% of patients receiving nilotinib 300 mg bid.
 Effusions (including pleural effusion, pericardial effusion, ascites) or pulmonary edema were observed in 2.1% (none were Grade 3 or 4) of patients in the imatinib mesylate arm and 2.2% (0.7% Grade 3 or 4) of patients in the nilotinib 300 mg bid arm.
 
@@ -57,6 +56,7 @@ There have been rare reports, including fatalities, of gastrointestinal perforat
 In patients with hypereosinophilic syndrome with occult infiltration of HES cells within the myocardium, cases of cardiogenic shock/left ventricular dysfunction have been associated with HES cell degranulation upon the initiation of imatinib mesylate therapy.
 The condition was reported to be reversible with the administration of systemic steroids, circulatory support measures and temporarily withholding imatinib mesylate.
 Myelodysplastic/ myeloproliferative disease and systemic mastocytosis may be associated with high eosinophil levels.
+
 Performance of an echocardiogram and determination of serum troponin should therefore be considered in patients with HES/CEL, and in patients with MDS/MPD or ASM associated with high eosinophil levels.
 If either is abnormal, the prophylactic use of systemic steroids (1 to 2 mg/kg) for one to two weeks concomitantly with imatinib mesylate should be considered at the initiation of therapy.
 
@@ -88,7 +88,7 @@ Therefore, close monitoring of growth in children under imatinib mesylate treatm
 
 ## 5.12 Tumor Lysis Syndrome
 
-Cases of Tumor Lysis Syndrome (TLS), including fatal cases, have been reported in patients with CML, GIST, ALL and eosinophilic leukemia receiving imatinib mesylate.
+Cases of Tumor Lysis Syndrome (TLS), including fatal cases, have been reported in patients with CML, ALL and eosinophilic leukemia receiving imatinib mesylate.
 The patients at risk of TLS are those with tumors having a high proliferative rate or high tumor burden prior to treatment.
 These patients should be monitored closely and appropriate precautions taken.
 Due to possible occurrence of TLS, correction of clinically significant dehydration and treatment of high uric acid levels are recommended prior to initiation of imatinib mesylate.

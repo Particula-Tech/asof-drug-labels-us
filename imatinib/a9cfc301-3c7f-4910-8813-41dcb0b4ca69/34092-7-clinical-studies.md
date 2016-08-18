@@ -255,6 +255,8 @@ Table 23 Response in ASM
 | D816V Mutation | 4 | 1Patient had concomitant CML and ASM (25) | 0% |
 | Total | 28 | 8 (29) | 9 (32%) |
 
+1. 1.Patient had concomitant CML and ASM
+
 Imatinib mesylate has not been shown to be effective in patients with less aggressive forms of systemic mastocytosis (SM).
 Imatinib mesylate is therefore not recommended for use in patients with cutaneous mastocytosis, indolent systemic mastocytosis (smoldering SM or isolated bone marrow mastocytosis), SM with an associated clonal hematological non-mast cell lineage disease, mast cell leukemia, mast cell sarcoma or extracutaneous mastocytoma.
 Patients that harbor the D816V mutation of c-Kit are not sensitive to imatinib mesylate and should not receive imatinib mesylate.
@@ -309,32 +311,3 @@ A further 3 patients achieved a partial response, for an overall response rate o
 Of the 8 patients with metastatic disease, five responded (62%), three of them completely (37%).
 For the 10 study patients with the PDGF B gene rearrangement there were 4 complete and 6 partial responses.
 The median duration of response in the phase 2 study was 6.2 months, with a maximum duration of 24.3 months, while in the published literature it ranged between 4 weeks and more than 20 months.
-
-## 14.9 Gastrointestinal Stromal Tumors
-
-Adjuvant Treatment of GIST In the adjuvant setting, imatinib mesylate was investigated in a multicenter, double-blind, placebo-controlled, randomized trial involving 713 patients (Study 1).
-Patients were randomized one to one to imatinib mesylate at 400 mg/day or matching placebo for 12 months.
-The ages of these patients ranged from 18 to 91 years.
-Patients were included who had a histologic diagnosis of primary GIST, expressing KIT protein by immunochemistry and a tumor size ≥ 3 cm in maximum dimension with complete gross resection of primary GIST within 14 to 70 days prior to registration.
-
-Recurrence-free survival (RFS) was defined as the time from date of randomization to the date of recurrence or death from any cause.
-In a planned interim analysis, the median follow up was 15 months in patients without a RFS event; there were 30 RFS events in the 12-month imatinib mesylate arm compared to 70 RFS events in the placebo arm with a hazard ratio of 0.398 (95% CI: 0.259, 0.610), p < 0.0001.
-After the interim analysis of RFS, 79 of the 354 patients initially randomized to the placebo arm were eligible to cross over to the 12-month imatinib mesylate arm.
-Seventy-two of these 79 patients subsequently crossed over to imatinib mesylate therapy.
-In an updated analysis, the median follow-up for patients without a RFS event was 50 months.
-There were 74 (21%) RFS events in the 12-month imatinib mesylate arm compared to 98 (28%) events in the placebo arm with a hazard ratio of 0.718 (95% CI: 0.531 to 0.971) (Figure 3).
-The median follow-up for OS in patients still living was 61 months.
-There were 26 (7%) and 33 (9%) deaths in the 12-month imatinib mesylate and placebo arms, respectively with a hazard ratio of 0.816 (95% CI: 0.488 to 1.365).
-
-A second randomized, multicenter, open-label, phase 3 trial in the adjuvant setting (Study 2) compared 12 months of imatinib mesylate treatment to 36 months of imatinib mesylate treatment at 400 mg/day in adult patients with KIT (CD117) positive GIST after surgical resection with one of the following: tumor diameter > 5 cm and mitotic count > 5/50 high power fields (HPF), or tumor diameter >10 cm and any mitotic count, or tumor of any size with mitotic count > 10/50 HPF, or tumors ruptured into the peritoneal cavity.
-There were a total of 397 patients randomized in the trial with 199 patients on the 12-month treatment arm and 198 patients on the 36-month treatment arm.
-The median age was 61 years (range 22 to 84 years).
-
-RFS was defined as the time from date of randomization to the date of recurrence or death from any cause.
-The median follow-up for patients without a RFS event was 42 months.
-There were 84 (42%) RFS events in the 12-month treatment arm and 50 (25%) RFS events in the 36-month treatment arm.
-Thirty-six months of imatinib mesylate treatment significantly prolonged RFS compared to 12 months of imatinib mesylate treatment with a hazard ratio of 0.46 (95% CI: 0.32, 0.65), p < 0.0001 (Figure 4).
-
-The median follow-up for overall survival (OS) in patients still living was 48 months.
-There were 25 (13%) deaths in the 12-month treatment arm and 12 (6%) deaths in the 36-month treatment arm.
-Thirty-six months of imatinib mesylate treatment significantly prolonged OS compared to 12 months of imatinib mesylate treatment with a hazard ratio of 0.45 (95% CI: 0.22, 0.89), p = 0.0187 (Figure 5).
