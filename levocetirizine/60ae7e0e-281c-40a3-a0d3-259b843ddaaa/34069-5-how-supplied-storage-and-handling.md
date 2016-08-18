@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Levocetirizine dihydrochloridetablets are white, oval, film coated biconvex tablets, one side embossed with ‘G’ breakline ‘G’ and the other side plain and contain 5 mg levocetirizine dihydrochloride.
+Levocetirizine dihydrochloridetablets are white, oval, film coated biconvex tablets, one side embossed with ‘G’ breakline ‘G’ and the other side plain and contains 5 mg levocetirizine dihydrochloride.
 They are supplied in HDPE bottles.
 
 90 tablets (NDC 68462-346-90)

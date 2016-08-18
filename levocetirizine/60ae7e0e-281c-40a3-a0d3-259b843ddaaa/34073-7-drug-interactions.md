@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-Invitro data indicate that levocetirizine is unlikely to produce pharmacokinetic interactions through inhibition or induction of liver drug-metabolizing enzymes.
+In vitro data indicate that levocetirizine is unlikely to produce pharmacokinetic interactions through inhibition or induction of liver drug-metabolizing enzymes.
 No in vivo drug-drug interaction studies have been performed with levocetirizine.
 Drug interaction studies have been performed with racemic cetirizine.
 
@@ -13,4 +13,4 @@ It is possible that higher theophylline doses could have a greater effect.
 ## 7.2 Ritonavir
 
 Ritonavir increased the plasma AUC of cetirizine by about 42% accompanied by an increase in half-life (53%) and a decrease in clearance (29%) of cetirizine.
-The disposition of ritonavir was not altered by concomitant cetirizine administration
+The disposition of ritonavir was not altered by concomitant cetirizine administration.
