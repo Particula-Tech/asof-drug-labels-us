@@ -8,7 +8,7 @@ The following adverse reactions are discussed in greater detail in other section
 - •Hypertension [see Warnings and Precautions (5.4)]
 - •Activation of mania or hypomania [see Warnings and Precautions (5.5)]
 - •Psychosis and other neuropsychiatric events [see Warnings and Precautions (5.6)]
-- •Angle Closure Glaucoma [see Warnings and Precautions (5.7)]
+- •Angle-Closure Glaucoma [see Warnings and Precautions (5.7)]
 - •Hypersensitivity reactions [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
@@ -24,7 +24,7 @@ Adverse reactions that occurred in at least 5% of patients treated with bupropio
 400 mg/day of bupropion HCl sustained-release: abdominal pain, agitation, anxiety, dizziness, dry mouth, insomnia, myalgia, nausea, palpitation, pharyngitis, sweating, tinnitus, and urinary frequency.
 
 WELLBUTRIN XL has been demonstrated to have similar bioavailability both to the immediate-release and sustained-release formulations of bupropion.
-The information included under this subsection and under the subsections 6.2 is based primarily on data from controlled clinical trials with the sustained-release and extended release formulations of bupropion hydrochloride.
+The information included under this subsection and under subsection 6.2 is based primarily on data from controlled clinical trials with the sustained-release and extended-release formulations of bupropion hydrochloride.
 
 Major Depressive Disorder
 
@@ -43,12 +43,12 @@ Table 2: Treatment Discontinuation Due to Adverse Reactions in Placebo-Controlle
 | Migraine | 0.3% | 0.0% | 1.8% |
 
 In clinical trials with bupropion HCl immediate-release, 10% of patients and volunteers discontinued due to an adverse reaction.
-Reactions resulting in discontinuation, (in addition to those listed above for the sustained-release formulation), included vomiting, seizures, and sleep disturbances.
+Reactions resulting in discontinuation (in addition to those listed above for the sustained-release formulation) included vomiting, seizures, and sleep disturbances.
 
 Adverse Reactions Occurring at an Incidence of >1% in Patients Treated with Bupropion HCl Immediate-Release or Bupropion HCl Sustained-Release in MDD
 
 Table 3 summarizes the adverse reactions that occurred in placebo-controlled trials in patients treated with bupropion HCl sustained-release 300 mg/day and 400 mg/day.
-These include reactions that occurred in either the 300 mg or 400 mg group at an incidence of 1% or more and were more frequent than in the placebo group are included.
+These include reactions that occurred in either the 300 mg or 400 mg group at an incidence of 1% or more and were more frequent than in the placebo group.
 
 Table 3: Adverse Reactions in Placebo-Controlled Trials in Patients with MDD
 
@@ -59,7 +59,7 @@ Table 3: Adverse Reactions in Placebo-Controlled Trials in Patients with MDD
 | Infection | 6% | 8% | 9% |
 | Abdominal pain | 2% | 3% | 9% |
 | Asthenia | 2% | 2% | 4% |
-| Chest Pain | 1% | 3% | 4% |
+| Chest pain | 1% | 3% | 4% |
 | Pain | 2% | 2% | 3% |
 | Fever | — | 1% | 2% |
 | Cardiovascular |  |  |  |
@@ -167,7 +167,7 @@ Changes in Body Weight
 Table 5 presents the incidence of body weight changes (≥5 lbs) in the short-term MDD trials using bupropion HCl sustained-release.
 There was a dose-related decrease in body weight.
 
-Table 5: Incidence of Weight Gain or Weight Loss (≥5 lbs.) in MDD Trials Using Bupropion HCl Sustained-Release
+Table 5: Incidence of Weight Gain or Weight Loss (≥5 lbs) in MDD Trials Using Bupropion HCl Sustained-Release
 
 | Weight Change | Bupropion HCl Sustained-Release 300 mg/day (n=339) | Bupropion HCl Sustained-Release 400 mg/day (n=112) | Placebo (n=347) |
 | --- | --- | --- | --- |
@@ -175,7 +175,7 @@ Table 5: Incidence of Weight Gain or Weight Loss (≥5 lbs.) in MDD Trials Using
 | Lost >5 lbs | 14% | 19% | 6% |
 
 Table 6 presents the incidence of body weight changes (≥5 lbs) in the 3 SAD trials using bupropion HCl extended-release.
-A higher proportion of subjects in the bupropion group (23%) had a weight loss ≥5 lbs., compared to the placebo group (11%).
+A higher proportion of subjects in the bupropion group (23%) had a weight loss ≥5 lbs, compared to the placebo group (11%).
 These were relatively long-term trials (up to 6 months).
 
 Table 6: Incidence of Weight Gain or Weight Loss (≥5 lbs) in SAD Trials Using Bupropion HCl Extended-Release

@@ -2,7 +2,7 @@ MEDICATION GUIDE WELLBUTRIN XL® (WELL byu-trin) (bupropion hydrochloride) Exten
 
 Read this Medication Guide carefully before you start using WELLBUTRIN XL and each time you get a refill.
 There may be new information.
-This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
+This information does not take the place of talking with your healthcare provider about your medical condition or your treatment.
 If you have any questions about WELLBUTRIN XL, ask your healthcare provider or pharmacist.
 
 IMPORTANT: Be sure to read the three sections of this Medication Guide.
@@ -22,7 +22,9 @@ What is the most important information I should know about antidepressant medici
 - •Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
   Some people may have a particularly high risk of having suicidal thoughts or actions.
   These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
-- •How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
+
+How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
+
 - •Pay close attention to any changes, especially sudden changes in mood, behaviors, thoughts, or feelings.
   This is very important when an antidepressant medicine is started or when the dose is changed.
 - •Call your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
@@ -89,7 +91,7 @@ When you try to quit smoking, with or without bupropion, you may have symptoms t
 Some people have even experienced suicidal thoughts when trying to quit smoking without medication.
 Sometimes quitting smoking can lead to worsening of mental health problems that you already have, such as depression.
 
-Before taking bupropion, tell your healthcare provider if you have ever had depression or other mental illness.
+Before taking bupropion, tell your healthcare provider if you have ever had depression or other mental illnesses.
 You should also tell your healthcare provider about any symptoms you had during other times you tried to quit smoking, with or without bupropion.
 
 What Other Important Information Should I Know About WELLBUTRIN XL?
@@ -106,7 +108,7 @@ Do not take any other medicines while you are taking WELLBUTRIN XL unless your h
 If you have a seizure while taking WELLBUTRIN XL, stop taking the tablets and call your healthcare provider right away.
 Do not take WELLBUTRIN XL again if you have a seizure.
 
-- •High blood pressure (hypertension): Some people get high blood pressure, that can be severe, while taking WELLBUTRIN XL.
+- •High blood pressure (hypertension): Some people get high blood pressure that can be severe, while taking WELLBUTRIN XL.
   The chance of high blood pressure may be higher if you also use nicotine replacement therapy (such as a nicotine patch) to help you stop smoking.
 - •Manic episodes: Some people may have periods of mania while taking WELLBUTRIN XL, including:
   - •greatly increased energy
@@ -119,7 +121,7 @@ Do not take WELLBUTRIN XL again if you have a seizure.
 
 If you have any of the above symptoms of mania, call your healthcare provider.
 
-- •Unusual thoughts or behaviors: Some people may have unusual thoughts or behaviors while taking WELLBUTRIN XL, including delusions (believe you are someone else), hallucinations (seeing or hearing things that are not there), paranoia (feeling that people are against you), or feeling confused.
+- •Unusual thoughts or behaviors: Some patients may have unusual thoughts or behaviors while taking WELLBUTRIN XL, including delusions (believe you are someone else), hallucinations (seeing or hearing things that are not there), paranoia (feeling that people are against you), or feeling confused.
   If this happens to you, call your healthcare provider.
 - •Visual Problems
   - •eye pain
@@ -127,9 +129,8 @@ If you have any of the above symptoms of mania, call your healthcare provider.
   - •swelling or redness in or around the eye
 - Only some people are at risk for these problems.
   You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
-
 - •Severe allergic reactions: Some people have severe allergic reactions to WELLBUTRIN XL.
-  Stop taking WELLBUTRIN XL and call your healthcare provider right away if you get a rash, itching, hives, fever, swollen lymph glands, painful sores in the mouth or around the eyes, swelling of the lips or tongue, chest pain, or trouble breathing.
+  Stop taking WELLBUTRIN XL and call your healthcare provider right away if you get a rash, itching, hives, fever, swollen lymph glands, painful sores in the mouth or around the eyes, swelling of the lips or tongue, chest pain, or have trouble breathing.
   These could be signs of a serious allergic reaction.
 
 What is WELLBUTRIN XL?
@@ -142,7 +143,7 @@ Do not take WELLBUTRIN XL if you:
 
 - •have or had a seizure disorder or epilepsy.
 - •have or had an eating disorder such as anorexia nervosa or bulimia.
-- •are taking any other medicines that contain bupropion, including ZYBAN® (used to help people stop smoking), APLENZIN®, FORFIVO XL™, WELLBUTRIN® or WELLBUTRIN SR.
+- •are taking any other medicines that contain bupropion, including ZYBAN (used to help people stop smoking), APLENZIN, FORFIVO XL, WELLBUTRIN or WELLBUTRIN SR.
   Bupropion is the same active ingredient that is in WELLBUTRIN XL.
 - •drink a lot of alcohol and abruptly stop drinking, or use medicines called sedatives (these make you sleepy) or benzodiazepines, or anti-seizure medicines, and you stop using them all of a sudden.
 - •take a monoamine oxidase inhibitor (MAOI).
@@ -155,25 +156,27 @@ Do not take WELLBUTRIN XL if you:
 What should I tell my healthcare provider before using WELLBUTRIN XL?
 
 Tell your healthcare provider if you have ever had depression, suicidal thoughts or actions, or other mental health problems.
-See “Antidepressant Medicines, Depression, and Other Mental Illnesses, and Suicidal Thoughts or Actions.”
+See “Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions.”
 
 - Tell your healthcare provider about your other medical conditions including if you:
-  1. 1.have liver problems, especially cirrhosis of the liver.
-  2. 2.have kidney problems.
-  3. 3.have, or have had, an eating disorder, such as anorexia nervosa or bulimia.
-  4. 4.havehad a head injury.
-  5. 5.have had a seizure (convulsion, fit).
-  6. 6.have a tumorin your nervous system (brain or spine).
-  7. 7.have had a heart attack, heart problems, or high blood pressure.
-  8. 8.are a diabetic taking insulin or other medications to control your blood sugar.
-  9. 9.drink alcohol.
-  10. 10.abuse prescription medicines or street drugs.
-  11. 11.are pregnant or plan to become pregnant.
-  12. 12.are breastfeeding.
-      WELLBUTRIN XL passes into your milk in small amounts.
+
+- 
+  - •have liver problems, especially cirrhosis of the liver.
+  - •have kidney problems.
+  - •have, or have had, an eating disorder such as anorexia nervosa or bulimia.
+  - •have had a head injury.
+  - •have had a seizure (convulsion, fit).
+  - •have a tumor in your nervous system (brain or spine).
+  - •have had a heart attack, heart problems, or high blood pressure.
+  - •are a diabetic taking insulin or other medicines to control your blood sugar.
+  - •drink alcohol.
+  - •abuse prescription medicines or street drugs.
+  - •are pregnant or plan to become pregnant.
+  - •are breastfeeding.
+    WELLBUTRIN XL passes into your milk in small amounts.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
-Many medicines increase your chances of having seizures or cause other serious side effects if you take them while you are using WELLBUTRIN XL.
+Many medicines increase your chances of having seizures or cause other serious side effects if you take them while you are taking WELLBUTRIN XL.
 
 How should I take WELLBUTRIN XL?
 
@@ -192,7 +195,7 @@ How should I take WELLBUTRIN XL?
   Once you feel better, it is important to keep taking WELLBUTRIN XL exactly as directed by your healthcare provider.
   Call your healthcare provider if you do not feel WELLBUTRIN XL is working for you.
 - •If you are taking WELLBUTRIN XL for the prevention of seasonal major depressive episodes associated with seasonal affective disorder, it is important to keep taking WELLBUTRIN XL through the autumn-winter season, or as directed by your healthcare provider.
-- •Do not change your dose or stop taking WELLBUTRIN XL without first talking with your healthcare provider first.
+- •Do not change your dose or stop taking WELLBUTRIN XL without talking with your healthcare provider first.
 
 What should I avoid while taking WELLBUTRIN XL?
 
@@ -214,6 +217,7 @@ The most common side effects of WELLBUTRIN XL include:
 - •Nervousness
 - •Constipation
 - •Headache
+- •Shakiness
 - •Nausea and vomiting
 - •Trouble sleeping
 - •Dizziness
@@ -236,9 +240,7 @@ You may also report side effects to Valeant Pharmaceuticals North America LLC at
 
 How should I store WELLBUTRIN XL?
 
-Store WELLBUTRIN XL at room temperature between 59°F and 86°F (15°C to 30°C).
-
-Keep WELLBUTRIN XL Tablets dry and out of light.
+Store at 25°C (77°F); excursions permitted to 15°-30°C (59°-86°F) (see USP Controlled Room Temperature).
 
 Keep WELLBUTRIN XL and all medicines out of the reach of children.
 
@@ -248,24 +250,26 @@ General information about WELLBUTRIN XL
   Do not use WELLBUTRIN XL for a condition for which it was not prescribed.
   Do not give WELLBUTRIN XL to other people, even if they have the same symptoms you have.
   It may harm them.
-- •If you take a urine drug screening test, WELLBUTRIN XL, may make the test result positive for amphetamines.
+- •If you take a urine drug screening test, WELLBUTRIN XL may make the test result positive for amphetamines.
   If you tell the person giving you the drug screening test that you are taking WELLBUTRIN XL, they can do a more specific drug screening test that should not have this problem.
 
 This Medication Guide summarizes the most important information about WELLBUTRIN XL.
 If you would like more information, talk with your healthcare provider.
 You may ask your healthcare provider or pharmacist for information about WELLBUTRIN XL that is written for healthcare professionals.
 
-For more information about WELLBUTRIN XL, go to www.wellbutrinxl.com or call 1-866-246-8246 (opt.
-3).
+For more information about WELLBUTRIN XL, go to www.wellbutrinxl.com or call 1-800-321-4576.
 
 What are the ingredients in WELLBUTRIN XL?
 
 Active ingredient: bupropion hydrochloride
 
-Inactive ingredients: ethylcellulose aqueous dispersion, glyceryl behenate, methacrylic acid copolymer dispersion, polyvinyl alcohol, polyethylene glycol, povidone, silicon dioxide, and triethyl citrate.
+Inactive ingredients: ethylcellulose, glyceryl behenate, methacrylic acid copolymer dispersion, polyvinyl alcohol, polyethylene glycol, povidone, silicon dioxide, and triethyl citrate.
 The tablets are printed with edible black ink.
 
-WELLBUTRIN XL® is a registered trademark of GlaxoSmithKline.
+WELLBUTRIN XL is a registered trademark of GlaxoSmithKline LLC used under license.
+
+©Valeant Pharmaceuticals North America LLC.
+Aplenzin is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 All other product/brand names are the trademarks of their respective owners.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
@@ -274,11 +278,11 @@ Rx only
 
 Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-By: Valeant Pharmaceuticals International, Inc. Steinbach, MB R5G 1Z7, Canada
+By: Valeant Pharmaceuticals International, Inc. Steinbach, MB R5G 1Z7 Canada
 
-Made in Canada
+9395603
 
-9395600
+20001582
 
 Rev.
-12/2014
+08/2016

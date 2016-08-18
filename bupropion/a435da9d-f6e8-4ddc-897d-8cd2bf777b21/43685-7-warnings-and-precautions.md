@@ -6,7 +6,7 @@ Patients with major depressive disorder (MDD), both adult and pediatric, may exp
 Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
 There has been a long-standing concern that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.
 
-Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) show that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 to 24) with major depressive disorder (MDD) and other psychiatric disorders.
+Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (Selective Serotonin Reuptake Inhibitors [SSRIs] and others) show that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 to 24) with major depressive disorder (MDD) and other psychiatric disorders.
 Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.
 
 The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4400 patients.
@@ -35,12 +35,12 @@ However, there is substantial evidence from placebo-controlled maintenance trial
 
 All patients being treated with antidepressants for any indication should be monitored appropriately and observed closely for clinical worsening, suicidality, and unusual changes in behavior, especially during the initial few months of a course of drug therapy, or at times of dose changes, either increases or decreases [see Boxed Warning and Use in Specific Populations (8.4)].
 
-The following symptoms, anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, and mania have been reported in adult and pediatric patients being treated with antidepressants for major depressive disorder as well as for other indications, both psychiatric and nonpsychiatric.
+The following symptoms, anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, and mania, have been reported in adult and pediatric patients being treated with antidepressants for major depressive disorder as well as for other indications, both psychiatric and nonpsychiatric.
 Although a causal link between the emergence of such symptoms and either the worsening of depression and/or the emergence of suicidal impulses has not been established, there is concern that such symptoms may represent precursors to emerging suicidality.
 
 Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
 
-Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
+Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to healthcare providers.
 Such monitoring should include daily observation by families and caregivers.
 Prescriptions for WELLBUTRIN XL should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 
@@ -102,7 +102,7 @@ In the SAD trials, 82% of patients were treated with 300 mg per day, and 18% wer
 The mean daily dose was 270 mg per day.
 The mean duration of bupropion exposure was 126 days.
 
-In a clinical trial of bupropion immediate-release in MDD subjects with stable congestive heart failure (N=36), bupropion was associated with an exacerbation of pre-existing hypertension in 2 patients, leading to discontinuation of bupropion treatment.
+In a clinical trial of bupropion immediate-release in MDD subjects with stable congestive heart failure (N=36), bupropion was associated with an exacerbation of pre-existing hypertension in 2 subjects, leading to discontinuation of bupropion treatment.
 There are no controlled studies assessing the safety of bupropion in patients with a recent history of myocardial infarction or unstable cardiac disease.
 
 ## 5.5 Activation of Mania/Hypomania
@@ -121,13 +121,13 @@ Discontinue WELLBUTRIN XL if these reactions occur.
 
 ## 5.7 Angle-Closure Glaucoma
 
-Angle-Closure Glaucoma: The pupillary dilation that occurs following use of many antidepressant drugs including WELLBUTRIN XL may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+Angle-Closure Glaucoma: The pupillary dilation that occurs following use of many antidepressant drugs including WELLBUTRIN XL may trigger an angle-closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
 
 ## 5.8 Hypersensitivity Reactions
 
 Anaphylactoid/anaphylactic reactions have occurred during clinical trials with bupropion.
 Reactions have been characterized by pruritus, urticaria, angioedema, and dyspnea, requiring medical treatment.
-In addition, there have been rare, spontaneous postmarketing reports of erythema multiforme, Stevens-Johnson syndrome, and anaphylactic shock associated with bupropion.
-Instruct patients to discontinue WELLBUTRIN XL and consult a health care provider if they develop an allergic or anaphylactoid/anaphylactic reaction (e.g., skin rash, pruritus, hives, chest pain, edema, and shortness of breath) during treatment.
+In addition, there have been rare, spontaneous postmarketing reports of erythema multiforme, Stevens-Johnson Syndrome, and anaphylactic shock associated with bupropion.
+Instruct patients to discontinue WELLBUTRIN XL and consult a healthcare provider if they develop an allergic or anaphylactoid/anaphylactic reaction (e.g., skin rash, pruritus, hives, chest pain, edema, and shortness of breath) during treatment.
 
 There are reports of arthralgia, myalgia, fever with rash and other symptoms of serum sickness suggestive of delayed hypersensitivity.

@@ -6,7 +6,7 @@
 
 Risk Summary
 
-Data from epidemiological studies including pregnant women exposed to bupropion in the first trimester indicate no increased risk of congenital malformations.
+Data from epidemiological studies including pregnant women exposed to bupropion in the first trimester indicate no increased risk of congenital malformations overall.
 All pregnancies regardless of drug exposure have a background rate of 2% to 4% for major malformations and 15% to 20% for pregnancy loss.
 No clear evidence of teratogenic activity was found in reproductive developmental studies conducted in rats and rabbits.
 However, in rabbits, slightly increased incidences of fetal malformations and skeletal variations were observed at doses approximately equal to the maximum recommended human dose (MRHD) and greater and decreased fetal weights were seen at doses twice the MRHD and greater.
@@ -18,7 +18,7 @@ Consider the risk of untreated depression when discontinuing or changing treatme
 
 Human Data
 
-Data from international bupropion Pregnancy registry (675 first trimester exposures) and a retrospective cohort study using the United Healthcare database (1,213 first trimester exposures) did not show an increased risk for malformations overall.
+Data from an international bupropion Pregnancy registry (675 first trimester exposures) and a retrospective cohort study using the United Healthcare database (1,213 first trimester exposures) did not show an increased risk for malformations overall.
 
 No increased risk for cardiovascular malformations overall has been observed after bupropion exposure during the first trimester.
 The prospectively observed rate of cardiovascular malformations in pregnancies with exposure to bupropion in the first trimester from the international Pregnancy Registry was 1.3% (9 cardiovascular malformations/675 first-trimester maternal bupropion exposures), which is similar to the background rate of cardiovascular malformations (approximately 1%).
@@ -28,7 +28,7 @@ Study findings on bupropion exposure during the first trimester and risk left ve
 The United Healthcare database lacked sufficient power to evaluate this association; the NBDPS found increased risk for LVOTO (n = 10; adjusted OR = 2.6; 95% CI 1.2, 5.7) and the Slone Epidemiology case control study did not find increased risk for LVOTO.
 
 Study findings on bupropion exposure during the first trimester and risk for ventricular septal defect (VSD) are inconsistent and do not allow conclusions regarding a possible association.
-The Slone Epidemiology Study found an increased risk for VSD following first trimester maternal bupropion exposure (n=17; adjusted OR = 2.5; 95% CI: 1.3, 5.0) but did not find an increased risk for any other cardiovascular malformations studied (including LVOTO as above).
+The Slone Epidemiology Study found an increased risk for VSD following first trimester maternal bupropion exposure (n = 17; adjusted OR = 2.5; 95% CI: 1.3, 5.0) but did not find an increased risk for any other cardiovascular malformations studied (including LVOTO as above).
 The NBDPS and United Healthcare database study did not find an association between first trimester maternal bupropion exposure and VSD.
 
 For the findings of LVOTO and VSD, the studies were limited by the small number of exposed cases, inconsistent findings among studies, and the potential for chance findings from multiple comparisons in case control studies.
@@ -44,7 +44,7 @@ When rats were administered bupropion at oral doses of up to 300 mg/kg/day (appr
 
 Bupropion and its metabolites are present in human milk.
 In a lactation study of ten women, levels of orally dosed bupropion and its active metabolites were measured in expressed milk.
-The average daily infant exposure (assuming 150 ml/kg daily consumption) to bupropion and its active metabolites was 2% of the maternal weight-adjusted dose.
+The average daily infant exposure (assuming 150 mL/kg daily consumption) to bupropion and its active metabolites was 2% of the maternal weight-adjusted dose.
 Exercise caution when WELLBUTRIN XL is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
