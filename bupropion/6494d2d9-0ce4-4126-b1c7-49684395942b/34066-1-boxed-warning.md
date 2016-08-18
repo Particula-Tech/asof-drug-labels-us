@@ -1,4 +1,4 @@
-# WARNING: SUICIDAL THOUGHTS AND BEHAVIORS; AND NEUROPSYCHIATRIC REACTIONS
+# WARNING: SUICIDAL THOUGHTS AND BEHAVIORS and NEUROPSYCHIATRIC REACTIONS
 
 SUICIDALITY AND ANTIDEPRESSANT DRUGS
 
@@ -10,9 +10,9 @@ Advise families and caregivers of the need for close observation and communicati
 
 NEUROPSYCHIATRIC REACTIONS IN PATIENTS TAKING BUPROPION FOR SMOKING CESSATION
 
-Serious neuropsychiatric reactions have occurred in patients taking bupropion for smoking cessation [see Warnings and Precautions (5.2)].
-The majority of these reactions occurred during bupropion treatment, but some occurred in the context of discontinuing treatment.
-In many cases, a causal relationship to bupropion treatment is not certain, because depressed mood may be a symptom of nicotine withdrawal.
-However, some of the cases occurred in patients taking bupropion who continued to smoke.
-Although APLENZIN is not approved for smoking cessation, observe all patients for neuropsychiatric reactions.
-Instruct the patient to contact a healthcare provider if such reactions occur [see Warnings and Precautions (5.2)].
+1. Serious neuropsychiatric reactions have occurred in patients taking bupropion for smoking cessation [see Warnings and Precautions (5.2)].
+   The majority of these reactions occurred during bupropion treatment, but some occurred in the context of discontinuing treatment.
+   In many cases, a causal relationship to bupropion treatment is not certain, because depressed mood may be a symptom of nicotine withdrawal.
+   However, some of the cases occurred in patients taking bupropion who continued to smoke.
+   Although APLENZIN is not approved for smoking cessation, observe all patients for neuropsychiatric reactions.
+   Instruct the patient to contact a healthcare provider if such reactions occur [see Warnings and Precautions (5.2)].

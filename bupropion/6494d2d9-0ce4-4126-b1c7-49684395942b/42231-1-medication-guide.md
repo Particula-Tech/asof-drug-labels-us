@@ -18,6 +18,18 @@ Talk to your healthcare provider or your family member’s healthcare provider a
 
 What is the most important information I should know about antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions?
 
+- •Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment.
+- •Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
+  Some people may have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
+
+How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
+
+- •Pay close attention to any changes, especially sudden changes in mood, behaviors, thoughts, or feelings.
+  This is very important when an antidepressant medicine is started or when the dose is changed.
+- •Call your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
+- •Keep all follow-up visits with your healthcare provider as scheduled.
+  Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
+
 Call your healthcare provider right away if you or your family member has any of the following symptoms especially if they are new, worse, or worry you:
 
 - •thoughts about suicide or dying
@@ -95,7 +107,7 @@ Do not take any other medicines while you are taking APLENZIN unless your health
 If you have a seizure while taking APLENZIN, stop taking the tablets and call your healthcare provider right away.
 Do not take APLENZIN again if you have a seizure.
 
-- •High blood pressure (hypertension): Some people get high blood pressure, that can be severe, while taking APLENZIN.
+- •High blood pressure (hypertension): Some people get high blood pressure that can be severe, while taking APLENZIN.
   The chance of high blood pressure may be higher if you also use nicotine replacement therapy (such as a nicotine patch) to help you stop smoking.
 - •Manic episodes: Some people may have periods of mania while taking APLENZIN, including:
   - •greatly increased energy
@@ -122,17 +134,17 @@ If you have any of the above symptoms of mania, call your healthcare provider.
 
 What is APLENZIN?
 
-APLENZIN is a prescription medicine used to treat people with a certain type of depression called major depressive disorder and for the prevention of autumn-winter seasonal depression (seasonal affective disorder).
+APLENZIN is a prescription medicine used to treat adults with a certain type of depression called major depressive disorder and for the prevention of autumn-winter seasonal depression (seasonal affective disorder).
 
 Who should not take APLENZIN?
 
 Do not take APLENZIN if you:
 
-- •have or had a seizure disorder or epilepsy
-- •have or had an eating disorder such as anorexia nervosa or bulimia
-- •are taking any other medications that contain bupropion, including ZYBAN (used to help people stop smoking), WELLBUTRIN®, FORFIVO XL™, WELLBUTRIN SR®, or WELLBUTRIN XL®.
+- •have or had a seizure disorder or epilepsy.
+- •have or had an eating disorder such as anorexia nervosa or bulimia.
+- •are taking any other medicines that contain bupropion, including ZYBAN (used to help people stop smoking), WELLBUTRIN®, FORFIVO XL™, WELLBUTRIN SR®, or WELLBUTRIN XL®.
   Bupropion is the same active ingredient that is in APLENZIN.
-- •drink a lot of alcohol and abruptly stop drinking, or use medicines called sedatives (these make you sleepy) or benzodiazepines or anti-seizure medicines, and you stop using them all of a sudden
+- •drink a lot of alcohol and abruptly stop drinking, or use medicines called sedatives (these make you sleepy) or benzodiazepines or anti-seizure medicines, and you stop using them all of a sudden.
 - •take a monoamine oxidase inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
   - •do not take an MAOI within 2 weeks of stopping APLENZIN unless directed to do so by your healthcare provider.
@@ -143,7 +155,7 @@ Do not take APLENZIN if you:
 What should I tell my healthcare provider before using APLENZIN?
 
 Tell your healthcare provider if you have ever had depression, suicidal thoughts or actions, or other mental health problems.
-See “Antidepressant Medicines, Depression, and Other Mental Illnesses, and Suicidal Thoughts or Actions.”
+See “Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions.”
 
 - Tell your healthcare provider about your other medical conditions including if you:
 
@@ -180,7 +192,7 @@ How should I take APLENZIN?
   Once you feel better, it is important to keep taking APLENZIN exactly as directed by your healthcare provider.
   Call your healthcare provider if you do not feel APLENZIN is working for you.
 - •If you are taking APLENZIN for the prevention of seasonal major depressive episodes associated with seasonal affective disorder, it is important to keep taking APLENZIN through the autumn-winter season, or as directed by your healthcare provider.
-- •Do not change your dose or stop taking APLENZIN without first talking with your healthcare provider first.
+- •Do not change your dose or stop taking APLENZIN without talking with your healthcare provider first.
 
 What should I avoid while taking APLENZIN?
 
@@ -202,6 +214,7 @@ The most common side effects of APLENZIN include:
 - •Nervousness
 - •Constipation
 - •Headache
+- •Shakiness
 - •Nausea and vomiting
 - •Trouble sleeping
 - •Dizziness
@@ -225,8 +238,6 @@ You may also report side effects to Valeant Pharmaceuticals North America LLC at
 How should I store APLENZIN?
 
 Store APLENZIN at room temperature between 59°F and 86°F (15°C to 30°C).
-
-Keep APLENZIN Tablets dry and out of light.
 
 Keep APLENZIN and all medicines out of the reach of children.
 
@@ -259,20 +270,16 @@ Rx only
 
 Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-By: Valeant Pharmaceuticals International, Inc.
-
-Steinbach, MB R5G 1Z7, Canada
-
-Made in Canada
+By: Valeant Pharmaceuticals International, Inc. Steinbach, MB R5G 1Z7 Canada
 
 APLENZIN is a registered trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 All other product/brand names are the trademarks of their respective owners.
 
 ©Valeant Pharmaceuticals International, Inc.
 
-9386803
+9386804
 
-20001284
+20001584
 
 Rev.
-11/2015
+8/2016

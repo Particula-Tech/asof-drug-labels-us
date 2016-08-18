@@ -6,7 +6,7 @@ Patients with major depressive disorder (MDD), both adult and pediatric, may exp
 Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
 There has been a long-standing concern that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.
 
-Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) show that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 to 24) with major depressive disorder (MDD) and other psychiatric disorders.
+Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (Selective Serotonin Reuptake Inhibitors [SSRIs] and others) show that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 to 24) with major depressive disorder (MDD) and other psychiatric disorders.
 Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.
 
 The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4400 patients.
@@ -23,7 +23,7 @@ Table 2: Risk Differences in the Number of Suicidality Cases by Age Group in the
 | Increases Compared to Placebo |  |
 | <18 years | 14 additional cases |
 | 18-24 years | 5 additional cases |
-| Decrease Compared to Placebo |  |
+| Decreases Compared to Placebo |  |
 | 25-64 years | 1 fewer case |
 | ≥65 years | 6 fewer cases |
 
@@ -40,7 +40,7 @@ Although a causal link between the emergence of such symptoms and either the wor
 
 Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
 
-Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
+Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to healthcare providers.
 Such monitoring should include daily observation by families and caregivers.
 Prescriptions for APLENZIN should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 
@@ -119,15 +119,15 @@ Some of these patients had a diagnosis of bipolar disorder.
 In some cases, these symptoms abated upon dose reduction and/or withdrawal of treatment.
 Discontinue APLENZIN if these reactions occur.
 
-## 5.7 Angle Closure Glaucoma
+## 5.7 Angle-Closure Glaucoma
 
-Angle-Closure Glaucoma: The pupillary dilation that occurs following use of many antidepressant drugs including APLENZIN may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+Angle-Closure Glaucoma: The pupillary dilation that occurs following use of many antidepressant drugs including APLENZIN may trigger an angle-closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
 
 ## 5.8 Hypersensitivity Reactions
 
 Anaphylactoid/anaphylactic reactions have occurred during clinical trials with bupropion.
 Reactions have been characterized by pruritus, urticaria, angioedema, and dyspnea, requiring medical treatment.
 In addition, there have been rare, spontaneous postmarketing reports of erythema multiforme, Stevens-Johnson syndrome, and anaphylactic shock associated with bupropion.
-Instruct patients to discontinue APLENZIN and consult a health care provider if they develop an allergic or anaphylactoid/anaphylactic reaction (e.g., skin rash, pruritus, hives, chest pain, edema, and shortness of breath) during treatment.
+Instruct patients to discontinue APLENZIN and consult a healthcare provider if they develop an allergic or anaphylactoid/anaphylactic reaction (e.g., skin rash, pruritus, hives, chest pain, edema, and shortness of breath) during treatment.
 
 There are reports of arthralgia, myalgia, fever with rash and other symptoms of serum sickness suggestive of delayed hypersensitivity.

@@ -4,7 +4,7 @@
 
 The mechanism of action of bupropion is unknown, as is the case with other antidepressants.
 However, it is presumed that this action is mediated by noradrenergic and/or dopaminergic mechanisms.
-Bupropion is a relatively weak inhibitor of the neuronal uptake of norepinephrine and dopamine, and does not inhibit monoamine oxidase or the re-uptake of serotonin.
+Bupropion is a relatively weak inhibitor of the neuronal uptake of norepinephrine and dopamine and does not inhibit monoamine oxidase or the reuptake of serotonin.
 
 ## 12.3 Pharmacokinetics
 
@@ -66,11 +66,11 @@ The elimination of the major metabolites of bupropion may be affected by reduced
 Renal Impairment
 
 There is limited information on the pharmacokinetics of bupropion in patients with renal impairment.
-An inter-trial comparison between normal subjects and subjects with end-stage renal failure demonstrated that the parent drug Cmax and AUC values were comparable in the 2 groups, whereas the hydroxybupropion and threohydrobupropion metabolites had a 2.3- and 2.8 fold increase, respectively, in AUC for subjects with end-stage renal failure.
+An inter-trial comparison between normal subjects and subjects with end-stage renal failure demonstrated that the parent drug Cmax and AUC values were comparable in the 2 groups, whereas the hydroxybupropion and threohydrobupropion metabolites had a 2.3- and 2.8-fold increase, respectively, in AUC for subjects with end-stage renal failure.
 A second study, comparing normal subjects and subjects with moderate-to-severe renal impairment (GFR 30.9 ± 10.8 mL/min) showed that after a single 150 mg dose of sustained-release bupropion, exposure to bupropion was approximately 2-fold higher in subjects with impaired renal function, while levels of the hydroxybupropion and threo/erythrohydrobupropion (combined) metabolites were similar in the 2 groups.
 Bupropion is extensively metabolized in the liver to active metabolites, which are further metabolized and subsequently excreted by the kidneys.
 The elimination of the major metabolites of bupropion may be reduced by impaired renal function.
-APLENZIN should be used with caution in patients with renal impairment and a reduced frequency and/or dose should be considered [see Use in Specific Populations (8.6)].
+APLENZIN should be used with caution in patients with renal impairment, and a reduced frequency and/or dose should be considered [see Dosage and Administration (2.7) and Use in Specific Populations (8.6)].
 
 Hepatic Impairment
 
@@ -107,7 +107,7 @@ The mean systemic exposure (AUC) was approximately 13% higher in male volunteers
 Smokers
 
 The effects of cigarette smoking on the pharmacokinetics of bupropion hydrochloride were studied in 34 healthy male and female volunteers; 17 were chronic cigarette smokers and 17 were nonsmokers.
-Following oral administration of a single 150-mg dose of bupropion, there was no statistically significant difference in Cmax, half-life, Tmax, AUC, or clearance of bupropion or its active metabolites between smokers and nonsmokers.
+Following oral administration of a single 150 mg dose of bupropion, there was no statistically significant difference in Cmax, half-life, Tmax, AUC, or clearance of bupropion or its active metabolites between smokers and nonsmokers.
 
 Drug Interactions
 
@@ -115,7 +115,7 @@ Potential for Other Drugs to Affect APLENZIN
 
 In vitro studies indicate that bupropion is primarily metabolized to hydroxybupropion by CYP2B6.
 Therefore, the potential exists for drug interactions between APLENZIN and drugs that are inhibitors or inducers of CYP2B6.
-In addition, in vitro studies suggest that paroxetine, sertraline, norfluoxetine, fluvoxamine, and nelfinavir, inhibit the hydroxylation of bupropion.
+In addition, in vitro studies suggest that paroxetine, sertraline, norfluoxetine, fluvoxamine, and nelfinavir inhibit the hydroxylation of bupropion.
 
 Inhibitors of CYP2B6
 

@@ -38,7 +38,7 @@ For the prevention of seasonal MDD episodes associated with SAD, initiate APLENZ
 Continue treatment through the winter season.
 Taper and discontinue APLENZIN in early spring.
 For patients treated with 348 mg per day, decrease the dose to 174 mg once daily before discontinuing APLENZIN.
-Individualize the timing of initiation and duration of treatment should be individualized, based on the patient’s historical pattern of seasonal MDD episodes.
+Individualize the timing of initiation, and duration of treatment should be individualized, based on the patient’s historical pattern of seasonal MDD episodes.
 
 ## 2.5 To Discontinue APLENZIN, Taper the Dose
 
@@ -46,12 +46,12 @@ When discontinuing treatment in patients treated with APLENZIN 348 mg once daily
 
 ## 2.6 Dosage Adjustment in Patients with Hepatic Impairment
 
-In patients with moderate to severe hepatic impairment (Child-Pugh score: 7 to 15), maximum dose is 174 mg every other day.
-In patients with mild hepatic impairment (Child-Pugh score: 5 to 6), consider reducing dose and/or frequency of dosing [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
+In patients with moderate to severe hepatic impairment (Child-Pugh score: 7 to 15), the maximum dose is 174 mg every other day.
+In patients with mild hepatic impairment (Child-Pugh score: 5 to 6), consider reducing the dose and/or frequency of dosing [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
 
 ## 2.7 Dosage Adjustment in Patients with Renal Impairment
 
-Consider reducing dose and/or frequency of APLENZIN in patients with renal impairment (Glomerular filtration rate <90 mL/min), [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+Consider reducing the dose and/or frequency of APLENZIN in patients with renal impairment (Glomerular filtration rate less than 90 mL/min) [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 ## 2.8 Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Antidepressant
 
@@ -70,5 +70,5 @@ The patient should be monitored for 2 weeks or until 24 hours after the last dos
 
 Therapy with APLENZIN may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue.
 
-The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with APLENZIN is unclear.
+The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg per kg with APLENZIN is unclear.
 The clinician should, nevertheless, be aware of the possibility of a drug interaction with such use [see Contraindications (4) and Drug Interactions (7.6)].

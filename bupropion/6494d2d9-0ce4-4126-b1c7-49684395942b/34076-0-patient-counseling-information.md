@@ -2,9 +2,9 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Inform patients, their families, and their caregivers about the benefits and risks associated with treatment with APLENZIN and should counsel them in its appropriate use.
+Inform patients, their families, and their caregivers about the benefits and risks associated with treatment with APLENZIN and counsel them in its appropriate use.
 
-A patient Medication Guide about “Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions,” “Quitting smoking, Quit-smoking Medications, Changes in Thinking and Behavior, Depression, and Suicidal Thoughts or Actions,” and “What other important information should I know about APLENZIN?” is available for APLENZIN.
+A patient Medication Guide about “Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions,” “Quitting Smoking, Quit-Smoking Medications, Changes in Thinking and Behavior, Depression, and Suicidal Thoughts or Actions,” and “What Other Important Information Should I Know About APLENZIN?” is available for APLENZIN.
 Instruct patients, their families, and their caregivers to read the Medication Guide and assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 The complete text of the Medication Guide is reprinted at the end of this document.
@@ -20,8 +20,8 @@ Symptoms such as these may be associated with an increased risk for suicidal thi
 
 Neuropsychiatric Symptoms and Suicide Risk in Smoking Cessation Treatment
 
-Although APLENZIN is not indicated for smoking cessation treatment, it contains the same active ingredient as ZYBAN® which is approved for this use.
-Advise patients, families and caregivers that quitting smoking, with or without ZYBAN, may trigger nicotine withdrawal symptoms (e.g. including depression or agitation), or worsen pre-existing psychiatric illness.
+Although APLENZIN is not indicated for smoking cessation treatment, it contains the same active ingredient as ZYBAN which is approved for this use.
+Advise patients, families and caregivers that quitting smoking, with or without ZYBAN, may trigger nicotine withdrawal symptoms (e.g., including depression or agitation) or worsen pre-existing psychiatric illness.
 Some patients have experienced changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide when attempting to quit smoking while taking ZYBAN.
 If patients develop agitation, hostility, depressed mood, or changes in thinking or behavior that are not typical for them, or if patients develop suicidal ideation or behavior, they should be urged to report these symptoms to their healthcare provider immediately.
 
@@ -35,12 +35,12 @@ Instruct patients to discontinue and not restart APLENZIN if they experience a s
 Advise patients that the excessive use or the abrupt discontinuation of alcohol, benzodiazepines, antiepileptic drugs, or sedatives/hypnotics can increase the risk of seizure.
 Advise patients to minimize or avoid the use of alcohol.
 
-Angle Closure Glaucoma
+Angle-Closure Glaucoma
 
-Patients should be advised that taking APLENZIN can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle closure glaucoma.
-Pre-existing glaucoma is almost always open-angle glaucoma because angle closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
-Open-angle glaucoma is not a risk factor for angle closure glaucoma.
-Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible [see Warnings and Precautions (5.7)].
+Patients should be advised that taking APLENZIN can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle-closure glaucoma.
+Pre-existing glaucoma is almost always open-angle glaucoma because angle-closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
+Open-angle glaucoma is not a risk factor for angle-closure glaucoma.
+Patients may wish to be examined to determine whether they are susceptible to angle-closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible [see Warnings and Precautions (5.7)].
 
 Bupropion-Containing Products
 
@@ -79,18 +79,16 @@ Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
 By:
 
-Valeant Pharmaceuticals International, Inc.
-
-Steinbach, MB R5G 1Z7, Canada
-
-Made in Canada
+Valeant Pharmaceuticals International, Inc. Steinbach, MB R5G 1Z7 Canada
 
 APLENZIN is a registered trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 All other product/brand names are the trademarks of their respective owners.
 
+©Valeant Pharmaceuticals International, Inc.
+
+9386804
+
+20001584
+
 Rev.
-11/2015
-
-9386803
-
-20001284
+8/2016
