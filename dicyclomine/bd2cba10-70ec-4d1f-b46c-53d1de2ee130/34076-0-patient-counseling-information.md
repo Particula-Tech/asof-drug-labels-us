@@ -15,10 +15,10 @@ If symptoms occur, the drug should be discontinued and a physician contacted.
 Dicyclomine hydrochloride may produce drowsiness or blurred vision.
 The patient should be warned not to engage in activities requiring mental alertness, such as operating a motor vehicle or other machinery or to perform hazardous work while taking dicyclomine hydrochloride [see Warnings and Precautions (5.3)].
 
-Manufactured by: Lannett Company, Inc. Philadelphia, PA 19136
+Distributed by: Lannett Company, Inc. Philadelphia, PA 19136
 
 Made in the USA
 
-Revised: 01/2013, Revision 3
+CIB70346B
 
-10-924
+Revised 03/2016
