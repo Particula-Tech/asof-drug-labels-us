@@ -31,7 +31,7 @@ The bioavailability (AUC) of JADENU was 36% greater than with deferasirox tablet
 After strength-adjustment, JADENU (i.e., 360 mg strength) was equivalent to deferasirox tablets for oral suspension (i.e., 500 mg strength) with respect to the mean AUC under fasting conditions, however the mean Cmax was increased by 30%.
 The exposure-response analysis for safety indicated that 30% increase in JADENU Cmax is not clinically meaningful.
 
-A food-effect study involving administration of JADENU to healthy subjects under fasting conditions and with a low-fat (fat content <7% of total calories) or high-fat (fat content >50% of total calories) meal indicated that the AUC and Cmax were slightly decreased after a low-fat meal (by 11% and 16%, respectively).
+A food-effect study involving administration of JADENU to healthy subjects under fasting conditions and with a low-fat (fat content less than 7% of total calories) or high-fat (fat content greater than 50% of total calories) meal indicated that the AUC and Cmax were slightly decreased after a low-fat meal (by 11% and 16%, respectively).
 After a high-fat meal, AUC and Cmax were increased by 18% and 29%, respectively.
 The increases in Cmax due to the change in formulation and due to the effect of a high-fat meal may be additive and therefore, it is recommended that JADENU should be taken on an empty stomach or with a light meal (contains less than 7% fat content and approximately 250 calories) [see Dosage and Administration (2.3)].
 
@@ -79,10 +79,10 @@ In vitro studies:
 Pharmacokinetics in Specific Populations
 
 Pediatric: Following oral administration of single or multiple doses, systemic exposure of adolescents and children to deferasirox was less than in adult patients.
-In children <6 years of age, systemic exposure was about 50% lower than in adults.
+In children less than 6 years of age, systemic exposure was about 50% lower than in adults.
 
 Geriatric: The pharmacokinetics of deferasirox have not been studied in elderly patients (65 years of age or older).
 
 Gender: Females have a moderately lower apparent clearance (by 17.5%) for deferasirox compared to males.
 
-Renal Impairment: Compared to patients with MDS and ClCr >60 mL/min, patients with MDS and ClCr 40 to 60 mL/min (n=34) had approximately 50% higher mean deferasirox trough plasma concentrations.
+Renal Impairment: Compared to patients with MDS and ClCr greater than 60 mL/min, patients with MDS and ClCr 40 to 60 mL/min (n=34) had approximately 50% higher mean deferasirox trough plasma concentrations.

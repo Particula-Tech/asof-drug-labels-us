@@ -61,7 +61,7 @@ JADENU tablets may be taken on an empty stomach or with a light meal (contains l
 Examples of light meals include 1 whole wheat English muffin, 1 packet jelly (0.5 ounces), and skim milk (8 fluid ounces) or a turkey sandwich (2 oz. turkey on whole wheat bread w/ lettuce, tomato, and 1 packet mustard).
 Do not take JADENU with aluminum-containing antacid products [see Drug Interactions (7.1)].
 
-For patients who are currently on chelation therapy with Exjade tablets for oral suspension and converting to JADENU tablets, the dose of JADENU should be about 30% lower, rounded to the nearest whole tablet.
+For patients who are currently on chelation therapy with EXJADE tablets for oral suspension and converting to JADENU tablets, the dose of JADENU should be about 30% lower, rounded to the nearest whole tablet.
 The table below provides additional information on dosing conversion to JADENU tablets.
 
 |  | EXJADE Tablets for oral suspension (white round tablet) | JADENU Tablets (film coated blue oval tablet) |

@@ -14,9 +14,9 @@ Dose reduction, interruption, or discontinuation based on increases in serum cre
 
 JADENU is contraindicated in patients with ClCr less than 40 mL/minute or serum creatinine greater than 2 times the age appropriate ULN.
 
-Renal tubular damage, including Fanconi’s Syndrome, has been reported in patients treated with deferasirox, most commonly in children and adolescents with beta-thalassemia and serum ferritin levels <1500 mcg/L.
+Renal tubular damage, including Fanconi’s Syndrome, has been reported in patients treated with deferasirox, most commonly in children and adolescents with beta-thalassemia and serum ferritin levels less than 1500 mcg/L.
 
-Intermittent proteinuria (urine protein/creatinine ratio >0.6 mg/mg) occurred in 18.6% of deferasirox-treated patients compared to 7.2% of deferoxamine-treated patients in Study 1.
+Intermittent proteinuria (urine protein/creatinine ratio greater than 0.6 mg/mg) occurred in 18.6% of deferasirox-treated patients compared to 7.2% of deferoxamine-treated patients in Study 1.
 In clinical trials in patients with transfusional iron overload, deferasirox was temporarily withheld until the urine protein/creatinine ratio fell below 0.6 mg/mg.
 Monthly monitoring for proteinuria is recommended.
 The mechanism and clinical significance of the proteinuria are uncertain [see Adverse Reactions (6.1)].
@@ -60,12 +60,13 @@ Monitor elderly patients treated with JADENU more frequently for toxicity [see U
 
 JADENU may cause serious hypersensitivity reactions (such as anaphylaxis and angioedema), with the onset of the reaction usually occurring within the first month of treatment [see Adverse Reactions (6.2)].
 If reactions are severe, discontinue JADENU and institute appropriate medical intervention.
-JADENU is contraindicated in patients with known hypersensitivity to JADENU.
+JADENU is contraindicated in patients with known hypersensitivity to deferasirox products and should not be reintroduced in patients who have experienced previous hypersensitivity reactions on deferasirox products due to the risk of anaphylactic shock.
 
 ## 5.7 Severe Skin Reactions
 
-Severe skin reactions, including Stevens-Johnson syndrome (SJS) and erythema multiforme, have been reported during deferasirox therapy [see Adverse Reactions (6.2)].
-If SJS or erythema multiforme is suspected, discontinue JADENU immediately and do not reintroduce JADENU therapy.
+Severe skin reactions, including Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and erythema multiforme, have been reported during deferasirox therapy [see Adverse Reactions (6.2)].
+The risk of other skin reactions including DRESS (drug reaction with eosinophilia and systemic symptoms) cannot be excluded.
+If severe skin reactions are suspected, discontinue JADENU immediately and do not reintroduce JADENU therapy.
 
 ## 5.8 Skin Rash
 
@@ -76,7 +77,7 @@ Reintroduction at a lower dose with escalation may be considered after resolutio
 
 ## 5.9 Auditory and Ocular Abnormalities
 
-Auditory disturbances (high frequency hearing loss, decreased hearing), and ocular disturbances (lens opacities, cataracts, elevations in intraocular pressure, and retinal disorders) were reported at a frequency of <1% with deferasirox therapy in the clinical studies.
+Auditory disturbances (high frequency hearing loss, decreased hearing), and ocular disturbances (lens opacities, cataracts, elevations in intraocular pressure, and retinal disorders) were reported at a frequency of less than 1% with deferasirox therapy in the clinical studies.
 Perform auditory and ophthalmic testing (including slit lamp examinations and dilated fundoscopy) before starting JADENU treatment and thereafter at regular intervals (every 12 months).
 If disturbances are noted, monitor more frequently.
 Consider dose reduction or interruption.
