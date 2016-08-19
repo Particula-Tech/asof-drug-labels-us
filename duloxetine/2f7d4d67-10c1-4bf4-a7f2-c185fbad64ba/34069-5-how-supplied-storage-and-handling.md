@@ -17,9 +17,7 @@ CYMBALTA is available as delayed release capsules in the following strengths, co
 | Bottles of 60 | 0002-3235-60 | NA | NA |
 | Bottles of 90 | NA | 0002-3240-90 | NA |
 | Bottles of 1000 | NA | NA | 0002-3270-04 |
-| Blisters ID†100 | NA | 0002-3240-33 | 0002-3270-33 |
 | a equivalent to duloxetine base |  |  |  |
-| † Identi-Dose® (unit dose medication, Lilly) |  |  |  |
 
 ## 16.2 Storage and Handling
 

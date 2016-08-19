@@ -58,7 +58,7 @@ The study included 272 pediatric patients with GAD of which 47% were 7 to 11 yea
 CYMBALTA demonstrated superiority over placebo as measured by greater improvement in the Pediatric Anxiety Rating Scale (PARS) for GAD severity score [see Clinical Studies (14.2)].
 The safety and effectiveness in pediatric patients less than 7 years of age have not been established.
 
-Major Depressive Disorder — Efficacy was not demonstrated in two 10-week, placebo-controlled trials with 800 pediatric patients with MDD, age 7-17.
+Major Depressive Disorder — Efficacy was not demonstrated in two 10-week, placebo-controlled trials with 800 pediatric patients with MDD, age 7 to 17.
 Neither CYMBALTA nor an active control (indicated for treatment of pediatric depression) was superior to placebo.
 The safety and effectiveness in pediatric patients less than 7 years of age have not been established.
 
