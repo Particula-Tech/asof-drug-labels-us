@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 
 Dosing Information
 
-- Instruct patients and caregivers to take NAMZARIC only once per day, as prescribed [see Dosage and Administration (2.1)].
+- Instruct patients and caregivers to take NAMZARIC only once daily in the evening, as prescribed [see Dosage and Administration (2.1)].
 - If a patient misses a single dose of NAMZARIC, that patient should not double up on the next dose.
   The next dose should be taken as scheduled [see Dosage and Administration (2.1)].
 - Instruct patients and caregivers that NAMZARIC capsules should be swallowed whole.
@@ -16,15 +16,11 @@ Common Adverse Reactions
 
 Advise patients and caregivers that NAMZARIC may cause headache, diarrhea, dizziness, anorexia, vomiting, nausea, and ecchymosis [see Adverse Reactions (6.1)].
 
-Manufactured for:
-
-Forest Pharmaceuticals, Inc. Subsidiary of Forest Laboratories, LLC Cincinnati, Ohio 45209
-
-Manufactured by: Forest Laboratories Ireland Ltd Clonshaugh Business and Technology Park Clonshaugh, Dublin 17, Ireland
+Distributed by: Allergan USA, Inc. Irvine, CA 92612
 
 Licensed from Merz Pharma GmbH & Co. KGaA and Adamas Pharmaceuticals, Inc.
 
-NAMZARIC™ is a trademark of Actavis, Inc. or its affiliates.
+NAMZARIC® and its design are trademarks of Merz Pharma GmbH & Co. KGaA.
 
-©2014 Actavis.
+© 2016 Allergan.
 All rights reserved.

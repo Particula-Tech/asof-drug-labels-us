@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-NAMZARIC capsules contain two approved medications: memantine hydrochloride extended-release and donepezil hydrochloride.
+NAMZARIC capsules contain two approved medications: memantine hydrochloride and donepezil hydrochloride.
 Each of those medications is postulated to have a different mechanism in Alzheimer's disease.
 
 Memantine

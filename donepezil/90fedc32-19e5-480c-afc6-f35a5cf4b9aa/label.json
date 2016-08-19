@@ -3,12 +3,14 @@
     "NDA206439"
   ],
   "inn": "donepezil",
-  "labeler": "Forest Laboratories, Inc.",
+  "labeler": "Allergan, Inc.",
   "package_ndcs": [
+    "0456-1207-30",
     "0456-1214-11",
     "0456-1214-30",
     "0456-1214-63",
     "0456-1214-90",
+    "0456-1221-30",
     "0456-1228-11",
     "0456-1228-30",
     "0456-1228-63",
@@ -18,7 +20,7 @@
     {
       "form": "CAPSULE",
       "generic": "memantine hydrochloride and donepezil hydrochloride",
-      "name": "NAMZARIC"
+      "name": "Namzaric"
     }
   ],
   "setid": "90fedc32-19e5-480c-afc6-f35a5cf4b9aa",

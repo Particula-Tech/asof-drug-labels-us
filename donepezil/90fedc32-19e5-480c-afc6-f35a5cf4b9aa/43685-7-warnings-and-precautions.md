@@ -2,13 +2,13 @@
 
 ## 5.1 Anesthesia
 
-Donepezil hydrochloride, as a cholinesterase inhibitor, is likely to exaggerate succinylcholine-type muscle relaxation during anesthesia.
+Donepezil hydrochloride, an active ingredient in NAMZARIC, as a cholinesterase inhibitor, is likely to exaggerate succinylcholine-type muscle relaxation during anesthesia.
 
 ## 5.2 Cardiovascular Conditions
 
 Because of their pharmacological action, cholinesterase inhibitors may have vagotonic effects on the sinoatrial and atrioventricular nodes.
 This effect may manifest as bradycardia or heart block in patients both with and without known underlying cardiac conduction abnormalities.
-Syncopal episodes have been reported in association with the use of donepezil hydrochloride.
+Syncopal episodes have been reported in association with the use of donepezil hydrochloride, an active ingredient in NAMZARIC.
 
 ## 5.3 Peptic Ulcer Disease and Gastrointestinal Bleeding
 
@@ -18,18 +18,18 @@ Patients treated with NAMZARIC should be monitored closely for symptoms of activ
 
 ## 5.4 Nausea and Vomiting
 
-Donepezil hydrochloride, when initiated, as a predictable consequence of its pharmacological properties, has been shown to produce diarrhea, nausea, and vomiting.
+Donepezil hydrochloride, an active ingredient in NAMZARIC, when initiated, as a predictable consequence of its pharmacological properties, has been shown to produce diarrhea, nausea, and vomiting.
 Although in most cases, these effects have been mild and transient, sometimes lasting one to three weeks, and have resolved during continued use of donepezil hydrochloride, patients should be observed closely at the initiation of treatment.
 
 ## 5.5 Genitourinary Conditions
 
-Although not observed in clinical trials of donepezil hydrochloride, cholinomimetics may cause bladder outflow obstruction.
+Although not observed in clinical trials of donepezil hydrochloride, an active ingredient in NAMZARIC, cholinomimetics may cause bladder outflow obstruction.
 
-Conditions that raise urine pH may decrease the urinary elimination of memantine resulting in increased plasma levels of memantine [see Drug Interactions (7.1)].
+Conditions that raise urine pH may decrease the urinary elimination of memantine, an active ingredient in NAMZARIC, resulting in increased plasma levels of memantine [see Drug Interactions (7.1)].
 
 ## 5.6 Seizures
 
-Cholinomimetics, including donepezil hydrochloride, are believed to have some potential to cause generalized convulsions.
+Cholinomimetics, including donepezil hydrochloride, an active ingredient in NAMZARIC, are believed to have some potential to cause generalized convulsions.
 However, seizure activity also may be a manifestation of Alzheimer's disease.
 
 ## 5.7 Pulmonary Conditions
