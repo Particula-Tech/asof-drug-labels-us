@@ -28,8 +28,19 @@ Safety and efficacy in pediatric patients below the age of 6 years has not been 
 
 Juvenile Animal Data
 
-A study was conducted in which young rats were treated orally with clonidine hydrochloride from day 21 of age to adulthood at doses of up to 300 mcg/kg/day, which is approximately 3 times the maximum recommended human dose (MRHD) of 0.4 mg/day on a mg/m2 basis.
-A slight delay in onset of preputial separation (delayed sexual maturation) was seen in males treated with the highest dose (with a no-effect dose of 100 mcg/kg/day, which is approximately equal to the MRHD), but there were no drug effects on fertility or on other measures of sexual or neurobehavioral development.
+In studies in juvenile rats, clonidine hydrochloride alone or in combination with methylphenidate had an effect on bone growth at clinically relevant doses and produced a slight delay in sexual maturation in males at 3 times the maximum recommended human dose (MRHD) for clonidine and methylphenidate.
+
+In a study where juvenile rats were treated orally with clonidine hydrochloride from day 21 of age to adulthood, a slight delay in onset of preputial separation (delayed sexual maturation) was seen in males treated with 300 mcg/kg/day, which is approximately 3 times the MRHD of 0.4 mg/day on a mg/m2 basis.
+The no-effect dose was 100 mcg/kg/day, which is approximately equal to the MRHD.
+There was no drug effects on fertility or on other measures of sexual or neurobehavioral development.
+
+In a study where juvenile rats were treated with clonidine alone (300 mcg/kg/day) or in combination with methylphenidate (10 mg/kg/day in females and 50/30 mg/kg/day in males; the dose was lowered from 50 to 30 mg/kg/day in males due to self-injurious behavior during the first week of treatment) from day 21 of age to adulthood, decreases in bone mineral density and mineral content were observed in males treated with 300 mcg/kg/day clonidine alone and in combination with 50/30 mg/kg/day methylphenidate and a decrease in femur length was observed in males treated with the combination at the end of the treatment period.
+These doses are approximately 3 times the MRHD of 0.4 mg/day clonidine and 54 mg/day methylphenidate on a mg/m2 basis.
+All these effects in male were not reversed at the end of a 4-week recovery period.
+In addition, similar findings were seen in males treated with a lower dose of clonidine (30 mcg/kg/day) in combination with 50 mg/kg/day of methylphenidate and a decrease in femur length was observed in females treated with clonidine alone at the end of the recovery period.
+These effects were accompanied by a decrease in body weight gain in treated animals during the treatment period but the effect was reversed at the end of the recovery period.
+A delay in preputial separation (sexual maturation) was observed in males treated with the combination treatment of 300 mcg/kg/day clonidine and 50/30 mg/kg/day methylphenidate.
+There was no effect on reproduction or sperm analysis in these males.
 
 ## 8.6 Renal Impairment
 

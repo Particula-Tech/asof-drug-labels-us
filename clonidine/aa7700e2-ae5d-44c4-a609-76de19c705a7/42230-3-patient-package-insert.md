@@ -133,7 +133,7 @@ What are the ingredients in KAPVAY?
 - Active Ingredient: clonidine hydrochloride
 - Inactive Ingredients: sodium lauryl sulfate, lactose monohydrate, hypromellose type 2208, partially pregelatinized starch, colloidal silicon dioxide, and magnesium stearate
 
-Revised: 1/2015
+Revised: 8/2016
 
 Manufactured for: Concordia Pharmaceuticals Inc. St. Michael, Barbados BB11005
 

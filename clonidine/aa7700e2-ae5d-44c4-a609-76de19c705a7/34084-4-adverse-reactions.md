@@ -44,7 +44,7 @@ Table 2 Common Adverse Reactions in the Fixed-Dose Monotherapy Trial-Treatment P
 
 Commonly observed adverse reactions (incidence of >2% in either active treatment group and greater than the rate on placebo) during the taper period are listed in Table 3.
 
-Table 3 Common Adverse Reactions in the Fixed-Dose Monotherapy Trial-Taper Period* (Study 1)
+Table 3 Common Adverse Reactions in the Fixed-Dose Monotherapy Trial -Taper Period* (Study 1)
 
 |  | Percentage of Patients Reporting Event |  |  |
 | --- | --- | --- | --- |
@@ -65,11 +65,11 @@ Most KAPVAY treated patients (75.5%) were escalated to the maximum dose of 0.4 m
 
 Most Common Adverse Reactions (incidence of ≥ 5% and at least twice the rate of placebo): somnolence, fatigue, decreased appetite, dizziness.
 
-Adverse Events Leading to Discontinuation –There was one patient in the CLON+STM group (1%) who discontinued because of an adverse event (severe bradyphrenia, with severe fatigue).
+Adverse Events Leading to Discontinuation – There was one patient in the CLON+STM group (1%) who discontinued because of an adverse event (severe bradyphrenia, with severe fatigue).
 
 Commonly observed adverse reactions (incidence of ≥2% in the treatment group and greater than the rate on placebo) during the treatment period are listed in Table 4.
 
-Table 4 Common Adverse Reactions in the Flexible-Dose Adjunctive to Stimulant Therapy Trial-Treatment Period (Study 2)
+Table 4 Common Adverse Reactions in the Flexible-Dose Adjunctive to Stimulant Therapy Trial - Treatment Period (Study 2)
 
 |  | Percentage of Patients Reporting Event |  |
 | --- | --- | --- |
@@ -86,7 +86,7 @@ Table 4 Common Adverse Reactions in the Flexible-Dose Adjunctive to Stimulant Th
 
 Commonly observed adverse reactions (incidence of ≥2% in the treatment group and greater than the rate on placebo) during the taper period are listed in Table 5.
 
-Table 5 Common Adverse Reactions in the Flexible-Dose Adjunctive to Stimulant Therapy Trial- Taper Period* (Study 2)
+Table 5 Common Adverse Reactions in the Flexible-Dose Adjunctive to Stimulant Therapy Trial - Taper Period* (Study 2)
 
 |  | Percentage of Patients Reporting Event |  |
 | --- | --- | --- |
