@@ -76,7 +76,7 @@ Severe (Child-Pugh C) hepatic impairment: Avoid Exjade [see Warnings and Precaut
 Patients with Baseline Renal Impairment
 
 For patients with renal impairment (ClCr 40–60 mL/min), reduce the starting dose by 50% [see Use in Specific Populations (8.6)].
-Do not use Exjade in patients with serum creatinine greater than 2 times the upper limit of normal or creatinine clearance less than 40 mL/min [see Contraindications (4)].
+Do not use Exjade in patients with serum creatinine greater than 2 times the upper limit of normal (ULN) or creatinine clearance less than 40 mL/min [see Contraindications (4)].
 
 ## 2.5 Dose Modifications for Increases in Serum Creatinine on Exjade
 
@@ -90,11 +90,11 @@ Adults and Adolescents (ages 16 years and older):
 
 Pediatric Patients (ages 2-15 years):
 
-- Reduce the dose by 10 mg per kg if serum creatinine increases to greater than 33% above the average baseline measurement and greater than the age appropriate upper limit of normal.
+- Reduce the dose by 10 mg per kg if serum creatinine increases to greater than 33% above the average baseline measurement and greater than the age appropriate ULN.
 
 All Patients (regardless of age):
 
-- Discontinue therapy for serum creatinine greater than 2 times the age-appropriate upper limit of normal or for creatinine clearance <40 mL/min [see Contraindications (4)].
+- Discontinue therapy for serum creatinine greater than 2 times the age-appropriate ULN or for creatinine clearance less than 40 mL/min [see Contraindications (4)].
 
 Non-Transfusion-Dependent Thalassemia Syndromes
 
@@ -104,11 +104,11 @@ Adults and Adolescents (ages 16 years and older):
 
 Pediatric Patients (ages 10-15 years):
 
-- Reduce the dose by 5 mg per kg if serum creatinine increases to greater than 33% above the average baseline measurement and greater than the age appropriate upper limit of normal.
+- Reduce the dose by 5 mg per kg if serum creatinine increases to greater than 33% above the average baseline measurement and greater than the age appropriate ULN.
 
 All Patients (regardless of age):
 
-- Discontinue therapy for serum creatinine greater than 2 times the age-appropriate upper limit of normal or for creatinine clearance <40 mL/min [see Contraindications (4)].
+- Discontinue therapy for serum creatinine greater than 2 times the age-appropriate ULN or for creatinine clearance less than 40 mL/min [see Contraindications (4)].
 
 ## 2.6 Dose Modifications Based on Concomitant Medications
 

@@ -3,11 +3,11 @@
 Transfusional Iron Overload
 
 The primary efficacy study, Study 1, was a multicenter, open-label, randomized, active-comparator control study to compare Exjade (deferasirox) and deferoxamine in patients with beta-thalassemia and transfusional hemosiderosis.
-Patients ≥2 years of age were randomized in a 1:1 ratio to receive either oral Exjade at starting doses of 5, 10, 20, or 30 mg per kg once daily or subcutaneous Desferal (deferoxamine) at starting doses of 20 to 60 mg per kg for at least 5 days per week based on LIC at baseline (2-3, >3-7, >7-14, and >14 mg Fe/g dry weight).
-Patients randomized to deferoxamine who had LIC values <7 mg Fe/g dry weight were permitted to continue on their prior deferoxamine dose, even though the dose may have been higher than specified in the protocol.
+Patients greater than or equal to 2 years of age were randomized in a 1:1 ratio to receive either oral Exjade at starting doses of 5, 10, 20, or 30 mg per kg once daily or subcutaneous Desferal (deferoxamine) at starting doses of 20 to 60 mg per kg for at least 5 days per week based on LIC at baseline (2-3, greater than 3-7, greater than 7-14, and greater than 14 mg Fe/g dry weight).
+Patients randomized to deferoxamine who had LIC values less than 7 mg Fe/g dry weight were permitted to continue on their prior deferoxamine dose, even though the dose may have been higher than specified in the protocol.
 
 Patients were to have a liver biopsy at baseline and end of study (after 12 months) for LIC.
-The primary efficacy endpoint was defined as a reduction in LIC of ≥3 mg Fe/g dry weight for baseline values ≥10 mg Fe/g dry weight, reduction of baseline values between 7 and <10 to <7 mg Fe/g dry weight, or maintenance or reduction for baseline values <7 mg Fe/g dry weight.
+The primary efficacy endpoint was defined as a reduction in LIC of greater than or equal to 3 mg Fe/g dry weight for baseline values greater than or equal to 10 mg Fe/g dry weight, reduction of baseline values between 7 and less than 10 to less than 7 mg Fe/g dry weight, or maintenance or reduction for baseline values less than 7 mg Fe/g dry weight.
 
 A total of 586 patients were randomized and treated, 296 with Exjade and 290 with deferoxamine.
 The mean age was 17.1 years (range, 2-53 years); 52% were females and 88% were Caucasian.
@@ -25,22 +25,22 @@ Study 2 was an open-label, noncomparative trial of efficacy and safety of Exjade
 Similar to Study 1, patients received 5, 10, 20, or 30 mg per kg per day of Exjade based on baseline LIC.
 
 A total of 184 patients were treated in this study: 85 patients with beta-thalassemia and 99 patients with other congenital or acquired anemias (myelodysplastic syndromes, n=47; Diamond-Blackfan syndrome, n=30; other, n=22).
-19% of patients were <16 years of age and 16% were ≥65 years of age.
+19% of patients were less than 16 years of age and 16% were greater than 65 years of age.
 There was a reduction in the absolute LIC from baseline to end of study (-4.2 mg Fe/g dry weight).
 
 Study 3 was a multicenter, open-label, randomized trial of the safety and efficacy of Exjade relative to deferoxamine given for 1 year in patients with sickle cell disease and transfusional hemosiderosis.
 Patients were randomized to Exjade at doses of 5, 10, 20, or 30 mg per kg per day or subcutaneous deferoxamine at doses of 20-60 mg per kg per day for 5 days per week according to baseline LIC.
 
 A total of 195 patients were treated in this study: 132 with Exjade and 63 with deferoxamine.
-44% of patients were <16 years of age and 91% were black.
+44% of patients were less than 16 years of age and 91% were black.
 At end of study, the mean change in LIC (as measured by magnetic susceptometry by a superconducting quantum interference device) in the per protocol-1 (PP-1) population, which consisted of patients who had at least 1 post-baseline LIC assessment, was -1.3 mg Fe/g dry weight for patients receiving Exjade (n=113) and -0.7 mg Fe/g dry weight for patients receiving deferoxamine (n=54).
 
 One-hundred five (105) patients with thalassemia major and cardiac iron overload were enrolled in a study assessing the change in cardiac MRI T2* value (measured in milliseconds, ms) before and after treatment with deferasirox.
-Cardiac T2* values at baseline ranged from 5 to <20 ms. The geometric mean of cardiac T2* in the 68 patients who completed 3 years of Exjade therapy increased from 11.98 ms at baseline to 17.12 ms at 3 years.
-Cardiac T2* values improved in patients with severe cardiac iron overload (<10 ms) and in those with mild to moderate cardiac iron overload (≥10 to <20 ms). The clinical significance of these observations is unknown.
+Cardiac T2* values at baseline ranged from 5 to less than 20 ms. The geometric mean of cardiac T2* in the 68 patients who completed 3 years of Exjade therapy increased from 11.98 ms at baseline to 17.12 ms at 3 years.
+Cardiac T2* values improved in patients with severe cardiac iron overload (less than 10 ms) and in those with mild to moderate cardiac iron overload (greater than or equal to 10 to less than 20 ms). The clinical significance of these observations is unknown.
 
-Six hundred twenty-seven patients with MDS were enrolled across 5 uncontrolled trials.
-Two hundred thirty-nine of the 627 patients were enrolled in trials that limited enrollment to patients with IPSS Low or Intermediate 1 risk MDS and the remaining 388 patients were enrolled in trials that did not specify MDS risk stratification but required a life expectancy of greater than 1 year.
+Six hundred twenty-seven (627) patients with MDS were enrolled across 5 uncontrolled trials.
+Two hundred thirty-nine (239) of the 627 patients were enrolled in trials that limited enrollment to patients with IPSS Low or Intermediate 1 risk MDS and the remaining 388 patients were enrolled in trials that did not specify MDS risk stratification but required a life expectancy of greater than 1 year.
 Planned duration of treatment in these trials ranged from 1 year (365 patients) to 5 years (47 patients).
 These trials evaluated the effects of Exjade therapy on parameters of iron overload, including LIC (125 patients) and serum ferritin (627 patients).
 Percent of patients completing planned duration of treatment was 51% in the largest 1 year study, 52% in the 3-year study and 22% in the 5 year study.
@@ -72,7 +72,7 @@ Absolute Change in LIC at Week 52 in NTDT Patients
 
 |  | Starting Dose1 |  |  |  |
 | --- | --- | --- | --- | --- |
-|  |  | EXJADE | EXJADE | EXJADE |
+|  |  | Exjade | Exjade | Exjade |
 |  | Placebo | 5 mg/kg/day | 10 mg/kg/day | 20 mg/kg/day |
 | Study 42 |  |  |  |  |
 | Number of Patients | n=54 | n=51 | n=54 | - |

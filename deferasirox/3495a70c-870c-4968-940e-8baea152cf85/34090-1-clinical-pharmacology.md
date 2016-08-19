@@ -66,15 +66,15 @@ In vitro studies:
 Pharmacokinetics in Specific Populations
 
 Pediatric: Following oral administration of single or multiple doses, systemic exposure of adolescents and children to deferasirox was less than in adult patients.
-In children <6 years of age, systemic exposure was about 50% lower than in adults.
+In children less than 6 years of age, systemic exposure was about 50% lower than in adults.
 
 Geriatric: The pharmacokinetics of deferasirox have not been studied in elderly patients (65 years of age or older).
 
 Gender: Females have a moderately lower apparent clearance (by 17.5%) for deferasirox compared to males.
 
-Renal Impairment: Compared to patients with MDS and ClCr >60 mL/min, patients with MDS and ClCr 40 to 60 mL/min (n=34) had approximately 50% higher mean deferasirox trough plasma concentrations.
+Renal Impairment: Compared to patients with MDS and ClCr greater than 60 mL/min, patients with MDS and ClCr 40 to 60 mL/min (n=34) had approximately 50% higher mean deferasirox trough plasma concentrations.
 
-## 12.6 QT Prolongation
+## 12.6 Cardiac Electrophysiology
 
 The effect of 20 and 40 mg per kg per day of deferasirox on the QT interval was evaluated in a single-dose, double-blind, randomized, placebo- and active-controlled (moxifloxacin 400 mg), parallel group study in 182 healthy male and female volunteers age 18-65 years.
 No evidence of prolongation of the QTc interval was observed in this study.

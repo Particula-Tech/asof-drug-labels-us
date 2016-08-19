@@ -2,7 +2,7 @@ PRINCIPAL DISPLAY PANEL
 
 Package Label – 125 mg Tablets for Oral Suspension
 
-Rx Only NDA 0078-0468-15
+Rx Only NDC 0078-0468-15
 
 EXJADE® (deferasirox)
 
@@ -22,7 +22,7 @@ PRINCIPAL DISPLAY PANEL
 
 Package Label – 250 mg Tablets for Oral Suspension
 
-Rx Only NDA 0078-0469-15
+Rx Only NDC 0078-0469-15
 
 EXJADE® (deferasirox)
 
@@ -42,7 +42,7 @@ PRINCIPAL DISPLAY PANEL
 
 Package Label – 500 mg Tablets for Oral Suspension
 
-Rx Only NDA 0078-0470-15
+Rx Only NDC 0078-0470-15
 
 EXJADE® (deferasirox)
 
