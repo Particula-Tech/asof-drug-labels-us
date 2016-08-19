@@ -13,3 +13,5 @@ Quetiapine Tablets USP are available for oral administration containing either 2
 Each 25 mg tablet contains the following inactive ingredients: lactose, magnesium stearate, microcrystalline cellulose, povidone and sodium starch glycolate.
 
 The 50 mg, 100 mg, 200 mg, 300 mg and 400 mg tablets contain the following inactive ingredients: colloidal silicon dioxide, magnesium stearate, microcrystalline cellulose, povidone and sodium starch glycolate.
+
+Each tablet meets the requirements of the Test 3 Dissolution in the USP monograph for Quetiapine Tablets USP.

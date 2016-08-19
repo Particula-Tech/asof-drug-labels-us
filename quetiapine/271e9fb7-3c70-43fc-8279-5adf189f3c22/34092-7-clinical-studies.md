@@ -37,12 +37,23 @@ Table 19: Schizophrenia Short-Term Trials
 | Study Number | Treatment Group | Primary Efficacy Endpoint: BPRS Total |  |  |
 | --- | --- | --- | --- | --- |
 | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-Subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |  |  |
-| Study 1 | Quetiapine (75 mg/day)Quetiapine (150 mg/day)Doses that are statistically significant superior to placebo.Quetiapine (300 mg/day)Quetiapine (600 mg/day)Quetiapine (750 mg/day)Placebo | 45.7 (10.9)47.2 (10.1)45.3 (10.9)43.5 (11.3)45.7 (11)45.3 (9.2) | -2.2 (2)-8.7 (2.1)-8.6 (2.1)-7.7 (2.1)-6.3 (2)1.7 (2.1) | -4 (-11.2, 3.3)-10.4 (-17.8, -3)-10.3 (-17.6, -3)-9.4 (-16.7, -2.1)-8 (-15.2, -0.8)-- |
-| Study 2 | Quetiapine (250 mg/day) Quetiapine (750 mg/day)Placebo | 38.9 (9.8)41 (9.6)38.4 (9.7) | -4.2 (1.6)-8.7 (1.6)-1 (1.6) | -3.2 (-7.6, 1.2)-7.8 (-12.2, -3.4)-- |
-| Study 3 | Quetiapine (450 mg/day BID)Quetiapine (450 mg/day TID)Doses that are statistically significant superior to quetiapine 50 mg BID. Quetiapine (50 mg BID) | 42.1 (10.7)42.7 (10.4)41.7 (10) | -10 (1.3)-8.6 (1.3)-5.4 (1.3) | -4.6 (-7.8, -1.4)-3.2 (-6.4, 0)-- |
+| Study 1 | Quetiapine (75 mg/day) | 45.7 (10.9) | -2.2 (2) | -4 (-11.2, 3.3) |
+| Quetiapine (150 mg/day)Doses that are statistically significant superior to placebo. | 47.2 (10.1) | -8.7 (2.1) | -10.4 (-17.8, -3) |  |
+| Quetiapine (300 mg/day) | 45.3 (10.9) | -8.6 (2.1) | -10.3 (-17.6, -3) |  |
+| Quetiapine (600 mg/day) | 43.5 (11.3) | -7.7 (2.1) | -9.4 (-16.7, -2.1) |  |
+| Quetiapine (750 mg/day) | 45.7 (11) | -6.3 (2) | -8 (-15.2, -0.8) |  |
+| Placebo | 45.3 (9.2) | 1.7 (2.1) | -- |  |
+| Study 2 | Quetiapine (250 mg/day) | 38.9 (9.8) | -4.2 (1.6) | -3.2 (-7.6, 1.2) |
+| Quetiapine (750 mg/day) | 41 (9.6) | -8.7 (1.6) | -7.8 (-12.2, -3.4) |  |
+| Placebo | 38.4 (9.7) | -1 (1.6) | -- |  |
+| Study 3 | Quetiapine (450 mg/day BID) | 42.1 (10.7) | -10 (1.3) | -4.6 (-7.8, -1.4) |
+| Quetiapine (450 mg/day TID)Doses that are statistically significant superior to quetiapine 50 mg BID. | 42.7 (10.4) | -8.6 (1.3) | -3.2 (-6.4, 0) |  |
+| Quetiapine (50 mg BID) | 41.7 (10) | -5.4 (1.3) | -- |  |
 |  |  | Primary Efficacy Endpoint: PANSS Total |  |  |
 | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-Subtracted Difference (95% CI) |  |  |
-| Study 4 | Quetiapine (400 mg/day) Quetiapine (800 mg/day)Placebo | 96.2 (17.7)96.9 (15.3)96.2 (17.7) | -27.3 (2.6)-28.4 (1.8)-19.2 (3) | -8.2 (-16.1, -0.3)-9.3 (-16.2, -2.4)-- |
+| Study 4 | Quetiapine (400 mg/day) | 96.2 (17.7) | -27.3 (2.6) | -8.2 (-16.1, -0.3) |
+| Quetiapine (800 mg/day) | 96.9 (15.3) | -28.4 (1.8) | -9.3 (-16.2, -2.4) |  |
+| Placebo | 96.2 (17.7) | -19.2 (3) | -- |  |
 | SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. |  |  |  |  |
 
 ## 14.2 Bipolar Disorder
@@ -69,7 +80,7 @@ The majority of patients in these trials taking quetiapine were dosed in a range
 
 Adjunct Therapy
 
-In this 3-week placebo-controlled trial, 170 patients with bipolar mania (YMRS ≥20) were randomized to receive quetiapine or placebo as adjunct treatment to lithium or divalproex.
+In this 3-week placebo-controlled trial, 170 patients with bipolar mania (YMRS ≥ 20) were randomized to receive quetiapine or placebo as adjunct treatment to lithium or divalproex.
 Patients may or may not have received an adequate treatment course of lithium or divalproex prior to randomization.
 Quetiapine was superior to placebo when added to lithium or divalproex alone in the reduction of YMRS total score (study 3 in Table 20).
 
@@ -93,10 +104,17 @@ Table 20: Mania Trials
 | Study Number | Treatment Group | Primary Efficacy Measure: YMRS Total |  |  |
 | --- | --- | --- | --- | --- |
 | Mean Baseline Score (SD)Adult data mean baseline score is based on patients included in the primary analysis; pediatric mean baseline score is based on all patients in the ITT population | LS Mean Change from Baseline (SE) | Placebo-Subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |  |  |
-| Study 1 | Quetiapine (200 to 800 mg/day)Doses that are statistically significantly superior to placebo.Included in the trial as an active comparatorHaloperidolPlacebo | 34 (6.1)32.3 (6)33.1 (6.6) | -12.3 (1.3)-15.7 (1.3)-8.3 (1.3) | -4 (-7, -1)-7.4 (-10.4, -4.4)-- |
-| Study 2 | Quetiapine (200 to 800 mg/day)LithiumPlacebo | 32.7 (6.5)33.3 (7.1)34 (6.9) | -14.6 (1.5)-15.2 (1.6)-6.7 (1.6) | -7.9 (-10.9, -5)-8.5 (-11.5, -5.5)-- |
-| Study 3 | Quetiapine (200 to 800 mg/day) + Mood StabilizerPlacebo + Mood Stabilizer | 31.5 (5.8)31.1 (5.5) | -13.8 (1.6)-10 (1.5) | -3.8 (-7.1, -0.6)-- |
-| Study 4 | Quetiapine (400 mg/day)Quetiapine (600 mg/day)Placebo | 29.4 (5.9)29.6 (6.4)30.7 (5.9) | -14.3 (0.96)-15.6 (0.97)-9 (1.1) | -5.2 (-8.1, -2.3)-6.6 (-9.5, -3.7)-- |
+| Study 1 | Quetiapine (200 to 800 mg/day)Doses that are statistically significantly superior to placebo.Included in the trial as an active comparator | 34 (6.1) | -12.3 (1.3) | -4 (-7, -1) |
+| Haloperidol | 32.3 (6) | -15.7 (1.3) | -7.4 (-10.4, -4.4) |  |
+| Placebo | 33.1 (6.6) | -8.3 (1.3) | -- |  |
+| Study 2 | Quetiapine (200 to 800 mg/day) | 32.7 (6.5) | -14.6 (1.5) | -7.9 (-10.9, -5) |
+| Lithium | 33.3 (7.1) | -15.2 (1.6) | -8.5 (-11.5, -5.5) |  |
+| Placebo | 34 (6.9) | -6.7 (1.6) | -- |  |
+| Study 3 | Quetiapine (200 to 800 mg/day) + Mood Stabilizer | 31.5 (5.8) | -13.8 (1.6) | -3.8 (-7.1, -0.6) |
+| Placebo + Mood Stabilizer | 31.1 (5.5) | -10 (1.5) | -- |  |
+| Study 4 | Quetiapine (400 mg/day) | 29.4 (5.9) | -14.3 (0.96) | -5.2 (-8.1, -2.3) |
+| Quetiapine (600 mg/day) | 29.6 (6.4) | -15.6 (0.97) | -6.6 (-9.5, -3.7) |  |
+| Placebo | 30.7 (5.9) | -9 (1.1) | -- |  |
 | Mood stabilizer: lithium or divalproex; SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. |  |  |  |  |
 
 Bipolar Disorder, Depressive Episodes
@@ -119,8 +137,12 @@ Table 21: Depressive Episodes Associated with Bipolar Disorder
 | Study Number | Treatment Group | Primary Efficacy Measure: MADRS Total |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-Subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |  |  |  |  |  |  |  |
-| Study 5 | Quetiapine (300 mg/day)Doses that are statistically significantly superior to placebo.Quetiapine (600 mg/day)Placebo | 30.3 (5)30.3 (5.3)30.6 (5.3) | -16.4 (0.9)-16.7 (0.9)-10.3 (0.9) | -6.1 (-8.3, -3.9)-6.5 (-8.7, -4.3)-- |  |  |  |  |  |
-| Study 6 | Quetiapine (300 mg/day)Quetiapine (600 mg/day)Placebo | 31.1 (5.7)29.9 (5.6)29.6 (5.4) | -16.9 (1)-16 (1)-11.9 (1) | -5 (-7.3, -2.7)-4.1 (-6.4, -1.8)-- |  |  |  |  |  |
+| Study 5 | Quetiapine (300 mg/day)Doses that are statistically significantly superior to placebo. | 30.3 (5) | -16.4 (0.9) | -6.1 (-8.3, -3.9) |  |  |  |  |  |
+| Quetiapine (600 mg/day) | 30.3 (5.3) | -16.7 (0.9) | -6.5 (-8.7, -4.3) |  |  |  |  |  |  |
+| Placebo | 30.6 (5.3) | -10.3 (0.9) | -- |  |  |  |  |  |  |
+| Study 6 | Quetiapine (300 mg/day) | 31.1 (5.7) | -16.9 (1) | -5 (-7.3, -2.7) |  |  |  |  |  |
+| Quetiapine (600 mg/day) | 29.9 (5.6) | -16 (1) | -4.1 (-6.4, -1.8) |  |  |  |  |  |  |
+| Placebo | 29.6 (5.4) | -11.9 (1) | -- |  |  |  |  |  |  |
 | SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. |  |  |  |  |  |  |  |  |  |
 
 Maintenance Treatment as an Adjunct to Lithium or Divalproex
@@ -132,7 +154,7 @@ On average, patients were stabilized for 15 weeks.
 In the randomization phase, patients continued treatment with lithium or divalproex and were randomized to receive either quetiapine (administered twice daily totaling 400 mg/day to 800 mg/day) or placebo.
 Approximately 50% of the patients had discontinued from the quetiapine group by day 280 and 50% of the placebo group had discontinued by day 117 of double-blind treatment.
 The primary endpoint in these studies was time to recurrence of a mood event (manic, mixed or depressed episode).
-A mood event was defined as medication initiation or hospitalization for a mood episode; YMRS score ≥20 or MADRS score ≥20 at 2 consecutive assessments; or study discontinuation due to a mood event.
+A mood event was defined as medication initiation or hospitalization for a mood episode; YMRS score ≥ 20 or MADRS score ≥ 20 at 2 consecutive assessments; or study discontinuation due to a mood event.
 (Figure 1 and Figure 2)
 
 In both studies, quetiapine was superior to placebo in increasing the time to recurrence of any mood event.

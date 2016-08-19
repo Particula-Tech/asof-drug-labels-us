@@ -184,7 +184,7 @@ Quetiapine can cause serious side effects, including:
 - •sleepiness, drowsiness, feeling tired, difficulty thinking and doing normal activities
 - •increased body temperature
 - •difficulty swallowing
-- •trouble sleeping or trouble staying asleep (insomnia), nausea, and vomiting if you suddenly stop taking quetiapine.
+- •trouble sleeping or trouble staying asleep (insomnia), nausea or vomiting if you suddenly stop taking quetiapine.
   These symptoms usually get better 1 week after you start having them
 
 The most common side effects of quetiapine include:
@@ -243,6 +243,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Distr. by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724
 
-10004966/03
+10004966/04
 
-Revised March 2016
+Revised August 2016

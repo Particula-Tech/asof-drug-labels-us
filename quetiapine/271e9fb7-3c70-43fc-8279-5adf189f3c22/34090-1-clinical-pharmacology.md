@@ -54,7 +54,7 @@ Quetiapine is extensively metabolized by the liver.
 The major metabolic pathways are sulfoxidation to the sulfoxide metabolite and oxidation to the parent acid metabolite; both metabolites are pharmacologically inactive.
 In vitro studies using human liver microsomes revealed that the cytochrome P450 3A4 isoenzyme is involved in the metabolism of quetiapine to its major, but inactive, sulfoxide metabolite and in the metabolism of its active metabolite N-desalkyl quetiapine.
 
-Age: Oral clearance of quetiapine was reduced by 40% in elderly patients (≥65 years, n=9) compared to young patients (n=12), and dosing adjustment may be necessary [see Dosage and Administration (2.3)].
+Age: Oral clearance of quetiapine was reduced by 40% in elderly patients (≥ 65 years, n=9) compared to young patients (n=12), and dosing adjustment may be necessary [see Dosage and Administration (2.3)].
 
 Gender: There is no gender effect on the pharmacokinetics of quetiapine.
 
@@ -62,7 +62,7 @@ Race: There is no race effect on the pharmacokinetics of quetiapine.
 
 Smoking: Smoking has no effect on the oral clearance of quetiapine.
 
-Renal Insufficiency: Patients with severe renal impairment (Clcr=10 to 30 mL/min/1.73 m2, n=8) had a 25% lower mean oral clearance than normal subjects (Clcr >80 mL/min/1.73 m2, n=8), but plasma quetiapine concentrations in the subjects with renal insufficiency were within the range of concentrations seen in normal subjects receiving the same dose.
+Renal Insufficiency: Patients with severe renal impairment (Clcr=10 to 30 mL/min/1.73 m2, n=8) had a 25% lower mean oral clearance than normal subjects (Clcr > 80 mL/min/1.73 m2, n=8), but plasma quetiapine concentrations in the subjects with renal insufficiency were within the range of concentrations seen in normal subjects receiving the same dose.
 Dosage adjustment is therefore not needed in these patients [see Use in Specific Populations (8.6)].
 
 Hepatic Insufficiency: Hepatically impaired patients (n=8) had a 30% lower mean oral clearance of quetiapine than normal subjects.
