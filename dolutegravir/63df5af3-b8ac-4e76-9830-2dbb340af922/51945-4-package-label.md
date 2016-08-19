@@ -94,11 +94,11 @@ Tablets
 
 50 mg
 
-30 Tablets
-
 Rx Only
 
 Each film-coated tablet contains dolutegravir sodium equivalent to 50 mg of dolutegravir.
+
+30 Tablets
 
 Store at controlled room temperature of 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) (see USP).
 
@@ -118,4 +118,7 @@ Research Triangle Park, NC 27709
 
 Made in Japan
 
-A111024
+Rev.
+6/16
+
+A141767
