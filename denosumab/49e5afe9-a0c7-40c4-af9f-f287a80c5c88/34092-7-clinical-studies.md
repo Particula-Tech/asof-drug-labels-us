@@ -51,10 +51,10 @@ Treatment with Prolia resulted in a significant reduction in the incidence of no
 Table 3.
 The Effect of Prolia on the Incidence of Nonvertebral Fractures at Year 3
 
-|  | Proportion of Women With Fracture (%)+ |  | Absolute Risk Reduction (%) (95% CI) | Relative Risk Reduction (%) (95% CI) |  |
+|  |  | Proportion of Women With Fracture (%)+ |  | Absolute Risk Reduction (%) (95% CI) | Relative Risk Reduction (%) (95% CI) |
 | --- | --- | --- | --- | --- | --- |
-|  | Placebo N = 3906 (%) | Prolia N = 3902 (%) |  |  |  |
-| Nonvertebral fracture1 | 8.0 | 6.5 | 1.5 (0.3, 2.7) | 20 (5, 33)* |  |
+|  |  | Placebo N = 3906 (%) | Prolia N = 3902 (%) |  |  |
+| Nonvertebral fracture1 |  | 8.0 | 6.5 | 1.5 (0.3, 2.7) | 20 (5, 33)* |
 | + | Event rates based on Kaplan-Meier estimates at 3 years. |  |  |  |  |
 | 1 | Excluding those of the vertebrae (cervical, thoracic, and lumbar), skull, facial, mandible, metacarpus, and finger and toe phalanges. |  |  |  |  |
 | * | p-value = 0.01. |  |  |  |  |

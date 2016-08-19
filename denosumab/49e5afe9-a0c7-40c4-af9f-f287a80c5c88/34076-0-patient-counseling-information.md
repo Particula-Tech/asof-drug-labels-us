@@ -59,4 +59,4 @@ Patent: http://pat.amgen.com/prolia/
 
 © 2010-2016 Amgen Inc. All rights reserved.
 
-1xxxxxx ± v10
+1xxxxxx - v11
