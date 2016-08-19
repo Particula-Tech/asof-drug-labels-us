@@ -160,7 +160,7 @@ Patients with partial onset seizures on a stable dose of 1 to 3 AEDs entered int
 Patients who experienced at least 8 partial onset seizures, with or without secondary generalization, and no more than 21 consecutive seizure free days during the 8 week baseline phase were randomly assigned to placebo or QUDEXY XR administered once daily in addition to their concomitant AEDs.
 Following randomization, 249 patients began the double-blind treatment phase, which consisted of an initial 3 week titration period followed by an 8 week maintenance period.
 During the titration period, patients received QUDEXY XR or placebo beginning at 50 mg once daily; the dose was increased at weekly intervals by 50 mg once daily, or the placebo equivalent, until a final dose of 200 mg once daily was achieved.
-Patients than entered the maintenance period at the assigned dose of 200 mg once daily, or its placebo equivalent.
+Patients then entered the maintenance period at the assigned dose of 200 mg once daily, or its placebo equivalent.
 
 The percent reduction in the frequency of partial-onset seizure, baseline period compared to the treatment phase, was the primary endpoint.
 Data was analyzed by the Wilcoxon rank-sum test, with the criteria of statistical significance of p<0.05.

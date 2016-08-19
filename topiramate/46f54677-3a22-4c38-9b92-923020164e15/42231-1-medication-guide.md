@@ -229,9 +229,13 @@ Inactive ingredients: microcrystalline cellulose, hypromellose 2910, ethylcellul
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
+For Medication Guides, please visit www.upsher-smith.com or call 1-888-650-3789.
+
 Distributed by UPSHER-SMITH LABORATORIES, INC. Maple Grove, MN 55369
 
-Revised: 03/2015
+Revised: 0516
 
-Qudexy is a registered trademark of Upsher-Smith Laboratories.
-All other marks are owned by their respective owners.
+This product may be covered by one or more U.S. patent(s).
+See www.uslpatents.com.
+
+Qudexy is a registered trademark of Upsher-Smith Laboratories, Inc. All other marks are owned by their respective owners.

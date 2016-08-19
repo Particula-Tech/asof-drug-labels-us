@@ -6,7 +6,7 @@ Qudexy® XR (topiramate) extended-release capsules
 
 25 mg
 
-Dispense the accompanying Medication Guide to each patient.
+PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 500 Capsules Rx only
 
@@ -18,7 +18,7 @@ Qudexy® XR (topiramate) extended-release capsules
 
 50 mg
 
-Dispense the accompanying Medication Guide to each patient.
+PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 500 Capsules Rx only
 
@@ -32,7 +32,7 @@ Qudexy® XR (topiramate) extended-release capsules
 
 100 mg
 
-Dispense the accompanying Medication Guide to each patient.
+PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 500 Capsules Rx only
 
@@ -46,7 +46,7 @@ Qudexy® XR (topiramate) extended-release capsules
 
 150 mg
 
-Dispense the accompanying Medication Guide to each patient.
+PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 500 Capsules Rx only
 
@@ -60,6 +60,6 @@ Qudexy® XR (topiramate) extended-release capsules
 
 200 mg
 
-Dispense the accompanying Medication Guide to each patient.
+PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 500 Capsules Rx only

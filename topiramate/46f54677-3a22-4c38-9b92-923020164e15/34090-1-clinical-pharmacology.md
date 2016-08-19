@@ -100,7 +100,7 @@ Drug-Drug Interaction Studies
 Antiepileptic Drugs
 
 Potential interactions between immediate-release topiramate and standard AEDs were assessed in controlled clinical pharmacokinetic studies in patients with epilepsy.
-The effects of these interactions on mean plasma AUCs are summarized in Table 9.
+The effects of these interactions on mean plasma AUCs are summarized in Table 10.
 Interaction of QUDEXY XR and standard AEDs is not expected to differ from the experience with immediate-release topiramate products.
 
 In Table 10, the second column (AED concentration) describes what happened to the concentration of the AED listed in the first column when topiramate was added.
