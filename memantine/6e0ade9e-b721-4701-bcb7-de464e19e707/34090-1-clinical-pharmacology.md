@@ -17,13 +17,13 @@ In vitro studies have shown that memantine does not affect the reversible inhibi
 
 Absorption
 
-Following oral administration memantine is highly absorbed with peak concentrations reached in about 3-7 hours.
+Following oral administration memantine is highly absorbed with peak concentrations reached in about 3 to 7 hours.
 Memantine has linear pharmacokinetics over the therapeutic dose range.
 Food has no effect on the absorption of memantine.
 
 Distribution
 
-The mean volume of distribution of memantine is 9-11 L/kg and the plasma protein binding is low (45%).
+The mean volume of distribution of memantine is 9 to 11 L/kg and the plasma protein binding is low (45%).
 
 Metabolism
 
@@ -32,7 +32,7 @@ The hepatic microsomal CYP450 enzyme system does not play a significant role in 
 
 Elimination
 
-Memantine is excreted predominantly (about 48%) unchanged in urine and has a terminal elimination half- life of about 60-80 hours.
+Memantine is excreted predominantly (about 48%) unchanged in urine and has a terminal elimination half- life of about 60 to 80 hours.
 
 The remainder is converted primarily to three polar metabolites which possess minimal NMDA receptor antagonistic activity: the N-glucuronide conjugate, 6-hydroxy memantine, and 1-nitroso-deaminated memantine.
 A total of 74% of the administered dose is excreted as the sum of the parent drug and the N-glucuronide conjugate.
@@ -50,7 +50,7 @@ The pharmacokinetics of Memantine Hydrochloride Tablets in young and elderly sub
 
 Renal Impairment
 
-Memantine pharmacokinetics were evaluated following single oral administration of 20 mg memantine HCl in 8 subjects with mild renal impairment (creatinine clearance, CLcr, >50 – 80 mL/min), 8 subjects with moderate renal impairment (CLcr 30 – 49 mL/min), 7 subjects with severe renal impairment (CLcr 5 – 29 mL/min) and 8 healthy subjects (CLcr > 80 mL/min) matched as closely as possible by age, weight and gender to the subjects with renal impairment.
+Memantine pharmacokinetics were evaluated following single oral administration of 20 mg memantine HCl in 8 subjects with mild renal impairment (creatinine clearance, CLcr, >50 to 80 mL/min), 8 subjects with moderate renal impairment (CLcr 30 to 49 mL/min), 7 subjects with severe renal impairment (CLcr 5 to 29 mL/min) and 8 healthy subjects (CLcr > 80 mL/min) matched as closely as possible by age, weight and gender to the subjects with renal impairment.
 Mean AUC0-∞ increased by 4%, 60%, and 115% in subjects with mild, moderate, and severe renal impairment, respectively, compared to healthy subjects.
 The terminal elimination half-life increased by 18%, 41%, and 95% in subjects with mild, moderate, and severe renal impairment, respectively, compared to healthy subjects.
 
@@ -59,7 +59,7 @@ Dosage should be reduced in patients with severe renal impairment [see Dosage an
 
 Hepatic Impairment
 
-Memantine pharmacokinetics were evaluated following the administration of single oral doses of 20 mg in 8 subjects with moderate hepatic impairment (Child-Pugh Class B, score 7-9) and 8 subjects who were age-, gender-, and weight-matched to the hepatically-impaired subjects.
+Memantine pharmacokinetics were evaluated following the administration of single oral doses of 20 mg in 8 subjects with moderate hepatic impairment (Child-Pugh Class B, score 7 to 9) and 8 subjects who were age-, gender-, and weight-matched to the hepatically-impaired subjects.
 There was no change in memantine exposure (based on Cmax and AUC) in subjects with moderate hepatic impairment as compared with healthy subjects.
 However, terminal elimination half-life increased by about 16% in subjects with moderate hepatic impairment as compared with healthy subjects.
 No dose adjustment is recommended for patients with mild and moderate hepatic impairment.

@@ -14,7 +14,7 @@ Special Populations
 
 Renal Impairment
 
-A target dose of 5 mg twice daily is recommended in patients with severe renal impairment (creatinine clearance of 5 – 29 mL/min based on the Cockroft-Gault equation).
+A target dose of 5 mg twice daily is recommended in patients with severe renal impairment (creatinine clearance of 5 to 29 mL/min based on the Cockroft-Gault equation).
 
 Hepatic Impairment
 

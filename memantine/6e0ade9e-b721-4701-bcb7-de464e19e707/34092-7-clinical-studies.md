@@ -1,7 +1,7 @@
 # 14 CLINICAL STUDIES
 
 The effectiveness of memantine as a treatment for patients with moderate to severe Alzheimer's disease was demonstrated in 2 randomized, double-blind, placebo-controlled clinical studies (Studies 1 and 2) conducted in the United States that assessed both cognitive function and day to day function.
-The mean age of patients participating in these two trials was 76 with a range of 50-93 years.
+The mean age of patients participating in these two trials was 76 with a range of 50 to 93 years.
 Approximately 66% of patients were female and 91% of patients were Caucasian.
 A third study (Study 3), carried out in Latvia, enrolled patients with severe dementia, but did not assess cognitive function as a planned endpoint.
 Study Outcome Measures: In each U.S. study, the effectiveness of memantine was determined using both an instrument designed to evaluate overall function through caregiver-related assessment, and an instrument that measures cognition.
@@ -20,7 +20,7 @@ The SIB scoring range is from 0 to 100, with lower scores indicating greater cog
 
 Study 1 (Twenty-Eight-Week Study)
 
-In a study of 28 weeks duration, 252 patients with moderate to severe probable Alzheimer's disease (diagnosed by DSM-IV and NINCDS-ADRDA criteria, with Mini-Mental State Examination scores ≥ 3 and ≤ 14 and Global Deterioration Scale Stages 5-6) were randomized to memantine or placebo.
+In a study of 28 weeks duration, 252 patients with moderate to severe probable Alzheimer's disease (diagnosed by DSM-IV and NINCDS-ADRDA criteria, with Mini-Mental State Examination scores ≥ 3 and ≤ 14 and Global Deterioration Scale Stages 5 to 6) were randomized to memantine or placebo.
 For patients randomized to memantine, treatment was initiated at 5 mg once daily and increased weekly by 5 mg/day in divided doses to a dose of 20 mg/day (10 mg twice a day).
 
 Effects on the ADCS-ADL
