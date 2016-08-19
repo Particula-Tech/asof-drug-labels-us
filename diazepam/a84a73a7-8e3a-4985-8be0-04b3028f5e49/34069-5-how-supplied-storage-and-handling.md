@@ -24,14 +24,14 @@ Diastat®AcuDial™
 
 INSTRUCTIONS FOR CAREGIVERS UPON RECEIPT FROM PHARMACY
 
-- Remove the syringe from the case.
-- Confirm the dose prescribed by your doctor is visible and if known, is correct.
+1. Remove the syringe from the case.
+2. Confirm the dose prescribed by your doctor is visible and if known, is correct.
 
 FOR EACH SYRINGE:
 
-- Confirm that the prescribed dose is visible in the dose display window.
-- Confirm that the green “READY” band is visible.
-- Return the syringe to the case.
+1. Confirm that the prescribed dose is visible in the dose display window.
+2. Confirm that the green “READY” band is visible.
+3. Return the syringe to the case.
 
 SEE PHARMACIST IF YOU HAVE ANY QUESTIONS ABOUT THESE INSTRUCTIONS.
 
