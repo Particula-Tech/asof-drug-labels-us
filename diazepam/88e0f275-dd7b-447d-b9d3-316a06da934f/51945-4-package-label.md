@@ -1,9 +1,17 @@
 # PRINCIPAL DISPLAY PANEL - 2.5 mg Rectal Gel Label
 
+66490-650-20
+
+Rx Only
+
 2.5 mg
 
 For Rectal Administration Only
 
-Diastat® (diazepam rectal gel)
+Diastat® CIV
 
-CIV
+(diazepam rectal gel)
+
+Rectal Delivery System
+
+TWIN PACK Contains two pre-filled, unit dose, rectal delivery systems with lubricating jelly and instructions for use VALEANT

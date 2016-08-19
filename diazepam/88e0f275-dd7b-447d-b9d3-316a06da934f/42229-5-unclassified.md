@@ -25,8 +25,8 @@ To the caregiver using Diastat® AcuDialTM:
 Please do not give DIASTAT® AcuDial™ until:
 
 1. You have confirmed:
-   - Prescribed dose is visible and if known, is correct
-   - green “ready” band is visible
+   1. Prescribed dose is visible and if known, is correct
+   2. green “ready” band is visible
 2. You have thoroughly read these instructions
 3. Reviewed administration steps with the doctor
 4. Understand the directions
@@ -39,15 +39,15 @@ If you are not comfortable, then discuss your role with the doctor again.
 
 To help the person with seizures:
 
-- √You must be able to tell the difference between cluster and ordinary seizures.
-- √You must be comfortable and satisfied that you are able to give DIASTAT.
-- √You need to agree with the doctor on the exact conditions when to treat with DIASTAT.
-- √You must know how and for how long you should check the person after giving DIASTAT.
+- •You must be able to tell the difference between cluster and ordinary seizures.
+- •You must be comfortable and satisfied that you are able to give DIASTAT.
+- •You need to agree with the doctor on the exact conditions when to treat with DIASTAT.
+- •You must know how and for how long you should check the person after giving DIASTAT.
 
 To know what responses to expect:
 
-- √You need to know how soon seizures should stop or decrease in frequency after giving DIASTAT.
-- √You need to know what you should do if the seizures do not stop or there is a change in the person’s breathing, behavior and condition that alarms you.
+- •You need to know how soon seizures should stop or decrease in frequency after giving DIASTAT.
+- •You need to know what you should do if the seizures do not stop or there is a change in the person’s breathing, behavior and condition that alarms you.
 
 If you have any question or feel unsure about using the treatment, CALL THE DOCTOR before using DIASTAT.
 
@@ -64,9 +64,9 @@ Special considerations.
 
 DIASTAT should be used with caution:
 
-- In people with respiratory (breathing) difficulties (e.g., asthma or pneumonia)
-- In the elderly
-- In women of child bearing potential, pregnancy and nursing mothers
+1. In people with respiratory (breathing) difficulties (e.g., asthma or pneumonia)
+2. In the elderly
+3. In women of child bearing potential, pregnancy and nursing mothers
 
 Discuss beforehand with the doctor any additional steps you may need to take if there is leakage of DIASTAT or a bowel movement.
 
@@ -87,11 +87,11 @@ Things to do after treatment with DIASTAT.
 
 Stay with the person for 4 hours and make notes on the following:
 
-- Changes in resting breathing rate__________________________
-- Changes in color ______________________________________
-- Possible side effects from treatment_______________________
-- Your doctor may prescribe a second dose of Diazepam rectal gel.
-  If a second dose is needed, give it 4 hours to 12 hours after the first dose.
+1. Changes in resting breathing rate__________________________
+2. Changes in color ______________________________________
+3. Possible side effects from treatment_______________________
+4. •Your doctor may prescribe a second dose of Diazepam rectal gel.
+   If a second dose is needed, give it 4 hours to 12 hours after the first dose.
 
 TREATMENT 2
 
@@ -103,8 +103,8 @@ Things to do after treatment with DIASTAT.
 
 Stay with the person for 4 hours and make notes on the following:
 
-- Changes in resting breathing rate_________________________
-- Changes in color ___________________________________
-- Possible side effects from treatment________________________
+1. Changes in resting breathing rate_________________________
+2. Changes in color ___________________________________
+3. Possible side effects from treatment________________________
 
 HOW TO ADMINISTER AND DISPOSAL
