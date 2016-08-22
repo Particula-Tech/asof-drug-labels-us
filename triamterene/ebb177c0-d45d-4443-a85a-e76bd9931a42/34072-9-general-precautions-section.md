@@ -49,7 +49,7 @@ Patients receiving such combined therapy should have serum lithium levels monito
 A possible interaction resulting in acute renal failure has been reported in a few subjects when indomethacin, a nonsteroidal anti-inflammatory agent, was given with triamterene.
 Caution is advised in administering nonsteroidal anti-inflammatory agents with triamterene.
 
-The effects of the following drugs may be potentiated when given together with triamterene: antihypertensive medication, other diuretics, preanesthetic and anesthetic agents, skeletal muscle relaxants (nondepolarizing).
+The effects of the following drugs may be potentiated when given together with triamterene: antihypertensive medication, other diuretics, preanesthetic and anesthetic agents, skeletal muscle relaxants (non-depolarizing).
 
 Potassium-sparing agents should be used with caution in conjunction with angiotensin-converting enzyme (ACE) inhibitors due to an increased risk of hyperkalemia.
 
@@ -68,7 +68,7 @@ Male and female rats exposed to the highest tested concentration received triamt
 Male and female mice exposed to the highest tested concentration received triamterene at about 45 and 60 mg/kg/day, respectively.
 
 There was an increased incidence of hepatocellular neoplasia (primarily adenomas) in male and female mice at the highest dosage level.
-These doses represent 7.5X and 10X the Maximum Recommended Human Dose (MRHD) of 300 mg/kg/day (or 6 mg/kg/day based on a 50 kg patient) for male and female mice, respectively, when based on body weight and 0.7X and 0.9X the MRHD when based on body-surface area.
+These doses represent 7.5X and 10X the Maximum Recommended Human Dose (MRHD) of 300 mg/kg/day (or 6 mg/day based on a 50 kg patient) for male and female mice, respectively, when based on body weight and 0.7X and 0.9X the MRHD when based on body-surface area.
 
 Although hepatocellular neoplasia (exclusively adenomas) in the rat study was limited to triamterene-exposed males, incidence was not dose dependent and there was no statistically significant difference from control incidence at any dose level.
 
@@ -77,7 +77,7 @@ It did not induce chromosomal aberrations in Chinese hamster ovary (CHO) cells i
 
 Impairment of Fertility: Studies of the effects of triamterene on animal reproductive function have not been conducted.
 
-## Pregnancy: Category C
+## Pregnancy
 
 Teratogenic Effects: Reproduction studies have been performed in rats at doses as high as 20 times the Maximum Recommended Human Dose (MRHD) on the basis of body weight, and 6 times the MRHD on the basis of body-surface area, without evidence of harm to the fetus due to triamterene.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.

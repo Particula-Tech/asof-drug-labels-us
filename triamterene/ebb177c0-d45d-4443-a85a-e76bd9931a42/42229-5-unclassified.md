@@ -5,4 +5,4 @@ Manufactured for Concordia Pharmaceuticals Inc. St. Michael, Barbados BB11005
 Made in Canada
 
 Rev.
-1_07/2015 L0171D DYR_PI
+2_06/2016 N0170E DYR_PI
