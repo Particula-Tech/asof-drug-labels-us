@@ -12,4 +12,4 @@
 | What are the ingredients in FARXIGA?Active ingredient: dapagliflozin.Inactive ingredients: microcrystalline cellulose, anhydrous lactose, crospovidone, silicon dioxide, and magnesium stearate. The film coating contains: polyvinyl alcohol, titanium dioxide, polyethylene glycol, talc, and yellow iron oxide. Distributed by: AstraZeneca Pharmaceuticals LP Wilmington, DE 19850 Product of IrelandFarxiga is a registered trademark of the AstraZeneca group of companies. |
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Revised 7/2016
+Revised 8/2016
