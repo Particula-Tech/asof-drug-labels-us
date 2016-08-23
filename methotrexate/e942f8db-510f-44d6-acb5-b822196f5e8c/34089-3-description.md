@@ -4,6 +4,8 @@ Trexall® (methotrexate tablets USP) (formerly Amethopterin) is an antimetabolit
 Chemically methotrexate, USP is N-[4[[(2,4-diamino-6-pteridinyl) methyl] methyl-amino]benzoyl]-L-glutamic acid.
 The structural formula is:
 
+C20H22N8O5 Molecular Weight: 454.45
+
 Trexall (methotrexate tablets USP), for oral administration, is available in 5 mg, 7.5 mg, 10 mg and 15 mg strengths.
 
 Each tablet contains methotrexate sodium in an amount equivalent to the labeled amount of methotrexate, USP, and contains the following inactive ingredients: anhydrous lactose, crospovidone, hydroxypropyl methylcellulose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, pregelatinized corn starch, sodium carbonate monohydrate, talc and titanium dioxide.
