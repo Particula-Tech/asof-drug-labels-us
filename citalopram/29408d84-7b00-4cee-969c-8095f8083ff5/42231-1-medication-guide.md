@@ -2,7 +2,11 @@
 
 Citalopram Oral Solution USP
 
-Read the Medication Guide that comes with Citalopram Oral Solution USP before you start taking it and each time you get a refill.
+(si TAL o pram)
+
+Rx Only
+
+Read the Medication Guide that comes with citalopram oral solution before you start taking it and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or treatment.
 Talk with your healthcare provider if there is something you do not understand or want to learn more about.
@@ -69,7 +73,7 @@ Severe allergic reactions:
 Abnormal Bleeding: Citalopram and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadine®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
 
 6.
-Seizures or convulsions
+Seizures or convulsions.
 
 7.
 Manic episodes:
@@ -124,9 +128,9 @@ Who should not take citalopram?
 
 Do not take citalopram if you:
 
-- •are allergic to citalopram or escitalopram oxalate or any of the ingredients in citalopram oral solution.
+- •are allergic to citalopram or escitalopram oxalate or any of the ingredients in Citalopram Oral Solution.
   See the end of this Medication Guide for a complete list of ingredients in Citalopram Oral Solution USP.
-- •If you take a monoamine oxidase inhibitor (MAOI).
+- •If you take a Monoamine Oxidase Inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
 - •Do not take an MAOI within 2 weeks of stopping citalopram unless directed to do so by your physician.
 - •Do not start citalopram if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
@@ -238,7 +242,7 @@ YOU MAY REPORT SIDE EFFECTS TO THE FDA AT 1-800-FDA-1088.
 
 How should I store citalopram?
 
-- •Store citalopram at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F).
+- •Store citalopram at 20° to 25°C (68° to 77°F).
   [See USP Controlled Room Temperature.]
 - •Keep citalopram bottle closed tightly.
 
@@ -257,18 +261,20 @@ You may ask your healthcare provider or pharmacist for information about citalop
 
 For more information about citalopram call 1-800-962-8364 or go to www.Roxane.com.
 
-What are the ingredients of citalopram?
+What are the ingredients in citalopram oral solution?
 
-Active ingredient: citalopram hydrobromide
+Active ingredient: citalopram hydrobromide USP
 
-Inactive ingredients: methylparaben, peppermint stick, propylene glycol, propylparaben, purified water, and sorbitol solution
+Inactive ingredients: methylparaben, peppermint stick, propylene glycol, propylparaben, purified water and sorbitol solution
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Roxane Laboratories, Inc.
+Distr. by: West-Ward
 
-Columbus, Ohio 43216
+Pharmaceuticals Corp.
 
-10003824/11 Revised May 2014
+Eatontown, NJ 07724
 
-© RLI, 2014
+10003824/12
+
+Revised April 2016

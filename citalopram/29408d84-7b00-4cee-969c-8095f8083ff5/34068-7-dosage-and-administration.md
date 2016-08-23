@@ -37,12 +37,12 @@ A gradual reduction in the dose rather than abrupt cessation is recommended when
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
 Subsequently, the physician may continue decreasing the dose but at a more gradual rate.
 
-Switching Patients To or From a Monoamine Oxidase lnhibitor(MAOI) Intended to Treat Psychiatric Disorders
+Switching a Patient To or From a Monoamine Oxidase lnhibitor (MAOI) Intended to Treat Psychiatric Disorders
 
 At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with citalopram.
 Conversely, at least 14 days should be allowed after stopping citalopram before starting an MAOI intended to treat psychiatric disorders (see CONTRAINDICATIONS).
 
-Use of Citalopramwith Other MAOIs, Such as Linezolid or Methylene Blue
+Use of Citalopram with Other MAOIs, Such as Linezolid or Methylene Blue
 
 Do not start citalopram in a patient who is being treated with linezolid or intravenous methylene blue because there is an increased risk of serotonin syndrome.
 In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered (see CONTRAINDICATIONS).

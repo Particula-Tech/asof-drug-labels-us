@@ -16,9 +16,9 @@ The pooled analyses of placebo-controlled trials in adults with MDD or other psy
 There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
 There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
 The risk differences (drug vs. placebo), however, were relatively stable with age strata and across indications.
-These risk difference (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in TABLE 1.
+These risk difference (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 1.
 
-TABLE 1
+Table 1
 
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
 | --- | --- |
@@ -42,7 +42,7 @@ If the decision has been made to discontinue treatment, medication should be tap
 
 Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
 Such monitoring should include daily observation by families and caregivers.
-Prescriptions for citalopram should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
+Prescriptions for Citalopram should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 
 ## QT-Prolongation and Torsade de Pointes
 
@@ -50,7 +50,7 @@ Citalopram causes dose-dependent QTc prolongation, an ECG abnormality that has b
 
 Individually corrected QTc (QTcNi) interval was evaluated in a randomized, placebo and active (moxifloxacin 400 mg) controlled cross-over, escalating multiple-dose study in 119 healthy subjects.
 The maximum mean (upper bound of the 95% one-sided confidence interval) difference from placebo were 8.5 (10.8) and 18.5 (21) msec or 20 mg and 60 mg citalopram, respectively.
-Basedon the established exposure-response relationship, the predicted QTcNi change from placebo (upper bound of the 95% one-sided confidence interval) under the Cmax for the dose of 40 mg is 12.6 (14.3) msec.
+Based on the established exposure-response relationship, the predicted QTcNi change from placebo (upper bound of the 95% one-sided confidence interval) under the Cmax for the dose of 40 mg is 12.6 (14.3) msec.
 
 Because of the risk of QTc prolongation at higher citalopram doses, it is recommended that citalopram should not begiven at doses above 40 mg/day.
 
@@ -92,7 +92,7 @@ No reports involved the administration of methylene blue by other routes (such a
 There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking citalopram.
 Citalopram should be discontinued before initiating treatment with the MAOI (see CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
 
-If concomitant use of citalopram with other serotonergic drugs including, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, trytophan and St. John’s Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome particularly during treatment initiation and dose increases.
+If concomitant use of citalopram with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, trytophan and St. John’s Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome particularly during treatment initiation and dose increases.
 
 Treatment with citalopram and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
@@ -155,8 +155,8 @@ Because any psychoactive drug may impair judgment, thinking, or motor skills, ho
 
 Use in Patients with Concomitant Illness
 
-Clinical experience with citalopram in patients with certain concomitant systemicillnesses is limited.
-Due to the risk of QT prolongation, citalopram must be used in such patients.
+Clinical experience with citalopram in patients with certain concomitant systemic illnesses is limited.
+Due to the risk of QT prolongation, citalopram use should be avoided in patients with certain cardiac conditions, and ECG monitoring is advised if citalopram must be used in such patients.
 Electrolytes should be monitored in treating patients with diseases or conditions that cause hypokalemia or hypomagnesemia (see WARNINGS).
 
 In subjects with hepatic impairment, citalopram clearance was decreased and plasma concentrations were increased.
@@ -189,11 +189,11 @@ Prescribers or other health professionals should inform patients, their families
 A patient Medication Guide about "Antidepressants Medicines, Depression and other Serious Mental Illness, and Suicidal Thoughts or Actions" is available for citalopram.
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
-The complete text of the Medication Guide is reprinted at the end of this document.
+The complete text of the Medication Guide is reprinted with this document.
 
 Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking citalopram.
 
-Patients should be advised that taking citalopramcan cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle-closure glaucoma.
+Patients should be advised that taking citalopram can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle-closure glaucoma.
 Pre-existing glaucoma is almost always open-angle glaucoma because angle-closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
 Open-angle glaucoma is not a risk factor for angle closure glaucoma.
 Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
@@ -251,7 +251,7 @@ In subjects who had received 21 days of 40 mg/day citalopram, combined administr
 
 Lithium
 
-Co-administration of citalopram (40 mg/day for 10 days) and lithium (30 mmol/day for 5 days) had no significant effect on the pharmacokinetics of citalopram or lithium.
+Coadministration of citalopram (40 mg/day for 10 days) and lithium (30 mmol/day for 5 days) had no significant effect on the pharmacokinetics of citalopram or lithium.
 Nevertheless, plasma lithium levels should be monitored with appropriate adjustment to the lithium dose in accordance with standard clinical practice.
 Because lithium may enhance the serotonergic effects of citalopram, caution should be exercised when citalopram and lithium are coadministered.
 
@@ -291,18 +291,18 @@ Combined administration of citalopram (40 mg) and ketoconazole (200 mg) decrease
 
 CYP2C19 Inhibitors
 
-Citalopram 20 mg/day is the maximum recommended dose for patients taking concomitant CYP2C19 inhibitors because of the risk of QT prolongation (see WARNINGS, DOSAGE AND ADMINISTRATION, and CLINICAL PHARMACOLOGY).
+Citalopram 20 mg/day is the maximum recommended dose for patients taking concomitant CYP2C19 inhibitors because of the risk of QT prolongation (see WARNINGS, DOSAGE AND ADMINISTRATION, and CLINICALPHARMACOLOGY).
 
 Metoprolol
 
 Administration of 40 mg/day citalopram for 22 days resulted in a two-fold increase in the plasma levels of the beta-adrenergic blocker metoprolol.
 Increased metoprolol plasma levels have been associated with decreased cardioselectivity.
-Co-administration of citalopram and metoprolol had no clinically significant effects on blood pressure or heart rate.
+Coadministration of citalopram and metoprolol had no clinically significant effects on blood pressure or heart rate.
 
 Imipramine and Other Tricyclic Antidepressants (TCAs)
 
 In vitro studies suggest that citalopram is a relatively weak inhibitor of CYP2D6.
-Co-administration of citalopram (40 mg/day for 10 days) with the TCA imipramine (single dose of 100 mg), a substrate for CYP2D6, did not significantly affect the plasma concentrations of imipramine or citalopram.
+Coadministration of citalopram (40 mg/day for 10 days) with the TCA imipramine (single dose of 100 mg), a substrate for CYP2D6, did not significantly affect the plasma concentrations of imipramine or citalopram.
 However, the concentration of the imipramine metabolite desipramine was increased by approximately 50%.
 The clinical significance of the desipramine change is unknown.
 Nevertheless, caution is indicated in the co-administration of TCA’s with citalopram.

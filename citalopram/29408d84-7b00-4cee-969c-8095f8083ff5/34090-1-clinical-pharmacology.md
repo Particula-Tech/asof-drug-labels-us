@@ -16,7 +16,7 @@ The single- and multiple-dose pharmacokinetics of citalopram are linear and dose
 Biotransformation of citalopram is mainly hepatic, with a mean terminal half-life of about 35 hours.
 With once daily dosing, steady state plasma concentrations are achieved within approximately one week.
 At steady state, the extent of accumulation of citalopram in plasma, based on the half-life, is expected to be 2.5 times the plasma concentrations observed after a single dose.
-The tablet and oral solution dosage forms of citalopram are bioequivalent
+The tablet and oral solution dosage forms of citalopram are bioequivalent.
 
 ### Absorption and Distribution
 
@@ -42,8 +42,7 @@ In vitro studies using human liver microsomes indicated that CYP3A4 and CYP2C19 
 
 Citalopram pharmacokinetics in subjects ≥60 years of age were compared to younger subjects in two normal volunteer studies.
 In a single-dose study, citalopram AUC and half-life were increased in the subjects ≥ 60 years old by 30% and 50%, respectively, whereas in a multiple-dose study they were increased by 23% and 30%, respectively.
-20 mg/day is the maximum recommended dose for patients who are greater than 60 years of age (see WARNINGS and DOSAGE AND ADMINISTRATION).
-20 mg/day is the maximum recommended dose for those who are CYP2C19 poor metabolizers or who are also taking a CYP2C19 inhibitor such as cimetidine, due to the risk of QT prolongation.
+20 mg/day is the maximum recommended dose for patients who are greater than 60 years of age (see WARNINGS and DOSAGE AND ADMINISTRATION), due to the risk of QT prolongation.
 
 #### Gender
 

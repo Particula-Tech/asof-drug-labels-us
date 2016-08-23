@@ -10,5 +10,5 @@ Citalopram hydrobromide is sparingly soluble in water and soluble in ethanol.
 
 Citalopram is available as an oral solution.
 
-Citalopram Oral Solution USP contains citalopram hydrobromide equivalent to 2 mg/mL citalopram base.
-It also contains the following inactive ingredients: methylparaben, peppermint stick, propylene glycol, propylparaben, purified water, and sorbitol solution.
+Citalopram Oral Solution USP contains citalopram hydrobromide USP equivalent to 2 mg/mL citalopram base.
+It also contains the following inactive ingredients: methylparaben, peppermint stick, propylene glycol, propylparaben, purified water and sorbitol solution.

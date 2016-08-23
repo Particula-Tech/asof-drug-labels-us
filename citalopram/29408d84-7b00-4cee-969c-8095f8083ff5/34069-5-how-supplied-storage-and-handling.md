@@ -1,8 +1,12 @@
 # HOW SUPPLIED
 
-Citalopram Oral Solution USP is supplied as a peppermint flavored oral solution.
+Citalopram Oral Solution USP
 
-0054-0062-58 10 mg/5 mL, 240 mL per bottle
+10 mg per 5 mL oral solution is supplied as a (peppermint flavored) clear, colorless oral solution.
 
-Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F).
+NDC 0054-0062-58: Bottle of 240 mL
+
+Storage
+
+Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
