@@ -1,6 +1,6 @@
-# 14CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
-The safety and efficacy of SOLODYN in the treatment of inflammatory lesions of non-nodular moderate to severe acne vulgaris was assessed in two 12-week, multi-center, randomized, double-blind, placebo-controlled, trials in subjects ≥ 12 years.
+The safety and efficacy of SOLODYN in the treatment of inflammatory lesions of non-nodular moderate to severe acne vulgaris was assessed in two 12-week, multi-center, randomized, double-blind, placebo-controlled trials in subjects ≥12 years.
 The mean age of subjects was 20 years and subjects were from the following racial groups: White (73%), Hispanic (13%), Black (11%), Asian/Pacific Islander (2%), and Other (2%).
 
 In two efficacy and safety trials, a total of 924 subjects with non-nodular moderate to severe acne vulgaris received SOLODYN or placebo for a total of 12 weeks, according to the following dose assignments.
@@ -15,9 +15,9 @@ Table 3: Clinical Studies Dosing Table
 
 The two primary efficacy endpoints were:
 
-- •Mean percent change in inflammatory lesion counts from Baseline to 12 weeks.
-- •Percentage of subjects with an Evaluator's Global Severity Assessment (EGSA) of clear or almost clear at 12 weeks.
-  Efficacy results are presented in Table 4.
+1. 1)Mean percent change in inflammatory lesion counts from Baseline to 12 weeks.
+2. 2)Percentage of subjects with an Evaluator's Global Severity Assessment (EGSA) of clear or almost clear at 12 weeks.
+   Efficacy results are presented in Table 4.
 
 Table 4: Efficacy Results at Week 12
 

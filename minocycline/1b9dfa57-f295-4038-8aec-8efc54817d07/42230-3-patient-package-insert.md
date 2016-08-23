@@ -33,7 +33,7 @@ Before you take SOLODYN, tell your doctor if you:
 - • plan to have surgery with general anesthesia.
 - • have any other medical conditions.
 - • are a male, and you and your female partner are trying to conceive a baby.
-  You should not take SOLODYN\.
+  You should not take SOLODYN.
 - • are pregnant or plan to become pregnant.
   SOLODYN may harm your unborn baby.
   Taking SOLODYN while you are pregnant may cause serious side effects on the growth of bone and teeth of your baby.
@@ -57,7 +57,7 @@ Especially tell your doctor if you take:
 - •a penicillin antibiotic medicine.
   SOLODYN® and penicillins should not be used together.
 - •antacids that contain aluminum, calcium, or magnesium or iron-containing products.
-- • an acne medicine that contains isotretinoin (Amnesteem, Claravis, Sotret).
+- •an acne medicine that contains isotretinoin (Amnesteem, Claravis, Sotret).
   SOLODYN® and isotretinoin should not be used together.
 
 Ask your doctor or pharmacist if you are not sure if your medicine is one that is listed above.
@@ -87,7 +87,7 @@ What should I avoid while taking SOLODYN?
   You could get severe sunburn.
 - • Protect your skin while out in sunlight.
 - • You should not drive or operate dangerous machinery until you know how SOLODYN affects you.
-  SOLODYN may cause you to feel dizzy or lightheaded, or have a spinning feeling (vertigo).
+  SOLODYN may cause you to feel dizzy or light-headed, or have a spinning feeling (vertigo).
 
 What are possible side effects of SOLODYN?
 
@@ -114,7 +114,7 @@ SOLODYN may cause serious side effects, including:
   - • sleepiness
 - •Central nervous system effects.
   See "What should I avoid while taking SOLODYN?"
-  Central nervous system effects such as light headedness, dizziness, and a spinning feeling (vertigo) may go away during your treatment with SOLODYN or if treatment is stopped.
+  Central nervous system effects such as light-headedness, dizziness, and a spinning feeling (vertigo) may go away during your treatment with SOLODYN or if treatment is stopped.
 - •Benign intracranial hypertension, also called pseudotumor cerebri.
   This is a condition where there is high pressure in the fluid around the brain.
   This swelling may lead to vision changes and permanent vision loss.
@@ -165,7 +165,7 @@ Keep SOLODYN and all medicines out of the reach of children.
 General information about SOLODYN
 
 Medicines are sometimes prescribed for purposes other than those listed in the Patient Information leaflet.
-Do not use SOLODYN for a condition for which it was not prescribed.
+Do notuse SOLODYN for a condition for which it was not prescribed.
 Do not give SOLODYN to other people, even if they have the same symptoms you have.
 It may harm them.
 
@@ -191,19 +191,22 @@ The 105 mg tablets also contain Opadry II Purple which contains: hypromellose ty
 
 The 115 mg tablets also contain Opadry II Green which contains: hypromellose type 2910, lactose monohydrate NF, D&C Yellow #10, triacetin, FD&C Blue #1, titanium dioxide, FD&C Blue #2.
 
-SOLODYN® is manufactured by WellSpring Pharmaceutical Canada Corp. for Medicis, The Dermatology Company, Scottsdale, Arizona, 85256.
-
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: 10/2013
+Revised: 06/2016
 
-U.S. Patents 5,908,838; 7,790,705; 7,919,483; and Patents Pending90 mg is also covered by U.S. Patents 7,541,347 and 7,544,373
+U.S. Patents 5,908,838; 7,790,705; 7,919,483; 8,252,776; 8,268,804; and other Patents Pending*
 
-SOLODYN is a registered trademark of Medicis Pharmaceutical Corporation.
-All other trademarks are the properties of their respective owners.
+*55 mg, 80 mg, and 105 mg are also covered by U.S. Patents 8,722,650
 
-Manufactured for: Medicis, The Dermatology Company Scottsdale, AZ 85256 Manufactured by: WellSpring Pharmaceutical Canada Corp. Oakville, Ontario, CANADA L6H 1M5
+*65 mg and 115 mg are also covered by U.S. Patent 9,119,793
 
-Product of Portugal
+®/™ are trademarks of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
-9387300
+©Valeant Pharmaceuticals North America LLC
+
+Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+
+By: WellSpring Pharma Services Inc. Oakville, Ontario L6H 1M5 Canada
+
+9387301

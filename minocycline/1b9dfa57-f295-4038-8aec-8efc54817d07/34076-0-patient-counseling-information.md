@@ -1,10 +1,10 @@
-# 17PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Patient Information)
+[See FDA-approved patient labeling (Patient Information)]
 
 Patients taking SOLODYN (minocycline HCl, USP) Extended Release Tablets should receive the following information and instructions:
 
-- • SOLODYN should not be used by pregnant women or women attempting to conceive a child [see Use in Specific Populations (8.1), Nonclinical Toxicology (13.1)].
+- • SOLODYN should not be used by pregnant women or women attempting to conceive a child [see Use in Specific Populations (8.1), and Nonclinical Toxicology (13.1)].
 - • It is recommended that SOLODYN not be used by men who are attempting to father a child [see Nonclinical Toxicology (13.1)].
 - • Patients should be advised that pseudomembranous colitis can occur with minocycline therapy.
   If patients develop watery or bloody stools, they should seek medical attention.
