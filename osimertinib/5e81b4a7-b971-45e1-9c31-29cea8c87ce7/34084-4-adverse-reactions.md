@@ -10,10 +10,10 @@ QTc Interval Prolongation [see Warnings and Precautions (5.2)]
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The data described below reflect exposure to TAGRISSO (80 mg daily) in 411 patients with EGFR T790M mutation-positive non-small cell lung cancer who received prior EGFR TKI therapy, in two single arm studies, Study 1 and Study 2.
+The data described below reflect exposure to TAGRISSO (80 mg daily) in 411 patients with EGFR T790M mutation-positive non-small cell lung cancer who received prior EGFR TKI therapy, in two single-arm studies, Study 1 and Study 2.
 Patients with a past medical history of ILD or radiation pneumonitis that required steroid treatment, serious arrhythmia or baseline QTc interval greater than 470 ms were excluded from Study 1 and Study 2.
 Baseline patient and disease characteristics were: median age 63 years, 13% of patients were ≥75 years old, female (68%), White (36%), Asian (60%), metastatic (96%), sites of brain metastases (39%), World Health Organization (WHO) performance status of 0 (37%) or 1 (63%), 1 prior line of therapy [EGFR-TKI treatment only, second line, chemotherapy-naïve (31%)], 2 or more prior lines of therapy (69%).
-Of the 411 patients, 333 patients were exposed to TAGRISSO for at least 6 months; 97 patients were exposed for at least 9 months; however no patient was exposed to TAGRISSO for 12 months.
+Of the 411 patients, 333 patients were exposed to TAGRISSO for at least 6 months; 97 patients were exposed for at least 9 months; however, no patient was exposed to TAGRISSO for 12 months.
 
 In Studies 1 and 2, the most common (>20%) adverse reactions (all grades) observed in TAGRISSO-treated patients were diarrhea (42%), rash (41%), dry skin (31%), and nail toxicity (25%).
 Dose reductions occurred in 4.4% of patients treated with TAGRISSO.
@@ -60,7 +60,7 @@ Table 2 Adverse Reactions (>10% for all NCI CTCAE* Grades or >2% for Grades 3-4)
 
 Additional clinically significant adverse reactions occurring in 2% or more of patients treated with TAGRISSO included cerebrovascular accident (2.7%).
 
-Table 3 Common Laboratory Abnormalities (>20% for all NCI CTCAE Grades) in Study 1 and Study 2
+Table 3 Laboratory Abnormalities (>20% for all NCI CTCAE Grades) in Study 1 and Study 2
 
 | Laboratory Abnormality | TAGRISSON=411 |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |

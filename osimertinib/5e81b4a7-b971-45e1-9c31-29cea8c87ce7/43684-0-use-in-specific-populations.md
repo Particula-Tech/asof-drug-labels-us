@@ -43,7 +43,8 @@ Advise male patients with female partners of reproductive potential to use effec
 Infertility
 
 Based on animal studies, TAGRISSO may impair fertility in females and males of reproductive potential.
-It is not known if the effects on fertility are reversible [see Nonclinical Toxicology (13.1)].
+The effects on female fertility showed a trend toward reversibility.
+It is not known whether the effects on male fertility are reversible [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
@@ -53,16 +54,14 @@ The safety and effectiveness of TAGRISSO in pediatric patients have not been est
 
 One hundred eighty-seven (45%) of the 411 patients in clinical trials of TAGRISSO were 65 years of age and older, and 54 patients (13%) were 75 years of age and older.
 No overall differences in effectiveness were observed based on age.
-Exploratory analysis suggest a higher incidence of Grade 3 and 4 adverse reactions (32% versus 25%) and more frequent dose modifications for adverse reactions (23% versus 17%) in patients 65 years or older as compared to those younger than 65 years.
+Exploratory analysis suggests a higher incidence of Grade 3 and 4 adverse reactions (32% versus 25%) and more frequent dose modifications for adverse reactions (23% versus 17%) in patients 65 years or older as compared to those younger than 65 years.
 
 ## 8.6 Renal Impairment
 
-No dedicated clinical studies have been conducted to evaluate the effect of renal impairment on the pharmacokinetics of osimertinib.
-Based on population pharmacokinetic analysis, no dose adjustment is recommended in patients with mild [creatinine clearance (CLcr) 60-89 mL/min] or moderate (CLcr 30-59 mL/min) renal impairment.
-There is no recommended dose of TAGRISSO for patients with severe renal impairment (CLcr <30 mL/min) or end-stage-renal disease [see Clinical Pharmacology (12.3)].
+No dose adjustment is recommended in patients with mild [creatinine clearance (CLcr) 60-89 mL/min, as estimated by the Cockcroft Gault method (C-G)] or moderate (CLcr 30‑59 mL/min, as estimated by C-G) renal impairment.
+There is no recommended dose of TAGRISSO for patients with severe renal impairment (CLcr <30 mL/min) or end-stage renal disease [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
-No dedicated clinical studies have been conducted to evaluate the effect of hepatic impairment on the pharmacokinetics of osimertinib.
-Based on population pharmacokinetic (PK) analysis, no dose adjustment is recommended in patients with mild hepatic impairment [total bilirubin <upper limit of normal (ULN) and AST between 1 to 1.5 times ULN or total bilirubin between 1.0 to 1.5 times ULN and any AST].
+No dose adjustment is recommended in patients with mild hepatic impairment [total bilirubin less than or equal to upper limit of normal (ULN) and AST greater than ULN or total bilirubin between 1.0 to 1.5 times ULN and any AST].
 There is no recommended dose for TAGRISSO for patients with moderate or severe hepatic impairment [see Clinical Pharmacology (12.3)].

@@ -14,12 +14,17 @@ If a dose of TAGRISSO is missed, do not make up the missed dose and take the nex
 
 ## 2.3 Administration to Patients Who Have Difficulty Swallowing Solids
 
-Disperse tablet in 4 tablespoons (approximately 50 mL) of non-carbonated water only.
-Stir until tablet is completely dispersed and swallow or administer through naso-gastric tube immediately.
+Disperse tablet in 60 mL (2 ounces) of non-carbonated water only.
+Stir until tablet is dispersed into small pieces (the tablet will not completely dissolve) and swallow immediately.
 Do not crush, heat, or ultrasonicate during preparation.
-Rinse the container with 4 to 8 ounces of water and immediately drink or administer through the naso-gastric tube [see Clinical Pharmacology (12.3)].
+Rinse the container with 120 mL to 240 mL (4 to 8 ounces of) water and immediately drink.
 
-## 2.4 Dose Modification for Adverse Reactions
+If administration via naso-gastric tube is required, disperse the tablet as above in 15 mL of non-carbonated water, and then use an additional 15 mL of water to transfer any residues to the syringe.
+The resulting 30 mL liquid should be administered as per the nasogastric tube instructions with appropriate water flushes (approximately 30 mL).
+
+## 2.4 Dosage Modification
+
+Adverse Reactions
 
 Table 1 Recommended Dose Modifications for TAGRISSO
 
@@ -27,10 +32,15 @@ Table 1 Recommended Dose Modifications for TAGRISSO
 | --- | --- | --- |
 | Pulmonary | Interstitial lung disease (ILD)/Pneumonitis | Permanently discontinue TAGRISSO. |
 | Cardiac | QTc† interval greater than 500 msec on at least 2 separate ECGsb | Withhold TAGRISSO until QTc interval is less than 481 msec or recovery to baseline if baseline QTc is greater than or equal to 481 msec, then resume at 40 mg dose. |
-| QTc interval prolongation with signs/symptoms of life threatening arrhythmia | Permanently discontinue TAGRISSO. |  |
+| QTc interval prolongation with signs/symptoms of life-threatening arrhythmia | Permanently discontinue TAGRISSO. |  |
 | Asymptomatic, absolute decrease in LVEFc of 10% from baseline and below 50% | Withhold TAGRISSO for up to 4 weeks. •If improved to baseline LVEF, resume.•If not improved to baseline, permanently discontinue. |  |
 | Symptomatic congestive heart failure | Permanently discontinue TAGRISSO. |  |
 | Other | Grade 3 or higher adverse reaction | Withhold TAGRISSO for up to 3 weeks. |
 | If improvement to Grade 0-2 within 3 weeks | Resume at 80 mg or 40 mg daily. |  |
 | If no improvement within 3 weeks | Permanently discontinue TAGRISSO. |  |
 | a Adverse reactions graded by the National Cancer Institute Common Terminology Criteria for Adverse Events version 4.0 (NCI CTCAE v4.0). b ECGs = Electrocardiograms c LVEF = Left Ventricular Ejection Fraction † QTc = QT interval corrected for heart rate |  |  |
+
+Drug Interactions
+
+Strong CYP3A4 Inducers If concurrent use is unavoidable, increase TAGRISSO dosage to 160 mg daily when coadministering with a strong CYP3A inducer.
+Resume TAGRISSO at 80 mg 3 weeks after discontinuation of the strong CYP3A4 inducer [see Drug Interactions (7), and Clinical Pharmacology (12.3)].

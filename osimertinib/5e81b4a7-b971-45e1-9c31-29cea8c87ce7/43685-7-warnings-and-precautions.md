@@ -14,13 +14,13 @@ Of the 411 patients in Study 1 and Study 2, one patient (0.2%) was found to have
 
 In Study 1 and 2, patients with baseline QTc of 470 msec or greater were excluded.
 Conduct periodic monitoring with ECGs and electrolytes in patients with congenital long QTc syndrome, congestive heart failure, electrolyte abnormalities, or those who are taking medications known to prolong the QTc interval.
-Permanently discontinue TAGRISSO in patients who develop QTc interval prolongation with signs/symptoms of life threatening arrhythmia [see Dosage and Administration (2.4)].
+Permanently discontinue TAGRISSO in patients who develop QTc interval prolongation with signs/symptoms of life-threatening arrhythmia [see Dosage and Administration (2.4)].
 
 ## 5.3 Cardiomyopathy
 
 Across clinical trials, cardiomyopathy (defined as cardiac failure, pulmonary edema, ejection fraction decreased or stress cardiomyopathy) occurred in 1.4% (n=11) of TAGRISSO treated patients (n=813); 0.2% (n=2) were fatal.
 
-In Study 1 and Study 2, Left Ventricular Ejection Fraction (LVEF) decline >10% and a drop to <50% occurred in 2.4% (9/375) of patients who had baseline and at least one follow up LVEF assessment.
+In Study 1 and Study 2, Left Ventricular Ejection Fraction (LVEF) decline >10% and a drop to <50% occurred in 2.4% (9/375) of patients who had baseline and at least one follow-up LVEF assessment.
 
 Assess LVEF by echocardiogram or multigated acquisition (MUGA) scan before initiation of TAGRISSO and then at 3 month intervals while on treatment.
 Withhold treatment with TAGRISSO if ejection fraction decreases by 10% from pretreatment values and is less than 50%.

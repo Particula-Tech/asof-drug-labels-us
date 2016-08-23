@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Osimertinib is kinase inhibitor of the epidermal growth factor receptor (EGFR), which binds irreversibly to certain mutant forms of EGFR (T790M, L858R, and exon 19 deletion) at approximately 9-fold lower concentrations than wild-type.
+Osimertinib is a kinase inhibitor of the epidermal growth factor receptor (EGFR), which binds irreversibly to certain mutant forms of EGFR (T790M, L858R, and exon 19 deletion) at approximately 9-fold lower concentrations than wild-type.
 In cultured cells and animal tumor implantation models, osimertinib exhibited anti-tumor activity against NSCLC lines harboring EGFR-mutations (T790M/L858R, L858R, T790M/exon 19 deletion, and exon 19 deletion) and, to a lesser extent, wild-type EGFR amplifications.
 Two pharmacologically-active metabolites (AZ7550 and AZ5104 circulating at approximately 10% of the parent) with similar inhibitory profiles to osimertinib have been identified in the plasma after oral administration of osimertinib.
 AZ7550 showed a similar potency to osimertinib, while AZ5104 showed greater potency against exon 19 deletion and T790M mutants (approximately 8-fold) and wild-type (approximately 15-fold) EGFR.
@@ -13,8 +13,8 @@ In vitro, osimertinib also inhibited the activity of HER2, HER3, HER4, ACK1, and
 Cardiac Electrophysiology
 
 The QTc interval prolongation potential of osimertinib was assessed in 210 patients who received TAGRISSO 80 mg daily in Study 2.
-A central tendency analysis of the QTcF data at steady-state demonstrated that the maximum mean change from baseline was 16.2 (upper bound of two-sided 90% confidence interval (CI) 17.6) msec.
-A pharmacokinetic/pharmacodynamic analysis in Study 2 suggested a concentration-dependent QTc interval prolongation of 14 msec (upper bound of two-sided 90% CI: 16 msec) at a dose of osimertinib 80 mg.
+A central tendency analysis of the QTcF data at steady-state demonstrated that the maximum mean change from baseline was 16.2 msec (upper bound of two-sided 90% confidence interval (CI) 17.6 msec).
+A pharmacokinetic/pharmacodynamic analysis in Study 2 suggested a concentration-dependent QTc interval prolongation of 14 msec (upper bound of two-sided 90% CI: 16 msec) at a dose of TAGRISSO 80 mg.
 
 ## 12.3 Pharmacokinetics
 
@@ -26,7 +26,7 @@ Absorption
 
 The median time to Cmax of osimertinib was 6 hours (range 3-24 hours).
 
-Following administration of a 20 mg TAGRISSO tablets with a high-fat, high-calorie meal (containing approximately 58 grams of fat and 1000 calories), the Cmax and AUC of osimertinib increased by 14% and 19% respectively, compared to fasting conditions.
+Following administration of a 20 mg TAGRISSO tablet with a high-fat, high-calorie meal (containing approximately 58 grams of fat and 1000 calories), the Cmax and AUC of osimertinib were comparable to that under fasting conditions.
 
 Distribution
 
@@ -49,23 +49,29 @@ Unchanged osimertinib accounted for approximately 2% of the elimination.
 
 Specific Populations
 
-No clinically significant differences in the pharmacokinetics of osimertinib were observed based on age, sex, ethnicity, body weight, smoking status, mild (CLcr 60-89 mL/min) or moderate (CLcr 30-59 mL/min) renal impairment, or mild hepatic impairment (total bilirubin <ULN and AST between 1 to 1.5x ULN or total bilirubin between 1.0 to 1.5 times ULN and any AST).
-There are no data on the pharmacokinetics of osimertinib in patients with severe renal impairment (CLcr less than 30 mL/min) or with moderate to severe hepatic impairment (moderate: total bilirubin between 1.5 to 3.0 times ULN and any AST, and severe: total bilirubin between 3.0-10 times ULN and any AST).
+No clinically significant differences in the pharmacokinetics of osimertinib were observed based on age, sex, ethnicity, body weight, smoking status, mild (CLcr 60-89 mL/min, as estimated by C-G) or moderate (CLcr 30-59 mL/min, as estimated by C-G) renal impairment, or mild hepatic impairment (total bilirubin less than or equal to ULN and AST greater than ULN or total bilirubin between 1 to 1.5 times ULN and any AST).
+The pharmacokinetics of osimertinib in patients with severe renal impairment (CLcr less than 30 mL/min) or with moderate to severe hepatic impairment (moderate: total bilirubin between 1.5 to 3 times ULN and any AST, and severe: total bilirubin between 3 to 10 times ULN and any AST) are unknown.
 
 Drug Interactions
 
-Effect of Other Drugs on TAGRISSO:
+Effect of Other Drugs on TAGRISSO in Clinical Pharmacokinetic Studies
 
-Strong CYP3A Inhibitors: Clinical studies evaluating TAGRISSO in the presence of strong CYP3A inhibitors have not been conducted [see Drug Interactions (7.1)].
+Strong CYP3A Inducers: The steady-state AUC of osimertinib was reduced by 78% in patients when co-administered with rifampin (600 mg daily for 21 days) in a clinical pharmacokinetic study [see Drug Interactions (7.1)].
 
-Strong CYP3A Inducers: Clinical studies evaluating TAGRISSO in the presence of strong CYP3A inducers have not been conducted [see Drug Interactions (7.1)].
+Strong CYP3A Inhibitors: Coadministering TAGRISSO with 200 mg itraconazole twice daily (a strong CYP3A4 inhibitor) had no clinically significant effect on the exposure of osimertinib (AUC increased by 24% and Cmax decreased by 20%).
 
 Gastric Acid Reducing Agents: The exposure of osimertinib was not affected by concurrent administration of a single 80 mg TAGRISSO tablet following 40 mg omeprazole administration for 5 days.
 
-Effect of Osimertinib on Other Drugs:
+Effect of Osimertinib on Other Drugs in Clinical Pharmacokinetic Studies
 
-CYP450 Metabolic Pathways: Osimertinib is a competitive inhibitor of CYP3A, but not CYP2C8, 1A2, 2A6, 2B6, 2C9, 2C19, 2D6 and 2E1 in vitro.
-Osimertinib induced CYP3A4 (Pregnane X dependent) and CYP1A2 enzymes.
+BCRP substrates: Coadministering TAGRISSO with rosuvastatin (a BCRP substrate) increased rosuvastatin AUC by 35% and Cmax by 72% in a clinical pharmacokinetic study [see Drug Interactions (7.2)].
 
-Transporter Systems: Based on in vitro studies, osimertinib is a substrate of P-glycoprotein and BCRP and is not a substrate of OATP1B1 and OATP1B3.
-Osimertinib is an inhibitor of BCRP and does not inhibit P-glycoprotein, OAT1, OAT3, OATP1B1, OATP1B3, MATE1, MATE2K and OCT2 in vitro.
+CYP3A4 substrates: Coadministering TAGRISSO with simvastatin (a CYP3A4 substrate) had no clinically significant effect on the exposure of simvastatin in a clinical pharmacokinetic study.
+
+In Vitro Studies
+
+CYP450 Metabolic Pathways: Osimertinib does not inhibit CYP1A2, 2A6, 2B6, 2C8, 2C9, 2C19, 2D6 and 2E1.
+Osimertinib induced CYP1A2 enzymes.
+
+Transporter Systems: Osimertinib is a substrate of P-glycoprotein and BCRP and is not a substrate of OATP1B1 and OATP1B3.
+Osimertinib is an inhibitor of BCRP and does not inhibit P-glycoprotein, OAT1, OAT3, OATP1B1, OATP1B3, MATE1, MATE2K and OCT2.

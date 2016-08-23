@@ -2,7 +2,7 @@
 
 The efficacy of TAGRISSO was demonstrated in two multicenter, single-arm, open-label clinical trials, Study 1 and Study 2, in patients with metastatic EGFR T790M mutation-positive NSCLC who had progressed on prior systemic therapy, including an EGFR TKI.
 All patients were required to have EGFR T790M mutation-positive NSCLC as detected by the cobas® EGFR mutation test and received TAGRISSO 80 mg once daily.
-The major efficacy outcome measure of both trials was objective response rate (ORR) according to RECIST v1.1 as evaluated by a Blinded Independent Central Review (BICR).
+The major efficacy outcome measure of both trials was ORR according to RECIST v1.1 as evaluated by a Blinded Independent Central Review (BICR).
 Duration of response (DOR) was an additional outcome measure.
 
 Study 1 population characteristics were: median age 62 years (range 37 to 89), female (66%), White (38%), Asian (58%), never smoker (67%), World Health Organization (WHO) performance status 0 (34%) or 1 (66%), adenocarcinoma histology (97%), 1 prior line of therapy [EGFR-TKI treatment only, second line, chemotherapy-naïve] (30%), 2 or more prior lines of therapy (70%).
@@ -25,5 +25,5 @@ Table 4 Efficacy Results by BICR in Study 1 and Study 2
 | Partial Response | 57% | 60% | 59% |
 | 1 Objective response rate determined by RECIST v1.1 as assessed by BICR 2 Pooled analysis of Study 1 and 2. |  |  |  |
 
-In a separate dose finding part of Study 1, 63 patients with centrally confirmed T790M positive NSCLC progressed on prior systemic therapy, including an EGFR TKI were administered TAGRISSO 80 mg.
+In a separate dose finding part of Study 1, 63 patients with centrally confirmed T790M-positive NSCLC progressed on prior systemic therapy, including an EGFR TKI were administered TAGRISSO 80 mg.
 In these patients, the BICR-confirmed objective response rate was 51% (32/63) and the median duration of response was 12.4 months from the time of first documented response.
