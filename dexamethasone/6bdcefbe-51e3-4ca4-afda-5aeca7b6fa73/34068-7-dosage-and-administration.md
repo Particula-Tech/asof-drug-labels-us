@@ -1,7 +1,7 @@
 # DOSAGE AND ADMINISTRATION
 
 The duration of treatment will vary with the type of lesion and may extend from a few days to several weeks, according to therapeutic response.
-Relapses, more common in chronic active lesions than in self-limited conditions, usually respond to retreatment.
+Relapses, more common in chronic active lesions than in self-limited conditions, usually respond to treatment.
 
 Eye: Instill one or two drops of solution into the conjunctival sac every hour during the day and every two hours during the night as initial therapy.
 When a favorable response is observed, reduce dosage to one drop every four hours.

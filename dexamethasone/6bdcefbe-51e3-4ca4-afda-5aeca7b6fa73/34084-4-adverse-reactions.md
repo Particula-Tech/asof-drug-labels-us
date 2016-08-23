@@ -5,3 +5,5 @@ Glaucoma with optic nerve damage, visual acuity and field defects, posterior sub
 Rarely, filtering blebs have been reported when topical steroids have been used following cataract surgery.
 
 Rarely, stinging or burning may occur.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC, at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

@@ -1,8 +1,7 @@
 # CONTRAINDICATIONS
 
 Epithelial herpes simplex keratitis (dendritic keratitis).
-
-Acute infectious stages of vaccinia, varicella and many other viral diseases of the cornea and conjunctiva.
+Acute infectious stages of vaccinia, varicella, and many other viral diseases of the cornea and conjunctiva.
 
 Mycobacterial infection of the eye.
 
