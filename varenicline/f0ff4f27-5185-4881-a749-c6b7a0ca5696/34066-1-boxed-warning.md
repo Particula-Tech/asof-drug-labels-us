@@ -18,5 +18,4 @@ In many postmarketing cases, resolution of symptoms after discontinuation of CHA
 
 The risks of CHANTIX should be weighed against the benefits of its use.
 CHANTIX has been demonstrated to increase the likelihood of abstinence from smoking for as long as one year compared to treatment with placebo.
-The health benefits of quitting smoking are immediate and substantial.
-[see Warnings and Precautions (5.1) and Adverse Reactions (6.2)]
+The health benefits of quitting smoking are immediate and substantial [see Warnings and Precautions (5.1), Adverse Reactions (6.2)].

@@ -2,13 +2,14 @@
 
 The following serious adverse reactions were reported in postmarketing experience and are discussed in greater detail in other sections of the labeling:
 
-- Neuropsychiatric symptoms and suicidality [see Boxed Warning and Warnings and Precautions (5.1)]
+- Neuropsychiatric symptoms and suicidality [see Boxed Warning, Warnings and Precautions (5.1)]
 - Seizures [see Warnings and Precautions (5.2)]
-- Interaction with Alcohol [see Warnings and Precautions (5.3)]
+- Interaction with alcohol [see Warnings and Precautions (5.3)]
 - Accidental injury [see Warnings and Precautions (5.4)]
-- Cardiovascular Events [see Warnings and Precautions (5.5)]
-- Angioedema and hypersensitivity reactions [see Warnings and Precautions (5.6)]
-- Serious skin reactions [see Warnings and Precautions (5.7)]
+- Cardiovascular events [see Warnings and Precautions (5.5)]
+- Somnambulism [see Warnings and Precautions (5.6)]
+- Angioedema and hypersensitivity reactions [see Warnings and Precautions (5.7)]
+- Serious skin reactions [see Warnings and Precautions (5.8)]
 
 In the placebo-controlled premarketing studies, the most common adverse events associated with CHANTIX (>5% and twice the rate seen in placebo-treated patients) were nausea, abnormal (vivid, unusual, or strange) dreams, constipation, flatulence, and vomiting.
 
@@ -24,15 +25,15 @@ Because clinical trials are conducted under widely varying conditions, the adver
 During the premarketing development of CHANTIX, over 4500 subjects were exposed to CHANTIX, with over 450 treated for at least 24 weeks and approximately 100 for a year.
 Most study participants were treated for 12 weeks or less.
 
-The most common adverse event associated with CHANTIX treatment is nausea, occurring in 30% of patients treated at the recommended dose, compared with 10% in patients taking a comparable placebo regimen [see Warnings and Precautions (5.6)].
+The most common adverse event associated with CHANTIX treatment is nausea, occurring in 30% of patients treated at the recommended dose, compared with 10% in patients taking a comparable placebo regimen [see Warnings and Precautions (5.9)].
 
 Table 5 shows the adverse events for CHANTIX and placebo in the 12- week fixed dose premarketing studies with titration in the first week [Studies 2 (titrated arm only), 4, and 5].
 Adverse events were categorized using the Medical Dictionary for Regulatory Activities (MedDRA, Version 7.1).
 
-MedDRA High Level Group Terms (HLGT) reported in ≥ 5% of patients in the CHANTIX 1 mg twice daily dose group, and more commonly than in the placebo group, are listed, along with subordinate Preferred Terms (PT) reported in ≥ 1% of CHANTIX patients (and at least 0.5% more frequent than placebo).
+MedDRA High Level Group Terms (HLGT) reported in ≥5% of patients in the CHANTIX 1 mg twice daily dose group, and more commonly than in the placebo group, are listed, along with subordinate Preferred Terms (PT) reported in ≥1% of CHANTIX patients (and at least 0.5% more frequent than placebo).
 Closely related Preferred Terms such as 'Insomnia', 'Initial insomnia', 'Middle insomnia', 'Early morning awakening' were grouped, but individual patients reporting two or more grouped events are only counted once.
 
-Table 5: Common Treatment Emergent AEs (%) in the Fixed-Dose, Placebo-Controlled Studies (HLGTs ≥ 5% of patients in the 1 mg BID CHANTIX Group and more commonly than placebo and PT ≥ 1% in the 1 mg BID CHANTIX Group, and 1 mg BID CHANTIX at least 0.5% more than Placebo)
+Table 5: Common Treatment Emergent AEs (%) in the Fixed-Dose, Placebo-Controlled Studies (HLGTs ≥ 5% of patients in the 1 mg BID CHANTIX Group and more commonly than Placebo and PT ≥ 1% in the 1 mg BID CHANTIX Group, and 1 mg BID CHANTIX at least 0.5% more than Placebo)
 
 | Preferred Term | N=129 | N=821 | N=805 |
 | --- | --- | --- | --- |
@@ -75,11 +76,11 @@ Table 5: Common Treatment Emergent AEs (%) in the Fixed-Dose, Placebo-Controlled
 | Rash | 1 | 3 | 2 |
 | Pruritis | 0 | 1 | 1 |
 | METABOLISM & NUTRITION |  |  |  |
-| Appetite/General Nutrit. Disorders |  |  |  |
+| Appetite/General Nutrition Disorders |  |  |  |
 | Increased appetite | 4 | 3 | 2 |
 | Decreased appetite/Anorexia | 1 | 2 | 1 |
 
-The overall pattern and frequency of adverse events during the longer-term premarketing trials was similar to those described in Table 5, though several of the most common events were reported by a greater proportion of patients with long-term use (e.g., nausea was reported in 40% of patients treated with CHANTIX 1 mg twice daily in a one-year study, compared to 8% of placebo-treated patients).
+The overall pattern and frequency of adverse events during the longer-term premarketing trials was similar to those described in Table 5, though several of the most common events were reported by a greater proportion of patients with long-term use (e.g., nausea was reported in 40% of patients treated with CHANTIX 1 mg twice daily in a one year study, compared to 8% of placebo-treated patients).
 
 Following is a list of treatment-emergent adverse events reported by patients treated with CHANTIX during all premarketing clinical trials and updated based on pooled data from 18 placebo-controlled pre- and post-marketing studies, including approximately 5,000 patients treated with varenicline.
 Adverse events were categorized using MedDRA, Version 16.0.
@@ -161,16 +162,16 @@ Vascular Disorders.
 Infrequent: hot flush.
 Rare: thrombosis.
 
-CHANTIX has also been studied in postmarketing trials including (1) a trial conducted in patients with chronic obstructive pulmonary disease (COPD), (2) a trial conducted in generally healthy patients (similar to those in the premarketing studies) in which they were allowed to select a quit date between days 8 and 35 of treatment ("alternative quit date instruction trial"), (3) a trial conducted in patients who did not succeed in stopping smoking during prior CHANTIX therapy, or who relapsed after treatment ("re-treatment trial"), (4) a trial conducted in patients with stable cardiovascular disease, (5) a trial conducted in patients with stable schizophrenia or schizoaffective disorder and (6) a trial conducted in patients with major depressive disorder.
+CHANTIX has also been studied in postmarketing trials including (1) a trial conducted in patients with chronic obstructive pulmonary disease (COPD), (2) a trial conducted in generally healthy patients (similar to those in the premarketing studies) in which they were allowed to select a quit date between days 8 and 35 of treatment ("alternative quit date instruction trial"), (3) a trial conducted in patients who did not succeed in stopping smoking during prior CHANTIX therapy, or who relapsed after treatment ("re-treatment trial"), (4) a trial conducted in patients with stable cardiovascular disease, (5) a trial conducted in patients with stable schizophrenia or schizoaffective disorder (6) a trial conducted in patients with major depressive disorder and (7) a trial in patients who were not able or willing to quit abruptly and who were instructed to quit gradually ("gradual approach to quitting smoking trial").
 
-Adverse events in the trial of patients with COPD, in the alternative quit date instruction trial, were quantitatively and qualitatively similar to those observed in premarketing studies.
-In the re-treatment trial, the profile of common adverse events was similar to that previously reported, but, in addition, varenicline-treated patients also commonly reported diarrhea (6% vs 4% in placebo-treated patients), depressed mood disorders and disturbances (6% vs 1%), and other mood disorders and disturbances (5% vs 2%).
+Adverse events in the trial of patients with COPD, in the alternative quit date instruction trial, and in the gradual approach to quitting smoking trial were similar to those observed in premarketing studies.
+In the re-treatment trial, the profile of common adverse events was similar to that previously reported, but, in addition, varenicline-treated patients also commonly reported diarrhea (6% vs. 4% in placebo-treated patients), depressed mood disorders and disturbances (6% vs. 1%), and other mood disorders and disturbances (5% vs. 2%).
 
 In the trial of patients with stable cardiovascular disease, more types and a greater number of cardiovascular events were reported compared to premarketing studies.
 Treatment-emergent (on-treatment or 30 days after treatment) cardiovascular events reported with a frequency ≥ 1% in either treatment group in this study were angina pectoris (3.7% and 2.0% for varenicline and placebo, respectively), chest pain (2.5% vs. 2.3%), peripheral edema (2.0% vs. 1.1%), hypertension (1.4% vs. 2.6%), and palpitations (0.6 % vs. 1.1%).
 Deaths and serious cardiovascular events occurring over the 52 weeks of the study (treatment emergent and non-treatment emergent) were adjudicated by a blinded, independent committee.
-The following treatment-emergent adjudicated events occurred with a frequency ≥1% in either treatment group: nonfatal MI (1.1% vs. 0.3% for varenicline and placebo, respectively), and hospitalization for angina pectoris (0.6% vs. 1.1%).
-During non-treatment follow up to 52 weeks, the adjudicated events included need for coronary revascularization (2.0% vs. 0.6%), hospitalization for angina pectoris (1.7% vs. 1.1%), and new diagnosis of peripheral vascular disease (PVD) or admission for a PVD procedure (1.4% vs. 0.6%).
+The following treatment-emergent adjudicated events occurred with a frequency ≥ 1% in either treatment group: nonfatal MI (1.1% vs. 0.3% for varenicline and placebo, respectively), and hospitalization for angina pectoris (0.6% vs. 1.1%).
+During non-treatment follow-up to 52 weeks, the adjudicated events included need for coronary revascularization (2.0% vs. 0.6%), hospitalization for angina pectoris (1.7% vs. 1.1%), and new diagnosis of peripheral vascular disease (PVD) or admission for a PVD procedure (1.4% vs. 0.6%).
 Some of the patients requiring coronary revascularization underwent the procedure as part of management of nonfatal MI and hospitalization for angina.
 Cardiovascular death occurred in 0.3% of patients in the varenicline arm and 0.6% of patients in the placebo arm over the course of the 52-week study.
 
@@ -207,15 +208,19 @@ There have been reports of depression, mania, psychosis, hallucinations, paranoi
 Smoking cessation with or without treatment is associated with nicotine withdrawal symptoms and the exacerbation of underlying psychiatric illness.
 Not all patients had known pre-existing psychiatric illness and not all had discontinued smoking.
 
-There have been post-marketing reports of new or worsening seizures in patients treated with CHANTIX [see Warnings and Precautions (5.2)].
+There have been postmarketing reports of new or worsening seizures in patients treated with CHANTIX [see Warnings and Precautions (5.2)].
 
-There have been post-marketing reports of patients experiencing increased intoxicating effects of alcohol while taking CHANTIX.
+There have been postmarketing reports of patients experiencing increased intoxicating effects of alcohol while taking CHANTIX.
 Some reported neuropsychiatric events, including unusual and sometimes aggressive behavior [see Warnings and Precautions (5.1) and (5.3)].
 
-There have been reports of hypersensitivity reactions, including angioedema [see Warnings and Precautions (5.6)].
+There have been reports of hypersensitivity reactions, including angioedema [see Warnings and Precautions (5.7)].
 
-There have also been reports of serious skin reactions, including Stevens- Johnson Syndrome and erythema multiforme, in patients taking CHANTIX [see Warnings and Precautions (5.7)].
+There have also been reports of serious skin reactions, including Stevens-Johnson Syndrome and erythema multiforme, in patients taking CHANTIX [see Warnings and Precautions (5.8)].
 
 There have been reports of myocardial infarction (MI) and cerebrovascular accident (CVA) including ischemic and hemorrhagic events in patients taking CHANTIX.
 In the majority of the reported cases, patients had pre-existing cardiovascular disease and/or other risk factors.
-Although smoking is a risk factor for MI and CVA, based on temporal relationship between medication use and events, a contributory role of varenicline cannot be ruled out.
+Although smoking is a risk factor for MI and CVA, based on temporal relationship between medication use and events, a contributory role of varenicline cannot be ruled out [see Warnings and Precautions (5.5)].
+
+There have been reports of hyperglycemia in patients following initiation of CHANTIX.
+
+There have been reports of somnambulism, some resulting in harmful behavior to self, others, or property in patients treated with CHANTIX [see Warnings and Precautions (5.6)].

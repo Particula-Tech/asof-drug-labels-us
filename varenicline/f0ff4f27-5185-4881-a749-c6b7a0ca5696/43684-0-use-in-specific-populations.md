@@ -2,26 +2,52 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C.
+Risk Summary
 
-There are no adequate and well-controlled studies of CHANTIX use in pregnant women.
-In animal studies, CHANTIX caused decreased fetal weights, increased auditory startle response, and decreased fertility in offspring.
-CHANTIX should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Available human data on the use of CHANTIX in pregnant women are not sufficient to inform a drug associated risk.
+Smoking during pregnancy is associated with maternal, fetal, and neonatal risks [see Clinical Considerations].
+In animal studies, varenicline did not result in major malformations but caused decreased fetal weights in rabbits when dosed during organogenesis at exposures equivalent to 50 times the exposure at the maximum recommended human dose (MRHD).
+Additionally, administration of varenicline to pregnant rats during organogenesis through lactation produced developmental toxicity in offspring at maternal exposures equivalent to 36 times human exposure at the MRHD [see Data].
 
-In reproductive and developmental toxicity studies, pregnant rats and rabbits received varenicline succinate during organogenesis at oral doses up to 15 and 30 mg/kg/day, respectively.
-These exposures were 36 (rats) and 50 (rabbits) times the human exposure (based on AUC) at the maximum recommended human dose (MRHD) of 1 mg twice daily.
-While no fetal structural abnormalities occurred in either species, reduced fetal weights occurred in rabbits at the highest dose (exposures 50 times the human exposure at the MRHD based on AUC).
-Fetal weight reduction did not occur at animal exposures 23 times the human exposure at the MRHD based on AUC.
+The estimated background risk of oral clefts is increased by approximately 30% in infants of women who smoke during pregnancy, compared to pregnant women who do not smoke.
+The background risk of other major birth defects and miscarriage for the indicated population are unknown.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2–4% and 15–20%, respectively.
+
+Clinical Considerations
+
+Disease-Associated Maternal and/or Embryo/Fetal Risk
+
+Smoking during pregnancy causes increased risks of orofacial clefts, premature rupture of membranes, placenta previa, placental abruption, ectopic pregnancy, fetal growth restriction and low birth weight, stillbirth, preterm delivery and shortened gestation, neonatal death, sudden infant death syndrome and reduction of lung function in infants.
+It is not known whether quitting smoking with CHANTIX during pregnancy reduces these risks.
+
+Data
+
+Animal Data
+
+Pregnant rats and rabbits received varenicline succinate during organogenesis at oral doses up to 15 and 30 mg/kg/day, respectively.
+While no fetal structural abnormalities occurred in either species, maternal toxicity, characterized by reduced body weight gain, and reduced fetal weights occurred in rabbits at the highest dose (exposures 50 times the human exposure at the MRHD of 1 mg twice daily based on AUC).
+Fetal weight reduction did not occur in rabbits at exposures 23 times the human exposure at the MRHD based on AUC.
 
 In a pre- and postnatal development study, pregnant rats received up to 15 mg/kg/day of oral varenicline succinate from organogenesis through lactation.
-These resulted in exposures up to 36 times the human exposure (based on AUC) at the MRHD of 1 mg twice daily.
-Decreased fertility and increased auditory startle response occurred in offspring.
+Maternal toxicity, characterized by a decrease in body weight gain was observed at 15 mg/kg/day (36 times the human exposure at the MRHD based on AUC).
+However, decreased fertility and increased auditory startle response occurred in offspring at the highest maternal dose of 15 mg/kg/day.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-It is not known whether CHANTIX is excreted in human milk.
-In animal studies varenicline was excreted in milk of lactating animals.
-Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from CHANTIX, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Risk Summary
+
+There are no data on the presence of varenicline in human milk, the effects on the breastfed infant, or the effects on milk production.
+In animal studies varenicline was present in milk of lactating rats [see Data].
+However, due to species-specific differences in lactation physiology, animal data may not reliably predict drug levels in human milk.
+The lack of clinical data during lactation precludes a clear determination of the risk of CHANTIX to an infant during lactation; however the developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for CHANTIX and any potential adverse effects on the breastfed child from CHANTIX or from the underlying maternal condition.
+
+Clinical Considerations
+
+Because there are no data on the presence of varenicline in human milk and the effects on the breastfed infant, breastfeeding women should monitor their infant for seizures and excessive vomiting, which are adverse reactions that have occurred in adults that may be clinically relevant in breastfeeding infants.
+
+Data
+
+In a pre- and postnatal development study, pregnant rats received up to 15 mg/kg/day of oral varenicline succinate through gestation and lactation Mean serum concentrations of varenicline in the nursing pups were 5–22% of maternal serum concentrations.
 
 ## 8.4 Pediatric Use
 
@@ -29,7 +55,7 @@ Safety and effectiveness of CHANTIX in pediatric patients have not been establis
 
 ## 8.5 Geriatric Use
 
-A combined single- and multiple-dose pharmacokinetic study demonstrated that the pharmacokinetics of 1 mg varenicline given once daily or twice daily to 16 healthy elderly male and female smokers (aged 65–75 yrs) for 7 consecutive days was similar to that of younger subjects.
+A combined single- and multiple-dose pharmacokinetic study demonstrated that the pharmacokinetics of 1 mg varenicline given once daily or twice daily to 16 healthy elderly male and female smokers (aged 65–75 years) for 7 consecutive days was similar to that of younger subjects.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
 Varenicline is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
@@ -41,5 +67,4 @@ No dosage adjustment is recommended for elderly patients.
 
 Varenicline is substantially eliminated by renal glomerular filtration along with active tubular secretion.
 Dose reduction is not required in patients with mild to moderate renal impairment.
-For patients with severe renal impairment (estimated creatinine clearance <30 mL/min), and for patients with end-stage renal disease undergoing hemodialysis, dosage adjustment is needed.
-[see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
+For patients with severe renal impairment (estimated creatinine clearance <30 mL/min), and for patients with end-stage renal disease undergoing hemodialysis, dosage adjustment is needed [see Dosage and Administration (2.2), Clinical Pharmacology (12.3)].

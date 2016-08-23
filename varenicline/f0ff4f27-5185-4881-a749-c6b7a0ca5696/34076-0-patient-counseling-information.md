@@ -7,11 +7,15 @@ Initiate Treatment and Continue to Attempt to Quit if Lapse
 Instruct patients to set a date to quit smoking and to initiate CHANTIX treatment one week before the quit date.
 Alternatively, the patient can begin CHANTIX dosing and then set a date to quit smoking between days 8 and 35 of treatment.
 Encourage patients to continue to attempt to quit if they have early lapses after quit day [see Dosage and Administration (2.1)].
-Encourage patients who are motivated to quit and who did not succeed in stopping smoking during prior CHANTIX therapy for reasons other than intolerability due to adverse events, or who relapsed after treatment to make another attempt with CHANTIX once factors contributing to the failed attempt have been identified and addressed [see Dosage and Administration (2.1), Clinical Studies (14.7)].
 
-How To Take
+For patients who are sure that they are not able or willing to quit abruptly, a gradual approach to quitting smoking with CHANTIX may be considered.
+Patients should begin CHANTIX dosing and reduce smoking during the first 12 weeks of treatment, then quit by the end of that period and continue treatment for an additional 12 weeks for a total of 24 weeks [see Dosage and Administration (2.1)].
 
-Advise patients that CHANTIX should be taken after eating, and with a full glass of water [see Dosage and Administration (2.1)].
+Encourage patients who are motivated to quit and who did not succeed in stopping smoking during prior CHANTIX therapy for reasons other than intolerability due to adverse events, or who relapsed after treatment to make another attempt with CHANTIX once factors contributing to the failed attempt have been identified and addressed [see Dosage and Administration (2.1), Clinical Studies (14.6)].
+
+How to Take
+
+Advise patients that CHANTIX should be taken orally after eating, and with a full glass of water [see Dosage and Administration (2.1)].
 
 Starting Week Dosage
 
@@ -60,18 +64,21 @@ Advise patients to use caution driving or operating machinery until they know ho
 
 Cardiovascular Events
 
-Patients should be instructed to notify their health care providers of symptoms of new or worsening cardiovascular events and to seek immediate medical attention if they experience signs and symptoms of myocardial infarction or stroke.
-[see Warnings and Precautions (5.5), and Adverse Reactions (6.1)].
+Patients should be instructed to notify their healthcare providers of symptoms of new or worsening cardiovascular events and to seek immediate medical attention if they experience signs and symptoms of myocardial infarction or stroke [see Warnings and Precautions (5.5), Adverse Reactions (6.1)].
+
+Somnambulism
+
+Patients should be instructed to discontinue CHANTIX and notify their healthcare providers if they experience somnambulism [see Warnings and Precautions (5.6)].
 
 Angioedema
 
 Inform patients that there have been reports of angioedema, with swelling of the face, mouth (lip, gum, tongue) and neck (larynx and pharynx) that can lead to life-threatening respiratory compromise.
-Instruct patients to discontinue CHANTIX and immediately seek medical care if they experience these symptoms [see Warnings and Precautions (5.2), and Adverse Reactions (6.2)].
+Instruct patients to discontinue CHANTIX and immediately seek medical care if they experience these symptoms [see Warnings and Precautions (5.7), Adverse Reactions (6.2)].
 
 Serious Skin Reactions
 
 Inform patients that serious skin reactions, such as Stevens-Johnson Syndrome and erythema multiforme, were reported by some patients taking CHANTIX.
-Advise patients to stop taking CHANTIX at the first sign of rash with mucosal lesions or skin reaction and contact a healthcare provider immediately [see Warnings and Precautions (5.3), and Adverse Reactions (6.2)].
+Advise patients to stop taking CHANTIX at the first sign of rash with mucosal lesions or skin reaction and contact a healthcare provider immediately [see Warnings and Precautions (5.8), Adverse Reactions (6.2)].
 
 Vivid, Unusual, or Strange Dreams
 
@@ -79,9 +86,5 @@ Inform patients that they may experience vivid, unusual or strange dreams during
 
 Pregnancy and Lactation
 
-Patients who are pregnant or breastfeeding or planning to become pregnant should be advised of: the risks of smoking to a pregnant mother and her developing baby, the potential risks of CHANTIX use during pregnancy and breastfeeding, and the benefits of smoking cessation with and without CHANTIX [see Use in Specific Populations (8.1 and 8.3)].
-
-This product's label may have been updated.
-For full prescribing information, please visit www.pfizer.com
-
-LAB- 0327-20.0
+Patients who are pregnant or breastfeeding or planning to become pregnant should be advised of: the risks of smoking to a pregnant mother and her developing baby, the potential risks of CHANTIX use during pregnancy and breastfeeding, and the benefits of smoking cessation with and without CHANTIX.
+Advise breastfeeding women to monitor the infant for seizures and vomiting [see Use in Specific Populations (8.1 and 8.2)].

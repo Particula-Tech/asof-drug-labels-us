@@ -2,7 +2,7 @@
 
 ## 5.1 Neuropsychiatric Symptoms and Suicidality
 
-Serious neuropsychiatric symptoms have been reported in patients being treated with CHANTIX [see Boxed Warning and Adverse Reactions (6.2)].
+Serious neuropsychiatric symptoms have been reported in patients being treated with CHANTIX [see Boxed Warning, Adverse Reactions (6.2)].
 These postmarketing reports have included changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, hostility, agitation, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide.
 Some reported cases may have been complicated by the symptoms of nicotine withdrawal in patients who stopped smoking.
 Depressed mood may be a symptom of nicotine withdrawal.
@@ -13,9 +13,9 @@ When symptoms were reported, most were during CHANTIX treatment, but some were f
 These events have occurred in patients with and without pre-existing psychiatric disease; some patients have experienced worsening of their psychiatric illnesses.
 All patients being treated with CHANTIX should be observed for neuropsychiatric symptoms or worsening of pre-existing psychiatric illness.
 Patients with serious psychiatric illness such as schizophrenia, bipolar disorder, and major depressive disorder did not participate in the premarketing studies of CHANTIX.
-Limited safety data are available from post-marketing smoking cessation studies in two patient groups: 1) patients with major depressive disorder, and 2) patients with stable schizophrenia or schizoaffective disorder [see Adverse Reactions (6.1), Clinical Studies (14.5)].
+Limited safety data are available from postmarketing smoking cessation studies in two patient groups: 1) patients with major depressive disorder, and 2) patients with stable schizophrenia or schizoaffective disorder [see Adverse Reactions (6.1), Clinical Studies (14.8)].
 
-Some reported neuropsychiatric events, including unusual and sometimes aggressive behavior directed to oneself or others, may have been worsened by concomitant use of alcohol [see Interaction with Alcohol (5.3), Adverse Reactions (6.2)].
+Some reported neuropsychiatric events, including unusual and sometimes aggressive behavior directed to oneself or others, may have been worsened by concomitant use of alcohol [see Warnings and Precautions (5.3), Adverse Reactions (6.2)].
 
 Advise patients and caregivers that the patient should stop taking CHANTIX and contact a healthcare provider immediately if agitation, depressed mood, changes in behavior or thinking that are not typical for the patient are observed, or if the patient develops suicidal ideation or suicidal behavior.
 In many postmarketing cases, resolution of symptoms after discontinuation of CHANTIX was reported, although in some cases the symptoms persisted, therefore, ongoing monitoring and supportive care should be provided until symptoms resolve.
@@ -26,9 +26,9 @@ The health benefits of quitting smoking are immediate and substantial.
 
 Since the initial signal of neuropsychiatric symptoms and suicidality emerged, additional analyses and studies have been conducted to further evaluate this association.
 
-Analyses of clinical trials
+Analyses of Clinical Trials
 
-A meta-analysis of 5 randomized, double blind, placebo controlled trials, including 1907 patients (1130 CHANTIX, 777 placebo) was conducted to assess suicidal ideation and behavior as reported on the Columbia-Suicide Severity Rating Scale (C SSRS).
+A meta-analysis of 5 randomized, double-blind, placebo-controlled trials, including 1907 patients (1130 CHANTIX, 777 placebo) was conducted to assess suicidal ideation and behavior as reported on the Columbia-Suicide Severity Rating Scale (C-SSRS).
 This meta-analysis included one trial (N=127) in patients with a history of schizophrenia or schizoaffective disorder and another trial (N=525) in patients with a history of depression.
 The results showed no increase in the incidence of suicidal ideation and/or behavior in patients treated with CHANTIX compared to patients treated with placebo, with a Risk Ratio (RR) of 0.79 (95% Confidence Interval [CI]: 0.46, 1.36), as shown in Table 1.
 Forty-eight (48) of the 55 patients who reported suicidal ideation or behavior (24 CHANTIX, 24 placebo) were observed in the two trials that enrolled patients with a history of schizophrenia, schizoaffective disorder, or depression.
@@ -75,7 +75,7 @@ Outcomes examined in these studies did not include the full range of neuropsychi
 
 ## 5.2 Seizures
 
-During clinical trials and the post-marketing experience, there have been reports of seizures in patients treated with CHANTIX.
+During clinical trials and the post marketing experience, there have been reports of seizures in patients treated with CHANTIX.
 Some patients had no history of seizures, whereas others had a history of seizure disorder that was remote or well-controlled.
 In most cases, the seizure occurred within the first month of therapy.
 Weigh this potential risk against the potential benefits before prescribing CHANTIX in patients with a history of seizures or other factors that can lower the seizure threshold.
@@ -95,7 +95,7 @@ Advise patients to use caution driving or operating machinery or engaging in oth
 
 ## 5.5 Cardiovascular Events
 
-In a placebo-controlled clinical trial of CHANTIX administered to patients with stable cardiovascular disease, with approximately 350 patients per treatment arm, all-cause and cardiovascular mortality was lower in patients treated with CHANTIX, but certain nonfatal cardiovascular events occurred more frequently in patients treated with CHANTIX than in patients treated with placebo [see Clinical Trials Experience (6.1)].
+In a placebo-controlled clinical trial of CHANTIX administered to patients with stable cardiovascular disease, with approximately 350 patients per treatment arm, all-cause and cardiovascular mortality was lower in patients treated with CHANTIX, but certain nonfatal cardiovascular events occurred more frequently in patients treated with CHANTIX than in patients treated with placebo [see Adverse Reactions (6.1)].
 Table 3 below shows the incidence of deaths and of selected nonfatal serious cardiovascular events occurring more frequently in the CHANTIX arm compared to the placebo arm.
 These events were adjudicated by an independent blinded committee.
 Nonfatal serious cardiovascular events not listed occurred at the same incidence or more commonly in the placebo arm.
@@ -131,7 +131,7 @@ Overall, a small number of MACE occurred in the trials included in the meta-anal
 These events occurred primarily in patients with known cardiovascular disease.
 
 Table 4.
-Number of MACE cases, Hazard Ratio and Rate Difference in a Meta-Analysis of 15 Clinical Trials Comparing CHANTIX to PlaceboIncludes MACE occurring up to 30 days post treatment.
+Number of MACE cases, Hazard Ratio and Rate Difference in a Meta-Analysis of 15 Clinical Trials Comparing CHANTIX to PlaceboIncludes MACE occurring up to 30 days post-treatment.
 
 |  | CHANTIX N=4190 | Placebo N=2812 |
 | --- | --- | --- |
@@ -148,24 +148,30 @@ Although these findings were not statistically significant they were consistent.
 Because the number of events was small overall, the power for finding a statistically significant difference in a signal of this magnitude is low.
 
 CHANTIX was not studied in patients with unstable cardiovascular disease or cardiovascular events occurring within two months before screening.
-Patients should be advised to notify a health care provider of new or worsening symptoms of cardiovascular disease.
+Patients should be advised to notify a healthcare provider of new or worsening symptoms of cardiovascular disease.
 The risks of CHANTIX should be weighed against the benefits of its use in smokers with cardiovascular disease.
 Smoking is an independent and major risk factor for cardiovascular disease.
 CHANTIX has been demonstrated to increase the likelihood of abstinence from smoking for as long as one year compared to treatment with placebo.
 
-## 5.6 Angioedema and Hypersensitivity Reactions
+## 5.6 Somnambulism
 
-There have been postmarketing reports of hypersensitivity reactions including angioedema in patients treated with CHANTIX [see Adverse Reactions (6.2), and Patient Counseling Information (17)].
+Cases of somnambulism have been reported in patients taking CHANTIX.
+Some cases described harmful behavior to self, others, or property.
+Instruct patients to discontinue CHANTIX and notify their healthcare provider if they experience somnambulism [see Adverse Reactions (6.2)].
+
+## 5.7 Angioedema and Hypersensitivity Reactions
+
+There have been postmarketing reports of hypersensitivity reactions including angioedema in patients treated with CHANTIX [see Adverse Reactions (6.2), Patient Counseling Information (17)].
 Clinical signs included swelling of the face, mouth (tongue, lips, and gums), extremities, and neck (throat and larynx).
 There were infrequent reports of life-threatening angioedema requiring emergent medical attention due to respiratory compromise.
 Instruct patients to discontinue CHANTIX and immediately seek medical care if they experience these symptoms.
 
-## 5.7 Serious Skin Reactions
+## 5.8 Serious Skin Reactions
 
 There have been postmarketing reports of rare but serious skin reactions, including Stevens-Johnson Syndrome and erythema multiforme, in patients using CHANTIX [see Adverse Reactions (6.2)].
 As these skin reactions can be life-threatening, instruct patients to stop taking CHANTIX and contact a healthcare provider immediately at the first appearance of a skin rash with mucosal lesions or any other signs of hypersensitivity.
 
-## 5.8 Nausea
+## 5.9 Nausea
 
 Nausea was the most common adverse reaction reported with CHANTIX treatment.
 Nausea was generally described as mild or moderate and often transient; however, for some patients, it was persistent over several months.
