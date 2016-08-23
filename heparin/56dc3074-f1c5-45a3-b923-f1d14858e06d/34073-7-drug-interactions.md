@@ -1,20 +1,17 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Drugs Enhancing Heparin Effect
+## 7.1 Oral Anticoagulants
 
-- Drugs that interfere with platelet aggregation – These drugs (e.g., systemic salicylates, NSAIDs including celecoxib and ibuprofen, glycoprotein IIb/IIIa antagonists, thienopyridines, dipyridamole, hydroxychloroquine, dextran) may induce bleeding.
-  Use heparin sodium with caution in patients receiving such agents.
-- Antithrombin III (human) – The anticoagulant effect of heparin is enhanced by concurrent treatment with antithrombin III (human) in patients with hereditary antithrombin III deficiency.
-  To reduce the risk of bleeding, a reduced dosage of heparin is recommended during treatment with antithrombin III (human).
+Heparin sodium may prolong the one-stage prothrombin time.
+Therefore, when heparin sodium is given with dicumarol or warfarin sodium, a period of at least 5 hours after the last intravenous dose or 24 hours after the last subcutaneous dose should elapse before blood is drawn if a valid prothrombin time is to be obtained.
 
-## 7.2 Drugs Decreasing Heparin Effect
+## 7.2 Platelet Inhibitors
 
-Digitalis, tetracyclines, nicotine, nitrates, and antihistamines may partially counteract the anticoagulant action of heparin sodium.
-Monitor patients' coagulation tests appropriately.
+Drugs such as NSAIDs (including salicylic acid, ibuprofen, indomethacin, and celecoxib), dextran, phenylbutazone, thienopyridines, dipyridamole, hydroxychloroquine, glycoprotein IIb/IIIa antagonists (including abciximab, eptifibatide, and tirofiban), and others that interfere with platelet-aggregation reactions (the main hemostatic defense of heparinized patients) may induce bleeding and should be used with caution in patients receiving heparin sodium.
 
-## 7.3 Drug-Laboratory Test Interactions
+## 7.3 Other Interactions
 
-- Elevated aminotransferase levels – Significant elevations of AST and ALT levels without elevation in bilirubin or alkaline phosphatase have occurred in patients (and healthy subjects) who have received heparin.
-  Because aminotransferase determinations are important in the differential diagnoses of certain conditions including myocardial infarction, liver disease, and pulmonary emboli, elevations in aminotransferase levels that may be related to heparin use should be interpreted with caution.
-- Prothrombin time – Heparin sodium may prolong the one-stage prothrombin time.
-  Therefore, when heparin sodium is given with warfarin, allow a period of at least 5 hours after the last intravenous dose or 24 hours after the last subcutaneous dose of heparin to elapse before blood is drawn to obtain a valid prothrombin time.
+Digitalis, tetracyclines, nicotine, or antihistamines, or intravenous (IV) nitroglycerin may partially counteract the anticoagulant action of heparin sodium.
+
+Antithrombin III (human) – The anticoagulant effect of heparin is enhanced by concurrent treatment with antithrombin III (human) in patients with hereditary antithrombin III deficiency.
+To reduce the risk of bleeding, a reduced dosage of heparin is recommended during treatment with antithrombin III (human).

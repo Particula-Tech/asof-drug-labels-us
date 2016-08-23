@@ -36,13 +36,14 @@ Pediatric patients, including neonates, have died as a result of medication erro
 Benzyl Alcohol Toxicity
 
 Use preservative-free HEPARIN SODIUM INJECTION in neonates and infants.
-The preservative benzyl alcohol has been associated with serious adverse events and death in pediatric patients.
-The "gasping syndrome" (characterized by central nervous system depression, metabolic acidosis, gasping respirations, and high levels of benzyl alcohol and its metabolites found in the blood and urine) has been associated with benzyl alcohol dosages >99 mg/kg/day in neonates and low-birth weight infants.
-Additional symptoms may include gradual neurological deterioration, seizures, intracranial hemorrhage, hematologic abnormalities, skin breakdown, hepatic and renal failure, hypotension, bradycardia, and cardiovascular collapse.
 
-Although normal therapeutic doses of this product deliver amounts of benzyl alcohol that are substantially lower than those reported in association with the "gasping syndrome", the minimum amount of benzyl alcohol at which toxicity may occur is not known.
-Premature and low-birth weight infants may be more likely to develop toxicity.
-Practitioners administering this and other medications containing benzyl alcohol should consider the combined daily metabolic load of benzyl alcohol from all sources.
+Serious adverse reactions including fatal reactions and the "gasping syndrome" occurred in premature neonates and low-birth weight infants in the neonatal intensive care unit who received benzyl alcohol as a preservative in infusion solutions.
+In these cases, benzyl alcohol dosages of 99 to 234 mg/kg/day produced high levels of benzyl alcohol and its metabolites in the blood and urine (blood levels of benzyl alcohol were 0.61 to 1.378 mmol/L).
+Additional adverse reactions included gradual neurological deterioration, seizures, intracranial hemorrhage, hematologic abnormalities, skin breakdown, hepatic and renal failure, hypotension, bradycardia, and cardiovascular collapse.
+Preterm, low-birth weight infants may be more likely to develop these reactions because they may be less able to metabolize benzyl alcohol.
+
+When prescribing HEPARIN SODIUM INJECTION in infants consider the combined daily metabolic load of benzyl alcohol from all sources including HEPARIN SODIUM INJECTION (HEPARIN SODIUM INJECTION contains 9.45 mg of benzyl alcohol) and other drugs containing benzyl alcohol.
+The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known [see Warnings and Precautions (5.4)].
 
 ## 8.5 Geriatric Use
 

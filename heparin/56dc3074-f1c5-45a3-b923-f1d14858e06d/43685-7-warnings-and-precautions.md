@@ -19,9 +19,9 @@ An unexplained fall in hematocrit or fall in blood pressure should lead to serio
 
 Use heparin sodium with caution in disease states in which there is increased risk of hemorrhage, including:
 
-- Cardiovascular – Subacute bacterial endocarditis, severe hypertension
-- Surgical – During and immediately following: (a) spinal puncture or spinal anesthesia or (b) major surgery, especially involving the brain, spinal cord, or eye
-- Hematologic – Conditions associated with increased bleeding tendencies, such as hemophilia, thrombocytopenia, and some vascular purpuras
+- Cardiovascular – Subacute bacterial endocarditis, severe hypertension.
+- Surgical – During and immediately following: (a) spinal puncture or spinal anesthesia or (b) major surgery, especially involving the brain, spinal cord, or eye.
+- Hematologic – Conditions associated with increased bleeding tendencies, such as hemophilia, thrombocytopenia, and some vascular purpuras.
 - Patients with hereditary antithrombin III deficiency receiving concurrent antithrombin III therapy – The anticoagulant effect of heparin is enhanced by concurrent treatment with antithrombin III (human) in patients with hereditary antithrombin III deficiency.
   To reduce the risk of bleeding, reduce the heparin dose during concomitant treatment with antithrombin III (human).
 - Gastrointestinal – Ulcerative lesions, continuous tube drainage of the stomach or small intestine, and clinical settings in which stress-induced gastrointestinal hemorrhage is possible.
@@ -39,12 +39,15 @@ If the platelet count falls below 100,000/mm3 or if recurrent thrombosis develop
 HIT and HITT can occur up to several weeks after the discontinuation of heparin therapy.
 Patients presenting with thrombocytopenia or thrombosis after discontinuation of heparin should be evaluated for HIT and HITT.
 
-## 5.4 Benzyl Alcohol Toxicity
+## 5.4 Risk of Serious Adverse Reactions in Infants due to Benzyl Alcohol Preservative
 
 Use preservative-free HEPARIN SODIUM INJECTION in neonates and infants.
-The preservative benzyl alcohol has been associated with serious adverse events and death in pediatric patients.
-The minimum amount of benzyl alcohol at which toxicity may occur is not known.
-Premature and low-birth weight infants may be more likely to develop toxicity [see Use in Specific Populations (8.4)].
+
+Serious and fatal adverse reactions including "gasping syndrome" can occur in neonates and low-birth weight infants treated with benzyl alcohol-preserved formulation in infusion solutions, including HEPARIN SODIUM INJECTION.
+The "gasping syndrome" is characterized by central nervous system depression, metabolic acidosis, and gasping respirations.
+
+When prescribing HEPARIN SODIUM INJECTION in infants consider the combined daily metabolic load of benzyl alcohol from all sources including HEPARIN SODIUM INJECTION (HEPARIN SODIUM INJECTION contains 9.45 mg of benzyl alcohol per mL) and other drugs containing benzyl alcohol.
+The minimum amount of benzyl alcohol at which toxicity may occur is not known [see Use in Specific Populations (8.4)].
 
 ## 5.5 Thrombocytopenia
 

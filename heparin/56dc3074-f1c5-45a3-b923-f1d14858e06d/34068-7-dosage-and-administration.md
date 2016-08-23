@@ -23,7 +23,7 @@ Adjust the dosage of HEPARIN SODIUM INJECTION according to the patient's coagula
 Dosage is considered adequate when the activated partial thromboplastin time (aPTT) is 1.5 to 2 times normal or when the whole blood clotting time is elevated approximately 2.5 to 3 times the control value.
 When initiating treatment with HEPARIN SODIUM INJECTION by continuous intravenous infusion, determine the coagulation status (aPTT, INR, platelet count) at baseline and continue to follow aPTT approximately every 4 hours and then at appropriate intervals thereafter.
 When the drug is administered intermittently by intravenous injection, perform coagulation tests before each injection during initiation of treatment and at appropriate intervals thereafter.
-After deep subcutaneous (SC) injections, tests for adequacy of dosage are best performed on samples drawn 4 to 6 hours after the injections.
+After deep subcutaneous injections, tests for adequacy of dosage are best performed on samples drawn 4 to 6 hours after the injections.
 
 Periodic platelet counts and hematocrits are recommended during the entire course of HEPARIN SODIUM INJECTION therapy, regardless of the route of administration.
 
@@ -77,9 +77,9 @@ Usually, 7,500 USP units of heparin sodium are added to 100 mL of 0.9% Sodium Ch
 To ensure continuous anticoagulation when converting from HEPARIN SODIUM INJECTION to warfarin, continue full heparin therapy for several days until the INR (prothrombin time) has reached a stable therapeutic range.
 Heparin therapy may then be discontinued without tapering [see Drug Interactions (7.3)].
 
-## 2.9 Converting to Dabigatran
+## 2.9 Converting to Oral Anticoagulants other than Warfarin
 
-For patients currently receiving intravenous heparin, stop intravenous infusion of heparin sodium immediately after administering the first dose of oral dabigatran (PRADAXA®); or for intermittent intravenous administration of heparin sodium, start oral dabigatran 0 to 2 hours before the time that the next dose of heparin was to have been administered.
+For patients currently receiving intravenous heparin, stop intravenous infusion of heparin sodium immediately after administering the first dose of oral anticoagulant; or for intermittent intravenous administration of heparin sodium, start oral anticoagulant 0 to 2 hours before the time that the next dose of heparin was to have been administered.
 
 ## 2.10 Extracorporeal Dialysis
 
