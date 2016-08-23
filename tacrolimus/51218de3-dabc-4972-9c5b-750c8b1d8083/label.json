@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA050777"
+  ],
+  "inn": "tacrolimus",
+  "labeler": "LEO Pharma Inc.",
+  "package_ndcs": [
+    "50222-203-10",
+    "50222-203-30",
+    "50222-203-60",
+    "50222-211-10",
+    "50222-211-30",
+    "50222-211-60"
+  ],
+  "products": [
+    {
+      "form": "OINTMENT",
+      "generic": "tacrolimus",
+      "name": "Protopic"
+    }
+  ],
+  "setid": "51218de3-dabc-4972-9c5b-750c8b1d8083",
+  "source": "dailymed"
+}
