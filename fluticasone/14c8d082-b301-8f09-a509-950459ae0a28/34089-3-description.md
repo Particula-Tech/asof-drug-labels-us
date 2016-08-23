@@ -1,9 +1,9 @@
 # DESCRIPTION
 
-Fluticasone Propionate Cream, USP 0.05% contains fluticasone propionate [(6α,11β,16α,17α)-6,9,-difluoro-11-hydroxy-16-methyl-3-oxo-17-(1-oxopropoxy)androsta-1,4-diene-17-carbothioic acid, S-fluoromethyl ester], a synthetic fluorinated cortico-steroid, for topical dermatologic use.
-The topical cortico-steroids constitute a class of primarily synthetic steroids used as anti-inflammatory and antipruritic agents.
+Fluticasone Propionate Cream, USP 0.05% contains fluticasone propionate [(6α,11β,16α,17α)-6,9,-difluoro-11-hydroxy-16-methyl-3-oxo-17-(1-oxopropoxy)androsta-1,4-diene-17-carbothioic acid, S-fluoromethyl ester], a synthetic fluorinated corticosteroid, for topical dermatologic use.
+The topical corticosteroids constitute a class of primarily synthetic steroids used as anti-inflammatory and antipruritic agents.
 
-Chemically, fluticasone propionate is C25H3F3O5S.
+Chemically, fluticasone propionate is C25H31F3O5S.
 It has the following structural formula:
 
 Fluticasone propionate has a molecular weight of 500.6.

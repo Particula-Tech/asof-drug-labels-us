@@ -17,7 +17,7 @@ Follow-up testing 12 days after treatment discontinuation, available for 1 of th
 Pediatric patients may be more susceptible to systemic toxicity from equivalent doses due to their larger skin surface to body mass ratios (see PRECAUTIONS: Pediatric Use).
 Fluticasone Propionate Cream, 0.05% may cause local cutaneous adverse reactions (see ADVERSE REACTIONS).
 If irritation develops, Fluticasone Propionate Cream should be discontinued and appropriate therapy instituted.
-Allergic contact dermatitis with corticosteroids is usually diagnosed by observing failure to healrather than noting a clinical exacerbation as with most topical products not containing corticosteroids.
+Allergic contact dermatitis with corticosteroids is usually diagnosed by observing failure to heal rather than noting a clinical exacerbation as with most topical products not containing corticosteroids.
 Such an observation should be corroborated with appropriate diagnostic patch testing.
 If concomitant skin infections are present or develop, an appropriate antifungal or antibacterial agent should be used.
 If a favorable response does not occur promptly, use of Fluticasone Propionate Cream should be discontinued until the infection has been adequately controlled.
@@ -49,7 +49,7 @@ These doses are approximately 15 and 30 times, respectively, the human systemic 
 
 Pregnancy: Teratogenic Effects: Pregnancy Category C.Corticosteroids have been shown to be teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
 Some corticosteroids have been shown to be teratogenic after dermal application in laboratory animals.
-Teratology studies in the mouse demonstrated fluticasone propionate to be teratogenic (cleft palate) when administered subcutaneously in doses of 45 mcg/kg per day and 150 mcg/kg per day.
+Teratology studies in the mouse demonstrated fluticasone propionate to be teratogenic (cleft palate) when administered subcutaneously in doses of 45 mcg/kg/day and 150 mcg/kg/day.
 This dose is approximately 14 and 45 times, respectively, the human topical dose of fluticasone propionate cream, 0.05%.
 There are no adequate and well-controlled studies in pregnant women.
 Fluticasone Propionate Cream should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
