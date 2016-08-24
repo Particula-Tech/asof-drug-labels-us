@@ -112,7 +112,7 @@ In standard preclinical in vivo lifetime carcinogenicity studies of LYRICA, an u
 The clinical significance of this finding is unknown.
 Clinical experience during LYRICA's premarketing development provides no direct means to assess its potential for inducing tumors in humans.
 
-In clinical studies across various patient populations, comprising 6396 patient-years of exposure in patients >12 years of age, new or worsening-preexisting tumors were reported in 57 patients.
+In clinical studies across various patient populations, comprising 6396 patient-years of exposure in patients greater than 12 years of age, new or worsening-preexisting tumors were reported in 57 patients.
 Without knowledge of the background incidence and recurrence in similar populations not treated with LYRICA, it is impossible to know whether the incidence seen in these cohorts is or is not affected by treatment.
 
 ## 5.10 Ophthalmological Effects
@@ -143,15 +143,15 @@ Discontinue treatment with LYRICA if myopathy is diagnosed or suspected or if ma
 
 LYRICA treatment was associated with a decrease in platelet count.
 LYRICA-treated subjects experienced a mean maximal decrease in platelet count of 20 × 103/µL, compared to 11 × 103/µL in placebo patients.
-In the overall database of controlled trials, 2% of placebo patients and 3% of LYRICA patients experienced a potentially clinically significant decrease in platelets, defined as 20% below baseline value and <150 × 103/µL.
+In the overall database of controlled trials, 2% of placebo patients and 3% of LYRICA patients experienced a potentially clinically significant decrease in platelets, defined as 20% below baseline value and less than 150 × 103/µL.
 A single LYRICA treated subject developed severe thrombocytopenia with a platelet count less than 20 × 103/ µL.
 In randomized controlled trials, LYRICA was not associated with an increase in bleeding-related adverse reactions.
 
 ## 5.13 PR Interval Prolongation
 
 LYRICA treatment was associated with PR interval prolongation.
-In analyses of clinical trial ECG data, the mean PR interval increase was 3–6 msec at LYRICA doses ≥300 mg/day.
-This mean change difference was not associated with an increased risk of PR increase ≥25% from baseline, an increased percentage of subjects with on-treatment PR >200 msec, or an increased risk of adverse reactions of second or third degree AV block.
+In analyses of clinical trial ECG data, the mean PR interval increase was 3–6 msec at LYRICA doses greater than or equal to 300 mg/day.
+This mean change difference was not associated with an increased risk of PR increase greater than or equal to 25% from baseline, an increased percentage of subjects with on-treatment PR greater than 200 msec, or an increased risk of adverse reactions of second or third degree AV block.
 
 Subgroup analyses did not identify an increased risk of PR prolongation in patients with baseline PR prolongation or in patients taking other PR prolonging medications.
 However, these analyses cannot be considered definitive because of the limited number of patients in these categories.

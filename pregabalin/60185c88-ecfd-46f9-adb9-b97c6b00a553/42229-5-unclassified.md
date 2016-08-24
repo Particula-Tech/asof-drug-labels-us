@@ -1,5 +1,4 @@
-LAB-0294-23.0
+This product's label may have been updated.
+For current full prescribing information, please visit www.pfizer.com
 
-LAB-0299-12.0
-
-12/2013
+LAB-0294-24.0

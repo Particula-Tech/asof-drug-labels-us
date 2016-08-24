@@ -2,9 +2,29 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C. Increased incidences of fetal structural abnormalities and other manifestations of developmental toxicity, including lethality, growth retardation, and nervous and reproductive system functional impairment, were observed in the offspring of rats and rabbits given pregabalin during pregnancy, at doses that produced plasma pregabalin exposures (AUC) ≥5 times human exposure at the maximum recommended dose (MRD) of 600 mg/day.
+Pregnancy Exposure Registry
 
-When pregnant rats were given pregabalin (500, 1250, or 2500 mg/kg) orally throughout the period of organogenesis, incidences of specific skull alterations attributed to abnormally advanced ossification (premature fusion of the jugal and nasal sutures) were increased at ≥1250 mg/kg, and incidences of skeletal variations and retarded ossification were increased at all doses.
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to LYRICA during pregnancy.
+To provide information regarding the effects of in utero exposure to LYRICA, physicians are advised to recommend that pregnant patients taking LYRICA enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
+This can be done by calling the toll free number 1-888-233-2334, and must be done by patients themselves.
+Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
+
+Risk Summary
+
+There are no adequate and well-controlled studies with LYRICA in pregnant women.
+
+However, in animal reproduction studies, increased incidences of fetal structural abnormalities and other manifestations of developmental toxicity, including skeletal malformations, retarded ossification, and decreased fetal body weight were observed in the offspring of rats and rabbits given pregabalin orally during organogenesis, at doses that produced plasma pregabalin exposures (AUC) greater than or equal to 16 times human exposure at the maximum recommended dose (MRD) of 600 mg/day [see Data].
+In an animal development study, lethality, growth retardation, and nervous and reproductive system functional impairment were observed in the offspring of rats given pregabalin during gestation and lactation.
+The no-effect dose for developmental toxicity was approximately twice the human exposure at MRD.
+The background risk of major birth defects and miscarriage for the indicated populations are unknown.
+However, the background risk in the U.S. general population of major birth defects is 2–4% and of miscarriage is 15–20% of clinically recognized pregnancies.
+Advise pregnant women of the potential risk to a fetus.
+
+Data
+
+Animal Data
+
+When pregnant rats were given pregabalin (500, 1250, or 2500 mg/kg) orally throughout the period of organogenesis, incidences of specific skull alterations attributed to abnormally advanced ossification (premature fusion of the jugal and nasal sutures) were increased at greater than or equal to 1250 mg/kg, and incidences of skeletal variations and retarded ossification were increased at all doses.
 Fetal body weights were decreased at the highest dose.
 The low dose in this study was associated with a plasma exposure (AUC) approximately 17 times human exposure at the MRD of 600 mg/day.
 A no-effect dose for rat embryo-fetal developmental toxicity was not established.
@@ -12,34 +32,61 @@ A no-effect dose for rat embryo-fetal developmental toxicity was not established
 When pregnant rabbits were given LYRICA (250, 500, or 1250 mg/kg) orally throughout the period of organogenesis, decreased fetal body weight and increased incidences of skeletal malformations, visceral variations, and retarded ossification were observed at the highest dose.
 The no-effect dose for developmental toxicity in rabbits (500 mg/kg) was associated with a plasma exposure approximately 16 times human exposure at the MRD.
 
-In a study in which female rats were dosed with LYRICA (50, 100, 250, 1250, or 2500 mg/kg) throughout gestation and lactation, offspring growth was reduced at ≥ 100 mg/kg and offspring survival was decreased at ≥250 mg/kg.
-The effect on offspring survival was pronounced at doses ≥1250 mg/kg, with 100% mortality in high-dose litters.
-When offspring were tested as adults, neurobehavioral abnormalities (decreased auditory startle responding) were observed at ≥250 mg/kg and reproductive impairment (decreased fertility and litter size) was seen at 1250 mg/kg.
+In a study in which female rats were dosed with LYRICA (50, 100, 250, 1250, or 2500 mg/kg) throughout gestation and lactation, offspring growth was reduced at greater than or equal to 100 mg/kg and offspring survival was decreased at greater than or equal to 250 mg/kg.
+The effect on offspring survival was pronounced at doses greater than or equal to 1250 mg/kg, with 100% mortality in high-dose litters.
+When offspring were tested as adults, neurobehavioral abnormalities (decreased auditory startle responding) were observed at greater than or equal to 250 mg/kg and reproductive impairment (decreased fertility and litter size) was seen at 1250 mg/kg.
 The no-effect dose for pre- and postnatal developmental toxicity in rats (50 mg/kg) produced a plasma exposure approximately 2 times human exposure at the MRD.
 
-There are no adequate and well-controlled studies in pregnant women.
-Use LYRICA during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+In the prenatal-postnatal study in rats, pregabalin prolonged gestation and induced dystocia at exposures greater than or equal to 50 times the mean human exposure (AUC (0–24) of 123 µg∙hr/mL) at theMRD.
 
-To provide information regarding the effects of in utero exposure to LYRICA, physicians are advised to recommend that pregnant patients taking LYRICA enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
-This can be done by calling the toll free number 1-888-233-2334, and must be done by patients themselves.
-Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
+## 8.2 Lactation
 
-## 8.2 Labor and Delivery
+Risk Summary
 
-The effects of LYRICA on labor and delivery in pregnant women are unknown.
-In the prenatal-postnatal study in rats, pregabalin prolonged gestation and induced dystocia at exposures ≥50 times the mean human exposure (AUC (0–24) of 123 µg∙hr/mL) at the maximum recommended clinical dose of 600 mg/day.
+Small amounts of pregabalin have been detected in the milk of lactating women.
+A pharmacokinetic study in lactating women detected pregabalin in breast milk at average steady state concentrations approximately 76% of those in maternal plasma.
+The estimated average daily infant dose of pregabalin from breast milk (assuming mean milk consumption of 150 mL/kg/day) was 0.31 mg/kg/day, which on a mg/kg basis would be approximately 7% of the maternal dose [see Data].
+The study did not evaluate the effects of LYRICA on milk production or the effects of LYRICA on the breastfed infant.
 
-## 8.3 Nursing Mothers
+Based on animal studies, there is a potential risk of tumorigenicity with pregabalin exposure via breast milk to the breastfed infant [see Nonclinical Toxicology (13.1)].
+Available clinical study data in patients greater than 12 years of age do not provide a clear conclusion about the potential risk of tumorigenicity with pregabalin [see Warnings and Precautions (5.9)].
+Because of the potential risk of tumorigenicity, breastfeeding is not recommended during treatment with LYRICA.
 
-It is not known if pregabalin is excreted in human milk; it is, however, present in the milk of rats.
-Because many drugs are excreted in human milk, and because of the potential for tumorigenicity shown for pregabalin in animal studies, decide whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Data
+
+A pharmacokinetic study in ten lactating women, who were at least 12 weeks postpartum, evaluated the concentrations of pregabalin in plasma and breast milk.
+LYRICA 150 mg oral capsule was given every 12 hours (300 mg daily dose) for a total of four doses.
+Pregabalin was detected in breast milk at average steady-state concentrations approximately 76% of those in maternal plasma.
+The estimated average daily infant dose of pregabalin from breast milk (assuming mean milk consumption of 150 mL/kg/day) was 0.31 mg/kg/day, which on a mg/kg basis would be approximately 7% of the maternal dose.
+The study did not evaluate the effects of LYRICA on milk production.
+Infants did not receive breast milk obtained during the dosing period, therefore, the effects of Lyrica on the breast fed infant were not evaluated.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Infertility
+
+Male
+
+Effects on Spermatogenesis
+
+In a randomized, double-blind, placebo-controlled non-inferiority study to assess the effect of pregabalin on sperm characteristics, healthy male subjects received pregabalin at a daily dose up to 600 mg (n=111) or placebo (n=109) for 13 weeks (one complete sperm cycle) followed by a 13-week washout period (off-drug).
+A total of 65 subjects in the pregabalin group (59%) and 62 subjects in the placebo group (57%) were included in the per protocol (PP) population.
+These subjects took study drug for at least 8 weeks, had appropriate timing of semen collections and did not have any significant protocol violations.
+Among these subjects, approximately 9% of the pregabalin group (6/65) vs. 3% in the placebo group (2/62) had greater than or equal to 50% reduction in mean sperm concentrations from baseline at Week 26 (the primary endpoint).
+The difference between pregabalin and placebo was within the pre-specified non-inferiority margin of 20%.
+There were no adverse effects of pregabalin on sperm morphology, sperm motility, serum FSH or serum testosterone levels as compared to placebo.
+In subjects in the PP population with greater than or equal to 50% reduction in sperm concentration from baseline, sperm concentrations were no longer reduced by greater than or equal to 50% in any affected subject after an additional 3 months off-drug.
+In one subject, however, subsequent semen analyses demonstrated reductions from baseline of greater than or equal to 50% at 9 and 12 months off-drug.
+The clinical relevance of these data is unknown.
+
+In the animal fertility study with pregabalin in male rats, adverse reproductive and developmental effects were observed [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
 The safety and efficacy of pregabalin in pediatric patients have not been established.
 
-In studies in which pregabalin (50 to 500 mg/kg) was orally administered to young rats from early in the postnatal period (Postnatal Day 7) through sexual maturity, neurobehavioral abnormalities (deficits in learning and memory, altered locomotor activity, decreased auditory startle responding and habituation) and reproductive impairment (delayed sexual maturation and decreased fertility in males and females) were observed at doses ≥50 mg/kg.
-The neurobehavioral changes of acoustic startle persisted at ≥250 mg/kg and locomotor activity and water maze performance at ≥500 mg/kg in animals tested after cessation of dosing and, thus, were considered to represent long-term effects.
+In studies in which pregabalin (50 to 500 mg/kg) was orally administered to young rats from early in the postnatal period (Postnatal Day 7) through sexual maturity, neurobehavioral abnormalities (deficits in learning and memory, altered locomotor activity, decreased auditory startle responding and habituation) and reproductive impairment (delayed sexual maturation and decreased fertility in males and females) were observed at doses greater than or equal to 50 mg/kg.
+The neurobehavioral changes of acoustic startle persisted at greater than or equal to 250 mg/kg and locomotor activity and water maze performance at greater than or equal to 500 mg/kg in animals tested after cessation of dosing and, thus, were considered to represent long-term effects.
 The low effect dose for developmental neurotoxicity and reproductive impairment in juvenile rats (50 mg/kg) was associated with a plasma pregabalin exposure (AUC) approximately equal to human exposure at the maximum recommended dose of 600 mg/day.
 A no-effect dose was not established.
 

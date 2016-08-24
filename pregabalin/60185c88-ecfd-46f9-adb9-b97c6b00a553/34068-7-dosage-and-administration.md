@@ -64,10 +64,10 @@ Base the dose adjustment in patients with renal impairment on creatinine clearan
 To use this dosing table, an estimate of the patient's CLcr in mL/min is needed.
 CLcr in mL/min may be estimated from serum creatinine (mg/dL) determination using the Cockcroft and Gault equation:
 
-Next, refer to the Dosage and Administration section to determine the recommended total daily dose based on indication, for a patient with normal renal function (CLcr ≥60 mL/min).
+Next, refer to the Dosage and Administration section to determine the recommended total daily dose based on indication, for a patient with normal renal function (CLcr greater than or equal to 60 mL/min).
 Then refer to Table 1 to determine the corresponding renal adjusted dose.
 
-(For example: A patient initiating LYRICA therapy for postherpetic neuralgia with normal renal function (CLcr ≥60 mL/min), receives a total daily dose of 150 mg/day pregabalin.
+(For example: A patient initiating LYRICA therapy for postherpetic neuralgia with normal renal function (CLcr greater than or equal to 60 mL/min), receives a total daily dose of 150 mg/day pregabalin.
 Therefore, a renal impaired patient with a CLcr of 50 mL/min would receive a total daily dose of 75 mg/day pregabalin administered in two or three divided doses.)
 
 For patients undergoing hemodialysis, adjust the pregabalin daily dose based on renal function.

@@ -1,6 +1,8 @@
-MEDICATION GUIDE
+# MEDICATION GUIDE
 
-LYRICA (LEER-i-kah) (pregabalin) Capsules and Oral Solution, CV
+LYRICA (LEER-i-kah) (pregabalin) Capsules, CV
+
+LYRICA (LEER-i-kah) (pregabalin) Oral Solution, CV
 
 Read this Medication Guide before you start taking LYRICA and each time you get a refill.
 There may be new information.
@@ -63,7 +65,7 @@ LYRICA is a prescription medicine used in adults, 18 years and older, to treat:
 
 LYRICA has not been studied in children under 18 years of age.
 
-Who Should Not Take LYRICA?
+Who should not take LYRICA?
 
 Do not take LYRICA if you are allergic to pregabalin or any of the ingredients in LYRICA.
 
@@ -87,15 +89,18 @@ Before taking LYRICA, tell your healthcare provider about all your medical condi
   It is not known if these problems can happen in people who take LYRICA.
 - are pregnant or plan to become pregnant.
   It is not known if LYRICA will harm your unborn baby.
-  You and your healthcare provider will have to decide if you should take LYRICA while you are pregnant.
-  If you become pregnant while taking LYRICA, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
-  You can enroll in this registry by calling 1-888-233-2334.
-  The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
-- are breastfeeding.
-  It is not known if LYRICA passes into breast milk and if it can harm your baby.
-  You and your healthcare provider should discuss whether you should take LYRICA or breast-feed, but you should not do both
+  You and your healthcare provider will decide if you should take LYRICA while you are pregnant.
+  - If you become pregnant while taking LYRICA, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
+    You can enroll in this registry by calling 1-888-233-2334.
+    The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
+    Information about the registry can also be found at the website, http://www.aedpregnancyregistry.org/.
+- are breastfeeding or plan to breastfeed.
+  LYRICA passes into your breast milk.
+  It is not known if Lyrica can harm your baby.
+  Talk to your healthcare provider about the best way to feed your baby if you take LYRICA.
+  Breastfeeding is not recommended while taking LYRICA.
 
-Tell your healthcare provider about all the medicines you take including prescription and non-prescription medicines, vitamins or herbal supplements.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins or herbal supplements.
 LYRICA and other medicines may affect each other causing side effects.
 Especially tell your healthcare provider if you take:
 
@@ -104,7 +109,7 @@ Especially tell your healthcare provider if you take:
   See "What is the most important information I should know about LYRICA?"
 - Avandia (rosiglitazone), Avandamet (contains rosiglitazone and metformin), or Actos (pioglitazone) for diabetes.
   You may have a higher chance of weight gain or swelling of your hands or feet if these medicines are taken with LYRICA.
-  See "What are the possible side effects of LYRICA."
+  See "What are the possible side effects of LYRICA?"
 - any narcotic pain medicine (such as oxycodone), tranquilizers or medicines for anxiety (such as lorazepam).
   You may have a higher chance for dizziness and sleepiness if these medicines are taken with LYRICA.
 - any medicines that make you sleepy
@@ -175,7 +180,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store LYRICA?
 
-- Store LYRICA capsules and oral solution at room temperature, 59°F to 86°F (15°C to 30°C) in its original package.
+- Store LYRICA capsules and oral solution at room temperature, 68°F to 77°F (20°C to 25°C) in its original package.
 - Safely throw away any LYRICA that is out of date or no longer needed.
 - Keep LYRICA and all medicines out of the reach of children.
 
@@ -192,7 +197,7 @@ You can ask your healthcare provider or pharmacist for information about LYRICA 
 
 You can also visit the LYRICA website at www.LYRICA.com or call 1-866-459-7422 (1-866-4LYRICA).
 
-What are the ingredients In LYRICA?
+What are the ingredients in LYRICA?
 
 Active ingredient: pregabalin
 
@@ -208,3 +213,7 @@ Imprinting ink: shellac, black iron oxide, propylene glycol, potassium hydroxide
 LYRICA oral solution: methylparaben, propylparaben, monobasic sodium phosphate anhydrous, dibasic sodium phosphate anhydrous, sucralose, artificial strawberry #11545 and purified water.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+LAB-0299-13.0
+
+March 2016

@@ -5,7 +5,7 @@
 The efficacy of the maximum recommended dose of LYRICA for the management of neuropathic pain associated with diabetic peripheral neuropathy was established in three double-blind, placebo-controlled, multicenter studies with three times a day dosing, two of which studied the maximum recommended dose.
 Patients were enrolled with either Type 1 or Type 2 diabetes mellitus and a diagnosis of painful distal symmetrical sensorimotor polyneuropathy for 1 to 5 years.
 A total of 89% of patients completed Studies DPN 1 and DPN 2.
-The patients had a minimum mean baseline pain score of ≥4 on an 11-point numerical pain rating scale ranging from 0 (no pain) to 10 (worst possible pain).
+The patients had a minimum mean baseline pain score of greater than or equal to 4 on an 11-point numerical pain rating scale ranging from 0 (no pain) to 10 (worst possible pain).
 The baseline mean pain scores across the two studies ranged from 6.1 to 6.7.
 Patients were permitted up to 4 grams of acetaminophen per day as needed for pain, in addition to pregabalin.
 Patients recorded their pain daily in a diary.
@@ -32,7 +32,7 @@ Figure 2: Patients Achieving Various Levels of Improvement in Pain Intensity– 
 ## 14.2 Postherpetic Neuralgia
 
 The efficacy of LYRICA for the management of postherpetic neuralgia was established in three double-blind, placebo-controlled, multicenter studies.
-These studies enrolled patients with neuralgia persisting for at least 3 months following healing of herpes zoster rash and a minimum baseline score of ≥4 on an 11-point numerical pain rating scale ranging from 0 (no pain) to 10 (worst possible pain).
+These studies enrolled patients with neuralgia persisting for at least 3 months following healing of herpes zoster rash and a minimum baseline score of greater than or equal to 4 on an 11-point numerical pain rating scale ranging from 0 (no pain) to 10 (worst possible pain).
 Seventy-three percent of patients completed the studies.
 The baseline mean pain scores across the 3 studies ranged from 6 to 7.
 Patients were permitted up to 4 grams of acetaminophen per day as needed for pain, in addition to pregabalin.
@@ -108,7 +108,7 @@ In the second study (E2), each daily dose was divided into three equal doses (th
 In the third study (E3), the same total daily dose was divided into two equal doses for one group (twice a day dosing) and three equal doses for another group (three times a day dosing).
 While the three times a day dosing group in Study E3 performed numerically better than the twice a day dosing group, this difference was small and not statistically significant.
 
-A secondary outcome measure included the responder rate (proportion of patients with ≥50% reduction from baseline in partial seizure frequency).
+A secondary outcome measure included the responder rate (proportion of patients with greater than or equal to 50% reduction from baseline in partial seizure frequency).
 The following figure displays responder rate by dose for two of the studies.
 
 Figure 6: Responder rate by add-on epilepsy study
@@ -172,7 +172,7 @@ Figure 9: Time to Loss of Therapeutic Response, Fibromyalgia Study F2 (Kaplan-Me
 The efficacy of LYRICA for the management of neuropathic pain associated with spinal cord injury was established in two double-blind, placebo-controlled, multicenter studies.
 Patients were enrolled with neuropathic pain associated with spinal cord injury that persisted continuously for at least three months or with relapses and remissions for at least six months.
 A total of 63% of patients completed study 1 and 84% completed study 2.
-The patients had a minimum mean baseline pain score of ≥4 on an 11-point numerical pain rating scale ranging from 0 (no pain) to 10 (worst possible pain).
+The patients had a minimum mean baseline pain score of greater than or equal to 4 on an 11-point numerical pain rating scale ranging from 0 (no pain) to 10 (worst possible pain).
 The baseline mean pain scores across the two studies ranged from 6.5 to 6.7.
 
 Patients were allowed to take opioids, non-opioid analgesics, antiepileptic drugs, muscle relaxants, and antidepressant drugs if the dose was stable for 30 days prior to screening.

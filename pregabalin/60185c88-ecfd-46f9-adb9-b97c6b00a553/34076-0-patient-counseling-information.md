@@ -57,21 +57,21 @@ Inform patients who require concomitant treatment with central nervous system de
 
 Tell patients to avoid consuming alcohol while taking LYRICA, as LYRICA may potentiate the impairment of motor skills and sedating effects of alcohol.
 
-## 17.12 Use in Pregnancy
+## 17.12 Pregnancy
 
-Instruct patients to notify their physician if they become pregnant or intend to become pregnant during therapy, and to notify their physician if they are breast feeding or intend to breast feed during therapy [see Use In Specific Populations (8.1) and (8.3)].
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to LYRICA during pregnancy [see Use in Specific Populations (8.1)].
 
-Encourage patients to enroll in the NAAED Pregnancy Registry if they become pregnant.
-This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
-To enroll, patients can call the toll free number 1-888-233-2334 [see Use In Specific Populations (8.1)].
+## 17.13 Lactation
 
-## 17.13 Male Fertility
+Advise nursing mothers that breastfeeding is not recommended during treatment with LYRICA [see Use in Specific Populations (8.2)].
+
+## 17.14 Male Fertility
 
 Inform men being treated with LYRICA who plan to father a child of the potential risk of male-mediated teratogenicity.
 In preclinical studies in rats, pregabalin was associated with an increased risk of male-mediated teratogenicity.
-The clinical significance of this finding is uncertain [see Nonclinical Toxicology (13.1)].
+The clinical significance of this finding is uncertain [see Nonclinical Toxicology (13.1) and Use in specific populations (8.3)].
 
-## 17.14 Dermatopathy
+## 17.15 Dermatopathy
 
 Instruct diabetic patients to pay particular attention to skin integrity while being treated with LYRICA.
 Some animals treated with pregabalin developed skin ulcerations, although no increased incidence of skin lesions associated with LYRICA was observed in clinical trials [see Nonclinical Toxicology (13.2)].
