@@ -52,7 +52,7 @@ Children and adolescent patients should have their blood pressure measured at th
 
 Leukopenia/Neutropenia
 
-Patients with a preexisting low WBC or a history of drug induced leukopenia/neutropenia should be advised that they should have their CBC monitored while taking quetiapine fumarate [see Warnings and Precautions (5.9)].
+Patients with a pre-existing low WBC or a history of drug induced leukopenia/neutropenia should be advised that they should have their CBC monitored while taking quetiapine fumarate [see Warnings and Precautions (5.9)].
 
 Interference with Cognitive and Motor Performance
 
@@ -91,4 +91,4 @@ TEVA PHARMACEUTICALS USA, INC.
 North Wales, PA 19454
 
 Rev.
-G 1/2016
+H 6/2016

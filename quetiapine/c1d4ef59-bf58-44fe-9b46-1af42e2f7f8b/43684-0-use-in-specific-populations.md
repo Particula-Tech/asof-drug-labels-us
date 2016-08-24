@@ -50,7 +50,7 @@ Based on a limited number (N=8) of mother/infant pairs, calculated infant daily 
 
 In general, the adverse reactions observed in children and adolescents during the clinical trials were similar to those in the adult population with few exceptions.
 Increases in systolic and diastolic blood pressure occurred in children and adolescents and did not occur in adults.
-Orthostatic hypotension occurred more frequently in adults (4 to 7%) compared to children and adolescents (<1%) [see Warnings and Precautions (5.7) and Adverse Reactions (6.1)].
+Orthostatic hypotension occurred more frequently in adults (4 to 7%) compared to children and adolescents (< 1%) [see Warnings and Precautions (5.7) and Adverse Reactions (6.1)].
 
 Schizophrenia
 

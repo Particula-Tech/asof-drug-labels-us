@@ -25,7 +25,7 @@ The following adverse reactions are discussed in more detail in other sections o
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
-Adults
+Adults:
 
 The information below is derived from a clinical trial database for quetiapine fumarate consisting of over 4300 patients.
 This database includes 698 patients exposed to quetiapine fumarate for the treatment of bipolar depression, 405 patients exposed to quetiapine fumarate for the treatment of acute bipolar mania (monotherapy and adjunct therapy), 646 patients exposed to quetiapine fumarate for the maintenance treatment of bipolar I disorder as adjunct therapy, and approximately 2600 patients and/or normal subjects exposed to 1 or more doses of quetiapine fumarate for the treatment of schizophrenia.
@@ -197,12 +197,12 @@ An elevated risk of acute dystonia is observed in males and younger age groups.
 
 Four methods were used to measure EPS: (1) Simpson-Angus total score (mean change from baseline) which evaluates Parkinsonism and akathisia, (2) Barnes Akathisia Rating Scale (BARS) Global Assessment Score, (3) incidence of spontaneous complaints of EPS (akathisia, akinesia, cogwheel rigidity, extrapyramidal syndrome, hypertonia, hypokinesia, neck rigidity, and tremor), and (4) use of anticholinergic medications to treat emergent EPS.
 
-Adults: Data from one 6 week clinical trial of schizophrenia comparing five fixed doses of quetiapine fumarate (75, 150, 300, 600, 750 mg/day) provided evidence for the lack of treatment-emergent extrapyramidal symptoms (EPS) and dose-relatedness for EPS associated with quetiapine fumarate treatment.
+Adults: Data from one 6-week clinical trial of schizophrenia comparing five fixed doses of quetiapine fumarate (75, 150, 300, 600, 750 mg/day) provided evidence for the lack of treatment-emergent extrapyramidal symptoms (EPS) and dose-relatedness for EPS associated with quetiapine fumarate treatment.
 Three methods were used to measure EPS: (1) Simpson-Angus total score (mean change from baseline) which evaluates Parkinsonism and akathisia, (2) incidence of spontaneous complaints of EPS (akathisia, akinesia, cogwheel rigidity, extrapyramidal syndrome, hypertonia, hypokinesia, neck rigidity, and tremor), and (3) use of anticholinergic medications to treat emergent EPS.
 
-In.0, dystonic event included nuchal rigidity, hypertonia, dystonia, muscle rigidity, oculogyration; parkinsonism included cogwheel rigidity, tremor, drooling, hypokinesia; akathisia included akathisia, psychomotor agitation; dyskinetic event included tardive dyskinesia, dyskinesia, choreoathetosis; and other extrapyramidal event included restlessness, extrapyramidal disorder, movement disorder.
+In Table 12, dystonic event included nuchal rigidity, hypertonia, dystonia, muscle rigidity, oculogyration; parkinsonism included cogwheel rigidity, tremor, drooling, hypokinesia; akathisia included akathisia, psychomotor agitation; dyskinetic event included tardive dyskinesia, dyskinesia, choreoathetosis; and other extrapyramidal event included restlessness, extrapyramidal disorder, movement disorder.
 
-Table 12: Adverse reactions associated with EPS in a short-term, placebo-controlled multiple fixed-dose phase III schizophrenia trial (6 weeks duration)
+Table 12: Adverse Reactions Associated with EPS in a Short-Term, Placebo-Controlled Multiple Fixed-Dose Phase III Schizophrenia Trial (6 weeks duration)
 
 | Preferred Term | QuetiapineFumarate75 mg/day(N=53) |  | QuetiapineFumarate150 mg/day(N=48) |  | QuetiapineFumarate300 mg/day(N=52) |  | QuetiapineFumarate600 mg/day(N=51) |  | QuetiapineFumarate750 mg/day(N=54) |  | Placebo(N=51) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -213,7 +213,7 @@ Table 12: Adverse reactions associated with EPS in a short-term, placebo-control
 | Dyskinetic event | 2 | 3.8 | 0 | 0.0 | 0 | 0.0 | 1 | 2.0 | 0 | 0.0 | 0 | 0.0 |
 | Other extrapyramidal event | 2 | 3.8 | 0 | 0.0 | 3 | 5.8 | 3 | 5.9 | 1 | 1.9 | 4 | 7.8 |
 
-Parkinsonism incidence rates as measured by the Simpson-Angus total score for placebo and the five fixed doses (75, 150, 300, 600, 750 mg/day) were: -0.6; -1, -1.2; -1.6; -1.8 and -1.8.
+Parkinsonism incidence rates as measured by the Simpson-Angus total score for placebo and the five fixed doses (75, 150, 300, 600, 750 mg/day) were: -0.6; -1.0, -1.2; -1.6; -1.8 and -1.8.
 The rate of anticholinergic medication use to treat emergent EPS for placebo and the five fixed doses was: 14%; 11%; 10%; 8%; 12% and 11%.
 
 In six additional placebo-controlled clinical trials (3 in acute mania and 3 in schizophrenia) using variable doses of quetiapine fumarate, there were no differences between the quetiapine fumarate and placebo treatment groups in the incidence of EPS, as assessed by Simpson-Angus total scores, spontaneous complaints of EPS and the use of concomitant anticholinergic medications to treat EPS.
@@ -321,14 +321,14 @@ Table 14: Adverse Reactions in a 3-Week Placebo-Controlled Clinical Trial for th
 
 Extrapyramidal Symptoms:
 
-In a short-term placebo-controlled monotherapy trial in adolescent patients with schizophrenia (6 week duration), the aggregated incidence of extrapyramidal symptoms was 12.9% (19/147) for quetiapine fumarate and 5.3% (4/75) for placebo, though the incidence of the individual adverse events (akathisia, tremor, extrapyramidal disorder, hypokinesia, restlessness, psychomotor hyperactivity, muscle rigidity, dyskinesia) did not exceed 4.1% in any treatment group.
-In a short-term placebo-controlled monotherapy trial in children and adolescent patients with bipolar mania (3 week duration), the aggregated incidence of extrapyramidal symptoms was 3.6% (7/193) for quetiapine fumarate and 1.1% (1/90) for placebo.
+In a short-term placebo-controlled monotherapy trial in adolescent patients with schizophrenia (6-week duration), the aggregated incidence of extrapyramidal symptoms was 12.9% (19/147) for quetiapine fumarate and 5.3% (4/75) for placebo, though the incidence of the individual adverse events (akathisia, tremor, extrapyramidal disorder, hypokinesia, restlessness, psychomotor hyperactivity, muscle rigidity, dyskinesia) did not exceed 4.1% in any treatment group.
+In a short-term placebo-controlled monotherapy trial in children and adolescent patients with bipolar mania (3-week duration), the aggregated incidence of extrapyramidal symptoms was 3.6% (7/193) or quetiapine fumarate and 1.1% (1/90) for placebo.
 
-Table 15 presents a listing of patients with adverse reactions potentially associated with extrapyramidal symptoms in the short-term placebo-controlled monotherapy trial in adolescent patients with schizophrenia (6 week duration).
+Table 15 presents a listing of patients with adverse reactions potentially associated with extrapyramidal symptoms in the short-term placebo-controlled monotherapy trial in adolescent patients with schizophrenia (6-week duration).
 
 In Tables 15 to 16 dystonic event included nuchal rigidity, hypertonia, and muscle rigidity; parkinsonism included cogwheel rigidity and tremor; akathisia included akathisia only; dyskinetic event included tardive dyskinesia, dyskinesia, and choreoathetosis; and other extrapyramidal event included restlessness and extrapyramidal disorder.
 
-Table 15: Adverse Reactions Associated with Extrapyramidal Symptoms in the Placebo-controlled Trial in Adolescent Patients with Schizophrenia (6-week Duration)
+Table 15: Adverse Reactions Associated with Extrapyramidal Symptoms in the Placebo-controlled Trial in Adolescent Patients with Schizophrenia (6-week duration)
 
 | Preferred Term | QuetiapineFumarate400 mg/day(N=73) |  | QuetiapineFumarate800 mg/day(N=74) |  | All QuetiapineFumarate(N=147) |  | Placebo(N=75) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -352,7 +352,7 @@ Table 16: Adverse Reactions Associated with Extrapyramidal Symptoms in a Placebo
 
 Other Adverse Reactions Observed During the Pre-Marketing Evaluation of Quetiapine Fumarate
 
-Following is a list of COSTART terms that reflect treatment-emergent adverse reactions as defined in the introduction to the ADVERSE REACTIONS section reported by patients treated with quetiapine fumarate at multiple doses ≥75 mg/day during any phase of a trial within the premarketing database of approximately 2200 patients treated for schizophrenia.
+Following is a list of COSTART terms that reflect treatment-emergent adverse reactions as defined in the introduction to the ADVERSE REACTIONS section reported by patients treated with quetiapine fumarate at multiple doses ≥ 75 mg/day during any phase of a trial within the premarketing database of approximately 2200 patients treated for schizophrenia.
 All reported reactions are included except those already listed in the tables or elsewhere in labeling, those reactions for which a drug cause was remote, and those reaction terms which were so general as to be uninformative.
 It is important to emphasize that, although the reactions reported occurred during treatment with quetiapine fumarate, they were not necessarily caused by it.
 
@@ -382,7 +382,7 @@ Hemic and Lymphatic System: Infrequent: leukocytosis, anemia, ecchymosis, eosino
 
 Endocrine System: Infrequent: hypothyroidism, diabetes mellitus; Rare: hyperthyroidism.
 
-* Adjusted for gender
+*Adjusted for gender
 
 Laboratory, ECG and vital sign changes observed in clinical studies
 
@@ -390,13 +390,13 @@ Laboratory Changes:
 
 Neutrophil Counts
 
-Adults: In placebo-controlled monotherapy clinical trials involving 3368 patients on quetiapine fumarate and 1515 on placebo, the incidence of at least one occurrence of neutrophil count <1 x 109/L among patients with a normal baseline neutrophil count and at least one available follow up laboratory measurement was 0.3% (10/2967) in patients treated with quetiapine fumarate, compared to 0.1% (2/1349) in patients treated with placebo [see Warnings and Precautions (5.9)].
+Adults: In placebo-controlled monotherapy clinical trials involving 3368 patients on quetiapine fumarate and 1515 on placebo, the incidence of at least one occurrence of neutrophil count <1.0 x 109/L among patients with a normal baseline neutrophil count and at least one available follow up laboratory measurement was 0.3% (10/2967) in patients treated with quetiapine fumarate, compared to 0.1% (2/1349) in patients treated with placebo [see Warnings and Precautions (5.9)].
 
 Transaminase Elevations
 
 Adults: Asymptomatic, transient and reversible elevations in serum transaminases (primarily ALT) have been reported.
-In schizophrenia trials in adults, the proportions of patients with transaminase elevations of >3 times the upper limits of the normal reference range in a pool of 3- to 6-week placebo-controlled trials were approximately 6% (29/483) for quetiapine fumarate compared to 1% (3/194) for placebo.
-In acute bipolar mania trials in adults, the proportions of patients with transaminase elevations of >3 times the upper limits of the normal reference range in a pool of 3- to 12-week placebo-controlled trials were approximately 1% for both quetiapine fumarate (3/560) and placebo (3/294).
+In schizophrenia trials in adults, the proportions of patients with transaminase elevations of > 3 times the upper limits of the normal reference range in a pool of 3- to 6-week placebo-controlled trials were approximately 6% (29/483) for quetiapine fumarate compared to 1% (3/194) for placebo.
+In acute bipolar mania trials in adults, the proportions of patients with transaminase elevations of > 3 times the upper limits of the normal reference range in a pool of 3- to 12-week placebo-controlled trials were approximately 1% for both quetiapine fumarate (3/560) and placebo (3/294).
 These hepatic enzyme elevations usually occurred within the first 3 weeks of drug treatment and promptly returned to pre-study levels with ongoing treatment with quetiapine fumarate.
 In bipolar depression trials, the proportions of patients with transaminase elevations of >3 times the upper limits of the normal reference range in two 8-week placebo-controlled trials was 1% (5/698) for quetiapine fumarate and 2% (6/347) for placebo.
 
@@ -413,7 +413,7 @@ Caution should be exercised in the interpretation of positive urine drug screen 
 ECG Changes
 
 Adults: Between-group comparisons for pooled placebo-controlled trials revealed no statistically significant quetiapine fumarate/placebo differences in the proportions of patients experiencing potentially important changes in ECG parameters, including QT, QTc, and PR intervals.
-However, the proportions of patients meeting the criteria for tachycardia were compared in four 3- to 6- week placebo-controlled clinical trials for the treatment of schizophrenia revealing a 1% (4/399) incidence for quetiapine fumarate compared to 0.6% (1/156) incidence for placebo.
+However, the proportions of patients meeting the criteria for tachycardia were compared in four 3- to 6-week placebo-controlled clinical trials for the treatment of schizophrenia revealing a 1% (4/399) incidence for quetiapine fumarate compared to 0.6% (1/156) incidence for placebo.
 In acute (monotherapy) bipolar mania trials the proportions of patients meeting the criteria for tachycardia was 0.5% (1/192) for quetiapine fumarate compared to 0% (0/178) incidence for placebo.
 In acute bipolar mania (adjunct) trials the proportions of patients meeting the same criteria was 0.6% (1/166) for quetiapine fumarate compared to 0% (0/171) incidence for placebo.
 In bipolar depression trials, no patients had heart rate increases to >120 beats per minute.
@@ -423,10 +423,10 @@ This slight tendency to tachycardia in adults may be related to quetiapine fumar
 Children and Adolescents: In the acute (6 week) schizophrenia trial in adolescents, increases in heart rate (>110 bpm) occurred in 5.2% (3/73) of patients receiving quetiapine fumarate 400 mg and 8.5% (5/74) of patients receiving quetiapine fumarate 800 mg compared to 0% (0/75) of patients receiving placebo.
 Mean increases in heart rate were 3.8 bpm and 11.2 bpm for quetiapine fumarate 400 mg and 800 mg groups, respectively, compared to a decrease of 3.3 bpm in the placebo group [see Warnings and Precautions (5.7)].
 
-In the acute (3 week) bipolar mania trial in children and adolescents, increases in heart rate (>110 bpm) occurred in 1.1% (1/89) of patients receiving quetiapine fumarate 400 mg and 4.7% (4/85) of patients receiving quetiapine fumarate 600 mg compared to 0% (0/98) of patients receiving placebo.
+In the acute (3 week) bipolar mania trial in children and adolescents, increases in heart rate (> 110 bpm) occurred in 1.1% (1/89) of patients receiving quetiapine fumarate 400 mg and 4.7% (4/85) of patients receiving quetiapine fumarate 600 mg compared to 0% (0/98) of patients receiving placebo.
 Mean increases in heart rate were 12.8 bpm and 13.4 bpm for quetiapine fumarate 400 mg and 600 mg groups, respectively, compared to a decrease of 1.7 bpm in the placebo group [see Warnings and Precautions (5.7)].
 
-In an acute (8-week) quetiapine fumarate extended-release trial in children and adolescents (10 to 17 years of age) with bipolar depression, in which efficacy was not established, increases in heart rate (>110 bpm 10 to 12 years and 13 to 17 years) occurred in 0% of patients receiving quetiapine fumarate extended-release and 1.2% of patients receiving placebo.
+In an acute (8-week) quetiapine fumarate extended-release trial in children and adolescents (10 to 17 years of age) with bipolar depression, in which efficacy was not established, increases in heart rate (> 110 bpm 10 to 12 years and 13 to 17 years) occurred in 0% of patients receiving quetiapine fumarate extended-release and 1.2% of patients receiving placebo.
 Mean increases in heart rate were 3.4 bpm for quetiapine fumarate extended-release, compared to 0.3 bpm in the placebo group [see Warnings and Precautions (5.7)].
 
 ## 6.2 Post Marketing Experience
@@ -434,4 +434,4 @@ Mean increases in heart rate were 3.4 bpm for quetiapine fumarate extended-relea
 The following adverse reactions were identified during post approval of quetiapine fumarate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Adverse reactions reported since market introduction which were temporally related to quetiapine therapy include anaphylactic reaction, cardiomyopathy, hyponatremia, myocarditis, nocturnal enuresis, pancreatitis, retrograde amnesia, rhabdomyolysis, syndrome of inappropriate antidiuretic hormone secretion (SIADH), Stevens-Johnson syndrome (SJS), and toxic epidermal necrolysis (TEN).
+Adverse reactions reported since market introduction which were temporally related to quetiapine therapy include anaphylactic reaction, cardiomyopathy, drug reaction with eosinophilia and systemic (DRESS), hyponatremia, myocarditis, nocturnal enuresis, pancreatitis, retrograde amnesia, rhabdomyolysis, syndrome of inappropriate antidiuretic hormone secretion (SIADH), Stevens-Johnson syndrome (SJS), and toxic epidermal necrolysis (TEN).

@@ -15,7 +15,7 @@ Changes in TSH, thyroxine, and thyroxine clearance consistent with this mechanis
 The relevance of the increases in thyroid follicular cell adenomas to human risk, through whatever mechanism, is unknown.
 
 Antipsychotic drugs have been shown to chronically elevate prolactin levels in rodents.
-Serum measurements in a 1 year toxicity study showed that quetiapine increased median serum prolactin levels a maximum of 32 and 13 fold in male and female rats, respectively.
+Serum measurements in a 1-year toxicity study showed that quetiapine increased median serum prolactin levels a maximum of 32- and 13-fold in male and female rats, respectively.
 Increases in mammary neoplasms have been found in rodents after chronic administration of other antipsychotic drugs and are considered to be prolactin-mediated.
 The relevance of this increased incidence of prolactin-mediated mammary gland tumors in rats to human risk is unknown [see Warnings and Precautions (5.14)].
 
@@ -38,7 +38,7 @@ The no-effect dose in female rats was 1 mg/kg, or 0.01 times the MRHD of 800 mg/
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
-Quetiapine caused a dose-related increase in pigment deposition in thyroid gland in rat toxicity studies which were 4 weeks in duration or longer and in a mouse 2 year carcinogenicity study.
+Quetiapine caused a dose-related increase in pigment deposition in thyroid gland in rat toxicity studies which were 4 weeks in duration or longer and in a mouse 2-year carcinogenicity study.
 Doses were 10 to 250 mg/kg in rats and 75 to 750 mg/kg in mice; these doses are 0.1 to 3, and 0.1 to 4.5 times the maximum recommended human dose (MRHD) of 800 mg/day on mg/m2 body surface area, respectively.
 Pigment deposition was shown to be irreversible in rats.
 The identity of the pigment could not be determined, but was found to be co-localized with quetiapine in thyroid gland follicular epithelial cells.
@@ -49,4 +49,4 @@ This finding may be due to inhibition of cholesterol biosynthesis by quetiapine.
 Quetiapine caused a dose-related reduction in plasma cholesterol levels in repeat-dose dog and monkey studies; however, there was no correlation between plasma cholesterol and the presence of cataracts in individual dogs.
 The appearance of delta-8-cholestanol in plasma is consistent with inhibition of a late stage in cholesterol biosynthesis in these species.
 There also was a 25% reduction in cholesterol content of the outer cortex of the lens observed in a special study in quetiapine treated female dogs.
-Drug-related cataracts have not been seen in any other species; however, in a 1 year study in monkeys, a striated appearance of the anterior lens surface was detected in 2/7 females at a dose of 225 mg/kg or 5.5 times the MRHD of 800 mg/day on mg/m2 body surface area.
+Drug-related cataracts have not been seen in any other species; however, in a 1-year study in monkeys, a striated appearance of the anterior lens surface was detected in 2/7 females at a dose of 225 mg/kg or 5.5 times the MRHD of 800 mg/day on mg/m2 body surface area.

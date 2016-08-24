@@ -112,7 +112,7 @@ Table 3: Fasting Glucose - Proportion of Patients Shifting to ≥126 mg/dL in Sh
 | Borderline to High | Quetiapine | 572 | 67 (11.7%) |  |
 | (≥100 mg/dL and <126 mg/dL to ≥126 mg/dL) | Placebo | 279 | 33 (11.8%) |  |
 
-In a 24-week trial (active-controlled, 115 patients treated with quetiapine fumarate) designed to evaluate glycemic status with oral glucose tolerance testing of all patients, at week 24 the incidence of a treatment-emergent post-glucose challenge glucose level ≥200 mg/dL was 1.7% and the incidence of a fasting treatment-emergent blood glucose level ≥126 mg/dL was 2.6%.
+In a 24-week trial (active-controlled, 115 patients treated with quetiapine fumarate) designed to evaluate glycemic status with oral glucose tolerance testing of all patients, at week 24 the incidence of a treatment-emergent post-glucose challenge glucose level ≥200 mg/dL was 1.7% and the incidence of a fasting treatment-emergent blood glucose level ≥ 126 mg/dL was 2.6%.
 The mean change in fasting glucose from baseline was 3.2 mg/dL and mean change in 2 hour glucose from baseline was -1.8 mg/dL for quetiapine.
 
 In 2 long-term placebo-controlled randomized withdrawal clinical trials for bipolar I disorder maintenance, mean exposure of 213 days for quetiapine fumarate (646 patients) and 152 days for placebo (680 patients), the mean change in glucose from baseline was +5.0 mg/dL for quetiapine fumarate and -0.05 mg/dL for placebo.
@@ -266,15 +266,15 @@ In placebo-controlled trials in children and adolescents with schizophrenia (6-w
 In the 26-week open-label clinical trial, one child with a reported history of hypertension experienced a hypertensive crisis.
 Blood pressure in children and adolescents should be measured at the beginning of, and periodically during treatment.
 
-In a placebo-controlled quetiapine fumarate extended-release clinical trial (8 weeks duration) in children and adolescents (10 to 17 years of age) with bipolar depression, in which efficacy was not established, the incidence of increases at any time in systolic blood pressure (≥20 mmHg) was 6.5% (6/92) for quetiapine fumarate extended-release and 6% (6/100) for placebo; the incidence of increases at any time in diastolic blood pressure (≥10 mmHg) was 46.7% (43/92) for quetiapine fumarate extended-release and 36% (36/100) for placebo.
+In a placebo-controlled quetiapine fumarate extended-release clinical trial (8 weeks duration) in children and adolescents (10 to 17 years of age) with bipolar depression, in which efficacy was not established, the incidence of increases at any time in systolic blood pressure (≥20 mmHg) was 6.5% (6/92) for quetiapine fumarate extended-release and 6.0% (6/100) for placebo; the incidence of increases at any time in diastolic blood pressure (≥10 mmHg) was 46.7% (43/92) for quetiapine fumarate extended-release and 36.0% (36/100) for placebo.
 
 ## 5.9 Leukopenia, Neutropenia and Agranulocytosis
 
 In clinical trial and postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to atypical antipsychotic agents, including quetiapine fumarate.
 Agranulocytosis (including fatal cases) has also been reported.
 
-Possible risk factors for leukopenia/neutropenia include preexisting low white cell count (WBC) and history of drug induced leukopenia/neutropenia.
-Patients with a preexisting low WBC or a history of drug induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and should discontinue quetiapine fumarate at the first sign of a decline in WBC in absence of other causative factors.
+Possible risk factors for leukopenia/neutropenia include pre-existing low white cell count (WBC) and history of drug induced leukopenia/neutropenia.
+Patients with a pre-existing low WBC or a history of drug induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and should discontinue quetiapine fumarate at the first sign of a decline in WBC in absence of other causative factors.
 
 Patients with neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
 Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue quetiapine fumarate and have their WBC followed until recovery.
@@ -284,13 +284,13 @@ Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should di
 The development of cataracts was observed in association with quetiapine treatment in chronic dog studies [see Nonclinical Toxicology (13.2)].
 Lens changes have also been observed in adults, children and adolescents during long-term quetiapine fumarate treatment, but a causal relationship to quetiapine fumarate use has not been established.
 Nevertheless, the possibility of lenticular changes cannot be excluded at this time.
-Therefore, examination of the lens by methods adequate to detect cataract formation, such as slit lamp exam or other appropriately sensitive methods, is recommended at initiation of treatment or shortly thereafter, and at 6 month intervals during chronic treatment.
+Therefore, examination of the lens by methods adequate to detect cataract formation, such as slit lamp exam or other appropriately sensitive methods, is recommended at initiation of treatment or shortly thereafter, and at 6-month intervals during chronic treatment.
 
 ## 5.11 QT Prolongation
 
 In clinical trials quetiapine was not associated with a persistent increase in QT intervals.
 However, the QT effect was not systematically evaluated in a thorough QT study.
-In postmarketing experience, there were cases reported of QT prolongation in patients who overdosed on quetiapine [see Overdosage (10.1)], in patients with concomitant illness, and in patients taking medicines known to cause electrolyte imbalance or increase QT interval [see Drug Interactions (7.1)].
+In post marketing experience, there were cases reported of QT prolongation in patients who overdosed on quetiapine [see Overdosage (10.1)], in patients with concomitant illness, and in patients taking medicines known to cause electrolyte imbalance or increase QT interval [see Drug Interactions (7.1)].
 
 The use of quetiapine should be avoided in combination with other drugs that are known to prolong QTc including Class 1A antiarrythmics (e.g., quinidine, procainamide) or Class III antiarrythmics (e.g., amiodarone, sotalol), antipsychotic medications (e.g., ziprasidone, chlorpromazine, thioridazine), antibiotics (e.g., gatifloxacin, moxifloxacin), or any other class of medications known to prolong the QTc interval (e.g., pentamidine, levomethadyl acetate, methadone).
 
@@ -319,20 +319,20 @@ Of the quetiapine fumarate treated patients with elevated TSH levels, 3 had simu
 About 0.7% (26/3489) of quetiapine fumarate patients did experience TSH increases in monotherapy studies.
 Some patients with TSH increases needed replacement thyroid treatment.
 
-In all quetiapine trials, the incidence of significant shifts in thyroid hormones and TSH were1: decrease in free T4 (free T4 <0.8 LLN), 2% (357/17513); decrease in total T4, 4.0% (75/1861); decrease in free T3, 0.4% (53/13766); decrease in total T3, 2% (26/1312), and increase in TSH, 4.9% (956/19412).
+In all quetiapine trials, the incidence of significant shifts in thyroid hormones and TSH were1: decrease in free T4 (free T4 <0.8 LLN), 2.0% (357/17513); decrease in total T4, 4.0% (75/1861); decrease in free T3, 0.4% (53/13766); decrease in total T3, 2.0% (26/1312), and increase in TSH, 4.9% (956/19412).
 In eight patients, where TBG was measured, levels of TBG were unchanged.
 
 Table 8 shows the incidence of these shifts in short-term placebo-controlled clinical trials.
 
-Table 8: Incidence of shifts in thyroid hormone levels and tsh in short-term placebo-controlled clinical trialsBased on shifts from normal baseline to potentially clinically important value at anytime post-baseline.
-Shifts in total T4, free T4, total T3 and free T3 are defined as <0.8 x LLN (pmol/L) and shift in TSH is >5 mIU/L at any time.,Includes quetiapine fumarate and quetiapine fumarate extended-release data.
+Table 8: Incidence of shifts in thyroid hormone levels and TSH in short-term placebo-controlled clinical trialsBased on shifts from normal baseline to potentially clinically important value at anytime post-baseline.
+Shifts in total T4, free T4, total T3 and free T3 are defined as <0.8 x LLN (pmol/L) and shift in TSH is >5 mIU/L at any time.Includes quetiapine fumarate and quetiapine fumarate extended-release data.
 
 | Total T4 |  | Free T4 |  | Total T3 |  | Free T3 |  | TSH |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Quetiapine | Placebo | Quetiapine | Placebo | Quetiapine | Placebo | Quetiapine | Placebo | Quetiapine | Placebo |
-| 3.4%(37/1097) | 0.6%(4/651) | 0.7%(52/7218) | 0.1%(4/3668) | 0.5%(2/369) | 0%(0/113) | 0.2%(11/5673) | 0.0%(1/2679) | 3.2%(240/7587) | 2.7%(105/3912) |
+| 3.4%(37/1097) | 0.6%(4/651) | 0.7%(52/7218) | 0.1%(4/3668) | 0.5%(2/369) | 0.0%(0/113) | 0.2%(11/5673) | 0.0%(1/2679) | 3.2%(240/7587) | 2.7%(105/3912) |
 
-In short-term placebo-controlled monotherapy trials, the incidence of reciprocal, shifts in T3 and TSH was 0% for both quetiapine (1/4800) and placebo (0/2190) and for T4 and TSH the shifts were 0.1% (7/6154) for quetiapine versus 0% (1/3007) for placebo.
+In short-term placebo-controlled monotherapy trials, the incidence of reciprocal, shifts in T3 and TSH was 0.0% for both quetiapine (1/4800) and placebo (0/2190) and for T4 and TSH the shifts were 0.1% (7/6154) for quetiapine versus 0.0% (1/3007) for placebo.
 
 Children and Adolescents:
 
