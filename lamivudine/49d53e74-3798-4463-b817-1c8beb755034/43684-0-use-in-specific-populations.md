@@ -7,11 +7,11 @@ Physicians are encouraged to register patients by calling the Antiretroviral Pre
 Risk Summary Available data from the Antiretroviral Pregnancy Registry show no difference in the risk of overall major birth defects for lamivudine compared with the background rate for major birth defects of 2.7% in the US reference population of the Metropolitan Atlanta Congenital Defects program (MACDP).
 Lamivudine produced embryonic toxicity in rabbits at a dose that produced similar human exposures as the recommended clinical dose.
 The relevance of animal findings to human pregnancy registry data is not known.
-Data Human Data: Based on prospective reports from the Antiretroviral Pregnancy Registry of over 11,000 exposures to lamivudine drugs during pregnancy resulting in live births (including over 4,300 exposed in first trimester), there was no difference between lamivudine and overall birth defects compared with the background birth defect rate of 2.7% in the US reference population of MACDP.
+Data Human Data: Based on prospective reports from the Antiretroviral Pregnancy Registry of over 11,000 exposures to lamivudine during pregnancy resulting in live births (including over 4,300 exposed in first trimester), there was no difference between lamivudine and overall birth defects compared with the background birth defect rate of 2.7% in the US reference population of MACDP.
 The prevalence of defects in the first trimester was 3.1% (95% CI: 2.6% to 3.7%).
 Lamivudine pharmacokinetics were studied in pregnant women during 2 clinical trials conducted in south Africa.
 The trials assessed pharmacokinetics in 16 women at 36 weeks gestation using 150 mg lamivudine twice daily with zidovudine, 10 women at 38 weeks gestation using 150 mg lamivudine twice daily with zidovudine, and 10 women at 38 weeks gestation using lamivudine 300 mg twice daily without other antiretrovirals.
-These trials were not designed or powdered to provide efficacy information.
+These trials were not designed or powered to provide efficacy information.
 Lamivudine pharmacokinetics in pregnant women were similar to those seen in non-pregnant adults and in postpartum women.
 Lamivudine concentrations were generally similar in maternal, neonatal, and umbilical cord serum samples.
 In a subset of subjects, amniotic fluid specimens were collected following natural rupture of membranes and confirmed that lamivudine crosses the placenta in humans.
@@ -28,7 +28,8 @@ Because of the potential for HIV-1 transmission mothers should be instructed not
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of lamivudine in combination with other antiretroviral agents have been established in pediatric patients aged 3 months and older [see Dosage and Administration (2.2), Adverse Reactions (6.2), Clinical Pharmacology (12.3), Clinical Studies (14.2)].
+The safety and effectiveness of lamivudine in combination with other antiretroviral agents have been established in pediatric patients aged 3 months and older.
+Lamivudine scored tablet is the preferred formulation for HIV-1-infected pediatric patients who weigh at least 14 kg and for whom a solid dosage form is appropriate because pediatric subjects who received lamivudine oral solution had lower rates of virologic suppression, lower plasma lamivudine exposure, and developed viral resistance more frequently than those receiving lamivudine tablets in the ARROW trial [see Dosage and Administration (2.2), Warnings and Precautions (5.6),Adverse Reactions (6.1),Clinical Pharmacology (12.3),Clinical Studies (14.2)].
 
 ## 8.5 Geriatric Use
 

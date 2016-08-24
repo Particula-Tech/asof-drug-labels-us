@@ -4,7 +4,9 @@ PATIENT INFORMATION LAMIVUDINE (lah-MEH-vyoo-deen) TabletsWhat is the most impor
 Lamivudine tablets can cause serious side effects, including: Build-up of an acid in your blood (lactic acidosis).
 Lactic acidosis can happen in some people who take lamivudine tablets.
 Lactic acidosis is a serious medical emergency that can cause death.
-Call your healthcare provider right away if you get any of the following symptoms that could be signs of lactic acidosis: • feel very weak or tired • feel cold, especially in your arms and legs • unusual (not normal) muscle pain • feel dizzy or light-headed • trouble breathing • have a fast or irregular heartbeat • stomach pain with nausea and vomiting •Severe liver problems can happen in people who take lamivudine tablets.
+Call your healthcare provider right away if you get any of the following symptoms that could be signs of lactic acidosis:
+
+• feel very weak or tired • feel cold, especially in your arms and legs • unusual (not normal) muscle pain • feel dizzy or light-headed • trouble breathing • have a fast or irregular heartbeat • stomach pain with nausea and vomiting •Severe liver problems can happen in people who take lamivudine tablets.
 In some cases these serious liver problems can lead to death.
 Your liver may become large (hepatomegaly) and you may develop fat in your liver (steatosis).
 Call your healthcare provider right away if you get any of the following signs or symptoms of liver problems: • your skin or the white part of your eyes • loss of appetite for several days or longer turns yellow (jaundice) • nausea • dark or "tea-colored” urine • pain, aching, or tenderness on the right • light-colored stools (bowel side of your stomach area movements) You may be more likely to get lactic acidosis or serious liver problems if you are female, very overweight (obese), or have been taking nucleoside analog medicines for a long time. • Worsening of hepatitis B virus in people who have HIV-1 infection.
@@ -21,15 +23,6 @@ HIV-1 is the virus that causes Acquired Immune Deficiency Syndrome (AIDS).
 Lamivudine tablets (used to treat HIV-1 infection) contain a higher dose of the same active ingredient (lamivudine) than is in the medicine EPIVIR-HBV tablets (used to treat HBV).
 If you have both HIV-1 and HBV, you should not use EPIVIR-HBV to treat your infections.
 The safety and effectiveness of lamivudine tablets have not been established in children under 3 months of age.
-When used with other antiretroviral medicines to treat HIV-1 infection, lamivudine tablets may help: • reduce the amount of HIV-1 in your blood.
-This is called "viral load”. • increase the number of CD4+ (T) cells in your blood, which help fight off other infections.
-Reducing the amount of HIV-1 and increasing the CD4+ (T) cells in your blood may help improve your immune system.
-This may reduce your risk of death or getting infections that can happen when your immune system is weak (opportunistic infections).
-Lamivudine tablets do not cure HIV-1 infection or AIDS.
-You must keep taking HIV-1 medicines to control HIV-1 infection and decrease HIV-related illnesses.
-Avoid doing things that can spread HIV-1 infection to others: • Do not share or re-use needles or other injection equipment. • Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades. • Do not have any kind of sex without protection.
-Always practice safer sex by using a latex or polyurethane condom to lower the chance of sexual contact with any body fluids such as semen, vaginal secretions, or blood.
-Ask your healthcare provider if you have any questions about how to prevent passing HIV to other people.
 Who should not take lamivudine tablets?
 Do not take lamivudine tablets if you are allergic to lamivudine or any of the ingredients in lamivudine tablets.
 See the end of this Patient Information Leaflet for a complete list of ingredients in lamivudine tablets.
@@ -37,6 +30,7 @@ What should I tell my healthcare provider before taking lamivudine tablets?
 Before you take lamivudine tablets, tell your healthcare provider if you: • have or have had liver problems, including hepatitis B or C virus infection. • have kidney problems. • have diabetes. • are pregnant or plan to become pregnant.
 Taking lamivudine tablets during pregnancy has not been associated with an increased risk of birth defects.
 Talk to your healthcare provider if you are pregnant or plan to become pregnant.
+
 Pregnancy Registry.
 There is a pregnancy registry for women who take antiretroviral medicines during pregnancy.
 The purpose of this registry is to collect information about the health of you and your baby.
@@ -46,12 +40,12 @@ Tell your healthcare provider about all the medicines you take, including prescr
 Some medications interact with lamivudine tablets.
 Keep a list of your medicines to show your healthcare provider and pharmacist.
 You can ask your healthcare provider or pharmacist for a list of medicines that interact with lamivudine.
+
 Do not start taking a new medicine without telling your healthcare provider.
 Your healthcare provider can tell you if it is safe to take lamivudine with other medicines.
-You should not take lamivudine tablets if you also take: • lamivudine (COMBIVIR®, DUTREBIS™, EPIVIR-HBV®, EPZICOM®, TRIUMEQ®, or TRIZIVIR®) • emtricitabine (EMTRIVA®, ATRIPLA®, COMPLERA®, STRIBILD®, TRUVADA®) Tell your health care provider if you take: • any other medicine to treat HIV-1 • medicines to treat hepatitis viruses such as interferon or ribavirin How should I take lamivudine tablets? • Take lamivudine tablets exactly as your healthcare provider tells you. • Do not change your dose or stop taking lamivudine tablets without talking with your healthcare provider.
-If you miss a dose of lamivudine tablets, take it as soon as you remember.
-Do not take 2 doses at the same time.
-If you are not sure about your dosing, call your healthcare provider. • Stay under the care of a healthcare provider while taking lamivudine tablets. • Lamivudine tablets may be taken with or without food. • For children 3 months and older, your healthcare provider will prescribe a dose of lamivudine tablets based on your child’s body weight. • Tell your healthcare provider if you or your child has trouble swallowing tablets.
+
+How should I take lamivudine tablets? • Take lamivudine tablets exactly as your healthcare provider tells you to take it. • If you miss a dose of lamivudine tablets, take it as soon as you remember.
+Do not take 2 doses at the same time or take more than what your healthcare provider tells you to take. • Stay under the care of a healthcare provider during treatment with lamivudine tablets. • Lamivudine tablets may be taken with or without foo. • For children 3 months and older, your healthcare provider will prescribe a dose of lamivudine tablets based on your child’s body weight. • Tell your healthcare provider if you or your child has trouble swallowing tablets.
 Lamivudine also comes as a liquid (oral solution). • Do not run out of lamivudine.
 The virus in your blood may increase and the virus may become harder to treat.
 When your supply starts to run low, get more from your healthcare provider or pharmacy. • If you take too much lamivudine tablets, call your healthcare provider or go to the nearest hospital emergency room right away.
@@ -67,8 +61,7 @@ The exact cause and long-term health effects of these conditions are not known.
 The most common side effects of lamivudine tablets in adults include: • headache • nasal signs and symptoms • nausea • diarrhea • generally not feeling well • cough • tiredness The most common side effects of lamivudine tablets in children include fever and cough.
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 These are not all the possible side effects of lamivudine tablets.
-For more information, ask your healthcare provider or pharmacist.
-Call your doctor for medical advice about side effects.
+Call your healthcare provider for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 How should I store lamivudine tablets? • Store lamivudine tablets at room temperature between 68° F to 77°F (20° to 25°C) [see USP Controlled Room Temperature].
 Keep lamivudine tablets and all medicines out of the reach of children.
@@ -77,18 +70,15 @@ Medicines are sometimes prescribed for purposes other than those listed in a Pat
 Do not use lamivudine tablets for a condition for which it was not prescribed.
 Do not give lamivudine tablets to other people, even if they have the same symptoms that you have.
 It may harm them.
-If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about lamivudine tablets that is written for health professionals.
 What are the ingredients in lamivudine tablets?
 Active ingredient: lamivudine USP Inactive ingredients: crospovidone, isomalt, isopropyl alcohol, magnesium stearate and methylene chloride.
 The tablets are coated with opadry white containing hypromellose, polyethylene glycol, polysorbate 80 and titanium dioxide.
+EPIVIR-HBV is a trademark licensed to the GSK group of companies.
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-All other brands listed are trademarks of their respective owners and are not trademarks of the Hetero Labs Limited.
-The makers of these brands are not affiliated with and do not endorse the Hetero Labs Limited or its products.
-
 Manufactured for:
 
-Camber Pharmaceuticals, Inc., 2032512
+Camber Pharmaceuticals, Inc., 2037444
 
 Piscataway, NJ 08854
 
@@ -97,4 +87,4 @@ By:HETEROTM
 Hetero Labs Limited,Unit V, Polepally,
 
 Jadcherla, Mahaboob Nagar-509 301, India.
-Revised: 12/2015
+Revised: 08/2016

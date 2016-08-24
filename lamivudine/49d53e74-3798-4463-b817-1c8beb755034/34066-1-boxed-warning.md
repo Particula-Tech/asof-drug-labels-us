@@ -7,5 +7,5 @@ Exacerbations of Hepatitis B Severe acute exacerbations of hepatitis B have been
 Hepatic function should be monitored closely with both clinical and laboratory follow-up for at least several months in patients who discontinue lamivudine and are co-infected with HIV-l and HBV.
 If appropriate, initiation of anti-hepatitis B therapy may be warranted [see Warnings and Precautions (5.2)].
 
-Important Differences among Lamivudine-containing Products Lamivudine tablets (used to treat HIV-l infection) contain a higher dose of the active ingredient (lamivudine) than EPIVIR-HBV® Tablets (used to treat chronic HBV infection).
+Important Differences among Lamivudine-Containing Products Lamivudine tablets (used to treat HIV-l infection) contain a higher dose of the active ingredient (lamivudine) than EPIVIR-HBV® Tablets (used to treat chronic HBV infection).
 Patients with HIV-l infection should receive only dosage forms appropriate for treatment of HIV-1 [see Warnings and Precautions (5.2)].
