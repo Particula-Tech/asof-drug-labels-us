@@ -11,7 +11,11 @@ Downward dose adjustment of AMBIEN CR and concomitant CNS depressants should be 
 
 The use of AMBIEN CR with other sedative-hypnotics (including other zolpidem products) at bedtime or the middle of the night is not recommended.
 
-The risk of next-day psychomotor impairment is increased if AMBIEN CR is taken with less than a full night of sleep remaining (7 to 8 hours); if higher than the recommended dose is taken; if co-administered with other CNS depressants; or co-administered with other drugs that increase the blood levels of zolpidem [see Dosage and Administration (2) and Clinical Studies (14.2)].
+The risk of next-day psychomotor impairment is increased if AMBIEN CR is taken with less than a full night of sleep remaining (7 to 8 hours); if higher than the recommended dose is taken; if co-administered with other CNS depressants or alcohol; or co-administered with other drugs that increase the blood levels of zolpidem.
+Patients should be warned against driving and other activities requiring complete mental alertness if Ambien CR is taken in these circumstances [see Dosage and Administration (2) and Clinical Studies (14.2)].
+
+Vehicle drivers and machine operators should be warned that, as with other hypnotics, there may be a possible risk of adverse reactions including drowsiness, prolonged reaction time, dizziness, sleepiness, blurred/double vision, reduced alertness and impaired driving the morning after therapy.
+In order to minimize this risk a full night of sleep (7-8 hours) is recommended.
 
 ## 5.2 Need to Evaluate for Co-morbid Diagnoses
 
