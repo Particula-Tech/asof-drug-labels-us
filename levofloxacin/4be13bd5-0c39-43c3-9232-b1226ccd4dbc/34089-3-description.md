@@ -6,7 +6,7 @@ The chemical name is (-)-(S)-9-fluoro-2,3-dihydro-3-methyl-10-(4-methyl-1-pipera
 
 Figure 1: The Chemical Structure of Levofloxacin
 
-The empirical formula is C18H20FN3O4 ½ H2O and the molecular weight is 370.38.
+The empirical formula is C18H20FN3O4 • ½ H2O and the molecular weight is 370.38.
 Levofloxacin is a light yellowish-white to yellow-white crystal or crystalline powder.
 The molecule exists as a zwitterion at the pH conditions in the small intestine.
 
