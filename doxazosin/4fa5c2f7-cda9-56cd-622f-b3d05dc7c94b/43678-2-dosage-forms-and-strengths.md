@@ -1,0 +1,3 @@
+# 3 DOSAGE FORMS AND STRENGTHS
+
+Doxazosin Tablets, USP are available as 1 mg (white to off-white, round, scored tablets, imprinted "APO" on one side and "093" with a partial bisect on the other side), 2 mg (white to off-white, capsule shaped, scored tablets, imprinted "APO" on one side and "094" with a partial bisect on the other side), 4 mg (white to off-white, capsule shaped, scored tablets, imprinted "APO" on one side and "095" with a partial bisect on the other side) and 8 mg (white to off-white, capsule shaped, scored tablets, imprinted "APO" on one side and "096" with a partial bisect on the other side).
