@@ -10,20 +10,20 @@ Table 1: Adult Dosage Guidelines
 
 | Infection | Dose | Frequency | Usual Durations1 |
 | --- | --- | --- | --- |
-| Urinary Tract | 250 to 500 mg | every 12 hours | 7 to 14 days |
-| Acute Uncomplicated Cystitis | 250 mg | every 12 hours | 3 days |
-| Chronic Bacterial Prostatitis | 500 mg | every 12 hours | 28 days |
-| Lower Respiratory Tract | 500 to 750 mg | every 12 hours | 7 to 14 days |
-| Acute Sinusitis | 500 mg | every 12 hours | 10 days |
 | Skin and Skin Structure | 500 to 750 mg | every 12 hours | 7 to 14 days |
 | Bone and Joint | 500 to 750 mg | every 12 hours | 4 to 8 weeks |
 | Complicated Intra–Abdominal2 | 500 mg | every 12 hours | 7 to 14 days |
 | Infectious Diarrhea | 500 mg | every 12 hours | 5 to 7 days |
 | Typhoid Fever | 500 mg | every 12 hours | 10 days |
 | Uncomplicated Urethral and Cervical Gonococcal Infections | 250 mg | single dose | single dose |
-| Inhalational anthrax (post-exposure)3 | 500 mg | every 12 hours | 60 days |
-| Plague3 | 500 to 750 mg | every 12 hours | 14 days |
-| 1. Generally ciprofloxacin should be continued for at least 2 days after the signs and symptoms of infection have disappeared, except for inhalational anthrax (post-exposure). 2. Used in conjunction with metronidazole. 3. Begin drug administration as soon as possible after suspected or confirmed exposure. |  |  |  |
+| Inhalational anthrax (post­-exposure)3 | 500 mg | every 12 hours | 60 days |
+| Plague 3 | 500 to 750 mg | every 12 hours | 14 days |
+| Chronic Bacterial Prostatitis | 500 mg | every 12 hours | 28 days |
+| Lower Respiratory Tract Infections | 500 to 750 mg | every 12 hours | 7 to 14 days |
+| Urinary Tract Infections | 250 to 500 mg | every 12 hours | 7 to 14 days |
+| Acute Uncomplicated Cystitis | 250 mg | every 12 hours | 3 days |
+| Acute Sinusitis | 500 mg | every 12 hours | 10 days |
+| 1.Generally ciprofloxacin should be continued for at least 2 days after the signs and symptoms of infection have disappeared, except for inhalational anthrax (post-exposure). 2.Used in conjunction with metronidazole. 3.Begin drug administration as soon as possible after suspected or confirmed exposure. |  |  |  |
 
 Conversion of IV to Oral Dosing in Adults
 
@@ -48,7 +48,7 @@ Table 3: Pediatric Dosage Guidelines
 | --- | --- | --- | --- |
 | Complicated Urinary Tract or Pyelonephritis (patients from 1 to 17 years of age) | 10 mg/kg to 20 mg/kg (maximum 750 mg per dose; not to be exceeded even in patients weighing more than 51 kg) | Every 12 hours | 10 to 21 days1 |
 | Inhalational Anthrax (Post-Exposure)2 | 15 mg/kg (maximum 500 mg per dose) | Every 12 hours | 60 days |
-| Plague2,3 | 15 mg/kg (maximum 500 mg per dose) | Every 12 to 8 hours | 10 to 21 days |
+| Plague2,3 | 15 mg/kg (maximum 500 mg per dose) | Every 8 to 12 hours | 10 to 21 days |
 | 1. The total duration of therapy for cUTI and pyelonephritis in the clinical trial was determined by the physician. The mean duration of treatment was 11 days (range 10 to 21 days). 2. Begin drug administration as soon as possible after suspected or confirmed exposure. 3. Begin drug administration as soon as possible after suspected or confirmed exposure to Y. pestis. |  |  |  |
 
 ## 2.3 Dosage Modifications in Patients with Renal Impairment

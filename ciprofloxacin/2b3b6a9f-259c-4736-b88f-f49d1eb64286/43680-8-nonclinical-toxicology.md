@@ -32,7 +32,7 @@ Fertility studies performed in rats at oral doses of ciprofloxacin up to 100 mg/
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
-Ciprofloxacin and other quinolones have been shown to cause arthropathy in immature animals of most species tested [see Warnings and Precautions (5.11)].
+Ciprofloxacin and other quinolones have been shown to cause arthropathy in immature animals of most species tested [see Warnings and Precautions (5.12)].
 Damage of weight bearing joints was observed in juvenile dogs and rats.
 In young beagles, 100 mg/kg ciprofloxacin, given daily for 4 weeks, caused degenerative articular changes of the knee joint.
 At 30 mg/kg, the effect on the joint was minimal.
