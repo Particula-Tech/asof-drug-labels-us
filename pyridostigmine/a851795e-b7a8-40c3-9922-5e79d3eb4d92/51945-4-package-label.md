@@ -14,7 +14,7 @@ VALEANT Pharmaceuticals North America LLC
 
 # PRINCIPAL DISPLAY PANEL - 60 mg Tablets Bottle Label
 
-NDC 0187-3010-30 Rx Only
+NDC 0187-3010-30 Rx Only Pull here
 
 Mestinon® (pyridostigmine bromide tablets, USP)
 
@@ -22,20 +22,20 @@ Mestinon® (pyridostigmine bromide tablets, USP)
 
 Each tablet contains 60 mg pyridostigmine bromide
 
-100 Tablets
+100 Tablets Valeant
 
 VALEANT Pharmaceuticals North America LLC
 
 # PRINCIPAL DISPLAY PANEL - 180 mg Bottle Label
 
-NDC 0187-3013-30 Rx Only
+NDC 0187-3013-30 Rx OnlyPull here
 
 Mestinon® (pyridostigmine bromide) TIMESPAN®
 
 180 mg
 
-Each tablet contains 180 mg pyridostigmine bromide in a specially constructed tablet for sustained release
+Each tablet contains180 mg pyridostigmine bromide n a specially constructed tablet for sustained release
 
 30 Tablets
 
-VALEANT Pharmaceuticals North America LLC
+VALEANT

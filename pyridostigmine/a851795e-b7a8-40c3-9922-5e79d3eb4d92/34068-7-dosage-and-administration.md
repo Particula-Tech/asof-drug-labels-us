@@ -33,4 +33,4 @@ One to three 180 mg tablets, once or twice daily, will usually be sufficient to 
 The interval between doses should be at least 6 hours.
 For optimum control, it may be necessary to use the more rapidly acting regular tablets or syrup in conjunction with Timespan therapy.
 
-Note: For information on a diagnostic test for myasthenia gravis, and for the evaluation and stabilization of therapy, please see product literature on Tensilon® (edrophonium chloride).
+NOTE: For information on a diagnostic test for myasthenia gravis, and for the evaluation and stabilization of therapy, please see product literature on Tensilon (edrophonium chloride).

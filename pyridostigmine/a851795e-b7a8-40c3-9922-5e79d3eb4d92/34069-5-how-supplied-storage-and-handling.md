@@ -11,5 +11,5 @@ Each tablet is engraved "MES V 180" on one side and is single-scored on the othe
 Note: Because of the hygroscopic nature of the Timespan Tablets, mottling may occur.
 This does not affect their efficacy.
 
-Store Mestinon Tablets, Timespan Tablets, and Syrup at 25°C (77°F); excursions permitted to 15°C-30°C (59°F-86°F).
+Store Mestinon Tablets, Timespan Tablets and Syrup at 25°C (77°F); excursions permitted to 15° -30°C (59° -86°F).
 Keep Mestinon Tablets and Timespan Tablets in a dry place with the silica gel enclosed.

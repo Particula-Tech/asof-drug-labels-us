@@ -1,12 +1,7 @@
-Distributed by: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807
+Manufactured by: Valeant Pharmaceuticals International, Inc. Laval, QC H7L 4A8 Canada
 
-Made in Canada
+Distributed by: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA ©Valeant Pharmaceuticals North America LLC ®/™ are trademarks of Valeant Pharmaceuticals International, Inc. or its affiliates.
+9549900 50104061B
 
-50102987B = Syrup Rev.
-12/13
-
-50104061A = Timespan Rev.
-03/13
-
-50104240A = 60 mg Tablets Rev.
-07/13
+Rev.
+August 2016
