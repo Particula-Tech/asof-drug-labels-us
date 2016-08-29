@@ -8,8 +8,7 @@ Moxifloxacin hydrochloride is a member of the fluoroquinolone class of antibacte
 
 Photosensitivity Potential A study of the skin response to ultraviolet (UVA and UVB) and visible radiation conducted in 32 healthy volunteers (8 per group) demonstrated that moxifloxacin hydrochloride does not show phototoxicity in comparison to placebo.
 The minimum erythematous dose (MED) was measured before and after treatment with moxifloxacin (200 mg or 400 mg once daily), lomefloxacin (400 mg once daily), or placebo.
-In this study, the MED measured for both doses of moxifloxacin were not significantly different from placebo, while lomefloxacin significantly lowered the MED.
-[See Warnings and Precautions (5.11).]
+In this study, the MED measured for both doses of moxifloxacin were not significantly different from placebo, while lomefloxacin significantly lowered the MED [see Warnings and Precautions (5.12)].
 
 ## 12.3 Pharmacokinetics
 
@@ -26,7 +25,7 @@ Table 5: Mean (± SD) Cmax and AUC values following single and multiple doses of
 |  | Cmax (mg/L) | AUC (mg•h/L) | Half-life (hr) |
 | --- | --- | --- | --- |
 | Single Dose Oral |  |  |  |
-| Healthy (n = 372) | 3.1 ± 1 | 36.1 ± 9.1 | 11.5 - 15.6a |
+| Healthy (n = 372) | 3.1 ± 1 | 36.1 ± 9.1 | 11.5 to 15.6a |
 | Multiple Dose Oral |  |  |  |
 | Healthy young male/female (n = 15) | 4.5 ± 0.5 | 48 ± 2.7 | 12.7 ± 1.9 |
 | Healthy elderly male (n = 8) | 3.8 ± 0.3 | 51.8 ± 6.7 |  |
@@ -40,7 +39,7 @@ Table 6: Mean (± SD) Cmax and AUC values following single and multiple doses of
 |  | Cmax (mg/L) | AUC (mg•h/L) | Half-life (hour) |
 | --- | --- | --- | --- |
 | Single Dose intravenous |  |  |  |
-| Healthy young male/female (n = 56) | 3.9 ± 0.9 | 39.3 ± 8.6 | 8.2 - 15.4a |
+| Healthy young male/female (n = 56) | 3.9 ± 0.9 | 39.3 ± 8.6 | 8.2 to 15.4a |
 | Patients (n = 118) |  |  |  |
 | Male (n = 64) | 4.4 ± 3.7 |  |  |
 | Female (n = 54) | 4.5 ± 2 |  |  |
@@ -115,12 +114,11 @@ Geriatric
 Following oral administration of 400 mg moxifloxacin for 10 days in 16 elderly (8 male; 8 female) and 17 young (8 male; 9 female) healthy volunteers, there were no age-related changes in moxifloxacin pharmacokinetics.
 In 16 healthy male volunteers (8 young; 8 elderly) given a single 200 mg dose of oral moxifloxacin, the extent of systemic exposure (AUC and Cmax) was not statistically different between young and elderly males and elimination half-life was unchanged.
 No dosage adjustment is necessary based on age.
-In large phase III studies, the concentrations around the time of the end of the infusion in elderly patients following intravenous infusion of 400 mg were similar to those observed in young patients.
-[See Use In Specific Populations (8.5).]
+In large phase III studies, the concentrations around the time of the end of the infusion in elderly patients following intravenous infusion of 400 mg were similar to those observed in young patients [see Use In Specific Populations (8.5)].
 
 Pediatric
 
-The pharmacokinetics of moxifloxacin in pediatric subjects has not been studied [see Use in Specific Populations (8.4)].
+The pharmacokinetics of moxifloxacin in pediatric subjects has not been studied [see Use In Specific Populations (8.4)].
 
 Gender
 
@@ -142,8 +140,7 @@ No dosage adjustment is necessary in patients with renal impairment, including t
 
 In a single oral dose study of 24 patients with varying degrees of renal function from normal to severely impaired, the mean peak concentrations (Cmax) of moxifloxacin were reduced by 21% and 28% in the patients with moderate (CLCR≥30 and ≤ 60 mL/min) and severe (CLCR<30 mL/min) renal impairment, respectively.
 The mean systemic exposure (AUC) in these patients was increased by 13%.
-In the moderate and severe renally impaired patients, the mean AUC for the sulfate conjugate (M1) increased by 1.7-fold (ranging up to 2.8-fold) and mean AUC and Cmax for the glucuronide conjugate (M2) increased by 2.8-fold (ranging up to 4.8-fold) and 1.4-fold (ranging up to 2.5-fold), respectively.
-[See Use in Specific Populations (8.6).]
+In the moderate and severe renally impaired patients, the mean AUC for the sulfate conjugate (M1) increased by 1.7-fold (ranging up to 2.8-fold) and mean AUC and Cmax for the glucuronide conjugate (M2) increased by 2.8-fold (ranging up to 4.8-fold) and 1.4-fold (ranging up to 2.5-fold), respectively [see Use in Specific Populations (8.6)].
 
 The pharmacokinetics of single dose and multiple dose moxifloxacin were studied in patients with CLCR<20 mL/min on either hemodialysis or continuous ambulatory peritoneal dialysis (8 HD, 8 CAPD).
 Following a single 400 mg oral dose, the AUC of moxifloxacin in these HD and CAPD patients did not vary significantly from the AUC generally found in healthy volunteers.
@@ -159,7 +156,7 @@ HD and CAPD also removed about 4% and 2% of the glucuronide metabolite (M2), res
 
 Hepatic Insufficiency
 
-No dosage adjustment is recommended for mild, moderate, or severe hepatic insufficiency (Child-Pugh Classes A, B, or C). However, due to metabolic disturbances associated with hepatic insufficiency, which may lead to QT prolongation, moxifloxacin hydrochloride should be used with caution in these patients [see Warnings and Precautions (5.3) and Use in Specific Populations (8.7)].
+No dosage adjustment is recommended for mild, moderate, or severe hepatic insufficiency (Child-Pugh Classes A, B, or C). However, due to metabolic disturbances associated with hepatic insufficiency, which may lead to QT prolongation, moxifloxacin hydrochloride should be used with caution in these patients [see Warnings and Precautions (5.6) and Use in Specific Populations (8.7)].
 
 In 400 mg single oral dose studies in 6 patients with mild (Child-Pugh Class A) and 10 patients with moderate (Child-Pugh Class B) hepatic insufficiency, moxifloxacin mean systemic exposure (AUC) was 78% and 102%, respectively, of 18 healthy controls and mean peak concentration (Cmax) was 79% and 84% of controls.
 
@@ -174,7 +171,7 @@ Drug-Drug Interactions
 
 The following drug interactions were studied in healthy volunteers or patients.
 
-Antacids and iron significantly reduced bioavailability of moxifloxacin, as observed with other fluoroquinolones[see Drug Interactions (7.1)].
+Antacids and iron significantly reduced bioavailability of moxifloxacin, as observed with other fluoroquinolones [see Drug Interactions (7.1)].
 
 Calcium, digoxin, itraconazole, morphine, probenecid, ranitidine, theophylline, cyclosporine and warfarin did not significantly affect the pharmacokinetics of moxifloxacin.
 These results and the data from in vitro studies suggest that moxifloxacin is unlikely to significantly alter the metabolic clearance of drugs metabolized by CYP3A4, CYP2D6, CYP2C9, CYP2C19, or CYP1A2 enzymes.
@@ -185,8 +182,7 @@ However, fluoroquinolones, including moxifloxacin hydrochloride, have been repor
 Antacids
 
 When moxifloxacin (single 400 mg tablet dose) was administered two hours before, concomitantly, or 4 hours after an aluminum/magnesium-containing antacid (900 mg aluminum hydroxide and 600 mg magnesium hydroxide as a single oral dose) to 12 healthy volunteers there was a 26%, 60% and 23% reduction in the mean AUC of moxifloxacin, respectively.
-Moxifloxacin should be taken at least 4 hours before or 8 hours after antacids containing magnesium or aluminum, as well as sucralfate, metal cations such as iron, and multivitamin preparations with zinc, or didanosine buffered tablets for oral suspension or the pediatric powder for oral solution.
-[See Dosage and Administration (2.2) and Drug Interactions (7.1).]
+Moxifloxacin should be taken at least 4 hours before or 8 hours after antacids containing magnesium or aluminum, as well as sucralfate, metal cations such as iron, and multivitamin preparations with zinc, or didanosine buffered tablets for oral suspension or the pediatric powder for oral solution [see Dosage and Administration (2.2) and Drug Interactions (7.1)].
 
 Atenolol
 
@@ -277,7 +273,8 @@ Gram-positive bacteria
 
 Enterococcus faecalis Staphylococcus aureus Streptococcus anginosus Streptococcus constellatus Streptococcus pneumoniae (including multi-drug resistant isolates [MDRSP]**) Streptococcus pyogenes **MDRSP, Multi-drug resistant Streptococcus pneumoniae includes isolates previously known as PRSP (Penicillin-resistant S. pneumoniae), and are isolates resistant to two or more of the following antibiotics: penicillin (MIC) ≥2 mcg/mL), 2nd generation cephalosporins (for example, cefuroxime), macrolides, tetracyclines, and trimethoprim/sulfamethoxazole.
 
-Gram-negative bacteria Enterobacter cloacae Escherichia coli Haemophilus influenzae Haemophilus parainfluenzae Klebsiella pneumoniae Moraxella catarrhalis Proteus mirabilis Yersinia pestis Anaerobic bacteria Bacteroides fragilis Bacteroides thetaiotaomicron Clostridium perfringens Peptostreptococcus species Other microorganisms Chlamydophila pneumoniae Mycoplasma pneumoniae The following in vitro data are available, but their clinical significance is unknown.At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for moxifloxacin.
+Gram-negative bacteria Enterobacter cloacae Escherichia coli Haemophilus influenzae Haemophilus parainfluenzae Klebsiella pneumoniae Moraxella catarrhalis Proteus mirabilis Yersinia pestis Anaerobic bacteria Bacteroides fragilis Bacteroides thetaiotaomicron Clostridium perfringens Peptostreptococcus species Other microorganisms Chlamydophila pneumoniae Mycoplasma pneumoniae The following in vitro data are available, but their clinical significance is unknown.
+At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for moxifloxacin.
 However, the efficacy of moxifloxacin hydrochloride in treating clinical infections due to these bacteria has not been established in adequate and well controlled clinical trials.
 Gram-positive bacteria Staphylococcus epidermidis Streptococcus agalactiae Streptococcus viridans group Gram-negative bacteria Citrobacter freundii Klebsiella oxytoca Legionella pneumophila Anaerobic bacteria Fusobacterium species Prevotella species Susceptibility Tests Methods When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drug products used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community acquired pathogens.
 These reports should aid the physician in selecting an antibacterial drug product for treatment.
@@ -302,16 +299,16 @@ Table 8: Susceptibility Test Interpretive Criteria for Moxifloxacin
 |  | MIC (mcg/mL) |  |  | Zone Diameter (mm) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Species | S | I | R | S | I | R |
-| Enterobacteriaceae | ≤2 | 4 | ≥8 | ≥19 | 16–18 | ≤15 |
-| Enterococcus faecalis | ≤1 | 2 | ≥4 | ≥18 | 15–17 | ≤14 |
-| Staphylococcus aureus | ≤2 | 4 | ≥8 | ≥19 | 16–18 | ≤15 |
+| Enterobacteriaceae | ≤2 | 4 | ≥8 | ≥19 | 16 to 18 | ≤15 |
+| Enterococcus faecalis | ≤1 | 2 | ≥4 | ≥18 | 15 to 17 | ≤14 |
+| Staphylococcus aureus | ≤2 | 4 | ≥8 | ≥19 | 16 to 18 | ≤15 |
 | Haemophilus influenzae | ≤1 | a | a | ≥18 | a | a |
 | Haemophilus parainfluenzae | ≤1 | a | a | ≥18 | a | a |
-| Streptococcus pneumoniae | ≤1 | 2 | ≥4 | ≥18 | 15–17 | ≤14 |
-| Streptococcus species | ≤1 | 2 | ≥4 | ≥18 | 15–17 | ≤14 |
+| Streptococcus pneumoniae | ≤1 | 2 | ≥4 | ≥18 | 15 to 17 | ≤14 |
+| Streptococcus species | ≤1 | 2 | ≥4 | ≥18 | 15 to 17 | ≤14 |
 | Anaerobic bacteria | ≤2 | 4 | ≥8 | - | - | - |
 | Yersinia pestis | ≤0.25 | a | a | - | - | - |
-| S=Susceptible, I=Intermediate, and R=Resistant. a) The current absence of data on moxifloxacin-resistant isolates precludes defining any results other than “Susceptible”. Isolates yielding test results (MIC or zone diameter) other than susceptible, should be submitted to a reference laboratory for additional testing. |  |  |  |  |  |  |
+| S=susceptible, I=Intermediate, and R=resistant. a) The current absence of data on moxifloxacin-resistant isolates precludes defining any results other than “Susceptible”. Isolates yielding test results (MIC or zone diameter) other than susceptible, should be submitted to a reference laboratory for additional testing. |  |  |  |  |  |  |
 
 A report of “Susceptible” indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations at the infection site necessary to inhibit growth of the pathogen.
 A report of “Intermediate” indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
@@ -329,12 +326,12 @@ Table 9: Acceptable Quality Control Ranges for Moxifloxacin
 
 | Strains | MIC range (mcg/mL) | Zone Diameter (mm) |
 | --- | --- | --- |
-| Enterococcus faecalis ATCC 29212 | 0.06–0.5 | - |
-| Escherichia coli ATCC 25922 | 0.008–0.06 | 28–35 |
-| Haemophilus influenzae ATCC 49247 | 0.008–0.03 | 31–39 |
-| Staphylococcus aureus ATCC 29213 | 0.015–0.06 | - |
-| Staphylococcus aureus ATCC 25923 | - | 28–35 |
-| Streptococcus pneumoniae ATCC 49619 | 0.06–0.25 | 25–31 |
-| Bacteroides fragilis ATCC 25285 | 0.125–0.5 | - |
-| Bacteroides thetaiotaomicron ATCC 29741 | 1–4 | - |
-| Eubacterium lentum ATCC 43055 | 0.125–0.5 | - |
+| Enterococcus faecalis ATCC 29212 | 0.06 to 0.5 | - |
+| Escherichia coli ATCC 25922 | 0.008 to 0.06 | 28 to 35 |
+| Haemophilus influenzae ATCC 49247 | 0.008 to 0.03 | 31 to 39 |
+| Staphylococcus aureus ATCC 29213 | 0.015 to 0.06 | - |
+| Staphylococcus aureus ATCC 25923 | - | 28 to 35 |
+| Streptococcus pneumoniae ATCC 49619 | 0.06 to 0.25 | 25 to 31 |
+| Bacteroides fragilis ATCC 25285 | 0.125 to 0.5 | - |
+| Bacteroides thetaiotaomicron ATCC 29741 | 1 to 4 | - |
+| Eubacterium lentum ATCC 43055 | 0.125 to 0.5 | - |

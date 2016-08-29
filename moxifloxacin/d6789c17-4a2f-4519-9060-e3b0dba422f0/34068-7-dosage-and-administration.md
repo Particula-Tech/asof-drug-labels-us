@@ -9,14 +9,14 @@ Table 1: Dosage and Duration of Therapy in Adult Patients
 
 | Type of Infectiona | Dose Every 24 hours | Durationb (days) |
 | --- | --- | --- |
-| Acute Bacterial Sinusitis (1.1) | 400 mg | 10 |
-| Acute Bacterial Exacerbation of Chronic Bronchitis (1.2) | 400 mg | 5 |
-| Community Acquired Pneumonia (1.3) | 400 mg | 7-14 |
-| Uncomplicated Skin and Skin Structure Infections (SSSI) (1.4) | 400 mg | 7 |
-| Complicated SSSI (1.5) | 400 mg | 7-21 |
-| Complicated Intra-Abdominal Infections (1.6) | 400 mg | 5-14 |
-| Plague (1.7)C | 400 mg | 10-14 |
-| a) Due to the designated pathogens [see Indications and Usage (1)]. b) Sequential therapy (intravenous to oral) may be instituted at the discretion of the physician c) Drug administration should begin as soon as possible after suspected or confirmed exposure to Yersinia pestis |  |  |
+| Community Acquired Pneumonia (1.1) | 400 mg | 7 to 14 |
+| Uncomplicated Skin and Skin Structure Infections (SSSI) (1.2) | 400 mg | 7 |
+| Complicated SSSI (1.3) | 400 mg | 7 to 21 |
+| Complicated Intra-Abdominal Infections (1.4) | 400 mg | 5 to 14 |
+| Plague (1.5)C | 400 mg | 10 to 14 |
+| Acute Bacterial Sinusitis (ABS) (1.6) | 400 mg | 10 |
+| Acute Bacterial Exacerbation of Chronic Bronchitis (ABECB) (1.7) | 400 mg | 5 |
+| a) Due to the designated pathogens [see Indications and Usage (1)]. b) Sequential therapy (intravenous to oral) may be instituted at the discretion of the physician c) Drug administration should begin as soon as possible after suspected or confirmed exposure to Yersinia pestis. |  |  |
 
 Conversion of Intravenous to Oral Dosing in Adults
 

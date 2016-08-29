@@ -35,13 +35,13 @@ This study enrolled 474 patients (382 of whom were valid for the efficacy analys
 Clinical success for clinically evaluable patients was 95% (184/194) for moxifloxacin hydrochloride and 95% (178/188) for high dose clarithromycin.
 
 A randomized, double-blind, controlled trial was conducted in the U.S. and Canada to compare the efficacy of sequential intravenous/oral moxifloxacin 400 mg once a day for 7 to 14 days to an intravenous/oral fluoroquinolone control (trovafloxacin or levofloxacin) in the treatment of patients with clinically and radiologically documented community acquired pneumonia.
-This study enrolled 516 patients, 362 of whom were valid for the efficacy analysis conducted at the 7-30 day post-therapy visit.
+This study enrolled 516 patients, 362 of whom were valid for the efficacy analysis conducted at the 7 to 30 day post-therapy visit.
 The clinical success rate was 86% (157/182) for moxifloxacin hydrochloride therapy and 89% (161/180) for the fluoroquinolone comparators.
 
 An open-label ex-U.S. study that enrolled 628 patients compared moxifloxacin hydrochloride tablets to sequential intravenous/oral amoxicillin/clavulanate (1.2 gram intravenously every 8 hours/625 mg orally every 8 hours) with or without high-dose intravenous/oral clarithromycin (500 mg twice a day).
 The intravenous formulations of the comparators are not FDA approved.
 The clinical success rate at Day 5 to 7 for moxifloxacin hydrochloride therapy was 93% (241/258) and demonstrated superiority to amoxicillin/ clavulanate ± clarithromycin (85%, 239/280) [95% C.I. of difference in success rates between moxifloxacin and comparator (2.9%, 13.2%)].
-The clinical success rate at the 21-28 days post-therapy visit for moxifloxacin hydrochloride was 84% (216/258), which also demonstrated superiority to the comparators (74%, 208/280) [95% C.I. of difference in success rates between moxifloxacin and comparator (2.6%, 16.3%)].
+The clinical success rate at the 21 to 28 days post-therapy visit for moxifloxacin hydrochloride was 84% (216/258), which also demonstrated superiority to the comparators (74%, 208/280) [95% C.I. of difference in success rates between moxifloxacin and comparator (2.6%, 16.3%)].
 
 The clinical success rates by pathogen across four CAP studies are presented in Table 11.
 
@@ -80,7 +80,7 @@ Table 12: Clinical and Bacteriological Success Rates for Moxifloxacin Hydrochlor
 Not all isolates were resistant to all antimicrobial classes tested.
 Success and eradication rates are summarized in Table 13.
 
-Table 13: Clinical Sucess Rates and Microbiological Eradication Rates for Resistant Streptococcus pneumoniae (Community Acquired Pneumonia)
+Table 13: Clinical Success Rates and Microbiological Eradication Rates for Resistant Streptococcus pneumoniae (Community Acquired Pneumonia)
 
 | S. pneumoniae with MDRSP | Clinical Success | Bacteriological Eradication Rate |
 | --- | --- | --- |
@@ -101,7 +101,7 @@ Clinical success rates in evaluable patients were 89% (108/122) for moxifloxacin
 ## 14.5 Complicated Skin and Skin Structure Infections
 
 Two randomized, active controlled trials of cSSSI were performed.
-A double-blind trial was conducted primarily in North America to compare the efficacy of sequential intravenous/oral moxifloxacin 400 mg once a day for 7-14 days to an intravenous/oral beta-lactam/beta­-lactamase inhibitor control in the treatment of patients with cSSSI.
+A double-blind trial was conducted primarily in North America to compare the efficacy of sequential intravenous/oral moxifloxacin 400 mg once a day for 7 to 14 days to an intravenous/oral beta-lactam/beta­-lactamase inhibitor control in the treatment of patients with cSSSI.
 This study enrolled 617 patients, 335 of which were valid for the efficacy analysis.
 A second open-label International study compared moxifloxacin 400 mg once a day for 7 to 21 days to sequential intravenous/oral beta-lactam/beta-lactamase inhibitor control in the treatment of patients with cSSSI.
 This study enrolled 804 patients, 632 of which were valid for the efficacy analysis.
@@ -116,7 +116,7 @@ Table 14: Overall Clinical Success Rates in Patients with Complicated Skin and S
 | --- | --- | --- | --- |
 | North America | 125/162 (77.2%) | 141/173 (81.5%) | (-14.4%, 2%) |
 | International | 254/315 (80.6%) | 268/317 (84.5%) | (-9.4%, 2.2%) |
-| a) of difference in success rates between moxifloxacin and comparator (moxifloxacin – comparator) |  |  |  |
+| a) of difference in success rates between Moxifloxacin and comparator (Moxifloxacin – comparator) |  |  |  |
 
 Table 15: Clinical Success Rates by Pathogen in Patients with Complicated Skin and Skin Structure Infections
 
@@ -131,9 +131,9 @@ Table 15: Clinical Success Rates by Pathogen in Patients with Complicated Skin a
 ## 14.6 Complicated Intra-Abdominal Infections
 
 Two randomized, active controlled trials of cIAI were performed.
-A double-blind trial was conducted primarily in North America to compare the efficacy of sequential intravenous/oral moxifloxacin 400 mg once a day for 5 - 14 days to intravenous /piperacillin/tazobactam followed by oral amoxicillin/clavulanic acid in the treatment of patients with cIAI, including peritonitis, abscesses, appendicitis with perforation, and bowel perforation.
+A double-blind trial was conducted primarily in North America to compare the efficacy of sequential intravenous/oral moxifloxacin 400 mg once a day for 5 to 14 days to intravenous /piperacillin/tazobactam followed by oral amoxicillin/clavulanic acid in the treatment of patients with cIAI, including peritonitis, abscesses, appendicitis with perforation, and bowel perforation.
 This study enrolled 681 patients, 379 of which were considered clinically evaluable.
-A second open-label international study compared moxifloxacin 400 mg once a day for 5-14 days to intravenous ceftriaxone plus intravenous metronidazole followed by oral amoxicillin/clavulanic acid in the treatment of patients with cIAI.
+A second open-label international study compared moxifloxacin 400 mg once a day for 5 to 14 days to intravenous ceftriaxone plus intravenous metronidazole followed by oral amoxicillin/clavulanic acid in the treatment of patients with cIAI.
 This study enrolled 595 patients, 511 of which were considered clinically evaluable.
 The clinically evaluable population consisted of subjects with a surgically confirmed complicated infection, at least 5 days of treatment and a 25 to 50 day follow-up assessment for patients at the Test of Cure visit.
 The overall clinical success rates in the clinically evaluable patients are shown in Table 16.
