@@ -20,8 +20,8 @@ Do not remove the Ansyr syringe from carton until ready to use.
 
 Discard unused portion.
 
-Revised: 7/2015
+Revised: 5/2016
 
-EN-3983
+EN-4309
 
 Hospira, Inc., Lake Forest, IL 60045 USA
