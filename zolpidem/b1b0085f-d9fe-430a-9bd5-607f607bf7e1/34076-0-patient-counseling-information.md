@@ -38,6 +38,6 @@ Tell patients not to increase the dose of zolpidem tartrate extended-release tab
 
 Administration Instructions
 
-Patients should be counseled to take zolpidem tartrate extended-release tablets right before they get into bed and only when they are able to stay in bed a full night (7–8 hours) before being active again.
+Patients should be counseled to take zolpidem tartrate extended-release tablets right before they get into bed and only when they are able to stay in bed a full night (7 to 8 hours) before being active again.
 Zolpidem tartrate extended-release tablets should not be taken with or immediately after a meal.
 Advise patients NOT to take zolpidem tartrate extended-release tablets if they drank alcohol that evening.

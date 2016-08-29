@@ -14,13 +14,11 @@ A study in 24 healthy male subjects was conducted to compare mean zolpidem plasm
 The terminal elimination half-life observed with zolpidem tartrate extended-release (12.5 mg) was similar to that obtained with immediate-release zolpidem tartrate (10 mg).
 The mean plasma concentration-time profiles are shown in Figure 1.
 
-Figure 1: Mean plasma concentration-time profiles for zolpidem tartrate extended-release (12.5 mg) and immediate-release zolpidem tartrate (10 mg)
-
 In adult and elderly patients treated with zolpidem tartrate extended-release, there was no evidence of accumulation after repeated once-daily dosing for up to two weeks.
 
 Absorption:
 
-Following administration of zolpidem tartrate extended-release, administered as a single 12.5 mg dose in healthy male adult subjects, the mean peak concentration (Cmax) of zolpidem was 134 ng/mL (range: 68.9 to 197 ng/ml) occurring at a median time (Tmax) of 1.5 hours.
+Following administration of zolpidem tartrate extended-release, administered as a single 12.5 mg dose in healthy male adult subjects, the mean peak concentration (Cmax) of zolpidem was 134 ng/mL (range: 68.9 to 197 ng/mL) occurring at a median time (Tmax) of 1.5 hours.
 The mean AUC of zolpidem was 740 ng∙hr/mL (range: 295 to 1359 ng∙hr/mL).
 
 A food-effect study in 45 healthy subjects compared the pharmacokinetics of zolpidem tartrate extended-release 12.5 mg when administered while fasting or within 30 minutes after a meal.

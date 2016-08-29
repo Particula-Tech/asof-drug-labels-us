@@ -171,10 +171,11 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 The brands listed are trademarks of their respective owners and are not trademarks of Sandoz Inc.
 
-Manufactured in Slovenia by Lek Pharmaceuticals d.d.
+Finished Drug Product Manufactured by Lek Pharmaceuticals d.d.,
 
-for Sandoz Inc., Princeton, NJ 08540
+SI-1526 Ljubljana, Slovenia for Sandoz Inc., Princeton, NJ 08540
 
 Product of Israel
 
-Rev.: January 2015
+Rev.
+November 2015
