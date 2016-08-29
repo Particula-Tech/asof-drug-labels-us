@@ -20,11 +20,11 @@ Table 8: Mean ± SD Levofloxacin PK Parameters
 | 750 mg oral tablet5* | 9.3 ± 1.6 | 1.6 ± 0.8 | 101 ± 20 | 129 ± 24 | 83 ± 17 | 7.5 ± 0.9 | ND |
 | 750 mg IV5 | 11.5 ± 44 | ND | 110 ± 40 | 126 ± 39 | 75 ± 13 | 7.5 ± 1.6 | ND |
 | Multiple dose |  |  |  |  |  |  |  |
-| 500 mg every 24 h oral tablet3 | 5.7 ± 1.4 | 1.1 ± 0.4 | 47.5 ± 6.7 | 175 ± 25 | 102 ± 22 | 7.6 ± 1.6 | 116 ± 31 |
-| 500 mg every 24 h IV3 | 6.4 ± 0.8 | ND | 54.6 ± 11.1 | 158 ± 29 | 91 ± 12 | 7 ± 0.8 | 99 ± 28 |
-| 500 mg or 250 mg every 24 h IV, patients with bacterial infection6 | 8.7 ± 47 | ND | 72.5 ± 51.27 | 154 ± 72 | 111 ± 58 | ND | ND |
-| 750 mg every 24 h oral tablet5 | 8.6 ± 1.9 | 1.4 ± 0.5 | 90.7 ± 17.6 | 143 ± 29 | 100 ± 16 | 8.8 ± 1.5 | 116 ± 28 |
-| 750 mg every 24 h IV5 | 12.1 ± 4.14 | ND | 108 ± 34 | 126 ± 37 | 80 ± 27 | 7.9 ± 1.9 | ND |
+| 500 mg every 24h oral tablet3 | 5.7 ± 1.4 | 1.1 ± 0.4 | 47.5 ± 6.7 | 175 ± 25 | 102 ± 22 | 7.6 ± 1.6 | 116 ± 31 |
+| 500 mg every 24h IV3 | 6.4 ± 0.8 | ND | 54.6 ± 11.1 | 158 ± 29 | 91 ± 12 | 7 ± 0.8 | 99 ± 28 |
+| 500 mg or 250 mg every 24h IV, patients with bacterial infection6 | 8.7 ± 47 | ND | 72.5 ± 51.27 | 154 ± 72 | 111 ± 58 | ND | ND |
+| 750 mg every 24h oral tablet5 | 8.6 ± 1.9 | 1.4 ± 0.5 | 90.7 ± 17.6 | 143 ± 29 | 100 ± 16 | 8.8 ± 1.5 | 116 ± 28 |
+| 750 mg every 24h IV5 | 12.1 ± 4.14 | ND | 108 ± 34 | 126 ± 37 | 80 ± 27 | 7.9 ± 1.9 | ND |
 | 500 mg oral tablet single dose, effects of gender and age: |  |  |  |  |  |  |  |
 | Male8 | 5.5 ± 1.1 | 1.2 ± 0.4 | 54.4 ± 18.9 | 166 ± 44 | 89 ± 13 | 7.5 ± 2.1 | 126 ± 38 |
 | Female9 | 7 ± 1.6 | 1.7 ± 0.5 | 67.7 ± 24.2 | 136 ± 44 | 62 ± 16 | 6.1 ± 0.8 | 106 ± 40 |
@@ -36,7 +36,7 @@ Table 8: Mean ± SD Levofloxacin PK Parameters
 | CLCR <20 mL/min | 8.2 ± 2.6 | 1.1 ± 1 | 263.5 ± 72.5 | 33 ± 8 | ND | 35 ± 5 | 13 ± 3 |
 | Hemodialysis | 5.7 ± 1 | 2.8 ± 2.2 | ND | ND | ND | 76 ± 42 | ND |
 | CAPD | 6.9 ± 2.3 | 1.4 ± 1.1 | ND | ND | ND | 51 ± 24 | ND |
-| 1 clearance/bioavailability 2 volume of distribution/bioavailability 3 healthy males 18 to 53 years of age 4 60 min infusion for 250 mg and 500 mg doses, 90 min infusion for 750 mg dose 5 healthy male and female subjects 18 to 54 years of age 6 500 mg every 48 h for patients with moderate renal impairment (CLCR 20 to 50 mL/min) and infections of the respiratory tract or skin 7 dose-normalized values (to 500 mg dose), estimated by population pharmacokinetic modeling 8 healthy males 22 to 75 years of age 9 healthy females 18 to 80 years of age 10 young healthy male and female subjects 18 to 36 years of age 11 healthy elderly male and female subjects 66 to 80 years of age 12 healthy males and females 19 to 55 years of age. * Absolute bioavailability; F=0.99 ± 0.08 from a 500 mg tablet and F=0.99 ± 0.06 from a 750 mg tablet; ND=not determined. |  |  |  |  |  |  |  |
+| 1 clearance/bioavailability 2 volume of distribution/bioavailability 3 healthy males 18 to 53 years of age 4 60 min infusion for 250 mg and 500 mg doses, 90 min infusion for 750 mg dose 5 healthy male and female subjects 18 to 54 years of age 6 500 mg every 48h for patients with moderate renal impairment (CLCR 20 to 50 mL/min) and infections of the respiratory tract or skin 7 dose-normalized values (to 500 mg dose), estimated by population pharmacokinetic modeling 8 healthy males 22 to 75 years of age 9 healthy females 18 to 80 years of age 10 young healthy male and female subjects 18 to 36 years of age 11 healthy elderly male and female subjects 66 to 80 years of age 12 healthy males and females 19 to 55 years of age. * Absolute bioavailability; F=0.99 ± 0.08 from a 500 mg tablet and F=0.99 ± 0.06 from a 750 mg tablet; ND=not determined. |  |  |  |  |  |  |  |
 
 Absorption Levofloxacin is rapidly and essentially completely absorbed after oral administration.
 Peak plasma concentrations are usually attained one to two hours after oral dosing.
@@ -107,7 +107,7 @@ Fluoroquinolones may, therefore, be active against bacteria resistant to these a
 Resistance to levofloxacin due to spontaneous mutation in vitro is a rare occurrence (range: 10-9 to 10-10).
 Cross-resistance has been observed between levofloxacin and some other fluoroquinolones, some microorganisms resistant to other fluoroquinolones may be susceptible to levofloxacin.
 Activity in vitro and in vivo Levofloxacin has in vitro activity against Gram-negative and Gram-positive bacteria.
-Levofloxacin has been shown to be active against most isolates of the following bacteria both in vitro and in clinical infections as described in Indications and Usage (1): Gram-Positive Bacteria Enterococcus faecalis Staphylococcus aureus (methicillin-susceptible isolates) Staphylococcus epidermidis (methicillin-susceptible isolates) Staphylococcus saprophyticus Streptococcus pneumoniae (including multi-drug resistant isolates [MDRSP])* Streptococcus pyogenes *MDRSP (Multi-drug resistant Streptococcus pneumoniae) isolates are isolates resistant to two or more of the following antibiotics: penicillin (MIC ≥2 mcg/mL), 2nd generation cephalosporins, e.g., cefuroxime; macrolides, tetracyclines and trimethoprim/sulfamethoxazole.
+Levofloxacin has been shown to be active against most isolates of the following bacteria both in vitro and in clinical infections as described in Indications and Usage (1): Gram-Positive Bacteria Enterococcus faecalis Staphylococcus aureus (methicillin-susceptible isolates) Staphylococcus epidermidis (methicillin-susceptible isolates) Staphylococcus saprophyticus Streptococcus pneumoniae (including multi-drug resistant isolates [MDRSP]1) Streptococcus pyogenes 1MDRSP (Multi-drug resistant Streptococcus pneumoniae) isolates are isolates resistant to two or more of the following antibiotics: penicillin (MIC ≥2 mcg/mL), 2nd generation cephalosporins, e.g., cefuroxime; macrolides, tetracyclines and trimethoprim/sulfamethoxazole.
 Gram-Negative Bacteria Enterobacter cloacae Escherichia coli Haemophilus influenzae Haemophilus parainfluenzae Klebsiella pneumoniae Legionella pneumophila Moraxella catarrhalis Proteus mirabilis Pseudomonas aeruginosa Serratia marcescens Other Bacteria Chlamydophila pneumoniae Mycoplasma pneumoniae The following in vitro data are available, but their clinical significance is unknown: Levofloxacin exhibits in vitro minimum inhibitory concentrations (MIC values) of 2 mcg/mL or less against most (≥90%) isolates of the following microorganisms; however, the safety and effectiveness of levofloxacin in treating clinical infections due to these bacteria have not been established in adequate and well-controlled clinical trials.
 Gram-Positive Bacteria Staphylococcus haemolyticus β-hemolytic Streptococcus (Group C/F) β-hemolytic Streptococcus (Group G) Streptococcus agalactiae Streptococcus milleri Viridans group streptococci Bacillus anthracis Gram-Negative Bacteria Acinetobacter baumannii Acinetobacter lwoffii Bordetella pertussis Citrobacter koseri Citrobacter freundii Enterobacter aerogenes Enterobacter sakazakii Klebsiella oxytoca Morganella morganii Pantoea agglomerans Proteus vulgaris Providencia rettgeri Providencia stuartii Pseudomonas fluorescens Yersinia pestis Anaerobic Gram-Positive Bacteria Clostridium perfringens Susceptibility Tests When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drug products used in the resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
 These reports should aid the physician in selecting an antibacterial drug product for treatment.
@@ -132,14 +132,14 @@ Table 9: Susceptibility Test Interpretive Criteria for Levofloxacin
 | S | I | R | S | I | R |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Pathogen | Minimum Inhibitory Concentrations (mcg/mL) |  |  | Disk Diffusion (zone diameter in mm) |  |  |
-| Enterobacteriaceae | ≤2 | 4 | ≥8 | ≥17 | 14-16 | ≤13 |
-| Enterococcus faecalis | ≤2 | 4 | ≥8 | ≥17 | 14-16 | ≤13 |
-| Staphylococcus species | ≤2 | 4 | ≥8 | ≥17 | 14-16 | ≤13 |
-| Pseudomonas aeruginosa | ≤2 | 4 | ≥8 | ≥17 | 14-16 | ≤13 |
+| Enterobacteriaceae | ≤2 | 4 | ≥8 | ≥17 | 14 to 16 | ≤13 |
+| Enterococcus faecalis | ≤2 | 4 | ≥8 | ≥17 | 14 to 16 | ≤13 |
+| Staphylococcus species | ≤2 | 4 | ≥8 | ≥17 | 14 to 16 | ≤13 |
+| Pseudomonas aeruginosa | ≤2 | 4 | ≥8 | ≥17 | 14 to 16 | ≤13 |
 | Haemophilus influenzae | ≤2 | --† | -- | ≥17 | -- | -- |
 | Haemophilus parainfluenzae | ≤2 | -- | -- | ≥17 | -- | -- |
-| Streptococcus pneumoniae | ≤2 | 4 | ≥8 | ≥17 | 14-16 | ≤13 |
-| Streptococcus pyogenes | ≤2 | 4 | ≥8 | ≥17 | 14-16 | ≤13 |
+| Streptococcus pneumoniae | ≤2 | 4 | ≥8 | ≥17 | 14 to 16 | ≤13 |
+| Streptococcus pyogenes | ≤2 | 4 | ≥8 | ≥17 | 14 to 16 | ≤13 |
 | Yersinia pestis4 | ≤0.25 | -- | -- | -- | -- | -- |
 | Bacillus anthracis4 | ≤0.25 | -- | -- | -- | -- | -- |
 | S = Susceptible, I = Intermediate, R = Resistant †The current absence of data on resistant isolates precludes defining any categories other than “Susceptible.” Isolates yielding MIC/zone diameter results suggestive of a “nonsusceptible” category should be submitted to a reference laboratory for further testing. |  |  |  |  |  |  |
@@ -156,11 +156,11 @@ Table 10: Quality Control Ranges for Susceptibility Testing
 
 | Microorganism | Microorganism QC Number | MIC (mcg/mL) | Disk Diffusion (zone diameter in mm) |
 | --- | --- | --- | --- |
-| Enterococcus faecalis | ATCC 29212 | 0.25 – 2 | -- |
-| Escherichia coli | ATCC 25922 | 0.008 – 0.06 | 29 – 37 |
-| Escherichia coli | ATCC 35218 | 0.015 – 0.06 | -- |
-| Haemophilus influenzae | ATCC 49247 | 0.008 – 0.03 | 32 – 40 |
-| Pseudomonas aeruginosa | ATCC 27853 | 0.5 – 4 | 19 – 26 |
-| Staphylococcus aureus | ATCC 29213 | 0.06 – 0.5 | -- |
-| Staphylococcus aureus | ATCC 25923 | -- | 25 – 30 |
-| Streptococcus pneumoniae | ATCC 49619 | 0.5 – 2 | 20 – 25 |
+| Enterococcus faecalis | ATCC 29212 | 0.25 to 2 | -- |
+| Escherichia coli | ATCC 25922 | 0.008 to 0.06 | 29 to 37 |
+| Escherichia coli | ATCC 35218 | 0.015 to 0.06 | -- |
+| Haemophilus influenzae | ATCC 49247 | 0.008 to 0.03 | 32 to 40 |
+| Pseudomonas aeruginosa | ATCC 27853 | 0.5 to 4 | 19 to 26 |
+| Staphylococcus aureus | ATCC 29213 | 0.06 to 0.5 | -- |
+| Staphylococcus aureus | ATCC 25923 | -- | 25 to 30 |
+| Streptococcus pneumoniae | ATCC 49619 | 0.5 to 2 | 20 to 25 |
