@@ -2,9 +2,9 @@
 
 In vivo drug-drug interaction studies were not conducted with valganciclovir.
 However, because valganciclovir is rapidly and extensively converted to ganciclovir, drug-drug interactions associated with ganciclovir will be expected for valganciclovir.
-Established and other potentially significant drug interactions conducted with ganciclovir are listed in Table 8.
+Established and other potentially significant drug interactions conducted with ganciclovir are listed in Table 9.
 
-Table 8 Established and Other Potentially Significant Drug Interactions With Ganciclovir
+Table 9 Established and Other Potentially Significant Drug Interactions with Ganciclovir
 
 | Name of the Concomitant Drug | Change in the Concentration of Ganciclovir or Concomitant Drug | Clinical Comment |
 | --- | --- | --- |

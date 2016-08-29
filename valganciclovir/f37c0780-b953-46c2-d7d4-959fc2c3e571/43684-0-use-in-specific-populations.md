@@ -2,51 +2,90 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects: Pregnancy Category C After oral administration, valganciclovir (prodrug) is converted to ganciclovir (active drug) and, therefore, is expected to have reproductive toxicity effects similar to ganciclovir.
-There are no adequate and well-controlled studies of valganciclovir or ganciclovir use in pregnant women.
-In animal studies of ganciclovir, embryo-fetal toxicity and structural malformations occurred.
-Valganciclovir should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Risk Summary
 
-In animal studies, pregnant mice and rabbits received ganciclovir at doses that produced 2x the human exposure (based on AUC comparison).
-Treated rabbits had increased rates of fetal resorption, fetal growth retardation, embryolethality, maternal toxicity, cleft palate, anophthalmia/microphthalmia, aplastic organs (kidney and pancreas), hydrocephaly and brachygnathia.
-In mice, increased fetal resorptions and embryolethality occurred in the presence of maternal/fetal toxicity.
+After oral administration, valganciclovir (prodrug) is converted to ganciclovir (active drug) and, therefore, valganciclovir is expected to have reproductive toxicity effects similar to ganciclovir.
+In animal studies, ganciclovir caused maternal and fetal toxicity and embryo-fetal mortality in pregnant mice and rabbits as well as teratogenicity in rabbits at exposures two-times the human exposure.
+There are no available human data on use of valganciclovir or ganciclovir in pregnant women to establish the presence or absence of drug-associated risk.
+The background risk of major birth defects and miscarriage for the indicated populations is unknown.
+However, the background risk in the U.S. general population of major birth defects is 2 to 4% and the risk of miscarriage is 15 to 20% of clinically recognized pregnancies.
+Advise pregnant women of the potential risk to the fetus[see Warnings and Precautions (5.3), Use in Specific Populations (8.3)].
 
-Daily intravenous doses of approximately 1.7x the human exposure (based on AUC) administered to female mice prior to mating, during gestation, and during lactation caused hypoplasia of the testes and seminal vesicles in month-old male offspring, as well as pathologic changes in the nonglandular region of the stomach.
+Clinical Considerations
 
-Data from an ex vivo human placental model showed that ganciclovir crosses the human placenta.
-The transfer occurred by passive diffusion and was not saturable over a concentration range of 1 to 10 mg/mL [see Nonclinical Toxicology (13.3)].
+Disease-associated maternal and/or embryo/fetal risk
 
-## 8.3 Nursing Mothers
+Most maternal CMV infections are asymptomatic or they may be associated with a self-limited mononucleosis-like syndrome.
+However, in immunocompromised patients (i.e., transplant patients or patients with AIDS) CMV infections may be symptomatic and may result in significant maternal morbidity and mortality.
+The transmission of CMV to the fetus is a result of maternal viremia and transplacental infection.
+Perinatal infection can also occur from exposure of the neonate to CMV shedding in the genital tract.
+Approximately 10% of children with congenital CMV infection are symptomatic at birth.
 
-It is not known whether valganciclovir (prodrug) or ganciclovir (active drug) are excreted in human milk.
-Because valganciclovir caused granulocytopenia, anemia and thrombocytopenia in clinical trials and ganciclovir was mutagenic and carcinogenic in animal studies, serious adverse events may occur from ganciclovir exposure in nursing infants [see Boxed Warning, Warnings and Precautions (5.1, 5.3, 5.4)].
-Because of the potential for serious adverse events in nursing infants, a decision should be made whether to discontinue nursing or discontinue drug, taking into consideration the importance of the drug to the mother.
-The Centers for Disease Control and Prevention recommend that HIV-infected mothers not breast-feed their infants to avoid risking postnatal transmission of HIV.
+Mortality in these infants is about 10%and approximately 50 to 90% of symptomatic surviving newborns experience significant morbidity, including mental retardation, sensorineural hearing loss, microcephaly, seizures, and other medical problems.
+The risk of congenital CMV infection resulting from primary maternal CMV infection may be higher and of greater severity than that resulting from maternal reactivation of CMV infection.
+
+Data
+
+Animal Data
+
+At doses resulting in two-times the human exposure of ganciclovir (all dose comparisons presented are based on the human AUC following a single intravenous infusion of 5 mg per kg of ganciclovir) resulted in maternal and embryofetal toxicity in pregnant mice and rabbits as well as teratogenicity in the rabbits.
+Fetal resorptions were present in at least 85% of rabbits and mice.
+Rabbits showed increased embryofetal mortality, growth retardation of the fetuses and structural abnormalities of multiple organs of the fetuses including the palate (cleft palate), eyes (anophthalmia/microphthalmia), brain (hydrocephalus), jaw (brachygnathia), kidneys and pancreas (aplastic organs).
+Increased embryofetal mortality was also seen in mice.
+Daily intravenous doses of approximately 1.7-times the human exposure (based on AUC) administered to female mice prior to mating, during gestation, and during lactation caused hypoplasia of the testes and seminal vesicles in the male offspring, as well as pathologic changes in the nonglandular region of the stomach.
+
+Data from an ex-vivo human placental model showed that ganciclovir crosses the human placenta.
+The transfer occurred by passive diffusion and was not saturable over a concentration range of 1 to 10 mg/mL.
+
+## 8.2 Lactation
+
+Risk Summary
+
+No data are available regarding the presence of valganciclovir (prodrug) or ganciclovir (active drug) in human milk, the effects on the breastfed infant, or the effects on milk production.
+The Centers for Disease Control and Prevention recommend that HIV-infected mothers not breastfeed their infants to avoid risking postnatal transmission of HIV.
+Advise nursing mothers that breastfeeding is not recommended during treatment with valganciclovir because of the potential for serious adverse events in nursing infants and because of the potential for transmission of HIV [seeBoxed Warning, Warnings and Precautions (5.1, 5.2, 5.3, 5.4), Nonclinical Toxicology (13.1)].
+
+## 8.3 Females and Males of Reproductive Potential
+
+Pregnancy Testing
+
+Females of reproductive potential should undergo pregnancy testing before initiation of valganciclovir [see Use in Specific Populations (8.1)].
+
+Contraception
+
+Females
+
+Because of the mutagenic and teratogenic potential of valganciclovir, females of reproductive potential should be advised to use effective contraception during treatment and for at least 30 days following treatment with valganciclovir [see Dosage and Administration (2.6), Warnings and Precautions (5.3, 5.4), Nonclinical Toxicology (13.1)].
+
+Males
+
+Because of its mutagenic potential, males should be advised to practice barrier contraception during and for at least 90 days following, treatment with valganciclovir [see Dosage and Administration (2.6), Warnings and Precautions (5.3), Nonclinical Toxicology (13.1)].
+
+Infertility
+
+Valganciclovir at the recommended doses may cause temporary or permanent female and male infertility [see Warnings and Precautions (5.2), Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
-Valganciclovir for oral solution and tablets are indicated for the prevention of CMV disease in kidney or heart transplant pediatric patients 4 months to 16 years of age at risk for developing CMV disease [see Indications and Usage (1.2), Dosage and Administration (2.3)].
+Valganciclovir for oral solution and tablets are indicated for the prevention of CMV disease in pediatric heart transplant patients 4 months to 16 years of age at risk for developing CMV disease [see Indications and Usage (1.2), Dosage and Administration (2.3)].
 
-The use of valganciclovir for oral solution and tablets for the prevention of CMV disease in pediatric patients 4 months to 16 years of age with kidney or heart transplant is based on pharmacokinetic, safety, and efficacy data from an open-label trial with oral valganciclovir (valganciclovir for oral solution or tablets) in pediatric solid organ transplant recipients at risk for developing CMV disease.
-The results of this study were supported by previous demonstration of efficacy in adult patients [see Adverse Reactions (6.2), Clinical Pharmacology (12.3), Clinical Studies (14.2)].
+Study 1 was a safety and pharmacokinetic study in pediatric solid organ transplant patients (kidney, liver, heart, and kidney/pancreas).
+Valganciclovir was administered once daily within 10 days of transplantation for a maximum of 100 days post-transplantation.
 
-The safety and efficacy of valganciclovir for oral solution and tablets have not been established in children for:
+The use of valganciclovir for oral solution and tablets for the prevention of CMV disease in pediatric heart transplant patients 4 months to 16 years of age is based on two studies (Study 1 described above and Study 3) and was supported by previous demonstration of efficacy in adult patients [see Clinical Pharmacology (12.3), Clinical Studies (14.2)].
+Study 3 was a pharmacokinetic and safety study of valganciclovir in pediatric heart transplant patients less than 4 months of age who received a single dose of valganciclovir oral solution on each of two consecutive days.
+A physiologically based pharmacokinetic (PBPK) model was developed based on the available pharmacokinetic data from pediatric and adult patients to support dosing in heart transplant patients less than 1 month of age.
+However, due to uncertainty in model predictions for neonates, valganciclovir is not indicated for prophylaxis in this age group.
 
-- Prevention of CMV disease in liver transplant patients
-- Prevention of CMV disease in solid organ transplants other than those indicated
-- Prevention of CMV disease in pediatric solid organ transplant patients < 4 months of age
-- Treatment of congenital CMV disease
+The safety and efficacy of valganciclovir for oral solution and tablets have not been established in children for prevention of CMV disease in pediatric liver transplant patients, in kidney transplant patients less than 4 months of age, in heart transplant patients less than 1 month of age, in pediatric AIDS patients with CMV retinitis, and in infants with congenital CMV infection.
 
-The pharmacokinetic profile and safety of valganciclovir for oral solution in children were studied in two open-label studies.
+A pharmacokinetic and pharmacodynamic evaluation of valganciclovir for oral solution was performed in 24 neonates with congenital CMV infection involving the central nervous system.
+All patients were treated for 6 weeks with a combination of intravenous ganciclovir 6 mg per kg twice daily or valganciclovir for oral solution at doses ranging from 14 mg per kg to 20 mg per kg twice daily.
+The pharmacokinetic results showed that in infants greater than 7 days to 3 months of age, a dose of 16 mg per kg twice daily of valganciclovir for oral solution provided ganciclovir systemic exposures (median AUC0-12h = 23.6 [range 16.8 to 35.5] mcg∙h/mL; n = 6) comparable to those obtained in infants up to 3 months of age from a 6 mg per kg dose of intravenous ganciclovir twice daily (AUC0-12h = 25.3 [range 2.4 to 89.7] mcg∙h/mL; n = 18) or to the ganciclovir systemic exposures obtained in adults from a 900 mg dose of valganciclovir tablets twice daily.
+However, the efficacy and safety of intravenous ganciclovir and of valganciclovir have not been established for the treatment of congenital CMV infection in infants and no similar disease occurs in adults; therefore, efficacy cannot be extrapolated from intravenous ganciclovir use in adults.
 
-Study 1 was an open-label trial with oral valganciclovir (valganciclovir for oral solution or tablets) in pediatric solid organ transplant recipients at risk for developing CMV disease [see Clinical Pharmacology (12.3), Clinical Studies (14.2)].
-
-Study 2 was a pharmacokinetic and pharmacodynamic evaluation of valganciclovir for oral solution in neonates with congenital CMV infection involving the central nervous system.
-Twenty-four neonates were enrolled in this study.
-All patients were treated for 6 weeks with a combination of intravenous ganciclovir 6 mg/kg twice daily and valganciclovir for oral solution at doses ranging from 14 mg/kg to 20 mg/kg twice daily.
-The pharmacokinetic results showed that in infants > 7 days to 3 months of age, a dose of 16 mg/kg twice daily of valganciclovir for oral solution provided ganciclovir systemic exposures (median AUC0-12h = 23.6 [range 16.8 – 35.5] μg·h/mL; n = 6) comparable to those obtained in infants up to 3 months from a 6 mg/kg dose of intravenous ganciclovir twice daily (AUC0-12h = 25.3 [range 2.4 – 89.7] μg·h/mL; n = 18) or to the ganciclovir systemic exposures obtained in adults from a 900 mg dose of valganciclovir tablets twice daily.
-
-The safety and efficacy of intravenous ganciclovir have not been established for the treatment of congenital CMV infection in infants and no similar disease occurs in adults; therefore, efficacy cannot be extrapolated from intravenous ganciclovir use in adults.
+Pediatric use information for pediatric kidney transplant patients ages 4 months to 16 years and for pediatric heart transplant patients ages 1 to less than 4 months is approved for Roche Palo Alto LLC’s VALCYTE (valganciclovir hydrochloride) tablets and oral solution.
+However, due to Roche Palo Alto LLC’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 8.5 Geriatric Use
 
@@ -61,7 +100,7 @@ In addition, renal function should be monitored and dosage adjustments should be
 
 Dose reduction is recommended when administering valganciclovir to patients with renal impairment [see Dosageand Administration (2.5), Warnings and Precautions (5.5), Clinical Pharmacology (12.3)].
 
-For adult patients on hemodialysis (CrCl <10 mL/min) valganciclovir tablets should not be used.
+For adult patients on hemodialysis (CrCl less than10 mL/min) valganciclovir tablets should not be used.
 Adult hemodialysis patients should use ganciclovir in accordance with the dose-reduction algorithm cited in the Cytovene® -IV and ganciclovir capsules complete product information section on DOSAGE AND ADMINISTRATION: Renal Impairment [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment

@@ -8,18 +8,11 @@ Valganciclovir tablets USP are indicated for the treatment of CMV retinitis in p
 
 Prevention of CMV Disease:
 
-Valganciclovir tablets USP are indicated for the prevention of CMV disease in kidney, heart, or kidney-pancreas transplant patients at high risk (Donor CMV seropositive/Recipient CMV seronegative [D+/R-]) [see Clinical Studies (14.1)].
+Valganciclovir tablets USP are indicated for the prevention of CMV disease in kidney, heart, and kidney-pancreas transplant patients at high risk (Donor CMV seropositive/Recipient CMV seronegative [D+/R-]) [see Clinical Studies (14.1)].
 
 ## 1.2 Pediatric Patients
 
-Prevention of CMV Disease: Valganciclovir tablets USP are indicated for the prevention of CMV disease in kidney or heart transplant patients (4 months to 16 years of age) at high risk [see Clinical Studies (14.2)].
+Prevention of CMV Disease: Valganciclovir tablets USP are indicated for the prevention of CMV disease in heart transplant patients (4 months to 16 years of age) at high risk [see Clinical Studies (14.2)].
 
-## 1.3 Limitations of Use
-
-Valganciclovir tablet USP is not indicated for use in either adult or pediatric liver transplant patients [see Clinical Studies (14.1, 14.2)].
-
-The safety and efficacy of valganciclovir tablets USP have not been established for:
-
-- Prevention of CMV disease in solid organ transplants other than those indicated [see Clinical Studies (14.1, 14.2)].
-- Prevention of CMV disease in pediatric solid organ transplant patients < 4 months of age [see Clinical Studies (14.2)].
-- Treatment of congenital CMV disease [see Use in Specific Populations (8.4)]
+Pediatric use information for pediatric kidney transplant patients ages 4 months to 16 years and for pediatric heart transplant patients ages 1 to less than 4 months is approved for Roche Palo Alto LLC’s VALCYTE (valganciclovir hydrochloride) tablets and oral solution.
+However, due to Roche Palo Alto LLC’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.

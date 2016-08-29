@@ -1,6 +1,8 @@
-# BOXED WARNING
+# WARNING: HEMATOLOGIC TOXICITY, IMPAIRMENT OF FERTILITY, FETAL TOXICITY, MUTAGENESIS AND CARCINOGENESIS
 
-WARNING: HEMATOLOGIC TOXICITY, CARCINOGENICITY,TERATOGENICITY, AND IMPAIRMENT OF FERTILITY
+WARNING: HEMATOLOGIC TOXICITY, IMPAIRMENT OF FERTILITY, FETAL TOXICITY, MUTAGENESIS AND CARCINOGENESIS
 
-- Clinical toxicity of valganciclovir which is metabolized to ganciclovir includes granulocytopenia, anemia and thrombocytopenia [see Warnings and Precautions (5.1)].
-- In animal studies, ganciclovir was carcinogenic, teratogenic, and caused aspermatogenesis [see Warnings and Precautions (5.2, 5.3, 5.4)].
+- Hematologic Toxicity: Severe leukopenia, neutropenia, anemia, thrombocytopenia, pancytopenia, bone marrow aplasia and aplastic anemia have been reported in patients treated with valganciclovir [see Warnings and Precautions (5.1)].
+- Impairment of Fertility: Based on animal data, valganciclovir may cause temporary or permanent inhibition of spermatogenesis [see Warnings and Precautions (5.2)].
+- Fetal Toxicity: Based on animal data, valganciclovir has the potential to cause birth defects in humans [see Warnings and Precautions (5.3)].
+- Mutagenesis and Carcinogenesis: Based on animal data, valganciclovir has the potential to cause cancers in humans [see Warnings and Precautions (5.4)].
