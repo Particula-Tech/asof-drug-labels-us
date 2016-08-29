@@ -81,25 +81,25 @@ Table 1 Pharmacokinetic Parameters for MPA [mean (±SD)] Following Administratio
 
 |  | Dose/Route | Tmax | Cmax | Total AUC |
 | --- | --- | --- | --- | --- |
-|  |  | (h) | (mcg/mL) | (mcg•h/mL) |
+|  |  | (h) | (μg/mL) | (μg•h/mL) |
 | Healthy Volunteers | 1 g/oral | 0.80 (±0.36) | 24.5(±9.5) | 63.9(±16.2) |
 | (single dose) |  | (n=129) | (n=129) | (n=117) |
 | Renal Transplan | Dose/Route | Tmax | Cmax | Interdosing |
-| Patients (bid dosing) |  | (h) | (mcg/mL) | Interval |
-| Time After Transplantation |  |  |  | AUC(0-12h) (mcg•h/mL) |
+| Patients (bid dosing) |  | (h) | (μg/mL) | Interval |
+| Time After Transplantation |  |  |  | AUC(0-12h) (μg•h/mL) |
 | 5 days | 1 g/iv | 1.58 (±0.46) (n=31) | 12.0 (±3.82) (n=31) | 40.8 (±11.4) (n=31) |
 | 6 days | 1 g/oral | 1.33 (±1.05) (n=31) | 10.7 (±4.83) (n=31) | 32.9 (±15.0) (n=31) |
 | Early (<40 days) | 1 g/oral | 1.31 (±0.76) (n=25) | 8.16 (±4.50) (n=25) | 27.3 (±10.9) (n=25) |
 | Early (<40 days) | 1.5 g/oral | 1.21 (±0.81) (n=27) | 13.5 (±8.18) (n=27) | 38.4 (±15.4) (n=27) |
 | Late (>3 months) | 1.5 g/oral | 0.90 (±0.24) (n=23) | 24.1 (±12.1) (n=23) | 65.3 (±35.4) (n=23) |
 | Cardiac Transplant | Dose/Route | Tmax | Cmax | Interdosing |
-| Patients (bid dosing) |  | (h) | (mcg/mL) | Interval |
-| Time After Transplantation |  |  |  | AUC(0-12h) (mcg•h/mL) |
+| Patients (bid dosing) |  | (h) | (μg/mL) | Interval |
+| Time After Transplantation |  |  |  | AUC(0-12h) (μg•h/mL) |
 | Early (Day before discharge) | 1.5 g/oral | 1.8 (±1.3) (n=11) | 11.5 (±6.8) (n=11) | 43.3 (±20.8) (n=9) |
 | Late (>6 months) | 1.5 g/oral | 1.1 (±0.7) (n=52) | 20.0 (±9.4) (n=52) | 54.1AUC (0-12h) values quoted are extrapolated from data from samples collected over 4 hours. (±20.4) (n=49) |
 | Hepatic Transplant | Dose/Route | Tmax | Cmax | Interdosing |
-| Patients (bid dosing) |  | (h) | (mcg/mL) | Interval |
-| Time After Transplantation |  |  |  | AUC(0-12h) (mcg•h/mL) |
+| Patients (bid dosing) |  | (h) | (μg/mL) | Interval |
+| Time After Transplantation |  |  |  | AUC(0-12h) (μg•h/mL) |
 | 4 to 9 days | 1 g/iv | 1.50 (±0.517) (n=22) | 17.0 (±12.7) (n=22) | 34.0 (±17.4) (n=22) |
 | Early (5 to 8 days) | 1.5 g/oral | 1.15 (±0.432) (n=20) | 13.1 (±6.76) (n=20) | 29.2 (±11.9) (n=20) |
 | Late (>6 months) | 1.5 g/oral | 1.54 (±0.51) (n=6) | 19.3 (±11.7) (n=6) | 49.3 (±14.8) (n=6) |
@@ -115,7 +115,7 @@ Table 2 Pharmacokinetic Parameters for MPA [mean (±SD)] Following Single Doses 
 
 | Renal Impairment | Dose | Tmax | Cmax | AUC(0-96h) |
 | --- | --- | --- | --- | --- |
-| (no. of patients) |  | (h) | (mcg/mL) | (mcg•h/mL) |
+| (no. of patients) |  | (h) | (μg/mL) | (μg•h/mL) |
 | Healthy Volunteers |  |  |  |  |
 | GFR >80 mL/min/1.73 m2 |  |  |  |  |
 | (n=6) | 1 g | 0.75 (±0.27) | 25.3 (±7.99) | 45.0 (±22.6) |
@@ -128,7 +128,7 @@ Table 2 Pharmacokinetic Parameters for MPA [mean (±SD)] Following Single Doses 
 | Severe Renal Impairment |  |  |  |  |
 | GFR <25 mL/min/1.73 m2 |  |  |  |  |
 | (n=7) | 1 g | 1.00 (±0.41) | 16.3 (±10.8) | 78.6 (±46.4) |
-| Hepatic Impairment (no. of patients) | Dose | Tmax(h) | Cmax (mcg/mL) | AUC(0-48h) (mcg•h/mL) |
+| Hepatic Impairment (no. of patients) | Dose | Tmax(h) | Cmax (μg/mL) | AUC(0-48h) (μg•h/mL) |
 | Healthy Volunteers (n=6) | 1 g | 0.63 (±0.14) | 24.3 (±5.73) | 29.0 (±5.78) |
 | Alcoholic Cirrhosis (n=18) | 1 g | 0.85 (±0.58) | 22.4 (±10.1) | 29.8 (±10.7) |
 
@@ -139,20 +139,20 @@ Plasma MPA AUC observed after oral dosing to volunteers with severe chronic rena
 In addition, the single-dose plasma MPAG AUC was 3-fold to 6-fold higher in volunteers with severe renal impairment than in volunteers with mild renal impairment or healthy volunteers, consistent with the known renal elimination of MPAG.
 No data are available on the safety of long-term exposure to this level of MPAG.
 
-Plasma MPA AUC observed after single-dose (1 g) intravenous dosing to volunteers (n=4) with severe chronic renal impairment (GFR <25 mL/min/1.73 m2) was 62.4 mcg•h/mL (±19.3).
+Plasma MPA AUC observed after single-dose (1 g) intravenous dosing to volunteers (n=4) with severe chronic renal impairment (GFR <25 mL/min/1.73 m2) was 62.4 μg•h/mL (±19.3).
 Multiple dosing of mycophenolate mofetil in patients with severe chronic renal impairment has not been studied (see PRECAUTIONS: Patients with Renal Impairment and DOSAGE AND ADMINISTRATION).
 
 In patients with delayed renal graft function posttransplant, mean MPA AUC(0-12h) was comparable to that seen in posttransplant patients without delayed renal graft function.
 There is a potential for a transient increase in the free fraction and concentration of plasma MPA in patients with delayed renal graft function.
 However, dose adjustment does not appear to be necessary in patients with delayed renal graft function.
-Mean plasma MPAG AUC (0-12h) was 2-fold to 3-fold higher than in posttransplant patients without delayed renal graft function (see PRECAUTIONS: Patients with Renal Impairment and DOSAGE AND ADMINISTRATION).
+Mean plasma MPAG AUC(0-12h) was 2-fold to 3-fold higher than in posttransplant patients without delayed renal graft function (see PRECAUTIONS: Patients with Renal Impairment and DOSAGE AND ADMINISTRATION).
 
 In 8 patients with primary graft non-function following renal transplantation, plasma concentrations of MPAG accumulated about 6-fold to 8-fold after multiple dosing for 28 days.
 Accumulation of MPA was about 1-fold to 2-fold.
 
 The pharmacokinetics of mycophenolate mofetil are not altered by hemodialysis.
 Hemodialysis usually does not remove MPA or MPAG.
-At high concentrations of MPAG (>100 mcg/mL), hemodialysis removes only small amounts of MPAG.
+At high concentrations of MPAG (>100 μg/mL), hemodialysis removes only small amounts of MPAG.
 
 ## Hepatic Insufficiency
 
@@ -161,7 +161,7 @@ However, it should be noted that for unexplained reasons, the healthy volunteers
 Effects of hepatic disease on this process probably depend on the particular disease.
 Hepatic disease with other etiologies, such as primary biliary cirrhosis, may show a different effect.
 In a single-dose (1 g intravenous) study of 6 volunteers with severe hepatic impairment (aminopyrine breath test less than 0.2% of dose) due to alcoholic cirrhosis, MMF was rapidly converted to MPA.
-MPA AUC was 44.1 mcg•h/mL (±15.5).
+MPA AUC was 44.1 μg•h/mL (±15.5).
 
 ## Pediatrics
 
@@ -170,25 +170,25 @@ The pharmacokinetic data for MPA is provided in Table 3.
 
 Table 3 Mean (± SD) Computed Pharmacokinetic Parameters for MPA by Age and Time after Allogeneic Renal Transplantation
 
-| Age Group (n) | Time | Tmax | Dose Adjusteda | Dose Adjusteda |
+| Age Group (n) | Time | Tmax | Dose Adjusted* | Dose Adjusted* |
 | --- | --- | --- | --- | --- |
-|  |  | (h) | Cmax(mcg/mL) | AUC(0-12) (mcg•h/mL) |
-| 1 to <2 yr (6)d |  | 3.03 (4.70) | 10.3 (5.80) | 22.5 (6.66) |
+|  |  | (h) | Cmax(μg/mL) | AUC(0-12) (μg•h/mL) |
+| 1 to <2 yr (6)† |  | 3.03 (4.70) | 10.3 (5.80) | 22.5 (6.66) |
 | 1 to <6 yr (17) | Early (Day 7) | 1.63 (2.85) | 13.2 (7.16) | 27.4 (9.54) |
 | 6 to <12 yr (16) |  | 0.940 (0.546) | 13.1 (6.30) | 33.2 (12.1) |
-| 12 to 18 yr (21) |  | 1.16 (0.830) | 11.7 (10.7) | 26.3 (9.14)b |
-| 1 to <2 yr (4)d |  | 0.725 (0.276) | 23.8 (13.4) | 47.4 (14.7) |
+| 12 to 18 yr (21) |  | 1.16 (0.830) | 11.7 (10.7) | 26.3 (9.14)‡ |
+| 1 to <2 yr (4)† |  | 0.725 (0.276) | 23.8 (13.4) | 47.4 (14.7) |
 | 1 to <6 yr (15) | Late (Month 3) | 0.989 (0.511) | 22.7 (10.1) | 49.7 (18.2) |
 | 6 to <12 yr (14) |  | 1.21 (0.532) | 27.8 (14.3) | 61.9 (19.6) |
-| 12 to 18 yr (17) |  | 0.978 (0.484) | 17.9 (9.57) | 53.6 (20.3)c |
-| 1 to <2 yr (4)d |  | 0.604 (0.208) | 25.6 (4.25) | 55.8 (11.6) |
+| 12 to 18 yr (17) |  | 0.978 (0.484) | 17.9 (9.57) | 53.6 (20.3)§ |
+| 1 to <2 yr (4)† |  | 0.604 (0.208) | 25.6 (4.25) | 55.8 (11.6) |
 | 1 to <6 yr (12) | Late (Month 9) | 0.869 (0.479) | 30.4 (9.16) | 61.0 (10.7) |
 | 6 to <12 yr (11) |  | 1.12 (0.462) | 29.2 (12.6) | 66.8 (21.2) |
 | 12 to 18 yr (14) |  | 1.09 (0.518) | 18.1 (7.29) | 56.7 (14.0) |
-| aadjusted to a dose of 600 mg/m2 |  |  |  |  |
-| bn=20 |  |  |  |  |
-| cn=16 |  |  |  |  |
-| da subset of 1 to <6 yr |  |  |  |  |
+| *adjusted to a dose of 600 mg/m2 |  |  |  |  |
+| ‡n=20 |  |  |  |  |
+| §n=16 |  |  |  |  |
+| †a subset of 1 to <6 yr |  |  |  |  |
 
 The Mycophenolate Mofetil oral suspension dose of 600 mg/m2 bid (up to a maximum of 1 g bid) achieved mean MPA AUC values in pediatric patients similar to those seen in adult renal transplant patients receiving mycophenolate mofetil capsules at a dose of 1 g bid in the early posttransplant period.
 There was wide variability in the data.

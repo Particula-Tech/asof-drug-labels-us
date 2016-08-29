@@ -4,6 +4,8 @@ Mycophenolate mofetil capsules, USP
 
 Mycophenolate mofetil tablets, USP
 
+(mye'' koe fen' oh late moe' fe til)
+
 Read the Medication Guide that comes with mycophenolate mofetil before you start taking it and each time you refill your prescription.
 There may be new information.
 This Medication Guide does not take the place of talking with your doctor about your medical condition or your treatment.
@@ -12,8 +14,8 @@ What is the most important information I should know about mycophenolate mofetil
 
 Mycophenolate mofetil can cause serious side effects:
 
-- Increased risk of loss of a pregnancy (miscarriage) and higher risk of birth defects.
-  Females who take mycophenolate mofetil during pregnancy have a higher risk of miscarriage during the first 3 months (first trimester), and a higher risk that their baby will be born with birth defects.
+- Increased risk ofloss of a pregnancy(miscarriage) and higher risk of birth defects.
+  Females who take mycophenolate mofetil during pregnancy have a higher risk ofmiscarriage during the first 3 months (first trimester), and a higher risk that their baby will be born with birth defects.
 
 If you are a female who can become pregnant:
 
@@ -108,15 +110,14 @@ Tell your doctor about all of your medical conditions, if you:
 - have Phenylketonuria (PKU).
 - have Lesch-Nyhan or Kelley-Seegmifier syndrome or another rare inherited deficiency hypoxanthine-guanine phosphoribosyl-transferase (HGPRT).
   You should not take mycophenolate mofetil if you have one of these disorders.
-- plan to receive any vaccines.
-  People taking Mycophenolate mofetil should not take live vaccines.
+- plan to receive any vaccines.People taking Mycophenolate mofetil should not take live vaccines.
   Some vaccines may not work as well during treatment with mycophenolate mofetil.
 - are pregnant or are planning to become pregnant See "What is the most important information I should know about mycophenolate mofetil?"
-- are breastfeeding or plan to breastfeed.
+- are breastfeedingor plan to breastfeed.
   It is not known if mycophenolate mofetil passes into breast milk.
   You and your doctor will decide if you will take mycophenolate mofetil or breastfeed.
 
-Tell your doctor about all of the medicines you are taking including prescription and nonprescription medicines, vitamins and herbal supplements.
+Tell your healthcare provider about all of the medicines you are taking including prescription and nonprescription medicines, vitamins and herbal supplements.
 Some medicines may affect the way mycophenolate mofetil works, and mycophenolate mofetil may affect how some medicines work.
 Especially tell your doctor if you take:
 
@@ -124,18 +125,18 @@ Especially tell your doctor if you take:
   See "What is the most important information I should know about mycophenolate mofetil?"
 - sevelamer (Renagel®, RenvelaTM).
   These products should be taken 2 hours after taking mycophenolate mofetil
-- acyclovir (Zovirax®), valacyclovir (Valtrex®), ganciclovir (CYTOVENE® -IV, Vitrasert) Valgancyclovir (VALCYTE®)
+- acyclovir (Zovirax®), valacyclovir (Valtrex®), ganciclovir (CYTOVENE®-IV, Vitrasert) Valgancyclovir (VALCYTE®)
 - rifampin (Rifater®, Rifamate®, Rimactane®, Rifadin®)
 - antacids that contain magnesium and aluminum (Mycophenolate mofetil and the antacid should not be taken at the same time)
 - proton pump inhibitors (PPIs) (Prevacid®, Protonix®)
 - sulfamethoxazole/trimethoprim (BACTRIMTM, BACTRIM DSTM)
-- norfioxacin (Noroxin®) and metronidazole (Flagyl®, Flagyl® ER, Flagyl® IV, Metro IV, Helidac, PyleraTM)
-- ciprofloxacin (Cipro®, Cipro® XR, Ciloxan®, Proquin® XR) and amoxicillin plus clavulanic acid (Augmentin®, Augmentin XR™)
+- norfioxacin (Noroxin®) and metronidazole (Flagyl®, Flagyl®ER, Flagyl®IV, Metro IV, Helidac, PyleraTM)
+- ciprofloxacin (Cipro®, Cipro®XR, Ciloxan®, Proquin®XR) and amoxicillin plus clavulanic acid (Augmentin®, Augmentin XR™)
 - azathioprine (Azasan®, Imuran®)
 - cholestyramine (Questran Light®, Questran®, Locholest Light, Locholest, Prevalite®)
 
 Know the medicines you take.
-Keep a list of them to show to your doctor and pharmacist when you get a new medicine.
+Keep a list of them to show to your doctor or nurse and pharmacist when you get a new medicine.
 Do not take any new medicine without talking with your doctor.
 
 How should I take mycophenolate mofetil?
@@ -146,9 +147,9 @@ How should I take mycophenolate mofetil?
   If it is time for your next dose, skip the missed dose and take your next dose at your normal scheduled time.
   Do not take 2 doses at the same time.
   Call your doctor if you are not sure what to do.
-- Take mycophenolate mofetil capsules, USP and mycophenolate mofetil tablets, USP on an empty stomach, either 1 hour before or 2 hours after a meal, unless your doctor tells you otherwise.
-  With the approval of your doctor, in stable kidney transplant patients, mycophenolate Mofetil can be taken with food if necessary.
-- Most people take mycophenolate Mofetil by mouth as ivory capsules or pinkish brown tablets.
+- Take mycophenolate mofetil capsules, USP and mycophenolate mofetil tablets, USP on an empty stomach, either 1 hour before or 2 hours after a meal, unless your healthcare provider tells you otherwise.
+  With the approval of your healthcare provider, in stable kidney transplant patients, mycophenolate Mofetil can be taken with food if necessary.
+- Most people take mycophenolate Mofetil by mouth either as ivory capsules or pinkish brown tablets.
   Some people may get mycophenolate mofetil soon after their transplant surgery as an infusion into a vein.
 - Do not crush mycophenolate mofetil tablets, USP.
   Do not open or crush mycophenolate mofetil capsules, USP.
@@ -157,11 +158,10 @@ How should I take mycophenolate mofetil?
 What should I avoid while taking mycophenolate mofetil?
 
 - Avoid pregnancy.
-  See "What is the most important information I should know about mycophenolate mofetil?"
+  See"What is the most important information I should know about mycophenolate mofetil?"
 - Limit the amount of time you spend in sunlight.
   Avoid using tanning beds or sunlamps.
-  People who take mycophenolate mofetil have a higher risk of getting skin cancer.
-  (See "What is the most important information I should know about Mycophenolate Mofetil?")
+  People who take mycophenolate mofetil have a higher risk of getting skin cancer.(See "What is the most important information I should know about Mycophenolate Mofetil?")
   Wear protective clothing when you are in the sun and use a sunscreen with a high protection factor (SPF 30 and above).
   This is especially important if your skin is very fair or if you have a family history of skin cancer.
 
@@ -169,14 +169,14 @@ What are the possible side effects of mycophenolate mofetil?
 
 Mycophenolate mofetil can cause serious side effects:
 
-- See "What is the most important information I should know about mycophenolate mofetil?"
+- See"What is the most important information I should know about mycophenolate mofetil?"
 - Low blood cell counts.
   People taking high doses of mycophenolate mofetil each day may have a decrease in blood counts, including.
 - White blood cells, especially neutrophils.
   Neutrophils fight against bacterial infections.
   You have a higher chance of getting an infection when your white blood cell count is low.
   This is most common from 3 months to 6 months after your transplant.
-- red blood cells.
+- red bloodcells.
   Red blood cells carry oxygen to your body tissues.
   You have higher chances of getting severe anemia when your red blood cell count is low.
 - platelets.
@@ -221,9 +221,8 @@ You may report side effects to the FDA at 1-800-FDA- 1088 or to Strides Pharma I
 How should I store mycophenolate mofetil?
 
 - Store mycophenolate mofetil tablets USP and mycophenolate mofetil capsules USP at 20° to 25°C (68° to 77°F).
-  [See USP controlled room temperature].
   Keep the container closed tightly.
-- Keep mycophenolate mofetil and all medicines out of the reach of children
+- Keepmycophenolate mofetil and all medicines out of the reach of children
 
 General Information about mycophenolate mofetil
 
@@ -251,13 +250,9 @@ The opadry brown contains FD & C blue #1 aluminum lake, FD & C red #40 aluminum 
 
 This Medication Guide has been approved by the US Food and Drug Administration.
 
-CELLCEPT, CYTOVENE-IV, and VALCYTE are registered trademarks of Hoffmann-La Roche Inc.
-
-BACTRIM and BACTRIM DS are trademarks of Hoffmann-La Roche Inc.
-
 Manufactured by:
 
-Strides Arcolab Limited
+Strides Shasun Limited
 
 Bangalore – 560076, India
 
@@ -265,8 +260,6 @@ Distributed by:
 
 Strides Pharma Inc.
 
-201, South Main Street, Suite 3,
+East Brunswick, NJ 08816
 
-Lambertville, NJ 08530 USA
-
-Issued: October 2013
+Issued: August 2016

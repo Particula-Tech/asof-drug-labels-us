@@ -30,33 +30,33 @@ Therefore, the acute rejection rates may be underestimates, particularly in the 
 
 Table 4 Renal Transplant Studies Incidence of Treatment Failure (Biopsy-proven Rejection or Early Termination for Any Reason)
 
-| USA Studya | Mycophenolate | Mycophenolate | Azathioprine |
+| USA Study* | Mycophenolate | Mycophenolate | Azathioprine |
 | --- | --- | --- | --- |
 |  | mofetil 2 g/day | mofetil 3 g/day | 1 to 2 mg/kg/day |
 | (N=499 patients) | (n=167 patients) | (n=166 patients) | (n=166 patients) |
 | All treatment failures | 31.1% | 31.3% | 47.6% |
 | Early termination without prior acute | 9.6% | 12.7% | 6.0% |
-| rejectionb |  |  |  |
+| rejection† |  |  |  |
 | Biopsy-proven rejection episode on | 19.8% | 17.5% | 38.0% |
 | treatment |  |  |  |
-| Europe/Canada/ Australia Studyc | Mycophenolate | Mycophenolate | Azathioprine |
+| Europe/Canada/ Australia Study‡ | Mycophenolate | Mycophenolate | Azathioprine |
 |  | mofetil 2 g/day | mofetil 3 g/day | 100 to 150 mg/day |
 | (N=503 patients) | (n=173 patients) | (n=164 patients) | (n=166 patients) |
 | All treatment failures | 38.2% | 34.8% | 50.0% |
-| Early termination without prior acute rejectionb | 13.9% | 15.2% | 10.2% |
+| Early termination without prior acute rejection† | 13.9% | 15.2% | 10.2% |
 | Biopsy-proven rejection episode on treatment | 19.7% | 15.9% | 35.5% |
-| Europe Studyd | Mycophenolate | Mycophenolate | Placebo |
+| Europe Study§ | Mycophenolate | Mycophenolate | Placebo |
 |  | mofetil 2 g/day | mofetil 3 g/day |  |
 | (N=491 patients) | (n=165 patients) | (n=160 patients) | (n=166 patients) |
 | All treatment failures | 30.3% | 38.8% | 56.0% |
 | Early termination without prior acute | 11.5% | 22.5% | 7.2% |
-| rejectionb |  |  |  |
+| rejection† |  |  |  |
 | Biopsy-proven rejection episode on | 17.0% | 13.8% | 46.4% |
 | treatment |  |  |  |
-| aAntithymocyte globulin induction/MMF or azathioprine /cyclosporine/corticosteroids. |  |  |  |
-| bDoes not include death and graft loss as reason for early termination. |  |  |  |
-| cMMF or azathioprine/cyclosporine/corticosteroids. |  |  |  |
-| dMMF or placebo/cyclosporine/corticosteroids. |  |  |  |
+| *Antithymocyte globulin induction/MMF or azathioprine /cyclosporine/corticosteroids. |  |  |  |
+| †Does not include death and graft loss as reason for early termination. |  |  |  |
+| ‡MMF or azathioprine/cyclosporine/corticosteroids. |  |  |  |
+| §MMF or placebo/cyclosporine/corticosteroids. |  |  |  |
 
 The cumulative incidence of 12-month graft loss or patient death is presented below.
 No advantage of mycophenolate mofetil with respect to graft loss or patient death was established.
@@ -88,8 +88,8 @@ Patients received mycophenolate mofetil 1.5 g bid (n=289) or azathioprine 1.5 to
 The two primary efficacy endpoints were: (1) the proportion of patients who, after transplantation, had at least one endomyocardial biopsy-proven rejection with hemodynamic compromise, or were retransplanted or died, within the first 6 months, and (2) the proportion of patients who died or were retransplanted during the first 12 months following transplantation.
 Patients who prematurely discontinued treatment were followed for the occurrence of allograft rejection for up to 6 months and for the occurrence of death for 1 year.
 
-1. Rejection: No difference was established between mycophenolate mofetil and azathioprine (AZA) with respect to biopsy-proven rejection with hemodynamic compromise.
-2. Survival: Mycophenolate mofetil was shown to be at least as effective as AZA in preventing death or retransplantation at 1 year (see Table 6).
+1. Rejection:No difference was established between mycophenolate mofetil and azathioprine (AZA) with respect to biopsy-proven rejection with hemodynamic compromise.
+2. Survival:Mycophenolate mofetil was shown to be at least as effective as AZA in preventing death or retransplantation at 1 year (seeTable 6).
 
 Table 6 Rejection at 6 Months/Death or Retransplantation at 1 Year
 
@@ -98,9 +98,9 @@ Table 6 Rejection at 6 Months/Death or Retransplantation at 1 Year
 |  | AZA | Mycophenolate | AZA | Mycophenolate |
 |  | N = 323 | mofetil N = 327 | N = 289 | mofetil N = 289 |
 | Biopsy-proven rejection with |  |  |  |  |
-| hemodynamic compromise at 6 monthsa | 121 (38%) | 120 (37%) | 100 (35%) | 92 (32%) |
+| hemodynamic compromise at 6 months* | 121 (38%) | 120 (37%) | 100 (35%) | 92 (32%) |
 | Death or retransplantation at 1 year | 49 (15.2%) | 42 (12.8%) | 33 (11.4%) | 18 (6.2%) |
-| aHemodynamic compromise occurred if any of the following criteria were met: pulmonary capillary wedge pressure ≥20 mm or a 25% increase; cardiac index <2.0 L/min/m2 or a 25% decrease; ejection fraction ≤30%; pulmonary artery oxygen saturation ≤60% or a 25% decrease; presence of new S3 gallop; fractional shortening was ≤20% or a 25% decrease; inotropic support required to manage the clinical condition. |  |  |  |  |
+| *Hemodynamic compromise occurred if any of the following criteria were met: pulmonary capillary wedge pressure ≥20 mm or a 25% increase; cardiac index <2.0 L/min/m2 or a 25% decrease; ejection fraction ≤30%; pulmonary artery oxygen saturation ≤60% or a 25% decrease; presence of new S3 gallop; fractional shortening was ≤20% or a 25% decrease; inotropic support required to manage the clinical condition. |  |  |  |  |
 
 ## Hepatic Transplant
 

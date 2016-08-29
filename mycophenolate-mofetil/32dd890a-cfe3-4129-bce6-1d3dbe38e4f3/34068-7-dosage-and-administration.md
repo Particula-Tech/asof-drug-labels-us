@@ -46,6 +46,14 @@ No data are available for cardiac transplant patients with severe hepatic parenc
 
 The recommended oral dose of 1 g bid for renal transplant patients, 1.5 g bid for cardiac transplant patients, and 1.5 g bid administered orally in hepatic transplant patients is appropriate for elderly patients (see PRECAUTIONS: Geriatric Use).
 
+## Mycophenolate Intravenous
+
+### Adults
+
+Mycophenolate Intravenous is an alternative dosage form to Mycophenolate Mofetil capsules, tablets and oral suspension recommended for patients unable to take oral Mycophenolate.
+Mycophenolate Intravenous should be administered within 24 hours following transplantation.
+Mycophenolate Intravenous can be administered for up to 14 days; patients should be switched to oral Mycophenolate as soon as they can tolerate oral medication.
+
 ## Dosage Adjustments
 
 In renal transplant patients with severe chronic renal impairment (GFR <25 mL/min/1.73 m2) outside the immediate posttransplant period, doses of mycophenolate mofetil greater than 1 g administered twice a day should be avoided.

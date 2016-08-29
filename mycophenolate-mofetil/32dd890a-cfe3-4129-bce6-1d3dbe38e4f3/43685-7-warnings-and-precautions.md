@@ -5,7 +5,7 @@
 ## Embryofetal Toxicity
 
 Mycophenolate mofetil (MMF) can cause fetal harm when administered to a pregnant female.
-Use of MMF during pregnancy is associated with an increased risk of first trimester pregnancy loss and an increased risk of congenital malformations, especially external ear and other facial abnormalities including cleft lip and palate, and anomalies of the distal limbs, heart, esophagus, and kidney (see PRECAUTIONS: Pregnancy).
+Use of MMF during pregnancy is associated with an increased risk of first trimester pregnancy loss and an increased risk of congenital malformations, especially external ear and other facial abnormalities including cleft lip and palate, and anomalies of the distal limbs, heart, esophagus, kidney and nervous system (see PRECAUTIONS: Pregnancy).
 
 ## Pregnancy Exposure Prevention and Planning
 
@@ -38,11 +38,11 @@ Because of the danger of oversuppression of the immune system which can increase
 
 Polyomavirus associated nephropathy (PVAN), JC virus associated progressive multifocal leukoencephalopathy (PML), cytomegalovirus (CMV) infections, reactivation of hepatitis B (HBV) or hepatitis C (HCV) have been reported in patients treated with immunosuppressants, including mycophenolate mofetil.
 Reduction in immunosuppression should be considered for patients who develop evidence of new or reactivated viral infections.
-
 Physicians should also consider the risk that reduced immunosuppression represents to the functioning allograft.
 
 PVAN, especially due to BK virus infection, is associated with serious outcomes, including deteriorating renal function and renal graft loss (see ADVERSE REACTIONS: Postmarketing Experience).
 Patient monitoring may help detect patients at risk for PVAN.
+
 PML, which is sometimes fatal, commonly presents with hemiparesis, apathy, confusion, cognitive deficiencies, and ataxia.
 Risk factors for PML include treatment with immunosuppressant therapies and impairment of immune function (see ADVERSE REACTIONS: Postmarketing Experience).
 In immunosuppressed patients, physicians should consider PML in the differential diagnosis in patients reporting neurological symptoms and consultation with a neurologist should be considered as clinically indicated.
@@ -56,7 +56,7 @@ Monitoring infected patients for clinical and laboratory signs of active HBV or 
 
 ## Neutropenia
 
-Severe neutropenia [absolute neutrophil count (ANC) <0.5 x 103/mcL] developed in up to 2.0% of renal, up to 2.8% of cardiac, and up to 3.6% of hepatic transplant patients receiving mycophenolate mofetil 3 g daily (see ADVERSE REACTIONS).
+Severe neutropenia [absolute neutrophil count (ANC) <0.5 x 103/μL] developed in up to 2.0% of renal, up to 2.8% of cardiac, and up to 3.6% of hepatic transplant patients receiving mycophenolate mofetil 3 g daily (see ADVERSE REACTIONS).
 Patients receiving mycophenolate mofetil should be monitored for neutropenia (see PRECAUTIONS: Laboratory Tests).
 The development of neutropenia may be related to mycophenolate mofetil itself, concomitant medications, viral infections, or some combination of these causes.
 If neutropenia develops (ANC <1.3 x 103/mcL), dosing with mycophenolate mofetil should be interrupted or the dose reduced, appropriate diagnostic tests performed, and the patient managed appropriately (see DOSAGE AND ADMINISTRATION).
@@ -71,7 +71,7 @@ The mechanism for mycophenolate mofetil induced PRCA is unknown; the relative co
 In some cases, PRCA was found to be reversible with dose reduction or cessation of mycophenolate mofetil therapy.
 In transplant patients, however, reduced immunosuppression may place the graft at risk.
 
-CAUTION: MYCOPHENOLATE MOFETIL INTRAVENOUS SOLUTION SHOULD NEVER BE ADMINISTERED BY RAPID OR BOLUS INTRAVENOUS INJECTION.
+CAUTION: MYCOPHENOLATE MOFETIL INTRAVENOUS SOLUTION MUST NOT BE ADMINISTERED BY RAPID OR BOLUS INTRAVENOUS INJECTION.
 
 # PRECAUTIONS
 
@@ -121,10 +121,12 @@ OR
 |  | Injection |  |  |
 |  | Implant |  |  |
 
+OR
+
 | Option 3 | Barrier Methods |  | Barrier Methods |
 | --- | --- | --- | --- |
 |  | choose 1 |  | choose 1 |
-| Choose One Barrier | Estrogen and Progesterone | AND |  |
+| Choose One Barrier |  | AND |  |
 | Method from each column | Diaphragm with spermicide |  | Male condom |
 | (must choose two methods) | Cervical cap with spermicide Contraceptive sponge |  | Female condom |
 
@@ -155,7 +157,7 @@ Mycophenolate mofetil may be used for cardiac or hepatic transplant patients wit
 In patients with delayed renal graft function posttransplant, mean MPA AUC(0-12h) was comparable, but MPAG AUC(0-12h) was 2-fold to 3-fold higher, compared to that seen in posttransplant patients without delayed renal graft function.
 In the three controlled studies of prevention of renal rejection, there were 298 of 1483 patients (20%) with delayed graft function.
 Although patients with delayed graft function have a higher incidence of certain adverse events (anemia, thrombocytopenia, hyperkalemia) than patients without delayed graft function, these events were not more frequent in patients receiving Mycophenolate mofetil than azathioprine or placebo.
-No dose adjustment is recommended forthese patients; however, they should be carefully observed (see CLINICAL PHARMACOLOGY: Pharmacokinetics and DOSAGE AND ADMINISTRATION).
+No dose adjustment is recommended for these patients; however, they should be carefully observed (see CLINICAL PHARMACOLOGY: Pharmacokinetics and DOSAGE AND ADMINISTRATION).
 
 ## Infections in Cardiac Transplant Patients
 
@@ -166,17 +168,13 @@ There were more herpes virus (H. simplex, H. zoster, and cytomegalovirus) infect
 ## Concomitant Medications
 
 It is recommended that Mycophenolate mofetil not be administered concomitantly with azathioprine because both have the potential to cause bone marrow suppression and such concomitant administration has not been studied clinically.
+
 In view of the significant reduction in the AUC of MPA by cholestyramine, caution should be used in the concomitant administration of mycophenolate mofetil with drugs that interfere with enterohepatic recirculation because of the potential to reduce the efficacy of Mycophenolate mofetil (see PRECAUTIONS: Drug Interactions).
 
 ## Patients with HGPRT Deficiency
 
-On theoretical grounds, because Mycophenolate mofetil is an IMPDH (inosine monophosphate dehydrogenase) inhibitor, it should be avoided in patients with rare hereditary deficiency of hypoxanthine-guanine phosphoribosyl-transferase (HGPRT) such as Lesch-Nyhan and Kelley-Seegmiller syndrome
+Mycophenolate mofetil is an IMPDH (inosine monophosphate dehydrogenase) inhibitor; therefore it should be avoided in patients with rare hereditary deficiency of hypoxanthine-guanine phosphoribosyl-transferase (HGPRT) such as Lesch-Nyhan and Kelley-Seegmiller syndrome
 
 ## Immunizations
 
 During treatment with mycophenolate mofetil,the use of live attenuated vaccines should be avoided and patients should be advised that vaccinations may be less effective (see PRECAUTIONS: Drug Interactions: Live Vaccines).
-
-## Phenylketonurics
-
-Mycophenolate mofetil Oral Suspension contains aspartame, a source of phenylalanine (0.56 mg phenylalanine/mL suspension).
-Therefore, care should be taken if mycophenolate Mofetil Oral Suspension is administered to patients with phenylketonuria.

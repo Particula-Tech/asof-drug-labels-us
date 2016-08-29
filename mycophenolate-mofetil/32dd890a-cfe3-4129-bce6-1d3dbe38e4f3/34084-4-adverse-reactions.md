@@ -126,7 +126,7 @@ Severe neutropenia (ANC <0.5 x 103/mcL) developed in up to 2.0% of renal transpl
 
 All transplant patients are at increased risk of opportunistic infections.
 The risk increases with total immunosuppressive load (see WARNINGS: Serious Infections and WARNINGS: New or Reactivated Viral Infections).
-Table 9 shows the incidence of opportunistic infections that occurred in the renal, cardiac, and hepatic transplant populations in the azathioprine-controlled prevention trials:
+Table 10 shows the incidence of opportunistic infections that occurred in the renal, cardiac, and hepatic transplant populations in the azathioprine-controlled prevention trials:
 
 Table 10 Viral and Fungal Infections in Controlled Studies in Prevention of Renal, Cardiac or Hepatic Transplant Rejection
 
@@ -169,7 +169,7 @@ Table 11 Adverse Events Reported in 3% to <20% of Patients Treated with Mycophen
 | Digestive | anorexia, cholangitis, cholestatic jaundice, dysphagia, esophagitis, flatulence, gastritis, gastroenteritis, gastrointestinal disorder, gastrointestinal hemorrhage, gastrointestinal moniliasis, gingivitis, gum hyperplasia, hepatitis, ileus, infection, jaundice, liver damage, liver function tests abnormal, melena, mouth ulceration, nausea and vomiting, oral moniliasis, rectal disorder, stomach ulcer, stomatitis |
 | Respiratory | apnea, asthma, atelectasis, bronchitis, epistaxis, hemoptysis, hiccup, hyperventilation, lung edema, lung disorder, neoplasm, pain, pharyngitis, pleural effusion, pneumonia, pneumothorax, respiratory disorder, respiratory moniliasis, rhinitis, sinusitis, sputum increased, voice alteration |
 | Skin and Appendages | acne, alopecia, fungal dermatitis, hemorrhage, hirsutism, pruritus, rash, skin benign neoplasm, skin carcinoma, skin disorder, skin hypertrophy, skin ulcer, sweating, vesiculobullous rash |
-| Nervous | agitation, anxiety, confusion, convulsion, delirium, epression, dry mouth, emotional lability, hallucinations, hypertonia, hypesthesia, nervousness, neuropathy, paresthesia, psychosis, somnolence,thinking abnormal, vertigo |
+| Nervous | agitation, anxiety, confusion, convulsion, delirium, depression, dry mouth, emotional lability, hallucinations, hypertonia, hypesthesia, nervousness, neuropathy, paresthesia, psychosis, somnolence, thinking abnormal, vertigo |
 | Endocrine | Cushing’s syndrome, diabetes mellitus, hypothyroidism, parathyroid disorder |
 | Musculoskeletal | arthralgia, joint disorder, leg cramps, myalgia, myasthenia, osteoporosis |
 | Special Senses | abnormal vision, amblyopia, cataract (not specified), conjunctivitis, deafness, ear disorder, ear pain, eye hemorrhage, tinnitus, lacrimation disorder |
@@ -192,11 +192,13 @@ The safety profile of intravenous mycophenolate mofetil was similar to that of i
 
 ### Congenital Disorders:
 
-Embryofetal Toxicity: Congenital malformations and an increased incidence of first trimester pregnancy loss have been reported following exposure to mycophenolate mofetil during pregnancy (see PRECAUTIONS Pregnancy).
+Embryofetal Toxicity:
+
+Congenital malformations including ear, facial, cardiac and nervous system malformations and an increased incidence of first trimester pregnancy loss have been reported following exposure to mycophenolate mofetil during pregnancy (see PRECAUTIONS Pregnancy).
 
 ### Digestive: Colitis (sometimes caused by cytomegalovirus), pancreatitis, isolated cases of intestinal villous atrophy.
 
-### Hematologic and Lymphatic: Cases of pure red cell aplasia (PRCA) have been reported in patients treated with mycophenolate mofetil in combination with other immunosuppressive agents.
+### Hematologic and Lymphatic: Cases of pure red cell aplasia (PRCA) and hypogammaglobulinemia have been reported in patients treated with mycophenolate mofetil in combination with other immunosuppressive agents.
 
 ### Infections
 

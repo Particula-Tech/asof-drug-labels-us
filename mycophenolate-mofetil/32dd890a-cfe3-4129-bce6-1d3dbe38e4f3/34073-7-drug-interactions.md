@@ -35,15 +35,21 @@ Therefore, mycophenolate mofetil is not recommended to be given with cholestyram
 Cyclosporine (Sandimmune®) pharmacokinetics (at doses of 275 to 415 mg/day) were unaffected by single and multiple doses of 1.5 g bid of mycophenolate mofetil in 10 stable renal transplant patients.
 The mean (±SD) AUC (0-12h) and Cmax of cyclosporine after 14 days of multiple doses of mycophenolate mofetil were 3290 (±822) ng•h/mL and 753 (±161) ng/mL, respectively, compared to 3245 (±1088) ng•h/mL and 700 (±246) ng/mL, respectively, 1 week before administration of mycophenolate mofetil.
 
+Cyclosporine A interferes with MPA enterohepatic recirculation.
 In renal transplant patients, mean MPA exposure (AUC0-12h) was approximately 30-50% greater when mycophenolate mofetil is administered without cyclosporine compared with when mycophenolate mofetil is coadministered with cyclosporine.
 This interaction is due to cyclosporine inhibition of multidrug-resistance-associated protein 2 (MRP-2) transporter in the biliary tract, thereby preventing the excretion of MPAG into the bile that would lead to enterohepatic recirculation of MPA.
-This information should be taken into consideration when MMF is used without cyclosporine.
+This information should be taken into consideration when MMF is used without cyclosporine; changes in MPA exposure should be expected when switching patients from cyclosporine A to one of the immunosuppressants which do not interfere with MPA's enterohepatic cycle (e.g., tacrolimus; belatacept).
+
+## Telmisartan
+
+Concommitant administration of telmisartan and mycophenolate mofetil resulted in an approximately 30% decrease in mycophenolic acid (MPA) concentrations.
+Telmisartan changes MPA's elimination by enhancing PPAR gamma (peroxisome proliferator-activated receptor gamma) expression, which in turn results in an enhanced UGT1A9 expression and activity.
 
 ## Ganciclovir
 
 Following single-dose administration to 12 stable renal transplant patients, no pharmacokinetic interaction was observed between mycophenolate mofetil (1.5 g) and intravenous ganciclovir (5 mg/kg).
-Mean (±SD) ganciclovir AUC and Cmax (n=10) were 54.3 (±19.0) mcg•h/mL and 11.5 (±1.8) mcg/mL, respectively, after coadministration of the two drugs, compared to 51.0 (±17.0) mcg•h/mL and 10.6 (±2.0) mcg/mL, respectively, after administration of intravenous ganciclovir alone.
-The mean (±SD) AUC and Cmax of MPA (n=12) after coadministration were 80.9 (±21.6) mcg•h/mL and 27.8 (±13.9) mcg/mL, respectively, compared to values of 80.3 (±16.4) mcg•h/mL and 30.9 (±11.2) mcg/mL, respectively, after administration of mycophenolate mofetil alone.
+Mean (±SD) ganciclovir AUC and Cmax (n=10) were 54.3 (±19.0) μg•h/mL and 11.5 (±1.8) μg/mL, respectively, after coadministration of the two drugs, compared to 51.0 (±17.0) μg•h/mL and 10.6 (±2.0) μg/mL, respectively, after administration of intravenous ganciclovir alone.
+The mean (±SD) AUC and Cmax of MPA (n=12) after coadministration were 80.9 (±21.6) μg•h/mL and 27.8 (±13.9) μg/mL, respectively, compared to values of 80.3 (±16.4) μg•h/mL and 30.9 (±11.2) μg/mL, respectively, after administration of mycophenolate mofetil alone.
 Because MPAG plasma concentrations are increased in the presence of renal impairment, as are ganciclovir concentrations, the two drugs will compete for tubular secretion and thus further increases in concentrations of both drugs may occur.
 In patients with renal impairment in which MMF and ganciclovir or its prodrug (eg, valganciclovir) are coadministered, patients should be monitored carefully.
 
@@ -65,14 +71,14 @@ Alternatively, it is recommended that sevelamer and other calcium free phosphate
 ## Trimethoprim/sulfamethoxazole
 
 Following single-dose administration of mycophenolate mofetil (1.5 g) to 12 healthy male volunteers on day 8 of a 10 day course of trimethoprim 160 mg/sulfamethoxazole 800 mg administered bid, no effect on the bioavailability of MPA was observed.
-The mean (±SD) AUC and Cmax of MPA after concomitant administration were 75.2 (±19.8) mcg•h/mL and 34.0 (±6.6) mcg/mL, respectively, compared to 79.2 (±27.9) mcg•h/mL and 34.2 (±10.7) mcg/mL, respectively, after administration of mycophenolate mofetil alone.
+The mean (±SD) AUC and Cmax of MPA after concomitant administration were 75.2 (±19.8) μg•h/mL and 34.0 (±6.6) μg/mL, respectively, compared to 79.2 (±27.9) μg•h/mL and 34.2 (±10.7) μg/mL, respectively, after administration of mycophenolate mofetil alone.
 
 ## Norfloxacin and Metronidazole
 
 Following single-dose administration of mycophenolate mofetil (1 g) to 11 healthy volunteers on day 4 of a 5 day course of a combination of norfloxacin and metronidazole, the mean MPA AUC0-48h was significantly reduced by 33% compared to the administration of mycophenolate mofetil alone (p<0.05).
 Therefore, mycophenolate mofetil is not recommended to be given with the combination of norfloxacin and metronidazole.
 There was no significant effect on mean MPA AUC0-48h when mycophenolate mofetil was concomitantly administered with norfloxacin or metronidazole separately.
-The mean (±SD) MPA AUC0-48h after coadministration of mycophenolate mofetil with norfloxcin or metronidazole separately was 48.3 (±24) mcg h/mL and 42.7 (±23) mcg h/mL, respectively, compared with 56.2 (±24) mcg h/mL after administration of mycophenolate mofetil alone.
+The mean (±SD) MPA AUC0-48h after coadministration of mycophenolate mofetil with norfloxcin or metronidazole separately was 48.3 (±24) μg h/mL and 42.7 (±23) μg h/mL, respectively, compared with 56.2 (±24) μg h/mL after administration of mycophenolate mofetil alone.
 
 ## Ciprofloxacin and Amoxicillin plus Clavulanic Acid
 

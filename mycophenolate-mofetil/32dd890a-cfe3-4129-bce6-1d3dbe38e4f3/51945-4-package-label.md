@@ -26,7 +26,7 @@ Attention Pharmacist
 
 Dispense the accompanying medication guide to each patient.
 
-100 Tablets
+100 Capsules
 
 Strides Pharma Inc.
 
@@ -54,4 +54,4 @@ Attention Pharmacist
 
 Dispense the accompanying medication guide to each patient.
 
-500 Tablets
+500 Capsules
