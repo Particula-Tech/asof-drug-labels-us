@@ -80,6 +80,6 @@ Dot Matrix™ is a trademark of Noven Pharmaceuticals, Inc. Daytrana® is a regi
 
 This product is covered by US patents including for use with 6,905,016 and 8,186,506.
 
-Last Modified: 08/2015
+Last Modified: 08/2016
 
 102086-13
