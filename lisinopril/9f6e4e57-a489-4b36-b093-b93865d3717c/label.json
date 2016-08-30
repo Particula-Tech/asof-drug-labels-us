@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA208401"
+  ],
+  "inn": "lisinopril",
+  "labeler": "Silvergate Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "52652-3001-1"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "lisinopril",
+      "name": "Qbrelis"
+    }
+  ],
+  "setid": "9f6e4e57-a489-4b36-b093-b93865d3717c",
+  "source": "dailymed"
+}
