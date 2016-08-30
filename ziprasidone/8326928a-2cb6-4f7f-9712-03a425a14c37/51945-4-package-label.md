@@ -160,13 +160,15 @@ equivalent to 20 mg/mL* of ziprasidone
 
 Sterile For Intramuscular Use Only Rx only
 
-# PRINCIPAL DISPLAY PANEL - 20 mg/mL Single Dose Vial Carton
+# PRINCIPAL DISPLAY PANEL - 20 mg/mL Vial Carton
 
 NDC 0049-3920-20
 
 Single Dose Vial
 
-Geodon® for Injection (ziprasidone mesylate)
+Geodon® for Injection
+
+(ziprasidone mesylate)
 
 equivalent to 20 mg/mL* of ziprasidone
 
