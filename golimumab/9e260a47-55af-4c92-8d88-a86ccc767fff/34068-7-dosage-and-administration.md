@@ -23,12 +23,12 @@ SIMPONI ARIA solution for intravenous infusion should be diluted by a healthcare
 2. Check that the solution in each vial is colorless to light yellow.
    The solution may develop a few fine translucent particles, as golimumab is a protein.
    Do not use if opaque particles, discoloration, or other foreign particles are present.
-3. Dilute the total volume of the SIMPONI ARIA solution with 0.9% w/v sodium chloride for infusion to a final volume of 100 mL.
-   For example, this can be accomplished by withdrawing a volume of the 0.9% w/v sodium chloride solution from the 100-mL infusion bag or bottle equal to the total volume of SIMPONI ARIA.
+3. Dilute the total volume of the SIMPONI ARIA solution with 0.9% Sodium Chloride Injection, USP to a final volume of 100 mL.
+   For example, this can be accomplished by withdrawing a volume of the 0.9% Sodium Chloride Injection, USP from the 100-mL infusion bag or bottle equal to the total volume of SIMPONI ARIA.
    Slowly add the total volume of SIMPONI ARIA solution to the 100-mL infusion bag or bottle.
    Gently mix.
    Discard any unused solution remaining in the vials.
-   Alternatively, SIMPONI ARIA can be diluted using the same method described above with 0.45% w/v sodium chloride for infusion.
+   Alternatively, SIMPONI ARIA can be diluted using the same method described above with 0.45% Sodium Chloride Injection, USP.
 4. Prior to infusion, visually inspect the diluted SIMPONI ARIA solution for particulate matter or discoloration.
    Do not use if these exist.
 5. Use only an infusion set with an in-line, sterile, non-pyrogenic, low protein-binding filter (pore size 0.22 micrometer or less).

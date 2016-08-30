@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-SIMPONI ARIA is available in packs of 1 vial NDC 57894-350-01
+SIMPONI ARIA (golimumab) Injection is a colorless to light yellow solution available in packs of 1 vial NDC 57894-350-01.
 
 Vial
 
@@ -12,4 +12,3 @@ SIMPONI ARIA must be refrigerated at 2º C to 8º C (36º F to 46º F) and prote
 Keep the product in the original carton to protect from light until the time of use.
 Do not freeze.
 Do not shake.
-Do not use SIMPONI ARIA beyond the expiration date (EXP) on the vial label.
