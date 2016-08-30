@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Erythromycin Ophthalmic Ointment USP, 0.5% is available in the following sizes:
+Erythromycin Ophthalmic Ointment, USP 0.5% is available in the following sizes:
 
 1/8 oz.
 (3.5 g) tamper-resistant tube - NDC 24208-910-55
@@ -17,8 +17,8 @@ Store between 15°-25°C (59°-77°F).
 
 KEEP OUT OF REACH OF CHILDREN.
 
-Revised: January 2013
+Revised: July 2016
 
-Bausch & Lomb Incorporated Tampa, FL 33637 ©Bausch & Lomb Incorporated
+Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA ©Bausch & Lomb Incorporated
 
-9043403 (Folded) 9043503 (Flat)
+9043404 (Folded) 9043504 (Flat)

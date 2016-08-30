@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Erythromycin Ophthalmic Ointment USP belongs to the macrolide group of antibiotics.
+Erythromycin Ophthalmic Ointment, USP belongs to the macrolide group of antibiotics.
 The sterile ophthalmic ointment flows freely over the conjunctiva.
 Erythromycin base, as crystals or powder, is slightly soluble in water, moderately soluble in ether, and readily soluble in alcohol or chloroform.
 Erythromycin is an antibiotic produced from a strain of Streptomyces erythraeus.
