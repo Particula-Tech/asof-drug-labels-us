@@ -51,10 +51,10 @@ Such use could result in air embolism due to residual air being drawn from the p
 
 Preparation of NEXTERONE Premixed Injection for administration:
 
-- 1.Suspend container from eyelet support.
-- 2.Remove protector from outlet port at bottom of container.
-- 3.Attach administration set.
-  Refer to complete directions accompanying set.
+1. 1.Suspend container from eyelet support.
+2. 2.Remove protector from outlet port at bottom of container.
+3. 3.Attach administration set.
+   Refer to complete directions accompanying set.
 
 Admixture Incompatibility Amiodarone in D5W Injection forms precipitates with the drugs shown in Table 2.
 If co-administration of the following drugs is necessary, use separate intravenous administration lines.
