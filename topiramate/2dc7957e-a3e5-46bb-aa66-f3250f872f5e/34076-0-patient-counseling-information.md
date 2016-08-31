@@ -39,6 +39,7 @@ Physicians should discuss the appropriate level of caution with their patients, 
 Fetal Toxicity
 
 Counsel pregnant women and women of childbearing potential that use of topiramate during pregnancy can cause fetal harm, including an increased risk for cleft lip and/or cleft palate (oral clefts), which occur early in pregnancy before many women know they are pregnant.
+Also inform patients that infants exposed to topiramate monotherapy in utero may be small for their gestational age [see Use in Specific Populations (8.1)].
 When appropriate, prescribers should counsel pregnant women and women of childbearing potential about alternative therapeutic options.
 
 Advise women of childbearing potential who are not planning a pregnancy to use effective contraception while using topiramate, keeping in mind that there is a potential for decreased contraceptive efficacy when using estrogen-containing birth control with topiramate [see Warnings and Precautions (5.7) and Drug Interactions (7.2)].
@@ -46,7 +47,7 @@ Advise women of childbearing potential who are not planning a pregnancy to use e
 Encourage pregnant women using topiramate to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
 The registry is collecting information about the safety of antiepileptic drugs during pregnancy.
 To enroll, patients can call the toll free number, 1-888-233-2334.
-Information about the North American Drug Pregnancy Registry can be found at http://www.massgeneral.org/aed/ [see Use in Specific Populations (8.1)].
+Information about the North American Drug Pregnancy Registry can be found at http://www.aedpregnancyregistry.org/ [see Use in Specific Populations (8.1)].
 
 Hyperammonemia and Encephalopathy
 

@@ -33,31 +33,6 @@ Generally, topiramate-induced metabolic acidosis occurs early in treatment altho
 Bicarbonate decrements are usually mild to moderate (average decrease of 4 mEq/L at daily doses of 400 mg in adults and at approximately 6 mg/kg/day in pediatric patients); rarely, patients can experience severe decrements to values below 10 mEq/L.
 Conditions or therapies that predispose patients to acidosis (such as renal disease, severe respiratory disorders, status epilepticus, diarrhea, ketogenic diet or specific drugs) may be additive to the bicarbonate lowering effects of topiramate.
 
-Adults
-
-In adults, the incidence of persistent treatment-emergent decreases in serum bicarbonate (levels of less than 20 mEq/L at two consecutive visits or at the final visit) in controlled clinical trials for adjunctive treatment of epilepsy was 32% for 400 mg per day, and 1% for placebo.
-Metabolic acidosis has been observed at doses as low as 50 mg per day.
-The incidence of persistent treatment-emergent decreases in serum bicarbonate in adult patients (≥16 years of age) in the epilepsy controlled clinical trial for monotherapy was 14% for 50 mg per day and 25% for 400 mg per day.
-The incidence of a markedly abnormally low serum bicarbonate (i.e., absolute value less than 17 mEq/L and greater than 5 mEq/L decrease from pretreatment) in the adjunctive therapy trials was 3% for 400 mg per day, and 0% for placebo. and in the monotherapy trial was 1% for 50 mg per day and 6% for 400 mg per day.
-Serum bicarbonate levels have not been systematically evaluated at daily doses greater than 400 mg per day.
-
-Pediatric Patients (2 Years to 16 Years of Age)
-
-Although TROKENDI XR® is not approved for use in patients below the age of 6, the incidence of persistent treatment-emergent decreases in serum bicarbonate in placebo-controlled trials for adjunctive treatment of Lennox-Gastaut syndrome or refractory partial onset seizures in patients age 2 years to 16 years was 67% for topiramate (at approximately 6 mg/kg/day), and 10% for placebo.
-The incidence of markedly abnormally low serum bicarbonate (i.e., absolute value less than17 mEq/L and greater than 5 mEq/L decrease from pretreatment) in these trials was 11% for topiramate and 0% for placebo.
-Cases of moderately severe metabolic acidosis have been reported in patients as young as 5 months old, especially at daily doses above 5 mg/kg/day.
-
-In pediatric patients (6 years to 15 years of age), the incidence of persistent treatment-emergent decreases in serum bicarbonate in the epilepsy controlled clinical trial for monotherapy performed with topiramate was 9% for 50 mg per day and 25% for 400 mg per day.
-The incidence of a markedly abnormally low serum bicarbonate (i.e., absolute value less than 17 mEq/L and greater than 5 mEq/L decrease from pretreatment) in this trial was 1% for 50 mg per day and 6% for 400 mg per day.
-
-Pediatric Patients (Under 2 Years of Age)
-
-Although TROKENDI XR® is not approved for use in patients less than 6 years of age with partial onset seizures, a study of topiramate as adjunctive use in patients under 2 years of age revealed that topiramate produced a metabolic acidosis that is notably greater in magnitude than that observed in controlled trials in older children and adults.
-The mean treatment difference (25 mg/kg/day topiramate-placebo) was -5.9 mEq/L for bicarbonate.
-The incidence of metabolic acidosis (defined by a serum bicarbonate less than 20 mEq/L) was 0% for placebo, 30% for 5 mg/kg/day, 50% for 15 mg/kg/day, and 45% for 25 mg/kg/day.
-The incidence of markedly abnormal changes (i.e., <17 mEq/L and >5 mEq/L decrease from baseline of ≥20 mEq/L) was 0% for placebo, 4% for 5 mg/kg/day, 5% for 15 mg/kg/day, and 5% for 25 mg/kg/day.
-[see Use in Specific Populations(8.4)].
-
 Manifestations of Metabolic Acidosis
 
 Some manifestations of acute or chronic metabolic acidosis may include hyperventilation, nonspecific symptoms such as fatigue and anorexia, or more severe sequelae including cardiac arrhythmias or stupor.
@@ -68,6 +43,30 @@ The effect of topiramate on growth and bone-related sequelae has not been system
 Long-term, open-label treatment of infants/toddlers, with intractable partial epilepsy, for up to 1 year, showed reductions from baseline in Z SCORES for length, weight, and head circumference compared to age and sex-matched normative data, although these patients with epilepsy are likely to have different growth rates than normal infants.
 Reductions in Z SCORES for length and weight were correlated to the degree of acidosis [see Pediatric Use (8.4)].
 Topiramate treatment that causes metabolic acidosis during pregnancy can possibly produce adverse effects on the fetus and might also cause metabolic acidosis in the neonate from possible transfer of topiramate to the fetus [see Warnings and Precautions (5.7) and Use in Specific Populations (8.1)].
+
+Adults
+
+In adults, the incidence of persistent decreases in serum bicarbonate (levels of less than 20 mEq/L at two consecutive visits or at the final visit) in controlled clinical trials for adjunctive treatment of epilepsy was 32% for 400 mg per day, and 1% for placebo.
+Metabolic acidosis has been observed at doses as low as 50 mg per day.
+The incidence of persistent decreases in serum bicarbonate in adult patients (≥16 years of age) in the epilepsy controlled clinical trial for monotherapy was 14% for 50 mg per day and 25% for 400 mg per day.
+The incidence of a markedly abnormally low serum bicarbonate (i.e., absolute value less than 17 mEq/L and greater than 5 mEq/L decrease from pretreatment) in the adjunctive therapy trials was 3% for 400 mg per day, and 0% for placebo, and in the monotherapy trial was 1% for 50 mg per day and 6% for 400 mg per day.
+Serum bicarbonate levels have not been systematically evaluated at daily doses greater than 400 mg per day.
+
+Pediatric Patients (2 Years to 16 Years of Age)
+
+Although TROKENDI XR® is not approved for use in patients below the age of 6, the incidence of persistent decreases in serum bicarbonate in placebo-controlled trials for adjunctive treatment of Lennox-Gastaut syndrome or refractory partial onset seizures in patients age 2 years to 16 years was 67% for topiramate (at approximately 6 mg/kg/day), and 10% for placebo.
+The incidence of markedly abnormally low serum bicarbonate (i.e., absolute value less than 17 mEq/L and greater than 5 mEq/L decrease from pretreatment) in these trials was 11% for topiramate and 0% for placebo.
+Cases of moderately severe metabolic acidosis have been reported in patients as young as 5 months old, especially at daily doses above 5 mg/kg/day.
+
+In pediatric patients (6 years to 15 years of age), the incidence of persistent decreases in serum bicarbonate in the epilepsy controlled clinical trial for monotherapy performed with topiramate was 9% for 50 mg per day and 25% for 400 mg per day.
+The incidence of a markedly abnormally low serum bicarbonate (i.e., absolute value less than 17 mEq/L and greater than 5 mEq/L decrease from pretreatment) in this trial was 1% for 50 mg per day and 6% for 400 mg per day.
+
+Pediatric Patients (Under 2 Years of Age)
+
+Although TROKENDI XR® is not approved for use in patients less than 6 years of age, a study of topiramate as adjunctive use in patients under 2 years of age with partial onset seizures revealed that topiramate produced a metabolic acidosis that is notably greater in magnitude than that observed in controlled trials in older children and adults.
+The mean treatment difference (25 mg/kg/day topiramate-placebo) was -5.9 mEq/L for bicarbonate.
+The incidence of metabolic acidosis (defined by a serum bicarbonate less than 20 mEq/L) was 0% for placebo, 30% for 5 mg/kg/day, 50% for 15 mg/kg/day, and 45% for 25 mg/kg/day.
+The incidence of markedly abnormal changes (i.e., less than 17 mEq/L and greater than 5 mEq/L decrease from baseline of greater than or equal to 20 mEq/L) was 0% for placebo, 4% for 5 mg/kg/day, 5% for 15 mg/kg/day, and 5% for 25 mg/kg/day [see Use in Specific Populations(8.4)].
 
 Risk Mitigation Strategies
 
@@ -97,11 +96,11 @@ The risk of suicidal thoughts or behavior was generally consistent among drugs i
 The finding of increased risk with AEDs of varying mechanisms of action and across a range of indications suggests that the risk applies to all AEDs used for any indication.
 The risk did not vary substantially by age (5 to 100 years) in the clinical trials analyzed.
 
-Table 1 shows absolute and relative risk by indication for all evaluated AEDs.
+Table 2 shows absolute and relative risk by indication for all evaluated AEDs.
 
-Table 1: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
+Table 2: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
-| Indication | Placebo Patients with Events per 1,000 Patients | Drug Patients with Events per 1,000 Patients | Relative Risk: Incidence of Events in Drug Patients/ Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events per 1,000 Patients |
+| Indication | Placebo Patients with Events per 1,000 Patients | Drug Patients with Events per 1,000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events per 1,000 Patients |
 | --- | --- | --- | --- | --- |
 | Epilepsy | 1.0 | 3.4 | 3.5 | 2.4 |
 | Psychiatric | 5.7 | 8.5 | 1.5 | 2.9 |
@@ -138,14 +137,14 @@ In the monotherapy epilepsy controlled trial conducted with topiramate, the prop
 
 Psychiatric/Behavioral Disturbances
 
-Psychiatric/behavioral disturbances (depression or mood) were dose-related for the epilepsy population treated with topiramate [see Warnings and Precautions (5.6)].
+Psychiatric/behavioral disturbances (depression or mood) were dose-related for the epilepsy population treated with topiramate.
 
 Somnolence/Fatigue
 
 Somnolence and fatigue were the adverse reactions most frequently reported during clinical trials of topiramate for adjunctive epilepsy.
 For the adjunctive epilepsy population, the incidence of somnolence did not differ substantially between 200 mg per day and 1,000 mg per day, but the incidence of fatigue was dose-related and increased at dosages above 400 mg per day.
 For the monotherapy epilepsy population in the 50 mg per day and 400 mg per day groups, the incidence of somnolence was dose-related (9% for the 50 mg per day group and 15% for the 400 mg per day group) and the incidence of fatigue was comparable in both treatment groups (14% each).
-For other uses not approved for TROKENDI XR®, somnolence and fatigue were more common in the titration phase.
+For other uses not approved for TROKENDI XR®, somnolence and fatigue were dose-related and more common in the titration phase.
 
 Additional nonspecific CNS events commonly observed with topiramate in the adjunctive epilepsy population include dizziness or ataxia.
 
@@ -156,19 +155,19 @@ These reactions included psychomotor slowing, difficulty with concentration/atte
 The most frequently reported neuropsychiatric reactions in pediatric patients during adjunctive therapy double-blind studies were somnolence and fatigue.
 The most frequently reported neuropsychiatric reactions in pediatric patients in the 50 mg per day and 400 mg per day groups during the monotherapy double-blind study were headache, dizziness, anorexia, and somnolence.
 
-No patients discontinued treatment due to any adverse events in the adjunctive epilepsy double-blind trials.
-In the monotherapy epilepsy double-blind trial conducted with immediate-release topiramate product, 1 pediatric patient (2%) in the 50 mg per day group and 7 pediatric patients (12%) in the 400 mg per day group discontinued treatment due to any adverse events.
+No patients discontinued treatment due to any adverse reactions in the adjunctive epilepsy double-blind trials.
+In the monotherapy epilepsy double-blind trial conducted with immediate-release topiramate product, 1 pediatric patient (2%) in the 50 mg per day group and 7 pediatric patients (12%) in the 400 mg per day group discontinued treatment due to any adverse reactions.
 The most common adverse reaction associated with discontinuation of therapy was difficulty with concentration/attention; all occurred in the 400 mg per day group.
 
 ## 5.7 Fetal Toxicity
 
 Topiramate can cause fetal harm when administered to a pregnant woman.
-Data from pregnancy registries indicate that infants exposed to topiramate in utero have an increased risk for cleft lip and/or cleft palate (oral clefts).
-When multiple species of pregnant animals received topiramate at clinically relevant doses, structural malformations, including craniofacial defects, and reduced fetal weights occurred in offspring [see Use in Specific Populations (8.1)].
+Data from pregnancy registries indicate that infants exposed to topiramate in utero have an increased risk for cleft lip and/or cleft palate (oral clefts) and for being small for gestational age.
+In multiple species, oral administration of topiramate to pregnant animals at clinically relevant doses resulted in structural malformations, including craniofacial defects, and reduced body weights in offspring [see Use in Specific Populations (8.1)].
 
-Consider the benefits and risks of topiramate when administering the drug in women of childbearing potential, particularly when topiramate is considered for a condition not usually associated with permanent injury or death [see Use in Specific Populations (8.9)].
-Topiramate should be used during pregnancy only if the potential benefit outweighs the potential risk.
-If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be informed of the potential hazard to a fetus [see Use in Specific Populations (8.1) and (8.9)].
+Consider the benefits and risks of TROKENDI XR® when administering the drug in women of childbearing potential, particularly when TROKENDI XR® is considered for a condition not usually associated with permanent injury or death [see Use in Specific Populations (8.1)].
+TROKENDI XR® should be used during pregnancy only if the potential benefit outweighs the potential risk.
+If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be informed of the potential hazard to a fetus [see Use in Specific Populations (8.1)].
 
 ## 5.8 Withdrawal of Antiepileptic Drugs
 
@@ -181,8 +180,8 @@ Hyperammonemia/Encephalopathy Without Concomitant Valproic Acid (VPA)
 
 Topiramate treatment has produced hyperammonemia (in some instances dose-related) in clinical investigational programs in very young pediatric patients (1 month to 24 months) who were treated with adjunctive topiramate for partial onset epilepsy (8% for placebo, 10% for 5 mg/kg/day, 0% for 15 mg/kg/day, 9% for 25 mg/kg/day).
 TROKENDI XR® is not approved as adjunctive treatment of partial onset seizures in pediatric patients less than 6 years old.
-In some patients, ammonia was markedly increased (greater than 50% above upper limit of normal).
-The hyperammonemia associated with topiramate treatment occurred with and without encephalopathy in placebo-controlled trials, and in an open-label, extension trial.
+In some patients, ammonia was markedly increased (greater than or equal to 50% above upper limit of normal).
+The hyperammonemia associated with topiramate treatment occurred with and without encephalopathy in placebo-controlled trials, and in an open-label, extension trial of infants with refractory epilepsy.
 Dose-related hyperammonemia was also observed in the extension trial in pediatric patients up to 2 years old.
 Clinical symptoms of hyperammonemic encephalopathy often include acute alterations in level of consciousness and/or cognitive function with lethargy or vomiting.
 
@@ -195,7 +194,7 @@ Although hyperammonemia may be asymptomatic, clinical symptoms of hyperammonemic
 In most cases, symptoms and signs abated with discontinuation of either drug.
 This adverse reaction is not due to a pharmacokinetic interaction.
 
-Although TROKENDI XR® is not indicated for use in infants/toddlers (1 month to 24 months), topiramate with concomitant VPA clearly produced a dose-related increase in the incidence of treatment-emergent hyperammonemia (above the upper limit of normal, 0% for placebo, 12% for 5 mg/kg/day, 7% for 15 mg/kg/day, 17% for 25 mg/kg/day) in an investigational program using topiramate.
+Although TROKENDI XR® is not indicated for use in infants/toddlers (1 month to 24 months), topiramate with concomitant VPA clearly produced a dose-related increase in the incidence of hyperammonemia (above the upper limit of normal, 0% for placebo, 12% for 5 mg/kg/day, 7% for 15 mg/kg/day, 17% for 25 mg/kg/day) in an investigational program using topiramate.
 Markedly increased, dose-related hyperammonemia (0% for placebo and 5 mg/kg/day, 7% for 15 mg/kg/day, and 8% for 25 mg/kg/day) also occurred in these infants/toddlers.
 Dose-related hyperammonemia was similarly observed in a long-term, extension trial utilizing topiramate in these very young, pediatric patients [see Use in Specific Populations (8.4)].
 
@@ -215,13 +214,13 @@ In patients who develop unexplained lethargy, vomiting, or changes in mental sta
 A total of 32/2086 (1.5%) of adults exposed to topiramate during its adjunctive epilepsy therapy development reported the occurrence of kidney stones, an incidence about 2 to 4 times greater than expected in a similar, untreated population.
 In the double-blind monotherapy epilepsy study, a total of 4/319 (1.3%) of adults exposed to topiramate reported the occurrence of kidney stones.
 As in the general population, the incidence of stone formation among topiramate treated patients was higher in men.
-Kidney stones have also been reported in pediatric patients.
+Kidney stones have also been reported in pediatric patients taking topiramate for epilepsy.
 During long-term (up to 1 year) topiramate treatment in an open-label extension study of 284 pediatric patients 1 month to 24 months old with epilepsy, 7% developed kidney or bladder stones that were diagnosed clinically or by sonogram.
 TROKENDI XR® is not approved for pediatric patients less than 6 years old [see Use in Specific Populations (8.4)].
 
 TROKENDI XR® would be expected to have the same effect as topiramate on the formation of kidney stones.
 An explanation for the association of topiramate and kidney stones may lay in the fact that topiramate is a carbonic anhydrase inhibitor.
-Carbonic anhydrase inhibitors (e.g., zonisamide, acetazolamide or dichlorphenamide) can promote stone formation by reducing urinary citrate excretion and by increasing urinary pH [see Warnings and Precautions (5.9)].
+Carbonic anhydrase inhibitors (e.g., zonisamide, acetazolamide or dichlorphenamide) can promote stone formation by reducing urinary citrate excretion and by increasing urinary pH [see Warnings and Precautions (5.3)].
 The concomitant use of TROKENDI XR® with any other drug producing metabolic acidosis, or potentially in patients on a ketogenic diet may create a physiological environment that increases the risk of kidney stone formation, and should therefore be avoided.
 
 Increased fluid intake increases the urinary output, lowering the concentration of substances involved in stone formation.

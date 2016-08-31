@@ -1,10 +1,10 @@
 # 1 INDICATIONS AND USAGE
 
-## 1.1 Partial Onset Seizure and Primary Generalized Tonic-Clonic Seizures
+## 1.1 Monotherapy Epilepsy
 
-TROKENDI XR® (topiramate) extended-release capsules are indicated as initial monotherapy in patients 10 years of age and older with partial onset or primary generalized tonic-clonic seizures and adjunctive therapy in patients 6 years of age and older with partial onset or primary generalized tonic-clonic seizures [see Clinical Studies (14.2, 14.3, 14.4)].
+TROKENDI XR® extended-release capsules are indicated in patients 6 years of age and older as initial monotherapy for partial onset or primary generalized tonic-clonic seizures.
 Safety and effectiveness in patients who were converted to monotherapy from a previous regimen of other anticonvulsant drugs have not been established in controlled trials [see Clinical Studies (14.2)].
 
-## 1.2 Lennox-Gastaut Syndrome
+## 1.2 Adjunctive Therapy Epilepsy
 
-TROKENDI XR® (topiramate) extended-release capsules are indicated as adjunctive therapy in patients 6 years of age and older with seizures associated with Lennox-Gastaut syndrome [see Clinical Studies (14.5)].
+TROKENDI XR® extended-release capsules are indicated as adjunctive therapy in patients 6 years of age and older with partial onset seizures, primary generalized tonic-clonic seizures, and seizures associated with Lennox-Gastaut syndrome [see Clinical Studies (14.3,14.4, 14.5)].

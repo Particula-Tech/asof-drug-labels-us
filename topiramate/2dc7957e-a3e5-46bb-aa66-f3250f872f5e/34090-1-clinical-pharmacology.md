@@ -8,7 +8,7 @@ Electrophysiological and biochemical evidence suggests that topiramate, at pharm
 ## 12.2 Pharmacodynamics
 
 Topiramate has anticonvulsant activity in rat and mouse maximal electroshock seizure (MES) tests.
-Topiramate is only weakly effective in blocking clonic seizures induced by the GABAA receptor antagonist, pentylenetetrazole.
+Topiramate is only weakly effective in blocking clonic seizures induced by the GABA-A receptor antagonist, pentylenetetrazole.
 Topiramate is also effective in rodent models of epilepsy, which include tonic and absence-like seizures in the spontaneous epileptic rat (SER) and tonic and clonic seizures induced in rats by kindling of the amygdala or by global ischemia.
 
 ## 12.3 Pharmacokinetics
@@ -22,7 +22,7 @@ The peak plasma concentrations (Cmax) of topiramate occurred at approximately 24
 At steady-state, the (AUC0-24, Cmax, and Cmin) of topiramate from TROKENDI XR® administered once-daily and the immediate-release tablet administered twice-daily were shown to be bioequivalent.
 Fluctuation of topiramate plasma concentrations at steady-state for TROKENDI XR® administered once-daily was approximately 26% and 42% in healthy subjects and in epileptic patients, respectively, compared to approximately 40% and 51%, respectively, for immediate-release topiramate [see Clinical Pharmacology (12.6)].
 
-Compared to the fasted state, high-fat meal increased the Cmax of topiramate by 37% and shortened the Tmax to approximately 8 hour following a single dose of TROKENDI XR®, while having no effect on the AUC.
+Compared to the fasted state, high-fat meal increased the Cmax of topiramate by 37% and shortened the Tmax to approximately 8 hours following a single dose of TROKENDI XR®, while having no effect on the AUC.
 Modeling of the observed single dose fed data with simulation to steady state showed that the effect on Cmax is significantly reduced following repeat administrations.
 TROKENDI XR® can be taken without regard to meals.
 
@@ -51,7 +51,7 @@ Renal Impairment
 The clearance of topiramate was reduced by 42% in moderately renally impaired (creatinine clearance 30 to 69 mL/min/1.73m2) and by 54% in severely renally impaired subjects (creatinine clearance less than 30 mL/min/1.73m2) compared to normal renal function subjects (creatinine clearance greater than 70 mL/min/1.73m2).
 Since topiramate is presumed to undergo significant tubular reabsorption, it is uncertain whether this experience can be generalized to all situations of renal impairment.
 It is conceivable that some forms of renal disease could differentially affect glomerular filtration rate and tubular reabsorption resulting in a clearance of topiramate not predicted by creatinine clearance.
-In general, however, use of one-half the usual starting and maintenance dose is recommended in patients with creatinine clearance less than 70 mL/min/1.73 m2 [see Dosage and Administration (2.3), (2.4)].
+In general, however, use of one-half the usual starting and maintenance dose is recommended in patients with creatinine clearance less than 70 mL/min/1.73 m2 [see Dosage and Administration (2.4), (2.5)].
 
 Hemodialysis
 
@@ -99,19 +99,19 @@ Drug-Drug Interaction Studies
 Antiepileptic Drugs
 
 Potential interactions between immediate-release topiramate and standard AEDs were assessed in controlled clinical pharmacokinetic studies in patients with epilepsy.
-The effects of these interactions on mean plasma AUCs are summarized in Table 8.
+The effects of these interactions on mean plasma AUCs are summarized in Table 9.
 Interaction of TROKENDI XR® and standard AEDs is not expected to differ from the experience with immediate-release topiramate products.
 
-In Table 8, the second column (AED concentration) describes what happened to the concentration of the AED listed in the first column when topiramate was added.
+In Table 9, the second column (AED concentration) describes what happened to the concentration of the AED listed in the first column when topiramate was added.
 The third column (topiramate concentration) describes how the co-administration of a drug listed in the first column modified the concentration of topiramate in experimental settings when topiramate was given alone.
 
-Table 8: Summary of AED Interactions with topiramate
+Table 9: Summary of AED Interactions with topiramate
 
 | AED Coadministered | AED Concentration | Topiramate Concentration |
 | --- | --- | --- |
-| Phenytoin | NC or 25% increase =Plasma concentration increased 25% in some patients, generally those on a twice a day dosing regimen of phenytoin | 48% decrease |
+| Phenytoin | NC or 25% increase=Plasma concentration increased 25% in some patients, generally those on a twice a day dosing regimen of phenytoin | 48% decrease |
 | Carbamazepine (CBZ) | NC | 40% decrease |
-| CBZ epoxide =Is not administered but is an active metabolite of carbamazepine | NC | NE |
+| CBZ epoxide=Is not administered but is an active metabolite of carbamazepine | NC | NE |
 | Valproic acid | 11% decrease | 14% decrease |
 | Phenobarbital | NC | NE |
 | Primidone | NC | NE |
@@ -125,7 +125,7 @@ In addition to the pharmacokinetic interaction described in the above table, con
 
 CNS Depressants or Alcohol
 
-Concomitant administration of TROKENDI XR® and other CNS depressant drugs or alcohol has not been evaluated in clinical studies [see Contraindications (4), Warnings and Precautions (5.4), (5.13), and Drug Interactions (7.1),(7.4)].
+Concomitant administration of TROKENDI XR® and other CNS depressant drugs or alcohol has not been evaluated in clinical studies [see Contraindications (4), Warnings and Precautions (5.4), (5.13), and Drug Interactions (7.1), (7.4)].
 
 Oral Contraceptives
 

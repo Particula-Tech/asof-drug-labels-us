@@ -25,6 +25,13 @@ The treatment effects with respect to time to first seizure were consistent acro
 
 Figure 1: Kaplan-Meier Estimates of Cumulative Rates for Time to First Seizure in Study 1
 
+Pediatric Patients 6 to Less than 10 Years of Age
+
+The conclusion that topiramate is effective as initial monotherapy in pediatric patients 6 to less than 10 years of age with partial onset or primary generalized tonic-clonic seizures was based on a pharmacometric bridging approach using data from the controlled epilepsy trials conducted with immediate-release topiramate described in labeling.
+The approach consisted of first showing a similar exposure response relationship between pediatric patients down to 2 years of age and adults when immediate-release topiramate was given as adjunctive therapy [see Use in Specific Populations (8.4)].
+Similarity of exposure-response was demonstrated in pediatric patients ages 6 to less than 16 years of age and adults when topiramate was given as initial monotherapy.
+Specific dosing in pediatric patients 6 to less than 10 years of age was derived from simulations utilizing plasma exposure ranges observed in pediatric and adult patients treated with immediate-release topiramate initial monotherapy [see Dosage and Administration (2.1)].
+
 ## 14.3 Adjunctive Therapy in Patients with Partial Onset Seizures
 
 Adult Patients with Partial Onset Seizures
@@ -39,9 +46,9 @@ Following randomization, patients began the double-blind phase of treatment.
 In five of the six studies, patients received active drug beginning at 100 mg per day; the dose was then increased by 100 mg or 200 mg per day increments weekly or every other week until the assigned dose was reached, unless intolerance prevented increases.
 In Study 7, the 25 or 50 mg per day initial doses of topiramate were followed by respective weekly increments of 25 or 50 mg per day until the target dose of 200 mg per day was reached.
 After titration, patients entered a 4, 8 or 12-week stabilization period.
-The numbers of patients randomized to each dose, and the actual mean and median doses in the stabilization period are shown in Table 9.
+The numbers of patients randomized to each dose, and the actual mean and median doses in the stabilization period are shown in Table 10.
 
-Table 9: Immediate Release Topiramate Dose Summary During the Stabilization Periods of Each of Six Double-Blind, Placebo-Controlled, Adjunctive Trials in Adults with Partial Onset SeizuresDose-response studies were not conducted for other indications or pediatric partial-onset seizures
+Table 10: Immediate Release Topiramate Dose Summary During the Stabilization Periods of Each of Six Double-Blind, Placebo-Controlled, Adjunctive Trials in Adults with Partial Onset SeizuresDose-response studies were not conducted for other indications or pediatric partial-onset seizures
 
 | Study | Stabilization Dose | PlaceboPlacebo dosages are given as the number of tablets. Placebo target dosages were as follows: Study 4 (4 tablets/day); Studies 2 and 5 (6 tablets/day); Studies 6 and 7 (8 tablets/day); Study 3 (10 tablets/day) | 200 | 400 | 600 | 800 | 1,000 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -101,10 +108,10 @@ After titration, patients entered an 8-week stabilization period.
 The primary measures of effectiveness were the percent reduction in drop attacks and a parental global rating of seizure severity.
 
 In all adjunctive topiramate trials, the reduction in seizure rate from baseline during the entire double-blind phase was measured.
-The median percent reductions in seizure rates and the responder rates (fraction of patients with at least a 50% reduction) by treatment group for each study are shown below in Table 10.
+The median percent reductions in seizure rates and the responder rates (fraction of patients with at least a 50% reduction) by treatment group for each study are shown below in Table 11.
 As described above, a global improvement in seizure severity was also assessed in the Lennox-Gastaut trial.
 
-Table 10: Efficacy Results in Double-Blind, Placebo-Controlled, Adjunctive Epilepsy Trials
+Table 11: Efficacy Results in Double-Blind, Placebo-Controlled, Adjunctive Epilepsy Trials
 
 | Study # | # | Placebo | 200 | 400 | 600 | 800 | 1,000 | ≈6mg/kg/dayFor Studies 8 and 9, specified target dosages (less than 9.3 mg/kg/day) were assigned based on subject's weight to approximate a dosage of 6mg/kg per day; these dosages corresponded to mg per day dosages of 125 mg per day, 175 mg per day, 225 mg per day, and 400 mg per day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |

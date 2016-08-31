@@ -21,7 +21,7 @@ Concomitant administration of phenytoin or carbamazepine with topiramate decreas
 
 Concomitant administration of valproic acid and topiramate has been associated with hyperammonemia with and without encephalopathy.
 Concomitant administration of topiramate with valproic acid has also been associated with hypothermia (with and without hyperammonemia) in patients who have tolerated either drug alone.
-It may be prudent to examine blood ammonia levels in patients in whom the onset of hypothermia has been reported [see Warnings and Precautions (5.8), (5.10) and Clinical Pharmacology (12.3)].
+It may be prudent to examine blood ammonia levels in patients in whom the onset of hypothermia has been reported [see Warnings and Precautions (5.8,5.9) and Clinical Pharmacology (12.3)].
 
 Numerous AEDs are substrates of the CYP enzyme system.
 In vitro studies indicate that topiramate does not inhibit enzyme activity for CYP1A2, CYP2A6, CYP2B6, CYP2C9, CYP2D6, CYP2E1, and CYP3A4/5 isozymes.
