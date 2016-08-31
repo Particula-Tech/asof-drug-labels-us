@@ -211,7 +211,7 @@ Table 17: Efficacy of Capecitabine and Docetaxel Combination vs Docetaxel Monoth
 | Overall Survival |  |  |  |  |
 | Median Days | 442 | 352 | 0.0126 | 0.775 |
 | 95% C.I. | (375 to 497) | (298 to 387) |  |  |
-| Response RateThe response rate reported represents a reconciliation of the investigator and IRC assessments performed by the sponsor according to a predefined algorithm. | 32% | 22% | 0.009 | NA NA = Not Applicable |
+| Response RateThe response rate reported represents a reconciliation of the investigator and IRC assessments performed by the sponsor according to a predefined algorithm. | 32% | 22% | 0.009 | NANA = Not Applicable |
 
 Figure 4: Kaplan-Meier Estimates for Time to Disease Progression Capecitabine and Docetaxel vs Docetaxel
 

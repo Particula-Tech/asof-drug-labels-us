@@ -231,7 +231,7 @@ Table 7: Percent Incidence of Adverse Events Considered Related or Unrelated to 
 | Lymphoedema | 3 | < 1 | – | 5 | 1 | – |
 | Psychiatric |  |  |  |  |  |  |
 | Depression | 5 | – | – | 5 | 1 | – |
-| – Not observed NA = Not Applicable |  |  |  |  |  |  |
+| – Not observedNA = Not Applicable |  |  |  |  |  |  |
 
 Table 8: Percent of Patients With Laboratory Abnormalities Participating in the Capecitabine and Docetaxel Combination vs Docetaxel Monotherapy Study
 
@@ -255,47 +255,47 @@ A total of 13 out of 162 patients (8%) discontinued treatment because of adverse
 
 Table 9: Percent Incidence of Adverse Reactions Considered Remotely, Possibly or Probably Related to Treatment in ≥ 5% of Patients Participating in the Single Arm Trial in Stage IV Breast Cancer
 
-| Adverse Event | Phase 2 Trial in Stage IV Breast Cancer (n = 162) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Body System/Adverse Event | Total % | Grade 3 % | Grade 4 % |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| GI |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Diarrhea | 57 | 12 | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Nausea | 53 | 4 | – |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Vomiting | 37 | 4 | – |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Stomatitis | 24 | 7 | – |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Abdominal Pain | 20 | 4 | – |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Constipation | 15 | 1 | – |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Dyspepsia | 8 | – | – |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Skin and Subcutaneous |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hand-and-Foot Syndrome | 57 | 11 | NA |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Dermatitis | 37 | 1 | – |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Nail Disorder | 7 | – | – |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| General |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Fatigue | 41 | 8 | – |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Pyrexia | 12 | 1 | – |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Pain in Limb | 6 | 1 | – |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Neurological |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Paresthesia | 21 | 1 | – |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Headache | 9 | 1 | – |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Dizziness | 8 | – | – |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Insomnia | 8 | – | – |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Metabolism |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Anorexia | 23 | 3 | – |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Dehydration | 7 | 4 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Eye |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Eye Irritation | 15 | – | – |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Musculoskeletal |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Myalgia | 9 | – | – |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Cardiac |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Edema | 9 | 1 | – |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Blood |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Neutropenia | 26 | 2 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Thrombocytopenia | 24 | 3 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Anemia | 72 | 3 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Lymphopenia | 94 | 44 | 15 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hepatobiliary |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hyperbilirubinemia | 22 | 9 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| – Not observed NA = Not Applicable |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Adverse Event | Phase 2 Trial in Stage IV Breast Cancer (n = 162) |  |  |
+| --- | --- | --- | --- |
+| Body System/Adverse Event | Total % | Grade 3 % | Grade 4 % |
+| GI |  |  |  |
+| Diarrhea | 57 | 12 | 3 |
+| Nausea | 53 | 4 | – |
+| Vomiting | 37 | 4 | – |
+| Stomatitis | 24 | 7 | – |
+| Abdominal Pain | 20 | 4 | – |
+| Constipation | 15 | 1 | – |
+| Dyspepsia | 8 | – | – |
+| Skin and Subcutaneous |  |  |  |
+| Hand-and-Foot Syndrome | 57 | 11 | NA |
+| Dermatitis | 37 | 1 | – |
+| Nail Disorder | 7 | – | – |
+| General |  |  |  |
+| Fatigue | 41 | 8 | – |
+| Pyrexia | 12 | 1 | – |
+| Pain in Limb | 6 | 1 | – |
+| Neurological |  |  |  |
+| Paresthesia | 21 | 1 | – |
+| Headache | 9 | 1 | – |
+| Dizziness | 8 | – | – |
+| Insomnia | 8 | – | – |
+| Metabolism |  |  |  |
+| Anorexia | 23 | 3 | – |
+| Dehydration | 7 | 4 | 1 |
+| Eye |  |  |  |
+| Eye Irritation | 15 | – | – |
+| Musculoskeletal |  |  |  |
+| Myalgia | 9 | – | – |
+| Cardiac |  |  |  |
+| Edema | 9 | 1 | – |
+| Blood |  |  |  |
+| Neutropenia | 26 | 2 | 2 |
+| Thrombocytopenia | 24 | 3 | 1 |
+| Anemia | 72 | 3 | 1 |
+| Lymphopenia | 94 | 44 | 15 |
+| Hepatobiliary |  |  |  |
+| Hyperbilirubinemia | 22 | 9 | 2 |
+| – Not observedNA = Not Applicable |  |  |  |
 
 ## 6.4 Clinically Relevant Adverse Events in < 5% of Patients
 
