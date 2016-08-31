@@ -1,8 +1,8 @@
 # DESCRIPTION
 
-The active ingredient in PEPCID® (famotidine) is a histamine H2-receptor antagonist.
+The active ingredient in PEPCID ® (famotidine) is a histamine H 2-receptor antagonist.
 Famotidine is N'-(aminosulfonyl)-3-[[[2-[(diaminomethylene)amino]-4-thiazolyl]methyl]thio]propanimidamide.
-The empirical formula of famotidine is C8H15N7O2S3 and its molecular weight is 337.43.
+The empirical formula of famotidine is C 8H 15N 7O 2S 3 and its molecular weight is 337.43.
 Its structural formula is:
 
 Famotidine is a white to pale yellow crystalline compound that is freely soluble in glacial acetic acid, slightly soluble in methanol, very slightly soluble in water, and practically insoluble in ethanol.

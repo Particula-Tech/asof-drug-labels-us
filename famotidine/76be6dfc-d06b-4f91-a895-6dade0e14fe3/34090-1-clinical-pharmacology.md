@@ -26,7 +26,7 @@ Gastric emptying and exocrine pancreatic function were not affected by PEPCID.
 Systemic effects of PEPCID in the CNS, cardiovascular, respiratory or endocrine systems were not noted in clinical pharmacology studies.
 Also, no antiandrogenic effects were noted.
 (See ADVERSE REACTIONS.)
-Serum hormone levels, including prolactin, cortisol, thyroxine (T4), and testosterone, were not altered after treatment with PEPCID.
+Serum hormone levels, including prolactin, cortisol, thyroxine (T 4), and testosterone, were not altered after treatment with PEPCID.
 
 ## Pharmacokinetics
 
@@ -84,7 +84,7 @@ As shown in Table 2, the incidence of ulcer healing (dropouts counted as unheale
 |  | U.S. Study |  | International Study |  |
 |  | PEPCID 40 mg h.s. (N=74) | Placebo h.s. (N=75) | PEPCID 40 mg h.s. (N=149) | Placebo h.s. (N=145) |
 | Week 4 Week 6 Week 8 | 45% †66% ***78% | 39% 44% 64% | †47% †65% †80% | 31% 46% 54% |
-| ***,† Statistically significantly better than placebo (p≤0.05, p≤0.01 respectively) |  |  |  |  |
+| ***, † Statistically significantly better than placebo (p≤0.05, p≤0.01 respectively) |  |  |  |  |
 
 Time to complete relief of daytime and nighttime pain was statistically significantly shorter for patients receiving PEPCID than for patients receiving placebo; however, in neither study was there a statistically significant difference in the proportion of patients whose pain was relieved by the end of the study (week 8).
 
@@ -96,7 +96,7 @@ PEPCID 20 mg b.i.d. was statistically significantly superior to 40 mg h.s. and t
 | Table 3 % Successful Symptomatic Outcome |  |  |  |
 | --- | --- | --- | --- |
 |  | PEPCID 20 mg b.i.d. (N=154) | PEPCID 40 mg h.s. (N=149) | Placebo (N=73) |
-| Week 6 | 82†† | 69 | 62 |
+| Week 6 | 82 †† | 69 | 62 |
 | †† p≤0.01 vs Placebo |  |  |  |
 
 By two weeks of treatment, symptomatic success was observed in a greater percentage of patients taking PEPCID 20 mg b.i.d. compared to placebo (p≤0.01).
@@ -108,7 +108,7 @@ The U.S. study comparing PEPCID 40 mg p.o. b.i.d. to placebo and PEPCID 20 mg p.
 | Table 4 % Endoscopic Healing - U.S. Study |  |  |  |
 | --- | --- | --- | --- |
 |  | PEPCID 40 mg b.i.d. (N=127) | PEPCID 20 mg b.i.d. (N=125) | Placebo (N=66) |
-| Week 6 Week 12 | 48†††,‡‡ 69†††,‡ | 32 54††† | 18 29 |
+| Week 6 Week 12 | 48 †††, ‡‡ 69 †††, ‡ | 32 54 ††† | 18 29 |
 | ††† p≤0.01 vs Placebo ‡ p≤0.05 vs PEPCID 20 mg b.i.d. ‡‡ p≤0.01 vs PEPCID 20 mg b.i.d. |  |  |  |
 
 As compared to placebo, patients who received PEPCID had faster relief of daytime and nighttime heartburn and a greater percentage of patients experienced complete relief of nighttime heartburn.
@@ -120,7 +120,7 @@ There was, however, no significant difference among treatments in symptom relief
 | Table 5 % Endoscopic Healing - International Study |  |  |  |
 | --- | --- | --- | --- |
 |  | PEPCID 40 mg b.i.d. (N=175) | PEPCID 20 mg b.i.d. (N=93) | Ranitidine 150 mg b.i.d. (N=172) |
-| Week 6 Week 12 | 48 71‡‡‡ | 52 68 | 42 60 |
+| Week 6 Week 12 | 48 71 ‡‡‡ | 52 68 | 42 60 |
 | ‡‡‡ p≤0.05 vs Ranitidine 150 mg b.i.d. |  |  |  |
 
 ## Pathological Hypersecretory Conditions (e.g., Zollinger-Ellison Syndrome, Multiple Endocrine Adenomas)

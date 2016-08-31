@@ -2,7 +2,7 @@ PRINCIPAL DISPLAY PANEL - 20 MG TABLETS
 
 NDC 42998-639-09
 
-Pepcid® (Famotidine) Tablets, USP
+Pepcid ® (Famotidine) Tablets, USP
 
 Each tablet contains 20 mg of famotidine
 
@@ -14,7 +14,7 @@ PRINCIPAL DISPLAY PANEL - 40 MG TABLETS
 
 NDC 42998-649-09
 
-Pepcid® (Famotidine) Tablets, USP
+Pepcid ® (Famotidine) Tablets, USP
 
 Each Tablet contains 40 mg of famotidine
 

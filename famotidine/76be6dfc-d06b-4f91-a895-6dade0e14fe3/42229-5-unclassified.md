@@ -6,15 +6,15 @@ Table 6 presents pharmacokinetic data from clinical trials and a published study
 0.5 mg/kg and from published studies of small numbers of pediatric patients (1-15 years of age) given famotidine intravenously.
 Areas under the curve (AUCs) are normalized to a dose of 0.5 mg/kg I.V. for pediatric patients 1-15 years of age and compared with an extrapolated 40 mg intravenous dose in adults (extrapolation based on results obtained with a 20 mg I.V. adult dose).
 
-| Table 6 Pharmacokinetic Parametersa of Intravenous Famotidine |  |  |  |  |  |  |  |  |
+| Table 6 Pharmacokinetic Parameters a of Intravenous Famotidine |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Age (N=number of patients) |  | Area Under the Curve (AUC) (ng-hr/mL) |  | Total Clearance (Cl) (L/hr/kg) |  | Volume of Distribution (Vd) (L/kg) |  | Elimination Half-life (T1/2) (hours) |
-| 0-1 monthc (N=10) |  | NA |  | 0.13 ± 0.06 |  | 1.4 ± 0.4 |  | 10.5 ± 5.4 |
-| 0-3 monthsd (N=6) |  | 2688 ± 847 |  | 0.21 ± 0.06 |  | 1.8 ± 0.3 |  | 8.1 ± 3.5 |
-| >3-12 monthsd (N=11) |  | 1160 ± 474 |  | 0.49 ± 0.17 |  | 2.3 ± 0.7 |  | 4.5 ± 1.1 |
+| Age (N=number of patients) |  | Area Under the Curve (AUC) (ng-hr/mL) |  | Total Clearance (Cl) (L/hr/kg) |  | Volume of Distribution (Vd) (L/kg) |  | Elimination Half-life (T 1/2) (hours) |
+| 0-1 month c (N=10) |  | NA |  | 0.13 ± 0.06 |  | 1.4 ± 0.4 |  | 10.5 ± 5.4 |
+| 0-3 months d (N=6) |  | 2688 ± 847 |  | 0.21 ± 0.06 |  | 1.8 ± 0.3 |  | 8.1 ± 3.5 |
+| >3-12 months d (N=11) |  | 1160 ± 474 |  | 0.49 ± 0.17 |  | 2.3 ± 0.7 |  | 4.5 ± 1.1 |
 | 1-11 yrs (N=20) |  | 1089 ± 834 |  | 0.54 ± 0.34 |  | 2.07 ± 1.49 |  | 3.38 ± 2.60 |
 | 11-15 yrs (N=6) |  | 1140 ± 320 |  | 0.48 ± 0.14 |  | 1.5 ± 0.4 |  | 2.3 ± 0.4 |
-| Adult (N=16) |  | 1726b |  | 0.39 ± 0.14 |  | 1.3 ± 0.2 |  | 2.83 ± 0.99 |
+| Adult (N=16) |  | 1726 b |  | 0.39 ± 0.14 |  | 1.3 ± 0.2 |  | 2.83 ± 0.99 |
 | aValues are presented as means ± SD unless indicated otherwise. bMean value only. cSingle center study. dMulticenter study. |  |  |  |  |  |  |  |  |
 
 Plasma clearance is reduced and elimination half-life is prolonged in pediatric patients 0-3 months of age compared to older pediatric patients.
@@ -25,12 +25,12 @@ Oral doses of 0.5 mg/kg achieved AUCs of 645 ± 249 ng-hr/mL and 580 ± 60 ng-hr
 
 ## Pharmacodynamics
 
-Pharmacodynamics of famotidine were evaluated in 5 pediatric patients 2-13 years of age using the sigmoid Emax model.
+Pharmacodynamics of famotidine were evaluated in 5 pediatric patients 2-13 years of age using the sigmoid E max model.
 These data suggest that the relationship between serum concentration of famotidine and gastric acid suppression is similar to that observed in one study of adults (Table 7).
 
-| Table 7 Pharmacodynamics of famotidine using the sigmoid Emax model |  |
+| Table 7 Pharmacodynamics of famotidine using the sigmoid E max model |  |
 | --- | --- |
-|  | EC50 (ng/mL)* |
+|  | EC 50 (ng/mL) * |
 | Pediatric Patients | 26 ± 13 |
 | Data from one study |  |
 | a) healthy adult subjects | 26.5 ± 10.3 |
@@ -42,13 +42,13 @@ While each study had a different design, acid suppression data over time are sum
 
 | Table 8 |  |  |  |
 | --- | --- | --- | --- |
-| Dosage | Route | Effecta | Number of Patients (age range) |
-| 0.5 mg/kg, single dose | I.V. | gastric pH >4 for 19.5 hours (17.3, 21.8)c | 11 (5-19 days) |
-| 0.3 mg/kg, single dose | I.V. | gastric pH >3.5 for 8.7 ± 4.7b hours | 6 (2-7 years) |
+| Dosage | Route | Effect a | Number of Patients (age range) |
+| 0.5 mg/kg, single dose | I.V. | gastric pH >4 for 19.5 hours (17.3, 21.8) c | 11 (5-19 days) |
+| 0.3 mg/kg, single dose | I.V. | gastric pH >3.5 for 8.7 ± 4.7 b hours | 6 (2-7 years) |
 | 0.4-0.8 mg/kg | I.V. | gastric pH >4 for 6-9 hours | 18 (2-69 months) |
 | 0.5 mg/kg, single dose | I.V. | a >2 pH unit increase above baseline in gastric pH for >8 hours | 9 (2-13 years) |
-| 0.5 mg/kg b.i.d. | I.V. | gastric pH >5 for 13.5 ± 1.8b hours | 4 (6-15 years) |
-| 0.5 mg/kg b.i.d. | oral | gastric pH >5 for 5.0 ± 1.1b hours | 4 (11-15 years) |
+| 0.5 mg/kg b.i.d. | I.V. | gastric pH >5 for 13.5 ± 1.8 b hours | 4 (6-15 years) |
+| 0.5 mg/kg b.i.d. | oral | gastric pH >5 for 5.0 ± 1.1 b hours | 4 (11-15 years) |
 | aValues reported in published literature. bMeans ± SD. cMean (95% confidence interval). |  |  |  |
 
 The duration of effect of famotidine I.V.

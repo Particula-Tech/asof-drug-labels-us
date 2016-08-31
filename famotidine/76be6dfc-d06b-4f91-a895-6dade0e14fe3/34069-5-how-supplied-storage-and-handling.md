@@ -19,7 +19,7 @@ NDC 42998-649-98 unit of use bottles of 100.
 Preserve in well-closed, light-resistant containers.
 Store at controlled room temperature.
 
-PEPCID® (Famotidine) Tablets 20 mg and Tablets 40 mg are manufactured for:
+PEPCID ® (Famotidine) Tablets 20 mg and Tablets 40 mg are manufactured for:
 
 Marathon Pharmaceuticals, LLC Northbrook, IL 60062, USA
 
