@@ -2,4 +2,4 @@ Winthrop U.S., a business of sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SAN
 
 Revised: 12/2015
 
-© 2015sanofi-aventis U.S. LLC
+© 2015 sanofi-aventis U.S. LLC
