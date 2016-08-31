@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA018652"
+  ],
+  "inn": "hydrocortisone",
+  "labeler": "Oceanside Pharmaceuticals",
+  "package_ndcs": [
+    "68682-271-15",
+    "68682-271-45"
+  ],
+  "products": [
+    {
+      "form": "OINTMENT",
+      "generic": "hydrocortisone butyrate",
+      "name": "Hydrocortisone Butyrate"
+    }
+  ],
+  "setid": "7c3f8417-7861-41e3-876f-9b82aff7d1a0",
+  "source": "dailymed"
+}
