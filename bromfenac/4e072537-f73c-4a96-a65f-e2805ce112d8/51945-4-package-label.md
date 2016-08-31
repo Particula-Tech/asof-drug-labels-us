@@ -2,16 +2,16 @@
 
 NDC 24208-602-03
 
-Bausch & Lomb
-
-PROLENSATM
-
-(bromfenac ophthalmic solution) 0.07%
+PROLENSA® (bromfenac ophthalmic solution) 0.07%
 
 Sterile
+
+FOR TOPICAL APPLICATION IN THE EYE
+
+Once Daily
 
 Rx only
 
 3 mL
 
-Once Daily
+BAUSCH + LOMB

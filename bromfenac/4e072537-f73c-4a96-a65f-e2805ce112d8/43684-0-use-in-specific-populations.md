@@ -9,7 +9,7 @@ In rats, bromfenac treatment caused delayed parturition at 0.3 mg/kg/day (30 tim
 There are no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-Because of the known effects of prostaglandin biosynthesis-inhibiting drugs on the fetal cardiovascular system (closure of ductus arteriosus), the use of PROLENSA™ ophthalmic solution during late pregnancy should be avoided.
+Because of the known effects of prostaglandin biosynthesis-inhibiting drugs on the fetal cardiovascular system (closure of ductus arteriosus), the use of PROLENSA ophthalmic solution during late pregnancy should be avoided.
 
 ## 8.3 Nursing Mothers
 
@@ -21,4 +21,4 @@ Safety and efficacy in pediatric patients below the age of 18 years have not bee
 
 ## 8.5 Geriatric Use
 
-There is no evidence that the efficacy or safety profiles for Prolensa differ in patients 70 years of age and older compared to younger adult patients.
+There is no evidence that the efficacy or safety profiles for PROLENSA differ in patients 70 years of age and older compared to younger adult patients.

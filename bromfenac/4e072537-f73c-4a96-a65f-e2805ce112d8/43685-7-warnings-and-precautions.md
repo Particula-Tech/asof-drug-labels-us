@@ -2,7 +2,7 @@
 
 ## 5.1 Sulfite Allergic Reactions
 
-Contains sodium sulfite, a sulfite that may cause allergic type reactions including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people.
+Contains sodium sulfite, a sulfite that may cause allergic-type reactions including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people.
 The overall prevalence of sulfite sensitivity in the general population is unknown and probably low.
 Sulfite sensitivity is seen more frequently in asthmatic than in non-asthmatic people.
 
@@ -40,5 +40,5 @@ Post-marketing experience with topical NSAIDs also suggests that use more than 2
 
 PROLENSA should not be instilled while wearing contact lenses.
 Remove contact lenses prior to instillation of PROLENSA.
-The preservative in PROLENSA, benzalkonium chloride may be absorbed by soft contact lenses.
+The preservative in PROLENSA, benzalkonium chloride, may be absorbed by soft contact lenses.
 Lenses may be reinserted after 10 minutes following administration of PROLENSA.
