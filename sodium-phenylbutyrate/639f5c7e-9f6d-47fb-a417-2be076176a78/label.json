@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA203918"
+  ],
+  "inn": "sodium-phenylbutyrate",
+  "labeler": "Par Pharmaceutical, Inc.",
+  "package_ndcs": [
+    "49884-006-04"
+  ],
+  "products": [
+    {
+      "form": "POWDER",
+      "generic": "sodium phenylbutyrate",
+      "name": "Sodium Phenylbutyrate"
+    }
+  ],
+  "setid": "639f5c7e-9f6d-47fb-a417-2be076176a78",
+  "source": "dailymed"
+}
