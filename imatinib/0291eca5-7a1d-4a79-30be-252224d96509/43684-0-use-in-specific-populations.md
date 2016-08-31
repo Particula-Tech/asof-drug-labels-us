@@ -47,30 +47,31 @@ The efficacy of imatinib mesylate was similar in older and younger patients.
 
 ## 8.6 Hepatic Impairment
 
-The effect of hepatic impairment on the pharmacokinetics of both imatinib and its major metabolite, CGP74588, was assessed in 84 cancer patients with varying degrees of hepatic impairment (Table 11) at imatinib doses ranging from 100 mg to 800 mg.
+The effect of hepatic impairment on the pharmacokinetics of both imatinib and its major metabolite, CGP74588, was assessed in 84 cancer patients with varying degrees of hepatic impairment (Table 16) at imatinib doses ranging from 100 mg to 800 mg.
 Exposure to both imatinib and CGP74588 was comparable between each of the mildly and moderately hepatically-impaired groups and the normal group.
 Patients with severe hepatic impairment tend to have higher exposure to both imatinib and its metabolite than patients with normal hepatic function.
 At steady state, the mean Cmax/dose and AUC/dose for imatinib increased by about 63% and 45%, respectively, in patients with severe hepatic impairment compared to patients with normal hepatic function.
 The mean Cmax/dose and AUC/dose for CGP74588 increased by about 56% and 55%, respectively, in patients with severe hepatic impairment compared to patients with normal hepatic function [see Dosage and Administration (2.11)].
 
-Table 11 Liver Function Classification
+Table 16 Liver Function Classification
 
 | Liver Function Test | Normal (n=14) | Mild (n=30) | Moderate (n=20) | Severe (n=20) |
 | --- | --- | --- | --- | --- |
 | Total Bilirubin | ≤ ULN | >1.0-1.5 x ULN | >1.5-3 x ULN | >3-10 x ULN |
 | SGOT | ≤ ULN | > ULN (can be normal if Total Bilirubin is >ULN) | Any | Any |
-| ULN=upper limit of normal for the institution |  |  |  |  |
+
+ULN=upper limit of normal for the institution
 
 ## 8.7 Renal Impairment
 
-The effect of renal impairment on the pharmacokinetics of imatinib was assessed in 59 cancer patients with varying degrees of renal impairment (Table 12) at single and steady state imatinib doses ranging from 100 to 800 mg/day.
+The effect of renal impairment on the pharmacokinetics of imatinib was assessed in 59 cancer patients with varying degrees of renal impairment (Table 17) at single and steady state imatinib doses ranging from 100 to 800 mg/day.
 The mean exposure to imatinib (dose normalized AUC) in patients with mild and moderate renal impairment increased 1.5- to 2-fold compared to patients with normal renal function.
 The AUCs did not increase for doses greater than 600 mg in patients with mild renal impairment.
 The AUCs did not increase for doses greater than 400 mg in patients with moderate renal impairment.
 Two patients with severe renal impairment were dosed with 100 mg/day and their exposures were similar to those seen in patients with normal renal function receiving 400 mg/day.
 Dose reductions are necessary for patients with moderate and severe renal impairment [see Dosage and Administration (2.11)].
 
-Table 12 Renal Function Classification
+Table 17 Renal Function Classification
 
 | Renal Dysfunction |  | Renal Function Tests |
 | --- | --- | --- |

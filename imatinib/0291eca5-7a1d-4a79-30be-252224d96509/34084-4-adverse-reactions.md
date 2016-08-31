@@ -202,7 +202,7 @@ Table 6 Percent Incidence of Clinically Relevant Grade 3/4* Laboratory Abnormali
 
 *NCI Common Terminology Criteria for Adverse Events, version 3.0
 
-Table 7 Lab Abnormalities in Other CML Clinical Trials
+Table 7 Laboratory Abnormalities in Other CML Clinical Trials
 
 |  | Myeloid Blast Crisis |  | Accelerated Phase |  | Chronic Phase, IFN Failure |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -250,9 +250,9 @@ These edemas were rarely severe and may be managed with diuretics, other support
 
 ## 6.5 Myelodysplastic/Myeloproliferative Diseases
 
-Adverse reactions, regardless of relationship to study drug, that were reported in at least 10% of the patients treated with imatinib mesylate for MDS/MPD in the phase 2 study, are shown in Table 8.
+Adverse reactions, regardless of relationship to study drug, that were reported in at least 10% of the patients treated with imatinib mesylate for MDS/MPD in the phase 2 study, are shown in Table 9.
 
-Table 8 Adverse Reactions Regardless of Relationship to Study Drug Reported (More than One Patient) in MPD Patients in the Phase 2 Study (≥10% All Patients) All Grades
+Table 9 Adverse Reactions Regardless of Relationship to Study Drug Reported (More than One Patient) in MPD Patients in the Phase 2 Study (≥10% All Patients) All Grades
 
 | Preferred Term | N=7 n (%) |
 | --- | --- |
@@ -278,9 +278,9 @@ Hematological abnormalities were also frequent, with instances of CTC Grade 3 le
 
 ## 6.8 Dermatofibrosarcoma Protuberans
 
-Adverse reactions, regardless of relationship to study drug, that were reported in at least 10% of the 12 patients treated with imatinib mesylate for DFSP in the phase 2 study are shown in Table 9.
+Adverse reactions, regardless of relationship to study drug, that were reported in at least 10% of the 12 patients treated with imatinib mesylate for DFSP in the phase 2 study are shown in Table 10.
 
-Table 9 Adverse Reactions Regardless of Relationship to Study Drug Reported in DFSP Patients in the Phase 2 Study (≥10% All Patients) All Grades
+Table 10 Adverse Reactions Regardless of Relationship to Study Drug Reported in DFSP Patients in the Phase 2 Study (≥10% All Patients) All Grades
 
 | Preferred term | N=12 n (%) |
 | --- | --- |
@@ -300,9 +300,9 @@ Table 9 Adverse Reactions Regardless of Relationship to Study Drug Reported in D
 | Rhinitis | 2 (16.7) |
 | Anorexia | 2 (16.7) |
 
-Clinically relevant or severe laboratory abnormalities in the 12 patients treated with imatinib mesylate for DFSP in the phase 2 study are presented in Table 10.
+Clinically relevant or severe laboratory abnormalities in the 12 patients treated with imatinib mesylate for DFSP in the phase 2 study are presented in Table 11.
 
-Table 10 Laboratory Abnormalities Reported in DFSP Patients in the Phase 2 Study
+Table 11 Laboratory Abnormalities Reported in DFSP Patients in the Phase 2 Study
 
 |  | N=12 |  |
 | --- | --- | --- |
@@ -353,7 +353,7 @@ Respiratory, Thoracic and Mediastinal Disorders: Estimated 1% to 10%: epistaxis 
 
 Eye, Ear and Labyrinth Disorders: Estimated 1% to 10%: conjunctivitis, vision blurred, orbital edema, conjunctival hemorrhage, dry eye Estimated 0.1% to 1%: vertigo, tinnitus, eye irritation, eye pain, scleral hemorrhage, retinal hemorrhage, blepharitis, macular edema, hearing loss, cataract Estimated 0.01% to 0.1%: papilledema1, glaucoma
 
-1 Including some fatalities
+1Including some fatalities
 
 ## 6.11 Postmarketing Experience
 
