@@ -13,7 +13,7 @@ Patients should be periodically reassessed to determine the continued need for m
 
 Adolescents
 
-DThe recommended target dose of aripiprazole is 10 mg/day.
+The recommended target dose of aripiprazole is 10 mg/day.
 Aripiprazole was studied in adolescent patients 13 to 17 years of age with schizophrenia at daily doses of 10 mg and 30 mg.
 The starting daily dose of the tablet formulation in these patients was 2 mg, which was titrated to 5 mg after 2 days and to the target dose of 10 mg after 2 additional days.
 Subsequent dose increases should be administered in 5 mg increments.

@@ -6,21 +6,21 @@ Read this Medication Guide before you start taking Aripiprazole Oral Solution an
 There may be new information.
 This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or treatment.
 
-Whatisthe most important information I should know about Aripiprazole?
+What is the most important information I should know about Aripiprazole?
 
 (For other side effects, also see “What are the possible side effects of Aripiprazole?”).
 
 Serious side effects may happen when you take Aripiprazole Oral Solution, including:
 
-- Increasedriskofdeathinelderlypatientswithdementia-relatedpsychosis:Medicines like aripiprazole can raise the risk of death in elderly people who have lost touch with reality (psychosis) due to confusion and memory loss (dementia).
+- Increased risk of death in elderly patients with dementia-related psychosis: Medicines like aripiprazole can raise the risk of death in elderly people who have lost touch with reality (psychosis) due to confusion and memory loss (dementia).
   Aripiprazole is not approved for the treatment of patients with dementia-related psychosis.
-- Riskofsuicidalthoughtsoractions:Antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions:
+- Risk of suicidal thoughts or actions: Antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions:
 
-1. Antidepressantmedicinesmayincreasesuicidalthoughtsoractionsinsomechildren,teenagers,andyoung adults within the first few months of treatment.
-2. Depressionandotherseriousmentalillnessesarethe most important causes of suicidal thoughts and actions.
+1. Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
+2. Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
    Some people may have a particularly high risk of having suicidal thoughts or actions.
    These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
-3. HowcanI watch for and try to prevent suicidal thoughts and actions in myself or a family member?
+3. How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
 
 - Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
   This is very important when an antidepressant medicine is started or when the dose is changed.
@@ -28,7 +28,7 @@ Serious side effects may happen when you take Aripiprazole Oral Solution, includ
   - Keep all follow-up visits with the healthcare provider as scheduled.
     Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
 
-Calla healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
+Call a healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
 
 - thoughts about suicide or dying
 - attempts to commit suicide
@@ -43,24 +43,25 @@ Calla healthcare provider right away if you or your family member has any of the
   - an extreme increase in activity and talking (mania)
   - other unusual changes in behavior or mood
 
-WhatelsedoI need to know about antidepressant medicines?
+What else do I need to know about antidepressant medicines?
 
-- Neverstop an antidepressant medicine without first talking to a healthcare provider.
+- Never stop an antidepressant medicine without first talking to a healthcare provider.
   Stopping an antidepressant medicine suddenly can cause other symptoms.
-- Antidepressantsaremedicinesused to treat depression and other illnesses.
+- Antidepressants are medicines used to treat depression and other illnesses.
   It is important to discuss all the risks of treating depression and also the risks of not treating it.
   Patients and their families or other caregivers should discuss all treatment choices with the healthcare provider, not just the use of antidepressants.
-- Antidepressantmedicineshaveothersideeffects.Talk to the healthcare provider about the side effects of the medicine prescribed for you or your family member.
-- Antidepressantmedicinescaninteractwithother medicines.
+- Antidepressant medicines have other side effects.
+  Talk to the healthcare provider about the side effects of the medicine prescribed for you or your family member.
+- Antidepressant medicines can interact with other medicines.
   Know all of the medicines that you or your family member takes.
   Keep a list of all medicines to show the healthcare provider.
   Do not start new medicines without first checking with your healthcare provider.
-  - NotallantidepressantmedicinesprescribedforchildrenareFDAapprovedforuse in children.
-    Talk to your child’s healthcare provider for more information.
+- Not all antidepressant medicines prescribed for children are FDA approved for use in children.
+  Talk to your child’s healthcare provider for more information.
 
 WhatisAripiprazole?
 
-- Aripiprazole OralSolutionis prescription medicine used to treat:
+- Aripiprazole Oral Solution is prescription medicine used to treat:
   - Schizophrenia
   - manic or mixed episodes that happen with bipolar I disorder
 
@@ -223,3 +224,8 @@ Manufactured by:
 Silarx Pharmaceuticals, Inc.
 
 Carmel, NY 10512 USA
+
+PI# 0570-0816
+
+Rev.
+08/16
