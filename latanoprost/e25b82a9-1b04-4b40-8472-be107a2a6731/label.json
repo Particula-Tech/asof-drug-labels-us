@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA202442"
+  ],
+  "inn": "latanoprost",
+  "labeler": "Rising Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "64980-516-25"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "latanoprost",
+      "name": "LATANOPROST"
+    }
+  ],
+  "setid": "e25b82a9-1b04-4b40-8472-be107a2a6731",
+  "source": "dailymed"
+}
