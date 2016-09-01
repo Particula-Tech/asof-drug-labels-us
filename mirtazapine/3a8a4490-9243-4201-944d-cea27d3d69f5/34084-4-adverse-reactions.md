@@ -65,6 +65,9 @@ ECG Changes The electrocardiograms for 338 patients who received mirtazapine tab
 Prolongation in QTc ≥500 msec was not observed among mirtazapine-treated patients; mean change in QTc was +1.6 msec for mirtazapine and –3.1 msec for placebo.
 Mirtazapine was associated with a mean increase in heart rate of 3.4 bpm, compared to 0.8 bpm for placebo.
 The clinical significance of these changes is unknown.
+The effect of mirtazapine on QTc interval was assessed in a clinical randomized trial with placebo and positive (moxifloxacin) controls involving 54 healthy volunteers using exposure response analysis.
+This trial showed a positive relationship between mirtazapine concentrations and prolongation of the QTc interval.
+However the degree of QT prolongation observed with both 45 mg (therapeutic) and 75 mg (supratherapeutic) doses of mirtazapine was not at a level generally considered to be clinically meaningful.
 Other Adverse Events Observed During the Premarketing Evaluation of Mirtazapine During its premarketing assessment, multiple doses of mirtazapine tablets were administered to 2796 patients in clinical studies.
 The conditions and duration of exposure to mirtazapine varied greatly, and included (in overlapping categories) open and double-blind studies, uncontrolled and controlled studies, inpatient and outpatient studies, fixed-dose and titration studies.
 Untoward events associated with this exposure were recorded by clinical investigators using terminology of their own choosing.
@@ -93,8 +96,7 @@ Skin and Appendages: frequent: pruritus, rash; infrequent: acne, exfoliative der
 Special Senses: infrequent: eye pain, abnormality of accommodation, conjunctivitis, deafness, keratoconjunctivitis, lacrimation disorder, angle-closure glaucoma, hyperacusis, ear pain; rare: blepharitis, partial transitory deafness, otitis media, taste loss, parosmia.
 Urogenital System: frequent: urinary tract infection; infrequent: kidney calculus, cystitis, dysuria, urinary incontinence, urinary retention, vaginitis, hematuria, breast pain, amenorrhea, dysmenorrhea, leukorrhea, impotence; rare: polyuria, urethritis, metrorrhagia, menorrhagia, abnormal ejaculation, breast engorgement, breast enlargement, urinary urgency.
 
-Other Adverse Events Observed During Postmarketing Evaluation of Mirtazapine Adverse events reported since market introduction, which were temporally (but not necessarily causally) related to mirtazapine therapy, include 4 cases of the ventricular arrhythmia torsades de pointes.
-In 3 of the 4 cases, however, concomitant drugs were implicated.
-All patients recovered.
+Other Adverse Events Observed During Postmarketing Evaluation of Mirtazapine Adverse events reported since market introduction, which were temporally (but not necessarily causally) related to mirtazapine therapy, include cases of the ventricular arrhythmia Torsades de Pointes.
+In the majority of these cases, however, concomitant drugs were implicated.
 Cases of severe skin reactions, including Stevens-Johnson syndrome, bullous dermatitis, erythema multiforme and toxic epidermal necrolysis have also been reported.
 Increased creatine kinase blood levels and rhabdomyolysis have also been reported.

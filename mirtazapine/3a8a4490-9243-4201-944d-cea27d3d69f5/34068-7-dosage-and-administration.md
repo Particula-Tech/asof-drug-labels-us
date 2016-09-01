@@ -25,7 +25,7 @@ The patient should be monitored for symptoms of serotonin syndrome for 2 weeks o
 Therapy with mirtazapine orally disintegrating tablets may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue (see WARNINGS).
 The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with mirtazapine orally disintegrating tablets is unclear.
 The clinician should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use (see WARNINGS).
-Discontinuation of Mirtazapine Treatment Symptoms associated with the discontinuation or dose reduction of mirtazapine orally disintegrating tablets have been reported.
+Discontinuation of Mirtazapine Orally Disintegrating Tablets Treatment Symptoms associated with the discontinuation or dose reduction of mirtazapine orally disintegrating tablets have been reported.
 Patients should be monitored for these and other symptoms when discontinuing treatment or during dosage reduction.
 A gradual reduction in the dose over several weeks, rather than abrupt cessation, is recommended whenever possible.
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, dose titration should be managed on the basis of the patient’s clinical response (see PRECAUTIONS and ADVERSE REACTIONS).

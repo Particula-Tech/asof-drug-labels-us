@@ -9,4 +9,4 @@ The structural formula is the following and it is the racemic mixture:
 Mirtazapine USP is a white to creamy white crystalline powder which is slightly soluble in water.
 Mirtazapine Orally Disintegrating Tablets, USP are available for oral administration as an orally disintegrating tablet containing 15, 30, or 45 mg of mirtazapine USP.
 It disintegrates in the mouth within seconds after placement on the tongue, allowing its contents to be subsequently swallowed with or without water.
-Mirtazapine Orally Disintegrating Tablets, USP also contain the following inactive ingredients: mannitol, aspartame, natural and artificial peppermint flavor, strawberry guarana flavor, crospovidone, magnesium stearate, colloidal silicon dioxide, and microcrystalline cellulose.
+Mirtazapine Orally Disintegrating Tablets, USP also contain the following inactive ingredients: mannitol, aspartame, natural and artificial peppermint flavor, strawberry guarana flavor, crospovidone, magnesium stearate, colloidal silicon dioxide and microcrystalline cellulose.

@@ -10,7 +10,6 @@ Short-term studies did not show an increase in the risk of suicidality with anti
 The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4400 patients.
 The pooled analyses of placebo-controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short-term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
 There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
-
 There were differences in absolute risk of suicidality across different indications, with the highest incidence in MDD.
 The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
 These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 1.
@@ -36,7 +35,6 @@ Although a causal link between the emergence of such symptoms and either the wor
 Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
 Such monitoring should include daily observation by families and caregivers.
-
 Prescriptions for mirtazapine orally disintegrating tablets should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 Screening Patients for Bipolar Disorder: A major depressive episode may be the initial presentation of bipolar disorder.
 It is generally believed (though not established in controlled trials) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed/manic episode in patients at risk for bipolar disorder.
@@ -60,6 +58,12 @@ Mirtazapine Orally Disintegrating Tablets should be discontinued before initiati
 If concomitant use of mirtazapine orally disintegrating tablets with other serotonergic drugs, including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, and St. John's wort, is clinically warranted, be aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
 Treatment with mirtazapine orally disintegrating tablets and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 Angle-Closure Glaucoma The pupillary dilation that occurs following use of many antidepressant drugs including mirtazapine orally disintegrating tablets may trigger an angle-closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+QT Prolongation and Torsades de Pointes The effect of mirtazapine on QTc interval was assessed in a clinical randomized trial with placebo and positive (moxifloxacin) controls involving 54 healthy volunteers using exposure response analysis.
+This trial showed a positive relationship between mirtazapine concentrations and prolongation of the QTc interval.
+However the degree of QT prolongation observed with both 45 mg (therapeutic) and 75 mg (supratherapeutic) doses of mirtazapine was not at a level generally considered to be clinically meaningful.
+During the postmarketing use of mirtazapine, cases of QT prolongation, Torsades de Pointes, ventricular tachycardia, and sudden death, have been reported (see ADVERSE REACTIONS).
+The majority of reports occurred in association with overdose or in patients with other risk factors for QT prolongation, including concomitant use of QTc-prolonging medicines (see PRECAUTIONS, Drug Interactions and OVERDOSE sections).
+Caution should be exercised when mirtazapine orally disintegrating tablets is prescribed in patients with known cardiovascular disease or family history of QT prolongation, and in concomitant use with other medicinal products thought to prolong the QTc interval.
 
 # PRECAUTIONS
 
@@ -119,9 +123,9 @@ Families and caregivers of patients should be advised to look for the emergence 
 Such symptoms should be reported to the patient's prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication.
 Agranulocytosis Patients who are to receive mirtazapine orally disintegrating tablets should be warned about the risk of developing agranulocytosis.
-Patients should be advised to contact their physician if they experience any indication of infection such as fever, chills, sore throat, mucous membrane ulceration or other possible signs of infection.
+Patients should be advised to contact their physician if they experience any indication of infection such as fever, chills, sore throat, mucous membrane ulceration, or other possible signs of infection.
 Particular attention should be paid to any flu-like complaints or other symptoms that might suggest infection.
-Interference with Cognitive and Motor Performance Mirtazapine Orally Disintegrating Tablets may impair judgement, thinking, and particularly, motor skills, because of its prominent sedative effect.
+Interference with Cognitive and Motor Performance Mirtazapine Orally Disintegrating Tablets may impair judgment, thinking, and particularly, motor skills, because of its prominent sedative effect.
 The drowsiness associated with mirtazapine use may impair a patient’s ability to drive, use machines, or perform tasks that require alertness.
 Thus, patients should be cautioned about engaging in hazardous activities until they are reasonably certain that mirtazapine orally disintegrating tablets therapy does not adversely affect their ability to engage in such activities.
 Completing Course of Therapy While patients may notice improvement with mirtazapine orally disintegrating tablets therapy in 1 to 4 weeks, they should be advised to continue therapy as directed.
@@ -166,6 +170,7 @@ Accordingly, patients should be advised to avoid alcohol while taking mirtazapin
 Diazepam Concomitant administration of diazepam (15 mg) had a minimal effect on plasma levels of mirtazapine (15 mg) in 12 healthy subjects.
 However, the impairment of motor skills produced by mirtazapine has been shown to be additive with those caused by diazepam.
 Accordingly, patients should be advised to avoid diazepam and other similar drugs while taking mirtazapine orally disintegrating tablets.
+QTc-Prolonging Drugs The risk of QT prolongation and/or ventricular arrhythmias (e.g., Torsades de Pointes) may be increased with concomitant use of medicines which prolong the QTc interval (e.g., some antipsychotics and antibiotics) and in case of mirtazapine overdose (see ADVERSE REACTIONS and OVERDOSE sections).
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -177,7 +182,7 @@ The data suggest that the above effects could possibly be mediated by non-genoto
 The doses used in the mouse study may not have been high enough to fully characterize the carcinogenic potential of mirtazapine tablets.
 Mutagenesis Mirtazapine was not mutagenic or clastogenic and did not induce general DNA damage as determined in several genotoxicity tests: Ames test, in vitro gene mutation assay in Chinese hamster V 79 cells, in vitro sister chromatid exchange assay in cultured rabbit lymphocytes, in vivo bone marrow micronucleus test in rats, and unscheduled DNA synthesis assay in HeLa cells.
 Impairment of Fertility In a fertility study in rats, mirtazapine was given at doses up to 100 mg/kg [20 times the maximum recommended human dose (MRHD) on an mg/m2 basis].
-Mating and conception were not affected by the drug, but estrous cycling was disrupted at doses that were 3 or more times the MRHD and pre-implantation losses occurred at 20 times the MRHD.
+Mating and conception were not affected by the drug, but estrous cycling was disrupted at doses that were 3 or more times the MRHD, and pre-implantation losses occurred at 20 times the MRHD.
 
 ## Pregnancy
 
