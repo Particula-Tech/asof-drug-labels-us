@@ -2,39 +2,40 @@
 
 ## Usual Adult Dosage
 
-| Type of infection | Dose | Frequency |
+| Type of Infection | Dose | Frequency |
 | --- | --- | --- |
 | Moderate to severe infections | 500 mg to 1 gram | every 6 to 8 hours |
 | Mild infections caused by susceptible gram-positive cocci | 250 mg to 500 mg | every 8 hours |
 | Acute, uncomplicated urinary tract infections | 1 gram | every 12 hours |
 | Pneumococcal pneumonia | 500 mg | every 12 hours |
-| Severe, life-threatening infections (e.g., endocarditis, septicemia)* | 1 gram to 1.5 grams | every 6 hours |
-
-* In rare instances, doses of up to 12 grams of cefazolin for injection per day have been used.
+| Severe, life-threatening infections (e.g., endocarditis, septicemia)In rare instances, doses of up to 12 grams of Cefazolin for Injection per day have been used. | 1 gram to 1.5 grams | every 6 hours |
 
 ## Perioperative Prophylactic Use
 
-To prevent postoperative infection in contaminated or potentially contaminated surgery, recommended doses are: a. 1 gram IV administered ½ hour to 1 hour prior to the start of surgery. b. For lengthy operative procedures (e.g., 2 hours or more), 500 mg to 1 gram IV during surgery (administration modified depending on the duration of the operative procedure). c. 500 mg to 1 gram IV every 6 to 8 hours for 24 hours postoperatively.
+To prevent postoperative infection in contaminated or potentially contaminated surgery, recommended doses are:
 
-It is important that (1) the preoperative dose be given just (1/2 to 1 hour) prior to the start of surgery so that adequate antibiotic levels are present in the serum and tissues at the time of initial surgical incision and (2) cefazolin for injection be administered, if necessary, at appropriate intervals during surgery to provide sufficient levels of the antibiotic at the anticipated moments of greatest exposure to infective organisms.
+1. 1 gram IV administered ½ hour to 1 hour prior to the start of surgery.
+2. For lengthy operative procedures (e.g., 2 hours or more), 500 mg to 1 gram IV during surgery (administration modified depending on the duration of the operative procedure).
+3. 500 mg to 1 gram IV every 6 to 8 hours for 24 hours postoperatively.
 
-In surgery where the occurrence of infection may be particularly devastating (e.g., open-heart surgery and prosthetic arthroplasty), the prophylactic administration of cefazolin for injection may be continued for 3 to 5 days following the completion of surgery.
+It is important that (1) the preoperative dose be given just (1/2 to 1 hour) prior to the start of surgery so that adequate antibiotic levels are present in the serum and tissues at the time of initial surgical incision; and (2) Cefazolin for Injection be administered, if necessary, at appropriate intervals during surgery to provide sufficient levels of the antibiotic at the anticipated moments of greatest exposure to infective organisms.
+
+In surgery where the occurrence of infection may be particularly devastating (e.g., open-heart surgery and prosthetic arthroplasty), the prophylactic administration of Cefazolin for Injection may be continued for 3 to 5 days following the completion of surgery.
 
 ## Dosage Adjustment for Patients with Reduced Renal Function
 
-Cefazolin for injection may be used in patients with reduced renal function with the following dosage adjustments.
-Patients with a creatinine clearance of 55 mL/min or greater or a serum creatinine of 1.5 mg % or less can be given full doses.
+Cefazolin for injection may be used in patients with reduced renal function with the following dosage adjustments: Patients with a creatinine clearance of 55 mL/min or greater or a serum creatinine of 1.5 mg % or less can be given full doses.
 Patients with creatinine clearance rates of 35 to 54 mL/min or serum creatinine of 1.6 to 3 mg % can also be given full doses but dosage should be restricted to at least 8 hour intervals.
 Patients with creatinine clearance rates of 11 to 34 mL/min or serum creatinine of 3.1 to 4.5 mg % should be given 1/2 the usual dose every 12 hours.
 Patients with creatinine clearance rates of 10 mL/min or less or serum creatinine of 4.6 mg % or greater should be given 1/2 the usual dose every 18 to 24 hours.
 All reduced dosage recommendations apply after an initial loading dose appropriate to the severity of the infection.
-Patients undergoing peritoneal dialysis, see CLINICAL PHARMACOLOGY.
+Patients undergoing peritoneal dialysis: See CLINICAL PHARMACOLOGY.
 
 ## Pediatric Dosage
 
 In pediatric patients, a total daily dosage of 25 to 50 mg/kg (approximately 10 to 20 mg/lb) of body weight, divided into 3 or 4 equal doses, is effective for most mild to moderately severe infections.
 Total daily dosage may be increased to 100 mg/kg (45 mg/lb) of body weight for severe infections.
-Since safety for use in premature infants and in neonates has not been established, the use of cefazolin for injection in these patients is not recommended.
+Since safety for use in premature infants and in neonates has not been established, the use of Cefazolin for Injection in these patients is not recommended.
 
 In pediatric patients with mild to moderate renal impairment (creatinine clearance of 70 to 40 mL/min), 60% of the normal daily dose given in equally divided doses every 12 hours should be sufficient.
 In patients with moderate impairment (creatinine clearance of 40 to 20 mL/min), 25% of the normal daily dose given in equally divided doses every 12 hours should be adequate.
@@ -50,7 +51,7 @@ If particulate matter is evident in reconstituted fluids, the drug solutions sho
 
 Reconstituted solutions may range in color from pale yellow to yellow without a change in potency.
 
-### Directions for Proper Use of Pharmacy Bulk Package
+### Directions for Proper Use of a Pharmacy Bulk Package
 
 Not for direct infusion.
 This Pharmacy Bulk Package is for use in a hospital pharmacy admixture service only in a suitable work area, such as a laminar flow hood.
