@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA204945"
+  ],
+  "inn": "trospium",
+  "labeler": "Heritage Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "23155-530-02",
+    "23155-530-05"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "trospium chloride",
+      "name": "Trospium Chloride"
+    }
+  ],
+  "setid": "570c3ae7-8011-4944-8935-57d0a66102aa",
+  "source": "dailymed"
+}
