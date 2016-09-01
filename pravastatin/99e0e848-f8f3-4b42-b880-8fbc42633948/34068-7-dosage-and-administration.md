@@ -14,7 +14,6 @@ Since the maximal effect of a given dose is seen within 4 weeks, periodic lipid 
 ## 2.3 Patients with Renal Impairment
 
 In patients with severe renal impairment, a starting dose of 10 mg pravastatin daily is recommended.
-Although the pravastatin sodium 10 mg tablets are no longer available, pravastatin 10 mg tablets are available.
 
 ## 2.4 Pediatric Patients
 
