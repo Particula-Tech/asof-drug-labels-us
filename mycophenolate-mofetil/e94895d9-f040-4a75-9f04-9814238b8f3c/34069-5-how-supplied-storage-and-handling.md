@@ -1,17 +1,21 @@
 # HOW SUPPLIED
 
-Mycophenolate Mofetil Capsules USP, 250 mg are supplied as caramel opaque/blue opaque capsules with "54 848" printed in black ink on the capsule and body, containing a white to an off-white powder.
+Mycophenolate Mofetil Capsules USP
 
-Mycophenolate Mofetil Tablets USP, 500 mg are supplied as white, modified oval tablets debossed with product identification "54 135" on one side and plain on the other side.
+250 mg capsules are supplied as caramel opaque/blue opaque capsules with product identification “54 848” printed in black ink on the cap and body, containing a white to off-white powder.
 
-| 0054-0163-25 | 250 mg, caramel opaque/blue opaque capsules, bottle of 100 |
-| --- | --- |
-| 0054-0163-29 | 250 mg, caramel opaque/blue opaque capsules, bottle of 500 |
-| 0054-0166-25 | 500 mg, white tablets, bottle of 100 |
-| 0054-0166-29 | 500 mg, white tablets, bottle of 500 |
+NDC 0054-0163-25: Bottle of 100 Capsules
+
+NDC 0054-0163-29: Bottle of 500 Capsules
+
+500 mg tablets are supplied as white film coated modified oval biconvex tablets debossed with product identification “54 135” on one side and plain on the other side.
+
+NDC 0054-0166-25: Bottle of 100 Tablets
+
+NDC 0054-0166-29: Bottle of 500 Tablets
 
 Storage
 
-Store at 25°C (77°F).
-See USP Controlled Room Temperature; excursions permitted to 15° to 30°C (59° to 86°F).
-Dispense in light-resistant containers, such as the manufacturer's original containers.
+Store at 20° to 25°C (68° to 77°F).
+[See USP Controlled Room Temperature.]
+Dispense in a tight, light-resistant, child-resistant container as defined in the USP/NF.

@@ -1,15 +1,17 @@
-# REFERENCES
+# References
 
-1Sandimmune® is a registered trademark of Novartis Pharmaceuticals Corporation.
+1. 1.Sandimmune® is a registered trademark of Novartis Pharmaceuticals Corporation.
+2. 2.ATGAM® is a registered trademark of Pharmacia and Upjohn Company.
+3. 3.Neoral® is a registered trademark of Novartis Pharmaceuticals Corporation.
+4. 4.Orthoclone OKT® is a registered trademark of Ortho Biotech Inc.
+5. 5.Maalox® is a registered trademark of Novartis Consumer Health, Inc.
 
-2ATGAM® is a registered trademark of Pharmacia and Upjohn Company.
+Distr. by: West-Ward
 
-3Neoral® is a registered trademark of Novartis Pharmaceuticals Corporation.
+Pharmaceuticals Corp.
 
-4Orthoclone OKT® is a registered trademark of Ortho Biotech Inc.
+Eatontown, NJ 07724
 
-5Maalox® is a registered trademark of Novartis Consumer Health, Inc.
+10004763/09
 
-10004763/07
-
-Revised December 2013 © RLI, 2013
+Revised May 2016

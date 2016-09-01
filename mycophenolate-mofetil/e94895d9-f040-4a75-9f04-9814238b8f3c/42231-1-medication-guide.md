@@ -2,7 +2,11 @@
 
 MYCOPHENOLATE MOFETIL Capsules USP and Tablets USP
 
-Read the Medication Guide that comes with Mycophenolate Mofetil Capsules USP and Tablets USP before you start taking it and each time you refill your prescription.
+(MYE-koe-FEN-oh-late MOE-fe-til)
+
+Rx Only
+
+Read the Medication Guide that comes with mycophenolate mofetil capsules USP and tablets USP before you start taking it and each time you refill your prescription.
 There may be new information.
 This Medication Guide does not take the place of talking with your doctor about your medical condition or your treatment.
 
@@ -19,10 +23,12 @@ If you are a female who can become pregnant
 - •you should have one pregnancy test immediately before starting mycophenolate mofetil and another pregnancy test 8 to 10 days later.
   Pregnancy tests should be repeated during routine follow-up visits with your doctor.
   Talk to your doctor about the results of all of your pregnancy tests.
-- •you must use acceptable birth control during your entire mycophenolate mofetil therapy and for 6 weeks after stopping mycophenolate mofetil, unless at any time you choose to avoid sexual intercourse (abstinence) with a man completely.Mycophenolate mofetil decreases blood levels of the hormones in birth control pills that you take by mouth.
-  Birth control pills may not work as well while you take mycophenolate mofetil, and you could become pregnant.
-  If you take birth control pills while using mycophenolate mofetil you must also use another form of birth control.
-  Talk to your doctor about other birth control methods that you can use while taking mycophenolate mofetil.
+- •you must use acceptable birth control during your entire mycophenolate mofetil therapy and for 6 weeks after stopping mycophenolate mofetil, unless at any time you choose to avoid sexual intercourse (abstinence) with a man completely.
+
+Mycophenolate mofetil decreases blood levels of the hormones in birth control pills that you take by mouth.
+Birth control pills may not work as well while you take mycophenolate mofetil, and you could become pregnant.
+If you take birth control pills while using mycophenolate mofetil you must also use another form of birth control.
+Talk to your doctor about other birth control methods that you can use while taking mycophenolate mofetil.
 
 If you plan to become pregnant, talk with your doctor.
 Your doctor will decide if other medicines to prevent rejection may be right for you.
@@ -31,7 +37,7 @@ If you become pregnant while taking mycophenolate mofetil, do not stop taking my
 Call your doctor right away.
 In certain situations, you and your doctor may decide that taking mycophenolate mofetil is more important to your health than the possible risks to your unborn baby.
 
-- •You and your doctor should report your pregnancy to
+- •You and your doctor should report your pregnancy to:
   - oMycophenolate Pregnancy Registry (1-800-617-8191)
 
 The purpose of this registry is to gather information about the health of you and your baby.
@@ -57,9 +63,9 @@ The purpose of this registry is to gather information about the health of you an
     - ▪Weakness on one side of the body
     - ▪You do not care about things that you usually care about (apathy)
     - ▪You are confused or have problems thinking
-    - ▪You can not control your muscles
+    - ▪You cannot control your muscles
   - oFungal infections.
-    Yeasts and other types of fungal infections can happen with mycophenolate mofetil and can cause serious tissue and blood infections (see “What are the possible side effects of Mycophenolate Mofetil Capsules and Tablets?”).
+    Yeasts and other types of fungal infections can happen with mycophenolate mofetil and can cause serious tissue and blood infections (see “What are the possible side effects of Mycophenolate Mofetil Capsules and Tablets?”)
 
 Call your doctor right away if you have any of the following signs and symptoms of infection:
 
@@ -220,16 +226,14 @@ These are not all of the possible side effects of mycophenolate mofetil.
 Tell your doctor about any side effect that bothers you or that does not go away.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to the FDA at 1-800-FDA-1088 or to Roxane Laboratories, Inc., at 1-800-962-8364.
+You may report side effects to the FDA at 1-800-FDA-1088 or to West-Ward Pharmaceuticals Corp. at 1-800-962-8364.
 
 How should I store Mycophenolate Mofetil Capsules and Tablets?
 
-- •Store Mycophenolate Mofetil Capsules and Tablets at room temperature, between 59°F to 86°F (15°C to 30°C).
+- •Store Mycophenolate Mofetil Capsules and Tablets at 20° to 25°C (68° to 77°F).
+  [See USP Controlled Room Temperature.]
   Keep the container closed tightly.
-- •Store the prepared mycophenolate mofetil oral suspension at room temperature, between 59°F to 86°F (15°C to 30°C), for up to 60 days.
-  You can also store mycophenolate mofetil oral suspension in the refrigerator at 36°F to 46°F (2°C to 8°C).
-  Do not freeze mycophenolate mofetil oral suspension.
-- •Keep Mycophenolate Mofetil Capsules and Tablets and all medicines out of the reach of children.
+- •Keep this and all drugs out of the reach of children.
 
 General Information about Mycophenolate Mofetil Capsules and Tablets
 
@@ -241,16 +245,18 @@ It may harm them.
 This Medication Guide summarizes the most important information about mycophenolate mofetil.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about mycophenolate mofetil that is written for healthcare professionals.
-For more information, call 1-800-962-8364 or visit www.Roxane.com.
+For more information, call 1-800-962-8364.
 
 What are the ingredients in Mycophenolate Mofetil Capsules and Tablets?
 
 Active Ingredient: mycophenolate mofetil USP
 
-Inactive Ingredients:Mycophenolate Mofetil Capsules USP, 250 mg: croscarmellose sodium, magnesium stearate, povidone, and pregelatinized starch.
-The capsule shells contain FD&C blue #1, FD&C red #3, gelatin, red iron oxide, titanium dioxide, and yellow iron oxide.
+Inactive Ingredients:Mycophenolate Mofetil Capsules USP, 250 mg: croscarmellose sodium, magnesium stearate, Opacode (Black) monogramming ink, povidone and pregelatinized starch.
+Opacode (Black) contains: ammonium hydroxide, ethanol, iron oxide black, isopropyl alcohol, n-butyl alcohol, propylene glycol and shellac glaze.
+The capsule shells contain: FD&C Blue #1, FD&C Red #3, gelatin, red iron oxide, titanium dioxide and yellow iron oxide.
 
-Mycophenolate Mofetil Tablets USP, 500 mg: croscarmellose sodium, hypromellose, macrogol, magnesium stearate, microcrystalline cellulose, polydextrose, povidone, pregelatinized starch, titanium dioxide, and triacetin.
+Mycophenolate Mofetil Tablets USP, 500 mg: croscarmellose sodium, magnesium stearate, microcrystalline cellulose, Opadry II (White), povidone and pregelatinized starch.
+Opadry II (White) contains: hypromellose, macrogol, polydextrose, titanium dioxide and triacetin.
 
 This Medication Guide has been approved by the US Food and Drug Administration.
 
@@ -262,8 +268,12 @@ Any other trademarks in this document are the property of their respective owner
 
 For additional copies of this Medication Guide, please call 1-800-962-8364 or visit www.Roxane.com.
 
-Roxane Laboratories, Inc. Columbus, Ohio 43216
+Distr. by: West-Ward
 
-10004763/07
+Pharmaceuticals Corp.
 
-Revised December 2013 © RLI, 2013
+Eatontown, NJ 07724
+
+10004763/09
+
+Revised May 2016

@@ -18,13 +18,13 @@ Patients with a body surface area >1.5 m2 may be dosed with mycophenolate mofeti
 
 Adults
 
-A dose of 1.5 g bid oral (daily dose of 3 g) is recommended for use in adult cardiac transplant patients.
+A dose of 1.5 g bid administered orally (daily dose of 3 g) is recommended for use in adult cardiac transplant patients.
 
 ## Hepatic Transplantation
 
 Adults
 
-A dose of 1.5 g bid oral (daily dose of 3 g) is recommended for use in adult hepatic transplant patients.
+A dose of 1.5 g bid administered orally (daily dose of 3 g) is recommended for use in adult hepatic transplant patients.
 
 ## Mycophenolate Mofetil Capsules, Tablets, and Oral Suspension
 
@@ -56,11 +56,11 @@ Mycophenolate mofetil intravenous is an alternative dosage form to mycophenolate
 Mycophenolate mofetil intravenous should be administered within 24 hours following transplantation.
 Mycophenolate mofetil intravenous can be administered for up to 14 days; patients should be switched to oral mycophenolate mofetil as soon as they can tolerate oral medication.
 
-Mycophenolate mofetil intravenous must be reconstituted and diluted to a concentration of 6 mg/mL using 5% Dextrose Injection USP.
+Mycophenolate mofetil intravenous must be reconstituted and diluted to a concentration of 6 mg/mL using 5% Dextrose Injection.
 Mycophenolate mofetil intravenous is incompatible with other intravenous infusion solutions.
 Following reconstitution, mycophenolate mofetil intravenous must be administered by slow intravenous infusion over a period of NO LESS THAN 2 HOURS by either peripheral or central vein.
 
-CAUTION: MYCOPHENOLATE MOFETIL INTRAVENOUS SOLUTION SHOULD NEVER BE ADMINISTERED BY RAPID OR BOLUS INTRAVENOUS INJECTION (see WARNINGS).
+CAUTION: MYCOPHENOLATE MOFETIL INTRAVENOUS SOLUTION MUST NOT BE ADMINISTERED BY RAPID OR BOLUS INTRAVENOUS INJECTION (see WARNINGS).
 
 ## Dosage Adjustments
 
@@ -71,4 +71,4 @@ No dose adjustments are needed in renal transplant patients experiencing delayed
 No data are available for cardiac or hepatic transplant patients with severe chronic renal impairment.
 Mycophenolate mofetil may be used for cardiac or hepatic transplant patients with severe chronic renal impairment if the potential benefits outweigh the potential risks.
 
-If neutropenia develops (ANC <1.3 x 103/mcL), dosing with mycophenolate mofetil should be interrupted or the dose reduced, appropriate diagnostic tests performed, and the patient managed appropriately (see WARNINGS:Neutropenia, ADVERSE REACTIONS, and PRECAUTIONS: Laboratory Tests).
+If neutropenia develops (ANC <1.3 x 103/mcL), dosing with mycophenolate mofetil should be interrupted or the dose reduced, appropriate diagnostic tests performed, and the patient managed appropriately (see WARNINGS: Neutropenia, ADVERSE REACTIONS, and PRECAUTIONS: Laboratory Tests).

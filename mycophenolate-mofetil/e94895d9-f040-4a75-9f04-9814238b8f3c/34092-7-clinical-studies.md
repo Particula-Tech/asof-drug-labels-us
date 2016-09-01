@@ -1,6 +1,6 @@
-# CLINICAL STUDIES
+# Clinical Studies
 
-Adults
+## Adults
 
 The safety and efficacy of mycophenolate mofetil in combination with corticosteroids and cyclosporine for the prevention of organ rejection were assessed in randomized, double-blind, multicenter trials in renal (3 trials), in cardiac (1 trial), and in hepatic (1 trial) adult transplant patients.
 
@@ -61,7 +61,7 @@ The rate of biopsy-proven rejection was similar across the age groups (3 months 
 The overall biopsy-proven rejection rate at 6 months was comparable to adults.
 The combined incidence of graft loss (5%) and patient death (2%) at 12 months posttransplant was similar to that observed in adult renal transplant patients.
 
-Cardiac Transplant
+## Cardiac Transplant
 
 A double-blind, randomized, comparative, parallel-group, multicenter study in primary cardiac transplant recipients was performed at 20 centers in the United States, 1 in Canada, 5 in Europe and 2 in Australia.
 The total number of patients enrolled was 650; 72 never received study drug and 578 received study drug.
