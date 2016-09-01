@@ -13,57 +13,37 @@ In view of the long and variable half-life of amiodarone, potential for drug int
 Since amiodarone is a substrate for CYP3A and CYP2C8, drugs/substances that inhibit these isoenzymes may decrease the metabolism and increase serum concentration of amiodarone.
 Reported examples include the following:
 
-## Protease inhibitors:
-
-Protease inhibitors are known to inhibit CYP3A to varying degrees.
+Protease inhibitors: Protease inhibitors are known to inhibit CYP3A to varying degrees.
 A case report of one patient taking amiodarone 200 mg and indinavir 800 mg three times a day resulted in increases in amiodarone concentrations from 0.9 mg/L to 1.3 mg/L.
 DEA concentrations were not affected.
 There was no evidence of toxicity.
 Consider monitoring for amiodarone toxicity and serial measurement of amiodarone serum concentration during concomitant protease inhibitor therapy.
 
-## Histamine H1 antagonists:
-
-Loratadine, a non-sedating antihistaminic, is metabolized primarily by CYP3A.
+Histamine H1 antagonists: Loratadine, a non-sedating antihistaminic, is metabolized primarily by CYP3A.
 QT interval prolongation and TdP have been reported with the coadministration of loratadine and amiodarone.
 
-## Histamine H2 antagonists:
+Histamine H2 antagonists: Cimetidine inhibits CYP3A and can increase serum amiodarone levels.
 
-Cimetidine inhibits CYP3A and can increase serum amiodarone levels.
-
-## Antidepressants:
-
-Trazodone, an antidepressant, is metabolized primarily by CYP3A.
+Antidepressants: Trazodone, an antidepressant, is metabolized primarily by CYP3A.
 QT interval prolongation and TdP have been reported with the coadministration of trazodone and amiodarone.
 
-## Other substances:
-
-Grapefruit juice given to healthy volunteers increased amiodarone AUC by 50% and Cmax by 84%, resulting in increased plasma levels of amiodarone.
+Other substances: Grapefruit juice given to healthy volunteers increased amiodarone AUC by 50% and Cmax by 84%, resulting in increased plasma levels of amiodarone.
 Do not take grapefruit juice during treatment with amiodarone.
 
 Amiodarone inhibits p-glycoprotein and certain CYP450 enzymes, including CYP1A2, CYP2C9, CYP2D6, and CYP3A.
 This inhibition can result in unexpectedly high plasma levels of other drugs which are metabolized by those CYP450 enzymes or are substrates for p-glycoprotein.
 Reported examples of this interaction include the following:
 
-## Immunosuppressives:
+Immunosuppressives: Cyclosporine(CYP3A substrate) administered in combination with oral amiodarone has been reported to produce persistently elevated plasma concentrations of cyclosporine resulting in elevated creatinine, despite reduction in dose of cyclosporine.
 
-Cyclosporine (CYP3A substrate) administered in combination with oral amiodarone has been reported to produce persistently elevated plasma concentrations of cyclosporine resulting in elevated creatinine, despite reduction in dose of cyclosporine.
+HMG-CoA Reductase Inhibitors: Simvastatin (CYP3A substrate) in combination with amiodarone has been associated with reports of myopathy/rhabdomyolysis.
 
-## HMG-CoA Reductase Inhibitors:
-
-Simvastatin (CYP3A substrate) in combination with amiodarone has been associated with reports of myopathy/rhabdomyolysis.
-
-## Cardiovasculars:
-
-### Cardiac glycosides:
-
-In patients receiving digoxin therapy, administration of oral amiodarone regularly results in an increase in serum digoxin concentration that may reach toxic levels with resultant clinical toxicity.
+Cardiovasculars: Cardiac glycosides: In patients receiving digoxin therapy, administration of oral amiodarone regularly results in an increase in serum digoxin concentration that may reach toxic levels with resultant clinical toxicity.
 Amiodarone taken concomitantly with digoxin increases the serum digoxin concentration by 70% after one day.
 On administration of oral amiodarone, review the need for digitalis therapy and reduce the dose of digitalis by approximately 50% or discontinue digitalis.
 If digitalis treatment is continued, monitor serum levels closely and observe patients for clinical evidence of toxicity.
 
-## Antiarrhythmics:
-
-Other antiarrhythmic drugs, such as quinidine, procainamide, disopyramide, and phenytoin, have been used concurrently with amiodarone.
+Antiarrhythmics: Other antiarrhythmic drugs, such as quinidine, procainamide, disopyramide, and phenytoin, have been used concurrently with amiodarone.
 There have been case reports of increased steady-state levels of quinidine, procainamide, and phenytoin during concomitant therapy with amiodarone.
 Phenytoin decreases serum amiodarone levels.
 Amiodarone taken concomitantly with quinidine increases quinidine serum concentration by 33% after two days.
@@ -79,13 +59,9 @@ Review the continued need for the other antiarrhythmic agent after the effects o
 If the treatment is continued, carefully monitor these patients for adverse effects, especially for conduction disturbances and exacerbation of tachyarrhythmias.
 In amiodarone-treated patients who require additional antiarrhythmic therapy, the initial dose of such agents should be approximately half of the usual recommended dose.
 
-## Antihypertensives:
+Antihypertensives: Use amiodarone with caution in patients receiving ß-receptor blocking agents (e.g., propranolol, a CYP3A inhibitor) or calcium channel antagonists (e.g., verapamil, a CYP3A substrate, and diltiazem, a CYP3A inhibitor) because of the possible potentiation of bradycardia, sinus arrest, and AV block; if necessary, amiodarone can continue to be used after insertion of a pacemaker in patients with severe bradycardia or sinus arrest.
 
-Use amiodarone with caution in patients receiving β-receptor blocking agents (e.g., propranolol, a CYP3A inhibitor) or calcium channel antagonists (e.g., verapamil, a CYP3A substrate, and diltiazem, a CYP3A inhibitor) because of the possible potentiation of bradycardia, sinus arrest, and AV block; if necessary, amiodarone can continue to be used after insertion of a pacemaker in patients with severe bradycardia or sinus arrest.
-
-## Anticoagulants:
-
-Potentiation of warfarin-type (CYP2C9 and CYP3A substrate) anticoagulant response is almost always seen in patients receiving amiodarone and can result in serious or fatal bleeding.
+Anticoagulants: Potentiation of warfarin-type (CYP2C9 and CYP3A substrate) anticoagulant response is almost always seen in patients receiving amiodarone and can result in serious or fatal bleeding.
 Since the concomitant administration of warfarin with amiodarone increases the prothrombin time by 100% after 3 to 4 days, reduce the dose of the anticoagulant by one-third to one-half, and monitor prothrombin times closely.
 
 Clopidogrel, an inactive thienopyridine prodrug, is metabolized in the liver by CYP3A to an active metabolite.
@@ -95,19 +71,13 @@ Some drugs/substances are known to accelerate the metabolism of amiodarone by st
 This may lead to low amiodarone serum levels and potential decrease in efficacy.
 Reported examples of this interaction include the following:
 
-## Antibiotics:
-
-Rifampin is a potent inducer of CYP3A.
+Antibiotics: Rifampin is a potent inducer of CYP3A.
 Administration of rifampin concomitantly with oral amiodarone has been shown to result in decreases in serum concentrations of amiodarone and desethylamiodarone.
 
-## Other substances, including herbal preparations:
-
-St. John's Wort (Hypericum perforatum) induces CYP3A.
+Other substances, including herbal preparations: St. John's Wort (Hypericum perforatum) induces CYP3A.
 Since amiodarone is a substrate for CYP3A, St. John's Wort likely reduces amiodarone levels.
 
-## Other reported interactions with amiodarone:
-
-Fentanyl (CYP3A substrate) in combination with amiodarone may cause hypotension, bradycardia, and decreased cardiac output.
+Other reported interactions with amiodarone: Fentanyl (CYP3A substrate) in combination with amiodarone may cause hypotension, bradycardia, and decreased cardiac output.
 
 Sinus bradycardia has been reported with oral amiodarone in combination with lidocaine (CYP3A substrate) given for local anesthesia.
 Seizure, associated with increased lidocaine concentrations, has been reported with concomitant administration of intravenous amiodarone.
@@ -124,8 +94,6 @@ There have been reports of QTc prolongation, with or without TdP, in patients ta
 
 Hemodynamic and electrophysiologic interactions have also been observed after concomitant administration with propranolol, diltiazem, and verapamil.
 
-### Volatile Anesthetic Agents:
-
-Patients who are on amiodarone therapy may be more sensitive to the myocardial depressant and conduction defects of halogenated inhalational anesthetics [see Warnings and Precautions (5.9)].
+Volatile Anesthetic Agents: Patients who are on amiodarone therapy may be more sensitive to the myocardial depressant and conduction defects of halogenated inhalational anesthetics [see Warnings and Precautions (5.9)].
 
 In addition to the interactions noted above, chronic (> 2 weeks) oral amiodarone administration impairs metabolism of phenytoin, dextromethorphan, and methotrexate.

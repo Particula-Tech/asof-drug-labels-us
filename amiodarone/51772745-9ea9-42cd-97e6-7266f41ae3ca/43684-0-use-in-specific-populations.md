@@ -1,10 +1,8 @@
-# 8 Use in Specific Populations
+# 8 USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
-### Pregnancy Category D
-
-[see Warnings and Precautions (5.8)].
+Pregnancy Category D [see Warnings and Precautions (5.8)].
 
 In addition to causing infrequent congenital goiter/hypothyroidism and hyperthyroidism, amiodarone has caused a variety of adverse effects in animals.
 

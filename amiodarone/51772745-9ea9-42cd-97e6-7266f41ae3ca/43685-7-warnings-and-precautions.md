@@ -90,7 +90,7 @@ Evaluate thyroid function prior to treatment and periodically thereafter, partic
 Because of the slow elimination of amiodarone and its metabolites, high plasma iodide levels, altered thyroid function, and abnormal thyroid-function tests may persist for months following amiodarone withdrawal.
 
 There have been postmarketing reports of thyroid nodules/thyroid cancer in patients treated with amiodarone.
-In some instances hyperthyroidism was also present [see Adverse Reactions 6.2)].
+In some instances hyperthyroidism was also present [see Adverse Reactions (6.2)].
 
 ### Hyperthyroidism and Thyrotoxicosis
 

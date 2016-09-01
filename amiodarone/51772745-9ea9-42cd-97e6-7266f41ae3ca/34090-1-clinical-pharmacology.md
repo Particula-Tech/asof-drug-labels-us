@@ -64,31 +64,21 @@ In studies in healthy subjects following single intravenous administration (5 mg
 The clearance of amiodarone and DEA ranged between 63 - 231 mL/hr/kg and 140 - 400 mL/hr/kg, respectively.
 In clinical studies of 2 to 7 days, clearance of amiodarone after intravenous administration in patients with VT and VF ranged between 220 and 440 mL/hr/kg.
 
-#### Special Populations:
+### Special Populations:
 
-##### Effect of Age:
-
-The pharmacokinetics of amiodarone and DEA are affected by age.
+Effect of Age: The pharmacokinetics of amiodarone and DEA are affected by age.
 Normal subjects over 65 years of age show lower clearances (about 100 mL/hr/kg) than younger subjects (about 150 mL/hr/kg) and an increase in t½ from about 20 to 47 days.
 
-##### Effect of Gender:
+Effect of Gender: Pharmacokinetics of amiodarone and DEA are similar in males and females.
 
-Pharmacokinetics of amiodarone and DEA are similar in males and females.
+Renal Impairment: Renal disease does not influence the pharmacokinetics of amiodarone or DEA.
 
-##### Renal Impairment:
+Hepatic Impairment: After a single dose of intravenous amiodarone to cirrhotic patients, significantly lower Cmax and average concentration values are seen for DEA, but mean amiodarone levels are unchanged.
 
-Renal disease does not influence the pharmacokinetics of amiodarone or DEA.
-
-##### Hepatic Impairment:
-
-After a single dose of intravenous amiodarone to cirrhotic patients, significantly lower Cmax and average concentration values are seen for DEA, but mean amiodarone levels are unchanged.
-
-##### Cardiac Disease:
-
-In patients with severe left ventricular dysfunction, the pharmacokinetics of amiodarone are not significantly altered but the terminal elimination t½ of DEA is prolonged.
+Cardiac Disease: In patients with severe left ventricular dysfunction, the pharmacokinetics of amiodarone are not significantly altered but the terminal elimination t½ of DEA is prolonged.
 
 Although no dosage adjustment for patients with renal, hepatic, or cardiac abnormalities has been defined during chronic treatment with oral amiodarone, close clinical monitoring is prudent for elderly patients and those with severe left ventricular dysfunction.
 
-#### Exposure-Response:
+### Exposure-Response:
 
 There is no established relationship between drug concentration and therapeutic response for short-term intravenous use.

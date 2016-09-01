@@ -54,7 +54,7 @@ Table 2: AMIODARONE HCl SOLUTION STABILITY
 | 5% Dextrose in Water (D5W) | 1 to 6 | PVC | Physically compatible, with amiodarone loss <10% at 2 hours at room temperature. |
 | 5% Dextrose in Water (D5W) | 1 to 6 | Polyolefin, Glass | Physically compatible, with no amiodarone loss at 24 hours at room temperature. |
 
-## Admixture Incompatibility
+Admixture Incompatibility
 
 Amiodarone in D5W is incompatible with the drugs shown in Table 3.
 
@@ -69,7 +69,7 @@ Table 3: Y-SITE INJECTION INCOMPATIBILITY
 | Heparin Sodium | D5W | -- | Precipitate |
 | Sodium Bicarbonate | D5W | 3 mg/mL | Precipitate |
 
-## Intravenous to Oral Transition
+Intravenous to Oral Transition
 
 Patients whose arrhythmias have been suppressed by amiodarone may be switched to oral amiodarone.
 When changing to oral amiodarone therapy, clinical monitoring is recommended, particularly for elderly patients.
