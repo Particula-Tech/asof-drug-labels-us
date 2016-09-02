@@ -6,6 +6,6 @@ The molecular formula is C14H13N8NaO4S3 and molecular weight is 476.49.
 
 Structural Formula:
 
-Each vial contains 48 mg (2 mEq) of sodium/1 gram of cefazolin sodium.
+Each vial contains 48 mg of sodium/1 gram of cefazolin sodium.
 
 Cefazolin for Injection, USP is white to off-white crystalline powder, supplied in vials equivalent to 500 mg or 1 gram of cefazolin.

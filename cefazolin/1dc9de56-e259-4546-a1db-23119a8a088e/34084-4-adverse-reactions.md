@@ -21,14 +21,4 @@ Some induration has occurred.
 
 Other Reactions Genital and anal pruritus (including vulvar pruritus, genital moniliasis, and vaginitis).
 
-Cephalosporin-class Adverse Reactions In addition to the adverse reactions listed above that have been observed in patients treated with cefazolin, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibiotics:
-
-Adverse Reactions: Allergic reactions, urticaria, serum sickness-like reaction, erythema multiforme, toxic epidermal necrolysis, colitis, renal dysfunction, toxic nephropathy, abdominal pain, reversible hyperactivity, hypertonia, hepatic dysfunction including cholestasis, aplastic anemia, hemolytic anemia, hemorrhage, and superinfection.
-
-Altered Laboratory Tests: Prolonged prothrombin time, positive direct Coombs’ test, false-positive test for urinary glucose, elevated bilirubin, elevated LDH, increased creatinine, pancytopenia, and agranulocytosis.
-
-Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment when the dosage was not reduced (see DOSAGE AND ADMINISTRATION).
-If seizures associated with drug therapy occur, the drug should be discontinued.
-Anticonvulsant therapy can be given if clinically indicated.
-
-To report SUSPECTED ADVERSE REACTIONS, contact West-Ward Pharmaceutical Corp. at 1-877-233-2001, or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact West-Ward Pharmaceuticals Corp. at 1-877-233-2001, or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-Usual Adult Dosage
+## Usual Adult Dosage
 
 | Type of Infection | Dose | Frequency |
 | --- | --- | --- |
@@ -8,7 +8,7 @@ Usual Adult Dosage
 | Mild infections caused by susceptible gram–positive cocci | 250 mg to 500 mg | every 8 hours |
 | Acute, uncomplicated urinary tract infections | 1 gram | every 12 hours |
 | Pneumococcal pneumonia | 500 mg | every 12 hours |
-| Severe, life-threatening infections (e.g., endocarditis, septicemia)ln rare instances, doses of up to 12 grams of cefazolin per day have been used | 1 gram to 1.5 grams | every 6 hours |
+| Severe, life-threatening infections (e.g., endocarditis, septicemia)ln rare instances, doses of up to 12 grams of Cefazolin for Injection per day have been used. | 1 gram to 1.5 grams | every 6 hours |
 
 ## Perioperative Prophylactic Use
 
@@ -20,24 +20,24 @@ b. For lengthy operative procedures (e.g., 2 hours or more), 500 mg to 1 gram IV
 
 c. 500 mg to 1 gram IV or IM every 6 to 8 hours for 24 hours postoperatively.
 
-It is important that (1) the preoperative dose be given just (1/2 to 1 hour) prior to the start of surgery so that adequate antibiotic levels are present in the serum and tissues at the time of initial surgical incision; and (2) cefazolin be administered, if necessary, at appropriate intervals during surgery to provide sufficient levels of the antibiotic at the anticipated moments of greatest exposure to infective organisms.
+It is important that (1) the preoperative dose be given just (1/2 to 1 hour) prior to the start of surgery so that adequate antibiotic levels are present in the serum and tissues at the time of initial surgical incision; and (2) Cefazolin for Injection be administered, if necessary, at appropriate intervals during surgery to provide sufficient levels of the antibiotic at the anticipated moments of greatest exposure to infective organisms.
 
-In surgery where the occurrence of infection may be particularly devastating (e.g., open-heart surgery and prosthetic arthroplasty), the prophylactic administration of cefazolin for injection may be continued for 3 to 5 days following the completion of surgery.
+In surgery where the occurrence of infection may be particularly devastating (e.g., open-heart surgery and prosthetic arthroplasty), the prophylactic administration of Cefazolin for Injection may be continued for 3 to 5 days following the completion of surgery.
 
 ## Dosage Adjustment for Patients with Reduced Renal Function
 
-Cefazolin may be used in patients with reduced renal function with the following dosage adjustments: Patients with a creatinine clearance of 55 mL/min. or greater or a serum creatinine of 1.5 mg % or less can be given full doses.
+Cefazolin for Injection may be used in patients with reduced renal function with the following dosage adjustments: Patients with a creatinine clearance of 55 mL/min. or greater or a serum creatinine of 1.5 mg % or less can be given full doses.
 Patients with creatinine clearance rates of 35 to 54 mL/min. or serum creatinine of 1.6 to 3 mg % can also be given full doses but dosage should be restricted to at least 8 hour intervals.
 Patients with creatinine clearance rates of 11 to 34 mL/min. or serum creatinine of 3.1 to 4.5 mg % should be given 1/2 the usual dose every 12 hours.
 Patients with creatinine clearance rates of 10 mL/min. or less or serum creatinine of 4.6 mg % or greater should be given 1/2 the usual dose every 18 to 24 hours.
 All reduced dosage recommendations apply after an initial loading dose appropriate to the severity of the infection.
-Patients undergoing peritoneal dialysis: see CLINICAL PHARMACOLOGY.
+Patients undergoing peritoneal dialysis: See CLINICAL PHARMACOLOGY.
 
 ## Pediatric Dosage
 
 In pediatric patients, a total daily dosage of 25 to 50 mg per kg (approximately 10 to 20 mg per pound) of body weight, divided into 3 or 4 equal doses, is effective for most mild to moderately severe infections.
 Total daily dosage may be increased to 100 mg per kg (45 mg per pound) of body weight for severe infections.
-Since safety for use in premature infants and in neonates has not been established, the use of cefazolin in these patients is not recommended.
+Since safety for use in premature infants and in neonates has not been established, the use of Cefazolin for Injection in these patients is not recommended.
 
 Pediatric Dosage Guide
 
@@ -71,7 +71,7 @@ All dosage recommendations apply after an initial loading dose.
 Parenteral drug products should be SHAKEN WELL when reconstituted, and inspected visually for particulate matter prior to administration.
 If particulate matter is evident in reconstituted fluids, the drug solutions should be discarded.
 
-When reconstituted or diluted according to the instructions below, cefazolin for injection is stable for 24 hours at room temperature or for 10 days if stored under refrigeration (5°C or 41°F).
+When reconstituted or diluted according to the instructions below, Cefazolin for Injection is stable for 24 hours at room temperature or for 10 days if stored under refrigeration (5°C or 41°F).
 Reconstituted solutions may range in color from pale yellow to yellow without a change in potency.
 
 ### Single-Dose Vials
@@ -79,7 +79,7 @@ Reconstituted solutions may range in color from pale yellow to yellow without a 
 For IM injection, IV direct (bolus) injection or IV infusion, reconstitute with Sterile Water for Injection according to the following table.
 SHAKE WELL.
 
-| Vial size | Amount of Diluent | ApproximateConcentration | Approximate Available Volume |
+| Vial Size | Amount of Diluent | Approximate Concentration | Approximate Available Volume |
 | --- | --- | --- | --- |
 | 500 mg | 2 mL | 225 mg/mL | 2.2 mL |
 | 1 gram | 2.5 mL | 330 mg/mL | 3 mL |
@@ -90,15 +90,15 @@ SHAKE WELL.
 
 Reconstitute vials with Sterile Water for Injection according to the dilution table above.
 Shake well until dissolved.
-Cefazolin should be injected into a large muscle mass.
-Pain on injection is infrequent with cefazolin.
+Cefazolin for Injection should be injected into a large muscle mass.
+Pain on injection is infrequent with Cefazolin for Injection.
 
 ### Intravenous Administration
 
 Direct (bolus) injection: Following reconstitution according to the above table, further dilute vials with approximately 5 mL Sterile Water for Injection.
 Inject the solution slowly over 3 to 5 minutes, directly or through tubing for patients receiving parenteral fluids (see list below).
 
-Intermittent or continuous infusion: Dilute reconstituted cefazolin in 50 to 100 mL of 1 of the following solutions:
+Intermittent or continuous infusion: Dilute reconstituted Cefazolin for Injection in 50 to 100 mL of 1 of the following solutions:
 
 - Sodium Chloride Injection, USP
 - 5% or 10% Dextrose Injection, USP

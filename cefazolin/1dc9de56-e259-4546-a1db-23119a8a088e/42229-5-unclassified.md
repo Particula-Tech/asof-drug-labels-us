@@ -1,3 +1,3 @@
-Rx ONLY
+Rx Only
 
-TO REDUCE THE DEVELOPMENT OF DRUG-RESISTANT BACTERIA AND MAINTAIN THE EFFECTIVENESS OF CEFAZOLIN FOR INJECTION AND OTHER ANTIBACTERIAL DRUGS, CEFAZOLIN FOR INJECTION SHOULD BE USED ONLY TO TREAT OR PREVENT INFECTIONS THAT ARE PROVEN OR STRONGLY SUSPECTED TO BE CAUSED BY BACTERIA.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of Cefazolin for Injection and other antibacterial drugs, Cefazolin for Injection should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
