@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL - 30 mL Vial Carton
 
 NDC 25682-001-01 30 mL Single-Use Vial
 
@@ -11,3 +11,5 @@ Concentrated Solution for Intravenous Infusion Only
 Must be diluted prior to use.
 
 Rx only
+
+ALEXION
