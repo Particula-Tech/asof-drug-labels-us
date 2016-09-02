@@ -331,7 +331,17 @@ The mean change in weight z-score was 0.26 SDs for patients receiving >9 months 
 
 When treating pediatric patients for any indication, weight gain should be monitored and assessed against that expected for normal growth.
 
-## 5.7 Orthostatic Hypotension
+## 5.7 Pathological Gambling and Other Compulsive Behaviors
+
+Post-marketing case reports suggest that patients can experience intense urges, particularly for gambling, and the inability to control these urges while taking aripiprazole.
+Other compulsive urges, reported less frequently, include: sexual urges, shopping, eating or binge eating, and other impulsive or compulsive behaviors.
+Because patients may not recognize these behaviors as abnormal, it is important for prescribers to ask patients or their caregivers specifically about the development of new or intense gambling urges, compulsive sexual urges, compulsive shopping, binge or compulsive eating, or other urges while being treated with aripiprazole.
+It should be noted that impulse-control symptoms can be associated with the underlying disorder.
+In some cases, although not all, urges were reported to have stopped when the dose was reduced or the medication was discontinued.
+Compulsive behaviors may result in harm to the patient and others if not recognized.
+Consider dose reduction or stopping the medication if a patient develops such urges.
+
+## 5.8 Orthostatic Hypotension
 
 ABILIFY may cause orthostatic hypotension, perhaps due to its α1-adrenergic receptor antagonism.
 The incidence of orthostatic hypotension-associated events from short-term, placebo-controlled trials of adult patients on oral ABILIFY (n=2467) included (ABILIFY incidence, placebo incidence) orthostatic hypotension (1%, 0.3%), postural dizziness (0.5%, 0.3%), and syncope (0.5%, 0.4%); of pediatric patients 6 to 18 years of age (n=732) on oral ABILIFY included orthostatic hypotension (0.5%, 0%), postural dizziness (0.4%, 0 %), and syncope (0.2%, 0%); and of patients on ABILIFY Injection (n=501) included orthostatic hypotension (0.6%, 0%), postural dizziness (0.2%, 0.5%), and syncope (0.4%, 0%).
@@ -343,7 +353,7 @@ ABILIFY should be used with caution in patients with known cardiovascular diseas
 
 If parenteral benzodiazepine therapy is deemed necessary in addition to ABILIFY injection treatment, patients should be monitored for excessive sedation and for orthostatic hypotension [seeDRUG INTERACTIONS (7.1)].
 
-## 5.8 Leukopenia, Neutropenia, and Agranulocytosis
+## 5.9 Leukopenia, Neutropenia, and Agranulocytosis
 
 In clinical trials and/or postmarketing experience, events of leukopenia and neutropenia have been reported temporally related to antipsychotic agents, including ABILIFY.
 Agranulocytosis has also been reported.
@@ -355,14 +365,14 @@ In such patients, consider discontinuation of ABILIFY at the first sign of a cli
 Monitor patients with clinically significant neutropenia for fever or other symptoms or signs of infection and treat promptly if such symptoms or signs occur.
 Discontinue ABILIFY in patients with severe neutropenia (absolute neutrophil count <1000/mm3) and follow their WBC counts until recovery.
 
-## 5.9 Seizures/Convulsions
+## 5.10 Seizures/Convulsions
 
 In short-term, placebo-controlled trials, patients with a history of seizures excluded seizures/convulsions occurred in 0.1% (3/2467) of undiagnosed adult patients treated with oral ABILIFY, in 0.1% (1/732) of pediatric patients (6 to 18 years), and in 0.2% (1/501) of adult ABILIFY injection-treated patients.
 
 As with other antipsychotic drugs, ABILIFY should be used cautiously in patients with a history of seizures or with conditions that lower the seizure threshold.
 Conditions that lower the seizure threshold may be more prevalent in a population of 65 years or older.
 
-## 5.10 Potential for Cognitive and Motor Impairment
+## 5.11 Potential for Cognitive and Motor Impairment
 
 ABILIFY, like other antipsychotics, may have the potential to impair judgment, thinking, or motor skills.
 For example, in short-term, placebo-controlled trials, somnolence (including sedation) was reported as follows (ABILIFY incidence, placebo incidence): in adult patients (n=2467) treated with oral ABILIFY (11%, 6%), in pediatric patients ages 6 to 17 (n=611) (24%, 6%), and in adult patients (n=501) on ABILIFY Injection (9%, 6%).
@@ -370,17 +380,17 @@ Somnolence (including sedation) led to discontinuation in 0.3% (8/2467) of adult
 
 Despite the relatively modest increased incidence of these events compared to placebo, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that therapy with ABILIFY does not affect them adversely.
 
-## 5.11 Body Temperature Regulation
+## 5.12 Body Temperature Regulation
 
 Disruption of the body’s ability to reduce core body temperature has been attributed to antipsychotic agents.
 Appropriate care is advised when prescribing ABILIFY for patients who will be experiencing conditions which may contribute to an elevation in core body temperature, (e.g., exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration) [see ADVERSE REACTIONS (6.2)].
 
-## 5.12 Suicide
+## 5.13 Suicide
 
 The possibility of a suicide attempt is inherent in psychotic illnesses, bipolar disorder, and major depressive disorder, and close supervision of high-risk patients should accompany drug therapy.
 Prescriptions for ABILIFY should be written for the smallest quantity consistent with good patient management in order to reduce the risk of overdose [see ADVERSE REACTIONS (6.1, 6.2)].
 
-## 5.13 Dysphagia
+## 5.14 Dysphagia
 
 Esophageal dysmotility and aspiration have been associated with antipsychotic drug use, including ABILIFY.
 Aspiration pneumonia is a common cause of morbidity and mortality in elderly patients, in particular those with advanced Alzheimer’s dementia.

@@ -71,7 +71,7 @@ Figure 3: The effects of ABILIFY on pharmacokinetics of other drugs
 ### Studies in Specific Populations
 
 Exposures of aripiprazole and dehydro-aripiprazole in specific populations are summarized in Figure 4 and Figure 5, respectively.
-In addition, in pediatric patients (10 to 17 years of age) administered with Abilify (20 mg to 30 mg), the body weight corrected aripiprazole clearance was similar to the adults.
+In addition, in pediatric patients (10 to 17 years of age) administered with ABILIFY (20 mg to 30 mg), the body weight corrected aripiprazole clearance was similar to the adults.
 
 Figure 4: Effects of intrinsic factors on aripiprazole pharmacokinetics
 

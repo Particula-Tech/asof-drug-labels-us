@@ -120,7 +120,7 @@ Table 27: Bipolar Studies
 | Study 1 | ABILIFY (30 / 15 mg/day)* | 29.0 (5.9) | -12.52 (1.05) | -5.33 (-7.90, -2.76) |
 |  | Placebo | 28.5 (4.6) | -7.19 (1.07) | -- |
 | Study 2 | ABILIFY (30 / 15 mg/day)* | 27.8 (5.7) | -8.15 (1.23) | -4.80 (-7.80, -1.80) |
-|  | Placebo | 29.1 (6.9) | -3.35(1.22) | -- |
+|  | Placebo | 29.1 (6.9) | -3.35 (1.22) | -- |
 | Study 3 | ABILIFY (15 - 30 mg/day)* | 28.5 (5.6) | -12.64 (0.84) | -3.63 (-5.75, -1.51) |
 |  | Placebo | 28.9 (5.9) | 9.01 (0.81) | -- |
 | Study 4 | ABILIFY (15 -30 mg/day)* | 28.0 (5.8) | -11.98 (0.80) | -2.28 (-4.44, -0.11) |
@@ -191,7 +191,7 @@ Table 28: Adjunctive Treatment of Major Depressive Disorder Studies
 | Study Number | Treatment Group | Primary Efficacy Measure: MADRS |  |  |
 | --- | --- | --- | --- | --- |
 |  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Differencea (95% CI) |
-| Study 1 | ABILIFY (5-20 mg/day)* + Antidepressant | 25.2(6.2) | -8.49 (0.66) | -2.84 (-4.53, -1.15) |
+| Study 1 | ABILIFY (5-20 mg/day)* + Antidepressant | 25.2 (6.2) | -8.49 (0.66) | -2.84 (-4.53, -1.15) |
 |  | Placebo + Antidepressant | 27.0 (5.5) | -5.65 (0.64) | -- |
 | Study 2 | ABILIFY (5-20 mg/day)* + Antidepressant | 26.0 (6.0) | -8.78 (0.63) | -3.01 (-4.66, -1.37) |
 |  | Placebo + Antidepressant | 26.0 (6.5) | -5.77 (0.67) | -- |

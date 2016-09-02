@@ -24,10 +24,6 @@ ABILIFY® (a BIL ĭ fī)
 
 Injection, for intramuscular use
 
-Read this Medication Guide before you start taking ABILIFY and each time you get a refill.
-There may be new information.
-This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or treatment.
-
 What is the most important information I should know about ABILIFY?
 
 (For other side effects, also see “What are the possible side effects of ABILIFY?”).
@@ -65,23 +61,19 @@ Call a healthcare provider right away if you or your family member has any of th
 
 What else do I need to know about antidepressant medicines?
 
-Never stop an antidepressant medicine without first talking to a healthcare provider.
-Stopping an antidepressant medicine suddenly can cause other symptoms.
-
-Antidepressants are medicines used to treat depression and other illnesses.
-It is important to discuss all the risks of treating depression and also the risks of not treating it.
-Patients and their families or other caregivers should discuss all treatment choices with the healthcare provider, not just the use of antidepressants.
-
-Antidepressant medicines have other side effects.
-Talk to the healthcare provider about the side effects of the medicine prescribed for you or your family member.
-
-Antidepressant medicines can interact with other medicines.
-Know all of the medicines that you or your family member takes.
-Keep a list of all medicines to show the healthcare provider.
-Do not start new medicines without first checking with your healthcare provider.
-
-Not all antidepressant medicines prescribed for children are FDA approved for use in children.
-Talk to your child’s healthcare provider for more information.
+- •Never stop an antidepressant medicine without first talking to a healthcare provider.
+  Stopping an antidepressant medicine suddenly can cause other symptoms.
+- •Antidepressants are medicines used to treat depression and other illnesses.
+  It is important to discuss all the risks of treating depression and also the risks of not treating it.
+  Patients and their families or other caregivers should discuss all treatment choices with the healthcare provider, not just the use of antidepressants.
+- •Antidepressant medicines have other side effects.
+  Talk to the healthcare provider about the side effects of the medicine prescribed for you or your family member.
+- •Antidepressant medicines can interact with other medicines.
+  Know all of the medicines that you or your family member takes.
+  Keep a list of all medicines to show the healthcare provider.
+  Do not start new medicines without first checking with your healthcare provider.
+- •Not all antidepressant medicines prescribed for children are FDA approved for use in children.
+  Talk to your child’s healthcare provider for more information.
 
 What is ABILIFY?
 
@@ -101,14 +93,10 @@ It is not known if ABILIFY is safe or effective in children:
 - •under 6 years of age with irritability associated with autistic disorder
 - •under 6 years of age with Tourette’s disorder
 
-Who should not take ABILIFY?
-
 Do not take ABILIFY if you are allergic to aripiprazole or any of the ingredients in ABILIFY.
 See the end of this Medication Guide for a complete list of ingredients in ABILIFY.
 
-What should I tell my healthcare provider before taking ABILIFY?
-
-Before taking ABILIFY, tell your healthcare provider if you have or had:
+Before taking ABILIFY, tell your healthcare provider about all your medical conditions, including if you have or had:
 
 - •diabetes or high blood sugar in you or your family; your healthcare provider should check your blood sugar before you start ABILIFY and also during therapy.
 - •seizures (convulsions).
@@ -122,7 +110,6 @@ Before taking ABILIFY, tell your healthcare provider if you have or had:
 - •low white blood cell count.
 - •phenylketonuria.
   ABILIFY DISCMELT Orally Disintegrating Tablets contain phenylalanine.
-- •any other medical conditions.
 
 Tell your healthcare provider about all the medicines that you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
@@ -180,7 +167,7 @@ ABILIFY may cause serious side effects, including:
   Tardive dyskinesia may not go away, even if you stop receiving ABILIFY.
   Tardive dyskinesia may also start after you stop receiving ABILIFY.
 - •Problems with your metabolism such as:
-- ▪high blood sugar (hyperglycemia) and diabetes.
+- ▪High blood sugar (hyperglycemia) and diabetes.
   Increases in blood sugar can happen in some people who take ABILIFY.
   Extremely high blood sugar can lead to coma or death.
   If you have diabetes or risk factors for diabetes (such as being overweight or a family history of diabetes), your healthcare provider should check your blood sugar before you start ABILIFY and during your treatment.
@@ -191,17 +178,21 @@ ABILIFY may cause serious side effects, including:
   4. ➢feel weak or tired
   5. ➢feel sick to your stomach
   6. ➢feel confused, or your breath smells fruity
-  7. oincreased fat levels (cholesterol and triglycerides) in your blood.
-  8. oweight gain.
+  7. oIncreased fat levels (cholesterol and triglycerides) in your blood.
+  8. oWeight gain.
      You and your healthcare provider should check your weight regularly.
+- •Unusual urges.
+  Some people taking ABILIFY have had unusual urges, such as gambling, binge eating or eating that you cannot control (compulsive), compulsive shopping and sexual urges.
+- If you or your family members notice that you are having unusual urges or behaviors, talk to your healthcare provider.
+
 - •Orthostatic hypotension (decreased blood pressure).
   Lightheadedness or fainting may happen when rising too quickly from a sitting or lying position.
 - •Low white blood cell count
 - •Seizures (convulsions)
-- •problems with control of your body temperature especially when you exercise a lot or are in an area that is very hot.
+- •Problems with control of your body temperature especially when you exercise a lot or are in an area that is very hot.
   It is important for you to drink water to avoid dehydration.
   See “What should I avoid while receiving ABILIFY?”
-- •difficulty swallowing that can cause food or liquid to get into your lungs.
+- •Difficulty swallowing that can cause food or liquid to get into your lungs.
 
 The most common side effects of ABILIFY in adults include:
 
@@ -221,10 +212,9 @@ The most common side effects of ABILIFY in children include:
 | •vomiting | •stuffy nose |
 | •fatigue | •weight gain |
 | •increased or decreased appetite | •uncontrolled movement such as restlessness, tremor, |
-| •increased saliva or drooling | muscle stiffness |
+| •increased saliva or drooling | •muscle stiffness |
 
 These are not all the possible side effects of ABILIFY.
-For more information, ask your healthcare provider or pharmacist.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
@@ -237,18 +227,13 @@ Opened bottles of ABILIFY Oral Solution can be used for up to 6 months after ope
 
 Keep ABILIFY and all medicines out of the reach of children.
 
-General information about the safe and effective use of ABILIFY.
+General information about the safe and effective use of ABILIFY
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use ABILIFY for a condition for which it was not prescribed.
 Do not give ABILIFY to other people, even if they have the same symptoms you have.
 It may harm them.
-
-This Medication Guide summarizes the most important information about ABILIFY.
-If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about ABILIFY that was written for healthcare professionals.
-
-For more information about ABILIFY visit www.abilify.com.
 
 What are the ingredients in ABILIFY?
 
@@ -265,7 +250,7 @@ Colorants include ferric oxide (yellow or red) and FD&C Blue No. 2 Aluminum Lake
 ABILIFY Oral Solution: disodium edetate, fructose (200 mg per mL), glycerin, dl-lactic acid, methylparaben, propylene glycol, propylparaben, sodium hydroxide, sucrose (400 mg per mL), and purified water.
 The oral solution is flavored with natural orange cream and other natural flavors
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
+For more information about ABILIFY go to www.abilify.com or call 1-800-438-6055.
 
 Tablets manufactured by Otsuka Pharmaceutical Co., Ltd., Tokyo, 101-8535 Japan
 
@@ -277,4 +262,4 @@ ABILIFY is a trademark of Otsuka Pharmaceutical Company.
 
 © 2016, Otsuka Pharmaceutical Co., Ltd., Tokyo, 101-8535 Japan
 
-Revised: January 2016
+This Medication Guide has been approved by the U.S. Food and Drug Administration Revised: August 2016
