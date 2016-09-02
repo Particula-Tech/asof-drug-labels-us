@@ -17,7 +17,7 @@ Patients could be on selegiline, anticholinergics, or both, but could not be on 
 Patients were randomized to pramipexole dihydrochloride tablets or placebo.
 Patients treated with pramipexole dihydrochloride tablets had a starting daily dose of 0.375 mg and were titrated to a maximally tolerated dose, but no higher than 4.5 mg/day in three divided doses.
 At the end of the 6-month maintenance period, the mean improvement from baseline on the UPDRS part II (ADL) total score was 1.9 in the group receiving pramipexole dihydrochloride tablets and -0.4 in the placebo group, a difference that was statistically significant.
-The mean improvement from baseline on the UPDRS part III total score was 5 in the group receiving pramipexole dihydrochloride tablets and -0.8 in the placebo group, a difference that was also statistically significant.
+The mean improvement from baseline on the UPDRS part III total score was 5.0 in the group receiving pramipexole dihydrochloride tablets and -0.8 in the placebo group, a difference that was also statistically significant.
 A statistically significant difference between groups in favor of pramipexole dihydrochloride tablets was seen beginning at week 2 of the UPDRS part II (maximum dose 0.75 mg/day) and at week 3 of the UPDRS part III (maximum dose 1.5 mg/day).
 The second early Parkinson's disease study (N=264) was a double-blind, placebo-controlled, parallel trial consisting of a 6-week dose-escalation period and a 4-week maintenance period.
 Patients could be on selegiline, anticholinergics, amantadine, or any combination of these, but could not be on levodopa products.
