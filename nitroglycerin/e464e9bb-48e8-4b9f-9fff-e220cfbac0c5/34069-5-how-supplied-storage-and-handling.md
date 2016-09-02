@@ -16,4 +16,4 @@ NITRO-BID®(Nitroglycerin Ointment USP, 2%)
 
 SAVAGE LABORATORIES® A division of Fougera Pharmaceuticals Inc. Melville, New York 11747
 
-I7326A/IF7326A R09/11 #274
+- I7326A/IF7326A R09/11 #274
