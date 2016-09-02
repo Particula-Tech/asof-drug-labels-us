@@ -5,7 +5,11 @@
   "inn": "bupivacaine",
   "labeler": "Pacira Pharmaceuticals Inc.",
   "package_ndcs": [
+    "65250-133-04",
+    "65250-133-09",
     "65250-133-10",
+    "65250-266-04",
+    "65250-266-09",
     "65250-266-20"
   ],
   "products": [
