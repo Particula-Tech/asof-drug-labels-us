@@ -2,6 +2,6 @@
 
 Rx only
 
-FOR USE IN THE EYES ONLY
+FOR TOPICAL APPLICATION IN THE EYE
 
 *Does not meet USP packaging specification for light resistance.

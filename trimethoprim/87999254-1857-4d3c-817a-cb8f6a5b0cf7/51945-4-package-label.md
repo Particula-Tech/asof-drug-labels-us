@@ -2,14 +2,12 @@
 
 NDC 24208-315-10
 
-Bausch & Lomb
+Polymyxin B Sulfate and Trimethoprim Ophthalmic Solution, USP* (Sterile)
 
-Polymyxin B Sulfate and Trimethoprim Ophthmalic Solution USP
-
-(Sterile)
-
-[icon-eye] [icon dropper] [icon 10 mL]
-
-10 ml
+FOR TOPICAL APPLICATION IN THE EYE
 
 Rx only
+
+10 mL
+
+BAUSCH + LOMB
