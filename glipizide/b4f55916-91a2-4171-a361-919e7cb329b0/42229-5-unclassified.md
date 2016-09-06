@@ -1,3 +1,3 @@
 For Oral Use
 
-LAB-0114-7.0 October 2013
+LAB-0114-8.0 August 2016

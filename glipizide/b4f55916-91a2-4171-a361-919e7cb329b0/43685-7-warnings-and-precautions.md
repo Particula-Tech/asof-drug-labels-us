@@ -74,7 +74,7 @@ Maintenance or discontinuation of GLUCOTROL or other antidiabetic medications sh
 
 ## Drug Interactions
 
-The hypoglycemic action of sulfonylureas may be potentiated by certain drugs including nonsteroidal anti-inflammatory agents, some azoles, and other drugs that are highly protein bound, salicylates, sulfonamides, chloramphenicol, probenecid, coumarins, monoamine oxidase inhibitors, and beta adrenergic blocking agents.
+The hypoglycemic action of sulfonylureas may be potentiated by certain drugs including nonsteroidal anti-inflammatory agents, some azoles, and other drugs that are highly protein bound, salicylates, sulfonamides, chloramphenicol, probenecid, coumarins, monoamine oxidase inhibitors, quinolones and beta adrenergic blocking agents.
 When such drugs are administered to a patient receiving GLUCOTROL, the patient should be observed closely for hypoglycemia.
 When such drugs are withdrawn from a patient receiving GLUCOTROL, the patient should be observed closely for loss of control.
 In vitro binding studies with human serum proteins indicate that GLUCOTROL binds differently than tolbutamide and does not interact with salicylate or dicumarol.
