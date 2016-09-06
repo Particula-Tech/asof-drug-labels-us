@@ -55,15 +55,15 @@ Viridans group streptococci
 
 Aerobic and Facultative Gram-Negative Microorganisms
 
-Citrobacteramalonaticus
+Citrobacter amalonaticus
 
-Citrobacterdiversus
+Citrobacter diversus
 
-Citrobacterfreundii
+Citrobacter freundii
 
-Klebsiellaoxytoca
+Klebsiella oxytoca
 
-Klebsiellaozaenae
+Klebsiella ozaenae
 
 Nitrofurantoin is not active against most strains of Proteus species or Serratiaspecies.
 It has no activity against Pseudomonas species.
