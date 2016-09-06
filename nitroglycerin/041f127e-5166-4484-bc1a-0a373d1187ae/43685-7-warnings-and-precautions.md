@@ -20,9 +20,9 @@ Nitrate therapy may aggravate the angina caused by hypertrophic cardiomyopathy.
 As tolerance to other forms of nitroglycerin develops, the effects of sublingual nitroglycerin on exercise tolerance, although still observable, is blunted.
 
 In industrial workers who have had long-term exposure to unknown (presumably high) doses of organic nitrates, tolerance rarely occurs.
-Chest pain, acute myocardial infraction, and even sudden death have occurred during temporary withdrawal of nitrates from these workers, demonstrating the existence of true physical dependence.
+Chest pain, acute myocardial infarction and even sudden death have occurred during temporary withdrawal of nitrates from these workers, demonstrating the existence of true physical dependence.
 
-Several clinical trials of nitroglycerin patches or infusions in patients with angina pectoris have evaluated regimens which incorporated a 10 to 12 hour nitrate free interval.
+Several clinical trials of nitroglycerin patches or infusions in patients with angina pectoris have evaluated regimens that incorporated a 10- to 12-hour nitrate free interval.
 In some of these trials, an increase in the frequency of anginal attacks during the nitrate free interval was observed in a small number of patients.
 In one trial, patients had decreased exercise tolerance at the end of the nitrate interval.
 Hemodynamic rebound has been observed only rarely; on the other hand, few studies were so designed that rebound, if it had occurred, would have been detected.
@@ -35,23 +35,29 @@ Excessive dosage of nitroglycerin may produce severe headaches.
 
 ## Information for Patients
 
-If possible, patients should sit down when taking nitroglycerin tablets.
+Nitroglycerin is a sublingual tablet and should not be chewed, crushed, or swallowed.
+
+If possible, patients should sit down when taking nitroglycerin tablets and should use caution when returning to a standing position.
 This eliminates the possibility of falling due to lightheadedness or dizziness.
+
+One tablet should be dissolved under the tongue or in the buccal pouch at the first sign of an acute anginal attack.
+The dose may be repeated approximately every 5 minutes, until relief is obtained.
+
+If chest pain persists after a total of 3 tablets in a 15-minute period, or if the pain is different than is typically experienced, prompt medical attention is recommended.
+
+Nitroglycerin may be used prophylactically 5 to 10 minutes prior to engaging in activities that might precipitate an acute attack.
 
 Nitroglycerin may produce a burning or tingling sensation when administered sublingually; however, the ability to produce a burning or tingling sensation should not be considered a reliable method for determining the potency of the tablets.
 
 Headaches can sometimes accompany treatment with nitroglycerin.
 In patients who get these headaches, the headaches may be a marker of the activity of the drug.
 
-Treatment with nitroglycerin may be associated with lightheadedness on standing, especially just after rising from a recumbent or seated position.
+Treatment with nitroglycerin may be associated with lightheadedness upon standing, especially just after rising from a recumbent or seated position.
 This effect may be more frequent in patients who have also consumed alcohol.
 
-Nitroglycerin should be kept in the original glass container, tightly capped.
+Nitroglycerin should be kept in the original glass container and must be tightly capped after each use to prevent loss of tablet potency.
 
 ## Drug Interactions
-
-Patients receiving antihypertensive drugs, beta-adrenergic blockers, or phenothiazines and nitrates should be observed for possible additive hypotensive effects.
-Marked orthostatic hypotension has been reported when calcium channel blockers and organic nitrates were used concomitantly.
 
 Concomitant use of nitrates and alcohol may cause hypotension.
 
@@ -71,38 +77,38 @@ Oral administration of nitroglycerin markedly decreases the first-pass metabolis
 Ergotamine is known to precipitate angina pectoris.
 Therefore, patients receiving sublingual nitroglycerin should avoid ergotamine and related drugs or be monitored for symptoms of ergotism if this is not possible.
 
-Administration of nitroglycerin is contraindicated in patients who are using sildenafil citrate.
-Sildenafil citrate has been shown to potentiate the hypotensive effects of organic nitrates.
+Administration of nitroglycerin is contraindicated in patients who are using PDE-5 inhibitors (e.g., sildenafil citrate, tadalafil, vardenafil hydrochloride).
+These compounds have been shown to potentiate the hypotensive effects of organic nitrates.
 
 A decrease in therapeutic effect of sublingual nitroglycerin may result from use of long-acting nitrates.
 
 ## Drug/Laboratory Test Interactions
 
-Nitrates may interfere with the Zlatkis-Zak color reaction causing a false report of decreased serum cholesterol.
+Nitrates may interfere with the Zlatkis-Zak color reaction, causing a false report of decreased serum cholesterol.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Animal carcinogenesis studies with sublingually administered nitroglycerin have not been performed.
 
-Rats receiving up to 434 mg/kg/day of dietary nitroglycerin for 2 years developed dose-related fibrotic and neoplastic changes in liver, including carcinomas, and interstitial cell tumors in testes.
-At high dose, the incidences of hepatocellular carcinomas in males was 48% and in females was 33% compared to 0% in untreated controls.
-Incidences of testicular tumors were 52% vs 8% in controls.
+Carcinogenicity potential of nitroglycerin was evaluated in rats receiving up to 434 mg/kg/day of dietary nitroglycerin for 2 years.
+Rats developed dose-related fibrotic and neoplastic changes in liver, including carcinomas, and interstitial cell tumors in testes.
+At high dose, the incidences of hepatocellular carcinomas in males was 48% and in females was 33%, compared to 0% in untreated controls.
+Incidences of testicular tumors were 52% vs. 8% in controls.
 Lifetime dietary administration of up to 1058 mg/kg/day of nitroglycerin was not tumorigenic in mice.
 
-Nitroglycerin was weakly mutagenic in Ames tests performed in 2 different laboratories.
-Nevertheless, there was no evidence of mutagenicity in an in vivo dominant lethal assay with male rats treated with doses up to about 363 mg/kg/day, PO, or in ex vivo cytogenetic tests in rat and dog tissues.
+Nitroglycerin was mutagenic in Ames tests performed in 2 different laboratories.
+Nevertheless, there was no evidence of mutagenicity in an in vivo dominant lethal assay with male rats treated with doses up to about 363 mg/kg/day, PO, or in ex vivo cytogenetic tests in rat and dog cells.
 
-In a 3-generation reproduction study, rats received dietary nitroglycerin at doses up to about 434 mg/kg/day for 6 months prior to mating of the F0 generation with treatment continuing through successive F1 and F2 generations.
+In a 3-generation reproduction study, rats received dietary nitroglycerin at doses up to about 434 mg/kg/day for 6 months prior to mating of the F0 generation, with treatment continuing through successive F1 and F2 generations.
 The high dose was associated with decreased feed intake and body weight gain in both sexes at all matings.
 No specific effect on the fertility of the F0 generation was seen.
 Infertility noted in subsequent generations, however, was attributed to increased interstitial cell tissue and aspermatogenesis in the high-dose males.
-In this 3-generation study there was no clear evidence of teratogenicity.
+In this 3-generation study, there was no clear evidence of teratogenicity.
 
-## Pregnancy Category C
+## Pregnancy Category B
 
 Animal reproduction and teratogenicity studies have not been conducted with nitroglycerin sublingual tablets.
-Teratology studies in rats and rabbits, however, were conducted with topically applied nitroglycerin ointment at doses up to 80 mg/kg/day and 240 mg/kg/day, respectively.
-No toxic effects on dams or fetuses were seen at any dose tested.
+However, teratology studies conducted in rats and rabbits with topically applied nitroglycerin ointment at dosages up to 80 mg/kg/day and 240 mg/kg/day, respectively revealed no toxic effects on dams or fetuses.
 
 There are no adequate and well-controlled studies in pregnant women.
 Nitroglycerin should be given to a pregnant woman only if clearly needed.

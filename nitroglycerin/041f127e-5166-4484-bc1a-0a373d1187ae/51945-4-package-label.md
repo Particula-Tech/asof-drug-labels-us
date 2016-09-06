@@ -1,5 +1,7 @@
 # PRINCIPAL DISPLAY PANEL - 0.3 mg Bottle Label
 
+ALWAYS DISPENSE WITH PATIENT PACKAGE INSERT
+
 NDC 59762-4921-1 100 Sublingual Tablets
 
 GREENSTONE® BRAND
@@ -8,13 +10,31 @@ nitroglycerin
 
 sublingual tablets, USP
 
-0.3 mg (1/200 gr)
+0.3 mg
 
 Rx only
 
-10901800
+10901801
+
+# PRINCIPAL DISPLAY PANEL - 0.3 mg Bottle Carton
+
+ALWAYS DISPENSE WITH PATIENT PACKAGE INSERT
+
+NDC 59762-4921-1 100 Sublingual Tablets
+
+GREENSTONE® BRAND
+
+nitroglycerin
+
+sublingual tablets, USP
+
+0.3 mg
+
+Rx only
 
 # PRINCIPAL DISPLAY PANEL - 0.4 mg Bottle Label
+
+ALWAYS DISPENSE WITH PATIENT PACKAGE INSERT
 
 NDC 59762-3304-1 100 Sublingual Tablets
 
@@ -24,13 +44,31 @@ nitroglycerin
 
 sublingual tablets, USP
 
-0.4 mg (1/150 gr)
+0.4 mg
 
 Rx only
 
-10902300
+10902301
+
+# PRINCIPAL DISPLAY PANEL - 0.4 mg Bottle Carton
+
+ALWAYS DISPENSE WITH PATIENT PACKAGE INSERT
+
+NDC 59762-3304-1 100 Sublingual Tablets
+
+GREENSTONE® BRAND
+
+nitroglycerin
+
+sublingual tablets, USP
+
+0.4 mg
+
+Rx only
 
 # PRINCIPAL DISPLAY PANEL - 0.6 mg Bottle Label
+
+ALWAYS DISPENSE WITH PATIENT PACKAGE INSERT
 
 NDC 59762-0489-1 100 Sublingual Tablets
 
@@ -40,8 +78,24 @@ nitroglycerin
 
 sublingual tablets, USP
 
-0.6 mg (1/100 gr)
+0.6 mg
 
 Rx only
 
-10902800
+10902801
+
+# PRINCIPAL DISPLAY PANEL - 0.6 mg Bottle Carton
+
+ALWAYS DISPENSE WITH PATIENT PACKAGE INSERT
+
+NDC 59762-0489-1 100 Sublingual Tablets
+
+GREENSTONE® BRAND
+
+nitroglycerin
+
+sublingual tablets, USP
+
+0.6 mg
+
+Rx only
