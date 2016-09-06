@@ -1,39 +1,29 @@
 PACKAGE LABEL – PRINCIPAL DISPLAY – Vancomycin Hydrochloride 500 mg Vial and Tray Label
 
-NDC 63323-221-10
+Vancomycin Hydrochloride for Injection, USP 500 mg* per vial
 
-22110
+For intravenous use.
 
-VANCOMYCIN HYDROCHLORIDE FOR INJECTION, USP
-
-equivalent to
-
-500 mg
-
-Vancomycin
-
-For IV Use
-
-Must be Further Diluted Before Use
-
+MUST BE FURTHER DILUTED BEFORE USE.
+Preservative free.
 Rx only
 
-PACKAGE LABEL – PRINCIPAL DISPLAY – Vancomycin Hydrochloride 1 g Vial and Tray Label
+PACKAGE LABEL - PRINCIPAL DISPLAY - Vancomycin Hydrochloride 750 mg Vial and Tray Label
 
-NDC 63323-284-20
+Vancomycin Hydrochloride for Injection, USP 750 mg* per vial
 
-28420
+For intravenous use.
 
-VANCOMYCIN HYDROCHLORIDE FOR INJECTION, USP
+MUST BE FURTHER DILUTED BEFORE USE.
+Preservative free.
+Rx only
 
-equivalent to
+PACKAGE LABEL – PRINCIPAL DISPLAY – Vancomycin Hydrochloride 1 gram Vial and Tray Label
 
-1 g
+Vancomycin Hydrochloride for Injection, USP 1 gram* per vial
 
-Vancomycin
+For intravenous use.
 
-For IV Use
-
-Must be Further Diluted Before Use
-
+MUST BE FURTHER DILUTED BEFORE USE.
+Preservative free.
 Rx only
