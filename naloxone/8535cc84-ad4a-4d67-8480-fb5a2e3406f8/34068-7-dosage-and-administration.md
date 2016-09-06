@@ -10,7 +10,7 @@ Intravenous Infusion: Naloxone Hydrochloride Injection, USP may be diluted for i
 The addition of 2 mg of naloxone hydrochloride in 500 mL of either solution provides a concentration of 0.004 mg/mL.
 Mixtures should be used within 24 hours.
 After 24 hours, the remaining unused solution must be discarded.
-The rate of administration should be titrated in accordance with the patient’s response.
+The rate of administration should be titrated in accordance with the patient's response.
 
 Naloxone Hydrochloride Injection, USP should not be mixed with preparations containing bisulfite, metabisulfite, long-chain or high molecular weight anions, or any solution having an alkaline pH.
 No drug or chemical agent should be added to Naloxone Hydrochloride Injection, USP unless its effect on the chemical and physical stability of the solution has first been established.
@@ -23,7 +23,7 @@ If no response is observed after 10 mg of naloxone hydrochloride have been admin
 Intramuscular or subcutaneous administration may be necessary if the intravenous route is not available.
 
 Postoperative Opioid Depression: For the partial reversal of opioid depression following the use of opioids during surgery, smaller doses of naloxone hydrochloride are usually sufficient.
-The dose of naloxone should be titrated according to the patient’s response.
+The dose of naloxone should be titrated according to the patient's response.
 For the initial reversal of respiratory depression, naloxone hydrochloride should be injected in increments of 0.1 to 0.2 mg intravenously at two to three minute intervals to the desired degree of reversal, i.e., adequate ventilation and alertness without significant pain or discomfort.
 Larger than necessary dosage of naloxone may result in significant reversal of analgesia and increase in blood pressure.
 Similarly, too rapid reversal may induce nausea, vomiting, sweating or circulatory stress.
