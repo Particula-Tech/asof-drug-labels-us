@@ -2,9 +2,11 @@
 
 The following adverse reactions are described in other labeling sections:
 
-- Anemia, neutropenia and thrombocytopenia [see Warnings and Precautions (5.1)]
-- Hepatic coma [see Warnings and Precautions (5.2)]
-- Elevated serum creatinine, renal failure, and renal tubular acidosis [see Warnings and Precautions (5.3)]
+- Anemia, Neutropenia and Thrombocytopenia [see Warnings and Precautions (5.1)]
+- Hepatotoxicity in Patients with Severe Pre-existing Hepatic Impairment [see Warnings and Precautions (5.2)]
+- Renal Toxicity [see Warnings and Precautions (5.3)]
+- Tumor Lysis Syndrome [see Warnings and Precautions (5.4)]
+- Embryo-Fetal Risk [see Warnings and Precautions (5.5)]
 
 Most Commonly Occurring Adverse Reactions (SC or IV Route): nausea, anemia, thrombocytopenia, vomiting, pyrexia, leukopenia, diarrhea, injection site erythema, constipation, neutropenia, ecchymosis.
 The most common adverse reactions by IV route also included petechiae, rigors, weakness and hypokalemia.
@@ -168,7 +170,7 @@ There did not appear to be any adverse reactions that increased in frequency ove
 Overall, adverse reactions were qualitatively similar between the IV and SC studies.
 Adverse reactions that appeared to be specifically associated with the IV route of administration included infusion site reactions (e.g. erythema or pain) and catheter site reactions (e.g. infection, erythema, or hemorrhage).
 
-In clinical studies of either SC or IV VIDAZA, the following serious adverse reactions occurring at a rate of < 5% (and not described in Tables 1 or 2) were reported:
+In clinical studies of either SC or IV VIDAZA, the following serious adverse reactions occurring at a rate of <5% (and not described in Tables 1 or 2) were reported:
 
 Blood and lymphatic system disorders: agranulocytosis, bone marrow failure, pancytopenia splenomegaly.
 

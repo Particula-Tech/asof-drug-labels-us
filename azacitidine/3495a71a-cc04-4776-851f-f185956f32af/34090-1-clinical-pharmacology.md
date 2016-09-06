@@ -26,7 +26,7 @@ The mean elimination half-lives of total radioactivity (azacitidine and its meta
 
 Specific Populations
 
-In patients with cancer the pharmacokinetics of azacitidine in 6 patients with normal renal function (CLcr > 80 mL/min) and 6 patients with severe renal impairment (CLcr < 30 mL/min) were compared following daily SC dosing (Days 1 through 5) at 75 mg/m2/day.
+In patients with cancer the pharmacokinetics of azacitidine in 6 patients with normal renal function (CLcr >80 mL/min) and 6 patients with severe renal impairment (CLcr <30 mL/min) were compared following daily SC dosing (Days 1 through 5) at 75 mg/m2/day.
 Severe renal impairment increased azacitidine exposure by approximately 70% after single and 41% after multiple subcutaneous administrations.
 This increase in exposure was not correlated with an increase in adverse events.
 The exposure was similar to exposure in patients with normal renal function receiving 100 mg/m2.
