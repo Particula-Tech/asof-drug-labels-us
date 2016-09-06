@@ -123,7 +123,7 @@ Susceptibility Test Interpretive Criteria for Clindamycin
 | Anaerobic Bacteria | ≤2 | 4 | ≥8 | NA | NA | NA |
 | NA=not applicable |  |  |  |  |  |  |
 
-A report of Susceptible (S)indicates that the antimicrobial drug is likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
+A report of Susceptible (S) indicates that the antimicrobial drug is likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
 A report of Intermediate (I) indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
 This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where high dosage of drug can be used.
 This category also provides a buffer zone that prevents small, uncontrolled technical factors from causing major discrepancies in interpretation.

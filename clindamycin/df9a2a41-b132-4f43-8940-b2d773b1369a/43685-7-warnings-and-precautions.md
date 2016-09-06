@@ -2,7 +2,7 @@
 
 See BOXED WARNING
 
-## Clostridium difficile associated diarrhea
+## Clostridium difficile Associated Diarrhea
 
 Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including CLEOCIN HCl, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon, leading to overgrowth of C. difficile.
@@ -15,15 +15,15 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
-## Hypersensitivity
+## Anaphylactic and Severe Hypersensitivity Reactions
 
-Severe hypersensitivity reactions, including severe skin reactions such as toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and Stevens-Johnson syndrome (SJS), some with fatal outcome, have been reported.
-In case of such an event, treatment should be permanently discontinued.
+Anaphylactic shock and anaphylactic reactions have been reported (see ADVERSE REACTIONS).
+
+Severe hypersensitivity reactions, including severe skin reactions such as toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and Stevens-Johnson syndrome (SJS), some with fatal outcome, have been reported (see ADVERSE REACTIONS).
+
+In case of such an anaphylactic or severe hypersensitivity reaction, discontinue treatment permanently and institute appropriate therapy.
 
 A careful inquiry should be made concerning previous sensitivities to drugs and other allergens.
-
-SERIOUS ANAPHYLACTOID OR ANAPHYLACTIC REACTIONS REQUIRE IMMEDIATE EMERGENCY TREATMENT WITH EPINEPHRINE.
-OXYGEN AND INTRAVENOUS CORTICOSTEROIDS SHOULD ALSO BE ADMINISTERED AS INDICATED.
 
 ## Usage in Meningitis
 
