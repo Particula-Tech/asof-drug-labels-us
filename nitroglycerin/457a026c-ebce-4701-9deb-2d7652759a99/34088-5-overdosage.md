@@ -1,5 +1,10 @@
 # OVERDOSAGE
 
+Signs and symptoms of overdose are generally similar to the described adverse reactions (see Adverse Reactions).
+
+There is no specific antidote for overdose of nitroglycerin.
+The risk of overdose can be minimized by close monitoring during treatment.
+
 ## Hemodynamic Effects:
 
 The ill effects of nitroglycerin overdose are generally the results of nitroglycerin's capacity to induce vasodilation, venous pooling, reduced cardiac output, and hypotension.
@@ -16,7 +21,7 @@ Passive elevation of the patient's legs may be sufficient, but intravenous infus
 
 The use of epinephrine or other arterial vasoconstrictors in this setting is likely to do more harm than good.
 
-In patients with renal disease or congestive heart failure, therapy resulting in central volume expansion is not without hazard.
+In patients with renal disease or heart failure, therapy resulting in central volume expansion is not without hazard.
 Treatment of nitroglycerin overdose in these patients may be subtle and difficult, and invasive monitoring may be required.
 
 ## Methemoglobinemia:
@@ -26,11 +31,11 @@ Even in patients totally without cytochrome b5 reductase activity, however, and 
 In patients with normal reductase function, significant production of methemoglobin should require even larger doses of nitroglycerin.
 In one study in which 36 patients received 2-4 weeks of continuous nitroglycerin therapy at 3.1 to 4.4 mg/hr, the average methemoglobin level measured was 0.2%; this was comparable to that observed in parallel patients who received placebo.
 
-Notwithstanding these observations, there are case reports of significant methemoglobinemia in association with moderate overdoses of organic nitrates.
-None of the affected patients had been thought to be unusually susceptible.
+Cases of methemoglobinemia have been reported with moderate doses of organic nitrates.
 
 Methemoglobin levels are available from most clinical laboratories.
 The diagnosis should be suspected in patients who exhibit signs of impaired oxygen delivery despite adequate cardiac output and adequate arterial pO2.
 Classically, methemoglobinemic blood is described as chocolate brown, without color change on exposure to air.
 
-When methemoglobinemia is diagnosed, the treatment of choice is methylene blue, 1-2 mg/kg intravenously.
+When methemoglobinemia is diagnosed, discontinue treatment of nitroglycerin.
+If condition is not reversed, treat with methylene blue, 1-2 mg/kg intravenously.

@@ -40,11 +40,17 @@ Baxter Healthcare Corporation, USA
 
 Nitroglycerin in 5% Dextrose Injection 25 mg per 250 mL (100 mcg / mL)
 
-1A-06-92
+25 mg Nitroglycerin in 5% Dextrose Injection
 
-25 MG NITROGLYCERIN
+250 ML
 
-IN 5% DEXTROSE INJECTION
+Qty 12
+
+NDC 0338-1047-02 1A0692
+
+EXP LOT #
+
+(01)50303381047028 (17) 090331 (10) G012345
 
 Lot Exp 07-09-72-120
 
@@ -86,11 +92,17 @@ Baxter Healthcare Corporation, USA
 
 Nitroglycerin in 5% Dextose Injecton 50 mg per 250 mL (200 mcg / mL)
 
-1A-06-94
+50 mg Nitroglycerin in 5% Dextrose Injection
 
-50 MG NITROGLYCERIN
+250 ML
 
-IN 5% DEXTROSE INJECTION
+Qty 12
+
+NDC 0338-1049-02 1A0694
+
+EXP LOT #
+
+(01)50303381049022 (17) 090331 (10) G012345
 
 Lot Exp
 
@@ -132,8 +144,14 @@ Baxter Healthcare Corporation
 
 Nitrogycerin in 5% Dextrose Injection 100 mg per 250 mL (400 mcg / mL)
 
-1A-06-96
+100 mg Nitroglycerin in 5% Dextrose Injection
 
-100 MG NITROGLYCERIN
+250 ML
 
-IN 5% DEXTROSE INJECTION
+Qty 12
+
+NDC 0338-1051-02 1A0696
+
+EXP LOT #
+
+(01)50303381051025 (17) 090331 (10) G012345

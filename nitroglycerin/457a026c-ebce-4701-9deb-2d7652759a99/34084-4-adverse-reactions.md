@@ -13,4 +13,6 @@ There have been a few reports of genuine anaphylactoid reactions, and these reac
 Extremely rarely, ordinary doses of organic nitrates have caused methemoglobinemia in normal-seeming patients.
 Methemoglobinemia is so infrequent at these doses that further discussion of its diagnosis and treatment is deferred (see Overdosage).
 
+Dyspnea has also been reported.
+
 Data are not available to allow estimation of the frequency of adverse reactions during treatment with Nitroglycerin in 5% Dextrose Injection.

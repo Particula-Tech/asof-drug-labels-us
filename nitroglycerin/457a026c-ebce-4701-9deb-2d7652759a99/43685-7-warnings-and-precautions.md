@@ -1,15 +1,15 @@
 # WARNINGS
 
-Nitroglycerin readily migrates into many plastics, including the polyvinyl chloride (PVC) plastics commonly used for intravenous administration sets.
-Nitroglycerin absorption by PVC tubing is increased when the tubing is long, the flow rates are low, and the nitroglycerin concentration of the solution is high.
+Use of PVC (polyvinyl chloride) tubing in infusion sets may lead to loss of active ingredient due to adsorption of nitroglycerin to PVC tubing, therefore dosage is affected (see Dosage and Administration).
+Nitroglycerin adsorption by PVC tubing is increased when the tubing is long, the flow rates are low, and the nitroglycerin concentration of the solution is high.
 The delivered fraction of the solution's original nitroglycerin content has been 20-60% in published studies using PVC tubing; the fraction varies with time during a single infusion, and no simple correction factor can be used.
 PVC tubing has been used in most published studies of intravenous nitroglycerin, but the reported doses have been calculated by simply multiplying the flow rate of the solution by the solution's original concentration of nitroglycerin.
 The actual doses delivered have been less, sometimes much less, than those reported.
 
-Relatively non-absorptive intravenous administration sets are available.
-If intravenous nitroglycerin is administered through non-absorptive tubing, doses based upon published reports will generally be too high.
+Relatively non-adsorptive intravenous administration sets are available.
+If intravenous nitroglycerin is administered through non-adsorptive tubing, doses based upon published reports will generally be too high.
 
-Some in-line intravenous filters also absorb nitroglycerin; these filters should be avoided.
+Some in-line intravenous filters also adsorb nitroglycerin; these filters should be avoided.
 
 Solutions containing dextrose without electrolytes should not be administered through the same administration set as blood, as this may result in pseudoagglutination or hemolysis.
 
@@ -19,15 +19,13 @@ The risk of solute overload causing congested states with peripheral and pulmona
 
 # PRECAUTIONS
 
-## General:
-
 Severe hypotension and shock may occur with even small doses of nitroglycerin.
-This drug should therefore be used with caution in patients who may be volume depleted or who, for whatever reason, are already hypotensive.
+Monitor patients who may be volume depleted or who, for whatever reason, are already hypotensive.
 Hypotension induced by nitroglycerin may be accompanied by paradoxical bradycardia and increased angina pectoris.
 
 Nitrate therapy may aggravate the angina caused by hypertrophic cardiomyopathy.
 
-As tolerance to other forms of nitroglycerin develops, the effect of sublingual nitroglycerin on exercise tolerance, although still observable, is somewhat blunted.
+Tolerance development and occurrence of cross tolerance to other nitro compounds have been reported.
 
 In industrial workers who have long-term exposure to unknown (presumably high) doses of organic nitrates, tolerance clearly occurs.
 Chest pain, acute myocardial infarction, and even sudden death have occurred during temporary withdrawal of nitrates from these workers, demonstrating the existence of true physical dependence.
@@ -39,11 +37,11 @@ The importance of these observations to the routine, clinical use of intravenous
 Lower concentrations of Nitroglycerin in 5% Dextrose Injection increase the potential precision of dosing, but these concentrations increase the total fluid volume that must be delivered to the patient.
 Total fluid load may be a dominant consideration in patients with compromised function of the heart, liver, and/or kidneys.
 
-Nitroglycerin in 5% Dextrose Injection should be administered only via an infusion pump that can maintain a constant infusion rate.
+Administer nitroglycerin in 5% Dextrose Injection via an infusion pump that can maintain a constant infusion rate.
 
 Intracoronary injection of Nitroglycerin in 5% Dextrose Injection has not been studied.
 
-Solutions containing dextrose should be used with caution in patients with known sub-clinical or overt diabetes mellitus.
+Monitor patients with known sub-clinical or overt diabetes mellitus when using solutions containing dextrose.
 
 ## Laboratory Tests:
 
@@ -51,19 +49,19 @@ Because of the propylene glycol content of intravenous nitroglycerin, serum trig
 
 ## Drug Interactions:
 
-The vasodilating effects of nitroglycerin may be additive with those of other vasodilators.
+The vasodilating effects of nitroglycerin may be additive with those of antihypertensives (e.g., beta-blockers, calcium channel blockers and tricyclic antidepressants) and may cause increased hypotensive effects..
 
-Concomitant use of Nitroglycerin in 5% Dextrose Injection with phosphodiesterase inhibitors in any form is contraindicated (see Contraindications).
+Concomitant use of Nitroglycerin in 5% Dextrose Injection with phosphodiesterase inhibitors (e.g. sildenafil, tadalafil, or vardenafil) can cause hypotension and is contraindicated (see Contraindications).
 
-Concomitant use of Nitroglycerin in 5% Dextrose Injection with riociguat, a soluble guanylate cyclase stimulator, is contraindicated (see Contraindications).
+Concomitant use of Nitroglycerin in 5% Dextrose Injection with riociguat, a soluble guanylate cyclase stimulator, can cause hypotension and is contraindicated (see Contraindications).
 
 Marked symptomatic orthostatic hypotension has been reported when calcium channel blockers and organic nitrates were used in combination.
 
-Intravenous nitroglycerin interferes, at least in some patients, with the anticoagulant effect of heparin.
-In patients receiving intravenous nitroglycerin, concomitant heparin therapy should be guided by frequent measurement of the activated partial thromboplastin time.
+Nitroglycerin at higher dosages may interfere with the anticoagulant effect of heparin.
+Intravenous nitroglycerin can induce heparin resistance.
 
 Administration of Nitroglycerin in 5% Dextrose Injection through the same infusion set as blood can result in pseudoagglutination and hemolysis.
-More generally, Nitroglycerin in 5% Dextrose Injection should not be mixed with any other medication of any kind.
+Do not mix Nitroglycerin in 5% Dextrose Injection with any other medication of any kind.
 
 ## Carcinogenesis, Mutagenesis, and Impairment of Fertility:
 
@@ -82,7 +80,7 @@ No specific effect on the fertility of the F0 generation was seen.
 Infertility noted in subsequent generations, however, was attributed to increased interstitial cell tissue and aspermatogenesis in the high-dose males.
 In this three-generation study there was no clear evidence of teratogenicity.
 
-## Pregnancy Category C:
+## Pregnancy:
 
 Animal teratology studies have not been conducted with nitroglycerin injection.
 Teratology studies in rats and rabbits were conducted with topically applied nitroglycerin ointment at doses up to 80 mg/kg/day and 240 mg/kg/day, respectively, and no toxic effects on dams or fetuses were seen.
@@ -91,29 +89,35 @@ Nitroglycerin should be given to a pregnant woman only if clearly needed.
 
 ## Nursing Mothers:
 
-It is not known whether nitroglycerin is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when nitroglycerin is administered to a nursing woman.
+It is not known if nitroglycerin is present in human milk or if nitroglycerin has effects on milk production.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for nitroglycerin and any potential adverse effects on the breastfed child from nitroglycerin or from the underlying maternal condition.
 
 ## Pediatric Use:
 
 Safety and effectiveness in the pediatric population have not been established.
 However, the relationship between hemodynamic effects of nitroglycerin and dose in the pediatric population have been documented in the literature.
+Studies in the literature used doses of nitroglycerin injection in pediatric patients ranging from 0.5 to 5 mcg/kg/min.
+The following equation can be used to calculate the flow rate in mL/hour of nitroglycerin using the 100 mcg/mL (25 mg/250 mL) concentration of nitroglycerin.
 
-Table 2
+Infusion Rate (mL/h) = [Dose (mcg/kg/min) x Weight (kg) x 60 min/h]
 
-| Studies in the literature used doses of nitroglycerin injection in pediatric patients ranging from 0.5 to 5 mcg/kg/min. The following chart can be used to calculate the flow rate in mL/hour of nitroglycerin using the 100 mcg/mL (25 mg/250 mL) concentration of nitroglycerin. Note: Very low infusion rates may require that a more dilute concentration of nitroglycerin infusion solution be prepared. |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Flow Rate (mL/hour) Using the 100 mcg/mL (25mg/250 mL) Concentration |  |  |  |  |  |  |  |  |  |  |
-| Dose (mcg/ kg/ min) | Patient Weight in kg |  |  |  |  |  |  |  |  |  |
-| 2 | 4 | 6 | 8 | 10 | 12 | 14 | 16 | 18 | 20 |  |
-| 0.1Dose not studied in pediatric trials | 0.12 | 0.24 | 0.36 | 0.48 | 0.6 | 0.72 | 0.84 | 0.96 | 1.08 | 1.2 |
-| 0.5 | 0.6 | 1.2 | 1.8 | 2.4 | 3 | 3.6 | 4.2 | 4.8 | 5.4 | 6 |
-| 1 | 1.2 | 2.4 | 3.6 | 4.8 | 6 | 7.2 | 8.4 | 9.6 | 10.8 | 12 |
-| 2 | 2.4 | 4.8 | 7.2 | 9.6 | 12 | 14.4 | 16.8 | 19.2 | 21.6 | 24 |
-| 3 | 3.6 | 7.2 | 10.8 | 14.4 | 18 | 21.6 | 25.2 | 28.8 | 32.4 | 36 |
-| 4 | 4.8 | 9.6 | 14.4 | 19.2 | 24 | 28.8 | 33.2 | 38.4 | 43.2 | 48 |
-| 5 | 6 | 12 | 18 | 24 | 30 | 36 | 42 | 48 | 54 | 60 |
-| 10* | 12 | 24 | 36 | 48 | 60 | 72 | 84 | 96 | 108 | 120 |
+Final Concentration (mcg/mL)
+
+Example calculations for infusion rates are as follows:
+
+1. Example 1: for a 2 kg child at a dose of 0.5 µg/kg/min using a 100 mcg/mL concentration, the infusion rate would be as follows:
+
+Infusion Rate (mL/h) = [0.5 (mcg/kg/min) x 2 (kg) x 60 (min/h)] = 0.6 (mL/h)
+
+100 (mcg/mL)
+
+1. Example 2: for a 10 kg child at a dose of 5 mcg/kg/min using a 100 mcg/mL concentration, the infusion rate would be as follows:
+
+Infusion Rate (mL/h) = [5 (mcg/kg/min) x 10 (kg) x 60 (min/h)] = 30 (mL/h)
+
+100 (mcg/mL)
+
+Note: Very low infusion rates may require that a more dilute concentration of nitroglycerin infusion solution be prepared.
 
 ## Geriatric Use:
 
