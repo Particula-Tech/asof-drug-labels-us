@@ -9,13 +9,13 @@ The following ratios are based on the assumption that the applied dose is comple
 
 ### Teratogenic Effects
 
-Pregnancy Category B. Lidocaine was not teratogenic in rats given subcutaneous doses up to 60 mg/kg [360 mg/m2 or 1200-fold the single dermal administration (SDA) of 0.5 mg lidocaine in a 60 kg individual (0.3 mg/m2)] or in rabbits up to 15 mg/kg (180 mg/m2 or 600-fold the SDA).
+Pregnancy Category B. Lidocaine was not teratogenic in rats given subcutaneous doses up to 60 mg/kg [360 mg/m 2 or 1200-fold the single dermal administration (SDA) of 0.5 mg lidocaine in a 60 kg individual (0.3 mg/m 2)] or in rabbits up to 15 mg/kg (180 mg/m 2 or 600-fold the SDA).
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, Zingo™ should be used during pregnancy only if clearly needed.
 
 ### Nonteratogenic Effects
 
-Lidocaine, containing 1:100,000 epinephrine, at a dose of 6 mg/kg (36 mg/m2 or 120-fold the SDA) injected into the masseter muscle of the jaw or into the gum of the lower jaw of Long-Evans hooded pregnant rats on gestation day 11 led to developmental delays in neonatal behavior among offspring.
+Lidocaine, containing 1:100,000 epinephrine, at a dose of 6 mg/kg (36 mg/m 2 or 120-fold the SDA) injected into the masseter muscle of the jaw or into the gum of the lower jaw of Long-Evans hooded pregnant rats on gestation day 11 led to developmental delays in neonatal behavior among offspring.
 Developmental delays were observed for negative geotaxis, static righting reflex, visual discrimination response, sensitivity and response to thermal and electrical shock stimuli, and water maze acquisition.
 The developmental delays of the neonatal animals were transient with responses becoming comparable to untreated animals later in life.
 The clinical relevance of the animal data is uncertain.

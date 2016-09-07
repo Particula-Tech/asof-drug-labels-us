@@ -17,8 +17,8 @@ Table 1: Visual Analogue Scale Score (Full Safety/Efficacy Population)
 |  | Adult Study |  |
 | --- | --- | --- |
 | Active (N = 345) | Placebo (N = 348) |  |
-| Adjusted Mean, LSM1 | 11.61 | 16.23 |
-| Difference in LSMs (SE2) | -4.62 (1.55) |  |
+| Adjusted Mean, LSM 1 | 11.61 | 16.23 |
+| Difference in LSMs (SE 2) | -4.62 (1.55) |  |
 | 95% Confidence Limits | -7.67, -1.57 |  |
 
 1 least squares mean 2 standard error
@@ -43,8 +43,8 @@ Table 2: Modified FACES Scale Score (ITT Population), Studies 1 and 2
 |  | Study 1 |  | Study 2 |  |
 | --- | --- | --- | --- | --- |
 | Active (N = 292) | Placebo (N = 287) | Active (N = 269) | Placebo (N = 266) |  |
-| Adjusted Mean, LSM1 | 1.77 | 2.10 | 1.38 | 1.77 |
-| Difference in LSMs (SE2) | -0.33 (0.13) |  | -0.39 (0.13) |  |
+| Adjusted Mean, LSM 1 | 1.77 | 2.10 | 1.38 | 1.77 |
+| Difference in LSMs (SE 2) | -0.33 (0.13) |  | -0.39 (0.13) |  |
 | 95% Confidence Limits | -0.58, -0.08 |  | -0.65, -0.13 |  |
 
 1 least squares mean2 standard error

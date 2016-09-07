@@ -17,5 +17,5 @@ Significant systemic exposure to lidocaine is not expected under recommended con
 Lidocaine has been previously tested in animal studies for effects on fertility, however.
 The following ratios are based on the assumption that the applied dose is completely absorbed through the skin.
 
-Lidocaine did not affect fertility in female rats when given via continuous subcutaneous infusion via osmotic minipumps up to doses of 250 mg/kg/day [1500 mg/m2 or 5000-fold higher than the SDA of 0.5 mg lidocaine in a 60 kg individual (0.3 mg/m2)].
-Although lidocaine treatment of male rats increased the copulatory interval and led to a dose-related decreased homogenization resistant sperm head count, daily sperm production, and spermatogenic efficiency, the treatment did not affect overall fertility in male rats when given subcutaneous doses up to 60 mg/kg (360 mg/m2 or 1200-fold the SDA).
+Lidocaine did not affect fertility in female rats when given via continuous subcutaneous infusion via osmotic minipumps up to doses of 250 mg/kg/day [1500 mg/m 2 or 5000-fold higher than the SDA of 0.5 mg lidocaine in a 60 kg individual (0.3 mg/m 2)].
+Although lidocaine treatment of male rats increased the copulatory interval and led to a dose-related decreased homogenization resistant sperm head count, daily sperm production, and spermatogenic efficiency, the treatment did not affect overall fertility in male rats when given subcutaneous doses up to 60 mg/kg (360 mg/m 2 or 1200-fold the SDA).

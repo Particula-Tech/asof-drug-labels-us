@@ -3,7 +3,7 @@
 Zingo™ (lidocaine hydrochloride monohydrate) powder intradermal injection system contains 0.5 mg of sterile lidocaine hydrochloride monohydrate.
 
 The chemical name is 2-diethylamino-2',6'-acetoxylidide, monohydrochloride, monohydrate.
-The molecular formula is C14H22N2O · HCl · H2O with a molecular weight of 288.8 Da.
+The molecular formula is C 14H 22N 2O · HCl · H 2O with a molecular weight of 288.8 Da.
 Lidocaine hydrochloride monohydrate, a local anesthetic of the amide class, has the following structural formula:
 
 Lidocaine hydrochloride monohydrate is freely soluble in water, soluble in alcohol and chloroform, insoluble in ether, and melts at around 74–79°C.
