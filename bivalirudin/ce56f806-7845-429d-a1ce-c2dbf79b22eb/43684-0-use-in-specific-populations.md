@@ -14,7 +14,7 @@ Because of possible adverse effects on the neonate and the potential for increas
 
 ## 8.3 Nursing Mothers
 
-It is not known whether bivalirudin is excreted in human milk.
+It is not known whether Bivalirudin is excreted in human milk.
 Because many drugs are excreted in human milk, caution should be exercised when Bivalirudin is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
@@ -30,6 +30,5 @@ Patients treated with Bivalirudin experienced fewer bleeding events in each age 
 ## 8.6 Renal Impairment
 
 The disposition of Bivalirudin was studied in PTCA patients with mild, moderate and severe renal impairment.
-The clearance of Bivalirudin was reduced approximately 20% in patients with moderate and severe renal impairment and was reduced approximately 80% in dialysis-dependent patients.
-[see Clinical Pharmacology (12.3)].
+The clearance of Bivalirudin was reduced approximately 20% in patients with moderate and severe renal impairment and was reduced approximately 80% in dialysis-dependent patients [see Clinical Pharmacology (12.3)].
 The infusion dose of Bivalirudin may need to be reduced, and anticoagulant status monitored in patients with renal impairment [see Dosage and Administration (2.2)].

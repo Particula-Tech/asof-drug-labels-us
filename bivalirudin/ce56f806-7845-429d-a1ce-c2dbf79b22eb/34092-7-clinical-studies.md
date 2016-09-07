@@ -23,21 +23,21 @@ GPIs were added on a “provisional” basis to patients who were randomized to 
 - abrupt closure; clinical instability; and
 - prolonged ischemia.
 
-During the study, one or more of these circumstances occurred in 12.7% of patients in the Bivalirudin with provisional GPI arm.
-GPIs were administered to 7.2% of patients in the Bivalirudin with provisional GPI arm (62.2% of eligible patients).
+During the study, one or more of these circumstances occurred in 10.9% of patients in the Bivalirudin with provisional GPI arm.
+GPIs were administered to 7.2% of patients in the Bivalirudin with provisional GPI arm (66.8% of eligible patients).
 
 Patients ranged in age from 25-95 years (median, 63); weight ranged from 35-199 kg (median 85.5); 74.4% were male and 25.6% were female.
-Indications for PCI included unstable angina (35% of patients), myocardial infarction within 7 days prior to intervention (8% of patients), stable angina (25%) and positive ischemic stress test (24%).
+Indications for PCI included unstable angina (35% of patients), myocardial infarction within 7 days prior to intervention (8% of patients), stable angina (25%), positive ischemic stress test (24%), and other not specified indications (8%).
 Stents were deployed in 85% of patients.
 Ninety-nine percent of patients received aspirin and 86% received thienopyridines prior to study treatment.
 
 Bivalirudin was administered as a 0.75 mg/kg bolus followed by a 1.75 mg/kg/h infusion for the duration of the procedure.
 The activated clotting time (ACT – measured by a Hemochron® device) was measured 5 min after the first bolus of study medication.
-If the ACT was < 225 seconds, an additional bolus of 0.3 mg/kg was given.
+If the ACT was <225 seconds, an additional bolus of 0.3 mg/kg was given.
 At investigator discretion, the infusion could be continued following the procedure for up to 4 hours.
 The median infusion duration was 44 min. Heparin was administered as a 65 U/kg bolus.
 The activated clotting time (ACT – measured by a Hemochron® device) was measured 5 min after the first bolus of study medication.
-If the ACT was < 225 seconds, an additional bolus of 20 units/kg was given.
+If the ACT was <225 seconds, an additional bolus of 20 units/kg was given.
 GPIs (either abciximab or eptifibatide) were given according to manufacturers’ instructions.
 Both randomized groups could be given “provisional” treatments during the PCI at investigator discretion, but under double-blind conditions.
 “Provisional” treatment with GPI was requested in 5.2% of patients randomized to heparin plus GPI (they were given placebo) and 7.2% patients randomized to Bivalirudin with provisional GPI (they were given abciximab or eptifibatide according to pre-randomization investigator choice and patient stratification).

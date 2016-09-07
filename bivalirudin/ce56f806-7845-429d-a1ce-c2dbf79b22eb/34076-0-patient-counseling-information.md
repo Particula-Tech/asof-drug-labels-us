@@ -7,8 +7,8 @@ Examples of other medications that should not be taken with Bivalirudin are warf
 
 Distributed by: Sandoz Inc., Princeton, NJ 08540
 
-U.S. Patents 5,196,404; 7,598,343; 7,582,727
+U.S. Patents 7,598,343; 7,582,727
 
 Hemochron® is a registered trademark of International Technidyne Corporation, Edison, NJ.
 
-[PN 1515-1]
+[PN1615-2]

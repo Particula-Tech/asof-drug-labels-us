@@ -1,4 +1,7 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Bivalirudin is supplied as a sterile, lyophilized powder in single-use, glass vials.
-After reconstitution, each vial delivers 250 mg of Bivalirudin.
+For injection: 250 mg of Bivalirudin in a single-dose vial for reconstitution.
+Each vial contains 250 mg of Bivalirudin equivalent to an average of 275 mg bivalirudin trifluoroacetate*.
+Following reconstitution with Sterile Water for Injection, the product is a clear to opalescent, colorless to slightly yellow solution, pH 5-6.
+
+*The range of bivalirudin trifluoroacetate is 270 to 280 mg based on a range of trifluoroacetic acid composition of 1.7 to 2.6 equivalents.

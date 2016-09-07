@@ -15,12 +15,12 @@ In healthy volunteers and patients (with ≥70% vessel occlusion undergoing rout
 Intravenous administration of Bivalirudin produces an immediate anticoagulant effect.
 Coagulation times return to baseline approximately 1 hour following cessation of Bivalirudin administration.
 
-In 291 patients with ≥70% vessel occlusion undergoing routine PTCA, a positive correlation was observed between the dose of Bivalirudin and the proportion of patients achieving ACT values of 300 sec or 350 sec. At an Bivalirudin dose of 1 mg/kg IV bolus plus 2.5 mg/kg/h IV infusion for 4 hours, followed by 0.2 mg/kg/h, all patients reached maximal ACT values >300 sec.
+In 291 patients with ≥70% vessel occlusion undergoing routine PTCA, a positive correlation was observed between the dose of Bivalirudin and the proportion of patients achieving ACT values of 300 sec or 350 sec. At a Bivalirudin dose of 1 mg/kg IV bolus plus 2.5 mg/kg/h IV infusion for 4 hours, followed by 0.2 mg/kg/h, all patients reached maximal ACT values >300 sec.
 
 ## 12.3 Pharmacokinetics
 
 Bivalirudin exhibits linear pharmacokinetics following IV administration to patients undergoing PTCA.
-In these patients, a mean steady state Bivalirudin concentration of 12.3 ± 1.7 mcg/mL is achieved following an IV bolus of 1 mg/kg and a 4 hour 2.5 mg/kg/h IV infusion.
+In these patients, a mean steady state Bivalirudin concentration of 12.3 ± 1.7 mcg/mL is achieved following an IV bolus of 1 mg/kg and a 4-hour 2.5 mg/kg/h IV infusion.
 Bivalirudin does not bind to plasma proteins (other than thrombin) or to red blood cells.
 Bivalirudin is cleared from plasma by a combination of renal mechanisms and proteolytic cleavage, with a half-life in patients with normal renal function of 25 min.
 
