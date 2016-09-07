@@ -16,14 +16,13 @@ GPI administration should be considered in the event that any of the conditions 
 For patients who have HIT/HITTS
 
 The recommended dose of Angiomax in patients with HIT/HITTS undergoing PCI is an IV bolus of 0.75 mg/kg.
-This should be followed by a continuous infusion at a rate of 1.75 mg/kg/h for the duration of the procedure.
+This should be followed immediately by a continuous infusion at a rate of 1.75 mg/kg/h for the duration of the procedure.
 
 For ongoing treatment post procedure
 
 Angiomax infusion may be continued following PCI/PTCA for up to 4 hours post-procedure at the discretion of the treating physician.
 
-In patients with ST segment elevation myocardial infarction (STEMI) continuation of the Angiomax infusion at a rate of 1.75 mg/kg/h following PCI/PTCA for up to 4 hours post-procedure should be considered to mitigate risk of stent thrombosis.
-[see Warnings and Precautions (5.2)].
+In patients with ST segment elevation myocardial infarction (STEMI) continuation of the Angiomax infusion at a rate of 1.75 mg/kg/h following PCI/PTCA for up to 4 hours post-procedure should be considered to mitigate risk of stent thrombosis [see Warnings and Precautions (5.2)].
 
 After four hours, an additional IV infusion of Angiomax may be initiated at a rate of 0.2 mg/kg/h (low-rate infusion), for up to 20 hours, if needed.
 

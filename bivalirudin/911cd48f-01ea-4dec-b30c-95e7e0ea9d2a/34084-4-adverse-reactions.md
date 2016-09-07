@@ -39,8 +39,8 @@ Table 3: Major Bleeding and Transfusions in BAT Trial (all patients)*
 |  | ANGIOMAX (n=2161) | HEPARIN (n=2151) |
 | --- | --- | --- |
 | No. (%) Patients with Major hemorrhage1 | 79 (3.7) | 199 (9.3) |
-| -with >3 g/dL fall in Hgb | 41 (1.9) | 124 (5.8) |
-| -with >5 g/dL fall in Hgb | 14 (0.6) | 47 (2.2) |
+| -with ≥3 g/dL fall in Hgb | 41 (1.9) | 124 (5.8) |
+| -with ≥5 g/dL fall in Hgb | 14 (0.6) | 47 (2.2) |
 | -retroperitoneal bleeding | 5 (0.2) | 15 (0.7) |
 | -intracranial bleeding | 1 (<0.1) | 2 (0.1) |
 | -Required transfusions | 43 (2.0) | 123 (5.7) |
@@ -55,7 +55,7 @@ Adverse reactions, other than bleeding, observed in clinical trials were similar
 
 Adverse reactions (related adverse events) seen in clinical studies in patients undergoing PCI and PTCA are shown in Tables 4 and 5.
 
-Table 4: Most Frequent (>0.2%) Treatment-related Adverse Events (reactions)(through 30 days) in the REPLACE-2 Safety Population
+Table 4: Most Frequent (≥0.2%) Treatment-related Adverse Events (reactions)(through 30 days) in the REPLACE-2 Safety Population
 
 |  | ANGIOMAX with “provisional” GPI1 (n=2914) |  | HEPARIN+GPI (n=2987) |  |
 | --- | --- | --- | --- | --- |
