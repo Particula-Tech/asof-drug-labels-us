@@ -39,11 +39,11 @@ If you are a female who can become pregnant
   - oViral infections.
     Certain viruses can live in your body and cause active infections when your immune system is weak.
     Viral infections that can happen with mycophenolate mofetil capsules include:
-    - Shingles, other herpes infections, and cytomegalovirus (CMV).
+    - ▪Shingles, other herpes infections, and cytomegalovirus (CMV).
       CMV can cause serious tissue and blood infections.
-    - BK virus.
+    - ▪BK virus.
       BK virus can affect how your kidney works and cause your transplanted kidney to fail.
-    - Hepatitis B and C viruses.
+    - ▪Hepatitis B and C viruses.
       Hepatitis viruses can affect how your liver works.
       Talk to your doctor about how hepatitis viruses may affect you.
 - •A brain infection called Progressive Multifocal Leukoencephalopathy (PML).

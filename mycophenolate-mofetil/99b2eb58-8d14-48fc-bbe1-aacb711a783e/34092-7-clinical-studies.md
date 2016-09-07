@@ -77,8 +77,8 @@ Patients received mycophenolate mofetil 1.5 g bid (n=289) or azathioprine 1.5 to
 The two primary efficacy endpoints were: (1) the proportion of patients who, after transplantation, had at least one endomyocardial biopsy-proven rejection with hemodynamic compromise, or were retransplanted or died, within the first 6 months, and (2) the proportion of patients who died or were retransplanted during the first 12 months following transplantation.
 Patients who prematurely discontinued treatment were followed for the occurrence of allograft rejection for up to 6 months and for the occurrence of death for 1 year.
 
-1. 1.Rejection: No difference was established between mycophenolate mofetil and azathioprine (AZA) with respect to biopsy-proven rejection with hemodynamic compromise.
-2. 2.Survival: Mycophenolate mofetil was shown to be at least as effective as AZA in preventing death or retransplantation at 1 year (see Table 6).
+- 1.Rejection: No difference was established between mycophenolate mofetil and azathioprine (AZA) with respect to biopsy-proven rejection with hemodynamic compromise.
+- 2.Survival: Mycophenolate mofetil was shown to be at least as effective as AZA in preventing death or retransplantation at 1 year (see Table 6).
 
 Table 6 Rejection at 6 Months/Death or Retransplantation at 1 Year
 
