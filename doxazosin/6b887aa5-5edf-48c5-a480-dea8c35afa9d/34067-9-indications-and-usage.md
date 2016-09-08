@@ -1,16 +1,12 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-## A. Benign Prostatic Hyperplasia (BPH)
+## 1.1 Benign Prostatic Hyperplasia (BPH)
 
-Doxazosin mesylate tablet is indicated for the treatment of both the urinary outflow obstruction and obstructive and irritative symptoms associated with BPH: obstructive symptoms (hesitation, intermittency, dribbling, weak urinary stream, incomplete emptying of the bladder) and irritative symptoms (nocturia, daytime frequency, urgency, burning).
-Doxazosin mesylate tablet may be used in all BPH patients whether hypertensive or normotensive.
-In patients with hypertension and BPH, both conditions were effectively treated with doxazosin mesylate tablet monotherapy.
-Doxazosin mesylate tablet provides rapid improvement in symptoms and urinary flow rate in 66–71% of patients.
-Sustained improvements with doxazosin mesylate tablet were seen in patients treated for up to 14 weeks in double-blind studies and up to 2 years in open-label studies.
+Doxazosin Mesylate tablet is indicated for the treatment of the signs and symptoms of BPH.
 
-## B. Hypertension
+## 1.2 Hypertension
 
-Doxazosin mesylate tablet is indicated for the treatment of hypertension, to lower blood pressure.
+Doxazosin Mesylate tablet is indicated for the treatment of hypertension, to lower blood pressure.
 Lowering blood pressure reduces the risk of fatal and nonfatal cardiovascular events, primarily strokes and myocardial infarctions.
 These benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes, including this drug.
 
@@ -27,4 +23,4 @@ Relative risk reduction from blood pressure reduction is similar across populati
 Some antihypertensive drugs have smaller blood pressure effects (as monotherapy) in black patients, and many antihypertensive drugs have additional approved indications and effects (e.g., on angina, heart failure, or diabetic kidney disease).
 These considerations may guide selection of therapy.
 
-Doxazosin mesylate tablet may be used alone or in combination with diuretics, beta-adrenergic blocking agents, calcium channel blockers, or angiotensin-converting enzyme inhibitors.
+Doxazosin Mesylate tablet may be used alone or in combination with other antihypertensives.
