@@ -10,13 +10,11 @@ Inhalation Aerosol
 
 For oral inhalation with FLOVENT HFA actuator only.
 
-Attention Pharmacist: Detach Patient Information leaflet from package insert and dispense with inhaler.
+Contents: Each canister contains a microcrystalline suspension of fluticasone propionate (micronized) in propellant HFA-134a (1,1,1,2-tetrafluorethane).
 
-See prescribing information for dosage information.
+Each actuation of the inhaler delivers 50 mcg of fluticasone propionate from the valve and 44 mcg from the actuator.
 
 Rx only
-
-With Counter
 
 Net Wt.
 10.6g
@@ -25,10 +23,10 @@ Net Wt.
 
 Made in UK
 
-©2015, the GSK group of companies
+©2016 the GSK group of companies
 
-1. 62000000003138 Rev.
-   2/15
+1. 62000000008771 Rev.
+   5/16
 
 PRINCIPAL DISPLAY PANEL
 
@@ -42,13 +40,11 @@ Inhalation Aerosol
 
 For oral inhalation with FLOVENT HFA actuator only.
 
-Attention Pharmacist: Detach Patient Information leaflet from package insert and dispense with inhaler.
+Contents: Each canister contains a microcrystalline suspension of fluticasone propionate (micronized) in propellant HFA-134a (1,1,1,2-tetrafluorethane).
 
-See prescribing information for dosage information.
+Each actuation of the inhaler delivers 125 mcg of fluticasone propionate from the valve and 110 mcg from the actuator.
 
 Rx only
-
-With Counter
 
 Net Wt.
 12 g
@@ -57,10 +53,10 @@ Net Wt.
 
 Made in Singapore
 
-©2015, the GSK group of companies
+©2016 the GSK group of companies
 
-1. 62000000003142 Rev.
-   2/15
+1. 62000000008737 Rev.
+   5/16
 
 PRINCIPAL DISPLAY PANEL
 
@@ -74,9 +70,9 @@ Inhalation Aerosol
 
 For oral inhalation with FLOVENT HFA actuator only.
 
-Attention Pharmacist: Detach Patient Information leaflet from package insert and dispense with inhaler.
+Contents: Each canister contains a microcrystalline suspension of fluticasone propionate (micronized) in propellant HFA-134a (1,1,1,2-tetrafluorethane).
 
-See prescribing information for dosage information.
+Each actuation of the inhaler delivers 250 mcg of fluticasone propionate from the valve and 220 mcg from the actuator.
 
 Rx only
 
@@ -89,7 +85,7 @@ Net Wt.
 
 Made in Singapore
 
-©2015, the GSK group of companies
+©2016 the GSK group of companies
 
-1. 62000000003146 Rev.
-   2/15
+1. 62000000008704 Rev.
+   5/16

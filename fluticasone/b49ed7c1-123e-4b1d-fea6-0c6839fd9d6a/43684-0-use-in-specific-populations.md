@@ -7,7 +7,7 @@ Risk Summary
 There are no randomized clinical studies of FLOVENT HFA in pregnant women.
 There are clinical considerations with the use of FLOVENT HFA in pregnant women [see Clinical Considerations].
 In animals, teratogenicity characteristic of corticosteroids, decreased fetal body weight, and/or skeletal variations in rats, mice, and rabbits were observed with subcutaneously administered maternal toxic doses of fluticasone propionate less than the maximum recommended human daily inhaled dose (MRHDID) on a mg/m2 basis [see Animal Data].
-However, fluticasone propionate administered via inhalation to rats decreased fetal body weight, but did not induce teratogenicity at a maternal toxic dose approximately 0.5 times the MRHDID on a mg/m2 basis [see Animal Data].
+However, fluticasone propionate administered via inhalation to rats decreased fetal body weight, but did not induce teratogenicity at a maternal toxic dose less than the MRHDID on a mg/m2 basis [see Animal Data].
 Experience with oral corticosteroids suggests that rodents are more prone to teratogenic effects from corticosteroids than humans.
 
 The estimated risk of major birth defects and miscarriage for the indicated population is unknown.
@@ -26,8 +26,8 @@ The rat no observed adverse effect level (NOAEL) was observed at approximately 0
 Cleft palate and fetal skeletal variations were observed in mouse fetuses at a dose approximately 0.1 times the MRHDID (on a mg/m2 basis with a maternal subcutaneous dose of 45 mcg/kg/day).
 The mouse NOAEL was observed with a dose approximately 0.04 times the MRHDID (on a mg/m2 basis with a maternal subcutaneous dose of 15 mcg/kg/day).
 
-In an embryofetal development study with pregnant rats dosed by the inhalation route throughout the period of organogenesis, fluticasone propionate produced decreased fetal body weights and skeletal variations, in the presence of maternal toxicity, at a dose approximately 0.5 times the MRHDID (on a mg/m2 basis with a maternal inhalation dose of 91 mcg/kg/day); however, there was no evidence of teratogenicity.
-The NOAEL was observed with a dose approximately 0.13 times the MRHDID (on a mg/m2 basis with a maternal inhalation dose of 23 mcg/kg/day).
+In an embryofetal development study with pregnant rats dosed by the inhalation route throughout the period of organogenesis, fluticasone propionate produced decreased fetal body weights and skeletal variations, in the presence of maternal toxicity, at a dose approximately 0.14 times the MRHDID (on a mg/m2 basis with a maternal inhalation dose of 25.7 mcg/kg/day); however, there was no evidence of teratogenicity.
+The NOAEL was observed with a dose approximately 0.03 times the MRHDID (on a mg/m2 basis with a maternal inhalation dose of 5.5 mcg/kg/day).
 
 In an embryofetal development study in pregnant rabbits that were dosed by the subcutaneous route throughout organogenesis, fluticasone propionate produced reductions of fetal body weights, in the presence of maternal toxicity, at doses approximately 0.006 times the MRHDID and higher (on a mg/m2 basis with a maternal subcutaneous dose of 0.57 mcg/kg/day).
 Teratogenicity was evident based upon a finding of cleft palate for 1 fetus at dose approximately 0.04 times the MRHDID (on a mg/m2 basis with a maternal subcutaneous dose of 4 mcg/kg/day).
@@ -82,7 +82,7 @@ The clinical relevance of these growth data is not certain.
 
 Children Younger than 4 Years
 
-Pharmacokinetics:[see Clinical Pharmacology (12.3)].
+Pharmacokinetics: [see Clinical Pharmacology (12.3)].
 
 Pharmacodynamics: A 12-week, double-blind, placebo-controlled, parallel-group trial was conducted in children with asthma aged 1 to younger than 4 years.
 Twelve-hour overnight urinary cortisol excretion after a 12-week treatment period with 88 mcg of FLOVENT HFA twice daily (n = 73) and with placebo (n = 42) were calculated.
