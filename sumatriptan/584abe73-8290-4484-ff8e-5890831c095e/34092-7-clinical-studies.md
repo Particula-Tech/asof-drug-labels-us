@@ -40,9 +40,9 @@ The estimated probability of achieving an initial headache response over the 4 h
 Figure 1.
 Estimated Probability of Achieving Initial Headache Response Within 4 Hours of Treatment in Pooled Trials 1, 2, and 3a
 
-a The figure shows the probability over time of obtaining headache response (no or mild pain) following treatment with oral sumatriptan.
-The averages displayed are based on pooled data from the 3 clinical controlled trials providing evidence of efficacy.
-Kaplan‑ Meier plot with patients not achieving response and/or taking rescue within 240 minutes censored to 240 minutes.
+1. a The figure shows the probability over time of obtaining headache response (no or mild pain) following treatment with oral sumatriptan.
+   The averages displayed are based on pooled data from the 3 clinical controlled trials providing evidence of efficacy.
+   Kaplan‑ Meier plot with patients not achieving response and/or taking rescue within 240 minutes censored to 240 minutes.
 
 For patients with migraine-associated nausea, photophobia, and/or phonophobia at baseline, there was a lower incidence of these symptoms at 2 hours (Trial 1) and at 4 hours (Trials 1, 2, and 3) following administration of IMITREX Tablets compared with placebo.
 
@@ -52,9 +52,9 @@ The estimated probability of patients taking a second dose or other medication f
 Figure 2.
 The Estimated Probability of Patients Taking a Second Dose of IMITREX Tablets or Other Medication to Treat Migraine Over the 24 Hours Following the Initial Dose of Study Treatment in Pooled Trials 1, 2, and 3a
 
-a Kaplan‑ Meier plot based on data obtained in the 3 clinical controlled trials providing evidence of efficacy with patients not using additional treatments censored to 24 hours.
-Plot also includes patients who had no response to the initial dose.
-No remedication was allowed within 2 hours postdose.
+1. a Kaplan‑ Meier plot based on data obtained in the 3 clinical controlled trials providing evidence of efficacy with patients not using additional treatments censored to 24 hours.
+   Plot also includes patients who had no response to the initial dose.
+   No remedication was allowed within 2 hours postdose.
 
 There is evidence that doses above 50 mg do not provide a greater effect than 50 mg.
 There was no evidence to suggest that treatment with IMITREX Tablets was associated with an increase in the severity of recurrent headaches.

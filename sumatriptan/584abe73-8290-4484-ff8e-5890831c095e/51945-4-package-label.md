@@ -20,8 +20,8 @@ Made in Canada
 
 ©2014, the GSK group of companies.
 
-10000000124083 Rev.
-5/14
+1. 10000000124083 Rev.
+   5/14
 
 PRINCIPAL DISPLAY PANEL
 
@@ -45,8 +45,8 @@ Made in Canada
 
 ©2014, the GSK group of companies.
 
-10000000124084 Rev.
-5/14
+1. 10000000124084 Rev.
+   5/14
 
 PRINCIPAL DISPLAY PANEL
 
@@ -70,5 +70,5 @@ Made in Canada
 
 ©2014, the GSK group of companies.
 
-10000000124085 Rev.
-5/14
+1. 10000000124085 Rev.
+   5/14
