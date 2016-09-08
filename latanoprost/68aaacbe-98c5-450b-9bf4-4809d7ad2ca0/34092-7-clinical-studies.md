@@ -2,7 +2,7 @@
 
 ## 14.1 Elevated Baseline IOP
 
-Patients with mean baseline IOP of 24 – 25 mmHg who were treated for 6 months in multi-center, randomized, controlled trials demonstrated 6 – 8 mmHg reductions in IOP.
+Patients with mean baseline IOP of 24-25 mmHg who were treated for 6 months in multi-center, randomized, controlled trials demonstrated 6-8 mmHg reductions in IOP.
 This IOP reduction with latanoprost 0.005% dosed once daily was equivalent to the effect of timolol 0.5% dosed twice daily.
 
 ## 14.2 Progression of Increased Iris Pigmentation

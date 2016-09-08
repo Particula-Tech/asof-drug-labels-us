@@ -2,22 +2,22 @@
 
 NDC 24208-463-25
 
-Bausch & Lomb
-
 Latanoprost
 
-Ophthalmic Solution 0.005%
+Ophthalmic
 
-125 μg/2.5 mL
+Solution 0.005%
+
+125 mcg//2.5 mL
 
 (Sterile)
 
-[icon- eye]
+FOR TOPICAL APPLICATION
 
-[icon- solution]
+IN THE EYE
 
-[icon- 2.5 mL]
+Rx only
 
 2.5 mL
 
-Rx only
+BAUSCH + LOMB
