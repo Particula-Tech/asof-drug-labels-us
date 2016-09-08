@@ -24,10 +24,10 @@ Rx only
 
 6 Nasal Spray Units
 
-©2014, GlaxoSmithKline
+©2015, the GSK group of companies
 
-10000000123935 Rev.
-2/14
+1. 10000000135323 Rev.
+   6/15
 
 PRINCIPAL DISPLAY PANEL
 
@@ -55,7 +55,7 @@ Rx only
 
 6 Nasal Spray Units
 
-©2014, GlaxoSmithKline
+©2015, the GSK group of companies
 
-10000000123937 Rev.
-2/14
+1. 10000000135321 Rev.
+   6/15
