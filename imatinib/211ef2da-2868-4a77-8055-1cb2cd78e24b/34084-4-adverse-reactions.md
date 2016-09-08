@@ -2,24 +2,50 @@
 
 Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed cannot be directly compared to rates on other clinical trials and may not reflect the rates observed in clinical practice.
 
+The following serious adverse reactinos are described elsewhere in the labeling:
+
+Fluid Retention and Edema [see Warnings and Precautions (5.1)]
+
+Hematologic Toxicity [see Warnings and Precautions (5.2)]
+
+Congestive Heart Failure and Left Ventricular Dysfunction [see Warnings and Precautions (5.3)]
+
+Hepatotoxicity [see Warnings and Precautions (5.4)]
+
+Hemorrhage [see Warnings and Precautions (5.5)]
+
+Gastrointestinal Disorders [see Warnings and Precautions (5.6)]
+
+Hypereosinophilic Cardiac Toxicity [see Warnings and Precautions (5.7)]
+
+Dermatologic Toxicities [see Warnings and Precautions (5.8)]
+
+Hypothyroidism [see Warnings and Precautions (5.9)]
+
+Growth Retardation in Children and Adolescents [see Warnings and Precautions (5.11)]
+
+Tumor Lysis Syndrome [see Warnings and Precautions (5.12)]
+
+Impairments Related to Driving and Using Machinery [see Warnings and Precautions (5.13)]
+
 ## 6.1 Chronic Myeloid Leukemia
 
-The majority of Gleevec-treated patients experienced adverse reactions at some time, most adverse reactions were of mild-to-moderate grade.
-Gleevec was discontinued due to drug-related adverse reactions in 2.4% of patients receiving Gleevec in the randomized trial of newly diagnosed patients with Ph+ CML in chronic phase comparing Gleevec versus INF+Ara-C, and in 12.5% of patients receiving Gleevec in the randomized trial of newly diagnosed patients with Ph+ CML in chronic phase comparing Gleevec and nilotinib.
+The majority of Gleevec-treated patients experienced adverse reactions at some time.
+Gleevec was discontinued due to drug-related adverse reactions in 2.4% of patients receiving Gleevec in the randomized trial of newly diagnosed patients with Ph+ CML in chronic phase comparing Gleevec versus IFN+Ara-C, and in 12.5% of patients receiving Gleevec in the randomized trial of newly diagnosed patients with Ph+ CML in chronic phase comparing Gleevec and nilotinib.
 Gleevec was discontinued due to drug-related adverse reactions in 4% of patients in chronic phase after failure of interferon-alpha therapy, in 4% of patients in accelerated phase and in 5% of patients in blast crisis.
 
 The most frequently reported drug-related adverse reactions were edema, nausea and vomiting, muscle cramps, musculoskeletal pain, diarrhea and rash (Table 2 and Table 3 for newly diagnosed CML, Table 4 for other CML patients).
-Edema was most frequently periorbital or in lower limbs and was managed with diuretics, other supportive measures, or by reducing the dose of Gleevec [see Dosage and Administration (2.12)].
+Edema was most frequently periorbital or in lower limbs and was managed with diuretics, other supportive measures, or by reducing the dose of Gleevec [see Dosage and Administration (2.13)].
 The frequency of severe superficial edema was 1.5%–6%.
 
 A variety of adverse reactions represent local or general fluid retention including pleural effusion, ascites, pulmonary edema and rapid weight gain with or without superficial edema.
 These reactions appear to be dose related, were more common in the blast crisis and accelerated phase studies (where the dose was 600 mg/day), and are more common in the elderly.
 These reactions were usually managed by interrupting Gleevec treatment and using diuretics or other appropriate supportive care measures.
-A few of these reactions may be serious or life threatening, and one patient with blast crisis died with pleural effusion, congestive heart failure, and renal failure.
+These reactions may be serious or life threatening.
 
 Adverse reactions, regardless of relationship to study drug, that were reported in at least 10% of the Gleevec treated patients are shown in Tables 2, 3, and 4.
 
-Table 2 Adverse Reactions Regardless of Relationship to Study Drug Reported in Newly Diagnosed CML Clinical Trial in the Gleevec versus INF+Ara-C Study (≥10% of Gleevec Treated Patients)(1)
+Table 2 Adverse Reactions Regardless of Relationship to Study Drug Reported in Newly Diagnosed CML Clinical Trial in the Gleevec versus IFN+Ara-C Study (≥10% of Gleevec Treated Patients)(1)
 
 |  | All Grades |  | CTC Grades 3/4 |  |
 | --- | --- | --- | --- | --- |
@@ -160,7 +186,7 @@ The median duration of the neutropenic and thrombocytopenic episodes varied from
 
 These reactions can usually be managed with either a reduction of the dose or an interruption of treatment with Gleevec, but in rare cases require permanent discontinuation of treatment.
 
-Table 5 Laboratory Abnormalities in Newly Diagnosed CML Clinical Trial (Gleevec versus INF+Ara-C)
+Table 5 Laboratory Abnormalities in Newly Diagnosed CML Clinical Trial (Gleevec versus IFN+Ara-C)
 
 |  | Gleevec N=551 |  | IFN+Ara−C N=533 |  |
 | --- | --- | --- | --- | --- |
@@ -234,7 +260,8 @@ Single agent therapy
 
 The overall safety profile of pediatric patients treated with Gleevec in 93 children studied was similar to that found in studies with adult patients, except that musculoskeletal pain was less frequent (20.5%) and peripheral edema was not reported.
 Nausea and vomiting were the most commonly reported individual adverse reactions with an incidence similar to that seen in adult patients.
-Although most patients experienced adverse reactions at some time during the study, the incidence of Grade 3/4 adverse reactions was low.
+Most patients experienced adverse reactions at some time during the study.
+The incidence of Grade 3/4 events across all types of adverse reactions was 75%; the events with the highest Grade 3/4 incidence in CML pediatric patients were mainly related to myelosuppression.
 
 In combination with multi-agent chemotherapy
 
@@ -284,9 +311,9 @@ No differences were seen that were related to race but the subsets were too smal
 ## 6.4 Acute Lymphoblastic Leukemia
 
 The adverse reactions were similar for Ph+ ALL as for Ph+ CML.
-The most frequently reported drug-related adverse reactions reported in the Ph+ ALL studies were mild nausea and vomiting, diarrhea, myalgia, muscle cramps and rash, which were easily manageable.
+The most frequently reported drug-related adverse reactions reported in the Ph+ ALL studies were mild nausea and vomiting, diarrhea, myalgia, muscle cramps and rash.
 Superficial edema was a common finding in all studies and were described primarily as periorbital or lower limb edemas.
-These edemas were rarely severe and may be managed with diuretics, other supportive measures, or in some patients by reducing the dose of Gleevec.
+These edemas were reported as Grade 3/4 events in 6.3% of the patients and may be managed with diuretics, other supportive measures, or in some patients by reducing the dose of Gleevec.
 
 ## 6.5 Myelodysplastic/Myeloproliferative Diseases
 
@@ -362,7 +389,7 @@ Unresectable and/or Malignant Metastatic GIST
 In the Phase 3 trials, the majority of Gleevec-treated patients experienced adverse reactions at some time.
 The most frequently reported adverse reactions were edema, fatigue, nausea, abdominal pain, diarrhea, rash, vomiting, myalgia, anemia, and anorexia.
 Drug was discontinued for adverse reactions in a total of 89 patients (5.4%).
-Superficial edema, most frequently periorbital or lower extremity edema was managed with diuretics, other supportive measures, or by reducing the dose of Gleevec [see Dosage and Administration (2.12)].
+Superficial edema, most frequently periorbital or lower extremity edema was managed with diuretics, other supportive measures, or by reducing the dose of Gleevec [see Dosage and Administration (2.13)].
 Severe (CTC Grade 3/4) edema was observed in 182 patients (11.1%).
 
 Adverse reactions, regardless of relationship to study drug, that were reported in at least 10% of the patients treated with Gleevec are shown in Table 12.

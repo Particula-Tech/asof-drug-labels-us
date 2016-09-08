@@ -15,12 +15,18 @@ In vitro, imatinib inhibits proliferation and induces apoptosis in GIST cells, w
 
 The pharmacokinetics of Gleevec have been evaluated in studies in healthy subjects and in population pharmacokinetic studies in over 900 patients.
 The pharmacokinetics of Gleevec are similar in CML and GIST patients.
-Imatinib is well absorbed after oral administration with Cmax achieved within 2-4 hours post-dose.
+
+Absorption and Distribution
+
+Imatinib is well absorbed after oral administration with Cmax achieved within 2–4 hours post-dose.
 Mean absolute bioavailability is 98%.
-Following oral administration in healthy volunteers, the elimination half-lives of imatinib and its major active metabolite, the N-demethyl derivative (CGP74588), are approximately 18 and 40 hours, respectively.
-Mean imatinib AUC increases proportionally with increasing doses ranging from 25 mg-1,000 mg.
+Mean imatinib AUC increases proportionally with increasing doses ranging from 25 mg–1,000 mg.
 There is no significant change in the pharmacokinetics of imatinib on repeated dosing, and accumulation is 1.5- to 2.5-fold at steady state when Gleevec is dosed once-daily.
 At clinically relevant concentrations of imatinib, binding to plasma proteins in in vitro experiments is approximately 95%, mostly to albumin and α1-acid glycoprotein.
+
+Elimination
+
+Metabolism
 
 CYP3A4 is the major enzyme responsible for metabolism of imatinib.
 Other cytochrome P450 enzymes, such as CYP1A2, CYP2D6, CYP2C9, and CYP2C19, play a minor role in its metabolism.
@@ -30,9 +36,86 @@ The plasma AUC for this metabolite is about 15% of the AUC for imatinib.
 The plasma protein binding of N-demethylated metabolite CGP74588 is similar to that of the parent compound.
 Human liver microsome studies demonstrated that Gleevec is a potent competitive inhibitor of CYP2C9, CYP2D6, and CYP3A4/5 with Ki values of 27, 7.5, and 8 µM, respectively.
 
+Excretion
+
 Imatinib elimination is predominately in the feces, mostly as metabolites.
 Based on the recovery of compound(s) after an oral 14C-labeled dose of imatinib, approximately 81% of the dose was eliminated within 7 days, in feces (68% of dose) and urine (13% of dose).
 Unchanged imatinib accounted for 25% of the dose (5% urine, 20% feces), the remainder being metabolites.
 
+Following oral administration in healthy volunteers, the elimination half-lives of imatinib and its major active metabolite, the N-demethyl derivative (CGP74588), are approximately 18 and 40 hours, respectively.
+
 Typically, clearance of imatinib in a 50-year-old patient weighing 50 kg is expected to be 8 L/h, while for a 50-year-old patient weighing 100 kg the clearance will increase to 14 L/h.
 The inter-patient variability of 40% in clearance does not warrant initial dose adjustment based on body weight and/or age but indicates the need for close monitoring for treatment-related toxicity.
+
+Specific Populations
+
+Hepatic Impairment
+
+The effect of hepatic impairment on the pharmacokinetics of both imatinib and its major metabolite, CGP74588, was assessed in 84 patients with cancer and varying degrees of hepatic impairment [see Use in Specific Populations (8.6)] at imatinib doses ranging from 100 mg–800 mg.
+Exposure to both imatinib and CGP74588 was comparable between each of the mildly and moderately hepatically-impaired groups and the normal group.
+Patients with severe hepatic impairment tend to have higher exposure to both imatinib and its metabolite than patients with normal hepatic function.
+At steady state, the mean Cmax/dose and AUC/dose for imatinib increased by about 63% and 45%, respectively, in patients with severe hepatic impairment compared to patients with normal hepatic function.
+The mean Cmax/dose and AUC/dose for CGP74588 increased by about 56% and 55%, respectively, in patients with severe hepatic impairment compared to patients with normal hepatic function.
+Dose reductions are necessary for patients with severe hepatic impairment [see Dosage and Administration (2.12)].
+
+Renal Impairment
+
+The effect of renal impairment on the pharmacokinetics of imatinib was assessed in 59 cancer patients with varying degrees of renal impairment [see Use in Specific Populations (8.7)] at single and steady state imatinib doses ranging from 100 to 800 mg/day.
+The mean exposure to imatinib (dose normalized AUC) in patients with mild and moderate renal impairment increased 1.5- to 2-fold compared to patients with normal renal function.
+The AUCs did not increase for doses greater than 600 mg in patients with mild renal impairment.
+The AUCs did not increase for doses greater than 400 mg in patients with moderate renal impairment.
+Two patients with severe renal impairment were dosed with 100 mg/day and their exposures were similar to those seen in patients with normal renal function receiving 400 mg/day.
+Dose reductions are necessary for patients with moderate and severe renal impairment [see Dosage and Administration (2.12)].
+
+Pediatric Use
+
+As in adult patients, imatinib was rapidly absorbed after oral administration in pediatric patients, with a Cmax of 2–4 hours.
+Apparent oral clearance was similar to adult values (11.0 L/hr/m2 in children vs. 10.0 L/hr/m2 in adults), as was the half-life (14.8 hours in children vs. 17.1 hours in adults).
+Dosing in children at both 260 mg/m2 and 340 mg/m2 achieved an AUC similar to the 400 mg dose in adults.
+The comparison of AUC on Day 8 vs. Day 1 at 260 mg/m2 and 340 mg/m2 dose levels revealed a 1.5- and 2.2-fold drug accumulation, respectively, after repeated once-daily dosing.
+Mean imatinib AUC did not increase proportionally with increasing dose.
+
+Based on pooled population pharmacokinetic analysis in pediatric patients with hematological disorders (CML, Ph+ ALL, or other hematological disorders treated with imatinib), clearance of imatinib increases with increasing body surface area (BSA).
+After correcting for the BSA effect, other demographics such as age, body weight and body mass index did not have clinically significant effects on the exposure of imatinib.
+The analysis confirmed that exposure of imatinib in pediatric patients receiving 260 mg/m2 once-daily (not exceeding 400 mg once-daily) or 340 mg/m2 once-daily (not exceeding 600 mg once-daily) were similar to those in adult patients who received imatinib 400 mg or 600 mg once-daily.
+
+Drug Interactions
+
+Agents Inducing CYP3A Metabolism
+
+Pretreatment of healthy volunteers with multiple doses of rifampin followed by a single dose of Gleevec, increased Gleevec oral-dose clearance by 3.8-fold, which significantly (p<0.05) decreased mean Cmax and AUC.
+
+Similar findings were observed in patients receiving 400–1200 mg/day Gleevec concomitantly with enzyme-inducing anti-epileptic drugs (EIAED) (e.g., carbamazepine, oxcarbamazepine, phenytoin, fosphenytoin, phenobarbital, and primidone).
+The mean dose normalized AUC for imatinib in the patients receiving EIAED’s decreased by 73% compared to patients not receiving EIAED.
+
+Concomitant administration of Gleevec and St. John’s Wort led to a 30% reduction in the AUC of imatinib.
+
+Consider alternative therapeutic agents with less enzyme induction potential in patients when rifampin or other CYP3A4 inducers are indicated.
+Gleevec doses up to 1200 mg/day (600 mg BID) have been given to patients receiving concomitant strong CYP3A4 inducers [see Dosage and Administration (2.12)].
+
+Agents Inhibiting CYP3A Metabolism
+
+There was a significant increase in exposure to imatinib (mean Cmax and AUC increased by 26% and 40%, respectively) in healthy subjects when Gleevec was coadministered with a single dose of ketoconazole (a CYP3A4 inhibitor).
+Caution is recommended when administering Gleevec with strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, clarithromycin, atazanavir, indinavir, nefazodone, nelfinavir, ritonavir, saquinavir, telithromycin, and voriconazole).
+Grapefruit juice may also increase plasma concentrations of imatinib and should be avoided.
+
+Interactions with Drugs Metabolized by CYP3A4
+
+Gleevec increases the mean Cmax and AUC of simvastatin (CYP3A4 substrate) 2- and 3.5-fold, respectively, suggesting an inhibition of the CYP3A4 by Gleevec.
+Particular caution is recommended when administering Gleevec with CYP3A4 substrates that have a narrow therapeutic window (e.g., alfentanil, cyclosporine, diergotamine, ergotamine, fentanyl, pimozide, quinidine, sirolimus or tacrolimus).
+
+Gleevec will increase plasma concentration of other CYP3A4 metabolized drugs (e.g., triazolo-benzodiazepines, dihydropyridine calcium channel blockers, certain HMG-CoA reductase inhibitors, etc.).
+
+Because warfarin is metabolized by CYP2C9 and CYP3A4, patients who require anticoagulation should receive low-molecular weight or standard heparin instead of warfarin.
+
+Interactions with Drugs Metabolized by CYP2D6
+
+Gleevec increased the mean Cmax and AUC of metoprolol by approximately 23% suggesting that Gleevec has a weak inhibitory effect on CYP2D6-mediated metabolism.
+No dose adjustment is necessary, however, caution is recommended when administering Gleevec with CYP2D6 substrates that have a narrow therapeutic window.
+
+Interactions with Acetaminophen
+
+In vitro, Gleevec inhibits the acetaminophen O-glucuronidate pathway (Ki 58.5 µM).
+Coadministration of Gleevec (400 mg/day for eight days) with acetaminophen (1000 mg single dose on day eight) in patients with CML did not result in any changes in the pharmacokinetics of acetaminophen.
+Gleevec pharmacokinetics were not altered in the presence of single-dose acetaminophen.
+There is no pharmacokinetic or safety data on the concomitant use of Gleevec at doses >400 mg/day or the chronic use of concomitant acetaminophen and Gleevec.

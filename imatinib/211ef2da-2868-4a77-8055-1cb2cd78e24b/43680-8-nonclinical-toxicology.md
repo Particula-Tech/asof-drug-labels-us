@@ -19,15 +19,8 @@ Testicular and epididymal weights and percent motile sperm were decreased at 60 
 This was not seen at doses ≤20 mg/kg (one-fourth the maximum human dose of 800 mg).
 The fertility of male and female rats was not affected.
 
-In a pre- and postnatal development study in female rats dosed with imatinib mesylate at 45 mg/kg (approximately one-half the maximum human dose of 800 mg/day, based on body surface area) from gestational Day 6 until the end of lactation, red vaginal discharge was noted on either gestational Day 14 or 15.
-In the first generation offspring at this same dose level, mean body weights were reduced from birth until terminal sacrifice.
-First generation offspring fertility was not affected but reproductive effects were noted at 45 mg/kg/day including an increased number of resorptions and a decreased number of viable fetuses.
-
 Fertility was not affected in the preclinical fertility and early embryonic development study although lower testes and epididymal weights as well as a reduced number of motile sperm were observed in the high dose males rats.
-In the preclinical pre- and postnatal study in rats, fertility in the first generation offspring was also not affected by Gleevec.
-
-Human studies on male patients receiving Gleevec and its affect on male fertility and spermatogenesis have not been performed.
-Male patients concerned about their fertility on Gleevec treatment should consult with their physician.
+In the preclinical pre- and postnatal study in rats, fertility in the first generation offspring was also not affected by imatinib mesylate.
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 

@@ -5,10 +5,10 @@ Protect from moisture.
 
 Dispense in a tight container, USP.
 
-Gleevec is an antineoplastic product.
-Follow special handling and disposal procedures1
+Gleevec is a cytotoxic drug.
+Follow applicable special handling and disposal procedures1
 
-Gleevec tablets should not be crushed.
-Direct contact of crushed tablets with the skin or mucous membranes should be avoided.
+Do not crush Gleevec tablets.
+Avoid direct contact of crushed tablets with the skin or mucous membranes.
 If such contact occurs, wash thoroughly as outlined in the references.
-Personnel should avoid exposure to crushed tablets.
+Avoid exposure to crushed tablets.

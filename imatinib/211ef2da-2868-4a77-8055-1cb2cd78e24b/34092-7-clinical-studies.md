@@ -4,7 +4,7 @@
 
 Chronic Phase, Newly Diagnosed:
 
-An open-label, multicenter, international randomized Phase 3 study (Gleevec versus INF+Ara-C) has been conducted in patients with newly diagnosed Philadelphia chromosome positive (Ph+) chronic myeloid leukemia (CML) in chronic phase.
+An open-label, multicenter, international randomized Phase 3 study (Gleevec versus IFN+Ara-C) has been conducted in patients with newly diagnosed Philadelphia chromosome positive (Ph+) chronic myeloid leukemia (CML) in chronic phase.
 This study compared treatment with either single-agent Gleevec or a combination of interferon-alpha (IFN) plus cytarabine (Ara-C).
 Patients were allowed to cross over to the alternative treatment arm if they failed to show a complete hematologic response (CHR) at 6 months, a major cytogenetic response (MCyR) at 12 months, or if they lost a CHR or MCyR.
 Patients with increasing WBC or severe intolerance to treatment were also allowed to cross over to the alternative treatment arm with the permission of the study monitoring committee (SMC).
@@ -40,9 +40,9 @@ At 84 months the estimated overall survival is 86.4% (83, 90) vs. 83.3% (80, 87)
 The hazard ratio is 0.750 with 95% CI 0.547-1.028.
 This time-to-event endpoint may be affected by the high crossover rate from IFN+Ara-C to Gleevec.
 Major cytogenetic response, hematologic response, evaluation of minimal residual disease (molecular response), time to accelerated phase or blast crisis and survival were main secondary endpoints.
-Response data are shown in Table 16.
+Response data are shown in Table 18.
 Complete hematologic response, major cytogenetic response and complete cytogenetic response were also statistically significantly higher in the Gleevec arm compared to the IFN + Ara-C arm (no cross-over data considered for evaluation of responses).
-Median time to CCyR in the 454 responders was 6 months (range 2-64 months, 25th to 75th percentiles=3 to 11 months) with 10% of responses seen only after 22 months of therapy).
+Median time to CCyR in the 454 responders was 6 months (range 2-64 months, 25th to 75th percentiles=3 to 11 months) with 10% of responses seen only after 22 months of therapy.
 
 Table 18 Response in Newly Diagnosed CML Study (84-Month Data)
 
@@ -213,7 +213,8 @@ Pediatric and young adult patients with very high risk ALL, defined as those wit
 The safety and effectiveness of Gleevec (340 mg/m2/day) in combination with intensive chemotherapy was evaluated in a subgroup of patients with Ph+ ALL.
 The protocol included intensive chemotherapy and hematopoietic stem cell transplant after 2 courses of chemotherapy for patients with an appropriate HLA-matched family donor.
 There were 92 eligible patients with Ph+ ALL enrolled.
-The median age was 9.5 years (1 to 21 years), 64% were male, 75% were white, 9% were Asian/Pacific Islander, and 5% were black.
+The median age was 9.5 years (1 to 21 years: 2.2% between 1 and <2 years, 56.5% between 2 and <12 years, 34.8% between 12 and <18 years, and 6.5% between 18 and 21 years).
+Sixty-four percent were male, 75% were white, 9% were Asian/Pacific Islander, and 5% were black.
 In 5 successive cohorts of patients, Gleevec exposure was systematically increased by earlier introduction and prolonged duration.
 Cohort 1 received the lowest intensity and cohort 5 received the highest intensity of Gleevec exposure.
 
