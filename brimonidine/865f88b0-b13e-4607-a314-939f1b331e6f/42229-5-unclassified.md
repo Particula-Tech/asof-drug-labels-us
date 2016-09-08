@@ -1,10 +1,6 @@
 Rx only
 
-Revised: November 2012
+Revised: July 2016 Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA ©Bausch & Lomb Incorporated
 
-Bausch & Lomb Incorporated Tampa, FL 33637
-
-©Bausch & Lomb Incorporated
-
-9104702 (Folded) 9104602 (Flat) Prod.
+9104703 (Folded) 9104603 (Flat) Prod.
 No. 411

@@ -2,12 +2,10 @@
 
 NDC 24208-411-15
 
-Bausch & Lomb
-
 Brimonidine Tartrate Ophthalmic Solution 0.2% (Sterile)
 
-[icon- eye] [icon- 0.2%] [icon- solution] [icon- 15 mL]
+FOR USE IN THE EYES ONLY
 
-15 mL
+Rx only 15 mL
 
-Rx only
+BAUSCH + LOMB

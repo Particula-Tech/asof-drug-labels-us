@@ -8,5 +8,7 @@ The following adverse reactions were reported in less than 3% of the patients: l
 
 The following events have been identified during post-marketing use of brimonidine tartrate ophthalmic solution 0.2% in clinical practice.
 Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
-The events, which have been chosen for inclusion due to either their seriousness, frequency of reporting, possible causal connection to brimonidine tartrate ophthalmic solution 0.2%, or a combination of these factors, include: bradycardia; hypotension; iritis; miosis; skin reactions (including erythema, eyelid pruritis, rash, and vasodilation); and tachycardia.
-Apnea, bradycardia, hypotension, hypothermia, hypotonia, and somnolence have been reported in infants receiving brimonidine tartrate ophthalmic solution 0.2%.
+The events, which have been chosen for inclusion due to either their seriousness, frequency of reporting, possible causal connection to brimonidine tartrate ophthalmic solution 0.2%, or a combination of these factors, include: bradycardia; hypotension; iritis; miosis; skin reactions (including erythema, eyelid pruritus, rash, and vasodilation); and tachycardia.
+Apnea, bradycardia, hypotension, hypothermia, hypotonia, and somnolence have been reported in infants receiving brimonidine tartrate ophthalmic solution.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC, at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
