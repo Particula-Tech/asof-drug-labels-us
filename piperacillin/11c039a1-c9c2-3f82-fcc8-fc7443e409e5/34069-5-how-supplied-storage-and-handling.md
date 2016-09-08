@@ -13,7 +13,7 @@ ZOSYN (piperacillin and tazobactam) for Injection are supplied as single-dose vi
   Supplied 10 per box—NDC 0206-2408-02
 - Each ZOSYN 40.5 g pharmacy bulk vial provides piperacillin sodium equivalent to 36 grams of piperacillin and tazobactam sodium equivalent to 4.5 grams of tazobactam.
   Each pharmacy bulk vial contains 100.4 mEq (2,304 mg) of sodium.
-  NDC 0206-2416-01.
+  NDC 0206-2416-01
 
 ZOSYN for Injection vials should be stored at controlled room temperature (20°C to 25°C [68°F to 77°F]) prior to reconstitution.
 

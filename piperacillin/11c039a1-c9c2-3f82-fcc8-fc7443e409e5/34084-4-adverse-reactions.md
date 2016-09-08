@@ -116,7 +116,7 @@ Adverse Laboratory Events (Seen During Clinical Trials)
 Of the trials reported, including that of nosocomial lower respiratory tract infections in which a higher dose of ZOSYN was used in combination with an aminoglycoside, changes in laboratory parameters include:
 
 Hematologic—decreases in hemoglobin and hematocrit, thrombocytopenia, increases in platelet count, eosinophilia, leukopenia, neutropenia.
-These patients were withdrawn from therapy; some had accompanying systemic symptoms (e.g., fever, rigors, chills).
+These patients were withdrawn from therapy; some had accompanying systemic symptoms (e.g., fever, rigors, chills)
 
 Coagulation—positive direct Coombs' test, prolonged prothrombin time, prolonged partial thromboplastin time
 

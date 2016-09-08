@@ -24,14 +24,14 @@ Probenecid should not be co-administered with ZOSYN unless the benefit outweighs
 
 ## 7.3 Vancomycin
 
-No pharmacokinetic interactions have been noted between piperacillin/tazobactam and vancomycin.
+A limited number of retrospective studies have detected an increased incidence of acute kidney injury in patients concomitantly administered piperacillin/tazobactam and vancomycin as compared to vancomycin alone.
+Monitor kidney function in patients concomitantly administered with piperacillin/tazobactam and vancomycin.
 
-However, a limited number of retrospective studies have detected an increased incidence of acute kidney injury in patients concomitantly administered piperacillin/tazobactam and vancomycin as compared to vancomycin alone.
+No pharmacokinetic interactions have been noted between piperacillin/tazobactam and vancomycin.
 
 ## 7.4 Anticoagulants
 
-Coagulation parameters should be tested more frequently and monitored regularly during simultaneous administration of high doses of heparin, oral anticoagulants, or other drugs that may affect the blood coagulation system or the thrombocyte function.
-[see Warnings and Precautions (5.4)].
+Coagulation parameters should be tested more frequently and monitored regularly during simultaneous administration of high doses of heparin, oral anticoagulants, or other drugs that may affect the blood coagulation system or the thrombocyte function [see Warnings and Precautions (5.3)].
 
 ## 7.5 Vecuronium
 

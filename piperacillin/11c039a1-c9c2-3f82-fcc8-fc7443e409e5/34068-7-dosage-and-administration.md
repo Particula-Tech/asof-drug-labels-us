@@ -20,7 +20,7 @@ Treatment with the aminoglycoside should be continued in patients from whom P. a
 In patients with renal impairment (creatinine clearance ≤ 40 mL/min) and dialysis patients (hemodialysis and CAPD), the intravenous dose of ZOSYN should be reduced to the degree of actual renal function impairment.
 The recommended daily doses of ZOSYN for patients with renal impairment are as follows:
 
-Table 1: Recommended Dosing of ZOSYN in Patients with Normal Renal Function and Renal - Impairment (As total grams piperacillin/tazobactam)
+Table 1: Recommended Dosing of ZOSYN in Patients with Normal Renal Function and Renal-Impairment (As total grams piperacillin/tazobactam)
 
 | Renal Function (creatinine clearance, mL/min) | All Indications (except nosocomial pneumonia) | Nosocomial Pneumonia |
 | --- | --- | --- |

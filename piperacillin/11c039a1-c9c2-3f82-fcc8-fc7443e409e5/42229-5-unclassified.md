@@ -1,7 +1,5 @@
 Distributed by Wyeth Pharmaceuticals Inc A subsidiary of Pfizer Inc Philadelphia, PA 19101
 
-NOVAPLUS®
-
 NOVAPLUS is a registered trademark of Vizient, Inc.
 
-LAB-0713-4.0
+LAB-0713-6.0

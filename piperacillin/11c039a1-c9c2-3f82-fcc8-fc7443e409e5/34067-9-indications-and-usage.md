@@ -23,6 +23,8 @@ Community-acquired pneumonia (moderate severity only) caused by β-lactamase pro
 
 Nosocomial pneumonia (moderate to severe) caused by β-lactamase producing isolates of Staphylococcus aureus and by piperacillin/tazobactam-susceptible Acinetobacter baumannii, Haemophilus influenzae, Klebsiella pneumoniae, and Pseudomonas aeruginosa (Nosocomial pneumonia caused by P. aeruginosa should be treated in combination with an aminoglycoside) [see Dosage and Administration (2)].
 
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of ZOSYN and other antibacterial drugs, ZOSYN should be used only to treat infections that are proven or strongly suspected to be caused by bacteria.
+## 1.6 Usage
+
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of ZOSYN and other antibacterial drugs, ZOSYN should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.
