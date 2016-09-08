@@ -15,34 +15,47 @@ Both Cmax and AUC increased in approximate proportion to rosuvastatin dose.
 The absolute bioavailability of rosuvastatin is approximately 20%.
 Administration of rosuvastatin with food did not affect the AUC of rosuvastatin.
 The AUC of rosuvastatin does not differ following evening or morning drug administration.
+Distribution
 
-Distribution Mean volume of distribution at steady-state of rosuvastatin is approximately 134 liters.
+Mean volume of distribution at steady-state of rosuvastatin is approximately 134 liters.
 Rosuvastatin is 88% bound to plasma proteins, mostly albumin.
 This binding is reversible and independent of plasma concentrations.
+Metabolism
 
-Metabolism Rosuvastatin is not extensively metabolized; approximately 10% of a radiolabeled dose is recovered as metabolite.
+Rosuvastatin is not extensively metabolized; approximately 10% of a radiolabeled dose is recovered as metabolite.
 The major metabolite is N-desmethyl rosuvastatin, which is formed principally by cytochrome P450 \ 2C9, and in vitro studies have demonstrated that N-desmethyl rosuvastatin has approximately one-sixth to one-half the HMG-CoA reductase inhibitory activity of the parent compound.
 Overall, greater than 90% of active plasma HMG-CoA reductase inhibitory activity is accounted for by the parent compound.
 
-Excretion Following oral administration, rosuvastatin and its metabolites are primarily excreted in the feces (90%).
+Excretion
+
+Following oral administration, rosuvastatin and its metabolites are primarily excreted in the feces (90%).
 The elimination half-life (t1/2) of rosuvastatin is approximately 19 hours.
 After an intravenous dose, approximately 28% of total body clearance was via the renal route, and 72% by the hepatic route.
 
-Specific Populations Race A population pharmacokinetic analysis revealed no clinically relevant differences in pharmacokinetics among Caucasian, Hispanic, and Black or Afro-Caribbean groups.
+Specific Populations
+
+Race
+
+A population pharmacokinetic analysis revealed no clinically relevant differences in pharmacokinetics among Caucasian, Hispanic, and Black or Afro-Caribbean groups.
 However, pharmacokinetic studies, including one conducted in the U.S., have demonstrated an approximate 2-fold elevation in median exposure (AUC and Cmax) in Asian subjects when compared with a Caucasian control group.
 
-Gender There were no differences in plasma concentrations of rosuvastatin between men and women.
+Gender
 
+There were no differences in plasma concentrations of rosuvastatin between men and women.
 Pediatric use information for patients ages 8 to less than 10 years is approved for AstraZeneca’s CRESTOR (rosuvastatin calcium) tablets.
 However, due to AstraZeneca’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Geriatric
 
-Geriatric There were no differences in plasma concentrations of rosuvastatin between the nonelderly and elderly populations (age ≥ 65 years).
+There were no differences in plasma concentrations of rosuvastatin between the nonelderly and elderly populations (age ≥ 65 years).
 
-Renal Impairment Mild to moderate renal impairment (CLcr ≥ 30 mL/min/1.73 m2) had no influence on plasma concentrations of rosuvastatin.
+Renal Impairment
+
+Mild to moderate renal impairment (CLcr ≥ 30 mL/min/1.73 m2) had no influence on plasma concentrations of rosuvastatin.
 However, plasma concentrations of rosuvastatin increased to a clinically significant extent (about 3-fold) in patients with severe renal impairment (CLcr < 30 mL/min/1.73 m2) not receiving hemodialysis compared with healthy subjects (CLcr > 80 mL/min/1.73 m2).
 
-Hemodialysis Steady-state plasma concentrations of rosuvastatin in patients on chronic hemodialysis were approximately 50% greater compared with healthy volunteer subjects with normal renal function.
+Hemodialysis
 
+Steady-state plasma concentrations of rosuvastatin in patients on chronic hemodialysis were approximately 50% greater compared with healthy volunteer subjects with normal renal function.
 Hepatic Impairment In patients with chronic alcohol liver disease, plasma concentrations of rosuvastatin were modestly increased.
 In patients with Child-Pugh A disease, Cmax and AUC were increased by 60% and 5%, respectively, as compared with patients with normal liver function.
 In patients with Child-Pugh B disease, Cmax and AUC were increased 100% and 21%, respectively, compared with patients with normal liver function.
