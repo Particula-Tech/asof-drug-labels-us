@@ -27,8 +27,8 @@ To report an adverse event, record the lot number and call Medical Information a
 
 CARDENE® is a registered trademark of EKR Therapeutics, Inc. Galaxy is a registered trademark of Baxter International Inc. U.S. Patent Numbers 7612102 and 7659291
 
-Revised April 2015
+Revised August 2016
 
-CTCI-001-1014-02-SPL-1
+CTCI-001-1115-03-SPL
 
-07-19-73-960
+07-19-76-769

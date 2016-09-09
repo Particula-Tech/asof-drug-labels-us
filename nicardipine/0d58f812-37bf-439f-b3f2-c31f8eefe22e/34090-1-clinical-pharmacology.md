@@ -94,8 +94,10 @@ The pharmacokinetics of Cardene I.V. are linear over the dosage range of 0.5 to 
 
 Metabolism and Excretion
 
-Cardene I.V. has been shown to be rapidly and extensively metabolized by the liver.
-Nicardipine does not induce or inhibit its own metabolism and does not induce or inhibit hepatic microsomal enzymes.
+Cardene I.V. has been shown to be rapidly and extensively metabolized by the hepatic cytochrome P450 enzymes, CYP2C8, 2D6, and 3A4.
+Nicardipine does not induce or inhibit its own metabolism, however, nicardipine has been shown to inhibit certain cytochrome P450 enzymes (including CYP3A4, CYP2D6, CYP2C8, and CYP2Cl9).
+Inhibition of these enzymes may result in increased plasma levels of certain drugs, including cyclosporine and tacrolimus (7.3, 7.4).
+The altered pharmacokinetics may necessitate dosage adjustment of the affected drug or discontinuation of treatment.
 
 After coadministration of a radioactive intravenous dose of Cardene I.V. with an oral 30 mg dose given every 8 hours, 49% of the radioactivity was recovered in the urine and 43% in the feces within 96 hours.
 None of the dose was recovered as unchanged nicardipine.
