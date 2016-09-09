@@ -43,7 +43,7 @@ For the 10 mg dose, it is estimated to be 80% to 100% and is not affected by foo
 XARELTO 10 mg tablets can be taken with or without food.
 For the 20 mg dose in the fasted state, the absolute bioavailability is approximately 66%.
 Coadministration of XARELTO with food increases the bioavailability of the 20 mg dose (mean AUC and Cmax increasing by 39% and 76% respectively with food).
-XARELTO 15 mg and 20 mg tablets should be taken with food [see Dosage and Administration (2.1)].
+XARELTO 15 mg and 20 mg tablets should be taken with food [see Dosage and Administration (2.2)].
 
 The maximum concentrations (Cmax) of rivaroxaban appear 2 to 4 hours after tablet intake.
 The pharmacokinetics of rivaroxaban were not affected by drugs altering gastric pH.
@@ -95,7 +95,7 @@ However, these differences in exposure are reduced when values are corrected for
 
 Elderly
 
-The terminal elimination half-life is 11 to 13 hours in the elderly [see Use in Specific Populations (8.5)].
+The terminal elimination half-life is 11 to 13 hours in the elderly subjects aged 60 to 76 years [see Use in Specific Populations (8.5)].
 
 Renal Impairment
 

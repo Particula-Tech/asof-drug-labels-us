@@ -52,7 +52,7 @@ Increases in pharmacodynamic effects were also observed [see Clinical Pharmacolo
 Nonvalvular Atrial Fibrillation
 
 In the ROCKET AF trial, patients with CrCl 30 to 50 mL/min were administered XARELTO 15 mg once daily resulting in serum concentrations of rivaroxaban and clinical outcomes similar to those in patients with better renal function administered XARELTO 20 mg once daily.
-Patients with CrCl 15 to 30 mL/min were not studied, but administration of XARELTO 15 mg once daily is also expected to result in serum concentrations of rivaroxaban similar to those in patients with normal renal function [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
+Patients with CrCl 15 to 30 mL/min were not studied, but administration of XARELTO 15 mg once daily is also expected to result in serum concentrations of rivaroxaban similar to those in patients with normal renal function [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
 
 Patients with End-Stage Renal Disease on Dialysis
 

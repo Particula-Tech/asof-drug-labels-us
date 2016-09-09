@@ -4,7 +4,7 @@
 
 Premature discontinuation of any oral anticoagulant, including XARELTO, in the absence of adequate alternative anticoagulation increases the risk of thrombotic events.
 An increased rate of stroke was observed during the transition from XARELTO to warfarin in clinical trials in atrial fibrillation patients.
-If XARELTO is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant [see Dosage and Administration (2.2, 2.6) and Clinical Studies (14.1)].
+If XARELTO is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant [see Dosage and Administration (2.3, 2.7) and Clinical Studies (14.1)].
 
 ## 5.2 Risk of Bleeding
 
@@ -16,9 +16,9 @@ Discontinue XARELTO in patients with active pathological hemorrhage.
 The terminal elimination half-life of rivaroxaban is 5 to 9 hours in healthy subjects aged 20 to 45 years.
 
 Concomitant use of other drugs that impair hemostasis increases the risk of bleeding.
-These include aspirin, P2Y12 platelet inhibitors, other antithrombotic agents, fibrinolytic therapy, non-steroidal anti-inflammatory drugs (NSAIDs) [see Drug Interactions (7.3)], selective serotonin reuptake inhibitors, and serotonin norepinephrine reuptake inhibitors.
+These include aspirin, P2Y12 platelet inhibitors, other antithrombotic agents, fibrinolytic therapy, non-steroidal anti-inflammatory drugs (NSAIDs) [see Drug Interactions (7.4)], selective serotonin reuptake inhibitors, and serotonin norepinephrine reuptake inhibitors.
 
-Concomitant use of drugs that are combined P-gp and CYP3A4 inhibitors (e.g., ketoconazole and ritonavir) increases rivaroxaban exposure and may increase bleeding risk [see Drug Interactions (7.1)].
+Concomitant use of drugs that are combined P-gp and CYP3A4 inhibitors (e.g., ketoconazole and ritonavir) increases rivaroxaban exposure and may increase bleeding risk [see Drug Interactions (7.2)].
 
 Reversal of Anticoagulant Effect
 
@@ -35,9 +35,9 @@ When neuraxial anesthesia (spinal/epidural anesthesia) or spinal puncture is emp
 To reduce the potential risk of bleeding associated with the concurrent use of rivaroxaban and epidural or spinal anesthesia/analgesia or spinal puncture, consider the pharmacokinetic profile of rivaroxaban [see Clinical Pharmacology (12.3)].
 Placement or removal of an epidural catheter or lumbar puncture is best performed when the anticoagulant effect of rivaroxaban is low; however, the exact timing to reach a sufficiently low anticoagulant effect in each patient is not known.
 
-An epidural catheter should not be removed earlier than 18 hours after the last administration of XARELTO.
-The next XARELTO dose is not to be administered earlier than 6 hours after the removal of the catheter.
-If traumatic puncture occurs, the administration of XARELTO is to be delayed for 24 hours.
+An indwelling epidural or intrathecal catheter should not be removed before at least 2 half-lifes have elapsed (i.e., 18 hours in young patients aged 20 to 45 years and 26 hours in elderly patients aged 60 to 76 years), after the last administration of XARELTO [see Clinical Pharmacology (12.3)].
+The next XARELTO dose should not be administered earlier than 6 hours after the removal of the catheter.
+If traumatic puncture occurs, delay the administration of XARELTO for 24 hours.
 
 Should the physician decide to administer anticoagulation in the context of epidural or spinal anesthesia/analgesia or lumbar puncture, monitor frequently to detect any signs or symptoms of neurological impairment, such as midline back pain, sensory and motor deficits (numbness, tingling, or weakness in lower limbs), bowel and/or bladder dysfunction.
 Instruct patients to immediately report if they experience any of the above signs or symptoms.
@@ -47,7 +47,7 @@ If signs or symptoms of spinal hematoma are suspected, initiate urgent diagnosis
 
 Nonvalvular Atrial Fibrillation
 
-Periodically assess renal function as clinically indicated (i.e., more frequently in situations in which renal function may decline) and adjust therapy accordingly [see Dosage and Administration (2.3)].
+Periodically assess renal function as clinically indicated (i.e., more frequently in situations in which renal function may decline) and adjust therapy accordingly [see Dosage and Administration (2.4)].
 Consider dose adjustment or discontinuation of XARELTO in patients who develop acute renal failure while on XARELTO [see Use in Specific Populations (8.7)].
 
 Treatment of Deep Vein Thrombosis (DVT), Pulmonary Embolism (PE), and Reduction in the Risk of Recurrence of DVT and of PE
@@ -68,9 +68,9 @@ Avoid use of XARELTO in patients with moderate (Child-Pugh B) and severe (Child-
 
 ## 5.6 Use with P-gp and Strong CYP3A4 Inhibitors or Inducers
 
-Avoid concomitant use of XARELTO with combined P-gp and strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, lopinavir/ritonavir, ritonavir, indinavir, and conivaptan) [see Drug Interactions (7.1)].
+Avoid concomitant use of XARELTO with combined P-gp and strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, lopinavir/ritonavir, ritonavir, indinavir, and conivaptan) [see Drug Interactions (7.2)].
 
-Avoid concomitant use of XARELTO with drugs that are combined P-gp and strong CYP3A4 inducers (e.g., carbamazepine, phenytoin, rifampin, St. John's wort) [see Drug Interactions (7.2)].
+Avoid concomitant use of XARELTO with drugs that are combined P-gp and strong CYP3A4 inducers (e.g., carbamazepine, phenytoin, rifampin, St. John's wort) [see Drug Interactions (7.3)].
 
 ## 5.7 Risk of Pregnancy-Related Hemorrhage
 

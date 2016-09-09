@@ -27,7 +27,7 @@ Table 1 shows the number of patients experiencing various types of bleeding even
 Table 1: Bleeding Events in ROCKET AFMajor bleeding events within each subcategory were counted once per patient, but patients may have contributed events to multiple subcategories.
 These events occurred during treatment or within 2 days of stopping treatment.- On Treatment Plus 2 Days
 
-| Parameter | XARELTO N = 7111 n (%/year) | Warfarin N = 7125 n (%/year) | XARELTO vs. Warfarin HR (95% CI) |
+| Parameter | XARELTO N=7111 n (%/year) | Warfarin N=7125 n (%/year) | XARELTO vs. Warfarin HR (95% CI) |
 | --- | --- | --- | --- |
 | Major BleedingDefined as clinically overt bleeding associated with a decrease in hemoglobin of ≥2 g/dL, a transfusion of ≥2 units of packed red blood cells or whole blood, bleeding at a critical site, or with a fatal outcome. | 395 (3.6) | 386 (3.5) | 1.04 (0.90, 1.20) |
 | Intracranial Hemorrhage (ICH) Intracranial bleeding events included intraparenchymal, intraventricular, subdural, subarachnoid and/or epidural hematoma. | 55 (0.5) | 84 (0.7) | 0.67 (0.47, 0.93) |
@@ -59,7 +59,7 @@ Table 2 shows the number of patients experiencing major bleeding events in the p
 Table 2: Bleeding EventsBleeding event occurred after randomization and up to 2 days after the last dose of study drug.
 Although a patient may have had 2 or more events, the patient is counted only once in a category. in the Pooled Analysis of EINSTEIN DVT and EINSTEIN PE Studies
 
-| Parameter | XARELTOTreatment schedule in EINSTEIN DVT and EINSTEIN PE studies: XARELTO 15 mg twice daily for 3 weeks followed by 20 mg once daily; enoxaparin/VKA [enoxaparin: 1 mg/kg twice daily, VKA: individually titrated doses to achieve a target INR of 2.5 (range: 2.0–3.0)] N = 4130 n (%) | Enoxaparin/ VKA N = 4116 n (%) |
+| Parameter | XARELTOTreatment schedule in EINSTEIN DVT and EINSTEIN PE studies: XARELTO 15 mg twice daily for 3 weeks followed by 20 mg once daily; enoxaparin/VKA [enoxaparin: 1 mg/kg twice daily, VKA: individually titrated doses to achieve a target INR of 2.5 (range: 2.0–3.0)] N=4130 n (%) | Enoxaparin/VKA N=4116 n (%) |
 | --- | --- | --- |
 | Major bleeding event | 40 (1.0) | 72 (1.7) |
 | Fatal bleeding | 3 (<0.1) | 8 (0.2) |
@@ -85,7 +85,7 @@ Table 3 shows the number of patients experiencing bleeding events in the EINSTEI
 Table 3: Bleeding EventsBleeding event occurred after the first dose and up to 2 days after the last dose of study drug.
 Although a patient may have had 2 or more events, the patient is counted only once in a category. in EINSTEIN Extension Study
 
-| Parameter | XARELTOTreatment schedule: XARELTO 20 mg once daily; matched placebo once daily 20 mg N = 598 n (%) | Placebo N = 590 n (%) |
+| Parameter | XARELTOTreatment schedule: XARELTO 20 mg once daily; matched placebo once daily 20 mg N=598 n (%) | Placebo N=590 n (%) |
 | --- | --- | --- |
 | Major bleeding eventThere were no fatal or critical organ bleeding events. | 4 (0.7) | 0 |
 | Decrease in Hb ≥2 g/dL | 4 (0.7) | 0 |
@@ -106,21 +106,21 @@ Patients may have more than one event. in Patients Undergoing Hip or Knee Replac
 
 |  | XARELTO 10 mg | EnoxaparinIncludes the placebo-controlled period for RECORD 2, enoxaparin dosing was 40 mg once daily (RECORD 1–3) |
 | --- | --- | --- |
-| Total treated patients | N = 4487 n (%) | N = 4524 n (%) |
+| Total treated patients | N=4487 n (%) | N=4524 n (%) |
 | Major bleeding event | 14 (0.3) | 9 (0.2) |
 | Fatal bleeding | 1 (<0.1) | 0 |
 | Bleeding into a critical organ | 2 (<0.1) | 3 (0.1) |
 | Bleeding that required re-operation | 7 (0.2) | 5 (0.1) |
 | Extra-surgical site bleeding requiring transfusion of >2 units of whole blood or packed cells | 4 (0.1) | 1 (<0.1) |
 | Any bleeding eventIncludes major bleeding events | 261 (5.8) | 251 (5.6) |
-| Hip Surgery Studies | N = 3281 n (%) | N = 3298 n (%) |
+| Hip Surgery Studies | N=3281 n (%) | N=3298 n (%) |
 | Major bleeding event | 7 (0.2) | 3 (0.1) |
 | Fatal bleeding | 1 (<0.1) | 0 |
 | Bleeding into a critical organ | 1 (<0.1) | 1 (<0.1) |
 | Bleeding that required re-operation | 2 (0.1) | 1 (<0.1) |
 | Extra-surgical site bleeding requiring transfusion of >2 units of whole blood or packed cells | 3 (0.1) | 1 (<0.1) |
 | Any bleeding event | 201 (6.1) | 191 (5.8) |
-| Knee Surgery Study | N = 1206 n (%) | N = 1226 n (%) |
+| Knee Surgery Study | N=1206 n (%) | N=1226 n (%) |
 | Major bleeding event | 7 (0.6) | 6 (0.5) |
 | Fatal bleeding | 0 | 0 |
 | Bleeding into a critical organ | 1 (0.1) | 2 (0.2) |
@@ -140,7 +140,7 @@ Although a patient may have had 2 or more clinical adverse reactions, the patien
 The same patient may appear in different categories.
 Reported by ≥1% of XARELTO-Treated Patients in EINSTEIN Extension Study
 
-| System Organ Class Preferred Term | XARELTO N = 598 n (%) | Placebo N = 590 n (%) |
+| System Organ Class Preferred Term | XARELTO N=598 n (%) | Placebo N=590 n (%) |
 | --- | --- | --- |
 | Gastrointestinal disorders |  |  |
 | Abdominal pain upper | 10 (1.7) | 1 (0.2) |
@@ -161,9 +161,8 @@ Non-hemorrhagic adverse reactions reported in ≥1% of XARELTO-treated patients 
 
 Table 6: Other Adverse Drug ReactionsAdverse reaction occurring any time following the first dose of double-blind medication, which may have been prior to administration of active drug, until two days after the last dose of double-blind study medication Reported by ≥1% of XARELTO-Treated Patients in RECORD 1–3 Studies
 
-|  | N = 4487 n (%) | N = 4524 n (%) |
+| System/Organ Class Adverse Reaction | XARELTO 10 mg N=4487 n (%) | EnoxaparinIncludes the placebo-controlled period of RECORD 2, enoxaparin dosing was 40 mg once daily (RECORD 1–3) N=4524 n (%) |
 | --- | --- | --- |
-| System/Organ Class Adverse Reaction | XARELTO 10 mg | EnoxaparinIncludes the placebo-controlled period of RECORD 2, enoxaparin dosing was 40 mg once daily (RECORD 1–3) |
 | Injury, poisoning and procedural complications |  |  |
 | Wound secretion | 125 (2.8) | 89 (2.0) |
 | Musculoskeletal and connective tissue disorders |  |  |

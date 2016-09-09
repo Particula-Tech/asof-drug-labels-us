@@ -30,7 +30,7 @@ Table 8 displays the overall results for the primary composite endpoint and its 
 
 Table 8: Primary Composite Endpoint Results in ROCKET AF Study (Intent-to-Treat Population)
 
-| Event | N = 7081 n (%) | Event Rate (per 100 Pt-yrs) | N = 7090 n (%) | Event Rate (per 100 Pt-yrs) | Hazard Ratio (95% CI) |
+| Event | N=7081 n (%) | Event Rate (per 100 Pt-yrs) | N=7090 n (%) | Event Rate (per 100 Pt-yrs) | Hazard Ratio (95% CI) |
 | --- | --- | --- | --- | --- | --- |
 |  | XARELTO |  | Warfarin |  | XARELTO vs. Warfarin |
 | Primary Composite EndpointThe primary endpoint was the time to first occurrence of stroke (any type) or non-CNS systemic embolism. Data are shown for all randomized patients followed to site notification that the study would end. | 269 (3.8) | 2.1 | 306 (4.3) | 2.4 | 0.88 (0.74, 1.03) |
@@ -46,12 +46,8 @@ Figure 4: Time to First Occurrence of Stroke (any type) or Non-CNS Systemic Embo
 
 Figure 5 shows the risk of stroke or non-CNS systemic embolism across major subgroups.
 
-| Figure 5: Risk of Stroke or Non-CNS Systemic Embolism by Baseline Characteristics in ROCKET AFData are shown for all randomized patients followed to site notification that the study would end. (Intent-to-Treat Population) |
+| Figure 5: Risk of Stroke or Non-CNS Systemic Embolism by Baseline Characteristics in ROCKET AFData are shown for all randomized patients followed to site notification that the study would end. Note: The figure above presents effects in various subgroups all of which are baseline characteristics and all of which were pre-specified (diabetic status was not pre-specified in the subgroup, but was a criterion for the CHADS2 score). The 95% confidence limits that are shown do not take into account how many comparisons were made, nor do they reflect the effect of a particular factor after adjustment for all other factors. Apparent homogeneity or heterogeneity among groups should not be over-interpreted. (Intent-to-Treat Population) |
 | --- |
-
-Note: The figure above presents effects in various subgroups all of which are baseline characteristics and all of which were pre-specified (diabetic status was not pre-specified in the subgroup, but was a criterion for the CHADS2 score).
-The 95% confidence limits that are shown do not take into account how many comparisons were made, nor do they reflect the effect of a particular factor after adjustment for all other factors.
-Apparent homogeneity or heterogeneity among groups should not be over-interpreted.
 
 The efficacy of XARELTO was generally consistent across major subgroups.
 
@@ -91,14 +87,14 @@ If the same patient had several events, the patient may have been counted for se
 
 | Event | XARELTO 20 mgTreatment schedule in EINSTEIN DVT and EINSTEIN PE studies: XARELTO 15 mg twice daily for 3 weeks followed by 20 mg once daily; enoxaparin/VKA [enoxaparin: 1 mg/kg twice daily, VKA: individually titrated doses to achieve a target INR of 2.5 (range: 2.0–3.0)] | Enoxaparin/VKA | XARELTO vs. Enoxaparin/VKA Hazard Ratio (95% CI) |
 | --- | --- | --- | --- |
-| EINSTEIN DVT Study | N = 1731 n (%) | N = 1718 n (%) |  |
+| EINSTEIN DVT Study | N=1731 n (%) | N=1718 n (%) |  |
 | Primary Composite Endpoint | 36 (2.1) | 51 (3.0) | 0.68 (0.44, 1.04) |
 | Death (PE) | 1 (<0.1) | 0 |  |
 | Death (PE cannot be excluded) | 3 (0.2) | 6 (0.3) |  |
 | Symptomatic PE and DVT | 1 (<0.1) | 0 |  |
 | Symptomatic recurrent PE only | 20 (1.2) | 18 (1.0) |  |
 | Symptomatic recurrent DVT only | 14 (0.8) | 28 (1.6) |  |
-| EINSTEIN PE Study | N = 2419 n (%) | N = 2413 n (%) |  |
+| EINSTEIN PE Study | N=2419 n (%) | N=2413 n (%) |  |
 | Primary Composite Endpoint | 50 (2.1) | 44 (1.8) | 1.12 (0.75, 1.68) |
 | Death (PE) | 3 (0.1) | 1 (<0.1) |  |
 | Death (PE cannot be excluded) | 8 (0.3) | 6 (0.2) |  |
@@ -131,7 +127,7 @@ Table 10 displays the overall results for the primary composite endpoint and its
 
 Table 10: Primary Composite Endpoint ResultsFor the primary efficacy analysis, all confirmed events were considered from randomization up to the end of intended treatment duration (6 or 12 months) irrespective of the actual treatment duration. in EINSTEIN Extension Study – Intent-to-Treat Population
 
-| Event | XARELTO 20 mg N = 602 n (%) | Placebo N = 594 n (%) | XARELTO vs. Placebo Hazard Ratio (95% CI) |
+| Event | XARELTO 20 mg N=602 n (%) | Placebo N=594 n (%) | XARELTO vs. Placebo Hazard Ratio (95% CI) |
 | --- | --- | --- | --- |
 | Primary Composite Endpoint | 8 (1.3) | 42 (7.1) | 0.18 (0.09, 0.39) p-value = <0.0001 |
 | Death (PE) | 0 | 1 (0.2) |  |
@@ -162,16 +158,16 @@ Table 11: Summary of Key Efficacy Analysis Results for Patients Undergoing Total
 | Treatment Dosage and Duration | XARELTO 10 mg once daily | Enoxaparin 40 mg once daily | RRRRelative Risk Reduction; CI = confidence interval, p-value | XARELTO 10 mg once daily | EnoxaparinIncludes the placebo-controlled period of RECORD 2 40 mg once daily | RRR, p-value |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | RECORD 1 |  |  | RECORD 2 |  |  |
-| Number of Patients | N = 1513 | N = 1473 |  | N = 834 | N = 835 |  |
+| Number of Patients | N=1513 | N=1473 |  | N=834 | N=835 |  |
 | Total VTE | 17 (1.1%) | 57 (3.9%) | 71% (95% CI: 50, 83), p<0.001 | 17 (2.0%) | 70 (8.4%) | 76% (95% CI: 59, 86), p<0.001 |
 | Components of Total VTE |  |  |  |  |  |  |
 | Proximal DVT | 1 (0.1%) | 31 (2.1%) |  | 5 (0.6%) | 40 (4.8%) |  |
 | Distal DVT | 12 (0.8%) | 26 (1.8%) |  | 11 (1.3%) | 43 (5.2%) |  |
 | Non-fatal PE | 3 (0.2%) | 1 (0.1%) |  | 1 (0.1%) | 4 (0.5%) |  |
 | Death (any cause) | 4 (0.3%) | 4 (0.3%) |  | 2 (0.2%) | 4 (0.5%) |  |
-| Number of Patients | N = 1600 | N = 1587 |  | N = 928 | N = 929 |  |
+| Number of Patients | N=1600 | N=1587 |  | N=928 | N=929 |  |
 | Major VTEProximal DVT, nonfatal PE or VTE-related death | 3 (0.2%) | 33 (2.1%) | 91% (95% CI: 71, 97), p<0.001 | 6 (0.7%) | 45 (4.8%) | 87% (95% CI: 69, 94), p<0.001 |
-| Number of Patients | N = 2103 | N = 2119 |  | N = 1178 | N = 1179 |  |
+| Number of Patients | N=2103 | N=2119 |  | N=1178 | N=1179 |  |
 | Symptomatic VTE | 5 (0.2%) | 11 (0.5%) |  | 3 (0.3%) | 15 (1.3%) |  |
 
 One randomized, double-blind, clinical study (RECORD 3) in patients undergoing elective total knee replacement surgery compared XARELTO 10 mg once daily started at least 6 to 8 hours (about 90% of patients dosed 6 to 10 hours) after wound closure versus enoxaparin.
@@ -188,14 +184,14 @@ Table 12: Summary of Key Efficacy Analysis Results for Patients Undergoing Total
 | Treatment Dosage and Duration | XARELTO 10 mg once daily | Enoxaparin 40 mg once daily | RRRRelative Risk Reduction; CI = confidence interval, p-value |
 | --- | --- | --- | --- |
 |  | RECORD 3 |  |  |
-| Number of Patients | N = 813 | N = 871 |  |
+| Number of Patients | N=813 | N=871 |  |
 | Total VTE | 79 (9.7%) | 164 (18.8%) | 48% (95% CI: 34, 60), p<0.001 |
 | Components of events contributing to Total VTE |  |  |  |
 | Proximal DVT | 9 (1.1%) | 19 (2.2%) |  |
 | Distal DVT | 74 (9.1%) | 154 (17.7%) |  |
 | Non-fatal PE | 0 | 4 (0.5%) |  |
 | Death (any cause) | 0 | 2 (0.2%) |  |
-| Number of Patients | N = 895 | N = 917 |  |
+| Number of Patients | N=895 | N=917 |  |
 | Major VTEProximal DVT, nonfatal PE or VTE-related death | 9 (1.0%) | 23 (2.5%) | 60% (95% CI: 14, 81), p = 0.024 |
-| Number of Patients | N = 1206 | N = 1226 |  |
+| Number of Patients | N=1206 | N=1226 |  |
 | Symptomatic VTE | 8 (0.7%) | 24 (2.0%) |  |
