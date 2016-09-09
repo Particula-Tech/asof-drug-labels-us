@@ -13,7 +13,7 @@ Quetiapine's antagonism of adrenergic α 1 receptors may explain the orthostatic
 ## 12.2 Pharmacodynamics
 
 Quetiapine is an antagonist at multiple neurotransmitter receptors in the brain: serotonin 5HT 1A and 5HT 2 (IC 50s=717 & 148nM, respectively), dopamine D 1 and D 2 (IC 50s=1268 & 329nM, respectively), histamine H 1 (IC50=30nM), and adrenergic α1 and α2receptors (IC 50s=94 & 271nM, respectively).
-Quetiapine has no appreciable affinity at cholinergic muscarinic and benzodiazepine receptors (IC 50s > 5000 nM).
+Quetiapine has no appreciable affinity at cholinergic muscarinic and benzodiazepine receptors (IC 50s> 5000 nM).
 
 Effect on QT Interval
 
@@ -79,13 +79,13 @@ Smoking has no effect on the oral clearance of quetiapine.
 Renal Insufficiency
 
 Patients with severe renal impairment (Clcr=10 to 30 mL/min/1.73 m 2, n=8) had a 25% lower mean oral clearance than normal subjects (Clcr > 80 mL/min/1.73 m 2, n=8), but plasma quetiapine concentrations in the subjects with renal insufficiency were within the range of concentrations seen in normal subjects receiving the same dose.
-Dosage adjustment is therefore not needed in these patients.[see Use in Specific Populations (8.6)].
+Dosage adjustment is therefore not needed in these patients [see Use in Specific Populations (8.6)].
 
 Hepatic Insufficiency
 
 Hepatically impaired patients (n=8) had a 30% lower mean oral clearance of quetiapine than normal subjects.
 In two of the 8 hepatically impaired patients, AUC and Cmax were 3 times higher than those observed typically in healthy subjects.
-Since quetiapine is extensively metabolized by the liver, higher plasma levels are expected in the hepatically impaired population, and dosage adjustment may be needed [see Dosage and Administration(2.4) and Use in Specific Populations (8.7)].
+Since quetiapine is extensively metabolized by the liver, higher plasma levels are expected in the hepatically impaired population, and dosage adjustment may be needed [see Dosage and Administration (2.4) and Use in Specific Populations (8.7)].
 
 Drug-Drug Interaction Studies
 

@@ -127,8 +127,8 @@ In a placebo-controlled quetiapine monotherapy study of children and adolescent 
 No patient in either study with a baseline normal fasting glucose level (<100 mg/dL) or a baseline borderline fasting glucose level (≥100 mg/dL and <126 mg/dL) had a treatment-emergent blood glucose level of ≥126 mg/dL.
 
 In a placebo-controlled quetiapine extended release monotherapy study (8 weeks duration) of children and adolescent patients (10 to 17 years of age) with bipolar depression, in which efficacy was not established, the mean change in fasting glucose levels for quetiapine extended release (n = 60) compared to placebo (n = 62) was 1.8 mg/dL versus 1.6 mg/dL.
-In this study, there were no patients in the quetiapine extended release or placebo-treated groups with a baseline normal fasting glucose level (<100 mg/dL) that had an increase in blood glucose level ≥126 mg/dL.
-There was one patient in the quetiapine extended release group with a baseline borderline fasting glucose level (≥100 mg/dL) and (< 126 mg/dL) who had an increase in blood glucose level of > 126 mg/dL compared to zero patients in the placebo group.
+In this study, there were no patients in the quetiapine extended release or placebo-treated groups with a baseline normal fasting glucose level (<100 mg/dL) that had an increase in blood glucose level >126 mg/dL.
+There was one patient in the quetiapine extended release group with a baseline borderline fasting glucose level (>100 mg/dL) and (< 126 mg/dL) who had an increase in blood glucose level of > 126 mg/dL compared to zero patients in the placebo group.
 
 Dyslipidemia
 
@@ -231,7 +231,7 @@ When treating pediatric patients with quetiapine for any indication, weight gain
 
 ## 5.6 Tardive Dyskinesia
 
-A syndrome of potentially irreversible, involuntary, dyskinetic movements may develop in patients treated with antipsychotic drugs including quetiapine.
+A syndrome of potentially irreversible, involuntary, dyskinetic movements may develop in patients treated with antipsychotic drugs, including quetiapine.
 Although the prevalence of the syndrome appears to be highest among the elderly, especially elderly women, it is impossible to rely upon prevalence estimates to predict, at the inception of antipsychotic treatment, which patients are likely to develop the syndrome.
 Whether antipsychotic drug products differ in their potential to cause tardive dyskinesia is unknown.
 
@@ -256,7 +256,8 @@ Quetiapine may induce orthostatic hypotension associated with dizziness, tachyca
 Syncope was reported in 1% (28/3265) of the patients treated with quetiapine, compared with 0.2% (2/954) on placebo and about 0.4% (2/527) on active control drugs.
 Orthostatic hypotension, dizziness, and syncope may lead to falls.
 
-Quetiapine should be used with particular caution in patients with known cardiovascular disease (history of myocardial infarction or ischemic heart disease, heart failure or conduction abnormalities), cerebrovascular disease or conditions which would predispose patients to hypotension (dehydration, hypovolemia and treatment with antihypertensive medications) The risk of orthostatic hypotension and syncope may be minimized by limiting the initial dose to 25 mg twice daily [see Dosage and Administration (2.2)].
+Quetiapine should be used with particular caution in patients with known cardiovascular disease (history of myocardial infarction or ischemic heart disease, heart failure or conduction abnormalities), cerebrovascular disease or conditions which would predispose patients to hypotension (dehydration, hypovolemia and treatment with antihypertensive medications).
+The risk of orthostatic hypotension and syncope may be minimized by limiting the initial dose to 25 mg twice daily [see Dosage and Administration (2.2)].
 If hypotension occurs during titration to the target dose, a return to the previous dose in the titration schedule is appropriate.
 
 ## 5.8 Increases in Blood Pressure (Children and Adolescents)
@@ -289,13 +290,13 @@ Therefore, examination of the lens by methods adequate to detect cataract format
 
 In clinical trials quetiapine was not associated with a persistent increase in QT intervals.
 However, the QT effect was not systematically evaluated in a thorough QT study.
-In post marketing experience there were cases reported of QT prolongation in patients who overdosed on quetiapine [see Overdosage (10.1)] in patients with concomitant illness, and in patients taking medicines known to cause electrolyte imbalance or increase QT interval [see Drug Interactions (7.1)].
+In post marketing experience, there were cases reported of QT prolongation in patients who overdosed on quetiapine [see Overdosage (10.1)], in patients with concomitant illness, and in patients taking medicines known to cause electrolyte imbalance or increase QT interval [see Drug Interactions (7.1)].
 
 The use of quetiapine should be avoided in combination with other drugs that are known to prolong QTc including Class 1A antiarrythmics (e.g., quinidine, procainamide) or Class III antiarrythmics (e.g., amiodarone, sotalol), antipsychotic medications (e.g., ziprasidone, chlorpromazine, thioridazine), antibiotics (e.g., gatifloxacin, moxifloxacin), or any other class of medications known to prolong the QTc interval (e.g., pentamidine, levomethadyl acetate, methadone).
 
 Quetiapine should also be avoided in circumstances that may increase the risk of occurrence of torsade de pointes and/or sudden death including (1) a history of cardiac arrhythmias such as bradycardia; (2) hypokalemia or hypomagnesemia; (3) concomitant use of other drugs that prolong the QTc interval; and (4) presence of congenital prolongation of the QT interval.
 
-Caution should also be exercised when quetiapine is prescribed in patients with increased risk of QT prolongation (e.g. cardiovascular disease, family history of QT prolongation, the elderly, congestive heart failure and heart hypertrophy).
+Caution should also be exercised when quetiapine is prescribed in patients with increased risk of QT prolongation (e.g., cardiovascular disease, family history of QT prolongation, the elderly, congestive heart failure and heart hypertrophy).
 
 ## 5.12 Seizures
 
@@ -318,7 +319,7 @@ Of the quetiapine treated patients with elevated TSH levels, 3 had simultaneous 
 About 0.7% (26/3489) of quetiapine patients did experience TSH increases in monotherapy studies.
 Some patients with TSH increases needed replacement thyroid treatment.
 
-In all quetiapine trials, the incidence of significant shifts in thyroid hormones and TSH were*: decrease in free T4 (free T4 <0.8 LLN) 2.0% (357/17513); decrease in total T4, 4.0% (75/1861); decrease in free T3, 0.4% (53/13766); decrease in total T3, 2.0% (26/1312), and increase in TSH, 4.9% (956/19412).
+In all quetiapine trials, the incidence of significant shifts in thyroid hormones and TSH were*: decrease in free T4 (free T4 <0.8 LLN), 2.0% (357/17513); decrease in total T4, 4.0% (75/1861); decrease in free T3, 0.4% (53/13766); decrease in total T3, 2.0% (26/1312), and increase in TSH, 4.9% (956/19412).
 In eight patients, where TBG was measured, levels of TBG were unchanged.
 
 Table 8 shows the incidence of these shifts in short-term placebo-controlled clinical trials.
@@ -351,7 +352,7 @@ Galactorrhea, amenorrhea, gynecomastia, and impotence have been reported in pati
 Long-standing hyperprolactinemia when associated with hypogonadism may lead to decreased bone density in both female and male subjects.
 
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin dependent in vitro, a factor of potential importance if the prescription of these drugs is considered in a patient with previously detected breast cancer.
-As is common with compounds which increase prolactin release, mammary gland and pancreatic islet cell neoplasia (mammary adenocarcinomas, pituitary and pancreatic adenomas) was observed in carcinogenicity studies conducted in mice and rats.
+As is common with compounds which increase prolactin release, mammary gland, and pancreatic islet cell neoplasia (mammary adenocarcinomas, pituitary and pancreatic adenomas) was observed in carcinogenicity studies conducted in mice and rats.
 Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans, but the available evidence is too limited to be conclusive [see Nonclinical Toxicology (13.1)].
 
 ## 5.15 Potential for Cognitive and Motor Impairment

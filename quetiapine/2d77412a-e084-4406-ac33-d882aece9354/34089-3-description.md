@@ -9,15 +9,15 @@ The structural formula is:
 
 Quetiapine fumarate is a white to off-white crystalline powder which is moderately soluble in water.
 
-Quetiapine fumarate tablet is supplied for oral administration as 25 mg (round, pink), 50 mg (round, white to off white), 100 mg (round, yellow), 200 mg (round, white to off white), 300 mg (capsule-shaped, white), and 400 mg (capsule-shaped, yellow) tablets.
+Quetiapine tablet, USP is supplied for oral administration as 25 mg (round, pink), 50 mg (round, white to off white), 100 mg (round, yellow), 200 mg (round, white to off white), 300 mg (capsule-shaped, white), and 400 mg (capsule-shaped, yellow) tablets.
 
 Inactive ingredients are povidone, dibasic calcium phosphate dihydrate, microcrystalline cellulose, sodium starch glycolate, lactose monohydrate, magnesium stearate, hypromellose, polyethylene glycol and titanium dioxide.
 
 The 25 mg tablets contain iron oxide red and iron oxide yellow and the 100 mg and 400 mg tablets contain only iron oxide yellow.
 
-Each 25 mg tablet contains quetiapine fumarate equivalent to 25 mg quetiapine.
-Each 50 mg tablet contains quetiapine fumarate equivalent to 50 mg quetiapine.
-Each 100 mg tablet contains quetiapine fumarate equivalent to 100 mg quetiapine.
-Each 200 mg tablet contains quetiapine fumarate equivalent to 200 mg quetiapine.
-Each 300 mg tablet contains quetiapine fumarate equivalent to 300 mg quetiapine.
-Each 400 mg tablet contains quetiapine fumarate equivalent to 400 mg quetiapine.
+Each 25 mg tablet contains quetiapine fumarate, USP equivalent to 25 mg quetiapine.
+Each 50 mg tablet contains quetiapine fumarate, USP equivalent to 50 mg quetiapine.
+Each 100 mg tablet contains quetiapine fumarate, USP equivalent to 100 mg quetiapine.
+Each 200 mg tablet contains quetiapine fumarate, USP equivalent to 200 mg quetiapine.
+Each 300 mg tablet contains quetiapine fumarate, USP equivalent to 300 mg quetiapine.
+Each 400 mg tablet contains quetiapine fumarate, USP equivalent to 400 mg quetiapine.

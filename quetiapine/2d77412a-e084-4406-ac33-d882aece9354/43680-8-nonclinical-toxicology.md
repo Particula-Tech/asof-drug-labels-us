@@ -47,6 +47,6 @@ The functional effects and the relevance of this finding to human risk are unkno
 In dogs receiving quetiapine for 6 or 12 months, but not for 1 month, focal triangular cataracts occurred at the junction of posterior sutures in the outer cortex of the lens at a dose of 100 mg/kg, or 4 times the MRHD of 800 mg/day on mg/m 2 body surface area.
 This finding may be due to inhibition of cholesterol biosynthesis by quetiapine.
 Quetiapine caused a dose-related reduction in plasma cholesterol levels in repeat-dose dog and monkey studies; however, there was no correlation between plasma cholesterol and the presence of cataracts in individual dogs.
-The appearance of delta 8 cholestanol in plasma is consistent with inhibition of a late stage in cholesterol biosynthesis in these species.
+The appearance of delta-8-cholestanol in plasma is consistent with inhibition of a late stage in cholesterol biosynthesis in these species.
 There also was a 25% reduction in cholesterol content of the outer cortex of the lens observed in a special study in quetiapine treated female dogs.
 Drug-related cataracts have not been seen in any other species; however, in a 1-year study in monkeys, a striated appearance of the anterior lens surface was detected in 2/7 females at a dose of 225 mg/kg or 5.5 times the MRHD of 800 mg/day on mg/m 2 body surface area.

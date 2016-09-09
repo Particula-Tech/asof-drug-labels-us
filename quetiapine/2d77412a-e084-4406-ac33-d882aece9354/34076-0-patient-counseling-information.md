@@ -66,7 +66,7 @@ Patients should be advised regarding appropriate care in avoiding overheating an
 
 Concomitant Medication
 
-As with other medications, patients should be advised to notify their physicians if they are taking, or plan to take, any prescription or over-the-counter drugs [see Drug Interactions (7.1))].
+As with other medications, patients should be advised to notify their physicians if they are taking, or plan to take, any prescription or over-the-counter drugs [see Drug Interactions (7.1)].
 
 Pregnancy and Nursing
 
@@ -87,6 +87,6 @@ Manufactured By:
 
 Intas Pharmaceuticals Limited, Ahmedabad -380 009, India.
 
-10 8057 6 658084
+10 0210 0 665616
 
-Issued November 2014
+Issued July 2016

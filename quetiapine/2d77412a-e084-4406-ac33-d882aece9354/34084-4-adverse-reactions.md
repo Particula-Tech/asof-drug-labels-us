@@ -2,24 +2,24 @@
 
 The following adverse reactions are discussed in more detail in other sections of the labeling:
 
-- Increased mortality in elderly patients with dementia-related psychosis[see Warnings and Precautions (5.1)]
-- Suicidal thoughts and behaviors in adolescents and young adults[see Warnings and Precautions (5.2)]
+- Increased mortality in elderly patients with dementia-related psychosis [see Warnings and Precautions (5.1)]
+- Suicidal thoughts and behaviors in adolescents and young adults [see Warnings and Precautions (5.2)]
 - Cerebrovascular adverse reactions, including stroke in elderly patients with dementia-related psychosis [see Warnings and Precautions (5.3)]
-- Neuroleptic Malignant Syndrome (NMS)[see Warnings and Precautions (5.4)]
-- Metabolic changes (hyperglycemia, dyslipidemia, weight gain)[see Warnings and Precautions (5.5)]
+- Neuroleptic Malignant Syndrome (NMS) [see Warnings and Precautions (5.4)]
+- Metabolic changes (hyperglycemia, dyslipidemia, weight gain) [see Warnings and Precautions (5.5)]
 - Tardive dyskinesia [see Warnings and Precautions (5.6)]
 - Hypotension [see Warnings and Precautions (5.7)]
-- Increases in blood pressure (children and adolescents)[see Warnings and Precautions (5.8)]
-- Leukopenia, neutropenia and agranulocytosis[see Warnings and Precautions (5.9)]
-- Cataracts[see Warnings and Precautions (5.10)]
-- QT Prolongation[see Warnings and Precautions (5.11)]
-- Seizures[see Warnings and Precautions (5.12)]
-- Hypothyroidism[see Warnings and Precautions (5.13)]
+- Increases in blood pressure (children and adolescents) [see Warnings and Precautions (5.8)]
+- Leukopenia, neutropenia and agranulocytosis [see Warnings and Precautions (5.9)]
+- Cataracts [see Warnings and Precautions (5.10)]
+- QT Prolongation [see Warnings and Precautions (5.11)]
+- Seizures [see Warnings and Precautions (5.12)]
+- Hypothyroidism [see Warnings and Precautions (5.13)]
 - Hyperprolactinemia [see Warnings and Precautions (5.14)]
-- Potential for cognitive and motor impairment[see Warnings and Precautions (5.15)]
-- Body temperature regulation[see Warnings and Precautions (5.16)]
-- Dysphagia[see Warnings and Precautions (5.17)]
-- Discontinuation Syndrome[see Warnings and Precautions (5.18)]
+- Potential for cognitive and motor impairment [see Warnings and Precautions (5.15)]
+- Body temperature regulation [see Warnings and Precautions (5.16)]
+- Dysphagia [see Warnings and Precautions (5.17)]
+- Discontinuation Syndrome [see Warnings and Precautions (5.18)]
 
 ## 6.1 Clinical Study Experience
 
@@ -134,7 +134,7 @@ Table 10: Adverse Reaction Incidence in 3-Week Placebo-Controlled Clinical Trial
 | Sweating | 2% | 1% |
 | Urinary Tract Infection | 2% | 1% |
 
-In bipolar depression studies (up to 8 weeks), the most commonly observed treatment emergent adverse reactions associated with the use of quetiapine (incidence of 5% or greater) and observed at a rate on quetiapine at least twice that of placebo were somnolence (57%) dry mouth (44%), dizziness (18%), constipation (10%), and lethargy (5%).
+In bipolar depression studies (up to 8 weeks), the most commonly observed treatment emergent adverse reactions associated with the use of quetiapine (incidence of 5% or greater) and observed at a rate on quetiapine at least twice that of placebo were somnolence (57%), dry mouth (44%), dizziness (18%), constipation (10%), and lethargy (5%).
 
 Table 11 enumerates the incidence, rounded to the nearest percent, of adverse reactions that occurred during therapy (up to 8 weeks) of bipolar depression in 2% or more of patients treated with quetiapine (doses of 300 and 600 mg/day) where the incidence in patients treated with quetiapine was greater than the incidence in placebo-treated patients.
 
@@ -142,7 +142,7 @@ Table 11: Adverse Reaction Incidence in 8-Week Placebo-Controlled Clinical Trial
 
 | Preferred Term | QUETIAPINE (n=698) | PLACEBO (n=347) |
 | --- | --- | --- |
-| Somnolence Somnolence combines adverse reaction terms somnolence and sedation. | 57% | 15% |
+| Somnolence Somnolence combines adverse reaction terms somnolence and sedation | 57% | 15% |
 | Dry Mouth | 44% | 13% |
 | Dizziness | 18% | 7% |
 | Constipation | 10% | 4% |
@@ -186,7 +186,7 @@ Adverse Reactions in clinical trials with quetiapine and not listed elsewhere in
 
 The following adverse reactions have also been reported with quetiapine: nightmares, hypersensitivity and elevations in serum creatine phosphokinase (not associated with NMS), galactorrhea, bradycardia (which may occur at or near initiation of treatment and be associated with hypotension and/ or syncope) decreased platelets, somnambulism (and other related events), elevations in gamma-GT levels, hypothermia, and priapism.
 
-Extrapyramidal Symptoms:(EPS)
+Extrapyramidal Symptoms (EPS):
 
 Dystonia
 
@@ -202,7 +202,7 @@ Three methods were used to measure EPS: (1) Simpson-Angus total score (mean chan
 
 In Table 12, dystonic event included nuchal rigidity, hypertonia, dystonia, muscle rigidity, oculogyration; parkinsonism included cogwheel rigidity, tremor, drooling, hypokinesia; akathisia included akathisia, psychomotor agitation; dyskinetic event included tardive dyskinesia, dyskinesia, choreoathetosis; and other extrapyramidal event included restlessness, extrapyramidal disorder, movement disorder.
 
-Table 12: Adverse reactions associated with EPS in a short-term, placebo-controlled multiple fixed-dose Phase III schizophrenia trial (6 weeks duration)
+Table 12: Adverse Reactions Associated with EPS in a Short-Term, Placebo-Controlled Multiple Fixed-Dose Phase III Schizophrenia Trial (6 weeks duration)
 
 | Preferred Term | Quetiapine 75 mg/day (N=53) |  | Quetiapine 150 mg/day (N=48) |  | Quetiapine 300 mg/day (N=52) |  | Quetiapine 600 mg/day (N=51) |  | Quetiapine 750 mg/day (N=54) |  | Placebo (N=51) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -224,7 +224,7 @@ In these studies, the incidence of the individual adverse reactions (akathisia, 
 The 3 treatment groups were similar in mean change in SAS total score and BARS Global Assessment score at the end of treatment.
 The use of concomitant anticholinergic medications was infrequent and similar across the three treatment groups.
 
-Children and Adolescents:
+Children and Adolescents
 
 The information below is derived from a clinical trial database for quetiapine consisting of over 1000 pediatric patients.
 This database includes 677 patients exposed to quetiapine for the treatment of schizophrenia and 393 children and adolescents (10 to 17 years old) exposed to quetiapine for the treatment of acute bipolar mania.
@@ -257,10 +257,10 @@ Table 13: Adverse Reaction Incidence in a 6-Week Placebo-Controlled Clinical Tri
 
 | Preferred Term | Quetiapine 400 mg (n=73) | Quetiapine 800 mg (n=74) | Placebo (n=75) |
 | --- | --- | --- | --- |
-| Somnolence Somnolence combines adverse reactions terms somnolence and sedation | 33% | 35% | 11% |
+| Somnolence Somnolence combines adverse reaction terms somnolence and sedation | 33% | 35% | 11% |
 | Dizziness | 8% | 15% | 5% |
 | Dry Mouth | 4% | 10% | 1% |
-| Tachycardia Tachycardia combines adverse reaction terms tachycardia and sinus tachycardia | 6% | 11% | 0% |
+| Tachycardia Tachycardia combines adverse reaction terms tachycardia and sinus tachycardia. | 6% | 11% | 0% |
 | Irritability | 3% | 5% | 0% |
 | Arthralgia | 1% | 3% | 0% |
 | Asthenia | 1% | 3% | 1% |
@@ -285,11 +285,11 @@ Table 14 enumerates the incidence, rounded to the nearest percent, of treatment-
 
 Adverse events that were potentially dose-related with higher frequency in the 600 mg group compared to the 400 mg group included somnolence (50% vs. 57%), nausea (6% vs. 10%) and tachycardia (6% vs. 9%).
 
-Table 14 Adverse Reactions in a 3-Week Placebo-Controlled Clinical Trial for the Treatment of Bipolar Mania in Children and Adolescent Patients
+Table 14: Adverse Reactions in a 3-Week Placebo-Controlled Clinical Trial for the Treatment of Bipolar Mania in Children and Adolescent Patients
 
 | Preferred Term | Quetiapine 400 mg (n-95) | Quetiapine 600 mg (n=98) | Placebo (n=90) |
 | --- | --- | --- | --- |
-| Somnolence Somnolence combines adverse reaction terms somnolence and sedation | 50% | 57% | 14% |
+| Somnolence Somnolence combines adverse reactions terms somnolence and sedation | 50% | 57% | 14% |
 | Dizziness | 19% | 17% | 2% |
 | Nausea | 6% | 10% | 4% |
 | Fatigue | 14% | 9% | 4% |
@@ -320,12 +320,12 @@ Table 14 Adverse Reactions in a 3-Week Placebo-Controlled Clinical Trial for the
 
 Extrapyramidal Symptoms:
 
-In a short-term placebo-controlled monotherapy trial in adolescent patients with schizophrenia (6-¬week duration), the aggregated incidence of extrapyramidal symptoms was 12.9% (19/147) for quetiapine and 5.3% (4/75) for placebo, though the incidence of the individual adverse events (akathisia, tremor, extrapyramidal disorder, hypokinesia, restlessness, psychomotor hyperactivity, muscle rigidity, dyskinesia) did not exceed 4.1% in any treatment group.
+In a short-term placebo-controlled monotherapy trial in adolescent patients with schizophrenia (6-week duration), the aggregated incidence of extrapyramidal symptoms was 12.9% (19/147) for quetiapine and 5.3% (4/75) for placebo, though the incidence of the individual adverse events (akathisia, tremor, extrapyramidal disorder, hypokinesia, restlessness, psychomotor hyperactivity, muscle rigidity, dyskinesia) did not exceed 4.1% in any treatment group.
 In a short-term placebo-controlled monotherapy trial in children and adolescent patients with bipolar mania (3-week duration), the aggregated incidence of extrapyramidal symptoms was 3.6% (7/193) or quetiapine and 1.1% (1/90) for placebo.
 
 Table 15 presents a listing of patients with adverse reactions potentially associated with extrapyramidal symptoms in the short-term placebo-controlled monotherapy trial in adolescent patients with schizophrenia (6-week duration).
 
-In Tables 15 to 16 dystonic event included nuchal rigidity, hypertonia and muscle rigidity; parkinsonism included cogwheel rigidity and tremor; akathisia included akathisia only; dyskinetic event included tardive dyskinesia, dyskinesia and choreoathetosis; and other extrapyramidal event included restlessness and extrapyramidal disorder.
+In Tables 15 to 16 dystonic event included nuchal rigidity, hypertonia, and muscle rigidity; parkinsonism included cogwheel rigidity and tremor; akathisia included akathisia only; dyskinetic event included tardive dyskinesia, dyskinesia and choreoathetosis; and other extrapyramidal event included restlessness and extrapyramidal disorder.
 
 Table 15: Adverse Reactions Associated with Extrapyramidal Symptoms in the Placebo-controlled Trial in Adolescent Patients with Schizophrenia (6-week duration)
 
@@ -369,7 +369,7 @@ Respiratory System: Frequent: cough increased, dyspnea; Infrequent: pneumonia, e
 
 Metabolic and Nutritional System: Infrequent: weight loss, alkaline phosphatase increased, hyperlipemia, alcohol intolerance, dehydration, hyperglycemia, creatinine increased, hypoglycemia; Rare: glycosuria, gout, hand edema, hypokalemia, water intoxication.
 
-Skin and Appendages System: Infrequent:pruritus, acne, eczema, contact dermatitis, maculopapular rash, seborrhea, skin ulcer; Rare: exfoliative dermatitis, psoriasis, skin discoloration.
+Skin and Appendages System: Infrequent: pruritus, acne, eczema, contact dermatitis, maculopapular rash, seborrhea, skin ulcer; Rare: exfoliative dermatitis, psoriasis, skin discoloration.
 
 Urogenital System: Infrequent: dysmenorrhea, vaginitis, urinary incontinence, metrorrhagia, impotence, dysuria, vaginal moniliasis, abnormal ejaculation, cystitis, urinary frequency, amenorrhea, female lactation, leukorrhea, vaginal hemorrhage, vulvovaginitis orchitis; Rare: gynecomastia, nocturia, polyuria, acute kidney failure.
 
@@ -379,14 +379,14 @@ Musculoskeletal System: Infrequent: pathological fracture, myasthenia, twitching
 
 Hemic and Lymphatic System: Infrequent: leukocytosis, anemia, ecchymosis, eosinophilia, hypochromic anemia; lymphadenopathy, cyanosis; Rare: hemolysis, thrombocytopenia.
 
-Endocrine System: Infrequent:hypothyroidism, diabetes mellitus; Rare: hyperthyroidism.
+Endocrine System: Infrequent: hypothyroidism, diabetes mellitus; Rare: hyperthyroidism.
 
 Laboratory, ECG and vital sign changes observed in clinical studies Laboratory Changes:
 
 Neutrophil Counts
 
 Adults: In placebo-controlled monotherapy clinical trials involving 3368 patients on quetiapine fumarate and 1515 on placebo, the incidence of at least one occurrence of neutrophil count <1.0 x 10 9/L among patients with a normal baseline neutrophil count and at least one available follow up laboratory measurement was 0.3% (10/2967) in patients treated with quetiapine fumarate, compared to 0.1% (2/1349) in patients treated with placebo.
-[see Warnings and Precautions (5.9)
+[see Warnings and Precautions (5.9)].
 
 Transaminase Elevations
 
@@ -404,7 +404,7 @@ In a database of controlled and uncontrolled clinical trials, decreases in hemog
 Interference with Urine Drug Screens
 
 There have been literature reports suggesting false positive results in urine enzyme immunoassays for methadone and tricyclic antidepressants in patients who have taken quetiapine.
-Caution should be exercised in the interpretation of positive urine drug screen results for these drugs, and confirmation by alternative analytical technique (e.g. chromatographic methods) should be considered.
+Caution should be exercised in the interpretation of positive urine drug screen results for these drugs, and confirmation by alternative analytical technique (e.g., chromatographic methods) should be considered.
 
 ECG Changes
 
@@ -432,4 +432,4 @@ Mean increases in heart rate were 3.4 bpm for quetiapine extended release, compa
 The following adverse reactions were identified during post approval of quetiapine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Adverse reactions reported since market introduction which were temporally related to quetiapine therapy include anaphylactic reaction, cardiomyopathy, hyponatremia, myocarditis, nocturnal enuresis, pancreatitis, retrograde amnesia, rhabdomyolysis, syndrome of inappropriate antidiuretic hormone secretion (SIADH), Stevens-Johnson syndrome (SJS), and toxic epidermal necrolysis (TEN).
+Adverse reactions reported since market introduction which were temporally related to quetiapine therapy include anaphylactic reaction, cardiomyopathy, drug reaction with eosinophilia and systemic symptoms (DRESS), hyponatremia, myocarditis, nocturnal enuresis, pancreatitis, retrograde amnesia, rhabdomyolysis, syndrome of inappropriate antidiuretic hormone secretion (SIADH), Stevens-Johnson syndrome (SJS), and toxic epidermal necrolysis (TEN).
