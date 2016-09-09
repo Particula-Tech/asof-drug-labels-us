@@ -23,11 +23,11 @@ The recommended approach is to
 
 Dose titration may be accomplished by either of two general approaches that differ in dosage and frequency of administration, but reach the same total amount of digoxin accumulated in the body.
 
-- 1.If rapid titration is considered medically appropriate, administer a loading dose based upon projected peak digoxin body stores.
-  Maintenance dose can be calculated as a percentage of the loading dose.
-- 2.More gradual titration may be obtained by beginning an appropriate maintenance dose, thus allowing digoxin body stores to accumulate slowly.
-  Steady-state serum digoxin concentrations will be achieved in approximately five half-lives of the drug for the individual patient.
-  Depending upon the patient’s renal function, this will take between 1 and 3 weeks.
+1. 1.If rapid titration is considered medically appropriate, administer a loading dose based upon projected peak digoxin body stores.
+   Maintenance dose can be calculated as a percentage of the loading dose.
+2. 2.More gradual titration may be obtained by beginning an appropriate maintenance dose, thus allowing digoxin body stores to accumulate slowly.
+   Steady-state serum digoxin concentrations will be achieved in approximately five half-lives of the drug for the individual patient.
+   Depending upon the patient’s renal function, this will take between 1 and 3 weeks.
 
 ## 2.2 Serum Digoxin Concentrations
 
@@ -53,7 +53,7 @@ Loading doses for each age group are given in Table 1 below.
 
 In pediatric patients, if a loading dose is needed, it can be administered with roughly half the total given as the first dose.
 Additional fractions of this planned total dose may be given at 4- to 8-hour intervals, with careful assessment of clinical response before each additional dose.
-If the patient’s clinical response necessitates a change from the calculated loading dose of digoxin, then calculation of the maintenance dose should be based upon the amount actually given as the loading dose [see Table 1 and 2].
+If the patient’s clinical response necessitates a change from the calculated loading dose of digoxin, then calculation of the maintenance dose should be based upon the amount actually given as the loading dose [see Tables 1 and 2].
 
 Table 1: Estimate the Loading Dose
 
@@ -117,7 +117,7 @@ Table 3: Usual Maintenance DoseThe doses are rounded to whole numbers.Twice dail
 Once daily dosing is recommended for pediatric patients above 10 years of age and adults.
 Requirements (mcg) of Digoxin Based upon Age, Lean Body Weight and Renal Function
 
-| Corrected Ccr(mL/min per 70 kg)Ccr is creatinine clearance, corrected to 70 kg body weight or 1.73 m2 body surface area. Foradults, if only serum creatinine concentrations (Scr) are available, a Ccr (corrected to 70 kg body weight) may be estimated in men as (140 – Age)/Scr. For women, this result should be multiplied by 0.85. Note: This equation cannot be used for estimating creatinine clearance in infants or pediatric patients. For pediatric patients, the modified Schwartz equation may be used as listed below. The formula was based on height in cm and Scr in mg/dL where k is a constant. Ccr is corrected to 1.73 m2 body surface area. During the first year of life, the value of k is 0.33 for pre-term babies and 0.45 for term infants. The k is 0.55 for pediatric patients and adolescent girls and 0.7 for adolescent boys. GFR (mL/min/1.73 m2) = (k x Height)/Scr. |  | Dose to be given Twice Daily |  |  |  |  |  |  | Dose to be given Once Daily |  |  |  |  |  |  | Number of Days Before Steady State Achieve |
+| Corrected Ccr(mL/min per 70 kg)Ccr is creatinine clearance, corrected to 70 kg body weight or 1.73 m2 body surface area. For adults, if only serum creatinine concentrations (Scr) are available, a Ccr (corrected to 70 kg body weight) may be estimated in men as (140 – Age)/Scr. For women, this result should be multiplied by 0.85. Note: This equation cannot be used for estimating creatinine clearance in infants or pediatric patients. For pediatric patients, the modified Schwartz equation may be used as listed below. The formula was based on height in cm and Scr in mg/dL where k is a constant. Ccr is corrected to 1.73 m2 body surface area. During the first year of life, the value of k is 0.33 for pre-term babies and 0.45 for term infants. The k is 0.55 for pediatric patients and adolescent girls and 0.7 for adolescent boys. GFR (mL/min/1.73 m2) = (k x Height)/Scr. |  | Dose to be given Twice Daily |  |  |  |  |  |  | Dose to be given Once Daily |  |  |  |  |  |  | Number of Days Before Steady State Achieve |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | < 10 years of age |  |  |  |  |  |  | > 10 years of age and adults |  |  |  |  |  |  |  |  |
 |  | Lean Body Weight |  |  |  |  |  |  | Lean Body Weight |  |  |  |  |  |  |  |  |
@@ -159,7 +159,7 @@ Table 4: Dose in Milliliters
 | 20 | 0.8 | 1.2 | 1.6 | 2.0 | 2.4 | 3.2 | 4.0 | 4.8 | 5.6 | 6.4 | 7.2 | 8.0 | 12.0 |  |
 | 30 | 1.2 | 1.8 | 2.4 | 3.0 | 3.6 | 4.8 | 6.0 | 7.2 | 8.4 | 9.6 | 10.8 | 12.0 | 18.0 |  |
 | 40 | 1.6 | 2.4 | 3.2 | 4.0 | 4.8 | 6.4 | 8.0 | 9.6 | 11.2 | 12.8 | 14.4 | 16.0 | 24.0 |  |
-| 50 | 2.0 | 3.0 | 4.0 | 5.0 | 6.0 | 8.0 | 10.0 | 12.0 | 14.0 | 16.0 | 18 | 20.0 | 30.0 |  |
+| 50 | 2.0 | 3.0 | 4.0 | 5.0 | 6.0 | 8.0 | 10.0 | 12.0 | 14.0 | 16.0 | 18.0 | 20.0 | 30.0 |  |
 | 60 | 2.4 | 3.6 | 4.8 | 6.0 | 7.2 | 9.6 | 12.0 | 14.4 | 16.8 | 19.2 | 21.6 | 24.0 | 36.0 |  |
 | 70 | 2.8 | 4.2 | 5.6 | 7.0 | 8.4 | 11.2 | 14.0 | 16.8 | 19.6 | 22.4 | 25.2 | 28.0 | 42.0 |  |
 | 80 | 3.2 | 4.8 | 6.4 | 8.0 | 9.6 | 12.8 | 16.0 | 19.2 | 22.4 | 25.6 | 28.8 | 32.0 | 48.0 |  |
@@ -180,6 +180,6 @@ The monitoring described in Section 2.2 may suggest increases or decreases in di
 Additional monitoring, and in some cases anticipatory dose adjustment, may be indicated around the time of various changes to the patient including:
 
 - •normal development through childhood;
-- •concomitant drug use should be considered when adjusting the estimated digoxin dose [seeDrug Interactions (7)];
+- •concomitant drug use should be considered when adjusting the estimated digoxin dose [see Drug Interactions (7)];
 - •new co-administration of an antibiotic, especially if the patient had required high doses of digoxin in order to achieve modest serum concentrations, raising the suspicion that a substantial fraction of administered digoxin was being destroyed by colonic bacteria; and
 - •changes in renal function [see Table 3: Usual Maintenance Dose Requirements (mcg) of Digoxin above].

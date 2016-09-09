@@ -13,7 +13,7 @@ By inhibiting NaK–ATPase, digoxin
 - •increases (at higher concentrations) sympathetic outflow from the central nervous system (CNS) to both cardiac and peripheral sympathetic nerves; and
 - •allows (at higher concentrations) progressive efflux of intracellular potassium, with consequent increase in serum potassium levels.
 
-The cardiologic consequences of these direct and indirect effects are an increase in the force and velocity of myocardial systolic contraction (positive inotropic action), a slowing of the heart rate (negative chronotropic effect), and decreased conduction velocity through the AV node, and a decrease in the degree of activation of the sympathetic nervous system and renin-angiotensin system (neurohormonal deactivating effect).
+The cardiologic consequences of these direct and indirect effects are an increase in the force and velocity of myocardial systolic contraction (positive inotropic action), a slowing of the heart rate (negative chronotropic effect), decreased conduction velocity through the AV node, and a decrease in the degree of activation of the sympathetic nervous system and renin-angiotensin system (neurohormonal deactivating effect).
 
 ## 12.2 Pharmacodynamics
 

@@ -17,10 +17,10 @@ Patients receiving digoxin should be given the following instructions by the phy
   For doses less than 0.2 mL, provide another measuring syringe to the patient for accurate dosing, since the provided calibrated dropper is not appropriate to measure doses less than 0.2 mL.
 - •Instruct women of childbearing potential who become or are planning to become pregnant to consult a physician prior to initiation or continuing therapy with digoxin.
 
-Roxane Laboratories, Inc.
+Distr. by: West-Ward
 
-Columbus, Ohio 43216
+Pharmaceuticals Corp.
 
-10001143/08 Revised July 2015
+Eatontown, NJ 07724
 
-© RLI, 2015
+10001143/09 Revised June 2016
