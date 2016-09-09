@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-In a Phase III clinical trials performed in support of once-daily dosing, 799 subjects with otitis externa and intact tympanic membranes were treated with ofloxacin otic solution.
+Otitis Externa In a Phase III clinical trial performed in support of once-daily dosing, 799 subjects with otitis externa and intact tympanic membranes were treated with Ofloxacin Otic Solution.
 The studies, which served as the basis for approval, were 020 (pediatric, adolescents and adults), 016 (adolescents and adults) and 017 (pediatric).
 The following treatment-related adverse events occurred in 2 or more of the subjects:
 
@@ -22,13 +22,13 @@ This finding is believed to be the result of specific questioning of the subject
 
 In once daily dosing studies, there were also single reports of nausea, seborrhea, transient loss of hearing, tinnitus, otitis externa, otitis media, tremor, hypertension and fungal infection.
 
-In twice daily dosing studies, the following treatment-related adverse events were each reported in a single subject: dermatitis, eczema, erythematous rash, follicular rash, hypoaesthesia, tinnitus, dyspepsia, hot flushes, flushing and otorrhagia.
+In twice daily dosing studies, the following treatment-related adverse events were each reported in a single subject: dermatitis, eczema, erythematous rash, follicular rash, hypoaesthesia, tinnitus, dyspepsia, hot flushes, flushing and otorrhagia
 
 Subjects with Acute Otitis Media with Tympanostomy Tubes (AOM TT) and Subjects with Chronic Suppurative Otitis Media (CSOM) with PerforatedTympanic Membranes
 
-In phase III clinical trials which formed the basis for approval, the following treatment-related adverse events occurred in 1% or more of the 656 subjects with non-intact membranes in AOM TT or CSOM treated twice daily with ofloxacin otic solution:
+In phase III clinical trials which formed the basis for approval, the following treatment-related adverse events occurred in 1% or more of the 656 subjects with non-intact membranes in AOM TT or CSOM treated twice daily with Ofloxacin Otic Solution:
 
-| Adverse Event | Incidence (n = 656) |
+| Adverse Event | Incidence (N = 656) |
 | --- | --- |
 | Taste Perversion | 7% |
 | Earache | 1% |
@@ -43,4 +43,6 @@ The following treatment-related adverse events were each reported in a single su
 ## Post-Marketing Adverse Events
 
 Cases of uncommon transient neuropsychiatric disturbances have been included in spontaneous postmarketing reports.
-A causal relationship with ofloxocin otic solution 0.3% is unknown.
+A causal relationship with Ofloxacin Otic Solution 0.3% is unknown.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

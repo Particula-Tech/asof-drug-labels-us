@@ -2,10 +2,12 @@
 
 NDC 24208-410-10
 
-Bausch & Lomb
+Ofloxacin Otic Solution 0.3% (Sterile)
 
-Ofloxacin Otic Solution, 0.3% (Sterile)
+FOR USE IN EARS ONLY
 
 Rx only
 
-[ear icon] USE IN EARS ONLY 10 mL
+10 mL
+
+BAUSCH + LOMB
