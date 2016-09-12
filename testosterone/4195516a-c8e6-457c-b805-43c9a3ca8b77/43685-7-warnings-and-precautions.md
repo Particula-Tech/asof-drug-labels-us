@@ -16,7 +16,14 @@ To date, epidemiologic studies and randomized controlled trials have been inconc
 Some studies, but not all, have reported an increased risk of MACE in association with use of testosterone replacement therapy in men.
 Patients should be informed of the possible risk when deciding whether to use or to continue to use testosterone cypionate.
 
-Edema, with or without congestive heart failure, may be a serious complication in patients with pre-existing cardiac, renal or hepatic disease.
+Testosterone has been subject to abuse, typically at doses higher than recommended for the approved indication and in combination with other anabolic steroids.
+This type of testosterone abuse can lead to serious cardiovascular and psychiatric adverse reactions [see Drug Abuse and Dependence].
+
+If testosterone abuse is suspected, check serum testosterone concentrations to ensure they are within therapeutic range.
+Counsel patients concerning the serious adverse reactions associated with testosterone and anabolic steroid abuse.
+Conversely, consider the possibility of testosterone and anabolic steroid abuse in patients who present with serious cardiovascular or psychiatric adverse events.
+
+Edema, with or without congestive heart failure, may be a serious complication in patients with preexisting cardiac, renal or hepatic disease.
 
 Gynecomastia may develop and occasionally persists in patients being treated for hypogonadism.
 
@@ -52,7 +59,9 @@ Testosterone cypionate is not for intravenous use.
 
 Patients should be instructed to report any of the following: nausea, vomiting, changes in skin color, ankle swelling, too frequent or persistent erections of the penis.
 
-Laboratory tests: Hemoglobin and hematocrit levels (to detect polycythemia) should be checked periodically in patients receiving long-term androgen administration.
+## Laboratory tests:
+
+Hemoglobin and hematocrit levels (to detect polycythemia) should be checked periodically in patients receiving long-term androgen administration.
 
 Serum cholesterol may increase during androgen therapy.
 
@@ -77,7 +86,7 @@ Free thyroid hormone levels remain unchanged, however, and there is no clinical 
 Testosterone has been tested by subcutaneous injection and implantation in mice and rats.
 The implant induced cervical-uterine tumors in mice, which metastasized in some cases.
 There is suggestive evidence that injection of testosterone into some strains of female mice increases their susceptibility to hepatoma.
-Testosterone is also known to increase the number of tumors and decrease the degree of differentiation of chemically induced carcinomas of the liver in rats.
+Testosterone is also known to increase the number of tumors and decrease the degree of differentiation of chemically-induced carcinomas of the liver in rats.
 
 ### Human data.
 
@@ -91,8 +100,6 @@ Geriatric patients treated with androgens may be at an increased risk of develop
 ### Teratogenic Effects.
 
 Pregnancy Category X. (See CONTRAINDICATIONS.)
-Benzyl alcohol can cross the placenta.
-See WARNINGS.
 
 ## Nursing mothers:
 

@@ -26,6 +26,7 @@ Generally, the amount of this sex-hormone binding globulin in the plasma will de
 
 About 90 percent of a dose of testosterone is excreted in the urine as glucuronic and sulfuric acid conjugates of testosterone and its metabolites; about 6 percent of a dose is excreted in the feces, mostly in the unconjugated form.
 Inactivation of testosterone occurs primarily in the liver.
+
 Testosterone is metabolized to various 17-keto steroids through two different pathways.
 
 The half-life of testosterone cypionate when injected intramuscularly is approximately eight days.

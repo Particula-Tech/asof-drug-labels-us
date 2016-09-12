@@ -7,7 +7,7 @@ Oligospermia may occur at high dosages.
 
 Skin and appendages: Hirsutism, male pattern of baldness, seborrhea, and acne.
 
-Cardiovascular Disorders: myocardial infarction, stroke.
+Cardiovascular Disorders: myocardial infarction, stroke
 
 Fluid and electrolyte disturbances: Retention of sodium, chloride, water, potassium, calcium, and inorganic phosphates.
 
