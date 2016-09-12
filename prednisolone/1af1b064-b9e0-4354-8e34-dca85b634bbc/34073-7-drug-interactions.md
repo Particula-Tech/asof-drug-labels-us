@@ -20,5 +20,5 @@
   The clearance of salicylates may be increased with concurrent use of corticosteroids.
 - Potassium-depleting agents (e.g., diuretics, Amphotericin B): When corticosteroids are administered concomitantly with potassium-depleting agents, patients should be observed closely for development of hypokalemia.
 - Skin Test: Corticosteroids may suppress reactions to skin tests.
-- Toxoids and live or inactivated Vaccines: Due to inhibition of antibody response, patients on prolonged corticosteroid therapy ma exhibit a diminished response, patients on prolonged corticosteroid therapy may exhibit a diminished response to toxoids and liver or inactivated vaccines.
+- Toxoidsand live or inactivated Vaccines: Due to inhibition of antibody response, patients on prolonged corticosteroid therapy ma exhibit a diminished response, patients on prolonged corticosteroid therapy may exhibit a diminished response to toxoids and liver or inactivated vaccines.
   Corticosteroids may also potentiate the replication of some organisms contained in live attenuated vaccines.
