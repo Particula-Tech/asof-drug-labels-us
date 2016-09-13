@@ -7,7 +7,7 @@ Pharmacokinetic studies have not been conducted in the primary patient populatio
 ## Absorption:
 
 Peak plasma levels of phenylbutyrate occur within 1 hour after a single dose of 5 grams of sodium phenylbutyrate tablet with a Cmax of 218 µg/mL under fasting conditions; peak plasma levels of phenylbutyrate occur within 1 hour after a single dose of 5 grams of sodium phenylbutyrate powder with a Cmax of 195 µg/mL under fasting conditions.
-The effect of food on phenylbutyrate’s absorption is unknown.
+The effect of food on phenylbutyrate's absorption is unknown.
 
 ## Disposition:
 

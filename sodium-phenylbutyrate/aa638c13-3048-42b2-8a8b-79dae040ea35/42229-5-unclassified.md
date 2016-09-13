@@ -7,7 +7,7 @@ Rx only
 # NUTRITIONAL MANAGEMENT
 
 To promote growth and development, plasma levels of ammonia, arginine, branched-chain amino acids, and serum protein should be maintained within normal limits while plasma glutamine is maintained at levels less than 1,000 µmol/L.
-Minimum daily protein intake for a patient of a particular age should be taken from, for example, “Recommended Dietary Allowances”, 10th ed., Food and Nutrition Board, National Academy of Sciences, 1989.
+Minimum daily protein intake for a patient of a particular age should be taken from, for example, "Recommended Dietary Allowances", 10th ed., Food and Nutrition Board, National Academy of Sciences, 1989.
 The allocation of dietary nitrogen into natural protein and essential amino acids is a function of age, residual urea-cycle enzyme activity, and the dose of sodium phenylbutyrate.
 At the recommended dose of sodium phenylbutyrate, it is suggested that infants with neonatal-onset CPS and OTC deficiencies initially receive a daily dietary protein intake limited to approximately 1.6 g/kg/day for the first 4 months of life.
 If tolerated, the daily protein intake may be increased to 1.9 g/kg/day during this period.
@@ -22,4 +22,4 @@ Citrulline supplementation is required and recommended for patients diagnosed wi
 The free-base form of arginine may be used instead of citrulline in patients with ­milder forms of carbamylphosphate synthetase and ornithine transcarbamylase deficiency (daily intake is recommended at 0.17 g/kg/day or 3.8 g/m2/day).
 Arginine supplementation is needed for patients diagnosed with deficiency of argininosuccinic acid synthetase; arginine (free base) daily intake is recommended at 0.4–0.7 g/kg/day or 8.8–15.4 g/m2/day.
 If caloric supplementation is indicated, a protein-free product is recommended.
-Caloric intake should be based upon the “Recommended Dietary Allowances”, 10th ed., Food and Nutrition Board, National Research Council, National Academy of Sciences, 1989.
+Caloric intake should be based upon the "Recommended Dietary Allowances", 10th ed., Food and Nutrition Board, National Research Council, National Academy of Sciences, 1989.

@@ -17,7 +17,7 @@ In patients diagnosed during gestation and treated prior to any episode of hyper
 In late-onset deficiency patients, including females heterozygous for ornithine transcarbamylase deficiency, who recover from hyperammonemic encephalopathy and are then treated chronically with sodium phenylbutyrate and dietary protein restriction, the survival rate is 98%.
 The two deaths in this group of patients occurred during episodes of hyperammonemic encephalopathy.
 However, compliance with the therapeutic regimen has not been adequately documented to allow evaluation of the potential for BUPHENYL and dietary protein restriction to prevent mental deterioration and recurrence of hyperammonemic encephalopathy if carefully adhered to.
-The majority of these patients tested (30/46 or 65%) have IQ’s in the average to low average/borderline mentally retarded range.
+The majority of these patients tested (30/46 or 65%) have IQ's in the average to low average/borderline mentally retarded range.
 Reversal of pre-existing neurologic impairment is not likely to occur with treatment and neurologic deterioration may continue in some patients.
 Even on therapy, acute hyperammonemic encephalopathy recurred in the majority of patients for whom the drug is indicated.
 BUPHENYL may be required life-long unless orthotopic liver transplantation is elected.

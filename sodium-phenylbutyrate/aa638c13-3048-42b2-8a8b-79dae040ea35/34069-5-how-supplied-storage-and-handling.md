@@ -2,7 +2,7 @@
 
 BUPHENYL Tablets are available in 250 cc bottles which contain 250 sodium phenylbutyrate tablets (NDC 76325-496-03).
 The bottles are equipped with child-resistant caps.
-Each tablet is off-white, oval, and embossed with “UCY 500”.
+Each tablet is off-white, oval, and embossed with "UCY 500".
 Each tablet contains 500 mg of sodium phenylbutyrate.
 STORE AT ROOM TEMPERATURE 15ºC–30ºC (59ºF–86ºF).
 AFTER OPENING, KEEP BOTTLE TIGHTLY CLOSED.
