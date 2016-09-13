@@ -92,7 +92,7 @@ Adverse events are listed regardless of presumed causality to study drug.
 
 Table 7: Percentage of Patients with Adverse Events ≥ 10% Reported in Three Bone Metastases Clinical Trials by Body System
 
-|  | Zoledronic Acid Injection 4 mg |  | Pamidronate 90mg |  | Placebo |  |
+|  | Zoledronic Acid Injection 4 mg |  | Pamidronate 90 mg |  | Placebo |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | n | (%) | n | (%) | n | (%) |
 | Patients Studied |  |  |  |  |  |  |
@@ -173,7 +173,7 @@ There have been instances of this occurring after the initial zoledronic acid do
 The following adverse reactions have been reported during post-approval use of zoledronic acid.
 Because these reports are from a population of uncertain size and are subject to confounding factors, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Osteonecrosis of the Jaw Cases of osteonecrosis (primarily involving the jaws) have been reported predominantly in cancer patients treated with intravenous bisphosphonates including zoledronic acid.
+Osteonecrosis of the Jaw Cases of osteonecrosis (primarily involving the jaw but also of other anatomical sites including hip, femur and external auditory canal)have been reported predominantly in cancer patients treated with intravenous bisphosphonates including zoledronic acid.
 Many of these patients were also receiving chemotherapy and corticosteroids which may be a risk factor for ONJ.
 Caution is advised when zoledronic acid is administered with anti-angiogenic drugs as an increased incidence of ONJ has been observed with concomitant use of these drugs.
 Data suggests a greater frequency of reports of ONJ in certain cancers, such as advanced breast cancer and multiple myeloma.

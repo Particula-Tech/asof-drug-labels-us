@@ -4,7 +4,8 @@
 - Patients should be informed of the importance of getting their blood tests (serum creatinine) during the course of their zoledronic acid therapy.
 - Zoledronic acid should not be given if the patient is pregnant or plans to become pregnant, or if she is breast feeding.
 - Patients should be advised to have a dental examination prior to treatment with zoledronic acid and should avoid invasive dental procedures during treatment.
-- Patients should be informed of the importance of good dental hygiene and routine dental care.
+- Patients should be informed of the importance of good dental hygiene, routine dental care and regular dental check-ups.
+- Patients should be advised to immediately tell their doctor about any oral symptoms such as loosening of a tooth, pain, swelling, or non-healing of sores or discharge during treatment with zoledronic acid.
 - Patients with multiple myeloma and bone metastasis of solid tumors should be advised to take an oral calcium supplement of 500 mg and a multiple vitamin containing 400 international units of vitamin D daily.
 - Patients should be advised to report any thigh, hip or groin pain.
   It is unknown whether the risk of atypical femur fracture continues after stopping therapy.
@@ -19,4 +20,4 @@ Estrada do Rio da Mó, 8, 8A e 8B – Fervença – 2705-906 Terrugem SNT, PORTU
 
 Distributed by: WEST-WARD PHARMACEUTICALS CORP. Eatontown, NJ 07724 USA
 
-Revised: December 2015 PIN307-WES/4
+Revised: September 2016 PIN307-WES/5
