@@ -8,7 +8,7 @@ The tablet is coded with the word “BAYER” on one side and “M400” on the 
 
 | Package | NDC Code |
 | --- | --- |
-| Bottles of 30: | 50419-530-01 |
+| Bottles of 30: | 0085-1733-01 |
 
 Store at 25°C (77°F); excursions permitted to 15–30°C (59–86°F) [see USP Controlled Room Temperature].
 Avoid high humidity.
@@ -21,7 +21,7 @@ No further dilution of this preparation is necessary.
 
 | Package | NDC Code |
 | --- | --- |
-| 250 mL flexible container | 50419-537-01 |
+| 250 mL flexible container | 0085-1737-01 |
 
 Store at 25°C (77°F); excursions permitted to 15–30°C (59–86°F) [see USP Controlled Room Temperature].
 
