@@ -29,7 +29,7 @@ The vaginal delivery of estrogens circumvents first-pass metabolism.
 
 In a single-center, randomized, open-label, multiple-dose, parallel group study conducted in 58 patients, Vagifem 10 mcg and 25 mcg demonstrated a mean estradiol (E2) Cave at Day 83 of 5.5 pg/mL and 11.59 pg/mL, respectively after 12 weeks of treatment (see Tables 3 and 4).
 
-Table 3: Arithmetic Means of Estradiol (E2), Estrone (E1), and Estrone Sulfate (E1S) PK Parameters Following Multiple DosesPatients received vaginal tablets as a once daily intravaginal treatment for the first 2 weeks and a twice weekly intravaginal maintenance for the following 10 weeks. of Vagifem 10 mcg
+Table 3: Arithmetic Means of Estradiol (E2), Estrone (E1), and Estrone Sulfate (E1S) PK Parameters Following Multiple DosesPatients received vaginal inserts as a once daily intravaginal treatment for the first 2 weeks and a twice weekly intravaginal maintenance for the following 10 weeks. of Vagifem 10 mcg
 
 | Uncorrected for baseline, N=29 |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -39,7 +39,7 @@ Table 3: Arithmetic Means of Estradiol (E2), Estrone (E1), and Estrone Sulfate (
 | Day 14 | 176.49 | 7.35 | 43.69 | 496.14 | 20.67 | 30.88 | 6323.41 | 263.48 | 50.07 |
 | Day 83 | 132.04 | 5.50 | 59.69 | 411.08 | 17.13 | 39.58 | 3804.65 | 158.53 | 49.76 |
 
-Table 4: Arithmetic Means of Estradiol (E2), Estrone (E1), and Estrone Sulfate (E1S) PK Parameters Following Multiple DosesPatients received vaginal tablets as a once daily intravaginal treatment for the first 2 weeks and a twice weekly intravaginal maintenance for the following 10 weeks. of Vagifem 25 mcg
+Table 4: Arithmetic Means of Estradiol (E2), Estrone (E1), and Estrone Sulfate (E1S) PK Parameters Following Multiple DosesPatients received vaginal inserts as a once daily intravaginal treatment for the first 2 weeks and a twice weekly intravaginal maintenance for the following 10 weeks. of Vagifem 25 mcg
 
 | Uncorrected for baseline, NN=28 for treatment before Day 14 and N=27 for treatments from Day 14.=28 or 27 |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

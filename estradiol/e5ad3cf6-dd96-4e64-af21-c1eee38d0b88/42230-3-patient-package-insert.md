@@ -8,7 +8,7 @@ This information does not take the place of talking to your healthcare provider 
 
 What is Vagifem?
 
-Vagifem is a medicine that contains estradiol (an estrogen hormone) in a vaginal tablet.
+Vagifem is a medicine that contains estradiol (an estrogen hormone) in a vaginal insert.
 
 What is Vagifem used for?
 
@@ -51,7 +51,7 @@ Tell your healthcare provider:
 
 How should I use Vagifem?
 
-Vagifem is a tablet that you place in your vagina with an applicator.
+Vagifem is an insert that you place in your vagina with an applicator.
 
 - •Take the dose recommended by your healthcare provider and talk to him or her about how well that dose is working for you
 - •Estrogens should be used at the lowest dose possible for your treatment only as long as needed
@@ -59,8 +59,8 @@ Vagifem is a tablet that you place in your vagina with an applicator.
 
 Step 1: Tear off a single applicator.
 
-Step 2: Separate the plastic wrap and remove the applicator from the plastic wrap as shown in Figure A. If after opening the package you see that the tablet has come out of the applicator but has not fallen out of the package, carefully put it back into the applicator for insertion.
-Please keep your hands clean and dry while handling the tablet.
+Step 2: Separate the plastic wrap and remove the applicator from the plastic wrap as shown in Figure A. If after opening the package you see that the insert has come out of the applicator but has not fallen out of the package, carefully put it back into the applicator for insertion.
+Please keep your hands clean and dry while handling the insert.
 
 Step 3: Hold the applicator so that the finger of one hand can press the applicator plunger as shown in Figure B.
 
@@ -68,12 +68,12 @@ Step 4: Next select the best position for vaginal insertion of Vagifem (estradio
 See suggested reclining Figure C or standing Figure D position illustrated below:
 
 Step 5: Using the other hand, guide the applicator gently and comfortably through the vaginal opening (see Figures C and D above).
-If prior to insertion the tablet falls out of the applicator, throw the tablet and applicator away and use a new tablet-filled applicator.
+If prior to insertion the insert falls out of the applicator, throw the insert and applicator away and use a new insert-filled applicator.
 
 Step 6: The applicator should be inserted (without forcing) as far as comfortably possible, or until half of the applicator is inside your vagina, whichever is less.
 
-Step 7: Once the tablet-filled applicator has been inserted, gently press the plunger until the plunger is fully depressed.
-This will eject the tablet inside your vagina where it will dissolve slowly over several hours.
+Step 7: Once the insert-filled applicator has been inserted, gently press the plunger until the plunger is fully depressed.
+This will eject the insert inside your vagina where it will dissolve slowly over several hours.
 
 Step 8: After depressing the plunger, gently remove the applicator and dispose of it the same way you would a plastic tampon applicator.
 The applicator is of no further use and should be discarded properly.
@@ -85,7 +85,7 @@ Dosage
 
 Vagifem therapy consists of the following dosing regimen:
 
-One (1) Vagifem tablet inserted vaginally once daily for the first two (2) weeks, then one (1) tablet inserted twice weekly (for example Tuesday and Friday) for as long as you use Vagifem.
+One (1) Vagifem insert intravaginally once daily for the first two (2) weeks, then one (1) insert twice weekly (for example Tuesday and Friday) for as long as you use Vagifem.
 
 What are the possible side effects of Vagifem?
 
@@ -158,12 +158,12 @@ You can get more information by calling the toll free number 1-888-824-4336.
 
 What are the ingredients in Vagifem?
 
-Vagifem (estradiol vaginal inserts) are small, white, film-coated tablets containing estradiol.
-Each tablet also contains hypromellose, lactose monohydrate, maize starch and magnesium stearate.
+Vagifem (estradiol vaginal inserts) are small, white, film-coated inserts containing estradiol.
+Each insert also contains hypromellose, lactose monohydrate, maize starch and magnesium stearate.
 The film coating contains hypromellose and polyethylene glycol.
 
-Each Vagifem tablet is contained in a disposable applicator, packaged in a blister pack.
-Cartons contain 8 or 18 applicators with inset tablets.
+Each Vagifem insert is contained in a disposable applicator, packaged in a blister pack.
+Cartons contain 8 or 18 applicators with inset inserts.
 
 Store at 25ºC (77ºF); excursions permitted to 15ºC to 30ºC (59ºF to 86ºF).
 Do not refrigerate.
@@ -174,7 +174,7 @@ Vagifem® is a registered trademark owned by Novo Nordisk Health Care AG.
 
 © 2003-2016 Novo Nordisk
 
-Date of Issue: 7/2016
+Date of Issue: 8/2016
 
 For information contact:
 

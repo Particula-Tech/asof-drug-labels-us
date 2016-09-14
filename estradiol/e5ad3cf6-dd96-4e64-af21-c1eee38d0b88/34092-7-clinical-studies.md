@@ -5,7 +5,7 @@
 Vagifem 10 mcg
 
 A 12-month double-blind, randomized, parallel group, placebo-controlled multicenter study was conducted in the U.S. and Canada to evaluate the efficacy and safety of Vagifem 10 mcg in the treatment of atrophic vaginitis in 309 postmenopausal women between 46 and 81 years of age (mean 57.6 years of age) who at baseline identified their most bothersome symptom of atrophic vaginitis from among six symptoms (vaginal dryness, vaginal and/or vulvar irritation/itching, vaginal soreness, dysuria, dyspareunia and vaginal bleeding associated with intercourse).
-Women inserted one tablet intravaginally each day for 14 days, then one tablet twice weekly for the remaining 50 weeks.
+Women inserted one insert intravaginally each day for 14 days, then one insert twice weekly for the remaining 50 weeks.
 The majority (92.9 percent) of the women were Caucasian (n=287), 3.2 percent were Black (n=10), 1.6 percent were Asian (n=5) and 2.2 percent were Other (n=7).
 All subjects were assessed for improvement in the mean change from baseline to Week 12 for co-primary efficacy variables of: a composite of most bothersome symptoms of atrophic vaginitis; percentage of vaginal superficial cells and percentage of vaginal parabasal cells on a vaginal smear; and vaginal pH.
 
@@ -37,8 +37,8 @@ Two subjects exhibited polyps.
 
 Vagifem 25 mcg
 
-A placebo-controlled comparison study was done in the U.S., in which 230 women were randomized to receive either placebo, Vagifem 25 mcg or 10 mcg estradiol vaginal tablets.
-Women inserted one tablet intravaginally each day for 14 days, then one tablet twice weekly for the remaining 10 weeks.
+A placebo-controlled comparison study was done in the U.S., in which 230 women were randomized to receive either placebo, Vagifem 25 mcg or 10 mcg estradiol vaginal inserts.
+Women inserted one insert intravaginally each day for 14 days, then one insert twice weekly for the remaining 10 weeks.
 All subjects were assessed for vaginal symptoms.
 Vagifem 25 mcg was superior to placebo in reducing the severity of a composite score of symptoms associated with atrophic vaginitis (see Table 6).
 
