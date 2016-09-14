@@ -4,7 +4,7 @@
 
 NDC 50111-433-01
 
-TraZODONE HYDROCHLORIDE Tablets USP 50 mg
+TraZODONE Hydrochloride Tablets USP 50 mg
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
@@ -20,7 +20,7 @@ TEVA
 
 NDC 50111-434-01
 
-TraZODONE HYDROCHLORIDE Tablets USP 100 mg
+TraZODONE Hydrochloride Tablets USP 100 mg
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
@@ -36,7 +36,7 @@ TEVA
 
 NDC 50111-441-01
 
-TraZODONE HYDROCHLORIDE Tablets USP 150 mg
+TraZODONE Hydrochloride Tablets USP 150 mg
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 

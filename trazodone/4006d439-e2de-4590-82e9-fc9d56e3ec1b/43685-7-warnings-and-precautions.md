@@ -18,10 +18,10 @@ These risk differences (drug-placebo difference in the number of cases of suicid
 | Table 1 |  |
 | --- | --- |
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1,000 Patients Treated |
-| Increases Compared to Placebo |  |
+|  | Increases Compared to Placebo |
 | < 18 | 14 additional cases |
 | 18 to 24 | 5 additional cases |
-| Decreases Compared to Placebo |  |
+|  | Decreases Compared to Placebo |
 | 25 to 64 | 1 fewer case |
 | ≥ 65 | 6 fewer cases |
 
@@ -133,7 +133,7 @@ Patients should be cautioned about operating hazardous machinery, including auto
 
 ## 5.12 Angle-Closure Glaucoma
 
-Angle-Closure Glaucoma: The pupillary dilation that occurs following use of many antidepressant drugs including trazodone hydrochloride tablets may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy
+Angle-Closure Glaucoma: The pupillary dilation that occurs following use of many antidepressant drugs including trazodone hydrochloride tablets may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
 
 ## 5.13 Discontinuation Symptoms
 
