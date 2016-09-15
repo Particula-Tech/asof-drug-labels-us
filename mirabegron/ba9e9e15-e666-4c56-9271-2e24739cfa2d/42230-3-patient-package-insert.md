@@ -77,6 +77,9 @@ The most common side effects of MYRBETRIQ® include:
 - •increased blood pressure
 - •common cold symptoms (nasopharyngitis)
 - •urinary tract infection
+- •constipation
+- •diarrhea
+- •dizziness
 - •headache
 
 Tell your doctor if you have any side effect that bothers you or that does not go away or if you have swelling of the face, lips, tongue, or throat, hives, skin rash or itching while taking MYRBETRIQ®.
@@ -126,6 +129,6 @@ Marketed and Distributed by: Astellas Pharma US, Inc. Northbrook, Illinois 60062
 
 MYRBETRIQ® is a registered trademark of Astellas Pharma Inc. All other trademarks or registered trademarks are the property of their respective owners.
 
-© 2015 Astellas Pharma US, Inc.
+© 2016 Astellas Pharma US, Inc.
 
-Revised: December 2015 15L110-MIR
+Revised: August 2016 16A006-MIR

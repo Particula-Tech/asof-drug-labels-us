@@ -77,7 +77,9 @@ Because these spontaneously reported events are from the worldwide postmarketing
 
 The following events have been reported in association with mirabegron use in worldwide postmarketing experience:
 
-Gastrointestinal disorders: nausea
+Gastrointestinal disorders: nausea, constipation, diarrhea
+
+Nervous system disorders: dizziness, headache
 
 Skin and subcutaneous tissue: angioedema of the face, lips, tongue, and larynx, with or without respiratory symptoms [see Warnings and Precautions (5.3)]; pruritus
 
