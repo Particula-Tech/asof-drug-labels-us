@@ -19,6 +19,10 @@ These scales measure general feelings of euphoria and drug desirability.
 Findings in clinical trials, however, are not known to reliably predict the abuse potential of drugs.
 Nonetheless, evidence from single-dose studies does suggest that the recommended daily dosage of bupropion when administered in divided doses is not likely to be significantly reinforcing to amphetamine or CNS stimulant abusers.
 
+The inhalation of crushed tablets or injection of dissolved bupropion has been reported.
+Seizures and/or cases of death have been reported when bupropion has been administered intranasally or by parenteral injection.
+CONTRAVE (naltrexone HCl and bupropion HCl) extended-release tablets are intended for oral use only.
+
 Animals
 
 Studies in rodents and primates have shown that bupropion exhibits some pharmacologic actions common to psychostimulants.

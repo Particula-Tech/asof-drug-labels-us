@@ -221,6 +221,6 @@ All other trademarks are the property of their respective owners.
 
 ©2016 Orexigen Therapeutics, Inc.
 
-Revised: July 2016
+Revised: September 2016
 
-LBL-00021
+LBL-00022
