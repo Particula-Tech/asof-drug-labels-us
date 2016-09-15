@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA205014"
+  ],
+  "inn": "naloxone",
+  "labeler": "Mylan Institutional LLC",
+  "package_ndcs": [
+    "67457-299-00",
+    "67457-299-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "naloxone hydrochloride",
+      "name": "Naloxone Hydrochloride"
+    }
+  ],
+  "setid": "d96ebf2e-1051-4b5b-b1c6-2543dbbb2d04",
+  "source": "dailymed"
+}
