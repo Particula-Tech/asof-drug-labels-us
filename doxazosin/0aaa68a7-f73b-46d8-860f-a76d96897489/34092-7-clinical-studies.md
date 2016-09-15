@@ -38,7 +38,7 @@ In the same patient population, patients receiving doxazosin mesylate gained a m
 
 TABLE 4
 
-Mean Changes in Blood Pressure from Baseline to the Mean of the Final Efficacy Phase in Normotensives (Diastolic BP <90 mmHg) in Two Double-blind, Placebo-controlled U.S. Studies with doxazosin mesylate 1 to 8 mg once daily.
+Mean Changes in Blood Pressure from Baseline to the Mean of the Final Efficacy Phase in Normotensives (Diastolic BP <90 mmHg) in Two Double-blind, Placebo-controlled U.S. Studies with Doxazosin Mesylate 1 to 8 mg once daily.
 
 |  | PLACEBO (N=85) |  | Doxazosin Mesylate (N=183) |  |
 | --- | --- | --- | --- | --- |
