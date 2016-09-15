@@ -1,155 +1,187 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions are described elsewhere in the labelling:
+The following serious adverse reactions are described elsewhere in the labeling:
 
 - Hypotension, bradycardia, and syncope [see Warnings and Precautions (5.1)]
 - Sedation and somnolence [see Warnings and Precautions (5.2)]
+- Cardiac conduction abnormalities [see Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-A total of 2,028 subjects have been exposed to guanfacine extended-releasewhile participating in clinical trials.
-This includes 1,533 patients from completed studies in children and adolescents, and 495 subjects in completed studies in adult healthy volunteers.
+The data described below reflect clinical trial exposure to guanfacine extended-release in 2,028 patients.
+This includes 1,533 patients from completed studies in children and adolescents, ages 6 to 17 years and 495 patients in completed studies in adult healthy volunteers.
 
 The mean duration of exposure of 446 patients that previously participated in two 2-year, open-label long-term studies was approximately 10 months.
 
-Monotherapy Trials
+Fixed Dose Trials
 
-Most Common Adverse Reactions - The most commonly observed adverse reactions (incidence greater than or equal to 5% and at least twice the rate for placebo) in the monotherapy trials (Studies 1 and 2) with guanfacine extended-releasewere: somnolence, fatigue, nausea, lethargy, and hypotension.
+Table 3: Percentage of Patients Experiencing Most Common (≥5% and at least twice the rate for placebo) Adverse Reactions in Fixed Dose Studies 1 and 2
 
-Adverse Reactions Leading to Discontinuation - Twelve percent (12%) of patients receiving guanfacine extended-release discontinued from the monotherapy clinical studies (Studies 1 and 2) due to adverse reactions, compared to 4% in the placebo group.
-The most common adverse reactions leading to discontinuation of guanfacine extended-release-treated patients from the studies were somnolence/sedation (6%) and fatigue (2%).
-Less common adverse reactions leading to discontinuation (occurring in approximately 1% of patients) included: hypotension, headache, and dizziness.
+|  |  | Guanfacine Extended-Release (mg) |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Adverse Reaction Term | Placebo (N=149) | 1 mg* (N=61) | 2 mg (N=150) | 3 mg (N=151) | 4 mg (N=151) | All Doses of Guanfacine Extended-Release (N=513) |
+| Somnolencea | 11% | 28% | 30% | 38% | 51% | 38% |
+| Fatigue | 3% | 10% | 13% | 17% | 15% | 14% |
+| Hypotensionb | 3% | 8% | 5% | 7% | 8% | 7% |
+| Dizziness | 4% | 5% | 3% | 7% | 10% | 6% |
+| Lethargy | 3% | 2% | 3% | 8% | 7% | 6% |
+| Nausea | 2% | 7% | 5% | 5% | 6% | 6% |
+| Dry mouth | 1% | 0% | 1% | 6% | 7% | 4% |
+| *The lowest dose of 1 mg used in Study 2 was not randomized to patients weighing more than 50 kg. aThe somnolence term includes somnolence, sedation, and hypersomnia. bThe hypotension term includes hypotension, diastolic hypotension, orthostatic hypotension, blood pressure decreased, blood pressure diastolic decreased, blood pressure systolic decreased). |  |  |  |  |  |  |
+
+Table 4: Adverse Reactions Leading to Discontinuation (≥2% for all doses of Guanfacine Extended-Release and > rate in placebo) in Fixed Dose Studies 1 and 2
+
+|  |  | Guanfacine Extended-Release (mg) |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Adverse Reaction Term | Placebo (N=149) | 1 mg* (N=61) | 2 mg (N=150) | 3 mg (N=151) | 4 mg (N=151) | All Doses of Guanfacine Extended-Release (N=513) |
+|  | n (%) | n (%) | n (%) | n (%) | n (%) | n (%) |
+| Total patients | 4 (3%) | 2 (3%) | 10 (7%) | 15 (10%) | 27 (18%) | 54 (11%) |
+| Somnolencea | 1 (1%) | 2 (3%) | 5 (3%) | 6 (4%) | 17 (11%) | 30 (6%) |
+| Fatigue | 0 (0%) | 0 (0%) | 2 (1%) | 2 (1%) | 4 (3%) | 8 (2%) |
+| Adverse reactions leading to discontinuation in ≥ 2% in any dose group but did not meet this criteria in all doses combined: hypotension (hypotension, diastolic hypotension, orthostatic hypotension, blood pressure decreased, blood pressure diastolic decreased, blood pressure systolic decreased), headache, and dizziness. *The lowest dose of 1 mg used in Study 2 was not randomized to patients weighing more than 50 kg. aThe somnolence term includes somnolence, sedation, and hypersomnia. |  |  |  |  |  |  |
+
+Table 5: Other Common Adverse Reactions (≥2%for all doses of Guanfacine Extended-Release and > rate than in placebo) in Fixed Dose Studies 1 and 2
+
+|  |  | Guanfacine Extended-Release (mg) |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Adverse Reaction Term | Placebo (N=149) | 1 mg* (N=61) | 2 mg (N=150) | 3 mg (N=151) | 4 mg (N=151) | All Doses of Guanfacine Extended-Release (N=513) |
+| Headache | 19% | 26% | 25% | 16% | 28% | 23% |
+| Abdominal Paina | 9% | 10% | 7% | 11% | 15% | 11% |
+| Decreased Appetite | 4% | 5% | 4% | 9% | 6% | 6% |
+| Irritability | 4% | 5% | 8% | 3% | 7% | 6% |
+| Constipation | 1% | 2% | 2% | 3% | 4% | 3% |
+| Nightmareb | 0% | 0% | 0% | 3% | 4% | 2% |
+| Enuresisc | 1% | 0% | 1% | 3% | 2% | 2% |
+| Affect Labilityd | 1% | 2% | 1% | 3% | 1% | 2% |
+| Adverse reactions ≥ 2% for all doses of guanfacine extended-release and > rate in placebo in any dose group but did not meet this criteria in all doses combined: insomnia (insomnia, initial insomnia, middle insomnia, terminal insomnia, sleep disorder), vomiting, diarrhea, abdominal/stomach discomfort (abdominal discomfort, epigastric discomfort, stomach discomfort), rash (rash, rash generalized, rash papular), dyspepsia, increased weight, bradycardia (bradycardia, sinus bradycardia), asthma (asthma, bronchospasm, wheezing), agitation, anxiety (anxiety, nervousness), sinus arrhythmia, blood pressure increased (blood pressure increased, blood pressure diastolic increased), and first degree atrioventricular block. *The lowest dose of 1 mg used in Study 2 was not randomized to patients weighing more than 50 kg. aThe abdominal pain term includes abdominal pain, abdominal pain lower, abdominal pain upper, and abdominal tenderness. bThe nightmare term includes abnormal dreams, nightmare, and sleep terror. cThe enuresis term includes enuresis, nocturia, and urinary incontinence. dThe affect lability term includes affect lability and mood swings. |  |  |  |  |  |  |
+
+Monotherapy Flexible Dose Trials
+
+Table 6: Percentage of Patients Experiencing Most Common (≥5% and at least twice the rate for placebo) Adverse Reactions in the Monotherapy Flexible Dose Study 4
+
+|  |  | Guanfacine Extended-Release |  |  |
+| --- | --- | --- | --- | --- |
+| Adverse Reaction Term | Placebo (N=112) | AM (N=107) | PM (N=114) | All Doses of Guanfacine Extended-Release (N=221) |
+| Somnolencea | 15% | 57% | 54% | 56% |
+| Abdominal Painb | 7% | 8% | 19% | 14% |
+| Fatigue | 3% | 10% | 11% | 11% |
+| Irritability | 3% | 7% | 7% | 7% |
+| Nausea | 1% | 6% | 5% | 5% |
+| Dizziness | 3% | 6% | 4% | 5% |
+| Vomiting | 2% | 7% | 4% | 5% |
+| Hypotensionc | 0% | 6% | 4% | 5% |
+| Decreased Appetite | 3% | 6% | 3% | 4% |
+| Enuresisd | 1% | 2% | 5% | 4% |
+| aThe somnolence term includes somnolence, sedation, and hypersomnia. bThe abdominal pain term includes abdominal pain, abdominal pain lower, abdominal pain upper, and abdominal tenderness cThe hypotension term includes hypotension, diastolic hypotension, orthostatic hypotension, blood pressure decreased, blood pressure diastolic decreased, blood pressure systolic decreased). dThe enuresis term includes enuresis, nocturia, and urinary incontinence. |  |  |  |  |
+
+Table 7: Adverse Reactions Leading to Discontinuation (≥2% for all doses of Guanfacine Extended-Release and > rate than in placebo) in Monotherapy Flexible Dose Study 4
+
+|  |  | Guanfacine Extended-Release |  |  |
+| --- | --- | --- | --- | --- |
+| Adverse Reaction Term | Placebo (N=112) | AM (N=107) | PM (N=114) | All Doses of Guanfacine Extended-Release (N=221) |
+|  | n (%) | n (%) | n (%) | n (%) |
+| Total patients | 0 (0%) | 8 (7%) | 7 (6%) | 15 (7%) |
+| Somnolencea | 0 (0%) | 4 (4%) | 3 (3%) | 7 (3%) |
+| Adverse reactions leading to discontinuation in greater than or equal to 2% in any dose group bud did not meet this criteria in all doses combined: fatigue aThe somnolence term includes somnolence, sedation, and hypersomnia. |  |  |  |  |
+
+Table 8: Other Common Adverse Reactions (≥2% for all doses of Guanfacine Extended-Release and > rate than in placebo) in the Monotherapy Flexible Dose Study 4
+
+|  |  | Guanfacine Extended-Release |  |  |
+| --- | --- | --- | --- | --- |
+| Adverse Reaction Term | Placebo (N=112) | AM (N=107) | PM (N=114) | All Doses of Guanfacine Extended-Release (N=221) |
+| Headache | 11% | 18% | 16% | 17% |
+| Insomniaa | 6% | 8% | 6% | 7% |
+| Diarrhea | 4% | 4% | 6% | 5% |
+| Lethargy | 0% | 4% | 3% | 3% |
+| Constipation | 2% | 2% | 4% | 3% |
+| Dry Mouth | 1% | 3% | 3% | 3% |
+| Adverse reactions ≥ 2% for all doses of guanfacine extended-release and > rate in placebo in any dose group but did not meet this criteria in all doses combined: affect lability (affect lability, mood swings), increased weight, syncope/loss of consciousness (loss of consciousness, presyncope, syncope), dyspepsia, tachycardia (tachycardia, sinus tachycardia), and bradycardia (bradycardia, sinus bradycardia). aThe insomnia term includes insomnia, initial insomnia, middle insomnia, terminal insomnia, and sleep disorder. |  |  |  |  |
 
 Adjunctive Trial
 
-Most Common Adverse Reactions - The most commonly observed adverse reactions (incidence greater than or equal to 5% and at least twice the rate for placebo) in the adjunctive trial with guanfacine extended-release were: somnolence, fatigue, insomnia, dizziness, and abdominal pain.
+Table 11: Percentage of Patients Experiencing Most Common (≥5% and at least twice the rate for placebo) Adverse Reactions in the Short-Term Adjunctive Study 3
 
-Adverse Reactions Leading to Discontinuation - In the adjunctive clinical study, 3% of patients receiving guanfacine extended-release discontinued due to adverse reactions, compared to 1% in the placebo group.
-Each adverse reaction leading to discontinuation occurred in less than 1% of guanfacine extended-release-treated patients.
+|  |  | Guanfacine Extended-Release + stimulant |  |  |
+| --- | --- | --- | --- | --- |
+| Adverse Reaction Term | Placebo+ stimulant (N=153) | AM (N=150) | PM (N=152) | All Doses (N=302) |
+| Somnolencea | 7% | 18% | 18% | 18% |
+| Insomniab | 6% | 10% | 14% | 12% |
+| Abdominal Painc | 3% | 8% | 12% | 10% |
+| Fatigue | 3% | 12% | 7% | 10% |
+| Dizziness | 4% | 10% | 5% | 8% |
+| Decreased Appetite | 4% | 7% | 8% | 7% |
+| Nausea | 3% | 3% | 7% | 5% |
+| aThe somnolence term includes somnolence, sedation, and hypersomnia. bThe insomnia term includes insomnia, initial insomnia, middle insomnia, terminal insomnia, and sleep disorder. cThe abdominal pain term includes abdominal pain, abdominal pain lower, abdominal pain upper, and abdominal tenderness. |  |  |  |  |
 
-Short Term Monotherapy Clinical Studies
+There were no specific adverse reactions greater than or equal to 2% in any treatment group that led to discontinuation in the short-term adjunctive study (Study 3).
 
-Common Adverse Reactions - Two short-term, placebo-controlled, double-blind pivotal studies (Studies 1 and 2) were conducted in children and adolescents with ADHD, using fixed doses of guanfacine extended-release(1 mg, 2 mg, 3 mg, and 4 mg/day).
-The most commonly reported adverse reactions (occurring in greater than or equal to 2% of patients) that were considered drug-related and reported in a greater percentage of patients taking guanfacine extended-releasecompared to patients taking placebo are shown in Table 2.
-Adverse reactions that were dose-related include: somnolence/sedation, abdominal pain, dizziness, hypotension, dry mouth and constipation.
+Table 12: Other Common Adverse Reactions (≥2% for all doses of Guanfacine Extended-Release and > rate than in placebo) in the Short-Term Adjunctive Study 3
 
-Table 2: Percentage of Patients Experiencing Common (Greater Than or Equal To 2%) Adverse Reactions in Short-Term Monotherapy Studies 1 and 2
-
-|  | (N=513) | (N=149) |
-| --- | --- | --- |
-| Adverse Reaction Term | All Doses of |  |
-|  | Guanfacine Extended-Release | Placebo |
-| Somnolencea | 38% | 12% |
-| Headache | 24% | 19% |
-| Fatigue | 14% | 3% |
-| Abdominal painb | 11% | 9% |
-| Hypotensionc | 7% | 3% |
-| Nausea | 6% | 2% |
-| Lethargy | 6% | 3% |
-| Dizziness | 6% | 4% |
-| Irritability | 6% | 4% |
-| Decreased appetite | 5% | 3% |
-| Dry mouth | 4% | 1% |
-| Constipation | 3% | 1% |
-| a: The somnolence term includes somnolence, sedation, and hypersomnia. |  |  |
-| b: The abdominal pain term includes abdominal pain, abdominal pain upper, and abdominal pain lower. |  |  |
-| c: The hypotension term includes hypotension, orthostatic hypotension, and decreased blood pressure. |  |  |
-
-In an 8-week, placebo-controlled study in children 6 to 12 years of age with ADHD in which guanfacine extended-release was dosed once (1 to 4 mg/day) in the morning or evening (Study 4), the safety profile was consistent with the once daily morning dosing of guanfacine extended-release.
-
-Short Term Adjunctive Clinical Study
-
-Common Adverse Reactions - A 8-week, placebo-controlled, double-blind, dose-optimized pivotal study (Study 3) was conducted in children and adolescents aged 6 to 17 years with a diagnosis of ADHD who were identified as having a sub-optimal response to psychostimulants.
-Patients received guanfacine extended-release (1 mg, 2 mg, 3 mg, and 4 mg/day) or placebo, dosed in the morning or in the evening, in combination with their morning dose of psychostimulant.
-The most commonly reported adverse reactions (occurring in greater than or equal to 2% of patients in the overall guanfacine extended-release group) that were reported in a greater percentage of patients taking guanfacine extended-release compared to patients taking placebo are shown in Table 3.
-
-Table 3: Percentage of Patients Experiencing Common (Greater Than or Equal To 2%) Adverse Reactions in Short-Term Adjunctive Study 3
-
-|  | (N=302)a | (N=153) |
-| --- | --- | --- |
-| Adverse Reaction Term | All Doses of Guanfacine Extended-Release | Placebo |
-| Headache | 21% | 13% |
-| Somnolenceb | 18% | 7% |
-| Insomniac | 12% | 6% |
-| Fatigue | 10% | 3% |
-| Abdominal paind | 10% | 3% |
-| Dizziness | 8% | 4% |
-| Decreased appetite | 7% | 4% |
-| Nausea | 5% | 3% |
-| Diarrhea | 4% | 1% |
-| Hypotensione | 3% | 0% |
-| Affect lability | 2% | 1% |
-| Bradycardia | 2% | 0% |
-| Constipation | 2% | 0% |
-| Dry mouth | 2% | 0% |
-| a: The morning and evening dose groups of guanfacine extended-release are combined. |  |  |
-| b: The somnolence term includes somnolence, sedation, and hypersomnia. |  |  |
-| c: The insomnia term includes insomnia, initial insomnia, and middle insomnia. |  |  |
-| d: The abdominal pain term includes abdominal pain, abdominal pain upper, and abdominal pain lower. |  |  |
-| e: The hypotension term includes hypotension, orthostatic hypotension, and decreased blood pressure. |  |  |
+|  |  | Guanfacine Extended-Release + stimulant |  |  |
+| --- | --- | --- | --- | --- |
+| Adverse Reaction Term | Placebo (N=153) | AM (N=150) | PM (N=152) | All Doses of Guanfacine Extended-Release (N=302) |
+| Headache | 13% | 21% | 21% | 21% |
+| Diarrhea | 1% | 4% | 3% | 4% |
+| Hypotensiona | 0% | 4% | 2% | 3% |
+| Constipation | 0% | 2% | 3% | 2% |
+| Affect Labilityb | 1% | 3% | 2% | 2% |
+| Dry Mouth | 0% | 1% | 3% | 2% |
+| Bradycardiac | 0% | 1% | 3% | 2% |
+| Postural Dizziness | 0% | 1% | 3% | 2% |
+| Rashd | 1% | 1% | 2% | 2% |
+| Nightmaree | 1% | 2% | 1% | 2% |
+| Tachycardiaf | 1% | 2% | 1% | 2% |
+| Adverse reactions greater than or equal to 2% for all doses of guanfacine extended-release and greater than rate in placebo in any dose group but did not meet this criteria in all doses combined: irritability, vomiting, asthma (asthma, bronchospasm, wheezing), and enuresis (enuresis, nocturia, urinary incontinence). aThe hypotension term includes hypotension, diastolic hypotension, orthostatic hypotension, blood pressure decreased, blood pressure diastolic decreased, blood pressure systolic decreased. bThe affect lability term includes affect lability and mood swings. cThe bradycardia term includes bradycardia and sinus bradycardia. dThe rash term includes rash, rash generalized, and rash papular. eThe nightmare term includes abnormal dreams, nightmare, and sleep terror. fThe tachycardia term includes tachycardia and sinus tachycardia. |  |  |  |  |
 
 Effects on Blood Pressure and Heart Rate
 
-In the monotherapy pediatric, short-term, controlled trials (Studies 1 and 2), the maximum mean changes from baseline in systolic blood pressure, diastolic blood pressure, and pulse were -5 mmHg, -3 mmHg, and -6 bpm, respectively, for all dose groups combined (generally one week after reaching target doses of 1 mg/day, 2 mg/day, 3 mg/day or 4 mg/day).
-These changes were dose dependent.
+In the monotherapy pediatric, short-term, controlled trials (Studies 1 and 2), the maximum mean changes from baseline in seated systolic blood pressure, diastolic blood pressure, and pulse were -5.4 mmHg, -3.4 mmHg, and -5.5 bpm, respectively, for all doses combined (generally one week after reaching target doses).
+For the respective fixed doses 1 mg/day, 2 mg/day, 3 mg/day or 4 mg/day the maximum mean changes in seated systolic blood pressure were -4.3 mmHg, -5.5 mmHg, -5.4 mmHg and -8.2 mmHg.
+For these respective fixed doses the maximum mean changes in seated diastolic blood pressure were -3.4 mmHg, -3.3 mmHg, -4.4 mmHg and -5.4 mmHg.
+For these respective fixed doses the maximum mean changes in seated pulse were -4.8 bpm, -3.1 bpm, -6.5 bpm and -8.6 bpm.
 Decreases in blood pressure and heart rate were usually modest and asymptomatic; however, hypotension and bradycardia can occur.
 Hypotension was reported as an adverse reaction for 7% of the guanfacine extended-release group and 3% of the placebo group.
 This includes orthostatic hypotension, which was reported for 1% of the guanfacine extended-release group and none in the placebo group.
+These findings were generally similar in the monotherapy flexible dose trial (Study 4).
 In the adjunctive trial, hypotension (3%) and bradycardia (2%) were observed in patients treated with guanfacine extended-release as compared to none in the placebo group.
-In long-term, open label studies, (mean exposure of approximately 10 months), maximum decreases in systolic and diastolic blood pressure occurred in the first month of therapy.
+In long-term, open-label studies, (mean exposure of approximately 10 months), maximum decreases in systolic and diastolic blood pressure occurred in the first month of therapy.
 Decreases were less pronounced over time.
-Syncope occurred in 1% of pediatric subjects in the clinical program.
+Syncope occurred in 1% of pediatric patients in the clinical program.
 The majority of these cases occurred in the long-term, open-label studies.
+
+Effects on Height, Weight, and Body Mass Index (BMI)
+
+Patients taking guanfacine extended-release demonstrated similar growth compared to normative data.
+Patients taking guanfacine extended-release had a mean increase in weight of 0.5 kg compared to those receiving placebo over a comparable treatment period.
+Patients receiving guanfacine extended-release for at least 12 months in open-label studies gained an average of 8 kg in weight and 8 cm (3 in) in height.
+The height, weight, and BMI percentile remained stable in patients at 12 months in the long-term studies compared to when they began receiving guanfacine extended-release.
 
 Other Adverse Reactions Observed in Clinical Studies
 
-Table 4 includes additional adverse reactions observed in short-term, placebo-controlled and long-term, open-label clinical studies not included elsewhere in section 6.1, listed by organ system.
+Table 13 includes additional adverse reactions observed in short-term, placebo-controlled and long-term, open-label clinical studies not included elsewhere in section 6.1, listed by organ system.
 
-Table 4: Other adverse reactions observed in clinical studies
+Table 13: Other Adverse Reactions Observed in Clinical Studies
 
 | Body System | Adverse Reaction |
 | --- | --- |
-| Cardiac | Atrioventricular block, sinus arrhythmia |
-| Gastrointestinal | Dyspepsia, stomach discomfort, vomiting |
+| Cardiac | Atrioventricular block |
 | General | Asthenia, chest pain |
 | Immune System Disorders | Hypersensitivity |
-| Investigations | Increased alanine amino transferase, increased weight |
+| Investigations | Increased alanine amino transferase |
 | Nervous system | Convulsion |
-| Psychiatric | Agitation, anxiety, depression, nightmare |
-| Renal | Increased urinary frequency, enuresis |
-| Respiratory | Asthma |
+| Renal | Increased urinary frequency |
 | Vascular | Hypertension, pallor |
+
+Additional pediatric use information for patients ages 6 to 17 years is approved for Shire US Inc.’s INTUNIV® (guanfacine) extended-release tablet product.
+However, due to Shire US Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of guanfacine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-An open-label postmarketing study involving 21,718 patients was conducted to assess the safety of guanfacine (as the hydrochloride) 1 mg/day given at bedtime for 28 days.
-Guanfacine was administered with or without other antihypertensive agents.
-Adverse events reported in the postmarketing study at an incidence greater than 1% included dry mouth, dizziness, somnolence, fatigue, headache and nausea.
-The most commonly reported adverse events in this study were the same as those observed in controlled clinical trials.
-
 Less frequent, possibly guanfacine-related events observed in the postmarketing study and/or reported spontaneously, not included in section 6.1, include:
 
-General: edema, malaise, tremor
-
-Cardiovascular: palpitations, tachycardia
-
-Central Nervous System: paresthesias, vertigo
-
-Eye Disorders: blurred vision
-
-Musculo-Skeletal System: arthralgia, leg cramps, leg pain, myalgia
-
-Psychiatric: confusion, hallucinations
-
-Reproductive System, Male: impotence
-
-Respiratory System: dyspnea
-
-Skin and Appendages: alopecia, dermatitis, exfoliative dermatitis, pruritus, rash
-
-Special Senses: alterations in taste
+General: edema, malaise, tremor Cardiovascular: palpitations, tachycardia Central Nervous System: paresthesias, vertigo Eye Disorders: blurred vision Musculoskeletal System: arthralgia, leg cramps, leg pain, myalgia Psychiatric: confusion, hallucinations Reproductive System, Male: impotence Respiratory System: dyspnea Skin and Appendages: alopecia, dermatitis, exfoliative dermatitis, pruritus, rash Special Senses: alterations in taste

@@ -14,49 +14,34 @@ Guanfacine is a known antihypertensive agent.
 By stimulating central alpha2A-adrenergic receptors, guanfacine reduces sympathetic nerve impulses from the vasomotor center to the heart and blood vessels.
 This results in a decrease in peripheral vascular resistance and a reduction in heart rate.
 
-Effects on Height, Weight, and Body Mass Index (BMI)
-
-Patients taking guanfacine extended-release demonstrated similar growth compared to normative data.
-Patients taking guanfacine extended-release had a mean increase in weight of 0.5 kg (1 lb) compared to those receiving placebo over a comparative treatment period.
-Patients receiving guanfacine extended-release for at least 12 months in open-label studies gained an average of 8 kg (17 lbs) in weight and 8 cm (3 in) in height.
-The height, weight, and BMI percentile remained stable in patients at 12 months in the long-term studies compared to when they began receiving guanfacine extended-release.
-
-Effect on ECG
-
-The effect of two dose levels of immediate-release guanfacine (4 mg and 8 mg) on the QT interval was evaluated in a double-blind, randomized, placebo- and active-controlled, cross-over study in healthy adults.
-A dose-dependent decrease in heart rate was observed during the first 12 hours, at time of maximal concentrations.
-The mean change in heart rate was -13 bpm at 4 mg and -22 bpm at 8 mg.
-An apparent increase in mean QTc was observed for both doses.
-However, guanfacine does not appear to interfere with cardiac repolarization of the form associated with pro-arrhythmic drugs.
-This finding has no known clinical relevance.
+In a thorough QT study, the administration of two dose levels of immediate-release guanfacine (4 mg and 8 mg) produced concentrations approximately 2 to 4 times the concentrations observed with the maximum recommended dose of guanfacine extended-release of 0.12 mg/kg.
+Guanfacine was not shown to prolong the QTc interval to any clinically relevant extent.
 
 ## 12.3 Pharmacokinetics
 
 Absorption and Distribution
 
 Guanfacine is readily absorbed and approximately 70% bound to plasma proteins independent of drug concentration.
-After oral administration of guanfacine extended-releasethe time to peak plasma concentration is approximately 5 hours in children and adolescents with ADHD.
+After oral administration of guanfacine extended-release the time to peak plasma concentration is approximately 5 hours in children and adolescents with ADHD.
 
-Immediate-release guanfacine and guanfacine extended-release have different pharmacokinetic characteristics; dose substitution on a milligram for milligram basis will result in differences in exposure.
+Immediate-release guanfacine and guanfacine extended-release have different pharmacokinetic characteristics; dose substitution on a milligram per milligram basis will result in differences in exposure.
 
 A comparison across studies suggests that the Cmax is 60% lower and AUC0-∞ 43% lower, respectively, for guanfacine extended-release compared to immediate-release guanfacine.
 Therefore, the relative bioavailability of guanfacine extended-release to immediate-release guanfacine is 58%.
-The mean pharmacokinetic parameters in adults following the administration of guanfacine extended-release 1 mg once daily and immediate-release guanfacine 1mg once daily are summarized in Table 5.
+The mean pharmacokinetic parameters in adults following the administration of guanfacine extended-release 1 mg once daily and immediate-release guanfacine 1 mg once daily are summarized in Table 15.
 
-Table 5: Pharmacokinetic Parameters in Adults
+Table 15: Comparison of Pharmacokinetics: Guanfacine Extended-Release vs. Immediate Release Guanfacine in Adults
 
-|  | (n=52) | 1 mg once daily (n=12) |
+| Parameter | Guanfacine Extended-Release 1 mg once daily (n=52) | Immediate-Release Guanfacine 1 mg once daily (n=12) |
 | --- | --- | --- |
-| Parameter | Guanfacine Extended-Release | Immediate-release |
-|  | 1 mg once daily | guanfacine |
 | Cmax (ng/mL) | 1.0 ± 0.3 | 2.5 ± 0.6 |
 | AUC0-∞ (ng.h/mL) | 32 ± 9 | 56 ± 15 |
-| tmax (h) | 6.0 (4.0 to 8.0) | 3.0 (1.5 to 4.0) |
+| tmax (h) | 6.0 (4.0 – 8.0) | 3.0 (1.5-4.0) |
 | t½ (h) | 18 ± 4 | 16 ± 3 |
 | Note: Values are mean +/- SD, except for tmax which is median (range) |  |  |
 
 Exposure to guanfacine was higher in children (ages 6 to 12) compared to adolescents (ages 13 to 17) and adults.
-After oral administration of multiple doses of guanfacine extended-release 4 mg, the Cmax was 10 ng/mL compared to 7 ng/mL and the AUC was 162 ng h/mL compared to 116 ng h/mL in children (ages 6 to 12) and adolescents (ages 13 to 17), respectively.
+After oral administration of multiple doses of guanfacine extended-release 4 mg, the Cmax was 10 ng/mL compared to 7 ng/mL and the AUC was 162 ng•h/mL compared to 116 ng•h/mL in children (ages 6 to 12) and adolescents (ages 13 to 17), respectively.
 These differences are probably attributable to the lower body weight of children compared to adolescents and adults.
 
 The pharmacokinetics were affected by intake of food when a single dose of guanfacine extended-release 4 mg was administered with a high-fat breakfast.
@@ -72,6 +57,22 @@ In vitro studies with human liver microsomes and recombinant CYP’s demonstrate
 In pooled human hepatic microsomes, guanfacine did not inhibit the activities of the major cytochrome P450 isoenzymes (CYP1A2, CYP2C8, CYP2C9, CYP2C19, CYP2D6 or CYP3A4/5).
 Guanfacine is a substrate of CYP3A4/5 and exposure is affected by CYP3A4/5 inducers/inhibitors.
 
-Renal and Hepatic Impairment
+Studies in Specific Populations
 
-The impact of renal impairment on PK of guanfacine in children was not assessed [see Use in Specific Populations (8.6)].
+Renal Impairment
+
+The impact of renal impairment on the pharmacokinetics of guanfacine in children was not assessed.
+In adult patients with impaired renal function, the cumulative urinary excretion of guanfacine and the renal clearance diminished as renal function decreased.
+In patients on hemodialysis, the dialysis clearance was about 15% of the total clearance.
+The low dialysis clearance suggests that the hepatic elimination (metabolism) increases as renal function decreases.
+
+Hepatic Impairment
+
+The impact of hepatic impairment on PK of guanfacine in children was not assessed.
+Guanfacine in adults is cleared both by the liver and the kidney, and approximately 50% of the clearance of guanfacine is hepatic [see Hepatic Impairment (8.7)].
+
+Drug Interaction Studies
+
+Guanfacine is primarily metabolized by CYP3A4 and its plasma concentrations can be affected significantly by CYP3A4 inhibitors or inducers (Figure 2).
+
+Guanfacine does not significantly affect exposures of methylphenidate and lisdexamfetamine when coadministered (Figure 3).

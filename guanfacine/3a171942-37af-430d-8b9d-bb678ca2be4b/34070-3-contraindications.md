@@ -1,3 +1,4 @@
 # 4 CONTRAINDICATIONS
 
-Patients with a history of hypersensitivity to guanfacine extended-release, its inactive ingredients [see Description (11)] or other products containing guanfacine should not take guanfacine extended-release.
+Guanfacine extended-release is contraindicated in patients with a history of a hypersensitivity reaction to guanfacine extended-release or its inactive ingredients, or other products containing guanfacine.
+Rash and pruritus have been reported.

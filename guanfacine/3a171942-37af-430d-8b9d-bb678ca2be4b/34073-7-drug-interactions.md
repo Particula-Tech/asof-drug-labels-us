@@ -1,10 +1,10 @@
 # 7 DRUG INTERACTIONS
 
-Guanfacine is primarily metabolized by CYP3A4 and its plasma concentrations can be affected significantly by CYP3A4 inhibitors or inducers (Figure 1).
-Dose adjustments are recommended [see Dosage and Administration (2.7)].
-Guanfacine does not significantly affect exposures of methylphenidate and lisdexamfetamine when coadministered (Figure 2).
-Therefore, no dose adjustments in methylphenidate or lisdexamfetamine are necessary.
+Table 14 contains clinically important drug interactions with guanfacine extended-release [see Clinical Pharmacology (12.3)].
 
-Figure 1: Impact of Other Drugs on the Pharmacokinetics (PK) of Guanfacine Extended-Release
+Table 14: Clinically Important Drug Interactions: Effect of other Drugs on Guanfacine Extended-Release
 
-Figure 2: Impact of Guanfacine Extended-Release on the Pharmacokinetics (PK) of Other Drugs
+| Concomitant Drug Name or Drug Class | Clinical Rationale and Magnitude of Drug Interaction | Clinical Recommendation |
+| --- | --- | --- |
+| Strong and moderate CYP3A4 inhibitors, e.g., ketoconazole, fluconazole | Guanfacine is primarily metabolized by CYP3A4 and its plasma concentrations can be significantly affected resulting in an increase in exposure | Consider dose reduction [see Dosage and administration (2.7)] |
+| Strong and moderate CYP3A4 inducers, e.g., rifampin, efavirenz | Guanfacine is primarily metabolized by CYP3A4 and its plasma concentrations can be significantly affected resulting in a decrease in exposure | Consider dose increase [see Dosage and administration (2.7)] |

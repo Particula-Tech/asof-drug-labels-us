@@ -4,7 +4,7 @@
 
 Carcinogenesis
 
-No carcinogenic effect of guanfacine was observed in studies of 78 weeks in mice or 102 weeks in rats at doses up to 6 to 7 times the maximum recommended human dose of 4 mg/day on a mg/ m2 basis.
+No carcinogenic effect of guanfacine was observed in studies of 78 weeks in mice or 102 weeks in rats at doses up to 6.8 times the maximum recommended human dose of 0.12 mg/kg/day on a mg/m2 basis.
 
 Mutagenesis
 
@@ -12,4 +12,4 @@ Guanfacine was not genotoxic in a variety of test models, including the Ames tes
 
 Impairment of Fertility
 
-No adverse effects were observed in fertility studies in male and female rats at doses up to 30 times the maximum recommended human dose on a mg/ m2 basis.
+No adverse effects were observed in fertility studies in male and female rats at doses up to 22 times the maximum recommended human dose on a mg/m2 basis.
