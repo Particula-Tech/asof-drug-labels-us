@@ -11,6 +11,9 @@ After 12 hours, the missed dose should be skipped and the next dose should be ta
 Pramipexole dihydrochloride extended-release tablets can be taken with or without food.
 If patients develop nausea, advise that taking pramipexole dihydrochloride extended-release tablets with food may reduce the occurrence of nausea.
 
+Inform patients that residue in stool which may resemble a swollen original pramipexole dihydrochloride extended-release tablet or swollen pieces of the original tablet have been reported [see Adverse Reactions (6.2)].
+Instruct patients to contact their physician if this occurs.
+
 Pramipexole dihydrochloride extended-release tablets should be swallowed whole.
 They should not be chewed, crushed, or divided [see Dosage and Administration (2.1)].
 
@@ -43,6 +46,6 @@ Pregnancy
 
 Because the teratogenic potential of pramipexole has not been completely established in laboratory animals, and because experience in humans is limited, advise women to notify their physicians if they become pregnant or intend to become pregnant during therapy [see Use in Specific Populations (8.1)].
 
-Nursing Mothers
+Lactation
 
-Because of the possibility that pramipexole may be excreted in breast milk, advise women to notify their physicians if they intend to breast-feed or are breast-feeding an infant [see Use in Specific Populations (8.3)].
+Because of the possibility that pramipexole may be excreted in breast milk, advise women to notify their physicians if they intend to breast-feed or are breast-feeding an infant [see Use in Specific Populations (8.2)].

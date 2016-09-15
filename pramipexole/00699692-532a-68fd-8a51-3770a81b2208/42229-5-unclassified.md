@@ -56,6 +56,8 @@ How should I take pramipexole dihydrochloride extended-release tablet?
   Do not chew, crush, or cut pramipexole dihydrochloride extended-release tablets.
 - Pramipexole dihydrochloride extended-release tablets can be taken with or without food.
   Taking pramipexole dihydrochloride extended-release tablets with food may lower your chances of getting nausea.
+- You may see something that looks like a swollen original tablet or swollen pieces of the original tablet in your stool.
+  If this happens, tell your doctor.
 - If you miss a dose of pramipexole dihydrochloride extended-release tablets it should be taken as soon as possible, but no later than 12 hours after your regularly scheduled time.
   If it is later than 12 hours, the missed dose should be skipped and the next dose should be taken on the following day at your regularly scheduled time.
   Do not double your next pramipexole dihydrochloride extended-release dose.
@@ -164,4 +166,4 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 0216
+Revised: 0816

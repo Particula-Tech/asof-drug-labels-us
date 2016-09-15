@@ -131,3 +131,7 @@ The following adverse reactions have been identifiedduring post-approval use of 
 Because these reactions are reported voluntarilyfrom a population of uncertain size, it is not alwayspossible to reliably estimate their frequency or establish acausal relationship to drug exposure.
 Decisions to includethese reactions in labeling are typically based on one ormore of the following factors: (1) seriousness of thereaction, (2) frequency of reporting, or (3) strength ofcausal connection to pramipexole tablets.
 Similar types ofreactions were grouped into a smaller number ofstandardized categories using the MedDRA terminology:cardiac failure, inappropriate antidiuretic hormonesecretion (SIADH), skin reactions (including erythema,rash, pruritus, urticaria), syncope, vomiting, and weightincrease.skin reactions (including erythema,rash, pruritus, urticaria), syncope, vomiting, and weightincrease.
+
+There are postmarketing reports of patients noticing tablet residue in their stool that resembles a swollen pramipexole dihydrochloride extended-release whole tablet or swollen pieces of the tablet.
+Some patients have reported worsening of their Parkinson’s disease symptoms when tablet residue was observed.
+If a patient reports tablet residue with worsening of their Parkinson’s symptoms, prescribers may need to re-evaluate their medications.
