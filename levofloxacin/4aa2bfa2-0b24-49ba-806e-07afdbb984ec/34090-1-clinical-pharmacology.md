@@ -59,7 +59,9 @@ Therefore, the oral and IV routes of administration can be considered interchang
 
 | Figure 2: Mean Levofloxacin Plasma Concentration vs. Time Profile: 750 mg |
 | --- |
+
 | Figure 3: Mean Levofloxacin Plasma Concentration vs. Time Profile: 500 mg |
+| --- |
 
 Distribution
 
@@ -93,6 +95,7 @@ No levofloxacin crystals were found in any of the urine samples freshly collecte
 Geriatric
 
 There are no significant differences in levofloxacin pharmacokinetics between young and elderly subjects when the subjects' differences in creatinine clearance are taken into consideration.
+
 Following a 500 mg oral dose of Levofloxacin to healthy elderly subjects (66–80 years of age), the mean terminal plasma elimination half-life of levofloxacin was about 7.6 hours, as compared to approximately 6 hours in younger adults.
 The difference was attributable to the variation in renal function status of the subjects and was not believed to be clinically significant.
 Drug absorption appears to be unaffected by age.
@@ -159,56 +162,66 @@ Levofloxacin has in vitro activity against Gram-negative and Gram-positive bacte
 
 Levofloxacin has been shown to be active against most isolates of the following bacteria both in vitro and in clinical infections as described in Indications and Usage (1):
 
-- Gram-Positive Bacteria
-  - Enterococcus faecalis
-  - Staphylococcus aureus (methicillin-susceptible isolates)
-  - Staphylococcus epidermidis (methicillin-susceptible isolates)
-  - Staphylococcus saprophyticus
-  - Streptococcus pneumoniae (including multi-drug resistant isolates [MDRSP]MDRSP (Multi-drug resistant Streptococcus pneumoniae) isolates are isolates resistant to two or more of the following antibiotics: penicillin (MIC ≥2 mcg/mL), 2nd generation cephalosporins, e.g., cefuroxime; macrolides, tetracyclines and trimethoprim/sulfamethoxazole.)
-  - Streptococcus pyogenes
-- Gram-Negative Bacteria
-  - Enterobacter cloacae
-  - Escherichia coli
-  - Haemophilus influenzae
-  - Haemophilus parainfluenzae
-  - Klebsiella pneumoniae
-  - Legionella pneumophila
-  - Moraxella catarrhalis
-  - Proteus mirabilis
-  - Pseudomonas aeruginosa
-  - Serratia marcescens
-- Other Bacteria
-  - Chlamydophila pneumoniae
-  - Mycoplasma pneumoniae
+Gram-Positive Bacteria
+
+- Enterococcus faecalis
+- Staphylococcus aureus (methicillin-susceptible isolates)
+- Staphylococcus epidermidis (methicillin-susceptible isolates)
+- Staphylococcus saprophyticus
+- Streptococcus pneumoniae (including multi-drug resistant isolates [MDRSP]MDRSP (Multi-drug resistant Streptococcus pneumoniae) isolates are isolates resistant to two or more of the following antibiotics: penicillin (MIC ≥2 mcg/mL), 2nd generation cephalosporins, e.g., cefuroxime; macrolides, tetracyclines and trimethoprim/sulfamethoxazole.)
+- Streptococcus pyogenes
+
+Gram-Negative Bacteria
+
+- Enterobacter cloacae
+- Escherichia coli
+- Haemophilus influenzae
+- Haemophilus parainfluenzae
+- Klebsiella pneumoniae
+- Legionella pneumophila
+- Moraxella catarrhalis
+- Proteus mirabilis
+- Pseudomonas aeruginosa
+- Serratia marcescens
+
+Other Bacteria
+
+- Chlamydophila pneumoniae
+- Mycoplasma pneumoniae
 
 The following in vitro data are available, but their clinical significance is unknown: Levofloxacin exhibits in vitro minimum inhibitory concentrations (MIC values) of 2 mcg/mL or less against most (≥90%) isolates of the following microorganisms; however, the safety and effectiveness of Levofloxacin in treating clinical infections due to these bacteria have not been established in adequate and well-controlled clinical trials.
 
-- Gram-Positive Bacteria
-  - Staphylococcus haemolyticus
-  - β-hemolytic Streptococcus (Group C/F)
-  - β-hemolytic Streptococcus (Group G)
-  - Streptococcus agalactiae
-  - Streptococcus milleri
-  - Viridans group streptococci
-  - Bacillus anthracis
-- Gram-Negative Bacteria
-  - Acinetobacter baumannii
-  - Acinetobacter lwoffii
-  - Bordetella pertussis
-  - Citrobacter koseri
-  - Citrobacter freundii
-  - Enterobacter aerogenes
-  - Enterobacter sakazakii
-  - Klebsiella oxytoca
-  - Morganella morganii
-  - Pantoea agglomerans
-  - Proteus vulgaris
-  - Providencia rettgeri
-  - Providencia stuartii
-  - Pseudomonas fluorescens
-  - Yersinia pestis
-- Anaerobic Gram-Positive Bacteria
-  - Clostridium perfringens
+Gram-Positive Bacteria
+
+- Staphylococcus haemolyticus
+- β-hemolytic Streptococcus (Group C/F)
+- β-hemolytic Streptococcus (Group G)
+- Streptococcus agalactiae
+- Streptococcus milleri
+- Viridans group streptococci
+- Bacillus anthracis
+
+Gram-Negative Bacteria
+
+- Acinetobacter baumannii
+- Acinetobacter lwoffii
+- Bordetella pertussis
+- Citrobacter koseri
+- Citrobacter freundii
+- Enterobacter aerogenes
+- Enterobacter sakazakii
+- Klebsiella oxytoca
+- Morganella morganii
+- Pantoea agglomerans
+- Proteus vulgaris
+- Providencia rettgeri
+- Providencia stuartii
+- Pseudomonas fluorescens
+- Yersinia pestis
+
+Anaerobic Gram-Positive Bacteria
+
+- Clostridium perfringens
 
 Susceptibility Tests
 
