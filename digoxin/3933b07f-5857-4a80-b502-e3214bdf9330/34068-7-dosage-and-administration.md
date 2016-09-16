@@ -22,32 +22,32 @@ If tuberculin syringes are used to measure very small doses do not flush with th
 
 Consider interruption or reduction in digoxin dose prior to electrical cardioversion [see Warnings and Precautions (5.4)].
 
-## 2.2 Loading Dosing Regimen in Adult Patients
+## 2.2 Loading Dosing Regimen in Adults and Pediatric Patients Over 10 Years Old
 
 Table 1.
 Recommended Digoxin Injection Loading Dose
 
 | Age | Total IV Loading Dose (mcg/kg) Administer half the total loading dose initially, then ¼ the loading dose every 6-8 hours twice |
 | --- | --- |
-| Adult patients | 8-12 |
+| Adults and pediatric patients over 10 years old | 8-12 |
 | mcg = microgram |  |
 
-## 2.3 Maintenance Dosing in Adult Patients
+## 2.3 Maintenance Dosing in Adults and Pediatric Patients Over 10 Years Old
 
 The maintenance dose is based on lean body weight, renal function, age, and concomitant products [see Clinical Pharmacology (12.3)].
 
-The recommended starting maintenance dose in adult patients with normal renal function is given in Table 2.
+The recommended starting maintenance dose in adults and pediatric patients over 10 years old with normal renal function is given in Table 2.
 Doses may be increased every 2 weeks according to clinical response, serum drug levels, and toxicity.
 
 Table 2.
-Recommended Starting Digoxin Injection Maintenance Dosage in Adult Patients
+Recommended Starting Digoxin Injection Maintenance Dosage in Adults and Pediatric Patients Over 10 Years Old
 
 | Age | Total Intravenous Maintenance Dose, mcg/kg/day (given once daily) |
 | --- | --- |
-| Adult patients | 2.4-3.6 |
+| Adults and pediatric patients over 10 years old | 2.4-3.6 |
 | mcg = microgram |  |
 
-Table 3 provides the recommended (once daily) maintenance dose for adult patients according to lean body weight and renal function.
+Table 3 provides the recommended (once daily) maintenance dose for adults and pediatric patients over 10 years old according to lean body weight and renal function.
 The doses are based on studies in adult patients with heart failure.
 Alternatively, the maintenance dose may be estimated by the following formula (peak body stores lost each day through elimination):
 
@@ -56,7 +56,7 @@ Total Maintenance Dose = Loading Dose (i.e., Peak Body Stores) x % Daily Loss/10
 Reduce the dose of digoxin in patients whose lean weight is an abnormally small fraction of their total body mass because of obesity or edema.
 
 Table 3.
-Recommended Maintenance Dose (in micrograms given once daily) of Digoxin Injection in Adult Patients by Lean Body Weight and by Renal Function
+Recommended Maintenance Dose (in micrograms given once daily) of Digoxin Injection in Pediatric Patients Over 10 Years Old and Adults by Lean Body Weight and by Renal Function
 
 | Corrected Creatinine Clearancea | Lean Body Weightc |  |  |  |  |  |  |  | Number of Days Before Steady State Achievedb |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -71,7 +71,7 @@ Recommended Maintenance Dose (in micrograms given once daily) of Digoxin Injecti
 | 80 mL/min |  | 120 | 150 | 180 | 210 | 240 | 270 | 300 | 9 |
 | 90 mL/min |  | 128 | 160 | 192 | 224 | 256 | 288 | 320 | 8 |
 | 100 mL/min |  | 136 | 170 | 204 | 238 | 272 | 306 | 340 | 7 |
-| a For adults, creatinine clearance was corrected to 70-kg body weight or 1.73 m2 body surface area. If only serum creatinine concentrations (Scr) are available, a corrected Ccr may be estimated in men as (140 – Age)/Scr. For women, this result should be multiplied by 0.85. GFR (mL/min/1.73 m2) = (k x Height)/Scr b If no loading dose administered c The doses listed assume average body composition. |  |  |  |  |  |  |  |  |  |
+| a For adults, creatinine clearance was corrected to 70-kg body weight or 1.73 m2 body surface area. If only serum creatinine concentrations (Scr) are available, a corrected Ccr may be estimated in men as (140 – Age)/Scr. For women, this result should be multiplied by 0.85. For pediatric patients, the modified Schwartz equation may be used. The formula is based on height in cm and Scr in mg/dL where k is a constant. Ccr is corrected to 1.73 m2 body surface area. During the first year of life, the value of k is 0.33 for pre-term babies and 0.45 for term infants. The k is 0.55 for pediatric patients and adolescent girls and 0.7 for adolescent boys.GFR (mL/min/1.73 m2) = (k x Height)/Scrb If no loading dose administeredc The doses listed assume average body composition. |  |  |  |  |  |  |  |  |  |
 
 ## 2.4 Monitoring to Assess Safety, Efficacy, and Therapeutic Blood Levels
 

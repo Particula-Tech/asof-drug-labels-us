@@ -16,10 +16,10 @@ Estrada do Rio da Mό, 8, 8A e 8B – Fervença – 2705-906 Terrugem SNT, PORT
 
 Distributed by:
 
-WEST-WARD PHARMACEUTICALS Eatontown, NJ 07724 USA
+WEST-WARD A HIKMA COMPANY Eatontown, NJ 07724 USA
 
-Revised: September 2015
+Revised August 2016
 
-462-636-02
+462-636-03
 
-PIN299-WES/3
+PIN299-WES/4
