@@ -173,7 +173,7 @@ The most common side effects of CONTRAVE include:
 | ◦ nausea | ◦ dizziness |
 | --- | --- |
 | ◦ constipation | ◦ trouble sleeping |
-| ◦ headache | ◦ headache |
+| ◦ headache | ◦ dry mouth |
 | ◦ vomiting | ◦ diarrhea |
 
 Tell your healthcare provider about any side effect that bothers you or does not go away.
