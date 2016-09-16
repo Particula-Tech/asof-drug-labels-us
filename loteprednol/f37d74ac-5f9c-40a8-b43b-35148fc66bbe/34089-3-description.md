@@ -11,9 +11,9 @@ Wt.
 
 Chemical Name:
 
-chloromethyl 17α-[(ethoxycarbonyl)oxy]-11β-hydroxy-3-oxoandrosta-1,4-diene-17 β-carboxylate
+chloromethyl 17α-[(ethoxycarbonyl)oxy]-11β-hydroxy-3-oxoandrosta-1,4-diene-17β-carboxylate
 
-Each mL contains:
+Each mL contains
 
 ACTIVE: Loteprednol Etabonate 5 mg (0.5%);
 
