@@ -2,7 +2,7 @@
 
 Advise the patient to read the FDA-approved patient labeling (Instructions for Use).
 
-Preparation and Administration Instructions [see Dosage and Administratin (2.2)]
+Preparation and Administration Instructions [see Dosage and Administration (2.2)]
 
 Preparation of the Oral Suspension
 
@@ -36,7 +36,7 @@ Once the bottle is prepared with the adapter:
    Wait for the foam to rise to the top of the bottle.
 4. Pull back on the syringe plunger to withdraw the dose.
 5. Leave the syringe in the adapter and turn the bottle upright.
-6. Remove the syring efrom the adapter by gently twisting it out of the bottle.
+6. Remove the syringe from the adapter by gently twisting it out of the bottle.
 7. Dispense the dose into the patient's mouth.
 8. Do not remove the bottle adapter.
 9. Store the bottle at room temperature (not above 25°C).
@@ -62,6 +62,6 @@ Manufactured by: Apotek Produktion & Laboratorier AB, Sweden
 
 Marketed by: Sobi, Inc 890 Winter Street Waltham, MA 02451
 
-00064-
+00064-04
 
-2001014-
+2001014-08

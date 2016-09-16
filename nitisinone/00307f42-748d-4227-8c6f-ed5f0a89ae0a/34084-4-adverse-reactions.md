@@ -21,11 +21,10 @@ These complications of HT-1 were observed in patients treated with nitisinone fo
 
 The most common adverse reactions reported in the clinical trial are summarized in Table 1.
 
-TABLE 1
+TABLE 1 Most Common Adverse Reactions*
 
-| Most Common Adverse Reactions* |  |
-| --- | --- |
 | Elevated tyrosine levels Leukopenia Thrombocytopenia Conjunctivitis Corneal opacity Keratitis Photophobia Eye pain Blepharitis Cataracts Granulocytopenia Epistaxis Pruritus Exfoliative dermatitis Dry skin Maculopapular rash Alopecia | >10% 3% 3% 2% 2% 2% 2% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% |
+| --- | --- |
 | *reported in at least 1% of patients |  |
 
 Adverse reactions reported in less than 1% of the patients, included death, seizure, brain tumor, encephalopathy, hyperkinesia, cyanosis, abdominal pain, diarrhea, enanthema, gastrointestinal hemorrhage, melena, elevated hepatic enzymes, liver enlargement, hypoglycemia, septicemia, and bronchitis.
