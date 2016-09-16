@@ -1,9 +1,7 @@
-# PRINCIPAL DISPLAY PANEL - 112 Tablet Box
+# PRINCIPAL DISPLAY PANEL - 200 mg/125 mg Tablet Blister Pack Carton Box
 
 Rx only
 
-NDC 51167-809-01
-
-ORKAMBI™ (lumacaftor/ivacaftor) 200 mg/125 mg tablets
+ORKAMBI® (Lumacaftor/Ivacaftor) tablets 200 mg/125 mg per tablet
 
 112 tablets
