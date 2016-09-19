@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA208224"
+  ],
+  "inn": "levonorgestrel",
+  "labeler": "Bayer HealthCare Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "50419-424-01",
+    "50419-424-08",
+    "50419-424-71"
+  ],
+  "products": [
+    {
+      "form": "INTRAUTERINE DEVICE",
+      "generic": "levonorgestrel",
+      "name": "Kyleena"
+    }
+  ],
+  "setid": "2e07c155-21e1-4781-9633-ce8bddd47080",
+  "source": "dailymed"
+}
