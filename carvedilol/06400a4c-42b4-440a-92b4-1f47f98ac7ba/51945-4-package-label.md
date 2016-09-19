@@ -1,4 +1,4 @@
-Principal Display Panel
+PRINICIPAL DISPLAY PANEL
 
 NDC 0007-3370-13
 
@@ -33,12 +33,12 @@ GlaxoSmithKline, RTP, NC 27709
 
 Made in Canada
 
-- ©2014, the GSK group of companies Rev.
-  7/14
+1. ©2014, the GSK group of companies Rev.
+   7/14
 
 10000000127119
 
-Principal Display Panel
+PRINICIPAL DISPLAY PANEL
 
 NDC 0007-3371-13
 
@@ -73,12 +73,12 @@ GlaxoSmithKline, RTP, NC 27709
 
 Made in Canada
 
-- ©2014, the GSK group of companies Rev.
-  8/14
+1. ©2014, the GSK group of companies Rev.
+   8/14
 
 10000000127120
 
-Principal Display Panel
+PRINICIPAL DISPLAY PANEL
 
 NDC 0007-3372-13
 
@@ -113,12 +113,12 @@ GlaxoSmithKline, RTP, NC 27709
 
 Made in Canada
 
-- ©2014, the GSK group of companies Rev.
-  8/14
+1. ©2014, the GSK group of companies Rev.
+   8/14
 
 10000000127121
 
-Principal Display Panel
+PRINICIPAL DISPLAY PANEL
 
 NDC 0007-3373-13
 
@@ -153,7 +153,7 @@ GlaxoSmithKline, RTP, NC 27709
 
 Made in Canada
 
-- ©2014, the GSK group of companies Rev.
-  8/14
+1. ©2014, the GSK group of companies Rev.
+   8/14
 
 10000000127122
