@@ -12,7 +12,7 @@ In patients with impaired cardiac function, co-administration should be avoided.
 
 ## 7.3 Catecholamine-Depleting Drugs
 
-Close observation of the patient is recommended when a beta blocker is administered to patients receiving catecholamine-depleting drugs such as reserpine, because of possible additive effects and the production of hypotension and/or marked bradycardia, which may result in vertigo, syncope, or postural hypotension.
+Close observation of the patient is recommended when a beta-blocker is administered to patients receiving catecholamine-depleting drugs such as reserpine, because of possible additive effects and the production of hypotension and/or marked bradycardia, which may result in vertigo, syncope, or postural hypotension.
 
 ## 7.4 Digitalis and Calcium Antagonists
 

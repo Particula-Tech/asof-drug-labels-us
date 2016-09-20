@@ -4,18 +4,18 @@
 
 Istalol contains timolol maleate; and although administered topically, it can be absorbed systemically.
 Therefore, the same adverse reactions found with systemic administration of beta-adrenergic blocking agents may occur with topical administration.
-For example, severe respiratory reactions and cardiac reactions including death due to bronchospasm in patients with asthma, and rarely death in association with cardiac failure, have been reported following systemic or ophthalmic administration of timolol maleate (see CONTRAINDICATIONS, 4.1).
+For example, severe respiratory reactions and cardiac reactions including death due to bronchospasm in patients with asthma, and rarely death in association with cardiac failure, have been reported following systemic or ophthalmic administration of timolol maleate [see Contraindications (4.1)].
 
 ## 5.2 Cardiac Failure
 
 Sympathetic stimulation may be essential for support of the circulation in individuals with diminished myocardial contractility, and its inhibition of beta-adrenergic receptor blockade may precipitate more severe failure.
 
 In patients without a history of cardiac failure, continued depression of the myocardium with beta-blocking agents over a period of time can, in some cases, lead to cardiac failure.
-At the first sign or symptom of cardiac failure, Istalol should be discontinued (see also CONTRAINDICATIONS, 4.2).
+At the first sign or symptom of cardiac failure, Istalol should be discontinued [see Contraindications (4.2)].
 
 ## 5.3 Obstructive Pulmonary Disease
 
-Patients with chronic obstructive pulmonary disease (e.g., chronic bronchitis, emphysema) of mild or moderate severity, bronchospastic disease, or a history of bronchospastic disease [other than bronchial asthma or a history of bronchial asthma in which Istalol is contraindicated (see CONTRAINDICATIONS, 4.2)] should, in general, not receive beta-blocking agents, including Istalol.
+Patients with chronic obstructive pulmonary disease (e.g., chronic bronchitis, emphysema) of mild or moderate severity, bronchospastic disease, or a history of bronchospastic disease [other than bronchial asthma or a history of bronchial asthma in which Istalol is contraindicated] should, in general, not receive beta-blocking agents, including Istalol [see Contraindications (4.1)].
 
 ## 5.4 Increased Reactivity to Allergens
 
@@ -40,7 +40,7 @@ Patients suspected of developing thyrotoxicosis should be managed carefully to a
 ## 5.8 Contamination of Topical Ophthalmic Products After Use
 
 There have been reports of bacterial keratitis associated with the use of multiple-dose containers of topical ophthalmic products.
-These containers had been inadvertently contaminated by patients who, in most cases, had a concurrent corneal disease or a disruption of the ocular epithelial surface (see PATIENT COUNSELING INFORMATION, 17).
+These containers had been inadvertently contaminated by patients who, in most cases, had a concurrent corneal disease or a disruption of the ocular epithelial surface (see Patient Counseling Information (17)].
 
 ## 5.9 Impairment of Beta-adrenergically Mediated Reflexes During Surgery
 

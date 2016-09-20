@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects:
+Teratogenic Effects
 
 Pregnancy Category C: Teratogenicity studies have been performed in animals.
 Teratogenicity studies with timolol in mice, rats, and rabbits at oral doses up to 50 mg/kg/day (7,000 times the systemic exposure following the maximum recommended human ophthalmic dose) demonstrated no evidence of fetal malformations.

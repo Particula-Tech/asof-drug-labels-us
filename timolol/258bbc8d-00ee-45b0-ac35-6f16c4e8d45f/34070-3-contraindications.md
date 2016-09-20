@@ -2,11 +2,11 @@
 
 ## 4.1 Asthma, COPD
 
-Istalol is contraindicated in patients with bronchial asthma; a history of bronchial asthma; severe chronic obstructive pulmonary disease (see WARNINGS AND PRECAUTIONS, 5.1, 5.3).
+Istalol is contraindicated in patients with bronchial asthma; a history of bronchial asthma; severe chronic obstructive pulmonary disease [see Warnings and Precautions (5.1), (5.3)]
 
 ## 4.2 Sinus Bradycardia, AV Block, Cardiac Failure, Cardiogenic Shock
 
-Istalol is contraindicated in patients with sinus bradycardia; second or third degree atrioventricular block; overt cardiac failure (see WARNINGS AND PRECAUTIONS, 5.2); cardiogenic shock.
+Istalol is contraindicated in patients with sinus bradycardia; second or third degree atrioventricular block; overt cardiac failure; cardiogenic shock [see Warnings and Precautions (5.2)].
 
 ## 4.3 Hypersensitivity Reactions
 

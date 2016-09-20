@@ -20,5 +20,5 @@ However, in some studies a slight increase in outflow facility was also observed
 
 ## 12.3 Pharmacokinetics
 
-In a study of plasma drug concentration in 12 healthy subjects, the systemic exposure to timolol was determined following twice daily administration of Istalol(exaggerated regimen) for eight days.
+In a study of plasma drug concentration in 12 healthy subjects, the systemic exposure to timolol was determined following twice daily administration of Istalol (exaggerated regimen) for eight days.
 With Istalol, mean plasma concentrations of timolol were 0.68 ng/mL and 0.88 ng/mL two hours after the first dose and the dose on the eighth day, respectively.

@@ -1,19 +1,7 @@
-Rx Only
+Rx only
 
-Manufactured by:
+Distributed by:
 
-Bausch & Lomb Incorporated
+Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA Under License from: SENJU Pharmaceutical Co., Ltd Osaka, Japan 541-0046 U.S. Patents 6,335,335 and 6,645,963 Istalol is a trademark of Bausch & Lomb Incorporated or its affiliates. © Bausch & Lomb Incorporated
 
-Tampa, FL 33637
-
-Under License from:
-
-SENJU Pharmaceutical Co., Ltd Osaka, Japan 541-0046
-
-®/TM are trademarks of Bausch & Lomb Incorporated or its affiliates.
-
-© Bausch & Lomb Incorporated
-
-9401500 (Folded)
-
-Revised: 6/2013
+9401501 (Folded)
