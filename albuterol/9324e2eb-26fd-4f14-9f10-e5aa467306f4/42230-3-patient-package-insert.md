@@ -108,7 +108,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store PROAIR RESPICLICK?
 
-- •Store PROAIR RESPICLICK at room temperature between 59ºF and 77ºF (15ºC and 25ºC).
+- •Store PROAIR RESPICLICK at room temperature between 59°F and 77°F (15°C and 25°C).
 - •Avoid exposure to extreme heat, cold, or humidity.
 - •Keep the cap on the inhaler closed during storage.
 - •Keep your PROAIR RESPICLICK inhaler dry and clean at all times.
@@ -136,12 +136,16 @@ Inactive ingredients: lactose (may contain milk proteins)
 
 Marketed by: Teva Respiratory, LLC, Horsham, PA 19044; Manufactured by: Teva Pharmaceutical Industries, Ltd., Jerusalem, Israel; Copyright ©2015-2016, Teva Respiratory, LLC; All rights reserved; ProAir® and RespiClick® are trademarks owned by Teva Respiratory, LLC
 
-PRORPL-002 Rev.
-04/16
+PRORPL-003 Rev.
+09/16
 
-## Instructions for Use
+Instructions for Use
 
-PROAIR RESPICLICK (prō´ār res-pē-klik) (albuterol sulfate) Inhalation Powder
+PROAIR RESPICLICK (prō´ār res-pē-klik)
+
+(albuterol sulfate)
+
+inhalation powder
 
 Your PROAIR RESPICLICK Inhaler
 
@@ -151,25 +155,22 @@ There are 2 main parts of your PROAIR RESPICLICK inhaler including:
 
 - •the white inhaler with the mouthpiece.
   See Figure A.
-- •red protective dust cap that covers the mouthpiece of the inhaler.
+- •the red cap that covers the mouthpiece of the inhaler.
   See Figure A.
 
 There is a dose counter in the back of the inhaler with a viewing window that shows you how many doses of medicine you have left.
-See Figure B.
+See Figure A.
 
 Figure A
 
-1. 
+- •Your PROAIR RESPICLICK inhaler contains 200 doses (inhalations).
+  See Figure B.
+- •The dose counter shows the number of doses left in your inhaler.
+- •When there are 20 doses left, the dose counter will change to red, and you should refill your prescription or ask your doctor for another prescription.
+- •When the dose counter displays ‘0,’ your inhaler is empty, and you should stop using the inhaler and throw it away.
+  See Figure B.
 
 Figure B
-
-- •Your new PROAIR RESPICLICK inhaler contains ‘200’ doses (inhalations) of medication.
-  See Figure C.
-- •When there are ‘20’ doses left, the dose counter will change to red and you should refill your prescription or ask your doctor for another prescription.
-- •When the dose counter displays ‘0’ your inhaler is empty and you should stop using the inhaler and throw it away.
-  See Figure C.
-
-1. Figure C
 
 IMPORTANT:
 
@@ -184,75 +185,66 @@ IMPORTANT:
 - •Do not use a spacer or volume holding chamber with PROAIR RESPICLICK.
   PROAIR RESPICLICK does not need priming.
 
-Step-by-step instructions
+Using your PROAIR RESPICLICK inhaler:
 
-Step 1.
-Make sure the cap is closed before each dose.
-See Figure D.
+Important: Make sure the red cap is closed before you start using your inhaler.
 
-1. Figure D
-   1. •Before you use PROAIR RESPICLICK for the first time, look at the dose counter window to check that the inhaler is full and ‘200’ is in the window.
-      The dose counter will count down by one number each time the mouthpiece cap is opened and closed.
-      The dose counter only displays even numbers (example: 200, 198, 196, etc.) in the window.
-   2. •Throw away PROAIR RESPICLICK 13 months after removing it from the foil pouch for the first time, when the dose counter displays ‘0,’ or after the expiration date on the package, whichever comes first.
-      See Figure E.
+Step 1.Open
 
-1. Figure E
+- •Hold the inhaler upright and open the red cap fully until you feel and hear a “click”.
+  See Figure C.
+- •Each time you open the red cap and it “clicks”, a dose of PROAIR RESPICLICK is ready to be inhaled.
+
+Figure C
+
+Remember:
+
+- •For the correct use of PROAIR RESPICLICK, hold the inhaler upright as you open the red cap.
+  See Figure D.
+- •Do not hold the inhaler in any other way as you open the red cap.
+- •Do not open the red cap until you are ready to take a dose of PROAIR RESPICLICK.
+
+Figure D
 
 Step 2.
-Hold the inhaler upright as you open the cap fully.
-See Figure F.
+Inhale
+
+- •Before you inhale, breathe out (exhale) through your mouth and push as much air from your lungs as you can.
+  See Figure E.
+- •Do not exhale into the inhaler mouthpiece.
+
+1. Figure E
+2. •Put the mouthpiece in your mouth and close your lips tightly around it.
+   See Figure F.
 
 1. Figure F
-2. •Open the cap all the way back until you hear a “click”.
-3. •Your PROAIR RESPICLICK inhaler is now ready to use.
-4. •Do not open the cap unless you are taking a dose.
+2. •Do not block the vent above the mouthpiece with your lips or fingers.
+   See Figure G.
 
-Step 3.
-Breathe out through your mouth and push as much air from your lungs as you can.
-See Figure G.
+Figure G
 
-1. Figure G
-2. •Be careful not to breathe out into the inhaler mouthpiece.
+- •Breathe in quickly and deeply through your mouth, to deliver the dose of medicine to your lungs.
+- •Remove the inhaler from your mouth.
+- •Hold your breath for about 10 seconds or for as long as you comfortably can.
+- •Your PROAIR RESPICLICK inhaler delivers your dose of medicine as a very fine powder that you may or may not taste or feel.
+  Do not take an extra dose from the inhaler even if you do not taste or feel the medicine.
 
-Step 4.
-Put the mouthpiece in your mouth and close your lips around it.
-Breathe in deeply through your mouth, until your lungs feel completely full of air.
-See Figure H.
+Step 3.Close
 
-- •Breathing in deeply through the mouthpiece will deliver the medication to your lungs.
+Figure H
 
-1. Figure H
-2. •Do not let your lips or fingers block the vent above the mouthpiece.
-   See Figure I.
-
-1. Figure I
-
-Step 5.
-Hold your breath for about 10 seconds or as long as you comfortably can.
-See Figure J.
-
-1. Figure J
-2. •Remove the inhaler from your mouth.
-3. •Check the dose counter on the back of the inhaler to make sure you received the dose.
-
-Step 6.
-Close the cap over the mouthpiece after each use of the inhaler.
-Make sure the cap closes firmly into place.
-See Figure K.
-
-1. Figure K
-2. •Always close the cap after each inhalation so your inhaler will be ready for your next dose.
-3. •If you need another dose close the cap and then repeat steps 1-6.
+- •Close the red cap firmly over the mouthpiece.
+  See Figure H.
+- •Make sure you close the red cap after each inhalation so that the inhaler will be ready for your next dose.
+- •If you need another dose close the red cap and then repeat steps 1-3.
 
 How should I store PROAIR RESPICLICK?
 
-- •Store PROAIR RESPICLICK at room temperature between 59ºF and 77ºF (15ºC and 25ºC).
+- •Store PROAIR RESPICLICK at room temperature between 59°F and 77°F (15°C and 25°C).
 - •Avoid exposure to extreme heat, cold, or humidity.
-- •Keep the cap on the inhaler closed during storage.
+- •Keep the red cap on the inhaler closed during storage.
 - •Keep your PROAIR RESPICLICK inhaler dry and clean at all times.
-
-Keep PROAIR RESPICLICK and all medicines out of the reach of children.
+- •Keep your PROAIR RESPICLICK inhaler and all medicines out of the reach of children.
 
 Cleaning your PROAIR RESPICLICK inhaler
 
@@ -263,20 +255,25 @@ Cleaning your PROAIR RESPICLICK inhaler
 Replacing your PROAIR RESPICLICK inhaler
 
 - •The counter on the back of your inhaler shows how many doses you have left.
-- •When there are ‘20’ doses left, the dose counter will change to red and you should refill your prescription or ask your doctor for another prescription.
+- •When there are 20 doses left, the dose counter color will change to red, and you should refill your prescription or ask your doctor for another prescription.
+- •When the counter displays ‘0’ your PROAIR RESPICLICK inhaler is empty, and you should stop using the inhaler and throw it away.
+- •Throw away PROAIR RESPICLICK 13 months after removing it from the foil pouch for the first time, when the dose counter displays ‘0’, or after the expiration date on the package, whichever comes first.
 
 Important information
 
-- •Do not open the cap unless you are taking a dose.
-  Opening and closing the cap without inhaling a dose will waste the medicine and may damage your inhaler.
+- •Do not open the red cap unless you are taking a dose.
+  Repeatedly opening and closing the cap without inhaling a dose will waste the medicine and may damage your inhaler.
+- •Your PROAIR RESPICLICK inhaler contains dry powder so it is important that you do not blow or breathe into it.
 
 Support
 
-- •If you have any questions about PROAIR RESPICLICK or how to use your inhaler, go to www.MyProAir.com or call 1-888-482-9522.
+- •If you have any questions about PROAIR RESPICLICK or how to use your inhaler, go to www.ProAir.com, scan the QR code or call 1-888-482-9522.
 
-This Patient Information and Instructions for Use has been approved by the U.S. Food and Drug Administration.
+This Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-Marketed by: Teva Respiratory, LLC, Horsham, PA 19044; Manufactured by: Teva Pharmaceutical Industries, Ltd., Jerusalem, Israel; Copyright ©2015-2016, Teva Respiratory, LLC; All rights reserved; ProAir® and RespiClick® are trademarks owned by Teva Respiratory, LLC
+Marketed by: Teva Respiratory, LLC, Horsham, PA 19044; Manufactured by: Teva Pharmaceutical Industries, Ltd., Jerusalem, Israel; Copyright ©2015-2016, Teva Respiratory, LLC; All rights reserved; ProAir® and RespiClick® are registered trademarks owned by Teva Respiratory, LLC.
 
-PRORIFU-002 Rev.
-04/16
+PRORIFU-003
+
+Rev.
+09/2016

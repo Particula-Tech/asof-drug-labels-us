@@ -1,6 +1,6 @@
 # Package/Label Display Panel
 
-## ProAir® RespiClick (albuterol sulfate) Inhalation Powder 90 mcg, 1s Carton Text
+## ProAir RespiClick® (albuterol sulfate) Inhalation Powder 90 mcg, 200 Metered Inhalations, Carton Text
 
 NDC 59310-580-20
 
@@ -8,7 +8,7 @@ Rx only
 
 TEVA
 
-ProAir® RespiClick
+ProAir RespiClick®
 
 (albuterol sulfate)
 
