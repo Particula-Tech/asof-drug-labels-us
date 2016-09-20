@@ -27,15 +27,15 @@ The recommended oral dosage for the treatment of adult patients with esophagitis
 
 See PRECAUTIONS, Pediatric Patients < 1 year of age.
 
-The studies described in PRECAUTIONS, Pediatric Patients< 1 year of age suggest the following starting doses in pediatric patients < 1 year of age: Gastroesophageal Reflux Disease (GERD) - 0.5 mg/kg/dose of famotidine oral suspension for the treatment of GERD for up to 8 weeks once daily in patients < 3 months of age and 0.5 mg/kg/dose twice daily in patients 3 months to < 1 year of age.
+The studies described in PRECAUTIONS, Pediatric Patients < 1 year of age suggest the following starting doses in pediatric patients < 1 year of age: Gastroesophageal Reflux Disease (GERD) - 0.5 mg/kg/dose of famotidine oral suspension for the treatment of GERD for up to 8 weeks once daily in patients < 3 months of age and 0.5 mg/kg/dose twice daily in patients 3 months to < 1 year of age.
 Patients should also be receiving conservative measures (e.g., thickened feedings).
 The use of intravenous famotidine in pediatric patients < 1 year of age with GERD has not been adequately studied.
 
 ## Dosage for Pediatric Patients 1 to 16 years of age
 
-See PRECAUTIONS, Pediatric Patients1 to 16 years of age.
+See PRECAUTIONS, Pediatric Patients 1 to 16 years of age.
 
-The studies described in PRECAUTIONS, Pediatric Patients1 to 16 years of age suggest the following starting doses in pediatric patients 1 to 16 years of age:
+The studies described in PRECAUTIONS, Pediatric Patients 1 to 16 years of age suggest the following starting doses in pediatric patients 1 to 16 years of age:
 
 ### Peptic Ulcer
 

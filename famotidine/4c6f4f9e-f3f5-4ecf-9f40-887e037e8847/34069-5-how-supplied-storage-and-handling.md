@@ -1,8 +1,8 @@
 # HOW SUPPLIED
 
-Famotidine Tablets USP, 20 mg are available as beige, round, unscored, film-coated tablets, debossed with "5728" on one side and "TEVA" on the other side, containing 20 mg famotidine, packaged in bottles of 100, 500 and 1000 tablets.
+Famotidine Tablets USP, 20 mg are available as beige, round, unscored, film-coated tablets, debossed with “5728” on one side and “TEVA” on the other side, containing 20 mg famotidine, packaged in bottles of 100 (NDC 0172-5728-60), 500 (NDC 0172-5728-70) and 1000 (NDC 0172-5728-80) tablets.
 
-Famotidine Tablets USP, 40 mg are available as tan, round, unscored, film-coated tablets, debossed with "5729" on one side and "TEVA" on the other side, containing 40 mg famotidine, packaged in bottles of 100 and 500 tablets.
+Famotidine Tablets USP, 40 mg are available as tan, round, unscored, film-coated tablets, debossed with “5729” on one side and “TEVA” on the other side, containing 40 mg famotidine, packaged in bottles of 100 (NDC 0172-5729-60) and 500 (NDC 0172-5729-70) tablets.
 
 Dispense in a well-closed, light-resistant container as defined in the USP, with a child-resistant closure (as required).
 
@@ -20,9 +20,9 @@ Zagreb, Croatia
 
 Manufactured For:
 
-TEVA PHARMACEUTICALS USA
+TEVA PHARMACEUTICALS USA, INC.
 
-Sellersville, PA 18960
+North Wales, PA 19454
 
 Rev.
-D 2/2014
+E 5/2016

@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-Famotidine tablets USP are indicated in:
+Famotidine tablets are indicated in:
 
 1.
 Short-term treatment of active duodenal ulcer
@@ -22,9 +22,9 @@ Studies have not assessed the safety or efficacy of famotidine in uncomplicated 
 4.
 Short-term treatment of gastroesophageal reflux disease (GERD)
 
-Famotidine tablets USP are indicated for short-term treatment of patients with symptoms of GERD (see CLINICAL PHARMACOLOGY IN ADULTS, Clinical Studies).
+Famotidine tablets are indicated for short-term treatment of patients with symptoms of GERD (see CLINICAL PHARMACOLOGY IN ADULTS, Clinical Studies).
 
 Famotidine tablets are also indicated for the short-term treatment of esophagitis due to GERD including erosive or ulcerative disease diagnosed by endoscopy (see CLINICAL PHARMACOLOGY IN ADULTS, Clinical Studies).
 
 5.
-Treatment of pathological hypersecretory conditions(e.g., Zollinger-Ellison Syndrome, multiple endocrine adenomas) (see CLINICAL PHARMACOLOGY IN ADULTS, Clinical Studies).
+Treatment of pathological hypersecretory conditions (e.g., Zollinger-Ellison Syndrome, multiple endocrine adenomas) (see CLINICAL PHARMACOLOGY IN ADULTS, Clinical Studies).
