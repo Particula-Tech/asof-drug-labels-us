@@ -87,7 +87,7 @@ Opening the Kyleena Package
 
 #### Step 2–Load Kyleena into the insertion tube
 
-- •Push the slider forwardas far as possible in the direction of the arrow, thereby moving the insertion tube over the Kyleena T-body to load Kyleena into the insertion tube (Figure 2).
+- •Push the slider forward as far as possible in the direction of the arrow, thereby moving the insertion tube over the Kyleena T-body to load Kyleena into the insertion tube (Figure 2).
   The tips of the arms will meet to form a rounded end that extends slightly beyond the insertion tube.
 
 Figure 2.
@@ -127,14 +127,15 @@ Move the slider back to the mark to release and open the arms
 
 Advance the inserter gently towards the fundus of the uterus until the flange touches the cervix.
 If you encounter fundal resistance do not continue to advance.
-Kyleena is now in the fundal position (Figure 6).Fundal positioning of Kyleena is important to prevent expulsion.
+Kyleena is now in the fundal position (Figure 6).
+Fundal positioning of Kyleena is important to prevent expulsion.
 
 Figure 6.
 Move Kyleena into the fundal position
 
 #### Step 7–Release Kyleena and withdraw the inserter
 
-- •Holding the entire inserter firmly in place, release Kyleena by moving the slider all the way down(Figure 7).
+- •Holding the entire inserter firmly in place, release Kyleena by moving the slider all the way down (Figure 7).
 
 Figure 7.
 Move the slider all the way down to release Kyleena from the insertion tube
@@ -159,7 +160,7 @@ Keep a copy of the Consent Form with lot number for your records.
 
 ## 2.2 Patient Follow-up
 
-- •Reexamine and evaluate patients 4 to 6 weeks after insertion and once a year thereafter,, or more frequently if clinically indicated.
+- •Reexamine and evaluate patients 4 to 6 weeks after insertion and once a year thereafter, or more frequently if clinically indicated.
 
 ## 2.3 Removal of Kyleena
 

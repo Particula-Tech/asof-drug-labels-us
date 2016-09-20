@@ -19,7 +19,7 @@ In the event of an intrauterine pregnancy with Kyleena, consider the following:
 
 ### Septic abortion
 
-In patients becoming pregnant with an IUS in place, septic abortion - with septicemia, septic shock, and death - may occur.
+In patients becoming pregnant with an IUS in place, septic abortion—with septicemia, septic shock, and death—may occur.
 
 ### Continuation of pregnancy
 
@@ -41,7 +41,8 @@ Remove Kyleena in cases of recurrent endometritis or pelvic inflammatory disease
 ### Pelvic Inflammatory Disease (PID)
 
 Kyleena is contraindicated in the presence of known or suspected PID or in women with a history of PID unless there has been a subsequent intrauterine pregnancy [see Contraindications (4)].
-IUDs have been associated with an increased risk of PID, most likely due to organisms being introduced into the uterus during insertion.1 In clinical trials, PID was observed in 0.5% of women overall and occurred more frequently within the first year and most often within the first month after insertion of Kyleena.
+IUDs have been associated with an increased risk of PID, most likely due to organisms being introduced into the uterus during insertion.
+In clinical trials, PID was observed in 0.5% of women overall and occurred more frequently within the first year and most often within the first month after insertion of Kyleena.
 
 #### Women at increased risk for PID
 
@@ -57,11 +58,12 @@ PID may be asymptomatic but still result in tubal damage and its sequelae.
 #### Treatment of PID
 
 Following a diagnosis of PID, or suspected PID, bacteriologic specimens should be obtained and antibiotic therapy should be initiated promptly.
-Removal of Kyleena after initiation of antibiotic therapy is usually appropriate.2
+Removal of Kyleena after initiation of antibiotic therapy is usually appropriate.1
 
 ### Actinomycosis
 
-Actinomycosis has been associated with IUDs Remove Kyleena from symptomatic women and treat with antibiotics.
+Actinomycosis has been associated with IUDs.
+Remove Kyleena from symptomatic women and treat with antibiotics.
 The significance of actinomyces-like organisms on Pap smear in an asymptomatic IUD user is unknown, and so this finding alone does not always require Kyleena removal and treatment.
 When possible, confirm a Pap smear diagnosis with cultures.
 
@@ -69,14 +71,14 @@ When possible, confirm a Pap smear diagnosis with cultures.
 
 Perforation (total or partial, including penetration/embedment of Kyleena in the uterine wall or cervix) may occur most often during insertion, although the perforation may not be detected until sometime later.
 Perforation may reduce contraceptive efficacy and result in pregnancy.
-The incidence of perforation during clinical trials was < 0.1%.
+The incidence of perforation during clinical trials was <0.1%.
 
 If perforation occurs, locate and remove Kyleena.
 Surgery may be required.
 Delayed detection or removal of Kyleena in case of perforation may result in migration outside the uterine cavity, adhesions, peritonitis, intestinal perforations, intestinal obstruction, abscesses and erosion of adjacent viscera.
 
 Clinical trials with Kyleena excluded breast-feeding women.
-An analysis from a large postmarketing safety study with other IUDs shows an increased risk of perforation in lactating women.
+An analysis from a large postmarketing safety study with another LNG-releasing IUS and copper IUDs shows an increased risk of perforation in lactating women.
 The risk of perforation may be increased if Kyleena is inserted when the uterus is fixed retroverted or not completely involuted during the postpartum period.
 Delay Kyleena insertion a minimum of six weeks or until involution is complete following a delivery or a second trimester abortion.
 
@@ -116,7 +118,7 @@ Table 1: Bleeding Patterns Reported with Kyleena in Contraception Studies (by 90
 
 | Kyleena | First 90 days N=1,566 | Second 90 days N=1,511 | End of year 1 N=1,371 | End of year 3 N=975 | End of year 5N=530 |
 | --- | --- | --- | --- | --- | --- |
-| Amenorrhea1 | < 1% | 5% | 12% | 20% | 23% |
+| Amenorrhea1 | <1% | 5% | 12% | 20% | 23% |
 | Infrequent bleeding2 | 10% | 20% | 26% | 26% | 26% |
 | Frequent bleeding3 | 25% | 10% | 4% | 2% | 2% |
 | Prolonged bleeding4 | 57% | 14% | 6% | 2% | 1% |
@@ -133,14 +135,14 @@ Subjects with prolonged bleeding may also be included in one of the other catego
 
 5Defined as subjects with 3 to 5 bleeding/spotting episodes and less than 3 bleeding/spotting-free intervals of 14 or more days
 
-Table 2:Mean number of Bleeding and Spotting Days per 28-day Cycle Equivalent
+Table 2: Mean number of Bleeding and Spotting Days per 28-day Cycle Equivalent
 
-| 28-day Cycle Equivalent | Cycle 1N=1,619 |  | Cycle 4N=1,575 |  | Cycle 7N=1,518 |  | Cycle 13N=1,394 |  | Cycle 39N=913 |  | Cycle 65N=322 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Days on treatment | 1–28 |  | 85–112 |  | 169–196 |  | 337–364 |  | 1065–1092 |  | 1793-1820 |  |
-|  | Mean (SD) |  | Mean (SD) |  | Mean (SD) |  | Mean (SD) |  | Mean (SD) |  | Mean (SD) |  |
-| Number of bleeding days | 7.2 (5.9) |  | 3.2 (3.6) |  | 2.2 (3.0) |  | 1.5 (2.4) |  | 1.0 (2.0) |  | 0.9 (1.8) |  |
-| Number of spotting days | 8.6 (6.0) |  | 4.6 (4.4) |  | 3.5 (3.4) |  | 2.9 (3.0) |  | 2.2 (2.6) |  | 2.1 (2.4) |  |
+| 28-day Cycle Equivalent | Cycle 1N=1,619 | Cycle 4N=1,575 | Cycle 7N=1,518 | Cycle 13N=1,394 | Cycle 39N=913 | Cycle 65N=322 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Days on treatment | 1–28 | 85–112 | 169–196 | 337–364 | 1065–1092 | 1793-1820 |
+|  | Mean (SD) | Mean (SD) | Mean (SD) | Mean (SD) | Mean (SD) | Mean (SD) |
+| Number of bleeding days | 7.2 (5.9) | 3.2 (3.6) | 2.2 (3.0) | 1.5 (2.4) | 1.0 (2.0) | 0.9 (1.8) |
+| Number of spotting days | 8.6 (6.0) | 4.6 (4.4) | 3.5 (3.4) | 2.9 (3.0) | 2.2 (2.6) | 2.1 (2.4) |
 
 Because irregular bleeding/spotting is common during the first months of Kyleena use, exclude endometrial pathology (polyps or cancer) prior to the insertion of Kyleena in women with persistent or uncharacteristic bleeding.
 If a significant change in bleeding develops during prolonged use, take appropriate diagnostic measures to rule out endometrial pathology.
@@ -170,13 +172,13 @@ In addition, consider removing Kyleena if any of the following conditions arise 
 - •Jaundice
 
 If the threads are not visible or are significantly shortened, they may have broken or retracted into the cervical canal or uterus.
-Consider the possibility that the system may have been displaced, (for example, expelled or perforated the uterus) [see Warnings and Precautions (5.5, 5.6)].
+Consider the possibility that the system may have been displaced (for example, expelled or perforated the uterus) [see Warnings and Precautions (5.5, 5.6)].
 Exclude pregnancy and verify the location of Kyleena, for example, by sonography, X-ray, or by gentle exploration of the cervical canal with a suitable instrument.
 If Kyleena is displaced, remove it.
 A new Kyleena may be inserted at that time or during the next menses if it is certain that conception has not occurred.
 If Kyleena is in place with no evidence of perforation, no intervention is indicated.
 
-## 5.11 Magnetic Resonance Imaging (MRI) Safety Information
+## 5.11 Magnetic Resonance Imaging (MRI) Information
 
 Non-clinical testing has demonstrated that Kyleena is MR Conditional.
 A patient with Kyleena can be safely scanned in an MR system meeting the following conditions:

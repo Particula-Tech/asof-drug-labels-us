@@ -1,3 +1,3 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Kyleena is a LNG-releasing IUS consisting of a T-shaped polyethylene frame with a steroid reservoir containing a total of 19.5 mg LNG.
+Kyleena is a LNG-releasing IUS (a type of intrauterine device, or IUD) consisting of a T-shaped polyethylene frame with a steroid reservoir containing a total of 19.5 mg LNG.

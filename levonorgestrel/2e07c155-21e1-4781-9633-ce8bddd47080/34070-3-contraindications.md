@@ -2,7 +2,7 @@
 
 The use of Kyleena is contraindicated when one or more of the following conditions exist:
 
-- •Pregnancy or suspicion of pregnancy [see Warnings and Precautions (5.2), Use in Specific Populations (8.1)];
+- •Pregnancy or suspicion of pregnancy [see Warnings and Precautions (5.2), Use in Specific Populations (8.1)]
 - •For use as post-coital contraception (emergency contraception)
 - •Congenital or acquired uterine anomaly, including fibroids, that distorts the uterine cavity
 - •Acute pelvic inflammatory disease (PID) or a history of PID unless there has been a subsequent intrauterine pregnancy [see Warnings and Precautions (5.4)]

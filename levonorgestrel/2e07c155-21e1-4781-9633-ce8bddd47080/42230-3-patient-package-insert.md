@@ -83,10 +83,10 @@ Do not use Kyleena if you:
    For example, if you:
 6. oHave multiple sexual partners or your partner has multiple sexual partners
 7. oHave problems with your immune system
-8. oUse or abuse intravenous drugs
+8. oAbuse intravenous drugs
 9. •Have or suspect you might have cancer of the uterus or cervix
 10. •Have bleeding from the vagina that has not been explained
-11. •Have liver disease or liver tumor
+11. •Have liver disease or a liver tumor
 12. •Have breast cancer or any other cancer that is sensitive to progestin (a female hormone), now or in the past
 13. •Have an intrauterine device in your uterus already
 14. •Have a condition of the uterus that changes the shape of the uterine cavity, such as large fibroid tumors
@@ -100,7 +100,7 @@ Before having Kyleena placed, tell your healthcare provider if you:
 - •Were born with heart disease or have problems with your heart valves
 - •Have problems with blood clotting or take medicine to reduce clotting
 - •Have high blood pressure
-- •Recently had a baby or if you are breastfeeding
+- •Recently had a baby or are breastfeeding
 - 6.Have severe migraine headaches
 
 How is Kyleena placed?
@@ -135,7 +135,7 @@ Otherwise, you should return to your healthcare provider for a follow-up visit 4
 
 Can I use tampons with Kyleena?
 
-Tampons may be used with Kyleena.
+Yes, tampons may be used with Kyleena.
 
 What if I become pregnant while using Kyleena?
 
@@ -166,7 +166,7 @@ You may also have frequent spotting or light bleeding.
 Some women have heavy bleeding during this time.
 After you have used Kyleena for a while, the number of bleeding and spotting days is likely to lessen.
 For some women, periods will stop altogether.
-When Kyleena is removed, your menstrual periods will return.
+When Kyleena is removed, your menstrual periods should return.
 
 Is it safe to breastfeed while using Kyleena?
 
@@ -229,7 +229,7 @@ Common side effects of Kyleena include:
 - •Missed menstrual periods.
   About 12 out of 100 women stop having periods after 1 year of Kyleena use.
   If you do not have a period for 6 weeks during Kyleena use, call your healthcare provider.
-  When Kyleena is removed, your menstrual periods will return.
+  When Kyleena is removed, your menstrual periods should return.
 - •Changes in bleeding.
   You may have bleeding and spotting between menstrual periods, especially during the first 3–6 months.
   Sometimes the bleeding is heavier than usual at first.
@@ -239,13 +239,13 @@ Common side effects of Kyleena include:
   About 22 out of 100 women using Kyleena develop a cyst on the ovary.
   These cysts usually disappear on their own in two to three months.
   However, cysts can cause pain and sometimes cysts will need surgery.
-- In addition, the following common side effects have been reported:
-- •Vulvovaginitis
-- •Abdominal pain/pelvic pain
-- •Headache/migraine
-- •Acne/seborrhea
-- •Dysmenorrhea/uterine spasm
-- •Breast pain/breast discomfort
+- Other common side effects include:
+- •Inflammation or infection of the outer part of your vagina (vulvovaginitis)
+- •Abdomen or pelvic pain
+- •Headache or migraine
+- •Acne or greasy skin
+- •Painful periods
+- •Sore or painful breasts
 
 This is not a complete list of possible side effects with Kyleena.
 For more information, ask your healthcare provider.
@@ -258,7 +258,7 @@ You may also report side effects to the manufacturer at 1-888-842-2937, or www.f
 
 After Kyleena has been placed, when should I call my healthcare provider?
 
-If Kyleena is accidentally removed and you had vaginal intercourse within the preceding 24 hours, you may be at risk of pregnancy, and you should talk to a healthcare provider.
+If Kyleena is accidentally removed and you had vaginal intercourse within the preceding week, you may be at risk of pregnancy, and you should talk to a healthcare provider.
 
 Call your healthcare provider if you have any concerns about Kyleena.
 Be sure to call if you:
@@ -268,13 +268,13 @@ Be sure to call if you:
 - •Have unusual vaginal discharge or genital sores
 - •Have unexplained fever, flu-like symptoms or chills
 - •Might be exposed to sexually transmitted infections (STIs)
-- •Are concerned that the IUS may have been expelled (came out)
+- •Are concerned that Kyleena may have been expelled (came out)
 - •Cannot feel Kyleena's threads
 - •Develop very severe or migraine headaches
 - •Have yellowing of the skin or whites of the eyes.
   These may be signs of liver problems.
 - •Have had a stroke or heart attack
-- •Or your partner becomes HIV positive
+- •Become HIV positive or your partner becomes HIV positive
 - •Have severe vaginal bleeding or bleeding that concerns you
 
 General advice about the safe and effective use of Kyleena.

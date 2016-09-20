@@ -40,9 +40,10 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 - •Unusual vaginal discharge or genital sores
 - •Severe vaginal bleeding or bleeding that lasts a long time, or if she misses a menstrual period
 - •Inability to feel Kyleena's threads
-- •Magnetic Resonance Imaging (MRI) Safety Information: Inform the patient that Kyleena can be safely scanned with MRI only under specific conditions [see Warnings and Precautions (5.11)].
-  Instruct patients who will have an MRI to tell their doctor that they have Kyleena.
-  This information is included on the Follow-Up Reminder Card.
-  [See Warnings and Precautions (5.11).]
-- •Follow-Up Reminder Card: Complete the Follow-up Reminder Card and give it to the patient.
-  Counsel her to bring the card to every scheduled appointment.
+
+Magnetic Resonance Imaging (MRI) Safety Information: Inform the patient that Kyleena can be safely scanned with MRI only under specific conditions [see Warnings and Precautions (5.11)].
+Instruct patients who will have an MRI to tell their doctor that they have Kyleena.
+This information is included on the Follow-Up Reminder Card.
+[See Warnings and Precautions (5.11).]
+
+- •Complete the Follow-up Reminder Card and give it to the patient.

@@ -17,7 +17,8 @@ The polypropylene of the removal thread contains <0.5% phthalocyaninato(2-) copp
 
 The components of Kyleena, including its packaging, are not manufactured using natural rubber latex.
 
-Figure 10: Kyleena
+Figure 10.
+Kyleena
 
 ## 11.2 Inserter
 

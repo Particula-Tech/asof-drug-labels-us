@@ -6,13 +6,11 @@
 
 The use of Kyleena is contraindicated in pregnancy or with a suspected pregnancy because there is no need for pregnancy prevention in a woman who is already pregnant and Kyleena may cause adverse pregnancy outcomes [see Contraindications (4), Warnings and Precautions (5.1, 5.2)].
 If a woman becomes pregnant with Kyleena in place, the likelihood of ectopic pregnancy is increased and there is an increased risk of miscarriage, sepsis, premature labor, and premature delivery [see Warnings and Precautions (5.1, 5.2)].
-Published studies report no adverse effects on fetal and infant development associated with long-term use of contraceptive doses of oral progestins in a pregnant woman.
-Because of the local exposure of the fetus to LNG, the possibility of teratogenicity following exposure to Kyleena cannot be completely excluded.
-Some observational data support a small increased risk of masculinization of the external genitalia of the female fetus following exposure to progestins at doses greater than those currently used for oral contraception.
+Studies report no adverse effects on fetal and infant development associated with long-term use of contraceptive doses of oral progestins in a pregnant woman.
+However, there have been reported cases of masculinization of the external genitalia of the female fetus following exposure to progestins at doses greater than those currently used for oral contraception.
+Animal reproduction studies have not been conducted with Kyleena.
 Follow pregnancies closely that occur with Kyleena in place.
 Advise women of the potential risks if pregnancy occurs with Kyleena in place.
-
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2–4% and 15–20%, respectively.
 
 ## 8.2 Lactation
 
@@ -26,7 +24,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-Kyleena have been established in women of reproductive age.
+Safety and efficacy of Kyleena have been established in women of reproductive age.
 Efficacy is expected to be the same for postpubertal females under the age of 18 as for users 18 years and older.
 Use of this product before menarche is not indicated.
 
