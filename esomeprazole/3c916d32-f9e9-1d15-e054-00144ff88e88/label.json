@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA202342"
+  ],
+  "inn": "esomeprazole",
+  "labeler": "R2 Pharma, LLC",
+  "package_ndcs": [
+    "70849-200-30",
+    "70849-400-30"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, DELAYED RELEASE",
+      "generic": "esomeprazole strontium",
+      "name": "ESOMEPRAZOLE STRONTIUM"
+    }
+  ],
+  "setid": "3c916d32-f9e9-1d15-e054-00144ff88e88",
+  "source": "dailymed"
+}
