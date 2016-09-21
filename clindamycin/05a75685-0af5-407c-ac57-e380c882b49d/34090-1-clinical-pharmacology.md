@@ -42,7 +42,7 @@ Average Peak and Trough Serum Concentrations of Active Clindamycin After Dosing 
 | 600 mg IV in 30 min q6h | 10.9 | 2.0 |
 | 600 mg IV in 30 min q8h | 10.8 | 1.1 |
 | 900 mg IV in 30 min q8h | 14.1 | 1.7 |
-| 600 mg IM q12hData in this group from patients being treated for infection. | 9. |  |
+| 600 mg IM q12hData in this group from patients being treated for infection. | 9 |  |
 | Pediatric Patients (first dose) |  |  |
 | 5–7 mg/kg IV in 1 hour | 10 |  |
 | 5–7 mg/kg IM | 8 |  |
@@ -59,20 +59,20 @@ Clindamycin is bacteriostatic.
 
 Resistance to clindamycin is most often caused by modification of specific bases of the 23S ribosomal RNA.
 Cross-resistance between clindamycin and lincomycin is complete.
-Because the binding sites for these antibacterial drugs overlap, cross-resistance is sometimes observed among lincosamides, macrolides and streptogramin B. Macrolide-inducible resistance to clindamycin occurs in some isolates of macrolide-resistant bacteria.
+Because the binding sites for these antibacterial drugs overlap, cross-resistance is sometimes observed among lincosamides, macrolides and streptogramin B.Macrolide-inducible resistance to clindamycin occurs in some isolates of macrolide-resistant bacteria.
 Macrolide-resistant isolates of staphylococci and beta-hemolytic streptococci should be screened for induction of clindamycin resistance using the D-zone test.
 
 ### Antimicrobial Activity
 
 Clindamycin has been shown to be active against most of the isolates of the following microorganisms, both in vitro and in clinical infections, as described in the INDICATIONS AND USAGE section.
 
-Gram-positive Bacteria
+#### Gram-positive Bacteria
 
 - Staphylococcus aureus (methicillin-susceptible strains)
 - Streptococcus pneumoniae (penicillin-susceptible strains)
 - Streptococcus pyogenes
 
-Anaerobic Bacteria
+#### Anaerobic Bacteria
 
 - Clostridium perfringens
 - Fusobacterium necrophorum
@@ -83,7 +83,7 @@ Anaerobic Bacteria
 At least 90% of the microorganisms listed below exhibit in vitro minimum inhibitory concentrations (MICs) less than or equal to the clindamycin susceptible MIC breakpoint for organisms of a similar type to those shown in Table 2.
 However, the efficacy of clindamycin in treating clinical infections due to these microorganisms has not been established in adequate and well-controlled clinical trials.
 
-Gram-positive Bacteria
+#### Gram-positive Bacteria
 
 - Staphylococcus epidermidis (methicillin-susceptible strains)
 - Streptococcus agalactiae
@@ -91,7 +91,7 @@ Gram-positive Bacteria
 - Streptococcus mitis
 - Streptococcus oralis
 
-Anaerobic Bacteria
+#### Anaerobic Bacteria
 
 - Actinomyces israelii
 - Clostridium clostridioforme
@@ -102,26 +102,26 @@ Anaerobic Bacteria
 - Prevotella intermedia
 - Propionibacterium acnes
 
-## Susceptibility Testing Methods
+### Susceptibility Testing Methods
 
 When available, the clinical microbiology laboratory should provide cumulative in vitro susceptibility test results for antimicrobial drugs used in local hospitals and practice areas to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
 These reports should aid the physician in selecting an antibacterial drug for treatment.
 
-### Dilution Techniques
+#### Dilution Techniques
 
 Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
 The MICs should be determined using a standardized test method2,3 (broth and/or agar).
 The MIC values should be interpreted according to the criteria provided in Table 2.
 
-### Diffusion Techniques
+#### Diffusion Techniques
 
 Quantitative methods that require the measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 The zone size should be determined using a standardized method2,5.
 This procedure uses paper disks impregnated with 2 mcg of clindamycin to test the susceptibility of bacteria to clindamycin..
 The disk diffusion breakpoints are provided in Table 2.
 
-### Anaerobic Techniques
+#### Anaerobic Techniques
 
 For anaerobic bacteria, the susceptibility to clindamycin can be determined by a standardized test method2,4.
 The MIC values obtained should be interpreted according to the criteria provided in Table 2.
@@ -143,7 +143,7 @@ This category implies possible clinical applicability in body sites where the dr
 This category also provides a buffer zone that prevents small, uncontrolled technical factors from causing major discrepancies in interpretation.
 A report of Resistant (R) indicates that the antimicrobial drug is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the infection site; other therapy should be selected.
 
-### Quality Control
+#### Quality Control
 
 Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of the supplies and reagents used in the assay, and the techniques of the individuals performing the test 2,3,4,5.
 Standard clindamycin powder should provide the MIC ranges in Table 3.

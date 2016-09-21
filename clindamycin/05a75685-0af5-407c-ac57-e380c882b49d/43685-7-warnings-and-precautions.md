@@ -2,7 +2,7 @@
 
 See BOXED WARNING.
 
-## Clostridium difficile associated diarrhea
+## Clostridium difficile Associated Diarrhea
 
 Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including CLEOCIN PHOSPHATE, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
@@ -15,25 +15,28 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
-## Hypersensitivity
+## Anaphylactic and Severe Hypersensitivity Reactions
 
-Severe hypersensitivity reactions, including severe skin reactions such as toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and Stevens-Johnson syndrome (SJS), some with fatal outcome, have been reported.
-In case of such an event, treatment should be permanently discontinued.
+Anaphylactic shock and anaphylactic reactions have been reported (see ADVERSE REACTIONS).
+
+Severe hypersensitivity reactions, including severe skin reactions such as toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and Stevens-Johnson syndrome (SJS), some with fatal outcome, have been reported(see ADVERSE REACTIONS).
+
+In case of such an anaphylactic or severe hypersensitivity reaction, discontinue treatment permanently and institute appropriate therapy.
 
 A careful inquiry should be made concerning previous sensitivities to drugs and other allergens.
-
-SERIOUS ANAPHYLACTOID OR ANAPHYLACTIC REACTIONS REQUIRE IMMEDIATE EMERGENCY TREATMENT WITH EPINEPHRINE.
-OXYGEN AND INTRAVENOUS CORTICOSTEROIDS SHOULD ALSO BE ADMINISTERED AS INDICATED.
 
 ## Benzyl Alcohol Toxicity in Pediatric Patients ("Gasping Syndrome")
 
 This product contains benzyl alcohol as a preservative.
 The preservative benzyl alcohol has been associated with serious adverse events, including the "gasping syndrome", and death in pediatric patients.
 Although normal therapeutic doses of this product ordinarily deliver amounts of benzyl alcohol that are substantially lower than those reported in association with the "gasping syndrome", the minimum amount of benzyl alcohol at which toxicity may occur is not known.
+
 The risk of benzyl alcohol toxicity depends on the quantity administered and the liver and kidneys' capacity to detoxify the chemical.
 Premature and low birth weight infants may be more likely to develop toxicity.
 
-Usage in Meningitis—Since clindamycin does not diffuse adequately into the cerebrospinal fluid, the drug should not be used in the treatment of meningitis.
+## Usage in Meningitis
+
+Since clindamycin does not diffuse adequately into the cerebrospinal fluid, the drug should not be used in the treatment of meningitis.
 
 # PRECAUTIONS
 
@@ -126,6 +129,7 @@ Benzyl alcohol has been associated with a fatal "Gasping Syndrome" in premature 
 See WARNINGS.
 
 The potential for the toxic effect in the pediatric population from chemicals that may leach from the single dose premixed IV preparation in plastic has not been evaluated.
+See WARNINGS.
 
 ## Geriatric Use
 
