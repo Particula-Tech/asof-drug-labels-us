@@ -133,8 +133,6 @@ Effect on male fertility has not been studied.
 
 ### Teratogenic Effects
 
-#### Pregnancy Category D
-
 There are no adequate and well-controlled studies on the use of doxycycline in pregnant women.
 The vast majority of reported experience with doxycycline during human pregnancy is short-term, first trimester exposure.
 There are no human data available to assess the effects of long-term therapy of doxycycline in pregnant women, such as that proposed for treatment of anthrax exposure.
