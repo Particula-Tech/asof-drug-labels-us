@@ -19,7 +19,7 @@ Impaired wound healing Thin fragile skin Petechiae and ecchymoses Facial erythem
 
 ## Neurological
 
-Increased intracranial pressure with papilledema (pseudotumor cerebri) usually after treatment Convulsions Vertigo Headache
+Increased intracranial pressure with papilledema (pseudotumor cerebri) usually after treatment Convulsions Vertigo Headache Epidural lipomatosis
 
 ## Endocrine
 
@@ -27,8 +27,12 @@ Development of Cushingoid state Suppression of growth in children Secondary adre
 
 ## Ophthalmic
 
-Posterior subcapsular cataracts Increased intraocular pressure Glaucoma Exophthalmos
+Central serous chorioretinopathy Posterior subcapsular cataracts Increased intraocular pressure Glaucoma Exophthalmos
 
 ## Metabolic
 
 Negative nitrogen balance due to protein catabolism
+
+## Blood and lymphatic system disorders
+
+Leukocytosis

@@ -15,6 +15,8 @@ Prolonged use of corticosteroids may produce posterior subcapsular cataracts, gl
 Since adequate human reproduction studies have not been done with corticosteroids, the use of these drugs in pregnancy, nursing mothers or women of childbearing potential requires that the possible benefits of the drug be weighed against the potential hazards to the mother and embryo or fetus.
 Infants born of mothers who have received substantial doses of corticosteroids during pregnancy, should be carefully observed for signs of hypoadrenalism.
 
+Corticosteroids have been shown to impair fertility in male rats.
+
 Average and large doses of hydrocortisone or cortisone can cause elevation of blood pressure, salt and water retention, and increased excretion of potassium.
 These effects are less likely to occur with the synthetic derivatives except when used in large doses.
 Dietary salt restriction and potassium supplementation may be necessary.
@@ -47,7 +49,6 @@ In such patients, corticosteroid-induced immunosuppression may lead to Strongylo
 
 Drug-induced secondary adrenocortical insufficiency may be minimized by gradual reduction of dosage.
 This type of relative insufficiency may persist for months after discontinuation of therapy; therefore, in any situation of stress occurring during that period, hormone therapy should be reinstituted.
-Since mineralocorticoid secretion may be impaired, salt and/or a mineralocorticoid should be administered concurrently.
 
 There is an enhanced effect of corticosteroids on patients with hypothyroidism and in those with cirrhosis.
 
@@ -70,6 +71,9 @@ The studies do show that relatively high doses of corticosteroids are necessary 
 (See DOSAGE AND ADMINISTRATION.)
 
 Since complications of treatment with glucocorticoids are dependent on the size of the dose and the duration of treatment, a risk/benefit decision must be made in each individual case as to dose and duration of treatment and as to whether daily or intermittent therapy should be used.
+
+Pheochromocytoma crisis, which can be fatal, has been reported after administration of systemic corticosteroids.
+In patients with suspected pheochromocytoma, consider the risk of pheochromocytoma crisis prior to administering corticosteroids.
 
 ## Drug Interactions
 
