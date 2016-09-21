@@ -18,7 +18,7 @@ Therefore, ZERBAXA does not affect cardiac repolarization.
 ## 12.3 Pharmacokinetics
 
 The mean pharmacokinetic parameters of ZERBAXA in healthy adults with normal renal function after single and multiple 1-hour intravenous infusions of ZERBAXA 1.5 gram (ceftolozane 1 g and tazobactam 0.5 g) administered every 8 hours are summarized in Table 6.
-Pharmacokinetic parameters were similar for single- and multiple-dose administration.
+Pharmacokinetic parameters were similar for single- and multiple-dose administrations.
 
 Table 6: Mean (CV%) Plasma Pharmacokinetic Parameters of ZERBAXA (ceftolozane and tazobactam) After Single and Multiple Intravenous 1-hour Infusions of ZERBAXA 1.5 g (ceftolozane 1 g and tazobactam 0.5 g) Every 8 Hours in Healthy Adults
 
@@ -40,21 +40,27 @@ Distribution
 The binding of ceftolozane and tazobactam to human plasma proteins is approximately 16% to 21% and 30%, respectively.
 The mean (CV%) steady-state volume of distribution of ZERBAXA in healthy adult males (n = 51) following a single intravenous dose of ZERBAXA 1.5 g (ceftolozane 1 g and tazobactam 0.5 g) was 13.5 L (21%) and 18.2 L (25%) for ceftolozane and tazobactam, respectively, similar to extracellular fluid volume.
 
+Elimination
+
+Ceftolozane is eliminated from the body by renal excretion with a half-life of approximately 3 hours.
+Tazobactam is eliminated by renal excretion and metabolism with a plasma half-life of approximately 1 hour.
+
 Metabolism
 
-Ceftolozane is eliminated in the urine as unchanged parent drug and thus does not appear to be metabolized to any appreciable extent.
+Ceftolozane is not a substrate for CYP enzymes and is mainly eliminated in the urine as unchanged parent drug and thus does not appear to be metabolized to any appreciable extent.
 The beta-lactam ring of tazobactam is hydrolyzed to form the pharmacologically inactive tazobactam metabolite M1.
 
 Excretion
 
-Ceftolozane and the tazobactam metabolite M1 are eliminated by the kidneys.
+Ceftolozane, tazobactam and the tazobactam metabolite M1 are excreted by the kidneys.
 Following administration of a single ZERBAXA 1.5 g (ceftolozane 1 g and tazobactam 0.5 g) intravenous dose to healthy male adults, greater than 95% of ceftolozane was excreted in the urine as unchanged parent drug.
 More than 80% of tazobactam was excreted as the parent compound with the remainder excreted as the tazobactam M1 metabolite.
 After a single dose of ZERBAXA, renal clearance of ceftolozane (3.41 – 6.69 L/h) was similar to plasma CL (4.10 to 6.73 L/h) and similar to the glomerular filtration rate for the unbound fraction, suggesting that ceftolozane is eliminated by the kidney via glomerular filtration.
+Tazobactam is a substrate for OAT1 and OAT3 transporters and its elimination has been shown to be inhibited by probenecid, an inhibitor of OAT1/3.
 
 Specific Populations
 
-Renal Impairment
+Patients with Renal Impairment
 
 ZERBAXA and the tazobactam metabolite M1 are eliminated by the kidneys.
 
@@ -66,7 +72,7 @@ In subjects with ESRD on HD, approximately two-thirds of the administered ZERBAX
 The recommended dose in subjects with ESRD on HD is a single loading dose of ZERBAXA 750 mg (ceftolozane 500 mg and tazobactam 250 mg), followed by a ZERBAXA 150 mg (ceftolozane 100 mg and tazobactam 50 mg) maintenance dose administered every 8 hours for the remainder of the treatment period.
 On HD days, administer the dose at the earliest possible time following completion of HD [see Dosage and Administration (2.2)].
 
-Hepatic Impairment
+Patients with Hepatic Impairment
 
 As ZERBAXA does not undergo hepatic metabolism, the systemic clearance of ZERBAXA is not expected to be affected by hepatic impairment.
 
@@ -153,15 +159,13 @@ These isolates produced one or more beta-lactamases of the following enzyme grou
 
 ZERBAXA demonstrated in vitro activity against P. aeruginosa isolates tested that had chromosomal AmpC, loss of outer membrane porin (OprD), or up-regulation of efflux pumps (MexXY, MexAB).
 
-Cross-Resistance
-
 Isolates resistant to other cephalosporins may be susceptible to ZERBAXA, although cross-resistance may occur.
 
 Interaction with Other Antimicrobials
 
 In vitro synergy studies suggest no antagonism between ZERBAXA and other antibacterial drugs (e.g., meropenem, amikacin, aztreonam, levofloxacin, tigecycline, rifampin, linezolid, daptomycin, vancomycin, and metronidazole).
 
-List of Microorganisms
+Antimicrobial Activity
 
 ZERBAXA has been shown to be active against the following bacteria, both in vitro and in clinical infections [see Indications and Usage (1)].
 
@@ -196,21 +200,13 @@ Gram-negative bacteria:
 - Pseudomonas aeruginosa
 
 The following in vitro data are available, but their clinical significance is unknown.
-At least 90% of the following microorganisms exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to 2 mcg/mL for ceftolozane and tazobactam.
-The safety and effectiveness of ZERBAXA in treating clinical infections due to these bacteria have not been established in adequate and well-controlled clinical trials.
+At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for ceftolozane and tazobactam against isolates of similar genus or organism group.
+However, the efficacy of ZERBAXA in treating clinical infections due to these bacteria has not been established in adequate and well-controlled clinical trials.
 
 Gram-negative bacteria:
 
-- Acinetobacter baumannii
-- Burkholderia cepacia
-- Citrobacter freundii
 - Citrobacter koseri
-- Enterobacter aerogenes
-- Enterobacter cloacae
-- Haemophilus influenzae
-- Moraxella catarrhalis
 - Morganella morganii
-- Pantoea agglomerans
 - Proteus vulgaris
 - Providencia rettgeri
 - Providencia stuartii
@@ -221,38 +217,30 @@ Gram-positive bacteria:
 
 - Streptococcus agalactiae
 - Streptococcus intermedius
-- Streptococcus pyogenes
-- Streptococcus pneumoniae
-
-Anaerobic bacteria:
-
-- Fusobacterium spp.
-- Prevotella spp.
 
 Susceptibility Test Methods
 
-When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drugs used in local hospitals and practice areas to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
-These reports should aid the physician in selecting an antibacterial drug product for treatment.
+When available, the clinical microbiology laboratory should provide cumulative reports of in vitro susceptibility test results for antimicrobial drugs used in local hospitals and practice areas to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
+These reports should aid the physician in selecting an antibacterial drug for treatment.
 
-Dilution Techniques
+Dilution Techniques:
 
-Quantitative methods are used to determine antimicrobial MICs.
+Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
 Ceftolozane and tazobactam susceptibility testing is performed with a fixed 4 mcg/mL concentration of tazobactam.
 These MICs provide estimates of the susceptibility of bacteria to antibacterial compounds.
 The MICs should be determined using a standardized test method (broth, and/or agar).1,4 The MIC values should be interpreted according to the criteria in Table 7.
 
-Diffusion Techniques
+Diffusion Techniques:
 
 Quantitative methods that require measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
-The zone size should be determined using a standardized test method.2,4 This procedure uses paper disks impregnated with 30 mcg of ceftolozane and 10 mcg of tazobactam to test the susceptibility of microorganisms to ceftolozane and tazobactam.
+The zone size should be determined using a standardized test method.2,4 This procedure uses paper disks impregnated with 30 mcg of ceftolozane and 10 mcg of tazobactam to test the susceptibility of bacteria to ceftolozane and tazobactam.
 The disk diffusion should be interpreted according to the criteria in Table 7.
 
-Anaerobic Techniques
+Anaerobic Techniques:
 
 For anaerobic bacteria, the susceptibility to ceftolozane and tazobactam can be determined by standardized test method.3 The MIC values obtained should be interpreted according to criteria provided in Table 7.
 
-Table 7: Susceptibility Interpretive Criteria for Ceftolozane/Tazobactam
+Table 7: Susceptibility Test Interpretive Criteria for Ceftolozane/Tazobactam
 
 | S | I | R | S | I | R |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -263,11 +251,11 @@ Table 7: Susceptibility Interpretive Criteria for Ceftolozane/Tazobactam
 | B. fragilis | ≤8/4 | 16/4 | ≥32/4 | --- | --- | --- |
 | S = susceptible, I = intermediate, R = resistant |  |  |  |  |  |  |
 
-A report of "Susceptible" indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
-A report of "Intermediate" indicates that the result should be considered equivocal, and if the microorganism is not fully susceptible to alternative clinically feasible drugs, the test should be repeated.
-This category implies possible clinical applicability in body sites where the drug is physiologically concentrated.
+A report of Susceptible (S) indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
+A report of Intermediate (I) indicates that the result should be considered equivocal, and if the microorganism is not fully susceptible to alternative clinically feasible drugs, the test should be repeated.
+This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where a high dose of the drug can be used.
 This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of "Resistant" indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentrations usually achievable at the infection site; other therapy should be selected.
+A report of Resistant (R) indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentrations usually achievable at the infection site; other therapy should be selected.
 
 Quality Control
 
@@ -276,7 +264,7 @@ For the diffusion technique using the 30 mcg ceftolozane/10 mcg tazobactam disk,
 
 Table 8: Acceptable Quality Control Ranges for Ceftolozane/Tazobactam
 
-| Quality Control Organism | Minimum Inhibitory Concentrations (mcg/mL) | Disk Diffusion Zone Diameters (mm) |
+| Quality Control Strain | Minimum Inhibitory Concentrations (mcg/mL) | Disk Diffusion (Zone Diameters in mm) |
 | --- | --- | --- |
 | Escherichia coli ATCC 25922 | 0.12/4-0.5/4 | 24-32 |
 | Escherichia coliStore E. coli ATCC 35218 and K. pneumoniae ATCC 700603 stock cultures at -60°C or below and prepare working stock cultures weekly. ATCC 35218 | 0.06/4-0.25/4 | 25-31 |

@@ -20,7 +20,7 @@ Table 5 lists adverse reactions occurring in 1% or greater of patients receiving
 
 Table 5: Adverse Reactions Occurring in 1% or Greater of Patients Receiving ZERBAXA in Phase 3 Clinical Trials
 
-| ZERBAXAThe ZERBAXA for injection dose was 1.5 g intravenously every 8 hours, adjusted to match renal function where appropriate. In the cIAI trials, ZERBAXA was given in conjunction with metronidazole. (N=482) | Meropenem (N=497) | ZERBAXA (N=533) | Levofloxacin (N=535) |  |
+| ZERBAXAThe ZERBAXA for injection dose was 1.5 g intravenously every 8 hours, adjusted to match renal function where appropriate. In the cIAI trials, ZERBAXA was given in conjunction with metronidazole. (N=482) n (%) | Meropenem (N=497) n (%) | ZERBAXA (N=533) n (%) | Levofloxacin (N=535) n (%) |  |
 | --- | --- | --- | --- | --- |
 | Preferred Term | Complicated Intra-abdominal Infections |  | Complicated Urinary Tract Infections, Including Pyelonephritis |  |
 | Nausea | 38 (7.9) | 29 (5.8) | 15 (2.8) | 9 (1.7) |
@@ -55,9 +55,9 @@ Less Common Adverse Reactions
 The following selected adverse reactions were reported in ZERBAXA-treated subjects at a rate of less than 1%:
 
 - Cardiac disorders: tachycardia, angina pectoris
-- Gastrointestinal disorders: ileus, gastritis, abdominal distension, dyspepsia, flatulence, ileus paralytic
+- Gastrointestinal disorders: gastritis, abdominal distension, dyspepsia, flatulence, ileus paralytic
 - General disorders and administration site conditions: infusion site reactions
-- Infections and infestations: candidiasis, oropharyngeal, fungal urinary tract infection
+- Infections and infestations: candidiasis including oropharyngeal and vulvovaginal, fungal urinary tract infection
 - Investigations: increased serum gamma-glutamyl transpeptidase (GGT), increased serum alkaline phosphatase, positive Coombs test
 - Metabolism and nutrition disorders: hyperglycemia, hypomagnesemia, hypophosphatemia
 - Nervous system disorders: ischemic stroke

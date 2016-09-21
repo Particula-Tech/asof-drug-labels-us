@@ -7,11 +7,9 @@ Long-term carcinogenicity studies in animals have not been conducted with ZERBAX
 ZERBAXA was negative for genotoxicity in an in vitro mouse lymphoma assay and an in vivo rat bone-marrow micronucleus assay.
 In an in vitro chromosomal aberration assay in Chinese hamster ovary cells, ZERBAXA was positive for structural aberrations.
 
-Ceftolozane was negative for genotoxicity in an in vitro microbial mutagenicity (Ames) assay, an in vitro chromosomal aberration assay in Chinese hamster lung fibroblast cells, an in vivo mouse micronucleus assay, and an in vivo unscheduled DNA synthesis (UDS) assay.
-Ceftolozane was positive for mutagenicity in an in vitro mouse lymphoma assay.
+Ceftolozane was negative for genotoxicity in an in vitro microbial mutagenicity (Ames) assay, an in vitro chromosomal aberration assay in Chinese hamster lung fibroblast cells, an in vitro mouse lymphoma assay, an in vivo mouse micronucleus assay, and an in vivo unscheduled DNA synthesis (UDS) assay.
 
-Tazobactam was negative for genotoxicity in an in vitro microbial mutagenicity (Ames) assay, an in vitro chromosomal aberration assay in Chinese hamster lung fibroblast cells, a mammalian point-mutation (Chinese hamster ovary cell HPRT) assay, an in vivo rat bone-marrow micronucleus assay, and an in vivo UDS assay.
-In another mammalian (mouse lymphoma cell) gene-mutation assay, tazobactam was positive for genotoxicity.
+Tazobactam was negative for genotoxicity in an in vitro microbial mutagenicity (Ames) assay, an in vitro chromosomal aberration assay in Chinese hamster lung cells, a mammalian point-mutation (Chinese hamster ovary cell HPRT) assay, an in vivo mouse bone-marrow micronucleus assay, and a UDS assay.
 
 Ceftolozane had no adverse effect on fertility in male or female rats at intravenous doses up to 1000 mg/kg/day.
 The mean plasma exposure (AUC) value at this dose is approximately 3 times the mean daily human ceftolozane exposure value in healthy adults at the clinical dose of 1 gram thrice daily.
