@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA203375"
+  ],
+  "inn": "dextromethorphan",
+  "labeler": "Acella Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "42192-607-04",
+    "42192-607-16"
+  ],
+  "products": [
+    {
+      "form": "SYRUP",
+      "generic": "brompheniramine maleate, pseudoephedrine hydrochloride, and dextromethorphan hydrobromide",
+      "name": "Brompheniramine Maleate, Pseudoephedrine Hydrochloride, Dextromethorphan Hydrobromide"
+    }
+  ],
+  "setid": "1045e307-f60d-482d-8e06-40e72b84c651",
+  "source": "dailymed"
+}
