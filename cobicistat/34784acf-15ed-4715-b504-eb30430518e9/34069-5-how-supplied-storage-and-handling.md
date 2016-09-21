@@ -7,4 +7,3 @@ Store below 30 °C (86 °F).
 
 - Keep container tightly closed.
 - Dispense only in original container.
-- Do not use if seal over bottle opening is broken or missing.

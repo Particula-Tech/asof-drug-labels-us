@@ -1,22 +1,22 @@
 # 10 OVERDOSAGE
 
 No data are available on overdose of GENVOYA in patients.
-If overdose occurs, the patient must be monitored for evidence of toxicity.
+If overdose occurs, monitor the patient for evidence of toxicity.
 Treatment of overdose with GENVOYA consists of general supportive measures including monitoring of vital signs as well as observation of the clinical status of the patient.
 
-Elvitegravir: Limited clinical experience is available at doses higher than the therapeutic dose of elvitegravir.
+Elvitegravir: Limited clinical experience is available at doses higher than the recommended dose of elvitegravir in GENVOYA.
 In one study, boosted elvitegravir equivalent to 2 times the therapeutic dose of 150 mg once daily for 10 days was administered to 42 healthy subjects.
 No severe adverse reactions were reported.
 The effects of higher doses are not known.
 As elvitegravir is highly bound to plasma proteins, it is unlikely that it will be significantly removed by hemodialysis or peritoneal dialysis.
 
-Cobicistat: Limited clinical experience is available at doses higher than the therapeutic dose of cobicistat.
+Cobicistat: Limited clinical experience is available at doses higher than the recommended dose of cobicistat in GENVOYA.
 In two studies, a single dose of cobicistat 400 mg (2.7 times the dose in GENVOYA) was administered to a total of 60 healthy subjects.
 No severe adverse reactions were reported.
 The effects of higher doses are not known.
 As cobicistat is highly bound to plasma proteins, it is unlikely that it will be significantly removed by hemodialysis or peritoneal dialysis.
 
-Emtricitabine: Limited clinical experience is available at doses higher than the therapeutic dose of emtricitabine.
+Emtricitabine: Limited clinical experience is available at doses higher than the recommended dose of emtricitabine in GENVOYA.
 In one clinical pharmacology study, single doses of emtricitabine 1200 mg (6 times the dose in GENVOYA) were administered to 11 subjects.
 No severe adverse reactions were reported.
 The effects of higher doses are not known.
@@ -24,7 +24,7 @@ The effects of higher doses are not known.
 Hemodialysis treatment removes approximately 30% of the emtricitabine dose over a 3-hour dialysis period starting within 1.5 hours of emtricitabine dosing (blood flow rate of 400 mL per minute and a dialysate flow rate of 600 mL per minute).
 It is not known whether emtricitabine can be removed by peritoneal dialysis.
 
-Tenofovir alafenamide (TAF): Limited clinical experience is available at doses higher than the therapeutic dose of TAF.
+Tenofovir alafenamide (TAF): Limited clinical experience is available at doses higher than the recommended dose of TAF in GENVOYA.
 A single dose of 125 mg TAF (12.5 times the dose in GENVOYA) was administered to 48 healthy subjects; no serious adverse reactions were reported.
 The effects of higher doses are unknown.
 Tenofovir is efficiently removed by hemodialysis with an extraction coefficient of approximately 54%.

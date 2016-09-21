@@ -23,14 +23,16 @@ Tenofovir Alafenamide (TAF): In a thorough QT/QTc study in 48 healthy subjects, 
 Effects on Serum Creatinine
 
 The effect of cobicistat on serum creatinine was investigated in a Phase 1 study in subjects with an eGFR of at least 80 mL per minute (N=18) and with an eGFR of 50 to 79 mL per minute (N=12).
-A statistically significant change of eGFRCG from baseline was observed after 7 days of treatment with cobicistat 150 mg among subjects with an eGFR of at least 80 mL per minute (-9.9 ± 13.1 mL/min) and subjects with an eGFR of 50 to 79 mL per minute (-11.9 ± 7.0 mL per minute).
+A statistically significant change of eGFRCG from baseline was observed after 7 days of treatment with cobicistat 150 mg among subjects with an eGFR of at least 80 mL per minute (−9.9 ± 13.1 mL/min) and subjects with an eGFR of 50 to 79 mL per minute (−11.9 ± 7.0 mL per minute).
 These decreases in eGFRCG were reversible after cobicistat was discontinued.
 The actual glomerular filtration rate, as determined by the clearance of probe drug iohexol, was not altered from baseline following treatment of cobicistat among subjects with an eGFR of at least 50 mL per minute, indicating cobicistat inhibits tubular secretion of creatinine, reflected as a reduction in eGFRCG, without affecting the actual glomerular filtration rate.
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetic properties of the components of GENVOYA are provided in Table 6.
-The multiple dose pharmacokinetic parameters of elvitegravir, cobicistat, emtricitabine, TAF and its metabolite tenofovir are provided in Table 7.
+Absorption, Distribution, Metabolism, and Excretion
+
+The pharmacokinetic (PK) properties of the components of GENVOYA are provided in Table 6.
+The multiple dose PK parameters of elvitegravir, cobicistat, emtricitabine, TAF and its metabolite tenofovir are provided in Table 7.
 
 Table 6 Pharmacokinetic Properties of the Components of GENVOYA
 
@@ -38,14 +40,14 @@ Table 6 Pharmacokinetic Properties of the Components of GENVOYA
 | --- | --- | --- | --- | --- |
 | Absorption |  |  |  |  |
 | Tmax (h) | 4 | 3 | 3 | 1 |
-| Effect of light meal (relative to fasting)Values refer to mean systemic exposure. Elvitegravir light meal=~373 kcal, 20% fat; GENVOYA light meal=~400 kcal, 20% fat; elvitegravir and GENVOYA high fat meal=~800 kcal, 50% fat. Based on the effect of food on elvitegravir, GENVOYA should be taken with food. | ↑34% | Not clinically significant |  |  |
-| Effect of high fat meal (relative to fasting) | ↑87% |  |  |  |
+| Effect of light meal (relative to fasting): AUC RatioValues refer to geometric mean ratio in AUC [fed / fasted] and (90% confidence interval). Elvitegravir light meal=~373 kcal, 20% fat; GENVOYA light meal=~400 kcal, 20% fat; elvitegravir and GENVOYA high fat meal=~800 kcal, 50% fat. Based on the effect of food on elvitegravir, GENVOYA should be taken with food. | 1.34 (1.19, 1.51) | 1.03 (0.90, 1.17) | 0.95 (0.91, 1.00) | 1.15 (1.07, 1.24) |
+| Effect of high fat meal (relative to fasting): AUC Ratio | 1.87 (1.66, 2.10) | 0.83 (0.73, 0.95) | 0.96 (0.92, 1.00) | 1.18 (1.09, 1.26) |
 | Distribution |  |  |  |  |
 | % Bound to human plasma proteins | ~99 | ~98 | <4 | ~80 |
 | Source of protein binding data | Ex vivo | In vitro | In vitro | Ex vivo |
 | Blood-to-plasma ratio | 0.73 | 0.5 | 0.6 | 1.0 |
 | Metabolism |  |  |  |  |
-| Metabolism | CYP3A (major) UGT1A1/3 (minor) | CYP3A (major) CYP2D6 (minor) | Not significantly metabolized | Cathepsin AIn vivo, TAF is hydrolyzed within cells to form tenofovir (major metabolite), which is phosphorylated to the active metabolite, tenofovir diphosphate. In vitro studies have shown that TAF is metabolized to tenofovir by cathepsin A in PBMCs and macrophages; and by CES1 in hepatocytes. Upon coadministration with the moderate CYP3A inducer probe efavirenz, TAF exposure was unaffected. (PBMCs) CES1 (hepatocytes) CYP3A (minimal) |
+| Metabolism | CYP3A (major) UGT1A1/3 (minor) | CYP3A (major) CYP2D6 (minor) | Not significantly metabolized | Cathepsin AIn vivo, TAF is hydrolyzed within cells to form tenofovir (major metabolite), which is phosphorylated to the active metabolite, tenofovir diphosphate. In vitro studies have shown that TAF is metabolized to tenofovir by cathepsin A in PBMCs and macrophages; and by CES1 in hepatocytes. Upon coadministration with the moderate CYP3A inducer probe efavirenz, TAF exposure was not significantly affected. (PBMCs) CES1 (hepatocytes) CYP3A (minimal) |
 | Elimination |  |  |  |  |
 | Major route of elimination | Metabolism | Metabolism | Glomerular filtration and active tubular secretion | Metabolism (>80% of oral dose) |
 | t1/2 (h)t1/2 values refer to median terminal plasma half-life. Note that the pharmacologically active metabolite, tenofovir diphosphate, has a half-life of 150–180 hours within PBMCs. | 12.9 | 3.5 | 10 | 0.51 |
@@ -70,7 +72,7 @@ The pharmacokinetics of GENVOYA in HIV-1 infected subjects with renal impairment
 
 Table 8 Pharmacokinetics of GENVOYA in HIV-Infected Adults with Renal Impairment as Compared to Subjects with Normal Renal Function
 
-| Creatinine Clearance (mL per minute) | ≥90 (N=18)From a phase 2 study in HIV-infected adults with normal renal function | 60–89 (N=11)These subjects from Study 112 had an eGFR ranging from 60 to 69 mL per minute. | 30–59 (N=18)Study 112 |
+| Creatinine Clearance | ≥90 mL per minute (N=18)From a Phase 2 study in HIV-infected adults with normal renal function. | 60–89 mL per minute (N=11)These subjects from Study 112 had an eGFR ranging from 60 to 69 mL per minute. | 30–59 mL per minute (N=18)Study 112. |
 | --- | --- | --- | --- |
 |  | AUCtau (microgram∙hour per mL) Mean (CV%) |  |  |
 | Elvitegravir | 22.6 (35.8) | 24.2 (35.0) | 29.0 (29.6) |
@@ -86,7 +88,7 @@ No clinically relevant differences in elvitegravir or cobicistat pharmacokinetic
 
 Emtricitabine: The pharmacokinetics of emtricitabine has not been studied in subjects with hepatic impairment; however, emtricitabine is not significantly metabolized by liver enzymes, so the impact of liver impairment should be limited.
 
-Tenofovir Alafenamide (TAF): Clinically relevant changes in tenofovir pharmacokinetics in subjects with hepatic impairment were not observed in subjects with mild to moderate hepatic impairment [see Use in Specific Populations (8.7)].
+Tenofovir Alafenamide (TAF): Clinically relevant changes in tenofovir pharmacokinetics in subjects with hepatic impairment were not observed in subjects with mild to moderate (Child-Pugh Class A and B) hepatic impairment [see Use in Specific Populations (8.7)].
 
 Hepatitis B and/or Hepatitis C Virus Co-infection
 
@@ -95,14 +97,6 @@ Elvitegravir: Limited data from population pharmacokinetic analysis (N=24) indic
 Cobicistat: There were insufficient pharmacokinetic data in the clinical trials to determine the effect of hepatitis B and/or C virus infection on the pharmacokinetics of cobicistat.
 
 Emtricitabine and Tenofovir Alafenamide (TAF): Pharmacokinetics of emtricitabine and TAF have not been fully evaluated in subjects coinfected with hepatitis B and/or C virus.
-
-Race
-
-Based on population pharmacokinetic analyses, no dosage adjustment is recommended based on race.
-
-Gender
-
-Based on population pharmacokinetic analyses, no dosage adjustment is recommended based on gender.
 
 Pediatric Patients
 
@@ -113,13 +107,21 @@ Geriatric Patients
 Pharmacokinetics of elvitegravir, cobicistat, emtricitabine and tenofovir have not been fully evaluated in the elderly (65 years of age and older).
 Population pharmacokinetics analysis of HIV-infected subjects in Phase 2 and Phase 3 trials of GENVOYA showed that age did not have a clinically relevant effect on exposures of TAF up to 75 years of age [see Use in Specific Populations (8.5)].
 
+Race
+
+Based on population pharmacokinetic analyses, no dosage adjustment is recommended based on race.
+
+Gender
+
+Based on population pharmacokinetic analyses, no dosage adjustment is recommended based on gender.
+
 Drug Interaction Studies
 
 [see also Contraindications (4) and Drug Interactions (7)]
 
 The drug-drug interaction studies described in Tables 9–11 were conducted with GENVOYA, elvitegravir (coadministered with cobicistat or ritonavir), cobicistat administered alone, or TAF administered alone.
 
-As GENVOYA should not be administered with other antiretroviral medications, information regarding drug-drug interactions with other antiretrovirals agents is not provided [see Warnings and Precautions (5.3)].
+As GENVOYA should not be administered with other antiretroviral medications, information regarding drug-drug interactions with other antiretrovirals agents is not provided.
 
 The effects of coadministered drugs on the exposure of elvitegravir are shown in Table 9.
 The effects of coadministered drugs on the exposure of TAF are shown in Table 10.
@@ -139,13 +141,14 @@ Table 9 Drug Interactions: Changes in Pharmacokinetic Parameters for Elvitegravi
 | Famotidine | 40 once daily given 12 hours after elvitegravir | 150 once daily | Cobicistat 150 once daily | 10 | 1.02 (0.89,1.17) | 1.03 (0.95,1.13) | 1.18 (1.05,1.32) |
 | 40 once daily given simultaneously with elvitegravir | 16 | 1.00 (0.92,1.10) | 1.03 (0.98,1.08) | 1.07 (0.98,1.17) |  |  |  |
 | Ketoconazole | 200 twice daily | 150 once daily | Ritonavir 100 once daily | 18 | 1.17 (1.04,1.33) | 1.48 (1.36,1.62) | 1.67 (1.48,1.88) |
-| Ledipasvir/ Sofosbuvir | 90/400 once daily | 150 once daily | Cobicistat 150 once dailyMean ratio of cobicistat PK parameters (90% CI) was 1.25 (1.18,1.32) for Cmax, 1.59 (1.49,1.70) for AUC, and 4.25 (3.47,5.22) for Cmin. | 29 | 0.88 (0.82,0.95) | 1.02 (0.95,1.09) | 1.36 (1.23,1.49) |
+| Ledipasvir/ Sofosbuvir | 90/400 once daily | 150 once dailyStudy conducted with GENVOYA. | Cobicistat 150 once daily | 30 | 0.98 (0.90,1.07) | 1.11 (1.02,1.20) | 1.46 (1.28,1.66) |
 | Omeprazole | 40 once daily given 2 hours before elvitegravir | 50 once daily | Ritonavir 100 once daily | 9 | 0.93 (0.83,1.04) | 0.99 (0.91,1.07) | 0.94 (0.85,1.04) |
 | 20 once daily given 2 hours before elvitegravir | 150 once daily | Cobicistat 150 once daily | 11 | 1.16 (1.04,1.30) | 1.10 (1.02,1.19) | 1.13 (0.96,1.34) |  |
 | 20 once daily given 12 hours after elvitegravir | 11 | 1.03 (0.92,1.15) | 1.05 (0.93,1.18) | 1.10 (0.92,1.32) |  |  |  |
 | Rifabutin | 150 once every other day | 150 once daily | Cobicistat 150 once daily | 12 | 0.91 (0.84,0.99) | 0.79 (0.74,0.85) | 0.33 (0.27,0.40) |
 | Rosuvastatin | 10 single dose | 150 once daily | Cobicistat 150 once daily | 10 | 0.94 (0.83,1.07) | 1.02 (0.91,1.14) | 0.98 (0.83,1.16) |
-| Sertraline | 50 single dose | 150 once dailyStudy conducted with GENVOYA. | Cobicistat 150 once daily | 19 | 0.88 (0.82,0.93) | 0.94 (0.89,0.98) | 0.99 (0.93,1.05) |
+| Sertraline | 50 single dose | 150 once daily | Cobicistat 150 once daily | 19 | 0.88 (0.82,0.93) | 0.94 (0.89,0.98) | 0.99 (0.93,1.05) |
+| Sofosbuvir/ Velpatasvir | 400/100 once daily | 150 once daily | Cobicistat 150 once daily | 24 | 0.87 (0.80,0.94) | 0.94 (0.88,1.00) | 1.08 (0.97,1.20) |
 
 Table 10 Drug Interactions: Changes in Pharmacokinetic Parameters for Tenofovir Alafenamide (TAF) in the Presence of the Coadministered DrugAll interaction studies conducted in healthy volunteers.
 
@@ -153,7 +156,9 @@ Table 10 Drug Interactions: Changes in Pharmacokinetic Parameters for Tenofovir 
 | --- | --- | --- | --- | --- | --- | --- |
 | Coadministered Drug | Dose of Coadministered Drug (mg) | TAF (mg) | N | Mean Ratio of TAF Pharmacokinetic Parameters (90% CI); No effect = 1.00 |  |  |
 | Cobicistat | 150 once daily | 8 once daily | 12 | 2.83 (2.20,3.65) | 2.65 (2.29,3.07) | NC |
-| Sertraline | 50 single dose | 10 once dailyStudy conducted with GENVOYA. | 19 | 1.00 (0.86,1.16) | 0.96 (0.89,1.03) | NC |
+| Ledipasvir/ Sofosbuvir | 90/400 once daily | 10 once dailyStudy conducted with GENVOYA. | 30 | 0.90 (0.73,1.11) | 0.86 (0.78,0.95) | NC |
+| Sertraline | 50 single dose | 10 once daily | 19 | 1.00 (0.86,1.16) | 0.96 (0.89,1.03) | NC |
+| Sofosbuvir/ Velpatasvir | 400/100 once daily | 10 once daily | 24 | 0.80 (0.68,0.94) | 0.87 (0.81,0.94) | NC |
 | NC = Not Calculated |  |  |  |  |  |  |
 
 Table 11 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of GENVOYA or the Individual ComponentsAll interaction studies conducted in healthy volunteers.
@@ -161,24 +166,27 @@ Table 11 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadminist
 | Cmax | AUC | Cmin |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Coadministered Drug | Dose of Coadministered Drug (mg) | Elvitegravir Dose (mg) | Cobicistat Booster Dose (mg) | N | Mean Ratio of Coadministered Drug Pharmacokinetic Parameters (90% CI); No effect = 1.00 |  |  |
-| Buprenorphine | 16 – 24 once daily | 150 once daily | 150 once daily | 17 | 1.12 (0.98 to 1.27) | 1.35 (1.18 to 1.55) | 1.66 (1.43 to 1.93) |
-| Norbuprenorphine | 1.24 (1.03 to 1.49) | 1.42 (1.22 to 1.67) | 1.57 (1.31 to 1.88) |  |  |  |  |
+| Buprenorphine | 16 – 24 once daily | 150 once daily | 150 once daily | 17 | 1.12 (0.98,1.27) | 1.35 (1.18,1.55) | 1.66 (1.43,1.93) |
+| Norbuprenorphine | 1.24 (1.03,1.49) | 1.42 (1.22,1.67) | 1.57 (1.31,1.88) |  |  |  |  |
 | Carbamazepine | 200 twice daily | 150 once daily | 150 once daily | 12 | 1.40 (1.32,1.49) | 1.43 (1.36,1.52) | 1.51 (1.41,1.62) |
 | Carbamazepine-10,11-epoxide | 0.73 (0.70,0.78) | 0.65 (0.63,0.66) | 0.59 (0.57,0.61) |  |  |  |  |
 | Desipramine | 50 single dose | N/A | 150 once daily | 8 | 1.24 (1.08,1.44) | 1.65 (1.36,2.02) | NC |
 | Digoxin | 0.5 single dose | N/A | 150 once daily | 22 | 1.41 (1.29,1.55) | 1.08 (1.00,1.17) | NC |
-| Ledipasvir | 90 once daily | 150 once daily | 150 once daily | 29 | 1.63 (1.51,1.75) | 1.78 (1.64,1.94) | 1.91 (1.76,2.08) |
-| Sofosbuvir | 400 once daily | 1.33 (1.14,1.56) | 1.36 (1.21,1.52) | N/A |  |  |  |
-| GS-331007The predominant circulating metabolite of sofosbuvir. | 1.33 (1.22,1.44) | 1.44 (1.41,1.48) | 1.53 (1.47,1.59) |  |  |  |  |
-| Naloxone | 4 – 6 once daily | 150 once daily | 150 once daily | 17 | 0.72 (0.61,0.85) | 0.72 (0.59,0.87) | N/A |
-| Norgestimate/ethinyl estradiol | 0.180/0.215/0.250 norgestimate once daily | 150 once dailyStudy conducted with STRIBILD. | 150 once daily | 13 | 2.08 (2.00,2.17) | 2.26 (2.15,2.37) | 2.67 (2.43,2.92) |
+| Ledipasvir | 90 once daily | 150 once dailyStudy conducted with GENVOYA. | 150 once daily | 30 | 1.65 (1.53,1.78) | 1.79 (1.64,1.96) | 1.93 (1.74,2.15) |
+| Sofosbuvir | 400 once daily | 1.28 (1.13,1.47) | 1.47 (1.35,1.59) | N/A |  |  |  |
+| GS-331007The predominant circulating inactive metabolite of sofosbuvir. | 1.29 (1.24,1.35) | 1.48 (1.44,1.53) | 1.66 (1.60,1.73) |  |  |  |  |
+| Naloxone | 4–6 once daily | 150 once daily | 150 once daily | 17 | 0.72 (0.61,0.85) | 0.72 (0.59,0.87) | N/A |
+| Norgestimate/ ethinyl estradiol | 0.180/0.215/ 0.250 norgestimate once daily | 150 once dailyStudy conducted with STRIBILD. | 150 once daily | 13 | 2.08 (2.00,2.17) | 2.26 (2.15,2.37) | 2.67 (2.43,2.92) |
 | 0.025 ethinyl estradiol once daily | 0.94 (0.86,1.04) | 0.75 (0.69,0.81) | 0.56 (0.52,0.61) |  |  |  |  |
 | R-Methadone | 80–120 daily | 150 once daily | 150 once daily | 11 | 1.01 (0.91,1.13) | 1.07 (0.96,1.19) | 1.10 (0.95,1.28) |
 | S-Methadone | 0.96 (0.87,1.06) | 1.00 (0.89,1.12) | 1.02 (0.89,1.17) |  |  |  |  |
-| Sertraline | 50 single dose | 150 once dailyStudy conducted with GENVOYA. | 150 once daily | 19 | 1.14 (0.94,1.38) | 0.93 (0.77,1.13) | N/A |
+| Sertraline | 50 single dose | 150 once daily | 150 once daily | 19 | 1.14 (0.94,1.38) | 0.93 (0.77,1.13) | N/A |
 | Rifabutin | 150 once every other day | 150 once daily | 150 once daily | 12 | 1.09 (0.98,1.20)Comparison based on rifabutin 300 mg once daily. | 0.92 (0.83,1.03) | 0.94 (0.85,1.04) |
 | 25-O-desacetyl-rifabutin | 12 | 4.84 (4.09,5.74) | 6.25 (5.08,7.69) | 4.94 (4.04,6.04) |  |  |  |
 | Rosuvastatin | 10 single dose | 150 once daily | 150 once daily | 10 | 1.89 (1.48,2.42) | 1.38 (1.14,1.67) | NC |
+| Sofosbuvir | 400 once daily | 150 once daily | 150 once daily | 24 | 1.23 (1.07,1.42) | 1.37 (1.24,1.52) | N/A |
+| GS-331007 | 1.29 (1.25,1.33) | 1.48 (1.43,1.53) | 1.58 (1.52,1.65) |  |  |  |  |
+| Velpatasvir | 100 once daily | 1.30 (1.17,1.45) | 1.50 (1.35,1.66) | 1.60 (1.44,1.78) |  |  |  |
 | N/A = Not Applicable; NC = Not Calculated |  |  |  |  |  |  |  |
 
 ## 12.4 Microbiology
@@ -196,9 +204,9 @@ Emtricitabine: Emtricitabine, a synthetic nucleoside analog of cytidine, is phos
 Emtricitabine 5'-triphosphate inhibits the activity of the HIV-1 reverse transcriptase by competing with the natural substrate deoxycytidine 5'-triphosphate and by being incorporated into nascent viral DNA which results in chain termination.
 Emtricitabine 5'-triphosphate is a weak inhibitor of mammalian DNA polymerases α, β, Ɛ, and mitochondrial DNA polymerase γ.
 
-Tenofovir Alafenamide (TAF): TAF is a phosphonoamidate prodrug of tenofovir (2'-deoxyadenosine monophosphate analog).
+Tenofovir Alafenamide (TAF): TAF is a phosphonamidate prodrug of tenofovir (2'-deoxyadenosine monophosphate analog).
 Plasma exposure to TAF allows for permeation into cells and then TAF is intracellularly converted to tenofovir through hydrolysis by cathepsin A. Tenofovir is subsequently phosphorylated by cellular kinases to the active metabolite tenofovir diphosphate.
-Tenofovir diphosphate inhibits HIV replication through incorporation into viral DNA by the HIV reverse transcriptase, which results in DNA chain-termination.
+Tenofovir diphosphate inhibits HIV-1 replication through incorporation into viral DNA by the HIV reverse transcriptase, which results in DNA chain-termination.
 
 Tenofovir has activity that is specific to human immunodeficiency virus and hepatitis B virus.
 Cell culture studies have shown that both emtricitabine and tenofovir can be fully phosphorylated when combined in cells.
@@ -237,20 +245,18 @@ Emtricitabine: HIV-1 isolates with reduced susceptibility to emtricitabine have 
 Reduced susceptibility to emtricitabine was associated with M184V or I substitutions in HIV-1 RT.
 
 Tenofovir Alafenamide (TAF): HIV-1 isolates with reduced susceptibility to TAF have been selected in cell culture.
-HIV-1 isolates selected by TAF expressed a K65R substitution in HIV-1 RT, sometimes in the presence of S68N or L429I substitutions; in addition, a K70E substitution in HIV-1 RT has been observed.
-HIV-1 isolates with the K65R substitution have reduced susceptibility to abacavir, emtricitabine, lamivudine, and tenofovir.
+HIV-1 isolates selected by TAF expressed a K65R substitution in HIV-1 RT, sometimes in the presence of S68N or L429I substitutions; in addition, a K70E substitution in HIV-1 RT was observed.
 
 In Clinical Trials
 
 In Treatment-Naïve Subjects:
 
-In a pooled analysis of antiretroviral-naïve subjects receiving GENVOYA in Studies 104 and 111, genotyping was performed on plasma HIV-1 isolates from all subjects with HIV-1 RNA greater than 400 copies per mL at confirmed virologic failure, at Week 48, or at time of early study drug discontinuation.
-As of Week 48, the development of genotypic resistance to elvitegravir, emtricitabine, or TAF was observed in 7 of 14 subjects with evaluable resistance data from paired baseline and GENVOYA treatment-failure isolates (7 of 866 subjects [0.8%]) compared with 6 of 17 treatment-failure isolates from subjects with evaluable resistance data in the STRIBILD treatment group (6 of 867 subjects [0.7%]).
-Of the 7 subjects with resistance development in the GENVOYA group, the resistance–associated substitutions that emerged were M184V/I (N=7) and K65R (N=1) in reverse transcriptase and T66T/A/I/V (N=2), E92Q (N=2), E138K (N=1), Q148Q/R (N=1) and N155H (N=1) in integrase.
-Three subjects had virus with emergent R, H, or E at the polymorphic Q207 residue in reverse transcriptase.
-Of the 6 subjects with resistance development in the STRIBILD group, the resistance-associated substitutions that emerged were M184V/I (N=5) and K65R (N=2) in reverse transcriptase and E92E/Q (N=2), E138K (N=3) and Q148R (N=2) in integrase.
+In a pooled analysis of antiretroviral-naïve subjects receiving GENVOYA in Studies 104 and 111, genotyping was performed on plasma HIV-1 isolates from all subjects with HIV-1 RNA greater than 400 copies per mL at confirmed virologic failure, at Week 96, or at time of early study drug discontinuation.
+As of Week 96, the development of genotypic resistance to elvitegravir, emtricitabine, or TAF was observed in 10 of 19 subjects with evaluable resistance data from paired baseline and GENVOYA treatment-failure isolates (10 of 866 subjects [1.2%]) compared with 9 of 15 treatment-failure isolates from subjects with evaluable resistance data in the STRIBILD treatment group (9 of 867 subjects [1.0%]).
+Of the 10 subjects with resistance development in the GENVOYA group, the resistance-associated substitutions that emerged were M184V/I (N=9) and K65R/N (N=2) in reverse transcriptase and T66T/A/I/V (N=2), E92Q (N=4), E138K (N=1), Q148Q/R (N=1) and N155H (N=2) in integrase.
+Of the 9 subjects with resistance development in the STRIBILD group, the resistance-associated substitutions that emerged were M184V/I (N=6) and K65R/N (N=3) in reverse transcriptase and E92Q (N=2), E138K (N=3), Q148R (N=2), and N155H/S (N=2) in integrase.
 In both treatment groups, most subjects who developed substitutions associated with resistance to elvitegravir also developed emtricitabine resistance-associated substitutions.
-The genotypic resistance results were confirmed by phenotypic analyses.
+These genotypic resistance results were confirmed by phenotypic analyses.
 
 In Virologically Suppressed Subjects:
 
