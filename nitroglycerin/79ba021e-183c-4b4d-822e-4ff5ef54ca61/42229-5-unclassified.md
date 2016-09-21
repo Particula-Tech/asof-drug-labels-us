@@ -1,5 +1,5 @@
 Rx only
 
-LAB-0180-5.0
+LAB-0180-6.0
 
-March 2014
+August 2016
