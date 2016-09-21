@@ -75,7 +75,7 @@ In addition, 27 males on MINIPRESS for up to 51 months did not have changes in s
 
 ## Usage in Pregnancy
 
-Pregnancy Category C. MINIPRESS has been shown to be associated with decreased litter size at birth, 1, 4, and 21 days of age in rats when given doses more than 225 times the usual maximum recommended human dose.
+MINIPRESS has been shown to be associated with decreased litter size at birth, 1, 4, and 21 days of age in rats when given doses more than 225 times the usual maximum recommended human dose.
 No evidence of drug-related external, visceral, or skeletal fetal abnormalities were observed.
 No drug-related external, visceral, or skeletal abnormalities were observed in fetuses of pregnant rabbits and pregnant monkeys at doses more than 225 times and 12 times the usual maximum recommended human dose, respectively.
 
