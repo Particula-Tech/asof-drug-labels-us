@@ -1,5 +1,3 @@
-Rx only
-
 # Usage in Pregnancy
 
 An increased risk of congenital malformations associated with the use of minor tranquilizers (chlordiazepoxide, diazepam and meprobamate) during the first trimester of pregnancy has been suggested in several studies.
