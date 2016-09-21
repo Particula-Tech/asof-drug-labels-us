@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021530"
+  ],
+  "inn": "meloxicam",
+  "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "0597-0034-01"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "meloxicam",
+      "name": "Mobic"
+    }
+  ],
+  "setid": "9dfac843-a839-01ee-a80c-6face28bccc6",
+  "source": "dailymed"
+}
