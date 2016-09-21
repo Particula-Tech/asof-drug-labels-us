@@ -8,28 +8,29 @@ Levofloxacin is a member of the fluoroquinolone class of antibacterial agents [s
 
 The mean ± SD pharmacokinetic parameters of levofloxacin determined under single and steady-state conditions following oral tablet, oral solution, or intravenous (IV) doses of levofloxacin are summarized in Table 8.
 
-| Table 8: Mean ± SD Levofloxacin PK Parameters |  |  |  |  |  |  |  |
+Table 8: Mean ± SD Levofloxacin PK Parameters
+
+| Regimen | Cmax | Tmax | AUC | CL/Fclearance/bioavailability | Vd/Fvolume of distribution/bioavailability | t1/2 | CLR |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Regimen | Cmax | Tmax | AUC | CL/F1 | Vd/F2 | t1/2 | CLR |
 | (mcg/mL) | (h) | (mcg∙h/mL) | (mL/min) | (L) | (h) | (mL/min) |  |
 | Single dose |  |  |  |  |  |  |  |
-| 250 mg oral tablet3 | 2.8 ± 0.4 | 1.6 ± 1.0 | 27.2 ± 3.9 | 156 ± 20 | ND | 7.3 ± 0.9 | 142 ± 21 |
-| 500 mg oral tablet3* | 5.1 ± 0.8 | 1.3 ± 0.6 | 47.9 ± 6.8 | 178 ± 28 | ND | 6.3 ± 0.6 | 103 ± 30 |
-| 500 mg oral solution12 | 5.8 ± 1.8 | 0.8 ± 0.7 | 47.8 ± 10.8 | 183 ± 40 | 112 ± 37.2 | 7.0 ± 1.4 | ND |
-| 500 mg IV3 | 6.2 ± 1.0 | 1.0 ± 0.1 | 48.3 ± 5.4 | 175 ± 20 | 90 ± 11 | 6.4 ± 0.7 | 112 ± 25 |
-| 750 mg oral tablet5* | 9.3 ± 1.6 | 1.6 ± 0.8 | 101 ± 20 | 129 ± 24 | 83 ± 17 | 7.5 ± 0.9 | ND |
-| 750 mg IV5 | 11.5 ± 4.04 | ND | 110 ± 40 | 126 ± 39 | 75 ± 13 | 7.5 ± 1.6 | ND |
+| 250 mg oral tablethealthy males 18–53 years of age | 2.8 ± 0.4 | 1.6 ± 1.0 | 27.2 ± 3.9 | 156 ± 20 | ND | 7.3 ± 0.9 | 142 ± 21 |
+| 500 mg oral tablet* | 5.1 ± 0.8 | 1.3 ± 0.6 | 47.9 ± 6.8 | 178 ± 28 | ND | 6.3 ± 0.6 | 103 ± 30 |
+| 500 mg oral solutionhealthy males and females 19–55 years of age | 5.8 ± 1.8 | 0.8 ± 0.7 | 47.8 ± 10.8 | 183 ± 40 | 112 ± 37.2 | 7.0 ± 1.4 | ND |
+| 500 mg IV | 6.2 ± 1.0 | 1.0 ± 0.1 | 48.3 ± 5.4 | 175 ± 20 | 90 ± 11 | 6.4 ± 0.7 | 112 ± 25 |
+| 750 mg oral tablethealthy male and female subjects 18–54 years of age* | 9.3 ± 1.6 | 1.6 ± 0.8 | 101 ± 20 | 129 ± 24 | 83 ± 17 | 7.5 ± 0.9 | ND |
+| 750 mg IV | 11.5 ± 4.060 min infusion for 250 mg and 500 mg doses, 90 min infusion for 750 mg dose | ND | 110 ± 40 | 126 ± 39 | 75 ± 13 | 7.5 ± 1.6 | ND |
 | Multiple dose |  |  |  |  |  |  |  |
-| 500 mg every 24h oral tablet3 | 5.7 ± 1.4 | 1.1 ± 0.4 | 47.5 ± 6.7 | 175 ± 25 | 102 ± 22 | 7.6 ± 1.6 | 116 ± 31 |
-| 500 mg every 24h IV3 | 6.4 ± 0.8 | ND | 54.6 ± 11.1 | 158 ± 29 | 91 ± 12 | 7.0 ± 0.8 | 99 ± 28 |
-| 500 mg or 250 mg every 24h IV, patients with bacterial infection6 | 8.7± 4.07 | ND | 72.5 ± 51.27 | 154 ± 72 | 111 ± 58 | ND | ND |
-| 750 mg every 24h oral tablet5 | 8.6 ± 1.9 | 1.4 ± 0.5 | 90.7 ± 17.6 | 143 ± 29 | 100 ± 16 | 8.8 ± 1.5 | 116 ± 28 |
-| 750 mg every 24h IV5 | 12.1 ± 4.14 | ND | 108 ± 34 | 126 ± 37 | 80 ± 27 | 7.9 ± 1.9 | ND |
+| 500 mg every 24h oral tablet | 5.7 ± 1.4 | 1.1 ± 0.4 | 47.5 ± 6.7 | 175 ± 25 | 102 ± 22 | 7.6 ± 1.6 | 116 ± 31 |
+| 500 mg every 24h IV | 6.4 ± 0.8 | ND | 54.6 ± 11.1 | 158 ± 29 | 91 ± 12 | 7.0 ± 0.8 | 99 ± 28 |
+| 500 mg or 250 mg every 24h IV, patients with bacterial infection500 mg every 48h for patients with moderate renal impairment (CLCR 20–50 mL/min) and infections of the respiratory tract or skin | 8.7± 4.0dose-normalized values (to 500 mg dose), estimated by population pharmacokinetic modeling | ND | 72.5 ± 51.2 | 154 ± 72 | 111 ± 58 | ND | ND |
+| 750 mg every 24h oral tablet | 8.6 ± 1.9 | 1.4 ± 0.5 | 90.7 ± 17.6 | 143 ± 29 | 100 ± 16 | 8.8 ± 1.5 | 116 ± 28 |
+| 750 mg every 24h IV | 12.1 ± 4.1 | ND | 108 ± 34 | 126 ± 37 | 80 ± 27 | 7.9 ± 1.9 | ND |
 | 500 mg oral tablet single dose, effects of gender and age: |  |  |  |  |  |  |  |
-| Male8 | 5.5 ± 1.1 | 1.2 ± 0.4 | 54.4 ± 18.9 | 166 ± 44 | 89 ± 13 | 7.5 ± 2.1 | 126 ± 38 |
-| Female9 | 7.0 ± 1.6 | 1.7 ± 0.5 | 67.7 ± 24.2 | 136 ± 44 | 62 ± 16 | 6.1 ± 0.8 | 106 ± 40 |
-| Young10 | 5.5 ± 1.0 | 1.5 ± 0.6 | 47.5 ± 9.8 | 182 ± 35 | 83 ± 18 | 6.0 ± 0.9 | 140 ± 33 |
-| Elderly11 | 7.0 ± 1.6 | 1.4 ± 0.5 | 74.7 ± 23.3 | 121 ± 33 | 67 ± 19 | 7.6 ± 2.0 | 91 ± 29 |
+| Malehealthy males 22–75 years of age | 5.5 ± 1.1 | 1.2 ± 0.4 | 54.4 ± 18.9 | 166 ± 44 | 89 ± 13 | 7.5 ± 2.1 | 126 ± 38 |
+| Femalehealthy females 18–80 years of age | 7.0 ± 1.6 | 1.7 ± 0.5 | 67.7 ± 24.2 | 136 ± 44 | 62 ± 16 | 6.1 ± 0.8 | 106 ± 40 |
+| Youngyoung healthy male and female subjects 18–36 years of age | 5.5 ± 1.0 | 1.5 ± 0.6 | 47.5 ± 9.8 | 182 ± 35 | 83 ± 18 | 6.0 ± 0.9 | 140 ± 33 |
+| Elderlyhealthy elderly male and female subjects 66–80 years of age | 7.0 ± 1.6 | 1.4 ± 0.5 | 74.7 ± 23.3 | 121 ± 33 | 67 ± 19 | 7.6 ± 2.0 | 91 ± 29 |
 | 500 mg oral single dose tablet, patients with renal insufficiency: |  |  |  |  |  |  |  |
 | CLCR 50–80 mL/min | 7.5 ± 1.8 | 1.5 ± 0.5 | 95.6 ± 11.8 | 88 ± 10 | ND | 9.1 ± 0.9 | 57 ± 8 |
 | CLCR 20–49 mL/min | 7.1 ± 3.1 | 2.1 ± 1.3 | 182.1 ± 62.6 | 51 ± 19 | ND | 27 ± 10 | 26 ± 13 |
@@ -37,7 +38,7 @@ The mean ± SD pharmacokinetic parameters of levofloxacin determined under singl
 | Hemodialysis | 5.7 ± 1.0 | 2.8 ± 2.2 | ND | ND | ND | 76 ± 42 | ND |
 | CAPD | 6.9 ± 2.3 | 1.4 ± 1.1 | ND | ND | ND | 51 ± 24 | ND |
 
-1 clearance/bioavailability 2 volume of distribution/bioavailability 3 healthy males 18–53 years of age 4 60 min infusion for 250 mg and 500 mg doses, 90 min infusion for 750 mg dose 5 healthy male and female subjects 18–54 years of age 6 500 mg every 48h for patients with moderate renal impairment (CLCR 20–50 mL/min) and infections of the respiratory tract or skin 7 dose-normalized values (to 500 mg dose), estimated by population pharmacokinetic modeling 8 healthy males 22–75 years of age 9 healthy females 18–80 years of age 10 young healthy male and female subjects 18–36 years of age 11 healthy elderly male and female subjects 66–80 years of age 12 healthy males and females 19–55 years of age * Absolute bioavailability; F = 0.99 ± 0.08 from a 500 mg tablet and F = 0.99 ± 0.06 from a 750 mg tablet; ND = not determined.
+* Absolute bioavailability; F = 0.99 ± 0.08 from a 500 mg tablet and F = 0.99 ± 0.06 from a 750 mg tablet; ND = not determined.
 
 Absorption Following a single intravenous dose of levofloxacin to healthy volunteers, the mean ± SD peak plasma concentration attained was 6.2 ±1.0 mcg/mL after a 500 mg dose infused over 60 minutes and 11.5 ± 4.0 mcg/mL after a 750 mg dose infused over 90 minutes.
 
@@ -122,15 +123,14 @@ Although cross‑resistance has been observed between levofloxacin and some othe
 Activity in vitro and in vivo Levofloxacin has in vitro activity against Gram-negative and Gram-positive bacteria.
 Levofloxacin has been shown to be active against most isolates of the following bacteria both in vitro and in clinical infections as described in INDICATIONS AND USAGE (1):
 
-Gram-Positive Bacteria Enterococcus faecalis Staphylococcus aureus (methicillin-susceptible isolates) Staphylococcus epidermidis (methicillin-susceptible isolates) Staphylococcus saprophyticus Streptococcus pneumoniae (including multi-drug resistant isolates [MDRSP])* Streptococcus pyogenes
-
-* MDRSP (Multi-drug resistant Streptococcus pneumoniae) isolates are isolates resistant to two or more of the following antibiotics: penicillin (MIC ≥ 2 mcg/mL), 2nd generation cephalosporins, e.g., cefuroxime; macrolides, tetracyclines and trimethoprim/sulfamethoxazole.
+Gram-Positive Bacteria Enterococcus faecalis Staphylococcus aureus (methicillin-susceptible isolates) Staphylococcus epidermidis (methicillin-susceptible isolates) Staphylococcus saprophyticus Streptococcus pneumoniae (including multi-drug resistant isolates [MDRSP])MDRSP (Multi-drug resistant Streptococcus pneumoniae) isolates are isolates resistant to two or more of the following antibiotics: penicillin (MIC ≥ 2 mcg/mL), 2nd generation cephalosporins, e.g., cefuroxime; macrolides, tetracyclines and trimethoprim/sulfamethoxazole.
+Streptococcus pyogenes
 
 Gram-Negative Bacteria Enterobacter cloacae Escherichia coli Haemophilus influenzae Haemophilus parainfluenzae Klebsiella pneumoniae Legionella pneumophila Moraxella catarrhalis Proteus mirabilis Pseudomonas aeruginosa Serratia marcescens
 
 Other Bacteria Chlamydophila pneumoniae Mycoplasma pneumoniae
 
-The following in vitro data are available, but their clinical significance is unknown: Levofloxacin exhibits in vitro minimum inhibitory concentrations (MIC values) of 2 mcg/mL or less against most (≥ 90%) isolates of the following microorganisms; however, the safety and effectiveness of levofloxacin in treating clinical infections due to these bacteria have not been established in adequate and well-controlled trials.
+The following in vitro data are available, but their clinical significance is unknown: Levofloxacin exhibits in vitro minimum inhibitory concentrations (MIC values) of 2 mcg/mL or less against most (≥ 90%) isolates of the following microorganisms; however, the safety and effectiveness of levofloxacin in treating clinical infections due to these bacteria have not been established in adequate and well-controlled clinical trials.
 
 Gram-Positive Bacteria Staphylococcus haemolyticus β-hemolytic Streptococcus (Group C/F) β-hemolytic Streptococcus (Group G) Streptococcus agalactiae Streptococcus milleri Viridans group streptococci Bacillus anthracis Gram-Negative Bacteria Acinetobacter baumannii Acinetobacter lwoffii Bordetella pertussis Citrobacter koseri Citrobacter freundii Enterobacter aerogenes Enterobacter sakazakii Klebsiella oxytoca Morganella morganii Pantoea agglomerans Proteus vulgaris Providencia rettgeri Providencia stuartii Pseudomonas fluorescens Yersinia pestis Anaerobic Gram-Positive Bacteria Clostridium perfringens
 
@@ -149,15 +149,16 @@ This procedure uses paper disks impregnated with 5 mcg levofloxacin to test the 
 
 Reports from the laboratory providing results of the standard single-disk susceptibility test with a 5 mcg levofloxacin disk should be interpreted according to the criteria outlined in Table 9.
 
-| Table 9: Susceptibility Test Interpretive Criteria for Levofloxacin |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
+Table 9: Susceptibility Test Interpretive Criteria for Levofloxacin
+
 |  | Minimum Inhibitory Concentrations (mcg/mL) |  |  | Disk Diffusion (zone diameter in mm) |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
 | Pathogen | S | I | R | S | I | R |
 | Enterobacteriaceae | ≤ 2 | 4 | ≥ 8 | ≥ 17 | 14–16 | ≤ 13 |
 | Enterococcus faecalis | ≤ 2 | 4 | ≥ 8 | ≥ 17 | 14–16 | ≤ 13 |
 | Staphylococcus species | ≤ 2 | 4 | ≥ 8 | ≥ 17 | 14–16 | ≤ 13 |
 | Pseudomonas aeruginosa | ≤ 2 | 4 | ≥ 8 | ≥ 17 | 14–16 | ≤ 13 |
-| Haemophilus influenzae | ≤ 2 | —* | — | ≥ 17 | — | — |
+| Haemophilus influenzae | ≤ 2 | —The current absence of data on resistant isolates precludes defining any categories other than “Susceptible”. Isolates yielding MIC /zone diameter results suggestive of a “nonsusceptible” category should be submitted to a reference laboratory for further testing. | — | ≥ 17 | — | — |
 | Haemophilus parainfluenzae | ≤ 2 | — | — | ≥ 17 | — | — |
 | Streptococcus pneumoniae | ≤ 2 | 4 | ≥ 8 | ≥ 17 | 14–16 | ≤ 13 |
 | Streptococcus pyogenes | ≤ 2 | 4 | ≥ 8 | ≥ 17 | 14–16 | ≤ 13 |
@@ -165,9 +166,6 @@ Reports from the laboratory providing results of the standard single-disk suscep
 | Bacillus anthracis4 | ≤ 0.25 | — | — | — | — | — |
 
 S = Susceptible, I = Intermediate, R = Resistant
-
-* The current absence of data on resistant isolates precludes defining any categories other than “Susceptible”.
-Isolates yielding MIC /zone diameter results suggestive of a “nonsusceptible” category should be submitted to a reference laboratory for further testing.
 
 A report of Susceptible indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable.
 A report of Intermediate indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
@@ -178,9 +176,10 @@ A report of Resistant indicates that the pathogen is not likely to be inhibited 
 Quality Control: Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test.1,2,3,4 Standard levofloxacin powder should provide the range of MIC values noted in Table 10.
 For the diffusion technique using the 5 mcg disk, the criteria in Table 10 should be achieved.
 
-| Table 10: Quality Control Ranges for Susceptibility Testing |  |  |  |
-| --- | --- | --- | --- |
+Table 10: Quality Control Ranges for Susceptibility Testing
+
 | Microorganism | Microorganism QC Number | MIC (mcg/mL) | Disk Diffusion (zone diameter in mm) |
+| --- | --- | --- | --- |
 | Enterococcus faecalis | ATCC 29212 | 0.25 – 2 | -- |
 | Escherichia coli | ATCC 25922 | 0.008 – 0.06 | 29 – 37 |
 | Escherichia coli | ATCC 35218 | 0.015 – 0.06 | -- |

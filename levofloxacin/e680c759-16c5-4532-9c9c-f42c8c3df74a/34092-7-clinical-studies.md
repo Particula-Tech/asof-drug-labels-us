@@ -16,18 +16,17 @@ The microbiological eradication rates at the posttherapy visit were 66.7% for le
 The 95% CI for the difference of eradication rates (levofloxacin minus comparator) was [-8.3, 20.3].
 Clinical success and microbiological eradication rates by pathogen are detailed in Table 11
 
-| Table 11: Clinical Success Rates and Bacteriological Eradication Rates (Nosocomial Pneumonia) |  |  |  |  |
-| --- | --- | --- | --- | --- |
+Table 11: Clinical Success Rates and Bacteriological Eradication Rates (Nosocomial Pneumonia)
+
 | Pathogen | N | Levofloxacin No. (%) of Patients Microbiologic/Clinical Outcomes | N | Imipenem/Cilastatin No. (%) of Patients Microbiologic/Clinical Outcomes |
-| MSSAc | 21 | 14 (66.7)/13 (61.9) | 19 | 13 (68.4)/15 (78.9) |
-| P. aeruginosa b | 17 | 10 (58.8)/11 (64.7) | 17 | 5 (29.4)/7 (41.2) |
+| --- | --- | --- | --- | --- |
+| MSSAMethicillin-susceptible S. aureus | 21 | 14 (66.7)/13 (61.9) | 19 | 13 (68.4)/15 (78.9) |
+| P. aeruginosaSee above text for use of combination therapy | 17 | 10 (58.8)/11 (64.7) | 17 | 5 (29.4)/7 (41.2) |
 | S. marcescens | 11 | 9 (81.8)/7 (63.6) | 7 | 2 (28.6)/3 (42.9) |
 | E. coli | 12 | 10 (83.3)/7 (58.3) | 11 | 7 (63.6)/8 (72.7) |
-| K. pneumoniaec | 11 | 9 (81.8)/5 (45.5) | 7 | 6 (85.7)/3 (42.9) |
+| K. pneumoniaeThe observed differences in rates for the clinical and microbiological outcomes may reflect other factors that were not accounted for in the study | 11 | 9 (81.8)/5 (45.5) | 7 | 6 (85.7)/3 (42.9) |
 | H. influenzae | 16 | 13 (81.3)/10 (62.5) | 15 | 14 (93.3)/11 (73.3) |
 | S. pneumoniae | 4 | 3 (75.0)/3 (75.0) | 7 | 5 (71.4)/4 (57.1) |
-
-a Methicillin-susceptible S. aureus b See above text for use of combination therapy c The observed differences in rates for the clinical and microbiological outcomes may reflect other factors that were not accounted for in the study
 
 ## 14.2 Community-Acquired Pneumonia: 7–14 day Treatment Regimen
 
@@ -42,9 +41,10 @@ Clinical success for clinically evaluable patients was 93%.
 For both studies, the clinical success rate in patients with atypical pneumonia due to Chlamydophila pneumoniae, Mycoplasma pneumoniae, and Legionella pneumophila were 96%, 96%, and 70%, respectively.
 Microbiologic eradication rates across both studies are presented in Table 12.
 
-| Table 12: Bacteriological Eradication Rates Across 2 Community Acquired Pneumonia Clinical Studies |  |  |
-| --- | --- | --- |
+Table 12: Bacteriological Eradication Rates Across 2 Community Acquired Pneumonia Clinical Studies
+
 | Pathogen | No. Pathogens | Bacteriological Eradication Rate (%) |
+| --- | --- | --- |
 | H. influenzae | 55 | 98 |
 | S. pneumoniae | 83 | 95 |
 | S. aureus | 17 | 88 |
@@ -57,25 +57,24 @@ MDRSP isolates are isolates resistant to two or more of the following antibacter
 Of 40 microbiologically evaluable patients with MDRSP isolates, 38 patients (95.0%) achieved clinical and bacteriologic success at post-therapy.
 The clinical and bacterial success rates are shown in Table 13.
 
-| Table 13: Clinical and Bacterial Success Rates for Levofloxacin-Treated MDRSP in Community Acquired Pneumonia Patients (Population Valid for Efficacy) |  |  |  |  |
+Table 13: Clinical and Bacterial Success Rates for Levofloxacin-Treated MDRSP in Community Acquired Pneumonia Patients (Population Valid for Efficacy)
+
+| Screening Susceptibility | Clinical Success |  | Bacteriological SuccessOne patient had a respiratory isolate that was resistant to tetracycline, cefuroxime, macrolides and TMP/SMX and intermediate to penicillin and a blood isolate that was intermediate to penicillin and cefuroxime and resistant to the other classes. The patient is included in the database based on respiratory isolate. |  |
 | --- | --- | --- | --- | --- |
-| Screening Susceptibility | Clinical Success |  | Bacteriological Successa |  |
-| n/Nb | % | n/Nc | % |  |
+| n/Nn = the number of microbiologically evaluable patients who were clinical successes; N = number of microbiologically evaluable patients in the designated resistance group. | % | n/Nn = the number of MDRSP isolates eradicated or presumed eradicated in microbiologically evaluable patients; N = number of MDRSP isolates in a designated resistance group. | % |  |
 | Penicillin-resistant | 16/17 | 94.1 | 16/17 | 94.1 |
 | 2nd generation Cephalosporin resistant | 31/32 | 96.9 | 31/32 | 96.9 |
 | Macrolide-resistant | 28/29 | 96.6 | 28/29 | 96.6 |
 | Trimethoprim/ Sulfamethoxazole resistant | 17/19 | 89.5 | 17/19 | 89.5 |
 | Tetracycline-resistant | 12/12 | 100 | 12/12 | 100 |
 
-a One patient had a respiratory isolate that was resistant to tetracycline, cefuroxime, macrolides and TMP/SMX and intermediate to penicillin and a blood isolate that was intermediate to penicillin and cefuroxime and resistant to the other classes.
-The patient is included in the database based on respiratory isolate. b n = the number of microbiologically evaluable patients who were clinical successes; N = number of microbiologically evaluable patients in the designated resistance group. c n = the number of MDRSP isolates eradicated or presumed eradicated in microbiologically evaluable patients; N = number of MDRSP isolates in a designated resistance group.
-
 Not all isolates were resistant to all antimicrobial classes tested.
 Success and eradication rates are summarized in Table 14.
 
-| Table 14: Clinical Success and Bacteriologic Eradication Rates for Resistant Streptococcus pneumoniae (Community Acquired Pneumonia) |  |  |
-| --- | --- | --- |
+Table 14: Clinical Success and Bacteriologic Eradication Rates for Resistant Streptococcus pneumoniae (Community Acquired Pneumonia)
+
 | Type of Resistance | Clinical Success | Bacteriologic Eradication |
+| --- | --- | --- |
 | Resistant to 2 antibacterials | 17/18 (94.4%) | 17/18 (94.4%) |
 | Resistant to 3 antibacterials | 14/15 (93.3%) | 14/15 (93.3%) |
 | Resistant to 4 antibacterials | 7/7 (100%) | 7/7 (100%) |
@@ -92,9 +91,10 @@ In the clinically evaluable population (31–38 days after enrollment) pneumonia
 Given the small numbers observed, the significance of this finding cannot be determined statistically.
 The microbiological efficacy of the 5-day regimen was documented for infections listed in Table 15.
 
-| Table 15: Bacteriological Eradication Rates (Community-Acquired Pneumonia) |  |
-| --- | --- |
+Table 15: Bacteriological Eradication Rates (Community-Acquired Pneumonia)
+
 | S. pneumoniae | 19/20 (95%) |
+| --- | --- |
 | Haemophilus influenzae | 12/12 (100%) |
 | Haemophilus parainfluenzae | 10/10 (100%) |
 | Mycoplasma pneumoniae | 26/27 (96%) |
@@ -107,17 +107,15 @@ To evaluate the safety and efficacy of a high dose short course of levofloxacin,
 
 Clinical success rates (defined as complete or partial resolution of the pre-treatment signs and symptoms of ABS to such an extent that no further antibiotic treatment was deemed necessary) in the microbiologically evaluable population were 91.4% (139/152) in the levofloxacin 750 mg group and 88.6% (132/149) in the levofloxacin 500 mg group at the test-of‑cure (TOC) visit (95% CI [-4.2, 10.0] for levofloxacin 750 mg minus levofloxacin 500 mg).
 
-Rates of clinical success by pathogen in the microbiologically evaluable population who had specimens obtained by antral tap at study entry showed comparable results for the five- and ten-day regimens at the test-of-cure visit 22 days post treatment.
+Rates of clinical success by pathogen in the microbiologically evaluable population who had specimens obtained by antral tap at study entry showed comparable results for the five- and ten-day regimens at the test-of-cure visit 22 days post treatment (see Table 16).
 
-| Table 16: Clinical Success Rate by Pathogen at the TOC in Microbiologically Evaluable Subjects Who Underwent Antral Puncture (Acute Bacterial Sinusitis) |  |  |
-| --- | --- | --- |
+Table 16: Clinical Success Rate by Pathogen at the TOC in Microbiologically Evaluable Subjects Who Underwent Antral Puncture (Acute Bacterial Sinusitis)
+
 | Pathogen | Levofloxacin 750 mg × 5 days | Levofloxacin 500 mg × 10 days |
-| Streptococcus pneumoniae* | 25/27 (92.6%) | 26/27 (96.3%) |
-| Haemophilus influenzae* | 19/21 (90.5%) | 25/27 (92.6%) |
-| Moraxella catarrhalis* | 10/11 (90.9%) | 13/13 (100%) |
-
-* Note: Forty percent of the subjects in this trial had specimens obtained by sinus endoscopy.
-The efficacy data for subjects whose specimen was obtained endoscopically were comparable to those presented in the above table.
+| --- | --- | --- |
+| Streptococcus pneumoniaeNote: Forty percent of the subjects in this trial had specimens obtained by sinus endoscopy. The efficacy data for subjects whose specimen was obtained endoscopically were comparable to those presented in the above table. | 25/27 (92.6%) | 26/27 (96.3%) |
+| Haemophilus influenzae | 19/21 (90.5%) | 25/27 (92.6%) |
+| Moraxella catarrhalis | 10/11 (90.9%) | 13/13 (100%) |
 
 ## 14.5 Complicated Skin and Skin Structure Infections
 
@@ -139,15 +137,14 @@ A total of 136 and 125 microbiologically evaluable patients were enrolled in the
 The microbiologic eradication rate by patient infection at 5–18 days after completion of therapy was 75.0% in the levofloxacin group and 76.8% in the ciprofloxacin group (95% CI [-12.58, 8.98] for levofloxacin minus ciprofloxacin).
 The overall eradication rates for pathogens of interest are presented in Table 17.
 
-| Table 17: Bacteriological Eradication Rates (Chronic Bacterial Prostatitis) |  |  |  |  |
-| --- | --- | --- | --- | --- |
+Table 17: Bacteriological Eradication Rates (Chronic Bacterial Prostatitis)
+
 |  | Levofloxacin (N = 136) |  | Ciprofloxacin (N = 125) |  |
+| --- | --- | --- | --- | --- |
 | Pathogen | N | Eradication | N | Eradication |
 | E. coli | 15 | 14 (93.3%) | 11 | 9 (81.8%) |
 | E. faecalis | 54 | 39 (72.2%) | 44 | 33 (75.0%) |
-| S. epidermidis * | 11 | 9 (81.8%) | 14 | 11 (78.6%) |
-
-* Eradication rates shown are for patients who had a sole pathogen only; mixed cultures were excluded.
+| S. epidermidisEradication rates shown are for patients who had a sole pathogen only; mixed cultures were excluded. | 11 | 9 (81.8%) | 14 | 11 (78.6%) |
 
 Eradication rates for S. epidermidis when found with other co-pathogens are consistent with rates seen in pure isolates.
 
@@ -179,14 +176,13 @@ Table 18: Bacteriological Eradication at Test-of-Cure
 
 Microbiologic eradication rates in the Microbiologically Evaluable population at TOC for individual pathogens recovered from patients randomized to levofloxacin treatment are presented in Table 19.
 
-| Table 19: Bacteriological Eradication Rates for Individual Pathogens Recovered From Patients Randomized to Levofloxacin 750 mg QD for 5 Days Treatment |  |  |
-| --- | --- | --- |
+Table 19: Bacteriological Eradication Rates for Individual Pathogens Recovered From Patients Randomized to Levofloxacin 750 mg QD for 5 Days Treatment
+
 | Pathogen | Bacteriological Eradication Rate (n/N) | % |
-| Escherichia coli* | 155/172 | 90 |
+| --- | --- | --- |
+| Escherichia coliThe predominant organism isolated from patients with AP was E. coli: 91% (63/69) eradication in AP and 89% (92/103) in patients with cUTI. | 155/172 | 90 |
 | Klebsiella pneumoniae | 20/23 | 87 |
 | Proteus mirabilis | 12/12 | 100 |
-
-* The predominant organism isolated from patients with AP was E. coli: 91% (63/69) eradication in AP and 89% (92/103) in patients with cUTI.
 
 ## 14.8 Complicated Urinary Tract Infections and Acute Pyelonephritis: 10-day Treatment Regimen
 
