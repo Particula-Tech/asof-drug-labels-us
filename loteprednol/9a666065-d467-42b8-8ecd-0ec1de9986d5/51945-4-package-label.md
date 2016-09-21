@@ -2,14 +2,10 @@
 
 NDC 24208-503-07
 
-BAUSCH + LOMB
-
-LOTEMAX®
+BAUSCH + LOMB LOTEMAX®
 
 loteprednol etabonate ophthalmic gel 0.5%
 
-Sterile
-
-Rx only
+Sterile Rx only
 
 5 g

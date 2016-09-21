@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects:Pregnancy Category C.
+Teratogenic Effects
 
 Loteprednol etabonate has been shown to be embryotoxic (delayed ossification) and teratogenic (increased incidence of meningocele, abnormal left common carotid artery, and limb flexures) when administered orally to rabbits during organogenesis at a dose of 3 mg/kg/day (35 times the maximum daily clinical dose), a dose which caused no maternal toxicity.
 The no-observed-effect-level (NOEL) for these effects was 0.5 mg/kg/day (6 times the maximum daily clinical dose).

@@ -16,14 +16,14 @@ Patients should be advised not to wear contact lenses when using LOTEMAX.
 
 If pain develops, redness, itching or inflammation becomes aggravated, the patient should be advised to consult a physician.
 
-Bausch & Lomb Incorporated Tampa, Florida 33637 USA
+Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
 US Patent No. 5,800,807
 
-©Bausch & Lomb Incorporated ®/™ are trademarks of Bausch & Lomb Incorporated or its affiliates.
+©Bausch & Lomb Incorporated Lotemax is a trademark of Bausch & Lomb Incorporated or its affiliates.
 
 Reference ID: 3196435
 
-9269100 Flat
+9269101 Flat
 
-9269200 Folded
+9269201 Folded
