@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "NDA205879"
+  ],
+  "inn": "canagliflozin",
+  "labeler": "Janssen Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "50458-940-01",
+    "50458-940-02",
+    "50458-941-01",
+    "50458-941-02",
+    "50458-942-01",
+    "50458-942-02",
+    "50458-943-01",
+    "50458-943-02"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "canagliflozin and metformin hydrochloride",
+      "name": "INVOKAMET XR"
+    }
+  ],
+  "setid": "9da7283e-9168-45df-9749-dc51cfcca450",
+  "source": "dailymed"
+}
