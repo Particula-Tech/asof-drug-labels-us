@@ -1,3 +1,3 @@
-# 4 CONTRAINDICATIONS
+# 4. CONTRAINDICATIONS
 
-- CANASA suppositories are contraindicated in patients who have demonstrated hypersensitivity to mesalamine (5-aminosalicylic acid) or to the suppository vehicle [saturated vegetable fatty acid esters (Hard Fat, NF)], or to salicylates (including aspirin) ﻿[See Warnings and Precautions (5.3), Adverse Reactions (6.2) and Description (11)].
+CANASA is contraindicated in patients with known or suspected hypersensitivity to salicylates or aminosalicylates or to any ingredients in the suppository vehicle [see Warnings and Precautions (5.3), Adverse Reactions (6.2), and Description (11)].

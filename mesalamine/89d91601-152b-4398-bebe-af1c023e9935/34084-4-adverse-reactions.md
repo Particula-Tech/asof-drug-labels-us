@@ -1,19 +1,19 @@
-# 6 ADVERSE REACTIONS
+# 6. ADVERSE REACTIONS
 
 The most serious adverse reactions seen in CANASA clinical trials or with other products that contain or are metabolized to mesalamine are:
 
-- Renal impairment, including renal failure [See Warnings and Precautions (5.1)]
-- Mesalamine-induced acute intolerance syndrome [See Warnings and Precautions (5.2)]
-- Hypersensitivity reactions [See Warnings and Precautions (5.3)]
-- Hepatic impairment, including hepatic failure [See Warnings and Precautions (5.4)]
+- Renal Impairment [see Warnings and Precautions (5.1)]
+- Mesalamine-Induced Acute Intolerance Syndrome [see Warnings and Precautions (5.2)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.3)]
+- Hepatic Failure [see Warnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The most frequent adverse reactions observed in the double-blind placebo-controlled trials are summarized in the Table 1 below.
+The most common adverse reactions in adult patients with mildly to moderately active ulcerative proctitis in double-blind, placebo-controlled trials are summarized in the Table 1 below.
 
-Table 1: ADVERSE REACTIONS OCCURRING IN MORE THAN 1% OF MESALAMINE SUPPOSITORY TREATED PATIENTS (COMPARISON TO PLACEBO)
+Table 1: Adverse Reactions Occurring In More Than 1% of Mesalamine Suppository Treated Patients (Comparison to Placebo)
 
 | Symptom | Mesalamine (n = 177) |  | Placebo (n = 84) |  |
 | --- | --- | --- | --- | --- |
@@ -25,23 +25,24 @@ Table 1: ADVERSE REACTIONS OCCURRING IN MORE THAN 1% OF MESALAMINE SUPPOSITORY T
 | Acne | 2 | 1.2 | 0 | 0 |
 | Colitis | 2 | 1.2 | 0 | 0 |
 
-In a multicenter, open-label, randomized, parallel group study comparing the CANASA 1000 mg suppository administered nightly to that of the CANASA 500 mg suppository twice daily, the two treatment groups had similar adverse event profiles.
-The most frequent AEs were headache (14.4%), flatulence (5.2%), abdominal pain (5.2%), diarrhea (3.1%), and nausea (3.1%).
-Three (3) patients had to discontinue medication because of an adverse reaction; one of these adverse reactions (headache) was deemed possibly related to study medication.
+In a multicenter, open-label, randomized, parallel group study in 99 patients comparing the CANASA 1000 mg suppository administered nightly to that of the mesalamine 500 mg suppository twice daily.
+The most common adverse reactions in both groups were headache (14%), flatulence (5%), abdominal pain (5%), diarrhea (3%), and nausea (3%).
+Three (3) patients discontinued medication because of an adverse reaction; one of these adverse reactions (headache) was deemed possibly related to study medication.
+The recommended dosage of CANASA is 1000 mg administered rectally once daily at bedtime [see Dosage and Administration (2)].
 
 ## 6.2 Postmarketing Experience
 
 In addition to the adverse reactions reported above in clinical trials involving CANASA, the adverse reactions listed below have been identified during post-approval use of CANASA and other mesalamine-containing products.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- Body as a Whole: ﻿drug fever, fatigue, lupus-like syndrome, medication residue
-- Cardiac Disorders: myocarditis, pericarditis, pericardial effusion
+- Body as a Whole: drug fever, fatigue, lupus-like syndrome, medication residue
+- Cardiac Disorders: myocarditis, pericarditis, pericardial effusion [see Warnings and Precautions (5.3)]
 - Eye disorders: eye swelling
 - Gastrointestinal Disorders: abdominal cramps, abdominal distension, anal pruritus, anorectal discomfort, constipation, feces discolored, flatulence, frequent bowel movements, gastrointestinal bleeding, mucus stools, nausea, painful defecation, pancreatitis, proctalgia, rectal discharge, rectal tenesmus, stomach discomfort, vomiting
-- ﻿Hepatic Disorders: ﻿cholestatic jaundice, hepatitis, jaundice, Kawasaki-like syndrome including changes in liver enzymes, liver necrosis, liver failure
-- Hematologic Disorders: ﻿agranulocytosis, aplastic anemia, thrombocytopenia
-- ﻿Neurological/Psychiatric Disorders:﻿ Guillain-Barre syndrome, peripheral neuropathy, transverse myelitis
-- ﻿Renal Disorders:﻿ interstitial nephritis
+- Hepatic Disorders: cholestatic jaundice, hepatitis, jaundice, Kawasaki-like syndrome including changes in liver enzymes, liver necrosis, liver failure
+- Hematologic Disorders: agranulocytosis, aplastic anemia, thrombocytopenia
+- Neurological/Psychiatric Disorders: Guillain-Barre syndrome, peripheral neuropathy, transverse myelitis
+- Renal Disorders: interstitial nephritis, renal failure, minimal change nephropathy [see Warnings and Precautions (5.1)]
 - Respiratory, Thoracic and Mediastinal Disorders: hypersensitivity pneumonitis (including allergic alveolitis, eosinophilic pneumonitis, interstitial pneumonitis)
-- Skin and subcutaneous tissue Disorder: alopecia, erythema, erythema nodosum, pruritus, psoriasis, pyoderma gangrenosum, urticaria
-- ﻿Urogenital:﻿ reversible oligospermia
+- Skin and Subcutaneous Tissue Disorder: alopecia, erythema, erythema nodosum, pruritus, psoriasis, pyoderma gangrenosum, urticaria
+- Urogenital: reversible oligospermia
