@@ -10,7 +10,7 @@ Adverse reactions reported by ≥ 1% of subjects are shown in Table 1.
 
 Table 1: Adverse Drug Reactions Reported by ≥ 1% of DITROPAN XL®-treated Adult Subjects in Five Double-blind, Controlled Clinical Trials of DITROPAN XL®
 
-| System/Organ Class Preferred Term | DITROPAN XL® 5 to 30 mg/day n = 774 % | Ditropan IRIR = immediate release 5 to 20 mg/day n = 199 % |
+| System/Organ Class Preferred Term | DITROPAN XL® 5 to 30 mg/day n=774 % | Ditropan IRIR = immediate release 5 to 20 mg/day n=199 % |
 | --- | --- | --- |
 | Psychiatric Disorders |  |  |
 | Insomnia | 3.0 | 5.5 |
@@ -59,6 +59,6 @@ The following adverse reactions were reported by <1% of DITROPAN XL®-treated pa
 The following additional adverse reactions have been reported from worldwide postmarketing experience with DITROPAN XL®.
 Because postmarketing reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Psychiatric Disorders: psychotic disorder, agitation, hallucinations, memory impairment; Nervous System Disorders: convulsions; Eye Disorders: glaucoma; Cardiac Disorders: arrhythmia, tachycardia, QT interval prolongation; Vascular Disorders: flushing; Skin and Subcutaneous Tissue Disorders: rash; Renal and Urinary Disorders: impotence; General Disorders and Administration Site Conditions: hypersensitivity reactions, including angioedema with airway obstruction, urticaria, and face edema; anaphylactic reactions requiring hospitalization for emergency treatment; Injury, poisoning and procedural complications: fall.
+Infections and Infestations: Urinary tract infection; Psychiatric Disorders: psychotic disorder, agitation, confusional state, hallucinations, memory impairment; Nervous System Disorders: convulsions; Eye Disorders: glaucoma; Respiratory, Thoracic and Mediastinal Disorders: nasal congestion; Cardiac Disorders: arrhythmia, tachycardia, palpitations, QT interval prolongation; Vascular Disorders: flushing, hypertension; Skin and Subcutaneous Tissue Disorders: rash; Renal and Urinary Disorders: impotence; General Disorders and Administration Site Conditions: hypersensitivity reactions, including angioedema with airway obstruction, urticaria, and face edema; anaphylactic reactions requiring hospitalization for emergency treatment; Injury, poisoning and procedural complications: fall.
 
 Additional adverse events reported with some other oxybutynin chloride formulations include: cycloplegia, mydriasis, and suppression of lactation.
