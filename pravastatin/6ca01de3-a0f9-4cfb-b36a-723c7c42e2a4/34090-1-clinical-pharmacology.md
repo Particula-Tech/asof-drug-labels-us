@@ -7,9 +7,9 @@ In addition, pravastatin reduces VLDL and TG and increases HDL-C.
 
 ## 12.3 Pharmacokinetics
 
-General
+### General
 
-Absorption: Pravastatin sodium is administered orally in the active form.
+Absorption: pravastatin sodium is administered orally in the active form.
 In studies in man, peak plasma pravastatin concentrations occurred 1 to 1.5 hours upon oral administration.
 Based on urinary recovery of total radiolabeled drug, the average oral absorption of pravastatin is 34% and absolute bioavailability is 17%.
 While the presence of food in the gastrointestinal tract reduces systemic bioavailability, the lipid-lowering effects of the drug are similar whether taken with or 1 hour prior to meals.
@@ -34,7 +34,7 @@ After intravenous administration of radiolabeled pravastatin to normal volunteer
 
 Following single dose oral administration of 14C-pravastatin, the radioactive elimination t½ for pravastatin is 1.8 hours in humans.
 
-Specific Populations
+### Specific Populations
 
 Renal Impairment: A single 20 mg oral dose of pravastatin was administered to 24 patients with varying degrees of renal impairment (as determined by creatinine clearance).
 No effect was observed on the pharmacokinetics of pravastatin or its 3α-hydroxy isomeric metabolite (SQ 31,906).
@@ -42,39 +42,33 @@ Compared to healthy subjects with normal renal function, patients with severe re
 
 Hepatic Impairment: In a study comparing the kinetics of pravastatin in patients with biopsy confirmed cirrhosis (N=7) and normal subjects (N=7), the mean AUC varied 18-fold in cirrhotic patients and 5-fold in healthy subjects.
 Similarly, the peak pravastatin values varied 47-fold for cirrhotic patients compared to 6-fold for healthy subjects.
-[See Warnings and Precautions (5.2).]
+[See Warnings and Precautions (5.2)].
 
 Geriatric: In a single oral dose study using pravastatin 20 mg, the mean AUC for pravastatin was approximately 27% greater and the mean cumulative urinary excretion (CUE) approximately 19% lower in elderly men (65 to 75 years old) compared with younger men (19 to 31 years old).
 In a similar study conducted in women, the mean AUC for pravastatin was approximately 46% higher and the mean CUE approximately 18% lower in elderly women (65 to 78 years old) compared with younger women (18 to 38 years old).
 In both studies, Cmax, Tmax, and t½ values were similar in older and younger subjects.
-[See Use in Specific Populations (8.5).]
+[See Use in Specific Populations (8.5)].
 
 Pediatric: After 2 weeks of once-daily 20 mg oral pravastatin administration, the geometric means of AUC were 80.7 (CV 44%) and 44.8 (CV 89%) ng*hr/mL for children (8 to 11 years, N=14) and adolescents (12 to 16 years, N=10), respectively.
 The corresponding values for Cmax were 42.4 (CV 54%) and 18.6 ng/mL (CV 100%) for children and adolescents, respectively.
 No conclusion can be made based on these findings due to the small number of samples and large variability.
-[See Use in Specific Populations (8.4).]
+[See Use in Specific Populations (8.4)].
 
-Drug-Drug Interactions
+### Drug-Drug Interactions
 
 Table 3: Effect of Coadministered Drugs on the Pharmacokinetics of Pravastatin
 
-| Coadministered Drug and Dosing Regimen | Pravastatin |  |  |
+| Coadministered Drug and Dosing Regimen | Dose (mg) | Change in AUC | Change in Cmax |
 | --- | --- | --- | --- |
-| Dose (mg) | Change in AUC | Change in Cmax |  |
+|  | Pravastatin |  |  |
 | Cyclosporine 5 mg/kg single dose | 40 mg single dose | ↑282% | ↑327% |
 | Clarithromycin 500 mg BID for 9 days | 40 mg OD for 8 days | ↑110% | ↑128% |
+| Boceprevir 800 mg TID for 6 days | 40 mg single dose | ↑63% | ↑49% |
 | Darunavir 600 mg BID/Ritonavir 100 mg BID for 7 days | 40 mg single dose | ↑81% | ↑63% |
 | Colestipol 10 g single dose | 20 mg single dose | ↓47% | ↓53% |
-| Cholestyramine 4 g single dose | 20 mg single dose |  |  |
-| Administered simultaneously | ↓40% | ↓39% |  |
-| Administered 1 hour prior to cholestyramine | ↑12% | ↑30% |  |
-| Administered 4 hours after cholestyramine | ↓12% | ↓6.8% |  |
-| Cholestyramine 24 g OD for 4 weeks | 20 mg BID for 8 weeks | ↓51% | ↑4.9% |
-| 5 mg BID for 8 weeks | ↓38% | ↑23% |  |
-| 10 mg BID for 8 weeks | ↓18% | ↓33% |  |
-| Fluconazole |  |  |  |
-| 200 mg IV for 6 days | 20 mg PO+10 mg IV | ↓34% | ↓33% |
-| 200 mg PO for 6 days | 20 mg PO+10 mg IV | ↓16% | ↓16% |
+| Cholestyramine 4 g single dose Administered simultaneously Administered 1 hour prior to cholestyramine Administered 4 hours after cholestyramine | 20 mg single dose | ↓40% ↑12% ↓12% | ↓39% ↑30% ↓6.8% |
+| Cholestyramine 24 g OD for 4 weeks | 20 mg BID for 8 weeks 5 mg BID for 8 weeks 10 mg BID for 8 weeks | ↓51% ↓38% ↓18% | ↑4.9% ↑23% ↓33% |
+| Fluconazole 200 mg IV for 6 days 200 mg PO for 6 days | 20 mg PO+10 mg IV 20 mg PO+10 mg IV | ↓34% ↓16% | ↓33% ↓16% |
 | Kaletra 400 mg/100 mg BID for 14 days | 20 mg OD for 4 days | ↑33% | ↑26% |
 | Verapamil IR 120 mg for 1 day and Verapamil ER 480 mg for 3 days | 40 mg single dose | ↑31% | ↑42% |
 | Cimetidine 300 mg QID for 3 days | 20 mg single dose | ↑30% | ↑9.8% |
@@ -87,20 +81,15 @@ Table 3: Effect of Coadministered Drugs on the Pharmacokinetics of Pravastatin
 | Aspirin 324 mg single dose | 20 mg single dose | ↑4.7% | ↑8.9% |
 | Niacin 1 g single dose | 20 mg single dose | ↓3.6% | ↓8.2% |
 | Diltiazem | 20 mg single dose | ↑2.7% | ↑30% |
-| Grapefruit juice | 40 mg single dose | ↓1.8% | ↓3.7% |
-
-BID = twice daily; OD = once daily; QID = four times daily
+| Grapefruit juice | 40 mg single dose | ↓1.8% | ↑3.7% |
+| BID = twice daily; OD = once daily; QID = four times daily |  |  |  |
 
 Table 4: Effect of Pravastatin on the Pharmacokinetics of Coadministered Drugs
 
-| Pravastatin Dosing Regimen | Name and Dose | Change in AUC | Change in Cmax |
-| --- | --- | --- | --- |
-| 20 mg BID for 6 days | Warfarin 5 mg OD for 6 days | ↑17% | ↑15% |
-| Change in mean prothrombin time | ↑0.4 sec |  |  |
-| 20 mg OD for 9 days | Digoxin 0.2 mg OD for 9 days | ↑4.6% | ↑5.3% |
-| 20 mg BID for 4 weeks | Antipyrine 1.2 g single dose | ↑3.0% | Not Reported |
-| 10 mg BID for 4 weeks | ↑1.6% |  |  |
-| 5 mg BID for 4 weeks | ↑ Less than 1% |  |  |
-| 20 mg OD for 4 days | Kaletra 400 mg/100 mg BID for 14 days | No change | No change |
-
-BID = twice daily; OD = once daily
+| Pravastatin Dosing Regimen | Name and Dose | Change in AUC | Change in Cmax |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 20 mg BID for 6 days | Warfarin 5 mg OD for 6 days Change in mean prothrombin time | ↑17% ↑0.4 sec | ↑15% |  |  |  |  |
+| 20 mg OD for 9 days | Digoxin 0.2 mg OD for 9 days | ↑4.6% | ↑5.3% |  |  |  |  |
+| 20 mg BID for 4 weeks 10 mg BID for 4 weeks 5 mg BID for 4 weeks | Antipyrine 1.2 g single dose | ↑3.0% ↑1.6% ↑ Less than 1% | Not Reported |  |  |  |  |
+| 20 mg OD for 4 days | Kaletra 400 mg/100 mg BID for 14 days | No change | No change |  |  |  |  |
+| BID = twice daily; OD = once daily |  |  |  |  |  |  |  |

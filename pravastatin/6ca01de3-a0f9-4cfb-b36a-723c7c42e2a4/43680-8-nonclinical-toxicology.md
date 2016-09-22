@@ -17,7 +17,7 @@ In a fertility study in adult rats with daily doses up to 500 mg/kg, pravastatin
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
-CNS Toxicity
+### CNS Toxicity
 
 CNS vascular lesions, characterized by perivascular hemorrhage and edema and mononuclear cell infiltration of perivascular spaces, were seen in dogs treated with pravastatin at a dose of 25 mg/kg/day.
 These effects in dogs were observed at approximately 59 times the HD of 80 mg/day, based on AUC.
