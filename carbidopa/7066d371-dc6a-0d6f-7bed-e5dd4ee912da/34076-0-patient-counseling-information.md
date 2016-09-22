@@ -19,7 +19,7 @@ Advise the patient to contact their healthcare provider and to take oral carbido
 
 Gastrointestinal and Gastrointestinal Procedure-Related Risks
 
-Inform patients of the gastrointestinal procedure-related risks including bezoar, ileus, implant site erosion/ulcer, intestinal hemorrhage, intestinal ischemia, intestinal obstruction, intestinal perforation, pancreatitis, peritonitis, pneumoperitoneum, post-operative wound infection and sepsis.
+Inform patients of the gastrointestinal procedure-related risks including bezoar, ileus, implant site erosion/ulcer, intestinal hemorrhage, intestinal ischemia, intestinal obstruction, intestinal perforation, intussusception, pancreatitis, peritonitis, pneumoperitoneum, post-operative wound infection and sepsis.
 Advise patients of the symptoms of the above listed complications and instruct them to contact their healthcare provider if they experience any of these symptoms [see Warnings and Precautions (5.1)].
 
 Falling Asleep during Activities of Daily Living and Somnolence
@@ -74,4 +74,4 @@ Because of the possibility that carbidopa or levodopa may be excreted in human m
 
 Manufactured by AbbVie Inc., North Chicago, IL 60064, USA or by Fresenius Kabi Norge AS, 1788 Halden, Norway For AbbVie Inc. North Chicago, IL 60064, USA
 
-03-B152 February 2016
+03-B402 September 2016

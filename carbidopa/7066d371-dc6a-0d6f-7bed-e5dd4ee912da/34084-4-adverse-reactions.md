@@ -70,4 +70,4 @@ The most common adverse reactions associated with complications due to naso-jeju
 
 The most common adverse reactions associated with complications due to PEG-J insertion were: abdominal pain, abdominal discomfort, abdominal distension, flatulence, or pneumoperitoneum.
 
-Additional adverse reactions that were co-reported with complication of naso-jejunal and PEG-J insertion included upper abdominal pain, duodenal ulcer, duodenal ulcer hemorrhage, erosive duodenitis, erosive gastritis, gastrointestinal hemorrhage, peritonitis, post-operative abscess, and small intestine ulcer.
+Additional adverse reactions that were co-reported with complication of naso-jejunal and PEG-J insertion included upper abdominal pain, duodenal ulcer, duodenal ulcer hemorrhage, erosive duodenitis, erosive gastritis, gastrointestinal hemorrhage, intussusception, peritonitis, post-operative abscess, and small intestine ulcer.
