@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA091688"
+  ],
+  "inn": "trospium",
+  "labeler": "CIPLA USA INC.,",
+  "package_ndcs": [
+    "69097-912-02",
+    "69097-912-03",
+    "69097-912-15"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "trospium chloride",
+      "name": "Trospium Chloride"
+    }
+  ],
+  "setid": "6a711666-9e80-4728-b745-e7dc86f57510",
+  "source": "dailymed"
+}
