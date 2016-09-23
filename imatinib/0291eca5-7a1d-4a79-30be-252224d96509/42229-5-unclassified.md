@@ -1,7 +1,7 @@
-| Manufactured by: | Manufactured for: |
+| Manufactured by | Manufactured for |
 | --- | --- |
 | Apotex Inc. | Apotex Corp. |
 | Toronto, Ontario | Weston Florida |
-| Canada M9L 1T9 | 33326 |
+| Canada M9L 1T9 | USA 33326 |
 
-Revised: August 2016 Revision: 13
+Revised: September 2016 Revision: 14

@@ -19,21 +19,12 @@ Testicular and epididymal weights and percent motile sperm were decreased at 60 
 This was not seen at doses ≤20 mg/kg (one-fourth the maximum human dose of 800 mg).
 The fertility of male and female rats was not affected.
 
-In a pre- and post-natal development study in female rats dosed with imatinib mesylate at 45 mg/kg (approximately one-half the maximum human dose of 800 mg/day, based on body surface area) from gestational Day 6 until the end of lactation, red vaginal discharge was noted on either gestational Day 14 or 15.
-In the first generation offspring at this same dose level, mean body weights were reduced from birth until terminal sacrifice.
-First generation offspring fertility was not affected but reproductive effects were noted at 45 mg/kg/day including an increased number of resorptions and a decreased number of viable fetuses.
-
 Fertility was not affected in the preclinical fertility and early embryonic development study although lower testes and epididymal weights as well as a reduced number of motile sperm were observed in the high dose males rats.
-In the preclinical pre- and post-natal study in rats, fertility in the first generation offspring was also not affected by imatinib mesylate.
-
-Human studies on male patients receiving imatinib mesylate and its affect on male fertility and spermatogenesis have not been performed.
-Male patients concerned about their fertility on imatinib mesylate treatment should consult with their physician.
+In the preclinical pre- and postnatal study in rats, fertility in the first generation offspring was also not affected by imatinib mesylate.
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
-Toxicities from Long-Term Use
-
-It is important to consider potential toxicities suggested by animal studies, specifically, liver, kidney, and cardiac toxicity and immunosuppression.
+Toxicities from Long-Term Use It is important to consider potential toxicities suggested by animal studies, specifically, liver, kidney, and cardiac toxicity and immunosuppression.
 Severe liver toxicity was observed in dogs treated for 2 weeks, with elevated liver enzymes, hepatocellular necrosis, bile duct necrosis, and bile duct hyperplasia.
 Renal toxicity was observed in monkeys treated for 2 weeks, with focal mineralization and dilation of the renal tubules and tubular nephrosis.
 Increased BUN and creatinine were observed in several of these animals.

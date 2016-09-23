@@ -2,7 +2,7 @@
 
 ## 14.1 Chronic Myeloid Leukemia
 
-Chronic Phase, Newly Diagnosed: An open-label, multicenter, international randomized Phase 3 study (imatinib mesylate versus INF+Ara-C) has been conducted in patients with newly diagnosed Philadelphia chromosome positive (Ph+) chronic myeloid leukemia (CML) in chronic phase.
+Chronic Phase, Newly Diagnosed An open-label, multicenter, international randomized Phase 3 study (imatinib mesylate versus IFN+Ara-C) has been conducted in patients with newly diagnosed Philadelphia chromosome positive (Ph+) chronic myeloid leukemia (CML) in chronic phase.
 This study compared treatment with either single-agent imatinib mesylate or a combination of interferon-alpha (IFN) plus cytarabine (Ara-C).
 Patients were allowed to cross over to the alternative treatment arm if they failed to show a complete hematologic response (CHR) at 6 months, a major cytogenetic response (MCyR) at 12 months, or if they lost a CHR or MCyR.
 Patients with increasing WBC or severe intolerance to treatment were also allowed to cross over to the alternative treatment arm with the permission of the study monitoring committee (SMC).
@@ -42,7 +42,7 @@ At 84 months the estimated overall survival is 86.4% (83, 90) vs. 83.3% (80, 87)
 The hazard ratio is 0.750 with 95% CI 0.547–1.028.
 This time-to-event endpoint may be affected by the high crossover rate from IFN+Ara-C to imatinib mesylate.
 Major cytogenetic response, hematologic response, evaluation of minimal residual disease (molecular response), time to accelerated phase or blast crisis and survival were main secondary endpoints.
-Response data are shown in Table 16.
+Response data are shown in Table 18.
 Complete hematologic response, major cytogenetic response and complete cytogenetic response were also statistically significantly higher in the imatinib mesylate arm compared to the IFN + Ara-C arm (no cross-over data considered for evaluation of responses).
 Median time to CCyR in the 454 responders was 6 months (range 2 to 64 months, 25th to 75th percentiles=3 to 11 months) with 10% of responses seen only after 22 months of therapy).
 
@@ -105,6 +105,7 @@ b CCyR: 0% Ph+ metaphases.
 Cytogenetic responses were based on the percentage of Ph-positive metaphases among ≥20 metaphase cells in each bone marrow sample.
 
 By the 60 months, MMR was achieved by 60% of patients on imatinib mesylate and 77% of patients on nilotinib.
+
 Median overall survival was not reached in either arm.
 At the time of the 60-month final analysis, the estimated survival rate was 91.7% for patients on imatinib mesylate and 93.7% for patients on nilotinib.
 
@@ -174,7 +175,7 @@ Responses were seen in black patients, but there were too few black patients to 
 
 ## 14.2 Pediatric CML
 
-A total of 51 pediatric patients with newly diagnosed and untreated CML in chronic phase were enrolled in an open-label, multicenter, single arm phase 2 trial.
+A total of 51 pediatric patients with newly diagnosed and untreated CML in chronic phase were enrolled in an open-label, multicenter, single-arm phase 2 trial.
 Patients were treated with imatinib mesylate 340 mg/m2/day, with no interruptions in the absence of dose limiting toxicity.
 Complete hematologic response (CHR) was observed in 78% of patients after 8 weeks of therapy.
 The complete cytogenetic response rate (CCyR) was 65%, comparable to the results observed in adults.
@@ -201,9 +202,9 @@ In addition 2 patients with relapsed/refractory Ph+ ALL received imatinib mesyla
 Confirmed and unconfirmed hematologic and cytogenetic response rates for the 43 relapsed/refractory Ph+ALL phase 2 study patients and for the 2 phase 1 patients are shown in Table 21.
 The median duration of hematologic response was 3.4 months and the median duration of MCyR was 2.3 months.
 
-Table 21 Effect of Imatinib Mesylate on Relapsed/Refractory Ph+ ALL.
+Table 21 Effect of Imatinib Mesylate on Relapsed/Refractory Ph+ ALL
 
-|  | Phase 2 Study (N=43) n % | Phase 1 Study (N=2) n % |
+|  | Phase 2 Study (N=43) n% | Phase 1 Study (N=2) n% |
 | --- | --- | --- |
 | CHR | 8 (19) | 2 (100) |
 | NEL | 5 (12) |  |
@@ -260,13 +261,13 @@ Response durations of literature patients ranged from 1+ to 30+ months.
 
 Table 23 Response in ASM
 
-| Cytogenetic Abnormality | Number of Patients N | Complete Hematologic Response n (%) | Partial Hematologic Response n (%) |
+| Cytogenetic Abnormality | Number of Patients N | Complete Hematologic Response N (%) | Partial Hematologic Response N (%) |
 | --- | --- | --- | --- |
-| FIP1L1-PDGFRα Fusion Kinase (or CHIC2 Deletion) | 7 | 7 (100) | 0% |
-| Juxtamembrane Mutation | 2 | 0 | 2 (100%) |
-| Unknown or No Cytogenetic Abnormality Detected | 15 | 0 | 7 (44%) |
-| D816V Mutation | 4 | 1* (25) | 0% |
-| Total | 28 | 8 (29) | 9 (32%) |
+| FIP1L1-PDGFRα Fusion Kinase (or CHIC2 Deletion) | 7 | 7 (100) | 0 |
+| Juxtamembrane Mutation | 2 | 0 | 2 (100) |
+| Unknown or No Cytogenetic Abnormality Detected | 15 | 0 | 7 (44) |
+| D816V Mutation | 4 | 1* (25) | 0 |
+| Total | 28 | 8 (29) | 9 (32) |
 | *Patient had concomitant CML and ASM |  |  |  |
 
 Imatinib mesylate has not been shown to be effective in patients with less aggressive forms of systemic mastocytosis (SM).
@@ -286,12 +287,12 @@ Response durations for literature patients ranged from 6+ weeks to 44 months.
 
 Table 24 Response in HES/CEL
 
-| Cytogenetic Abnormality | Number of Patients N | Complete Hematological Response n (%) | Partial Hematological Response n (%) |
+| Cytogenetic Abnormality | Number of Patients | Complete Hematological Response N (%) | Partial Hematological Response N (%) |
 | --- | --- | --- | --- |
-| Positive FIP1L1-PDGFRα Fusion Kinase | 61 | 61 (100) | 0% |
-| Negative FIP1L1-PDGFRα Fusion Kinase | 56 | 12 (21) | 9 (16%) |
-| Unknown Cytogenetic Abnormality | 59 | 34 (58) | 7 (12%) |
-| Total | 176 | 107 (61) | 23 (13%) |
+| Positive FIP1L1-PDGFRα Fusion Kinase | 61 | 61 (100) | 0 |
+| Negative FIP1L1-PDGFRα Fusion Kinase | 56 | 12 (21) | 9 (16) |
+| Unknown Cytogenetic Abnormality | 59 | 34 (58) | 7 (12) |
+| Total | 176 | 107 (61) | 23 (13) |
 
 ## 14.8 Dermatofibrosarcoma Protuberans
 

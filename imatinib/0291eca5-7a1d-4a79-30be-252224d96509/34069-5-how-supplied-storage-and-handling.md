@@ -6,7 +6,7 @@ Each imatinib mesylate film-coated tablet contains 100 mg or 400 mg of imatinib 
 
 Brownish orange, slightly biconvex, round film-coated tablets with functional scoring, engraved "IMA" over score "100" on one side, "APO" on the other side
 
-Bottles of 30 tablets………………………...…………NDC 60505-2900-3 Bottles of 90 tablets…………………………………...NDC 60505-2900-9 Bottles of 100 tablets………………………………….NDC 60505-2900-1 Bottles of 1000 tablets………………………………...NDC 60505-2900-8 Blisters of 100 tablets (10 x 10)………………….…....NDC 60505-2900-0
+Bottles of 30 tablets………………………...…………NDC 60505-2900-3 Bottles of 90 tablets…………………………………...NDC 60505-2900-9 Bottles of 100 tablets………………………………….NDC 60505-2900-1 Bottles of 1,000 tablets………………………………...NDC 60505-2900-8 Blisters of 100 tablets (10 x 10)………………….…....NDC 60505-2900-0
 
 400 mg Tablets
 
@@ -16,7 +16,7 @@ Bottles of 30 tablets………………………………..…..NDC 60505-2901-3
 
 Storage and Handling
 
-Store at 20º to 25ºC (68º to 77ºF); excursions permitted to 15 to 30ºC (59 to 86ºF) [see USP Controlled Room Temperature].
+Store at 20º to 25ºC (68º to 77ºF); excursions permitted from 15 to 30ºC (59 to 86ºF) [see USP Controlled Room Temperature].
 Protect from moisture.
 
 Dispense in a tight container, USP.
