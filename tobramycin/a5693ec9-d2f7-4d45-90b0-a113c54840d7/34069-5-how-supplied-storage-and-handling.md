@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Tobramycin Ophthalmic Solution USP, 0.3% is supplied in a plastic bottle with a controlled drop tip and a tan polypropylene cap in the following size:
+Tobramycin Ophthalmic Solution USP, 0.3% is supplied in a plastic bottle with a controlled drop tip and a white polypropylene cap in the following size:
 
 NDC 24208-290-05-10 mL bottle (5 mL fill)
 
