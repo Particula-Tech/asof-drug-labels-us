@@ -75,7 +75,7 @@ In a separate experiment, fertility of female rats appeared to be affected at do
 
 ## Pregnancy
 
-### Teratogenic Effects: Pregnancy Category C.
+### Teratogenic Effects
 
 Reproduction studies performed in rabbits at doses up to approximately 3 times the oral maximum recommended daily human dose (MRDHD) of Catapres® (clonidine hydrochloride, USP) tablets produced no evidence of a teratogenic or embryotoxic potential in rabbits.
 In rats, however, doses as low as 1/3 the oral MRDHD (1/15 the MRDHD on a mg/m2 basis) of clonidine were associated with increased resorptions in a study in which dams were treated continuously from 2 months prior to mating.
