@@ -1,4 +1,4 @@
-# 16. HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 ## 16.1 How Supplied
 
@@ -13,15 +13,15 @@ NDC 67457-470-40: 200 mg/40 mL single-use vial with grey flip-off seal individua
 
 ## 16.2 Storage
 
-Store at 20° - 25° C (68° to 77° F). [See USP Controlled Room Temperature.]
+Store at 20° to 25° C (68° to 77° F). [See USP Controlled Room Temperature.]
 Do not freeze and protect from light (keep in original outer carton).
 
 ## 16.3 Handling and Disposal
 
-As with other potentially toxic anticancer agents, care should be exercised in the handling and preparation of infusion solutions prepared from Oxaliplatin Injection.
+As with other potentially toxic anticancer agents, care should be exercised in the handling and preparation of infusion solutions prepared from oxaliplatin injection.
 The use of gloves is recommended.
-If a solution of Oxaliplatin Injection contacts the skin, wash the skin immediately and thoroughly with soap and water.
-If Oxaliplatin Injection contacts the mucous membranes, flush thoroughly with water.
+If a solution of oxaliplatin injection contacts the skin, wash the skin immediately and thoroughly with soap and water.
+If oxaliplatin injection contacts the mucous membranes, flush thoroughly with water.
 
 Procedures for the handling and disposal of anticancer drugs should be considered.
 Several guidelines on the subject have been published [see References (15)].
