@@ -92,9 +92,10 @@ No dosage adjustment of posaconazole oral suspension is required when posaconazo
 
 ## 7.10 Vinca Alkaloids
 
-Most of the vinca alkaloids are substrates of CYP3A4.
-Posaconazole may increase the plasma concentrations of vinca alkaloids (e.g., vincristine and vinblastine) which may lead to neurotoxicity.
-Therefore, it is recommended that dose adjustment of the vinca alkaloid be considered.
+Most of the vinca alkaloids (e.g., vincristine and vinblastine) are substrates of CYP3A4.
+Concomitant administration of azole antifungals, including Noxafil, with vincristine has been associated with serious adverse reactions [see Warnings and Precautions (5.6)].
+Posaconazole may increase the plasma concentrations of vinca alkaloids which may lead to neurotoxicity and other serious adverse reactions.
+Therefore, reserve azole antifungals, including Noxafil, for patients receiving a vinca alkaloid, including vincristine, who have no alternative antifungal treatment options.
 
 ## 7.11 Calcium Channel Blockers Metabolized by CYP3A4
 

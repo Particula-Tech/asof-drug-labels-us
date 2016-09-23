@@ -236,14 +236,20 @@ Posaconazole blocks the synthesis of ergosterol, a key component of the fungal c
 This results in an accumulation of methylated sterol precursors and a depletion of ergosterol within the cell membrane thus weakening the structure and function of the fungal cell membrane.
 This may be responsible for the antifungal activity of posaconazole.
 
-Activity in vitro:
-
-Posaconazole has in vitro activity against Aspergillus fumigatus and Candida albicans, including Candida albicans isolates from patients refractory to itraconazole or fluconazole or both drugs [see Clinical Studies (14), Indications and Usage (1) and Dosage and Administration (2)].
-However, correlation between the results of susceptibility tests and clinical outcome has not been established.
-Posaconazole interpretive criteria (breakpoints) have not been established for any fungus.
-
-Drug Resistance:
+Resistance:
 
 Clinical isolates of Candida albicans and Candida glabrata with decreased susceptibility to posaconazole were observed in oral swish samples taken during prophylaxis with posaconazole and fluconazole, suggesting a potential for development of resistance.
 These isolates also showed reduced susceptibility to other azoles, suggesting cross-resistance between azoles.
 The clinical significance of this finding is not known.
+
+Antimicrobial Activity:
+
+Posaconazole has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections [see Indications and Usage (1)].
+
+Microorganisms:
+
+Aspergillus spp. and Candida spp.
+
+Susceptibility testing:
+
+Posaconazole interpretive criteria (breakpoints) have not been established.

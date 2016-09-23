@@ -47,3 +47,8 @@ Serum creatinine levels should be closely monitored in these patients, and, if i
 Concomitant administration of Noxafil with midazolam increases the midazolam plasma concentrations by approximately 5-fold.
 Increased plasma midazolam concentrations could potentiate and prolong hypnotic and sedative effects.
 Patients must be monitored closely for adverse effects associated with high plasma concentrations of midazolam and benzodiazepine receptor antagonists must be available to reverse these effects [see Drug Interactions (7.5) and Clinical Pharmacology (12.3)].
+
+## 5.6 Vincristine Toxicity
+
+Concomitant administration of azole antifungals, including Noxafil, with vincristine has been associated with neurotoxicity and other serious adverse reactions, including seizures, peripheral neuropathy, syndrome of inappropriate antidiuretic hormone secretion, and paralytic ileus.
+Reserve azole antifungals, including Noxafil, for patients receiving a vinca alkaloid, including vincristine, who have no alternative antifungal treatment options [see Drug Interactions (7.10)].

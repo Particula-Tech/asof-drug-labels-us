@@ -24,17 +24,12 @@ Noxafil injection should not be used in pediatric patients because of nonclinica
 
 The safety and effectiveness of posaconazole oral suspension and posaconazole delayed-release tablets have been established in the age groups 13 to 17 years of age.
 Use of posaconazole in these age groups is supported by evidence from adequate and well-controlled studies of posaconazole in adults.
-The safety and effectiveness of posaconazole in pediatric patients below the age of 13 years have not been established.
+The safety and effectiveness of posaconazole in pediatric patients below the age of 13 years (birth to 12 years) have not been established.
 
 A total of 12 patients 13 to 17 years of age received 600 mg/day (200 mg three times a day) of posaconazole oral suspension for prophylaxis of invasive fungal infections.
 The safety profile in these patients <18 years of age appears similar to the safety profile observed in adults.
 Based on pharmacokinetic data in 10 of these pediatric patients, the mean steady-state average posaconazole concentration (Cavg) was similar between these patients and adults (≥18 years of age).
-
-A total of 16 patients 8 to 17 years of age were treated with 800 mg/day (400 mg twice a day or 200 mg four times a day) of posaconazole oral suspension in a study for another indication.
-Based on pharmacokinetic data in 12 of these pediatric patients, the mean steady-state average posaconazole concentration (Cavg) was similar between these patients and adults (≥18 years of age).
-
-In the prophylaxis studies, the mean steady-state posaconazole average concentration (Cavg) was similar among ten adolescents (13 to 17 years of age) and adults (≥18 years of age).
-This is consistent with pharmacokinetic data from another study in which mean steady-state posaconazole Cavg from 12 adolescent patients (8 to 17 years of age) was similar to that in the adults (≥18 years of age).
+In a study of 136 neutropenic pediatric patients 11 months to less than 18 years treated with posaconazole oral suspension, the exposure target of steady-state posaconazole Cavg between 500 ng/mL and less than 2500 ng/mL was attained in approximately 50% of patients instead of the pre-specified 90% of patients.
 
 ## 8.5 Geriatric Use
 
