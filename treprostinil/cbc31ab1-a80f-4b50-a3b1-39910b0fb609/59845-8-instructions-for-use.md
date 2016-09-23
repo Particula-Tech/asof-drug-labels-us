@@ -556,7 +556,7 @@ TYVASO Inhalation Solution is for prescription use only.
 
 TYVASO is a registered trademark of United Therapeutics Corporation.
 
-Literature issued August, 2014
+Literature Issued 2016-07-30
 
 For further questions and information, or to report an adverse reaction, please call 1-877-UNITHER (1-877-864-8437).
 
@@ -574,7 +574,7 @@ Distributed by: United Therapeutics Corporation Research Triangle Park, North Ca
 
 TYVASO® (treprostinil) INHALATION SOLUTION
 
-© 2014, United Therapeutics Corporation.
+© 2016, United Therapeutics Corporation.
 All rights reserved.
-RTP 3098 Rev.
-00
+RTP-1-00052 Rev.
+E
