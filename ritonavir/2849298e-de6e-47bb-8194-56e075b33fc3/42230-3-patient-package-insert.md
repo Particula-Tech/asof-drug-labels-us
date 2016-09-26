@@ -59,7 +59,7 @@ Do not take NORVIR with any of the following medicines:
 - cisapride (Propulsid)
 - St. John’s Wort (Hypericum perforatum)
 - the cholesterol lowering medicines lovastatin (Mevacor, Altoprev, Advicor) or simvastatin (Zocor, Simcor, Vytorin)
-- pimozide (Orap)
+- lurasidone (Latuda), pimozide (Orap)
 - sildenafil (Revatio) only when used for the treatment of pulmonary arterial hypertension
 - oral midazolam or triazolam (Halcion)
 
@@ -273,8 +273,8 @@ NORVIR tablets and oral solution are manufactured by:
 
 AbbVie Inc. North Chicago, IL 60064 USA
 
-Revised: November 2015
+Revised: September 2016
 
 The brands listed are trademarks of their respective owners and are not trademarks of AbbVie Inc. The makers of these brands are not affiliated with and do not endorse AbbVie Inc. or its products.
 
-© 2015 AbbVie Inc. All rights reserved.
+© 2016 AbbVie Inc. All rights reserved.
