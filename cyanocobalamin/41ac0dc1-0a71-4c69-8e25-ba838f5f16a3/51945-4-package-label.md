@@ -2,12 +2,12 @@
 
 Cyanocobalamin Injection, USP
 
-1 mL vial
+1 mL Container Label
 
 NDC 70069-005-01
 
-Carton
+Cyanocobalamin Injection, USP
 
-25 vials
+Carton Label
 
 NDC 70069-005-10

@@ -2,9 +2,9 @@
 
 | NDC Number | Cyanocobalamin mcg/mL | Volume |
 | --- | --- | --- |
-| 70069-005-25 | 1,000 | 1 mL |
+| 70069-005-10 | 1,000 | 1 mL |
 
-1 mL vials are multiple dose vials, packaged 25 vials per tray.
+1 mL vial, packaged 25 vials per tray.
 
 Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
@@ -20,6 +20,6 @@ Wintac Limited Somerset Therapeutics, LLC
 
 Bangalore 562123 Mendham, NJ 07945
 
-India ST-CYC15/P/03
+India ST-CYC15/P/04
 
-Code No.: KR/DRUGS/KTK/28/289/97 Revised: 05/2016
+Code No.: KR/DRUGS/KTK/28/289/97 Revised: 09/2016
