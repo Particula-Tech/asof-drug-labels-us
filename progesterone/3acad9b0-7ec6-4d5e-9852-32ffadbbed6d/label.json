@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA200900"
+  ],
+  "inn": "progesterone",
+  "labeler": "Bionpharma Inc.",
+  "package_ndcs": [
+    "69452-148-20",
+    "69452-149-20"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "progesterone",
+      "name": "PROGESTERONE"
+    }
+  ],
+  "setid": "3acad9b0-7ec6-4d5e-9852-32ffadbbed6d",
+  "source": "dailymed"
+}

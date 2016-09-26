@@ -1,0 +1,152 @@
+# PATIENT INFORMATION
+
+Progesterone Capsules, 100 mg Progesterone Capsules, 200 mg
+
+Read this PATIENT INFORMATION before you start taking progesterone capsules and read what you get each time you refill your progesterone capsules prescription.
+There may be new information.
+This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
+
+THIS PRODUCT CONTAINS PEANUT OIL AND SHOULD NOT BE USED IF YOU ARE ALLERGIC TO PEANUTS.
+
+What is progesterone capsules?
+
+Progesterone capsules contain the female hormone called progesterone.
+
+What is progesterone capsules used for?
+
+Treatment of Menstrual Irregularities
+
+Progesterone Capsules are used for the treatment of secondary amenorrhea (absence of menstrual periods in women who have previously had a menstrual period) due to a decrease in progesterone.
+When you do not produce enough progesterone, menstrual irregularities can occur.
+If your healthcare provider has determined your body does not produce enough progesterone on its own, progesterone capsules may be prescribed to provide the progesterone you need.
+
+Protection of the Endometrium (Lining of the Uterus)
+
+Progesterone Capsules are used in combination with estrogen-containing medications in postmenopausal women with a uterus.
+Taking estrogens alone increases the chance of developing a condition called endometrial hyperplasia that may lead to cancer of the lining of the uterus (womb).
+The addition of a progestin is generally recommended for women with a uterus to reduce the chance of getting cancer of the uterus (womb).
+
+## Who should not take progesterone capsules?
+
+Do not start taking progesterone capsules if you:
+
+- Are allergic to peanuts.
+- Have unusual vaginal bleeding.
+- Currently have or have had certain cancers.
+
+Estrogen plus progestin treatment may increase the chance of getting certain types of cancers, including cancer of the breast or uterus.
+If you have or have had cancer, talk with your healthcare provider about whether you should take progesterone capsules.
+
+- Had a stroke or heart attack.
+- Currently have or have had blood clots.
+- Currently have or have had liver problems.
+- Are allergic to any of the ingredients in progesterone capsules.
+  See the list of ingredients at the end of this leaflet.
+- Think you may be pregnant.
+
+Tell your healthcare provider:
+
+- If you are breastfeeding.
+  The hormones in progesterone capsules can pass into your breast milk.
+- About all of your medical problems.
+  Your healthcare provider may need to check you more carefully if you have certain conditions, such as asthma (wheezing), epilepsy (seizures), diabetes, migraine, endometriosis, lupus, problems with your heart, liver, thyroid, kidneys, or have high calcium levels in your blood.
+- About all the medicines you take.
+  This includes prescription and nonprescription medicines, vitamins, and herbal supplements.
+  Some medicines may affect how progesterone capsules work.
+  Progesterone capsules may also affect how your other medicines work.
+
+## How should I take progesterone capsules?
+
+1. Prevention of Endometrial Hyperplasia: A postmenopausal women with a uterus who is taking estrogens should take a single daily dose of 200 mg progesterone capsules at bedtime for 12 continuous days per 28-day cycle.
+2. Secondary Amenorrhea: Progesterone capsules may be given as a single daily dose of 400 mg at bedtime for 10 days.
+3. Progesterone capsules are to be taken at bedtime as some women become very drowsy and/or dizzy after taking progesterone capsules.
+   In a few cases, symptoms may include blurred vision, difficulty speaking, difficulty walking, and feeling abnormal.
+   If you experience these symptoms, discuss them with your healthcare provider right away.
+
+If you experience difficulty in swallowing progesterone capsules, it is recommended that you take your daily dose at bedtime with a glass of water while in the standing position.
+
+## What are the possible side effects of progesterone capsules?
+
+Side effects are grouped by how serious they are and how often they happen when you are treated:
+
+Serious but less common side effects include:
+
+- Risk to the Fetus: Cases of cleft palate, cleft lip, hypospadias, ventricular septal defect, patent ductus arteriosus, and other congenital heart defects.
+- Abnormal Blood Clotting: stroke, heart attack, pulmonary embolus, visual loss or blindness.
+
+Some of the warning signs of serious side effects include:
+
+- Changes in vision or speech
+- Sudden new severe headaches
+- Severe pains in your chest or legs with or without shortness of breath, weakness and fatigue
+- Dizziness and faintness
+- Vomiting
+
+Call your healthcare provider right away if you get any of these warning signs, or any other unusual symptoms that concern you.
+
+Less serious but common side effects include:
+
+- Headaches
+- Breast pain
+- Irregular vaginal bleeding or spotting
+- Stomach/abdominal cramps, bloating
+- Nausea and vomiting
+- Hair loss
+- Fluid retention
+- Vaginal yeast infection
+
+These are not all the possible side effects of progesterone capsules.
+For more information, ask your healthcare provider or pharmacist for advice about side effects.
+You may report side effects at 1-888-235-2466 or to the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+
+## What can I do to lower my chances of getting a serious side effect with progesterone capsules?
+
+- Talk with your healthcare provider regularly about whether you should continue taking progesterone capsules.
+- See your healthcare provider right away if you get unusual vaginal bleeding while taking progesterone capsules.
+- Have a pelvic exam, breast exam, and mammogram (breast X-ray) every year unless your healthcare provider tells you something else.
+  If members of your family have had breast cancer or if you have ever had breast lumps or an abnormal mammogram, you may need to have breast exams more often.
+- If you have high blood pressure, high cholesterol (fat in the blood), diabetes, are overweight, or if you use tobacco, you may have higher chances for getting heart disease.
+
+Ask your healthcare provider for ways to lower your chances for getting heart disease.
+
+General information about safe and effective use of progesterone capsules
+
+- Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
+  Do not take progesterone capsules for conditions for which it was not prescribed.
+- Your healthcare provider has prescribed this drug for you and you alone.
+  Do not give progesterone capsules to other people, even if they have the same symptoms you have.
+  It may harm them.
+- Progesterone capsules should be taken as a single daily dose at bedtime.
+  Some women may experience extreme dizziness and/or drowsiness during initial therapy.
+  In a few cases, symptoms may include blurred vision, difficulty speaking, difficulty walking, and feeling abnormal.
+  If you experience these symptoms, discuss them with your healthcare provider right away.
+- Use caution when driving a motor vehicle or operating machinery as dizziness or drowsiness may occur.
+
+Keep progesterone capsules out of the reach of children.
+
+This leaflet provides a summary of the most important information about progesterone capsules.
+If you would like more information, talk with your healthcare provider or pharmacist.
+You can ask for information about progesterone capsules that is written for health professionals.
+You can get more information by calling the toll free number 1-888-235-2466.
+
+## What are the ingredients in progesterone capsules?
+
+Active ingredient: 100 mg or 200 mg micronized progesterone
+
+The inactive ingredients for progesterone capsules, 100 mg include: ferric oxide red NF, ferric oxide yellow NF, gelatin NF, glycerin USP, lecithin NF, peanut oil NF, titanium dioxide USP.
+
+The inactive ingredients for progesterone capsules 200 mg include: ferric oxide red NF, gelatin NF, glycerin USP, lecithin NF, peanut oil NF, titanium dioxide USP.
+
+HOW SUPPLIED
+
+Progesterone Capsules, 100 mg are available as an oval orange, opaque, capsule imprinted with P-1 in black ink.
+NDC 69452-148-20 (Bottle of 100 capsules)
+
+Progesterone Capsules, 200 mg are available as an oval red, opaque, capsule imprinted with P-2 in black ink.
+NDC 69452-149-20 (Bottle of 100 capsules)
+
+Store at 20-25°C (68-77°F)
+
+Protect from excessive moisture
+
+Manufactured for Bionpharma Inc., 600 Alexander Road, Princeton, NJ 08540, USA 04/16
