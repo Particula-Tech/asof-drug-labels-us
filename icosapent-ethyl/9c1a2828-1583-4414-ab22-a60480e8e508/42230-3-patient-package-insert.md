@@ -1,8 +1,10 @@
 PATIENT INFORMATION VASCEPA® (pronounced vas-EE-puh) (icosapent ethyl) Capsules
 
+The risk information provided here is not comprehensive.
+To learn more, talk about VASCEPA with your health care provider or pharmacist.
 Read this Patient Information before you start taking VASCEPA and each time you get a refill.
-There may be new information.
-This information does not take the place of talking with your doctor about your medical condition or your treatment.
+To read the FDA-approved product labeling, go to www.VASCEPA.com and click on prescribing information or call 1-855 VASCEPA.
+This information does not take the place of talking with your healthcare provider about your medical condition or your treatment.
 
 What is VASCEPA?
 
@@ -48,7 +50,7 @@ How should I take VASCEPA?
 
 - Take VASCEPA exactly as your doctor tells you to take it.
 - Do not change your dose or stop taking VASCEPA without talking to your doctor.
-- You should not take more than 4 capsules of VASCEPA each day.
+- You should not take more than eight 0.5-gram or four 1-gram capsules of VASCEPA each day.
   Do not take more capsules than what is prescribed by your doctor.
 - Take VASCEPA capsules whole.
   Do not break, crush, dissolve, or chew VASCEPA capsules before swallowing.
@@ -90,7 +92,7 @@ This Patient Information summarizes the most important information about VASCEPA
 If you would like more information, talk with your doctor or pharmacist.
 You can ask your doctor or pharmacist for information about VASCEPA that is written for health professionals.
 
-For more information, go to www.vascepa.com or call 1-855-VASCEPA (1-855-827-2372).
+For more information, go to www.VASCEPA.com or call 1-855-VASCEPA (1-855-827-2372).
 
 What are the ingredients in VASCEPA?
 
@@ -100,7 +102,11 @@ Inactive Ingredients: tocopherol, gelatin, glycerin, maltitol, sorbitol, and pur
 
 This patient information has been approved by the U.S. Food and Drug Administration.
 
-VASCEPA is a trademark of Amarin Pharmaceuticals Ireland Ltd. ©2012 Amarin Pharmaceuticals Ireland Ltd. PP00120G 6/2015
+VASCEPA is a registered trademark of the Amarin group of companies.
+
+©2016 Amarin Pharma, Inc. Bedminster NJ, 07921 All rights reserved
+
+PP00120J 9/2016
 
 Distributed by: Amarin Pharma Inc. Bedminster, NJ, USA
 

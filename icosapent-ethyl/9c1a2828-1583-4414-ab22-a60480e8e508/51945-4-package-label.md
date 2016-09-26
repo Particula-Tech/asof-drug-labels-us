@@ -1,3 +1,15 @@
+# PRINCIPAL DISPLAY PANEL - 240 Capsule Bottle Label
+
+NDC 52937-003-40
+
+Vascepa® (icosapent ethyl) Capsules
+
+0.5 gram
+
+240 capsules
+
+Rx only
+
 # PRINCIPAL DISPLAY PANEL - 120 Capsule Bottle Label
 
 NDC 52937-001-20
