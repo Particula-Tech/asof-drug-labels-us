@@ -1,6 +1,6 @@
-# 13. NONCLINICAL TOXICOLOGY
+# 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 CARCINOGENESIS and MUTAGENESIS and IMPAIRMENT OF FERTILITY
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 In a 2-year study in rats fed pravastatin at doses of 10, 30, or 100 mg/kg body weight, there was an increased incidence of hepatocellular carcinomas in males at the highest dose (p<0.01).
 These effects in rats were observed at approximately 12 times the human dose (HD) of 80 mg based on body surface area (mg/m2) and at approximately 4 times the HD, based on AUC.
@@ -26,7 +26,7 @@ Similar CNS vascular lesions have been observed with several other drugs in this
 A chemically similar drug in this class produced optic nerve degeneration (Wallerian degeneration of retinogeniculate fibers) in clinically normal dogs in a dose-dependent fashion starting at 60 mg/kg/day, a dose that produced mean plasma drug levels about 30 times higher than the mean drug level in humans taking the highest recommended dose (as measured by total enzyme inhibitory activity).
 This same drug also produced vestibulocochlear Wallerian-like degeneration and retinal ganglion cell chromatolysis in dogs treated for 14 weeks at 180 mg/kg/day, a dose which resulted in a mean plasma drug level similar to that seen with the 60 mg/kg/day dose.
 
-When administered to juvenile rats (postnatal days [PND] 4 through 80 at 5-45 mg/kg/day), no drug related changes were observed at 5 mg/kg/day.
+When administered to juvenile rats (postnatal days [PND] 4 through 80 at 5 to 45 mg/kg/day), no drug related changes were observed at 5 mg/kg/day.
 At 15 and 45 mg/kg/day, altered body-weight gain was observed during the dosing and 52-day recovery periods as well as slight thinning of the corpus callosum at the end of the recovery period.
 This finding was not evident in rats examined at the completion of the dosing period and was not associated with any inflammatory or degenerative changes in the brain.
 The biological relevance of the corpus callosum finding is uncertain due to the absence of any other microscopic changes in the brain or peripheral nervous tissue and because it occurred at the end of the recovery period.

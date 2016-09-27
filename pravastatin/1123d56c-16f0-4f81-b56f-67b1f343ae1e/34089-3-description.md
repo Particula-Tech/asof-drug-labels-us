@@ -1,4 +1,4 @@
-# 11. DESCRIPTION
+# 11 DESCRIPTION
 
 Pravastatin sodium USP is one of a class of lipid-lowering compounds, the statins, which reduce cholesterol biosynthesis.
 These agents are competitive inhibitors of HMG-CoA reductase, the enzyme catalyzing the early rate-limiting step in cholesterol biosynthesis, conversion of HMG-CoA to mevalonate.

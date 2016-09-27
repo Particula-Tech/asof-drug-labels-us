@@ -1,16 +1,19 @@
-# 7. DRUG INTERACTIONS
+# 7 DRUG INTERACTIONS
 
-For the concurrent therapy of either cyclosporine, fibrates, niacin (nicotinic acid), or erythromycin, the risk of myopathy increases [see WARNINGS AND PRECAUTIONS (5.1) AND CLINICAL PHARMACOLOGY (12.3)].
+For the concurrent therapy of either cyclosporine, fibrates, niacin (nicotinic acid), or erythromycin, the risk of myopathy increases [see WARNINGS AND PRECAUTIONS (5.1) and CLINICAL PHARMACOLOGY (12.3)].
 
 ## 7.1 Cyclosporine
 
 The risk of myopathy/rhabdomyolysis is increased with concomitant administration of cyclosporine.
-Limit pravastatin to 20 mg once daily for concomitant use with cyclosporine [see DOSAGE AND ADMINISTRATION (2.5), WARNINGS AND PRECAUTIONS (5.1), and CLINICAL PHARMACOLOGY (12.3)].
+Limit pravastatin to 20 mg once daily for concomitant use with cyclosporine [see DOSAGE AND ADMINISTRATION (2.6), WARNINGS AND PRECAUTIONS (5.1), and CLINICAL PHARMACOLOGY (12.3)].
 
-## 7.2 Clarithromycin
+## 7.2 Clarithromycin and Other Macrolide Antibiotics
 
 The risk of myopathy/rhabdomyolysis is increased with concomitant administration of clarithromycin.
-Limit pravastatin to 40 mg once daily for concomitant use with clarithromycin [see DOSAGE AND ADMINISTRATION (2.6), WARNINGS AND PRECAUTIONS (5.1), and CLINICAL PHARMACOLOGY (12.3)].
+Limit pravastatin to 40 mg once daily for concomitant use with clarithromycin [see DOSAGE AND ADMINISTRATION (2.7), WARNINGS AND PRECAUTIONS (5.1), and CLINICAL PHARMACOLOGY (12.3)].
+
+Other macrolides (e.g., erythromycin and azithromycin) have the potential to increase statin exposures while used in combination.
+Pravastatin should be used cautiously with macrolide antibiotics due to a potential increased risk of myopathies.
 
 ## 7.3 Colchicine
 

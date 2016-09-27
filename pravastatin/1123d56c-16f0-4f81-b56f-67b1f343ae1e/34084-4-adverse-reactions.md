@@ -1,4 +1,4 @@
-# 6. ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 Pravastatin is generally well tolerated; adverse reactions have usually been mild and transient.
 In 4-month-long placebo-controlled trials, 1.7% of pravastatin-treated patients and 1.2% of placebo-treated patients were discontinued from treatment because of adverse experiences attributed to study drug therapy; this difference was not statistically significant.
@@ -7,7 +7,7 @@ In 4-month-long placebo-controlled trials, 1.7% of pravastatin-treated patients 
 
 Short-Term Controlled Trials
 
-In the pravastatin sodium placebo-controlled clinical trials database of 1313 patients (age range 20-76 years, 32.4% women, 93.5% Caucasians, 5% Blacks, 0.9% Hispanics, 0.4% Asians, 0.2% Others) with a median treatment duration of 14 weeks, 3.3% of patients on pravastatin sodium and 1.2% patients on placebo discontinued due to adverse events regardless of causality.
+In the pravastatin sodium placebo-controlled clinical trials database of 1313 patients (age range 20 to 76 years, 32.4% women, 93.5% Caucasians, 5% Blacks, 0.9% Hispanics, 0.4% Asians, 0.2% Others) with a median treatment duration of 14 weeks, 3.3% of patients on pravastatin sodium and 1.2% patients on placebo discontinued due to adverse events regardless of causality.
 The most common adverse reactions that led to treatment discontinuation and occurred at an incidence greater than placebo were: liver function test increased, nausea, anxiety/depression, and dizziness.
 
 All adverse clinical events (regardless of causality) reported in ≥2% of pravastatin-treated patients in placebo-controlled trials of up to 8 months duration are identified in Table 1:
@@ -20,8 +20,7 @@ Table 1: Adverse Events in ≥2% of Patients Treated with Pravastatin 5 to 40 mg
 | Dermatologic Rash | 3.0 | 2.6 | 6.7 | 1.2 | 4.5 | 1.4 |
 | Gastrointestinal Nausea/Vomiting Diarrhea Flatulence Dyspepsia/Heartburn Abdominal Distension | 4.0 8.0 2.0 0.0 2.0 | 5.9 8.5 3.3 3.3 3.3 | 10.5 6.5 4.6 3.6 2.1 | 2.3 4.7 0.0 0.6 0.6 | 7.4 6.7 3.2 2.5 2.0 | 7.1 5.6 4.4 2.7 2.4 |
 | General Fatigue Chest Pain Influenza | 4.0 4.0 4.0 | 1.3 1.3 2.6 | 5.2 3.3 1.9 | 0.0 1.2 0.6 | 3.4 2.7 2.0 | 3.9 1.9 0.7 |
-| Musculoskeletal Musculoskeletal Pain | 13.0 | 3.9 | 13.2 | 5.3 | 10.1 | 10.2 |
-| Myalgia | 1.0 | 2.6 | 2.9 | 1.2 | 2.3 | 1.2 |
+| Musculoskeletal Musculoskeletal Pain Myalgia | 13.0 1.0 | 3.9 2.6 | 13.2 2.9 | 5.3 1.2 | 10.1 2.3 | 10.2 1.2 |
 | Nervous System Headache Dizziness | 5.0 4.0 | 6.5 1.3 | 7.5 5.2 | 3.5 0.6 | 6.3 3.5 | 4.6 3.4 |
 | Respiratory Pharyngitis Upper Respiratory Infection Rhinitis Cough | 2.0 6.0 7.0 4.0 | 4.6 9.8 5.2 1.3 | 1.5 5.2 3.8 3.1 | 1.2 4.1 1.2 1.2 | 2.0 5.9 3.9 2.5 | 2.7 5.8 4.9 1.7 |
 | Investigation ALT Increased g-GT Increased CPK Increased | 2.0 3.0 5.0 | 2.0 2.6 1.3 | 4.0 2.1 5.2 | 1.2 0.6 2.9 | 2.9 2.0 4.1 | 1.2 1.2 3.6 |
@@ -30,14 +29,13 @@ The safety and tolerability of pravastatin sodium at a dose of 80 mg in 2 contro
 
 Long-Term Controlled Morbidity and Mortality Trials
 
-In the pravastatin sodium placebo-controlled clinical trials database of 21,483 patients (age range 24-75 years, 10.3% women, 52.3% Caucasians, 0.8% Blacks, 0.5% Hispanics, 0.1% Asians, 0.1% Others, 46.1% Not Recorded) with a median treatment duration of 261 weeks, 8.1% of patients on pravastatin sodium and 9.3% patients on placebo discontinued due to adverse events regardless of causality.
+In the pravastatin sodium placebo-controlled clinical trials database of 21,483 patients (age range 24 to 75 years, 10.3% women, 52.3% Caucasians, 0.8% Blacks, 0.5% Hispanics, 0.1% Asians, 0.1% Others, 46.1% Not Recorded) with a median treatment duration of 261 weeks, 8.1% of patients on pravastatin sodium and 9.3% patients on placebo discontinued due to adverse events regardless of causality.
 
-Adverse event data were pooled from several double-blind, placebo-controlled trials (e.g.
-West of Scotland Coronary Prevention Study [WOS]; Pravastatin Limitation of Atherosclerosis in the Coronary Arteries study [PLAC I]; Pravastatin, Lipids and Atherosclerosis in the Carotids study [PLAC II]; Regression Growth Evaluation Statin Study [REGRESS]; and Kuopio Atherosclerosis Prevention Study [KAPS]) involving a total of 10,764 patients treated with pravastatin 40 mg and 10,719 patients treated with placebo.
+Adverse event data were pooled from 7 double-blind, placebo-controlled trials (West of Scotland Coronary Prevention Study [WOS]; Cholesterol and Recurrent Events study [CARE]; Long-term Intervention with Pravastatin in Ischemic Disease study [LIPID]; Pravastatin Limitation of Atherosclerosis in the Coronary Arteries study [PLAC I]; Pravastatin, Lipids and Atherosclerosis in the Carotids study [PLAC II]; Regression Growth Evaluation Statin Study [REGRESS]; and Kuopio Atherosclerosis Prevention Study [KAPS]) involving a total of 10,764 patients treated with pravastatin 40 mg and 10,719 patients treated with placebo.
 The safety and tolerability profile in the pravastatin group was comparable to that of the placebo group.
-Patients were exposed to pravastatin for a mean of 4 to 5.1 years in, among other trials WOS and 1.9 to 2.9 years in PLAC I, PLAC II, KAPS, and REGRESS.
+Patients were exposed to pravastatin for a mean of 4.0 to 5.1 years in WOS, CARE, and LIPID and 1.9 to 2.9 years in PLAC I, PLAC II, KAPS, and REGRESS.
 In these long-term trials, the most common reasons for discontinuation were mild, non-specific gastrointestinal complaints.
-Collectively, these trials represent 47,613 patient-years of exposure to pravastatin.
+Collectively, these 7 trials represent 47,613 patient-years of exposure to pravastatin.
 All clinical adverse events (regardless of causality) occurring in ≥2% of patients treated with pravastatin in these studies are identified in Table 2.
 
 Table 2: Adverse Events in ≥2% of Patients Treated with Pravastatin 40 mg and at an Incidence Greater Than Placebo in Long-Term Placebo-Controlled Trials
@@ -45,7 +43,7 @@ Table 2: Adverse Events in ≥2% of Patients Treated with Pravastatin 40 mg and 
 | Body System/Event | Pravastatin (N=10,764) % of patients | Placebo (N=10,719) % of patients |
 | --- | --- | --- |
 | Dermatologic Rash (including dermatitis) | 7.2 | 7.1 |
-| General Edema Fatigue Chest Pain Fever Weight Gain Weight Loss | 3.0 8.4 10.0 2.1 3.8 3.3 | 4 7.8 9.8 1.9 3.3 2.8 |
+| General Edema Fatigue Chest Pain Fever Weight Gain Weight Loss | 3.0 8.4 10.0 2.1 3.8 3.3 | 2.7 7.8 9.8 1.9 3.3 2.8 |
 | Musculoskeletal Musculoskeletal Pain Muscle Cramp Musculoskeletal Traumatism | 24.9 5.1 10.2 | 24.4 4.6 9.6 |
 | Nervous System Dizziness Sleep Disturbance Anxiety/Nervousness Paresthesia | 7.3 3.0 4.8 3.2 | 6.6 2.4 4.7 3.0 |
 | Renal/Genitourinary Urinary Tract Infection | 2.7 | 2.6 |
@@ -55,47 +53,83 @@ Table 2: Adverse Events in ≥2% of Patients Treated with Pravastatin 40 mg and 
 
 In addition to the events listed above in the long-term trials table, events of probable, possible, or uncertain relationship to study drug that occurred in <2.0% of pravastatin-treated patients in the long-term trials included the following:
 
-Dermatologic: scalp hair abnormality (including alopecia), urticaria.
+Dermatologic:
 
-Endocrine/Metabolic: sexual dysfunction, libido change.
+Scalp hair abnormality (including alopecia), urticaria.
 
-General: flushing.
+Endocrine/Metabolic:
 
-Immunologic: allergy, edema head/neck.
+Sexual dysfunction, libido change.
 
-Musculoskeletal: muscle weakness.
+General:
 
-Nervous System: vertigo, insomnia, memory impairment, neuropathy (including peripheral neuropathy).
+Flushing.
 
-Special Senses: taste disturbance.
+Immunologic:
+
+Allergy, edema head/neck.
+
+Musculoskeletal:
+
+Muscle weakness.
+
+Nervous System:
+
+Vertigo, insomnia, memory impairment, neuropathy (including peripheral neuropathy).
+
+Special Senses:
+
+Taste disturbance.
 
 ## 6.2 Postmarketing Experience
 
-In addition to the events reported above, as with other drugs in this class, the following events have been reported rarely during postmarketing experience with pravastatin sodium, regardless of causality assessment:
+In addition to the events reported above, as with other drugs in this class, the following events have been reported during postmarketing experience with pravastatin sodium, regardless of causality assessment:
 
-Musculoskeletal: myopathy, rhabdomyolysis.
+Musculoskeletal:
+
+Myopathy, rhabdomyolysis, tendon disorder, polymyositis
 
 There have been rare reports of immune-mediated necrotizing myopathy associated with statin use [see WARNINGS AND PRECAUTIONS (5.1)].
 
-Nervous System: dysfunction of certain cranial nerves (including alteration of taste, impairment of extraocular movement, facial paresis), peripheral nerve palsy.
+Nervous System:
+
+Dysfunction of certain cranial nerves (including alteration of taste, impairment of extraocular movement, facial paresis), peripheral nerve palsy.
 
 There have been rare postmarketing reports of cognitive impairment (e.g., memory loss, forgetfulness, amnesia, memory impairment, confusion) associated with statin use.
 These cognitive issues have been reported for all statins.
 The reports are generally nonserious, and reversible upon statin discontinuation, with variable times to symptom onset (1 day to years) and symptom resolution (median of 3 weeks).
 
-Hypersensitivity: anaphylaxis, angioedema, lupus erythematosus-like syndrome, polymyalgia rheumatica, dermatomyositis, vasculitis, purpura, hemolytic anemia, positive ANA, ESR increase, arthritis, arthralgia, asthenia, photosensitivity, chills, malaise, toxic epidermal necrolysis, erythema multiforme (including Stevens-Johnson syndrome).
+Hypersensitivity:
 
-Gastrointestinal: abdominal pain, constipation, pancreatitis, hepatitis (including chronic active hepatitis), cholestatic jaundice, fatty change in liver, cirrhosis, fulminant hepatic necrosis, hepatoma, fatal and non-fatal hepatic failure.
+Anaphylaxis, angioedema, lupus erythematosus-like syndrome, polymyalgia rheumatica, dermatomyositis, vasculitis, purpura, hemolytic anemia, positive ANA, ESR increase, arthritis, arthralgia, asthenia, photosensitivity, chills, malaise, toxic epidermal necrolysis, erythema multiforme (including Stevens-Johnson syndrome).
 
-Dermatologic: a variety of skin changes (e.g., nodules, discoloration, dryness of mucous membranes, changes to hair/nails).
+Gastrointestinal:
 
-Renal: urinary abnormality (including dysuria, frequency, nocturia).
+Abdominal pain, constipation, pancreatitis, hepatitis (including chronic active hepatitis), cholestatic jaundice, fatty change in liver, cirrhosis, fulminant hepatic necrosis, hepatoma, fatal and non-fatal hepatic failure.
 
-Respiratory: dyspnea.
+Dermatologic:
 
-Reproductive: gynecomastia.
+A variety of skin changes (e.g., nodules, discoloration, dryness of mucous membranes, changes to hair/nails).
 
-Laboratory Abnormalities: liver function test abnormalities, thyroid function abnormalities.
+Renal:
+
+Urinary abnormality (including dysuria, frequency, nocturia).
+
+Respiratory:
+
+Dyspnea, interstitial lung disease.
+
+Psychiatric:
+
+Nightmare.
+
+Reproductive:
+
+Gynecomastia.
+
+Laboratory Abnormalities:
+
+Liver function test abnormalities, thyroid function abnormalities.
 
 ## 6.3 Laboratory Test Abnormalities
 
@@ -107,6 +141,6 @@ Anemia, thrombocytopenia, and leukopenia have been reported with statins.
 
 ## 6.4 Pediatric Patients
 
-In a 2-year, double-blind, placebo-controlled study involving 100 boys and 114 girls with HeFH (n=214; age range 8-18.5 years, 53% female, 95% Caucasians, <1% Blacks, 3% Asians, 1% Other), the safety and tolerability profile of pravastatin was generally similar to that of placebo.
+In a 2-year, double-blind, placebo-controlled study involving 100 boys and 114 girls with HeFH (n=214; age range 8 to 18.5 years, 53% female, 95% Caucasians, <1% Blacks, 3% Asians, 1% Other), the safety and tolerability profile of pravastatin was generally similar to that of placebo.
 
 [See WARNINGS AND PRECAUTIONS (5.3), USE IN SPECIFIC POPULATIONS (8.4), and CLINICAL PHARMACOLOGY (12.3).]
