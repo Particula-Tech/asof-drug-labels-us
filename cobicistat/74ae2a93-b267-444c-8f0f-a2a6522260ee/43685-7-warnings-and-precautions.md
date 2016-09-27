@@ -55,7 +55,7 @@ STRIBILD is not recommended for coadministration with the following:
 
 - cobicistat (TYBOST®)
 - elvitegravir (VITEKTA®)
-- products containing emtricitabine or tenofovir DF (ATRIPLA, COMPLERA, EMTRIVA, TRUVADA, VIREAD®)
+- products containing emtricitabine, tenofovir DF, or tenofovir alafenamide (ATRIPLA, COMPLERA, DESCOVY, EMTRIVA, GENVOYA, ODEFSEY, TRUVADA, VIREAD®)
 - products containing lamivudine (Combivir, Epivir, Epivir-HBV, Epzicom, Triumeq, Trizivir)
 - adefovir dipivoxil (HEPSERA®)
 - products containing ritonavir (Norvir, Kaletra).

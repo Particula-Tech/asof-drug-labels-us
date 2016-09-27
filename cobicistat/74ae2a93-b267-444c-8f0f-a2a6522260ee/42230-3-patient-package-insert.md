@@ -99,6 +99,7 @@ Do not take STRIBILD if you also take a medicine that contains:
   - ergotamine tartrate (CAFERGOT®, MIGERGOT®,ERGOSTAT®, MEDIHALER ERGOTAMINE®, WIGRAINE®, WIGRETTES®)
   - methylergonovine maleate (ERGOTRATE®, METHERGINE®)
 - lovastatin (ADVICOR®, ALTOPREV®, MEVACOR®)
+- lurasidone (LATUDA®)
 - midazolam, when taken by mouth
 - phenobarbital (LUMINAL®)
 - phenytoin (DILANTIN®, PHENYTEK®)
@@ -225,4 +226,4 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Manufactured and distributed by: Gilead Sciences, Inc. Foster City, CA 94404
 
-Revised: 02/2016
+Revised: 09/2016

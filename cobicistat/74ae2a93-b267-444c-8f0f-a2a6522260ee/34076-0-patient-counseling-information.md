@@ -46,7 +46,7 @@ Advise patients not to coadminister STRIBILD with other antiretroviral products 
 
 Advise patients that STRIBILD should not be administered in combination with:
 
-- ATRIPLA, COMPLERA, EMTRIVA, TRUVADA, TYBOST, VIREAD, or VITEKTA
+- ATRIPLA, COMPLERA, DESCOVY, EMTRIVA, GENVOYA, ODEFSEY, TRUVADA, TYBOST, VIREAD, or VITEKTA
 - With drugs containing lamivudine, including Combivir, Epivir or Epivir-HBV, Epzicom, Triumeq, or Trizivir
 - With drugs containing RTV or regimens containing RTV
 - With HEPSERA [See Warnings and Precautions (5.4)].
