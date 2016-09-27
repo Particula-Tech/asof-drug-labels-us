@@ -13,11 +13,11 @@ Drugs That are Contraindicated with KALETRA
 | --- | --- | --- |
 | Alpha 1- Adrenoreceptor Antagonist | Alfuzosin | Potentially increased alfuzosin concentrations can result in hypotension. |
 | Antimycobacterial | Rifampin | May lead to loss of virologic response and possible resistance to KALETRA or to the class of protease inhibitors or other co-administered antiretroviral agents [see Drug Interactions (7)]. |
+| Antipsychotics | Lurasidone Pimozide | Potential for serious and/or life-threatening reactions. Potential for cardiac arrhythmias. |
 | Ergot Derivatives | Dihydroergotamine, ergotamine, methylergonovine | Potential for acute ergot toxicity characterized by peripheral vasospasm and ischemia of the extremities and other tissues. |
 | GI Motility Agent | Cisapride | Potential for cardiac arrhythmias. |
 | Herbal Products | St. John's Wort (hypericum perforatum) | May lead to loss of virologic response and possible resistance to KALETRA or to the class of protease inhibitors. |
 | HMG-CoA Reductase Inhibitors | Lovastatin, simvastatin | Potential for myopathy including rhabdomyolysis. |
 | PDE5 Enzyme Inhibitor | Sildenafila (Revatio®) when used for the treatment of pulmonary arterial hypertension | A safe and effective dose has not been established when used with KALETRA. There is an increased potential for sildenafil-associated adverse events, including visual abnormalities, hypotension, prolonged erection, and syncope [see Drug Interactions (7)]. |
-| Neuroleptic | Pimozide | Potential for cardiac arrhythmias. |
 | Sedative/Hypnotics | Triazolam; orally administered midazolamb | Prolonged or increased sedation or respiratory depression. |
 | a see Drug Interactions (7), Table 13 for co-administration of sildenafil in patients with erectile dysfunction. b see Drug Interactions (7), Table 13 for parenterally administered midazolam. |  |  |

@@ -1,16 +1,4 @@
-MEDICATION GUIDE
-
-KALETRA® (kuh-LEE-tra)
-
-(lopinavir and ritonavir)
-
-tablets
-
-KALETRA® (kuh-LEE-tra)
-
-(lopinavir and ritonavir)
-
-oral solution
+MEDICATION GUIDE KALETRA® (kuh-LEE-tra) (lopinavir and ritonavir) tablets KALETRA® (kuh-LEE-tra) (lopinavir and ritonavir) oral solution
 
 Read this Medication Guide before you start taking KALETRA and each time you get a refill.
 There may be new information.
@@ -79,7 +67,7 @@ Do not take KALETRA if you take any of the following medicines:
   - methylergonovine (Methergine®)
 - lovastatin (Advicor®, Altoprev®, Mevacor®)
 - midazolam oral syrup
-- pimozide (Orap®)
+- lurasidone (Latuda®), pimozide (Orap®)
 - rifampin (Rifadin®, Rifamate®, Rifater®, Rimactane®)
 - sildenafil (Revatio®), when used for the treatment of pulmonary arterial hypertension
 - simvastatin (Zocor®, Vytorin®, Simcor®)
@@ -237,7 +225,7 @@ KALETRA can cause serious side effects, including:
   - dark-colored urine
   - pale colored stools
   - itchy skin
-  - stomach area (abdominal) pain.
+  - stomach area (abdominal) pain
 - Diabetes and high blood sugar (hyperglycemia).
   Some people who take protease inhibitors including KALETRA get new or more serious diabetes, or high blood sugar.
   Tell your doctor if you notice an increase in thirst or urinate often while taking KALETRA.
@@ -337,10 +325,10 @@ KALETRA Tablets, 100 mg lopinavir and 25 mg ritonavir and KALETRA Oral Solution
 
 AbbVie Inc., North Chicago, IL 60064 USA
 
-Revised: November 2015
+Revised: September 2016
 
 The brands listed are trademarks of their respective owners and are not trademarks of AbbVie Inc. The makers of these brands are not affiliated with and do not endorse AbbVie Inc. or its products.
 
-© 2015 AbbVie Inc. All rights reserved.
+© 2016 AbbVie Inc. All rights reserved.
 
-03-B238
+03-B384
