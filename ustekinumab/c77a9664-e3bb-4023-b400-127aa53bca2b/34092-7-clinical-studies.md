@@ -17,14 +17,13 @@ The PGA is a 6-category scale ranging from 0 (cleared) to 5 (severe) that indica
 In both studies, subjects in all treatment groups had a median baseline PASI score ranging from approximately 17 to 18.
 Baseline PGA score was marked or severe in 44% of subjects in Ps STUDY 1 and 40% of subjects in Ps STUDY 2.
 Approximately two-thirds of all subjects had received prior phototherapy, 69% had received either prior conventional systemic or biologic therapy for the treatment of psoriasis, with 56% receiving prior conventional systemic therapy and 43% receiving prior biologic therapy.
-A total of 28% of study subjects had a history of psoriatic arthritis.
+A total of 28% of subjects had a history of psoriatic arthritis.
 
 Clinical Response
 
-The results of Ps STUDY 1 and Ps STUDY 2 are presented in Table 2 below.
+The results of Ps STUDY 1 and Ps STUDY 2 are presented in Table 5 below.
 
-Table 2.
-Clinical Outcomes Ps STUDY 1 and Ps STUDY 2
+Table 5: Clinical Outcomes Ps STUDY 1 and Ps STUDY 2
 
 |  | Placebo | 45 mg | 90 mg | Placebo | 45 mg | 90 mg |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -36,10 +35,9 @@ Clinical Outcomes Ps STUDY 1 and Ps STUDY 2
 
 Examination of age, gender, and race subgroups did not identify differences in response to STELARA® among these subgroups.
 
-In subjects who weighed ≤100 kg, response rates were similar with both the 45 mg and 90 mg doses; however, in subjects who weighed >100 kg, higher response rates were seen with 90 mg dosing compared with 45 mg dosing (Table 3 below).
+In subjects who weighed 100 kg or less, response rates were similar with both the 45 mg and 90 mg doses; however, in subjects who weighed greater than 100 kg, higher response rates were seen with 90 mg dosing compared with 45 mg dosing (Table 6 below).
 
-Table 3.
-Clinical Outcomes by Weight Ps STUDY 1 and Ps STUDY 2
+Table 6: Clinical Outcomes by Weight Ps STUDY 1 and Ps STUDY 2
 
 |  | Placebo | 45 mg | 90 mg | Placebo | 45 mg | 90 mg |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -74,21 +72,21 @@ The primary endpoint was the percentage of patients achieving ACR 20 response at
 
 In PsA STUDY 1 and PsA STUDY 2, 80% and 86% of the patients, respectively, had been previously treated with DMARDs.
 In PsA STUDY 1, previous treatment with anti-tumor necrosis factor (TNF)-α agent was not allowed.
-In PsA STUDY 2, 58% (n=180) of the patients had been previously treated with an anti-TNFα agent, of whom over 70% had discontinued their anti-TNFα treatment for lack of efficacy or intolerance at any time.
+In PsA STUDY 2, 58% (n=180) of the patients had been previously treated with TNF blocker, of whom over 70% had discontinued their TNF blocker treatment for lack of efficacy or intolerance at any time.
 
 Clinical Response
 
-In both studies, a greater proportion of patients achieved ACR 20, ACR 50 and PASI 75 response in the STELARA® 45 mg and 90 mg groups compared to placebo at Week 24 (see Table 4).
-ACR 70 responses were also higher in the STELARA® 45 mg and 90 mg groups, although the difference was only numerical (p=NS) in Study 2.
+In both studies, a greater proportion of patients achieved ACR 20, ACR 50 and PASI 75 response in the STELARA® 45 mg and 90 mg groups compared to placebo at Week 24 (see Table 7).
+ACR 70 responses were also higher in the STELARA® 45 mg and 90 mg groups, although the difference was only numerical (p=NS) in STUDY 2.
 Responses were similar in patients regardless of prior TNFα exposure.
 
-Table 4.
-ACR 20, ACR 50, ACR 70 and PASI 75 responses in PsA STUDY 1 and PsA STUDY 2 at Week 24
+Table 7: ACR 20, ACR 50, ACR 70 and PASI 75 responses in PsA STUDY 1 and PsA STUDY 2 at Week 24
 
-| Number of patients randomized | 206 | 205 | 204 | 104 | 103 | 105 |
+|  | Placebo | 45 mg | 90 mg | Placebo | 45 mg | 90 mg |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | PsA STUDY 1 |  |  | PsA STUDY 2 |  |  |
-|  | Placebo | 45 mg | 90 mg | Placebo | 45 mg | 90 mg |
+|  |  | STELARA® |  |  | STELARA® |  |
+| Number of patients randomized | 206 | 205 | 204 | 104 | 103 | 105 |
 | ACR 20 response, N (%) | 47 (23%) | 87 (42%) | 101 (50%) | 21 (20%) | 45 (44%) | 46 (44%) |
 | ACR 50 response, N (%) | 18 (9%) | 51 (25%) | 57 (28%) | 7 (7%) | 18 (17%) | 24 (23%) |
 | ACR 70 response, N (%) | 5 (2%) | 25 (12%) | 29 (14%) | 3 (3%) | 7 (7%) | 9 (9%) |
@@ -102,10 +100,9 @@ Figure 1: Percent of patients achieving ACR 20 response through Week 24
 | PsA STUDY 1 |
 | --- |
 
-The results of the components of the ACR response criteria are shown in Table 5.
+The results of the components of the ACR response criteria are shown in Table 8.
 
-Table 5.
-Mean change from baseline in ACR components at Week 24
+Table 8: Mean change from baseline in ACR components at Week 24
 
 |  | Placebo (N=206) | 45 mg (N= 205) | 90 mg (N= 204) |
 | --- | --- | --- | --- |
@@ -139,3 +136,67 @@ Physical Function
 
 STELARA® treated patients showed improvement in physical function compared to patients treated with placebo as assessed by HAQ-DI at Week 24.
 In both studies, the proportion of HAQ-DI responders (≥0.3 improvement in HAQ-DI score) was greater in the STELARA® 45 mg and 90 mg groups compared to placebo at Week 24.
+
+## 14.3 Crohn's Disease
+
+STELARA® was evaluated in three randomized, double-blind, placebo-controlled clinical studies in adult patients with moderately to severely active Crohn's disease (Crohn's Disease Activity Index [CDAI] score of 220 to 450).
+There were two 8-week intravenous induction studies (CD-1 and CD-2) followed by a 44-week subcutaneous randomized withdrawal maintenance study (CD-3) representing 52 weeks of therapy.
+
+Studies CD-1 and CD-2
+
+In studies CD-1 and CD-2, 1409 patients were randomized, of whom 1368 (CD-1, n=741; CD-2, n=627) were included in the final efficacy analysis.
+Induction of clinical response (defined as a reduction in CDAI score of greater than or equal to 100 points or CDAI score of less than 150) at Week 6 and clinical remission (defined as a CDAI score of less than 150) at Week 8 were evaluated.
+In both studies, patients were randomized to receive a single intravenous administration of STELARA® at either approximately 6 mg/kg, placebo (see Table 1), or 130 mg (a lower dose than recommended).
+
+In Study CD-1, patients had failed or were intolerant to prior treatment with a TNF blocker: 29% patients had an inadequate initial response (primary non-responders), 69% responded but subsequently lost response (secondary non-responders) and 36% were intolerant to a TNF blocker.
+Of these patients, 48% failed or were intolerant to one TNF blocker and 52% had failed 2 or 3 prior TNF blockers.
+At baseline and throughout the study, approximately 46% of the patients were receiving corticosteroids and 31% of the patients were receiving immunomodulators (azathioprine, 6-mercaptopurine, methotrexate).
+The median baseline CDAI score was 319 in the STELARA® approximately 6 mg/kg group and 313 in the placebo group.
+
+In Study CD-2, patients had failed or were intolerant to prior treatment with corticosteroids (81% of patients), at least one immunomodulator (6-mercaptopurine, azathioprine, methotrexate; 68% of patients), or both (49% of patients).
+Additionally, 69% never received a TNF blocker and 31% previously received but had not failed a TNF blocker.
+At baseline, and throughout the study, approximately 39% of the patients were receiving corticosteroids and 35% of the patients were receiving immunomodulators (azathioprine, 6-mercaptopurine, methotrexate).
+The median baseline CDAI score was 286 in the STELARA® and 290 in the placebo group.
+
+In these induction studies, a greater proportion of patients treated with STELARA® achieved clinical response at Week 6 and clinical remission at Week 8 compared to placebo (see Table 9 for clinical response and remission rates).
+Clinical response and remission were significant as early as Week 3 in STELARA® treated patients and continued to improve through Week 8.
+
+Table 9: Induction of Clinical Response and Remission in CD-1Patient population consisted of patients who failed or were intolerant to TNF blocker therapy and CD-2Patient population consisted of patients who failed or were intolerant to corticosteroids or immunomodulators (e.g., 6-mercaptopurine, azathioprine, methotrexate) and previously received but not failed a TNF blocker or were never treated with a TNF blocker.
+
+|  | Placebo N=247 | STELARA®Infusion dose of STELARA® using the weight-based dosage regimen specified in Table 1. N=249 | Treatment difference and 95% CI | Placebo N=209 | STELARA® N=209 | Treatment difference and 95% CI |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | CD-1 n=741 |  |  | CD-2 n=627 |  |  |
+| Clinical Response (100 point), Week 6 | 53 (21%) | 84 (34%)0.001≤ p < 0.01 | 12% (4%, 20%) | 60 (29%) | 116 (56%)p < 0.001 | 27% (18%, 36%) |
+| Clinical Remission, Week 8 | 18 (7%) | 52 (21%) | 14% (8%, 20%) | 41 (20%) | 84 (40%) | 21% (12%, 29%) |
+| Clinical Response (100 point), Week 8 | 50 (20%) | 94 (38%) | 18% (10%, 25%) | 67 (32%) | 121 (58%) | 26% (17%, 35%) |
+| 70 Point Response, Week 6 | 75 (30%) | 109 (44%) | 13% (5%, 22%) | 81 (39%) | 135 (65%) | 26% (17%, 35%) |
+| 70 Point Response, Week 3 | 67 (27%) | 101 (41%) | 13% (5%, 22%) | 66 (32%) | 106 (51%) | 19% (10%, 28%) |
+| Clinical remission is defined as CDAI score < 150; Clinical response is defined as reduction in CDAI score by at least 100 points or being in clinical remission: |  |  |  |  |  |  |
+| 70 point response is defined as reduction in CDAI score by at least 70 points |  |  |  |  |  |  |
+
+Study CD-3
+
+The maintenance study (CD-3), evaluated 388 patients who achieved clinical response (≥100 point reduction in CDAI score) at Week 8 of induction with STELARA® in studies CD-1 or CD-2.
+Patients were randomized to receive a subcutaneous maintenance regimen of either 90 mg STELARA® every 8 weeks or placebo for 44 weeks (see Table 10).
+
+Table 10: Clinical Response and Remission in CD-3 (Week 44; 52 weeks from initiation of the induction dose)
+
+| N=131Patients who achieved clinical response to STELARA® at the end of the induction study. | N=128 |  |  |
+| --- | --- | --- | --- |
+|  | PlaceboThe placebo group consisted of patients who were in response to STELARA® and were randomized to receive placebo at the start of maintenance therapy. | 90 mg STELARA® every 8 weeks | Treatment difference and 95% CI |
+| Clinical Remission | 47 (36%) | 68 (53%)p < 0.01 | 17% (5%, 29%) |
+| Clinical Response | 58 (44%) | 76 (59%)0.01≤ p < 0.05 | 15% (3%, 27%) |
+| Clinical Remission in patients in remission at the start of maintenance therapyPatients in remission at the end of maintenance therapy who were in remission at the start of maintenance therapy. This does not account for any other time point during maintenance therapy. | 36/79 (46%) | 52/78 (67%) | 21% (6%, 36%) |
+| Clinical remission is defined as CDAI score < 150; Clinical response is defined as reduction in CDAI of at least 100 points or being in clinical remission |  |  |  |
+
+At Week 44, 47% of patients who received STELARA® were corticosteroid-free and in clinical remission, compared to 30% of patients in the placebo group.
+
+At Week 0 of Study CD-3, 34/56 (61%) STELARA® treated patients who previously failed or were intolerant to TNF blocker therapies were in clinical remission and 23/56 (41%) of these patients were in clinical remission at Week 44.
+In the placebo arm, 27/61 (44%) patients were in clinical remission at Week 0 while 16/61 (26%) of these patients were in remission at Week 44.
+
+At Week 0 of Study CD-3, 46/72 (64%) STELARA® treated patients who had previously failed immunomodulator therapy or corticosteroids (but not TNF blockers) were in clinical remission and 45/72 (63%) of these patients were in clinical remission at Week 44.
+In the placebo arm, 50/70 (71%) of these patients were in clinical remission at Week 0 while 31/70 (44%) were in remission at Week 44.
+In the subset of these patients who were also naïve to TNF blockers, 34/52 (65%) of STELARA® treated patients were in clinical remission at Week 44 as compared to 25/51 (49%) in the placebo arm.
+
+Patients who were not in clinical response 8 weeks after STELARA® induction were not included in the primary efficacy analyses for Study CD-3; however, these patients were eligible to receive a 90 mg subcutaneous injection of STELARA® upon entry into Study CD-3.
+Of these patients, 102/219 (47%) achieved clinical response eight weeks later and were followed for the duration of the study.

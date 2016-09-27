@@ -1,21 +1,23 @@
 # 11 DESCRIPTION
 
-STELARA® is a human IgG1κ monoclonal antibody against the p40 subunit of the IL-12 and IL-23 cytokines.
-Using DNA recombinant technology, STELARA® is produced in a well characterized recombinant cell line and is purified using standard bio-processing technology.
+Ustekinumab is a human IgG1κ monoclonal antibody against the p40 subunit of the IL-12 and IL-23 cytokines.
+Using DNA recombinant technology, ustekinumab is produced in a well characterized recombinant cell line and is purified using standard bio-processing technology.
 The manufacturing process contains steps for the clearance of viruses.
-STELARA® is comprised of 1326 amino acids and has an estimated molecular mass that ranges from 148,079 to 149,690 Daltons.
+Ustekinumab is comprised of 1326 amino acids and has an estimated molecular mass that ranges from 148,079 to 149,690 Daltons.
 
-STELARA®, for subcutaneous use, is available as: 45 mg of ustekinumab in 0.5 mL and 90 mg of ustekinumab in 1 mL.
-STELARA® is supplied as a sterile solution in a single-use prefilled syringe with a 27 gauge fixed ½ inch needle, or a single-use 2 mL Type I glass vial with a coated stopper.
-The syringe is fitted with a passive needle guard and a needle cover that is manufactured using a dry natural rubber (a derivative of latex).
+STELARA® (ustekinumab) Injection is a sterile, preservative-free, colorless to slightly yellow solution that may contain a few small translucent or white particles with pH of 5.7– 6.3.
 
-Each 45 mg ustekinumab prefilled syringe also contains: L-histidine and L-histidine monohydrochloride monohydrate (0.5 mg), Polysorbate 80 (0.02 mg), and sucrose (38 mg) to fill to a final volume of 0.5 mL.
+STELARA® for Subcutaneous Use
 
-Each 90 mg ustekinumab prefilled syringe also contains: L-histidine and L-histidine monohydrochloride monohydrate (1 mg), Polysorbate 80 (0.04 mg), and sucrose (76 mg) to fill to a final volume of 1 mL.
+Available as 45 mg of ustekinumab in 0.5 mL and 90 mg of ustekinumab in 1 mL, supplied as a sterile solution in a single-dose prefilled syringe with a 27 gauge fixed ½ inch needle and as 45 mg of ustekinumab in 0.5 mL in a single-dose 2 mL Type I glass vial with a coated stopper.
+The syringe is fitted with a passive needle guard and a needle cover that contains dry natural rubber (a derivative of latex).
 
-Each 45 mg ustekinumab vial also contains: L-histidine and L-histidine monohydrochloride monohydrate (0.5 mg), Polysorbate 80 (0.02 mg), and sucrose (38 mg) to fill to a final volume of 0.5 mL.
+Each 0.5 mL prefilled syringe or vial delivers 45 mg ustekinumab, L-histidine and L-histidine monohydrochloride monohydrate (0.5 mg), Polysorbate 80 (0.02 mg), and sucrose (38 mg).
 
-Each 90 mg ustekinumab vial also contains: L-histidine and L-histidine monohydrochloride monohydrate (1 mg), Polysorbate 80 (0.04 mg), and sucrose (76 mg) to fill to a final volume of 1 mL.
+Each 1 mL prefilled syringe delivers 90 mg ustekinumab, L-histidine and L-histidine monohydrochloride monohydrate (1 mg), Polysorbate 80 (0.04 mg), and sucrose (76 mg).
 
-The STELARA® solution is colorless to slightly yellow in appearance and has a pH of 5.7–6.3.
-STELARA® does not contain preservatives.
+STELARA® for Intravenous Infusion
+
+Available as 130 mg of ustekinumab in 26 mL, supplied as a single-dose 30 mL Type I glass vial with a coated stopper.
+
+Each 26 mL vial delivers 130 mg ustekinumab, EDTA disodium salt dihydrate (0.52 mg), L-histidine (20 mg), L-histidine hydrochloride monohydrate (27 mg), L-methionine (10.4 mg), Polysorbate 80 (10.4 mg) and sucrose (2210 mg).

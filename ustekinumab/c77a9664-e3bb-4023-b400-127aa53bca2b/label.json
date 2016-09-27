@@ -1,10 +1,12 @@
 {
   "application_numbers": [
-    "BLA125261"
+    "BLA125261",
+    "BLA761044"
   ],
   "inn": "ustekinumab",
   "labeler": "Janssen Biotech, Inc.",
   "package_ndcs": [
+    "57894-054-27",
     "57894-060-02",
     "57894-060-03",
     "57894-060-04",
@@ -17,6 +19,11 @@
       "form": "INJECTION, SOLUTION",
       "generic": "ustekinumab",
       "name": "STELARA"
+    },
+    {
+      "form": "SOLUTION",
+      "generic": "ustekinumab",
+      "name": "Stelara"
     }
   ],
   "setid": "c77a9664-e3bb-4023-b400-127aa53bca2b",

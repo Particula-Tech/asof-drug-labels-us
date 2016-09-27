@@ -41,3 +41,21 @@ See package insert for dosing information
 Rx only
 
 ATTENTION: Dispense the enclosed Medication Guide to each patient.
+
+# PRINCIPAL DISPLAY PANEL - 130 mg/26 mL Vial Carton
+
+NDC 57894-054-27
+
+Single-Dose vial Discard unused portion
+
+Stelara® (ustekinumab) Injection
+
+130 mg/26 mL (5 mg/mL)
+
+For Intravenous Infusion Only Must be diluted
+
+ATTENTION: Dispense the enclosed Medication Guide to each patient.
+
+Rx only
+
+janssen

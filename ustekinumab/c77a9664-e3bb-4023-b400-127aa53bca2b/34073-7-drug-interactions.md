@@ -1,15 +1,15 @@
 # 7 DRUG INTERACTIONS
 
-Drug interaction studies have not been conducted with STELARA®.
-
 ## 7.1 Live Vaccines
 
-Live vaccines should not be given concurrently with STELARA® [see Warnings and Precautions (5.7)].
+Avoid use of live vaccines with STELARA® [see Warnings and Precautions (5.7)].
 
 ## 7.2 Concomitant Therapies
 
-In psoriasis studies the safety of STELARA® in combination with immunosuppressive agents or phototherapy has not been evaluated.
-In psoriatic arthritis studies, concomitant MTX use did not appear to influence the safety or efficacy of STELARA® [see Warnings and Precautions (5.8)].
+In psoriasis studies the safety of STELARA® in combination with immunosuppressive agents or phototherapy has not been evaluated [see Warnings and Precautions (5.8)].
+In psoriatic arthritis studies, concomitant methotrexate use did not appear to influence the safety or efficacy of STELARA®.
+In Crohn's disease studies, immunomodulators (6-mercaptopurine, azathioprine, methotrexate) were used concomitantly in approximately 30% of patients and corticosteroids were used concomitantly in approximately 40% of patients.
+Use of these concomitant therapies did not appear to influence the overall safety or efficacy of STELARA®.
 
 ## 7.3 CYP450 Substrates
 
