@@ -22,6 +22,8 @@ It is not known how either bleeding risk or thrombotic risk track with IPA, for 
 
 Figure 3 - Mean inhibition of platelet aggregation (±SE) following single oral doses of placebo, 180 mg ticagrelor or 600 mg clopidogrel
 
+Figure 4 - Mean inhibition of platelet aggregation (IPA) following 6 weeks on placebo, ticagrelor 90 mg twice daily, or clopidogrel 75 mg daily
+
 Transitioning from clopidogrel to BRILINTA resulted in an absolute IPA increase of 26.4% and from BRILINTA to clopidogrel resulted in an absolute IPA decrease of 24.5%.
 Patients can be transitioned from clopidogrel to BRILINTA without interruption of antiplatelet effect [see Dosage and Administration (2)].
 

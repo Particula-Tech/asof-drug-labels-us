@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Medication Guide)
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Advise patients daily doses of aspirin should not exceed 100 mg and to avoid taking any other medications that contain aspirin.
 
@@ -16,6 +16,6 @@ Advise patients to inform physicians and dentists that they are taking BRILINTA 
 
 BRILINTA® is a trademark of the AstraZeneca group of companies.
 
-Distributed by: AstraZeneca LP, Wilmington, DE 19850
+Distributed by: AstraZeneca Pharmaceuticals LP, Wilmington, DE 19850
 
-© AstraZeneca 2011, 2013, 2015
+© AstraZeneca 2016

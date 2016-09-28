@@ -8,11 +8,9 @@ Bottles of 60 – NDC 0186-0777-60
 
 100 count Hospital Unit Dose – NDC 0186-0777-39
 
-BRILINTA (ticagrelor) 60 mg is supplied as a round, biconvex, pink, film-coated tablet with a “60” above “T” on one side;
+BRILINTA (ticagrelor) 60 mg is supplied as a round, biconvex, pink, film-coated tablet with a “60” above “T” on one side:
 
 Bottles of 60 – NDC 0186-0776-60
-
-Blister of 14 – NDC 0186-0776-94
 
 Storage and Handling
 

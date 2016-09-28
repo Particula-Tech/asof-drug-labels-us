@@ -7,8 +7,6 @@ Drugs that inhibit platelet function including BRILINTA increase the risk of ble
 If possible, manage bleeding without discontinuing BRILINTA.
 Stopping BRILINTA increases the risk of subsequent cardiovascular events [see Warnings and Precautions (5.4) and Adverse Reactions (6.1)].
 
-Platelet transfusion did not reverse the antiplatelet effect of BRILINTA in healthy volunteers and is unlikely to be of clinical benefit in patients with bleeding.
-
 ## 5.2 Concomitant Aspirin Maintenance Dose
 
 In PLATO the use of BRILINTA with maintenance doses of aspirin above 100 mg decreased the effectiveness of BRILINTA.
@@ -32,8 +30,13 @@ If BRILINTA must be temporarily discontinued (e.g., to treat bleeding or for sig
 When possible, interrupt therapy with BRILINTA for five days prior to surgery that has a major risk of bleeding.
 Resume BRILINTA as soon as hemostasis is achieved.
 
-## 5.5 Severe Hepatic Impairment
+## 5.5 Bradyarrhythmias
+
+Due to observations of mostly asymptomatic ventricular pauses in an earlier clinical study, patients with an increased risk of bradycardic events (e.g., patients without a pacemaker who have sick sinus syndrome, 2nd or 3rd degree AV block or bradycardic-related syncope) were excluded from the main studies evaluating the safety and efficacy of BRILINTA.
+Therefore, due to the limited clinical experience in these patients, caution is advised [see Adverse Reactions (6.1)].
+
+## 5.6 Severe Hepatic Impairment
 
 Avoid use of BRILINTA in patients with severe hepatic impairment.
 Severe hepatic impairment is likely to increase serum concentration of ticagrelor.
-There are no studies of BRILINTA patients with severe hepatic impairment [see Clinical Pharmacology (12.3)].
+There are no studies of BRILINTA patients with severe hepatic impairment [seeClinical Pharmacology (12.3)].
