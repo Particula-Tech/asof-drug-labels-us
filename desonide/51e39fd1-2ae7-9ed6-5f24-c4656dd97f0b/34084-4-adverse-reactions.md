@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-In controlled clinical trials, the total incidence of adverse reactions associated with the use of Desonide Cream 0.05% was approximately 1%.
+In controlled clinical trials, the total incidence of adverse reactions associated with the use of Desonide Cream, 0.05% was approximately 1%.
 These adverse reactions were pruritus, pain, folliculitis, rash, peripheral edema, pustular rash, sweating, erythema, irritation, and burning.
 Laboratory abnormalities were found in 3% of the patients.
 These were hyperglycemia (2%) and liver function abnormality (1%).
