@@ -12,7 +12,8 @@ Table 6: Drugs That Are Contraindicated With PREZISTA/ritonavir
 | Antiarrhythmic | Dronedarone | Potential for serious and/or life-threatening reactions such as cardiac arrhythmias. |
 | Anti-gout | Colchicine | Potential for serious and/or life-threatening reactions in patients with renal and/or hepatic impairment. |
 | Anti-anginal | Ranolazine | Potential for serious and/or life-threatening reactions. |
-| Antipsychotic/Neuroleptic | Pimozide | Potential for serious and/or life-threatening reactions such as cardiac arrhythmias. |
+| Antipsychotic | Lurasidone | Potential for serious and/or life-threatening reactions. |
+|  | Pimozide | Potential for serious and/or life-threatening reactions such as cardiac arrhythmias. |
 | Ergot Derivative | Dihydroergotamine, Ergotamine, Methylergonovine | Potential for serious and/or life-threatening events such as acute ergot toxicity characterized by peripheral vasospasm and ischemia of the extremities and other tissues. |
 | GI Motility Agent | Cisapride | Potential for serious and/or life-threatening reactions such as cardiac arrhythmias. |
 | Sedative/hypnotic | Orally administered Midazolam, Triazolam | Triazolam and orally administered midazolam are extensively metabolized by CYP3A. Co-administration of triazolam or orally administered midazolam with PREZISTA/ritonavir may cause large increases in the concentrations of these benzodiazepines. Potential for serious and/or life-threatening events such as prolonged or increased sedation or respiratory depression. |
