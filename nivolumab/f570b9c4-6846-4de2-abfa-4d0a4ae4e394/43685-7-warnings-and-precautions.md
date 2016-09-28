@@ -45,8 +45,8 @@ One patient with Grade 2 pneumonitis had OPDIVO temporarily withheld, received l
 ### RCC
 
 In Trial 6, pneumonitis, including interstitial lung disease, occurred in 5% (21/406) of patients receiving OPDIVO and 18% (73/397) patients receiving everolimus.
-Immune-mediated pneumonitis occurred in 4.4% (18/406) of patients receiving OPDIVO (one with Grade 4, four with Grade 3, twelve with Grade 2, and one with Grade 1).
-In two of the patients, pneumonitis occurred after they had received OPDIVO followed by everolimus.
+Immune-mediated pneumonitis occurred in 4.4% (18/406) of patients receiving OPDIVO (one with Grade 4, four with Grade 3, 12 with Grade 2, and one with Grade 1).
+In two patients, pneumonitis occurred after they had received OPDIVO followed by everolimus.
 One patient with ongoing pneumonitis died due to disease progression.
 The median time to onset was 3.82 months (range: 2 days to 22.3 months).
 The median duration was 1.3 months (range: 0.3 to 9.8 months).
@@ -100,7 +100,7 @@ Immune-mediated colitis led to permanent discontinuation of OPDIVO and of ipilim
 One hundred three patients received high-dose corticosteroids (at least 40 mg prednisone equivalents per day) for a median duration of 1.1 month (range: 1 day to 11.7 months).
 Twenty-five patients required addition of infliximab to high-dose corticosteroids.
 Complete resolution occurred in 80 patients.
-Among the 29 patients who resumed OPDIVO with ipilimumab after resolution, eight had recurrence of immune-mediated colitis.
+Among 29 patients who resumed OPDIVO with ipilimumab after resolution, eight had recurrence of immune-mediated colitis.
 In Trial 4, there were three patients who died without resolution of immune-mediated colitis.
 
 ### NSCLC
@@ -338,7 +338,7 @@ The time to onset ranged from 1 to 2.5 months.
 Type 1 diabetes mellitus can occur with OPDIVO treatment.
 Monitor for hyperglycemia.
 Administer insulin for type 1 diabetes and withhold OPDIVO in cases of severe (Grade 3) hyperglycemia until metabolic control is achieved.
-Permanently discontinue OPDIVO for life-threatening (Grade 4) hyperglycemia.
+Permanently discontinue OPDIVO for life-threatening (Grade 4) hyperglycemia [see Dosage and Administration (2.5)].
 
 #### Melanoma
 
@@ -504,7 +504,7 @@ Across clinical trials of OPDIVO as a single agent administered at doses of 3 mg
 
 Severe infusion reactions have been reported in less than 1.0% of patients in clinical trials of OPDIVO.
 Discontinue OPDIVO in patients with severe or life-threatening infusion reactions.
-Interrupt or slow the rate of infusion in patients with mild or moderate infusion reactions.
+Interrupt or slow the rate of infusion in patients with mild or moderate infusion reactions [see Dosage and Administration (2.5)].
 
 ### Melanoma
 

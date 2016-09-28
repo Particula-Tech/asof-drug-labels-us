@@ -34,7 +34,7 @@ In this ongoing trial, 24% of patients received OPDIVO for greater than 6 months
 In Trial 1, patients had documented disease progression following treatment with ipilimumab and, if BRAF V600 mutation positive, a BRAF inhibitor.
 The trial excluded patients with autoimmune disease, prior ipilimumab-related Grade 4 adverse reactions (except for endocrinopathies) or Grade 3 ipilimumab-related adverse reactions that had not resolved or were inadequately controlled within 12 weeks of the initiating event, patients with a condition requiring chronic systemic treatment with corticosteroids (>10 mg daily prednisone equivalent) or other immunosuppressive medications, a positive test for hepatitis B or C, and a history of HIV.
 
-The study population characteristics in the OPDIVO group and the chemotherapy group were similar: 66% male, median age 59.5 years, 98% white, baseline Eastern Cooperative Oncology Group (ECOG) performance status 0 (59%) or 1 (41%), 74% with M1c stage disease, 73% with cutaneous melanoma, 11% with mucosal melanoma, 73% received two or more prior therapies for advanced or metastatic disease, and 18% had brain metastasis.
+The trial population characteristics in the OPDIVO group and the chemotherapy group were similar: 66% male, median age 59.5 years, 98% white, baseline Eastern Cooperative Oncology Group (ECOG) performance status 0 (59%) or 1 (41%), 74% with M1c stage disease, 73% with cutaneous melanoma, 11% with mucosal melanoma, 73% received two or more prior therapies for advanced or metastatic disease, and 18% had brain metastasis.
 There were more patients in the OPDIVO group with elevated LDH at baseline (51% vs. 38%).
 
 OPDIVO was discontinued for adverse reactions in 9% of patients.
@@ -46,7 +46,7 @@ The most frequent Grade 3 and 4 adverse reactions reported in 2% to less than 5%
 Table 2 summarizes the adverse reactions that occurred in at least 10% of OPDIVO-treated patients in Trial 1.
 The most common adverse reaction (reported in at least 20% of patients) was rash.
 
-Table 2: Selected Adverse Reactions Occurring in ≥10% of OPDIVO-Treated Patients and at a Higher Incidence than in the Chemotherapy Arm (Between Arm Difference of ≥5% [All Grades] or ≥2% [Grades 3-4]) (Trial 1)
+Table 2: Adverse Reactions Occurring in ≥10% of OPDIVO-Treated Patients and at a Higher Incidence than in the Chemotherapy Arm (Between Arm Difference of ≥5% [All Grades] or ≥2% [Grades 3-4]) (Trial 1)
 
 | Percentage (%) of Patients |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -57,11 +57,11 @@ Table 2: Selected Adverse Reactions Occurring in ≥10% of OPDIVO-Treated Patien
 | Pruritus | 19 | 0 | 3.9 | 0 |
 | Respiratory, Thoracic, and Mediastinal Disorders |  |  |  |  |
 | Cough | 17 | 0 | 6 | 0 |
-| Infections and Infestations |  |  |  |  |
+| Infections |  |  |  |  |
 | Upper respiratory tract infectionb | 11 | 0 | 2.0 | 0 |
 | General Disorders and Administration Site Conditions |  |  |  |  |
 | Peripheral edema | 10 | 0 | 5 | 0 |
-| Toxicity was graded per NCI CTCAE v4. a Rash is a composite term which includes maculopapular rash, rash erythematous, rash pruritic, rash follicular, rash macular, rash papular, rash pustular, rash vesicular, and dermatitis acneiform. b Upper respiratory tract infection is a composite term which includes rhinitis, pharyngitis, and nasopharyngitis. |  |  |  |  |
+| Toxicity was graded per NCI CTCAE v4. a Rash is a composite term which includes maculopapular rash, erythematous rash, pruritic rash, follicular rash, macular rash, papular rash, pustular rash, vesicular rash, and acneiform dermatitis. b Upper respiratory tract infection is a composite term which includes rhinitis, pharyngitis, and nasopharyngitis. |  |  |  |  |
 
 Other clinically important adverse reactions in less than 10% of patients treated with OPDIVO in Trial 1 were:
 
@@ -77,9 +77,9 @@ Nervous System Disorders: dizziness, peripheral and sensory neuropathy
 
 Skin and Subcutaneous Tissue Disorders: exfoliative dermatitis, erythema multiforme, vitiligo, psoriasis
 
-Table 3: Selected Laboratory Abnormalities Worsening from Baseline Occurring in ≥10% of OPDIVO-Treated Patients and at a Higher Incidence than in the Chemotherapy Arm (Between Arm Difference of ≥5% [All Grades] or ≥2% [Grades 3-4]) (Trial 1)
+Table 3: Laboratory Abnormalities Worsening from Baseline Occurring in ≥10% of OPDIVO-Treated Patients and at a Higher Incidence than in the Chemotherapy Arm (Between Arm Difference of ≥5% [All Grades] or ≥2% [Grades 3-4]) (Trial 1)
 
-| Test | Percentage of Patients with Worsening Laboratory Test from Baselinea |  |  |  |  |  |  |  |  |
+| Laboratory Abnormality | Percentage of Patients with Worsening Laboratory Test from Baselinea |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | OPDIVO |  | Chemotherapy |  |  |  |  |  |  |  |
 | All Grades | Grades 3-4 | All Grades | Grades 3-4 |  |  |  |  |  |  |
@@ -111,7 +111,7 @@ The most frequent Grade 3 and 4 adverse reactions reported in at least 2% of pat
 Table 4 summarizes selected adverse reactions that occurred in at least 10% of OPDIVO-treated patients.
 The most common adverse reactions (reported in at least 20% of patients and at a higher incidence than in the dacarbazine arm) were fatigue, musculoskeletal pain, rash, and pruritus.
 
-Table 4: Selected Adverse Reactions Occurring in ≥10% of OPDIVO-Treated Patients and at a Higher Incidence than in the Dacarbazine Arm (Between Arm Difference of ≥5% [All Grades] or ≥2% [Grades 3-4]) (Trial 5)
+Table 4: Adverse Reactions Occurring in ≥10% of OPDIVO-Treated Patients and at a Higher Incidence than in the Dacarbazine Arm (Between Arm Difference of ≥5% [All Grades] or ≥2% [Grades 3-4]) (Trial 5)
 
 | Percentage (%) of Patients |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -127,17 +127,17 @@ Table 4: Selected Adverse Reactions Occurring in ≥10% of OPDIVO-Treated Patien
 | Pruritus | 23 | 0.5 | 12 | 0 |
 | Erythema | 10 | 0 | 2.9 | 0 |
 | Vitiligo | 11 | 0 | 0.5 | 0 |
-| Infections and Infestations |  |  |  |  |
+| Infections |  |  |  |  |
 | Upper respiratory tract infectiond | 17 | 0 | 6 | 0 |
-| Toxicity was graded per NCI CTCAE v4. a Includes periorbital edema, face edema, generalized edema, gravitational edema, localized edema, peripheral edema, pulmonary edema, and lymphedema. b Includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, neck pain, pain in extremity, pain in jaw, and spinal pain. c Includes maculopapular rash, rash erythematous, rash pruritic, rash follicular, rash macular, rash papular, rash pustular, rash vesicular, dermatitis, dermatitis allergic, dermatitis exfoliative, dermatitis acneiform, drug eruption, and skin reaction. d Includes rhinitis, viral rhinitis, pharyngitis, and nasopharyngitis. |  |  |  |  |
+| Toxicity was graded per NCI CTCAE v4. a Includes periorbital edema, face edema, generalized edema, gravitational edema, localized edema, peripheral edema, pulmonary edema, and lymphedema. b Includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, neck pain, pain in extremity, pain in jaw, and spinal pain. c Includes maculopapular rash, erythematous rash, pruritic rash, follicular rash, macular rash, papular rash, pustular rash, vesicular rash, dermatitis, allergic dermatitis, exfoliative dermatitis, acneiform dermatitis, drug eruption, and skin reaction. d Includes rhinitis, viral rhinitis, pharyngitis, and nasopharyngitis. |  |  |  |  |
 
 Other clinically important adverse reactions in less than 10% of patients treated with OPDIVO in Trial 5 were:
 
 Nervous System Disorders: peripheral neuropathy
 
-Table 5: Selected Laboratory Abnormalities Worsening from Baseline Occurring in ≥10% of OPDIVO-Treated Patients and at a Higher Incidence than in the Dacarbazine Arm (Between Arm Difference of ≥5% [All Grades] or ≥2% [Grades 3-4]) (Trial 5)
+Table 5: Laboratory Abnormalities Worsening from Baseline Occurring in ≥10% of OPDIVO-Treated Patients and at a Higher Incidence than in the Dacarbazine Arm (Between Arm Difference of ≥5% [All Grades] or ≥2% [Grades 3-4]) (Trial 5)
 
-| Test | Percentage of Patients with Worsening Laboratory Test from Baselinea |  |  |  |  |  |  |  |  |
+| Laboratory Abnormality | Percentage of Patients with Worsening Laboratory Test from Baselinea |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | OPDIVO |  | Dacarbazine |  |  |  |  |  |  |  |
 | All Grades | Grades 3-4 | All Grades | Grades 3-4 |  |  |  |  |  |  |
@@ -171,11 +171,11 @@ The most common (≥20%) adverse reactions in the OPDIVO plus ipilimumab arm wer
 The most common (≥20%) adverse reactions in the OPDIVO arm were fatigue, rash, diarrhea, and nausea.
 Table 6 summarizes the incidence of adverse reactions occurring in at least 10% of patients in either OPDIVO-containing arm in Trial 7.
 
-Table 6: Selected Adverse Reactions Occurring in ≥10% of Patients on the OPDIVO plus Ipilimumab Arm or the OPDIVO Arm and at a Higher Incidence than in the Ipilimumab Arm (Between Arm Difference of ≥5% [All Grades] or ≥2% [Grades 3-4]) (Trial 7)
+Table 6: Adverse Reactions Occurring in ≥10% of Patients on the OPDIVO plus Ipilimumab Arm or the OPDIVO Arm and at a Higher Incidence than in the Ipilimumab Arm (Between Arm Difference of ≥5% [All Grades] or ≥2% [Grades 3-4]) (Trial 7)
 
 | All Grades | Grades 3-4 | All Grades | Grades 3-4 | All Grades | Grades 3-4 |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| System Organ Class/ Preferred Term | Percentage (%) of Patients |  |  |  |  |  |
+| Adverse Reaction | Percentage (%) of Patients |  |  |  |  |  |
 | OPDIVO plus Ipilimumab (n=313) |  | OPDIVO (n=313) |  | Ipilimumab (n=311) |  |  |
 | General Disorders and Administration Site Conditions |  |  |  |  |  |  |
 | Fatiguea | 59 | 6 | 53 | 1.9 | 50 | 3.9 |
@@ -188,7 +188,7 @@ Table 6: Selected Adverse Reactions Occurring in ≥10% of Patients on the OPDIV
 | Vomiting | 28 | 3.5 | 17 | 1.0 | 16 | 1.6 |
 | Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |  |  |
 | Dyspnea | 20 | 2.2 | 12 | 1.3 | 13 | 0.6 |
-| Toxicity was graded per NCI CTCAE v4. a Fatigue is a composite term which includes asthenia and fatigue. b Rash is a composite term which includes rash pustular, dermatitis, dermatitis acneiform, dermatitis allergic, dermatitis atopic, dermatitis bullous, dermatitis exfoliative, dermatitis psoriasiform, drug eruption, erythema, exfoliative rash, rash erythematous, rash generalized, rash macular, rash maculopapular, rash morbilliform, rash papular, rash papulosquamous, rash pruritic, and seborrheic dermatitis. |  |  |  |  |  |  |
+| Toxicity was graded per NCI CTCAE v4. a Fatigue is a composite term which includes asthenia and fatigue. b Rash is a composite term which includes pustular rash, dermatitis, acneiform dermatitis, allergic dermatitis, atopic dermatitis, bullous dermatitis, exfoliative dermatitis, psoriasiform dermatitis, drug eruption, erythema, exfoliative rash, erythematous rash, generalized rash, macular rash, maculopapular rash, morbilliform rash, papular rash,papulosquamous rash, pruritic rash, and seborrheic dermatitis. |  |  |  |  |  |  |
 
 Other clinically important adverse reactions in less than 10% of patients treated with either OPDIVO with ipilimumab or single-agent OPDIVO in Trial 7 were:
 
@@ -200,11 +200,11 @@ Musculoskeletal and Connective Tissue Disorders: myopathy, Sjogren’s syndrome,
 
 Nervous System Disorders: neuritis, peroneal nerve palsy
 
-Table 7: Selected Laboratory Abnormalities Worsening from Baseline Occurring in ≥20% of Patients Treated with OPDIVO with Ipilimumab or Single-Agent OPDIVO and at a Higher Incidence than in the Ipilimumab Arm (Between Arm Difference of ≥5% [All Grades] or ≥2% [Grades 3-4]) (Trial 7)
+Table 7: Laboratory Abnormalities Worsening from Baseline Occurring in ≥20% of Patients Treated with OPDIVO with Ipilimumab or Single-Agent OPDIVO and at a Higher Incidence than in the Ipilimumab Arm (Between Arm Difference of ≥5% [All Grades] or ≥2% [Grades 3-4]) (Trial 7)
 
 | Any Grade | Grade 3-4 | Any Grade | Grade 3-4 | Any Grade | Grade 3-4 |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Test | Percentage (%) of Patientsa |  |  |  |  |  |  |  |  |  |  |  |  |
+| Laboratory Abnormality | Percentage (%) of Patientsa |  |  |  |  |  |  |  |  |  |  |  |  |
 | OPDIVO plus Ipilimumab |  | OPDIVO |  | Ipilimumab |  |  |  |  |  |  |  |  |  |
 | Chemistry |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Increased ALT | 53 | 15 | 23 | 3.0 | 28 | 2.7 |  |  |  |  |  |  |  |
@@ -240,7 +240,7 @@ In the OPDIVO arm, seven deaths were due to infection including one case of Pneu
 The most common adverse reactions (reported in at least 20% of patients) were fatigue, musculoskeletal pain, cough, decreased appetite, and constipation.
 Table 8 summarizes selected adverse reactions occurring more frequently in at least 10% of OPDIVO-treated patients.
 
-Table 8: Selected Adverse Reactions Occurring in ≥10% of OPDIVO-Treated Patients and at a Higher Incidence than Docetaxel (Between Arm Difference of ≥5% [All Grades] or ≥2% [Grades 3-4]) (Trial 3)
+Table 8: Adverse Reactions Occurring in ≥10% of OPDIVO-Treated Patients and at a Higher Incidence than Docetaxel (Between Arm Difference of ≥5% [All Grades] or ≥2% [Grades 3-4]) (Trial 3)
 
 | Percentage (%) of Patients |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -258,9 +258,9 @@ Table 8: Selected Adverse Reactions Occurring in ≥10% of OPDIVO-Treated Patien
 
 Other clinically important adverse reactions observed in patients treated with OPDIVO and which occurred at a similar incidence in docetaxel-treated patients and not listed elsewhere in section 6 include: fatigue/asthenia (49% Grade 1-4, 6% Grade 3-4), musculoskeletal pain (36%), pleural effusion (5.6%), pulmonary embolism (4.2%), urticaria (1.4%), and polymyalgia rheumatica (0.3%).
 
-Table 9: Selected Laboratory Abnormalities Worsening from Baseline Occurring in ≥10% of OPDIVO-Treated Patients for all NCI CTCAE Grades and at a Higher Incidence than Docetaxel (Between Arm Difference of ≥5% [All Grades] or ≥2% [Grades 3-4]) (Trial 3)
+Table 9: Laboratory Abnormalities Worsening from Baseline Occurring in ≥10% of OPDIVO-Treated Patients for all NCI CTCAE Grades and at a Higher Incidence than Docetaxel (Between Arm Difference of ≥5% [All Grades] or ≥2% [Grades 3-4]) (Trial 3)
 
-| Test | Percentage of Patients with Worsening Laboratory Test from Baselinea |  |  |  |  |  |  |  |  |
+| Laboratory Abnormality | Percentage of Patients with Worsening Laboratory Test from Baselinea |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | OPDIVO |  | Docetaxel |  |  |  |  |  |  |  |
 | All Grades | Grades 3-4 | All Grades | Grades 3-4 |  |  |  |  |  |  |
@@ -294,7 +294,7 @@ Table 10: Grade 1-4 Adverse Reactions in >15% of Patients Receiving OPDIVO (Tria
 | --- | --- | --- | --- | --- |
 | Percentage (%) of Patients |  |  |  |  |
 | Grades 1-4 | Grades 3-4 | Grades 1-4 | Grades 3-4 |  |
-| Any Adverse Reactions | 98 | 56 | 96 | 62 |
+| Adverse Reaction | 98 | 56 | 96 | 62 |
 | General Disorders and Administration Site Conditions |  |  |  |  |
 | Asthenic conditionsa | 56 | 6 | 57 | 7 |
 | Pyrexia | 17 | 0.7 | 20 | 0.8 |
@@ -315,7 +315,7 @@ Table 10: Grade 1-4 Adverse Reactions in >15% of Patients Receiving OPDIVO (Tria
 | Musculoskeletal and Connective Tissue Disorders |  |  |  |  |
 | Arthralgia | 20 | 1.0 | 14 | 0.5 |
 | Back pain | 21 | 3.4 | 16 | 2.8 |
-| Toxicity was graded per NCI CTCAE v4. a Asthenic conditions covering PTs asthenia, decreased activity, fatigue, and malaise. b Includes nasopharyngitis, pharyngitis, rhinitis, and viral URI. c Includes colitis, enterocolitis, and gastroenteritis. d Includes dermatitis, dermatitis acneiform, rash erythematous, rash generalized, rash macular, rash maculopapular, rash papular, rash pruritic, erythema multiforme, and erythema. |  |  |  |  |
+| Toxicity was graded per NCI CTCAE v4. a Asthenic conditions covering PTs asthenia, decreased activity, fatigue, and malaise. b Includes nasopharyngitis, pharyngitis, rhinitis, and viral URI. c Includes colitis, enterocolitis, and gastroenteritis. d Includes dermatitis, acneiform dermatitis, erythematous rash, generalized, macular, maculopapular, papular, pruritic rash, erythema multiforme, and erythema. |  |  |  |  |
 
 Other clinically important adverse reactions in Trial 6 were:
 
@@ -336,7 +336,7 @@ Table 11 summarizes the laboratory abnormalities that occurred in greater than 1
 
 Table 11: Grade 1-4 Laboratory Values Worsening from Baseline Occurring in >15% of Patients on OPDIVO (Trial 6)
 
-| Test | Percentage of Patients with Worsening Laboratory Test from Baselinea |  |  |  |  |  |  |  |  |
+| Laboratory Abnormality | Percentage of Patients with Worsening Laboratory Test from Baselinea |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | OPDIVO |  | Everolimus |  |  |  |  |  |  |  |
 | Grades 1-4 | Grades 3-4 | Grades 1-4 | Grades 3-4 |  |  |  |  |  |  |
@@ -382,7 +382,7 @@ Serious adverse reactions occurred in 27% of these patients.
 Table 12 summarizes both the adverse reactions that occurred in at least 10% of patients in the safety population (n=263) and the efficacy population (n=95).
 There is a greater incidence of adverse reactions in the subset of patients evaluated for efficacy; these patients received a median of 17 doses of OPDIVO and a median of 5 prior systemic regimens [see Clinical Studies (14.4)].
 
-Table 12: Selected Non-Hematologic Adverse Reactions Occurring in ≥10% of Patients with cHL (Trials 8 and 9)
+Table 12: Non-Hematologic Adverse Reactions Occurring in ≥10% of Patients with cHL (Trials 8 and 9)
 
 |  | OPDIVO cHL Safety Population (n=263) |  | OPDIVO cHL Efficacy Population (n=95) |  |
 | --- | --- | --- | --- | --- |
@@ -397,7 +397,7 @@ Table 12: Selected Non-Hematologic Adverse Reactions Occurring in ≥10% of Pati
 | Vomiting | 15 | 0.8 | 16 | 1.1 |
 | Abdominal painc | 11 | 0.8 | 13 | 2.1 |
 | Constipation | 9 | 0.4 | 14 | 0 |
-| Infections and Infestations |  |  |  |  |
+| Infections |  |  |  |  |
 | Upper respiratory tract infectiond | 28 | 0.4 | 48 | 1.1 |
 | Pneumonia/bronchopneumoniae | 9 | 3.0 | 19 | 5.3 |
 | Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |
@@ -429,11 +429,11 @@ All events were Grade 1 or 2, except for 1 Grade 3 event (0.4%).
 
 Complications of allogeneic HSCT after OPDIVO: [see Warnings and Precautions (5.10)].
 
-Table 13: Selected Laboratory Abnormalities Worsening from Baseline Occurring in ≥10% of OPDIVO-Treated cHL Patients (Trials 8 and 9)
+Table 13: Laboratory Abnormalities Worsening from Baseline Occurring in ≥10% of OPDIVO-Treated cHL Patients (Trials 8 and 9)
 
 |  | OPDIVO cHL Safety Populationa |  | OPDIVO cHL Efficacy Populationb |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Test | Percentage (%) of Patientsc |  |  |  |  |  |  |  |  |
+| Laboratory Abnormality | Percentage (%) of Patientsc |  |  |  |  |  |  |  |  |
 | All Grades | Grades 3-4 | All Grades | Grades 3-4 |  |  |  |  |  |  |
 | Hematology |  |  |  |  |  |  |  |  |  |
 | Neutropenia | 29 | 3.6 | 37 | 6 |  |  |  |  |  |

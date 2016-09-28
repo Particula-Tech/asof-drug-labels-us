@@ -2,19 +2,19 @@
 
 ## 2.1 Recommended Dosage for Melanoma
 
-The recommended dose of OPDIVO as a single agent is 3 mg/kg administered as an intravenous infusion over 60 minutes every 2 weeks until disease progression or unacceptable toxicity.
+The recommended dose of OPDIVO as a single agent is 240 mg administered as an intravenous infusion over 60 minutes every 2 weeks until disease progression or unacceptable toxicity.
 
 The recommended dose of OPDIVO is 1 mg/kg administered as an intravenous infusion over 60 minutes, followed by ipilimumab on the same day, every 3 weeks for 4 doses [see Clinical Studies (14.1)].
-The recommended subsequent dose of OPDIVO, as a single agent, is 3 mg/kg as an intravenous infusion over 60 minutes every 2 weeks until disease progression or unacceptable toxicity.
+The recommended subsequent dose of OPDIVO, as a single agent, is 240 mg as an intravenous infusion over 60 minutes every 2 weeks until disease progression or unacceptable toxicity.
 Review the Full Prescribing Information for ipilimumab prior to initiation.
 
 ## 2.2 Recommended Dosage for NSCLC
 
-The recommended dose of OPDIVO is 3 mg/kg administered as an intravenous infusion over 60 minutes every 2 weeks until disease progression or unacceptable toxicity.
+The recommended dose of OPDIVO is 240 mg administered as an intravenous infusion over 60 minutes every 2 weeks until disease progression or unacceptable toxicity.
 
 ## 2.3 Recommended Dosage for RCC
 
-The recommended dose of OPDIVO is 3 mg/kg administered as an intravenous infusion over 60 minutes every 2 weeks until disease progression or unacceptable toxicity.
+The recommended dose of OPDIVO is 240 mg administered as an intravenous infusion over 60 minutes every 2 weeks until disease progression or unacceptable toxicity.
 
 ## 2.4 Recommended Dosage for cHL
 

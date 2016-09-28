@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-OPDIVO® (op-DEE-voh) (nivolumab) injection
+OPDIVO® (op-DEE-voh) (nivolumab) Injection
 
 | Read this Medication Guide before you start receiving OPDIVO and before each infusion. There may be new information. If your healthcare provider prescribes OPDIVO in combination with ipilimumab (YERVOY®), also read the Medication Guide that comes with ipilimumab. This Medication Guide does not take the place of talking with your healthcare provider about your medical condition or your treatment. |  |  |
 | --- | --- | --- |
@@ -40,6 +40,6 @@ OPDIVO® (op-DEE-voh) (nivolumab) injection
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-1363787A1
+1363787A2
 
-Revised: May 2016
+Revised: September 2016

@@ -4,7 +4,7 @@
 
 ### Risk Summary
 
-Based on its mechanism of action [see Clinical Pharmacology (12.1)] and data from animal studies, OPDIVO can cause fetal harm when administered to a pregnant woman.
+Based on its mechanism of action and data from animal studies, OPDIVO can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1)].
 In animal reproduction studies, administration of nivolumab to cynomolgus monkeys from the onset of organogenesis through delivery resulted in increased abortion and premature infant death [see Data].
 Human IgG4 is known to cross the placental barrier and nivolumab is an immunoglobulin G4 (IgG4); therefore, nivolumab has the potential to be transmitted from the mother to the developing fetus.
 The effects of OPDIVO are likely to be greater during the second and third trimesters of pregnancy.
