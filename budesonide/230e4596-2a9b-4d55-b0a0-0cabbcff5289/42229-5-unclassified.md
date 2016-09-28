@@ -21,16 +21,16 @@ What should I tell my healthcare provider before using UCERIS rectal foam?
 
 Before you use UCERIS rectal foam, tell your healthcare provider if you:
 
-- •have liver problems
-- •are planning to have surgery
-- •have chicken pox or measles or have recently been near anyone with chicken pox or measles
-- •have an infection
-- •have or had a family history of diabetes, cataracts or glaucoma
-- •have or had tuberculosis
-- •have high blood pressure (hypertension)
-- •have decreased bone mineral density (osteoporosis)
-- •stomach ulcers
-- •any other medical condition
+- •have liver problems.
+- •are planning to have surgery.
+- •have chicken pox or measles or have recently been near anyone with chicken pox or measles.
+- •have an infection.
+- •have or had a family history of diabetes, cataracts or glaucoma.
+- •have or had tuberculosis.
+- •have high blood pressure (hypertension).
+- •have decreased bone mineral density (osteoporosis).
+- •have stomach ulcers.
+- •have any other medical condition.
 - •are pregnant or plan to become pregnant.
   It is not known if UCERIS rectal foam will harm your unborn baby.
 - •are breastfeeding or plan to breastfeed.
@@ -120,7 +120,7 @@ You may also report side effects to FDA at 1-800-FDA-1088.
 
 How should I store UCERIS rectal foam?
 
-- •Store UCERIS rectal foam at room temperature, between 68°F to 77°F (20°C to 25°C).
+- •Store UCERIS rectal foam at room temperature, between 68° to 77°F (20° to 25°C).
 - •Do not store the UCERIS rectal foam container near heat or store at temperatures above 120°F (49°C).
 - •Do not puncture or burn the UCERIS rectal foam canister.
 - •Do not refrigerate.
@@ -150,16 +150,14 @@ Propellant: n-butane, isobutane, and propane
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Distributed by: Salix Pharmaceuticals, a division of
-
-Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+Manufactured for: Salix Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
 Product marketed and distributed under license from Dr. Falk Pharma.
 
-UCERIS is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+Uceris is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
 © Valeant Pharmaceuticals North America LLC
 
-9499000
+9499001
 
-Revised: 11/2015
+Revised: 09/2016

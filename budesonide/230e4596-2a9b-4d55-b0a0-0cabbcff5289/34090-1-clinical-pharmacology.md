@@ -8,18 +8,26 @@ Budesonide has glucocorticosteroid (GCS) activity.
 
 Treatment with glucocorticosteroids, including UCERIS rectal foam, is associated with a suppression of endogenous cortisol concentrations and an impairment of the hypothalamic-pituitary-adrenal (HPA) axis function.
 These effects were measured by determination of plasma cortisol concentrations and responses to adrenocorticotropin challenge (i.e., ACTH stimulation test) in 2 placebo-controlled, 6-week trials in patients with active disease [see Clinical Studies (14)].
-These trials enrolled subjects with post ACTH stimulation cortisol level of >18 mcg/dL at baseline.
+These trials enrolled subjects with post-ACTH stimulation cortisol levels of >18 mcg/dL at baseline.
 Subjects received UCERIS rectal foam 2 mg or a placebo twice daily for 2 weeks followed by once daily for 4 weeks.
-Normal morning serum cortisol levels > 5 μg/dL were maintained in 85% and 84% of UCERIS rectal foam treated subjects during Weeks 1 and 2 (twice daily treatment) and 93% and 94% during Weeks 4 and 6 (once daily treatment), respectively (see Table 3).
+Normal morning serum cortisol levels >5 mcg/dL were maintained in 85% and 84% of UCERIS rectal foam treated subjects during Weeks 1 and 2 (twice daily treatment) and 93% and 94% during Weeks 4 and 6 (once daily treatment), respectively (see Table 3).
 
 At baseline (predose), 84% of subjects in the UCERIS rectal foam group had a normal response to the ACTH challenge and at Week 6, 63% of subjects had a normal response to the ACTH challenge; in the placebo group, these values were 86% and 76%, respectively (see Table 3).
 ACTH stimulation test was not performed routinely during the twice daily treatment period (Weeks 1 and 2).
 
-Table 3: Proportion of Subjects with Normal Endogenous Cortisol Levels (> 5 μg/dL) During the Study and Proportion of Subjects with Normal Response to ACTH Challenge
+Table 3: Proportion of Subjects with Normal Endogenous Cortisol Levels (>5 mcg/dL) During the Study and Proportion of Subjects with Normal Response to ACTH Challenge
 
-a The normal response to ACTH challenge included 3 criteria, as defined in the cosyntropin label: 1) morning cortisol level > 5 μg/dL; 2) increase in cortisol level by ≥ 7 μg/dL above the morning (pre-challenge) level following ACTH challenge; and cortisol level of > 18 μg/dL following ACTH challenge.
-
-b Denominator includes 20 subjects in the UCERIS rectal foam arm and 2 subjects in the placebo arm who discontinued prior to week 6 due to adverse events related to low cortisol or abnormal response to ACTH challenge.
+| Cortisol Parameter | UCERIS Rectal Foam2 mg/25 mL N=268 n (%) |  | PlaceboN=278n (%) |  |
+| --- | --- | --- | --- | --- |
+| Total cortisol ˃5 mcg/dL(lower limit of normal range) |  |  |  |  |
+| Baseline | 259/268 | (96.6) | 275/278 | (98.9) |
+| Week 1 | 224/263 | (85.2) | 264/269 | (98.1) |
+| Week 2 | 216/257 | (84.0) | 263/266 | (98.9) |
+| Week 4 | 218/235 | (92.8) | 243/249 | (97.6) |
+| Week 6 | 211/224 | (94.2) | 234/241 | (97.1) |
+| Normal response to ACTH challengeThe normal response to ACTH challenge included 3 criteria, as defined in the cosyntropin label: 1) morning cortisol level > 5 mcg/dL; 2) increase in cortisol level by ≥ 7 mcg/dL above the morning (pre-challenge) level following ACTH challenge; and cortisol level of > 18 mcg/dL following ACTH challenge. |  |  |  |  |
+| Baseline | 222/266 | (83.5) | 238/278 | (85.6) |
+| Week 6Denominator includes 20 subjects in the UCERIS rectal foam arm and 2 subjects in the placebo arm who discontinued prior to week 6 due to adverse events related to low cortisol or abnormal response to ACTH challenge. | 148/236 | (62.7) | 180/237 | (75.9) |
 
 ## 12.3 Pharmacokinetics
 

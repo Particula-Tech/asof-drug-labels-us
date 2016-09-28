@@ -1,7 +1,7 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 UCERIS rectal foam is supplied as a kit containing 2 aerosol canisters with 28 PVC applicators coated with paraffin lubricant for administration of the foam (NDC 65649-651-03).
-Each canister (NDC 65649-651-02) is labeled with a net weight of 33.4g and contains 14 metered doses.
+Each canister (NDC 65649-651-02) is labeled with a net weight of 33.4 g and contains 14 metered doses.
 
 Storage
 

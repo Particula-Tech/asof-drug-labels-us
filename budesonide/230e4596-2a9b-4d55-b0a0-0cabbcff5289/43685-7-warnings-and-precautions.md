@@ -25,7 +25,7 @@ In patients who have not had these diseases, particular care should be taken to 
 How the dose, route and duration of glucocorticosteroid administration affect the risk of developing a disseminated infection is not known.
 The contribution of the underlying disease and/or prior glucocorticosteroid treatment to the risk is also not known.
 If exposed, therapy with varicella zoster immune globulin (VZIG) or pooled intravenous immunoglobulin (IVIG), as appropriate, may be indicated.
-If exposed to measles, prophylaxis with pooled intramuscular immunoglobulin (IG) may be indicated (See prescribing information for VZIG and IG).
+If exposed to measles, prophylaxis with pooled intramuscular immunoglobulin (IG) may be indicated (see prescribing information for VZIG and IG).
 If chicken pox develops, treatment with antiviral agents may be considered.
 
 Glucocorticosteroids should be used with caution, if at all, in patients with active or quiescent tuberculosis infection, untreated fungal, bacterial, systemic viral or parasitic infections, or ocular herpes simplex.
@@ -38,4 +38,4 @@ Monitor patients with hypertension, diabetes mellitus, osteoporosis, peptic ulce
 
 The contents of UCERIS rectal foam include n-butane, isobutane and propane as propellants which are flammable.
 Instruct the patient to avoid fire, flame, and smoking during and immediately following administration.
-Patients should temporarily discontinue use of UCERIS rectal foam before initiation of bowel preparation for colonoscopy and consult their health care provider before resuming therapy.
+Patients should temporarily discontinue use of UCERIS rectal foam before initiation of bowel preparation for colonoscopy and consult their healthcare provider before resuming therapy.

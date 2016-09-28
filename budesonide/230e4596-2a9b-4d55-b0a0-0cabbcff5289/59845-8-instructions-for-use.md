@@ -31,7 +31,7 @@ Preparing to use UCERIS rectal foam
 | Figure B |  |
 |  | Step 2: Attach the ApplicatorThe applicators are in a special tray. Hold the tray firmly and pull to remove 1 applicator.Push the applicator firmly onto the nozzle of the canister (See Figure C).Each applicator is coated with a lubricant. If needed, you can apply an additional lubricant, such as Vaseline® (petrolatum, petroleum jelly). |
 | Figure C |  |
-|  | Step 3: Align Notch to NozzleTo unlock the canister, twist the dome on the top of the canister until the semi-circular notch underneath the dome is in line with the nozzle (See Figure D). |
+|  | Step 3: Align Notch to NozzleTo unlock the canister, twist the dome on the top of the canister until the semicircular notch underneath the dome is in line with the nozzle (See Figure D). |
 | Figure D |  |
 |  | Step 4: Warm and Shake CanisterWarm the canister by holding it in your hands while shaking it vigorously for 10 to 15 seconds (See Figure E). |
 | Figure E |  |
@@ -47,17 +47,19 @@ Preparing to use UCERIS rectal foam
 | Figure J |  |
 |  | Step 10: Remove Applicator from CanisterRemove the applicator from the canister and place the used applicator in the plastic bag provided. (See Figure K). Throw the plastic bag away in your household trash. |
 | Figure K |  |
-|  | Step 11: Twist Notch on Dome Away from NozzleTo prevent loss of UCERIS rectal foam from the canister between uses, turn the pump dome around so that the semi-circular notch faces the opposite direction to the nozzle (See Figure L). Wash your hands with soap and water. Try not to empty your bowels until the next morning. |
+|  | Step 11: Twist Notch on Dome Away from NozzleTo prevent loss of UCERIS rectal foam from the canister between uses, turn the pump dome around so that the semicircular notch faces the opposite direction to the nozzle (See Figure L). Wash your hands with soap and water. Try not to empty your bowels until the next morning. |
 | Figure L |  |
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Distributed by: Salix Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 08807 USA Product marketed and distributed under license from Dr. Falk Pharma.
+Manufactured by: Salix Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 08807 USA Product marketed and distributed under license from Dr. Falk Pharma.
 
-UCERIS is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+Uceris is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
 © Valeant Pharmaceuticals North America LLC
 
-9499000
+9499001
 
-Revised: 11/2015
+7001205
+
+Revised: 09/2016

@@ -12,8 +12,6 @@ Rx ONLY
 
 NDC 65649-651-02
 
-UCERIS® rectal foam
+UCERIS® (budesonide) rectal foam 2mg/actuation
 
-(budesonide) 2mg/actuation
-
-Rx ONLY
+Rx only

@@ -21,7 +21,7 @@ Advise patients:
 
 Hypercorticism and Adrenal Suppression
 
-Advise patients that UCERIS rectal foam may cause hypercorticism and adrenal suppression and that they should taper slowly from systemic corticosteroids if transferring to UCERIS rectal foam [see Warnings and Precautions (5.1) and (5.2)].
+Advise patients that UCERIS rectal foam may cause hypercorticism and adrenal suppression and that they should taper slowly from systemic corticosteroids if transferring to UCERIS rectal foam [see Warnings and Precautions (5.1),(5.2)].
 Advise patients that replacement of systemic glucocorticosteroids with UCERIS rectal foam may unmask allergies (e.g., rhinitis and eczema), which were previously controlled by the systemic drug.
 
 Increased Risk of Infection
@@ -29,7 +29,7 @@ Increased Risk of Infection
 Advise patients to avoid exposure to people with chicken pox or measles and if exposed, consult a physician.
 Also, inform patients that they are at increased risk of developing a variety of infections, including worsening of existing tuberculosis, fungal, bacterial, viral, or parasitic infections, or ocular herpes simplex and to contact their physician if they develop any symptoms of infection [see Warnings and Precautions (5.3)].
 
-Distributed by:
+Manufactured for:
 
 Salix Pharmaceuticals, a division of
 
@@ -43,8 +43,6 @@ UCERIS is a trademark of Valeant Pharmaceuticals International, Inc. or its affi
 
 © Valeant Pharmaceuticals North America LLC
 
-U.S. Patent Number 5,914,122
+9499001
 
-9499000
-
-REV 11/2015
+Revised: 09/2016

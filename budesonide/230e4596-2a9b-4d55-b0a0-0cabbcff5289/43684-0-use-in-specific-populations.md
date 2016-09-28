@@ -14,9 +14,9 @@ All pregnancies, regardless of drug exposure, have a background rate of 2 to 4 p
 
 Clinical Considerations
 
-Fetal/neonatal adverse reactions
+Fetal/Neonatal Adverse Reactions
 
-Hypoadrenalism may occur in neonates exposed to glucocorticosteroids in-utero.
+Hypoadrenalism may occur in neonates exposed to glucocorticosteroids in utero.
 Carefully observe these neonates for signs and symptoms of hypoadrenalism.
 
 Animal Data
