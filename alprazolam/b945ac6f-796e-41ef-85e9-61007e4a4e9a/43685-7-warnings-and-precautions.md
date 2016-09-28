@@ -87,7 +87,7 @@ Nefazodone: Coadministration of nefazodone increased alprazolam concentration tw
 
 Fluvoxamine: Coadministration of fluvoxamine approximately doubled the maximum plasma concentration of alprazolam, decreased clearance by 49%, increased half-life by 71%, and decreased measured psychomotor performance.
 
-Cimetidine:Coadministration of cimetidine increased the maximum plasma concentration of alprazolam by 86%, decreased clearance by 42%, and increased half-life by 16%.
+Cimetidine: Coadministration of cimetidine increased the maximum plasma concentration of alprazolam by 86%, decreased clearance by 42%, and increased half-life by 16%.
 
 Other Drugs Possibly Affecting Alprazolam Metabolism
 
@@ -124,15 +124,15 @@ For All Users of Alprazolam
 
 To assure safe and effective use of benzodiazepines, all patients prescribed alprazolam should be provided with the following guidance.
 
-- 1.Inform your physician about any alcohol consumption and medicine you are taking now, including medication you may buy without a prescription.
-  Alcohol should generally not be used during treatment with benzodiazepines.
-- 2.Not recommended for use in pregnancy.
-  Therefore, inform your physician if you are pregnant, if you are planning to have a child, or if you become pregnant while you are taking this medication.
-- 3.Inform your physician if you are nursing.
-- 4.Until you experience how this medication affects you, do not drive a car or operate potentially dangerous machinery, etc.
-- 5.Do not increase the dose even if you think the medication "does not work anymore" without consulting your physician.
-  Benzodiazepines, even when used as recommended, may produce emotional and/or physical dependence.
-- 6.Do not stop taking this medication abruptly or decrease the dose without consulting your physician, since withdrawal symptoms can occur.
+1. 1.Inform your physician about any alcohol consumption and medicine you are taking now, including medication you may buy without a prescription.
+   Alcohol should generally not be used during treatment with benzodiazepines.
+2. 2.Not recommended for use in pregnancy.
+   Therefore, inform your physician if you are pregnant, if you are planning to have a child, or if you become pregnant while you are taking this medication.
+3. 3.Inform your physician if you are nursing.
+4. 4.Until you experience how this medication affects you, do not drive a car or operate potentially dangerous machinery, etc.
+5. 5.Do not increase the dose even if you think the medication "does not work anymore" without consulting your physician.
+   Benzodiazepines, even when used as recommended, may produce emotional and/or physical dependence.
+6. 6.Do not stop taking this medication abruptly or decrease the dose without consulting your physician, since withdrawal symptoms can occur.
 
 Additional Advice for Panic Disorder Patients
 

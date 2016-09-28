@@ -8,6 +8,4 @@ The structural formula is represented below:
 
 Alprazolam is a white to off-white crystalline powder, which is soluble in alcohol but which has no appreciable solubility in water at physiological pH.
 
-Each mL, for oral administration, contains 1 mg of alprazolam.
-
-Inactive ingredients: propylene glycol, succinic acid disodium salt, and water.
+Each mL, for oral administration, contains 1 mg of alprazolam USP and the following inactive ingredients: propylene glycol, succinic acid disodium salt and water.

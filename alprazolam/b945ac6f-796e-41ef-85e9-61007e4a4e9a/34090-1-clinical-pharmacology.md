@@ -46,7 +46,7 @@ Race: Maximal concentrations and half-life of alprazolam are approximately 15% a
 
 Pediatrics: The pharmacokinetics of alprazolam in pediatric patients have not been studied.
 
-Gender:Gender has no effect on the pharmacokinetics of alprazolam.
+Gender: Gender has no effect on the pharmacokinetics of alprazolam.
 
 Cigarette Smoking: Alprazolam concentrations may be reduced by up to 50% in smokers compared to non-smokers.
 
