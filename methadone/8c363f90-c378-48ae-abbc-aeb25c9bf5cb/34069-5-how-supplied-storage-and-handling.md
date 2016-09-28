@@ -15,10 +15,10 @@ Store at 20° to 25°C (68° to 77°F).
 
 Methadone Hydrochloride Oral Solution USP
 
-Methadone Hydrochloride Oral Solution USP 5 and 10 mg per 5 mL is an orange-colored, citrus-flavored solution available in two strengths as follows:
+Methadone Hydrochloride Oral Solution USP 5 and 10 mg per 5 mL is a clear or nearly clear orange-colored, citrus-flavored solution available in two strengths as follows:
 
-5 mg per 5 mL Oral Solution NDC 0054-3555-63: Bottles of 500 mL
+5 mg per 5 mL Oral Solution NDC 0054-3555-63: Bottle of 500 mL
 
-10 mg per 5 mL Oral Solution NDC 0054-3556-63: Bottles of 500 mL
+10 mg per 5 mL Oral Solution NDC 0054-3556-63: Bottle of 500 mL
 
 DEA order form required.

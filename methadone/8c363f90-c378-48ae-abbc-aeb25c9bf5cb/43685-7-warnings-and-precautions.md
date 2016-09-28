@@ -2,7 +2,7 @@
 
 ## 5.1 Addiction, Abuse and Misuse
 
-Methadone Hydrochloride Oral Solution USP contains methadone, a Schedule II controlled substance.
+Methadone hydrochloride oral solution contains methadone, a Schedule II controlled substance.
 As an opioid, methadone exposes users to the risks of addiction, abuse, and misuse [see Drug Abuse and Dependence (9)].
 As long-acting opioids such as methadone have pharmacological effects over an extended period of time, there is a greater risk for overdose and death.
 
@@ -68,8 +68,7 @@ The onset, duration, and severity of neonatal opioid withdrawal syndrome vary ba
 
 Hypotension, profound sedation, coma, respiratory depression, and death may result if methadone is used concomitantly with alcohol or other central nervous system (CNS) depressants (e.g., sedatives, anxiolytics, hypnotics, neuroleptics, other opioids).
 
-When considering the use of methadone in a patient taking a CNS depressant, assess the duration of use of the CNS depressant and the patient’s response, including the degree of tolerance that has developed to CNS depression.
-Additionally, evaluate the patient’s use of alcohol or illicit drugs that cause CNS depression.
+When considering the use of methadone in a patient taking a CNS depressant, assess the duration of use of the CNS depressant and the patient’s response, including the degree of tolerance that has developed to CNS depression.Additionally, evaluate the patient’s use of alcohol or illicit drugs that cause CNS depression.
 If the decision to begin methadone is made, start with methadone 2.5 mg every 12 hours, monitor patients for signs of sedation and respiratory depression, and consider using a lower dose of the concomitant CNS depressant [see Drug Interactions (7.1)].
 
 ## 5.6 Use in Elderly, Cachectic, and Debilitated Patients

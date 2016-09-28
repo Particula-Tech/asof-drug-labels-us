@@ -39,10 +39,13 @@ If they cannot reach the healthcare provider right away, instruct them to take t
 
 Disposal of Unused Methadone: Advise patients to flush the unused methadone down the toilet when methadone is no longer needed.
 
-Roxane Laboratories, Inc. Columbus, Ohio 43216
+Distr.
+By: West-Ward Pharmaceuticals Corp.
 
-www.roxane.com, or call 1-800-962-8364
+Eatontown, NJ 07724
 
-4056301//07
+For information call 1-800-962-8364
 
-Revised April 2015 © RLI, 2015
+4056301//08
+
+Revised May 2016

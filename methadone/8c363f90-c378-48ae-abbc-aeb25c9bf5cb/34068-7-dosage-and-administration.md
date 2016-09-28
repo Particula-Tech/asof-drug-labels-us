@@ -62,17 +62,17 @@ Example conversion from a single opioid to methadone:
 
 - Step 1: Sum the total daily dose of the opioid (in this case, Morphine Extended Release Tablets 50 mg twice daily)
 - 50 mg Morphine Extended Release Tablets 2 times daily = 100 mg total daily dose of Morphine
-- Step 2: Calculate the approximate equivalent dose of Methadone Hydrochloride Oral Solution USP based on the total daily dose of Morphine using Table 1.
-- 100 mg total daily dose of Morphine x 15% (10% to 20% per Table 1) = 15 mg Methadone Hydrochloride Oral Solution USP daily
-- Step 3: Calculate the approximate starting dose of Methadone Hydrochloride Oral Solution USP to be given every 12 hours.
+- Step 2: Calculate the approximate equivalent dose of Methadone Hydrochloride Oral Solution based on the total daily dose of Morphine using Table 1.
+- 100 mg total daily dose of Morphine x 15% (10% to 20% per Table 1) = 15 mg Methadone Hydrochloride Oral Solution daily
+- Step 3: Calculate the approximate starting dose of Methadone Hydrochloride Oral Solution to be given every 12 hours.
   Round down, if necessary, to the appropriate methadone tablets strengths available.
-- 15 mg daily / 2 = 7.5 mg Methadone Hydrochloride Oral Solution USP every 12 hours
-- Then 7.5 mg is rounded down to 5 mg Methadone Hydrochloride Oral Solution USP every 12 hours
+- 15 mg daily / 2 = 7.5 mg Methadone Hydrochloride Oral Solution every 12 hours
+- Then 7.5 mg is rounded down to 5 mg Methadone Hydrochloride Oral Solution every 12 hours
 
 Close observation and frequent titration are warranted until pain management is stable on the new opioid.
-Monitor patients for signs and symptoms of opioid withdrawal or for signs of over-sedation/toxicity after converting patients to Methadone Hydrochloride Oral Solution USP.
+Monitor patients for signs and symptoms of opioid withdrawal or for signs of over-sedation/toxicity after converting patients to Methadone Hydrochloride Oral Solution.
 
-Conversion from Parenteral Methadone to Methadone Hydrochloride Oral Solution USP: Use a conversion ratio of 1:2 mg for parenteral to oral methadone (e.g., 5 mg parenteral methadone to 10 mg oral methadone).
+Conversion from Parenteral Methadone to Methadone Hydrochloride Oral Solution: Use a conversion ratio of 1:2 mg for parenteral to oral methadone (e.g., 5 mg parenteral methadone to 10 mg oral methadone).
 
 ## 2.3 Titration and Maintenance of Therapy for Pain
 
@@ -81,7 +81,7 @@ Continually reevaluate patients receiving methadone to assess the maintenance of
 Frequent communication is important among the prescriber, other members of the healthcare team, the patient, and the caregiver/family during periods of changing analgesic requirements, including initial titration.
 During chronic therapy, periodically reassess the continued need for the use of opioid analgesics.
 
-Because of individual variability in the pharmacokinetic profile (i.e., terminal half-life (T1/2) from 8 to 59 hours in different studies [see Clinical Pharmacology (12.3)]), titrate methadone slowly, with dose increases no more frequent than every 3 to 5 days.
+Because of individual variability in the pharmacokinetic profile (i.e., terminal half-life (T1/2) from 8 to 59 hours in different studies [see Clinical Pharmacology (12.3)], titrate methadone slowly, with dose increases no more frequent than every 3 to 5 days.
 However, because of this high variability, some patients may require substantially longer periods between dose increases (up to 12 days).
 Monitor patients closely for the development of potentially life-threatening adverse reactions (e.g., CNS and respiratory depression).
 
