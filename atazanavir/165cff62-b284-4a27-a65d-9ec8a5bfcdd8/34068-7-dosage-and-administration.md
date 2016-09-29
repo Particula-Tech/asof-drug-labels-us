@@ -21,7 +21,7 @@ The use of REYATAZ in treatment-experienced adult patients without ritonavir is 
 
 Table 1: Recommended REYATAZ and Ritonavir Dosage in Adultsa,b
 
-|  | REYATAZ Once DailyDosage | Ritonavir Once DailyDosage |
+|  | REYATAZ Once Daily Dosage | Ritonavir Once Daily Dosage |
 | --- | --- | --- |
 | Treatment-Naive Adult Patients |  |  |
 | recommended regimen | 300 mg | 100 mg |
@@ -30,8 +30,7 @@ Table 1: Recommended REYATAZ and Ritonavir Dosage in Adultsa,b
 | Treatment-Experienced Adult Patients |  |  |
 | recommended regimen | 300 mg | 100 mg |
 | in combination with both H2RA and tenofovir | 400 mg | 100 mg |
-| a See Drug Interactions (7) for instructions concerning coadministration of acid reducing medications (eg, H2RA or proton pump inhibitors [PPIs]), and other antiretroviral drugs (eg, efavirenz, tenofovir, and didanosine). |  |  |
-| b For adult patients who cannot swallow the capsules, REYATAZ oral powder is taken once daily with food at the same recommended adult dosage as the capsules along with ritonavir. |  |  |
+| a See Drug Interactions (7) for instructions concerning coadministration of acid reducing medications (eg, H2RA or proton pump inhibitors [PPIs]), and other antiretroviral drugs (eg, efavirenz, tenofovir, and didanosine). b For adult patients who cannot swallow the capsules, REYATAZ oral powder is taken once daily with food at the same recommended adult dosage as the capsules along with ritonavir. |  |  |
 
 ## 2.3 Dosage of REYATAZ Capsules in Pediatric Patients
 
@@ -48,9 +47,7 @@ Table 2: Recommended Dosage of REYATAZ Capsules and Ritonavir in Pediatric Patie
 | At least 40 kg | 300 mg | 100 mg |
 | Treatment-Naive, at least 13 years old and cannot tolerate ritonavirc |  |  |
 | At least 40 kg | 400 mg | N/A |
-
-a Administer REYATAZ capsules and ritonavir simultaneously with food. b The same recommendations regarding the timing and maximum doses of concomitant PPIs and H2RAs in adults also apply to pediatric patients.
-See Drug Interactions (7) for instructions concerning coadministration of acid reducing medications (eg, H2RA or PPIs), and other antiretroviral drugs (eg, efavirenz, tenofovir, and didanosine). c In treatment-experienced patients, REYATAZ capsules must be administered with ritonavir.
+| a Administer REYATAZ capsules and ritonavir simultaneously with food. b The same recommendations regarding the timing and maximum doses of concomitant PPIs and H2RAs in adults also apply to pediatric patients. See Drug Interactions (7) for instructions concerning coadministration of acid reducing medications (eg, H2RA or PPIs), and other antiretroviral drugs (eg, efavirenz, tenofovir, and didanosine). c In treatment-experienced patients, REYATAZ capsules must be administered with ritonavir. |  |  |
 
 ## 2.4 Dosage and Administration of REYATAZ Oral Powder in Pediatric Patients
 
@@ -66,7 +63,7 @@ Table 3: Recommended Dosage of REYATAZ Oral Powder and Ritonavir in Pediatric Pa
 | 15 kg to less than 25 kg | 250 mg (5 packets)d | 80 mg |
 | a The same recommendations regarding the timing and maximum doses of concomitant PPIs and H2RAs in adults also apply to pediatric patients. See Drug Interactions (7) for instructions concerning coadministration of acid reducing medications (eg, H2RA or PPIs), and other antiretroviral drugs (eg, efavirenz, tenofovir, and didanosine). b For pediatric patients at least 25 kg who cannot swallow REYATAZ capsules, 300 mg (6 packets) REYATAZ oral powder is taken once daily with food along with 100 mg ritonavir. c Only patients weighing 5 to less than 10 kg who do not tolerate the 200 mg (4 packets) dose of REYATAZ oral powder and have not previously taken an HIV protease inhibitor, may take 150 mg (3 packets) REYATAZ oral powder with close HIV viral load monitoring. d Each packet contains 50 mg of REYATAZ. |  |  |
 
-Instructions for Mixing REYATAZ Oral Powder [see FDA-approved Instructions for Use]
+### Instructions for Mixing REYATAZ Oral Powder [see FDA-approved Instructions for Use]
 
 - •Determine the number of packets (3, 4, 5 or 6 packets) that are needed.
 - •Prior to mixing, tap the packet to settle the powder.

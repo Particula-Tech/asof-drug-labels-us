@@ -71,7 +71,7 @@ Minimal maternal toxicity occurred at this exposure level.
 
 ## 8.2 Lactation
 
-Risk Summary
+### Risk Summary
 
 The Centers for Disease Control and Prevention recommend that HIV-1 infected mothers not breastfeed their infants to avoid risking postnatal transmission of HIV-1.
 Atazanavir has been detected in human milk.

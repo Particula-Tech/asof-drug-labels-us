@@ -10,9 +10,9 @@ Treatment response and outcomes through Week 96 are presented in Table 26.
 
 Table 26: Outcomes of Treatment Through Week 96 in Treatment-Naive Adults (Study AI424-138)
 
-| 96 Weeks | 96 Weeks |  |
+|  | REYATAZ 300 mg + ritonavir 100 mg (once daily) with tenofovir/emtricitabine (once daily)a (n=441) | lopinavir 400 mg + ritonavir 100 mg (twice daily) with tenofovir/emtricitabine (once daily)a (n=437) |
 | --- | --- | --- |
-| Outcome | REYATAZ 300 mg + ritonavir 100 mg (once daily) with tenofovir/emtricitabine (once daily)a (n=441) | lopinavir 400 mg + ritonavir 100 mg (twice daily) with tenofovir/emtricitabine (once daily)a (n=437) |
+| Outcome | 96 Weeks | 96 Weeks |
 | Responderb,c,d | 75% | 68% |
 | Virologic failuree | 17% | 19% |
 | Rebound | 8% | 10% |
@@ -33,9 +33,8 @@ Treatment response and outcomes through Week 48 are presented in Table 27.
 
 Table 27: Outcomes of Randomized Treatment Through Week 48 in Treatment-Naive Adults (Study AI424-034)
 
-| (n=405) | (n=405) |  |  |  |  |
+| Outcome | REYATAZ 400 mg once daily + lamivudine + zidovudined (n=405) | efavirenz 600 mg once daily + lamivudine + zidovudined (n=405) |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Outcome | REYATAZ 400 mg once daily + lamivudine + zidovudined | efavirenz 600 mg once daily + lamivudine + zidovudined |  |  |  |
 | Respondera | 67% (32%) | 62% (37%) |  |  |  |
 | Virologic failureb | 20% | 21% |  |  |  |
 | Rebound | 17% | 16% |  |  |  |
@@ -56,9 +55,8 @@ Treatment response and outcomes through Week 48 are presented in Table 28.
 
 Table 28: Outcomes of Randomized Treatment Through Week 48 in Treatment-Naive Adults (Study AI424-008)
 
-| Outcome | (n=181) | (n=91) |  |  |  |  |  |  |
+| Outcome | REYATAZ 400 mg once daily + lamivudine + stavudine (n=181) | nelfinavir 1250 mg twice daily + lamivudine + stavudine (n=91) |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | REYATAZ 400 mg once daily + lamivudine + stavudine | nelfinavir 1250 mg twice daily + lamivudine + stavudine |  |  |  |  |  |  |
 | Respondera | 67% (33%) | 59% (38%) |  |  |  |  |  |  |
 | Virologic failureb | 24% | 27% |  |  |  |  |  |  |
 | Rebound | 14% | 14% |  |  |  |  |  |  |
@@ -84,9 +82,8 @@ Study AI424-045 was not large enough to reach a definitive conclusion that REYAT
 
 Table 29: Outcomes of Treatment Through Week 48 in Study AI424-045 (Patients with Prior Antiretroviral Experience)
 
-| (n=119) | (n=118) | (CI) |  |
+| Outcome | REYATAZ 300 mg + ritonavir 100 mg once daily + tenofovir + 1 NRTI (n=119) | lopinavir/ritonavir (400/100 mg) twice daily + tenofovir + 1 NRTI(n=118) | Differencea (REYATAZ-lopinavir/ritonavir) (CI) |
 | --- | --- | --- | --- |
-| Outcome | REYATAZ 300 mg + ritonavir 100 mg once daily + tenofovir + 1 NRTI | lopinavir/ritonavir (400/100 mg) twice daily + tenofovir + 1 NRTI | Differencea (REYATAZ-lopinavir/ritonavir) |
 | HIV RNA Change from Baseline (log10 copies/mL)b | −1.58 | −1.70 | +0.12c (−0.17, 0.41) |
 | CD4+ Change from Baseline (cells/mm3)d | 116 | 123 | −7 (−67, 52) |
 | Percent of Patients Respondinge |  |  |  |
