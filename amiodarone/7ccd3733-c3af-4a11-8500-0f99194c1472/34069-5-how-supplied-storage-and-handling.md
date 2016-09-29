@@ -28,7 +28,7 @@ Amiodarone HCl Tablets, 400 mg are round, flat, beveled edge, light yellow table
 
 Keep tightly closed.
 
-Store at 20°-25°C (68°-77°F) [see USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
 Protect from light.
 

@@ -60,7 +60,7 @@ Before you take amiodarone HCl tablets tell your doctor about all of your medica
 - are breastfeeding or plan to breastfeed.
   Amiodarone HCl can pass into your breast milk and can harm your baby.
   Talk to your doctor about the best way to feed your baby.
-  You should not breastfeed while taking amiodarone HCl.
+  You should not breast feed while taking amiodarone HCl.
   Also, amiodarone HCl can stay in your body for months after treatment is stopped.
 - Tell your doctor about all the medicines you take including prescription and over-the-counter medicines, vitamins and herbal supplements.
   Amiodarone HCl tablets and certain other medicines can affect (interact) with each other and cause serious side effects.
@@ -148,4 +148,4 @@ Inactive Ingredients: colloidal silicon dioxide, corn starch, D&C yellow No. 10 
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Mfd. by: Taro Pharmaceutical Industries Ltd., Haifa Bay, Israel 2624761 Dist. by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532 Revised: June 2015 71008-0615-14
+Mfd. by: Taro Pharmaceutical Industries Ltd., Haifa Bay, Israel 2624761 Dist. by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532 Revised: September 2016 71008-0916-15

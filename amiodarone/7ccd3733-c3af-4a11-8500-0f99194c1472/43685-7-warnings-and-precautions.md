@@ -65,13 +65,21 @@ In some patients, rechallenge at a lower dose has not resulted in return of inte
 
 ## Worsened Arrhythmia
 
-Amiodarone, like other antiarrhythmics, can cause serious exacerbation of the presenting arrhythmia and has been reported in about 2 to 5% in most series, and has included new ventricular fibrillation, incessant ventricular tachycardia, increased resistance to cardioversion and polymorphic ventricular tachycardia associated with QTc prolongation (Torsade de Pointes [TdP]).
-In addition, amiodarone has caused symptomatic bradycardia or sinus arrest with suppression of escape foci in 2 to 4% of patients.The risk of exacerbation may be increased when other risk factors are present such as electrolytic disorders or use of concomitant antiarrhythmics or other interacting drugs (See "Drug Interactions, Other reported interactions with amiodarone").
+Amiodarone, like other antiarrhythmics, can cause serious exacerbation of the presenting arrhythmia and has been reported in about 2 to 5% in most series, and has included new ventricular fibrillation, incessant ventricular tachycardia, increased resistance to cardioversion, and polymorphic ventricular tachycardia associated with QTc prolongation (Torsade de Pointes [TdP]).
+In addition, amiodarone has caused symptomatic bradycardia or sinus arrest with suppression of escape foci in 2 to 4% of patients.The risk of exacerbation may be increased when other risk factors are present such as electrolytic disorders or use of concomitant antiarrhythmics or other interacting drugs (see "PRECAUTIONS, Drug Interactions").
 
 Correct hypokalemia, hypomagnesemia or hypocalcemia whenever possible before initiating treatment with amiodarone HCl tablets, as these disorders can exaggerate the degree of QTc prolongation and increase the potential for TdP.
-Give special attention to electrolyte and acidbase balance in patients experiencing severe or prolonged diarrhea or in patients receiving concomitant diuretics and laxatives, systemic corticosteroids, amphotericin B (IV) or other drugs affecting electrolyte levels.
+Give special attention to electrolyte and acid-base balance in patients experiencing severe or prolonged diarrhea or in patients receiving concomitant diuretics and laxatives, systemic corticosteroids, amphotericin B (IV) or other drugs affecting electrolyte levels.
 
 The need to co-administer amiodarone with any other drug known to prolong the QTc interval must be based on a careful assessment of the potential risks and benefits of doing so for each patient.
+
+## Serious Symptomatic Bradycardia When Co-administered with Ledipasvir/Sofosbuvir or with Sofosbuvir with Simeprevir
+
+Postmarketing cases of symptomatic bradycardia, some requiring pacemaker insertion and at least one fatal, have been reported when ledipasvir/sofosbuvir or sofosbuvir with simeprevir were initiated in patients on amiodarone.
+Bradycardia generally occurred within hours to days, but in some cases up to 2 weeks after initiating antiviral treatment.
+Bradycardia generally resolved after discontinuation of antiviral treatment.
+The mechanism for this effect is unknown.
+Monitor heart rate in patients taking or recently discontinuing amiodarone when starting antiviral treatment.
 
 ## Implantable Cardiac Devices
 
@@ -101,15 +109,13 @@ If symptoms of visual impairment appear, such as changes in visual acuity and de
 Appearance of optic neuropathy and/or neuritis calls for re-evaluation of amiodarone therapy.
 The risks and complications of antiarrhythmic therapy with amiodarone must be weighed against its benefits in patients whose lives are threatened by cardiac arrhythmias.
 Regular ophthalmic examination, including funduscopy and slit-lamp examination, is recommended during administration of amiodarone.
-(See "ADVERSE REACTIONS").
+(see "ADVERSE REACTIONS").
 
-## Neonatal Hypo- or Hyperthyroidism
+## Neonatal Injury
 
 Amiodarone can cause fetal harm when administered to a pregnant woman.
-Although amiodarone use during pregnancy is uncommon, there have been a small number of published reports of congenital goiter/hypothyroidism and hyperthyroidism.
-If amiodarone is used during pregnancy, or if the patient becomes pregnant while taking amiodarone, the patient should be apprised of the potential hazard to the fetus.
-
-In general, amiodarone HCl tablets should be used during pregnancy only if the potential benefit to the mother justifies the unknown risk to the fetus.
+Fetal exposure may increase the potential for adverse experiences including cardiac, thyroid, neurodevelopmental, neurological and growth effects in neonate.
+Inform the patient of the potential hazard to the fetus if amiodarone is administered during pregnancy or if the patient becomes pregnant while taking amiodarone.
 
 In pregnant rats and rabbits, amiodarone HCl in doses of 25 mg/kg/day (approximately 0.4 and 0.9 times, respectively, the maximum recommended human maintenance dose600 mg in a 50 kg patient (doses compared on a body surface area basis)) had no adverse effects on the fetus.
 In the rabbit, 75 mg/kg/day (approximately 2.7 times the maximum recommended human maintenance dose) caused abortions in greater than 90% of the animals.
@@ -226,7 +232,7 @@ Avoid concomitant use of drugs that prolong the QT interval.
 #### Drugs lowering heart rate or causing automaticity or conduction disorders
 
 Concomitant use of drugs with depressant effects on the sinus and AV node (e.g., digoxin, beta blockers, verapamil, diltiazem, clonidine) can potentiate the electrophysiologic and hemodynamic effects of amiodarone, resulting in bradycardia, sinus arrest, and AV block.
-Monitor heart rate in patients on amiodarone and concomitant drugs that slow heart rate
+Monitor heart rate in patients on amiodarone and concomitant drugs that slow heart rate.
 
 ### Pharmocokinetic interactions
 
@@ -310,9 +316,21 @@ In a study in which amiodarone HCl was administered to male and female rats, beg
 
 ## Pregnancy
 
-### Pregnancy Category D
+See "WARNINGS, Neonatal Injury".
 
-See "WARNINGS, Neonatal Hypo- or Hyperthyroidism".
+### Teratogenic Effects
+
+Amiodarone and desethylamiodarone cross the placenta.
+
+Reported risks include:
+
+- neonatal bradycardia, QT prolongation, and periodic ventricular extrasystoles
+- neonatal hypothyroidism (with or without goiter) detected antenatally or in the newborn and reported even after a few days of exposure
+- neonatal hyperthyroxinemia
+- neurodevelopmental abnormalities independent of thyroid function, including speech delay and difficulties with written language and arithmetic, delayed motor development, and ataxia.
+- jerk nystagmus with synchronous head titubation
+- fetal growth retardation
+- premature birth
 
 ## Labor and Delivery
 
@@ -323,7 +341,8 @@ Preclinical studies in rodents have not shown any effect of amiodarone on the du
 
 Amiodarone and one of its major metabolites, DEA, are excreted in human milk, suggesting that breast-feeding could expose the nursing infant to a significant dose of the drug.
 Nursing offspring of lactating rats administered amiodarone have been shown to be less viable and have reduced body-weight gains.
-Therefore, when amiodarone therapy is indicated, the mother should be advised to discontinue nursing.
+The risk of exposing the infant to amiodarone and DEA must be weighed against the potential benefit of arrhythmia suppression in the mother.
+Advise the mother to discontinue nursing.
 
 ## Pediatric Use
 

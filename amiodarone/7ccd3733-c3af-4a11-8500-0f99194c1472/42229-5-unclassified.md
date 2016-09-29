@@ -1,3 +1,3 @@
 Rx only
 
-Mfd. by: Taro Pharmaceutical Industries Ltd., Haifa Bay, Israel 2624761 Dist. by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532 Revised: June 2015 71008-0615-14
+Mfd. by: Taro Pharmaceutical Industries Ltd., Haifa Bay, Israel 2624761 Dist. by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532 Revised: September 2016 71008-0916-15
