@@ -1,4 +1,4 @@
-# OVERDOSAGE
+# OVERDOSAGE:
 
 Acute overdosage by intranasal administration is unlikely since ipratropium bromide is not well absorbed systemically after intranasal or oral administration.
 Following administration of a 20 mg oral dose (equivalent to ingesting more than four bottles of ipratropium bromide nasal solution 0.03% [Nasal Spray]) to 10 male volunteers, no change in heart rate or blood pressure was noted.

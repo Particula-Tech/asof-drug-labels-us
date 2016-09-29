@@ -1,4 +1,4 @@
-# Patient's Instructions For Use
+# PATIENT’S INSTRUCTIONS FOR USE
 
 Ipratropium Bromide Nasal Solution 0.03% (Nasal Spray)
 
@@ -6,8 +6,8 @@ Read complete instructions carefully before using.
 
 In order to ensure proper dosing, do not attempt to change the size of the spray opening.
 
-Ipratropium bromide nasal solution 0.03% (Nasal Spray) is indicated for the symptomatic relief of rhinorrhea (runny nose) associated with allergic and nonallergic perennial rhinitis in adults and children age 6 years and older.
-Ipratropium bromide nasal solution 0.03% (Nasal Spray) does not relieve nasal congestion, sneezing, or postnasal drip associated with allergic or nonallergic perennial rhinitis.
+Ipratropium Bromide Nasal Solution 0.03% (Nasal Spray) is indicated for the symptomatic relief of rhinorrhea (runny nose) associated with allergic and nonallergic perennial rhinitis in adults and children age 6 years and older.
+Ipratropium Bromide Nasal Solution 0.03% (Nasal Spray) does not relieve nasal congestion, sneezing, or postnasal drip associated with allergic or nonallergic perennial rhinitis.
 Read complete instructions carefully and use only as directed.
 
 To Use:
@@ -17,7 +17,7 @@ Remove the plastic dust cap and the safety clip from the nasal spray pump (Figur
 The safety clip prevents the accidental discharge of the spray in your pocket or purse.
 
 2.
-The nasal spray pump must be primed before ipratropium bromide nasal solution 0.03% (Nasal Spray) is used for the first time.
+The nasal spray pump must be primed before Ipratropium Bromide Nasal Solution 0.03% (Nasal Spray) is used for the first time.
 To prime the pump, hold the bottle with your thumb at the base and your index and middle fingers on the white shoulder area.
 Make sure the bottle points upright and away from your eyes.
 Press your thumb firmly and quickly against the bottle seven (7) times (Figure 2).
@@ -26,7 +26,7 @@ Your pump should not have to be reprimed unless you have not used the medication
 If you have not used your nasal spray for more than seven (7) days, repriming the pump will require seven sprays.
 
 3.
-Before using ipratropium bromide nasal solution 0.03% (Nasal Spray), blow your nose gently to clear your nostrils if necessary.
+Before using Ipratropium Bromide Nasal Solution 0.03% (Nasal Spray), blow your nose gently to clear your nostrils if necessary.
 
 4.
 Close one nostril by gently placing your finger against the side of your nose, tilt your head slightly forward and, keeping the bottle upright, insert the nasal tip into the other nostril (Figure 3).
@@ -50,37 +50,40 @@ Replace the plastic dust cap and safety clip.
 
 10.
 At some time before the medication is completely used up, you should consult your physician or pharmacist to determine whether a refill is needed.
-You should not take extra doses or stop using ipratropium bromide nasal solution 0.03% (Nasal Spray) without consulting your physician.
+You should not take extra doses or stop using Ipratropium Bromide Nasal Solution 0.03% (Nasal Spray) without consulting your physician.
 
 To Clean:
 
-If the nasal tip becomes clogged, remove the clear plastic dust cap and safety clip.
+If the nasal tip becomes clogged, remove the plastic dust cap and safety clip.
 Hold the nasal tip under running, warm tap water (Figure 4) for about a minute.
 Dry the nasal tip, reprime the nasal spray pump (step 2 above), and replace the plastic dust cap and safety clip.
 
 Caution:
 
-Ipratropium bromide nasal solution 0.03% (Nasal Spray) is intended to relieve your rhinorrhea (runny nose) with regular use.
-It is therefore important that you use ipratropium bromide nasal solution 0.03% (Nasal Spray) as prescribed by your physician.
-For most patients, some improvement in runny nose is usually apparent during the first full day of treatment with ipratropium bromide nasal solution 0.03% (Nasal Spray).
+Ipratropium Bromide Nasal Solution 0.03% (Nasal Spray) is intended to relieve your rhinorrhea (runny nose) with regular use.
+It is therefore important that you use Ipratropium Bromide Nasal Solution 0.03% (Nasal Spray) as prescribed by your physician.
+For most patients, some improvement in runny nose is usually apparent during the first full day of treatment with Ipratropium Bromide Nasal Solution 0.03% (Nasal Spray).
 Some patients may require up to two weeks of treatment to obtain maximum benefit.
 
-Do not spray ipratropium bromide nasal solution 0.03% (Nasal Spray) in your eyes.
+Do not spray Ipratropium Bromide Nasal Solution 0.03% (Nasal Spray) in your eyes.
 Should this occur, immediately flush your eye with cool tap water for several minutes.
-If you accidentally spray ipratropium bromide nasal solution 0.03% (Nasal Spray) in your eyes, you may experience a temporary blurring of vision and increased sensitivity to light, which may last a few hours.
-Should eye pain or blurred vision occur, contact your doctor.
+If you accidentally spray Ipratropium Bromide Nasal Solution 0.03% (Nasal Spray) in your eyes, you may experience a temporary blurring of vision, visual halos or colored images in association with red eyes from conjunctival and corneal congestion, development or worsening of narrow-angle glaucoma, pupil dilation, or acute eye pain/discomfort, and increased sensitivity to light, which may last a few hours.
+Should acute eye pain or blurred vision occur, contact your doctor.
 
-Should you experience excessive nasal dryness or episodes of nasal bleeding contact your doctor.
+Should you experience excessive nasal dryness or episodes of nasal bleeding, contact your doctor.
 
-If you have glaucoma or difficulty urinating due to an enlargement of the prostate, be sure to tell your physician prior to using ipratropium bromide nasal solution 0.03% (Nasal Spray).
+If you have glaucoma or difficulty urinating due to an enlargement of the prostate, be sure to tell your physician prior to using Ipratropium Bromide Nasal Solution 0.03% (Nasal Spray).
 
-If you are pregnant or you are breast feeding your baby, be sure to tell your physician prior to using ipratropium bromide nasal solution 0.03% (Nasal Spray).
+If you are pregnant or you are breast feeding your baby, be sure to tell your physician prior to using Ipratropium Bromide Nasal Solution 0.03% (Nasal Spray).
 
-STORAGE: Store tightly closed at 25°C (77°F); excursions permitted to 15°-25°C (59°-77°F) Avoid freezing.
+STORAGE: Store tightly closed at 25°C (77°F); excursions permitted to 15°-25°C (59°-77°F).
+Avoid freezing.
 Keep out of reach of children.
 
-Revised January 2012
+Revised July 2016
 
-Bausch & Lomb Incorporated Tampa, FL 33637 ©Bausch & Lomb Incorporated
+Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-9103603 (Folded)
+©Bausch & Lomb Incorporated
+
+9103605 (Folded)
