@@ -21,7 +21,7 @@ Nevertheless, a decision should be made whether to discontinue nursing or to dis
 Safety and efficacy of VANOS Cream in pediatric patients younger than 12 years of age have not been established; therefore use in pediatric patients younger than 12 years of age is not recommended.
 
 HPA axis suppression was studied in 4 sequential cohorts of pediatric patients with atopic dermatitis covering at least 20% of the body surface area, treated once daily or twice daily with VANOS Cream.
-The first cohort of 31 patients (mean 36.3% BSA) 12 to < 18 years old; the second cohort included 31 patients (mean 39.0% BSA) 6 to < 12 years old; the third cohort included 30 patients (mean 34.6% BSA) 2 to < 6 years old; the fourth cohort included 31 patients (mean 40.0% BSA) 3 months to < 2 years old.
+The first cohort of 31 patients (mean 36.3% BSA) 12 to <18 years old; the second cohort included 31 patients (mean 39.0% BSA) 6 to <12 years old; the third cohort included 30 patients (mean 34.6% BSA) 2 to <6 years old; the fourth cohort included 31 patients (mean 40.0% BSA) 3 months to <2 years old.
 VANOS Cream caused HPA-axis suppression in 1 patient in the twice daily group in Cohort 1, 2 patients in the twice daily group in Cohort 2, and 1 patient in the twice daily group in Cohort 3.
 Follow-up testing 14 days after treatment discontinuation, available for all 4 suppressed patients, demonstrated a normally responsive HPA axis.
 Signs of skin atrophy were present at baseline and severity was not determined making it difficult to assess local skin safety.

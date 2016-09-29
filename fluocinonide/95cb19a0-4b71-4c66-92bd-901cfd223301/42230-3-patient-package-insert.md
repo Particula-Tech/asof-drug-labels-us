@@ -1,6 +1,6 @@
-PATIENT INFORMATION VANOS® (VAN-ōs) (fluocinonide) Cream 0.1%
+PATIENT INFORMATION VANOS® (VAN-ōs) (fluocinonide) Cream, 0.1%
 
-Important: For skin use only.
+IMPORTANT: For skin use only.
 Do not get VANOS Cream in your eyes, mouth, or vagina.
 Not for use on the face, groin, or underarms.
 
@@ -35,7 +35,7 @@ Before using VANOS Cream, tell your doctor if you:
   It is not known if VANOS Cream passes into your breast milk.
   Talk to your doctor about the best way to feed your baby if you use Vanos Cream.
 
-Tell your doctor about all the medicine you take including prescriptions and non-prescriptions medicines, vitamins, and herbal supplements.
+Tell your doctor about all the medicine you take including prescriptions and nonprescriptions medicines, vitamins, and herbal supplements.
 Especially tell your doctor if you take a corticosteroid medicine by mouth or use other products on your skin that contain corticosteroids.
 Ask your doctor or pharmacist if you are not sure.
 
@@ -49,7 +49,7 @@ How should I use VANOS Cream?
 - •This medicine is for use on the skin only.
   Do not use VANOS Cream in your eyes, mouth or vagina.
 - •Wash your hands after you use VANOS Cream.
-- •Do not use VANOS Cream for longer than 2weeks in a row.
+- •Do not use VANOS Cream for longer than 2 weeks in a row.
 - •Talk to your doctor if your skin does not get better after 2 weeks of treatment with VANOS Cream.
 - •Do not bandage or cover the skin treated with VANOS Cream unless your doctor tells you to.
 
@@ -87,11 +87,11 @@ Ask your doctor or pharmacist for more information.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
-You may also report side effects to Medicis at 1-800-900-6389.
+You may also report side effects to Valeant Pharmaceuticals North America LLC at 1-800-321-4576.
 
 How should I store VANOS Cream?
 
-- •Store VANOS Cream at room temperature, between 59°F to 86°F (15°C to 30°C).
+- •Store VANOS Cream at room temperature, between 59° to 86°F (15° to 30°C).
 - •Keep the tube tightly closed.
 
 Keep VANOS Cream and all medicines out of the reach of children.
@@ -115,16 +115,15 @@ Inactive ingredients: propylene glycol, dimethyl isosorbide, glyceryl stearate (
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Manufactured for: Medicis, The Dermatology Company Scottsdale, AZ 85256
+Distributed by: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-Manufactured by: Contract Pharmaceuticals Ltd. Mississauga, Ontario Canada L5N 6L6
-
-Product of Italy
+Made in Canada
 
 U.S. Patents 6,765,001; 7,217,422; 7,220,424; 7,771,733; 7,794,738 and Patents Pending
 
-VANOS is a registered trademark of Medicis Pharmaceutical Corporation.
+Vanos is a trademark of Valeant Pharmaceuticals International, INC. or its affiliates. ©Valeant Pharmaceuticals International, Inc.
 
-Approved 03/2012
+Rev.
+08/2015
 
-05100253
+9481700
