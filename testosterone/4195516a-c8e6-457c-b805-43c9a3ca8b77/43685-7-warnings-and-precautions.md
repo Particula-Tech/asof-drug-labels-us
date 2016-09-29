@@ -17,11 +17,12 @@ Some studies, but not all, have reported an increased risk of MACE in associatio
 Patients should be informed of the possible risk when deciding whether to use or to continue to use testosterone cypionate.
 
 Testosterone has been subject to abuse, typically at doses higher than recommended for the approved indication and in combination with other anabolic steroids.
-This type of testosterone abuse can lead to serious cardiovascular and psychiatric adverse reactions [see Drug Abuse and Dependence].
+Anabolic androgenic steroid abuse can lead to serious cardiovascular and psychiatric adverse reactions [see Drug Abuse and Dependence].
 
 If testosterone abuse is suspected, check serum testosterone concentrations to ensure they are within therapeutic range.
-Counsel patients concerning the serious adverse reactions associated with testosterone and anabolic steroid abuse.
-Conversely, consider the possibility of testosterone and anabolic steroid abuse in patients who present with serious cardiovascular or psychiatric adverse events.
+However, testosterone levels may be in the normal or subnormal range in men abusing synthetic testosterone derivatives.
+Counsel patients concerning the serious adverse reactions associated with abuse of testosterone and anabolic steroids.
+Conversely, consider the possibility of testosterone and anabolic steroid abuse in suspected patients who present with serious cardiovascular or psychiatric adverse events.
 
 Edema, with or without congestive heart failure, may be a serious complication in patients with preexisting cardiac, renal or hepatic disease.
 
