@@ -1,11 +1,3 @@
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
-Roxane Laboratories, Inc.
-
-NDC 0054-3727-63
-
-# PRINCIPAL DISPLAY PANEL
-
-Roxane Laboratories, Inc.
-
-NDC 0054-3730-63
+# Package/Label Display Panel

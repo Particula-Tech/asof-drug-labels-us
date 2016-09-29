@@ -1,22 +1,25 @@
 # HOW SUPPLIED
 
-Propranolol Hydrochloride Oral Solution, 20 mg per 5 mL
+Propranolol Hydrochloride Oral Solution
 
-Clear, colorless, strawberry-mint flavored solution
+20 mg per 5 mL oral solution is supplied as a (strawberry-mint flavor) clear, colorless to slightly colored viscous solution.
 
-NDC 0054-3727-63: Bottles of 500 mL.
+NDC 0054-3727-63: Bottle of 500 mL
 
-Propranolol Hydrochloride Oral Solution, 40 mg per 5 mL
+40 mg per 5 mL oral solution is supplied as a (strawberry-mint flavor) clear, colorless to slightly colored, viscous solution.
 
-Clear, colorless, strawberry-mint flavored solution
-
-NDC 0054-3730-63: Bottles of 500 mL.
+NDC 0054-3730-63: Bottle of 500 mL
 
 ## Storage
 
-Store at 20°-25°C (68°-77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
-Dispense in a tight, light-resistant container as defined in USP/NF.
+Store at 20° to 25°C (68° to 77°F).
+[See USP Controlled Room Temperature.]
+Dispense in a tight, light-resistant, child-resistant container as defined in USP/NF.
 
-4071708//06 Revised January 2012
+Distr. by: West-Ward
 
-© RLI, 2012
+Pharmaceuticals Corp.
+
+Eatontown, NJ 07724
+
+4071708//07 Revised July 2016

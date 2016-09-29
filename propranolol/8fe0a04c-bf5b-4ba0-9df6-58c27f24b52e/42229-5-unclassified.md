@@ -78,7 +78,7 @@ Propranolol plasma clearance was also reduced in the patients with chronic renal
 Studies have reported a delayed absorption rate and a reduced half-life of propranolol in patients with renal failure of varying severity.
 Despite this shorter plasma half-life, propranolol peak plasma levels were 3 to 4 times higher and total plasma levels of metabolites were up to 3 times higher in these patients than in subjects with normal renal function.
 
-Chronic renal failure has been associated with a decrease in drug metabolism via downregulation of hepatic cytochrome P-450 activity resulting in a lower “first-pass” clearance.
+Chronic renal failure has been associated with a decrease in drug metabolism via down regulation of hepatic cytochrome P-450 activity resulting in a lower “first-pass” clearance.
 
 Propranolol is not significantly dialyzable.
 
