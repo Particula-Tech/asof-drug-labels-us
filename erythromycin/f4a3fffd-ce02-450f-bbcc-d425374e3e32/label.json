@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA050207"
+  ],
+  "inn": "erythromycin",
+  "labeler": "Wilshire Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "52536-134-13",
+    "52536-136-13"
+  ],
+  "products": [
+    {
+      "form": "GRANULE, FOR SUSPENSION",
+      "generic": "erythromycin ethylsuccinate",
+      "name": "Erythromycin Ethylsuccinate"
+    }
+  ],
+  "setid": "f4a3fffd-ce02-450f-bbcc-d425374e3e32",
+  "source": "dailymed"
+}
