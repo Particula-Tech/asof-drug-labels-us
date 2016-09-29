@@ -10,6 +10,8 @@ Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature]
 
 Manufactured By Perrigo, Minneapolis, MN 55427
 
-2200271 7H800 RC J1
+2200271
 
-Rev 06-13 A
+7H800 RC J2
+
+Rev 09-16 B

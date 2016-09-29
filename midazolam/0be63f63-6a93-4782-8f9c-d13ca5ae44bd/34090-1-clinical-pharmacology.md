@@ -32,7 +32,7 @@ In a study of an adult population 65 years and older, the preinduction administr
 
 ## Pharmacodynamics:
 
-### Absorption:
+Absorption:
 
 Midazolam is rapidly absorbed after oral administration and is subject to substantial intestinal and hepatic first-pass metabolism.
 The pharmacokinetics of midazolam and its major metabolite, α-hydroxymidazolam, and the absolute bioavailability of midazolam HCl syrup were studied in pediatric patients of different ages (6 months to <16 years old) over a 0.25 to 1 mg/kg dose range.
@@ -47,14 +47,30 @@ Food effect has not been tested using midazolam HCl syrup.
 When a 15 mg oral tablet of midazolam was administered with food to adults, the absorption and disposition of midazolam was not affected.
 Feeding is generally contraindicated prior to sedation of pediatric patients for procedures.
 
-### Distribution:
+| Table 1. Pharmacokinetics of MidazolamFollowing Single Dose Administration of Midazolam HCl Syrup |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Number of Subjects/age group | Dose(mg/kg) | Tmax(h) | Cmax(ng/mL) | T1/2(h) | AUC0-∞(ng•h/mL) |
+| 6 months to <2 years old |  |  |  |  |  |
+| 1 | 0.25 | 0.17 | 28.0 | 5.82 | 67.6 |
+| 1 | 0.50 | 0.35 | 66.0 | 2.22 | 152 |
+| 1 | 1.00 | 0.17 | 61.2 | 2.97 | 224 |
+| 2 to <12 years old |  |  |  |  |  |
+| 18 | 0.25 | 0.72 ± 0.44 | 63.0 ± 30.0 | 3.16 ± 1.50 | 138 ± 89.5 |
+| 18 | 0.50 | 0.95 ± 0.53 | 126 ± 75.8 | 2.71 ± 1.09 | 306 ± 196 |
+| 18 | 1.00 | 0.88 ± 0.99 | 201 ± 101 | 2.37 ± 0.96 | 743 ± 642 |
+| 12 to <16 years old |  |  |  |  |  |
+| 4 | 0.25 | 2.09 ± 1.35 | 29.1 ± 8.2 | 6.83 ± 3.84 | 155 ± 84.6 |
+| 4 | 0.50 | 2.65 ± 1.58 | 118 ± 81.2 | 4.35 ± 3.31 | 821 ± 568 |
+| 2 | 1.00 | 0.55 ± 0.28 | 191 ± 47.4 | 2.51 ± 0.18 | 566 ± 15.7 |
+
+Distribution:
 
 The extent of plasma protein binding of midazolam is moderately high and concentration independent.
 In adults and pediatric patients older than 1 year, midazolam is approximately 97% bound to plasma protein, principally albumin.
 In healthy volunteers, α-hydroxymidazolam is bound to the extent of 89%.
 In pediatric patients (6 months to <16 years) receiving 0.15 mg/kg IV midazolam, the mean steady-state volume of distribution ranged from 1.24 to 2.02 L/kg.
 
-### Metabolism:
+Metabolism:
 
 Midazolam is primarily metabolized in the liver and gut by human cytochrome P450 IIIA4 (CYP3A4) to its pharmacologic active metabolite, α-hydroxymidazolam, followed by glucuronidation of the α−hydroxyl metabolite which is present in unconjugated and conjugated forms in human plasma.
 The α- hydroxymidazolam glucuronide is then excreted in urine.
@@ -66,13 +82,13 @@ No significant amount of parent drug or metabolites is extractable from urine be
 
 Midazolam is also metabolized to two other minor metabolites: 4-hydroxy metabolite (about 3% of the dose) and 1,4-dihydroxy metabolite (about 1% of the dose) are excreted in small amounts in the urine as conjugates.
 
-### Elimination:
+Elimination:
 
 The mean elimination half-life of midazolam ranged from 2.2 to 6.8 hours following single oral doses of 0.25, 0.5, and 1 mg/kg of midazolam (midazolam HCl syrup).
 Similar results (ranged from 2.9 to 4.5 hours) for the mean elimination half-life were observed following IV administration of 0.15 mg/kg of midazolam to pediatric patients (6 months to <16 years old).
 In the same group of patients receiving the 0.15 mg/kg IV dose, the mean total clearance ranged from 9.3 to 11 mL/min/kg.
 
-### Pharmacokinetic-Pharmacodynamic Relationships:
+Pharmacokinetic-Pharmacodynamic Relationships:
 
 The relationship between plasma concentration and sedation and anxiolysis scores of oral midazolam syrup (single oral doses of 0.25, 0.5, or 1 mg/kg) was investigated in three age groups of pediatric patients (6 months to <2 years, 2 to <12 years, and 12 to <16 years old).
 In this study, the patient's sedation scores were recorded at baseline and at 10-minute intervals up to 30 minutes after oral dosing until satisfactory sedation ("drowsy" or "asleep but responsive to mild shaking" or "asleep and not responsive to mild shaking") was achieved.
@@ -81,50 +97,79 @@ The results of the analyses showed that the mean midazolam plasma concentration 
 The statistical analysis indicates that the greater the midazolam, or midazolam plus α−hydroxymidazolam concentration, the greater the maximum sedation score for pediatric patients.
 No such trend was observed between anxiolysis scores and the mean midazolam concentration or mean of midazolam plus α−hydroxymidazolam concentration; however, anxiolysis is a more variable surrogate measurement of clinical response.
 
-### Special Populations:
+Special Populations:
 
-#### Renal Impairment:
+Renal Impairment:
 
 Although the pharmacokinetics of intravenous midazolam in adult patients with chronic renal failure differed from those of subjects with normal renal function, there were no alterations in the distribution, elimination, or clearance of unbound drug in the renal failure patients.
 However, the effects of renal impairment on the active metabolite α−hydroxymidazolam are unknown.
 
-#### Hepatic Dysfunction:
+Hepatic Dysfunction:
 
 Chronic hepatic disease alters the pharmacokinetics of midazolam.
-Following oral administration of 15 mg of midazolam, Cmaxand bioavailability values were 43% and 100% higher, respectively, in adult patients with hepatic cirrhosis than adult subjects with normal liver function.
+Following oral administration of 15 mg of midazolam, Cmax and bioavailability values were 43% and 100% higher, respectively, in adult patients with hepatic cirrhosis than adult subjects with normal liver function.
 In the same patients with hepatic cirrhosis, following IV administration of 7.5 mg of midazolam, the clearance of midazolam was reduced by about 40% and the elimination half-life was increased by about 90% compared with subjects with normal liver function.
 Midazolam should be titrated for the desired effect in patients with chronic hepatic disease.
 
-#### Congestive Heart Failure:
+Congestive Heart Failure:
 
 Following oral administration of 7.5 mg of midazolam, elimination half-life values were 43% higher in adult patients with congestive heart failure than in control subjects.
 
-#### Neonates:
+Neonates:
 
 Midazolam HCl syrup has not been studied in pediatric patients less than 6 months of age.
 
-### Drug-Drug Interactions:
+Drug-Drug Interactions:
 
 See PRECAUTIONS: Drug Interactions.
 
-#### INHIBITORS OF CYP3A4 ISOZYMES:
+INHIBITORS OF CYP3A4 ISOZYMES:
 
 Table 2 summarizes the changes in the Cmax and AUC of midazolam when drugs known to inhibit CYP3A4 were concurrently administered with oral midazolam in adults subjects.
 
+| Table 2 |  |  |  |
+| --- | --- | --- | --- |
+| Interacting Drug | Adult Doses Studied | % Increase in Cmax of Oral Midazolam | % Increase in AUC of Oral Midazolam |
+| Cimetidine | 800-1200 mg up to qid in divided doses | 6-138 | 10-102 |
+| Diltiazem | 60 mg tid | 105 | 275 |
+| Erythromycin | 500 mg tid | 170-171 | 281-341 |
+| Fluconazole | 200 mg qd | 150 | 250 |
+| Grapefruit Juice | 200 mL | 56 | 52 |
+| Itraconazole | 100-200 mg qd | 80-240 | 240-980 |
+| Ketoconazole | 400 mg qd | 309 | 1490 |
+| Ranitidine | 150 mgbid or tid; 300 mg qd | 15-67 | 9-66 |
+| Roxithromycin | 300 mg qd | 37 | 47 |
+| Saquinavir | 1200 mg tid | 235 | 514 |
+| Verapamil | 80 mg tid | 97 | 192 |
+
 Other drugs known to inhibit the effects of CYP3A4, such as protease inhibitors, would be expected to have similar effects on these midazolam pharmacokinetic parameters.
 
-#### INDUCERS OF CYP3A4 ISOZYMES:
+INDUCERS OF CYP3A4 ISOZYMES:
 
 Table 3 summarizes the changes in the Cmax and AUC of midazolam when drugs known to induce CYP3A4 were concurrently administered with oral midazolam in adult subjects.
 The clinical significance of these changes is unclear.
+
+| Table 3. |  |  |  |
+| --- | --- | --- | --- |
+| Interacting Drug | Adult Doses Studied | % Decrease in Cmax of Oral Midazolam | % Decrease in AUC of Oral Midazolam |
+| Carbamazepine | Therapeutic Doses | 93 | 94 |
+| Phenytoin | Therapeutic Doses | 93 | 94 |
+| Rifampin | 600 mg/day | 94 | 96 |
 
 Although not tested, phenobarbital, rifabutin and other drugs known to induce the effects of CYP3A4 would be expected to have similar effects on these midazolam pharmacokinetic parameters.
 
 Drugs that did not affect midazolam pharmacokinetics are presented in Table 4.
 
+| Table 4. |  |
+| --- | --- |
+| Interacting Drug | Adult Doses Studied |
+| Azithromycin | 500 mg/day |
+| Nitrendipine | 20 mg |
+| Terbinafine | 200 mg/day |
+
 ## Clinical Trials:
 
-### Dose Ranging, Safety and Efficacy Study With Midazolam HCl Syrup in Pediatric Patients:
+Dose Ranging, Safety and Efficacy Study With Midazolam HCl Syrup in Pediatric Patients:
 
 The effectiveness of midazolam HCl syrup as a premedicant to sedate and calm pediatric patients prior to induction of general anesthesia was compared among three different doses in a randomized, double-blind, parallel-group study.
 Patients of ASA physical status I, II or III were stratified to 1 of 3 age groups (6 months to <2 years, 2 to <6 years, and 6 to <16 years), and within each age group randomized to 1 of 3 dosing groups (0.25, 0.5, and 1 mg/kg up to a maximum dose of 20 mg).
