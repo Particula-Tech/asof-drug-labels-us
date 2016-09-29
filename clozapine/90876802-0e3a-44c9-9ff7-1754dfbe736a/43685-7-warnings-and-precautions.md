@@ -54,7 +54,7 @@ Table 3 provides guidelines for managing CLOZARIL treatment and ANC monitoring i
 
 Table 3: Patients with Benign Ethnic Neutropenia (BEN); CLOZARIL Treatment Recommendations Based on Absolute Neutrophil Count (ANC) Monitoring
 
-| ANC Level | CLOZARIL Treatment Recommendations | ANC Monitoring |
+| ANC Level | Treatment Recommendations | ANC Monitoring |
 | --- | --- | --- |
 | Normal BEN Range (Established ANC baseline ≥1000/µL) | Obtain at least two baseline ANC levels before initiating treatmentIf treatment interrupted < 30 days, continue monitoring as before≥ 30 days, monitor as if new patient | Weekly from initiation to 6 monthsEvery 2 weeks from 6 to 12 monthsMonthly after 12 months |
 | Discontinuation of treatment for reasons other than neutropenia | See Section 2.4 |  |
@@ -118,7 +118,7 @@ Use CLOZARIL cautiously in patients with cardiovascular disease (history of myoc
 
 ## 5.4 Seizures
 
-Seizure has been estimated to occur in association with clozapine use at a cumulative incidence at 1 year of approximately 5%, based on the occurrence of 1 or more seizures in 61 of 1743 patients exposed to clozapine during its clinical testing prior to domestic marketing (i.e., a crude rate of 3.5%).
+Seizure has been estimated to occur in association with clozapine use at a cumulative incidence at one year of approximately 5%, based on the occurrence of one or more seizures in 61 of 1743 patients exposed to clozapine during its clinical testing prior to domestic marketing (i.e., a crude rate of 3.5%).
 The risk of seizure is dose-related.
 Initiate treatment with a low dose (12.5 mg), titrate slowly, and use divided dosing.
 
@@ -134,7 +134,7 @@ Generally, patients with a history of clozapine-associated myocarditis or cardio
 However, if the benefit of CLOZARIL treatment is judged to outweigh the potential risks of recurrent myocarditis or cardiomyopathy, the clinician may consider rechallenge with CLOZARIL in consultation with a cardiologist, after a complete cardiac evaluation, and under close monitoring.
 
 Consider the possibility of myocarditis or cardiomyopathy in patients receiving CLOZARIL who present with chest pain, dyspnea, persistent tachycardia at rest, palpitations, fever, flu-like symptoms, hypotension, other signs or symptoms of heart failure, or electrocardiographic findings (low voltages, ST-T abnormalities, arrhythmias, right axis deviation, and poor R wave progression).
-Myocarditis most frequently presents within the first 2 months of clozapine treatment.
+Myocarditis most frequently presents within the first two months of clozapine treatment.
 Symptoms of cardiomyopathy generally occur later than clozapine-associated myocarditis and usually after 8 weeks of treatment.
 However, myocarditis and cardiomyopathy can occur at any period during treatment with CLOZARIL.
 It is common for nonspecific flu-like symptoms such as malaise, myalgia, pleuritic chest pain, and low-grade fevers to precede more overt signs of heart failure.

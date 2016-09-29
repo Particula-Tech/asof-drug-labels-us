@@ -95,7 +95,7 @@ Adverse Reactions (≥2%) Reported in CLOZARIL-treated Patients (N=842) Across a
 | †Rate based on population of approximately 1700 exposed during premarket clinical evaluation of CLOZARIL. |  |
 
 Table 11 summarizes the most commonly reported adverse reactions (≥10% of the CLOZARIL or olanzapine group) in the InterSePT TM Study.
-This was an adequate and well-controlled, 2-year study evaluating the efficacy of CLOZARIL relative to olanzapine in reducing the risk of suicidal behavior in patients with schizophrenia or schizoaffective disorder.
+This was an adequate and well-controlled, two-year study evaluating the efficacy of CLOZARIL relative to olanzapine in reducing the risk of suicidal behavior in patients with schizophrenia or schizoaffective disorder.
 The rates are not adjusted for duration of exposure.
 
 Table 11.
@@ -103,15 +103,15 @@ Incidence of Adverse Reactions in Patients Treated with CLOZARIL or Olanzapine i
 
 | Adverse Reactions | CLOZARIL N=479 % Reporting | Olanzapine N=477 % Reporting |
 | --- | --- | --- |
-| Salivary hypersecretion | 48 | 6 |
-| Somnolence | 46 | 25 |
-| Weight increased | 31 | 56 |
-| Dizziness (excluding vertigo) | 27 | 12 |
-| Constipation | 25 | 10 |
-| Insomnia | 20 | 33 |
-| Nausea | 17 | 10 |
-| Vomiting | 17 | 9 |
-| Dyspepsia | 14 | 8 |
+| Salivary hypersecretion | 48% | 6% |
+| Somnolence | 46% | 25% |
+| Weight increased | 31% | 56% |
+| Dizziness (excluding vertigo) | 27% | 12% |
+| Constipation | 25% | 10% |
+| Insomnia | 20% | 33% |
+| Nausea | 17% | 10% |
+| Vomiting | 17% | 9% |
+| Dyspepsia | 14% | 8% |
 
 Dystonia
 
@@ -167,7 +167,7 @@ Aspiration, pleural effusion, pneumonia, lower respiratory tract infection.
 
 Hemic and Lymphatic System
 
-Mild, moderate, or severe leukopenia, agranulocytosis, granulocytopenia, WBC decreased, deep-vein thrombosis, elevated hemoglobin/hematocrit. erythrocyte sedimentation rate (ESR) increased, sepsis, thrombocytosis, and thrombocytopenia.
+Mild, moderate, or severe leukopenia, agranulocytosis, granulocytopenia, WBC decreased, deep-vein thrombosis, elevated hemoglobin/hematocrit, erythrocyte sedimentation rate (ESR) increased, sepsis, thrombocytosis, and thrombocytopenia.
 
 Vision Disorders
 

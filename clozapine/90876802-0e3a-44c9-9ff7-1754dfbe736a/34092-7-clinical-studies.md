@@ -8,7 +8,7 @@ There must have been no period of good functioning within the preceding 5 years.
 Patients must have had a baseline score of at least 45 on the investigator-rated Brief Psychiatric Rating Scale (BPRS).
 On the 18-item BPRS, 1 indicates the absence of symptoms, and 7 indicates severe symptoms; the maximum potential total BPRS score is 126.
 At baseline, the mean BPRS score was 61.
-In addition, patients must have had a score of at least 4 on at least 2 of the following 4 individual BPRS items: conceptual disorganization, suspiciousness, hallucinatory behavior, and unusual thought content.
+In addition, patients must have had a score of at least 4 on at least two of the following four individual BPRS items: conceptual disorganization, suspiciousness, hallucinatory behavior, and unusual thought content.
 Patients must have had a Clinical Global Impressions–Severity Scale score of at least 4 (moderately ill).
 
 In the prospective, lead-in phase of the trial, all patients (N=305) initially received single-blind treatment with haloperidol (the mean dose was 61 mg per day) for 6 weeks.
@@ -17,7 +17,7 @@ Patients with an inadequate response to haloperidol (n=268) were randomized to d
 The maximum daily CLOZARIL dose was 900 mg; the mean daily dose was >600 mg.
 The maximum daily chlorpromazine dose was 1800 mg; the mean daily dose was >1200 mg.
 
-The primary endpoint was treatment response, predefined as a decrease in BPRS score of at least 20% and either (1) a CGI-S score of <3 (mildly ill), or (2) a BPRS score of <35, at the end of 6 weeks of treatment.
+The primary endpoint was treatment response, predefined as a decrease in BPRS score of at least 20% and either (1) a CGI-S score of <3 (mildly ill), or (2) a BPRS score of ≤35, at the end of 6 weeks of treatment.
 Approximately 88% of patients from the CLOZARIL and chlorpromazine groups completed the 6-week trial.
 At the end of 6 weeks, 30% of the CLOZARIL group responded to treatment, and 4% of the chlorpromazine group responded to treatment.
 The difference was statistically significant (p <0.001).
@@ -31,10 +31,10 @@ This was a prospective, randomized, open-label, active-controlled, multicenter, 
 Only about one-fourth of these patients (27%) were considered resistant to standard antipsychotic drug treatment.
 To enter the trial, patients must have met one of the following criteria:
 
-- They had attempted suicide within the 3 years prior to their baseline evaluation.
-- They had been hospitalized to prevent a suicide attempt within the 3 years prior to their baseline evaluation.
-- They demonstrated moderate-to-severe suicidal ideation with a depressive component within 1 week prior to their baseline evaluation.
-- They demonstrated moderate-to-severe suicidal ideation accompanied by command hallucinations to do self-harm within 1 week prior to their baseline evaluation.
+- They had attempted suicide within the three years prior to their baseline evaluation.
+- They had been hospitalized to prevent a suicide attempt within the three years prior to their baseline evaluation.
+- They demonstrated moderate-to-severe suicidal ideation with a depressive component within one week prior to their baseline evaluation.
+- They demonstrated moderate-to-severe suicidal ideation accompanied by command hallucinations to do self-harm within one week prior to their baseline evaluation.
 
 Dosing regimens for each treatment group were determined by individual investigators and were individualized by patient.
 Dosing was flexible, with a dose range of 200–900 mg/day for CLOZARIL and 5–20 mg/day for olanzapine.
