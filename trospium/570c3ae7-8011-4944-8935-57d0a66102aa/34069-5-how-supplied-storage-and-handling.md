@@ -1,7 +1,10 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Trospium Chloride Tablets USP, 20 mg intended for oral administration are round, white film coated tablet, imprinted HP 530 in black on one side and plain on the reverse side.
+Trospium Chloride Tablets USP, 20 mg intended for oral administration are round, white to off-white, film coated tablets.
+Imprinted "HP" with black ink on one side and "530" on the reverse side.
 They are supplied as follows:
+
+Bottles of 60: NDC 23155-530-06
 
 Bottles of 200: NDC 23155-530-02
 

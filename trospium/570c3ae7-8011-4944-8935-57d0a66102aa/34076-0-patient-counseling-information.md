@@ -42,7 +42,7 @@ Eatontown, NJ 07724
 
 1.866.901.DRUG (3784)
 
-Revised: 05/2016
+Revised: 09/2016
 
 Patient Information Leaflet
 
@@ -160,6 +160,6 @@ Eatontown, NJ 07724
 
 1.866.901.DRUG (3784)
 
-51U000000240US02
+51U000000240US03
 
-Revised: 05/2016
+Revised: 09/2016
