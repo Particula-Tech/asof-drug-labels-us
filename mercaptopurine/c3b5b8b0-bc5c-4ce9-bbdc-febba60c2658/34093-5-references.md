@@ -21,7 +21,7 @@
    Med J Australia.
    1983;1:426-428.
 6. 6.Jones RB, Frank R, Mass T. Safe handling of chemotherapeutic agents: a report from the Mount Sinai Medical Center.
-   CA-A Cancer J for Clinicians.1983;33:258-263.
+   CA-ACancer J for Clinicians.1983;33:258-263.
 7. 7.American Society of Hospital Pharmacists.
    ASHP technical assistance bulletin on handling cytotoxic and hazardous drugs.
    Am J Hosp Pharm.1990;47:1033-1049.
@@ -30,6 +30,10 @@
    Am J Health-Syst Pharm.
    1996;53:1669-1685.
 
-10002106/06 Revised September 2012
+Distr. by: West-Ward
 
-© RLI, 2012
+Pharmaceuticals Corp.
+
+Eatontown, NJ 07724
+
+10002106/07 Revised August 2016

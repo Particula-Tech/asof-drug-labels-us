@@ -11,7 +11,7 @@ This may be manifest by anemia, leukopenia, thrombocytopenia, or any combination
 Any of these findings may also reflect progression of the underlying disease.
 In many patients with severe depression of the formed elements of the blood due to mercaptopurine, the bone marrow appears hypoplastic on aspiration or biopsy, whereas in other cases it may appear normocellular.
 The qualitative changes in the erythroid elements toward the megaloblastic series, characteristically seen with the folic acid antagonists and some other antimetabolites, are not seen with this drug.
-Life-threatening infections and bleeding have been observed as a consequence of mercaptopurine-induced granthrombocytopenia and thrombocytopenia.
+Life-threatening infections and bleeding have been observed as a consequence of mercaptopurine-induced granulocytopenia and thrombocytopenia.
 Since mercaptopurine may have a delayed effect, it is important to withdraw the medication temporarily at the first sign of an unexpected abnormally large fall in any of the formed elements of the blood, if not attributable to another drug or disease process.
 
 Individuals who are homozygous for an inherited defect in the TPMT (thiopurine-S-methyltransferase) gene are unusually sensitive to the myelosuppressive effects of mercaptopurine and prone to developing rapid bone marrow suppression following the initiation of treatment.
@@ -34,7 +34,7 @@ It is not clear how much of the hepatic damage is due to direct toxicity from th
 In some patients jaundice has cleared following withdrawal of mercaptopurine and reappeared with its reintroduction.
 
 Published reports have cited widely varying incidences of overt hepatotoxicity.
-In a large series of patients with various neoplastic diseases, mercaptopurine was administered orally in doses ranging from 2.5 mg/kg to 5.0 mg/kg without evidence of hepatotoxicity.
+In a large series of patients with various neoplastic diseases, mercaptopurine was administered orally in doses ranging from 2.5 mg/kg to 5 mg/kg without evidence of hepatotoxicity.
 It was noted by the authors that no definite clinical evidence of liver damage could be ascribed to the drug, although an occasional case of serum hepatitis did occur in patients receiving 6-MP who previously had transfusions.
 In reports of smaller cohorts of adult and pediatric leukemic patients, the incidence of hepatotoxicity ranged from 0% to 6%.
 In an isolated report by Einhorn and Davidsohn, jaundice was observed more frequently (40%), especially when doses exceeded 2.5 mg/kg.

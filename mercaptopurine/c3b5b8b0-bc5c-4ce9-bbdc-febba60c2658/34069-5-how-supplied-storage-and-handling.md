@@ -1,15 +1,13 @@
 # HOW SUPPLIED
 
-Mercaptopurine Tablets USP, 50 mg
+Mercaptopurine Tablets USP
 
-Pale yellow, biconvex, round, scored tablets
+50 mg supplied as pale yellow, biconvex tablets, with product identification “54 420” on one side and a score on the other side.
 
-(Identification 54 420)
+NDC 0054-4581-11: Bottle of 25 tablets
 
-NDC 0054-4581-11: Bottles of 25 tablets
+NDC 0054-4581-27: Bottle of 250 tablets
 
-NDC 0054-4581-27: Bottles of 250 tablets
-
-Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature.]
 Store in a dry place.
-Dispense in tight container as defined in the USP.
+Dispense in a tight, child-resistant container as defined in the USP/NF.

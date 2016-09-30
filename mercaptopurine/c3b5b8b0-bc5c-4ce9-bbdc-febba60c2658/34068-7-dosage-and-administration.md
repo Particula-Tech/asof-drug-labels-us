@@ -4,18 +4,18 @@
 
 Once a complete hematologic remission is obtained, maintenance therapy is considered essential.
 Maintenance doses will vary from patient to patient.
-The usual daily maintenance dose of Mercaptopurine Tablets is 1.5 to 2.5 mg/kg/day as a single dose.
-It is to be emphasized that in pediatric patients with acute lymphatic leukemia in remission, superior results have been obtained when Mercaptopurine Tablets have been combined with other agents (most frequently with methotrexate) for remission maintenance.
-Mercaptopurine Tablets should rarely be relied upon as a single agent for the maintenance of remissions induced in acute leukemia.
+The usual daily maintenance dose of mercaptopurine tablets is 1.5 to 2.5 mg/kg/day as a single dose.
+It is to be emphasized that in pediatric patients with acute lymphatic leukemia in remission, superior results have been obtained when mercaptopurine tablets have been combined with other agents (most frequently with methotrexate) for remission maintenance.
+Mercaptopurine tablets should rarely be relied upon as a single agent for the maintenance of remissions induced in acute leukemia.
 
 Procedures for proper handling and disposal of anticancer drugs should be considered.
 Several guidelines on this subject have been published.1-8 There is no general agreement that all of the procedures recommended in the guidelines are necessary or appropriate.
 
-## Dosage with concomitant Allopurinol
+## Dosage with Concomitant Allopurinol
 
 When allopurinol and mercaptopurine are administered concomitantly, the dose of mercaptopurine must be reduced to one-third to one-quarter of the usual dose to avoid severe toxicity.
 
-## Dosage in TPMT-deficient Patients
+## Dosage in TPMT-Deficient Patients
 
 Patients with inherited little or no thiopurine S-methyltransferase (TPMT) activity are at increased risk for severe mercaptopurine toxicity from conventional doses of mercaptopurine and generally require substantial dose reduction.
 The optimal starting dose for homozygous deficient patients has not been established (see CLINICAL PHARMACOLOGY, WARNINGS and PRECAUTIONS sections).
