@@ -9,7 +9,7 @@ When combined therapy with any of the above medications is considered, the dose 
 
 Deaths have been reported when methadone has been abused in conjunction with benzodiazepines.
 
-## 7.2 Drugs Affecting Cytochrome P450 Isoenzymes
+### 7.2 Drugs Affecting Cytochrome P450 Isoenzymes
 
 Methadone undergoes hepatic N-demethylation by cytochrome P450 (CYP) isoforms, principally CYP3A4, CYP2B6, CYP2C19, and to a lesser extent by CYP2C9 and CYP2D6 [see Clinical Pharmacology (12.3)].
 

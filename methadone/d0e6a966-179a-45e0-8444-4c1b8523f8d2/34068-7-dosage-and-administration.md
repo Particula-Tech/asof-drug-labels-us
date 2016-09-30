@@ -60,7 +60,7 @@ Always round the dose down, if necessary, to the appropriate methadone strength(
 
 Example conversion from a single opioid to methadone:
 
-Step 1: Sum the total daily dose of the opioid (in this case, Morphine Extended Release Tablets 50 mg twice daily)
+Step 1: Sum the total daily dose of the opioid (in this case, Morphine Extended Release Tablets 50 mg twice daily).
 
 50 mg Morphine Extended Release Tablets 2 times daily = 100 mg total daily dose of Morphine
 
@@ -68,17 +68,16 @@ Step 2: Calculate the approximate equivalent dose of methadone based on the tota
 
 100 mg total daily dose of Morphine x 15% (10% to 20% per Table 1) = 15 mg methadone daily
 
-Step 3: Calculate the approximate starting dose of methadone to be given every 12 hours.
-Round down, if necessary, to the appropriate methadone tablets strengths available.
-
-15 mg daily / 2 = 7.5 mg methadone every 12 hours
+1. Step 3: Calculate the approximate starting dose of methadone to be given every 12 hours.
+   Round down, if necessary, to the appropriate methadone tablets strengths available.
+2. 15 mg daily / 2 = 7.5 mg methadone every 12 hours
 
 Then 7.5 mg is rounded down to 5 mg methadone every 12 hours
 
 Close observation and frequent titration are warranted until pain management is stable on the new opioid.
 Monitor patients for signs and symptoms of opioid withdrawal or for signs of over-sedation/toxicity after converting patients to methadone.
 
-Conversion from Parenteral Methadone to Methadone: Use a conversion ratio of 1:2 mg for parenteral to oral methadone (e.g., 5 mg parenteral methadone to 10 mg oral methadone).
+Conversion from Parenteral Methadone to Methadone Hydrochloride Intensol™ (Oral Concentrate): Use a conversion ratio of 1:2 mg for parenteral to oral methadone (e.g., 5 mg parenteral methadone to 10 mg oral methadone).
 
 ## 2.3 Titration and Maintenance of Therapy for Pain
 
@@ -98,6 +97,9 @@ If unacceptable opioid-related adverse reactions are observed, the subsequent do
 Adjust the dose to obtain an appropriate balance between management of pain and opioid-related adverse reactions.
 
 ## 2.4 Discontinuation of Methadone for Pain
+
+When a patient no longer requires therapy with methadone for pain, use a gradual downward titration, of the dose every two to four days, to prevent signs and symptoms of withdrawal in the physically-dependent patient.
+Do not abruptly discontinue methadone.
 
 ## 2.5 Induction/Initial Dosing for Detoxification and Maintenance Treatment of Opioid Addiction
 
@@ -139,7 +141,7 @@ Apprise patients of the high risk of relapse to illicit drug use associated with
 
 ## 2.8 Risk of Relapse in Patients on Methadone Maintenance Treatment of Opioid Addiction
 
-Abrupt opioid discontinuation can lead to development of opioid withdrawal symptoms [see Drug Abuse and Dependence (9.3)].
+Abrupt opioid discontinuation can lead to development of opioid withdrawal symptoms [see Drug Abuse and Dependence(9.3)].
 Opioid withdrawal symptoms have been associated with an increased risk of relapse to illicit drug use in susceptible patients.
 
 ## 2.9 Considerations for Management of Acute Pain During Methadone Maintenance Treatment

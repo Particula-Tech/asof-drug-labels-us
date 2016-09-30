@@ -3,8 +3,7 @@
 ## 5.1 Addiction, Abuse and Misuse
 
 Methadone Hydrochloride Intensol™ contains methadone, a Schedule II controlled substance.
-As an opioid, methadone exposes users to the risks of addiction, abuse, and misuse [see Drug Abuse and Dependence (9)].
-As long-acting opioids such as methadone have pharmacological effects over an extended period of time, there is a greater risk for overdose and death.
+As an opioid, methadone exposes users to the risks of addiction, abuse, and misuse [see Drug Abuse and Dependence (9)].As long-acting opioids such as methadone have pharmacological effects over an extended period of time, there is a greater risk for overdose and death.
 
 Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed methadone and in those who obtain the drug illicitly.
 Addiction can occur at recommended doses and if the drug is misused or abused.
@@ -14,18 +13,18 @@ Risks are increased in patients with a personal or family history of substance a
 The potential for these risks should not, however, prevent the prescribing of methadone for the proper management of pain in any given patient.
 Patients at increased risk may be prescribed long-acting opioids such as methadone, but use in such patients necessitates intensive counseling about the risks and proper use of methadone along with the intensive monitoring for signs of addiction, abuse, and misuse.
 
-Abuse or misuse of methadone by crushing, chewing, snorting, or injecting the dissolved product will result in the uncontrolled delivery of the methadone and can result in overdose and death [see Overdosage (10)].
+Abuse or misuse of methadone by crushing, chewing, snorting, or injecting the dissolved product will result in the uncontrolled delivery of the methadone and can result in overdose and death [seeOverdosage (10)].
 
 Opioid agonists such as methadone are sought by drug abusers and people with addiction disorders and are subject to criminal diversion.
 Consider these risks when prescribing or dispensing methadone.
-Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity and advising the patient on the proper disposal of unused drug [see Patient Counseling Information (17)].
-Contact local state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
+Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity and advising the patient on the proper disposal of unused drug [seePatient Counseling Information (17)].Contact local state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
 
 ## 5.2 Life-Threatening Respiratory Depression
 
 Serious, life-threatening, or fatal respiratory depression has been reported with the use of long-acting opioids, even when used as recommended.
 Respiratory depression from opioid use, if not immediately recognized and treated, may lead to respiratory arrest and death.
-Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical status [seeOverdosage (10)].Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
+Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical status [see Overdosage (10)].
+Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
 
 While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of methadone, the risk is greatest during the initiation of therapy or following a dose increase.
 The peak respiratory depressant effect of methadone occurs later, and persists longer than the peak analgesic effect, especially during the initial dosing period.
