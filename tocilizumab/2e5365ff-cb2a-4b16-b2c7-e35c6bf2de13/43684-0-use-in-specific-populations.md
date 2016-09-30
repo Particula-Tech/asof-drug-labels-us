@@ -2,8 +2,6 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C.
-
 Pregnancy Exposure Registry
 
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ACTEMRA during pregnancy.
@@ -11,28 +9,45 @@ Physicians are encouraged to register patients and pregnant women are encouraged
 
 Risk Summary
 
-Adequate and well-controlled studies with ACTEMRA have not been conducted in pregnant women.
-In animal reproduction studies, administration of tocilizumab to cynomolgus monkeys during organogenesis caused abortion/embryo-fetal death at dose exposures 1.25 times the human dose exposure of 8 mg per kg every 2 to 4 weeks.
-The incidence of malformations and pregnancy loss in human pregnancies has not been established for ACTEMRA.
-However, all pregnancies, regardless of drug exposure, have a background rate of 2 to 4% for major malformations, and 15 to 20% for pregnancy loss.
-ACTEMRA should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+The limited available data with ACTEMRA in pregnant women are not sufficient to determine whether there is a drug-associated risk for major birth defects and miscarriage.
+Monoclonal antibodies, such as tocilizumab, are actively transported across the placenta during the third trimester of pregnancy and may affect immune response in the in utero exposed infant [see Clinical Considerations].
+In animal reproduction studies, intravenous administration of tocilizumab to Cynomolgus monkeys during organogenesis caused abortion/embryo-fetal death at doses 1.25 times and higher than the maximum recommended human dose by the intravenous route of 8 mg per kg every 2 to 4 weeks.
+The literature in animals suggests that inhibition of IL-6 signaling may interfere with cervical ripening and dilatation and myometrial contractile activity leading to potential delays of parturition [see Data].
+Based on the animal data, there may be a potential risk to the fetus.
+
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
 Clinical Considerations
 
-In general, monoclonal antibodies are transported across the placenta in a linear fashion as pregnancy progresses, with the largest amount transferred during the third trimester.
+Fetal/Neonatal adverse reactions
+
+Monoclonal antibodies are increasingly transported across the placenta as pregnancy progresses, with the largest amount transferred during the third trimester.
+Risks and benefits should be considered prior to administering live or live-attenuated vaccines to infants exposed to ACTEMRA in utero [see Warnings and Precautions (5.8)]
+
+Data
 
 Animal Data
 
-An embryo-fetal developmental toxicity study was performed in which pregnant cynomolgus monkeys were treated intravenously with tocilizumab (daily doses of 2, 10, or 50 mg per kg from gestation day 20-50) during organogenesis.
-Although there was no evidence for a teratogenic/dysmorphogenic effect at any dose, tocilizumab produced an increase in the incidence of abortion/embryo-fetal death at 10 mg per kg and 50 mg per kg doses (1.25 and 6.25 times the human dose of 8 mg per kg every 2 to 4 weeks based on a mg per kg comparison).
-Testing of a murine analogue of tocilizumab in mice did not yield any evidence of harm to offspring during the pre- and postnatal development phase when dosed at 50 mg per kg intravenously with treatment every three days from implantation until day 21 after delivery (weaning).
+An embryo-fetal developmental toxicity study was performed in which pregnant Cynomolgus monkeys were treated intravenously with tocilizumab at daily doses of 2, 10, or 50 mg/ kg during organogenesis from gestation day (GD) 20-50.
+Although there was no evidence for a teratogenic/dysmorphogenic effect at any dose, tocilizumab produced an increase in the incidence of abortion/embryo-fetal death at doses 1.25 times and higher the MRHD by the intravenous route at maternal intravenous doses of 10 and 50 mg/ kg.
+Testing of a murine analogue of tocilizumab in mice did not yield any evidence of harm to offspring during the pre- and postnatal development phase when dosed at 50 mg/kg intravenously with treatment every three days from implantation (GD 6) until post-partum day 21 (weaning).
 There was no evidence for any functional impairment of the development and behavior, learning ability, immune competence and fertility of the offspring.
 
-## 8.3 Nursing Mothers
+Parturition is associated with significant increases of IL-6 in the cervix and myometrium.
+The literature suggests that inhibition of IL-6 signaling may interfere with cervical ripening and dilatation and myometrial contractile activity leading to potential delays of parturition.
+For mice deficient in IL-6 (ll6-/- null mice), parturition was delayed relative to wild-type (ll6+/+) mice.
+Administration of recombinant IL-6 to ll6-/- null mice restored the normal timing of delivery.
 
-It is not known whether tocilizumab is present in human milk or if it would be absorbed systemically in a breastfed infant after ingestion.
-IgG is excreted in human milk and therefore it is expected that tocilizumab could be present in human milk.
-Because many drugs are excreted in human milk, and because of the potential for serious adverse reactions in nursing infants from ACTEMRA, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+## 8.2 Lactation
+
+Risk Summary
+
+No information is available on the presence of tocilizumab in human milk, the effects of the drug on the breastfed infant, or the effects of the drug on milk production.
+Maternal immunoglobulin G (IgG) is present in human milk.
+If tocilizumab is transferred into human milk, the effects of local exposure in the gastrointestinal tract and potential limited systemic exposure in the infant to tocilizumab are unknown.
+The lack of clinical data during lactation precludes clear determination of the risk of ACTEMRA to an infant during lactation; therefore the developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for ACTEMRA and the potential adverse effects on the breastfed child from tocilizumab or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 

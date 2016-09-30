@@ -27,3 +27,11 @@ Advise patients to consult their healthcare provider if the full dose is not rec
 
 A puncture-resistant container for disposal of needles and syringes should be used and should be kept out of the reach of children.
 Instruct patients or caregivers in the technique as well as proper syringe and needle disposal, and caution against reuse of these items.
+
+Pregnancy Exposure Registry
+
+Inform patients that there is a pregnancy registry to monitor fetal outcomes of pregnant women exposed to ACTEMRA [see Use in Specific Populations (8.1)].
+
+Pregnancy
+
+Inform female patients of reproductive potential that ACTEMRA may cause fetal harm and to inform their prescriber of a known or suspected pregnancy [see Use in Specific Populations (8.1)].

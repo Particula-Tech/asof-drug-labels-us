@@ -132,6 +132,10 @@ Both dosing groups of ACTEMRA demonstrated a greater improvement compared to the
 The mean change from baseline to week 52 in HAQ-DI was 0.6, 0.5, and 0.4 for ACTEMRA 8 mg per kg, ACTEMRA 4 mg per kg, and placebo treatment groups, respectively.
 Sixty-three percent (63%) and sixty percent (60%) of patients in the ACTEMRA 8 mg per kg and ACTEMRA 4 mg per kg treatment groups, respectively, achieved a clinically relevant improvement in HAQ-DI (change from baseline of ≥ 0.3 units) at week 52 compared to 53% in the placebo treatment group.
 
+Other Health-Related Outcomes
+
+General health status was assessed by the Short Form Health Survey (SF-36) in Studies I – V. Patients receiving ACTEMRA demonstrated greater improvement from baseline compared to placebo in the Physical Component Summary (PCS), Mental Component Summary (MCS), and in all 8 domains of the SF-36.
+
 ## 14.2 Rheumatoid Arthritis–Subcutaneous Administration
 
 The efficacy and safety of subcutaneously administered ACTEMRA was assessed in two double-blind, controlled, multicenter studies in patients with active RA.
@@ -185,6 +189,12 @@ These results are consistent with those observed in patients treated with intrav
 Health Related Outcomes
 
 In studies SC-I and SC-II, the mean decrease from baseline to week 24 in HAQ-DI was 0.6, 0.6, 0.4 and 0.3, and the proportion of patients who achieved a clinically relevant improvement in HAQ-DI (change from baseline of ≥ 0.3 units) was 65%, 67%, 58% and 47%, for the SC every week, IV 8 mg/kg, SC every other week, and placebo treatment groups, respectively.
+
+Other Health-Related Outcomes
+
+General health status was assessed by the SF-36 in Studies SC-I and SC-II.
+In Study SC-II, patients receiving ACTEMRA every other week demonstrated greater improvement from baseline compared to placebo in the PCS, MCS, and in all 8 domains of the SF-36.
+In Study SC-I, improvements in these scores were similar between ACTEMRA SC every week and ACTEMRA IV 8 mg/kg.
 
 ## 14.3 Polyarticular Juvenile Idiopathic Arthritis-Intravenous Administration
 

@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Tocilizumab binds specifically to both soluble and membrane-bound IL-6 receptors (sIL-6R and mIL-6R), and has been shown to inhibit IL-6-mediated signaling through these receptors.
+Tocilizumab binds to both soluble and membrane-bound IL-6 receptors (sIL-6R and mIL-6R), and has been shown to inhibit IL-6-mediated signaling through these receptors.
 IL-6 is a pleiotropic pro-inflammatory cytokine produced by a variety of cell types including T- and B-cells, lymphocytes, monocytes and fibroblasts.
 IL-6 has been shown to be involved in diverse physiological processes such as T-cell activation, induction of immunoglobulin secretion, initiation of hepatic acute phase protein synthesis, and stimulation of hematopoietic precursor cell proliferation and differentiation.
 IL-6 is also produced by synovial and endothelial cells leading to local production of IL-6 in joints affected by inflammatory processes such as rheumatoid arthritis.
