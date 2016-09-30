@@ -65,6 +65,7 @@ Never take SPORANOX® if you:
   - felodipine (such as Plendil®)
   - fesoterodine (such as Toviaz®) [if you also have pre-existing kidney or liver impairment]
   - irinotecan (such as Camptosar®)
+  - ivabradine (such as Corlanor®)
   - lovastatin (such as Mevacor®, Advicor®, Altocor™)
   - lurasidone (such as Latuda®)
   - methadone (such as Dolophine®)
@@ -191,4 +192,4 @@ Product of Ireland
 
 © Janssen Pharmaceuticals, Inc. 2001
 
-Printed in USA/ Revised: 04/2015
+Printed in USA/ Revised: 10/2016
