@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-Pramipexole Dihydrochloride Tablets
+Pramipexole Dihydrochloride Tablets (PRAM-i-PEX-ole dye-HYE-droe-KLOR-ide)
 
 Read this Patient Information before you start taking pramipexole dihydrochloride tablets and each time you get a refill.
 There may be new information.
@@ -165,4 +165,4 @@ Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
 Questions?
 1 (888)721-7115 www.glenmarkpharma.com/usa
 
-January 2016
+August 2016

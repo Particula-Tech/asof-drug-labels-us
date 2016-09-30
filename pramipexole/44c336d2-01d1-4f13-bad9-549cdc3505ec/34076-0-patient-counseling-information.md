@@ -38,9 +38,9 @@ Pregnancy
 
 Because the teratogenic potential of pramipexole has not been completely established in laboratory animals, and because experience in humans is limited, advise women to notify their physicians if they become pregnant or intend to become pregnant during therapy [see Use in Specific Populations (8.1)].
 
-Nursing Mothers
+Lactation
 
-Because of the possibility that pramipexole may be excreted in breast milk, advise women to notify their physicians if they intend to breast-feed or are breast-feeding an infant [see Use in Specific Populations (8.3)].
+Because of the possibility that pramipexole may be excreted in breast milk, advise women to notify their physicians if they intend to breast-feed or are breast-feeding an infant [see Use in Specific Populations (8.2)].
 
 Manufactured by:
 
@@ -53,4 +53,4 @@ Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
 Questions?
 1 (888)721-7115 www.glenmarkpharma.com/usa
 
-January 2016
+August 2016
