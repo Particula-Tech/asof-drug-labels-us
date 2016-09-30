@@ -130,7 +130,7 @@ Other side effects with montelukast sodium include:
 - allergic reactions [including swelling of the face, lips, tongue, and/or throat (which may cause trouble breathing or swallowing), hives and itching]
 - dizziness, drowsiness, pins and needles/numbness, seizures (convulsions or fits)
 - palpitations
-- nose bleed, stuffy nose, swelling (inflammation)of the lungs
+- nose bleed, stuffy nose, swelling (inflammation) of the lungs
 - heartburn, indigestion, inflammation of the pancreas, nausea, stomach or intestinal upset, vomiting
 - hepatitis
 - bruising, rash, severe skin reactions (erythema multiforme, Stevens-Johnson syndrome/toxic epidermal necrolysis) that may occur without warning
@@ -159,7 +159,7 @@ If you would like more information, talk to your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about montelukast sodium that is written for health professionals.
 For more information, call Citron Pharma LLC. at 1-855-5-CITRON (1-855-524-8766).
 What are the ingredients in montelukast sodium tablets and montelukast sodium chewable tablets?
-Active ingredient: montelukast sodium 4 mg and 5 mg chewable tablet: artificial cherry flavor, aspartame, croscarmellose sodium, ferric oxide, hydroxypropyl cellulose, magnesium stearate, mannitol, and microcrystalline cellulose.
+Active ingredient: montelukast sodium Inactive ingredients: 4 mg and 5 mg chewable tablet: artificial cherry flavor, aspartame, croscarmellose sodium, ferric oxide, hydroxypropyl cellulose, magnesium stearate, mannitol, and microcrystalline cellulose.
 People with Phenylketonuria: Montelukast sodium chewable tablets 4 mg contain 0.674 mg of phenylalanine, and montelukast sodium chewable tablets 5 mg contain 0.842 mg of phenylalanine.
 10 mg tablet: carnauba wax, croscarmellose sodium, hydroxypropyl cellulose, hypromellose, iron oxide red, iron oxide yellow, lactose monohydrate, magnesium stearate, microcrystalline cellulose, and titanium dioxide.
-Distributed by: Citron Pharma LLC Suite -1101 2 Tower Center Blvd East Brunswick NJ 08816 Code No.: DRUGS/AP/22/2009 Made in India Issued: 12/2015
+Distributed by: Citron Pharma LLC Suite -1101 2 Tower Center Blvd East Brunswick NJ 08816 Code No.: DRUGS/AP/22/2009 Made in India Revised: 04/2016

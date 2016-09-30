@@ -11,7 +11,7 @@ Information for Patients
 - Patients should be advised that, while using montelukast sodium, medical attention should be sought if short-acting inhaled bronchodilators are needed more often than usual, or if more than the maximum number of inhalations of short-acting bronchodilator treatment prescribed for a 24-hour period are needed.
 - Patients receiving montelukast sodium should be instructed not to decrease the dose or stop taking any other anti-asthma medications unless instructed by a physician.
 - Patients should be instructed to notify their physician if neuropsychiatric events occur while using montelukast sodium.
-- Patients with known aspirin sensitivity should be advised to continue avoidance of aspirin or non­steroidal anti-inflammatory agents while taking montelukast sodium.
+- Patients with known aspirin sensitivity should be advised to continue avoidance of aspirin or non-­steroidal anti-inflammatory agents while taking montelukast sodium.
 - Phenylketonuric patients should be informed that the 4 mg and 5 mg chewable tablets contain phenylalanine (a component of aspartame).
 
-Distributed by: Citron Pharma LLC Suite -1101 2 Tower Center Blvd East Brunswick NJ 08816 Code No.: DRUGS/AP/22/2009 Made in India Issued: 12/2015
+Distributed by: Citron Pharma LLC Suite -1101 2 Tower Center Blvd East Brunswick NJ 08816 Code No.: DRUGS/AP/22/2009 Made in India Revised: 04/2016

@@ -64,7 +64,7 @@ Adults and Adolescents 15 Years of Age and Older with Perennial Allergic Rhiniti
 Montelukast sodium administered once daily had a safety profile consistent with that observed in patients with seasonal allergic rhinitis and similar to that of placebo.
 In these two studies, the following events were reported with montelukast sodium with a frequency ≥1% and at an incidence greater than placebo: sinusitis, upper respiratory infection, sinus headache, cough, epistaxis, and increased ALT.
 The incidence of somnolence was similar to that of placebo.
-Pediatric Patients 2 years to 14 Years of Age with Perennial Allergic Rhinitis The safety in patients 2 to 14 years of age with perennial allergic rhinitis is supported by the safety in patients 2 to 14 years of age with seasonal allergic rhinitis.
+Pediatric Patients 2 Years to 14 Years of Age with Perennial Allergic Rhinitis The safety in patients 2 to 14 years of age with perennial allergic rhinitis is supported by the safety in patients 2 to 14 years of age with seasonal allergic rhinitis.
 
 ## 6.2 Post-Marketing Experience
 

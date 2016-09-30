@@ -68,7 +68,7 @@ The effect of montelukast sodium on the bronchoconstrictor response to aspirin o
 
 ## 14.2 Exercise-Induced Bronchoconstriction (EIB)
 
-Exercise-Induced Bronchoconstriction (Adults, and Adolescents, and Pediatric Patients 6 years of age and older) The efficacy of montelukast 10 mg, when given as a single dose 2 hours before exercise for the prevention of EIB was investigated in three (U.S. and Multinational), randomized, double-blind, placebo­-controlled crossover studies that included a total of 160 adult and adolescent patients 15 years of age and older with EIB.
+Exercise-Induced Bronchoconstriction (Adults, Adolescents, and Pediatric Patients 6 years of age and older) The efficacy of montelukast 10 mg, when given as a single dose 2 hours before exercise for the prevention of EIB was investigated in three (U.S. and Multinational), randomized, double-blind, placebo­-controlled crossover studies that included a total of 160 adult and adolescent patients 15 years of age and older with EIB.
 Exercise challenge testing was conducted at 2 hours, 8.5 or 12 hours, and 24 hours following administration of a single dose of study drug (montelukast 10 mg or placebo).
 The primary endpoint was the mean maximum percent fall in FEV1 following the 2 hours post-dose exercise challenge in all three studies (Study A, Study B, and Study C). In Study A, a single dose of montelukast 10 mg demonstrated a statistically significant protective benefit against EIB when taken 2 hours prior to exercise.
 Some patients were protected from EIB at 8.5 and 24 hours after administration; however, some patients were not.

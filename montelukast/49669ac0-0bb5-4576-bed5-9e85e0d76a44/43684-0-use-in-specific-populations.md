@@ -25,8 +25,7 @@ Efficacy of montelukast sodium in this age group is extrapolated from the demons
 Efficacy in this age group is supported by exploratory efficacy assessments from a large, well-controlled safety study conducted in patients 2 to 5 years of age.
 The safety of montelukast chewable tablets 4 mg and 5 mg in pediatric patients aged 2 to 14 years with allergic rhinitis is supported by data from studies conducted in pediatric patients aged 2 to 14 years with asthma.
 A safety study in pediatric patients 2 to 14 years of age with seasonal allergic rhinitis demonstrated a similar safety profile [see Adverse Reactions (6.1)].
-The safety and effectiveness in pediatric patients below the age of 12 months with asthma, 6 months with perennial allergic rhinitis, and 6 years with exercise-induced bronchoconstriction have not been established.
-Growth Rate in Pediatric Patients A 56-week, multi-center, double-blind, randomized, active- and placebo-controlled parallel group study was conducted to assess the effect of montelukast sodium on growth rate in 360 patients with mild asthma, aged 6 to 8 years.
+The safety and effectiveness in pediatric patients below the age of 12 months with asthma, 6 months with perennial allergic rhinitis, and 6 years with exercise-induced bronchoconstriction have not been established Growth Rate in Pediatric Patients A 56-week, multi-center, double-blind, randomized, active- and placebo-controlled parallel group study was conducted to assess the effect of montelukast sodium on growth rate in 360 patients with mild asthma, aged 6 to 8 years.
 Treatment groups included montelukast 5 mg once daily, placebo, and beclomethasone dipropionate administered as 168 mcg twice daily with a spacer device.
 For each subject, a growth rate was defined as the slope of a linear regression line fit to the height measurements over 56 weeks.
 The primary comparison was the difference in growth rates between montelukast sodium and placebo groups.
