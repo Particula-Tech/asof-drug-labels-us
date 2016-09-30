@@ -2,7 +2,7 @@
 
 The following serious adverse reactions have been associated with TRISENOX in clinical trials and are discussed in greater detail in other sections of the label.
 
-- •APL Differentiation Syndrome[see Warnings and Precautions (5.1)]
+- •APL Differentiation Syndrome [see Warnings and Precautions (5.1)]
 - •Cardiac Conduction Abnormalities: Torsade de Pointes, Complete Heart Block, and QT Prolongation [see Warnings and Precautions (5.2)]
 - •Carcinogenesis [see Warnings and Precautions (5.3)]
 - •Embryo-Fetal Toxicity [see Warnings and Precautions (5.4)]

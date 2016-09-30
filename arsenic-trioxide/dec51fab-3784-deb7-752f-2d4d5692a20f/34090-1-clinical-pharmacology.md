@@ -10,8 +10,8 @@ Arsenic trioxide also causes damage or degradation of the fusion protein promyel
 
 Cardiac Electrophysiology
 
-A dedicated QTc study was not performed with Trisenox.
-However, in a single arm trial of Trisenox (0.15 mg/kg daily), 16 of 40 patients (40%) had a QTc interval greater than 500 msec.
+A dedicated QTc study was not performed with TRISENOX.
+However, in a single arm trial of TRISENOX (0.15 mg/kg daily), 16 of 40 patients (40%) had a QTc interval greater than 500 msec.
 Prolongation of the QTc was observed between 1 and 5 weeks after TRISENOX infusion, and then returned towards baseline by the end of 8 weeks after TRISENOX infusion.
 
 ## 12.3 Pharmacokinetics
@@ -38,7 +38,7 @@ Metabolism
 
 Much of the AsIII is distributed to the tissues where it is methylated to the less cytotoxic metabolites, monomethylarsonic acid (MMAV) and dimethylarsinic acid (DMAV) by methyltransferases primarily in the liver.
 The metabolism of arsenic trioxide also involves oxidation of AsIII to AsV, which may occur in numerous tissues via enzymatic or nonenzymatic processes.
-AsV is present in plasma only at relatively low levelsfollowing administration of arsenic trioxide.
+AsV is present in plasma only at relatively low levels following administration of arsenic trioxide.
 
 Excretion
 
@@ -54,7 +54,7 @@ Patients were classified as having normal renal function (creatinine clearance [
 Following twice weekly administration of 0.15 mg/kg over a 2-hour infusion, the mean AUC0-∞ for AsIII was comparable among the normal, mild and moderate renal impairment groups.
 However, in the severe renal impairment group, the mean AUC0-∞ for AsIII was approximately 48% higher than that in the normal group.
 
-Systemic exposure to MMAV and DMAV tended to be larger in patients with renalimpairment; however, the clinical consequences of this increased exposure are not known.
+Systemic exposure to MMAV and DMAV tended to be larger in patients with renal impairment; however, the clinical consequences of this increased exposure are not known.
 AsV plasma levels were generally below the limit of assay quantitation in patients with impaired renal function [see Use in Specific Populations (8.6)].
 The use of arsenic trioxide in patients on dialysis has not been studied.
 
@@ -64,11 +64,11 @@ The effect of pharmacokinetics of AsIII, AsV, and the pentavalent metabolites MM
 Patients were classified as having normal hepatic function (n=4), mild hepatic impairment (Child-Pugh class A, n=12), moderate hepatic impairment (Child-Pugh class B, n=3), or severe hepatic impairment (Child-Pugh class C, n=1).
 No clear trend toward an increase in systemic exposure to AsIII, AsV, MMAV or DMAV was observed with decreasing level of hepatic function as assessed by dose-normalized (per mg dose) AUC in the mild and moderate hepatic impairment groups.
 However, the one patient with severe hepatic impairment had mean dose-normalized AUC0‑24 and Cmax values 40% and 70% higher, respectively, than those patients with normal hepatic function.
-The mean dose-normalized trough plasma levels for both MMAV and DMAV in this severely hepatically impaired patient were 2.2-fold and 4.7-fold higher, respectively, than those in the patients with normal hepatic function [seeUse in Specific Populations (8.7)].
+The mean dose-normalized trough plasma levels for both MMAV and DMAV in this severely hepatically impaired patient were 2.2-fold and 4.7-fold higher, respectively, than those in the patients with normal hepatic function [see Use in Specific Populations (8.7)].
 
 Pediatric Patients
 
-Following IV administration of 0.15 mg/kg/day of arsenic trioxide in 10 APL patients (median age = 13.5 years, range 4-20 years), the daily exposure to AsIII (mean AUC0-24h) was 317 ng·hr/mL on Day 1 of Cycle 1 [seeUse in Specific Populations (8.4)].
+Following IV administration of 0.15 mg/kg/day of arsenic trioxide in 10 APL patients (median age = 13.5 years, range 4-20 years), the daily exposure to AsIII (mean AUC0-24h) was 317 ng·hr/mL on Day 1 of Cycle 1 [see Use in Specific Populations (8.4)].
 
 Drug Interactions
 

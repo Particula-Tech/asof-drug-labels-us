@@ -5,8 +5,7 @@
 Nine of 40 patients with APL treated with TRISENOX, at a dose of 0.15 mg/kg, experienced the APL differentiation syndrome.
 High-dose steroids have been administered at the first suspicion of the APL differentiation syndrome and appear to mitigate signs and symptoms.
 At the first signs that could suggest the syndrome (unexplained fever, dyspnea and/or weight gain, abnormal chest auscultatory findings or radiographic abnormalities), high-dose steroids (dexamethasone 10 mg intravenously BID) should be immediately initiated, irrespective of the leukocyte count, and continued for at least 3 days or longer until signs and symptoms have abated.
-The majority of patients do not require termination of TRISENOX therapy during treatment of the APL differentiation syndrome.
-[see Adverse Reactions (6)].
+The majority of patients do not require termination of TRISENOX therapy during treatment of the APL differentiation syndrome [see Adverse Reactions (6)].
 
 ## 5.2 Cardiac Conduction Abnormalities: Torsade de Pointes, Complete Heart Block, and QT Prolongation
 
@@ -17,7 +16,7 @@ Prolongation of the QTc was observed between 1 and 5 weeks after TRISENOX infusi
 
 Prior to initiating therapy with TRISENOX, a 12-lead ECG should be performed and serum electrolytes (potassium, calcium, and magnesium) and creatinine should be assessed.
 Preexisting electrolyte abnormalities should be corrected and, if possible, drugs that are known to prolong the QT interval should be discontinued.
-If it’s not possible to discontinue the interacting drug, perform cardiac monitoring frequently [see Drug Interactions (7)].
+If it is not possible to discontinue the interacting drug, perform cardiac monitoring frequently [see Drug Interactions (7)].
 
 Monitor ECG weekly, and more frequently for clinically unstable patients.
 
@@ -39,7 +38,7 @@ TRISENOX can cause fetal harm when administered to a pregnant woman.
 Arsenic trioxide was embryolethal and teratogenic in rats when administered on gestation day 9 at a dose approximately 10 times the recommended human daily dose on a mg/m² basis.
 A related trivalent arsenic, sodium arsenite, produced teratogenicity when administered during gestation in mice at a dose approximately 5 times the projected human dose on a mg/m² basis and in hamsters at an intravenous dose approximately equivalent to the projected human daily dose on a mg/m² basis.
 Advise pregnant women of the potential risk to a fetus.
-Advise females and males of reproductive potential to use effective contraception during and after treatment with TRISENOX [seeUse in Specific Populations (8.1,8.3)].
+Advise females and males of reproductive potential to use effective contraception during and after treatment with TRISENOX [see Use in Specific Populations (8.1,8.3)].
 
 ## 5.5 Laboratory Tests
 

@@ -49,7 +49,7 @@ Males with female sexual partners of reproductive potential should use effective
 There are limited clinical data on the pediatric use of TRISENOX.
 Of 5 patients below the age of 18 years (age range: 5 to 16 years) treated with TRISENOX, at the recommended dose of 0.15 mg/kg/day, 3 achieved a complete response.
 
-In an additional study, the toxicity profile observed in 13 pediatric patients with APL between the ages of 4 and 20 receiving TRISENOX at 0.15 mg/kg/day was similar to that observed in adult patients [seeAdverse Reactions(6.1)].
+In an additional study, the toxicity profile observed in 13 pediatric patients with APL between the ages of 4 and 20 receiving TRISENOX at 0.15 mg/kg/day was similar to that observed in adult patients [see Adverse Reactions(6.1)].
 No children less than 4 years of age were enrolled in the trial due to the rarity of APL in this age group.
 
 ## 8.5 Geriatric Use
@@ -59,12 +59,12 @@ Monitor elderly patients closely, reflecting the greater frequency of decreased 
 
 ## 8.6 Patients with Renal Impairment
 
-Exposure of arsenic trioxide may be higher in patients with severe renal impairment [seeClinical Pharmacology(12.3)].
+Exposure of arsenic trioxide may be higher in patients with severe renal impairment [see Clinical Pharmacology(12.3)].
 Patients with severe renal impairment (creatinine clearance less than 30 mL/min) should be monitored for toxicity when these patients are treated with TRISENOX, and a dose reduction may be warranted.
 
 The use of TRISENOX in patients on dialysis has not been studied.
 
 ## 8.7 Patients with Hepatic Impairment
 
-Since limited data are available across all hepatic impairment groups, caution is advised in the use of TRISENOX in patients with hepatic impairment [seeClinical Pharmacology(12.3)].
+Since limited data are available across all hepatic impairment groups, caution is advised in the use of TRISENOX in patients with hepatic impairment [see Clinical Pharmacology(12.3)].
 Monitor patients with severe hepatic impairment (Child-Pugh Class C) who are treated with TRISENOX for toxicity.

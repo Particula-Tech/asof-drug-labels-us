@@ -4,7 +4,7 @@
 
 ## Trisenox® (arsenic trioxide) Injection 1 mg/mL, 10 x 10 mL Ampules Carton Text
 
-NDC 63459-600-10 10 x 10 mL ampules
+1. NDC 63459-600-10 10 x 10 mL ampules
 
 Trisenox® (arsenic trioxide) injection
 

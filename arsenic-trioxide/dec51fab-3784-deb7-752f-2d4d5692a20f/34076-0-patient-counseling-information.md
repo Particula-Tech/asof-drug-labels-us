@@ -12,7 +12,7 @@
   Most patients in clinical trials experienced some drug-related toxicity, most commonly leukocytosis, gastrointestinal symptoms (nausea, vomiting, diarrhea, and abdominal pain), fatigue, edema, hyperglycemia, dyspnea, cough, rash or itching, headaches, and dizziness.
   These adverse reactions have not been observed to be permanent or irreversible, nor do they usually require interruption of therapy.
   Advise patients to call their physician at the onset of any treatment-related adverse reactions.
-- •Embryo-Fetal Toxicity Advise females of reproductive potential of the potential risk to a fetus and to inform their healthcare provider with a known or suspected pregnancy [see Warnings and Precautions 5.5 and Use in Specific Populations 8.1)].
+- •Embryo-Fetal Toxicity Advise females of reproductive potential of the potential risk to a fetus and to inform their healthcare provider with a known or suspected pregnancy [see Warnings and Precautions 5.4 and Use in Specific Populations 8.1)].
   Advise females and males of reproductive potential to use effective contraception during and after treatment with TRISENOX [see Use in Specific Populations (8.3)].
 - •Lactation Advise females to discontinue breastfeeding during treatment with TRISENOX [see Use in Specific Populations (8.2)].
 
@@ -26,8 +26,8 @@ North Wales, PA 19454
 
 TRISENOX is a trademark of Cephalon, Inc. or its affiliates.
 
-©2000-2015 Cephalon, Inc., a wholly-owned subsidiary of Teva Pharmaceutical Industries Ltd, or its affiliates.
+©2000-2016 Cephalon, Inc., a wholly-owned subsidiary of Teva Pharmaceutical Industries Ltd, or its affiliates.
 
 All rights reserved.
 
-TRI-008
+TRI-009
