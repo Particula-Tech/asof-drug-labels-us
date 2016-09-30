@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA207326"
+  ],
+  "inn": "paclitaxel",
+  "labeler": "Gland Pharma Limited",
+  "package_ndcs": [
+    "68083-178-01",
+    "68083-179-01",
+    "68083-180-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "paclitaxel",
+      "name": "PACLITAXEL"
+    }
+  ],
+  "setid": "fec9ddee-53a9-4a61-ad0a-be6b604de084",
+  "source": "dailymed"
+}
