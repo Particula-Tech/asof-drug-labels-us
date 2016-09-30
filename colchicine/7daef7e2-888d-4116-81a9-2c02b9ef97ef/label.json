@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA204711"
+  ],
+  "inn": "colchicine",
+  "labeler": "Amneal Pharmaceuticals of New York, LLC",
+  "package_ndcs": [
+    "65162-710-03",
+    "65162-710-09",
+    "65162-710-11"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "colchicine",
+      "name": "Colchicine"
+    }
+  ],
+  "setid": "7daef7e2-888d-4116-81a9-2c02b9ef97ef",
+  "source": "dailymed"
+}
