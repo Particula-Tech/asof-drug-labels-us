@@ -34,9 +34,9 @@ If the administration port protector is damaged, detached, or not present, disca
 Caution: Do not use plastic containers in series connections.
 Such use could result in air embolism due to residual air being drawn from the primary container before administration of the fluid from the secondary container is completed.
 
-1. Suspend container from eyelet support.
-2. Remove plastic protector from administration port at bottom of container.
-3. Attach administration set.
+1. 1.Suspend container from eyelet support.
+2. 2.Remove plastic protector from administration port at bottom of container.
+3. 3.Attach administration set.
    Refer to complete directions accompanying set.
 
 Table 2.
@@ -80,12 +80,9 @@ Infusion Rate (mL/hr) of Dobutamine Hydrochloride in 5% Dextrose Injection.
 | 17.5 | 1.3 | 2.6 | 5.3 | 7.9 | 11 | 13 | 16 | 18 | 21 | 24 | 26 | 29 |
 | 20 | 1.5 | 3.0 | 6.0 | 9.0 | 12 | 15 | 18 | 21 | 24 | 27 | 30 | 33 |
 
-BAXTER, AND VIAFLEX ARE TRADEMARKS OF BAXTER INTERNATIONAL INC.
-
-©Copyright 1991, 1993, Baxter Healthcare Corporation.
-All rights reserved.
+Baxter, and Viaflex are trademarks of Baxter International Inc.
 
 Baxter Healthcare Corporation Deerfield, IL 60015 USA Printed in USA
 
-7-19-72-996 Rev.
-April 2014
+07-19-76-569 Rev.
+February 2016
