@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA017010"
+  ],
+  "inn": "desonide",
+  "labeler": "Encore Dermatology Inc",
+  "package_ndcs": [
+    "69482-600-60"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "desonide 0.05%",
+      "name": "Tridesilon Cream"
+    }
+  ],
+  "setid": "30d60cbc-fba8-7209-e054-00144ff8d46c",
+  "source": "dailymed"
+}
