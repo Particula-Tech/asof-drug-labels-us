@@ -1,14 +1,13 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-AVAGE® Cream is a white cream and contains the compound tazarotene; this formulation of tazarotene cream is also marketed for the treatment of plaque psoriasis and acne vulgaris as TAZORAC® (tazarotene) Cream, 0.1%.
-Tazarotene is a member of the acetylenic class of retinoids and is represented by the following structural formula:
+AVAGE Cream, 0.1% is for topical use and contains the active ingredient, tazarotene.
+Each gram of AVAGE Cream, 0.1% contains 1 mg of tazarotene in a white cream base.
 
-Formula: C21H21NO2S Molecular Weight: 351.46 Chemical Name: Ethyl 6-[2-(4,4-dimethylthiochroman-6-yl)ethynyl] nicotinate
+Tazarotene is a member of the acetylenic class of retinoids.
+Chemically, tazarotene is
 
-## Contains:
+ethyl 6-[2-(4,4-dimethylthiochroman-6-yl)ethynyl] nicotinate.
+The compound has an empirical formula of C21H21NO2S and molecular weight of 351.46.
+The structural formula is shown below:
 
-Active: Tazarotene 0.1% (w/w)
-
-Preservative: Benzyl alcohol 1% (w/w)
-
-Inactives: carbomer homopolymer type B; carbomer 1342; edetate disodium; medium chain triglycerides; mineral oil; purified water; sodium thiosulfate; sorbitan monooleate and sodium hydroxide to adjust pH.
+AVAGE Cream contains the following inactive ingredients: benzyl alcohol 1%, carbomer homopolymer type B; carbomer 1342, edetate disodium, medium chain triglycerides, mineral oil, purified water, sodium thiosulfate, sorbitan monooleate, and sodium hydroxide to adjust pH.
