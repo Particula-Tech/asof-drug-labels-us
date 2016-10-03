@@ -1,9 +1,15 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1Use with Other CNS Depressants
+## 7.1 Use with Other CNS Depressants
 
-If is coadministered with other psychotropic agents or anticonvulsant drugs, carefully consider the pharmacology of the agents to be employed, particularly with compounds which might potentiate the action of benzodiazepines.
-The benzodiazepines, including alprazolam, produce additive CNS depressant effects when co-administered with other psychotropic medications, anticonvulsants, antihistaminics, alcohol and other drugs which themselves produce CNS depression.
+The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration.
+Benzodiazepines interact at GABAA sites and opioids interact primarily at mu receptors.
+When benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory depression exists.
+
+Limit dosage and duration of concomitant use of benzodiazepines and opioids, and monitor patients closely for respiratory depression and sedation.
+
+If alprazolam is coadministered with other psychotropic agents or anticonvulsant drugs, carefully consider the pharmacology of the agents to be employed, particularly with compounds which might potentiate the action of benzodiazepines.
+The benzodiazepines, including alprazolam, produce additive CNS depressant effects when coadministered with other psychotropic medications, anticonvulsants, antihistaminics, alcohol and other drugs which themselves produce CNS depression.
 
 ## 7.2 Drugs Effecting Salivary Flow and Stomach pH
 
@@ -17,9 +23,9 @@ The clinical significance of these changes is unknown.
 ## 7.4 Drugs that Inhibit Alprazolam Metabolism via Cytochrome P450 3A
 
 The initial step in alprazolam metabolism is hydroxylation catalyzed by cytochrome P450 3A (CYP3A).
-Drugs which inhibit this metabolic pathway can have a profound effect on the clearance of alprazolam [see CONTRAINDICATIONS (4) andWarnings and Precautions (5.7)].
+Drugs which inhibit this metabolic pathway can have a profound effect on the clearance of alprazolam [see CONTRAINDICATIONS (4) and Warnings and Precautions (5.7)].
 
-## 7.5 Drugs Demonstrated to be CYP3A Inhibitors of Possible Clinical Significance on the Basis of Clinical Studies Involving Alprazolam
+## 7.5 Drugs Demonstrated to be CYP3A Inhibitors of Possible Clinical Significance on the Basis of Clinical Studies Involving Alprazolam (caution is recommended during coadministration with alprazolam)
 
 Use caution during coadministration alprazolam and the following drugs:
 
@@ -39,6 +45,6 @@ However, data from an in vivo drug interaction study involving a single dose of 
 Data from in vitro studies of benzodiazepines other than alprazolam suggest a possible drug interaction between benzodiazepines and the following: ergotamine, cyclosporine, amiodarone, nicardipine, and nifedipine.
 [see Warnings and Precautions (5.7)].
 
-## 7.7 Inducers of CYP3A
+## 7.7 Drugs Demonstrated to be Inducers of CYP3A
 
 Carbamazepine can increase alprazolam metabolism and therefore can decrease plasma levels of alprazolam.

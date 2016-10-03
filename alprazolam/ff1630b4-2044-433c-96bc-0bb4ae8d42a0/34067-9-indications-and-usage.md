@@ -1,8 +1,8 @@
 # 1 INDICATIONS AND USAGE
 
-## 1.1 Generalized Anxiety Disorder
+## 1.1 Generalized Anxiety Disorders
 
-Alprazolam is indicated for the treatment of generalized anxiety disorder.
+Alprazolam Orally Disintegrating Tablets, USP is indicated for the treatment of generalized anxiety disorder.
 
 The efficacy of alprazolam in the treatment of generalized anxiety disorder was demonstrated in 5 short-term, placebo-controlled trials.
 [see Clinical Studies (14.1)]

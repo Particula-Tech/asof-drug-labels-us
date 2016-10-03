@@ -15,7 +15,7 @@ Because use of these drugs is rarely a matter of urgency, their use during the f
 Nonteratogenic Effects: It should be considered that the child born of a mother who is receiving benzodiazepines may be at some risk for withdrawal symptoms from the drug during the postnatal period.
 Also, neonatal flaccidity and respiratory problems have been reported in children born of mothers who have been receiving benzodiazepines.
 
-## 8.2 Labor And Delivery
+## 8.2 Labor and Delivery
 
 The potential effect of alprazolam in labor and delivery in humans has not been studied.
 However, perinatal complications have been reported in neonates exposed to benzodiazepines late in pregnancy.
@@ -31,10 +31,13 @@ As a general rule, nursing should not be undertaken by mothers who must use alpr
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of alprazolam in individuals below 18 years of age have not been established.
+Safety and effectiveness of alprazolam in individuals below 18 years of age have not been studied.
 
 ## 8.5 Geriatric Use
 
 The elderly may be more sensitive to the effects of benzodiazepines.
-They exhibit higher plasma alprazolam concentrations due to reduced clearance of the drug as compared with a younger population receiving the same doses.
-The smallest effective dose of alprazolam should be used in the elderly to preclude the development of ataxia and oversedation (see CLINICAL PHARMACOLOGY (12) and DOSAGE AND ADMINISTRATION (2).
+They exhibit higher plasma alprazolam concentrations due to reduced clearance of the drug, compared with a younger population receiving the same doses.
+The smallest effective dose of alprazolam should be used in the elderly to preclude the development of ataxia and oversedation [see CLINICAL PHARMACOLOGY (12) and DOSAGE AND ADMINISTRATION (2)].
+
+Changes in the absorption, distribution, metabolism and excretion of benzodiazepines have been demonstrated in geriatric patients.
+A mean half-life of alprazolam of 16.3 hours has been observed in healthy elderly subjects (range: 9.0 to 26.9 hours, n=16) compared to 11.0 hours (range: 6.3 to 15.8 hours, n=16) in healthy adult subjects.

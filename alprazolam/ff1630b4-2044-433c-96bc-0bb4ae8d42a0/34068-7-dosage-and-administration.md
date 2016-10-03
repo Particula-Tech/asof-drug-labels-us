@@ -6,7 +6,7 @@ In such cases, the dosage should be increased cautiously to avoid adverse reacti
 In general, benzodiazepines should be prescribed for short periods.
 Reevaluate the need for continued therapy before extending the treatment period.
 
-## 2.1 Generalized Anxiety Disorder
+## 2.1 Generalized Anxiety Disorders
 
 Initiate treatment with a dose of 0.25 mg to 0.5 mg three times daily.
 The dose may be increased to achieve a maximum therapeutic effect, at intervals of 3 to 4 days, to a maximum daily dose of 4 mg, given in divided doses.
@@ -25,7 +25,7 @@ The mean dosage employed was approximately 5 mg to 6 mg daily.
 Among the approximately 1700 patients participating in the panic disorder development program, about 300 received alprazolam in dosages of greater than 7 mg per day, including approximately 100 patients who received maximum dosages of greater than 9 mg per day.
 Occasional patients required as much as 10 mg a day to achieve a successful response.
 
-DoseTitration
+Dose Titration
 
 Initiate treatment with a dose of 0.5 mg three times daily.
 Depending on the response, the dose may be increased at intervals of 3 to 4 days in increments of no more than 1 mg per day.
@@ -35,7 +35,7 @@ To lessen the possibility of interdose symptoms, the times of administration sho
 Generally, therapy should be initiated at a low dose to minimize the risk of adverse responses in patients especially sensitive to the drug.
 The dose should be advanced until an acceptable therapeutic response (i.e., a substantial reduction in or total elimination of panic attacks) is achieved, intolerance occurs, or the maximum recommended dose is attained.
 
-DoseMaintenance
+Dose Maintenance
 
 For patients receiving doses greater than 4 mg per day, periodically reassess treatment and consider a reduction of dosage.
 In a controlled postmarketing dose-response study, patients treated with doses of alprazolam greater than 4 mg per day for 3 months were able to taper to 50% of their total daily maintenance dose without apparent loss of clinical benefit.
@@ -45,7 +45,7 @@ Because of the danger of withdrawal, avoid abrupt discontinuation of treatment.
 The necessary duration of treatment for panic disorder patients responding to alprazolam is unknown.
 After a period of extended freedom from attacks, a carefully supervised tapered discontinuation may be attempted, but there is evidence that this may often be difficult to accomplish without recurrence of symptoms and/or the manifestation of withdrawal phenomena.
 
-DoseReduction
+Dose Reduction
 
 Because of the danger of withdrawal, abrupt discontinuation of treatment should be avoided [see WARNINGS AND PRECAUTIONS (5.3), Drug Abuse and Dependence (9.3)].
 
@@ -68,8 +68,8 @@ This may be gradually increased if needed and tolerated.
 The elderly may be especially sensitive to the effects of benzodiazepines.
 If adverse reactions occur at the recommended starting dose, the dose may be lowered.
 
-## 2.4 Instructions to be Given to Patients for Use/Handling Alprazolam Orally Disintegrating Tablet
+## 2.4 Instructions to be Given to Patients for Use/Handling Alprazolam Orally Disintegrating Tablets, USP
 
 Just prior to administration, with dry hands, remove the tablet from the blister.
-Immediately place the Alprazolam Orally Disintegrating Tablet on top of the tongue where it will disintegrate and be swallowed with saliva.
+Immediately place the Alprazolam Orally Disintegrating Tablet, USP on top of the tongue where it will disintegrate and be swallowed with saliva.
 Administration with liquid is not necessary.

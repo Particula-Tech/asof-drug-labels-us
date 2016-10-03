@@ -1,29 +1,42 @@
-# 5 WARNINGS AND PRECAUTIONS
+# ​5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Suicide and Overdose
+## 5.1 Risk of Concomitant Use with Opioids
+
+Concomitant use of benzodiazepines, including alprazolam, and opioids may result in profound sedation, respiratory depression, coma, and death.
+Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
+
+Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioids alone.
+If a decision is made to prescribe alprazolam concomitantly with opioids, prescribe the lowest effective dosages and minimum durations of concomitant use, and follow patients closely for signs and symptoms of respiratory depression and sedation.
+In patients already receiving an opioid analgesic, prescribe a lower initial dose of alprazolam than indicated in the absence of an opioid and titrate based on clinical response.
+If an opioid is initiated in a patient already taking alprazolam, prescribe a lower initial dose of the opioid and titrate based upon clinical response.
+
+Advise both patients and caregivers about the risks of respiratory depression and sedation when alprazolam is used with opioids.
+Advise patients not to drive or operate heavy machinery until the effects of concomitant use with the opioid have been determined [see Drug Interactions (7.1), Patient Counseling (17)].
+
+## 5.2 Suicide and Overdose
 
 As with other psychotropic medications, the usual precautions with respect to administration of the drug and size of the prescription are indicated for severely depressed patients or those in whom there is reason to expect concealed suicidal ideation or plans.
 Panic disorder has been associated with primary and secondary major depressive disorders and increased reports of suicide among untreated patients.
 
-## 5.2 Status Epilepticus
+## 5.3 Status Epilepticus
 
 Withdrawal seizures have been reported in association with the discontinuation of alprazolam.
 In most cases, only a single seizure was reported; however, multiple seizures and status epilepticus were reported as well.
 
-## 5.3 Dependence and Withdrawal Reactions, Including Seizures
+## 5.4 Dependence and Withdrawal Reactions, Including Seizures
 
 Alprazolam is a Schedule IV controlled substance.
 The use of benzodiazepines, including alprazolam, may lead to physical and psychological dependence.
 In general, benzodiazepines should be prescribed for short periods.
-Even after relatively short-term use at the recommended doses, there is some risk of dependence and withdrawal symptoms [see Dependence(9.3)].
+Even after relatively short-term use at the recommended doses, there is some risk of dependence and withdrawal symptoms [see Dependence (9.3)].
 
 Certain adverse clinical events, some life-threatening, are a direct consequence of physical dependence to alprazolam.
-These include a spectrum of withdrawal symptoms; the most important is seizure [see Dependence(9.3)].
+These include a spectrum of withdrawal symptoms; the most important is seizure [see Drug Abuse and Dependence (9.3)].
 Spontaneous reporting system data suggest that the risk of dependence and its severity appear to be greater in patients treated with doses greater than 4 mg per day and for long periods (more than 12 weeks).
 However, in a controlled postmarketing discontinuation study of panic disorder patients, the duration of treatment (3 months compared to 6 months) had no effect on the ability of patients to taper to zero dose.
 In contrast, patients treated with doses of alprazolam greater than 4 mg per day had more difficulty tapering to zero dose than those treated with less than 4 mg per day.
 
-The importance of dose and the risksof alprazolam as a treatment for panic disorder
+The importance of dose and the risks of alprazolam as a treatment for panic disorder
 
 Because the management of panic disorder often requires the use of average daily doses of alprazolam above 4 mg, the risk of dependence among panic disorder patients may be higher than that among those treated for less severe anxiety.
 Experience in randomized placebo-controlled discontinuation studies of patients with panic disorder showed a high rate of rebound and withdrawal symptoms in patients treated with alprazolam compared to placebo-treated patients.
@@ -52,7 +65,7 @@ Decrease the daily dosage of alprazolam by no more than 0.5 mg every three days 
 Some patients may benefit from an even slower dosage reduction.
 In a controlled postmarketing discontinuation study of panic disorder patients which compared this recommended taper schedule with a slower taper schedule, no difference was observed between the groups in the proportion of patients who tapered to zero dose; however, the slower schedule was associated with a reduction in symptoms associated with a withdrawal syndrome.
 
-## 5.4 Risk of Fetal Harm
+## 5.5 Risk of Fetal Harm
 
 Benzodiazepines can potentially cause fetal harm when administered to pregnant women.
 If alprazolam is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
@@ -61,16 +74,16 @@ Because use of these drugs is rarely a matter of urgency, their use during the f
 The possibility that a woman of childbearing potential may be pregnant at the time of institution of therapy should be considered.
 Patients should be advised that if they become pregnant during therapy or intend to become pregnant they should communicate with their physicians about the desirability of discontinuing the drug.
 
-## 5.5 CNS Depression and Impaired Performance
+## 5.6 CNS Depression and Impaired Performance
 
 Because alprazolam has CNS depressant effects and has the potential to impair judgment, cognition, and motor performance, caution patients against engaging in hazardous occupations or activities requiring complete mental alertness such as operating machinery or driving a motor vehicle, until they are reasonably certain that alprazolam treatment does not affect them adversely.
 Caution patients about the simultaneous ingestion of alcohol and other CNS depressant drugs during treatment with alprazolam.
 
-## 5.6 Mania
+## 5.7 Mania
 
 Episodes of hypomania and mania have been reported in association with the use of alprazolam in patients with depression.
 
-## 5.7 Alprazolam Interaction with Drugs that Inhibit Metabolism via Cytochrome P450 3A
+## 5.8 Alprazolam Interaction with Drugs that Inhibit Metabolism via Cytochrome P450 3A
 
 The initial step in alprazolam metabolism is hydroxylation catalyzed by cytochrome P450 3A (CYP3A).
 Drugs that inhibit this metabolic pathway may have a profound effect on the clearance of alprazolam.
@@ -80,7 +93,7 @@ For some drugs, an interaction with alprazolam has been quantified with clinical
 
 The following are examples of drugs known to inhibit the metabolism of alprazolam and/or related benzodiazepines, presumably through inhibition of CYP3A.
 
-Potent CYP3AInhibitors
+Potent CYP3A Inhibitors
 
 Azole antifungal agents— Ketoconazole and itraconazole are potent CYP3A inhibitors and have been shown in vivo to increase plasma alprazolam concentrations 3.98 fold and 2.70 fold, respectively.
 The coadministration of alprazolam with these agents is not recommended.
@@ -94,32 +107,31 @@ Consider dose reduction of alprazolam during coadministration with the following
 - Fluvoxamine — Coadministration of fluvoxamine approximately doubled the maximum plasma concentration of alprazolam, decreased clearance by 49%, increased half-life by 71%, and decreased measured psychomotor performance.
 - Cimetidine — Coadministration of cimetidine increased the maximum plasma concentration of alprazolam by 86%, decreased clearance by 42%, and increased half-life by 16%.
 
-Other drugs possiblyaffectingalprazolam metabolism
+Other drugs possibly affecting alprazolam metabolism
 
 Other drugs possibly affect alprazolam metabolism by inhibition of CYP3A [see Drug Interactions (7.6)]
 
-## 5.8 Interdose Symptoms
+## 5.9 Interdose Symptoms
 
 Early morning anxiety and emergence of anxiety symptoms between doses of alprazolam have been reported in patients with panic disorder taking prescribed maintenance doses of alprazolam.
 These symptoms may reflect the development of tolerance or a time interval between doses which is longer than the duration of clinical action of the administered dose.
 In either case, it is presumed that the prescribed dose is not sufficient to maintain plasma levels above those needed to prevent relapse, rebound or withdrawal symptoms over the entire course of the interdosing interval.
 In these situations, it is recommended that the same total daily dose be given divided as more frequent administrations [see DOSAGE AND ADMINISTRATION (2)].
 
-## 5.9 Risk of Dose Reduction
+## 5.10 Risk of Dose Reduction
 
 Withdrawal reactions may occur when dosage reduction occurs for any reason.
 This includes purposeful tapering, but also inadvertent reduction of dose (e.g., the patient forgets, the patient is admitted to a hospital).
 Therefore, the dosage of alprazolam should be reduced or discontinued gradually [see DOSAGE AND ADMINISTRATION (2)].
 
-## 5.10 Uricosuric Effect
+## 5.11 Uricosuric Effect
 
 Alprazolam has a weak uricosuric effect.
 Although other medications with weak uricosuric effect have been reported to cause acute renal failure, there have been no reported instances of acute renal failure attributable to therapy with alprazolam.
 
-## 5.11 Use in Patients with Concomitant Illness
+## 5.12 Use in Patients with Concomitant Illness
 
-It is recommended that the dosage be limited to the smallest effective dose to preclude the development of ataxia or oversedation which may be a particular problem in elderly or debilitated patients.
-[see DOSAGE AND ADMINISTRATION (2)].
+It is recommended that the dosage be limited to the smallest effective dose to preclude the development of ataxia or oversedation which may be a particular problem in elderly or debilitated patients [see DOSAGE AND ADMINISTRATION (2)].
 The usual precautions in treating patients with impaired renal, hepatic or pulmonary function should be observed.
 There have been rare reports of death in patients with severe pulmonary disease shortly after the initiation of treatment with alprazolam.
 A decreased systemic alprazolam elimination rate (e.g., increased plasma half-life) has been observed in both alcoholic liver disease patients and obese patients receiving alprazolam [see CLINICAL PHARMACOLOGY (12)].

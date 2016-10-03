@@ -29,13 +29,13 @@ Alprazolam is extensively metabolized in humans, primarily by cytochrome P450 3A
 A benzophenone derived from alprazolam is also found in humans.
 Their half-lives appear to be similar to that of alprazolam.
 The plasma concentrations of 4-hydroxyalprazolam and α-hydroxyalprazolam relative to unchanged alprazolam concentration were always less than 4%.
-The reported relative potencies in benzodiazepine receptor binding experiments and in animal models of induced seizure inhibition are 0.20 and 0.66, respectively, for 4¬hydroxyalprazolam and α-hydroxyalprazolam.
+The reported relative potencies in benzodiazepine receptor binding experiments and in animal models of induced seizure inhibition are 0.20 and 0.66, respectively, for 4-hydroxyalprazolam and α-hydroxyalprazolam.
 Such low concentrations and the lesser potencies of 4¬hydroxyalprazolam and α-hydroxyalprazolam suggest that they are unlikely to contribute much to the pharmacological effects of alprazolam.
 The benzophenone metabolite is essentially inactive.
 
 Alprazolam and its metabolites are excreted primarily in the urine.
 
-SpecialPopulations
+Special Populations
 
 Changes in the absorption, distribution, metabolism and excretion of benzodiazepines have been reported in a variety of disease states including alcoholism, impaired hepatic function and impaired renal function.
 Changes have also been demonstrated in geriatric patients.
@@ -51,7 +51,7 @@ Pediatrics — The pharmacokinetics of alprazolam in pediatric patients have not
 
 Gender — Gender has no effect on the pharmacokinetics of alprazolam.
 
-Cigarette Smoking — Alprazolam concentrations may be reduced by up to 50% in smokers compared to non¬smokers.
+Cigarette Smoking — Alprazolam concentrations may be reduced by up to 50% in smokers compared to non-smokers.
 
 Drug-Drug Interactions
 

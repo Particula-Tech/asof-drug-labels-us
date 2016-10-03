@@ -8,9 +8,6 @@ Alprazolam doses ranged from 0.5 to 4 mg per day.
 The mean daily doses ranged from 1.6 to 2.4 mg.
 Treatment with alprazolam was statistically significantly superior to placebo treatment, as measured by the following psychometric instruments: Hamilton Anxiety Rating Scale, Physician’s Global Impressions, Target Symptoms, Patient’s Global Impressions and Self-Rating Symptom Scale.
 
-Alprazolam was compared to placebo in double blind clinical studies (doses up to 4 mg/day) in patients with a diagnosis of anxiety or anxiety with associated depressive symptomatology.
-Alprazolam was significantly better than placebo at each of the evaluation periods of these 4-week studies as judged by the following psychometric instruments: Physician’s Global Impressions, Hamilton Anxiety Rating Scale, Target Symptoms, Patient’s Global Impressions and Self-Rating Symptom Scale.
-
 ## 14.2 Panic Disorder
 
 The efficacy of alprazolam in the treatment of panic disorder was demonstrated in three short-term (up to 10 weeks), randomized, double-blind, placebo-controlled studies.
