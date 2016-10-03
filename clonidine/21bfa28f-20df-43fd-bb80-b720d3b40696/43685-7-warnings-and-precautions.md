@@ -40,7 +40,7 @@ Also, inform patients that this sedative effect may be increased by concomitant 
 
 Patients who wear contact lenses should be cautioned that treatment with clonidine hydrochloride tablets may cause dryness of eyes.
 
-## Drug Interactions
+## DRUG INTERACTIONS
 
 Clonidine may potentiate the CNS-depressive effects of alcohol, barbiturates or other sedating drugs.
 If a patient receiving clonidine hydrochloride is also taking tricyclic antidepressants, the hypotensive effect of clonidine may be reduced, necessitating an increase in the clonidine dose.
