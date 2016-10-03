@@ -54,34 +54,24 @@ MADE IN USA
 
 BAXTER AND INTRAVIA ARE TRADEMARKS OF BAXTER INTERNATIONAL INC
 
-Lot
+1. Carton Label
 
-Exp
+Lot: T123456 Exp: JAN 9999
 
-10 x 200 mL Single Dose INTRAVIA Containers
+QTY: 10 x 200 mL Single Dose INTRAVIA Containers Code: 2J1445 NDC 0338-6045-37
 
-200 mL
-
-Code 2J1445
-
-NDC 0338-6045-37
-
-Fluconazole Injection, USP
-
-400 mg/200 mL
-
-ISO-OSMOTIC SODIUM CHLORIDE DILUENT
+Fluconazole Injection, USP 400 mg/200 mL ISO-OSMOTIC SODIUM CHLORIDE DILUENT
 
 Recommended storage: Store between 77°F (25°C) and 41°F (5°C).
 Brief exposure up to 104°F (40°C) does not adversely affect the product.
 Protect from freezing.
 Avoid excessive heat.
 
-(01) 50303386045371
+(01)50303386045371(17)990100(21)000000001721(10)T123456
 
-07-06-64-254
+08/12/16 05:08:08 PALI#2
 
-Baxter
+(01) 50303386045371 (17)990100 (21)000000001721 (10)T123456
 
 LOT
 
@@ -137,31 +127,19 @@ Baxter Baxter Healthcare Corporation Deerfield IL 60015 USA
 
 MADE IN USA
 
-Lot
+Lot: T123456 Exp: JAN 9999
 
-Exp
+QTY: 10 x 100 mL Single Dose INTRAVIA Containers Code: 2J1446 NDC 0338-6046-48
 
-10 x 100 mL Single Dose INTRAVIA Containers
-
-100 mL
-
-Code 2J1446
-
-NDC 0338-6046-48
-
-Fluconazole Injection, USP
-
-200 mg/100 mL
-
-ISO-OSMOTIC SODIUM CHLORIDE DILUENT
+Fluconazole Injection, USP 200 mg/100 mL ISO-OSMOTIC SODIUM CHLORIDE DILUENT
 
 Recommended storage: Store between 77°F (25°C) and 41°F (5°C).
 Brief exposure up to 104°F (40°C) does not adversely affect the product.
 Protect from freezing.
 Avoid excessive heat.
 
-(01) 50303386046484
+(01)50303386046484(17)990100(21)000000000715(10)T123456
 
-07-06-64-253
+08/12/16 05:09:28 PALI#2
 
-Baxter
+(01)50303386046484 (17)990100 (21)000000000715 (10)T123456

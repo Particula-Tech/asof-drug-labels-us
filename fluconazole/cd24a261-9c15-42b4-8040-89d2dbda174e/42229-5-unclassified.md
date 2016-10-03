@@ -22,9 +22,9 @@ DO NOT ADD SUPPLEMENTARY MEDICATION.
 
 ## Preparation for Administration:
 
-1. Suspend container from eyelet support.
-2. Remove plastic protector from outlet port at bottom of container.
-3. Attach administration set.
+1. 1.Suspend container from eyelet support.
+2. 2.Remove plastic protector from outlet port at bottom of container.
+3. 3.Attach administration set.
    Refer to complete directions accompanying set.
 
 Baxter Healthcare Corporation Deerfield, IL 60015 USA
