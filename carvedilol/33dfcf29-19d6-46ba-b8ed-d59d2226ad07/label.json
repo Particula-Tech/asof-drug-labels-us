@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA078384"
+  ],
+  "inn": "carvedilol",
+  "labeler": "Bayshore Pharmaceuticals LLC",
+  "package_ndcs": [
+    "76385-110-01",
+    "76385-110-50",
+    "76385-111-01",
+    "76385-111-50",
+    "76385-112-01",
+    "76385-112-50",
+    "76385-113-01",
+    "76385-113-50"
+  ],
+  "products": [
+    {
+      "form": "Tablet, FILM COATED",
+      "generic": "carvedilol",
+      "name": "Carvedilol"
+    }
+  ],
+  "setid": "33dfcf29-19d6-46ba-b8ed-d59d2226ad07",
+  "source": "dailymed"
+}
