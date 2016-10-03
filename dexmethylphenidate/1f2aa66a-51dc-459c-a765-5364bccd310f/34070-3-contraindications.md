@@ -1,0 +1,22 @@
+# CONTRAINDICATIONS
+
+Agitation
+
+Dexmethylphenidate hydrochloride tablets are contraindicated in patients with marked anxiety, tension, and agitation, since the drug may aggravate these symptoms.
+
+Hypersensitivity to Methylphenidate
+
+Dexmethylphenidate hydrochloride tablets are contraindicated in patients known to be hypersensitive to methylphenidate or other components of the product.
+Hypersensitivity reactions, including angioedema and anaphylactic reactions, have been observed in patients treated with methylphenidate [see ADVERSE REACTIONS].
+
+Glaucoma
+
+Dexmethylphenidate hydrochloride tablets are contraindicated in patients with glaucoma.
+
+Tics
+
+Dexmethylphenidate hydrochloride tablets are contraindicated in patients with motor tics or with a family history or diagnosis of Tourette’s syndrome (see ADVERSE REACTIONS).
+
+Monoamine Oxidase Inhibitors
+
+Dexmethylphenidate hydrochloride tablets are contraindicated during treatment with monoamine oxidase inhibitors, and also within a minimum of 14 days following discontinuation of a monoamine oxidase inhibitor (hypertensive crises may result).

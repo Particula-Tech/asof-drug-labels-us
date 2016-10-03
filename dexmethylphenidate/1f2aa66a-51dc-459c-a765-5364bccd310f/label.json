@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA207901"
+  ],
+  "inn": "dexmethylphenidate",
+  "labeler": "Tris Pharma Inc",
+  "package_ndcs": [
+    "27808-091-01",
+    "27808-092-01",
+    "27808-093-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "dexmethylphenidate hydrochloride",
+      "name": "Dexmethylphenidate Hydrochloride"
+    }
+  ],
+  "setid": "1f2aa66a-51dc-459c-a765-5364bccd310f",
+  "source": "dailymed"
+}
