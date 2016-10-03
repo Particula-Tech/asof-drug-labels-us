@@ -2,6 +2,7 @@
 
 Immediately before tooth extraction in patients with hemophilia, administer 10 mg per kg body weight of tranexamic acid injection intravenously together with replacement therapy (see PRECAUTIONS).
 Following tooth extraction, intravenous therapy, at a dose of 10 mg per kg body weight three to four times daily, may be used for 2 to 8 days.
+
 Note: For patients with moderate to severe impaired renal function, the following dosages are recommended:
 
 | Serum Creatinine (μmol/L) 120 to 250 (1.36 to 2.83 mg/dL) 250 to 500 (2.83 to 5.66 mg/dL) >500 (>5.66 mg/dL) | Tranexamic Acid I.V. Dosage 10 mg/kg BID 10 mg/kg daily 10 mg/kg every 48 hours or 5 mg/kg every 24 hours |
