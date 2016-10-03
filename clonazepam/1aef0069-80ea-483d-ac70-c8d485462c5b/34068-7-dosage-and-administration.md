@@ -29,7 +29,7 @@ If doses are not equally divided, the largest dose should be given before retiri
 ### Geriatric Patients:
 
 There is no clinical trial experience with clonazepam in seizure disorder patients 65 years of age and older.
-In general, elderly patients should be started on low doses of clonazepam and observed closely (see PRECAUTIONS:Geriatric Use).
+In general, elderly patients should be started on low doses of clonazepam and observed closely [see PRECAUTIONS, Geriatric Use].
 
 ## Panic Disorder:
 
@@ -47,11 +47,11 @@ Treatment should be discontinued gradually, with a decrease of 0.125 mg bid ever
 There is no body of evidence available to answer the question of how long the patient treated with clonazepam should remain on it.
 Therefore, the physician who elects to use clonazepam for extended periods should periodically reevaluate the long-term usefulness of the drug for the individual patient.
 
-### Pediatric Patients
+### Pediatric Patients:
 
 There is no clinical trial experience with clonazepam in panic disorder patients under 18 years of age.
 
 ### Geriatric Patients:
 
 There is no clinical trial experience with clonazepam in panic disorder patients 65 years of age and older.
-In general, elderly patients should be started on low doses of clonazepam and observed closely (see PRECAUTIONS:Geriatric Use).
+In general, elderly patients should be started on low doses of clonazepam and observed closely [see PRECAUTIONS, Geriatric Use].

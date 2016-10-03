@@ -72,7 +72,7 @@ Table 3 Treatment-Emergent Adverse Event Incidence in 6- to 9- Week Placebo-Cont
 
 | Clonazepam Maximum Daily Dose |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Adverse Eventby Body System | <1mg | 1-<2mg | 2-<3mg |  | ≥3mg | AllClonazepamGroups | Placebo |
+| Adverse Event by Body System | <1mg | 1-<2mg | 2-<3mg |  | ≥3mg | All Clonazepam Groups | Placebo |
 | n=96 | n=129 | n=113 |  | n=235 | n=574 | n=294 |  |
 | % | % | % |  | % | % | % |  |
 | Central & Peripheral Nervous System |  |  |  |  |  |  |  |
@@ -126,7 +126,7 @@ Table 3 Treatment-Emergent Adverse Event Incidence in 6- to 9- Week Placebo-Cont
 Table 4.
 Incidence of Most Commonly Observed Adverse Events* in Acute Therapy in Pool of 6- to 9-Week Trials
 
-| Adverse Event | clonazepam (n=574) | Placebo(n=294) |
+| Adverse Event | Clonazepam (n=574) | Placebo (n=294) |
 | --- | --- | --- |
 | Somnolence | 37% | 10% |
 | Depression | 7% | 1% |
@@ -140,7 +140,7 @@ In the pool of two short-term placebo-controlled trials, adverse events classifi
 In these same trials, adverse events classified under the preferred term “depression” were reported as leading to discontinuation in 4% of clonazepam-treated patients compared to 1% of placebo-treated patients.
 While these findings are noteworthy, Hamilton Depression Rating Scale (HAM-D) data collected in these trials revealed a larger decline in HAM-D scores in the clonazepam group than the placebo group suggesting that clonazepam-treated patients were not experiencing a worsening or emergence of clinical depression.
 
-### Other Adverse Events Observed During the Premarketing Evaluation of Clonazepam in Panic:
+### Other Adverse Events Observed During the Premarketing Evaluation of Clonazepam in Panic Disorder:
 
 Following is a list of modified CIGY terms that reflect treatment-emergent adverse events reported by patients treated with clonazepam at multiple doses during clinical trials.
 All reported events are included except those already listed in Table 3 or elsewhere in labeling, those events for which a drug cause was remote, those event terms which were so general as to be uninformative, and events reported only once and which did not have a substantial probability of being acutely life-threatening.

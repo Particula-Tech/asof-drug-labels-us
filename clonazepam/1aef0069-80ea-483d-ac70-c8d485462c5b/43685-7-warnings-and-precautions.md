@@ -1,11 +1,20 @@
 # WARNINGS
 
+## Risks from Concomitant Use With Opioids
+
+Concomitant use of benzodiazepines, including clonazepam, and opioids may result in profound sedation, respiratory depression, coma, and death.
+Because of these risks, reserve concomitant prescribing of benzodiazepines and opioids for use in patients for whom alternative treatment options are inadequate.
+
+Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioids alone.
+If a decision is made to prescribe clonazepam concomitantly with opioids, prescribe the lowest effective dosages and minimum durations of concomitant use, and follow patients closely for signs and symptoms of respiratory depression and sedation.
+Advise both patients and caregivers about the risks of respiratory depression and sedation when clonazepam is used with opioids [see PRECAUTIONS, Information for Patients].
+
 ## Interference With Cognitive and Motor Performance:
 
 Since clonazepam produces CNS depression, patients receiving this drug should be cautioned against engaging in hazardous occupations requiring mental alertness, such as operating machinery or driving a motor vehicle.
-They should also be warned about the concomitant use of alcohol or other CNS-depressant drugs during clonazepam therapy (see PRECAUTIONS:Drug Interactions and Information for Patients).
+They should also be warned about the concomitant use of alcohol or other CNS-depressant drugs during clonazepam therapy [see PRECAUTIONS, Drug Interactions and Information for Patients].
 
-Suicidal Behavior and Ideation: Antiepileptic drugs (AEDs) including clonazepam, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
+Suicidal Behavior and Ideation: Antiepileptic drugs (AEDs) including Clonazepam, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or unusual changes in mood or behavior.
 
 Pooled analyses of 199 placebo-controlled clinical trials (mono-and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI: 1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
@@ -21,7 +30,10 @@ The risk did not vary substantially by age (5-100 years) in the clinical trials 
 
 Table 1 shows absolute and relative risk by indication for all evaluated AEDs.
 
-| Indication | PlaceboPatients withEvents Per 1000 Patients | Drug Patientswith Events Per1000 Patients | Relative Risk:Incidence ofEvents in DrugPatients/IncidenceIn Placebo Patients | Risk Difference:Additional DrugPatients withEvents per 1000Patients |
+Table 1.
+Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
+
+| Indication | Placebo Patients with Events Per 1000 Patients | Drug Patients with Events Per 1000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence In Placebo Patients | Risk Difference: Additional Drug Patients with Events per 1000 Patients |
 | --- | --- | --- | --- | --- |
 | Epilepsy | 1.0 | 3.4 | 3.5 | 2.4 |
 | Psychiatric | 5.7 | 8.5 | 1.5 | 2.9 |
@@ -80,7 +92,7 @@ Patients should also be advised that if they become pregnant during therapy or i
 
 ## Withdrawal Symptoms:
 
-Withdrawal symptoms of the barbiturate type have occurred after the discontinuation of benzodiazepines (see DRUG ABUSE AND DEPENDENCE).
+Withdrawal symptoms of the barbiturate type have occurred after the discontinuation of benzodiazepines [see DRUG ABUSE AND DEPENDENCE].
 
 # PRECAUTIONS
 
@@ -118,6 +130,10 @@ A clonazepam Medication Guide must be given to the patient each time clonazepam 
 Patients should be instructed to take clonazepam only as prescribed.
 Physicians are advised to discuss the following issues with patients for whom they prescribe clonazepam:
 
+### Risks from Concomitant Use With Opioids
+
+Inform patients and caregivers that potentially fatal additive effects may occur if clonazepam is used with opioids and not to use such drugs concomitantly unless supervised by a health care provider [see Warnings and Precautions; Drug Interactions].
+
 ### Dose Changes:
 
 To assure the safe and effective use of benzodiazepines, patients should be informed that, since benzodiazepines may produce psychological and physical dependence, it is advisable that they consult with their physician before either increasing the dose or abruptly discontinuing this drug.
@@ -126,17 +142,17 @@ To assure the safe and effective use of benzodiazepines, patients should be info
 
 Because benzodiazepines have the potential to impair judgment, thinking or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that clonazepam therapy does not affect them adversely.
 
-### Suicidal Thinking and Behavior
+### Suicidal Thinking and Behavior:
 
-Patients, their caregivers, and families should be counseled that AEDs, including Clonazepam, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
+Patients, their caregivers, and families should be counseled that AEDs, including clonazepam, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
 
 ### Pregnancy:
 
-Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy with clonazepam (see WARNINGS: Pregnancy Risks).
+Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy with clonazepam [see WARNINGS,Pregnancy Risks].
 Patients should be encouraged to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
-To enroll, patients can call the toll free number 1-888-233-2334 (see PRECAUTIONS: Pregnancy).
+To enroll, patients can call the toll free number 1-888-233-2334 [see PRECAUTIONS, Pregnancy].
 
 ### Nursing:
 
@@ -161,6 +177,13 @@ Each orally disintegrating tablet contains 0.56 mg phenylalanine.
 
 Clonazepam does not appear to alter the pharmacokinetics of phenytoin, carbamazepine or phenobarbital.
 The effect of clonazepam on the metabolism of other drugs has not been investigated.
+
+### Effect of Concomitant Use of Benzodiazepine and Opioids:
+
+The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration.
+Benzodiazepines interact at GABAA sites, and opioids interact primarily at mu receptors.
+When benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory depression exists.
+Limit dosage and duration of concomitant use of benzodiazepines and opioids, and follow patients closely for respiratory depression and sedation.
 
 ### Effect of Other Drugs on the Pharmacokinetics of Clonazepam:
 
@@ -188,7 +211,7 @@ In a two-generation fertility study in which clonazepam was given orally to rats
 
 ### Teratogenic Effects:
 
-Pregnancy Category D (see WARNINGS: Pregnancy Risks).
+Pregnancy Category D [see WARNINGS, Pregnancy Risks].
 
 To provide information regarding the effects of in utero exposure to clonazepam, physicians are advised to recommend that pregnant patients taking clonazepam enroll in the NAAED Pregnancy Registry.
 This can be done by calling the toll free number 1-888-233-2334, and must be done by patients themselves.
@@ -196,7 +219,7 @@ Information on this registry can also be found at the website http://www.aedpreg
 
 ## Labor and Delivery:
 
-The effect of clonazepam on labor and delivery in humans has not been specifically studied; however, perinatal complications have been reported in children born to mothers who have been receiving benzodiazepines late in pregnancy, including findings suggestive of either excess benzodiazepine exposure or of withdrawal phenomena (see WARNINGS:Pregnancy Risks).
+The effect of clonazepam on labor and delivery in humans has not been specifically studied; however, perinatal complications have been reported in children born to mothers who have been receiving benzodiazepines late in pregnancy, including findings suggestive of either excess benzodiazepine exposure or of withdrawal phenomena (see WARNINGS, Pregnancy Risks).
 
 ## Nursing Mothers:
 
@@ -204,7 +227,7 @@ Mothers receiving clonazepam should not breastfeed their infants.
 
 ## Pediatric Use:
 
-Because of the possibility that adverse effects on physical or mental development could become apparent only after many years, a benefit-risk consideration of the long-term use of clonazepam is important in pediatric patients being treated for seizure disorder (see INDICATIONS AND USAGE and DOSAGE AND ADMINISTRATION).
+Because of the possibility that adverse effects on physical or mental development could become apparent only after many years, a benefit-risk consideration of the long-term use of clonazepam is important in pediatric patients being treated for seizure disorder [see INDICATIONS AND USAGE and DOSAGE AND ADMINISTRATION].
 
 Safety and effectiveness in pediatric patients with panic disorder below the age of 18 have not been established.
 
