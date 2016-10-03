@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA208294"
+  ],
+  "inn": "formoterol",
+  "labeler": "AstraZeneca Pharmaceuticals LP",
+  "package_ndcs": [
+    "0310-4600-12"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL, METERED",
+      "generic": "glycopyrrolate and formoterol fumarate",
+      "name": "BEVESPI AEROSPHERE"
+    }
+  ],
+  "setid": "ae02436e-9528-490e-a844-0c0f6f2843f9",
+  "source": "dailymed"
+}
