@@ -28,21 +28,21 @@ INTRAVIA CONTAINER BAXTER AND INTRAVIA ARE TRADEMARKS OF BAXTER INTERNATIONAL IN
 
 US PAT NOS 5 849 843 5 998 019 PAT PENDING
 
-Carton Label
+Lot: T123456 Exp: JAN 9999
 
-LOT EXP
-
-10 x 200 mL Single Dose IntraVia Containers
-
-NDC 0338-6011-37 Code 2J0901
+QTY 10 x 200 mL Single Dose IntraVia Containers NDC 0338-6011-37 Code 2J0901
 
 Milrinone Lactate in 5% Dextrose Injection 40 mg/200 mL
 
-Recommended storage: Store at room temperature (25°C/77°F); however brief exposure to 40°C (104°F) does not adversely affect the product.
+Recommended storage: Store at room temperature (25°C/77°F); however brief exposure up to 40°C (104°F) does not adversely affect the product.
 Protect from freezing.
 Avoid excessive heat.
 
-GS1 128 BARCODE PLACEMENT ONLY (01)50303386011376
+(01)50303386011376(17)990100(21)000000001445(10)T123456
+
+08/12/16 05:07:14 PALIS#2
+
+(01)50303386011376 (17)990100 (21)000000001445 (10)T123456
 
 Container
 
@@ -66,22 +66,18 @@ INTRAVIA CONTAINER BAXTER AND INTRAVIA ARE TRADEMARKS OF BAXTER INTERNATIONAL IN
 
 Baxter Logo BAXTER HEALTHCARE CORPORATION DEERFIELD IL 60015 USA MADE IN USA
 
-Carton
+Lot: T123456 Exp: JAN 9999
 
-Lot: PXXXXXX
-
-Exp: JAN 9999
-
-Code: 2J0900
-
-QTY: 10 x 100 mL Single Dose IntraVia Containers
-
-NDC 0338-6010-48
+QTY 10 x 100 mL Single Dose IntraVia Containers NDC 0338-6010-48 Code 2J0900
 
 Milrinone Lactate in 5% Dextrose Injection 20 mg/100 mL
 
-Recommended storage: Store at room temperature (25°C/77°F); however brief exposure to 40°C (104°F) does not adversely affect the product.
+Recommended storage: Store at room temperature (25°C/77°F); however brief exposure up to 40°C (104°F) does not adversely affect the product.
 Protect from freezing.
 Avoid excessive heat.
 
-BARCODE PLACEMENT ONLY (01)50303386010485(17)990100(21)000000150225(10)PXXXXXX
+(01)50303386010485(17)990100(21)000000150393(10)T123456
+
+08/12/16 05:06:18 PALIS#2
+
+(01)50303386010485 (17)990100 (21)000000150393 (10)T123456
