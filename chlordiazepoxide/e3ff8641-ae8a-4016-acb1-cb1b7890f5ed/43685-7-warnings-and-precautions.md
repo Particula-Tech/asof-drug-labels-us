@@ -1,5 +1,16 @@
 # WARNINGS
 
+Concomitant use of benzodiazepines, including chlordiazepoxide, and opioids may result in profound sedation, respiratory depression, coma, and death.
+Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
+
+Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioids alone.
+If a decision is made to prescribe chlordiazepoxide concomitantly with opioids, prescribe the lowest effective dosages and minimum durations of concomitant use, and follow patients closely for signs and symptoms of respiratory depression and sedation.
+In patients already receiving an opioid analgesic, prescribe a lower initial dose of chlordiazepoxide than indicated in the absence of an opioid and titrate based on clinical response.
+If an opioid is initiated in a patient already taking chlordiazepoxide, prescribe a lower initial dose of the opioid and titrate based upon clinical response.
+
+Advise both patients and caregivers about the risks of respiratory depression and sedation when chlordiazepoxide is used with opioids.
+Advise patients not to drive or operate heavy machinery until the effects of concomitant use with the opioid have been determined (see DRUG INTERACTIONS).
+
 Chlordiazepoxide HCl may impair the mental and/or physical abilities required for the performance of potentially hazardous tasks such as driving a vehicle or operating machinery.
 Similarly, it may impair mental alertness in children.
 The concomitant use of alcohol or other central nervous system depressants may have an additive effect.

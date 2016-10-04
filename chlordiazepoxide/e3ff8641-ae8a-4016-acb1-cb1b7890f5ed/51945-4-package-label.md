@@ -1,6 +1,6 @@
 # Package/Label Display Panel
 
-## Chlordiazepoxide Hydrochloride Capsules USP CIV 5 mg, 100s Label Text
+## Chlordiazepoxide Hydrochloride Capsules USP 5 mg, CIV, 100s Label Text
 
 NDC 0555-0158-02
 
@@ -14,6 +14,10 @@ Capsules USP
 
 5 mg
 
+PHARMACIST: Dispense the accompanying
+
+Medication Guide to each patient.
+
 Rx only
 
 100 CAPSULES
@@ -22,7 +26,7 @@ TEVA
 
 # Package/Label Display Panel
 
-## Chlordiazepoxide Hydrochloride Capsules USP CIV 10 mg, 100s Label Text
+## Chlordiazepoxide Hydrochloride Capsules USP 10 mg, CIV, 100s Label Text
 
 NDC 0555-0033-02
 
@@ -36,6 +40,10 @@ Capsules USP
 
 10 mg
 
+PHARMACIST: Dispense the accompanying
+
+Medication Guide to each patient.
+
 Rx only
 
 100 CAPSULES
@@ -44,7 +52,7 @@ TEVA
 
 # Package/Label Display Panel
 
-## Chlordiazepoxide Hydrochloride Capsules USP CIV 25 mg, 100s Label Text
+## Chlordiazepoxide Hydrochloride Capsules USP 25 mg, CIV, 100s Label Text
 
 NDC 0555-0159-02
 
@@ -57,6 +65,10 @@ Hydrochloride
 Capsules USP
 
 25 mg
+
+PHARMACIST: Dispense the accompanying
+
+Medication Guide to each patient.
 
 Rx only
 
