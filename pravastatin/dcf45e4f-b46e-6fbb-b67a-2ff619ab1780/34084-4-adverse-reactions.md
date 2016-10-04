@@ -52,11 +52,11 @@ Long-Term Controlled Morbidity and Mortality Trials
 
 In the pravastatin sodium placebo-controlled clinical trials database of 21,483 patients (age range 24 to 75 years, 10.3% women, 52.3% Caucasians, 0.8% Blacks, 0.5% Hispanics, 0.1% Asians, 0.1% Others, 46.1% Not Recorded) with a median treatment duration of 261 weeks, 8.1% of patients on pravastatin sodium and 9.3% patients on placebo discontinued due to adverse events regardless of causality.
 
-Adverse event data were pooled from several double-blind, placebo-controlled trials (West of Scotland Coronary Prevention Study [WOS]; Pravastatin Limitation of Atherosclerosis in the Coronary Arteries study [PLAC I]; Pravastatin, Lipids and Atherosclerosis in the Carotids study [PLAC II]; Regression Growth Evaluation Statin Study [REGRESS]; and Kuopio Atherosclerosis Prevention Study [KAPS]) involving a total of 10,764 patients treated with pravastatin 40 mg and 10,719 patients treated with placebo.
+Adverse event data were pooled from 7 double-blind, placebo-controlled trials (West of Scotland Coronary Prevention Study [WOS]; Cholesterol and Recurrent Events study [CARE]; Long-term Intervention with Pravastatin in Ischemic Disease study [LIPID]; Pravastatin Limitation of Atherosclerosis in the Coronary Arteries study [PLAC I]; Pravastatin, Lipids and Atherosclerosis in the Carotids study [PLAC II]; Regression Growth Evaluation Statin Study [REGRESS]; and Kuopio Atherosclerosis Prevention Study [KAPS]) involving a total of 10,764 patients treated with pravastatin 40 mg and 10,719 patients treated with placebo.
 The safety and tolerability profile in the pravastatin group was comparable to that of the placebo group.
-Patients were exposed to pravastatin for a mean of 4 to 5.1 years in, among other trials, WOS, and 1.9 to 2.9 years in PLAC I, PLAC II, KAPS, and REGRESS.
+Patients were exposed to pravastatin for a mean of 4.0 to 5.1 years in WOS, CARE, and LIPID and 1.9 to 2.9 years in PLAC I, PLAC II, KAPS, and REGRESS.
 In these long-term trials, the most common reasons for discontinuation were mild, non-specific gastrointestinal complaints.
-Collectively, these trials represent 47,613 patient-years of exposure to pravastatin.
+Collectively, these 7 trials represent 47,613 patient-years of exposure to pravastatin.
 All clinical adverse events (regardless of causality) occurring in ≥2% of patients treated with pravastatin in these studies are identified in Table 2.
 
 Table 2: Adverse Events in ≥2% of Patients Treated with Pravastatin 40 mg and at an Incidence Greater Than Placebo in Long-Term Placebo-Controlled Trials
@@ -112,9 +112,9 @@ Special Senses: taste disturbance.
 
 ## 6.2 Postmarketing Experience
 
-In addition to the events reported above, as with other drugs in this class, the following events have been reported rarely during postmarketing experience with pravastatin sodium, regardless of causality assessment:
+In addition to the events reported above, as with other drugs in this class, the following events have been reported during postmarketing experience with pravastatin sodium, regardless of causality assessment:
 
-Musculoskeletal: myopathy, rhabdomyolysis.
+Musculoskeletal: myopathy, rhabdomyolysis, tendon disorder, polymyositis.
 
 There have been rare reports of immune-mediated necrotizing myopathy associated with statin use [see Warnings and Precautions (5.1)].
 
@@ -132,7 +132,9 @@ Dermatologic: a variety of skin changes (e.g., nodules, discoloration, dryness o
 
 Renal: urinary abnormality (including dysuria, frequency, nocturia).
 
-Respiratory: dyspnea.
+Respiratory: dyspnea, interstitial lung disease.
+
+Psychiatric: nightmare.
 
 Reproductive: gynecomastia.
 
@@ -148,5 +150,4 @@ Anemia, thrombocytopenia, and leukopenia have been reported with statins.
 
 ## 6.4 Pediatric Patients
 
-In a 2-year, double-blind, placebo-controlled study involving 100 boys and 114 girls with HeFH (n=214; age range 8 to 18.5 years, 53% female, 95% Caucasians, <1% Blacks, 3% Asians, 1% Other), the safety and tolerability profile of pravastatin was generally similar to that of placebo.
-[See Warnings and Precautions (5.3), Use in Specific Populations (8.4), and Clinical Pharmacology (12.3).]
+In a 2-year, double-blind, placebo-controlled study involving 100 boys and 114 girls with HeFH (n=214; age range 8 to 18.5 years, 53% female, 95% Caucasians, <1% Blacks, 3% Asians, 1% Other), the safety and tolerability profile of pravastatin was generally similar to that of placebo [see Warnings and Precautions (5.3), Use in Specific Populations (8.4), and Clinical Pharmacology (12.3)].

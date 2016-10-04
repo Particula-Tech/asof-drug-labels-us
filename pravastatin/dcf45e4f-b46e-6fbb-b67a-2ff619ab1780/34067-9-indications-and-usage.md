@@ -5,15 +5,23 @@ Drug therapy is indicated as an adjunct to diet when the response to a diet rest
 
 ## 1.1 Prevention of Cardiovascular Disease
 
-In hypercholesterolemic patients without clinically evident coronary heart disease (CHD), pravastatin sodium tablets, USP are indicated to:
+In hypercholesterolemic patients without clinically evident coronary heart disease (CHD), pravastatin sodium tablets are indicated to:
 
 - reduce the risk of myocardial infarction (MI).
 - reduce the risk of undergoing myocardial revascularization procedures.
 - reduce the risk of cardiovascular mortality with no increase in death from non-cardiovascular causes.
 
+In patients with clinically evident CHD, pravastatin sodium is indicated to:
+
+- reduce the risk of total mortality by reducing coronary death.
+- reduce the risk of MI.
+- reduce the risk of undergoing myocardial revascularization procedures.
+- reduce the risk of stroke and stroke/transient ischemic attack (TIA).
+- slow the progression of coronary atherosclerosis.
+
 ## 1.2 Hyperlipidemia
 
-Pravastatin sodium tablets, USP are indicated:
+Pravastatin sodium tablets are indicated:
 
 - as an adjunct to diet to reduce elevated total cholesterol (Total-C), low-density lipoprotein cholesterol (LDL-C), apolipoprotein B (ApoB), and triglyceride (TG) levels and to increase high-density lipoprotein cholesterol (HDL-C) in patients with primary hypercholesterolemia and mixed dyslipidemia (Fredrickson Types IIa and IIb).1
 - as an adjunct to diet for the treatment of patients with elevated serum TG levels (Fredrickson Type IV).
