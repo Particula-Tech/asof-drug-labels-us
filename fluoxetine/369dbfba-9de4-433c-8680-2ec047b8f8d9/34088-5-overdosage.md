@@ -39,9 +39,7 @@ Nonetheless, the ECG should ordinarily be monitored in cases of human overdose [
 
 ## 10.3 Management of Overdose
 
-For current information on the management of fluoxetine overdose, contact a certified poison control center (1-800‑
-
-222-1222 or www.poison.org).
+For current information on the management of fluoxetine overdose, contact a certified poison control center (1-800‑222-1222 or www.poison.org).
 Treatment should consist of those general measures employed in the management of overdosage with any drug.
 Consider the possibility of multi-drug overdose.
 

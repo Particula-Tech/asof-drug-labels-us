@@ -7,10 +7,9 @@ Fluoxetine Capsules USP are indicated for the treatment of:
 - •Acute and maintenance treatment of binge-eating and vomiting behaviors in patients with moderate to severe Bulimia Nervosa [see Clinical Studies (14.3)].
 - •Acute treatment of Panic Disorder, with or without agoraphobia [see Clinical Studies (14.4)].
 
-Fluoxetine Capsules USP and Olanzapine in Combination is indicated for the treatment of:
+Fluoxetine Capsules USP and Olanzapine in Combination are indicated for the treatment of:
 
 - •Acute treatment of depressive episodes associated with Bipolar I Disorder.
-- •Treatment resistant depression (Major Depressive Disorder in patients, who do not respond to 2 separate trials of different antidepressants of adequate dose and duration in the current episode).
 
 Fluoxetine Capsules USP monotherapy is not indicated for the treatment of depressive episodes associated with Bipolar I Disorder.
 

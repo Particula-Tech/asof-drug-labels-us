@@ -4,14 +4,14 @@
 
 Initial Treatment
 
-Adult — Initiate fluoxetine capsules 20 mg/day orally in the morning.
+Adult — Initiate fluoxetine 20 mg/day orally in the morning.
 Consider a dose increase after several weeks if insufficient clinical improvement is observed.
 Administer doses above 20 mg/day once daily in the morning or twice daily (i.e., morning and noon).The maximum fluoxetine dose should not exceed 80 mg/day.
 
 In controlled trials used to support the efficacy of fluoxetine, patients were administered morning doses ranging from 20 to 80 mg/day.
 Studies comparing fluoxetine 20, 40, and 60 mg/day to placebo indicate that 20 mg/day is sufficient to obtain a satisfactory response in Major Depressive Disorder in most cases [see Clinical Studies (14.1)].
 
-Pediatric (children and adolescents) — Initiate fluoxetine capsules 10 or 20 mg/day.
+Pediatric (children and adolescents) — Initiate fluoxetine 10 or 20 mg/day.
 After 1 week at 10 mg/day, increase the dose to 20 mg/day.
 However, due to higher plasma levels in lower weight children, the starting and target dose in this group may be 10 mg/day.
 Consider a dose increase to 20 mg/day after several weeks if insufficient clinical improvement is observed.
@@ -26,44 +26,57 @@ Switching Patients to a Tricyclic Antidepressant (TCA) — Dosage of a TCA may n
 
 ## 2.2 Obsessive Compulsive Disorder
 
-Adult— Initiatefluoxetine capsules 20 mg/day, orally in the morning.Considera dose increase after severalweeks if insufficient clinical improvement is observed.
-The full therapeutic effect may be delayed until5weeks of treatment orlonger.
-Administer doses above 20 mg/day once daily in the morning or twice daily (i.e., morning and noon).A doserangeof 20 to 60 mg/day isrecommended; however, doses of up to 80 mg/day have beenwell tolerated in open studies ofOCD.
+Initial Treatment
+
+Adult — Initiate fluoxetine 20 mg/day, orally in the morning.
+Consider a dose increase after several weeks if insufficient clinical improvement is observed.
+The full therapeutic effect may be delayed until 5 weeks of treatment or longer.
+Administer doses above 20 mg/day once daily in the morning or twice daily (i.e., morning and noon).
+A dose range of 20 to 60 mg/day is recommended; however, doses of up to 80 mg/day have been well tolerated in open studies of OCD.
 The maximum fluoxetine dose should not exceed 80 mg/day.
 
-In the controlled clinical trials of fluoxetine supporting its effectiveness in the treatment of OCD, patients wereadministered fixed daily doses of 20, 40, or 60 mg of fluoxetine or placebo[see Clinical Studies(14.2)].
-In one of thesestudies, no dose-responserelationship for effectiveness was demonstrated.
+In the controlled clinical trials of fluoxetine supporting its effectiveness in the treatment of OCD, patients were administered fixed daily doses of 20, 40, or 60 mg of fluoxetine or placebo [see Clinical Studies (14.2)].
+In one of these studies, no dose-response relationship for effectiveness was demonstrated.
 
-Pediatric(children and adolescents)— In adolescents and higherweight children, initiate treatmentwitha dose of 10 mg/day.
-After2weeks, increase the dose to 20 mg/day.Consider additional dose increases after several more weeksif insufficient clinical improvement is observed.A doserange of 20 to 60 mg/day isrecommended.
+Pediatric (children and adolescents) — In adolescents and higher weight children, initiate treatment with a dose of 10 mg/day.
+After 2 weeks, increase the dose to 20 mg/day.
+Consider additional dose increases after several more weeks if insufficient clinical improvement is observed.
+A dose range of 20 to 60 mg/day is recommended.
 
-In lowerweight children, initiate treatmentwitha dose of 10 mg/day.
-Consider additional dose increases afterseveral more weeks if insufficient clinical improvement is observed.A doserange of 20 to 30 mg/day isrecommended.Experiencewith daily doses greater than 20 mg is very minimal, and there is no experience with doses greater than 60 mg.
+In lower weight children, initiate treatment with a dose of 10 mg/day.
+Consider additional dose increases after several more weeks if insufficient clinical improvement is observed.
+A dose range of 20 to 30 mg/day is recommended.
+Experience with daily doses greater than 20 mg is very minimal, and there is no experience with doses greater than 60 mg.
 
-In the controlled clinical trial of fluoxetine supporting its effectiveness in the treatment of OCD, patientswereadministered fluoxetine doses in therange of 10 to 60 mg/day[see Clinical Studies(14.2)].
-Periodicallyreassess to determine the need for treatment.
+In the controlled clinical trial of fluoxetine supporting its effectiveness in the treatment of OCD, patients were administered fluoxetine doses in the range of 10 to 60 mg/day [see Clinical Studies (14.2)].
+Periodically reassess to determine the need for treatment.
 
 ## 2.3 Bulimia Nervosa
 
-InitialTreatment— Administerfluoxetine capsules 60 mg/day in the morning.For some patients it may be advisable to titrateup to this target dose over several days.
-Fluoxetine doses above 60 mg/day have not been systematically studied inpatientswith bulimia.
-In the controlled clinical trials of fluoxetine supporting its effectiveness in the treatment of BulimiaNervosa, patients were administered fixed daily fluoxetine doses of 20 or 60 mg, or placebo[see Clinical Studies(14.3)].Only the 60 mg dosewas statistically significantly superior to placebo inreducing the frequency of binge-eating andvomiting.
+Initial Treatment — Administer fluoxetine 60 mg/day in the morning.
+For some patients it may be advisable to titrate up to this target dose over several days.
+Fluoxetine doses above 60 mg/day have not been systematically studied in patients with bulimia.
+In the controlled clinical trials of fluoxetine supporting its effectiveness in the treatment of Bulimia Nervosa, patients were administered fixed daily fluoxetine doses of 20 or 60 mg, or placebo [see Clinical Studies (14.3)].
+Only the 60 mg dose was statistically significantly superior to placebo in reducing the frequency of binge-eating and vomiting.
 
-Periodicallyreassess to determine the need for maintenance treatment.
+Periodically reassess to determine the need for maintenance treatment.
 
 ## 2.4 Panic Disorder
 
-InitialTreatment— Initiate treatmentwith fluoxetine capsules 10 mg/day.
+Initial Treatment — Initiate treatment with fluoxetine 10 mg/day.
 After one week, increase the dose to 20 mg/day.
-Considera dose increase after severalweeks if no clinical improvement is observed.Fluoxetine doses above 60 mg/dayhave not been systematically evaluated in patientswith PanicDisorder.
-In the controlled clinical trials of fluoxetinesupporting its effectiveness in the treatment of Panic Disorder, patientswere administered fluoxetine doses in therange of10 to 60 mg/day[seeClinical Studies(14.4)].
-The most frequently administered dose in the2 flexible-dose clinical trials was 20 mg/day.
+Consider a dose increase after several weeks if no clinical improvement is observed.
+Fluoxetine doses above 60 mg/day have not been systematically evaluated in patients with Panic Disorder.
+In the controlled clinical trials of fluoxetine supporting its effectiveness in the treatment of Panic Disorder, patients were administered fluoxetine doses in the range of 10 to 60 mg/day [see Clinical Studies (14.4)].
+The most frequently administered dose in the 2 flexible-dose clinical trials was 20 mg/day.
+
+Periodically reassess to determine the need for continued treatment.
 
 ## 2.5 Fluoxetine and Olanzapine in Combination: Depressive Episodes Associated With Bipolar I Disorder
 
 When using fluoxetine and olanzapine in combination, also refer to the Clinical Studies section of the package insert for Symbyax.
 
-Adult — Administer fluoxetine capsules in combination with oral olanzapine once daily in the evening, without regard to meals, generally beginning with 5 mg of oral olanzapine and 20 mg of fluoxetine.
+Adult — Administer fluoxetine in combination with oral olanzapine once daily in the evening, without regard to meals, generally beginning with 5 mg of oral olanzapine and 20 mg of fluoxetine.
 Make dosage adjustments, if indicated, according to efficacy and tolerability within dose ranges of fluoxetine 20 to 50 mg and oral olanzapine 5 to 12.5 mg.
 Antidepressant efficacy was demonstrated with olanzapine and fluoxetine in combination with a dose range of olanzapine 6 to 12 mg and fluoxetine 25 to 50 mg.
 Safety of coadministration of doses above 18 mg olanzapine with 75 mg fluoxetine has not been evaluated in clinical studies.

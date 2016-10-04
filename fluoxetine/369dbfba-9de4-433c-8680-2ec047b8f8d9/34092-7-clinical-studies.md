@@ -2,15 +2,17 @@
 
 Efficacy for fluoxetine was established for the:
 
-- •Acute and maintenance treatment of MajorDepressiveDisorder in adults, and children and adolescents(8 to 18 years) in7 short-term and2 long-term, placebo-controlled trials[see Clinical Studies14.1].
-- •Acute treatment of obsessions and compulsions in adults, and children and adolescents(7 to 17 years) withObsessive CompulsiveDisorder(OCD) in3 short-term placebo-controlled trials[see Clinical Studies(14.2)].
-- •Acute and maintenance treatment of binge-eating and vomiting behaviors in adult patientswith moderate to severe BulimiaNervosa in3 short-term and1 long-term, placebo-controlled trials[seeClinical Studies(14.3)].
-- •Acute treatment of PanicDisorder, with orwithout agoraphobia, in adult patients in2 short-term, placebo-controlled trials[see Clinical Studies(14.4)].
+- •Acute and maintenance treatment of Major Depressive Disorder in adults, and children and adolescents (8 to 18 years) in 7 short-term and 2 long-term, placebo-controlled trials [see Clinical Studies 14.1].
+- •Acute treatment of obsessions and compulsions in adults, and children and adolescents (7 to 17 years) with Obsessive Compulsive Disorder (OCD) in 3 short-term placebo-controlled trials [see Clinical Studies (14.2)].
+- •Acute and maintenance treatment of binge-eating and vomiting behaviors in adult patients with moderate to severe Bulimia Nervosa in 3 short-term and 1 long-term, placebo-controlled trials [see Clinical Studies (14.3)].
+- •Acute treatment of Panic Disorder, with or without agoraphobia, in adult patients in 2 short-term, placebo- controlled trials [see Clinical Studies (14.4)].
 
-Efficacy for PROZAC and olanzapine in combinationwas established for the:
+Efficacy for fluoxetine and olanzapine in combination was established for the:
 
-- •Acute treatment of depressive episodes in BipolarI Disorder in adults, and children and adolescents(10 to 17years) in3 short-term, placebo-controlled trials.
-- •Acute and maintenance treatment of treatmentresistant depression in adults(18 to 85 years) in3 short-term,placebo-controlled trials and1randomized withdrawal studywith an active control.
+- •Acute treatment of depressive episodes in Bipolar I Disorder in adults in 3 short-term, placebo-controlled trials.
+
+Information for pediatric patients (10 to 17 years) is approved for Eli Lilly and Company’s Fluoxetine Capsules.
+However due to Eli Lilly and Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 When using fluoxetine and olanzapine in combination, also refer to the Clinical Studies section of the package insert for Symbyax.
 

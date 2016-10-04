@@ -13,7 +13,7 @@ In evaluating individual cases, consideration should be given to using lower ini
 
 ## 7.3 Serotonergic Drugs
 
-[See Dosage and Administration (2.9,2.10), Contraindications (4.1), and Warnings and Precautions (5.2).]
+[See Dosage and Administration (2.9, 2.10), Contraindications (4.1), and Warnings and Precautions (5.2).]
 
 ## 7.4 Drugs That Interfere With Hemostasis (e.g., NSAIDS, Aspirin, Warfarin)
 

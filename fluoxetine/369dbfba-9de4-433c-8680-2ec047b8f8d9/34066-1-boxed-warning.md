@@ -7,9 +7,3 @@
 - •Fluoxetine is not approved for use in children less than 7 years of age [see Warnings and Precautions (5.1) and Use in Specific Populations (8.4)].
 
 When using fluoxetine and olanzapine in combination, also refer to Boxed Warning section of the package insert for Symbyax.
-
-If you take fluoxetine capsules, you should not take any other medicines that contain fluoxetine hydrochloride including:
-
-- •Symbyax®
-- •Sarafem®
-- •Prozac® Weekly™

@@ -194,6 +194,11 @@ Fluoxetine capsules and some medicines may interact with each other, may not wor
 Your healthcare provider or pharmacist can tell you if it is safe to take fluoxetine capsules with your other medicines.
 Do not start or stop any medicine while taking fluoxetine capsules without talking to your healthcare provider first.
 
+If you take fluoxetine capsules, you should not take any other medicines that contain fluoxetine hydrochloride including:
+
+| •Symbyax®•Sarafem®•Prozac® Weekly™ |
+| --- |
+
 How should I take fluoxetine capsules?
 
 - •Take fluoxetine capsules exactly as prescribed.
@@ -281,7 +286,7 @@ Active ingredient: fluoxetine hydrochloride
 
 Inactive ingredients: colloidal silicon dioxide, pregelatinized corn starch, and simethicone.
 The capsule shell contains D&C Red #28, D&C Yellow #10, FD&C Blue #1, FD&C Blue #2, FD&C Red #40, gelatin, and titanium dioxide.
-The imprinting ink contains ammonium hydroxide, iron oxide black, propylene glycol and shellac glaze.
+The imprinting ink contains FD&C Blue #1 aluminum lake, FD&C Blue #2 aluminum lake, FD&C Red #40 aluminum lake, D&C Yellow #10 aluminum lake, iron oxide black and shellac glaze, and may contain propylene glycol.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA.
@@ -294,9 +299,9 @@ Opava-Komarov, Czech Republic
 
 Manufactured For:
 
-TEVA PHARMACEUTICALS USA
+TEVA PHARMACEUTICALS USA, INC.
 
-Sellersville, PA 18960
+North Wales, PA 19454
 
 Rev.
-I 7/2014
+J 10/2014

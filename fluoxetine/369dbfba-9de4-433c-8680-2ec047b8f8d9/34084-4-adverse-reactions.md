@@ -24,9 +24,10 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Multiple doses of fluoxetine have been administered to 10,782 patients with various diagnoses in U.S. clinical trials.
 In addition, there have been 425 patients administered fluoxetine in panic clinical trials.
-The stated frequenciesrepresent
+The stated frequencies represent
 
-the proportion of individualswho experienced, at least once,a treatment-emergent adversereaction of the type listed.Areaction was considered treatment-emergent if it occurred for the first time or worsened whilereceiving therapy following
+the proportion of individuals who experienced, at least once, a treatment-emergent adverse reaction of the type listed.
+A reaction was considered treatment-emergent if it occurred for the first time or worsened while receiving therapy following
 
 baseline evaluation.
 
