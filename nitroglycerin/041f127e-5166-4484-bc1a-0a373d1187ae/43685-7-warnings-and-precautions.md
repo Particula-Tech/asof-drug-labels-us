@@ -59,6 +59,8 @@ Nitroglycerin should be kept in the original glass container and must be tightly
 
 ## Drug Interactions
 
+Concomitant use of Nitroglycerin with soluble guanylate cyclase stimulators is contraindicated (see CONTRAINDICATIONS).
+
 Concomitant use of nitrates and alcohol may cause hypotension.
 
 The vasodilatory and hemodynamic effects of nitroglycerin may be enhanced by concomitant administration of aspirin.
