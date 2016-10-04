@@ -49,7 +49,9 @@ Avoid rapid or bolus intravenous infusion.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
-Discard any unused portion because the premix flexible containers are for single-use only.
+Do not administer AVELOX if particulate matter and/or discoloration is observed.
+
+Discard any unused portion because the premix flexible containers are for single-dose only.
 
 ## 2.3 Drug and Diluent Compatibilities
 

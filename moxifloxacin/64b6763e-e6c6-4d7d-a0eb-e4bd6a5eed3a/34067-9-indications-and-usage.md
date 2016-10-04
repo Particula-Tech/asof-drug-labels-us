@@ -16,7 +16,7 @@ AVELOX is indicated in adult patients for the treatment of Complicated Skin and 
 
 ## 1.4 Complicated Intra-Abdominal Infections
 
-AVELOX is indicated in adult patients for the treatment of Complicated Intra-Abdominal Infections including polymicrobial infections such as abscess caused by susceptible isolates of Escherichia coli, Bacteroides fragilis, Streptococcus anginosus, Streptococcus constellatus, Enterococcus faecalis, Proteus mirabilis, Clostridium perfringens, Bacteroides thetaiotaomicron, or Peptostreptococcus species [see Clinical Studies (14.6)].
+AVELOX is indicated in adult patients for the treatment of Complicated Intra-Abdominal Infections (cIAI) including polymicrobial infections such as abscess caused by susceptible isolates of Escherichia coli, Bacteroides fragilis, Streptococcus anginosus, Streptococcus constellatus, Enterococcus faecalis, Proteus mirabilis, Clostridium perfringens, Bacteroides thetaiotaomicron, or Peptostreptococcus species [see Clinical Studies (14.6)].
 
 ## 1.5 Plague
 

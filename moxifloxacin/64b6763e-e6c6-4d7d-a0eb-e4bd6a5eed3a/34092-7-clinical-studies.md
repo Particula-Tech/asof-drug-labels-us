@@ -17,9 +17,7 @@ This study compared AVELOX with clarithromycin (500 mg twice daily for 10 days) 
 Clinical success was assessed at 7-17 days post-therapy.
 The clinical success for AVELOX was 89% (222/250) compared to 89% (224/251) for clarithromycin.
 
-Table 10: Clinical Success Rates at Follow-Up Visit for Clinically Evaluable Patients by Pathogen
-
-(Acute Bacterial Exacerbation of Chronic Bronchitis)
+Table 12: Clinical Success Rates at Follow-Up Visit for Clinically Evaluable Patients by Pathogen (Acute Bacterial Exacerbation of Chronic Bronchitis
 
 | PATHOGEN | AVELOX | Clarithromycin |
 | --- | --- | --- |
@@ -47,9 +45,9 @@ The intravenous formulations of the comparators are not FDA approved.
 The clinical success rate at Day 5–7 for AVELOX therapy was 93% (241/258) and demonstrated superiority to amoxicillin/clavulanate ± clarithromycin (85%, 239/280) [95% C.I. of difference in success rates between moxifloxacin and comparator (2.9%, 13.2%)].
 The clinical success rate at the 21–28 days post-therapy visit for AVELOX was 84% (216/258), which also demonstrated superiority to the comparators (74%, 208/280) [95% C.I. of difference in success rates between moxifloxacin and comparator (2.6%, 16.3%)].
 
-The clinical success rates by pathogen across four CAP studies are presented in Table 11.
+The clinical success rates by pathogen across four CAP studies are presented in Table 13.
 
-Table 11: Clinical Success Rates By Pathogen (Pooled CAP Studies)
+Table 13: Clinical Success Rates By Pathogen (Pooled CAP Studies)
 
 | PATHOGEN | AVELOX |  |
 | --- | --- | --- |
@@ -65,11 +63,11 @@ Table 11: Clinical Success Rates By Pathogen (Pooled CAP Studies)
 
 AVELOX was effective in the treatment of community acquired pneumonia (CAP) caused by multi-drug resistant Streptococcus pneumoniae MDRSP* isolates.
 Of 37 microbiologically evaluable patients with MDRSP isolates, 35 patients (95%) achieved clinical and bacteriological success post-therapy.
-The clinical and bacteriological success rates based on the number of patients treated are shown in Table 12.
+The clinical and bacteriological success rates based on the number of patients treated are shown in Table 14.
 
 * MDRSP, Multi-drug resistant Streptococcus pneumoniae includes isolates previously known as PRSP (Penicillin-resistant S. pneumoniae), and are isolates resistant to two or more of the following antibiotics: penicillin (MIC ≥ 2 mcg/mL), 2nd generation cephalosporins (for example, cefuroxime), macrolides, tetracyclines, and trimethoprim/sulfamethoxazole.
 
-Table 12: Clinical and Bacteriological Success Rates for AVELOX-Treated MDRSP CAP Patients (Population: Valid for Efficacy)
+Table 14:: Clinical and Bacteriological Success Rates for AVELOX-Treated MDRSP CAP Patients (Population: Valid for Efficacy)
 
 | Screening Susceptibility | Clinical Success |  | Bacteriological Success |  |
 | --- | --- | --- | --- | --- |
@@ -87,9 +85,9 @@ Table 12: Clinical and Bacteriological Success Rates for AVELOX-Treated MDRSP CA
 4. d)Azithromycin, clarithromycin, and erythromycin were the macrolide antimicrobials tested.
 
 Not all isolates were resistant to all antimicrobial classes tested.
-Success and eradication rates are summarized in Table 13.
+Success and eradication rates are summarized in Table 15.
 
-Table 13: Clinical Success Rates and Microbiological Eradication Rates for Resistant Streptococcus pneumoniae (Community Acquired Pneumonia)
+Table 15: Clinical Success Rates and Microbiological Eradication Rates for Resistant Streptococcus pneumoniae (Community Acquired Pneumonia)
 
 | S. pneumoniae with MDRSP | Clinical Success | Bacteriological Eradication Rate |
 | --- | --- | --- |
@@ -119,9 +117,9 @@ This study enrolled 804 patients, 632 of which were valid for the efficacy analy
 Surgical incision and drainage or debridement was performed on 55% of the AVELOX treated and 53% of the comparator treated patients in these studies and formed an integral part of therapy for this indication.
 Success rates varied with the type of diagnosis ranging from 61% in patients with infected ulcers to 90% in patients with complicated erysipelas.
 These rates were similar to those seen with comparator drugs.
-The overall success rates in the evaluable patients and the clinical success by pathogen are shown in Tables 14 and 15.
+The overall success rates in the evaluable patients and the clinical success by pathogen are shown in Tables 16 and 17.
 
-Table 14: Overall Clinical Success Rates in Patients with Complicated Skin and Skin Structure Infections
+Table 16: Overall Clinical Success Rates in Patients with Complicated Skin and Skin Structure Infections
 
 | Study | AVELOX n/N (%) | Comparator n/N (%) | 95% Confidence Interval a |
 | --- | --- | --- | --- |
@@ -130,7 +128,7 @@ Table 14: Overall Clinical Success Rates in Patients with Complicated Skin and S
 
 1. a)of difference in success rates between Moxifloxacin and comparator (Moxifloxacin – comparator)
 
-Table 15: Clinical Success Rates by Pathogen in Patients with Complicated Skin and Skin Structure Infections
+Table 17: Clinical Success Rates by Pathogen in Patients with Complicated Skin and Skin Structure Infections
 
 | Pathogen | AVELOX n/ N (%) | Comparator n/N (%) |
 | --- | --- | --- |
@@ -149,9 +147,9 @@ This study enrolled 681 patients, 379 of which were considered clinically evalua
 A second open-label international study compared AVELOX 400 mg once a day for 5–14 days to intravenous ceftriaxone plus intravenous metronidazole followed by oral amoxicillin/clavulanic acid in the treatment of patients with cIAI.
 This study enrolled 595 patients, 511 of which were considered clinically evaluable.
 The clinically evaluable population consisted of subjects with a surgically confirmed complicated infection, at least 5 days of treatment and a 25–50 day follow-up assessment for patients at the Test of Cure visit.
-The overall clinical success rates in the clinically evaluable patients are shown in Table 16.
+The overall clinical success rates in the clinically evaluable patients are shown in Table 18.
 
-Table 16: Clinical Success Rates in Patients with Complicated Intra-Abdominal Infections
+Table 18: Clinical Success Rates in Patients with Complicated Intra-Abdominal Infections
 
 | Study | AVELOX n/ N (%) | Comparator n/N (%) | 95% Confidence Intervala |
 | --- | --- | --- | --- |

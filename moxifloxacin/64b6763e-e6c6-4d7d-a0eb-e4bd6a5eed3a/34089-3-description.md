@@ -1,9 +1,9 @@
 # 11 DESCRIPTION
 
-AVELOX (moxifloxacin) hydrochloride is a synthetic antibacterial agent for oral and intravenous administration.
+AVELOX (moxifloxacin hydrochloride) is a synthetic antibacterial agent for oral and intravenous administration.
 Moxifloxacin, a fluoroquinolone, is available as the monohydrochloride salt of 1-cyclopropyl-7-[(S,S)-2,8-diazabicyclo[4.3.0]non-8-yl]-6-fluoro-8-methoxy-1,4-dihydro-4-oxo-3 quinoline carboxylic acid.
 It is a slightly yellow to yellow crystalline substance with a molecular weight of 437.9.
-Its empirical formula is C21H24FN3O4*HCl and its chemical structure is as follows:
+Its empirical formula is C21H24FN3O4HCl and its chemical structure is as follows:
 
 ## 11.1 AVELOX Tablets
 
@@ -12,7 +12,7 @@ Its empirical formula is C21H24FN3O4*HCl and its chemical structure is as follow
 
 ## 11.2 AVELOX Injection
 
-- •AVELOX Injection for intravenous use is available in ready-to-use 250 mL flexibags as a sterile, preservative free, 0.8% sodium chloride aqueous solution of moxifloxacin hydrochloride (containing 400 mg moxifloxacin) with pH ranging from 4.1 to 4.6.
+- •AVELOX Injection for intravenous use is available in ready-to-use single-dose 250 mL flexibags as a sterile, preservative free, 0.8% sodium chloride aqueous solution of moxifloxacin hydrochloride (equivalent to 400 mg moxifloxacin) with pH ranging from 4.1 to 4.6.
   The flexibag is not made with natural rubber latex.
 - •The appearance of the intravenous solution is yellow.
   The color does not affect, nor is it indicative of, product stability.
