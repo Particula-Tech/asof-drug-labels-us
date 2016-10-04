@@ -42,45 +42,6 @@ Made in Canada
 
 PRINCIPAL DISPLAY PANEL
 
-NDC 49702-214-18
-
-RETROVIR®
-
-(zidovudine)
-
-TABLETS
-
-300 mg
-
-Rx only
-
-60 Tablets
-
-Each tablet contains 300 mg of zidovudine.
-
-See prescribing information for dosage information.
-
-Store at 15o to 25oC (59o to 77oF).
-
-Manufactured for:
-
-ViiV Healthcare
-
-Research Triangle Park, NC 27709
-
-by:
-
-GlaxoSmithKline
-
-Research Triangle Park, NC 27709
-
-Made in South Korea
-
-10000000083219 Rev.
-8/10
-
-PRINCIPAL DISPLAY PANEL
-
 NDC 49702-212-48
 
 RETROVIR®
@@ -115,8 +76,8 @@ Contains sodium benzoate 0.2% added as a preservative.
 
 ©2015, the ViiV Healtchare group of companies
 
-- A135225 Rev.
-  7/15
+1. A135225 Rev.
+   7/15
 
 PRINCIPAL DISPLAY PANEL
 
@@ -150,5 +111,5 @@ Made in India
 
 ©2015, the ViiV Healtchare group of companies
 
-- 10000000132676 Rev.
-  3/15
+1. 10000000132676 Rev.
+   3/15
