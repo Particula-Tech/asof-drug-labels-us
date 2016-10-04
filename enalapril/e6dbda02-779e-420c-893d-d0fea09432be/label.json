@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA208686"
+  ],
+  "inn": "enalapril",
+  "labeler": "Silvergate Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "52652-4001-1"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "enalapril maleate",
+      "name": "Epaned"
+    }
+  ],
+  "setid": "e6dbda02-779e-420c-893d-d0fea09432be",
+  "source": "dailymed"
+}
