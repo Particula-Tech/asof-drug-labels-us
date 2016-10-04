@@ -23,3 +23,12 @@ Never use HUMULIN R U-500 if it has become viscous (thickened) or cloudy; use it
 HUMULIN R U-500 should not be used after the printed expiration date.
 
 Do not dilute or mix HUMULIN R U-500 with any other insulin products or solutions [see Dosage and Administration (2.1)].
+
+Literature Revised: July 2016
+
+Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
+
+Copyright © 1997, 2016, Eli Lilly and Company.
+All rights reserved.
+
+LINR500-0005-USPI-20160721
