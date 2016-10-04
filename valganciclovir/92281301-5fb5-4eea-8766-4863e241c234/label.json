@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA205220"
+  ],
+  "inn": "valganciclovir",
+  "labeler": "Actavis Pharma, Inc.",
+  "package_ndcs": [
+    "0591-2579-20"
+  ],
+  "products": [
+    {
+      "form": "POWDER, FOR SOLUTION",
+      "generic": "valganciclovir hydrochloride",
+      "name": "Valganciclovir hydrochloride for Oral"
+    }
+  ],
+  "setid": "92281301-5fb5-4eea-8766-4863e241c234",
+  "source": "dailymed"
+}
