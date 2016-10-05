@@ -14,4 +14,4 @@ Discard unused portion of the single dose vial.
 AMERICAN REGENT, INC. SHIRLEY, NY 11967
 
 IN4201 Rev.
-01/16
+08/16
