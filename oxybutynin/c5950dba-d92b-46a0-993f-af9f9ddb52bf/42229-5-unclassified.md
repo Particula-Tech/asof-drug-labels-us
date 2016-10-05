@@ -8,7 +8,7 @@ Seymour, IN 47274
 
 Made in the USA
 
-CIA72763J
+CIA72763K
 
 Rev.
-01/2016
+10/2016

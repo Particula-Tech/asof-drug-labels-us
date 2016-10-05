@@ -1,11 +1,11 @@
 # 11 DESCRIPTION
 
-Oxybutynin chloride extended-release tablets is an antispasmodic, muscarinic antagonist.
+Oxybutynin chloride extended-release tablets are an antispasmodic, muscarinic antagonist.
 Each Oxybutynin chloride extended-release tablets contains 5 mg, 10 mg, or 15 mg of oxybutynin chloride USP, formulated as a once-a-day controlled-release tablet for oral administration.
 Oxybutynin chloride is administered as a racemate of R- and S-enantiomers.
 
 Chemically, oxybutynin chloride is d,l (racemic) 4-diethylamino-2-butynyl phenylcyclohexylglycolate hydrochloride.
-The empirical formula of oxybutynin chloride is C22H31NO3•HCl.
+The empirical formula of oxybutynin chloride is C 22H 31NO 3•HCl.
 
 Its structural formula is:
 

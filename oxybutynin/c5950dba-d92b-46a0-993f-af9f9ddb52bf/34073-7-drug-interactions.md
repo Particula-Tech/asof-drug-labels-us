@@ -6,7 +6,7 @@ Anticholinergic agents may potentially alter the absorption of some concomitantl
 This may be of concern for drugs with a narrow therapeutic index.
 Anticholinergic agents may also antagonize the effects of prokinetic agents, such as metoclopramide.
 
-Mean oxybutynin chloride plasma concentrations were approximately 2 fold higher when Oxybutynin chloride extended-release tablets was administered with ketoconazole, a potent CYP3A4 inhibitor.
-Other inhibitors of the cytochrome P450 3A4 enzyme system, such as antimycotic agents (e.g., itraconazole and miconazole) or macrolide antibiotics (e.g., erythromycin and clarithromycin), may alter oxybutynin mean pharmacokinetic parameters (i.e., Cmax and AUC).
+Mean oxybutynin chloride plasma concentrations were approximately 2 fold higher when Oxybutynin chloride extended-release tablets were administered with ketoconazole, a potent CYP3A4 inhibitor.
+Other inhibitors of the cytochrome P450 3A4 enzyme system, such as antimycotic agents (e.g., itraconazole and miconazole) or macrolide antibiotics (e.g., erythromycin and clarithromycin), may alter oxybutynin mean pharmacokinetic parameters (i.e., C max and AUC).
 The clinical relevance of such potential interactions is not known.
 Caution should be used when such drugs are co-administered.

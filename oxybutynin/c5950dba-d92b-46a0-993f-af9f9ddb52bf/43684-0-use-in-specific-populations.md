@@ -17,7 +17,7 @@ Reproduction studies with oxybutynin chloride in the mouse, rat, hamster, and ra
 ## 8.3 Nursing Mothers
 
 It is not known whether oxybutynin is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when Oxybutynin chloride extended-release tablets is administered to a nursing woman.
+Because many drugs are excreted in human milk, caution should be exercised when Oxybutynin chloride extended-release tablets are administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 
@@ -26,11 +26,11 @@ Patients were aged 6–15 years, all had symptoms of detrusor overactivity in as
 Study results demonstrated that administration of Oxybutynin chloride extended-release tablets 5 to 20 mg/day was associated with an increase from baseline in mean urine volume per catheterization from 108 mL to 136 mL, an increase from baseline in mean urine volume after morning awakening from 148 mL to 189 mL, and an increase from baseline in the mean percentage of catheterizations without a leaking episode from 34% to 51%.
 
 Urodynamic results were consistent with clinical results.
-Administration of Oxybutynin chloride extended-release tablets resulted in an increase from baseline in mean maximum cystometric capacity from 185 mL to 254 mL, a decrease from baseline in mean detrusor pressure at maximum cystometric capacity from 44 cm H2O to 33 cm H2O, and a reduction in the percentage of patients demonstrating uninhibited detrusor contractions (of at least 15 cm H2O) from 60% to 28%.
+Administration of Oxybutynin chloride extended-release tablets resulted in an increase from baseline in mean maximum cystometric capacity from 185 mL to 254 mL, a decrease from baseline in mean detrusor pressure at maximum cystometric capacity from 44 cm H 2O to 33 cm H 2O, and a reduction in the percentage of patients demonstrating uninhibited detrusor contractions (of at least 15 cm H 2O) from 60% to 28%.
 
 The pharmacokinetics of Oxybutynin chloride extended-release tablets in these patients were consistent with those reported for adults [see Clinical Pharmacology (12.3)].
 
-Oxybutynin chloride extended-release tablets is not recommended in pediatric patients who cannot swallow the tablet whole without chewing, dividing, or crushing, or in children under the age of 6.
+Oxybutynin chloride extended-release tablets are not recommended in pediatric patients who cannot swallow the tablet whole without chewing, dividing, or crushing, or in children under the age of 6.
 
 ## 8.5 Geriatric Use
 

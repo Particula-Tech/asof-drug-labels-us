@@ -27,11 +27,11 @@ Table 2: Mean (SD) R- and S-Oxybutynin Pharmacokinetic Parameters Following a Si
 
 | Parameters (units) | R-Oxybutynin |  | S-Oxybutynin |  |
 | --- | --- | --- | --- | --- |
-| Cmax (ng/mL) | 1.0 | (0.6) | 1.8 | (1.0) |
-| Tmax (h) | 12.7 | (5.4) | 11.8 | (5.3) |
-| t1/2 (h) | 13.2 | (6.2) | 12.4 | (6.1) |
-| AUC(0–48) (ng∙h/mL) | 18.4 | (10.3) | 34.2 | (16.9) |
-| AUCinf (ng∙h/mL) | 21.3 | (12.2) | 39.5 | (21.2) |
+| C max (ng/mL) | 1.0 | (0.6) | 1.8 | (1.0) |
+| T max (h) | 12.7 | (5.4) | 11.8 | (5.3) |
+| t 1/2 (h) | 13.2 | (6.2) | 12.4 | (6.1) |
+| AUC (0–48) (ng∙h/mL) | 18.4 | (10.3) | 34.2 | (16.9) |
+| AUC inf (ng∙h/mL) | 21.3 | (12.2) | 39.5 | (21.2) |
 
 Figure 1: Mean R-oxybutynin plasma concentrations following a single dose of Oxybutynin chloride extended-release tablets 10 mg and oxybutynin 5 mg administered every 8 hours (n=23 for each treatment).
 
@@ -47,8 +47,8 @@ Table 3: Mean ± SD R- and S-Oxybutynin and R- and S-Desethyloxybutynin Pharmaco
 
 |  | R-Oxybutynin | S-Oxybutynin | R- Desethyloxybutynin | S- Desethyloxybutynin |
 | --- | --- | --- | --- | --- |
-| Cmax (ng/mL) | 0.7 ± 0.4 | 1.3 ± 0.8 | 7.8 ± 3.7 | 4.2 ± 2.3 |
-| Tmax (h) | 5.0 | 5.0 | 5.0 | 5.0 |
+| C max (ng/mL) | 0.7 ± 0.4 | 1.3 ± 0.8 | 7.8 ± 3.7 | 4.2 ± 2.3 |
+| T max (h) | 5.0 | 5.0 | 5.0 | 5.0 |
 | AUC (ng∙h/mL) | 12.8 ± 7.0 | 23.7 ± 14.4 | 125.1 ± 66.7 | 73.6 ± 47.7 |
 
 Figure 2: Mean steady state (± SD) R-oxybutynin plasma concentrations following administration of 5 to 20 mg Oxybutynin chloride extended-release tablets once daily in children aged 5–15.
@@ -79,7 +79,7 @@ Also, less than 0.1% of the administered dose is excreted as the metabolite dese
 
 Dose Proportionality
 
-Pharmacokinetic parameters of oxybutynin and desethyloxybutynin (Cmax and AUC) following administration of 5–20 mg of Oxybutynin chloride extended-release tablets are dose proportional.
+Pharmacokinetic parameters of oxybutynin and desethyloxybutynin (C max and AUC) following administration of 5–20 mg of Oxybutynin chloride extended-release tablets are dose proportional.
 
 Use in Specific Populations
 

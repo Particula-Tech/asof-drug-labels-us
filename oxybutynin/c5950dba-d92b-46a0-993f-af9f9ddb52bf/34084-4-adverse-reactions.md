@@ -10,7 +10,7 @@ Adverse reactions reported by ≥ 1% of subjects are shown in Table 1.
 
 Table 1: Adverse Drug Reactions Reported by ≥ 1% of Oxybutynin chloride extended-release tablets-treated Adult Subjects in Five Double-blind, Controlled Clinical Trials of Oxybutynin chloride extended-release tablets
 
-| System/Organ Class Preferred Term | Oxybutynin chloride extended-release tablets 5 to 30 mg/day n = 774 % | Oxybutynin chloride IRIR = immediate release 5 to 20 mg/day n = 199 % |
+| System/Organ Class Preferred Term | Oxybutynin chloride extended-release tablets 5 to 30 mg/day n = 774 % | Oxybutynin chloride IR IR = immediate release 5 to 20 mg/day n = 199 % |
 | --- | --- | --- |
 | Psychiatric Disorders |  |  |
 | Insomnia | 3.0 | 5.5 |
@@ -47,7 +47,7 @@ Table 1: Adverse Drug Reactions Reported by ≥ 1% of Oxybutynin chloride extend
 | General Disorders and Administration Site Conditions |  |  |
 | Fatigue | 2.6 | 3.0 |
 | Investigations |  |  |
-| Residual urine volumeThe bundled term residual urine volume consists of the preferred terms residual urine volume and residual urine volume increased. | 2.3 | 3.5 |
+| Residual urine volume The bundled term residual urine volume consists of the preferred terms residual urine volume and residual urine volume increased. | 2.3 | 3.5 |
 
 The discontinuation rate due to adverse reactions was 4.4% with Oxybutynin chloride extended-release tablets compared to 0% with Oxybutynin chloride IR.
 The most frequent adverse reaction causing discontinuation of study medication was dry mouth (0.7%).
@@ -59,6 +59,6 @@ The following adverse reactions were reported by <1% of Oxybutynin chloride exte
 The following additional adverse reactions have been reported from worldwide postmarketing experience with Oxybutynin chloride extended-release tablets.
 Because postmarketing reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Psychiatric Disorders: psychotic disorder, agitation, hallucinations, memory impairment; Nervous System Disorders: convulsions; Eye Disorders: glaucoma; Cardiac Disorders: arrhythmia, tachycardia, QT interval prolongation; Vascular Disorders: flushing; Skin and Subcutaneous Tissue Disorders: rash; Renal and Urinary Disorders: impotence; General Disorders and Administration Site Conditions: hypersensitivity reactions, including angioedema with airway obstruction, urticaria, and face edema; anaphylactic reactions requiring hospitalization for emergency treatment; Injury, poisoning and procedural complications: fall.
+Infections and Infestations: Urinary tract infection; Psychiatric Disorders: psychotic disorder, agitation, confusional state, hallucinations, memory impairment; Nervous System Disorders: convulsions; Eye Disorders: glaucoma; Respiratory, Thoracic and Mediastinal Disorders: nasal congestion; Cardiac Disorders: arrhythmia, tachycardia, palpitations; QT interval prolongation; Vascular Disorders: flushing, hypertension; Skin and Subcutaneous Tissue Disorders: rash; Renal and Urinary Disorders: impotence; General Disorders and Administration Site Conditions: hypersensitivity reactions, including angioedema with airway obstruction, urticaria, and face edema; anaphylactic reactions requiring hospitalization for emergency treatment; Injury, poisoning and procedural complications: fall.
 
 Additional adverse events reported with some other oxybutynin chloride formulations include: cycloplegia, mydriasis, and suppression of lactation.
