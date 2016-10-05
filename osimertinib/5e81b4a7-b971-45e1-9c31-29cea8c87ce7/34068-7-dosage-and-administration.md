@@ -2,7 +2,9 @@
 
 ## 2.1 Patient Selection
 
-Confirm the presence of a T790M EGFR mutation in tumor specimens prior to initiation of treatment with TAGRISSO [see Indications and Usage (1) and Clinical Studies (14)].
+Confirm the presence of a T790M EGFR mutation in tumor or, in the absence of tumor, plasma specimens prior to initiation of treatment with TAGRISSO [see Indications and Usage (1) and Clinical Studies (14)].
+Testing for the presence of the mutation in plasma specimens is recommended only in patients for whom a tumor biopsy cannot be obtained.
+If this mutation is not detected in a plasma specimen, re-evaluate the feasibility of biopsy for tumor tissue testing.
 Information on FDA-approved tests for the detection of T790M mutations is available at http://www.fda.gov/companiondiagnostics.
 
 ## 2.2 Recommended Dosage Regimen
@@ -17,7 +19,7 @@ If a dose of TAGRISSO is missed, do not make up the missed dose and take the nex
 Disperse tablet in 60 mL (2 ounces) of non-carbonated water only.
 Stir until tablet is dispersed into small pieces (the tablet will not completely dissolve) and swallow immediately.
 Do not crush, heat, or ultrasonicate during preparation.
-Rinse the container with 120 mL to 240 mL (4 to 8 ounces of) water and immediately drink.
+Rinse the container with 120 mL to 240 mL (4 to 8 ounces) of water and immediately drink.
 
 If administration via naso-gastric tube is required, disperse the tablet as above in 15 mL of non-carbonated water, and then use an additional 15 mL of water to transfer any residues to the syringe.
 The resulting 30 mL liquid should be administered as per the nasogastric tube instructions with appropriate water flushes (approximately 30 mL).

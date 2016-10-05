@@ -58,7 +58,7 @@ Exploratory analysis suggests a higher incidence of Grade 3 and 4 adverse reacti
 
 ## 8.6 Renal Impairment
 
-No dose adjustment is recommended in patients with mild [creatinine clearance (CLcr) 60-89 mL/min, as estimated by the Cockcroft Gault method (C-G)] or moderate (CLcr 30‑59 mL/min, as estimated by C-G) renal impairment.
+No dose adjustment is recommended in patients with mild [creatinine clearance (CLcr) 60-89 mL/min, as estimated by the Cockcroft Gault method (C-G)] or moderate (CLcr 30-59 mL/min, as estimated by C-G) renal impairment.
 There is no recommended dose of TAGRISSO for patients with severe renal impairment (CLcr <30 mL/min) or end-stage renal disease [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment

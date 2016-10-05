@@ -5,11 +5,11 @@ All patients were required to have EGFR T790M mutation-positive NSCLC as detecte
 The major efficacy outcome measure of both trials was ORR according to RECIST v1.1 as evaluated by a Blinded Independent Central Review (BICR).
 Duration of response (DOR) was an additional outcome measure.
 
-Study 1 population characteristics were: median age 62 years (range 37 to 89), female (66%), White (38%), Asian (58%), never smoker (67%), World Health Organization (WHO) performance status 0 (34%) or 1 (66%), adenocarcinoma histology (97%), 1 prior line of therapy [EGFR-TKI treatment only, second line, chemotherapy-naïve] (30%), 2 or more prior lines of therapy (70%).
+Study 1 population characteristics were: median age 62 years (range 37 to 89), female (66%), White (38%), Asian (58%), never smoker (67%), WHO performance status 0 (34%) or 1 (66%), adenocarcinoma histology (97%), 1 prior line of therapy [EGFR-TKI treatment only, second line, chemotherapy-naïve] (30%), 2 or more prior lines of therapy (70%).
 Sites of extra-thoracic metastasis included liver (32%), bone (51%), and brain (37%).
 Somatic EGFR mutations in addition to T790M were exon 19 deletion (71%), L858R (25%), G719X (2%), and S768I (2%).
 
-Study 2 population characteristics were: median age 64 years (range 35 to 88), female (70%), White (34%), Asian (63%), never smoker (76%), World Health Organization (WHO) performance status 0 (40%) or 1 (60%), adenocarcinoma histology (95%), 1 prior line of therapy [EGFR-TKI treatment only, second line, chemotherapy-naïve] (32%), 2 or more prior lines of therapy (68%).
+Study 2 population characteristics were: median age 64 years (range 35 to 88), female (70%), White (34%), Asian (63%), never smoker (76%), WHO performance status 0 (40%) or 1 (60%), adenocarcinoma histology (95%), 1 prior line of therapy [EGFR-TKI treatment only, second line, chemotherapy-naïve] (32%), 2 or more prior lines of therapy (68%).
 Sites of extra-thoracic metastasis included liver (26%), bone (43%), and brain (41%).
 Somatic EGFR mutations in addition to T790M were exon 19 deletion (65%), L858R (32%), G719X (2%), and S768I (1%).
 
