@@ -80,9 +80,12 @@ Infusion Rate (mL/hr) of Dobutamine Hydrochloride in 5% Dextrose Injection.
 | 17.5 | 1.3 | 2.6 | 5.3 | 7.9 | 11 | 13 | 16 | 18 | 21 | 24 | 26 | 29 |
 | 20 | 1.5 | 3.0 | 6.0 | 9.0 | 12 | 15 | 18 | 21 | 24 | 27 | 30 | 33 |
 
-Baxter, and Viaflex are trademarks of Baxter International Inc.
+BAXTER, AND VIAFLEX ARE TRADEMARKS OF BAXTER INTERNATIONAL INC.
+
+©Copyright 1991, 1993, Baxter Healthcare Corporation.
+All rights reserved.
 
 Baxter Healthcare Corporation Deerfield, IL 60015 USA Printed in USA
 
-07-19-76-569 Rev.
-February 2016
+7-19-72-996 Rev.
+April 2014

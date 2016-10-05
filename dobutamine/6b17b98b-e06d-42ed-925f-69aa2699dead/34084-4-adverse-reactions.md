@@ -6,8 +6,6 @@ A 10 to 20-mm Hg increase in systolic blood pressure and an increase in heart ra
 Approximately 5% of adult patients have had increased premature ventricular beats during infusions.
 These effects are dose related.
 
-Eosinophilic (hypersensitivity) myocarditis has also been reported.
-
 ## Hypotension
 
 Precipitous decreases in blood pressure have occasionally been described in association with dobutamine therapy.
