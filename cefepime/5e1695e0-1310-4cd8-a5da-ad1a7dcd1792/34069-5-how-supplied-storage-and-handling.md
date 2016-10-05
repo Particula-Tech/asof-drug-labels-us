@@ -1,4 +1,11 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
+
+How Supplied
+
+Cefepime for Injection, USP is supplied as follows:
+
+Cefepime for Injection, USP in the dry state, is a white to pale yellow powder.
+Constituted solution of Cefepime for Injection, USP can range in color from pale yellow to amber.
 
 | Product No. | NDC No. | Strength |
 | --- | --- | --- |
@@ -7,7 +14,8 @@
 
 *Based on cefepime activity.
 
-Storage
+Storage and Handling
 
-IN THE DRY STATE STORE AT 20º TO 25ºC (68º TO 77ºF) [SEE USP CONTROLLED ROOM TEMPERATURE] AND PROTECT FROM LIGHT.
-RETAIN IN CARTON UNTIL TIME OF USE.
+Cefepime for Injection, USP in the dry state should be stored at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
+Protect from light.
+Retain in carton until time of use.
