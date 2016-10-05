@@ -1,7 +1,7 @@
 # WARNINGS
 
 Patients who have been treated with monoamine oxidase (MAO) inhibitors prior to the administration of dopamine hydrochloride will require substantially reduced dosage.
-See Drug Interactions, below.
+See DRUG INTERACTIONS, below.
 
 Evidence is inadequate for fully defining proper dosage and limitations for use in children.
 
@@ -22,7 +22,7 @@ Excess administration of potassium-free solutions may result in significant hypo
 ## General
 
 Avoid bolus administration of dopamine hydrochloride.
-See Dosage and Administration.
+See DOSAGE and ADMINISTRATION.
 
 ## Avoid Hypovolemia
 
