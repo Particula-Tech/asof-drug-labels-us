@@ -175,8 +175,9 @@ Fluoxetine oral solution and some medicines may interact with each other, may no
 
 Your healthcare provider or pharmacist can tell you if it is safe to take fluoxetine oral solution with your other medicines.
 Do not start or stop any medicine while taking fluoxetine oral solution without talking to your healthcare provider first.
+If you take fluoxetine oral solution, you should not take any other medicines that contain fluoxetine hydrochloride including:
 
-| If you take fluoxetine oral solution, you should not take any other medicines that contain fluoxetine hydrochloride including: Symbyax Sarafem |
+| Symbyax Sarafem |
 | --- |
 
 How should I take fluoxetine oral solution?
@@ -257,4 +258,5 @@ Symbyax® and Sarafem® are registered trademarks of Eli Lilly and Company.
 Mellaril® is a registered trademark of Novartis AG Corporation.
 Orap® is a registered trademark of Teva Pharmaceuticals USA.
 Coumadin® is a registered trademark of Bristol Myers Squibb.
-Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc. Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad—500 072, India Revised: 12/2014
+Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc. Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides.
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India Revised: 09/2016

@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-Fluoxetine oral solution, USP is indicated for the treatment of:
+Fluoxetine oral solution is indicated for the treatment of:
 
 - Acute and maintenance treatment of Major Depressive Disorder [see Clinical Studies (14.1)].
 - Acute and maintenance treatment of obsessions and compulsions in patients with Obsessive Compulsive Disorder (OCD) [see Clinical Studies (14.2)].
