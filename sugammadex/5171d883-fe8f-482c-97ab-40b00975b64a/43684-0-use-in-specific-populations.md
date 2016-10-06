@@ -71,8 +71,8 @@ No adverse effects on bone or teeth were noted.
 
 ## 8.5 Geriatric Use
 
-BRIDION has been administered in a dedicated clinical study to a total 102 geriatric patients that compared the time to recovery from neuromuscular blockade induced by rocuronium (0.6 mg/kg) following administration of 2 mg/kg BRIDION given at the reappearance of T2 in 65-74 year-olds (N=62) and >75 year-olds (N=40) compared with 18-64 year-olds (N=48).
-The median time to recovery of the TOF (T4/T1) ratio to 0.9 in 18-64 year-olds was 2.2 minutes; in 65-74 year-olds it was 2.5 minutes, and in >75 year-olds it was 3.6 minutes.
+BRIDION has been administered in a dedicated clinical study to a total 102 geriatric patients that compared the time to recovery from neuromuscular blockade induced by rocuronium (0.6 mg/kg) following administration of 2 mg/kg BRIDION given at the reappearance of T2 in 65-74 year-olds (N=62) and ≥75 year-olds (N=40) compared with 18-64 year-olds (N=48).
+The median time to recovery of the TOF (T4/T1) ratio to 0.9 in 18-64 year-olds was 2.2 minutes; in 65-74 year-olds it was 2.5 minutes, and in ≥75 year-olds it was 3.6 minutes.
 For time to recovery from neuromuscular blockade induced by rocuronium following administration of 4 mg/kg BRIDION given at 1-2 PTCs, results across clinical trials revealed a median recovery of 2.5 minutes for geriatric patients (≥65 years, N=63) versus 2.0 minutes, for adults aged 18-64 years (N=359).
 Hence no dose adjustment is necessary in geriatric patients with normal organ function [see Dosage and Administration (2.1)].
 
@@ -82,10 +82,10 @@ Because elderly patients are more likely to have decreased renal function, care 
 ## 8.6 Renal Impairment
 
 This drug is known to be substantially excreted by the kidney.
-Effect of mild or moderate renal impairment on sugammadex PK and PD was obtained from a study in elderly patients [see Use in Specific Populations (8.5)].
+Effect of mild or moderate renal impairment (creatine clearance ≥30 and ≤80 mL/min) on sugammadex PK and PD was obtained from a study in elderly patients [see Use in Specific Populations (8.5)].
 Although clearance of drug decreased in elderly subjects with mild and moderate renal impairment, there was no significant difference in the ability of sugammadex to reverse the pharmacodynamic effect of rocuronium.
 Hence, no dosage adjustment is necessary for mild and moderate renal impairment.
-BRIDION is not recommended for use in patients with severe renal impairment due to insufficient safety information combined with the prolonged and increased overall exposure in these patients [see Warnings and Precautions (5.11), Clinical Pharmacology (12.3)].
+BRIDION is not recommended for use in patients with severe renal impairment (creatine clearance <30 mL/min) due to insufficient safety information combined with the prolonged and increased overall exposure in these patients [see Warnings and Precautions (5.11), Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 

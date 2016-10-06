@@ -100,7 +100,7 @@ Bronchospasm
 
 In one dedicated clinical trial and in post-marketing data, in patients with a history of pulmonary complications [see Use in Specific Populations (8.9)], bronchospasm was reported as a possibly related adverse event.
 
-## 6.2 Post-marketing Experience
+## 6.2 Post-Marketing Experience
 
 The following adverse reactions have been identified during post-approval use of BRIDION.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
