@@ -4,7 +4,7 @@ Ciprofloxacin Injection, USP is a synthetic antimicrobial agent for intravenous 
 Ciprofloxacin, a fluoroquinolone, is 1-cyclopropyl-6-fluoro-1,4-dihydro-4-oxo-7-(1-piperazinyl)-3-quinolinecarboxylic acid.
 Its empirical formula is C17H18FN3O3 and its chemical structure is:
 
-Ciprofloxacin is a faint to light yellow crystalline powder with a molecular weight of 331.4.
+Ciprofloxacin Injection, USP is a faint to light yellow crystalline powder with a molecular weight of 331.4.
 It is soluble in dilute (0.1N) hydrochloric acid and is practically insoluble in water and ethanol.
 Ciprofloxacin Injection, USP solution is available as 0.2% ready-for-use infusion solution in 5% Dextrose Injection.
 The formula contains lactic acid as a solubilizing agent and hydrochloric acid for pH adjustment.

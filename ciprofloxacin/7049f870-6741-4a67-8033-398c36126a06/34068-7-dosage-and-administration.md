@@ -10,25 +10,24 @@ Table 1: Adult Dosage Guidelines
 
 | Infection1 | Dose | Frequency | Usual Duration |
 | --- | --- | --- | --- |
-| Urinary Tract | 200 mg to 400 mg | every 12 to every 8 hours | 7-14 days |
-| Lower Respiratory Tract | 400 mg | every 12 to every 8 hours | 7-14 days |
-| Nosocomial Pneumonia | 400 mg | every 8 hours | 10-14 days |
-| Skin and Skin Structure | 400 mg | every 12 to every 8 hours | 7-14 days |
-| Bone and Joint | 400 mg | every 12 to every 8 hours | 4 to 8 weeks |
-| Complicated Intra-Abdominal2 | 400 mg | every 12 hours | 7-14 days |
+| Skin and Skin Structure | 400 mg | every 8 to 12 hours | 7 to 14 days |
+| Bone and Joint | 400 mg | every 8 to 12 hours | 4 to 8 weeks |
+| Complicated Intra-Abdominal2 | 400 mg | every 12 hours | 7 to 14 days |
+| Nosocomial Pneumonia | 400 mg | every 8 hours | 10 to 14 days |
+| Empirical Therapy In Febrile Neutropenic Patients | Ciprofloxacin 400 mg and Piperacillin 50 mg per kg | every 8 hours every 4 hours | 7 to 14 days |
+| Inhalational Anthrax (Post-Exposure)3 | 400 mg | every 12 hours | 60 days |
+| Plague3 | 400 mg | every 8 to 12 hours | 14 days |
+| Chronic Bacterial Prostatitis | 400 mg | every 12 hours | 28 days |
+| Lower Respiratory Tract Infections | 400 mg | every 8 to 12 hours | 7 to 14 days |
+| Urinary Tract Infections | 200 mg to 400 mg | every 8 to 12 hours | 7 to 14 days |
 | Acute Sinusitis | 400 mg | every 12 hours | 10 days |
-| Chronic Bacterial prostatitis | 400 mg | every 12 hours | 28 days |
-| Empirical Therapy In Febrile Neutropenic Patients | Ciprofloxacin 400 mg and Piperacillin 50 mg/kg | every 8 hours | 7-14 days |
-| every 4 hours |  |  |  |
-| Inhalational anthrax (post-exposure)3 | 400 mg | every 12 hours | 60 days |
-| Plague3 | 400 mg | every 12 to 8 hours | 14 days |
 | 1. Due to the designated pathogens (see Indications and Usage.) |  |  |  |
 | 2. Used in conjunction with metronidazole. |  |  |  |
 | 3. Begin administration as soon as possible after suspected or confirmed exposure. |  |  |  |
 
 Conversion of Intravenous to Oral Dosing in Adults
 
-Patients whose therapy is started with ciprofloxacin injection may be switched to ciprofloxacin Tablets or Oral Suspension when clinically indicated at the discretion of the physician (Table 2) [see Clinical Pharmacology (12.3)].
+Patients whose therapy is started with ciprofloxacin injection may be switched to ciprofloxacin tablets or oral suspension when clinically indicated at the discretion of the physician (Table 2) [see Clinical Pharmacology (12.3)].
 
 Table 2: Equivalent AUC Dosing Regimens
 
@@ -44,11 +43,11 @@ Dosing and initial route of therapy (that is, IV or oral) for cUTI or pyelonephr
 
 Table 3: Pediatric Dosage Guidelines
 
-| Infection | Dose (mg/kg) | Frequency | Total Duration |
+| Infection | Dose (mg per kg) | Frequency | Total Duration |
 | --- | --- | --- | --- |
-| Complicated Urinary Tract or Pyelonephritis (patients from 1 to 17 years of age)1 | 6 mg/kg to 10 mg/kg (maximum 400 mg per dose; not to be exceeded even in patients weighing more than 51 kg) | Every 8 hours | 10-21 days1 |
-| Inhalational Anthrax (Post-Exposure)2 | 10 mg/kg (maximum 400 mg per dose) | Every 12 hours | 60 days |
-| Plague2,3 | 10 mg/kg (maximum 400 mg per dose) | Every 12 to 8 hours | 10- 21 days |
+| Complicated Urinary Tract or Pyelonephritis (patients from 1 to 17 years of age)1 | 6 mg per kg to 10 mg per kg (maximum 400 mg per dose; not to be exceeded even in patients weighing more than 51 kg) | Every 8 hours | 10 to 21 days1 |
+| Inhalational Anthrax (Post-Exposure)2 | 10 mg per kg (maximum 400 mg per dose) | Every 12 hours | 60 days |
+| Plague2,3 | 10 mg per kg (maximum 400 mg per dose) | Every 8 to 12 hours | 10 to 21 days |
 | 1. The total duration of therapy for cUTI and pyelonephritis in the clinical trial was determined by the physician. The mean duration of treatment was 11 days (range 10 to 21 days). |  |  |  |
 | 2. Begin drug administration as soon as possible after suspected or confirmed exposure. |  |  |  |
 | 3. Begin drug administration as soon as possible after suspected or confirmed exposure to Y. pestis. |  |  |  |
@@ -65,13 +64,13 @@ Table 4: Recommended Starting and Maintenance Doses for Adult Patients with Impa
 | Creatinine Clearance (mL/min) | Dose |
 | --- | --- |
 | >30 | See Usual Dosage. |
-| 5-29 | 200-400 mg every 18-24 hours |
+| 5 to 29 | 200 to 400 mg every 18 to 24 hours |
 
 When only the serum creatinine concentration is known, the following formulas may be used to estimate creatinine clearance:
 
-| Men - Creatinine clearance (mL/min) = | Weight (kg) × (140 - age) 72 × serum creatinine (mg/dL) |  |
-| --- | --- | --- |
-| Women - 0.85 × the value calculated for men. |  |  |
+| Men - Creatinine clearance (mL/min) = | Weight (kg) × (140 - age) 72 × serum creatinine (mg/dL) |
+| --- | --- |
+| Women - 0.85 × the value calculated for men. |  |
 
 The serum creatinine should represent a steady state of renal function.
 
@@ -95,10 +94,10 @@ Use only if solution is clear and the container is undamaged.
 
 Intravenous Infusion
 
-Ciprofloxacin injection should be administered to by intravenous infusion over a period of 60 minutes.
+Ciprofloxacin injection should be administered by intravenous infusion over a period of 60 minutes.
 Slow infusion of a dilute solution into a larger vein will minimize patient discomfort and reduce the risk of venous irritation.
 
 Hydration of Patients Receiving Ciprofloxacin Injection
 
 Adequate hydration of patients receiving ciprofloxacin injection should be maintained to prevent the formation of highly concentrated urine.
-Crystalluria has been reported with quinolones [see Warnings and Precautions (5.12), Adverse Reactions (6.1), Nonclinical Toxicology (13.2) and Patient Counseling Information (17)].
+Crystalluria has been reported with quinolones [see Warnings and Precautions (5.16), Adverse Reactions (6.1), Nonclinical Toxicology (13.2) and Patient Counseling Information (17)].

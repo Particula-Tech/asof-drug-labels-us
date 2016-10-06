@@ -2,17 +2,18 @@
 
 The following serious and otherwise important adverse drug reactions are discussed in greater detail in other sections of labeling:
 
-- Tendon Effects [see Warnings and Precautions (5.1)]
-- Exacerbation of Myasthenia Gravis [see Warnings and Precautions (5.2)]
-- Hypersensitivity Reactions [see Warnings and Precautions (5.3)]
-- Other Serious and Sometimes Fatal Reactions [see Warnings and Precautions (5.4)]
-- Hepatotoxicity [see Warnings and Precautions (5.5)]
-- Serious Adverse Reactions with Concomitant Theophylline [see Warnings and Precautions (5.6)]
-- Central Nervous System Effects [see Warnings and Precautions (5.7)]
-- Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.8)]
-- Peripheral Neuropathy [see Warnings and Precautions (5.9)]
-- Prolongation of the QT Interval [see Warnings and Precautions (5.10)]
-- Musculoskeletal Disorders in Pediatric Patients [see Warnings and Precautions (5.11)]
+- Disabling and Potentially Irreversible Serious Adverse Reactions [see Warnings and Precautions (5.1)]
+- Tendinitis and Tendon Rupture [see Warnings and Precautions (5.2)]
+- Peripheral Neuropathy [see Warnings and Precautions (5.3)]
+- Central Nervous System Effects [see Warnings and Precautions (5.4)]
+- Exacerbation of Myasthenia Gravis [see Warnings and Precautions (5.5)]
+- Other Serious and Sometimes Fatal Adverse Reactions [see Warnings and Precautions (5.6)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.7)]
+- Hepatotoxicity [see Warnings and Precautions (5.8)]
+- Serious Adverse Reactions with Concomitant Theophylline [see Warnings and Precautions (5.9)]
+- Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.10)]
+- Prolongation of the QT Interval [see Warnings and Precautions (5.11)]
+- Musculoskeletal Disorders in Pediatric Patients [see Warnings and Precautions (5.12)]
 - Photosensitivity/Phototoxicity [see Warnings and Precautions (5.13)]
 - Development of Drug Resistant Bacteria [see Warnings and Precautions (5.14)]
 
@@ -44,7 +45,7 @@ Table 5: Medically Important Adverse Reactions That Occurred in less than 1% Cip
 | Musculoskeletal | Arthralgia Joint Stiffness Muscle Weakness |
 | Renal/Urogenital | Renal Failure Interstitial Nephritis Hemorrhagic Cystitis Renal Calculi Frequent Urination Gynecomastia Crystalluria Cylindruria Hematuria Albuminuria |
 | Respiratory | Respiratory Arrest Dyspnea Laryngeal Edema Hemoptysis Bronchospasm |
-| Skin/Hypersensitivity | Allergic Reactions Anaphylactic Reactions including life-threatening anaphylactic shock Erythema Multiforme/Stevens-Johnson Syndrome Exfoliative Dermatitis Toxic Epidermal Necrolysis Vasculitis Angioedema extremities Purpura Fever Pruritus Urticaria Increased Perspiration Erythema Nodosum Thrombophlebitis Burning Photosensitivity/Phototoxicity Reaction |
+| Skin/Hypersensitivity | Allergic Reactions Anaphylactic Reactions including life-threatening anaphylactic shock Erythema Multiforme/Stevens-Johnson Syndrome Exfoliative Dermatitis Toxic Epidermal Necrolysis Vasculitis Angioedema Extremities Purpura Fever Pruritus Urticaria Increased Perspiration Erythema Nodosum Thrombophlebitis Burning Photosensitivity/Phototoxicity Reaction |
 | Special Senses | Decreased Visual Acuity Blurred Vision Disturbed Vision (diplopia, chromatopsia, and photopsia) Anosmia Hearing Loss Tinnitus Nystagmus Bad Taste |
 
 In several instances, nausea, vomiting, tremor, irritability, or palpitation were judged by investigators to be related to elevated serum levels of theophylline possibly as a result of drug interaction with ciprofloxacin.
@@ -89,10 +90,10 @@ Serious adverse reactions were seen in 7.5% (25/335) of ciprofloxacin-treated pa
 Discontinuation of drug due to an adverse reaction was observed in 3% (10/335) of ciprofloxacin-treated patients versus 1.4% (5/349) of comparator patients.
 Other adverse events that occurred in at least 1% of ciprofloxacin patients were diarrhea 4.8%, vomiting 4.8%, abdominal pain 3.3%, dyspepsia 2.7%, nausea 2.7%, fever 2.1%, asthma 1.8% and rash 1.8%.
 
-Short-term safety data for ciprofloxacin was also collected in a randomized, double-blind clinical trial for the treatment of acute pulmonary exacerbations in cystic fibrosis patients (ages 5–17 years).
-Sixty seven patients received ciprofloxacin IV 10 mg/kg/dose every 8 hours for one week followed by ciprofloxacin tablets 20 mg/kg/dose every 12 hours to complete 10–21 days treatment and 62 patients received the combination of ceftazidime intravenous 50 mg/kg/dose every 8 hours and tobramycin intravenous 3 mg/kg/dose every 8 hours for a total of 10–21 days.
+Short-term safety data for ciprofloxacin was also collected in a randomized, double-blind clinical trial for the treatment of acute pulmonary exacerbations in cystic fibrosis patients (ages 5 to 17 years).
+Sixty seven patients received ciprofloxacin IV 10 mg/kg/dose every 8 hours for one week followed by ciprofloxacin tablets 20 mg/kg/dose every 12 hours to complete 10 to 21 days treatment and 62 patients received the combination of ceftazidime intravenous 50 mg/kg/dose every 8 hours and tobramycin intravenous 3 mg/kg/dose every 8 hours for a total of 10 to 21 days.
 Periodic musculoskeletal assessments were conducted by treatment-blinded examiners.
-Patients were followed for an average of 23 days after completing treatment (range 0–93 days).
+Patients were followed for an average of 23 days after completing treatment (range 0 to 93 days).
 Musculoskeletal adverse reactions were reported in 22% of the patients in the ciprofloxacin group and 21% in the comparison group.
 Decreased range of motion was reported in 12% of the subjects in the ciprofloxacin group and 16% in the comparison group.
 Arthralgia was reported in 10% of the patients in the ciprofloxacin group and 11% in the comparison group.
@@ -112,8 +113,7 @@ Table 7: Postmarketing Reports of Adverse Drug Reactions
 | --- | --- |
 | Cardiovascular | QT prolongation Torsade de Pointes Vasculitis and ventricular arrhythmia |
 | Central Nervous System | Hypertonia Myasthenia Exacerbation of myasthenia gravis Peripheral neuropathy Polyneuropathy Twitching |
-| Eye Disorders | Nystagmus |
-| Gastrointestinal | Psuedomembranous colitis |
+| Gastrointestinal | Pseudomembranous colitis |
 | Hemic/Lymphatic | Pancytopenia (life threatening or fatal outcome) Methemoglobinemia |
 | Hepatobiliary | Hepatic failure (including fatal cases) |
 | Infections and Infestations | Candidiasis (oral, gastrointestinal, vaginal) |
@@ -121,7 +121,7 @@ Table 7: Postmarketing Reports of Adverse Drug Reactions
 | Musculoskeletal | Myalgia Myoclonus Tendinitis Tendon rupture |
 | Psychiatric Disorders | Agitation Confusion Delirium |
 | Skin/Hypersensitivity | Acute generalized exanthematous pustulosis (AGEP) Fixed eruption Serum sickness-like reaction |
-| Special Senses | Anosmia Hyperesthesia Hypesthesia Taste loss |
+| Special Senses | Anosmia Hyperesthesia Hypesthesia Nystagmus Taste loss |
 
 ## 6.3 Adverse Laboratory Changes
 

@@ -14,7 +14,7 @@ Table 13: Clinical Response Rates
 | --- | --- | --- |
 | Clinical Resolution of Initial Febrile Episode with No Modifications of Empirical Regimen1 | 63 (27%) | 52 (21.9%) |
 | Clinical Resolution of Initial Febrile Episode Including Patients with Modifications of Empirical Regimen | 187 (80.3%) | 185 (78.1%) |
-| Overall Survival | 224 (96.1%) | 185 (78.1%) |
+| Overall Survival | 224 (96.1%) | 223 (94.1%) |
 | 1. To be evaluated as a clinical resolution, patients had to have: (1) resolution of fever; (2) microbiological eradication of infection (if an infection was microbiologically documented); (3) resolution of signs/symptoms of infection; and (4) no modification of empirical antibiotic regimen |  |  |
 
 ## 14.2 Complicated Urinary Tract Infection and Pyelonephritis-Efficacy in Pediatric Patients
@@ -56,7 +56,7 @@ After the second intravenous infusion patients switched to 15 mg/kg orally every
 Long-term safety data, including effects on cartilage, following the administration of ciprofloxacin to pediatric patients are limited.
 Ciprofloxacin serum concentrations achieved in humans serve as a surrogate endpoint reasonably likely to predict clinical benefit and provide the basis for this indication.11
 
-A placebo-controlled animal study in rhesus monkeys exposed to an inhaled mean dose of 11 LD50 (~5.5 × 105) spores (range 5-30 LD50) of B. anthracis was conducted.
+A placebo-controlled animal study in rhesus monkeys exposed to an inhaled mean dose of 11 LD50 (~5.5 × 105) spores (range 5 to 30 LD50) of B. anthracis was conducted.
 The minimal inhibitory concentration (MIC) of ciprofloxacin for the anthrax strain used in this study was 0.08 mcg/mL.
 In the animals studied, mean serum concentrations of ciprofloxacin achieved at expected Tmax (1 hour post-dose) following oral dosing to steady-state ranged from 0.98 mcg/mL to 1.69 mcg/mL.
 Mean steady-state trough concentrations at 12 hours post-dose ranged from 0.12 mcg/mL to 0.19 mcg/mL.10 Mortality due to anthrax for animals that received a 30-day regimen of oral ciprofloxacin beginning 24 hours post-exposure was significantly lower (1/9), compared to the placebo group (9/10) [p= 0.001].
@@ -73,7 +73,9 @@ The number of persons who received ciprofloxacin as all or part of their post-ex
 A placebo-controlled animal study in African green monkeys exposed to an inhaled mean dose of 110 LD50 (range 92 to 127 LD50) of Yersinia pestis (CO92 strain) was conducted.
 The minimal inhibitory concentration (MIC) of ciprofloxacin for the Y. pestis strain used in this study was 0.015 mcg/mL.
 Mean peak serum concentrations of ciprofloxacin achieved at the end of a single 60 minute infusion were 3.49 mcg/mL ± 0.55 mcg/mL, 3.91 mcg/mL ± 0.58 mcg/mL and 4.03 mcg/mL ± 1.22 mcg/mL on Day 2, Day 6 and Day 10 of treatment in African green monkeys, respectively All trough concentrations (Day 2, Day 6 and Day 10) were < 0.5 mcg/mL.
-Animals were randomized to receive either a 10-day regimen of intravenous ciprofloxacin 15 mg/kg, or placebo beginning when animals were found to be febrile (a body temperature greater than 1.5°C over baseline for two hours), or at 76 hours post-challenge, whichever occurred sooner.
+Animals were randomized to receive either a 10-day regimen of intravenous ciprofloxacin 15 mg/kg, or placebo beginning when animals were found to be febrile (a body temperature greater than 1.5°C over baseline for two hours), or at 76 hours post-challenge, whichever
+
+occurred sooner.
 Mortality in the ciprofloxacin group was significantly lower (1/10) compared to the placebo group (2/2) [difference: -90.0%, 95% exact confidence interval: -99.8% to -5.8%].
 The one ciprofloxacin-treated animal that died did not receive the proposed dose of ciprofloxacin due to a failure of the administration catheter.
 Circulating ciprofloxacin concentration was below 0.5 mcg/mL at all timepoints tested in this animal.

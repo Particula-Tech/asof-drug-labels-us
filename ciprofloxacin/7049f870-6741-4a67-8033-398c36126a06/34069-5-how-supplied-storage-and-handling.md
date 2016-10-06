@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Ciprofloxacin Injection, USP is available in 200 mg and 400 mg strengths supplied in flexible containers as follows:
+Ciprofloxacin Injection, USP (in 5% Dextrose Injection) is available in 200 mg and 400 mg strengths supplied in flexible containers as follows:
 
 |  | Ciprofloxacin Injection, USP in |  |
 | --- | --- | --- |

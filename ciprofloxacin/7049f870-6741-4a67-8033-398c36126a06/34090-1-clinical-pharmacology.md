@@ -21,7 +21,7 @@ Table 9: Steady-state Ciprofloxacin Serum Concentrations (mcg/mL) After 60-minut
 The pharmacokinetics of ciprofloxacin are linear over the dose range of 200 mg to 400 mg administered intravenously.
 Comparison of the pharmacokinetic parameters following the 1st and 5th intravenous dose on an every 12 hour regimen indicates no evidence of drug accumulation.
 
-The absolute bioavailability of oral ciprofloxacin is within a range of 70-80% with no substantial loss by first pass metabolism.
+The absolute bioavailability of oral ciprofloxacin is within a range of 70 to 80% with no substantial loss by first pass metabolism.
 An intravenous infusion of 400-mg ciprofloxacin given over 60 minutes every 12 hours has been shown to produce an area under the serum concentration time curve (AUC) equivalent to that produced by a 500-mg oral dose given every 12 hours.
 An intravenous infusion of 400 mg ciprofloxacin given over 60 minutes every 8 hours has been shown to produce an AUC at steady-state equivalent to that produced by a 750-mg oral dose given every 12 hours.
 A 400-mg intravenous dose results in a Cmax similar to that observed with a 750-mg oral dose.
@@ -34,9 +34,9 @@ Table 10: Steady–state Pharmacokinetic Parameters Following Multiple Oral and 
 |  | every 12 hours orally | every 12 hours, intravenously | every 12 hours, orally | every 8 hours, intravenously |
 | AUC (mcg•hr/mL) | 13.71 | 12.71 | 31.62 | 32.93 |
 | Cmax (mcg/mL) | 2.97 | 4.56 | 3.59 | 4.07 |
-| 1. AUC 0-12h |  |  |  |  |
-| 2. AUC 24h=AUC 0-12h × 2 |  |  |  |  |
-| 3. AUC 24h=AUC 0-8h × 3 |  |  |  |  |
+| 1. AUC 0 to 12h |  |  |  |  |
+| 2. AUC 24h = AUC 0 to 12h × 2 |  |  |  |  |
+| 3. AUC 24h = AUC 0 to 8h × 3 |  |  |  |  |
 
 Distribution
 
@@ -52,14 +52,14 @@ Metabolism
 After intravenous administration, three metabolites of ciprofloxacin have been identified in human urine which together account for approximately 10% of the intravenous dose.
 The metabolites have antimicrobial activity, but are less active than unchanged.
 Ciprofloxacin is an inhibitor of human cytochrome P450 1A2 (CYP1A2) mediated metabolism.
-Co-administration of ciprofloxacin with other drugs primarily metabolized by CYP1A2 results in increased plasma concentrations of these drugs and could lead to clinically significant adverse events of the co-administered drug [see Contraindications (4.2), Warnings and Precautions (5.6, 5.15) and Drug Interactions (7)].
+Co-administration of ciprofloxacin with other drugs primarily metabolized by CYP1A2 results in increased plasma concentrations of these drugs and could lead to clinically significant adverse events of the co-administered drug [see Contraindications (4.2), Warnings and Precautions (5.9, 5.15) and Drug Interactions (7)].
 
 Excretion
 
-The serum elimination half-life is approximately 5–6 hours and the total clearance is around 35 L/hr.
+The serum elimination half-life is approximately 5 to 6 hours and the total clearance is around 35 L/hr.
 After intravenous administration, approximately 50% to 70% of the dose is excreted in the urine as unchanged drug.
-Following a 200-mg intravenous dose, concentrations in the urine usually exceed 200 mcg/mL 0–2 hours after dosing and are generally greater than 15 mcg/mL 8–12 hours after dosing.
-Following a 400 mg intravenous dose, urine concentrations generally exceed 400 mcg/mL 0–2 hours after dosing and are usually greater than 30 mcg/mL 8–12 hours after dosing.
+Following a 200-mg intravenous dose, concentrations in the urine usually exceed 200 mcg/mL 0 to 2 hours after dosing and are generally greater than 15 mcg/mL 8 to 12 hours after dosing.
+Following a 400 mg intravenous dose, urine concentrations generally exceed 400 mcg/mL 0 to 2 hours after dosing and are usually greater than 30 mcg/mL 8 to 12 hours after dosing.
 The renal clearance is approximately 22 L/hr.
 The urinary excretion of ciprofloxacin is virtually complete by 24 hours after dosing.
 
@@ -73,8 +73,7 @@ Elderly
 Pharmacokinetic studies of the oral (single dose) and intravenous (single and multiple dose) forms of ciprofloxacin indicate that plasma concentrations of ciprofloxacin are higher in elderly subjects (older than 65 years) as compared to young adults.
 Although the Cmax is increased 16% to 40%, the increase in mean AUC is approximately 30%, and can be at least partially attributed to decreased renal clearance in the elderly.
 Elimination half-life is only slightly (~20%) prolonged in the elderly.
-These differences are not considered clinically significant.
-[See Use in Specific Populations (8.5).]
+These differences are not considered clinically significant [see Use in Specific Populations (8.5)].
 
 Renal Impairment
 
@@ -151,53 +150,9 @@ Ciprofloxacin has been shown to be active against most isolates of the following
 
 Gram-positive bacteria
 
-Bacillus anthracis
+Bacillus anthracis Enterococcus faecalis Staphylococcus aureus (methicillin-susceptible isolates only) Staphylococcus epidermidis (methicillin-susceptible isolates only) Staphylococcus saprophyticus Streptococcus pneumoniae Streptococcus pyogenes
 
-Enterococcus faecalis
-
-Staphylococcus aureus (methicillin-susceptible isolates only)
-
-Staphylococcus epidermidis (methicillin-susceptible isolates only)
-
-Staphylococcus saprophyticus
-
-Streptococcus pneumoniae
-
-Streptococcus pyogenes
-
-Gram-negative bacteria
-
-Citrobacter koseri
-
-Citrobacter freundii
-
-Enterobacter cloacae
-
-Escherichia coli
-
-Haemophilus influenzae
-
-Haemophilus parainfluenzae
-
-Klebsiella pneumoniae
-
-Moraxella catarrhalis
-
-Morganella morganii
-
-Proteus mirabilis
-
-Proteus vulgaris
-
-Providencia rettgeri
-
-Providencia stuartii
-
-Pseudomonas aeruginosa
-
-Serratia marcescens
-
-Yersinia pestis
+Gram-negative bacteria Citrobacter koseri Citrobacter freundii Enterobacter cloacae Escherichia coli Haemophilus influenzae Haemophilus parainfluenzae Klebsiella pneumoniae Moraxella catarrhalis Morganella morganii Proteus mirabilis Proteus vulgaris Providencia rettgeri Providencia stuartii Pseudomonas aeruginosa Serratia marcescens Yersinia pestis
 
 The following in vitro data are available, but their clinical significance is unknown.
 At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for ciprofloxacin (≤1 mcg/mL).
@@ -205,25 +160,11 @@ However, the efficacy of ciprofloxacin in treating clinical infections due to th
 
 Gram-positive bacteria
 
-Staphylococcus haemolyticus (methicillin-susceptible isolates only)
-
-Staphylococcus hominis (methicillin-susceptible isolates only)
+Staphylococcus haemolyticus (methicillin-susceptible isolates only) Staphylococcus hominis (methicillin-susceptible isolates only)
 
 Gram-negative bacteria
 
-Acinetobacter lwoffi
-
-Aeromonas hydrophila
-
-Edwardsiella tarda
-
-Enterobacter aerogenes
-
-Klebsiella oxytoca
-
-Legionella pneumophila
-
-Pasteurella multocida
+Acinetobacter lwoffi Aeromonas hydrophila Edwardsiella tarda Enterobacter aerogenes Klebsiella oxytoca Legionella pneumophila Pasteurella multocida
 
 Susceptibility Test Methods
 
@@ -234,7 +175,7 @@ Dilution Techniques
 
 Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized test method (broth and/or agar).5, 6, 7 The MIC values should be interpreted according to criteria provided in Table 11.
+The MICs should be determined using a standardized test method (broth and/or agar).5, 6, 7 The MIC values should be interpreted according to criteria provided in Table 10.
 
 Diffusion Techniques
 
@@ -248,16 +189,16 @@ Table 11: Susceptibility Test Interpretive Criteria for Ciprofloxacin
 |  | MIC (mcg/mL) |  |  | Zone Diameter (mm) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Bacteria | S | I | R | S | I | R |
-| Enterobacteriaceae | ≤1 | 2 | ≥4 | ≥21 | 16-20 | ≤15 |
-| Enterococcus faecalis | ≤1 | 2 | ≥4 | ≥21 | 16-20 | ≤15 |
-| Staphylococcus aureus | ≤1 | 2 | ≥4 | ≥21 | 16-20 | ≤15 |
-| Staphylococcus epidermidis | ≤1 | 2 | ≥4 | ≥21 | 16-20 | ≤15 |
-| Staphylococcus saprophyticus | ≤1 | 2 | ≥4 | ≥21 | 16-20 | ≤15 |
-| Pseudomonas aeruginosa | ≤1 | 2 | ≥4 | ≥21 | 16-20 | ≤15 |
+| Enterobacteriaceae | ≤1 | 2 | ≥4 | ≥21 | 16 to 20 | ≤15 |
+| Enterococcus faecalis | ≤1 | 2 | ≥4 | ≥21 | 16 to 20 | ≤15 |
+| Staphylococcus aureus | ≤1 | 2 | ≥4 | ≥21 | 16 to 20 | ≤15 |
+| Staphylococcus epidermidis | ≤1 | 2 | ≥4 | ≥21 | 16 to 20 | ≤15 |
+| Staphylococcus saprophyticus | ≤1 | 2 | ≥4 | ≥21 | 16 to 20 | ≤15 |
+| Pseudomonas aeruginosa | ≤1 | 2 | ≥4 | ≥21 | 16 to 20 | ≤15 |
 | Haemophilus influenzae1 | ≤1 | - | - | ≥21 | - | - |
 | Haemophilus parainfluenzae1 | ≤1 | - | - | ≥21 | - | - |
-| Streptococcus pneumoniae | ≤1 | 2 | ≥4 | ≥21 | 16-20 | ≤15 |
-| Streptococcus pyogenes | ≤1 | 2 | ≥4 | ≥21 | 16-20 | ≤15 |
+| Streptococcus pneumoniae | ≤1 | 2 | ≥4 | ≥21 | 16 to 20 | ≤15 |
+| Streptococcus pyogenes | ≤1 | 2 | ≥4 | ≥21 | 16 to 20 | ≤15 |
 | Bacillus anthracis1 | ≤0.25 | - | - | - | - | - |
 | Yersinia pestis1 | ≤0.25 | - | - | - | - | - |
 | S=Susceptible, I=Intermediate, and R=Resistant. |  |  |  |  |  |  |
@@ -278,9 +219,9 @@ Table 12: Acceptable Quality Control Ranges for Ciprofloxacin
 
 | Bacteria | MIC range (mcg/mL) | Zone Diameter (mm) |
 | --- | --- | --- |
-| Enterococcus faecalis ATCC 29212 | 0.25–2 | - |
-| Escherichia coli ATCC 25922 | 0.004–0.015 | 30–40 |
-| Haemophilus influenzae ATCC 49247 | 0.004–0.03 | 34–42 |
-| Pseudomonas aeruginosa ATCC 27853 | 0.25–1 | 25–33 |
-| Staphylococcus aureus ATCC 29213 | 0.12–0.5 | - |
-| Staphylococcus aureus ATCC 25923 | - | 22–30 |
+| Enterococcus faecalis ATCC® 29212 | 0.25 to 2 | - |
+| Escherichia coli ATCC® 25922 | 0.004 to 0.015 | 30 to 40 |
+| Haemophilus influenzae ATCC® 49247 | 0.004 to 0.03 | 34 to 42 |
+| Pseudomonas aeruginosa ATCC® 27853 | 0.25 to 1 | 25 to 33 |
+| Staphylococcus aureus ATCC® 29213 | 0.12 to 0.5 | - |
+| Staphylococcus aureus ATCC® 25923 | - | 22 to 30 |
