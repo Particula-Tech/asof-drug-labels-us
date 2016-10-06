@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA021877"
+  ],
+  "inn": "nelarabine",
+  "labeler": "Novartis Pharmaceuticals Corporation",
+  "package_ndcs": [
+    "0078-0683-06",
+    "0078-0683-61"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "nelarabine",
+      "name": "Arranon"
+    }
+  ],
+  "setid": "fffa5d75-0dba-4ad7-a252-5f60fa28489a",
+  "source": "dailymed"
+}
