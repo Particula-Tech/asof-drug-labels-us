@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-LEVOFLOXACIN INJECTION is a synthetic broad-spectrum antibacterial agent for intravenous administration.
+Levofloxacin Injection is a synthetic broad-spectrum antibacterial agent for intravenous administration.
 Chemically, levofloxacin, a chiral fluorinated carboxyquinolone, is the pure (-)-(S)-enantiomer of the racemic drug substance ofloxacin.
 The chemical name is (-)-(S)-9-fluoro-2,3-dihydro-3-methyl-10-(4-methyl-1-piperazinyl)-7-oxo-7H-pyrido[1,2,3-de]-1,4- benzoxazine-6-carboxylic acid hemihydrate.
 

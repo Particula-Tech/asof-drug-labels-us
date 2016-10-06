@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1 LEVOFLOXACIN INJECTION Pre-Mixed Solution, Single-Use in Flexible Container
+## 16.1 Levofloxacin Injection Pre-Mixed Solution, Single-Use in Flexible Container
 
 Levofloxacin Injection in 5% dextrose is supplied as a single-use, premixed solution in flexible containers.
 Each bag contains a dilute solution with the equivalent of 250, 500, or 750 mg of levofloxacin, respectively, in 5% Dextrose (D5W).
@@ -14,9 +14,12 @@ Each bag contains a dilute solution with the equivalent of 250, 500, or 750 mg o
 Storage Conditions
 
 Store at or below 25°C (77°F); however, brief exposure up to 40°C (104°F) does not adversely affect the product.
+
 Avoid excessive heat.
 Protect from freezing.
+
 Protect from light.
 
 Sterile, Nonpyrogenic, Preservative-free, PVC-free, DEHP-free.
+
 The container closure is not made with natural rubber latex.

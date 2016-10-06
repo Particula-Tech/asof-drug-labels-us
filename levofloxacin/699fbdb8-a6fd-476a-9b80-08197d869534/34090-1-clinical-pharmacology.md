@@ -48,7 +48,7 @@ Table 8: Mean ± SD Levofloxacin PK Parameters
 | 10 young healthy male and female subjects 18-36 years of age |  |  |  |  |  |  |  |
 | 11 healthy elderly male and female subjects 66-80 years of age |  |  |  |  |  |  |  |
 | 12 healthy males and females 19-55 years of age. |  |  |  |  |  |  |  |
-| *Absolute bioavailability; F=0.99 ± 0.08 from a 500 mg tablet and F=0.99 ± 0.06 from a 750 mg tablet; |  |  |  |  |  |  |  |
+| * Absolute bioavailability; F=0.99 ± 0.08 from a 500 mg tablet and F=0.99 ± 0.06 from a 750 mg tablet; |  |  |  |  |  |  |  |
 | ND=not determined. |  |  |  |  |  |  |  |
 
 Absorption
@@ -65,7 +65,7 @@ The mean ± SD peak and trough plasma concentrations attained following multiple
 The mean ± SD peak and trough plasma concentrations attained following multiple once-daily IV regimens were approximately 6.4 ± 0.8 and 0.6 ± 0.2 mcg/mL after the 500 mg doses, and 12.1 ± 4.1 and 1.3 ± 0.71 mcg/mL after the 750 mg doses, respectively.
 Oral administration of a 500 mg dose of levofloxacin with food prolongs the time to peak concentration by approximately 1 hour and decreases the peak concentration by approximately 14% following tablet and approximately 25% following oral solution administration.
 Therefore, Levofloxacin Tablets can be administered without regard to food.
-It is recommended that Levofloxacin Oral Solution be taken 1 hour before, or 2 hours after eating.
+It is recommended that Levofloxacin Oral Solution be taken 1 hour before or 2 hours after eating.
 
 The plasma concentration profile of levofloxacin after IV administration is similar and comparable in extent of exposure (AUC) to that observed for levofloxacin Tablets when equal doses (mg/mg) are administered.
 Therefore, the oral and IV routes of administration can be considered interchangeable (see Figure 2 and Figure 3).
@@ -172,70 +172,62 @@ Levofloxacin has in vitro activity against Gram-negative and Gram-positive bacte
 
 Levofloxacin has been shown to be active against most isolates of the following bacteria both in vitro and in clinical infections as described in Indications and Usage (1):
 
-Gram-Positive Bacteria
-
-- Enterococcus faecalis
-- Staphylococcus aureus (methicillin-susceptible isolates)
-- Staphylococcus epidermidis (methicillin-susceptible isolates)
-- Staphylococcus saprophyticus
-- Streptococcus pneumoniae (including multi-drug resistant isolates [MDRSP]1)
-- Streptococcus pyogenes
+- Gram-Positive Bacteria
+  - Enterococcus faecalis
+  - Staphylococcus aureus (methicillin-susceptible isolates)
+  - Staphylococcus epidermidis (methicillin-susceptible isolates)
+  - Staphylococcus saprophyticus
+  - Streptococcus pneumoniae (including multi-drug resistant isolates [MDRSP] 1)
+  - Streptococcus pyogenes
 
 1 MDRSP (Multi-drug resistant Streptococcus pneumoniae) isolates are isolates resistant to two or more of the following antibiotics: penicillin (MIC ≥ 2 mcg/mL), 2nd generation cephalosporins, e.g., cefuroxime; macrolides, tetracyclines and trimethoprim/sulfamethoxazole.
 
-Gram-Negative Bacteria
+- Gram-Negative Bacteria
+  - Enterobacter cloacae
+  - Escherichia coli
+  - Haemophilus influenzae
+  - Haemophilus parainfluenzae
+  - Klebsiella pneumoniae
+  - Legionella pneumophila
+  - Moraxella catarrhalis
+  - Proteus mirabilis
+  - Pseudomonas aeruginosa
+  - Serratia marcescens
 
-- Enterobacter cloacae
-- Escherichia coli
-- Haemophilus influenzae
-- Haemophilus parainfluenzae
-- Klebsiella pneumoniae
-- Legionella pneumophila
-- Moraxella catarrhalis
-- Proteus mirabilis
-- Pseudomonas aeruginosa
-- Serratia marcescens
+- Other Bacteria
+  - Chlamydophila pneumoniae
+  - Mycoplasma pneumoniae
 
-Other Bacteria
+The following in vitro data are available, but their clinical significance is unknown: Levofloxacin exhibits in vitro minimum inhibitory concentrations (MIC values) of 2 mcg/mL or less against most (≥90%) isolates of the following microorganisms; however, the safety and effectiveness of levofloxacin in treating clinical infections due to these bacteria have not been established in adequate and well-controlled clinical trials.
 
-- Chlamydophila pneumoniae
-- Mycoplasma pneumoniae
+- Gram-Positive Bacteria
+  - Staphylococcus haemolyticus
+  - β-hemolytic Streptococcus (Group C/F)
+  - β-hemolytic Streptococcus (Group G)
+  - Streptococcus agalactiae
+  - Streptococcus milleri
+  - Viridans group streptococci
+  - Bacillus anthracis
 
-The following in vitro data are available, but their clinical significance is unknown:
+- Gram-Negative Bacteria
+  - Acinetobacter baumannii
+  - Acinetobacter lwoffii
+  - Bordetella pertussis
+  - Citrobacter koseri
+  - Citrobacter freundii
+  - Enterobacter aerogenes
+  - Enterobacter sakazakii
+  - Klebsiella oxytoca
+  - Morganella morganii
+  - Pantoea agglomerans
+  - Proteus vulgaris
+  - Providencia rettgeri
+  - Providencia stuartii
+  - Pseudomonas fluorescens
+  - Yersinia pestis
 
-Levofloxacin exhibits in vitro minimum inhibitory concentrations (MIC values) of 2 mcg/mL or less against most (≥90%) isolates of the following microorganisms; however, the safety and effectiveness of levofloxacin in treating clinical infections due to these bacteria have not been established in adequate and well-controlled clinical trials.
-
-Gram-Positive Bacteria
-
-- Staphylococcus haemolyticus
-- β-hemolytic Streptococcus (Group C/F)
-- β-hemolytic Streptococcus (Group G)
-- Streptococcus agalactiae
-- Streptococcus milleri
-- Viridans group streptococci
-- Bacillus anthracis
-
-Gram-Negative Bacteria
-
-- Acinetobacter baumannii
-- Acinetobacter lwoffii
-- Bordetella pertussis
-- Citrobacter koseri
-- Citrobacter freundii
-- Enterobacter aerogenes
-- Enterobacter sakazakii
-- Klebsiella oxytoca
-- Morganella morganii
-- Pantoea agglomerans
-- Proteus vulgaris
-- Providencia rettgeri
-- Providencia stuartii
-- Pseudomonas fluorescens
-- Yersinia pestis
-
-Anaerobic Gram-Positive Bacteria
-
-- Clostridium perfringens
+- Anaerobic Gram-Positive Bacteria
+  - Clostridium perfringens
 
 Susceptibility Tests
 
