@@ -1,7 +1,7 @@
 # 16. HOW SUPPLIED/STORAGE AND HANDLING
 
 MOXATAG tablets for oral administration are provided as blue film-coated, oval-shaped tablets that contain 775 mg of amoxicillin as the trihydrate.
-The tablets are printed with “MB-111” on one side in black edible ink.
+The tablets are printed with "MB-111" on one side in black edible ink.
 MOXATAG is packaged in bottles as follows:
 
 Bottles of 30 NDC 59630-142-03
