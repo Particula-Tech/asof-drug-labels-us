@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Chlordiazepoxide and Amitriptyline Hydrochloride Tablets, USP are available containing 5 mg of chlordiazepoxide, USP and 12.5 mg of amitriptyline, USP (as the hydrochloride salt) or 10 mg of chlordiazepoxide, USP and 25 mg of amitriptyline, USP (as the hydrochloride salt).
+Chlordiazepoxide and Amitriptyline Hydrochloride Tablets, USP are available containing 5 mg of chlordiazepoxide, USP and 14 mg of amitriptyline hydrochloride, USP equivalent to 12.5 mg of amitriptyline or 10 mg of chlordiazepoxide, USP and 27.98 mg of amitriptyline hydrochloride, USP equivalent to 25 mg of amitriptyline.
 
 The 5 mg/12.5 mg tablets are green, film-coated, round, unscored tablets debossed with MYLAN on one side of the tablet and 211 on the other side.
 They are available as follows:
@@ -18,6 +18,8 @@ NDC 0378-0277-05 bottles of 500 tablets
 
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
+
+Store in a dry place.
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 

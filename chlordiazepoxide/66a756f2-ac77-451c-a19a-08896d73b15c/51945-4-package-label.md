@@ -6,7 +6,7 @@ Chlordiazepoxide and Amitriptyline HCl Tablets, USP CIV 5 mg/ 12.5 mg*
 
 Rx only 100 Tablets
 
-*Each film-coated tablet contains 5 mg of chlordiazepoxide, USP and 12.5 mg of amitriptyline, USP (as the hydrochloride salt).
+*Each film-coated tablet contains 5 mg of chlordiazepoxide, USP and 14 mg of amitriptyline hydrochloride, USP equivalent to 12.5 mg of amitriptyline.
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -17,13 +17,15 @@ Keep this and all medication out of the reach of children.
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
+Store in a dry place.
+
 Usual Adult Dosage: See accompanying prescribing information.
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-RM0211A12
+RM0211A13
 
 # PRINCIPAL DISPLAY PANEL - 10 mg/25 mg
 
@@ -33,7 +35,7 @@ Chlordiazepoxide and Amitriptyline HCl Tablets, USP CIV 10 mg/ 25 mg*
 
 Rx only 100 Tablets
 
-*Each film-coated tablet contains 10 mg of chlordiazepoxide, USP and 25 mg of amitriptyline, USP (as the hydrochloride salt).
+*Each film-coated tablet contains 10 mg of chlordiazepoxide, USP and 27.98 mg of amitriptyline hydrochloride, USP equivalent to 25 mg of amitriptyline.
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -44,10 +46,12 @@ Keep this and all medication out of the reach of children.
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
+Store in a dry place.
+
 Usual Adult Dosage: See accompanying prescribing information.
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-RM0277A12
+RM0277A13

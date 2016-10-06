@@ -1,64 +1,24 @@
 # Medication Guide
 
-Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions
+| Chlordiazepoxide and Amitriptyline Hydrochloride Tablets, USP (klorʺ dye azʺ e poxʹ ide amʺ i tripʹ ti leen hyeʺ droe klorʹ ide) |  |  |  |
+| --- | --- | --- | --- |
+| What is the most important information I should know about chlordiazepoxide and amitriptyline hydrochloride? •This medicine contains chlordiazepoxide. Chlordiazepoxide is a benzodiazepine medicine. Taking benzodiazepines with opioid medicines, alcohol, or other central nervous system depressants (including street drugs) can cause severe drowsiness, breathing problems (respiratory depression), coma and death. •Suicidal thoughts or actions. Chlordiazepoxide and amitriptyline hydrochloride and other antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults (18 to 24 years of age) within the first few months of treatment or when the dose is changed.•Depression or other serious mental illnesses are the most important cause of suicidal thoughts or actions.•How can I watch for and try to prevent suicidal thoughts and actions? oPay particular attention to such changes when chlordiazepoxide and amitriptyline hydrochloride is started or when the dose is changed. oKeep all follow-up visits with your healthcare provider and call between visits if you are worried about symptoms.oCall your healthcare provider right away if you have any of the following symptoms, especially if they are new, worse, or worry you: |  |  |  |
+| ▪attempts to commit suicide▪acting on dangerous impulses▪acting aggressive or violent▪thoughts about suicide or dying▪new or worse depression▪new or worse anxiety or panic attacks |  | ▪feeling agitated, restless, angry or irritable▪trouble sleeping (insomnia)▪an increase in activity or talking more than what is normal for you (mania)▪other unusual changes in behavior or mood |  |
+| •Chlordiazepoxide and amitriptyline hydrochloride can make you sleepy or dizzy, and can slow your thinking and motor skills. oDo not drive, operate heavy machinery, or do other dangerous activities until you know how chlordiazepoxide and amitriptyline hydrochloride affects you. oDo not drink alcohol or take other drugs that may make you sleepy or dizzy while taking chlordiazepoxide and amitriptyline hydrochloride without first talking to your healthcare provider. When taken with alcohol or drugs that cause sleepiness or dizziness, chlordiazepoxide and amitriptyline hydrochloride may make your sleepiness or dizziness much worse. •Do not take more chlordiazepoxide and amitriptyline hydrochloride than prescribed. |  |  |  |
+| What is chlordiazepoxide and amitriptyline hydrochloride? •Chlordiazepoxide and amitriptyline hydrochloride is a prescription medicine used to treat moderate to severe depression that can happen with moderate to severe anxiety.•Chlordiazepoxide and amitriptyline hydrochloride is a federal controlled substance (C-IV) because it can be abused or lead to dependence. Keep chlordiazepoxide and amitriptyline hydrochloride in a safe place to prevent misuse and abuse. Selling or giving away chlordiazepoxide and amitriptyline hydrochloride may harm others, and is against the law. Tell your healthcare provider if you have ever abused or been dependent on alcohol, prescription medicines or street drugs.•It is not known if chlordiazepoxide and amitriptyline hydrochloride is safe and effective in children. |  |  |  |
+| Do not take chlordiazepoxide and amitriptyline hydrochloride if you: •are allergic to benzodiazepines or tricyclic antidepressant medicines•take a medicine called a Monoamine Oxidase Inhibitor (MAOI). Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI.•are recovering from a heart attack (myocardial infarction) |  |  |  |
+| Before you take chlordiazepoxide and amitriptyline hydrochloride, tell your healthcare provider about all of your medical conditions, including if you: •have bipolar disorder (manic depression) or mania•have a history of drug or alcohol abuse or addiction•have eye problems•have problems urinating or emptying your bladder•have kidney or liver problems•have or had heart problems, including heart attack or a stroke•have or have had seizures•have a thyroid problem•plan to have surgery•receive electroconvulsive therapy (ECT)•are pregnant or plan to become pregnant. Chlordiazepoxide may harm your unborn baby. Avoid taking chlordiazepoxide and amitriptyline hydrochloride during the first trimester of pregnancy. Tell your healthcare provider right away if you become pregnant during treatment with chlordiazepoxide and amitriptyline hydrochloride. •are breastfeeding or plan to breastfeed. It is not known if chlordiazepoxide and amitriptyline hydrochloride passes into your breast milk. You should not breastfeed while taking chlordiazepoxide and amitriptyline hydrochloride. Talk to your healthcare provider about the best way to feed your baby if you take chlordiazepoxide and amitriptyline hydrochloride. Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements. Taking chlordiazepoxide and amitriptyline hydrochloride with certain other medicines can cause side effects or affect how well chlordiazepoxide and amitriptyline or other medicines work. Do not start or stop other medicines without talking to your healthcare provider. |  |  |  |
+| How should I take chlordiazepoxide and amitriptyline hydrochloride? •Take chlordiazepoxide and amitriptyline hydrochloride exactly as your healthcare provider tells you to take it.•If you take too much chlordiazepoxide and amitriptyline hydrochloride, call your healthcare provider or go to the nearest emergency room right away. |  |  |  |
+| What are the possible side effects of chlordiazepoxide and amitriptyline hydrochloride?Chlordiazepoxide and amitriptyline hydrochloride may cause serious side effects, including: •See “What is the most important information I should know about chlordiazepoxide and amitriptyline hydrochloride?”•Withdrawal symptoms. You may have withdrawal symptoms if you stop taking chlordiazepoxide and amitriptyline hydrochloride suddenly. Withdrawal symptoms can be serious and include seizures. Mild withdrawal symptoms include a depressed mood and trouble sleeping. Talk to your healthcare provider about slowly stopping chlordiazepoxide and amitriptyline hydrochloride to avoid withdrawal symptoms.•Abuse and dependence. Taking chlordiazepoxide and amitriptyline hydrochloride can cause physical and psychological dependence. Physical and psychological dependence is not the same as drug addiction. Your healthcare provider can tell you more about the difference between physical and psychological dependence and drug addiction. The most common side effects of chlordiazepoxide and amitriptyline hydrochloride include: |  |  |  |
+| •drowsiness | •constipation |  | •dizziness |
+| •dry mouth | •blurred vision |  | •bloating |
+| These are not all the possible side effects of chlordiazepoxide and amitriptyline hydrochloride. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |  |  |
+| How should I store chlordiazepoxide and amitriptyline hydrochloride? •Store at room temperature between 20° to 25°C (68° to 77°F).•Store in a dry place.•Keep chlordiazepoxide and amitriptyline hydrochloride in a tightly closed, child-resistant container and out of the light.•Keep chlordiazepoxide and amitriptyline hydrochloride and all medicines out of the reach of children. |  |  |  |
+| General information about the safe and effective use of chlordiazepoxide and amitriptyline hydrochloride. Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use chlordiazepoxide and amitriptyline hydrochloride for a condition for which it was not prescribed. Do not give chlordiazepoxide and amitriptyline hydrochloride to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for information about chlordiazepoxide and amitriptyline hydrochloride that is written for health professionals. |  |  |  |
+| What are the ingredients in chlordiazepoxide and amitriptyline hydrochloride tablets?Active ingredients: chlordiazepoxide, amitriptyline hydrochlorideInactive ingredients: colloidal silicon dioxide, croscarmellose sodium, hydroxypropyl cellulose, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, pregelatinized starch (corn), sodium lauryl sulfate, and titanium dioxide.In addition, the 5 mg/12.5 mg tablets also contain D&C Yellow No. 10 Aluminum Lake, FD&C Blue No. 1 Aluminum Lake and FD&C Yellow No. 6 Aluminum Lake and the 10 mg/25 mg tablets also contain calcium sulfate and talc.Manufactured by: Mylan Pharmaceuticals Inc., Morgantown, WV 26505 U.S.A.For more information, call Mylan Pharmaceuticals Inc. at 1-877-446-3679 (1-877-4-INFO-RX). |  |  |  |
 
-Read the Medication Guide that comes with your or your family member’s antidepressant medicine.
-This Medication Guide is only about the risk of suicidal thoughts and actions with antidepressant medicines.
-Talk to your, or your family member’s, healthcare provider about:
-
-- •all risks and benefits of treatment with antidepressant medicines
-- •all treatment choices for depression or other serious mental illness
-
-What is the most important information I should know about antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions?
-
-1. 1.Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
-2. 2.Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
-   Some people may have a particularly high risk of having suicidal thoughts or actions.
-   These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
-3. 3.How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
-   1. •Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
-      This is very important when an antidepressant medicine is started or when the dose is changed.
-   2. •Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
-   3. •Keep all follow-up visits with the healthcare provider as scheduled.
-      Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
-4. Call a healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
-   1. •thoughts about suicide or dying
-   2. •attempts to commit suicide
-   3. •new or worse depression
-   4. •new or worse anxiety
-   5. •feeling very agitated or restless
-   6. •panic attacks
-   7. •trouble sleeping (insomnia)
-   8. •new or worse irritability
-   9. •acting aggressive, being angry, or violent
-   10. •acting on dangerous impulses
-   11. •an extreme increase in activity and talking (mania)
-   12. •other unusual changes in behavior or mood
-   13. •Visual problems: eye pain, changes in vision, swelling or redness in or around the eye
-
-What else do I need to know about antidepressant medicines?
-
-- •Never stop an antidepressant medicine without first talking to a healthcare provider.
-  Stopping an antidepressant medicine suddenly can cause other symptoms.
-- •Visual problems: Only some people are at risk for these problems.
-  You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
-- •Antidepressants are medicines used to treat depression and other illnesses.
-  It is important to discuss all the risks of treating depression and also the risks of not treating it.
-  Patients and their families or other caregivers should discuss all treatment choices with the healthcare provider, not just the use of antidepressants.
-- •Antidepressant medicines have other side effects.
-  Talk to the healthcare provider about the side effects of the medicine prescribed for you or your family member.
-- •Antidepressant medicines can interact with other medicines.
-  Know all of the medicines that you or your family member takes.
-  Keep a list of all medicines to show the healthcare provider.
-  Do not start new medicines without first checking with your healthcare provider.
-- •Not all antidepressant medicines prescribed for children are FDA approved for use in children.
-  Talk to your child’s healthcare provider for more information.
-
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
-
-This Medication Guide has been approved by the U.S. Food and Drug Administration for all antidepressants.
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED FEBRUARY 2016 CDAM:R16mmh
+Revised: 9/2016 CDAM:R17mmh

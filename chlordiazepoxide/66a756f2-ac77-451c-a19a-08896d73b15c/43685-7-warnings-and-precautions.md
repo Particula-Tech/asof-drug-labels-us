@@ -1,5 +1,18 @@
 # WARNINGS
 
+## Risks from Concomitant Use with Opioids
+
+Concomitant use of benzodiazepines, including chlordiazepoxide and amitriptyline, and opioids may result in profound sedation, respiratory depression, coma, and death.
+Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
+
+Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioids alone.
+If a decision is made to prescribe chlordiazepoxide and amitriptyline concomitantly with opioids, prescribe the lowest effective dosages and minimum durations of concomitant use, and follow patients closely for signs and symptoms of respiratory depression and sedation.
+In patients already receiving an opioid analgesic, prescribe a lower initial dose of chlordiazepoxide and amitriptyline than indicated in the absence of an opioid and titrate based on clinical response.
+If an opioid is initiated in a patient already taking chlordiazepoxide and amitriptyline, prescribe a lower initial dose of the opioid and titrate based upon clinical response.
+
+Advise both patients and caregivers about the risks of respiratory depression and sedation when chlordiazepoxide and amitriptyline is used with opioids.
+Advise patients not to drive or operate heavy machinery until the effects of concomitant use with the opioid have been determined (see Drug-Drug Interactions).
+
 ## Clinical Worsening and Suicide Risk
 
 Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
@@ -17,7 +30,7 @@ These risk differences (drug-placebo difference in the number of cases of suicid
 
 Table 1
 
-| Age Range | Drug-Placebo Difference in Number of Cases of Suicidality Per 1,000 Patients Treated |
+| Age Range | Drug-Placebo Difference inNumber of Cases of SuicidalityPer 1,000 Patients Treated |
 | --- | --- |
 | Increases Compared to Placebo |  |
 | < 18 | 14 additional cases |
@@ -125,6 +138,11 @@ To assure the safe and effective use of benzodiazepines, patients should be info
 Patients on prolonged treatment should have periodic liver function tests and blood counts.
 
 ## Drug–Drug Interactions
+
+The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration.
+Benzodiazepines interact with GAGAA sites and opioids interact primarily at mu receptors.
+When benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory depression exists.
+Limit dosage and duration of concomitant use of benzodiazepines and opioids, and monitor patients closely for respiratory depression and sedation.
 
 ### Topiramate
 
