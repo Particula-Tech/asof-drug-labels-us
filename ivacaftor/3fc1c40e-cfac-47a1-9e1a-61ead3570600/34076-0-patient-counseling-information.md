@@ -39,7 +39,7 @@ Use in Patients with Hepatic Impairment
 
 Inform patients with moderate hepatic impairment (Child-Pugh Class B) to reduce the dose of ORKAMBI to 2 tablets in the morning and 1 tablet in the evening.
 
-If initiating ORKAMBI in a patient with severe hepatic impairment, after weighing the risks and benefits of treatment, instruct the patient to take a maximum dose of 1 tablet (lumacaftor 200 mg/ivacaftor 125 mg) every 12 hours, or less [see Dosage and Administration (2.2), Warnings and Precautions (5.1), Adverse Reactions (6.1), and Clinical Pharmacology (12.3)].
+If initiating ORKAMBI in a patient with severe hepatic impairment, after weighing the risks and benefits of treatment, instruct the patient to take a maximum dose of 1 tablet every 12 hours, or less [see Dosage and Administration (2.2), Warnings and Precautions (5.1), Adverse Reactions (6.1), and Clinical Pharmacology (12.3)].
 
 Administration
 
@@ -49,9 +49,9 @@ Examples of fat-containing foods include eggs, avocados, nuts, butter, peanut bu
 
 Inform patients that if a dose is missed and they remember the missed dose within 6 hours, the patients should take the dose with fat-containing food.
 If more than 6 hours elapsed after the usual dosing time, the patients should skip that dose and resume the normal schedule for the following dose.
-Patients should be informed not to take a double dose make up for the forgotten dose [see Dosage and Administration (2.1)].
+Patients should be informed not to take a double dose to make up for the forgotten dose [see Dosage and Administration (2.1)].
 
 Cataracts
 
-Inform patients that abnormalities of the eye lens (cataract) have been noted in some children and adolescents receiving ivacaftor, a component of ORKAMBI.
+Inform patients that abnormalities of the eye lens (cataract) have been noted in some children and adolescents receiving ORKAMBI and ivacaftor, a component of ORKAMBI.
 Baseline and follow-up ophthalmological examinations are recommended in pediatric patients initiating ORKAMBI treatment [see Warnings and Precautions (5.6)].

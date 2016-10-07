@@ -48,6 +48,6 @@ Therefore, co-administration with strong CYP3A inducers (e.g., rifampin, St. Joh
 
 ## 5.6 Cataracts
 
-Cases of non-congenital lens opacities have been reported in pediatric patients treated with ivacaftor, a component of ORKAMBI.
+Cases of non-congenital lens opacities have been reported in pediatric patients treated with ORKAMBI and ivacaftor, a component of ORKAMBI.
 Although other risk factors were present in some cases (such as corticosteroid use and exposure to radiation), a possible risk attributable to ivacaftor cannot be excluded [see Use in Specific Populations (8.4)].
 Baseline and follow-up ophthalmological examinations are recommended in pediatric patients initiating ORKAMBI treatment.

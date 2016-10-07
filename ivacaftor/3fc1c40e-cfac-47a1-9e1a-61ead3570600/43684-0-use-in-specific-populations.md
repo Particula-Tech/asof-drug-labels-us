@@ -28,7 +28,7 @@ Ivacaftor
 
 In an embryo-fetal development study in pregnant rats dosed during the period of organogenesis from gestation days 7-17, ivacaftor was not teratogenic and did not affect fetal survival at exposures up to 7 times the MRHD (based on summed AUCs for ivacaftor and its metabolites at maternal oral doses up to 200 mg/kg/day).
 In an embryo-fetal development study in pregnant rabbits dosed during the period of organogenesis from gestation days 7-19, ivacaftor was not teratogenic and did not affect fetal development or survival at exposures up to 45 times the MRHD (on an ivacaftor AUC basis at maternal oral doses up to 100 mg/kg/day).
-In a pre- and postnatal development study in pregnant female rats doses from gestation day 7 through lactation day 20, ivacaftor had no effects on delivery or growth and development of offspring at exposures up to 5 times the MRHD (based on summed AUCs for ivacaftor and its metabolites at maternal oral doses up to 100 mg/kg/day).
+In a pre- and postnatal development study in pregnant female rats dosed from gestation day 7 through lactation day 20, ivacaftor had no effects on delivery or growth and development of offspring at exposures up to 5 times the MRHD (based on summed AUCs for ivacaftor and its metabolites at maternal oral doses up to 100 mg/kg/day).
 Decreased fetal body weights were observed at a maternally toxic dose that produced exposures 7 times the MRHD (based on summed AUCs for ivacaftor and its metabolites at a maternal oral dose of 200 mg/kg/day).
 Placental transfer of ivacaftor was observed in pregnant rats and rabbits.
 
@@ -59,11 +59,22 @@ Hormonal contraceptives, including oral, injectable, transdermal, and implantabl
 
 ## 8.4 Pediatric Use
 
-The safety and efficacy of ORKAMBI in patients with CF younger than age 12 years have not been established.
-Cases of non-congenital lens opacities have been reported in pediatric patients treated with ivacaftor, a component of ORKAMBI.
+The efficacy of ORKAMBI in children ages 6 through 11 years is extrapolated from efficacy in patients ages 12 years and older homozygous for the F508del mutation in the CFTR gene with support from population pharmacokinetic analyses showing similar drug exposure levels in patients ages 12 years and older and in children ages 6 through 11 years [see Clinical Pharmacology (12.3)].
+
+Additional safety data were obtained from a 24-week, open-label, Phase 3 clinical trial in 58 patients aged 6 through 11 years, mean age 9 years (Trial 3).
+Trial 3 evaluated subjects with a screening ppFEV1 ≥40 [mean ppFEV1 91.4 at baseline (range: 55 to 122.7)].
+The safety profile of ORKAMBI in children 6 through 11 years of age was similar to those in patients 12 years and older [see Adverse Reactions (6.1)].
+
+In Trial 3, spirometry (ppFEV1) was assessed as a planned safety endpoint.
+The within-group LS mean absolute change from baseline in ppFEV1 at Week 24 was 2.5 percentage points.
+At the Week 26 safety follow-up visit (following a planned discontinuation) ppFEV1 was also assessed.
+The within-group LS mean absolute change in ppFEV1 from Week 24 at Week 26 was -3.2 percentage points.
+
+The safety and efficacy of ORKAMBI in patients with CF younger than age 6 years have not been established.
+Cases of non-congenital lens opacities have been reported in pediatric patients treated with ORKAMBI and ivacaftor, a component of ORKAMBI.
 Although other risk factors were present in some cases (such as corticosteroid use and exposure to radiation), a possible risk attributable to ivacaftor cannot be excluded [see Warnings and Precautions (5.6)].
 
-Juvenile Toxicity Data
+Juvenile Animal Toxicity Data
 
 In a juvenile toxicology study in which ivacaftor was administered to rats from postnatal days 7 to 35, cataracts were observed at all dose levels, ranging from 0.3 to 2 times the MRHD (based on summed AUCs for ivacaftor and its metabolites at oral doses of 10-50 mg/kg/day).
 This finding has not been observed in older animals.
@@ -75,10 +86,10 @@ Clinical trials of ORKAMBI did not include sufficient numbers of patients 65 yea
 
 ## 8.6 Hepatic Impairment
 
-No dose adjustment is necessary for patients with mild hepatic impairment (Child-Pugh Class A). A dose reduction to 2 tablets in the morning and 1 tablet in the evening (lumacaftor 600 mg/ivacaftor 375 mg total daily dose) is recommended for patients with moderate hepatic impairment (Child-Pugh Class B).
+No dose adjustment is necessary for patients with mild hepatic impairment (Child-Pugh Class A). A dose reduction to 2 tablets in the morning and 1 tablet in the evening is recommended for patients with moderate hepatic impairment (Child-Pugh Class B).
 
 Studies have not been conducted in patients with severe hepatic impairment (Child-Pugh Class C), but exposure is expected to be higher than in patients with moderate hepatic impairment.
-Therefore, use with caution at a maximum dose of 1 tablet in the morning and 1 tablet in the evening (lumacaftor 400 mg/ivacaftor 250 mg total daily dose), or less, in patients with severe hepatic impairment after weighing the risks and benefits of treatment [see Warnings and Precautions (5.1), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Patient Counseling Information (17)].
+Therefore, use with caution at a maximum dose of 1 tablet in the morning and 1 tablet in the evening, or less, in patients with severe hepatic impairment after weighing the risks and benefits of treatment [see Warnings and Precautions (5.1), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Patient Counseling Information (17)].
 
 ## 8.7 Renal Impairment
 
@@ -88,7 +99,7 @@ Caution is recommended while using ORKAMBI in patients with severe renal impairm
 
 ## 8.8 Patients with Severe Lung Dysfunction
 
-The Phase 3 trials included 29 patients receiving ORKAMBI with ppFEV1 <40 at baseline.
+The Phase 3 trials (Trials 1 and 2) included 29 patients receiving ORKAMBI with ppFEV1 <40 at baseline.
 The treatment effect in this subgroup was comparable to that observed in patients with ppFEV1 ≥40.
 
 ## 8.9 Patients After Organ Transplantation

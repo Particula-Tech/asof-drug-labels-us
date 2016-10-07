@@ -20,7 +20,7 @@ No evidence of tumorigenicity was observed in mice and rats at ivacaftor oral do
 
 Ivacaftor was negative for genotoxicity in the following assays: Ames test for bacterial gene mutation, in vitro chromosomal aberration assay in Chinese hamster ovary cells, and in vivo mouse micronucleus test.
 
-Ivacaftor impaired fertility and reproductive performance indices in male and female rats at an oral dose of 200 mg/kg/day (approximately 7 times the MRHD based on summed AUCs of ivacaftor and its metabolites).
+Ivacaftor impaired fertility and reproductive performance indices in male and female rats at an oral dose of 200 mg/kg/day (approximately 15 and 7 times the MRHD based on summed AUCs of ivacaftor and its metabolites).
 Increases in prolonged diestrus were observed in females at 200 mg/kg/day.
 Ivacaftor also increased the number of females with all nonviable embryos and decreased corpora lutea, implantations, and viable embryos in rats at 200 mg/kg/day (approximately 7 times the MRHD based on summed AUCs of ivacaftor and its metabolites) when dams were dosed prior to and during early pregnancy.
 These impairments of fertility and reproductive performance in male and female rats at 200 mg/kg/day were attributed to severe toxicity.

@@ -7,7 +7,7 @@ Potential for Other Drugs to Affect Lumacaftor/Ivacaftor
 Co-administration of lumacaftor/ivacaftor with itraconazole, a strong CYP3A inhibitor, did not impact the exposure of lumacaftor, but increased ivacaftor exposure by 4.3-fold.
 Due to the induction effect of lumacaftor on CYP3A, at steady-state, the net exposure of ivacaftor is not expected to exceed that when given in the absence of lumacaftor at a dose of 150 mg every 12 hours (the approved dose of ivacaftor monotherapy).
 Therefore, no dose adjustment is necessary when CYP3A inhibitors are initiated in patients currently taking ORKAMBI.
-However, when initiating ORKAMBI in patients taking strong CYP3A inhibitors, reduce the ORKAMBI dose to 1 tablet daily (lumacaftor 200 mg/ivacaftor 125 mg total daily dose) for the first week of treatment to allow for the steady-state induction effect of lumacaftor.
+However, when initiating ORKAMBI in patients taking strong CYP3A inhibitors, reduce the ORKAMBI dose to 1 tablet daily (lumacaftor 200 mg/ivacaftor 125 mg total daily dose for patients aged 12 years and over; lumacaftor 100 mg/ ivacaftor 125 mg total daily dose for patients aged 6 through 11 years) for the first week of treatment to allow for the steady-state induction effect of lumacaftor.
 Following this period, continue with the recommended daily dose [see Dosage and Administration (2.3)].
 
 Examples of strong CYP3A inhibitors include:
@@ -108,7 +108,7 @@ No dose adjustment is recommended for calcium carbonate antacid.
 ORKAMBI may alter the exposure of warfarin.
 Monitor the international normalized ratio (INR) when warfarin co-administration with ORKAMBI is required.
 
-## 7.15 Concomitant Drugs that do not Need Dose Adjustment
+## 7.15 Concomitant Drugs That Do Not Need Dose Adjustment
 
 No dosage adjustment of ORKAMBI or concomitant drug is recommended when ORKAMBI is given with the following: azithromycin, aztreonam, budesonide, ceftazidime, cetirizine, ciprofloxacin, colistimethate, colistin, dornase alfa, fluticasone, ipratropium, levofloxacin, pancreatin, pancrelipase, salbutamol, salmeterol, sulfamethoxazole and trimethoprim, tiotropium, and tobramycin.
 Based on the metabolism and route of elimination, ORKAMBI is not expected to impact the exposure of these drugs.

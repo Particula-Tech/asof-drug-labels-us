@@ -19,7 +19,14 @@ Changes in sweat chloride in response to relevant doses of lumacaftor alone or i
 In that trial, 10 patients (homozygous for F508del) completed dosing with lumacaftor alone 400 mg q12h for 28 days followed by the addition of ivacaftor 250 mg q12h for an additional 28 days and 25 patients (homozygous or heterozygous for F508del) completed dosing with placebo.
 The treatment difference between lumacaftor 400 mg q12h alone and placebo evaluated as mean change in sweat chloride from baseline to Day 28 compared to placebo was -8.2 mmol/L (95% CI -14, -2).
 The treatment difference between the combination of lumacaftor 400 mg/ivacaftor 250 mg q12h and placebo evaluated as mean change in sweat chloride from baseline to Day 56 compared to placebo was -11 mmol/L (95% CI -18, -4).
-There was no direct correlation between decrease in sweat chloride levels and improvement in lung function (FEV1).
+
+Changes in sweat chloride in response to lumacaftor/ivacaftor were also evaluated in a 24-week, open-label Phase 3 clinical trial (Trial 3) in 58 patients with CF, aged 6 through 11 years (homozygous for F508del) who received lumacaftor 200 mg/ivacaftor 250 mg q12h for 24 weeks.
+Patients treated with lumacaftor/ivacaftor had a reduction in sweat chloride at Day 15 that was sustained through Week 24.
+The within-group LS mean absolute change from baseline in sweat chloride was -20.4 mmol/L at Day 15 and -24.8 mmol/L at Week 24.
+In addition, sweat chloride was also assessed after a 2-week washout period to evaluate the off-drug response.
+The within-group LS mean absolute change in sweat chloride from Week 24 at Week 26 following the 2-week washout period was 21.3 mmol/L.
+
+There was no direct correlation between decrease in sweat chloride levels and improvement in lung function (ppFEV1).
 
 Cardiac Electrophysiology
 
@@ -35,7 +42,7 @@ The exposure of ivacaftor is similar between healthy adult volunteers and patien
 After twice-daily dosing, steady-state plasma concentrations of lumacaftor and ivacaftor in healthy subjects were generally reached after approximately 7 days of treatment, with an accumulation ratio of approximately 1.9 for lumacaftor.
 The steady-state exposure of ivacaftor is lower than that of Day 1 due to the CYP3A induction effect of lumacaftor.
 
-Table 2: Mean (SD) Pharmacokinetic Parameters of Lumacaftor and Ivacaftor at Steady State in Subjects with CF
+Table 3: Mean (SD) Pharmacokinetic Parameters of Lumacaftor and Ivacaftor at Steady State in Subjects with CF
 
 |  | Drug | Cmax (μg/mL) | t½Based on lumacaftor 200 mg q12h/ivacaftor 250 mg q12h studied in healthy subjects (h) | AUC0-12h (μg∙h/mL) |
 | --- | --- | --- | --- | --- |
@@ -89,10 +96,15 @@ Age: Pediatric Population
 
 The following conclusions about exposures between adults and the pediatric population are based on population pharmacokinetics (PK) analyses:
 
+Pediatric patients 6 through 11 years of age
+
+Following oral administration of ORKAMBI tablets, lumacaftor 200 mg/ivacaftor 250 mg every 12 hours, the mean lumacaftor (±SD) AUCss was 203 (57.4) µg/mL*h and is comparable to the mean AUCss in patients 12 years and older administered ORKAMBI tablets, lumacaftor 400 mg/ivacaftor 250 mg every 12 hours.
+The mean ivacaftor (±SD) AUCss was 5.26 (3.08) µg/mL*h and is comparable to the mean AUCss in patients 12 years and older administered ORKAMBI tablets, lumacaftor 400 mg/ivacaftor 250 mg every 12 hours [see Use in Specific Populations (8.4)].
+
 Pediatric patients 12 to less than 18 years of age
 
-Following oral administration of ORKAMBI tablets, lumacaftor 400 mg/ivacaftor 250 mg every 12 hours, the mean lumacaftor (±SD) AUCss was 253 (68.6) µg/mL*h and is similar to the mean AUCss in adult patients administered ORKAMBI tablets, lumacaftor 400 mg/ivacaftor 250 mg every 12 hours.
-The mean ivacaftor (±SD) AUCss was 3.84 (1.54) µg/mL*h and is similar to the mean AUCss in adult patients administered ORKAMBI tablets, lumacaftor 400 mg/ivacaftor 250 mg every 12 hours [see Use in Specific Populations (8.4)].
+Following oral administration of ORKAMBI tablets, lumacaftor 400 mg/ivacaftor 250 mg every 12 hours, the mean lumacaftor (±SD) AUCss was 241 (61.4) µg/mL*h and is comparable to the mean AUCss in adult patients administered ORKAMBI tablets, lumacaftor 400 mg/ivacaftor 250 mg every 12 hours.
+The mean ivacaftor (±SD) AUCss was 3.90 (1.56) µg/mL*h and is comparable to the mean AUCss in adult patients administered ORKAMBI tablets, lumacaftor 400 mg/ivacaftor 250 mg every 12 hours [see Use in Specific Populations (8.4)].
 
 Sex
 
@@ -132,9 +144,9 @@ Potential for Other Drugs to Affect Lumacaftor/Ivacaftor
 Lumacaftor exposure is not affected by concomitant CYP3A inducers or inhibitors.
 Exposure of ivacaftor when given in combination with lumacaftor is reduced by concomitant CYP3A inducers and increased by concomitant CYP3A inhibitors [see Dosage and Administration (2.3), Warnings and Precautions (5.5), and Drug Interactions (7)].
 
-The effects of co-administered drugs on the exposure of lumacaftor and ivacaftor are shown in Table 3 [see Dosage and Administration (2.3), Warnings and Precautions (5.5), and Drug Interactions (7)].
+The effects of co-administered drugs on the exposure of lumacaftor and ivacaftor are shown in Table 4 [see Dosage and Administration (2.3), Warnings and Precautions (5.5), and Drug Interactions (7)].
 
-Table 3: Impact of Other Drugs on Lumacaftor 200 mg q12h/Ivacaftor 250 mg q12h
+Table 4: Impact of Other Drugs on Lumacaftor 200 mg q12h/Ivacaftor 250 mg q12h
 
 | AUC | Cmax |  |  |  |
 | --- | --- | --- | --- | --- |
