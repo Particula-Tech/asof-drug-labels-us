@@ -9,7 +9,7 @@ It is unknown whether Saxenda will cause thyroid C-cell tumors, including medull
 Cases of MTC in patients treated with liraglutide have been reported in the postmarketing period; the data in these reports are insufficient to establish or exclude a causal relationship between MTC and liraglutide use in humans.
 
 Saxenda is contraindicated in patients with a personal or family history of MTC or in patients with MEN 2.
-Counsel patients regarding the risk for MTC and inform them of symptoms of thyroid tumors (e.g., a mass in the neck, dysphagia, dyspnea, persistent hoarseness).
+Counsel patients regarding the potential risk for MTC with the use of Saxenda and inform them of symptoms of thyroid tumors (e.g., a mass in the neck, dysphagia, dyspnea, persistent hoarseness).
 
 Routine monitoring of serum calcitonin or using thyroid ultrasound is of uncertain value for early detection of MTC in patients treated with Saxenda.
 Such monitoring may increase the risk of unnecessary procedures, due to low test specificity for serum calcitonin and a high background incidence of thyroid disease.

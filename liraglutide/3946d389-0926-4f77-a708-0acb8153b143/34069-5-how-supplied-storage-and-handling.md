@@ -22,8 +22,8 @@ Saxenda should be protected from excessive heat and sunlight.
 Always remove and safely discard the needle after each injection and store the Saxenda pen without an injection needle attached.
 This will reduce the potential for contamination, infection, and leakage while also ensuring dosing accuracy.
 
-Table 7.
-Recommended Storage Conditions for Saxenda
+1. Table 7.
+   Recommended Storage Conditions for Saxenda
 
 | Prior to first use | After first use |  |
 | --- | --- | --- |

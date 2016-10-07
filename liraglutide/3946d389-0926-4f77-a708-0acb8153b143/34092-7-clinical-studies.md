@@ -36,8 +36,8 @@ After 56 weeks, treatment with Saxenda resulted in a statistically significant r
 Statistically significantly greater proportions of patients treated with Saxenda achieved 5% and 10% weight loss than those treated with placebo.
 In Study 3, statistically significantly more patients randomized to Saxenda than placebo had not gained more than 0.5% of body weight from randomization to week 56.
 
-Table 4.
-Changes in Weight at Week 56 for Studies 1, 2, and 3
+1. Table 4.
+   Changes in Weight at Week 56 for Studies 1, 2, and 3
 
 |  | Study 1 (Obesity or overweight with comorbidity) |  | Study 2 (Type 2 diabetes with obesity or overweight) |  | Study 3 (Obesity or overweight with comorbidity following at least 5% weight loss with diet) |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -58,33 +58,33 @@ The cumulative frequency distributions of change in body weight from baseline to
 One way to interpret this figure is to select a change in body weight of interest on the horizontal axis and note the corresponding proportions of patients (vertical axis) in each treatment group who achieved at least that degree of weight loss.
 For example, note that the vertical line arising from ‑10% in Study 1 intersects the Saxenda and placebo curves at approximately 34% and 15%, respectively, which correspond to the values shown in Table 4.
 
-Figure 2.
-Change in body weight (%) from baseline to week 56 (Study 1 on left and Study 2 on right)
+1. Figure 2.
+   Change in body weight (%) from baseline to week 56 (Study 1 on left and Study 2 on right)
 
 The time courses of weight loss with Saxenda and placebo from baseline through week 56 are depicted in Figures 3 and 4.
 
-Figure 3.
-Change from baseline (%) in body weight (Study 1 on left and Study 2 on right)
+1. Figure 3.
+   Change from baseline (%) in body weight (Study 1 on left and Study 2 on right)
 
-Figure 4.
-Change from baseline (%) in body weight during Study 3
+1. Figure 4.
+   Change from baseline (%) in body weight during Study 3
 
 Effect of Saxenda on Anthropometry and Cardiometabolic Parameters
 
 Changes in waist circumference and cardiometabolic parameters with Saxenda are shown in Table 5 for Study 1 (patients without diabetes mellitus) and Table 6 for Study 2 (patients with type 2 diabetes).
 Results from Study 3, which also enrolled patients without diabetes mellitus, were similar to Study 1.
 
-- Table 5.
-  Mean Changes in Anthropometry and Cardiometabolic Parameters in Study 1 (Patients without Diabetes)
+1. Table 5.
+   Mean Changes in Anthropometry and Cardiometabolic Parameters in Study 1 (Patients without Diabetes)
 
 |  | SaxendaN = 2487 |  | PlaceboN = 1244 |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  | Baseline | Change from Baseline(LSMean1) | Baseline | Change from Baseline(LSMean1) | Saxenda minus Placebo(LSMean) |
 | Waist Circumference (cm) | 115.0 | -8.2 | 114.5 | -4.0 | -4.2 |
-| Systolic blood pressure (mmHg) | 123.0 | -4.3 | 123.3 | -1.5 | -2.8 |
-| Diastolic blood pressure (mmHg) | 78.7 | -2.7 | 78.9 | -1.8 | -0.9 |
+| Systolic Blood Pressure (mmHg) | 123.0 | -4.3 | 123.3 | -1.5 | -2.8 |
+| Diastolic Blood Pressure (mmHg) | 78.7 | -2.7 | 78.9 | -1.8 | -0.9 |
 | Heart Rate (bpm) | 71.4 | 2.6 | 71.3 | 0.1 | 2.5 |
-|  | Baseline | % change from Baseline(LSMean1) | Baseline | % change from Baseline(LSMean1) | Relative Difference of Saxenda to Placebo(LSMean) |
+|  | Baseline | % Change from Baseline(LSMean1) | Baseline | % Change from Baseline(LSMean1) | Relative Difference of Saxenda to Placebo(LSMean) |
 | Total Cholesterol (mg/dL)* | 193.8 | -3.2 | 194.4 | -0.9 | -2.3 |
 | LDL Cholesterol (mg/dL)* | 111.8 | -3.1 | 112.3 | -0.7 | -2.4 |
 | HDL Cholesterol (mg/dL)* | 51.4 | 2.3 | 50.9 | 0.5 | 1.9 |
@@ -96,8 +96,8 @@ Based on last observation carried forward method while on study drug
 
 * Baseline value is the geometric mean †Values are baseline median, median % change, and the Hodges-Lehmann estimate of the median treatment difference.
 
-- Table 6.
-  Mean Changes in Anthropometry and Cardiometabolic Parameters in Study 2 (Patients with Diabetes Mellitus)
+1. Table 6.
+   Mean Changes in Anthropometry and Cardiometabolic Parameters in Study 2 (Patients with Diabetes Mellitus)
 
 |  | SaxendaN = 423 |  | PlaceboN = 212 |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -106,7 +106,7 @@ Based on last observation carried forward method while on study drug
 | Systolic Blood Pressure (mmHg) | 128.9 | -3.0 | 129.2 | -0.4 | -2.6 |
 | Diastolic Blood Pressure (mmHg) | 79.0 | -1.0 | 79.3 | -0.6 | -0.4 |
 | Heart Rate (bpm) | 74.0 | 2.0 | 74.0 | -1.5 | 3.4 |
-|  | Baseline | % change from Baseline(LSMean1) | Baseline | % change from Baseline(LSMean1) | Relative Difference of Saxenda to Placebo(LSMean) |
+|  | Baseline | % Change from Baseline(LSMean1) | Baseline | % Change from Baseline(LSMean1) | Relative Difference of Saxenda to Placebo(LSMean) |
 | Total Cholesterol (mg/dL)* | 171.0 | -1.4 | 169.4 | 2.4 | -3.7 |
 | LDL Cholesterol (mg/dL)* | 86.4 | 0.9 | 85.2 | 3.3 | -2.3 |
 | HDL Cholesterol (mg/dL)* | 45.2 | 4.8 | 45.4 | 1.9 | 2.9 |

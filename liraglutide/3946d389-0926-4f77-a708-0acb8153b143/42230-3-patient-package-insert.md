@@ -1,72 +1,42 @@
 # Patient Package Insert
 
-Medication Guide
+MEDICATION GUIDE
 
-Saxenda® (sax-end-ah) (liraglutide [rDNA origin]) Injection
-
-Read this Medication Guide and Patient Instructions for Use that come with Saxenda before you start using Saxenda and each time you get a refill.
-There may be new information.
-This Medication Guide does not take the place of talking with your healthcare provider about your medical condition or your treatment.
-If you have questions about Saxenda after reading this information, ask your healthcare provider or pharmacist.
+Saxenda (sax-end-ah) (liraglutide) injection solution for subcutaneous use
 
 What is the most important information I should know about Saxenda?
 
-- Serious side effects may happen in people who take Saxenda, including:
+Serious side effects may happen in people who take Saxenda, including:
 
-1.
 Possible thyroid tumors, including cancer.
-During the drug testing process, the medicine in Saxenda caused rats and mice to develop tumors of the thyroid gland.
-Some of these tumors were cancers.
-It is not known if Saxenda will cause thyroid tumors or a type of thyroid cancer called medullary thyroid cancer in people.
-If medullary thyroid cancer occurs, it may lead to death if not detected and treated early.
-If you develop tumors or cancer of the thyroid, your thyroid may have to be surgically removed.
+Tell your healthcare provider if you get a lump or swelling in your neck, hoarseness, trouble swallowing, or shortness of breath.
+These may be symptoms of thyroid cancer.
+In studies with rats and mice, Saxenda and medicines that work like Saxenda caused thyroid tumors, including thyroid cancer.
+It is not known if Saxenda will cause thyroid tumors or a type of thyroid cancer called medullary thyroid carcinoma (MTC) in people.
 
-- •Before you start taking Saxenda, tell your healthcare provider if you or any of your family members have had thyroid cancer, especially medullary thyroid cancer, or Multiple Endocrine Neoplasia syndrome type 2.
-  Do not take Saxenda if you or any of your family members have medullary thyroid cancer, or if you have Multiple Endocrine Neoplasia syndrome type 2.
-  People with these conditions already have a higher chance of developing medullary thyroid cancer in general and should not take Saxenda.
-- •While taking Saxenda, tell your healthcare provider if you get a lump or swelling in your neck, hoarseness, trouble swallowing, or shortness of breath.
-  These may be symptoms of thyroid cancer.
-
-2.
-Inflammation of the pancreas (pancreatitis), which may be severe and lead to death.
-
-Before taking Saxenda, tell your healthcare provider if you have had:
-
-- •pancreatitis
-- •stones in your gallbladder (gallstones)
-- •a history of alcoholism
-- •high blood triglyceride levels
-
-These medical conditions can make you more likely to get pancreatitis in general.
-It is not known if having these conditions will lead to a higher chance of getting pancreatitis while taking Saxenda.
-
-While taking Saxenda:
-
-Stop taking Saxenda and call your healthcare provider right away if you have pain in your stomach area (abdomen) that is severe and will not go away.
-The pain may happen with or without vomiting.
-The pain may be felt going from your abdomen through to your back.
-This type of pain may be a symptom of pancreatitis.
+Do not use Saxenda if you or any of your family have ever had a type of thyroid cancer called medullary thyroid carcinoma (MTC), or if you have an endocrine system condition called Multiple Endocrine Neoplasia syndrome type 2 (MEN 2).
 
 What is Saxenda?
 
-- •Saxenda is an injectable prescription medicine that may help some obese adults or overweight adults who also have weight related medical problems lose weight and keep the weight off.
+Saxenda is an injectable prescription medicine that may help some obese or overweight adults who also have weight related medical problems lose weight and keep the weight off.
+
 - •Saxenda should be used with a reduced calorie diet and increased physical activity.
 - •Saxenda is not for the treatment of type 2 diabetes mellitus.
-- •Saxenda and Victoza® have the same active ingredient, liraglutide.
-  Saxenda and Victoza should not be used together.
+- •Saxenda and Victoza have the same active ingredient, liraglutide.
+- • Saxenda and Victoza should not be used together.
 - •Saxenda should not be used with other GLP-1 receptor agonist medicines.
 - •Saxenda and insulin should not be used together.
 - •It is not known if Saxenda is safe and effective when taken with other prescription, over-the-counter, or herbal weight loss products.
 - •It is not known if Saxenda changes your risk of heart problems or stroke or of death due to heart problems or stroke.
 - •It is not known if Saxenda can be used safely in people who have had pancreatitis.
-- • It is not known if Saxenda is safe and effective in children under 18 years of age.
+- •It is not known if Saxenda is safe and effective in children under 18 years of age.
   Saxenda is not recommended for use in children.
 
 Who should not use Saxenda?
 
 Do not use Saxenda if:
 
-- •you or any of your family members have a history of medullary thyroid cancer.
+- •you or any of your family have a history of medullary thyroid carcinoma.
 - •you have Multiple Endocrine Neoplasia syndrome type 2 (MEN 2).
   This is a disease where people have tumors in more than one gland in their body.
 - •you are allergic to liraglutide or any of the ingredients in Saxenda.
@@ -86,18 +56,15 @@ Talk with your healthcare provider if you are not sure if you have any of these 
 - •are pregnant or planning to become pregnant.
   Saxenda may harm your unborn baby.
 
-What should I tell my healthcare provider before using Saxenda?
-
-Before taking Saxenda, tell your healthcare provider if you:
+Before taking Saxenda, tell your healthcare provider about all of your medical conditions, including if you:
 
 - •have any of the conditions listed in the section “What is the most important information I should know about Saxenda?”
 - •are taking certain medications called GLP-1 receptor agonists.
 - •are allergic to liraglutide or any of the other ingredients in Saxenda.
   See the end of this Medication Guide for a list of ingredients in Saxenda.
 - •have severe problems with your stomach, such as slowed emptying of your stomach (gastroparesis) or problems with digesting food.
-- •have or have had kidney or liver problems.
+- •have or have had problems with your pancreas, kidneys or liver.
 - •have or have had depression or suicidal thoughts.
-- •have any other medical conditions.
 - •are pregnant or plan to become pregnant.
   Saxenda may harm your unborn baby.
   Tell your healthcare provider if you become pregnant while taking Saxenda.
@@ -107,13 +74,10 @@ Before taking Saxenda, tell your healthcare provider if you:
   You and your healthcare provider should decide if you will take Saxenda or breastfeed.
   You should not do both without talking with your healthcare provider first.
 
-Tell your healthcare provider about all the medicines you take including prescription and non-prescription medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 Saxenda slows stomach emptying and can affect medicines that need to pass through the stomach quickly.
 Saxenda may affect the way some medicines work and some other medicines may affect the way Saxenda works.
-Tell your healthcare provider if you take other diabetes medicines, especially sulfonylurea medicines or insulin.
-
-Know the medicines you take.
-Keep a list of them with you to show your healthcare provider and pharmacist each time you get a new medicine.
+Tell your healthcare provider if you take diabetes medicines, especially sulfonylurea medicines or insulin.
 
 - How should I use Saxenda?
 
@@ -122,12 +86,12 @@ Keep a list of them with you to show your healthcare provider and pharmacist eac
   After that, do not change your dose unless your healthcare provider tells you to.
 - •Saxenda is injected 1 time each day, at any time during the day.
 - •You can take Saxenda with or without food.
-- •Your doctor should start you on a diet and exercise program when you start taking Saxenda.
+- •Your healthcare provider should start you on a diet and exercise program when you start taking Saxenda.
   Stay on this program while you are taking Saxenda.
 - •Saxenda comes in a prefilled pen.
 - •Your healthcare provider must teach you how to inject Saxenda before you use it for the first time.
   If you have questions or do not understand the instructions, talk to your healthcare provider or pharmacist.
-  See the Patient Instructions for Use that come with this Medication Guide for detailed information about the right way to use your Saxenda pen.
+  Read the Patient Instructions for Use that come with this Medication Guide for detailed information about the right way to use your Saxenda pen.
 - •Pen needles are not included.
   Use the Saxenda pen with Novo Nordisk disposable needles.
   You may need a prescription to get pen needles from your pharmacist.
@@ -149,12 +113,13 @@ Keep a list of them with you to show your healthcare provider and pharmacist eac
 
 What are the possible side effects of Saxenda?
 
-- Saxenda may cause serious side effects, including:
+- Saxendamay cause serious side effects, including:
 
 - •possible thyroid tumors, including cancer.
   See “What is the most important information I should know about Saxenda?”
 - •inflammation of the pancreas (pancreatitis).
-  See “What is the most important information I should know about Saxenda?”
+  Stop using Saxenda and call your healthcare provider right away if you have severe pain in your stomach area (abdomen) that will not go away, with or without vomiting.
+  You may feel the pain from your abdomen to your back.
 - •gallbladder problems.
   Saxenda may cause gallbladder problems including gallstones.
   Some gallbladder problems need surgery.
@@ -195,12 +160,13 @@ Call your healthcare provider right away if you have nausea, vomiting, or diarrh
 
 - •serious allergic reactions.
   Serious allergic reactions can happen with Saxenda.
-  Stop using Saxenda, and get medical help right away if you have any symptoms of a serious allergic reaction See “Who should not use Saxenda?”
+  Stop using Saxenda, and get medical help right away if you have any symptoms of a serious allergic reaction.
+  See “Who should not use Saxenda”
 - •depression or thoughts of suicide.
   You should pay attention to any mental changes, especially sudden changes, in your mood, behaviors, thoughts, or feelings.
   Call your healthcare provider right away if you have any mental changes that are new, worse, or worry you.
 
-Common side effects of Saxenda include:
+The most common side effects of Saxenda include:
 
 - •nausea
 - •diarrhea
@@ -213,15 +179,13 @@ Common side effects of Saxenda include:
 - •tiredness
 - •dizziness
 - •stomach pain
-- •changes in enzyme (lipase) levels in your blood
+- •change in enzyme (lipase) levels in your blood
 
 Nausea is most common when first starting Saxenda, but decreases over time in most people as their body gets used to the medicine.
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
-These are not all the side effects with Saxenda.
-For more information, ask your healthcare provider or pharmacist.
-
+These are not all the possible side effects of Saxenda.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
@@ -231,36 +195,32 @@ General information about the safe and effective use of Saxenda.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use Saxenda for a condition for which it was not prescribed.
-Do not give Saxenda to other people, even if they have the same symptoms you have.
+Do not give Saxenda to other people, even if they have the same symptoms that you have.
 It may harm them.
 
-This Medication Guide summarizes the most important information you should know about using Saxenda.
-If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about Saxenda that is written for health professionals.
-
-For more information, go to saxenda.com or call 1-844-363-4448.
 
 What are the ingredients in Saxenda?
 
-Active Ingredient: liraglutide Inactive Ingredients: disodium phosphate dihydrate, propylene glycol, phenol and water for injection
-
-For more information go to www.saxenda.com
+Active ingredient: liraglutide Inactive ingredients: disodium phosphate dihydrate, propylene glycol, phenol and water for injection
 
 Manufactured by: Novo Nordisk A/S DK-2880 Bagsvaerd, Denmark
 
 For information about Saxenda contact: Novo Nordisk Inc. 800 Scudders Mill Road Plainsboro, NJ 08536 1-844-363-4448
 
-Issued: December 2014 Version: 1
-
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
 Saxenda®, Victoza®, NovoFine®, and NovoTwist® are registered trademarks of Novo Nordisk A/S.
 
-Saxenda® is covered by US Patent Nos. 6,268,343, 6,458,924, 7,235,627 and 8,114,833 and other patents pending.
+PATENT Information:http://novonordisk-us.com/patients/products/product-patents.html
 
-Saxenda® pen is covered by US Patent Nos. 6,899,699, 7,686,786, 8,672,898, 8,684,969 and other patents pending.
+© 2016 Novo Nordisk
 
-© 2014 Novo Nordisk
+For more information, go to saxenda.com or call 1-844-363-4448.
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration
+
+Revised: 09/2016
+
+Version: 2
 
 Instructions for Use
 

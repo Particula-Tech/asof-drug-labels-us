@@ -27,8 +27,8 @@ The most common adverse reactions leading to discontinuation were nausea (2.9% v
 
 Adverse reactions reported in greater than or equal to 2% of Saxenda-treated patients and more frequently than in placebo-treated patients are shown in Table 3.
 
-Table 3.
-Adverse Reactions Reported in Greater Than or Equal to 2% of Saxenda-treated Patients and More Frequently than with Placebo
+1. Table 3.
+   Adverse Reactions Reported in Greater Than or Equal to 2% of Saxenda-treated Patients and More Frequently than with Placebo
 
 |  | PlaceboN = 1941% | SaxendaN = 3384% |
 | --- | --- | --- |
@@ -53,7 +53,7 @@ Adverse Reactions Reported in Greater Than or Equal to 2% of Saxenda-treated Pat
 | Dizziness | 5.0 | 6.9 |
 | General Disorders and Administration Site Conditions |  |  |
 | Fatigue | 4.6 | 7.5 |
-| Injection site Erythema | 0.2 | 2.5 |
+| Injection Site Erythema | 0.2 | 2.5 |
 | Injection Site Reaction | 0.6 | 2.5 |
 | Asthenia | 0.8 | 2.1 |
 | Infections and Infestations |  |  |
@@ -66,9 +66,9 @@ Adverse Reactions Reported in Greater Than or Equal to 2% of Saxenda-treated Pat
 | Insomnia | 1.7 | 2.4 |
 | Anxiety | 1.6 | 2.0 |
 
-- •Documented symptomatic (defined as documented symptoms of hypoglycemia in combination with a plasma glucose less than or equal to 70 mg/dL) in patients with type 2 diabetes (Study 2).
-  See text below for further information regarding hypoglycemia in patients with and without type 2 diabetes.
-  T2DM = type 2 diabetes mellitus
+1. 1Documented symptomatic (defined as documented symptoms of hypoglycemia in combination with a plasma glucose less than or equal to 70 mg/dL) in patients with type 2 diabetes (Study 2).
+   See text below for further information regarding hypoglycemia in patients with and without type 2 diabetes.
+   T2DM = type 2 diabetes mellitus
 
 Hypoglycemia
 
@@ -108,14 +108,14 @@ The detection of antibody formation is highly dependent on the sensitivity and s
 Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
 For these reasons, the incidence of antibodies to Saxenda cannot be directly compared with the incidence of antibodies of other products.
 
-Allergic reactions
+Allergic Reactions
 
 Urticaria was reported in 0.7% of Saxenda-treated patients and 0.5% of placebo-treated patients.
 Anaphylactic reactions, asthma, bronchial hyperreactivity, bronchospasm, oropharyngeal swelling, facial swelling, angioedema, pharyngeal edema, type IV hypersensitivity reactions have been reported in patients treated with liraglutide in clinical trials.
 Cases of anaphylactic reactions with additional symptoms such as hypotension, palpitations, dyspnea, and edema have been reported with marketed use of liraglutide.
 Anaphylactic reactions may potentially be life-threatening.
 
-Injection site reactions
+Injection Site Reactions
 
 Injection site reactions were reported in approximately 13.9% of Saxenda-treated patients and 10.5% of placebo-treated patients.
 The most common reactions, each reported by 1% to 2.5% of Saxenda-treated patients and more commonly than by placebo-treated patients, included erythema, pruritus, and rash at the injection site.
@@ -123,7 +123,7 @@ The most common reactions, each reported by 1% to 2.5% of Saxenda-treated patien
 
 Breast Cancer
 
-In Saxenda clinical trials breast cancer confirmed by adjudication was reported in 14 (0.6%) of 2379 Saxenda-treated women compared with 3 (0.2%) of 1300 placebo-treated women, including invasive cancer (11 Saxenda- and 2 placebo-treated women) and ductal carcinoma in situ (3 Saxenda- and 1 placebo-treated woman).
+In Saxenda clinical trials, breast cancer confirmed by adjudication was reported in 14 (0.6%) of 2379 Saxenda-treated women compared with 3 (0.2%) of 1300 placebo-treated women, including invasive cancer (11 Saxenda- and 2 placebo-treated women) and ductal carcinoma in situ (3 Saxenda- and 1 placebo-treated woman).
 The majority of cancers were estrogen- and progesterone-receptor positive.
 There were too few cases to determine whether these cases were related to Saxenda.
 In addition, there are insufficient data to determine whether Saxenda has an effect on pre-existing breast neoplasia.
@@ -170,7 +170,7 @@ Among Saxenda-treated patients, 2.1% had a lipase value at anytime during treatm
 0.1% of Saxenda-treated patients had an amylase value at anytime in the trial of greater than or equal to 3 times the upper limit of normal versus 0.1% of placebo-treated patients.
 The clinical significance of elevations in lipase or amylase with Saxenda is unknown in the absence of other signs and symptoms of pancreatitis [see Warnings and Precautions (5.2)].
 
-## 6.2 Post-Marketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been reported during post-approval use of liraglutide, the active ingredient of Saxenda.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

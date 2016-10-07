@@ -5,8 +5,8 @@ The dose escalation schedule in Table 1 should be used to reduce the likelihood 
 If patients do not tolerate an increased dose during dose escalation, consider delaying dose escalation for approximately one additional week.
 Saxenda should be discontinued, however, if a patient cannot tolerate the 3 mg dose, as efficacy has not been established at lower doses (0.6, 1.2, 1.8, and 2.4 mg).
 
-Table 1.
-Dose Escalation Schedule
+1. Table 1.
+   Dose Escalation Schedule
 
 | Week | Daily Dose |
 | --- | --- |
@@ -40,5 +40,5 @@ Saxenda solution should be inspected prior to each injection, and the solution s
 BMI is calculated by dividing weight in (kilograms) by height (in meters) squared.
 A chart for determining BMI based on height and weight is provided in Table 2.
 
-Table 2.
-BMI Conversion Chart
+1. Table 2.
+   BMI Conversion Chart
