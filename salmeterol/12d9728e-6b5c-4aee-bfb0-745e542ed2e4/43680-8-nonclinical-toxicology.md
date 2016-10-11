@@ -16,5 +16,7 @@ No effects on fertility were identified in rats treated with salmeterol at oral 
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
-Preclinical: Studies in laboratory animals (minipigs, rodents, and dogs) have demonstrated the occurrence of cardiac arrhythmias and sudden death (with histologic evidence of myocardial necrosis) when beta-agonists and methylxanthines are administered concurrently.
+Preclinical
+
+Studies in laboratory animals (minipigs, rodents, and dogs) have demonstrated the occurrence of cardiac arrhythmias and sudden death (with histologic evidence of myocardial necrosis) when beta-agonists and methylxanthines are administered concurrently.
 The clinical relevance of these findings is unknown.

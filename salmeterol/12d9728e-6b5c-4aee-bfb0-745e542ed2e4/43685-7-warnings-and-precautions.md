@@ -10,12 +10,14 @@ Use SEREVENT DISKUS only as additional therapy for patients with asthma who are 
 Once asthma control is achieved and maintained, assess the patient at regular intervals and step down therapy (e.g., discontinue SEREVENT DISKUS) if possible without loss of asthma control and maintain the patient on a long-term asthma control medication, such as an inhaled corticosteroid.
 Do not use SEREVENT DISKUS for patients whose asthma is adequately controlled on low- or medium-dose inhaled corticosteroids.
 
-Pediatric and Adolescent Patients:Available data from controlled clinical trials suggest that LABA increase the risk of asthma-related hospitalization in pediatric and adolescent patients.
+Pediatric and Adolescent Patients
+
+Available data from controlled clinical trials suggest that LABA increase the risk of asthma-related hospitalization in pediatric and adolescent patients.
 For pediatric and adolescent patients with asthma who require addition of a LABA to an inhaled corticosteroid, a fixed-dose combination product containing both an inhaled corticosteroid and a LABA should ordinarily be used to ensure adherence with both drugs.
 In cases where use of a separate long-term asthma control medication (e.g., inhaled corticosteroid) and a LABA is clinically indicated, appropriate steps must be taken to ensure adherence with both treatment components.
 If adherence cannot be assured, a fixed-dose combination product containing both an inhaled corticosteroid and a LABA is recommended.
 
-The Salmeterol Multi-center Asthma Research Trial (SMART) was a large 28-week placebo-controlled US trial comparing the safety of salmeterol (SEREVENT® Inhalation Aerosol) with placebo, each added to usual asthma therapy, that showed an increase in asthma-related deaths in subjects receiving salmeterol [see Clinical Studies (14.1)].
+The Salmeterol Multicenter Asthma Research Trial (SMART) was a large 28-week placebo-controlled U.S. trial comparing the safety of salmeterol (SEREVENT® Inhalation Aerosol) with placebo, each added to usual asthma therapy, that showed an increase in asthma-related deaths in subjects receiving salmeterol [see Clinical Studies (14.1)].
 Given the similar basic mechanisms of action of beta2-agonists, the findings seen in the SMART trial are considered a class effect.
 
 A 16-week clinical trial performed in the United Kingdom, the Salmeterol Nationwide Surveillance (SNS) trial, showed results similar to the SMART trial.
@@ -51,7 +53,7 @@ There are no data demonstrating that SEREVENT DISKUS has a clinical anti-inflamm
 When initiating and throughout treatment with SEREVENT DISKUS in patients receiving oral or inhaled corticosteroids for treatment of asthma, patients must continue taking a suitable dosage of corticosteroids to maintain clinical stability even if they feel better as a result of initiating SEREVENT DISKUS.
 Any change in corticosteroid dosage should be made ONLY after clinical evaluation.
 
-## 5.4 Excessive Use of SEREVENT DISKUS and Use with Other Long-Acting Beta2-Agonists
+## 5.4 Excessive Use of SEREVENT DISKUS and Use with Other Long-acting Beta2-agonists
 
 SEREVENT DISKUS should not be used more often than recommended, at higher doses than recommended, or in conjunction with other medicines containing LABA, as an overdose may result.
 Clinically significant cardiovascular effects and fatalities have been reported in association with excessive use of inhaled sympathomimetic drugs.
@@ -60,8 +62,7 @@ Patients using SEREVENT DISKUS should not use another medicine containing a LABA
 ## 5.5 Paradoxical Bronchospasm and Upper Airway Symptoms
 
 As with other inhaled medicines, SEREVENT DISKUS can produce paradoxical bronchospasm, which may be life threatening.
-If paradoxical bronchospasm occurs following dosing with SEREVENT DISKUS, it should be treated immediately with an inhaled, short-acting bronchodilator.
-SEREVENT DISKUS should be discontinued immediately, and alternative therapy should be instituted.
+If paradoxical bronchospasm occurs following dosing with SEREVENT DISKUS, it should be treated immediately with an inhaled, short-acting bronchodilator; SEREVENT DISKUS should be discontinued immediately; and alternative therapy should be instituted.
 Upper airway symptoms of laryngeal spasm, irritation, or swelling, such as stridor and choking, have been reported in patients receiving SEREVENT DISKUS.
 
 ## 5.6 Cardiovascular and Central Nervous System Effects

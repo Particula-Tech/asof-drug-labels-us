@@ -9,12 +9,16 @@ Use SEREVENT DISKUS only as additional therapy for patients with asthma who are 
 Once asthma control is achieved and maintained, assess the patient at regular intervals and step down therapy (e.g., discontinue SEREVENT DISKUS) if possible without loss of asthma control and maintain the patient on a long-term asthma control medication, such as an inhaled corticosteroid.
 Do not use SEREVENT DISKUS for patients whose asthma is adequately controlled on low- or medium-dose inhaled corticosteroids.
 
-Pediatric and Adolescent Patients: Available data from controlled clinical trials suggest that LABA increase the risk of asthma-related hospitalization in pediatric and adolescent patients.
+Pediatric and Adolescent Patients
+
+Available data from controlled clinical trials suggest that LABA increase the risk of asthma-related hospitalization in pediatric and adolescent patients.
 For pediatric and adolescent patients with asthma who require addition of a LABA to an inhaled corticosteroid, a fixed-dose combination product containing both an inhaled corticosteroid and a LABA should ordinarily be used to ensure adherence with both drugs.
 In cases where use of a separate long-term asthma control medication (e.g., inhaled corticosteroid) and a LABA is clinically indicated, appropriate steps must be taken to ensure adherence with both treatment components.
 If adherence cannot be assured, a fixed-dose combination product containing both an inhaled corticosteroid and a LABA is recommended.
 
-Important Limitation of Use: SEREVENT DISKUS is NOT indicated for the relief of acute bronchospasm.
+Important Limitation of Use
+
+SEREVENT DISKUS is NOT indicated for the relief of acute bronchospasm.
 
 ## 1.2 Prevention of Exercise-Induced Bronchospasm
 
@@ -26,4 +30,6 @@ In patients with persistent asthma, use of SEREVENT DISKUS for the prevention of
 
 SEREVENT DISKUS is indicated for the long-term twice-daily administration in the maintenance treatment of bronchospasm associated with chronic obstructive pulmonary disease (COPD) (including emphysema and chronic bronchitis).
 
-Important Limitation of Use: SEREVENT DISKUS is NOT indicated for the relief of acute bronchospasm.
+Important Limitation of Use
+
+SEREVENT DISKUS is NOT indicated for the relief of acute bronchospasm.

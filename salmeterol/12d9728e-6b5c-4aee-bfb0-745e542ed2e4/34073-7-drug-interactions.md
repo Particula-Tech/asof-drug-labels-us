@@ -13,7 +13,7 @@ Although there was no statistical effect on the mean QTc, coadministration of sa
 
 SEREVENT DISKUS should be administered with extreme caution to patients being treated with monoamine oxidase inhibitors or tricyclic antidepressants, or within 2 weeks of discontinuation of such agents, because the action of salmeterol on the vascular system may be potentiated by these agents.
 
-## 7.3 Beta-Adrenergic Receptor Blocking Agents
+## 7.3 Beta-adrenergic Receptor Blocking Agents
 
 Beta-blockers not only block the pulmonary effect of beta-agonists, such as SEREVENT DISKUS, but may also produce severe bronchospasm in patients with asthma or COPD.
 Therefore, patients with asthma or COPD should not normally be treated with beta-blockers.

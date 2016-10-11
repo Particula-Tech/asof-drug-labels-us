@@ -2,7 +2,7 @@ PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0521-00
 
-Serevent®Diskus®
+Serevent® Diskus®
 
 (salmeterol xinafoate inhalation powder)
 
@@ -22,16 +22,16 @@ Rx only
 
 Made in Singapore
 
-©2014, the GSK group of companies
+©2015, the GSK group of companies
 
-10000000127330 Rev.
-11/14
+1. DEVCOMP-0004253 Rev.
+   8/15
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0520-00
 
-Serevent®Diskus®
+Serevent® Diskus®
 
 (salmeterol xinafoate inhalation powder)
 
@@ -53,7 +53,7 @@ Rx only
 
 Made in Singapore
 
-©2014, the GSK group of companies
+©2015, the GSK group of companies
 
-10000000127329 Rev.
-11/14
+1. DEVCOMP-0004252 Rev.
+   8/15

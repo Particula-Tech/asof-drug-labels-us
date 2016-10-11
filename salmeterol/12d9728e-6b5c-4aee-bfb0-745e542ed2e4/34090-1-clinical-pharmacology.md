@@ -29,7 +29,9 @@ In 24-week clinical studies in patients with COPD, the incidence of clinically s
 No effect of treatment with salmeterol 50 mcg was observed on pulse rate and systolic and diastolic blood pressure in a subset of patients with COPD who underwent 12-hour serial vital sign measurements after the first dose (n = 91) and after 12 weeks of therapy (n = 74).
 Median changes from baseline in pulse rate and systolic and diastolic blood pressure were similar for patients receiving either salmeterol or placebo [see Adverse Reactions (6.1)].
 
-Concomitant Use of SEREVENT DISKUS with Other Respiratory Medications: Short-Acting Beta2-Agonists: In two 12-week repetitive-dose clinical trials in adult and adolescent subjects with asthma (N = 149), the mean daily need for additional beta2-agonist in subjects using SEREVENT DISKUS was approximately 1½ inhalations/day.
+Concomitant Use of SEREVENT DISKUS with Other Respiratory Medications
+
+Short-acting Beta2-agonists: In two 12-week repetitive-dose clinical trials in adult and adolescent subjects with asthma (N = 149), the mean daily need for additional beta2-agonist in subjects using SEREVENT DISKUS was approximately 1½ inhalations/day.
 Twenty-six percent (26%) of the subjects in these trials used between 8 and 24 inhalations of short-acting beta-agonist per day on 1 or more occasions.
 Nine percent (9%) of the subjects in these trials averaged over 4 inhalations/day over the course of the 12-week trials.
 No increase in frequency of cardiovascular events was observed among the 3 subjects who averaged 8 to 11 inhalations/day; however, the safety of concomitant use of more than 8 inhalations/day of short-acting beta2-agonist with SEREVENT DISKUS has not been established.
@@ -53,24 +55,34 @@ Cromoglycate: In clinical trials, inhaled cromolyn sodium did not alter the safe
 Salmeterol xinafoate, an ionic salt, dissociates in solution so that the salmeterol and 1-hydroxy-2-naphthoic acid (xinafoate) moieties are absorbed, distributed, metabolized, and eliminated independently.
 Salmeterol acts locally in the lung; therefore, plasma levels do not predict therapeutic effect.
 
-Absorption: Because of the small therapeutic dose, systemic levels of salmeterol are low or undetectable after inhalation of recommended doses (50 mcg of salmeterol inhalation powder twice daily).
+Absorption
+
+Because of the small therapeutic dose, systemic levels of salmeterol are low or undetectable after inhalation of recommended doses (50 mcg of salmeterol inhalation powder twice daily).
 Following chronic administration of an inhaled dose of 50 mcg of salmeterol inhalation powder twice daily, salmeterol was detected in plasma within 5 to 45 minutes in 7 subjects with asthma; plasma concentrations were very low, with mean peak concentrations of 167 pg/mL at 20 minutes and no accumulation with repeated doses.
 
-Distribution: The percentage of salmeterol bound to human plasma proteins averages 96% in vitro over the concentration range of 8 to 7,722 ng of salmeterol base per milliliter, much higher concentrations than those achieved following therapeutic doses of salmeterol.
+Distribution
 
-Metabolism: Salmeterol base is extensively metabolized by hydroxylation, with subsequent elimination predominantly in the feces.
+The percentage of salmeterol bound to human plasma proteins averages 96% in vitro over the concentration range of 8 to 7,722 ng of salmeterol base per milliliter, much higher concentrations than those achieved following therapeutic doses of salmeterol.
+
+Metabolism
+
+Salmeterol base is extensively metabolized by hydroxylation, with subsequent elimination predominantly in the feces.
 No significant amount of unchanged salmeterol base was detected in either urine or feces.
 
 An in vitro study using human liver microsomes showed that salmeterol is extensively metabolized to α-hydroxysalmeterol (aliphatic oxidation) by CYP3A4.
 Ketoconazole, a strong inhibitor of CYP3A4, essentially completely inhibited the formation of α-hydroxysalmeterol in vitro.
 
-Elimination: In 2 healthy adult subjects who received 1 mg of radiolabeled salmeterol (as salmeterol xinafoate) orally, approximately 25% and 60% of the radiolabeled salmeterol was eliminated in urine and feces, respectively, over a period of 7 days.
+Elimination
+
+In 2 healthy adult subjects who received 1 mg of radiolabeled salmeterol (as salmeterol xinafoate) orally, approximately 25% and 60% of the radiolabeled salmeterol was eliminated in urine and feces, respectively, over a period of 7 days.
 The terminal elimination half-life was about 5.5 hours (1 volunteer only).
 
 The xinafoate moiety has no apparent pharmacologic activity.
-The xinafoate moiety is highly protein bound (>99%) and has a long elimination half-life of 11 days.
+The xinafoate moiety is highly protein bound (greater than 99%) and has a long elimination half-life of 11 days.
 
-Drug Interactions: Inhibitors of Cytochrome P450 3A4: Ketoconazole: In a placebo-controlled crossover drug interaction trial in 20 healthy male and female subjects, coadministration of salmeterol (50 mcg twice daily) and the strong CYP3A4 inhibitor ketoconazole (400 mg once daily) for 7 days resulted in a significant increase in plasma salmeterol exposure as determined by a 16-fold increase in AUC (ratio with and without ketoconazole 15.76 [90% CI: 10.66, 23.31]) mainly due to increased bioavailability of the swallowed portion of the dose.
+Drug Interactions
+
+Inhibitors of Cytochrome P450 3A4: Ketoconazole: In a placebo-controlled crossover drug interaction trial in 20 healthy male and female subjects, coadministration of salmeterol (50 mcg twice daily) and the strong CYP3A4 inhibitor ketoconazole (400 mg once daily) for 7 days resulted in a significant increase in plasma salmeterol exposure as determined by a 16-fold increase in AUC (ratio with and without ketoconazole 15.76 [90% CI: 10.66, 23.31]) mainly due to increased bioavailability of the swallowed portion of the dose.
 Peak plasma salmeterol concentrations were increased by 1.4-fold (90% CI: 1.23, 1.68).
 Three (3) out of 20 subjects (15%) were withdrawn from salmeterol and ketoconazole coadministration due to beta-agonist–mediated systemic effects (2 with QTc prolongation and 1 with palpitations and sinus tachycardia).
 Coadministration of salmeterol and ketoconazole did not result in a clinically significant effect on mean heart rate, mean blood potassium, or mean blood glucose.
