@@ -38,7 +38,7 @@ Long-term dermal toxicity studies of 24 months' duration in rats and 18 months' 
 
 ### Teratogenic Effects.
 
-Pregnancy Category B. A reproductive study has been performed in rabbits at doses up to three to ten times the concentration of silver sulfadiazine in SILVADENE Cream 1% and has revealed no evidence of harm to the fetus due to silver sulfadiazine.
+A reproductive study has been performed in rabbits at doses up to three to ten times the concentration of silver sulfadiazine in SILVADENE Cream 1% and has revealed no evidence of harm to the fetus due to silver sulfadiazine.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly justified, especially in pregnant women approaching or at term.
 (See CONTRAINDICATIONS.)

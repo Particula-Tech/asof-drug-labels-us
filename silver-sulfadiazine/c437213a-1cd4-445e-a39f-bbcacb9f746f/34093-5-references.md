@@ -11,6 +11,9 @@
    J Trauma.
    1977; 17:835–836.
 
-LAB-0647-5.0
+This product's label may have been updated.
+For current full prescribing information, please visit www.pfizer.com.
 
-February 2016
+LAB-0647-6.0
+
+September 2016
