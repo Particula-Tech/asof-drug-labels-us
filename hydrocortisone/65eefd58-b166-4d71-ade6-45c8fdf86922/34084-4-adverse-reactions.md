@@ -4,6 +4,8 @@ The following adverse reactions have been reported with SOLU-CORTEF or other cor
 
 Allergic reactions: Allergic or hypersensitivity reactions, anaphylactoid reaction, anaphylaxis, angioedema.
 
+Blood and lymphatic system disorders: Leukocytosis.
+
 Cardiovascular: Bradycardia, cardiac arrest, cardiac arrhythmias, cardiac enlargement, circulatory collapse, congestive heart failure, fat embolism, hypertension, hypertrophic cardiomyopathy in premature infants, myocardial rupture following recent myocardial infarction (see WARNINGS), pulmonary edema, syncope, tachycardia, thromboembolism, thrombophlebitis, vasculitis.
 
 Dermatologic: Acne, allergic dermatitis, burning or tingling (especially in the perineal area, after intravenous injection), cutaneous and subcutaneous atrophy, dry scaly skin, ecchymoses and petechiae, edema, erythema, hyperpigmentation, hypopigmentation, impaired wound healing, increased sweating, rash, sterile abscess, striae, suppressed reactions to skin tests, thin fragile skin, thinning scalp hair, urticaria.
@@ -19,8 +21,8 @@ Metabolic: Negative nitrogen balance due to protein catabolism.
 Musculoskeletal: Aseptic necrosis of femoral and humeral heads, Charcot-like arthropathy, loss of muscle mass, muscle weakness, osteoporosis, pathologic fracture of long bones, postinjection flare (following intra-articular use), steroid myopathy, tendon rupture, vertebral compression fractures.
 
 Neurologic/Psychiatric: Convulsions, depression, emotional instability, euphoria, headache, increased intracranial pressure with papilledema (pseudotumor cerebri) usually following discontinuation of treatment, insomnia, mood swings, neuritis, neuropathy, paresthesia, personality changes, psychic disorders, vertigo.
-Arachnoiditis, meningitis, paraparesis/paraplegia, and sensory disturbances have occurred after intrathecal administration (see WARNINGS: Neurologic).
+Arachnoiditis, meningitis, paraparesis/paraplegia, and sensory disturbances have occurred after intrathecal administration (see WARNINGS: Neurologic), epidural lipomatosis.
 
-Ophthalmic: Exophthalmoses, glaucoma, increased intraocular pressure, posterior subcapsular cataracts, rare instances of blindness associated with periocular injections.
+Ophthalmic: Central serous chorioretinopathy, exophthalmoses, glaucoma, increased intraocular pressure, posterior subcapsular cataracts, rare instances of blindness associated with periocular injections.
 
 Other: Abnormal fat deposits, decreased resistance to infection, hiccups, increased or decreased motility and number of spermatozoa, injection site infections following non-sterile administration (see WARNINGS), malaise, moon face, weight gain.
