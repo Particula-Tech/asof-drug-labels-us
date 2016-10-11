@@ -161,6 +161,8 @@ Musculoskeletal and connective tissue disorder: rhabdomyolysis
 
 Nervous system disorders: movement disorder
 
+Psychiatric disorders: agitation
+
 Reproductive system and breast disorders: breast enlargement, changes in libido, ejaculation disorders and anorgasmia
 
 Skin and subcutaneous tissue disorders: angioedema [see Warnings and Precautions (5.2)], erythema multiforme, Stevens-Johnson syndrome.
