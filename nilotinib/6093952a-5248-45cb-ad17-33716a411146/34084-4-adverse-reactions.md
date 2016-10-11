@@ -18,15 +18,15 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 In Patients with Newly Diagnosed Ph+ CML-CP
 
-The data below reflect exposure to Tasigna from a randomized trial in patients with newly diagnosed Ph+ CML in chronic phase treated at the recommended dose of 300 mg twice-daily (n=279).
-The median time on treatment in the nilotinib 300 mg twice-daily group was 61 months (range 0.1 to 71 months).
-The median actual dose intensity was 593 mg/day in the nilotinib 300 mg twice-daily group.
+The data below reflect exposure to Tasigna from a randomized trial in patients with newly diagnosed Ph+ CML in chronic phase treated at the recommended dose of 300 mg twice daily (n=279).
+The median time on treatment in the nilotinib 300 mg twice daily group was 61 months (range 0.1 to 71 months).
+The median actual dose intensity was 593 mg/day in the nilotinib 300 mg twice daily group.
 
-The most common (>10%) non-hematologic adverse drug reactions were rash, pruritus, headache, nausea, fatigue, alopecia, myalgia, and upper abdominal pain.
-Constipation, diarrhea, dry skin, muscle spasms, arthralgia, abdominal pain, peripheral edema, vomiting, and asthenia were observed less commonly (≤10% and >5%) and have been of mild to moderate severity, manageable and generally did not require dose reduction.
+The most common (greater than 10%) non-hematologic adverse drug reactions were rash, pruritus, headache, nausea, fatigue, alopecia, myalgia, and upper abdominal pain.
+Constipation, diarrhea, dry skin, muscle spasms, arthralgia, abdominal pain, peripheral edema, vomiting, and asthenia were observed less commonly (less than or equal to 10% and greater than 5%) and have been of mild to moderate severity, manageable and generally did not require dose reduction.
 
-Increase in QTcF >60 msec from baseline was observed in 1 patient (0.4%) in the 300 mg twice-daily treatment group.
-No patient had an absolute QTcF of >500 msec while on study drug.
+Increase in QTcF greater than 60 msec from baseline was observed in 1 patient (0.4%) in the 300 mg twice daily treatment group.
+No patient had an absolute QTcF of greater than 500 msec while on study drug.
 
 The most common hematologic adverse drug reactions (all grades) were myelosuppression including: thrombocytopenia (18%), neutropenia (15%) and anemia (8%).
 See Table 7 for Grade 3/4 laboratory abnormalities.
@@ -35,22 +35,22 @@ Discontinuation due to adverse reactions, regardless of relationship to study dr
 
 In Patients with Resistant or Intolerant Ph+ CML-CP and CML-AP
 
-In the single open-label multicenter clinical trial, a total of 458 patients with Ph+ CML-CP and CML-AP resistant to or intolerant to at least one prior therapy including imatinib were treated (CML-CP=321; CML-AP=137) at the recommended dose of 400 mg twice-daily.
+In the single open-label multicenter clinical trial, a total of 458 patients with Ph+ CML-CP and CML-AP resistant to or intolerant to at least one prior therapy including imatinib were treated (CML-CP=321; CML-AP=137) at the recommended dose of 400 mg twice daily.
 
 The median duration of exposure in days for CML-CP and CML-AP patients is 561 (range 1 to 1096) and 264 (range 2 to 1160), respectively.
-The median dose intensity for patients with CML-CP and CML-AP is 789 mg/day (range 151 to 1110) and 780 mg/day (range 150 to 1149), respectively and corresponded to the planned 400 mg twice-daily dosing.
+The median dose intensity for patients with CML-CP and CML-AP is 789 mg/day (range 151 to 1110) and 780 mg/day (range 150 to 1149), respectively and corresponded to the planned 400 mg twice daily dosing.
 
 The median cumulative duration in days of dose interruptions for the CML-CP patients was 20 (range 1 to 345), and the median duration in days of dose interruptions for the CML-AP patients was 23 (range 1 to 234).
 
-In patients with CML-CP, the most commonly reported non-hematologic adverse drug reactions (≥10%) were rash, pruritus, nausea, fatigue, headache, constipation, diarrhea, vomiting and myalgia.
-The common serious drug-related adverse reactions (≥1% and <10%) were thrombocytopenia, neutropenia and anemia.
+In patients with CML-CP, the most commonly reported non-hematologic adverse drug reactions (greater than or equal to 10%) were rash, pruritus, nausea, fatigue, headache, constipation, diarrhea, vomiting and myalgia.
+The common serious drug-related adverse reactions (greater than or equal to 1% and less than 10%) were thrombocytopenia, neutropenia and anemia.
 
-In patients with CML-AP, the most commonly reported non-hematologic adverse drug reactions (≥10%) were rash, pruritus and fatigue.
-The common serious adverse drug reactions (≥1% and <10%) were thrombocytopenia, neutropenia, febrile neutropenia, pneumonia, leukopenia, intracranial hemorrhage, elevated lipase and pyrexia.
+In patients with CML-AP, the most commonly reported non-hematologic adverse drug reactions (greater than or equal to 10%) were rash, pruritus and fatigue.
+The common serious adverse drug reactions (greater than or equal to 1% and less than 10%) were thrombocytopenia, neutropenia, febrile neutropenia, pneumonia, leukopenia, intracranial hemorrhage, elevated lipase and pyrexia.
 
 Sudden deaths and QT prolongation were reported.
 The maximum mean QTcF change from baseline at steady-state was 10 msec.
-Increase in QTcF >60 msec from baseline was observed in 4.1% of the patients and QTcF of >500 msec was observed in 4 patients (<1%) [see Boxed Warning, Warnings and Precautions (5.2, 5.3), Clinical Pharmacology (12.6)].
+Increase in QTcF greater than 60 msec from baseline was observed in 4.1% of the patients and QTcF of greater than 500 msec was observed in 4 patients (less than 1%) [see Boxed Warning, Warnings and Precautions (5.2, 5.3), Clinical Pharmacology (12.6)].
 
 Discontinuation due to adverse drug reactions was observed in 16% of CML-CP and 10% of CML-AP patients.
 
@@ -59,11 +59,11 @@ Most Frequently Reported Adverse Reactions
 Tables 5 and 6 show the percentage of patients experiencing non-hematologic adverse reactions (excluding laboratory abnormalities) regardless of relationship to study drug.
 Adverse reactions reported in greater than 10% of patients who received at least 1 dose of Tasigna are listed.
 
-Table 5: Most Frequently Reported Non-hematologic Adverse Reactions (Regardless of Relationship to Study Drug) in Patients with Newly Diagnosed Ph+ CML-CP (≥10% in Tasigna 300 mg Twice-Daily or Imatinib 400 mg Once-Daily Groups) 60-Month Analysisa
+Table 5: Most Frequently Reported Non-hematologic Adverse Reactions (Regardless of Relationship to Study Drug) in Patients with Newly Diagnosed Ph+ CML-CP (Greater than or equal to 10% in Tasigna 300 mg Twice Daily or Imatinib 400 mg Once Daily Groups) 60-Month Analysisa
 
 |  |  | Patients with Newly Diagnosed Ph+ CML-CP |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-|  |  | TASIGNA 300 mg twice-daily | Imatinib 400 mg once-daily | TASIGNA 300 mg twice-daily | Imatinib 400 mg once-daily |
+|  |  | TASIGNA 300 mg twice daily | Imatinib 400 mg once daily | TASIGNA 300 mg twice daily | Imatinib 400 mg once daily |
 |  |  | N=279 | N=280 | N=279 | N=280 |
 | Body System and Preferred Term |  | All Grades (%) |  | CTC Gradesb 3/4 (%) |  |
 | Skin and subcutaneous tissue disorders | Rash | 38 | 19 | <1 | 2 |
@@ -100,9 +100,10 @@ Table 5: Most Frequently Reported Non-hematologic Adverse Reactions (Regardless 
 |  | Periorbital edema | <1 | 15 | 0 | 0 |
 | Psychiatric disorders | Insomnia | 11 | 9 | 0 | 0 |
 | Vascular disorder | Hypertension | 10 | 4 | 1 | <1 |
-| aExcluding laboratory abnormalities bNCI Common Terminology Criteria for Adverse Events, Version 3.0 |  |  |  |  |  |
 
-Table 6: Most Frequently Reported Non-hematologic Adverse Reactions in Patients with Resistant or Intolerant Ph+ CML Receiving Tasigna 400 mg Twice-Daily (Regardless of Relationship to Study Drug) (≥10% in any Group) 24-Month Analysisa
+aExcluding laboratory abnormalities bNCI Common Terminology Criteria for Adverse Events, Version 3.0
+
+Table 6: Most Frequently Reported Non-hematologic Adverse Reactions in Patients with Resistant or Intolerant Ph+ CML Receiving Tasigna 400 mg Twice Daily (Regardless of Relationship to Study Drug) (Greater than or equal to 10% in any Group) 24-Month Analysisa
 
 | Body System and Preferred Term |  | CML-CP |  | CML-AP |  |
 | --- | --- | --- | --- | --- | --- |
@@ -139,7 +140,8 @@ Table 6: Most Frequently Reported Non-hematologic Adverse Reactions in Patients 
 | Metabolism and nutrition disorders | Decreased appetitec | 15 | <1 | 17 | <1 |
 | Psychiatric disorders | Insomnia | 12 | 1 | 7 | 0 |
 | Vascular disorders | Hypertension | 10 | 2 | 11 | <1 |
-| aExcluding laboratory abnormalities bNCI Common Terminology Criteria for Adverse Events, Version 3.0 cAlso includes preferred term anorexia |  |  |  |  |  |
+
+aExcluding laboratory abnormalities bNCI Common Terminology Criteria for Adverse Events, Version 3.0 cAlso includes preferred term anorexia
 
 Laboratory Abnormalities
 
@@ -151,7 +153,7 @@ Table 7: Percent Incidence of Clinically Relevant Grade 3/4* Laboratory Abnormal
 | --- | --- | --- | --- | --- |
 |  | Newly Diagnosed Ph+ CML-CP |  | Resistant or Intolerant Ph+ |  |
 |  |  |  | CML-CP | CML-AP |
-|  | TASIGNA 300 mg twice-daily N=279 (%) | Imatinib 400 mg once-daily N=280 (%) | TASIGNA 400 mg twice-daily N=321 (%) | TASIGNA 400 mg twice-daily N=137 (%) |
+|  | TASIGNA 300 mg twice daily N=279 (%) | Imatinib 400 mg once daily N=280 (%) | TASIGNA 400 mg twice daily N=321 (%) | TASIGNA 400 mg twice daily N=137 (%) |
 | Hematologic Parameters |  |  |  |  |
 | Thrombocytopenia | 10 | 9 | 301 | 423 |
 | Neutropenia | 12 | 22 | 312 | 424 |
@@ -170,7 +172,16 @@ Table 7: Percent Incidence of Clinically Relevant Grade 3/4* Laboratory Abnormal
 | Hypocalcemia | <1 | <1 | 2 | 5 |
 | Elevated alkaline phosphatase | 0 | <1 | <1 | 1 |
 | Elevated creatinine | 0 | <1 | <1 | <1 |
-| *NCI Common Terminology Criteria for Adverse Events, version 3.0 1CML-CP: Thrombocytopenia: 12% were Grade 3, 18% were Grade 4 2CML-CP: Neutropenia: 16% were Grade 3, 15% were Grade 4 3CML-AP: Thrombocytopenia: 11% were Grade 3, 32% were Grade 4 4CML-AP: Neutropenia: 16% were Grade 3, 26% were Grade 4 |  |  |  |  |
+
+*NCI Common Terminology Criteria for Adverse Events, version 3.0
+
+1CML-CP: Thrombocytopenia: 12% were Grade 3, 18% were Grade 4
+
+2CML-CP: Neutropenia: 16% were Grade 3, 15% were Grade 4
+
+3CML-AP: Thrombocytopenia: 11% were Grade 3, 32% were Grade 4
+
+4CML-AP: Neutropenia: 16% were Grade 3, 26% were Grade 4
 
 Elevated total cholesterol (all grades) occurred in 28% (Tasigna 300 mg bid) and 4% (imatinib).
 Elevated triglycerides (all grades) occurred in12% and 8% of patients in the Tasigna and imatinib arms, respectively.
@@ -181,16 +192,19 @@ Most common biochemistry laboratory abnormalities (all grades) were alanine amin
 ## 6.2 Additional Data from Clinical Trials
 
 The following adverse drug reactions were reported in patients in the Tasigna clinical studies at the recommended doses.
-These adverse drug reactions are ranked under a heading of frequency, the most frequent first using the following convention: common (≥1% and <10%), uncommon (≥0.1% and <1%), and unknown frequency (single events).
-For laboratory abnormalities, very common events (≥10%), which were not included in Tables 5 and 6, are also reported.
+These adverse drug reactions are ranked under a heading of frequency, the most frequent first using the following convention: common (greater than or equal to1% and less than 10%), uncommon (greater than or equal to 0.1% and less than 1%), and unknown frequency (single events).
+For laboratory abnormalities, very common events (greater than or equal to 10%), which were not included in Tables 5 and 6, are also reported.
 These adverse reactions are included based on clinical relevance and ranked in order of decreasing seriousness within each category, obtained from 2 clinical studies:
 
-1. Newly diagnosed Ph+ CML-CP 60 month analysis and,
-2. Resistant or intolerant Ph+ CML-CP and CMP-AP 24 months’ analysis.
+1.
+Newly diagnosed Ph+ CML-CP 60 month analysis and,
+
+2.
+Resistant or intolerant Ph+ CML-CP and CMP-AP 24 months’ analysis.
 
 Infections and Infestations: Common: folliculitis.
 Uncommon: pneumonia, bronchitis, urinary tract infection, candidiasis (including oral candidiasis).
-Unknown frequency: sepsis, subcutaneous abscess, anal abscess, furuncle, tinea pedis.
+Unknown frequency: hepatitis B virus reactivation, sepsis, subcutaneous abscess, anal abscess, furuncle, tinea pedis.
 
 Neoplasms Benign, Malignant, and Unspecified: Common: skin papilloma.
 Unknown frequency: oral papilloma, paraproteinemia.

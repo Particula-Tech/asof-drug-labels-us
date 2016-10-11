@@ -24,7 +24,7 @@ The administration of Tasigna with agents that are strong CYP3A4 inhibitors shou
 Concomitant use of Tasigna with medicinal products and herbal preparations that are potent inducers of CYP3A4 is likely to reduce exposure to nilotinib to a clinically relevant extent.
 Therefore, in patients receiving Tasigna, concomitant use of alternative therapeutic agents with less potential for CYP3A4 induction should be selected.
 
-Ketoconazole: In healthy subjects receiving ketoconazole, a CYP3A4 inhibitor, at 400 mg once-daily for 6 days, systemic exposure (AUC) to nilotinib was increased approximately 3-fold.
+Ketoconazole: In healthy subjects receiving ketoconazole, a CYP3A4 inhibitor, at 400 mg once daily for 6 days, systemic exposure (AUC) to nilotinib was increased approximately 3-fold.
 
 Rifampicin: In healthy subjects receiving the CYP3A4 inducer, rifampicin, at 600 mg daily for 12 days, systemic exposure (AUC) to nilotinib was decreased approximately 80%.
 

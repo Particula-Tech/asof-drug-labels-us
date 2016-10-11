@@ -14,7 +14,7 @@ Cardiovascular status of patients should be evaluated and cardiovascular risk fa
 
 Taking Tasigna
 
-Advise patients to take Tasigna doses twice-daily approximately 12 hours apart.
+Advise patients to take Tasigna doses twice daily approximately 12 hours apart.
 The capsules should be swallowed whole with water.
 
 Advise patients to take Tasigna on an empty stomach.
@@ -46,4 +46,4 @@ Advise patients of the following:
 - If a dose is missed, take the next dose as scheduled.
   Do not take a double dose to make up for the missed capsules.
 
-T2015-143 October 2015
+T2016-81 September 2016

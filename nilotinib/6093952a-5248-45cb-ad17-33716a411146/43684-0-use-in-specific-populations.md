@@ -13,14 +13,14 @@ If this drug is used during pregnancy, or if the patient becomes pregnant while 
 Animal Data
 
 Nilotinib was studied for effects on embryo-fetal development in pregnant rats and rabbits given oral doses of 10, 30, 100 mg/kg/day, and 30, 100, 300 mg/kg/day, respectively, during organogenesis.
-In rats, nilotinib at doses of 100 mg/kg/day (approximately 5.7 times the AUC in patients at the dose of 400 mg twice-daily) was associated with maternal toxicity (decreased gestation weight, gravid uterine weight, net weight gain, and food consumption).
-Nilotinib at doses ≥30 mg/kg/day (approximately 2 times the AUC in patients at the dose of 400 mg twice-daily) resulted in embryo-fetal toxicity as shown by increased resorption and post-implantation loss, and at 100 mg/kg/day, a decrease in viable fetuses.
+In rats, nilotinib at doses of 100 mg/kg/day (approximately 5.7 times the AUC in patients at the dose of 400 mg twice daily) was associated with maternal toxicity (decreased gestation weight, gravid uterine weight, net weight gain, and food consumption).
+Nilotinib at doses greater than or equal 30 mg/kg/day (approximately 2 times the AUC in patients at the dose of 400 mg twice daily) resulted in embryo-fetal toxicity as shown by increased resorption and post-implantation loss, and at 100 mg/kg/day, a decrease in viable fetuses.
 In rabbits, maternal toxicity at 300 mg/kg/day (approximately one-half the human exposure based on AUC) was associated with mortality, abortion, decreased gestation weights and decreased food consumption.
 Embryonic toxicity (increased resorption) and minor skeletal anomalies were observed at a dose of 300 mg/kg/day.
 Nilotinib is not considered teratogenic.
 
-When pregnant rats were dosed with nilotinib during organogenesis and through lactation, the adverse effects included a longer gestational period, lower pup body weights until weaning and decreased fertility indices in the pups when they reached maturity, all at a maternal dose of 360 mg/m2 (approximately 0.7 times the clinical dose of 400 mg twice-daily based on body surface area).
-At doses up to 120 mg/m2 (approximately 0.25 times the clinical dose of 400 mg twice-daily based on body surface area) no adverse effects were seen in the maternal animals or the pups.
+When pregnant rats were dosed with nilotinib during organogenesis and through lactation, the adverse effects included a longer gestational period, lower pup body weights until weaning and decreased fertility indices in the pups when they reached maturity, all at a maternal dose of 360 mg/m2 (approximately 0.7 times the clinical dose of 400 mg twice daily based on body surface area).
+At doses up to 120 mg per m2 (approximately 0.25 times the clinical dose of 400 mg twice daily based on body surface area) no adverse effects were seen in the maternal animals or the pups.
 
 ## 8.3 Nursing Mothers
 
@@ -36,11 +36,11 @@ The safety and effectiveness of Tasigna in pediatric patients have not been esta
 
 In the clinical trials of Tasigna (patients with newly diagnosed Ph+ CML-CP and resistant or intolerant Ph+ CML-CP and CML-AP), approximately 12% and 30% of patients were 65 years or over respectively.
 
-- Patients with newly diagnosed Ph+ CML-CP: There was no difference in major molecular response between patients aged <65 years and those ≥65 years.
-- Patients with resistant or intolerant CML-CP: There was no difference in major cytogenetic response rate between patients aged <65 years and those ≥65 years.
-- Patients with resistant or intolerant CML-AP: The hematologic response rate was 44% in patients <65 years of age and 29% in patients ≥65 years.
+- Patients with newly diagnosed Ph+ CML-CP: There was no difference in major molecular response between patients aged less than 65 years and those greater than or equal to 65 years.
+- Patients with resistant or intolerant CML-CP: There was no difference in major cytogenetic response rate between patients aged less than 65 years and those greater than or equal to 65 years.
+- Patients with resistant or intolerant CML-AP: The hematologic response rate was 44% in patients less than 65 years of age and 29% in patients greater than or equal to 65 years.
 
-No major differences for safety were observed in patients ≥65 years of age as compared to patients <65 years.
+No major differences for safety were observed in patients greater than or equal to 65 years of age as compared to patients less than 65 years.
 
 ## 8.6 Cardiac Disorders
 
@@ -65,18 +65,18 @@ Table 8: Child-Pugh Liver Function Classification
 |  | Slight | 2 |
 |  | Moderate | 3 |
 | Total Bilirubin (mg/dL) | <2 | 1 |
-|  | 2-3 | 2 |
+|  | 2–3 | 2 |
 |  | >3 | 3 |
 | Serum Albumin (g/dL) | >3.5 | 1 |
-|  | 2.8-3.5 | 2 |
+|  | 2.8–3.5 | 2 |
 |  | <2.8 | 3 |
 | Prothrombin Time (seconds prolonged) | <4 | 1 |
-|  | 4-6 | 2 |
+|  | 4–6 | 2 |
 |  | >6 | 3 |
 
 ## 8.8 Renal Impairment
 
 Clinical studies have not been performed in patients with impaired renal function.
-Clinical studies have excluded patients with serum creatinine concentration >1.5 times the upper limit of the normal range.
+Clinical studies have excluded patients with serum creatinine concentration greater than 1.5 times the upper limit of the normal range.
 
 Since nilotinib and its metabolites are not renally excreted, a decrease in total body clearance is not anticipated in patients with renal impairment.

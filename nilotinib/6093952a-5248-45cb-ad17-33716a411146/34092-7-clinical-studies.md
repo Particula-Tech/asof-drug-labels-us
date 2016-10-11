@@ -4,10 +4,10 @@
 
 An open-label, multicenter, randomized trial was conducted to determine the efficacy of Tasigna versus imatinib tablets in adult patients with cytogenetically confirmed newly diagnosed Ph+ CML-CP.
 Patients were within 6 months of diagnosis and were previously untreated for CML-CP, except for hydroxyurea and/or anagrelide.
-Efficacy was based on a total of 846 patients: 283 patients in the imatinib 400 mg once-daily group, 282 patients in the nilotinib 300 mg twice-daily group, 281 patients in the nilotinib 400 mg twice-daily group.
+Efficacy was based on a total of 846 patients: 283 patients in the imatinib 400 mg once daily group, 282 patients in the nilotinib 300 mg twice daily group, 281 patients in the nilotinib 400 mg twice daily group.
 
-Median age was 46 years in the imatinib group and 47 years in both nilotinib groups, with 12%, 13%, and 10% of patients ≥65 years of age in imatinib 400 mg once-daily, nilotinib 300 mg twice-daily and nilotinib 400 mg twice-daily treatment groups, respectively.
-There were slightly more male than female patients in all groups (56%, 56%, and 62% in imatinib 400 mg once-daily, nilotinib 300 mg twice-daily and nilotinib 400 mg twice-daily treatment groups, respectively).
+Median age was 46 years in the imatinib group and 47 years in both nilotinib groups, with 12%, 13%, and 10% of patients greater than or equal to 65 years of age in imatinib 400 mg once daily, nilotinib 300 mg twice daily and nilotinib 400 mg twice daily treatment groups, respectively.
+There were slightly more male than female patients in all groups (56%, 56%, and 62% in imatinib 400 mg once daily, nilotinib 300 mg twice daily and nilotinib 400 mg twice daily treatment groups, respectively).
 More than 60% of all patients were Caucasian, and 25% were Asian.
 
 The primary data analysis was performed when all 846 patients completed 12 months of treatment (or discontinued earlier).
@@ -15,14 +15,14 @@ Subsequent analyses were done when patients completed 24, 36, 48, and 60 months 
 The median time on treatment was approximately 61 months in all three treatment groups.
 
 The primary efficacy endpoint was major molecular response (MMR) at 12 months after the start of study medication.
-MMR was defined as ≤0.1% BCR-ABL/ABL % by international scale measured by RQ-PCR, which corresponds to a ≥3 log reduction of BCR-ABL transcript from standardized baseline.
+MMR was defined as less than or equal to 0.1% BCR-ABL/ABL % by international scale measured by RQ-PCR, which corresponds to a greater than or equal to 3 log reduction of BCR-ABL transcript from standardized baseline.
 Efficacy endpoints are summarized in Table 9.
 
 Two patients in the nilotinib arm progressed to either accelerated phase or blast crisis (both within the first 6 months of treatment) while 12 patients on the imatinib arm progressed to either accelerated phase or blast crisis (7 patients within first 6 months, 2 patients within 6 to 12 months, 2 patients within 12 to 18 months and 1 patient within 18 to 24 months).
 
 Table 9: Efficacy (MMR and CCyR) of TASIGNA Compared to Imatinib in Newly Diagnosed Ph+ CML-CP
 
-|  | TASIGNA 300 mg twice-daily | Imatinib 400 mg once-daily |
+|  | TASIGNA 300 mg twice daily | Imatinib 400 mg once daily |
 | --- | --- | --- |
 |  | N=282 | N=283 |
 | MMR at 12 months (95% CI) | 44% (38.4, 50.3) | 22% (17.6, 27.6) |
@@ -30,7 +30,11 @@ Table 9: Efficacy (MMR and CCyR) of TASIGNA Compared to Imatinib in Newly Diagno
 | CCyRb by 12 months (95% CI) | 80% (75.0, 84.6) | 65% (59.2, 70.6) |
 | MMR at 24 months (95% CI) | 62% (55.8, 67.4) | 38% (31.8, 43.4) |
 | CCyRb by 24 months (95% CI) | 87% (82.4, 90.6) | 77% (71.7, 81.8) |
-| aCMH test stratified by Sokal risk group bCCyR: 0% Ph+ metaphases. Cytogenetic responses were based on the percentage of Ph-positive metaphases among ≥20 metaphase cells in each bone marrow sample. |  |  |
+
+aCMH test stratified by Sokal risk group
+
+bCCyR: 0% Ph+ metaphases.
+Cytogenetic responses were based on the percentage of Ph-positive metaphases among greater than or equal to 20 metaphase cells in each bone marrow sample.
 
 By the 60 months, MMR was achieved by 77% of patients on Tasigna and 60% of patients on imatinib.
 Median overall survival was not reached in either arm.
@@ -38,7 +42,7 @@ At the time of the 60-month final analysis, the estimated survival rate was 93.7
 
 ## 14.2 Patients with Resistant or Intolerant Ph+ CML-CP and CML-AP
 
-A single-arm, open-label, multicenter study was conducted to evaluate the efficacy and safety of Tasigna (400 mg twice-daily) in patients with imatinib-resistant or -intolerant CML with separate cohorts for chronic and accelerated phase disease.
+A single-arm, open-label, multicenter study was conducted to evaluate the efficacy and safety of Tasigna (400 mg twice daily) in patients with imatinib-resistant or -intolerant CML with separate cohorts for chronic and accelerated phase disease.
 The definition of imatinib resistance included failure to achieve a complete hematologic response (by 3 months), cytogenetic response (by 6 months) or major cytogenetic response (by 12 months) or progression of disease after a previous cytogenetic or hematologic response.
 Imatinib intolerance was defined as discontinuation of treatment due to toxicity and lack of a major cytogenetic response at time of study entry.
 At the time of data cut-off, 321 patients with CML-CP and 137 patients with CML-AP with a minimum follow-up of 24 months were enrolled.
@@ -47,7 +51,7 @@ In this study, about 50% of CML-CP and CML-AP patients were males, over 90% (CML
 Overall, 73% of patients were imatinib resistant while 27% were imatinib intolerant.
 The median time of prior imatinib treatment was approximately 32 (CML-CP) and 28 (CML-AP) months.
 Prior therapy included hydroxyurea in 85% of patients, interferon in 56% and stem cell or bone marrow transplant in 8%.
-The median highest prior imatinib dose was 600 mg/day for patients with CML-CP and CML-AP, and the highest prior imatinib dose was ≥600 mg/day in 74% of all patients with 40% of patients receiving imatinib doses ≥800 mg/day.
+The median highest prior imatinib dose was 600 mg per day for patients with CML-CP and CML-AP, and the highest prior imatinib dose was greater than or equal to 600 mg/day in 74% of all patients with 40% of patients receiving imatinib doses greater than or equal to 800 mg/day.
 
 Median duration of nilotinib treatment was 18.4 months in patients with CML-CP and 8.7 months in patients with CML-AP.
 
@@ -63,14 +67,24 @@ Table 10: Efficacy of Tasigna in Resistant or Intolerant Ph+ CML-CP and CML-AP
 | Cytogenetic Response Rate (Unconfirmed) (%)a |  |
 | --- | --- |
 |  | Chronic Phase (n=321) |
-| Major (95% CI) | 51% (46%-57%) |
-| Complete (95% CI) | 37% (32%-42%) |
-| Partial (95% CI) | 15% (11%-19%) |
+| Major (95% CI) | 51% (46%–57%) |
+| Complete (95% CI) | 37% (32%–42%) |
+| Partial (95% CI) | 15% (11%–19%) |
 |  | Accelerated Phase (n=137) |
-| Hematologic Response Rate (Confirmed) (95% CI)b | 39% (31%-48%) |
-| Complete Hematologic Response Rate (95% CI) | 30% (22%-38%) |
-| No Evidence of Leukemia (95% CI) | 9% (5%-16%) |
-| aCytogenetic response criteria: Complete (0% Ph + metaphases) or partial (1% to 35%). Cytogenetic responses were based on the percentage of Ph-positive metaphases among ≥20 metaphase cells in each bone marrow sample. bHematologic response=CHR + NEL (all responses confirmed after 4 weeks). CHR (CML-CP): WBC <10 x 109/L, platelets <450,000/mm3, no blasts or promyelocytes in peripheral blood, <5% myelocytes + metamyelocytes in bone marrow, <20% basophils in peripheral blood, and no extramedullary involvement. CHR (CML-AP): neutrophils ≥1.5 x 109/L, platelets ≥100 x 109/L, no myeloblasts in peripheral blood, myeloblasts <5% in bone marrow, and no extramedullary involvement. NEL: same criteria as for CHR but neutrophils ≥1.0 x 109/L and platelets >20 x 109/L without transfusions or bleeding. |  |
+| Hematologic Response Rate (Confirmed) (95% CI)b | 39% (31%–48%) |
+| Complete Hematologic Response Rate (95% CI) | 30% (22%–38%) |
+| No Evidence of Leukemia (95% CI) | 9% (5%–16%) |
+
+aCytogenetic response criteria: Complete (0% Ph + metaphases) or partial (1% to 35%).
+Cytogenetic responses were based on the percentage of Ph-positive metaphases among greater than or equal to 20 metaphase cells in each bone marrow sample.
+
+bHematologic response=CHR + NEL (all responses confirmed after 4 weeks).
+
+CHR (CML-CP): WBC less than 10 x 109/L, platelets less than 450,000/mm3, no blasts or promyelocytes in peripheral blood, less than 5% myelocytes + metamyelocytes in bone marrow, less than 20% basophils in peripheral blood, and no extramedullary involvement.
+
+CHR (CML-AP): neutrophils greater than or equal to 1.5 x 109/L, platelets greater than or equal to 100 x 109/L, no myeloblasts in peripheral blood, myeloblasts less than 5% in bone marrow, and no extramedullary involvement.
+
+NEL: same criteria as for CHR but neutrophils greater than or equal to 1.0 x 109/L and platelets greater than or equal to 20 x 109/L without transfusions or bleeding.
 
 Patients with Chronic Phase
 

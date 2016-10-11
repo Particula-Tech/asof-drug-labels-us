@@ -1,10 +1,6 @@
 Medication Guide
 
-TASIGNA® (ta-sig-na)
-
-(nilotinib)
-
-Capsules
+TASIGNA® (ta-sig-na) (nilotinib) Capsules
 
 Read this Medication Guide before you start taking Tasigna and each time you get a refill.
 There may be new information.
@@ -24,9 +20,7 @@ Your healthcare provider should check the electrical activity of your heart with
 
 You may lower your chances for having QTc prolongation with Tasigna if you:
 
-- Take Tasigna on an empty stomach:
-  - Avoid eating food for at least 2 hours before the dose is taken, and
-  - Avoid eating food for at least 1 hour after the dose is taken.
+- Take Tasigna on an empty stomach: ○ Avoid eating food for at least 2 hours before the dose is taken, and ○ Avoid eating food for at least 1 hour after the dose is taken.
 - Avoid grapefruit, grapefruit juice, and any supplement containing grapefruit extract while taking Tasigna.
   Food and grapefruit products increase the amount of Tasigna in your body.
 - Avoid taking other medicines or supplements with Tasigna that can also cause QTc prolongation.
@@ -102,17 +96,11 @@ How should I take Tasigna?
   Do not change your dose or stop taking Tasigna unless your healthcare provider tells you.
 - Tasigna is a long-term treatment.
 - Your healthcare provider will tell you how many Tasigna capsules to take and when to take them.
-- Tasigna must be taken on an empty stomach.
-  - Avoid eating food for at least 2 hours before the dose is taken, and
-  - Avoid eating food for at least 1 hour after the dose is taken.
+- Tasigna must be taken on an empty stomach. ○ Avoid eating food for at least 2 hours before the dose is taken, and ○ Avoid eating food for at least 1 hour after the dose is taken.
 - Swallow Tasigna capsules whole with water.
   If you cannot swallow Tasigna capsules whole, tell your healthcare provider.
-- If you cannot swallow Tasigna capsules whole:
-  - Open the Tasigna capsules and sprinkle the contents in 1 teaspoon of applesauce (puréed apple).
-    - Do not use more than 1 teaspoon of applesauce.
-    - Only use applesauce.
-      Do not sprinkle Tasigna onto other foods.
-  - Swallow the mixture right away (within 15 minutes).
+- If you cannot swallow Tasigna capsules whole: ○ Open the Tasigna capsules and sprinkle the contents in 1 teaspoon of applesauce (puréed apple). ■ Do not use more than 1 teaspoon of applesauce. ■ Only use applesauce.
+  Do not sprinkle Tasigna onto other foods. ○ Swallow the mixture right away (within 15 minutes).
 - Do not drink grapefruit juice, eat grapefruit, or take supplements containing grapefruit extract at any time during treatment.
   See “What is the most important information I should know about Tasigna?”
 - If you miss a dose, just take your next dose at your regular time.
@@ -120,13 +108,8 @@ How should I take Tasigna?
 - If you take too much Tasigna, call your healthcare provider or poison control center right away.
   Symptoms may include vomiting and drowsiness.
   During treatment with Tasigna your healthcare provider will do tests to check for side effects and to see how well Tasigna is working for you.
-  The tests will check your:
-  - heart
-  - blood cells (white blood cells, red blood cells, and platelets).
-    Your blood cells should be checked every 2 weeks for the first 2 months and then monthly.
-  - electrolytes (potassium, magnesium)
-  - pancreas and liver function
-  - bone marrow samples
+  The tests will check your: ○ heart ○ blood cells (white blood cells, red blood cells, and platelets).
+  Your blood cells should be checked every 2 weeks for the first 2 months and then monthly. ○ electrolytes (potassium, magnesium) ○ pancreas and liver function ○ bone marrow samples
 - Your healthcare provider may change your dose.
   Your healthcare provider may have you stop Tasigna for some time or lower your dose if you have side effects with it.
 
@@ -137,20 +120,20 @@ Tasigna may cause serious side effects including:
 - See “What is the most important information I should know about Tasigna?”
 - Decreased blood flow to the leg, heart, or brain.
   People who have recently been diagnosed with Ph+ CML and take Tasigna may develop decreased blood flow to the leg, the heart, or brain.
-  Get medical help right away if you suddenly develop any of the following symptoms:
-  - chest pain or discomfort
-  - numbness or weakness
-  - problems walking or speaking
-  - leg pain
-  - your leg feels cold
-  - change in the skin color of your leg
+
+Get medical help right away if you suddenly develop any of the following symptoms:
+
+- chest pain or discomfort
+- numbness or weakness
+- problems walking or speaking
+- leg pain
+- your leg feels cold
+- change in the skin color of your leg
+
 - Low blood counts.
   Low blood counts are common with Tasigna.
   Your healthcare provider will check your blood counts regularly during treatment with Tasigna.
-  Symptoms of low blood counts include:
-  - unexplained bleeding or bruising
-  - blood in urine or stool
-  - unexplained weakness
+  Symptoms of low blood counts include: ○ unexplained bleeding or bruising ○ blood in urine or stool ○ unexplained weakness
 - Liver problems.
   Symptoms include yellow skin and eyes.
 - Pancreas inflammation (pancreatitis).
@@ -159,9 +142,10 @@ Tasigna may cause serious side effects including:
   Symptoms include sudden headache, changes in your eyesight, not being aware of what is going on around you and becoming unconscious.
 - Tumor Lysis Syndrome (TLS).
   TLS is caused by a fast breakdown of cancer cells.
-  TLS can cause you to have: Your healthcare provider may do blood tests to check you for TLS.
-  - kidney failure and the need for dialysis treatment
-  - an abnormal heart beat
+  TLS can cause you to have: ○ kidney failure and the need for dialysis treatment ○ an abnormal heart beat
+
+Your healthcare provider may do blood tests to check you for TLS.
+
 - Bleeding.
   Tell your healthcare provider right away if you develop any signs and symptoms of bleeding during treatment with Tasigna.
 - Fluid retention.
@@ -213,8 +197,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
-Revised: January 2015
-
 © Novartis
 
-T2015-22 January 2015
+T2016-81/T2015-22 September 2016/January 2015

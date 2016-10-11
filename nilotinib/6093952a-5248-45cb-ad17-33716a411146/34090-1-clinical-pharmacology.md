@@ -17,11 +17,11 @@ The absolute bioavailability of nilotinib has not been determined.
 As compared to an oral drink solution (pH of 1.2 to 1.3), relative bioavailability of nilotinib capsule is approximately 50%.
 Peak concentrations of nilotinib are reached 3 hours after oral administration.
 
-Steady-state nilotinib exposure was dose-dependent with less than dose-proportional increases in systemic exposure at dose levels higher than 400 mg given as once-daily dosing.
-Daily serum exposure to nilotinib following 400 mg twice-daily dosing at steady state was 35% higher than with 800 mg once-daily dosing.
-Steady state exposure (AUC) of nilotinib with 400 mg twice-daily dosing was 13% higher than with 300 mg twice-daily dosing.
+Steady-state nilotinib exposure was dose-dependent with less than dose-proportional increases in systemic exposure at dose levels higher than 400 mg given as once daily dosing.
+Daily serum exposure to nilotinib following 400 mg twice daily dosing at steady state was 35% higher than with 800 mg once daily dosing.
+Steady state exposure (AUC) of nilotinib with 400 mg twice daily dosing was 13% higher than with 300 mg twice daily dosing.
 The average steady state nilotinib trough and peak concentrations did not change over 12 months.
-There was no relevant increase in exposure to nilotinib when the dose was increased from 400 mg twice-daily to 600 mg twice-daily.
+There was no relevant increase in exposure to nilotinib when the dose was increased from 400 mg twice daily to 600 mg twice daily.
 
 The bioavailability of nilotinib was increased when given with a meal.
 Compared to the fasted state, the systemic exposure (AUC) increased by 82% when the dose was given 30 minutes after a high fat meal.
@@ -37,7 +37,7 @@ Pharmacokinetics, Metabolism and Excretion
 The apparent elimination half-life estimated from the multiple dose pharmacokinetic studies with daily dosing was approximately 17 hours.
 Inter-patient variability in nilotinib AUC was 32% to 64%.
 Steady state conditions were achieved by Day 8.
-An increase in serum exposure to nilotinib between the first dose and steady state was approximately 2-fold for daily dosing and 3.8-fold for twice-daily dosing.
+An increase in serum exposure to nilotinib between the first dose and steady state was approximately 2-fold for daily dosing and 3.8-fold for twice daily dosing.
 
 Main metabolic pathways identified in healthy subjects are oxidation and hydroxylation.
 Nilotinib is the main circulating component in the serum.
@@ -50,7 +50,7 @@ Age, body weight, gender, or ethnic origin did not significantly affect the phar
 
 Drug-Drug Interactions
 
-In a Phase 1 trial of nilotinib 400 mg twice-daily in combination with imatinib 400 mg daily or 400 mg twice-daily, the AUC increased 30% to 50% for nilotinib and approximately 20% for imatinib.
+In a Phase 1 trial of nilotinib 400 mg twice daily in combination with imatinib 400 mg daily or 400 mg twice daily, the AUC increased 30% to 50% for nilotinib and approximately 20% for imatinib.
 
 ## 12.5 Pharmacogenomics
 
