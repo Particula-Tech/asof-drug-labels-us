@@ -20,7 +20,7 @@ When co-administering PREZCOBIX with tenofovir disoproxil fumarate (tenofovir DF
 
 ## 2.3 Patients with Renal Impairment
 
-PREZCOBIX co-administered with tenofovir DF is not recommended in patients who have an estimated creatinine clearance below 70 mL/min [see Warnings and Precautions (5.3) and Adverse Reactions (6.1)].
+PREZCOBIX co-administered with tenofovir DF is not recommended in patients who have an estimated creatinine clearance below 70 mL per minute [see Warnings and Precautions (5.3) and Adverse Reactions (6.1)].
 
 ## 2.4 Patients with Hepatic Impairment
 

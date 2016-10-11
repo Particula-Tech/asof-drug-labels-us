@@ -30,7 +30,7 @@ Cobicistat decreases estimated creatinine clearance due to inhibition of tubular
 This effect should be considered when interpreting changes in estimated creatinine clearance in patients initiating PREZCOBIX, particularly in patients with medical conditions or receiving drugs needing monitoring with estimated creatinine clearance.
 
 Prior to initiating therapy with PREZCOBIX, assess estimated creatinine clearance [see Dosage and Administration (2.4)].
-Dosage recommendations are not available for drugs that require dosage adjustments in PREZCOBIX-treated patients with renal impairment [see Drug Interactions (7.3), Clinical Pharmacology (12.2)].
+Dosage recommendations are not available for drugs that require dosage adjustments in PREZCOBIX-treated patients with renal impairment [see Drug Interactions (7.3) and Clinical Pharmacology (12.2)].
 Consider alternative medications that do not require dosage adjustments in patients with renal impairment.
 
 Although cobicistat may cause modest increases in serum creatinine and modest declines in estimated creatinine clearance without affecting renal glomerular function, patients who experience a confirmed increase in serum creatinine of greater than 0.4 mg/dL from baseline should be closely monitored for renal safety.
@@ -48,9 +48,20 @@ See cobicistat full prescribing information for additional information regarding
 
 ## 5.5 Risk of Serious Adverse Reactions or Loss of Virologic response due to Drug Interactions
 
-Initiation of PREZCOBIX, which inhibits CYP3A, in patients receiving medications metabolized by CYP3A, or initiation of medications metabolized by CYP3A in patients already receiving PREZCOBIX may increase plasma concentrations of these medications, which may increase the risk of clinically significant adverse reactions (including life-threatening or fatal reactions) associated with the concomitant medications.
-Co-administration of PREZCOBIX with CYP3A inducers may lead to lower exposures of darunavir and cobicistat and loss of efficacy of darunavir and possible resistance.
-Therefore, consider the potential for drug interactions prior to and during PREZCOBIX therapy; review concomitant medications during PREZCOBIX therapy; and monitor for the adverse reactions associated with the concomitant drugs [see Contraindications (4), Drug Interactions (7)].
+Initiation of PREZCOBIX, which inhibits CYP3A, in patients receiving medications metabolized by CYP3A, or initiation of medications metabolized by CYP3A in patients already receiving PREZCOBIX may increase plasma concentrations of medications metabolized by CYP3A.
+Initiation of medications that inhibit or induce CYP3A may respectively increase or decrease concentrations of PREZCOBIX.
+
+Increased concentrations may lead to:
+
+- clinically significant adverse reactions, potentially leading to severe, life threatening, or fatal events from higher exposures of concomitant medications.
+- clinically significant adverse reactions from higher exposures of PREZCOBIX.
+
+Decreased antiretroviral concentrations may lead to:
+
+- loss of therapeutic effect of PREZCOBIX and possible development of resistance.
+
+See Table 2 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations.
+Consider the potential for drug interactions prior to and during PREZCOBIX therapy; review concomitant medications during PREZCOBIX therapy; and monitor for the adverse reactions associated with concomitant medications [see Contraindications (4) and Drug Interactions (7)].
 
 When used with concomitant medications, PREZCOBIX may result in different drug interactions than those observed or expected with darunavir co-administered with ritonavir.
 Complex or unknown mechanisms of drug interactions preclude extrapolation of drug interactions with darunavir co-administered with ritonavir to certain PREZCOBIX interactions [see Drug Interactions (7) and Clinical Pharmacology (12.3)].

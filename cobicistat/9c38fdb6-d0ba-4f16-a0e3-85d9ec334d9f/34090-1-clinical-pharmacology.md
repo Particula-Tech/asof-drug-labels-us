@@ -109,7 +109,7 @@ The effect of hepatitis B and/or C virus infection on the pharmacokinetics of PR
 
 Renal Impairment
 
-Darunavir: Population pharmacokinetic analysis showed that the pharmacokinetics of darunavir were not significantly affected in HIV-1 infected subjects with moderate renal impairment taking darunavir co-administered with ritonavir (CrCL between 30–60 mL/min, n=20).
+Darunavir: Population pharmacokinetic analysis showed that the pharmacokinetics of darunavir were not significantly affected in HIV-1 infected subjects with moderate renal impairment taking darunavir co-administered with ritonavir (creatinine clearance between 30–60 mL/min, n=20).
 There are no pharmacokinetic data available in HIV-1 infected patients with severe renal impairment or end stage renal disease taking darunavir co-adminstered with either ritonavir or cobicistat [see Use in Specific Populations (8.7)].
 
 Cobicistat: A trial of the pharmacokinetics of cobicistat was performed in non-HIV infected subjects with severe renal impairment (estimated creatinine clearance below 30 mL/min).
@@ -137,6 +137,15 @@ Cobicistat: Insufficient data are available to determine whether potential diffe
 Pediatric Patients
 
 The pharmacokinetics of PREZCOBIX in pediatric subjects have not been established.
+
+Drug Interactions
+
+Darunavir is metabolized by CYP3A.
+Cobicistat is metabolized by CYP3A, and to a minor extent, by CYP2D6.
+When evaluated separately, darunavir and cobicistat both inhibited CYP3A and CYP2D6.
+Cobicistat inhibits the following transporters: p-glycoprotein (P-gp), BCRP, OATP1B1 and OATP1B3.
+Based on in vitro data, cobicistat is not expected to induce CYP1A2 or CYP2B6 and based on in vivo data, cobicistat is not expected to induce MDR1 or, in general, CYP3A to a clinically significant extent.
+The induction effect of cobicistat on CYP2C9, CYP2C19, or UGT1A1 is unknown, but is expected to be low based on CYP3A in vitro induction data.
 
 ## 12.4 Microbiology
 
@@ -177,7 +186,7 @@ Cross-resistance
 
 Cross-resistance among PIs has been observed.
 Darunavir has a less than 10-fold decreased susceptibility in cell culture against 90% of 3309 clinical isolates resistant to amprenavir, atazanavir, indinavir, lopinavir, nelfinavir, ritonavir, saquinavir, and/or tipranavir showing that viruses resistant to these PIs remain susceptible to darunavir.
-A less than 10-fold decreased susceptibility was observed for the other PIs in 26% to 96% of these PI resistant clinical isolates (nelfinavir (26%), ritonavir (34%), lopinavir (46%), indinavir (57%), atazanavir (59%), saquinavir (64%), amprenavir (70%), and tipranavir (96%).
+A less than 10-fold decreased susceptibility was observed for the other PIs in 26% to 96% of these PI resistant clinical isolates [nelfinavir (26%), ritonavir (34%), lopinavir (46%), indinavir (57%), atazanavir (59%), saquinavir (64%), amprenavir (70%), and tipranavir (96%)].
 
 Cross-resistance between darunavir and nucleoside/nucleotide reverse transcriptase inhibitors, non-nucleoside reverse transcriptase inhibitors, fusion inhibitors, CCR5 co-receptor antagonists, or integrase strand transfer inhibitors is unlikely because the viral targets are different.
 

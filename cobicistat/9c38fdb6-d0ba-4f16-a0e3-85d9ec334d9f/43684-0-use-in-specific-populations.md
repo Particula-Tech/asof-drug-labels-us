@@ -53,4 +53,4 @@ Therefore, PREZCOBIX is not recommended for use in patients with severe hepatic 
 
 A renal impairment trial was not conducted for darunavir co-administered with cobicistat [see Clinical Pharmacology (12.3)].
 Cobicistat has been shown to decrease estimated creatinine clearance without affecting actual renal glomerular function.
-Dosing recommendations are not available for drugs that require dosage adjustment for renal impairment when used in combination with PREZCOBIX [see Warnings and Precautions (5.3), and Clinical Pharmacology (12.2)].
+Dosing recommendations are not available for drugs that require dosage adjustment for renal impairment when used in combination with PREZCOBIX [see Warnings and Precautions (5.3) and Clinical Pharmacology (12.2)].
