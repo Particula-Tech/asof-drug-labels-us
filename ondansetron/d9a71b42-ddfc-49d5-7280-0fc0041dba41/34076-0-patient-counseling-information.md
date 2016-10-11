@@ -7,7 +7,6 @@
   - •Patients who take medications, such as diuretics, which may cause electrolyte abnormalities;
   - •Patients with hypokalemia or hypomagnesemia.
 - ZOFRAN should be avoided in these patients, since they may be more at risk for cardiac arrhythmias such as QT prolongation and Torsade de Pointes.
-
 - •Advise patients of the possibility of serotonin syndrome with concomitant use of ZOFRAN and another serotonergic agent such as medications to treat depression and migraines.
   Advise patients to seek immediate medical attention if the following symptoms occur: changes in mental status, autonomic instability, neuromuscular symptoms with or without gastrointestinal symptoms.
 - •Inform patients that ZOFRAN may cause hypersensitivity reactions, some as severe as anaphylaxis and bronchospasm.
