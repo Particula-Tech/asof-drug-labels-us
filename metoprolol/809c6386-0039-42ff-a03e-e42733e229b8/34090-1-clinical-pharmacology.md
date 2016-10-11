@@ -54,7 +54,7 @@ The estimated oral bioavailability of immediate-release metoprolol is about 50% 
 
 ### Distribution
 
-Metoprolol is extensively distributed with a reported volume of distribution of 3.2 to 5.6 L/kg.
+Metoprolol is extensively distributed with a reported volume of distribution of 3.2 L/kg to 5.6 L/kg.
 About 10% of metoprolol in plasma is bound to serum albumin.
 Metoprolol is known to cross the placenta and is found in breast milk.
 Metoprolol is also known to cross the blood brain barrier following oral administration and CSF concentrations close to that observed in plasma have been reported.
@@ -63,7 +63,7 @@ Metoprolol is not a significant P-glycoprotein substrate.
 ### Metabolism
 
 Metoprolol is primarily metabolized by CYP2D6.
-Metoprolol is a racemic mixture of R- and S- enantiomers, and when administered orally, it exhibits stereoselective metabolism that is dependent on oxidation phenotype.
+Metoprolol is a racemic mixture of R- and S-enantiomers, and when administered orally, it exhibits stereoselective metabolism that is dependent on oxidation phenotype.
 CYP2D6 is absent (poor metabolizers) in about 8% of Caucasians and about 2% of most other populations.
 Poor CYP2D6 metabolizers exhibit several-fold higher plasma concentrations of metoprolol than extensive metabolizers with normal CYP2D6 activity thereby decreasing metoprolol’s cardioselectivity.
 

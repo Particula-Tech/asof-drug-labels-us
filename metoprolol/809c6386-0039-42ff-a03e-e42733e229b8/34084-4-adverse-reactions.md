@@ -33,7 +33,7 @@ Isolated cases of transaminase, alkaline phosphatase, and lactic dehydrogenase e
 ### Hypersensitive Reactions
 
 Pruritus or rash have occurred in about 5 of 100 patients.
-Very rarely, photosensitivity and worsening of psoriasis has been reported.
+Very rarely, photosensitivity and worsening of psoriasis have been reported.
 
 ### Miscellaneous
 
@@ -57,9 +57,9 @@ Vertigo, sleep disturbances, hallucinations, headache, dizziness, visual disturb
 
 In the randomized comparison of metoprolol and placebo described in the CLINICAL PHARMACOLOGY section, the following adverse reactions were reported:
 
-|  | Metoprolol | Placebo |
+|  | Metoprolol Tartrate Tablets | Placebo |
 | --- | --- | --- |
-| Hypotension (systolic BP < 90 mm Hg) | 27.4% | 23.2% |
+| Hypotension (systolic BP < 90 mmHg) | 27.4% | 23.2% |
 | Bradycardia (heart rate < 40 beats/min) | 15.9% | 6.7% |
 | Second- or third-degree heart block | 4.7% | 4.7% |
 | First-degree heart block (P-R ≥ 0.26 sec) | 5.3% | 1.9% |

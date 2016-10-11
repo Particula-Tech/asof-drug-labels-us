@@ -2,7 +2,7 @@
 
 ## Hypertension
 
-Metoprolol tartrate tablets, USP are indicated for the treatment of hypertension.
+Metoprolol tartrate tablets are indicated for the treatment of hypertension.
 They may be used alone or in combination with other antihypertensive agents.
 
 ## Angina Pectoris

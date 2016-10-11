@@ -120,7 +120,7 @@ All mutagenicity tests performed (a dominant lethal study in mice, chromosome st
 Reproduction toxicity studies in mice, rats and rabbits did not indicate teratogenic potential for metoprolol tartrate.
 Embryotoxicity and/or fetotoxicity in rats and rabbits were noted starting at doses of 50 mg/kg in rats and 25 mg/kg in rabbits, as demonstrated by increases in preimplantation loss, decreases in the number of viable fetuses per dose, and/or decreases in neonatal survival.
 High doses were associated with some maternal toxicity, and growth delay of the offspring in utero, which was reflected in minimally lower weights at birth.
-The oral NOAELs for embryo-fetal development in mice, rats, and rabbits were considered to be 25, 200, and 12.5 mg/kg.
+The oral NOAELs for embryo-fetal development in mice, rats, and rabbits were considered to be 25 mg/kg, 200 mg/kg, and 12.5 mg/kg.
 This corresponds to dose levels that are approximately 0.3 times, 4 times, and 0.5 times, respectively, when based on surface area, the maximum human oral dose (8 mg/kg/day) of metoprolol tartrate.
 Metoprolol tartrate has been associated with reversible adverse effects on spermatogenesis starting at oral dose levels of 3.5 mg/kg in rats (a dose that is only 0.1 times the human dose, when based on surface area), although other studies have shown no effect of metoprolol tartrate on reproductive performance in male rats.
 
@@ -128,7 +128,7 @@ Metoprolol tartrate has been associated with reversible adverse effects on sperm
 
 ### Pregnancy Category C
 
-Upon confirming the diagnosis of pregnancy, women should immediately inform the doctor.
+Upon confirming the diagnosis of pregnancy, women should immediately inform their doctor.
 Metoprolol has been shown to increase postimplantation loss and decrease neonatal survival in rats at doses up to 11 times the maximum daily human dose of 450 mg, when based on surface area.
 Distribution studies in mice confirm exposure of the fetus when metoprolol is administered to the pregnant animal.
 These limited animal studies do not indicate direct or indirect harmful effects with respect to teratogenicity (see PRECAUTIONS: Carcinogenesis, Mutagenesis, Impairment of Fertility).
@@ -145,7 +145,7 @@ An infant consuming one liter of breast milk daily would receive a dose of less 
 
 ## Fertility
 
-The effects of metoprolol on the fertility of human have not been studied.
+The effects of metoprolol on the fertility of humans have not been studied.
 
 Metoprolol showed effects on spermatogenesis in male rats at a therapeutic dose level, but had no effect on rates of conception at higher doses in animal fertility studies (see PRECAUTIONS: Carcinogenesis, Mutagenesis, Impairment of Fertility).
 
