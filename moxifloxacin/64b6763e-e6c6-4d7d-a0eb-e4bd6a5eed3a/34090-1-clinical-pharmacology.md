@@ -34,7 +34,7 @@ Table 7: Mean (± SD) Cmax and AUC values following single and multiple doses of
 | Healthy young male (n = 8) | 3.6 ± 0.5 | 48.2 ± 9 |  |
 | Healthy young female (n = 9) | 4.2 ± 0.5 | 49.3 ± 9.5 |  |
 
-1. a)Range of means from different studies
+1. 1.Range of means from different studies
 
 Table 8: Mean (± SD) Cmax and AUC values following single and multiple doses of 400 mg moxifloxacin given by 1-hour intravenous infusion
 
@@ -56,8 +56,8 @@ Table 8: Mean (± SD) Cmax and AUC values following single and multiple doses of
 | <65 years (n = 52) | 4.1 ± 1.4 |  |  |
 | ≥65 years (n = 55) | 4.7 ± 2.7 |  |  |
 
-1. a)Range of means from different studies
-2. b)Expected Cmax (concentration obtained around the time of the end of the infusion)
+1. 1.Range of means from different studies
+2. 2.Expected Cmax (concentration obtained around the time of the end of the infusion)
 
 Plasma concentrations increase proportionately with dose up to the highest dose tested (1200 mg single oral dose).
 The mean (± SD) elimination half-life from plasma is 12 ± 1.3 hours; steady-state is achieved after at least three days with a 400 mg once daily regimen.
@@ -94,11 +94,11 @@ Table 9: Moxifloxacin Concentrations (mean ± SD) in Tissues and the Correspondi
 | Abdominal exudate | 10 | 2.3 ± 0.5 | 3.5 ±1.2 | 1.6 ± 0.7 |
 | Abscess fluid | 6 | 2.7 ± 0.7 | 2.3 ±1.5 | 0.8 ± 0.4 |
 
-1. a)All moxifloxacin concentrations were measured 3 hours after a single 400 mg dose, except the abdominal tissue and exudate concentrations which were measured at 2 hours post-dose and the sinus concentrations which were measured 3 hours post-dose after 5 days of dosing.
-2. b)N = 5
-3. c)N = 7
-4. d)N = 12
-5. e)Reflects only non-protein bound concentrations of drug.
+1. 1.All moxifloxacin concentrations were measured 3 hours after a single 400 mg dose, except the abdominal tissue and exudate concentrations which were measured at 2 hours post-dose and the sinus concentrations which were measured 3 hours post-dose after 5 days of dosing.
+2. 2.N = 5
+3. 3.N = 7
+4. 4.N = 12
+5. 5.Reflects only non-protein bound concentrations of drug.
 
 ### Metabolism
 

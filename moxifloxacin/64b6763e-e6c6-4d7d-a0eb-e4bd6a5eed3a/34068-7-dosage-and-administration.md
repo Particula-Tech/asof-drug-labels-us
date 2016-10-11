@@ -17,9 +17,9 @@ Table 1: Dosage and Duration of Therapy in Adult Patients
 | Acute Bacterial Sinusitis (ABS) (1.6) | 400 mg | 10 |
 | Acute Bacterial Exacerbation of Chronic Bronchitis (ABECB) (1.7) | 400 mg | 5 |
 
-1. a)Due to the designated pathogens [see Indications and Usage (1)].
-2. b)Sequential therapy (intravenous to oral) may be instituted at the discretion of the physician
-3. c)Drug administration should begin as soon as possible after suspected or confirmed exposure to Yersinia pestis.
+1. 1.Due to the designated pathogens [see Indications and Usage (1)].
+2. 2.Sequential therapy (intravenous to oral) may be instituted at the discretion of the physician
+3. 3.Drug administration should begin as soon as possible after suspected or confirmed exposure to Yersinia pestis.
 
 ### Conversion of Intravenous to Oral Dosing in Adults
 
@@ -78,6 +78,6 @@ Refer to complete directions that have been provided with the administration set
 
 To prepare AVELOX Injection premix in flexible containers:
 
-1. Close flow control clamp of administration set.
-2. Remove cover from port at bottom of container.
-3. Insert piercing pin from an appropriate transfer set (for example, one that does not require excessive force, such as ISO compatible administration set) into port with a gentle twisting motion until pin is firmly seated.
+- Close flow control clamp of administration set.
+- Remove cover from port at bottom of container.
+- Insert piercing pin from an appropriate transfer set (for example, one that does not require excessive force, such as ISO compatible administration set) into port with a gentle twisting motion until pin is firmly seated.

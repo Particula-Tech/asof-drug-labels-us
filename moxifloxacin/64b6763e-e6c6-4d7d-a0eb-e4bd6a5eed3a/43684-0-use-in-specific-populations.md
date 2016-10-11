@@ -1,54 +1,5 @@
 # 8 USE IN SPECIFIC POPULATIONS
 
-## Active Controlled Trial in Complicated Intra-Abdominal Infection (cIAI)
-
-The safety and efficacy of AVELOX in pediatric patients for the treatment of cIAI has not been demonstrated.
-
-Pediatric patients 3 months to <18 years of age (mean age of 12 ± 4 years) were enrolled in a single randomized, double-blind, active controlled trial in cIAI including appendicitis with perforation, abscesses and peritonitis.
-
-Pediatric patients were randomized (2:1) to receive either AVELOX or comparator.
-This study enrolled 451 patients who received study medication, 301 treated with moxifloxacin, and 150 with comparator.
-Of the 301 pediatric patients treated with AVELOX, 15 were below the age of 6 years and 286 were between the ages of 6–<18 years.
-
-Patients received sequential intravenous/oral AVELOX or comparator (intravenous ertapenem followed by oral amoxicillin/clavulanate) for 5 to 14 days (mean duration was 9 days with a range of 1 to 24 days).
-
-The overall adverse reaction profile in pediatric patients was comparable to that of adult patients.
-The most frequently occurring adverse reactions in pediatric patients treated with AVELOX were QT prolongation 9.3% (28/301), vomiting, 6.6% (20/301) diarrhea 3.7% (11/301), arthralgia 3.0% (9/301), and phlebitis 2.7% (8/301) (see Table 5).
-Discontinuation of study drug due to an adverse reaction was reported in 5.3% (16/301) of AVELOX-treated patients versus 1.3% (2/150) of comparator-treated patients.
-The adverse reaction profile of AVELOX or comparator was similar across all age groups studied.
-
-Musculoskeletal adverse reactions were monitored and followed up to 5 years after the end of study treatment.
-The rates of musculoskeletal adverse reactions were 4.3% (13/301) in the AVELOX-treated group versus 3.3% (5/150) in the comparator-treated group.
-The majority of musculoskeletal adverse reactions were reported between 12 and 53 weeks after start of study treatment with complete resolution at the end of the study [see Warnings and Precautions (5.9) and Nonclinical Toxicology (13.2)].
-
-Table 5: Table 5 Incidence (%) of Selected Adverse Reactions in ≥2.0% of Pediatric Patients Treated with AVELOX in cIAI Clinical Trial
-
-| General disorders and administration site conditions | Pyrexia | 6 (2.0) | 4 (2.7) |
-| --- | --- | --- | --- |
-| System Organ Class | Adverse Reactions | AVELOX N = 301 (%) | Comparator N = 150 (%) |
-| Gastrointestinal disorders | Abdominal pain | 8 (2.7) | 3 (2.0) |
-|  | Diarrhea | 11 (3.7) | 1 (0.7) |
-|  | Vomiting | 20 (6.6) | 12 (8.0) |
-| Investigations | Aspartate aminotransferase increased | 2 (0.7) | 3 (2.0) |
-|  | Electrocardiogram QT prolonged | 28 (9.3) | 4 (2.7) |
-| Musculoskeletal and connective tissue disorders | Arthralgia | 9 (3.0) | 2 (1.3) |
-| Nervous system disorders | Headache | 6 (2.0) | 2 (1.3) |
-| Vascular disorders | Phlebitis | 8 (2.7) | 0 (0) |
-
-Clinical response was assessed at the test-of-cure visit (28 to 42 days after end of treatment).
-The clinical response rates observed in the modified intent to treat population were 83.9% (208/248) for AVELOX and 95.5% (127/133) for comparator; see Table 6.
-
-Table 6: Clinical Response Rates at 28–42 Days After End of Treatment in Pediatric Patients with cIAI
-
-|  | Aveloxn (%) | Comparator n (%) | Difference2(95% CI) |
-| --- | --- | --- | --- |
-| mITT Population1 | N=248 | N=133 |  |
-| Cure | 208 (83.9) | 127 (95.5) | -12.2 (-17.9, -6.4) |
-| Failure | 17 (6.9) | 3 (2.3) |  |
-| Indeterminate | 21 (8.5) | 3 (2.3) |  |
-| Missing | 2 (0.8) | 0 |  |
-| 1The modified intent-to-treat (mITT) population is defined as all subjects who were treated with at least one dose of study medication and who have at least one pre-treatment causative organism from the intra-abdominal site of infection or from blood cultures.2Difference in clinical cure rates (Avelox - Comparator) and 95% confidence intervals, presented as percentages, are based on stratified analysis by age group using Mantel-Haenszel methods. |  |  |  |
-
 ## 8.1 Pregnancy
 
 ### Risk Summary
