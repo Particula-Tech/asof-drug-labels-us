@@ -11,7 +11,7 @@ Reproductive studies in rats have demonstrated that imatinib mesylate induced te
 Advise women to avoid pregnancy when taking Gleevec.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, apprise the patient of the potential hazard to the fetus.
 
-The background risk of major birth defects and miscarriage for the indicated population is not known; however, in the U.S. general population, the estimated background risk of major birth defects of clinically recognized pregnancies is 2-4% and of miscarriage is 15-20%.
+The background risk of major birth defects and miscarriage for the indicated population is not known; however, in the U.S. general population, the estimated background risk of major birth defects of clinically recognized pregnancies is 2-4% and of miscarriage is 15%-20%.
 
 Data
 
@@ -84,18 +84,18 @@ The efficacy of Gleevec was similar in patients older than 65 years and younger 
 
 ## 8.6 Hepatic Impairment
 
-The effect of hepatic impairment on the pharmacokinetics of both imatinib and its major metabolite, CGP74588, was assessed in 84 patients with cancer with varying degrees of hepatic impairment at imatinib doses ranging from 100 mg–800 mg.
+The effect of hepatic impairment on the pharmacokinetics of both imatinib and its major metabolite, CGP74588, was assessed in 84 patients with cancer with varying degrees of hepatic impairment at imatinib doses ranging from 100 mg to 800 mg.
 
 Mild and moderate hepatic impairment do not influence exposure to imatinib and CGP74588.
-In patients with severe hepatic impairment, the imatinib Cmax and AUC increased by 63% and 45% and the CGP74588 Cmax and AUC increased by 56% and 55%, relative to patients with normal hepatic function [see Pharmacokinetics (12.3)].
+In patients with severe hepatic impairment, the imatinib Cmax and area under curve (AUC) increased by 63% and 45% and the CGP74588 Cmax and AUC increased by 56% and 55%, relative to patients with normal hepatic function [see Clinical Pharmacology (12.3)].
 Reduce the dose by 25% for patients with severe hepatic impairment [see Dosage and Administration (2.12)].
 
-Table 16 Liver Function Classification
+Table 16: Liver Function Classification
 
 | Liver Function Test | Normal (n=14) | Mild (n=30) | Moderate (n=20) | Severe (n=20) |
 | --- | --- | --- | --- | --- |
-| Total Bilirubin | ≤ULN | >1.0–1.5 times the ULN | >1.5–3 times the ULN | >3–10 times the ULN |
-| SGOT | ≤ULN | >ULN (can be normal if Total Bilirubin is >ULN) | Any | Any |
+| Total Bilirubin | less than or equal to ULN | greater than 1.0–1.5 times the ULN | greater than 1.5–3 times the ULN | greater than 3–10 times the ULN |
+| SGOT | less than or equal to ULN | greater than ULN (can be normal if Total Bilirubin is greater than ULN) | Any | Any |
 | ULN=upper limit of normal for the institution |  |  |  |  |
 
 ## 8.7 Renal Impairment
@@ -105,11 +105,11 @@ The mean exposure to imatinib (dose normalized AUC) in patients with mild and mo
 There are not sufficient data in patients with severe renal impairment [see Clinical Pharmacology (12.3)].
 Dose reductions are necessary for patients with moderate and severe renal impairment [see Dosage and Administration (2.12)].
 
-Table 17 Renal Function Classification
+Table 17: Renal Function Classification
 
 | Renal Dysfunction | Renal Function Tests |
 | --- | --- |
 | Mild | CrCL = 40-59 mL/min |
 | Moderate | CrCL = 20-39 mL/min |
-| Severe | CrCL = <20 mL/min |
+| Severe | CrCL = less than 20 mL/min |
 | CrCL = Creatinine Clearance |  |

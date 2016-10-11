@@ -5,17 +5,17 @@
 Gleevec is often associated with edema and occasionally serious fluid retention [see Adverse Reactions (6.1)].
 Weigh and monitor patients regularly for signs and symptoms of fluid retention.
 Investigate unexpected rapid weight gain carefully and provide appropriate treatment.
-The probability of edema was increased with higher Gleevec dose and age >65 years in the CML studies.
+The probability of edema was increased with higher Gleevec dose and age greater than 65 years in the CML studies.
 Severe superficial edema was reported in 1.5% of newly diagnosed CML patients taking Gleevec, and in 2%-6% of other adult CML patients taking Gleevec.
-In addition, other severe fluid retention (e.g., pleural effusion, pericardial effusion, pulmonary edema, and ascites) reactions were reported in 1.3% of newly diagnosed CML patients taking Gleevec, and in 2%–6% of other adult CML patients taking Gleevec.
+In addition, other severe fluid retention (e.g., pleural effusion, pericardial effusion, pulmonary edema, and ascites) reactions were reported in 1.3% of newly diagnosed CML patients taking Gleevec, and in 2%-6% of other adult CML patients taking Gleevec.
 Severe fluid retention was reported in 9% to 13.1% of patients taking Gleevec for GIST [see Adverse Reactions (6.9)].
-In a randomized trial in patients with newly diagnosed Ph+CML in chronic phase comparing Gleevec and nilotinib, severe (Grade 3 or 4) fluid retention occurred in 2.5% of patients receiving Gleevec and in 3.9% of patients receiving nilotinib 300 mg bid.
-Effusions (including pleural effusion, pericardial effusion, ascites) or pulmonary edema were observed in 2.1% (none were Grade 3 or 4) of patients in the Gleevec arm and 2.2% (0.7% Grade 3 or 4) of patients in the nilotinib 300 mg bid arm.
+In a randomized trial in patients with newly diagnosed Ph+CML in chronic phase comparing Gleevec and nilotinib, severe (Grade 3 or 4) fluid retention occurred in 2.5% of patients receiving Gleevec and in 3.9% of patients receiving nilotinib 300 mg twice daily.
+Effusions (including pleural effusion, pericardial effusion, ascites) or pulmonary edema were observed in 2.1% (none were Grade 3 or 4) of patients in the Gleevec arm and 2.2% (0.7% Grade 3 or 4) of patients in the nilotinib 300 mg twice daily arm.
 
 ## 5.2 Hematologic Toxicity
 
 Treatment with Gleevec is associated with anemia, neutropenia, and thrombocytopenia.
-Perform complete blood counts weekly for the first month, biweekly for the second month, and periodically thereafter as clinically indicated (for example, every 2–3 months).
+Perform complete blood counts weekly for the first month, biweekly for the second month, and periodically thereafter as clinically indicated (for example, every 2 to 3 months).
 In CML, the occurrence of these cytopenias is dependent on the stage of disease and is more frequent in patients with accelerated phase CML or blast crisis than in patients with chronic phase CML.
 In pediatric CML patients the most frequent toxicities observed were Grade 3 or 4 cytopenias including neutropenia, thrombocytopenia and anemia.
 These generally occur within the first several months of therapy [see Dosage and Administration (2.14)].
@@ -24,8 +24,8 @@ These generally occur within the first several months of therapy [see Dosage and
 
 Congestive heart failure and left ventricular dysfunction have been reported in patients taking Gleevec.
 Cardiac adverse reactions were more frequent in patients with advanced age or co-morbidities including previous medical history of cardiac disease.
-In an international randomized phase 3 study in 1,106 patients with newly diagnosed Ph+ CML in chronic phase, severe cardiac failure and left ventricular dysfunction were observed in 0.7% of patients taking Gleevec compared to 0.9% of patients taking IFN + Ara-C.
-In another randomized trial with newly diagnosed Ph+ CML patients in chronic phase that compared Gleevec and nilotinib, cardiac failure was observed in 1.1% of patient in the Gleevec arm and 2.2% of patients in the nilotinib 300 mg bid arm and severe (Grade 3 or 4) cardiac failure occurred in 0.7% of patients in each group.
+In an international randomized Phase 3 study in 1,106 patients with newly diagnosed Ph+ CML in chronic phase, severe cardiac failure and left ventricular dysfunction were observed in 0.7% of patients taking Gleevec compared to 0.9% of patients taking IFN + Ara-C.
+In another randomized trial with newly diagnosed Ph+ CML patients in chronic phase that compared Gleevec and nilotinib, cardiac failure was observed in 1.1% of patient in the Gleevec arm and 2.2% of patients in the nilotinib 300 mg twice daily arm and severe (Grade 3 or 4) cardiac failure occurred in 0.7% of patients in each group.
 Carefully monitor patients with cardiac disease or risk factors for cardiac or history of renal failure.
 Evaluate and treat any patient with signs or symptoms consistent with cardiac or renal failure.
 
@@ -34,8 +34,7 @@ Evaluate and treat any patient with signs or symptoms consistent with cardiac or
 Hepatotoxicity, occasionally severe, may occur with Gleevec [see Adverse Reactions (6.1)].
 Cases of fatal liver failure and severe liver injury requiring liver transplants have been reported with both short-term and long-term use of Gleevec.
 Monitor liver function (transaminases, bilirubin, and alkaline phosphatase) before initiation of treatment and monthly, or as clinically indicated.
-Manage laboratory abnormalities with Gleevec interruption and/or dose reduction [see Dosage and Administration (2.13)].
-When Gleevec is combined with chemotherapy, liver toxicity in the form of transaminase elevation and hyperbilirubinemia has been observed.
+Manage laboratory abnormalities with Gleevec interruption and/or dose reduction [see Dosage and Administration (2.13)].When Gleevec is combined with chemotherapy, liver toxicity in the form of transaminase elevation and hyperbilirubinemia has been observed.
 Additionally, there have been reports of acute liver failure.
 Monitoring of hepatic function is recommended.
 
@@ -45,8 +44,8 @@ In a trial of Gleevec versus IFN+Ara-C in patients with the newly diagnosed CML,
 In the Phase 3 unresectable or metastatic GIST studies, 211 patients (12.9%) reported Grade 3/4 hemorrhage at any site.
 In the Phase 2 unresectable or metastatic GIST study, 7 patients (5%) had a total of 8 CTC Grade 3/4 hemorrhages; gastrointestinal (GI) (3 patients), intra-tumoral (3 patients) or both (1 patient).
 Gastrointestinal tumor sites may have been the source of GI hemorrhages.
-In a randomized trial in patients with newly diagnosed Ph+ CML in chronic phase comparing Gleevec and nilotinib, GI hemorrhage occurred in 1.4% of patients in the Gleevec arm, and in 2.9% of patients in the nilotinib 300 mg bid arm.
-None of these events were Grade 3 or 4 in the Gleevec arm; 0.7% were Grade 3 or 4 in the nilotinib 300 mg bid arm.
+In a randomized trial in patients with newly diagnosed Ph+ CML in chronic phase comparing Gleevec and nilotinib, GI hemorrhage occurred in 1.4% of patients in the Gleevec arm, and in 2.9% of patients in the nilotinib 300 mg twice daily arm.
+None of these events were Grade 3 or 4 in the Gleevec arm; 0.7% were Grade 3 or 4 in the nilotinib 300 mg twice daily arm.
 In addition, gastric antral vascular ectasia has been reported in postmarketing experience.
 
 ## 5.6 Gastrointestinal Disorders

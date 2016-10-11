@@ -2,31 +2,20 @@
 
 Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed cannot be directly compared to rates on other clinical trials and may not reflect the rates observed in clinical practice.
 
-The following serious adverse reactinos are described elsewhere in the labeling:
+The following serious adverse reactions are described elsewhere in the labeling:
 
-Fluid Retention and Edema [see Warnings and Precautions (5.1)]
-
-Hematologic Toxicity [see Warnings and Precautions (5.2)]
-
-Congestive Heart Failure and Left Ventricular Dysfunction [see Warnings and Precautions (5.3)]
-
-Hepatotoxicity [see Warnings and Precautions (5.4)]
-
-Hemorrhage [see Warnings and Precautions (5.5)]
-
-Gastrointestinal Disorders [see Warnings and Precautions (5.6)]
-
-Hypereosinophilic Cardiac Toxicity [see Warnings and Precautions (5.7)]
-
-Dermatologic Toxicities [see Warnings and Precautions (5.8)]
-
-Hypothyroidism [see Warnings and Precautions (5.9)]
-
-Growth Retardation in Children and Adolescents [see Warnings and Precautions (5.11)]
-
-Tumor Lysis Syndrome [see Warnings and Precautions (5.12)]
-
-Impairments Related to Driving and Using Machinery [see Warnings and Precautions (5.13)]
+- Fluid Retention and Edema [see Warnings and Precautions (5.1)]
+- Hematologic Toxicity [see Warnings and Precautions (5.2)]
+- Congestive Heart Failure and Left Ventricular Dysfunction [see Warnings and Precautions (5.3)]
+- Hepatotoxicity [see Warnings and Precautions (5.4)]
+- Hemorrhage [see Warnings and Precautions (5.5)]
+- Gastrointestinal Disorders [see Warnings and Precautions (5.6)]
+- Hypereosinophilic Cardiac Toxicity [see Warnings and Precautions (5.7)]
+- Dermatologic Toxicities [see Warnings and Precautions (5.8)]
+- Hypothyroidism [see Warnings and Precautions (5.9)]
+- Growth Retardation in Children and Adolescents [see Warnings and Precautions (5.11)]
+- Tumor Lysis Syndrome [see Warnings and Precautions (5.12)]
+- Impairments Related to Driving and Using Machinery [see Warnings and Precautions (5.13)]
 
 ## 6.1 Chronic Myeloid Leukemia
 
@@ -45,7 +34,7 @@ These reactions may be serious or life threatening.
 
 Adverse reactions, regardless of relationship to study drug, that were reported in at least 10% of the Gleevec treated patients are shown in Tables 2, 3, and 4.
 
-Table 2 Adverse Reactions Regardless of Relationship to Study Drug Reported in Newly Diagnosed CML Clinical Trial in the Gleevec versus IFN+Ara-C Study (≥10% of Gleevec Treated Patients)(1)
+Table 2: Adverse Reactions Regardless of Relationship to Study Drug Reported in Newly Diagnosed CML Clinical Trial in the Gleevec versus IFN+Ara-C Study (greater than or equal to 10% of Gleevec Treated Patients)(1)
 
 |  | All Grades |  | CTC Grades 3/4 |  |
 | --- | --- | --- | --- | --- |
@@ -82,13 +71,13 @@ Table 2 Adverse Reactions Regardless of Relationship to Study Drug Reported in N
 | Bone Pain | 11.3 | 15.6 | 1.6 | 3.4 |
 | Constipation | 11.4 | 14.4 | 0.7 | 0.2 |
 | Sinusitis | 11.4 | 6.0 | 0.2 | 0.2 |
-| (1)All adverse reactions occurring in ≥10% of Gleevec treated patients are listed regardless of suspected relationship to treatment. (2)Other fluid retention reactions include pleural effusion, ascites, pulmonary edema, pericardial effusion, anasarca, edema aggravated, and fluid retention not otherwise specified. |  |  |  |  |
+| (1)All adverse reactions occurring in greater than or equal to10% of Gleevec treated patients are listed regardless of suspected relationship to treatment. (2)Other fluid retention reactions include pleural effusion, ascites, pulmonary edema, pericardial effusion, anasarca, edema aggravated, and fluid retention not otherwise specified. |  |  |  |  |
 
-Table 3: Most Frequently Reported Non-hematologic Adverse Reactions (Regardless of Relationship to Study Drug) in Patients with Newly Diagnosed Ph+ CML-CP in the Gleevec versus nilotinib Study (≥10% in Gleevec 400 mg Once-Daily or nilotinib 300 mg Twice-Daily Groups) 60-Month Analysisa
+Table 3: Most Frequently Reported Non-hematologic Adverse Reactions (Regardless of Relationship to Study Drug) in Patients with Newly Diagnosed Ph+ CML-CP in the Gleevec versus nilotinib Study (greater than or equal to 10% in Gleevec 400 mg Once-Daily or nilotinib 300 mg Twice-Daily Groups) 60-Month Analysisa
 
 |  |  | Patients with Newly Diagnosed Ph+ CML-CP |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-|  |  | Gleevec 400 mg once-daily | nilotinib 300 mg twice-daily | Gleevec 400 mg once-daily | nilotinib 300 mg twice-daily |
+|  |  | Gleevec 400 mg once daily | nilotinib 300 mg twice daily | Gleevec 400 mg once daily | nilotinib 300 mg twice daily |
 |  |  | N=280 | N=279 | N=280 | N=279 |
 | Body System and Preferred Term |  | All Grades (%) |  | CTC Gradesb 3/4 (%) |  |
 | Skin and subcutaneous tissue disorders | Rash | 19 | 38 | 2 | <1 |
@@ -125,9 +114,10 @@ Table 3: Most Frequently Reported Non-hematologic Adverse Reactions (Regardless 
 |  | Periorbital edema | 15 | <1 | 0 | 0 |
 | Psychiatric disorders | Insomnia | 9 | 11 | 0 | 0 |
 | Vascular disorder | Hypertension | 4 | 10 | <1 | 1 |
-| aExcluding laboratory abnormalities bNCI Common Terminology Criteria for Adverse Events, Version 3.0 |  |  |  |  |  |
 
-Table 4 Adverse Reactions Regardless of Relationship to Study Drug Reported in Other CML Clinical Trials (≥10% of All Patients in any Trial)(1)
+aExcluding laboratory abnormalities bNCI Common Terminology Criteria for Adverse Events, Version 3.0
+
+Table 4: Adverse Reactions Regardless of Relationship to Study Drug Reported in Other CML Clinical Trials (greater than or equal to 10% of All Patients in any Trial)(1)
 
 |  | Myeloid Blast Crisis (n=260) |  | Accelerated Phase (n=235) |  | Chronic Phase, IFN Failure (n=532) |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -173,20 +163,20 @@ Table 4 Adverse Reactions Regardless of Relationship to Study Drug Reported in O
 | Chest Pain | 7 | 2 | 10 | 0.4 | 11 | 0.8 |
 | Influenza | 0.8 | 0.4 | 6 | 0 | 11 | 0.2 |
 | Sinusitis | 4 | 0.4 | 11 | 0.4 | 9 | 0.4 |
-| (1) All adverse reactions occurring in ≥10% of patients are listed regardless of suspected relationship to treatment. (2) Other fluid retention reactions include pleural effusion, ascites, pulmonary edema, pericardial effusion, anasarca, edema aggravated, and fluid retention not otherwise specified. |  |  |  |  |  |  |
+| (1) All adverse reactions occurring in greater than or equal to10% of patients are listed regardless of suspected relationship to treatment. (2) Other fluid retention reactions include pleural effusion, ascites, pulmonary edema, pericardial effusion, anasarca, edema aggravated, and fluid retention not otherwise specified. |  |  |  |  |  |  |
 
 Hematologic and Biochemistry Laboratory Abnormalities
 
-Cytopenias, and particularly neutropenia and thrombocytopenia, were a consistent finding in all studies, with a higher frequency at doses ≥750 mg (Phase 1 study).
+Cytopenias, and particularly neutropenia and thrombocytopenia, were a consistent finding in all studies, with a higher frequency at doses greater than or equal to 750 mg (Phase 1 study).
 The occurrence of cytopenias in CML patients was also dependent on the stage of the disease.
 
 In patients with newly diagnosed CML, cytopenias were less frequent than in the other CML patients (see Tables 5, 6, and 7).
-The frequency of Grade 3 or 4 neutropenia and thrombocytopenia was between 2- and 3-fold higher in blast crisis and accelerated phase compared to chronic phase (see Tables 4 and 5).
+The frequency of Grade 3 or 4 neutropenia and thrombocytopenia was between 2- and 3- fold higher in blast crisis and accelerated phase compared to chronic phase (see Tables 4 and 5).
 The median duration of the neutropenic and thrombocytopenic episodes varied from 2 to 3 weeks, and from 2 to 4 weeks, respectively.
 
 These reactions can usually be managed with either a reduction of the dose or an interruption of treatment with Gleevec, but in rare cases require permanent discontinuation of treatment.
 
-Table 5 Laboratory Abnormalities in Newly Diagnosed CML Clinical Trial (Gleevec versus IFN+Ara-C)
+Table 5: Laboratory Abnormalities in Newly Diagnosed CML Clinical Trial (Gleevec versus IFN+Ara-C)
 
 |  | Gleevec N=551 |  | IFN+Ara−C N=533 |  |
 | --- | --- | --- | --- | --- |
@@ -201,9 +191,9 @@ Table 5 Laboratory Abnormalities in Newly Diagnosed CML Clinical Trial (Gleevec 
 | − Elevated Bilirubin | 0.9 | 0.2 | 0.2 | 0 |
 | − Elevated Alkaline Phosphatase | 0.2 | 0 | 0.8 | 0 |
 | − Elevated SGOT /SGPT | 4.7 | 0.5 | 7.1 | 0.4 |
-| *p<0.001 (difference in Grade 3 plus 4 abnormalities between the two treatment groups) |  |  |  |  |
+| *p less than 0.001 (difference in Grade 3 plus 4 abnormalities between the two treatment groups) |  |  |  |  |
 
-Table 6 Percent Incidence of Clinically Relevant Grade 3/4* Laboratory Abnormalities in the Newly Diagnosed CML Clinical Trial (Gleevec versus nilotinib)
+Table 6: Percent Incidence of Clinically Relevant Grade 3/4* Laboratory Abnormalities in the Newly Diagnosed CML Clinical Trial (Gleevec versus nilotinib)
 
 |  | Gleevec 400 mg once-daily N=280 (%) | nilotinib 300 mg twice-daily N=279 (%) |
 | --- | --- | --- |
@@ -227,7 +217,7 @@ Table 6 Percent Incidence of Clinically Relevant Grade 3/4* Laboratory Abnormali
 | Elevated creatinine | <1 | 0 |
 | *NCI Common Terminology Criteria for Adverse Events, version 3.0 |  |  |
 
-Table 7 Laboratory Abnormalities in Other CML Clinical Trials
+Table 7: Laboratory Abnormalities in Other CML Clinical Trials
 
 |  | Myeloid Blast Crisis (n=260) |  | Accelerated Phase (n=235) |  | Chronic Phase, IFN Failure (n=532) |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -244,7 +234,7 @@ Table 7 Laboratory Abnormalities in Other CML Clinical Trials
 | − Elevated Alkaline Phosphatase | 4.6 | 0 | 5.5 | 0.4 | 0.2 | 0 |
 | − Elevated SGOT (AST) | 1.9 | 0 | 3.0 | 0 | 2.3 | 0 |
 | − Elevated SGPT (ALT) | 2.3 | 0.4 | 4.3 | 0 | 2.1 | 0 |
-| 1CTC Grades: neutropenia (Grade 3 ≥0.5-1.0 x 109/L, Grade 4 <0.5 x 109/L), thrombocytopenia (Grade 3 ≥10-50 x 109/L, Grade 4 <10 x 109/L), anemia (hemoglobin ≥65-80 g/L, Grade 4 <65 g/L), elevated creatinine (Grade 3 >3-6 x upper limit normal range [ULN], Grade 4 >6 x ULN), elevated bilirubin (Grade 3 >3-10 x ULN, Grade 4 >10 x ULN), elevated alkaline phosphatase (Grade 3 >5-20 x ULN, Grade 4 >20 x ULN), elevated SGOT or SGPT (Grade 3 >5-20 x ULN, Grade 4 >20 x ULN) |  |  |  |  |  |  |
+| 1CTC Grades: neutropenia (Grade 3 greater than or equal to 0.5–1.0 x 109/L, Grade 4 less than 0.5 x 109/L), thrombocytopenia (Grade 3 greater than or equal to 10–50 x 109/L, Grade 4 less than 10 x 109/L), anemia (hemoglobin greater than or equal to 65–80 g/L, Grade 4 less than 65 g/L), elevated creatinine (Grade 3 greater than 3–6 x upper limit normal range [ULN], Grade 4 greater than 6 x ULN), elevated bilirubin (Grade 3 greater than 3–10 x ULN, Grade 4 greater than 10 x ULN), elevated alkaline phosphatase (Grade 3 greater than 5–20 x ULN, Grade 4 greater than 20 x ULN), elevated SGOT or SGPT (Grade 3 greater than 5–20 x ULN, Grade 4 greater than 20 x ULN) |  |  |  |  |  |  |
 
 Hepatotoxicity
 
@@ -270,13 +260,13 @@ The study population included patients with a median age of 10 years (1 to 21 ye
 Patients with Ph+ ALL (n=92) were assigned to receive Gleevec and treated in 5 successive cohorts.
 Gleevec exposure was systematically increased in successive cohorts by earlier introduction and more prolonged duration.
 
-The safety of Gleevec given in combination with intensive chemotherapy was evaluated by comparing the incidence of grade 3 and 4 adverse events, neutropenia (<750/mcL) and thrombocytopenia (<75,000/mcL) in the 92 patients with Ph+ ALL compared to 65 patients with Ph- ALL enrolled on the trial who did not receive Gleevec.
+The safety of Gleevec given in combination with intensive chemotherapy was evaluated by comparing the incidence of grade 3 and 4 adverse events, neutropenia (less than 750/mcL) and thrombocytopenia (less than 75,000/mcL) in the 92 patients with Ph+ ALL compared to 65 patients with Ph- ALL enrolled on the trial who did not receive Gleevec.
 The safety was also evaluated comparing the incidence of adverse events in cycles of therapy administered with or without Gleevec.
 The protocol included up to 18 cycles of therapy.
 Patients were exposed to a cumulative total of 1425 cycles of therapy, 778 with Gleevec and 647 without Gleevec.
 The adverse events that were reported with a 5% or greater incidence in patients with Ph+ ALL compared to Ph- ALL or with a 1% or greater incidence in cycles of therapy that included Gleevec are presented in Table 8.
 
-Table 8 Adverse Reactions Reported More Frequently in Patients Treated with Study Drug (>5%) or in Cycles with Study Drug (>1%)
+Table 8: Adverse Reactions Reported More Frequently in Patients Treated with Study Drug (greater than 5%) or in Cycles with Study Drug (greater than 1%)
 
 | Adverse Event | Per Patient Incidence Ph+ALL With Gleevec N=92 n (%) | Per Patient Incidence Ph- ALL No Gleevec N=65 n (%) | Per Patient Per Cycle Incidence With Gleevec* N=778 n (%) | Per Patient Per Cycle Incidence No Gleevec** N=647 n (%) |
 | --- | --- | --- | --- | --- |
@@ -299,12 +289,11 @@ Table 8 Adverse Reactions Reported More Frequently in Patients Treated with Stud
 | Myelosuppression |  |  |  |  |
 | Neutropenia (<750/mcL) | 92 (100) | 63 (97) | 556 (71) | 218 (34) |
 | Thrombocytopenia (<75,000/mcL) | 90 (92) | 63 (97) | 431 (55) | 329 (51) |
-| * Defined as the frequency of AEs per patient per treatment cycles that included Gleevec (includes patients with Ph+ ALL that received cycles with Gleevec |  |  |  |  |
-| ** Defined as the frequency of AEs per patient per treatment cycles that did not include Gleevec (includes patients with Ph+ ALL that received cycles without Gleevec as well as all patients with Ph- ALL who did not receive Gleevec in any treatment cycle) |  |  |  |  |
+| *Defined as the frequency of AEs per patient per treatment cycles that included Gleevec (includes patients with Ph+ ALL that received cycles with Gleevec **Defined as the frequency of AEs per patient per treatment cycles that did not include Gleevec (includes patients with Ph+ ALL that received cycles without Gleevec as well as all patients with Ph- ALL who did not receive Gleevec in any treatment cycle) |  |  |  |  |
 
 ## 6.3 Adverse Reactions in Other Subpopulations
 
-In older patients (≥65 years old), with the exception of edema, where it was more frequent, there was no evidence of an increase in the incidence or severity of adverse reactions.
+In older patients (greater than or equal to 65 years old), with the exception of edema, where it was more frequent, there was no evidence of an increase in the incidence or severity of adverse reactions.
 In women there was an increase in the frequency of neutropenia, as well as Grade 1/2 superficial edema, headache, nausea, rigors, vomiting, rash, and fatigue.
 No differences were seen that were related to race but the subsets were too small for proper evaluation.
 
@@ -317,9 +306,9 @@ These edemas were reported as Grade 3/4 events in 6.3% of the patients and may b
 
 ## 6.5 Myelodysplastic/Myeloproliferative Diseases
 
-Adverse reactions, regardless of relationship to study drug, that were reported in at least 10% of the patients treated with Gleevec for MDS/MPD in the phase 2 study, are shown in Table 9.
+Adverse reactions, regardless of relationship to study drug, that were reported in at least 10% of the patients treated with Gleevec for MDS/MPD in the Phase 2 study, are shown in Table 9.
 
-Table 9 Adverse Reactions Regardless of Relationship to Study Drug Reported (More than One Patient) in MPD Patients in the Phase 2 Study (≥10% All Patients) All Grades
+Table 9: Adverse Reactions Regardless of Relationship to Study Drug Reported (More than One Patient) in MPD Patients in the Phase 2 Study (greater than or equal to 10% All Patients) All Grades
 
 | Preferred Term | N=7 n (%) |
 | --- | --- |
@@ -335,7 +324,7 @@ Table 9 Adverse Reactions Regardless of Relationship to Study Drug Reported (Mor
 
 All ASM patients experienced at least one adverse reaction at some time.
 The most frequently reported adverse reactions were diarrhea, nausea, ascites, muscle cramps, dyspnea, fatigue, peripheral edema, anemia, pruritus, rash and lower respiratory tract infection.
-None of the 5 patients in the phase 2 study with ASM discontinued Gleevec due to drug-related adverse reactions or abnormal laboratory values.
+None of the 5 patients in the Phase 2 study with ASM discontinued Gleevec due to drug-related adverse reactions or abnormal laboratory values.
 
 ## 6.7 Hypereosinophilic Syndrome and Chronic Eosinophilic Leukemia
 
@@ -345,9 +334,9 @@ Hematological abnormalities were also frequent, with instances of CTC Grade 3 le
 
 ## 6.8 Dermatofibrosarcoma Protuberans
 
-Adverse reactions, regardless of relationship to study drug, that were reported in at least 10% of the 12 patients treated with Gleevec for DFSP in the phase 2 study are shown in Table 10.
+Adverse reactions, regardless of relationship to study drug, that were reported in at least 10% of the 12 patients treated with Gleevec for DFSP in the Phase 2 study are shown in Table 10.
 
-Table 10 Adverse Reactions Regardless of Relationship to Study Drug Reported in DFSP Patients in the Phase 2 Study (≥10% All Patients) All Grades
+Table 10: Adverse Reactions Regardless of Relationship to Study Drug Reported in DFSP Patients in the Phase 2 Study (greater than or equal to 10% All Patients) All Grades
 
 | Preferred term | N=12 n (%) |
 | --- | --- |
@@ -367,9 +356,9 @@ Table 10 Adverse Reactions Regardless of Relationship to Study Drug Reported in 
 | Rhinitis | 2 (16.7) |
 | Anorexia | 2 (16.7) |
 
-Clinically relevant or severe laboratory abnormalities in the 12 patients treated with Gleevec for DFSP in the phase 2 study are presented in Table 11.
+Clinically relevant or severe laboratory abnormalities in the 12 patients treated with Gleevec for DFSP in the Phase 2 study are presented in Table 11.
 
-Table 11 Laboratory Abnormalities Reported in DFSP Patients in the Phase 2 Study
+Table 11: Laboratory Abnormalities Reported in DFSP Patients in the Phase 2 Study
 
 |  | N=12 |  |
 | --- | --- | --- |
@@ -380,7 +369,7 @@ Table 11 Laboratory Abnormalities Reported in DFSP Patients in the Phase 2 Study
 | - Neutropenia | 0 | 8 |
 | Biochemistry Parameters |  |  |
 | - Elevated Creatinine | 0 | 8 |
-| 1CTC Grades: neutropenia (Grade 3 ≥0.5-1.0 x 109/L, Grade 4 <0.5 x 109/L), thrombocytopenia (Grade 3 ≥10-50 x 109/L, Grade 4 <10 x 109/L), anemia (Grade 3 ≥65-80 g/L, Grade 4 <65 g/L), elevated creatinine (Grade 3 >3-6 x upper limit normal range [ULN], Grade 4 >6 x ULN), |  |  |
+| 1CTC Grades: neutropenia (Grade 3 greater than or equal to 0.5–1.0 x 109/L, Grade 4 less than 0.5 x 109/L), thrombocytopenia (Grade 3 greater than or equal to 10–50 x 109/L, Grade 4 less than 10 x 109/L), anemia (Grade 3 greater than or equal to 65–80 g/L, Grade 4 less than 65 g/L), elevated creatinine (Grade 3 greater than 3–6 x upper limit normal range [ULN], Grade 4 greater than 6 x ULN) |  |  |
 
 ## 6.9 Gastrointestinal Stromal Tumors
 
@@ -396,7 +385,7 @@ Adverse reactions, regardless of relationship to study drug, that were reported 
 
 Overall the incidence of all grades of adverse reactions and the incidence of severe adverse reactions (CTC Grade 3 and above) were similar between the two treatment arms except for edema, which was reported more frequently in the 800 mg group.
 
-Table 12 Number (%) of Patients with Adverse Reactions Regardless of Relationship to Study Drug where Frequency is ≥10% in any One Group (Full Analysis Set) in the Phase 3 Unresectable and/or Malignant Metastatic GIST Clinical Trials
+Table 12: Number (%) of Patients with Adverse Reactions Regardless of Relationship to Study Drug where Frequency is Greater than or Equal to 10% in any One Group (Full Analysis Set) in the Phase 3 Unresectable and/or Malignant Metastatic GIST Clinical Trials
 
 | Reported or Specified Term | Imatinib 400 mg N=818 |  | Imatinib 800 mg N=822 |  |
 | --- | --- | --- | --- | --- |
@@ -442,7 +431,7 @@ Table 12 Number (%) of Patients with Adverse Reactions Regardless of Relationshi
 Clinically relevant or severe abnormalities of routine hematologic or biochemistry laboratory values were not reported or evaluated in the Phase 3 GIST trials.
 Severe abnormal laboratory values reported in the Phase 2 GIST trial are presented in Table 13.
 
-Table 13 Laboratory Abnormalities in the Phase 2 Unresectable and/or Malignant Metastatic GIST Trial
+Table 13: Laboratory Abnormalities in the Phase 2 Unresectable and/or Malignant Metastatic GIST Trial
 
 |  | 400 mg (n=73) |  | 600 mg (n=74) |  |
 | --- | --- | --- | --- | --- |
@@ -459,7 +448,7 @@ Table 13 Laboratory Abnormalities in the Phase 2 Unresectable and/or Malignant M
 | − Elevated Alkaline Phosphatase | 0 | 0 | 3 | 0 |
 | − Elevated SGOT (AST) | 4 | 0 | 3 | 3 |
 | − Elevated SGPT (ALT) | 6 | 0 | 7 | 1 |
-| 1CTC Grades: neutropenia (Grade 3 ≥0.5-1.0 x 109/L, Grade 4 <0.5 x 109/L), thrombocytopenia (Grade 3 ≥10-50 x 109/L, Grade 4 <10 x 109/L), anemia (Grade 3 ≥65-80 g/L, Grade 4 <65 g/L), elevated creatinine (Grade 3 >3-6 x upper limit normal range [ULN], Grade 4 >6 x ULN), elevated bilirubin (Grade 3 >3-10 x ULN, Grade 4 >10 x ULN), elevated alkaline phosphatase, SGOT or SGPT (Grade 3 >5-20 x ULN, Grade 4 >20 x ULN), albumin (Grade 3 <20 g/L) |  |  |  |  |
+| 1CTC Grades: neutropenia (Grade 3 greater than or equal to 0.5–1.0 x 109/L, Grade 4 less than 0.5 x 109/L), thrombocytopenia (Grade 3 greater than or equal to 10–50 x 109/L, Grade 4 less than 10 x 109/L), anemia (Grade 3 greater than or equal to 65–80 g/L, Grade 4 less than 65 g/L), elevated creatinine (Grade 3 greater than 3–6 x upper limit normal range [ULN], Grade 4 greater than 6 x ULN), elevated bilirubin (Grade 3 greater than 3–10 x ULN, Grade 4 greater than 10 x ULN), elevated alkaline phosphatase, SGOT or SGPT (Grade 3 greater than 5–20 x ULN, Grade 4 greater than 20 x ULN), albumin (Grade 3 less than 20 g/L) |  |  |  |  |
 
 Adjuvant Treatment of GIST
 
@@ -475,7 +464,7 @@ As in previous trials the most common adverse reactions were diarrhea, fatigue, 
 Adverse reactions, regardless of relationship to study drug, that were reported in at least 5% of the patients treated with Gleevec are shown in Table 14 (Study 1) and Table 15 (Study 2).
 There were no deaths attributable to Gleevec treatment in either trial.
 
-Table 14: Adverse Reactions Regardless of Relationship to Study Drug Reported in Study 1 (≥5% of Gleevec Treated Patients)(1)
+Table 14: Adverse Reactions Regardless of Relationship to Study Drug Reported in Study 1 (greater than or equal to 5% of Gleevec Treated Patients)(1)
 
 |  | All CTC Grades |  | CTC Grade 3 and above |  |
 | --- | --- | --- | --- | --- |
@@ -530,9 +519,9 @@ Table 14: Adverse Reactions Regardless of Relationship to Study Drug Reported in
 | Stomatitis | 5.0 | 1.7 | 0.6 | 0 |
 | Upper Respiratory Tract Infection | 5.0 | 3.5 | 0 | 0 |
 | Vision Blurred | 5.0 | 2.3 | 0 | 0 |
-| (1)All adverse reactions occurring in ≥5% of patients are listed regardless of suspected relationship to treatment. A patient with multiple occurrences of an adverse reaction is counted only once in the adverse reaction category. |  |  |  |  |
+| (1)All adverse reactions occurring in greater than or equal to 5% of patients are listed regardless of suspected relationship to treatment. A patient with multiple occurrences of an adverse reaction is counted only once in the adverse reaction category. |  |  |  |  |
 
-Table 15: Adverse Reactions Regardless of Relationship to Study Drug by Preferred Term All Grades and 3/4 Grades (≥5% of Gleevec Treated Patients) Study 2(1)
+Table 15: Adverse Reactions Regardless of Relationship to Study Drug by Preferred Term All Grades and 3/4 Grades (greater than or equal to 5% of Gleevec Treated Patients) Study 2(1)
 
 | Preferred Term | All CTC Grades |  | CTC Grades 3 and above |  |
 | --- | --- | --- | --- | --- |
@@ -587,7 +576,7 @@ Table 15: Adverse Reactions Regardless of Relationship to Study Drug by Preferre
 | Dry skin | 6.7 | 6.1 | 0.5 | 0 |
 | Nasopharyngitis | 1.0 | 6.1 | 0 | 0.5 |
 | Palpitations | 5.2 | 5.1 | 0 | 0 |
-| (1)All adverse reactions occurring in ≥5% of patients are listed regardless of suspected relationship to treatment. A patient with multiple occurrences of an adverse reaction is counted only once in the adverse reaction category. |  |  |  |  |
+| (1)All adverse reactions occurring in greater than or equal to5% of patients are listed regardless of suspected relationship to treatment. A patient with multiple occurrences of an adverse reaction is counted only once in the adverse reaction category. |  |  |  |  |
 
 ## 6.10 Additional Data from Multiple Clinical Trials
 
@@ -597,19 +586,19 @@ Cardiac Disorders:
 
 Estimated 1%–10%: palpitations, pericardial effusion
 
-Estimated 0.1%-1%: congestive cardiac failure, tachycardia, pulmonary edema
+Estimated 0.1%–1%: congestive cardiac failure, tachycardia, pulmonary edema
 
-Estimated 0.01%-0.1%: arrhythmia, atrial fibrillation, cardiac arrest, myocardial infarction, angina pectoris
+Estimated 0.01%–0.1%: arrhythmia, atrial fibrillation, cardiac arrest, myocardial infarction, angina pectoris
 
 Vascular Disorders:
 
-Estimated 1%-10%: flushing, hemorrhage
+Estimated 1%–10%: flushing, hemorrhage
 
-Estimated 0.1%-1%: hypertension, hypotension, peripheral coldness, Raynauds phenomenon, hematoma, subdural hematoma
+Estimated 0.1%–1%: hypertension, hypotension, peripheral coldness, Raynaud’s phenomenon, hematoma, subdural hematoma
 
 Investigations:
 
-Estimated 1%-10%: blood CPK increased, blood amylase increased
+Estimated 1%–10%: blood CPK increased, blood amylase increased
 
 Estimated 0.1%–1%: blood LDH increased
 
@@ -623,77 +612,77 @@ Estimated 0.01%–0.1%: vesicular rash, Stevens-Johnson syndrome, acute generali
 
 Gastrointestinal Disorders:
 
-Estimated 1%-10%: abdominal distention, gastroesophageal reflux, dry mouth, gastritis
+Estimated 1%–10%: abdominal distention, gastroesophageal reflux, dry mouth, gastritis
 
-Estimated 0.1%-1%: gastric ulcer, stomatitis, mouth ulceration, eructation, melena, esophagitis, ascites, hematemesis, chelitis, dysphagia, pancreatitis
+Estimated 0.1%–1%: gastric ulcer, stomatitis, mouth ulceration, eructation, melena, esophagitis, ascites, hematemesis, chelitis, dysphagia, pancreatitis
 
-Estimated 0.01%-0.1%: colitis, ileus, inflammatory bowel disease
+Estimated 0.01%–0.1%: colitis, ileus, inflammatory bowel disease
 
 General Disorders and Administration Site Conditions:
 
-Estimated 1%-10%: weakness, anasarca, chills
+Estimated 1%–10%: weakness, anasarca, chills
 
-Estimated 0.1%-1%: malaise
+Estimated 0.1%–1%: malaise
 
 Blood and Lymphatic System Disorders:
 
-Estimated 1%-10%: pancytopenia, febrile neutropenia, lymphopenia, eosinophila
+Estimated 1%–10%: pancytopenia, febrile neutropenia, lymphopenia, eosinophila
 
-Estimated 0.1%-1%: thrombocythemia, bone marrow depression, lymphadenopathy
+Estimated 0.1%–1%: thrombocythemia, bone marrow depression, lymphadenopathy
 
-Estimated 0.01%-0.1%: hemolytic anemia, aplastic anemia
+Estimated 0.01%–0.1%: hemolytic anemia, aplastic anemia
 
 Hepatobiliary Disorders:
 
-Estimated 0.1%-1%: hepatitis, jaundice
+Estimated 0.1%–1%: hepatitis, jaundice
 
-Estimated 0.01%-0.1%: hepatic failure and hepatic necrosis1
+Estimated 0.01%–0.1%: hepatic failure and hepatic necrosis1
 
 Immune System Disorders:
 
-Estimated 0.01%-0.1%: angioedema
+Estimated 0.01%–0.1%: angioedema
 
 Infections and Infestations:
 
-Estimated 0.1%-1%: sepsis, herpes simplex, herpes zoster, cellulitis, urinary tract infection, gastroenteritis
+Estimated 0.1%–1%: sepsis, herpes simplex, herpes zoster, cellulitis, urinary tract infection, gastroenteritis
 
-Estimated 0.01%-0.1%: fungal infection
+Estimated 0.01%–0.1%: fungal infection
 
 Metabolism and Nutrition Disorders:
 
-Estimated 1%-10%: weight decreased, decreased appetite
+Estimated 1%–10%: weight decreased, decreased appetite
 
 Estimated 0.1%–1%: dehydration, gout, increased appetite, hyperuricemia, hypercalcemia, hyperglycemia, hyponatremia, hyperkalemia, hypomagnesemia
 
 Musculoskeletal and Connective Tissue Disorders:
 
-Estimated 1%-10%: joint swelling
+Estimated 1%–10%: joint swelling
 
 Estimated 0.1%–1%: joint and muscle stiffness, muscular weakness, arthritis
 
 Nervous System/Psychiatric Disorders:
 
-Estimated 1%-10%: paresthesia, hypesthesia
+Estimated 1%–10%: paresthesia, hypesthesia
 
-Estimated 0.1%-1%: syncope, peripheral neuropathy, somnolence, migraine, memory impairment, libido decreased, sciatica, restless leg syndrome, tremor
+Estimated 0.1%–1%: syncope, peripheral neuropathy, somnolence, migraine, memory impairment, libido decreased, sciatica, restless leg syndrome, tremor
 
-Estimated 0.01%-0.1%: increased intracranial pressure1, confusional state, convulsions, optic neuritis
+Estimated 0.01%–0.1%: increased intracranial pressure1, confusional state, convulsions, optic neuritis
 
 Renal and Urinary Disorders:
 
-Estimated 0.1%-1%: renal failure acute, urinary frequency increased, hematuria, renal pain
+Estimated 0.1%–1%: renal failure acute, urinary frequency increased, hematuria, renal pain
 
 Reproductive System and Breast Disorders:
 
-Estimated 0.1%-1%: breast enlargement, menorrhagia, sexual dysfunction, gynecomastia, erectile dysfunction, menstruation irregular, nipple pain, scrotal edema
+Estimated 0.1%–1%: breast enlargement, menorrhagia, sexual dysfunction, gynecomastia, erectile dysfunction, menstruation irregular, nipple pain, scrotal edema
 
 Respiratory, Thoracic and Mediastinal Disorders:
 
-Estimated 1%-10%: epistaxis
+Estimated 1%–10%: epistaxis
 
-Estimated 0.1%-1%: pleural effusion
+Estimated 0.1%–1%: pleural effusion
 
-Estimated 0.01%-0.1%: interstitial pneumonitis, pulmonary fibrosis, pleuritic pain, pulmonary hypertension, pulmonary hemorrhage
+Estimated 0.01%–0.1%: interstitial pneumonitis, pulmonary fibrosis, pleuritic pain, pulmonary hypertension, pulmonary hemorrhage
 
 Eye, Ear and Labyrinth Disorders:
 
@@ -701,7 +690,7 @@ Estimated 1%–10%: conjunctivitis, vision blurred, orbital edema, conjunctival 
 
 Estimated 0.1%–1%: vertigo, tinnitus, eye irritation, eye pain, scleral hemorrhage, retinal hemorrhage, blepharitis, macular edema, hearing loss, cataract
 
-Estimated 0.01%-0.1%: papilledema1, glaucoma
+Estimated 0.01%–0.1%: papilledema1, glaucoma
 
 1Including some fatalities
 
@@ -709,6 +698,8 @@ Estimated 0.01%-0.1%: papilledema1, glaucoma
 
 The following additional adverse reactions have been identified during post approval use of Gleevec.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Infections: hepatitis B virus reactivation1
 
 Nervous System Disorders: cerebral edema1
 

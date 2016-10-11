@@ -18,9 +18,9 @@ The pharmacokinetics of Gleevec are similar in CML and GIST patients.
 
 Absorption and Distribution
 
-Imatinib is well absorbed after oral administration with Cmax achieved within 2–4 hours post-dose.
+Imatinib is well absorbed after oral administration with Cmax achieved within 2-4 hours post-dose.
 Mean absolute bioavailability is 98%.
-Mean imatinib AUC increases proportionally with increasing doses ranging from 25 mg–1,000 mg.
+Mean imatinib AUC increases proportionally with increasing doses ranging from 25 mg to 1,000 mg.
 There is no significant change in the pharmacokinetics of imatinib on repeated dosing, and accumulation is 1.5- to 2.5-fold at steady state when Gleevec is dosed once-daily.
 At clinically relevant concentrations of imatinib, binding to plasma proteins in in vitro experiments is approximately 95%, mostly to albumin and α1-acid glycoprotein.
 
@@ -51,7 +51,7 @@ Specific Populations
 
 Hepatic Impairment
 
-The effect of hepatic impairment on the pharmacokinetics of both imatinib and its major metabolite, CGP74588, was assessed in 84 patients with cancer and varying degrees of hepatic impairment [see Use in Specific Populations (8.6)] at imatinib doses ranging from 100 mg–800 mg.
+The effect of hepatic impairment on the pharmacokinetics of both imatinib and its major metabolite, CGP74588, was assessed in 84 patients with cancer and varying degrees of hepatic impairment [see Use in Specific Populations (8.6)] at imatinib doses ranging from 100 mg to 800 mg.
 Exposure to both imatinib and CGP74588 was comparable between each of the mildly and moderately hepatically-impaired groups and the normal group.
 Patients with severe hepatic impairment tend to have higher exposure to both imatinib and its metabolite than patients with normal hepatic function.
 At steady state, the mean Cmax/dose and AUC/dose for imatinib increased by about 63% and 45%, respectively, in patients with severe hepatic impairment compared to patients with normal hepatic function.
@@ -83,15 +83,15 @@ Drug Interactions
 
 Agents Inducing CYP3A Metabolism
 
-Pretreatment of healthy volunteers with multiple doses of rifampin followed by a single dose of Gleevec, increased Gleevec oral-dose clearance by 3.8-fold, which significantly (p<0.05) decreased mean Cmax and AUC.
+Pretreatment of healthy volunteers with multiple doses of rifampin followed by a single dose of Gleevec, increased Gleevec oral-dose clearance by 3.8-fold, which significantly (p less than 0.05) decreased mean Cmax and AUC.
 
-Similar findings were observed in patients receiving 400–1200 mg/day Gleevec concomitantly with enzyme-inducing anti-epileptic drugs (EIAED) (e.g., carbamazepine, oxcarbamazepine, phenytoin, fosphenytoin, phenobarbital, and primidone).
+Similar findings were observed in patients receiving 400 to 1200 mg/day Gleevec concomitantly with enzyme-inducing anti-epileptic drugs (EIAED) (e.g., carbamazepine, oxcarbamazepine, phenytoin, fosphenytoin, phenobarbital, and primidone).
 The mean dose normalized AUC for imatinib in the patients receiving EIAED’s decreased by 73% compared to patients not receiving EIAED.
 
 Concomitant administration of Gleevec and St. John’s Wort led to a 30% reduction in the AUC of imatinib.
 
 Consider alternative therapeutic agents with less enzyme induction potential in patients when rifampin or other CYP3A4 inducers are indicated.
-Gleevec doses up to 1200 mg/day (600 mg BID) have been given to patients receiving concomitant strong CYP3A4 inducers [see Dosage and Administration (2.12)].
+Gleevec doses up to 1200 mg/day (600 mg twice daily) have been given to patients receiving concomitant strong CYP3A4 inducers [see Dosage and Administration (2.12)].
 
 Agents Inhibiting CYP3A Metabolism
 
@@ -118,4 +118,4 @@ Interactions with Acetaminophen
 In vitro, Gleevec inhibits the acetaminophen O-glucuronidate pathway (Ki 58.5 µM).
 Coadministration of Gleevec (400 mg/day for eight days) with acetaminophen (1000 mg single dose on day eight) in patients with CML did not result in any changes in the pharmacokinetics of acetaminophen.
 Gleevec pharmacokinetics were not altered in the presence of single-dose acetaminophen.
-There is no pharmacokinetic or safety data on the concomitant use of Gleevec at doses >400 mg/day or the chronic use of concomitant acetaminophen and Gleevec.
+There is no pharmacokinetic or safety data on the concomitant use of Gleevec at doses greater than 400 mg/day or the chronic use of concomitant acetaminophen and Gleevec.
