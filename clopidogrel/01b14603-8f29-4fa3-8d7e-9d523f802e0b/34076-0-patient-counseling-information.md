@@ -1,33 +1,28 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-[See Medication Guide]
+Advise patients to read FDA approved patient labeling (Medication Guide).
 
-## 17.1 Benefits and Risks
+Discontinuation
 
-- Summarize the effectiveness features and potential side effects of Plavix.
-- Tell patients to take Plavix exactly as prescribed.
-- Remind patients not to discontinue Plavix without first discussing it with the physician who prescribed Plavix.
+Advise patients not to discontinue Plavix without first discussing it with the health care provider who prescribed it [see Warnings and Precautions (5.3)].
 
-## 17.2 Bleeding
+Bleeding
 
-Inform patients that they:
+Advise patients that they:
 
-- will bruise and bleed more easily.
-- will take longer than usual to stop bleeding.
-- should report any unanticipated, prolonged, or excessive bleeding, or blood in their stool or urine.
+- will bruise and bleed more easily
+- will take longer than usual to stop bleeding
+- must report any unanticipated, prolonged, or excessive bleeding, or blood in their stool or urine [see Warnings and Precautions (5.2)].
 
-## 17.3 Other Signs and Symptoms Requiring Medical Attention
+Thrombotic Thrombocytopenic Purpura
 
-- Inform patients that TTP is a rare but serious condition that has been reported with Plavix and other drugs in this class of drugs.
-- Instruct patients to get prompt medical attention if they experience any of the following symptoms that cannot otherwise be explained: fever, weakness, extreme skin paleness, purple skin patches, yellowing of the skin or eyes, or neurological changes.
+Instruct patients to get prompt medical attention if they experience symptoms of TTP that cannot otherwise be explained [see Warnings and Precautions (5.4)].
 
-## 17.4 Invasive Procedures
+Invasive Procedures
 
-Instruct patients to:
+Advise patients to inform physicians and dentists that they are taking Plavix before any surgery or dental procedure [see Warnings and Precautions (5.2, 5.3)].
 
-- inform physicians and dentists that they are taking Plavix before any invasive procedure is scheduled.
-- tell the doctor performing the invasive procedure to talk to the prescribing health care professional before stopping Plavix.
+Proton Pump Inhibitors
 
-## 17.5 Concomitant Medications
-
-Ask patients to list all prescription medications, over-the-counter medications, or dietary supplements they are taking or plan to take [see Warnings and Precautions (5) and Drug Interactions (7)].
+Advise patients not to take omeprazole or esomeprazole while taking Plavix.
+Dexlansoprazole, lansoprazole and pantoprazole had less pronounced effects on the antiplatelet activity of Plavix than did omeprazole or esomeprazole [see Drug Interactions (7.1)].

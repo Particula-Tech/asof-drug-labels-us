@@ -79,6 +79,8 @@ Tell your doctor about all the medicines you take, including prescription, non-p
 Plavix may affect the way other medicines work, and other medicines may affect how Plavix works.
 See "What is the most important information I should know about Plavix?"
 
+Plavix may increase blood levels of other medicines such as repaglinide (Prandin®).
+
 Taking Plavix with certain other medicines may increase your risk of bleeding.
 Especially tell your doctor if you take:
 
@@ -99,7 +101,6 @@ How should I take Plavix?
 - Do not change your dose or stop taking Plavix without talking to your doctor first.
   Stopping Plavix may increase your risk of heart attack or stroke.
 - Take Plavix with aspirin as instructed by your doctor.
-- You can take Plavix with or without food.
 - If you miss a dose, take Plavix as soon as you remember.
   If it is almost time for your next dose, skip the missed dose.
   Take the next dose at your regular time.
