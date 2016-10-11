@@ -4,6 +4,8 @@ The following adverse reactions have been reported with SOLU-MEDROL or other cor
 
 Allergic reactions: Allergic or hypersensitivity reactions, anaphylactoid reaction, anaphylaxis, angioedema.
 
+Blood and lymphatic system disorders: Leukocytosis.
+
 Cardiovascular: Bradycardia, cardiac arrest, cardiac arrhythmias, cardiac enlargement, circulatory collapse, congestive heart failure, fat embolism, hypertension, hypertrophic cardiomyopathy in premature infants, myocardial rupture following recent myocardial infarction (see WARNINGS), pulmonary edema, syncope, tachycardia, thromboembolism, thrombophlebitis, vasculitis.
 
 Dermatologic: Acne, allergic dermatitis, burning or tingling (especially in the perineal area after intravenous injection), cutaneous and subcutaneous atrophy, dry scaly skin, ecchymoses and petechiae, edema, erythema, hyperpigmentation, hypopigmentation, impaired wound healing, increased sweating, rash, sterile abscess, striae, suppressed reactions to skin tests, thin fragile skin, thinning scalp hair, urticaria.
@@ -13,6 +15,8 @@ Endocrine: Decreased carbohydrate and glucose tolerance, development of cushingo
 Fluid and electrolyte disturbances: Congestive heart failure in susceptible patients, fluid retention, hypokalemic alkalosis, potassium loss, sodium retention.
 
 Gastrointestinal: Abdominal distention, bowel/bladder dysfunction (after intrathecal administration), elevation in serum liver enzyme levels (usually reversible upon discontinuation), hepatomegaly, increased appetite, nausea, pancreatitis, peptic ulcer with possible perforation and hemorrhage, perforation of the small and large intestine (particularly in patients with inflammatory bowel disease), ulcerative esophagitis.
+
+Hepatobiliary: Hepatitis (see WARNINGS, Drug-Induced Liver Injury).
 
 Metabolic: Negative nitrogen balance due to protein catabolism.
 
