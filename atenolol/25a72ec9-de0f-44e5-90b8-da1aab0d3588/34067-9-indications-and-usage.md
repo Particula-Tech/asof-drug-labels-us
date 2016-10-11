@@ -2,9 +2,9 @@
 
 ## Hypertension
 
-Atenolol tablets USP are indicated for the treatment of hypertension, to lower blood pressure.
+Atenolol tablets are indicated for the treatment of hypertension, to lower blood pressure.
 Lowering blood pressure lowers the risk of fatal and non-fatal cardiovascular events, primarily strokes and myocardial infarctions.
-These benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes including atenolol, USP.
+These benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes including atenolol.
 
 Control of high blood pressure should be part of comprehensive cardiovascular risk management, including, as appropriate, lipid control, diabetes management, antithrombotic therapy, smoking cessation, exercise, and limited sodium intake.
 Many patients will require more than 1 drug to achieve blood pressure goals.
@@ -19,15 +19,15 @@ Relative risk reduction from blood pressure reduction is similar across populati
 Some antihypertensive drugs have smaller blood pressure effects (as monotherapy) in black patients, and many antihypertensive drugs have additional approved indications and effects (e.g., on angina, heart failure, or diabetic kidney disease).
 These considerations may guide selection of therapy.
 
-Atenolol tablets USP may be administered with other antihypertensive agents.
+Atenolol tablets may be administered with other antihypertensive agents.
 
 ## Angina Pectoris Due to Coronary Atherosclerosis
 
-Atenolol tablets USP are indicated for the long-term management of patients with angina pectoris.
+Atenolol tablets are indicated for the long-term management of patients with angina pectoris.
 
 ## Acute Myocardial Infarction
 
-Atenolol tablets USP are indicated in the management of hemodynamically stable patients with definite or suspected acute myocardial infarction to reduce cardiovascular mortality.
+Atenolol tablets are indicated in the management of hemodynamically stable patients with definite or suspected acute myocardial infarction to reduce cardiovascular mortality.
 Treatment can be initiated as soon as the patient's clinical condition allows (see DOSAGE AND ADMINISTRATION, CONTRAINDICATIONS, and WARNINGS).
 In general, there is no basis for treating patients like those who were excluded from the ISIS-1 trial (blood pressure less than 100 mm Hg systolic, heart rate less than 50 bpm) or have other reasons to avoid beta blockade.
 As noted above, some subgroups (e.g., elderly patients with systolic blood pressure below 120 mm Hg) seemed less likely to benefit.
