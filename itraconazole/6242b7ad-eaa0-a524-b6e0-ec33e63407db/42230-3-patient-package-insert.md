@@ -67,6 +67,7 @@ Never take Itraconazole if you:
   - felodipine (such as Plendil®)
   - fesoterodine (such as Toviaz®) [if you also have pre-existing kidney or liver impairment]
   - irinotecan (such as Camptosar®)
+  - ivabradine (such as Corlanor®)
   - lovastatin (such as Mevacor®, Advicor®, Altocor™)
   - lurasidone (such as Latuda®)
   - methadone (such as Dolophine®)
@@ -189,7 +190,7 @@ You can ask your doctor or pharmacist for information about Itraconazole that is
 
 This patient information has been approved by the U.S. Food and Drug Administration.
 
-Revised May 2015
+Revised October 2016
 
 Product of Ireland
 
