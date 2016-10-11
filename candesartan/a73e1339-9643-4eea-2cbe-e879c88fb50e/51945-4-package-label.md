@@ -14,11 +14,11 @@ Rx only
 
 Manufactured for:
 
-AstraZeneca LP, Wilmington, DE 19850
+AstraZeneca Pharmaceuticals LP, Wilmington, DE 19850
 
-By: AstraZeneca AB, S-151 85
+By: AstraZeneca AB, SE-151 85
 
-Söodertälje, Sweden Product of Italy
+Södertälje, Sweden Product of Italy
 
 AstraZeneca
 
@@ -38,11 +38,11 @@ Rx only
 
 Manufactured for:
 
-AstraZeneca LP, Wilmington, DE 19850
+AstraZeneca Pharmaceuticals LP, Wilmington, DE 19850
 
-By: AstraZeneca AB, S-151 85
+By: AstraZeneca AB, SE-151 85
 
-Söodertälje, Sweden Product of Italy
+Södertälje, Sweden Product of Italy
 
 AstraZeneca
 
@@ -62,11 +62,11 @@ Rx only
 
 Manufactured for:
 
-AstraZeneca LP, Wilmington, DE 19850
+AstraZeneca Pharmaceuticals LP, Wilmington, DE 19850
 
-By: AstraZeneca AB, S-151 85
+By: AstraZeneca AB, SE-151 85
 
-Söodertälje, Sweden Product of Japan
+Södertälje, Sweden Product of Japan
 
 AstraZeneca
 
@@ -86,10 +86,10 @@ Rx only
 
 Manufactured for:
 
-AstraZeneca LP, Wilmington, DE 19850
+AstraZeneca Pharmaceuticals LP, Wilmington, DE 19850
 
-By: AstraZeneca AB, S-151 85
+By: AstraZeneca AB, SE-151 85
 
-Söodertälje, Sweden Product of Italy
+Södertälje, Sweden Product of Italy
 
 AstraZeneca
