@@ -82,7 +82,7 @@ The patient should not be concerned if they occasionally observe this outer shel
 
 ## Drug-Drug Interactions
 
-### Drug interactions: Effects of other drugs on verapamil pharmacokinetics
+### Effects of other drugs on verapamil pharmacokinetics
 
 In vitro metabolic studies indicate that verapamil is metabolized by cytochrome P450 CYP3A4, CYP1A2, and CYP2C.
 Clinically significant interactions have been reported with inhibitors of CYP3A4 (e.g., erythromycin, ritonavir) causing elevation of plasma levels of verapamil while inducers of CYP3A4 (e.g., rifampin) have caused a lowering of plasma levels of verapamil.
@@ -95,6 +95,11 @@ Co-administration of multiple doses of 10 mg of verapamil with 80 mg simvastatin
 Limit the dose of simvastatin in patients on verapamil to 10 mg daily.
 Limit the daily dose of lovastatin to 40 mg.
 Lower starting and maintenance doses of other CYP3A4 substrates (e.g., atorvastatin) may be required as verapamil may increase the plasma concentration of these drugs.
+
+### Ivabradine
+
+Concurrent use of verapamil increases exposure to ivabradine and may exacerbate bradycardia and conduction disturbances.
+Avoid co-administration of verapamil and ivabradine.
 
 ### Alcohol
 
