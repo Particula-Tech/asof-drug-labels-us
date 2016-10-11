@@ -299,8 +299,10 @@ Endocrine Disorders: 0.1%–<1% – hypothyroidism; <0.1% – hyperthyroidism, t
 
 ## 6.4 Postmarketing Experience
 
-The following additional adverse reactions have been identified during postapproval use of SPRYCEL.
+The following additional adverse reactions have been identified during post approval use of SPRYCEL.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Infections: hepatitis B virus reactivation
 
 Cardiac disorders: atrial fibrillation/atrial flutter
 

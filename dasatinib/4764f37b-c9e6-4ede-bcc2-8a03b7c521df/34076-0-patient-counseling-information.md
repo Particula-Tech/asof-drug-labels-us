@@ -4,15 +4,15 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 
 ### Bleeding
 
-Patients should be informed of the possibility of serious bleeding and to report immediately any signs or symptoms suggestive of hemorrhage (unusual bleeding or easy bruising).
+Patients should be informed of the possibility of serious bleeding and to report immediately any signs or symptoms suggestive of hemorrhage (unusual bleeding or easy bruising) [see Warnings and Precautions (5.2)].
 
 ### Myelosuppression
 
-Patients should be informed of the possibility of developing low blood cell counts; they should be instructed to report immediately should fever develop, particularly in association with any suggestion of infection.
+Patients should be informed of the possibility of developing low blood cell counts; they should be instructed to report immediately should fever develop, particularly in association with any suggestion of infection [see Warnings and Precautions (5.1)].
 
 ### Fluid Retention
 
-Patients should be informed of the possibility of developing fluid retention (swelling, weight gain, dry cough, chest pain on respiration, or shortness of breath) and to seek medical attention promptly if those symptoms arise.
+Patients should be informed of the possibility of developing fluid retention (swelling, weight gain, dry cough, chest pain on respiration, or shortness of breath) and to seek medical attention promptly if those symptoms arise [see Warnings and Precautions (5.3)].
 
 ### Embryo-Fetal Toxicity
 
@@ -54,4 +54,4 @@ If the patient misses a dose of SPRYCEL, the patient should take the next schedu
 The patient should not take two doses at the same time.
 Distributed by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
-1360013
+1360013A0
