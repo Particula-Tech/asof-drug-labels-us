@@ -15,4 +15,4 @@ Pfizer, Inc Caguas, PR 00725
 
 (240 mg caplets) Abbott GmbH & Co. KG Ludwigshafen, Germany
 
-LAB-0268-7.0 October 2013
+LAB-0268-8.0 August 2016
