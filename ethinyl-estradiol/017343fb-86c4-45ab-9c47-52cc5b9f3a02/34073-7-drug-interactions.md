@@ -21,7 +21,7 @@ Ascorbic acid and acetaminophen may increase plasma ethinyl estradiol concentrat
 CYP3A4 inhibitors such as itraconazole, voriconazole, fluconazole, grapefruit juice, or ketoconazole may increase plasma hormone concentrations.
 Co-administration of vaginal miconazole nitrate and NuvaRing increases the serum concentrations of etonogestrel and ethinyl estradiol by up to 40% [see Clinical Pharmacology (12.3)].
 
-Human immunodeficiency virus (HIV)/ Hepatitis C Virus (HCV) protease inhibitors and non-nucleoside reverse transcriptase inhibitors:
+Human immunodeficiency virus (HIV) / Hepatitis C Virus (HCV) protease inhibitors and non-nucleoside reverse transcriptase inhibitors
 
 Significant changes in the plasma concentrations of the estrogen and /or progestin have been noted in some cases of co-administration with HIV protease inhibitors (decrease [e.g., nelfinavir, ritonavir, darunavir/ritonavir, (fos)amprenavir/ritonavir, lopinavir/ritonavir, and tipranavir/ritonavir] or increase [e.g., indinavir and atazanavir/ritonavir]) /HCV protease inhibitors (decrease [e.g., boceprevir and telaprevir]) or with non-nucleoside reverse transcriptase inhibitors (decrease [e.g., nevirapine] or increase [e.g., etravirine]).
 

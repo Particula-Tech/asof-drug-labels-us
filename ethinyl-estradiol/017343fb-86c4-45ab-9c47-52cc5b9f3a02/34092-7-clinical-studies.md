@@ -6,3 +6,5 @@ Women with BMI ≥ 30 kg/m2 were excluded from these studies.
 Based on pooled data from the three trials, 2,356 women aged < 35 years completed 23,515 evaluable cycles of NuvaRing use (cycles in which no back-up contraception was used).
 The pooled pregnancy rate (Pearl Index) was 1.28 (95% CI [0.8, 1.9]) per 100 women-years of NuvaRing use.
 In the US study, the Pearl Index was 2.02 (95% CI [1.1, 3.4]) per 100 women-years of NuvaRing use.
+
+Study data indicate the return of ovulation and spontaneous menstrual cycles in most women within a month after discontinuation of NuvaRing use.

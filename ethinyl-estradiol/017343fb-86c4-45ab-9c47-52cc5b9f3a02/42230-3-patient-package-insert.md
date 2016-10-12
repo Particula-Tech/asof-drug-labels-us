@@ -120,7 +120,8 @@ Ask your healthcare provider if you are not sure if you take any of the medicine
 Know the medicines you take.
 Keep a list of them to show your doctor and pharmacist when you get a new medicine.
 
-- How should I use NuvaRing?
+How should I use NuvaRing?
+
 - Read the Instructions for Use at the end of this Patient Information that comes with your NuvaRing for information about the right way to use NuvaRing.
 - Use NuvaRing exactly as your healthcare provider tells you to use it.
 - NuvaRing is used in a 4 week cycle.
@@ -227,7 +228,7 @@ How should I store NuvaRing and throw away used NuvaRings?
 - Store NuvaRing at room temperature for up to 4 months after you receive it.
   Throw NuvaRing away if the expiration date on the label has passed.
 - Do not store NuvaRing above 86°F (30°C).
-- Avoid direct sunlight
+- Avoid direct sunlight.
 - Place the used NuvaRing in the re-closable foil pouch and properly throw it away in your household trash out of the reach of children and pets.
   Do not flush your used NuvaRing down the toilet.
 

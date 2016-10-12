@@ -75,7 +75,7 @@ If a patient exhibits signs or symptoms of TSS, consider the possibility of this
 Impaired Liver Function
 
 Do not use NuvaRing in women with liver disease such as acute viral hepatitis or severe (decompensated) cirrhosis of the liver [see Contraindications (4)].
-Acute or chronic disturbances of liver function may necessitate the discontinuation of CHC use until markers of liver function return to normal and CHC causation has been excluded [see Use in Specific Populations (8.7)].
+Acute or chronic disturbances of liver function may necessitate the discontinuation of CHC use until markers of liver function return to normal and CHC causation has been excluded [see Use in Specific Populations (8.6)].
 Discontinue NuvaRing use if jaundice develops.
 
 Liver Tumors
@@ -157,17 +157,11 @@ Some women may experience amenorrhea or oligomenorrhea after discontinuing CHC u
 There have been reports of inadvertent insertions of NuvaRing into the urinary bladder, which required cystoscopic removal.
 Assess for ring insertion into the urinary bladder in NuvaRing users who present with persistent urinary symptoms and are unable to locate the ring.
 
-## 5.11 CHC Use Before or During Early Pregnancy
-
-Extensive epidemiological studies have revealed no increased risk of birth defects in women who have used oral contraceptives prior to pregnancy.
-Studies also do not suggest a teratogenic effect, particularly in so far as cardiac anomalies and limb reduction defects are concerned, when taken inadvertently during early pregnancy.
-Discontinue NuvaRing if pregnancy is confirmed.
-
-## 5.12 Depression
+## 5.11 Depression
 
 Carefully observe women with a history of depression and discontinue NuvaRing use if depression recurs to a serious degree.
 
-## 5.13 Carcinoma of the Breasts and Cervix
+## 5.12 Carcinoma of the Breasts and Cervix
 
 NuvaRing is contraindicated in women who currently have or have had breast cancer because breast cancer is a hormonally-sensitive tumor [see Contraindications (4)].
 
@@ -177,20 +171,20 @@ Although some past studies have suggested that CHCs might increase the incidence
 Some studies suggest that CHCs are associated with an increase in the risk of cervical cancer or intraepithelial neoplasia.
 However, there is controversy about the extent to which these findings may be due to differences in sexual behavior and other factors.
 
-## 5.14 Effect on Binding Globulins
+## 5.13 Effect on Binding Globulins
 
 The estrogen component of CHCs may raise the serum concentrations of thyroxine-binding globulin, sex hormone-binding globulin, and cortisol-binding globulin.
 The dose of replacement thyroid hormones or cortisol therapy may need to be increased.
 
-## 5.15 Monitoring
+## 5.14 Monitoring
 
 A woman who is using NuvaRing should have a yearly visit with her healthcare provider for a blood pressure check and for other indicated healthcare.
 
-## 5.16 Hereditary Angioedema
+## 5.15 Hereditary Angioedema
 
 In women with hereditary angioedema, exogenous estrogens may induce or exacerbate symptoms of angioedema.
 
-## 5.17 Chloasma
+## 5.16 Chloasma
 
 Chloasma may occasionally occur, especially in women with a history of chloasma gravidarum.
 Women with a tendency to chloasma should avoid exposure to the sun or ultraviolet radiation while using NuvaRing.

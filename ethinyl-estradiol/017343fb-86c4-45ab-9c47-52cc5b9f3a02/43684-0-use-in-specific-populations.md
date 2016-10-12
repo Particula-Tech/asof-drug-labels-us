@@ -2,19 +2,31 @@
 
 ## 8.1 Pregnancy
 
-There is little or no increased risk of birth defects in women who inadvertently use CHCs during early pregnancy.
-Epidemiologic studies and meta-analyses have not found an increased risk of genital or non-genital birth defects (including cardiac anomalies and limb-reduction defects) following exposure to low dose CHCs prior to conception or during early pregnancy.
+Risk Summary
 
-The administration of CHCs to induce withdrawal bleeding should not be used as a test for pregnancy.
-CHCs should not be used during pregnancy to treat threatened or habitual abortion.
+NuvaRing is contraindicated during pregnancy because there is no need for pregnancy prevention in a woman who is already pregnant.
+Epidemiologic studies and meta-analyses have not shown an increased risk of genital or non-genital birth defects (including cardiac anomalies and limb-reduction defects) following maternal exposure to low dose CHCs prior to conception or during early pregnancy.
+No adverse developmental outcomes were observed in pregnant rats and rabbits with the administration of etonogestrel during organogenesis at doses approximately 300 times the anticipated daily vaginal human dose (~0.002 mg/kg/day).
 
-## 8.3 Nursing Mothers
+Discontinue NuvaRing use if pregnancy is confirmed.
 
-The effects of NuvaRing in nursing mothers have not been evaluated and are unknown.
-When possible, advise the nursing mother to use other forms of contraception until she has completely weaned her child.
+Data
+
+Animal Data
+
+In rats and rabbits at dosages up to 300 times the anticipated dose, etonogestrel is neither embryotoxic nor teratogenic.
+
+## 8.2 Lactation
+
+Risk Summary
+
+Small amounts of contraceptive steroids and/or metabolites, including etonogestrel and ethinyl estradiol are transferred to human milk.
+Harmful effects have not been observed in breastfed infants exposed to CHCs through breast milk.
 CHCs can reduce milk production in breastfeeding mothers.
 This is less likely to occur once breastfeeding is well-established; however, it can occur at any time in some women.
-Small amounts of contraceptive steroids and/or metabolites are present in breast milk.
+
+When possible, advise the nursing mother to use non-estrogen-containing contraception until she has completely weaned her child.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for NuvaRing and any potential adverse effects on the breastfed child from NuvaRing or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 

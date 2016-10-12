@@ -1,13 +1,12 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Patient Information and Instructions for Use).
+Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
 Counsel patients regarding the following:
 
 - Cigarette smoking increases the risk of serious cardiovascular events from use of NuvaRing, and women who are over 35 years old and smoke should not use NuvaRing.
 - The increased risk of VTE compared to non-users of CHCs is greatest after initially starting a CHC or restarting (following a 4-week or greater CHC-free interval) the same or a different CHC.
 - NuvaRing does not protect against HIV infection (AIDS) and other sexually transmitted infections.
-- The Warnings and Precautions associated with NuvaRing.
 - NuvaRing is not to be used during pregnancy.
   If pregnancy is planned or occurs during treatment with NuvaRing, instruct the patient to discontinue NuvaRing use.
 - The proper usage of NuvaRing and what to do if she does not comply with the labeled timing of insertion and removal.

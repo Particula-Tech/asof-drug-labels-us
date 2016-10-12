@@ -5,9 +5,9 @@ Organon, Oss, The Netherlands, a subsidiary of Merck & Co., Inc., Whitehouse Sta
 
 For patent information: www.merck.com/product/patent/home.html
 
-Copyright © 2001-2012 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2001-2016 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-uspi-mk8342a-rng-1411r006
+uspi-mk8342a-rng-1609r007
 
 Instructions for Use
 
@@ -36,7 +36,7 @@ If you are changing from a progestin-only birth control method, such as a minipi
 
 - You may switch from a minipill on any day.
   Start using NuvaRing on the day that you would have taken your next minipill.
-- You should switch from an implant or the IUS and start using NuvaRing on the day that you remove the implant or IUS
+- You should switch from an implant or the IUS and start using NuvaRing on the day that you remove the implant or IUS.
 - You should switch from an injectable and start using NuvaRing on the day when your next injection would be due.
 
 If you are changing from a minipill, implant or injection or from an intrauterine system (IUS), you should use an extra method of birth control, such as a male condom with spermicide during the first 7 days of using NuvaRing.
@@ -89,7 +89,7 @@ Prepare NuvaRing for insertion.
 Step 4.
 Insert NuvaRing into your vagina.
 
-- Insert the folded NuvaRing into your vagina and gently push it further up into your vagina using your index finger (See Figure F and G).
+- Insert the folded NuvaRing into your vagina and gently push it further up into your vagina using your index finger (See Figure F and G). Alternatively, the applicator for NuvaRing (available separately) may be used to help you insert the ring [see Applicator for NuvaRing Instructions for Use].
 - When you insert NuvaRing it may be in different positions in your vagina, but NuvaRing does not have to be in an exact position for it to work (See Figure H and I).
 - NuvaRing may move around slightly within your vagina.
   This is normal.
@@ -164,8 +164,65 @@ Organon, Oss, The Netherlands, a subsidiary of Merck & Co., Inc., Whitehouse Sta
 
 For patent information: www.merck.com/product/patent/home.html
 
-Copyright © 2001-2012 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2001-2016 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 10/2014
+Revised: 09/2016
 
-usppi-mk8342a-rng-1410r006
+usppi-mk8342a-rng-1609r007
+
+# Instructions for Use
+
+Applicator for NuvaRing® (NEW-vah-ring)
+
+For optional use to help insert NuvaRing.
+
+NuvaRing is not included with the applicator.
+
+Important:
+
+- The applicator is designed for use with NuvaRing.
+- Do not reuse the applicator; it is designed for one time use.
+- Do not share the applicator with others.
+- If you accidently drop the applicator, wash it with cool to lukewarm water.
+  Do not use hot water to wash the applicator.
+- Throw the applicator away in the trash immediately after use.
+- Do not flush the applicator down the toilet.
+
+The applicator is not made with natural rubber latex.
+
+Store the applicators between 41°F to 86°F (5°C to 30°C).
+
+- 1:Prepare Wash your hands before opening the package.
+  Open the package only when you are ready to use the applicator.
+  Do not use if the contents or packaging are visibly damaged.
+  Look at the picture of the applicator to familiarize yourself with the parts of the applicator.
+  PlungerFinger GripBarrelBarrel OpeningNuvaRing (Not Included)
+- 2:Load & Position Pull the plunger back gently until it stops.
+  Squeeze opposite sides of the ring together and insert the ring into the barrel opening.
+  Gently push the ring into the barrel.
+  The tip of the ring should stick out slightly from the barrel opening.
+  Choose the position for inserting the ring that is most comfortable for you, like lying down, squatting, or standing with one leg up.
+- 3:Insert & Dispose Place your thumb and middle finger on the finger grip.
+  Gently insert the barrel into the vagina until your fingers (on the finger grip) touch your body.
+  Then use your index finger to gently push the plunger all the way into the barrel.Some women have experienced a brief mild pinching feeling when using the applicator.
+  The ring is pushed out of the applicator.
+  Gently remove the applicator.
+  Please also read the Patient Information and Instructions for Use for NuvaRing.
+  Make sure that the ring is not in the applicator.
+  Dispose of (throw away) the used applicator in the trash can.
+  Do not flush the applicator down the toilet.
+  Do not reuse the applicator.
+
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
+
+Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+
+Manufactured by: Sonoco Plastics B.V., Berkel en Rodenrijs, The Netherlands
+
+For patent information: www.merck.com/product/patent/home.html
+
+Copyright © 2016 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
+
+Revised: 09/2016
+
+usifu-mkd920-1609r000

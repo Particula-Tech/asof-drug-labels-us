@@ -10,6 +10,7 @@ A new ring is inserted one week after the last ring was removed.
 
 The user can choose the insertion position that is most comfortable to her, for example, standing with one leg up, squatting, or lying down.
 The ring is to be compressed and inserted into the vagina.
+An optional alternative is to insert the ring using the applicator for NuvaRing [see Applicator for NuvaRing Instructions for Use].
 The exact position of NuvaRing inside the vagina is not critical for its function.
 The vaginal ring must be inserted on the appropriate day and left in place for three consecutive weeks.
 This means that the ring should be removed three weeks later on the same day of the week as it was inserted and at about the same time.
@@ -40,7 +41,7 @@ The woman may switch from the POP on any day; instruct her to start using NuvaRi
 She should switch from an implant or the IUS on the day of its removal, and from an injectable on the day when the next injection would be due.
 In all of these cases, the woman should use an additional barrier method such as a male condom with spermicide, for the first seven days.
 
-Use after Abortion or Miscarriage
+Use after Abortion or Miscarriage:
 
 The woman may start using NuvaRing within the first five days following a complete first trimester abortion or miscarriage, and she does not need to use an additional method of contraception.
 If use of NuvaRing is not started within five days following a first trimester abortion or miscarriage, the woman should follow the instructions for "No Hormonal Contraceptive Use in the Preceding Cycle."
@@ -49,7 +50,7 @@ In the meantime, she should be advised to use a non-hormonal contraceptive metho
 Start NuvaRing no earlier than four weeks after a second trimester abortion or miscarriage, due to the increased risk of thromboembolism.
 [See Contraindications (4), and Warnings and Precautions (5.1).]
 
-Following Childbirth
+Following Childbirth:
 
 The use of NuvaRing may be initiated no sooner than four weeks postpartum in women who elect not to breastfeed, due to the increased risk of thromboembolism in the postpartum period.
 [See Contraindications (4), and Warnings and Precautions (5.1).]
