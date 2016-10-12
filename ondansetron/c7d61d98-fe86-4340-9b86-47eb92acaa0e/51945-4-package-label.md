@@ -1,4 +1,4 @@
-# Principal Display Panel
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0446-00
 
@@ -31,12 +31,12 @@ Research Triangle Park, NC 27709
 
 Made in Singapore
 
-10000000125173 Rev.
-4/14
+1. 10000000125173 Rev.
+   4/14
 
-# Principal Display Panel
+PRINCIPAL DISPLAY PANEL
 
-NDC 0173-0447-04
+NDC 0173-0447-00
 
 Zofran®
 
@@ -67,10 +67,10 @@ Research Triangle Park, NC 27709
 
 Made in Singapore
 
-10000000125172 Rev.
-4/14
+1. 10000000125172 Rev.
+   4/14
 
-# Principal Display Panel
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0569-00
 
@@ -100,10 +100,10 @@ Made in Singapore
 
 ©2014, GSK group of companies.
 
-A125174 Rev.
-4/14
+1. A125174 Rev.
+   4/14
 
-# Principal Display Panel
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0570-00
 
@@ -133,10 +133,10 @@ Made in Singapore
 
 ©2014, GSK group of companies.
 
-A125175 Rev.
-4/14
+1. A125175 Rev.
+   4/14
 
-# Principal Display Panel
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0489-00
 
@@ -168,5 +168,5 @@ Research Triangle Park, NC 27709
 
 Made in Canada
 
-A124815 Rev.
-3/14
+1. A124815 Rev.
+   3/14

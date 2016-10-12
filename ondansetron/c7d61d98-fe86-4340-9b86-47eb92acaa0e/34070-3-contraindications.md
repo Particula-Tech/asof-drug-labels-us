@@ -1,5 +1,6 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-The concomitant use of apomorphine with ondansetron is contraindicated based on reports of profound hypotension and loss of consciousness when apomorphine was administered with ondansetron.
+ZOFRAN is contraindicated in patients:
 
-ZOFRAN Tablets, ZOFRAN ODT Orally Disintegrating Tablets, and ZOFRAN Oral Solution are contraindicated for patients known to have hypersensitivity to the drug.
+- •known to have hypersensitivity (e.g., anaphylaxis) to ondansetron or any of the components of the formulation [see Adverse Reactions (6.2)].
+- •receiving concomitant apomorphine due to the risk of profound hypotension and loss of consciousness.

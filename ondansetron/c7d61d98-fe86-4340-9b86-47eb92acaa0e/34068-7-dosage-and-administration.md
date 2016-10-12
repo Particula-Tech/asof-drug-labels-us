@@ -1,78 +1,33 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-## Instructions for Use/Handling ZOFRAN ODT Orally Disintegrating Tablets:
+## 2.1 Dosage
 
-Do not attempt to push ZOFRAN ODT Tablets through the foil backing.
+The recommended dosage regimens for adult and pediatric patients are described in Table 1 and Table 2, respectively.
+
+Corresponding doses of ZOFRAN tablets, ZOFRAN ODT® orally disintegrating tablets and ZOFRAN oral solution may be used interchangeably.
+
+Table 1: Adult Recommended Dosage Regimen for Prevention of Nausea and Vomiting
+
+| Indication | Dosage Regimen |
+| --- | --- |
+| Highly Emetogenic Cancer Chemotherapy | A single 24-mg dose administered 30 minutes before the start of single-day highly emetogenic chemotherapy, including cisplatin greater than or equal to 50 mg/m2 |
+| Moderately Emetogenic Cancer Chemotherapy | 8 mg administered 30 minutes before the start of chemotherapy, with a subsequent 8-mg dose 8 hours after the first dose.Then administer 8 mg twice a day (every 12 hours) for 1 to 2 days after completion of chemotherapy. |
+| Radiotherapy | For total body irradiation: 8 mg administered 1 to 2 hours before each fraction of radiotherapy each day.For single high-dose fraction radiotherapy to the abdomen: 8 mg administered 1 to 2 hours before radiotherapy, with subsequent 8-mg doses every 8 hours after the first dose for 1 to 2 days after completion of radiotherapy.For daily fractionated radiotherapy to the abdomen: 8 mg administered 1 to 2 hours before radiotherapy, with subsequent 8-mg doses every 8 hours after the first dose for each day radiotherapy is given. |
+| Postoperative | 16 mg administered 1 hour before induction of anesthesia. |
+
+Table 2: Pediatric Recommended Dosage Regimen for Prevention of Nausea and Vomiting
+
+| Indication | Dosage Regimen |
+| --- | --- |
+| Moderately Emetogenic Cancer Chemotherapy | 12 to 17 years of age: 8 mg administered 30 minutes before the start of chemotherapy, with a subsequent 8-mg dose 4 and 8 hours after the first dose. Then administer 8 mg three times a day for 1 to 2 days after completion of chemotherapy.4 to 11 years of age: 4 mg administered 30 minutes before the start of chemotherapy, with a subsequent 4-mg dose 4 and 8 hours after the first dose. Then administer 4 mg three times a day for 1 to 2 days after completion of chemotherapy. |
+
+## 2.2 Dosage in Hepatic Impairment
+
+In patients with severe hepatic impairment (Child-Pugh score of 10 or greater), do not exceed a total daily dose of 8 mg [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
+
+## 2.3 Administration Instructions for ZOFRAN ODT Orally Disintegrating Tablets
+
+Do not attempt to push ZOFRAN ODT tablets through the foil backing.
 With dry hands, PEEL BACK the foil backing of 1 blister and GENTLY remove the tablet.
-IMMEDIATELY place the ZOFRAN ODT Tablet on top of the tongue where it will dissolve in seconds, then swallow with saliva.
+IMMEDIATELY place the ZOFRAN ODT tablet on top of the tongue where it will dissolve in seconds, then swallow with saliva.
 Administration with liquid is not necessary.
-
-## Prevention of Nausea and Vomiting Associated with Highly Emetogenic Cancer Chemotherapy:
-
-The recommended adult oral dosage of ZOFRAN is 24 mg given as three 8-mg tablets administered 30 minutes before the start of single-day highly emetogenic chemotherapy, including cisplatin ≥50 mg/m2.
-Multiday, single-dose administration of a 24-mg dosage has not been studied.
-
-### Pediatric Use:
-
-There is no experience with the use of a 24-mg dosage in pediatric patients.
-
-### Geriatric Use:
-
-The dosage recommendation is the same as for the general population.
-
-## Prevention of Nausea and Vomiting Associated with Moderately Emetogenic Cancer Chemotherapy:
-
-The recommended adult oral dosage is one 8-mg ZOFRAN Tablet or one 8-mg ZOFRAN ODT Tablet or 10 mL (2 teaspoonfuls equivalent to 8 mg of ondansetron) of ZOFRAN Oral Solution given twice a day.
-The first dose should be administered 30 minutes before the start of emetogenic chemotherapy, with a subsequent dose 8 hours after the first dose.
-One 8-mg ZOFRAN Tablet or one 8-mg ZOFRAN ODT Tablet or 10 mL (2 teaspoonfuls equivalent to 8 mg of ondansetron) of ZOFRAN Oral Solution should be administered twice a day (every 12 hours) for 1 to 2 days after completion of chemotherapy.
-
-### Pediatric Use:
-
-For pediatric patients aged 12 years and older, the dosage is the same as for adults.
-For pediatric patients aged 4 through 11 years, the dosage is one 4-mg ZOFRAN Tablet or one 4-mg ZOFRAN ODT Tablet or 5 mL (1 teaspoonful equivalent to 4 mg of ondansetron) of ZOFRAN Oral Solution given 3 times a day.
-The first dose should be administered 30 minutes before the start of emetogenic chemotherapy, with subsequent doses 4 and 8 hours after the first dose.
-One 4-mg ZOFRAN Tablet or one 4-mg ZOFRAN ODT Tablet or 5 mL (1 teaspoonful equivalent to 4 mg of ondansetron) of ZOFRAN Oral Solution should be administered 3 times a day (every 8 hours) for 1 to 2 days after completion of chemotherapy.
-
-### Geriatric Use:
-
-The dosage is the same as for the general population.
-
-## Prevention of Nausea and Vomiting Associated with Radiotherapy, Either Total Body Irradiation, or Single High-dose Fraction or Daily Fractions to the Abdomen:
-
-The recommended oral dosage is one 8-mg ZOFRAN Tablet or one 8-mg ZOFRAN ODT Tablet or 10 mL (2 teaspoonfuls equivalent to 8 mg of ondansetron) of ZOFRAN Oral Solution given 3 times a day.
-
-For total body irradiation, one 8-mg ZOFRAN Tablet or one 8-mg ZOFRAN ODT Tablet or 10 mL (2 teaspoonfuls equivalent to 8 mg of ondansetron) of ZOFRAN Oral Solution should be administered 1 to 2 hours before each fraction of radiotherapy administered each day.
-
-For single high-dose fraction radiotherapy to the abdomen, one 8-mg ZOFRAN Tablet or one 8-mg ZOFRAN ODT Tablet or 10 mL (2 teaspoonfuls equivalent to 8 mg of ondansetron) of ZOFRAN Oral Solution should be administered 1 to 2 hours before radiotherapy, with subsequent doses every 8 hours after the first dose for 1 to 2 days after completion of radiotherapy.
-
-For daily fractionated radiotherapy to the abdomen, one 8-mg ZOFRAN Tablet or one 8-mg ZOFRAN ODT Tablet or 10 mL (2 teaspoonfuls equivalent to 8 mg of ondansetron) of ZOFRAN Oral Solution should be administered 1 to 2 hours before radiotherapy, with subsequent doses every 8 hours after the first dose for each day radiotherapy is given.
-
-### Pediatric Use:
-
-There is no experience with the use of ZOFRAN Tablets, ZOFRAN ODT Tablets, or ZOFRAN Oral Solution in the prevention of radiation-induced nausea and vomiting in pediatric patients.
-
-### Geriatric Use:
-
-The dosage recommendation is the same as for the general population.
-
-## Postoperative Nausea and Vomiting:
-
-The recommended dosage is 16 mg given as two 8-mg ZOFRAN Tablets or two 8-mg ZOFRAN ODT Tablets or 20 mL (4 teaspoonfuls equivalent to 16 mg of ondansetron) of ZOFRAN Oral Solution 1 hour before induction of anesthesia.
-
-### Pediatric Use:
-
-There is no experience with the use of ZOFRAN Tablets, ZOFRAN ODT Tablets, or ZOFRAN Oral Solution in the prevention of postoperative nausea and vomiting in pediatric patients.
-
-### Geriatric Use:
-
-The dosage is the same as for the general population.
-
-## Dosage Adjustment for Patients with Impaired Renal Function:
-
-The dosage recommendation is the same as for the general population.
-There is no experience beyond first-day administration of ondansetron.
-
-## Dosage Adjustment for Patients with Impaired Hepatic Function:
-
-In patients with severe hepatic impairment (Child-Pugh2 score of 10 or greater), clearance is reduced and apparent volume of distribution is increased with a resultant increase in plasma half-life.
-In such patients, a total daily dose of 8 mg should not be exceeded.
