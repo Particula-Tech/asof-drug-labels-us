@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "ANDA073652",
+    "ANDA073671"
+  ],
+  "inn": "nitrofurantoin",
+  "labeler": "Impax Generics",
+  "package_ndcs": [
+    "0115-1643-01",
+    "0115-1643-03",
+    "0115-1645-01",
+    "0115-1645-03"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "nitrofurantoin macrocrystals",
+      "name": "Nitrofurantoin Macrocrystals"
+    }
+  ],
+  "setid": "341c75ac-fba5-480d-a221-868c4195cb6f",
+  "source": "dailymed"
+}
