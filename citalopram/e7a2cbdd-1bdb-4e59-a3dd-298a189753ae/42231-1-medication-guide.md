@@ -233,4 +233,4 @@ Active ingredient: citalopram hydrobromide Inactive ingredients: non crystallizi
 Orap® is a registered trademark of Teva Pharmaceuticals USA.
 Coumadin® is a registered trademark of Bristol Myers Squibb.
 Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc. Lexapro is a registered trademark of Forest Laboratories Inc. This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 05/2014
+Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India Revised: 10/2016

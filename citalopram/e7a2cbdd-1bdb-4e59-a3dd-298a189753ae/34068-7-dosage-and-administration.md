@@ -11,7 +11,7 @@ Treatment of Pregnant Women During the Third Trimester Neonates exposed to cital
 When treating pregnant women with citalopram oral solution during the third trimester, the physician should carefully consider the potential risks and benefits of treatment.
 Maintenance Treatment It is generally agreed that acute episodes of depression require several months or longer of sustained pharmacologic therapy.
 Systematic evaluation of citalopram oral solution in two studies has shown that its antidepressant efficacy is maintained for periods of up to 24 weeks following 6 or 8 weeks of initial treatment (32 weeks total).
-In one study, patients were assigned randomly to placebo or to the same dose of citalopram oral solution (20 to 60 mg/day)during maintenance treatment as they had received during the acute stabilization phase, while in the other study, patients were assigned randomly to continuation of citalopram oral solution 20 or 40 mg/day, or placebo, for maintenance treatment.
+In one study, patients were assigned randomly to placebo or to the same dose of citalopram oral solution (20 to 60 mg/day) during maintenance treatment as they had received during the acute stabilization phase, while in the other study, patients were assigned randomly to continuation of citalopram oral solution 20 or 40 mg/day, or placebo, for maintenance treatment.
 In the latter study, the rates of relapse to depression were similar for the two dose groups (see Clinical Trials under CLINICAL PHARMACOLOGY).
 Based on these limited data, it is not known whether the dose of citalopram needed to maintain euthymia is identical to the dose needed to induce remission.
 If adverse reactions are bothersome, a decrease in dose to 20 mg/day can be considered.
