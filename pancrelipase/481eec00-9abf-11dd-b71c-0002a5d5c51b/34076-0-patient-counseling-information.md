@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-"See FDA-approved patient labeling (Medication Guide)"
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 ## 17.1 Dosing and Administration
 
@@ -17,16 +17,13 @@
   [see Dosage and Administration (2)]
 - Any unused portion of capsule contents should be discarded, and not used for subsequent dosing.
   The remaining exposed contents may lose potency and become less effective.
-  [see Dosage and Administration(2)]
-- Instruct patients that use of PERTZYE in children is limited by the available capsule dosage strengths and their ability to provide the recommended dose based on age and weight.
-  Instruct patients that attempting to divide the capsule contents in small fractions to deliver small doses of lipase is not recommended.
   [see Dosage and Administration (2)]
 - Instruct patients to keep out of the reach of children.
 
 ## 17.2 Fibrosing Colonopathy
 
 Advise patients and caregivers to follow dosing instructions carefully, as doses of pancreatic enzyme products exceeding 6,000 lipase units/kg of body weight per meal (10,000 lipase units/kg body weight/day) have been associated with colonic strictures in children below the age of 12 years.
-[see Dosage and Administration (2)and Warnings and Precautions (5.1)]
+[see Dosage and Administration (2) and Warnings and Precautions (5.1)]
 
 ## 17.3 Allergic Reactions
 
@@ -40,4 +37,4 @@ Advise patients and caregivers to contact their healthcare professional immediat
 - Instruct patients to notify their physician if they are breast feeding or are thinking of breast feeding during treatment with PERTZYE.
   [see Use in Specific Populations (8.3)]
 
-Manufactured in the USA by: Digestive Care, Inc. Bethlehem, PA 18017 © 2012 Digestive Care, Inc. PERTZYE™ is a trademark of Digestive Care, Inc. U.S. Patent Numbers: 5,260,074; 5,302,400; 5,324,514; 5,460,812; 5,578,304; 5,750,104
+Manufactured in the USA by: Digestive Care, Inc. Bethlehem, PA 18017 PERTZYE® is a registered trademark of Digestive Care, Inc. U.S. Patent Numbers: 5,260,074; 5,302,400; 5,324,514; 5,460,812; 5,578,304; 5,750,104

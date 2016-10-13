@@ -16,7 +16,7 @@ Patients receiving higher doses than 6,000 lipase units/kg of body weight per me
 
 Care should be taken to ensure that no drug is retained in the mouth.
 PERTZYE should not be crushed or chewed or mixed in foods having a pH greater than 4.5.
-These actions can disrupt the protective enteric coating resulting in early release of enzymes, irritation of oral mucosa, and/or loss or enzyme activity [see Dosage and Administration (2.2) and Patient Counseling Information (17.1)].
+These actions can disrupt the protective enteric coating resulting in early release of enzymes, irritation of oral mucosa, and/or loss of enzyme activity [see Dosage and Administration (2.2) and Patient Counseling Information (17.1)].
 For patients who are unable to swallow intact capsules, the capsules may be carefully opened and the contents mixed with a small amount of acidic soft food with a pH of 4.5 or less, such as applesauce.
 The PERTZYE-soft food mixture should be swallowed immediately and followed with water or juice to ensure complete ingestion.
 
@@ -25,7 +25,7 @@ The PERTZYE-soft food mixture should be swallowed immediately and followed with 
 Porcine-derived pancreatic enzyme products contain purines that may increase blood uric acid levels.
 Consider monitoring serum uric acid levels in patients with hyperuricemia, gout or renal impairment.
 
-## 5.4 Potential Viral Exposure form the Product Source
+## 5.4 Potential Viral Exposure from the Product Source
 
 PERTZYE is sourced from pancreatic tissue from swine used for food consumption.
 Although the risk that PERTZYE will transmit an infectious agent to humans has been reduced by testing for certain viruses during manufacturing and by inactivating certain viruses during manufacturing, there is a theoretical risk for transmission of viral disease, including diseases caused by novel or unidentified viruses.
