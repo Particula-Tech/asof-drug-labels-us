@@ -26,12 +26,12 @@ To enroll, patients can call the toll free number 1-888-233-2334 [see Use in Spe
 
 Suicidal Thinking and Behavior
 
-Counsel patients, their caregivers, and families that AEDs, including Depakote ER, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
+Counsel patients, their caregivers, and families that AEDs, including Depakote ER, may increase the risk of suicidal thoughts and behavior and to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Instruct patients, caregivers, and families to report behaviors of concern immediately to the healthcare providers [see Warnings and Precautions (5.7)].
 
 Hyperammonemia
 
-Inform patients of the signs and symptoms associated with hyperammonemic encephalopathy and be told to inform the prescriber if any of these symptoms occur [see Warnings and Precautions (5.9, 5.10)].
+Inform patients of the signs and symptoms associated with hyperammonemic encephalopathy and to notify the prescriber if any of these symptoms occur [see Warnings and Precautions (5.9, 5.10)].
 
 CNS Depression
 

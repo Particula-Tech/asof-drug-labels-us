@@ -267,6 +267,8 @@ Psychiatric: Emotional upset, psychosis, aggression, psychomotor hyperactivity, 
 
 Neurologic: There have been several reports of acute or subacute cognitive decline and behavioral changes (apathy or irritability) with cerebral pseudoatrophy on imaging associated with valproate therapy; both the cognitive/behavioral changes and cerebral pseudoatrophy reversed partially or fully after valproate discontinuation.
 
+Additionally, there have been reports of encephalopathy in the absence of elevated ammonia levels.
+
 Musculoskeletal: Fractures, decreased bone mineral density, osteopenia, osteoporosis, and weakness.
 
 Hematologic: Relative lymphocytosis, macrocytosis, leukopenia, anemia including macrocytic with or without folate deficiency, bone marrow suppression, pancytopenia, aplastic anemia, agranulocytosis, and acute intermittent porphyria.
