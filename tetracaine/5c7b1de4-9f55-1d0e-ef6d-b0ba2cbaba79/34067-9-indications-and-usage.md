@@ -1,3 +1,3 @@
-# INDICATIONS & USAGE SECTION
+# 1 INDICATIONS AND USAGE
 
-For procedures in which a rapid and short-acting topical ophthalmic anesthetic is indicated.
+Tetracaine Hydrochloride Ophthalmic Solution 0.5% is indicated for procedures requiring a rapid and short-acting topical ophthalmic anesthetic.

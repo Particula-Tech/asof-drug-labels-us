@@ -1,35 +1,14 @@
-# PRECAUTIONS SECTION
+# 5 WARNINGS AND PRECAUTIONS
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility:
+## 5.1 Corneal injury with Intracameral Use
 
-There have been no long-term studies done using Tetracaine Hydrochloride in animals to evaluate carcinogenic potential.
+Not for injection or intraocular use.
+Do not use intracamerally because use of TetracaineHydrochloride Ophthalmic Solution 0.5% may lead to damage of the corneal endothelial cells.
 
-## Pregnancy:
+## 5.2 Corneal Toxicity
 
-Pregnancy Category C. Animal reproduction studies have not been conducted with Tetracaine Hydrochloride.
-It is also not known whether these ingredients can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
-STERI-UNITS® Solutions containing these ingredients should be given to a pregnant woman only if clearly needed.
+Prolonged use or abuse may lead to corneal epithelial toxicity and may manifest as epithelial defects which may progress to permanent corneal damage.
 
-## Nursing Mothers:
+## 5.3 Corneal Injury due to Insensitivity
 
-It is not known whether these drugs are excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when Atropine Sulfate or Pilocarpine Hydrochloride is administered to a nursing woman.
-
-## Pediatric Use:
-
-Safety and effectiveness in pediatric patients have not been established.
-
-## Geriatric Use:
-
-No overall differences in safety or effectiveness have been observed between elderly and younger patients.
-
-# WARNINGS SECTION
-
-For topical eye use only, not for injection or intraocular use.
-Prolonged use results in diminished duration of anesthesia and retarded healing.
-This may cause the drug to be used more frequently, creating a “vicious circle”.
-Subsequent corneal infection and/or corneal opacification with accompanying permanent visual loss or corneal perforation may occur.
-
-# PRECAUTIONS SECTION
-
-Patient should be advised not to touch or rub the eye(s) until the effect of the anesthetic has worn off.
+Patients should not touch the eye for at least 10-20 minutes after using anesthetic as accidental injuries can occur due to insensitivity of the eye.

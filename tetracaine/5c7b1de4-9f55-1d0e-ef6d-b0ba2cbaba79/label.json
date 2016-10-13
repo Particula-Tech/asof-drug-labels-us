@@ -1,9 +1,12 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA208135"
+  ],
   "inn": "tetracaine",
   "labeler": "Alcon Laboratories, Inc.",
   "package_ndcs": [
-    "0065-0741-12"
+    "0065-0741-12",
+    "0065-0741-14"
   ],
   "products": [
     {

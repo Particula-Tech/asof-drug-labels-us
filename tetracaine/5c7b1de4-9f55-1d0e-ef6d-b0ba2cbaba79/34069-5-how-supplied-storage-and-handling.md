@@ -1,6 +1,9 @@
-# HOW SUPPLIED SECTION
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-2 mL in DROP-TAINER® dispenser in carton of 12.
-NDC 0065-0741-12
+Tetracaine Hydrochloride Ophthalmic Solution 0.5% STERI-UNITS® is supplied as single patient use, 4 mL filled in 4-mL natural medium- or low-density polyethylene plastic DROP-TAINER® dispensers and natural low-density polyethylene tips with white polypropylene caps in a carton of 12.
+Each sterilized DROP-TAINER® dispenser is packaged in a clear PVC and Tyvek blister.
+This product does not contain a preservative; discard unused portion.
 
-Rx Only Revised: August 2010 9005845-0810 Alcon Laboratories, Inc. 6201 South Freeway Fort Worth, Texas 76134 USA 1-800-757-9195 Medinfo@AlconLabs.com Printed in USA ©2003, 2010 Alcon, Inc.
+NDC 0065-0741-14 Storage: Store at 2°C to 25°C (36°F to 77°F).
+Protect from light.
+Do not use if solution contains crystals, is cloudy, or discolored.

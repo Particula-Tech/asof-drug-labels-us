@@ -1,6 +1,12 @@
-# DOSAGE & ADMINISTRATION SECTION
+# 2 DOSAGE AND ADMINISTRATION
 
-One drop topically in the eye(s) as needed.
-May be used during ocular surgery.
-Do not use intracamerally.
+## 2.1 Topical Administration
+
+One drop topically in the eye as needed.
 Discard unused portion.
+
+## 2.2 Sterile Field Administration
+
+Open package using standard aseptic technique.
+The DROP‑TAINER® dispenser may then be allowed to fall upon a sterile surface.
+The entire outer surface of the DROP‑TAINER® dispenser and its contents are sterile.
