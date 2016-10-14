@@ -1,0 +1,29 @@
+{
+  "application_numbers": [
+    "ANDA075710"
+  ],
+  "inn": "alendronate",
+  "labeler": "Impax Generics",
+  "package_ndcs": [
+    "0115-1676-01",
+    "0115-1676-08",
+    "0115-1678-01",
+    "0115-1678-08",
+    "0115-1679-26",
+    "0115-1679-30",
+    "0115-1679-34",
+    "0115-1680-08",
+    "0115-1681-26",
+    "0115-1681-30",
+    "0115-1681-34"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "alendronate sodium",
+      "name": "Alendronate Sodium"
+    }
+  ],
+  "setid": "c23fb7fe-c6b9-4f77-bde7-992222b589d3",
+  "source": "dailymed"
+}
