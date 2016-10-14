@@ -21,7 +21,7 @@ CARDIOVASCULAR THOMBOTIC EVENTS
 
 RENAL RISK
 
-- •Ketorolac tromethamine is CONTRAINDICATED in patients with advanced renal impairment and in patients at risk for renal failure due to volume depletion (see WARNINGS).
+1. •Ketorolac tromethamine is CONTRAINDICATED in patients with advanced renal impairment and in patients at risk for renal failure due to volume depletion (see WARNINGS).
 
 RISK OF BLEEDING
 
@@ -31,12 +31,12 @@ Ketorolac tromethamine is CONTRAINDICATED as prophylactic analgesic before any m
 
 RISK DURING LABOR AND DELIVERY
 
-- •The use of ketorolac tromethamine in labor and delivery is contraindicated because it may adversely affect fetal circulation and inhibit uterine contractions.
+1. •The use of ketorolac tromethamine in labor and delivery is contraindicated because it may adversely affect fetal circulation and inhibit uterine contractions.
 
 CONCOMITANT USE WITH NSAIDs
 
-- •Ketorolac tromethamine is CONTRAINDICATED in patients currently receiving aspirin or NSAIDs because of the cumulative risk of inducing serious NSAID-related side effects.
+1. •Ketorolac tromethamine is CONTRAINDICATED in patients currently receiving aspirin or NSAIDs because of the cumulative risk of inducing serious NSAID-related side effects.
 
 SPECIAL POPULATIONS
 
-- •Dosage should be adjusted for patients 65 years or older, for patients under 50 kg (110 lbs) of body weight (see DOSAGE AND ADMINISTRATION) and for patients with moderately elevated serum creatinine (see WARNINGS).
+1. •Dosage should be adjusted for patients 65 years or older, for patients under 50 kg (110 lbs) of body weight (see DOSAGE AND ADMINISTRATION) and for patients with moderately elevated serum creatinine (see WARNINGS).
