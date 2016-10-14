@@ -8,8 +8,8 @@ Pacerone® (Amiodarone HCl) Tablets, 200 mg, are available in bottles of 60 tabl
 
 Pacerone® Tablets, 200 mg, are pink, round, flat-faced, scored, uncoated tablets, debossed with "P200" on the unscored side, and "U-S" above and "0147" below the score on the reverse side.
 
-Store at 20-25°C (68-77°F).
-Excursions permitted to 15-30°C (59-86°F).
+Store at 20° to 25°C (68° to 77°F).
+Excursions permitted to 15° to 30°C (59° to 86°F).
 [See USP Controlled Room Temperature.]
 Protect from light.
 
@@ -20,4 +20,4 @@ For further product information and current package insert, please visit www.pac
 
 Manufactured by UPSHER-SMITH LABORATORIES, INC. Maple Grove, MN 55369
 
-Revised 0915
+Revised 0616
