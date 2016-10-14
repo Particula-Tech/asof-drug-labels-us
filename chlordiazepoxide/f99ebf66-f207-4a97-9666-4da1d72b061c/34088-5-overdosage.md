@@ -16,4 +16,4 @@ Dialysis is of limited value.
 Should excitation occur, barbiturates should not be used.
 As with the management of intentional overdosage with any drug, it should be borne in mind that multiple agents may have been ingested.
 
-Withdrawal symptoms of the barbiturate type have occurred after the discontinuation of benzodiazepines (see DRUG ABUSE AND DEPENDENCE section).
+Withdrawal symptoms of the barbiturate type have occurred after the discontinuation of benzodiazepines (see DRUG ABUSE AND DEPENDENCE).

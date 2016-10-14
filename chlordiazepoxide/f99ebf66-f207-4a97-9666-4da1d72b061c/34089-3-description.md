@@ -1,10 +1,9 @@
 # DESCRIPTION
 
-Librax combines in a single capsule formulation the antianxiety action of chlordiazepoxide hydrochloride and the anticholinergic/spasmolytic effects of clidinium bromide, both exclusive developments of Roche research.
+Librax combines in a single capsule formulation the antianxiety action of chlordiazepoxide hydrochloride and the anticholinergic/spasmolytic effects of clidinium bromide.
 
-Each Librax capsule contains 5 mg chlordiazepoxide hydrochloride and 2.5 mg clidinium bromide.
-Each capsule also contains corn starch, lactose and talc.
-Gelatin capsule shells may contain methyl and propyl parabens and potassium sorbate, with the following dye systems: D&C Yellow No. 10 and either FD&C Blue No. 1 or FD&C Green No. 3.
+Each Librax capsule contains the active ingredients 5 mg chlordiazepoxide hydrochloride and 2.5 mg clidinium bromide.
+Each capsule also contains the inactive ingredients corn starch, lactose monohydrate, talc, methylparaben, propylparaben, potassium sorbate, D&C Yellow No. 10, FD&C Green No. 3, titanium dioxide, and gelatin.
 
 Chlordiazepoxide hydrochloride is a versatile, therapeutic agent of proven value for the relief of anxiety and tension.
 It is indicated when anxiety, tension or apprehension are significant components of the clinical profile.

@@ -1,7 +1,7 @@
-## INDICATIONS AND USAGE
+# WARNING: RISKS FROM CONCOMITANT USE WITH OPIOIDS
 
-Based on a review of this drug by the National Academy of Sciences — National Research Council and/or other information, FDA has classified the indications as follows:
+## Concomitant use of benzodiazepines and opioids may result in profound sedation, respiratory depression, coma, and death (see WARNINGS and PRECAUTIONS).
 
-"Possibly" effective: as adjunctive therapy in the treatment of peptic ulcer and in the treatment of the irritable bowel syndrome (irritable colon, spastic colon, mucous colitis) and acute enterocolitis.
-
-Final classification of the less-than-effective indications requires further investigation.
+- •Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
+- •Limit dosages and durations to the minimum required.
+- •Follow patients for signs and symptoms of respiratory depression and sedation.

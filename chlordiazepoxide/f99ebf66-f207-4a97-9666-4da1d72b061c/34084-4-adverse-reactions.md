@@ -15,5 +15,7 @@ Changes in EEG patterns (low-voltage fast activity) have been observed in patien
 Blood dyscrasias, including agranulocytosis, jaundice and hepatic dysfunction have occasionally been reported during therapy with chlordiazepoxide hydrochloride.
 When chlordiazepoxide hydrochloride treatment is protracted, periodic blood counts and liver function tests are advisable.
 
-Adverse effects reported with use of Librax are those typical of anticolinergic agents, ie, dryness of the mouth, blurring of vision, urinary hesitancy and constipation.
+Adverse effects reported with use of Librax are those typical of anticholinergic agents, i.e., dryness of the mouth, blurring of vision, urinary hesitancy and constipation.
 Constipation has occurred most often when Librax therapy has been combined with other spasmolytic agents and/or a low residue diet.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Valeant Pharmaceuticals North America LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
