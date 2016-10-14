@@ -1,14 +1,19 @@
-# 16 HOW SUPPLIED / STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 ## 16.1 How Supplied
 
-Nicardipine hydrochloride injection is available in packages as follows:
+Nicardipine Hydrochloride Injection is available in packages as follows:
 
-NDC 0143-9689-10
+| NDC | Strength | Packaged |
+| --- | --- | --- |
+| 0143-9689-10 | 25 mg/10 mL Single Dose Vial (2.5 mg/mL) | 10 vials of 10 mL |
 
-Strength 25 mg/10 mL Single-Use Vial (2.5 mg/mL)
+Nicardipine Hydrochloride in 0.9% Sodium Chloride Injection is available in packages as follows:
 
-Packaged 10 vials of 10 mL
+| NDC | Strength | Packaged |
+| --- | --- | --- |
+| 0143-9634-01 | 20 mg in 200 mL (0.1 mg/mL) | Flexible Containers |
+| 0143-9633-01 | 40 mg in 200 mL (0.2 mg/mL) | Flexible Containers |
 
 ## 16.2 Storage and Handling
 

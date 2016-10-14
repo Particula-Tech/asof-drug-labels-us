@@ -21,9 +21,14 @@ Studies have shown that oral nicardipine usually does not alter digoxin plasma c
 
 ## 7.5 Cyclosporine
 
-Concomitant administration of oral nicardipine and cyclosporine results in elevated plasma cyclosporine levels.
+Concomitant administration of oral or intravenous nicardipine and cyclosporine results in elevated plasma cyclosporine levels through nicardipine inhibition of hepatic microsomal enzymes, including CYP3A4.
 Monitor closely plasma concentrations of cyclosporine during nicardipine hydrochloride injection administration, and adjust the dose of cyclosporine accordingly.
 
-## 7.6 In Vitro Interaction
+## 7.6 Tacrolimus
+
+Concomitant administration of intravenous nicardipine and tacrolimus may result in elevated plasma tacrolimus levels through nicardipine inhibition of hepatic microsomal enzymes, including CYP3A4.
+Closely monitor plasma concentrations of tacrolimus during nicardipine administration, and adjust the dose of tacrolimus accordingly.
+
+## 7.7 In Vitro Interaction
 
 The plasma protein binding of nicardipine was not altered when therapeutic concentrations of furosemide, propranolol, dipyridamole, warfarin, quinidine, or naproxen were added to human plasma in vitro.
