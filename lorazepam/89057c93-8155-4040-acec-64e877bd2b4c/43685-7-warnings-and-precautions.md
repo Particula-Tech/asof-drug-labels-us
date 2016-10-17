@@ -1,10 +1,21 @@
 # WARNINGS
 
+Concomitant use of benzodiazepines, including Ativan, and opioids may result in profound sedation, respiratory depression, coma, and death.
+Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
+
+Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioids alone.
+If a decision is made to prescribe Ativan concomitantly with opioids, prescribe the lowest effective dosages and minimum durations of concomitant use, and follow patients closely for signs and symptoms of respiratory depression and sedation.
+In patients already receiving an opioid analgesic, prescribe a lower initial dose of Ativan than indicated in the absence of an opioid and titrate based on clinical response.
+If an opioid is initiated in a patient already taking Ativan, prescribe a lower initial dose of the opioid and titrate based upon clinical response.
+
+Advise both patients and caregivers about the risks of respiratory depression and sedation when Ativan is used with opioids.
+Advise patients not to drive or operate heavy machinery until the effects of concomitant use with the opioid have been determined (see PRECAUTIONS, Clinically Significant Drug Interactions).
+
 Pre-existing depression may emerge or worsen during use of benzodiazepines including lorazepam.
 Ativan (lorazepam) is not recommended for use in patients with a primary depressive disorder or psychosis.
 
 Use of benzodiazepines, including lorazepam, both used alone and in combination with other CNS depressants, may lead to potentially fatal respiratory depression.
-(See PRECAUTIONS Clinically Significant Drug Interactions).
+(See PRECAUTIONS, Clinically Significant Drug Interactions.)
 
 Use of benzodiazepines, including lorazepam, may lead to physical and psychological dependence.
 
@@ -35,8 +46,7 @@ Lorazepam may have abuse potential, especially in patients with a history of dru
 
 In patients with depression, a possibility for suicide should be borne in mind; benzodiazepines should not be used in such patients without adequate antidepressant therapy.
 
-Lorazepam should be used with caution in patients with compromised respiratory function (e.g.
-COPD, sleep apnea syndrome).
+Lorazepam should be used with caution in patients with compromised respiratory function (e.g., COPD, sleep apnea syndrome).
 
 Elderly or debilitated patients may be more susceptible to the sedative effects of lorazepam.
 Therefore, these patients should be monitored frequently and have their dosage adjusted carefully according to patient response; the initial dosage should not exceed 2 mg.
@@ -55,7 +65,7 @@ Esophageal dilation occurred in rats treated with lorazepam for more than one ye
 The no-effect dose was 1.25 mg/kg/day (approximately 6 times the maximum human therapeutic dose of 10 mg per day).
 The effect was reversible only when the treatment was withdrawn within two months of first observation of the phenomenon.
 The clinical significance of this is unknown.
-However, use of lorazepam for prolonged periods and in geriatric patients requires caution, and there should be frequent monitoring for symptoms of upper G.I. disease.
+However, use of lorazepam for prolonged periods and in geriatric patients requires caution, and there should be frequent monitoring for symptoms of upper GI disease.
 
 Safety and effectiveness of Ativan (lorazepam) in children of less than 12 years have not been established.
 
@@ -69,6 +79,11 @@ Some patients on Ativan (lorazepam) have developed leukopenia, and some have had
 As with other benzodiazepines, periodic blood counts and liver function tests are recommended for patients on long-term therapy.
 
 ## Clinically Significant Drug Interactions
+
+The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration.
+Benzodiazepines interact at GABAA sites and opioids interact primarily at mu receptors.
+When benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory depression exists.
+Limit dosage and duration of concomitant use of benzodiazepines and opioids, and monitor patients closely for respiratory depression and sedation.
 
 The benzodiazepines, including Ativan (lorazepam), produce increased CNS-depressant effects when administered with other CNS depressants such as alcohol, barbiturates, antipsychotics, sedative/hypnotics, anxiolytics, antidepressants, narcotic analgesics, sedative antihistamines, anticonvulsants, and anesthetics.
 
