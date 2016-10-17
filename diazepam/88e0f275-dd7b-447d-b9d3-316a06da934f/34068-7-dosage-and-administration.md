@@ -6,7 +6,7 @@ This section is intended primarily for the prescriber; however, the prescriber s
 
 A decision to prescribe Diazepam rectal gel involves more than the diagnosis and the selection of the correct dose for the patient.
 
-First, the prescriber must be convinced from historical reports and/or personal observations that the patient exhibits the characteristic identifiable seizure cluster that can be distinguished from the patient¹s usual seizure activity by the caregiver who will be responsible for administering Diazepam rectal gel.
+First, the prescriber must be convinced from historical reports and/or personal observations that the patient exhibits the characteristic identifiable seizure cluster that can be distinguished from the patient’s usual seizure activity by the caregiver who will be responsible for administering Diazepam rectal gel.
 
 Second, because Diazepam rectal gel is only intended for adjunctive use, the prescriber must ensure that the patient is receiving an optimal regimen of standard anti-epileptic drug treatment and is, nevertheless, continuing to experience these characteristic episodes.
 
@@ -45,11 +45,11 @@ The safety of this strategy has been established in clinical trials.
 
 The rectal delivery system includes a plastic applicator with a flexible, molded tip available in two lengths.
 The Diastat® AcuDial™ 10-mg syringe is available with a 4.4 cm tip and the Diastat® AcuDial™ 20 mg syringe is available with a 6.0 cm tip.
-Diastat® 2.5mg is also available with a 4.4 cm tip.
+Diastat® 2.5 mg is also available with a 4.4 cm tip.
 
 In elderly and debilitated patients, it is recommended that the dosage be adjusted downward to reduce the likelihood of ataxia or oversedation.
 
-The prescribed dose of Diazepam rectal gel should be adjusted by the physician periodically to reflect changes in the patient¹s age or weight.
+The prescribed dose of Diazepam rectal gel should be adjusted by the physician periodically to reflect changes in the patient’s age or weight.
 
 The Diastat® 2.5 mg dose may also be used as a partial replacement dose for patients who may expel a portion of the first dose.
 

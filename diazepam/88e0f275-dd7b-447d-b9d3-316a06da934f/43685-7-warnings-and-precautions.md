@@ -4,6 +4,15 @@
 
 Diazepam rectal gel should only be administered by caregivers who in the opinion of the prescribing physician 1) are able to distinguish the distinct cluster of seizures (and/or the events presumed to herald their onset) from the patient’s ordinary seizure activity, 2) have been instructed and judged to be competent to administer the treatment rectally, 3) understand explicitly which seizure manifestations may or may not be treated with diazepam rectal gel, and 4) are able to monitor the clinical response and recognize when that response is such that immediate professional medical evaluation is required.
 
+## Risks from Concomitant Use with Opioids
+
+Concomitant use of benzodiazepines, including Diastat and Diastat AcuDial, and opioids may result in profound sedation, respiratory depression, coma, and death.
+Because of these risks, reserve concomitant prescribing of benzodiazepines and opioids for use in patients for whom alternative treatment options are inadequate.
+
+Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioids alone.
+If a decision is made to prescribe Diastat or Diastat AcuDial concomitantly with opioids, prescribe the lowest effective dosages and minimum durations of concomitant use, and follow patients closely for signs and symptoms of respiratory depression and sedation.
+Advise both patients and caregivers about the risks of respiratory depression and sedation when Diastat or Diastat AcuDial is used with opioids (see PRECAUTIONS).
+
 ## CNS Depression
 
 Because diazepam rectal gel produces CNS depression, patients receiving this drug who are otherwise capable and qualified to do so should be cautioned against engaging in hazardous occupations requiring mental alertness, such as operating machinery, driving a motor vehicle, or riding a bicycle until they have completely returned to their level of baseline functioning.
@@ -62,6 +71,12 @@ Tonic status epilepticus has been precipitated in patients treated with IV diaze
 
 # PRECAUTIONS
 
+## Information to Be Communicated by the Prescriber to the Caregiver
+
+Risks from Concomitant Use with Opioids:
+
+Inform patients and caregivers that potentially fatal additive effects may occur if Diastat or Diastat AcuDial is used with opioids and not to use such drugs concomitantly unless supervised by a health care provider (see WARNINGS and PRECAUTIONS, Drug Interactions).
+
 ## Caution in Renally Impaired Patients
 
 Metabolites of Diazepam rectal gel are excreted by the kidneys; to avoid their excess accumulation, caution should be exercised in the administration of the drug to patients with impaired renal function.
@@ -95,13 +110,13 @@ Prescribers should advise caregivers that they expect to be informed immediately
 
 Interference With Cognitive and Motor Performance: Because benzodiazepines have the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that Diazepam rectal gel therapy does not affect them adversely.
 
-Pregnancy: Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy with Diazepam rectal gel (seeWARNINGS section).
+Pregnancy: Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy with Diazepam rectal gel (see WARNINGS section).
 
 Nursing: Because diazepam and its metabolites may be present in human breast milk for prolonged periods of time after acute use of Diazepam rectal gel, patients should be advised not to breast-feed for an appropriate period of time after receiving treatment with Diazepam rectal gel.
 
 ## Concomitant Medication
 
-Although Diazepam rectal gel is indicated for use solely on an intermittent basis, the potential for a synergistic CNS-depressant effect when used simultaneously with alcohol or other CNS-depressants must be considered by the prescribing physician, and appropriate recommendations made to the patient and/or caregiver.
+Although Diazepam rectal gel is indicated for use solely on an intermittent basis, the potential or a synergistic CNS-depressant effect when used simultaneously with alcohol or other CNS-depressants must be considered by the prescribing physician, and appropriate recommendations made to the patient and/or caregiver.
 
 ## Drug Interactions
 
@@ -114,6 +129,11 @@ Valproate may potentiate the CNS-depressant effects of diazepam.
 
 There have been no clinical studies or reports in literature to evaluate the interaction of rectally administered diazepam with other drugs.
 As with all drugs, the potential for interaction by a variety of mechanisms is a possibility.
+
+Effect of Concomitant Use of Benzodiazepines and Opioids: The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration.
+Benzodiazepines interact at GABAA sites, and opioids interact primarily at mu receptors.
+When benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory depression exists.
+Limit dosage and duration of concomitant use of benzodiazepines and opioids, and follow patients closely for respiratory depression and sedation.
 
 Effect of Other Drugs on Diazepam Metabolism: In vitro studies using human liver preparations suggest that CYP2C19 and CYP3A4 are the principal isozymes involved in the initial oxidative metabolism of diazepam.
 Therefore, potential interactions may occur when diazepam is given concurrently with agents that affect CYP2C19 and CYP3A4 activity.

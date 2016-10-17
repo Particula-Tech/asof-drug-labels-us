@@ -24,14 +24,14 @@ Diastat®AcuDial™
 
 INSTRUCTIONS FOR CAREGIVERS UPON RECEIPT FROM PHARMACY
 
-1. Remove the syringe from the case.
-2. Confirm the dose prescribed by your doctor is visible and if known, is correct.
+- •Remove the syringe from the case.
+- •Confirm the dose prescribed by your doctor is visible and if known, is correct.
 
 FOR EACH SYRINGE:
 
-1. Confirm that the prescribed dose is visible in the dose display window.
-2. Confirm that the green “READY” band is visible.
-3. Return the syringe to the case.
+- •Confirm that the prescribed dose is visible in the dose display window.
+- •Confirm that the green “READY” band is visible.
+- •Return the syringe to the case.
 
 SEE PHARMACIST IF YOU HAVE ANY QUESTIONS ABOUT THESE INSTRUCTIONS.
 
@@ -39,11 +39,11 @@ The instructions are also available on the bottom of each drug product package.
 
 CAUTION: Federal law prohibits the transfer of this drug to any person other than the patient for whom it was prescribed.
 
-Valium® is a registered trademark of Roche Pharmaceuticals.
+Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807
+By: DPT Laboratories, Ltd. San Antonio, TX 78215 USA
 
-By: DPT Laboratories, LTD. San Antonio, TX 78215
+Valium® is a registered trademark of Hoffman-LaRoche.
 
-9435000 Rev.
-12/14
+update p/n Rev.
+9/16
