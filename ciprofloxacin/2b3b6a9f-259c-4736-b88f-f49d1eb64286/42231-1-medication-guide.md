@@ -159,7 +159,7 @@ Especially tell your healthcare provider if you take:
     - duloxetine
   - products that contain caffeine
     - probenecid (Probalan®, Col-probenecid®)
-      - certain medicines may keep ciprofloxacin tablets from working correctly.
+      - Certain medicines may keep ciprofloxacin tablets from working correctly.
         Take ciprofloxacin tablets either 2 hours before or 6 hours after taking these medicines, vitamins, or supplements:
         - an antacid, multivitamin, or other medicine or supplements that has magnesium, calcium, aluminum, iron, or zinc
         - sucralfate (Carafate®)
@@ -225,7 +225,8 @@ Skin rash may happen in people taking ciprofloxacin tablets even after only 1 do
 Stop taking ciprofloxacin tablets at the first sign of a skin rash and call your healthcare provider.
 Skin rash may be a sign of a more serious reaction to ciprofloxacin tablets.
 
-- Liver damage (hepatotoxicity).Hepatotoxicity can happen in people who take ciprofloxacin tablets.
+- Liver damage (hepatotoxicity).
+  Hepatotoxicity can happen in people who take ciprofloxacin tablets.
   Call your healthcare provider right away if you have unexplained symptoms such as:
   - nausea or vomiting
   - stomach pain
@@ -293,4 +294,4 @@ What are the ingredients in ciprofloxacin tablets?
 Active ingredient: ciprofloxacin hydrochloride Inactive ingredients: colloidal silicon dioxide, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, povidone, sodium starch glycolate, and titanium dioxide.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 The brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
-Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 090, India Revised: 08/2016
+Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 090, India Revised: 10/2016
