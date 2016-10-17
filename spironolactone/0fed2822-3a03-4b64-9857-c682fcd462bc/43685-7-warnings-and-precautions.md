@@ -157,8 +157,6 @@ ALDACTONE (100 mg/kg/day), administered i.p. to female mice during a two-week co
 
 ### Teratogenic effects
 
-#### Pregnancy Category C
-
 Teratology studies with ALDACTONE have been carried out in mice and rabbits at doses of up to 20 mg/kg/day.
 On a body surface area basis, this dose in the mouse is substantially below the maximum recommended human dose and, in the rabbit, approximates the maximum recommended human dose.
 No teratogenic or other embryotoxic effects were observed in mice, but the 20 mg/kg dose caused an increased rate of resorption and a lower number of live fetuses in rabbits.
