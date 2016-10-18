@@ -15,7 +15,7 @@ In the placebo-controlled studies, a total of 485 patients with Parkinson's dise
 
 Placebo-Controlled Experience
 
-The most commonly observed adverse reactions (those occurring at an incidence of greater than 5% in the NORTHERA group and with at least a 3% greater incidence in the NORTHERA group than in the placebo group) in NORTHERA-treated patients during the three placebo-controlled trials were headache, dizziness, nausea, hypertension.
+The most commonly observed adverse reactions (those occurring at an incidence of greater than 5% in the NORTHERA group and with at least a 3% greater incidence in the NORTHERA group than in the placebo group) in NORTHERA-treated patients during the three placebo-controlled trials were headache, dizziness, nausea, and hypertension.
 The most common adverse reactions leading to discontinuation from NORTHERA were hypertension or increased blood pressure and nausea.
 
 Table 1.
@@ -31,7 +31,14 @@ Most Common Adverse Reactions Occurring More Frequently in the NORTHERA Group
 | Hypertension | 0 | 2 (1.5) | 1 (0.9) | 8 (7.0) |
 
 Note: n=number of patients.
-Table displays adverse reactions that were reported in greater than 5% of patients in the NORTHERA group and with at least a 3% greater incidence in the NORTHERA group than in the placebo group.
+Adverse reactions that were reported in greater than 5% of patients in the NORTHERA group and with at least a 3% greater incidence in the NORTHERA group than in the placebo group were from Study 306.
 
 Long-Term, Open-Label Trials with NORTHERA In the long-term, open-label extension studies, a total of 422 patients, mean age 65 years, were treated with NORTHERA for a mean total exposure of approximately one year.
 The commonly reported adverse events were falls (24%), urinary tract infections (15%), headache (13%), syncope (13%), and dizziness (10%).
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of NORTHERA.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Cardiac Disorders: Chest pain Eye Disorders: Blurred vision Gastrointestinal Disorders: Pancreatitis, abdominal pain, vomiting, diarrhea General Disorders and Administration Site Conditions: Fatigue Psychiatric Disorders: Psychosis, hallucination, delirium, agitation, memory disorder

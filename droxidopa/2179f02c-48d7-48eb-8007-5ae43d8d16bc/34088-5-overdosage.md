@@ -2,8 +2,9 @@
 
 ## 10.1 Symptoms
 
-There was one case of overdose reported during post-marketing surveillance in Japan.
-The patient ingested 7,700 mg of NORTHERA and experienced a hypertensive crisis that resolved promptly with treatment.
+There have been cases of overdose reported during postmarketing surveillance.
+A patient ingested 7,700 mg of droxidopa and experienced a hypertensive crisis that resolved promptly with treatment.
+Another patient treated with a total daily dose of 2,700 mg of NORTHERA experienced hypertension and an intracranial hemorrhage.
 
 ## 10.2 Treatment
 

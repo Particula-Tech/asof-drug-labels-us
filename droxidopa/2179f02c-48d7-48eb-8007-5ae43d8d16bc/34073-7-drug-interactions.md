@@ -7,3 +7,8 @@ Administering NORTHERA in combination with other agents that increase blood pres
 ## 7.2 Parkinson's Medications
 
 Dopa-decarboxylase inhibitors may require dose adjustments for NORTHERA.
+
+## 7.3 Non-selective MAO Inhibitors
+
+The concomitant use of selective MAO-B inhibitors, such as rasagiline or selegiline, was permitted in the NORTHERA clinical trials.
+However, based on mechanism of action, the use of non-selective MAO inhibitors and linezolid should be avoided as there is a potential for increased blood pressure when taken with NORTHERA.

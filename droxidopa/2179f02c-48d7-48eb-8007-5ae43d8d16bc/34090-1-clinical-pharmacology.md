@@ -25,23 +25,35 @@ Distribution Pre-clinical studies suggest that droxidopa can cross the blood bra
 Droxidopa exhibits plasma protein binding of 75% at 100 ng/mL and 26% at 10,000 ng/mL.
 The estimated apparent volume of distribution of droxidopa is about 200 L in humans.
 
-Metabolism The metabolism of droxidopa is mediated by catecholamine pathway and not through the cytochrome P450 system.
+Elimination
+
+The total clearance of droxidopa after oral administration (CL/F) was approximately 400 mL/hr following administration of a single 300 mg dose.
+
+Metabolism
+
+The metabolism of droxidopa is mediated by catecholamine pathway and not through the cytochrome P450 system.
 Droxidopa is initially converted to methoxylated dihydroxyphenylserine (3-OM-DOPS), a major metabolite, by catechol-O-methyltransferase (COMT), to norepinephrine by DOPA decarboxylase (DDC), or to protocatechualdehyde by DOPS aldolase.
 After oral dosing in humans, plasma norepinephrine levels peak within 3 to 4 hours but are generally very low (less than 1 ng/mL) and variable with no consistent relationship with dose.
 The contribution of the metabolites of droxidopa other than norepinephrine to its pharmacological effects is not well understood.
 
-Excretion The mean elimination half-life of droxidopa is approximately 2.5 hours in humans.
-The major route of elimination of droxidopa and its metabolites is via the kidneys in both animals and in humans.
-Studies in animals showed that ~75% of the radiolabeled dose was excreted in urine within 24 hours of oral dosing.
+Excretion
 
-Special Populations There are no clinically relevant effects of age, body mass index, or sex on the pharmacokinetics of droxidopa.
+The mean elimination half-life of droxidopa is approximately 2.5 hours in humans.
+The major route of elimination of droxidopa and its metabolites is via the kidneys in both animals and in humans.
+Studies in animals with radiolabeled drug showed that ~75% of the administered radioactivity was excreted in urine within 24 hours of oral dosing.
+
+Specific Populations
+
+There are no clinically relevant effects of age, body mass index, or sex on the pharmacokinetics of droxidopa.
 A population pharmacokinetic analysis suggests that hepatic function, assessed by aspartate aminotransferase (AST), alanine aminotransferase (ALT), alkaline phosphatase, and total bilirubin, did not influence the exposure to droxidopa.
 The controlled clinical trials included patients with mild to moderate renal impairment.
 No dose adjustments are required in patients with mild to moderate renal impairment.
 
-Drug Interactions No dedicated drug-drug interaction studies were performed for droxidopa.
+Drug Interaction Studies
+
+No dedicated drug-drug interaction studies were performed for droxidopa.
 Patients in the Phase 3 trials with NORTHERA received concomitant levodopa/carbidopa, dopamine agonists, MAO-B inhibitors, COMT inhibitors and other medications used to treat Parkinson’s disease.
 Carbidopa, a peripheral dopa-decarboxylase inhibitor, could prevent the conversion of NORTHERA to norepinephrine outside of the central nervous system (CNS).
-Patients taking NORTHERA with L-DOPA/dopa-decarboxylase inhibitor combination drugs had decreased clearance of NORTHERA, an increase in exposure (AUC) to droxidopa of approximately 100%, and an increase in exposure to 3-OM-DOPS of approximately 50%.
+Patients taking NORTHERA with L-DOPA/dopa-decarboxylase inhibitor combination drugs had decreased clearance of NORTHERA, an increase in overall exposure (AUC) to droxidopa of approximately 100%, and an increase in overall exposure to 3-OM-DOPS of approximately 50%.
 However, in clinical trials, it was found that the decreased clearance was not associated with a significant need for a different treatment dose or increases in associated adverse events.
 Dopamine agonists, amantadine derivatives, and MAO-B inhibitors do not appear to affect NORTHERA clearance, and no dose adjustments are required.

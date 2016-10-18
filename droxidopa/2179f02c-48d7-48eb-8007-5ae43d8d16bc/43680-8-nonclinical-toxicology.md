@@ -8,7 +8,9 @@ Droxidopa was clastogenic in Chinese hamster ovary cells (chromosome aberration 
 
 Studies in rats show that droxidopa has no effect on fertility.
 
-## 13.2 Animal Toxicology and Pharmacology
+## 13.2 Animal Toxicology and/or Pharmacology
 
-Rats and mice treated for 52 and 80 weeks, respectively, at doses similar to human doses (100 to 300 mg/kg/day for rats and 300 to 1,000 mg/kg/day for mice) had increased incidences of renal and cardiac lesions (rats and mice) and deaths (rats only).
-No signs of toxicity were observed in monkeys or dogs given droxidopa for 13 weeks at doses 32 times (3,000 mg/kg/day) and 37 times (2,000 mg/kg/day), respectively, the maximum recommended total daily dose of 1,800 mg in a 60 kg patient, when based on body surface area.
+In long-term chronic toxicity studies, rats and mice treated for 52 and 80 weeks, respectively, at doses up to 300 mg/kg/day in rats and 1,000 mg/kg/day in mice had increased incidences of renal and cardiac lesions (rats and mice) and deaths (rats only).
+The doses at which these effects were not seen represented 0.2 and 0.3 times, in rats and mice, respectively, the maximum recommended total daily dose of 1,800 mg in a 60 kg patient, when based on body surface area.
+
+No signs of toxicity were observed in monkeys or dogs given droxidopa for 13 weeks at doses 32 times (3,000 mg/kg/day) and 37 times (2,000 mg/kg/day), respectively, the maximum human dose.
