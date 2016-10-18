@@ -32,48 +32,52 @@ ZYPREXA RELPREVV is not approved for elderly patients with dementia-related psyc
 Patients and caregivers should be counseled that a potentially fatal symptom complex sometimes referred to as NMS has been reported in association with administration of antipsychotic drugs, including ZYPREXA.
 Signs and symptoms of NMS include hyperpyrexia, muscle rigidity, altered mental status, and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmia) [see Warnings and Precautions (5.5)].
 
-## 17.5 Hyperglycemia and Diabetes Mellitus
+## 17.5 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
+
+Patients should be advised to report to their health care provider at the earliest onset of any signs or symptoms that may be associated with Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) [see Warnings and Precautions (5.6)].
+
+## 17.6 Hyperglycemia and Diabetes Mellitus
 
 Patients should be advised of the potential risk of hyperglycemia-related adverse reactions related to ZYPREXA RELPREVV.
 Patients should be monitored regularly for worsening of glucose control.
-Patients who have diabetes should follow their doctor's instructions about how often to check their blood sugar while taking ZYPREXA RELPREVV [see Warnings and Precautions (5.6)].
+Patients who have diabetes should follow their doctor's instructions about how often to check their blood sugar while taking ZYPREXA RELPREVV [see Warnings and Precautions (5.7)].
 
-## 17.6 Dyslipidemia
+## 17.7 Dyslipidemia
 
 Patients should be counseled that dyslipidemia has occurred during treatment with ZYPREXA RELPREVV.
-Patients should have their lipid profile monitored regularly [see Warnings and Precautions (5.6)].
+Patients should have their lipid profile monitored regularly [see Warnings and Precautions (5.7)].
 
-## 17.7 Weight Gain
+## 17.8 Weight Gain
 
 Patients should be counseled that weight gain has occurred during treatment with ZYPREXA RELPREVV.
-Patients should have their weight monitored regularly [see Warnings and Precautions (5.6)].
+Patients should have their weight monitored regularly [see Warnings and Precautions (5.7)].
 
-## 17.8 Orthostatic Hypotension
+## 17.9 Orthostatic Hypotension
 
-Patients should be advised of the risk of orthostatic hypotension, and in association with the use of concomitant drugs that may potentiate the orthostatic effect of ZYPREXA RELPREVV, e.g., diazepam or alcohol [see Warnings and Precautions (5.8) and Drug Interactions (7)].
+Patients should be advised of the risk of orthostatic hypotension, and in association with the use of concomitant drugs that may potentiate the orthostatic effect of ZYPREXA RELPREVV, e.g., diazepam or alcohol [see Warnings and Precautions (5.9) and Drug Interactions (7)].
 Patients should be advised to change positions carefully to help prevent orthostatic hypotension, and to lie down if they feel dizzy or faint, until they feel better.
-Patients should be advised to call their doctor if they experience any of the following signs and symptoms associated with orthostatic hypotension: dizziness, fast or slow heart beat, or fainting.
+Patients should be advised to call their doctor if they experience any of the following signs and symptoms associated with orthostatic hypotension: dizziness, fast or slow heartbeat, or fainting.
 
-## 17.9 Potential for Cognitive and Motor Impairment
+## 17.10 Potential for Cognitive and Motor Impairment
 
 Because ZYPREXA RELPREVV has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that ZYPREXA RELPREVV therapy does not affect them adversely.
-Additionally, due to the risk of post-injection delirium/sedation syndrome, patients should not drive or operate heavy machinery for the remainder of the day of each injection [see Dosage and Administration (2.1) and Warnings and Precautions (5.1, 5.12)].
+Additionally, due to the risk of post-injection delirium/sedation syndrome, patients should not drive or operate heavy machinery for the remainder of the day of each injection [see Dosage and Administration (2.1) and Warnings and Precautions (5.1, 5.13)].
 
-## 17.10 Body Temperature Regulation
+## 17.11 Body Temperature Regulation
 
 Patients should be advised regarding appropriate care in avoiding overheating and dehydration.
-Patients should be advised to call their doctor right away if they become severely ill and have some or all of these symptoms of dehydration: sweating too much or not at all, dry mouth, feeling very hot, feeling thirsty, not able to produce urine [see Warnings and Precautions (5.13)].
+Patients should be advised to call their doctor right away if they become severely ill and have some or all of these symptoms of dehydration: sweating too much or not at all, dry mouth, feeling very hot, feeling thirsty, not able to produce urine [see Warnings and Precautions (5.14)].
 
-## 17.11 Concomitant Medication
+## 17.12 Concomitant Medication
 
 Patients should be advised to inform their physicians if they are taking, or plan to take, ZYPREXA or Symbyax® (olanzapine/fluoxetine combination).
 Patients should also be advised to inform their physicians if they are taking, plan to take, or have stopped taking any prescription or over-the-counter drugs, including herbal supplements, since there is a potential for interactions [see Drug Interactions (7)].
 
-## 17.12 Alcohol
+## 17.13 Alcohol
 
 Patients should be advised to avoid alcohol while taking ZYPREXA RELPREVV [see Drug Interactions (7.1)].
 
-## 17.13 Use in Specific Populations
+## 17.14 Use in Specific Populations
 
 Pregnancy — Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy with ZYPREXA RELPREVV [see Use in Specific Populations (8.1)].
 
@@ -81,11 +85,11 @@ Nursing Mothers — Patients should be advised not to breast-feed an infant if t
 
 Pediatric Use — Safety and effectiveness of ZYPREXA RELPREVV in patients under 18 years have not been established [see Use in Specific Populations (8.4)].
 
-Literature revised September 4, 2015
+Literature revised October 6, 2016
 
 Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
 
-Copyright © 2009, 2015, Eli Lilly and Company.
+Copyright © 2009, 2016, Eli Lilly and Company.
 All rights reserved.
 
-ZYPR-0003-USPI-20150904
+ZYPR-0004-USPI-20161006

@@ -32,7 +32,7 @@ It is recommended that women receiving ZYPREXA RELPREVV should not breast-feed.
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of ZYPREXA RELPREVV in children and adolescent patients have not been established [see Warnings and Precautions (5.6)].
+Safety and effectiveness of ZYPREXA RELPREVV in children and adolescent patients have not been established [see Warnings and Precautions (5.7)].
 
 Compared to patients from adult clinical trials, adolescents treated with oral ZYPREXA were likely to gain more weight, experience increased sedation, and have greater increases in total cholesterol, triglycerides, LDL cholesterol, prolactin and hepatic aminotransferase levels.
 
