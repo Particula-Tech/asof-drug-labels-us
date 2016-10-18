@@ -73,6 +73,10 @@ Prolongation in QTc ≥500 msec was not observed among mirtazapine-treated patie
 Mirtazapine was associated with a mean increase in heart rate of 3.4 bpm, compared to 0.8 bpm for placebo.
 The clinical significance of these changes is unknown.
 
+The effect of mirtazapine on QTc interval was assessed in a clinical randomized trial with placebo and positive (moxifloxacin) controls involving 54 healthy volunteers using exposure response analysis.
+This trial showed a positive relationship between mirtazapine concentrations and prolongation of the QTc interval.
+However, the degree of QT prolongation observed with both 45 mg (therapeutic) and 75 mg (supratherapeutic) doses of mirtazapine was not at a level generally considered to be clinically meaningful.
+
 ## Other Adverse Events Observed During the Premarketing Evaluation of Mirtazapine Tablets
 
 During its premarketing assessment, multiple doses of mirtazapine tablets were administered to 2796 patients in clinical studies.
@@ -140,9 +144,8 @@ Frequent: urinary tract infection; infrequent: kidney calculus, cystitis, dysuri
 
 ## Other Adverse Events Observed During Postmarketing Evaluation of Mirtazapine Tablets
 
-Adverse events reported since market introduction, which were temporally (but not necessarily causally) related to mirtazapine therapy, include four cases of the ventricular arrhythmia torsades de pointes.
-In three of the four cases, however, concomitant drugs were implicated.
-All patients recovered.
+Adverse events reported since market introduction, which were temporally (but not necessarily causally) related to mirtazapine therapy, include cases of the ventricular arrhythmia Torsades de Pointes.
+In the majority of these cases, however, concomitant drugs were implicated.
 
 Cases of severe skin reactions, including Stevens-Johnson syndrome, bullous dermatitis, erythema multiforme and toxic epidermal necrolysis have also been reported.
 
