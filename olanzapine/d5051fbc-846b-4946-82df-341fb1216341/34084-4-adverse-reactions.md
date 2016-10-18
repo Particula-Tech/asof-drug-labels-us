@@ -142,7 +142,7 @@ Dose Dependency of Adverse Reactions
 A dose group difference has been observed for fatigue, dizziness, weight gain and prolactin elevation.
 In a single 8-week randomized, double-blind, fixed-dose study comparing 10 (N=199), 20 (N=200) and 40 (N=200) mg/day of oral olanzapine in adult patients with schizophrenia or schizoaffective disorder, incidence of fatigue (10 mg/day: 1.5%; 20 mg/day: 2.1%; 40 mg/day: 6.6%) was observed with significant differences between 10 vs 40 and 20 vs 40 mg/day.
 The incidence of dizziness (10 mg/day: 2.6%; 20 mg/day: 1.6%; 40 mg/day: 6.6%) was observed with significant differences between 20 vs 40 mg.
-Dose group differences were also noted for weight gain and prolactin elevation [see Warnings and Precautions (5.4, 5.13)].
+Dose group differences were also noted for weight gain and prolactin elevation [see Warnings and Precautions (5.5, 5.14)].
 
 The following table addresses dose relatedness for other adverse reactions using data from a schizophrenia trial involving fixed dosage ranges of oral olanzapine.
 It enumerates the percentage of patients with treatment-emergent adverse reactions for the 3 fixed-dose range groups and placebo.

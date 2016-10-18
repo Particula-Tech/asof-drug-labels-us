@@ -159,6 +159,9 @@ Serious side effects may happen when you take ZYPREXA, including:
   - rigid muscles
   - confusion
   - changes in your breathing, heartbeat, and blood pressure.
+- Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS): DRESS can occur with ZYPREXA.
+  Features of DRESS may include rash, fever, swollen glands and other internal organ involvement such as liver, kidney, lung and heart.
+  DRESS is sometimes fatal; therefore, tell your doctor immediately if you experience any of these signs.
 - Tardive Dyskinesia: This condition causes body movements that keep happening and that you can not control.
   These movements usually affect the face and tongue.
   Tardive dyskinesia may not go away, even if you stop taking ZYPREXA.
@@ -222,11 +225,11 @@ ZYDIS — gelatin, mannitol, aspartame, sodium methyl paraben, and sodium propyl
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Medication Guide revised July 26, 2013
+Medication Guide revised October 6, 2016
 
 Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
 
-Copyright © 2009, 2013, Eli Lilly and Company.
+Copyright © 2009, 2016, Eli Lilly and Company.
 All rights reserved.
 
-PV 6925 AMP
+ZYP-0001-MG-20161006

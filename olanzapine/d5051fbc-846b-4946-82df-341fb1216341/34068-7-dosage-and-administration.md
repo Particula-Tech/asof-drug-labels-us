@@ -13,7 +13,7 @@ However, doses above 10 mg/day were not demonstrated to be more efficacious than
 An increase to a dose greater than the target dose of 10 mg/day (i.e., to a dose of 15 mg/day or greater) is recommended only after clinical assessment.
 Olanzapine is not indicated for use in doses above 20 mg/day.
 
-Dosing in Special Populations — The recommended starting dose is 5 mg in patients who are debilitated, who have a predisposition to hypotensive reactions, who otherwise exhibit a combination of factors that may result in slower metabolism of olanzapine (e.g., nonsmoking female patients ≥65 years of age), or who may be more pharmacodynamically sensitive to olanzapine [see Warnings and Precautions (5.12), Drug Interactions (7), and Clinical Pharmacology (12.3)].
+Dosing in Special Populations — The recommended starting dose is 5 mg in patients who are debilitated, who have a predisposition to hypotensive reactions, who otherwise exhibit a combination of factors that may result in slower metabolism of olanzapine (e.g., nonsmoking female patients ≥65 years of age), or who may be more pharmacodynamically sensitive to olanzapine [see Warnings and Precautions (5.13), Drug Interactions (7), and Clinical Pharmacology (12.3)].
 When indicated, dose escalation should be performed with caution in these patients.
 
 Maintenance Treatment — The effectiveness of oral olanzapine, 10 mg/day to 20 mg/day, in maintaining treatment response in schizophrenic patients who had been stable on ZYPREXA for approximately 8 weeks and were then followed for relapse has been demonstrated in a placebo-controlled trial [see Clinical Studies (14.1)].
@@ -77,14 +77,14 @@ A lower dose of 5 or 7.5 mg may be considered when clinical factors warrant [see
 If agitation warranting additional intramuscular doses persists following the initial dose, subsequent doses up to 10 mg may be given.
 However, the efficacy of repeated doses of intramuscular olanzapine for injection in agitated patients has not been systematically evaluated in controlled clinical trials.
 Also, the safety of total daily doses greater than 30 mg, or 10 mg injections given more frequently than 2 hours after the initial dose, and 4 hours after the second dose have not been evaluated in clinical trials.
-Maximal dosing of intramuscular olanzapine (e.g., 3 doses of 10 mg administered 2-4 hours apart) may be associated with a substantial occurrence of significant orthostatic hypotension [see Warnings and Precautions (5.6)].
+Maximal dosing of intramuscular olanzapine (e.g., 3 doses of 10 mg administered 2-4 hours apart) may be associated with a substantial occurrence of significant orthostatic hypotension [see Warnings and Precautions (5.7)].
 Thus, it is recommended that patients requiring subsequent intramuscular injections be assessed for orthostatic hypotension prior to the administration of any subsequent doses of intramuscular olanzapine for injection.
 The administration of an additional dose to a patient with a clinically significant postural change in systolic blood pressure is not recommended.
 
 If ongoing olanzapine therapy is clinically indicated, oral olanzapine may be initiated in a range of 5-20 mg/day as soon as clinically appropriate [see Dosage and Administration (2.1, 2.2)].
 
 Intramuscular Dosing in Special Populations — A dose of 5 mg/injection should be considered for geriatric patients or when other clinical factors warrant.
-A lower dose of 2.5 mg/injection should be considered for patients who otherwise might be debilitated, be predisposed to hypotensive reactions, or be more pharmacodynamically sensitive to olanzapine [see Warnings and Precautions (5.12), Drug Interactions (7), and Clinical Pharmacology (12.3)].
+A lower dose of 2.5 mg/injection should be considered for patients who otherwise might be debilitated, be predisposed to hypotensive reactions, or be more pharmacodynamically sensitive to olanzapine [see Warnings and Precautions (5.13), Drug Interactions (7), and Clinical Pharmacology (12.3)].
 
 Administration of ZYPREXA IntraMuscular — ZYPREXA IntraMuscular is intended for intramuscular use only.
 Do not administer intravenously or subcutaneously.
@@ -176,4 +176,4 @@ ZYPREXA monotherapy is not indicated for treatment of treatment resistant depres
 The starting dose of oral olanzapine 2.5-5 mg with fluoxetine 20 mg should be used for patients with a predisposition to hypotensive reactions, patients with hepatic impairment, or patients who exhibit a combination of factors that may slow the metabolism of olanzapine or fluoxetine in combination (female gender, geriatric age, nonsmoking status), or those patients who may be pharmacodynamically sensitive to olanzapine.
 Dosing modification may be necessary in patients who exhibit a combination of factors that may slow metabolism.
 When indicated, dose escalation should be performed with caution in these patients.
-ZYPREXA and fluoxetine in combination have not been systematically studied in patients over 65 years of age or in patients under 10 years of age [see Warnings and Precautions (5.12), Drug Interactions (7), and Clinical Pharmacology (12.3)].
+ZYPREXA and fluoxetine in combination have not been systematically studied in patients over 65 years of age or in patients under 10 years of age [see Warnings and Precautions (5.13), Drug Interactions (7), and Clinical Pharmacology (12.3)].
