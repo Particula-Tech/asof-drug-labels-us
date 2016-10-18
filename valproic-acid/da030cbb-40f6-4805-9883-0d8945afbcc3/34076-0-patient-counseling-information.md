@@ -19,7 +19,7 @@ Advise women of childbearing potential to discuss pregnancy planning with their 
 
 Hyperammonemia
 
-Inform patients of the signs and symptoms associated with hyperammonemic encephalopathy and be told to inform the prescriber if any of these symptoms occur [see Warnings and Precautions (5.8, 5.9)].
+Inform patients of the signs and symptoms associated with hyperammonemic encephalopathy and to notify the prescriber if any of these symptoms occur [see Warnings and Precautions (5.8, 5.9)].
 
 CNS Depression
 
@@ -35,6 +35,4 @@ Manufactured by Hospira, Inc. Lake Forest, IL 60045 USA
 
 For AbbVie Inc. North Chicago, IL 60064, U.S.A.
 
-Revised: February 2016
-
-EN-4214
+Revised: September 2016
