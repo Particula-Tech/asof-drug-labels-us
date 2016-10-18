@@ -9,7 +9,7 @@ Inform patients of the risk of immune-mediated adverse reactions that may requir
 - •Hepatitis: Advise patients to contact their healthcare provider immediately for jaundice, severe nausea or vomiting, pain on the right side of abdomen, lethargy, or easy bruising or bleeding [see Warnings and Precautions (5.3)].
 - •Endocrinopathies: Advise patients to contact their healthcare provider immediately for signs or symptoms of hypophysitis, adrenal insufficiency, hypothyroidism, hyperthyroidism, and diabetes mellitus [see Warnings and Precautions (5.4)].
 - •Nephritis and Renal Dysfunction: Advise patients to contact their healthcare provider immediately for signs or symptoms of nephritis including decreased urine output, blood in urine, swelling in ankles, loss of appetite, and any other symptoms of renal dysfunction [see Warnings and Precautions (5.5)].
-- •Rash: Advise patients to contact their healthcare provider immediately for rash [see Warnings and Precautions (5.6)].
+- •Skin Adverse Reactions: Advise patients to contact their healthcare provider immediately for rash [see Warnings and Precautions (5.6)].
 - •Encephalitis: Advise patients to contact their healthcare provider immediately for neurological signs or symptoms of encephalitis [see Warnings and Precautions (5.7)].
 - •Infusion Reactions: Advise patients of the potential risk of infusion reaction [see Warnings and Precautions (5.9)].
 - •Complications of allogeneic HSCT after OPDIVO: Advise patients of potential risk of post-transplant complications [see Warnings and Precautions (5.10)].

@@ -5,7 +5,7 @@
 The recommended dose of OPDIVO as a single agent is 240 mg administered as an intravenous infusion over 60 minutes every 2 weeks until disease progression or unacceptable toxicity.
 
 The recommended dose of OPDIVO is 1 mg/kg administered as an intravenous infusion over 60 minutes, followed by ipilimumab on the same day, every 3 weeks for 4 doses [see Clinical Studies (14.1)].
-The recommended subsequent dose of OPDIVO, as a single agent, is 240 mg as an intravenous infusion over 60 minutes every 2 weeks until disease progression or unacceptable toxicity.
+The recommended subsequent dose of OPDIVO, as a single agent, is 240 mg administered as an intravenous infusion over 60 minutes every 2 weeks until disease progression or unacceptable toxicity.
 Review the Full Prescribing Information for ipilimumab prior to initiation.
 
 ## 2.2 Recommended Dosage for NSCLC
@@ -50,8 +50,8 @@ Table 1: Recommended Dose Modifications for OPDIVO
 | Grade 4 hyperglycemia | Permanently discontinue |  |
 | Nephritis and Renal Dysfunction | Serum creatinine more than 1.5 and up to 6 times the upper limit of normal | Withhold dosea |
 | Serum creatinine more than 6 times the upper limit of normal | Permanently discontinue |  |
-| Rash | Grade 3 rash | Withhold dosea |
-| Grade 4 rash | Permanently discontinue |  |
+| Skin | Grade 3 rash or suspected Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN) | Withhold dosea |
+| Grade 4 rash or confirmed SJS or TEN | Permanently discontinue |  |
 | Encephalitis | New-onset moderate or severe neurologic signs or symptoms | Withhold dosea |
 | Immune-mediated encephalitis | Permanently discontinue |  |
 | Other | Other Grade 3 adverse reaction |  |

@@ -7,7 +7,7 @@ The following adverse reactions are discussed in greater detail in other section
 - •Immune-Mediated Hepatitis [see Warnings and Precautions (5.3)]
 - •Immune-Mediated Endocrinopathies [see Warnings and Precautions (5.4)]
 - •Immune-Mediated Nephritis and Renal Dysfunction [see Warnings and Precautions (5.5)]
-- •Immune-Mediated Rash [see Warnings and Precautions (5.6)]
+- •Immune-Mediated Skin Adverse Reactions [see Warnings and Precautions (5.6)]
 - •Immune-Mediated Encephalitis [see Warnings and Precautions (5.7)]
 - •Other Immune-Mediated Adverse Reactions [see Warnings and Precautions (5.8)]
 - •Infusion Reactions [see Warnings and Precautions (5.9)]
@@ -17,11 +17,11 @@ The following adverse reactions are discussed in greater detail in other section
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The data in the Warnings and Precautions section reflect exposure to OPDIVO, as a single agent, for clinically significant adverse reactions in 2166 patients enrolled in Trials 1, 3, 5, 6, 7, 8, 9, a single-arm trial in NSCLC (n=117), or an additional dose-finding study (n=306) administering OPDIVO as a single agent at doses of 0.1 to 10 mg/kg every 2 weeks [see Warnings and Precautions (5.1, 5.8)].
-In addition, clinically significant adverse reactions of OPDIVO with ipilimumab were evaluated in 501 patients with melanoma enrolled in Trial 4 (n=94), Trial 7 (n=313), or an additional dose-finding study (n=94) administering OPDIVO with ipilimumab at doses of OPDIVO ranging from 0.3 to 3 mg/kg and doses of ipilimumab ranging from 1 to 3 mg/kg, supplemented by immune-mediated adverse reaction reports in ongoing clinical trials [see Warnings and Precautions (5.1, 5.8)].
+The data in the Warnings and Precautions section reflect exposure to OPDIVO, as a single agent, for clinically significant adverse reactions in 1994 patients enrolled in Trials 1 through 8 or a single-arm trial in NSCLC (n=117) administering OPDIVO as a single agent [see Warnings and Precautions (5.1, 5.8)].
+In addition, clinically significant adverse reactions of OPDIVO administered with ipilimumab were evaluated in 407 patients with melanoma enrolled in Trial 6 (n=313) or a Phase 2 randomized study (n=94), administering OPDIVO with ipilimumab, supplemented by immune-mediated adverse reaction reports in ongoing clinical trials [see Warnings and Precautions (5.1, 5.8)].
 
-The data described below reflect exposure to OPDIVO as a single agent in Trials 1, 5, and 7, and to OPDIVO with ipilimumab in Trial 7, which are randomized, active-controlled trials conducted in patients with unresectable or metastatic melanoma.
-Also described below are single-agent OPDIVO data from Trial 3, which is a randomized trial in patients with metastatic non-squamous NSCLC, Trial 6, which is a randomized trial in patients with advanced RCC, and Trials 8 and 9, which are open-label, multiple-cohort trials in patients with cHL.
+The data described below reflect exposure to OPDIVO as a single agent in Trials 1, 4, and 6, and to OPDIVO with ipilimumab in Trial 6, which are randomized, active-controlled trials conducted in patients with unresectable or metastatic melanoma.
+Also described below are single-agent OPDIVO data from Trials 2 and 3, which are randomized trials in patients with metastatic NSCLC, Trial 5, which is a randomized trial in patients with advanced RCC, and Trials 7 and 8, which are open-label, multiple-cohort trials in patients with cHL.
 
 ### Unresectable or Metastatic Melanoma
 
@@ -92,9 +92,9 @@ Table 3: Laboratory Abnormalities Worsening from Baseline Occurring in ≥10% of
 
 #### Previously Untreated Metastatic Melanoma
 
-##### Trial 5
+##### Trial 4
 
-The safety of OPDIVO was also evaluated in Trial 5, a randomized, double-blind, active-controlled trial in which 411 previously untreated patients with BRAF V600 wild-type unresectable or metastatic melanoma received OPDIVO 3 mg/kg every 2 weeks (n=206) or dacarbazine 1000 mg/m2 every 3 weeks (n=205) [see Clinical Studies (14.1)].
+The safety of OPDIVO was also evaluated in Trial 4, a randomized, double-blind, active-controlled trial in which 411 previously untreated patients with BRAF V600 wild-type unresectable or metastatic melanoma received OPDIVO 3 mg/kg every 2 weeks (n=206) or dacarbazine 1000 mg/m2 every 3 weeks (n=205) [see Clinical Studies (14.1)].
 The median duration of exposure was 6.5 months (range: 1 day to 16.6 months) in OPDIVO-treated patients.
 In this trial, 47% of patients received OPDIVO for greater than 6 months and 12% of patients received OPDIVO for greater than 1 year.
 
@@ -135,7 +135,7 @@ Other clinically important adverse reactions in less than 10% of patients treate
 
 Nervous System Disorders: peripheral neuropathy
 
-Table 5: Laboratory Abnormalities Worsening from Baseline Occurring in ≥10% of OPDIVO-Treated Patients and at a Higher Incidence than in the Dacarbazine Arm (Between Arm Difference of ≥5% [All Grades] or ≥2% [Grades 3-4]) (Trial 5)
+Table 5: Laboratory Abnormalities Worsening from Baseline Occurring in ≥10% of OPDIVO-Treated Patients and at a Higher Incidence than in the Dacarbazine Arm (Between Arm Difference of ≥5% [All Grades] or ≥2% [Grades 3-4]) (Trial 4)
 
 | Laboratory Abnormality | Percentage of Patients with Worsening Laboratory Test from Baselinea |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -147,9 +147,9 @@ Table 5: Laboratory Abnormalities Worsening from Baseline Occurring in ≥10% of
 | Increased bilirubin | 13 | 3.1 | 6 | 0 |  |  |  |  |  |
 | a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: OPDIVO group (range: 194 to 197 patients) and dacarbazine group (range: 186 to 193 patients). |  |  |  |  |  |  |  |  |  |
 
-##### Trial 7
+##### Trial 6
 
-The safety of OPDIVO, administered with ipilimumab or as a single agent, was evaluated in Trial 7 [see Clinical Studies (14.1)], a randomized (1:1:1), a double-blind trial in which 937 patients with previously untreated, unresectable or metastatic melanoma received:
+The safety of OPDIVO, administered with ipilimumab or as a single agent, was evaluated in Trial 6 [see Clinical Studies (14.1)], a randomized (1:1:1), a double-blind trial in which 937 patients with previously untreated, unresectable or metastatic melanoma received:
 
 - •OPDIVO 1 mg/kg with ipilimumab 3 mg/kg every 3 weeks for 4 doses followed by OPDIVO 3 mg/kg as a single agent every 2 weeks (OPDIVO plus ipilimumab arm; n=313),
 - •OPDIVO 3 mg/kg every 2 weeks (OPDIVO arm; n=313), or
@@ -159,19 +159,19 @@ The median duration of exposure to OPDIVO was 2.8 months (range: 1 day to 18.8 m
 In the OPDIVO plus ipilimumab arm, 39% were exposed to OPDIVO for ≥6 months and 24% exposed for >1 year.
 In the OPDIVO arm, 53% were exposed for ≥6 months and 32% for >1 year.
 
-Trial 7 excluded patients with autoimmune disease, a medical condition requiring systemic treatment with corticosteroids (more than 10 mg daily prednisone equivalent) or other immunosuppressive medication within 14 days of the start of study therapy, a positive test result for hepatitis B or C, or a history of HIV.
+Trial 6 excluded patients with autoimmune disease, a medical condition requiring systemic treatment with corticosteroids (more than 10 mg daily prednisone equivalent) or other immunosuppressive medication within 14 days of the start of study therapy, a positive test result for hepatitis B or C, or a history of HIV.
 
 The study population characteristics were: 65% male, median age 61 years, 97% White, baseline ECOG performance status 0 (73%) or 1 (27%), 93% with AJCC Stage IV disease, 58% with M1c stage disease; 36% with elevated LDH at baseline, 4% with a history of brain metastasis, and 22% had received adjuvant therapy.
 
-In Trial 7, serious adverse reactions (73% and 37%), adverse reactions leading to permanent discontinuation (43% and 14%) or to dosing delays (55% and 28%), and Grade 3 or 4 adverse reactions (72% and 44%) all occurred more frequently in the OPDIVO plus ipilimumab arm relative to the OPDIVO arm.
+In Trial 6, serious adverse reactions (73% and 37%), adverse reactions leading to permanent discontinuation (43% and 14%) or to dosing delays (55% and 28%), and Grade 3 or 4 adverse reactions (72% and 44%) all occurred more frequently in the OPDIVO plus ipilimumab arm relative to the OPDIVO arm.
 
 The most frequent (≥10%) serious adverse reactions in the OPDIVO plus ipilimumab arm and the OPDIVO arm, respectively, were diarrhea (13% and 2.6%), colitis (10% and 1.6%), and pyrexia (10% and 0.6%).
 The most frequent adverse reactions leading to discontinuation of both drugs in the OPDIVO plus ipilimumab arm and of OPDIVO in the OPDIVO arm, respectively, were diarrhea (8% and 1.9%), colitis (8% and 0.6%), increased ALT (4.8% and 1.3%), increased AST (4.5% and 0.6%), and pneumonitis (1.9% and 0.3%).
 The most common (≥20%) adverse reactions in the OPDIVO plus ipilimumab arm were fatigue, rash, diarrhea, nausea, pyrexia, vomiting, and dyspnea.
 The most common (≥20%) adverse reactions in the OPDIVO arm were fatigue, rash, diarrhea, and nausea.
-Table 6 summarizes the incidence of adverse reactions occurring in at least 10% of patients in either OPDIVO-containing arm in Trial 7.
+Table 6 summarizes the incidence of adverse reactions occurring in at least 10% of patients in either OPDIVO-containing arm in Trial 6.
 
-Table 6: Adverse Reactions Occurring in ≥10% of Patients on the OPDIVO plus Ipilimumab Arm or the OPDIVO Arm and at a Higher Incidence than in the Ipilimumab Arm (Between Arm Difference of ≥5% [All Grades] or ≥2% [Grades 3-4]) (Trial 7)
+Table 6: Adverse Reactions Occurring in ≥10% of Patients on the OPDIVO plus Ipilimumab Arm or the OPDIVO Arm and at a Higher Incidence than in the Ipilimumab Arm (Between Arm Difference of ≥5% [All Grades] or ≥2% [Grades 3-4]) (Trial 6)
 
 | All Grades | Grades 3-4 | All Grades | Grades 3-4 | All Grades | Grades 3-4 |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -188,9 +188,9 @@ Table 6: Adverse Reactions Occurring in ≥10% of Patients on the OPDIVO plus Ip
 | Vomiting | 28 | 3.5 | 17 | 1.0 | 16 | 1.6 |
 | Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |  |  |
 | Dyspnea | 20 | 2.2 | 12 | 1.3 | 13 | 0.6 |
-| Toxicity was graded per NCI CTCAE v4. a Fatigue is a composite term which includes asthenia and fatigue. b Rash is a composite term which includes pustular rash, dermatitis, acneiform dermatitis, allergic dermatitis, atopic dermatitis, bullous dermatitis, exfoliative dermatitis, psoriasiform dermatitis, drug eruption, erythema, exfoliative rash, erythematous rash, generalized rash, macular rash, maculopapular rash, morbilliform rash, papular rash,papulosquamous rash, pruritic rash, and seborrheic dermatitis. |  |  |  |  |  |  |
+| Toxicity was graded per NCI CTCAE v4. a Fatigue is a composite term which includes asthenia and fatigue. b Rash is a composite term which includes pustular rash, dermatitis, acneiform dermatitis, allergic dermatitis, atopic dermatitis, bullous dermatitis, exfoliative dermatitis, psoriasiform dermatitis, drug eruption, erythema, exfoliative rash, erythematous rash, generalized rash, macular rash, maculopapular rash, morbilliform rash, papular rash, papulosquamous rash, pruritic rash, and seborrheic dermatitis. |  |  |  |  |  |  |
 
-Other clinically important adverse reactions in less than 10% of patients treated with either OPDIVO with ipilimumab or single-agent OPDIVO in Trial 7 were:
+Other clinically important adverse reactions in less than 10% of patients treated with either OPDIVO with ipilimumab or single-agent OPDIVO in Trial 6 were:
 
 Gastrointestinal Disorders: stomatitis, intestinal perforation
 
@@ -200,7 +200,7 @@ Musculoskeletal and Connective Tissue Disorders: myopathy, Sjogren’s syndrome,
 
 Nervous System Disorders: neuritis, peroneal nerve palsy
 
-Table 7: Laboratory Abnormalities Worsening from Baseline Occurring in ≥20% of Patients Treated with OPDIVO with Ipilimumab or Single-Agent OPDIVO and at a Higher Incidence than in the Ipilimumab Arm (Between Arm Difference of ≥5% [All Grades] or ≥2% [Grades 3-4]) (Trial 7)
+Table 7: Laboratory Abnormalities Worsening from Baseline Occurring in ≥20% of Patients Treated with OPDIVO with Ipilimumab or Single-Agent OPDIVO and at a Higher Incidence than in the Ipilimumab Arm (Between Arm Difference of ≥5% [All Grades] or ≥2% [Grades 3-4]) (Trial 6)
 
 | Any Grade | Grade 3-4 | Any Grade | Grade 3-4 | Any Grade | Grade 3-4 |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -220,62 +220,60 @@ Table 7: Laboratory Abnormalities Worsening from Baseline Occurring in ≥20% of
 | Lymphopenia | 35 | 4.8 | 39 | 4.3 | 27 | 3.4 |  |  |  |  |  |  |  |
 | a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: OPDIVO plus ipilimumab (range: 241 to 297); OPDIVO (range: 260 to 306); ipilimumab (range: 253 to 304). |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-### Metastatic Non-Squamous Non-Small Cell Lung Cancer
+### Metastatic Non-Small Cell Lung Cancer
 
-The safety of OPDIVO was evaluated in Trial 3, a randomized, open-label, multicenter trial in patients with metastatic non-squamous NSCLC and progression on or after one prior platinum doublet-based chemotherapy regimen [see Clinical Studies (14.2)].
-Patients received 3 mg/kg of OPDIVO (n=287) administered intravenously over 60 minutes every 2 weeks or docetaxel (n=268) administered intravenously at 75 mg/m2 every 3 weeks.
-The median duration of therapy was 2.6 months (range: 0 to 24.0+ months) in OPDIVO-treated patients and was 2.3 months (range: 0 to 15.9 months) in docetaxel-treated patients.
-In this trial, 30% of patients received OPDIVO for greater than 6 months and 20% of patients received OPDIVO for greater than 1 year.
+The safety of OPDIVO in metastatic NSCLC was evaluated in Trial 2, a randomized open-label, multicenter trial in patients with metastatic squamous NSCLC and progression on or after one prior platinum doublet-based chemotherapy regimen and Trial 3, a randomized, open-label, multicenter trial in patients with metastatic non-squamous NSCLC and progression on or after one prior platinum doublet-based chemotherapy regimen [see Clinical Studies (14.2)].
+Patients received 3 mg/kg of OPDIVO administered intravenously over 60 minutes every 2 weeks or docetaxel administered intravenously at 75 mg/m2 every 3 weeks.
+The median duration of therapy in OPDIVO-treated patients in Trial 2 was 3.3 months (range: 1 day to 21.7+ months) and in Trial 3 was 2.6 months (range: 0 to 24.0+ months).
+In Trial 2, Trial 2, 36% of patients received OPDIVO for at least 6 months and 18% of patients received OPDIVO for at least 1 year and in Trial 3, 30% of patients received OPDIVO for greater than 6 months and 20% of patients received OPDIVO for greater than 1 year.
 
-Trial 3 excluded patients with active autoimmune disease, medical conditions requiring systemic immunosuppression, or with symptomatic interstitial lung disease.
+Trial 2 and Trial 3 excluded patients with active autoimmune disease, medical conditions requiring systemic immunosuppression, or with symptomatic interstitial lung disease.
 
-The median age of all randomized patients was 62 years (range: 21 to 85); 37% of patients in the OPDIVO group were ≥65 years of age and 47% of patients in the docetaxel group were ≥65 years of age, 55% were male, and 92% were white.
-Twelve percent of patients had brain metastases and ECOG performance status was 0 (31%) or 1 (69%).
+Across both trials, the median age of OPDIVO-treated patients was 61 years (range: 37 to 85); 38% were ≥65 years of age, 61% were male, and 91% were white.
+Ten percent of patients had brain metastases and ECOG performance status was 0 (26%) or 1 (74%).
 
-OPDIVO was discontinued in 13% of patients, and was delayed in 29% of patients for an adverse reaction.
-Serious adverse reactions occurred in 47% of patients receiving OPDIVO.
-The most frequent serious adverse reactions reported in at least 2% of patients receiving OPDIVO were pneumonia, pulmonary embolism, dyspnea, pleural effusion, and respiratory failure.
-In the OPDIVO arm, seven deaths were due to infection including one case of Pneumocystis jirovecii pneumonia, four were due to pulmonary embolism, and one death was due to limbic encephalitis.
+OPDIVO was discontinued in 11% of patients, and was delayed in 28% of patients for an adverse reaction.
+Serious adverse reactions occurred in 46% of patients receiving OPDIVO.
+The most frequent serious adverse reactions reported in at least 2% of patients receiving OPDIVO were pneumonia, pulmonary embolism, dyspnea, pyrexia, pleural effusion, pneumonitis, and respiratory failure.
+In Trial 3, in the OPDIVO arm, seven deaths were due to infection including one case of Pneumocystis jirovecii pneumonia, four were due to pulmonary embolism, and one death was due to limbic encephalitis.
 
-The most common adverse reactions (reported in at least 20% of patients) were fatigue, musculoskeletal pain, cough, decreased appetite, and constipation.
+Across both trials, the most common adverse reactions (reported in at least 20% of patients) were fatigue, musculoskeletal pain, cough, dyspnea, and decreased appetite.
 Table 8 summarizes selected adverse reactions occurring more frequently in at least 10% of OPDIVO-treated patients.
 
-Table 8: Adverse Reactions Occurring in ≥10% of OPDIVO-Treated Patients and at a Higher Incidence than Docetaxel (Between Arm Difference of ≥5% [All Grades] or ≥2% [Grades 3-4]) (Trial 3)
+Table 8: Adverse Reactions Occurring in ≥10% of OPDIVO-Treated Patients and at a Higher Incidence than Docetaxel (Between Arm Difference of ≥5% [All Grades] or ≥2% [Grades 3-4]) (Trials 2 and 3)
 
 | Percentage (%) of Patients |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| Adverse Reaction | OPDIVO (n=287) |  | Docetaxel (n=268) |  |
+| Adverse Reaction | OPDIVO (n=418) |  | Docetaxel (n=397) |  |
 | All Grades | Grades 3-4 | All Grades | Grades 3-4 |  |
 | Respiratory, Thoracic, and Mediastinal Disorders |  |  |  |  |
-| Cough | 30 | 0.3 | 25 | 0 |
+| Cough | 31 | 0.7 | 24 | 0 |
 | Metabolism and Nutrition Disorders |  |  |  |  |
-| Decreased appetite | 29 | 1.7 | 22 | 1.5 |
-| Gastrointestinal Disorders |  |  |  |  |
-| Constipation | 23 | 0.7 | 17 | 0.7 |
+| Decreased appetite | 28 | 1.4 | 23 | 1.5 |
 | Skin and Subcutaneous Tissue Disorders |  |  |  |  |
-| Pruritus | 11 | 0 | 1.9 | 0 |
+| Pruritus | 10 | 0.2 | 2.0 | 0 |
 | Toxicity was graded per NCI CTCAE v4. |  |  |  |  |
 
-Other clinically important adverse reactions observed in patients treated with OPDIVO and which occurred at a similar incidence in docetaxel-treated patients and not listed elsewhere in section 6 include: fatigue/asthenia (49% Grade 1-4, 6% Grade 3-4), musculoskeletal pain (36%), pleural effusion (5.6%), pulmonary embolism (4.2%), urticaria (1.4%), and polymyalgia rheumatica (0.3%).
+Other clinically important adverse reactions observed in patients treated with OPDIVO and which occurred at a similar incidence in docetaxel-treated patients and not listed elsewhere in section 6 include: fatigue/asthenia (48% Grade 1-4, 5% Grade 3-4), musculoskeletal pain (33%), pleural effusion (4.5%), pulmonary embolism (3.3%).
 
-Table 9: Laboratory Abnormalities Worsening from Baseline Occurring in ≥10% of OPDIVO-Treated Patients for all NCI CTCAE Grades and at a Higher Incidence than Docetaxel (Between Arm Difference of ≥5% [All Grades] or ≥2% [Grades 3-4]) (Trial 3)
+Table 9: Laboratory Abnormalities Worsening from Baseline Occurring in ≥10% of OPDIVO-Treated Patients for all NCI CTCAE Grades and at a Higher Incidence than Docetaxel (Between Arm Difference of ≥5% [All Grades] or ≥2% [Grades 3-4]) (Trials 2 and 3)
 
 | Laboratory Abnormality | Percentage of Patients with Worsening Laboratory Test from Baselinea |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | OPDIVO |  | Docetaxel |  |  |  |  |  |  |  |
 | All Grades | Grades 3-4 | All Grades | Grades 3-4 |  |  |  |  |  |  |
 | Chemistry |  |  |  |  |  |  |  |  |  |
-| Hyponatremia | 35 | 6 | 32 | 2.7 |  |  |  |  |  |
-| Increased AST | 28 | 2.8 | 14 | 0.4 |  |  |  |  |  |
-| Increased alkaline phosphatase | 27 | 1.1 | 18 | 0.4 |  |  |  |  |  |
-| Increased ALT | 23 | 2.4 | 15 | 0.4 |  |  |  |  |  |
-| Increased creatinine | 18 | 0 | 13 | 0.4 |  |  |  |  |  |
-| Increased TSHb | 17 | N/A | 5 | N/A |  |  |  |  |  |
-| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: OPDIVO group (range: 280 to 287 patients) and docetaxel group (range: 252 to 262 patients); TSH: OPDIVO group n=209 and docetaxel group n=207. b Not graded per NCI CTCAE v4. |  |  |  |  |  |  |  |  |  |
+| Hyponatremia | 35 | 7 | 34 | 4.9 |  |  |  |  |  |
+| Increased AST | 27 | 1.9 | 13 | 0.8 |  |  |  |  |  |
+| Increased alkaline phosphatase | 26 | 0.7 | 18 | 0.8 |  |  |  |  |  |
+| Increased ALT | 22 | 1.7 | 17 | 0.5 |  |  |  |  |  |
+| Increased creatinine | 18 | 0 | 12 | 0.5 |  |  |  |  |  |
+| Increased TSHb | 14 | N/A | 6 | N/A |  |  |  |  |  |
+| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: OPDIVO group (range: 405 to 417 patients) and docetaxel group (range: 372 to 390 patients); TSH: OPDIVO group n=314 and docetaxel group n=297. b Not graded per NCI CTCAE v4. |  |  |  |  |  |  |  |  |  |
 
 ### Renal Cell Carcinoma
 
-The safety of OPDIVO was evaluated in Trial 6, a randomized open-label trial in which 803 patients with advanced RCC who had experienced disease progression during or after at least one anti-angiogenic treatment regimens received OPDIVO 3 mg/kg every 2 weeks (n=406) or everolimus 10 mg daily (n=397) [see Clinical Studies (14.3)].
+The safety of OPDIVO was evaluated in Trial 5, a randomized open-label trial in which 803 patients with advanced RCC who had experienced disease progression during or after at least one anti-angiogenic treatment regimens received OPDIVO 3 mg/kg every 2 weeks (n=406) or everolimus 10 mg daily (n=397) [see Clinical Studies (14.3)].
 The median duration of treatment was 5.5 months (range: 1 day to 29.6+ months) in OPDIVO-treated patients and 3.7 months (range: 6 days to 25.7+ months) in everolimus-treated patients.
 
 Study therapy was discontinued for adverse reactions in 16% of OPDIVO patients and 19% of everolimus patients.
@@ -288,7 +286,7 @@ Rate of death on treatment or within 30 days of the last dose of study drug was 
 The most common adverse reactions (reported in at least 20% of patients) were asthenic conditions, cough, nausea, rash, dyspnea, diarrhea, constipation, decreased appetite, back pain, and arthralgia.
 Table 10 summarizes adverse reactions that occurred in greater than 15% of OPDIVO-treated patients.
 
-Table 10: Grade 1-4 Adverse Reactions in >15% of Patients Receiving OPDIVO (Trial 6)
+Table 10: Grade 1-4 Adverse Reactions in >15% of Patients Receiving OPDIVO (Trial 5)
 
 |  | OPDIVO(n=406) |  | Everolimus(n=397) |  |
 | --- | --- | --- | --- | --- |
@@ -315,9 +313,9 @@ Table 10: Grade 1-4 Adverse Reactions in >15% of Patients Receiving OPDIVO (Tria
 | Musculoskeletal and Connective Tissue Disorders |  |  |  |  |
 | Arthralgia | 20 | 1.0 | 14 | 0.5 |
 | Back pain | 21 | 3.4 | 16 | 2.8 |
-| Toxicity was graded per NCI CTCAE v4. a Asthenic conditions covering PTs asthenia, decreased activity, fatigue, and malaise. b Includes nasopharyngitis, pharyngitis, rhinitis, and viral URI. c Includes colitis, enterocolitis, and gastroenteritis. d Includes dermatitis, acneiform dermatitis, erythematous rash, generalized, macular, maculopapular, papular, pruritic rash, erythema multiforme, and erythema. |  |  |  |  |
+| Toxicity was graded per NCI CTCAE v4. a Asthenic conditions covering PTs asthenia, decreased activity, fatigue, and malaise. b Includes nasopharyngitis, pharyngitis, rhinitis, and viral URI. c Includes colitis, enterocolitis, and gastroenteritis. d Includes dermatitis, acneiform dermatitis, erythematous rash, generalized rash, macular rash, maculopapular rash, papular rash, pruritic rash, erythema multiforme, and erythema. |  |  |  |  |
 
-Other clinically important adverse reactions in Trial 6 were:
+Other clinically important adverse reactions in Trial 5 were:
 
 General Disorders and Administration Site Conditions: peripheral edema/edema
 
@@ -334,7 +332,7 @@ Skin Disorders: Palmar-plantar erythrodysesthesia
 The most common laboratory abnormalities which have worsened compared to baseline in ≥30% of patients include increased creatinine, lymphopenia, anemia, increased AST, increased alkaline phosphatase, hyponatremia, elevated triglycerides, and hyperkalemia.
 Table 11 summarizes the laboratory abnormalities that occurred in greater than 15% of OPDIVO-treated patients.
 
-Table 11: Grade 1-4 Laboratory Values Worsening from Baseline Occurring in >15% of Patients on OPDIVO (Trial 6)
+Table 11: Grade 1-4 Laboratory Values Worsening from Baseline Occurring in >15% of Patients on OPDIVO (Trial 5)
 
 | Laboratory Abnormality | Percentage of Patients with Worsening Laboratory Test from Baselinea |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -361,7 +359,7 @@ In addition, among patients with TSH less than ULN at baseline, a greater propor
 
 ### Classical Hodgkin Lymphoma
 
-The safety of OPDIVO 3 mg/kg every 2 weeks was evaluated in 263 adult patients with cHL (240 patients in Trial 8 and 23 patients in Trial 9).
+The safety of OPDIVO 3 mg/kg every 2 weeks was evaluated in 263 adult patients with cHL (240 patients in Trial 7 and 23 patients in Trial 8).
 Treatment could continue until disease progression, maximal clinical benefit, or unacceptable toxicity.
 
 The median age was 34 years (range 18 to 72), 98% of patients had received autologous HSCT, none had received allogeneic HSCT, and 74% had received brentuximab vedotin.
@@ -382,7 +380,7 @@ Serious adverse reactions occurred in 27% of these patients.
 Table 12 summarizes both the adverse reactions that occurred in at least 10% of patients in the safety population (n=263) and the efficacy population (n=95).
 There is a greater incidence of adverse reactions in the subset of patients evaluated for efficacy; these patients received a median of 17 doses of OPDIVO and a median of 5 prior systemic regimens [see Clinical Studies (14.4)].
 
-Table 12: Non-Hematologic Adverse Reactions Occurring in ≥10% of Patients with cHL (Trials 8 and 9)
+Table 12: Non-Hematologic Adverse Reactions Occurring in ≥10% of Patients with cHL (Trials 7 and 8)
 
 |  | OPDIVO cHL Safety Population (n=263) |  | OPDIVO cHL Efficacy Population (n=95) |  |
 | --- | --- | --- | --- | --- |
@@ -420,16 +418,24 @@ Table 12: Non-Hematologic Adverse Reactions Occurring in ≥10% of Patients with
 | Toxicity was graded per NCI CTCAE v4. |  |  |  |  |
 | a Includes events occurring up to 30 days after last nivolumab dose, regardless of causality. After an immune-mediated adverse reaction, reactions following nivolumab rechallenge were included if they occurred up to 30 days after completing the initial nivolumab course. b Includes asthenia. c Includes abdominal discomfort and upper abdominal pain. d Includes nasopharyngitis, pharyngitis, rhinitis, and sinusitis. e Includes pneumonia bacterial, pneumonia mycoplasmal, pneumocystis jirovecii pneumonia. f Includes dermatitis, dermatitis acneiform, dermatitis exfoliative, and rash described as macular, papular, maculopapular, pruritic, exfoliative, or acneiform. g Includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, neck pain, and pain in extremity. h Includes hyperesthesia, hypoesthesia, paresthesia, dysesthesia, peripheral motor neuropathy, peripheral sensory neuropathy, and polyneuropathy. |  |  |  |  |
 
-Additional information regarding clinically important adverse reactions:
+Additional information regarding clinically important adverse reactions
 
-Peripheral neuropathy: In Trials 8 and 9, peripheral neuropathy was observed in 11% (30/263) of all patients receiving OPDIVO.
+Immune-mediated pneumonitis: In Trials 7 and 8, pneumonitis, including interstitial lung disease, occurred in 4.9% (13/263) of patients receiving OPDIVO.
+Immune-mediated pneumonitis occurred in 3.4% (9/263) of patients receiving OPDIVO (one Grade 3 and eight Grade 2).
+The median time to onset was 2.2 months (range: 1 day to 10.1 months).
+All nine patients received systemic corticosteroids, with resolution in seven.
+One patient permanently discontinued OPDIVO due to Grade 2 pneumonitis.
+Dose delay occurred in three patients.
+Five patients resumed OPDIVO, of whom none had recurrence of pneumonitis.
+
+Peripheral neuropathy: In Trials 7 and 8, peripheral neuropathy was observed in 11% (30/263) of all patients receiving OPDIVO.
 Twenty-two patients (8%) had new-onset peripheral neuropathy, and four patients had worsening from baseline.
 Four additional patients with peripheral neuropathy at baseline (three Grade 1 and one Grade 2) did not worsen.
 All events were Grade 1 or 2, except for 1 Grade 3 event (0.4%).
 
 Complications of allogeneic HSCT after OPDIVO: [see Warnings and Precautions (5.10)].
 
-Table 13: Laboratory Abnormalities Worsening from Baseline Occurring in ≥10% of OPDIVO-Treated cHL Patients (Trials 8 and 9)
+Table 13: Laboratory Abnormalities Worsening from Baseline Occurring in ≥10% of OPDIVO-Treated cHL Patients (Trials 7 and 8)
 
 |  | OPDIVO cHL Safety Populationa |  | OPDIVO cHL Efficacy Populationb |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

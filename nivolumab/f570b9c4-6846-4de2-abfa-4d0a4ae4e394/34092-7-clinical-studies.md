@@ -22,9 +22,9 @@ There were objective responses in patients with and without BRAF V600 mutation-p
 
 ### Previously Untreated Metastatic Melanoma
 
-#### Trial 5
+#### Trial 4
 
-Trial 5 was a multicenter, double-blind, randomized (1:1) trial conducted in patients with BRAF V600 wild-type unresectable or metastatic melanoma.
+Trial 4 was a multicenter, double-blind, randomized (1:1) trial conducted in patients with BRAF V600 wild-type unresectable or metastatic melanoma.
 Patients were randomized to receive either OPDIVO 3 mg/kg by intravenous infusion every 2 weeks or dacarbazine 1000 mg/m2 by intravenous infusion every 3 weeks until disease progression or unacceptable toxicity.
 Randomization was stratified by PD-L1 status (greater than or equal to 5% of tumor cell membrane staining by immunohistochemistry vs. less than 5% or indeterminate result) and M stage (M0/M1a/M1b versus M1c).
 Key eligibility criteria included histologically confirmed, unresectable or metastatic, cutaneous, mucosal, or acral melanoma; no prior therapy for metastatic disease; completion of prior adjuvant or neoadjuvant therapy at least 6 weeks prior to randomization; ECOG performance status 0 or 1; absence of autoimmune disease; and absence of active brain or leptomeningeal metastases.
@@ -39,10 +39,10 @@ The median age was 65 years (range: 18 to 87), 59% were men, and 99.5% were whit
 Disease characteristics were M1c stage disease (61%), cutaneous melanoma (74%), mucosal melanoma (11%), elevated LDH level (37%), PD-L1 greater than or equal to 5% tumor cell membrane expression (35%), and history of brain metastasis (4%).
 More patients in the OPDIVO arm had an ECOG performance status of 0 (71% vs. 58%).
 
-Trial 5 demonstrated a statistically significant improvement in OS for the OPDIVO arm compared with the dacarbazine arm in an interim analysis based on 47% of the total planned events for OS.
+Trial 4 demonstrated a statistically significant improvement in OS for the OPDIVO arm compared with the dacarbazine arm in an interim analysis based on 47% of the total planned events for OS.
 Table 14 and Figure 1 summarize the efficacy results.
 
-Table 14: Efficacy Results - Trial 5
+Table 14: Efficacy Results - Trial 4
 
 |  | OPDIVO (n=210) | Dacarbazine (n=208) |
 | --- | --- | --- |
@@ -62,13 +62,13 @@ Table 14: Efficacy Results - Trial 5
 | Partial response rate | 30% | 8% |
 | a p-value is compared with the allocated alpha of 0.0021 for this interim analysis. |  |  |
 
-Figure 1: Kaplan-Meier Curves of Overall Survival - Trial 5
+Figure 1: Kaplan-Meier Curves of Overall Survival - Trial 4
 
 At the time of analysis, 88% (63/72) of OPDIVO-treated patients had ongoing responses, which included 43 patients with ongoing response of 6 months or longer.
 
-#### Trial 7
+#### Trial 6
 
-Trial 7 was a multicenter, double-blind trial that randomized (1:1:1) patients with previously untreated, unresectable or metastatic melanoma to one of the following arms: OPDIVO plus ipilimumab, OPDIVO, or ipilimumab.
+Trial 6 was a multicenter, double-blind trial that randomized (1:1:1) patients with previously untreated, unresectable or metastatic melanoma to one of the following arms: OPDIVO plus ipilimumab, OPDIVO, or ipilimumab.
 Patients were required to have completed adjuvant or neoadjuvant treatment at least 6 weeks prior to randomization and have no prior treatment with anti-CTLA-4 antibody and no evidence of active brain metastasis, ocular melanoma, autoimmune disease, or medical conditions requiring systemic immunosuppression.
 
 Patients were randomized to receive:
@@ -87,10 +87,10 @@ A total of 945 patients were randomized, 314 patients to the OPDIVO plus ipilimu
 The study population characteristics were: median age 61 years (range: 18 to 90); 65% male; 97% White; ECOG performance score 0 (73%) or 1 (27%).
 Disease characteristics were: AJCC Stage IV disease (93%); M1c disease (58%); elevated LDH (36%); history of brain metastases (4%); BRAF V600 mutation-positive melanoma (32%); PD-L1 ≥5% tumor cell membrane expression as determined by the clinical trials assay (46%); and prior adjuvant therapy (22%).
 
-Trial 7 demonstrated statistically significant improvements in PFS for patients randomized to either OPDIVO-containing arm as compared with the ipilimumab arm.
+Trial 6 demonstrated statistically significant improvements in PFS for patients randomized to either OPDIVO-containing arm as compared with the ipilimumab arm.
 Efficacy results are presented in Table 15 and Figure 2.
 
-Table 15: Efficacy Results in Trial 7
+Table 15: Efficacy Results in Trial 6
 
 |  | OPDIVO plus Ipilimumab (n=314) | OPDIVO (n=316) | Ipilimumab (n=315) |
 | --- | --- | --- | --- |
@@ -110,19 +110,19 @@ Table 15: Efficacy Results in Trial 7
 | Range (months) | 1.2+ to 15.8+ | 1.3+ to 14.6+ | 1.0+ to 13.8+ |
 | a Based on a stratified proportional hazards model. b Based on stratified log-rank test. c p-value is compared with.005 of the allocated alpha for final PFS treatment comparisons. d Based on the stratified Cochran-Mantel-Haenszel test. |  |  |  |
 
-Figure 2: Progression-free Survival: Unresectable or Metastatic Melanoma - Trial 7
+Figure 2: Progression-free Survival: Unresectable or Metastatic Melanoma - Trial 6
 
 Figures 3 and 4 present exploratory efficacy subgroup analyses of PFS based on defined PD-L1 expression levels determined in archival tumor specimens using the PD-L1 IHC 28-8 pharmDx assay.
 Tumor samples were available for retrospective assessment for 97% of the study population; PD-L1 expression status was ascertained for 89% of the study population while in 6% of patients, melanin precluded evaluation of PD-L1 expression status.
 PD-L1 expression status was unknown for 5% of the study population due to consent withdrawal or missing samples.
 
-Figure 3: Progression-free Survival by PD-L1 Expression (<1%) - Trial 7
+Figure 3: Progression-free Survival by PD-L1 Expression (<1%) - Trial 6
 
-Figure 4: Progression-free Survival by PD-L1 Expression (≥1%) - Trial 7
+Figure 4: Progression-free Survival by PD-L1 Expression (≥1%) - Trial 6
 
 The data presented in the figure below summarize the results of exploratory analyses comparing the two OPDIVO-containing arms in subgroups defined by PD-L1 tumor expression.
 
-Figure 5: Forest Plot: PFS Based on PD-L1 Expression Comparing OPDIVO-Containing Arms - Trial 7
+Figure 5: Forest Plot: PFS Based on PD-L1 Expression Comparing OPDIVO-Containing Arms - Trial 6
 
 ## 14.2 Metastatic Non-Small Cell Lung Cancer
 
@@ -130,31 +130,54 @@ Figure 5: Forest Plot: PFS Based on PD-L1 Expression Comparing OPDIVO-Containing
 
 Trial 2 was a randomized (1:1), open-label study enrolling 272 patients with metastatic squamous NSCLC who had experienced disease progression during or after one prior platinum doublet-based chemotherapy regimen.
 Patients received OPDIVO (n=135) administered intravenously at 3 mg/kg every 2 weeks or docetaxel (n=137) administered intravenously at 75 mg/m2 every 3 weeks.
+Randomization was stratified by prior paclitaxel vs other prior treatment and region (US/Canada vs. Europe vs. Rest of World).
 This study included patients regardless of their PD-L1 status.
-The trial excluded patients with autoimmune disease, symptomatic interstitial lung disease, or untreated brain metastasis.
+The trial excluded patients with autoimmune disease, medical conditions requiring systemic immunosuppression, symptomatic interstitial lung disease, or untreated brain metastasis.
 Patients with treated brain metastases were eligible if neurologically returned to baseline at least 2 weeks prior to enrollment, and either off corticosteroids, or on a stable or decreasing dose of <10 mg daily prednisone equivalents.
 The first tumor assessments were conducted 9 weeks after randomization and continued every 6 weeks thereafter.
 The major efficacy outcome measure was OS.
+Additional efficacy outcome measures were investigator-assessed ORR and PFS.
 
 In Trial 2, the median age was 63 years (range: 39 to 85) with 44% ≥65 years of age and 11% ≥75 years of age.
-The majority of patients were white (93%) and male (76%).
-Baseline ECOG performance status was 0 (24%) or 1 (76%).
+The majority of patients were white (93%) and male (76%); the majority of patients were enrolled in Europe (57%) with the remainder in US/Canada (32%) and the rest of the world (11%).
+Baseline ECOG performance status was 0 (24%) or 1 (76%) and 92% were former/current smokers.
+Baseline disease characteristics of the population as reported by investigators were Stage IIIb (19%), Stage IV (80%), and brain metastases (6%).
+All patients received prior therapy with a platinum-doublet regimen and 99% of patients had tumors of squamous-cell histology.
 
 The trial demonstrated a statistically significant improvement in OS for patients randomized to OPDIVO as compared with docetaxel at the prespecified interim analysis when 199 events were observed (86% of the planned number of events for final analysis) (Table 16 and Figure 6).
 
-Table 16: Overall Survival in Trial 2 (Intent-to-Treat Analysis)
+Table 16: Efficacy Results in Trial 2
 
 |  | OPDIVO (n=135) | Docetaxel (n=137) |
 | --- | --- | --- |
-| Prespecified Interim Analysis |  |  |
-| Events (%) | 86 (64%) | 113 (82%) |
-| Median survival in months | 9.2 | 6.0 |
+| Overall Survival |  |  |
+| Deaths (%) | 86 (64%) | 113 (82%) |
+| Median (months) | 9.2 | 6.0 |
 | (95% CI) | (7.3, 13.3) | (5.1, 7.3) |
-| p-valuea | 0.00025 |  |
-| Hazard ratio (95% CI)b | 0.59 (0.44, 0.79) |  |
-| a p-value is derived from a log-rank test stratified by region and prior paclitaxel use; the corresponding O’Brien-Fleming efficacy boundary significance level is 0.0315. b Derived from a stratified proportional hazards model. |  |  |
+| p-valuea,b | 0.0002 |  |
+| Hazard ratio (95% CI)c | 0.59 (0.44, 0.79) |  |
+| Objective Response Rate | 27 (20%) | 12 (9%) |
+| (95% CI) | (14, 28) | (5, 15) |
+| p-value d | 0.0083 |  |
+| Complete response | 1 (0.7%) | 0 |
+| Median duration of response, months (95% CI) | NR (9.8, NR) | 8.4 (3.6, 10.8) |
+| Progression-free Survival |  |  |
+| Disease progression or death (%) | 105 (78%) | 122 (89%) |
+| Median (months) | 3.5 | 2.8 |
+| p-valuea | 0.0004 |  |
+| Hazard ratio (95% CI)c | 0.62 (0.47, 0.81) |  |
+
+1. a Based on stratified log-rank test.
+2. b p-value is compared with 0.0315 of the allocated alpha for this interim analysis.
+3. c Based on a stratified Cox proportional hazards model.
+4. d B ased on the stratified Cochran-Mantel-Haenszel test.
 
 Figure 6: Overall Survival - Trial 2
+
+Archival tumor specimens were retrospectively evaluated for PD-L1 expression.
+Across the study population, 17% (47/272) of patients had non-quantifiable results.
+Among the 225 patients with quantifiable results, 47% (106/225) had PD-L1 negative squamous NSCLC, defined as <1% of tumor cells expressing PD-L1, and 53% (119/225) had PD-L1 positive squamous NSCLC, defined as ≥of tumor cells expressing PD-L1.
+In pre-specified exploratory subgroup analyses, the hazard ratios for survival were 0.58 (95% CI: 0.37, 0.92) in the PD-L1 negative subgroup and 0.69 (95% CI: 0.45, 1.05) in the PD-L1 positive NSCLC subgroup.
 
 ### Second-line Treatment of Metastatic Non-Squamous NSCLC
 
@@ -190,14 +213,13 @@ Table 17: Efficacy Results in Trial 3
 | (95% CI) | (15, 24) | (9, 17) |
 | p-valued | 0.02 |  |
 | Complete response | 4 (1.4%) | 1 (0.3%) |
-| Partial response | 52 (18%) | 35 (12%) |
-| Median duration of response (months) | 17 | 6 |
+| Median duration of response (months) (95% CI) | 17 (8.4, NR) | 6 (4.4, 7.0) |
 | Progression-free Survival |  |  |
 | Disease progression or death (%) | 234 (80%) | 245 (84%) |
 | Median (months) | 2.3 | 4.2 |
 | p-valuea | 0.39 |  |
 | Hazard ratio (95% CI)c | 0.92 (0.77, 1.11) |  |
-| a Based on stratified log-rank test. b p-value is compared with.0408 of the allocated alpha for this interim analysis. c Based on a stratified proportional hazards model. d Based on the stratified Cochran-Mantel-Haenszel test. |  |  |
+| a Based on stratified log-rank test. b p-value is compared with.0408 of the allocated alpha for this interim analysis. c Based on a stratified Cox proportional hazards model. d Based on the stratified Cochran-Mantel-Haenszel test. |  |  |
 
 Figure 7: Overall Survival - Trial 3
 
@@ -214,9 +236,9 @@ Figure 9: Forest Plot: PFS Based on PD-L1 Expression - Trial 3
 
 ## 14.3 Renal Cell Carcinoma
 
-Trial 6 was a randomized (1:1), open-label study in patients with advanced RCC who had experienced disease progression during or after one or two prior anti-angiogenic therapy regimens.
+Trial 5 was a randomized (1:1), open-label study in patients with advanced RCC who had experienced disease progression during or after one or two prior anti-angiogenic therapy regimens.
 Patients had to have a Karnofsky Performance Score (KPS) ≥70% and patients were included regardless of their PD-L1 status.
-Trial 6 excluded patients with any history of or concurrent brain metastases, prior treatment with an mTOR inhibitor, active autoimmune disease, or medical conditions requiring systemic immunosuppression.
+Trial 5 excluded patients with any history of or concurrent brain metastases, prior treatment with an mTOR inhibitor, active autoimmune disease, or medical conditions requiring systemic immunosuppression.
 Patients were stratified by region, Memorial Sloan Kettering Cancer Center (MSKCC) Risk Group and the number of prior anti-angiogenic therapies.
 
 Patients were randomized to OPDIVO (n=410) administered intravenously at 3 mg/kg every 2 weeks or everolimus (n=411) administered orally 10 mg daily.
@@ -233,7 +255,7 @@ OS benefit was observed regardless of PD-L1 expression level.
 
 Other endpoints include confirmed objective response rates, which are also presented in Table 18.
 
-Table 18: Efficacy Results - Trial 6
+Table 18: Efficacy Results - Trial 5
 
 |  | OPDIVO (n=410) | Everolimus (n=411) |
 | --- | --- | --- |
@@ -247,14 +269,14 @@ Table 18: Efficacy Results - Trial 6
 | Median time to onset of confirmed response in months (min, max) | 3.0 (1.4, 13.0) | 3.7 (1.5, 11.2) |
 | a Hazard ratio is obtained from a Cox proportional hazards model stratified by MSKCC risk group, number of prior anti-angiogenic therapies, and region with treatment as the sole covariate. b p-value is obtained from a two-sided log-rank test stratified by MSKCC risk group, number of prior anti-angiogenic therapies, and region. The corresponding O’Brien-Fleming efficacy boundary significance level is 0.0148. |  |  |
 
-Figure 10: Overall Survival - Trial 6
+Figure 10: Overall Survival - Trial 5
 
 ## 14.4 Classical Hodgkin Lymphoma
 
 Two studies evaluated the efficacy of OPDIVO as a single agent in patients with cHL after failure of autologous HSCT and post-transplantation brentuximab vedotin.
 
-Trial 8 was a single-arm, open-label, multicenter, multicohort study in cHL.
-Trial 9 was an open-label, multicenter, dose escalation study that included cHL.
+Trial 7 was a single-arm, open-label, multicenter, multicohort study in cHL.
+Trial 8 was an open-label, multicenter, dose escalation study that included cHL.
 Both studies included patients regardless of their tumor PD-L1 status and excluded patients with ECOG performance status of 2 or greater, autoimmune disease, symptomatic interstitial lung disease, hepatic transaminases more than 3 times ULN, creatinine clearance less than 40 mL/min, prior allogeneic HSCT, or chest irradiation within 24 weeks.
 In addition, both studies required an adjusted diffusion capacity of the lungs for carbon monoxide (DLCO) of over 60% in patients with prior pulmonary toxicity.
 
@@ -264,7 +286,7 @@ Dose reduction was not permitted.
 
 Efficacy was evaluated by objective response rate (ORR) as determined by an independent radiographic review committee (IRRC).
 Additional outcome measures included duration of response.
-Efficacy was evaluated in 95 patients in Trials 8 and 9 combined who had received brentuximab vedotin after failure of autologous HSCT.
+Efficacy was evaluated in 95 patients in Trials 7 and 8 combined who had received brentuximab vedotin after failure of autologous HSCT.
 The median age was 37 years (range: 18 to 72).
 The majority were male (64%) and white (87%).
 Patients had received a median of 5 prior systemic regimens (range: 3 to 15).
@@ -274,7 +296,7 @@ Patients received a median of 17 doses of OPDIVO (range 3 to 48), with a median 
 
 Table 19: Efficacy in cHL after Autologous HSCT and Brentuximab Vedotin
 
-|  | Trial 8 and Trial 9 (n=95) |
+|  | Trial 7 and Trial (n=95) |
 | --- | --- |
 | Objective Response Rate, n (%)a (95% CI) | 62 (65%) (55, 75) |
 | Complete Remission Rate (95% CI) | 7 (7%) (3, 15) |
