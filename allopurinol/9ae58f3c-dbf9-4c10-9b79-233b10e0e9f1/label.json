@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA076870"
+  ],
+  "inn": "allopurinol",
+  "labeler": "West-Ward Pharmaceuticals Corp",
+  "package_ndcs": [
+    "0143-9533-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "allopurinol sodium",
+      "name": "Allopurinol sodium"
+    }
+  ],
+  "setid": "9ae58f3c-dbf9-4c10-9b79-233b10e0e9f1",
+  "source": "dailymed"
+}
