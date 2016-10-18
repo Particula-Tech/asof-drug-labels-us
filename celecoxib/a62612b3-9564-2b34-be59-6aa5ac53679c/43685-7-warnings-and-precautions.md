@@ -135,7 +135,7 @@ Celecoxib capsules are contraindicated in patients with previous serious skin re
 Celecoxib may cause premature closure of the ductus arteriosus.
 Avoid use of NSAIDs, including celecoxib capsules, in pregnant women starting at 30 weeks of gestation (third trimester) [see Use in Specific Populations (8.1)].
 
-## 5.11 Hematological Toxicity
+## 5.11 Hematologic Toxicity
 
 Anemia has occurred in NSAID-treated patients.
 This may be due to occult or gross blood loss, fluid retention, or an incompletely described effect on erythropoiesis.

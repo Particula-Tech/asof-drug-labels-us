@@ -23,7 +23,7 @@ For patients >25 kg the recommended dose is 100 mg twice daily.
 
 For patients who have difficulty swallowing capsules, the contents of a celecoxib capsule can be added to applesauce.
 The entire capsule contents are carefully emptied onto a level teaspoon of cool or room temperature applesauce and ingested immediately with water.
-The sprinkled capsule contents on applesauce are stable for up to 6 hours under refrigerated conditions (2 to 8° C/ 35 to 45° F).
+The sprinkled capsule contents on applesauce are stable for up to 6 hours under refrigerated conditions (2 to 8°C/ 35 to 45°F).
 
 ## 2.5 Ankylosing Spondylitis
 

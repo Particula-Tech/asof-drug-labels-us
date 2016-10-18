@@ -55,7 +55,7 @@ In some patients with systemic onset JRA, both celecoxib and naproxen were assoc
 When NSAIDs including celecoxib are used in patients with systemic onset JRA, monitor patients for signs and symptoms of abnormal clotting or bleeding, due to the risk of disseminated intravascular coagulation.
 Patients with systemic onset JRA should be monitored for the development of abnormal coagulation tests [see Dosage and Administration (2.4), Warnings and Precautions (5.12), Adverse Reactions (6.3), Animal Toxicology (13.2), Clinical Studies (14.3)].
 
-Alternative therapies for treatment of JRA should be considered in pediatric patients identified to be CYP2C9 poor metabolizers [see Poor Metabolizers of CYP2C9 substrates(8.8)].
+Alternative therapies for treatment of JRA should be considered in pediatric patients identified to be CYP2C9 poor metabolizers [see Poor Metabolizers of CYP2C9 substrates (8.8)].
 
 ## 8.5 Geriatric Use
 
@@ -79,5 +79,4 @@ Celecoxib is not recommended in patients with severe renal insufficiency [see Wa
 ## 8.8 Poor Metabolizers of CYP2C9 Substrates
 
 In patients who are known or suspected to be poor CYP2C9 metabolizers (i.e., CYP2C9*3/*3), based on genotype or previous history/experience with other CYP2C9 substrates (such as warfarin, phenytoin) administer celecoxib capsules starting with half the lowest recommended dose.
-Alternative management should be considered in JRA patients identified to be CYP2C9 poor metabolizers.
-[see Dosage and Administration (2.6) and Clinical Pharmacology (12.5)].
+Alternative management should be considered in JRA patients identified to be CYP2C9 poor metabolizers [see Dosage and Administration (2.6) and Clinical Pharmacology (12.5)].

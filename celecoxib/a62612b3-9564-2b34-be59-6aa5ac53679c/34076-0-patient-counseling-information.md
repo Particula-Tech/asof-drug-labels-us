@@ -22,7 +22,7 @@ Female Fertility Advise females of reproductive potential who desire pregnancy t
 
 Fetal Toxicity Inform pregnant women to avoid use of celecoxib capsules and other NSAIDs starting at 30 weeks of gestation because of the risk of the premature closing of the fetal ductus arteriosus [see Warnings and Precautions (5.10) and Use in Specific Populations (8.1)].
 
-Avoid Concomitant Use of NSAIDs Inform patients that the concomitant use of ceelcoxib capsules with other NSAIDs or salicylates (e.g., diflunisal, salsalate) is not recommended due to the increased risk of gastrointestinal toxicity, and little or no increase in efficacy [see Warnings and Precautions (5.2) and Drug Interactions (7)].
+Avoid Concomitant Use of NSAIDs Inform patients that the concomitant use of celecoxib capsules with other NSAIDs or salicylates (e.g., diflunisal, salsalate) is not recommended due to the increased risk of gastrointestinal toxicity, and little or no increase in efficacy [see Warnings and Precautions (5.2) and Drug Interactions (7)].
 Alert patients that NSAIDs may be present in "over the counter" medications for treatment of colds, fever, or insomnia.
 
 Use of NSAIDS and Low-Dose Aspirin Inform patients not to use low-dose aspirin concomitantly with celecoxib capsules until they talk to their healthcare provider [see Drug Interactions (7)].
@@ -35,5 +35,5 @@ APOTEX INC. CELECOXIB CAPSULES 50 mg, 100 mg and 200 mg
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | USA 33326 |
 
-Revised: May 2016 Rev.
-5
+Revised: October 2016 Rev.
+6
