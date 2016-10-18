@@ -20,6 +20,8 @@ This in vitro chelation potential has the following formation order: Al+3>Cu+2>Z
 
 Excipients and Description of Dosage Forms
 
+Levofloxacin Tablets
+
 Levofloxacin tablets are available as film-coated tablets and contain the following inactive ingredients:
 
 250 mg (as expressed in the anhydrous form): colloidal silicon dioxide, corn starch, crospovidone, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol and titanium dioxide.

@@ -6,9 +6,9 @@ Levofloxacin is a member of the fluoroquinolone class of antibacterial agents [s
 
 ## 12.3 Pharmacokinetics
 
-The mean ±SD pharmacokinetic parameters of levofloxacin determined under single and steady-state conditions following oral tablet doses of levofloxacin are summarized in Table 10.
+The mean ±SD pharmacokinetic parameters of levofloxacin determined under single and steady-state conditions following oral tablet doses of levofloxacin are summarized in Table 8.
 
-Table 10: Mean ±SD Levofloxacin PK Parameters
+Table 8: Mean ±SD Levofloxacin PK Parameters
 
 | Regimen | Cmax (mcg/mL) | Tmax (h) | AUC (mcg•h/mL) | CL/F1(mL/min) | Vd/F2(L) | t1/2 (h) | CLR (mL/min) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -110,7 +110,7 @@ Renal clearance in excess of the glomerular filtration rate suggests that tubula
 Concomitant administration of either cimetidine or probenecid results in approximately 24% and 35% reduction in the levofloxacin renal clearance, respectively, indicating that secretion of levofloxacin occurs in the renal proximal tubule.
 No levofloxacin crystals were found in any of the urine samples freshly collected from subjects receiving levofloxacin.
 
-### Geriatric
+### Geriatrics
 
 There are no significant differences in levofloxacin pharmacokinetics between young and elderly subjects when the subjects’ differences in creatinine clearance are taken into consideration.
 Following a 500 mg oral dose of levofloxacin to healthy elderly subjects (66 to 80 years of age), the mean terminal plasma elimination half-life of levofloxacin was about 7.6 hours, as compared to approximately 6 hours in younger adults.
@@ -157,9 +157,6 @@ The potential for pharmacokinetic drug interactions between levofloxacin and ant
 
 ## 12.4 Microbiology
 
-Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-One such standardized procedure2,3 requires the use of standardized inoculum concentrations.
-This procedure uses paper disks impregnated with 5 mcg levofloxacin to test the susceptibility of bacteria to levofloxacin.
 Mechanism of Action
 
 Levofloxacin is the L-isomer of the racemate, ofloxacin, a quinolone antimicrobial agent.
@@ -289,15 +286,15 @@ Dilution techniques: Quantitative methods are used to determine antimicrobial mi
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
 The MIC values should be determined using a standardized procedure.
 Standardized procedures are based on a dilution method(broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of levofloxacin powder.
-The MIC values should be interpreted according to the criteria outlined in Table 11.
+The MIC values should be interpreted according to the criteria outlined in Table 9.
 
 Diffusion techniques: Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 One such standardized procedure2,3 requires the use of standardized inoculum concentrations.
 This procedure uses paper disks impregnated with 5 mcg levofloxacin to test the susceptibility of bacteria to levofloxacin.
 
-Reports from the laboratory providing results of the standard single-disk susceptibility test with a 5 mcg levofloxacin disk should be interpreted according the criteria outlined in Table 11.
+Reports from the laboratory providing results of the standard single-disk susceptibility test with a 5 mcg levofloxacin disk should be interpreted according the criteria outlined in Table 9.
 
-Table 11: Susceptibility Test Interpretive Criteria for Levofloxacin
+Table 9: Susceptibility Test Interpretive Criteria for Levofloxacin
 
 |  | Minimum Inhibitory Concentrations (mcg/mL) |  |  | Disk Diffusion (zone diameter in mm) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -326,10 +323,10 @@ A report of Resistant indicates that the pathogen is not likely to be inhibited 
 
 Quality Control:
 
-Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test.1,2,3,4 Standard levofloxacin powder should provide the range of MIC values noted in Table 12.
-For the diffusion technique using the 5 mcg disk, the criteria in Table 12 should be achieved.
+Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test.1,2,3,4 Standard levofloxacin powder should provide the range of MIC values noted in Table 10.
+For the diffusion technique using the 5 mcg disk, the criteria in Table 10 should be achieved.
 
-Table 12: Quality Control Ranges for Susceptibility Testing
+Table 10: Quality Control Ranges for Susceptibility Testing
 
 | Microorganism | Microorganism QC Number | MIC (mcg/mL) | Disk Diffusion (zone diameter in mm) |
 | --- | --- | --- | --- |

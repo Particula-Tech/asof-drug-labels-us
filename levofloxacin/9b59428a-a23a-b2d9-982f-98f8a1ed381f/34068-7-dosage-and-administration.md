@@ -2,29 +2,29 @@
 
 ## 2.1 Dosage in Adult Patients with Normal Renal Function
 
-The usual dose of levofloxacin tablets are 250 mg, 500 mg, or 750 mg administered orally every 24 hours, as indicated by infection and described in Table 1.
+The usual dose of levofloxacin tablets is 250 mg, 500 mg, or 750 mg administered orally every 24 hours, as indicated by infection and described in Table 1.
 
 These recommendations apply to patients with creatinine clearance ≥ 50 mL/min.
 For patients with creatinine clearance <50 mL/min, adjustments to the dosing regimen are required [see Dosage and Administration (2.3)].
 
 Table 1: Dosage in Adult Patients with Normal Renal Function (creatinine clearance ≥ 50 mL/min)
 
-| Type of Infection* | Dosed Every 24 hours | Duration (days)† |
+| Type of Infection* | Dosed Every 24 hours | Duration (days) † |
 | --- | --- | --- |
 | Nosocomial Pneumonia | 750 mg | 7 to 14 |
 | Community Acquired Pneumonia ‡ | 500 mg | 7 to 14 |
 | Community Acquired Pneumonia§ | 750 mg | 5 |
-| Acute Bacterial Sinusitis | 750 mg | 5 |
-| 500 mg | 10 to 14 |  |
-| Acute Bacterial Exacerbation of Chronic Bronchitis | 500 mg | 7 |
 | Complicated Skin and Skin Structure Infections (SSSI) | 750 mg | 7 to 14 |
 | Uncomplicated SSSI | 500 mg | 7 to 10 |
 | Chronic Bacterial Prostatitis | 500 mg | 28 |
+| Inhalational Anthrax (Post-Exposure), adult and pediatric patients > 50 kg Þ,ß Pediatric patients < 50 kg and ≥ 6 months of age Þ,ß | 500 mg see Table 2 below (2.2) | 60 ß 60 ß |
+| Plague, adult and pediatric patients > 50 kg à Pediatric Patients < 50 kg and ≥ 6 months of age | 500 mg see Table 2 below (2.2) | 10 to 14 10 to 14 |
 | Complicated Urinary Tract Infection (cUTI) or Acute Pyelonephritis (AP)¶ | 750 mg | 5 |
 | Complicated Urinary Tract Infection (cUTI) or Acute Pyelonephritis (AP)# | 250 mg | 10 |
 | Uncomplicated Urinary Tract Infection | 250 mg | 3 |
-| Inhalational Anthrax (Post-Exposure), adult and pediatric patients > 50 kg Þ,ß Pediatric patients < 50 kg and ≥ 6 months of age Þ,ß | 500 mg see Table 2 below (2.2) | 60 ß 60 ß |
-| Plague, adult and pediatric patients > 50 kgà Pediatric patients < 50 kg and ≥ 6 months of age | 500 mg see Table 2 below (2.2) | 10 to 14 10 to 14 |
+| Acute Bacterial Exacerbation of Chronic Bronchitis (ABECB) | 500 mg | 7 |
+| Acute Bacterial Sinusitis (ABS) | 750 mg | 5 |
+|  | 500 mg | 10 to 14 |
 
 1* Due to the designated pathogens [see Indications and Usage (1)].
 
@@ -97,11 +97,11 @@ Table 3: Dosage Adjustment in Adult Patients with Renal Impairment (creatinine c
 | 500 mg | 500 mg initial dose, then 250 mg every 24 hours | 500 mg initial dose, then 250 mg every 48 hours | 500 mg initial dose, then 250 mg every 48 hours |
 | 250 mg | No dosage adjustment required | 250 mg every 48 hours. If treating uncomplicated UTI, then no dosage adjustment is required | No information on dosing adjustment is available |
 
-## 2.4 Drug Interaction With Chelation Agents:
+## 2.4 Drug Interaction With Chelation Agents: Antacids, Sucralfate, Metal Cations, Multivitamins
 
-Antacids, Sucralfate, Metal Cations, Multivitamins
+Levofloxacin Tablets
 
-Levofloxacin tablets should be administered at least two hours before or two hours after antacids containing magnesium, aluminum, as well as sucralfate, metal cations such as iron, and multivitamin preparations with zinc or didanosine chewable/buffered tablets or the pediatric powder for oral solution [seeDrugInteractions (7.1) and Patient Counseling Information (17.2)]
+Levofloxacin tablets should be administered at least two hours before or two hours after antacids containing magnesium, aluminum, as well as sucralfate, metal cations such as iron, and multivitamin preparations with zinc or didanosine chewable/buffered tablets or the pediatric powder for oral solution [see Drug Interactions (7.1) and Patient Counseling Information (17.2)].
 
 ## 2.5 Administration Instructions
 
@@ -112,4 +112,4 @@ Levofloxacin tablets can be administered without regard to food.
 Hydration for Patients Receiving Levofloxacin Tablets
 
 Adequate hydration of patients receiving oral levofloxacin should be maintained to prevent the formation of highly concentrated urine.
-Crystalluria and cylindruria have been reported with quinolones [seeAdverse Reactions (6.1) and Patient Counseling Information (17.2)].
+Crystalluria and cylindruria have been reported with quinolones [see Adverse Reactions (6.1) and Patient Counseling Information (17.2)]
