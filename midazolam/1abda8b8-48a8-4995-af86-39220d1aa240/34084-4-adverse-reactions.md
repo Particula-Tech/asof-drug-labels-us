@@ -15,7 +15,7 @@ In most of these cases, the patients also received other central nervous system 
 
 The following additional adverse reactions were reported subsequent to intravenous administration as a single sedative/anxiolytic/amnestic agent in adult patients:
 
-| hiccoughs (3.9%) nausea (2.8%) vomiting (2.6%) coughing (1.3%) “oversedation” (1.6%) headache (1.5%) drowsiness (1.2%) | Local effects at the IV site tenderness (5.6%) pain during injection (5.0%) redness (2.6%) induration (1.7%) phlebitis (0.4%) |
+| hiccoughs (3.9%) nausea (2.8%) vomiting (2.6%) coughing (1.3%) "oversedation" (1.6%) headache (1.5%) drowsiness (1.2%) | Local effects at the IV site tenderness (5.6%) pain during injection (5.0%) redness (2.6%) induration (1.7%) phlebitis (0.4%) |
 | --- | --- |
 
 Pediatric Patients: The following adverse events related to the use of IV midazolam in pediatric patients were reported in the medical literature: desaturation 4.6%, apnea 2.8%, hypotension 2.7%, paradoxical reactions 2.0%, hiccough 1.2%, seizure-like activity 1.1% and nystagmus 1.1%.

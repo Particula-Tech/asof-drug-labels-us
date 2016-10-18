@@ -1,5 +1,12 @@
 # WARNINGS
 
+Concomitant use of benzodiazepines, including midazolam, and opioids may result in profound sedation, respiratory depression, coma, and death.
+Because of these risks, reserve concomitant prescribing of benzodiazepines and opioids for use in patients for whom alternative treatment options are inadequate.
+
+Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioids alone.
+If a decision is made to prescribe midazolam concomitantly with opioids, prescribe the lowest effective dosages and minimum durations of concomitant use, and follow patients closely for signs and symptoms of respiratory depression and sedation.
+Advise both patients and caregivers about the risks of respiratory depression and sedation when midazolam is used with opioids (see PRECAUTIONS; Drug Interactions).
+
 Midazolam must never be used without individualization of dosage particularly when used with other medications capable of producing central nervous system depression.
 Prior to the intravenous administration of midazolam in any dose, the immediate availability of oxygen, resuscitative drugs, age- and size-appropriate equipment for bag/valve/mask ventilation and intubation, and skilled personnel for the maintenance of a patent airway and support of ventilation should be ensured.
 Patients should be continuously monitored with some means of detection for early signs of hypoventilation, airway obstruction, or apnea, i.e., pulse oximetry.
@@ -67,7 +74,7 @@ Midazolam does not protect against the increase in intracranial pressure or agai
 
 Use with Other CNS Depressants: The efficacy and safety of midazolam in clinical use are functions of the dose administered, the clinical status of the individual patient, and the use of concomitant medications capable of depressing the CNS.
 Anticipated effects range from mild sedation to deep levels of sedation virtually equivalent to a state of general anesthesia where the patient may require external support of vital functions.
-Care must be taken to individualize and carefully titrate the dose of midazolam to the patient’s underlying medical/surgical conditions, administer to the desired effect being certain to wait an adequate time for peak CNS effects of both midazolam and concomitant medications, and have the personnel and size-appropriate equipment and facilities available for monitoring and intervention (see Boxed WARNING, WARNINGS and DOSAGE AND ADMINISTRATION).
+Care must be taken to individualize and carefully titrate the dose of midazolam to the patient's underlying medical/surgical conditions, administer to the desired effect being certain to wait an adequate time for peak CNS effects of both midazolam and concomitant medications, and have the personnel and size-appropriate equipment and facilities available for monitoring and intervention (see Boxed WARNING, WARNINGS and DOSAGE AND ADMINISTRATION).
 Practitioners administering midazolam must have the skills necessary to manage reasonably foreseeable adverse effects, particularly skills in airway management.
 For information regarding withdrawal (see DRUG ABUSE AND DEPENDENCE).
 
@@ -81,7 +88,12 @@ Information for Patients: To assure safe and effective use of benzodiazepines, t
    The decision as to when patients who have received injectable midazolam, particularly on an outpatient basis, may again engage in activities requiring complete mental alertness, operate hazardous machinery or drive a motor vehicle must be individualized.
 5. 5.Patients receiving continuous infusion of midazolam in critical care settings over an extended period of time, may experience symptoms of withdrawal following abrupt discontinuation.
 
-Drug Interactions: The sedative effect of intravenous midazolam is accentuated by any concomitantly administered medication, which depresses the central nervous system, particularly narcotics (e.g., morphine, meperidine and fentanyl) and also secobarbital and droperidol.
+Drug Interactions: The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration.
+Benzodiazepines interact at GABAA sites and opioids interact primarily at mu receptors.
+When benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory depression exists.
+Limit dosage and duration of concomitant use of benzodiazepines and opioids, and monitor patients closely for respiratory depression and sedation.
+
+The sedative effect of intravenous midazolam is accentuated by any concomitantly administered medication, which depresses the central nervous system, particularly narcotics (e.g., morphine, meperidine and fentanyl) and also secobarbital and droperidol.
 Consequently, the dosage of midazolam should be adjusted according to the type and amount of concomitant medications administered and the desired clinical response (see DOSAGE AND ADMINISTRATION).
 
 Caution is advised when midazolam is administered concomitantly with drugs that are known to inhibit the P450-3A4 enzyme system such as cimetidine (not ranitidine), erythromycin, diltiazem, verapamil, ketoconazole and itraconazole.

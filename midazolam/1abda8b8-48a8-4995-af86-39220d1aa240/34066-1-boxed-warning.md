@@ -1,8 +1,8 @@
-# WARNING
+# WARNING: RESPIRATORY DEPRESSION, RESPIRATORY ARREST and RISKS FROM CONCOMITANT USE WITH OPIOIDS; and SEVERE HYPOTENSION AND SEIZURES IN NEONATES
 
 Adult and Pediatric: Intravenous midazolam has been associated with respiratory depression and respiratory arrest, especially when used for sedation in noncritical care settings.
 In some cases, where this was not recognized promptly and treated effectively, death or hypoxic encephalopathy has resulted.
-Intravenous midazolam should be used only in hospital or ambulatory care settings, including physicians’ and dental offices, that provide for continuous monitoring of respiratory and cardiac function, ie, pulse oximetry.
+Intravenous midazolam should be used only in hospital or ambulatory care settings, including physicians' and dental offices, that provide for continuous monitoring of respiratory and cardiac function, ie, pulse oximetry.
 Immediate availability of resuscitative drugs and age- and size-appropriate equipment for bag/valve/mask ventilation and intubation, and personnel trained in their use and skilled in airway management should be assured (see WARNINGS).
 For deeply sedated pediatric patients, a dedicated individual, other than the practitioner performing the procedure, should monitor the patient throughout the procedures.
 
@@ -12,6 +12,12 @@ The initial dose and all subsequent doses should always be titrated slowly; admi
 The use of the 1 mg/mL formulation or dilution of the 1 mg/mL or 5 mg/mL formulation is recommended to facilitate slower injection.
 Doses of sedative medications in pediatric patients must be calculated on a mg/kg basis, and initial doses and all subsequent doses should always be titrated slowly.
 The initial pediatric dose of midazolam for sedation/anxiolysis/amnesia is age, procedure, and route dependent (see DOSAGE AND ADMINISTRATION for complete dosing information).
+
+Concomitant use of benzodiazepines and opioids may result in profound sedation, respiratory depression, coma, and death (see WARNINGS and PRECAUTION; Drug Interactions).
+
+- Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
+- Limit dosages and durations to the minimum required.
+- Follow patients for signs and symptoms of respiratory depression and sedation.
 
 Neonates: Midazolam should not be administered by rapid injection in the neonatal population.
 Severe hypotension and seizures have been reported following rapid IV administration, particularly with concomitant use of fentanyl (see DOSAGE AND ADMINISTRATION for complete information).

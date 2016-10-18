@@ -40,7 +40,7 @@ In pediatric patients, a comparison of IV midazolam (500 mcg/kg) with propofol (
 
 Pharmacokinetics
 
-Midazolam’s activity is primarily due to the parent drug.
+Midazolam's activity is primarily due to the parent drug.
 Elimination of the parent drug takes place via hepatic metabolism of midazolam to hydroxylated metabolites that are conjugated and excreted in the urine.
 Six single-dose pharmacokinetic studies involving healthy adults yield pharmacokinetic parameters for midazolam in the following ranges: volume of distribution (Vd), 1.0 to 3.1 L/kg; elimination half-life, 1.8 to 6.4 hours (mean approximately 3 hours); total clearance (Cl), 0.25 to 0.54 L/hr/kg.
 In a parallel group study, there was no difference in the clearance, in subjects administered 0.15 mg/kg (n=4) and 0.3 mg/kg (n=4) IV doses indicating linear kinetics.

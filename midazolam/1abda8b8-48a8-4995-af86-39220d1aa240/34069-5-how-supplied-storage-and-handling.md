@@ -17,6 +17,6 @@ Store at 20 to 25°C (68 to 77°F).
 
 Discard unused portion.
 
-Revised: 02/2012
+Hospira, Inc., Lake Forest, IL 60045 USA
 
-EN-3007 Hospira, Inc., Lake Forest, IL 60045 USA
+LAB-0849-1.0 September 2016
