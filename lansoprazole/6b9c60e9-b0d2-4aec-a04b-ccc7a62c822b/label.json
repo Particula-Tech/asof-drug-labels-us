@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "ANDA203957"
+  ],
+  "inn": "lansoprazole",
+  "labeler": "Ajanta Pharma Limited",
+  "package_ndcs": [
+    "27241-019-03",
+    "27241-019-10",
+    "27241-020-03",
+    "27241-020-09",
+    "27241-020-10",
+    "27241-020-50",
+    "27241-020-90"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, DELAYED RELEASE",
+      "generic": "lansoprazole",
+      "name": "Lansoprazole"
+    }
+  ],
+  "setid": "6b9c60e9-b0d2-4aec-a04b-ccc7a62c822b",
+  "source": "dailymed"
+}
