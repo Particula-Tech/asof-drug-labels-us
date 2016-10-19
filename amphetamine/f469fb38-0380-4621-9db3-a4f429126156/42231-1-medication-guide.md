@@ -1,4 +1,4 @@
-# MEDICATION GUIDE Evekeo™ (amphetamine sulfate tablets, USP)
+# MEDICATION GUIDE Evekeo® (amphetamine sulfate tablets, USP)
 
 Read this Medication Guide before you or your child starts taking Evekeo and each time you get a refill.
 There may be new information.
@@ -104,6 +104,17 @@ Other serious side effects include:
 - slowing of growth (height and weight) in children
 - seizures, mainly in people with a history of seizures
 - eyesight changes or blurred vision
+- Serotonin syndrome.
+  A potentially life-threatening problem called serotonin syndrome can happen when medicines such as Evekeo are taken with certain other medicines.
+  Symptoms of serotonin syndrome may include:
+  - agitation, hallucinations, coma or other changes in mental status
+  - problems controlling your movements or muscle twitching
+  - fast heartbeat
+  - high or low blood pressure
+  - sweating or fever
+  - nausea or vomiting
+  - diarrhea
+  - muscle stiffness or tightness
 
 The most common side effects of Evekeo include:
 
@@ -160,3 +171,8 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 Manufactured by: Mikart, Inc. Atlanta, GA 30318
 
 Manufactured for: Arbor Pharmaceuticals, LLC Atlanta, GA 30328
+
+AM-MG-06
+
+Rev.
+09/16

@@ -2,7 +2,7 @@
 
 NDC 24338-022-10 100 tablets
 
-Evekeo™ CII (amphetamine sulfate tablets, USP) 5 mg
+Evekeo® CII (amphetamine sulfate tablets, USP) 5 mg
 
 Rx only
 
@@ -14,7 +14,7 @@ Mfd. for Arbor Pharmaceuticals, LLC Atlanta, GA 30328
 
 NDC 24338-026-10 100 tablets
 
-Evekeo™ CII (amphetamine sulfate tablets, USP) 10 mg
+Evekeo® CII (amphetamine sulfate tablets, USP) 10 mg
 
 Rx only
 

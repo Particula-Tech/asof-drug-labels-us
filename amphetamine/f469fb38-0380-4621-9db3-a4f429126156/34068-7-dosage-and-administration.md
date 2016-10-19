@@ -7,7 +7,7 @@ Late evening doses should be avoided because of resulting insomnia.
 
 Usual dose is 5 to 60 milligrams per day in divided doses depending on the individual patient response.
 
-Narcolepsy seldom occurs in children under 12 years of age; however, when it does Evekeo may be used.
+Narcolepsy seldom occurs in children under 12 years of age; however, when it does, Evekeo may be used.
 The suggested initial dose for patients aged 6 to 12 is 5 mg daily; daily dose may be raised in increments of 5 mg at weekly intervals until optimal response obtained.
 In patients 12 years of age and older, start with 10 mg daily; daily dosage may be raised in increments of 10 mg at weekly intervals until optimal response is obtained.
 If bothersome adverse reactions appear (e.g., insomnia or anorexia) dosage should be reduced.
