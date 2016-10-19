@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 2.5/0.025 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 2.5 mg/0.025 mg Tablet Bottle Label
 
 NDC 0025-0061-31
 
