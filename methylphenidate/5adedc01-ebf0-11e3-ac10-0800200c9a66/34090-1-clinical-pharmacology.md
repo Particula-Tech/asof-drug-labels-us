@@ -31,7 +31,7 @@ Table 2: The Single Dose Pharmacokinetics of d,l-Methylphenidate1 ER Capsule and
 | Half-life (hr) | 5.09 |  | 5.43 |  |
 | Relativebioavailability | 102% |  | 101% |  |
 
-1 d-l (racemic) methylphenidate HCl 2 Cmax, AUC(0-t), AUC(0-inf) presented as mean ± SD ‡ data presented as median (range)
+1 d,l (racemic) methylphenidate HCl 2 Cmax, AUC(0-t), AUC(0-inf) presented as mean ± SD ‡ data presented as median (range)
 
 Figure 1: Mean d,l-Methylphenidate Plasma Concentration-Time Profiles following 80 mg Administered as Capsule and Sprinkle Dose in Healthy Adults
 

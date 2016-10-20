@@ -54,9 +54,8 @@ Coventry, RI 02816
 Manufactured by: Patheon Manufacturing Services LLC Greenville, North Carolina 27834
 
 APTENSIO XR™ is a trademark of Rhodes Pharmaceuticals L.P.
-This product is covered by US patents including US Patents No. 6,419,960, 7,083,808, 7,247,318 and 7,438,930.
+This product is covered by US patents including US Patents No. 6,419,960, 7,083,808, 7,247,318, 8,580,310 and 9,066,869.
 
-Component # 302802-0A
+Component # 302802-0B
 
-Rev.
-April 2015
+Revised 09/2016

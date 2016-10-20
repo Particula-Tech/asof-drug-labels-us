@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-7.1 Clinically Important Interactions with APTENSIO XR
+## 7.1 Clinically Important Interactions with APTENSIO XR
 
 Monoamine Oxidase Inhibitors (MAOIs)
 
