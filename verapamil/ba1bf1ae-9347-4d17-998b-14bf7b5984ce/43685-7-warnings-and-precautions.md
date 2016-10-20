@@ -77,6 +77,9 @@ Limit the dose of simvastatin in patients on verapamil to 10 mg daily.
 Limit the daily dose of lovastatin to 40 mg.
 Lower starting and maintenance doses of other CYP3A4 substrates (e.g., atorvastatin) may be required as verapamil may increase the plasma concentration of these drugs.
 
+Ivabradine: Concurrent use of verapamil increases exposure to ivabradine and may exacerbate bradycardia and conduction disturbances.
+Avoid co-administration of verapamil and ivabradine.
+
 Beta-blockers: Concomitant therapy with beta-adrenergic blockers and verapamil may result in additive negative effects on heart rate, atrioventricular conduction, and/or cardiac contractility.
 The combination of sustained-release verapamil and beta-adrenergic blocking agents has not been studied.
 However, there have been reports of excessive bradycardia and AV block, including complete heart block, when the combination has been used for the treatment of hypertension.

@@ -2,53 +2,15 @@
 
 Verapamil hydrochloride extended-release tablets USP, 120 mg are supplied as brown colored, oval, biconvex, film-coated tablets with ‘292’ debossed on one side and plain on the other side.
 
-120 mg (brown colored) – Bottles of 90
-
-NDC 68462-292-90
-
-Bottles of 100
-
-NDC 68462-292-01
-
-Bottles of 500
-
-NDC 68462-292-05
+120 mg (brown colored) Bottles of 90 - NDC 68462-292-90 Bottles of 100 - NDC 68462-292-01 Bottles of 500 - NDC 68462-292-05
 
 Verapamil hydrochloride extended-release tablets USP, 180 mg are supplied as brown colored, oval, biconvex, film-coated tablets with ‘293’ debossed on one side and breakline on the other side.
 
-180 mg (brown colored) – Bottles of 90
-
-NDC 68462-293-90
-
-Bottles of 100
-
-NDC 68462- 293-01
-
-Bottles of 500
-
-NDC 68462-293-05
+180 mg (brown colored) Bottles of 90 - NDC 68462-293-90 Bottles of 100 - NDC 68462-293-01 Bottles of 500 - NDC 68462-293-05
 
 Verapamil hydrochloride extended-release tablets USP, 240 mg are supplied as brown colored, oval, biconvex, film-coated tablets with ‘G74’ debossed on one side and breakline on the other side.
 
-240 mg (brown colored) – Bottles of 30
-
-NDC 68462-260-30
-
-Bottles of 90
-
-NDC 68462-260-90
-
-Bottles of 100
-
-NDC 68462-260-01
-
-Bottles of 500
-
-NDC 68462-260-05
-
-Bottles of 1000
-
-NDC 68462-260-10
+240 mg (brown colored) Bottles of 30 - NDC 68462-260-30 Bottles of 90 - NDC 68462-260-90 Bottles of 100 - NDC 68462-260-01 Bottles of 500 - NDC 68462-260-05 Bottles of 1000 - NDC 68462-260-10
 
 ## Storage:
 
