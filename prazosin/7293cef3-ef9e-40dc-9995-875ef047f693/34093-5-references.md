@@ -8,9 +8,11 @@ Davey, DA, and Dommisse, J: S.A.
 Med J, Oct.
 4, 1980 (551-556).
 
+Distributed By:
+
 TEVA PHARMACEUTICALS USA, INC.
 
 North Wales, PA 19454
 
 Rev.
-F 3/2015
+G 8/2015

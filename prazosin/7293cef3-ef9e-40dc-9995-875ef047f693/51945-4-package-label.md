@@ -1,6 +1,6 @@
 # Package/Label Display Panel
 
-## Prazosin Hydrochloride Capsules 1 mg 100s Label Text
+## Prazosin Hydrochloride Capsules USP 1 mg 100s Label Text
 
 NDC 0093-4067-01
 
@@ -14,7 +14,7 @@ TEVA
 
 # Package/Label Display Panel
 
-## Prazosin Hydrochloride Capsules 2 mg 100s Label Text
+## Prazosin Hydrochloride Capsules USP 2 mg 100s Label Text
 
 NDC 0093-4068-01
 
@@ -28,7 +28,7 @@ TEVA
 
 # Package/Label Display Panel
 
-## Prazosin Hydrochloride Capsules 5 mg 100s Label Text
+## Prazosin Hydrochloride Capsules USP 5 mg 100s Label Text
 
 NDC 0093-4069-01
 

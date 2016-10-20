@@ -1,11 +1,9 @@
 {
   "application_numbers": [
-    "ANDA071745",
-    "ANDA071994",
-    "ANDA071995"
+    "ANDA071745"
   ],
   "inn": "prazosin",
-  "labeler": "Teva Pharmaceuticals USA Inc",
+  "labeler": "Teva Pharmaceuticals USA, Inc.",
   "package_ndcs": [
     "0093-4067-01",
     "0093-4067-10",
