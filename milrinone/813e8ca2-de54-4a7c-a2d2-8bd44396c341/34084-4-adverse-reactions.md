@@ -11,7 +11,7 @@ The incidence of both supraventricular and ventricular arrhythmias has not been 
 
 Other cardiovascular adverse reactions include hypotension, 2.9% and angina/chest pain, 1.2%.
 
-In the post-marketing experience, there have been rare cases of “torsades de pointes” reported.
+In the post-marketing experience, there have been rare cases of "torsades de pointes" reported.
 
 CNS Effects
 
