@@ -39,8 +39,7 @@ NDC 0168-0201-60
 
 Fougera ®
 
-CLINDAMYCIN PHOSPHATE Topical Solution USP, 1% Equivalent to 1% (10 mg/mL) clindamycin WARNING: Keep out of reach of children.
-For Topical Use Only.
+CLINDAMYCIN PHOSPHATE Topical Solution USP, 1% Equivalent to 1% (10 mg/mL) clindamycin For Topical Use Only.
 
 Rx only 60 mL
 

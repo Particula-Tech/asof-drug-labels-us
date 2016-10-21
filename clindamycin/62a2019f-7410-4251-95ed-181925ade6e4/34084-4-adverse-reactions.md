@@ -4,9 +4,9 @@ In 18 clinical studies of various formulations of clindamycin phosphate using pl
 
 Number of Patients Reporting Events
 
-| Treatment Emergent | Solution |  |  | Gel |  |  | Lotion |  |
+| Treatment Emergent Adverse Event | Solution |  |  | Gel |  |  | Lotion |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Adverse Event | n=553 | (%) |  | n=148 | (%) |  | n=160 | (%) |
+|  | n=553 | (%) |  | n=148 | (%) |  | n=160 | (%) |
 | Burning | 62 | (11) |  | 15 | (10) |  | 17 | (11) |
 | Itching | 36 | (7) |  | 15 | (10) |  | 17 | (11) |
 | Burning/Itching | 60 | (11) |  | # | (–) |  | # | (–) |
@@ -22,4 +22,4 @@ Orally and parenterally administered clindamycin has been associated with severe
 Cases of diarrhea, bloody diarrhea and colitis (including pseudomembranous colitis) have been reported as adverse reactions in patients treated with oral and parenteral formulations of clindamycin and rarely with topical clindamycin.
 (see WARNINGS.)
 
-Abdominal pain and gastrointestinal disturbances as well as gram-negative folliculitis have also been reported in association with the use of topical formulations of clindamycin.
+Abdominal pain, gastrointestinal disturbances, gram-negative folliculitis, eye pain and contact dermatitis have also been reported in association with the use of topical formulations of clindamycin.
