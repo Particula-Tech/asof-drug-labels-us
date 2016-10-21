@@ -34,6 +34,50 @@ LUCENTIS 0.3 mg (0.05 mL of 6 mg/mL LUCENTIS solution) is recommended to be admi
 
 ## 2.6 Preparation for Administration
 
+Prefilled Syringe:
+
+To prepare LUCENTIS for intravitreal administration, please adhere to these instructions for use.
+Read all the instructions carefully before using the prefilled syringe.
+
+How to store LUCENTIS:
+
+- LUCENTIS should be refrigerated at 2º-8ºC (36º-46ºF).
+  Do not freeze.
+- Do not use beyond the expiration date stamped on the label.
+- LUCENTIS prefilled syringes should be protected from light and stored in a dark place.
+- Do not open the sealed tray until time of use.
+
+The prefilled syringe is for single use only.
+The prefilled syringe is sterile.
+Do not use the product if the packaging is damaged or has been tampered with.
+
+The opening of the sealed tray and all subsequent steps should be done under aseptic conditions.
+
+For the intravitreal injection, a 30-gauge × ½ inch sterile injection needle should be used (not provided).
+
+Note: the dose must be set to 0.05 mL.
+
+| Device description |  |
+| --- | --- |
+| Step 1: Prepare |  |
+| Make sure that your pack contains a sterile prefilled syringe in a sealed tray.Peel the lid off the syringe tray and, using aseptic technique, remove the syringe. |  |
+| Step 2: Inspect syringe |  |
+| LUCENTIS should be colorless to pale yellow.Do not use the prefilled syringe if: -the syringe cap is detached from the Luer lock. -the syringe is damaged.-particulates, cloudiness, or discoloration are visible. |  |
+| Step 3: Remove syringe cap |  |
+| Snap off (do not turn or twist) the syringe cap (see Figure 2). |  |
+| Step 4: Attach needle |  |
+| Attach a 30G × ½ inch sterile injection needle firmly onto the syringe by screwing it tightly onto the Luer lock (see Figure 3).Carefully remove the needle cap by pulling it straight off. |  |
+| Note: Do not wipe the needle at any time. |  |
+| Step 5: Dislodge air bubbles |  |
+| Hold the syringe with the needle pointing up. If there are any air bubbles, gently tap the syringe with your finger until the bubbles rise to the top (see Figure 4). |  |
+| Step 6: Expel air and adjust drug dose |  |
+| Hold the syringe at eye level, and carefully push the plunger rod until the edge below the dome of the rubber stopper is aligned with the 0.05 mL dose mark (see Figure 5). |  |
+| Note: The plunger rod is not attached to the rubber stopper – this is to prevent air being drawn into the syringe. |  |
+| Step 7: Inject |  |
+| The injection procedure should be carried out under aseptic conditions.Insert the needle into the injection site. Inject slowly until rubber stopper reaches the bottom of the syringe to deliver the volume of 0.05 mL. After injection, do not recap the needle or detach it from the syringe. Dispose of the used syringe together with the needle in a sharps disposal container or in accordance with local requirements. |  |
+
+Vial:
+
 Using aseptic technique, all of the LUCENTIS vial contents are withdrawn through a 5-micron, 19-gauge filter needle attached to a 1-cc tuberculin syringe.
 The filter needle should be discarded after withdrawal of the vial contents and should not be used for intravitreal injection.
 The filter needle should be replaced with a sterile 30-gauge × 1/2-inch needle for the intravitreal injection.
@@ -48,7 +92,7 @@ Prior to and 30 minutes following the intravitreal injection, patients should be
 Monitoring may also consist of a check for perfusion of the optic nerve head immediately after the injection [see Warnings and Precautions (5.2)].
 Patients should also be monitored for and instructed to report any symptoms suggestive of endophthalmitis without delay following the injection [see Warnings and Precautions (5.1)].
 
-Each vial should only be used for the treatment of a single eye.
-If the contralateral eye requires treatment, a new vial should be used and the sterile field, syringe, gloves, drapes, eyelid speculum, filter, and injection needles should be changed before LUCENTIS is administered to the other eye.
+Each prefilled syringe or vial should only be used for the treatment of a single eye.
+If the contralateral eye requires treatment, a new prefilled syringe or vial should be used and the sterile field, syringe, gloves, drapes, eyelid speculum, filter needle (vial only), and injection needles should be changed before LUCENTIS is administered to the other eye.
 
 No special dosage modification is required for any of the populations that have been studied (e.g., gender, elderly).

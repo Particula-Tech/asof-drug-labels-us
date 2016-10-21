@@ -116,12 +116,12 @@ Table 5 Visual Acuity Outcomes at Month 6 in Study RVO-1 and Study RVO-2
 
 p < 0.01 for all time points
 
-## 14.3 Diabetic Macular Edema (DME)
+## 14.3 Diabetic Macular Edema
 
 Efficacy and safety data of LUCENTIS are derived from studies D-1 and D-2 (See Section 14.4 Diabetic Retinopathy below).
 All enrolled patients had DR and DME at baseline.
 
-The safety and efficacy of LUCENTIS were assessed in two randomized, double-masked, 3-year studies in patients with DME.
+The safety and efficacy of LUCENTIS were assessed in two randomized, double-masked, 3-year studies.
 The studies were sham-controlled through Month 24.
 Patient age ranged from 21 to 91 years, with a mean age of 62 years.
 A total of 759 patients (LUCENTIS 0.3 mg, 250 patients; LUCENTIS 0.5 mg, 252 patients; sham, 257 patients) were enrolled, with 582 (77%) completing through Month 36.
@@ -134,7 +134,7 @@ Through Month 24, macular focal/grid laser treatment was administered in 94 of 2
 Compared to monthly LUCENTIS 0.3 mg, no additional benefit was observed with monthly treatment with LUCENTIS 0.5 mg.
 At Month 24, after monthly treatment with LUCENTIS 0.3 mg, the following clinical results were observed:
 
-Table 6 Visual Acuity Outcomes at Month 24 in Study D-1 and Study D-2
+Table 6 Visual Acuity Outcomes at Month 24 in Study D-1 and D-2
 
 | Outcome Measure | StudyD-1: Sham, n=130; LUCENTIS 0.3 mg, n=125 D-2: Sham, n=127; LUCENTIS 0.3 mg, n=125 | Sham | LUCENTIS 0.3 mg | Estimated Difference (95% CI)Adjusted estimate based on stratified model; p ≤ 0.01 |
 | --- | --- | --- | --- | --- |
@@ -165,7 +165,6 @@ All enrolled patients had DR and DME at baseline.
 Of the 759 patients enrolled, 746 patients had a baseline assessment of fundus photography.
 Patients had baseline Early Treatment Diabetic Retinopathy Study (ETDRS) Retinopathy Severity Scores (ETDRS-RSS) ranging from 10 to 75.
 At baseline, 62% of patients had NPDR (ETDRS-RSS less than 60) and 31% had PDR (ETDRS-RSS greater than or equal to 60).
-
 The ETDRS-RSS could not be graded in 5% of patients at baseline, and 2% of patients had absent or questionable DR at baseline.
 Approximately 20% of the overall population had prior PRP.
 
@@ -184,5 +183,6 @@ At Month 24, DR improvement by ≥3-steps in ETDRS-RSS from baseline in subgroup
 
 The difference in the proportion of patients treated with LUCENTIS 0.3 mg compared to sham who achieved DR improvement based on the ETDRS-RSS was observed as early as Month 3 for ≥2-step improvement or at Month 12 for ≥3-step improvement.
 
-| Figure 7 Proportion of Patients with ≥3-Step and ≥2-Step Improvement from Baseline in ETDRS Diabetic Retinopathy Severity Level over Time in Study D-1 and Study D-2 |
-| --- |
+| Figure 7 Proportion of Patients with ≥3-Step and ≥2-Step Improvement from Baseline in ETDRS Diabetic Retinopathy Severity Level over Time in Study D-1 and Study D-2 |  |
+| --- | --- |
+| ≥3-Step Improvement from Baseline Over Time | ≥2-Step Improvement from Baseline Over Time |

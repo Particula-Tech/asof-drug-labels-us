@@ -97,7 +97,7 @@ After monthly dosing with LUCENTIS for 6 to 24 months, antibodies to LUCENTIS we
 
 The clinical significance of immunoreactivity to LUCENTIS is unclear at this time.
 Among neovascular AMD patients with the highest levels of immunoreactivity, some were noted to have iritis or vitritis.
-Intraocular inflammation was not observed in DME and DR at baseline, or RVO patients with the highest levels of immunoreactivity.
+Intraocular inflammation was not observed in patients with DME and DR at baseline, or RVO patients with the highest levels of immunoreactivity.
 
 ## 6.4 Postmarketing Experience
 

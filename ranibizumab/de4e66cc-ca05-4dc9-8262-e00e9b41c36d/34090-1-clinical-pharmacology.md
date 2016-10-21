@@ -33,7 +33,7 @@ CPT was not evaluated as a means to guide treatment decisions [see Clinical Stud
 
 Diabetic Macular Edema
 
-On average, CPT reductions were observed in Studies DME-1 and DME-2 beginning at Day 7 following the first LUCENTIS injection through Month 36.
+On average, CPT reductions were observed in Studies D-1 and D-2 beginning at Day 7 following the first LUCENTIS injection through Month 36.
 CPT data did not provide information useful in influencing treatment decisions [see Clinical Studies (14.3)].
 
 Diabetic Retinopathy in patients with Diabetic Macular Edema
@@ -46,7 +46,8 @@ In animal studies, following intravitreal injection, ranibizumab was cleared fro
 After reaching a maximum at approximately 1 day, the serum concentration of ranibizumab declined in parallel with the vitreous concentration.
 In these animal studies, systemic exposure of ranibizumab was more than 2000-fold lower than in the vitreous.
 
-In patients with neovascular AMD, following monthly intravitreal administration of 0.5 mg LUCENTIS, mean (±SD)maximum ranibizumab serum concentrations were 1.7 (± 1.1) ng/mL These concentrations were below the concentration range of ranibizumab (11 ng/mL to 27 ng/mL) that was necessary to inhibit the biological activity of VEGF-A by 50%, as measured in an in vitro cellular proliferation assay (based on human umbilical vein endothelial cells (HUVEC)).
+In patients with neovascular AMD, following monthly intravitreal administration of 0.5 mg LUCENTIS, mean (±SD) maximum ranibizumab serum concentrations were 1.7 (± 1.1) ng/mL.
+These concentrations were below the concentration range of ranibizumab (11 to 27 ng/mL) that was necessary to inhibit the biological activity of VEGF-A by 50%, as measured in an in vitro cellular proliferation assay (based on human umbilical vein endothelial cells (HUVEC)).
 No significant change from baseline was observed in the mean plasma VEGF concentrations following three monthly 0.5 mg intravitreal injections.
 The maximum observed serum concentration was dose proportional over the dose range of 0.05 to 2 mg/eye.
 Serum ranibizumab concentrations in RVO and DME and DR patients were similar to those observed in neovascular AMD patients.
