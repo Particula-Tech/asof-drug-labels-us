@@ -1,4 +1,4 @@
-# INDICATIONS & USAGE
+# INDICATIONS AND USAGE
 
 Venlafaxine tablets, USP is indicated for the treatment of major depressive disorder.
 The efficacy of venlafaxine tablets, USP in the treatment of major depressive disorder was established in 6 week controlled trials of adult outpatients whose diagnoses corresponded most closely to the DSM-III or DSM-III-R category of major depression and in a 4 week controlled trial of inpatients meeting diagnostic criteria for major depression with melancholia (see CLINICAL TRIALS).

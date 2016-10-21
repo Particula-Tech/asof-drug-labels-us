@@ -39,7 +39,7 @@ It is generally believed (though not established in controlled trials) that trea
 Whether any of the symptoms described above represent such a conversion is unknown.
 However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
 It should be noted that venlafaxine tablets, USP are not approved for use in treating bipolar depression.
-Serotonin Syndrome The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including venlafaxine tablets, USP, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John's Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
+Serotonin Syndrome The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including venlafaxine tablets, USP, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John's Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 Patients should be monitored for the emergence of serotonin syndrome.
 The concomitant use of venlafaxine tablets, USP with MAOIs intended to treat psychiatric disorders is contraindicated.
@@ -75,7 +75,7 @@ Mydriasis Mydriasis has been reported in association with venlafaxine; therefore
 
 # PRECAUTIONS
 
-## General Precautions
+## General
 
 Discontinuation of Treatment with Venlafaxine Tablets, USP Discontinuation symptoms have been systematically evaluated in patients taking venlafaxine, to include prospective analyses of clinical trials in Generalized Anxiety Disorder and retrospective surveys of trials in major depressive disorder.
 Abrupt discontinuation or dose reduction of venlafaxine at various doses has been found to be associated with the appearance of new symptoms, the frequency of which increased with increased dose level and with longer duration of treatment.
@@ -198,7 +198,6 @@ There are no specific laboratory tests recommended.
 ## Drug Interactions
 
 As with all drugs, the potential for interaction by a variety of mechanisms is a possibility.
-
 Alcohol A single dose of ethanol (0.5 g/kg) had no effect on the pharmacokinetics of venlafaxine or ODV when venlafaxine was administered at 150 mg/day in 15 healthy male subjects.
 Additionally, administration of venlafaxine in a stable regimen did not exaggerate the psychomotor and psychometric effects induced by ethanol in these same subjects when they were not receiving venlafaxine.
 Cimetidine Concomitant administration of cimetidine and venlafaxine in a steady-state study for both drugs resulted in inhibition of first-pass metabolism of venlafaxine in 18 healthy subjects.
@@ -273,13 +272,16 @@ CYP2C19 Venlafaxine did not inhibit the metabolism of diazepam which is partiall
 Monoamine Oxidase Inhibitors See CONTRAINDICATIONS.
 CNS-Active Drugs The risk of using venlafaxine in combination with other CNS-active drugs has not been systematically evaluated (except in the case of those CNS-active drugs noted above).
 Consequently, caution is advised if the concomitant administration of venlafaxine and such drugs is required (see CONTRAINDICATIONS and WARNINGS).
-Serotonergic Drugs Based on the mechanism of action of venlafaxine tablets, USP and the potential for serotonin syndrome, caution is advised when venlafaxine tablets, USP is co-administered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, SSRIs, other SNRIs, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, tramadol, or St. John's Wort and methylene blue (see CONTRAINDICATIONS and WARNINGS, Serotonin Syndrome).
+Serotonergic Drugs
+
+Based on the mechanism of action of SNRIs and SSRIs, including venlafaxine hydrochloride, and the potential for serotonin syndrome, caution is advised when venlafaxine is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, lithium, fentanyl, tramadol, amphetamines, or St. John’s Wort (see WARNINGS, Serotonin Syndrome).
 If concomitant treatment of venlafaxine tablets, USP with these drugs is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see CONTRAINDICATIONS and WARNINGS, Serotonin Syndrome).
 The concomitant use of venlafaxine tablets, USP with tryptophan supplements is not recommended (see CONTRAINDICATIONS and WARNINGS, Serotonin Syndrome).
+
 Triptans There have been rare postmarketing reports of serotonin syndrome with use of an SSRI and a triptan.
 If concomitant treatment of venlafaxine tablets, USP with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS, Serotonin Syndrome).
 
-## Drug & OR Laboratory Test Interactions
+## Drug-Laboratory Test Interactions
 
 False-positive urine immunoassay screening tests for phencyclidine (PCP) and amphetamine have been reported in patients taking venlafaxine.
 This is due to lack of specificity of the screening tests.
@@ -288,7 +290,7 @@ Confirmatory tests, such as gas chromatography/mass spectrometry, will distingui
 Electroconvulsive Therapy There are no clinical data establishing the benefit of electroconvulsive therapy combined with venlafaxine tablets, USP treatment.
 Postmarketing Spontaneous Drug Interaction Reports See ADVERSE REACTIONS, Postmarketing Reports.
 
-## Carcinogenesis & Mutagenesis & Impairment Of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Carcinogenesis Venlafaxine was given by oral gavage to mice for 18 months at doses up to 120 mg/kg per day, which was 16 times, on a mg/kg basis, and 1.7 times on a mg/m2 basis, the maximum recommended human dose.
 Venlafaxine was also given to rats by oral gavage for 24 months at doses up to 120 mg/kg per day.
@@ -320,7 +322,7 @@ These features are consistent with either a direct toxic effect of SSRIs and SNR
 It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome (see PRECAUTIONS, Drug Interactions, CNS-Active Drugs).
 When treating a pregnant woman with venlafaxine tablets, USP during the third trimester, the physician should carefully consider the potential risks and benefits of treatment (see DOSAGE AND ADMINISTRATION).
 
-## Labor & Delivery
+## Labor and Delivery
 
 The effect of venlafaxine tablets, USP on labor and delivery in humans is unknown.
 

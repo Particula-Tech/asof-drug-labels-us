@@ -1,3 +1,5 @@
+# Rx Only
+
 # CLINICAL TRIALS
 
 The efficacy of venlafaxine tablets, USP as a treatment for major depressive disorder was established in 5 placebo-controlled, short-term trials.

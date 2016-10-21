@@ -1,4 +1,4 @@
-# DOSAGE & ADMINISTRATION
+# DOSAGE AND ADMINISTRATION
 
 Initial Treatment The recommended starting dose for venlafaxine tablets, USP is 75 mg/day, administered in two or three divided doses, taken with food.
 Depending on tolerability and the need for further clinical effect, the dose may be increased to 150 mg/day.

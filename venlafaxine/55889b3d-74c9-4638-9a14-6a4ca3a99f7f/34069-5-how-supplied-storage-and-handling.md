@@ -4,4 +4,4 @@ Venlafaxine Tablets, USP 25 mg are peach colored, shield-shaped, uncoated, flat-
 Protect from light and moisture.
 Manufactured by: ALKALOIDA Chemical Company Zrt.
 4440 Tiszavasvári Kabay János u. 29.
-Hungary Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury NJ 08512 Revised: 08/2015
+Hungary Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury NJ 08512 Revised: 09/2016

@@ -1,5 +1,3 @@
-# SPL MEDGUIDE
-
 Medication Guide Venlafaxine (ven-la-fax-een) Tablets, USP Read the Medication Guide that comes with venlafaxine tablets, USP before you start taking it and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or treatment.

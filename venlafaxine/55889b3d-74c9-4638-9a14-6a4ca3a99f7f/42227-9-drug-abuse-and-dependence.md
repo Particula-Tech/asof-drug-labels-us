@@ -1,6 +1,6 @@
 # DRUG ABUSE AND DEPENDENCE
 
-## CONTROLLED SUBSTANCE
+## Controlled Substance Class
 
 Venlafaxine tablets, USP is not a controlled substance.
 

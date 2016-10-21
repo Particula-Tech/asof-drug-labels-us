@@ -76,7 +76,7 @@ TABLE 2: Treatment-Emergent Adverse Experience Incidence in 4 to 8 Week Placebo-
 |  | Taste perversion | 2% | - |
 |  | Tinnitus | 2% | - |
 |  | Mydriasis | 2% | - |
-| Urogenital System | Abnormal ejaculation/ orgasm | 12%2 | -2 |
+| Urogenital System | Abnormal ejaculation/orgasm | 12%2 | -2 |
 |  | Impotence | 6%2 | -2 |
 |  | Urinary frequency | 3% | 2% |
 |  | Urination impaired | 2% | - |
