@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA206030"
+  ],
+  "inn": "carbamazepine",
+  "labeler": "Lundbeck LLC",
+  "package_ndcs": [
+    "67386-621-52"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "carbamazepine",
+      "name": "CARNEXIV"
+    }
+  ],
+  "setid": "fd22916c-ee35-4b57-9b1b-68d106422f5d",
+  "source": "dailymed"
+}
