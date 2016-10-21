@@ -6,7 +6,7 @@ Imatinib mesylate is designated chemically as 4-[(4-Methyl-­1-piperazinyl)methy
 
 Imatinib mesylate is an off-white to creamish yellow crystalline powder.
 Its molecular formula is C29H31N7O • CH4SO3 and its molecular weight is 589.7.
-Imatinib mesylate is soluble in aqueous buffers ≤pH 5.5 but is very slightly soluble to insoluble in neutral/alkaline aqueous buffers.
+Imatinib mesylate is soluble in aqueous buffers less than or equal to pH 5.5 but is very slightly soluble to insoluble in neutral/alkaline aqueous buffers.
 In non-aqueous solvents, the drug substance is freely soluble to very slightly soluble in dimethyl sulfoxide, methanol, and ethanol, but is insoluble in n-octanol, acetone, and acetonitrile.
 
 Inactive Ingredients: silicified microcrystalline cellulose, mannitol, copovidone, crospovidone, magnesium stearate, hypromellose, iron oxide yellow, polyethylene glycol, titanium dioxide, FD&C yellow # 6 aluminum lake and iron oxide red.

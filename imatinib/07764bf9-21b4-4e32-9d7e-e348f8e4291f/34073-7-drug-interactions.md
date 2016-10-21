@@ -2,40 +2,19 @@
 
 ## 7.1 Agents Inducing CYP3A Metabolism
 
-Pretreatment of healthy volunteers with multiple doses of rifampin followed by a single dose of imatinib mesylate, increased imatinib mesylate oral-dose clearance by 3.8-fold, which significantly (p<0.05) decreased mean Cmax and AUC.
-
-Similar findings were observed in patients receiving 400 to 1,200 mg/day imatinib mesylate concomitantly with enzyme-inducing anti-epileptic drugs (EIAED) (e.g., carbamazepine, oxcarbamazepine, phenytoin, fosphenytoin, phenobarbital, and primidone).
-The mean dose normalized AUC for imatinib in the patients receiving EIAED’s decreased by 73% compared to patients not receiving EIAED.
-
-Concomitant administration of imatinib mesylate and St. John’s Wort led to a 30% reduction in the AUC of imatinib.
-
-Consider alternative therapeutic agents with less enzyme induction potential in patients when rifampin or other CYP3A4 inducers are indicated.
-Imatinib mesylate doses up to 1,200 mg/day (600 mg BID) have been given to patients receiving concomitant strong CYP3A4 inducers [see Dosage and Administration (2.11)].
+Concomitant administration of imatinib mesylate and strong CYP3A4 inducers may reduce total exposure of imatinib; consider alternative agents [see Clinical Pharmacology (12.3)].
 
 ## 7.2 Agents Inhibiting CYP3A Metabolism
 
-There was a significant increase in exposure to imatinib (mean Cmax and AUC increased by 26% and 40%, respectively) in healthy subjects when imatinib mesylate was coadministered with a single dose of ketoconazole (a CYP3A4 inhibitor).
-Caution is recommended when administering imatinib mesylate with strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, clarithromycin, atazanavir, indinavir, nefazodone, nelfinavir, ritonavir, saquinavir, telithromycin, and voriconazole).
-Grapefruit juice may also increase plasma concentrations of imatinib and should be avoided.
-Substances that inhibit the cytochrome P450 isoenzyme (CYP3A4) activity may decrease metabolism and increase imatinib concentrations.
+Concomitant administration of imatinib mesylate and strong CYP3A4 inhibitors may result in a significant imatinib exposure increase.
+Grapefruit juice may also increase plasma concentrations of imatinib; avoid grapefruit juice [see Clinical Pharmacology (12.3)].
 
 ## 7.3 Interactions with Drugs Metabolized by CYP3A4
 
-Imatinib mesylate increases the mean Cmax and AUC of simvastatin (CYP3A4 substrate) 2- and 3.5-fold, respectively, suggesting an inhibition of the CYP3A4 by imatinib mesylate.
-Particular caution is recommended when administering imatinib mesylate with CYP3A4 substrates that have a narrow therapeutic window (e.g., alfentanil, cyclosporine, diergotamine, ergotamine, fentanyl, pimozide, quinidine, sirolimus or tacrolimus).
+Imatinib mesylate will increase plasma concentration of CYP3A4 metabolized drugs (e.g., triazolo-benzodiazepines, dihydropyridine calcium channel blockers, certain HMG-CoA reductase inhibitors, etc.). Use caution when administering imatinib mesylate with CYP3A4 substrates that have a narrow therapeutic window.
 
-Imatinib mesylate will increase plasma concentration of other CYP3A4 metabolized drugs (e.g., triazolo-benzodiazepines, dihydropyridine calcium channel blockers, certain HMG-CoA reductase inhibitors, etc.).
-
-Because warfarin is metabolized by CYP2C9 and CYP3A4, patients who require anticoagulation should receive low-molecular weight or standard heparin instead of warfarin.
+Because warfarin is metabolized by CYP2C9 and CYP3A4, use low-molecular weight or standard heparin instead of warfarin in patients who require anticoagulation [see Clinical Pharmacology (12.3)].
 
 ## 7.4 Interactions with Drugs Metabolized by CYP2D6
 
-Imatinib mesylate increased the mean Cmax and AUC of metoprolol by approximately 23% suggesting that imatinib mesylate has a weak inhibitory effect on CYP2D6-mediated metabolism.
-No dose adjustment is necessary, however, caution is recommended when administering imatinib mesylate with CYP2D6 substrates that have a narrow therapeutic window.
-
-## 7.5 Interaction with Acetaminophen
-
-In vitro, imatinib mesylate inhibits the acetaminophen O-glucuronidate pathway (Ki 58.5 µM).
-Coadministration of imatinib mesylate (400 mg/day for eight days) with acetaminophen (1,000 mg single dose on day eight) in patients with CML did not result in any changes in the pharmacokinetics of acetaminophen.
-Imatinib mesylate pharmacokinetics were not altered in the presence of single-dose acetaminophen.
-There is no pharmacokinetic or safety data on the concomitant use of imatinib mesylate at doses >400 mg/day or the chronic use of concomitant acetaminophen and imatinib mesylate.
+Use caution when administering imatinib mesylate with CYP2D6 substrates that have a narrow therapeutic window.
