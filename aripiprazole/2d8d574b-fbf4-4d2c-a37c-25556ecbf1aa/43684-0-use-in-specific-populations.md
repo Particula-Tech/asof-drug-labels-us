@@ -24,7 +24,7 @@ Postnatally, delayed vaginal opening was seen at 10 and 30 mg/kg/day and impaire
 Some maternal toxicity was seen at 30 mg/kg/day however, there was no evidence to suggest that these developmental effects were secondary to maternal toxicity.
 Pregnant rabbits were treated with oral doses of 10, 30, and 100 mg/kg/day (2, 3, and 11 times human exposure at MRHD based on AUC and 6, 19, and 65 times the MRHD based on mg/m2) of aripiprazole during the period of organogenesis.
 At the high dose of 100 mg/kg/day decreased maternal food consumption, and increased abortions were seen as well as increased fetal mortality, decreased fetal weight (also seen at 30 mg/kg/day), increased incidence of a skeletal abnormality (fused sternebrae) (also seen at 30 mg/kg/day).
-In a study in which rats were treated peri- and post-natally with oral doses of 3, 10, and 30 mg/kg/day (1, 3, and 10 times the MRHD on a mg/m2 basis) of aripiprazole from day 17 through day 21 postpartum, slight maternal toxicity, slightly prolonged gestation an increase in stillbirths and, decreases in pup weight (persisting into adulthood) and survival were seen at 30 mg/kg/day.
+In a study in which rats were treated peri- and post-natally with oral doses of 3, 10, and 30 mg/kg/day (1, 3, and 10 times the MRHD on a mg/m2 basis) of aripiprazole from gestation day 17 through day 21 postpartum, slight maternal toxicity, slightly prolonged gestation an increase in stillbirths and, decreases in pup weight (persisting into adulthood) and survival were seen at 30 mg/kg/day.
 
 ## 8.2 Labor & Delivery
 

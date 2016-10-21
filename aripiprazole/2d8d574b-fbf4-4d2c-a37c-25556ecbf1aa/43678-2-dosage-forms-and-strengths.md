@@ -1,7 +1,7 @@
 # 3 DOSAGE FORMS & STRENGTHS
 
-Aripiprazole tablets are available as described in Table 2.
-Table 2: Aripiprazole Tablets Presentations
+Aripiprazole tablets, USP are available as described in Table 2.
+Table 2: Aripiprazole Tablets, USP Presentations
 
 | Tablet Strength | Tablet Color/Shape | Tablet Markings |
 | --- | --- | --- |

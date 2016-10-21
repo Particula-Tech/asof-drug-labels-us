@@ -11,13 +11,15 @@ A patient Medication Guide including information about "Antidepressant Medicines
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 It should be noted that aripiprazole tablets are not approved as a single agent for treatment of depression and has not been evaluated in pediatric major depressive disorder.
-Interference with Cognitive and Motor Performance Because aripiprazole tablets may have the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that aripiprazole tablets therapy does not affect them adversely [see WARNINGS AND PRECAUTIONS (5.10)].
+Pathological Gambling and Other Compulsive Behaviors Advise patients and their caregivers of the possibility that they may experience compulsive urges to shop, intense urges to gamble, compulsive sexual urges, binge eating and/or other compulsive urges and the inability to control these urges while taking aripiprazole tablets.
+In some cases, but not all, the urges were reported to have stopped when the dose was reduced or stopped [see WARNINGS AND PRECAUTIONS (5.7)].
+Interference with Cognitive and Motor Performance Because aripiprazole tablets may have the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that aripiprazole tablets therapy does not affect them adversely [see WARNINGS AND PRECAUTIONS (5.11)].
 Nursing Advise patients that breastfeeding is not recommended with aripiprazole treatment because of the potential for serious adverse reactions in a nursing infant [see USE IN SPECIFIC POPULATIONS (8.3)].
 Concomitant Medication Patients should be advised to inform their physicians if they are taking, or plan to take, any prescription or over-the-counter drugs, since there is a potential for interactions [see DRUG INTERACTIONS (7)].
-Heat Exposure and Dehydration Patients should be advised regarding appropriate care in avoiding overheating and dehydration [see WARNINGS AND PRECAUTIONS (5.11)].
+Heat Exposure and Dehydration Patients should be advised regarding appropriate care in avoiding overheating and dehydration [see WARNINGS AND PRECAUTIONS (5.12)].
 
 Manufactured for: Camber Pharmaceuticals Inc. Piscataway, NJ 08854
 
-Manufactured by: HETEROTM HETERO LABS LIMITED 2034677 Unit V, Polepally, Jadcherla, Mahaboob Nagar-509 301, India.
+Manufactured by: HETEROTM HETERO LABS LIMITED Sapcode Unit V, Polepally, Jadcherla, Mahaboob Nagar-509 301, India.
 ABILIFY is a trademark of Otsuka Pharmaceutical Company.
-Revised: February 2016
+Revised: September 2016

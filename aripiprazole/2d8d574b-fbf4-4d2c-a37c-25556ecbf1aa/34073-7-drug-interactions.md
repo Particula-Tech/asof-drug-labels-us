@@ -4,12 +4,12 @@
 
 Table 12: Clinically Important Drug Interactions with Aripiprazole Tablets:
 
-| ConcomitantDrug Name orDrug Class | Clinical Rationale | Clinical Recommendation |
+| Concomitant Drug Name or Drug Class | Clinical Rationale | Clinical Recommendation |
 | --- | --- | --- |
-| StrongCYP3A4Inhibitors (e.g.,itraconazole,clarithromycin) or strongCYP2D6inhibitors (e.g.,quinidine,fluoxetine,paroxetine) | The concomitant use of aripiprazole tablets withstrong CYP3A4 orCYP2D6inhibitorsincreasedthe exposure ofaripiprazole tabletscomparedto the use of aripiprazole tabletsalone[seeCLINICALPHARMACOLOGY(12.3)]. | Withconcomitant use of aripiprazole tablets with a strongCYP3A4inhibitororCYP2D6inhibitor, reducethearipiprazole tablets dosage[see DOSAGEANDADMINISTRATION(2.7)]. |
-| StrongCYP3A4Inducers (e.g.,carbamazepine,rifampin) | The concomitant use of aripiprazole tabletsandcarbamazepine decreased the exposure of aripiprazole tablets compared to the use of aripiprazole tablets alone [seeCLINICALPHARMACOLOGY(12.3)]. | Withconcomitant use of aripiprazole tablets with a strongCYP3A4inducer, consider increasing the aripiprazole tabletsdosage[see DOSAGE ANDADMINISTRATIO(2.7)]. |
-| AntihypertensiveDrugs | Duetoitsalphaadrenergicantagonism,aripiprazole tablets hasthepotentialtoenhance the effect of certainantihypertensive agents. | Monitor bloodpressureand adjustdoseaccordingly[seeWARNINGS AND PRECAUTIONS(5.7)]. |
-| Benzodiazepines(e.g., lorazepam) | Theintensityofsedationwas greaterwith the combination of oral aripiprazole tabletsandlorazepam as comparedtothat observedwith aripiprazole alone.Theorthostatichypotension observed wasgreaterwith the combination as comparedtothatobserved withlorazepamalone[seeWARNINGSANDPRECAUTIONS(5.7)] | Monitorsedation and blood pressure.Adjust dose accordingly. |
+| Strong CYP3A4 Inhibitors (e.g., itraconazole, clarithromycin) or strong CYP2D6 inhibitors (e.g., quinidine, fluoxetine, paroxetine) | The concomitant use of aripiprazole tablets with strong CYP 3A4 or CYP2D6 inhibitors increased the exposure of aripiprazole compared to the use of aripiprazole tablets alone [see CLINICAL PHARMACOLOGY (12.3)]. | With concomitant use of aripiprazole tablets with a strong CYP3A4 inhibitor or CYP2D6 inhibitor, reduce the aripiprazole tablets dosage [see DOSAGE AND ADMINISTRATION (2.7)]. |
+| Strong CYP3A4 Inducers (e.g., carbamazepine, rifampin) | The concomitant use of aripiprazole tablets and carbamazepine decreased the exposure of aripiprazole compared to the use of aripiprazole tablets alone [see CLINICAL PHARMACOLOGY (12.3)]. | With concomitant use of aripiprazole tablets with a strong CYP3A4 inducer, consider increasing the aripiprazole tablets dosage [see DOSAGE AND ADMINISTRATION (2.7)]. |
+| Antihypertensive Drugs | Due to its alpha adrenergic antagonism, aripiprazole has the potential to enhance the effect of certain antihypertensive agents. | Monitor blood pressure and adjust dose accordingly [see WARNINGS AND PRECAUTIONS (5.8)]. |
+| Benzodiazepines (e.g., lorazepam) | The intensity of sedation was greater with the combination of oral aripiprazole and lorazepam as compared to that observed with aripiprazole alone. The orthostatic hypotension observed was greater with the combination as compared to that observed with lorazepam alone [see WARNINGS AND PRECAUTIONS (5.7)] | Monitor sedation and blood pressure. Adjust dose accordingly. |
 
 ## 7.2 Drugs Having No Clinically Important Interactions with Aripiprazole Tablets
 

@@ -44,5 +44,3 @@ Table 13: Schizophrenia Studies
 SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. aDifference (drug minus placebo) in least-squares mean change from baseline. *Doses statistically significantly superior to placebo.
 Figure 6: Kaplan-Meier Estimation of Cumulative Proportion of Patients with Relapse (Schizophrenia Study 5) Additional pediatric use information is approved for Otsuka America Pharmaceutical, Inc.'s ABILIFY ® (aripiprazole) product.
 However, due to Otsuka America Pharmaceutical, Inc.'s marketing exclusivity rights, this drug product is not labeled with that information.
-
-## 14.2 Bipolar Disorder

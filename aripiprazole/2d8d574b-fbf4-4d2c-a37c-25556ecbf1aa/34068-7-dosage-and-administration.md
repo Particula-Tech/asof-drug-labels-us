@@ -31,10 +31,10 @@ Table 1: Dose Adjustments for aripiprazole tablets in Patients who are known CYP
 
 | Factors | Dosage Adjustments for Aripiprazole Tablets |
 | --- | --- |
-| KnownCYP2D6PoorMetabolizers | Administer half of usual dose |
-| KnownCYP2D6PoorMetabolizers taking concomitantstrongCYP3A4 inhibitors (e.g.,itraconazole,clarithromycin) | Administer a quarter of usual dose |
-| StrongCYP2D6(e.g.,quinidine,fluoxetine,paroxetine)orCYP3A4inhibitors(e.g.,itraconazole,clarithromycin) | Administer half of usual dose |
-| StrongCYP2D6andCYP3A4 inhibitors | Administer a quarter of usual dose |
+| Known CYP2D6 Poor Metabolizers | Administer half of usual dose |
+| Known CYP2D6 Poor Metabolizers taking concomitant strong CYP3A4 inhibitors (e.g., itraconazole, clarithromycin) | Administer a quarter of usual dose |
+| Strong CYP2D6 (e.g., quinidine, fluoxetine, paroxetine) or CYP3A4 inhibitors (e.g., itraconazole, clarithromycin) | Administer half of usual dose |
+| Strong CYP2D6 and CYP3A4 inhibitors | Administer a quarter of usual dose |
 | Strong CYP3A4 inducers (e.g., carbamazepine, rifampin) | Double usual dose over 1 to 2 weeks |
 
 ## 2.8 Dosing of Oral Solution
