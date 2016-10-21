@@ -1,10 +1,10 @@
 # INDICATIONS AND USAGE
 
-Hydrochlorothiazide tablets USP are indicated as adjunctive therapy in edema associated with congestive heart failure, hepatic cirrhosis, and corticosteroid and estrogen therapy.
+Hydrochlorothiazide tablets are indicated as adjunctive therapy in edema associated with congestive heart failure, hepatic cirrhosis, and corticosteroid and estrogen therapy.
 
-Hydrochlorothiazide tablets USP have also been found useful in edema due to various forms of renal dysfunction such as nephrotic syndrome, acute glomerulonephritis, and chronic renal failure.
+Hydrochlorothiazide tablets have also been found useful in edema due to various forms of renal dysfunction such as nephrotic syndrome, acute glomerulonephritis, and chronic renal failure.
 
-Hydrochlorothiazide tablets USP are indicated in the management of hypertension either as the sole therapeutic agent or to enhance the effectiveness of other antihypertensive drugs in the more severe forms of hypertension.
+Hydrochlorothiazide tablets are indicated in the management of hypertension either as the sole therapeutic agent or to enhance the effectiveness of other antihypertensive drugs in the more severe forms of hypertension.
 
 ## Use in Pregnancy
 
