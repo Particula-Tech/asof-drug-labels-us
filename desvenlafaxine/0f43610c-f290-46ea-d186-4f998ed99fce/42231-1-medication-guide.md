@@ -97,6 +97,7 @@ Rare, but potentially life-threatening conditions called serotonin syndrome can 
 Serotonin syndrome can cause serious changes in how your brain, muscles, heart and blood vessels, and digestive system work.
 Especially tell your healthcare provider if you take the following:
 
+- amphetamines
 - medicines to treat migraine headaches known as triptans
 - medicines used to treat mood, anxiety, psychotic, or thought disorders, including tricyclics, lithium, selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), or other dopamine antagonists, such as metoclopramide
 - silbutramine
@@ -231,6 +232,6 @@ For the 100 mg tablet, hypromellose, microcrystalline cellulose, talc, magnesium
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-LAB-0539-7
+LAB-0539-8
 
-August 2014
+October 2016
