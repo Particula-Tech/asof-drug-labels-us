@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Cefazolin is a cephalosporin antibacterial drug [see Clinical Pharmacology (12.4)].
+Cefazolin is a cephalosporin antibacterial drug [see Microbiology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
@@ -48,7 +48,7 @@ Mechanism of Action
 
 Cefazolin is a bactericidal agent that acts by inhibition of bacterial cell wall synthesis.
 
-Mechanism of Resistance
+Resistance
 
 Predominant mechanisms of bacterial resistance to cephalosporins include the presence of extended-spectrum beta-lactamases and enzymatic hydrolysis.
 
@@ -56,9 +56,7 @@ Antimicrobial Activity
 
 Cefazolin has been shown to be active against most isolates of the following microorganisms:
 
-Gram-positive Bacteria Staphylococcus aureus (methicillin-susceptible isolates only)
-
-- Streptococcus agalactiae Streptococcus pyogenes
+Gram-positive Bacteria Staphylococcus aureus (methicillin-susceptible isolates only) Streptococcus agalactiae Streptococcus pyogenes
 
 Gram-negative Bacteria
 

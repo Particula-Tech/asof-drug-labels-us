@@ -38,8 +38,8 @@ Should superinfection occur during therapy, appropriate measures should be taken
 
 Urinary Glucose
 
-The administration of cefazolin may result in a false-positive reaction with glucose in the urine when using CLINITEST® tablets.
-It is recommended that glucose tests based on enzymatic glucose oxidase reactions (e.g., CLINISTIX®) be used.
+The administration of cefazolin may result in a false-positive reaction with glucose in the urine when using CLINITEST tablets.
+It is recommended that glucose tests based on enzymatic glucose oxidase reactions (e.g., CLINISTIX strips) be used.
 
 Coombs’ Test
 

@@ -68,11 +68,11 @@ frozen state.
 
 PL 2040 Plastic
 
-07-04-72-840
+07-04-77-422
 
 Cegazolin Injection, USP 2g / 100 mL (20 mg / mL)
 
-Contains 6 units of Single-Use bags.
+Contains 6 units of Single-Dose bags.
 Each bag contains 100 mL.
 Iso-osmotic
 
@@ -99,11 +99,11 @@ frozen state.
 
 PL 2040 Plastic
 
-07-04-72-840
+07-04-77-422
 
 Cegazolin Injection, USP 2g / 100 mL (20 mg / mL)
 
-Contains 6 units of Single-Use bags.
+Contains 6 units of Single-Dose bags.
 Each bag contains 100 mL.
 Iso-osmotic
 
@@ -111,7 +111,7 @@ Store at or below -20°C/-4°F.
 
 Rx only
 
-NDC 0338-3508-06 Code 2G3508
+NDC 0338-3508-41 Code 2G3508
 
 *FOR BAR CODE POSITION ONLY (01) 20303383508069
 
@@ -132,7 +132,7 @@ Baxter and Galaxy are registered trademarks of Baxter International Inc.
 
 Baxter Healthcare Corporation, Deerfield, IL 60015 USA
 
-NDC 0338-3508-06 Code 2G3508
+NDC 0338-3508-41 Code 2G3508
 
 *FOR BAR CODE POSITION ONLY (01) 20303383508069
 
