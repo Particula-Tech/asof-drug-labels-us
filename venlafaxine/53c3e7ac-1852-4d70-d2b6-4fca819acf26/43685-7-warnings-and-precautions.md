@@ -54,7 +54,7 @@ It should be noted that Effexor XR is not approved for use in treating bipolar d
 
 ## 5.2 Serotonin Syndrome
 
-The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including Effexor XR alone, but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John's wort) and with drugs that impair metabolism of serotonin in particular, MAOIs, both those intended to treat psychiatric disorders and others, such as linezolid or intravenous methylene blue).
+The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including Effexor XR alone, but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John's wort) and with drugs that impair metabolism of serotonin in particular, MAOIs, both those intended to treat psychiatric disorders and others, such as linezolid or intravenous methylene blue).
 
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, coma) autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia, diaphoresis, flushing, and dizziness), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination); seizures and gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 Patients should be monitored for the emergence of serotonin syndrome.
@@ -66,7 +66,7 @@ No reports involved the administration of methylene blue by other routes (such a
 There may be circumstances when it is necessary to initiate treatment with a MAOI such as linezolid or intravenous methylene blue in a patient taking Effexor XR.
 Effexor XR should be discontinued before initiating treatment with the MAOI [see Contraindications (4.2), Dosage and Administration (2.6), and Drug Interactions (7.3)].
 
-If concomitant use of Effexor XR with other serotonergic drugs (e.g., triptans, tricyclic antidepressants, mirtazapine, fentanyl, lithium, tramadol, buspirone, tryptophan, or St. John's wort) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases [see Drug Interactions (7.3)].
+If concomitant use of Effexor XR with other serotonergic drugs (e.g., triptans, tricyclic antidepressants, mirtazapine, fentanyl, lithium, tramadol, buspirone, amphetamines, tryptophan, or St. John's wort) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases [see Drug Interactions (7.3)].
 Patients should be made aware of the potential risk of serotonin syndrome.
 Treatment with Effexor XR and any concomitant serotonergic agents should be discontinued immediately if the above events occur, and supportive symptomatic treatment should be initiated.
 

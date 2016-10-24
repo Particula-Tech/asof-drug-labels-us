@@ -23,7 +23,7 @@ Healthcare professionals should instruct patients not to take Effexor XR with an
 
 Serotonin Syndrome
 
-Patients should be cautioned about the risk of serotonin syndrome, with the concomitant use of Effexor XR and triptans, tramadol, tryptophan supplements, with antipsychotics or other dopamine antagonists, or other serotonergic agents [see Warnings and Precautions (5.2) and Drug Interactions (7.3)].
+Patients should be cautioned about the risk of serotonin syndrome, with the concomitant use of Effexor XR and triptans, tramadol, amphetamines, tryptophan supplements, with antipsychotics or other dopamine antagonists, or other serotonergic agents [see Warnings and Precautions (5.2) and Drug Interactions (7.3)].
 
 Elevated Blood Pressure
 
