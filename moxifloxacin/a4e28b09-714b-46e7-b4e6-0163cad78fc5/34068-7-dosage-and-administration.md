@@ -9,12 +9,12 @@ Table 1: Dosage and Duration of Therapy in Adult Patients
 
 | Type of Infectiona | Dose Every 24 hours | Durationb (days) |
 | --- | --- | --- |
-| Acute Bacterial Sinusitis (1.1) | 400 mg | 10 |
-| Acute Bacterial Exacerbation of Chronic Bronchitis (1.2) | 400 mg | 5 |
-| Community Acquired Pneumonia | 400 mg | 7 to 14 |
-| Uncomplicated Skin and Skin Structure Infections (SSSI) (1.4) | 400 mg | 7 |
-| Complicated SSSI (1.5) | 400 mg | 7 to 21 |
-| Complicated Intra-Abdominal Infections (1.6) | 400 mg | 5 to 14 |
+| Community Acquired Pneumonia (1.1) | 400 mg | 7 to 14 |
+| Uncomplicated Skin and Skin Structure Infections (SSSI) (1.2) | 400 mg | 7 |
+| Complicated SSSI (1.3) | 400 mg | 7 to 21 |
+| Complicated Intra-Abdominal Infections (1.4) | 400 mg | 5 to 14 |
+| Acute Bacterial Sinusitis (1.5) | 400 mg | 10 |
+| Acute Bacterial Exacerbation of Chronic Bronchitis (1.6) | 400 mg | 5 |
 
 a Due to the designated pathogens [see Indications and Usage (1), for IV use, see Use in Specific Populations (8.5)].
 

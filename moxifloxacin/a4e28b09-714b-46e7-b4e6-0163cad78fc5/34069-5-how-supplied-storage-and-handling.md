@@ -24,4 +24,6 @@ Do not refrigerate - Product precipitates upon refrigeration.
 Use immediately once removed from the overwrap.
 Product is sensitive to light.
 
-The container closure is not made with natural rubber latex, polyvinyl chloride (Non-PVC), or di-(2-ethylhexyl)phthalate (Non-DEHP).
+The container closure is not made with natural rubber latex.
+Non-PVC, Non-DEHP.
+Sterile.

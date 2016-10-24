@@ -10,7 +10,6 @@ Moxifloxacin was not mutagenic in the CHO/HGPRT mammalian cell gene mutation ass
 An equivocal result was obtained in the same assay when v79 cells were used.
 Moxifloxacin was clastogenic in the v79 chromosome aberration assay, but it did not induce unscheduled DNA synthesis in cultured rat hepatocytes.
 There was no evidence of genotoxicity in vivo in a micronucleus test or a dominant lethal test in mice.
-
 Moxifloxacin had no effect on fertility in male and female rats at oral doses as high as 500 mg/kg/day, (approximately 12 times the maximum recommended human dose based on body surface area), or at intravenous doses as high as 45 mg/kg/day, (approximately equal to the maximum recommended human dose based on body surface area).
 At 500 mg/kg orally there were slight effects on sperm morphology (head-tail separation) in male rats and on the estrous cycle in female rats.
 

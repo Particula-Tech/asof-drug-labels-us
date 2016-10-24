@@ -4,25 +4,29 @@
 
 The following serious and otherwise important adverse reactions are discussed in greater detail in the Warnings and Precautions section of the label:
 
-• Tendinopathy and Tendon Rupture [see Warnings and Precautions (5.1)]
+• Disabling and Potentially Irreversible Serious Adverse Reactions Including Tendinitis and Tendon Rupture, Peripheral Neuropathy, and Central Nervous System Effects [see Warnings and Precautions (5.1)]
 
-• QT Prolongation [see Warnings and Precautions (5.3)]
+• Tendinitis and Tendon Rupture [see Warnings and Precautions (5.2)]
 
-• Hypersensitivity Reactions [see Warnings and Precautions (5.4)]
+• Peripheral Neuropathy [see Warnings and Precautions (5.3)]
 
-• Other Serious and Sometimes Fatal Reactions [see Warnings and Precautions (5.5)]
+• Central Nervous System Effects [see Warnings and Precautions (5.4)]
 
-• Central Nervous System Effects [see Warnings and Precautions (5.6)]
+• Exacerbation of Myasthenia Gravis [see Warnings and Precautions (5.5)]
 
-• Clostridium Difficile-Associated Diarrhea [see Warnings and Precautions (5.7)]
+• QT Prolongation [see Warnings and Precautions (5.6)]
 
-• Peripheral Neuropathy that may be irreversible [see Warnings and Precautions (5.8)]
+• Hypersensitivity Reactions [see Warnings and Precautions (5.7)]
 
-• Blood Glucose Disturbances [see Warnings and Precautions (5.11)]
+• Other Serious and Sometimes Fatal Adverse Reactions [see Warnings and Precautions (5.8)]
 
-• Photosensitivity/Phototoxicity [see Warnings and Precautions (5.12)]
+• Clostridium Difficile-Associated Diarrhea [see Warnings and Precautions (5.9)]
 
-• Development of Drug Resistant Bacteria [see Warnings and Precautions (5.13)]
+• Blood Glucose Disturbances [see Warnings and Precautions(5.12)]
+
+• Photosensitivity/Phototoxicity [see Warnings and Precautions (5.13)]
+
+• Development of Drug Resistant Bacteria [see Warnings and Precautions (5.14)]
 
 ## 6.2 Clinical Trial Experience
 
@@ -65,122 +69,122 @@ Table 3: Less Common (0.1 to < 1%) Adverse Reactions Reported in Active-Controll
 
 Clinical Trials with Moxifloxacin (N=14,981)
 
-| System Organ Class | Adverse Reactionsa |  |
-| --- | --- | --- |
-| Blood and Lymphatic System Disorders | Thrombocythemia |  |
-| Eosinophilia |  |  |
-| Neutropenia |  |  |
-| Thrombocytopenia |  |  |
-| Leukopenia |  |  |
-| Leukocytosis |  |  |
-| Cardiac Disorders | Atrial fibrillation |  |
-| Palpitations |  |  |
-| Tachycardia |  |  |
-| Cardiac failure congestive |  |  |
-| Angina pectoris |  |  |
-| Cardiac failure |  |  |
-| Cardiac arrest |  |  |
-| Bradycardia |  |  |
-| Ear and Labyrinth Disorders | Vertigo |  |
-| Tinnitus |  |  |
-| Eye Disorders | Vision blurred |  |
-| Gastrointestinal Disorders | Dry mouth |  |
-| Abdominal discomfort |  |  |
-| Flatulence |  |  |
-| Abdominal distention |  |  |
-| Gastritis |  |  |
-| Gastroesophageal reflux disease |  |  |
-| General Disorders and Administration Site Conditions | Fatigue |  |
-| Chest pain |  |  |
-| Asthenia |  |  |
-| Edema peripheral |  |  |
-| Pain |  |  |
-| Malaise |  |  |
-| Infusion site extravasation |  |  |
-| Edema |  |  |
-| Chills |  |  |
-| Chest discomfort |  |  |
-| Facial pain |  |  |
-| Hepatobiliary Disorders | Hepatic function abnormal |  |
-| Infections and Infestations | Vulvovaginal candidiasis |  |
-| Oral candidiasis |  |  |
-| Vulvovaginal mycotic infection |  |  |
-| Candidiasis |  |  |
-| Vaginal infection |  |  |
-| Oral fungal infection |  |  |
-| Fungal infection |  |  |
-| Gastroenteritis |  |  |
-| Investigations | Aspartate aminotransferase increased |  |
-| Gamma-glutamyltransferase increased |  |  |
-| Blood alkaline phosphatase increased |  |  |
-| Hepatic enzyme increased |  |  |
-| Electrocardiogram QT prolonged |  |  |
-| Blood lactate dehydrogenase increased |  |  |
-| Platelet count increased |  |  |
-| Blood amylase increased |  |  |
-| Blood glucose increased |  |  |
-| Lipase increased |  |  |
-| Hemoglobin decreased |  |  |
-| Blood creatinine increased |  |  |
-| Transaminases increased |  |  |
-| White blood cell count increased |  |  |
-| Blood urea increased |  |  |
-| Liver function test abnormal |  |  |
-| Hematocrit decreased |  |  |
-| Prothrombin time prolonged |  |  |
-| Eosinophil count increased |  |  |
-| Activated partial thromboplastin time prolonged |  |  |
-| Blood bilirubin increased |  |  |
-| Blood triglycerides increased |  |  |
-| Blood uric acid increased |  |  |
-| Blood pressure increased |  |  |
-| Metabolism and Nutrition Disorders | Hyperglycemia |  |
-| Anorexia |  |  |
-| Hypoglycemia |  |  |
-| Hyperlipidemia |  |  |
-| Decreased appetite |  |  |
-| Dehydration |  |  |
-| Musculoskeletal and Connective Tissue Disorders | Back pain |  |
-| Pain in extremity |  |  |
-| Arthralgia |  |  |
-| Myalgia |  |  |
-| Muscle spasms |  |  |
-| Musculoskeletal chest pain |  |  |
-| Musculoskeletal pain |  |  |
-| Nervous System Disorders | Dysgeusia |  |
-| Somnolence |  |  |
-| Tremor |  |  |
-| Lethargy |  |  |
-| Paresthesia |  |  |
-| Tension headache |  |  |
-| Hypoesthesia |  |  |
-| Syncope |  |  |
-| Psychiatric Disorders | Anxiety |  |
-| Confusional state |  |  |
-| Agitation |  |  |
-| Depression |  |  |
-| Nervousness |  |  |
-| Restlessness |  |  |
-| Hallucination |  |  |
-| Disorientation |  |  |
-| Renal and Urinary Disorders | Renal failure |  |
-| Dysuria |  |  |
-| Renal failure acute |  |  |
-| Reproductive System and Breast Disorders | Vulvovaginal pruritus |  |
-| Respiratory, Thoracic, and Mediastinal Disorders | Dyspnea |  |
-| Asthma |  |  |
-| Wheezing |  |  |
-| Bronchospasm |  |  |
-| Skin and Subcutaneous Tissue Disorders | Rash |  |
-| Pruritus |  |  |
-| Hyperhidrosis |  |  |
-| Erythema |  |  |
-| Urticaria |  |  |
-| Dermatitis allergic |  |  |
-| Night sweats |  |  |
-| Vascular Disorders | Hypertension |  |
-| Hypotension |  |  |
-| Phlebitis |  |  |
+| System Organ Class | Adverse Reactionsa |
+| --- | --- |
+| Blood and Lymphatic System Disorders | Thrombocythemia |
+| Eosinophilia |  |
+| Neutropenia |  |
+| Thrombocytopenia |  |
+| Leukopenia |  |
+| Leukocytosis |  |
+| Cardiac Disorders | Atrial fibrillation |
+| Palpitations |  |
+| Tachycardia |  |
+| Cardiac failure congestive |  |
+| Angina pectoris |  |
+| Cardiac failure |  |
+| Cardiac arrest |  |
+| Bradycardia |  |
+| Ear and Labyrinth Disorders | Vertigo |
+| Tinnitus |  |
+| Eye Disorders | Vision blurred |
+| Gastrointestinal Disorders | Dry mouth |
+| Abdominal discomfort |  |
+| Flatulence |  |
+| Abdominal distention |  |
+| Gastritis |  |
+| Gastroesophageal reflux disease |  |
+| General Disorders and Administration Site Conditions | Fatigue |
+| Chest pain |  |
+| Asthenia |  |
+| Edema peripheral |  |
+| Pain |  |
+| Malaise |  |
+| Infusion site extravasation |  |
+| Edema |  |
+| Chills |  |
+| Chest discomfort |  |
+| Facial pain |  |
+| Hepatobiliary Disorders | Hepatic function abnormal |
+| Infections and Infestations | Vulvovaginal candidiasis |
+| Oral candidiasis |  |
+| Vulvovaginal mycotic infection |  |
+| Candidiasis |  |
+| Vaginal infection |  |
+| Oral fungal infection |  |
+| Fungal infection |  |
+| Gastroenteritis |  |
+| Investigations | Aspartate aminotransferase increased |
+| Gamma-glutamyltransferase increased |  |
+| Blood alkaline phosphatase increased |  |
+| Hepatic enzyme increased |  |
+| Electrocardiogram QT prolonged |  |
+| Blood lactate dehydrogenase increased |  |
+| Platelet count increased |  |
+| Blood amylase increased |  |
+| Blood glucose increased |  |
+| Lipase increased |  |
+| Hemoglobin decreased |  |
+| Blood creatinine increased |  |
+| Transaminases increased |  |
+| White blood cell count increased |  |
+| Blood urea increased |  |
+| Liver function test abnormal |  |
+| Hematocrit decreased |  |
+| Prothrombin time prolonged |  |
+| Eosinophil count increased |  |
+| Activated partial thromboplastin time prolonged |  |
+| Blood bilirubin increased |  |
+| Blood triglycerides increased |  |
+| Blood uric acid increased |  |
+| Blood pressure increased |  |
+| Metabolism and Nutrition Disorders | Hyperglycemia |
+| Anorexia |  |
+| Hypoglycemia |  |
+| Hyperlipidemia |  |
+| Decreased appetite |  |
+| Dehydration |  |
+| Musculoskeletal and Connective Tissue Disorders | Back pain |
+| Pain in extremity |  |
+| Arthralgia |  |
+| Myalgia |  |
+| Muscle spasms |  |
+| Musculoskeletal chest pain |  |
+| Musculoskeletal pain |  |
+| Nervous System Disorders | Dysgeusia |
+| Somnolence |  |
+| Tremor |  |
+| Lethargy |  |
+| Paresthesia |  |
+| Tension headache |  |
+| Hypoesthesia |  |
+| Syncope |  |
+| Psychiatric Disorders | Anxiety |
+| Confusional state |  |
+| Agitation |  |
+| Depression |  |
+| Nervousness |  |
+| Restlessness |  |
+| Hallucination |  |
+| Disorientation |  |
+| Renal and Urinary Disorders | Renal failure |
+| Dysuria |  |
+| Renal failure acute |  |
+| Reproductive System and Breast Disorders | Vulvovaginal pruritus |
+| Respiratory, Thoracic, and Mediastinal Disorders | Dyspnea |
+| Asthma |  |
+| Wheezing |  |
+| Bronchospasm |  |
+| Skin and Subcutaneous Tissue Disorders | Rash |
+| Pruritus |  |
+| Hyperhidrosis |  |
+| Erythema |  |
+| Urticaria |  |
+| Dermatitis allergic |  |
+| Night sweats |  |
+| Vascular Disorders | Hypertension |
+| Hypotension |  |
+| Phlebitis |  |
 
 a MedDRA Version 12.0
 
@@ -198,15 +202,15 @@ Table 4: Postmarketing Reports of Adverse Drug Reactions
 
 | System/Organ Class | Adverse Reaction |
 | --- | --- |
-| Blood and Lymphatic System Disorders | Agranulocytosis Pancytopenia [see Warnings and Precautions (5.5)] |
+| Blood and Lymphatic System Disorders | Agranulocytosis Pancytopenia [see Warnings and Precautions (5.8)] |
 | Cardiac Disorders | Ventricular tachyarrhythmias (including in very rare cases cardiac arrest and torsades de pointes, and usually in patients with concurrent severe underlying proarrhythmic conditions) |
 | Ear and Labyrinth Disorders | Hearing impairment, including deafness (reversible in majority of cases) |
 | Eye Disorders | Vision loss (especially in the course of CNS reactions, transient in majority of cases) |
-| Hepatobiliary Disorders | Hepatitis (predominantly cholestatic) Hepatic failure (including fatal cases) Jaundice Acute hepatic necrosis [see Warnings and Precautions (5.5)] |
-| Immune System Disorders | Anaphylactic reaction Anaphylactic shock Angioedema (including laryngeal edema) [see Warnings and Precautions (5.4, 5.5)] |
-| Musculoskeletal and Connective Tissue Disorders | Tendon rupture [see Warnings and Precautions (5.1)] |
-| Nervous System Disorders | Altered coordination Abnormal gait [see Warnings and Precautions (5.8)] Myasthenia gravis (exacerbation of) [see Warnings and Precautions (5.2)] Muscle weakness Peripheral neuropathy (that may be irreversible), polyneuropathy [see Warnings and Precautions (5.8)] |
-| Psychiatric Disorders | Psychotic reaction (very rarely culminating in self-injurious behavior, such as suicidal ideation/thoughts or suicide attempts [see Warnings and Precautions (5.6)] |
-| Renal and Urinary Disorders | Renal dysfunction Interstitial nephritis [see Warnings and Precautions (5.5)] |
-| Respiratory, Thoracic and Mediastinal Disorders | Allergic pneumonitis [see Warnings and Precautions (5.5)] |
-| Skin and Subcutaneous Tissue Disorders | Photosensitivity/phototoxicity reaction [see Warnings and Precautions (5.12)] Stevens-Johnson syndrome Toxic epidermal necrolysis [see Warnings and Precautions (5.5)] |
+| Hepatobiliary Disorders | Hepatitis (predominantly cholestatic) Hepatic failure (including fatal cases) Jaundice Acute hepatic necrosis [see Warnings and Precautions (5.8)] |
+| Immune System Disorders | Anaphylactic reaction Anaphylactic shock Angioedema (including laryngeal edema) [see Warnings and Precautions (5.7, 5.8)] |
+| Musculoskeletal and Connective Tissue Disorders | Tendon rupture [see Warnings and Precautions (5.2)] |
+| Nervous System Disorders | Altered coordination Abnormal gait [see Warnings and Precautions (5.3)] Myasthenia gravis (exacerbation of) [see Warnings and Precautions (5.5)] Muscle weakness Peripheral neuropathy (that may be irreversible), polyneuropathy [see Warnings and Precautions (5.3)] |
+| Psychiatric Disorders | Psychotic reaction (very rarely culminating in self-injurious behavior, such as suicidal ideation/thoughts or suicide attempts [see Warnings and Precautions (5.4)] |
+| Renal and Urinary Disorders | Renal dysfunction Interstitial nephritis [see Warnings and Precautions (5.8)] |
+| Respiratory, Thoracic and Mediastinal Disorders | Allergic pneumonitis [see Warnings and Precautions (5.8)] |
+| Skin and Subcutaneous Tissue Disorders | Photosensitivity/phototoxicity reaction [see Warnings and Precautions (5.13)] Stevens-Johnson syndrome Toxic epidermal necrolysis [see Warnings and Precautions (5.8)] |

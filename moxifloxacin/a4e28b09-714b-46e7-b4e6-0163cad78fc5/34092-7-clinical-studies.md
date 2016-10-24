@@ -49,7 +49,7 @@ Table 10: Clinical Success Rates by Pathogen (Pooled CAP Studies)
 | Mycoplasma pneumoniae | 73/76 | (96%) |
 | Moraxella catarrhalis | 11/12 | (92%) |
 
-## 14.3 Community Acquired Pneumonia Caused by Multi-Drug Resistant Streptococcus pneumoniae (MDRSP)
+## 14.3 Community Acquired Pneumonia Caused by Multi-Drug Resistant Streptococcus pneumoniae (MDRSP)*
 
 Moxifloxacin was effective in the treatment of community acquired pneumonia (CAP) caused by multi-drug resistant MDRSP* isolates.
 Of 37 microbiologically evaluable patients with MDRSP isolates, 35 patients (95%) achieved clinical and bacteriological success post-therapy.

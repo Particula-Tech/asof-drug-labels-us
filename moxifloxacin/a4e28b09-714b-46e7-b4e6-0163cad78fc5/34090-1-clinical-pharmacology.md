@@ -6,7 +6,7 @@ Moxifloxacin is a member of the fluoroquinolone class of antibacterial agents [s
 
 ## 12.3 Pharmacokinetics
 
-The mean (±SD) pharmacokinetic parameters of moxifloxacin following single and multiple dose of 400 mg moxifloxacin given by 1 hour intravenous infusion are summarized in Table 5.
+The mean (± SD) pharmacokinetic parameters of moxifloxacin following single and multiple dose of 400 mg moxifloxacin given by 1 hour intravenous infusion are summarized in Table 5.
 The mean (± SD) elimination half-life from plasma is 12 ± 1.3 hours; steady-state is achieved after at least three days with a 400 mg once daily regimen.
 The absolute bioavailability of moxifloxacin is approximately 90 percent.
 When switching from intravenous to oral formulation, no dosage adjustment is necessary [see Dosage and Administration (2.1)].
@@ -50,7 +50,7 @@ Table 6: Moxifloxacin Concentrations (mean ± SD) in Tissues and the Correspondi
 | Skin, Musculoskeletal |  |  |  |  |
 | Blister Fluid Subcutaneous Tissue Skeletal Muscle | 5 6 6 | 3 ± 0.5c 2.3 ± 0.4d 2.3 ± 0.4d | 2.6 ± 0.9 0.9 ± 0.3e 0.9 ± 0.2e | 0.9 ± 0.2 0.4 ± 0.6 0.4 ± 0.1 |
 | Intra-Abdominal |  |  |  |  |
-| Abdominal tissue Abdominal exudate Abscess fluid | 8 10 6 | 2.9 ± 0.5 2.3 ± 0.5 2.7 ± 0.7 | 7.6 ± 2 3.5 ±1.2 2.3 ±1.5 | 2.7 ± 0.8 1.6 ± 0.7 0.8 ± 0.4 |
+| Abdominal tissue Abdominal exudate Abscess fluid | 8 10 6 | 2.9 ± 0.5 2.3 ± 0.5 2.7 ± 0.7 | 7.6 ± 2 3.5 ± 1.2 2.3 ± 1.5 | 2.7 ± 0.8 1.6 ± 0.7 0.8 ± 0.4 |
 
 a All moxifloxacin concentrations were measured 3 hours after a single 400 mg dose, except the abdominal tissue and exudate concentrations which were measured at 2 hours post-dose and the sinus concentrations which were measured 3 hours post-dose after 5 days of dosing.
 
@@ -125,7 +125,7 @@ HD and CAPD also removed about 4% and 2% of the glucuronide metabolite (M2), res
 
 Hepatic Insufficiency
 
-No dosage adjustment is recommended for mild, moderate, or severe hepatic insufficiency (Child-Pugh Classes A, B, or C). However, due to metabolic disturbances associated with hepatic insufficiency, which may lead to QT prolongation, moxifloxacin should be used with caution in these patients [see Warnings and Precautions (5.3) and Use in Specific Populations (8.7)].
+No dosage adjustment is recommended for mild, moderate, or severe hepatic insufficiency (Child-Pugh Classes A, B, or C). However, due to metabolic disturbances associated with hepatic insufficiency, which may lead to QT prolongation, moxifloxacin should be used with caution in these patients [see Warnings and Precautions (5.6) and Use in Specific Populations (8.7)].
 
 In 400 mg single oral dose studies in 6 patients with mild (Child-Pugh Class A) and 10 patients with moderate (Child-Pugh Class B) hepatic insufficiency, moxifloxacin mean systemic exposure (AUC) was 78% and 102%, respectively, of 18 healthy controls and mean peak concentration (Cmax) was 79% and 84% of controls.
 
@@ -142,7 +142,7 @@ A study of the skin response to ultraviolet (UVA and UVB) and visible radiation 
 The minimum erythematous dose (MED) was measured before and after treatment with moxifloxacin (200 mg or 400 mg once daily), lomefloxacin (400 mg once daily), or placebo.
 In this study, the MED measured for both doses of moxifloxacin were not significantly different from placebo, while lomefloxacin significantly lowered the MED.
 
-It is difficult to ascribe relative photosensitivity/phototoxicity among various fluoroquinolones during actual patient use because other factors play a role in determining a subject’s susceptibility to this adverse event such as: a patient’s skin pigmentation, frequency and duration of sun and artificial ultraviolet light (UV) exposure, wearing of sunscreen and protective clothing, the use of other concomitant drugs and the dosage and duration of fluoroquinolone therapy [see Warnings and Precautions (5.12), Adverse Reactions (6.3), and Patient Counseling Information (17)].
+It is difficult to ascribe relative photosensitivity/phototoxicity among various fluoroquinolones during actual patient use because other factors play a role in determining a subject’s susceptibility to this adverse event such as: a patient’s skin pigmentation, frequency and duration of sun and artificial ultraviolet light (UV) exposure, wearing of sunscreen and protective clothing, the use of other concomitant drugs and the dosage and duration of fluoroquinolone therapy [see Warnings and Precautions (5.13), Adverse Reactions (6.3), and Patient Counseling Information (17)].
 
 Drug-Drug Interactions
 
