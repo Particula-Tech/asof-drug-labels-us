@@ -6,7 +6,7 @@ Verapamil is administered as a racemic mixture of the R and S enantiomers.
 
 The structural formulae of the verapamil HCl enantiomers are:
 
-C27H38N2O4•HCl M.W.=491.07
+C27H38N2O4∙HCl M.W.=491.07
 
 Chemical name: Benzeneacetonitrile, α-[3-[[2-(3,4-dimethoxyphenyl)ethyl]methylamino]propyl]- 3,4-dimethoxy-α-(1-methylethyl)-, monohydrochloride,(±)-.
 

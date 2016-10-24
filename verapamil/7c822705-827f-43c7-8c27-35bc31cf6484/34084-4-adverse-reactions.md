@@ -34,8 +34,8 @@ Adverse Events Occurring in >1% (or lower rates and clearly drug related) of Pat
 | --- | --- | --- | --- |
 | Dizziness | 3.3% | Bradycardia (HR<50/min) | 1.4% |
 | Nausea | 2.7% | Rash | 1.2% |
-| Hypotension | 2.5% | AV block (total 1º, 2º, 3º) | 1.2% |
-| Headache | 2.2% | AV block (2º and 3º) | 0.8% |
+| Hypotension | 2.5% | AV block (total 1°, 2°, 3°) | 1.2% |
+| Headache | 2.2% | AV block (2° and 3°) | 0.8% |
 | Edema | 1.9% | Flushing | 0.6% |
 | CHF/Pulmonary Edema | 1.8% |  |  |
 
