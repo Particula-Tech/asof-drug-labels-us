@@ -1,7 +1,15 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Cholinomimetic and Anticholinergic Drugs
+## 7.1 Metoclopramide
 
-Increased cholinergic effects may be expected when rivastigmine is given with other cholinomimetic drugs.
-Rivastigmine may also interfere with the activity of anticholinergic medications.
-Avoid concomitant use of rivastigmine with drugs having these pharmacologic effects unless deemed clinically necessary.
+Due to the risk of additive extrapyramidal adverse reactions, the concomitant use of metoclopramide and rivastigmine tartrate capsules are not recommended.
+
+## 7.2 Cholinomimetic and Anticholinergic Medications
+
+Rivastigmine tartrate capsules may increase the cholinergic effects of other cholinomimetic medications and may also interfere with the activity of anticholinergic medications (e.g., oxybutynin, tolterodine).
+Concomitant use of rivastigmine tartrate capsules with medications having these pharmacologic effects is not recommended unless deemed clinically necessary [see Warnings and Precautions (5.3)].
+
+## 7.3 Beta-blockers
+
+Additive bradycardic effects resulting in syncope may occur when rivastigmine tartrate capsules are used concomitantly with beta-blockers, especially cardioselective beta-blockers (including atenolol).
+Concomitant use of rivastigmine tartrate capsules with beta-blockers is not recommended.

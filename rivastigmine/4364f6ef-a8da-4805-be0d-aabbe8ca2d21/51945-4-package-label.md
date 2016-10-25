@@ -12,16 +12,6 @@ Bottles of 60s
 
 Rx Only
 
-NDC 33342-089-15
-
-Rivastigmine tartrate Capsules, USP
-
-1.5 mg
-
-Bottles of 500s
-
-Rx Only
-
 NDC 33342-089-06
 
 Rivastigmine tartrate Capsules USP
@@ -49,16 +39,6 @@ Rivastigmine tartrate Capsules, USP
 3 mg
 
 Bottles of 60s
-
-Rx Only
-
-NDC 33342-090-15
-
-Rivastigmine tartrate Capsules, USP
-
-3 mg
-
-Bottles of 500s
 
 Rx Only
 
@@ -92,16 +72,6 @@ Bottles of 60s
 
 Rx Only
 
-NDC 33342-091-15
-
-Rivastigmine tartrate Capsules, USP
-
-4.5 mg
-
-Bottles of 500s
-
-Rx Only
-
 NDC 33342-091-06
 
 Rivastigmine tartrate Capsules USP
@@ -129,16 +99,6 @@ Rivastigmine tartrate Capsules, USP
 6 mg
 
 Bottles of 60s
-
-Rx Only
-
-NDC 33342-092-15
-
-Rivastigmine tartrate Capsules, USP
-
-6 mg
-
-Bottles of 500s
 
 Rx Only
 
