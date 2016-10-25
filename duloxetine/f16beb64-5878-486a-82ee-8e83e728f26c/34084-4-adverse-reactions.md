@@ -26,9 +26,12 @@ Reactions reported during the studies were not necessarily caused by the therapy
 Adults — The data described below reflect exposure to duloxetine in placebo-controlled trials for MDD (N=3,779), GAD (N=1,018), OA (N=503), CLBP (N=600), DPNP (N=906), and another indication (N=1,294).
 The population studied was 17 to 89 years of age; 65.7%, 60.8%, 60.6%, 42.9%, and 94.4% female; and 81.8%, 72.6%, 85.3%, 74%, and 85.7% Caucasian for MDD, GAD, OA and CLBP, DPNP, and another indication, respectively.
 Most patients received doses of a total of 60 to 120 mg per day [see Clinical Studies (14)].
-Information describing two additional clinical studies in which efficacy was not demonstrated in patients ages 7 to 17 years is approved for Eli Lilly and Company, Inc.’s CYMBALTA® (duloxetine) delayed-release capsules.
-Other pediatric use information for patients ages 7 to 17 years is approved for Eli Lilly and Company, Inc.'s CYMBALTA® (duloxetine) delayed-release capsules.
-However, due to Eli Lilly and Company, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Children and Adolescents — The data described below reflect exposure to duloxetine in pediatric, 10-week, placebo-controlled trials for MDD (N=341) and another indication (N=135).
+The population studied (N=476) was 7 to 17 years of age with 42.4% children age 7 to 11 years of age, 50.6% female, and 68.6% white.
+Patients received 30 to 120 mg per day during placebo-controlled acute treatment studies.
+Additional data come from the overall total of 822 pediatric patients (age 7 to 17 years of age) with 41.7% children age 7 to 11 years of age and 51.8% female exposed to duloxetine in MDD and another indication clinical trials up to 36-weeks in length, in which most patients received 30 to 120 mg per day.
+Pediatric use information for patients with generalized anxiety disorder ages 7 to 17 years is approved for Eli Lilly and Company, Inc.'s CYMBALTA® (duloxetine) delayed-release capsules.
+However, due to Eli Lilly and Company, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 6.2 Adverse Reactions Reported as Reasons for Discontinuation of Treatment in Adult Placebo-Controlled Trials
 
@@ -291,19 +294,19 @@ Other adverse reactions that occurred at an incidence of less than 2% but were r
 
 Discontinuation-emergent symptoms have been reported when stopping duloxetine.
 The most commonly reported symptoms following discontinuation of duloxetine in pediatric clinical trials have included headache, dizziness, insomnia, and abdominal pain [see Warnings and Precautions (5.7) and Adverse Reactions (6.2)].
-
-Growth (Height and Weight) – Decreased appetite and weight loss have been observed in association with the use of SSRIs and SNRIs.
+Growth (Height and Weight) — Decreased appetite and weight loss have been observed in association with the use of SSRIs and SNRIs.
+Pediatric patients treated with duloxetine in clinical trials experienced a 0.1kg mean decrease in weight at 10 weeks, compared with a mean weight gain of approximately 0.9 kg in placebo-treated patients.
+The proportion of patients who experienced a clinically significant decrease in weight (≥3.5%) was greater in the duloxetine group than in the placebo group (14% and 6%, respectively).
+Subsequently, over the 4- to 6-month uncontrolled extension periods, duloxetine-treated patients on average trended toward recovery to their expected baseline weight percentile based on population data from age- and sex-matched peers.
 In studies up to 9 months, duloxetine-treated pediatric patients experienced an increase in height of 1.7 cm on average (2.2 cm increase in children [7 to 11 years of age] and 1.3 cm increase in adolescents [12 to 17 years of age]).
 While height increase was observed during these studies, a mean decrease of 1% in height percentile was observed (decrease of 2% in children [7 to 11 years of age] and increase of 0.3% in adolescents [12 to 17 years of age]).
 Weight and height should be monitored regularly in children and adolescents treated with duloxetine.
-
-Information describing two additional clinical studies in which efficacy was not demonstrated in patients ages 7 to 17 years is approved for Eli Lilly and Company, Inc.’s CYMBALTA® (duloxetine) delayed-release capsules.
-Other pediatric use information for patients ages 7 to 17 years is approved for Eli Lilly and Company, Inc.'s CYMBALTA® (duloxetine) delayed-release capsules.
-However, due to Eli Lilly and Company, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Pediatric use information for patients with generalized anxiety disorder ages 7 to 17 years is approved for Eli Lilly and Company, Inc.'s CYMBALTA® (duloxetine) delayed-release capsules.
+However, due to Eli Lilly and Company, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 6.12 Postmarketing Spontaneous Reports
 
 The following adverse reactions have been identified during post approval use of duloxetine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Adverse reactions reported since market introduction that were temporally related to duloxetine therapy and not mentioned elsewhere in labeling include: anaphylactic reaction, aggression and anger (particularly early in treatment or after treatment discontinuation), angioneurotic edema, angle-closure glaucoma, colitis (microscopic or unspecified), cutaneous vasculitis (sometimes associated with systemic involvement), extrapyramidal disorder, galactorrhea, gynecological bleeding, hallucinations, hyperglycemia, hyperprolactinemia, hypersensitivity, hypertensive crisis, muscle spasm, rash, restless legs syndrome, seizures upon treatment discontinuation, supraventricular arrhythmia, tinnitus (upon treatment discontinuation), trismus, and urticaria.
+Adverse reactions reported since market introduction that were temporally related to duloxetine therapy and not mentioned elsewhere in labeling include: acute pancreatitis, anaphylactic reaction, aggression and anger (particularly early in treatment or after treatment discontinuation), angioneurotic edema, angle-closure glaucoma, colitis (microscopic or unspecified), cutaneous vasculitis (sometimes associated with systemic involvement), extrapyramidal disorder, galactorrhea, gynecological bleeding, hallucinations, hyperglycemia, hyperprolactinemia, hypersensitivity, hypertensive crisis, muscle spasm, rash, restless legs syndrome, seizures upon treatment discontinuation, supraventricular arrhythmia, tinnitus (upon treatment discontinuation), trismus, and urticaria.

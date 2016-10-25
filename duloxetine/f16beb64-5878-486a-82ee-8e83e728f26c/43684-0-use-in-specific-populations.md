@@ -48,17 +48,15 @@ The presence of duloxetine metabolites in breast milk was not examined.
 
 ## 8.4 Pediatric Use
 
+Major Depressive Disorder — Efficacy was not demonstrated in two 10 week, placebo-controlled trials with 800 pediatric patients with MDD, age 7 to 17.
+Neither duloxetine delayed-release capsules nor an active control (indicated for treatment of pediatric depression) was superior to placebo.
 The safety and effectiveness in pediatric patients less than 7 years of age have not been established.
-
-Safety and effectiveness of duloxetine have not been established in pediatric patients less than 18 years of age with MDD.
-
+The most frequently observed adverse reactions in the clinical trials included nausea, headache, decreased weight, and abdominal pain.
 Decreased appetite and weight loss have been observed in association with the use of SSRIs and SNRIs.
-Perform regular monitoring of weight and growth in children and adolescents treated with an SNRI such as duloxetine [see Adverse Reactions (6.11)].
-
-Information describing two additional clinical studies in which efficacy was not demonstrated in patients ages 7 to 17 years is approved for Eli Lilly and Company, Inc.’s CYMBALTA® (duloxetine) delayed-release capsules.
-Other pediatric use information for patients ages 7 to 17 years is approved for Eli Lilly and Company, Inc.'s CYMBALTA® (duloxetine) delayed-release capsules.
+Perform regular monitoring of weight and growth in children and adolescents treated with an SNRI such as duloxetine delayed-release capsules [see Adverse Reactions (6.11)].
+Use of duloxetine delayed-release capsules in a child or adolescent must balance the potential risks with the clinical need [see Boxed Warning and Warnings and Precautions (5.1)].
+Pediatric use information for patients with generalized anxiety disorder ages 7 to 17 years is approved for Eli Lilly and Company, Inc.'s CYMBALTA® (duloxetine) delayed-release capsules.
 However, due to Eli Lilly and Company, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
-
 Animal Data — Duloxetine administration to young rats from post-natal day 21 (weaning) through post-natal day 90 (adult) resulted in decreased body weights that persisted into adulthood, but recovered when drug treatment was discontinued; slightly delayed (~1.5 days) sexual maturation in females, without any effect on fertility; and a delay in learning a complex task in adulthood, which was not observed after drug treatment was discontinued.
 These effects were observed at the high dose of 45 mg/kg/day (2 times the MRHD, for a child); the no-effect-level was 20 mg/kg/day (≈1 times the MRHD, for a child).
 
