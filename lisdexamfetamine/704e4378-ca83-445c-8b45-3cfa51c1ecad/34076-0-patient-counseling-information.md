@@ -32,7 +32,16 @@ Instruct patients to find out how VYVANSE will affect them before engaging in po
 
 Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud's phenomenon]
 
-Instruct patients beginning treatment with VYVANSE about the risk of peripheral vasculopathy, including Raynaud's Phenomenon, and associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change from pale, to blue, to red.
+Instruct patients beginning treatment with VYVANSE about the risk of peripheral vasculopathy, including Raynaud's phenomenon, and associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change from pale, to blue, to red.
 Instruct patients to report to their physician any new numbness, pain, skin color change, or sensitivity to temperature in fingers or toes.
 Instruct patients to call their physician immediately with any signs of unexplained wounds appearing on fingers or toes while taking VYVANSE.
 Further clinical evaluation (e.g. rheumatology referral) may be appropriate for certain patients [see Warnings and Precautions (5.6)].
+
+Pregnancy
+
+Advise patients of the potential fetal effects from the use of VYVANSE during pregnancy.
+Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with VYVANSE [see Use in Specific Populations (8.1)].
+
+Lactation
+
+Advise women not to breastfeed if they are taking VYVANSE [see Use in Specific Populations (8.2)].

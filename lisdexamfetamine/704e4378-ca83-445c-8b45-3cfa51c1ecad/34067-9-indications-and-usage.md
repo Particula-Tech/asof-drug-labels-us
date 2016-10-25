@@ -3,7 +3,7 @@
 VYVANSE® is indicated for the treatment of:
 
 - Attention Deficit Hyperactivity Disorder (ADHD) [see Clinical Studies (14.1)]
-- Moderate to Severe Binge Eating Disorder (BED) [see Clinical Studies (14.2)].
+- Moderate to Severe Binge Eating Disorder (BED) in adults [see Clinical Studies (14.2)].
 
 Limitation of Use:
 

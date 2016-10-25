@@ -8,7 +8,11 @@ Efficacy of VYVANSE in the treatment of ADHD has been established in the followi
 - Two short-term trials in adults (18 to 55 years, Studies 7, 8)
 - Two randomized withdrawal trials in children and adolescents (6 to 17 years, Study 6), and adults (18 to 55 years, Study 9)
 
-Efficacy of VYVANSE in the treatment of BED has been established in two 12-week trials in adults (18 to 55 years) with moderate to severe BED (Study 10 and 11).
+Efficacy of VYVANSE in the treatment of moderate to severe BED in adults has been established in the following trials:
+
+- One randomized trial in adults (18 to 55 years, Study 10)
+- Two short-term trials in adults (18 to 55 years, Studies 11 and 12)
+- One randomized withdrawal study in adults (18 to 55 years, Study 13)
 
 ## 14.1 Attention Deficit Hyperactivity Disorder (ADHD)
 
@@ -108,8 +112,8 @@ Table 7: Summary of Primary Efficacy Results from Short-term Studies of VYVANSE 
 | VYVANSE (50 mg/day) | 43.3 (6.7) | -23.4 (1.6) | -17.2 (-21.5, -12.9) |  |  |
 | VYVANSE (70 mg/day) | 45.1(6.8) | -26.7 (1.5) | -20.5 (-24.8, -16.2) |  |  |
 | Placebo | 42.4 (7.1) | -6.2 (1.6) | -- |  |  |
-| Study 2 (6 - 12 years) | Average SKAMP-DS | VYVANSE (30, 50 or 70 mg/day) | -- Pre-dose SKAMP-DS was not collected. | 0.8 (0.1) LS Mean for SKAMP-DS (Study 2 and 3) or PERMP (Study 8) is post-dose average score over all sessions of the treatment day, rather than change from baseline. | -0.9 (-1.1, -0.7) |
-| Placebo | -- | 1.7 (0.1) | -- |  |  |
+| Study 2 (6 - 12 years) | Average SKAMP-DS | VYVANSE (30, 50 or 70 mg/day) | -- Pre-dose SKAMP-DS was not collected. | 0.8 (0.1)LS Mean for SKAMP-DS (Study 2 and 3) or PERMP (Study 8) is post-dose average score over all sessions of the treatment day, rather than change from baseline. | -0.9 (-1.1, -0.7) |
+|  |  | Placebo | -- | 1.7 (0.1) | -- |
 | Study 3 (6 - 12 years) | Average SKAMP-DS | VYVANSE (30, 50 or 70 mg/day) | 0.9 (1.0)Pre-dose SKAMP-DS (Study 3) or PERMP (Study 8) total score, averaged over both periods. | 0.7 (0.1) | -0.7 (-0.9, -0.6) |
 | Placebo | 0.7 (0.9) | 1.4 (0.1) | -- |  |  |
 | Study 4 (13 - 17 years) | ADHD-RS-IV | VYVANSE (30 mg/day) | 38.3 (6.7) | -18.3 (1.2) | -5.5 (-9.0, -2.0) |
@@ -130,22 +134,22 @@ Figure 4 LS Mean SKAMP Deportment Subscale Score by Treatment and Time-point for
 
 Higher score on the SKAMP-Deportment scale indicates more severe symptoms
 
-Figure 5 Kaplan-Meier Estimation of Proportion of Patients with Treatment Failure for Children and Adolescent Ages 6-17 (Study 6)
+Figure 5 Kaplan-Meier Estimated Proportion of Patients with Treatment Failure for Children and Adolescent Ages 6-17 (Study 6)
 
 Figure 6 LS Mean (SE) PERMP Total Score by Treatment and Time-point for Adults Ages 18 to 55 with ADHD after 1 Week of Double Blind Treatment (Study 8)
 
 Higher score on the PERMP scale indicates less severe symptoms.
 
-Figure 7 Kaplan-Meier Estimation of Time to Treatment Failure in Adults with ADHD (Study 9)
+Figure 7 Kaplan-Meier Estimated Proportion of Subjects with Relapse in Adults with ADHD (Study 9)
 
 ## 14.2 Binge Eating Disorder (BED)
 
 A phase 2 study evaluated the efficacy of VYVANSE 30, 50 and 70 mg/day compared to placebo in reducing the number of binge days/week in adults with at least moderate to severe BED.
-This randomized, double-blind, parallel-group, placebo-controlled, forced-dose titration study consisted of an 11-week double-blind treatment period (3 weeks of forced-dose titration followed by 8 weeks of dose maintenance).
+This randomized, double-blind, parallel-group, placebo-controlled, forced-dose titration study (Study 10) consisted of an 11-week double-blind treatment period (3 weeks of forced-dose titration followed by 8 weeks of dose maintenance).
 VYVANSE 30 mg/day was not statistically different from placebo on the primary endpoint.
 The 50 and 70 mg/day doses were statistically superior to placebo on the primary endpoint.
 
-The efficacy of VYVANSE in the treatment of BED was demonstrated in two 12-week randomized, double-blind, multi-center, parallel-group, placebo-controlled, dose-optimization studies in adults aged 18-55 years (Study 10: N=374, Study 11: N=350) with moderate to severe BED.
+The efficacy of VYVANSE in the treatment of BED was demonstrated in two 12-week randomized, double-blind, multi-center, parallel-group, placebo-controlled, dose-optimization studies (Study 11 and Study 12) in adults aged 18-55 years (Study 11: N=374, Study 12: N=350) with moderate to severe BED.
 A diagnosis of BED was confirmed using DSM-IV criteria for BED.
 Severity of BED was determined based on having at least 3 binge days per week for 2 weeks prior to the baseline visit and on having a Clinical Global Impression Severity (CGI-S) score of ≥4 at the baseline visit.
 For both studies, a binge day was defined as a day with at least 1 binge episode, as determined from the subject's daily binge diary.
@@ -162,13 +166,21 @@ In addition, subjects on VYVANSE showed greater improvement as compared to place
 
 Table 8: Summary of Primary Efficacy Results in BED
 
-|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline.(95% CI) |
+|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |
 | --- | --- | --- | --- | --- |
 | Study Number | Treatment Group | Primary Efficacy Measure: Binge Days per Week at Week 12 |  |  |
-| Study 10 | VYVANSE (50 or 70 mg/day)Doses statistically significantly superior to placebo. | 4.79 (1.27) | -3.87 (0.12) | -1.35 (-1.70, -1.01) |
+| Study 11 | VYVANSE (50 or 70 mg/day)Doses statistically significantly superior to placebo. | 4.79 (1.27) | -3.87 (0.12) | -1.35 (-1.70, -1.01) |
 |  | Placebo | 4.60 (1.21) | -2.51 (0.13) | -- |
-| Study 11 | VYVANSE (50 or 70 mg/day) | 4.66 (1.27) | -3.92 (0.14) | -1.66 (-2.04, -1.28) |
+| Study 12 | VYVANSE (50 or 70 mg/day) | 4.66 (1.27) | -3.92 (0.14) | -1.66 (-2.04, -1.28) |
 |  | Placebo | 4.82 (1.42) | -2.26 (0.14) | -- |
 | SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: confidence interval. |  |  |  |  |
+
+A double-blind, placebo controlled, randomized withdrawal design study (Study 13) was conducted to evaluate maintenance of efficacy based on time to relapse between VYVANSE and placebo in adults aged 18 to 55 (N=267) with moderate to severe BED.
+In this longer-term study patients who had responded to VYVANSE in the preceding 12-week open-label treatment phase were randomized to continuation of VYVANSE or placebo for up to 26 weeks of observation for relapse.
+Response in the open-label phase was defined as 1 or fewer binge days each week for four consecutive weeks prior to the last visit at the end of the 12-week open-label phase and a CGI-S score of 2 or less at the same visit.
+Relapse during the double-blind phase was defined as having 2 or more binge days each week for two consecutive weeks (14 days) prior to any visit and having an increase in CGI-S score of 2 or more points compared to the randomized-withdrawal baseline.
+Maintenance of efficacy for patients who had an initial response during the open-label period and then continued on VYVANSE during the 26-week double-blind randomized-withdrawal phase was demonstrated with VYVANSE being superior over placebo as measured by time to relapse.
+
+Figure 8 Kaplan-Meier Estimated Proportion of Subjects with Relapse in Adults with BED (Study 13)
 
 Examination of population subgroups based on age (there were no patients over 65), gender, and race did not reveal any clear evidence of differential responsiveness in the treatment of BED.

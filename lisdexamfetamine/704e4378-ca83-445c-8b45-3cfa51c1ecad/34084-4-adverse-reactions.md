@@ -2,6 +2,9 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the labeling
 
+- Known hypersensitivity to amphetamine products or other ingredients of VYVANSE [see Contraindications (4)]
+- Hypertensive Crisis When Used Concomitantly with Monoamine Oxidase Inhibitors [see Contraindications (4) and Drug Interactions (7.1)]
+- Drug Dependence [see Boxed Warning, Warnings and Precautions (5.1), and Drug Abuse and Dependence (9.2, 9.3)]
 - Serious Cardiovascular Reactions [see Warnings and Precautions (5.2)]
 - Blood Pressure and Heart Rate Increases [see Warnings and Precautions (5.3)]
 - Psychiatric Adverse Reactions [see Warnings and Precautions (5.4)]
@@ -111,9 +114,9 @@ No single adverse reaction led to discontinuation in 1% or more of VYVANSE-treat
 
 The most common adverse reactions (incidence ≥5% and at a rate at least twice placebo) reported in adults were dry mouth, insomnia, decreased appetite, increased heart rate, constipation, feeling jittery, and anxiety.
 
-Adverse reactions reported in the pooled controlled trials in adult patients (Study 10 and 11) treated with VYVANSE or placebo are presented in Table 4 below.
+Adverse reactions reported in the pooled controlled trials in adult patients (Study 11 and 12) treated with VYVANSE or placebo are presented in Table 4 below.
 
-Table 4 Adverse Reactions Reported by 2% or More of Adult Patients with BED Taking VYVANSE and at least Twice the Incidence in Patients Taking Placebo in 12-Week Clinical Trials (Study 10 and 11)
+Table 4 Adverse Reactions Reported by 2% or More of Adult Patients with BED Taking VYVANSE and at least Twice the Incidence in Patients Taking Placebo in 12-Week Clinical Trials (Study 11 and 12)
 
 |  | VYVANSE (N=373) | Placebo (N=372) |
 | --- | --- | --- |
@@ -142,4 +145,4 @@ Table 4 Adverse Reactions Reported by 2% or More of Adult Patients with BED Taki
 
 The following adverse reactions have been identified during post approval use of VYVANSE.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-These events are as follows: palpitations, cardiomyopathy, mydriasis, diplopia, difficulties with visual accommodation, blurred vision, eosinophilic hepatitis, anaphylactic reaction, hypersensitivity, dyskinesia, tics, bruxism, depression, dermatillomania, aggression, Stevens-Johnson Syndrome, angioedema, urticaria, seizures, libido changes, frequent or prolonged erections, constipation, and rhabdomyolysis.
+These events are as follows: palpitations, cardiomyopathy, mydriasis, diplopia, difficulties with visual accommodation, blurred vision, eosinophilic hepatitis, anaphylactic reaction, hypersensitivity, dyskinesia, dysgeusia, tics, bruxism, depression, dermatillomania, aggression, Stevens-Johnson Syndrome, angioedema, urticaria, seizures, libido changes, frequent or prolonged erections, constipation, and rhabdomyolysis.

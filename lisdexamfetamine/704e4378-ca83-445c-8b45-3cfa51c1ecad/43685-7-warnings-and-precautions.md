@@ -26,7 +26,7 @@ CNS stimulants may exacerbate symptoms of behavior disturbance and thought disor
 Induction of a Manic Episode in Patients with Bipolar Disorder
 
 CNS stimulants may induce a mixed/manic episode in patients with bipolar disorder.
-Prior to initiating treatment, screen patients for risk factors for developing a manic episode.
+Prior to initiating treatment, screen patients for risk factors for developing a manic episode (e.g., comorbid or history of depressive symptoms or a family history of suicide, bipolar disorder, and depression).
 
 New Psychotic or Manic Symptoms
 

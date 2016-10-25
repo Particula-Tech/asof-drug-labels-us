@@ -4,6 +4,10 @@
 
 Lisdexamfetamine is a prodrug of dextroamphetamine.
 Amphetamines are non-catecholamine sympathomimetic amines with CNS stimulant activity.
+The exact mode of therapeutic action in ADHD and BED is not known.
+
+## 12.2 Pharmacodynamics
+
 Amphetamines block the reuptake of norepinephrine and dopamine into the presynaptic neuron and increase the release of these monoamines into the extraneuronal space.
 The parent drug, lisdexamfetamine, does not bind to the sites responsible for the reuptake of norepinephrine and dopamine in vitro.
 
@@ -39,9 +43,18 @@ The plasma elimination half-life of lisdexamfetamine typically averaged less tha
 
 Drug Interaction Studies
 
+| Figure 1: Effect of Other Drugs on VYVANSE: |
+| --- |
+
+| Figure 2: Effect of VYVANSE on Other Drugs: |
+| --- |
+
 Studies in Specific Populations
 
 Renal Impairment
 
 In a pharmacokinetic study of lisdexamfetamine in subjects with normal and impaired renal function mean d-amphetamine clearance was reduced from 0.7 L/hr/kg in normal subjects to 0.4 L/hr/kg in subjects with severe renal impairment (GFR 15 to <30mL/min/1.73m2) and 0.3 L/hr/kg in ESRD patients.
 Dialysis did not significantly affect the clearance of d-amphetamine; the mean clearance of d-amphetamine was 0.3 L/hr/kg for both pre- and post- dialysis [see Use in Specific Populations (8.6)].
+
+| Figure 3: Specific PopulationsFigure 3 shows the geometric mean ratios and the 90% confidence limits for Cmax and AUC of d-amphetamine. Comparison for gender uses males as the reference. Comparison for age uses 55-64 years as the reference.: |
+| --- |

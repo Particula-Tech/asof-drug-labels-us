@@ -1,18 +1,26 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Clinically Important Interactions with VYVANSE
+## 7.1 Drugs Having Clinically Important Interactions with Amphetamines
 
-Table 5: Effect of Other Drugs on VYVANSE
+Table 5 Drugs having clinically important interactions with amphetamines.
 
-| Concomitant Drug Name or Drug Class | Clinical Rationale | Clinical Recommendation |
-| --- | --- | --- |
-| Acidifying and Alkalinizing Agents | Ascorbic acid and other agents that acidify urine increase urinary excretion and decrease the half-life of amphetamine. Sodium bicarbonate and other agents that alkalinize urine decrease urinary excretion and extend the half-life of amphetamine. | Adjust the dose accordingly [see Dosage and Administration (2.6)] |
-
-Table 6: Effect of VYVANSE on Other Drugs
-
-| Concomitant Drug Name or Drug Class | Clinical Rationale | Clinical Recommendation |
-| --- | --- | --- |
-| Monoamine Oxidase Inhibitors (MAOIs) | Concomitant use of MAOIs and CNS stimulants can cause hypertensive crisis. Potential outcomes include death, stroke, myocardial infarction, aortic dissection, ophthalmological complications, eclampsia, pulmonary edema, and renal failure. | Do not administer VYVANSE concomitantly or within 14 days after discontinuing MAOI treatment [see Contraindications (4)] |
+| MAO Inhibitors (MAOI) |  |
+| --- | --- |
+| Clinical Impact | MAOI antidepressants slow amphetamine metabolism, increasing amphetamines effect on the release of norepinephrine and other monoamines from adrenergic nerve endings causing headaches and other signs of hypertensive crisis. Toxic neurological effects and malignant hyperpyrexia can occur, sometimes with fatal results. |
+| Intervention | Do not administer VYVANSE during or within 14 days following the administration of MAOI [see Contraindications (4)]. |
+| Examples | selegiline, isocarboxazid, phenelzine, tranylcypromine |
+| Alkalinizing Agents |  |
+| Clinical Impact | Urinary alkalinizing agents can increase blood levels and potentiate the action of amphetamine. |
+| Intervention | Co-administration of VYVANSE and urinary alkalinizing agents should be avoided. |
+| Examples | Urinary alkalinizing agents (e.g. acetazolamide, some thiazides). |
+| Acidifying Agents |  |
+| Clinical Impact | Urinary acidifying agents can lower blood levels and efficacy of amphetamines. |
+| Intervention | Increase dose based on clinical response. |
+| Examples | Urinary acidifying agents (e.g., ammonium chloride, sodium acid phosphate, methenamine salts). |
+| Tricyclic Antidepressants |  |
+| Clinical Impact | May enhance the activity of tricyclic or sympathomimetic agents causing striking and sustained increases in the concentration of d-amphetamine in the brain; cardiovascular effects can be potentiated. |
+| Intervention | Monitor frequently and adjust or use alternative therapy based on clinical response. |
+| Examples | desipramine, protriptyline |
 
 ## 7.2 Drugs Having No Clinically Important Interactions with VYVANSE
 

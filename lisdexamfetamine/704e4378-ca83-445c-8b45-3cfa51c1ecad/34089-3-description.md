@@ -6,7 +6,7 @@ The molecular formula is C15H25N3O∙(CH4O3S)2, which corresponds to a molecular
 The chemical structure is:
 
 Lisdexamfetamine dimesylate is a white to off-white powder that is soluble in water (792 mg/mL).
-VYVANSE capsules contain 10 mg, 20 mg, 30 mg, 40 mg, 50 mg, 60 mg, and 70 mg of lisdexamfetamine dimesylate.
+VYVANSE capsules contain 10 mg, 20 mg, 30 mg, 40 mg, 50 mg, 60 mg, and 70 mg of lisdexamfetamine dimesylate (equivalent to 5.8 mg, 11.6 mg, 17.3 mg, 23.1 mg, 28.9 mg, 34.7 mg, and 40.5 mg of lisdexamfetamine).
 
 Inactive ingredients: microcrystalline cellulose, croscarmellose sodium, and magnesium stearate.
 The capsule shells contain gelatin, titanium dioxide, and one or more of the following: FD&C Red #3, FD&C Yellow #6, FD&C Blue #1, Black Iron Oxide, and Yellow Iron Oxide.

@@ -2,41 +2,58 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
-
 Risk Summary
 
-There are no adequate and well-controlled studies with VYVANSE in pregnant women.
-Adverse pregnancy outcomes, including premature delivery and low birth weight, have been seen in infants born to mothers dependent on amphetamines.
-Long-term neurochemical and behavioral effects have been reported in animal developmental studies using clinically relevant doses of amphetamine (d- or d,l-).
-Animal reproduction studies performed with lisdexamfetamine dimesylate in rats and rabbits showed no effects on embryofetal morphological development and survival.
-VYVANSE should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+The limited available data from published literature and postmarketing reports on use of VYVANSE in pregnant women are not sufficient to inform a drug-associated risk for major birth defects and miscarriage.
+Adverse pregnancy outcomes, including premature delivery and low birth weight, have been seen in infants born to mothers dependent on amphetamines [see Clinical Considerations].
+In animal reproduction studies, lisdexamfetamine dimesylate (a prodrug of d-amphetamine) had no effects on embryo-fetal morphological development or survival when administered orally to pregnant rats and rabbits throughout the period of organogenesis.
+Pre- and postnatal studies were not conducted with lisdexamfetamine dimesylate.
+However, amphetamine (d- to l- ratio of 3:1) administration to pregnant rats during gestation and lactation caused a decrease in pup survival and a decrease in pup body weight that correlated with a delay in developmental landmarks at clinically relevant doses of amphetamine.
+In addition, adverse effects on reproductive performance were observed in pups whose mothers were treated with amphetamine.
+Long-term neurochemical and behavioral effects have also been reported in animal developmental studies using clinically relevant doses of amphetamine [see Data].
+
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
 Clinical Considerations
 
+Fetal/Neonatal Adverse Reactions
+
 Amphetamines, such as VYVANSE, cause vasoconstriction and thereby may decrease placental perfusion.
+In addition, amphetamines can stimulate uterine contractions increasing the risk of premature delivery.
 Infants born to amphetamine-dependent mothers have an increased risk of premature delivery and low birth weight.
 
 Monitor infants born to mothers taking amphetamines for symptoms of withdrawal such as feeding difficulties, irritability, agitation, and excessive drowsiness.
 
-Human Data
-
-Available data in women using amphetamines during pregnancy do not show a clear increased risk of major congenital malformations.
-Two case control studies of over a thousand patients in total exposed to amphetamines at different gestational ages did not show an increase in congenital abnormalities.
+Data
 
 Animal Data
 
-Lisdexamfetamine dimesylate had no apparent effects on embryofetal morphological development or survival when administered orally to pregnant rats and rabbits throughout the period of organogenesis at doses of up to 40 and 120 mg/kg/day, respectively.
-These doses are approximately 4 and 27 times, respectively, the maximum recommended human dose of 70 mg/day given to adolescents, on a mg/m2 body surface area basis.
+Lisdexamfetamine dimesylate had no apparent effects on embryo-fetal morphological development or survival when administered orally to pregnant rats and rabbits throughout the period of organogenesis at doses of up to 40 and 120 mg/kg/day, respectively.
+These doses are approximately 4 and 27 times, respectively, the maximum recommended human dose (MRHD) of 70 mg/day given to adolescents, on a mg/m2 body surface area basis.
 
-A number of studies in rodents indicate that prenatal or early postnatal exposure to amphetamine (d- or d,l-) at doses similar to those used clinically can result in long-term neurochemical and behavioral alterations.
+A study was conducted with amphetamine (d- to l- enantiomer ratio of 3:1) in which pregnant rats received daily oral doses of 2, 6, and 10 mg/kg from gestation day 6 to lactation day 20.
+These doses are approximately 0.8, 2, and 4 times the MRHD of amphetamine (d- to l- ratio of 3:1) for adolescents of 20 mg/day, on a mg/m2 basis.
+All doses caused hyperactivity and decreased weight gain in the dams.
+A decrease in pup survival was seen at all doses.
+A decrease in pup body weight was seen at 6 and 10 mg/kg which correlated with delays in developmental landmarks, such as preputial separation and vaginal opening.
+Increased pup locomotor activity was seen at 10 mg/kg on day 22 postpartum but not at 5 weeks postweaning.
+When pups were tested for reproductive performance at maturation, gestational weight gain, number of implantations, and number of delivered pups were decreased in the group whose mothers had been given 10 mg/kg.
+
+A number of studies from the literature in rodents indicate that prenatal or early postnatal exposure to amphetamine (d- or d,l-) at doses similar to those used clinically can result in long-term neurochemical and behavioral alterations.
 Reported behavioral effects include learning and memory deficits, altered locomotor activity, and changes in sexual function.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-Amphetamines are excreted into human milk.
+Risk Summary
+
+Lisdexamfetamine is a pro-drug of dextroamphetamine.
+Based on limited case reports in published literature, amphetamine (d-or d, l-) is present in human milk, at relative infant doses of 2% to 13.8% of the maternal weight-adjusted dosage and a milk/plasma ratio ranging between 1.9 and 7.5.
+There are no reports of adverse effects on the breastfed infant.
 Long-term neurodevelopmental effects on infants from amphetamine exposure are unknown.
-Because of the potential for serious adverse reactions in nursing infants, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+It is possible that large dosages of dextroamphetamine might interfere with milk production, especially in women whose lactation is not well established.
+Because of the potential for serious adverse reactions in nursing infants, including serious cardiovascular reactions, blood pressure and heart rate increase, suppression of growth, and peripheral vasculopathy, advise patients that breastfeeding is not recommended during treatment with VYVANSE.
 
 ## 8.4 Pediatric Use
 
