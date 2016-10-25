@@ -4,7 +4,7 @@ Parenteral drug products should be inspected visually for particulate matter and
 Slight discoloration does not alter potency.
 
 Confirm the choice of the correct Heparin Sodium Injection vial or cartridge prior to administration of the drug to a patient (see WARNINGS, Fatal Medication Errors).
-Heparin Sodium Injection, USP products must not be confused with “catheter lock flush” products.
+Heparin Sodium Injection, USP products must not be confused with "catheter lock flush" products.
 To lessen this risk for a cartridge, a red cautionary statement has been added to the cartridge and box/bin.
 Read the cautionary statement and confirm that you have selected the correct medication and strength.
 
@@ -13,7 +13,7 @@ When heparin is added to an infusion solution for continuous intravenous adminis
 Heparin sodium is not effective by oral administration and should be given by intermittent intravenous injection, intravenous infusion, or deep subcutaneous (intrafat, i.e., above the iliac crest or abdominal fat layer) injection.
 The intramuscular route of administration should be avoided because of the frequent occurrence of hematoma at the injection site.
 
-The dosage of heparin sodium should be adjusted according to the patient’s coagulation-test results.
+The dosage of heparin sodium should be adjusted according to the patient's coagulation-test results.
 When heparin is given by continuous intravenous infusion, the coagulation time should be determined approximately every 4 hours in the early stages of treatment.
 When the drug is administered intermittently by intravenous injection, coagulation tests should be performed before each injection during the early stages of treatment and at appropriate intervals thereafter.
 Dosage is considered adequate when the activated partial thromboplastin time (APTT) is 1.5 to 2 times normal or when the whole blood clotting time is elevated approximately 2.5 to 3 times the control value.
@@ -23,7 +23,7 @@ Periodic platelet counts, hematocrits, and tests for occult blood in stool are r
 
 Converting to Oral Anticoagulant When an oral anticoagulant of the coumarin or similar type is to be begun in patients already receiving heparin sodium, baseline and subsequent tests of prothrombin activity must be determined at a time when heparin activity is too low to affect the prothrombin time.
 This is about 5 hours after the last intravenous bolus and 24 hours after the last subcutaneous dose.
-If continuous IV heparin infusion is used, prothrombin time can usually be measured at any time.
+If continuous intravenous heparin infusion is used, prothrombin time can usually be measured at any time.
 
 In converting from heparin to an oral anticoagulant, the dose of the oral anticoagulant should be the usual initial amount and thereafter prothrombin time should be determined at the usual intervals.
 To ensure continuous anticoagulation, it is advisable to continue full heparin therapy for several days after the prothrombin time has reached the therapeutic range.
@@ -33,12 +33,12 @@ Therapeutic Anticoagulant Effect With Full-Dose Heparin Although dosage must be 
 
 | METHOD OF ADMINISTRATION | FREQUENCY | RECOMMENDED DOSE [based on 150 lb (68 kg) patient] |
 | --- | --- | --- |
-| Deep, Subcutaneous (Intrafat) Injection A different site should be used for each injection to prevent the development of massive hematoma. | Initial dose | 5,000 units by IV injection, followed by 10,000 to 20,000 units of a concentrated solution, subcutaneously |
+| Deep, Subcutaneous (Intrafat) Injection A different site should be used for each injection to prevent the development of massive hematoma. | Initial dose | 5,000 units by intravenous injection, followed by 10,000 to 20,000 units of a concentrated solution, subcutaneously |
 | Every 8 hours or Every 12 hours | 8,000 to 10,000 units of a concentrated solution |  |
 | 15,000 to 20,000 units of a concentrated solution |  |  |
 | Intermittent Intravenous Injection | Initial dose | 10,000 units, either undiluted or in 50 or 100 mL of 0.9% Sodium Chloride Injection, USP |
 | Every 4 to 6 hours | 5,000 to 10,000 units, either undiluted or in 50 to 100 mL of 0.9% Sodium Chloride Injection, USP |  |
-| Intravenous Infusion | Initial dose | 5,000 units by IV injection |
+| Intravenous Infusion | Initial dose | 5,000 units by intravenous injection |
 | Continuous | 20,000 to 40,000 units/24 hours in 1,000 mL of 0.9% Sodium Chloride Injection, USP (or in any compatible solution) for infusion |  |
 
 Pediatric Use Use preservative-free Heparin Sodium Injection, USP in neonates and infants (see WARNINGS, Benzyl Alcohol Toxicity and PRECAUTIONS, Pediatric Use).
@@ -47,7 +47,7 @@ There are no adequate and well controlled studies on heparin use in pediatric pa
 Pediatric dosing recommendations are based on clinical experience.
 In general, the following dosage schedule may be used as a guideline in pediatric patients:
 
-| Initial Dose | 75 to 100 units/kg (IV bolus over 10 minutes) |
+| Initial Dose | 75 to 100 units/kg (Intravenous bolus over 10 minutes) |
 | --- | --- |
 | Maintenance Dose | Infants: 25 to 30 units/kg/hour; Infants <2 months have the highest requirements (average 28 units/kg/hour) Children >1 year of age: 18 to 20 units/kg/hour; Older children may require less heparin, similar to weight-adjusted adult dosage |
 | Monitoring | Adjust heparin to maintain aPTT of 60 to 85 seconds, assuming this reflects an anti-Factor Xa level of 0.35 to 0.70 |
@@ -71,7 +71,7 @@ All patients should be screened prior to heparinization to rule out bleeding dis
 Coagulation test values should be normal or only slightly elevated.
 There is usually no need for daily monitoring of the effect of low-dose heparin in patients with normal coagulation parameters.
 
-Extracorporeal Dialysis Follow equipment manufacturers’ operating directions carefully.
+Extracorporeal Dialysis Follow equipment manufacturers' operating directions carefully.
 
 Blood Transfusion Addition of 400 to 600 USP units per 100 mL of whole blood is usually employed to prevent coagulation.
 Usually, 7,500 USP units of heparin sodium are added to 100 mL of 0.9% Sodium Chloride Injection, USP (or 75,000 USP units per 1,000 mL of 0.9% Sodium Chloride Injection, USP) and mixed; from this sterile solution, 6 mL to 8 mL are added per 100 mL of whole blood.

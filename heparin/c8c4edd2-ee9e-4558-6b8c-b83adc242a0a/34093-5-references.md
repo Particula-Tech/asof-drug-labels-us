@@ -8,7 +8,7 @@
 3. 3.Rice L, Attisha W, Drexler A, Francis J. Delayed-Onset Heparin Induced Thrombocytopenia.
    Annals of Internal Medicine, 2002;136:210-215.
 4. 4.Dieck, J., C. Rizo-Patron, et al. (1990).
-   “A New Manifestation and Treatment Alternative for Heparin-Induced Thrombosis.”
+   "A New Manifestation and Treatment Alternative for Heparin-Induced Thrombosis."
    Chest.
    1990; 98:1524-26.
 5. 5.Smythe M, Stephens J, Mattson.
@@ -18,6 +18,6 @@
    Blood.
    2003;102(11):127b.
 
-Revised: 08/2013
+09/2016
 
-EN-3337 Hospira, Inc., Lake Forest, IL 60045 USA
+LAB-0844-1.0 Hospira, Inc., Lake Forest, IL 60045 USA
