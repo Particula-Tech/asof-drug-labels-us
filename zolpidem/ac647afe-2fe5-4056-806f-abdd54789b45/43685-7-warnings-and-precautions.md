@@ -7,11 +7,15 @@ Prescribers should monitor for excess depressant effects, but impairment can occ
 While pharmacodynamic tolerance or adaptation to some adverse depressant effects of zolpidem tartrate extended-release tablets may develop, patients using zolpidem tartrate extended-release tablets should be cautioned against driving or engaging in other hazardous activities or activities requiring complete mental alertness the day after use.
 
 Additive effects occur with concomitant use of other CNS depressants (e.g. benzodiazepines, opioids, tricyclic antidepressants, alcohol), including daytime use.
-Downward dose adjustment of zolpidem tartrate extended-release tablets and concomitant CNS depressants should be considered [See DOSAGE AND ADMINISTRATION (2.3)].
+Downward dose adjustment of zolpidem tartrate extended-release tablets and concomitant CNS depressants should be considered [see DOSAGE AND ADMINISTRATION (2.3)].
 
 The use of zolpidem tartrate extended-release tablet with other sedative-hypnotics (including other zolpidem products) at bedtime or the middle of the night is not recommended.
 
-The risk of next-day psychomotor impairment is increased if zolpidem tartrate extended-release tablet is taken with less than a full night of sleep remaining (7 to 8 hours); if higher than the recommended dose is taken; if co-administered with other CNS depressants; or co-administered with other drugs that increase the blood levels of zolpidem [See DOSAGE AND ADMINISTRATION (2) and CLINICAL STUDIES (14.2)].
+The risk of next-day psychomotor impairment is increased if zolpidem tartrate extended-release tablet is taken with less than a full night of sleep remaining (7 to 8 hours); if higher than the recommended dose is taken; if co-administered with other CNS depressants or alcohol; or co-administered with other drugs that increase the blood levels of zolpidem.
+Patients should be warned against driving and other activities requiring complete mental alertness if zolpidem tartrate extended-release tablets are taken in these circumstances [see DOSAGE AND ADMINISTRATION (2) and CLINICAL STUDIES (14.2)].
+
+Vehicle drivers and machine operators should be warned that, as with other hypnotics, there may be a possible risk of adverse reactions including drowsiness, prolonged reaction time, dizziness, sleepiness, blurred/double vision, reduced alertness and impaired driving the morning after therapy.
+In order to minimize this risk a full night of sleep (7 to 8 hours) is recommended.
 
 ## 5.2 Need to Evaluate for Co-morbid Diagnoses
 
@@ -35,7 +39,7 @@ Some of these changes included decreased inhibition (e.g. aggressiveness and ext
 Visual and auditory hallucinations have been reported.
 
 In controlled trials, <1% of adults with insomnia reported hallucinations.
-In a clinical trial, 7% of pediatric patients treated with AMBIEN 0.25 mg/kg taken at bedtime reported hallucinations versus 0% treated with placebo [See USE IN SPECIFIC POPULATIONS (8.4)].
+In a clinical trial, 7% of pediatric patients treated with AMBIEN 0.25 mg/kg taken at bedtime reported hallucinations versus 0% treated with placebo [see USE IN SPECIFIC POPULATIONS (8.4)].
 
 Complex behaviors such as "sleep-driving" (i.e., driving while not fully awake after ingestion of a sedative-hypnotic, with amnesia for the event) have been reported in sedative-hypnotic-naive as well as in sedative-hypnotic-experienced persons.
 Although behaviors such as "sleep-driving" have occurred with zolpidem tartrate extended-release tablets alone at therapeutic doses, the co-administration of alcohol and other CNS depressants increases the risk of such behaviors, as does the use of zolpidem tartrate extended-release tablets at doses exceeding the maximum recommended dose.

@@ -4,7 +4,7 @@
 
 Zolpidem, the active moiety of zolpidem tartrate, is a hypnotic agent with a chemical structure unrelated to benzodiazepines, barbiturates, or other drugs with known hypnotic properties.
 It interacts with a GABA-BZ receptor complex and shares some of the pharmacological properties of the benzodiazepines.
-In contrast to the benzodiazepines, which non-selectively bind to and activate all BZ receptor subtypes, zolpidem in vitro binds the BZ1 receptor preferentially with a high affinity ratio of the α1/α5 subunits.
+In contrast to the benzodiazepines, which non-selectively bind to and activate all BZ receptor subtypes, zolpidem in vitro binds the BZ1 receptor preferentially with a high affinity ratio of the α1/ α5 subunits.
 This selective binding of zolpidem on the BZ1 receptor is not absolute, but it may explain the relative absence of myorelaxant and anticonvulsant effects in animal studies as well as the preservation of deep sleep (stages 3 and 4) in human studies of zolpidem tartrate at hypnotic doses.
 
 ## 12.3 Pharmacokinetics
@@ -21,7 +21,7 @@ In adult and elderly patients treated with zolpidem tartrate extended-release ta
 Absorption
 
 Following administration of zolpidem tartrate extended-release tablets, administered as a single 12.5 mg dose in healthy male adult subjects, the mean peak concentration (Cmax) of zolpidem was 134 ng/mL (range: 68.9 to 197 ng/ml) occurring at a median time (Tmax) of 1.5 hours.
-The mean AUC of zolpidem was 740 ng.hr/mL (range: 295 to 1359 ng.hr/mL).
+The mean AUC of zolpidem was 740 ng·hr/mL (range: 295 to 1359 ng·hr/mL).
 
 A food-effect study in 45 healthy subjects compared the pharmacokinetics of zolpidem tartrate extended-release tablets 12.5 mg when administered while fasting or within 30 minutes after a meal.
 Results demonstrated that with food, mean AUC and Cmax were decreased by 23% and 30%, respectively, while median Tmax was increased from 2 hours to 4 hours.
@@ -45,15 +45,15 @@ Special Populations
 Elderly
 
 In 24 elderly (≥ 65 years) healthy subjects administered a single 6.25 mg dose of zolpidem tartrate extended-release tablets, the mean peak concentration (Cmax) of zolpidem was 70.6 (range: 35.0 to 161) ng/mL occurring at a median time (Tmax) of 2.0 hours.
-The mean AUC of zolpidem was 413 ng.hr/mL (range: 124 to 1190 ng.hr/mL) and the mean elimination half-life was 2.9 hours (range: 1.59 to 5.50 hours).
+The mean AUC of zolpidem was 413 ng·hr/mL (range: 124 to 1190 ng·hr/mL) and the mean elimination half-life was 2.9 hours (range: 1.59 to 5.50 hours).
 
 Hepatic Impairment
 
 Zolpidem tartrate extended-release tablets were not studied in patients with hepatic impairment.
 The pharmacokinetics of an immediate-release formulation of zolpidem tartrate in eight patients with chronic hepatic insufficiency were compared to results in healthy subjects.
-Following a single 20-mg oral zolpidem tartrate dose, mean Cmax and AUC were found to be two times (250 vs. 499 ng/mL) and five times (788 vs. 4,203 ng.hr/mL) higher, respectively, in hepatically compromised patients.
+Following a single 20-mg oral zolpidem tartrate dose, mean Cmax and AUC were found to be two times (250 vs. 499 ng/mL) and five times (788 vs. 4,203 ng·hr/mL) higher, respectively, in hepatically compromised patients.
 Tmax did not change.
-The mean half-life in cirrhotic patients of 9.9 hr (range: 4.1 to 25.8 hr) was greater than that observed in normal subjects of 2.2 hr (range: 1.6 to 2.4 hr). Dosing should be modified accordingly in patients with hepatic insufficiency [See DOSAGE AND ADMINISTRATION (2.2)].
+The mean half-life in cirrhotic patients of 9.9 hr (range: 4.1 to 25.8 hr) was greater than that observed in normal subjects of 2.2 hr (range: 1.6 to 2.4 hr). Dosing should be modified accordingly in patients with hepatic insufficiency [see DOSAGE AND ADMINISTRATION (2.2)].
 
 Renal Impairment
 
@@ -69,7 +69,7 @@ Drug Interactions
 
 CNS-depressants
 
-Co-administration of zolpidem with other CNS depressants increases the risk of CNS depression [See WARNINGS AND PRECAUTIONS (5.1)].
+Co-administration of zolpidem with other CNS depressants increases the risk of CNS depression [see WARNINGS AND PRECAUTIONS (5.1)].
 Zolpidem tartrate was evaluated in healthy volunteers in single-dose interaction studies for several CNS drugs.
 Imipramine in combination with zolpidem produced no pharmacokinetic interaction other than a 20% decrease in peak levels of imipramine, but there was an additive effect of decreased alertness.
 Similarly, chlorpromazine in combination with zolpidem produced no pharmacokinetic interaction, but there was an additive effect of decreased alertness and psychomotor performance.
@@ -77,7 +77,7 @@ Similarly, chlorpromazine in combination with zolpidem produced no pharmacokinet
 A study involving haloperidol and zolpidem revealed no effect of haloperidol on the pharmacokinetics or pharmacodynamics of zolpidem.
 The lack of a drug interaction following single-dose administration does not predict the absence of an effect following chronic administration.
 
-An additive adverse effect on psychomotor performance between alcohol and oral zolpidem was demonstrated [See WARNINGS AND PRECAUTIONS (5.1)].
+An additive adverse effect on psychomotor performance between alcohol and oral zolpidem was demonstrated [see WARNINGS AND PRECAUTIONS (5.1)].
 
 Following five consecutive nightly doses at bedtime of oral zolpidem tartrate 10 mg in the presence of sertraline 50 mg (17 consecutive daily doses, at 7:00 am, in healthy female volunteers), zolpidem Cmax was significantly higher (43%) and Tmax was significantly decreased (-53%).
 Pharmacokinetics of sertraline and N-desmethylsertraline were unaffected by zolpidem.
@@ -95,10 +95,11 @@ A single-dose interaction study with zolpidem tartrate 10 mg and itraconazole 20
 There were no pharmacodynamic effects of zolpidem detected on subjective drowsiness, postural sway, or psychomotor performance.
 
 A single-dose interaction study with zolpidem tartrate 10 mg and rifampin 600 mg at steady-state levels in female subjects showed significant reductions of the AUC (-73%), Cmax (-58%), and T1/2 (-36 %) of zolpidem together with significant reductions in the pharmacodynamic effects of zolpidem tartrate.
-Rifampin, a CYP3A4 inducer, significantly reduced the exposure to and the pharmacodynamic effects of zolpidem.
+Rifampin, a CYP3A4 inducer, significantly reduced the exposure to and the pharmacodynamic effects of zolpidem [see DRUG INTERACTIONS (7.2)].
 
-A single-dose interaction study with zolpidem tartrate 5 mg and ketoconazole, a potent CYP3A4 inhibitor, given as 200 mg twice daily for 2 days increased Cmax of zolpidem (30%) and the total AUC of zolpidem (70%) compared to zolpidem alone and prolonged the elimination half-life (30 %) along with an increase in the pharmacodynamic effects of zolpidem.
-Consideration should be given to using a lower dose of zolpidem when ketoconazole and zolpidem are given together.
+A single-dose interaction study with zolpidem tartrate 5 mg and ketoconazole, a potent CYP3A4 inhibitor, given as 200 mg twice daily for 2 days increased Cmax of zolpidem (30%) and the total AUC of zolpidem (70%) compared to zolpidem alone and prolonged the elimination half-life (30 %) along with an increase in the pharmacodynamic effects of zolpidem [see DRUG INTERACTIONS (7.2)].
+
+Additionally, fluvoxamine (a strong inhibitor of CYP1A2 and a weak inhibitor of CYP3A4 and CYP2C9) and ciprofloxacin (a strong inhibitor of CYP1A2 and a moderate inhibitor of CYP3A4) are also likely to inhibit zolpidem's metabolic pathways, potentially leading to an increase in zolpidem exposure.
 
 Other Drugs with No Interactions with Zolpidem
 

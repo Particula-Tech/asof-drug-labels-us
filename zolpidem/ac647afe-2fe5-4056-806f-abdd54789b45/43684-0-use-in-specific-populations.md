@@ -19,7 +19,7 @@ Administration of zolpidem to rats at oral doses of 4, 20, and 100 mg base/kg/da
 
 ## 8.2 Labor and Delivery
 
-Zolpidem tartrate extended-release tablets have no established use in labor and delivery [See PREGNANCY (8.1)].
+Zolpidem tartrate extended-release tablets have no established use in labor and delivery [see Pregnancy (8.1)].
 
 ## 8.3 Nursing Mothers
 
@@ -32,7 +32,7 @@ Zolpidem tartrate extended-release tablets are not recommended for use in childr
 Safety and effectiveness of zolpidem in pediatric patients below the age of 18 years have not been established.
 
 In an 8-week study in pediatric patients (aged 6 to 17 years) with insomnia associated with attention-deficit/hyperactivity disorder (ADHD) an oral solution of zolpidem tartrate dosed at 0.25 mg/kg at bedtime did not decrease sleep latency compared to placebo.
-Psychiatric and nervous system disorders comprised the most frequent (> 5%) treatment emergent adverse reactions observed with zolpidem versus placebo and included dizziness (23.5% vs. 1.5%), headache (12.5% vs. 9.2%), and hallucinations were reported in 7% of the pediatric patients who received zolpidem; none of the pediatric patients who received placebo reported hallucinations [See WARNINGS AND PRECAUTIONS (5.4)].
+Psychiatric and nervous system disorders comprised the most frequent (> 5%) treatment emergent adverse reactions observed with zolpidem versus placebo and included dizziness (23.5% vs. 1.5%), headache (12.5% vs. 9.2%), and hallucinations were reported in 7% of the pediatric patients who received zolpidem; none of the pediatric patients who received placebo reported hallucinations [see WARNINGS AND PRECAUTIONS (5.4)].
 Ten patients on zolpidem (7.4%) discontinued treatment due to an adverse reaction.
 
 FDA has not required pediatric studies of zolpidem tartrate extended-release tablets in the pediatric population based on these efficacy and safety findings.
@@ -43,9 +43,9 @@ A total of 99 elderly (≥ 65 years of age) received daily doses of 6.25 mg zolp
 The adverse reaction profile of zolpidem tartrate extended-release tablets 6.25 mg in this population was similar to that of zolpidem tartrate extended-release tablets 12.5 mg in younger adults (≤64 years of age).
 Dizziness was reported in 8% of zolpidem tartrate extended-release tablets-treated patients compared with 3% of those treated with placebo.
 
-The dose of zolpidem tartrate extended-release tablets in elderly patients is 6.25 mg to minimize adverse effects related to impaired motor and/or cognitive performance and unusual sensitivity to sedative/hypnotic drugs [See WARNINGS AND PRECAUTIONS (5.1)].
+The dose of zolpidem tartrate extended-release tablets in elderly patients is 6.25 mg to minimize adverse effects related to impaired motor and/or cognitive performance and unusual sensitivity to sedative/hypnotic drugs [see WARNINGS AND PRECAUTIONS (5.1)].
 
-## 8.6 Gender Difference in Pharmacokinetics
+## 8.6 Gender Differences in Pharmacokinetics
 
 Women clear zolpidem tartrate from the body at a lower rate than men.
 Cmax and AUC parameters of zolpidem from zolpidem tartrate extended-release tablets were, respectively, approximately 50% and 75% higher at the same dose in adult female subjects compared to adult male subjects.
