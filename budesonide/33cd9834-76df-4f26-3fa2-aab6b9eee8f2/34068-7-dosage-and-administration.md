@@ -26,7 +26,7 @@ PULMICORT RESPULES should be administered via jet nebulizer connected to an air 
 Ultrasonic nebulizers are not suitable for the adequate administration of PULMICORT RESPULES and, therefore, are NOT recommended.
 
 The effects of mixing PULMICORT RESPULES with other nebulizable medications have not been adequately assessed.
-PULMICORT RESPULES should be administered separately in the nebulizer [see Patient Counseling Information, Administration with a jet nebulizer (17.1)].
+PULMICORT RESPULES should be administered separately in the nebulizer [see Patient Counseling Information (17.1)].
 
 A Pari-LC-Jet Plus Nebulizer (with face mask or mouthpiece) connected to a Pari Master compressor was used to deliver PULMICORT RESPULES to each patient in 3 U.S. controlled clinical studies.
 The safety and efficacy of PULMICORT RESPULES delivered by other nebulizers and compressors have not been established.

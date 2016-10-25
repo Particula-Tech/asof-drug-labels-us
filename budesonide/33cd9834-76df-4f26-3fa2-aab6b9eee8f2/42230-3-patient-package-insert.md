@@ -1,8 +1,4 @@
-# 17.11 FDA-Approved Patient Labeling
-
-See accompanying Patient Information and Instructions for Use.
-
-Patient Information and Instructions for Use
+# Patient Information and Instructions for Use
 
 PULMICORT RESPULES (bew DEH so nide)
 
@@ -10,7 +6,7 @@ PULMICORT RESPULES (bew DEH so nide)
 
 2 mL ampules containing 0.25 mg, 0.5 mg, or 1 mg
 
-| For inhalation only.Do not swallow.Only use PULMICORT RESPULES with a jet nebulizer machine that is connected to an air compressor. Do not use with an ultrasonic nebulizer |
+| For inhalation only.Do not swallow.Only use PULMICORT RESPULES with a jet nebulizer machine that is connected to an air compressor. Do not use with an ultrasonic nebulizer. |
 | --- |
 
 Read the Patient Information that comes with PULMICORT RESPULES before your child starts using it and each time you get a refill.
@@ -46,7 +42,7 @@ What should I tell my healthcare provider before using PULMICORT RESPULES?
 Before your child uses PULMICORT RESPULES, tell your healthcare provider if your child:
 
 - •has an allergy.
-  See the section “Who should not use PULMICORT RESPULES?
+  See the section “Who should not use PULMICORT RESPULES?”
   There is a complete list of ingredients in PULMICORT RESPULES at the end of this leaflet.
 - •has or recently had chicken pox or measles, or has recently been near anyone with chicken pox or measles.
 - •has or had tuberculosis of the respiratory tract.
@@ -66,7 +62,7 @@ PULMICORT RESPULES may not be right for children who have had any of these types
   - odoes not eat well (poor nutrition)
   - otakes bone thinning medicines (such as anticonvulsant medicines or corticosteroids) for a long time.
 - •has an eye problem such as increased pressure in the eye, glaucoma or cataracts.
-- •has liver problems
+- •has liver problems.
 - •is planning to have surgery.
 - •has any other medical conditions.
 - •is pregnant or plans to become pregnant.
@@ -83,7 +79,7 @@ Especially tell your healthcare provider if your child takes:
 - •corticosteroids
 - •anti-seizure medicine (anticonvulsants)
 - •medicines that suppress the immune system (immunosuppressant)
-- •ketoconazale (Nizoral)
+- •ketoconazole (Nizoral)
 - •certain medicines that can affect how your liver breaks down medicine
 
 Ask your healthcare provider or pharmacist for a list of these medicines, if you are not sure.
@@ -102,7 +98,7 @@ How should I use PULMICORT RESPULES?
   Use PULMICORT RESPULES with a jet nebulizer connected to an air compressor set up with a mouthpiece or face mask.
   Do not use an ultrasonic nebulizer to give PULMICORT RESPULES.
 - •Do not mix PULMICORT RESPULES with other nebulizer medicines.
-  If you child uses another medicine by inhalation to treat asthma, talk with your healthcare provider for instructions on when to use the other medicine.
+  If your child uses another medicine by inhalation to treat asthma, talk with your healthcare provider for instructions on when to use the other medicine.
 - •If your child misses a dose, just give the next regularly scheduled dose when it is due.
   Do not use PULMICORT RESPULES more often than has been prescribed.
 - •Improvement in the control of asthma symptoms with PULMICORT RESPULES can occur within 2-8 days.
@@ -216,11 +212,10 @@ The face mask should be properly adjusted to optimize delivery and to avoid expo
 Corticosteroid effects on the skin can be avoided if the face is washed after the use of a face mask.
 
 1. 1.PULMICORT RESPULES come in a sealed protective aluminium foil envelope.
-
-- •Do not open the sealed pouch until you are ready to use a dose of PULMICORT RESPULES.
-- •Open the sealed foil envelope along the dotted line and take out 1 single-dose ampule from the strip.
-  See Figure 1.
-- •Record the date that you opened the foil on the back of the envelope in the space provided.
+2. •Do not open the sealed pouch until you are ready to use a dose of PULMICORT RESPULES.
+3. •Open the sealed foil envelope along the dotted line and take out 1 single-dose ampule from the strip.
+   See Figure 1.
+4. •Record the date that you opened the foil on the back of the envelope in the space provided.
 
 Return the unopened PULMICORT RESPULES® ampules on the strip back into the foil envelope before storing.
 
@@ -241,13 +236,13 @@ Figure 4
 
 1. 5.Use your jet nebulizer as directed.
 
-Revised: 07/10
+Revised: 10/16
 
-©AstraZeneca 2007, 2010
+©AstraZeneca 2007, 2010, 2016
 
-Manufactured for: AstraZeneca LP, Wilmington, DE 19850
+Manufactured for: AstraZeneca Pharmaceuticals LP, Wilmington, DE 19850
 
-By: AstraZeneca AB, Sodertalje, Sweden
+By: AstraZeneca AB, Södertälje, Sweden
 
 Product of Sweden
 

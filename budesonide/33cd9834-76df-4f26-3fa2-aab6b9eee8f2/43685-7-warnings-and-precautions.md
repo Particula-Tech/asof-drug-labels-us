@@ -27,8 +27,7 @@ In children or adults who have not had these diseases, or been properly immunize
 How the dose, route, and duration of corticosteroid administration affect the risk of developing a disseminated infection is not known.
 The contribution of the underlying disease and/or prior corticosteroid treatment to the risk is also not known.
 If exposed to chicken pox, therapy with varicella zoster immune globulin (VZIG) or pooled intravenous immunoglobulin (IVIG), as appropriate, may be indicated.
-If exposed to measles, prophylaxis with pooled intramuscular immunoglobulin (IG) may be indicated.
-(See the respective package inserts for complete VZIG and IG prescribing information.)
+If exposed to measles, prophylaxis with pooled intramuscular immunoglobulin (IG) may be indicated (see the respective package inserts for complete VZIG and IG prescribing information).
 If chicken pox develops, treatment with antiviral agents may be considered.
 
 The clinical course of chicken pox or measles infection in patients on inhaled corticosteroids has not been studied.
@@ -85,7 +84,7 @@ Patients with major risk factors for decreased bone mineral content, such as pro
 
 Orally inhaled corticosteroids, including budesonide, may cause a reduction in growth velocity when administered to pediatric patients.
 Monitor the growth of pediatric patients receiving PULMICORT RESPULES routinely (e.g., via stadiometry).
-To minimize the systemic effects of orally inhaled corticosteroids, including PULMICORT RESPULES, each patient should be titrated to his/her lowest effective dose [see Use In Specific Populations, Pediatric Use (8.4)].
+To minimize the systemic effects of orally inhaled corticosteroids, including PULMICORT RESPULES, each patient should be titrated to his/her lowest effective dose [see Use in Specific Populations (8.4)].
 
 ## 5.9 Glaucoma and Cataracts
 
@@ -101,11 +100,11 @@ Treatment with PULMICORT RESPULES should be discontinued and alternate therapy i
 ## 5.11 Eosinophilic Conditions and Churg-Strauss Syndrome
 
 In rare cases, patients on inhaled corticosteroids may present with systemic eosinophilic conditions.
-Some of these patients have clinical features of vasculitis consistent with Churg- Strauss syndrome, a condition that is often treated with systemic corticosteroids therapy.
+Some of these patients have clinical features of vasculitis consistent with Churg-Strauss syndrome, a condition that is often treated with systemic corticosteroids therapy.
 These events usually, but not always, have been associated with the reduction and/or withdrawal of oral corticosteroid therapy following the introduction of inhaled corticosteroids.
 Healthcare providers should be alert to eosinophilia, vasculitis rash, worsening pulmonary symptoms, cardiac complications, and/or neuropathy presenting in their patients.
 A causal relationship between budesonide and these underlying conditions has not been established.
 
 ## 5.12 Drug Interactions with Strong Cytochrome P450 3A4 Inhibitors
 
-Caution should be exercised when considering the coadministration of PULMICORT RESPULES with ketoconazole, and other known strong CYP3A4 inhibitors (e.g., ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, telithromycin) because adverse effects related to increased systemic exposure to budesonide may occur [see Drug Interactions (7.1)and Clinical Pharmacology, Clinical Pharmacokinetics (12.3)].
+Caution should be exercised when considering the coadministration of PULMICORT RESPULES with ketoconazole, and other known strong CYP3A4 inhibitors (e.g., ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, telithromycin) because adverse effects related to increased systemic exposure to budesonide may occur [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].

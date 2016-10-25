@@ -29,25 +29,24 @@ Nighttime asthma symptom scores showed statistically significant decreases in th
 Similar decreases were also observed for daytime asthma symptom scores.
 
 Changes from baseline to the double-blind phase for the budesonide treatment groups compared to placebo were made using analysis of variance techniques.
-The model included terms for the respective changes from baseline as the dependent variable and terms for treatment, center and treatment by center interaction as exploratory variables.
-(See Figures 1-3).
+The model included terms for the respective changes from baseline as the dependent variable and terms for treatment, center and treatment by center interaction as exploratory variables (see Figures 1-3).
 
-Figure 1: A 12-Week Trial in Pediatric Patients Not on Inhaled Corticosteroid Therapy Prior to Study Entry.
-Nighttime Asthma Change from Baseline
+1. Figure 1: A 12-Week Trial in Pediatric Patients Not on Inhaled Corticosteroid Therapy Prior to Study Entry.
+   Nighttime Asthma Change from Baseline
 
-p-value – 0.25 mg: 0.001, 0.5mg: 0.010, 1.0 mg: 0.009
+p-value – 0.25 mg: 0.001, 0.5 mg: 0.010, 1.0 mg: 0.009
 
 Patients Previously Maintained on Inhaled Corticosteroids
 
 The efficacy of PULMICORT RESPULES at doses of 0.25 mg and 0.5 mg twice daily was evaluated in 133 pediatric asthma patients, 4 to 8 years of age, previously maintained on inhaled corticosteroids (mean FEV1 79.5% predicted; mean baseline nighttime asthma symptom scores of the treatment groups ranged from 1.04 to 1.18; mean baseline dose of beclomethasone dipropionate of 265 mcg/day, ranging between 42 to 1008 mcg/day; mean baseline dose of triamcinolone acetonide of 572 mcg/day, ranging between 200 to 1200 mcg/day).
 The changes from baseline to Weeks 0-12 in nighttime asthma symptom scores are shown in Figure 2.
-Nighttime asthma symptom scores showed statistically significantly decrease in patients treated with PULMICORT RESPULES compared to placebo.
+Nighttime asthma symptom scores showed statistically significant decrease in patients treated with PULMICORT RESPULES compared to placebo.
 Similar decreases were also observed for daytime asthma symptom scores.
 
 Statistically significant increases in FEV1 compared to placebo were observed with PULMICORT RESPULES at a dose of 0.5 mg twice daily and in morning PEF for both doses (0.25 mg and 0.5 mg twice daily).
 
-Figure 2: A 12-Week Trial in Pediatric Patients Previously Maintained on Inhaled Corticosteroid Therapy Prior to Study Entry.
-Nighttime Asthma Change from Baseline
+1. Figure 2: A 12-Week Trial in Pediatric Patients Previously Maintained on Inhaled Corticosteroid Therapy Prior to Study Entry.
+   Nighttime Asthma Change from Baseline
 
 p-values: 0.25 mg: 0.022, 0.5 mg: 0.021
 
@@ -62,9 +61,9 @@ Similar decreases were also observed for daytime asthma symptom scores.
 PULMICORT RESPULES at a dose of 0.5 mg twice daily resulted in statistically significant increases compared to placebo in FEV1, and at doses of 0.25 mg and 0.5 mg twice daily and 1 mg once daily statistically significant increases in morning PEF.
 
 The evidence supports the efficacy of the same nominal dose of PULMICORT RESPULES administered on either a once-daily or twice-daily schedule.
-However, when all measures are considered together, the evidence is stronger for twice-daily dosing [see DOSAGE AND ADMINISTRATION (2)].
+However, when all measures are considered together, the evidence is stronger for twice-daily dosing [see Dosage and Administration (2)].
 
-Figure 3: A 12-Week Trial in Pediatric Patients Either Maintained on Bronchodilators Alone or Inhaled Corticosteroid Therapy Prior to Study Entry.
-Nighttime Asthma Change from Baseline
+1. Figure 3: A 12-Week Trial in Pediatric Patients Either Maintained on Bronchodilators Alone or Inhaled Corticosteroid Therapy Prior to Study Entry.
+   Nighttime Asthma Change from Baseline
 
 p-values: 0.25 mg qd: 0.121, 0.25 mg bid: <0.001, 0.5 mg bid: 0.003, 1.0 mg qd: 0.005

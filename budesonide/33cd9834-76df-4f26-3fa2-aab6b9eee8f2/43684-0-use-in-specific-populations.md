@@ -2,8 +2,10 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects: Pregnancy Category B – Studies of pregnant women, have not shown that inhaled budesonide increases the risk of abnormalities when administered during pregnancy.
-The results from a large population-based prospective cohort epidemiological study reviewing data from three Swedish registries covering approximately 99% of the pregnancies from 1995-1997 (ie, Swedish Medical Birth Registry; Registry of Congenital Malformations; Child Cardiology Registry) indicate no increased risk for congenital malformations from the use of inhaled budesonide during early pregnancy.
+Teratogenic Effects: Pregnancy Category B
+
+Studies of pregnant women have not shown that inhaled budesonide increases the risk of abnormalities when administered during pregnancy.
+The results from a large population-based prospective cohort epidemiological study reviewing data from three Swedish registries covering approximately 99% of the pregnancies from 1995-1997 (i.e., Swedish Medical Birth Registry; Registry of Congenital Malformations; Child Cardiology Registry) indicate no increased risk for congenital malformations from the use of inhaled budesonide during early pregnancy.
 Congenital malformations were studied in 2014 infants born to mothers reporting the use of inhaled budesonide for asthma in early pregnancy (usually 10-12 weeks after the last menstrual period), the period when most major organ malformations occur.
 The rate of recorded congenital malformations was similar compared to the general population rate (3.8% vs. 3.5%, respectively).
 In addition, after exposure to inhaled budesonide, the number of infants born with orofacial clefts was similar to the expected number in the normal population (4 children vs. 3.3, respectively).
@@ -28,7 +30,7 @@ Such infants should be carefully observed.
 ## 8.3 Nursing Mothers
 
 Budesonide, like other corticosteroids, is secreted in human milk.
-Data with budesonide delivered via dry powder inhaler indicates that the total daily oral dose of budesonide in breast milk to the infant is approximately 0.3% to 1% of the dose inhaled by the mother [see Clinical Pharmacology, Pharmacokinetics (12.3),and Use In Specific Populations, Nursing Mothers (8.3)].
+Data with budesonide delivered via dry powder inhaler indicates that the total daily oral dose of budesonide in breast milk to the infant is approximately 0.3% to 1% of the dose inhaled by the mother [see Clinical Pharmacology (12.3), Use in Specific Populations (8.3)].
 No studies have been conducted in breastfeeding women with PULMICORT RESPULES; however, the dose of budesonide available to the infant in breast milk, as a percentage of the maternal dose, would be expected to be similar.
 PULMICORT RESPULES should be used in nursing women only if clinically appropriate.
 Prescribers should weigh the known benefits of breastfeeding for the mother and the infant against the potential risks of minimal budesonide exposure in the infant.
@@ -36,12 +38,12 @@ Prescribers should weigh the known benefits of breastfeeding for the mother and 
 ## 8.4 Pediatric Use
 
 Safety and effectiveness in children six months to 12 months of age has been evaluated but not established.
-Safety and effectiveness in children 12 months to 8 years of age have been established [see Clinical Pharmacology, Pharmacodynamics (12.2), and Adverse Reactions, Clinical Trials Experience (6.1)].
+Safety and effectiveness in children 12 months to 8 years of age have been established [see Clinical Pharmacology (12.2), Adverse Reactions (6.1)].
 
 A 12-week study in 141 pediatric patients 6 to 12 months of age with mild to moderate asthma or recurrent/persistent wheezing was conducted.
 All patients were randomized to receive either 0.5 mg or 1 mg of PULMICORT RESPULES or placebo once daily.
 Adrenal-axis function was assessed with an ACTH stimulation test at the beginning and end of the study, and mean changes from baseline in this variable did not indicate adrenal suppression in patients who received PULMICORT RESPULES versus placebo.
-However, on an individual basis, 7 patients in this study (6 in the PULMICORT RESPULES treatment arms and 1 in the placebo arm) experienced a shift from having a normal baseline stimulated cortisol level to having a subnormal level at Week 12 [see Clinical Pharmacology, Pharmacodynamics (12.2)].
+However, on an individual basis, 7 patients in this study (6 in the PULMICORT RESPULES treatment arms and 1 in the placebo arm) experienced a shift from having a normal baseline stimulated cortisol level to having a subnormal level at Week 12 [see Clinical Pharmacology (12.2)].
 Pneumonia was observed more frequently in patients treated with PULMICORT RESPULES than in patients treated with placebo, (N = 2, 1, and 0) in the PULMICORT RESPULES 0.5 mg, 1 mg, and placebo groups, respectively.
 
 A dose dependent effect on growth was also noted in this 12-week trial.
@@ -60,7 +62,7 @@ By the end of four years, children treated with the budesonide dry powder inhale
 Conclusions drawn from this study may be confounded by the unequal use of corticosteroids in the treatment groups and inclusion of data from patients attaining puberty during the course of the study.
 The growth of pediatric patients receiving inhaled corticosteroids, including PULMICORT RESPULES, should be monitored routinely (e.g., via stadiometry).
 The potential growth effects of prolonged treatment should be weighed against clinical benefits obtained and the risks and benefits associated with alternative therapies.
-To minimize the systemic effects of inhaled corticosteroids, including PULMICORT RESPULES, each patient should be titrated to his/her lowest effective dose [see Dosage and Administration (2)and Warnings and Precautions (5.8)].
+To minimize the systemic effects of inhaled corticosteroids, including PULMICORT RESPULES, each patient should be titrated to his/her lowest effective dose [see Dosage and Administration (2), Warnings and Precautions (5.8)].
 
 ## 8.5 Geriatric Use
 

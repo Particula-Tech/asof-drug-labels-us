@@ -57,7 +57,7 @@ PULMICORT RESPULES, like other inhaled corticosteroid products, may impact the H
 
 Absorption:
 
-In asthmatic children 4-6 years of age, the total absolute bioavailability (ie, lung + oral) following administration of PULMICORT RESPULES via jet nebulizer was approximately 6% of the labeled dose.
+In asthmatic children 4-6 years of age, the total absolute bioavailability (i.e., lung + oral) following administration of PULMICORT RESPULES via jet nebulizer was approximately 6% of the labeled dose.
 
 In children, a peak plasma concentration of 2.6 nmol/L was obtained approximately 20 minutes after nebulization of a 1 mg dose.
 Systemic exposure, as measured by AUC and Cmax, is similar for young children and adults after inhalation of the same dose of PULMICORT RESPULES.
@@ -100,12 +100,12 @@ The disposition of budesonide when delivered by inhalation from a dry powder inh
 Systemic exposure to budesonide in these women appears to be comparable to that in non-lactating women with asthma from other studies.
 Breast milk obtained over eight hours post-dose revealed that the maximum concentration of budesonide for the 400 and 800 mcg doses was 0.39 and 0.78 nmol/L, respectively, and occurred within 45 minutes after dosing.
 The estimated oral daily dose of budesonide from breast milk to the infant is approximately 0.007 and 0.014 mcg/kg/day for the two dose regimens used in this study, which represents approximately 0.3% to 1% of the dose inhaled by the mother.
-Budesonide levels in plasma samples obtained from five infants at about 90 minutes after breast-feeding (and about 140 minutes after drug administration to the mother) were below quantifiable levels (<0.02 nmol/L in four infants and <0.04 nmol/L in one infant) [see Use In Specific Populations, Nursing Mothers (8.3)].
+Budesonide levels in plasma samples obtained from five infants at about 90 minutes after breast-feeding (and about 140 minutes after drug administration to the mother) were below quantifiable levels (<0.02 nmol/L in four infants and <0.04 nmol/L in one infant) [see Use in Specific Populations (8.3)].
 
 Drug-Drug Interactions
 
 Inhibitors of cytochrome P450 enzymes
 
-Ketoconazole: Ketoconazole, a strong inhibitor of cytochrome P450 (CYP) isoenzyme 3A4 (CYP3A4), the main metabolic enzyme for corticosteroids, increased plasma levels of orally ingested budesonide [see Warnings and Precautions (5.12)and Drug Interactions (7.1)].
+Ketoconazole: Ketoconazole, a strong inhibitor of cytochrome P450 (CYP) isoenzyme 3A4 (CYP3A4), the main metabolic enzyme for corticosteroids, increased plasma levels of orally ingested budesonide [see Warnings and Precautions (5.12), Drug Interactions (7.1)].
 
 Cimetidine: At recommended doses, cimetidine, a non-specific inhibitor of CYP enzymes, had a slight but clinically insignificant effect on the pharmacokinetics of oral budesonide.
