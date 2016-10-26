@@ -21,6 +21,14 @@ To date, epidemiologic studies and randomized controlled trials have been inconc
 Some studies, but not all, have reported an increased risk of MACE in association with use of testosterone replacement therapy in men.
 Patients should be informed of this possible risk when deciding whether to use or to continue to use DELATESTRYL.
 
+Testosterone has been subject to abuse, typically at doses higher than recommended for the approved indication and in combination with other anabolic steroids.
+This type of testosterone abuse can lead to serious cardiovascular and psychiatric adverse reactions (see DRUG ABUSE AND DEPENDENCE).
+
+If testosterone abuse is suspected, check serum testosterone concentrations to ensure they are within therapeutic range.
+However, testosterone levels may be in the normal or subnormal range in men abusing synthetic testosterone derivatives.
+Counsel patients concerning the serious adverse reactions associated with abuse of testosterone and anabolic steroids.
+Conversely, consider the possibility of testosterone and anabolic steroid abuse in suspected patients who present with serious cardiovascular or psychiatric adverse events.
+
 Due to sodium and water retention, edema with or without congestive heart failure may be a serious complication in patients with preexisting cardiac, renal, or hepatic disease.
 In addition to discontinuation of the drug, diuretic therapy may be required.
 If the administration of testosterone enanthate is restarted, a lower dose should be used.
