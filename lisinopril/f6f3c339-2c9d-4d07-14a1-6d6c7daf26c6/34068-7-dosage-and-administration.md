@@ -44,3 +44,10 @@ If prolonged hypotension occurs (systolic blood pressure <90 mmHg for more than 
 No dose adjustment of PRINIVIL is required in patients with creatinine clearance >30 mL/min.
 In patients with creatinine clearance 10-30 mL/min, reduce the initial dose of PRINIVIL to half of the usual recommended dose (i.e., hypertension, 5 mg; heart failure or acute MI, 2.5 mg).
 For patients on hemodialysis or creatinine clearance <10 mL/min, the recommended initial dose is 2.5 mg once daily [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
+
+## 2.5 Preparation of Suspension
+
+To make 200 mL of a suspension at 1.0 mg/mL, add 10 mL of Purified Water USP to a polyethylene terephthalate (PET) bottle containing ten 20-mg tablets of PRINIVIL and shake for at least one minute.
+Add 30 mL of Sodium Citrate and Citric Acid Oral Solution or Cytra-2 diluent and 160 mL of Ora-Sweet SF™ to the concentrate in the PET bottle and gently shake for several seconds to disperse the ingredients.
+The suspension should be stored at or below 25°C (77°F) and can be stored for up to four weeks.
+Shake the suspension before each use.

@@ -25,7 +25,7 @@ This effect was confirmed in a withdrawal phase, where the diastolic pressure ro
 The dose-dependent antihypertensive effect of lisinopril was consistent across several demographic subgroups: age, Tanner stage, gender, and race.
 In this study, lisinopril was generally well-tolerated.
 
-In the above pediatric studies, lisinopril was given either as tablets or in a suspension for those children and infants who were unable to swallow tablets or who required a lower dose than is available in tablet form.
+In the above pediatric studies, lisinopril was given either as tablets or in a suspension for those children and infants who were unable to swallow tablets or who required a lower dose than is available in tablet form [see Dosage and Administration (2.5)].
 
 ## 14.2 Heart Failure
 
