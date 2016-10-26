@@ -32,10 +32,10 @@ Patients should be informed that treatment with androgens may lead to adverse re
 - Adhere to all recommended monitoring.
 - Report any changes in their state of health, such as changes in urinary habits, breathing, sleep, and mood.
 
-Manufactured for: Endo Pharmaceuticals Solutions Inc. Malvern, PA 19355
+Distributed by: Endo Pharmaceuticals Solutions Inc. Malvern, PA 19355
 
 AVEED is a registered trademark of Endo Pharmaceuticals Inc.
 
-© 2015 Endo Pharmaceuticals Solutions Inc. All rights reserved.
+© 2016 Endo Pharmaceuticals Solutions Inc. All rights reserved.
 
-84718564
+85534041
