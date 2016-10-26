@@ -1,14 +1,16 @@
-# Medguide
+# MEDICATION GUIDE
 
-DEXTROAMPHETAMINE SULFATE ORAL SOLUTION CII
+DEXTROAMPHETAMINE SULFATE ORAL SOLUTION CII, 5 mg/5 mL
 
 (DEX-troe-am-FET-a-meen SUL-fate)
+
+Rx Only
 
 Please read the Medication Guide that comes with Dextroamphetamine Sulfate Oral Solution before you or your child starts taking it and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking to your doctor about your or your child’s treatment with Dextroamphetamine Sulfate Oral Solution.
 
-| What is the most important information I should know about Dextroamphetamine Sulfate Oral Solution?The following have been reported with use of Dextroamphetamine Sulfate Oral Solution and other stimulant medicines. 1. Heart-related problems:• sudden death in patients who have heart problems or heart defects• stroke and heart attack in adults• increased blood pressure and heart rateTell your doctor if you or your child have any heart problems, heart defects, high blood pressure, or a family history of these problems.Your doctor should check you or your child carefully for heart problems before starting Dextroamphetamine Sulfate Oral Solution.Your doctor should check your or your child’s blood pressure and heart rate regularly during treatment with Dextroamphetamine Sulfate Oral Solution.Call your doctor right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while taking Dextroamphetamine Sulfate Oral Solution.2. Mental (Psychiatric) problems:All Patients• new or worse behavior and thought problems• new or worse bipolar illness• new or worse aggressive behavior or hostilityChildren and Teenagers• new psychotic symptoms (such as hearing voices, believing things that are not true, are suspicious) or new manic symptomsTell your doctor about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression.Call your doctor right away if you or your child have any new or worsening mental symptoms or problems while taking Dextroamphetamine Sulfate Oral Solution, especially seeing or hearing things that are not real, believing things that are not real, or are suspicious. |
+| What is the most important information I should know about Dextroamphetamine Sulfate Oral Solution?The following have been reported with use of Dextroamphetamine Sulfate Oral Solution and other stimulant medicines. 1. Heart-related problems:• sudden death in patients who have heart problems or heart defects• stroke and heart attack in adults• increased blood pressure and heart rateTell your doctor if you or your child have any heart problems, heart defects, high blood pressure, or a family history of these problems.Your doctor should check you or your child carefully for heart problems before starting Dextroamphetamine Sulfate Oral Solution.Your doctor should check your or your child’s blood pressure and heart rate regularly during treatment with Dextroamphetamine Sulfate Oral Solution.Call your doctor right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while taking Dextroamphetamine Sulfate Oral Solution.2. Mental (Psychiatric) problems:All Patients• new or worse behavior and thought problems• new or worse bipolar illness• new or worse aggressive behavior or hostilityChildren and Teenagers• new psychotic symptoms (such as hearing voices, believing things that are not true, are suspicious) or new manic symptomsTell your doctor about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression.Call your doctor right away if you or your child have any new or worsening mental symptoms or problems while taking Dextroamphetamine Sulfate Oral Solution, especially seeing or hearing things that are not real, believing things that are not real, or are suspicious.3. Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud’s phenomenon]:• fingers or toes may feel numb, cool, painful• fingers or toes may change color from pale, to blue, to redTell your doctor if you have or your child has numbness, pain, skin color change, or sensitivity to temperature in your fingers or toes. Call your doctor right away if you have or your child has any signs of unexplained wounds appearing on fingers or toes while taking Dextroamphetamine Sulfate Oral Solution. |
 | --- |
 
 What is Dextroamphetamine Sulfate Oral Solution?
@@ -60,9 +62,11 @@ Before starting Dextroamphetamine Sulfate Oral Solution tell your or your child�
 
 • seizures or have had an abnormal brain wave test (EEG)
 
+• circulation problems in fingers and toes
+
 Tell your doctor if you or your child is pregnant, planning to become pregnant, or breastfeeding.
 
-Dextroamphetamine Sulfate Oral Solution be taken with other medicines?
+Can Dextroamphetamine Sulfate Oral Solution be taken with other medicines?
 
 Tell your doctor about all of the medicines that you or your child take including prescription and nonprescription medicines, vitamins, and herbal supplements.
 
@@ -71,7 +75,7 @@ Sometimes the doses of other medicines will need to be adjusted while taking Dex
 
 Your doctor will decide whether Dextroamphetamine Sulfate Oral Solution can be taken with other medicines.
 
-Especially tell your doctor if you or your child takes:
+Especially tell your doctor if you or your child take:
 
 • antidepression medicines including MAOIs
 
@@ -81,7 +85,7 @@ Especially tell your doctor if you or your child takes:
 
 • seizure medicines
 
-Know the medicines that you or your child takes.
+Know the medicines that you or your child take.
 Keep a list of your medicines with you to show your doctor and pharmacist.
 
 Do not start any new medicine while taking Dextroamphetamine Sulfate Oral Solution without talking to your doctor first.
@@ -97,9 +101,9 @@ How should Dextroamphetamine Sulfate Oral Solution be taken?
 - From time to time, your doctor may stop Dextroamphetamine Sulfate Oral Solution treatment for a while to check ADHD symptoms.
 - Your doctor may do regular checks of the blood, heart, and blood pressure while taking Dextroamphetamine Sulfate Oral Solution.
   Children should have their height and weight checked often while taking Dextroamphetamine Sulfate Oral Solution.
-  Dextroamphetamine Sulfate Oral Solution treatment may be stopped if a problem is found during these check-ups.
+  Treatment with Dextroamphetamine Sulfate Oral Solution treatment may be stopped if a problem is found during these check-ups.
 
-- If you or your child takes too much Dextroamphetamine Sulfate Oral Solution or overdoses, call your doctor or poison control center right away, or get emergency treatment.
+- If you or your child take too much Dextroamphetamine Sulfate Oral Solution or overdoses, call your doctor or poison control center right away, or get emergency treatment.
 
 What are possible side effects of Dextroamphetamine Sulfate Oral Solution?
 
@@ -135,7 +139,7 @@ Common side effects include:
 
 Dextroamphetamine Sulfate Oral Solution may affect you or your child’s ability to drive or do other dangerous activities.
 
-Talk to your doctor if you or your child has side effects that are bothersome or do not go away.
+Talk to your doctor if you or your child have side effects that are bothersome or do not go away.
 
 This is not a complete list of possible side effects.
 Ask your doctor or pharmacist for more information.
@@ -145,8 +149,8 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store Dextroamphetamine Sulfate Oral Solution?
 
-- Store Dextroamphetamine Sulfate Oral Solution in a safe place controlled room temperature, 68° to 77°F (20° to 25°C);.
-  Protect from light.
+• Store Dextroamphetamine Sulfate Oral Solution in a safe place at controlled room temperature, 68° to 77°F (20° to 25°C).
+Protect from light.
 
 • Keep Dextroamphetamine Sulfate Oral Solution and all medicines out of the reach of children.
 
@@ -170,3 +174,13 @@ Active Ingredient: dextroamphetamine sulfate
 Inactive Ingredients: anhydrous citric acid, benzoic acid, bubble gum flavor, purified water, sodium citrate anhydrous, sodium saccharin, and sorbitol solution.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+Manufactured by
+
+Tris Pharma, Inc.
+
+LB8255
+
+Rev 02
+
+October 2016

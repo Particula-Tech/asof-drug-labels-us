@@ -13,9 +13,7 @@ Hypertension and Other Cardiovascular Conditions: Stimulant medications cause a 
 While the mean changes alone would not be expected to have short term consequences, all patients should be monitored for larger changes in heart rate and blood pressure.
 Caution is indicated in treating patients whose underlying medical conditions might be compromised by increases in blood pressure or heart rate, e.g., those with pre-existing hypertension, heart failure, recent myocardial infarction, or ventricular arrhythmia (see CONTRAINDICATIONS).
 
-Assessing Cardiovascular Status in Patients Being Treated With Stimulant Medications:
-
-Children, adolescents, or adults who are being considered for treatment with stimulant medications should have a careful history (including assessment for a family history of sudden death or ventricular arrhythmia) and physical exam to assess for the presence of cardiac disease, and should receive further cardiac evaluation if findings suggest such disease (e.g., electrocardiogram and echocardiogram).
+Assessing Cardiovascular Status in Patients Being Treated With Stimulant Medications: Children, adolescents, or adults who are being considered for treatment with stimulant medications should have a careful history (including assessment for a family history of sudden death or ventricular arrhythmia) and physical exam to assess for the presence of cardiac disease, and should receive further cardiac evaluation if findings suggest such disease (e.g., electrocardiogram and echocardiogram).
 Patients who develop symptoms such as exertional chest pain, unexplained syncope, or other symptoms suggestive of cardiac disease during stimulant treatment should undergo a prompt cardiac evaluation.
 
 Psychiatric Adverse Events
@@ -39,15 +37,22 @@ Therefore, growth should be monitored during treatment with stimulants, and pati
 Seizures: There is some clinical evidence that stimulants may lower the convulsive threshold in patients with prior history of seizures, in patients with prior EEG abnormalities in absence of seizures, and, very rarely, in patients without a history of seizures and no prior EEG evidence of seizures.
 In the presence of seizures, the drug should be discontinued.
 
+Peripheral Vasculopathy, Including Raynaud’s Phenomenon: Stimulants, including Dextroamphetamine sulfate oral solution, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud’s phenomenon.
+Signs and symptoms are usually intermittent and mild; however, very rare sequelae include digital ulcerations and/or soft tissue breakdown.
+Effects of peripheral vasculopathy, including Raynaud’s phenomenon, were observed in post-marketing reports at different times and at therapeutic doses in all age groups throughout the course of treatment.
+Signs and symptoms generally improve after reduction in dose or discontinuation of drug.
+Careful observation for digital changes is necessary during treatment with ADHD stimulants.
+Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
+
 Visual Disturbance: Difficulties with accommodation and blurring of vision have been reported with stimulant treatment.
 
 # PRECAUTIONS
 
-## General
+## General:
 
 The least amount feasible should be prescribed or dispensed at one time in order to minimize the possibility of overdosage.
 
-## Information for Patients
+## Information for Patients:
 
 Amphetamines may impair the ability of the patient to engage in potentially hazardous activities such as operating machinery or vehicles; the patient should therefore be cautioned accordingly.
 
@@ -57,21 +62,28 @@ The prescriber or health professional should instruct patients, their families, 
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 The complete text of the Medication Guide is reprinted at the end of this document.
 
+Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud’s phenomenon]
+
+- Instruct patients beginning treatment with dextroamphetamine sulfate oral solution about the risk of peripheral vasculopathy, including Raynaud’s Phenomenon, and associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red.
+- Instruct patients to report to their physician any new numbness, pain, skin color change, or sensitivity to temperature in fingers or toes.
+- Instruct patients to call their physician immediately with any signs of unexplained wounds appearing on fingers or toes while taking dextroamphetamine sulfate oral solution.
+- Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
+
 ## Drug Interactions
 
-Acidifying agents – Gastrointestinal acidifying agents (guanethidine, reserpine, glutamic acid HCl, ascorbic acid, fruit juices, etc.) lower absorption of amphetamines.
+Acidifying Agents – Gastrointestinal acidifying agents (guanethidine, reserpine, glutamic acid HCl, ascorbic acid, fruit juices, etc.) lower absorption of amphetamines.
 Urinary acidifying agents (ammonium chloride, sodium acid phosphate, etc.) increase the concentration of the ionized species of the amphetamine molecule, thereby increasing urinary excretion.
 Both groups of agents lower blood levels and efficacy of amphetamines.
 
-Adrenergic blockers – Adrenergic blockers are inhibited by amphetamines.
+Adrenergic Blockers – Adrenergic blockers are inhibited by amphetamines.
 
-Alkalinizing agents – Gastrointestinal alkalinizing agents (sodium bicarbonate, etc.) increase absorption of amphetamines.
+Alkalinizing Agents – Gastrointestinal alkalinizing agents (sodium bicarbonate, etc.) increase absorption of amphetamines.
 Urinary alkalinizing agents (acetazolamide, some thiazides) increase the concentration of the non-ionized species of the amphetamine molecule, thereby decreasing urinary excretion.
 Both groups of agents increase blood levels and therefore potentiate the actions of amphetamines.
 
-Antidepressants, tricyclic – Amphetamines may enhance the activity of tricyclic or sympathomimetic agents; d-amphetamine with desipramine or protriptyline and possibly other tricyclics cause striking and sustained increases in the concentration of d-amphetamine in the brain; cardiovascular effects can be potentiated.
+Antidepressants, Tricyclic – Amphetamines may enhance the activity of tricyclic or sympathomimetic agents; d-amphetamine with desipramine or protriptyline and possibly other tricyclics cause striking and sustained increases in the concentration of d-amphetamine in the brain; cardiovascular effects can be potentiated.
 
-MAO inhibitors – MAOI antidepressants, as well as a metabolite of furazolidone, slow amphetamine metabolism.
+MAO Inhibitors – MAOI antidepressants, as well as a metabolite of furazolidone, slow amphetamine metabolism.
 This slowing potentiates amphetamines, increasing their effect on the release of norepinephrine and other monoamines from adrenergic nerve endings; this can cause headaches and other signs of hypertensive crisis.
 A variety of neurological toxic effects and malignant hyperpyrexia can occur, sometimes with fatal results.
 
@@ -85,11 +97,11 @@ Ethosuximide – Amphetamines may delay intestinal absorption of ethosuximide.
 
 Haloperidol – Haloperidol blocks dopamine and norepinephrine reuptake, thus inhibiting the central stimulant effects of amphetamines.
 
-Lithium carbonate – The stimulatory effects of amphetamines may be inhibited by lithium carbonate.
+Lithium Carbonate – The stimulatory effects of amphetamines may be inhibited by lithium carbonate.
 
 Meperidine – Amphetamines potentiate the analgesic effect of meperidine.
 
-Methenamine therapy – Urinary excretion of amphetamines is increased, and efficacy is reduced, by acidifying agents used in methenamine therapy.
+Methenamine Therapy – Urinary excretion of amphetamines is increased, and efficacy is reduced, by acidifying agents used in methenamine therapy.
 
 Norepinephrine – Amphetamines enhance the adrenergic effect of norepinephrine.
 
@@ -99,7 +111,7 @@ Phenytoin – Amphetamines may delay intestinal absorption of phenytoin; co-admi
 
 Propoxyphene – In cases of propoxyphene overdosage, amphetamine CNS stimulation is potentiated and fatal convulsions can occur.
 
-Veratrum alkaloids – Amphetamines inhibit the hypotensive effect of veratrum alkaloids.
+Veratrum Alkaloids – Amphetamines inhibit the hypotensive effect of veratrum alkaloids.
 
 ## Drug/Laboratory Test Interactions
 
@@ -108,30 +120,30 @@ This increase is greatest in the evening.
 
 Amphetamines may interfere with urinary steroid determinations.
 
-## ​Carcinogenesis, Mutagenesis, Impairment of Fertility
+## ​Carcinogenesis/Mutagenesis:
 
 Mutagenicity studies and long-term studies in animals to determine the carcinogenic potential of dextroamphetamine sulfate have not been performed.
 
-## Pregnancy
+## Pregnancy:
 
-### Teratogenic Effects
+### Teratogenic Effects:
 
 Pregnancy Category C. Dextroamphetamine sulfate has been shown to have embryotoxic and teratogenic effects when administered to A/Jax mice and C57BL mice in doses approximately 41 times the maximum human dose.
 Embryotoxic effects were not seen in New Zealand white rabbits given the drug in doses 7 times the human dose nor in rats given 12.5 times the maximum human dose.
 While there are no adequate and well-controlled studies in pregnant women, there has been one report of severe congenital bony deformity, tracheoesophageal fistula, and anal atresia (VATER association) in a baby born to a woman who took dextroamphetamine sulfate with lovastatin during the first trimester of pregnancy.
 Dextroamphetamine sulfate should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-### Nonteratogenic Effects
+### Nonteratogenic Effects:
 
 Infants born to mothers dependent on amphetamines have an increased risk of premature delivery and low birth weight.
 Also, these infants may experience symptoms of withdrawal as demonstrated by dysphoria, including agitation, and significant lassitude.
 
-## Nursing Mothers
+## Nursing Mothers:
 
 Amphetamines are excreted in human milk.
 Mothers taking amphetamines should be advised to refrain from nursing.
 
-## Pediatric Use
+## Pediatric Use:
 
 Long-term effects of amphetamines in pediatric patients have not been well established.
 
