@@ -2,21 +2,19 @@
 
 Rx Only
 
-NDC 68682-705-90 Diltiazem Hydrochloride Extended-Release Tablets
+NDC 68682-705-90 Rx only Diltiazem Hydrochloride Extended-Release Tablets
 
 180 mg
 
 90 Tablets
 
-OCEANSIDE®
-
-PHARMACEUTICALS
+OCEANSIDE PHARMACEUTICALS
 
 # PRINCIPAL DISPLAY PANEL - 240 mg Bottle Label
 
-Rx Only
-
 NDC 68682-706-90
+
+Rx Only
 
 Diltiazem Hydrochloride Extended-Release Tablets
 
@@ -24,15 +22,13 @@ Diltiazem Hydrochloride Extended-Release Tablets
 
 90 Tablets
 
-OCEANSIDE®
-
-PHARMACEUTICALS
+OCEANSIDE PHARMACEUTICALS
 
 # PRINCIPAL DISPLAY PANEL - 300 mg Bottle Label
 
-Rx Only
-
 NDC 68682-707-90
+
+Rx Only
 
 Diltiazem Hydrochloride Extended-Release Tablets
 
@@ -40,15 +36,13 @@ Diltiazem Hydrochloride Extended-Release Tablets
 
 90 Tablets
 
-OCEANSIDE®
-
-PHARMACEUTICALS
+OCEANSIDE PHARMACEUTICALS
 
 # PRINCIPAL DISPLAY PANEL - 360 mg Bottle Label
 
-Rx Only
-
 NDC 68682-708-90
+
+Rx Only
 
 Diltiazem Hydrochloride Extended-Release Tablets
 
@@ -56,15 +50,13 @@ Diltiazem Hydrochloride Extended-Release Tablets
 
 90 Tablets
 
-OCEANSIDE®
-
-PHARMACEUTICALS
+OCEANSIDE PHARMACEUTICALS
 
 # PRINCIPAL DISPLAY PANEL - 420 mg Bottle Label
 
-Rx Only
-
 NDC 68682-709-90
+
+Rx Only
 
 Diltiazem Hydrochloride Extended-Release Tablets
 
@@ -72,6 +64,4 @@ Diltiazem Hydrochloride Extended-Release Tablets
 
 90 Tablets
 
-OCEANSIDE®
-
-PHARMACEUTICALS
+OCEANSIDE PHARMACEUTICALS
