@@ -8,31 +8,29 @@ For proper use of PULMICORT FLEXHALER and to attain maximum improvement, the pat
 ## 17.1 Oral Candidiasis
 
 Patients should be advised that localized infections with Candida albicans occurred in the mouth and pharynx in some patients.
-If oropharyngeal candidiasis develops, it should be treated with appropriate local or systemic (i.e. oral) antifungal therapy while still continuing therapy with PULMICORT FLEXHALER, but at times therapy with PULMICORT FLEXHALER may need to be temporarily interrupted under close medical supervision.
-Rinsing the mouth after inhalation is advised.
-[see Warnings and Precautions (5.1)]
+If oropharyngeal candidiasis develops, it should be treated with appropriate local or systemic (i.e., oral) antifungal therapy while still continuing therapy with PULMICORT FLEXHALER, but at times therapy with PULMICORT FLEXHALER may need to be temporarily interrupted under close medical supervision.
+Rinsing the mouth after inhalation is advised [see Warnings and Precautions (5.1)].
 
 ## 17.2 Not for Acute Symptoms
 
 PULMICORT FLEXHALER is not meant to relieve acute asthma symptoms and extra doses should not be used for that purpose.
-Acute symptoms should be treated with an inhaled, short-acting beta2-agonist such as albuterol (The physician should provide that patient with such medication and instruct the patient in how it should be used.)
+Acute symptoms should be treated with an inhaled, short-acting beta2-agonist such as albuterol (the physician should provide the patient with such medication and instruct the patient in how it should be used).
 
 Patients should be instructed to notify their physician immediately if they experience any of the following:
 
-- Decreasing effectiveness of inhaled, short-acting beta2-agonists
-- Need for more inhalations than usual of inhaled, short-acting beta2-agonists
-- Significant decrease in lung function as outlined by the physician
+1. Decreasing effectiveness of inhaled, short-acting beta2-agonists
+2. Need for more inhalations than usual of inhaled, short-acting beta2-agonists
+3. Significant decrease in lung function as outlined by the physician
 
-Patients should not stop therapy with PULMICORT FLEXHALER without physician/provider guidance since symptoms may recur after discontinuation.
-[see Warnings and Precautions (5.1)]
+Patients should not stop therapy with PULMICORT FLEXHALER without physician/provider guidance since symptoms may recur after discontinuation [see Warnings and Precautions (5.1)].
 
-## 17.3 Hypersensitivity including Anaphylaxis
+## 17.3 Hypersensitivity Including Anaphylaxis
 
 Hypersensitivity reactions including anaphylaxis, rash, contact dermatitis, urticaria, angioedema, and bronchospasm have been reported with use of PULMICORT FLEXHALER.
-Discontinue PULMICORT FLEXHALER if such reactions occur [see Contraindications (4),Warnings and Precautions (5.3), and Adverse Reactions (6)].
+Discontinue PULMICORT FLEXHALER if such reactions occur [see Contraindications (4), Warnings and Precautions (5.3), Adverse Reactions (6)].
 
 PULMICORT FLEXHALER contains small amounts of lactose, which contains trace levels of milk proteins.
-It is possible that cough, wheezing, or bronchospasm may occur in patients who have a severe milk protein allergy [seeContraindications (4)].
+It is possible that cough, wheezing, or bronchospasm may occur in patients who have a severe milk protein allergy [see Contraindications (4)].
 
 ## 17.4 Immunosuppression
 
@@ -69,6 +67,6 @@ If symptoms do not improve in that time frame or if the condition worsens, patie
 Patients should be carefully instructed on the use of this drug product to assure optimal dose delivery.
 The patient may not sense the presence of any medication entering their lungs when inhaling from PULMICORT FLEXHALER.
 This lack of sensation does not mean that they did not get the medication.
-They should not repeat their inhalation even if they did not feel the medication when inhaling [seePatient Information].
+They should not repeat their inhalation even if they did not feel the medication when inhaling [see Patient Information].
 
-## 17.11 FDA–Approved Patient Labeling
+## Patient Information

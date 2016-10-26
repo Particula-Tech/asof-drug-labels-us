@@ -4,7 +4,7 @@
 
 Teratogenic Effects: Pregnancy Category B
 
-Studies of pregnant women, have not shown that inhaled budesonide increases the risk of abnormalities when administered during pregnancy.
+Studies of pregnant women have not shown that inhaled budesonide increases the risk of abnormalities when administered during pregnancy.
 The results from a large population-based prospective cohort epidemiological study reviewing data from three Swedish registries covering approximately 99% of the pregnancies from 1995-1997 (i.e., Swedish Medical Birth Registry; Registry of Congenital Malformations; Child Cardiology Registry) indicate no increased risk for congenital malformations from the use of inhaled budesonide during early pregnancy.
 Congenital malformations were studied in 2014 infants born to mothers reporting the use of inhaled budesonide for asthma in early pregnancy (usually 10-12 weeks after the last menstrual period), the period when most major organ malformations occur.
 The rate of recorded congenital malformations was similar compared to the general population rate (3.8% vs. 3.5%, respectively).
@@ -29,7 +29,7 @@ Such infants should be carefully observed.
 ## 8.3 Nursing Mothers
 
 Budesonide, like other corticosteroids, is secreted in human milk.
-Data with budesonide delivered via dry powder inhaler indicates that the total daily oral dose of budesonide available in breast milk to the infant is approximately 0.3% to 1% of the dose inhaled by the mother [seeClinical Pharmacology, Pharmacokinetics, Special Populations, Nursing Mothers (12.3)].
+Data with budesonide delivered via dry powder inhaler indicates that the total daily oral dose of budesonide available in breast milk to the infant is approximately 0.3% to 1% of the dose inhaled by the mother [see Clinical Pharmacology (12.3)].
 No studies have been conducted in breastfeeding women specifically with PULMICORT FLEXHALER; however, the dose of budesonide available to the infant in breast milk, as a percentage of the maternal dose, would be expected to be similar.
 PULMICORT FLEXHALER should be used in nursing women only if clinically appropriate.
 Prescribers should weigh the known benefits of breastfeeding for the mother and the infant against the potential risks of minimal budesonide exposure in the infant.
@@ -38,7 +38,7 @@ However, in general, PULMICORT FLEXHALER use should not delay or interfere with 
 
 ## 8.4 Pediatric Use
 
-In a 12-week pivotal study, 204 patients 6 to 17 years of age were treated with PULMICORT FLEXHALER twice daily [seeClinical Studies (14.1)].
+In a 12-week pivotal study, 204 patients 6 to 17 years of age were treated with PULMICORT FLEXHALER twice daily [see Clinical Studies (14.1)].
 Efficacy results in this age group were similar to those observed in patients 18 years and older.
 There were no obvious differences in the type or frequency of adverse events reported in this age group compared with patients 18 years of age and older.
 
@@ -49,17 +49,17 @@ This effect has been observed in the absence of laboratory evidence of hypothala
 The long-term effects of this reduction in growth velocity associated with orally inhaled corticosteroids including the impact on final adult height are unknown.
 The potential for “catch up” growth following discontinuation of treatment with orally inhaled corticosteroids has not been adequately studied.
 
-In a study of asthmatic children 5-12 years of age, those treated with inhaled budesonide via a different PULMICORT dry powder inhaler 200 mcg twice daily (n=311) had a 1.1- centimeter reduction in growth compared with those receiving placebo (n=418) at the end of one year; the difference between these two treatment groups did not increase further over three years of additional treatment.
+In a study of asthmatic children 5-12 years of age, those treated with inhaled budesonide via a different PULMICORT dry powder inhaler 200 mcg twice daily (n=311) had a 1.1-centimeter reduction in growth compared with those receiving placebo (n=418) at the end of one year; the difference between these two treatment groups did not increase further over three years of additional treatment.
 By the end of four years, children treated with a different PULMICORT dry powder inhaler and children treated with placebo had similar growth velocities.
 Conclusions drawn from this study may be confounded by the unequal use of corticosteroids in the treatment groups and inclusion of data from patients attaining puberty during the course of the study.
 
 The administration of inhaled budesonide via a different PULMICORT dry-powder inhaler in doses up to 800 mcg/day (mean daily dose 445 mcg/day) or via a pressurized metered-dose inhaler in doses up to 1200 mcg/day (mean daily dose 620 mcg/day) to 216 pediatric patients (age 3 to 11 years) for 2 to 6 years had no significant effect on statural growth compared with non-corticosteroid therapy in 62 matched control patients.
 However, the long-term effect of inhaled budesonide on growth is not fully known.
 
-The growth of pediatric patients receiving orally inhaled corticosteroids, including PULMICORT FLEXHALER, should be monitored (eg, via stadiometry).
+The growth of pediatric patients receiving orally inhaled corticosteroids, including PULMICORT FLEXHALER, should be monitored (e.g., via stadiometry).
 If a child or adolescent on any corticosteroid appears to have growth suppression, the possibility that he/she is particularly sensitive to this effect should be considered.
 The potential growth effects of prolonged treatment should be weighed against clinical benefits obtained.
-To minimize the systemic effects of inhaled corticosteroids, including PULMICORT FLEXHALER, each patient should be titrated to the lowest dose that effectively controls his/her asthma [seeDosage and Administration (2)].
+To minimize the systemic effects of inhaled corticosteroids, including PULMICORT FLEXHALER, each patient should be titrated to the lowest dose that effectively controls his/her asthma [see Dosage and Administration (2)].
 
 ## 8.5 Geriatric Use
 

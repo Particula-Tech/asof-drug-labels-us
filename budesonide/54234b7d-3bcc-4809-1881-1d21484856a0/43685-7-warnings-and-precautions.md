@@ -3,7 +3,7 @@
 ## 5.1 Local Effects
 
 In clinical studies, the development of localized infections of the mouth and pharynx with Candida albicans has occurred in patients treated with PULMICORT FLEXHALER.
-When such an infection develops, it should be treated with appropriate local or systemic (i.e. oral antifungal) therapy while treatment with PULMICORT FLEXHALER continues, but at times, therapy with PULMICORT FLEXHALER may need to be interrupted.
+When such an infection develops, it should be treated with appropriate local or systemic (i.e., oral antifungal) therapy while treatment with PULMICORT FLEXHALER continues, but at times, therapy with PULMICORT FLEXHALER may need to be interrupted.
 Patients should rinse the mouth after inhalation of PULMICORT FLEXHALER.
 
 ## 5.2 Deterioration of Asthma or Acute Episodes
@@ -13,15 +13,15 @@ Patients should be instructed to contact their physician immediately if episodes
 During such episodes, patients may require therapy with oral corticosteroids.
 
 An inhaled short acting beta2-agonist, not PULMICORT FLEXHALER, should be used to relieve acute symptoms such as shortness of breath.
-When prescribing PULMICORT FLEXHALER, the physician must also provide the patient with an inhaled, short-acting beta2-agonist (e.g. albuterol) for treatment of acute symptoms, despite regular twice-daily (morning and evening) use of PULMICORT FLEXHALER.
+When prescribing PULMICORT FLEXHALER, the physician must also provide the patient with an inhaled, short-acting beta2-agonist (e.g., albuterol) for treatment of acute symptoms, despite regular twice-daily (morning and evening) use of PULMICORT FLEXHALER.
 
 ## 5.3 Hypersensitivity Reactions Including Anaphylaxis
 
 Hypersensitivity reactions including anaphylaxis, rash, contact dermatitis, urticaria, angioedema, and bronchospasm have been reported with use of PULMICORT FLEXHALER.
-Discontinue PULMICORT FLEXHALER if such reactions occur [seeContraindications (4)and Adverse Reactions (6)].
+Discontinue PULMICORT FLEXHALER if such reactions occur [see Contraindications (4), Adverse Reactions (6)].
 
 PULMICORT FLEXHALER contains small amounts of lactose, which contains trace levels of milk proteins.
-It is possible that cough, wheezing, or bronchospasm may occur in patients who have a severe milk protein allergy [seeContraindications (4)and Adverse Reactions, Post-marketing Experience (6.2)].
+It is possible that cough, wheezing, or bronchospasm may occur in patients who have a severe milk protein allergy [see Contraindications (4), Adverse Reactions (6.2)].
 
 ## 5.4 Immunosuppression
 
@@ -31,8 +31,7 @@ In children or adults who have not had these diseases or been properly immunized
 How the dose, route, and duration of corticosteroid administration affects the risk of developing a disseminated infection is not known.
 The contribution of the underlying disease and/or prior corticosteroid treatment to the risk is also not known.
 If exposed to chicken pox, therapy with varicella zoster immune globulin (VZIG) or pooled intravenous immunoglobulin (IVIG), as appropriate, may be indicated.
-If exposed to measles, prophylaxis with pooled intramuscular immunoglobulin (IG) may be indicated.
-(See the respective package inserts for complete VZIG and IG prescribing information.)
+If exposed to measles, prophylaxis with pooled intramuscular immunoglobulin (IG) may be indicated (see the respective package inserts for complete VZIG and IG prescribing information).
 If chicken pox develops, treatment with antiviral agents may be considered.
 The immune responsiveness to varicella vaccine was evaluated in pediatric patients with asthma ages 12 months to 8 years with budesonide inhalation suspension.
 
@@ -77,19 +76,19 @@ If such effects occur, the dosage of PULMICORT FLEXHALER should be reduced slowl
 
 ## 5.7 Interactions with Strong Cytochrome P450 3A4 Inhibitors
 
-Caution should be exercised when considering the co-administration of PULMICORT FLEXHALER with ketoconazole, and other known strong CYP3A4 inhibitors (e.g. ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, telithromycin) because adverse effects related to increased systemic exposure to budesonide may occur [eeDrug Interactions (7.1),Clinical Pharmacology (12.3)].
+Caution should be exercised when considering the co-administration of PULMICORT FLEXHALER with ketoconazole, and other known strong CYP3A4 inhibitors (e.g., ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, telithromycin) because adverse effects related to increased systemic exposure to budesonide may occur [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
 
 ## 5.8 Reduction in Bone Mineral Density
 
 Decreases in bone mineral density (BMD) have been observed with long-term administration of products containing inhaled corticosteroids.
 The clinical significance of small changes in BMD with regard to long-term consequences such as fracture is unknown.
-Patients with major risk factors for decreased bone mineral content, such as prolonged immobilization, family history of osteoporosis, post menopausal status, tobacco use, advance age, poor nutrition, or chronic use of drugs that can reduce bone mass (e.g, anticonvulsants, oral corticosteroids) should be monitored and treated with established standards of care.
+Patients with major risk factors for decreased bone mineral content, such as prolonged immobilization, family history of osteoporosis, post menopausal status, tobacco use, advance age, poor nutrition, or chronic use of drugs that can reduce bone mass (e.g., anticonvulsants, oral corticosteroids) should be monitored and treated with established standards of care.
 
-## 5.9 Effect on Growth
+## 5.9 Effects on Growth
 
 Orally inhaled corticosteroids, including budesonide, may cause a reduction in growth velocity when administered to pediatric patients.
 Monitor the growth of pediatric patients receiving PULMICORT FLEXHALER routinely (e.g., via stadiometry).
-To minimize the systemic effects of orally inhaled corticosteroids, including PULMICORT FLEXHALER, titrate each patient’s dose to the lowest dosage that effectively controls his/her symptoms [seeDosage and Administration (2.1),Use in Specific Populations (8.4)].
+To minimize the systemic effects of orally inhaled corticosteroids, including PULMICORT FLEXHALER, titrate each patient’s dose to the lowest dosage that effectively controls his/her symptoms [see Dosage and Administration (2.1), Use in Specific Populations (8.4)].
 
 ## 5.10 Glaucoma and Cataracts
 
@@ -99,13 +98,13 @@ Therefore, close monitoring is warranted in patients with a change in vision or 
 ## 5.11 Paradoxical Bronchospasm and Upper Airway Symptoms
 
 As with other inhaled asthma medications, PULMICORT FLEXHALER can produce paradoxical bronchospasm, which may be life threatening.
-If paradoxical bronchospasm occurs following dosing with PULMICORT FLEXHALER, it should be treated immediately with an inhaled, short-acting beta2- bronchodilator.
+If paradoxical bronchospasm occurs following dosing with PULMICORT FLEXHALER, it should be treated immediately with an inhaled, short-acting beta2-bronchodilator.
 PULMICORT FLEXHALER should be discontinued immediately, and alternative therapy should be instituted.
 
 ## 5.12 Eosinophilic Conditions and Churg-Strauss Syndrome
 
 In rare cases, patients on inhaled corticosteroids may present with systemic eosinophilic conditions.
-Some of these patients have clinical features of vasculitis consistent with Churg- Strauss syndrome, a condition that is often treated with systemic corticosteroid therapy.
+Some of these patients have clinical features of vasculitis consistent with Churg-Strauss syndrome, a condition that is often treated with systemic corticosteroid therapy.
 These events usually, but not always, have been associated with the reduction and/or withdrawal of oral corticosteroid therapy following the introduction of inhaled corticosteroids.
 Physicians should be alert to eosinophilia, vasculitic rash, worsening pulmonary symptoms, cardiac complications, and/or neuropathy presenting in their patients.
 A causal relationship between budesonide and these underlying conditions has not been established.

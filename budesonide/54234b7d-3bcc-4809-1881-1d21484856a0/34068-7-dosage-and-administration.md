@@ -1,7 +1,7 @@
 # 2 DOSAGE AND ADMINISTRATION
 
 PULMICORT FLEXHALER should be administered twice daily by the orally inhaled route only.
-After inhalation, the patient should rinse the mouth with water without swallowing [seePatient Counseling Information (17.1)].
+After inhalation, the patient should rinse the mouth with water without swallowing [see Patient Counseling Information (17.1)].
 
 Patients should be instructed to prime PULMICORT FLEXHALER prior to its initial use, and instructed to inhale deeply and forcefully each time the device is used.
 
@@ -27,4 +27,4 @@ For all patients, it is desirable to titrate to the lowest effective dose after 
 Improvement in asthma control following inhaled administration of budesonide can occur within 24 hours of initiation of treatment, although maximum benefit may not be achieved for 1 to 2 weeks, or longer.
 Individual patients will experience a variable onset and degree of symptom relief.
 
-If a previously effective dosage regimen of PULMICORT FLEXHALER fails to provide adequate control of asthma, the therapeutic regimen should be re-evaluated and additional therapeutic options (e.g. replacing the lower strength of PULMICORT FLEXHALER with the higher strength or initiating oral corticosteroids) should be considered.
+If a previously effective dosage regimen of PULMICORT FLEXHALER fails to provide adequate control of asthma, the therapeutic regimen should be re-evaluated and additional therapeutic options (e.g., replacing the lower strength of PULMICORT FLEXHALER with the higher strength or initiating oral corticosteroids) should be considered.

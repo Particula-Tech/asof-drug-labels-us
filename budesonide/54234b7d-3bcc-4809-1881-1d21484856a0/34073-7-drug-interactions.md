@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Inhibitors of Cytochrome P4503A4
+## 7.1 Inhibitors of Cytochrome P450 3A4
 
 The main route of metabolism of corticosteroids, including budesonide, is via cytochrome P450 (CYP) isoenzyme 3A4 (CYP3A4).
 After oral administration of ketoconazole, a strong inhibitor of CYP3A4, the mean plasma concentration of orally administered budesonide increased.
