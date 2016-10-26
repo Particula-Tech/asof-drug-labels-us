@@ -7,10 +7,15 @@ Upregulation of PD-1 ligands occurs in some tumors and signaling through this pa
 Pembrolizumab is a monoclonal antibody that binds to the PD-1 receptor and blocks its interaction with PD-L1 and PD-L2, releasing PD-1 pathway-mediated inhibition of the immune response, including the anti-tumor immune response.
 In syngeneic mouse tumor models, blocking PD-1 activity resulted in decreased tumor growth.
 
+## 12.2 Pharmacodynamics
+
+Based on dose/exposure efficacy and safety relationships, there are no clinically significant differences in efficacy and safety between pembrolizumab doses of 200 mg or 2 mg/kg every 3 weeks in patients with NSCLC.
+
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetics of pembrolizumab was studied in 2195 patients with various cancers who received doses of 1 to 10 mg/kg every 2 weeks or 2 to 10 mg/kg every 3 weeks.
-Based on population pharmacokinetic analyses in patients with solid tumors, the geometric mean [% coefficient of variation (CV%)] for clearance (CL), steady-state volume of distribution, and terminal half-life were 202 mL/day (38%), 7.38 L (19%) and 27 days (38%), respectively.
+The pharmacokinetics (PK) of pembrolizumab was characterized using a population PK analysis with concentration data collected from 2841 patients with various cancers who received pembrolizumab doses of 1 to 10 mg/kg every 2 weeks or 2 to 10 mg/kg every 3 weeks.
+Pembrolizumab clearance (CV%) is approximately 20% lower [geometric mean, 212 mL/day (46%)] at steady state than that after the first dose [267 mL/day (43.1%)]; this decrease in clearance with time is not considered clinically important.
+The geometric mean value (CV%) for volume of distribution at steady state is 6.1 L (21%) and for terminal half-life (t1/2) is 23 days (30%).
 
 Steady-state concentrations of pembrolizumab were reached by 19 weeks of repeated dosing with an every 3-week regimen and the systemic accumulation was 2.2-fold.
 The peak concentration (Cmax), trough concentration (Cmin), and area under the plasma concentration versus time curve at steady state (AUCss) of pembrolizumab increased dose proportionally in the dose range of 2 to 10 mg/kg every 3 weeks.

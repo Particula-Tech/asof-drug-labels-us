@@ -1,4 +1,4 @@
-Manufactured by: Merck Sharp & Dohme Corp., a subsidary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+Manufactured by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
 U.S. License No. 0002
 
@@ -12,4 +12,4 @@ The trademarks depicted herein are owned by their respective companies.
 
 Copyright © 2014-2016 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-uspi-mk3475-iv-1608r005
+uspi-mk3475-iv-1610r006

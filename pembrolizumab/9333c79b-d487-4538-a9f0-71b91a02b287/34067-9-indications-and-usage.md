@@ -6,12 +6,10 @@ KEYTRUDA® (pembrolizumab) is indicated for the treatment of patients with unres
 
 ## 1.2 Non-Small Cell Lung Cancer
 
-KEYTRUDA is indicated for the treatment of patients with metastatic non-small cell lung cancer (NSCLC) whose tumors express PD-L1 as determined by an FDA-approved test with disease progression on or after platinum-containing chemotherapy.
-Patients with EGFR or ALK genomic tumor aberrations should have disease progression on FDA-approved therapy for these aberrations prior to receiving KEYTRUDA [see Clinical Studies (14.2)].
+KEYTRUDA is indicated for the first-line treatment of patients with metastatic non-small cell lung cancer (NSCLC) whose tumors have high PD-L1 expression [Tumor Proportion Score (TPS) ≥50%)] as determined by an FDA-approved test, with no EGFR or ALK genomic tumor aberrations [see Clinical Studies (14.2)].
 
-This indication is approved under accelerated approval based on tumor response rate and durability of response.
-An improvement in survival or disease-related symptoms has not yet been established.
-Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
+KEYTRUDA is indicated for the treatment of patients with metastatic NSCLC whose tumors express PD-L1 (TPS ≥1%) as determined by an FDA-approved test, with disease progression on or after platinum-containing chemotherapy.
+Patients with EGFR or ALK genomic tumor aberrations should have disease progression on FDA-approved therapy for these aberrations prior to receiving KEYTRUDA [see Clinical Studies (14.2)].
 
 ## 1.3 Head and Neck Cancer
 

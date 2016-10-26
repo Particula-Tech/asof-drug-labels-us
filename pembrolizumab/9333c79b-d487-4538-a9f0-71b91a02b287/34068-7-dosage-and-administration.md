@@ -2,20 +2,22 @@
 
 ## 2.1 Patient Selection
 
-Select patients for second line or greater treatment of metastatic NSCLC with KEYTRUDA based on the presence of positive PD-L1 expression [see Clinical Studies (14.2)].
+Select patients for treatment of metastatic NSCLC with KEYTRUDA based on the presence of positive PD-L1 expression [see Clinical Studies (14.2)].
 Information on FDA-approved tests for the detection of PD-L1 expression in NSCLC is available at: http://www.fda.gov/CompanionDiagnostics.
 
-## 2.2 Recommended Dosing
+## 2.2 Recommended Dosage for Melanoma
 
-Melanoma and Non-Small Cell Lung Cancer
+The recommended dose of KEYTRUDA is 2 mg/kg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression or unacceptable toxicity [see Clinical Studies (14.1)].
 
-The recommended dose of KEYTRUDA is 2 mg/kg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression or unacceptable toxicity.
+## 2.3 Recommended Dosage for NSCLC
 
-Head and Neck Cancer
+The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression [see Clinical Studies (14.2)].
+
+## 2.4 Recommended Dosage for HNSCC
 
 The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression [see Clinical Studies (14.3)].
 
-## 2.3 Dose Modifications
+## 2.5 Dose Modifications
 
 Withhold KEYTRUDA for any of the following:
 
@@ -40,7 +42,7 @@ Permanently discontinue KEYTRUDA for any of the following:
 - Persistent Grade 2 or 3 adverse reactions (excluding endocrinopathies controlled with hormone replacement therapy) that do not recover to Grade 0-1 within 12 weeks after last dose of KEYTRUDA
 - Any severe or Grade 3 treatment-related adverse reaction that recurs [see Warnings and Precautions (5.6)]
 
-## 2.4 Preparation and Administration
+## 2.6 Preparation and Administration
 
 Reconstitution of KEYTRUDA for Injection (Lyophilized Powder)
 

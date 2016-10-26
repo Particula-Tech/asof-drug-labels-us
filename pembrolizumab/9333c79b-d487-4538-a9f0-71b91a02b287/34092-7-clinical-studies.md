@@ -35,9 +35,9 @@ Table 7: Efficacy Results in Trial 1
 | Hazard ratio (95% CI) | 0.58 (0.47, 0.72) | 0.58 (0.46, 0.72) | --- |
 | p-Value (stratified log-rank) | <0.001 | <0.001 | --- |
 | Best overall response by BICR |  |  |  |
-| ORR % (95% CI) | 33% (27, 39) | 34% (28, 40) | 12% (8, 16) |
-| Complete response % | 6% | 5% | 1% |
-| Partial response % | 27% | 29% | 10% |
+| ORR (95% CI) | 33% (27, 39) | 34% (28, 40) | 12% (8, 16) |
+| Complete response rate | 6% | 5% | 1% |
+| Partial response rate | 27% | 29% | 10% |
 
 Among the 91 patients randomized to KEYTRUDA 10 mg/kg every 3 weeks with an objective response, response durations ranged from 1.4+ to 8.1+ months.
 Among the 94 patients randomized to KEYTRUDA 10 mg/kg every 2 weeks with an objective response, response durations ranged from 1.4+ to 8.2 months.
@@ -79,9 +79,9 @@ Table 8: Efficacy Results in Trial 2
 | P Value (stratified log-rank) | <0.001 | <0.001 | --- |
 | Hazard ratioHazard ratio (KEYTRUDA compared to chemotherapy) based on the stratified Cox proportional hazard model (95% CI) | 0.57 (0.45, 0.73) | 0.50 (0.39, 0.64) | --- |
 | Objective Response Rate |  |  |  |
-| ORR, n% (95% CI) | 21% (15, 28) | 25% (19, 32) | 4% (2, 9) |
-| Complete response % | 2% | 3% | 0% |
-| Partial response % | 19% | 23% | 4% |
+| ORR (95% CI) | 21% (15, 28) | 25% (19, 32) | 4% (2, 9) |
+| Complete response rate | 2% | 3% | 0% |
+| Partial response rate | 19% | 23% | 4% |
 
 | Figure 2: Kaplan-Meier Curve for Progression-Free Survival in Trial 2 |
 | --- |
@@ -91,40 +91,128 @@ Among the 46 patients randomized to KEYTRUDA 10 mg/kg with an objective response
 
 ## 14.2 Non-Small Cell Lung Cancer
 
-The efficacy of KEYTRUDA was investigated in a sub-group of a cohort of 280 patients enrolled in a multicenter, open-label multi-cohort, activity-estimating study (Trial 3).
-The cohort consisted of patients with metastatic NSCLC that had progressed following platinum-containing chemotherapy, and if appropriate, targeted therapy for ALK or EGFR mutations and any evidence of PD-L1 expression by a clinical trial immunohistochemistry assay.
-Patients with autoimmune disease; a medical condition that required immunosuppression; or who had received more than 30 Gy of thoracic radiation within the prior 26 weeks were ineligible.
+First-line treatment of patients with NSCLC (Trial 5)
 
-A prospectively defined sub-group was retrospectively analyzed using an analytically validated test for PD-L1 expression tumor proportion score (TPS).
-This retrospectively identified sub-group of 61 patients accounts for 22% of the 280 patients in the cohort.
-Patients included in this sub-group had a PD-L1 expression TPS of greater than or equal to 50% tumor cells as determined by the PD-L1 IHC 22C3 pharmDx Kit.
-Patients received KEYTRUDA 10 mg/kg every 2 (n=27) or 3 (n=34) weeks until unacceptable toxicity or disease progression that was symptomatic, was rapidly progressive, required urgent intervention, occurred with a decline in performance status, or was confirmed at 4 to 6 weeks with repeat imaging.
+Trial 5 was a randomized, multicenter, open-label, active-controlled trial in patients with metastatic NSCLC, whose tumors had high PD-L1 expression [tumor proportion score (TPS) of 50% or greater] by an immunohistochemistry assay using the PD-L1 IHC 22C3 pharmDx Kit, and had not received prior systemic treatment for metastatic NSCLC.
+Patients with EGFR or ALK genomic tumor aberrations; autoimmune disease that required systemic therapy within 2 years of treatment; a medical condition that required immunosuppression; or who had received more than 30 Gy of radiation in the thoracic region within the prior 26 weeks of initiation of study were ineligible.
+Randomization was stratified by ECOG performance status (0 vs. 1), histology (squamous vs. non-squamous), and geographic region (East Asia vs. non-East Asia).
+Patients were randomized (1:1) to receive KEYTRUDA 200 mg intravenously every 3 weeks or investigator's choice of any of the following platinum-containing chemotherapy regimens:
+
+- Pemetrexed 500 mg/m2 every 3 weeks and carboplatin AUC 5 to 6 mg/mL/min every three weeks on Day 1 for 4 to 6 cycles followed by optional pemetrexed 500 mg/m2 every 3 weeks for patients with non-squamous histologies;
+- Pemetrexed 500 mg/m2 every 3 weeks and cisplatin 75 mg/m2 every 3 weeks on Day 1 for 4 to 6 cycles followed by optional pemetrexed 500 mg/m2 every 3 weeks for patients with non-squamous histologies;
+- Gemcitabine 1250 mg/m2 on days 1 and 8 and cisplatin 75 mg/m2 every 3 weeks on Day 1 for 4 to 6 cycles;
+- Gemcitabine 1250 mg/m2 on Days 1 and 8 and carboplatin AUC 5 to 6 mg/mL/min every 3 weeks on day 1 for 4 to 6 cycles;
+- Paclitaxel 200 mg/m2 every 3 weeks and carboplatin AUC 5 to 6 mg/mL/min every 3 weeks on Day 1 for 4 to 6 cycles followed by optional pemetrexed maintenance (for non-squamous histologies).
+
+Treatment with KEYTRUDA continued until RECIST 1.1-defined progression of disease as determined by an independent radiology committee, unacceptable toxicity, or for up to 24 months.
+Treatment could continue beyond disease progression if the patient was clinically stable and was considered to be deriving clinical benefit by the investigator.
+Patients randomized to chemotherapy were offered KEYTRUDA at the time of disease progression.
+
 Assessment of tumor status was performed every 9 weeks.
-The major efficacy outcome measures were ORR according to RECIST 1.1 as assessed by BICR and duration of response.
+The main efficacy outcome measure was PFS as assessed by a blinded independent central radiologists' (BICR) review according to RECIST 1.1.
+Additional efficacy outcome measures were OS and ORR as assessed by the BICR according to RECIST 1.1.
 
-Among the 61 patients with a TPS greater than or equal to 50%, the baseline characteristics were: median age 60 years (34% age 65 or older); 61% male; 79% White; and 34% and 64% with an ECOG PS 0 and 1, respectively.
-Disease characteristics were squamous (21%) and non-squamous (75%); M1 (98%); brain metastases (11%); one (26%), two (30%), or three or more (44%) prior therapies; and the incidence of genomic aberrations was EGFR (10%) or ALK (0%).
+A total of 305 patients were randomized: 154 patients to the KEYTRUDA arm and 151 to the chemotherapy arm.
+The study population characteristics were: median age of 65 years (range: 33 to 90), 54% age 65 or older; 61% male; 82% white and 15% Asian; 65% ECOG performance status of 1; 18% with squamous and 82% with non-squamous histology and 9% with history of brain metastases.
+A total of 66 patients in the chemotherapy arm received KEYTRUDA at the time of disease progression.
 
-Efficacy results are summarized in Table 9.
-The ORR and duration of response were similar regardless of schedule (every 2 weeks or every 3 weeks) and thus the data below are pooled.
+The trial demonstrated a statistically significant improvement in PFS for patients randomized to KEYTRUDA as compared with chemotherapy.
+Additionally, a pre-specified interim OS analysis at 108 events (64% of the events needed for final analysis) also demonstrated statistically significant improvement of OS for patients randomized to KEYTRUDA as compared with chemotherapy.
+Table 9 summarizes key efficacy measures for Trial 5.
 
-Table 9: Efficacy Results
+Table 9: Efficacy Results in Trial 5
 
-| Overall Response Rate |  |
-| --- | --- |
-| Endpoint | n=61 |
-| ORR %, (95% CI) | 41% (29, 54) |
-| Complete Response | 0% |
-| Partial Response | 41% |
+|  | n=154 | n=151 |
+| --- | --- | --- |
+| Endpoint | KEYTRUDA 200 mg every 3 weeks | Chemotherapy |
+| PFS |  |  |
+| Number (%) of patients with event | 73 (47%) | 116 (77%) |
+| Median in months (95% CI) | 10.3 (6.7, NR) | 6.0 (4.2, 6.2) |
+| Hazard ratioBased on the stratified Cox proportional hazard model (95% CI) | 0.50 (0.37, 0.68) |  |
+| p-Value (stratified log-rank) | <0.001 |  |
+| OS |  |  |
+| Number (%) of patients with event | 44 (29%) | 64 (42%) |
+| Median in months (95% CI) | NR (NR, NR) | NR (9.4, NR) |
+| Hazard ratio (95% CI) | 0.60 (0.41, 0.89) |  |
+| p-Value (stratified log-rank) | 0.005P-value is compared with 0.0118 of the allocated alpha for this interim analysis. |  |
+| Objective Response Rate |  |  |
+| ORR % (95% CI) | 45% (37, 53) | 28% (21, 36) |
+| Complete response % | 4% | 1% |
+| Partial response % | 41% | 27% |
+| p-Value (Miettenen-Nurminen) | 0.001 |  |
+| Median duration of response in months (range) | NR (1.9+, 14.5+) | 6.3 (2.1+, 12.6+) |
+| NR = not reached |  |  |
 
-Among the 25 responding patients, 21 (84%) patients had ongoing responses at the final analysis of ORR; 11 (44%) patients had ongoing responses of 6 months or longer.
+| Figure 3: Kaplan-Meier Curve for Overall Survival in Trial 5 |
+| --- |
 
-In a separate subgroup of 25 patients with limited follow-up with PD-L1 expression TPS greater than or equal to 50% receiving KEYTRUDA at a dose of 2 mg/kg every 3 weeks in Trial 3, activity was also observed.
+Previously treated NSCLC (Trial 3)
+
+Trial 3 was a randomized, multicenter, open-label, active-controlled trial in patients with metastatic NSCLC that had progressed following platinum-containing chemotherapy, and if appropriate, targeted therapy for EGFR or ALK genomic tumor aberrations.
+Eligible patients must have PD-L1 expression TPS of 1% or greater by an immunohistochemistry assay using the PD-L1 IHC 22C3 pharmDx Kit.
+Patients with autoimmune disease; a medical condition that required immunosuppression; or who had received more than 30 Gy of thoracic radiation within the prior 26 weeks were ineligible.
+Randomization was stratified by tumor PD-L1 expression (PD-L1 expression TPS ≥50% vs. PD-L1 expression TPS=1-49%), ECOG performance scale (0 vs. 1), and geographic region (East Asia vs. non-East Asia).
+Patients were randomized (1:1:1) to receive KEYTRUDA 2 mg/kg intravenously every 3 weeks, KEYTRUDA 10 mg/kg intravenously every 3 weeks or docetaxel intravenously 75 mg/m2 every 3 weeks until unacceptable toxicity or disease progression.
+Patients randomized to KEYTRUDA were permitted to continue until disease progression that was symptomatic, rapidly progressive, required urgent intervention, occurred with a decline in performance status, or confirmation of progression at 4 to 6 weeks with repeat imaging or for up to 24 months without disease progression.
+
+Assessment of tumor status was performed every 9 weeks.
+The main efficacy outcome measures were OS and PFS as assessed by the BICR according to RECIST 1.1 in the subgroup of patients with TPS ≥50% and the overall population with TPS ≥1%.
+Additional efficacy outcome measures were ORR and response duration in the subgroup of patients with TPS ≥50% and the overall population with TPS ≥1%.
+
+A total of 1033 patients were randomized: 344 to the KEYTRUDA 2 mg/kg arm, 346 patients to the KEYTRUDA 10 mg/kg arm, and 343 patients to the docetaxel arm.
+The study population characteristics were: median age 63 years (range: 20 to 88), 42% age 65 or older; 61% male; 72% White and 21% Asian; 66% ECOG performance status 1; 43% with high PD-L1 tumor expression; 21% with squamous, 70% with non-squamous, and 8% with mixed, other or unknown histology; 91% metastatic (M1) disease; 15% with history of brain metastases; and 8% and 1% with EGFR and ALK genomic aberrations, respectively.
+All patients had received prior therapy with a platinum-doublet regimen, 29% received two or more prior therapies for their metastatic disease.
+
+Tables 10 and 11 summarize key efficacy measures in the subgroup with TPS ≥50% population and in all patients, respectively.
+The Kaplan-Meier curve for OS (TPS ≥1%) is shown in Figure 4.
+
+Table 10: Efficacy Results of the Subgroup of Patients with TPS ≥50% in Trial 3
+
+| Endpoint | KEYTRUDA 2 mg/kg every 3 weeks n=139 | KEYTRUDA 10 mg/kg every 3 weeks n=151 | Docetaxel 75 mg/m2 every 3 weeks n=152 |
+| --- | --- | --- | --- |
+| OS |  |  |  |
+| Deaths (%) | 58 (42%) | 60 (40%) | 86 (57%) |
+| Median in months (95% CI) | 14.9 (10.4, NR) | 17.3 (11.8, NR) | 8.2 (6.4, 10.7) |
+| Hazard ratioHazard ratio (KEYTRUDA compared to docetaxel) based on the stratified Cox proportional hazard model (95% CI) | 0.54 (0.38, 0.77) | 0.50 (0.36, 0.70) | --- |
+| p-Value (stratified log-rank) | <0.001 | <0.001 | --- |
+| PFS |  |  |  |
+| Events (%) | 89 (64%) | 97 (64%) | 118 (78%) |
+| Median in months (95% CI) | 5.2 (4.0, 6.5) | 5.2 (4.1, 8.1) | 4.1 (3.6, 4.3) |
+| Hazard ratio (95% CI) | 0.58 (0.43, 0.77) | 0.59 (0.45, 0.78) | --- |
+| p-Value (stratified log-rank) | <0.001 | <0.001 | --- |
+| Objective response rate |  |  |  |
+| ORRAll responses were partial responses (95% CI) | 30% (23, 39) | 29% (22, 37) | 8% (4, 13) |
+| p-Value (Miettenen-Nurminen) | <0.001 | <0.001 | --- |
+| Median duration of response in months (range) | NR (0.7+, 16.8+) | NR (2.1+, 17.8+) | 8.1 (2.1+, 8.8+) |
+| NR = not reached |  |  |  |
+
+Table 11: Efficacy Results of All Randomized Patients (TPS ≥1%) in Trial 3
+
+| Endpoint | KEYTRUDA 2 mg/kg every 3 weeks n=344 | KEYTRUDA 10 mg/kg every 3 weeks n=346 | Docetaxel 75 mg/m2 every 3 weeks n=343 |
+| --- | --- | --- | --- |
+| OS |  |  |  |
+| Deaths (%) | 172 (50%) | 156 (45%) | 193 (56%) |
+| Median in months (95% CI) | 10.4 (9.4, 11.9) | 12.7 (10.0, 17.3) | 8.5 (7.5, 9.8) |
+| Hazard ratioHazard ratio (KEYTRUDA compared to docetaxel) based on the stratified Cox proportional hazard model (95% CI) | 0.71 (0.58, 0.88) | 0.61 (0.49, 0.75) | --- |
+| p-Value(stratified log-rank) | <0.001 | <0.001 | --- |
+| PFS |  |  |  |
+| Events (%) | 266 (77%) | 255 (74%) | 257 (75%) |
+| Median in months (95% CI) | 3.9 (3.1, 4.1) | 4.0 (2.6, 4.3) | 4.0 (3.1, 4.2) |
+| Hazard ratio (95% CI) | 0.88 (0.73, 1.04) | 0.79 (0.66, 0.94) | --- |
+| p-Value (stratified log-rank) | 0.068 | 0.005 | --- |
+| Objective response rate |  |  |  |
+| ORRAll responses were partial responses (95% CI) | 18% (14, 23) | 19% (15, 23) | 9% (7, 13) |
+| p-Value (Miettenen-Nurminen) | <0.001 | <0.001 | --- |
+| Median duration of response in months (range) | NR (0.7+, 20.1+) | NR (2.1+, 17.8+) | 6.2 (1.4+, 8.8+) |
+| NR = not reached |  |  |  |
+
+| Figure 4: Kaplan-Meier Curve for Overall Survival in all Randomized Patients in Trial 3 (TPS ≥1%) |
+| --- |
 
 ## 14.3 Head and Neck Cancer
 
 The efficacy of KEYTRUDA was investigated in Trial 4, a multicenter, nonrandomized, open-label, multi-cohort study that enrolled 174 patients with recurrent or metastatic HNSCC who had disease progression on or after platinum-containing chemotherapy administered for recurrent or metastatic HNSCC or following platinum-containing chemotherapy administered as part of induction, concurrent, or adjuvant therapy.
-Patients with active autoimmune disease, a medical condition that required immunosuppression, evidence of interstitial lung disease, or ECOG PS ≥ 2 were ineligible.
+Patients with active autoimmune disease, a medical condition that required immunosuppression, evidence of interstitial lung disease, or ECOG PS ≥2 were ineligible.
 
 Patients received KEYTRUDA 10 mg/kg every 2 weeks (n=53) or 200 mg every 3 weeks (n=121) until unacceptable toxicity or disease progression that was symptomatic, was rapidly progressive, required urgent intervention, occurred with a decline in performance status, or was confirmed at least 4 weeks later with repeat imaging.
 Patients without disease progression were treated for up to 24 months.
