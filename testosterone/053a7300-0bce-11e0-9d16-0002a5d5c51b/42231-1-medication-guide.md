@@ -212,10 +212,10 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Manufactured by: Pharbil Waltrop GmbH, Im Wirrigen 25, 45731 Waltrop, Germany
 
-Manufactured for: Endo Pharmaceuticals Inc. Malvern, PA 19355
+Distributed by: Endo Pharmaceuticals Inc. Malvern, PA 19355
 
-© 2015 Endo Pharmaceuticals Inc. All rights reserved.
+© 2016 Endo Pharmaceuticals Inc. All rights reserved.
 
-Revised: 05/2015
+Revised: 10/2016
 
-LFT-TOS-US-004
+LFT-TOS-US-006

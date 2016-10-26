@@ -40,48 +40,58 @@ To date, epidemiologic studies and randomized controlled trials have been inconc
 Some studies, but not all, have reported an increased risk of MACE in association with use of testosterone replacement therapy in men.
 Patients should be informed of this possible risk when deciding whether to use or to continue to use FORTESTA.
 
-## 5.6 Use in Women
+## 5.6 Abuse of Testosterone and Monitoring of Serum Testosterone Concentrations
+
+Testosterone has been subject to abuse, typically at doses higher than recommended for the approved indication and in combination with other anabolic androgenic steroids.
+Anabolic androgenic steroid abuse can lead to serious cardiovascular and psychiatric adverse reactions [see Drug Abuse and Dependence (9)].
+
+If testosterone abuse is suspected, check serum testosterone concentrations to ensure they are within therapeutic range.
+However, testosterone levels may be in the normal or subnormal range in men abusing synthetic testosterone derivatives.
+Counsel patients concerning the serious adverse reactions associated with abuse of testosterone and anabolic androgenic steroids.
+Conversely, consider the possibility of testosterone and anabolic androgenic steroid abuse in suspected patients who present with serious cardiovascular or psychiatric adverse events.
+
+## 5.7 Use in Women
 
 Due to the lack of controlled evaluations in women and potential virilizing effects, FORTESTA is not indicated for use in women [see Contraindications (4) and Use in Specific Populations (8.1, 8.3)].
 
-## 5.7 Potential for Adverse Effects on Spermatogenesis
+## 5.8 Potential for Adverse Effects on Spermatogenesis
 
 With large doses of exogenous androgens, including FORTESTA, spermatogenesis may be suppressed through feedback inhibition of pituitary FSH which could possibly lead to adverse effects on semen parameters including sperm count.
 
-## 5.8 Hepatic Adverse Effects
+## 5.9 Hepatic Adverse Effects
 
 Prolonged use of high doses of orally active 17-alpha-alkyl androgens (e.g. methyltestosterone) has been associated with serious hepatic adverse effects (peliosis hepatis, hepatic neoplasms, cholestatic hepatitis and jaundice).
 Peliosis hepatis can be a life-threatening or fatal complication.
 Long-term therapy with testosterone enanthate has produced multiple hepatic adenomas.
 FORTESTA is not known to cause these adverse effects.
 
-## 5.9 Edema
+## 5.10 Edema
 
 Androgens, including FORTESTA, may promote retention of sodium and water.
 Edema, with or without congestive heart failure, may be a serious complication in patients with pre-existing cardiac, renal, or hepatic disease [see Adverse Reactions (6.2)].
 
-## 5.10 Gynecomastia
+## 5.11 Gynecomastia
 
 Gynecomastia may develop and persist in patients being treated with androgens, including FORTESTA, for hypogonadism.
 
-## 5.11 Sleep Apnea
+## 5.12 Sleep Apnea
 
 The treatment of hypogonadal men with testosterone may potentiate sleep apnea in some patients, especially those with risk factors such as obesity or chronic lung diseases.
 
-## 5.12 Lipids
+## 5.13 Lipids
 
 Changes in serum lipid profile may require dose adjustment or discontinuation of testosterone therapy.
 
-## 5.13 Hypercalcemia
+## 5.14 Hypercalcemia
 
 Androgens, including FORTESTA, should be used with caution in cancer patients at risk of hypercalcemia (and associated hypercalciuria).
 Regular monitoring of serum calcium concentrations is recommended in these patients.
 
-## 5.14 Decreased Thyroxine-binding globulin
+## 5.15 Decreased Thyroxine-binding globulin
 
 Androgens, including FORTESTA, may decrease concentrations of thyroxin-binding globulins, resulting in decreased total T4 serum concentrations and increased resin uptake of T3 and T4.
 Free thyroid hormone concentrations remain unchanged, however, and there is no clinical evidence of thyroid dysfunction.
 
-## 5.15 Flammability
+## 5.16 Flammability
 
 Alcohol based products, including FORTESTA, are flammable; therefore, patients should be advised to avoid smoking, fire or flame until the FORTESTA gel has dried.
