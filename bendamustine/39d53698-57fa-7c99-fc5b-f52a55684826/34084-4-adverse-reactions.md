@@ -7,8 +7,9 @@ The following serious adverse reactions have been associated with TREANDA in cli
 - •Anaphylaxis and Infusion Reactions [see Warnings and Precautions (5.3)]
 - •Tumor Lysis Syndrome [see Warnings and Precautions (5.4)]
 - •Skin Reactions [see Warnings and Precautions (5.5)]
-- •Other Malignancies [see Warnings and Precautions (5.6)]
-- •Extravasation Injury [see Warnings and Precautions (5.7)]
+- •Hepatotoxicity [see Warnings and Precautions (5.6)]
+- •Other Malignancies [see Warnings and Precautions (5.7)]
+- •Extravasation Injury [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -205,8 +206,9 @@ General disorders and administration site conditions: Injection site reactions (
 
 Immune system disorders: Anaphylaxis
 
-Infections and infestations: Pneumocystis jiroveci pneumonia.
+Infections and infestations: Pneumocystis jiroveci pneumonia
 
 Respiratory, thoracic and mediastinal disorders: Pneumonitis
 
-Skin and subcutaneous tissue disorders: Stevens-Johnson syndrome (with concomitant allopurinol and other medications known to cause the syndrome), Toxic epidermal necrolysis (with concomitant allopurinol and other medications known to cause the condition) [see Warnings and Precautions (5.5)]
+Skin and subcutaneous tissue disorders: Stevens-Johnson syndrome, Toxic epidermal necrolysis, DRESS (Drug reaction with eosinophilia and systemic symptoms).
+[see Warnings and Precautions (5.5)]

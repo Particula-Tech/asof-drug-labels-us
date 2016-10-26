@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [see Warnings and Precautions (5.8)]
+Pregnancy Category D [see Warnings and Precautions (5.9)]
 
 Risk Summary
 
@@ -22,7 +22,7 @@ A significant increase in external [effect on tail, head, and herniation of exte
 There are no adequate and well-controlled studies in pregnant women.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
 
-## 8.3 Nursing Mothers
+## 8.2 Nursing Mothers
 
 It is not known whether this drug is excreted in human milk.
 Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants and tumorigenicity shown for bendamustine in animal studies, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.

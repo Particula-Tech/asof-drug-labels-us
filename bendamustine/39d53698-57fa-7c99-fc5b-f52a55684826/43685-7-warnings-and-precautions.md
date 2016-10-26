@@ -14,7 +14,7 @@ Prior to the initiation of the next cycle of therapy, the ANC should be ≥ 1 x 
 
 ## 5.2 Infections
 
-Infection, including pneumonia, sepsis, septic shock, hepatitis and death have occurred in adult and pediatric patients in clinical trials and in postmarketing reports.
+Infection, including pneumonia, sepsis, septic shock, hepatitis and death has occurred in adult and pediatric patients in clinical trials and in postmarketing reports.
 Patients with myelosuppression following treatment with TREANDA are more susceptible to infections.
 Advise patients with myelosuppression following TREANDA treatment to contact a physician if they have symptoms or signs of infection.
 
@@ -43,29 +43,30 @@ However, there may be an increased risk of severe skin toxicity when TREANDA and
 
 ## 5.5 Skin Reactions
 
-Skin reactions have been reported with TREANDA treatment in clinical trials and postmarketing safety reports, including rash, toxic skin reactions and bullous exanthema.
-Some events occurred when TREANDA was given in combination with other anticancer agents.
-
-In a study of TREANDA (90 mg/m2) in combination with rituximab, one case of toxic epidermal necrolysis (TEN) occurred.
-TEN has been reported for rituximab (see rituximab package insert).
-Cases of Stevens-Johnson syndrome (SJS) and TEN, some fatal, have been reported when TREANDA was administered concomitantly with allopurinol and other medications known to cause these syndromes.
-The relationship to TREANDA cannot be determined.
+Fatal and serious skin reactions have been reported with TREANDA treatment in clinical trials and postmarketing safety reports, including toxic skin reactions [Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN), and drug reaction with eosinophilia and systemic symptoms (DRESS)], bullous exanthema, and rash.
+Events occurred when TREANDA was given as a single agent and in combination with other anticancer agents or allopurinol.
 
 Where skin reactions occur, they may be progressive and increase in severity with further treatment.
 Monitor patients with skin reactions closely.
 If skin reactions are severe or progressive, withhold or discontinue TREANDA.
 
-## 5.6 Other Malignancies
+## 5.6 Hepatotoxicity
+
+Fatal and serious cases of liver injury have been reported with TREANDA.
+Combination therapy, progressive disease or reactivation of hepatitis B were confounding factors in some patients [see Warnings and Precautions (5.2)].
+Most cases were reported within the first three months of starting therapy.
+Monitor liver chemistry tests prior to and during bendamustine therapy.
+
+## 5.7 Other Malignancies
 
 There are reports of pre-malignant and malignant diseases that have developed in patients who have been treated with TREANDA, including myelodysplastic syndrome, myeloproliferative disorders, acute myeloid leukemia and bronchial carcinoma.
-The association with TREANDA therapy has not been determined.
 
-## 5.7 Extravasation Injury
+## 5.8 Extravasation Injury
 
 TREANDA extravasations have been reported in post marketing resulting in hospitalizations from erythema, marked swelling, and pain.
 Assure good venous access prior to starting TREANDA infusion and monitor the intravenous infusion site for redness, swelling, pain, infection, and necrosis during and after administration of TREANDA.
 
-## 5.8 Embryo-fetal Toxicity
+## 5.9 Embryo-fetal Toxicity
 
 TREANDA can cause fetal harm when administered to a pregnant woman.
 Single intraperitoneal doses of bendamustine in mice and rats administered during organogenesis caused an increase in resorptions, skeletal and visceral malformations, and decreased fetal body weights.
