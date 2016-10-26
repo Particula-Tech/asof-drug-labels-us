@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "NDA022104"
+  ],
+  "inn": "venlafaxine",
+  "labeler": "Trigen Laboratories, LLC",
+  "package_ndcs": [
+    "13811-712-30",
+    "13811-712-90",
+    "13811-713-30",
+    "13811-713-90",
+    "13811-714-30",
+    "13811-714-90",
+    "13811-715-30",
+    "13811-715-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "venlafaxine hydrochloride",
+      "name": "Venlafaxine Hydrochloride"
+    }
+  ],
+  "setid": "fdaed1c2-dd0a-4bf3-975a-86fe3e7f0c97",
+  "source": "dailymed"
+}
