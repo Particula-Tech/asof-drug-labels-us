@@ -29,7 +29,7 @@ Buprenorphine sublingual tablet dosing should be initiated preferably when moder
 ## 2.2 Maintenance
 
 - Buprenorphine and naloxone is preferred for maintenance treatment.
-- Where buprenorphine is used in maintenance in patients who cannot tolerate the presence of naloxone, the dosage of buprenorphine should be progressively adjusted in increments decrements of 2 mg or 4 mg buprenorphine to a level that holds the patient in treatment and suppresses opioid withdrawal signs and symptoms.
+- Where buprenorphine is used in maintenance in patients who cannot tolerate the presence of naloxone, the dosage of buprenorphine should be progressively adjusted in increments/decrements of 2 mg or 4 mg buprenorphine to a level that holds the patient in treatment and suppresses opioid withdrawal signs and symptoms.
 - The maintenance dose is generally in the range of 4 mg to 24 mg buprenorphine per day depending on the individual patient.
   Doses higher than this have not been demonstrated to provide any clinical advantage.
 

@@ -14,10 +14,10 @@ Instruct patients to read the Medication Guide each time buprenorphine sublingua
   Patients should be advised that if a child is exposed to buprenorphine sublingual tablet, medical attention should be sought immediately.
 - Inform patients that buprenorphine sublingual tablets could cause a rare but potentially life-threatening condition resulting from concomitant administration of serotonergic drugs.
   Warn patients of the symptoms of serotonin syndrome and to seek medical attention right away if symptoms develop.
-  Instruct patients to inform their physicians if they are taking, or plan to take serotonergic medications[see Drug Interactions (7.4)]
+  Instruct patients to inform their physicians if they are taking, or plan to take serotonergic medications [see Drug Interactions (7.4)].
 - Inform patients that buprenorphine sublingual tablets could cause adrenal insufficiency, a potentially life-threatening condition.
   Adrenal insufficiency may present with non-specific symptoms and signs such as nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
-  Advise patients to seek medical attention if they experience a constellation of these symptoms [see Warnings and Precautions (5.6)].
+  Advise patients to seek medical attention if they experience a constellation of these symptoms [see Warnings and Precautions (5.7)].
 - Patients should be advised never to give buprenorphine sublingual tablet to anyone else, even if he or she has the same signs and symptoms.
   It may cause harm or death.
 - Patients should be advised that selling or giving away this medication is against the law.
@@ -29,10 +29,9 @@ Instruct patients to read the Medication Guide each time buprenorphine sublingua
 - Patients seeking to discontinue treatment with buprenorphine for opioid dependence should be advised to work closely with their physicians on a tapering schedule and should be apprised of the potential to relapse to illicit drug use associated with discontinuation of opioid agonist/partial agonist medication-assisted treatment.
 - Patients should be cautioned that, like other opioids, buprenorphine sublingual tablet may produce orthostatic hypotension in ambulatory individuals [see Warnings and Precautions (5.13)].
 - Patients should inform their physicians if any other prescription medications, over-the-counter medications, or herbal preparations are prescribed or currently being used [see Drug Interactions (7.1, 7.2 and 7.3)].
-- Women of childbearing potential who become pregnant or are planning to become pregnant, should be advised to consult their physician regarding the possible effects of using buprenorphine sublingual tablet during pregnancy [see Specific Populations (8.1)].
+- Advise women that if they are pregnant while being treated with buprenorphine sublingual tablets, the baby may have signs of withdrawal at birth and that withdrawal is treatable [see Warnings and Precautions (5.5), Specific Populations (8.1)].
 - Patients should be warned that buprenorphine passes into breast milk.
-  Breast feeding is therefore not advised in mothers treated with buprenorphine products.
-  [see Specific Populations (8.3)].
+  Breast feeding is therefore not advised in mothers treated with buprenorphine products [see Specific Populations (8.3)].
 - Patients should inform their family members that, in the event of emergency, the treating physician or emergency room staff should be informed that the patient is physically dependent on an opioid and that the patient is being treated with buprenorphine sublingual tablet.
 - Refer to the Medication Guide for additional information regarding the counseling information.
 
@@ -45,4 +44,4 @@ Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
 40-9095
 
-Revised – April 2016
+Revised – October 2016

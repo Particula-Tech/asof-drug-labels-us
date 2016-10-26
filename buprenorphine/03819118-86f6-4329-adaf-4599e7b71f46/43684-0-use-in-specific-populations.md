@@ -15,10 +15,15 @@ Embryofetal death was also observed in both rats and rabbits.
 
 Buprenorphine sublingual tablets should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-Clinical Considerations Disease-associated maternal and embryo-fetal risk Opioid dependence in pregnancy is associated with adverse obstetrical outcomes such as low birth weight, preterm birth, and fetal death.
+Clinical Considerations Disease-associated maternal and embryo-fetal risk Untreated opioid addiction in pregnancy is associated with adverse obstetrical outcomes such as low birth weight, preterm birth, and fetal death.
+In addition, untreated opioid addiction often results in continued or relapsing illicit opioid use.
 
-Fetal/neonatal adverse reactions Neonatal abstinence syndrome may occur in newborn infants of mothers who were on buprenorphine maintenance treatment.
-Observe newborns for poor feeding, diarrhea, irritability, tremor, rigidity, and seizures, and manage accordingly [see Warnings and Precautions (5.10)].
+Fetal/neonatal adverse reactions Neonatal opioid withdrawal syndrome may occur in newborn infants of mothers who are receiving treatment with buprenorphine sublingual tablets.
+
+Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea, and/or failure to gain weight.
+Signs of neonatal withdrawal usually occur in the first days after birth.
+The duration and severity of neonatal opioid withdrawal syndrome may vary.
+Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.5)].
 
 Labor or Delivery As with all opioids, use of buprenorphine prior to delivery may result in respiratory depression in the newborn.
 

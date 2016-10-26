@@ -69,8 +69,7 @@ Before taking buprenorphine sublingual tablets, tell your doctor if you:
 - Have mental problems such as hallucinations (seeing or hearing things that are not there)
 - Have any other medical condition
 - Are pregnant or plan to become pregnant.
-  It is not known if buprenorphine sublingual tablets will harm your unborn baby.
-  If you take buprenorphine sublingual tablets while pregnant, your baby may have symptoms of withdrawal at birth.
+  If you take buprenorphine sublingual tablets while pregnant, your baby may have symptoms of opioid withdrawal or respiratory depression at birth.
   Talk to your doctor if you are pregnant or plan to become pregnant.
 - Are breastfeeding or plan to breastfeed.
   Buprenorphine hydrochloride can pass into your milk and may harm the baby.
@@ -199,4 +198,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 40-9095
 
-(MG 41-1125/0416)
+(MG 41-1125/1016)
