@@ -194,10 +194,10 @@ Inactive ingredients: purified water, pentadecalactone, carbopol, acrylates, pro
 
 This Medication Guide has been approved by the US Food and Drug Administration.
 
-Manufactured for: Auxilium Pharmaceuticals, Inc. Malvern, PA 19355 USA
+Distributed by: Endo Pharmaceuticals Inc. Malvern, PA 19355
 
 By: DPT Laboratories, Ltd. San Antonio, TX 78215
 
-PL-0705-002.f
+Revised: 10/2016
 
-Revised: 05/2015
+140716

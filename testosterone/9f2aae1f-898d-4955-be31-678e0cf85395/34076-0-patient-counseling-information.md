@@ -53,10 +53,10 @@ Patients should be informed that treatment with androgens may lead to adverse re
 - Wait 2 hours before swimming or washing following application of Testim.
   This will ensure that the greatest amount of Testim is absorbed into their system.
 
-Manufactured for: Auxilium Pharmaceuticals, Inc. Malvern, PA 19355 USA
+Distributed by: Endo Pharmaceuticals Inc. Malvern, PA 19355 USA
 
 Manufactured by: DPT Laboratories, Ltd. San Antonio, TX 78215
 
 US Patent Nos. 7,320,968; 7,608,605; 7,608,606; 7,608,607; 7,608,608; 7,608,609; 7,608,610; 7,935,690; 8,063,029; 8,178,518
 
-PL-0705-001.f
+140721

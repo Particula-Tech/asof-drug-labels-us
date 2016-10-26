@@ -11,4 +11,4 @@ Store at 20° to 25°C (68°F to 77°F).
 Excursions permitted to 15°-30°C (59°-86°F) [See USP Controlled Room Temperature].
 
 Discard used Testim tubes in household trash in a manner that prevents accidental exposure of women, children, or pets [see Boxed Warning and Warnings and Precautions (5.2)].
-Contents are flammable [see Warnings and Precautions (5.15)].
+Contents are flammable [see Warnings and Precautions (5.16)].
