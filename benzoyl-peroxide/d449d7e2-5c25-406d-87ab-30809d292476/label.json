@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA065385"
+  ],
+  "inn": "benzoyl-peroxide",
+  "labeler": "Rising Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "64980-328-01",
+    "64980-328-02"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "erythromycin and benzoyl peroxide",
+      "name": "Erythromycin and Benzoyl Peroxide"
+    }
+  ],
+  "setid": "d449d7e2-5c25-406d-87ab-30809d292476",
+  "source": "dailymed"
+}
