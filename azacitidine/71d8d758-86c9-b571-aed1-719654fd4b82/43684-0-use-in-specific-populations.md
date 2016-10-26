@@ -2,15 +2,19 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [see Warning and Precautions (5.4)]
+Risk Summary
 
-Azacitidine for injection may cause fetal harm when administered to a pregnant woman.
-Azacitidine was teratogenic in animals.
-There are no adequate and well controlled studies with azacitidine for injection in pregnant women.
-Women of childbearing potential should be advised to avoid pregnancy during treatment with azacitidine for injection.
-If this drug is used during pregnancy or if a patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
+Based on its mechanism of action and findings in animals, azacitidine for injection can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1)].
+There are no data on the use of azacitidine in pregnant women.
+Azacitidine was teratogenic and caused embryo-fetal lethality in animals at doses lower than the recommended human daily dose [see Data].
+Advise pregnant women of the potential risk to the fetus.
 
-Female partners of male patients receiving azacitidine for injection should not become pregnant [see Nonclinical Toxicology (13.1)].
+The background rate of major birth defects and miscarriage is unknown for the indicated population.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+Data
+
+Animal Data
 
 Early embryotoxicity studies in mice revealed a 44% frequency of intrauterine embryonal death (increased resorption) after a single IP (intraperitoneal) injection of 6 mg/m2 (approximately 8% of the recommended human daily dose on a mg/m2 basis) azacitidine on gestation day 10.
 Developmental abnormalities in the brain have been detected in mice given azacitidine on or before gestation day 15 at doses of ~3 to 12 mg/m2 (approximately 4% to 16% the recommended human daily dose on a mg/m2 basis).
@@ -20,10 +24,32 @@ Azacitidine caused multiple fetal abnormalities in rats after a single IP dose o
 In this study azacitidine caused fetal death when administered at 3 to 12 mg/m2 on gestation days 9 and 10; average live animals per litter was reduced to 9% of control at the highest dose on gestation day 9.
 Fetal anomalies included: CNS anomalies (exencephaly/encephalocele), limb anomalies (micromelia, club foot, syndactyly, oligodactyly), and others (micrognathia, gastroschisis, edema, and rib abnormalities).
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-It is not known whether azacitidine or its metabolites are excreted in human milk.
-Because many drugs are excreted in human milk and becauseof the potential for tumorigenicity shown for azacitidine in animal studies and the potential for serious adverse reactions in nursing infants from azacitidine for injection, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into consideration the importance of the drug to the mother.
+Risk Summary
+
+There is no information regarding the presence of azacitidine in human milk, the effects of azacitidine for injection on the breastfed infant, or the effects of azacitidine for injection on milk production.
+Because many drugs are excreted in human milk and because of the potential for tumorigenicity shown for azacitidine in animal studies [see Nonclinical Toxicology (13.1)] and the potential for serious adverse reactions in nursing infants from azacitidine for injection, advise patients not to breastfeed during treatment with azacitidine for injection.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Based on its mechanism of action and findings in animals, azacitidine for injection can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
+
+Pregnancy Testing
+
+Verify the pregnancy status of females of reproductive potential prior to initiating azacitidine for injection.
+
+Contraception
+
+Females
+
+Advise females of reproductive potential to avoid pregnancy during treatment with azacitidine for injection.
+
+Males
+
+Males with female sexual partners of reproductive potential should not father a child and should use effective contraception during treatment with azacitidine for injection.
+
+Infertility Based on animal data, azacitidine could have an effect on male or female fertility [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
@@ -40,11 +66,11 @@ Survival data for patients 65 years and older were consistent with overall survi
 The majority of adverse reactions occurred at similar frequencies in patients < 65 years of age and patients 65 years of age and older.
 
 Elderly patients are more likely to have decreased renal function.
-Monitor renal function in these patients [see Dosage and Administration (2.5) and Warnings and Precautions (5.3)].
+Monitor renal function in these patients [see Dosage and Administration(2.5) and Warnings and Precautions(5.3)].
 
 ## 8.6 Renal Impairment
 
-Severe renal impairment (CLcr < 30 mL/min) has no major effect on the exposure of azacitidine after multiple SC administrations.
+Severe renal impairment (creatinine clearance [CLcr] < 30 mL/min) has no major effect on the exposure of azacitidine after multiple SC administrations.
 Therefore, azacitidine can be administered to patients with renal impairment without Cycle 1 dose adjustment [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Gender

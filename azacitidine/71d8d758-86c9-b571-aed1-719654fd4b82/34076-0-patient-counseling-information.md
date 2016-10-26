@@ -1,10 +1,24 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Instruct patients to inform their physician about any underlying liver or renal disease.
+Hepatotoxicity in Patients with Severe Pre-Existing Hepatic Impairment
 
-Advise women of childbearing potential to avoid becoming pregnant while receiving treatment with azacitidine for injection.
-For nursing mothers, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into consideration the importance of the drug to the mother.
-Advise men not to father a child while receiving treatment with azacitidine for injection.
+Instruct patients to inform their physician about any underlying liver disease [see Warnings and Precautions (5.2)].
+
+Renal Toxicity
+
+Instruct patients to inform their physician about any underlying renal disease [see Warnings and Precautions (5.3) and Use in Specific Populations (8.6)].
+
+Embryo-Fetal Risk
+
+Advise pregnant women of the potential risk to a fetus [see Warnings and Precautions (5.5) and Use in Specific Populations(8.1)].
+
+Advise females of reproductive potential to avoid pregnancy during treatment with azacitidine for injection.
+Advise males with female sexual partners of reproductive potential to not father a child and to use effective contraception during treatment with azacitidine for injection.
+Advise patients to report pregnancy to their physicians immediately [see Warnings and Precautions (5.5) and Use in Specific Populations (8.3)].
+
+Lactation
+
+Advise patients to avoid breastfeeding while receiving azacitidine for injection [see Use in Specific Populations (8.2)].
 
 Rx only
 
@@ -22,7 +36,7 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 0116
+Revised: 1016
 
 OR
 
@@ -32,4 +46,4 @@ Dr. Reddy’s Laboratories Limited
 
 Visakhapatnam - 530 046 INDIA
 
-Revised: 0116
+Revised: 1016

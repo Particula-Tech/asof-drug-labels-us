@@ -2,11 +2,15 @@
 
 The following adverse reactions are described in other labeling sections:
 
-• Anemia, neutropenia and thrombocytopenia [see Warnings and Precautions (5.1)]
+• Anemia, Neutropenia and Thrombocytopenia [see Warnings and Precautions (5.1)]
 
-• Hepatic coma [see Warnings and Precautions (5.2)]
+• Hepatotoxicity in Patients with Severe Pre-existing Hepatic Impairment [see Warnings and Precautions (5.2)]
 
-• Elevated serum creatinine, renal failure, and renal tubular acidosis [see Warnings and Precautions (5.3)]
+• Renal Toxicity [see Warnings and Precautions (5.3)]
+
+• Tumor Lysis Syndrome [see Warnings and Precautions (5.4)]
+
+• Embryo-Fetal Risk [see Warnings and Precautions (5.5)]
 
 Most Commonly Occurring Adverse Reactions (SC or IV Route): nausea, anemia, thrombocytopenia, vomiting, pyrexia, leukopenia, diarrhea, injection site erythema, constipation, neutropenia, ecchymosis.
 The most common adverse reactions by IV route also included petechiae, rigors, weakness and hypokalemia.
