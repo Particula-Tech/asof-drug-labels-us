@@ -16,5 +16,3 @@ Budesonide (glucocorticoid) Nasal spray, 32 mcg per spray Nasal Allergy Symptom 
 - Sneezing
 
 60 SPRAYS 0.169 fl oz (5 ml)
-
-NEW!

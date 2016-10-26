@@ -28,7 +28,7 @@ Stop use and ask a doctor if
 - you have any change in vision
 - you have severe or frequent nosebleeds
 
-If pregnant or breast-feeding: ask a health professional before use.
+If pregnant or breast-feeding, ask a health professional before use.
 
 Keep out of reach of children.
 
