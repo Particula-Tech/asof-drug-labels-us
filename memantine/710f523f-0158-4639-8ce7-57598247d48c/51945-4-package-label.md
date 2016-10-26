@@ -1,4 +1,4 @@
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 7 MG BOTTLE LABEL
+PRINCIPAL DISPLAY PANEL - 7 mg Bottle Label
 
 Rx Only
 
@@ -8,7 +8,7 @@ NDC 0456-3407-33
 
 Once-Daily
 
-Namenda XR™
+Namenda XR®
 
 (memantine HCl) extended release capsules
 
@@ -16,7 +16,11 @@ Namenda XR™
 
 FOREST PHARMACEUTICALS, INC.
 
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 14 MG BOTTLE LABEL
+Subsidiary of Forest Laboratories, LLC
+
+Cincinnati, Ohio 45209
+
+PRINCIPAL DISPLAY PANEL - 14 mg Bottle Label
 
 Rx Only
 
@@ -26,7 +30,7 @@ NDC 0456-3414-33
 
 Once-Daily
 
-Namenda XR™
+Namenda XR®
 
 (memantine HCl) extended release capsules
 
@@ -34,9 +38,13 @@ Namenda XR™
 
 FOREST PHARMACEUTICALS, INC.
 
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 21 MG BOTTLE LABEL
+Subsidiary of Forest Laboratories, LLC
 
-Rx only
+Cincinnati, Ohio 45209
+
+PRINCIPAL DISPLAY PANEL - 21 mg Bottle Label
+
+Rx Only
 
 NDC 0456-3421-33
 
@@ -44,17 +52,21 @@ NDC 0456-3421-33
 
 Once-Daily
 
-Namenda XR™
+Namenda XR®
 
 (memantine HCl) extended release capsules
 
 21 mg
 
-Forest Pharmaceuticals, Inc.
+FOREST PHARMACEUTICALS, INC.
 
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 28 MG BOTTLE LABEL
+Subsidiary of Forest Laboratories, LLC
 
-Rx only
+Cincinnati, Ohio 45209
+
+PRINCIPAL DISPLAY PANEL - 28 mg Bottle Label
+
+Rx Only
 
 NDC 0456-3428-33
 
@@ -62,13 +74,17 @@ NDC 0456-3428-33
 
 Once-Daily
 
-Namenda XR™
+Namenda XR®
 
 (memantine HCl) extended release capsules
 
 28 mg
 
-Forest Pharmaceuticals, Inc.
+FOREST PHARMACEUTICALS, INC.
+
+Subsidiary of Forest Laboratories, LLC
+
+Cincinnati, Ohio 45209
 
 PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 14 MG CARTON
 

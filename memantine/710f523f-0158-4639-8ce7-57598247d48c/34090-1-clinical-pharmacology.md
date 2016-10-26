@@ -8,7 +8,7 @@ There is no evidence that memantine prevents or slows neurodegeneration in patie
 
 ## 12.2 Pharmacodynamics
 
-Memantine showed low to negligible affinity for GABA, benzodiazepine, dopamine, adrenergic, histamine and glycine receptors and for voltage-dependent Ca2+, Na+ or K+ channels.
+Memantine showed low to negligible affinity for GABA, benzodiazepine, dopamine, adrenergic, histamine and glycine receptors and for voltage-dependent Ca2+, Na+, or K+ channels.
 Memantine also showed antagonistic effects at the 5HT3 receptor with a potency similar to that for the NMDA receptor and blocked nicotinic acetylcholine receptors with one-sixth to one-tenth the potency.
 
 In vitro studies have shown that memantine does not affect the reversible inhibition of acetylcholinesterase by donepezil, galantamine, or tacrine.
@@ -17,11 +17,11 @@ In vitro studies have shown that memantine does not affect the reversible inhibi
 
 Memantine is well absorbed after oral administration and has linear pharmacokinetics over the therapeutic dose range.
 It is excreted predominantly unchanged in urine and has a terminal elimination half-life of about 60-80 hours.
-In a study comparing 28 mg once daily NAMENDA XR to 10 mg twice daily NAMENDA Cmax and AUC0-24 values were 48% and 33% higher for the XR dosage regimen, respectively.
+In a study comparing 28 mg once daily NAMENDA XR to 10 mg twice daily NAMENDA, the Cmax and AUC0-24 values were 48% and 33% higher for the XR dosage regimen, respectively.
 
 Absorption
 
-After multiple dose administration of NAMENDA XR, memantine peak concentrations occur around 9-12 hours postdose.
+After multiple dose administration of NAMENDA XR, memantine peak concentrations occur around 9-12 hours post-dose.
 There is no difference in the absorption of NAMENDA XR when the capsule is taken intact or when the contents are sprinkled on applesauce.
 
 There is no difference in memantine exposure, based on Cmax or AUC, for NAMENDA XR whether that drug product is administered with food or on an empty stomach.
@@ -43,15 +43,15 @@ About 48% of administered drug is excreted unchanged in urine; the remainder is 
 A total of 74% of the administered dose is excreted as the sum of the parent drug and the N-glucuronide conjugate.
 Renal clearance involves active tubular secretion moderated by pH dependent tubular reabsorption.
 
-## 12.4 Pharmacokinetics in Special Populations
+Specific Populations
 
-Hepatic Impairment
+Elderly
 
-Memantine pharmacokinetics were evaluated following the administration of single oral doses of 20 mg in 8 subjects with moderate hepatic impairment (Child-Pugh Class B,score 7-9) and 8 subjects who were age-, gender-, and weight-matched to the hepatically-impaired subjects.
-There was no change in memantine exposure (based on Cmax and AUC) in subjects with moderate hepatic impairment as compared with healthy subjects.
-However, terminal elimination half-life increased by about 16% in subjects with moderate hepatic impairment as compared with healthy subjects.
-No dose adjustment is recommended for patients with mild and moderate hepatic impairment.
-NAMENDA XR should be administered with caution to patients with severe hepatic impairment as the pharmacokinetics of memantine have not been evaluated in that population.
+The pharmacokinetics of memantine in young and elderly subjects are similar.
+
+Gender
+
+Following multiple dose administration of memantine HCl 20 mg daily, females had about 45% higher exposure than males, but there was no difference in exposure when body weight was taken into account.
 
 Renal Impairment
 
@@ -59,13 +59,41 @@ Memantine pharmacokinetics were evaluated following single oral administration o
 Mean AUC0-∞ increased by 4%, 60%, and 115% in subjects with mild, moderate, and severe renal impairment, respectively, compared to healthy subjects.
 The terminal elimination half-life increased by 18%, 41%, and 95% in subjects with mild, moderate, and severe renal impairment, respectively, compared to healthy subjects.
 
-No dosage adjustment is recommended for patients with mild and moderate renal impairment.
-Dosage should be reduced in patients with severe renal impairment [See Dosage and Administration (2)].
+Hepatic Impairment
 
-Gender
+Memantine pharmacokinetics were evaluated following the administration of single oral doses of 20 mg in 8 subjects with moderate hepatic impairment (Child-Pugh Class B, score 7-9) and 8 subjects who were age-, gender-, and weight-matched to the hepatically-impaired subjects.
+There was no change in memantine exposure (based on Cmax and AUC) in subjects with moderate hepatic impairment as compared with healthy subjects.
+However, terminal elimination half-life increased by about 16% in subjects with moderate hepatic impairment as compared with healthy subjects.
 
-Following multiple dose administration of memantine HCl 20 mg daily, females had about 45% higher exposure than males, but there was no difference in exposure when body weight was taken into account.
+Drug-Drug Interactions
 
-Elderly
+Use with Cholinesterase Inhibitors
 
-The pharmacokinetics of memantine in young and elderly subjects are similar.
+Coadministration of memantine with the AChE inhibitor donepezil HCl did not affect the pharmacokinetics of either compound.
+Furthermore, memantine did not affect AChE inhibition by donepezil.
+In a 24-week controlled clinical study in patients with moderate to severe Alzheimer's disease, the adverse reaction profile observed with a combination of memantine immediate-release and donepezil was similar to that of donepezil alone.
+
+Effect of Memantine on the Metabolism of Other Drugs
+
+In vitro studies conducted with marker substrates of CYP450 enzymes (CYP1A2, -2A6, -2C9, -2D6, -2E1, -3A4) showed minimal inhibition of these enzymes by memantine.
+In addition, in vitro studies indicate that at concentrations exceeding those associated with efficacy, memantine does not induce the cytochrome P450 isozymes CYP1A2, -2C9, -2E1 and -3A4/5.
+No pharmacokinetic interactions with drugs metabolized by these enzymes are expected.
+
+Pharmacokinetic studies evaluated the potential of memantine for interaction with warfarin and bupropion.
+Memantine did not affect the pharmacokinetics of the CYP2B6 substrate bupropion or its metabolite hydroxybupropion.
+Furthermore, memantine did not affect the pharmacokinetics or pharmacodynamics of warfarin as assessed by the prothrombin INR.
+
+Effect of Other Drugs on Memantine
+
+Memantine is predominantly renally eliminated, and drugs that are substrates and/or inhibitors of the CYP450 system are not expected to alter the metabolism of memantine.
+
+Drugs Eliminated via Renal Mechanisms
+
+Because memantine is eliminated in part by tubular secretion, coadministration of drugs that use the same renal cationic system, including hydrochlorothiazide (HCTZ), triamterene (TA), metformin, cimetidine, ranitidine, quinidine, and nicotine, could potentially result in altered plasma levels of both agents.
+However, coadministration of memantine and HCTZ/TA did not affect the bioavailability of either memantine or TA, and the bioavailability of HCTZ decreased by 20%.
+In addition, coadministration of memantine with the antihyperglycemic drug Glucovance (glyburide and metformin HCl) did not affect the pharmacokinetics of memantine, metformin and glyburide.
+Furthermore, memantine did not modify the serum glucose lowering effect of Glucovance, indicating the absence of a pharmacodynamic interaction.
+
+Drugs Highly Bound to Plasma Proteins
+
+Because the plasma protein binding of memantine is low (45%), an interaction with drugs that are highly bound to plasma proteins, such as warfarin and digoxin, is unlikely.

@@ -35,11 +35,19 @@ Figure 1 shows the time course for the change from baseline in SIB score for the
 At 24 weeks of treatment, the mean difference in the SIB change scores for the NAMENDA XR 28 mg/AChEI-treated (combination therapy) patients compared to the patients on placebo/AChEI (monotherapy) was 2.6 units.
 Using an LOCF analysis, NAMENDA XR 28 mg/AChEI treatment was statistically significantly superior to placebo/AChEI.
 
+Figure 1: Time course of the change from baseline in SIB score for patients completing 24 weeks of treatment.
+
 Figure 2 shows the cumulative percentages of patients from each treatment group who had attained at least the measure of improvement in SIB score shown on the X axis.
 The curves show that both patients assigned to NAMENDA XR 28 mg/AChEI and placebo/AChEI have a wide range of responses, but that the NAMENDA XR 28 mg/AChEI group is more likely to show an improvement or a smaller decline.
+
+Figure 2: Cumulative percentage of patients completing 24 weeks of double-blind treatment with specified changes from baseline in SIB scores.
 
 Figure 3 shows the time course for the CIBIC-Plus score for patients in the two treatment groups completing the 24 weeks of the study.
 At 24 weeks of treatment, the mean difference in the CIBIC-Plus scores for the NAMENDA XR 28 mg/AChEI-treated patients compared to the patients on placebo/AChEI was 0.3 units.
 Using an LOCF analysis, NAMENDA XR 28 mg/AChEI treatment was statistically significantly superior to placebo/AChEI.
 
+Figure 3: Time course of the CIBIC-Plus score for patients completing 24 weeks of treatment.
+
 Figure 4 is a histogram of the percentage distribution of CIBIC-Plus scores attained by patients assigned to each of the treatment groups who completed 24 weeks of treatment.
+
+Figure 4: Distribution of CIBIC-Plus ratings at week 24.

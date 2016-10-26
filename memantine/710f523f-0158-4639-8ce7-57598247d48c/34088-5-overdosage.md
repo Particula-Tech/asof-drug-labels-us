@@ -6,9 +6,9 @@ This person experienced coma, diplopia, and agitation, but subsequently recovere
 
 One patient participating in a NAMENDA XR clinical trial unintentionally took 112 mg of NAMENDA XR daily for 31 days and experienced an elevated serum uric acid, elevated serum alkaline phosphatase, and low platelet count.
 
-No fatalities have been noted with overdoses of memantine alone.
-A fatal outcome has very rarely been reported when memantine has been ingested as part of overdosing with multiple drugs; in those instances, the relationship between memantine and a fatal outcome has been unclear.
+Fatal outcome has been very rarely been reported with memantine, and the relationship to memantine was unclear.
 
 Because strategies for the management of overdose are continually evolving, it is advisable to contact a poison control center to determine the latest recommendations for the management of an overdose of any drug.
 As in any cases of overdose, general supportive measures should be utilized, and treatment should be symptomatic.
+
 Elimination of memantine can be enhanced by acidification of urine.
