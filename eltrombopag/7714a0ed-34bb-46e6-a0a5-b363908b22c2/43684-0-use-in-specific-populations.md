@@ -46,7 +46,7 @@ No overall differences in safety or effectiveness were observed between these pa
 
 Hepatic impairment influences the exposure of PROMACTA [see Clinical Pharmacology (12.3)].
 
-Reduce the initial dose of PROMACTA in patients with chronic ITP (adults and pediatric patients 6 years and older only) or severe aplastic anemia who also have hepatic impairment (Child-Pugh Class A, B, C) [see Dosage and Administration (2.1, 2.3), Warnings and Precautions (5.2)].
+Reduce the initial dose of PROMACTA in patients with chronic ITP (adult and pediatric patients 6 years and older only) or severe aplastic anemia who also have hepatic impairment (Child-Pugh Class A, B, C) [see Dosage and Administration (2.1, 2.3), Warnings and Precautions (5.2)].
 No dosage adjustment is necessary for patients with chronic hepatitis C and hepatic impairment [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment

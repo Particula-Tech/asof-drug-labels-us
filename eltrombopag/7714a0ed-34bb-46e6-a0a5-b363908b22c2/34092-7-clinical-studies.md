@@ -60,8 +60,9 @@ Outcomes of Treatment from Trial 3 in Adults with Chronic Immune (Idiopathic) Th
 Among 94 patients receiving other ITP therapy at baseline, 37 (59%) of 63 patients treated with PROMACTA and 10 (32%) of 31 patients in the placebo group discontinued concomitant therapy at some time during the trial.
 
 Extension Trial: Patients who completed any prior clinical trial with PROMACTA were enrolled in an open-label, single-arm trial in which attempts were made to decrease the dose or eliminate the need for any concomitant ITP medications.
-PROMACTA was administered to 299 patients; 249 completed 6 months, 210 patients completed 12 months, and 138 patients completed 24 months of therapy.
+PROMACTA was administered to 302 patients; 218 patients completed 1 year, 180 patients completed 2 years, 107 patients completed 3 years, 75 patients completed 4 years, 34 patients completed 5 years, and 18 patients completed 6 years of therapy.
 The median baseline platelet count was 19 x 109/L prior to administration of PROMACTA.
+Median platelet counts at 1, 2, 3, 4, 5, 6, and 7 years on study were 85 x 109/L, 85 x 109/L, 105 x 109/L, 64 x 109/L, 75 x 109/L, 119 x 109/L, and 76 x 109/L, respectively.
 
 Pediatric Patients: The efficacy and safety of PROMACTA in pediatric patients 1 year and older with chronic ITP were evaluated in two double-blind, placebo-controlled trials.
 The trials differed in time since ITP diagnosis: at least 6 months versus at least 12 months.
@@ -199,7 +200,7 @@ Hematologic Response in Patients with Severe Aplastic Anemia
 | Outcome | PROMACTAN = 43 |
 | --- | --- |
 | Response ratea, n (%) 95% CI (%) | 17 (40)(25, 56) |
-| Median of duration of response in months (95%CI) | NRb (3.0, NRb) |
+| Median of duration of response in months (95% CI) | NRb (3.0, NRb) |
 | a Includes single- and multi-lineage. b NR = Not reached due to few events (relapsed). |  |
 
 In the 17 responders, the platelet transfusion-free period ranged from 8 to 1,096 days with a median of 200 days, and the RBC transfusion-free period ranged from 15 to 1,082 days with a median of 208 days.

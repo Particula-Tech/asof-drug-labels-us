@@ -31,7 +31,7 @@ Dose Adjustments of PROMACTA in Patients with Chronic Immune (Idiopathic) Thromb
 | Platelet Count Result | Dose Adjustment or Response |
 | --- | --- |
 | <50 x 109/L following at least 2 weeks of PROMACTA | Increase daily dose by 25 mg to a maximum of 75 mg/day. For patients taking 12.5 mg once daily, increase the dose to 25 mg daily before increasing the dose amount by 25 mg. |
-| ≥200 x 109/L to ≤400 x 109/L at any time | Decrease the daily dose by 25 mg. Wait 2 weeks to assess the effects of this and any subsequent dose adjustments.For patients taking 25 mg once daily, decrease the dose to 12.5 mg once daily. |
+| ≥200 x 109/L to ≤400 x 109/L at any time | Decrease the daily dose by 25 mg. Wait 2 weeks to assess the effects of this and any subsequent dose adjustments. For patients taking 25 mg once daily, decrease the dose to 12.5 mg once daily. |
 | >400 x 109/L | Stop PROMACTA; increase the frequency of platelet monitoring to twice weekly. Once the platelet count is <150 x 109/L, reinitiate therapy at a daily dose reduced by 25 mg. For patients taking 25 mg once daily, reinitiate therapy at a daily dose of 12.5 mg. |
 | >400 x 109/L after 2 weeks of therapy at lowest dose of PROMACTA | Discontinue PROMACTA. |
 

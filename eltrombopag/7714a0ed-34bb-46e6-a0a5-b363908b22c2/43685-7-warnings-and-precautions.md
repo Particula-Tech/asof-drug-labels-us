@@ -9,13 +9,13 @@ Discontinue PROMACTA if antiviral therapy is discontinued.
 
 ## 5.2 Hepatotoxicity
 
-PROMACTA can cause liver enzyme elevations [see Adverse Reactions (6.1)].
+PROMACTA may increase the risk of severe and potentially life-threatening hepatotoxicity, [see Adverse Reactions (6.1)].
 Measure serum ALT, AST, and bilirubin prior to initiation of PROMACTA, every 2 weeks during the dose adjustment phase, and monthly following establishment of a stable dose.
 PROMACTA inhibits UDP-glucuronosyltransferase (UGT)1A1 and organic anion-transporting polypeptide (OATP)1B1, which may lead to indirect hyperbilirubinemia.
 If bilirubin is elevated, perform fractionation.
 Evaluate abnormal serum liver tests with repeat testing within 3 to 5 days.
 If the abnormalities are confirmed, monitor serum liver tests weekly until resolved or stabilized.
-Discontinue PROMACTA if ALT levels increase to greater than or equal to 3 x ULN in patients with normal liver function or greater than or equal to 3 x baseline in patients with pre-treatment elevations in transaminases and are:
+Discontinue PROMACTA if ALT levels increase to greater than or equal to 3 x ULN in patients with normal liver function or greater than or equal to 3 x baseline (or greater than 5 x ULN, whichever is the lower) in patients with pre-treatment elevations in transaminases and are:
 
 - progressively increasing, or
 - persistent for greater than or equal to 4 weeks, or
@@ -26,10 +26,11 @@ If the potential benefit for reinitiating treatment with PROMACTA is considered 
 Hepatotoxicity may reoccur if PROMACTA is reinitiated.
 If liver test abnormalities persist, worsen, or recur, then permanently discontinue PROMACTA.
 
-## 5.3 Thrombotic/Thromboembolic Complications
+Isolated cases of severe liver injury were identified in clinical trials.
+The elevation of liver laboratory values occurred approximately three months after initiation of PROMACTA.
+In all cases, the event resolved following PROMACTA discontinuation.
 
-In two controlled clinical trials in patients with chronic hepatitis C and thrombocytopenia, 3% (31/955) treated with PROMACTA experienced a thrombotic event compared with 1% (5/484) on placebo.
-The majority of events were of the portal venous system (1% in patients treated with PROMACTA versus less than 1% for placebo).
+## 5.3 Thrombotic/Thromboembolic Complications
 
 Thrombotic/thromboembolic complications may result from increases in platelet counts with PROMACTA.
 Reported thrombotic/thromboembolic complications included both venous and arterial events and were observed at low and at normal platelet counts.
@@ -37,6 +38,9 @@ Reported thrombotic/thromboembolic complications included both venous and arteri
 Consider the potential for an increased risk of thromboembolism when administering PROMACTA to patients with known risk factors for thromboembolism (e.g., Factor V Leiden, ATIII deficiency, antiphospholipid syndrome, chronic liver disease).
 To minimize the risk for thrombotic/thromboembolic complications, do not use PROMACTA in an attempt to normalize platelet counts.
 Follow the dose adjustment guidelines to achieve and maintain target platelet counts [see Dosage and Administration (2.1, 2.2, 2.3)].
+
+In two controlled clinical trials in patients with chronic hepatitis C and thrombocytopenia, 3% (31/955) treated with PROMACTA experienced a thrombotic event compared with 1% (5/484) on placebo.
+The majority of events were of the portal venous system (1% in patients treated with PROMACTA versus less than 1% for placebo).
 
 In a controlled trial in patients with chronic liver disease and thrombocytopenia not related to ITP undergoing elective invasive procedures (N = 292), the risk of thrombotic events was increased in patients treated with 75 mg of PROMACTA once daily.
 Seven thrombotic complications (six patients) were reported in the group that received PROMACTA and three thrombotic complications were reported in the placebo group (two patients).
@@ -48,7 +52,7 @@ The risk of portal venous thrombosis was increased in thrombocytopenic patients 
 ## 5.4 Cataracts
 
 In the three controlled clinical trials in adults with chronic ITP, cataracts developed or worsened in 15 (7%) patients who received 50 mg of PROMACTA daily and 8 (7%) placebo-group patients.
-In the extension trial, cataracts developed or worsened in 4% of patients who underwent ocular examination prior to therapy with PROMACTA.
+In the extension trial, cataracts developed or worsened in 11% of patients who underwent ocular examination prior to therapy with PROMACTA.
 In the two controlled clinical trials in patients with chronic hepatitis C and thrombocytopenia, cataracts developed or worsened in 8% of patients treated with PROMACTA and 5% of patients treated with placebo.
 
 Cataracts were observed in toxicology studies of eltrombopag in rodents [see Nonclinical Toxicology (13.2)].

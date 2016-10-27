@@ -12,7 +12,7 @@ Take PROMACTA at least 2 hours before or 4 hours after any medications or produc
 
 ## 7.2 Transporters
 
-Coadministration of PROMACTA with the OATP1B1 and BCRP substrate, rosuvastatin, to healthy adult subjects increased plasma rosuvastatin AUC0-∞ by 55% and Cmax by 103% [see Clinical Pharmacology (12.3)].
+Coadministration of PROMACTA with the OATP1B1 and BCRP substrate, rosuvastatin, to healthy adult subjects increased plasma rosuvastatin AUC0-INF by 55% and Cmax by 103% [see Clinical Pharmacology (12.3)].
 
 Use caution when concomitantly administering PROMACTA and drugs that are substrates of OATP1B1 (e.g., atorvastatin, bosentan, ezetimibe, fluvastatin, glyburide, olmesartan, pitavastatin, pravastatin, rosuvastatin, repaglinide, rifampin, simvastatin acid, SN-38 [active metabolite of irinotecan], valsartan) or BCRP (e.g., imatinib, irinotecan, lapatinib, methotrexate, mitoxantrone, rosuvastatin, sulfasalazine, topotecan).
 Monitor patients closely for signs and symptoms of excessive exposure to the drugs that are substrates of OATP1B1 or BCRP and consider reduction of the dose of these drugs, if appropriate.

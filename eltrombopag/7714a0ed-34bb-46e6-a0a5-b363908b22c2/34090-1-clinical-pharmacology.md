@@ -10,14 +10,14 @@ Absorption: Eltrombopag is absorbed with a peak concentration occurring 2 to 6 h
 Based on urinary excretion and biotransformation products eliminated in feces, the oral absorption of drug-related material following administration of a single 75-mg solution dose was estimated to be at least 52%.
 
 An open-label, randomized, crossover trial was conducted to assess the effect of food on the bioavailability of eltrombopag.
-A standard high-fat breakfast significantly decreased plasma eltrombopag AUC0-∞ by approximately 59% and Cmax by 65% and delayed Tmax by 1 hour.
+A standard high-fat breakfast significantly decreased plasma eltrombopag AUC0-INF by approximately 59% and Cmax by 65% and delayed Tmax by 1 hour.
 The calcium content of this meal may have also contributed to this decrease in exposure.
 
-In a second trial, administration of a single 25-mg dose of eltrombopag for oral suspension to adults with a high-calcium, moderate-fat, moderate-calorie meal reduced plasma eltrombopag AUC0-∞ by 75% (90% CI: 71%, 88%) and Cmax by 79% (90% CI: 76%, 82%).
-Administration of a single 25-mg dose of eltrombopag for oral suspension 2 hours after the high-calcium meal reduced plasma eltrombopag AUC0-∞ by 47% (90% CI: 40%, 53%) and Cmax by 48% (90% CI: 40%, 54%).
-Administration of a single 25-mg dose of eltrombopag for oral suspension 2 hours before the high-calcium meal reduced plasma eltrombopag AUC0-∞ by 20% (90% CI: 9%, 29%) and Cmax by 14% (90% CI: 2%, 25%).
+In a second trial, administration of a single 25-mg dose of eltrombopag for oral suspension to adults with a high-calcium, moderate-fat, moderate-calorie meal reduced plasma eltrombopag AUC0-INF by 75% (90% CI: 71%, 88%) and Cmax by 79% (90% CI: 76%, 82%).
+Administration of a single 25-mg dose of eltrombopag for oral suspension 2 hours after the high-calcium meal reduced plasma eltrombopag AUC0-INF by 47% (90% CI: 40%, 53%) and Cmax by 48% (90% CI: 40%, 54%).
+Administration of a single 25-mg dose of eltrombopag for oral suspension 2 hours before the high-calcium meal reduced plasma eltrombopag AUC0-INF by 20% (90% CI: 9%, 29%) and Cmax by 14% (90% CI: 2%, 25%).
 
-In a relative bioavailability trial in adults, the eltrombopag for oral suspension delivered 22% higher plasma AUC0-∞ than the tablet formulation.
+In a relative bioavailability trial in adults, the eltrombopag for oral suspension delivered 22% higher plasma AUC0-INF than the tablet formulation.
 
 Distribution: The concentration of eltrombopag in blood cells is approximately 50% to 79% of plasma concentrations based on a radiolabel study.
 In vitro studies suggest that eltrombopag is highly bound to human plasma proteins (greater than 99%).
@@ -31,17 +31,20 @@ Elimination: The predominant route of eltrombopag excretion is via feces (59%), 
 Unchanged eltrombopag in feces accounts for approximately 20% of the dose; unchanged eltrombopag is not detectable in urine.
 The plasma elimination half-life of eltrombopag is approximately 21 to 32 hours in healthy subjects and 26 to 35 hours in patients with ITP.
 
-Drug Interactions: Polyvalent Cation-containing Antacids: In a clinical trial, coadministration of 75 mg of PROMACTA with a polyvalent cation-containing antacid (1,524 mg aluminum hydroxide, 1,425 mg magnesium carbonate, and sodium alginate) to 26 healthy adult subjects decreased plasma eltrombopag AUC0-∞ and Cmax by approximately 70%.
+Drug Interactions: Polyvalent Cation-containing Antacids: In a clinical trial, coadministration of 75 mg of PROMACTA with a polyvalent cation-containing antacid (1,524 mg aluminum hydroxide, 1,425 mg magnesium carbonate, and sodium alginate) to 26 healthy adult subjects decreased plasma eltrombopag AUC0-INF and Cmax by approximately 70%.
 The contribution of sodium alginate to this interaction is not known.
 
 Cytochrome P450 Enzymes (CYPs): In a clinical trial, PROMACTA 75 mg once daily was administered for 7 days to 24 healthy male subjects did not show inhibition or induction of the metabolism of a combination of probe substrates for CYP1A2 (caffeine), CYP2C19 (omeprazole), CYP2C9 (flurbiprofen), or CYP3A4 (midazolam) in humans.
 Probe substrates for CYP2C8 were not evaluated in this trial.
 
-Rosuvastatin: In a clinical trial, coadministration of 75 mg of PROMACTA once daily for 5 days with a single 10-mg dose of the OATP1B1 and BCRP substrate, rosuvastatin to 39 healthy adult subjects increased plasma rosuvastatin AUC0-∞ by 55% and Cmax by 103%.
+Rosuvastatin: In a clinical trial, coadministration of 75 mg of PROMACTA once daily for 5 days with a single 10-mg dose of the OATP1B1 and BCRP substrate, rosuvastatin to 39 healthy adult subjects increased plasma rosuvastatin AUC0-INF by 55% and Cmax by 103%.
 
-Protease Inhibitors: HIV Protease Inhibitors: In a clinical trial, coadministration of repeat-dose lopinavir 400 mg/ritonavir 100 mg twice daily with a single dose of PROMACTA 100 mg to 40 healthy adult subjects decreased plasma eltrombopag AUC0-∞ by 17%.
+Protease Inhibitors: HIV Protease Inhibitors: In a clinical trial, coadministration of repeat-dose lopinavir 400 mg/ritonavir 100 mg twice daily with a single dose of PROMACTA 100 mg to 40 healthy adult subjects decreased plasma eltrombopag AUC0-INF by 17%.
 
-HCV Protease Inhibitors: In a clinical trial, coadministration of repeat-dose telaprevir 750 mg every 8 hours or boceprevir 800 mg every 8 hours with a single dose of PROMACTA 200 mg to healthy adult subjects did not alter plasma telaprevir, boceprevir, or eltrombopag AUC0-∞ or Cmax to a significant extent.
+HCV Protease Inhibitors: In a clinical trial, coadministration of repeat-dose telaprevir 750 mg every 8 hours or boceprevir 800 mg every 8 hours with a single dose of PROMACTA 200 mg to healthy adult subjects did not alter plasma telaprevir, boceprevir, or eltrombopag AUC0-INF or Cmax to a significant extent.
+
+Cyclosporine: In a drug interaction trial, coadministration of a single dose of PROMACTA 50 mg with a single dose of an OATP and BCRP inhibitor cyclosporine 200 mg in healthy adult subjects decreased plasma eltrombopag AUC0-INF by 18% (90% CI: 8%, 28%) and Cmax by 25% (90% CI: 15%, 35%).
+In the same clinical trial, coadministration of a single dose of PROMACTA 50 mg with a single dose of cyclosporine 600 mg in healthy adult subjects decreased plasma eltrombopag AUC0-INF by 24% (90% CI: 14%, 32%) and Cmax by 39% (90% CI: 30%, 47%).
 
 Pegylated Interferon alfa-2a + Ribavirin and Pegylated Interferon alfa-2b + Ribavirin: The pharmacokinetics of eltrombopag in both the presence and absence of pegylated interferon alfa-2a and -2b therapy were evaluated using a population pharmacokinetic analysis in 635 patients with chronic hepatitis C. The population PK model estimates of clearance indicate no significant difference in eltrombopag clearance in the presence of pegylated interferon alfa plus ribavirin therapy.
 
@@ -56,8 +59,8 @@ The effect of African-American ethnicity on exposure and related safety and effi
 
 Hepatic Impairment: In a pharmacokinetic trial, the disposition of a single 50-mg dose of PROMACTA in patients with mild, moderate, and severe hepatic impairment was compared with subjects with normal hepatic function.
 The degree of hepatic impairment was based on Child-Pugh score.
-Plasma eltrombopag AUC0-∞ was 41% higher in patients with mild hepatic impairment (Child-Pugh Class A) compared with subjects with normal hepatic function.
-Plasma eltrombopag AUC0-∞ was approximately 2-fold higher in patients with moderate (Child-Pugh Class B) and severe hepatic impairment (Child-Pugh Class C). The half-life of eltrombopag was prolonged 2-fold in these patients.
+Plasma eltrombopag AUC0-INF was 41% higher in patients with mild hepatic impairment (Child-Pugh Class A) compared with subjects with normal hepatic function.
+Plasma eltrombopag AUC0-INF was approximately 2-fold higher in patients with moderate (Child-Pugh Class B) and severe hepatic impairment (Child-Pugh Class C). The half-life of eltrombopag was prolonged 2-fold in these patients.
 This clinical trial did not evaluate protein-binding effects.
 
 Chronic Liver Disease: A population PK analysis in thrombocytopenic patients with chronic liver disease following repeat doses of eltrombopag demonstrated that mild hepatic impairment resulted in an 87% to 110% higher plasma eltrombopag AUC(0-τ) and patients with moderate hepatic impairment had approximately 141% to 240% higher plasma eltrombopag AUC(0-τ) values compared with patients with normal hepatic function.
@@ -69,7 +72,7 @@ Patients with chronic hepatitis C and mild hepatic impairment had approximately 
 This clinical trial did not evaluate protein-binding effects.
 
 Renal Impairment: The disposition of a single 50-mg dose of PROMACTA in patients with mild (creatinine clearance [CrCl] of 50 to 80 mL/min), moderate (CrCl of 30 to 49 mL/min), and severe (CrCl less than 30 mL/min) renal impairment was compared with subjects with normal renal function.
-Average total plasma eltrombopag AUC0-∞ was 32% to 36% lower in subjects with mild to moderate renal impairment and 60% lower in subjects with severe renal impairment compared with healthy subjects.
+Average total plasma eltrombopag AUC0-INF was 32% to 36% lower in subjects with mild to moderate renal impairment and 60% lower in subjects with severe renal impairment compared with healthy subjects.
 The effect of renal impairment on unbound (active) eltrombopag exposure has not been assessed.
 
 Pediatric Patients: The pharmacokinetics of eltrombopag have been evaluated in 168 pediatric patients 1 year and older with ITP dosed once daily in two trials.
