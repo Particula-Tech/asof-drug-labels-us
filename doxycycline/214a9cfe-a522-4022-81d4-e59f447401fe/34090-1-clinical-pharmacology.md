@@ -23,7 +23,9 @@ Doxycycline has been shown to be active against most isolates of the following m
 
 Gram-Negative Bacteria
 
-Acinetobacter species Bartonella bacilliformis Brucella species Klebsiella species Klebsiella granulomatis Campylobacter fetus Enterobacter aerogenes Escherichia coli Francisella tularensis Haemophilus ducreyi Haemophilus influenzae Neisseria gonorrhoeae Shigella species Vibrio cholerae Yersinia pestis
+Acinetobacter species Bartonella bacilliformis Brucella species Enterobacter aerogenes Escherichia coli Francisella tularensis Haemophilus ducreyi Haemophilus influenzae Klebsiella granulomatis Klebsiella species Neisseria gonorrhoeae Shigella species Vibrio cholerae Yersinia pestis
+
+Campylobacter fetus
 
 Gram-Positive Bacteria
 
@@ -51,7 +53,7 @@ Dilution Techniques
 
 Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized test method1,2,4 (broth or agar).
+The MICs should be determined using a standardized test method (broth or agar)1,2,4,6,7.
 The MIC values should be interpreted according to criteria provided in Table 1.
 
 Diffusion Techniques
@@ -80,8 +82,8 @@ Table 1: Susceptibility Test Interpretive Criteria for Doxycycline and Tetracycl
 | Francisella tularensis Doxycycline Tetracycline | ≤4 ≤4 | - - | - - | - - | - - | - - | - - | - - | - - |
 | Haemophilus influenzae Tetracycline | ≤2 | 4 | ≥8 | ≥29 | 26-28 | ≤25 | - | - | - |
 | Mycoplasma pneumoniae Tetracycline | - | - | - | - | - | - | ≤2 | - | - |
-| Nocardiae and other aerobic Actinomyces species Doxycycline | ≤1 | 2-4 | ≥8 | - | - | - | - | - | - |
 | Neisseria gonorrhoeaeGonococci with 30 mcg tetracycline disk zone diameters of <19 mm usually indicate a plasmid-mediated tetracycline resistant Neisseria gonorrhoeae isolate. Resistance in these strains should be confirmed by a dilution test (MIC ≥ 16 mcg/mL). Tetracycline | - | - | - | ≥38 | 31-37 | ≤30 | ≤0.25 | 0.5-1 | ≥2 |
+| Nocardiae and other aerobicActinomyces species Doxycycline | ≤1 | 2-4 | ≥8 | - | - | - | - | - | - |
 | Streptococcus pneumoniae Doxycycline Tetracycline | ≤0.25 ≤1 | 0.5 2 | ≥1 ≥4 | ≥28 ≥28 | 25-27 25-27 | ≤24 ≤24 | - - | - - | - - |
 | Vibrio cholerae Doxycycline Tetracycline | ≤4 ≤4 | 8 8 | ≥16 ≥16 | - - | - - | - - | - - | - - | - - |
 | Yersinia pestis Doxycycline Tetracycline | ≤4 ≤4 | 8 8 | ≥16 ≥16 | - - | - - | - - | - - | - - | - - |
@@ -105,7 +107,7 @@ Table 2: Acceptable Quality Control Ranges for Susceptibility Testing for Doxycy
 | --- | --- | --- | --- |
 | Enterococcus faecalis ATCC 29212 Doxycycline Tetracycline | 2 - 8 8 - 32 | - - | - - |
 | Escherichia coli ATCC 25922 Doxycycline Tetracycline | 0.5 - 2 0.5 - 2 | 18 - 24 18 - 25 | - - |
-| Eubacteria lentum ATCC 43055 Doxycycline | 2 - 16 | - | - |
+| Eggerthella lenta ATCC 43055 Doxycycline | 2 - 16 | - | - |
 | Haemophilus influenzae ATCC 49247 Tetracycline | 4 - 32 | 14 - 22 | - |
 | Neisseria gonorrhoeae ATCC 49226 Tetracycline | - | 30 - 42 | 0.25 - 1 |
 | Staphylococcus aureus ATCC 25923 Doxycycline Tetracycline | - - | 23 - 29 24 - 30 | - - |

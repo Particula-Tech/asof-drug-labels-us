@@ -1,14 +1,14 @@
 # DOSAGE AND ADMINISTRATION
 
-THE USUAL DOSAGE AND FREQUENCY OF ADMINISTRATION OF DOXYCYCLINE DIFFERS FROM THAT OF THE OTHER TETRACYCLINES.
-EXCEEDING THE RECOMMENDED DOSAGE MAY RESULT IN AN INCREASED INCIDENCE OF SIDE EFFECTS.
+The usual dosage and frequency of administration of doxycycline differs from that of the other tetracyclines.
+Exceeding the recommended dosage may result in an increased incidence of side effects.
+
 Adults: The usual dose of oral doxycycline is 200 mg on the first day of treatment (administered 100 mg every 12 hours) followed by a maintenance dose of 100 mg/day.
 
 In the management of more severe infections (particularly chronic infections of the urinary tract), 100 mg every 12 hours is recommended.
 
-For children above eight years of age: The recommended dosage schedule for children weighing 100 pounds or less is 2 mg/lb of body weight divided into two doses on the first day of treatment, followed by 1 mg/lb of body weight given as a single daily dose or divided into two doses, on subsequent days.
-For more severe infections, up to 2 mg/lb of body weight may be used.
-For children over 100 lb the usual adult dose should be used.
+For pediatric patients with less severe disease (greater than 8 years of age and weighing less than 45 kg), the recommended dosage schedule is 4.4 mg/kg of body weight divided into two doses on the first day of treatment, followed by a maintenance dose of 2.2 mg/kg of body weight (given as a single daily dose or divided into twice daily doses).
+For pediatric patients weighing over 45 kg, the usual adult dose should be used.
 
 The therapeutic antibacterial serum activity will usually persist for 24 hours following recommended dosage.
 
@@ -45,7 +45,6 @@ Prophylaxis should be continued daily during travel in the malarious area and fo
 
 Inhalational anthrax (post-exposure):
 
-- ADULTS: 100 mg of doxycycline, by mouth, twice a day for 60 days.
-- 
-- CHILDREN: weighing less than 100 lb (45 kg); 1 mg/lb (2.2 mg/kg) of body weight by mouth, twice a day for 60 days.
-  Children weighing 100 lb or more should receive the adult dose.
+- •ADULTS: 100 mg of doxycycline, by mouth, twice a day for 60 days.
+- •CHILDREN: weighing less than 45 kg 2.2 mg/kg of body weight by mouth, twice a day for 60 days.
+  Children weighing 45 kg or more should receive the adult dose.
