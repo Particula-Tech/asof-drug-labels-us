@@ -22,7 +22,7 @@ See FDA-approved patient labeling (Medication Guide).
 - Alcohol — Although CYMBALTA does not increase the impairment of mental and motor skills caused by alcohol, use of CYMBALTA concomitantly with heavy alcohol intake may be associated with severe liver injury.
   For this reason, CYMBALTA should not be prescribed for patients with substantial alcohol use [see Warnings and Precautions (5.2) and Drug Interactions (7.15)].
 - Orthostatic Hypotension, Falls and Syncope — Advise patients of the risk of orthostatic hypotension, falls and syncope, especially during the period of initial use and subsequent dose escalation, and in association with the use of concomitant drugs that might potentiate the orthostatic effect of CYMBALTA [see Warnings and Precautions (5.3)].
-- Serotonin Syndrome — Caution patients about the risk of serotonin syndrome with the concomitant use of CYMBALTA and other serotonergic agents including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan and St. John's Wort [see Contraindications (4), Warnings and Precautions (5.4), and Drug Interactions (7.14)].
+- Serotonin Syndrome — Caution patients about the risk of serotonin syndrome with the concomitant use of CYMBALTA and other serotonergic agents including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, amphetamines, and St. John's Wort [see Contraindications (4), Warnings and Precautions (5.4), and Drug Interactions (7.14)].
   Advise patients of the signs and symptoms associated with serotonin syndrome that may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular changes (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
   Caution patients to seek medical care immediately if they experience these symptoms.
 - Abnormal Bleeding — Caution patients about the concomitant use of CYMBALTA and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents has been associated with an increased risk of bleeding [see Warnings and Precautions (5.5)].
@@ -57,9 +57,9 @@ See FDA-approved patient labeling (Medication Guide).
   Although in controlled studies CYMBALTA has not been shown to impair psychomotor performance, cognitive function, or memory, it may be associated with sedation and dizziness.
   Therefore, caution patients about operating hazardous machinery including automobiles, until they are reasonably certain that CYMBALTA therapy does not affect their ability to engage in such activities.
 
-Literature revised August 2016
+Literature revised October 2016
 
 Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA Copyright © 2004, 2016, Eli Lilly and Company.
 All rights reserved.
 
-CYM-0007-USPI-20160816
+CYM-0008-USPI-20161024

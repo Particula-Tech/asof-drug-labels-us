@@ -115,6 +115,7 @@ Especially tell your healthcare provider if you take:
 - triptans used to treat migraine headache
 - medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, buspirone, SSRIs, SNRIs or MAOIs
 - tramadol and fentanyl
+- amphetamines
 - cimetidine
 - the antibiotics ciprofloxacin, enoxacin
 - medicine to treat irregular heart rate (like propafenone, flecainide, quinidine)
@@ -302,13 +303,13 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Coumadin, Jantoven, and Mellaril are trademarks of their respective owners and not trademarks of Eli Lilly and Company.
 
-Medication Guide revised: November 2014
+Medication Guide revised: October 2016
 
 Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
 
 Cymbalta is a registered trademark of Eli Lilly and Company.
 
-Copyright © 2009, 2014, Eli Lilly and Company.
+Copyright © 2009, 2016, Eli Lilly and Company.
 All rights reserved.
 
-CYM-0003-MG-20141125
+CYM-0004-MG-20161024
