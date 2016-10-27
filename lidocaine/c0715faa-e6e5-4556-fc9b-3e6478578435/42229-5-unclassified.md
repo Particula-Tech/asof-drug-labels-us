@@ -27,11 +27,11 @@ In some cases it will be necessary to dilute available concentrations with 0.9% 
 NOTE: Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever the solution and container permit.
 The Injection is not to be used if its color is pinkish or darker than slightly yellow or if it contains a precipitate.
 
-Table 1 Recommended Dosages
+1. Table 1 Recommended Dosages
 
 | Conc (%) | Vol (mL) | Total Dose (mg) |  |
 | --- | --- | --- | --- |
-| Procedure | Xylocaine (lidocaine hydrochloride)Injection (without epinephrine) |  |  |
+| Procedure | Xylocaine (lidocaine hydrochloride) Injection (without epinephrine) |  |  |
 | Infiltration |  |  |  |
 | Percutaneous | 0.5 or 1 | 1-60 | 5-300 |
 | Intravenous regional | 0.5 | 10-60 | 50-300 |
