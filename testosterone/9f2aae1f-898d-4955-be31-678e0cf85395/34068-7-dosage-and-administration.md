@@ -23,7 +23,7 @@ Do not apply Testim to the genitals or to the abdomen.
 
 Application sites should be allowed to dry for a few minutes prior to dressing.
 Hands should be washed thoroughly with soap and water after Testim has been applied.
-Avoid fire, flame or smoking during the application of Testim until the Testim has dried [see Warnings and Precautions (5.2), (5.14)].
+Avoid fire, flame or smoking during the application of Testim until the Testim has dried [see Warnings and Precautions (5.2), (5.16)].
 
 In order to prevent transfer to another person, wear clothing to cover the application sites.
 If direct skin-to-skin contact with another person is anticipated, the application sites must be washed thoroughly with soap and water [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].

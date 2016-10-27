@@ -184,7 +184,7 @@ This Medication Guide summarizes the most important information about Testim.
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about Testim that is written for health professionals.
 
-For more information, go to www.TESTIM.com or call 1-877-663-0412.
+For more information, go to www.TESTIM.com or call 1-800-462-3636.
 
 What are the ingredients in Testim?
 
