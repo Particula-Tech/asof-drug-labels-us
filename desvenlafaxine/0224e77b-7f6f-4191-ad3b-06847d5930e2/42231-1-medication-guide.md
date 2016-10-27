@@ -15,11 +15,14 @@ Talk to your healthcare provider about:
 
 ### What is the most important information I should know about antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions?
 
-- 1.Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
-- 2.Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
+- 1.
+  Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
+- 2.
+  Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
   Some people may have a particularly high risk of having suicidal thoughts or actions.
   These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
-- 3.How can I watch for and try to prevent suicidal thoughts and actions?
+- 3.
+  How can I watch for and try to prevent suicidal thoughts and actions?
 
 - •Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
   This is very important when an antidepressant medicine is started or when the dose is changed.
@@ -44,13 +47,13 @@ Call a healthcare provider right away if you have any of the following symptoms,
 - • Antidepressants are medicines used to treat depression and other illnesses.
   It is important to discuss all the risks of treating depression and also the risks of not treating it.
   Patients should discuss all treatment choices with the healthcare provider, not just the use of antidepressants.
-- •Antidepressant medicines have other side effects.
+- • Antidepressant medicines have other side effects.
   Talk to the healthcare provider about the side effects of this medicine.
-- •Antidepressant medicines can interact with other medicines.
+- • Antidepressant medicines can interact with other medicines.
   Know all of the medicines that you take.
   Keep a list of all medicines to show the healthcare provider.
   Do not start new medicines without first checking with your healthcare provider.
-- •Not all antidepressant medicines prescribed for children are FDA approved for use in children.
+- • Not all antidepressant medicines prescribed for children are FDA approved for use in children.
   Talk to your child’s healthcare provider for more information.
 
 ### What is KHEDEZLA?
@@ -149,8 +152,8 @@ Your doctor may gradually reduce the dose of your initial antidepressant medicat
 
 ### KHEDEZLA can cause serious side effects, including:
 
-- •See the beginning of this Medication Guide - Antidepressant Medicines, Depression and other Serious Mental Illnesses, and Suicidal Thoughts or Actions.
-- •Serotonin syndrome.
+- • See the beginning of this Medication Guide - Antidepressant Medicines, Depression and other Serious Mental Illnesses, and Suicidal Thoughts or Actions.
+- • Serotonin syndrome.
   See “What should I tell my healthcare provider before taking KHEDEZLA?”
 
 Get medical help right away if you think that you have these syndromes.
@@ -219,7 +222,7 @@ This Medication Guide summarizes the most important information about KHEDEZLA.
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about KHEDEZLA that is written for healthcare professionals.
 
-For more information, call 1-800-828-9393.
+For more information, call 1- 800-828-9393.
 
 ### What are the ingredients in KHEDEZLA?
 
@@ -227,8 +230,8 @@ Active ingredient: desvenlafaxine
 
 Inactive ingredients:
 
-- •50 mg tablet: citric acid monohydrate, hypromellose, microcrystalline cellulose, talc, magnesium stearate, colloidal silicon dioxide and film coating, which consist of titanium dioxide, polyethylene glycol, talc, polyvinyl alcohol, and iron oxides
-- •100 mg tablet: citric acid monohydrate, hypromellose, microcrystalline cellulose, colloidal silicon dioxide, talc, magnesium stearate, and film coating, which consist of hypromellose, titanium dioxide, polyethylene glycol, talc, polyvinyl alcohol, iron oxides and FD&C yellow #6
+- • 50 mg tablet: citric acid monohydrate, hypromellose, microcrystalline cellulose, talc, magnesium stearate, colloidal silicon dioxide and film coating, which consist of titanium dioxide, polyethylene glycol, talc, polyvinyl alcohol, and iron oxides
+- • 100 mg tablet: citric acid monohydrate, hypromellose, microcrystalline cellulose, colloidal silicon dioxide, talc, magnesium stearate, and film coating, which consist of hypromellose, titanium dioxide, polyethylene glycol, talc, polyvinyl alcohol, iron oxides and FD&C yellow #6
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
