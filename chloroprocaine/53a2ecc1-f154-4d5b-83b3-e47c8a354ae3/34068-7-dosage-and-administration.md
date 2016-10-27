@@ -18,8 +18,18 @@ Caudal and Lumbar Epidural Block: In order to guard against adverse experiences 
 
 As a guide for some routine procedures, suggested doses are given below:
 
-1. Infiltration and Peripheral Nerve Block: NESACAINE or NESACAINE-MPF (chloroprocaine HCl Injection, USP) Anesthetic ProcedureSolution Concentration %Volume (mL)Total Dose (mg)Mandibular22-340-60Infraorbital20.5-110-20Brachial plexus230-40600-800Digital (without epinephrine)13-430-40Pudendal210 each side400Paracervical (see also PRECAUTIONS)13 per each of 4 sitesUp to 120
-2. Caudal and Lumbar Epidural Block: NESACAINE-MPF INJECTION.
+1. Infiltration and Peripheral Nerve Block: NESACAINE or NESACAINE-MPF (chloroprocaine HCl Injection, USP)
+
+| Anesthetic Procedure | Solution Concentration % | Volume (mL) | Total Dose (mg) |
+| --- | --- | --- | --- |
+| Mandibular | 2 | 2-3 | 40-60 |
+| Infraorbital | 2 | 0.5-1 | 10-20 |
+| Brachial plexus | 2 | 30-40 | 600-800 |
+| Digital (without epinephrine) | 1 | 3-4 | 30-40 |
+| Pudendal | 2 | 10 each side | 400 |
+| Paracervical (see also PRECAUTIONS) | 1 | 3 per each of 4 sites | Up to 120 |
+
+1. Caudal and Lumbar Epidural Block: NESACAINE-MPF INJECTION.
    For caudal anesthesia, the initial dose is 15 to 25 mL of a 2% or 3% solution.
    Repeated doses may be given at 40 to 60 minute intervals.
 
