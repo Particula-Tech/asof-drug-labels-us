@@ -14,6 +14,8 @@ The following adverse reactions are discussed in greater detail in other section
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
+Urothelial Carcinoma
+
 The data described in Table 1 reflects exposure to TECENTRIQ in Cohort 2 of Study 1.
 This cohort enrolled 310 patients in a single arm trial with locally advanced or metastatic urothelial carcinoma who had disease progression during or following at least one platinum-containing chemotherapy regimen or who had disease progression within 12 months of treatment with a platinum-containing neoadjuvant or adjuvant chemotherapy regimen [see Clinical Studies (14.1)].
 Patients received 1200 mg of TECENTRIQ intravenously every 3 weeks until unacceptable toxicity or either radiographic or clinical progression.
@@ -33,10 +35,10 @@ Table 1 summarizes the adverse reactions that occurred in ≥ 10% of patients wh
 
 Table 1: All Grade Adverse Reactions in ≥ 10% of Patients with Urothelial Carcinoma in Study 1
 
-| Adverse Reaction | All Grades (%) | Grades 3 – 4 (%) |
+| All Adverse Reactions | 96 | 50 |
 | --- | --- | --- |
 |  | TECENTRIQ N = 310 |  |
-| All Adverse Reactions | 96 | 50 |
+| Adverse Reaction | All Grades (%) | Grades 3 – 4 (%) |
 | Gastrointestinal Disorders |  |  |
 | Nausea | 25 | 2 |
 | Constipation | 21 | 0.3 |
@@ -77,11 +79,67 @@ Table 2: Grade 3–4 Laboratory Abnormalities in Patients with Urothelial Carcin
 | Increased AST | 2 |
 | Hypoalbuminemia | 1 |
 
+NSCLC
+
+The safety of TECENTRIQ was evaluated in Study 3, a multi-center, international, randomized, open-label trial in patients with metastatic NSCLC who progressed during or following a platinum-containing regimen, regardless of PD-L1 expression [see Clinical Studies (14.2)].
+Patients received 1200 mg of TECENTRIQ (n=142) administered intravenously every 3 weeks until unacceptable toxicity or either radiographic or clinical progression or docetaxel (n=135) administered intravenously at 75 mg/m2 every 3 weeks until unacceptable toxicity or disease progression.
+The median duration of exposure was 3.7 months (range: 0–19 months) in TECENTRIQ-treated patients and 2.1 months (range: 0–17 months) in docetaxel-treated patients.
+
+The most common adverse reactions (≥ 20%) in patients receiving TECENTRIQ were fatigue (46%), decreased appetite (35%), dyspnea (32%), cough (30%), nausea (22%), musculoskeletal pain (22%), and constipation (20%).
+The most common Grade 3-4 adverse reactions (≥2%) were dyspnea, pneumonia, hypoxia, hyponatremia, fatigue, anemia, musculoskeletal pain, AST increase, ALT increase, dysphagia, and arthralgia.
+
+Nine patients (6.3%) who were treated with TECENTRIQ experienced either pulmonary embolism (2), pneumonia (2), pneumothorax, ulcer hemorrhage, cachexia secondary to dysphagia, myocardial infarction, or large intestinal perforation which led to death.
+TECENTRIQ was discontinued due to adverse reactions in 4% (6/142) of patients.
+Adverse reactions leading to interruption of TECENTRIQ occurred in 24% of patients; the most common (>1%) were pneumonia, liver function test abnormality, upper respiratory tract infection, pneumonitis, acute kidney injury, hypoxia, hypothyroidism, dyspnea, anemia, and fatigue.
+Serious adverse reactions occurred in 37% of patients.
+The most frequent serious adverse reactions (> 2%) were pneumonia, dyspnea, pleural effusion, pyrexia, and venous thromboembolism.
+
+Table 3 summarizes adverse reactions that occurred in at least 10% of TECENTRIQ-treated patients and at a higher incidence than in the docetaxel arm.
+Table 4 summarizes selected laboratory abnormalities worsening from baseline that occurred in ≥10% of TECENTRIQ-treated patients and at a higher incidence than in the docetaxel arm.
+
+Table 3: Adverse Reactions Occurring in ≥10% of TECENTRIQ-Treated Patients with NSCLC and at a Higher Incidence than in the Docetaxel Arm (Between Arm Difference of ≥5% [All Grades] or ≥2% [Grades 3–4]) (Study 3)
+
+| Adverse Reaction | All grades | Grade 3–4 | All grades | Grade 3–4 |
+| --- | --- | --- | --- | --- |
+|  | TECENTRIQ (n=142) |  | Docetaxel (n=135) |  |
+|  | Percentage (%) of Patients |  |  |  |
+| General Disorders and Administration Site Conditions |  |  |  |  |
+| Pyrexia | 18 | 0 | 13 | 0 |
+| Infections and infestations |  |  |  |  |
+| Pneumonia | 18 | 6 | 4 | 2 |
+| Metabolism and nutrition disorders |  |  |  |  |
+| Decreased appetite | 35 | 1 | 22 | 0 |
+| Musculosketal and connective tissue disorders |  |  |  |  |
+| Arthralgia | 16 | 2 | 9 | 2 |
+| Back pain | 14 | 1 | 9 | 1 |
+| Psychiatric Disorders |  |  |  |  |
+| Insomnia | 14 | 0 | 8 | 2 |
+| Respiratory, thoracic and mediastinal disorders |  |  |  |  |
+| Dyspnea | 32 | 7 | 24 | 2 |
+| Cough | 30 | 1 | 25 | 0 |
+
+Table 4: Selected Laboratory Abnormalities Worsening from Baseline Occurring in ≥10% of TECENTRIQ-Treated Patients with NSCLC and at a Higher Incidence than in the Docetaxel Arm (Between Arm Difference of ≥5% [All Grades] or ≥2% [Grades 3–4]) (Study 3)
+
+| Test | All grades % | Grade 3–4 % | All grades % | Grade 3–4 % |
+| --- | --- | --- | --- | --- |
+|  | Percentage of Patients with Worsening Laboratory Test from Baseline |  |  |  |
+|  | TECENTRIQ |  | Docetaxel |  |
+| Hyponatremia | 48 | 13 | 28 | 8 |
+| Hypoalbuminemia | 48 | 5 | 49 | 1 |
+| Alkaline Phosphatase increased | 42 | 2 | 24 | 1 |
+| Aspartate aminotransferase increased | 33 | 2 | 15 | 0 |
+| Alanine aminotransferase increased | 31 | 2 | 9 | 1 |
+| Creatinine increased | 19 | 1 | 14 | 2 |
+| Hypokalemia | 18 | 2 | 11 | 4 |
+| Hypercalcemia | 13 | 0 | 5 | 0 |
+| Total Bilirubin increased | 11 | 0 | 5 | 1 |
+
 ## 6.2 Immunogenicity
 
 As with all therapeutic proteins, there is a potential for immunogenicity.
 Among 275 patients in Study 1, 114 patients (41.5%) tested positive for treatment-emergent (treatment-induced or treatment-enhanced) anti-therapeutic antibodies (ATA) at one or more post-dose time points.
-In Study 1, the presence of ATAs did not appear to have a clinically significant impact on pharmacokinetics, safety or efficacy.
+Among 135 patients in Study 3, 73 patients (54.1%) tested positive for treatment-emergent (treatment-induced or treatment-enhanced) anti-therapeutic antibodies (ATA) at one or more post-dose time points.
+In Study 1 and Study 3, the presence of ATAs did not appear to have a clinically significant impact on pharmacokinetics, safety or efficacy.
 
 Immunogenicity assay results are highly dependent on several factors, including assay sensitivity and specificity, assay methodology, sample handling, timing of sample collection, concomitant medications and underlying disease.
 For these reasons, comparison of incidence of ATAs to TECENTRIQ with the incidence of antibodies to other products may be misleading.

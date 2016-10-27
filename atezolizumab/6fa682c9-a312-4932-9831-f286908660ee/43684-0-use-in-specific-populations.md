@@ -51,6 +51,7 @@ The safety and effectiveness of TECENTRIQ have not been established in pediatric
 ## 8.5 Geriatric Use
 
 Of the 310 patients with urothelial carcinoma treated with TECENTRIQ in Study 1, 59% were 65 years or older.
+Of the 142 patients with NSCLC treated with TECENTRIQ in Study 3, 39% were 65 years or older.
 No overall differences in safety or efficacy were observed between patients ≥ 65 years of age and younger patients.
 
 ## 8.6 Renal Impairment

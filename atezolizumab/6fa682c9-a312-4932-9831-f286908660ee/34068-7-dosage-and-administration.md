@@ -29,7 +29,7 @@ Permanently discontinue TECENTRIQ for any of the following:
 - Grade 3 or 4 pneumonitis [see Warnings and Precautions (5.1)]
 - AST or ALT greater than 5 times ULN or total bilirubin greater than 3 times ULN [see Warnings and Precautions (5.2)]
 - Grade 4 diarrhea or colitis [see Warnings and Precautions (5.3)]
-- Grade 4 hypophysitis
+- Grade 4 hypophysitis [see Warnings and Precautions (5.4)]
 - Myasthenic syndrome/myasthenia gravis, Guillain-Barré or meningoencephalitis (all grades) [see Warnings and Precautions (5.5)]
 - Grade 3 or 4 ocular inflammatory toxicity [see Warnings and Precautions (5.5)]
 - Grade 4 or any grade of recurrent pancreatitis [see Warnings and Precautions (5.5)]
@@ -52,7 +52,7 @@ Prepare the solution for infusion as follows:
 - Dilute with 0.9% Sodium Chloride Injection only.
 - Mix diluted solution by gentle inversion.
   Do not shake.
-- Discard partially used or empty vials of TECENTRIQ.
+- Discard used or empty vials of TECENTRIQ.
 
 Storage of Infusion Solution
 
