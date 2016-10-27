@@ -73,42 +73,41 @@ This information is intended to aid the patient in the safe and effective use of
 It is not a disclosure of all possible adverse or intended effects.
 For proper use of PULMICORT TURBUHALER and to attain maximum improvement, the patient should read and follow the accompanying Patient’s Instructions for Use carefully.
 
-- Patients should use PULMICORT TURBUHALER at regular intervals as directed since its effectiveness depends on regular use.
-  The patient should not alter the prescribed dosage unless advised to do so by the physician.
-- Patients should be advised that PULMICORT TURBUHALER is not a bronchodilator and is not intended to treat acute or life-threatening episodes of asthma.
-- Patients should be advised that the effectiveness of PULMICORT TURBUHALER depends on proper use of the device and inhalation-administering technique:
-  1. PULMICORT TURBUHALER must be in the upright position (mouthpiece on top) during loading in order to provide the correct dose.
-  2. PULMICORT TURBUHALER must be primed when the unit is used for the very first time.
+1. Patients should use PULMICORT TURBUHALER at regular intervals as directed since its effectiveness depends on regular use.
+   The patient should not alter the prescribed dosage unless advised to do so by the physician.
+2. •Patients should be advised that PULMICORT TURBUHALER is not a bronchodilator and is not intended to treat acute or life-threatening episodes of asthma.
+3. •Patients should be advised that the effectiveness of PULMICORT TURBUHALER depends on proper use of the device and inhalation-administering technique:
+   - PULMICORT TURBUHALER must be in the upright position (mouthpiece on top) during loading in order to provide the correct dose.
+   - PULMICORT TURBUHALER must be primed when the unit is used for the very first time.
      To prime the unit, it must be held in an upright position and the brown grip turned fully to the right, then turned fully to the left until it clicks.
      Repeat.
-  3. To load the first dose, the grip must be turned fully to the right and fully to the left until it clicks.
-  4. After the first dose, it is not necessary to prime the unit.
+   - To load the first dose, the grip must be turned fully to the right and fully to the left until it clicks.
+   - After the first dose, it is not necessary to prime the unit.
      However, it must be loaded in the upright position immediately prior to use as described above.
-  5. Patients should be advised not to shake the inhaler.
-
-- Patients should place the mouthpiece between the lips and inhale forcefully and deeply.
-  The powder is then delivered to the lungs.
-- Patients should not exhale through PULMICORT TURBUHALER.
-- Due to the small volume of powder, the patient may not taste or sense the presence of any medication entering the lungs when inhaling from the TURBUHALER inhaler.
-  This lack of sensation does not indicate that the patient is not receiving benefit from PULMICORT TURBUHALER.
-- Patients should be advised that rinsing the mouth with water without swallowing after each dosing may decrease the risk of the development of oral candidiasis.
-- Patients should be instructed that they will receive a new PULMICORT TURBUHALER unit each time they refill their prescription.
-  Patients should be advised to discard the whole device after the labelled number of inhalations has been used.
-  When there are 20 doses remaining in PULMICORT TURBUHALER, a red mark will appear in the indicator window.
-- PULMICORT TURBUHALER should not be used with a spacer.
-- The mouthpiece should not be bitten or chewed.
-- The cover should be replaced securely after each opening.
-- Patients should keep PULMICORT TURBUHALER clean and dry at all times.
-- Patients should be advised that improvement in asthma control following inhalation of PULMICORT TURBUHALER can occur within 24 hours of beginning treatment although maximum benefit may not be achieved for 1 to 2 weeks, or longer.
-  If symptoms do not improve in that time frame, or if the condition worsens, the patient should be instructed not to increase the dosage, but to contact the physician.
-- Patients whose systemic corticosteroids have been reduced or withdrawn should be instructed to carry a warning card indicating that they may need supplemental systemic corticosteroids during periods of stress or an asthma attack that does not respond to bronchodilators.
-- Patients should be advised not to stop the use of PULMICORT TURBUHALER abruptly.
-- Patients should be warned to avoid exposure to chicken pox or measles and if they are exposed, to consult their physicians without delay.
-- Long-term use of inhaled corticosteroids, including budesonide, may increase the risk of some eye problems (cataracts or glaucoma).
-  Regular eye examinations should be considered.
-- Women considering the use of PULMICORT TURBUHALER should consult with their physician if they are pregnant or intend to become pregnant, or if they are breast-feeding a baby.
-- Patients considering use of PULMICORT TURBUHALER should consult with their physician if they are allergic to budesonide or any other orally inhaled corticosteroid.
-- Patients should inform their physician of other medications they are taking as PULMICORT TURBUHALER may not be suitable in some circumstances and the physician may wish to use a different medicine.
+   - Patients should be advised not to shake the inhaler.
+4. Patients should place the mouthpiece between the lips and inhale forcefully and deeply.
+   The powder is then delivered to the lungs.
+5. •Patients should not exhale through PULMICORT TURBUHALER.
+6. •Due to the small volume of powder, the patient may not taste or sense the presence of any medication entering the lungs when inhaling from the TURBUHALER inhaler.
+   This lack of sensation does not indicate that the patient is not receiving benefit from PULMICORT TURBUHALER.
+7. •Patients should be advised that rinsing the mouth with water without swallowing after each dosing may decrease the risk of the development of oral candidiasis.
+8. •Patients should be instructed that they will receive a new PULMICORT TURBUHALER unit each time they refill their prescription.
+   Patients should be advised to discard the whole device after the labelled number of inhalations has been used.
+   When there are 20 doses remaining in PULMICORT TURBUHALER, a red mark will appear in the indicator window.
+9. •PULMICORT TURBUHALER should not be used with a spacer.
+10. •The mouthpiece should not be bitten or chewed.
+11. •The cover should be replaced securely after each opening.
+12. •Patients should keep PULMICORT TURBUHALER clean and dry at all times.
+13. •Patients should be advised that improvement in asthma control following inhalation of PULMICORT TURBUHALER can occur within 24 hours of beginning treatment although maximum benefit may not be achieved for 1 to 2 weeks, or longer.
+    If symptoms do not improve in that time frame, or if the condition worsens, the patient should be instructed not to increase the dosage, but to contact the physician.
+14. Patients whose systemic corticosteroids have been reduced or withdrawn should be instructed to carry a warning card indicating that they may need supplemental systemic corticosteroids during periods of stress or an asthma attack that does not respond to bronchodilators.
+15. Patients should be advised not to stop the use of PULMICORT TURBUHALER abruptly.
+16. •Patients should be warned to avoid exposure to chicken pox or measles and if they are exposed, to consult their physicians without delay.
+17. •Long-term use of inhaled corticosteroids, including budesonide, may increase the risk of some eye problems (cataracts or glaucoma).
+    Regular eye examinations should be considered.
+18. •Women considering the use of PULMICORT TURBUHALER should consult with their physician if they are pregnant or intend to become pregnant, or if they are breast-feeding a baby.
+19. •Patients considering use of PULMICORT TURBUHALER should consult with their physician if they are allergic to budesonide or any other orally inhaled corticosteroid.
+20. •Patients should inform their physician of other medications they are taking as PULMICORT TURBUHALER may not be suitable in some circumstances and the physician may wish to use a different medicine.
 
 ## Drug Interactions
 
