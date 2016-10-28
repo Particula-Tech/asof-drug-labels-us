@@ -69,9 +69,9 @@ Using strict evaluability criteria and microbiologic eradication and clinical cu
 | Treatment Arm | No. evaluable/ No. enrolled (%) | Microbiologic Eradication Rate | Clinical Cure Rate | Outcome |
 | --- | --- | --- | --- | --- |
 | meropenem | 146/516 (28%) | 98/146 (67%) | 101/146 (69%) |  |
-| imipenem | 65/220 (30%) | 40/65 (62%) | 42/65 (65%) | Meropenem equivalent to control |
-| cefotaxime/ metronidazole | 26/85 (30%) | 22/26 (85%) | 22/26 (85%) | Meropenem not equivalent to control |
-| clindamycin/ tobramycin | 50/212 (24%) | 38/50 (76%) | 38/50 (76%) | Meropenem equivalent to control |
+| imipenem | 65/220 (30%) | 40/65 (62%) | 42/65 (65%) | meropenem equivalent to control |
+| cefotaxime/ metronidazole | 26/85 (30%) | 22/26 (85%) | 22/26 (85%) | meropenem not equivalent to control |
+| clindamycin/ tobramycin | 50/212 (24%) | 38/50 (76%) | 38/50 (76%) | meropenem equivalent to control |
 
 The finding that meropenem was not statistically equivalent to cefotaxime/metronidazole may have been due to uneven assignment of more seriously ill patients to the meropenem arm.
 Currently there is no additional information available to further interpret this observation.
@@ -79,9 +79,9 @@ Currently there is no additional information available to further interpret this
 ## 14.3 Bacterial Meningitis
 
 Four hundred forty-six patients (397 pediatric patients 3 months to less than 17 years of age) were enrolled in 4 separate clinical trials and randomized to treatment with meropenem (n=225) at a dose of 40 mg/kg every 8 hours or a comparator drug, i.e., cefotaxime (n=187) or ceftriaxone (n=34), at the approved dosing regimens.
-A comparable number of patients were found to be clinically evaluable (ranging from 61-68%) and with a similar distribution of pathogens isolated on initial CSF culture.
+A comparable number of patients were found to be clinically evaluable (ranging from 61 to 68%) and with a similar distribution of pathogens isolated on initial CSF culture.
 Patients were defined as clinically not cured if any one of the following three criteria were met: 1.
-At the 5-7 week post-completion of therapy visit, the patient had any one of the following: moderate to severe motor, behavior or development deficits, hearing loss of greater than 60 decibels in one or both ears, or blindness.
+At the 5 to 7 week post-completion of therapy visit, the patient had any one of the following: moderate to severe motor, behavior or development deficits, hearing loss of greater than 60 decibels in one or both ears, or blindness.
 2.
 During therapy the patient’s clinical status necessitated the addition of other antibacterial drugs.
 3.
@@ -115,6 +115,6 @@ The following table shows the degree of hearing loss between the meropenem-treat
 | Degree of Hearing Loss (in one or both ears) | Meropenem n = 128 | Comparator n = 135 |
 | --- | --- | --- |
 | No loss | 61% | 56% |
-| 20-40 decibels | 20% | 24% |
-| Greater than 40-60 decibels | 8% | 7% |
+| 20 to 40 decibels | 20% | 24% |
+| Greater than 40 to 60 decibels | 8% | 7% |
 | Greater than 60 decibels | 9% | 10% |

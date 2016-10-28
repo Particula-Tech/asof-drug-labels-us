@@ -8,6 +8,8 @@ Sometimes after starting treatment with antibacterial drugs, patients can develo
 If this occurs, patients should contact their physician as soon as possible [see Warnings and Precautions (5.4)]. • Counsel patients to inform their physician if they are taking valproic acid or divalproex sodium.
 Valproic acid concentrations in the blood may drop below the therapeutic range upon co-administration with Meropenem for Injection, USP.
 If treatment with Meropenem for Injection, USP is necessary and continued, alternative or supplemental anti-convulsant medication to prevent and/or treat seizures may be needed [see Warnings and Precautions (5.3)]. • Patients receiving Meropenem for Injection, USP on an outpatient basis may develop adverse events such as seizures, headaches and/or paresthesias that could interfere with mental alertness and/or cause motor impairment.
-Until it is reasonably well established that Meropenem for Injection, USP is well tolerated, patients should not operate machinery or motorized vehicles [see Warnings and Precautions (5.10)].
-Manufactured by: Gland Pharma Limited Hyderabad, India.
-Code No.:DRUGS/AP/22/2012 Revised: October 2015 Gland Item Code
+Until it is reasonably well established that Meropenem for Injection, USP is well tolerated, patients should not operate machinery or motorized vehicles [see Warnings and Precautions(5.10)].
+Manufactured by:
+
+Gland Pharma Limited Hyderabad, India.
+Code No.:DRUGS/AP/22/2012 Revised: October 2016 Gland Item Code

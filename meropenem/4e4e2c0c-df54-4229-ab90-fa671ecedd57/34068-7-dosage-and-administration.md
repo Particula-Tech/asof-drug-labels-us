@@ -5,7 +5,7 @@
 The recommended dose of Meropenem for Injection, USP is 500 mg given every 8 hours for skin and skin structure infections and 1 gram given every 8 hours for intra-abdominal infections.
 When treating complicated skin and skin structure infections caused by P.aeruginosa, a dose of 1 gram every 8 hours is recommended.
 Meropenem for Injection, USP should be administered by intravenous infusion over approximately 15 minutes to 30 minutes.
-Doses of 1 gram may also be administered as an intravenous bolus injection (5 mL to 20 mL) over approximately 3 minutes-5 minutes.
+Doses of 1 gram may also be administered as an intravenous bolus injection (5 mL to 20 mL) over approximately 3 minutes to 5 minutes.
 
 ## 2.2 Use in Adult Patients with Renal Impairment
 
@@ -20,12 +20,12 @@ Weight (kg) x (140 - age) 72 x serum creatinine (mg/dL)
 
 Females: 0.85 x above value
 
-| Recommended Meropenem for Injection, USP Dosage Schedule for Adult Patients With Renal Impairment |  |  |
+| Recommended Meropenem for Injection, USP Dosage Schedule for Adult Patients with Renal Impairment |  |  |
 | --- | --- | --- |
 | Creatinine Clearance (mL/min) | Dose (dependent on type of infection) | Dosing Interval |
-| Greater than50 | Recommended dose (500 mg cSSSI and 1 gram Intra-abdominal) | Every 8 hours |
-| Greater than 25-50 | Recommended dose | Every 12 hours |
-| 10-25 | One-half recommended dose | Every 12 hours |
+| Greater than 50 | Recommended dose (500 mg cSSSI and 1 gram Intra-abdominal) | Every 8 hours |
+| Greater than 25 to 50 | Recommended dose | Every 12 hours |
+| 10 to 25 | One-half recommended dose | Every 12 hours |
 | Less than10 | One-half recommended dose | Every 24 hours |
 
 There is inadequate information regarding the use of Meropenem for Injection, USP in patients on hemodialysis or peritoneal dialysis.
@@ -33,9 +33,9 @@ There is inadequate information regarding the use of Meropenem for Injection, US
 ## 2.3 Use in Pediatric Patients
 
 Pediatric Patients 3 Months of Age and Older For pediatric patients from 3 months of age and older, the Meropenem for Injection, USP dose is 10 mg/kg, 20 mg/kg or 40 mg/kg every 8 hours (maximum dose is 2 grams every 8 hours), depending on the type of infection (complicated skin and skin structure, intra-abdominal or meningitis).
-(See dosing table below.)
+See dosing table below.
 Pediatric patients weighing over 50 kg should be administered Meropenem for Injection, USP at a dose of 500 mg every 8 hours for complicated skin and skin structure infections, 1 gram every 8 hours for intra-abdominal infections and 2 grams every 8 hours for meningitis.
-Meropenem for Injection, USP should be given as intravenous infusion over approximately 15 minutes to 30 minutes or as an intravenous bolus injection (5 mL to 20 mL) over approximately 3 minutes -5 minutes.
+Meropenem for Injection, USP should be given as intravenous infusion over approximately 15 minutes to 30 minutes or as an intravenous bolus injection (5 mL to 20 mL) over approximately 3 minutes to 5 minutes.
 There is limited safety data available to support the administration of a 40 mg/kg (up to a maximum of 2 grams) bolus dose.
 
 | Recommended Meropenem for Injection, USP Dosage Schedule for Pediatric Patients 3 Months of Age and Older with Normal Renal Function |  |  |  |
@@ -46,15 +46,15 @@ There is limited safety data available to support the administration of a 40 mg/
 | Meningitis | 40 | 2 gram | Every 8 hours |
 
 There is no experience in pediatric patients with renal impairment.
-When treating complicated skin and skin structure infections caused by P. aeruginosa, a dose of 20 mg/kg (or 1 gram for pediatric patients weighing over 50 kg) every 8 hours is recommended
+When treating complicated skin and skin structure infections caused by P. aeruginosa, a dose of 20 mg/kg (or 1 gram for pediatric patients weighing over 50 kg) every 8 hours is recommended.
 
 Pediatric Patients Less Than 3 Months of Age For pediatric patients (with normal renal function) less than 3 months of age, with intra-abdominal infections, the Meropenem for Injection, USP dose is based on gestational age (GA) and postnatal age (PNA).
-(See dosing table below).
+See dosing table below.
 Meropenem for Injection, USP should be given as intravenous infusion over 30 minutes.
 
 | Recommended Meropenem for Injection, USP Dosage Schedule for Pediatric Patients Less Than 3 Months of Age with Complicated Intra-Abdominal Infections and Normal Renal Function |  |  |
 | --- | --- | --- |
-| Age Group | Dose (Mg/kg) | Dose Interval |
+| Age Group | Dose (mg/kg) | Dose Interval |
 | Infants less than 32 weeks GA and PNA less than 2 weeks | 20 | Every 12 hours |
 | Infants less than 32 weeks GA and PNA 2 weeks and older | 20 | Every 8 hours |
 | Infants 32 weeks and older GA and PNA less than 2 weeks | 20 | Every 8 hours |
@@ -63,7 +63,7 @@ Meropenem for Injection, USP should be given as intravenous infusion over 30 min
 
 ## 2.4 Preparation of Solution
 
-For Intravenous Bolus Administration Constitute injection vials (500 mg and 1 gram) with sterile Water for Injection (see table below.)
+For Intravenous Bolus Administration Constitute injection vials (500 mg and 1 gram) with sterile Water for Injection (see table below).
 Shake to dissolve and let stand until clear.
 
 | Vial Size | Amount of Diluent Added (mL) | Approximate Withdrawable Volume (mL) | Approximate Average Concentration (mg/mL) |
@@ -72,7 +72,7 @@ Shake to dissolve and let stand until clear.
 | 1 gram | 20 | 20 | 50 |
 
 For Infusion Infusion vials (500 mg and 1 gram) may be directly constituted with a compatible infusion fluid.
-Alternatively, an injection vial may be constituted, then the resulting solution added to an intravenous container and further diluted with an appropriate infusion fluid [see Dosage and Administration (2.5)and (2.6)].
+Alternatively, an injection vial may be constituted, then the resulting solution added to an intravenous container and further diluted with an appropriate infusion fluid [see Dosage and Administration(2.5) and (2.6)].
 WARNING: Do not use flexible container in series connections.
 
 ## 2.5 Compatibility

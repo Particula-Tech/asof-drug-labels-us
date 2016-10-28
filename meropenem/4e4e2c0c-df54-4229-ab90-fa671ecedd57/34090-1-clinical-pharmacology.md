@@ -6,40 +6,40 @@ Meropenem is an antibacterial drug [see Clinical Pharmacology(12.4)].
 
 ## 12.3 Pharmacokinetics
 
-Plasma Concentrations At the end of a 30-minute intravenous infusion of a single dose of Meropenem for Injection, USP in healthy volunteers, mean peak plasma concentrations of meropenem are approximately 23 mcg/mL (range 14-26) for the 500 mg dose and 49 mcg/mL (range 39-58) for the 1 gram dose.
-A 5-minute intravenous bolus injection of Meropenem for Injection, USP in healthy volunteers results in mean peak plasma concentrations of approximately 45 mcg/mL (range 18-65) for the 500 mg dose and 112 mcg/mL (range 83-140) for the 1 gram dose.
+Plasma Concentrations At the end of a 30-minute intravenous infusion of a single dose of Meropenem for Injection, USP in healthy volunteers, mean peak plasma concentrations of meropenem are approximately 23 mcg/mL (range 14 to 26) for the 500 mg dose and 49 mcg/mL (range 39 to 58) for the 1 gram dose.
+A 5-minute intravenous bolus injection of Meropenem for Injection, USP in healthy volunteers results in mean peak plasma concentrations of approximately 45 mcg/mL (range 18 to 65) for the 500 mg dose and 112 mcg/mL (range 83 to 140) for the 1 gram dose.
 Following intravenous doses of 500 mg, mean plasma concentrations of meropenem usually decline to approximately 1 mcg/mL at 6 hours after administration.
 No accumulation of meropenem in plasma was observed with regimens using 500 mg administered every 8 hours or 1 gram administered every 6 hours in healthy volunteers with normal renal function.
 Distribution The plasma protein binding of meropenem is approximately 2%.
 Meropenem penetrates well into most body fluids and tissues including cerebrospinal fluid, achieving concentrations matching or exceeding those required to inhibit most susceptible bacteria.
-After a single intravenous dose of Meropenem for Injection, USP the highest mean concentrations of meropenem were found in tissues and fluids at 1 hour (0.5 hours to 1.5 hours) after the start of infusion, except where indicated in the tissues and fluids listed in the table below.
+After a single intravenous dose of Meropenem for Injection, USP, the highest mean concentrations of meropenem were found in tissues and fluids at 1 hour (0.5 hours to 1.5 hours) after the start of infusion, except where indicated in the tissues and fluids listed in the table below.
 
 Table 1.
 Meropenem Concentrations in Selected Tissues (Highest Concentrations Reported)
 
 | Tissue | Intravenous. Dose (gram) | Number of Samples | Mean [mcg/mL or mcg/(gram)]1 | Range [mcg/mL or mcg/(gram)] |
 | --- | --- | --- | --- | --- |
-| Endometrium | 0.5 | 7 | 4.2 | 1.7-10.2 |
-| Myometrium | 0.5 | 15 | 3.8 | 0.4-8.1 |
-| Ovary | 0.5 | 8 | 2.8 | 0.8-4.8 |
-| Cervix | 0.5 | 2 | 7 | 5.4-8.5 |
-| Fallopian tube | 0.5 | 9 | 1.7 | 0.3-3.4 |
-| Skin | 0.5 | 22 | 3.3 | 0.5-12.6 |
-| Interstitial fluid2 | 0.5 | 9 | 5.5 | 3.2-8.6 |
-| Skin | 1 | 10 | 5.3 | 1.3-16.7 |
-| Interstitial fluid2 | 1 | 5 | 26.3 | 20.9-37.4 |
-| Colon | 1 | 2 | 2.6 | 2.5-2.7 |
-| Bile | 1 | 7 | 14.6 (3 hours) | 4-25.7 |
+| Endometrium | 0.5 | 7 | 4.2 | 1.7 to 10.2 |
+| Myometrium | 0.5 | 15 | 3.8 | 0.4 to 8.1 |
+| Ovary | 0.5 | 8 | 2.8 | 0.8 to 4.8 |
+| Cervix | 0.5 | 2 | 7 | 5.4 to 8.5 |
+| Fallopian tube | 0.5 | 9 | 1.7 | 0.3 to 3.4 |
+| Skin | 0.5 | 22 | 3.3 | 0.5 to 12.6 |
+| Interstitial fluid2 | 0.5 | 9 | 5.5 | 3.2 to 8.6 |
+| Skin | 1 | 10 | 5.3 | 1.3 to 16.7 |
+| Interstitial fluid2 | 1 | 5 | 26.3 | 20.9 to 37.4 |
+| Colon | 1 | 2 | 2.6 | 2.5 to 2.7 |
+| Bile | 1 | 7 | 14.6 (3 hours) | 4 to 25.7 |
 | Gall bladder | 1 | 1 | - | 3.9 |
-| Peritoneal fluid | 1 | 9 | 30.2 | 7.4-54.6 |
-| Lung | 1 | 2 | 4.8 (2 hours) | 1.4-8.2 |
-| Bronchial mucosa | 1 | 7 | 4.5 | 1.3-11.1 |
-| Muscle | 1 | 2 | 6.1 (2 hours) | 5.3-6.9 |
-| Fascia | 1 | 9 | 8.8 | 1.5-20 |
-| Heart valves | 1 | 7 | 9.7 | 6.4-12.1 |
-| Myocardium | 1 | 10 | 15.5 | 5.2 -25.5 |
-| CSF (inflamed) | 20 mg/kg3 40 mg/kg4 | 8 5 | 1.1 (2 hours) 3.3 (3 hours) | 0.2-2.8 0.9-6.5 |
-| CSF (uninflamed) | 1 | 4 | 0.2 (2 hours) | 0.1-0.3 |
+| Peritoneal fluid | 1 | 9 | 30.2 | 7.4 to 54.6 |
+| Lung | 1 | 2 | 4.8 (2 hours) | 1.4 to 8.2 |
+| Bronchial mucosa | 1 | 7 | 4.5 | 1.3 to 11.1 |
+| Muscle | 1 | 2 | 6.1 (2 hours) | 5.3 to 6.9 |
+| Fascia | 1 | 9 | 8.8 | 1.5 to 20 |
+| Heart valves | 1 | 7 | 9.7 | 6.4 to 12.1 |
+| Myocardium | 1 | 10 | 15.5 | 5.2 to 25.5 |
+| CSF (inflamed) | 20 mg/kg3 40 mg/kg4 | 8 5 | 1.1 (2 hours) 3.3 (3 hours) | 0.2 to 2.8 0.9 to 6.5 |
+| CSF (uninflamed) | 1 | 4 | 0.2 (2 hours) | 0.1 to 0.3 |
 | at 1 hour unless otherwise notedobtained from blister fluidin pediatric patients of age 5 months to 8 yearsin pediatric patients of age 1 month to 15 years |  |  |  |  |
 
 Metabolism
@@ -51,7 +51,7 @@ Excretion
 In subjects with normal renal function, the elimination half-life of meropenem is approximately 1 hour.
 
 Meropenem is primarily excreted unchanged by the kidneys.
-Approximately 70% (50 – 75%) of the dose is excreted unchanged within 12 hours.
+Approximately 70% (50% to 75%) of the dose is excreted unchanged within 12 hours.
 A further 28% is recovered as the microbiologically inactive metabolite.
 Fecal elimination represents only approximately 2% of the dose.
 The measured renal clearance and the effect of probenecid show that meropenem undergoes both filtration and tubular secretion.
@@ -63,10 +63,10 @@ Specific Populations
 Renal Impairment
 
 Pharmacokinetic studies with Meropenem for Injection, USP in patients with renal impairment have shown that the plasma clearance of meropenem correlates with creatinine clearance.
-Dosage adjustments are necessary in subjects with renal impairment (creatinine clearance 50 mL/min or less) [see Dosage and Administration (2.2)and Use In Specific Populations (8.6)].
+Dosage adjustments are necessary in subjects with renal impairment (creatinine clearance 50 mL/min or less) [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
 
 Meropenem for Injection, USP is hemodialyzable.
-However, there is no information on the usefulness of hemodialysis to treat overdosage [see Overdosage (10)].
+However, there is no information on the usefulness of hemodialysis to treat overdosage [see Overdosage(10)].
 Hepatic Impairment
 
 A pharmacokinetic study with Meropenem for Injection, USP in patients with hepatic impairment has shown no effects of liver disease on the pharmacokinetics of meropenem.
@@ -77,7 +77,7 @@ A pharmacokinetic study with Meropenem for Injection, USP in elderly patients wi
 
 Pediatric Patients
 
-The pharmacokinetics of meropenem for injection, USP I.V., in pediatric patients 2 years of age or older, are similar to those in adults.
+The pharmacokinetics of meropenem for injection, USP, in pediatric patients 2 years of age or older, are similar to those in adults.
 The elimination half-life for meropenem was approximately 1.5 hours in pediatric patients of age 3 months to 2 years.
 
 The pharmacokinetics of meropenem in patients less than 3 months of age receiving combination antibacterial drug therapy are given below.
@@ -105,7 +105,7 @@ Co-administration of probenecid with meropenem is not recommended.
 Mechanism of Action The bactericidal activity of meropenem results from the inhibition of cell wall synthesis.
 Meropenem readily penetrates the cell wall of most Gram-positive and Gram-negative bacteria to reach penicillin-binding-protein (PBP) targets.
 Its strongest affinities are toward PBPs 2, 3 and 4 of Escherichia coli and Pseudomonas aeruginosa; and PBPs 1, 2 and 4 of Staphylococcus aureus.
-Bactericidal concentrations (defined as a 3 log10 reduction in cell counts within 12 hours to 24 hours) are typically 1-2 times the bacteriostatic concentrations of meropenem, with the exception of Listeria monocytogenes, against which lethal activity is not observed.
+Bactericidal concentrations (defined as a 3 log10 reduction in cell counts within 12 hours to 24 hours) are typically 1 to 2 times the bacteriostatic concentrations of meropenem, with the exception of Listeria monocytogenes, against which lethal activity is not observed.
 Meropenem has significant stability to hydrolysis by β-lactamases, both penicillinases and cephalosporinases produced by Gram-positive and Gram-negative bacteria.
 
 Meropenem should not be used to treat methicillin-resistant Staphylococcus aureus (MRSA) or methicillin-resistant Staphylococcus epidermidis (MRSE).
@@ -124,7 +124,7 @@ In vitro tests show meropenem to act synergistically with aminoglycoside antibac
 
 Spectrum of Activity
 
-Meropenem has been shown to be active against most isolates of the following bacteria, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section (1).
+Meropenem has been shown to be active against most isolates of the following bacteria, both in vitro and in clinical infections as described [see Indications and Usage (1)].
 Gram-positive bacteria
 
 Enterococcus faecalis (vancomycin-susceptible isolates only)
@@ -135,15 +135,9 @@ Streptococcus agalactiae
 
 Streptococcus pneumoniae (penicillin-susceptible isolates only)
 
-Streptococcus pyogenes
+Streptococcus pyogenes Viridans group streptococci
 
-Viridans group streptococci
-
-Gram-negative bacteria
-
-Escherichia coli
-
-Haemophilus influenzae
+Gram-negative bacteria Escherichia coli Haemophilus influenzae
 
 Klebsiella pneumoniae
 
@@ -210,15 +204,15 @@ The MIC values obtained should be interpreted according to the criteria provided
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Minimum Inhibitory Concentrations (mcg/mL) |  |  | Disk Diffusion (zone diameters in mm) |  |  |
 | Pathogen | S | I | R | S | I | R |
-| Enterobacteriaceae | ≤1 | 2 | ≥4 | ≥23 | 20-22 | ≤19 |
-| Pseudomonas aeruginosa1 | ≤2 | 4 | ≥8 | ≥19 | 16-18 | ≤15 |
+| Enterobacteriaceae | ≤1 | 2 | ≥4 | ≥23 | 20 to 22 | ≤19 |
+| Pseudomonas aeruginosa1 | ≤2 | 4 | ≥8 | ≥19 | 16 to 18 | ≤15 |
 | Haemophilus influenzae2 | ≤0.5 | - | - | ≥20 | - | - |
 | Neisseria meningitidis2 | ≤0.25 | - | - | ≥30 | - | - |
 | Streptococcus pneumoniae3,5 | ≤0.25 | 0.5 | ≥1 | - | - | - |
 | Streptococcus agalactiae and Streptococcus pyogenes2,4,5 | ≤0.5 | - | - | - | - | - |
 | Anaerobes6 | ≤4 | 8 | ≥16 | - | - | - |
 | S = Susceptible, I = Intermediate, R = Resistant No interpretative criteria have been established for testing enterococci. Susceptibility of staphylococci to meropenem may be deduced from testing penicillin and either cefoxitin or oxacillin. |  |  |  |  |  |  |
-| 1. The interpretive criteria for P. aeruginosa are based upon the dosing of 1g every 8 hours. 2. The current absence of data on resistant isolates precludes defining any category other than “Susceptible”. If isolates yield MICresults other than susceptible, they should be submitted to a reference laboratory for additional testing. 3. For nonmeningitis isolates of S. pneumoniae a penicillin MIC of ≤ 0.06 mcg/mL or oxacillin zone ≥ 20 mm can predictsusceptibility to meropenem. MIC testing should be performed on isolates that do not test as susceptible by either of these methods, and on all meningitis S. pneumoniaeisolates. 4. Viridans group streptococci should be tested for meropenem susceptibility using an MIC method and results should be reported using the interpretive criteria listed for S. agalactiae and S. pyogenes. 5. Reliable disk diffusion tests for meropenem do not yet exist for testing streptococci. 6. MIC values using either Brucella blood or Wilkins Chalgren agar (former reference medium) are considered equivalent, based upon published in vitro literature and a multicenter collaborative trial for these antimicrobial agents. Broth microdilution is only recommended for testing the B. fragilis group. MIC values for agar or broth microdilution are considered equivalent for that group. |  |  |  |  |  |  |
+| 1. The interpretive criteria for P. aeruginosa are based upon the dosing of 1g every 8 hours. 2. The current absence of data on resistant isolates precludes defining any category other than “Susceptible”. If isolates yield MICresults other than susceptible, they should be submitted to a reference laboratory for additional testing. 3. For nonmeningitis isolates of S. pneumoniaea penicillin MIC of ≤ 0.06 mcg/mL or oxacillin zone ≥ 20 mm can predictsusceptibility to meropenem. MIC testing should be performed on isolates that do not test as susceptible by either of these methods, and on all meningitis S. pneumoniae isolates. 4. Viridans group streptococci should be tested for meropenem susceptibility using an MIC method and results should be reported using the interpretive criteria listed for S. agalactiae and S. pyogenes. 5. Reliable disk diffusion tests for meropenem do not yet exist for testing streptococci. 6. MIC values using either Brucella blood or Wilkins Chalgren agar (former reference medium) are considered equivalent, based upon published in vitro literature and a multicenter collaborative trial for these antimicrobial agents. Broth microdilution is only recommended for testing the B. fragilis group. MIC values for agar or broth microdilution are considered equivalent for that group. |  |  |  |  |  |  |
 
 A report of Susceptible indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound in the blood reaches the concentrations usually achievable.
 A report of Intermediate indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
@@ -231,16 +225,16 @@ Standard meropenem powder should provide the following range of values noted in 
 | Table 4. Acceptable Quality Control Ranges for Meropenem |  |  |
 | --- | --- | --- |
 | QC Strain | Minimum Inhibitory Concentrations (MICs = mcg/mL) | Disk Diffusion (Zone diameters in mm) |
-| Staphylococcus aureus ATCC 29213 | 0.03-0.12 | - |
-| Staphylococcus aureus ATCC 25923 | - | 29–37 |
-| Streptococcus pneumoniae ATCC 49619 | 0.06-0.25 | 28–35 |
-| Enterococcus faecalis ATCC 29212 | 2–8 |  |
-| Escherichia coli ATCC 25922 | 0.008-0.06 | 28–34 |
-| Haemophilus influenzae ATCC 49766 | 0.03-0.12 |  |
-| Haemophilus influenzae ATCC 49247 | - | 20–28 |
-| Pseudomonas aeruginosa ATCC 27853 | 0.25-1 | 27–33 |
-| Bacteroides fragilis1 ATCC 25285 | 0.03–0.25 |  |
-| Bacteroides thetaiotaomicron1 ATCC 29741 | 0.125-0.5 |  |
-| Eubacterium lentum1 ATCC 43055 | 0.125-1 |  |
-| Clostridium dificile1 ATCC 700057 | 0.5-4 |  |
+| Staphylococcus aureus ATCC 29213 | 0.03 to 0.12 | - |
+| Staphylococcus aureus ATCC 25923 | - | 29 to 37 |
+| Streptococcus pneumoniae ATCC 49619 | 0.06 to 0.25 | 28 to 35 |
+| Enterococcus faecalis ATCC 29212 | 2 to 8 |  |
+| Escherichia coli ATCC 25922 | 0.008 to 0.06 | 28 to 34 |
+| Haemophilus influenzae ATCC 49766 | 0.03 to 0.12 |  |
+| Haemophilus influenzae ATCC 49247 | - | 20 to 28 |
+| Pseudomonas aeruginosa ATCC 27853 | 0.25 to 1 | 27 to 33 |
+| Bacteroides fragilis1 ATCC 25285 | 0.03 to 0.25 |  |
+| Bacteroides thetaiotaomicron1 ATCC 29741 | 0.125 to 0.5 |  |
+| Eubacterium lentum1 ATCC 43055 | 0.125 to 1 |  |
+| Clostridium dificile1 ATCC 700057 | 0.5 to 4 |  |
 | 1. Using the Reference Agar Dilution procedure. |  |  |
