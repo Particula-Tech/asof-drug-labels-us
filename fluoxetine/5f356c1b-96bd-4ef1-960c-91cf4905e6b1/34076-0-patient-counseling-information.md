@@ -26,7 +26,7 @@ Symptoms such as these may be associated with an increased risk for suicidal thi
 
 ## 17.3 Serotonin Syndrome
 
-Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of PROZAC and other serotonergic agents including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, and St. John's Wort [see Contraindications (4.1), Warnings and Precautions (5.2), and Drug Interactions (7.3)].
+Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of PROZAC and other serotonergic agents including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John's Wort [see Contraindications (4.1), Warnings and Precautions (5.2), and Drug Interactions (7.3)].
 
 Patients should be advised of the signs and symptoms associated with serotonin syndrome that may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular changes (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 Patients should be cautioned to seek medical care immediately if they experience these symptoms.
@@ -91,3 +91,14 @@ Height and weight should be monitored periodically in pediatric patients receivi
 [see Warnings and Precautions (5.6) and Use in Specific Populations (8.4)].
 
 Pediatric Use of PROZAC and olanzapine in combination - Safety and efficacy of PROZAC and olanzapine in combination in patients 10 to 17 years of age have been established for the acute treatment of depressive episodes associated with Bipolar I Disorder [see Warnings and Precautions (5.16) and Use in Specific Populations (8.4)].
+
+Literature revised October 24, 2016
+
+Marketed by: Lilly USA, LLC
+
+Indianapolis, IN 46285, USA
+
+Copyright © 1987, 2016, Eli Lilly and Company.
+All rights reserved.
+
+PRZ-0004-USPI-20161024
