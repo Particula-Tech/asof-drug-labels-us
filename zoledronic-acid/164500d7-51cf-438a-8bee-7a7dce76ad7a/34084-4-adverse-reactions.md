@@ -111,6 +111,10 @@ Osteonecrosis of the Jaw
 
 Osteonecrosis of the jaw has been reported.
 
+Osteonecrosis of other bones
+
+Cases of osteonecrosis of other bones (including femur, hip, knee, ankle, wrist and humerus) have been reported; causality has not been determined in the population treated with zoledronic acid.
+
 Ocular Adverse Events
 
 Cases of the following events have been reported: conjunctivitis, iritis, iridocyclitis, uveitis, episcleritis, scleritis and orbital inflammation/edema.

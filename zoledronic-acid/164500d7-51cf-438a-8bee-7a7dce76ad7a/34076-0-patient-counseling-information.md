@@ -34,7 +34,8 @@ The incidence of these symptoms decreased markedly with subsequent doses of Zole
 Administration of acetaminophen following Zoledronic Acid Injection administration may reduce the incidence of these symptoms.
 
 Physicians should inform their patients that there have been reports of persistent pain and/or a non-healing sore of the mouth or jaw, primarily in patients treated with bisphosphonates for other illnesses.
-If they experience these symptoms, they should inform their physician or dentist.
+During treatment with Zoledronic Acid Injection, patients should be instructed to maintain good oral hygiene and undergo routine dental check-ups.
+If they experience any oral symptoms, they should immediately report them to their physician or dentist.
 
 Severe and occasionally incapacitating bone, joint, and/or muscle pain have been infrequently reported in patients taking bisphosphonates, including Zoledronic Acid Injection.
 Consider withholding future Zoledronic Acid Injection treatment if severe symptoms develop.
@@ -45,6 +46,6 @@ Brands listed are the trademarks of their respective owners.
 
 SAGENT®
 
-Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2015 Sagent Pharmaceuticals, Inc.
+Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2016 Sagent Pharmaceuticals, Inc.
 
-Revised: September 2015
+Revised: July 2016
