@@ -18,7 +18,7 @@ Healthcare professionals should instruct patients not to take KHEDEZLA with an M
 
 Serotonin Syndrome
 
-Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of KHEDEZLA with other serotonergic agents (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John"s Wort supplements) [see Warnings and Precautions (5.2)].
+Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of KHEDEZLA with other serotonergic agents (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, amphetamines, tryptophan, buspirone, and St. John"s Wort supplements) [see Warnings and Precautions (5.2)].
 
 Elevated Blood Pressure
 
@@ -82,6 +82,6 @@ Distributed by: Pernix Therapeutics, LLC
 
 Morristown, NJ 07960
 
-Revised 09/2016
+Revised 10/2016
 
 OS374-01-84-03 PC 4623HP
