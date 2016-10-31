@@ -9,12 +9,12 @@ The antihypertensive effects of verapamil hydrochloride extended-release capsule
 
 If adequate response is not obtained with 120 mg of verapamil hydrochloride extended-release capsules, the dose may be titrated upward in the following manner:
 
-- •180 mg in the morning,
-- •240 mg in the morning,
-- •360 mg in the morning,
-- •480 mg in the morning.
+1. (a)180 mg in the morning.
+2. (b)240 mg in the morning.
+3. (c)360 mg in the morning.
+4. (d)480 mg in the morning.
 
-Verapamil extended-release capsules are for once a day administration.
+Verapamil extended-release capsules are for once-a-day administration.
 When switching from immediate-release verapamil to verapamil hydrochloride extended-release capsules, the same total daily dose of verapamil hydrochloride extended-release capsules can be used.
 
 As with immediate-release verapamil, dosages of verapamil hydrochloride extended-release capsules should be individualized and titration may be needed in some patients.
@@ -25,4 +25,4 @@ Verapamil hydrochloride extended-release bead filled capsules may also be admini
 The applesauce should be swallowed immediately without chewing and followed with a glass of cool water to ensure complete swallowing of the beads.
 The applesauce used should not be hot, and it should be soft enough to be swallowed without chewing.
 Any bead/applesauce mixture should be used immediately and not stored for future use.
-Subdividing the contents of a verapamil hydrochloride extended-release capsule is not recommended.
+Subdividing the contents of verapamil hydrochloride extended-release capsules are not recommended.

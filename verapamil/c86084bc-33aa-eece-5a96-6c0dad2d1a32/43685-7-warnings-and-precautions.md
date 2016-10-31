@@ -43,8 +43,8 @@ Marked first-degree block or progressive development to second- or third-degree 
 
 In 120 patients with hypertrophic cardiomyopathy (most of them refractory or intolerant to propranolol) who received therapy with verapamil at doses up to 720 mg/day, a variety of serious adverse effects were seen.
 Three patients died in pulmonary edema; all had severe left ventricular outflow obstruction and a past history of left ventricular dysfunction.
-Eight other patients had pulmonary edema and/or severe hypotension; abnormally high (over 20 mm Hg) capillary wedge pressure and a marked left ventricular outflow obstruction were present in most of these patients.
-Concomitant administration of quinidine (see PRECAUTIONS: Drug Interactions) preceded the severe hypotension in three of the eight patients (two of whom developed pulmonary edema).
+Eight other patients had pulmonary edema and/or severe hypotension; abnormally high (over 20 mmHg) capillary wedge pressure and a marked left ventricular outflow obstruction were present in most of these patients.
+Concomitant administration of quinidine (see Drug Interactions) preceded the severe hypotension in 3 of the 8 patients (2 of whom developed pulmonary edema).
 Sinus bradycardia occurred in 11% of the patients, second-degree AV block in 4% and sinus arrest in 2%.
 It must be appreciated that this group of patients had a serious disease with a high mortality rate.
 Most adverse effects responded well to dose reduction and only rarely did verapamil have to be discontinued.
@@ -94,7 +94,7 @@ Hypotension, bradyarrhythmias, and lactic acidosis have been observed in patient
 
 The use of HMG-CoA reductase inhibitors that are CYP3A4 substrates in combination with verapamil has been associated with reports of myopathy/rhabdomyolysis.
 
-Coadministration of multiple doses of 10 mg of verapamil with 80 mg simvastatin resulted in exposure to simvastatin 2.5-fold that following simvastatin alone.
+Co-administration of multiple doses of 10 mg of verapamil with 80 mg simvastatin resulted in exposure to simvastatin 2.5-fold that following simvastatin alone.
 Limit the dose of simvastatin in patients on verapamil to 10 mg daily.
 Limit the daily dose of lovastatin to 40 mg.
 Lower starting and maintenance doses of other CYP3A4 substrates (e.g., atorvastatin) may be required as verapamil may increase the plasma concentration of these drugs.
@@ -152,7 +152,7 @@ Concomitant therapy with flecainide and verapamil may result in additive negativ
 In a small number of patients with hypertrophic cardiomyopathy (IHSS), concomitant use of verapamil and quinidine resulted in significant hypotension.
 Until further data are obtained, combined therapy of verapamil and quinidine in patients with hypertrophic cardiomyopathy should probably be avoided.
 
-The electrophysiological effects of quinidine and verapamil on AV conduction were studied in eight patients.
+The electrophysiological effects of quinidine and verapamil on AV conduction were studied in 8 patients.
 Verapamil significantly counteracted the effects of quinidine on AV conduction.
 There has been a report of increased quinidine levels during verapamil therapy.
 
@@ -223,10 +223,10 @@ It may be necessary to decrease the dose of verapamil and/or the dose of the neu
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-An 18-month toxicity study in rats, at a low multiple (6-fold) of the maximum recommended human dose, and not the maximum tolerated dose, did not suggest a tumorigenic potential.
-There was no evidence of a carcinogenic potential of verapamil administered in the diet of rats for 2 years at doses of 10, 35 and 120 mg/kg per day or approximately 1 time, 3.5 times and 12 times, respectively, the maximum recommended human daily dose (480 mg/day or 9.6 mg/kg/day).
+An 18-month toxicity study in rats, at a low multiple (6 fold) of the maximum recommended human dose, and not the maximum tolerated dose, did not suggest a tumorigenic potential.
+There was no evidence of a carcinogenic potential of verapamil administered in the diet of rats for two years at doses of 10 mg/kg per day, 35 mg/kg per day and 120 mg/kg per day or approximately 1 time, 3.5 times and 12 times, respectively, the maximum recommended human daily dose (480 mg per day or 9.6 mg/kg/day).
 
-Verapamil was not mutagenic in the Ames test in five test strains at 3 mg per plate, with or without metabolic activation.
+Verapamil was not mutagenic in the Ames test in 5 test strains at 3 mg per plate, with or without metabolic activation.
 
 Studies in female rats at daily dietary doses up to 5.5 times (55 mg/kg/day) the maximum recommended human dose did not show impaired fertility.
 Effects on male fertility have not been determined.

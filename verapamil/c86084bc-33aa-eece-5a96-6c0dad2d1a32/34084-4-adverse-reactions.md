@@ -4,7 +4,7 @@ Serious adverse reactions are uncommon when verapamil hydrochloride therapy is i
 See WARNINGS for discussion of heart failure, hypotension, elevated liver enzymes, AV block, and rapid ventricular response.
 Reversible (upon discontinuation of verapamil) non-obstructive, paralytic ileus has been infrequently reported in association with the use of verapamil.
 
-In clinical trials involving 285 hypertensive patients on verapamil hydrochloride extended-release for greater than one week the following adverse reactions were reported in greater than 1% of the patients:
+In clinical trials involving 285 hypertensive patients on verapamil hydrochloride extended-release capsules for greater than 1 week the following adverse reactions were reported in greater than 1.0% of the patients:
 
 | Constipation | 7.4% |
 | --- | --- |
@@ -17,7 +17,7 @@ In clinical trials involving 285 hypertensive patients on verapamil hydrochlorid
 | Sleep Disturbance | 1.4% |
 | Myalgia | 1.1% |
 
-In clinical trials of other formulations of verapamil hydrochloride (N=4,954) the following reactions have occurred at rates greater than 1%:
+In clinical trials of other formulations of verapamil hydrochloride (N = 4,954) the following reactions have occurred at rates greater than 1.0%:
 
 | Constipation | 7.3% |
 | --- | --- |
@@ -37,7 +37,7 @@ In clinical trials of other formulations of verapamil hydrochloride (N=4,954) th
 
 In clinical trials related to the control of ventricular response in digitalized patients who had atrial fibrillation or atrial flutter, ventricular rate below 50/min at rest occurred in 15% of patients and asymptomatic hypotension occurred in 5% of patients.
 
-The following reactions, reported in 1% or less of patients, occurred under conditions (open trials, marketing experience) where a causal relationship is uncertain; they are listed to alert the physician to a possible relationship:
+The following reactions, reported in 1.0% or less of patients, occurred under conditions (open trials, marketing experience) where a causal relationship is uncertain; they are listed to alert the physician to a possible relationship:
 
 Cardiovascular: angina pectoris, atrioventricular dissociation, chest pain, claudication, myocardial infarction, palpitations, purpura (vasculitis), syncope.
 
