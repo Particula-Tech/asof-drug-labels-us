@@ -39,3 +39,23 @@ Rx ONLY
 SANOFI
 
 Pull to remove leaflet
+
+# PRINCIPAL DISPLAY PANEL - 8 mL Vial Carton
+
+Winthrop
+
+NDC 0955-1022-08
+
+Docetaxel Injection Concentrate
+
+160 mg/8 mL (20 mg/mL)
+
+READY TO ADD TO INFUSION SOLUTION For Intravenous Infusion Only
+
+Contains 8 mL
+
+Rx ONLY
+
+SANOFI
+
+Pull to remove leaflet

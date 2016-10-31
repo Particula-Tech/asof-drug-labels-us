@@ -24,7 +24,7 @@ The alcohol content of Docetaxel Injection should be taken into account when giv
 The efficacy of docetaxel in pediatric patients as monotherapy or in combination has not been established.
 The overall safety profile of docetaxel in pediatric patients receiving monotherapy or TCF was consistent with the known safety profile in adults.
 
-Docetaxel has been studied in a total of 289 pediatric patients: 239 in 2 trials with monotherapy and 50 in combination treatment with cisplatin and 5-fluoruracil (TCF).
+Docetaxel has been studied in a total of 289 pediatric patients: 239 in 2 trials with monotherapy and 50 in combination treatment with cisplatin and 5-fluorouracil (TCF).
 
 Docetaxel Monotherapy
 
