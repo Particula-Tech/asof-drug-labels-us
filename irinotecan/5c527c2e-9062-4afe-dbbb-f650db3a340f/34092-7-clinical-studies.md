@@ -89,7 +89,7 @@ The primary endpoint in both studies was survival.
 The studies demonstrated a significant overall survival advantage for irinotecan compared with best supportive care (p=0.0001) and infusional 5-FU-based therapy (p=0.035) as shown in Figures 1 and 2.
 In Study 7, median survival for patients treated with irinotecan was 9.2 months compared with 6.5 months for patients receiving best supportive care.
 In Study 8, median survival for patients treated with irinotecan was 10.8 months compared with 8.5 months for patients receiving infusional 5-FU-based therapy.
-Multiple regression analyses determined that patients’ baseline characteristics also had a significant effect on survival.
+Multiple regression analyses determined that patients' baseline characteristics also had a significant effect on survival.
 When adjusted for performance status and other baseline prognostic factors, survival among patients treated with irinotecan remained significantly longer than in the control populations (p=0.001 for Study 7 and p=0.017 for Study 8).
 Measurements of pain, performance status, and weight loss were collected prospectively in the two studies; however, the plan for the analysis of these data was defined retrospectively.
 When comparing irinotecan with best supportive care in Study 7, this analysis showed a statistically significant advantage for irinotecan, with longer time to development of pain (6.9 months versus 2.0 months), time to performance status deterioration (5.7 months versus 3.3 months), and time to >5% weight loss (6.4 months versus 4.2 months).
@@ -117,10 +117,10 @@ Once-Every-3-Week Dosage Schedule: Study Results
 | a BSC = best supportive care b Relative dose intensity for irinotecan based on planned dose intensity of 116.7 and 100 mg/m2/wk corresponding with 350 and 300 mg/m2 starting doses, respectively. |  |  |  |  |  |  |  |  |  |
 
 In the two randomized studies, the EORTC QLQ-C30 instrument was utilized.
-At the start of each cycle of therapy, patients completed a questionnaire consisting of 30 questions, such as “Did pain interfere with daily activities?”
-(1 = Not at All, to 4 = Very Much) and “Do you have any trouble taking a long walk?”
-(Yes or No). The answers from the 30 questions were converted into 15 subscales, that were scored from 0 to 100, and the global health status subscale that was derived from two questions about the patient’s sense of general well being in the past week.
-The results as summarized in Table 8 are based on patients’ worst post-baseline scores.
+At the start of each cycle of therapy, patients completed a questionnaire consisting of 30 questions, such as "Did pain interfere with daily activities?"
+(1 = Not at All, to 4 = Very Much) and "Do you have any trouble taking a long walk?"
+(Yes or No). The answers from the 30 questions were converted into 15 subscales, that were scored from 0 to 100, and the global health status subscale that was derived from two questions about the patient's sense of general well being in the past week.
+The results as summarized in Table 8 are based on patients' worst post-baseline scores.
 In Study 7, a multivariate analysis and univariate analyses of the individual subscales were performed and corrected for multivariate testing.
 Patients receiving irinotecan reported significantly better results for the global health status, on two of five functional subscales, and on four of nine symptom subscales.
 As expected, patients receiving irinotecan noted significantly more diarrhea than those receiving best supportive care.

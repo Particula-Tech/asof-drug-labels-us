@@ -2,7 +2,7 @@
 
 ## 7.1 Strong CYP3A4 Inducers
 
-Exposure to irinotecan or its active metabolite SN-38 is substantially reduced in adult and pediatric patients concomitantly receiving the CYP3A4 enzyme-inducing anticonvulsants phenytoin, phenobarbital, carbamazepine, or St. John’s wort.
+Exposure to irinotecan or its active metabolite SN-38 is substantially reduced in adult and pediatric patients concomitantly receiving the CYP3A4 enzyme-inducing anticonvulsants phenytoin, phenobarbital, carbamazepine, or St. John's wort.
 The appropriate starting dose for patients taking these or other strong inducers such as rifampin and rifabutin has not been defined.
 Consider substituting non-enzyme inducing therapies at least 2 weeks prior to initiation of irinotecan therapy.
 Do not administer strong CYP3A4 inducers with irinotecan unless there are no therapeutic alternatives.

@@ -40,7 +40,7 @@ Patients who have previously received pelvic/abdominal irradiation are at increa
 Based on sparse available data, the concurrent administration of Irinotecan Hydrochloride Injection, USP with irradiation is not recommended.
 
 Patients with baseline serum total bilirubin levels of 1.0 mg/dL or more also had a greater likelihood of experiencing first-cycle grade 3 or 4 neutropenia than those with bilirubin levels that were less than 1.0 mg/dL (50% [19/38] versus 18% [47/266]; p<0.001).
-Patients with deficient glucuronidation of bilirubin, such as those with Gilbert’s syndrome, may be at greater risk of myelosuppression when receiving therapy with Irinotecan Hydrochloride Injection, USP.
+Patients with deficient glucuronidation of bilirubin, such as those with Gilbert's syndrome, may be at greater risk of myelosuppression when receiving therapy with Irinotecan Hydrochloride Injection, USP.
 
 ## 5.3 Patients With Reduced UGT1A1 Activity
 
