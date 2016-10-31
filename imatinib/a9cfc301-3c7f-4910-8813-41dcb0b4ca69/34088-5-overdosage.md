@@ -2,7 +2,7 @@
 
 Experience with doses greater than 800 mg is limited.
 Isolated cases of imatinib mesylate overdose have been reported.
-In the event of overdosage, the patient should be observed and appropriate supportive treatment given.
+In the event of overdosage, observe the patient and give appropriate supportive treatment.
 
 Adult Overdose
 
