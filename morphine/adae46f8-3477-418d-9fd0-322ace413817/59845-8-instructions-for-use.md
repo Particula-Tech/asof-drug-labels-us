@@ -1,14 +1,14 @@
-Instructions for Use
+Instructions For Use
 
 KADIAN® (key-dee-uhn) (morphine sulfate) extended-release capsules, CII
 
 If you cannot swallow KADIAN capsules, tell your healthcare provider.
 There may be another way to take KADIAN that may be right for you.
-If your doctor tells you that you can take KADIAN using this other way, follow these steps:
+If your healthcare provider tells you that you can take KADIAN using this other way, follow these steps:
 
 KADIAN can be opened and the pellets inside the capsule can be sprinkled over applesauce, as follows:
 
-|  | Open the KADIAN capsule and sprinkle the pellets over approximately one tablespoon of applesauce (See Figure 1). |
+|  | Open the KADIAN capsule and sprinkle the pellets over about one tablespoon of applesauce (See Figure 1). |
 | --- | --- |
 |  | Swallow all of the applesauce and pellets right away. Do not save any of the applesauce and pellets for another dose (See Figure 2). |
 |  | Rinse your mouth to make sure you have swallowed all of the pellets. Do not chew the pellets (See Figure 3). |
@@ -20,4 +20,4 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 Distributed By: Actavis Pharma, Inc. Parsippany, NJ 07054 USA www.KADIAN.com or call 1-800-272-5525
 
-Revised: August 2014
+Content Updated: April 2014

@@ -2,13 +2,13 @@
 
 The following serious adverse reactions are discussed elsewhere in the labeling:
 
-- Respiratory Depression [see WARNINGS AND PRECAUTIONS (5.2)]
-- Chronic Pulmonary Disease [see WARNINGS AND PRECAUTIONS (5.5)]
-- Head Injuries and Increased Intracranial Pressure [see WARNINGS AND PRECAUTIONS (5.8)]
-- Interactions with Other CNS Depressants [see WARNINGS AND PRECAUTIONS (5.6)]
-- Hypotensive Effect [see WARNINGS AND PRECAUTIONS (5.7)]
-- Gastrointestinal Effects [see WARNINGS AND PRECAUTIONS (5.9)]
-- Seizures [see WARNINGS AND PRECAUTIONS (5.10)]
+- Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
+- Life Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
+- Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.3)]
+- Interactions with Other CNS Depressants [see Warnings and Precautions (5.4)]
+- Hypotensive Effect [see Warnings and Precautions (5.7)]
+- Gastrointestinal Effects [see Warnings and Precautions (5.9)]
+- Seizures [see Warnings and Precautions (5.10)]
 
 In the randomized study, the most common adverse reactions with KADIAN therapy were drowsiness, constipation, nausea, dizziness, and anxiety.
 The most common adverse reactions leading to study discontinuation were nausea, constipation (may be severe), vomiting, fatigue, dizziness, pruritus, and somnolence.
@@ -24,29 +24,29 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 | Dizziness | 6 |
 | Anxiety | 5 |
 | Confusion | 4 |
-| Dry Mouth | 3 |
+| Dry mouth | 3 |
 | Tremor | 2 |
 | GASTROINTESTINAL | 26 |
 | Constipation | 9 |
 | Nausea | 7 |
 | Diarrhea | 3 |
 | Anorexia | 3 |
-| Abdominal Pain | 3 |
+| Abdominal pain | 3 |
 | Vomiting | 2 |
 | BODY AS A WHOLE | 16 |
 | Pain | 3 |
-| Disease Progression | 3 |
-| Chest Pain | 2 |
+| Disease progression | 3 |
+| Chest pain | 2 |
 | Diaphoresis | 2 |
 | Fever | 2 |
 | Asthenia | 2 |
-| Accidental Injury | 2 |
+| Accidental injury | 2 |
 | RESPIRATORY | 3 |
 | Dyspnea | 3 |
 | SKIN & APPENDAGES | 3 |
 | Rash | 3 |
 | METABOLIC & NUTRITIONAL | 3 |
-| Peripheral Edema | 3 |
+| Peripheral edema | 3 |
 | HEMIC & LYMPHATIC | 4 |
 | Anemia | 2 |
 | Leukopenia | 2 |
@@ -58,7 +58,7 @@ Other less common side effects expected from KADIAN or seen in less than 2% of p
 - Cardiovascular: Tachycardia, atrial fibrillation, hypotension, hypertension, pallor, facial flushing, palpitations, bradycardia, syncope
 - Central Nervous System: Confusion, anxiety, abnormal thinking, abnormal dreams, lethargy, depression, loss of concentration, insomnia, amnesia, paresthesia, agitation, vertigo, foot drop, ataxia, hypesthesia, slurred speech, hallucinations, vasodilation, euphoria, apathy, seizures, myoclonus
 - Endocrine: Hyponatremia due to inappropriate ADH secretion, gynecomastia
-- Gastrointestinal: Dysphagia, dyspepsia, stomach atony disorder, gastroesophageal reflux, delayed gastric emptying, biliary colic
+- Gastrointestinal: Dysphagia, dyspepsia, stomach atony disorder, gastro-esophageal reflux, delayed gastric emptying, biliary colic
 - Hemic and Lymphatic: Thrombocytopenia
 - Metabolic and Nutritional: Hyponatremia, edema
 - Musculoskeletal: Back pain, bone pain, arthralgia

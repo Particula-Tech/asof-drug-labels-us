@@ -3,7 +3,7 @@
 ## 9.1 Controlled Substance
 
 KADIAN contains morphine, a Schedule II controlled substance with a high potential for abuse similar to other opioids including fentanyl, hydromorphone, methadone, oxycodone, and oxymorphone.
-KADIAN can be abused and is subject to misuse, addiction, and criminal diversion [see WARNINGS AND PRECAUTIONS (5.1)].
+KADIAN can be abused and is subject to misuse, addiction, and criminal diversion [see Warnings and Precautions (5.1)].
 
 The high drug content in extended-release formulations adds to the risk of adverse outcomes from abuse and misuse.
 
@@ -35,7 +35,7 @@ Risks Specific to Abuse of KADIAN
 KADIAN is for oral use only.
 Abuse of KADIAN poses a risk of overdose and death.
 This risk is increased with concurrent abuse of KADIAN with alcohol and other substances.
-Taking cut, broken, chewed, crushed, or dissolved KADIAN enhances drug release and increases the risk of overdose and death.
+Taking cut, broken, chewed, crushed, or dissolved KADIAN enhances drug release and increases the risk of over dose and death.
 
 Due to the presence of talc as one of the excipients in KADIAN, parenteral abuse can be expected to result in local tissue necrosis, infection, pulmonary granulomas, and increased risk of endocarditis and valvular heart injury.
 Parenteral drug abuse is commonly associated with transmission of infectious diseases such as hepatitis and HIV.
@@ -47,12 +47,12 @@ Tolerance is the need for increasing doses of opioids to maintain a defined effe
 Tolerance may occur to both the desired and undesired effects of drugs, and may develop at different rates for different effects.
 
 Physical dependence results in withdrawal symptoms after abrupt discontinuation or a significant dose reduction of a drug.
-Withdrawal also may be precipitated through the administration of drugs with opioid antagonist activity, e.g., naloxone, nalmefene, or mixed agonist/antagonist analgesics (pentazocine, butorphanol, buprenorphine, nalbuphine).
+Withdrawal also may be precipitated through the administration of drugs with opioid antagonist activity, e.g., naloxone, nalmefene, mixed agonist/antagonist analgesics (pentazocine, butorphanol, nalbuphine), or partial agonists (buprenorphine).
 Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued opioid usage.
 
-KADIAN should not be abruptly discontinued [see DOSAGE AND ADMINISTRATION (2.3)].
+KADIAN should not be abruptly discontinued [see Dosage and Administration (2.3)].
 If KADIAN is abruptly discontinued in a physically-dependent patient, an abstinence syndrome may occur.
 Some or all of the following can characterize this syndrome: restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.
 Other signs and symptoms also may develop, including: irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate.
 
-Infants born to mothers physically dependent on opioids will also be physically dependent and may exhibit respiratory difficulties and withdrawal symptoms [see USE IN SPECIFIC POPULATIONS (8.2, 8.6)].
+Infants born to mothers physically dependent on opioids will also be physically dependent and may exhibit respiratory difficulties and withdrawal symptoms [see Use in Specific Populations (8.2), and Warnings and Precautions (5.3)].
