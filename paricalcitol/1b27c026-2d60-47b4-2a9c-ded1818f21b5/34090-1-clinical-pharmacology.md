@@ -31,15 +31,15 @@ The predicted incidence of hypercalcemia is 12.4% (95% CI: 11.7% - 13.0%) [see C
 
 Absorption
 
-The mean absolute bioavailability of Zemplar Capsules under low-fat fed condition ranged from 72% to 86% in healthy subjects, CKD Stage 5 patients on HD, and CKD Stage 5 patients on PD.
-A food effect study in healthy subjects indicated that the Cmax and AUC0-∞ were unchanged when paricalcitol was administered with a high fat meal compared to fasting.
+The mean absolute bioavailability of ZEMPLAR capsules under low-fat fed condition ranged from 72% to 86% in healthy adult volunteers, CKD Stage 5 patients on HD, and CKD Stage 5 patients on PD.
+A food effect study in healthy adult volunteers indicated that the Cmax and AUC0-∞ were unchanged when paricalcitol was administered with a high fat meal compared to fasting.
 Food delayed Tmax by about 2 hours.
-The AUC0-∞ of paricalcitol increased proportionally over the dose range of 0.06 to 0.48 mcg/kg in healthy subjects.
+The AUC0-∞ of paricalcitol increased proportionally over the dose range of 0.06 to 0.48 mcg/kg in healthy adult volunteers.
 
 Distribution
 
 Paricalcitol is extensively bound to plasma proteins (≥ 99.8%).
-The mean apparent volume of distribution following a 0.24 mcg/kg dose of paricalcitol in healthy subjects was 34 L. The mean apparent volume of distribution following a 4 mcg dose of paricalcitol in CKD Stage 3 and a 3 mcg dose in CKD Stage 4 patients is between 44 and 46 L.
+The mean apparent volume of distribution following a 0.24 mcg/kg dose of paricalcitol in healthy adult volunteers was 34 L. The mean apparent volume of distribution following a 4 mcg dose of paricalcitol in CKD Stage 3 and a 3 mcg dose in CKD Stage 4 patients is between 44 and 46 L.
 
 Metabolism
 
@@ -56,19 +56,19 @@ The identified metabolites include the product of 24(R)-hydroxylation, 24,26- an
 Elimination
 
 Paricalcitol is eliminated primarily via hepatobiliary excretion; approximately 70% of the radiolabeled dose is recovered in the feces and 18% is recovered in the urine.
-While the mean elimination half-life of paricalcitol is 4 to 6 hours in healthy subjects, the mean elimination half-life of paricalcitol in CKD Stages 3, 4, and 5 (on HD and PD) patients ranged from 14 to 20 hours.
+While the mean elimination half-life of paricalcitol is 4 to 6 hours in healthy adult volunteers, the mean elimination half-life of paricalcitol in CKD Stages 3, 4, and 5 (on HD and PD) patients ranged from 14 to 20 hours.
 
-Table 3.
-Paricalcitol Capsule Pharmacokinetic Characteristics in CKD Stages 3, 4, and 5 Patients
+Table 7.
+Paricalcitol Capsule Pharmacokinetic Parameters (mean ± SD) in CKD Stages 3, 4, and 5 Adult Patients
 
-| Pharmacokinetic Parameters | CKD Stage 3 n = 15* | CKD Stage 4 n = 14* | CKD Stage 5 HD** n = 14 | CKD Stage 5 PD** n = 8 |
+| Pharmacokinetic Parameters (units) | CKD Stage 3 n = 15* | CKD Stage 4 n = 14* | CKD Stage 5 HD** n = 14 | CKD Stage 5 PD** n = 8 |
 | --- | --- | --- | --- | --- |
 | Cmax (ng/mL) | 0.11 ± 0.04 | 0.06 ± 0.01 | 0.575 ± 0.17 | 0.413 ± 0.06 |
 | AUC0-∞ (ng•h/mL) | 2.42 ± 0.61 | 2.13 ± 0.73 | 11.67 ± 3.23 | 13.41 ± 5.48 |
 | CL/F (L/h) | 1.77 ± 0.50 | 1.52 ± 0.36 | 1.82 ± 0.75 | 1.76 ± 0.77 |
 | V/F (L) | 43.7 ± 14.4 | 46.4 ± 12.4 | 38 ± 16.4 | 48.7 ± 15.6 |
 | t1/2 | 16.8 ± 2.65 | 19.7 ± 7.2 | 13.9 ± 5.1 | 17.7 ± 9.6 |
-| * Four mcg paricalcitol capsules were given to CKD Stage 3 patients; three mcg paricalcitol capsules were given to CKD Stage 4 patients. ** CKD Stage 5 HD and PD patients received a 0.24 mcg/kg dose of paricalcitol as capsules. |  |  |  |  |
+| HD: hemodialysis; PD: peritoneal dialysis. * Four mcg paricalcitol capsules were given to CKD Stage 3 patients; three mcg paricalcitol capsules were given to CKD Stage 4 patients. ** CKD Stage 5 HD and PD patients received a 0.24 mcg/kg dose of paricalcitol as capsules. |  |  |  |  |
 
 Specific Populations
 
@@ -78,7 +78,20 @@ The pharmacokinetics of paricalcitol has not been investigated in geriatric pati
 
 Pediatric
 
-The pharmacokinetics of paricalcitol has not been investigated in patients less than 18 years of age.
+Paricalcitol Cmax, AUC, and t1/2 values were similar between Stage 3 and Stage 4 CKD pediatric patients 10 to 16 years of age.
+Population pharmacokinetic analysis shows that the pharmacokinetics of paricalcitol in Stage 5 CKD pediatric patients appear to be similar to those observed in Stage 3 and Stage 4 pediatric patients.
+
+Table 8.
+Paricalcitol Capsules Pharmacokinetic Parameters (mean ± SD) in CKD Stages 3 and 4 Patients 10 to 16 Years of Age
+
+| Pharmacokinetic Parameter (units) | CKD Stage 3 n = 6 | CKD Stage 4 N = 5 |
+| --- | --- | --- |
+| Cmax (ng/mL) | 0.12 ± 0.06 | 0.13 ± 0.05 |
+| AUC∞ (ng•h/mL) | 2.63 ± 0.76 | 3.2 ± 0.99 |
+| CL/F (L/h) | 1.23 ± 0.38 | 1.02 ± 0.35 |
+| V/F (L) | 27.78 ± 18.60 | 24.36 ± 5.92 |
+| t1/2 (h) | 15.0 ± 6.1 | 17.5 ± 5.9 |
+| * Three 1 mcg paricalcitol capsules were given to CKD Stage 3 or 4 patients. |  |  |
 
 Gender
 
@@ -93,7 +106,7 @@ The influence of severe hepatic impairment on the pharmacokinetics of paricalcit
 
 Renal Impairment
 
-Following administration of Zemplar Capsules, the pharmacokinetic profile of paricalcitol for CKD Stage 5 on HD or PD was comparable to that in CKD 3 or 4 patients.
+Following administration of ZEMPLAR capsules, the pharmacokinetic profile of paricalcitol for CKD Stage 5 on HD or PD was comparable to that in CKD 3 or 4 patients.
 Therefore, no special dose adjustments are required other than those recommended in the Dosage and Administration section [see Dosage and Administration (2)].
 
 Drug Interactions

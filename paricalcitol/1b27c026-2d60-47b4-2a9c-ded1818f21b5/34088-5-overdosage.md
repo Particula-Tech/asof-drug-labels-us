@@ -1,10 +1,10 @@
 # 10 OVERDOSAGE
 
-Excessive administration of Zemplar Capsules can cause hypercalcemia, hypercalciuria, and hyperphosphatemia, and over suppression of PTH [see Warnings and Precautions (5.1)].
+Excessive administration of ZEMPLAR capsules can cause hypercalcemia, hypercalciuria, and hyperphosphatemia, and over suppression of PTH [see Warnings and Precautions (5.1)].
 
 Treatment of Overdosage
 
-The treatment of acute overdosage of Zemplar Capsules should consist of general supportive measures.
+The treatment of acute overdosage of ZEMPLAR capsules should consist of general supportive measures.
 If drug ingestion is discovered within a relatively short time, induction of emesis or gastric lavage may be of benefit in preventing further absorption.
 If the drug has passed through the stomach, the administration of mineral oil may promote its fecal elimination.
 Serial serum electrolyte determinations (especially calcium), rate of urinary calcium excretion, and assessment of electrocardiographic abnormalities due to hypercalcemia should be obtained.
@@ -14,4 +14,4 @@ Due to the relatively short duration of the pharmacological action of paricalcit
 If persistent and markedly elevated serum calcium levels occur, there are a variety of therapeutic alternatives that may be considered depending on the patient's underlying condition.
 These include the use of drugs such as phosphates and corticosteroids, as well as measures to induce an appropriate forced diuresis.
 
-Zemplar is not significantly removed by dialysis.
+Paricalcitol is not significantly removed by dialysis.

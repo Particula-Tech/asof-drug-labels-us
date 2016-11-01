@@ -1,8 +1,7 @@
 # 11 DESCRIPTION
 
-Paricalcitol, USP, the active ingredient in Zemplar Capsules, is a synthetically manufactured, metabolically active vitamin D analog of calcitriol with modifications to the side chain (D2) and the A (19-nor) ring.
-Zemplar is indicated for the prevention and treatment of secondary hyperparathyroidism in chronic kidney disease.
-Zemplar is available as soft gelatin capsules for oral administration containing 1 microgram or 2 micrograms of paricalcitol.
+Paricalcitol, USP, the active ingredient in ZEMPLAR capsules, is a synthetically manufactured, metabolically active vitamin D analog of calcitriol with modifications to the side chain (D2) and the A (19-nor) ring.
+ZEMPLAR is available as soft gelatin capsules for oral administration containing 1 microgram or 2 micrograms of paricalcitol.
 Each capsule also contains medium chain triglycerides, alcohol, and butylated hydroxytoluene.
 The medium chain triglycerides are fractionated from coconut oil or palm kernel oil.
 The capsule shell is composed of gelatin, glycerin, titanium dioxide, iron oxide red (2 microgram capsules only), iron oxide yellow (2 microgram capsules only), iron oxide black (1 microgram capsules only), and water.

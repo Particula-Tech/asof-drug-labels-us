@@ -16,9 +16,7 @@ Rx only abbvie
 
 NDC 0074–4315–30
 
-Zemplar®
-
-(paricalcitol) Capsules 4 mcg
+Zemplar ® (paricalcitol) Capsules
 
 30 Capsules
 
