@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA206434"
+  ],
+  "inn": "rosuvastatin",
+  "labeler": "Accord Healthcare Inc.",
+  "package_ndcs": [
+    "16729-284-10",
+    "16729-284-15",
+    "16729-284-17",
+    "16729-285-10",
+    "16729-285-15",
+    "16729-285-17",
+    "16729-286-10",
+    "16729-286-15",
+    "16729-286-17",
+    "16729-287-10",
+    "16729-287-15",
+    "16729-287-17"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "rosuvastatin calcium",
+      "name": "Rosuvastatin calcium"
+    }
+  ],
+  "setid": "3ffe0294-3997-2755-e054-00144ff8d46c",
+  "source": "dailymed"
+}
