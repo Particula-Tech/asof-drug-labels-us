@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA090189"
+  ],
+  "inn": "bivalirudin",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "63323-562-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "bivalirudin",
+      "name": "Bivalirudin"
+    }
+  ],
+  "setid": "af943fa0-ab0f-4b62-9ff0-54ee24cdb772",
+  "source": "dailymed"
+}
