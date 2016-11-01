@@ -16,14 +16,16 @@ See prescribing information for dosage information.
 
 Rx only
 
+50 mcg
+
 1 Diskus® Inhalation Device Containing 1 Foil Strip of 60 Blisters
 
-©2014, the GSK group of companies
+Made in Singapore
 
-1. 10000000126837 Rev.
-   9/14
+©2016 the GSK group of companies
 
-# Click here to enter text.
+1. 10000000143414 Rev.
+   9/16
 
 PRINCIPAL DISPLAY PANEL
 
@@ -43,12 +45,16 @@ See prescribing information for dosage information.
 
 Rx only
 
+100 mcg
+
 1 Diskus® Inhalation Device Containing 1 Foil Strip of 60 Blisters
 
-©2014, the GSK group of companies
+Made in Singapore
 
-1. 10000000126839 Rev.
-   9/14
+©2016 the GSK group of companies
+
+1. 10000000143415 Rev.
+   9/16
 
 PRINCIPAL DISPLAY PANEL
 
@@ -68,9 +74,13 @@ See prescribing information for dosage information.
 
 Rx only
 
+250 mcg
+
 1 Diskus® Inhalation Device Containing 1 Foil Strip of 60 Blisters
 
-©2014, the GSK group of companies
+Made in Singapore
 
-1. 10000000126841 Rev.
-   9/14
+©2016 the GSK group of companies
+
+1. 10000000143416 Rev.
+   9/16
