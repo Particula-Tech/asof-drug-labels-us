@@ -54,7 +54,7 @@ The safety and effectiveness of HALAVEN in pediatric patients below the age of 1
 ## 8.5 Geriatric Use
 
 Study 1 did not include sufficient numbers of subjects with metastatic breast cancer aged 65 years and older to determine whether they respond differently from younger subjects.
-Of the 827 subjects who received the recommended dose and schedule of HALAVEN in clinical studies with advanced breast cancer, 15% (121/827) were 65 and older and 2% (17/827) patients were 75 and older.
+Of the 827 subjects who received the recommended dose and schedule of HALAVEN in clinical studies with advanced breast cancer, 15% (121/827) were 65 and older, and 2% (17/827) patients were 75 and older.
 No overall differences in safety were observed between these subjects and younger subjects.
 
 Clinical studies of HALAVEN did not include a sufficient number of subjects in Study 2 aged 65 years and older to determine whether they respond differently from younger subjects.

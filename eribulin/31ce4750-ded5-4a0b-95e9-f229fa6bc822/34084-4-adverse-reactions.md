@@ -61,7 +61,7 @@ Table 2: Adverse Reactionsa with a Per-Patient Incidence of at Least 10% in Stud
 | Alopecia | 45% | NAd | 10% | NAd |
 | Infections |  |  |  |  |
 | Urinary Tract Infection | 10% | 1% | 5% | 0 |
-| a. adverse reactions were graded per National Cancer Institute Criteria for Adverse Events version 4.0. b based upon laboratory data c includes peripheral neuropathy, peripheral sensorimotor neuropathy, peripheral motor neuropathy, polyneuropathy, peripheral sensory neuropathy, and paraesthesia. d not applicable; (grading system does not specify > Grade 2 for alopecia). |  |  |  |  |
+| a adverse reactions were graded per National Cancer Institute Criteria for Adverse Events version 4.0. b based upon laboratory data. c includes peripheral neuropathy, peripheral sensorimotor neuropathy, peripheral motor neuropathy, polyneuropathy, peripheral sensory neuropathy, and paraesthesia. d not applicable; (grading system does not specify > Grade 2 for alopecia). |  |  |  |  |
 
 Cytopenias: Grade 3 neutropenia occurred in 28% (143/503) of patients who received HALAVEN in Study 1, and 29% (144/503) of patients experienced Grade 4 neutropenia.
 Febrile neutropenia occurred in 5% (23/503) of patients; two patients (0.4%) died from complications of febrile neutropenia.
@@ -70,7 +70,7 @@ The mean time to nadir was 13 days and the mean time to recovery from severe neu
 Grade 3 or greater thrombocytopenia occurred in 1% (7/503) of patients.
 G-CSF (granulocyte colony-stimulating factor) or GM-CSF (granulocyte–macrophage colony-stimulating factor) was used in 19% of patients who received HALAVEN.
 
-Peripheral Neuropathy: In Study 1, 17 % of enrolled patients had Grade 1 peripheral neuropathy and 3% of patients had Grade 2 peripheral neuropathy at baseline.
+Peripheral Neuropathy: In Study 1, 17% of enrolled patients had Grade 1 peripheral neuropathy and 3% of patients had Grade 2 peripheral neuropathy at baseline.
 Dose reduction due to peripheral neuropathy was required by 3% (14/503) of patients who received HALAVEN.
 Four percent (20/503) of patients experienced peripheral motor neuropathy of any grade and 2% (8/503) of patients developed Grade 3 peripheral motor neuropathy.
 
@@ -100,7 +100,7 @@ The median duration of exposure was 2.3 months (range: 21 days to 26 months) for
 
 The most common adverse reactions (≥25%) reported in patients receiving HALAVEN were fatigue, nausea, alopecia, constipation, peripheral neuropathy, abdominal pain, and pyrexia.
 The most common (≥5%) Grade 3-4 laboratory abnormalities reported in patients receiving HALAVEN were neutropenia, hypokalemia, and hypocalcemia.
-The most common serious adverse reactions reported in patients receiving HALAVEN were neutropenia (4.9 %) and pyrexia (4.5%).
+The most common serious adverse reactions reported in patients receiving HALAVEN were neutropenia (4.9%) and pyrexia (4.5%).
 Permanent discontinuation of HALAVEN for adverse reactions occurred in 8% of patients.
 The most common adverse reactions resulting in discontinuation of HALAVEN were fatigue and thrombocytopenia (0.9% each).
 Twenty-six percent of patients required at least one dose reduction.
@@ -126,7 +126,7 @@ Table 3: Adverse Reactionsa Occurring in ≥10% (all Grades) of Patients Treated
 | Alopecia | 35% | NAe | 2.7% | NAe |
 | Infections |  |  |  |  |
 | Urinary tract infection | 11% | 2.2% | 5% | 0.5% |
-| a Adverse reactions were graded per National Cancer Institute Criteria for Adverse Events version 4.03 (NCI CTCAE v4.03). b Safety data from one study site enrolling six patients were excluded. cIncludes peripheral neuropathy, peripheral sensorimotor neuropathy, peripheral motor neuropathy, polyneuropathy, peripheral sensory neuropathy, and paraesthesia d Includes abdominal pain, upper abdominal pain, lower abdominal pain, abdominal discomfort e Not applicable; (grading system does not specify > Grade 2 for alopecia) |  |  |  |  |
+| a Adverse reactions were graded per National Cancer Institute Criteria for Adverse Events version 4.03 (NCI CTCAE v4.03). b Safety data from one study site enrolling six patients were excluded. c Includes peripheral neuropathy, peripheral sensorimotor neuropathy, peripheral motor neuropathy, polyneuropathy, peripheral sensory neuropathy, and paraesthesia. d Includes abdominal pain, upper abdominal pain, lower abdominal pain, abdominal discomfort. e Not applicable; (grading system does not specify > Grade 2 for alopecia). |  |  |  |  |
 
 Other clinically important adverse reactions occurring in ≥10% of the HALAVEN-treated patients were:
 
@@ -148,7 +148,7 @@ Less Common Adverse Reactions: The following additional clinically important adv
 - Respiratory, Thoracic, and Mediastinal Disorders: oropharyngeal pain
 - Vascular Disorders: hypotension
 
-Table 4: Laboratory Abnormalities Occurring in ≥10% (all Grades) of Patients Treated on the HALAVEN arm and at a Higher Incidence than in the Dacarbazine Arm (Between Arm Difference of ≥5% forAll Grades or ≥2% for Grades 3 and 4)a (Study 2)†
+Table 4: Laboratory Abnormalities Occurring in ≥10% (all Grades) of Patients Treated on the HALAVEN arm and at a Higher Incidence than in the Dacarbazine Arm (Between Arm Difference of ≥5% for All Grades or ≥2% for Grades 3 and 4)a (Study 2)†
 
 | Laboratory Abnormality | Halaven |  | Dacarbazine |  |
 | --- | --- | --- | --- | --- |
@@ -162,7 +162,7 @@ Table 4: Laboratory Abnormalities Occurring in ≥10% (all Grades) of Patients T
 | Hypokalemia | 30% | 5.4% | 14% | 2.8% |
 | Hypocalcemia | 28% | 5% | 18% | 1.4% |
 | Hypophosphatemia | 20% | 3.2% | 11% | 1.4% |
-| aEach test incidence is based on the number of patients who had both baseline and at least one on-study measurement and at least 1 grade increase from baseline.Halaven group (range 221-222) and dacarbazine group (range 214-215) †Laboratory results were graded per NCI CTCAE v4.03. |  |  |  |  |
+| a Each test incidence is based on the number of patients who had both baseline and at least one on-study measurement and at least 1 grade increase from baseline.Halaven group (range 221-222) and dacarbazine group (range 214-215) † Laboratory results were graded per NCI CTCAE v4.03. |  |  |  |  |
 
 ## 6.2 Postmarketing Experience
 

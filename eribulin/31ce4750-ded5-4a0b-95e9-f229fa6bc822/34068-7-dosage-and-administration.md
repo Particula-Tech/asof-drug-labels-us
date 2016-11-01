@@ -8,7 +8,7 @@ The recommended dose of HALAVEN in patients with mild hepatic impairment (Child-
 
 The recommended dose of HALAVEN in patients with moderate hepatic impairment (Child-Pugh B) is 0.7 mg/m2 administered intravenously over 2 to 5 minutes on Days 1 and 8 of a 21-day cycle [see Use in Specific Populations (8.6)].
 
-The recommended dose of HALAVEN in patients with moderate to severe renal impairment (creatinine clearance (CLcr) 15-49 mL/min) is 1.1 mg/m2 administered intravenously over 2 to 5 minutes on Days 1 and 8 of a 21-day cycle [see Use in Specific Populations (8.7)].
+The recommended dose of HALAVEN in patients with moderate or severe renal impairment (creatinine clearance (CLcr) 15-49 mL/min) is 1.1 mg/m2 administered intravenously over 2 to 5 minutes on Days 1 and 8 of a 21-day cycle [see Use in Specific Populations (8.7)].
 
 ## 2.2 Dose Modification
 
@@ -17,7 +17,6 @@ Assess for peripheral neuropathy and obtain complete blood cell counts prior to 
 Recommended dose delays
 
 - Do not administer HALAVEN on Day 1 or Day 8 for any of the following: - ANC < 1,000/mm3 - Platelets < 75,000/mm3 - Grade 3 or 4 non-hematological toxicities.
-
 - The Day 8 dose may be delayed for a maximum of 1 week. - If toxicities do not resolve or improve to ≤ Grade 2 severity by Day 15, omit the dose. - If toxicities resolve or improve to ≤ Grade 2 severity by Day 15, administer HALAVEN at a reduced dose and initiate the next cycle no sooner than 2 weeks later.
 
 Recommended dose reductions
@@ -47,7 +46,7 @@ Aseptically withdraw the required amount of HALAVEN from the single-use vial and
 Do not dilute in or administer through an intravenous line containing solutions with dextrose.
 Do not administer in the same intravenous line concurrent with the other medicinal products.
 
-Store undiluted HALAVEN in the syringe for up to 4 hours at room temperature or for up to 24 hours under refrigeration (40°F or/ 4°C).
+Store undiluted HALAVEN in the syringe for up to 4 hours at room temperature or for up to 24 hours under refrigeration (40°F or 4°C).
 Store diluted solutions of HALAVEN for up to 4 hours at room temperature or up to 24 hours under refrigeration.
 
 Discard unused portions of the vial.

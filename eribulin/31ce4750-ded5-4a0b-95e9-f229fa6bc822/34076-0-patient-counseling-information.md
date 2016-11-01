@@ -18,7 +18,7 @@ Embryo-Fetal Toxicity
 
 Lactation
 
-Advise women not to breastfeed during treatment with HALAVEN and for 2 weeks after the final dose [see Use in Specific Populations (8.2)]
+Advise women not to breastfeed during treatment with HALAVEN and for 2 weeks after the final dose [see Use in Specific Populations (8.2)].
 
 Distributed by: Eisai Inc. Woodcliff Lake, NJ 07677
 
