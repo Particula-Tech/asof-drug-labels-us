@@ -202,7 +202,7 @@ Healthcare providers should be alert to the possibility of an ectopic pregnancy 
 
 ## 7. Anaphylaxis and Anaphylactoid Reaction
 
-Serious anaphylactic reactions have been infrequently reported in women using Depo-Provera CI (150 mg).
+Serious anaphylactic reactions have been reported in women using depo-subQ provera 104.
 If an anaphylactic reaction occurs, appropriate emergency medical treatment should be instituted.
 
 # PRECAUTIONS

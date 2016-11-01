@@ -41,8 +41,8 @@ Vascular disorders: hot flushes
 
 ## Postmarketing Experience
 
+Anaphylactic reaction, anaphylactoid reaction, angioedema, and drug hypersensitivity have been reported with depo-subQ provera 104.
 There have been rare cases of osteoporosis including osteoporotic fractures reported postmarketing in patients taking DEPO-PROVERA Contraceptive Injection.
-In addition, infrequent voluntary reports of anaphylaxis and anaphylactoid reaction have been received associated with use of Depo-Provera CI (150 mg).
 
 The following additional reactions have been reported with Depo-Provera Contraceptive Injection and may occur with use of depo-subQ provera 104:
 
@@ -55,8 +55,6 @@ Cardiac disorders: tachycardia
 Gastrointestinal disorders: gastrointestinal disturbances, rectal bleeding
 
 Hepato-biliary disorders: jaundice
-
-Immune system disorders: allergic reaction
 
 Infections: genitourinary infections
 
@@ -74,6 +72,6 @@ Reproductive system and breast disorders: breast lumps, galactorrhea, nipple dis
 
 Respiratory disorders: asthma, dyspnea, hoarseness
 
-Skin disorders: angioedema, dry skin, increased body odor, melasma, pruritus, urticaria
+Skin disorders: dry skin, increased body odor, melasma, pruritus, urticaria
 
 Vascular disorders: deep vein thrombosis, pulmonary embolus, thrombophlebitis

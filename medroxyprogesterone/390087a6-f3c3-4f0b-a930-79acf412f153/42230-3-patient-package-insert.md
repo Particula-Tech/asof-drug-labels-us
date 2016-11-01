@@ -191,7 +191,7 @@ WHAT ARE THE MOST SERIOUS RISKS OF depo-subQ provera 104?
   Some signs of liver problems are yellow skin or eyes, feeling like you have the flu, feeling more tired than usual, and itching.
   Tell your healthcare provider if you have these symptoms.
 - Allergic reaction.
-  Allergic reactions to depo-subQ provera 104 are not common.
+  Allergic reactions to depo-subQ provera 104 have been reported.
   If you have hives, problems breathing, swelling of the face, mouth, tongue or neck, or just do not feel right after your shot, call your healthcare provider or go to the Emergency Room right away.
 - Serious blood clots.
   Call your healthcare provider immediately if you:
@@ -260,4 +260,4 @@ For current full prescribing information, please visit www.pfizer.com
 
 Rx only
 
-LAB-0298-6.0 January 2015
+LAB-0298-7.0 October 2016
