@@ -1,8 +1,12 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Argatroban Injection is supplied as a single-use vial, containing 250 mg/2.5 mL (100 mg/mL).
+Argatroban Injection is available in packages as follows:
 
-NDC 0143-9674-01 (Package of 1)
+NDC Strength Packaged
+
+0143-9674-01 250 mg/2.5 mL (100 mg/mL) Single Dose Vial
+
+0143-9559-01 50 mg/50 mL (1 mg/mL) Single Dose Vial
 
 Storage and Handling
 

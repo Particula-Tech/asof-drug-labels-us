@@ -54,12 +54,12 @@ There was a significant improvement in the composite efficacy outcome for argatr
 Time-to-event analyses showed significant improvements in the time-to-first event in patients with HIT or HITTS treated with argatroban versus those in the historical control group.
 The between-group differences in the proportion of patients who remained free of death, amputation, or new thrombosis were statistically significant in favor of argatroban.
 
-Anticoagulant Effect: In Study 1, the mean (± SE) dose of argatroban administered was 2.0 ± 0.1 mcg/kg/min in the HIT arm and 1.9 ± 0.1 mcg/kg/min in the HITTS arm.
+Anticoagulant Effect In Study 1, the mean (± SE) dose of argatroban administered was 2.0 ± 0.1 mcg/kg/min in the HIT arm and 1.9 ± 0.1 mcg/kg/min in the HITTS arm.
 Seventy-six percent of patients with HIT and 81% of patients with HITTS achieved a target aPTT at least 1.5-fold greater than the baseline aPTT at the first assessment occurring on average at 4.6 hours (HIT) and 3.9 hours (HITTS) following initiation of argatroban therapy.
 
 No enhancement of aPTT response was observed in subjects receiving repeated administration of argatroban.
 
-Platelet Count Recovery: In Study 1, 53% of patients with HIT and 58% of patients with HITTS, had a recovery of platelet count by Day 3.
+Platelet Count Recovery In Study 1, 53% of patients with HIT and 58% of patients with HITTS, had a recovery of platelet count by Day 3.
 Platelet Count Recovery was defined as an increase in platelet count to >100,000/μL or to at least 1.5-fold greater than the baseline count (platelet count at study initiation) by Day 3 of the study.
 
 ## 14.2 Percutaneous Coronary Intervention (PCI) Patients with or at Risk for HIT
