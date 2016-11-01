@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA207616"
+  ],
+  "inn": "rosuvastatin",
+  "labeler": "Camber Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "31722-882-31",
+    "31722-882-90",
+    "31722-883-31",
+    "31722-883-90",
+    "31722-884-31",
+    "31722-884-90",
+    "31722-885-30",
+    "31722-885-31"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "rosuvastatin",
+      "name": "Rosuvastatin"
+    }
+  ],
+  "setid": "7778df5a-82c1-4a86-8867-a3325da025ec",
+  "source": "dailymed"
+}
