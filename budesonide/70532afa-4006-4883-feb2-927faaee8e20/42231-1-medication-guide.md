@@ -95,6 +95,11 @@ What are the possible side effects of ENTOCORT EC?
 
 Tell your healthcare provider about any signs or symptoms of infection during treatment with ENTOCORT EC, including:
 
+- •Worsening of allergies.
+  If you take certain other glucocorticosteroid medicines to treat allergies, switching to ENTOCORT EC may cause your allergies to come back.
+  These allergies may include eczema (a skin disease) or rhinitis (inflammation inside your nose).
+  Tell your healthcare provider if any of your allergies become worse while taking ENTOCORT EC.
+
 The most common side effects of ENTOCORT EC include:
 
 - •headache
