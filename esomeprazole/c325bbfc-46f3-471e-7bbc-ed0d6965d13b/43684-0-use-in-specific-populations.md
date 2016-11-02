@@ -23,7 +23,7 @@ A population based retrospective cohort epidemiological study from the Swedish M
 The number of infants exposed in utero to omeprazole that had any malformation, low birth weight, low Apgar score, or hospitalization was similar to the number observed in this population.
 The number of infants born with ventricular septal defects and the number of stillborn infants was slightly higher in the omeprazole-exposed infants than the expected number in this population.
 
-A population-based retrospective cohort study covering all live births in Denmark from 1996-2009, reported on 1,800 live births whose mothers used omeprazole during the first trimester of pregnancy and 837, 317 live births whose mothers did not use any proton pump inhibitor.
+A population-based retrospective cohort study covering all live births in Denmark from 1996-2009, reported on 1,800 live births whose mothers used omeprazole during the first trimester of pregnancy and 837,317 live births whose mothers did not use any proton pump inhibitor.
 The overall rate of birth defects in infants born to mothers with first trimester exposure to omeprazole was 2.9% and 2.6% in infants born to mothers not exposed to any proton pump inhibitor during the first trimester.
 
 A retrospective cohort study reported on 689 pregnant women exposed to either H2 blockers or omeprazole in the first trimester (134 exposed to omeprazole) and 1,572 pregnant women unexposed to either during the first trimester.
@@ -58,7 +58,7 @@ Caution should be exercised when NEXIUM I.V. is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of NEXIUM I.V. for Injection have been established in pediatric patients 1 month to 17 years of age for short-term treatment of GERD with Erosive Esophagitis [seeClinical Pharmacology, Pharmacokinetics (12.3)].
+The safety and effectiveness of NEXIUM I.V. for Injection have been established in pediatric patients 1 month to 17 years of age for short-term treatment of GERD with Erosive Esophagitis [seeClinical Pharmacology (12.3)].
 However, effectiveness has not been established in patients less than 1 month of age.
 
 1 month to 17 years of age

@@ -3,7 +3,7 @@
 The following serious adverse reactions are described below and elsewhere in labeling:
 
 - •Acute Interstitial Nephritis [see Warnings and Precautions (5.2)]
-- •Clostridium difficile Associated Diarrhea [see Warnings and Precautions (5.3)]
+- •Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.3)]
 - •Bone Fracture [see Warnings and Precautions (5.4)]
 - •Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)]
 - •Hypomagnesemia [see Warnings and Precautions (5.7)]
@@ -76,6 +76,6 @@ Because these reactions are reported voluntarily from a population of uncertain 
 Postmarketing Reports - There have been spontaneous reports of adverse events with postmarketing use of esomeprazole.
 These reports occurred rarely and are listed below by body system:
 
-Blood And Lymphatic System Disorders: agranulocytosis, pancytopenia; Eye Disorders: blurred vision; Gastrointestinal Disorders: pancreatitis; stomatitis; microscopic colitis; Hepatobiliary Disorders: hepatic failure, hepatitis with or without jaundice; Immune System Disorders: anaphylactic reaction/shock; Infections and Infestations: GI candidiasis; Metabolism and nutritional disorders: hypomagnesemia with or without hypocalcemia and/or hypokalemia; Musculoskeletal And Connective Tissue Disorders: muscular weakness, myalgia, bone fracture; Nervous System Disorders: hepatic encephalopathy, taste disturbance; Psychiatric Disorders: aggression, agitation, depression, hallucination; Renal and Urinary Disorders: interstitial nephritis; Reproductive System and Breast Disorders: gynecomastia; Respiratory, Thoracic and Mediastinal Disorders: bronchospasm; Skin and Subcutaneous Tissue Disorders: alopecia, erythema multiforme, hyperhidrosis, photosensitivity, Stevens-Johnson syndrome, toxic epidermal necrolysis (TEN, some fatal).
+Blood And Lymphatic System Disorders: agranulocytosis, pancytopenia; Eye Disorders: blurred vision; Gastrointestinal Disorders: pancreatitis; stomatitis; microscopic colitis; Hepatobiliary Disorders: hepatic failure, hepatitis with or without jaundice; Immune System Disorders: anaphylactic reaction/shock; systemic lupus erythematosus; Infections and Infestations: GI candidiasis; Metabolism and nutritional disorders: hypomagnesemia with or without hypocalcemia and/or hypokalemia; Musculoskeletal And Connective Tissue Disorders: muscular weakness, myalgia, bone fracture; Nervous System Disorders: hepatic encephalopathy, taste disturbance; Psychiatric Disorders: aggression, agitation, depression, hallucination; Renal and Urinary Disorders: interstitial nephritis; Reproductive System and Breast Disorders: gynecomastia; Respiratory, Thoracic and Mediastinal Disorders: bronchospasm; Skin and Subcutaneous Tissue Disorders: alopecia, erythema multiforme, hyperhidrosis, photosensitivity, Stevens-Johnson syndrome, toxic epidermal necrolysis (TEN, some fatal), cutaneous lupus erythematosus.
 
 Other adverse events not observed with NEXIUM, but occurring with omeprazole can be found in the omeprazole package insert, ADVERSE REACTIONS section.
