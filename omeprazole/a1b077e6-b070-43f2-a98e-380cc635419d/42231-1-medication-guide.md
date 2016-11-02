@@ -23,20 +23,21 @@ Talk with your doctor.
 
 PRILOSEC can cause serious side effects, including:
 
-- •Kidney problems (acute interstitial nephritis).
-  Kidney problems may happen at any time during treatment with PRILOSEC.
+- •A ype of kidney problem (acute interstitial nephritis).
+  Some people who take proton pump ingibitor (PPI) medicines, including PRILOSEC, may develop a kidney problem called acute interstitial nephritis that can happen at any time during treatment with PRILOSEC.
   Call your doctor if you have a decrease in the amount that you urinate or if you have blood in your urine.
 - •Diarrhea.
   PRILOSEC may increase your risk of getting severe diarrhea.
   This diarrhea may be caused by an infection (Clostridium difficile) in your intestines.
   Call your doctor right away if you have watery stool, stomach pain, and fever that does not go away.
 - •Bone fractures.
-  People who take multiple daily doses of proton pump inhibitor medicines for a long period of time (a year or longer) may have an increased risk of fractures of the hip, wrist, or spine.
+  People who take multiple daily doses of PPI medicines for a long period of time (a year or longer) may have an increased risk of fractures of the hip, wrist, or spine.
   You should take PRILOSEC exactly as prescribed, at the lowest dose possible for your treatment and for the shortest time needed.
   Talk to your doctor about your risk of bone fracture if you take PRILOSEC.
 - •Certain types of lupus erythematosus.
-  Some people who take proton pump inhibitors (PPIs), including PRILOSEC, develop certain types of lupus erythematosus or have worsening of the lupus they already have.
-  Call your doctor right away if you have joint pain or rash on your cheeks or arms that gets worse in the sun.
+  Lupus erythematosus is an autoimmune disorder (the body’s immune cells attack other cells or organs in the body).
+  Some people who take PPI medicines, including PRILOSEC, may develop certain types of lupus erythematosus or have worsening of the lupus they already have.
+  Call your doctor right away if you have new or worsening joint pain or a rash on your cheeks or arms that gets worse in the sun.
 
 PRILOSEC can have other serious side effects.
 See “What are the possible side effects of PRILOSEC?”
@@ -83,7 +84,7 @@ Do not take PRILOSEC if you:
 
 - •are allergic to omeprazole or any of the ingredients in PRILOSEC.
   See the end of this Medication Guide for a complete list of ingredients in PRILOSEC.
-- •are allergic to any other Proton Pump Inhibitor (PPI) medicine.
+- •are allergic to any other proton pump inhibitor (PPI) medicine.
 - •are taking a medicine that contains rilpivirine (EDURANT, COMPLERA) used to treat HIV-1 (Human Immunodeficiency Virus).
 
 What should I tell my doctor before taking PRILOSEC?
@@ -144,7 +145,7 @@ PRILOSEC can cause serious side effects, including:
   Talk with your doctor about the possibility of vitamin B-12 deficiency if you have been on PRILOSEC for a long time (more than 3 years).
 - •Low magnesium levels in your body.
   This problem can be serious.
-  Low magnesium can happen in some people who take a proton pump inhibitor (PPI) medicine for at least 3 months.
+  Low magnesium can happen in some people who take a PPI medicine for at least 3 months.
   If low magnesium levels happen, it is usually after a year of treatment.
 
 You may or may not have symptoms of low magnesium.
@@ -224,7 +225,7 @@ All rights reserved.
 
 For more information, go to www.astrazeneca-us.com or call 1-800-236-9933.
 
-1. This Medication Guide has been approved by the U.S. Food and Drug Administration Revised: DATE 07/2016
+1. This Medication Guide has been approved by the U.S. Food and Drug Administration Revised: DATE 10/2016
 
 INSTRUCTIONS FOR USE
 

@@ -12,14 +12,14 @@ Acute interstitial nephritis has been observed in patients taking PPIs including
 Acute interstitial nephritis may occur at any point during PPI therapy and is generally attributed to an idiopathic hypersensitivity reaction.
 Discontinue PRILOSEC if acute interstitial nephritis develops [see Contraindications (4)].
 
-## 5.3 Clostridium difficile Associated Diarrhea
+## 5.3 Clostridium difficile-Associated Diarrhea
 
-Published observational studies suggest that PPI therapy like PRILOSEC may be associated with an increased risk of Clostridium difficile associated diarrhea, especially in hospitalized patients.
+Published observational studies suggest that PPI therapy like PRILOSEC may be associated with an increased risk of Clostridium difficile-associated diarrhea, especially in hospitalized patients.
 This diagnosis should be considered for diarrhea that does not improve [see Adverse Reactions (6.2)].
 
 Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
 
-Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents.
+Clostridium difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents.
 For more information specific to antibacterial agents (clarithromycin and amoxicillin) indicated for use in combination with PRILOSEC, refer to Warnings and Precautions sections of the corresponding prescribing information.
 
 ## 5.4 Bone Fracture
@@ -35,26 +35,19 @@ Cutaneous lupus erythematosus (CLE) and systemic lupus erythematosus (SLE) have 
 These events have occurred as both new onset and an exacerbation of existing autoimmune disease.
 The majority of PPI-induced lupus erythematosus cases were CLE.
 
-The most common form of CLE reported in patients treated with PPIs was subacute CLE (SCLE).
-Onset of CLE occurred up to 2 years after continuous drug therapy (range from 1 to 104 weeks).
-CLE occurred primarily in older patients, although cases were reported in patients as young as 7 months of age.
-Generally, positive antinuclear antibodies (ANA) and histological findings were observed, consistent with a diagnosis of CLE.
-Organ involvement was not typically seen.
-Complete recovery generally has occurred within 12 weeks after discontinuation of the drug.
+The most common form of CLE reported in patients treated with PPIs was subacute CLE (SCLE) and occurred within weeks to years after continuous drug therapy in patients ranging from infant to the elderly.
+Generally, histological findings were observed without organ involvement.
 
 Systemic lupus erythematosus (SLE) is less commonly reported than CLE in patients receiving PPIs.
 PPI associated SLE is usually milder than non-drug induced SLE.
-Onset of SLE typically occurred within 30 days after initiating PPI treatment, but some cases occurred days or years after initiating treatment.
-SLE occurred primarily in older patients, although cases also occurred in young adults.
+Onset of SLE typically occurred within days to years after initiating treatment primarily in patients ranging from young adults to the elderly.
 The majority of patients presented with rash; however, arthralgia and cytopenia were also reported.
-Antibody testing for lupus, including ANA and antihistone antibodies, may be positive.
-Clinical signs and symptoms of SLE associated with PPI use were usually reversible once the PPI was discontinued.
-Clinical symptoms generally resolved within 8 weeks.
-Elevated serological test results may take longer to resolve than clinical manifestations.
 
 Avoid administration of PPIs for longer than medically indicated.
 If signs or symptoms consistent with CLE or SLE are noted in patients receiving PRILOSEC, discontinue the drug and refer the patient to the appropriate specialist for evaluation.
 Most patients improve with discontinuation of the PPI alone in 4 to 12 weeks.
+Serological testing (e.g.
+ANA may be positive and elevated serological test results may take longer to resolve than clinical manifestations.
 
 ## 5.6 Interaction with Clopidogrel
 
