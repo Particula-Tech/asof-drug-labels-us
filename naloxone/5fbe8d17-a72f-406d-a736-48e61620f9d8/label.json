@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA209862"
+  ],
+  "inn": "naloxone",
+  "labeler": "kaleo, Inc.",
+  "package_ndcs": [
+    "60842-051-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "naloxone hydrochloride",
+      "name": "Evzio"
+    }
+  ],
+  "setid": "5fbe8d17-a72f-406d-a736-48e61620f9d8",
+  "source": "dailymed"
+}
