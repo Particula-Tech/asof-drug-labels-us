@@ -4,7 +4,7 @@ NDC 0008-1123-12
 
 Pfizer
 
-Duavee™ (conjugated estrogens/ bazedoxifene) tablets
+Duavee® (conjugated estrogens/ bazedoxifene) tablets
 
 per tablet 0.45 mg/20 mg*
 
@@ -26,7 +26,7 @@ Distributed by Wyeth Pharmaceuticals Inc A subsidiary of Pfizer Inc Philadelphia
 
 Rx only
 
-PAA042984
+PAA065927
 
 LOT:
 
@@ -38,7 +38,7 @@ NDC 0008-1123-12
 
 Pfizer
 
-Duavee™ (conjugated estrogens/ bazedoxifene) tablets
+Duavee® (conjugated estrogens/ bazedoxifene) tablets
 
 0.45 mg/20 mg*
 
@@ -56,7 +56,7 @@ NDC 0008-1123-12
 
 Pfizer
 
-Duavee™ (conjugated estrogens/ bazedoxifene) tablets
+Duavee® (conjugated estrogens/ bazedoxifene) tablets
 
 0.45 mg/20 mg*
 
