@@ -17,10 +17,10 @@ Testosterone concentrations were maintained as long as the patient continued to 
 
 Figure 2: Mean Steady-State Testosterone Concentrations in Patients with Once-Daily AndroGel 1% Therapy
 
-Table 5 summarizes the mean testosterone concentrations on Treatment Day 180 for patients receiving 50 mg, 75 mg, or 100 mg of AndroGel 1%.
+Table 4 summarizes the mean testosterone concentrations on Treatment Day 180 for patients receiving 50 mg, 75 mg, or 100 mg of AndroGel 1%.
 The 75 mg dose produced mean concentrations intermediate to those produced by 50 mg and 100 mg of AndroGel 1%.
 
-Table 5: Mean (± SD) Steady-State Serum Testosterone Concentrations During Therapy (Day 180)
+Table 4: Mean (± SD) Steady-State Serum Testosterone Concentrations During Therapy (Day 180)
 
 |  | 50 mg | 75 mg | 100 mg |
 | --- | --- | --- | --- |

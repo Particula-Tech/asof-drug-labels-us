@@ -109,28 +109,14 @@ How should I use ANDROGEL 1%?
 
 Applying ANDROGEL 1%:
 
-ANDROGEL 1% comes in a pump or in packets.
+ANDROGEL 1% comes in packets.
 
 - Before applying ANDROGEL 1%, make sure that your shoulders, upper arms, and abdomen are clean, dry, and there is no broken skin.
 - The application sites for ANDROGEL 1% are the shoulders, upper arms, or abdomen that will be covered by a short sleeve t-shirt (See Figure A).
 
 (Figure A)
 
-If you are using the ANDROGEL 1% pump:
-
-- Before using a new bottle of ANDROGEL 1% for the first time, you will need to prime the pump.
-  To prime the ANDROGEL 1% pump, slowly push the pump all the way down 3 times.
-  Do not use any ANDROGEL 1% that came out while priming.
-  Wash it down the sink to avoid accidental exposure to others.
-  Your ANDROGEL 1% pump is ready to use.
-- Remove the cap from the pump.
-  Then, position the nozzle over the palm of your hand and slowly push the pump all the way down.
-  Apply ANDROGEL 1% to the application site.
-  You may also apply ANDROGEL 1% directly to the application site.
-- Wash your hands with soap and water right away.
-- Your healthcare provider will tell you the number of times to press the pump for each dose.
-
-If you are using ANDROGEL 1% packets:
+When using ANDROGEL 1% packets:
 
 - Tear open the packet completely at the dotted line.
   Squeeze from the bottom of the packet to the top.
@@ -217,6 +203,6 @@ Marketed by:
 
 AbbVie Inc. North Chicago, IL 60064, USA
 
-© 2015 AbbVie Inc.
+© 2016 AbbVie Inc.
 
-A090630059176-Revised May, 2015
+5036330-Revised October, 2016

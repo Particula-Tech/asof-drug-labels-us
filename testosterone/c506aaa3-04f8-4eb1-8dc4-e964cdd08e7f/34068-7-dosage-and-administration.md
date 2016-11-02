@@ -8,10 +8,10 @@ Prior to initiating AndroGel 1%, confirm the diagnosis of hypogonadism by ensuri
 
 ## 2.1 Dosing and Dose Adjustment
 
-The recommended starting dose of AndroGel 1% is 50 mg of testosterone (4 pump actuations, two 25 mg packets, or one 50 mg packet), applied topically once daily in the morning to the shoulders and upper arms and/or abdomen area (preferably at the same time every day).
+The recommended starting dose of AndroGel 1% is 50 mg of testosterone (two 25 mg packets or one 50 mg packet), applied topically once daily in the morning to the shoulders and upper arms and/or abdomen area (preferably at the same time every day).
 
 Dose Adjustment To ensure proper dosing, serum testosterone concentrations should be measured at intervals.
-If the serum testosterone concentration is below the normal range, the daily AndroGel 1% dose may be increased from 50 mg to 75 mg and from 75 mg to 100 mg for adult males as instructed by the physician (see Table 1, Dosing Information for AndroGel 1%).
+If the serum testosterone concentration is below the normal range, the daily AndroGel 1% dose may be increased from 50 mg to 75 mg and from 75 mg to 100 mg for adult males as instructed by the physician.
 If the serum testosterone concentration exceeds the normal range, the daily AndroGel 1% dose may be decreased.
 If the serum testosterone concentration consistently exceeds the normal range at a daily dose of 50 mg, AndroGel 1% therapy should be discontinued.
 In addition, serum testosterone concentrations should be assessed periodically.
@@ -32,25 +32,6 @@ Hands should be washed thoroughly with soap and water after application.
 Avoid fire, flames or smoking until the gel has dried since alcohol based products, including AndroGel 1%, are flammable.
 
 The patient should be advised to avoid swimming or showering for at least 5 hours after the application of AndroGel 1%.
-
-Multi-Dose Pump
-
-To obtain a full first dose, it is necessary to prime the canister pump.
-To do so, with the canister in the upright position, slowly and fully depress the actuator three times.
-Safely discard the gel from the first three actuations.
-It is only necessary to prime the pump before the first dose.
-After the priming procedure, patients should completely depress the pump one time actuation for every 12.5 mg of testosterone required to achieve the daily prescribed dosage.
-The product should be delivered directly into the palm of the hand and then applied to the desired application sites.
-Alternatively, AndroGel 1% can be applied directly to the application sites.
-Table 1 provides dosing information for adult males.
-
-Table 1: Dosing Information for AndroGel 1%
-
-| Amount of Testosterone | Number of Pump Actuations |
-| --- | --- |
-| 50 mg | 4 (once daily) |
-| 75 mg | 6 (once daily) |
-| 100 mg | 8 (once daily) |
 
 Packets
 

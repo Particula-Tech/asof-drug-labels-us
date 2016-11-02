@@ -6,9 +6,9 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Clinical Trials in Hypogonadal Men
 
-Table 2 shows the incidence of all adverse events judged by the investigator to be at least possibly related to treatment with AndroGel 1% and reported by >1% of patients in a 180 Day, Phase 3 study.
+Table 1 shows the incidence of all adverse events judged by the investigator to be at least possibly related to treatment with AndroGel 1% and reported by >1% of patients in a 180 Day, Phase 3 study.
 
-Table 2: Adverse Events Possibly, Probably or Definitely Related to Use of AndroGel 1% in the 180-Day Controlled Clinical Trial
+Table 1: Adverse Events Possibly, Probably or Definitely Related to Use of AndroGel 1% in the 180-Day Controlled Clinical Trial
 
 | Adverse Event | Dose of AndroGel 1% |  |  |
 | --- | --- | --- | --- |
@@ -43,9 +43,9 @@ No AndroGel 1% patient discontinued due to skin reactions.
 
 In a separate uncontrolled pharmacokinetic study of 10 patients, two had adverse events associated with AndroGel 1%; these were asthenia and depression in one patient and increased libido and hyperkinesia in the other.
 
-In a 3 year, flexible dose, extension study, the incidence of all adverse events judged by the investigator to be at least possibly related to treatment with AndroGel 1% and reported by > 1% of patients is shown in Table 3.
+In a 3 year, flexible dose, extension study, the incidence of all adverse events judged by the investigator to be at least possibly related to treatment with AndroGel 1% and reported by > 1% of patients is shown in Table 2.
 
-Table 3: Adverse Events Possibly, Probably or Definitely Related to Use of AndroGel 1% in the 3 Year, Flexible Dose, Extension Study
+Table 2: Adverse Events Possibly, Probably or Definitely Related to Use of AndroGel 1% in the 3 Year, Flexible Dose, Extension Study
 
 |  | (N = 162) |
 | --- | --- |
@@ -90,9 +90,9 @@ The second patient’s PSA levels were 4.2 ng/mL, 5.2 ng/mL, 5.8 ng/mL, and 6.6 
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post approval use of AndroGel 1%.
-Because the reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure (Table 4).
+Because the reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure (Table 3).
 
-Table 4: Adverse Drug Reactions from Postmarketing Experience of AndroGel 1% by MedDRA System Organ Class
+Table 3: Adverse Drug Reactions from Postmarketing Experience of AndroGel 1% by MedDRA System Organ Class
 
 | Blood and the lymphatic system disorders: | Elevated Hgb, Hct (polycythemia) |
 | --- | --- |
