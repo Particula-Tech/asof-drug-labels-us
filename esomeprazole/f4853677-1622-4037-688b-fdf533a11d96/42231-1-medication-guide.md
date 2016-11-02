@@ -23,20 +23,21 @@ Talk with your doctor.
 
 NEXIUM can cause serious side effects, including:
 
-- •Kidney problems (acute interstitial nephritis).
-  Kidney problems may happen at any time during treatment with NEXIUM.
+- •A type of kidney problem (acute interstitial nephritis).
+  Some people who take proton pump inhibitor (PPI) medicines, including NEXIUM, may develop a kidney problem called acute interstitial nephritis that can happen at any time during treatment with NEXIUM.
   Call your doctor if you have a decrease in the amount that you urinate or if you have blood in your urine.
 - •Diarrhea.
   NEXIUM may increase your risk of getting severe diarrhea.
   This diarrhea may be caused by an infection (Clostridium difficile) in your intestines.
   Call your doctor right away if you have watery stool, stomach pain, and fever that does not go away.
 - •Bone fractures.
-  People who take multiple daily doses of Proton Pump Inhibitor medicines for a long period of time (a year or longer) may have an increased risk of fractures of the hip, wrist, or spine.
+  People who take multiple daily doses of PPI medicines for a long period of time (a year or longer) may have an increased risk of fractures of the hip, wrist, or spine.
   You should take NEXIUM exactly as prescribed, at the lowest dose possible for your treatment and for the shortest time needed.
   Talk to your doctor about your risk of bone fracture if you take NEXIUM.
 - •Certain types of lupus erythematosus.
-  Some people who take proton pump inhibitors (PPIs), including NEXIUM, develop certain types of lupus erythematosus or have worsening of the lupus they already have.
-  Call your doctor right away if you have joint pain or rash on your cheeks or arms that gets worse in the sun.
+  Lupus erythematosus is an autoimmune disorder (the body’s immune cells attack other cells or organs in the body).
+  Some people who take PPI medicines, including NEXIUM, may develop certain types of lupus erythematosus or have worsening of the lupus they already have.
+  Call your doctor right away if you have new or worsening joint pain or a rash on your cheeks or arms that gets worse in the sun.
   NEXIUM can have other serious side effects.
   See “What are the possible side effects of NEXIUM?”
 
@@ -68,7 +69,7 @@ Do not take NEXIUM if you:
 
 - •are allergic to esomeprazole magnesium or any of the ingredients in NEXIUM.
   See the end of this Medication Guide for a complete list of ingredients in NEXIUM.
-- •are allergic to any other Proton Pump Inhibitor (PPI) medicine.
+- •are allergic to any other PPI medicine.
 
 What should I tell my doctor before taking NEXIUM?
 
@@ -134,7 +135,7 @@ NEXIUM can cause serious side effects, including:
   Stomach acid is needed to absorb vitamin B-12 properly.
   Talk with your doctor about the possibility of vitamin B-12 deficiency if you have been on NEXIUM for a long time (more than 3 years).
 - •Low magnesium levels in your body.
-  Low magnesium can happen in some people who take a proton pump inhibitor medicine for at least 3 months.
+  Low magnesium can happen in some people who take a PPI medicine for at least 3 months.
   If low magnesium levels happen, it is usually after a year of treatment.
 - You may or may not have symptoms of low magnesium.
   Tell your doctor right away if you have any of these symptoms:
@@ -259,7 +260,7 @@ AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-Revised 07/2016
+Revised 10/2016
 
 NEXIUM is a registered trademark of the AstraZeneca group of companies.
 

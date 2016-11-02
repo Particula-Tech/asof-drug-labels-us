@@ -3,7 +3,7 @@
 The following serious adverse reactions are described below and elsewhere in labeling:
 
 - •Acute Interstitial Nephritis [see Warnings and Precautions (5.2)]
-- •Clostridium difficile Associated Diarrhea [see Warnings and Precautions (5.3)]
+- •Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.3)]
 - •Bone Fracture [see Warnings and Precautions (5.4)]
 - •Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)]
 - •Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.7)]
@@ -105,15 +105,15 @@ Blood and Lymphatic: agranulocytosis, pancytopenia;
 
 Eye: blurred vision;
 
-Gastrointestinal: pancreatitis; stomatitis; microscopic colitis
+Gastrointestinal: pancreatitis; stomatitis; microscopic colitis;
 
 Hepatobiliary: hepatic failure, hepatitis with or without jaundice;
 
-Immune System: anaphylactic reaction/shock;
+Immune System: anaphylactic reaction/shock; systemic lupus erythematosus;
 
-Infections and Infestations: GI candidiasis; Clostridium difficile associated diarrhea;
+Infections and Infestations: GI candidiasis; Clostridium difficile-associated diarrhea;
 
-Metabolism and nutritional disorders: hypomagnesemia, with or without hypocalcemia and/or hypokalemia
+Metabolism and nutritional disorders: hypomagnesemia, with or without hypocalcemia and/or hypokalemia;
 
 Musculoskeletal and Connective Tissue: muscular weakness, myalgia, bone fracture;
 
@@ -127,4 +127,4 @@ Reproductive System and Breast: gynecomastia;
 
 Respiratory, Thoracic, and Mediastinal: bronchospasm;
 
-Skin and Subcutaneous Tissue: alopecia, erythema multiforme, hyperhidrosis, photosensitivity, Stevens-Johnson syndrome, toxic epidermal necrolysis (some fatal).
+Skin and Subcutaneous Tissue: alopecia, erythema multiforme, hyperhidrosis, photosensitivity, Stevens-Johnson syndrome, toxic epidermal necrolysis (some fatal), cutaneous lupus erythematosus.
