@@ -8,7 +8,6 @@ In these studies, AUCs in mice were much higher (at least 20 times) than those i
 Everolimus was not mutagenic in the bacterial reverse mutation, the mouse lymphoma thymidine kinase assay, or the chromosome aberration assay using V79 Chinese hamster cells, or in vivo following two daily doses of 500 mg/kg in the mouse micronucleus assay.
 
 In a 13-week male fertility oral gavage study in rats, testicular morphology was affected at 0.5 mg/kg and above, and sperm motility, sperm head count and plasma testosterone concentrations were diminished at 5 mg/kg which caused a decrease in male fertility.
-There was evidence of reversibility of these findings in animals examined after 13 weeks post-dosing.
+There was evidence of reversibility of these findings in animals examined after 13 weeks postdosing.
 The 0.5 mg/kg dose in male rats resulted in AUCs in the range of clinical exposures, and the 5 mg/kg dose resulted in AUCs approximately 5 times the AUCs in humans receiving 0.75 mg twice daily.
-Everolimus did not affect female fertility in nonclinical studies, but everolimus crossed the placenta and was toxic to the conceptus.
-[See Pregnancy (8.1)]
+Everolimus did not affect female fertility in nonclinical studies, but everolimus crossed the placenta and was toxic to the conceptus [see Pregnancy (8.1)].

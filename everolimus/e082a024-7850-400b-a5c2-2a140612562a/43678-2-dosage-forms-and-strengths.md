@@ -1,4 +1,4 @@
-# 3 DOSAGE FORMS AND STRENGTHS
+# 3DOSAGE FORMS AND STRENGTHS
 
 Zortress is available as 0.25 mg, 0.5 mg, and 0.75 mg tablets.
 

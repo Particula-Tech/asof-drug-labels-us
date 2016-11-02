@@ -1,4 +1,4 @@
-# 7 DRUG INTERACTIONS
+# 7DRUG INTERACTIONS
 
 ## 7.1 Interactions with Strong Inhibitors or Inducers of CYP3A4 and P-glycoprotein
 
@@ -7,8 +7,7 @@ Therefore, absorption and subsequent elimination of systemically absorbed everol
 Concurrent treatment with strong inhibitors (e.g., ketoconazole, itraconazole, voriconazole, clarithromycin, telithromycin, ritonavir, boceprevir, telaprevir) and inducers (e.g., rifampin, rifabutin) of CYP3A4 is not recommended.
 Inhibitors of P-gp (e.g., digoxin, cyclosporine) may decrease the efflux of everolimus from intestinal cells and increase everolimus blood concentrations.
 In vitro, everolimus was a competitive inhibitor of CYP3A4 and of CYP2D6, potentially increasing the concentrations of medicinal products eliminated by these enzymes.
-Thus, caution should be exercised when co-administering Zortress with CYP3A4 and CYP2D6 substrates with a narrow therapeutic index.
-[See Therapeutic Drug Monitoring (2.3)]
+Thus, caution should be exercised when co-administering Zortress with CYP3A4 and CYP2D6 substrates with a narrow therapeutic index [see Dosage and Administration (2.3)].
 
 All in vivo interaction studies were conducted without concomitant cyclosporine.
 Pharmacokinetic interactions between Zortress and concomitantly administered drugs are discussed below.
@@ -16,28 +15,25 @@ Drug interaction studies have not been conducted with drugs other than those des
 
 ## 7.2 Cyclosporine (CYP3A4/P-gp Inhibitor and CYP3A4 Substrate)
 
-The steady-state Cmax and AUC estimates of everolimus were significantly increased by co-administration of single dose cyclosporine.
-[See Clinical Pharmacology (12.5)] Dose adjustment of Zortress might be needed if the cyclosporine dose is altered.
-[See Dosage and Administration (2.3)] Zortress had a clinically minor influence on cyclosporine pharmacokinetics in transplant patients receiving cyclosporine (Neoral).
+The steady-state Cmax and area under curve (AUC) estimates of everolimus were significantly increased by coadministration of single dose cyclosporine [see Clinical Pharmacology (12.5)].
+Dose adjustment of Zortress might be needed if the cyclosporine dose is altered [see Dosage and Administration (2.3)].
+Zortress had a clinically minor influence on cyclosporine pharmacokinetics in transplant patients receiving cyclosporine (Neoral).
 
 ## 7.3 Ketoconazole and Other Strong CYP3A4 Inhibitors
 
 Multiple-dose ketoconazole administration to healthy volunteers significantly increased single dose estimates of everolimus Cmax, AUC, and half-life.
-It is recommended that strong inhibitors of CYP3A4 (e.g., ketoconazole, itraconazole, voriconazole, clarithromycin, telithromycin, ritonavir, boceprevir, telaprevir) should not be co-administered with Zortress.
-[See Warnings and Precautions (5.14), and Clinical Pharmacology (12.5)]
+It is recommended that strong inhibitors of CYP3A4 (e.g., ketoconazole, itraconazole, voriconazole, clarithromycin, telithromycin, ritonavir, boceprevir, telaprevir) should not be coadministered with Zortress [see Warnings and Precautions (5.14), Clinical Pharmacology (12.5)].
 
 ## 7.4 Erythromycin (Moderate CYP3A4 Inhibitor)
 
 Multiple-dose erythromycin administration to healthy volunteers significantly increased single dose estimates of everolimus Cmax, AUC, and half-life.
-If erythromycin is co-administered, everolimus blood concentrations should be monitored and a dose adjustment made as necessary.
-[See Clinical Pharmacology (12.5)]
+If erythromycin is co-administered, everolimus blood concentrations should be monitored and a dose adjustment made as necessary [see Clinical Pharmacology (12.5)].
 
 ## 7.5 Verapamil (CYP3A4 and P-gp Substrate)
 
 Multiple-dose verapamil administration to healthy volunteers significantly increased single dose estimates of everolimus Cmax and AUC.
 Everolimus half-life was not changed.
-If verapamil is co-administered, everolimus blood concentrations should be monitored and a dose adjustment made as necessary.
-[See Clinical Pharmacology (12.5)]
+If verapamil is coadministered, everolimus blood concentrations should be monitored and a dose adjustment made as necessary [see Clinical Pharmacology (12.5)].
 
 ## 7.6 Atorvastatin (CYP3A4 substrate) and Pravastatin (P-gp substrate)
 
@@ -47,20 +43,17 @@ Patients should be monitored for the development of rhabdomyolysis and other adv
 
 ## 7.7 Simvastatin and Lovastatin
 
-Due to an interaction with cyclosporine, clinical studies of Zortress with cyclosporine conducted in kidney transplant patients strongly discouraged patients with receiving HMG-CoA reductase inhibitors such as simvastatin and lovastatin.
-[See Warnings and Precautions (5.11)]
+Due to an interaction with cyclosporine, clinical studies of Zortress with cyclosporine conducted in kidney transplant patients strongly discouraged patients with receiving HMG-CoA reductase inhibitors such as simvastatin and lovastatin [see Warnings and Precautions (5.11)].
 
 ## 7.8 Rifampin (Strong CYP3A4/P-gp Inducers)
 
 Pretreatment of healthy subjects with multiple-dose rifampin followed by a single dose of Zortress increased everolimus clearance and decreased the everolimus Cmax and AUC estimates.
-Combination with rifampin is not recommended.
-[See Warnings and Precautions (5.14), Clinical Pharmacology (12.5)]
+Combination with rifampin is not recommended [see Warnings and Precautions (5.14), Clinical Pharmacology (12.5)].
 
 ## 7.9 Midazolam (CYP3A4/5 substrate)
 
 Single-dose administration of midazolam to healthy volunteers following administration of multiple-dose Zortress indicated that everolimus is a weak inhibitor of CYP3A4/5.
-Dose adjustment of midazolam or other CYP3A4/5 substrates is not necessary when Zortress is coadministered with midazolam or other CYP3A4/5 substrates.
-[See Clinical Pharmacology (12.5)]
+Dose adjustment of midazolam or other CYP3A4/5 substrates is not necessary when Zortress is coadministered with midazolam or other CYP3A4/5 substrates [see Clinical Pharmacology (12.5)].
 
 ## 7.10 Other Possible Interactions
 
@@ -73,4 +66,4 @@ Coadministration of everolimus and depot octreotide increased octreotide Cmin by
 
 ## 7.12 Tacrolimus
 
-There is little to no pharmacokinetic interaction of tacrolimus on everolimus, and consequently, dose adjustment of Zortress is not necessary when Zortress is co-administered with tacrolimus.
+There is little to no pharmacokinetic interaction of tacrolimus on everolimus, and consequently, dose adjustment of Zortress is not necessary when Zortress is coadministered with tacrolimus.

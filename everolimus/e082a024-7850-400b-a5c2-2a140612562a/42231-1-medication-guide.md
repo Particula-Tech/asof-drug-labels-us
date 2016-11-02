@@ -1,4 +1,4 @@
-MEDICATION GUIDE
+# MEDICATION GUIDE
 
 ZORTRESS (ZOR-tres)
 
@@ -10,7 +10,7 @@ Read this Medication Guide before you start using ZORTRESS and each time you get
 There may be new information.
 This information does not take the place of talking with your doctor about your medical condition or treatment.
 
-| What is the most important information I should know about ZORTRESS? ZORTRESS can cause serious side effects, including: Increased risk of getting certain cancers. People who take ZORTRESS have a higher chance of getting lymphoma and other cancers, especially skin cancer. Talk to your doctor about your risk for cancer. Increased risk of serious infections. ZORTRESS weakens the body’s immune system and affects your ability to fight infections. Serious infections can happen with ZORTRESS that may lead to death. People taking ZORTRESS have a higher chance of getting infections caused by viruses, bacteria, and fungi (yeast). Call your doctor if you have symptoms of infection including fever or chills. Blood clot in the blood vessels of your transplanted kidney. If this happens, it usually occurs within the first 30 days after your kidney transplant. Tell your doctor right away if you: have pain in your groin, lower back, side or stomach (abdomen) make less urine or you do not pass any urine have blood in your urine or dark colored urine (tea-colored) have fever, nausea, or vomiting Serious problems with your transplanted kidney (nephrotoxicity). You will need to start with a lower dose of cyclosporine when you take it with ZORTRESS. Your Doctor should do regular blood tests to check your levels of both ZORTRESS and cyclosporine.Increased risk of death that can be related to infection, in people who have had a heart transplant. You should not take Zortress if you have had a heart transplant without talking to your doctor. See the section “What are the possible side effects of ZORTRESS?” for information about other serious side effects. |
+| What is the most important information I should know about ZORTRESS? ZORTRESS can cause serious side effects, including: Increased risk of getting certain cancers. People who take ZORTRESS have a higher chance of getting lymphoma and other cancers, especially skin cancer. Talk to your doctor about your risk for cancer. Increased risk of serious infections. ZORTRESS weakens the body’s immune system and affects your ability to fight infections. Serious infections can happen with ZORTRESS that may lead to death. People taking ZORTRESS have a higher chance of getting infections caused by viruses, bacteria, and fungi (yeast). Call your doctor if you have symptoms of infection including fever or chills. Blood clot in the blood vessels of your transplanted kidney. If this happens, it usually occurs within the first 30 days after your kidney transplant. Tell your doctor right away if you: have pain in your groin, lower back, side or stomach (abdomen) make less urine or you do not pass any urine have blood in your urine or dark colored urine (tea-colored) have fever, nausea, or vomiting Serious problems with your transplanted kidney (nephrotoxicity). You will need to start with a lower dose of cyclosporine when you take it with ZORTRESS. Your Doctor should do regular blood tests to check your levels of both ZORTRESS and cyclosporine. Increased risk of death that can be related to infection, in people who have had a heart transplant. You should not take Zortress if you have had a heart transplant without talking to your doctor. See the section “What are the possible side effects of ZORTRESS?” for information about other serious side effects. |
 | --- |
 
 What is ZORTRESS?
@@ -45,8 +45,7 @@ Before taking ZORTRESS, tell your doctor if you:
 - have any other medical conditions
 - are pregnant or plan to become pregnant.
   It is not known if ZORTRESS will harm your unborn baby.
-  Talk with your doctor if you are pregnant or plan to become pregnant.
-  - Women who may become pregnant should use effective birth control (contraception) while taking ZORTRESS and for 8 weeks after stopping ZORTRESS.
+  Talk with your doctor if you are pregnant or plan to become pregnant.Women who may become pregnant should use effective birth control (contraception) while taking ZORTRESS and for 8 weeks after stopping ZORTRESS
 - are breastfeeding or plan to breastfeed.
   It is not known if ZORTRESS passes into your breast milk.
   You and your doctor should decide if you will take ZORTRESS or breastfeed.
@@ -204,12 +203,10 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Any other trademarks in this document are the property of their respective owners.
 
-Manufactured by: Novartis Pharma Stein AG Stein, Switzerland
-
 Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
 © Novartis
 
 Rapamune® is a registered trademark of Pfizer Inc Gengraf® is a registered trademark of Abbott Laboratories
 
-T2015-20 January 2015
+T2016-85 October 2016
