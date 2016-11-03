@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA205530"
+  ],
+  "inn": "acetazolamide",
+  "labeler": "Heritage Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "23155-287-01",
+    "23155-287-10",
+    "23155-288-01",
+    "23155-288-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "acetazolamide",
+      "name": "acetazolamide"
+    }
+  ],
+  "setid": "0700a910-79aa-4431-aecf-637fe14fcae8",
+  "source": "dailymed"
+}
