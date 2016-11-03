@@ -4,17 +4,13 @@ Manufactured for:
 
 OraPharma, a division of Valeant Pharmaceuticals North America LLC
 
-Bridgewater, NJ 08807
+Bridgewater, NJ 08807 USA
 
-by:
+©Valeant Pharmaceuticals North America LLC
 
-AAIPharma Services Corporation
+Arestin is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
-Wilmington, NC 28405
-
-© 2015 Valeant Pharmaceuticals North America LLC
-
-9443900
+9443901
 
 Rev.
-08/2015
+06/2016

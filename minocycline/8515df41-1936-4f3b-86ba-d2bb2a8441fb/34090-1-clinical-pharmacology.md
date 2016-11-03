@@ -6,7 +6,7 @@ The mechanism of action of ARESTIN® as an adjunct to scaling and root planing p
 
 ## Microbiology
 
-Minocycline, a member of the tetracycline class of antibiotics, has a broad spectrum of activity.1 It is bacteriostatic and exerts its antimicrobial activity by inhibiting protein synthesis.1 In vitro susceptibility testing has shown that the organisms Porphyromonas gingivalis, Prevotella intermedia, Fusobacterium nucleatum, Eikenella corrodens, and Actinobacillus actinomycetemcomitans, which are associated with periodontal disease, are susceptible to minocycline at concentrations of ≤8 mcg/mL2; qualitative and quantitative changes in plaque microorganisms have not been demonstrated in patients with periodontitis, using this product.
+Minocycline, a member of the tetracycline class of antibiotics, has a broad spectrum of activity.1 It is bacteriostatic and exerts its antimicrobial activity by inhibiting protein synthesis.1In vitro susceptibility testing has shown that the organisms Porphyromonas gingivalis, Prevotella intermedia, Fusobacterium nucleatum, Eikenella corrodens, and Actinobacillus actinomycetemcomitans, which are associated with periodontal disease, are susceptible to minocycline at concentrations of ≤8 mcg/mL2; qualitative and quantitative changes in plaque microorganisms have not been demonstrated in patients with periodontitis, using this product.
 
 The emergence of minocycline-resistant bacteria in single-site plaque samples was studied in subjects before and after treatment with ARESTIN® at 2 centers.
 There was a slight increase in the numbers of minocycline-resistant bacteria at the end of the 9-month study period, however, the number of subjects studied was small and the clinical significance of these findings is unknown.
@@ -75,7 +75,7 @@ Table 3: Mean Pocket Depth Changes (SE) in Subpopulations, Studies 103A and 103B
 |  | 0.09 mm | 0.08 mm | 0.08 mm |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Patients ≤50 YOA | n = 167 | n = 168 | n = 142 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  | -1.24± | -1.19± | -1.43± |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | 0.06 mm | 0.06 mm | 0.07 mmSRP vs SRP + ARESTIN®P ≤0.001 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | 0.06 mm | 0.06 mm | 0.07 mmSRP vs SRP + ARESTIN® P ≤0.001 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Patients with CV Disease | n = 36 | n = 29 | n = 36 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  | -0.99± | -1.06± | -1.56± |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  | 0.13 mm | 0.14 mm | 0.14 mm |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
