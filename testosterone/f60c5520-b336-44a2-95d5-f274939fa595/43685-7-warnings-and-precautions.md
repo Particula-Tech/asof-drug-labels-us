@@ -23,8 +23,7 @@ Gynecomastia may develop and occasionally persists in patients being treated for
 The preservative benzyl alcohol has been associated with serious adverse events, including the “gasping syndrome”, and death in pediatric patients.
 Although normal therapeutic doses of this product ordinarily deliver amounts of benzyl alcohol that are substantially lower than those reported in association with the “gasping syndrome”, the minimum amount of benzyl alcohol at which toxicity may occur is not known.
 The risk of benzyl alcohol toxicity depends on the quantity administered and the hepatic capacity to detoxify the chemical.
-Premature and low-birth weight infants may be more likely to develop toxicity..
-
+Premature and low-birth weight infants may be more likely to develop toxicity.
 Androgen therapy should be used cautiously in healthy males with delayed puberty.
 The effect on bone maturation should be monitored by assessing bone age of the wrist and hand every 6 months.
 In children, androgen treatment may accelerate bone maturation without producing compensatory gain in linear growth.
@@ -33,6 +32,16 @@ The younger the child the greater the risk of compromising final mature height.
 
 This drug has not been shown to be safe and effective for the enhancement of athletic performance.
 Because of the potential risk of serious adverse health effects, this drug should not be used for such purpose.
+
+Abuse of Testosterone and Monitoring of Serum Testosterone Concentrations
+
+Testosterone has been subject to abuse, typically at doses higher than recommended for the approved indication and in combination with other anabolic androgenic steroids.
+Anabolic androgenic steroid abuse can lead to serious cardiovascular and psychiatric adverse reactions [see DRUG ABUSE AND DEPENDENCE].
+
+If testosterone abuse is suspected, check serum testosterone concentrations to ensure they are within therapeutic range.
+However, testosterone levels may be in the normal or subnormal range in men abusing synthetic testosterone derivatives.
+Counsel patients concerning the serious adverse reactions associated with abuse of testosterone and anabolic androgenic steroids.
+Conversely, consider the possibility of testosterone and anabolic androgenic steroid abuse in suspected patients who present with serious cardiovascular or psychiatric adverse events.
 
 # PRECAUTIONS
 
