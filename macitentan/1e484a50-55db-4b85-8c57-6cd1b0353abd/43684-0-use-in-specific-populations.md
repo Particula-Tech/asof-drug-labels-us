@@ -22,11 +22,11 @@ It is not known whether OPSUMIT is present in human milk.
 Macitentan and its metabolites were present in the milk of lactating rats.
 Because many drugs are present in human milk and because of the potential for serious adverse reactions from macitentan in nursing infants, nursing mothers should discontinue nursing or discontinue OPSUMIT.
 
-## 8.4 Pediatric use
+## 8.4 Pediatric Use
 
 The safety and efficacy of OPSUMIT in children have not been established.
 
-## 8.5 Geriatric use
+## 8.5 Geriatric Use
 
 Of the total number of subjects in the clinical study of OPSUMIT for PAH, 14% were 65 and over.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects.

@@ -34,6 +34,9 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Immune system disorders: hypersensitivity reactions (angioedema, pruritus and rash)
 
+Gastrointestinal disorders: Elevations of liver aminotransferases (ALT, AST) and liver injury have been reported with Opsumit use; in most cases alternative causes could be identified (heart failure, hepatic congestion, autoimmune hepatitis).
+Endothelin receptor antagonists have been associated with elevations of aminotransferases, hepatotoxicity, and cases of liver failure [see Warnings and Precautions (5.3)].
+
 Respiratory, thoracic and mediastinal disorders: nasal congestion
 
 General disorders and administration site conditions: edema/fluid retention.

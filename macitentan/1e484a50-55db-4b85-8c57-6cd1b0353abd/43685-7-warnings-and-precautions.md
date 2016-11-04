@@ -24,7 +24,7 @@ Information on OPSUMIT certified pharmacies or wholesale distributors is availab
 
 ## 5.3 Hepatotoxicity
 
-Other ERAs have caused elevations of aminotransferases, hepatotoxicity, and liver failure.
+ERAs have caused elevations of aminotransferases, hepatotoxicity, and liver failure.
 The incidence of elevated aminotransferases in the study of OPSUMIT in PAH is shown in Table 1.
 
 Table 1 Incidence of Elevated Aminotransferases in the SERAPHIN Study
@@ -35,7 +35,8 @@ Table 1 Incidence of Elevated Aminotransferases in the SERAPHIN Study
 | >8 × ULN | 2.1% | 0.4% |
 
 In the placebo-controlled study of OPSUMIT, discontinuations for hepatic adverse events were 3.3% in the OPSUMIT 10 mg group vs. 1.6% for placebo.
-Obtain liver enzyme tests prior to initiation of OPSUMIT and repeat during treatment as clinically indicated.
+
+Obtain liver enzyme tests prior to initiation of OPSUMIT and repeat during treatment as clinically indicated [see Adverse Reactions (6.2)].
 
 Advise patients to report symptoms suggesting hepatic injury (nausea, vomiting, right upper quadrant pain, fatigue, anorexia, jaundice, dark urine, fever, or itching).
 If clinically relevant aminotransferase elevations occur, or if elevations are accompanied by an increase in bilirubin >2 × ULN, or by clinical symptoms of hepatotoxicity, discontinue OPSUMIT.
