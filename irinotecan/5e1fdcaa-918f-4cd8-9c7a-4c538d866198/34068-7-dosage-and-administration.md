@@ -1,4 +1,4 @@
-# 2 DOSAGE & ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 ## 2.2 Colorectal Single-Agent Regimens 1 and 2
 
@@ -6,7 +6,7 @@ Administer Irinotecan Hydrochloride Injection as a 90-minute intravenous infusio
 The currently recommended regimens are shown in Table 3.
 
 A reduction in the starting dose by one dose level of Irinotecan Hydrochloride Injection may be considered for patients with any of the following conditions: prior pelvic/abdominal radiotherapy, performance status of 2, or increased bilirubin levels.
-Dosing for patients with bilirubin >2 mg/dL cannot be recommended because there is insufficient information to recommend a dose in these patients.
+Dosing for patients with bilirubin greater than 2 mg/dL cannot be recommended because there is insufficient information to recommend a dose in these patients.
 
 Table 3.
 Single-Agent Regimens of Irinotecan Hydrochloride Injection and Dose Modifications
@@ -34,28 +34,28 @@ Recommended Dose Modifications For Single-Agent Schedulesa
 
 | NCI Gradeb (Value) |  | in the Previous Cyclea |  |
 | --- | --- | --- | --- |
-| A new cycle of therapy should not begin until the granulocyte count has recovered to ≥1500/mm3, and the platelet count has recovered to ≥100,000/mm3, and treatment-related diarrhea is fully resolved. Treatment should be delayed 1 to 2 weeks to allow for recovery from treatment-related toxicities. If the patient has not recovered after a 2-week delay, consideration should be given to discontinuing Irinotecan Hydrochloride Injection. |  |  |  |
+| A new cycle of therapy should not begin until the granulocyte count has recovered to greater than or equal to 1500/mm3, and the platelet count has recovered to greater than or equal to 100,000/mm3, and treatment-related diarrhea is fully resolved. Treatment should be delayed 1 to 2 weeks to allow for recovery from treatment-related toxicities. If the patient has not recovered after a 2-week delay, consideration should be given to discontinuing Irinotecan Hydrochloride Injection. |  |  |  |
 |  |  | At the Start of the Next Cycles of Therapy (After |  |
 | Worst Toxicity | During a Cycle of Therapy | Adequate Recovery), Compared with the Starting Dose |  |
 |  | Weekly | Weekly | Once Every 3 Weeks |
-| No toxicity | Maintain dose level | (25 mg/m2 up to a maximum dose of 150 mg/m2 | Maintain dose level |
+| No toxicity | Maintain dose level | ↑ 25 mg/m2 up to a maximum dose of 150 mg/m2 | Maintain dose level |
 | Neutropenia |  |  |  |
 | 1 (1500 to 1999/mm3) | Maintain dose level | Maintain dose level | Maintain dose level |
-| 2 (1000 to 1499/mm3) | (25 mg/m2 | Maintain dose level | Maintain dose level |
-| 3 (500 to 999/mm3) | Omit dose until resolved to ≤ grade 2, then (25 mg/m2 | (25 mg/m2 | (50 mg/m2 |
-| 4 (<500/mm3) | Omit dose until resolved to ≤ grade 2, then (50 mg/m2 | (50 mg/m2 | (50 mg/m2 |
-| Neutropenic fever | Omit dose until resolved, then (50 mg/m2 when resolved | (50 mg/m2 | (50 mg/m2 |
+| 2 (1000 to 1499/mm3) | ↓ 25 mg/m2 | Maintain dose level | Maintain dose level |
+| 3 (500 to 999/mm3) | Omit dose until resolved to ≤ grade 2, then ↓ 25 mg/m2 | ↓ 25 mg/m2 | ↓ 50 mg/m2 |
+| 4 (<500/mm3) | Omit dose until resolved to ≤ grade 2, then ↓ 50 mg/m2 | ↓ 50 mg/m2 | ↓ 50 mg/m2 |
+| Neutropenic fever | Omit dose until resolved, then ↓ 50 mg/m2 when resolved | ↓ 50 mg/m2 | ↓ 50 mg/m2 |
 | Other hematologic toxicities | Dose modifications for leukopenia, thrombocytopenia, and anemia during a cycle of therapy and at the start of subsequent cycles of therapy are also based on NCI toxicity criteria and are the same as recommended for neutropenia above. |  |  |
 | Diarrhea |  |  |  |
 | 1 (2 to 3 stools/day > pretxc) | Maintain dose level | Maintain dose level | Maintain dose level |
-| 2 (4 to 6 stools/day > pretx) | (25 mg/m2 | Maintain dose level | Maintain dose level |
-| 3 (7 to 9 stools/day > pretx) | Omit dose until resolved to ≤ grade 2, then (25 mg/m2 | (25 mg/m2 | (50 mg/m2 |
-| 4 (≥10 stools/day > pretx) | Omit dose until resolved to ≤ grade 2 then (50 mg/m2 | (50 mg/m2 | (50 mg/m2 |
+| 2 (4 to 6 stools/day > pretx) | ↓ 25 mg/m2 | Maintain dose level | Maintain dose level |
+| 3 (7 to 9 stools/day > pretx) | Omit dose until resolved to ≤ grade 2, then ↓ 25 mg/m2 | ↓ 25 mg/m2 | ↓ 50 mg/m2 |
+| 4 (≥10 stools/day > pretx) | Omit dose until resolved to ≤ grade 2 then ↓ 50 mg/m2 | ↓ 50 mg/m2 | ↓ 50 mg/m2 |
 | Other nonhematologicd toxicities |  |  |  |
 | 1 | Maintain dose level | Maintain dose level | Maintain dose level |
-| 2 | (25 mg/m2 | (25 mg/m2 | (50 mg/m2 |
-| 3 | Omit dose until resolved to ≤ grade 2, then (25 mg/m2 | (25 mg/m2 | (50 mg/m2 |
-| 4 | Omit dose until resolved to ≤ grade 2, then (50 mg/m2 | (50 mg/m2 | (50 mg/m2 |
+| 2 | ↓ 25 mg/m2 | ↓ 25 mg/m2 | ↓ 50 mg/m2 |
+| 3 | Omit dose until resolved to ≤ grade 2, then ↓ 25 mg/m2 | ↓ 25 mg/m2 | ↓ 50 mg/m2 |
+| 4 | Omit dose until resolved to ≤ grade 2, then ↓ 50 mg/m2 | ↓ 50 mg/m2 | ↓ 50 mg/m2 |
 | a All dose modifications should be based on the worst preceding toxicity |  |  |  |
 | b National Cancer Institute Common Toxicity Criteria (version 1.0) |  |  |  |
 | c Pretreatment |  |  |  |
@@ -93,7 +93,7 @@ Freezing Irinotecan Hydrochloride Injection and admixtures of Irinotecan Hydroch
 The Irinotecan Hydrochloride Injection solution should be used immediately after reconstitution as it contains no antibacterial preservative.
 Because of possible microbial contamination during dilution, it is advisable to use the admixture prepared with 5% Dextrose Injection, USP, within 24 hours if refrigerated (2° to 8°C, 36° to 46°F).
 In the case of admixtures prepared with 5% Dextrose Injection, USP, or Sodium Chloride Injection, USP, the solutions should be used within 4 hours if kept at room temperature.
-If reconstitution and dilution are performed under strict aseptic conditions (e.g. on Laminar Air Flow bench), Irinotecan Hydrochloride Injection solution should be used (infusion completed) within 12 hours at room temperature or 24 hours if refrigerated (2° to 8°C, 36° to 46°F).
+If reconstitution and dilution are performed under strict aseptic conditions (e.g., on Laminar Air Flow bench), Irinotecan Hydrochloride Injection solution should be used (infusion completed) within 12 hours at room temperature or 24 hours if refrigerated (2° to 8°C, 36° to 46°F).
 
 ## 2.6 Safe Handling
 

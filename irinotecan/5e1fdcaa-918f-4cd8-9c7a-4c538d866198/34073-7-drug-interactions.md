@@ -1,27 +1,16 @@
 # 7 DRUG INTERACTIONS
 
-## 7.2 Strong CYP 3A4 Inducers
+## 7.2 Strong CYP3A4 Inducers
 
-Anticonvulsants and other strong inducers: Exposure to irinotecan and its active metabolite SN-38 is substantially reduced in adult and pediatric patients concomitantly receiving the CYP3A4 enzyme-inducing anticonvulsants phenytoin, phenobarbital or carbamazepine.
-The appropriate starting dose for patients taking these anticonvulsants or other strong inducers such as rifampin and rifabutin has not been defined.
-Consideration should be given to substituting non-enzyme inducing therapies at least 2 weeks prior to initiation of irinotecan therapy.
+Exposure to irinotecan or its active metabolite SN-38 is substantially reduced in adult and pediatric patients concomitantly receiving the CYP3A4 enzyme-inducing anticonvulsants phenytoin, phenobarbital, carbamazepine, or St. John’s wort.
+The appropriate starting dose for patients taking these or other strong inducers such as rifampin and rifabutin has not been defined.
+Consider substituting non-enzyme inducing therapies at least 2 weeks prior to initiation of Irinotecan Hydrochloride Injection therapy.
+Do not administer strong CYP3A4 inducers with Irinotecan Hydrochloride Injection unless there are no therapeutic alternatives.
 
-St. John’s wort: Exposure to the active metabolite SN-38 is reduced in patients receiving concomitant St. John’s wort.
-St. John’s wort should be discontinued at least 2 weeks prior to the first cycle of irinotecan, and St. John’s wort is contraindicated during irinotecan therapy.
+## 7.3 Strong CYP3A4 or UGT1A1 Inhibitors
 
-Dexamethasone, a moderate CYP3A4 inducer, does not appear to alter the pharmacokinetics of irinotecan.
-
-## 7.3 Strong CYP 3A4 Inhibitors
-
-Ketoconazole is a strong inhibitor of CYP3A4 enzymes.
-Patients receiving concomitant ketoconazole have increased exposure to irinotecan and its active metabolite SN-38.
-Patients should discontinue ketoconazole at least 1 week prior to starting irinotecan therapy and ketoconazole is contraindicated during irinotecan therapy.
-
-## 7.4 Atazanavir Sulfate
-
-Coadministration of atazanavir sulfate, a CYP3A4 and UGT1A1 inhibitor has the potential to increase systemic exposure to SN-38, the active metabolite of irinotecan.
-Physicians should take this into consideration when co-administering these drugs.
-
-## 7.5 Drug-Laboratory Test Interactions
-
-There are no known interactions between Irinotecan Hydrochloride Injection and laboratory tests.
+Irinotecan and its active metabolite, SN-38, are metabolized via the human cytochrome P450 3A4 isoenzyme (CYP3A4) and uridine diphosphate-glucuronosyl transferase 1A1 (UGT1A1), respectively, [see Clinical Pharmacology (12.3)].
+Patients receiving concomitant ketoconazole, a CYP3A4 and UGT1A1 inhibitor, have increased exposure to irinotecan and its active metabolite SN-38.
+Coadministration of Irinotecan Hydrochloride Injection with other inhibitors of CYP3A4 (e.g., clarithromycin, indinavir, itraconazole, lopinavir, nefazodone, nelfinavir, ritonavir, saquinavir, telaprevir, voriconazole) or UGT1A1 (e.g., atazanavir, gemfibrozil, indinavir) may increase systemic exposure to irinotecan or SN-38.
+Discontinue strong CYP3A4 inhibitors at least 1week prior to starting Irinotecan Hydrochloride Injection therapy.
+Do not administer strong CYP3A4 or UGT1A1 inhibitors with Irinotecan Hydrochloride Injection unless there are no therapeutic alternatives.

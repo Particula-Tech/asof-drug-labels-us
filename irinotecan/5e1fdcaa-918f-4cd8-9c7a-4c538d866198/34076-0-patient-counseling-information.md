@@ -15,18 +15,8 @@
 - Patients should be alerted to the possibility of alopecia.
 - Contains sorbitol.
 
-Manufactured by:
+Manufactured by: Sindan Pharma SRL 11 Ion Mihalache Blvd Bucharest 1, Romania 011171
 
-Sindan Pharma SRL
+Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-11 Ion Mihalache Blvd
-
-Bucharest 1, Romania 011171
-
-Distributed by:
-
-Actavis Pharma, Inc.
-
-Parsippany, NJ 07054 USA
-
-Revised - June 2014
+Revised - January 2016
