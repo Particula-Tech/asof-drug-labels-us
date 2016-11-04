@@ -28,7 +28,7 @@ TENORMIN is an additional treatment to standard coronary care unit therapy.
 Since TENORMIN is excreted via the kidneys, dosage should be adjusted in cases of severe impairment of renal function.
 No significant accumulation of TENORMIN occurs until creatinine clearance falls below 35 mL/min/1.73m2 (normal range is 100-150 mL/min/1.73m2); therefore, the following maximum oral dosages are recommended for patients with renal impairment.
 
-| Creatinine Clearance(mL/min/1.73m2) | AtenololElimination Half-life(h) | Maximum Dosage |
+| Creatinine Clearance (mL/min/1.73m2) | Atenolol Elimination Half-life (h) | Maximum Dosage |
 | --- | --- | --- |
 | 15-35 | 16-27 | 50 mg daily |
 | <15 | >27 | 50 mg every other day |

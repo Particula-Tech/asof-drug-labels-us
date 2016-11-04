@@ -6,9 +6,9 @@ The frequency estimates in the following table were derived from controlled stud
 The reported frequency of elicited adverse effects was higher for both TENORMIN and placebo-treated patients than when these reactions were volunteered.
 Where frequency of adverse effects of TENORMIN and placebo is similar, causal relationship to TENORMIN is uncertain.
 
-|  | Atenolol(n=164)% | Placebo(n=206)% | Atenolol(n=399)% | Placebo(n=407)% |
+|  | Atenolol (n=164) % | Placebo (n=206) % | Atenolol (n=399) % | Placebo (n=407) % |
 | --- | --- | --- | --- | --- |
-|  | Volunteered(US Studies) |  | Total Volunteeredand Elicited(Foreign + US Studies) |  |
+|  | Volunteered (US Studies) |  | Total Volunteered and Elicited (Foreign + US Studies) |  |
 | CARDIOVASCULAR |  |  |  |  |
 | Bradycardia | 3 | 0 | 3 | 0 |
 | Cold Extremities | 0 | 0.5 | 12 | 5 |
@@ -41,7 +41,7 @@ The reported frequency of these and other events occurring during these investig
 
 In a study of 477 patients, the following adverse events were reported during either intravenous and/or oral atenolol administration:
 
-|  | ConventionalTherapy PlusAtenolol(n=244) |  | ConventionalTherapyAlone(n=233) |  |
+|  | Conventional Therapy Plus Atenolol (n=244) |  | Conventional Therapy Alone (n=233) |  |
 | --- | --- | --- | --- | --- |
 | Bradycardia | 43 | (18%) | 24 | (10%) |
 | Hypotension | 60 | (25%) | 34 | (15%) |
