@@ -1,10 +1,11 @@
 # 6 ADVERSE REACTIONS
 
-The following adverse reactions are discussed in greater detail in the Warnings and Precautions (5) section of the labeling:
+The following potentially serious adverse reactions are described elsewhere in the labeling:
 
-- Endophthalmitis and retinal detachments
-- Increased intraocular pressure
-- Thromboembolic events
+- Hypersensitivity [see Contraindications (4.3)]
+- Endophthalmitis and retinal detachments [see Warnings and Precautions (5.1)]
+- Increase in intraocular pressure [see Warnings and Precautions (5.2)]
+- Thromboembolic events [see Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -107,10 +108,3 @@ For these reasons, comparison of the incidence of antibodies to EYLEA with the i
 In the wet AMD, RVO, and DME studies, the pre-treatment incidence of immunoreactivity to EYLEA was approximately 1% to 3% across treatment groups.
 After dosing with EYLEA for 24-100 weeks, antibodies to EYLEA were detected in a similar percentage range of patients.
 There were no differences in efficacy or safety between patients with or without immunoreactivity.
-
-## 6.3 Postmarketing Experience
-
-The following adverse reactions have been identified during postapproval use of EYLEA.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-
-- Hypersensitivity including rash, pruritus, and urticaria as well as isolated cases of severe anaphylactic/anaphylactoid reactions.
