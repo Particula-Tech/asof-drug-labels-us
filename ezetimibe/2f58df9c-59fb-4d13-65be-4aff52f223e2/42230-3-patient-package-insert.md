@@ -122,7 +122,8 @@ What are the possible side effects of VYTORIN?
 
 VYTORIN may cause serious side effects, including:
 
-- Muscle pain, tenderness and weakness (myopathy) Muscle problems, including muscle breakdown, can be serious in some people and rarely cause kidney damage that can lead to death.
+- Muscle pain, tenderness and weakness (myopathy).
+  Muscle problems, including muscle breakdown, can be serious in some people and rarely cause kidney damage that can lead to death.
   Tell your doctor right away if:Your chances of getting muscle problems are higher if you:
   - you have unexplained muscle pain, tenderness, or weakness, especially if you have a fever or feel more tired than usual, while you take VYTORIN.
   - you have muscle problems that do not go away even after your doctor has advised you to stop taking VYTORIN.
@@ -191,6 +192,6 @@ What are the ingredients in VYTORIN?
 
 Active Ingredients: ezetimibe and simvastatin
 
-Inactive ingredients: butylated hydroxyanisole NF, citric acid monohydrate USP, croscarmellose sodium NF, hypromellose USP, lactose monohydrate NF, magnesium stearate NF, microcrystalline cellulose NF, and propyl gallate NF.
+Inactive Ingredients: butylated hydroxyanisole NF, citric acid monohydrate USP, croscarmellose sodium NF, hypromellose USP, lactose monohydrate NF, magnesium stearate NF, microcrystalline cellulose NF, and propyl gallate NF.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.

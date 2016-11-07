@@ -1,31 +1,15 @@
-Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
-
-Manufactured by: MSD International GmbH (Singapore Branch) Singapore 637766
-
-Or
-
-Merck Sharp & Dohme (Italia) S.p.A.
-Via Emilia 21, Pavia 27100, Italy
-
-Or
-
-Merck Sharp & Dohme Ltd. Cramlington, Northumberland NE23 3JU, UK
-
-Or
-
-Jointly manufactured by: Merck Sharp & Dohme (Italia) S.p.A.
-Via Emilia 21, Pavia 27100, Italy and MSD International GmbH (Singapore Branch) Singapore 637766
+Distributed by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
 For patent information: www.merck.com/product/patent/home.html
 
-Copyright © 2004-2015 MSD International GmbH, a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2004-2016 MSD International GmbH, a subsidiary of Merck & Co., Inc. All rights reserved.
 
-uspi-mk0653a-t-1503r031
+uspi-mk0653a-t-1610r032
 
-Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+Distributed by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-Copyright © 2004-2014 MSD International GmbH, a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2004-2016 MSD International GmbH, a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 03/2015
+Revised: 10/2016
 
-usppi-mk0653a-t-1503r028
+usppi-mk0653a-t-1610r029
