@@ -1,0 +1,35 @@
+{
+  "application_numbers": [
+    "ANDA207752"
+  ],
+  "inn": "rosuvastatin",
+  "labeler": "Biocon Pharma Inc",
+  "package_ndcs": [
+    "70377-006-11",
+    "70377-006-12",
+    "70377-006-13",
+    "70377-007-11",
+    "70377-007-12",
+    "70377-007-13",
+    "70377-008-11",
+    "70377-008-12",
+    "70377-008-13",
+    "70377-009-11",
+    "70377-009-12",
+    "70377-009-13"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "rosuvastatin calcium",
+      "name": "Rosuvastatin Calcium"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "rosuvastatin calcium",
+      "name": "Rosuvastatin calcium"
+    }
+  ],
+  "setid": "033d8c8f-bbe9-96b5-fd53-cb0ef929857a",
+  "source": "dailymed"
+}
