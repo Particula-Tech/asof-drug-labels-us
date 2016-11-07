@@ -141,4 +141,4 @@ Active ingredient: desvenlafaxine Inactive ingredients: For the 50 mg tablet, al
 For the 100 mg tablet, alginic acid, citric acid monohydrate powder, hypromellose, microcrystalline cellulose, povidone, talc, magnesium stearate and film coating, which consist of hypromellose, titanium dioxide, polyethylene glycol, iron oxide red, and iron oxide black.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 Manufactured for: Ranbaxy Pharmaceuticals Inc. Jacksonville, FL 32257 USA by: Alembic Pharmaceuticals Limited (Formulation Division), Village Panelav, P. O. Tajpura, Near Baska, Taluka-Halol, Panchmahal, Gujarat, India.
-Revised: 09/2016
+Revised: 10/2016

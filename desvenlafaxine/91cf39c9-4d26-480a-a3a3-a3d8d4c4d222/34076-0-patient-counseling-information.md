@@ -12,7 +12,7 @@ Suicide Risk Advise patients, their families and caregivers to look for the emer
 Concomitant Medication Advise patients taking desvenlafaxine extended-release tablets not to use concomitantly other products containing desvenlafaxine or venlafaxine.
 Healthcare professionals should instruct patients not to take desvenlafaxine with an MAOI or within 14 days of stopping an MAOI and to allow 7 days after stopping desvenlafaxine before starting an MAOI [see Contraindications (4)].
 
-Serotonin Syndrome Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of desvenlafaxine with other serotonergic agents (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John's Wort supplements) [see Warnings and Precautions (5.2)].
+Serotonin Syndrome Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of desvenlafaxine with other serotonergic agents (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John's Wort supplements) [see Warnings and Precautions (5.2)].
 
 Elevated Blood Pressure Advise patients that they should have regular monitoring of blood pressure when taking desvenlafaxine [see Warnings and Precautions (5.3)].
 
