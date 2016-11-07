@@ -17,7 +17,7 @@ Eight in vitro mutagenicity tests have been conducted with ciprofloxacin, and th
 - Micronucleus Test (Mice)
 - Dominant Lethal Test (Mice)
 
-Long-term carcinogenicity studies in rats and mice resulted in no carcinogenic or tumorigenic effects due to ciprofloxacin at daily oral dose levels up to 250 mg/kg and 750 mg/kg to rats and mice, respectively (approximately 1.7- and 2.5- times the highest recommended therapeutic dose based upon body surface area, respectively).
+Long-term carcinogenicity studies in rats and mice resulted in no carcinogenic or tumorigenic effects due to ciprofloxacin at daily oral dose levels up to 250 mg/kg and 750 mg/kg to rats and mice, respectively (approximately 1.7- and 2.5-times the highest recommended therapeutic dose based upon body surface area, respectively).
 
 Results from photo co-carcinogenicity testing indicate that ciprofloxacin does not reduce the time to appearance of UV-induced skin tumors as compared to vehicle control.
 Hairless (Skh-1) mice were exposed to UVA light for 3.5 hours five times every two weeks for up to 78 weeks while concurrently being administered ciprofloxacin.
@@ -32,7 +32,7 @@ Fertility studies performed in rats at oral doses of ciprofloxacin up to 100 mg/
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
-Ciprofloxacin and other quinolones have been shown to cause arthropathy in immature animals of most species tested [see Warnings and Precautions (5.11)].
+Ciprofloxacin and other quinolones have been shown to cause arthropathy in immature animals of most species tested [see Warnings and Precautions (5.12)].
 Damage of weight bearing joints was observed in juvenile dogs and rats.
 In young beagles, 100 mg/kg ciprofloxacin, given daily for 4 weeks, caused degenerative articular changes of the knee joint.
 At 30 mg/kg, the effect on the joint was minimal.
