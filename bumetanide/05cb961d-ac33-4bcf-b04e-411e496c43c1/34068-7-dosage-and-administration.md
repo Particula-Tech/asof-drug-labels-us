@@ -12,6 +12,8 @@ In patients with hepatic failure, the dosage should be kept to a minimum, and if
 
 Because cross-sensitivity with furosemide has rarely been observed, bumetanide tablets can be substituted at approximately a 1:40 ratio of bumetanide tablets to furosemide in patients allergic to furosemide.
 
-Parenteral Administration: Bumetanide injection may be administered parenterally (IV or IM) to patients in whom gastrointestinal absorption may be impaired or in whom oral administration is not practical.
+## Parenteral Administration
+
+Bumetanide injection may be administered parenterally (IV or IM) to patients in whom gastrointestinal absorption may be impaired or in whom oral administration is not practical.
 
 Parenteral treatment should be terminated and oral treatment instituted as soon as possible.

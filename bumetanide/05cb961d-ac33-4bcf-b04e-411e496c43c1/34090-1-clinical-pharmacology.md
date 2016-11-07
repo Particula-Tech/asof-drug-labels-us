@@ -32,22 +32,22 @@ Biliary excretion of bumetanide amounted to only 2% of the administered dose.
 ## Pediatric Pharmacology
 
 Elimination of bumetanide appears to be considerably slower in neonatal patients compared with adults, possibly because of immature renal and hepatobiliary function in this population.
-Small pharmacokinetic studies of intravenous bumetanide in preterm and full-term neonates with respiratory disorders have reported an apparent half-life of approximately 6 hours with a range up to 15 hours and a serum clearance ranging from 0.2 mL/min/kg to 1.1 mL/min/kg.
+Small pharmacokinetic studies of intravenous bumetanide in preterm and full-term neonates with respiratory disorders have reported an apparent half-life of approximately 6 hours, with a range up to 15 hours and a serum clearance ranging from 0.2 mL/min/kg to 1.1 mL/min/kg.
 In a population of neonates receiving bumetanide for volume overload, mean serum clearance rates were 2.17 mL/min/kg in patients less than 2 months of age and 3.8 mL/min/kg in patients aged 2 to 6 months.
 Mean serum half-life of bumetanide was 2.5 hours and 1.5 hours in patients aged less than 2 months and those aged 2 to 6 months, respectively.
 Elimination half-life decreased considerably during the first month of life, from a mean of approximately 6 hours at birth to approximately 2.4 hours at 1 month of age.
 
-In preterm neonates, mean serum concentrations following a single 0.05 mg/kg dose ranged from 126 µg/L at 1 hour to 57 µg/L at 8 hours.
+In preterm neonates, mean serum concentrations following a single 0.05 mg/kg dose ranged from 126 mcg/L at 1 hour to 57 mcg/L at 8 hours.
 In another study, mean serum concentrations following a single 0.05 mg/kg dose were 338 ng/mL at 30 minutes and 176 ng/mL after 4 hours.
 A single dose of 0.1 mg/kg produced mean serum levels of 314 ng/mL at 1 hour, and 195 ng/mL at 6 hours.
 Mean volume of distribution in neonates and infants has been reported to range from 0.26 L/kg to 0.39 L/kg.
 
 The degree of protein binding of bumetanide in cord sera from healthy neonates was approximately 97%, suggesting the potential for bilirubin displacement.
-A study using pooled sera from critically ill neonates found that bumetanide at concentrations of 0.5 µg/mL to 50 µg/mL, but not 0.25 µg/mL, caused a linear increase in unbound bilirubin concentrations.
+A study using pooled sera from critically ill neonates found that bumetanide at concentrations of 0.5 µg/mL to 50 mcg/mL, but not 0.25 mcg/mL, caused a linear increase in unbound bilirubin concentrations.
 
 In 56 infants aged 4 days to 6 months, bumetanide doses ranging from 0.005 mg/kg to 0.1 mg/kg were studied for pharmacodynamic effect.
 Peak bumetanide excretion rates increased linearly with increasing doses of drug.
-Maximal diuretic effect was observed at a bumetanide excretion rate of about 7 µg/kg/hr, corresponding to doses of 0.035 mg/kg to 0.040 mg/kg.
+Maximal diuretic effect was observed at a bumetanide excretion rate of about 7 mcg/kg/hr, corresponding to doses of 0.035 mg/kg to 0.040 mg/kg.
 Higher doses produced a higher bumetanide excretion rate but no increase in diuretic effect.
 Urine flow rate peaked during the first hour after drug administration in 80% of patients and by 3 hours in all patients.
 
