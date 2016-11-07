@@ -74,6 +74,8 @@ The following adverse reactions have been identified during the postmarketing us
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 - Nausea
+- Syncope
+- Loss of consciousness
 - Rash
 - Pruritus
 - Angioedema

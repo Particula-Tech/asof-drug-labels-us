@@ -3,13 +3,12 @@
 ## 12.1 Mechanism of Action
 
 The active ingredients of Edarbyclor target two separate mechanisms involved in blood pressure regulation.
-Azilsartan blocks the vasoconstriction and sodium retaining effects of angiotensin II on cardiac, vascular smooth muscle, adrenal and renal cells.
-Chlorthalidone produces diuresis with increased excretion of sodium and chloride at the cortical diluting segment of the ascending limb of Henle's loop of the nephron.
 
 Azilsartan medoxomil
 
 Angiotensin II is formed from angiotensin I in a reaction catalyzed by angiotensin-converting enzymes (ACE, kinase II).
 Angiotensin II is the principle pressor agent of the renin-angiotensin system, with effects that include vasoconstriction, stimulation of synthesis and release of aldosterone, cardiac stimulation, and renal reabsorption of sodium.
+Azilsartan medoxomil is an orally administered prodrug that is rapidly converted by esterases during absorption to the active moiety, azilsartan.
 Azilsartan blocks the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT1 receptor in many tissues, such as vascular smooth muscle and the adrenal gland.
 Its action is, therefore, independent of the pathway for angiotensin II synthesis.
 
@@ -27,7 +26,8 @@ Blockade of the angiotensin II receptor inhibits the negative regulatory feedbac
 Chlorthalidone
 
 Chlorthalidone produces diuresis with increased excretion of sodium and chloride.
-The site of action appears to be the cortical diluting segment of the ascending limb of Henle's loop of the nephron.
+The site of action appears to be the distal renal tubule (early convoluted part), inhibiting NaCl reabsorption (by antagonizing the Na+-Cl-cotransporter) and promoting Ca++ reabsorption (by an unknown mechanism).
+The enhanced delivery of Na+ and water to the cortical collecting tubule and/or the increased flow rate leads to increased secretion and elimination of K+ and H+.
 The diuretic effects of chlorthalildone lead to decreased extracellular fluid volume, plasma volume, cardiac output, total exchangeable sodium, glomerular filtration rate, and renal plasma flow.
 Although the mechanism of action of chlorthalidone and related drugs is not wholly clear, sodium and water depletion appear to provide a basis for its antihypertensive effect.
 
@@ -54,14 +54,13 @@ Edarbyclor
 
 Following oral administration of Edarbyclor, peak plasma concentrations of azilsartan and chlorthalidone are reached at 3 and 1 hours, respectively.
 The rate (Cmax and Tmax) and extent (AUC) of absorption of azilsartan are similar when it is administered alone or with chlorthalidone.
-The extent (AUC) of absorption of chlorthalidone is similar when it is administered alone or with azilsartan medoxomil; however, the Cmax of chlorthalidone from Edarbyclor was 47% higher.
-The elimination half-lives of azilsartan and chlorthalidone are approximately 12 hours and 45 hours, respectively.
+The extent (AUC) of absorption of chlorthalidone is similar when it is administered alone or with azilsartan medoxomil; however, the Cmax of chlorthalidone from Edarbyclor was 45-47% higher.
 
-There is no clinically significant effect of food on the bioavailability of Edarbyclor.
+There is no clinically significant effect of food on the bioavailability of azilsartan or chlorthalidone following administration of Edarbyclor.
 
 Azilsartan medoxomil
 
-Absorption: Azilsartan medoxomil is rapidly hydrolyzed to azilsartan, the active metabolite, in the gastrointestinal tract during absorption.
+Absorption: Azilsartan medoxomil is an orally administered prodrug that is rapidly converted by esterases during absorption to the active moiety, azilsartan.
 Azilsartan medoxomil is not detected in plasma after oral administration.
 Dose proportionality in exposure was established for azilsartan in the azilsartan medoxomil dose range of 20 mg to 320 mg after single or multiple dosing.
 
@@ -80,10 +79,14 @@ Azilsartan passed across the placental barrier in pregnant rats and was distribu
 
 Chlorthalidone: In whole blood, chlorthalidone is predominantly bound to erythrocyte carbonic anhydrase.
 In the plasma, approximately 75% of chlorthalidone is bound to plasma proteins, 58% of the drug being bound to albumin.
+Chlorthalidone crosses the placental barrier and passes into breast milk.
+When mothers were treated before and after birth with 50 mg chlorthalidone daily, chlorthalidone levels in fetal whole blood were around 15% of those found in maternal blood.
+Chlorthalidone concentrations in amniotic fluid and breast milk are approximately 4% of those found in maternal blood.
 
 Metabolism and Elimination
 
-Azilsartan medoxomil: Azilsartan is metabolized to two primary metabolites.
+Azilsartan medoxomil: Azilsartan medoxomil, when administered alone or in combination with chlorthalidone is eliminated from plasma with an elimination half-life of 11-13 hours.
+Azilsartan is metabolized to two primary metabolites.
 The major metabolite in plasma is formed by O-dealkylation, referred to as metabolite M-II, and the minor metabolite is formed by decarboxylation, referred to as metabolite M-I.
 Systemic exposures to the major and minor metabolites in humans were approximately 50% and less than 1% of azilsartan, respectively.
 M-I and M-II do not contribute to the pharmacologic activity of azilsartan medoxomil.
@@ -93,9 +96,11 @@ Following an oral dose of 14C-labeled azilsartan medoxomil, approximately 55% of
 The elimination half-life of azilsartan is approximately 11 hours and renal clearance is approximately 2.3 mL/min.
 Steady-state levels of azilsartan are achieved within 5 days and no accumulation in plasma occurs with repeated once-daily dosing.
 
-Chlorthalidone: The major portion of the drug is excreted unchanged by the kidneys.
-Nonrenal routes of elimination have yet to be clarified.
-Data are not available regarding percentage of dose as unchanged drug and metabolites, concentration of the drug in body fluids, degree of uptake by a particular organ or in the fetus, or passage across the blood-brain barrier.
+Chlorthalidone: Chlorthalidone when administered alone or in combination with azilsartan medoxomil is eliminated from plasma with an elimination half-life of 42-45 hours.
+The elimination half-life is unaltered following repeat dosing.
+The majority of an absorbed quantity of chlorthalidone is excreted by the kidneys with a mean renal clearance of 46-70 mL/min.
+By contrast, metabolism and excretion via the liver and bile play a minor role in the elimination of the substance.
+Approximately 60%-70% of chlorthalidone is excreted in the urine and feces within 120 hours, mainly in unchanged form.
 
 Special Populations
 
