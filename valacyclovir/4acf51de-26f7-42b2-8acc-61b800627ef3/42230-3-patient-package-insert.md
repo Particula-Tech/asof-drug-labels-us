@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-Valacyclovir Tablets, USP Read the Patient Information that comes with valacyclovir tablets before you start using them and each time you get a refill.
+Valacyclovir Tablets, USP (val" ay sye' kloe vir) Read the Patient Information that comes with valacyclovir tablets before you start using them and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
 Ask your healthcare provider or pharmacist if you have questions.
@@ -94,7 +94,7 @@ What are the possible side effects of valacyclovir tablets?
 Kidney failure and nervous system problems are not common, but can be serious in some patients taking valacyclovir tablets.
 Nervous system problems include aggressive behavior, unsteady movement, shaky movements, confusion, speech problems, hallucinations (seeing or hearing things that are really not there), seizures, and coma.
 Kidney failure and nervous system problems have happened in patients who already have kidney disease and in elderly patients whose kidneys do not work well due to age.
-Always tell your healthcare provider if you have kidney problems before taking valacyclovir hydrochloride tablets.
+Always tell your healthcare provider if you have kidney problems before taking valacyclovir tablets.
 Call your doctor right away if you get a nervous system problem while you are taking valacyclovir tablets.
 Common side effects of valacyclovir tablets in adults include headache, nausea, stomach pain, vomiting, and dizziness.
 Side effects in HIV-infected adults include headache, tiredness, and rash.
@@ -122,4 +122,6 @@ If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about valacyclovir tablets that is written for health professionals.
 What are the ingredients in valacyclovir tablets?
 Active Ingredient: valacyclovir hydrochloride Inactive Ingredients: crospovidone, FD&C blue #2/indigo carmine aluminum lake, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, povidone, and titanium dioxide.
-Manufactured for: Northstar Rx LLC Memphis, TN 38141 Toll Free: 1-800-206-7821 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt) AP-509302, INDIA M.L.No.: 22/MN/AP/2009/F/G Revised: 04/2012
+Manufactured for: Northstar Rx LLC Memphis, TN 38141.
+Toll Free: 1-800-206-7821 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahabubnagar (Dt) 509302, India.
+M.L.No.: 22/MN/AP/2009/F/R Revised: 10/2016

@@ -35,4 +35,6 @@ Patients should be advised to initiate treatment as soon as possible after a dia
 ## 17.5 Chickenpox
 
 Patients should be advised to initiate treatment at the earliest sign or symptom of chickenpox.
-Manufactured for: Northstar Rx LLC Memphis, TN 38141 Toll Free: 1-800-206-7821 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt) AP-509302, INDIA M.L.No.: 22/MN/AP/2009/F/G Revised: 04/2012
+Manufactured for: Northstar Rx LLC Memphis, TN 38141.
+Toll Free: 1-800-206-7821 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahabubnagar (Dt) 509302, India.
+M.L.No.: 22/MN/AP/2009/F/R Revised: 10/2016
