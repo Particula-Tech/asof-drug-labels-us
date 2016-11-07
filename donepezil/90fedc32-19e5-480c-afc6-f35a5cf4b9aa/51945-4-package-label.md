@@ -49,3 +49,29 @@ Namzaric®
 28 mg/10 mg per capsule
 
 AllerganTM
+
+Principal Display Panel - Titration Pack Label
+
+Titration Pack
+
+NDC 0456-1229-29
+
+Namzaric®
+
+(memantine and donepezil hydrochlorides) extended-release capsules
+
+Week 1 7mg/10 mg
+
+Week 2 14mg/10 mg
+
+Week 3 21mg/10 mg
+
+Week 4 28mg/10 mg
+
+This Titration Pack includes:
+
+NAMZARIC® extended release capsules for your first 4 weeks of therapy.
+
+For detailed dosing instructions, see inside panel.
+
+This Titration Pack is not to be refilled.

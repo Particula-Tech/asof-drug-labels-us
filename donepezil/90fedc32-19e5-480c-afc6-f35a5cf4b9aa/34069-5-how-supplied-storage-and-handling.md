@@ -18,6 +18,8 @@ Bottle of 30: NDC# 0456-1221-30
 
 Bottle of 30: NDC# 0456-1228-30 Bottle of 90: NDC# 0456-1228-90 Unit Dose carton (10x10): NDC# 0456-1228-63 Unit Dose blister (10): NDC# 0456-1228-11
 
+Titration Pack NDC# 0456-1229-29 Contains 28 capsules (7 x 7mg/10 mg, 7 x 14 mg/10 mg, 7 x 21 mg/10 mg, 7 x 28 mg/10 mg)
+
 ## 16.2 Storage and Handling
 
 Store at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C and 30°C (59°F and 86°F) [see USP Controlled Room Temperature].
