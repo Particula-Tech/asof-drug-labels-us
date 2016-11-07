@@ -6,16 +6,16 @@ PREVACID is indicated for short-term treatment (for four weeks) for healing and 
 
 ## 1.2 H. pylori Eradication to Reduce the Risk of Duodenal Ulcer Recurrence
 
-Triple Therapy: PREVACID/amoxicillin/clarithromycin
+Triple Therapy: PREVACID /amoxicillin/clarithromycin
 
 PREVACID in combination with amoxicillin plus clarithromycin as triple therapy is indicated for the treatment of patients with H. pylori infection and duodenal ulcer disease (active or one-year history of a duodenal ulcer) to eradicate H. pylori.
 Eradication of H. pylori has been shown to reduce the risk of duodenal ulcer recurrence [see Clinical Studies (14)].
 
 Please refer to the full prescribing information for amoxicillin and clarithromycin.
 
-Dual Therapy: PREVACID/amoxicillin
+Dual Therapy: PREVACID /amoxicillin
 
-PREVACID in combination with amoxicillin as dual therapy is indicated for the treatment of patients with H. pylori infection and duodenal ulcer disease (active or one-year history of a duodenal ulcer) who are either allergic or intolerant to clarithromycin or in whom resistance to clarithromycin is known or suspected (see the clarithromycin package insert, MICROBIOLOGY section).
+PREVACID in combination with amoxicillin as dual therapy is indicated for the treatment of patients with H. pylori infection and duodenal ulcer disease (active or one-year history of a duodenal ulcer) who are either allergic or intolerant to clarithromycin or in whom resistance to clarithromycin is known or suspected (see the clarithromycin prescribing information, MICROBIOLOGY section).
 Eradication of H. pylori has been shown to reduce the risk of duodenal ulcer recurrence [see Clinical Studies (14)].
 
 Please refer to the full prescribing information for amoxicillin.

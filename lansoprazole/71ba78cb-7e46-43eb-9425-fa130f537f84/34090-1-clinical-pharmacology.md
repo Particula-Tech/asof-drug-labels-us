@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-PREVACID (lansoprazole) belongs to a class of antisecretory compounds, the substituted benzimidazoles, that suppress gastric acid secretion by specific inhibition of the (H+, K+)-ATPase enzyme system at the secretory surface of the gastric parietal cell.
+Lansoprazole belongs to a class of antisecretory compounds, the substituted benzimidazoles, that suppress gastric acid secretion by specific inhibition of the (H+, K+)-ATPase enzyme system at the secretory surface of the gastric parietal cell.
 Because this enzyme system is regarded as the acid (proton) pump within the parietal cell, lansoprazole has been characterized as a gastric acid-pump inhibitor, in that it blocks the final step of acid production.
 This effect is dose-related and leads to inhibition of both basal and stimulated gastric acid secretion irrespective of the stimulus.
 Lansoprazole does not exhibit anticholinergic or histamine type-2 antagonist activity.
@@ -16,12 +16,13 @@ Lansoprazole inhibited the normal increases in secretion volume, acidity and aci
 
 The intragastric pH results of a five-day, pharmacodynamic, crossover study of 15 mg and 30 mg of once daily lansoprazole are presented in Table 4:
 
-Table 4: Mean Antisecretory Effects After Single and Multiple Daily PREVACID Dosing
+Table 4.
+Mean Antisecretory Effects After Single and Multiple Daily PREVACID Dosing
 
-| Parameter | Day 1 | Day 5 | Day 1 | Day 5 |  |
+| Day 1 | Day 5 | Day 1 | Day 5 |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  |  | PREVACID |  |  |  |
-|  | Baseline Value | 15 mg |  | 30 mg |  |
+| Parameter | Baseline Value | 15 mg |  | 30 mg |  |
 | Mean 24 Hour pH | 2.1 | 2.7(p<0.05) versus baseline only. | 4.0 | 3.6(p<0.05) versus baseline and lansoprazole 15 mg. | 4.9 |
 | Mean Nighttime pH | 1.9 | 2.4 | 3.0 | 2.6 | 3.8 |
 | % Time Gastric pH>3 | 18 | 33 | 59 | 51 | 72 |
@@ -34,7 +35,8 @@ After multiple daily dosing, increased gastric pH was seen within the first hour
 Acid suppression may enhance the effect of antimicrobials in eradicating Helicobacter pylori (H. pylori).
 The percentage of time gastric pH was elevated above five and six was evaluated in a crossover study of PREVACID given daily, twice daily and three times daily (Table 5).
 
-Table 5: Mean Antisecretory Effects After Five Days of Twice Daily and Three Times Daily Dosing
+Table 5.
+Mean Antisecretory Effects After Five Days of Twice Daily and Three Times Daily Dosing
 
 | Parameter | 30 mg daily | 15 mg twice daily | 30 mg twice daily | 30 mg three times daily |
 | --- | --- | --- | --- | --- |
@@ -91,21 +93,21 @@ Amoxicillin pretreatment susceptible isolates (≤0.25 mcg/mL) occurred in 97.8%
 Twenty-one of 957 patients (2.2%) by E-test, and two of 100 patients (2.0%) by agar dilution, had amoxicillin pretreatment MICs of greater than 0.25 mcg/mL.
 One patient on the 14 day triple therapy regimen had an unconfirmed pretreatment amoxicillin minimum inhibitory concentration (MIC) of greater than 256 mcg/mL by E-test and the patient was eradicated of H. pylori (Table 6).
 
-Table 6: Clarithromycin Susceptibility Test Results and Clinical/Bacteriological Outcomes#
+Table 6.
+Clarithromycin Susceptibility Test Results and Clinical/Bacteriological OutcomesIncludes only patients with pretreatment clarithromycin susceptibility test results
 
-|  |  | SSusceptible (S) MIC ≤0.25 mcg/mL, Intermediate (I) MIC 0.5 to 1.0 mcg/mL, Resistant (R) MIC ≥2 mcg/mL | I | R | No MIC |  |
+| SSusceptible (S) MIC ≤0.25 mcg/mL, Intermediate (I) MIC 0.5 to 1.0 mcg/mL, Resistant (R) MIC ≥2 mcg/mL | I | R | No MIC |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Clarithromycin Pretreatment Results |  | Clarithromycin Post-treatment Results |  |  |  |  |
 |  |  | H. pylori negative - eradicated | H. pylori positive – not eradicated Post-treatment susceptibility results |  |  |  |
-| Triple Therapy 14-Day (lansoprazole 30 mg twice daily/amoxicillin 1 g twice daily/clarithromycin 500 mg twice daily) (M95-399, M93-131, M95-392) |  |  |  |  |  |  |
+| Triple Therapy 14 Day (lansoprazole 30 mg twice daily/amoxicillin 1 g twice daily/clarithromycin 500 mg twice daily) (M95-399, M93-131, M95-392) |  |  |  |  |  |  |
 | Susceptible | 112 | 105 |  |  |  | 7 |
 | Intermediate | 3 | 3 |  |  |  |  |
 | Resistant | 17 | 6 |  |  | 7 | 4 |
-| Triple Therapy 10-Day (lansoprazole 30 mg twice daily/amoxicillin 1 g twice daily/clarithromycin 500 mg twice daily) (M95-399) |  |  |  |  |  |  |
+| Triple Therapy 10 Day (lansoprazole 30 mg twice daily/amoxicillin 1 g twice daily/clarithromycin 500 mg twice daily) (M95-399) |  |  |  |  |  |  |
 | Susceptible | 42 | 40 | 1 |  | 1 |  |
 | Intermediate |  |  |  |  |  |  |
 | Resistant | 4 | 1 |  |  | 3 |  |
-| #Includes only patients with pretreatment clarithromycin susceptibility test results |  |  |  |  |  |  |
 
 Patients not eradicated of H. pylori following lansoprazole/amoxicillin/clarithromycin triple therapy will likely have clarithromycin resistant H. pylori.
 Therefore, for those patients who fail therapy, clarithromycin susceptibility testing should be done when possible.
@@ -121,7 +123,7 @@ Susceptibility Test for Helicobacter pylori: For susceptibility testing informat
 
 ## 12.3 Pharmacokinetics
 
-PREVACID Delayed-Release Capsules and PREVACID SoluTab Delayed-Release Orally Disintegrating Tablets contain an enteric-coated granule formulation of lansoprazole.
+PREVACID and PREVACID SoluTab contain an enteric-coated granule formulation of lansoprazole.
 Absorption of lansoprazole begins only after the granules leave the stomach.
 Absorption is rapid, with mean peak plasma levels of lansoprazole occurring after approximately 1.7 hours.
 After a single-dose administration of 15 mg to 60 mg of oral lansoprazole, the peak plasma concentrations (Cmax) of lansoprazole and the area under the plasma concentration curves (AUCs) of lansoprazole were approximately proportional to the administered dose.
@@ -184,13 +186,13 @@ Drug-Drug Interactions
 
 PREVACID may interfere with the absorption of other drugs where gastric pH is an important determinant of bioavailability (e.g., ketoconazole, ampicillin esters, iron salts, digoxin).
 
-PREVACID is metabolized through the cytochrome P450 system, specifically through the CYP3A and CYP2C19 isozymes.
+Lansoprazole is metabolized through the cytochrome P450 system, specifically through the CYP3A and CYP2C19 isozymes.
 Studies have shown that PREVACID does not have clinically significant interactions with other drugs metabolized by the cytochrome P450 system, such as warfarin, antipyrine, indomethacin, ibuprofen, phenytoin, propranolol, prednisone, diazepam, or clarithromycin in healthy subjects.
 These compounds are metabolized through various cytochrome P450 isozymes including CYP1A2, CYP2C9, CYP2C19, CYP2D6, and CYP3A.
 
-Atazanavir and Nelfinavir: PREVACID causes long-lasting inhibition of gastric acid secretion.
-PREVACID substantially decreases the systemic concentrations of HIV protease inhibitors, such as atazanavir and nelfinavir, which are dependent upon the presence of gastric acid for absorption, and may result in a loss of therapeutic effect of atazanavir or nelfinavir and the development of HIV resistance.
-Therefore, PREVACID, or other proton pump inhibitors, should not be co-administered with atazanavir or nelfinavir.
+Atazanavir and Nelfinavir: Lansoprazole causes long-lasting inhibition of gastric acid secretion.
+Lansoprazole substantially decreases the systemic concentrations of HIV protease inhibitors, such as atazanavir and nelfinavir, which are dependent upon the presence of gastric acid for absorption, and may result in a loss of therapeutic effect of atazanavir or nelfinavir and the development of HIV resistance.
+Therefore, PREVACID or other proton pump inhibitors, should not be co-administered with atazanavir or nelfinavir.
 
 Theophylline: When PREVACID was administered concomitantly with theophylline (CYP1A2, CYP3A), a minor increase (10%) in the clearance of theophylline was seen.
 Because of the small magnitude and the direction of the effect on theophylline clearance, this interaction is unlikely to be of clinical concern.
@@ -215,5 +217,6 @@ In clinical trials, antacids were administered concomitantly with PREVACID and t
 Clopidogrel: Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
 A study of healthy subjects who were CYP2C19 extensive metabolizers, receiving once daily administration of clopidogrel 75 mg alone or concomitantly with PREVACID 30 mg (n=40), for nine days was conducted.
 The mean AUC of the active metabolite of clopidogrel was reduced by approximately 14% (mean AUC ratio was 86%, with 90% CI of 80 to 92%) when PREVACID was coadministered compared to administration of clopidogrel alone.
+
 Pharmacodynamic parameters were also measured and demonstrated that the change in inhibition of platelet aggregation (induced by 5 mcM ADP) was related to the change in the exposure to clopidogrel active metabolite.
 The clinical significance of this finding is not clear.

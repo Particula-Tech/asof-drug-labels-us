@@ -18,7 +18,7 @@ Because many drugs are excreted in human milk, because of the potential for seri
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of PREVACID have been established in pediatric patients one to 17 years of age for short-term treatment of symptomatic GERD and erosive esophagitis, however, PREVACID was not effective in patients with symptomatic GERD 1 month to less than one year of age in a multicenter, double-blind, placebo controlled study.
+The safety and effectiveness of PREVACID have been established in pediatric patients one to 17 years of age for short-term treatment of symptomatic GERD and erosive esophagitis, however, lansoprazole was not effective in patients with symptomatic GERD one month to less than one year of age in a multicenter, double-blind, placebo controlled study.
 
 Neonate to less than one year of age
 
@@ -49,20 +49,21 @@ After eight to 12 weeks of PREVACID treatment, the intent-to-treat analysis demo
 
 Twenty-one of 27 erosive esophagitis patients were healed at eight weeks and 100% of patients were healed at 12 weeks by endoscopy (Table 2).
 
-Table 2: GERD Symptom Improvement and Erosive Esophagitis Healing Rates in Pediatric Patients Age 1 to 11
+Table 2.
+GERD Symptom Improvement and Erosive Esophagitis Healing Rates in Pediatric Patients Age 1 to 11
 
 | GERD | Final VisitAt Week 8 or Week 12 % (n/N) |
 | --- | --- |
-| Symptomatic GERD |  |
-| Improvement in Overall GERD SymptomsSymptoms assessed by patients diary kept by caregiver. | 76% (47/62No data were available for 4 pediatric patients.) |
-| Erosive Esophagitis |  |
-| Improvement in Overall GERD Symptoms | 81% (22/27) |
-| Healing Rate | 100% (27/27) |
+| Symptomatic GERD | 76% (47/62No data were available for 4 pediatric patients.) |
+| Improvement in Overall GERD SymptomsSymptoms assessed by patients diary kept by caregiver. |  |
+| Erosive Esophagitis | 81% (22/27) |
+| Improvement in Overall GERD Symptoms | 100% (27/27) |
+| Healing Rate |  |
 
 In a study of 66 pediatric patients in the age group one year to 11 years old after treatment with PREVACID given orally in doses of 15 mg daily to 30 mg twice daily, increases in serum gastrin levels were similar to those observed in adult studies.
 Median fasting serum gastrin levels increased 89% from 51 pg/mL at baseline to 97 pg/mL [interquartile range (25th to 75th percentile) of 71 to 130 pg/mL] at the final visit.
 
-The pediatric safety of PREVACID Delayed-Release Capsules has been assessed in 66 pediatric patients aged one to 11 years of age.
+The pediatric safety of PREVACID capsules has been assessed in 66 pediatric patients aged one to 11 years of age.
 Of the 66 patients with GERD 85% (56/66) took PREVACID for 8 weeks and 15% (10/66) took it for 12 weeks.
 
 The most frequently reported (two or more patients) treatment-related adverse reactions in patients one to 11 years of age (N=66) were constipation (5%) and headache (3%).
@@ -78,7 +79,8 @@ During 8 weeks of PREVACID treatment, adolescent patients experienced a 63% redu
 Twenty-one of 22 (95.5%) adolescent erosive esophagitis patients were healed after eight weeks of PREVACID treatment.
 One patient remained unhealed after 12 weeks of treatment (Table 3).
 
-Table 3: GERD Symptom Improvement and Erosive Esophagitis Healing Rates in Pediatric Patients Age 12 to 17
+Table 3.
+GERD Symptom Improvement and Erosive Esophagitis Healing Rates in Pediatric Patients Age 12 to 17
 
 | GERD | Final Visit % (n/N) |
 | --- | --- |
@@ -93,16 +95,16 @@ Table 3: GERD Symptom Improvement and Erosive Esophagitis Healing Rates in Pedia
 In these 87 adolescent patients, increases in serum gastrin levels were similar to those observed in adult studies, median fasting serum gastrin levels increased 42% from 45 pg/mL at baseline to 64 pg/mL [interquartile range (25th to 75th percentile) of 44 to 88 pg/mL] at the final visit.
 (Normal serum gastrin levels are 25 to 111 pg/mL.)
 
-The safety of PREVACID Delayed-Release Capsules has been assessed in these 87 adolescent patients.
-Of the 87 adolescent patients with GERD, 6% (5/87) took PREVACID for less than six weeks, 93% (81/87) for 6 to 10 weeks, and 1% (1/87) for greater than 10 weeks.
+The safety of PREVACID capsules has been assessed in these 87 adolescent patients.
+Of the 87 adolescent patients with GERD, 6% (5/87) took PREVACID for less than six weeks, 93% (81/87) for six to 10 weeks, and 1% (1/87) for greater than 10 weeks.
 
 The most frequently reported (at least 3%) treatment-related adverse reactions in these patients were headache (7%), abdominal pain (5%), nausea (3%) and dizziness (3%).
-Treatment-related dizziness, reported in this package insert as occurring in less than 1% of adult patients, was reported in this study by three adolescent patients with nonerosive GERD, who had dizziness concurrently with other reactions (such as migraine, dyspnea, and vomiting).
+Treatment-related dizziness, reported in this prescribing information as occurring in less than 1% of adult patients, was reported in this study by three adolescent patients with nonerosive GERD, who had dizziness concurrently with other reactions (such as migraine, dyspnea, and vomiting).
 
 ## 8.5 Geriatric Use
 
 No dosage adjustment of PREVACID is necessary in geriatric patients.
-The incidence rates of PREVACID-associated adverse reactions and laboratory test abnormalities are similar to those seen in younger patients [see Clinical Pharmacology (12.3)].
+The incidence rates of adverse reactions and laboratory test abnormalities are similar to those seen in younger patients [see Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 

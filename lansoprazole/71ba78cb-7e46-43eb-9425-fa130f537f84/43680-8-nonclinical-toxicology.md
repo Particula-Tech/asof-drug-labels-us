@@ -14,7 +14,7 @@ It also produced an increased incidence of liver tumors (hepatocellular adenoma 
 The tumor incidences in male mice treated with 300 and 600 mg/kg/day (40 to 80 times the recommended human dose based on BSA) and female mice treated with 150 to 600 mg/kg/day (20 to 80 times the recommended human dose based on BSA) exceeded the ranges of background incidences in historical controls for this strain of mice.
 Lansoprazole treatment produced adenoma of rete testis in male mice receiving 75 to 600 mg/kg/day (10 to 80 times the recommended human dose based on BSA).
 
-A 26-week p53 (+/-) transgenic mouse carcinogenicity study was not positive.
+A 26 week p53 (+/-) transgenic mouse carcinogenicity study was not positive.
 
 Lansoprazole was positive in the Ames test and the in vitro human lymphocyte chromosomal aberration assay.
 Lansoprazole was not genotoxic in the ex vivo rat hepatocyte unscheduled DNA synthesis (UDS) test, the in vivo mouse micronucleus test, or the rat bone marrow cell chromosomal aberration test.
