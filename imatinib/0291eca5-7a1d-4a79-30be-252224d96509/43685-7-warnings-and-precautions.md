@@ -5,7 +5,7 @@
 Imatinib mesylate is often associated with edema and occasionally serious fluid retention [see Adverse Reactions (6.1)].
 Weigh and monitor patients regularly for signs and symptoms of fluid retention.
 Investigate unexpected rapid weight gain carefully and provide appropriate treatment.
-The probability of edema was increased with higher imatinib mesylate dose and age >65 years in the CML studies.
+The probability of edema was increased with higher imatinib mesylate dose and age greater than 65 years in the CML studies.
 Severe superficial edema was reported in 1.5% of newly diagnosed CML patients taking imatinib mesylate, and in 2% to 6% of other adult CML patients taking imatinib mesylate.
 In addition, other severe fluid retention (e.g., pleural effusion, pericardial effusion, pulmonary edema, and ascites) reactions were reported in 1.3% of newly diagnosed CML patients taking imatinib mesylate, and in 2% to 6% of other adult CML patients taking imatinib mesylate.
 In a randomized trial in patients with newly diagnosed Ph+CML in chronic phase comparing imatinib mesylate and nilotinib, severe (Grade 3 or 4) fluid retention occurred in 2.5% of patients receiving imatinib mesylate and in 3.9% of patients receiving nilotinib 300 mg bid.
@@ -17,7 +17,7 @@ Treatment with imatinib mesylate tablets is associated with anemia, neutropenia,
 Perform complete blood counts weekly for the first month, biweekly for the second month, and periodically thereafter as clinically indicated (for example, every 2 to 3 months).
 In CML, the occurrence of these cytopenias is dependent on the stage of disease and is more frequent in patients with accelerated phase CML or blast crisis than in patients with chronic phase CML.
 In pediatric CML patients the most frequent toxicities observed were Grade 3 or 4 cytopenias including neutropenia, thrombocytopenia and anemia.
-These generally occur within the first several months of therapy [see Dosage and Administration (2.12)].
+These generally occur within the first several months of therapy [see Dosage and Administration (2.14)].
 
 ## 5.3 Congestive Heart Failure and Left Ventricular Dysfunction
 
@@ -33,7 +33,7 @@ Evaluate and treat any patient with signs or symptoms consistent with cardiac or
 Hepatotoxicity, occasionally severe, may occur with imatinib mesylate [see Adverse Reactions (6.1)].
 Cases of fatal liver failure and severe liver injury requiring liver transplants have been reported with both short-term and long-term use of imatinib mesylate.
 Monitor liver function (transaminases, bilirubin, and alkaline phosphatase) before initiation of treatment and monthly, or as clinically indicated.
-Manage laboratory abnormalities with imatinib mesylate interruption and/or dose reduction [see Dosage and Administration (2.12)].
+Manage laboratory abnormalities with imatinib mesylate interruption and/or dose reduction [see Dosage and Administration (2.13)].
 When imatinib mesylate is combined with chemotherapy, liver toxicity in the form of transaminase elevation and hyperbilirubinemia has been observed.
 Additionally, there have been reports of acute liver failure.
 Monitoring of hepatic function is recommended.

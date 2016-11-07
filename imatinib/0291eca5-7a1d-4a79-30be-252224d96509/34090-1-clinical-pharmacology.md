@@ -46,14 +46,14 @@ Exposure to both imatinib and CGP74588 was comparable between each of the mildly
 Patients with severe hepatic impairment tend to have higher exposure to both imatinib and its metabolite than patients with normal hepatic function.
 At steady state, the mean Cmax/dose and AUC/dose for imatinib increased by about 63% and 45%, respectively, in patients with severe hepatic impairment compared to patients with normal hepatic function.
 The mean Cmax/dose and AUC/dose for CGP74588 increased by about 56% and 55%, respectively, in patients with severe hepatic impairment compared to patients with normal hepatic function.
-Dose reductions are necessary for patients with severe hepatic impairment [see Dosage and Administration (2.11)].
+Dose reductions are necessary for patients with severe hepatic impairment [see Dosage and Administration (2.12)].
 
 Renal Impairment The effect of renal impairment on the pharmacokinetics of imatinib was assessed in 59 cancer patients with varying degrees of renal impairment [see Use in Specific Populations (8.7)] at single and steady state imatinib doses ranging from 100 to 800 mg/day.
 The mean exposure to imatinib (dose normalized AUC) in patients with mild and moderate renal impairment increased 1.5- to 2-fold compared to patients with normal renal function.
 The AUCs did not increase for doses greater than 600 mg in patients with mild renal impairment.
 The AUCs did not increase for doses greater than 400 mg in patients with moderate renal impairment.
 Two patients with severe renal impairment were dosed with 100 mg/day and their exposures were similar to those seen in patients with normal renal function receiving 400 mg/day.
-Dose reductions are necessary for patients with moderate and severe renal impairment [see Dosage and Administration (2.11)].
+Dose reductions are necessary for patients with moderate and severe renal impairment [see Dosage and Administration (2.12)].
 
 Pediatric Use As in adult patients, imatinib was rapidly absorbed after oral administration in pediatric patients, with a Cmax of 2 to 4 hours.
 Apparent oral clearance was similar to adult values (11.0 L/hr/m2 in children vs. 10.0 L/hr/m2 in adults), as was the half-life (14.8 hours in children vs. 17.1 hours in adults).
@@ -67,7 +67,7 @@ The analysis confirmed that exposure of imatinib in pediatric patients receiving
 
 Drug Interactions
 
-Agents Inducing CYP3A Metabolism Pretreatment of healthy volunteers with multiple doses of rifampin followed by a single dose of imatinib mesylate tablets, increased imatinib mesylate oral-dose clearance by 3.8-fold, which significantly (p<0.05) decreased mean Cmax and AUC.
+Agents Inducing CYP3A Metabolism Pretreatment of healthy volunteers with multiple doses of rifampin followed by a single dose of imatinib mesylate tablets, increased imatinib mesylate oral-dose clearance by 3.8-fold, which significantly (p less than 0.05) decreased mean Cmax and AUC.
 
 Similar findings were observed in patients receiving 400 to 1200 mg/day imatinib mesylate tablets concomitantly with enzyme-inducing anti-epileptic drugs (EIAED) (e.g., carbamazepine, oxcarbamazepine, phenytoin, fosphenytoin, phenobarbital, and primidone).
 The mean dose normalized AUC for imatinib in the patients receiving EIAED’s decreased by 73% compared to patients not receiving EIAED.
@@ -75,7 +75,7 @@ The mean dose normalized AUC for imatinib in the patients receiving EIAED’s de
 Concomitant administration of imatinib mesylate tablets and St. John’s Wort led to a 30% reduction in the AUC of imatinib.
 
 Consider alternative therapeutic agents with less enzyme induction potential in patients when rifampin or other CYP3A4 inducers are indicated.
-Imatinib mesylate tablets doses up to 1200 mg/day (600 mg BID) have been given to patients receiving concomitant strong CYP3A4 inducers [see Dosage and Administration (2.11)].
+Imatinib mesylate tablets doses up to 1200 mg/day (600 mg BID) have been given to patients receiving concomitant strong CYP3A4 inducers [see Dosage and Administration (2.12)].
 
 Agents Inhibiting CYP3A Metabolism There was a significant increase in exposure to imatinib (mean Cmax and AUC increased by 26% and 40%, respectively) in healthy subjects when imatinib mesylate tablets were coadministered with a single dose of ketoconazole (a CYP3A4 inhibitor).
 Caution is recommended when administering imatinib mesylate tablets with strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, clarithromycin, atazanavir, indinavir, nefazodone, nelfinavir, ritonavir, saquinavir, telithromycin, and voriconazole).
@@ -94,4 +94,4 @@ No dose adjustment is necessary, however, caution is recommended when administer
 Interactions with Acetaminophen In vitro, imatinib mesylate inhibits the acetaminophen O-glucuronidate pathway (Ki 58.5 mcM).
 Coadministration of imatinib mesylate tablets (400 mg/day for eight days) with acetaminophen (1,000 mg single dose on day eight) in patients with CML did not result in any changes in the pharmacokinetics of acetaminophen.
 Imatinib mesylate pharmacokinetics were not altered in the presence of single-dose acetaminophen.
-There is no pharmacokinetic or safety data on the concomitant use of imatinib mesylate tablets at doses >400 mg/day or the chronic use of concomitant acetaminophen and imatinib mesylate tablets.
+There is no pharmacokinetic or safety data on the concomitant use of imatinib mesylate tablets at doses greater than 400 mg/day or the chronic use of concomitant acetaminophen and imatinib mesylate tablets.

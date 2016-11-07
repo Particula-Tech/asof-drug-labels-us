@@ -63,14 +63,14 @@ The effect of hepatic impairment on the pharmacokinetics of both imatinib and it
 
 Mild and moderate hepatic impairment do not influence exposure to imatinib and CGP74588.
 In patients with severe hepatic impairment, the imatinib Cmax and AUC increased by 63% and 45% and the CGP74588 Cmax and AUC increased by 56% and 55%, relative to patients with normal hepatic function [see Pharmacokinetics (12.3)].
-Reduce the dose by 25% for patients with severe hepatic impairment [see Dosage and Administration (2.11)].
+Reduce the dose by 25% for patients with severe hepatic impairment [see Dosage and Administration (2.12)].
 
-Table 16 Liver Function Classification
+Table 16: Liver Function Classification
 
 | Liver Function Test | Normal (n=14) | Mild (n=30) | Moderate (n=20) | Severe (n=20) |
 | --- | --- | --- | --- | --- |
-| Total Bilirubin | ≤ULN | >1.0-1.5 times the ULN | >1.5-3 times the ULN | >3-10 times the ULN |
-| SGOT | ≤ULN | >ULN (can be normal if Total Bilirubin is >ULN) | Any | Any |
+| Total Bilirubin | less than or equal to ULN | greater than 1.0-1.5 times the ULN | greater than 1.5-3 times the ULN | greater than 3-10 times the ULN |
+| SGOT | less than or equal to ULN | greater than ULN (can be normal if Total Bilirubin is greater than ULN) | Any | Any |
 
 ULN=upper limit of normal for the institution
 
@@ -79,13 +79,13 @@ ULN=upper limit of normal for the institution
 The effect of renal impairment on the pharmacokinetics of imatinib was assessed in 59 patients with cancer and varying degrees of renal impairment at single and steady state imatinib doses ranging from 100 to 800 mg/day.
 The mean exposure to imatinib (dose normalized AUC) in patients with mild and moderate renal impairment increased 1.5- to 2-fold compared to patients with normal renal function.
 There are not sufficient data in patients with severe renal impairment [see Clinical Pharmacology (12.3)].
-Dose reductions are necessary for patients with moderate and severe renal impairment [see Dosage and Administration (2.11)].
+Dose reductions are necessary for patients with moderate and severe renal impairment [see Dosage and Administration (2.12)].
 
-Table 17 Renal Function Classification
+Table 17: Renal Function Classification
 
 | Renal Dysfunction |  | Renal Function Tests |
 | --- | --- | --- |
 | Mild |  | CrCL = 40-59 mL/min |
 | Moderate |  | CrCL = 20-39 mL/min |
-| Severe |  | CrCL = <20 mL/min |
+| Severe |  | CrCL = less than 20 mL/min |
 | CrCL = Creatinine Clearance |  |  |
