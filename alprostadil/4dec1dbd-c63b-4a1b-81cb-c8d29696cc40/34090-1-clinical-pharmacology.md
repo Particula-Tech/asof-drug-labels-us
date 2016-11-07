@@ -31,6 +31,6 @@ Pharmacokinetics in Specific Populations
 
 Geriatric: The potential effect of age on the pharmacokinetics of alprostadil has not been formally evaluated.
 
-Race: The potential effect of race in the pharmacokinetics of alprostadil has not been formally evaluated.
+Race: The potential effect of race on the pharmacokinetics of alprostadil has not been formally evaluated.
 
 Renal and Hepatic Insufficiency: The pharmacokinetics of alprostadil have not been formally studied in patients with renal or hepatic insufficiency.

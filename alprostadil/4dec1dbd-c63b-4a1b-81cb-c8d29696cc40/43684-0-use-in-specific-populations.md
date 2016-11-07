@@ -2,7 +2,11 @@
 
 ## 8.1 Pregnancy
 
-CAVERJECT IMPULSE is not indicated for use in women.
+CAVERJECT IMPULSE is not indicated for use in females.
+
+## 8.2 Lactation
+
+CAVERJECT IMPULSE is not indicated for use in females.
 
 ## 8.4 Pediatric Use
 

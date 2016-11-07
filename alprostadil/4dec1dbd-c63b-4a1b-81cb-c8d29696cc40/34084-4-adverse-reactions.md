@@ -16,7 +16,7 @@ Penis disorder included penile pain, post-injection pain, and pain with erection
 
 CAVERJECT IMPULSE was also evaluated in 63 patients in a single-dose, double-blind, crossover study that compared CAVERJECT IMPULSE with CAVERJECT Sterile Powder.
 Doses used in this study ranged from 2.5 mcg to 20 mcg.
-Adverse reactions reported for the CAVERJECT IMPULSE formulation included: penile pain (1.6%) and pruritis (1.6%).
+Adverse reactions reported for the CAVERJECT IMPULSE formulation included: penile pain (1.6%) and pruritus (1.6%).
 
 In addition to the adverse reactions observed for CAVERJECT IMPULSE in these two studies, the following adverse reactions have been reported in clinical studies of CAVERJECT Sterile Powder:
 

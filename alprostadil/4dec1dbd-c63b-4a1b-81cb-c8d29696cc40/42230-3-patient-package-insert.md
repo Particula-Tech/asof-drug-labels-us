@@ -1,6 +1,6 @@
 # Patient Information
 
-CAVERJECT IMPULSE [KAV-er-jeckt] ®
+CAVERJECT IMPULSE® [KAV-er-jeckt]
 
 (alprostadil) for injection, for intracavernosal use
 
