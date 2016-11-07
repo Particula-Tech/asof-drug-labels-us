@@ -160,7 +160,7 @@ Before starting Celexa, tell your healthcare provider if you
   - Medicines that lower your potassium or magnesium levels in your body
   - Cimetidine
   - Triptans used to treat migraine headache
-  - Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, SSRIs, SNRIs, or antipsychotics
+  - Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, SSRIs, SNRIs, amphetamines, or antipsychotics
   - Tramadol
   - Over-the-counter supplements such as tryptophan or St. John's Wort
 - have liver problems
@@ -275,10 +275,9 @@ Inactive ingredients:
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: July 2014
+Revised: October 2016
 
-Distributed by: Forest Pharmaceuticals, Inc. Subsidiary of Forest Laboratories, Inc. St. Louis, MO 63045 USA
+Distributed by: Allergan USA, Inc. Irvine, CA 92612 Licensed from H. Lundbeck A/S
 
-Licensed from H. Lundbeck A/S
-
-© 2010, 2011, 2012, 2013, 2014 Forest Laboratories, Inc.
+© 2016 Allergan.
+All rights reserved.

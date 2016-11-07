@@ -10,7 +10,7 @@ Equivalent to 10 mg citalopram
 
 100 Tablets
 
-FOREST PHARMACEUTICALS, INC. Subsidiary of Forest Laboratories, Inc. St. Louis, Missouri 63045
+AllerganTM
 
 # Principal Display Panel – 20mg Bottle Label
 
@@ -24,7 +24,7 @@ Equivalent to 20 mg citalopram
 
 100 Tablets
 
-FOREST PHARMACEUTICALS, INC. Subsidiary of Forest Laboratories, Inc. St. Louis, Missouri 63045
+AllerganTM
 
 # Principal Display Panel – 40mg Bottle Label
 
@@ -38,4 +38,4 @@ Equivalent to 40 mg citalopram
 
 100 Tablets
 
-FOREST PHARMACEUTICALS, INC. Subsidiary of Forest Laboratories, Inc. St. Louis, Missouri 63045
+AllerganTM
