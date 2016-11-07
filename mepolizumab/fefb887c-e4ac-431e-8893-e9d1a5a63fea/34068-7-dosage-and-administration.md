@@ -33,7 +33,7 @@ Reconstitution Instructions
 
 Administration
 
-- •For subcutaneous administration, preferably using a 1-mL polypropylene syringe fitted with a disposable 21- to 27-G x 0.5-inch (13-mm) needle.
-- •Just before administration, remove 1 mL of reconstituted NUCALA.
-  Do not shake the reconstituted solution during the procedure as this could lead to product foaming or precipitation.
-- •Administer the 1-mL injection (equivalent to 100 mg mepolizumab) subcutaneously into the upper arm, thigh, or abdomen.
+1. 1.For subcutaneous administration, preferably using a 1-mL polypropylene syringe fitted with a disposable 21- to 27-G x 0.5-inch (13-mm) needle.
+2. 2.Just before administration, remove 1 mL of reconstituted NUCALA.
+   Do not shake the reconstituted solution during the procedure as this could lead to product foaming or precipitation.
+3. 3.Administer the 1-mL injection (equivalent to 100 mg mepolizumab) subcutaneously into the upper arm, thigh, or abdomen.

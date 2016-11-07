@@ -126,10 +126,10 @@ Change from Baseline in FEV1 (mL)
 | 2c | 52 (-30, 134) | 76 (-6, 159) | 98 (11, 184)d |
 | 3c | 56 (-91, 203) | 114 (-42, 271) | NA |
 
-1. a Dose = 75 mg IV.
-2. b FEV 1 at Week 52.
-3. c Dose = 100 mg SC.
-4. d FEV 1 at Week 32.
+- a Dose = 75 mg IV.
+- b FEV 1 at Week 52.
+- c Dose = 100 mg SC.
+- d FEV 1 at Week 32.
 
 The effect of mepolizumab on lung function was also studied in a 12-week, placebo-controlled trial enrolling patients with asthma on a moderate dose of inhaled corticosteroid with evidence of symptoms and lung function impairment.
 Enrollment was not dependent on a history of exacerbations or a pre-specified eosinophil count.
