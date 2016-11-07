@@ -27,10 +27,10 @@ Accordingly, caution patients against rising rapidly after sitting or lying down
 
 Pregnancy Because the teratogenic potential of pramipexole has not been completely established in laboratory animals, and because experience in humans is limited, advise women to notify their physicians if they become pregnant or intend to become pregnant during therapy [see Use in Specific Populations (8.1)].
 
-Nursing Mothers Because of the possibility that pramipexole may be excreted in breast milk, advise women to notify their physicians if they intend to breast-feed or are breast-feeding an infant [see Use in Specific Populations (8.3)].
+Lactation Because of the possibility that pramipexole may be excreted in breast milk, advise women to notify their physicians if they intend to breast-feed or are breast-feeding an infant [see Use in Specific Populations (8.2)].
 Manufactured for: Macleods Pharma USA, INC,.
 Plainsboro, NJ 08536 Manufactured by: Macleods Pharmaceutical Ltd. Baddi, Himachal Pradesh, India.
-Revised February 2016 PM01805504
+Revised August 2016
 
 ## PATIENT INFORMATION
 
@@ -66,14 +66,14 @@ Keep a list of them and show it to your doctor and pharmacist when you get a new
 How should I take pramipexole dihydrochloride tablets? • Take pramipexole dihydrochloride tablets exactly as your doctor tells you to take it. • Your doctor will tell you how much pramipexole dihydrochloride tablets to take and when to take it.
 Do not take more or less pramipexole dihydrochloride tablets than your doctor tells you to. • Your doctor may change your dose if needed. • Pramipexole dihydrochloride tablets can be taken with or without food.
 Taking pramipexole dihydrochloride tablets with food may lower your chances of getting nausea. • If you take more pramipexole dihydrochloride tablets than your doctor recommends, call your doctor or go to the nearest hospital emergency room right away. • If you miss a dose, do not double your next dose.
-Skip the dose you missed and take your next regular dose. • If you have Parkinson’s disease and your doctor tells you to stop taking pramipexole dihydrochloride tablets, you should stop pramipexole dihydrochloride tablet slowly as directed by your doctor.
+Skip the dose you missed and take your next regular dose. • If you have Parkinson's disease and your doctor tells you to stop taking pramipexole dihydrochloride tablets, you should stop pramipexole dihydrochloride tablets slowly as directed by your doctor.
 If you stop pramipexole dihydrochloride tablets too quickly you may have withdrawal symptoms such as: • fever • confusion • severe muscle stiffness
 
 Do not stop taking pramipexole dihydrochloride tablets without talking to your doctor.
 
 What should I avoid while taking pramipexole dihydrochloride tablets? • Do not drink alcohol while taking pramipexole dihydrochloride tablets.
 It can increase your chance of having serious side effects.
-See “What are the possible side effects of pramipexole dihydrochloride tablets?” • Do not drive a car, operate a machine, or do other dangerous activities until you know how pramipexole dihydrochloride tablets affects you.
+See "What are the possible side effects of pramipexole dihydrochloride tablets?" • Do not drive a car, operate a machine, or do other dangerous activities until you know how pramipexole dihydrochloride tablets affects you.
 Sleepiness caused by pramipexole dihydrochloride tablets can happen as late as 1 year after you start your treatment.
 
 What are the possible side effects of pramipexole dihydrochloride tablets?
@@ -84,7 +84,7 @@ Tell your doctor right away if you fall asleep while you are doing activities su
 You may have: • dizziness • nausea • fainting • sweating Sit and stand up slowly after you have been sitting or lying down.
 
 • unusual urges.
-Some people who take certain medicines to treat Parkinson’s disease, including pramipexole dihydrochloride tablets, have reported problems, such as gambling, compulsive eating, compulsive buying, and increased sex drive.
+Some people who take certain medicines to treat Parkinson's disease, including pramipexole dihydrochloride tablets, have reported problems, such as gambling, compulsive eating, compulsive buying, and increased sex drive.
 
 If you or your family members notice that you are developing unusual urges or behaviors, talk to your doctor.
 
@@ -92,11 +92,11 @@ If you or your family members notice that you are developing unusual urges or be
 Your chance of having hallucinations and other psychotic-like behavior is higher if you are elderly (age 65 or older).
 If you have hallucinations or other psychotic-like changes, talk with your doctor right away. • uncontrolled sudden movements (dyskinesia).
 If you have new dyskinesia or your existing dyskinesia gets worse tell your doctor. • skin cancer (melanoma).
-Some people with Parkinson’s disease may have a higher chance of having melanoma than people who do not have Parkinson’s disease.
-It is not known if the chance of having melanoma is higher because of the medicines to treat Parkinson’s disease, like pramipexole dihydrochloride tablets, or from the Parkinson’s disease.
+Some people with Parkinson's disease may have a higher chance of having melanoma than people who do not have Parkinson's disease.
+It is not known if the chance of having melanoma is higher because of the medicines to treat Parkinson's disease, like pramipexole dihydrochloride tablets, or from the Parkinson's disease.
 People who take pramipexole dihydrochloride tablets should have regular skin examinations to check for melanoma.
 
-The most common side effects in people taking pramipexole dihydrochloride tablets for Parkinson’s disease are: • nausea • dizziness • insomnia • constipation • muscle weakness • abnormal dreams • confusion • memory problems (amnesia) • urinating more often than normal
+The most common side effects in people taking pramipexole dihydrochloride tablets for Parkinson's disease are: • nausea • dizziness • insomnia • constipation • muscle weakness • abnormal dreams • confusion • memory problems (amnesia) • urinating more often than normal
 
 These are not all the possible side effects of pramipexole dihydrochloride tablets.
 Tell your doctor if you have any side effect that bothers you.
@@ -129,9 +129,10 @@ Plainsboro, NJ 08536
 
 Manufactured by: Macleods Pharmaceutical Ltd. Baddi, Himachal Pradesh, India.
 
-Revised: February 2016
+Revised: August 2016
 
 The brands listed are trademarks of their respective owners and are not trademarks of Macleods Pharmaceutical Ltd.
 
 The makers of these brands are not affiliated with and do not endorse Macleods Pharmaceutical Ltd. or its products.
-PM01805605
+
+PM01805506

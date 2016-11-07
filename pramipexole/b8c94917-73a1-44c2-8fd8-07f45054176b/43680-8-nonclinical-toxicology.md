@@ -13,7 +13,7 @@ Pramipexole was not mutagenic or clastogenic in a battery of in vitro (bacterial
 In rat fertility studies, pramipexole at a dose of 2.5 mg/kg/day (5 times the MRHD on a mg/m2 basis), prolonged estrus cycles and inhibited implantation.
 These effects were associated with reductions in serum levels of prolactin, a hormone necessary for implantation and maintenance of early pregnancy in rats.
 
-## 13.2 Animal Toxicology & / OR Pharmacology
+## 13.2 Animal Pharmacology & or Toxicology
 
 Retinal Pathology in Rats Pathologic changes (degeneration and loss of photoreceptor cells) were observed in the retina of albino rats in the 2-year carcinogenicity study with pramipexole.
 These findings were first observed during week 76 and were dose-dependent in animals receiving 2 or 8 mg/kg/day (plasma AUCs equal to 2.5 and 12.5 times that in humans at the MRHD).

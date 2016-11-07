@@ -54,35 +54,27 @@ Pharmacokinetics in Specific Populations
 
 Because therapy with pramipexole dihydrochloride tablets is initiated at a low dose and gradually titrated upward according to clinical tolerability to obtain the optimum therapeutic effect, adjustment of the initial dose based on gender, weight, race, or age is not necessary.
 However, renal insufficiency, which can cause a large decrease in the ability to eliminate pramipexole, may necessitate dosage adjustment [see Dosage and Administration (2.2)].
-
 Gender
 
 Pramipexole clearance is about 30% lower in women than in men, but this difference can be accounted for by differences in body weight.
 There is no difference in half-life between males and females.
-
 Age
 
 Pramipexole clearance decreases with age as the half-life and clearance are about 40% longer and 30% lower, respectively, in elderly (aged 65 years or older) compared with young healthy volunteers (aged less than 40 years).
 This difference is most likely due to the reduction in renal function with age, since pramipexole clearance is correlated with renal function, as measured by creatinine clearance.
-
 Race
 
 No racial differences in metabolism and elimination have been identified.
-
 Parkinson's Disease Patients
 
 A cross-study comparison of data suggests that the clearance of pramipexole may be reduced by about 30% in Parkinson's disease patients compared with healthy elderly volunteers.
 The reason for this difference appears to be reduced renal function in Parkinson's disease patients, which may be related to their poorer general health.
 The pharmacokinetics of pramipexole were comparable between early and advanced Parkinson's disease patients.
-
 Hepatic Impairment
 
 The influence of hepatic insufficiency on pramipexole pharmacokinetics has not been evaluated.
 Because approximately 90% of the recovered dose is excreted in the urine as unchanged drug, hepatic impairment would not be expected to have a significant effect on pramipexole elimination.
-
-Renal Impairment
-
-Clearance of pramipexole was about 75% lower in patients with severe renal impairment (creatinine clearance approximately 20 mL/min) and about 60% lower in patients with moderate impairment (creatinine clearance approximately 40 mL/min) compared with healthy volunteers [see Warnings and Precautions (5.6) and Dosage and Administration (2.2)].
+Renal Impairment Clearance of pramipexole was about 75% lower in patients with severe renal impairment (creatinine clearance approximately 20 mL/min) and about 60% lower in patients with moderate impairment (creatinine clearance approximately 40 mL/min) compared with healthy volunteers [see Warnings and Precautions (5.6) and Dosage and Administration (2.2)].
 In patients with varying degrees of renal impairment, pramipexole clearance correlates well with creatinine clearance.
 Therefore, creatinine clearance can be used as a predictor of the extent of decrease in pramipexole clearance.
 
@@ -93,20 +85,12 @@ Pramipexole did not alter the extent of absorption (AUC) or the elimination of c
 
 Selegiline: In healthy volunteers (N=11), selegiline did not influence the pharmacokinetics of pramipexole.
 
-Other drugs eliminated via renal secretion: Population pharmacokinetic analysis suggests that coadministration of drugs that are secreted by the cationic transport system (e.g., cimetidine, ranitidine, diltiazem, triamterene, verapamil, quinidine, and quinine) decreases the oral clearance of pramipexole by about 20%, while those secreted by the anionic transport system (e.g., cephalosporins, penicillins, indomethacin, hydrochlorothiazide, and chlorpropamide) are likely to have little effect on the oral clearance of pramipexole.
-Other known organic cation transport substrates and/or inhibitors (e.g., cisplatin and procainamide) may also decrease the clearance of pramipexole.
-
-CYP interactions: Inhibitors of cytochrome P450 enzymes would not be expected to affect pramipexole elimination because pramipexole is not appreciably metabolized by these enzymes in vivo or in vitro.
-Pramipexole does not inhibit CYP enzymes CYP1A2, CYP2C9, CYP2C19, CYP2E1, and CYP3A4.
-Inhibition of CYP2D6 was observed with an apparent Ki of 30 μM, indicating that pramipexole will not inhibit CYP enzymes at plasma concentrations observed following the clinical dose of 4.5 mg/day (1.5 mg TID).
 Amantadine:Population pharmacokinetic analyses suggest that amantadine may slightly decrease the oral clearance of pramipexole.
 
 Cimetidine: Cimetidine, a known inhibitor of renal tubular secretion of organic bases via the cationic transport system, caused a 50% increase in pramipexole AUC and a 40% increase in half-life (N=12).
-
 Probenecid:
 
 Probenecid, a known inhibitor of renal tubular secretion of organic acids via the anionic transporter, did not noticeably influence pramipexole pharmacokinetics (N=12).
-
 Other drugs eliminated via renal secretion: Population pharmacokinetic analysis suggests that coadministration of drugs that are secreted by the cationic transport system (e.g., cimetidine, ranitidine, diltiazem, triamterene, verapamil, quinidine, and quinine) decreases the oral clearance of pramipexole by about 20%, while those secreted by the anionic transport system (e.g., cephalosporins, penicillins, indomethacin, hydrochlorothiazide, and chlorpropamide) are likely to have little effect on the oral clearance of pramipexole.
 Other known organic cation transport substrates and/or inhibitors (e.g., cisplatin and procainamide) may also decrease the clearance of pramipexole.
 

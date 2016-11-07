@@ -12,7 +12,7 @@ It has been reported that falling asleep while engaged in activities of daily li
 For this reason, prescribers should reassess patients for drowsiness or sleepiness, especially since some of the events occur well after the start of treatment.
 Prescribers should also be aware that patients may not acknowledge drowsiness or sleepiness until directly questioned about drowsiness or sleepiness during specific activities.
 
-Before initiating treatment with pramipexole dihydrochloride tablets, advise patients of the potential to develop drowsiness and specifically asked about factors that may increase the risk for somnolence with pramipexole dihydrochloride tablets such as the use of concomitant sedating medications or alcohol, the presence of sleep disorders, and concomitant medications that increase pramipexole plasma levels (e.g., cimetidine) [see Clinical Pharmacology (12.3)].
+Before initiating treatment with pramipexole dihydrochloride tablets, advise patients of the potential to develop drowsiness and specifically ask about factors that may increase the risk for somnolence with pramipexole dihydrochloride tablets such as the use of concomitant sedating medications or alcohol, the presence of sleep disorders, and concomitant medications that increase pramipexole plasma levels (e.g., cimetidine) [see Clinical Pharmacology (12.3)].
 If a patient develops significant daytime sleepiness or episodes of falling asleep during activities that require active participation (e.g., conversations, eating, etc.), pramipexole dihydrochloride tablets should ordinarily be discontinued.
 If a decision is made to continue pramipexole dihydrochloride tablets, advise patients not to drive and to avoid other potentially dangerous activities that might result in harm if the patients become somnolent.
 While dose reduction reduces the degree of somnolence, there is insufficient information to establish that dose reduction will eliminate episodes of falling asleep while engaged in activities of daily living.
@@ -84,9 +84,7 @@ The potential significance of this effect in humans has not been established, bu
 Although the events enumerated below may not have been reported in association with the use of pramipexole in its development program, they are associated with the use of other dopaminergic drugs.
 The expected incidence of these events, however, is so low that even if pramipexole caused these events at rates similar to those attributable to other dopaminergic therapies, it would be unlikely that even a single case would have occurred in a cohort of the size exposed to pramipexole in studies to date.
 
-Hyperpyrexia and Confusion
-
-Although not reported with pramipexole in the clinical development program, a symptom complex resembling the neuroleptic malignant syndrome (characterized by elevated temperature, muscular rigidity, altered consciousness, and autonomic instability), with no other obvious etiology, has been reported in association with rapid dose reduction, withdrawal of, or changes in dopaminergic therapy.
+Hyperpyrexia and Confusion Although not reported with pramipexole in the clinical development program, a symptom complex resembling the neuroleptic malignant syndrome (characterized by elevated temperature, muscular rigidity, altered consciousness, and autonomic instability), with no other obvious etiology, has been reported in association with rapid dose reduction, withdrawal of, or changes in dopaminergic therapy.
 If possible, avoid sudden discontinuation or rapid dose reduction in patients taking pramipexole dihydrochloride tablets.
 If the decision is made to discontinue pramipexole dihydrochloride tablets, the dose should be tapered to reduce the risk of hyperpyrexia and confusion [see Dosage and Administration (2.2)].
 

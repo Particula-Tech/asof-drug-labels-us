@@ -1,22 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-The following adverse reactions are discussed in greater detail in other sections of the labeling:
-
-· Falling Asleep During Activities of Daily Living and Somnolence [see Warnings and Precautions (5.1)].
-
-· Symptomatic Orthostatic Hypotension [see Warnings and Precautions (5.2)].
-
-· Impulse Control/Compulsive Behaviors [see Warnings and Precautions (5.3)].
-
-· Hallucinations and Psychotic-like Behavior [see Warnings and Precautions (5.4)].
-
-· Dyskinesia [see Warnings and Precautions (5.5)].
-
-· Rhabdomyolysis [see Warnings and Precautions (5.7)].
-
-· Retinal Pathology [see Warnings and Precautions (5.8)].
-
-Events Reported with Dopaminergic Therapy [see Warnings and Precautions (5.9)].
+The following adverse reactions are discussed in greater detail in other sections of the labeling: • Falling Asleep During Activities of Daily Living and Somnolence [see Warnings and Precautions (5.1)]. • Symptomatic Orthostatic Hypotension [see Warnings and Precautions (5.2)]. • Impulse Control/Compulsive Behaviors [see Warnings and Precautions (5.3)]. • Hallucinations and Psychotic-like Behavior [see Warnings and Precautions (5.4)]. • Dyskinesia [see Warnings and Precautions (5.5)]. • Rhabdomyolysis [see Warnings and Precautions (5.7)]. • Retinal Pathology [see Warnings and Precautions (5.8)]. • Events Reported with Dopaminergic Therapy [see Warnings and Precautions (5.9)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -31,11 +15,11 @@ Because these two populations may have differential risks for various adverse ev
 Because the controlled trials performed during premarketing development all used a titration design, with a resultant confounding of time and dose, it was impossible to adequately evaluate the effects of dose on the incidence of adverse reactions.
 Early Parkinson's Disease In the three double-blind, placebo-controlled trials of patients with early Parkinson's disease, the most common adverse reactions (>5%) that were numerically more frequent in the group treated with pramipexole dihydrochloride tablets were nausea, dizziness, somnolence, insomnia, constipation, asthenia, and hallucinations.
 Approximately 12% of 388 patients with early Parkinson's disease and treated with pramipexole dihydrochloride tablets who participated in the double-blind, placebo-controlled trials discontinued treatment due to adverse reaction compared with 11% of 235 patients who received placebo.
-The adverse reaction most commonly causing discontinuation of treatment were related to the nervous system (hallucinations [3.1% on pramipexole dihydrochloride tablets vs 0.4% on placebo]; dizziness [2.1% on pramipexole dihydrochloride tablets vs 1% on placebo]; somnolence [1.6% on pramipexole dihydrochloride tablets vs 0% on placebo]; headache and confusion [1.3% and 1.0%, respectively, on pramipexole dihydrochloride tablets vs 0% on placebo]); and gastrointestinal system (nausea [2.1% on pramipexole dihydrochloride tablets vs 0.4% on placebo]).
-Adverse-reaction Incidence in Controlled Clinical Studies in Early Parkinson's Disease: Table 3 lists adverse reactions that occurred in the double-blind, placebocontrolled studies in early Parkinson's disease that were reported by >1% of patients treated with pramipexole dihydrochloride tablets and were numerically more frequent than in the placebo group.
+The adverse reactions most commonly causing discontinuation of treatment were related to the nervous system (hallucinations [3.1% on pramipexole dihydrochloride tablets vs 0.4% on placebo]; dizziness [2.1% on pramipexole dihydrochloride tablets vs 1% on placebo]; somnolence [1.6% on pramipexole dihydrochloride tablets vs 0% on placebo]; headache and confusion [1.3% and 1.0%, respectively, on pramipexole dihydrochloride tablets vs 0% on placebo]); and gastrointestinal system (nausea [2.1% on pramipexole dihydrochloride tablets vs 0.4% on placebo]).
+Adverse-reaction Incidence in Controlled Clinical Studies in Early Parkinson's Disease: Table 4 lists adverse reactions that occurred in the double-blind, placebocontrolled studies in early Parkinson's disease that were reported by >1% of patients treated with pramipexole dihydrochloride tablets and were numerically more frequent than in the placebo group.
 In these studies, patients did not receive concomitant levodopa.
 
-Table 3 Adverse-Reactions in Pooled Double-Blind, Placebo-Controlled Trials with Pramipexole Dihydrochloride tablets in Early Parkinson's Disease
+Table 4 Adverse-Reactions in Pooled Double-Blind, Placebo-Controlled Trials with Pramipexole Dihydrochloride tablets in Early Parkinson's Disease
 
 | Body System/ Adverse Event | Pramipexole Dihydrochloride (N=388) % | Placebo (N=235) % |
 | --- | --- | --- |
@@ -80,13 +64,13 @@ Advanced Parkinson's Disease
 In the four double-blind, placebo-controlled trials of patients with advanced Parkinson's disease, the most commonly observed adverse events (>5%) that were numerically more frequent in the group treated with pramipexole dihydrochloride tablets and concomitant levodopa were postural (orthostatic) hypotension, dyskinesia, extrapyramidal syndrome, insomnia, dizziness, hallucinations, accidental injury, dream abnormalities, confusion, constipation, asthenia, somnolence, dystonia, gait abnormality, hypertonia, dry mouth, amnesia, and urinary frequency.
 
 Approximately 12% of 260 patients with advanced Parkinson's disease who received pramipexole dihydrochloride tablets and concomitant levodopa in the double-blind, placebo-controlled trials discontinued treatment due to adverse reactions compared with 16% of 264 patients who received placebo and concomitant levodopa.
-The events most commonly causing discontinuation of treatment were related to the nervous system (hallucinations [2.7% on pramipexole dihydrochloride tablets vs 0.4% on placebo]; dyskinesia [1.9% on pramipexole dihydrochloride tablets vs 0.8% on placebo]; and cardiovascular system (postural [orthostatic] hypotension [2.3% on pramipexole dihydrochloride tablets vs 1.1% on placebo]).
+The reactions most commonly causing discontinuation of treatment were related to the nervous system (hallucinations [2.7% on pramipexole dihydrochloride tablets vs 0.4% on placebo]; dyskinesia [1.9% on pramipexole dihydrochloride tablets vs 0.8% on placebo]; and cardiovascular system (postural [orthostatic] hypotension [2.3% on pramipexole dihydrochloride tablets vs 1.1% on placebo]).
 
-Adverse-reaction Incidence in Controlled Clinical Studies in Advanced Parkinson's Disease
+Adverse-reaction Incidence in Controlled Clinical Studies in Advanced Parkinson's Disease:
 
-: Table 4 lists adverse reactions that occurred in the double-blind, placebo-controlled studies in advanced Parkinson's disease that were reported by > 1% of patients treated with pramipexole dihydrochloride tablets and were numerically more frequent than in the placebo group.
+Table 5 lists adverse reactions that occurred in the double-blind, placebo-controlled studies in advanced Parkinson's disease that were reported by > 1% of patients treated with pramipexole dihydrochloride tablets and were numerically more frequent than in the placebo group.
 In these studies, pramipexole dihydrochloride tablets or placebo was administered to patients who were also receiving concomitant levodopa.
-Table 4 Adverse-Reactions in Pooled Double-Blind, Placebo-Controlled Trials with Pramipexole Dihydrochloride tablets in Advanced Parkinson's Disease
+Table 5 Adverse-Reactions in Pooled Double-Blind, Placebo-Controlled Trials with Pramipexole Dihydrochloride tablets in Advanced Parkinson's Disease
 
 | Body System/ Adverse Event | Pramipexole Dihydrochloride † (N=260) % | Placebo† (N=264) % |
 | --- | --- | --- |

@@ -12,9 +12,7 @@ The UPDRS is a four-part multi-item rating scale intended to evaluate mentation 
 
 Part II of the UPDRS contains 13 questions relating to ADL, which are scored from 0 (normal) to 4 (maximal severity) for a maximum (worst) score of 52.
 Part III of the UPDRS contains 27 questions (for 14 items) and is scored as described for part II.
-It is designed to assess the severity of the cardinal motor findings in patients with Parkinson's disease (e.g., tremor, rigidity, bradykinesia, postural instability,
-
-etc.), scored for different body regions, and has a maximum (worst) score of 108.
+It is designed to assess the severity of the cardinal motor findings in patients with Parkinson's disease (e.g., tremor, rigidity, bradykinesia, postural instability, etc.), scored for different body regions, and has a maximum (worst) score of 108.
 
 Studies in Patients with Early Parkinson's Disease
 
