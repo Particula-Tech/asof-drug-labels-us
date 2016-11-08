@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA020489"
+  ],
+  "inn": "testosterone",
+  "labeler": "Allergan, Inc.",
+  "package_ndcs": [
+    "0023-5990-60",
+    "0023-5992-30"
+  ],
+  "products": [
+    {
+      "form": "PATCH",
+      "generic": "testosterone",
+      "name": "Androderm"
+    }
+  ],
+  "setid": "e58a5328-fdd9-40cb-a19f-8ed798989b9c",
+  "source": "dailymed"
+}
