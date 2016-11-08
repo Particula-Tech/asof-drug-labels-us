@@ -1,8 +1,6 @@
 # ADVERSE REACTIONS
 
-CNS Effects:
-
-Extrapyramidal Symptoms (EPS) – EPS during the administration of Haloperidol have been reported frequently, often during the first few days of treatment.
+CNS Effects: Extrapyramidal Symptoms (EPS) – EPS during the administration of Haloperidol have been reported frequently, often during the first few days of treatment.
 EPS can be categorized generally as Parkinson-like symptoms, akathisia, or dystonia (including opisthotonos and oculogyric crisis).
 While all can occur at relatively low doses, they occur more frequently and with greater severity at higher doses.
 The symptoms may be controlled with dose reductions or administration of antiparkinson drugs such as benztropine mesylate USP or trihexyphenidyl hydrochloride USP.
@@ -29,9 +27,7 @@ It has been reported that fine vermicular movement of the tongue may be an early
 Tardive Dystonia – Tardive dystonia, not associated with the above syndrome, has also been reported.
 Tardive dystonia is characterized by delayed onset of choreic or dystonic movements, is often persistent, and has the potential of becoming irreversible.
 
-Dystonia
-
-Class effect: Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
+Dystonia Class effect: Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
 Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to tightness of the throat, swallowing difficulty, difficulty breathing, and/or protrusion of the tongue.
 While these symptoms can occur at low doses, they occur more frequently and with greater severity with high potency and at higher doses of first generation antipsychotic drugs.
 An elevated risk of acute dystonia is observed in males and younger age groups.
@@ -41,7 +37,7 @@ Other CNS Effects – Insomnia, restlessness, anxiety, euphoria, agitation, drow
 Body as a Whole: Neuroleptic malignant syndrome (NMS), hyperpyrexia and heat stroke have been reported with haloperidol.
 (See WARNINGS for further information concerning NMS.)
 
-Cardiovascular Effects: Tachycardia, hypotension, hypertension and ECG changes including prolongation of the Q-T interval and ECG pattern changes compatible with the polymorphous configuration of torsade de pointes.
+Cardiovascular Effects: Tachycardia, hypotension, hypertension and ECG changes including prolongation of the Q- T interval and ECG pattern changes compatible with the polymorphous configuration of torsade de pointes.
 
 Hematologic Effects: Reports have appeared citing the occurrence of mild and usually transient leukopenia and leukocytosis, minimal decreases in red blood cell counts, anemia, or a tendency toward lymphomonocytosis.
 Agranulocytosis has rarely been reported to have occurred with the use of haloperidol, and then only in association with other medication.
