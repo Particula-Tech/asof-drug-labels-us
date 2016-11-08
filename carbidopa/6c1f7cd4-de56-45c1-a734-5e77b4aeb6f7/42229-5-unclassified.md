@@ -1,8 +1,8 @@
-Manufactured by Impax Laboratories (Taiwan), Inc. Jhunan, Taiwan
+Manufactured for: Impax Specialty Pharma, a division of Impax Laboratories, Inc. Hayward, CA, USA 94544
 
-Distributed by Impax Specialty Pharma Hayward, CA, USA 94544
+By: Impax Laboratories (Taiwan) Inc. Jhunan, Taiwan
 
-Printed in USA Copyright 2015 Impax Laboratories, Inc. All rights reserved
+Printed in USA Copyright 2016 Impax Laboratories, Inc. All rights reserved
 
-1566-01 Iss.
-01/2015
+1566-03 Iss.
+10/2016

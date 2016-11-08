@@ -2,11 +2,11 @@
 
 The following serious adverse reactions are discussed below and elsewhere in the labeling:
 
-- Falling asleep during activities of daily living and somnolence [see Warnings and Precautions (5.1)]
-- Withdrawal-emergent hyperpyrexia and confusion [see Warnings and Precautions (5.2)]
-- Cardiovascular ischemic events [see Warnings and Precautions (5.3)]
-- Hallucinations/psychosis [see Warnings and Precautions (5.4)]
-- Impulse control/compulsive behaviors [see Warnings and Precautions (5.5)]
+- Falling Asleep During Activities of Daily Living and Somnolence [see Warnings and Precautions (5.1)]
+- Withdrawal-Emergent Hyperpyrexia and Confusion [see Warnings and Precautions (5.2)]
+- Cardiovascular Ischemic Events [see Warnings and Precautions (5.3)]
+- Hallucinations/Psychosis [see Warnings and Precautions (5.4)]
+- Impulse Control/Compulsive behaviors [see Warnings and Precautions (5.5)]
 - Dyskinesia [see Warnings and Precautions (5.6)]
 - Peptic Ulcer Disease [see Warnings and Precautions (5.7)]
 - Glaucoma [see Warnings and Precautions (5.8)]
@@ -28,7 +28,7 @@ Table 2: Adverse Reactions in Study 1 in Patients with Early Stage Parkinson's D
 
 |  | (N=92) % | (N=87) % | (N=104) % | (N=98) % |
 | --- | --- | --- | --- | --- |
-|  | Placebo | RYTARY 36.25 mg carbidopa 145 mg Levodopa TID | RYTARY 61.25 mg carbidopa 245 mg Levodopa TID | RYTARY 97.5 mg carbidopa 390 mg Levodopa TID |
+|  | Placebo | RYTARY 36.25 mg Carbidopa 145 mg Levodopa TID | RYTARY 61.25 mg Carbidopa 245 mg Levodopa TID | RYTARY 97.5 mg Carbidopa 390 mg Levodopa TID |
 | Nausea | 9 | 14 | 19 | 20 |
 | Dizziness | 5 | 9 | 19 | 12 |
 | Headache | 11 | 7 | 13 | 17 |
@@ -54,9 +54,9 @@ Table 3 lists adverse reactions occurring in at least 5% of RYTARY-treated patie
 
 Table 3: Adverse Reactions in Study 2 in Patients with Advanced Parkinson's Disease
 
-| Period | Dose ConversionAll patients were converted to RYTARY in the open label Dose Conversion period and then received randomized treatment during maintenance. % | Maintenance % | Dose Conversion % | Maintenance % |
+|  | RYTARY (N=201) |  | Immediate-Release Carbidopa-Levodopa (N=192) |  |
 | --- | --- | --- | --- | --- |
-|  | RYTARY (N=201) | Immediate-Release carbidopa-levodopa (N=192) |  |  |
+| Period | DoseConversionAll patients were converted to RYTARY in the open label Dose Conversion period and then received randomized treatment during maintenance. % | Maintenance % | Dose Conversion % | Maintenance % |
 | Nausea | 4 | 3 | 6 | 2 |
 | Headache | 5 | 1 | 3 | 2 |
 
@@ -64,3 +64,10 @@ Adverse Reactions Leading to Discontinuation in Study 2
 
 In Study 2, 5% of patients discontinued treatment due to adverse reactions during conversion to RYTARY.
 The common adverse reactions leading to discontinuation during dose conversion were dyskinesia, anxiety, dizziness, and on and off phenomenon.
+
+## 6.2 Post-Marketing Experience
+
+The following adverse reactions have been identified during post approval use of RYTARY.
+Because these reactions are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to RYTARY exposure.
+
+Psychiatric: Suicide attempt and suicidal ideation.

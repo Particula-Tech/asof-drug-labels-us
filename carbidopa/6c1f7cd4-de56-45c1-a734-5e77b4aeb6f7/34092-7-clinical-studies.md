@@ -14,15 +14,15 @@ The clinical outcome measure in Study 1 was the mean change from baseline in the
 The mean score decrease (i.e., improvement) from baseline to Week 30 for each of the three RYTARY dosage groups was significantly greater than for placebo.
 The results of Study 1 are shown in Table 4.
 
-Table 4: Study 1: Change from Baseline in UPDRS Part II plus Part III Score at Week 30 (or at early termination) in Levodopa-Naïve Patients with Early Parkinson's Disease
+Table 4: Study 1: Change from Baseline in UPDRS Part II plus Part III Score at Week 30 (or at Early Termination) in Levodopa-Naïve Patients with Early Parkinson’s Disease
 
-| Treatment | BaselineAll values based on 361 patients who had valid End-of-Study values | Week 30 | Change from Baseline at Week 30Negative numbers indicate improvement as compared with the baseline value |
-| --- | --- | --- | --- |
 |  | Mean UPDRS (Part II and Part III) ScoreFor the UPDRS, higher scores indicate greater severity of impairment |  |  |
-| Placebo | 36.5 | 35.9 | –0.6 |
-| RYTARY 36.25 mg / 145 mg TID | 36.1 | 24.4 | –11.7 P-value is less than 0.05 |
-| RYTARY 61.25 / 245 mg TID | 38.2 | 25.3 | –12.9 |
-| RYTARY 97.5 mg / 390 mg TID | 36.3 | 21.4 | –14.9 |
+| --- | --- | --- | --- |
+| Treatment | BaselineAll values based on 361 patients who had valid End-of-Study values | Week 30 | Change from BaselineNegative numbers indicate improvement as compared with the baseline value |
+| Placebo | 36.5 | 35.9 | -0.6 |
+| RYTARY36.25 mg / 145 mg TID | 36.1 | 24.4 | -11.7P-value is less than 0.05 |
+| RYTARY61.25 / 245 mg TID | 38.2 | 25.3 | -12.9 |
+| RYTARY97.5 mg / 390 mg TID | 36.3 | 21.4 | -14.9 |
 
 ## 14.2. Patients with Advanced Parkinson's Disease
 
@@ -42,12 +42,12 @@ The decrease in "off" time observed with RYTARY occurred with a concomitant incr
 
 Table 5: Study 2: Parkinson's Disease Diary Measures in Patients with Advanced Parkinson's Disease
 
-|  | Baseline | Week 22 (or early termination) |
+|  | Baseline | Week 22 (or Early Termination) |
 | --- | --- | --- |
 | Percentage of waking hours spent in "Off" |  |  |
 | RYTARY | 36.9% | 23.8%P-value is less than 0.05 |
 | Immediate-release carbidopa-levodopa | 36.0% | 29.8% |
-| "Off" Time (hours) |  |  |
+| "Off "Time (hours) |  |  |
 | RYTARY | 6.1 hours | 3.9 hours |
 | Immediate-release carbidopa-levodopa | 5.9 hours | 4.9 hours |
 | "On" Time with no or non-troublesome dyskinesia (hours) |  |  |

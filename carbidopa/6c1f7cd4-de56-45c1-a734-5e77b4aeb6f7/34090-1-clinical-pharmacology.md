@@ -32,12 +32,16 @@ Levodopa
 
 The pharmacokinetics of RYTARY were evaluated following single doses in healthy subjects and following single and multiple doses in patients with Parkinson's disease.
 The bioavailability of levodopa from RYTARY in patients was approximately 70% relative to immediate-release carbidopa-levodopa.
+For comparable doses, RYTARY results in a levodopa peak concentration (Cmax) that is 30% that of immediate-release levodopa/carbidopa.
 Following an initial peak at about one hour, plasma concentrations are maintained for about 4 to 5 hours before declining.
+
+In patients with Parkinson’s disease, multiple-dose pharmacokinetics was comparable to single-dose pharmacokinetics, i.e. there was minimal accumulation of levodopa.
+Variation in levodopa peak to trough plasma concentrations at steady-state defined as (Cmax-Cmin)/Cavg was approximately 1.5 compared to approximately 3.2 for immediate-release levodopa.
 
 Distribution
 
 Carbidopa is approximately 36% bound to plasma proteins.
-Approximately 10-30% of levodopa is bound to plasma protein.
+Approximately 10% to 30% of levodopa is bound to plasma protein.
 
 Metabolism and Elimination
 
@@ -72,7 +76,7 @@ Specific Populations
 
 Elderly
 
-In pharmacokinetics studies following a single dose of RYTARY, the peak concentrations of carbidopa and levodopa are generally similar between younger (45-60 years) and older (60-75 years) subjects.
+In pharmacokinetics studies following a single dose of RYTARY, the peak concentrations of carbidopa and levodopa are generally similar between younger (45 to 60 years) and older (60 to 75 years) subjects.
 
 Gender
 

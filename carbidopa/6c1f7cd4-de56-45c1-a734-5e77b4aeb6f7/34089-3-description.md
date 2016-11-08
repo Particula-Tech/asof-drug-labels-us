@@ -15,7 +15,7 @@ Its empirical formula is C9H11NO4 and its structural formula is:
 Each extended-release capsule contains 23.75 mg carbidopa and 95 mg levodopa, 36.25 mg carbidopa and 145 mg levodopa, 48.75 mg carbidopa and 195 mg levodopa, or 61.25 mg carbidopa and 245 mg levodopa.
 The inactive ingredients are microcrystalline cellulose, mannitol, tartaric acid, ethyl cellulose, hypromellose, sodium starch glycolate, sodium lauryl sulfate, povidone, talc, methacrylic acid copolymers, triethyl citrate, croscarmellose sodium, and magnesium stearate.
 The capsule shells all contain gelatin and titanium dioxide.
-All blue capsule components contain FD&C Blue #2 and Yellow iron oxide.
+All blue capsule components contain FD&C Blue #2 and yellow iron oxide.
 All yellow capsule components contain yellow iron oxide.
 All capsules with black imprinting contain iron oxide black.
 All capsules with blue imprinting contain FD&C Blue #2.

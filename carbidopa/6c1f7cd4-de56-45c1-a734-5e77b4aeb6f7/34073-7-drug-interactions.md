@@ -15,5 +15,5 @@ Monitor patients for worsening Parkinson's symptoms.
 
 ## 7.3 Iron Salts
 
-Iron salts or multi-vitamins containing iron salts can form chelates with levodopa and carbidopa and can cause a reduction in the bioavailability of RYTARY.
-If iron salts or multi-vitamins containing iron salts are coadministered with RYTARY, monitor patients for worsening Parkinson's symptoms.
+Iron salts or multivitamins containing iron salts can form chelates with levodopa and carbidopa and can cause a reduction in the bioavailability of RYTARY.
+If iron salts or multivitamins containing iron salts are coadministered with RYTARY, monitor patients for worsening Parkinson's symptoms.

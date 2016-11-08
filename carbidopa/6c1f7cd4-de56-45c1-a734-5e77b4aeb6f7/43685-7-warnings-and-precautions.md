@@ -20,7 +20,7 @@ There is insufficient information to establish that dose reduction will eliminat
 
 A symptom complex that resembles neuroleptic malignant syndrome (characterized by elevated temperature, muscular rigidity, altered consciousness, and autonomic instability), with no other obvious etiology, has been reported in association with rapid dose reduction, withdrawal of, or changes in dopaminergic therapy.
 Avoid sudden discontinuation or rapid dose reduction in patients taking RYTARY.
-If the decision is made to discontinue RYTARY, the dose should be tapered to reduce the risk of hyperpyrexia and confusion [see Dosage and Administration (2.3)].
+If the decision is made to discontinue RYTARY, the dose should be tapered to reduce the risk of hyperpyrexia and confusion [see Dosage and Administration (2.4)].
 
 ## 5.3 Cardiovascular Ischemic Events
 

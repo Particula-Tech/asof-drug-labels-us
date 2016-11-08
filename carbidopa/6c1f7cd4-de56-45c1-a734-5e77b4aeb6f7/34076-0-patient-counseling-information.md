@@ -15,6 +15,10 @@ Falling Asleep
 
 Advise patients that certain side effects such as sleepiness and dizziness that have been reported with RYTARY may affect some patients' ability to drive and operate machinery safely [see Warnings and Precautions (5.1) and Adverse Reactions (6.1)].
 
+Suicide Attempt and Suicidal Ideation
+
+Inform patients, family members and caregivers to notify their healthcare provider if suicide attempt and/or suicidal ideation are experienced in patients using RYTARY [see Adverse Reactions (6.2)].
+
 Hallucinations and Psychosis
 
 Inform patients that hallucinations can occur with levodopa products [see Warnings and Precautions (5.4)].
