@@ -140,8 +140,8 @@ Before starting Lexapro, tell your healthcare provider if you:
 
 - Are taking certain drugs such as:
   - Triptans used to treat migraine headache
-  - Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, SSRIs, SNRIs, or antipsychotics
-  - tramadol
+  - Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, SSRIs, SNRIs, amphetamines, or antipsychotics
+  - Tramadol
   - Over-the-counter supplements such as tryptophan or St. John's Wort
 - have liver problems
 - have kidney problems
@@ -252,14 +252,13 @@ Inactive ingredients:
   The film coating contains hypromellose, titanium dioxide, and polyethylene glycol.
 - Oral Solution: sorbitol, purified water, citric acid, sodium citrate, malic acid, glycerin, propylene glycol, methylparaben, propylparaben, and natural peppermint flavor.
 
-Forest Pharmaceuticals, Inc. Subsidiary of Forest Laboratories, LLC.
-St. Louis, MO 63045 USA
+Distributed by: Allergan USA, Inc. Irvine, CA 92612
 
 Licensed from H. Lundbeck A/S
 
-Revised: July 2014
+Revised: 10/2016
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-© Actavis 2014.
+© 2016 Allergan.
 All rights reserved.

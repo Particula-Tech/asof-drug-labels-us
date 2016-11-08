@@ -14,11 +14,7 @@ Equivalent to 5 mg escitalopram
 
 Rx only
 
-FOREST PHARMACEUTICALS, INC.
-
-Subsidiary of Forest Laboratories, Inc.
-
-St. Louis, Missouri 63045
+AllerganTM
 
 Principal Display Panel – 10 mg Bottle Label
 
@@ -36,11 +32,7 @@ Equivalent to 10 mg escitalopram
 
 Rx only
 
-FOREST PHARMACEUTICALS, INC.
-
-Subsidiary of Forest Laboratories, Inc.
-
-St. Louis, Missouri 63045
+AllerganTM
 
 Principal Display Panel – 10 mg Blister Card Carton Label
 
@@ -62,11 +54,7 @@ See Boxed Warning in Full Prescribing Information
 
 Licensed from H. Lundbeck A/S
 
-FOREST PHARMACEUTICALS, INC.
-
-Subsidiary of Forest Laboratories, Inc.
-
-St. Louis, Missouri 63045
+AllerganTM
 
 Principal Display Panel – 20 mg Bottle Label
 
@@ -84,11 +72,7 @@ Equivalent to 20 mg escitalopram
 
 Rx only
 
-FOREST PHARMACEUTICALS, INC.
-
-Subsidiary of Forest Laboratories, Inc.
-
-St. Louis, Missouri 63045
+AllerganTM
 
 Principal Display Panel – 20 mg Blister Card Carton Label
 
@@ -110,11 +94,7 @@ See Boxed Warning in Full Prescribing Information
 
 Licensed from H. Lundbeck A/S
 
-FOREST PHARMACEUTICALS, INC.
-
-Subsidiary of Forest Laboratories, Inc.
-
-St. Louis, Missouri 63045
+AllerganTM
 
 Principal Display Panel – 1 mg Bottle Label
 
@@ -132,8 +112,4 @@ Equivalent to 1 mg escitalopram
 
 Rx only
 
-FOREST PHARMACEUTICALS, INC.
-
-Subsidiary of Forest Laboratories, Inc.
-
-St. Louis, Missouri 63045
+AllerganTM
