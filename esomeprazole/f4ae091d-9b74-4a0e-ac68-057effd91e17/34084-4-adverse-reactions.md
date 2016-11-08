@@ -1,5 +1,14 @@
 # 6 ADVERSE REACTIONS
 
+The following serious adverse reactions are described below and elsewhere in labeling:
+
+- Acute Interstitial Nephritis [see Warnings and Precautions (5.2)]
+- Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.3)]
+- Bone Fracture [see Warnings and Precautions (5.4)]
+- Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)]
+- Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.7)]
+- Hypomagnesemia [see Warnings and Precautions (5.8)]
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
@@ -34,4 +43,6 @@ For more information on laboratory changes with amoxicillin or clarithromycin, r
 
 The following adverse reactions have been identified during post-approval use of esomeprazole magnesium delayed-release capsules.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-These reports are listed below by body system: Blood and Lymphatic: agranulocytosis, pancytopenia; Eye: blurred vision; Gastrointestinal: pancreatitis; stomatitis; microscopic colitis Hepatobiliary: hepatic failure, hepatitis with or without jaundice; Immune System: anaphylactic reaction/shock; Infections and Infestations: GI candidiasis; Clostridium difficile associated diarrhea; Metabolism and nutritional disorders: hypomagnesemia, with or without hypocalcemia and/or hypokalemia Musculoskeletal and Connective Tissue: muscular weakness, myalgia, bone fracture; Nervous System: hepatic encephalopathy, taste disturbance; Psychiatric: aggression, agitation, depression, hallucination; Renal and Urinary: interstitial nephritis; Reproductive System and Breast: gynecomastia; Respiratory, Thoracic, and Mediastinal: bronchospasm; Skin and Subcutaneous Tissue: alopecia, erythema multiforme, hyperhidrosis, photosensitivity, Stevens-Johnson syndrome, toxic epidermal necrolysis (some fatal).
+These reports are listed below by body system: Blood and Lymphatic: agranulocytosis, pancytopenia; Eye: blurred vision; Gastrointestinal: pancreatitis; stomatitis; microscopic colitis; Hepatobiliary: hepatic failure, hepatitis with or without jaundice; Immune System: anaphylactic reaction/shock; systemic lupus erythematosus; Infections and Infestations: GI candidiasis; Clostridium difficile-associated diarrhea; Metabolism and nutritional disorders: hypomagnesemia, with or without hypocalcemia and/or hypokalemia; Musculoskeletal and Connective Tissue: muscular weakness, myalgia, bone fracture; Nervous System: hepatic encephalopathy, taste disturbance; Psychiatric: aggression, agitation, depression, hallucination; Renal and Urinary: interstitial nephritis; Reproductive System and Breast: gynecomastia; Respiratory, Thoracic, and Mediastinal: bronchospasm; Skin and Subcutaneous Tissue: alopecia, erythema multiforme, hyperhidrosis, photosensitivity, Stevens-Johnson syndrome, toxic epidermal necrolysis (some fatal),
+
+cutaneous lupus erythematosus.

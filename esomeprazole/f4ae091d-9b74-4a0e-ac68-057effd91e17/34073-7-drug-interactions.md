@@ -47,14 +47,14 @@ Avoid concomitant administration of esomeprazole magnesium delayed-release capsu
 When using esomeprazole magnesium delayed-release capsules, consider use of alternative anti-platelet therapy [see Pharmacokinetics (12.3)].
 Omeprazole acts as an inhibitor of CYP2C19.
 Omeprazole, given in doses of 40 mg daily for one week to 20 healthy subjects in cross-over study, increased Cmax and AUC of cilostazol by 18% and 26% respectively.
-Cmax and AUC of one of its active metabolites, 3,4-dihydrocilostazol, which has 4 to 7 times the activity of cilostazol, were increased by 29% and 69% respectively.
+Cmax and AUC of one of its active metabolites, 3,4-dihydro-cilostazol, which has 4 to 7 times the activity of cilostazol, were increased by 29% and 69% respectively.
 Co-administration of cilostazol with esomeprazole is expected to increase concentrations of cilostazol and its above mentioned active metabolite.
 Therefore a dose reduction of cilostazol from 100 mg twice daily to 50 mg twice daily should be considered.
 Concomitant administration of esomeprazole and a combined inhibitor of CYP2C19 and CYP3A4, such as voriconazole, may result in more than doubling of the esomeprazole exposure.
 Dose adjustment of esomeprazole is not normally required.
 However, in patients with Zollinger-Ellison’s Syndrome, who may require higher doses up to 240 mg/day, dose adjustment may be considered.
 Drugs known to induce CYP2C19 or CYP3A4 or both (such as rifampin) may lead to decreased esomeprazole serum levels.
-Omeprazole, of which esomeprazole is an enantiomer, has been reported to interact with St. John’s Wort an inducer of CYP3A4.
+Omeprazole, of which esomeprazole is an enantiomer, has been reported to interact with St. John’s Wort, an inducer of CYP3A4.
 In a cross-over study in 12 healthy male subjects, St. John’s Wort (300 mg three times daily for 14 days) significantly decreased the systemic exposure of omeprazole in CYP2C19 poor metabolisers (Cmax and AUC decreased by 37.5% and 37.9%, respectively) and extensive metabolisers (Cmax and AUC decreased by 49.6 % and 43.9%, respectively).
 Avoid concomitant use of St. John’s Wort or rifampin with esomeprazole magnesium delayed-release capsules.
 
