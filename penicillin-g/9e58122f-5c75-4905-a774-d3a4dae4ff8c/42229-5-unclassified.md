@@ -32,10 +32,10 @@ Such use could result in air embolism due to residual air being drawn from the p
 
 ## Preparation for Intravenous Administration:
 
-- 1.Suspend container from eyelet support.
-- 2.Remove protector from outlet port at bottom of container.
-- 3.Attach administration set.
-  Refer to complete directions accompanying set.
+1. 1.Suspend container from eyelet support.
+2. 2.Remove protector from outlet port at bottom of container.
+3. 3.Attach administration set.
+   Refer to complete directions accompanying set.
 
 Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
@@ -47,7 +47,7 @@ Clinistix is a trademark of Bayer Healthcare LLC.
 
 Clinitest is a trademark of Siemens Healthcare Diagnostics Inc.
 
-07-19-73-083
+07-19-75-357
 
 Rev.
-June 2014
+Jul 2016
