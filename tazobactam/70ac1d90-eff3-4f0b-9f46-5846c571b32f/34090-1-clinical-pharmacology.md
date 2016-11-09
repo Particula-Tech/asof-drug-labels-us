@@ -245,10 +245,10 @@ Table 7: Susceptibility Test Interpretive Criteria for Ceftolozane/Tazobactam
 | S | I | R | S | I | R |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Pathogen | Minimum Inhibitory Concentrations (mcg/mL) |  |  | Disk Diffusion Zone Diameter (mm) |  |  |
-| Enterobacteriaceae | ≤2/4 | 4/4 | ≥8/4 | --- | --- | --- |
+| Enterobacteriaceae | ≤2/4 | 4/4 | ≥8/4 | ≥21 | 18-20 | ≤17 |
 | Pseudomonas aeruginosa | ≤4/4 | 8/4 | ≥16/4 | ≥21 | 17-20 | ≤16 |
 | Streptococcus anginosus Streptococcus constellatus and Streptococcus salivarius | ≤8/4 | 16/4 | ≥32/4 | --- | --- | --- |
-| B. fragilis | ≤8/4 | 16/4 | ≥32/4 | --- | --- | --- |
+| Bacteroides fragilis | ≤8/4 | 16/4 | ≥32/4 | --- | --- | --- |
 | S = susceptible, I = intermediate, R = resistant |  |  |  |  |  |  |
 
 A report of Susceptible (S) indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the site of infection.

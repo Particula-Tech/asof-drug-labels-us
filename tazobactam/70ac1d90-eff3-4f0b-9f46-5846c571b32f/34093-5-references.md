@@ -12,6 +12,6 @@
    Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2012.
 4. Clinical and Laboratory Standards Institute (CLSI).
    Performance Standards for Antimicrobial Susceptibility Testing.
-   Twenty-sixth Edition.
-   CLSI supplement M100S.
+   Twenty-sixth Informational Supplement.
+   CLSI document M100-S26.
    Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2016.

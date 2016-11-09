@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-ZERBAXA™ (ceftolozane and tazobactam) for injection is indicated for the treatment of patients 18 years or older with the following infections caused by designated susceptible microorganisms.
+ZERBAXA® (ceftolozane and tazobactam) for injection is indicated for the treatment of patients 18 years or older with the following infections caused by designated susceptible microorganisms.
 
 ## 1.1 Complicated Intra-abdominal Infections
 
