@@ -29,7 +29,10 @@ Contact lenses should be removed prior to instillation of LUMIGAN® 0.01% and ma
 
 Advise patients that if more than one topical ophthalmic drug is being used, the drugs should be administered at least five (5) minutes between applications.
 
-© 2014 Allergan, Inc. Irvine, CA 92612 ® marks owned by Allergan, Inc. Patented.
-See: www.allergan.com/products/patent_notices Made in the U.S.A.
+© 2016 Allergan.
+All rights reserved.
+Irvine, CA 92612, U.S.A. All trademarks are the property of their respective owners.
+Patented.
+See: www.allergan.com/products/patent_notices Made in Ireland
 
-71807US14
+73250US10
