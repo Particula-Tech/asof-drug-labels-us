@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA020551"
+  ],
+  "inn": "cisatracurium",
+  "labeler": "AbbVie Inc.",
+  "package_ndcs": [
+    "0074-4378-24",
+    "0074-4380-79",
+    "0074-4382-91"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "cisatracurium besylate",
+      "name": "Nimbex"
+    }
+  ],
+  "setid": "24b9880e-626b-14e7-23a6-4960f1008e97",
+  "source": "dailymed"
+}
