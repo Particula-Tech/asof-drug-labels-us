@@ -45,6 +45,12 @@ Medication Residue in the Stool
 
 Instruct patients to notify their healthcare provider if they notice a medication residue in the stool [see Warnings and Precautions (5.18)].
 
+©2016 AbbVie Inc.
+
+Revised: November 2016
+
+03-B436
+
 Mfd. by AbbVie LTD, Barceloneta, PR 00617
 
 For AbbVie Inc., North Chicago, IL 60064, U.S.A.
