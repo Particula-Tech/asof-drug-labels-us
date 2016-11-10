@@ -45,6 +45,16 @@ Medication Residue in the Stool
 
 Instruct patients to notify their healthcare provider if they notice a medication residue in the stool [see Warnings and Precautions (5.18)].
 
+AbbVie Inc.
+
+North Chicago, IL 60064, U.S.A.
+
+©2016 AbbVie Inc.
+
+Revised: November 2016
+
+03-B439
+
 Administration Guide
 
 DEPAKOTE®
@@ -86,3 +96,9 @@ Store Depakote Sprinkle Capsules below 77°F (25°C).
 AbbVie Inc.
 
 North Chicago, IL 60064, U.S.A.
+
+©2016 AbbVie Inc.
+
+Revised: November 2016
+
+03-B439
