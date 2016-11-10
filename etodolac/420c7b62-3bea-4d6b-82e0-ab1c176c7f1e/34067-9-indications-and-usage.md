@@ -6,6 +6,11 @@ Use the lowest effective dose for the shortest duration consistent with individu
 Etodolac capsules are indicated:
 
 - •For acute and long-term use in the management of signs and symptoms of the following:
-- 1.Osteoarthritis
-- 2.Rheumatoid arthritis
+
+1.
+Osteoarthritis
+
+2.
+Rheumatoid arthritis
+
 - •For the management of acute pain
