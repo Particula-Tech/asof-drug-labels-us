@@ -1,8 +1,8 @@
 Rx Only
 
-Distributed by: Actient Pharmaceuticals, LLC Lake Forest, Illinois 60045
+For more information, call Endo Pharmaceuticals Inc. at 1-800-462-3636.
 
-Printed in USA
+Distributed by: Endo Pharmaceuticals, Inc. Malvern, PA 19355
 
-| L4449F | Rev1 03/11 |
-| --- | --- |
+CIB70114A Rev.
+2 10/16
