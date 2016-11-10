@@ -30,4 +30,4 @@ Caponago, Italy
 
 Made in Italy
 
-Rev 08/05 SIC 30193-00
+1. Rev 08/05 SIC 30193-00

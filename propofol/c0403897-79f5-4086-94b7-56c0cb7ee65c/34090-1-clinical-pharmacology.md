@@ -110,13 +110,13 @@ Of these, 506 were from US/Canadian clinical trials and comprised the overall sa
 The majority of the remaining patients were healthy ASA I/II patients.
 (See Table 1)
 
-Table 1: PEDIATRIC INDUCTION OF ANESTHESIA Patients Receiving DIPRIVAN Injectable Emulsion Median and (Range)
+1. Table 1: PEDIATRIC INDUCTION OF ANESTHESIA Patients Receiving DIPRIVAN Injectable Emulsion Median and (Range)
 
 | Age Range | No. of Patients | Induction Dose | Injection Duration |
 | --- | --- | --- | --- |
 | Birth through 16 years | 353 | 2.5 mg/kg(1-3.6) | 20 sec.(6-45) |
 
-Table 2: PEDIATRIC MAINTENANCE OF ANESTHESIA Patients Receiving DIPRIVAN Injectable Emulsion Median and (Range)
+1. Table 2: PEDIATRIC MAINTENANCE OF ANESTHESIA Patients Receiving DIPRIVAN Injectable Emulsion Median and (Range)
 
 | Age Range | No. of Patients | Maintenance Dosage µg/kg/min | Duration MinutesAlso includes all time following induction dose. |
 | --- | --- | --- | --- |
@@ -129,9 +129,9 @@ Neuroanesthesia:
 DIPRIVAN Injectable Emulsion was studied in 50 patients undergoing craniotomy for supratentorial tumors in two clinical trials.
 The mean lesion size (anterior/posterior and lateral) was 31 mm and 32 mm in one trial and 55 mm and 42 mm in the other trial respectively.
 
-Table 3: NEUROANESTHESIA CLINICAL TRIALS Patients Receiving DIPRIVAN Injectable Emulsion Median and (Range)
+1. Table 3: NEUROANESTHESIA CLINICAL TRIALS Patients Receiving DIPRIVAN Injectable Emulsion Median and (Range)
 
-| Patient Type | No. of Patients | Induction Bolus Dosages (mg/kg) | Maintenance Dosage(µg/kg/min) | Maintenance Duration(min) |
+| Patient Type | No. of Patients | Induction Bolus Dosages (mg/kg) | Maintenance Dosage (µg/kg/min) | Maintenance Duration (min) |
 | --- | --- | --- | --- | --- |
 | Craniotomy patients | 50 | 1.36(0.9-6.9) | 146(68-425) | 285(48-622) |
 
@@ -149,7 +149,7 @@ Six of these studies were carried out in the US or Canada and provide the basis 
 
 Information from 193 literature reports of DIPRIVAN Injectable Emulsion used for ICU sedation in over 950 patients and information from the clinical trials are summarized below:
 
-Table 4: ADULT ICU SEDATION CLINICAL TRIALS AND LITERATURE Patients receiving DIPRIVAN Injectable Emulsion Median and (Range)
+1. Table 4: ADULT ICU SEDATION CLINICAL TRIALS AND LITERATURE Patients receiving DIPRIVAN Injectable Emulsion Median and (Range)
 
 | Patient Type | TrialsTrials (Individual patients from clinical studies) | LiteratureLiterature (Individual patients from published reports) | (µg/kg/min) | mg/kg/h | Hours |
 | --- | --- | --- | --- | --- | --- |
@@ -291,11 +291,11 @@ In the elderly, debilitated, or ASA III/IV patients, rapid bolus doses should no
 Adult Patients: When DIPRIVAN Injectable Emulsion is administered for MAC sedation, rates of administration should be individualized and titrated to clinical response.
 In most patients, the rates of DIPRIVAN Injectable Emulsion administration will be in the range of 25-75 µg/kg/min.
 
-During initiation of MAC sedation, slow infusion or slow injection techniques are preferable over rapid bolus administration.
-During maintenance of MAC sedation, a variable rate infusion is preferable over intermittent bolus dose administration.
-In the elderly, debilitated, or ASA III/IV patients, rapid (single or repeated) bolus dose administration should not be used for MAC sedation.
-(See WARNINGS.)
-A rapid bolus injection can result in undesirable cardiorespiratory depression including hypotension, apnea, airway obstruction, and/or oxygen desaturation.
+1. During initiation of MAC sedation, slow infusion or slow injection techniques are preferable over rapid bolus administration.
+   During maintenance of MAC sedation, a variable rate infusion is preferable over intermittent bolus dose administration.
+   In the elderly, debilitated, or ASA III/IV patients, rapid (single or repeated) bolus dose administration should not be used for MAC sedation.
+   (See WARNINGS.)
+   A rapid bolus injection can result in undesirable cardiorespiratory depression including hypotension, apnea, airway obstruction, and/or oxygen desaturation.
 
 Initiation of MAC Sedation: For initiation of MAC sedation, either an infusion or a slow injection method may be utilized while closely monitoring cardiorespiratory function.
 With the infusion method, sedation may be initiated by infusing DIPRIVAN Injectable Emulsion at 100 to 150 µg/kg/min (6 to 9 mg/kg/h) for a period of 3 to 5 minutes and titrating to the desired clinical effect while closely monitoring respiratory function.

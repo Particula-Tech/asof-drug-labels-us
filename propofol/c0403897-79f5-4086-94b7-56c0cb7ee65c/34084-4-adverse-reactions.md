@@ -30,7 +30,7 @@ Probable causality was based upon an apparent dose response relationship and/or 
 In many instances the presence of concomitant disease and concomitant therapy made the causal relationship unknown.
 Therefore, incidence rates for ICU sedation generally represent estimates of the percentage of clinical trial patients which appeared to have a probable causal relationship.
 
-Incidence greater than 1% - Probably Causally Related
+1. Incidence greater than 1% - Probably Causally Related
 
 |  | Anesthesia/MAC Sedation | ICU Sedation |
 | --- | --- | --- |
@@ -46,7 +46,7 @@ Incidence greater than 1% - Probably Causally Related
 | Skin and Appendages: | Rash [Peds: 5%]Pruritus [Peds:2%] |  |
 | Events without an * or % had an incidence of 1%-3%*Incidence of events 3% to 10% |  |  |
 
-Incidence less than 1% - Probably Causally Related
+1. Incidence less than 1% - Probably Causally Related
 
 |  | Anesthesia/MAC Sedation | ICU Sedation |
 | --- | --- | --- |
@@ -78,7 +78,7 @@ Incidence less than 1% - Probably Causally Related
 | Special Senses: | Amblyopia[Vision Abnormal] |  |
 | Urogenital: | Cloudy Urine | Green Urine |
 
-Incidence less than 1% - Causal Relationship Unknown
+1. Incidence less than 1% - Causal Relationship Unknown
 
 |  | Anesthesia/MAC Sedation | ICU Sedation |
 | --- | --- | --- |
