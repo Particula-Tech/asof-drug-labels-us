@@ -248,5 +248,6 @@ Inactive ingredients: microcrystalline cellulose, lactose monohydrate, povidone,
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 The brands listed are trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
+Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides
 
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India Revised: 10/2015
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India Revised: 11/2016

@@ -258,7 +258,7 @@ Results of in vitro experiments suggest that lamotrigine does not reduce the cle
 
 Specific Populations
 
-Renal Impairment:Twelve volunteers with chronic renal failure (mean creatinine clearance:13 mL/min, range: 6 to 23) and another 6 individuals undergoing hemodialysis were each given a single 100 mg dose of lamotrigine.
+Renal Impairment: Twelve volunteers with chronic renal failure (mean creatinine clearance: 13 mL/min, range: 6 to 23) and another 6 individuals undergoing hemodialysis were each given a single 100 mg dose of lamotrigine.
 The mean plasma half-lives determined in the study were 42.9 hours (chronic renal failure), 13 hours (during hemodialysis), and 57.4 hours (between hemodialysis) compared with 26.2 hours in healthy volunteers.
 On average, approximately 20% (range: 5.6 to 35.1) of the amount of lamotrigine present in the body was eliminated by hemodialysis during a 4-hour session [see Dosage and Administration (2.1)].
 
@@ -267,7 +267,7 @@ The subjects with severe hepatic impairment were without ascites (n = 2) or with
 The mean apparent clearances of lamotrigine in subjects with mild (n = 12), moderate (n = 5), severe without ascites (n = 2), and severe with ascites (n = 5) liver impairment were 0.3 ± 0.09, 0.24 ± 0.1, 0.21 ± 0.04, and 0.15 ± 0.09 mL/min/kg, respectively, as compared with 0.37 ± 0.1 mL/min/kg in the healthy controls.
 Mean half-lives of lamotrigine in subjects with mild, moderate, severe without ascites, and severe with ascites hepatic impairment were 46 ± 20, 72 ± 44, 67 ± 11, and 100 ± 48 hours, respectively, as compared with 33 ± 7 hours in healthy controls [see Dosage and Administration (2.1)].
 
-Age: Pediatric Subjects:The pharmacokinetics of lamotrigine following a single 2 mg/kg dose were evaluated in 2 studies in pediatric subjects (n = 29 for subjects aged 10 months to 5.9 years and n = 26 for subjects aged 5 to 11 years).
+Age: Pediatric Subjects: The pharmacokinetics of lamotrigine following a single 2 mg/kg dose were evaluated in 2 studies in pediatric subjects (n = 29 for subjects aged 10 months to 5.9 years and n = 26 for subjects aged 5 to 11 years).
 Forty-three subjects received concomitant therapy with other AEDs and 12 subjects received lamotrigine as monotherapy.
 Lamotrigine pharmacokinetic parameters for pediatric patients are summarized in Table 16.
 

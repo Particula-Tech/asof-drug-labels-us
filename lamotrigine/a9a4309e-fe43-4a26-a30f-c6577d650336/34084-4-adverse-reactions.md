@@ -147,9 +147,9 @@ Adverse Reactions in a Controlled Monotherapy Trial in Adult Patients with Parti
 
 Adverse reactions that occurred with a frequency of less than 5% and greater than 2% of patients receiving lamotrigine and numerically more frequent than placebo were:
 
-Body as a Whole:Asthenia, fever.
+Body as a Whole: Asthenia, fever.
 
-Digestive:Anorexia, dry mouth, rectal hemorrhage, peptic ulcer.
+Digestive: Anorexia, dry mouth, rectal hemorrhage, peptic ulcer.
 
 Metabolic and Nutritional: Peripheral edema.
 
@@ -257,23 +257,23 @@ Other reactions that occurred in 5% or more patients but equally or more frequen
 
 Adverse reactions that occurred with a frequency of less than 5% and greater than 1% of patients receiving lamotrigine and numerically more frequent than placebo were:
 
-General:Fever, neck pain.
+General: Fever, neck pain.
 
-Cardiovascular:Migraine.
+Cardiovascular: Migraine.
 
-Digestive:Flatulence.
+Digestive: Flatulence.
 
 Metabolic and Nutritional: Weight gain, edema.
 
 Musculoskeletal: Arthralgia, myalgia.
 
-Nervous System:Amnesia, depression, agitation, emotional lability, dyspraxia, abnormal thoughts, dream abnormality, hypoesthesia.
+Nervous System: Amnesia, depression, agitation, emotional lability, dyspraxia, abnormal thoughts, dream abnormality, hypoesthesia.
 
 Respiratory: Sinusitis.
 
 Urogenital: Urinary frequency.
-Adverse Reactions following Abrupt Discontinuation:In the 2 controlled clinical trials, there was no increase in the incidence, severity, or type of adverse reactions in patients with bipolar disorder after abruptly terminating therapy with lamotrigine.
-In the clinical development program in adults with bipolar disorder, 2 patients experienced seizures shortly after abrupt withdrawal of lamotrigine[see Warnings and Precautions (5.8)].
+Adverse Reactions following Abrupt Discontinuation: In the 2 controlled clinical trials, there was no increase in the incidence, severity, or type of adverse reactions in patients with bipolar disorder after abruptly terminating therapy with lamotrigine.
+In the clinical development program in adults with bipolar disorder, 2 patients experienced seizures shortly after abrupt withdrawal of lamotrigine [see Warnings and Precautions (5.8)].
 Mania/Hypomania/Mixed Episodes: During the double blind placebo-controlled clinical trials in bipolar I disorder in which adults were converted to monotherapy with lamotrigine (100 to 400 mg/day) from other psychotropic medications and followed for up to 18 months, the rates of manic or hypomanic or mixed mood episodes reported as adverse reactions were 5% for patients treated with lamotrigine (n = 227), 4% for patients treated with lithium (n = 166), and 7% for patients treated with placebo (n = 190).
 In all bipolar controlled trials combined, adverse reactions of mania (including hypomania and mixed mood episodes) were reported in 5% of patients treated with lamotrigine (n = 956), 3% of patients treated with lithium (n = 280), and 4% of patients treated with placebo (n = 803).
 

@@ -31,7 +31,7 @@ Adjustments to the Maintenance Dose of Lamotrigine Tablets in Women Taking Estro
 
 (1) Taking Estrogen-Containing Oral Contraceptives: In women not taking carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation [see Drug Interactions (7), Clinical Pharmacology (12.3)], the maintenance dose of lamotrigine tablets will in most cases need to be increased by as much as 2-fold over the recommended target maintenance dose to maintain a consistent lamotrigine plasma level.
 
-(2) Starting Estrogen-Containing Oral Contraceptives:In women taking a stable dose of lamotrigine tablets and not taking carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation [see Drug Interactions (7), Clinical Pharmacology (12.3)], the maintenance dose will in most cases need to be increased by as much as 2-fold to maintain a consistent lamotrigine plasma level.
+(2) Starting Estrogen-Containing Oral Contraceptives: In women taking a stable dose of lamotrigine tablets and not taking carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation [see Drug Interactions (7), Clinical Pharmacology (12.3)], the maintenance dose will in most cases need to be increased by as much as 2-fold to maintain a consistent lamotrigine plasma level.
 The dose increases should begin at the same time that the oral contraceptive is introduced and continue, based on clinical response, no more rapidly than 50 to 100 mg/day every week.
 Dose increases should not exceed the recommended rate (see Tables 1 and 5) unless lamotrigine plasma levels or clinical response support larger increases.
 Gradual transient increases in lamotrigine plasma levels may occur during the week of inactive hormonal preparation (pill-free week), and these increases will be greater if dose increases are made in the days before or during the week of inactive hormonal preparation.
@@ -124,7 +124,7 @@ The Initial Weight-Based Dosing Guide for Patients Aged 2 to 12 Years Taking Val
 | 27.1 kg | 34 kg | 4 mg every day | 8 mg every day |
 | 34.1 kg | 40 kg | 5 mg every day | 10 mg every day |
 
-Usual Adjunctive Maintenance Dose for Epilepsy:
+Usual Adjunctive Maintenance Dose for Epilepsy
 
 The usual maintenance doses identified in Tables 1 and 2 are derived from dosing regimens employed in the placebo-controlled adjunctive trials in which the efficacy of lamotrigine tablets was established.
 In patients receiving multidrug regimens employing carbamazepine, phenytoin, phenobarbital, or primidone without valproate, maintenance doses of adjunctive lamotrigine tablets as high as 700 mg/day have been used.

@@ -53,7 +53,7 @@ Safety and efficacy of lamotrigine used as adjunctive treatment for partial-onse
 Lamotrigine was associated with an increased risk for infectious adverse reactions (lamotrigine 37%, placebo 5%), and respiratory adverse reactions (lamotrigine 26%, placebo 5%).
 Infectious adverse reactions included bronchiolitis, bronchitis, ear infection, eye infection, otitis externa, pharyngitis, urinary tract infection, and viral infection.
 Respiratory adverse reactions included nasal congestion, cough, and apnea.
-Additional information describing a clinical study in which efficacy was not demonstrated in pediatric patients ages 10 to 17 years is approved for GlaxoSmithKline LLC’s LAMICTAL® (lamotrigine) Tablets product.
+Additional information describing a clinical study in which efficacy was not demonstrated in pediatric patients ages 10 to 17 years is approved for GlaxoSmithKline LLC’s LAMICTAL® (lamotrigine) products.
 However, due to GlaxoSmithKline LLC’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 Juvenile Animal Data In a juvenile animal study in which lamotrigine (oral doses of 5, 15, or 30 mg/kg) was administered to young rats (postnatal days 7 to 62), decreased viability and growth were seen at the highest dose tested and long-term behavioral abnormalities (decreased locomotor activity, increased reactivity, and learning deficits in animals tested as adults) were observed at the 2 highest doses.
 The no-effect dose for adverse effects on neurobehavioral development is less than the human dose of 400 mg/day on a mg/m2 basis.
