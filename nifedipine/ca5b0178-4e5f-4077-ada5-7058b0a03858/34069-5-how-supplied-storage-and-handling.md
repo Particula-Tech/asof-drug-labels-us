@@ -27,9 +27,9 @@ Distributed by: Oceanside Pharmaceuticals, a division of Valeant Pharmaceuticals
 
 Bridgewater, NJ 08807 USA
 
-9495501
+9495502
 
-20001541
+20001683
 
 Rev.
 06/2016
