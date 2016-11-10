@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA008816"
+  ],
   "inn": "lidocaine",
-  "labeler": "AstraZeneca LP",
+  "labeler": "AstraZeneca Pharmaceuticals LP",
   "package_ndcs": [
     "0186-0330-01",
     "0186-0330-36"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "JELLY",
+      "generic": "lidocaine hydrochloride",
+      "name": "XYLOCAINE"
+    }
+  ],
   "setid": "60ed4629-a0e6-45e2-b8a5-4323d8a693f4",
   "source": "dailymed"
 }

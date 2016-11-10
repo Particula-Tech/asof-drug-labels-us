@@ -2,11 +2,11 @@
 
 Xylocaine (lidocaine HCl) 2% Jelly is supplied in the listed dosage forms.
 
-NDC 0186-0330-01 30 mL aluminum tube Box of 1
+1. NDC 0186-0330-01 30 mL aluminum tube Box of 1
 
 A detachable applicator cone and a key for expressing the contents are included.
 
-NDC 0186-0330-36 5 mL plastic tube Box of 10
+1. NDC 0186-0330-36 5 mL plastic tube Box of 10
 
 ## Storage:
 
