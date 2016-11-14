@@ -5,7 +5,7 @@ Tissue damage: Intramuscular hydroxyzine hydrochloride may result in severe inje
 # PRECAUTIONS
 
 THE POTENTIATING ACTION OF HYDROXYZINE MUST BE CONSIDERED WHEN THE DRUG IS USED IN CONJUNCTION WITH CENTRAL NERVOUS SYSTEM DEPRESSANTS SUCH AS NARCOTICS, BARBITURATES AND ALCOHOL.
-Rarely, cardiac arrests and death have been reported in association with the combined use of hydroxyzine hydrochloride IM and other CNS depressants.
+Rarely, cardiac arrests and death have been reported in association with the combined use of hydroxyzine hydrochloride intramuscularly and other CNS depressants.
 Therefore, when central nervous system depressants are administered concomitantly with hydroxyzine their dosage should be reduced up to 50 percent.
 The efficacy of hydroxyzine as adjunctive pre- and postoperative sedative medication has also been well established, especially as regards its ability to allay anxiety, control emesis, and reduce the amount of narcotic required.
 

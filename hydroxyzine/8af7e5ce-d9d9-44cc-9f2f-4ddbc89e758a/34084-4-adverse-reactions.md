@@ -8,3 +8,4 @@ The absence of adverse effects has been further demonstrated in experimental stu
 
 Involuntary motor activity, including rare instances of tremor and convulsions, has been reported, usually with doses considerably higher than those recommended.
 Continuous therapy with over one gram per day has been employed in some patients without these effects having been encountered.
+Hydroxyzine hydrochloride is associated with Acute Generalized Exanthematous Pustulosis (AGEP) in post marketing reports.
