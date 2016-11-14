@@ -41,10 +41,22 @@ Multiorgan Hypersensitivity Reactions
 
 Instruct patients that a fever associated with other organ system involvement (rash, lymphadenopathy, etc.) may be drug-related and should be reported to the physician immediately [see Warnings and Precautions (5.12)].
 
+©2016 AbbVie Inc.
+
+Revised: November 2016
+
+03-B435
+
 Depakene Capsules
 
-Mfd. by Banner Pharmacaps, Inc., High Point, NC 27265 U.S.A. For AbbVie Inc., North Chicago, IL 60064, U.S.A.
+Mfd. by Banner Pharmacaps, Inc., High Point, NC 27265 U.S.A.
+
+For AbbVie Inc., North Chicago, IL 60064, U.S.A.
 
 Depakene Oral solution
 
-Mfd. by AbbVie Inc., North Chicago, IL 60064, U.S.A. OR by DPT Laboratories, Ltd., San Antonio, TX 78215, U.S.A. For AbbVie Inc., North Chicago, IL 60064, U.S.A.
+Mfd. by AbbVie Inc., North Chicago, IL 60064, U.S.A.
+
+OR by DPT Laboratories, Ltd., San Antonio, TX 78215, U.S.A.
+
+For AbbVie Inc., North Chicago, IL 60064, U.S.A.

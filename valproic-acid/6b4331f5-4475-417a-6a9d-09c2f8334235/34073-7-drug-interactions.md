@@ -135,6 +135,12 @@ Both the clearance and apparent volume of distribution of free phenytoin were re
 In patients with epilepsy, there have been reports of breakthrough seizures occurring with the combination of valproate and phenytoin.
 The dosage of phenytoin should be adjusted as required by the clinical situation.
 
+Propofol
+
+The concomitant use of valproate and propofol may lead to increased blood levels of propofol.
+Reduce the dose of propofol when co-administering with valproate.
+Monitor patients closely for signs of increased sedation or cardiorespiratory depression.
+
 Rufinamide
 
 Based on a population pharmacokinetic analysis, rufinamide clearance was decreased by valproate.
