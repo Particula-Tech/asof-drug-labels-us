@@ -9,27 +9,24 @@ What is the most important information I should know about Amnesteem?
 - •Amnesteem® is used to treat a type of severe acne (nodular acne) that has not been helped by other treatments, including antibiotics.
 - •Because Amnesteem can cause birth defects, Amnesteem is only for patients who can understand and agree to carry out all of the instructions in the iPLEDGE Program.
 - •Amnesteem may cause serious mental health problems.
-
-- 1.Birth defects (deformed babies), loss of a baby before birth (miscarriage), death of the baby and early (premature) births.
+- •Birth defects (deformed babies), loss of a baby before birth (miscarriage), death of the baby and early (premature) births.
   Female patients who are pregnant or who plan to become pregnant must not take Amnesteem.
   Female patients must not get pregnant:
-- 
   - •for 1 month before starting Amnesteem
   - •while taking Amnesteem
   - •for 1 month after stopping Amnesteem.
 - If you get pregnant while taking Amnesteem, stop taking it right away and call your doctor.
   Doctors and patients should report all cases of pregnancy to:
-- 
-  - •FDA MedWatch at 1-800-FDA-1088, and
-  - •the iPLEDGE pregnancy registry at 1-866-495-0654
-- 2.Serious mental health problems.
+  1. •FDA MedWatch at 1-800-FDA-1088, and
+  2. •the iPLEDGE pregnancy registry at 1-866-495-0654
+- •Serious mental health problems.
   Amnesteem may cause:
-  1. •depression
-  2. •psychosis (seeing or hearing things that are not real)
-  3. •suicide.
-     Some patients taking Amnesteem have had thoughts about hurting themselves or putting an end to their own lives (suicidal thoughts).
-     Some people tried to end their own lives.
-     And some people have ended their own lives.
+  - •depression
+  - •psychosis (seeing or hearing things that are not real)
+  - •suicide.
+    Some patients taking Amnesteem have had thoughts about hurting themselves or putting an end to their own lives (suicidal thoughts).
+    Some people tried to end their own lives.
+    And some people have ended their own lives.
 - Stop Amnesteem and call your doctor right away if you or a family member notices that you have any of the following signs and symptoms of depression or psychosis:
   1. •start to feel sad or have crying spells
   2. •lose interest in activities you once enjoyed
@@ -121,7 +118,6 @@ How should I take Amnesteem?
   - •have you sign the Patient Information/Informed Consent form (for all patients).
     Female patients who can get pregnant must also sign another consent form.
 - You will not be prescribed Amnesteem if you cannot agree to or follow all the instructions of the iPLEDGE Program.
-
 - •You will get no more than a 30 day supply of Amnesteem at a time.
   This is to make sure you are following the Amnesteem iPLEDGE Program.
   You should talk with your doctor each month about side effects.
@@ -213,7 +209,6 @@ What are the possible side effects of Amnesteem?
 - Stop Amnesteem and call your doctor right away if you have muscle weakness.
   Muscle weakness with or without pain can be a sign of serious muscle damage.
 - Amnesteem may stop long bone growth in teenagers who are still growing.
-
 - •hearing problems.
   Stop using Amnesteem and call your doctor if your hearing gets worse or if you have ringing in your ears.
   Your hearing loss may be permanent.
