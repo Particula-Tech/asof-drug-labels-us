@@ -15,7 +15,7 @@ Symptoms of Arrhythmia Instruct patients to seek medical attention immediately i
 
 Neonatal Opioid Withdrawal Syndrome Inform female patients of reproductive potential that prolonged use of methadone hydrochloride tablets during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.4)].
 
-Interactions with Alcohol and other CNS Depressants Inform patients that potentially serious additive effects may occur if methadone hydrochloride tablets are used with alcohol or other CNS depressants, and not to use such drugs unless supervised by a healthcare provider.
+Interactions with Alcohol and Other CNS Depressants Inform patients that potentially serious additive effects may occur if methadone hydrochloride tablets are used with alcohol or other CNS depressants, and not to use such drugs unless supervised by a healthcare provider.
 
 Important Administration Instructions Instruct patients how to properly take methadone hydrochloride tablets, including the following:
 
@@ -41,8 +41,10 @@ Disposal of Unused Methadone Hydrochloride Tablets Advise patients to flush the 
 
 Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and are trademarks of a Mallinckrodt company.
 
-© 2015 Mallinckrodt.
+© 2016 Mallinckrodt.
 
 Mallinckrodt Inc. Hazelwood, MO 63042 USA
 
-Issued: 04/2015
+Issued: 04/2016
+
+An electronic copy of this medication guide can be obtained from www.mallinckrodt.com/Medguide/L20M28.pdf or by calling 1-800-778-7898 for alternate delivery options.

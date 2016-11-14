@@ -85,7 +85,7 @@ Consider the use of alternative non-opioid analgesics in these patients if possi
 ## 5.8 Hypotensive Effect
 
 Methadone hydrochloride tablets may cause severe hypotension including orthostatic hypotension and syncope in ambulatory patients.
-There is an increased risk in patients whose ability to maintain blood pressure has already been compromised by a reduced blood volume or concurrent administration of certain CNS depressant drugs (e.g. phenothiazines or general anesthetics) [see Drug Interactions (7.1)].
+There is an increased risk in patients whose ability to maintain blood pressure has already been compromised by a reduced blood volume or concurrent administration of certain CNS depressant drugs (e.g., phenothiazines or general anesthetics) [see Drug Interactions (7.1)].
 Monitor these patients for signs of hypotension after initiating or titrating the dose of methadone hydrochloride tablets.
 
 ## 5.9 Use in Patients with Head Injury or Increased Intracranial Pressure

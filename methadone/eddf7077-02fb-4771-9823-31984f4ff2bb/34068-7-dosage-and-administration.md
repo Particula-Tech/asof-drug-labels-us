@@ -98,7 +98,7 @@ Patients who experience breakthrough pain may require a dose increase of methado
 If the level of pain increases after dose stabilization, attempt to identify the source of increased pain before increasing the methadone hydrochloride tablets dose.
 
 If unacceptable opioid-related adverse reactions are observed, the subsequent doses may be reduced and/or the dosing interval adjusted (i.e., every 8 hours or every 12 hours).
-Adjust the dose to obtain an appropriate balance between management of pain and opioid-related adverse reations.
+Adjust the dose to obtain an appropriate balance between management of pain and opioid-related adverse reactions.
 
 ## 2.4 Discontinuation of Methadone Hydrochloride Tablets for Pain
 

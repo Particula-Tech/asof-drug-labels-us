@@ -63,7 +63,7 @@ Mechanistic studies in this rat model suggest that the developmental effects of 
 These animal data mirror the reported clinical findings of decreased testosterone levels in human males on methadone maintenance therapy for opioid addiction and in males receiving chronic intraspinal opioids.
 
 Additional data have been published indicating that methadone treatment of male rats (once a day for three consecutive days) increased embryolethality and neonatal mortality.
-Examination of uterine contents of methadone-naïve female mice bred to methadone-treated mice indicated that methadone treatment produced an increase in the rate of preimplantation deaths in all post-meiotic stat
+Examination of uterine contents of methadone-naïve female mice bred to methadone-treated mice indicated that methadone treatment produced an increase in the rate of preimplantation deaths in all post-meiotic states.
 
 ## 8.2 Labor and Delivery
 
