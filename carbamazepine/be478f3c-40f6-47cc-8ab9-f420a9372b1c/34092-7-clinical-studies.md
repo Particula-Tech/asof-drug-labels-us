@@ -18,27 +18,39 @@ Patients were not allowed to use antipsychotics, lithium, antidepressants, or se
 There were no significant differences in lorazepam use between the EQUETRO and placebo groups in both studies.
 
 In Studies 1 and 2, the primary endpoint was the mean change from baseline in the YMRS total score at Day 21.
-In both studies, treatment with EQUETRO was statistically significantly superior to placebo, as measured by the mean decrease in YMRS score at Day 21 (Table 3)
+In both studies, treatment with EQUETRO was statistically significantly superior to placebo, as measured by the mean decrease in YMRS score at Day 21 (Table 3).
 
 The key secondary efficacy endpoint in both trials was the change in Clinical Global Impression-Severity (CGI-S) Scale score.
 The CGI-S an investigator-rated global assessment of symptom severity that is scored on a 7-point scale (1 = normal, not ill); 7 = severely ill).
 In both studies, there was a statistically significant decrease from baseline in the mean CGI-S score at Day 21, compared to placebo (Table 3).
 
 Table 3.
-Efficacy Results in the 2 Trials in Patients with Bipolar I Disorder - Change in mean YMRS score from baseline to Week 3 and change in mean CGI-S from baseline to Week 3
+Efficacy Results in the 2 Trials in Patients with Bipolar I Disorder – Change in mean YMRS score from baseline to Week 3 and change in mean CGI-S from baseline to Week 3
 
 |  | Study 1 |  | Study 2 |  |
 | --- | --- | --- | --- | --- |
-| EQUETRO (n=94) | Placebo (n=98) | EQUETRO (n=120) | Placebo (n=115) |  |
+|  | EQUETRO (n=94) | Placebo (n=98) | EQUETRO (n=120) | Placebo (n=115) |
 | Young Mania Rating Scale (YMRS) |  |  |  |  |
 | Baseline YMRS | 26.6 | 27.3 | 28.5 | 27.9 |
 | Week 3 YMRS | 17.9 | 22.1 | 13.4 | 20.8 |
 | LS mean change | -7.8 | -4.8 | -14.8 | -7.0 |
-| LS mean difference from placebo* | -3.5 | - | -8.0 | - |
+| LS mean difference from placebo* | -3.5 | ─ | -8.0 | ─ |
 | p-value | P= 0.033 |  | < 0.0001 |  |
 | Clinical Global Impression-Severity Scale (CGI-S) |  |  |  |  |
 | Baseline CGI-S | 4.4 | 4.4 | 4.5 | 4.5 |
 | Week 3 CGI-S | 3.7 | 4.1 | 3 | 3.9 |
 | Change from Baseline at Week 3 | -0.7 | -0.3 | -1.5 | -0.6 |
-| Difference (p-value) | -0.4 (0.025) | - | -0.9 (< 0.0001) | - |
-| * Least squares mean for the difference defined as the change from baseline at Week 3 in the EQUETRO group minus that in the placebo group. |  |  |  |  |
+| Difference (p-value) | -0.4 (0.025) | ─ | -0.9 (< 0.0001) | ─ |
+
+* Least squares mean for the difference defined as the change from baseline at Week 3 in the EQUETRO group minus that in the placebo group.
+
+## 14.2 Epilepsy
+
+Evidence supporting efficacy of carbamazepine as an anticonvulsant was derived from active drug-controlled studies that enrolled patients with the following seizure types:
+
+1. Partial seizures with complex symptomatology (psychomotor, temporal lobe).
+   Patients with these seizures appear to show greater improvements than those with other types.
+2. Generalized tonic-clonic seizures (grand mal).
+3. Mixed seizure patterns which include the above, or other partial or generalized seizures.
+
+Absence seizures (petit mal) do not appear to be controlled by carbamazepine.

@@ -2,12 +2,12 @@
 
 ## 10.1 Human Experience
 
-Lowest known lethal dose of carbamazepine: adults, >60 grams (39-year-old man).
+Lowest known lethal dose of carbamazepine: adults, greater than 60 grams (39-year-old man).
 Highest known doses survived: adults, 30 grams (31-year-old woman); children, 10 grams (6-year-old boy); small children, 5 grams (3-year-old girl).
 
-Signs and Symptoms: The first signs and symptoms of carbamazepine overdose appear after 1-3 hours.
+Signs and Symptoms: The first signs and symptoms of carbamazepine overdose appear after 1 to 3 hours.
 Neuromuscular disturbances are the most prominent.
-Cardiovascular disorders are generally milder, and severe cardiac complications occur only when very high doses (>60 grams) have been ingested.
+Cardiovascular disorders are generally milder, and severe cardiac complications occur only when very high doses (greater than60 grams) have been ingested.
 
 Respiration: Irregular breathing, respiratory depression.
 

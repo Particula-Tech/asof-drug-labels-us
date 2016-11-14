@@ -16,7 +16,7 @@ Pregnancy Registry
 Patients should be encouraged to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
 To enroll, patients can call the toll-free number 1888-233-2334.
-Information about the North American Drug Pregnancy Registry can be found at http://www.massgeneral.org/aed/ [see Warnings and Precautions (5.4)].
+Information about the North American Drug Pregnancy Registry can be found at http://www.aedpregnancyregistry.org/ [see Warnings and Precautions (5.4)].
 
 Clinical Considerations
 
@@ -28,7 +28,7 @@ Human Data
 Epidemiological data suggest that there may be an association between the use of carbamazepine during pregnancy and congenital malformations, including spina bifida.
 Retrospective case reviews suggest that, compared with monotherapy, there may be a higher prevalence of teratogenic effects associated with the use of anticonvulsants in combination therapy.
 
-Transplacental passage of carbamazepine is rapid (30-60 minutes), and the drug is accumulated in the fetal tissues, with higher levels found in liver and kidney than in brain and lung.
+Transplacental passage of carbamazepine is rapid (30–60 minutes), and the drug is accumulated in the fetal tissues, with higher levels found in liver and kidney than in brain and lung.
 
 There have been a few cases of neonatal seizures and/or respiratory depression associated with maternal carbamazepine and other concomitant anticonvulsant drug use.
 A few cases of neonatal vomiting, diarrhea, and/or decreased feeding have also been reported in association with maternal carbamazepine use.
@@ -36,13 +36,12 @@ These symptoms may represent a neonatal withdrawal syndrome.
 
 Animal Data
 
-Carbamazepine has been shown to have adverse effects in reproduction studies in rats when given orally in dosages 10-25 times a human daily dosage of 1200 mg on a mg/kg basis or 1.5-4 times the human daily dosage of 1200 mg on a mg/m2 basis.
+Carbamazepine has been shown to have adverse effects in reproduction studies in rats when given orally in dosages 10 to 25 times a human daily dosage of 1200 mg on a mg/kg basis or 1.5 to 4 times the human daily dosage of 1200 mg on a mg/m2 basis.
 In rat teratology studies, 2 of 135 offspring showed kinked ribs at 250 mg/kg, and 4 of 119 offspring showed other anomalies at 650 mg/kg (cleft palate, 1; talipes, 1; anophthalmos, 2).
 
 ## 8.2 Labor and Delivery
 
-The effect of carbamazepine on human labor and delivery is unknown.
-Carbamazepine and its epoxide metabolite are transferred to breast milk during lactation.
+The effect of carbamazepine on human labor and delivery is unknown.Carbamazepine and its epoxide metabolite are transferred to breast milk during lactation.
 There is a potential for serious adverse reactions in nursing infants exposed to carbamazepine.
 Nursing mothers should consider the potential benefits and risks of treatment when deciding on whether to discontinue nursing or to discontinue treatment with EQUETRO, taking into account the importance of the drug to the mother.
 
@@ -53,7 +52,7 @@ Because of the potential for serious adverse reactions in nursing infants expose
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of EQUETRO in pediatric and adolescent patients have not been established.
+The safety and effectiveness of EQUETRO have not been established in pediatric patients for indications other than Epilepsy [see Indications and Usage (1.3)].
 
 ## 8.5 Geriatric Use
 

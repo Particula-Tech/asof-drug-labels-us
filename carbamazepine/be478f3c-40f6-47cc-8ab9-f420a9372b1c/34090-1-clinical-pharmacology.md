@@ -8,9 +8,9 @@ Although numerous pharmacological effects of carbamazepine have been described i
 
 Carbamazepine (CBZ)
 
-Absorption: Following a single 200 mg oral extended-release dose of carbamazepine, peak plasma concentration was 1.9 ± 0.3 μg/mL and the time to reach the peak was 19 ± 7 hours.
-Following repeat dose administration (800 mg every 12 hours), the peak levels were 11.0 ± 2.5 μg/mL and the time to reach the peak was 5.9 ± 1.8 hours.
-The pharmacokinetics of extended-release carbamazepine is linear over the single dose range of 200-800 mg.
+Absorption: Following a single 200 mg oral extended-release dose of carbamazepine, peak plasma concentration was 1.9 ± 0.3 mcg/mL and the time to reach the peak was 19 ± 7 hours.
+Following repeat dose administration (800 mg every 12 hours), the peak levels were 11.0 ± 2.5 mcgt/mL and the time to reach the peak was 5.9 ± 1.8 hours.
+The pharmacokinetics of extended-release carbamazepine is linear over the single dose range of 200–800 mg.
 
 Carbamazepine is 76% bound to plasma proteins.
 Carbamazepine is primarily metabolized in the liver.
@@ -20,22 +20,23 @@ The average half-life ranged from 35 to 40 hours following a single extended-rel
 The apparent oral clearance was 25 ± 5 mL/min following a single dose and 80 ± 30 mL/min following multiple dosing.
 
 Carbamazepine-10,11-epoxide (CBZ-E): Carbamazepine-10,11-epoxide is considered to be an active metabolite of carbamazepine.
-Following a single 200 mg oral extended-release dose of carbamazepine, the peak plasma concentration of carbamazepine-10,11-epoxide was 0.11 ± 0.012 μg/mL and the time to reach the peak was 36 ± 6 hours.
-Following chronic administration of an extended-release dose of carbamazepine (800 mg every 12 hours), the peak levels of carbamazepine-10,11-epoxide were 2.2 ± 0.9 μg/mL and the time to reach the peak was 14 ± 8 hours.
+Following a single 200 mg oral extended-release dose of carbamazepine, the peak plasma concentration of carbamazepine-10,11-epoxide was 0.11 ± 0.012 mcg/mL and the time to reach the peak was 36 ± 6 hours.
+Following chronic administration of an extended-release dose of carbamazepine (800 mg every 12 hours), the peak levels of carbamazepine-10,11-epoxide were 2.2 ± 0.9 mcg/mL and the time to reach the peak was 14 ± 8 hours.
 The plasma half-life of carbamazepine-10,11-epoxide following administration of carbamazepine is 34 ± 9 hours.
-Following a single oral dose of extended-release carbamazepine (200-800 mg) the AUC and Cmax of carbamazepine-10,11-epoxide were less than 10% of carbamazepine.
-Following multiple dosing of extended-release carbamazepine (800-1600 mg daily for 14 days), the AUC and Cmax of carbamazepine-10,11-epoxide were dose-related, ranging from 15.7 μg.hr/mL and 1.5 μg/mL at 800 mg/day to 32.6 μg.hr/mL and 3.2 μg/mL at 1600 mg/day, respectively, and were less than 30% those of carbamazepine.
+Following a single oral dose of extended-release carbamazepine (200–800 mg) the AUC and Cmax of carbamazepine-10,11-epoxide were less than 10% of carbamazepine.
+Following multiple dosing of extended-release carbamazepine (800–1600 mg daily for 14 days), the AUC and Cmax of carbamazepine-10,11-epoxide were dose-related, ranging from 15.7 mcg.hr/mL and 1.5 mcg/mL at 800 mg/day to 32.6 mcg.hr/mL and 3.2 mcg/mL at 1600 mg/day, respectively, and were less than 30% those of carbamazepine.
 Carbamazepine-10,11-epoxide is 50% bound to plasma proteins.
 
-Food Effect: A high-fat meal diet increased the rate of absorption of a single 400 mg dose (mean Tmax was reduced from 24 hours, in the fasting state, to 14 hours, and Cmax increased from 3.2 to 4.3 μg/mL) but not the extent (AUC) of absorption.
+Food Effect: A high-fat meal diet increased the rate of absorption of a single 400 mg dose (mean Tmax was reduced from 24 hours, in the fasting state, to 14 hours, and Cmax increased from 3.2 to 4.3 mcg/mL) but not the extent (AUC) of absorption.
 The elimination half-life remained unchanged between fed and fasting state.
 The multiple-dose study conducted in the fed state showed that the steady-state Cmax values were within the therapeutic concentration range.
 The pharmacokinetic profile of extended-release carbamazepine was similar when given by sprinkling the beads over applesauce compared to the intact capsule administered in the fasted state.
 
 Elimination: After oral administration of 14C-carbamazepine, 72% of the administered radioactivity was found in the urine and 28% was found in the feces.
-This urinary radioactivity was composed largely of hydroxylated and conjugated metabolites, with only 3% of unchanged carbamazepine
+This urinary radioactivity was composed largely of hydroxylated and conjugated metabolites, with only 3% of unchanged carbamazepine.
 
 Metabolism: In vitro data indicate carbamazepine is metabolized mainly by cytochrome P450 (CYP) 3A4 to the active carbamazepine-10,11-epoxide, which is further metabolized to the trans-diol by epoxide hydrolase.
+Human microsomal epoxide hydrolase has been identified as the enzyme responsible for the formation of the 10,11-transdiol derivative from carbamazepine-10,11-epoxide.
 
 Renal Impairment: The effect of renal impairment on the pharmacokinetics of carbamazepine is not known.
 
@@ -44,6 +45,6 @@ Consider reducing the dosage in patients with hepatic impairment.
 
 Effect of Age: Carbamazepine is more rapidly metabolized to carbamazepine-10,11-epoxide in young children than in adults.
 In children below the age of 15, there is an inverse relationship between CBZ-E/CBZ ratio and increasing age.
-The safety and effectiveness of EQUETRO® in pediatric and adolescent patients have not been established.
+The safety and effectiveness of EQUETRO have not been established in pediatric patients for indications other than Epilepsy [see Indications and Usage (1.3)].
 
 Effect of Gender: No difference in the mean AUC and Cmax of carbamazepine and carbamazepine-10,11-epoxide was found between males and females.

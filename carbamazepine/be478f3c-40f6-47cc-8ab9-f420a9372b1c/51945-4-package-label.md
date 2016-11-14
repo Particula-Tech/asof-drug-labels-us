@@ -1,47 +1,11 @@
-PRINCIPAL DISPLAY PANEL - 100 mg Capsules
+PRINCIPAL DISPLAY PANEL
 
-NDC 30698-419-12
+NDC 30698-419-12 Equetro Carbamazepine Extended – Release Capsules 100 mg 120 Capsules Rx Only
 
-Equetro® carbamazepine extended-release capsules
+PRINCIPAL DISPLAY PANEL
 
-100mg
+NDC 30698-421-12 Equetro Carbamazepine Extended – Release Capsules 200 mg 120 Capsules Rx Only
 
-120 Capsules
+PRINCIPAL DISPLAY PANEL
 
-Rx Only
-
-Should Not Be Used With Other Carbamazepine-containing Products.
-
-Dispense the accompanying Medication Guide to each patient.
-
-PRINCIPAL DISPLAY PANEL - 200 mg Capsules
-
-NDC 30698-421-12
-
-Equetro® carbamazepine extended-release capsules
-
-200mg
-
-120 Capsules
-
-Rx Only
-
-Should Not Be Used With Other Carbamazepine-containing Products.
-
-Dispense the accompanying Medication Guide to each patient.
-
-PRINCIPAL DISPLAY PANEL - 300 mg Capsules
-
-NDC 30698-423-12
-
-Equetro® carbamazepine extended-release capsules
-
-300mg
-
-120 Capsules
-
-Rx Only
-
-Should Not Be Used With Other Carbamazepine-containing Products.
-
-Dispense the accompanying Medication Guide to each patient.
+NDC 30698-423-12 Equetro Carbamazepine Extended – Release Capsules 300 mg 120 Capsules Rx Only

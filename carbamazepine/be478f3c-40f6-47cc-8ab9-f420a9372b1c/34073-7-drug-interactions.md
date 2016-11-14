@@ -9,11 +9,11 @@ Inhibitors of CYP 3A4 and/or epoxide hydrolase can increase plasma levels of EQU
 It may be necessary to reduce the EQUETRO dose if used concomitantly with inhibitors of CYP3A4 and/or epoxide hydrolase.
 The following drugs are CYP3A4 inhibitors:
 
-Acetazolamide, azole antifungals, cimetidine, clarithromycin, dalfopristin, danazol, delavirdine, diltiazem, erythromycin, fluoxetine, fluvoxamine, grapefruit juice, isoniazid, itraconazole, ketoconazole, loratadine, nefazodone, niacinamide, nicotinamide, protease inhibitors, propoxyphene, quinine, quinupristin, troleandomycin, valproate, verapamil, zileuton.
+Acetazolamide, aprepitant, azole antifungals (e.g., ketoconazole, itraconazole, fluconazole, voriconazole,, cimetidine, ciprofloxacin, clarithromycin, dalfopristin, danazol, dantrolene, delavirdine, diltiazem, erythromycin, fluoxetine, fluvoxamine, grapefruit juice, ibuprofen, isoniazid, loratadine, nefazodone, niacinamide, nicotinamide, olanzapine, omeprazole, oxybutynin, quinine, quinupristin, ticlopidine, troleandomycin, valproate, verapamil, zileuton.
 
 Drugs that Inhibit Epoxide Hydrolase and CYP3A4
 
-Clarithromycin, erythromycin, and valproate also inhibit epoxide hydrolase, resulting in increased levels of the active metabolite carbamazepine-10,11-epoxide.
+Clarithromycin, erythromycin, loxapine, quetiapine, and valproate also inhibit epoxide hydrolase, resulting in increased levels of the active metabolite carbamazepine-10,11-epoxide [see Clinical Pharmacology (12.3)].
 
 Drugs that Induce CYP3A4
 
@@ -21,9 +21,12 @@ CYP3A4 inducers can decrease serum concentrations of EQUETRO and decrease its ef
 It may be necessary to increase the dose of EQUETRO if used concomitantly with a CYP3A4 inducer.
 Such drugs include the following:
 
-Cisplatin, doxorubicin, felbamate, rifampin, phenobarbital, phenytoin, primidone, methsuximide, and theophylline.
+Aminophylline, cisplatin, doxorubicin, felbamate, phosphenytoin, methsuximide, phenobarbital, phenytoin, primidone, rifampin and theophylline.
 
 ## 7.2 Pharmacokinetic Effects of EQUETRO on other Drugs
+
+EQUETRO is a potent inducer of hepatic 3A4 and is also known to be an inducer of CYP1A2, 2B6, 2C9/19 and may therefore reduce plasma concentrations of co-medications mainly metabolized by CYP 1A2, 2B6, 2C9/19 and 3A4, through induction of their metabolism.
+When used concomitantly with EQUETRO, monitoring of concentrations or dosage adjustment of these agents may be necessary.
 
 EQUETRO decreases the concentrations of the following drugs through induction of their metabolism:
 
@@ -36,9 +39,9 @@ Consider alternatives to oral contraceptives that are significantly affected by 
 
 Delavirdine and other Non-Nucleoside Reverse Transcriptase Inhibitors (CYP3A4 Substrates)
 
-Through induction of CYP3A4, EQUETRO increases the metabolism of delavirdine and other non-nucleoside reverse transcriptase inhibitors and significantly reduces the plasma concentrations of these drugs.
+Through induction of CYP3A4, EQUETRO increases the metabolism of delavirdine and certain non-nucleoside reverse transcriptase inhibitors and significantly reduces the plasma concentrations of these drugs.
 This can cause inadequate antiviral activity, loss of virologic response, and possible resistance to delavirdine or other non-nucleoside reverse transcriptase inhibitors.
-Therefore, the use of EQUETRO with non-nucleoside reverse transcriptase inhibitors is contraindicated [see Contraindications (4) and Warnings and Precautions (5.9)]
+Therefore, the use of EQUETRO with these non-nucleoside reverse transcriptase inhibitors is contraindicated [see Contraindications (4) and Warnings and Precautions (5.9)].
 
 Nefazodone (CYP3A4 Substrate)
 
@@ -46,7 +49,32 @@ The use of EQUETRO is contraindicated with the use of nefazodone because the con
 
 Warfarin (CYP1A2 and CYP3A4 Substrate)
 
-Through induction of CYP1A2 and CYP3A4, EQUETRO decreases the concentration of warfarin and decreases it's anticoagulant effectiveness.
+Through induction of CYP1A2 and CYP3A4, EQUETRO decreases the concentration of warfarin and decreases its anticoagulant effectiveness.
+
+Aripiprazole
+
+When carbamazepine is added to aripiprazole, the aripiprazole dose should be doubled.
+Additional dose increases should be based on clinical evaluation.
+If carbamazepine is later withdrawn, the aripiprazole dose should be reduced.
+
+Tacrolimus
+
+When carbamazepine is used with tacrolimus, monitoring of tacrolimus blood concentrations and appropriate dosage adjustments are recommended.
+
+Temsirolimus
+
+The use of concomitant strong CYP3A4 inducers such as carbamazepine should be avoided with temsirolimus.
+If patients must be coadministered carbamazepine with temsirolimus, an adjustment of temsirolimus dosage should be considered.
+
+Lapatinib
+
+The use of carbamazepine with lapatinib should generally be avoided.
+If carbamazepine is started in a patient already taking lapatinib, the dose of lapatinib should be gradually titrated up.
+If carbamazepine is discontinued, the lapatinib dose should be reduced.
+
+HIV Protease Inhibitors
+
+Due to strong induction of CYP3A4 caused by carbamazepine, use of EQUETRO with HIV protease inhibitors is not recommended.
 
 Other CYP1A2 and CYP3A4 Substrates
 
@@ -54,7 +82,7 @@ EQUETRO induces CYP1A2 and CYP3A4, leading to decreased concentrations of drugs 
 It may be necessary to increase the doses of such drugs when used concomitantly with EQUETRO.
 Drugs metabolized by CYP3A4 or CYP1A2 include the following:
 
-Acetaminophen, alprazolam, amitriptyline, bupropion, buspirone, citalopram, clobazam, clonazepam, clozapine, cyclosporin, delavirdine, desipramine, diazepam, dicumarol, doxycycline, ethosuximide, felbamate, felodipine, glucocorticoids, haloperidol, itraconazole, lamotrigine, levothyroxine, lorazepam, methadone, midazolam, mirtazapine, nefazodone, nortriptyline, olanzapine, oral contraceptives, oxcarbazepine, phenytoin, praziquantel, protease inhibitors, quetiapine, risperidone, theophylline, topiramate, tiagabine, tramadol, triazolam, trazodone, valproate, warfarin, ziprasidone, and zonisamide.
+Acetaminophen, albendazole, alprazolam, aprepitant, buprenorphone, bupropion, buspirone, citalopram, clobazam, clonazepam, clozapine, cyclosporin, delavirdine, desipramine, diazepam, dicumarol, dihydropyridine calcium channel blockers (e.g., felodipine), doxycycline, ethosuximide, everolimus, felbamate, glucocorticoids, haloperidol, imatinib, itraconazole, lamotrigine, levothyroxine, lorazepam, methadone, methsuxamide, mianserin, midazolam, mirtazapine, nefazodone, olanzapine, oral and other hormonal contraceptives, oxcarbazepine, paliperidone, phenytoin, praziquantel, quetiapine, risperidone, sertraline, sirolimus, tadalafil, theophylline, topiramate, tiagabine, tramadol, triazolam, tricyclic antidepressants (e.g., imipramine, amitriptyline, nortriptyline), trazodone, valproate, warfarin, ziprasidone, and zonisamide.
 
 EQUETRO increases the plasma levels of the following drugs by inhibition of their metabolism:
 
@@ -69,6 +97,12 @@ Phenytoin levels have been reported to increase or decrease in the presence of c
 There are multiple pharmacokinetic mechanisms for changes in phenytoin levels when used concomitantly with EQUETRO.
 Monitor phenytoin serum levels carefully when used concomitantly with EQUETRO.
 
+Cyclophosphamide
+
+Cyclophosphamide is an inactive prodrug and is converted to its active metabolite in part by CYP3A.
+The rate of metabolism and the leukopenic activity of cyclophosphamide are reportedly increased by chronic co-administration of CYP3A4 inducers.
+There is a potential for increased cyclophosphamide toxicity when coadministered with carbamazepine.
+
 ## 7.3 Pharmacodynamic Drug Interactions
 
 Monoamine Oxidase Inhibitors
@@ -81,6 +115,10 @@ Lithium
 Concomitant administration of EQUETRO and lithium can increase the risk of neurotoxic adverse reactions.
 Consider reducing the dose of lithium or EQUETRO when using these drugs concomitantly.
 
+Isoniazid
+
+Concomitant use of carbamazepine and isoniazid has been reported to increase isoniazid-induced hepatotoxicity.
+
 CNS Depressants
 
 The concomitant use of EQUETRO and other CNS depressants can increase the risk of respiratory depression, profound sedation, hypotension, and syncope.
@@ -90,3 +128,9 @@ Consider reducing the dose of CNS depressants or EQUETRO when using these drugs 
 Chloroquine and Mefloquine
 
 The anti-malarial drugs chloroquine and mefloquine can antagonize the activity of EQUETRO.
+
+Neuromuscular Blocking Agents
+
+Resistance to the neuromuscular blocking action of the nondepolarizing neuromuscular blocking agents pancuronium, vecuronium, rocuronium and cisatracurium has occurred in patients chronically administered carbamazepine.
+Whether or not carbamazepine has the same effect on other nondepolarizing agents is unknown.
+Patients should be monitored closely for more rapid recovery from neuromuscular blockade than expected, and infusion rate requirements may be higher.

@@ -16,20 +16,19 @@ Instruct them to read the Medication Guide before taking EQUETRO.
 - Embryofetal Toxicity Advise women of childbearing potential that EQUETRO may cause fetal harm.
   Use in pregnancy only if the potential benefits of treatment outweigh the risks [see Warning and Precautions (5.5) and Use in Specific Populations (8.1)].
   Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
-  This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
-  To enroll, patients can call the toll free number 1-888-233-2334 [see Warning and Precautions (5.5) and Use in Specific Populations (8.1)].
+  This registry is collecting information about the safety of antiepileptic drugs during pregnancy [see Warning and Precautions (5.5) and Use in Specific Populations (8.1)].
 - Abrupt Discontinuation and Risk of Seizure Inform patients that abrupt discontinuation of EQUETRO can cause seizures or an increase in seizure frequency.
   Advise patients that the drug should be tapered when discontinued [see Warnings and Precautions (5.6)].
 - Hyponatremia Advise patients that EQUETRO may reduce serum sodium concentrations especially if they are taking other medications that can lower sodium.
   Advise patients to report symptoms of low sodium like nausea, tiredness, lack of energy, confusion, seizures, or more frequent or more severe seizures [see Warnings and Precautions (5.7)].
 - Potential for Cognitive and Motor Impairment Advise patients not to drive or operate machinery until they have gained sufficient experience on EQUETRO to gauge whether it adversely affects their ability to drive or operate machinery.
   Advise patients to exercise caution if alcohol is taken in combination with EQUETRO therapy, due to a possible additive sedative effect [see Warnings and Precautions (5.8)].
-- Decreased Antiviral Effect of Delavirdine or other Non-nucleoside Reverse Transcriptase Inhibitors Inform patients that EQUETRO can significantly decrease serum concentrations of these drugs.
-  Concomitant use of the drugs and EQUETRO are contraindicated [see Warnings and Precautions (5.9)].
-- Concomitant Use with other Carbamazepine Products Inform patients that Equetro contains carbamazepine and should not be used in combination with any other medications containing carbamazepine.
+- Concomitant Use with other Carbamazepine Products Inform patients that EQUETRO contains carbamazepine and should not be used in combination with any other medications containing carbamazepine.
+- Decreased Effectiveness of Oral Contraceptives Inform patients that EQUETRO can significantly decrease the effectiveness of oral contraception.
+  This can cause contraceptive failure or breakthrough bleeding.
 
 Manufactured for Validus Pharmaceuticals LLC, 119 Cherry Hill Road, Suite 310, Parsippany, NJ 07054
 
 1-866-9VALIDUS (1-866-982-5438) info@validuspharma.com http://www.equetro.com
 
-Made in U.S.A. © 2013 Validus Pharmaceuticals LLC 110704 (Rev 11/2012)
+Made in U.S.A. © 2016 Validus Pharmaceuticals LLC 60079-01 October 2016

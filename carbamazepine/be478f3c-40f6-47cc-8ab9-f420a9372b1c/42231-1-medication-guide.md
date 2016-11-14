@@ -20,38 +20,66 @@ If you have any of the problems listed below call your healthcare provider right
 
 EQUETRO can cause serious side effects, including:
 
-1. EQUETRO may cause rare but serious rashes that may lead to death.
-   These serious skin reactions are more likely to happen within the first four months after you start taking EQUETRO, but may occur at later times.
-   These reactions can happen to anyone, but are more likely in people of Asian descent.
-   If you are of Asian descent, you may need a genetic blood test before you take EQUETRO to see if you are at higher risk for serious skin reactions with this medicine.
-   Symptoms may include:
-   - skin rash
-   - hives
-   - sores in your mouth
-   - blistering or peeling of the skin
-2. EQUETRO may cause rare but serious blood problems.
-   Symptoms may include:
-   - fever
-   - shortness of breath
-   - fatigue
-   - easy bruising
-   - red or purple spots on your body
-   - unusual bleeding such as bleeding gums, nose bleeds, or heavy menstrual bleeding
-   - swollen glands and sore throat
-3. EQUETRO may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
-   Call your healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
-   - thoughts about suicide or dying
-   - attempts to commit suicide
-   - new or worse depression
-   - new or worse anxiety
-   - feeling agitated or restless
-   - panic attacks
-   - trouble sleeping (insomnia)
-   - new or worse irritability
-   - acting aggressive, being angry, or violent
-   - acting on dangerous impulses
-   - an extreme increase in activity or talking (mania)
-   - other unusual changes in behavior or mood
+1.
+EQUETRO may cause rare but serious rashes that may lead to death.
+These serious skin reactions are more likely to happen within the first four months after you start taking EQUETRO, but may occur at later times.
+These reactions can happen to anyone, but are more likely in people of Asian descent.
+If you are of Asian descent, you may need a genetic blood test before you take EQUETRO to see if you are at higher risk for serious skin reactions with this medicine.
+Symptoms may include:
+
+- skin rash
+- hives
+- sores in your mouth
+- blistering or peeling of the skin
+
+2.
+EQUETRO may cause rare but serious blood problems.
+Symptoms may include:
+
+- fever
+- shortness of breath
+- fatigue
+- easy bruising
+- red or purple spots on your body
+- unusual bleeding such as bleeding gums, nose bleeds, or heavy menstrual bleeding
+- swollen glands and sore throat
+
+3.
+EQUETRO may cause a serious or life-threatening allergic reaction that may affect your skin or other parts of your body such as your liver or blood cells.
+You may or may not have rash with these types of reactions.
+Call a healthcare provider right away if you have any of the following symptoms:
+
+- skin rash
+- hives
+- fever
+- swollen glands that do not go away
+- swelling of your lips or tongue
+- yellowing of your skin or eyes
+- unusual bruising or bleeding
+- severe fatigue or weakness
+- unexpected, severe muscle pain
+- frequent infections
+
+These symptoms may be the first signs of a serious reaction.
+A healthcare provider should examine you to decide if you should continue taking EQUETRO.
+
+4.
+EQUETRO may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+
+Call your healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
+
+- thoughts about suicide or dying
+- attempts to commit suicide
+- new or worse depression
+- new or worse anxiety
+- feeling agitated or restless
+- panic attacks
+- trouble sleeping (insomnia)
+- new or worse irritability
+- acting aggressive, being angry, or violent
+- acting on dangerous impulses
+- an extreme increase in activity or talking (mania)
+- other unusual changes in behavior or mood
 
 How can I watch for early symptoms of suicidal thoughts and actions?
 
@@ -63,16 +91,24 @@ Call your healthcare provider between visits as needed, especially if you are wo
 Do not stop EQUETRO without first talking to a healthcare provider.
 
 Stopping EQUETRO suddenly can cause serious problems.
-You should talk to your health care provider before stopping.
+You should talk to your healthcare provider before stopping.
 
 Suicidal thoughts or actions can be caused by things other than medicines.
 If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
 
 What is EQUETRO?
 
-EQUETRO is a prescription medicine used to treat people with acute manic or mixed episodes that happen with Bipolar I Disorder.
+EQUETRO is a prescription medicine used to treat people with:
 
-It is not known if EQUETRO is safe and effective in children and adolescents.
+- acute manic or mixed episodes that happen with Bipolar I Disorder
+- certain types of nerve pain (trigeminal neuralgia and glossopharyngeal neuralgia)
+- certain types of seizures (partial, tonic-clonic, mixed)
+
+EQUETRO is not a regular pain medicine and should not be used for aches or pains.
+
+EQUETRO should not be used to treat people with absence seizures (petit mal).
+
+It is not known if EQUETRO is safe and effective in children and adolescents for the treatment of Bipolar I Disorder and nerve pain.
 
 Who should not take EQUETRO?
 
@@ -108,11 +144,10 @@ Before you take EQUETRO, tell your healthcare provider if you:
 - are pregnant or plan to become pregnant.
   EQUETRO may harm your unborn baby.
   Tell your healthcare provider right away if you become pregnant while taking EQUETRO.
-  You and your healthcare provider will decide if you should take EQUETRO while you are pregnant.
-  - If you become pregnant while taking EQUETRO, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
-    The purpose of this registry is to collect information about the safety of antiepileptic medicine during pregnancy.
-    EQUETRO is also an antiepileptic drug.
-    You can enroll in this registry by calling 1-888-233-2334.
+  You and your healthcare provider will decide if you should take EQUETRO while you are pregnant. ○ If you become pregnant while taking EQUETRO, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
+  The purpose of this registry is to collect information about the safety of antiepileptic medicines during pregnancy.
+  EQUETRO is also an antiepileptic drug.
+  You can enroll in this registry by calling 1-888-233-2334.
 - are breastfeeding or plan to breastfeed.
   EQUETRO can pass into breast milk.
   You and your healthcare provider should decide if you will take EQUETRO or breastfeed.
@@ -134,10 +169,9 @@ How should I take EQUETRO?
   Your healthcare provider will tell you how much EQUETRO to take.
 - Your healthcare provider may change your dose.
   Do not change your dose of EQUETRO without talking to your healthcare provider.
-- Take EQUETRO capsules whole.
-  Do not crush or chew.
-  - If you cannot swallow EQUETRO capsules whole, you may open the EQUETRO capsules and sprinkle the beads over food such as a teaspoon of applesauce and swallow the mixture.
-    Do not chew the beads.
+- Swallow EQUETRO capsules whole.
+  Do not crush or chew. ○ If you cannot swallow EQUETRO capsules whole, you may open the EQUETRO capsules and sprinkle the beads over food such as a teaspoon of applesauce and swallow the mixture.
+  Do not crush or chew the beads.
 - Take EQUETRO with or without food.
 - If you take too much EQUETRO, call your healthcare provider or local Poison Control Center right away.
 
@@ -150,34 +184,21 @@ What should I avoid while taking EQUETRO?
 
 What are the possible side effects of EQUETRO?
 
-See "What is the most important information I should know about EQUETRO?"
+See “What is the most important information I should know about EQUETRO?”
 
 EQUETRO may cause other serious side effects, including:
 
 - Seizure risk.
-  Stopping EQUETRO suddenly may cause you to have a seizure.
+  Stopping EQUTERO suddenly may cause you to have a seizure.
   The risk of seizures may be higher in people who already have seizures.
   Do not stop taking EQUETRO without first talking with your healthcare provider.
 - Low level of sodium in your blood (hyponatremia).
-  Symptoms of hyponatremia may include:
-  - headache
-  - new seizures or an increased number of seizures
-  - difficulty concentrating
-  - memory problems
-  - confusion
-  - weakness
-  - balance problems
+  Symptoms of hyponatremia may include: ○ headache ○ new seizures or an increased number of seizures ○ difficulty concentrating ○ memory problems ○ confusion ○ weakness ○ balance problems
 - Problems with judgment, thinking, and movement.
 - Liver problems.
-  Symptoms of liver problems may include:
-  - yellowing of your skin or the whites of your eyes
-  - dark urine
-  - pain on the right side of your stomach area (abdominal pain)
-  - easy bruising
-  - loss of appetite
-  - nausea or vomiting
+  Symptoms of liver problems may include: ○ yellowing of your skin or the whites of your eyes ○ dark urine ○ pain on the right side of your stomach area (abdominal pain) ○ easy bruising ○ loss of appetite ○ nausea or vomiting
 
-Get medical help right away if you have any of the symptoms listed above or listed in "What is the most important information I should know about EQUETRO?"
+Get medical help right away if you have any of the symptoms listed above or listed in “What is the most important information I should know about EQUETRO?”
 
 The most common side effects of EQUETRO include:
 
@@ -190,7 +211,6 @@ The most common side effects of EQUETRO include:
 - itching
 - dry mouth
 - weakness
-- rash
 - blurred vision
 - problems speaking
 
@@ -199,13 +219,12 @@ For more information, ask your healthcare provider or pharmacist.
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
+To report SUSPECTED ADVERSE REACTIONS, contact Validus Pharmaceuticals LLC at 1-866-9VALIDUS(1-866-982-5438) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch
 
 How should I store EQUETRO?
 
-- Store EQUETRO between 68°F to 77°F (20°C to 25°C).
-- Keep EQUETRO out of the light.
+- Store EQUETRO between 680F to 770F (200C to 250C).
+- Keep EQUETRO capsules out of the light.
 - Keep EQUETRO capsules dry.
 
 Keep EQUETRO and all medicines out of the reach of children.
@@ -237,4 +256,6 @@ This Medication Guide has been approved by the U. S. Food and Drug Administratio
 
 Validus Pharmaceuticals LLC, 119 Cherry Hill Road, Suite 310, Parsippany, NJ 07054
 
-1-866-9VALIDUS (1-866-982-5438) 110705 (Rev 11/2012)
+1-866-9VALIDUS (1-866-982-5438)
+
+60080-01 Revised: October 2016
