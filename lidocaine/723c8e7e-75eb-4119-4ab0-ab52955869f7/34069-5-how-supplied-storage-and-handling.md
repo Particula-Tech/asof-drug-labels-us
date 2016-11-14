@@ -2,7 +2,7 @@
 
 For direct intravenous injection, Xylocaine (lidocaine HCl Injection, USP) without preservatives is supplied in the following dosage form:
 
-NDC 0186-0232-03 100 mg, 5 mL Ampule
+1. NDC 0186-0232-03 100 mg, 5 mL Ampule
 
 ## Storage:
 
