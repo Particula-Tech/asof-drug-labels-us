@@ -67,7 +67,7 @@ Intestinal biopsies of patients often demonstrated villous atrophy.
 If a patient develops these symptoms during treatment with olmesartan, exclude other etiologies.
 Consider discontinuation of Azor in cases where no other etiology is identified.
 
-## 5.9 Electrolyte and Metabolic Imbalances
+## 5.9 Electrolyte Imbalances
 
 Azor contains olmesartan, a drug that inhibits the renin-angiotensin system (RAS).
 Drugs that inhibit the RAS can cause hyperkalemia.
