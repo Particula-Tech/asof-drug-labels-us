@@ -1,15 +1,7 @@
 # 1 INDICATIONS AND USAGE
 
-SELZENTRY, in combination with other antiretroviral agents, is indicated for adult patients infected with only CCR5-tropic HIV-1.
+SELZENTRY is indicated in combination with other antiretroviral agents for the treatment of only CCR5-tropic human immunodeficiency virus type 1 (HIV-1) infection in patients 2 years of age and older weighing at least 10 kg.
 
-This indication is based on analyses of plasma HIV‑1 RNA levels in 2 controlled trials of SELZENTRY in treatment‑experienced subjects and one trial in treatment‑naive subjects.
-Both trials in treatment-experienced subjects were conducted in clinically advanced, 3-class antiretroviral‑experienced (nucleoside reverse transcriptase inhibitor [NRTI], non-nucleoside reverse transcriptase inhibitor [NNRTI], protease inhibitor [PI], or enfuvirtide) adults with evidence of HIV‑1 replication despite ongoing antiretroviral therapy.
+Limitations of Use:
 
-The following points should be considered when initiating therapy with SELZENTRY:
-
-- •Adult patients infected with only CCR5-tropic HIV-1 should use SELZENTRY.
-- •Tropism testing must be conducted on a current sample with a highly sensitive tropism assay that has demonstrated the ability to identify patients appropriate for use of SELZENTRY.
-  Outgrowth of pre-existing low-level CXCR4- or dual/mixed-tropic HIV-1 not detected by tropism testing at screening has been associated with virologic failure on SELZENTRY [see Microbiology (12.4), Clinical Studies (14.3)].
-- •Use of SELZENTRY is not recommended in subjects with dual/mixed- or CXCR4-tropic HIV-1 as efficacy was not demonstrated in a Phase 2 trial of this patient group.
-- •The safety and efficacy of SELZENTRY have not been established in pediatric patients.
-- •In treatment-naive subjects, more subjects treated with SELZENTRY experienced virologic failure and developed lamivudine resistance compared with efavirenz [see Microbiology (12.4), Clinical Studies (14.3)].
+- •SELZENTRY is not recommended in patients with dual/mixed- or CXCR4-tropic HIV-1 [see Microbiology (12.4)].

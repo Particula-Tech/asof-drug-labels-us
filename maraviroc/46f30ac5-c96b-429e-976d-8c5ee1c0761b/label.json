@@ -6,9 +6,17 @@
   "labeler": "ViiV Healthcare Company",
   "package_ndcs": [
     "49702-223-18",
-    "49702-224-18"
+    "49702-224-18",
+    "49702-233-08",
+    "49702-235-08",
+    "49702-237-55"
   ],
   "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "maraviroc",
+      "name": "SELZENTRY"
+    },
     {
       "form": "TABLET, FILM COATED",
       "generic": "maraviroc",

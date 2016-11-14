@@ -1,42 +1,38 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Medication Guide).
+Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
 Hepatotoxicity
 
-Inform patients that liver problems including life-threatening cases have been reported with SELZENTRY.
-Inform patients that if they develop signs or symptoms of hepatitis or allergic reaction following use of SELZENTRY (rash, skin or eyes look yellow, dark urine, vomiting, abdominal pain), they should stop SELZENTRY and seek medical evaluation immediately.
-Advise patients that laboratory tests for liver enzymes and bilirubin will be ordered prior to starting SELZENTRY, at other times during treatment, and if they develop severe rash or signs and symptoms of hepatitis or an allergic reaction on treatment [see Warnings and Precautions (5.1), (5.2)].
-
-Information about HIV-1 Infection
-
-SELZENTRY is not a cure for HIV-1 infection and patients may continue to experience illnesses associated with HIV-1 infection, including opportunistic infections.
-
-Advise patients to remain under the care of a physician when using SELZENTRY.
-
-Advise patients to avoid doing things that can spread HIV-1 infection to others.
-
-Advise patients not to re-use or share needles or other injection equipment.
-
-Advise patients not to share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
-
-Always practice safer sex by using a latex or polyurethane condom to lower the chance of sexual contact with semen, vaginal secretions, or blood.
-
-Female patients should be advised not to breastfeed because it is not known if SELZENTRY can be passed to your baby in your breast milk and whether it could harm your baby.
-Mothers with HIV-1 should not breastfeed because HIV-1 can be passed to the baby in the breast milk.
-
-Inform patients that it is important to take all their anti‑HIV medicines as prescribed and at the same time(s) each day.
-SELZENTRY must always be used in combination with other antiretroviral drugs.
-Instruct patients not to alter their dose or discontinue therapy without consulting their physician.
-If a dose is missed, instruct patients to take the next dose of SELZENTRY as soon as possible and then take their next scheduled dose at its regular time.
-If it is less than 6 hours before their next scheduled dose, they should be instructed to skip the missed dose and take the next dose at the regular time.
-
-Inform patients that when their supply of SELZENTRY starts to run low, they should ask their doctor or pharmacist for a refill.
+Inform patients that hepatotoxicity, including life-threatening cases, has been reported with SELZENTRY; therefore, it is important to inform the healthcare professional if patients have underlying hepatitis B or C or elevations in liver-associated tests prior to treatment.
+Inform patients to stop SELZENTRY and seek medical evaluation immediately if they develop signs or symptoms of hepatitis or allergic reaction following use of SELZENTRY.
+Advise patients that laboratory tests for liver enzymes and bilirubin will be ordered prior to starting SELZENTRY, at other times during treatment, and if they develop severe rash or signs and symptoms of hepatitis or an allergic reaction on treatment [see Dosage and Administration (2.1), Warnings and Precautions (5.1, 5.2)].
 
 Cardiovascular Events
 
-Caution should be used when administering SELZENTRY in patients with a history of postural hypotension or on concomitant medication known to lower blood pressure.
-Advise patients that if they experience dizziness while taking SELZENTRY, they should avoid driving or operating machinery.
+When administering SELZENTRYin patients with cardiovascular comorbidities, a history of postural hypotension or receiving concomitant medication known to lower blood pressure, advise patients that they may be at increased risk for cardiovascular events.
+Advise patients to avoid driving or operating machinery if they experience dizziness while taking SELZENTRY [see Warnings and Precautions (5.3)].
+
+Drug Interactions
+
+Advise patients to inform their healthcare provider of concomitant HIV medications as dosage of SELZENTRY may be modified depending on other HIV medications taken with SELZENTRY.
+Advise patients that coadministration of SELZENTRY with St. John’s wort is not recommended as it can lead to loss of virologic response and possible resistance to SELZENTRY [see Dosage and Administration (2.2), Drug Interactions (7.1)].
+
+Missed Dosage
+
+Inform patients that it is important to take SELZENTRY in combination with other antiretroviral medications on a regular dosing schedule with or without food.
+Advise patients to avoid missing doses as it can result in development of resistance.
+Instruct patients that if they miss a dose, to take it as soon as they remember.
+Advise patients not to double their next dose or take more than the prescribed dose [see Dosage and Administration (2.2)].
+
+Pregnancy
+
+Inform patients that there is insufficient data on the safety of SELZENTRY in pregnancy.
+Inform patients that there is an antiretroviral pregnancy registry that monitors pregnancy outcomes in women exposed to SELZENTRY during pregnancy [see Use in Specific Populations (8.1)].
+
+Lactation
+
+Instruct women with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in breast milk [see Use in Specific Populations (8.2)].
 
 SELZENTRY and COMBIVIR are registered trademarks of the ViiV Healthcare group of companies.
 
@@ -48,15 +44,9 @@ ViiV Healthcare
 
 Research Triangle Park, NC 27709
 
-by:
-
-Pfizer Manufacturing Deutschland GmbH
-
-Freiburg, Germany
-
-©2015, the ViiV Healthcare group of companies.
+©2016 the ViiV Healthcare group of companies.
 All rights reserved.
 
-SEL:11PI
+SEL:12PI
 
 PHARMACIST‑DETACH HERE AND GIVE MEDICATION GUIDE TO PATIENT

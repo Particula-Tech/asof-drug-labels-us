@@ -2,30 +2,51 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category B.
+Pregnancy Exposure Registry
 
-There are no adequate and well-controlled studies in pregnant women.
-Because animal reproduction studies are not always predictive of human response, SELZENTRY should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-To monitor maternal-fetal outcomes of pregnant women exposed to SELZENTRY and other antiretroviral agents, an Antiretroviral Pregnancy Registry has been established.
-Healthcare providers are encouraged to register patients by calling 1-800-258-4263.
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to SELZENTRY during pregnancy.
+Physicians are encouraged to register patients by calling the Antiretroviral Pregnancy Registry (APR) at 1-800-258-4263.
 
-Animal Data
+Risk Summary
 
-The incidence of fetal variations and malformations was not increased in embryofetal toxicity studies performed with maraviroc in rats at exposures (AUC) approximately 20-fold higher and in rabbits at approximately 5-fold higher than human exposures at the recommended daily dose (up to 1,000 mg per kg per day in rats and 75 mg per kg per day in rabbits).
-During the pre- and postnatal development studies in the offspring, development of the offspring, including fertility and reproductive performance, was not affected by the maternal administration of maraviroc.
+Limited data on the use of SELZENTRY during pregnancy from the APR and case reports are not sufficient to inform a drug-associated risk of birth defects and miscarriage.
+In animal reproduction studies, no evidence of adverse developmental outcomes was observed with maraviroc.
+During organogenesis in the rat and rabbit, systemic exposures (AUC) to maraviroc were approximately 20 times (rats) and 5 times (rabbits) the exposure in humans at the recommended 300-mg twice-daily dose.
+In the rat pre- and post-natal development study, maternal systemic exposure (AUC) to maraviroc was approximately 14 times the exposure in humans at the recommended 300-mg twice-daily dose [seeData].
 
-## 8.3 Nursing Mothers
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-The Centers for Disease Control and Prevention recommend that HIV–1-infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV-1 infection.
-Studies in lactating rats indicate that maraviroc is extensively excreted in rat milk.
-It is not known whether maraviroc is excreted in human milk.
+Data
 
-Because of both the potential for HIV transmission and the potential for adverse reactions in nursing infants, mothers should be instructed not to breastfeed if they are receiving SELZENTRY.
+Animal Data: Maraviroc was administered orally to pregnant rats (up to 1,000 mg per kg per day) and rabbits (up to 75 mg per kg per day) on gestation Days 6 to 17 and 7 to 19, respectively.
+No adverse effects on embryo-fetal development were observed at these dose levels, resulting in exposures (AUC) approximately 20 times (rats) and 5 times (rabbits) higher than human exposures at the recommended daily dose.
+In the rat pre- and post-natal development study, maraviroc was administered orally at up to 1,000 mg per kg per day on gestation Day 6 to lactation/post-partum Day 20, with development of the offspring (including fertility and reproductive performance) unaffected by maternal administration of maraviroc at an exposure (AUC) approximately 14 times higher than human exposure at the recommended daily dose.
+
+## 8.2 Lactation
+
+Risk Summary
+
+The Centers for Disease Control and Prevention recommend that HIV‑1-infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV‑1 infection.
+
+There are no data on the presence of maraviroc in human milk, the effects on the breastfed infant, or the effects on milk production.
+When administered to lactating rats, maraviroc was present in milk [see Data].
+Because of the potential for (1) HIV transmission (in HIV-negative infants), (2) developing viral resistance (in HIV-positive infants), and (3) serious adverse reactions in a breastfed infant similar to those seen in adults, instruct mothers not to breastfeedif they are receiving SELZENTRY.
+
+Data
+
+Maraviroc (and related metabolites) was excreted into the milk of lactating rats following a single oral dose of maraviroc (100 mg per kg) on lactation Day 12, with a maximal milk concentration achieved one hour post-administration at a milk concentration approximately 2.5 times that of maternal plasma concentrations.
 
 ## 8.4 Pediatric Use
 
-The pharmacokinetics, safety, and efficacy of maraviroc in patients younger than 18 years have not been established.
-Therefore, maraviroc should not be used in this patient population.
+The safety, pharmacokinetic (PK) profile, and antiviral activity of SELZENTRY were evaluated in treatment-experienced, CCR5-tropic, HIV-1-infected pediatric subjects aged 2 to less than 18 years weighing at least 10 kg in an open-label, multicenter clinical trial, A4001031 [see Adverse Reactions (6.1), Clinical Studies (14.2)].
+Pharmacokinetics were evaluated in a total of 98 pediatric subjects: 85 subjects received SELZENTRY and concomitant medications that included potent CYP3A inhibitors with or without potent CYP3A inducers, 10 subjects received SELZENTRY and noninteracting medications (not containing potent CYP3A inhibitors or potent CYP3A inducers), and three subjects received SELZENTRY and medications that included potent CYP3A inducers without potent CYP3A inhibitors [see Clinical Pharmacology (12.3)].
+
+See Dosage and Administration (2.4, 2.5) for dosing recommendations for pediatric patients aged 2 years and older and weighing at least 10 kg.
+The pharmacokinetics, safety, and efficacy of maraviroc in patients younger than 2 years have not been established.
+Therefore, SELZENTRY is not recommended in this patient population.
+Additionally, there are insufficient data to make dosing recommendations for use of SELZENTRY in pediatric patients concomitantly receiving noninteracting medications and weighing less than 30 kg or in pediatric patients concomitantly receiving potent CYP3A inducers without a potent CYP3A inhibitor [see Dosage and Administration (2.4, 2.5)].
 
 ## 8.5 Geriatric Use
 
@@ -34,20 +55,24 @@ In general, caution should be exercised when administering SELZENTRY in elderly 
 
 ## 8.6 Renal Impairment
 
-Recommended doses of SELZENTRY for patients with impaired renal function (CrCl less than or equal to 80 mL per min) are based on the results of a pharmacokinetic trial conducted in healthy subjects with various degrees of renal impairment.
-The pharmacokinetics of maraviroc in subjects with mild and moderate renal impairment was similar to that in subjects with normal renal function [see Clinical Pharmacology (12.3)].
-A limited number of subjects with mild and moderate renal impairment in the Phase 3 clinical trials (n = 131 and n = 12, respectively) received the same dose of SELZENTRY as that administered to subjects with normal renal function.
+Recommended doses of SELZENTRY for adult patients with impaired renal function (CrCl less than or equal to 80 mL per minute) are based on the results of a pharmacokinetic trial conducted in healthy adult subjects with various degrees of renal impairment.
+Maraviroc has not been studied in pediatric patients with renal impairment.
+There are no data to recommend specific doses of SELZENTRY in pediatric patients with mild to moderate renal impairment [see Use in Specific Populations (8.4)].
+SELZENTRY is contraindicated in pediatric patients with severe renal impairment or ESRD on regular hemodialysis who are receiving potent CYP3A inhibitors [see Contraindications (4)].
+
+The pharmacokinetics of maraviroc in adult subjects with mild and moderate renal impairment was similar to that in subjects with normal renal function [see Clinical Pharmacology (12.3)].
+A limited number of adult subjects with mild and moderate renal impairment in the Phase 3 clinical trials (n = 131 and n = 12, respectively) received the same dose of SELZENTRY as that administered to subjects with normal renal function.
 In these subjects there was no apparent difference in the adverse event profile for maraviroc compared with subjects with normal renal function.
 
-If patients with severe renal impairment or ESRD not receiving a concomitant potent CYP3A inhibitor or inducer experience any symptoms of postural hypotension while taking SELZENTRY 300 mg twice daily, the dose should be reduced to 150 mg twice daily.
+If adult patients with severe renal impairment or ESRD not receiving a concomitant potent CYP3A inhibitor or inducer experience any symptoms of postural hypotension while taking SELZENTRY 300 mg twice daily, the dose should be reduced to 150 mg twice daily.
 No trials have been performed in subjects with severe renal impairment or ESRD co-treated with potent CYP3A inhibitors or inducers.
-Hence, no dose of SELZENTRY can be recommended, and SELZENTRY is contraindicated for these patients [see Dosage and Administration (2.2), Contraindications (4), Warnings and Precautions (5.2), Clinical Pharmacology (12.3)].
+Hence, no dose of SELZENTRY can be recommended, and SELZENTRY is contraindicated for these patients [see Dosage and Administration (2.3), Contraindications (4), Warnings and Precautions (5.3), Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
-Maraviroc is principally metabolized by the liver; therefore, caution should be exercised when administering this drug to patients with hepatic impairment, because maraviroc concentrations may be increased.
+Maraviroc is principally metabolized by the liver; therefore, when administering this drug to patients with hepatic impairment, maraviroc concentrations may be increased.
 Maraviroc concentrations are higher when SELZENTRY 150 mg is administered with a potent CYP3A inhibitor compared with following administration of 300 mg without a CYP3A inhibitor, so patients with moderate hepatic impairment who receive SELZENTRY 150 mg with a potent CYP3A inhibitor should be monitored closely for maraviroc-associated adverse events.
-Maraviroc has not been studied in subjects with severe hepatic impairment [see Warnings and Precautions (5.1), Clinical Pharmacology (12.3)].
+Maraviroc has not been studied in subjects with severe hepatic impairment or in pediatric patients with any degree of hepatic impairment [see Warnings and Precautions (5.1), Clinical Pharmacology (12.3)].
 
 ## 8.8 Gender
 
