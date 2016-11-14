@@ -2,7 +2,7 @@
 
 ## 5.1 Fatal Medication Errors
 
-Do not use this product as a “catheter lock flush” product.
+Do not use this product as a "catheter lock flush" product.
 Heparin is supplied in various strengths.
 Fatal hemorrhages have occurred due to medication errors.
 Carefully examine all heparin products to confirm the correct container choice prior to administration of the drug.

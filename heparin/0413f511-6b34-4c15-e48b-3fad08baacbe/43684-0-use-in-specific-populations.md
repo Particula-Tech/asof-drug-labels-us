@@ -30,7 +30,7 @@ Risk Summary
 
 There is no information regarding the presence of HEPARIN SODIUM IN 0.45% SODIUM CHLORIDE INJECTION in human milk, the effects on the breastfed infant, or the effects on milk production.
 Due to its large molecular weight, heparin is not likely to be excreted in human milk, and any heparin in milk would not be orally absorbed by a nursing infant.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for HEPARIN SODIUM IN 0.45% SODIUM CHLORIDE INJECTION and any potential adverse effects on the breastfed infant from HEPARIN SODIUM IN 0.45% SODIUM CHLORIDE INJECTION or from the underlying maternal condition [see Use in Specific Populations (8.4)].
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for HEPARIN SODIUM IN 0.45% SODIUM CHLORIDE INJECTION and any potential adverse effects on the breastfed infant from HEPARIN SODIUM IN 0.45% SODIUM CHLORIDE INJECTION or from the underlying maternal condition [see Use in Specific Populations (8.4)].
 
 ## 8.4 Pediatric Use
 

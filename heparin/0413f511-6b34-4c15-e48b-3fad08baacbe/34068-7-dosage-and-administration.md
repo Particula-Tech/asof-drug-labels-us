@@ -3,7 +3,7 @@
 ## 2.1 Preparation for Administration
 
 Confirm the selection of the correct formulation and strength prior to administration of the drug.
-Do not use Heparin Sodium in 0.45% Sodium Chloride Injection as a “catheter lock flush” product.
+Do not use Heparin Sodium in 0.45% Sodium Chloride Injection as a "catheter lock flush" product.
 
 Administer this product by intravenous infusion.
 
@@ -15,7 +15,7 @@ Parenteral drug products should be inspected visually for particulate matter and
 
 ## 2.2 Laboratory Monitoring for Efficacy and Safety
 
-Adjust the dosage of heparin sodium according to the patient’s coagulation test results.
+Adjust the dosage of heparin sodium according to the patient's coagulation test results.
 When heparin is given by continuous intravenous infusion, determine the coagulation time approximately every 4 hours in the early stages of treatment.
 When the drug is administered intermittently by intravenous injection, perform coagulation tests before each injection during the early stages of treatment and at appropriate intervals thereafter.
 Dosage is considered adequate when the activated partial thromboplastin time (APTT) is 1.5 to 2 times the normal or when the whole blood clotting time is elevated approximately 2.5 to 3 times the control value.
@@ -60,5 +60,5 @@ For patients currently receiving intravenous heparin, stop intravenous infusion 
 
 ## 2.8 Extracorporeal Dialysis
 
-Follow equipment manufacturer’s operating directions carefully.
-A dose of 25 to 30 units/kg followed by an infusion rate of 1,500 to 2,000 units/hour is suggested based on pharmacodynamic data if specific manufacturers’ recommendations are not available.
+Follow equipment manufacturer's operating directions carefully.
+A dose of 25 to 30 units/kg followed by an infusion rate of 1,500 to 2,000 units/hour is suggested based on pharmacodynamic data if specific manufacturers' recommendations are not available.
