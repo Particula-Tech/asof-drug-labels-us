@@ -26,7 +26,7 @@ Somnolence with XYZAL showed dose ordering between tested doses of 2.5, 5 and 10
 
 Table 1 lists adverse reactions that were reported in greater than or equal to 2% of subjects aged 12 years and older exposed to XYZAL 2.5 mg or 5 mg in eight placebo-controlled clinical trials and that were more common with XYZAL than placebo.
 
-Table 1 Adverse Reactions Reported in ≥ 2% Rounded to the closest unit percentage of Subjects Aged 12 Years and Older Exposed to XYZAL 2.5 mg or 5 mg Once Daily in Placebo-Controlled Clinical Trials 1-6 Weeks in Duration
+Table 1 Adverse Reactions Reported in ≥ 2%Rounded to the closest unit percentage of Subjects Aged 12 Years and Older Exposed to XYZAL 2.5 mg or 5 mg Once Daily in Placebo-Controlled Clinical Trials 1-6 Weeks in Duration
 
 | Adverse Reactions | XYZAL 2.5 mg (n = 421) | XYZAL 5 mg (n = 1070) | Placebo (n = 912) |
 | --- | --- | --- | --- |
@@ -44,7 +44,7 @@ A total of 243 pediatric patients 6 to 12 years of age received XYZAL 5 mg once 
 The mean age of the patients was 9.8 years, 79 (32%) were 6 to 8 years of age, and 50% were Caucasian.
 Table 2 lists adverse reactions that were reported in greater than or equal to 2% of subjects aged 6 to 12 years exposed to XYZAL 5 mg in placebo-controlled clinical trials and that were more common with XYZAL than placebo.
 
-Table 2 Adverse Reactions Reported in ≥2% Rounded to the closest unit percentage of Subjects Aged 6-12 Years Exposed to XYZAL 5 mg Once Daily in Placebo-Controlled Clinical Trials 4 and 6 Weeks in Duration
+Table 2 Adverse Reactions Reported in ≥2%Rounded to the closest unit percentage of Subjects Aged 6-12 Years Exposed to XYZAL 5 mg Once Daily in Placebo-Controlled Clinical Trials 4 and 6 Weeks in Duration
 
 | Adverse Reactions | XYZAL 5 mg (n = 243) | Placebo (n = 240) |
 | --- | --- | --- |
@@ -59,7 +59,7 @@ A total of 114 pediatric patients 1 to 5 years of age received XYZAL 1.25 mg twi
 The mean age of the patients was 3.8 years, 32% were 1 to 2 years of age, 71% were Caucasian and 18% were Black.
 Table 3 lists adverse reactions that were reported in greater than or equal to 2% of subjects aged 1 to 5 years exposed to XYZAL 1.25 mg twice daily in the placebo-controlled safety trial and that were more common with XYZAL than placebo.
 
-Table 3 Adverse Reactions Reported in ≥2% Rounded to the closest unit percentage of Subjects Aged 1-5 Years Exposed to XYZAL 1.25 mg Twice Daily in a 2-Week Placebo-Controlled Clinical Trial
+Table 3 Adverse Reactions Reported in ≥2%Rounded to the closest unit percentage of Subjects Aged 1-5 Years Exposed to XYZAL 1.25 mg Twice Daily in a 2-Week Placebo-Controlled Clinical Trial
 
 | Adverse Reactions | XYZAL 1.25 mg Twice Daily (n = 114) | Placebo (n = 59) |
 | --- | --- | --- |
@@ -94,4 +94,4 @@ Because these reactions are reported voluntarily from a population of uncertain 
 Adverse reactions of hypersensitivity and anaphylaxis, increased appetite, angioedema, fixed drug eruption, pruritus, rash and urticaria, convulsion, paraesthesia, dizziness, tremor, dysgeusia, vertigo, movement disorders (including dystonia and oculogyric crisis), aggression and agitation, hallucinations, depression, insomnia, suicidal ideation, visual disturbances, blurred vision, palpitations, tachycardia, dyspnea, nausea, vomiting, hepatitis, dysuria, urinary retention, myalgia, arthralgia, and edema have been reported.
 
 Besides these reactions reported under treatment with XYZAL, other potentially severe adverse events have been reported from the post-marketing experience with cetirizine.
-Since levocetirizine is the principal pharmacologically active component of cetirizine, one should take into account the fact that the following adverse events could also potentially occur under treatment with XYZAL: orofacial dyskinesia, severe hypotension, cholestasis, glomerulonephritis, still birth, tic, myoclonus, and extrapyramidal symptoms.
+Since levocetirizine is the principal pharmacologically active component of cetirizine, one should take into account the fact that the following adverse events could also potentially occur under treatment with XYZAL: orofacial dyskinesia, severe hypotension, cholestasis, glomerulonephritis, still birth, tic, myoclonus, extrapyramidal symptoms, and acute generalized exanthematous pustulosis (AGEP).

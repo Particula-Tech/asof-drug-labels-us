@@ -18,7 +18,7 @@ One trial was 2 weeks in duration conducted in patients with seasonal allergic r
 In these trials, each of the three doses of XYZAL demonstrated greater decrease in the reflective total symptom score than placebo and the difference was statistically significant for all three doses in two of the studies.
 Results for two of these trials are shown in Table 4.
 
-Table 4 Mean Reflective Total Symptom Score Total symptom score is the sum of individual symptoms of sneezing, rhinorrhea, nasal pruritus, and ocular pruritus as assessed by patients on a 0-3 categorical severity scale. in Allergic Rhinitis Dose-Ranging Trials
+Table 4 Mean Reflective Total Symptom ScoreTotal symptom score is the sum of individual symptoms of sneezing, rhinorrhea, nasal pruritus, and ocular pruritus as assessed by patients on a 0-3 categorical severity scale. in Allergic Rhinitis Dose-Ranging Trials
 
 | Estimate | 95% CI | p-value |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -43,7 +43,7 @@ Another trial conducted over a 6-month treatment period assessed efficacy at 4 w
 XYZAL 5 mg demonstrated a greater decrease from baseline in the reflective total symptom score than placebo and the difference from placebo was statistically significant.
 Results of one of these trials are shown in Table 5.
 
-Table 5 Mean Reflective Total Symptom Score Total symptom score is the sum of individual symptoms of sneezing, rhinorrhea, nasal pruritus, and ocular pruritus as assessed by patients on a 0-3 categorical severity scale. and Instantaneous Total Symptom Score in Allergic Rhinitis Trials
+Table 5 Mean Reflective Total Symptom ScoreTotal symptom score is the sum of individual symptoms of sneezing, rhinorrhea, nasal pruritus, and ocular pruritus as assessed by patients on a 0-3 categorical severity scale. and Instantaneous Total Symptom Score in Allergic Rhinitis Trials
 
 | Estimate | 95% CI | p-value |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |

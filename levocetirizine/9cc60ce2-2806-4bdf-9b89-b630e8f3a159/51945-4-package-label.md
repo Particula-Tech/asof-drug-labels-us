@@ -17,7 +17,7 @@ NDC 50474-921-05
 1 x 5 oz.
 (148 mL) polypropylene bottle
 
-XYZAL ® (levocetirizine dihydrochloride) oral solution 2.5 mg/5 mL (0.5 mg/mL)
+XYZAL® (levocetirizine dihydrochloride) oral solution 2.5 mg/5 mL (0.5 mg/mL)
 
 Rx Only
 

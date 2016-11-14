@@ -22,10 +22,10 @@ The 1.25 mg once daily dose should not be exceeded based on comparable exposure 
 
 In adults and children 12 years of age and older with:
 
-- Mild renal impairment (creatinine clearance [CL CR] = 50-80 mL/min): a dose of 2.5 mg once daily is recommended;
-- Moderate renal impairment (CL CR = 30-50 mL/min): a dose of 2.5 mg once every other day is recommended;
-- Severe renal impairment (CL CR = 10-30 mL/min): a dose of 2.5 mg twice weekly (administered once every 3-4 days) is recommended;
-- End-stage renal disease patients (CL CR < 10 mL/min) and patients undergoing hemodialysis should not receive XYZAL.
+- Mild renal impairment (creatinine clearance [CLCR] = 50-80 mL/min): a dose of 2.5 mg once daily is recommended;
+- Moderate renal impairment (CLCR = 30-50 mL/min): a dose of 2.5 mg once every other day is recommended;
+- Severe renal impairment (CLCR = 10-30 mL/min): a dose of 2.5 mg twice weekly (administered once every 3-4 days) is recommended;
+- End-stage renal disease patients (CLCR < 10 mL/min) and patients undergoing hemodialysis should not receive XYZAL.
 
 No dose adjustment is needed in patients with solely hepatic impairment.
 In patients with both hepatic impairment and renal impairment, adjustment of the dose is recommended.

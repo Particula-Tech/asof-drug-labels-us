@@ -2,7 +2,7 @@
 
 ## 1.1 Seasonal Allergic Rhinitis
 
-XYZAL ® is indicated for the relief of symptoms associated with seasonal allergic rhinitis in adults and children 2 years of age and older.
+XYZAL® is indicated for the relief of symptoms associated with seasonal allergic rhinitis in adults and children 2 years of age and older.
 
 ## 1.2 Perennial Allergic Rhinitis
 
