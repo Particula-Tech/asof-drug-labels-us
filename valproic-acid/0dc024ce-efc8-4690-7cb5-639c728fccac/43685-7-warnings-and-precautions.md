@@ -27,7 +27,7 @@ Depakote ER is contraindicated in patients known to have mitochondrial disorders
 Valproate-induced acute liver failure and liver-related deaths have been reported in patients with hereditary neurometabolic syndromes caused by mutations in the gene for mitochondrial DNA polymerase γ (POLG) (e.g., Alpers-Huttenlocher Syndrome) at a higher rate than those without these syndromes.
 Most of the reported cases of liver failure in patients with these syndromes have been identified in children and adolescents.
 
-POLG-related disorders should be suspected in patients with a family history or suggestive symptoms of a POLG-related disorder, including but not limited to unexplained encephalopathy, refractory epilepsy (focal, myoclonic), status epilepticus at presentation, developmental delays, psychomotor regression, axonal sensorimotor neuropathy, myopathy cerebellar ataxia, opthalmoplegia, or complicated migraine with occipital aura.
+POLG-related disorders should be suspected in patients with a family history or suggestive symptoms of a POLG-related disorder, including but not limited to unexplained encephalopathy, refractory epilepsy (focal, myoclonic), status epilepticus at presentation, developmental delays, psychomotor regression, axonal sensorimotor neuropathy, myopathy cerebellar ataxia, ophthalmoplegia, or complicated migraine with occipital aura.
 POLG mutation testing should be performed in accordance with current clinical practice for the diagnostic evaluation of such disorders.
 The A467T and W748S mutations are present in approximately 2/3 of patients with autosomal recessive POLG-related disorders.
 

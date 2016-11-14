@@ -280,6 +280,8 @@ Depakene Oral solution:
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: September 2016
+©2016 AbbVie Inc.
 
-03-B389
+Revised: November 2016
+
+03-B437
