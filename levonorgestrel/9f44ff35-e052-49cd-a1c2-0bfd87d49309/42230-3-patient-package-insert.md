@@ -250,7 +250,7 @@ Be sure to call if you:
 - •Have unusual vaginal discharge or genital sores
 - •Have unexplained fever, flu-like symptoms or chills
 - •Might be exposed to sexually transmitted infections (STIs)
-- •Cannot feel Skyla 's threads
+- •Cannot feel Skyla's threads
 - •Develop very severe or migraine headaches
 - •Have yellowing of the skin or whites of the eyes.
   These may be signs of liver problems.

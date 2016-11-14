@@ -38,7 +38,7 @@ Less than 2 % of the circulating LNG is present as free steroid.
 ### Metabolism
 
 Following absorption, LNG is conjugated at the 17β-OH position to form sulfate conjugates and, to a lesser extent, glucuronide conjugates in serum.
-Significant amounts of conjugated and unconjugated 3α, 5β-tetrahydroLNG are also present in serum, along with much smaller amounts of 3α, 5α-tetrahydrolevonorgestrel and 16β-hydroxylevonorgestrel.
+Significant amounts of conjugated and unconjugated 3α, 5β-tetrahydrolevonorgestrel are also present in serum, along with much smaller amounts of 3α, 5α-tetrahydrolevonorgestrel and 16β-hydroxylevonorgestrel.
 LNG and its phase I metabolites are excreted primarily as glucuronide conjugates.
 Metabolic clearance rates may differ among individuals by several-fold, and this may account in part for wide individual variations in LNG concentrations seen in individuals using LNG–containing contraceptive products.
 In vitro studies have demonstrated that oxidative metabolism of LNG is catalyzed by CYP enzymes, especially CYP3A4.

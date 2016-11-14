@@ -2,14 +2,14 @@
 
 See FDA-approved patient labeling (Patient Information)
 
-- •Counsel the patient that this product does not protect against HIV infection (AIDS) and other sexually transmitted diseases (STDs).
+- •Counsel the patient that this product does not protect against HIV infection (AIDS) and other sexually transmitted infections (STIs).
 - •Counsel the patient on the benefits, risks, and side effects of Skyla prior to insertion.
   Provide the Patient Information Booklet and give her the opportunity to read the information and discuss fully any questions she may have concerning Skyla as well as other methods of contraception.
   Advise the patient that the Full Prescribing Information is available to her upon request.
 - •Inform the patient about the risks of ectopic pregnancy, including the loss of fertility.
   Teach her to recognize and report to her healthcare provider promptly any symptoms of ectopic pregnancy.
-- •Inform the patient about the possibility of PID and that PID can cause tubal damage leading to ectopic pregnancy or infertility, or infrequently can necessitate hysterectomy, or cause death.
-  Teach patients to recognize and report to their physician promptly any symptoms of pelvic inflammatory disease.
+- •Inform the patient about the possibility of pelvic inflammatory disease (PID) and that PID can cause tubal damage leading to ectopic pregnancy or infertility, or infrequently can necessitate hysterectomy, or cause death.
+  Teach patients to recognize and report to their healthcare provider promptly any symptoms of PID.
   These symptoms include development of menstrual disorders (prolonged or heavy bleeding), unusual vaginal discharge, abdominal or pelvic pain or tenderness, dyspareunia, chills, and fever.
 - •Counsel the patient that irregular or prolonged bleeding and spotting, and/or cramps may occur during the first few weeks after insertion.
   If her symptoms continue or are severe she should report them to her healthcare provider.

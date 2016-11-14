@@ -93,8 +93,8 @@ Table 1: Bleeding Patterns Reported with Skyla in Contraception Studies (by 90-d
 | AmenorrheaDefined as subjects with no bleeding/spotting throughout the 90-day reference period | <1% | 3% | 6% | 12% |
 | Infrequent bleedingDefined as subjects with 1 or 2 bleeding/spotting episodes in the 90-day reference period | 8% | 19% | 20% | 22% |
 | Frequent bleedingDefined as subjects with more than 5 bleeding/spotting episodes in the 90-day reference period | 31% | 12% | 8% | 4% |
-| Prolonged bleedingDefined as subjects with bleeding/spotting episodes lasting more than 14 days in the 90-day reference period. Subjects with prolonged bleeding may also be included in one of the other categories (excluding amenorrhea) | 59% | 17% | 9% | 3% |
-| Irregular bleedingDefined as subjects with 3 to 5 bleeding/spotting episodes and less than 3 bleeding/spotting-free intervals of 14 or more days | 42% | 28% | 23% | –The End of year 3 result for irregular bleeding in particular is artificially inflated (46%) because removal was not timed to coincide with a complete 90-day reference period. The result from the preceding 90-day reference period (17%) provides a more relevant indication of the observed incidence near the end of the 3-year period. |
+| Prolonged bleedingDefined as subjects with bleeding/spotting episodes lasting more than 14 days in the 90-day reference period. Subjects with prolonged bleeding may also be included in one of the other categories (excluding amenorrhea)6 Subjects with irregular and prolonged bleeding may also be included in one of the other categories (excluding amenorrhea). | 55% | 14% | 6% | 2% |
+| Irregular bleedingDefined as subjects with 3 to 5 bleeding/spotting episodes and less than 3 bleeding/spotting-free intervals of 14 or more days | 39% | 25% | 18% | 15% |
 
 Table 2: Mean number of Bleeding and Spotting Days per 28-day Cycle Equivalent
 
@@ -135,7 +135,7 @@ In clinical trials, a 3-year expulsion rate of 3.2% (54 out of 1665 subjects) wa
 
 Delay Skyla insertion a minimum of six weeks or until uterine involution is complete following a delivery or a second trimester abortion.
 Remove a partially expelled Skyla.
-If expulsion has occurred, Skyla may be replaced within 7 days of a menstrual period after pregnancy has been ruled out.
+If expulsion has occurred, Skyla may be replaced within 7 days after the onset of a menstrual period after pregnancy has been ruled out.
 
 ## 5.8 Ovarian Cysts
 
@@ -143,7 +143,7 @@ Because the contraceptive effect of Skyla is mainly due to its local effects wit
 During clinical trials, ovarian cysts (reported as adverse reactions if they were abnormal, non-functional cysts and/or had a diameter >3 cm on ultrasound examination) were reported in 13.2% of women using Skyla.
 Most of these cysts are asymptomatic, although some may be accompanied by pelvic pain or dyspareunia.
 In most cases the ovarian cysts disappear spontaneously during two to three months observation.
-Persistent ovarian cysts should be evaluated.
+Evaluate persistent ovarian cysts.
 Surgical intervention is not usually required.
 
 ## 5.9 Breast Cancer

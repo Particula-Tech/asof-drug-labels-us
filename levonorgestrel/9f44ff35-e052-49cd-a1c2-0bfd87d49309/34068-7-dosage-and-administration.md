@@ -19,7 +19,7 @@ Use strict aseptic techniques throughout the insertion procedure [see Warnings a
   Once released, Skyla cannot be re-loaded.
 - •Skyla should be inserted by a trained healthcare provider.
   Healthcare providers should become thoroughly familiar with the insertion instructions before attempting insertion of Skyla.
-- •Insertion may be associated with some pain and/or bleeding or vasovagal reactions (for example, syncope, bradycardia) or seizure in an epileptic patient, especially in patients with a predisposition to these conditions.
+- •Insertion may be associated with some pain and/or bleeding or vasovagal reactions (for example, syncope, bradycardia) or seizure in an epileptic patient, especially in patients with a predisposition to these symptoms.
   Consider administering analgesics prior to insertion.
 
 ### Timing of Insertion
@@ -89,8 +89,6 @@ Ensure use of aseptic technique throughout the entire procedure.
 
 - •Holding the slider in this forward position, set the upper edge of the flange to correspond to the uterine depth (in centimeters) measured during sounding (Figure 3).
 
-Figure 3: Setting the flange
-
 #### Step 4–Skyla is now ready to be inserted
 
 - •Continue holding the slider in this forward position.
@@ -111,9 +109,6 @@ If you encounter fundal resistance do not continue to advance.
 Skyla is now in the fundal position (Figure 6).
 Fundal positioning of Skyla is important to prevent expulsion.
 
-Figure 6.
-Move Skyla into the fundal position
-
 #### Step 7–Release Skyla and withdraw the inserter
 
 - •Holding the entire inserter firmly in place, release Skyla by moving the slider all the way down (Figure 7).
@@ -133,11 +128,11 @@ Move Skyla into the fundal position
 - •If you suspect that Skyla is not in the correct position, check placement (for example, using transvaginal ultrasound).
   Remove Skyla if it is not positioned completely within the uterus.
   A removed Skyla must not be re-inserted.
-- •If there is clinical concern, exceptional pain or bleeding during or after insertion, appropriate steps should be taken immediately to exclude perforation, such as physical examination and ultrasound.
+- •If there is clinical concern, exceptional pain or bleeding during or after insertion, appropriate steps (such as physical examination and ultrasound) should be taken immediately to exclude perforation.
 
 ## 2.2 Patient Follow-up
 
-- •Patients should be reexamined and evaluated 4 to 6 weeks after insertion and once a year thereafter, or more frequently if clinically indicated.
+- •Reexamine and evaluate patients 4 to 6 weeks after insertion and once a year thereafter, or more frequently if clinically indicated.
 
 ## 2.3 Removal of Skyla
 
@@ -167,12 +162,12 @@ Move Skyla into the fundal position
 - •If the threads are not visible, determine location of Skyla by ultrasound [see Warnings and Precautions (5.10)].
 - •If Skyla is found to be in the uterine cavity on ultrasound exam, it may be removed using a narrow forceps, such as an alligator forceps.
   This may require dilation of the cervical canal.
-  After removal of Skyla, the system should be examined to ensure that it is intact.
+  After removal of Skyla, examine the system to ensure that it is intact.
 - •Removal may be associated with some pain and/or bleeding or vasovagal reactions (for example, syncope, or a seizure in an epileptic patient).
 
 ## 2.4 Continuation of Contraception after Removal
 
 - •If pregnancy is not desired and if a woman wishes to continue using Skyla, a new system can be inserted immediately after removal any time during the cycle.
 - •If a patient with regular cycles wants to start a different birth control method, time removal and initiation of new method to ensure continuous contraception.
-  Either remove Skyla during the first 7 days of the menstrual cycle and start the new method or start the new method at least 7 days prior to removing Skyla if removal is to occur at other times during the cycle.
+  Either remove Skyla during the first 7 days of the menstrual cycle and start the new method immediately thereafter or start the new method at least 7 days prior to removing Skyla if removal is to occur at other times during the cycle.
 - •If a patient with irregular cycles or amenorrhea wants to start a different birth control method, start the new method at least 7 days before removal.

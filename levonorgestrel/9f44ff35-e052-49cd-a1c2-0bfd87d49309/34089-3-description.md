@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Skyla (LNG-releasing intrauterine system) contains 13.5 mg of LNG, a progestin, and is intended to provide an initial release rate of approximately14 mcg/day of LNG after 24 days.
+Skyla (levonorgestrel-releasing intrauterine system) contains 13.5 mg of LNG, a progestin, and is intended to provide an initial release rate of approximately14 mcg/day of LNG after 24 days.
 
 Levonorgestrel USP, (-)-13-Ethyl-17-hydroxy-18,19-dinor-17α-pregn-4-en-20-yn-3-one, the active ingredient in Skyla, has a molecular weight of 312.4, a molecular formula of C21H28O2, and the following structural formula:
 
