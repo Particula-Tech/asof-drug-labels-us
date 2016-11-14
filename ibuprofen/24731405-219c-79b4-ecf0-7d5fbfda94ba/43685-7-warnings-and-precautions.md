@@ -4,17 +4,28 @@
 
 ### Cardiovascular Thrombotic Events
 
-Clinical trials of several COX-2 selective and nonselective NSAIDsof up to three years duration have shown an increased risk of seriouscardiovascular (CV) thrombotic events, myocardial infarction, andstroke, which can be fatal.
-All NSAIDs, both COX-2 selective and nonselective,may have a similar risk.
-Patients with known CV disease orrisk factors for CV disease may be at greater risk.
-To minimize thepotential risk for an adverse CV event in patients treated with anNSAID, the lowest effective dose should be used for the shortestduration possible.
-Physicians and patients should remain alert for thedevelopment of such events, even in the absence of previous CVsymptoms.
-Patients should be informed about the signs and/orsymptoms of serious CV events and the steps to take if they occur.
+Clinical trials of several COX-2 selective and nonselective NSAIDs of up to three years duration have shown an increased risk of serious cardiovascular (CV) thrombotic events, including myocardial infarction (MI), and stroke, which can be fatal.
+Based on available data, it is unclear that the risk for CV thrombotic events is similar for all NSAIDs.The relative increase in serious CV thrombotic events over baseline conferred by NSAID use appears to be similar in those with and without known CV disease or risk factors for CV disease.
+However, patients with known CV disease or risk factors had a higher absolute incidence of excess serious CV thrombotic events, due to their increased baseline rate.
+Some observational studies found that this increased risk of serious CV thrombotic events began as early as the first weeks of treatment.
+The increase in CV thrombotic risk has been observed most consistently at higher doses.
 
-There is no consistent evidence that concurrent use of aspirin mitigatesthe increased risk of serious CV thrombotic events associatedwith NSAID use.
-The concurrent use of aspirin and an NSAID doesincrease the risk of serious GI events (see GI WARNINGS).
+To minimize the potential risk for an adverse CV event in NSAID-treated patients, use the lowest effective dose for the shortest duration possible.
+Physicians and patients should remain alert for the development of such events, throughout the entire treatment course, even in the absence of previous CV symptoms.
+Patients should be informed about the symptoms of serious CV events and the steps to take if they occur.
 
-Two large, controlled clinical trials of a COX-2 selective NSAID forthe treatment of pain in the first 10-14 days following CABG surgeryfound an increased incidence of myocardial infarction and stroke (see CONTRAINDICATIONS).
+There is no consistent evidence that concurrent use of aspirin mitigates the increased risk of serious CV thrombotic events associated with NSAID use.
+The concurrent use of aspirin and an NSAID, such as ibuprofen, increases the risk of serious gastrointestinal (GI) events (see WARNINGS).
+
+Status Post Coronary Bypass Graft (CABG) Surgery Two large, controlled clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10-14 days following CABG surgery found an increased incidence of myocardial infarction and stroke.
+NSAIDs are contraindicated in the setting of CABG (see CONTRAINDICATIONS).
+
+Post-MI Patients Observational studies conducted in the Danish National Registry have demonstrated that patients treated with NSAIDs in the post-MI period were at increased risk of reinfarction, CV-related death, and all-cause mortality beginning in the first week of treatment.
+In this same cohort, the incidence of death in the first year post MI was 20 per 100 person years in NSAID-treated patients compared to 12 per 100 person years in non-NSAID exposed patients.
+Although the absolute rate of death declined somewhat after the first year post-MI, the increased relative risk of death in NSAID users persisted over at least the next four years to follow-up.
+
+Avoid the use of Ibuprofen in patients with a recent MI unless the benefits are expected to outweigh the risk of recurrent CV thrombotic events.
+If Ibuprofen is used in patients with a recent MI, monitor patients for signs of cardiac ischemia.
 
 ### Hypertension
 
@@ -23,10 +34,14 @@ Patients takingthiazides or loop diuretics may have impaired response to these t
 NSAIDs, including IBU tablets, should beused with caution in patients with hypertension.
 Blood pressure (BP)should be monitored closely during the initiation of NSAID treatmentand throughout the course of therapy.
 
-### Congestive Heart Failure and Edema
+### Heart Failure and Edema
 
-Fluid retention and edema have been observed in some patients taking NSAIDs.
-IBU tablets should be used with caution in patients with fluid retention or heart failure.
+The Coxib and traditional NSAID Trialists’ Collaboration meta-analysis of randomized controlled trails demonstrated an approximately two-fold increase in hospitalizations for heart failure in COX-2 selective-treated patients and nonselective NSAID-treated patients compared to placebo-treated patients.
+In a Danish National Registry study of patients with heart failure, NSAID use increased the risk of MI, hospitalization for heart failure, and death.
+Additionally, fluid retention and edema have been observed in some patients treated with NSAIDs.
+Use of ibuprofen may blunt the CV effects of several therapeutic agents used to treat these medical conditions [e.g., diuretics, ACE inhibitors, or angiotensin receptor blockers (ARBs)] [See DRUG INTERACTIONS].
+Avoid the use of IBU tablets in patients with severe heart failure unless the benefits are expected to outweigh the risk of worsening heart failure.
+If IBU tablets is used in patients with severe heart failure, monitor patients for signs of worsening heart failure.
 
 ### Gastrointestinal Effects - Risk of Ulceration, Bleeding, and Perforation
 
@@ -125,9 +140,7 @@ If signs orsymptoms of meningitis develop in a patient on IBU tablets, the possi
 Patients should be informed of the following information beforeinitiating therapy with an NSAID and periodically during the course ofongoing therapy.
 Patients should also be encouraged to read theNSAID Medication Guide that accompanies each prescription dispensed
 
-• IBU tablets like other NSAIDs, may cause serious CV side effects,such as MI or stroke, which may result in hospitalization and evendeath.
-Although serious CV events can occur without warningsymptoms, patients should be alert for the signs and symptoms ofchest pain, shortness of breath, weakness, slurring of speech, andshould ask for medical advice when observing any indicative sign orsymptoms.
-Patients should be apprised of the importance of thisfollow-up (see WARNINGS,Cardiovascular Effects).
+• Cardiovascular Thrombotic Events: Advise patients to be alert for the symptoms of cardiovascular thrombotic events, including chest pain, shortness of breath, weakness, or slurring of speech, and to report any of these symptoms to their health care provider immediately [see WARNINGS].
 
 • IBU tablets, like other NSAIDs, can cause GI discomfort and, rarely,serious GI side effects, such as ulcers and bleeding, which mayresult in hospitalization and even death.
 Although serious GI tractulcerations and bleeding can occur without warning symptoms,patients should be alert for the signs and symptoms of ulcerationsand bleeding, and should ask for medical advice when observingany indicative signs or symptoms including epigastric pain, dyspepsia,melena, and hematemesis.
@@ -137,7 +150,7 @@ Patients should be apprised of theimportance of this follow-up (see WARNINGS,Gas
 Although serious skin reactions mayoccur without warning, patients should be alert for the signs andsymptoms of skin rash and blisters, fever, or other signs of hypersensitivitysuch as itching, and should ask for medical advice whenobserving any indicative sign or symptoms.
 Patients should beadvised to stop the drug immediately if they develop any type ofrash and contact their physicians as soon as possible.
 
-• Patients should promptly report signs or symptoms of unexplainedweight gain or edema to their physicians.
+• Heart Failure and Edema: Advise patients to be alert for the symptoms of congestive heart failure including shortness of breath, unexplained weight gain, or edema and to contact their healthcare provider if such symptoms occur [see WARNINGS].
 
 • Patients should be informed of the warning signs and symptoms ofhepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, jaundice,right upper quadrant tenderness and “flu-like” symptoms).
 If theseoccur, patients should be instructed to stop therapy and seek immediatemedical therapy.

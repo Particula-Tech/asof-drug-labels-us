@@ -1,12 +1,12 @@
 # BOXED WARNING
 
-Cardiovascular Risk
+Cardiovascular Thrombotic Events
 
-- NSAIDs may cause an increased risk of serious cardiovascularthrombotic events, myocardial infarction, and stroke,which can be fatal.
-  This risk may increase with duration ofuse.
-  Patients with cardiovascular disease or risk factors forcardiovascular disease may be at greater risk (See WARNINGS).
+- Nonsteroidal anti-inflammatory drugs (NSAIDs) cause an increased risk of serious cardiovascular thrombotic events, including myocardial infarction and stroke, which can be fatal.
+  This risk may occur early in treatment and may increase with duration of use.
+  (See WARNINGS and PRECAUTIONS).
 
-- IBU tablets are contraindicated for treatment of peri-operativepain in the setting of coronary artery bypass graft (CABG)surgery (See WARNINGS).
+- IBU tablets are contraindicated in the setting of coronary artery bypass graft (CABG) surgery (See CONTRAINDICATIONS and WARNINGS).
 
 Gastrointestinal Risk
 
