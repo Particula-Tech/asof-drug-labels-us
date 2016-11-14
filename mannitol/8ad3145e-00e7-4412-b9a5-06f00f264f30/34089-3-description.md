@@ -1,14 +1,11 @@
 # DESCRIPTION
 
-Mannitol I.V.
-(Mannitol Injection, USP) is a sterile, nonpyrogenic solution of mannitol in water for injection available in concentrations of 5%, 10%, 15%, 20% in flexible plastic containers and 25% in a fliptop vial for administration by intravenous infusion only.
+Mannitol intravenous (Mannitol Injection, USP) is a sterile, nonpyrogenic solution of mannitol in water for injection available in concentrations of 15%, 20% in flexible plastic containers and 25% in a fliptop vial for administration by intravenous infusion only.
 
 The content and characteristics of the available concentrations are as follows:
 
 | Conc. (%) | g/100 mL | mOsmol/liter (calc.) | pH* |
 | --- | --- | --- | --- |
-| 5 | 5 | 274 | 6.3 (4.5 to 7.0) |
-| 10 | 10 | 549 | 6.3 (4.5 to 7.0) |
 | 15 | 15 | 823 | 6.3 (4.5 to 7.0) |
 | 20 | 20 | 1098 | 6.3 (4.5 to 7.0) |
 | 25 | 25 | 1372 | 5.9 (4.5 to 7.0) |

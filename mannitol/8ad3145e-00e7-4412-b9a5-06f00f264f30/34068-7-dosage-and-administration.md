@@ -1,13 +1,12 @@
 # DOSAGE AND ADMINISTRATION
 
-Mannitol I.V.
-(Mannitol Injection, USP) should be administered only by intravenous infusion.
+Mannitol intravenous (Mannitol Injection, USP) should be administered only by intravenous infusion.
 The total dosage, concentration and rate of administration should be governed by the nature and severity of the condition being treated, fluid requirement and urinary output.
 The usual adult dosage ranges from 50 to 200 g in a 24-hour period, but in most instances an adequate response will be achieved at a dosage of approximately 100 g/24 hours.
 The rate of administration is usually adjusted to maintain a urine flow of at least 30 to 50 mL/hr.
 The total dose should be adjusted according to the clinical response and adverse events (see WARNINGS).
 
-Test Dose: A test dose of mannitol should be given prior to instituting Mannitol I.V. therapy for patients with marked oliguria or those believed to have inadequate renal function.
+Test Dose: A test dose of mannitol should be given prior to instituting Mannitol intravenous therapy for patients with marked oliguria or those believed to have inadequate renal function.
 In adults the dose is 0.2 g/kg body weight.
 In pediatric patients the dose is 0.2 g/kg body weight or 6 g/m2 body surface area.
 The infusion is given as a 15% to 25% solution over a period of 3 to 5 minutes to produce a urine flow of at least 30 to 50 mL/hour.

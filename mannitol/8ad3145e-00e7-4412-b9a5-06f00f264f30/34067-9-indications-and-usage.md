@@ -1,7 +1,6 @@
 # INDICATIONS AND USAGE
 
-Mannitol I.V.
-(Mannitol Injection, USP) is indicated for the following purposes in adults and pediatric patients.
+Mannitol intravenous (Mannitol Injection, USP) is indicated for the following purposes in adults and pediatric patients.
 
 Therapeutic Use
 

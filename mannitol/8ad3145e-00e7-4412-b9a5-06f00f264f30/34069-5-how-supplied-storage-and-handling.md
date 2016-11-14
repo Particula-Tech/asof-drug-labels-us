@@ -1,16 +1,13 @@
 # HOW SUPPLIED
 
-Mannitol I.V.
-(Mannitol Injection, USP) is supplied in single-dose containers as follows:
+Mannitol intravenous (Mannitol Injection, USP) is supplied in single-dose containers as follows:
 
-| NDC No. | Conc. % | Size (mL) |
+| Unit of Sale | Concentration | Each |
 | --- | --- | --- |
-| 0409–7712–09 | 5 | 1000 Flexible Container |
-| 0409–7713–09 | 10 | 1000 Flexible Container |
-| 0409–7714–03 | 15 | 500 Flexible Container |
-| 0409–7715–02 | 20 | 250 Flexible Container |
-| 0409–7715–03 | 20 | 500 Flexible Container |
-| 0409–4031–01 | 25 | 50 Fliptop Vial |
+| NDC 0409-4031-01 Tray containing 25 | 12.5 g/50 mL (250 mg/mL) | NDC 0409-4031-16 50 mL Single-dose Fliptop Vial |
+| NDC 0409-7714-03 Case containing 12 | 75 g/500 mL (150 mg/mL) | NDC 0409-7714-13 500 mL Flexible Container |
+| NDC 0409-7715-03 Case containing 12 | 100 g/500 mL (200 mg/mL) | NDC 0409-7715-13 500 mL Flexible Container |
+| NDC 0409-7715-02 Case containing 24 | 50 g/250 mL (200 mg/mL) | NDC 0409-7715-12 250 mL Flexible Container |
 
 NOTE: Crystals may form in mannitol solutions especially if the solutions are chilled.
 To dissolve crystals in the flexible container, warm the unit to 70°C with agitation.
@@ -26,8 +23,8 @@ Protect from freezing.
 Store at 20 to 25°C (68 to 77°F).
 [See USP Controlled Room Temperature.]
 
-| Revised: June, 2009 |  |  |
-| --- | --- | --- |
-| Printed in USA | EN-2164 |  |
+EN-4083
+
+12/2015
 
 Hospira, Inc., Lake Forest, IL 60045 USA

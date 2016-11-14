@@ -5,7 +5,7 @@
 2. The obligatory diuretic response following rapid infusion of 25% mannitol may further aggravate pre-existing hemoconcentration.
    Excessive loss of water and electrolytes may lead to serious imbalances.
    Serum sodium and potassium should be carefully monitored during mannitol administration.
-3. If urine output continues to decline during mannitol infusion, the patient’s clinical status should be closely reviewed and mannitol infusion suspended if necessary.
+3. If urine output continues to decline during mannitol infusion, the patient's clinical status should be closely reviewed and mannitol infusion suspended if necessary.
    Accumulation of mannitol may result in overexpansion of the extracellular fluid which may intensify existing or latent congestive heart failure.
 4. Excessive loss of water and electrolytes may lead to serious imbalances.
    With continued administration of mannitol, loss of water in excess of electrolytes can cause hypernatremia.
