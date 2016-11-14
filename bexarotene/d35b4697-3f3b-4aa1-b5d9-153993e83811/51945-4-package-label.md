@@ -4,6 +4,9 @@ NDC 0187-5525-60
 
 Targretin® (bexarotene) 1% gel
 
-net wt 60 grams
+Net Wt.
+60 grams
 
-Valeant Pharmaceuticals North America LLC
+1. Not for Opthalmic Use For Topical Use Only
+
+VALEANT

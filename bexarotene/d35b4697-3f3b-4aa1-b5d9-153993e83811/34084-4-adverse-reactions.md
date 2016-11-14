@@ -1,7 +1,7 @@
 # ADVERSE REACTIONS
 
-The safety of Targretin® gel has been assessed in clinical studies of 117 patients with CTCL who received Targretin® gel for up to 172 weeks.
-In the multicenter open-label study, 50 patients with CTCL received Targretin® gel for up to 98 weeks.
+The safety of Targretin gel has been assessed in clinical studies of 117 patients with CTCL who received Targretin gel for up to 172 weeks.
+In the multicenter open-label study, 50 patients with CTCL received Targretin gel for up to 98 weeks.
 The mean duration of therapy for these 50 patients was 199 days.
 The most common adverse events reported with an incidence at the application site of at least 10% in patients with CTCL were rash, pruritus, skin disorder, and pain.
 
@@ -12,14 +12,14 @@ There were 12 patients (24%) who experienced at least one moderately severe adve
 The most common moderately severe events were rash (7 patients, 14%) and pruritus (3 patients, 6%).
 Only one patient (2%) experienced a severe adverse event (rash).
 
-In the patients with CTCL receiving Targretin® gel, adverse events reported regardless of relationship to study drug at an incidence of ≥5% are presented in Table 1.
+In the patients with CTCL receiving Targretin gel, adverse events reported regardless of relationship to study drug at an incidence of ≥5% are presented in Table 1.
 
-A similar safety profile for Targretin® gel was demonstrated in the Phase I-II program.
+A similar safety profile for Targretingel was demonstrated in the Phase I-II program.
 For the 67 patients enrolled in the Phase I-II program, the mean duration of treatment was 436 days (range 12-1203 days).
 As in the multicenter study, the most common adverse events regardless of relationship to study drug in the Phase I-II program were rash (78%), pain (40%), and pruritus (40%).
 
 Table 1.
-Incidence of All Adverse Events* and Application Site Adverse Events with Incidence ≥ 5% for All Application Frequencies of Targretin® Gel in the Multicenter CTCL Study
+Incidence of All Adverse Events* and Application Site Adverse Events with Incidence ≥ 5% for All Application Frequencies of Targretin Gel in the Multicenter CTCL Study
 
 |  | All Adverse Events | Application Site Adverse Events |
 | --- | --- | --- |
@@ -52,3 +52,4 @@ Incidence of All Adverse Events* and Application Site Adverse Events with Incide
 | Cough Increased | 3 (6) | 0 |
 | Pharyngitis | 3 (6) | 0 |
 | * Regardless of association with treatment Includes Investigator terms such as: 1 Contact dermatitis, irritant contact dermatitis, irritant dermatitis 2 Pruritus, itching, itching of lesion 3 Erythema, scaling, irritation, redness, rash, dermatitis 4 Skin inflammation, excoriation, sticky or tacky sensation of skin; NOS = Not Otherwise Specified |  |  |
+| To report SUSPECTED ADVERSE REACTIONS, contact Valeant Pharmaceuticals North America LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. |  |  |

@@ -9,4 +9,4 @@ The chemical name is 4-[1-(5,6,7,8-tetrahydro-3,5,5,8,8-pentamethyl-2-naphthalen
 Bexarotene is an off-white to white powder with a molecular weight of 348.48 and a molecular formula of C24H28O2.
 It is insoluble in water and slightly soluble in vegetable oils and ethanol, USP.
 
-Targretin® gel is a clear gelled solution containing 1.0% (w/w) bexarotene in a base of dehydrated alcohol, USP, polyethylene glycol 400, NF, hydroxypropyl cellulose, NF, and butylated hydroxytoluene, NF.
+Targretin gel is a clear gelled solution containing 1.0% (w/w) bexarotene in a base of dehydrated alcohol, USP, polyethylene glycol 400, NF, hydroxypropyl cellulose, NF, and butylated hydroxytoluene, NF.
