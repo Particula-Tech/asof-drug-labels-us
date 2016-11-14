@@ -76,7 +76,7 @@ Get emergency help right away if you get any of the following symptoms:
 | ● chest pain | ● swelling of the face or throat |
 | ● weakness in one part or side of your body |  |
 
-Stop taking NSAID and tell your healthcare provider right away if you get any of the following symptoms:
+Stop taking your NSAID and call your healthcare provider right away if you get any of the following symptoms:
 
 | ● nausea | ● vomit blood |
 | --- | --- |

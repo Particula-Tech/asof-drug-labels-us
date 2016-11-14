@@ -66,7 +66,7 @@ The following adverse reactions occurred in 0.1 - 1.9% of patients treated with 
 | Gastrointestinal: | Constipation, diverticulitis, dysphagia, eructation, esophagitis, gastritis, gastroenteritis, gastroesophageal reflux, hemorrhoids, hiatal hernia, melena, dry mouth, stomatitis, tenesmus, vomiting |
 | --- | --- |
 | Cardiovascular: | Aggravated hypertension, angina pectoris, coronary artery disorder, myocardial infarction Allergy |
-| General: | aggravated, allergic reaction, chest pain, cyst NOS, edema generalized, face edema, fatigue, fever, hot flushes, influenza-like symptoms, pain, peripheral pain |
+| General: | Hypersensitivity, allergic reaction, chest pain, cyst NOS, edema generalized, face edema, fatigue, fever, hot flushes, influenza-like symptoms, pain, peripheral pain |
 | Central, peripheral nervous system: | Leg cramps, hypertonia, hypoesthesia, migraine, paresthesia, vertigo |
 | Hearing and vestibular: | Deafness, tinnitus |
 | Heart rate and rhythm: | Palpitation, tachycardia |
@@ -83,12 +83,13 @@ The following adverse reactions occurred in 0.1 - 1.9% of patients treated with 
 
 The following serious adverse events (causality not evaluated) occurred in <0.1% of patients:
 
-| Cardiovascular: | Syncope, congestive heart failure, ventricular fibrillation, pulmonary embolism, cerebrovascular accident, peripheral gangrene, thrombophlebitis peripheral gangrene, thrombophlebitis, vasculitis, deep venous thrombosis |
+| Cardiovascular: | Syncope, congestive heart failure, ventricular fibrillation, pulmonary embolism, cerebrovascular accident, peripheral gangrene, thrombophlebitis |
 | --- | --- |
-| General | Sepsis, sudden death |
+| Gastrointestinal: | Intestinal obstruction, intestinal perforation, gastrointestinal bleeding, colitis with bleeding, esophageal perforation, pancreatitis ileus |
+| General: | Sepsis, sudden death |
 | Liver and biliary: | Cholelithiasis, |
 | Hemic and lymphatic: | Thrombocytopenia |
-| Nervous: | Ataxia, suicide |
+| Nervous: | Ataxia, suicide [see Drug Interactions (7.1)] |
 | Renal: | Acute renal failure |
 
 The Celecoxib Long-Term Arthritis Safety Study [see Special Studies (14.6)]

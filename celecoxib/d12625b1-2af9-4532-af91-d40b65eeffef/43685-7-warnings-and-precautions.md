@@ -11,7 +11,7 @@ The increase in CV thrombotic risk has been observed most consistently at higher
 
 In the APC (Adenoma Prevention with Celecoxib) trial, the hazard ratio for the composite endpoint of cardiovascular death, MI, or stroke was 3.4 (95% CI 1.4 - 8.5) for celecoxib capsules 400 mg twice daily and 2.8 (95% CI 1.1 - 7.2) with celecoxib capsules 200 mg twice daily compared to placebo.
 Cumulative rates for this composite endpoint over 3 years were 3.0% (20/671 subjects) and 2.5% (17/685 subjects), respectively, compared to 0.9% (6/679 subjects) with placebo treatment.
-The increases in both celecoxib dose groups versus placebo-treated patients were mainly due to an increased incidence of myocardial infarction [see Clinical Studies (14.6)].
+The increases in both celecoxib dose groups versus placebo-treated patients were mainly due to an increased incidence of myocardial infarction [see Clinical Studies (14.6)]
 
 To minimize the potential risk for an adverse CV event in NSAID-treated patients, use the lowest effective dose for the shortest duration possible.
 Physicians and patients should remain alert for the development of such events, throughout the entire treatment course, even in the absence of previous CV symptoms.
