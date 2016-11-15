@@ -1,119 +1,123 @@
-# PATIENT INFORMATION ABOUT Doxazosin Tablets USP FOR BENIGN PROSTATIC HYPERPLASIA (BPH)
+PATIENT INFORMATION
 
-Read this leaflet:
+Doxazosin Tablets
 
-- before you start taking doxazosin tablets
-- each time you get a new prescription.
+(dox AY’ zo sin)
 
-You and your doctor should discuss this treatment and your BPH symptoms before you start taking doxazosin tablets and at your regular checkups.
-This leaflet does NOT take the place of discussions with your doctor.
+What are doxazosin tablets?
 
-Doxazosin tablets are used to treat both benign prostatic hyperplasia (BPH) and high blood pressure (hypertension).
-This leaflet describes doxazosin tablets as treatment for BPH (although you may be taking doxazosin tablets for both your BPH and high blood pressure).
+Doxazosin tablets are prescription medicine that contains doxazosin mesylate and is called an “alpha-blocker”.
+Doxazosin tablets are used to treat:
 
-What is BPH?
+- the symptoms of benign prostatic hyperplasia (BPH)
+- high blood pressure (hypertension)
 
-BPH is an enlargement of the prostate gland.
-This gland surrounds the tube that drains the urine from the bladder.
-The symptoms of BPH can be caused by a tensing of the enlarged muscle in the prostate gland which blocks the passage of urine.
-This can lead to such symptoms as:
+It is not known if doxazosin tablets are safe and effective in children.
 
-- a weak or start-and-stop stream when urinating
-- a feeling that the bladder is not completely emptied after urination
-- a delay or difficulty in the beginning of urination
-- a need to urinate often during the day and especially at night
-- a feeling that you must urinate immediately
+Who should not take doxazosin tablets?
 
-Treatment Options for BPH
+Do not take doxazosin tablets if you:
 
-The four main treatment options for BPH are:
+- are allergic to doxazosin, other quinazolines, or any of the ingredients in doxazosin tablets.
+  See the end of this Patient Information leaflet for a complete list of ingredients in doxazosin tablets.
 
-- If you are not bothered by your symptoms, you and your doctor may decide on a program of "watchful waiting."
-  It is not an active treatment like taking medication or surgery but involves having regular checkups to see if your condition is getting worse or causing problems.
-- Treatment with doxazosin tablets or other similar drugs.
-  Doxazosin tablets are the medication your doctor has prescribed for you.
-  See "What Doxazosin Tablets Does," below.
-- Treatment with the medication class of 5-alpha reductase inhibitors (e.g., Proscar®).
-  It can cause the prostate to shrink.
-  It may take 6 months or more for the full benefit of finasteride to be seen.
-- Various surgical procedures.
-  Your doctor can describe these procedures to you.
-  The best procedure for you depends on your BPH symptoms and medical condition.
+What should I tell my healthcare provider before taking doxazosin tablets?
 
-What Doxazosin Tablets Does
+Before taking doxazosin tablets, tell your healthcare provider about all of your medical conditions, including if you:
 
-Doxazosin tablets works on a specific type of muscle found in the prostate, causing it to relax.
-This in turn decreases the pressure within the prostate, thus improving the flow of urine and your symptoms.
+- have had low blood pressure, especially after taking other medicine.
+  Signs of low blood pressure include fainting, dizziness, and lightheadedness.
+- have any planned eye surgery
+- have prostate cancer or a history of prostate cancer.
+  Your healthcare provider may have you checked for prostate cancer before you start taking and while you take doxazosin tablets.
+- have liver problems
+- are pregnant or plan to become pregnant.
+  It is not known if doxazosin will harm your unborn baby.
+- are breastfeeding or plan to breastfeed.
+  It is not known if doxazosin passes into your breastmilk.
+  Talk to your healthcare provider about the best way to feed your baby if you take doxazosin tablets.
 
-- Doxazosin tablets help relieve the symptoms of BPH (weak stream, start-and-stop stream, a feeling that your bladder is not completely empty, delay in beginning of urination, need to urinate often during the day and especially at night, and feeling that you must urinate immediately).
-  It does not change the size of the prostate.
-  The prostate may continue to grow; however, a larger prostate is not necessarily related to more symptoms or to worse symptoms.
-  Doxazosin tablets can decrease your symptoms and improve urinary flow, without decreasing the size of the prostate.
-- If doxazosin tablets are helping you, you should notice an effect within 1 to 2 weeks after you start your medication.
-  Doxazosin tablets have been studied in over 900 patients for up to 2 years and the drug has been shown to continue to work during long-term treatment.
-  Even though you take doxazosin tablets and it may help you, doxazosin tablets may not prevent the need for surgery in the future.
-- Doxazosin tablet does not affect PSA levels.
-  PSA is the abbreviation for Prostate Specific Antigen.
-  Your doctor may have done a blood test called PSA.
-  You may want to ask your doctor more about this if you have had a PSA test done.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+Doxazosin tablets may affect the way other medicines work, and other medicines may affect the way doxazosin tablets works causing side effects.
 
-Other Important Facts
+Especially tell your healthcare provider if you take:
 
-- You should see an improvement of your symptoms within 1 to 2 weeks.
-  In addition to your other regular checkups you will need to continue seeing your doctor regularly to check your progress regarding your BPH and to monitor your blood pressure.
-- Doxazosin tablets are not a treatment for prostate cancer.
-  Your doctor has prescribed doxazosin tablets for your BPH and not for prostate cancer; however, a man can have BPH and prostate cancer at the same time.
-  Doctors usually recommend that men be checked for prostate cancer once a year when they turn 50 (or 40 if a family member has had prostate cancer).
-  A higher incidence of prostate cancer has been noted in men of African-American descent.
-  These checks should continue even if you are taking doxazosin tablets..
+- other medicine for high blood pressure
+- medicine to treat erectile dysfunction (ED) called a phosphodiesterase type 5 (PDE-5) inhibitor.
+  The use of doxazosin tablets with PDE-5 inhibitors can lead to a drop in blood pressure or to fainting.
 
-How To Take Doxazosin Tablets and What You Should Know While Taking Doxazosin Tablets for BPH
+Know the medicines you take.
+Keep a list of them to show your healthcare provider and pharmacist when you get a new medicine.
 
-Doxazosin Tablets Can Cause a Sudden Drop in Blood Pressure After the VERY FIRST DOSE.
-You may feel dizzy, faint or "light-headed," especially after you stand up from a lying or sitting position.
-This is more likely to occur after you've taken the first few doses or if you increase your dose, but can occur at any time while you are taking the drug.
-It can also occur if you stop taking the drug and then restart treatment.
-If you feel very dizzy, faint or "light-headed" you should contact your doctor.
-Your doctor will discuss with you how often you need to visit and how often your blood pressure should be checked.
+How should I take doxazosin tablets?
 
-Your blood pressure should be checked when you start taking doxazosin tablets even if you do not have high blood pressure (hypertension).
-Your doctor will discuss with you the details of how blood pressure is measured.
+- Take doxazosin tablets exactly as your healthcare provider tells you to take it.
+- Your healthcare provider will tell you how much doxazosin tablets to take and when to take it.
+- Your healthcare provider may need to change your dose of doxazosin tablets until it is the right dose for you.
 
-Blood Pressure Measurement: Whatever equipment is used, it is usual for your blood pressure to be measured in the following way: measure your blood pressure after lying quietly on your back for five minutes.
-Then, after standing for two minutes measure your blood pressure again.
-Your doctor will discuss with you what other times during the day your blood pressure should be taken, such as two to six hours after a dose, before bedtime or after waking up in the morning.
-Note that moderate to high-intensity exercise can, over a period of time, lower your average blood pressure.
+What should I avoid while taking doxazosin tablets?
 
-You can take doxazosin tablets either in the morning or at bedtime and it will be equally effective.
-If you take doxazosin tablets at bedtime but need to get up from bed to go to the bathroom, get up slowly and cautiously until you are sure how the medication affects you.
-It is important to get up slowly from a chair or bed at any time until you learn how you react to doxazosin tablets.
-You should not drive or do any hazardous tasks until you are used to the effects of the medication.
-If you begin to feel dizzy, sit or lie down until you feel better.
+Do not drive or perform any hazardous task until at least 24 hours after you have taken doxazosin tablets if you are taking:
 
-- You will start with a 1 mg dose of doxazosin tablets once daily.
-  Then the once daily dose will be increased as your body gets used to the effects of the medication.
-  Follow your doctor's instructions about how to take doxazosin tablets.
-  You must take it every day at the dose prescribed.
-  Talk with your doctor if you don't take it for a few days for some reason; you may then need to restart the medication at a 1 mg dose, increase your dose gradually and again be cautious about possible dizziness.
-  Do not share doxazosin tablets with anyone else; it was prescribed only for you.
-- Other side effects you could have while taking doxazosin tablets, in addition to lowering of the blood pressure, include dizziness, fatigue (tiredness), swelling of the feet and shortness of breath.
-  Most side effects are mild.
-  However, you should discuss any unexpected effects you notice with your doctor.
-- WARNING: Extremely rarely, doxazosin tablets and similar medications have caused painful erection of the penis, sustained for hours and unrelieved by sexual intercourse or masturbation.
-  This condition is serious, and if untreated it can be followed by permanent inability to have an erection.
-  If you have a prolonged abnormal erection, call your doctor or go to an emergency room as soon as possible.
-- Tell your surgeon if you take or have taken doxazosin tablets if you plan to have surgery for cataracts (clouding of the eye).
-  During cataract surgery, a condition called Intraoperative Floppy Iris Syndrome (IFIS) can happen if you take or have taken doxazosin tablets.
-- If you use doxazosin tablets with an oral erectile dysfunction medicine (phosphodiesterase-5 (PDE-5) inhibitor), it can cause a sudden drop in your blood pressure and you can become dizzy or faint.
-  Talk with your healthcare provider before using PDE-5 inhibitors.
-- Keep doxazosin tablets and all medicines out of the reach of children.
+- your first dose of doxazosin tablets
+- Doxazosin tablets for the first time after your healthcare provider has increased your dose of doxazosin tablets
+- Doxazosin tablets for the first time after any breaks (interruptions) in your treatment with doxazosin tablets
 
-FOR MORE INFORMATION ABOUT DOXAZOSIN TABLETS AND BPH TALK WITH YOUR DOCTOR, NURSE, PHARMACIST OR OTHER HEALTH CARE PROVIDER.
+What are the possible side effects of doxazosin tablets?
+
+Doxazosin tablets may cause serious side effects, including:
+
+- A sudden drop in blood pressure, especially when you first start treatment or when there is an increase in your dose of doxazosin tablets, is common but can also be serious.
+  This may cause you to faint, or to feel dizzy or lightheaded.
+  Your risk of having this problem may be increased if you take doxazosin tablets with certain other medicines that lower blood pressure including PDE-5 inhibitors.
+  Your healthcare provider may monitor your blood pressure while you take doxazosin tablets.
+  See “What should I avoid while taking doxazosin tablets?”
+- Eye problems during cataract surgery.
+  A condition called Intraoperative Floppy Iris Syndrome (IFIS) can happen during cataract surgery if you take or have taken alpha-blockers such as doxazosin tablets.
+  If you need to have cataract surgery, be sure to tell your healthcare provider if you take or have taken doxazosin tablets.
+- A painful erection that will not go away.
+  Doxazosin tablets can cause a painful erection (priapism), which cannot be relieved by having sex.
+  If this happens, get medical help right away.
+  If priapism is not treated, you may not be able to get an erection in the future.
+
+The most common side effects of doxazosin tablets are:
+
+- weakness or lack of energy (asthenia)
+- dizziness
+
+Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
+These are not all the possible side effects of doxazosin tablets.
+For more information, ask your healthcare provider or pharmacist.
+
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+
+General information about the safe and effective use of doxazosin tablets.
+
+Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
+Do not use doxazosin tablets for a condition for which it was not prescribed.
+Do not give doxazosin tablets to other people, even if they have the same symptoms you have.
+It may harm them.
+
+This Patient Information leaflet summarizes the most important information about doxazosin tablets.
+For more information, ask your healthcare provider.
+You can ask your healthcare provider or pharmacist for information that is written for healthcare professionals.
+
+For more information, go to www.accordhealthcare.us or call Accord Healthcare Inc. at 1-866-941-7875.
+
+What are the ingredients in doxazosin tablets?
+
+Active ingredient: doxazosin mesylate
+
+Inactive ingredients: lactose monohydrate, microcrystalline cellulose, sodium lauryl sulfate, magnesium stearate and sodium starch glycolate.
+The 2 mg & 4 mg tablet contains ferric oxide yellow.
+
+This Patient Information has been approved by the U.S. Food and Drug Administration
 
 Manufactured For: Accord Healthcare, Inc., 1009 Slater Road, Suite 210-B, Durham, NC 27703, USA.
 
 Manufactured By: Intas Pharmaceuticals Limited, Plot No.: 457, 458, Village – Matoda, Bavla Road, Ta.- Sanand, Dist.- Ahmedabad – 382 210, INDIA.
 
-10 10514 0 627955
+10 0858 0 668447
 
-Issued December 2013
+Issued August 2016

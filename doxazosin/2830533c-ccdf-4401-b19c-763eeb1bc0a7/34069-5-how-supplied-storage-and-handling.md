@@ -1,7 +1,7 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Doxazosin tablets USP are available as colored tablets for oral administration.
-Each functionally scored tablet contains doxazosin mesylate equivalent to 1 mg (white to off white), 2 mg (cream to yellow), 4 mg (cream to yellow) or 8 mg (white to off white) of the active constituent, doxazosin.
+Doxazosin tablets, USP are available as functionally scored tablets for oral administration.
+Each tablet contains doxazosin mesylate equivalent to 1 mg (white to off white), 2 mg (cream to yellow), 4 mg (cream to yellow) or 8 mg (white to off white) of the active constituent, doxazosin.
 
 1 mg: White to off white, round, biconvex uncoated tablets, debossed with “C3” on one side and breakline on other side and supplied as follows:
 
@@ -27,12 +27,4 @@ NDC 16729-214-01 Bottle of 100
 
 NDC 16729-214-17 Bottle of 1000
 
-Recommended Storage: Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
-
-Manufactured For: Accord Healthcare, Inc., 1009 Slater Road, Suite 210-B, Durham, NC 27703, USA
-
-Manufactured By: Intas Pharmaceuticals Limited.
-Plot No.: 457, 458, Village Matoda, Bavla Road, Ta.- Sanand, Dist.
-Ahmedabad-382 210, INDIA
-
-10 10514 0 627955 Issued December 2013
+Recommended Storage: Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
