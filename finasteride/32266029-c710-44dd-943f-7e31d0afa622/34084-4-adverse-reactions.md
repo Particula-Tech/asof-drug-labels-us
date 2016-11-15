@@ -21,7 +21,7 @@ Table 1: Drug-Related Adverse Experiences
 | Breast Enlargement | 0.5 | 0.1 | 1.8 | 1.1 |
 | Breast Tenderness | 0.4 | 0.1 | 0.7 | 0.3 |
 | Rash | 0.5 | 0.2 | 0.5 | 0.1 |
-| *Combined Years 2 to 4 N = 1524 and 1516, finasteride vs. placebo, respectively |  |  |  |  |
+| * Combined Years 2 to 4 N = 1524 and 1516, finasteride vs. placebo, respectively |  |  |  |  |
 
 Phase III Studies and 5-Year Open Extensions The adverse experience profile in the 1-year, placebo-controlled, Phase III studies, the 5-year open extensions, and a long-term efficacy and safety study were similar.
 Medical Therapy of Prostatic Symptoms (MTOPS) Study In the MTOPS study, 3047 men with symptomatic BPH were randomized to receive finasteride 5 mg/day (n=768), doxazosin 4 or 8 mg/day (n=756), the combination of finasteride 5 mg/day and doxazosin 4 or 8 mg/day (n=786), or placebo (n=737) for 4 to 6 years.
@@ -31,7 +31,8 @@ The individual adverse effects which occurred more frequently in the combination
 Of these, the incidence of abnormal ejaculation in patients receiving combination therapy was comparable to the sum of the incidences of this adverse experience reported for the two monotherapies.
 Combination therapy with finasteride and doxazosin was associated with no new clinical adverse experience.
 Four patients in MTOPS reported the adverse experience breast cancer.
-Three of these patients were on finasteride only and one was on combination therapy [see Long Term Data].
+Three of these patients were on finasteride only and one was on combination therapy.
+[see Long Term Data].
 The MTOPS Study was not specifically designed to make statistical comparisons between groups for reported adverse experiences.
 In addition, direct comparisons of safety data between the MTOPS study and previous studies of the single agents may not be appropriate based upon differences in patient population, dosage or dose regimen, and other procedural and study design elements.
 

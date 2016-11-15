@@ -68,7 +68,7 @@ The mean prostate volume as measured by transrectal ultrasound was 36.3 mL (±20
 Prostate volume was ≤20 mL in 16% of patients, ≥50 mL in 18% of patients and between 21 and 49 mL in 66% of patients.
 The primary endpoint was a composite measure of the first occurrence of any of the following four outcomes: a ≥4 point confirmed increase from baseline in symptom score, BPH-related renal insufficiency (creatinine rise), recurrent urinary tract infections or urosepsis, or incontinence.
 Compared to placebo, treatment with finasteride, doxazosin, or combination therapy resulted in a reduction in the risk of experiencing one of these four outcome events by 34% (p=0.002), 39% (p<0.001), and 67% (p<0.001), respectively.
-Combination therapy resulted in a significant reduction in the risk of the primary endpoint compared to treatment with finasteride alone (49%; p≤0.001) or doxazosin alone (46%; p≤0.001).
+Combination therapy resulted in a significant reduction in the risk of the primary endpoint compared to treatment with finasteride alone (49%; p=0.001) or doxazosin alone (46%; p≤0.001).
 (See Table 6.)
 
 Table 6: Count and Percent Incidence of Primary Outcome Events by Treatment Group in MTOPS
