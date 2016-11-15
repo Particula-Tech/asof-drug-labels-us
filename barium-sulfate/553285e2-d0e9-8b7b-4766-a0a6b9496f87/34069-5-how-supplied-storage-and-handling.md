@@ -1,14 +1,9 @@
-# STORAGE
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Store VARIBAR® PUDDING at USP Controlled Room Temperature, 20 to 25°C (68 to 77°F).
-Protect from freezing.
+VARIBAR PUDDING is supplied as a paste in a multiple-dose polyethylene tube containing 230 mL of barium sulfate (40 % w/v).
 
-# HOW SUPPLIED
+Provided as: 12 X 230 mL tubes (NDC 32909-125-22)
 
-VARIBAR® PUDDING is supplied in the following quantity: 230 mL tube, Cat.
-No. D125, NDC 32909-125-22
+Store at USP Controlled Room Temperature 20 to 25°C (68 to 77° F). Protect from freezing.
 
-Manufactured by E-Z-EM Canada Inc. for E-Z-EM, Inc. a subsidiary of Bracco Diagnostics Inc. Monroe Township, NJ 08831 Tel: 1-516-333-8230 1-800 544-4624
-
-rev.
-03/14 TX1715-1
+Once opened, VARIBAR PUDDING may be used for up to 21 days when stored at USP Controlled Room Temperature, 20 to 25°C (68 to 77° F).

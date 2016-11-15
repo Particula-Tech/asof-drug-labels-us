@@ -1,3 +1,3 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-This product is indicated for use in radiography of the esophagus, pharynx and hypopharynx.
+VARIBAR PUDDING is indicated for modified barium swallow examinations to evaluate the oral and pharyngeal function and morphology in adult and pediatric patients 6 months of age and older.
