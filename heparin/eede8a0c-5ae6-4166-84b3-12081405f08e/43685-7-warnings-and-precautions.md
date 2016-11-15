@@ -44,7 +44,7 @@ Future use of heparin sodium, especially within 3 to 6 months following the diag
 Immune-mediated HIT is diagnosed based on clinical findings supplemented by laboratory tests confirming the presence of antibodies to heparin sodium, or platelet activation induced by heparin sodium.
 A drop in platelet count greater than 50% from baseline is considered indicative of HIT.
 Platelet counts begin to fall 5 to 10 days after exposure to heparin sodium in heparin sodium-naïve individuals, and reach a threshold by days 7 to 14.
-In contrast, “rapid onset” HIT can occur very quickly (within 24 hours following heparin sodium initiation), especially in patients with a recent exposure to heparin sodium (i.e. previous 3 months).
+In contrast, "rapid onset" HIT can occur very quickly (within 24 hours following heparin sodium initiation), especially in patients with a recent exposure to heparin sodium (i.e. previous 3 months).
 Thrombosis development shortly after documenting thrombocytopenia is a characteristic finding in almost half of all patients with HIT.
 
 Thrombocytopenia of any degree should be monitored closely.

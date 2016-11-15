@@ -2,7 +2,7 @@
 
 Heparin sodium is not effective by oral administration and these premixed formulations should be given by intermittent intravenous injection or intravenous infusion.
 
-The dosage of heparin sodium should be adjusted according to the patient’s coagulation test results.
+The dosage of heparin sodium should be adjusted according to the patient's coagulation test results.
 When heparin is given by continuous intravenous infusion, the coagulation time should be determined approximately every 4 hours in the early stages of treatment.
 When the drug is administered intermittently by intravenous injection, coagulation tests should be performed before each injection during the early stages of treatment and at appropriate intervals thereafter.
 Dosage is considered adequate when the activated partial thromboplastin time (APTT) is 1.5 to 2 times normal or when the whole blood clotting time is elevated approximately 2.5 to 3 times the control value.
