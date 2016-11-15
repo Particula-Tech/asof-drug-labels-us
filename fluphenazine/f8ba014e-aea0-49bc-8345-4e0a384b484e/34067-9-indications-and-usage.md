@@ -1,4 +1,4 @@
-# INDICATIONS AND USAGE
+# INDICATIONS AND USAGE:
 
 Fluphenazine Decanoate Injection is a long-acting parenteral antipsychotic drug intended for use in the management of patients requiring prolonged parenteral neuroleptic therapy (e.g., chronic schizophrenics).
 

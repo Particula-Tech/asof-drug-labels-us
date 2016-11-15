@@ -1,4 +1,4 @@
-# CONTRAINDICATIONS
+# CONTRAINDICATIONS:
 
 Phenothiazines are contraindicated in patients with suspected or established subcortical brain damage.
 

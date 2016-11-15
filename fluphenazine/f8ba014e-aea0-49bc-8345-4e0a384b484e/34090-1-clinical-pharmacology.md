@@ -1,4 +1,4 @@
-# CLINICAL PHARMACOLOGY
+# CLINICAL PHARMACOLOGY:
 
 The basic effects of fluphenazine decanoate appear to be no different from those of fluphenazine hydrochloride, with the exception of duration of action.
 The esterification of fluphenazine markedly prolongs the drug’s duration of effect without unduly attenuating its beneficial action.

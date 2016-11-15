@@ -1,4 +1,4 @@
-# DESCRIPTION
+# DESCRIPTION:
 
 Fluphenazine decanoate is the decanoate ester of a trifluoromethyl phenothiazine derivative.
 It is a highly potent behavior modifier with a markedly extended duration of effect and has the following structural formula:

@@ -1,4 +1,9 @@
-# WARNINGS
+# WARNINGS:
+
+## Increased Mortality in Elderly Patients with Dementia-Related Psychosis
+
+Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
+Fluphenazine Decanoate Injection, USP is not approved for the treatment of patients with dementia-related psychosis (see BOXED WARNING).
 
 ## Tardive Dyskinesia
 
@@ -52,7 +57,7 @@ Since there is no adequate experience in children who have received this drug, s
 
 The safety for the use of this drug during pregnancy has not been established; therefore, the possible hazards should be weighed against the potential benefits when administering this drug to pregnant patients.
 
-# PRECAUTIONS
+# PRECAUTIONS:
 
 ## General
 
@@ -101,7 +106,7 @@ Possible risk factors for leukopenia/neutropenia include pre-existing low white 
 Patients with a pre-existing low WBC or a history of drug induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and should discontinue Fluphenazine Decanoate Injection, USP at the first sign of a decline in WBC in the absence of other causative factors.
 
 Patients with neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
-Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue Fluphenazine Decanoate Injection, USP and have their WBC followed until recovery.
+Patients with severe neutropenia (absolute neutrophil count <1,000/mm3) should discontinue Fluphenazine Decanoate Injection, USP and have their WBC followed until recovery.
 
 ## Information for Patients
 

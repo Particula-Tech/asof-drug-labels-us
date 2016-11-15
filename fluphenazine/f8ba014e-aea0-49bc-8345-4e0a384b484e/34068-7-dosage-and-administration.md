@@ -1,4 +1,4 @@
-# DOSAGE AND ADMINISTRATION
+# DOSAGE AND ADMINISTRATION:
 
 Fluphenazine Decanoate Injection may be given IM or SC.
 A dry syringe and needle of at least 21 gauge should be used.
