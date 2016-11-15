@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA022184"
+  ],
   "inn": "bimatoprost",
   "labeler": "Allergan, Inc.",
   "package_ndcs": [
