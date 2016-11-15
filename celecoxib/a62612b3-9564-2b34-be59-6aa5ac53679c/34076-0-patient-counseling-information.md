@@ -35,5 +35,5 @@ APOTEX INC. CELECOXIB CAPSULES 50 mg, 100 mg and 200 mg
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | USA 33326 |
 
-Revised: October 2016 Rev.
-6
+Revised: November 2016 Rev.
+7

@@ -133,4 +133,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | USA 33326 |
 
-Revised: October 2016
+Revised: November 2016
+
+Revision: 7
