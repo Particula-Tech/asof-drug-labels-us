@@ -20,8 +20,8 @@ Acute pelvic inflammatory disease caused by Neisseria gonorrhoeae: Erythrocin La
 
 Before treatment of gonorrhea, patients who are suspected of also having syphilis should have a microscopic examination for T. pallidum (by immunofluorescence or darkfield) before receiving erythromycin and monthly serologic tests for a minimum of 4 months thereafter.
 
-Legionnaires’ Disease caused by Legionella pneumophila.
-Although no controlled clinical efficacy studies have been conducted, in vitro and limited preliminary clinical data suggest that erythromycin may be effective in treating Legionnaires’ Disease.
+Legionnaires' Disease caused by Legionella pneumophila.
+Although no controlled clinical efficacy studies have been conducted, in vitro and limited preliminary clinical data suggest that erythromycin may be effective in treating Legionnaires' Disease.
 
 Prevention of Initial Attacks of Rheumatic Fever
 

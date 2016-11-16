@@ -19,7 +19,7 @@ Infusion should be sufficiently slow to minimize pain along the vein.
 
 For treatment of acute pelvic inflammatory disease caused by N. Gonorrhoeae, in female patients hypersensitive to penicillins, administer 500 mg erythromycin lactobionate every six hours for three days, followed by oral administration of 250 mg erythromycin stearate or base every six hours for seven days.
 
-For treatment of Legionnaires’ Disease: Although optimal doses have not been established, doses utilized in reported clinical data were 1 to 4 grams daily in divided doses.
+For treatment of Legionnaires' Disease: Although optimal doses have not been established, doses utilized in reported clinical data were 1 to 4 grams daily in divided doses.
 
 Administration of doses of ≥ 4 g/day may increase the risk for the development of erythromycin-induced hearing loss in elderly patients, particularly those with reduced renal or hepatic function.
 
@@ -35,8 +35,8 @@ Preparation of Solution:
    Do not use diluents containing preservatives or inorganic salts.
    After reconstitution, each mL contains 50 mg of erythromycin activity.
    The initial solution is stable at refrigerator temperature for two weeks, or for 24 hours at room temperature.
-2. ADD THE INITIAL DILUTION TO ONE OF THE FOLLOWING DILUENTS BEFORE ADMINISTRATION to give a concentration of 1 g of erythromycin activity per liter (1 mg/mL) for continuous infusion or 1 to 5 mg/mL for intermittent infusion: 0.9% SODIUM CHLORIDE INJECTION, USP; LACTATED RINGER’S INJECTION, USP; NORMOSOLTM-R.
-3. THE FOLLOWING SOLUTIONS MAY ALSO BE USED PROVIDING THEY ARE FIRST BUFFERED WITH NEUTTM (4% SODIUM BICARBONATE, HOSPIRA) by adding 1 mL of NeutTM per 100 mL of solution: 5% DEXTROSE INJECTION, USP 5% DEXTROSE AND LACTATED RINGER’S INJECTION 5% DEXTROSE AND 0.9% SODIUM CHLORIDE INJECTION, USP
+2. ADD THE INITIAL DILUTION TO ONE OF THE FOLLOWING DILUENTS BEFORE ADMINISTRATION to give a concentration of 1 g of erythromycin activity per liter (1 mg/mL) for continuous infusion or 1 to 5 mg/mL for intermittent infusion: 0.9% SODIUM CHLORIDE INJECTION, USP; LACTATED RINGER'S INJECTION, USP; NORMOSOLTM-R.
+3. THE FOLLOWING SOLUTIONS MAY ALSO BE USED PROVIDING THEY ARE FIRST BUFFERED WITH NEUTTM (4% SODIUM BICARBONATE, HOSPIRA) by adding 1 mL of NeutTM per 100 mL of solution: 5% DEXTROSE INJECTION, USP 5% DEXTROSE AND LACTATED RINGER'S INJECTION 5% DEXTROSE AND 0.9% SODIUM CHLORIDE INJECTION, USP
 
 NeutTM (4% sodium bicarbonate, Hospira) must be added to these solutions so that their pH is in the optimum range for erythromycin lactobionate stability.
 Acidic solutions of erythromycin lactobionate are unstable and lose their potency rapidly.
