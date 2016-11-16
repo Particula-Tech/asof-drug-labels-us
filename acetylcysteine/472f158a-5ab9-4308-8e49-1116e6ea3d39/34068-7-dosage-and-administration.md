@@ -87,7 +87,7 @@ In cases of suspected massive overdose, or with concomitant ingestion of other s
 In such cases, consideration should be given to the need for continued treatment with ACETADOTE beyond a total of three separate doses over a 21-hour infusion period.
 
 Acetaminophen levels and ALT/AST and INR should be checked after the last maintenance dose.
-If acetaminophen levels are still detectable, or if the ALT/AST are still increasing or the INR remains elevated; the maintenance doses should be continued and the treating physician should contact a US regional poison center at 1-800-222-1222, alternatively, a “special health professional assistance line for acetaminophen overdose” at 1-800-525-6115 for assistance with dosing recommendations, or 1-877-484-2700 for additional information.
+If acetaminophen levels are still detectable, or if the ALT/AST are still increasing or the INR remains elevated; dosing should be continued and the treating physician should contact a US regional poison center at 1-800-222-1222, alternatively, a “special health professional assistance line for acetaminophen overdose” at 1-800-525-6115 for assistance with dosing recommendations, or 1-877-484-2700 for additional information.
 
 ## 2.3 Preparation and Storage of ACETADOTE Diluted Solution Prior to Administration
 
