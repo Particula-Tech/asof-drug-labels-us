@@ -31,7 +31,7 @@ If dosing is interrupted for more than 3 days, restart treatment with the 4.6 mg
 
 Dosing Modifications in Patients with Hepatic Impairment
 
-Consider using the 4.6 mg/24 hours EXELON PATCH as both the initial and maintenance dose in patients with mild (Child-Pugh score 5 to 6) to moderate (Child-Pugh score 7 to 9) hepatic impairment [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+Consider using the 4.6 mg/24 hours EXELON PATCH as both the initial and maintenance dose in patients with mild (Child-Pugh score 5 to 6) to moderate (Child-Pugh score 7 to 9) hepatic impairment [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
 Dosing Modifications in Patients with Low Body Weight
 
@@ -62,7 +62,7 @@ EXELON PATCH is for transdermal use on intact skin.
 (c) Do not apply to skin that is red, irritated, or cut.
 
 (d) Replace the EXELON PATCH with a new patch every 24 hours.
-Instruct patients to only wear 1 patch at a time (remove the previous day’s patch before applying a new patch) [see Warnings and Precautions (5.1) and Overdosage (10)].
+Instruct patients to only wear 1 patch at a time (remove the previous day’s patch before applying a new patch) [see Warnings and Precautions (5.1), Overdosage (10)].
 If a patch falls off or if a dose is missed, apply a new patch immediately and then replace this patch the following day at the usual application time.
 
 (e) Change the site of patch application daily to minimize potential irritation, although a new patch can be applied to the same general anatomic site (e.g., another spot on the upper back) on consecutive days.

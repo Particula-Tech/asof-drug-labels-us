@@ -55,7 +55,7 @@ Before you use Exelon Patch, tell your healthcare provider if you:
 - have problems with movement (tremors)
 - have asthma or breathing problems
 - have a loss of appetite or are losing weight
-- have had a skin reaction to rivastigmine (the medicine in Exelon Patch) in the past.
+- have had a skin reaction to rivastigmine (the medicine in Exelon Patch) in the past
 - have any other medical conditions
 - are pregnant or plan to become pregnant.
   It is not known if the medicine in Exelon Patch will harm your unborn baby.
@@ -65,7 +65,7 @@ Before you use Exelon Patch, tell your healthcare provider if you:
   You and your healthcare provider should decide if you will use Exelon Patch or breastfeed.
   You should not do both.
 
-Tell your healthcare provider about all the medicines you take, including prescription and over-the counter medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
 Especially tell your healthcare provider if you take:
 
@@ -83,7 +83,7 @@ Keep a list of them to show to your healthcare provider and pharmacist when you 
 How should I use Exelon Patch?
 
 - Use Exelon Patch exactly as your healthcare provider tells you to use it.
-- Exelon Patches come in 3 different dosage strengths.
+- Exelon Patch comes in 3 different dosage strengths.
 - Your healthcare provider may change your dose as needed.
 - Wear only 1 Exelon Patch at a time.
 - Exelon Patch is for skin use only.
@@ -114,7 +114,7 @@ What should I avoid while using Exelon Patch?
   In case of accidental contact with your eyes or if your eyes become red after handling the patch, rinse immediately with plenty of water and seek medical advice if symptoms do not resolve.
 - Exelon Patch can cause drowsiness, dizziness, weakness, or fainting.
   Do not drive, operate heavy machinery, or do other dangerous activities until you know how Exelon Patch affects you.
-- Avoid exposure to heat sources such as excessive sunlight, saunas, or sun-rooms for long periods of time.
+- Avoid exposure to heat sources such as excessive sunlight, saunas, or sunrooms for long periods of time.
 
 What are the possible side effects of Exelon Patch?
 
@@ -186,4 +186,4 @@ What are the ingredients of Exelon Patch?
 
 Active ingredient: rivastigmine Excipients include: acrylic copolymer, poly (butylmethacrylate, methylmethacrylate), silicone adhesive applied to a flexible polymer backing film, silicone oil, and vitamin E
 
-T2015-28 February 2015
+T2016-93 November 2016

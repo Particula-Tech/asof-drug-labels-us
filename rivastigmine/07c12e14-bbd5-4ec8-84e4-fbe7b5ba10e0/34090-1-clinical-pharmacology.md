@@ -81,14 +81,13 @@ Compared to a patient with a body weight of 65 kg, the rivastigmine steady-state
 Renal Impairment
 
 No study was conducted with EXELON PATCH in subjects with renal impairment.
-Based on population analysis creatinine clearance did not show any clear effect on steady state concentrations of rivastigmine or its metabolite.
+Based on population analysis, creatinine clearance did not show any clear effect on steady state concentrations of rivastigmine or its metabolite.
 
 Hepatic Impairment
 
 No pharmacokinetic study was conducted with EXELON PATCH in subjects with hepatic impairment.
 Following a single 3-mg dose, mean oral clearance of rivastigmine was 60% lower in hepatically impaired patients (n=10, biopsy proven) than in healthy subjects (n=10).
-After multiple 6-mg twice a day oral dosing, the mean clearance of rivastigmine was 65% lower in mild (n=7, Child-Pugh score 5 to 6) and moderate (n=3, Child-Pugh score 7 to 9) hepatically impaired patients (biopsy proven, liver cirrhosis) than in healthy subjects (n=10).
-[see Dosage and Administration (2.2), Specific Population (8.6)].
+After multiple 6-mg twice a day oral dosing, the mean clearance of rivastigmine was 65% lower in mild (n=7, Child-Pugh score 5 to 6) and moderate (n=3, Child-Pugh score 7 to 9) hepatically impaired patients (biopsy proven, liver cirrhosis) than in healthy subjects (n=10) [see Dosage and Administration (2.2), Use in Specific Populations (8.6)].
 
 Smoking
 
@@ -105,7 +104,7 @@ Rivastigmine is primarily metabolized through hydrolysis by esterases.
 Minimal metabolism occurs via the major cytochrome P450 isoenzymes.
 Based on in vitro studies, no pharmacokinetic drug interactions with drugs metabolized by the following isoenzyme systems are expected: CYP1A2, CYP2D6, CYP3A4/5, CYP2E1, CYP2C9, CYP2C8, CYP2C19, or CYP2B6.
 
-No pharmacokinetic interaction was observed between rivastigmine taken orally and digoxin, warfarin, diazepam or fluoxetine in studies in healthy volunteers.
+No pharmacokinetic interaction was observed between rivastigmine taken orally and digoxin, warfarin, diazepam, or fluoxetine in studies in healthy volunteers.
 The increase in prothrombin time induced by warfarin is not affected by administration of rivastigmine.
 
 Effect of Other Drugs on the Metabolism of Rivastigmine

@@ -39,7 +39,7 @@ Patients and caregivers should be instructed accordingly.
 
 Neurologic Effects
 
-Extrapyramidal Symptoms: Cholinomimetics, including rivastigmine may exacerbate or induce extrapyramidal symptoms.
+Extrapyramidal Symptoms: Cholinomimetics, including rivastigmine, may exacerbate or induce extrapyramidal symptoms.
 Worsening of parkinsonian symptoms, particularly tremor, has been observed in patients with dementia associated with Parkinson’s disease who were treated with EXELON Capsules.
 
 Seizures: Drugs that increase cholinergic activity are believed to have some potential for causing seizures.
@@ -59,7 +59,7 @@ Cardiac Conduction Effects
 
 Because rivastigmine increases cholinergic activity, use of the EXELON PATCH may have vagotonic effects on heart rate (e.g., bradycardia).
 The potential for this action may be particularly important in patients with sick sinus syndrome or other supraventricular cardiac conduction conditions.
-In clinical trials, rivastigmine was not associated with any increased incidence of cardiovascular adverse events, heart rate or blood pressure changes, or ECG abnormalities.
+In clinical trials, rivastigmine was not associated with any increased incidence of cardiovascular adverse events, heart rate or blood pressure changes, or electrocardiogram (ECG) abnormalities.
 
 Genitourinary Effects
 
@@ -67,10 +67,10 @@ Although not observed in clinical trials of rivastigmine, drugs that increase ch
 
 Pulmonary Effects
 
-Drugs that increase cholinergic activity, including EXELON PATCH should be used with care in patients with a history of asthma or obstructive pulmonary disease.
+Drugs that increase cholinergic activity, including EXELON PATCH, should be used with care in patients with a history of asthma or obstructive pulmonary disease.
 
 ## 5.5 Impairment in Driving or Use of Machinery
 
 Dementia may cause gradual impairment of driving performance or compromise the ability to use machinery.
 The administration of rivastigmine may also result in adverse reactions that are detrimental to these functions.
-During treatment with the EXELON PATCH, routinely evaluate the patient's ability to continue driving or operating machinery.
+During treatment with EXELON PATCH, routinely evaluate the patient's ability to continue driving or operating machinery.

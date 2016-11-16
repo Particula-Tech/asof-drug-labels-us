@@ -29,9 +29,9 @@ No overall differences in safety or effectiveness were observed between these pa
 ## 8.6 Hepatic Impairment
 
 Increased exposure to rivastigmine was observed in patients with mild or moderate hepatic impairment with oral rivastigmine.
-Patients with mild or moderate hepatic impairment may be able to only tolerate lower doses [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
+Patients with mild or moderate hepatic impairment may be able to only tolerate lower doses [see Dosage and Administration (2.2), Clinical Pharmacology (12.3)].
 No data are available on the use of rivastigmine in patients with severe hepatic impairment.
 
 ## 8.7 Low or High Body Weight
 
-Because rivastigmine blood levels vary with weight, careful titration and monitoring should be performed in patients with low or high body weights [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
+Because rivastigmine blood levels vary with weight, careful titration and monitoring should be performed in patients with low or high body weights [see Dosage and Administration (2.2), Clinical Pharmacology (12.3)].

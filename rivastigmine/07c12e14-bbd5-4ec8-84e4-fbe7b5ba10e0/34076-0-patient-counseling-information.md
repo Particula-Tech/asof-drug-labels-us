@@ -43,4 +43,4 @@ Concomitant Use of Drugs with Cholinergic Action
 
 Inform patients or caregivers that while wearing EXELON PATCH, patients should not be taking EXELON Capsules or EXELON Oral Solution or other drugs with cholinergic effects.
 
-T2015-27 February 2015
+T2016-92 November 2016

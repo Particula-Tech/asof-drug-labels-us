@@ -2,9 +2,9 @@
 
 The following adverse reactions are described below and elsewhere in the labeling:
 
-- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.2)].
-- Skin Reactions [see Warnings and Precautions (5.3)].
-- Other Adverse Reactions from Increased Cholinergic Activity [see Warnings and Precautions (5.4)].
+- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.2)]
+- Skin Reactions [see Warnings and Precautions (5.3)]
+- Other Adverse Reactions from Increased Cholinergic Activity [see Warnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -32,7 +32,7 @@ The proportions of patients who discontinued treatment due to vomiting were 0%, 
 
 Adverse Reactions Observed at an Incidence of ≥2%
 
-Table 1 lists adverse reactions seen at an incidence of ≥2% in either EXELON PATCH-treated group in Study 1 and for which the rate of occurrence was greater for patients treated with that dose of EXELON PATCH than for those treated with placebo.
+Table 1 lists adverse reactions seen at an incidence of ≥2% in either EXELON PATCH-treated group in Study 1, and for which the rate of occurrence was greater for patients treated with that dose of EXELON PATCH than for those treated with placebo.
 The unapproved 17.4 mg/24 hours EXELON PATCH arm is included to demonstrate the increased rates of gastrointestinal adverse reactions over those seen with the 9.5 mg/24 hours EXELON PATCH.
 
 Table 1: Proportion of Adverse Reactions Observed with a Frequency of ≥2% and Occurring at a Rate Greater Than Placebo in Study 1
@@ -220,7 +220,17 @@ In patients with dementia associated with Parkinson’s disease the following ad
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post approval use of EXELON.
+The following adverse reactions have been identified during post approval use of EXELON Capsules, EXELON Oral Solution, or EXELON Patch.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Hypertension, application site hypersensitivity, urticaria, blister, allergic dermatitis, seizure, Parkinson’s disease (worsening), tachycardia, abnormal liver function tests, disseminated allergic dermatitis, and tremor.
+Cardiac Disorders: Tachycardia.
+
+Hepatobiliary Disorders: Abnormal liver function tests, hepatitis.
+
+Nervous System Disorders: Parkinson’s disease (worsening), seizure, tremor.
+
+Psychiatric Disorders: nightmares.
+
+Skin and Subcutaneous Tissue Disorders: Allergic dermatitis, application site hypersensitivity, blister, disseminated allergic dermatitis, Stevens-Johnson syndrome, urticaria.
+
+Vascular Disorders: Hypertension.

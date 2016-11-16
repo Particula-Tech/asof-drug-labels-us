@@ -20,7 +20,7 @@ The ADAS-Cog scoring range is from 0 to 70, with higher scores indicating greate
 Elderly normal adults may score as low as 0 or 1, but it is not unusual for non-demented adults to score slightly higher.
 
 The ability of the EXELON PATCH to produce an overall clinical effect was assessed using the Alzheimer’s Disease Cooperative Study-Clinical Global Impression of Change (ADCS-CGIC).
-The ADCS-CGIC is a more standardized form of the Clinician's Interview-Based Impression Of Change-Plus (CIBIC-Plus) and is also scored as a 7-point categorical rating; scores range from 1, indicating “markedly improved,” to 4, indicating “no change,” to 7, indicating “marked worsening.”
+The ADCS-CGIC is a more standardized form of the Clinician's Interview-Based Impression of Change-Plus (CIBIC-Plus) and is also scored as a 7-point categorical rating; scores range from 1, indicating “markedly improved,” to 4, indicating “no change,” to 7, indicating “marked worsening.”
 
 In Study 1, 1195 patients were randomized to 1 of the following 4 treatments: EXELON PATCH 9.5 mg/24 hours, EXELON PATCH 17.4 mg/24 hours, EXELON Capsules in a dose of 6 mg twice daily, or placebo.
 This 24-week study was divided into a 16-week titration phase followed by an 8-week maintenance phase.
@@ -48,7 +48,7 @@ Functional decline was assessed by the investigator and cognitive decline was de
 
 Study 2 was designed to compare the efficacy of EXELON PATCH 13.3 mg/ 24 hours versus that of EXELON PATCH 9.5 mg/24 hours during the 48-week, double-blind treatment phase.
 
-The ability of the EXELON PATCH 13.3 mg/24 hours to improve cognitive performance over that provided by the EXELON PATCH 9.5 mg/24 hours was assessed by the cognitive subscale of the Alzheimer’s Disease Assessment Scale (ADAS-Cog) [see Clinical Studies, International 24-Week Study (14)].
+The ability of the EXELON PATCH 13.3 mg/24 hours to improve cognitive performance over that provided by the EXELON PATCH 9.5 mg/24 hours was assessed by the cognitive subscale of the Alzheimer’s Disease Assessment Scale (ADAS-Cog) [see Clinical Studies, (14)].
 
 The ability of the EXELON PATCH 13.3 mg/24 hours to improve overall function versus that provided by EXELON PATCH 9.5 mg/24 hours was assessed by the instrumental subscale of the Alzheimer’s Disease Cooperative Study Activities of Daily Living (ADCS-IADL).
 The ADCS-IADL subscale is composed of items 7 to 23 of the caregiver-based ADCS-ADL scale.
@@ -91,9 +91,9 @@ This 24-week study was divided into an 8-week titration phase followed by a 16-w
 In the active treatment arms of this study, temporary dose adjustments below the target dose were permitted during the titration and maintenance phase in the event of poor tolerability.
 
 Figure 7 illustrates the time course for the mean change from baseline SIB scores for each treatment group over the course of the 24-week treatment phase of the study.
-Decline in the mean SIB score from the baseline for the Modified Full Analysis Set (MFAS)-Last Observation Carried Forward (LOCF) analysis was less at each timepoint in the 13.3 mg/24 hour EXELON PATCH treatment group than in the 4.6 mg/24 hours EXELON PATCH treatment group.
+Decline in the mean SIB score from the baseline for the Modified Full Analysis Set (MFAS)-Last Observation Carried Forward (LOCF) analysis was less at each timepoint in the 13.3 mg/24 hours EXELON PATCH treatment group than in the 4.6 mg/24 hours EXELON PATCH treatment group.
 The 13.3 mg/24 hours dose was statistically significantly superior to the 4.6 mg/24 hours dose at weeks 16 and 24 (primary endpoint).
 
 Figure 8 illustrates the time course for the mean change from baseline in ADCS-ADL-SIV scores for each treatment group over the course of the 24-week treatment phase of the study.
-Decline in the mean ADCS-ADL-SIV score from baseline for the MFAS-LOCF analysis was less at each timepoint in the 13.3 mg/24 hour EXELON PATCH treatment group than in the 4.6 mg/24 hours EXELON PATCH treatment group.
+Decline in the mean ADCS-ADL-SIV score from baseline for the MFAS-LOCF analysis was less at each timepoint in the 13.3 mg/24 hours EXELON PATCH treatment group than in the 4.6 mg/24 hours EXELON PATCH treatment group.
 The 13.3 mg/24 hours dose was statistically significantly superior to the 4.6 mg/24 hours dose at weeks 16 and 24 (primary endpoint).
