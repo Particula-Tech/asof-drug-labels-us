@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA050790"
+  ],
+  "inn": "cyclosporine",
+  "labeler": "Allergan, Inc.",
+  "package_ndcs": [
+    "0023-5301-01",
+    "0023-5301-05"
+  ],
+  "products": [
+    {
+      "form": "EMULSION",
+      "generic": "cyclosporine",
+      "name": "Restasis MultiDose"
+    }
+  ],
+  "setid": "7224d810-bb96-4682-a942-3355e6e8061a",
+  "source": "dailymed"
+}
