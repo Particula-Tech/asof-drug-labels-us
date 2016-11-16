@@ -6,4 +6,4 @@ Do not use Isordil Titradose in patients who are taking certain drugs for erecti
 Concomitant use can cause severe hypotension, syncope, or myocardial ischemia.
 
 Do not use Isordil Titradose in patients who are taking the soluble guanylate cyclase stimulator riociguat.
-Concomitant use can cause hypotension
+Concomitant use can cause hypotension.

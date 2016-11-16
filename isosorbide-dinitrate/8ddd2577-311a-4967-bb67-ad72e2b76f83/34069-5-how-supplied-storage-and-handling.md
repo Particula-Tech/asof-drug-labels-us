@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Isordil ® (isosorbide dinitrate) Oral Titradose™ Tablets are available as follows:
+Isordil® (isosorbide dinitrate) Oral Titradose® Tablets are available as follows:
 
 5 mg, round, pink tablets imprinted "BPI 152" on one side and deeply scored on reverse side:
 
@@ -10,7 +10,7 @@ NDC 0187-0152-01, bottles of 100.
 
 NDC 0187-0192-01, bottles of 100.
 
-Store at controlled room temperature, 25°C (77°F); excursions permitted to 15 -30° (59-86°F)
+Store at controlled room temperature, 25°C (77°F); excursions permitted to 15° to 30° (59° to 86°F) [see USP Controlled Room Temperature].
 
 Protect from light.
 
@@ -18,23 +18,15 @@ Keep bottles tightly closed.
 
 Dispense in a light-resistant, tight container.
 
-Isordil ® is a registered trademark of Valeant Pharmaceuticals North America LLC
+Keep out of reach of children.
 
-Manufactured for:
+Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-Valeant Pharmaceuticals North America LLC
+By: MEDA Manufacturing GmbH Cologne, Germany D-51063
 
-Bridgewater, NJ 08807 USA
+©Valeant Pharmaceuticals North America LLC ®/™ are trademarks of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
-By:
-
-MEDA Manufacturing GmbH
-
-Cologne, Germany D-51063
-
-Made in Germany
-
-9434500 20000877
+9434501 20001629
 
 Rev.
-03/15
+10/2016

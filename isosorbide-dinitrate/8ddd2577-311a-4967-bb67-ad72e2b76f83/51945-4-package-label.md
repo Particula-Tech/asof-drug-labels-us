@@ -2,30 +2,30 @@
 
 NDC 0187-0152-01
 
-Isordil ®5 (isosorbide dinitrate)
+Rx only
+
+Isordil®5 (isosorbide dinitrate)
 
 5 mg
 
-TITRADOSE™
+TITRADOSE®
 
 100 Tablets
 
-Rx only
-
-Valeant Pharmaceuticals North America LLC
+Valeant
 
 # PRINCIPAL DISPLAY PANEL - 40 mg Label
 
 NDC 0187-0192-01
 
-Isordil ®40 (isosorbide dinitrate)
+Rx only
+
+Isordil®40 (isosorbide dinitrate)
 
 40 mg
 
-TITRADOSE™
+TITRADOSE®
 
 100 Tablets
 
-Rx only
-
-Valeant Pharmaceuticals North America LLC
+Valeant

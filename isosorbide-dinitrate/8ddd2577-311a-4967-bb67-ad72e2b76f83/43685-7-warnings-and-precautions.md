@@ -52,7 +52,7 @@ Concomitant use of Isordil Titradose with riociguat, a soluble guanylate cyclase
 No long-term studies in animals have been performed to evaluate the carcinogenic potential of isosorbide dinitrate.
 In a modified two-litter reproduction study, there was no remarkable gross pathology and no altered fertility or gestation among rats fed isosorbide dinitrate at 25 or 100 mg/kg/day.
 
-## Pregnancy Category C
+## Pregnancy
 
 At oral doses 35 and 150 times the maximum recommended human daily dose, isosorbide dinitrate has been shown to cause a dose-related increase in embryotoxicity (increase in mummified pups) in rabbits.
 There are no adequate, well-controlled studies in pregnant women.
