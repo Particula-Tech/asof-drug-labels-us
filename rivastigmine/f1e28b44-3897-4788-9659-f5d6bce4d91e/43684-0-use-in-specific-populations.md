@@ -21,18 +21,18 @@ The use of EXELON in pediatric patients (below 18 years of age) is not recommend
 
 ## 8.5 Geriatric Use
 
-Of the total number of patients in clinical studies of EXELON, 86 percent were 65 years and older while 46 percent were 75 years and older.
+Of the total number of patients in clinical studies of EXELON, 86 % were 65 years and older while 46 % were 75 years and older.
 No overall differences in safety or effectiveness were observed between these patients and younger patients, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
 ## 8.6 Renal Impairment
 
-Patients with moderate to severe renal impairment may be able to only tolerate lower doses [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+Patients with moderate to severe renal impairment may be able to only tolerate lower doses [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
-Patients with mild or moderate hepatic impairment may be able to only tolerate lower doses [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+Patients with mild or moderate hepatic impairment may be able to only tolerate lower doses [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)].
 No data are available on the use of EXELON in patients with severe hepatic impairment.
 
 ## 8.8 Low or High Body Weight
 
-Because rivastigmine blood levels vary with weight, careful titration and monitoring should be performed in patients with low or high body weights [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+Because rivastigmine blood levels vary with weight, careful titration and monitoring should be performed in patients with low or high body weights [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)].

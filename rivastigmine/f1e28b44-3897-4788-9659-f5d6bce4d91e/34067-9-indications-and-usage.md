@@ -2,7 +2,7 @@
 
 ## 1.1 Alzheimer’s Disease
 
-EXELON is indicated for the treatment of mild to moderate dementia of the Alzheimer's type.
+EXELON is indicated for the treatment of mild to moderate dementia of the Alzheimer's type (AD).
 
 ## 1.2 Parkinson’s Disease Dementia
 

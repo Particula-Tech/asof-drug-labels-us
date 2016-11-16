@@ -45,7 +45,7 @@ Cardiac Conduction Effects
 
 Because rivastigmine increases cholinergic activity, use of rivastigmine may have vagotonic effects on heart rate (e.g., bradycardia).
 The potential for this action may be particularly important in patients with sick sinus syndrome or other supraventricular cardiac conduction conditions.
-In clinical trials, rivastigmine was not associated with any increased incidence of cardiovascular adverse events, heart rate or blood pressure changes, or ECG abnormalities.
+In clinical trials, rivastigmine was not associated with any increased incidence of cardiovascular adverse events, heart rate or blood pressure changes, or electrocardiogram (ECG) abnormalities.
 Syncopal episodes have been reported in 3% of patients receiving 6 mg to 12 mg per day of EXELON, compared to 2% of placebo patients.
 
 Genitourinary Effects

@@ -2,9 +2,9 @@
 
 The following adverse reactions are described below and elsewhere in the labeling:
 
-- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.1)].
-- Allergic Dermatitis [see Warnings and Precautions (5.2)].
-- Other Adverse Reactions from Increased Cholinergic Activity [see Warnings and Precautions (5.3)].
+- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.1)]
+- Allergic Dermatitis [see Warnings and Precautions (5.2)]
+- Other Adverse Reactions from Increased Cholinergic Activity [see Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -32,11 +32,11 @@ While on a maintenance dose, the rates were 6% for patients on EXELON compared t
 
 The most common adverse reactions leading to discontinuation, defined as those occurring in at least 2% of patients and at twice the incidence seen in placebo patients, are shown in Table 1.
 
-Table 1 Most Frequent Adverse Reactions Leading to Withdrawal from Clinical Trials during Titration and Maintenance in Patients Receiving 6 mg to 12 mg per day EXELON Using a Forced-Dose Titration
+Table 1: Most Frequent Adverse Reactions Leading to Withdrawal from Clinical Trials during Titration and Maintenance in Patients Receiving 6 mg to 12 mg per day EXELON Using a Forced-Dose Titration
 
 | Study Phase | Titration |  | Maintenance |  | Overall |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | EXELON ≥6-12 mg/day | Placebo | EXELON ≥6-12 mg/day | Placebo | EXELON ≥6-12 mg/day | Placebo |
+|  | EXELON ≥6 to 12 mg/day | Placebo | EXELON ≥6 to 12 mg/day | Placebo | EXELON ≥6 to 12 mg/day | Placebo |
 |  | (n=1,189) | (n=868) | (n=987) | (n=788) | (n=1,189) | (n=868) |
 | Event/% Discontinuing |  |  |  |  |  |  |
 | Nausea | 8 | <1 | 1 | <1 | 8 | 1 |
@@ -53,7 +53,7 @@ In general, adverse reactions were less frequent later in the course of treatmen
 No systematic effect of race or age could be determined from the incidence of adverse reactions in the controlled studies.
 Nausea, vomiting and weight loss were more frequent in women than men.
 
-Table 2 Proportion of Adverse Reactions Observed with a Frequency of ≥2% and at a Rate Greater than Placebo in Clinical Trials
+Table 2: Proportion of Adverse Reactions Observed with a Frequency of ≥2% and at a Rate Greater than Placebo in Clinical Trials
 
 | Body System/Adverse Reaction | EXELON (6-12 mg/day) (n=1,189) | Placebo (n=868) |
 | --- | --- | --- |
@@ -127,11 +127,11 @@ Table 3 lists adverse reactions that occurred in at least 2% of patients in a si
 
 In general, adverse reactions were less frequent later in the course of treatment.
 
-Table 3 Proportion of Adverse Reactions Observed at a Frequency ≥2% and Occurring at Rate Greater than Placebo in Clinical Trials
+Table 3: Proportion of Adverse Reactions Observed at a Frequency ≥2% and Occurring at Rate Greater than Placebo in Clinical Trials
 
 |  | Active-Controlled Study | Placebo-Controlled Study |  |
 | --- | --- | --- | --- |
-| Body System/Adverse Reaction | EXELON (3-12 mg/day) (n=294) | EXELON (3-12 mg/day) (n=362) | Placebo (n=179) |
+| Body System/Adverse Reaction | EXELON (3 to 12 mg/day) (n=294) | EXELON (3 to 12 mg/day) (n=362) | Placebo (n=179) |
 | Percent of Patients with any Adverse Event | 88 | 84 | 71 |
 | Gastrointestinal Disorders |  |  |  |
 | Nausea | 38 | 29 | 11 |
@@ -169,11 +169,15 @@ Table 3 Proportion of Adverse Reactions Observed at a Frequency ≥2% and Occurr
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post approval use of EXELON.
+The following adverse reactions have been identified during post approval use of EXELON Capsules, EXELON Oral Solution, or EXELON Patch.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Hepatobiliary Disorders: Hepatitis.
+Cardiac Disorders: Tachycardia.
 
-Psychiatric Disorders: Aggression.
+Hepatobiliary Disorders: Abnormal liver function tests, hepatitis.
 
-Skin and Appendages: Stevens-Johnson syndrome, disseminated allergic dermatitis.
+Nervous System Disorders: seizure.
+
+Psychiatric Disorders: Aggression, nightmares.
+
+Skin and Subcutaneous Tissue Disorders: Allergic dermatitis, application site hypersensitivity (patch), blister, disseminated allergic dermatitis, Stevens-Johnson syndrome, urticaria.

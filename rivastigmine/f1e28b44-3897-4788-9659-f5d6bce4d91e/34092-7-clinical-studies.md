@@ -38,7 +38,7 @@ Figure 1 illustrates the time course for the change from baseline in ADAS-cog sc
 At 26 weeks of treatment, the mean differences in the ADAS-cog change scores for the EXELON-treated patients compared to the patients on placebo were 1.9 and 4.9 units for the 1 mg to 4 mg and 6 mg to 12 mg treatments, respectively.
 Both treatments were statistically significantly superior to placebo and the 6 mg to 12 mg per day range was significantly superior to the 1 mg to 4 mg per day range.
 
-Figure 2 illustrates the cumulative percentages of patients from each of the 3 treatment groups who had attained at least the measure of improvement in ADAS-cog score shown on the X-axis.
+Figure 2 illustrates the cumulative percentages of patients from each of the 3 treatment groups who had attained at least the measure of improvement in ADAS-cog score shown on the x-axis.
 Three change scores, (7-point and 4-point reductions from baseline or no change in score) have been identified for illustrative purposes, and the percent of patients in each group achieving that result is shown in the inset table.
 
 The curves demonstrate that both patients assigned to EXELON and placebo have a wide range of responses, but that the EXELON groups are more likely to show the greater improvements.
@@ -60,7 +60,7 @@ At 26 weeks of treatment, the mean differences in the ADAS-cog change scores for
 The 6 mg to 12 mg per day group was statistically significantly superior to placebo, as well as to the 1 mg to 4 mg per day group.
 The difference between the 1 mg to 4 mg per day group and placebo was not statistically significant.
 
-Figure 5 illustrates the cumulative percentages of patients from each of the 3 treatment groups who had attained at least the measure of improvement in ADAS-cog score shown on the X-axis.
+Figure 5 illustrates the cumulative percentages of patients from each of the 3 treatment groups who had attained at least the measure of improvement in ADAS-cog score shown on the x-axis.
 Similar to the U.S. 26-week study, the curves demonstrate that both patients assigned to EXELON and placebo have a wide range of responses, but that the 6 mg to 12 mg per day EXELON group is more likely to show the greater improvements.
 
 Figure 6 is a histogram of the frequency distribution of CIBIC-Plus scores attained by patients assigned to each of the 3 treatment groups who completed 26 weeks of treatment.

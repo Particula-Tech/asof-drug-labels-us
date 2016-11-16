@@ -73,7 +73,7 @@ After multiple 6-mg twice a day oral dosing, the mean clearance of rivastigmine 
 
 Smoking
 
-Following oral rivastigmine administration (up to 12 mg/day) with nicotine use, population pharmacokinetic analysis showed increased oral clearance of rivastigmine by 23% (n=75 smokers and 549 nonsmokers).
+Following oral rivastigmine administration (up to 12 mg per day) with nicotine use, population pharmacokinetic analysis showed increased oral clearance of rivastigmine by 23% (n=75 smokers and 549 nonsmokers).
 
 Drug Interaction Studies
 
