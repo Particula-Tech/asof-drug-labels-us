@@ -208,8 +208,6 @@ Effects on male fertility have not been determined.
 
 ## Pregnancy
 
-### Pregnancy Category C
-
 Reproduction studies have been performed in rabbits and rats at oral doses up to 1.5 (15 mg/kg/day) and 6 (60 mg/kg/day) times the human oral daily dose, respectively, and have revealed no evidence of teratogenicity.
 In the rat, however, this multiple of the human dose was embryocidal and retarded fetal growth and development, probably because of adverse maternal effects reflected in reduced weight gains of the dams.
 This oral dose has also been shown to cause hypotension in rats.

@@ -9,10 +9,4 @@ Actual treatment and dosage should depend on the severity of the clinical situat
 Manufactured for: G.D.
 Searle LLC Division of Pfizer, Inc NY, NY 10017
 
-by: (120 mg and 180 mg caplets) Abbott Laboratories North Chicago, IL 60064
-
-Pfizer, Inc Caguas, PR 00725
-
-(240 mg caplets) Abbott GmbH & Co. KG Ludwigshafen, Germany
-
-LAB-0268-8.0 August 2016
+LAB-0268-9.0 October 2016
