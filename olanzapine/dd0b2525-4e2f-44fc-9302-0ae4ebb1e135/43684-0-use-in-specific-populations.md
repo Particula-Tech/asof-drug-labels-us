@@ -43,16 +43,15 @@ It is recommended that women receiving olanzapine should not breast-feed.
 The safety and effectiveness of oral olanzapine in the treatment of schizophrenia and manic or mixed episodes associated with bipolar I disorder were established in short-term studies in adolescents (ages 13 to 17 years).
 Use of olanzapine in adolescents is supported by evidence from adequate and well-controlled studies of olanzapine in which 268 adolescents received olanzapine in a range of 2.5 to 20 mg/day [see Clinical Studies (14.1, 14.2)].
 Recommended starting dose for adolescents is lower than that for adults [see Dosage and Administration (2.1, 2.2)].
-Compared to patients from adult clinical trials, adolescents were likely to gain more weight, experience increased sedation, and have greater increases in total cholesterol, triglycerides, LDL cholesterol, prolactin and hepatic aminotransferase levels [see Warnings and Precautions (5.4, 5.13, 5.15) and Adverse Reactions (6.3)].
+Compared to patients from adult clinical trials, adolescents were likely to gain more weight, experience increased sedation, and have greater increases in total cholesterol, triglycerides, LDL cholesterol, prolactin and hepatic aminotransferase levels [see Warnings and Precautions (5.5, 5.14, 5.16) and Adverse Reactions (6.3)].
 When deciding among the alternative treatments available for adolescents, clinicians should consider the increased potential (in adolescents as compared with adults) for weight gain and dyslipidemia.
 Clinicians should consider the potential long-term risks when prescribing to adolescents, and in many cases this may lead them to consider prescribing other drugs first in adolescents [see Indications and Usage (1.1, 1.2)].
 
-Safety and effectiveness of olanzapine in children < 13 years of age have not been established [see Patient Counseling Information (17.13)].
+Safety and effectiveness of olanzapine in children <13 years of age have not been established [see Patient Counseling Information (17.14)].
 
-Safety and effectiveness of olanzapine and fluoxetine in combination in children < 10 years of age have not been established.
+Safety and efficacy of olanzapine and fluoxetine in combination in children and adolescents (10 to 17 years of age) have been established for the acute treatment of depressive episodes associated with bipolar I disorder.
 
-Safety and effectiveness information for pediatric patients (10 to 17 years) is approved for Eli Lilly and Company’s olanzapine tablets and olanzapine orally disintegrating tablets.
-However, due to Eli Lilly and Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Safety and effectiveness of olanzapine and fluoxetine in combination in children <10 years of age have not been established.
 
 ## 8.5 Geriatric Use
 
@@ -64,4 +63,4 @@ In placebo-controlled studies of olanzapine in elderly patients with dementia-re
 Olanzapine is not approved for the treatment of patients with dementia-related psychosis.
 Also, the presence of factors that might decrease pharmacokinetic clearance or increase the pharmacodynamic response to olanzapine should lead to consideration of a lower starting dose for any geriatric patient [see Boxed Warning, Dosage and Administration (2.1), and Warnings and Precautions (5.1)].
 
-Clinical studies of olanzapine and fluoxetine in combination did not include sufficient numbers of patients ≥ 65 years of age to determine whether they respond differently from younger patients.
+Clinical studies of olanzapine and fluoxetine in combination did not include sufficient numbers of patients ≥65 years of age to determine whether they respond differently from younger patients.

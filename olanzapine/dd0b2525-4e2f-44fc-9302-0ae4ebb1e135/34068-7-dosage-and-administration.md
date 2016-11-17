@@ -4,7 +4,7 @@
 
 Adults
 
-Dose Selection - Olanzapine orally disintegrating tablets should be administered on a once-a-day schedule without regard to meals, generally beginning with 5 to 10 mg initially, with a target dose of 10 mg/day within several days.
+Dose Selection — Olanzapine orally disintegrating tablets should be administered on a once-a-day schedule without regard to meals, generally beginning with 5 to 10 mg initially, with a target dose of 10 mg/day within several days.
 Further dosage adjustments, if indicated, should generally occur at intervals of not less than 1 week, since steady state for olanzapine orally disintegrating tablets would not be achieved for approximately 1 week in the typical patient.
 When dosage adjustments are necessary, dose increments/decrements of 5 mg QD are recommended.
 
@@ -13,21 +13,21 @@ However, doses above 10 mg/day were not demonstrated to be more efficacious than
 An increase to a dose greater than the target dose of 10 mg/day (i.e., to a dose of 15 mg/day or greater) is recommended only after clinical assessment.
 Olanzapine orally disintegrating tablets are not indicated for use in doses above 20 mg/day.
 
-Dosing in Special Populations - The recommended starting dose is 5 mg in patients who are debilitated, who have a predisposition to hypotensive reactions, who otherwise exhibit a combination of factors that may result in slower metabolism of olanzapine orally disintegrating tablets (e.g., nonsmoking female patients ≥ 65 years of age), or who may be more pharmacodynamically sensitive to olanzapine orally disintegrating tablets [see Warnings and Precautions (5.12), Drug Interactions (7), and Clinical Pharmacology (12.3)].
+Dosing in Special Populations — The recommended starting dose is 5 mg in patients who are debilitated, who have a predisposition to hypotensive reactions, who otherwise exhibit a combination of factors that may result in slower metabolism of olanzapine (e.g., nonsmoking female patients ≥65 years of age), or who may be more pharmacodynamically sensitive to olanzapine [see Warnings and Precautions (5.13), Drug Interactions (7), and Clinical Pharmacology (12.3)].
 When indicated, dose escalation should be performed with caution in these patients.
 
-Maintenance Treatment - The effectiveness of olanzapine orally disintegrating tablets, 10 mg/day to 20 mg/day, in maintaining treatment response in schizophrenic patients who had been stable on olanzapine orally disintegrating tablets for approximately 8 weeks and were then followed for relapse has been demonstrated in a placebo-controlled trial [see Clinical Studies (14.1)].
-The physician who elects to use olanzapine orally disintegrating tablets for extended periods should periodically reevaluate the long-term usefulness of the drug for the individual patient.
+Maintenance Treatment — The effectiveness of oral olanzapine, 10 mg/day to 20 mg/day, in maintaining treatment response in schizophrenic patients who had been stable on olanzapine for approximately 8 weeks and were then followed for relapse has been demonstrated in a placebo-controlled trial [see Clinical Studies (14.1)].
+The physician who elects to use olanzapine for extended periods should periodically reevaluate the long-term usefulness of the drug for the individual patient.
 
 Adolescents
 
-Dose Selection - Olanzapine orally disintegrating tablets should be administered on a once-a-day schedule without regard to meals with a recommended starting dose of 2.5 or 5 mg, with a target dose of 10 mg/day.
+Dose Selection — Olanzapine orally disintegrating tablets should be administered on a once-a-day schedule without regard to meals with a recommended starting dose of 2.5 or 5 mg, with a target dose of 10 mg/day.
 Efficacy in adolescents with schizophrenia was demonstrated based on a flexible dose range of 2.5 to 20 mg/day in clinical trials, with a mean modal dose of 12.5 mg/day (mean dose of 11.1 mg/day).
 When dosage adjustments are necessary, dose increments/decrements of 2.5 or 5 mg are recommended.
 
 The safety and effectiveness of doses above 20 mg/day have not been evaluated in clinical trials [see Clinical Studies (14.1)].
 
-Maintenance Treatment - The efficacy of olanzapine for the maintenance treatment of schizophrenia in the adolescent population has not been systematically evaluated; however, maintenance efficacy can be extrapolated from adult data along with comparisons of olanzapine pharmacokinetic parameters in adult and adolescent patients.
+Maintenance Treatment — The efficacy of olanzapine for the maintenance treatment of schizophrenia in the adolescent population has not been systematically evaluated; however, maintenance efficacy can be extrapolated from adult data along with comparisons of olanzapine pharmacokinetic parameters in adult and adolescent patients.
 Thus, it is generally recommended that responding patients be continued beyond the acute response, but at the lowest dose needed to maintain remission.
 Patients should be periodically reassessed to determine the need for maintenance treatment.
 
@@ -35,30 +35,30 @@ Patients should be periodically reassessed to determine the need for maintenance
 
 Adults
 
-Dose Selection for Monotherapy - Olanzapine orally disintegrating tablets should be administered on a once-a-day schedule without regard to meals, generally beginning with 10 or 15 mg.
+Dose Selection for Monotherapy — Olanzapine orally disintegrating tablets should be administered on a once-a-day schedule without regard to meals, generally beginning with 10 or 15 mg.
 Dosage adjustments, if indicated, should generally occur at intervals of not less than 24 hours, reflecting the procedures in the placebo-controlled trials.
 When dosage adjustments are necessary, dose increments/decrements of 5 mg QD are recommended.
 
 Short-term (3 to 4 weeks) antimanic efficacy was demonstrated in a dose range of 5 mg to 20 mg/day in clinical trials.
 The safety of doses above 20 mg/day has not been evaluated in clinical trials [see Clinical Studies (14.2)].
 
-Maintenance Monotherapy - The benefit of maintaining bipolar I patients on monotherapy with olanzapine orally disintegrating tablets at a dose of 5 to 20 mg/day, after achieving a responder status for an average duration of 2 weeks, was demonstrated in a controlled trial [see Clinical Studies (14.2)].
+Maintenance Monotherapy — The benefit of maintaining bipolar I patients on monotherapy with olanzapine orally disintegrating tablets at a dose of 5 to 20 mg/day, after achieving a responder status for an average duration of 2 weeks, was demonstrated in a controlled trial [see Clinical Studies (14.2)].
 The physician who elects to use olanzapine orally disintegrating tablets for extended periods should periodically reevaluate the long-term usefulness of the drug for the individual patient.
 
-Dose Selection for Adjunctive Treatment - When administered as adjunctive treatment to lithium or valproate, olanzapine orally disintegrating tablet dosing should generally begin with 10 mg once-a-day without regard to meals.
+Dose Selection for Adjunctive Treatment — When administered as adjunctive treatment to lithium or valproate, olanzapine orally disintegrating tablets dosing should generally begin with 10 mg once-a-day without regard to meals.
 
 Antimanic efficacy was demonstrated in a dose range of 5 mg to 20 mg/day in clinical trials [see Clinical Studies (14.2)].
 The safety of doses above 20 mg/day has not been evaluated in clinical trials.
 
 Adolescents
 
-Dose Selection - Olanzapine orally disintegrating tablets should be administered on a once-a-day schedule without regard to meals with a recommended starting dose of 2.5 or 5 mg, with a target dose of 10 mg/day.
+Dose Selection — Olanzapine orally disintegrating tablets should be administered on a once-a-day schedule without regard to meals with a recommended starting dose of 2.5 or 5 mg, with a target dose of 10 mg/day.
 Efficacy in adolescents with bipolar I disorder (manic or mixed episodes) was demonstrated based on a flexible dose range of 2.5 to 20 mg/day in clinical trials, with a mean modal dose of 10.7 mg/day (mean dose of 8.9 mg/day).
 When dosage adjustments are necessary, dose increments/decrements of 2.5 or 5 mg are recommended.
 
 The safety and effectiveness of doses above 20 mg/day have not been evaluated in clinical trials [see Clinical Studies (14.2)].
 
-Maintenance Treatment - The efficacy of olanzapine for the maintenance treatment of bipolar I disorder in the adolescent population has not been evaluated; however, maintenance efficacy can be extrapolated from adult data along with comparisons of olanzapine pharmacokinetic parameters in adult and adolescent patients.
+Maintenance Treatment — The efficacy of olanzapine for the maintenance treatment of bipolar I disorder in the adolescent population has not been evaluated; however, maintenance efficacy can be extrapolated from adult data along with comparisons of olanzapine pharmacokinetic parameters in adult and adolescent patients.
 Thus, it is generally recommended that responding patients be continued beyond the acute response, but at the lowest dose needed to maintain remission.
 Patients should be periodically reassessed to determine the need for maintenance treatment.
 
@@ -82,8 +82,9 @@ Safety of co-administration of doses above 18 mg olanzapine with 75 mg fluoxetin
 
 Children and Adolescents (10 to 17 years of age)
 
-Dosage and Administration information for pediatric patients (10 to 17 years) is approved for Eli Lilly and Company’s olanzapine tablets and olanzapine orally disintegrating tablets.
-However, due to Eli Lilly and Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Oral olanzapine should be administered in combination with fluoxetine once daily in the evening, without regard to meals, generally beginning with 2.5 mg of oral olanzapine and 20 mg of fluoxetine.
+Dosage adjustments, if indicated, can be made according to efficacy and tolerability.
+Safety of co-administration of doses above 12 mg olanzapine with 50 mg fluoxetine has not been evaluated in pediatric clinical studies.
 
 Safety and efficacy of olanzapine and fluoxetine in combination was determined in clinical trials supporting approval of Symbyax (fixed dose combination of olanzapine and fluoxetine).
 Symbyax is dosed between 3 mg/25 mg (olanzapine/fluoxetine) per day and 12 mg/50 mg (olanzapine/fluoxetine) per day.
@@ -107,4 +108,4 @@ Olanzapine monotherapy is not indicated for the treatment of depressive episodes
 The starting dose of oral olanzapine 2.5 to 5 mg with fluoxetine 20 mg should be used for patients with a predisposition to hypotensive reactions, patients with hepatic impairment, or patients who exhibit a combination of factors that may slow the metabolism of olanzapine or fluoxetine in combination (female gender, geriatric age, nonsmoking status), or those patients who may be pharmacodynamically sensitive to olanzapine.
 Dosing modification may be necessary in patients who exhibit a combination of factors that may slow metabolism.
 When indicated, dose escalation should be performed with caution in these patients.
-Olanzapine and fluoxetine in combination have not been systematically studied in patients over 65 years of age or in patients under 10 years of age [see Warnings and Precautions (5.12), Drug Interactions (7), and Clinical Pharmacology (12.3)].
+Olanzapine and fluoxetine in combination have not been systematically studied in patients over 65 years of age or in patients under 10 years of age [see Warnings and Precautions (5.13), Drug Interactions (7), and Clinical Pharmacology (12.3)].

@@ -18,6 +18,6 @@ Dispense in a tight, light-resistant container as defined in the USP, with a chi
 
 The USP defines controlled room temperature as a temperature maintained thermostatically that encompasses the usual and customary working environment of 20° to 25°C (68° to 77°F); that results in a mean kinetic temperature calculated to be not more than 25°C; and that allows for excursions between 15° and 30°C (59° and 86°F) that are experienced in pharmacies, hospitals, and warehouses.
 
-PROTECT FROM LIGHT AND MOISTURE
+PROTECT FROM LIGHT AND MOISTURE.
 
 KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.

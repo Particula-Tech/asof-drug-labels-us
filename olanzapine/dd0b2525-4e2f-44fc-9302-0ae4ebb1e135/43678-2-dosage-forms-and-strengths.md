@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Olanzapine orally disintegrating tablets are available as:
+Olanzapine Orally Disintegrating Tablets USP are available as:
 
 | 5 mg: | Yellow, round, flat-faced, beveled-edge, unscored tablets, debossed with “TV” over “U1” on one side and “5” on the other side. |
 | --- | --- |
