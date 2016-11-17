@@ -29,4 +29,4 @@ Excursions permitted to 15°C to 30°C (59°F to 86°F).
 ## 16.3 Handling and Disposal
 
 Used Vogelxo tubes, packets or pumps should be discarded in household trash in a manner that prevents accidental exposure of women, children, or pets [see Boxed Warning and Warnings and Precautions (5.2)].
-Contents are flammable [see Warnings and Precautions (5.15)].
+Contents are flammable [see Warnings and Precautions (5.16)].

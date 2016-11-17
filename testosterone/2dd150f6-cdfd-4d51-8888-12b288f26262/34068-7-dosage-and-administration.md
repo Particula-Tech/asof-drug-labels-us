@@ -50,7 +50,7 @@ Application sites should be allowed to dry completely prior to dressing.
 
 Hands should be washed thoroughly with soap and water after Vogelxo has been applied.
 
-Avoid fire, flame or smoking during the application of Vogelxo until the Vogelxo has dried [see Warnings and Precautions (5.2, 5.15)].
+Avoid fire, flame or smoking during the application of Vogelxo until the Vogelxo has dried [see Warnings and Precautions (5.2, 5.16)].
 
 In order to prevent transfer to another person, clothing should be worn to cover the application sites.
 If direct skin-to-skin contact of the application site(s) with another person is anticipated, the application sites must be washed thoroughly with soap and water [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
