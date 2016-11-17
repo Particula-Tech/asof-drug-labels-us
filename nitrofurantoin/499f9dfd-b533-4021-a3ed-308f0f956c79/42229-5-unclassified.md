@@ -55,27 +55,27 @@ Dilution Techniques
 
 Quantitative methods are used to determine antimicrobial minimal inhibitory concentrations (MIC's).
 These MIC's provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MIC's should be determined using a standardized test method1,3 (broth or agar).
+The MIC's should be determined using a standardized test method1,3(broth or agar).
 The MIC values should be interpreted according to the criteria in Table 1.
 
 Diffusion Techniques
 
 Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
-The zone size should be determined using a standardized method.2 This procedure uses paper disks impregnated with 300 mcg of nitrofurantoin to test the susceptibility of bacteria to nitrofurantoin.
+The zone size should be determined using a standardized method.2This procedure uses paper disks impregnated with 300 mcg of nitrofurantoin to test the susceptibility of bacteria to nitrofurantoin.
 The disk diffusion interpretive criteria are provided in Table 1.
 
 Table 1: Suceptibility interpretive Criteria for Nitrofurantoin
 
 | Pathogen | Minimum Inhibitory Concentrations (mcg/ml) |  |  | Disk Diffusion Zone (mm) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| S | I | R | S | I | R |  |
+|  | S | I | R | S | I | R |
 | Enterobacteriaceae | ≤32 | 64 | ≥128 | ≥17 | 15-16 | ≤14 |
 | Staphylococcusaureus | ≤32 | 64 | ≥128 | ≥17 | 15-16 | ≤14 |
 | Enterococcus species | ≤32 | 64 | ≥128 | ≥17 | 15-16 | ≤14 |
 | S=susceptible, I=intermediate, R=resistant |  |  |  |  |  |  |
 
-A report of "Susceptible” indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentration at the infection site necessary to inhibit growth of the pathogen.
+A report of "Susceptible" indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentration at the infection site necessary to inhibit growth of the pathogen.
 A report of "Intermediate" indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
 This category implies possible clinical applicability in body site where the drug is physiologically concentrated.
 This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
@@ -93,7 +93,7 @@ Table 2: Acceptable Quality Control Ranges for Susceptibility Testing
 | Escherichia coli (ATCC 25922) | 4-16 | 20-25 |
 | Staphylococcus aureus (ATCC 25923) | N/A* | 18-22 |
 | Staphylococcus aureus (ATCC 29213) | 8-32 | N/A* |
-| Streptococcus pneumoniae (ATCC 49619) | 4-16 | 23-29 |
+| Streptococcus pneumonia (ATCC 49619) | 4-16 | 23-29 |
 | Enterococcus faecalis (ATCC 29212) | 4-16 | N/A* |
 | * Not Applicable |  |  |
 

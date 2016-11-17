@@ -72,7 +72,7 @@ The resulting increase in nitrofurantoin serum levels may increase toxicity, and
 As a result of the presence of nitrofurantoin, a false-positive reaction for glucose in the urine may occur.
 This has been observed with Benedict's and Fehling's solutions but not with the glucose enzymatic test.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis & Mutagenesis & Impairment of Fertility
 
 Nitrofurantoin was not carcinogenic when fed to female Holtzman rats for 44.5 weeks or to female Sprague-Dawley rats for 75 weeks.
 Two chronic rodent bioassays utilizing male and female Sprague-Dawley rats and two chronic bioassays in Swiss mice and in BDF1 mice revealed no evidence of carcinogenicity.
