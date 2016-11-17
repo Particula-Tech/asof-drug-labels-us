@@ -33,8 +33,6 @@ Following single doses of NEXICLON XR 0.17 mg, clonidine mean (S.D.) peak plasma
 The plasma half-life of clonidine was 13.7 (±3.0) hours.
 There was no effect of food on the pharmacokinetic parameters.
 
-[IC] [/IC]
-
 A = NEXICLON XR Tablets (0.17 mg QD) Fasted
 
 B = Clonidine IR Tablet (0.1 mg clonidine hydrochloride Q12h) Fasted
@@ -43,8 +41,6 @@ C = NEXICLON XR Tablets (017 mg QD) Fed
 
 In the multi-dose study, mild to moderate hypertensive patients were randomized to ER and BID IR clonidine formulations.
 The following plot shows the sitting blood pressure values for each treatment group at Day 22.
-
-[IC] [/IC]
 
 The half-life may increase up to 41 hours in patients with severe impairment of renal function.
 Following oral administration of clonidine about 40 to 60% of the absorbed dose is recovered in the urine as unchanged drug in 24 hours.

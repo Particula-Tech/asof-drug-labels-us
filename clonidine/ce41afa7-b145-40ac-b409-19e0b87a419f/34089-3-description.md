@@ -7,7 +7,9 @@ Clonidine hydrochloride, a centrally active alpha-adrenergic agonist, is an imid
 The chemical name is 2-(2.6-dichlorophenylamino)-2-imidazoline hydrochloride.
 The following is the structural formula:
 
-[IC]
+C9H9Cl2N3·HCl Mol.
+Wt.
+266.56
 
 Clonidine hydrochloride is an odorless, bitter, white crystalline substance soluble in water and alcohol.
 
