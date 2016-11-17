@@ -1,8 +1,8 @@
 # DOSAGE AND ADMINISTRATION
 
-## Major Depressive Disorder
+## Major Depressive Disorder:
 
-### Usual Initial Dosage
+### Usual Initial Dosage:
 
 PAXIL CR should be administered as a single daily dose, usually in the morning, with or without food.
 The recommended initial dose is 25 mg/day.
@@ -13,7 +13,7 @@ Dose changes should occur at intervals of at least 1 week.
 
 Patients should be cautioned that PAXIL CR should not be chewed or crushed, and should be swallowed whole.
 
-### Maintenance Therapy
+### Maintenance Therapy:
 
 There is no body of evidence available to answer the question of how long the patient treated with PAXIL CR should remain on it.
 It is generally agreed that acute episodes of major depressive disorder require several months or longer of sustained pharmacologic therapy.
@@ -21,9 +21,9 @@ Whether the dose of an antidepressant needed to induce remission is identical to
 
 Systematic evaluation of the efficacy of immediate-release paroxetine hydrochloride has shown that efficacy is maintained for periods of up to 1 year with doses that averaged about 30 mg, which corresponds to a 37.5-mg dose of PAXIL CR, based on relative bioavailability considerations (see CLINICAL PHARMACOLOGY: Pharmacokinetics).
 
-## Panic Disorder
+## Panic Disorder:
 
-### Usual Initial Dosage
+### Usual Initial Dosage:
 
 PAXIL CR should be administered as a single daily dose, usually in the morning.
 Patients should be started on 12.5 mg/day.
@@ -33,16 +33,16 @@ The maximum dosage should not exceed 75 mg/day.
 
 Patients should be cautioned that PAXIL CR should not be chewed or crushed, and should be swallowed whole.
 
-### Maintenance Therapy
+### Maintenance Therapy:
 
 Long-term maintenance of efficacy with the immediate-release formulation of paroxetine was demonstrated in a 3-month relapse prevention trial.
 In this trial, patients with panic disorder assigned to immediate-release paroxetine demonstrated a lower relapse rate compared to patients on placebo.
 Panic disorder is a chronic condition, and it is reasonable to consider continuation for a responding patient.
 Dosage adjustments should be made to maintain the patient on the lowest effective dosage, and patients should be periodically reassessed to determine the need for continued treatment.
 
-## Social Anxiety Disorder
+## Social Anxiety Disorder:
 
-### Usual Initial Dosage
+### Usual Initial Dosage:
 
 PAXIL CR should be administered as a single daily dose, usually in the morning, with or without food.
 The recommended initial dose is 12.5 mg/day.
@@ -51,15 +51,15 @@ If the dose is increased, this should occur at intervals of at least 1 week, in 
 
 Patients should be cautioned that PAXIL CR should not be chewed or crushed, and should be swallowed whole.
 
-### Maintenance Therapy
+### Maintenance Therapy:
 
 There is no body of evidence available to answer the question of how long the patient treated with PAXIL CR should remain on it.
 Although the efficacy of PAXIL CR beyond 12 weeks of dosing has not been demonstrated in controlled clinical trials, social anxiety disorder is recognized as a chronic condition, and it is reasonable to consider continuation of treatment for a responding patient.
 Dosage adjustments should be made to maintain the patient on the lowest effective dosage, and patients should be periodically reassessed to determine the need for continued treatment.
 
-## Premenstrual Dysphoric Disorder
+## Premenstrual Dysphoric Disorder:
 
-### Usual Initial Dosage
+### Usual Initial Dosage:
 
 PAXIL CR should be administered as a single daily dose, usually in the morning, with or without food.
 PAXIL CR may be administered either daily throughout the menstrual cycle or limited to the luteal phase of the menstrual cycle, depending on physician assessment.
@@ -69,32 +69,32 @@ Dose changes should occur at intervals of at least 1 week.
 
 Patients should be cautioned that PAXIL CR should not be chewed or crushed, and should be swallowed whole.
 
-### Maintenance/Continuation Therapy
+### Maintenance/Continuation Therapy:
 
 The effectiveness of PAXIL CR for a period exceeding 3 menstrual cycles has not been systematically evaluated in controlled trials.
 However, women commonly report that symptoms worsen with age until relieved by the onset of menopause.
 Therefore, it is reasonable to consider continuation of a responding patient.
 Patients should be periodically reassessed to determine the need for continued treatment.
 
-## Special Populations
+## Special Populations:
 
-### Treatment of Pregnant Women During the Third Trimester
+### Treatment of Pregnant Women During the Third Trimester:
 
 Neonates exposed to PAXIL CR and other SSRIs or SNRIs, late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding (see WARNINGS: Usage in Pregnancy).
 When treating pregnant women with paroxetine during the third trimester, the physician should carefully consider the potential risks and benefits of treatment.
 
-### Dosage for Elderly or Debilitated Patients, and Patients With Severe Renal or Hepatic Impairment
+### Dosage for Elderly or Debilitated Patients, and Patients With Severe Renal or Hepatic Impairment:
 
 The recommended initial dose of PAXIL CR is 12.5 mg/day for elderly patients, debilitated patients, and/or patients with severe renal or hepatic impairment.
 Increases may be made if indicated.
 Dosage should not exceed 50 mg/day.
 
-## Switching a Patient to or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
+## Switching a Patient to or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders:
 
 At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with PAXIL CR.
 Conversely, at least 14 days should be allowed after stopping PAXIL CR before starting an MAOI intended to treat psychiatric disorders (see CONTRAINDICATIONS).
 
-## Use of PAXIL CR With Other MAOIs, Such as Linezolid or Methylene Blue
+## Use of PAXIL CR With Other MAOIs, Such as Linezolid or Methylene Blue:
 
 Do not start PAXIL CR in a patient who is being treated with linezolid or intravenous methylene blue because there is increased risk of serotonin syndrome.
 In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered (see CONTRAINDICATIONS).
@@ -107,7 +107,7 @@ Therapy with PAXIL CR may be resumed 24 hours after the last dose of linezolid o
 The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with PAXIL CR is unclear.
 The clinician should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use (see WARNINGS).
 
-## Discontinuation of Treatment With PAXIL CR
+## Discontinuation of Treatment With PAXIL CR:
 
 Symptoms associated with discontinuation of immediate-release paroxetine hydrochloride or PAXIL CR have been reported (see PRECAUTIONS: Discontinuation of Treatment with PAXIL CR).
 Patients should be monitored for these symptoms when discontinuing treatment, regardless of the indication for which PAXIL CR is being prescribed.

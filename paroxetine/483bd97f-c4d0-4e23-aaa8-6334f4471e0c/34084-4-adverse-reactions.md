@@ -8,9 +8,9 @@ Information on additional adverse events associated with PAXIL CR and the immedi
 
 ## Adverse Findings Observed in Short-Term, Placebo-Controlled Trials With PAXIL CR:
 
-## Adverse Events Associated With Discontinuation of Treatment
+## Adverse Events Associated With Discontinuation of Treatment:
 
-### Major Depressive Disorder
+### Major Depressive Disorder:
 
 Ten percent (21/212) of patients treated with PAXIL CR discontinued treatment due to an adverse event in a pool of 2 studies of patients with major depressive disorder.
 The most common events (≥1%) associated with discontinuation and considered to be drug related (i.e., those events associated with dropout at a rate approximately twice or greater for PAXIL CR compared to placebo) included the following:
@@ -32,7 +32,7 @@ Events meeting the above criteria included the following:
 | Depression | 1.9% | 0.0% |
 | LFT’s abnormal | 1.9% | 0.0% |
 
-### Panic Disorder
+### Panic Disorder:
 
 Eleven percent (50/444) of patients treated with PAXIL CR in panic disorder studies discontinued treatment due to an adverse event.
 Events meeting the above criteria included the following:
@@ -44,7 +44,7 @@ Events meeting the above criteria included the following:
 | Headache | 1.4% | 0.2% |
 | Asthenia | 1.1% | 0.0% |
 
-### Social Anxiety Disorder
+### Social Anxiety Disorder:
 
 Three percent (5/186) of patients treated with PAXIL CR in the social anxiety disorder study discontinued treatment due to an adverse event.
 Events meeting the above criteria included the following:
@@ -55,7 +55,7 @@ Events meeting the above criteria included the following:
 | Headache | 1.6% | 0.5% |
 | Diarrhea | 1.1% | 0.5% |
 
-### Premenstrual Dysphoric Disorder
+### Premenstrual Dysphoric Disorder:
 
 Spontaneously reported adverse events were monitored in studies of both continuous and intermittent dosing of PAXIL CR in the treatment of PMDD.
 Generally, there were few differences in the adverse event profiles of the 2 dosing regimens.
@@ -82,30 +82,30 @@ This table also shows those events that were dose dependent (indicated with an a
 
 a. Events considered to be dose dependent are defined as events having an incidence rate with 25 mg of PAXIL CR that was at least twice that with 12.5 mg of PAXIL CR (as well as the placebo group).
 
-## Commonly Observed Adverse Events
+## Commonly Observed Adverse Events:
 
-### Major Depressive Disorder
+### Major Depressive Disorder:
 
 The most commonly observed adverse events associated with the use of PAXIL CR in a pool of 2 trials (incidence of 5.0% or greater and incidence for PAXIL CR at least twice that for placebo, derived from Table 2) were: Abnormal ejaculation, abnormal vision, constipation, decreased libido, diarrhea, dizziness, female genital disorders, nausea, somnolence, sweating, trauma, tremor, and yawning.
 
 Using the same criteria, the adverse events associated with the use of PAXIL CR in a study of elderly patients with major depressive disorder were: Abnormal ejaculation, constipation, decreased appetite, dry mouth, impotence, infection, libido decreased, sweating, and tremor.
 
-### Panic Disorder
+### Panic Disorder:
 
 In the pool of panic disorder studies, the adverse events meeting these criteria were: Abnormal ejaculation, somnolence, impotence, libido decreased, tremor, sweating, and female genital disorders (generally anorgasmia or difficulty achieving orgasm).
 
-### Social Anxiety Disorder
+### Social Anxiety Disorder:
 
 In the social anxiety disorder study, the adverse events meeting these criteria were: Nausea, asthenia, abnormal ejaculation, sweating, somnolence, impotence, insomnia, and libido decreased.
 
-### Premenstrual Dysphoric Disorder
+### Premenstrual Dysphoric Disorder:
 
 The most commonly observed adverse events associated with the use of PAXIL CR either during continuous dosing or luteal phase dosing (incidence of 5% or greater and incidence for PAXIL CR at least twice that for placebo, derived from Table 6) were: Nausea, asthenia, libido decreased, somnolence, insomnia, female genital disorders, sweating, dizziness, diarrhea, and constipation.
 
 In the luteal phase dosing PMDD trial, which employed dosing of 12.5 mg/day or 25 mg/day of PAXIL CR limited to the 2 weeks prior to the onset of menses over 3 consecutive menstrual cycles, adverse events were evaluated during the first 14 days of each off-drug phase.
 When the 3 off-drug phases were combined, the following adverse events were reported at an incidence of 2% or greater for PAXIL CR and were at least twice the rate of that reported for placebo: Infection (5.3% versus 2.5%), depression (2.8% versus 0.8%), insomnia (2.4% versus 0.8%), sinusitis (2.4% versus 0%), and asthenia (2.0% versus 0.8%).
 
-## Incidence in Controlled Clinical Trials
+## Incidence in Controlled Clinical Trials:
 
 Table 2 enumerates adverse events that occurred at an incidence of 1% or more among patients treated with PAXIL CR, aged 18 to 65, who participated in 2 short-term (12-week) placebo-controlled trials in major depressive disorder in which patients were dosed in a range of 25 mg to 62.5 mg/day.
 Table 3 enumerates adverse events reported at an incidence of 5% or greater among elderly patients (ages 60 to 88) treated with PAXIL CR who participated in a short-term (12-week) placebo-controlled trial in major depressive disorder in which patients were dosed in a range of 12.5 mg to 50 mg/day.
@@ -443,7 +443,7 @@ Therefore, a comparison between the 2 dosing regimens of the PMDD trials of inci
 
 d. Mostly anorgasmia or difficulty achieving orgasm.
 
-### Dose Dependency of Adverse Events
+### Dose Dependency of Adverse Events:
 
 Table 7 shows results in PMDD trials of common adverse events, defined as events with an incidence of ≥1% with 25 mg of PAXIL CR that was at least twice that with 12.5 mg of PAXIL CR and with placebo.
 
@@ -463,7 +463,7 @@ Incidence of Common Adverse Events in Placebo, 12.5 mg, and 25 mg of PAXIL CR in
 
 A comparison of adverse event rates in a fixed-dose study comparing immediate-release paroxetine with placebo in the treatment of major depressive disorder revealed a clear dose dependency for some of the more common adverse events associated with the use of immediate-release paroxetine.
 
-### Male and Female Sexual Dysfunction With SSRIs
+### Male and Female Sexual Dysfunction With SSRIs:
 
 Although changes in sexual desire, sexual performance, and sexual satisfaction often occur as manifestations of a psychiatric disorder, they may also be a consequence of pharmacologic treatment.
 In particular, some evidence suggests that SSRIs can cause such untoward sexual experiences.
@@ -491,16 +491,16 @@ In those cases with a known outcome, patients recovered without sequelae.
 
 While it is difficult to know the precise risk of sexual dysfunction associated with the use of SSRIs, physicians should routinely inquire about such possible side effects.
 
-### Weight and Vital Sign Changes
+### Weight and Vital Sign Changes:
 
 Significant weight loss may be an undesirable result of treatment with paroxetine for some patients but, on average, patients in controlled trials with PAXIL CR or the immediate-release formulation, had minimal weight loss (about 1 pound).
 No significant changes in vital signs (systolic and diastolic blood pressure, pulse, and temperature) were observed in patients treated with PAXIL CR, or immediate-release paroxetine hydrochloride, in controlled clinical trials.
 
-### ECG Changes
+### ECG Changes:
 
 In an analysis of ECGs obtained in 682 patients treated with immediate-release paroxetine and 415 patients treated with placebo in controlled clinical trials, no clinically significant changes were seen in the ECGs of either group.
 
-### Liver Function Tests
+### Liver Function Tests:
 
 In a pool of 2 placebo-controlled clinical trials, patients treated with PAXIL CR or placebo exhibited abnormal values on liver function tests at comparable rates.
 In particular, the controlled-release paroxetine-versus-placebo comparisons for alkaline phosphatase, SGOT, SGPT, and bilirubin revealed no differences in the percentage of patients with marked abnormalities.
@@ -514,11 +514,11 @@ The clinical significance of these findings is unknown.
 
 In placebo-controlled clinical trials with the immediate-release formulation of paroxetine, patients exhibited abnormal values on liver function tests at no greater rate than that seen in placebo-treated patients.
 
-### Hallucinations
+### Hallucinations:
 
 In pooled clinical trials of immediate-release paroxetine hydrochloride, hallucinations were observed in 22 of 9,089 patients receiving drug and in 4 of 3,187 patients receiving placebo.
 
-## Other Events Observed During the Clinical Development of Paroxetine
+## Other Events Observed During the Clinical Development of Paroxetine:
 
 The following adverse events were reported during the clinical development of PAXIL CR and/or the clinical development of the immediate-release formulation of paroxetine.
 
@@ -543,57 +543,57 @@ The extent to which these events may be associated with PAXIL CR is unknown.
 Events are listed alphabetically within the respective body system.
 Events of major clinical importance are also described in the PRECAUTIONS section.
 
-### Body as a Whole
+### Body as a Whole:
 
 Infrequent were chills, face edema, fever, flu syndrome, malaise; rare were abscess, anaphylactoid reaction, anticholinergic syndrome, hypothermia; also observed were adrenergic syndrome, neck rigidity, sepsis.
 
-### Cardiovascular System
+### Cardiovascular System:
 
 Infrequent were angina pectoris, bradycardia, hematoma, hypertension, hypotension, palpitation, postural hypotension, supraventricular tachycardia, syncope; rare were bundle branch block; also observed were arrhythmia nodal, atrial fibrillation, cerebrovascular accident, congestive heart failure, low cardiac output, myocardial infarct, myocardial ischemia, pallor, phlebitis, pulmonary embolus, supraventricular extrasystoles, thrombophlebitis, thrombosis, vascular headache, ventricular extrasystoles.
 
-### Digestive System
+### Digestive System:
 
 Infrequent were bruxism, dysphagia, eructation, gastritis, gastroenteritis, gastroesophageal reflux, gingivitis, hemorrhoids, liver function test abnormal, melena, pancreatitis, rectal hemorrhage, toothache, ulcerative stomatitis; rare were colitis, glossitis, gum hyperplasia, hepatosplenomegaly, increased salivation, intestinal obstruction, peptic ulcer, stomach ulcer, throat tightness; also observed were aphthous stomatitis, bloody diarrhea, bulimia, cardiospasm, cholelithiasis, duodenitis, enteritis, esophagitis, fecal impactions, fecal incontinence, gum hemorrhage, hematemesis, hepatitis, ileitis, ileus, jaundice, mouth ulceration, salivary gland enlargement, sialadenitis, stomatitis, tongue discoloration, tongue edema.
 
-### Endocrine System
+### Endocrine System:
 
 Infrequent were ovarian cyst, testes pain; rare were diabetes mellitus, hyperthyroidism; also observed were goiter, hypothyroidism, thyroiditis.
 
-### Hemic and Lymphatic System
+### Hemic and Lymphatic System:
 
 Infrequent were anemia, eosinophilia, hypochromic anemia, leukocytosis, leukopenia, lymphadenopathy, purpura; rare were thrombocytopenia; also observed were anisocytosis, basophilia, bleeding time increased, lymphedema, lymphocytosis, lymphopenia, microcytic anemia, monocytosis, normocytic anemia, thrombocythemia.
 
-### Metabolic and Nutritional Disorders
+### Metabolic and Nutritional Disorders:
 
 Infrequent were generalized edema, hyperglycemia, hypokalemia, peripheral edema, SGOT increased, SGPT increased, thirst; rare were bilirubinemia, dehydration, hyperkalemia, obesity; also observed were alkaline phosphatase increased, BUN increased, creatinine phosphokinase increased, gamma globulins increased, gout, hypercalcemia, hypercholesteremia, hyperphosphatemia, hypocalcemia, hypoglycemia, hyponatremia, ketosis, lactic dehydrogenase increased, non-protein nitrogen (NPN) increased.
 
-### Musculoskeletal System
+### Musculoskeletal System:
 
 Infrequent were arthritis, bursitis, tendonitis; rare were myasthenia, myopathy, myositis; also observed were generalized spasm, osteoporosis, tenosynovitis, tetany.
 
-### Nervous System
+### Nervous System:
 
 Frequent were depression; infrequent were amnesia, convulsion, depersonalization, dystonia, emotional lability, hallucinations, hyperkinesia, hypesthesia, hypokinesia, incoordination, libido increased, neuralgia, neuropathy, nystagmus, paralysis, vertigo; rare were ataxia, coma, diplopia, dyskinesia, hostility, paranoid reaction, torticollis, withdrawal syndrome; also observed were abnormal gait, akathisia, akinesia, aphasia, choreoathetosis, circumoral paresthesia, delirium, delusions, dysarthria, euphoria, extrapyramidal syndrome, fasciculations, grand mal convulsion, hyperalgesia, irritability, manic reaction, manic-depressive reaction, meningitis, myelitis, peripheral neuritis, psychosis, psychotic depression, reflexes decreased, reflexes increased, stupor, trismus.
 
-### Respiratory System
+### Respiratory System:
 
 Frequent were pharyngitis; infrequent were asthma, dyspnea, epistaxis, laryngitis, pneumonia; rare were stridor; also observed were dysphonia, emphysema, hemoptysis, hiccups, hyperventilation, lung fibrosis, pulmonary edema, respiratory flu, sputum increased.
 
-### Skin and Appendages
+### Skin and Appendages:
 
 Frequent were rash; infrequent were acne, alopecia, dry skin, eczema, pruritus, urticaria; rare were exfoliative dermatitis, furunculosis, pustular rash, seborrhea; also observed were angioedema, ecchymosis, erythema multiforme, erythema nodosum, hirsutism, maculopapular rash, skin discoloration, skin hypertrophy, skin ulcer, sweating decreased, vesiculobullous rash.
 
-### Special Senses
+### Special Senses:
 
 Infrequent were conjunctivitis, earache, keratoconjunctivitis, mydriasis, photophobia, retinal hemorrhage, tinnitus; rare were blepharitis, visual field defect; also observed were amblyopia, anisocoria, blurred vision, cataract, conjunctival edema, corneal ulcer, deafness, exophthalmos, glaucoma, hyperacusis, night blindness, parosmia, ptosis, taste loss.
 
-### Urogenital System
+### Urogenital System:
 
 Frequent were dysmenorrhea*; infrequent were albuminuria, amenorrhea*, breast pain*, cystitis, dysuria, prostatitis*, urinary retention; rare were breast enlargement*, breast neoplasm*, female lactation, hematuria, kidney calculus, metrorrhagia*, nephritis, nocturia, pregnancy and puerperal disorders*, salpingitis, urinary incontinence, uterine fibroids enlarged*; also observed were breast atrophy, ejaculatory disturbance, endometrial disorder, epididymitis, fibrocystic breast, leukorrhea, mastitis, oliguria, polyuria, pyuria, urethritis, urinary casts, urinary urgency, urolith, uterine spasm, vaginal hemorrhage.
 
-* Based on the number of men and women as appropriate.
+*Based on the number of men and women as appropriate.
 
-## Postmarketing Reports
+## Postmarketing Reports:
 
 Voluntary reports of adverse events in patients taking immediate-release paroxetine hydrochloride that have been received since market introduction and not listed above that may have no causal relationship with the drug include acute pancreatitis, elevated liver function tests (the most severe cases were deaths due to liver necrosis, and grossly elevated transaminases associated with severe liver dysfunction), Guillain-Barré syndrome, Stevens-Johnson syndrome, toxic epidermal necrolysis, priapism, syndrome of inappropriate ADH secretion, symptoms suggestive of prolactinemia and galactorrhea; extrapyramidal symptoms which have included akathisia, bradykinesia, cogwheel rigidity, dystonia, hypertonia, oculogyric crisis which has been associated with concomitant use of pimozide; tremor and trismus; status epilepticus, acute renal failure, pulmonary hypertension, allergic alveolitis, anaphylaxis, eclampsia, laryngismus, optic neuritis, porphyria, restless legs syndrome (RLS), ventricular fibrillation, ventricular tachycardia (including torsade de pointes), thrombocytopenia, hemolytic anemia, events related to impaired hematopoiesis (including aplastic anemia, pancytopenia, bone marrow aplasia, and agranulocytosis), vasculitic syndromes (such as Henoch‑Schönlein purpura) and premature births in pregnant women.
 There has been a case report of an elevated phenytoin level after 4 weeks of immediate-release paroxetine and phenytoin coadministration.

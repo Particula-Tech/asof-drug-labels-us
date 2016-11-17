@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-## Pharmacodynamics
+## Pharmacodynamics:
 
 The efficacy of paroxetine in the treatment of major depressive disorder, panic disorder, social anxiety disorder, and premenstrual dysphoric disorder (PMDD) is presumed to be linked to potentiation of serotonergic activity in the central nervous system resulting from inhibition of neuronal reuptake of serotonin (5-hydroxy-tryptamine, 5-HT).
 Studies at clinically relevant doses in humans have demonstrated that paroxetine blocks the uptake of serotonin into human platelets.
@@ -9,7 +9,7 @@ In vitro radioligand binding studies indicate that paroxetine has little affinit
 
 Because the relative potencies of paroxetine’s major metabolites are at most 1/50 of the parent compound, they are essentially inactive.
 
-## Pharmacokinetics
+## Pharmacokinetics:
 
 Paroxetine hydrochloride is completely absorbed after oral dosing of a solution of the hydrochloride salt.
 The elimination half-life is approximately 15 to 20 hours after a single dose of PAXIL CR.
@@ -18,7 +18,7 @@ Nonlinearity in pharmacokinetics is observed with increasing doses.
 Paroxetine metabolism is mediated in part by CYP2D6, and the metabolites are primarily excreted in the urine and to some extent in the feces.
 Pharmacokinetic behavior of paroxetine has not been evaluated in subjects who are deficient in CYP2D6 (poor metabolizers).
 
-### Absorption and Distribution
+### Absorption and Distribution:
 
 Tablets of PAXIL CR contain a degradable polymeric matrix designed to control the dissolution rate of paroxetine over a period of approximately 4 to 5 hours.
 In addition to controlling the rate of drug release in vivo, an enteric coat delays the start of drug release until tablets of PAXIL CR have left the stomach.
@@ -35,7 +35,7 @@ Approximately 95% and 93% of paroxetine is bound to plasma protein at 100 ng/mL 
 Under clinical conditions, paroxetine concentrations would normally be less than 400 ng/mL.
 Paroxetine does not alter the in vitro protein binding of phenytoin or warfarin.
 
-### Metabolism and Excretion
+### Metabolism and Excretion:
 
 The mean elimination half-life of paroxetine was 15 to 20 hours throughout a range of single doses of PAXIL CR (12.5 mg, 25 mg, 37.5 mg, and 50 mg).
 During repeated administration of PAXIL CR (25 mg once daily), steady state was reached within 2 weeks (i.e., comparable to immediate-release formulations).
@@ -58,11 +58,11 @@ The role of this enzyme in paroxetine metabolism also suggests potential drug-dr
 Approximately 64% of a 30-mg oral solution dose of paroxetine was excreted in the urine with 2% as the parent compound and 62% as metabolites over a 10-day post-dosing period.
 About 36% was excreted in the feces (probably via the bile), mostly as metabolites and less than 1% as the parent compound over the 10-day post-dosing period.
 
-## Other Clinical Pharmacology Information
+## Other Clinical Pharmacology Information:
 
-### Specific Populations
+### Specific Populations:
 
-#### Renal and Liver Disease
+#### Renal and Liver Disease:
 
 Increased plasma concentrations of paroxetine occur in subjects with renal and hepatic impairment.
 The mean plasma concentrations in patients with creatinine clearance below 30 mL/min. were approximately 4 times greater than seen in normal volunteers.
@@ -70,19 +70,19 @@ Patients with creatinine clearance of 30 to 60 mL/min. and patients with hepatic
 
 The initial dosage should therefore be reduced in patients with severe renal or hepatic impairment, and upward titration, if necessary, should be at increased intervals (see DOSAGE AND ADMINISTRATION).
 
-#### Elderly Patients
+#### Elderly Patients:
 
 In a multiple-dose study in the elderly at daily doses of 20, 30, and 40 mg of the immediate-release formulation, Cmin concentrations were about 70% to 80% greater than the respective Cmin concentrations in nonelderly subjects.
 Therefore the initial dosage in the elderly should be reduced (see DOSAGE AND ADMINISTRATION).
 
-#### Drug-Drug Interactions
+#### Drug-Drug Interactions:
 
 In vitro drug interaction studies reveal that paroxetine inhibits CYP2D6.
 Clinical drug interaction studies have been performed with substrates of CYP2D6 and show that paroxetine can inhibit the metabolism of drugs metabolized by CYP2D6 including desipramine, risperidone, and atomoxetine (see PRECAUTIONS: Drug Interactions).
 
 ## Clinical Trials
 
-## Major Depressive Disorder
+## Major Depressive Disorder:
 
 The efficacy of PAXIL CR controlled-release tablets as a treatment for major depressive disorder has been established in two 12-week, flexible-dose, placebo-controlled studies of patients with DSM-IV Major Depressive Disorder.
 One study included patients in the age range 18 to 65 years, and a second study included elderly patients, ranging in age from 60 to 88.
@@ -91,7 +91,7 @@ In both studies, PAXIL CR was shown to be significantly more effective than plac
 A study of outpatients with major depressive disorder who had responded to immediate-release paroxetine tablets (HDRS total score <8) during an initial 8-week open-treatment phase and were then randomized to continuation on immediate-release paroxetine tablets or placebo for 1 year demonstrated a significantly lower relapse rate for patients taking immediate-release paroxetine tablets (15%) compared to those on placebo (39%).
 Effectiveness was similar for male and female patients.
 
-## Panic Disorder
+## Panic Disorder:
 
 The effectiveness of PAXIL CR in the treatment of panic disorder was evaluated in three 10-week, multicenter, flexible-dose studies (Studies 1, 2, and 3) comparing paroxetine controlled-release (12.5 to 75 mg daily) to placebo in adult outpatients who had panic disorder (DSM-IV), with or without agoraphobia.
 These trials were assessed on the basis of their outcomes on 3 variables: (1) the proportions of patients free of full panic attacks at endpoint; (2) change from baseline to endpoint in the median number of full panic attacks; and (3) change from baseline to endpoint in the median Clinical Global Impression Severity score.
@@ -105,7 +105,7 @@ Long-term maintenance effects of the immediate-release formulation of paroxetine
 Patients who were responders during a 10-week double-blind phase with immediate-release paroxetine and during a 3-month double-blind extension phase were randomized to either immediate-release paroxetine or placebo in a 3-month double-blind relapse prevention phase.
 Patients randomized to paroxetine were significantly less likely to relapse than comparably treated patients who were randomized to placebo.
 
-## Social Anxiety Disorder
+## Social Anxiety Disorder:
 
 The efficacy of PAXIL CR as a treatment for social anxiety disorder has been established, in part, on the basis of extrapolation from the established effectiveness of the immediate-release formulation of paroxetine.
 In addition, the effectiveness of PAXIL CR in the treatment of social anxiety disorder was demonstrated in a 12-week, multicenter, double-blind, flexible-dose, placebo-controlled study of adult outpatients with a primary diagnosis of social anxiety disorder (DSM-IV).
@@ -117,7 +117,7 @@ For patients who completed the trial, 64% of patients treated with PAXIL CR comp
 Subgroup analyses did not indicate that there were any differences in treatment outcomes as a function of gender.
 Subgroup analyses of studies utilizing the immediate-release formulation of paroxetine generally did not indicate differences in treatment outcomes as a function of age, race, or gender.
 
-## Premenstrual Dysphoric Disorder
+## Premenstrual Dysphoric Disorder:
 
 The effectiveness of PAXIL CR for the treatment of PMDD utilizing a continuous dosing regimen has been established in 2 placebo-controlled trials.
 Patients in these trials met DSM-IV criteria for PMDD.

@@ -1,6 +1,6 @@
 # WARNINGS
 
-## Clinical Worsening and Suicide Risk
+## Clinical Worsening and Suicide Risk:
 
 Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
 Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
@@ -45,7 +45,7 @@ Families and caregivers of patients being treated with antidepressants for major
 Such monitoring should include daily observation by families and caregivers.
 Prescriptions for PAXIL CR should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 
-## Screening Patients for Bipolar Disorder
+## Screening Patients for Bipolar Disorder:
 
 A major depressive episode may be the initial presentation of bipolar disorder.
 It is generally believed (though not established in controlled trials) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed/manic episode in patients at risk for bipolar disorder.
@@ -53,9 +53,9 @@ Whether any of the symptoms described above represent such a conversion is unkno
 However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
 It should be noted that PAXIL CR is not approved for use in treating bipolar depression.
 
-## Serotonin Syndrome
+## Serotonin Syndrome:
 
-The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including PAXIL CR, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John’s Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
+The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including PAXIL CR, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
 
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 Patients should be monitored for the emergence of serotonin syndrome.
@@ -67,15 +67,15 @@ No reports involved the administration of methylene blue by other routes (such a
 There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking PAXIL CR.
 PAXIL CR should be discontinued before initiating treatment with the MAOI (see CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
 
-If concomitant use of PAXIL CR with certain other serotonergic drugs, i.e., triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, and St. John’s Wort is clinically warranted, be aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
+If concomitant use of PAXIL CR with certain other serotonergic drugs, i.e., triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, amphetamines, and St. John’s Wort is clinically warranted, be aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
 
 Treatment with PAXIL CR and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
-## Angle-Closure Glaucoma
+## Angle-Closure Glaucoma:
 
 The pupillary dilation that occurs following use of many antidepressant drugs including Paxil may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
 
-## Potential Interaction With Thioridazine
+## Potential Interaction With Thioridazine:
 
 Thioridazine administration alone produces prolongation of the QTc interval, which is associated with serious ventricular arrhythmias, such as torsade de pointes–type arrhythmias, and sudden death.
 This effect appears to be dose related.
@@ -83,11 +83,9 @@ This effect appears to be dose related.
 An in vivo study suggests that drugs which inhibit CYP2D6, such as paroxetine, will elevate plasma levels of thioridazine.
 Therefore, it is recommended that paroxetine not be used in combination with thioridazine (see CONTRAINDICATIONS and PRECAUTIONS).
 
-## Usage in Pregnancy
+## Usage in Pregnancy:
 
-### Teratogenic Effects
-
-Epidemiological studies have shown that infants exposed to paroxetine in the first trimester of pregnancy have an increased risk of congenital malformations, particularly cardiovascular malformations.
+Teratogenic Effects: Epidemiological studies have shown that infants exposed to paroxetine in the first trimester of pregnancy have an increased risk of congenital malformations, particularly cardiovascular malformations.
 The findings from these studies are summarized below:
 
 - •A study based on Swedish national registry data demonstrated that infants exposed to paroxetine during pregnancy (n = 815) had an increased risk of cardiovascular malformations (2% risk in paroxetine-exposed infants) compared to the entire registry population (1% risk), for an odds ratio (OR) of 1.8 (95% confidence interval 1.1 to 2.8).
@@ -110,9 +108,7 @@ If a patient becomes pregnant while taking paroxetine, she should be advised of 
 Unless the benefits of paroxetine to the mother justify continuing treatment, consideration should be given to either discontinuing paroxetine therapy or switching to another antidepressant (see PRECAUTIONS: Discontinuation of Treatment With PAXIL CR).
 For women who intend to become pregnant or are in their first trimester of pregnancy, paroxetine should only be initiated after consideration of the other available treatment options.
 
-### Animal Findings
-
-Reproduction studies were performed at doses up to 50 mg/kg/day in rats and 6 mg/kg/day in rabbits administered during organogenesis.
+Animal Findings: Reproduction studies were performed at doses up to 50 mg/kg/day in rats and 6 mg/kg/day in rabbits administered during organogenesis.
 These doses are approximately 8 (rat) and 2 (rabbit) times the maximum recommended human dose (MRHD) on an mg/m2 basis.
 These studies have revealed no evidence of teratogenic effects.
 However, in rats, there was an increase in pup deaths during the first 4 days of lactation when dosing occurred during the last trimester of gestation and continued throughout lactation.
@@ -120,9 +116,7 @@ This effect occurred at a dose of 1 mg/kg/day or approximately one-sixth of the 
 The no-effect dose for rat pup mortality was not determined.
 The cause of these deaths is not known.
 
-### Nonteratogenic Effects
-
-Neonates exposed to PAXIL CR and other SSRIs or serotonin and norepinephrine reuptake inhibitors (SNRIs), late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
+Nonteratogenic Effects: Neonates exposed to PAXIL CR and other SSRIs or serotonin and norepinephrine reuptake inhibitors (SNRIs), late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
 Such complications can arise immediately upon delivery.
 Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremor, jitteriness, irritability, and constant crying.
 These features are consistent with either a direct toxic effect of SSRIs and SNRIs or, possibly, a drug discontinuation syndrome.
@@ -141,23 +135,23 @@ This decision can only be made on a case by case basis (see DOSAGE AND ADMINISTR
 
 # PRECAUTIONS
 
-## General
+## General:
 
-### Activation of Mania/Hypomania
+### Activation of Mania/Hypomania:
 
 During premarketing testing of immediate-release paroxetine hydrochloride, hypomania or mania occurred in approximately 1.0% of paroxetine-treated unipolar patients compared to 1.1% of active-control and 0.3% of placebo-treated unipolar patients.
 In a subset of patients classified as bipolar, the rate of manic episodes was 2.2% for immediate-release paroxetine and 11.6% for the combined active-control groups.
 Among 1,627 patients with major depressive disorder, panic disorder, social anxiety disorder, or PMDD treated with PAXIL CR in controlled clinical studies, there were no reports of mania or hypomania.
 As with all drugs effective in the treatment of major depressive disorder, PAXIL CR should be used cautiously in patients with a history of mania.
 
-### Seizures
+### Seizures:
 
 During premarketing testing of immediate-release paroxetine hydrochloride, seizures occurred in 0.1% of paroxetine-treated patients, a rate similar to that associated with other drugs effective in the treatment of major depressive disorder.
 Among 1,627 patients who received PAXIL CR in controlled clinical trials in major depressive disorder, panic disorder, social anxiety disorder, or PMDD, 1 patient (0.1%) experienced a seizure.
 PAXIL CR should be used cautiously in patients with a history of seizures.
 It should be discontinued in any patient who develops seizures.
 
-### Discontinuation of Treatment With PAXIL CR
+### Discontinuation of Treatment With PAXIL CR:
 
 Adverse events while discontinuing therapy with PAXIL CR were not systematically evaluated in most clinical trials; however, in recent placebo-controlled clinical trials utilizing daily doses of PAXIL CR up to 37.5 mg/day, spontaneously reported adverse events while discontinuing therapy with PAXIL CR were evaluated.
 Patients receiving 37.5 mg/day underwent an incremental decrease in the daily dose by 12.5 mg/day to a dose of 25 mg/day for 1 week before treatment was stopped.
@@ -175,7 +169,7 @@ Subsequently, the physician may continue decreasing the dose but at a more gradu
 
 See also PRECAUTIONS: Pediatric Use, for adverse events reported upon discontinuation of treatment with paroxetine in pediatric patients.
 
-### Tamoxifen
+### Tamoxifen:
 
 Some studies have shown that the efficacy of tamoxifen, as measured by the risk of breast cancer relapse/mortality, may be reduced when co-prescribed with paroxetine as a result of paroxetine’s irreversible inhibition of CYP2D6 (see Drug Interactions).
 However, other studies have failed to demonstrate such a risk.
@@ -183,12 +177,12 @@ It is uncertain whether the coadministration of paroxetine and tamoxifen has a s
 One study suggests that the risk may increase with longer duration of coadministration.
 When tamoxifen is used for the treatment or prevention of breast cancer, prescribers should consider using an alternative antidepressant with little or no CYP2D6 inhibition.
 
-### Akathisia
+### Akathisia:
 
 The use of paroxetine or other SSRIs has been associated with the development of akathisia, which is characterized by an inner sense of restlessness and psychomotor agitation such as an inability to sit or stand still usually associated with subjective distress.
 This is most likely to occur within the first few weeks of treatment.
 
-### Hyponatremia
+### Hyponatremia:
 
 Hyponatremia may occur as a result of treatment with SSRIs and SNRIs, including PAXIL CR.
 In many cases, this hyponatremia appears to be the result of the syndrome of inappropriate antidiuretic hormone secretion (SIADH).
@@ -200,7 +194,7 @@ Discontinuation of PAXIL CR should be considered in patients with symptomatic hy
 Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which may lead to falls.
 Signs and symptoms associated with more severe and/or acute cases have included hallucination, syncope, seizure, coma, respiratory arrest, and death.
 
-### Abnormal Bleeding
+### Abnormal Bleeding:
 
 SSRIs and SNRIs, including paroxetine, may increase the risk of bleeding events.
 Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs, warfarin, and other anticoagulants may add to this risk.
@@ -208,13 +202,13 @@ Case reports and epidemiological studies (case-control and cohort design) have d
 Bleeding events related to SSRIs and SNRIs use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
 Patients should be cautioned about the risk of bleeding associated with the concomitant use of paroxetine and NSAIDs, aspirin, or other drugs that affect coagulation.
 
-### Bone Fracture
+### Bone Fracture:
 
 Epidemiological studies on bone fracture risk following exposure to some antidepressants, including SSRIs, have reported an association between antidepressant treatment and fractures.
 There are multiple possible causes for this observation and it is unknown to what extent fracture risk is directly attributable to SSRI treatment.
 The possibility of a pathological fracture, that is, a fracture produced by minimal trauma in a patient with decreased bone mineral density, should be considered in patients treated with paroxetine who present with unexplained bone pain, point tenderness, swelling, or bruising.
 
-### Use in Patients With Concomitant Illness
+### Use in Patients With Concomitant Illness:
 
 Clinical experience with immediate-release paroxetine hydrochloride in patients with certain concomitant systemic illness is limited.
 Caution is advisable in using PAXIL CR in patients with diseases or conditions that could affect metabolism or hemodynamic responses.
@@ -231,7 +225,7 @@ Similarly, paroxetine hydrochloride does not cause any clinically important chan
 Increased plasma concentrations of paroxetine occur in patients with severe renal impairment (creatinine clearance <30 mL/min.) or severe hepatic impairment.
 A lower starting dose should be used in such patients (see DOSAGE AND ADMINISTRATION).
 
-## Information for Patients
+## Information for Patients:
 
 PAXIL CR should not be chewed or crushed, and should be swallowed whole.
 
@@ -250,97 +244,97 @@ The complete text of the Medication Guide is reprinted at the end of this docume
 
 Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking PAXIL CR.
 
-### Clinical Worsening and Suicide Risk
+### Clinical Worsening and Suicide Risk:
 
 Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
 Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
 Such symptoms should be reported to the patient’s prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
 Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication.
 
-### Drugs That Interfere With Hemostasis (e.g., NSAIDs, Aspirin, and Warfarin)
+### Drugs That Interfere With Hemostasis (e.g., NSAIDs, Aspirin, and Warfarin):
 
 Patients should be cautioned about the concomitant use of paroxetine and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents has been associated with an increased risk of bleeding.
 
-### Interference With Cognitive and Motor Performance
+### Interference With Cognitive and Motor Performance:
 
 Any psychoactive drug may impair judgment, thinking, or motor skills.
 Although in controlled studies immediate-release paroxetine hydrochloride has not been shown to impair psychomotor performance, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that therapy with PAXIL CR does not affect their ability to engage in such activities.
 
-### Completing Course of Therapy
+### Completing Course of Therapy:
 
 While patients may notice improvement with use of PAXIL CR in 1 to 4 weeks, they should be advised to continue therapy as directed.
 
-### Concomitant Medications
+### Concomitant Medications:
 
 Patients should be advised to inform their physician if they are taking, or plan to take, any prescription or over-the-counter drugs, since there is a potential for interactions.
 
-### Alcohol
+### Alcohol:
 
 Although immediate-release paroxetine hydrochloride has not been shown to increase the impairment of mental and motor skills caused by alcohol, patients should be advised to avoid alcohol while taking PAXIL CR.
 
-### Pregnancy
+### Pregnancy:
 
 Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy (see WARNINGS: Usage in Pregnancy: Teratogenic Effects and Nonteratogenic Effects).
 
-### Nursing
+### Nursing:
 
 Patients should be advised to notify their physician if they are breastfeeding an infant (see PRECAUTIONS: Nursing Mothers).
 
-## Laboratory Tests
+## Laboratory Tests:
 
 There are no specific laboratory tests recommended.
 
-## Drug Interactions
+## Drug Interactions:
 
-### Tryptophan
+### Tryptophan:
 
 As with other serotonin reuptake inhibitors, an interaction between paroxetine and tryptophan may occur when they are coadministered.
 Adverse experiences, consisting primarily of headache, nausea, sweating, and dizziness, have been reported when tryptophan was administered to patients taking immediate-release paroxetine.
 Consequently, concomitant use of PAXIL CR with tryptophan is not recommended (see WARNINGS: Serotonin Syndrome).
 
-### Monoamine Oxidase Inhibitors
+### Monoamine Oxidase Inhibitors:
 
 See CONTRAINDICATIONS and WARNINGS.
 
-### Pimozide
+### Pimozide:
 
 In a controlled study of healthy volunteers, after immediate-release paroxetine hydrochloride was titrated to 60 mg daily, co-administration of a single dose of 2 mg pimozide was associated with mean increases in pimozide AUC of 151% and Cmax of 62%, compared to pimozide administered alone.
 The increase in pimozide AUC and Cmax is due to the CYP2D6 inhibitory properties of paroxetine.
 Due to the narrow therapeutic index of pimozide and its known ability to prolong the QT interval, concomitant use of pimozide and PAXIL CR is contraindicated (see CONTRAINDICATIONS).
 
-### Serotonergic Drugs
+### Serotonergic Drugs:
 
-Based on the mechanism of action of SNRIs and SSRIs, including paroxetine hydrochloride, and the potential for serotonin syndrome, caution is advised when PAXIL CR is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, lithium, fentanyl, tramadol, or St. John’s Wort (see WARNINGS: Serotonin Syndrome).
+Based on the mechanism of action of SNRIs and SSRIs, including paroxetine hydrochloride, and the potential for serotonin syndrome, caution is advised when PAXIL CR is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, lithium, fentanyl, tramadol, amphetamines, or St. John’s Wort (see WARNINGS: Serotonin Syndrome).
 
 The concomitant use of PAXIL CR with MAOIs (including linezolid and intravenous methylene blue) is contraindicated (see CONTRAINDICATIONS).
 The concomitant use of PAXIL CR with other SSRIs, SNRIs or tryptophan is not recommended (see PRECAUTIONS: Drug Interactions, Tryptophan).
 
-### Thioridazine
+### Thioridazine:
 
 See CONTRAINDICATIONS and WARNINGS.
 
-### Warfarin
+### Warfarin:
 
 Preliminary data suggest that there may be a pharmacodynamic interaction (that causes an increased bleeding diathesis in the face of unaltered prothrombin time) between paroxetine and warfarin.
 Since there is little clinical experience, the concomitant administration of PAXIL CR and warfarin should be undertaken with caution (see PRECAUTIONS: Drugs That Interfere With Hemostasis).
 
-### Triptans
+### Triptans:
 
 There have been rare postmarketing reports of serotonin syndrome with the use of an SSRI and a triptan.
 If concomitant use of PAXIL CR with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS: Serotonin Syndrome).
 
-### Drugs Affecting Hepatic Metabolism
+### Drugs Affecting Hepatic Metabolism:
 
 The metabolism and pharmacokinetics of paroxetine may be affected by the induction or inhibition of drug-metabolizing enzymes.
 
-### Cimetidine
+### Cimetidine:
 
 Cimetidine inhibits many cytochrome P450 (oxidative) enzymes.
 In a study where immediate-release paroxetine (30 mg once daily) was dosed orally for 4 weeks, steady-state plasma concentrations of paroxetine were increased by approximately 50% during coadministration with oral cimetidine (300 mg three times daily) for the final week.
 Therefore, when these drugs are administered concurrently, dosage adjustment of PAXIL CR after the starting dose should be guided by clinical effect.
 The effect of paroxetine on cimetidine’s pharmacokinetics was not studied.
 
-### Phenobarbital
+### Phenobarbital:
 
 Phenobarbital induces many cytochrome P450 (oxidative) enzymes.
 When a single oral 30-mg dose of immediate-release paroxetine was administered at phenobarbital steady state (100 mg once daily for 14 days), paroxetine AUC and T½ were reduced (by an average of 25% and 38%, respectively) compared to paroxetine administered alone.
@@ -348,14 +342,14 @@ The effect of paroxetine on phenobarbital pharmacokinetics was not studied.
 Since paroxetine exhibits nonlinear pharmacokinetics, the results of this study may not address the case where the 2 drugs are both being chronically dosed.
 No initial dosage adjustment with PAXIL CR is considered necessary when coadministered with phenobarbital; any subsequent adjustment should be guided by clinical effect.
 
-### Phenytoin
+### Phenytoin:
 
 When a single oral 30-mg dose of immediate-release paroxetine was administered at phenytoin steady state (300 mg once daily for 14 days), paroxetine AUC and T½ were reduced (by an average of 50% and 35%, respectively) compared to immediate-release paroxetine administered alone.
 In a separate study, when a single oral 300-mg dose of phenytoin was administered at paroxetine steady state (30 mg once daily for 14 days), phenytoin AUC was slightly reduced (12% on average) compared to phenytoin administered alone.
 Since both drugs exhibit nonlinear pharmacokinetics, the above studies may not address the case where the 2 drugs are both being chronically dosed.
 No initial dosage adjustments are considered necessary when PAXIL CR is coadministered with phenytoin; any subsequent adjustments should be guided by clinical effect (see ADVERSE REACTIONS: Postmarketing Reports).
 
-### Drugs Metabolized by CYP2D6
+### Drugs Metabolized by CYP2D6:
 
 Many drugs, including most drugs effective in the treatment of major depressive disorder (paroxetine, other SSRIs, and many tricyclics), are metabolized by the cytochrome P450 isozyme CYP2D6.
 Like other agents that are metabolized by CYP2D6, paroxetine may significantly inhibit the activity of this isozyme.
@@ -379,76 +373,76 @@ Inhibition of CYP2D6 by paroxetine may lead to reduced plasma concentrations of 
 
 At steady state, when the CYP2D6 pathway is essentially saturated, paroxetine clearance is governed by alternative P450 isozymes that, unlike CYP2D6, show no evidence of saturation (see PRECAUTIONS: Tricyclic Antidepressants [TCAs]).
 
-### Drugs Metabolized by Cytochrome CYP3A4
+### Drugs Metabolized by Cytochrome CYP3A4:
 
 An in vivo interaction study involving the coadministration under steady-state conditions of paroxetine and terfenadine, a substrate for CYP3A4, revealed no effect of paroxetine on terfenadine pharmacokinetics.
 In addition, in vitro studies have shown ketoconazole, a potent inhibitor of CYP3A4 activity, to be at least 100 times more potent than paroxetine as an inhibitor of the metabolism of several substrates for this enzyme, including terfenadine, astemizole, cisapride, triazolam, and cyclosporine.
 Based on the assumption that the relationship between paroxetine’s in vitro Ki and its lack of effect on terfenadine's in vivo clearance predicts its effect on other CYP3A4 substrates, paroxetine’s extent of inhibition of CYP3A4 activity is not likely to be of clinical significance.
 
-### Tricyclic Antidepressants (TCAs)
+### Tricyclic Antidepressants (TCAs):
 
 Caution is indicated in the coadministration of TCAs with PAXIL CR, because paroxetine may inhibit TCA metabolism.
 Plasma TCA concentrations may need to be monitored, and the dose of TCA may need to be reduced, if a TCA is coadministered with PAXIL CR (see PRECAUTIONS: Drugs Metabolized by Cytochrome CYP2D6).
 
-### Drugs Highly Bound to Plasma Protein
+### Drugs Highly Bound to Plasma Protein:
 
 Because paroxetine is highly bound to plasma protein, administration of PAXIL CR to a patient taking another drug that is highly protein bound may cause increased free concentrations of the other drug, potentially resulting in adverse events.
 Conversely, adverse effects could result from displacement of paroxetine by other highly bound drugs.
 
-### Drugs That Interfere With Hemostasis (e.g., NSAIDs, Aspirin, and Warfarin)
+### Drugs That Interfere With Hemostasis (e.g., NSAIDs, Aspirin, and Warfarin):
 
 Serotonin release by platelets plays an important role in hemostasis.
 Epidemiological studies of the case-control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding have also shown that concurrent use of an NSAID or aspirin may potentiate this risk of bleeding.
 Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs or SNRIs are coadministered with warfarin.
 Patients receiving warfarin therapy should be carefully monitored when paroxetine is initiated or discontinued.
 
-### Alcohol
+### Alcohol:
 
 Although paroxetine does not increase the impairment of mental and motor skills caused by alcohol, patients should be advised to avoid alcohol while taking PAXIL CR.
 
-### Lithium
+### Lithium:
 
 A multiple-dose study with immediate-release paroxetine hydrochloride has shown that there is no pharmacokinetic interaction between paroxetine and lithium carbonate.
 However, due to the potential for serotonin syndrome, caution is advised when immediate-release paroxetine hydrochloride is coadministered with lithium.
 
-### Digoxin
+### Digoxin:
 
 The steady-state pharmacokinetics of paroxetine was not altered when administered with digoxin at steady state.
 Mean digoxin AUC at steady state decreased by 15% in the presence of paroxetine.
 Since there is little clinical experience, the concurrent administration of PAXIL CR and digoxin should be undertaken with caution.
 
-### Diazepam
+### Diazepam:
 
 Under steady-state conditions, diazepam does not appear to affect paroxetine kinetics.
 The effects of paroxetine on diazepam were not evaluated.
 
-### Procyclidine
+### Procyclidine:
 
 Daily oral dosing of immediate-release paroxetine (30 mg once daily) increased steady-state AUC0-24, Cmax, and Cmin values of procyclidine (5 mg oral once daily) by 35%, 37%, and 67%, respectively, compared to procyclidine alone at steady state.
 If anticholinergic effects are seen, the dose of procyclidine should be reduced.
 
-### Beta-Blockers
+### Beta-Blockers:
 
 In a study where propranolol (80 mg twice daily) was dosed orally for 18 days, the established steady-state plasma concentrations of propranolol were unaltered during coadministration with immediate-release paroxetine (30 mg once daily) for the final 10 days.
 The effects of propranolol on paroxetine have not been evaluated (see ADVERSE REACTIONS: Postmarketing Reports).
 
-### Theophylline
+### Theophylline:
 
 Reports of elevated theophylline levels associated with immediate-release paroxetine treatment have been reported.
 While this interaction has not been formally studied, it is recommended that theophylline levels be monitored when these drugs are concurrently administered.
 
-### Fosamprenavir/Ritonavir
+### Fosamprenavir/Ritonavir:
 
 Co-administration of fosamprenavir/ritonavir with paroxetine significantly decreased plasma levels of paroxetine.
 Any dose adjustment should be guided by clinical effect (tolerability and efficacy).
 
-### Electroconvulsive Therapy (ECT)
+### Electroconvulsive Therapy (ECT):
 
 There are no clinical studies of the combined use of ECT and PAXIL CR.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility:
 
-### Carcinogenesis
+### Carcinogenesis:
 
 Two-year carcinogenicity studies were conducted in rodents given paroxetine in the diet at 1, 5, and 25 mg/kg/day (mice) and 1, 5, and 20 mg/kg/day (rats).
 These doses are up to approximately 2 (mouse) and 3 (rat) times the MRHD on a mg/m2 basis.
@@ -457,11 +451,11 @@ Female rats were not affected.
 Although there was a dose-related increase in the number of tumors in mice, there was no drug-related increase in the number of mice with tumors.
 The relevance of these findings to humans is unknown.
 
-### Mutagenesis
+### Mutagenesis:
 
 Paroxetine produced no genotoxic effects in a battery of 5 in vitro and 2 in vivo assays that included the following: Bacterial mutation assay, mouse lymphoma mutation assay, unscheduled DNA synthesis assay, and tests for cytogenetic aberrations in vivo in mouse bone marrow and in vitro in human lymphocytes and in a dominant lethal test in rats.
 
-### Impairment of Fertility
+### Impairment of Fertility:
 
 Some clinical studies have shown that SSRIs (including paroxetine) may affect sperm quality during SSRI treatment, which may affect fertility in some men.
 
@@ -469,19 +463,19 @@ A reduced pregnancy rate was found in reproduction studies in rats at a dose of 
 Irreversible lesions occurred in the reproductive tract of male rats after dosing in toxicity studies for 2 to 52 weeks.
 These lesions consisted of vacuolation of epididymal tubular epithelium at 50 mg/kg/day and atrophic changes in the seminiferous tubules of the testes with arrested spermatogenesis at 25 mg/kg/day (approximately 8 and 4 times the MRHD on a mg/m2 basis).
 
-## Pregnancy
+## Pregnancy:
 
 Pregnancy Category D. See WARNINGS: Usage in Pregnancy: Teratogenic Effects and Nonteratogenic Effects.
 
-## Labor and Delivery
+## Labor and Delivery:
 
 The effect of paroxetine on labor and delivery in humans is unknown.
 
-## Nursing Mothers
+## Nursing Mothers:
 
 Like many other drugs, paroxetine is secreted in human milk, and caution should be exercised when PAXIL CR is administered to a nursing woman.
 
-## Pediatric Use
+## Pediatric Use:
 
 Safety and effectiveness in the pediatric population have not been established (see BOX WARNING and WARNINGS: Clinical Worsening and Suicide Risk).
 Three placebo-controlled trials in 752 pediatric patients with MDD have been conducted with immediate-release PAXIL, and the data were not sufficient to support a claim for use in pediatric patients.
@@ -493,7 +487,7 @@ In placebo-controlled clinical trials conducted with pediatric patients, the fol
 
 Events reported upon discontinuation of treatment with immediate-release paroxetine hydrochloride in the pediatric clinical trials that included a taper phase regimen, which occurred in at least 2% of patients who received immediate-release paroxetine hydrochloride and which occurred at a rate at least twice that of placebo, were: emotional lability (including suicidal ideation, suicide attempt, mood changes, and tearfulness), nervousness, dizziness, nausea, and abdominal pain (see DOSAGE AND ADMINISTRATION: Discontinuation of Treatment With PAXIL CR).
 
-## Geriatric Use
+## Geriatric Use:
 
 SSRIs and SNRIs, including PAXIL CR, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event (see PRECAUTIONS: Hyponatremia).
 

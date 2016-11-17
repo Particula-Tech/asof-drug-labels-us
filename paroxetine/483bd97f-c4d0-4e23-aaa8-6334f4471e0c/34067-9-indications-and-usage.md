@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-## Major Depressive Disorder
+## Major Depressive Disorder:
 
 PAXIL CR is indicated for the treatment of major depressive disorder.
 
@@ -13,7 +13,7 @@ The antidepressant action of paroxetine in hospitalized depressed patients has n
 PAXIL CR has not been systematically evaluated beyond 12 weeks in controlled clinical trials; however, the effectiveness of immediate-release paroxetine hydrochloride in maintaining a response in major depressive disorder for up to 1 year has been demonstrated in a placebo-controlled trial (see CLINICAL PHARMACOLOGY: Clinical Trials).
 The physician who elects to use PAXIL CR for extended periods should periodically re-evaluate the long-term usefulness of the drug for the individual patient (see DOSAGE AND ADMINISTRATION).
 
-## Panic Disorder
+## Panic Disorder:
 
 PAXIL CR is indicated for the treatment of panic disorder, with or without agoraphobia, as defined in DSM-IV.
 Panic disorder is characterized by the occurrence of unexpected panic attacks and associated concern about having additional attacks, worry about the implications or consequences of the attacks, and/or a significant change in behavior related to the attacks.
@@ -26,7 +26,7 @@ Long-term maintenance of efficacy with the immediate-release formulation of paro
 In this trial, patients with panic disorder assigned to immediate-release paroxetine demonstrated a lower relapse rate compared to patients on placebo (see CLINICAL PHARMACOLOGY: Clinical Trials).
 Nevertheless, the physician who prescribes PAXIL CR for extended periods should periodically re-evaluate the long-term usefulness of the drug for the individual patient (see DOSAGE AND ADMINISTRATION).
 
-## Social Anxiety Disorder
+## Social Anxiety Disorder:
 
 PAXIL CR is indicated for the treatment of social anxiety disorder, also known as social phobia, as defined in DSM-IV (300.23).
 Social anxiety disorder is characterized by a marked and persistent fear of 1 or more social or performance situations in which the person is exposed to unfamiliar people or to possible scrutiny by others.
@@ -42,7 +42,7 @@ PAXIL CR has not been studied in children or adolescents with social phobia (see
 The effectiveness of PAXIL CR in long-term treatment of social anxiety disorder, i.e., for more than 12 weeks, has not been systematically evaluated in adequate and well-controlled trials.
 Therefore, the physician who elects to prescribe PAXIL CR for extended periods should periodically re-evaluate the long-term usefulness of the drug for the individual patient (see DOSAGE AND ADMINISTRATION).
 
-## Premenstrual Dysphoric Disorder
+## Premenstrual Dysphoric Disorder:
 
 PAXIL CR is indicated for the treatment of PMDD.
 
