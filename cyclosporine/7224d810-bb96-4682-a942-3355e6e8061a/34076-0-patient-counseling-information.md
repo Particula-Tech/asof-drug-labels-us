@@ -7,10 +7,10 @@ Advise patients to not touch the bottle tip to their eye to avoid the potential 
 
 Use with Contact Lenses
 
-RESTASIS MULTIDOSETM should not be administered while wearing contact lenses.
+RESTASIS MULTIDOSE™ should not be administered while wearing contact lenses.
 Patients with decreased tear production typically should not wear contact lenses.
 Advise patients that if contact lenses are worn, they should be removed prior to the administration of the emulsion.
-Lenses may be reinserted 15 minutes following administration of RESTASIS MULTIDOSETM ophthalmic emulsion [see Warnings and Precautions (5.2)].
+Lenses may be reinserted 15 minutes following administration of RESTASIS MULTIDOSE™ ophthalmic emulsion [see Warnings and Precautions (5.2)].
 
 Administration
 
