@@ -1,11 +1,17 @@
 # Medication Guide
 
-Clopidogrel Tablets, USP (Kloe pid’ oh grel) Read this Medication Guide before you start taking clopidogrel tablets and each time you get a refill.
+Clopidogrel Tablets, USP
+
+(Kloe pid’ oh grel)
+
+Read this Medication Guide before you start taking clopidogrel tablets and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking with your doctor about your medical condition or your treatment.
+
 What is the most important information I should know about clopidogrel tablets?
+
 1.
-Clopidogrel tablets may not work as well in people who:
+Clopidogrel tabletsmay not work as well in people who:
 
 - have certain genetic factors that affect how the body breaks down clopidogrel tablets.
   Your doctor may do genetic tests to make sure clopidogrel tablets are right for you.
@@ -13,7 +19,7 @@ Clopidogrel tablets may not work as well in people who:
   Your doctor may change the medicine you take for stomach acid problems while you take clopidogrel tablets.
 
 2.
-Clopidogrel tablets can cause bleeding which can be serious and can sometimes lead to death.
+Clopidogrel tabletscan cause bleeding which can be serious and can sometimes lead to death.
 Clopidogrel tablets are a blood thinner medicine that lowers the chance of blood clots forming in your body.
 While you take clopidogrel tablets:
 
@@ -46,6 +52,7 @@ Platelets are blood cells that help your blood clot normally.
 Clopidogrel tablets help to prevent platelets from sticking together and forming a clot that can block an artery.
 It is not known if clopidogrel tablets are safe and effective in children.
 Who should not take clopidogrel tablets?
+
 Do not take clopidogrel tablets if you:
 
 - currently have a condition that causes bleeding, such as a stomach ulcer
@@ -53,6 +60,7 @@ Do not take clopidogrel tablets if you:
   See the end of this leaflet for a complete list of ingredients in clopidogrel tablets.
 
 What should I tell my doctor before taking clopidogrel tablets?
+
 Before you take clopidogrel tablets, tell your doctor if you:
 
 - have a history of bowel (gastrointestinal) or stomach ulcers
@@ -69,9 +77,14 @@ Before you take clopidogrel tablets, tell your doctor if you:
 
 Tell all of your doctors and your dentist that you are taking clopidogrel tablets.
 They should talk to the doctor who prescribed clopidogrel tablets for you before you have any surgery or invasive procedure.
+
 Tell your doctor about all the medicines you take, including prescription, non-prescription medicines, vitamins and herbal supplements.
+
 Clopidogrel tablets may affect the way other medicines work, and other medicines may affect how clopidogrel tablets work.
 See “What is the most important information I should know about clopidogrel tablets?”
+
+Clopidogrel tablets may increase blood levels of other medicines such as repaglinide (Prandin®).
+
 Taking clopidogrel tablets with certain other medicines may increase your risk of bleeding.
 Especially tell your doctor if you take:
 
@@ -85,13 +98,13 @@ Especially tell your doctor if you take:
 
 Know the medicines you take.
 Keep a list of them to show your doctor or pharmacist when you get a new medicine.
+
 How should I take clopidogrel tablets?
 
 - Take clopidogrel tablets exactly as your doctor tells you.
 - Do not change your dose or stop taking clopidogrel tablets without talking to your doctor first.
   Stopping clopidogrel tablets may increase your risk of heart attack or stroke.
 - Take clopidogrel tablets with aspirin as instructed by your doctor.
-- You can take clopidogrel tablets with or without food.
 - If you miss a dose, take clopidogrel tablets as soon as you remember.
   If it is almost time for your next dose, skip the missed dose.
   Take the next dose at your regular time.
@@ -102,7 +115,7 @@ How should I take clopidogrel tablets?
 
 What are the possible side effects of clopidogrel tablets?
 
-Clopidogrel tablets can cause serious side effects including:
+Clopidogrel tabletscan cause serious side effects including:
 
 - See “What is the most important information I should know about clopidogrel tablets?”
 - A blood clotting problem called Thrombotic Thrombocytopenic Purpura (TTP).
@@ -132,7 +145,6 @@ Tell your doctor if you develop an allergic reaction including skin reactions wh
 
 These are not all the possible side effects of clopidogrel tablets.
 For more information, ask your doctor or pharmacist.
-
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
@@ -140,11 +152,11 @@ How should I store clopidogrel tablets?
 
 - Store clopidogrel tablets at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F).
 
-Keep clopidogrel tablets and all medicines out of the reach of children.
+Keep clopidogrel tabletsand all medicines out of the reach of children.
 
 General information about clopidogrel tablets
 
-Medicines are sometimes used for purposes other than those listed in a Medication Guide.
+Medicines are some times used for purposes other than those listed in a Medication Guide.
 Do not take clopidogrel tablets for a condition for which it was not prescribed.
 Do not give clopidogrel tablets to other people, even if they have the same symptoms that you have.
 They may harm them.
@@ -159,8 +171,13 @@ What are the ingredients in clopidogrel tablets?
 
 Active ingredient: clopidogrel bisulfate
 
-Inactive ingredients: crospovidone, hydrogenated castor oil, hydroxypropyl cellulose low substituted, hypromellose 15cP, iron oxide red, lactose monohydrate, mannitol, microcrystalline cellulose, polyethylene glycol 6000, titanium dioxide, and triacetin This Medication Guide has been approved by the U.S. Food and Drug Administration.
+Inactive ingredients: crospovidone, hydrogenated castor oil, hydroxypropyl cellulose low substituted, hypromellose 15cP, iron oxide red, lactose monohydrate, mannitol, microcrystalline cellulose, polyethylene glycol 6000, titanium dioxide, and triacetin
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides
+
 Coumadin® is a registered trademark of Bristol-Myers Squibb Pharma Company.
 Prilosec® and Nexium® are registered trademarks of AstraZeneca.
 Jantoven® is a registered trademark of USL Pharma.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India Revised: 08/2015
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India Revised: 11/2016

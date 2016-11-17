@@ -1,36 +1,32 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Diminished Antiplatelet Activity Due to Impaired CYP2C19 Function
+## 5.1 Diminished Antiplatelet Activity in Patients with Impaired CYP2C19 Function
 
 Clopidogrel is a prodrug.
 Inhibition of platelet aggregation by clopidogrel is achieved through an active metabolite.
-The metabolism of clopidogrel to its active metabolite can be impaired by genetic variations in CYP2C19 [see Boxed Warning] and by concomitant medications that interfere with CYP2C19.
-Proton Pump Inhibitors Avoid concomitant use of clopidogrel bisulfate with omeprazole or esomeprazole because both significantly reduce the antiplatelet activity of clopidogrel bisulfate [see Drug Interactions (7.1) and Dosage and Administration (2.4)].
+The metabolism of clopidogrel to its active metabolite can be impaired by genetic variations in CYP2C19 [see Boxed Warning].
+The metabolism of clopidogrel can also be impaired by drugs that inhibit CYP2C19, such as omeprazole or esomeprazole.
+Avoid concomitant use of clopidogrel bisulfate with omeprazole or esomeprazole because both significantly reduce the antiplatelet activity of clopidogrel bisulfate [see Drug Interactions (7.1)].
 
 ## 5.2 General Risk of Bleeding
 
 Thienopyridines, including clopidogrel bisulfate, increase the risk of bleeding.
-If a patient is to undergo surgery and an antiplatelet effect is not desired, discontinue clopidogrel bisulfate five days prior to surgery.
-In patients who stopped therapy more than five days prior to CABG the rates of major bleeding were similar (event rate 4.4% clopidogrel bisulfate + aspirin; 5.3% placebo + aspirin).
-In patients who remained on therapy within five days of CABG, the major bleeding rate was 9.6% for clopidogrel bisulfate + aspirin, and 6.3% for placebo + aspirin.
-Thienopyridines inhibit platelet aggregation for the lifetime of the platelet (7 to 10 days), so withholding a dose will not be useful in managing a bleeding event or the risk of bleeding associated with an invasive procedure.
+Thienopyridines inhibit platelet aggregation for the lifetime of the platelet (7 to 10 days).
 Because the half-life of clopidogrel’s active metabolite is short, it may be possible to restore hemostasis by administering exogenous platelets; however, platelet transfusions within 4 hours of the loading dose or 2 hours of the maintenance dose may be less effective.
 
 ## 5.3 Discontinuation of Clopidogrel Bisulfate
 
-Avoid lapses in therapy, and if clopidogrel bisulfate must be temporarily discontinued, restart as soon as possible.
-Premature discontinuation of clopidogrel bisulfate may increase the risk of cardiovascular events.
+Discontinuation of clopidogrel bisulfate increases the risk of cardiovascular events.
+If clopidogrel bisulfate must be temporarily discontinued (e.g., to treat bleeding or for surgery with a major risk of bleeding), restart it as soon as possible.
+When possible, interrupt therapy with clopidogrel bisulfate for five days prior to such surgery.
+Resume clopidogrel bisulfate as soon as hemostasis is achieved.
 
-## 5.4 Patients with Recent Transient Ischemic Attack (TIA) or Stroke
-
-In patients with recent TIA or stroke who are at high risk for recurrent ischemic events, the combination of aspirin and clopidogrel bisulfate has not been shown to be more effective than clopidogrel bisulfate alone, but the combination has been shown to increase major bleeding.
-
-## 5.5 Thrombotic Thrombocytopenic Purpura (TTP)
+## 5.4 Thrombotic Thrombocytopenic Purpura (TTP)
 
 TTP, sometimes fatal, has been reported following use of clopidogrel bisulfate, sometimes after a short exposure (<2 weeks).
 TTP is a serious condition that requires urgent treatment including plasmapheresis (plasma exchange).
 It is characterized by thrombocytopenia, microangiopathic hemolytic anemia (schistocytes [fragmented RBCs] seen on peripheral smear), neurological findings, renal dysfunction, and fever [see Adverse Reactions (6.2)].
 
-## 5.6 Cross-Reactivity among Thienopyridines
+## 5.5 Cross-Reactivity among Thienopyridines
 
-Hypersensitivity including rash, angioedema or hematologic reaction have been reported in patients receiving clopidogrel, including patients with a history of hypersensitivity or hematologic reaction to other thienopyridines [see Contraindications (4.2) and Adverse Reactions (6.2)].
+Hypersensitivity including rash, angioedema or hematologic reaction have been reported in patients receiving clopidogrel bisulfate, including patients with a history of hypersensitivity or hematologic reaction to other thienopyridines [see Contraindications (4.2) and Adverse Reactions (6.2)].
