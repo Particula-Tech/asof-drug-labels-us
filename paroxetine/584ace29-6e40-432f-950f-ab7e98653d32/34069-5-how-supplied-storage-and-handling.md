@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-## Tablets
+## Tablets:
 
 Film‑coated, modified‑oval as follows:
 
@@ -22,7 +22,7 @@ NDC 60505-3666-3 Bottles of 30
 
 Store tablets between 15° and 30°C (59° and 86°F).
 
-## Oral Suspension
+## Oral Suspension:
 
 Orange‑colored, orange‑flavored, 10 mg/5 mL, in white bottles containing 250 mL.
 
@@ -32,19 +32,11 @@ Store suspension at or below 25°C (77°F).
 
 PAXIL is a registered trademark of GlaxoSmithKline.
 
-Manufactured by:
+Manufactured by: GlaxoSmithKline Research Triangle Park, NC 27709
 
-GlaxoSmithKline
-
-Research Triangle Park, NC 27709
-
-Distributed by:
-
-Apotex Corp.
-
-Weston, FL 33326
+Distributed by: Apotex Corp. Weston, FL 33326
 
 ©2012, GlaxoSmithKline.
 All rights reserved.
 
-June 2014 PXL-AP:6PI
+October 2016

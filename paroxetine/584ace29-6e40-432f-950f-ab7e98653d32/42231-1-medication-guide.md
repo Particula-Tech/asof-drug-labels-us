@@ -275,19 +275,11 @@ PAXIL and PAXIL CR are registered trademarks of GlaxoSmithKline.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by:
+Manufactured by: GlaxoSmithKline Research Triangle Park, NC 27709
 
-GlaxoSmithKline
-
-Research Triangle Park, NC 27709
-
-Distributed by:
-
-Apotex Corp.
-
-Weston, FL 33326
+Distributed by: Apotex Corp. Weston, FL 33326
 
 ©2013, GlaxoSmithKline.
 All rights reserved.
 
-June 2014 PXL-AP:5MG
+October 2016

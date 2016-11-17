@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-## Major Depressive Disorder
+## Major Depressive Disorder:
 
 PAXIL is indicated for the treatment of major depressive disorder.
 
@@ -12,7 +12,7 @@ The effects of PAXIL in hospitalized depressed patients have not been adequately
 The efficacy of PAXIL in maintaining a response in major depressive disorder for up to 1 year was demonstrated in a placebo‑controlled trial (see CLINICAL PHARMACOLOGY: Clinical Trials).
 Nevertheless, the physician who elects to use PAXIL for extended periods should periodically re‑evaluate the long‑term usefulness of the drug for the individual patient.
 
-## Obsessive Compulsive Disorder
+## Obsessive Compulsive Disorder:
 
 PAXIL is indicated for the treatment of obsessions and compulsions in patients with obsessive compulsive disorder (OCD) as defined in the DSM‑IV.
 The obsessions or compulsions cause marked distress, are time‑consuming, or significantly interfere with social or occupational functioning.
@@ -25,7 +25,7 @@ Long‑term maintenance of efficacy was demonstrated in a 6‑month relapse prev
 In this trial, patients assigned to paroxetine showed a lower relapse rate compared to patients on placebo (see CLINICAL PHARMACOLOGY: Clinical Trials).
 Nevertheless, the physician who elects to use PAXIL for extended periods should periodically re‑evaluate the long‑term usefulness of the drug for the individual patient (see DOSAGE AND ADMINISTRATION).
 
-## Panic Disorder
+## Panic Disorder:
 
 PAXIL is indicated for the treatment of panic disorder, with or without agoraphobia, as defined in DSM‑IV.
 Panic disorder is characterized by the occurrence of unexpected panic attacks and associated concern about having additional attacks, worry about the implications or consequences of the attacks, and/or a significant change in behavior related to the attacks.
@@ -38,7 +38,7 @@ Long‑term maintenance of efficacy was demonstrated in a 3‑month relapse prev
 In this trial, patients with panic disorder assigned to paroxetine demonstrated a lower relapse rate compared to patients on placebo (see CLINICAL PHARMACOLOGY: Clinical Trials).
 Nevertheless, the physician who prescribes PAXIL for extended periods should periodically re‑evaluate the long‑term usefulness of the drug for the individual patient (see DOSAGE AND ADMINISTRATION).
 
-## Social Anxiety Disorder
+## Social Anxiety Disorder:
 
 PAXIL is indicated for the treatment of social anxiety disorder, also known as social phobia, as defined in DSM‑IV (300.23).
 Social anxiety disorder is characterized by a marked and persistent fear of 1 or more social or performance situations in which the person is exposed to unfamiliar people or to possible scrutiny by others.
@@ -53,7 +53,7 @@ PAXIL has not been studied in children or adolescents with social phobia (see CL
 The effectiveness of PAXIL in long-term treatment of social anxiety disorder, i.e., for more than 12 weeks, has not been systematically evaluated in adequate and well‑controlled trials.
 Therefore, the physician who elects to prescribe PAXIL for extended periods should periodically re‑evaluate the long‑term usefulness of the drug for the individual patient (see DOSAGE AND ADMINISTRATION).
 
-## Generalized Anxiety Disorder
+## Generalized Anxiety Disorder:
 
 PAXIL is indicated for the treatment of Generalized Anxiety Disorder (GAD), as defined in DSM‑IV.
 Anxiety or tension associated with the stress of everyday life usually does not require treatment with an anxiolytic.
@@ -67,7 +67,7 @@ It must be associated with at least 3 of the following 6 symptoms: Restlessness 
 The efficacy of PAXIL in maintaining a response in patients with Generalized Anxiety Disorder, who responded during an 8-week acute treatment phase while taking PAXIL and were then observed for relapse during a period of up to 24 weeks, was demonstrated in a placebo-controlled trial (see CLINICAL PHARMACOLOGY: Clinical Trials).
 Nevertheless, the physician who elects to use PAXIL for extended periods should periodically re-evaluate the long-term usefulness of the drug for the individual patient (see DOSAGE AND ADMINISTRATION).
 
-## Posttraumatic Stress Disorder
+## Posttraumatic Stress Disorder:
 
 PAXIL is indicated for the treatment of Posttraumatic Stress Disorder (PTSD).
 

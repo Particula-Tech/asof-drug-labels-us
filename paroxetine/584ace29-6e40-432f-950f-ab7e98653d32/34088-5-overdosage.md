@@ -1,6 +1,6 @@
 # OVERDOSAGE
 
-## Human Experience
+## Human Experience:
 
 Since the introduction of PAXIL in the United States, 342 spontaneous cases of deliberate or accidental overdosage during paroxetine treatment have been reported worldwide (circa 1999).
 These include overdoses with paroxetine alone and in combination with other substances.
@@ -12,7 +12,7 @@ The largest known ingestion involved 2,000 mg of paroxetine (33 times the maximu
 Commonly reported adverse events associated with paroxetine overdosage include somnolence, coma, nausea, tremor, tachycardia, confusion, vomiting, and dizziness.
 Other notable signs and symptoms observed with overdoses involving paroxetine (alone or with other substances) include mydriasis, convulsions (including status epilepticus), ventricular dysrhythmias (including torsade de pointes), hypertension, aggressive reactions, syncope, hypotension, stupor, bradycardia, dystonia, rhabdomyolysis, symptoms of hepatic dysfunction (including hepatic failure, hepatic necrosis, jaundice, hepatitis, and hepatic steatosis), serotonin syndrome, manic reactions, myoclonus, acute renal failure, and urinary retention.
 
-## Overdosage Management
+## Overdosage Management:
 
 No specific antidotes for paroxetine are known.
 Treatment should consist of those general measures employed in the management of overdosage with any drugs effective in the treatment of major depressive disorder.

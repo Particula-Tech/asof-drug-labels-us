@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-## Pharmacodynamics
+## Pharmacodynamics:
 
 The efficacy of paroxetine in the treatment of major depressive disorder, social anxiety disorder, obsessive compulsive disorder (OCD), panic disorder (PD), generalized anxiety disorder (GAD), and posttraumatic stress disorder (PTSD) is presumed to be linked to potentiation of serotonergic activity in the central nervous system resulting from inhibition of neuronal reuptake of serotonin (5‑hydroxy‑tryptamine, 5‑HT).
 Studies at clinically relevant doses in humans have demonstrated that paroxetine blocks the uptake of serotonin into human platelets.
@@ -9,7 +9,7 @@ In vitro radioligand binding studies indicate that paroxetine has little affinit
 
 Because the relative potencies of paroxetine’s major metabolites are at most 1/50 of the parent compound, they are essentially inactive.
 
-## Pharmacokinetics
+## Pharmacokinetics:
 
 Paroxetine hydrochloride is completely absorbed after oral dosing of a solution of the hydrochloride salt.
 The mean elimination half-life is approximately 21 hours (CV 32%) after oral dosing of 30 mg tablets of PAXIL daily for 30 days.
@@ -20,7 +20,7 @@ Pharmacokinetic behavior of paroxetine has not been evaluated in subjects who ar
 
 In a meta-analysis of paroxetine from 4 studies done in healthy volunteers following multiple dosing of 20 mg/day to 40 mg/day, males did not exhibit a significantly lower Cmax or AUC than females.
 
-### Absorption and Distribution
+### Absorption and Distribution:
 
 Paroxetine is equally bioavailable from the oral suspension and tablet.
 
@@ -40,7 +40,7 @@ Approximately 95% and 93% of paroxetine is bound to plasma protein at 100 ng/mL 
 Under clinical conditions, paroxetine concentrations would normally be less than 400 ng/mL.
 Paroxetine does not alter the in vitro protein binding of phenytoin or warfarin.
 
-### Metabolism and Excretion
+### Metabolism and Excretion:
 
 The mean elimination half-life is approximately 21 hours (CV 32%) after oral dosing of 30 mg tablets daily for 30 days of PAXIL.
 In steady‑state dose proportionality studies involving elderly and nonelderly patients, at doses of 20 mg to 40 mg daily for the elderly and 20 mg to 50 mg daily for the nonelderly, some nonlinearity was observed in both populations, again reflecting a saturable metabolic pathway.
@@ -57,11 +57,11 @@ The role of this enzyme in paroxetine metabolism also suggests potential drug‑
 Approximately 64% of a 30-mg oral solution dose of paroxetine was excreted in the urine with 2% as the parent compound and 62% as metabolites over a 10‑day post‑dosing period.
 About 36% was excreted in the feces (probably via the bile), mostly as metabolites and less than 1% as the parent compound over the 10‑day post‑dosing period.
 
-## Other Clinical Pharmacology Information
+## Other Clinical Pharmacology Information:
 
-Specific Populations
+Specific Populations:
 
-### Renal and Liver Disease
+### Renal and Liver Disease:
 
 Increased plasma concentrations of paroxetine occur in subjects with renal and hepatic impairment.
 The mean plasma concentrations in patients with creatinine clearance below 30 mL/min. were approximately 4 times greater than seen in normal volunteers.
@@ -69,12 +69,12 @@ Patients with creatinine clearance of 30 to 60 mL/min. and patients with hepatic
 
 The initial dosage should therefore be reduced in patients with severe renal or hepatic impairment, and upward titration, if necessary, should be at increased intervals (see DOSAGE AND ADMINISTRATION).
 
-### Elderly Patients
+### Elderly Patients:
 
 In a multiple‑dose study in the elderly at daily paroxetine doses of 20, 30, and 40 mg, Cmin concentrations were about 70% to 80% greater than the respective Cmin concentrations in nonelderly subjects.
 Therefore the initial dosage in the elderly should be reduced (see DOSAGE AND ADMINISTRATION).
 
-### Drug-Drug Interactions
+### Drug-Drug Interactions:
 
 In vitro drug interaction studies reveal that paroxetine inhibits CYP2D6.
 Clinical drug interaction studies have been performed with substrates of CYP2D6 and show that paroxetine can inhibit the metabolism of drugs metabolized by CYP2D6 including desipramine, risperidone, and atomoxetine (see PRECAUTIONS: Drug Interactions).

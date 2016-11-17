@@ -1,6 +1,6 @@
 # Clinical Trials
 
-## Major Depressive Disorder
+## Major Depressive Disorder:
 
 The efficacy of PAXIL as a treatment for major depressive disorder has been established in 6 placebo‑controlled studies of patients with major depressive disorder (aged 18 to 73).
 In these studies, PAXIL was shown to be significantly more effective than placebo in treating major depressive disorder by at least 2 of the following measures: Hamilton Depression Rating Scale (HDRS), the Hamilton depressed mood item, and the Clinical Global Impression (CGI)‑Severity of Illness.
@@ -9,7 +9,7 @@ PAXIL was significantly better than placebo in improvement of the HDRS sub‑fac
 A study of outpatients with major depressive disorder who had responded to PAXIL (HDRS total score <8) during an initial 8‑week open‑treatment phase and were then randomized to continuation on PAXIL or placebo for 1 year demonstrated a significantly lower relapse rate for patients taking PAXIL (15%) compared to those on placebo (39%).
 Effectiveness was similar for male and female patients.
 
-## Obsessive Compulsive Disorder
+## Obsessive Compulsive Disorder:
 
 The effectiveness of PAXIL in the treatment of obsessive compulsive disorder (OCD) was demonstrated in two 12‑week multicenter placebo-controlled studies of adult outpatients (Studies 1 and 2).
 Patients in all studies had moderate to severe OCD (DSM‑IIIR) with mean baseline ratings on the Yale Brown Obsessive Compulsive Scale (YBOCS) total score ranging from 23 to 26.
@@ -35,7 +35,7 @@ The long‑term maintenance effects of PAXIL in OCD were demonstrated in a long�
 Patients who were responders on paroxetine during the 3‑month double‑blind phase and a 6‑month extension on open‑label paroxetine (20 to 60 mg/day) were randomized to either paroxetine or placebo in a 6‑month double‑blind relapse prevention phase.
 Patients randomized to paroxetine were significantly less likely to relapse than comparably treated patients who were randomized to placebo.
 
-## Panic Disorder
+## Panic Disorder:
 
 The effectiveness of PAXIL in the treatment of panic disorder was demonstrated in three 10- to 12‑week multicenter, placebo‑controlled studies of adult outpatients (Studies 1‑3).
 Patients in all studies had panic disorder (DSM-IIIR), with or without agoraphobia.
@@ -59,7 +59,7 @@ Patients randomized to paroxetine were significantly less likely to relapse than
 
 Subgroup analyses did not indicate that there were any differences in treatment outcomes as a function of age or gender.
 
-## Social Anxiety Disorder
+## Social Anxiety Disorder:
 
 The effectiveness of PAXIL in the treatment of social anxiety disorder was demonstrated in three 12‑week, multicenter, placebo‑controlled studies (Studies 1, 2, and 3) of adult outpatients with social anxiety disorder (DSM‑IV).
 In these studies, the effectiveness of PAXIL compared to placebo was evaluated on the basis of (1) the proportion of responders, as defined by a Clinical Global Impression (CGI) Improvement score of 1 (very much improved) or 2 (much improved), and (2) change from baseline in the Liebowitz Social Anxiety Scale (LSAS).
@@ -75,7 +75,7 @@ There was no indication in this study of any additional benefit for doses higher
 
 Subgroup analyses generally did not indicate differences in treatment outcomes as a function of age, race, or gender.
 
-## Generalized Anxiety Disorder
+## Generalized Anxiety Disorder:
 
 The effectiveness of PAXIL in the treatment of Generalized Anxiety Disorder (GAD) was demonstrated in two 8‑week, multicenter, placebo‑controlled studies (Studies 1 and 2) of adult outpatients with Generalized Anxiety Disorder (DSM‑IV).
 
@@ -95,7 +95,7 @@ Response during the single-blind phase was defined by having a decrease of ≥2 
 Relapse during the double-blind phase was defined as an increase of ≥2 points compared to baseline on the CGI-Severity of Illness scale to a score of ≥4, or withdrawal due to lack of efficacy.
 Patients receiving continued PAXIL experienced a significantly lower relapse rate over the subsequent 24 weeks compared to those receiving placebo.
 
-## Posttraumatic Stress Disorder
+## Posttraumatic Stress Disorder:
 
 The effectiveness of PAXIL in the treatment of Posttraumatic Stress Disorder (PTSD) was demonstrated in two 12-week, multicenter, placebo-controlled studies (Studies 1 and 2) of adult outpatients who met DSM-IV criteria for PTSD.
 The mean duration of PTSD symptoms for the 2 studies combined was 13 years (ranging from.1 year to 57 years).
