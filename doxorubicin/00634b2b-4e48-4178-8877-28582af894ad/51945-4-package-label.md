@@ -2,9 +2,7 @@
 
 NDC 0069-4004-05
 
-Single-Dose
-
-Rx only
+Single-Dose Rx only
 
 Discard unused portion
 
@@ -32,15 +30,13 @@ For Intravenous Use Only Cytosafe® Vial
 
 Caution: Cytotoxic Agent
 
-PREMIERPro™ Rx
+PREMIERProRx®
 
 # PRINCIPAL DISPLAY PANEL - 20 mg/10 mL Vial Label
 
 NDC 0069-4015-10
 
-Single-Dose
-
-Rx only
+Single-Dose Rx only
 
 Discard unused portion
 
@@ -70,15 +66,13 @@ For Intravenous Use Only Cytosafe® Vial
 
 Caution: Cytotoxic Agent
 
-PREMIERPro™ Rx
+PREMIERProRx®
 
 # PRINCIPAL DISPLAY PANEL - 50 mg/25 mL Vial Label
 
 NDC 0069-4026-25
 
-Single-Dose
-
-Rx only
+Single-Dose Rx only
 
 Discard unused portion
 
@@ -108,15 +102,13 @@ For Intravenous Use Only Cytosafe® Vial
 
 Caution: Cytotoxic Agent
 
-PREMIERPro™ Rx
+PREMIERProRx®
 
 # PRINCIPAL DISPLAY PANEL - 200 mg/100 mL Vial Label
 
 NDC 0069-4037-01
 
-Multiple Dose Vial
-
-Rx only
+Multiple Dose Vial Rx only
 
 DOXOrubicin HCl Injection, USP
 
@@ -128,7 +120,7 @@ For Intravenous Use Only
 
 Caution: Cytotoxic Agent
 
-PREMIERPro™ Rx
+PREMIERProRx®
 
 # PRINCIPAL DISPLAY PANEL - 200 mg/100 mL Vial Carton
 
@@ -146,4 +138,4 @@ For Intravenous Use Only Cytosafe® Vial
 
 Caution: Cytotoxic Agent
 
-PREMIERPro™ Rx
+PREMIERProRx®
