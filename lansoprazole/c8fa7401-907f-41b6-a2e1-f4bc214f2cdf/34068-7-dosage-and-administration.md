@@ -1,10 +1,11 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-Lansoprazole is available as a capsule, and is available in 15 mg and 30 mg strengths.
+Lansoprazole is available as a capsule.
+It is available in 15 mg and 30 mg strengths.
 Directions for use specific to the route and available methods of administration for this dosage form are presented below.
 Lansoprazole delayed-release capsules should be taken before eating.
 Lansoprazole delayed-release capsules SHOULD NOT BE CRUSHED OR CHEWED.
-In the clinical trials, antacids were used concomitantly with lansoprazole delayed-release capsules.
+In the clinical trials, antacids were used concomitantly.
 
 ## 2.1 Recommended Dose
 
@@ -28,7 +29,7 @@ In the clinical trials, antacids were used concomitantly with lansoprazole delay
 | Risk Reduction | 15 mg | Once daily for up to 12 weeks |
 | Gastroesophageal Reflux Disease (GERD) |  |  |
 | Short-Term Treatment of Symptomatic GERD | 15 mg | Once daily for up to 8 weeks |
-| Short-Term Treatment of Erosive Esophagitis | 30 mg | Once daily for up to 8 weeksFor patients who do not heal with lansoprazole delayed-release capsules for eight weeks (5% to 10%), it may be helpful to give an additional eight weeks of treatment. If there is a recurrence of erosive esophagitis, an additional eight-week course of lansoprazole delayed-release capsules may be considered. |
+| Short-Term Treatment of Erosive Esophagitis | 30 mg | Once daily for up to 8 weeksFor patients who do not heal with lansoprazole delayed-release capsules for eight weeks (5% to 10%), it may be helpful to give an additional eight weeks of treatment. If there is a recurrence of erosive esophagitis, an additional eight week course of lansoprazole delayed-release capsules may be considered. |
 | Pediatric |  |  |
 | (1 to 11 Years of Age) |  |  |
 | Short-Term Treatment of Symptomatic GERD and Short-Term Treatment of Erosive Esophagitis |  |  |

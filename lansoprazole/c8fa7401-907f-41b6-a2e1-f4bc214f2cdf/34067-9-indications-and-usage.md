@@ -19,7 +19,7 @@ Please refer to the full prescribing information for amoxicillin and clarithromy
 
 #### Lansoprazole/Amoxicillin
 
-Lansoprazole delayed-release capsules in combination with amoxicillin as dual therapy are indicated for the treatment of patients with H. pylori infection and duodenal ulcer disease (active or one-year history of a duodenal ulcer) who are either allergic or intolerant to clarithromycin or in whom resistance to clarithromycin is known or suspected (see the clarithromycin package insert, MICROBIOLOGY section).
+Lansoprazole delayed-release capsules in combination with amoxicillin as dual therapy are indicated for the treatment of patients with H. pylori infection and duodenal ulcer disease (active or one-year history of a duodenal ulcer) who are either allergic or intolerant to clarithromycin or in whom resistance to clarithromycin is known or suspected (see the clarithromycin prescribing information, MICROBIOLOGY section).
 Eradication of H. pylori has been shown to reduce the risk of duodenal ulcer recurrence [see Clinical Studies (14)].
 
 Please refer to the full prescribing information for amoxicillin.
@@ -53,7 +53,7 @@ Lansoprazole delayed-release capsules are indicated for the treatment of heartbu
 
 Lansoprazole delayed-release capsules are indicated for short-term treatment (up to eight weeks) for healing and symptom relief of all grades of erosive esophagitis.
 For patients who do not heal with lansoprazole delayed-release capsules for eight weeks (5% to 10%), it may be helpful to give an additional eight weeks of treatment.
-If there is a recurrence of erosive esophagitis an additional eight-week course of lansoprazole delayed-release capsules may be considered [see Clinical Studies (14)].
+If there is a recurrence of erosive esophagitis an additional eight week course of lansoprazole delayed-release capsules may be considered [see Clinical Studies (14)].
 
 ## 1.8 Maintenance of Healing of Erosive Esophagitis (EE)
 

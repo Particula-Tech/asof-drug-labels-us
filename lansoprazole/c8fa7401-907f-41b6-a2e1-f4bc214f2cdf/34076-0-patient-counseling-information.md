@@ -1,18 +1,23 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-[See FDA-Approved Medication Guide and Patient Instructions for Use]
+Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
-Patient should be informed of the following:
+Adverse Reactions: Advise patients to report to their healthcare provider if they experience any signs or symptoms consistent with:
 
-- •Advise patients to immediately report and seek care for diarrhea that does not improve.
-  This may be a sign of Clostridium difficile associated diarrhea [see Warnings and Precautions (5.4)].
-- •Advise patients to immediately report and seek care for any cardiovascular or neurological symptoms including palpitations, dizziness, seizures, and tetany as these may be signs of hypomagnesemia [see Warnings and Precautions (5.6)].
+- •Hypersensitivity Reactions [see Contraindications (4)]
+- •Acute Interstitial Nephritis [see Warnings and Precautions (5.2)]
+- •Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.3)]
+- •Bone Fracture [see Warnings and Precautions (5.4)]
+- •Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)]
+- •Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.6)]
+- •Hypomagnesemia [see Warnings and Precautions (5.7)]
 
-Information for Patients: Lansoprazole is available as a capsule, and is available in 15 mg and 30 mg strengths.
+Administration: Lansoprazole is available as a capsule.
+It is available in 15 mg and 30 mg strengths.
 Directions for use specific to the route and available methods of administration for this dosage form are presented below [see Dosage and Administration (2.3)].
 
 - •Lansoprazole delayed-release capsules should be taken before eating.
-- •Lansoprazole products SHOULD NOT BE CRUSHED OR CHEWED.
+- •Lansoprazole delayed-release capsules SHOULD NOT BE CRUSHED OR CHEWED.
 
 Administration Options: Lansoprazole Delayed-Release Capsules – Oral Administration:
 

@@ -18,7 +18,7 @@ Because many drugs are excreted in human milk, because of the potential for seri
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of lansoprazole have been established in pediatric patients one to 17 years of age for short-term treatment of symptomatic GERD and erosive esophagitis, however, lansoprazole was not effective in patients with symptomatic GERD 1 month to less than one year of age in a multicenter, double-blind, placebo-controlled study.
+The safety and effectiveness of lansoprazole have been established in pediatric patients one to 17 years of age for short-term treatment of symptomatic GERD and erosive esophagitis, however, lansoprazole was not effective in patients with symptomatic GERD one month to less than one year of age in a multicenter, double-blind, placebo-controlled study.
 
 ### Neonate to Less Than One Year of Age
 
@@ -27,8 +27,8 @@ Compared to healthy adults receiving 30 mg, neonates had higher exposure (mean w
 Infants aged ≤ 10 weeks had clearance and exposure values that were similar to neonates.
 Infants aged greater than 10 weeks who received 1 mg/kg/day had mean AUC values that were similar to adults who received a 30 mg dose.
 
-Lansoprazole was not found to be effective in a U.S. and Polish four-week multicenter, double-blind, placebo-controlled, parallel-group study of 162 patients between one month and less than 12 months of age with symptomatic GERD based on a medical history of crying/fussing/irritability associated with feedings who had not responded to conservative GERD management (i.e., non-pharmacologic intervention) for seven to 14 days.
-Patients received lansoprazole as a suspension daily (0.2 to 0.3 mg/kg/day in infants ≤ 10 weeks of age or 1.0 mg/kg/day to 1.5 mg/kg/day in infants greater than 10 weeks or placebo) for up to four weeks of double-blind treatment.
+Lansoprazole was not found to be effective in a U.S. and Polish four week multicenter, double-blind, placebo-controlled, parallel-group study of 162 patients between one month and less than 12 months of age with symptomatic GERD based on a medical history of crying/fussing/irritability associated with feedings who had not responded to conservative GERD management (i.e., non-pharmacologic intervention) for seven to 14 days.
+Patients received lansoprazole as a suspension daily (0.2 mg/kg/day to 0.3 mg/kg/day in infants ≤ 10 weeks of age or 1.0 mg/kg/day to 1.5 mg/kg/day in infants greater than 10 weeks or placebo) for up to four weeks of double-blind treatment.
 
 The primary efficacy endpoint was assessed by greater than 50% reduction from baseline in either the percent of feedings with a crying/fussing/irritability episode or the duration (minutes) of a crying/fussing/irritability episode within one hour after feeding.
 
@@ -52,7 +52,7 @@ Twenty-one of 27 erosive esophagitis patients were healed at eight weeks and 100
 Table 2.
 GERD Symptom Improvement and Erosive Esophagitis Healing Rates in Pediatric Patients Age One to 11
 
-| GERD | Final VisitAt Week 8 or Week 12 % (n/N) |
+| GERD | Final VisitAt Week 8 or Week 12. % (n/N) |
 | --- | --- |
 | Symptomatic GERD |  |
 | Improvement in Overall GERD SymptomsSymptoms assessed by patients diary kept by caregiver. | 76% (47/62No data were available for four pediatric patients.) |
@@ -99,12 +99,12 @@ The safety of lansoprazole delayed-release capsules has been assessed in these 8
 Of the 87 adolescent patients with GERD, 6% (5/87) took lansoprazole for less than six weeks, 93% (81/87) for six to 10 weeks, and 1% (1/87) for greater than 10 weeks.
 
 The most frequently reported (at least 3%) treatment-related adverse reactions in these patients were headache (7%), abdominal pain (5%), nausea (3%) and dizziness (3%).
-Treatment-related dizziness, reported in this package insert as occurring in less than 1% of adult patients, was reported in this study by three adolescent patients with nonerosive GERD, who had dizziness concurrently with other reactions (such as migraine, dyspnea, and vomiting).
+Treatment-related dizziness, reported in this prescribing information as occurring in less than 1% of adult patients, was reported in this study by three adolescent patients with nonerosive GERD, who had dizziness concurrently with other reactions (such as migraine, dyspnea, and vomiting).
 
 ## 8.5 Geriatric Use
 
 No dosage adjustment of lansoprazole is necessary in geriatric patients.
-The incidence rates of lansoprazole-associated adverse reactions and laboratory test abnormalities are similar to those seen in younger patients [see Clinical Pharmacology (12.3)].
+The incidence rates of adverse reactions and laboratory test abnormalities are similar to those seen in younger patients [see Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 

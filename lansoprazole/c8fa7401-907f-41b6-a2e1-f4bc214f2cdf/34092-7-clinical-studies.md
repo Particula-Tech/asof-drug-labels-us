@@ -28,7 +28,7 @@ Duodenal Ulcer Healing Rates
 | 2 | 35.0% | 44.2% | 30.5% | 34.2% |
 | 4 | 92.3%(p ≤ 0.05) versus placebo and ranitidine. | 80.3%(p ≤ 0.05) versus placebo. | 70.5% | 47.5% |
 
-H. pylori Eradication to Reduce the Risk of Duodenal Ulcer Recurrence: Randomized, double-blind clinical studies performed in the U.S. in patients with H. pylori and duodenal ulcer disease (defined as an active ulcer or history of an ulcer within one year) evaluated the efficacy of lansoprazole in combination with amoxicillin capsules and clarithromycin tablets as triple 14-day therapy or in combination with amoxicillin capsules as dual 14-day therapy for the eradication of H. pylori.
+H. pylori Eradication to Reduce the Risk of Duodenal Ulcer Recurrence: Randomized, double-blind clinical studies performed in the U.S. in patients with H. pylori and duodenal ulcer disease (defined as an active ulcer or history of an ulcer within one year) evaluated the efficacy of lansoprazole in combination with amoxicillin and clarithromycin as triple 14 day therapy or in combination with amoxicillin as dual 14 day therapy for the eradication of H. pylori.
 Based on the results of these studies, the safety and efficacy of two different eradication regimens were established:
 
 Triple Therapy: Lansoprazole 30 mg twice daily/Amoxicillin 1 gram twice daily/Clarithromycin 500 mg twice daily
@@ -43,7 +43,7 @@ Dual therapy was shown to be more effective than both monotherapies.
 Eradication of H. pylori has been shown to reduce the risk of duodenal ulcer recurrence.
 
 A randomized, double-blind clinical study performed in the U.S. in patients with H. pylori and duodenal ulcer disease (defined as an active ulcer or history of an ulcer within one year) compared the efficacy of lansoprazole triple therapy for 10 and 14 days.
-This study established that the 10-day triple therapy was equivalent to the 14-day triple therapy in eradicating H. pylori (Tables 9 and 10) [see Indications and Usage (1.2)].
+This study established that the 10 day triple therapy was equivalent to the 14 day triple therapy in eradicating H. pylori (Tables 9 and 10) [see Indications and Usage (1.2)].
 
 Table 9.
 H. pylori Eradication Rates - Triple Therapy (Lansoprazole/Amoxicillin/Clarithromycin) Percent of Patients Cured [95% Confidence Interval] (Number of Patients)
@@ -56,7 +56,7 @@ H. pylori Eradication Rates - Triple Therapy (Lansoprazole/Amoxicillin/Clarithro
 | 10 days | 84 [76.0 to 89.8] (N = 123) | 81 [73.9 to 87.6] (N = 135) |  |
 
 Table 10.
-H. pylori Eradication Rates - 14-Day Dual Therapy (Lansoprazole/Amoxicillin) Percent of Patients Cured [95% Confidence Interval] (Number of Patients)
+H. pylori Eradication Rates – 14 Day Dual Therapy (Lansoprazole/Amoxicillin) Percent of Patients Cured [95% Confidence Interval] (Number of Patients)
 
 | Study | Dual Therapy Evaluable AnalysisBased on evaluable patients with confirmed duodenal ulcer (active or within one year) and H. pylori infection at baseline defined as at least two of three positive endoscopic tests from CLOtest, histology and/or culture. Patients were included in the analysis if they completed the study. Additionally, if patients dropped out of the study due to an adverse event related to the study drug, they were included in the analysis as failures of therapy. | Dual Therapy Intent-to-Treat AnalysisPatients were included in the analysis if they had documented H. pylori infection at baseline as defined above and had a confirmed duodenal ulcer (active or within one year). All dropouts were included as failures of therapy. |
 | --- | --- | --- |
@@ -65,20 +65,20 @@ H. pylori Eradication Rates - 14-Day Dual Therapy (Lansoprazole/Amoxicillin) Per
 
 Long-Term Maintenance Treatment of Duodenal Ulcers: Lansoprazole has been shown to prevent the recurrence of duodenal ulcers.
 Two independent, double-blind, multicenter, controlled trials were conducted in patients with endoscopically confirmed healed duodenal ulcers.
-Patients remained healed significantly longer and the number of recurrences of duodenal ulcers was significantly less in patients treated with lansoprazole than in patients treated with placebo over a 12-month period (Table 11) [see Indications and Usage (1.3)].
+Patients remained healed significantly longer and the number of recurrences of duodenal ulcers was significantly less in patients treated with lansoprazole than in patients treated with placebo over a 12 month period (Table 11) [see Indications and Usage (1.3)].
 
 Table 11.
 Endoscopic Remission Rates
 
 | Trial | Drug | No. of Pts. | Percent in Endoscopic Remission |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0 to 3 | 0 to 6 | 0 to 12 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 0 to 3 mo. | 0 to 6 mo. | 0 to 12 mo. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | #1 | Lansoprazole 15 mg daily | 86 | 90%(p ≤ 0.001) versus placebo. | 87% | 84% |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Placebo | 83 | 49% | 41% | 39% |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | #2 | Lansoprazole 30 mg daily | 18 | 94% | 94% | 85% |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Lansoprazole 15 mg daily | 15 | 87% | 79% | 70% |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Placebo | 15 | 33% | 0% | 0% |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| % = Life Table Estimate |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| % = Life Table Estimate. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 In trial #2, no significant difference was noted between lansoprazole 15 mg and 30 mg in maintaining remission.
 
@@ -104,12 +104,12 @@ Race was distributed as follows: 87% Caucasian, 8% Black, 5% Other.
 There was no statistically significant difference between lansoprazole 30 mg daily and the active control on symptom relief (i.e., abdominal pain) (Table 13) [see Indications and Usage (1.5)].
 
 Table 13.
-NSAID-Associated Gastric Ulcer Healing RatesActual observed ulcer(s) healed at time points ± 2 days
+NSAID-Associated Gastric Ulcer Healing RatesActual observed ulcer(s) healed at time points ± 2 days.
 
 | Study #1 |  |  |
 | --- | --- | --- |
-|  | Lansoprazole 30 mg daily | Active ControlDose for healing of gastric ulcer |
-| Week 4 | 60% (53/88)(p ≤ 0.05) versus the active control | 28% (23/83) |
+|  | Lansoprazole 30 mg daily | Active ControlDose for healing of gastric ulcer. |
+| Week 4 | 60% (53/88)(p ≤ 0.05) versus the active control. | 28% (23/83) |
 | Week 8 | 79% (62/79) | 55% (41/74) |
 | Study #2 |  |  |
 |  | Lansoprazole 30 mg daily | Active Control |
@@ -123,7 +123,7 @@ Race was distributed as follows: 90% Caucasian, 6% Black, 4% other.
 The 30 mg dose of lansoprazole demonstrated no additional benefit in risk reduction of the NSAID-associated gastric ulcer than the 15 mg dose (Table 14) [see Indications and Usage (1.6)].
 
 Table 14.
-Proportion of Patients Remaining Free of Gastric Ulcers% = Life Table Estimate
+Proportion of Patients Remaining Free of Gastric Ulcers% = Life Table Estimate.
 
 | Week | Lansoprazole 15 mg daily (N = 121) | Lansoprazole 30 mg daily (N = 116) | Misoprostol 200 mcg four times daily (N = 106) | Placebo (N = 112) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -136,7 +136,7 @@ Gastroesophageal Reflux Disease (GERD):Symptomatic GERD: In a U.S. multicenter, 
 No significant additional benefit from lansoprazole 30 mg once daily was observed.
 
 The intent-to-treat analyses demonstrated significant reduction in frequency and severity of day and night heartburn.
-Data for frequency and severity for the eight-week treatment period are presented in Table 15 and in Figures 1 and 2:
+Data for frequency and severity for the eight week treatment period are presented in Table 15 and in Figures 1 and 2:
 
 Table 15.
 Frequency of Heartburn
@@ -153,7 +153,7 @@ Frequency of Heartburn
 | Week 4 | 25% | 89% | 73% |
 | Week 8 | 36% | 92% | 80% |
 
-In two U.S., multicenter double-blind, ranitidine-controlled studies of 925 total patients with frequent GERD symptoms, but no esophageal erosions by endoscopy, lansoprazole 15 mg was superior to ranitidine 150 mg (twice daily) in decreasing the frequency and severity of day and night heartburn associated with GERD for the eight-week treatment period.
+In two U.S., multicenter, double-blind, ranitidine-controlled studies of 925 total patients with frequent GERD symptoms, but no esophageal erosions by endoscopy, lansoprazole 15 mg was superior to ranitidine 150 mg (twice daily) in decreasing the frequency and severity of day and night heartburn associated with GERD for the eight week treatment period.
 No significant additional benefit from lansoprazole 30 mg once daily was observed [see Indications and Usage (1.7)].
 
 Erosive Esophagitis: In a U.S. multicenter, double-blind, placebo-controlled study of 269 patients entering with an endoscopic diagnosis of esophagitis with mucosal grading of two or more and grades three and four signifying erosive disease, the percentages of patients with healing are presented in Table 16:
@@ -204,7 +204,7 @@ Reflux Esophagitis Healing Rates in Patients Poorly Responsive to Histamine H2-R
 | 8 | 83.7% | 32.0% |
 
 Long-Term Maintenance Treatment of Erosive Esophagitis: Two independent, double-blind, multicenter, controlled trials were conducted in patients with endoscopically confirmed healed esophagitis.
-Patients remained in remission significantly longer and the number of recurrences of erosive esophagitis was significantly less in patients treated with lansoprazole than in patients treated with placebo over a 12-month period (Table 19).
+Patients remained in remission significantly longer and the number of recurrences of erosive esophagitis was significantly less in patients treated with lansoprazole than in patients treated with placebo over a 12 month period (Table 19).
 
 Table 19.
 Endoscopic Remission Rates
@@ -218,11 +218,11 @@ Endoscopic Remission Rates
 | #2 | Lansoprazole 15 mg daily | 50 | 74% | 72% | 67% |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Lansoprazole 30 mg daily | 49 | 75% | 72% | 55% |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Placebo | 47 | 16% | 13% | 13% |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| % = Life Table Estimate |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| % = Life Table Estimate. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Regardless of initial grade of erosive esophagitis, lansoprazole 15 mg and 30 mg were similar in maintaining remission.
 
-In a U.S., randomized, double-blind, study, lansoprazole 15 mg daily (n = 100) was compared with ranitidine 150 mg twice daily (n = 106), at the recommended dosage, in patients with endoscopically-proven healed erosive esophagitis over a 12-month period.
+In a U.S., randomized, double-blind, study, lansoprazole 15 mg daily (n = 100) was compared with ranitidine 150 mg twice daily (n = 106), at the recommended dosage, in patients with endoscopically-proven healed erosive esophagitis over a 12 month period.
 Treatment with lansoprazole resulted in patients remaining healed (Grade 0 lesions) of erosive esophagitis for significantly longer periods of time than those treated with ranitidine (p < 0.001).
 In addition, lansoprazole was significantly more effective than ranitidine in providing complete relief of both daytime and nighttime heartburn.
 Patients treated with lansoprazole remained asymptomatic for a significantly longer period of time than patients treated with ranitidine [see Indications and Usage (1.8)].

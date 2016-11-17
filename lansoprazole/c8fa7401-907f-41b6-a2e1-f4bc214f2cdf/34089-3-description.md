@@ -13,7 +13,7 @@ The degradation half-life of the drug substance in aqueous solution at 25°C is 
 
 Lansoprazole is supplied in delayed-release capsules for oral administration.
 
-The delayed-release capsules are available in two dosage strengths: 15 mg and 30 mg of lansoprazole per capsule.
+Lansoprazole delayed-release capsules are available in two dosage strengths: 15 mg and 30 mg of lansoprazole per capsule.
 Each delayed-release capsule contains enteric-coated pellets consisting of 15 mg or 30 mg of lansoprazole (active ingredient) and the following inactive ingredients: colloidal silicon dioxide, corn starch, gelatin, hydroxypropyl cellulose, low substituted hydroxypropyl cellulose, magnesium carbonate, methacrylic acid copolymer, polyethylene glycol, polysorbate 80, sucrose, sugar spheres, talc and titanium dioxide.
 The 15 mg capsules also contain FD&C Green No. 3 and FD&C Red No. 40.
 The 30 mg capsules also contain FD&C Blue No. 1 and FD&C Red No 3.

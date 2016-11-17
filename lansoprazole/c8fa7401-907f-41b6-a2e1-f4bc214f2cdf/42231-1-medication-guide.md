@@ -13,14 +13,21 @@ Talk with your doctor.
 
 Lansoprazole delayed-release capsules can cause serious side effects, including:
 
+- •A type of kidney problem (acute interstitial nephritis).
+  Some people who take proton pump inhibitor (PPI) medicines, including lansoprazole delayed-release capsules, may develop a kidney problem called acute interstitial nephritis, that can happen at any time during treatment with PPI medicines.
+  Call your doctor right away if you have a decrease in the amount that you urinate or if you have blood in your urine.
 - •Diarrhea.
   Lansoprazole delayed-release capsules may increase your risk of getting severe diarrhea.
   This diarrhea may be caused by an infection (Clostridium difficile) in your intestines.
 - Call your doctor right away if you have watery stool, stomach pain, and fever that does not go away.
 - •Bone fractures.
-  People who take multiple daily doses of proton pump inhibitor medicines for a long period of time (a year or longer) may have an increased risk of fractures of the hip, wrist or spine.
+  People who take multiple daily doses of PPI medicines for a long period of time (a year or longer) may have an increased risk of fractures of the hip, wrist or spine.
   You should take lansoprazole delayed-release capsules exactly as prescribed, at the lowest dose possible for your treatment and for the shortest time needed.
   Talk to your doctor about your risk of bone fracture if you take lansoprazole delayed-release capsules.
+- •Certain types of lupus erythematosus.
+  Lupus erythematosus is an autoimmune disorder (the body’s immune cells attack other cells or organs in the body).
+  Some people who take PPI medicines, including lansoprazole delayed-release capsules, may develop certain types of lupus erythematosus or have worsening of the lupus they already have.
+  Call your doctor right away if you have new or worsening joint pain or a rash on your cheeks or arms that gets worse in the sun.
 
 Lansoprazole delayed-release capsules can have other serious side effects.
 See “What are the possible side effects of lansoprazole delayed-release capsules?”
@@ -122,13 +129,13 @@ What are the possible side effects of lansoprazole delayed-release capsules?
 Lansoprazole delayed-release capsules can cause serious side effects, including:
 
 - •See “What is the most important information that I should know about lansoprazole delayed-release capsules?”
-- •Vitamin B12 deficiency.
+- •Vitamin B-12 deficiency.
   Lansoprazole delayed-release capsules reduce the amount of acid in your stomach.
-  Stomach acid is needed to absorb Vitamin B12 properly.
-  Talk with your doctor about the possibility of Vitamin B12 deficiency if you have been on lansoprazole delayed-release capsules for a long time (more than 3 years).
+  Stomach acid is needed to absorb Vitamin B-12 properly.
+  Talk with your doctor about the possibility of Vitamin B-12 deficiency if you have been on lansoprazole delayed-release capsules for a long time (more than 3 years).
 - •Low magnesium levels in your body.
   This problem can be serious.
-  Low magnesium can happen in some people who take a proton pump inhibitor medicine for at least 3 months.
+  Low magnesium can happen in some people who take a PPI medicine for at least 3 months.
   If low magnesium levels happen, it is usually after a year of treatment.
   You may or may not have symptoms of low magnesium.
 - Tell your doctor right away if you develop any of these symptoms:
@@ -207,12 +214,12 @@ Lansoprazole Delayed-Release Capsules:
 - •Swallow lansoprazole delayed-release capsules whole.
   Do not crush or chew them.
 - •You should take lansoprazole delayed-release capsules before eating.
-- •Lansoprazole Delayed-Release Capsule with Certain Foods:
+- •Lansoprazole delayed-release capsule with certain foods:
 - You can only use applesauce, ENSURE pudding, cottage cheese, yogurt or strained pears.
   1. 1.Open the capsule.
   2. 2.Sprinkle the pellets on 1 tablespoon of either applesauce, ENSURE pudding, cottage cheese, yogurt or strained pears.
   3. 3.Swallow right away.
-- •Lansoprazole Delayed-Release Capsule with Certain Juices:
+- •Lansoprazole delayed-release capsule with certain juices:
 - You can only use apple juice, orange juice or tomato juice.
   1. 1.Open the capsule.
   2. 2.Sprinkle the pellets into 60 mL (about ¼ cup) of either apple juice, orange juice or tomato juice.
@@ -220,7 +227,7 @@ Lansoprazole Delayed-Release Capsules:
   4. 4.Swallow right away.
   5. 5.To make sure that the entire dose is taken, rinse the glass with ½ cup or more of juice to get out any leftover pellets.
      Swallow the juice right away.
-- •Lansoprazole Delayed-Release Capsule Through a Nasogastric Tube (NG Tube) 16 French or Larger, as Prescribed by Your Doctor:
+- •Lansoprazole delayed-release capsule through a nasogastric tube (NG tube) 16 French or larger, as prescribed by your doctor:
 - You can only use apple juice.
   1. 1.Open the capsule and empty the pellets into a syringe.
   2. 2.Do not break or crush the pellets.
@@ -245,6 +252,6 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Laboratories Limited Hyderabad — 500 034, India Code No.: MH/DRUGS/25/NKD/89
 
-75058895
+75059874
 
-Revised: 4/2016 MX:LANS:R9mmh
+Revised: 10/2016 MX:LANS:R10mmh
