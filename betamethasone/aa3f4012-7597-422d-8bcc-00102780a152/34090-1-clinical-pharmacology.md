@@ -7,22 +7,20 @@ Topical corticosteroids, such as betamethasone dipropionate, are effective in th
 However, while the physiologic, pharmacologic, and clinical effects of the corticosteroids are well known, the exact mechanisms of their actions in each disease are uncertain.
 Betamethasone dipropionate, a corticosteroid, has been shown to have topical (dermatologic) and systemic pharmacologic and metabolic effects characteristic of this class of drugs.
 
-Pharmacokinetics: The extent of percutaneous absorption of topical corticosteroids is determined by many factors including the vehicle, the integrity of the epidermal barrier, and the use of occlusive dressings.
-(See DOSAGE AND ADMINISTRATION.)
+Pharmacokinetics: The extent of percutaneous absorption of topical corticosteroids is determined by many factors including the vehicle, the integrity of the epidermal barrier, and the use of occlusive dressings (see DOSAGE AND ADMINISTRATION).
 
 Topical corticosteroids can be absorbed from normal intact skin.
 Inflammation and/or other disease processes in the skin increase percutaneous absorption.
-Occlusive dressings substantially increase the percutaneous absorption of topical corticosteroids.
-(See DOSAGE AND ADMINISTRATION.)
+Occlusive dressings substantially increase the percutaneous absorption of topical corticosteroids (see DOSAGE AND ADMINISTRATION).
 
 Once absorbed through the skin, topical corticosteroids are handled through pharmacokinetic pathways similar to systemically administered corticosteroids.
 Corticosteroids are bound to plasma proteins in varying degrees.
 Corticosteroids are metabolized primarily in the liver and are then excreted by the kidneys.
 Some of the topical corticosteroids and their metabolites are also excreted into the bile.
 
-Eighty pediatric patients ages 6 months to 12 years, with atopic dermatitis, were enrolled in an open-label, hypothalamic-pituitary-adrenal (HPA) axis safety study.
-Betamethasone Dipropionate Ointment was applied twice daily for 2 to 3 weeks over a mean body surface area of 58% (range 35% to 99%).
-In 15 of 53 (28%) evaluable patients, adrenal suppression was indicated by either a pre-stimulated cortisol concentration < 5 mcg/dL pre-stimulation cortisol, or a cosyntropin post-stimulation cortisol < 18 mcg/dL and an increase of < 7 mcg/dL from the baseline cortisol.
+Eighty pediatric patients ages 6 months to 12 years, with atopic dermatitis, were enrolled in an open-label hypothalamic-pituitary-adrenal (HPA) axis safety study.
+Betamethasone dipropionate ointment was applied twice daily for 2 to 3 weeks over a mean body surface area of 58% (range 35% to 99%).
+In 15 of 53 (28%) evaluable patients, adrenal suppression was indicated by either a pre-stimulated cortisol concentration less than or equal to 5 mcg/dL pre-stimulation cortisol, or a cosyntropin post-stimulation cortisol less than or equal to 18 mcg/dL and an increase of less than 7 mcg/dL from the baseline cortisol.
 Follow-up testing 2 weeks after study completion available for 2 of the 15 patients demonstrated a normally responsive HPA axis.
 
-Studies performed with Betamethasone Dipropionate Ointment indicate that it is in the high range of potency as compared with other topical corticosteroids.
+Studies performed with betamethasone dipropionate ointment indicate that it is in the high range of potency as compared with other topical corticosteroids.
