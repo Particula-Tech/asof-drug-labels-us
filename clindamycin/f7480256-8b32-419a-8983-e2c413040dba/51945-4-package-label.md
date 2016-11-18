@@ -48,9 +48,7 @@ GREENSTONE® BRAND
 
 clindamycin phosphate topical solution, USP
 
-1%*
-
-Pledget for topical use only
+1%* Pledget for topical use only
 
 Rx only
 
