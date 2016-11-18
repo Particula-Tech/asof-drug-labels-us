@@ -10,18 +10,7 @@ REPLACE-2 Trial
 
 This was a randomized, double-blind, multicenter study reporting 6,002 (intent-to-treat) patients undergoing PCI.
 Patients were randomized to treatment with bivalirudin with the “provisional” use of platelet glycoprotein IIb/IIIa inhibitor (GPI) or heparin plus planned use of GPI.
-GPIs were added on a “provisional” basis to patients who were randomized to bivalirudin in the following circumstances:
-
-- decreased TIMI flow (0 to 2) or slow reflow;
-- dissection with decreased flow;
-- new or suspected thrombus;
-- persistent residual stenosis;
-- distal embolization;
-- unplanned stent;
-- suboptimal stenting;
-- side branch closure;
-- abrupt closure; clinical instability; and
-- prolonged ischemia.
+GPIs were added on a “provisional” basis to patients who were randomized to bivalirudin in the following circumstances: • decreased TIMI flow (0 to 2) or slow reflow; • dissection with decreased flow; • new or suspected thrombus; • persistent residual stenosis; • distal embolization; • unplanned stent; • suboptimal stenting; • side branch closure; • abrupt closure; clinical instability; and • prolonged ischemia.
 
 During the study, one or more of these circumstances occurred in 10.9% of patients in the bivalirudin with provisional GPI arm.
 GPIs were administered to 7.2% of patients in the bivalirudin with provisional GPI arm (66.8% of eligible patients).

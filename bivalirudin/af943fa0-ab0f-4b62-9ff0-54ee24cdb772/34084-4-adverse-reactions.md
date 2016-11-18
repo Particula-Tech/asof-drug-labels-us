@@ -3,10 +3,7 @@
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
-
-Bleeding
-
-In 6,010 patients undergoing PCI treated in the REPLACE-2 trial, bivalirudin patients exhibited statistically significantly lower rates of bleeding, transfusions, and thrombocytopenia as noted in Table 2.
+Bleeding In 6,010 patients undergoing PCI treated in the REPLACE-2 trial, bivalirudin patients exhibited statistically significantly lower rates of bleeding, transfusions, and thrombocytopenia as noted in Table 2.
 
 Table 2: Major Hematologic Outcomes REPLACE-2 (Safety Population)
 
@@ -62,9 +59,7 @@ This table includes data from the entire hospitalization period.
 In the AT-BAT study, of the 51 patients with HIT/HITTS, 1 patient who did not undergo PCI had major bleeding during CABG on the day following angiography.
 Nine patients had minor bleeding (mostly due to access site bleeding), and 2 patients developed thrombocytopenia.
 
-Other Adverse Reactions
-
-Adverse reactions, other than bleeding, observed in clinical trials were similar between the bivalirudin treated patients and the control groups.
+Other Adverse Reactions Adverse reactions, other than bleeding, observed in clinical trials were similar between the bivalirudin treated patients and the control groups.
 
 Adverse reactions (related adverse events) seen in clinical studies in patients undergoing PCI and PTCA are shown in Tables 4 and 5.
 
