@@ -118,9 +118,7 @@ Cleocin Phosphate® clindamycin injection, USP 600 mg/4 mL* (150 mg/mL)
 
 For intravenous use only
 
-Pfizer Injectables
-
-Rx only
+Pfizer Injectables Rx only
 
 # PRINCIPAL DISPLAY PANEL - 900 mg/6 mL Vial Label
 
@@ -140,7 +138,7 @@ Rx only
 
 # PRINCIPAL DISPLAY PANEL - 900 mg/6 mL Vial Carton
 
-25—6 mL Single Dose ADD-Vantage™ Vials
+25—6 mL Single Dose ADD-Vantage® Vials
 
 NDC 0009-3447-03 Contains 25 of NDC 0009-3447-01
 
@@ -182,7 +180,7 @@ PL 2501 Plastic 11152901 07-34-72-423
 
 # PRINCIPAL DISPLAY PANEL - 300 mg/ 50 mL Container Carton
 
-12 x 50 mL Single Dose Containers Contains 12 of NDC 0009-3381-01
+2 x 12 x 50 mL Single Dose Containers Contains 2 boxes of 12 of NDC 0009-3381-01
 
 Cleocin Phosphate® IV Solution clindamycin injection
 
@@ -190,7 +188,7 @@ Pfizer Injectables
 
 300 mg/ 50 mL* in 5% Dextrose Rx only
 
-NDC 0009-3381-02 Code 2G3414
+NDC 0009-3381-02 Contains 24 of NDC 0009-3381-01 Code 2G3414
 
 # PRINCIPAL DISPLAY PANEL - 600 mg/ 50 mL Container Label
 
@@ -224,7 +222,7 @@ PL 2501 Plastic 11153201 07-34-72-424
 
 # PRINCIPAL DISPLAY PANEL - 600 mg/ 50 mL Container Carton
 
-12 x 50 mL Single Dose Containers Contains 12 of NDC 0009-3375-01
+2 x 12 x 50 mL Single Dose Containers Contains 2 boxes of 12 of NDC 0009-3375-01
 
 Cleocin Phosphate® IV Solution clindamycin injection
 
@@ -232,7 +230,7 @@ Pfizer Injectables
 
 600 mg/ 50 mL* in 5% Dextrose Rx only
 
-NDC 0009-3375-02 Code 2G3415
+NDC 0009-3375-02 Contains 24 of NDC 0009-3375-01 Code 2G3415
 
 # PRINCIPAL DISPLAY PANEL - 900 mg/ 50 mL Container Label
 
@@ -266,7 +264,7 @@ PL 2501 Plastic 11153501 07-34-72-425
 
 # PRINCIPAL DISPLAY PANEL - 900 mg/ 50 mL Container Carton
 
-12 x 50 mL Single Dose Containers Contains 12 of NDC 0009-3382-01
+2 x 12 x 50 mL Single Dose Containers Contains 2 boxes of 12 of NDC 0009-3382-01
 
 Cleocin Phosphate® IV Solution clindamycin injection
 
@@ -274,7 +272,7 @@ Pfizer Injectables
 
 900 mg/ 50 mL* in 5% Dextrose Rx only
 
-NDC 0009-3382-02 Code 2G3416
+NDC 0009-3382-02 Contains 24 of NDC 0009-3382-01 Code 2G3416
 
 # PRINCIPAL DISPLAY PANEL - 300 mg/2 mL ADD-vantage Vial Label
 
@@ -302,6 +300,4 @@ Cleocin Phosphate® clindamycin injection, USP 300 mg/2 mL* (150 mg/mL)
 
 For intravenous use only
 
-Pfizer Injectables
-
-Rx only
+Pfizer Injectables Rx only
