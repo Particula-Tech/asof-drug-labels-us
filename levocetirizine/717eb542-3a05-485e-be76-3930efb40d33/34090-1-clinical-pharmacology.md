@@ -2,9 +2,9 @@
 
 ## 12.1 Mechanism of Action
 
-Levocetirizine, the active enantiomer of cetirizine, is an antihistamine; its principal effects are mediated via selective inhibition of H1 receptors.
+Levocetirizine, the active enantiomer of cetirizine, is an antihistamine; its principal effects are mediated via selective inhibition of H 1 receptors.
 The antihistaminic activity of levocetirizine has been documented in a variety of animal and human models.
-In vitro binding studies revealed that levocetirizine has an affinity for the human H1-receptor 2-fold higher than that of cetirizine (Ki = 3 nmol/L vs. 6 nmol/L, respectively).
+In vitro binding studies revealed that levocetirizine has an affinity for the human H 1-receptor 2-fold higher than that of cetirizine (Ki = 3 nmol/L vs. 6 nmol/L, respectively).
 The clinical relevance of this finding is unknown.
 
 ## 12.2 Pharmacodynamics
@@ -27,7 +27,7 @@ Levocetirizine is rapidly and extensively absorbed following oral administration
 In adults, peak plasma concentrations are achieved 0.9 hour after administration of the oral tablet.
 The accumulation ratio following daily oral administration is 1.12 with steady state achieved after 2 days.
 Peak concentrations are typically 270 ng/mL and 308 ng/mL following a single and a repeated 5 mg once daily dose, respectively.
-Food had no effect on the extent of exposure (AUC) of the levocetirizine tablet, but Tmax was delayed by about 1.25 hours and Cmax was decreased by about 36% after administration with a high fat meal; therefore, levocetirizine can be administered with or without food.
+Food had no effect on the extent of exposure (AUC) of the levocetirizine tablet, but T max was delayed by about 1.25 hours and C max was decreased by about 36% after administration with a high fat meal; therefore, levocetirizine can be administered with or without food.
 
 A dose of 5 mg (10 mL) of Levocetirizine Dihydrochloride oral solution is bioequivalent to a 5 mg dose of Levocetirizine Dihydrochloride tablets.
 Following oral administration of a 5 mg dose of Levocetirizine Dihydrochloride oral solution to healthy adult subjects, the mean peak plasma concentrations were achieved approximately 0.5 hour post-dose.
@@ -54,15 +54,15 @@ In patients with renal impairment the clearance of levocetirizine is reduced [se
 Drug Interaction Studies
 
 In vitro data on metabolite interaction indicate that levocetirizine is unlikely to produce, or be subject to metabolic interactions.
-Levocetirizine at concentrations well above Cmax level achieved within the therapeutic dose ranges is not an inhibitor of CYP isoenzymes 1A2, 2C9, 2C19, 2A1, 2D6, 2E1, and 3A4, and is not an inducer of UGT1A or CYP isoenzymes 1A2, 2C9 and 3A4.
+Levocetirizine at concentrations well above C max level achieved within the therapeutic dose ranges is not an inhibitor of CYP isoenzymes 1A2, 2C9, 2C19, 2A1, 2D6, 2E1, and 3A4, and is not an inducer of UGT1A or CYP isoenzymes 1A2, 2C9 and 3A4.
 
 No formal in vivo drug interaction studies have been performed with levocetirizine.
 Studies have been performed with the racemic cetirizine [see Drug Interactions (7)].
 
 Pediatric Patients
 
-Data from a pediatric pharmacokinetic study with oral administration of a single dose of 5 mg levocetirizine in 14 children age 6 to 11 years with body weight ranging between 20 and 40 kg show that Cmax and AUC values are about 2-fold greater than that reported in healthy adult subjects in a cross-study comparison.
-The mean Cmax was 450 ng/mL, occurring at a mean time of 1.2 hours, weight-normalized, total body clearance was 30% greater, and the elimination half-life 24% shorter in this pediatric population than in adults.
+Data from a pediatric pharmacokinetic study with oral administration of a single dose of 5 mg levocetirizine in 14 children age 6 to 11 years with body weight ranging between 20 and 40 kg show that C max and AUC values are about 2-fold greater than that reported in healthy adult subjects in a cross-study comparison.
+The mean C max was 450 ng/mL, occurring at a mean time of 1.2 hours, weight-normalized, total body clearance was 30% greater, and the elimination half-life 24% shorter in this pediatric population than in adults.
 
 Dedicated pharmacokinetic studies have not been conducted in pediatric patients younger than 6 years of age.
 A retrospective population pharmacokinetic analysis was conducted in 323 subjects (181 children 1 to 5 years of age, 18 children 6 to 11 years of age, and 124 adults 18 to 55 years of age) who received single or multiple doses of levocetirizine ranging from 1.25 mg to 30 mg.
@@ -95,7 +95,7 @@ The corresponding increases of half-life estimates were 1.4-, 2-, 2.9-, and 4-fo
 
 The total body clearance of levocetirizine after oral dosing was correlated to the creatinine clearance and was progressively reduced based on severity of renal impairment.
 Therefore, it is recommended to adjust the dose and dosing intervals of levocetirizine based on creatinine clearance in patients with mild, moderate, or severe renal impairment.
-In end-stage renal disease patients (CLCR < 10 mL/min) levocetirizine is contraindicated.
+In end-stage renal disease patients (CL CR < 10 mL/min) levocetirizine is contraindicated.
 The amount of levocetirizine removed during a standard 4-hour hemodialysis procedure was <10%.
 
 The dosage of Levocetirizine Dihydrochloride should be reduced in patients with mild renal impairment.

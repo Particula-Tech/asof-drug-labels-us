@@ -4,12 +4,12 @@
 
 Pregnancy Category B There are no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, Levocetirizine Dihydrochloride should be used during pregnancy only if clearly needed.
-Teratogenic Effects In rats and rabbits, levocetirizine was not teratogenic at oral doses approximately 320 and 390, respectively, times the maximum recommended daily oral dose in adults on a mg/m2 basis.
+Teratogenic Effects In rats and rabbits, levocetirizine was not teratogenic at oral doses approximately 320 and 390, respectively, times the maximum recommended daily oral dose in adults on a mg/m 2 basis.
 
 ## 8.3 Nursing Mothers
 
 No peri- and post-natal animal studies have been conducted with levocetirizine.
-In mice, cetirizine caused retarded pup weight gain during lactation at an oral dose in dams that was approximately 40 times the maximum recommended daily oral dose in adults on a mg/m2 basis.
+In mice, cetirizine caused retarded pup weight gain during lactation at an oral dose in dams that was approximately 40 times the maximum recommended daily oral dose in adults on a mg/m 2 basis.
 Studies in beagle dogs indicated that approximately 3% of the dose of cetirizine was excreted in milk.
 Cetirizine has been reported to be excreted in human breast milk.
 Because levocetirizine is also expected to be excreted in human milk, use of Levocetirizine Dihydrochloride in nursing mothers is not recommended.
