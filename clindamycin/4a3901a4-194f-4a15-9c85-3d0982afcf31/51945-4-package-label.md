@@ -50,13 +50,9 @@ Rx only
 
 # PRINCIPAL DISPLAY PANEL - 60 Pledget Packet Carton
 
-Pfizer
-
 NDC 0009-3116-14
 
-Cleocin T® clindamycin phosphate topical solution, USP
-
-1%*
+Pfizer Cleocin T® 1%* clindamycin phosphate topical solution, USP
 
 Pledget for topical use only
 
@@ -160,12 +156,8 @@ Pfizer Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017
 
 NDC 0009-3331-02
 
-30 gram Rx only
-
-Cleocin T® clindamycin phosphate topical gel
+Pfizer Cleocin T® 1%* clindamycin phosphate topical gel
 
 For topical use only
 
-1%*
-
-Pfizer Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017
+30 gram Rx only

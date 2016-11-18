@@ -54,5 +54,5 @@ Safety and effectiveness in pediatric patients under the age of 12 have not been
 
 ## Geriatric Use
 
-Clinical studies for Cleocin T did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical studies for CLEOCIN T did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.

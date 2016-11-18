@@ -19,4 +19,4 @@ Orally and parenterally administered clindamycin has been associated with severe
 
 Cases of diarrhea, bloody diarrhea and colitis (including pseudomembranous colitis) have been reported as adverse reactions in patients treated with oral and parenteral formulations of clindamycin and rarely with topical clindamycin (see WARNINGS).
 
-Abdominal pain and gastrointestinal disturbances as well as gram-negative folliculitis have also been reported in association with the use of topical formulations of clindamycin.
+Abdominal pain gastrointestinal disturbances gram-negative folliculitis eye pain and contact dermatitis have also been reported in association with the use of topical formulations of clindamycin.
