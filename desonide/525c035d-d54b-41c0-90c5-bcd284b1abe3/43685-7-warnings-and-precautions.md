@@ -46,9 +46,9 @@ Patients using topical corticosteroids should receive the following information 
 
 The following tests may be helpful in evaluating patients for HPA axis suppression:
 
-- ACTH stimulation test
-- A.M. plasma cortisol test
-- Urinary free cortisol test
+1. ACTH stimulation test
+2. A.M. plasma cortisol test
+3. Urinary free cortisol test
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility -
 
