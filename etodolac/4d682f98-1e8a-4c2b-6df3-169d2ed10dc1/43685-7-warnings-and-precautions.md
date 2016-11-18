@@ -35,7 +35,7 @@ Heart Failure and Edema The Coxib and traditional NSAID Trialists’ Collaborati
 In a Danish National Registry study of patients with heart failure, NSAID use increased the risk of MI, hospitalization for heart failure, and death.
 
 Additionally, fluid retention and edema have been observed in some patients treated with NSAIDs.
-Use of [active moiety] may blunt the CV effects of several therapeutic agents used to treat these medical conditions [e.g., diuretics, ACE inhibitors, or angiotensin receptor blockers (ARBs)] (see Drug Interactions).
+Use of etodolac may blunt the CV effects of several therapeutic agents used to treat these medical conditions [e.g., diuretics, ACE inhibitors, or angiotensin receptor blockers (ARBs)] (see Drug Interactions).
 
 Avoid the use of etodolac in patients with severe heart failure unless the benefits are expected to outweigh the risk of worsening heart failure.
 If etodolac is used in patients with severe heart failure, monitor patients for signs of worsening heart failure.
@@ -197,7 +197,7 @@ Generally, this phenomenon has not been associated with other clinically signifi
 No dose relationship has been observed.
 
 Etodolac treatment is associated with a small decrease in serum uric acid levels.
-In clinical trials, mean decreases of 1 to 2 mg/dL were observed in arthritic patients receiving etodolac (600 mg to 1000 mg/day) after 4 weeks of therapy.
+In clinical trials, mean decreases of 1 to 2 mg/dL were observed in arthritic patients receiving etodolac (600 mg to 1,000 mg/day) after 4 weeks of therapy.
 These levels then remained stable for up to 1 year of therapy.
 
 ## Carcinogenesis, Mutagenesis, and Impairment of Fertility

@@ -13,7 +13,7 @@ Duration of relief averaged 4 to 5 hours for 200 mg of etodolac and 5 to 6 hours
 ## Osteoarthritis
 
 The use of etodolac in managing the signs and symptoms of osteoarthritis of the hip or knee was assessed in double-blind, randomized, controlled clinical trials in 341 patients.
-In patients with osteoarthritis of the knee, etodolac, in doses of 600 to 1000 mg/day, was better than placebo in two studies.
+In patients with osteoarthritis of the knee, etodolac, in doses of 600 to 1,000 mg/day, was better than placebo in two studies.
 The clinical trials in osteoarthritis used b.i.d. dosage regimens.
 
 ## Rheumatoid Arthritis

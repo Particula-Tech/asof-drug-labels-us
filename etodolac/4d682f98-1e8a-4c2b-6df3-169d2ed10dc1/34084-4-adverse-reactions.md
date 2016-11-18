@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-In patients taking etodolac or other NSAIDs, the most frequently reported adverse experiences occurring in approximately 1-10% of patients are:
+In patients taking etodolac or other NSAIDs, the most frequently reported adverse experiences occurring in approximately 1 to 10% of patients are:
 
 Gastrointestinal experiences including: abdominal pain, constipation, diarrhea, dyspepsia, flatulence, gross bleeding/perforation, heartburn, nausea, GI ulcers (gastric/duodenal), vomiting.
 
@@ -12,7 +12,7 @@ The discontinuation rate in controlled clinical trials, because of adverse event
 
 New patient complaints (with an incidence greater than or equal to 1%) are listed below by body system.
 The incidences were determined from clinical trials involving 465 patients with osteoarthritis treated with 300 to 500 mg of etodolac b.i.d.
-(i.e., 600 to 1000 mg/day).
+(i.e., 600 to 1,000 mg/day).
 
 ## Incidence Greater Than Or Equal To 1% - Probably Causally Related
 

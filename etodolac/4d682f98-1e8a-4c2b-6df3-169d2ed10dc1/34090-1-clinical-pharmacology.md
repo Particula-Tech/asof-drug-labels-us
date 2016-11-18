@@ -17,7 +17,7 @@ The systemic bioavailability of etodolac is 100% as compared to solution and at 
 Etodolac is well absorbed and had a relative bioavailability of 100% when 200 mg capsules were compared with a solution of etodolac.
 Based on mass balance studies, the systemic availability of etodolac from either the tablet or capsule formulation is at least 80%.
 Etodolac does not undergo significant first-pass metabolism following oral administration.
-Mean (± 1 SD) peak plasma concentrations (Cmax) range from approximately 14 ± 4 to 37 ± 9 μg/mL after 200 to 600 mg single doses and are reached in 80 ± 30 minutes (see Table 1 for summary of pharmacokinetic parameters).
+Mean (± 1 SD) peak plasma concentrations (Cmax) range from approximately 14 ± 4 to 37 ± 9 mcg/mL after 200 to 600 mg single doses and are reached in 80 ± 30 minutes (see Table 1 for summary of pharmacokinetic parameters).
 The dose-proportionality based on the area under the plasma concentration-time curve (AUC) is linear following doses up to 600 mg every 12 hours.
 Peak concentrations are dose proportional for both total and free etodolac following doses up to 400 mg every 12 hours, but following a 600 mg dose, the peak is about 20% higher than predicted on the basis of lower doses.
 The extent of absorption of etodolac is not affected when etodolac is administered after a meal.
