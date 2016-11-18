@@ -5,4 +5,4 @@ Store unreconstituted product at 20° to 25°C (68° to 77°F) [see USP Controll
 Store solution at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 Use solution within 48 hours after mixing.
 The vial stoppers are not made with natural rubber latex.
-Manufactured for: AuroMedics Pharma LLC 6 Wheeling Road Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited IDA, Pashamylaram - 502307 India Revised: October 2015
+Manufactured for: AuroMedics Pharma LLC 6 Wheeling Road Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited IDA, Pashamylaram - 502307 India Revised: October 2016

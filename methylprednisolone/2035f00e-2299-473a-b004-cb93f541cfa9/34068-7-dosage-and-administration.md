@@ -6,7 +6,7 @@ Use within 48 hours after mixing.
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 This preparation may be administered by intravenous injection, by intravenous infusion, or by intramuscular injection, the preferred method for initial emergency use being intravenous injection.
 Following the initial emergency period, consideration should be given to employing a longer acting injectable preparation or an oral preparation.
-There are reports of cardiac arrhythmias and/or cardiac arrest following the rapid administration of large I.V. doses of methylprednisolone sodium succinate for injection (greater than 0.5 gram administered over a period of less than 10 minutes).
+There are reports of cardiac arrhythmias and/or cardiac arrest following the rapid administration of large intravenous doses of methylprednisolone sodium succinate for injection (greater than 0.5 gram administered over a period of less than 10 minutes).
 Bradycardia has been reported during or after the administration of large doses of methylprednisolone sodium succinate, and may be unrelated to the speed or duration of infusion.
 When high dose therapy is desired, the recommended dose of methylprednisolone sodium succinate for injection is 30 mg/kg administered intravenously over at least 30 minutes.
 This dose may be repeated every 4 to 6 hours for 48 hours.

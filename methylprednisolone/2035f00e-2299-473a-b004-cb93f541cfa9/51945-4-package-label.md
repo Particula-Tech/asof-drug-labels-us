@@ -28,9 +28,9 @@ Rx only NDC 55150-264-20 MethylPREDNISolone Sodium Succinate for Injection, USP 
 
 # PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 500 mg per vial - Container-Carton (1 Vial)
 
-Rx only NDC 55150-264-20 MethylPREDNISolone Sodium Succinate for Injection, USP 500 mg* per vial For Intramuscular or Intravenous Use Only Lyophilized This Package Does Not Contain Diluent.
+Rx only NDC 55150-264-20 MethylPREDNISolone Sodium Succinate for Injection, USP 500 mg* per vial For Intramuscular or Intravenous Use Only This Package Does Not Contain Diluent.
 The Recommended Diluent (Bacteriostatic Water for Injection) Contains Benzyl Alcohol as a Preservative.
-Sterile Non-pyrogenic Multiple Dose Vial AUROMEDICS
+Lyophilized Sterile Non-pyrogenic Multiple Dose Vial AUROMEDICS
 
 # PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 2 grams per vial - Container Label
 
@@ -38,6 +38,6 @@ Rx only NDC 55150-265-50 MethylPREDNISolone Sodium Succinate for Injection, USP 
 
 # PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 2 grams per vial - Container-Carton (1 Vial)
 
-Rx only NDC 55150-265-50 MethylPREDNISolone Sodium Succinate for Injection, USP 2 grams* per vial For Intramuscular or Intravenous Use Only Lyophilized This Package Does Not Contain Diluent.
+Rx only NDC 55150-265-50 MethylPREDNISolone Sodium Succinate for Injection, USP 2 grams* per vial For Intramuscular or Intravenous Use Only This Package Does Not Contain Diluent.
 The Recommended Diluent (Bacteriostatic Water for Injection) Contains Benzyl Alcohol as a Preservative.
-Sterile Non-pyrogenic Single Dose Vial AUROMEDICS
+Lyophilized Sterile Non-pyrogenic Single Dose Vial AUROMEDICS

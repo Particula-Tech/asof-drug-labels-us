@@ -16,7 +16,7 @@ In order to minimize the incidence of dermal and subdermal atrophy, care must be
 Injection into the deltoid muscle should be avoided because of a high incidence of subcutaneous atrophy.
 Rare instances of anaphylactoid reactions have occurred in patients receiving corticosteroid therapy (see ADVERSE REACTIONS).
 Increased dosage of rapidly acting corticosteroids is indicated in patients on corticosteroid therapy who are subjected to any unusual stress before, during, and after the stressful situation.
-Results from one multicenter, randomized, placebo-controlled study with methylprednisolone hemisuccinate, an I.V. corticosteroid, showed an increase in early (at 2 weeks) and late (at 6 months) mortality in patients with cranial trauma who were determined not to have other clear indications for corticosteroid treatment.
+Results from one multicenter, randomized, placebo-controlled study with methylprednisolone hemisuccinate, an intravenous corticosteroid, showed an increase in early (at 2 weeks) and late (at 6 months) mortality in patients with cranial trauma who were determined not to have other clear indications for corticosteroid treatment.
 High doses of systemic corticosteroids, including methylprednisolone sodium succinate, should not be used for the treatment of traumatic brain injury.
 Cardio-renal Average and large doses of corticosteroids can cause elevation of blood pressure, salt and water retention, and increased excretion of potassium.
 These effects are less likely to occur with the synthetic derivatives except when used in large doses.
@@ -28,6 +28,12 @@ Monitor patients for these conditions with chronic use.
 Corticosteroids can produce reversible HPA axis suppression with the potential for glucocorticosteroid insufficiency after withdrawal of treatment.
 Drug induced secondary adrenocortical insufficiency may be minimized by gradual reduction of dosage.
 This type of relative insufficiency may persist for months after discontinuation of therapy; therefore, in any situation of stress occurring during that period, hormone therapy should be reinstituted.
+Drug-Induced Liver Injury Rarely, high doses of cyclically pulsed intravenous methylprednisolone (usually for the treatment of exacerbations of multiple sclerosis at doses of 1 gram/day) can induce a toxic form of acute hepatitis.
+The time to onset of this form of steroid-induced liver injury can be several weeks or longer.
+Resolution has been observed after discontinuation of treatment.
+However, serious liver injury can occur, sometimes resulting in acute liver failure and death.
+Discontinue intravenous methylprednisolone if toxic hepatitis occurs.
+Since recurrence has occurred after re-challenge, avoid use of high dose intravenous methylprednisolone in patients with a history of toxic hepatitis caused by methylprednisolone.
 Infections General Patients who are on corticosteroids are more susceptible to infections than are healthy individuals.
 There may be decreased resistance and inability to localize infection when corticosteroids are used.
 Infections with any pathogen (viral, bacterial, fungal, protozoan, or helminthic) in any location of the body may be associated with the use of corticosteroids alone or in combination with other immunosuppressive agents.
@@ -50,7 +56,7 @@ If corticosteroids are indicated in patients with latent tuberculosis or tubercu
 During prolonged corticosteroid therapy, these patients should receive chemoprophylaxis.
 Vaccination Administration of live or live, attenuated vaccines is contraindicated in patients receiving immunosuppressive doses of corticosteroids.
 Killed or inactivated vaccines may be administered.
-However, the response to such vaccines can not be predicted.
+However, the response to such vaccines cannot be predicted.
 Immunization procedures may be undertaken in patients receiving corticosteroids as replacement therapy, e.g., for Addison’s disease.
 Viral infections Chicken pox and measles can have a more serious or even fatal course in pediatric and adult patients on corticosteroids.
 In pediatric and adult patients who have not had these diseases, particular care should be taken to avoid exposure.
@@ -79,7 +85,6 @@ Discontinuation of corticosteroids may result in clinical improvement.
 Cardio-renal As sodium retention with resultant edema and potassium loss may occur in patients receiving corticosteroids, these agents should be used with caution in patients with congestive heart failure, hypertension, or renal insufficiency.
 Endocrine Drug-induced secondary adrenocortical insufficiency may be minimized by gradual reduction of dosage.
 This type of relative insufficiency may persist for months after discontinuation of therapy; therefore, in any situation of stress occurring during that period, hormone therapy should be reinstituted.
-Since mineralocorticoid secretion may be impaired, salt and/or a mineralocorticoid should be administered concurrently.
 Metabolic clearance of corticosteroids is decreased in hypothyroid patients and increased in hyperthyroid patients.
 Changes in thyroid status of the patient may necessitate adjustment in dosage.
 Gastrointestinal Steroids should be used with caution in active or latent peptic ulcers, diverticulitis, fresh intestinal anastomoses, and nonspecific ulcerative colitis, since they may increase the risk of a perforation.
@@ -139,6 +144,7 @@ Routine administration of vaccines or toxoids should be deferred until corticost
 
 No adequate studies have been conducted in animals to determine whether corticosteroids have a potential for carcinogenesis or mutagenesis.
 Steroids may increase or decrease motility and number of spermatozoa in some patients.
+Corticosteroids have been shown to impair fertility in male rats.
 
 ## Pregnancy: Teratogenic effects: Pregnancy Category C.
 
