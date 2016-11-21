@@ -197,6 +197,6 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Respiratory – Cases of interstitial lung disease (including pneumonitis, bronchiolitis obliterans organizing pneumonia [BOOP], and pulmonary fibrosis), some fatal, with no identified infectious etiology have occurred in patients receiving immunosuppressive regimens including sirolimus.
   In some cases, the interstitial lung disease has resolved upon discontinuation or dose reduction of sirolimus.
   The risk may be increased as the sirolimus trough concentration increases [see Warnings and Precautions (5.11)]; pulmonary hemorrhage; pleural effusion; alveolar proteinosis.
-- Skin – Exfoliative dermatitis [see Warnings and Precautions (5.4)].
+- Skin – Neuroendocrine carcinoma of the skin [see Warnings and Precautions (5.16)], exfoliative dermatitis [see Warnings and Precautions (5.4)].
 - Urogenital – Nephrotic syndrome, proteinuria, focal segmental glomerulosclerosis, ovarian cysts, menstrual disorders (including amenorrhea and menorrhagia).
   Azoospermia has been reported with the use of sirolimus and has been reversible upon discontinuation of sirolimus in most cases.

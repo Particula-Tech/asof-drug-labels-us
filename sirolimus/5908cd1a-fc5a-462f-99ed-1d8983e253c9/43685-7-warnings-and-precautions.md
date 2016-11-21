@@ -34,7 +34,9 @@ Hypersensitivity reactions, including anaphylactic/anaphylactoid reactions, angi
 ## 5.5 Angioedema
 
 Sirolimus has been associated with the development of angioedema.
-The concomitant use of sirolimus with other drugs known to cause angioedema, such as ACE-inhibitors, may increase the risk of developing angioedema.
+The concomitant use of sirolimus with other drugs known to cause angioedema, such as angiotensin-converting enzyme (ACE) inhibitors, may increase the risk of developing angioedema.
+Elevated sirolimus levels (with/without concomitant ACE inhibitors) may also potentiate angioedema [see Drug Interactions (7.2)].
+In some cases, the angioedema has resolved upon discontinuation or dose reduction of sirolimus.
 
 ## 5.6 Fluid Accumulation and Wound Healing
 
