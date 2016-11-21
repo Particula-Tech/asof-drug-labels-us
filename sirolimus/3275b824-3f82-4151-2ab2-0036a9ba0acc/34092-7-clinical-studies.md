@@ -2,12 +2,12 @@
 
 ## 14.1 Prophylaxis of Organ Rejection in Renal Transplant Patients
 
-### Rapamune Oral Solution
+Rapamune Oral Solution
 
 The safety and efficacy of Rapamune Oral Solution for the prevention of organ rejection following renal transplantation were assessed in two randomized, double-blind, multicenter, controlled trials.
 These studies compared two dose levels of Rapamune Oral Solution (2 mg and 5 mg, once daily) with azathioprine (Study 1) or placebo (Study 2) when administered in combination with cyclosporine and corticosteroids.
 Study 1 was conducted in the United States at 38 sites.
-Seven hundred nineteen (719) patients were enrolled in this trial and randomized following transplantation; 284 were randomized to receive Rapamune Oral Solution 2 mg/day; 274 were randomized to receive Rapamune Oral Solution 5 mg/day, and 161 to receive azathioprine 2-3 mg/kg/day.
+Seven hundred nineteen (719) patients were enrolled in this trial and randomized following transplantation; 284 were randomized to receive Rapamune Oral Solution 2 mg/day; 274 were randomized to receive Rapamune Oral Solution 5 mg/day, and 161 to receive azathioprine 2–3 mg/kg/day.
 Study 2 was conducted in Australia, Canada, Europe, and the United States, at a total of 34 sites.
 Five hundred seventy-six (576) patients were enrolled in this trial and randomized before transplantation; 227 were randomized to receive Rapamune Oral Solution 2 mg/day; 219 were randomized to receive Rapamune Oral Solution 5 mg/day, and 130 to receive placebo.
 In both studies, the use of antilymphocyte antibody induction therapy was prohibited.
@@ -17,11 +17,11 @@ Efficacy failure was defined as the first occurrence of an acute rejection episo
 The tables below summarize the results of the primary efficacy analyses from these trials.
 Rapamune Oral Solution, at doses of 2 mg/day and 5 mg/day, significantly reduced the incidence of efficacy failure (statistically significant at the < 0.025 level; nominal significance level adjusted for multiple [2] dose comparisons) at 6 months following transplantation compared with both azathioprine and placebo.
 
-TABLE 8: INCIDENCE (%) OF EFFICACY FAILURE AT 6 AND 24 MONTHS FOR STUDY 1a,b
+TABLE 8: INCIDENCE (%) OF EFFICACY FAILURE AT 6 AND 24 MONTHS FOR STUDY 1Patients received cyclosporine and corticosteroids.,Includes patients who prematurely discontinued treatment.
 
-| Parameter | Rapamune Oral Solution 2 mg/day (n = 284) | Rapamune Oral Solution 5 mg/day (n = 274) | Azathioprine 2-3 mg/kg/day (n = 161) |
+| Parameter | Rapamune Oral Solution 2 mg/day (n = 284) | Rapamune Oral Solution 5 mg/day (n = 274) | Azathioprine 2–3 mg/kg/day (n = 161) |
 | --- | --- | --- | --- |
-| Efficacy failure at 6 monthsc | 18.7 | 16.8 | 32.3 |
+| Efficacy failure at 6 monthsPrimary endpoint. | 18.7 | 16.8 | 32.3 |
 | Components of efficacy failure |  |  |  |
 | Biopsy-proven acute rejection | 16.5 | 11.3 | 29.2 |
 | Graft loss | 1.1 | 2.9 | 2.5 |
@@ -33,13 +33,12 @@ TABLE 8: INCIDENCE (%) OF EFFICACY FAILURE AT 6 AND 24 MONTHS FOR STUDY 1a,b
 | Graft loss | 3.9 | 4.7 | 3.1 |
 | Death | 4.2 | 3.3 | 0 |
 | Lost to follow-up | 1.1 | 0.4 | 0.6 |
-| a: Patients received cyclosporine and corticosteroids. b: Includes patients who prematurely discontinued treatment. c: Primary endpoint. |  |  |  |
 
-TABLE 9: INCIDENCE (%) OF EFFICACY FAILURE AT 6 AND 36 MONTHS FOR STUDY 2a,b
+TABLE 9: INCIDENCE (%) OF EFFICACY FAILURE AT 6 AND 36 MONTHS FOR STUDY 2Patients received cyclosporine and corticosteroids.,Includes patients who prematurely discontinued treatment.
 
 | Parameter | Rapamune Oral Solution 2 mg/day (n = 227) | Rapamune Oral Solution 5 mg/day (n = 219) | Placebo (n = 130) |
 | --- | --- | --- | --- |
-| Efficacy failure at 6 monthsc | 30.0 | 25.6 | 47.7 |
+| Efficacy failure at 6 monthsPrimary endpoint. | 30.0 | 25.6 | 47.7 |
 | Components of efficacy failure |  |  |  |
 | Biopsy-proven acute rejection | 24.7 | 19.2 | 41.5 |
 | Graft loss | 3.1 | 3.7 | 3.9 |
@@ -51,15 +50,14 @@ TABLE 9: INCIDENCE (%) OF EFFICACY FAILURE AT 6 AND 36 MONTHS FOR STUDY 2a,b
 | Graft loss | 6.2 | 7.3 | 4.6 |
 | Death | 5.7 | 5.9 | 5.4 |
 | Lost to follow-up | 0 | 0.9 | 0.8 |
-| a: Patients received cyclosporine and corticosteroids. b: Includes patients who prematurely discontinued treatment. c: Primary endpoint. |  |  |  |
 
 Patient and graft survival at 1 year were co-primary endpoints.
 The following table shows graft and patient survival at 1 and 2 years in Study 1, and 1 and 3 years in Study 2.
 The graft and patient survival rates were similar in patients treated with Rapamune and comparator-treated patients.
 
-TABLE 10: GRAFT AND PATIENT SURVIVAL (%) FOR STUDY 1 (12 AND 24 MONTHS) AND STUDY 2 (12 AND 36 MONTHS)a,b
+TABLE 10: GRAFT AND PATIENT SURVIVAL (%) FOR STUDY 1 (12 AND 24 MONTHS) AND STUDY 2 (12 AND 36 MONTHS)Patients received cyclosporine and corticosteroids.,Includes patients who prematurely discontinued treatment.
 
-| Parameter | Rapamune Oral Solution 2 mg/day | Rapamune Oral Solution 5 mg/day | Azathioprine 2-3 mg/kg/day | Placebo |
+| Parameter | Rapamune Oral Solution 2 mg/day | Rapamune Oral Solution 5 mg/day | Azathioprine 2–3 mg/kg/day | Placebo |
 | --- | --- | --- | --- | --- |
 | Study 1 | (n = 284) | (n = 274) | (n = 161) |  |
 | Graft survival |  |  |  |  |
@@ -75,7 +73,6 @@ TABLE 10: GRAFT AND PATIENT SURVIVAL (%) FOR STUDY 1 (12 AND 24 MONTHS) AND STUD
 | Patient survival |  |  |  |  |
 | Month 12 | 96.5 | 95.0 |  | 94.6 |
 | Month 36 | 90.3 | 89.5 |  | 90.8 |
-| a: Patients received cyclosporine and corticosteroids. b: Includes patients who prematurely discontinued treatment. |  |  |  |  |
 
 The reduction in the incidence of first biopsy-confirmed acute rejection episodes in patients treated with Rapamune compared with the control groups included a reduction in all grades of rejection.
 
@@ -83,9 +80,9 @@ In Study 1, which was prospectively stratified by race within center, efficacy f
 In Study 2, which was not prospectively stratified by race, efficacy failure was similar for both Rapamune Oral Solution doses compared with placebo in Black patients.
 The decision to use the higher dose of Rapamune Oral Solution in Black patients must be weighed against the increased risk of dose-dependent adverse events that were observed with the Rapamune Oral Solution 5-mg dose [see Adverse Reactions (6.1)].
 
-TABLE 11: PERCENTAGE OF EFFICACY FAILURE BY RACE AT 6 MONTHSa,b
+TABLE 11: PERCENTAGE OF EFFICACY FAILURE BY RACE AT 6 MONTHSPatients received cyclosporine and corticosteroids.,Includes patients who prematurely discontinued treatment.
 
-| Parameter | Rapamune Oral Solution 2 mg/day | Rapamune Oral Solution 5 mg/day | Azathioprine 2-3 mg/kg/day | Placebo |
+| Parameter | Rapamune Oral Solution 2 mg/day | Rapamune Oral Solution 5 mg/day | Azathioprine 2–3 mg/kg/day | Placebo |
 | --- | --- | --- | --- | --- |
 | Study 1 |  |  |  |  |
 | Black (n = 166) | 34.9 (n = 63) | 18.0 (n = 61) | 33.3 (n = 42) |  |
@@ -93,14 +90,13 @@ TABLE 11: PERCENTAGE OF EFFICACY FAILURE BY RACE AT 6 MONTHSa,b
 | Study 2 |  |  |  |  |
 | Black (n = 66) | 30.8 (n = 26) | 33.7 (n = 27) |  | 38.5 (n = 13) |
 | Non-Black (n = 510) | 29.9 (n = 201) | 24.5 (n = 192) |  | 48.7 (n = 117) |
-| a: Patients received cyclosporine and corticosteroids. b: Includes patients who prematurely discontinued treatment. |  |  |  |  |
 
 Mean glomerular filtration rates (GFR) post-transplant were calculated by using the Nankivell equation at 12 and 24 months for Study 1, and 12 and 36 months for Study 2.
 Mean GFR was lower in patients treated with cyclosporine and Rapamune Oral Solution compared with those treated with cyclosporine and the respective azathioprine or placebo control.
 
-TABLE 12: OVERALL CALCULATED GLOMERULAR FILTRATION RATES (Mean ± SEM, cc/min) BY NANKIVELL EQUATION POST‑TRANSPLANTa,b
+TABLE 12: OVERALL CALCULATED GLOMERULAR FILTRATION RATES (Mean ± SEM, cc/min) BY NANKIVELL EQUATION POST-TRANSPLANTIncludes patients who prematurely discontinued treatment.,Patients who had a graft loss were included in the analysis with GFR set to 0.0.
 
-| Parameter | Rapamune Oral Solution 2 mg/day | Rapamune Oral Solution 5 mg/day | Azathioprine 2-3 mg/kg/day | Placebo |
+| Parameter | Rapamune Oral Solution 2 mg/day | Rapamune Oral Solution 5 mg/day | Azathioprine 2–3 mg/kg/day | Placebo |
 | --- | --- | --- | --- | --- |
 | Study 1 |  |  |  |  |
 | Month 12 | 57.4 ± 1.3 (n = 269) | 54.6 ± 1.3 (n = 248) | 64.1 ± 1.6) (n = 149) |  |
@@ -108,13 +104,12 @@ TABLE 12: OVERALL CALCULATED GLOMERULAR FILTRATION RATES (Mean ± SEM, cc/min) B
 | Study 2 |  |  |  |  |
 | Month 12 | 52.4 ± 1.5 (n = 211) | 51.5 ± 1.5 (n = 199) |  | 58.0 ± 2.1 (n = 117) |
 | Month 36 | 48.1 ± 1.8 (n = 183) | 46.1 ± 2.0 (n = 177) |  | 53.4 ± 2.7 (n = 102) |
-| a: Includes patients who prematurely discontinued treatment. b: Patients who had a graft loss were included in the analysis with GFR set to 0.0. |  |  |  |  |
 
 Within each treatment group in Studies 1 and 2, mean GFR at one-year post-transplant was lower in patients who experienced at least one episode of biopsy-proven acute rejection, compared with those who did not.
 
 Renal function should be monitored, and appropriate adjustment of the immunosuppressive regimen should be considered in patients with elevated or increasing serum creatinine levels [see Warnings and Precautions (5.8)].
 
-### Rapamune Tablets
+Rapamune Tablets
 
 The safety and efficacy of Rapamune Oral Solution and Rapamune Tablets for the prevention of organ rejection following renal transplantation were demonstrated to be clinically equivalent in a randomized, multicenter, controlled trial [see Clinical Pharmacology (12.3)].
 
@@ -135,41 +130,39 @@ Secondary efficacy endpoints were the rate of biopsy-confirmed acute rejection, 
 The following table summarizes the resulting graft and patient survival at 12, 24, and 36 months for this trial.
 At 12, 24, and 36 months, graft and patient survival were similar for both groups.
 
-TABLE 13: GRAFT AND PATIENT SURVIVAL (%): STUDY 3a
+TABLE 13: GRAFT AND PATIENT SURVIVAL (%): STUDY 3Includes patients who prematurely discontinued treatment.
 
 | Parameter | Rapamune with Cyclosporine Therapy (n = 215) | Rapamune Following Cyclosporine Withdrawal (n = 215) |
 | --- | --- | --- |
 | Graft Survival |  |  |
-| Month 12b | 95.3c | 97.2 |
+| Month 12Primary efficacy endpoint. | 95.3Survival including loss to follow-up as an event. | 97.2 |
 | Month 24 | 91.6 | 94.0 |
-| Month 36d | 87.0 | 91.6 |
+| Month 36Initial planned duration of the study. | 87.0 | 91.6 |
 | Patient Survival |  |  |
 | Month 12 | 97.2 | 98.1 |
 | Month 24 | 94.4 | 95.8 |
-| Month 36d | 91.6 | 94.0 |
-| a: Includes patients who prematurely discontinued treatment. b: Primary efficacy endpoint. c: Survival including loss to follow-up as an event. d: Initial planned duration of the study. |  |  |
+| Month 36 | 91.6 | 94.0 |
 
 The following table summarizes the results of first biopsy-proven acute rejection at 12 and 36 months.
 There was a significant difference in first biopsy-proven rejection rates between the two groups after randomization and through 12 months.
 Most of the post-randomization acute rejections occurred in the first 3 months following randomization.
 
-TABLE 14: INCIDENCE OF FIRST BIOPSY-PROVEN ACUTE REJECTION (%) BY TREATMENT GROUP AT 36 MONTHS: STUDY 3a,b
+TABLE 14: INCIDENCE OF FIRST BIOPSY-PROVEN ACUTE REJECTION (%) BY TREATMENT GROUP AT 36 MONTHS: STUDY 3Includes patients who prematurely discontinued treatment.,All patients received corticosteroids.
 
 | Period | Rapamune with Cyclosporine Therapy (n = 215) | Rapamune Following Cyclosporine Withdrawal (n = 215) |
 | --- | --- | --- |
-| Pre-randomizationc | 9.3 | 10.2 |
-| Post-randomization through 12 monthsc | 4.2 | 9.8 |
+| Pre-randomizationRandomization occurred at 3 months ± 2 weeks. | 9.3 | 10.2 |
+| Post-randomization through 12 months | 4.2 | 9.8 |
 | Post-randomization from 12 to 36 months | 1.4 | 0.5 |
 | Post-randomization through 36 months | 5.6 | 10.2 |
 | Total at 36 months | 14.9 | 20.5 |
-| a: Includes patients who prematurely discontinued treatment. b: All patients received corticosteroids. c: Randomization occurred at 3 months ± 2 weeks. |  |  |
 
 Patients receiving renal allografts with ≥ 4 HLA mismatches experienced significantly higher rates of acute rejection following randomization to the cyclosporine withdrawal group, compared with patients who continued cyclosporine (15.3% vs. 3.0%).
 Patients receiving renal allografts with ≤ 3 HLA mismatches demonstrated similar rates of acute rejection between treatment groups (6.8% vs. 7.7%) following randomization.
 
 The following table summarizes the mean calculated GFR in Study 3 (cyclosporine withdrawal study).
 
-TABLE 15: CALCULATED GLOMERULAR FILTRATION RATES (mL/min) BY NANKIVELL EQUATION AT 12, 24, AND 36 MONTHS POST-TRANSPLANT: STUDY 3a,b,c
+TABLE 15: CALCULATED GLOMERULAR FILTRATION RATES (mL/min) BY NANKIVELL EQUATION AT 12, 24, AND 36 MONTHS POST-TRANSPLANT: STUDY 3Includes patients who prematurely discontinued treatment.,Patients who had a graft loss were included in the analysis and had their GFR set to 0.0.,All patients received corticosteroids.
 
 | Parameter | Rapamune with Cyclosporine Therapy | Rapamune Following Cyclosporine Withdrawal |
 | --- | --- | --- |
@@ -179,7 +172,6 @@ TABLE 15: CALCULATED GLOMERULAR FILTRATION RATES (mL/min) BY NANKIVELL EQUATION 
 | Mean ± SEM | 48.4 ± 1.7 (n = 203) | 58.4 ± 1.6 (n = 201) |
 | Month 36 |  |  |
 | Mean ± SEM | 47.0 ± 1.8 (n = 196) | 58.5 ± 1.9 (n = 199) |
-| a: Includes patients who prematurely discontinued treatment. b: Patients who had a graft loss were included in the analysis and had their GFR set to 0.0. c: All patients received corticosteroids. |  |  |
 
 The mean GFR at 12, 24, and 36 months, calculated by the Nankivell equation, was significantly higher for patients receiving Rapamune as a maintenance regimen following cyclosporine withdrawal than for those in the Rapamune with cyclosporine therapy group.
 Patients who had an acute rejection prior to randomization had a significantly higher GFR following cyclosporine withdrawal compared to those in the Rapamune with cyclosporine group.
@@ -193,8 +185,8 @@ Fifty-two percent (112/215) of the patients in the Rapamune with cyclosporine wi
 
 Rapamune was studied in a one-year, clinical trial in high risk patients (Study 4) who were defined as Black transplant recipients and/or repeat renal transplant recipients who lost a previous allograft for immunologic reasons and/or patients with high panel-reactive antibodies (PRA; peak PRA level > 80%).
 Patients received concentration-controlled sirolimus and cyclosporine (MODIFIED), and corticosteroids per local practice.
-The Rapamune dose was adjusted to achieve target whole blood trough sirolimus concentrations of 10-15 ng/mL (chromatographic method) throughout the 12-month study period.
-The cyclosporine dose was adjusted to achieve target whole blood trough concentrations of 200-300 ng/mL through week 2, 150-200 ng/mL from week 2 to week 26, and 100-150 ng/mL from week 26 to week 52 [see Clinical Pharmacology (12.3)] for the observed trough concentrations ranges.
+The Rapamune dose was adjusted to achieve target whole blood trough sirolimus concentrations of 10–15 ng/mL (chromatographic method) throughout the 12-month study period.
+The cyclosporine dose was adjusted to achieve target whole blood trough concentrations of 200–300 ng/mL through week 2, 150–200 ng/mL from week 2 to week 26, and 100–150 ng/mL from week 26 to week 52 [see Clinical Pharmacology (12.3)] for the observed trough concentrations ranges.
 Antibody induction was allowed per protocol as prospectively defined at each transplant center, and was used in 88.4% of patients.
 The study was conducted at 35 centers in the United States.
 A total of 224 patients received a transplant and at least one dose of sirolimus and cyclosporine and was comprised of 77.2% Black patients, 24.1% repeat renal transplant recipients, and 13.5% patients with high PRA.
@@ -207,23 +199,22 @@ TABLE 16: EFFICACY FAILURE, GRAFT LOSS OR DEATH AND CALCULATED GLOMERULAR FUNCTI
 | --- | --- |
 | Efficacy Failure (%) | 23.2 |
 | Graft Loss or Death (%) | 9.8 |
-| Renal Function (mean ± SEM)a,b | 52.6 ± 1.6 (n = 222) |
-| a: Calculated glomerular filtration rate by Nankivell equation. b: Patients who had graft loss were included in this analysis with GFR set to 0. |  |
+| Renal Function (mean ± SEM)Calculated glomerular filtration rate by Nankivell equation.,Patients who had graft loss were included in this analysis with GFR set to 0. | 52.6 ± 1.6 (n = 222) |
 
 Patient survival at 12 months was 94.6%.
 The incidence of biopsy-confirmed acute rejection was 17.4% and the majority of the episodes of acute rejection were mild in severity.
 
 ## 14.4 Conversion from Calcineurin Inhibitors to Rapamune in Maintenance Renal Transplant Patients
 
-Conversion from calcineurin inhibitors (CNI) to Rapamune was assessed in maintenance renal transplant patients 6 months to 10 years post‑transplant (Study 5).
+Conversion from calcineurin inhibitors (CNI) to Rapamune was assessed in maintenance renal transplant patients 6 months to 10 years post-transplant (Study 5).
 This study was a randomized, multicenter, controlled trial conducted at 111 centers globally, including US and Europe, and was intended to show that renal function was improved by conversion from CNI to Rapamune.
-Eight hundred thirty (830) patients were enrolled and stratified by baseline calculated glomerular filtration rate (GFR, 20-40 mL/min vs. greater than 40 mL/min).
+Eight hundred thirty (830) patients were enrolled and stratified by baseline calculated glomerular filtration rate (GFR, 20–40 mL/min vs. greater than 40 mL/min).
 In this trial there was no benefit associated with conversion with regard to improvement in renal function and a greater incidence of proteinuria in the Rapamune conversion arm.
 In addition, enrollment of patients with baseline calculated GFR less than 40 mL/min was discontinued due to a higher rate of serious adverse events, including pneumonia, acute rejection, graft loss and death [see Adverse Reactions (6.4)].
 
-This study compared renal transplant patients (6-120 months after transplantation) who were converted from calcineurin inhibitors to Rapamune, with patients who continued to receive calcineurin inhibitors.
+This study compared renal transplant patients (6–120 months after transplantation) who were converted from calcineurin inhibitors to Rapamune, with patients who continued to receive calcineurin inhibitors.
 Concomitant immunosuppressive medications included mycophenolate mofetil (MMF), azathioprine (AZA), and corticosteroids.
-Rapamune was initiated with a single loading dose of 12-20 mg, after which dosing was adjusted to achieve a target sirolimus whole blood trough concentration of 8-20 ng/mL (chromatographic method).
+Rapamune was initiated with a single loading dose of 12–20 mg, after which dosing was adjusted to achieve a target sirolimus whole blood trough concentration of 8–20 ng/mL (chromatographic method).
 The efficacy endpoint was calculated GFR at 12 months post-randomization.
 Additional endpoints included biopsy-confirmed acute rejection, graft loss, and death.
 Findings in the patient stratum with baseline calculated GFR greater than 40 mL/min (Rapamune conversion, n = 497; CNI continuation, n = 246) are summarized below: There was no clinically or statistically significant improvement in Nankivell GFR compared to baseline.
@@ -259,7 +250,7 @@ This was particularly true among patients with existing abnormal urinary protein
 
 ## 14.5 Conversion from a CNI-based Regimen to a Sirolimus-based Regimen in Liver Transplant Patients
 
-Conversion from a CNI-based regimen to a Rapamune-based regimen was assessed in stable liver transplant patients 6-144 months post-transplant.
+Conversion from a CNI-based regimen to a Rapamune-based regimen was assessed in stable liver transplant patients 6–144 months post-transplant.
 The clinical study was a 2:1 randomized, multi-center, controlled trial conducted at 82 centers globally, including the US and Europe, and was intended to show that renal function was improved by conversion from a CNI to Rapamune without adversely impacting efficacy or safety.
 A total of 607 patients were enrolled.
 
@@ -281,7 +272,7 @@ This study does not support the addition of Rapamune to calcineurin-inhibitor-ba
 ## 14.7 Lymphangioleiomyomatosis (LAM) Patients
 
 The safety and efficacy of Rapamune for treatment of lymphangioleiomyomatosis were assessed in a randomized, double-blind, multicenter, controlled trial.
-This study compared Rapamune (dose-adjusted to maintain blood trough concentrations between 5–15 ng/mL) with placebo for a 12-month treatment period, followed by a 12-month observation period.
+This study compared Rapamune (dose-adjusted to maintain blood trough concentrations between 5-15 ng/mL) with placebo for a 12-month treatment period, followed by a 12-month observation period.
 Eighty-nine (89) patients were enrolled; 43 patients were randomized to receive placebo and 46 patients to receive Rapamune.
 The primary endpoint was the difference between the groups in the rate of change (slope) per month in forced expiratory volume in 1 second (FEV1).
 During the treatment period, the FEV1 slope was -12±2 mL per month in the placebo group and 1±2 mL per month in the Rapamune group (treatment difference = 13 mL (95% CI: 7, 18).

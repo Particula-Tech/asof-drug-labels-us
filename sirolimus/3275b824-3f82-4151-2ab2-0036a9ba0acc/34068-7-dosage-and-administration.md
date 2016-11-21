@@ -12,24 +12,24 @@ It is recommended that Rapamune be taken 4 hours after administration of cyclosp
 
 Frequent Rapamune dose adjustments based on non-steady-state sirolimus concentrations can lead to overdosing or underdosing because sirolimus has a long half-life.
 Once Rapamune maintenance dose is adjusted, patients should continue on the new maintenance dose for at least 7 to 14 days before further dosage adjustment with concentration monitoring.
-In most patients, dose adjustments can be based on simple proportion: new Rapamune dose = current dose x (target concentration/current concentration).
-A loading dose should be considered in addition to a new maintenance dose when it is necessary to increase sirolimus trough concentrations: Rapamune loading dose = 3 x (new maintenance dose - current maintenance dose).
+In most patients, dose adjustments can be based on simple proportion: new Rapamune dose = current dose × (target concentration/current concentration).
+A loading dose should be considered in addition to a new maintenance dose when it is necessary to increase sirolimus trough concentrations: Rapamune loading dose = 3 × (new maintenance dose - current maintenance dose).
 The maximum Rapamune dose administered on any day should not exceed 40 mg.
 If an estimated daily dose exceeds 40 mg due to the addition of a loading dose, the loading dose should be administered over 2 days.
 Sirolimus trough concentrations should be monitored at least 3 to 4 days after a loading dose(s).
 
 Two milligrams (2 mg) of Rapamune Oral Solution have been demonstrated to be clinically equivalent to 2 mg Rapamune Tablets; hence, are interchangeable on a mg-to-mg basis.
-However, it is not known if higher doses of Rapamune Oral Solution are clinically equivalent to higher doses of Rapamune Tablets on a mg‑to‑mg basis [see Clinical Pharmacology (12.3)].
+However, it is not known if higher doses of Rapamune Oral Solution are clinically equivalent to higher doses of Rapamune Tablets on a mg-to-mg basis [see Clinical Pharmacology (12.3)].
 
 ## 2.2 Renal Transplant Patients at Low- to Moderate-Immunologic Risk
 
-### Rapamune and Cyclosporine Combination Therapy
+Rapamune and Cyclosporine Combination Therapy
 
 For de novo renal transplant patients, it is recommended that Rapamune Oral Solution and Tablets be used initially in a regimen with cyclosporine and corticosteroids.
 A loading dose of Rapamune equivalent to 3 times the maintenance dose should be given, i.e. a daily maintenance dose of 2 mg should be preceded with a loading dose of 6 mg.
 Therapeutic drug monitoring should be used to maintain sirolimus drug concentrations within the target-range [see Dosage and Administration (2.5)].
 
-### Rapamune Following Cyclosporine Withdrawal
+Rapamune Following Cyclosporine Withdrawal
 
 At 2 to 4 months following transplantation, cyclosporine should be progressively discontinued over 4 to 8 weeks, and the Rapamune dose should be adjusted to obtain sirolimus whole blood trough concentrations within the target-range [see Dosage and Administration (2.5)].
 Because cyclosporine inhibits the metabolism and transport of sirolimus, sirolimus concentrations may decrease when cyclosporine is discontinued, unless the Rapamune dose is increased [see Clinical Pharmacology (12.3)].
@@ -100,6 +100,6 @@ No other liquids, including grapefruit juice, should be used for dilution [see D
 Stir vigorously and drink at once.
 Refill the container with an additional volume [minimum of four (4) ounces (1/2 cup, 120 mL)] of water or orange juice, stir vigorously, and drink at once.
 
-Rapamune Oral Solution contains polysorbate 80, which is known to increase the rate of di‑(2‑ethylhexyl)phthalate (DEHP) extraction from polyvinyl chloride (PVC).
+Rapamune Oral Solution contains polysorbate 80, which is known to increase the rate of di-(2-ethylhexyl)phthalate (DEHP) extraction from polyvinyl chloride (PVC).
 This should be considered during the preparation and administration of Rapamune Oral Solution.
 It is important that these recommendations be followed closely.

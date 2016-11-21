@@ -1,11 +1,11 @@
 # 7 DRUG INTERACTIONS
 
-Sirolimus is known to be a substrate for both cytochrome P‑450 3A4 (CYP3A4) and p‑glycoprotein (P‑gp).
-Inducers of CYP3A4 and P‑gp may decrease sirolimus concentrations whereas inhibitors of CYP3A4 and P‑gp may increase sirolimus concentrations.
+Sirolimus is known to be a substrate for both cytochrome P-450 3A4 (CYP3A4) and p-glycoprotein (P-gp).
+Inducers of CYP3A4 and P-gp may decrease sirolimus concentrations whereas inhibitors of CYP3A4 and P-gp may increase sirolimus concentrations.
 
 ## 7.1 Use with Cyclosporine
 
-Cyclosporine, a substrate and inhibitor of CYP3A4 and P‑gp, was demonstrated to increase sirolimus concentrations when co‑administered with sirolimus.
+Cyclosporine, a substrate and inhibitor of CYP3A4 and P-gp, was demonstrated to increase sirolimus concentrations when co-administered with sirolimus.
 In order to diminish the effect of this interaction with cyclosporine, it is recommended that Rapamune be taken 4 hours after administration of cyclosporine oral solution (MODIFIED) and/or cyclosporine capsules (MODIFIED).
 If cyclosporine is withdrawn from combination therapy with Rapamune, higher doses of Rapamune are needed to maintain the recommended sirolimus trough concentration ranges [see Dosage and Administration (2.2), Clinical Pharmacology (12.3)].
 
@@ -23,9 +23,9 @@ Because grapefruit juice inhibits the CYP3A4-mediated metabolism of sirolimus, i
 Exercise caution when using sirolimus with drugs or agents that are modulators of CYP3A4 and P-gp.
 The dosage of Rapamune and/or the co-administered drug may need to be adjusted [see Clinical Pharmacology (12.3)].
 
-- Drugs that could increase sirolimus blood concentrations:Bromocriptione, cimetidine, cisapride, clotrimazole, danazol, diltiazem, fluconazole, protease inhibitors (e.g., HIV and hepatitis C that include drugs such as ritonavir, indinavir, boceprevir, and telaprevir), metoclopramide, nicardipine, troleandomycin, verapamil
-- Drugs and other agents that could decrease sirolimus concentrations:Carbamazepine, phenobarbital, phenytoin, rifapentine, St. John's Wort (Hypericum perforatum)
-- Drugs with concentrations that could increase when given with Rapamune:Verapamil
+- Drugs that could increase sirolimus blood concentrations: Bromocriptione, cimetidine, cisapride, clotrimazole, danazol, diltiazem, fluconazole, protease inhibitors (e.g., HIV and hepatitis C that include drugs such as ritonavir, indinavir, boceprevir, and telaprevir), metoclopramide, nicardipine, troleandomycin, verapamil
+- Drugs and other agents that could decrease sirolimus concentrations: Carbamazepine, phenobarbital, phenytoin, rifapentine, St. John's Wort (Hypericum perforatum)
+- Drugs with concentrations that could increase when given with Rapamune: Verapamil
 
 ## 7.5 Vaccination
 

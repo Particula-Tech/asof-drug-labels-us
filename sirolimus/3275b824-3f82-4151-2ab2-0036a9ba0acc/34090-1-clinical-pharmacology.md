@@ -32,23 +32,22 @@ Sirolimus pharmacokinetics activity have been determined following oral administ
 
 The pharmacokinetic parameters of sirolimus in low- to moderate-immunologic risk adult renal transplant patients following multiple dosing with Rapamune 2 mg daily, in combination with cyclosporine and corticosteroids, is summarized in the following table.
 
-TABLE 4: MEAN ± SD STEADY STATE SIROLIMUS PHARMACOKINETIC PARAMETERS IN LOW- TO MODERATE-IMMUNOLOGIC RISK ADULT RENAL TRANSPLANT PATIENTS FOLLOWING RAPAMUNE 2 MG DAILYa,b
+TABLE 4: MEAN ± SD STEADY STATE SIROLIMUS PHARMACOKINETIC PARAMETERS IN LOW-TO MODERATE-IMMUNOLOGIC RISK ADULT RENAL TRANSPLANT PATIENTS FOLLOWING RAPAMUNE 2 MG DAILYIn presence of cyclosporine administered 4 hours before Rapamune dosing.,Based on data collected at months 1 and 3 post-transplantation.
 
 |  | Solution | Tablets |
 | --- | --- | --- |
 |  | Multiple Dose (daily dose) |  |
 | Cmax (ng/mL) | 14.4 ± 5.3 | 15.0 ± 4.9 |
 | tmax (hr) | 2.1 ± 0.8 | 3.5 ± 2.4 |
-| AUC (ng•h/mL) | 194 ± 78 | 230 ± 67 |
-| Cmin (ng/mL)c | 7.1 ± 3.5 | 7.6 ± 3.1 |
+| AUC (ng∙h/mL) | 194 ± 78 | 230 ± 67 |
+| Cmin (ng/mL)Average Cmin over 6 months. | 7.1 ± 3.5 | 7.6 ± 3.1 |
 | CL/F (mL/h/kg) | 173 ± 50 | 139 ± 63 |
-| a: In presence of cyclosporine administered 4 hours before Rapamune dosing. b: Based on data collected at months 1 and 3 post-transplantation. c: Average Cmin over 6 months. |  |  |
 
 Whole blood trough sirolimus concentrations, as measured by LC/MS/MS in renal transplant patients, were significantly correlated with AUCτ,ss.
 Upon repeated, twice-daily administration without an initial loading dose in a multiple-dose study, the average trough concentration of sirolimus increases approximately 2- to 3-fold over the initial 6 days of therapy, at which time steady-state is reached.
 A loading dose of 3 times the maintenance dose will provide near steady-state concentrations within 1 day in most patients [see Dosage and Administration (2.3, 2.5), Warning and Precautions (5.15)].
 
-### Absorption
+Absorption
 
 Following administration of Rapamune Oral Solution, the mean times to peak concentration (tmax) of sirolimus are approximately 1 hour and 2 hours in healthy subjects and renal transplant patients, respectively.
 The systemic availability of sirolimus is low, and was estimated to be approximately 14% after the administration of Rapamune Oral Solution.
@@ -56,49 +55,48 @@ In healthy subjects, the mean bioavailability of sirolimus after administration 
 Sirolimus tablets are not bioequivalent to the solution; however, clinical equivalence has been demonstrated at the 2 mg dose level.
 Sirolimus concentrations, following the administration of Rapamune Oral Solution to stable renal transplant patients, are dose-proportional between 3 and 12 mg/m2.
 
-### Food Effects
+Food Effects
 
 To minimize variability in sirolimus concentrations, both Rapamune Oral Solution and Tablets should be taken consistently with or without food [see Dosage and Administration (2)].
 In healthy subjects, a high-fat meal (861.8 kcal, 54.9% kcal from fat) increased the mean total exposure (AUC) of sirolimus by 23 to 35%, compared with fasting.
 The effect of food on the mean sirolimus Cmax was inconsistent depending on the Rapamune dosage form evaluated.
 
-### Distribution
+Distribution
 
 The mean (± SD) blood-to-plasma ratio of sirolimus was 36 ± 18 in stable renal allograft patients, indicating that sirolimus is extensively partitioned into formed blood elements.
 The mean volume of distribution (Vss/F) of sirolimus is 12 ± 8 L/kg.
 Sirolimus is extensively bound (approximately 92%) to human plasma proteins, mainly serum albumin (97%), α1-acid glycoprotein, and lipoproteins.
 
-### Metabolism
+Metabolism
 
 Sirolimus is a substrate for both CYP3A4 and P-gp.
 Sirolimus is extensively metabolized in the intestinal wall and liver and undergoes counter-transport from enterocytes of the small intestine into the gut lumen.
 Inhibitors of CYP3A4 and P-gp increase sirolimus concentrations.
 Inducers of CYP3A4 and P-gp decrease sirolimus concentrations [see Warnings and Precautions (5.17) and Drug Interactions (7)].
-Sirolimus is extensively metabolized by O‑demethylation and/or hydroxylation.
+Sirolimus is extensively metabolized by O-demethylation and/or hydroxylation.
 Seven (7) major metabolites, including hydroxy, demethyl, and hydroxydemethyl, are identifiable in whole blood.
 Some of these metabolites are also detectable in plasma, fecal, and urine samples.
 Sirolimus is the major component in human whole blood and contributes to more than 90% of the immunosuppressive activity.
 
-### Excretion
+Excretion
 
 After a single dose of [14C] sirolimus oral solution in healthy volunteers, the majority (91%) of radioactivity was recovered from the feces, and only a minor amount (2.2%) was excreted in urine.
 The mean ± SD terminal elimination half life (t½) of sirolimus after multiple dosing in stable renal transplant patients was estimated to be about 62 ± 16 hours.
 
-### Sirolimus Concentrations (Chromatographic Equivalent) Observed in Phase 3 Clinical Studies
+Sirolimus Concentrations (Chromatographic Equivalent) Observed in Phase 3 Clinical Studies
 
 The following sirolimus concentrations (chromatographic equivalent) were observed in phase 3 clinical studies for prophylaxis of organ rejection in de novo renal transplant patients[see Clinical Studies (14)].
 
 TABLE 5: SIROLIMUS WHOLE BLOOD TROUGH CONCENTRATIONS OBSERVED IN RENAL TRANSPLANT PATIENTS ENROLLED IN PHASE 3 STUDIES
 
-| Patient Population(Study number) | Treatment | Year 1 |  | Year 3 |  |
-| --- | --- | --- | --- | --- | --- |
 | Mean (ng/mL) | 10th – 90th percentiles (ng/mL) | Mean (ng/mL) | 10th – 90th percentiles (ng/mL) |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Patient Population(Study number) | Treatment | Year 1 |  | Year 3 |  |
 | Low-to-moderate risk (Studies 1 & 2) | Rapamune (2 mg/day) + CsA | 7.2 | 3.6 – 11 | – | – |
 | Rapamune (5 mg/day) + CsA | 14 | 8 – 22 | – | – |  |
-| Low-to-moderate risk (Study 3) | Rapamune + CsA | 8.6 | 5 – 13a | 9.1 | 5.4 – 14 |
-| Rapamune alone | 19 | 14 – 22a | 16 | 11 – 22 |  |
-| High risk (Study 4) | Rapamune + CsA | 15.7 11.8 11.5 | 5.4 – 27.3b 6.2 – 16.9c 6.3 – 17.3d | – | – |
-| a: Months 4 through 12b: Up to Week 2; observed CsA Cmin was 217 (56 – 432) ng/mL c: Week 2 to Week 26; observed CsA Cmin range was 174 (71 – 288) ng/mL d: Week 26 to Week 52; observed CsA Cmin was 136 (54.5 – 218) ng/mL |  |  |  |  |  |
+| Low-to-moderate risk (Study 3) | Rapamune + CsA | 8.6 | 5 – 13Months 4 through 12 | 9.1 | 5.4 – 14 |
+| Rapamune alone | 19 | 14 – 22 | 16 | 11 – 22 |  |
+| High risk (Study 4) | Rapamune + CsA | 15.7 11.8 11.5 | 5.4 – 27.3Up to Week 2; observed CsA Cmin was 217 (56 – 432) ng/mL 6.2 – 16.9Week 2 to Week 26; observed CsA Cmin range was 174 (71 – 288) ng/mL 6.3 – 17.3Week 26 to Week 52; observed CsA Cmin was 136 (54.5 – 218) ng/mL | – | – |
 
 The withdrawal of cyclosporine and concurrent increases in sirolimus trough concentrations to steady-state required approximately 6 weeks.
 Following cyclosporine withdrawal, larger Rapamune doses were required due to the absence of the inhibition of sirolimus metabolism and transport by cyclosporine and to achieve higher target sirolimus trough concentrations during concentration-controlled administration [see Dosage and Administration (2.1), Drug Interactions (7.1)].
@@ -107,65 +105,63 @@ Lymphangioleiomyomatosis
 
 In a clinical trial of patients with lymphangioleiomyomatosis, the median whole blood sirolimus trough concentration after 3 weeks of receiving sirolimus tablets at a dose of 2 mg/day was 6.8 ng/mL (interquartile range 4.6 to 9.0 ng/mL; n = 37).
 
-### Pharmacokinetics in Specific Populations
+Pharmacokinetics in Specific Populations
 
-#### Hepatic Impairment
+Hepatic Impairment
 
 Rapamune was administered as a single, oral dose to subjects with normal hepatic function and to patients with Child-Pugh classification A (mild), B (moderate), or C (severe) hepatic impairment.
 Compared with the values in the normal hepatic function group, the patients with mild, moderate, and severe hepatic impairment had 43%, 94%, and 189% higher mean values for sirolimus AUC, respectively, with no statistically significant differences in mean Cmax.
 As the severity of hepatic impairment increased, there were steady increases in mean sirolimus t1/2, and decreases in the mean sirolimus clearance normalized for body weight (CL/F/kg).
 
-The maintenance dose of Rapamune should be reduced by approximately one third in patients with mild‑to‑moderate hepatic impairment and by approximately one half in patients with severe hepatic impairment [see Dosage and Administration (2.5)].
+The maintenance dose of Rapamune should be reduced by approximately one third in patients with mild-to-moderate hepatic impairment and by approximately one half in patients with severe hepatic impairment [see Dosage and Administration (2.5)].
 It is not necessary to modify the Rapamune loading dose in patients with mild, moderate, and severe hepatic impairment.
 Therapeutic drug monitoring is necessary in all patients with hepatic impairment [see Dosage and Administration (2.3)].
 
-#### Renal Impairment
+Renal Impairment
 
 The effect of renal impairment on the pharmacokinetics of sirolimus is not known.
 However, there is minimal (2.2%) renal excretion of the drug or its metabolites in healthy volunteers.
 The loading and the maintenance doses of Rapamune need not be adjusted in patients with renal impairment [see Dosage and Administration (2.6)].
 
-#### Pediatric Renal Transplant Patients
+Pediatric Renal Transplant Patients
 
 Sirolimus pharmacokinetic data were collected in concentration-controlled trials of pediatric renal transplant patients who were also receiving cyclosporine and corticosteroids.
-The target ranges for trough concentrations were either 10-20 ng/mL for the 21 children receiving tablets, or 5-15 ng/mL for the one child receiving oral solution.
-The children aged 6-11 years (n = 8) received mean ± SD doses of 1.75 ± 0.71 mg/day (0.064 ± 0.018 mg/kg, 1.65 ± 0.43 mg/m2).
-The children aged 12-18 years (n = 14) received mean ± SD doses of 2.79 ± 1.25 mg/day (0.053 ± 0.0150 mg/kg, 1.86 ± 0.61 mg/m2).
+The target ranges for trough concentrations were either 10–20 ng/mL for the 21 children receiving tablets, or 5–15 ng/mL for the one child receiving oral solution.
+The children aged 6–11 years (n = 8) received mean ± SD doses of 1.75 ± 0.71 mg/day (0.064 ± 0.018 mg/kg, 1.65 ± 0.43 mg/m2).
+The children aged 12–18 years (n = 14) received mean ± SD doses of 2.79 ± 1.25 mg/day (0.053 ± 0.0150 mg/kg, 1.86 ± 0.61 mg/m2).
 At the time of sirolimus blood sampling for pharmacokinetic evaluation, the majority (80%) of these pediatric patients received the Rapamune dose at 16 hours after the once-daily cyclosporine dose.
 
-TABLE 6: SIROLIMUS PHARMACOKINETIC PARAMETERS (MEAN ± SD) IN PEDIATRIC RENAL TRANSPLANT PATIENTS (MULTIPLE-DOSE CONCENTRATION CONTROL)a,b
+TABLE 6: SIROLIMUS PHARMACOKINETIC PARAMETERS (MEAN ± SD) IN PEDIATRIC RENAL TRANSPLANT PATIENTS (MULTIPLE-DOSE CONCENTRATION CONTROL)Rapamune co-administered with cyclosporine oral solution [MODIFIED] (e.g., Neoral® Oral Solution) and/or cyclosporine capsules [MODIFIED] (e.g., Neoral® Soft Gelatin Capsules).,As measured by Liquid Chromatographic/Tandem Mass Spectrometric Method (LC/MS/MS)
 
-| Age (y) | n | Body weight (kg) | Cmax,ss (ng/mL) | tmax,ss (h) | Cmin,ss (ng/mL) | AUCT,ss (ng•h/mL) | CL/Fc (mL/h/kg) | CL/Fc (L/h/m2) |
+| Age (y) | n | Body weight (kg) | Cmax,ss (ng/mL) | tmax,ss (h) | Cmin,ss (ng/mL) | AUCт,ss (ng∙h/mL) | CL/FOral-dose clearance adjusted by either body weight (kg) or body surface area (m2). (mL/h/kg) | CL/F (L/h/m2) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 6-11 | 8 | 27 ± 10 | 22.1 ± 8.9 | 5.88 ± 4.05 | 10.6 ± 4.3 | 356 ± 127 | 214 ± 129 | 5.4 ± 2.8 |
-| 12-18 | 14 | 52 ± 15 | 34.5 ± 12.2 | 2.7 ± 1.5 | 14.7 ± 8.6 | 466 ± 236 | 136 ± 57 | 4.7 ± 1.9 |
-| a: Rapamune co-administered with cyclosporine oral solution [MODIFIED] (e.g., Neoral® Oral Solution) and/or cyclosporine capsules [MODIFIED] (e.g., Neoral® Soft Gelatin Capsules).b: As measured by Liquid Chromatographic/Tandem Mass Spectrometric Method (LC/MS/MS)c: Oral-dose clearance adjusted by either body weight (kg) or body surface area (m2). |  |  |  |  |  |  |  |  |
+| 6–11 | 8 | 27 ± 10 | 22.1 ± 8.9 | 5.88 ± 4.05 | 10.6 ± 4.3 | 356 ± 127 | 214 ± 129 | 5.4 ± 2.8 |
+| 12–18 | 14 | 52 ± 15 | 34.5 ± 12.2 | 2.7 ± 1.5 | 14.7 ± 8.6 | 466 ± 236 | 136 ± 57 | 4.7 ± 1.9 |
 
 The table below summarizes pharmacokinetic data obtained in pediatric dialysis patients with chronically impaired renal function.
 
-TABLE 7: SIROLIMUS PHARMACOKINETIC PARAMETERS (MEAN ± SD) IN PEDIATRIC PATIENTS WITH END-STAGE KIDNEY DISEASE MAINTAINED ON HEMODIALYSIS OR PERITONEAL DIALYSIS (1, 3, 9, 15 mg/m2 SINGLE DOSE)*
+TABLE 7: SIROLIMUS PHARMACOKINETIC PARAMETERS (MEAN ± SD) IN PEDIATRIC PATIENTS WITH END-STAGE KIDNEY DISEASE MAINTAINED ON HEMODIALYSIS OR PERITONEAL DIALYSIS (1, 3, 9, 15 mg/m2 SINGLE DOSE)All subjects received Rapamune Oral Solution.
 
 | Age Group (y) | n | tmax (h) | t1/2 (h) | CL/F/WT (mL/h/kg) |
 | --- | --- | --- | --- | --- |
-| 5-11 | 9 | 1.1 ± 0.5 | 71 ± 40 | 580 ± 450 |
-| 12-18 | 11 | 0.79 ± 0.17 | 55 ± 18 | 450 ± 232 |
-| * All subjects received Rapamune Oral Solution. |  |  |  |  |
+| 5–11 | 9 | 1.1 ± 0.5 | 71 ± 40 | 580 ± 450 |
+| 12–18 | 11 | 0.79 ± 0.17 | 55 ± 18 | 450 ± 232 |
 
-#### Geriatric
+Geriatric
 
 Clinical studies of Rapamune did not include a sufficient number of patients > 65 years of age to determine whether they will respond differently than younger patients.
 After the administration of Rapamune Oral Solution or Tablets, sirolimus trough concentration data in renal transplant patients > 65 years of age were similar to those in the adult population 18 to 65 years of age.
 
-#### Gender
+Gender
 
 Sirolimus clearance in males was 12% lower than that in females; male subjects had a significantly longer t1/2 than did female subjects (72.3 hours versus 61.3 hours).
 Dose adjustments based on gender are not recommended.
 
-#### Race
+Race
 
 In the phase 3 trials for the prophylaxis of organ rejection following renal transplantation using Rapamune solution or tablets and cyclosporine oral solution [MODIFIED] (e.g., Neoral® Oral Solution) and/or cyclosporine capsules [MODIFIED] (e.g., Neoral® Soft Gelatin Capsules) [see Clinical Studies (14)], there were no significant differences in mean trough sirolimus concentrations over time between Black (n = 190) and non-Black (n = 852) patients during the first 6 months after transplantation.
 
-### Drug-Drug Interactions
+Drug-Drug Interactions
 
 Sirolimus is known to be a substrate for both cytochrome CYP3A4 and P-gp.
 The pharmacokinetic interaction between sirolimus and concomitantly administered drugs is discussed below.
@@ -194,7 +190,7 @@ In a multiple-dose study in 150 psoriasis patients, sirolimus 0.5, 1.5, and 3 mg
 The increase in average sirolimus trough concentrations ranged between 67% to 86% relative to when Rapamune was administered without cyclosporine.
 The intersubject variability (% CV) for sirolimus trough concentrations ranged from 39.7% to 68.7%.
 There was no significant effect of multiple-dose sirolimus on cyclosporine trough concentrations following Sandimmune® Oral Solution (cyclosporine oral solution) administration.
-However, the % CV was higher (range 85.9% - 165%) than those from previous studies.
+However, the % CV was higher (range 85.9% – 165%) than those from previous studies.
 
 Diltiazem: Diltiazem is a substrate and inhibitor of CYP3A4 and P-gp; sirolimus concentrations should be monitored and a dose adjustment may be necessary [see Drug Interactions (7.4)].
 The simultaneous oral administration of 10 mg of sirolimus oral solution and 120 mg of diltiazem to 18 healthy volunteers significantly affected the bioavailability of sirolimus.
@@ -219,7 +215,7 @@ The simultaneous oral administration of 2 mg daily of sirolimus oral solution an
 Sirolimus Cmax and AUC were increased 2.3- and 2.2-fold, respectively, without substantial change in tmax.
 The Cmax and AUC of the pharmacologically active S(-) enantiomer of verapamil were both increased 1.5-fold and tmax was decreased by 1.2 hr.
 
-### Drugs Which May Be Co-administered Without Dose Adjustment
+Drugs Which May Be Co-administered Without Dose Adjustment
 
 Clinically significant pharmacokinetic drug-drug interactions were not observed in studies of drugs listed below.
 Sirolimus and these drugs may be co-administered without dose adjustments.
@@ -240,7 +236,7 @@ Prednisolone
 
 Sulfamethoxazole/trimethoprim (Bactrim®)
 
-### Other Drug-Drug Interactions
+Other Drug-Drug Interactions
 
 Co-administration of Rapamune with other known strong inhibitors of CYP3A4 and/or P-gp (such as voriconazole, itraconazole, telithromycin, or clarithromycin) or other known strong inducers of CYP3A4 and/or P-gp (such as rifabutin) is not recommended [see Warnings and Precautions (5.17), Drug Interactions (7.2)].
 In patients in whom strong inhibitors or inducers of CYP3A4 are indicated, alternative therapeutic agents with less potential for inhibition or induction of CYP3A4 should be considered.
@@ -264,12 +260,12 @@ Anticonvulsants: carbamazepine, phenobarbital, phenytoin.
 
 Antibiotics: rifapentine.
 
-### Other Drug-Food Interactions
+Other Drug-Food Interactions
 
 Grapefruit juice reduces CYP3A4-mediated drug metabolism.
 Grapefruit juice must not be taken with or used for dilution of Rapamune [see Dosage and Administration (2.9), Drug Interactions (7.3)].
 
-### Drug-Herb Interactions
+Drug-Herb Interactions
 
 St. John's Wort (hypericum perforatum) induces CYP3A4 and P-gp.
 Since sirolimus is a substrate for both cytochrome CYP3A4 and P-gp, there is the potential that the use of St. John's Wort in patients receiving Rapamune could result in reduced sirolimus concentrations [see Drug Interactions (7.4)].

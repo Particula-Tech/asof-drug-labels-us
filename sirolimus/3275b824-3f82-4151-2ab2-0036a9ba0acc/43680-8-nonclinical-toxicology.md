@@ -13,4 +13,4 @@ Fertility was diminished slightly in both male and female rats following oral ad
 In male rats, atrophy of testes, epididymides, prostate, seminiferous tubules and/or reduction in sperm counts were observed.
 In female rats, reduced size of ovaries and uteri was observed.
 Reduction of sperm count in male rats was reversible upon cessation of dosing in one study.
-Testicular tubular degeneration was also seen in a 4‑week intravenous study of sirolimus in monkeys at doses that were approximately equal to the clinical dose (adjusted for body surface area).
+Testicular tubular degeneration was also seen in a 4-week intravenous study of sirolimus in monkeys at doses that were approximately equal to the clinical dose (adjusted for body surface area).

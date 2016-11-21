@@ -40,7 +40,7 @@ Patients receiving 2 mg of Rapamune Oral Solution per day demonstrated an overal
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in one clinical trial of a drug cannot be directly compared with rates in the clinical trials of the same or another drug and may not reflect the rates observed in practice.
 
-TABLE 1: ADVERSE REACTIONS OCCURRING AT A FREQUENCY OF ≥ 20% IN AT LEAST ONE OF THE RAPAMUNE TREATMENT GROUPS IN A STUDY OF PROPHYLAXIS OF ORGAN REJECTION FOLLOWING RENAL TRANSPLANTATION (%) AT ≥ 12 MONTHS POST-TRANSPLANTATION (STUDY 2)a
+TABLE 1: ADVERSE REACTIONS OCCURRING AT A FREQUENCY OF ≥ 20% IN AT LEAST ONE OF THE RAPAMUNE TREATMENT GROUPS IN A STUDY OF PROPHYLAXIS OF ORGAN REJECTION FOLLOWING RENAL TRANSPLANTATION (%) AT ≥ 12 MONTHS POST-TRANSPLANTATION (STUDY 2)Patients received cyclosporine and corticosteroids.
 
 | Adverse Reaction | (n = 218) | (n = 208) | (n = 124) |
 | --- | --- | --- | --- |
@@ -65,7 +65,6 @@ TABLE 1: ADVERSE REACTIONS OCCURRING AT A FREQUENCY OF ≥ 20% IN AT LEAST ONE O
 | Acne | 22 | 22 | 19 |
 | Rash | 10 | 20 | 6 |
 | Edema | 20 | 18 | 15 |
-| a: Patients received cyclosporine and corticosteroids. |  |  |  |
 
 The following adverse reactions were reported less frequently (≥ 3%, but < 20%)
 
@@ -81,40 +80,39 @@ The following adverse reactions were reported less frequently (≥ 3%, but < 20%
 
 Less frequently (< 3%) occurring adverse reactions included: lymphoma/post-transplant lymphoproliferative disorder, mycobacterial infections (including M. tuberculosis), pancreatitis, cytomegalovirus (CMV), and Epstein-Barr virus.
 
-### Increased Serum Cholesterol and Triglycerides
+Increased Serum Cholesterol and Triglycerides
 
 The use of Rapamune in renal transplant patients was associated with increased serum cholesterol and triglycerides that may require treatment.
 
 In Studies 1 and 2, in de novo renal transplant patients who began the study with fasting, total serum cholesterol < 200 mg/dL or fasting, total serum triglycerides < 200 mg/dL, there was an increased incidence of hypercholesterolemia (fasting serum cholesterol > 240 mg/dL) or hypertriglyceridemia (fasting serum triglycerides > 500 mg/dL), respectively, in patients receiving both Rapamune 2 mg and Rapamune 5 mg compared with azathioprine and placebo controls.
 
-Treatment of new-onset hypercholesterolemia with lipid-lowering agents was required in 42‑52% of patients enrolled in the Rapamune arms of Studies 1 and 2 compared with 16% of patients in the placebo arm and 22% of patients in the azathioprine arm.
+Treatment of new-onset hypercholesterolemia with lipid-lowering agents was required in 42–52% of patients enrolled in the Rapamune arms of Studies 1 and 2 compared with 16% of patients in the placebo arm and 22% of patients in the azathioprine arm.
 In other Rapamune renal transplant studies, up to 90% of patients required treatment for hyperlipidemia and hypercholesterolemia with anti-lipid therapy (e.g., statins, fibrates).
 Despite anti-lipid management, up to 50% of patients had fasting serum cholesterol levels >240 mg/dL and triglycerides above recommended target levels [see Warnings and Precautions (5.7)].
 
-### Abnormal Healing
+Abnormal Healing
 
 Abnormal healing events following transplant surgery include fascial dehiscence, incisional hernia, and anastomosis disruption (e.g., wound, vascular, airway, ureteral, biliary).
 
-### Malignancies
+Malignancies
 
 The table below summarizes the incidence of malignancies in the two controlled trials (Studies 1 and 2) for the prevention of acute rejection [see Clinical Studies (14.1)].
 
 At 24 months (Study 1) and 36 months (Study 2), there were no significant differences among treatment groups.
 
-TABLE 2: INCIDENCE (%) OF MALIGNANCIES IN STUDY 1 (24 MONTHS) AND STUDY 2 (36 MONTHS) POST-TRANSPLANTa,b
+TABLE 2: INCIDENCE (%) OF MALIGNANCIES IN STUDY 1 (24 MONTHS) AND STUDY 2 (36 MONTHS) POST-TRANSPLANTPatients received cyclosporine and corticosteroids.,Includes patients who prematurely discontinued treatment.
 
-| Malignancy | Rapamune Oral Solution 2 mg/day |  | Rapamune Oral Solution 5 mg/day |  | Azathioprine 2-3 mg/kg/day | Placebo |
-| --- | --- | --- | --- | --- | --- | --- |
 | Study 1 (n = 284) | Study 2 (n = 227) | Study 1 (n = 274) | Study 2 (n = 219) | Study 1 (n = 161) | Study 2 (n = 130) |  |
-| Lymphoma/ lymphoproliferative disease | 0.7 | 1.8 | 1.1 | 3.2 | 0.6 | 0.8 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Malignancy | Rapamune Oral Solution 2 mg/day |  | Rapamune Oral Solution 5 mg/day |  | Azathioprine 2–3 mg/kg/day | Placebo |
+| Lymphoma/lymphoproliferative disease | 0.7 | 1.8 | 1.1 | 3.2 | 0.6 | 0.8 |
 | Skin Carcinoma |  |  |  |  |  |  |
-| Any Squamous Cellc | 0.4 | 2.7 | 2.2 | 0.9 | 3.8 | 3.0 |
-| Any Basal Cellc | 0.7 | 2.2 | 1.5 | 1.8 | 2.5 | 5.3 |
+| Any Squamous CellPatients may be counted in more than one category. | 0.4 | 2.7 | 2.2 | 0.9 | 3.8 | 3.0 |
+| Any Basal Cell | 0.7 | 2.2 | 1.5 | 1.8 | 2.5 | 5.3 |
 | Melanoma | 0.0 | 0.4 | 0.0 | 1.4 | 0.0 | 0.0 |
 | Miscellaneous/Not Specified | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.8 |
 | Total | 1.1 | 4.4 | 3.3 | 4.1 | 4.3 | 7.7 |
 | Other Malignancy | 1.1 | 2.2 | 1.5 | 1.4 | 0.6 | 2.3 |
-| a: Patients received cyclosporine and corticosteroids.b: Includes patients who prematurely discontinued treatment.c: Patients may be counted in more than one category. |  |  |  |  |  |  |
 
 ## 6.2 Rapamune Following Cyclosporine Withdrawal
 
@@ -126,7 +124,7 @@ Following randomization (at 3 months), patients who had cyclosporine eliminated 
 Conversely, the incidence of the following adverse events was higher in patients who remained on cyclosporine than those who had cyclosporine withdrawn from therapy: hypertension, cyclosporine toxicity, increased creatinine, abnormal kidney function, toxic nephropathy, edema, hyperkalemia, hyperuricemia, and gum hyperplasia.
 Mean systolic and diastolic blood pressure improved significantly following cyclosporine withdrawal.
 
-### Malignancies
+Malignancies
 
 The incidence of malignancies in Study 3 [see Clinical Studies (14.2)] is presented in the table following.
 
@@ -135,19 +133,18 @@ The overall incidence of malignancy was higher in patients receiving Rapamune pl
 Conclusions regarding these differences in the incidence of malignancy could not be made because Study 3 was not designed to consider malignancy risk factors or systematically screen subjects for malignancy.
 In addition, more patients in the Rapamune with cyclosporine group had a pretransplantation history of skin carcinoma.
 
-TABLE 3: INCIDENCE (%) OF MALIGNANCIES IN STUDY 3 (CYCLOSPORINE WITHDRAWAL STUDY) AT 36 MONTHS POST-TRANSPLANTa,b
+TABLE 3: INCIDENCE (%) OF MALIGNANCIES IN STUDY 3 (CYCLOSPORINE WITHDRAWAL STUDY) AT 36 MONTHS POST-TRANSPLANTPatients received cyclosporine and corticosteroids.,Includes patients who prematurely discontinued treatment.
 
 | Malignancy | Nonrandomized (n = 95) | Rapamune with Cyclosporine Therapy (n = 215) | Rapamune Following Cyclosporine Withdrawal (n = 215) |
 | --- | --- | --- | --- |
-| Lymphoma/ lymphoproliferative disease | 1.1 | 1.4 | 0.5 |
+| Lymphoma/lymphoproliferative disease | 1.1 | 1.4 | 0.5 |
 | Skin Carcinoma |  |  |  |
-| Any Squamous Cellc | 3.2 | 3.3 | 2.3 |
-| Any Basal Cellc | 3.2 | 6.5 | 2.3 |
+| Any Squamous CellPatients may be counted in more than one category. | 3.2 | 3.3 | 2.3 |
+| Any Basal Cell | 3.2 | 6.5 | 2.3 |
 | Melanoma | 0.0 | 0.5 | 0.0 |
 | Miscellaneous/Not Specified | 1.1 | 0.9 | 0.0 |
 | Total | 4.2 | 7.9 | 3.7 |
 | Other Malignancy | 3.2 | 3.3 | 1.9 |
-| a: Patients received cyclosporine and corticosteroids.b: Includes patients who prematurely discontinued treatment.c: Patients may be counted in more than one category. |  |  |  |
 
 ## 6.3 High-Immunologic Risk Renal Transplant Patients
 
@@ -158,7 +155,7 @@ The incidence of malignancy was 1.3% at 12 months.
 ## 6.4 Conversion from Calcineurin Inhibitors to Rapamune in Maintenance Renal Transplant Population
 
 The safety and efficacy of conversion from calcineurin inhibitors to Rapamune in maintenance renal transplant population have not been established [see Clinical Studies (14.4)].
-In a study evaluating the safety and efficacy of conversion from calcineurin inhibitors to Rapamune (initial target sirolimus concentrations of 12-20 ng/mL, and then 8-20 ng/mL, by chromatographic assay) in maintenance renal transplant patients, enrollment was stopped in the subset of patients (n = 87) with a baseline glomerular filtration rate of less than 40 mL/min.
+In a study evaluating the safety and efficacy of conversion from calcineurin inhibitors to Rapamune (initial target sirolimus concentrations of 12–20 ng/mL, and then 8–20 ng/mL, by chromatographic assay) in maintenance renal transplant patients, enrollment was stopped in the subset of patients (n = 87) with a baseline glomerular filtration rate of less than 40 mL/min.
 There was a higher rate of serious adverse events, including pneumonia, acute rejection, graft loss and death, in this stratum of the Rapamune treatment arm.
 
 The subset of patients with a baseline glomerular filtration rate of less than 40 mL/min had 2 years of follow-up after randomization.
@@ -200,6 +197,6 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Respiratory – Cases of interstitial lung disease (including pneumonitis, bronchiolitis obliterans organizing pneumonia [BOOP], and pulmonary fibrosis), some fatal, with no identified infectious etiology have occurred in patients receiving immunosuppressive regimens including Rapamune.
   In some cases, the interstitial lung disease has resolved upon discontinuation or dose reduction of Rapamune.
   The risk may be increased as the sirolimus trough concentration increases [see Warnings and Precautions (5.11)]; pulmonary hemorrhage; pleural effusion; alveolar proteinosis.
-- Skin – Exfoliative dermatitis [see Warnings and Precautions (5.4)].
+- Skin – Neuroendocrine carcinoma of the skin [see Warnings and Precautions (5.16)], exfoliative dermatitis [see Warnings and Precautions (5.4)].
 - Urogenital – Nephrotic syndrome, proteinuria, focal segmental glomerulosclerosis, ovarian cysts, menstrual disorders (including amenorrhea and menorrhagia).
   Azoospermia has been reported with the use of Rapamune and has been reversible upon discontinuation of Rapamune in most cases.

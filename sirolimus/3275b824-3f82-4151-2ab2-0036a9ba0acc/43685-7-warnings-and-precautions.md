@@ -3,7 +3,7 @@
 ## 5.1 Increased Susceptibility to Infection and the Possible Development of Lymphoma
 
 Increased susceptibility to infection and the possible development of lymphoma and other malignancies, particularly of the skin, may result from immunosuppression.
-The rates of lymphoma/lymphoproliferative disease observed in Studies 1 and 2 were 0.7-3.2% (for Rapamune-treated patients) versus 0.6-0.8% (azathioprine and placebo control) [see Adverse Reactions (6.1) and (6.2)].
+The rates of lymphoma/lymphoproliferative disease observed in Studies 1 and 2 were 0.7–3.2% (for Rapamune-treated patients) versus 0.6–0.8% (azathioprine and placebo control) [see Adverse Reactions (6.1) and (6.2)].
 Oversuppression of the immune system can also increase susceptibility to infection, including opportunistic infections such as tuberculosis, fatal infections, and sepsis.
 Only physicians experienced in immunosuppressive therapy and management of organ transplant patients should use Rapamune for prophylaxis of organ rejection in patients receiving renal transplants.
 Patients receiving the drug should be managed in facilities equipped and staffed with adequate laboratory and supportive medical resources.
@@ -19,7 +19,7 @@ Many of these patients had evidence of infection at or near the time of death.
 
 In this and another study in de novo liver transplant patients, the use of Rapamune in combination with cyclosporine or tacrolimus was associated with an increase in HAT (7% in combination versus 2% in the control arm); most cases of HAT occurred within 30 days post-transplantation, and most led to graft loss or death.
 
-In a clinical study in stable liver transplant patients 6-144 months post-liver transplantation and receiving a CNI-based regimen, an increased number of deaths was observed in the group converted to a Rapamune-based regimen compared to the group who was continued on a CNI-based regimen, although the difference was not statistically significant (3.8% versus 1.4%) [see Clinical Studies (14.5)].
+In a clinical study in stable liver transplant patients 6–144 months post-liver transplantation and receiving a CNI-based regimen, an increased number of deaths was observed in the group converted to a Rapamune-based regimen compared to the group who was continued on a CNI-based regimen, although the difference was not statistically significant (3.8% versus 1.4%) [see Clinical Studies (14.5)].
 
 ## 5.3 Lung Transplantation – Bronchial Anastomotic Dehiscence
 
@@ -34,7 +34,9 @@ Hypersensitivity reactions, including anaphylactic/anaphylactoid reactions, angi
 ## 5.5 Angioedema
 
 Rapamune has been associated with the development of angioedema.
-The concomitant use of Rapamune with other drugs known to cause angioedema, such as ACE-inhibitors, may increase the risk of developing angioedema.
+The concomitant use of Rapamune with other drugs known to cause angioedema, such as angiotensin-converting enzyme (ACE) inhibitors, may increase the risk of developing angioedema.
+Elevated sirolimus levels (with/without concomitant ACE inhibitors) may also potentiate angioedema [see Drug Interactions (7.2)].
+In some cases, the angioedema has resolved upon discontinuation or dose reduction of Rapamune.
 
 ## 5.6 Fluid Accumulation and Wound Healing
 
@@ -48,7 +50,7 @@ There have also been reports of fluid accumulation, including peripheral edema, 
 ## 5.7 Hyperlipidemia
 
 Increased serum cholesterol and triglycerides requiring treatment occurred more frequently in patients treated with Rapamune compared with azathioprine or placebo controls in Studies 1 and 2 [see Adverse Reactions (6.1)].
-There were increased incidences of hypercholesterolemia (43–46%) and/or hypertriglyceridemia (45-57%) in patients receiving Rapamune compared with placebo controls (each 23%).
+There were increased incidences of hypercholesterolemia (43–46%) and/or hypertriglyceridemia (45–57%) in patients receiving Rapamune compared with placebo controls (each 23%).
 The risk/benefit should be carefully considered in patients with established hyperlipidemia before initiating an immunosuppressive regimen including Rapamune.
 
 Any patient who is administered Rapamune should be monitored for hyperlipidemia.
@@ -76,7 +78,7 @@ In patients with delayed graft function, Rapamune may delay recovery of renal fu
 ## 5.9 Proteinuria
 
 Periodic quantitative monitoring of urinary protein excretion is recommended.
-In a study evaluating conversion from calcineurin inhibitors (CNI) to Rapamune in maintenance renal transplant patients 6-120 months post-transplant, increased urinary protein excretion was commonly observed from 6 through 24 months after conversion to Rapamune compared with CNI continuation [see Clinical Studies (14.4), Adverse Reactions (6.4)].
+In a study evaluating conversion from calcineurin inhibitors (CNI) to Rapamune in maintenance renal transplant patients 6–120 months post-transplant, increased urinary protein excretion was commonly observed from 6 through 24 months after conversion to Rapamune compared with CNI continuation [see Clinical Studies (14.4), Adverse Reactions (6.4)].
 Patients with the greatest amount of urinary protein excretion prior to Rapamune conversion were those whose protein excretion increased the most after conversion.
 New onset nephrosis (nephrotic syndrome) was also reported as a treatment-emergent adverse event in 2.2% of the Rapamune conversion group patients in comparison to 0.4% in the CNI continuation group of patients.
 Nephrotic range proteinuria (defined as urinary protein to creatinine ratio > 3.5) was also reported in 9.2% in the Rapamune conversion group of patients in comparison to 3.7% in the CNI continuation group of patients.
