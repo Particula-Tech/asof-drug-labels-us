@@ -1,15 +1,16 @@
-# WARNINGS
+# WARNINGS:
 
 SEE BOXED WARNINGS.
 
+For intrathecal and high-dose methotrexate therapy, use the preservative-free formulation of methotrexate.
+Do not use the preserved formulation of methotrexate for intrathecal or high dose therapy because it contains benzyl alcohol.
+
 Use caution when administering high-dose methotrexate to patients receiving proton pump inhibitor (PPI) therapy.
-Case reports and published population pharmacokinetic studies suggest that concomitant use of PPIs, such as omeprazole, esomeprazole and pantoprazole, with methotrexate (primarily at high dose), may elevate and prolong serum levels of methotrexate and/or its metabolite hydroxymethotrexate, possibly leading to methotrexate toxicities.
+Case reports and published population pharmacokinetic studies suggest that concomitant use of some PPIs, such as omeprazole, esomeprazole, and pantoprazole, with methotrexate (primarily at high doses), may elevate and prolong serum levels of methotrexate and/or its metabolite hydroxymethotrexate, possibly leading to methotrexate toxicities.
 In two of these cases, delayed methotrexate elimination was observed when high-dose methotrexate was co-administered with PPIs, but was not observed when methotrexate was co-administered with ranitidine.
 However, no formal drug interaction studies of methotrexate with ranitidine have been conducted.
 
-Methotrexate formulations and diluents containing preservatives must not be used for intrathecal or high-dose methotrexate therapy.
-
-# PRECAUTIONS
+# PRECAUTIONS:
 
 ## General
 
@@ -19,7 +20,7 @@ Because they can occur at any time during therapy, it is necessary to follow pat
 Most adverse reactions are reversible if detected early.
 When such reactions do occur, the drug should be reduced in dosage or discontinued and appropriate corrective measures should be taken.
 If necessary, this could include the use of leucovorin calcium and/or acute, intermittent hemodialysis with a high-flux dialyzer (see OVERDOSAGE).
-If methotrexate therapy is reinstituted, it should be carried out with caution, with adequate consideration of further need for the drug and with increased alertness as to possible recurrence of toxicity.
+If methotrexate therapy is reinstituted, it should be carried out with caution, with adequate consideration of further need for the drug and increased alertness as to possible recurrence of toxicity.
 
 The clinical pharmacology of methotrexate has not been well studied in older individuals.
 Due to diminished hepatic and renal function as well as decreased folate stores in this population, relatively low doses should be considered, and these patients should be closely monitored for early signs of toxicity.
@@ -39,7 +40,7 @@ The risk of effects on reproduction should be discussed with both male and femal
 ## Laboratory Tests
 
 Patients undergoing methotrexate therapy should be closely monitored so that toxic effects are detected promptly.
-Baseline assessment should include a complete blood count with differential and platelet counts, hepatic enzymes, renal function tests, and a chest X-ray.
+Baseline assessment should include a complete blood count with differential and platelet counts, hepatic enzymes, renal function tests and a chest X-ray.
 During therapy of rheumatoid arthritis and psoriasis, monitoring of these parameters is recommended: hematology at least monthly, renal function and liver function every 1 to 2 months.
 More frequent monitoring is usually indicated during antineoplastic therapy.
 During initial or changing doses, or during periods of increased risk of elevated methotrexate blood levels (e.g., dehydration), more frequent monitoring may also be indicated.
@@ -87,16 +88,16 @@ Preliminary animal and human studies have shown that small quantities of intrave
 However, high doses of leucovorin may reduce the efficacy of intrathecally administered methotrexate.
 
 Folate deficiency states may increase methotrexate toxicity.
-Trimethoprim/sulfamethoxazole has been reported rarely to increase bone marrow suppression in patients receiving methotrexate, probably by decreased tubular secretion and/or additive antifolate effect.
+Trimethoprim/sulfamethoxazole has been reported rarely to increase bone marrow suppression in patients receiving methotrexate, probably by decreased tubular secretion and/or an additive antifolate effect.
 
-## Carcinogenesis, Mutagenesis, and Impairment of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 No controlled human data exist regarding the risk of neoplasia with methotrexate.
 Methotrexate has been evaluated in a number of animal studies for carcinogenic potential with inconclusive results.
 Although there is evidence that methotrexate causes chromosomal damage to animal somatic cells and human bone marrow cells, the clinical significance remains uncertain.
 Non-Hodgkin’s lymphoma and other tumors have been reported in patients receiving low-dose oral methotrexate.
 However, there have been instances of malignant lymphoma arising during treatment with low-dose oral methotrexate, which have regressed completely following withdrawal of methotrexate, without requiring active anti-lymphoma treatment.
-Benefits should be weighed against the potential risks before using methotrexate alone or in combination with other drugs, especially in pediatric patients or young adults.
+Benefits should be weighed against the potential risk before using methotrexate alone or in combination with other drugs, especially in pediatric patients or young adults.
 Methotrexate causes embryotoxicity, abortion, and fetal defects in humans.
 It has also been reported to cause impairment of fertility, oligospermia and menstrual dysfunction in humans, during and for a short period after cessation of therapy.
 
@@ -114,8 +115,12 @@ Safety and effectiveness in pediatric patients have been established only in can
 
 Published clinical studies evaluating the use of methotrexate in children and adolescents (i.e., patients 2 to 16 years of age) with JRA demonstrated safety comparable to that observed in adults with rheumatoid arthritis (see CLINICAL PHARMACOLOGY, ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION).
 
-Methotrexate injectable formulations containing the preservative benzyl alcohol are not recommended for use in neonates.
-There have been reports of fatal ‘gasping syndrome’ in neonates (children less than one month of age) following the administrations of intravenous solutions containing the preservative benzyl alcohol.
+For intrathecal and high-dose methotrexate therapy, use the preservative-free formulation of methotrexate.
+Do not use the preserved formulation of methotrexate for intrathecal or high-dose therapy because it contains benzyl alcohol.
+
+Use the preservative-free formulation of methotrexate in neonates.
+
+There have been reports of fatal ‘gasping syndrome’ in neonates (children less than one month of age) following the administration of intravenous solutions containing the preservative benzyl alcohol.
 Symptoms include a striking onset of gasping respiration, hypotension, bradycardia, and cardiovascular collapse.
 
 Serious neurotoxicity, frequently manifested as generalized or focal seizures, has been reported with unexpectedly increased frequency among pediatric patients with acute lymphoblastic leukemia who were treated with intermediate-dose intravenous methotrexate (1 gm/m2) (see PRECAUTIONS, Organ System Toxicity, Neurologic).
@@ -123,7 +128,7 @@ Serious neurotoxicity, frequently manifested as generalized or focal seizures, h
 ## Geriatric Use
 
 Clinical studies of methotrexate did not include sufficient numbers of subjects age 65 and over to determine whether they respond differently from younger subjects.
-In general, dose selection for an elderly patient should be cautious reflecting the greater frequency of decreased hepatic and renal function, decreased folate stores, concomitant disease or other drug therapy (i.e., that interfere with renal function, methotrexate or folate metabolism) in this population (see PRECAUTIONS, Drug Interactions).
+In general, dose selection for an elderly patient should be cautious reflecting the greater frequency of decreased hepatic and renal function, decreased folate stores, concomitant disease or other drug therapy (i.e., that interfere with renal function, methotrexate or folate metabolism) in this population (see PRECAUTIONS,Drug Interactions).
 Since decline in renal function may be associated with increases in adverse events and serum creatinine measurements may over estimate renal function in the elderly, more accurate methods (i.e., creatinine clearance) should be considered.
 Serum methotrexate levels may also be helpful.
 Elderly patients should be closely monitored for early signs of hepatic, bone marrow and renal toxicity.
@@ -182,7 +187,7 @@ Infection or Immunologic States
 Methotrexate should be used with extreme caution in the presence of active infection, and is usually contraindicated in patients with overt or laboratory evidence of immunodeficiency syndromes.
 Immunization may be ineffective when given during methotrexate therapy.
 Immunization with live virus vaccines is generally not recommended.
-There have been reports of disseminated vaccinia infections after smallpox immunization in patients receiving methotrexate therapy.
+There have been reports of disseminated vaccinia infections after smallpox immunizations in patients receiving methotrexate therapy.
 Hypogammaglobulinemia has been reported rarely.
 
 Potentially fatal opportunistic infections, especially Pneumocystis carinii pneumonia, may occur with methotrexate therapy.
@@ -196,7 +201,7 @@ Symptomatic patients were commonly noted to have leukoencephalopathy and/or micr
 Chronic leukoencephalopathy has also been reported in patients who received repeated doses of high-dose methotrexate with leucovorin rescue even without cranial irradiation.
 Discontinuation of methotrexate does not always result in complete recovery.
 
-A transient acute neurologic syndrome has been observed in patients treated with high dose regimens.
+A transient acute neurologic syndrome has been observed in patients treated with high-dose regimens.
 Manifestations of this stroke-like encephalopathy may include confusion, hemiparesis, transient blindness, seizures and coma.
 The exact cause is unknown.
 
@@ -219,7 +224,7 @@ Close attention to renal function including adequate hydration, urine alkaliniza
 Skin
 
 Severe, occasionally fatal, dermatologic reactions, including toxic epidermal necrolysis, Stevens-Johnson syndrome, exfoliative dermatitis, skin necrosis, and erythema multiforme, have been reported in children and adults, within days of oral, intramuscular, intravenous, or intrathecal methotrexate administration.
-Reactions were noted after single or multiple, low, intermediate or high doses of methotrexate in patients with neoplastic and non-neoplastic diseases.
+Reactions were noted after single or multiple low, intermediate, or high doses of methotrexate in patients with neoplastic and non-neoplastic diseases.
 
 Other Precautions
 

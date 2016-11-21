@@ -1,4 +1,4 @@
-# HOW SUPPLIED
+# HOW SUPPLIED:
 
 ## Parenteral
 
@@ -10,13 +10,13 @@ Product NDC
 
 No. No.
 
-102250 63323-122-50 1 g vial
+102250 63323-122-50 1 g per vial
 
-Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 PROTECT FROM LIGHT.
 Retain in carton until time of use.
 Discard unused portion.
 
-This container closure is not made with natural rubber latex.
+The container closure is not made with natural rubber latex.
 
 See package insert for routes of administration.

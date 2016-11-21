@@ -1,4 +1,4 @@
-# CLINICAL PHARMACOLOGY
+# CLINICAL PHARMACOLOGY:
 
 Methotrexate inhibits dihydrofolic acid reductase.
 Dihydrofolates must be reduced to tetrahydrofolates by this enzyme before they can be utilized as carriers of one-carbon groups in the synthesis of purine nucleotides and thymidylate.
@@ -103,7 +103,7 @@ It has been postulated that the toxicity of methotrexate for normal tissues is m
 When a patient has delayed drug elimination due to compromised renal function, a third space effusion, or other causes, methotrexate serum concentrations may remain elevated for prolonged periods.
 
 The potential for toxicity from high-dose regimens or delayed excretion is reduced by the administration of leucovorin calcium during the final phase of methotrexate plasma elimination.
-Pharmacokinetic monitoring of methotrexate serum concentrations may help identify those patients at high risk for methotrexate toxicity and aid in proper adjustment of leucovorin dosing.
+Pharmacokinetic monitoring of methotrexate serum concentrations may help identify those patients at high risk for methotrexate toxicity and aid in proper adjustments of leucovorin dosing.
 Guidelines for monitoring serum methotrexate levels, and for adjustment of leucovorin dosing to reduce the risk of methotrexate toxicity, are provided below in DOSAGE AND ADMINISTRATION.
 
 Methotrexate has been detected in human breast milk.
