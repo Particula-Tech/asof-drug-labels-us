@@ -20,7 +20,7 @@ In the primary analysis population, 17% of patients discontinued Orenitram compa
 The primary efficacy endpoint of the trial was the change in 6MWD at 12 weeks for the primary analysis population.
 Analysis of Study 1 results demonstrated that those patients receiving Orenitram compared to patients receiving placebo improved their median 6MWD by approximately +23 meters (Hodges-Lehmann estimate; p=0.013, non-parametric analysis of covariance in accordance with the pre-specified statistical analysis plan) as compared to patients receiving placebo as demonstrated in (Figure 2).
 The within group median change from baseline was +25 meters for Orenitram and -5 meters for placebo at week 12 (N=228).
-Mean dose (±SD) in the Orenitram group was 2.3 ± 1.3, 3.2 ± 1.9, and 3.4 ± 1.9 mg BID at Weeks 4, 8, and 12, respectively with a maximum dose of 12 mg BID.
+Mean dose (±SD) in the Orenitram group was 2.3 ± 1.3, 3.2 ± 1.9, and 3.4 ± 1.9 mg BID at Weeks 4, 8, and 12, respectively, with a maximum dose of 12 mg BID.
 The distribution of the 6MWD change from baseline at Week 12 was also plotted across the range of observed values (Figure 3).
 
 Figure 2: Hodges-Lehmann Estimate of Treatment Effect by Visit for the Primary Analysis Population (Study 1)
@@ -31,13 +31,13 @@ The placebo-corrected median treatment effect on 6MWD was estimated (using the H
 
 Figure 4: Placebo Corrected Median Treatment Effect (Hodges-Lehmann estimate with 95% CI) on 6MWD Change from Baseline at Week 12 for Various Subgroups in the Primary Analysis Population (Study 1)
 
-Studies 2 and 3 (no effect on a background of ERA, PDE5 inhibitor, or both)
+Studies 2 and 3 (no effect on a background of ERA, PDE-5 inhibitor, or both)
 
 Studies 2 (N=350) and 3 (N=310) were 16-week, randomized, double-blind, placebo-controlled, international efficacy and safety studies of Orenitram in patients with WHO Group 1 PAH.
 The primary efficacy endpoint was placebo-corrected change in 6MWD from Baseline to Week 16.
 Patients were in WHO functional class II (~23%) and class III (~77%) with either idiopathic or heritable PAH (~66%), collagen vascular disease associated PAH (~29%), or PAH associated with HIV (1%) or congenital heart defect (4%).
 The patients' mean baseline 6MWD was approximately 340 meters.
-Approximately 40% were receiving both an ERA and a PDE5 inhibitor.
+Approximately 40% were receiving both an ERA and a PDE-5 inhibitor.
 The results did not demonstrate a benefit in exercise testing with median 6MWD at Week 16 (11 meters [Hodges-Lehmann estimate; p=0.072] and 10 meters [Hodges-Lehmann estimate; p=0.089], respectively).
 
 Long-Term Treatment of Pulmonary Hypertension
@@ -58,7 +58,9 @@ Patients were WHO Functional Class I or II and hemodynamically stable at baselin
 The primary endpoint of the study was the safety and tolerability of the transition.
 Successful transition was defined as transition from Remodulin to Orenitram at Week 4 (no longer receiving Remodulin) and clinically maintained on Orenitram through Week 24 (as measured by 6MWD and hemodynamics).
 
-All patients transitioned from Remodulin to Orenitram (median time to transition of 3 days;) with thirty-one patients (94%) completing transition in 5 days (range 2 to 29 days).Two subjects discontinued Orenitram.
+All patients transitioned from Remodulin to Orenitram (median time to transition of 3 days) with thirty-one patients (94%) completing transition in 5 days (range 2 to 29 days).
+Two subjects discontinued Orenitram.
 The mean Orenitram total daily dose at the end of transition was 27 mg ± 12 mg compared to a mean Remodulin dose prior to transition of 59 ng/kg/min (25 to 111 ng/kg/min).
-The mean Orenitram total daily dose at Week 24 was 36 mg ± 16 mg.After 24 weeks of treatment with Orenitram, 6MWD and hemodynamics remained stable.
+The mean Orenitram total daily dose at Week 24 was 36 mg ± 16 mg.
+After 24 weeks of treatment with Orenitram, 6MWD and hemodynamics remained stable.
 Without a control group, these data must be interpreted cautiously.

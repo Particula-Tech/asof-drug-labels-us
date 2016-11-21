@@ -4,7 +4,7 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-In a 12-week placebo-controlled monotherapy study (Study 1; WHO Group 1; functional class II-III), the most commonly reported adverse reactions that occurred in patients receiving Orenitram included: headache, diarrhea, nausea,, and flushing.
+In a 12-week placebo-controlled monotherapy study (Study 1; WHO Group 1; functional class II-III), the most commonly reported adverse reactions that occurred in patients receiving Orenitram included: headache, diarrhea, nausea, and flushing.
 Table 1 lists the most common adverse reactions that occurred at a rate on Orenitram at least 5% higher than on placebo.
 
 Orenitram patients in Table 1 for Study 1 (N = 151) had access to 0.25 mg tablets at randomization.
