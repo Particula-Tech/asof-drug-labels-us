@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA208464"
+  ],
+  "inn": "tenofovir-alafenamide",
+  "labeler": "Gilead Sciences, Inc.",
+  "package_ndcs": [
+    "61958-2301-1"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "tenofovir alafenamide fumarate",
+      "name": "VEMLIDY"
+    }
+  ],
+  "setid": "72e6b33c-0351-4070-9172-eeaa186c01d2",
+  "source": "dailymed"
+}
