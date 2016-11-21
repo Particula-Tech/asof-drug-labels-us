@@ -3,7 +3,7 @@
 ## 8.1 Pregnancy
 
 Pregnancy Category C Risk Summary There are no adequate and well-controlled studies with esomeprazole in pregnant women.
-Esomeprazole is the s-isomer of omeprazole.
+Esomeprazole is the S-isomer of omeprazole.
 Available epidemiologic data fail to demonstrate an increased risk of major congenital malformations or other adverse pregnancy outcomes with first trimester omeprazole use.
 Teratogenicity was not observed in animal reproduction studies with administration of oral esomeprazole magnesium in rats and rabbits with doses about 68 times and 42 times, respectively, an oral human dose of 40 mg (based on a body surface area basis for a 60 kg person).
 However, changes in bone morphology were observed in offspring of rats dosed through most of pregnancy and lactation at doses equal to or greater than approximately 34 times an oral human dose of 40 mg (see Animal Data).
@@ -13,7 +13,7 @@ Four epidemiological studies compared the frequency of congenital abnormalities 
 A population based retrospective cohort epidemiological study from the Swedish Medical Birth Registry, covering approximately 99% of pregnancies, from 1995-99, reported on 955 infants (824 exposed during the first trimester with 39 of these exposed beyond first trimester, and 131 exposed after the first trimester) whose mothers used omeprazole during pregnancy.
 The number of infants exposed in utero to omeprazole that had any malformation, low birth weight, low Apgar score, or hospitalization was similar to the number observed in this population.
 The number of infants born with ventricular septal defects and the number of stillborn infants was slightly higher in the omeprazole-exposed infants than the expected number in this population.
-A population-based retrospective cohort study covering all live births in Denmark from 1996-2009, reported on 1,800 live births whose mothers used omeprazole during the first trimester of pregnancy and 837, 317 live births whose mothers did not use any proton pump inhibitor.
+A population-based retrospective cohort study covering all live births in Denmark from 1996-2009, reported on 1,800 live births whose mothers used omeprazole during the first trimester of pregnancy and 837,317 live births whose mothers did not use any proton pump inhibitor.
 The overall rate of birth defects in infants born to mothers with first trimester exposure to omeprazole was 2.9% and 2.6% in infants born to mothers not exposed to any proton pump inhibitor during the first trimester.
 A retrospective cohort study reported on 689 pregnant women exposed to either H2 blockers or omeprazole in the first trimester (134 exposed to omeprazole) and 1,572 pregnant women unexposed to either during the first trimester.
 The overall malformation rate in offspring born to mothers with first trimester exposure to omeprazole, an H2-blocker, or were unexposed was 3.6%, 5.5%, and 4.1% respectively.
@@ -39,7 +39,7 @@ Caution should be exercised when esomeprazole sodium for injection is administer
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of esomeprazole sodium for injection have been established in pediatric patients 1 month to 17 years of age for short-term treatment of GERD with Erosive Esophagitis [see Clinical Pharmacology, Pharmacokinetics (12.3)].
+The safety and effectiveness of esomeprazole sodium for injection have been established in pediatric patients 1 month to 17 years of age for short-term treatment of GERD with Erosive Esophagitis [see Clinical Pharmacology (12.3)].
 However, effectiveness has not been established in patients less than 1 month of age.
 1 month to 17 years of age Use of esomeprazole sodium for injection in pediatric patients 1 month to 17 years of age for short-term treatment of GERD with Erosive Esophagitis is supported by: a) results observed from a pharmacokinetic (PK) study on esomeprazole sodium for injection performed in pediatric patients, b) predictions from a population PK model comparing I.V.
 PK data between adult and pediatric patients, and c) relationship between exposure and pharmacodynamic results obtained from adult I.V. and pediatric oral data and d) PK results already included in the current approved labeling and from adequate and well-controlled studies that supported the approval of esomeprazole sodium for injection for adults.
@@ -50,7 +50,7 @@ Increases in death were seen at the high dose, and at all doses of esomeprazole,
 
 ## 8.5 Geriatric Use
 
-Of the total number of patients who received oral esomeprazole in clinical trials, 1,459 were 65 to 74 years of age and 354 patients were ≥ 75 years of age.
+Of the total number of patients who received oral esomeprazole in clinical trials, 1,459 were 65 to 74 years of age and 354 patients were ≥75 years of age.
 No overall differences in safety and efficacy were observed between the elderly and younger individuals, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
 ## 8.6 Hepatic Impairment

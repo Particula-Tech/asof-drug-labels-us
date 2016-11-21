@@ -1,6 +1,8 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-General Information Esomeprazole sodium for injection should not be administered concomitantly with any other medications through the same intravenous site and/or tubing.
+General Information
+
+Esomeprazole sodium for injection should not be administered concomitantly with any other medications through the same intravenous site and/or tubing.
 The intravenous line should always be flushed with either 0.9% Sodium Chloride Injection, USP, Lactated Ringer’s Injection, USP or 5% Dextrose Injection, USP both prior to and after administration of esomeprazole sodium for injection.
 The admixture should be stored at room temperature up to 30°C (86°F) and should be administered within the designated time period as listed in Table 1 below.
 No refrigeration is required.

@@ -1,26 +1,48 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Risk of Concomitant Gastric Malignancy
+## 5.1 Presence of Gastric Malignancy
 
-Symptomatic response to therapy with esomeprazole does not preclude the presence of gastric malignancy.
+In adults, symptomatic response to therapy with esomeprazole does not preclude the presence of gastric malignancy.
+Consider additional follow-up and diagnostic testing in adult patients who have suboptimal response or an early symptomatic relapse after completing treatment with a PPI.
+In older patients also consider an endoscopy.
 
-## 5.2 Atrophic Gastritis
-
-Atrophic gastritis has been noted occasionally in gastric corpus biopsies from patients treated long-term with omeprazole, of which esomeprazole is an enantiomer.
-
-## 5.3 Acute Interstitial Nephritis
+## 5.2 Acute Interstitial Nephritis
 
 Acute interstitial nephritis has been observed in patients taking PPIs including esomeprazole.
 Acute interstitial nephritis may occur at any point during PPI therapy and is generally attributed to an idiopathic hypersensitivity reaction.
 Discontinue esomeprazole if acute interstitial nephritis develops [see Contraindications (4)].
 
-## 5.4 Clostridium difficile Associated Diarrhea
+## 5.3 Clostridium difficile-Associated Diarrhea
 
-Published observational studies suggest that PPI therapy like esomeprazole may be associated with an increased risk of Clostridium difficile associated diarrhea, especially in hospitalized patients.
+Published observational studies suggest that PPI therapy like esomeprazole may be associated with an increased risk of Clostridium difficile-associated diarrhea, especially in hospitalized patients.
 This diagnosis should be considered for diarrhea that does not improve [see Adverse Reactions (6.2)].
 Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
 
-## 5.5 Interaction with Clopidogrel
+## 5.4 Bone Fracture
+
+Several published observational studies suggest that proton pump inhibitor (PPI) therapy may be associated with an increased risk for osteoporosis-related fractures of the hip, wrist, or spine.
+The risk of fracture was increased in patients who received high-dose, defined as multiple daily doses, and long-term PPI therapy (a year or longer).
+Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
+Patients at risk for osteoporosis-related fractures should be managed according to established treatment guidelines [see Dosage and Administration (2) and Adverse Reactions (6.2)].
+
+## 5.5 Cutaneous and Systemic Lupus Erythematosus
+
+Cutaneous lupus erythematosus (CLE) and systemic lupus erythematosus (SLE) have been reported in patients taking PPIs, including esomeprazole.
+These events have occurred as both new onset and an exacerbation of existing autoimmune disease.
+The majority of PPI-induced lupus erythematosus cases were CLE.
+The most common form of CLE reported in patients treated with PPIs was subacute CLE (SCLE) and occurred within weeks to years after continuous drug therapy in patients ranging from infants to the elderly.
+Generally, histological findings were observed without organ involvement.
+Systemic lupus erythematosus (SLE) is less commonly reported than CLE in patients receiving PPIs.
+PPI associated SLE is usually milder than non-drug induced SLE.
+Onset of SLE typically occurred within days to years after initiating treatment primarily in patients ranging from young adults to the elderly.
+The majority of patients presented with rash; however, arthralgia and cytopenia were also reported.
+Avoid administration of PPIs for longer than medically indicated.
+If signs or symptoms consistent with CLE or SLE are noted in patients receiving esomeprazole, discontinue the drug and refer the patient to the appropriate specialist for evaluation.
+Most patients improve with discontinuation of the PPI alone in 4 to 12 weeks.
+Serological testing (e.g.
+ANA) may be positive and elevated serological test results may take longer to resolve than clinical manifestations.
+
+## 5.6 Interaction with Clopidogrel
 
 Avoid concomitant use of esomeprazole with clopidogrel.
 Clopidogrel is a prodrug.
@@ -29,13 +51,6 @@ The metabolism of clopidogrel to its active metabolite can be impaired by use wi
 Concomitant use of clopidogrel with 40 mg esomeprazole reduces the pharmacological activity of clopidogrel.
 When using esomeprazole consider alternative anti-platelet therapy [see Drug Interactions (7), Clinical Pharmacology (12.3)].
 
-## 5.6 Bone Fracture
-
-Several published observational studies suggest that proton pump inhibitor (PPI) therapy may be associated with an increased risk for osteoporosis-related fractures of the hip, wrist, or spine.
-The risk of fracture was increased in patients who received high-dose, defined as multiple daily doses, and long-term PPI therapy (a year or longer).
-Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
-Patients at risk for osteoporosis-related fractures should be managed according to established treatment guidelines [see Dosage and Administration (2), Adverse Reactions (6.2)].
-
 ## 5.7 Hypomagnesemia
 
 Hypomagnesemia, symptomatic and asymptomatic, has been reported rarely in patients treated with PPIs for at least three months, in most cases after a year of therapy.
@@ -43,7 +58,7 @@ Serious adverse events include tetany, arrhythmias, and seizures.
 In most patients, treatment of hypomagnesemia required magnesium replacement and discontinuation of the PPI.
 For patients expected to be on prolonged treatment or who take PPIs with medications such as digoxin or drugs that may cause hypomagnesemia (e.g., diuretics), health care professionals may consider monitoring magnesium levels prior to initiation of PPI treatment and periodically [see Adverse Reactions (6.2)].
 
-## 5.8 Concomitant use of Esomeprazole with St. John's Wort or Rifampin
+## 5.8 Concomitant Use of Esomeprazole with St. John's Wort or Rifampin
 
 Drugs which induce CYP2C19 or CYP3A4 (such as St. John’s Wort or rifampin) can substantially decrease esomeprazole concentrations [see Drug Interactions (7)].
 Avoid concomitant use of esomeprazole with St. John’s Wort or rifampin.
@@ -55,7 +70,7 @@ The increased CgA level may cause false positive results in diagnostic investiga
 Healthcare providers should temporarily stop esomeprazole treatment at least 14 days before assessing CgA levels and consider repeating the test if initial CgA levels are high.
 If serial tests are performed (e.g. for monitoring), the same commercial laboratory should be used for testing, as reference ranges between tests may vary [see Clinical Pharmacology (12.2)].
 
-## 5.10 Concomitant use of Esomeprazole with Methotrexate
+## 5.10 Concomitant Use of Esomeprazole with Methotrexate
 
 Literature suggests that concomitant use of PPIs with methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite, possibly leading to methotrexate toxicities.
 In high-dose methotrexate administration a temporary withdrawal of the PPI may be considered in some patients [see Drug Interactions (7.3)].

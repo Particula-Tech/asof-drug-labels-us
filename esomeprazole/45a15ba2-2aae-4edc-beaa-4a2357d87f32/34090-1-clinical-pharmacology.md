@@ -14,18 +14,19 @@ In the first study, 20 mg of esomeprazole sodium for injection was administered 
 Twenty-two healthy subjects were included in the study.
 In the second study, 40 mg of esomeprazole sodium for injection was administered intravenously once daily at constant rate over 30 minutes for 5 days.
 Thirty-eight healthy subjects were included in the study.
-Table 3
 
-Effect of Esomeprazole Sodium for Injection on Intragastric pH on Day 5
+Table 4 Effect of Esomeprazole Sodium for Injection on Intragastric pH on Day 5
 
 |  | Esomeprazole 20 mg (n=22) | Esomeprazole 40 mg (n=38) |
 | --- | --- | --- |
 | % Time Gastric pH>4 | 49.5 | 66.2 |
-| (95% CI) | 41.9 to 57.2 | 62.4 to 70 |
+| (95% CI) | 41.9 to 57.2 | 62.4 to 70.0 |
 
-Gastric pH was measured over a 24-hour period In a study in H. pylori negative healthy Caucasian volunteers (n = 24), the % time over 24 hours (95% CI) when intragastric pH was > 6 and > 7 was 52.3% (40.3 to 64.4) and 4.8% (1.8 to 7.8), respectively during administration of esomeprazole as an intravenous infusion of 80 mg over 30 minutes followed by a continuous infusion of 8 mg/h for 23.5 hours.
-In a study in H. pylori positive and H. pylori negative healthy Chinese subjects (overall n = 19), the % time over 24 hours (95% CI) when intragastric pH was > 6 and > 7 was 53% (45.6 to 60.3) and 15.1% (9.5 to 20.7) in the overall study population during administration of esomeprazole as an intravenous infusion of 80 mg over 30 minutes followed by a continuous infusion of 8 mg/h for 23.5 hours.
-When comparing H. pylori positive (n = 8) vs. negative (n = 11) subjects, the percentage of time in a 24 h period with intragastric pH > 6 [59% vs. 47%] and with pH > 7 [17% vs. 11%] tended to be larger in the H. pylori positive subjects.
+Gastric pH was measured over a 24-hour period
+
+In a study in H. pylori negative healthy Caucasian volunteers (n=24), the % time over 24 hours (95% CI) when intragastric pH was >6 and >7 was 52.3% (40.3 to 64.4) and 4.8% (1.8 to 7.8), respectively during administration of esomeprazole as an intravenous infusion of 80 mg over 30 minutes followed by a continuous infusion of 8 mg/h for 23.5 hours.
+In a study in H. pylori positive and H. pylori negative healthy Chinese subjects (overall n=19), the % time over 24 hours (95% CI) when intragastric pH was >6 and >7 was 53% (45.6 to 60.3) and 15.1% (9.5 to 20.7) in the overall study population during administration of esomeprazole as an intravenous infusion of 80 mg over 30 minutes followed by a continuous infusion of 8 mg/h for 23.5 hours.
+When comparing H. pylori positive (n=8) vs. negative (n=11) subjects, the percentage of time in a 24 h period with intragastric pH >6 [59% vs. 47%] and with pH >7 [17% vs. 11%] tended to be larger in the H. pylori positive subjects.
 Serum Gastrin Effects In oral studies, the effect of esomeprazole on serum gastrin concentrations was evaluated in approximately 2,700 patients in clinical trials up to 8 weeks and in over 1,300 patients for up to 6 to 12 months.
 The mean fasting gastrin level increased in a dose-related manner.
 This increase reached a plateau within two to three months of therapy and returned to baseline levels within four weeks after discontinuation of therapy.
@@ -46,20 +47,21 @@ Omeprazole given in oral doses of 30 or 40 mg for 2 to 4 weeks had no effect on 
 ## 12.3 Pharmacokinetics
 
 Absorption The pharmacokinetic profile of esomeprazole sodium for injection 20 mg and 40 mg was determined in 24 healthy volunteers for the 20 mg dose and 38 healthy volunteers for the 40 mg dose following once daily administration of 20 mg and 40 mg of esomeprazole sodium for injection by constant rate over 30 minutes for five days.
-The results are shown in the following table: Table 4
+The results are shown in the following table:
 
-Pharmacokinetic Parameters of Esomeprazole Following I.V.
+Table 5 Pharmacokinetic Parameters of Esomeprazole Following I.V.
 Dosing for 5 days
 
 | Parameter | Esomeprazole Sodium for Injection 20 mg | Esomeprazole Sodium for Injection 40 mg |
 | --- | --- | --- |
 | AUC (µmol*h/L) | 5.11 (3.96:6.61) | 16.21 (14.46:18.16) |
 | Cmax (µmol/L) | 3.86 (3.16:4.72) | 7.51 (6.93:8.13) |
-| t1/2 (h) | 1.05 (0.9:1.22) | 1.41 (1.3:1.52) |
+| t1/2 (h) | 1.05 (0.90:1.22) | 1.41 (1.30:1.52) |
 | Values represent the geometric mean (95% CI) |  |  |
 
-During administration of esomeprazole over 24 hours as an intravenous infusion of 80 mg over 30 minutes followed by a continuous infusion of 8 mg/h for 23.5 hours (for a total of 24 hours) in healthy volunteers (n = 24), esomeprazole PK parameters [geometric mean value (95% CI)] were as follows: AUCt 111.1 μmol*h/L (100.5 to 122.7 μmol*h/L), Cmax 15 μmol/L (13.5 to 16.6 μmol/L), and steady state plasma concentration (Css) 3.9 μmol/L (3.5 to 4.5 μmol/L).
-In a Caucasian healthy volunteer study evaluating esomeprazole 80 mg over 30 minutes, followed by 8 mg/h over 23.5 h, systemic esomeprazole exposures were modestly higher (~ 17%) in the CYP2C19 intermediate metabolizers (IM; n = 6) compared to extensive metabolizers (EM; n = 17) of CYP2C19.
+During administration of esomeprazole over 24 hours as an intravenous infusion of 80 mg over 30 minutes followed by a continuous infusion of 8 mg/h for 23.5 hours (for a total of 24 hours) in healthy volunteers (n=24), esomeprazole PK parameters [geometric mean value (95% CI)] were as follows: AUCt 111.1 μmol*h/L (100.5 to 122.7 μmol*h/L), Cmax 15.0 μmol/L (13.5 to 16.6 μmol/L), and steady state plasma concentration (Css) 3.9 μmol/L (3.5 to 4.5 μmol/L).
+
+In a Caucasian healthy volunteer study evaluating esomeprazole 80 mg over 30 minutes, followed by 8 mg/h over 23.5 h, systemic esomeprazole exposures were modestly higher (~ 17%) in the CYP2C19 intermediate metabolizers (IM; n=6) compared to extensive metabolizers (EM; n=17) of CYP2C19.
 Similar PK differences were noted across these genotypes in a Chinese healthy volunteer study that included 7 EMs and 11 IMs.
 There is very limited PK information for poor metabolizers (PM) from these studies.
 Distribution
@@ -81,7 +83,7 @@ During administration of esomeprazole over 24 hours as an intravenous infusion o
 Concomitant Use with Clopidogrel Results from a crossover study in healthy subjects have shown a pharmacokinetic interaction between clopidogrel (300 mg loading dose/75 mg daily maintenance dose) and esomeprazole (40 mg p.o. once daily) when co-administered for 30 days.
 Exposure to the active metabolite of clopidogrel was reduced by 35% to 40% over this time period.
 Pharmacodynamic parameters were also measured and demonstrated that the change in inhibition of platelet aggregation was related to the change in the exposure to clopidogrel active metabolite.
-Concomitant Use with Mycophenolate Mofetil Administration of omeprazole 20 mg twice daily for 4 days and a single 1,000 mg dose of MMF approximately one hour after the last dose of omeprazole to 12 healthy subjects in a cross-over study resulted in a 52% reduction in the Cmax and 23% reduction in the AUC of MPA.
+Concomitant Use with Mycophenolate Mofetil Administration of omeprazole 20 mg twice daily for 4 days and a single 1000 mg dose of MMF approximately one hour after the last dose of omeprazole to 12 healthy subjects in a cross-over study resulted in a 52% reduction in the Cmax and 23% reduction in the AUC of MPA.
 Specific Populations Investigation of age, gender, race, renal, and hepatic impairment and metabolizer status has been made previously with oral esomeprazole.
 The pharmacokinetics of esomeprazole is not expected to be affected differently by intrinsic or extrinsic factors after intravenous administration compared to oral administration.
 The same recommendations for dose adjustment in special populations are suggested for intravenous esomeprazole as for oral esomeprazole.
