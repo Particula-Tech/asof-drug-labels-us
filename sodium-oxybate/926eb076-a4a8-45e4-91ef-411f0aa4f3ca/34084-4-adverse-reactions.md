@@ -81,5 +81,5 @@ In controlled trials in narcolepsy, discontinuations of treatment due to adverse
 ## 6.2 Postmarketing Experience
 
 The following additional adverse reactions that have a likely causal relationship to Xyrem exposure have been identified during postmarketing use of Xyrem.
-These adverse reactions include: arthralgia, decreased appetite, fall, fluid retention, hangover, headache, hypersensitivity, hypertension, memory impairment, panic attack, vision blurred, and weight decreased.
+These adverse reactions include: arthralgia, decreased appetite, fall, fluid retention, hangover, headache, hypersensitivity, hypertension, memory impairment, nocturia, panic attack, vision blurred, and weight decreased.
 Because these reactions are reported voluntarily, it is not always possible to reliably estimate their frequency.

@@ -80,7 +80,7 @@ However, patients treated with Xyrem who become confused should be evaluated ful
 Anxiety occurred in 5.8% of the 874 patients receiving Xyrem in clinical trials in another population.
 The emergence of or increase in anxiety in patients taking Xyrem should be carefully monitored.
 
-Other neuropsychiatric reactions reported in Xyrem clinical trials included hallucinations, paranoia, psychosis, and agitation.
+Other neuropsychiatric reactions reported in Xyrem clinical trials and the post-marketing setting included hallucinations, paranoia, psychosis, aggression, and agitation.
 The emergence of thought disorders and/or behavior abnormalities requires careful and immediate evaluation.
 
 ## 5.7 Parasomnias

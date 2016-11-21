@@ -37,5 +37,5 @@ The recommended starting dose in patients with hepatic impairment is 2.25 g per 
 
 Pharmacokinetic and pharmacodynamic interactions have been observed when Xyrem is co-administered with divalproex sodium.
 For patients already stabilized on Xyrem, it is recommended that addition of divalproex sodium should be accompanied by an initial reduction in the nightly dose of Xyrem by at least 20%.
-For patients already taking divalproex sodium, it is recommended that prescribers use a lower starting Xyrem dose with introducing Xyrem.
+For patients already taking divalproex sodium, it is recommended that prescribers use a lower starting Xyrem dose when introducing Xyrem.
 Prescribers should monitor patient response and adjust dose accordingly [see Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
