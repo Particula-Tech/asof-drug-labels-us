@@ -5,7 +5,7 @@
 Ustekinumab is a human IgG1қ monoclonal antibody that binds with specificity to the p40 protein subunit used by both the IL-12 and IL-23 cytokines.
 IL-12 and IL-23 are naturally occurring cytokines that are involved in inflammatory and immune responses, such as natural killer cell activation and CD4+ T-cell differentiation and activation.
 In in vitro models, ustekinumab was shown to disrupt IL-12 and IL-23 mediated signaling and cytokine cascades by disrupting the interaction of these cytokines with a shared cell-surface receptor chain, IL-12Rβ1.
-The cytokines IL-12 and IL-23 have been implicated as important contributors to the chronic inflammation that is a hallmark of Crohn's Disease.
+The cytokines IL-12 and IL-23 have been implicated as important contributors to the chronic inflammation that is a hallmark of Crohn's disease.
 In animal models of colitis, genetic absence or antibody blockade of the p40 subunit of IL-12 and IL-23, the target of ustekinumab, was shown to be protective.
 
 ## 12.2 Pharmacodynamics
@@ -40,7 +40,7 @@ In a population pharmacokinetic analysis of ustekinumab, the clearance was 0.19 
 Metabolism
 
 The metabolic pathway of ustekinumab has not been characterized.
-As a human IgG1κ monoclonal antibody ustekinumab is expected to be degraded into small peptides and amino acids via catabolic pathways in the same manner as endogenous IgG.
+As a human IgG1κ monoclonal antibody, ustekinumab is expected to be degraded into small peptides and amino acids via catabolic pathways in the same manner as endogenous IgG.
 
 Specific Populations
 

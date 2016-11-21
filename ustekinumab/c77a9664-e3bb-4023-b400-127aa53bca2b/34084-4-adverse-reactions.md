@@ -67,7 +67,7 @@ The safety of STELARA® was assessed in 1407 patients with moderately to severel
 These 1407 patients included 40 patients who received a prior investigational intravenous ustekinumab formulation but were not included in the efficacy analyses.
 In Studies CD-1 and CD-2 there were 470 patients who received STELARA® 6 mg/kg as a weight-based single intravenous induction dose and 466 who received placebo [see Dosage and Administration (2.3)].
 Patients who were responders in either Study CD-1 or CD-2 were randomized to receive a subcutaneous maintenance regimen of either 90 mg STELARA® every 8 weeks, or placebo for 44 weeks in Study CD-3.
-Patients in these 3 studies may have received other concomitant therapies including aminosalicylates, immunomodulatory agents [azathioprine (AZA), 6-mercaptopurine (6-MP), methotrexate (MTX)], oral corticosteroids (prednisone or budesonide), and/or antibiotics for their Crohn's Disease [see Clinical Studies (14.3)].
+Patients in these 3 studies may have received other concomitant therapies including aminosalicylates, immunomodulatory agents [azathioprine (AZA), 6-mercaptopurine (6-MP), methotrexate (MTX)], oral corticosteroids (prednisone or budesonide), and/or antibiotics for their Crohn's disease [see Clinical Studies (14.3)].
 
 The overall safety profile of STELARA® was consistent with the safety profile seen in the psoriasis and psoriatic arthritis clinical studies.
 Common adverse reactions in Studies CD-1 and CD-2 and in Study CD-3 are listed in Tables 3 and 4, respectively.

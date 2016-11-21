@@ -9,7 +9,7 @@ STELARA® is indicated for the treatment of adult patients with moderate to seve
 STELARA® is indicated for the treatment of adult patients with active psoriatic arthritis.
 STELARA® can be used alone or in combination with methotrexate (MTX).
 
-## 1.3 Crohn's Disease
+## 1.3 Crohn's Disease (CD)
 
 STELARA® is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have:
 

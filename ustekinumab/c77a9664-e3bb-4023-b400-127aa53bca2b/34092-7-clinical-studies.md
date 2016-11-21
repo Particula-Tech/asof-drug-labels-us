@@ -159,7 +159,7 @@ At baseline, and throughout the study, approximately 39% of the patients were re
 The median baseline CDAI score was 286 in the STELARA® and 290 in the placebo group.
 
 In these induction studies, a greater proportion of patients treated with STELARA® achieved clinical response at Week 6 and clinical remission at Week 8 compared to placebo (see Table 9 for clinical response and remission rates).
-Clinical response and remission were significant as early as Week 3 in STELARA® treated patients and continued to improve through Week 8.
+Clinical response and remission were significant as early as Week 3 in STELARA®-treated patients and continued to improve through Week 8.
 
 Table 9: Induction of Clinical Response and Remission in CD-1Patient population consisted of patients who failed or were intolerant to TNF blocker therapy and CD-2Patient population consisted of patients who failed or were intolerant to corticosteroids or immunomodulators (e.g., 6-mercaptopurine, azathioprine, methotrexate) and previously received but not failed a TNF blocker or were never treated with a TNF blocker.
 

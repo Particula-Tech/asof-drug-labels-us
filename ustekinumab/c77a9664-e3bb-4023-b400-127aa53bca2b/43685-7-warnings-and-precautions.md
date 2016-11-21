@@ -40,7 +40,7 @@ In rodent models, inhibition of IL-12/IL-23p40 increased the risk of malignancy 
 
 The safety of STELARA® has not been evaluated in patients who have a history of malignancy or who have a known malignancy.
 
-There have been post marketing reports of the rapid appearance of multiple cutaneous squamous cell carcinomas in patients receiving STELARA® who had pre-existing risk factors for developing non-melanoma skin cancer.
+There have been post-marketing reports of the rapid appearance of multiple cutaneous squamous cell carcinomas in patients receiving STELARA® who had pre-existing risk factors for developing non-melanoma skin cancer.
 All patients receiving STELARA® should be monitored for the appearance of non-melanoma skin cancer.
 Patients greater than 60 years of age, those with a medical history of prolonged immunosuppressant therapy and those with a history of PUVA treatment should be followed closely [see Adverse Reactions (6.1)].
 
