@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA125544"
+  ],
+  "inn": "infliximab",
+  "labeler": "Pfizer Laboratories Div Pfizer Inc",
+  "package_ndcs": [
+    "0069-0809-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "infliximab-dyyb",
+      "name": "INFLECTRA"
+    }
+  ],
+  "setid": "37eaca10-d812-48bc-8b8e-b836bfa9968f",
+  "source": "dailymed"
+}
