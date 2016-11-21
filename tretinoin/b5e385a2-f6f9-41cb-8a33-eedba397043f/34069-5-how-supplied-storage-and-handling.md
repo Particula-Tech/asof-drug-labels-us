@@ -7,17 +7,13 @@ Avoid freezing.
 
 Keep this and all medications out of the reach of children.
 
-Manufactured by:
+Manufactured by: G&W NC Laboratories, LLC 1877 Kawai Road Lincolnton, NC 28092 USA
 
-Actavis Mid Atlantic LLC
-
-1877 Kawai Road
-
-Lincolnton, NC 28092 USA
+Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
 FORM NO. 0117
 
 Rev.
-9/13
+10/14
 
-VC4135
+VC4494

@@ -1,6 +1,6 @@
-# Patient Instructions
+# PATIENT INSTRUCTIONS
 
-TRETINOIN CREAM USP 0.025%
+TRETINOIN CREAM, USP 0.025%
 
 Acne Treatment
 
@@ -117,17 +117,13 @@ Once your acne is under control, you should continue regular application of tret
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-Manufactured by:
+Manufactured by: G&W NC Laboratories, LLC 1877 Kawai Road Lincolnton, NC 28092 USA
 
-Actavis Mid Atlantic LLC
-
-1877 Kawai Road
-
-Lincolnton, NC 28092 USA
+Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
 FORM NO. 0117
 
 Rev.
-9/13
+10/14
 
-VC4135
+VC4494

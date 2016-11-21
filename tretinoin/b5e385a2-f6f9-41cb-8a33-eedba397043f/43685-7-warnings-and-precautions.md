@@ -24,7 +24,7 @@ Concomitant topical medication, medicated or abrasive soaps and cleansers, soaps
 Particular caution should be exercised in using preparations containing sulfur, resorcinol, or salicylic acid with tretinoin cream.
 It also is advisable to “rest” a patient’s skin until the effects of such preparations subside before use of tretinoin cream is begun.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis, Mutagenesis and Impairment of Fertility
 
 In a life-time dermal study in CD-1 mice with another tretinoin cream, at 100 and 200 times the average recommended human topical clinical dose, a few skin tumors in the female mice and liver tumors in male mice were observed.
 The biological significance of these findings is not clear because they occurred at doses that exceeded the dermal maximally tolerated dose (MTD) of tretinoin and because they were within the background natural occurrence rate for these tumors in this strain of mice.
@@ -43,13 +43,13 @@ The mutagenic potential of tretinoin was evaluated in the Ames assay and in the 
 Dermal Segment I and III studies with tretinoin cream have not been performed in any species.
 In oral Segment I and Segment III studies in rats with tretinoin, decreased survival of neonates and growth retardation were observed at doses in excess of 2 mg/kg/day (> 400 times the average recommended human topical clinical dose).
 
-## Pregnancy
+## Pregnancy:
 
 Pregnancy Category C.
 
 ### Teratogenic Effects
 
-Oraltretinoin has been shown to be teratogenic in rats, mice, rabbits, hamsters, and subhuman primates.
+Oral tretinoin has been shown to be teratogenic in rats, mice, rabbits, hamsters, and subhuman primates.
 It was teratogenic and fetotoxic in rats when given orally in doses 1000 times the average recommended human topical clinical dose.
 However, variations in teratogenic doses among various strains of rats have been reported.
 In the cynomolgus monkey, which metabolically is closer to humans for tretinoin than other species examined, fetal malformations were reported at oral doses of 10 mg/kg/day or greater, but none were observed at 5 mg/kg/day (1000 times the average recommended human topical clinical dose), although increased skeletal variations were observed at all doses.
