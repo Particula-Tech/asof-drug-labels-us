@@ -1,221 +1,129 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-## Hypertension
+## 6.1 Clinical Trials Experience
 
-Losartan potassium tablets has been evaluated for safety in more than 3300 adult patients treated for essential hypertension and 4058 patients/subjects overall.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+Hypertension
+
+Losartan potassium tablet has been evaluated for safety in more than 3300 adult patients treated for essential hypertension and 4058 patients/subjects overall.
 Over 1200 patients were treated for over 6 months and more than 800 for over one year.
-In general, treatment with losartan potassium tablets was well-tolerated.
-The overall incidence of adverse experiences reported with losartan potassium tablets was similar to placebo.
 
-In controlled clinical trials, discontinuation of therapy due to clinical adverse experiences was required in 2.3 percent of patients treated with losartan potassium tablets and 3.7 percent of patients given placebo.
+Treatment with losartan potassium tablets was well-tolerated with an overall incidence of adverse events similar to that of placebo.
+In controlled clinical trials, discontinuation of therapy for adverse events occurred in 2.3% of patients treated with losartan potassium tablets and 3.7% of patients given placebo.
+In 4 clinical trials involving over 1000 patients on various doses (10 to 150 mg) of losartan potassium and over 300 patients given placebo, the adverse events that occurred in ≥2% of patients treated with losartan potassium tablets and more commonly than placebo were: dizziness (3% vs. 2%), upper respiratory infection (8% vs. 7%), nasal congestion (2% vs. 1%), and back pain (2% vs. 1%).
 
-The following table of adverse events is based on four 6- to 12-week, placebo-controlled trials involving over 1000 patients on various doses (10-150 mg) of losartan and over 300 patients given placebo.
-All doses of losartan are grouped because none of the adverse events appeared to have a dose-related frequency.
-The adverse experiences reported in ≥1% of patients treated with losartan and more commonly than placebo are shown in the table below.
+The following less common adverse reactions have been reported:
 
-Table 5
+Blood and lymphatic system disorders:
 
-|  | Losartan (n = 1075) Incidence % | Placebo (n = 334) Incidence % |
-| --- | --- | --- |
-| Musculoskeletal |  |  |
-| Cramp, muscle | 1 | 0 |
-| Pain, back | 2 | 1 |
-| Pain, leg | 1 | 0 |
-| Nervous System/ Psychiatric |  |  |
-| Dizziness | 3 | 2 |
-| Respiratory |  |  |
-| Congestion, nasal | 2 | 1 |
-| Infection, upper respiratory | 8 | 7 |
-| Sinusitis | 1 | 0 |
+Anemia.
 
-The following adverse events were also reported at a rate of 1% or greater in patients treated with losartan, but were as, or more frequent, in the placebo group: asthenia/fatigue, edema/swelling, abdominal pain, chest pain, nausea, headache, pharyngitis, diarrhea, dyspepsia, myalgia, insomnia,cough, sinus disorder.
+Psychiatric disorders:
 
-Adverse events occurred at about the same rates in men and women, older and younger patients, and Black and non-Black patients.
+Depression.
 
-A patient with known hypersensitivity to aspirin and penicillin, when treated with losartan, was withdrawn from study due to swelling of the lips and eyelids and facial rash, reported as angioedema, which returned to normal 5 days after therapy was discontinued.
+Nervous system disorders:
 
-Superficial peeling of palms and hemolysis were reported in one subject.
+Somnolence, headache, sleep disorders, paresthesia, migraine.
 
-In addition to the adverse events above, potentially important events that occurred in at least two patients/subjects exposed to losartan or other adverse events that occurred in <1% of patients in clinical studies are listed below.
-It cannot be determined whether these events were causally related to losartan:
+Ear and labyrinth disorders:
 
-Body as a Whole
+Vertigo, tinnitus.
 
-facial edema, fever, orthostatic effects, syncope
+Cardiac disorders:
 
-Cardiovascular
+Palpitations, syncope, atrial fibrillation, CVA.
 
-angina pectoris, second degree AV block, CVA, hypotension, myocardial infarction, arrhythmias including atrial fibrillation, palpitation, sinus bradycardia, tachycardia, ventricular tachycardia, ventricular fibrillation
+Respiratory, thoracic and mediastinal disorders:
 
-Digestive
+Dyspnea.
 
-anorexia, constipation, dental pain, dry mouth, flatulence, gastritis, vomiting
+Gastrointestinal disorders:
 
-Hematologic
+Abdominal pain, constipation, nausea, vomiting.
 
-anemia
+Skin and subcutaneous tissue disorders:
 
-Metabolic
+Urticaria, pruritus, rash, photosensitivity.
 
-gout
+Musculoskeletal and connective tissue disorders:
 
-Musculoskeletal
+Myalgia, arthralgia.
 
-arm pain, hip pain, joint swelling, knee pain, musculoskeletal pain, shoulder pain, stiffness, arthralgia, arthritis, fibromyalgia, muscle weakness
+Reproductive system and breast disorders:
 
-Nervous System/Psychiatric
+Impotence.
 
-anxiety, anxiety disorder, ataxia, confusion, depression, dream abnormality, hypesthesia, decreased libido, memory impairment, migraine, nervousness, paresthesia, peripheral neuropathy, panic disorder, sleep disorder, somnolence, tremor, vertigo
+General disorders and administration site conditions:
 
-Respiratory
+Edema.
 
-dyspnea, bronchitis, pharyngeal discomfort, epistaxis, rhinitis, respiratory congestion
-
-Skin
-
-alopecia, dermatitis, dry skin, ecchymosis, erythema, flushing, photosensitivity, pruritus, rash, sweating, urticaria
-
-Special Senses
-
-blurred vision, burning/stinging in the eye, conjunctivitis, taste perversion, tinnitus, decrease in visual acuity
-
-Urogenital
-
-impotence, nocturia, urinary frequency, urinary tract infection.
+Cough
 
 Persistent dry cough (with an incidence of a few percent) has been associated with ACE-inhibitor use and in practice can be a cause of discontinuation of ACE-inhibitor therapy.
 Two prospective, parallel-group, double-blind, randomized, controlled trials were conducted to assess the effects of losartan on the incidence of cough in hypertensive patients who had experienced cough while receiving ACE-inhibitor therapy.
 Patients who had typical ACE-inhibitor cough when challenged with lisinopril, whose cough disappeared on placebo, were randomized to losartan 50 mg, lisinopril 20 mg, or either placebo (one study, n=97) or 25 mg hydrochlorothiazide (n=135).
 The double-blind treatment period lasted up to 8 weeks.
-The incidence of cough is shown below.
+The incidence of cough is shown in Table 1 below.
 
-Table 6
+Table 1:
 
-| Study 1Demographic = (89% caucasian, 64 % female) | HCTZ | Losartan | Lisinopril |
+| Study 1 Demographics = (89% Caucasian, 64% female) | HCTZ | Losartan | Lisinopril |
 | --- | --- | --- | --- |
 | Cough | 25 % | 17 % | 69 % |
-| Study 2Demographic = (90% caucasian, 51 % female) | Placebo | Losartan | Lisinopril |
+| Study 2 Demographics = (90% Caucasian, 51% female) | Placebo | Losartan | Lisinopril |
 | Cough | 35 % | 29% | 62 % |
 
 These studies demonstrate that the incidence of cough associated with losartan therapy, in a population that all had cough associated with ACE-inhibitor therapy, is similar to that associated with hydrochlorothiazide or placebo therapy.
 
-Cases of cough, including positive re-challenges, have been reported with the use of losartan in post-marketing experience.
+Cases of cough, including positive re-challenges, have been reported with the use of losartan in postmarketing experience.
 
-### Pediatric Patients
+Hypertensive Patients with Left Ventricular Hypertrophy
 
-No relevant differences between the adverse experience profile for pediatric patients and that previously reported for adult patients were identified.
+In the Losartan Intervention for Endpoint (LIFE) study, adverse reactions with losartan were similar to those reported previously for patients with hypertension.
 
-## Hypertensive Patients with Left Ventricular Hypertrophy
+Nephropathy in Type 2 Diabetic Patients
 
-In the LIFE study, adverse events with losartan were similar to those reported previously for patients with hypertension.
+In the Reduction of Endpoints in NIDDM with the Angiotensin II Receptor Antagonist Losartan (RENAAL) study involving 1513 patients treated with losartan or placebo, the overall incidences of reported adverse events were similar for the two groups.
+Discontinuations of losartan because of side effects were similar to placebo (19% for losartan, 24% for placebo).
+The adverse events, regardless of drug relationship, reported with an incidence of ≥4% of patients treated with losartan and occurring with ≥2% difference in the losartan group vs. placebo on a background of conventional antihypertensive therapy, were asthenia/fatigue, chest pain, hypotension, orthostatic hypotension, diarrhea, anemia, hyperkalemia, hypoglycemia, back pain, muscular weakness, and urinary tract infection.
 
-## Nephropathy in Type 2 Diabetic Patients
+## 6.2 Postmarketing Experience
 
-In the RENAAL study involving 1513 patients treated with losartan or placebo, the overall incidences of reported adverse experiences were similar for the two groups.
-Losartan was generally well tolerated as evidenced by a similar incidence of discontinuations due to side effects compared to placebo (19% for losartan, 24% for placebo).
-The adverse experiences, regardless of drug relationship, reported with an incidence of >4% of patients treated with losartan and occurring more commonly than placebo, on a background of conventional antihypertensive therapy, are shown in the table below.
-
-Table 7
-
-|  | Losartan and Conventional Antihypertensive Therapy Incidence % (n=751) | Placebo and Conventional Antihypertensive Therapy Incidence % (n=762) |
-| --- | --- | --- |
-| Body as a Whole |  |  |
-| Asthenia/Fatigue | 14 | 10 |
-| Chest Pain | 12 | 8 |
-| Fever | 4 | 3 |
-| Infection | 5 | 4 |
-| Influenza-like disease | 10 | 9 |
-| Trauma | 4 | 3 |
-| Cardiovascular |  |  |
-| Hypotension | 7 | 3 |
-| Orthostatic hypotension | 4 | 1 |
-| Digestive |  |  |
-| Diarrhea | 15 | 10 |
-| Dyspepsia | 4 | 3 |
-| Gastritis | 5 | 4 |
-| Endocrine |  |  |
-| Diabetic neuropathy | 4 | 3 |
-| Diabetic vascular disease | 10 | 9 |
-| Eyes, Ears, Nose and Throat |  |  |
-| Cataract | 7 | 5 |
-| Sinusitis | 6 | 5 |
-| Hemic |  |  |
-| Anemia | 14 | 11 |
-| Metabolic and Nutrition |  |  |
-| Hyperkalemia | 7 | 3 |
-| Hypoglycemia | 14 | 10 |
-| Weight gain | 4 | 3 |
-| Musculoskeletal |  |  |
-| Back pain | 12 | 10 |
-| Leg pain | 5 | 4 |
-| Knee pain | 5 | 4 |
-| Muscular weakness | 7 | 4 |
-| Nervous System |  |  |
-| Hypesthesia | 5 | 4 |
-| Respiratory |  |  |
-| Bronchitis | 10 | 9 |
-| Cough | 11 | 10 |
-| Skin |  |  |
-| Cellulitis | 7 | 6 |
-| Urogenital |  |  |
-| Urinary tract infection | 16 | 13 |
-
-## Post-Marketing Experience
-
-The following additional adverse reactions have been reported in post-marketing experience:
+The following additional adverse reactions have been reported in postmarketing experience with losartan potassium tablets.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency reliably or to establish a causal relationship to drug exposure:
 
 Digestive
 
-Hepatitis (reported rarely).
+Hepatitis.
 
 General Disorders and Administration Site Conditions
 
 Malaise.
 
-Hemic
+Hematologic
 
-Thrombocytopenia (reported rarely).
+Thrombocytopenia.
 
 Hypersensitivity
 
 Angioedema, including swelling of the larynx and glottis, causing airway obstruction and/or swelling of the face, lips, pharynx, and/or tongue has been reported rarely in patients treated with losartan; some of these patients previously experienced angioedema with other drugs including ACE inhibitors.
-Vasculitis, including Henoch-Schonlein purpura, has been reported.
+Vasculitis, including Henoch-SchÖnlein purpura, has been reported.
 Anaphylactic reactions have been reported.
 
 Metabolic and Nutrition
 
-Hyperkalemia, hyponatremia have been reported with losartan.
+Hyponatremia.
 
 Musculoskeletal
 
-Rare cases of rhabdomyolysis have been reported in patients receiving angiotensin II receptor blockers.
+Rhabdomyolysis.
 
-Nervous System Disorders
+Nervous system disorders
 
-Dysgeusia
-
-Respiratory
-
-Dry cough (see above).
+Dysgeusia.
 
 Skin
 
-Erythroderma
-
-Laboratory Test Findings
-
-In controlled clinical trials, clinically important changes in standard laboratory parameters were rarely associated with administration of losartan.
-
-Creatinine, Blood Urea Nitrogen
-
-Minor increases in blood urea nitrogen (BUN) or serum creatinine were observed in less than 0.1 percent of patients with essential hypertension treated with losartan alone (see PRECAUTIONS, Impaired Renal Function).
-
-Hemoglobin and Hematocrit
-
-Small decreases in hemoglobin and hematocrit (mean decreases of approximately 0.11 grams percent and 0.09 volume percent, respectively) occurred frequently in patients treated with losartan alone, but were rarely of clinical importance.
-No patients were discontinued due to anemia.
-
-Liver Function Tests
-
-Occasional elevations of liver enzymes and/or serum bilirubin have occurred.
-In patients with essential hypertension treated with losartan alone, one patient (<0.1%) was discontinued due to these laboratory adverse experiences.
+Erythroderma.

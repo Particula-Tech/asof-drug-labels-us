@@ -1,5 +1,6 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Losartan potassium tablets are contraindicated in patients who are hypersensitive to any component of this product.
+Losartan potassium tablets are contraindicated:
 
-Do not co-administer aliskiren with losartan potassium tablets in patients with diabetes.
+- In patients who are hypersensitive to any component of this product.
+- For coadministration with aliskiren in patients with diabetes.

@@ -1,39 +1,13 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Losartan Potassium Tablets USP, 25 mg are white, capsule shaped, biconvex, film-coated tablets, debossed with 'LU' on one side and 'P21' on the other side.
-They are supplied as follows:
+Losartan potassium tablet USP is a white film-coated tablet supplied as follows:
 
-NDC 68180-307-06 – Bottles of 30
-
-NDC 68180-307-09 – Bottles of 90
-
-NDC 68180-307-01 – Bottles of 100
-
-NDC 68180-307-02 – Bottles of 1000
-
-Losartan Potassium Tablets USP, 50 mg are white, capsule shaped, biconvex, film-coated tablets, debossed with 'L' and 'U' on either side of breakline on one side and 'P22' on the other side.
-They are supplied as follows:
-
-NDC 68180-308-06 – Bottles of 30
-
-NDC 68180-308-09 – Bottles of 90
-
-NDC 68180-308-01 – Bottles of 100
-
-NDC 68180-308-02 – Bottles of 1000
-
-Losartan Potassium Tablets USP, 100 mg are white, capsule shaped, biconvex, film-coated tablets, debossed with 'LU' on one side and 'P23' on the other side.
-They are supplied as follows:
-
-NDC 68180-309-06 – Bottles of 30
-
-NDC 68180-309-09 – Bottles of 90
-
-NDC 68180-309-01 – Bottles of 100
-
-NDC 68180-309-02 – Bottles of 1000
-
-## Storage
+| Losartan | Shape | Engraving |  | NDC 68180-xxxx-xx |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | One side | Other side | Bottle/30 | Bottle/90 | Bottle/100 | Bottle/1000 |
+| 25 mg | Capsule shaped | LU | P21 | 210-06 | 210-09 | 210-01 | 210-03 |
+| 50 mg | Capsule shaped | L and U on eitherside of breakline (Scored) | P22 | 211-06 | 211-09 | 211-01 | 211-03 |
+| 100 mg | Capsule shaped | LU | P23 | 212-06 | 212-09 | 212-01 | 212-03 |
 
 Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 Keep container tightly closed.
