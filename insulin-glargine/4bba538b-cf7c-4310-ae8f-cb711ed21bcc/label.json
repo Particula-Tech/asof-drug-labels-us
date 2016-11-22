@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA208673"
+  ],
+  "inn": "insulin-glargine",
+  "labeler": "Sanofi-Aventis U.S. LLC",
+  "package_ndcs": [
+    "0024-5761-05"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "insulin glargine and lixisenatide",
+      "name": "Soliqua 100/33"
+    }
+  ],
+  "setid": "4bba538b-cf7c-4310-ae8f-cb711ed21bcc",
+  "source": "dailymed"
+}
