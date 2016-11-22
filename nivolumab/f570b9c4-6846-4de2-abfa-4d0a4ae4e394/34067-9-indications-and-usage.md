@@ -24,3 +24,7 @@ OPDIVO is indicated for the treatment of patients with advanced renal cell carci
 OPDIVO is indicated for the treatment of patients with classical Hodgkin lymphoma (cHL) that has relapsed or progressed after autologous hematopoietic stem cell transplantation (HSCT) and post-transplantation brentuximab vedotin [see Clinical Studies (14.4)].
 This indication is approved under accelerated approval based on overall response rate.
 Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials [see Clinical Studies (14.4)].
+
+## 1.5 Squamous Cell Carcinoma of the Head and Neck
+
+OPDIVO is indicated for the treatment of patients with recurrent or metastatic squamous cell carcinoma of the head and neck (SCCHN) with disease progression on or after platinum-based therapy [see Clinical Studies (14.5)].

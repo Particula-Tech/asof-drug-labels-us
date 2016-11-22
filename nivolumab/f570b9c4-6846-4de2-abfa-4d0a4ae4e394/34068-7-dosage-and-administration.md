@@ -20,7 +20,11 @@ The recommended dose of OPDIVO is 240 mg administered as an intravenous infusion
 
 The recommended dose of OPDIVO is 3 mg/kg administered as an intravenous infusion over 60 minutes every 2 weeks until disease progression or unacceptable toxicity.
 
-## 2.5 Dose Modifications
+## 2.5 Recommended Dosage for SCCHN
+
+The recommended dose of OPDIVO is 3 mg/kg administered as an intravenous infusion over 60 minutes every 2 weeks until disease progression or unacceptable toxicity.
+
+## 2.6 Dose Modifications
 
 Recommendations for OPDIVO modifications are provided in Table 1.
 When OPDIVO is administered in combination with ipilimumab, if OPDIVO is withheld, ipilimumab should also be withheld.
@@ -64,7 +68,7 @@ Table 1: Recommended Dose Modifications for OPDIVO
 *Toxicity was graded per National Cancer Institute Common Terminology Criteria for Adverse Events.
 Version 4.0 (NCI CTCAE v4). a Resume treatment when adverse reaction returns to Grade 0 or 1.
 
-## 2.6 Preparation and Administration
+## 2.7 Preparation and Administration
 
 Visually inspect drug product solution for particulate matter and discoloration prior to administration.
 OPDIVO is a clear to opalescent, colorless to pale-yellow solution.

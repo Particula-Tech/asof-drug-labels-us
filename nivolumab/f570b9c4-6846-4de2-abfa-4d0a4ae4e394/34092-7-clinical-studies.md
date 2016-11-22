@@ -47,20 +47,22 @@ Table 14: Efficacy Results - Trial 4
 |  | OPDIVO (n=210) | Dacarbazine (n=208) |
 | --- | --- | --- |
 | Overall Survival |  |  |
-| Events (%) | 50 (24) | 96 (46) |
+| Deaths (%) | 50 (24) | 96 (46) |
 | Median, months (95% CI) | Not Reached | 10.8 (9.3, 12.1) |
-| Hazard ratio (95% CI) | 0.42 (0.30, 0.60) |  |
-| p-value | <0.0001a |  |
+| Hazard ratio (95% CI)a | 0.42 (0.30, 0.60) |  |
+| p-valueb,c | <0.0001 |  |
 | Progression-Free Survival |  |  |
-| Events (%) | 108 (51) | 163 (78) |
+| Disease progression or death (%) | 108 (51) | 163 (78) |
 | Median, months (95% CI) | 5.1 (3.5, 10.8) | 2.2 (2.1, 2.4) |
-| Hazard ratio (95% CI) | 0.43 (0.34, 0.56) |  |
+| Hazard ratio (95% CI)a | 0.43 (0.34, 0.56) |  |
 | p-value | <0.0001a |  |
 | Objective Response Rate | 34% | 9% |
 | (95% CI) | (28, 41) | (5, 13) |
 | Complete response rate | 4% | 1% |
 | Partial response rate | 30% | 8% |
-| a p-value is compared with the allocated alpha of 0.0021 for this interim analysis. |  |  |
+| a Based on a stratified proportional hazards model. |  |  |
+| b Based on stratified log-rank test. |  |  |
+| c p-value is compared with the allocated alpha of 0.0021 for this interim analysis. |  |  |
 
 Figure 1: Kaplan-Meier Curves of Overall Survival - Trial 4
 
@@ -95,7 +97,7 @@ Table 15: Efficacy Results in Trial 6
 |  | OPDIVO plus Ipilimumab (n=314) | OPDIVO (n=316) | Ipilimumab (n=315) |
 | --- | --- | --- | --- |
 | Progression-free Survival |  |  |  |
-| Number of events | 151 | 174 | 234 |
+| Disease progression or death | 151 | 174 | 234 |
 | Median in months (95% CI) | 11.5 (8.9, 16.7) | 6.9 (4.3, 9.5) | 2.9 (2.8, 3.4) |
 | Hazard ratioa (vs. ipilimumab) | 0.42 | 0.57 |  |
 | (95% CI) | (0.34, 0.51) | (0.47, 0.69) |  |
@@ -154,8 +156,8 @@ Table 16: Efficacy Results in Trial 2
 | Deaths (%) | 86 (64%) | 113 (82%) |
 | Median (months) | 9.2 | 6.0 |
 | (95% CI) | (7.3, 13.3) | (5.1, 7.3) |
-| p-valuea,b | 0.0002 |  |
-| Hazard ratio (95% CI)c | 0.59 (0.44, 0.79) |  |
+| Hazard ratio (95% CI)a | 0.59 (0.44, 0.79) |  |
+| p-valueb,c | 0.0002 |  |
 | Objective Response Rate | 27 (20%) | 12 (9%) |
 | (95% CI) | (14, 28) | (5, 15) |
 | p-value d | 0.0083 |  |
@@ -166,11 +168,7 @@ Table 16: Efficacy Results in Trial 2
 | Median (months) | 3.5 | 2.8 |
 | p-valuea | 0.0004 |  |
 | Hazard ratio (95% CI)c | 0.62 (0.47, 0.81) |  |
-
-1. a Based on stratified log-rank test.
-2. b p-value is compared with 0.0315 of the allocated alpha for this interim analysis.
-3. c Based on a stratified Cox proportional hazards model.
-4. d B ased on the stratified Cochran-Mantel-Haenszel test.
+| a Based on a stratified proportional hazards model. b Based on stratified log-rank test. c p-value is compared with.0315 of the allocated alpha for this interim analysis. d Based on the stratified Cochran-Mantel-Haenszel test. |  |  |
 
 Figure 6: Overall Survival - Trial 2
 
@@ -260,14 +258,14 @@ Table 18: Efficacy Results - Trial 5
 |  | OPDIVO (n=410) | Everolimus (n=411) |
 | --- | --- | --- |
 | Overall Survival |  |  |
-| Events (%) | 183 (45) | 215 (52) |
+| Deaths (%) | 183 (45) | 215 (52) |
 | Median survival in months (95% CI) | 25.0 (21.7, NE) | 19.6 (17.6, 23.1) |
-| Hazard ratio (95% CI) | 0.73a (0.60, 0.89) |  |
-| p-value | 0.0018b |  |
+| Hazard ratio (95% CI)a | 0.73 (0.60, 0.89) |  |
+| p-valueb,c | 0.0018 |  |
 | Confirmed Objective Response Rate (95% CI) | 21.5% (17.6, 25.8) | 3.9% (2.2, 6.2) |
 | Median duration of response in months (95% CI) | 23.0 (12.0, NE) | 13.7 (8.3, 21.9) |
 | Median time to onset of confirmed response in months (min, max) | 3.0 (1.4, 13.0) | 3.7 (1.5, 11.2) |
-| a Hazard ratio is obtained from a Cox proportional hazards model stratified by MSKCC risk group, number of prior anti-angiogenic therapies, and region with treatment as the sole covariate. b p-value is obtained from a two-sided log-rank test stratified by MSKCC risk group, number of prior anti-angiogenic therapies, and region. The corresponding O’Brien-Fleming efficacy boundary significance level is 0.0148. |  |  |
+| a Based on a stratified proportional hazards model. b Based on a stratified log rank test. c p-value is compared with.0148 of the allocated alpha for this interim analysis |  |  |
 
 Figure 10: Overall Survival - Trial 5
 
@@ -304,3 +302,47 @@ Table 19: Efficacy in cHL after Autologous HSCT and Brentuximab Vedotin
 | Median Duration of Response (months) (95% CI) Range | 8.7 (6.8, NE) 0.0+, 23.1+ |
 | Median Time to Response (months) Range | 2.1 0.7, 5.7 |
 | a Per 2007 revised International Working Group criteria. |  |
+
+## 14.5 Recurrent or Metastatic Squamous Cell Carcinoma of the Head and Neck (SCCHN)
+
+Trial 9 was a randomized (2:1), active-controlled, open-label study enrolling patients with metastatic or recurrent SCCHN who had experienced disease progression during or within 6 months of receiving platinum-based therapy administered in either the adjuvant, neo-adjuvant, primary (unresectable locally advanced) or metastatic setting.
+The trial excluded patients with autoimmune disease, medical conditions requiring immunosuppression, recurrent or metastatic carcinoma of the nasopharynx, squamous cell carcinoma of unknown primary histology, salivary gland or non-squamous histologies (e.g., mucosal melanoma), or untreated brain metastasis.
+Patients with treated brain metastases were eligible if neurologically stable.
+Patients were randomized to receive OPDIVO administered intravenously (IV) at 3 mg/kg every 2 weeks or investigator’s choice of:
+
+- •cetuximab 400 mg/m2 loading dose IV followed by 250 mg/m2 weekly,
+- •methotrexate 40 to 60 mg/m2 IV weekly, or
+- •docetaxel 30 to 40 mg/m2 IV weekly.
+- 
+
+Randomization was stratified by prior cetuximab treatment (yes/no).
+The first tumor assessments were conducted 9 weeks after randomization and continued every 6 weeks thereafter.
+The major efficacy outcome measure was OS.
+Additional efficacy outcome measures were PFS and ORR.
+
+In Trial 9, total of 361 patients were randomized; 240 patients to OPDIVO and 121 patients to investigator’s choice (45% received docetaxel, 43% received methotrexate, and 12% received cetuximab).
+The median age was 60 years (range: 28 to 83) with 31% ≥65 years of age, 83% were White, 12% Asian, and 4% were Black, and 83% male.
+Baseline ECOG performance status was 0 (20%) or 1 (78%), 76% were former/current smokers, 90% had Stage IV disease, 45% of patients received only one prior line of systemic therapy, the remaining 55% received two or more prior lines of systemic therapy, and 25% had HPVp16-positive tumors, 24% had HPV p16-negative tumors, and 51% had unknown status.
+
+The trial demonstrated a statistically significant improvement in OS for patients randomized to OPDIVO as compared with investigator’s choice at a pre-specified interim analysis (78% of the planned number of events for final analysis).
+The survival results are displayed in Table 20 and Figure 11.
+There were no statistically significant differences between the two arms for PFS (HR=0.89; 95% CI: 0.70, 1.13) or ORR (13.3% [95% CI: 9.3, 18.3] vs 5.8% [95% CI: 2.4, 11.6] for nivolumab and investigator’s choice, respectively).
+
+Table 20: Overall Survival in Trial 9
+
+|  | OPDIVO (n=240) | Everolimus (n=121) |
+| --- | --- | --- |
+| Overall Survival |  |  |
+| Deaths (%) | 133 (55) | 85 (70) |
+| Median (months) (95% CI) | 25.0 (5.5, 9.1) | 19.6 (4.0, 6.0) |
+| Hazard ratio (95% CI)a | 0.70 (0.53, 0.92) |  |
+| p-valueb,c | 0.0101 |  |
+| a Based on stratified proportional hazards model. b Based on stratified log rank test. c p-value is compared with.0227 of the allocated alpha for this interim analysis |  |  |
+
+Figure 11: Overall Survival - Trial 9
+
+Archival tumor specimens were retrospectively evaluated for PD-L1 expression using the PD-L1 IHC 28-8 pharmDx assay.
+Across the study population, 28% (101/361) of patients had non-quantifiable results.
+Among the 260 patients with quantifiable results, 43% (111/260) had PD-L1 negative SCCHN, defined as <1% of tumor cells expressing PD-L1, and 57% (149/260) had PD-L1 positive SCCHN, defined as ≥1% of tumor cells expressing PD-L1.
+In pre-specified exploratory subgroup analyses, the hazard ratio for survival was 0.89 (95% CI: 0.54, 1.45) with median survivals of 5.7 and 5.8 months for the nivolumab and chemotherapy arms, respectively, in the PD-L1 negative subgroup.
+The HR for survival was 0.55 (95% CI: 0.36, 0.83) with median survivals of 8.7 and 4.6 months for the nivolumab and chemotherapy arms, respectively, in the PD-L1 positive SCCHN subgroup.

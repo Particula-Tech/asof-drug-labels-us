@@ -21,7 +21,7 @@ The data in the Warnings and Precautions section reflect exposure to OPDIVO, as 
 In addition, clinically significant adverse reactions of OPDIVO administered with ipilimumab were evaluated in 407 patients with melanoma enrolled in Trial 6 (n=313) or a Phase 2 randomized study (n=94), administering OPDIVO with ipilimumab, supplemented by immune-mediated adverse reaction reports in ongoing clinical trials [see Warnings and Precautions (5.1, 5.8)].
 
 The data described below reflect exposure to OPDIVO as a single agent in Trials 1, 4, and 6, and to OPDIVO with ipilimumab in Trial 6, which are randomized, active-controlled trials conducted in patients with unresectable or metastatic melanoma.
-Also described below are single-agent OPDIVO data from Trials 2 and 3, which are randomized trials in patients with metastatic NSCLC, Trial 5, which is a randomized trial in patients with advanced RCC, and Trials 7 and 8, which are open-label, multiple-cohort trials in patients with cHL.
+Also described below are single-agent OPDIVO data from Trials 2 and 3, which are randomized trials in patients with metastatic NSCLC, Trial 5, which is a randomized trial in patients with advanced RCC, Trials 7 and 8, which are open-label, multiple-cohort trials in patients with cHL, and Trial 9, a randomized trial in patients with recurrent or metastatic SCCHN.
 
 ### Unresectable or Metastatic Melanoma
 
@@ -100,7 +100,7 @@ In this trial, 47% of patients received OPDIVO for greater than 6 months and 12%
 
 The trial excluded patients with autoimmune disease and patients requiring chronic systemic treatment with corticosteroids (>10 mg daily prednisone equivalent) or other immunosuppressive medications.
 
-The study population characteristics in the OPDIVO group and dacarbazine group were generally similar: 59% male, median age 65 years, 99.5% white, 61% with M1c stage disease, 74% with cutaneous melanoma, 11% with mucosal melanoma, 4% with brain metastasis, and 37% with elevated LDH at baseline.
+The trial population characteristics in the OPDIVO group and dacarbazine group: 59% male, median age 65 years, 99.5% white, 61% with M1c stage disease, 74% with cutaneous melanoma, 11% with mucosal melanoma, 4% with brain metastasis, and 37% with elevated LDH at baseline.
 There were more patients in the OPDIVO group with ECOG performance status 0 (71% vs. 59%).
 
 Adverse reactions led to permanent discontinuation of OPDIVO in 7% of patients and dose interruption in 26% of patients; no single type of adverse reaction accounted for the majority of OPDIVO discontinuations.
@@ -161,7 +161,7 @@ In the OPDIVO arm, 53% were exposed for ≥6 months and 32% for >1 year.
 
 Trial 6 excluded patients with autoimmune disease, a medical condition requiring systemic treatment with corticosteroids (more than 10 mg daily prednisone equivalent) or other immunosuppressive medication within 14 days of the start of study therapy, a positive test result for hepatitis B or C, or a history of HIV.
 
-The study population characteristics were: 65% male, median age 61 years, 97% White, baseline ECOG performance status 0 (73%) or 1 (27%), 93% with AJCC Stage IV disease, 58% with M1c stage disease; 36% with elevated LDH at baseline, 4% with a history of brain metastasis, and 22% had received adjuvant therapy.
+The trial population characteristics were: 65% male, median age 61 years, 97% White, baseline ECOG performance status 0 (73%) or 1 (27%), 93% with AJCC Stage IV disease, 58% with M1c stage disease; 36% with elevated LDH at baseline, 4% with a history of brain metastasis, and 22% had received adjuvant therapy.
 
 In Trial 6, serious adverse reactions (73% and 37%), adverse reactions leading to permanent discontinuation (43% and 14%) or to dosing delays (55% and 28%), and Grade 3 or 4 adverse reactions (72% and 44%) all occurred more frequently in the OPDIVO plus ipilimumab arm relative to the OPDIVO arm.
 
@@ -458,6 +458,31 @@ Table 13: Laboratory Abnormalities Worsening from Baseline Occurring in ≥10% o
 | Increased creatinine | 10 | 0 | 15 | 0 |  |  |  |  |  |
 | Increased bilirubin | 9 | 0.8 | 10 | 0 |  |  |  |  |  |
 | a Number of evaluable patients for the safety population ranges from 226 to 253. b Number of evaluable patients for the efficacy population ranges from 80 to 85. c Includes events occurring up to 30 days after last nivolumab dose. After an immune-mediate adverse reaction, reactions following nivolumab rechallenge were included if they occurred within 30 days of completing the initial nivolumab course. |  |  |  |  |  |  |  |  |  |
+
+### Recurrent or Metastatic Squamous Cell Carcinoma of the Head and Neck
+
+The safety of OPDIVO was evaluated in Trial 9, a randomized, active-controlled, open-label, multicenter trial in patients with recurrent or metastatic SCCHN with progression during or within 6 months of receiving prior platinum-based therapy [see Clinical Studies (14.5)].
+Patients received 3 mg/kg of OPDIVO (n=236) administered intravenously (IV) over 60 minutes every 2 weeks or investigator’s choice of either:
+
+- •cetuximab (n=13), 400 mg/m2 loading dose IV followed by 250 mg/m2 weekly
+- •or methotrexate (n=46) 40 to 60 mg/m2 IV weekly, or
+- •docetaxel (n=52) 30 to 40 mg/m2 IV weekly.
+
+The median duration of exposure to nivolumab was 1.9 months (range 1 day to 16.1+ months) in OPDIVO-treated patients.
+In this trial, 18% of patients received OPDIVO for greater than 6 months and 2.5% of patients received OPDIVO for greater than 1 year.
+
+Trial 9 excluded patients with active autoimmune disease, medical conditions requiring systemic immunosuppression, or recurrent or metastatic carcinoma of the nasopharynx, squamous cell carcinoma of unknown primary histology, salivary gland or non-squamous histologies (e.g., mucosal melanoma).
+
+The median age of all randomized patients was 60 years (range: 28 to 83); 28% of patients in the OPDIVO group were ≥65 years of age and 37% in the comparator group were ≥65 years of age, 83% were male and 83% were White, 12% were Asian, and 4% were Black.
+Baseline ECOG performance status was 0 (20%) or 1 (78%), 45% of patients received only one prior line of systemic therapy, the remaining 55% of patients had two or more prior lines of therapy, and 90% had prior radiation therapy.
+
+OPDIVO was discontinued in 14% of patients and was delayed in 24% of patients for an adverse reaction.
+Serious adverse reactions occurred in 49% of patients receiving OPDIVO.
+The most frequent serious adverse reactions reported in at least 2% of patients receiving OPDIVO were pneumonia, dyspnea, respiratory failure, respiratory tract infection, and sepsis.
+Adverse reactions and laboratory abnormalities occurring in patients with SCCHN were generally similar to those occurring in patients with melanoma and NSCLC.
+The most common adverse reactions occurring in >10% of OPDIVO-treated patients and at a higher incidence than investigator’s choice were cough and dyspnea.
+
+The most common laboratory abnormalities occurring in ≥10% of OPDIVO-treated patients and at a higher incidence than investigator’s choice were increased alkaline phosphatase, increased amylase, hypercalcemia, hyperkalemia, and increased TSH.
 
 ## 6.2 Immunogenicity
 
