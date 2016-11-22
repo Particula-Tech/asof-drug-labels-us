@@ -30,7 +30,7 @@ Ventricular Arrhythmias: If an increased number of ectopic beats are observed th
 Hypotension: At lower infusion rates, if hypotension occurs, the infusion rate should be rapidly increased until adequate blood pressure is obtained.
 If hypotension persists, dopamine HCl should be discontinued and a more potent vasoconstrictor agent such as norepinephrine should be administered.
 
-Occlusive Vascular Disease: Patients with a history of occlusive vascular disease (e.g., arteriosclerosis, arterial embolism, Raynaud’s disease, cold injury such as frostbite, diabetic endarteritis, and Buerger’s disease) should be closely monitored for any changes in color or temperature of the skin of the extremities.
+Occlusive Vascular Disease: Patients with a history of occlusive vascular disease (e.g., arteriosclerosis, arterial embolism, Raynaud's disease, cold injury such as frostbite, diabetic endarteritis, and Buerger's disease) should be closely monitored for any changes in color or temperature of the skin of the extremities.
 If a change in skin color or temperature occurs and is thought to be the result of compromised circulation to the extremities, the benefits of continued dopamine infusion should be weighed against the risk of possible necrosis.
 These changes may be reversed by decreasing the rate or discontinuing the infusion entirely.
 
@@ -38,7 +38,7 @@ Extravasation: Dopamine Hydrochloride in 5% Dextrose Injection, USP should be in
 Extravasation may cause necrosis and sloughing of surrounding tissue.
 Large veins of the antecubital fossa are preferred to veins of the dorsum of the hand or ankle.
 Administration into an umbilical arterial catheter is not recommended.
-Less suitable infusion sites should be used only when larger veins are unavailable and the patient’s condition requires immediate attention.
+Less suitable infusion sites should be used only when larger veins are unavailable and the patient's condition requires immediate attention.
 The physician should switch to a more suitable site as soon as possible and the infusion site in use should be continuously monitored for free flow.
 
 | IMPORTANT ─ Antidote for Peripheral Ischemia: To prevent sloughing and necrosis in ischemic areas, the area should be infiltrated as soon as possible with 10 to 15 mL of 0.9% Sodium Chloride Injection, USP, containing from 5 to 10 mg of Regitine® (brand of phentolamine) an adrenergic blocking agent. Pediatric dosage of Regitine® should be 0.1 ─ 0.2 mg/kg up to a maximum of 10 mg per dose. A syringe with a fine hypodermic needle should be used, and the solution liberally infiltrated throughout the ischemic area. Sympathetic blockade with phentolamine causes immediate and conspicuous local hyperemic changes if the area is infiltrated within 12 hours. Therefore, phentolamine should be given as soon as possible after the extravasation is noted. |

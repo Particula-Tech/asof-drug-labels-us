@@ -11,7 +11,7 @@ Do NOT add sodium bicarbonate or other alkalinizing substance, since dopamine is
 Dopamine Hydrochloride in 5% Dextrose Injection should be infused into a large vein whenever possible to prevent the infiltration of perivascular tissue adjacent to the infusion site.
 Extravasation may cause necrosis and sloughing of the surrounding tissue.
 Large veins of the antecubital fossa are preferred to veins of the dorsum of the hand or ankle.
-Less suitable infusion sites should be used only when larger veins are unavailable and the patient’s condition requires immediate attention.
+Less suitable infusion sites should be used only when larger veins are unavailable and the patient's condition requires immediate attention.
 The physician should switch to a more suitable site as soon as possible and the infusion site in use should be continuously monitored for free flow.
 
 The less concentrated 800 mcg/mL solution may be preferred when fluid expansion is not a problem.
@@ -43,7 +43,7 @@ Suggested Regimen:
    More than 50% of adult patients have been satisfactorily maintained on doses less than 20 mcg/kg/min.
    In patients who do not respond to these doses with adequate arterial pressures or urine flow, additional increments of dopamine may be given in an effort to produce an appropriate arterial pressure and central perfusion.
 3. 3.Treatment of all patients requires constant evaluation of therapy in terms of blood volume, augmentation of cardiac contractility, urine flow, cardiac output, blood pressure, and distribution of peripheral perfusion.
-   Dosage of dopamine should be adjusted according to the patient’s response.
+   Dosage of dopamine should be adjusted according to the patient's response.
    Diminution of established urine flow rate, increasing tachycardia or development of new dysrhythmias are reasons to consider decreasing or temporarily suspending the dosage.
 4. 4.As with all potent intravenously administered drugs, care should be taken to control the rate of infusion so as to avoid inadvertent administration of a bolus of the drug.
 
