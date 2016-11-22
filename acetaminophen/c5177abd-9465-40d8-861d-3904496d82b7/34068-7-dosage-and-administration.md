@@ -35,24 +35,26 @@ Dosing for Children
 
 ## 2.4 Instructions for Intravenous Administration
 
-For adult and adolescent patients weighing ≥ 50 kg requiring 1000 mg doses of OFIRMEV, administer the dose by inserting a vented intravenous set through the septum of the 100 mL vial.
+For adult and adolescent patients weighing ≥ 50 kg requiring 1000 mg doses of OFIRMEV, administer the dose by inserting a vented intravenous set through the septum of the 100 mL vial or a non-vented intravenous set through the administration spike port of the 100 mL bag.
 OFIRMEV may be administered without further dilution.
-Examine the vial contents before dose preparation or administering.
+Examine the container contents before dose preparation or administering.
 DO NOT USE if particulate matter or discoloration is observed.
-Administer the contents of the vial intravenously over 15-minutes.
+Administer the contents of the container intravenously over 15-minutes.
 Use aseptic technique when preparing OFIRMEV for intravenous infusion.
 Do not add other medications to the OFIRMEV vial or infusion device.
 
-For doses less than 1000 mg, the appropriate dose must be withdrawn from the vial and placed into a separate container prior to administration.
-Using aseptic technique, withdraw the appropriate dose (650 mg or weight-based) from an intact sealed OFIRMEV vial and place the measured dose in a separate empty, sterile container (e.g. glass bottle, plastic intravenous container, or syringe) for intravenous infusion to avoid the inadvertent delivery and administration of the total volume of the commercially available container.
-The entire 100 mL vial of OFIRMEV is not intended for use in patients weighing less than 50 kg.
-OFIRMEV is a single-use vial and the unused portion must be discarded.
+For doses less than 1000 mg, the appropriate dose must be withdrawn from the container and placed into a separate container prior to administration.
+Using aseptic technique, withdraw the appropriate dose (650 mg or weight-based) from an intact sealed OFIRMEV container and place the measured dose in a separate empty, sterile container (e.g., glass bottle, plastic intravenous container, or syringe) for intravenous infusion to avoid the inadvertent delivery and administration of the total volume of the commercially available container.
+The entire 100 mL container of OFIRMEV is not intended for use in patients weighing less than 50 kg.
+OFIRMEV is supplied in a single-dose container and the unused portion must be discarded.
 
 Place small volume pediatric doses up to 60 mL in volume in a syringe and administer over 15 minutes using a syringe pump.
 
 Monitor the end of the infusion in order to prevent the possibility of an air embolism, especially in cases where the OFIRMEV infusion is the primary infusion.
 
-Once the vacuum seal of the glass vial has been penetrated, or the contents transferred to another container, administer the dose of OFIRMEV within 6 hours.
+Once the container seal has been penetrated, or the contents transferred to another container, administer the dose of OFIRMEV within 6 hours.
+
+For bags, refrain from applying excessive pressure causing distortion to the bag, such as wringing or twisting, since such handling could result in breakage of the bag.
 
 Do not add other medications to the OFIRMEV solution.
 Diazepam and chlorpromazine hydrochloride are physically incompatible with OFIRMEV, therefore do not administer simultaneously.

@@ -5,7 +5,8 @@
   "inn": "acetaminophen",
   "labeler": "Mallinckrodt Hospital Products Inc.",
   "package_ndcs": [
-    "43825-102-01"
+    "43825-102-01",
+    "43825-102-03"
   ],
   "products": [
     {

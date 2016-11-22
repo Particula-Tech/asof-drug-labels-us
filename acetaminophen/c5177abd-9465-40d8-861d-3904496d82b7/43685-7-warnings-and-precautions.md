@@ -2,11 +2,11 @@
 
 ## 5.1 Hepatic Injury
 
-Administration of acetaminophen in doses higher than recommended may result in hepatic injury, including the risk of liver failure and death [see OVERDOSAGE (10)].
-Do not exceed the maximum recommended daily dose of acetaminophen [see DOSAGE AND ADMINISTRATION (2)].
+Administration of acetaminophen in doses higher than recommended may result in hepatic injury, including the risk of liver failure and death [see Overdosage (10)].
+Do not exceed the maximum recommended daily dose of acetaminophen [see Dosage and Administration (2)].
 The maximum recommended daily dose of acetaminophen includes all routes of acetaminophen administration and all acetaminophen-containing products administered, including combination products.
 
-Use caution when administering acetaminophen in patients with the following conditions: hepatic impairment or active hepatic disease, alcoholism, chronic malnutrition, severe hypovolemia (e.g., due to dehydration or blood loss), or severe renal impairment (creatinine clearance ≤ 30 mL/min) [see USE IN SPECIFIC POPULATIONS (8.6, 8.7)].
+Use caution when administering acetaminophen in patients with the following conditions: hepatic impairment or active hepatic disease, alcoholism, chronic malnutrition, severe hypovolemia (e.g., due to dehydration or blood loss), or severe renal impairment (creatinine clearance ≤ 30 mL/min) [see Use in Specific Populations (8.6, 8.7)].
 
 ## 5.2 Serious Skin Reactions
 
@@ -21,7 +21,7 @@ In particular, be careful to ensure that:
 - the dose in milligrams (mg) and milliliters (mL) is not confused;
 - the dosing is based on weight for patients under 50 kg;
 - infusion pumps are properly programmed; and
-- the total daily dose of acetaminophen from all sources does not exceed maximum daily limits [see DOSAGE AND ADMINISTRATION (2)].
+- the total daily dose of acetaminophen from all sources does not exceed maximum daily limits [see Dosage and Administration (2)].
 
 ## 5.4 Allergy and Hypersensitivity
 

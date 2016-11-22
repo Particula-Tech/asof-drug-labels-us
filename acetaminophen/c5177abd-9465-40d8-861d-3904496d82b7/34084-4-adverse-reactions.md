@@ -2,9 +2,9 @@
 
 The following serious adverse reactions are discussed elsewhere in the labeling:
 
-- Hepatic Injury [see WARNINGS AND PRECAUTIONS (5.1)]
-- Serious Skin Reactions [see WARNINGS AND PRECAUTIONS (5.2)]
-- Allergy and Hypersensitivity [see WARNINGS AND PRECAUTIONS (5.4)]
+- Hepatic Injury [see Warnings and Precautions (5.1)]
+- Serious Skin Reactions [see Warnings and Precautions (5.2)]
+- Allergy and Hypersensitivity [see Warnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trial Experience
 
@@ -20,7 +20,7 @@ All adverse reactions that occurred in adult patients treated with either OFIRME
 The most common adverse events in adult patients treated with OFIRMEV (incidence ≥ 5% and greater than placebo) were nausea, vomiting, headache, and insomnia.
 
 Table 3.
-Treatment-Emergent Adverse Reactions Occurring ≥ 3% of OFIRMEV-treated Patients and at a greater frequency than Placebo in Placebo-Controlled, Repeated Dose Studies
+Treatment-Emergent Adverse Reactions Occurring in ≥ 3% of OFIRMEV-treated Patients and at a greater frequency than Placebo in Placebo-Controlled, Repeated Dose Studies
 
 | System Organ Class – Preferred Term | OFIRMEV (N=402) n (%) | Placebo (N=379) n (%) |
 | --- | --- | --- |
