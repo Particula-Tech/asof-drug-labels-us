@@ -10,11 +10,11 @@ CII
 
 Each tablet contains: Morphine Sulfate USP.......15 mg
 
-PHARMACIST: PLEASE DISPENSE WITH MEDICATION GUIDE PROVIDED WITH PRODUCT
+PHARMACIST: Obtain Medication Guide as instructed in package insert and dispense to patients.
 
 Mallinckrodt™
 
-L00M24 Rev 02/2016
+L00M24 Rev 08/2016
 
 # PRINCIPAL DISPLAY PANEL - 30 mg
 
@@ -28,11 +28,11 @@ CII
 
 Each tablet contains: Morphine Sulfate USP.......30 mg
 
-PHARMACIST: PLEASE DISPENSE WITH MEDICATION GUIDE PROVIDED WITH PRODUCT
+PHARMACIST: Obtain Medication Guide as instructed in package insert and dispense to patients.
 
 Mallinckrodt™
 
-L00M27 Rev 02/2016
+L00M27 Rev 08/2016
 
 # PRINCIPAL DISPLAY PANEL - 60 mg
 
@@ -46,11 +46,11 @@ CII
 
 Each tablet contains: Morphine Sulfate USP.......60 mg
 
-PHARMACIST: PLEASE DISPENSE WITH MEDICATION GUIDE PROVIDED WITH PRODUCT
+PHARMACIST: Obtain Medication Guide as instructed in package insert and dispense to patients.
 
 Mallinckrodt™
 
-L00M29 Rev 02/2016
+L00M29 Rev 08/2016
 
 # PRINCIPAL DISPLAY PANEL - 100 mg
 
@@ -66,11 +66,11 @@ Each tablet contains: Morphine Sulfate USP.......100 mg
 
 for use in opioid-tolerant patients only
 
-PHARMACIST: PLEASE DISPENSE WITH MEDICATION GUIDE PROVIDED WITH PRODUCT
+PHARMACIST: Obtain Medication Guide as instructed in package insert and dispense to patients.
 
 Mallinckrodt™
 
-L00M38 Rev 02/2016
+L00M38 Rev 08/2016
 
 # PRINCIPAL DISPLAY PANEL - 200 mg
 
@@ -86,8 +86,8 @@ Each tablet contains: Morphine Sulfate USP.......200 mg
 
 for use in opioid-tolerant patients only
 
-PHARMACIST: PLEASE DISPENSE WITH MEDICATION GUIDE PROVIDED WITH PRODUCT
+PHARMACIST: Obtain Medication Guide as instructed in package insert and dispense to patients.
 
 Mallinckrodt™
 
-L00M42 Rev 02/2016
+L00M42 Rev 08/2016

@@ -62,3 +62,5 @@ Healthcare professionals can telephone Mallinckrodt at 1-800-778-7898, or visit 
 Disposal of Unused Morphine Sulfate Extended-Release Tablets
 
 Advise patients to flush the unused tablets down the toilet when morphine sulfate extended-release tablets are no longer needed.
+
+An electronic copy of this medication guide can be obtained from www.mallinckrodt.com/Medguide/L20M55.pdf or by calling 1-800-778-7898 for alternate delivery options.
