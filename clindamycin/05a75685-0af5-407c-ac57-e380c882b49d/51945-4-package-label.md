@@ -108,9 +108,9 @@ Pfizer Injectables
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 600 mg/4 mL Vial Carton
+# PRINCIPAL DISPLAY PANEL - 600 mg/4 mL ADD-Vantage Vial Carton
 
-25—4 mL Single Dose ADD-Vantage™ Vials
+25—4 mL Single Dose ADD-Vantage® Vials
 
 NDC 0009-3124-03 Contains 25 of NDC 0009-3124-01
 
@@ -136,7 +136,7 @@ Pfizer Injectables
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 900 mg/6 mL Vial Carton
+# PRINCIPAL DISPLAY PANEL - 900 mg/6 mL ADD-Vantage Vial Carton
 
 25—6 mL Single Dose ADD-Vantage® Vials
 
@@ -290,7 +290,7 @@ Pfizer Injectables
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 300 mg/2 mL ADD-vantage Vial Carton
+# PRINCIPAL DISPLAY PANEL - 300 mg/2 mL ADD-Vantage Vial Carton
 
 25—2 mL Single Dose ADD-Vantage® Vials
 
