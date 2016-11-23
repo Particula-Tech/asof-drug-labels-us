@@ -1,20 +1,29 @@
 # 6 ADVERSE REACTIONS
 
+The following serious adverse reactions are described below and elsewhere in labeling:
+
+- •Acute Interstitial Nephritis [see Warnings and Precautions (5.2)]
+- •Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.3)]
+- •Bone Fracture [see Warnings and Precautions (5.4)]
+- •Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)]
+- •Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.7)]
+- •Hypomagnesemia [see Warnings and Precautions (5.8)]
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 ### Adults
 
-The safety of esomeprazole was evaluated in over 15,000 patients (aged 18 to 84 years) in clinical trials worldwide including over 8,500 patients in the United States and over 6,500 patients in Europe and Canada.
+The safety of esomeprazole magnesium delayed-release capsules was evaluated in over 15,000 patients (aged 18 to 84 years) in clinical trials worldwide including over 8,500 patients in the United States and over 6,500 patients in Europe and Canada.
 Over 2,900 patients were treated in long-term studies for up to 6 to 12 months.
-In general, esomeprazole was well tolerated in both short and long-term clinical trials.
+In general, esomeprazole magnesium delayed-release capsules were well tolerated in both short and long-term clinical trials.
 
-The safety in the treatment of healing of erosive esophagitis was assessed in four randomized comparative clinical trials, which included 1,240 patients on esomeprazole 20 mg, 2,434 patients on esomeprazole 40 mg, and 3,008 patients on omeprazole 20 mg daily.
+The safety in the treatment of healing of erosive esophagitis was assessed in four randomized comparative clinical trials, which included 1,240 patients on esomeprazole magnesium delayed-release capsules 20 mg, 2,434 patients on esomeprazole magnesium delayed-release capsules 40 mg, and 3,008 patients on omeprazole 20 mg daily.
 The most frequently occurring adverse reactions (≥ 1%) in all three groups were headache (5.5, 5, and 3.8, respectively) and diarrhea (no difference among the three groups).
-Nausea, flatulence, abdominal pain, constipation, and dry mouth occurred at similar rates among patients taking esomeprazole or omeprazole.
+Nausea, flatulence, abdominal pain, constipation, and dry mouth occurred at similar rates among patients taking esomeprazole magnesium delayed-release capsules or omeprazole.
 
-Additional adverse reactions that were reported as possibly or probably related to esomeprazole with an incidence < 1% are listed below by body system:
+Additional adverse reactions that were reported as possibly or probably related to esomeprazole magnesium delayed-release capsules with an incidence < 1% are listed below by body system:
 
 Body as a Whole: abdomen enlarged, allergic reaction, asthenia, back pain, chest pain, substernal chest pain, facial edema, peripheral edema, hot flushes, fatigue, fever, flu-like disorder, generalized edema, leg edema, malaise, pain, rigors;
 
@@ -30,7 +39,7 @@ Hematologic: anemia, anemia hypochromic, cervical lymphadenopathy, epistaxis, le
 
 Hepatic: bilirubinemia, hepatic function abnormal, SGOT increased, SGPT increased;
 
-Metabolic/Nutritional: glycosuria, hyperuricemia, hyponatremia, increased alkaline phosphatase, thirst, vitamin B12 deficiency, weight increase, weight decrease;
+Metabolic/Nutritional: glycosuria, hyperuricemia, hyponatremia, increased alkaline phosphatase, thirst, Vitamin B-12 deficiency, weight increase, weight decrease;
 
 Musculoskeletal: arthralgia, arthritis aggravated, arthropathy, cramps, fibromyalgia syndrome, hernia, polymyalgia rheumatica;
 
@@ -48,7 +57,7 @@ Urogenital: abnormal urine, albuminuria, cystitis, dysuria, fungal infection, he
 
 Visual: conjunctivitis, vision abnormal.
 
-The following potentially clinically significant laboratory changes in clinical trials, irrespective of relationship to esomeprazole, were reported in ≤ 1% of patients: increased creatinine, uric acid, total bilirubin, alkaline phosphatase, ALT, AST, hemoglobin, white blood cell count, platelets, serum gastrin, potassium, sodium, thyroxine and thyroid stimulating hormone [see Clinical Pharmacology (12)].
+The following potentially clinically significant laboratory changes in clinical trials, irrespective of relationship to esomeprazole magnesium delayed-release capsules, were reported in ≤ 1% of patients: increased creatinine, uric acid, total bilirubin, alkaline phosphatase, ALT, AST, hemoglobin, white blood cell count, platelets, serum gastrin, potassium, sodium, thyroxine and thyroid stimulating hormone [see Clinical Pharmacology (12)].
 Decreases were seen in hemoglobin, white blood cell count, platelets, potassium, sodium, and thyroxine.
 
 Endoscopic findings that were reported as adverse reactions include: duodenitis, esophagitis, esophageal stricture, esophageal ulceration, esophageal varices, gastric ulcer, gastritis, hernia, benign polyps or nodules, Barrett’s esophagus, and mucosal discoloration.
@@ -57,23 +66,23 @@ The incidence of treatment-related adverse reactions during 6-month maintenance 
 There were no differences in types of related adverse reactions seen during maintenance treatment up to 12 months compared to short-term treatment.
 
 Two placebo-controlled studies were conducted in 710 patients for the treatment of symptomatic gastroesophageal reflux disease.
-The most common adverse reactions that were reported as possibly or probably related to esomeprazole were diarrhea (4.3%), headache (3.8%), and abdominal pain (3.8%).
+The most common adverse reactions that were reported as possibly or probably related to esomeprazole magnesium delayed-release capsules were diarrhea (4.3%), headache (3.8%), and abdominal pain (3.8%).
 
 ### Pediatrics
 
-The safety of esomeprazole was evaluated in 316 pediatric and adolescent patients aged 1 to 17 years in four clinical trials for the treatment of symptomatic GERD [see Clinical Studies (14.2)].
+The safety of esomeprazole magnesium delayed-release capsules was evaluated in 316 pediatric and adolescent patients aged 1 to 17 years in four clinical trials for the treatment of symptomatic GERD [see Clinical Studies (14.2)].
 In 109 pediatric patients aged 1 to 11 years, the most frequently reported (at least 1%) treatment-related adverse reactions in these patients were diarrhea (2.8%), headache (1.9%) and somnolence (1.9%).
 In 149 pediatric patients aged 12 to 17 years the most frequently reported (at least 2%) treatment-related adverse reactions in these patients were headache (8.1%), abdominal pain (2.7%), diarrhea (2%), and nausea (2%).
 
 No new safety concerns were identified in pediatric patients.
 
-## 6.2 Post-marketing Experience
+## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of esomeprazole.
+The following adverse reactions have been identified during post-approval use of esomeprazole magnesium delayed-release capsules.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 These reports are listed below by body system:
 
-Blood And Lymphatic: agranulocytosis, pancytopenia;
+Blood and Lymphatic: agranulocytosis, pancytopenia;
 
 Eye: blurred vision;
 
@@ -81,9 +90,9 @@ Gastrointestinal: pancreatitis; stomatitis; microscopic colitis;
 
 Hepatobiliary: hepatic failure, hepatitis with or without jaundice;
 
-Immune System: anaphylactic reaction/shock;
+Immune System: anaphylactic reaction/shock; systemic lupus erythematosus;
 
-Infections and Infestations: GI candidiasis; Clostridium difficile associated diarrhea;
+Infections and Infestations: GI candidiasis; Clostridium difficile-associated diarrhea;
 
 Metabolism and Nutritional Disorders: hypomagnesemia,with or without hypocalcemia and/or hypokalemia;
 
@@ -99,4 +108,4 @@ Reproductive System and Breast: gynecomastia;
 
 Respiratory, Thoracic, and Mediastinal: bronchospasm;
 
-Skin and Subcutaneous Tissue: alopecia, erythema multiforme, hyperhidrosis, photosensitivity, Stevens-Johnson syndrome, toxic epidermal necrolysis (some fatal).
+Skin and Subcutaneous Tissue: alopecia, erythema multiforme, hyperhidrosis, photosensitivity, Stevens-Johnson syndrome, toxic epidermal necrolysis (some fatal), cutaneous lupus erythematosus.

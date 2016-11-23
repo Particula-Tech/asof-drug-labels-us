@@ -1,8 +1,8 @@
-PRINCIPAL DISPLAY PANEL – 20 mg
+# PRINCIPAL DISPLAY PANEL – 20 mg
 
 NDC 0378-2350-93
 
-Esomeprazole Magnesium Delayed-release Capsules, USP 20 mg*
+Esomeprazole Magnesium Delayed-Release Capsules, USP 20 mg*
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
@@ -23,7 +23,7 @@ Made in India
 
 Mylan.com
 
-RMX2350H1
+RMX2350H2
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -31,11 +31,11 @@ Keep container tightly closed.
 
 Code No.: MH/DRUGS/25/NKD/89
 
-PRINCIPAL DISPLAY PANEL – 40 mg
+# PRINCIPAL DISPLAY PANEL – 40 mg
 
 NDC 0378-2351-93
 
-Esomeprazole Magnesium Delayed-release Capsules, USP 40 mg*
+Esomeprazole Magnesium Delayed-Release Capsules, USP 40 mg*
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
@@ -56,7 +56,7 @@ Made in India
 
 Mylan.com
 
-RMX2351H1
+RMX2351H2
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 

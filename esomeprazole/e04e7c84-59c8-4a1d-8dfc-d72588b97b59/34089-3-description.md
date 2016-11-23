@@ -7,7 +7,7 @@ Its molecular formula is C34H36MgN6O6S2 with molecular weight of 713.12 on an an
 The structural formula is:
 
 The magnesium salt is an off-white to pale cream colored powder.
-It is slightly soluble in methanol, and practically insoluble in heptane.
+It is slightly soluble in water.
 The stability of esomeprazole magnesium is a function of pH; it rapidly degrades in acidic media, but it has acceptable stability under alkaline conditions.
 At pH 6.8 (buffer), the half-life of the magnesium salt is about 19 hours at 25°C and about 8 hours at 37°C.
 

@@ -21,7 +21,7 @@ Concomitant administration with omeprazole and drugs such as atazanavir and nelf
 ### Increased Concentrations of Saquinavir
 
 For other antiretroviral drugs, such as saquinavir, elevated serum levels have been reported, with an increase in AUC by 82%, in Cmax by 75%, and in Cmin by 106%, following multiple dosing of saquinavir/ritonavir (1000 mg/100 mg) twice daily for 15 days with omeprazole 40 mg daily co-administered days 11 to 15.
-Therefore, clinical and laboratory monitoring for saquinavir toxicity is recommended during concurrent use with esomeprazole.
+Therefore, clinical and laboratory monitoring for saquinavir toxicity is recommended during concurrent use with esomeprazole magnesium delayed-release capsules.
 Dose reduction of saquinavir should be considered from the safety perspective for individual patients.
 
 There are also some antiretroviral drugs of which unchanged serum levels have been reported when given with omeprazole.
@@ -30,15 +30,14 @@ There are also some antiretroviral drugs of which unchanged serum levels have be
 
 Due to its effects on gastric acid secretion, esomeprazole can reduce the absorption of drugs where gastric pH is an important determinant of their bioavailability.
 Like with other drugs that decrease the intragastric acidity, the absorption of drugs such as ketoconazole, atazanavir, iron salts, erlotinib, and mycophenolate mofetil (MMF) can decrease, while the absorption of drugs such as digoxin can increase during treatment with esomeprazole.
-
 Esomeprazole is an enantiomer of omeprazole.
 Concomitant treatment with omeprazole (20 mg daily) and digoxin in healthy subjects increased the bioavailability of digoxin by 10% (30% in two subjects).
-Co-administration of digoxin with esomeprazole is expected to increase the systemic exposure of digoxin.
-Therefore, patients may need to be monitored when digoxin is taken concomitantly with esomeprazole.
+Co-administration of digoxin with esomeprazole magnesium delayed-release capsules is expected to increase the systemic exposure of digoxin.
+Therefore, patients may need to be monitored when digoxin is taken concomitantly with esomeprazole magnesium delayed-release capsules.
 
 Co-administration of omeprazole in healthy subjects and in transplant patients receiving MMF has been reported to reduce the exposure to the active metabolite, mycophenolic acid (MPA), possibly due to a decrease in MMF solubility at an increased gastric pH.
-The clinical relevance of reduced MPA exposure on organ rejection has not been established in transplant patients receiving esomeprazole and MMF.
-Use esomeprazole with caution in transplant patients receiving MMF [see Clinical Pharmacology (12.3)].
+The clinical relevance of reduced MPA exposure on organ rejection has not been established in transplant patients receiving esomeprazole magnesium delayed-release capsules and MMF.
+Use esomeprazole magnesium delayed-release capsules with caution in transplant patients receiving MMF [see Clinical Pharmacology (12.3)].
 
 ## 7.3 Effects on Hepatic Metabolism/Cytochrome P-450 Pathways
 
@@ -47,7 +46,7 @@ In vitro and in vivo studies have shown that esomeprazole is not likely to inhib
 No clinically relevant interactions with drugs metabolized by these CYP enzymes would be expected.
 Drug interaction studies have shown that esomeprazole does not have any clinically significant interactions with phenytoin, warfarin, quinidine, clarithromycin, or amoxicillin.
 
-However, post-marketing reports of changes in prothrombin measures have been received among patients on concomitant warfarin and esomeprazole therapy.
+However, postmarketing reports of changes in prothrombin measures have been received among patients on concomitant warfarin and esomeprazole therapy.
 Increases in INR and prothrombin time may lead to abnormal bleeding and even death.
 Patients treated with proton pump inhibitors and warfarin concomitantly may need to be monitored for increases in INR and prothrombin time.
 
@@ -58,12 +57,12 @@ Co-administration of esomeprazole 30 mg and diazepam, a CYP2C19 substrate, resul
 
 Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
 Concomitant use of esomeprazole 40 mg results in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition.
-Avoid concomitant administration of esomeprazole with clopidogrel.
-When using esomeprazole, consider use of alternative anti-platelet therapy [see Pharmacokinetics (12.3)].
+Avoid concomitant administration of esomeprazole magnesium delayed-release capsules with clopidogrel.
+When using esomeprazole magnesium delayed-release capsules, consider use of alternative anti-platelet therapy [see Clinical Pharmacology (12.3)].
 
 Omeprazole acts as an inhibitor of CYP2C19.
-Omeprazole, given in doses of 40 mg daily for one week to 20 healthy subjects in crossover study, increased Cmax and AUC of cilostazol by 18% and 26% respectively.
-Cmax and AUC of one of its active metabolites, 3,4-dihydro-cilostazol, which has 4 to 7 times the activity of cilostazol, were increased by 29% and 69% respectively.
+Omeprazole, given in doses of 40 mg daily for one week to 20 healthy subjects in cross-over study, increased Cmax and AUC of cilostazol by 18% and 26% respectively.
+Cmax and AUC of one of its active metabolites, 3,4-dihydrocilostazol, which has 4 to 7 times the activity of cilostazol, were increased by 29% and 69% respectively.
 Co-administration of cilostazol with esomeprazole is expected to increase concentrations of cilostazol and its above mentioned active metabolite.
 Therefore a dose reduction of cilostazol from 100 mg twice daily to 50 mg twice daily should be considered.
 
@@ -72,9 +71,9 @@ Dose adjustment of esomeprazole is not normally required.
 However, in patients with Zollinger-Ellison’s Syndrome, who may require higher doses up to 240 mg/day, dose adjustment may be considered.
 
 Drugs known to induce CYP2C19 or CYP3A4 or both (such as rifampin) may lead to decreased esomeprazole serum levels.
-Omeprazole, of which esomeprazole is an enantiomer, has been reported to interact with St. John’s wort, an inducer of CYP3A4.
-In a crossover study in 12 healthy male subjects, St. John’s wort (300 mg three times daily for 14 days) significantly decreased the systemic exposure of omeprazole in CYP2C19 poor metabolisers (Cmax and AUC decreased by 37.5% and 37.9%, respectively) and extensive metabolisers (Cmax and AUC decreased by 49.6 % and 43.9%, respectively).
-Avoid concomitant use of St. John’s wort or rifampin with esomeprazole.
+Omeprazole, of which esomeprazole is an enantiomer, has been reported to interact with St. John’s Wort, an inducer of CYP3A4.
+In a cross-over study in 12 healthy male subjects, St. John’s Wort (300 mg three times daily for 14 days) significantly decreased the systemic exposure of omeprazole in CYP2C19 poor metabolisers (Cmax and AUC decreased by 37.5% and 37.9%, respectively) and extensive metabolisers (Cmax and AUC decreased by 49.6 % and 43.9%, respectively).
+Avoid concomitant use of St. John’s Wort or rifampin with esomeprazole magnesium delayed-release capsules.
 
 ## 7.4 Interactions with Investigations of Neuroendocrine Tumors
 
