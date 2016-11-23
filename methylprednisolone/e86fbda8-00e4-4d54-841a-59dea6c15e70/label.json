@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA207549"
+  ],
+  "inn": "methylprednisolone",
+  "labeler": "Amneal Biosciences",
+  "package_ndcs": [
+    "70121-1000-1",
+    "70121-1000-5",
+    "70121-1001-1",
+    "70121-1001-5"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "methylprednisolone",
+      "name": "Methylprednisolone Sodium Succinate"
+    }
+  ],
+  "setid": "e86fbda8-00e4-4d54-841a-59dea6c15e70",
+  "source": "dailymed"
+}
