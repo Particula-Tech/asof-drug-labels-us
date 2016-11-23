@@ -1,6 +1,22 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Medication Guide
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
+
+Adverse Reactions
+
+- Hypersensitivity Reactions [see Contraindications (4)]
+- Acute Interstitial Nephritis [see Warnings and Precautions (5.2)]
+- Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.3)]
+- Bone Fracture [see Warnings and Precautions (5.4)]
+- Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)]
+- Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.6)]
+- Hypomagnesemia [see Warnings and Precautions (5.7)]
+
+Drug Interactions
+
+Instruct patients to inform their healthcare provider of any other medications they are currently taking, including over-the-counter medications.
+
+Administration
 
 - Caution patients that PROTONIX For Delayed-Release Oral Suspension and PROTONIX Delayed-Release Tablets should not be split, crushed, or chewed.
 - PROTONIX oral suspension packet is a fixed dose and cannot be divided to make a smaller dose.
@@ -8,6 +24,3 @@ See FDA-Approved Medication Guide
 - Let patients know that concomitant administration of antacids does not affect the absorption of PROTONIX Delayed-Release Tablets.
 - Advise patients to take PROTONIX For Delayed-Release Oral Suspension approximately 30 minutes before a meal.
 - Advise patients that PROTONIX For Delayed-Release Oral Suspension should only be administered in apple juice or applesauce, not in water, other liquids, or foods.
-- Advise patients to immediately report and seek care for any cardiovascular or neurological symptoms including palpitation, dizziness, seizures, and tetany as these may be signs of hypomagnesemia [see Warnings and Precautions (5.7)].
-- Advise patients to immediately report and seek care for diarrhea that does not improve.
-  This may be a sign of Clostridium difficile associated diarrhea [see Warnings and Precautions (5.5)].

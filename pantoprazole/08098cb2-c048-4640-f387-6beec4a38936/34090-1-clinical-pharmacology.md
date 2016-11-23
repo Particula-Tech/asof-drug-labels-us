@@ -136,10 +136,10 @@ Table 6: PK Parameters in Children and Adolescents 6 through 16 years with GERD 
 
 |  | 6–11 years (n=12) | 12–16 years (n=11) |
 | --- | --- | --- |
-| Cmax (µg/mL) | 1.8 | 1.8 |
-| tmax (h) | 2.0 | 2.0 |
-| AUC (µg∙h/mL)Geometric mean values | 6.9 | 5.5 |
-| CL/F (L/h)Median values | 6.6 | 6.8 |
+| Cmax (µg/mL)Geometric mean values | 1.8 | 1.8 |
+| tmax (h)Median values | 2.0 | 2.0 |
+| AUC (µg∙h/mL) | 6.9 | 5.5 |
+| CL/F (L/h) | 6.6 | 6.8 |
 
 Gender
 
