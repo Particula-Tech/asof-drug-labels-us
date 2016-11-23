@@ -1,19 +1,7 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-ETOPOPHOS® (etoposide phosphate) for Injection is supplied as individual cartoned vials containing etoposide phosphate equivalent to 100 mg etoposide:
+How Supplied/Storage ETOPOPHOS is supplied as a single-dose vial containing etoposide phosphate equivalent to 100 mg etoposide as a lyophilized powder for reconstitution, individually packaged in a carton: NDC 0015-3404-20 Store unopened vials at 2° to 8°C (36°-46°F).
+Keep vial in outer carton to protect from light.
 
-NDC 0015-3404-20 100 mg single-dose vial
-
-## Storage
-
-Store the unopened vials under refrigeration 2° to 8°C (36°-46°F).
-Retain in original package to protect from light.
-
-## Handling and Disposal
-
-Caution should be exercised when handling ETOPOPHOS for Injection.
-Procedures for proper handling and disposal of anticancer drugs should be utilized.
-Several guidelines on this subject have been published.1-4
-
-To minimize the risk of dermal exposure, always wear impervious gloves when handling vials containing ETOPOPHOS for Injection.
-More information is available in the references listed below.
+Handling ETOPOPHOS is a cytotoxic drug.
+Follow applicable special handling and disposal procedures.1

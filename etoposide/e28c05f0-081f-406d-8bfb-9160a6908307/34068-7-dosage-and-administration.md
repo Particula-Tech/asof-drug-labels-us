@@ -1,43 +1,49 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE & ADMINISTRATION SECTION
 
-The usual dose of VePesid for Injection in testicular cancer in combination with other approved chemotherapeutic agents ranges from 50 to 100 mg/m2/day on days 1 through 5 to 100 mg/m2/day on days 1, 3, and 5.
-Equivalent doses of ETOPOPHOS should be used.
+## 2.1 Refractory Testicular Tumors
 
-In small cell lung cancer, the VePesid for Injection dose in combination with other approved chemotherapeutic drugs ranges from 35 mg/m2/day for 4 days to 50 mg/m2/day for 5 days.
-Equivalent doses of ETOPOPHOS should be used.
+The recommended dose of ETOPOPHOS is:
 
-For recommended dosing adjustments in patients with renal impairment, see PRECAUTIONS.
+50 to 100 mg/m2 per day administered intravenously over 5 to 35 minutes on days 1 through 5 of each 21-day (or 28-day cycle), or 100 mg/m2 administered intravenously over 5 to 35 minutes on days 1, 3, and 5 of each 21-day (or 28-day cycle).
 
-ETOPOPHOS SHOULD NOT BE GIVEN BY BOLUS INTRAVENOUS INJECTION.
-ETOPOPHOS solutions may be administered at infusion rates from 5 to 210 minutes.
-Chemotherapy courses are repeated at 3- to 4-week intervals after adequate recovery from any toxicity.
+## 2.2 Small Cell Lung Cancer
 
-The dosage should be modified to take into account the myelosuppressive effect of other drugs in the combination or the effects of prior x-ray therapy or chemotherapy which may have compromised bone marrow reserve.
+The recommended dose of ETOPOPHOS is 35 mg/m2 to 50 mg/m2 per day administered intravenously over 5 minutes to 3 hours for 4 consecutive days of each 21-day cycle.
 
-## Administration Precautions
+## 2.3 Dosage Modification
 
-As with other potentially toxic compounds, caution should be exercised in handling and preparing the solution of ETOPOPHOS.
-Skin reactions associated with accidental exposure to ETOPOPHOS may occur.
-The use of gloves is recommended.
-If ETOPOPHOS solution contacts the skin or mucosa, immediately and thoroughly wash the skin with soap and water and flush the mucosa with water.
+In patients with a creatinine clearance (CLcr) 15-50 mL/min, administer 75% of the recommended dose.
+Data are not available in patients with CLcr less than 15 mL/min.
+Consider further dose reduction in these patients.
 
-## Preparation for Intravenous Administration
+## 2.4 Preparation and Administration
 
-Prior to use, the content of each vial must be reconstituted with Sterile Water for Injection, USP; 5% Dextrose Injection, USP; 0.9% Sodium Chloride Injection, USP; Bacteriostatic Water for Injection with Benzyl Alcohol; or Bacteriostatic Sodium Chloride for Injection with Benzyl Alcohol to a concentration equivalent to 20 mg/mL or 10 mg/mL etoposide (22.7 or 11.4 mg/mL etoposide phosphate, respectively).
-Use the quantity of diluent shown below to reconstitute the product.
+Preparation
+
+Reconstitute with Sterile Water for Injection, USP; 5% Dextrose Injection, USP; 0.9% Sodium Chloride Injection, USP; Bacteriostatic Water for Injection with Benzyl Alcohol; or Bacteriostatic Sodium Chloride for Injection with Benzyl Alcohol, using the quantity of diluent shown below:
 
 | Vial Strength | Volume of Diluent | Final Concentration |
 | --- | --- | --- |
 | 100 mg | 5 mL | 20 mg/mL |
-|  | 10 mL | 10 mg/mL |
+| 10 mL | 10 mg/mL |  |
 
-Following reconstitution, ETOPOPHOS can be further diluted to concentrations as low as 0.1 mg/mL etoposide with either 5% Dextrose Injection, USP or 0.9% Sodium Chloride Injection, USP.
+Following reconstitution, ETOPOPHOS can be further diluted to concentrations as low as 0.1 mg/mL with either 5% Dextrose Injection, USP, or 0.9% Sodium Chloride Injection, USP.
+Inspect parenteral drug products visually for particulate matter and discoloration prior to administration whenever solution and container permit.
 
-Solutions of ETOPOPHOS should be prepared in an aseptic manner.
-Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
+Storage After reconstitution, store under the following conditions:
 
-## Stability
+Refrigerated 2o to 8oC (36o to 46oF) for 7 days;
 
-Unopened vials of ETOPOPHOS for Injection are stable until the date indicated on the package when stored under refrigeration 2° to 8°C (36°-46°F) in the original package.
-When reconstituted as directed, ETOPOPHOS solutions can be stored in glass or plastic containers under refrigeration 2° to 8°C (36°-46°F) for 7 days; at controlled room temperature 20° to 25°C (68°-77°F) for 24 hours following reconstitution with Sterile Water for Injection, USP, 5% Dextrose Injection, USP, or 0.9% Sodium Chloride Injection, USP; or at controlled room temperature 20° to 25°C (68°-77°F) for 48 hours following reconstitution with Bacteriostatic Water for Injection with Benzyl Alcohol or Bacteriostatic Sodium Chloride for Injection with Benzyl Alcohol.
-ETOPOPHOS solutions further diluted as directed can be stored under refrigeration 2° to 8°C (36°-46°F) or at controlled room temperature 20° to 25°C (68°-77°F) for 24 hours.
+Room temperature at 20o to 25oC (68o to77oF) for 24 hours following reconstitution with Sterile Water for Injection, USP, 5% Dextrose Injection, USP, or 0.9% Sodium Chloride Injection, USP;
+
+Room temperature 20o to 25oC (68o to77oF) for 48 hours following reconstitution with Bacteriostatic Water for Injection with benzyl alcohol or Bacteriostatic Sodium Chloride for Injection with benzyl alcohol.
+
+Reconstituted ETOPOPHOS solutions further diluted as directed can be stored under refrigeration 2o to 8oC (36o to 46oF) or at room temperature 20o to 25oC (68o to77oF) for 24 hours.
+
+Administration DO NOT GIVE ETOPOPHOS BY BOLUS INTRAVENOUS INJECTION.
+ETOPOPHOS solutions may be administered at infusion rates up to 3 hours.
+Extravasation of ETOPOPHOS may result in swelling, pain, cellulitis, and necrosis including skin necrosis.
+
+ETOPOPHOS is a cytotoxic drug.
+Follow applicable special handling and disposal procedures.1 To minimize the risk of dermal exposure, use of gloves is recommended.
+If dermal contact occurs, immediately and thoroughly wash areas of skin contact with soap and water and flush mucosa with water.

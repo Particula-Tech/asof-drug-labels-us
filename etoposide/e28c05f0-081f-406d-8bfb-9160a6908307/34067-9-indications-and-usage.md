@@ -1,7 +1,9 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-ETOPOPHOS for Injection is indicated in the management of the following neoplasms:
+## 1.1 Refractory Testicular Tumors
 
-Refractory Testicular Tumors-ETOPOPHOS for Injection in combination therapy with other approved chemotherapeutic agents in patients with refractory testicular tumors who have already received appropriate surgical, chemotherapeutic, and radiotherapeutic therapy.
+ETOPOPHOS is indicated, in combination with other chemotherapeutic drugs, for treatment of patients with refractory testicular tumors.
 
-Small Cell Lung Cancer-ETOPOPHOS for Injection in combination with other approved chemotherapeutic agents as first-line treatment in patients with small cell lung cancer.
+## 1.2 Small Cell Lung Cancer
+
+ETOPOPHOS is indicated, in combination with cisplatin, for first-line treatment of patients with small cell lung cancer.
