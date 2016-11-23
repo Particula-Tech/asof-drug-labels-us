@@ -5,11 +5,11 @@
 Pantoprazole sodium is supplied as delayed-release tablets.
 The recommended dosages are outlined in Table 1.
 
-Table 1: Recommended Dosing Schedule for Pantoprazole Sodium Delayed-release Tablets
+Table 1: Recommended Dosing Schedule for Pantoprazole Sodium Delayed-Release Tablets
 
 | Indication | Dose | Frequency |
 | --- | --- | --- |
-| Short-term Treatment of Erosive Esophagitis Associated with GERD |  |  |
+| Short-Term Treatment of Erosive Esophagitis Associated with GERD |  |  |
 | Adults | 40 mg | Once daily for up to 8 weeksFor adult patients who have not healed after 8 weeks of treatment, an additional 8-week course of pantoprazole sodium delayed-release tablets may be considered. |
 | Children (5 years and older) |  |  |
 | ≥ 15 kg to < 40 kg | 20 mg | Once daily for up to 8 weeks |
@@ -27,9 +27,9 @@ Table 2: Administration Instructions
 
 | Formulation | Route | InstructionsPatients should be cautioned that pantoprazole sodium delayed-release tablets should not be split, chewed, or crushed. |
 | --- | --- | --- |
-| Delayed-release Tablets | Oral | Swallowed whole, with or without food |
+| Delayed-Release Tablets | Oral | Swallowed whole, with or without food |
 
-### Pantoprazole Sodium Delayed-release Tablets
+### Pantoprazole Sodium Delayed-Release Tablets
 
 Pantoprazole sodium delayed-release tablets should be swallowed whole, with or without food in the stomach.
 If patients are unable to swallow a 40 mg tablet, two 20 mg tablets may be taken.

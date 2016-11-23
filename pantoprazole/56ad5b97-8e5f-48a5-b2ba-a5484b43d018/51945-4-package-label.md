@@ -2,7 +2,7 @@ PRINCIPAL DISPLAY PANEL - 20 mg
 
 NDC 0378-6688-77
 
-Pantoprazole Sodium Delayed-release Tablets, USP 20 mg*
+Pantoprazole Sodium Delayed-Release Tablets, USP 20 mg*
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
@@ -10,7 +10,7 @@ Rx only 90 Tablets
 
 *Each film-coated tablet contains pantoprazole sodium, USP equivalent to 20 mg of pantoprazole.
 
-This product meets USP dissolution Test 3.
+Meets USP Dissolution Test 3.
 
 Usual Dosage: See accompanying prescribing information.
 
@@ -25,7 +25,7 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Made in India
 
-RMX6688MM3
+RMX6688MM5
 
 Mylan.com
 
@@ -39,7 +39,7 @@ PRINCIPAL DISPLAY PANEL - 40 mg
 
 NDC 0378-6689-77
 
-Pantoprazole Sodium Delayed-release Tablets, USP 40 mg*
+Pantoprazole Sodium Delayed-Release Tablets, USP 40 mg*
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
@@ -47,7 +47,7 @@ Rx only 90 Tablets
 
 *Each film-coated tablet contains pantoprazole sodium, USP equivalent to 40 mg of pantoprazole.
 
-This product meets USP dissolution Test 3.
+Meets USP Dissolution Test 3.
 
 Usual Dosage: See accompanying prescribing information.
 
@@ -62,7 +62,7 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Made in India
 
-RMX6689MM3
+RMX6689MM5
 
 Mylan.com
 

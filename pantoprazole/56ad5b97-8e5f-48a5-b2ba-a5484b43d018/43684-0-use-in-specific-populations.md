@@ -21,31 +21,31 @@ Based on the potential for tumorigenicity shown for pantoprazole in rodent carci
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of pantoprazole for short-term treatment (up to 8 weeks) of erosive esophagitis (EE) associated with GERD have been established in pediatric patients 1 year through 16 years of age.
-Effectiveness for EE has not been demonstrated in patients less than one year of age.
+Effectiveness for EE has not been demonstrated in patients less than 1 year of age.
 In addition, for patients less than 5 years of age, there is no appropriate dosage strength in an age-appropriate formulation available.
-Therefore, pantoprazole is indicated for the short-term treatment of EE associated with GERD for patients 5 years and older.
-The safety and effectiveness of pantoprazole for pediatric uses other than EE have not been established.
+Therefore, pantoprazole sodium delayed-release tablets are indicated for the short-term treatment of EE associated with GERD for patients 5 years and older.
+The safety and effectiveness of pantoprazole sodium delayed-release tablets for pediatric uses other than EE have not been established.
 
-### One Year Through 16 Years of Age
+### 1 Year Through 16 Years of Age
 
-Use of pantoprazole in pediatric patients 1 year through 16 years of age for short-term treatment (up to 8 weeks) of EE associated with GERD is supported by: a) extrapolation of results from adequate and well-controlled studies that supported the approval of pantoprazole for treatment of EE associated with GERD in adults, and b) safety, effectiveness, and pharmacokinetic studies performed in pediatric patients [see Clinical Studies (14.1), and Clinical Pharmacology (12.3)].
+Use of pantoprazole in pediatric patients 1 year through 16 years of age for short-term treatment (up to 8 weeks) of EE associated with GERD is supported by: a) extrapolation of results from adequate and well-controlled studies that supported the approval of pantoprazole sodium delayed-release tablets for treatment of EE associated with GERD in adults, and b) safety, effectiveness, and pharmacokinetic studies performed in pediatric patients [see Clinical Studies (14.1) and Clinical Pharmacology (12.3)].
 
-Safety of pantoprazole in the treatment of EE associated with GERD in pediatric patients 1 through 16 years of age was evaluated in three multicenter, randomized, double-blind, parallel-treatment studies, involving 249 pediatric patients, including eight with EE (four patients ages 1 year to 5 years and four patients 5 years to 11 years).
+Safety of pantoprazole in the treatment of EE associated with GERD in pediatric patients 1 through 16 years of age was evaluated in 3 multicenter, randomized, double-blind, parallel-treatment studies, involving 249 pediatric patients, including 8 with EE (4 patients ages 1 year to 5 years and 4 patients 5 years to 11 years).
 The children ages 1 year to 5 years with endoscopically diagnosed EE (defined as an endoscopic Hetzel-Dent score ≥ 2) were treated once daily for 8 weeks with one of two dose levels of pantoprazole (approximating 0.6 mg/kg or 1.2 mg/kg).
-All four of these patients with EE were healed (Hetzel-Dent score of 0 or 1) at 8 weeks.
+All 4 of these patients with EE were healed (Hetzel-Dent score of 0 or 1) at 8 weeks.
 Because EE is uncommon in the pediatric population, predominantly pediatric patients with endoscopically-proven or symptomatic GERD were also included in these studies.
 Patients were treated with a range of doses of pantoprazole once daily for 8 weeks.
 For safety findings see Adverse Reactions (6.1).
 Because these pediatric trials had no placebo, active comparator, or evidence of a dose response, the trials were inconclusive regarding the clinical benefit of pantoprazole for symptomatic GERD in the pediatric population.
 The effectiveness of pantoprazole for treating symptomatic GERD in pediatric patients has not been established.
 
-Although the data from the clinical trials support use of pantoprazole for the short-term treatment of EE associated with GERD in pediatric patients 1 year through 5 years, there is no commercially available dosage formulation appropriate for patients less than 5 years of age [see Dosage and Administration (2)].
+Although the data from the clinical trials support use of pantoprazole sodium for the short-term treatment of EE associated with GERD in pediatric patients 1 year through 5 years, there is no commercially available dosage formulation appropriate for patients less than 5 years of age [see Dosage and Administration (2)].
 
 In a population pharmacokinetic analysis, clearance values in the children 1 to 5 years old with endoscopically proven GERD had a median value of 2.4 L/h.
-Following a 1.2 mg/kg equivalent dose (15 mg for ≤ 12.5 kg and 20 mg for > 12.5 to < 25 kg), the plasma concentrations of pantoprazole were highly variable and the median time to peak plasma concentration was 3 to 6 hours.
+Following a 1.2 mg/kg equivalent dose (15 mg for ≤ 12.5 kg and 20 mg for > 12.5 kg to < 25 kg), the plasma concentrations of pantoprazole were highly variable and the median time to peak plasma concentration was 3 to 6 hours.
 The estimated AUC for patients 1 to 5 years old was 37% higher than for adults receiving a single 40 mg tablet, with a geometric mean AUC value of 6.8 μg•hr/mL.
 
-### Neonates to Less Than One Year of Age
+### Neonates to Less Than 1 Year of Age
 
 Pantoprazole was not found to be effective in a multicenter, randomized, double-blind, placebo-controlled, treatment-withdrawal study of 129 pediatric patients 1 through 11 months of age.
 Patients were enrolled if they had symptomatic GERD based on medical history and had not responded to non-pharmacologic interventions for GERD for 2 weeks.
@@ -55,25 +55,25 @@ There was no statistically significant difference between pantoprazole and place
 
 In this trial, the adverse reactions that were reported more commonly (difference of ≥ 4%) in the treated population compared to the placebo population were elevated CK, otitis media, rhinitis, and laryngitis.
 
-In a population pharmacokinetic analysis, the systemic exposure was higher in patients less than one year of age with GERD compared to adults who received a single 40 mg dose (geometric mean AUC was 103% higher in preterm infants and neonates receiving single dose of 2.5 mg of pantoprazole, and 23% higher in infants 1 through 11 months of age receiving a single dose of approximately 1.2 mg/kg).
+In a population pharmacokinetic analysis, the systemic exposure was higher in patients less than 1 year of age with GERD compared to adults who received a single 40 mg dose (geometric mean AUC was 103% higher in preterm infants and neonates receiving single dose of 2.5 mg of pantoprazole, and 23% higher in infants 1 through 11 months of age receiving a single dose of approximately 1.2 mg/kg).
 In these patients, the apparent clearance (CL/F) increased with age (median clearance: 0.6 L/hr, range: 0.03 to 3.2 L/hr).
 
 These doses resulted in pharmacodynamic effects on gastric but not esophageal pH.
 Following once daily dosing of 2.5 mg of pantoprazole in preterm infants and neonates, there was an increase in the mean gastric pH (from 4.3 at baseline to 5.2 at steady-state) and in the mean % time that gastric pH was > 4 (from 60% at baseline to 80% at steady-state).
-Following once daily dosing of approximately 1.2 mg/kg of pantoprazole in infants 1 through 11 months of age, there was an increase in the mean gastric pH (from 3.1 at baseline to 4.2 at steady-state) and in the mean % time that gastric pH was > 4 (from 32% at baseline to 60% at steady-state).
+Following once daily dosing of approximately 1.2 mg/kg of pantoprazole in infants 1 through 11 months of age, there was an increase in the mean gastric pH (from 3.1 at baseline to 4.2 at steady state) and in the mean % time that gastric pH was > 4 (from 32% at baseline to 60% at steady state).
 However, no significant changes were observed in mean intraesophageal pH or % time that esophageal pH was < 4 in either age group.
 
 Because pantoprazole was not shown to be effective in the randomized, placebo-controlled study in this age group, the use of pantoprazole for treatment of symptomatic GERD in infants less than 1 year of age is not indicated.
 
 ## 8.5 Geriatric Use
 
-In short-term U.S. clinical trials, erosive esophagitis healing rates in the 107 elderly patients (≥ 65 years old) treated with pantoprazole were similar to those found in patients under the age of 65.
+In short-term U.S. clinical trials, erosive esophagitis healing rates in the 107 elderly patients (≥ 65 years old) treated with pantoprazole sodium delayed-release tablets were similar to those found in patients under the age of 65.
 The incidence rates of adverse reactions and laboratory abnormalities in patients aged 65 years and older were similar to those associated with patients younger than 65 years of age.
 
 ## 8.6 Gender
 
 Erosive esophagitis healing rates in the 221 women treated with pantoprazole sodium delayed-release tablets in U.S. clinical trials were similar to those found in men.
-In the 122 women treated long-term with pantoprazole 40 mg or 20 mg, healing was maintained at a rate similar to that in men.
+In the 122 women treated long-term with pantoprazole sodium delayed-release tablets 40 mg or 20 mg, healing was maintained at a rate similar to that in men.
 The incidence rates of adverse reactions were also similar for men and women.
 
 ## 8.7 Patients with Hepatic Impairment

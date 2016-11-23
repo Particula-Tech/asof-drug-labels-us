@@ -15,7 +15,7 @@ Pentagastrin-stimulated (MAO) was assessed from hour 23 to 24 at steady-state.
 
 ### Antisecretory Activity
 
-Under maximal acid stimulatory conditions using pentagastrin, a dose dependent decrease in gastric acid output occurs after a single dose of oral (20 mg to 80 mg) or a single dose of intravenous (20 mg to 120 mg) pantoprazole in healthy volunteers.
+Under maximal acid stimulatory conditions using pentagastrin, a dose-dependent decrease in gastric acid output occurs after a single dose of oral (20 mg to 80 mg) or a single dose of intravenous (20 mg to 120 mg) pantoprazole in healthy volunteers.
 Pantoprazole given once daily results in increasing inhibition of gastric acid secretion.
 Following the initial oral dose of 40 mg pantoprazole, a 51% mean inhibition was achieved by 2.5 hours.
 With once-a-day dosing for 7 days, the mean inhibition was increased to 85%.
@@ -24,7 +24,7 @@ Acid secretion had returned to normal within a week after the last dose of panto
 
 In a series of dose-response studies, pantoprazole, at oral doses ranging from 20 mg to 120 mg, caused dose-related increases in median basal gastric pH and in the percent of time gastric pH was > 3 and > 4.
 Treatment with 40 mg of pantoprazole produced significantly greater increases in gastric pH than the 20 mg dose.
-Doses higher than 40 mg (60 mg, 80 mg, 120 mg) did not result in further significant increases in median gastric pH.
+Doses higher than 40 mg (60 mg, 80 mg, and 120 mg) did not result in further significant increases in median gastric pH.
 The effects of pantoprazole on median pH from one double-blind crossover study are shown in Table 4.
 
 Table 4: Effect of Single Daily Doses of Oral Pantoprazole on Intragastric pH
@@ -34,43 +34,43 @@ Table 4: Effect of Single Daily Doses of Oral Pantoprazole on Intragastric pH
 | Time | Placebo | 20 mg | 40 mg | 80 mg |
 | 8 a.m. to 8 a.m. (24 hours) | 1.3 | 2.9Significantly different from placebo | 3.8Significantly different from 20 mg | 3.9 |
 | 8 a.m. to 10 p.m. (Daytime) | 1.6 | 3.2 | 4.4 | 4.8 |
-| 10 p.m. to 8 a.m. (Nighttime) | 1.2 | 2.1 | 3 | 2.6 |
+| 10 p.m. to 8 a.m. (Nighttime) | 1.2 | 2.1 | 3.0 | 2.6 |
 
 ### Serum Gastrin Effects
 
-Fasting serum gastrin levels were assessed in two double-blind studies of the acute healing of erosive esophagitis (EE) in which 682 patients with gastroesophageal reflux disease (GERD) received 10 mg, 20 mg, or 40 mg of pantoprazole for up to 8 weeks.
+Fasting serum gastrin levels were assessed in 2 double-blind studies of the acute healing of erosive esophagitis (EE) in which 682 patients with gastroesophageal reflux disease (GERD) received 10 mg, 20 mg, or 40 mg of pantoprazole for up to 8 weeks.
 At 4 weeks of treatment there was an increase in mean gastrin levels of 7%, 35%, and 72% over pretreatment values in the 10 mg, 20 mg, and 40 mg treatment groups, respectively.
-A similar increase in serum gastrin levels was noted at the 8-week visit with mean increases of 3%, 26%, and 84% for the three pantoprazole dose groups.
+A similar increase in serum gastrin levels was noted at the 8-week visit with mean increases of 3%, 26%, and 84% for the 3 pantoprazole dose groups.
 Median serum gastrin levels remained within normal limits during maintenance therapy with pantoprazole sodium delayed-release tablets.
 
 In long-term international studies involving over 800 patients, a 2- to 3-fold mean increase from the pretreatment fasting serum gastrin level was observed in the initial months of treatment with pantoprazole at doses of 40 mg per day during GERD maintenance studies and 40 mg or higher per day in patients with refractory GERD.
 Fasting serum gastrin levels generally remained at approximately 2 to 3 times baseline for up to 4 years of periodic follow-up in clinical trials.
 
-Following short-term treatment with pantoprazole, elevated gastrin levels return to normal by at least 3 months.
+Following short-term treatment with pantoprazole sodium delayed-release tablets, elevated gastrin levels return to normal by at least 3 months.
 
 ### Enterochromaffin-Like (ECL) Cell Effects
 
 In 39 patients treated with oral pantoprazole 40 mg to 240 mg daily (majority receiving 40 mg to 80 mg) for up to 5 years, there was a moderate increase in ECL-cell density, starting after the first year of use, which appeared to plateau after 4 years.
 
-In a nonclinical study in Sprague-Dawley rats, lifetime exposure (24 months) to pantoprazole at doses of 0.5 to 200 mg/kg/day resulted in dose-related increases in gastric ECL cell proliferation and gastric neuroendocrine (NE)-cell tumors.
+In a nonclinical study in Sprague-Dawley rats, lifetime exposure (24 months) to pantoprazole at doses of 0.5 mg/kg/day to 200 mg/kg/day resulted in dose-related increases in gastric ECL cell proliferation and gastric neuroendocrine (NE)-cell tumors.
 Gastric NE-cell tumors in rats may result from chronic elevation of serum gastrin concentrations.
 The high density of ECL cells in the rat stomach makes this species highly susceptible to the proliferative effects of elevated gastrin concentrations produced by proton pump inhibitors.
 However, there were no observed elevations in serum gastrin following the administration of pantoprazole at a dose of 0.5 mg/kg/day.
-In a separate study, a gastric NE-cell tumor without concomitant ECL-cell proliferative changes was observed in one female rat following 12 months of dosing with pantoprazole at 5 mg/kg/day and a 9 month off-dose recovery [see Nonclinical Toxicology (13.1)].
+In a separate study, a gastric NE-cell tumor without concomitant ECL-cell proliferative changes was observed in 1 female rat following 12 months of dosing with pantoprazole at 5 mg/kg/day and a 9 month off-dose recovery [see Nonclinical Toxicology (13.1)].
 
 ## 12.3 Pharmacokinetics
 
 Pantoprazole sodium delayed-release tablets are prepared as enteric-coated tablets so that absorption of pantoprazole begins only after the tablet leaves the stomach.
 Peak serum concentration (Cmax) and area under the serum concentration time curve (AUC) increase in a manner proportional to oral and intravenous doses from 10 mg to 80 mg.
 Pantoprazole does not accumulate, and its pharmacokinetics are unaltered with multiple daily dosing.
-Following oral or intravenous administration, the serum concentration of pantoprazole declines biexponentially, with a terminal elimination half-life of approximately one hour.
+Following oral or intravenous administration, the serum concentration of pantoprazole declines biexponentially, with a terminal elimination half-life of approximately 1 hour.
 
-In extensive metabolizers with normal liver function receiving an oral dose of the enteric-coated 40 mg pantoprazole tablet, the peak concentration (Cmax) is 2.5 mcg/mL; the time to reach the peak concentration (tmax) is 2.5 h, and the mean total area under the plasma concentration vs. time curve (AUC) is 4.8 mcg•h/mL (range 1.4 to 13.3 mcg•h/mL).
-Following intravenous administration of pantoprazole to extensive metabolizers, its total clearance is 7.6 to 14 L/h, and its apparent volume of distribution is 11 L to 23.6 L.
+In extensive metabolizers with normal liver function receiving an oral dose of the enteric-coated 40 mg pantoprazole tablet, the peak concentration (Cmax) is 2.5 µg/mL; the time to reach the peak concentration (tmax) is 2.5 h, and the mean total area under the plasma concentration vs. time curve (AUC) is 4.8 µg •h/mL (range 1.4 to 13.3 µg •h/mL).
+Following intravenous administration of pantoprazole to extensive metabolizers, its total clearance is 7.6 to 14 L/h, and its apparent volume of distribution is 11.0 to 23.6 L.
 
 ### Absorption
 
-After administration of a single or multiple oral 40 mg doses of pantoprazole sodium delayed-release tablets, the peak plasma concentration of pantoprazole was achieved in approximately 2.5 hours, and Cmax was 2.5 mcg/mL.
+After administration of a single or multiple oral 40 mg doses of pantoprazole sodium delayed-release tablets, the peak plasma concentration of pantoprazole was achieved in approximately 2.5 hours, and Cmax was 2.5 µg/mL.
 Pantoprazole undergoes little first-pass metabolism, resulting in an absolute bioavailability of approximately 77%.
 Pantoprazole absorption is not affected by concomitant administration of antacids.
 
@@ -79,7 +79,7 @@ Thus, pantoprazole sodium delayed-release tablets may be taken without regard to
 
 ### Distribution
 
-The apparent volume of distribution of pantoprazole is approximately 11 L to 23.6 L, distributing mainly in extracellular fluid.
+The apparent volume of distribution of pantoprazole is approximately 11.0 to 23.6 L, distributing mainly in extracellular fluid.
 The serum protein binding of pantoprazole is about 98%, primarily to albumin.
 
 ### Metabolism
@@ -101,7 +101,7 @@ No dosage adjustment is recommended based on age.
 
 ### Pediatric
 
-The pharmacokinetics of pantoprazole were studied in children less than 16 years of age in four randomized, open-label clinical trials in pediatric patients with presumed/proven GERD.
+The pharmacokinetics of pantoprazole were studied in children less than 16 years of age in 4 randomized, open-label clinical trials in pediatric patients with presumed/proven GERD.
 A pediatric granule formulation was studied in children through 5 years of age, and pantoprazole sodium delayed-release tablets were studied in children older than 5 years.
 
 In a population PK analysis, total clearance increased with increasing bodyweight in a non-linear fashion.
@@ -115,14 +115,14 @@ See Use in Specific Populations (8.4).
 
 The pharmacokinetics of pantoprazole sodium delayed-release tablets were evaluated in children ages 6 through 16 years with a clinical diagnosis of GERD.
 The PK parameters following a single oral dose of 20 mg or 40 mg of pantoprazole sodium delayed-release tablets in children ages 6 through 16 years were highly variable (%CV ranges 40% to 80%).
-The geometric mean AUC estimated from population PK analysis after a 40 mg pantoprazole sodium delayed-release tablet in pediatric patients was about 39% and 10% higher respectively in 6 to 11 and 12 to 16 year-old children, compared to that of adults (Table 5).
+The geometric mean AUC estimated from population PK analysis after a 40 mg pantoprazole sodium delayed-release tablet in pediatric patients was about 39% and 10% higher respectively in 6 to 11 and 12 to 16 year-old children, compared to that of adults (Table 6).
 
-Table 5: PK Parameters in Children and Adolescents 6 Through 16 Years with GERD Receiving 40 mg Pantoprazole Sodium Delayed-release Tablets
+Table 6: PK Parameters in Children and Adolescents 6 Through 16 Years with GERD Receiving 40 mg Pantoprazole Sodium Delayed-Release Tablets
 
 |  | 6 to 11 Years (n = 12) | 12 to 16 Years (n = 11) |
 | --- | --- | --- |
 | Cmax (μg/mL)Geometric mean values | 1.8 | 1.8 |
-| tmax (h)Median values | 2 | 2 |
+| tmax (h)Median values | 2.0 | 2.0 |
 | AUC (μg•h/mL) | 6.9 | 5.5 |
 | CL/F (L/h) | 6.6 | 6.8 |
 
@@ -146,7 +146,7 @@ These pharmacokinetic changes in hepatic-impaired patients result in minimal dru
 No dosage adjustment is needed in patients with mild to severe hepatic impairment.
 Doses higher than 40 mg/day have not been studied in hepatically impaired patients.
 
-### Drug-drug Interactions
+### Drug-Drug Interactions
 
 Pantoprazole is metabolized mainly by CYP2C19 and to minor extents by CYPs 3A4, 2D6, and 2C9.
 In in vivo drug-drug interaction studies with CYP2C19 substrates (diazepam [also a CYP3A4 substrate] and phenytoin [also a CYP3A4 inducer] and clopidogrel), nifedipine, midazolam, and clarithromycin (CYP3A4 substrates), metoprolol (a CYP2D6 substrate), diclofenac, naproxen and piroxicam (CYP2C9 substrates), and theophylline (a CYP1A2 substrate) in healthy subjects, the pharmacokinetics of pantoprazole were not significantly altered.
@@ -155,13 +155,13 @@ In in vivo drug-drug interaction studies with CYP2C19 substrates (diazepam [also
 
 Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
 In a crossover clinical study, 66 healthy subjects were administered clopidogrel (300 mg loading dose followed by 75 mg per day) alone and with pantoprazole (80 mg at the same time as clopidogrel) for 5 days.
-On Day 5, the mean AUC of the active metabolite of clopidogrel was reduced by approximately 14% (geometric mean ratio was 86%, with 90% CI of 79 to 93%) when pantoprazole was coadministered with clopidogrel as compared to clopidogrel administered alone.
+On Day 5, the mean AUC of the active metabolite of clopidogrel was reduced by approximately 14% (geometric mean ratio was 86%, with 90% CI of 79% to 93%) when pantoprazole was coadministered with clopidogrel as compared to clopidogrel administered alone.
 Pharmacodynamic parameters were also measured and demonstrated that the change in inhibition of platelet aggregation (induced by 5 μM ADP) was correlated with the change in the exposure to clopidogrel active metabolite.
 The clinical significance of this finding is not clear.
 
 #### Mycophenolate Mofetil (MMF)
 
-Administration of pantoprazole 40 mg twice daily for 4 days and a single 1000 mg dose of MMF approximately one hour after the last dose of pantoprazole to 12 healthy subjects in a crossover study resulted in a 57% reduction in the Cmax and 27% reduction in the AUC of MPA.
+Administration of pantoprazole 40 mg twice daily for 4 days and a single 1000 mg dose of MMF approximately 1 hour after the last dose of pantoprazole to 12 healthy subjects in a cross-over study resulted in a 57% reduction in the Cmax and 27% reduction in the AUC of MPA.
 Transplant patients receiving approximately 2000 mg per day of MMF (n = 12) were compared to transplant patients receiving approximately the same dose of MMF and pantoprazole 40 mg per day (n = 21).
 There was a 78% reduction in the Cmax and a 45% reduction in the AUC of MPA in patients receiving both pantoprazole and MMF.
 
@@ -173,20 +173,20 @@ Based on studies evaluating possible interactions of pantoprazole with other dru
 
 There was also no interaction with concomitantly administered antacids.
 
-There have been post-marketing reports of increased INR and prothrombin time in patients receiving proton pump inhibitors, including pantoprazole, and warfarin concomitantly [see Drug Interactions (7.2)].
+There have been postmarketing reports of increased INR and prothrombin time in patients receiving proton pump inhibitors, including pantoprazole sodium delayed-release tablets, and warfarin concomitantly [see Drug Interactions (7.2)].
 
 Although no significant drug-drug interactions have been observed in clinical studies, the potential for significant drug-drug interactions with more than once daily dosing with high doses of pantoprazole has not been studied in poor metabolizers or individuals who are hepatically impaired.
 
 ### Other Effects
 
-In a clinical pharmacology study, pantoprazole 40 mg given once daily for 2 weeks had no effect on the levels of the following hormones: cortisol, testosterone, triiodothyronine (T3), thyroxine (T4), thyroid-stimulating hormone (TSH), thyronine-binding protein, parathyroid hormone, insulin, glucagon, renin, aldosterone, follicle-stimulating hormone, luteinizing hormone, prolactin, and growth hormone.
+In a clinical pharmacology study, pantoprazole sodium delayed-release tablets 40 mg given once daily for 2 weeks had no effect on the levels of the following hormones: cortisol, testosterone, triiodothyronine (T3), thyroxine (T4), thyroid-stimulating hormone (TSH), thyronine-binding protein, parathyroid hormone, insulin, glucagon, renin, aldosterone, follicle-stimulating hormone, luteinizing hormone, prolactin, and growth hormone.
 
-In a one-year study of GERD patients treated with pantoprazole 40 mg or 20 mg, there were no changes from baseline in overall levels of T3, T4, and TSH.
+In a 1-year study of GERD patients treated with pantoprazole sodium delayed-release tablets 40 mg or 20 mg, there were no changes from baseline in overall levels of T3, T4, and TSH.
 
 ## 12.4 Pharmacogenomics
 
 CYP2C19 displays a known genetic polymorphism due to its deficiency in some subpopulations (e.g., approximately 3% of Caucasians and African-Americans and 17% to 23% of Asians are poor metabolizers).
-Although these subpopulations of pantoprazole poor metabolizers have elimination half-life values of 3.5 to 10 hours in adults, they still have minimal accumulation (≤ 23%) with once daily dosing.
+Although these subpopulations of pantoprazole poor metabolizers have elimination half-life values of 3.5 to 10.0 hours in adults, they still have minimal accumulation (≤ 23%) with once daily dosing.
 For adult patients who are CYP2C19 poor metabolizers, no dosage adjustment is needed.
 
 Similar to adults, pediatric patients who have the poor metabolizer genotype of CYP2C19 (CYP2C19 *2/*2) exhibited greater than a 6-fold increase in AUC compared to pediatric extensive (CYP2C19 *1/*1) and intermediate (CYP2C19 *1/*x) metabolizers.
