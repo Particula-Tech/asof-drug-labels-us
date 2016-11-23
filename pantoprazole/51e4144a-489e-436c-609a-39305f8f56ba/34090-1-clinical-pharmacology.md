@@ -20,6 +20,7 @@ Complete suppression of PSAO was achieved with 80 mg within approximately 2 hour
 The duration of action of PROTONIX I.V. for Injection was 24 hours.
 
 Table 2: Gastric Acid Output (mEq/hr, Mean ± SD) and Percent InhibitionCompared to individual subject baseline prior to treatment with PROTONIX I.V. for Injection.
+NA = not applicable.
 (Mean ± SD) of Pentagastrin-Stimulated Acid Output Over 24 Hours Following a Single Dose of PROTONIX I.V. for InjectionInhibition of gastric acid output and the percent inhibition of stimulated acid output in response to PROTONIX I.V. for Injection may be higher after repeated doses. in Healthy Subjects
 
 | Treatment Dose | Acid Output | % Inhibition | Acid Output | % Inhibition | Acid Output | % Inhibition | Acid Output | % Inhibition |
@@ -29,7 +30,6 @@ Table 2: Gastric Acid Output (mEq/hr, Mean ± SD) and Percent InhibitionCompared
 | 20 mg (n=4–6) | 13 ± 18 | 47 ± 27 | 6 ± 8 | 83 ± 21 | 20 ± 20 | 54 ± 44 | 30 ± 23 | 45 ± 43 |
 | 40 mg (n=8) | 5 ± 5 | 82 ± 11 | 4 ± 4 | 90 ± 11 | 11 ± 10 | 81 ± 13 | 16 ± 12 | 52 ± 36 |
 | 80 mg (n=8) | 0.1 ± 0.2 | 96 ± 6 | 0.3 ± 0.4 | 99 ± 1 | 2 ± 2 | 90 ± 7 | 7 ± 4 | 63 ± 18 |
-| NA = not applicable. |  |  |  |  |  |  |  |  |
 
 In one study of gastric pH in healthy subjects, pantoprazole was administered orally (40 mg enteric coated tablets) or intravenously (40 mg) once daily for 5 days and pH was measured for 24 hours following the fifth dose.
 The outcome measure was median percent of time that pH was ≥ 4 and the results were similar for intravenous and oral medications; however, the clinical significance of this parameter is unknown.
