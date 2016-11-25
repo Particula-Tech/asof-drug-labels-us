@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA077464"
+  ],
+  "inn": "lamivudine",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "65862-025-10",
+    "65862-025-60",
+    "65862-026-10",
+    "65862-026-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "lamivudine",
+      "name": "Lamivudine"
+    }
+  ],
+  "setid": "a8a492ab-396a-4b7c-99b3-bcb6d3386f71",
+  "source": "dailymed"
+}
