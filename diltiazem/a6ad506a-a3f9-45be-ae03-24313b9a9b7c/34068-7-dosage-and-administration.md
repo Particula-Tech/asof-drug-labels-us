@@ -7,7 +7,9 @@ Studies have shown a slight increase in the rate of absorption of Dilacor XR whe
 
 Patients should be cautioned that the Dilacor XR capsules should not be opened, chewed or crushed, and should be swallowed whole.
 
-Dosage: Hypertension: Dosages must be adjusted to each patient’s needs, starting with 180 mg or 240 mg once daily.
+## Dosage: Hypertension
+
+Dosages must be adjusted to each patient’s needs, starting with 180 mg or 240 mg once daily.
 Based on the antihypertensive effect, the dose may be adjusted as needed.
 Individual patients, particularly ≥60 years of age, may respond to a lower dose of 120 mg.
 The usual dosage range studied in clinical trials was 180 mg to 480 mg once daily.
@@ -17,10 +19,12 @@ Doses should not exceed 540 mg once daily.
 
 While a dose of Dilacor XR given once daily may produce an antihypertensive effect similar to the same total daily dose given in divided doses, individual dose adjustment may be needed.
 
-Dosage: Angina: Dosages for the treatment of angina should be adjusted to each patient’s needs, starting with a dose of 120 mg once daily, which may be titrated to doses of up to 480 mg once daily.
+## Dosage: Angina
+
+Dosages for the treatment of angina should be adjusted to each patient’s needs, starting with a dose of 120 mg once daily, which may be titrated to doses of up to 480 mg once daily.
 When necessary, titration may be carried out over a 7 to 14 day period.
 
-Concomitant Use with Other Cardiovascular Agents.
+## Concomitant Use with Other Cardiovascular Agents.
 
 Sublingual Nitroglycerin may be taken as required to abort acute anginal attacks during diltiazem hydrochloride therapy.
 

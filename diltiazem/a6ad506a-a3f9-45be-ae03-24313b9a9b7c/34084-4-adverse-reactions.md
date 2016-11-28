@@ -3,14 +3,16 @@
 Serious adverse reactions to diltiazem hydrochloride have been rare in studies with other formulations, as well as with Dilacor XR®.
 It should be recognized, however, that patients with impaired ventricular function and cardiac conduction abnormalities have usually been excluded from these studies.
 
-Hypertension: The most common adverse events (frequency ≥1%) in placebo-controlled, clinical hypertension studies with Dilacor XR using daily doses up to 540 mg, are listed in the table below with placebo-treated patients included for comparison.
+## Hypertension
 
-| (COSTART Term) | # pts (%) | # pts (%) |
-| --- | --- | --- |
+The most common adverse events (frequency ≥1%) in placebo-controlled, clinical hypertension studies with Dilacor XR using daily doses up to 540 mg, are listed in the table below with placebo-treated patients included for comparison.
+
 | MOST COMMON ADVERSE EVENTS IN DOUBLE-BLIND, |  |  |
+| --- | --- | --- |
 | PLACEBO-CONTROLLED HYPERTENSION TRIALS |  |  |
 |  | Dilacor XR®* | Placebo |
 | Adverse Events | n=303 | n=87 |
+| (COSTART Term) | # pts (%) | # pts (%) |
 | rhinitis | 29 (9.6) | 7 (8.0) |
 | headache | 27 (8.9) | 12 (13.8) |
 | pharyngitis | 17 (5.6) | 4 (4.6) |
@@ -36,15 +38,17 @@ Hypertension: The most common adverse events (frequency ≥1%) in placebo-contro
 | tinnitus | 3 (1.0) | 0 (0.0) |
 | *Adverse events occurring in 1% or more of patients receiving Dilacor XR. |  |  |
 
-Angina: The most common adverse events (frequency ≥1%) in a placebo-controlled, short-term (2 week) clinical angina study with Dilacor XR are listed in the table below with placebo-treated patients included for comparison.
+## Angina
+
+The most common adverse events (frequency ≥1%) in a placebo-controlled, short-term (2 week) clinical angina study with Dilacor XR are listed in the table below with placebo-treated patients included for comparison.
 In this trial, following a placebo phase, patients were randomly assigned to once daily doses of either 120, 240, or 480 mg of Dilacor XR.
 
-| (COSTART Term) | # pts (%) | # pts (%) |
-| --- | --- | --- |
 | MOST COMMON ADVERSE EVENTS IN A DOUBLE-BLIND, |  |  |
+| --- | --- | --- |
 | PLACEBO-CONTROLLED SHORT-TERM, ANGINA TRIALS |  |  |
 |  | Dilacor XR®* | Placebo |
 | Adverse Events | n=139 | n=50 |
+| (COSTART Term) | # pts (%) | # pts (%) |
 | asthenia | 5 (3.6) | 2 (4.0) |
 | headache | 4 (2.9) | 3 (6.0) |
 | pain, back | 4 (2.9) | 1 (2.0) |
@@ -62,9 +66,13 @@ In this trial, following a placebo phase, patients were randomly assigned to onc
 | pharyngitis | 2 (1.4) | 1 (2.0) |
 | *Adverse events occurring in 1% or more of patients receiving Dilacor XR. |  |  |
 
-Infrequent Adverse Events: The following additional events (COSTART Terms), listed by body system, were reported infrequently (less than 1%) in all subjects, hypertensive (n=425) or angina (n=318) patients who received Dilacor XR, or with other formulations of diltiazem.
+## Infrequent Adverse Events
 
-Hypertension: Cardiovascular: First-degree AV block, arrhythmia, postural hypotension, tachycardia, pallor, palpitations, phlebitis, ECG abnormality, ST elevation.
+The following additional events (COSTART Terms), listed by body system, were reported infrequently (less than 1%) in all subjects, hypertensive (n=425) or angina (n=318) patients who received Dilacor XR, or with other formulations of diltiazem.
+
+## Hypertension
+
+Cardiovascular: First-degree AV block, arrhythmia, postural hypotension, tachycardia, pallor, palpitations, phlebitis, ECG abnormality, ST elevation.
 
 Nervous System: Vertigo, hypertonia, paresthesia, dizziness, somnolence.
 
@@ -86,7 +94,9 @@ Body as a Whole: Pain, unevaluable reaction, neck pain, neck rigidity, fever, ch
 
 Special Senses: Amblyopia (blurred vision), ear pain.
 
-Angina: Cardiovascular: Palpitations, AV block, sinus bradycardia, bigeminal extrasystole, angina pectoris, hypertension, hypotension, myocardial infarct, myocardial ischemia, syncope, vasodilatation, ventricular extrasystole.
+## Angina
+
+Cardiovascular: Palpitations, AV block, sinus bradycardia, bigeminal extrasystole, angina pectoris, hypertension, hypotension, myocardial infarct, myocardial ischemia, syncope, vasodilatation, ventricular extrasystole.
 
 Nervous System: Abnormal thinking, neuropathy, paresthesia.
 

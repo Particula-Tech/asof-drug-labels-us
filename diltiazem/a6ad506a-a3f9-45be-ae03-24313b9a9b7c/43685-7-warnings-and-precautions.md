@@ -1,19 +1,27 @@
 # WARNINGS
 
-Cardiac Conduction: Diltiazem hydrochloride prolongs AV node refractory periods without significantly prolonging sinus node recovery time, except in patients with sick sinus syndrome.
+## Cardiac Conduction
+
+Diltiazem hydrochloride prolongs AV node refractory periods without significantly prolonging sinus node recovery time, except in patients with sick sinus syndrome.
 This effect may rarely result in abnormally slow heart rates (particularly in patients with sick sinus syndrome) or second, or third degree AV block (22 of 10,119 patients, or 0.2%); 41% of these 22 patients were receiving concomitant β-adrenoceptor antagonists versus 17% of the total group.
 Concomitant use of diltiazem with beta-blockers or digitalis may result in additive effects on cardiac conduction.
 A patient with Prinzmetal’s angina developed periods of asystole (2 to 5 seconds) after a single 60 mg dose of diltiazem.
 
-Congestive Heart Failure: Although diltiazem has a negative inotropic effect in isolated animal tissue preparations, hemodynamic studies in humans with normal ventricular function have not shown a reduction in cardiac index nor consistent negative effects on contractility (dp/dt).
+## Congestive Heart Failure
+
+Although diltiazem has a negative inotropic effect in isolated animal tissue preparations, hemodynamic studies in humans with normal ventricular function have not shown a reduction in cardiac index nor consistent negative effects on contractility (dp/dt).
 An acute study of oral diltiazem in patients with impaired ventricular function (ejection fraction of 24% ± 6%) showed improvement in indices of ventricular function without significant decrease in contractile function (dp/dt).
 Worsening of congestive heart failure has been reported in patients with preexisting impairment of ventricular function.
 Experience with the use of diltiazem hydrochloride in combination with beta-blockers in patients with impaired ventricular function is limited.
 Caution should be exercised when using this combination.
 
-Hypotension: Decreases in blood pressure associated with diltiazem hydrochloride therapy may occasionally result in symptomatic hypotension.
+## Hypotension
 
-Acute Hepatic Injury: Mild elevations of serum transaminases with and without concomitant elevation in alkaline phosphatase and bilirubin have been observed in clinical studies.
+Decreases in blood pressure associated with diltiazem hydrochloride therapy may occasionally result in symptomatic hypotension.
+
+## Acute Hepatic Injury
+
+Mild elevations of serum transaminases with and without concomitant elevation in alkaline phosphatase and bilirubin have been observed in clinical studies.
 Such elevations were usually transient and frequently resolved even with continued diltiazem treatment.
 In rare instances, significant elevations in alkaline phoshatase, LDH, SGOT, SGPT, and other phenomena consistent with acute hepatic injury have been noted.
 These reactions tended to occur early after therapy initiation (1 to 6 weeks) and have been reversible upon discontinuation of drug therapy.
@@ -22,7 +30,7 @@ The relationship to diltiazem is uncertain in some cases, but probable in some o
 
 # PRECAUTIONS
 
-## General:
+## General
 
 Diltiazem hydrochloride is extensively metabolized by the liver and is excreted by the kidneys and in bile.
 As with any drug given over prolonged periods, laboratory parameters should be monitored at regular intervals.
@@ -38,12 +46,12 @@ Should a dermatologic reaction persist, the drug should be discontinued.
 Although Dilacor XR utilizes a slowly disintegrating matrix, caution should still be used in patients with preexisting severe gastrointestinal narrowing (pathologic or iatrogenic).
 There have been no reports of obstructive symptoms in patients with known strictures in association with the ingestion of Dilacor XR.
 
-## Information for Patients:
+## Information for Patients
 
 Dilacor XR capsules should be taken on an empty stomach.
 Patients should be cautioned that the Dilacor XR capsules should not be opened, chewed or crushed, and should be swallowed whole.
 
-## Drug Interactions:
+## Drug Interactions
 
 Due to the potential for additive effects, caution and careful titration are warranted in patients receiving diltiazem hydrochloride concomitantly with any agents known to affect cardiac contractility and/or conduction.
 (See WARNINGS.)
@@ -89,13 +97,13 @@ If co-administration of simvastatin with diltiazem is required, limit the daily 
 In a ten-subject randomized, open label, 4-way cross-over study, co-administration of diltiazem (120 mg twice daily diltiazem SR for 2 weeks) with a single 20 mg dose of lovastatin resulted in 3- to 4-fold higher mean lovastatin AUC and Cmax values compared with lovastatin alone.
 In the same study, there was no significant change in 20 mg single dose pravastatin AUC and Cmax during diltiazem co-administration.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility:
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 A 24-month study in rats and an 18-month study in mice showed no evidence of carcinogenicity.
 There was also no mutagenic response in vitro or in vivo in mammalian cell assays or in vitro in bacteria.
 No evidence of impaired fertility was observed in male or female rats at oral doses of up to 100 mg/kg/day.
 
-## Pregnancy:
+## Pregnancy
 
 Category C: Reproduction studies have been conducted in mice, rats, and rabbits.
 Administration of doses ranging from 4 to 6 times (depending on species) the upper limit of the optimum dosage range in clinical trials (480 mg once daily or 8 mg/kg once daily for a 60 kg patient) has resulted in embryo and fetal lethality.
@@ -104,12 +112,12 @@ Also observed were reductions in early individual pup weights and pup survival, 
 
 There are no well-controlled studies in pregnant women; therefore, use diltiazem hydrochloride in pregnant women only if the potential benefit justifies the potential risk to the fetus.
 
-## Nursing Mothers:
+## Nursing Mothers
 
 Diltiazem is excreted in human milk.
 One report suggests that concentrations in breast milk may approximate serum levels.
 If use of diltiazem hydrochloride is deemed essential, an alternate method of infant feeding should be instituted.
 
-## Pediatric Use:
+## Pediatric Use
 
 Safety and effectiveness in pediatric patients have not been established.

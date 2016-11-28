@@ -2,7 +2,9 @@
 
 The therapeutic benefits of diltiazem hydrochloride are believed to be related to its ability to inhibit the influx of calcium ions during membrane depolarization of cardiac and vascular smooth muscles.
 
-Mechanism of Action: Hypertension: Dilacor XR produces its antihypertensive effect primarily by relaxation of vascular smooth muscle with a resultant decrease in peripheral vascular resistance.
+## Mechanism of Action
+
+Hypertension: Dilacor XR produces its antihypertensive effect primarily by relaxation of vascular smooth muscle with a resultant decrease in peripheral vascular resistance.
 The magnitude of blood pressure reduction is related to the degree of hypertension; thus hypertensive individuals experience an antihypertensive effect, whereas there is only a modest fall in blood pressure in normotensives.
 
 Angina: Diltiazem HCl has been shown to produce increases in exercise tolerance, probably due to its ability to reduce myocardial oxygen demand.
@@ -16,7 +18,9 @@ It causes excitation-contraction uncoupling in various myocardial tissues withou
 Diltiazem produces relaxation of coronary vascular smooth muscle and dilation of both large and small coronary arteries at drug levels which cause little or no negative inotropic effect.
 The resultant increases in coronary blood flow (epicardial and subendocardial) occur in ischemic and nonischemic models and are accompanied by dose-dependent decreases in systemic blood pressure and decreases in peripheral resistance.
 
-Hemodynamic and Electrophysiologic Effects: Like other calcium antagonists, diltiazem decreases sinoatrial and atrioventricular conduction in isolated tissues and has a negative inotropic effect in isolated preparations.
+## Hemodynamic and Electrophysiologic Effects
+
+Like other calcium antagonists, diltiazem decreases sinoatrial and atrioventricular conduction in isolated tissues and has a negative inotropic effect in isolated preparations.
 In the intact animal, prolongation of the AH interval can be seen at higher doses.
 
 In man, diltiazem prevents spontaneous and ergonovine-provoked coronary artery spasm.
@@ -51,7 +55,9 @@ In two short-term, double-blind, placebo-controlled studies, 303 hypertensive pa
 There were no instances of greater than first-degree atrioventricular block, and the maximum increase in the PR interval was 0.08 seconds.
 No patients were prematurely discontinued from the medication due to symptoms related to prolongation of the PR interval.
 
-Pharmacodynamics: In one short-term, double-blind, placebo-controlled study, Dilacor XR 120, 240, 360, and 480 mg/day demonstrated a dose-related antihypertensive response among patients with mild to moderate hypertension.
+## Pharmacodynamics
+
+In one short-term, double-blind, placebo-controlled study, Dilacor XR 120, 240, 360, and 480 mg/day demonstrated a dose-related antihypertensive response among patients with mild to moderate hypertension.
 Statistically significant decreases in trough mean supine diastolic blood pressure were seen through 4 weeks of treatment: 120 mg/day (-5.1 mmHg); 240 mg/day (-6.9 mmHg); 360 mg/day (-6.9 mmHg); and, 480 mg/day (-10.6 mmHg).
 Statistically significant decreases in trough mean supine systolic blood pressure were also seen through 4 weeks of treatment: 120 mg/day (-2.6 mmHg); 240 mg/day (-6.5 mmHg); 360 mg/day (-4.8 mmHg); and 480 mg/day (-10.6 mmHg).
 The proportion of evaluable patients exhibiting a therapeutic response (supine diastolic blood pressure <90 mmHg or decrease >10 mmHg) was greater as the dose increased: 31%, 42%, 48%, and 69% with the 120, 240, 360, and 480 mg/day diltiazem groups, respectively.
@@ -64,7 +70,9 @@ However, a further increase in dose to 540 mg/day for 2 weeks provided only a mi
 Dilacor XR, given at 120 mg, 240 mg, and 480 mg/day, in a randomized, multicenter, double-blind, placebo-controlled, parallel group, dose-ranging study, in 189 patients with chronic angina, demonstrated a dose-related increase in exercise time by Exercise Tolerance Test (ETT) and a reduction in rates of anginal attacks (based on individual patient diaries).
 The improvement in total exercise time (using the Bruce protocol), measured at trough exercise periods, for placebo, 120 mg, 240 mg, and 480 mg, was 20, 37, 49, and 56 seconds, respectively.
 
-Pharmacokinetics and Metabolism: Diltiazem is well absorbed from the gastrointestinal tract, and is subject to an extensive first-pass effect.
+## Pharmacokinetics and Metabolism
+
+Diltiazem is well absorbed from the gastrointestinal tract, and is subject to an extensive first-pass effect.
 When given as an immediate release oral formulation, the absolute bioavailability (compared to intravenous administration) of diltiazem is approximately 40%.
 Diltiazem undergoes extensive hepatic metabolism in which 2% to 4% of the unchanged drug appears in the urine.
 Total radioactivity measurement following short IV administration in healthy volunteers suggests the presence of other unidentified metabolites which attain higher concentrations than those of diltiazem and are more slowly eliminated; half-life of total radioactivity is about 20 hours compared to 2 to 5 hours for diltiazem.

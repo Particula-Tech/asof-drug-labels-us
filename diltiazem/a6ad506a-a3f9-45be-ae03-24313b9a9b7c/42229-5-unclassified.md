@@ -1,3 +1,5 @@
+Dilacor XR® (diltiazem HCl) Extended-release Capsules Revised: April 2014 Rx only 14100-06
+
 # OVERDOSAGE OR EXAGGERATED RESPONSE
 
 Several literature reports have identified cases of diltiazem hydrochloride overdose, some with multiple drug ingestion, with both fatal and non-fatal outcomes.
@@ -5,15 +7,23 @@ The reported events affected multiple body systems including the cardiovascular 
 The administration of ipecac to induce vomiting and activated charcoal to reduce drug absorption have been advocated as initial means of intervention.
 In addition to gastric lavage, the following measures should also be considered:
 
-Bradycardia: administer atropine (0.6 mg to 1 mg).
+## Bradycardia
+
+administer atropine (0.6 mg to 1 mg).
 If there is no response to vagal blockade, administer isoproterenol cautiously.
 
-High-Degree AV Block: Treat as for bradycardia above.
+## High-Degree AV Block
+
+Treat as for bradycardia above.
 Fixed high-degree AV block should be treated with cardiac pacing.
 
-Cardiac Failure: Administer inotropic agents (dopamine or dobutamine) and diuretics.
+## Cardiac Failure
 
-Hypotension: Vasopressors (e.g., dopamine or levarterenol bitartrate).
+Administer inotropic agents (dopamine or dobutamine) and diuretics.
+
+## Hypotension
+
+Vasopressors (e.g., dopamine or levarterenol bitartrate).
 
 Actual treatment and dosage should depend on the severity of the clinical situation as well as the judgment and experience of the treating physician.
 
