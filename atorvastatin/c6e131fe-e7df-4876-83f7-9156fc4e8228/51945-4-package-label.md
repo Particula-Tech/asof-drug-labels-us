@@ -4,11 +4,9 @@ NDC 0071-0155-23
 
 Pfizer
 
-Lipitor® (atorvastatin calcium)
+Lipitor® (atorvastatin calcium) tablets
 
 10 mg*
-
-tablets
 
 90 Tablets Rx only
 
@@ -65,11 +63,9 @@ NDC 0071-0156-23
 
 Pfizer
 
-Lipitor® (atorvastatin calcium)
+Lipitor® (atorvastatin calcium) tablets
 
 20 mg*
-
-tablets
 
 90 Tablets Rx only
 
