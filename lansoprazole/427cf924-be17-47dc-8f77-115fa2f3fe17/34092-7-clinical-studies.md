@@ -34,7 +34,7 @@ Duodenal Ulcer Healing Rates
 
 H. pylori Eradication to Reduce the Risk of Duodenal Ulcer Recurrence
 
-Randomized, double-blind clinical studies performed in the U.S. in patients with H. pylori and duodenal ulcer disease (defined as an active ulcer or history of an ulcer within one year) evaluated the efficacy of lansoprazole in combination with amoxicillin capsules and clarithromycin tablets as triple 14 day therapy or in combination with amoxicillin capsules as dual 14 day therapy for the eradication of H. pylori.
+Randomized, double-blind clinical studies performed in the U.S. in patients with H. pylori and duodenal ulcer disease (defined as an active ulcer or history of an ulcer within one year) evaluated the efficacy of lansoprazole in combination with amoxicillin and clarithromycin as triple 14 day therapy or in combination with amoxicillin as dual 14 day therapy for the eradication of H. pylori.
 Based on the results of these studies, the safety and efficacy of two different eradication regimens were established:
 
 - Triple therapy: Lansoprazole 30 mg twice daily/amoxicillin 1 g twice daily/clarithromycin 500 mg twice daily
@@ -99,7 +99,7 @@ Endoscopic Remission Rates
 
 | Trial | Drug | No. of Pts. | Percent in Endoscopic Remission |  |  |
 | --- | --- | --- | --- | --- | --- |
-| 0 to 3 | 0 to 6 | 0 to 12 |  |  |  |
+| 0 to 3 mo. | 0 to 6 mo. | 0 to 12 mo. |  |  |  |
 | #1 | Lansoprazole 15 mg daily | 86 | 90%(p ≤ 0.001) versus placebo. | 87% | 84% |
 | Placebo | 83 | 49% | 41% | 39% |  |
 | #2 | Lansoprazole 30 mg daily | 18 | 94% | 94% | 85% |
@@ -154,7 +154,7 @@ Risk Reduction of NSAID-Associated Gastric Ulcer
 In one large U.S., multicenter, double-blind, placebo- and misoprostol-controlled (misoprostol blinded only to the endoscopist) study in patients who required chronic use of an NSAID and who had a history of an endoscopically documented gastric ulcer, the proportion of patients remaining free from gastric ulcer at four, eight, and 12 weeks was significantly higher with 15 or 30 mg of lansoprazole than placebo.
 A total of 537 patients were enrolled in the study, and 535 patients were treated.
 Patients ranged in age from 23 to 89 years (median age 60 years), with 65% female patients and 35% male patients.
-Race was distributed as follows: 90% Caucasian, 6% Black, 4% Other.
+Race was distributed as follows: 90% Caucasian, 6% Black, 4% other.
 The 30 mg dose of lansoprazole demonstrated no additional benefit in risk reduction of the NSAID-associated gastric ulcer than the 15 mg dose (Table 14) [see Indications and Usage (1.6)].
 
 Table 14.
@@ -194,8 +194,6 @@ Frequency of Heartburn
 | Week 1 | 17% | 86% | 57% |
 | Week 4 | 25% | 89% | 73% |
 | Week 8 | 36% | 92% | 80% |
-
-Figure 2: Mean Severity of Night Heartburn by Study Day for Evaluable Patients (3 = Severe, 2 = Moderate, 1 = Mild, 0 = None)
 
 In two U.S., multicenter double-blind, ranitidine-controlled studies of 925 total patients with frequent GERD symptoms, but no esophageal erosions by endoscopy, lansoprazole 15 mg was superior to ranitidine 150 mg (twice daily) in decreasing the frequency and severity of day and night heartburn associated with GERD for the eight week treatment period.
 No significant additional benefit from lansoprazole 30 mg once daily was observed [see Indications and Usage (1.7)].

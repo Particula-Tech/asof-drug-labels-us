@@ -1,10 +1,10 @@
 # 2 DOSAGE AND ADMINISTRATION
 
 Lansoprazole delayed-release capsules are available in 15 mg and 30 mg strengths.
-Directions for use specific to the route and available methods of administration for this dosage form is presented below.
+Directions for use specific to the route and available methods of administration for this dosage form are presented below.
 Lansoprazole delayed-release capsules should be taken before eating.
 Lansoprazole delayed-release capsules SHOULD NOT BE CRUSHED OR CHEWED.
-In the clinical trials, antacids were used concomitantly with lansoprazole.
+In the clinical trials, antacids were used concomitantly.
 
 ## 2.1 Recommended Dose
 
@@ -39,7 +39,7 @@ In the clinical trials, antacids were used concomitantly with lansoprazole.
 | Nonerosive GERD | 15 mg | Once daily for up to 8 weeks |
 | Erosive Esophagitis | 30 mg | Once daily for up to 8 weeks |
 | Maintenance of Healing of Erosive Esophagitis | 15 mg | Once dailyControlled studies did not extend beyond 12 months. |
-| Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome | 60 mg | Once dailyVaries with individual patient. Recommended adult starting dose is 60 mg once daily. Doses should be adjusted to individual patient needs and should continue for as long as clinically indicated. Dosages up to 90 mg twice daily have been administered. Daily dose of greater than 120 mg should be administered in divided doses. Some patients with Zollinger-Ellison syndrome have been treated continuously with lansoprazole for more than four years. |
+| Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome | 60 mg | Once dailyVaries with individual patient. Recommended adult starting dose is 60 mg once daily. Doses should be adjusted to individual patient needs and should continue for as long as clinically indicated. Dosages up to 90 mg twice daily have been administered. Daily dose of greater than 120 mg should be administered in divided doses. Some patients with Zollinger-Ellison Syndrome have been treated continuously with lansoprazole for more than four years. |
 
 Patients should be instructed that if a dose is missed, it should be taken as soon as possible.
 However, if the next scheduled dose is due, the patient should not take the missed dose, and should be instructed to take the next dose on time.

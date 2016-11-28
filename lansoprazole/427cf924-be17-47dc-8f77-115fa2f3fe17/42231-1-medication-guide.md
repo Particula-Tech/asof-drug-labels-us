@@ -13,21 +13,28 @@ Talk with your doctor.
 
 Lansoprazole delayed-release capsules can cause serious side effects, including:
 
+- •A type of kidney problem (acute interstitial nephritis).
+  Some people who take proton pump inhibitor (PPI) medicines, including lansoprazole delayed-release capsules, may develop a kidney problem called acute interstitial nephritis, that can happen at any time during treatment with PPI medicines.
+  Call your doctor right away if you have a decrease in the amount that you urinate or if you have blood in your urine.
 - •Diarrhea.
   Lansoprazole delayed-release capsules may increase your risk of getting severe diarrhea.
   This diarrhea may be caused by an infection (Clostridium difficile) in your intestines.
 - Call your doctor right away if you have watery stool, stomach pain, and fever that does not go away.
 - •Bone fractures.
-  People who take multiple daily doses of proton pump inhibitor medicines for a long period of time (a year or longer) may have an increased risk of fractures of the hip, wrist or spine.
+  People who take multiple daily doses of PPI medicines for a long period of time (a year or longer) may have an increased risk of fractures of the hip, wrist or spine.
   You should take lansoprazole delayed-release capsules exactly as prescribed, at the lowest dose possible for your treatment and for the shortest time needed.
   Talk to your doctor about your risk of bone fracture if you take lansoprazole delayed-release capsules.
+- •Certain types of lupus erythematosus.
+  Lupus erythematosus is an autoimmune disorder (the body’s immune cells attack other cells or organs in the body).
+  Some people who take PPI medicines, including lansoprazole delayed-release capsules, may develop certain types of lupus erythematosus or have worsening of the lupus they already have.
+  Call your doctor right away if you have new or worsening joint pain or a rash on your cheeks or arms that gets worse in the sun.
 
 Lansoprazole delayed-release capsules can have other serious side effects.
 See “What are the possible side effects of lansoprazole delayed-release capsules?”
 
 What are lansoprazole delayed-release capsules?
 
-Lansoprazole delayed-release capsules are a prescription medicine called a proton pump inhibitor (PPI).
+Lansoprazole delayed-release capsules are a prescription medicine called a proton pump inhibitor (PPIs).
 Lansoprazole delayed-release capsules reduce the amount of acid in your stomach.
 
 Lansoprazole delayed-release capsules are used in adults:
@@ -42,10 +49,8 @@ Lansoprazole delayed-release capsules are used in adults:
 - •for up to 8 weeks to heal stomach ulcers in some people taking pain medicines called non-steroidal anti-inflammatory drugs (NSAIDs).
 - •for reducing the risk of stomach ulcers in some people taking NSAIDs.
 - •for up to 8 weeks for the relief of heartburn and other symptoms of gastroesophageal reflux disease (GERD).
-
-GERD happens when acid in your stomach backs up into the tube (esophagus) that connects your mouth to your stomach.
-This may cause a burning feeling in your chest or throat, sour taste or burping.
-
+- GERD happens when acid in your stomach backs up into the tube (esophagus) that connects your mouth to your stomach.
+  This may cause a burning feeling in your chest or throat, sour taste or burping.
 - •for 8 weeks to heal the acid-related damage to the lining of the esophagus (called erosive esophagitis) and to relieve symptoms.
   If needed, your doctor may prescribe another 8 weeks of lansoprazole delayed-release capsules.
 - •for continued healing of erosive esophagitis.
@@ -124,13 +129,13 @@ What are the possible side effects of lansoprazole delayed-release capsules?
 Lansoprazole delayed-release capsules can cause serious side effects, including:
 
 - •See “What is the most important information that I should know about lansoprazole delayed-release capsules?”
-- •Vitamin B12 Deficiency.
+- •Vitamin B-12 Deficiency.
   Lansoprazole delayed-release capsules reduce the amount of acid in your stomach.
-  Stomach acid is needed to absorb vitamin B12 properly.
-  Talk with your doctor about the possibility of vitamin B12 deficiency if you have been on lansoprazole delayed-release capsules for a long time (more than 3 years).
+  Stomach acid is needed to absorb vitamin B-12 properly.
+  Talk with your doctor about the possibility of vitamin B-12 deficiency if you have been on lansoprazole delayed-release capsules for a long time (more than 3 years).
 - •Low magnesium levels in your body.
   This problem can be serious.
-  Low magnesium can happen in some people who take a proton pump inhibitor medicine for at least 3 months.
+  Low magnesium can happen in some people who take a PPI medicine for at least 3 months.
   If low magnesium levels happen, it is usually after a year of treatment.
   You may or may not have symptoms of low magnesium.
 
@@ -199,14 +204,14 @@ Active ingredient: lansoprazole, USP.
 
 Inactive ingredients in lansoprazole delayed-release capsules:
 
-black iron oxide, gelatin, hypromellose, magnesium carbonate, methacrylic acid copolymer dispersion, propylene glycol, red iron oxide, shellac, sugar spheres (which contain sucrose and corn starch), talc, titanium dioxide, and triethyl citrate.
+Black iron oxide, gelatin, hypromellose, magnesium carbonate, methacrylic acid copolymer dispersion, propylene glycol, red iron oxide, shellac, sugar spheres (which contain sucrose and corn starch), talc, titanium dioxide, and triethyl citrate.
 Additionally, 15 mg capsule contains brilliant blue FCF - FD&C blue 1.
 
 All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA, Inc.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured For: TEVA PHARMACEUTICALS USA, INC. North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-B 12/2015
+C 10/2016

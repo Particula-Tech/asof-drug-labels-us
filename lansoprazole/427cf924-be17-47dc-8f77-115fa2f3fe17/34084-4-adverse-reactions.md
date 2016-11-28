@@ -1,18 +1,27 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1 Clinical
+The following serious adverse reactions are described below and elsewhere in labeling:
+
+- •Acute Interstitial Nephritis [see Warnings and Precautions (5.2)]
+- •Clostridium difficile Associated Diarrhea [see Warnings and Precautions (5.3)]
+- •Bone Fracture [see Warnings and Precautions (5.4)]
+- •Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)]
+- •Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.6)]
+- •Hypomagnesemia [see Warnings and Precautions (5.7)]
+
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
 Worldwide, over 10,000 patients have been treated with lansoprazole in Phase 2 or Phase 3 clinical trials involving various dosages and durations of treatment.
 In general, lansoprazole treatment has been well-tolerated in both short-term and long-term trials.
-
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
 The following adverse reactions were reported by the treating physician to have a possible or probable relationship to drug in 1% or more of lansoprazole-treated patients and occurred at a greater rate in lansoprazole-treated patients than placebo-treated patients in Table 1.
 
 Table 1.
 Incidence of Possibly or Probably Treatment-Related Adverse Reactions in Short-Term, Placebo-Controlled Lansoprazole Studies
 
-| Body System/Adverse Event | Lansoprazole | Placebo |
+| Body System/ Adverse Event | Lansoprazole | Placebo |
 | --- | --- | --- |
 | (N = 2768) | (N = 1023) |  |
 | % | % |  |
@@ -66,7 +75,7 @@ The majority of these cases are foreign-sourced and a relationship to lansoprazo
 Because these reactions were reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
 These events are listed below by COSTART body system.
 
-Body as a Whole - anaphylactic/anaphylactoid reactions; Digestive System - hepatotoxicity, pancreatitis, vomiting; Hemic and Lymphatic System - agranulocytosis, aplastic anemia, hemolytic anemia, leukopenia, neutropenia, pancytopenia, thrombocytopenia, and thrombotic thrombocytopenic purpura; Infections and Infestations – Clostridium difficile associated diarrhea; Metabolism and Nutritional Disorders - hypomagnesemia; Musculoskeletal System - bone fracture, myositis; Skin and Appendages - severe dermatologic reactions including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis (some fatal); Special Senses - speech disorder; Urogenital System - interstitial nephritis, urinary retention.
+Body as a Whole - anaphylactic/anaphylactoid reactions; systemic lupus erythematosus; Digestive System - hepatotoxicity, pancreatitis, vomiting; Hemic and Lymphatic System - agranulocytosis, aplastic anemia, hemolytic anemia, leukopenia, neutropenia, pancytopenia, thrombocytopenia, and thrombotic thrombocytopenic purpura; Infections and Infestations – Clostridium difficile associated diarrhea; Metabolism and Nutritional Disorders - hypomagnesemia; Musculoskeletal System - bone fracture, myositis; Skin and Appendages - severe dermatologic reactions including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis (some fatal); cutaneous lupus erythematosus; Special Senses - speech disorder; Urogenital System - interstitial nephritis, urinary retention.
 
 ## 6.3 Combination Therapy With Amoxicillin and Clarithromycin
 
@@ -84,7 +93,7 @@ Dual Therapy: Lansoprazole/amoxicillin
 The most frequently reported adverse reactions for patients who received lansoprazole three times daily plus amoxicillin three times daily dual therapy were diarrhea (8%) and headache (7%).
 No treatment-emergent adverse reactions were observed at significantly higher rates with lansoprazole three times daily plus amoxicillin three times daily dual therapy than with lansoprazole alone.
 
-For information about adverse reactions with antibacterial agents (amoxicillin and clarithromycin) indicated in combination with lansoprazole delayed-release capsules, refer to the ADVERSE REACTIONS section of their package inserts.
+For information about adverse reactions with antibacterial agents (amoxicillin and clarithromycin) indicated in combination with lansoprazole delayed-release capsules, refer to the ADVERSE REACTIONS section of their prescribing information.
 
 ## 6.4 Laboratory Values
 
@@ -99,4 +108,4 @@ None of these patients who received lansoprazole reported jaundice at any time d
 
 In clinical trials using combination therapy with lansoprazole plus amoxicillin and clarithromycin, and lansoprazole plus amoxicillin, no increased laboratory abnormalities particular to these drug combinations were observed.
 
-For information about laboratory value changes with antibacterial agents (amoxicillin and clarithromycin) indicated in combination with lansoprazole delayed-release capsules, refer to the ADVERSE REACTIONS section of their package inserts.
+For information about laboratory value changes with antibacterial agents (amoxicillin and clarithromycin) indicated in combination with lansoprazole delayed-release capsules, refer to the ADVERSE REACTIONS section of their prescribing information.

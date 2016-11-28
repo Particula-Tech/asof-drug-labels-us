@@ -218,5 +218,6 @@ In clinical trials, antacids were administered concomitantly with lansoprazole a
 Clopidogrel: Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
 A study of healthy subjects who were CYP2C19 extensive metabolizers, receiving once daily administration of clopidogrel 75 mg alone or concomitantly with lansoprazole 30 mg (n = 40), for nine days was conducted.
 The mean AUC of the active metabolite of clopidogrel was reduced by approximately 14% (mean AUC ratio was 86%, with 90% CI of 80 to 92%) when lansoprazole was coadministered compared to administration of clopidogrel alone.
+
 Pharmacodynamic parameters were also measured and demonstrated that the change in inhibition of platelet aggregation (induced by 5 mcM ADP) was related to the change in the exposure to clopidogrel active metabolite.
 The clinical significance of this finding is not clear.

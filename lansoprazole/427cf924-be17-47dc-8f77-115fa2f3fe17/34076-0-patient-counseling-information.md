@@ -1,14 +1,20 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-[See FDA-Approved Medication Guide and Patient Instructions for Use]
+Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
-Patient should be informed of the following:
+Adverse Reactions
 
-- •Advise patients to immediately report and seek care for diarrhea that does not improve.
-  This may be a sign of Clostridium difficile associated diarrhea [see Warnings and Precautions (5.4)].
-- •Advise patients to immediately report and seek care for any cardiovascular or neurological symptoms including palpitations, dizziness, seizures, and tetany as these may be signs of hypomagnesemia [see Warnings and Precautions (5.6)].
+- Advise patients to report to their healthcare provider if they experience any signs or symptoms consistent with:
 
-Information for Patients
+- •Hypersensitivity Reactions [see Contraindications (4)]
+- •Acute Interstitial Nephritis [see Warnings and Precautions (5.2)]
+- •Clostridium difficile Associated Diarrhea [see Warnings and Precautions (5.3)]
+- •Bone Fracture [see Warnings and Precautions (5.4)]
+- •Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)]
+- •Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.6)]
+- •Hypomagnesemia [see Warnings and Precautions (5.7)]
+
+Administration
 
 Lansoprazole is available as a capsule and is available in 15 mg and 30 mg strengths.
 Directions for use specific to the route and available methods of administration for this dosage form is presented below [see Dosage and Administration (2.3)].
@@ -45,7 +51,7 @@ USE IN OTHER FOODS AND LIQUIDS HAS NOT BEEN STUDIED CLINICALLY AND IS THEREFORE 
 
 All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA, Inc.
 
-Manufactured For: TEVA PHARMACEUTICALS USA, INC. North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-L 12/2015
+M 10/2016
