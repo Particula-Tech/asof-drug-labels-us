@@ -6,7 +6,7 @@ Product of Ireland
 
 Capsule contents manufactured by:
 
-Janssen Pharmaceutica, NV.
+Janssen Pharmaceutica NV
 
 Olen, Belgium
 

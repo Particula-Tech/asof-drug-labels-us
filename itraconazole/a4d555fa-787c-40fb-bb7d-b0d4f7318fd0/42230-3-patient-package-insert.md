@@ -190,6 +190,22 @@ This patient information has been approved by the U.S. Food and Drug Administrat
 
 Product of Ireland
 
-© Janssen Pharmaceuticals, Inc. 2001
+Capsule contents manufactured by:
+
+Janssen Pharmaceutica NV
+
+Olen, Belgium
+
+Manufactured by:
+
+JOLLC, Gurabo, Puerto Rico 00778
+
+Manufactured for:
+
+Janssen Pharmaceuticals, Inc.
+
+Titusville, NJ 08560
+
+© 2001 Janssen Pharmaceutical Companies
 
 Printed in USA/ Revised: 10/2016
