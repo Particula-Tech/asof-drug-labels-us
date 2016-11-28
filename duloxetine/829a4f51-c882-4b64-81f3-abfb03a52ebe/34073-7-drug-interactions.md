@@ -22,7 +22,7 @@ Serotonin release by platelets plays an important role in hemostasis.
 Epidemiological studies of the case-control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding have also shown that concurrent use of an NSAID or aspirin may potentiate this risk of bleeding.
 Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs or SNRIs are co-administered with warfarin.
 Concomitant administration of warfarin (2 to 9 mg once daily) under steady state conditions with duloxetine 60 or 120 mg once daily for up to 14 days in healthy subjects (n=15) did not significantly change INR from baseline (mean INR changes ranged from 0.05 to +0.07).
-The total warfarin (protein bound plus free drug) pharmacokinetics (AUCτ,ss, Cmax,ss or tmax,ss) for both R- and S-warfarin were not altered by duloxetine.
+The total warfarin (protein bound plus free drug) pharmacokinetics (AUCT,ss, Cmax,ss or tmax,ss) for both R- and S-warfarin were not altered by duloxetine.
 Because of the potential effect of duloxetine on platelets, patients receiving warfarin therapy should be carefully monitored when duloxetine is initiated or discontinued [see WARNINGS AND PRECAUTIONS (5.5)].
 
 ## 7.5 Lorazepam
@@ -74,7 +74,7 @@ Inhibition of the metabolism of CYP2C19 substrates is therefore not anticipated,
 
 ## 7.14 Serotonergic Drugs
 
-[See DOSAGE AND ADMINISTRATION (2.4, 2.9), CONTRAINDICATIONS (4), and WARNINGS AND PRECAUTIONS (5.4)].
+[See DOSAGE AND ADMINISTRATION (2.4, 2.8), CONTRAINDICATIONS (4), and WARNINGS AND PRECAUTIONS (5.4)].
 
 ## 7.15 Alcohol
 

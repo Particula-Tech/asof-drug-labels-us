@@ -2,7 +2,7 @@
 
 Duloxetine delayed-release capsules USP are selective serotonin and norepinephrine reuptake inhibitor (SSNRI) for oral administration.
 Its chemical designation is (+)-(S)-N-methyl-γ-(1-naphthyloxy)-2-thiophenepropylamine hydrochloride.
-The empirical formula is C18H19NOS.HCl, which corresponds to a molecular weight of 333.88.
+The empirical formula is C18H19NOS•HCl, which corresponds to a molecular weight of 333.88.
 The structural formula is:
 
 Duloxetine hydrochloride is a white to cream colored powder, which is soluble in methanol.

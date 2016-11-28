@@ -25,10 +25,10 @@ Table 7: Summary of the Primary Efficacy Results for Studies in Major Depressive
 | Study Number | Treatment Group | Primary Efficacy Measure: HAMD-17 |  |  |
 | --- | --- | --- | --- | --- |
 |  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference a (95% CI) |
-| Study 1 | Duloxetine (60 mg/day) b Placebo | 21.5 (4.10) 21.1 (3.71) | -10.9 (0.70) -6.1 (0.69) | -4.9 (-6.8, -2.9) - |
-| Study 2 | Duloxetine (60 mg/day) b Placebo | 20.3 (3.32) 20.5 (3.42) | -10.5 (0.71) -8.3 (0.67) | -2.2 (-4.0, -0.3) - |
-| Study 3 | Duloxetine (20 mg BID) b Duloxetine (40 mg BID) b Placebo | 18.6 (5.85) 18.1 (4.52) 17.2 (5.11) | -7.4 (0.80) -8.6 (0.81) -5.0 (0.81) | -2.4 (-4.7, -0.2) -3.6 (-5.9, -1.4) -- |
-| Study 4 | Duloxetine (40 mg BID) b Duloxetine (60 mg BID) b Placebo | 19.9 (3.54) 20.2 (3.41) 19.9 (3.58) | -11.0 (0.49) -12.1 (0.49) -8.8 (0.50) | -2.2 (-3.6, -0.9) -3.3 (-4.7, -1.9) -- |
+| Study 1 | Duloxetine (60 mg/day)b Placebo | 21.5 (4.10) 21.1 (3.71) | -10.9 (0.70) -6.1 (0.69) | -4.9 (-6.8, -2.9) - |
+| Study 2 | Duloxetine (60 mg/day)b Placebo | 20.3 (3.32) 20.5 (3.42) | -10.5 (0.71) -8.3 (0.67) | -2.2 (-4.0, -0.3) - |
+| Study 3 | Duloxetine (20 mg BID)b Duloxetine (40 mg BID)b Placebo | 18.6 (5.85) 18.1 (4.52) 17.2 (5.11) | -7.4 (0.80) -8.6 (0.81) -5.0 (0.81) | -2.4 (-4.7, -0.2) -3.6 (-5.9, -1.4) -- |
+| Study 4 | Duloxetine (40 mg BID)b Duloxetine (60 mg BID)b Placebo | 19.9 (3.54) 20.2 (3.41) 19.9 (3.58) | -11.0 (0.49) -12.1 (0.49) -8.8 (0.50) | -2.2 (-3.6, -0.9) -3.3 (-4.7, -1.9) -- |
 | SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: confidence interval, not adjusted for multiplicity in trials where multiple dose groups were included. |  |  |  |  |
 | aDifference (drug minus placebo) in least-squares mean change from baseline. |  |  |  |  |
 | bDoses statistically significantly superior to placebo. |  |  |  |  |
@@ -67,17 +67,17 @@ Table 8: Summary of the Primary Efficacy Results for Studies in General Anxiety 
 
 | Study Number | Treatment Group | Primary Efficacy Measure |  |  |
 | --- | --- | --- | --- | --- |
-|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference a (95% CI) |
-| Study 1 | Duloxetine (60 mg/day) b | 25.1 (7.18) | -12.8 (0.68) | -4.4 (-6.2, -2.5) |
-| (HAM-A) | Duloxetine (120 mg/day) b | 25.1 (7.24) | -12.5 (0.67) | -4.1 (-5.9, -2.3) |
+|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Differencea (95% CI) |
+| Study 1 | Duloxetine (60 mg/day)b | 25.1 (7.18) | -12.8 (0.68) | -4.4 (-6.2, -2.5) |
+| (HAM-A) | Duloxetine (120 mg/day)b | 25.1 (7.24) | -12.5 (0.67) | -4.1 (-5.9, -2.3) |
 |  | Placebo | 25.8 (7.66) | -8.4 (0.67) | -- |
-| Study 2 | Duloxetine (60 to 120 mg/day) b | 22.5 (7.44) | -8.1 (0.70) | -2.2 (-4.2, -0.3) |
+| Study 2 | Duloxetine (60 to 120 mg/day)b | 22.5 (7.44) | -8.1 (0.70) | -2.2 (-4.2, -0.3) |
 | (HAM-A) | Placebo | 23.5 (7.91) | -5.9 (0.70) | -- |
-| Study 3 | Duloxetine (60 to 120 mg/day) b | 25.8 (5.66) | -11.8 (0.69) | -2.6 (-4.5, -0.7) |
+| Study 3 | Duloxetine (60 to 120 mg/day)b | 25.8 (5.66) | -11.8 (0.69) | -2.6 (-4.5, -0.7) |
 | (HAM-A) | Placebo | 25.0 (5.82) | -9.2 (0.67) | -- |
 | SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: confidence interval, not adjusted for multiplicity in trials where multiple dose groups were included. |  |  |  |  |
-| aDifference (drug minus placebo) in least squares mean change from baseline. |  |  |  |  |
-| bDose statistically significantly superior to placebo. |  |  |  |  |
+| a Difference (drug minus placebo) in least squares mean change from baseline. |  |  |  |  |
+| b Dose statistically significantly superior to placebo. |  |  |  |  |
 
 Pediatric use information for patient's ages 7 to 17 years is approved for Eli Lilly and Company, Inc.'s CYMBALTA® (duloxetine) delayed-release capsules.
 However, due to Eli Lilly and Company, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
@@ -121,7 +121,7 @@ Two hundred thirty-six adult patients (N=115 on duloxetine, N=121 on placebo) en
 After 7 weeks of treatment, duloxetine patients with less than 30% reduction in average daily pain and who were able to tolerate duloxetine 60 mg once daily had their dose of duloxetine, in a double-blinded fashion, increased to 120 mg once daily for the remainder of the study.
 Patients had a mean baseline pain rating of 6 on a numerical rating scale ranging from 0 (no pain) to 10 (worst possible pain).
 After 13 weeks of treatment, patients taking duloxetine 60 to 120 mg daily had a significantly greater pain reduction compared to placebo.
-Randomization was stratified by the patient's baseline NSAIDs use status.
+Randomization was stratified by the patients' baseline NSAIDs use status.
 Subgroup analyses did not indicate that there were differences in treatment outcomes as a function of NSAIDs use.
 
 Study CLBP-2:

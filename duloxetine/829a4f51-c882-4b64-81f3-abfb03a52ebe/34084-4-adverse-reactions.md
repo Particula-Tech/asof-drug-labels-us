@@ -28,7 +28,7 @@ Reactions reported during the studies were not necessarily caused by the therapy
 Adults
 
 The data described below reflect exposure to duloxetine in placebo-controlled trials for MDD (N=3779), GAD (N=1018), OA (N=503), CLBP (N=600), DPNP (N=906), and another indication (N=1294).
-The population studied was 17 to 89 years of age; 65.7%, 60.8%, 60.6%, 42.9% and 94.4% female; and 81.8%, 72.6%, 85.3%, 74.0%, and 85.7% Caucasian for MDD, GAD, OA and CLBP, and DPNP, and another indication, respectively.
+The population studied was 17 to 89 years of age; 65.7%, 60.8%, 60.6%, 42.9%, and 94.4% female; and 81.8%, 72.6%, 85.3%, 74.0%, and 85.7% Caucasian for MDD, GAD, OA and CLBP, DPNP, and another indication, respectively.
 Most patients received doses of a total of 60 to 120 mg per day [see CLINICAL STUDIES (14)].
 
 Information describing two additional clinical studies in which efficacy was not demonstrated in patients ages 7 to 17 years is approved for Eli Lilly and Company, Inc.'s CYMBALTA® (duloxetine) delayed-release capsules.
@@ -40,7 +40,7 @@ However, due to Eli Lilly and Company, Inc.'s marketing exclusivity rights, this
 Major Depressive Disorder
 
 Approximately 8.4% (319/3779) of the patients who received duloxetine in placebo-controlled trials for MDD discontinued treatment due to an adverse reaction, compared with 4.6% (117/2536) of the patients receiving placebo.
-Nausea (duloxetine 1.1%, placebo 0.4%) was the only common adverse reaction reported as a reason for discontinuation and considered to be drug-related (i.e., discontinuation occurring in at least 1% of the duloxetine treated patients and at a rate of at least twice that of placebo).
+Nausea (duloxetine 1.1%, placebo 0.4%) was the only common adverse reaction reported as a reason for discontinuation and considered to be drug-related (i.e., discontinuation occurring in at least 1% of the duloxetine-treated patients and at a rate of at least twice that of placebo).
 
 Generalized Anxiety Disorder
 
@@ -113,11 +113,11 @@ Pooled MDD and GAD Trials
 
 Table 3 gives the incidence of treatment-emergent adverse reactions in MDD and GAD placebo-controlled trials for approved indications that occurred in 2% or more of patients treated with duloxetine and with an incidence greater than placebo.
 
-Table 3: Treatment-Emergent Adverse Reactions: Incidence of 2% or More and Greater than Placebo in MDD and GAD Placebo-Controlled TrialsThe inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer.
+Table 3: Treatment-Emergent Adverse Reactions: Incidence of 2% or More and Greater than Placebo in MDD and GAD Placebo-Controlled Trialsa
 
 |  | Percentage of Patients Reporting Reaction |  |
 | --- | --- | --- |
-| System Organ Class / Adverse Reaction | Duloxetine(N=4797) | Placebo(N=3303) |
+| System Organ Class / Adverse Reaction | Duloxetine (N=4797) | Placebo (N=3303) |
 | Cardiac Disorders |  |  |
 | Palpitations | 2 | 1 |
 | Eye Disorders |  |  |
@@ -151,24 +151,25 @@ Table 3: Treatment-Emergent Adverse Reactions: Incidence of 2% or More and Great
 | Yawning | 2 | <1 |
 | Skin and Subcutaneous Tissue Disorders |  |  |
 | Hyperhidrosis | 6 | 2 |
-| cEvents for which there was a significant dose-dependent relationship in fixed-dose studies, excluding three MDD studies which did not have a placebo lead-in period or dose titration. |  |  |
-| dAlso includes abdominal pain upper, abdominal pain lower, abdominal tenderness, abdominal discomfort, and gastrointestinal pain |  |  |
-| eAlso includes asthenia |  |  |
-| fAlso includes hypersomnia and sedation |  |  |
-| gAlso includes initial insomnia, middle insomnia, and early morning awakening |  |  |
-| hAlso includes feeling jittery, nervousness, restlessness, tension and psychomotor hyperactivity |  |  |
-| iAlso includes loss of libido |  |  |
-| jAlso includes anorgasmia |  |  |
+| aThe inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer. |  |  |
+| c Events for which there was a significant dose-dependent relationship in fixed-dose studies, excluding three MDD studies which did not have a placebo lead-in period or dose titration. |  |  |
+| d Also includes abdominal pain upper, abdominal pain lower, abdominal tenderness, abdominal discomfort, and gastrointestinal pain |  |  |
+| e Also includes asthenia |  |  |
+| f Also includes hypersomnia and sedation |  |  |
+| g Also includes initial insomnia, middle insomnia, and early morning awakening |  |  |
+| h Also includes feeling jittery, nervousness, restlessness, tension and psychomotor hyperactivity |  |  |
+| i Also includes loss of libido |  |  |
+| j Also includes anorgasmia |  |  |
 
 DPNP, another indication, OA, and CLBP
 
 Table 4 gives the incidence of treatment-emergent adverse events that occurred in 2% or more of patients treated with duloxetine (determined prior to rounding) in the premarketing acute phase of DPNP, another indication, OA, and CLBP placebo-controlled trials and with an incidence greater than placebo.
 
-Table 4: Treatment-Emergent Adverse Reactions: Incidence of 2% or More and Greater than Placebo in DPNP, another indication, OA, and CLBP Placebo-Controlled TrialsThe inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer.
+Table 4: Treatment-Emergent Adverse Reactions: Incidence of 2% or More and Greater than Placebo in DPNP, another indication, OA, and CLBP Placebo-Controlled Trialsa
 
 |  | Percentage of Patients Reporting Reaction |  |
 | --- | --- | --- |
-| System Organ Class / Adverse Reaction | Duloxetine(N=3303) | Placebo(N=2352) |
+| System Organ Class / Adverse Reaction | Duloxetine (N=3303) | Placebo (N=2352) |
 | Gastrointestinal Disorders |  |  |
 | Nausea | 23 | 7 |
 | Dry mouthb | 11 | 3 |
@@ -184,7 +185,7 @@ Table 4: Treatment-Emergent Adverse Reactions: Incidence of 2% or More and Great
 | Upper Respiratory Tract Infection | 3 | 3 |
 | Influenza | 2 | 2 |
 | Metabolism and Nutrition Disorders |  |  |
-| Decreased Appetiteb, | 8 | 1 |
+| Decreased Appetiteb | 8 | 1 |
 | Musculoskeletal and Connective Tissue |  |  |
 | Musculoskeletal Paine | 3 | 3 |
 | Muscle Spasms | 2 | 2 |
@@ -207,17 +208,18 @@ Table 4: Treatment-Emergent Adverse Reactions: Incidence of 2% or More and Great
 | Vascular Disorders |  |  |
 | Flushingk | 3 | 1 |
 | Blood pressure increasedl | 2 | 1 |
-| bIncidence of 120 mg/day is significantly greater than the incidence for 60 mg/day. |  |  |
-| cAlso includes abdominal discomfort, abdominal pain lower, abdominal pain upper, abdominal tenderness and gastrointestinal pain |  |  |
-| dAlso includes asthenia |  |  |
-| eAlso includes myalgia and neck pain |  |  |
-| fAlso includes hypersomnia and sedation |  |  |
-| gAlso includes hypoaesthesia, hypoaesthesia facial, genital hypoaesthesia and paraesthesia oral |  |  |
-| hAlso includes initial insomnia, middle insomnia, and early morning awakening. |  |  |
-| iAlso includes feeling jittery, nervousness, restlessness, tension and psychomotor hyperactivity |  |  |
-| jAlso includes ejaculation failure |  |  |
-| kAlso includes hot flush |  |  |
-| lAlso includes blood pressure diastolic increased, blood pressure systolic increased, diastolic hypertension, essential hypertension, hypertension, hypertensive crisis, labile hypertension, orthostatic hypertension, secondary hypertension, and systolic hypertension |  |  |
+| a The inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer. |  |  |
+| b Incidence of 120 mg/day is significantly greater than the incidence for 60 mg/day. |  |  |
+| c Also includes abdominal discomfort, abdominal pain lower, abdominal pain upper, abdominal tenderness and gastrointestinal pain |  |  |
+| d Also includes asthenia |  |  |
+| e Also includes myalgia and neck pain |  |  |
+| f Also includes hypersomnia and sedation |  |  |
+| g Also includes hypoaesthesia, hypoaesthesia facial, genital hypoaesthesia and paraesthesia oral |  |  |
+| h Also includes initial insomnia, middle insomnia, and early morning awakening. |  |  |
+| i Also includes feeling jittery, nervousness, restlessness, tension and psychomotor hyperactivity |  |  |
+| j Also includes ejaculation failure |  |  |
+| k Also includes hot flush |  |  |
+| l Also includes blood pressure diastolic increased, blood pressure systolic increased, diastolic hypertension, essential hypertension, hypertension, hypertensive crisis, labile hypertension, orthostatic hypertension, secondary hypertension, and systolic hypertension |  |  |
 
 ## 6.6 Effects on Male and Female Sexual Function in Adults
 
@@ -232,15 +234,18 @@ Physicians should routinely inquire about possible sexual side effects.
 
 Table 5: Mean Change in ASEX Scores by Gender in MDD Placebo-Controlled Trials
 
-|  | Male Patientsn=Number of patients with non-missing change score for ASEX total |  | Female Patients |  |
+|  | Male Patientsa |  | Female Patientsa |  |
 | --- | --- | --- | --- | --- |
 |  | Duloxetine (n=175) | Placebo (n=83) | Duloxetine (n=241) | Placebo (n=126) |
-| ASEX Total (Items 1 to 5) | 0.56p=0.013 versus placebo | -1.07 | -1.15 | -1.07 |
+| ASEX Total (Items 1 to 5) | 0.56b | -1.07 | -1.15 | -1.07 |
 | Item 1-Sex drive | -0.07 | -0.12 | -0.32 | -0.24 |
 | Item 2-Arousal | 0.01 | -0.26 | -0.21 | -0.18 |
 | Item 3-Ability to achieve erection (men); Lubrication (women) | 0.03 | -0.25 | -0.17 | -0.18 |
-| Item 4-Ease of reaching orgasm | 0.40p<0.001 versus placebo | -0.24 | -0.09 | -0.13 |
+| Item 4-Ease of reaching orgasm | 0.40c | -0.24 | -0.09 | -0.13 |
 | Item 5-Orgasm satisfaction | 0.09 | -0.13 | -0.11 | -0.17 |
+| a n=Number of patients with non-missing change score for ASEX total |  |  |  |  |
+| b p=0.013 versus placebo |  |  |  |  |
+| c p<0.001 versus placebo |  |  |  |  |
 
 ## 6.7 Vital Sign Changes in Adults
 
@@ -345,24 +350,24 @@ The most common (≥5% and twice placebo) adverse reactions observed in pediatri
 
 Table 6 provides the incidence of treatment-emergent adverse reactions in pediatric placebo-controlled trials that occurred in greater than 2% of patients treated with duloxetine and with an incidence greater than placebo.
 
-Table 6: Treatment-Emergent Adverse Reactions: Incidence of 2% or More and Greater than Placebo in three 10 week Pediatric Placebo-Controlled TrialsThe inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer.
+Table 6: Treatment-Emergent Adverse Reactions: Incidence of 2% or More and Greater than Placebo in three 10 week Pediatric Placebo-Controlled Trialsa
 
 | System Organ Class/Adverse Reaction | Percentage of Pediatric Patients Reporting Reaction |  |
 | --- | --- | --- |
 |  | Duloxetine (N=476) | Placebo (N=362) |
-| Gastrointestinal Disorders Nausea Abdominal Pain b Vomiting Diarrhea Dry Mouth | 18 13 9 6 2 | 8 10 4 3 1 |
-| General Disorders and Administration Site Conditions Fatigue c | 7 | 5 |
-| Investigations Decreased Weight d | 14 | 6 |
+| Gastrointestinal Disorders Nausea Abdominal Painb Vomiting Diarrhea Dry Mouth | 18 13 9 6 2 | 8 10 4 3 1 |
+| General Disorders and Administration Site Conditions Fatiguec | 7 | 5 |
+| Investigations Decreased Weightd | 14 | 6 |
 | Metabolism and Nutrition Disorders Decreased Appetite | 10 | 5 |
-| Nervous System Disorders Headache Somnolence e Dizziness | 18 11 8 | 13 6 4 |
-| Psychiatric Disorders Insomnia f | 7 | 4 |
+| Nervous System Disorders Headache Somnolencee Dizziness | 18 11 8 | 13 6 4 |
+| Psychiatric Disorders Insomniaf | 7 | 4 |
 | Respiratory, Thoracic, and Mediastinal Disorders Oropharyngeal Pain Cough | 4 3 | 2 1 |
-| bAlso includes abdominal pain upper, abdominal pain lower, abdominal tenderness, abdominal discomfort, and |  |  |
-| gastrointestinal pain. |  |  |
-| cAlso includes asthenia. |  |  |
-| dFrequency based on weight measurement meeting potentially clinically significant threshold of ≥3.5% weight loss (N=467 Duloxetine; N=354 Placebo). |  |  |
-| eAlso includes hypersomnia and sedation. |  |  |
-| fAlso includes initial insomnia, insomnia, middle insomnia, and terminal insomnia. |  |  |
+| a The inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer. |  |  |
+| b Also includes abdominal pain upper, abdominal pain lower, abdominal tenderness, abdominal discomfort, and gastrointestinal pain. |  |  |
+| c Also includes asthenia. |  |  |
+| d Frequency based on weight measurement meeting potentially clinically significant threshold of ≥3.5% weight loss (N=467 Duloxetine; N=354 Placebo). |  |  |
+| e Also includes hypersomnia and sedation. |  |  |
+| f Also includes initial insomnia, insomnia, middle insomnia, and terminal insomnia. |  |  |
 
 Other adverse reactions that occurred at an incidence of less than 2% but were reported by more duloxetine treated patients than placebo treated patients and are associated duloxetine treatment: abnormal dreams (including nightmare), anxiety, flushing (including hot flush), hyperhidrosis, palpitations, pulse increased, and tremor.
 
@@ -385,4 +390,4 @@ However, due to Eli Lilly and Company, Inc.'s marketing exclusivity rights, this
 The following adverse reactions have been identified during post approval use of duloxetine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Adverse reactions reported since market introduction that were temporally related to duloxetine therapy and not mentioned elsewhere in labeling include: anaphylactic reaction, aggression and anger (particularly early in treatment or after treatment discontinuation), angioneurotic edema, angle-closure glaucoma, colitis (microscopic or unspecified), cutaneous vasculitis (sometimes associated with systemic involvement), extrapyramidal disorder, galactorrhea, gynecological bleeding, hallucinations, hyperglycemia, hyperprolactinemia, hypersensitivity, hypertensive crisis, muscle spasm, rash, restless legs syndrome, seizures upon treatment discontinuation, supraventricular arrhythmia, tinnitus (upon treatment discontinuation), trismus, and urticaria.
+Adverse reactions reported since market introduction that were temporally related to duloxetine therapy and not mentioned elsewhere in labeling include: acute pancreatitis, anaphylactic reaction, aggression and anger (particularly early in treatment or after treatment discontinuation), angioneurotic edema, angle-closure glaucoma, colitis (microscopic or unspecified), cutaneous vasculitis (sometimes associated with systemic involvement), extrapyramidal disorder, galactorrhea, gynecological bleeding, hallucinations, hyperglycemia, hyperprolactinemia, hypersensitivity, hypertensive crisis, muscle spasm, rash, restless legs syndrome, seizures upon treatment discontinuation, supraventricular arrhythmia, tinnitus (upon treatment discontinuation), trismus, and urticaria.

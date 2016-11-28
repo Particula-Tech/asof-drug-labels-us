@@ -75,7 +75,7 @@ Advise patients that taking duloxetine can cause mild pupillary dilation, which 
 Pre-existing glaucoma is almost always open-angle glaucoma because angle-closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
 Open-angle glaucoma is not a risk factor for angle-closure glaucoma.
 Patients may wish to be examined to determine whether they are susceptible to angle-closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
-[See WARNINGS AND PRECAUTIONS (5.9)]
+[See WARNINGS AND PRECAUTIONS (5.9)].
 
 • Seizures
 
@@ -107,7 +107,7 @@ Advise patients to notify their physician if they:
 
 - become pregnant during therapy
 - intend to become pregnant during therapy
-- are nursing[see USE IN SPECIFIC POPULATIONS (8.1, 8.3)]
+- are nursing [see USE IN SPECIFIC POPULATIONS (8.1, 8.3)].
 
 • Pediatric Use
 
@@ -141,4 +141,4 @@ Goa 403722
 
 INDIA
 
-Revised: April 2016 ID#: 244876
+Revised: December 2016 ID#: 248944

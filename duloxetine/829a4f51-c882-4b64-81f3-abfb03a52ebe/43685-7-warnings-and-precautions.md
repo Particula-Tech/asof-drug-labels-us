@@ -155,7 +155,7 @@ Duloxetine should be prescribed with care in patients with a history of a seizur
 In adult placebo-controlled clinical trials across indications from baseline to endpoint, duloxetine treatment was associated with mean increases of 0.5 mm Hg in systolic blood pressure and 0.8 mm Hg in diastolic blood pressure compared to mean decreases of 0.6 mm Hg systolic and 0.3 mm Hg diastolic in placebo-treated patients.
 There was no significant difference in the frequency of sustained (3 consecutive visits) elevated blood pressure.
 In a clinical pharmacology study designed to evaluate the effects of duloxetine on various parameters, including blood pressure at supratherapeutic doses with an accelerated dose titration, there was evidence of increases in supine blood pressure at doses up to 200 mg twice daily.
-At the highest 200 mg twice daily dose, the increase in mean pulse rate was 5 to 6.8 beats and increases in mean blood pressure were 4.7 to 6.8 mm Hg (systolic) and 4.5 to 7 mm Hg (diastolic) up to 12 hours after dosing.
+At the highest 200 mg twice daily dose, the increase in mean pulse rate was 5.0 to 6.8 beats and increases in mean blood pressure were 4.7 to 6.8 mm Hg (systolic) and 4.5 to 7 mm Hg (diastolic) up to 12 hours after dosing.
 
 Blood pressure should be measured prior to initiating treatment and periodically measured throughout treatment [see ADVERSE REACTIONS (6.7)].
 
@@ -190,7 +190,7 @@ For this reason, duloxetine should not be prescribed for patients with substanti
 
 CNS Acting Drugs:
 
-Given the primary CNS effects of duloxetine, it should be used with caution when it is taken in combination with or substituted for other centrally acting drugs, including those with a similar mechanism of action [see WARNINGS AND PRECAUTIONS (5.11) and DRUG INTERACTIONS (7.16)].
+Given the primary CNS effects of duloxetine, it should be used with caution when it is taken in combination with or substituted for other centrally acting drugs, including those with a similar mechanism of action [see WARNINGS AND PRECAUTIONS (5.12) and DRUG INTERACTIONS (7.16)].
 
 ## 5.13 Hyponatremia
 
