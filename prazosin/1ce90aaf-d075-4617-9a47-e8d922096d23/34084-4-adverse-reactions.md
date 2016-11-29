@@ -1,7 +1,7 @@
 # ADVERSE REACTIONS
 
 Clinical trials were conducted on more than 900 patients.
-During these trials and subsequent marketing experience, the most frequent reactions associated with prazosin hydrochloride therapy are: dizziness 10.3%, headache 7.8%, drowsiness 7.6%, lack of energy 6.9%, weakness 6.5%, palpitations 5.3%, and nausea 4.9%.
+During these trials and subsequent marketing experience, the most frequent reactions associated with prazosin hydrochloride capsules therapy are: dizziness 10.3%, headache 7.8%, drowsiness 7.6%, lack of energy 6.9%, weakness 6.5%, palpitations 5.3%, and nausea 4.9%.
 In most instances, side effects have disappeared with continued therapy or have been tolerated with no decrease in dose of drug.
 
 Less frequent adverse reactions which are reported to occur in 1% to 4% of patients are:
@@ -39,16 +39,16 @@ In these instances, the exact causal relationship has not been established becau
 
 In more specific slit-lamp and funduscopic studies, which included adequate baseline examinations, no drug-related abnormal ophthalmological findings have been reported.
 
-Literature reports exist associating prazosin therapy with a worsening of pre-existing narcolepsy.
+Literature reports exist associating prazosin hydrochloride capsules therapy with a worsening of pre-existing narcolepsy.
 A causal relationship is uncertain in these cases.
 
 In post-marketing experience, the following adverse events have been reported:
 
 Autonomic Nervous System: flushing.
 
-Body as a Whole: allergic reaction, asthenia, malaise, pain.
+Body As A Whole: allergic reaction, asthenia, malaise, pain.
 
-Cardiovascular:General: angina pectoris, hypertension.
+Cardiovascular: General: angina pectoris, hypertension.
 
 Endocrine: gynecomastia.
 

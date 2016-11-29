@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-Prazosin hydrochloride capsules, USP are indicated for the treatment of hypertension, to lower blood pressure.
+Prazosin hydrochloride capsules are indicated for the treatment of hypertension, to lower blood pressure.
 Lowering blood pressure reduces the risk of fatal and nonfatal cardiovascular events, primarily strokes and myocardial infarctions.
 These benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes, including this drug.
 

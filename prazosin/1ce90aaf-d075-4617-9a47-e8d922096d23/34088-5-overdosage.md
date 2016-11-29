@@ -1,6 +1,6 @@
 # OVERDOSAGE
 
-Accidental ingestion of at least 50 mg of prazosin hydrochloride in a 2 year old child resulted in profound drowsiness and depressed reflexes.
+Accidental ingestion of at least 50 mg of prazosin hydrochloride capsules in a two year old child resulted in profound drowsiness and depressed reflexes.
 No decrease in blood pressure was noted.
 Recovery was uneventful.
 
@@ -9,4 +9,4 @@ Restoration of blood pressure and normalization of heart rate may be accomplishe
 If this measure is inadequate, shock should first be treated with volume expanders.
 If necessary, vasopressors should then be used.
 Renal function should be monitored and supported as needed.
-Laboratory data indicate prazosin is not dialysable because it is protein bound.
+Laboratory data indicate prazosin hydrochloride capsules are not dialysable because it is protein bound.
