@@ -7,7 +7,9 @@ Valganciclovir is an antiviral drug [see Microbiology (12.4)].
 ## 12.3 Pharmacokinetics
 
 Because the major elimination pathway for ganciclovir is renal, dosage reductions according to creatinine clearance are required for valganciclovir tablets and valganciclovir for oral solution [see Dosage and Administration (2.5)].
+
 Pharmacokinetics in Adults: The pharmacokinetics of valganciclovir and ganciclovir after administration of valganciclovir tablets have been evaluated in HIV- and CMV-seropositive patients, patients with AIDS and CMV retinitis, and in solid organ transplant patients.
+
 The ganciclovir pharmacokinetic parameters following administration of 900 mg valganciclovir tablets and 5 mg per kg intravenous ganciclovir and 1000 mg three times daily oral ganciclovir in HIV-positive/CMV-positive patients are summarized in Table 10.
 
 Table 10 Mean Ganciclovir Pharmacokinetic* Measures in Healthy Volunteers and HIV-positive/CMV-positive Adults at Maintenance Dosage
@@ -26,8 +28,11 @@ The area under the plasma concentration-time curve (AUC) of ganciclovir administ
 The Cmax of ganciclovir following valganciclovir hydrochloride administration is 40% lower than the Cmax following intravenous ganciclovir administration.
 During maintenance dosing, ganciclovir AUC0-24h and Cmax following oral ganciclovir administration (1000 mg three times daily) are lower relative to valganciclovir hydrochloride and intravenous ganciclovir.
 The ganciclovir Cmin following intravenous ganciclovir and valganciclovir hydrochloride administration are less than the ganciclovir Cmin following oral ganciclovir administration.
-The clinical significance of the differences in ganciclovir pharmacokinetics after administration of valganciclovir tablets, ganciclovir capsules, and intravenous ganciclovir is unknown. * Plasma concentration-time profiles for ganciclovir (GCV) from valganciclovir (VGCV) and intravenous ganciclovir were obtained from a multiple dose study (n=21 and n=18, respectively) in HIV-positive/CMV-positive patients with CMV retinitis.
+The clinical significance of the differences in ganciclovir pharmacokinetics after administration of valganciclovir tablets, ganciclovir capsules, and intravenous ganciclovir is unknown.
+
+* Plasma concentration-time profiles for ganciclovir (GCV) from valganciclovir (VGCV) and intravenous ganciclovir were obtained from a multiple dose study (n=21 and n=18, respectively) in HIV-positive/CMV-positive patients with CMV retinitis.
 The plasma concentration-time profile for oral ganciclovir was obtained from a multiple dose study (n=24) in HIV-positive/CMV-positive patients without CMV retinitis.
+
 In solid organ transplant recipients, the mean systemic exposure to ganciclovir was 1.7 times higher following administration of 900 mg valganciclovir tablets once daily versus 1000 mg ganciclovir capsules three times daily, when both drugs were administered according to their renal function dosing algorithms.
 The systemic ganciclovir exposures attained were comparable across kidney, heart and liver transplant recipients based on a population pharmacokinetic evaluation (see Table 11).
 
@@ -42,25 +47,36 @@ Table 11 Mean Ganciclovir Pharmacokinetic Measures by Organ Transplant Type
 | * Includes kidney-pancreas |  |  |
 
 The pharmacokinetic parameters of ganciclovir following 200 days of valganciclovir hydrochloride administration in high-risk kidney transplant patients were similar to those previously reported in solid organ transplant patients who received valganciclovir hydrochloride for 100 days.
+
 In a pharmacokinetic study in liver transplant patients, the ganciclovir AUC0-24h achieved with 900 mg valganciclovir was 41.7 ± 9.9 mcg∙h/mL (n=28) and the AUC0-24h achieved with the approved dosage of 5 mg per kg intravenous ganciclovir was 48.2 ± 17.3 mcg∙h/mL (n=27).
+
 Absorption: Valganciclovir, a prodrug of ganciclovir, is well absorbed from the gastrointestinal tract and rapidly metabolized in the intestinal wall and liver to ganciclovir.
 The absolute bioavailability of ganciclovir from valganciclovir tablets following administration with food was approximately 60% (3 studies, n=18; n=16; n=28).
 Ganciclovir median Tmax following administration of 450 mg to 2625 mg valganciclovir tablets ranged from 1 to 3 hours.
 Dose proportionality with respect to ganciclovir AUC following administration of valganciclovir tablets was demonstrated only under fed conditions.
 Systemic exposure to the prodrug, valganciclovir, is transient and low, and the AUC24 and Cmax values are approximately 1% and 3% of those of ganciclovir, respectively.
+
 Food Effects: When valganciclovir tablets were administered with a high fat meal containing approximately 600 total calories (31.1 g fat, 51.6 g carbohydrates and 22.2 g protein) at a dose of 875 mg once daily to 16 HIV-positive subjects, the steady-state ganciclovir AUC increased by 30% (95% CI 12% to 51%), and the Cmax increased by 14% (95% CI -5% to 36%), without any prolongation in time to peak plasma concentrations (Tmax).
 Valganciclovir hydrochloride should be administered with food [see Dosage and Administration (2.1)].
+
 Distribution: Due to the rapid conversion of valganciclovir to ganciclovir, plasma protein binding of valganciclovir was not determined.
 Plasma protein binding of ganciclovir is 1% to 2% over concentrations of 0.5 and 51 mcg/mL.
 When ganciclovir was administered intravenously, the steady-state volume of distribution of ganciclovir was 0.703 ± 0.134 L/kg (n=69).
+
 After administration of valganciclovir tablets, no correlation was observed between ganciclovir AUC and reciprocal weight; oral dosing of valganciclovir tablets according to weight is not required.
+
 Metabolism: Valganciclovir is rapidly hydrolyzed to ganciclovir; no other metabolites have been detected.
 No metabolite of orally administered radiolabeled ganciclovir (1000 mg single dose) accounted for more than 1% to 2% of the radioactivity recovered in the feces or urine.
+
 Elimination: The major route of elimination of valganciclovir is by renal excretion as ganciclovir through glomerular filtration and active tubular secretion.
 Systemic clearance of intravenously administered ganciclovir was 3.07 ± 0.64 mL/min/kg (n=68) while renal clearance was 2.99 ± 0.67 mL/min/kg (n=16).
+
 The terminal half-life (t½) of ganciclovir following oral administration of valganciclovir tablets to either healthy or HIV-positive/CMV-positive subjects was 4.08 ± 0.76 hours (n=73), and that following administration of intravenous ganciclovir was 3.81 ± 0.71 hours (n=69).
 In heart, kidney, kidney-pancreas, and liver transplant patients, the terminal elimination half-life of ganciclovir following oral administration of valganciclovir hydrochloride was 6.48 ± 1.38 hours, and following oral administration of ganciclovir capsules was 8.56 ± 3.62 hours.
-Specific Populations: Renal Impairment: The pharmacokinetics of ganciclovir from a single oral dose of 900 mg valganciclovir tablets were evaluated in 24 otherwise healthy individuals with renal impairment.
+
+Specific Populations:
+
+Renal Impairment: The pharmacokinetics of ganciclovir from a single oral dose of 900 mg valganciclovir tablets were evaluated in 24 otherwise healthy individuals with renal impairment.
 
 Table 12 Pharmacokinetics of Ganciclovir from a Single Oral Dose of 900 mg Valganciclovir Tablets
 
@@ -70,36 +86,42 @@ Table 12 Pharmacokinetics of Ganciclovir from a Single Oral Dose of 900 mg Valga
 
 Decreased renal function results in decreased clearance of ganciclovir from valganciclovir, and a corresponding increase in terminal half-life.
 Therefore, dosage adjustment is required for patients with impaired renal function.
+
 Hemodialysis reduces plasma concentrations of ganciclovir by about 50% following valganciclovir hydrochloride administration.
 Adult patients receiving hemodialysis (CrCl less than 10 mL/min) cannot use valganciclovir tablets because the daily dose of valganciclovir tablets required for these patients is less than 450 mg [see Dosage and Administration (2.5) and Use in Specific Populations (8.6)].
+
 Pharmacokinetics in Pediatric Patients: The pharmacokinetics of ganciclovir were evaluated following the administration of valganciclovir in 63 pediatric solid organ transplant patients aged 4 months to 16 years.
-In these studies, patients received oral doses of valganciclovir (either valganciclovir for oral solution or tablets) to produce exposure equivalent to an adult 900 mg dose [see Dosage and Administration (2.3), Adverse Reactions (6.1), Use in Specific Populations (8.4), Clinical Studies (14.2)].
+In these studies, patients received oral doses of valganciclovir (either valganciclovir for oral solution or tablets) to produce exposure equivalent to an adult 900 mg dose [see Dosage and Administration (2.3), Adverse Reactions (6.1), Use in Specific Populations (8.4),Clinical Studies (14.2)].
+
 The pharmacokinetics of ganciclovir were similar across organ types and age ranges.
 Based on a population pharmacokinetic evaluation, clearance is influenced by both body weight and renal function, while the central and peripheral volumes of distribution were influenced by weight [see Dosage and Administration (2.5)].
 The mean total clearance was 5.3 L/hr (88.3 mL/min) for a patient with creatinine clearance of 70.4 mL/min.
-The mean ganciclovir Cmax, AUC and half-life by age and organ type in studies using the pediatric valganciclovir dosing algorithm are listed in Table 13.
+The mean ganciclovir Cmax, AUC and half-life by age and organ type in studies using the pediatric valganciclovir dosing algorithm are listed inTable 13.
 Relative to adult transplant patients (Table 11), AUC values in pediatric patients were somewhat increased, but were within the range considered safe and effective in adults.
 
 Table 13 Ganciclovir Pharmacokinetics by Age in Pediatric Solid Organ Transplant Patientsa
 
-|  | Age Group |  |  |  |
-| --- | --- | --- | --- | --- |
-| Organ | PK Parameter mean (SD) | 4 months to ≤ 2 years | > 2 to < 12 years | ≥ 12 years |
-|  | N | 6 | 2 | 4 |
-| Heart (N=12) | AUC0-24h (mcg∙h/mL) Cmax (mcg/mL) t1/2 (h) | 55.4 (22.8) 8.2 (2.5) 3.8 (1.7) | 59.6 (21) 12.5 (1.2) 2.8 (0.9) | 60.6 (25) 9.5 (3.3) 4.9 (0.8) |
-|  | N | 2 | 10d,e | 19 |
-| Kidney (N=31) | AUC0-24h (mcg∙h/mL) Cmax (mcg/mL) t1/2 (h) | 67.6 (13) 10.4 (0.4) 4.5 (1.5) | 55.9 (12.1) 8.7 (2.1) 4.8 (1) | 47.8 (12.4) 7.7 (2.1) 6 (1.3) |
-| N | 9 | 6 | 2 |  |
-| Liver (N=17) | AUC0-24h (mcg∙h/mL) Cmax (mcg/mL) t1/2 (h) | 69.9 (37) 11.9 (3.7) 2.8 (1.5) | 59.4 (8.1) 9.5 (2.3) 3.8 (0.7) | 35.4 (2.8) 5.5 (1.1) 4.4 (0.2) |
-| N= number of patients a Pharmacokinetic parameters were estimated by using population pharmacokinetic modeling. d There was one subject in this age group who received both a kidney and liver transplant. The pharmacokinetic profile for this subject has not been included in this table as it is not possible to determine whether the effects observed are from the kidney/liver transplant or neither. e The pharmacokinetic profiles for two subjects in this age group who received kidney transplants have not been included in this table as the data were determined to be non-evaluable. |  |  |  |  |
+|  | Age Group |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Organ | PK Parameter mean (SD) | 4 months to ≤ 2 years | > 2 to < 12 years | ≥ 12 years |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | N | 6 | 2 | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Heart (N=12) | AUC0-24h (mcg∙h/mL) Cmax (mcg/mL) t1/2 (h) | 55.4 (22.8) 8.2 (2.5) 3.8 (1.7) | 59.6 (21) 12.5 (1.2) 2.8 (0.9) | 60.6 (25) 9.5 (3.3) 4.9 (0.8) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | N | 2 | 10d,e | 19 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Kidney (N=31) | AUC0-24h (mcg∙h/mL) Cmax (mcg/mL) t1/2 (h) | 67.6 (13) 10.4 (0.4) 4.5 (1.5) | 55.9 (12.1) 8.7 (2.1) 4.8 (1) | 47.8 (12.4) 7.7 (2.1) 6 (1.3) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| N | 9 | 6 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Liver (N=17) | AUC0-24h (mcg∙h/mL) Cmax (mcg/mL) t1/2 (h) | 69.9 (37) 11.9 (3.7) 2.8 (1.5) | 59.4 (8.1) 9.5 (2.3) 3.8 (0.7) | 35.4 (2.8) 5.5 (1.1) 4.4 (0.2) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| N= number of patients a Pharmacokinetic parameters were estimated by using population pharmacokinetic modeling. d There was one subject in this age group who received both a kidney and liver transplant. The pharmacokinetic profile for this subject has not been included in this table as it is not possible to determine whether the effects observed are from the kidney/liver transplant or neither. e The pharmacokinetic profiles for two subjects in this age group who received kidney transplants have not been included in this table as the data were determined to be non-evaluable. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Pharmacokinetics in Geriatric Patients: The pharmacokinetic characteristics of valganciclovir hydrochloride in elderly patients have not been established.
-Because elderly individuals frequently have a reduced glomerular filtration rate, renal function should be assessed before and during administration of valganciclovir hydrochloride [see Dosage and Administration (2.5), Use in Specific Populations (8.5)].
-Drug Interactions: In vivo drug-drug interaction studies were not conducted with valganciclovir.
+Because elderly individuals frequently have a reduced glomerular filtration rate, renal function should be assessed before and during administration of valganciclovir hydrochloride [see Dosage and Administration (2.5),Use in Specific Populations (8.5)].
+
+Drug Interactions:In vivo drug-drug interaction studies were not conducted with valganciclovir.
 However, because valganciclovir is rapidly and extensively converted to ganciclovir, interactions associated with ganciclovir will be expected for valganciclovir hydrochloride [see Drug Interactions (7)].
+
 Drug-drug interaction studies were conducted in patients with normal renal function.
 Patients with impaired renal function may have increased concentrations of ganciclovir and the coadministered drug following concomitant administration of valganciclovir hydrochloride and drugs excreted by the same pathway as ganciclovir.
 Therefore, these patients should be closely monitored for toxicity of ganciclovir and the coadministered drug.
+
 Table 14 and Table 15 provide a listing of established drug interaction studies with ganciclovir.
 Table 14 provides the effects of coadministered drug on ganciclovir plasma pharmacokinetic parameters, whereas Table 15 provides the effects of ganciclovir on plasma pharmacokinetic parameters of coadministered drug.
 
@@ -127,7 +149,10 @@ Table 15 Results of Drug Interaction Studies with Ganciclovir: Effects of Gancic
 | Didanosine 200 mg every 12 hours | IV ganciclovir 5 mg/kg once daily | 11 | AUC0-12 ↑50 ± 26% (range: 22% to 110%) Cmax ↑36 ± 36% (range: -27% to 94%) |
 | Trimethoprim 200 mg once daily | 1000 mg every 8 hours | 12 | Increase (12%) in Cmin |
 
-Other potential drug interactions Since ganciclovir is excreted through the kidney via glomerular filtration and active secretion [see Pharmacokinetics (12.3)], coadministration of valganciclovir with antiretroviral drugs that share the tubular secretion pathway, such as nucleos(t)ide reverse transcriptase inhibitors, may change the plasma concentrations of valganciclovir and/or the coadministered drug.
+Other potential drug interactions
+
+Since ganciclovir is excreted through the kidney via glomerular filtration and active secretion [see Pharmacokinetics (12.3)], coadministration of valganciclovir with antiretroviral drugs that share the tubular secretion pathway, such as nucleos(t)ide reverse transcriptase inhibitors, may change the plasma concentrations of valganciclovir and/or the coadministered drug.
+
 Pediatric use information for pediatric kidney transplant patients ages 4 months to 16 years and for pediatric heart transplant patients ages 1 to less than 4 months is approved for Roche Palo Alto LLC’s VALCYTE (valganciclovir hydrochloride) tablets and oral solution.
 However, due to Roche Palo Alto LLC’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
