@@ -5,8 +5,11 @@
   "inn": "furosemide",
   "labeler": "Fresenius Kabi USA, LLC",
   "package_ndcs": [
+    "63323-280-01",
     "63323-280-02",
+    "63323-280-03",
     "63323-280-04",
+    "63323-280-05",
     "63323-280-10"
   ],
   "products": [
