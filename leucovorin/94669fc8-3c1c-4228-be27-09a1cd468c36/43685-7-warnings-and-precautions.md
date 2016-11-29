@@ -12,7 +12,7 @@ Doses higher than those recommended for oral use must be given intravenously.
 Leucovorin may enhance the toxicity of fluorouracil.
 Deaths from severe enterocolitis, diarrhea, and dehydration have been reported in elderly patients receiving weekly leucovorin and fluorouracil.1 Concomitant granulocytopenia and fever were present in some but not all of the patients.
 
-The concomitant use of leucovorin with trimethoprim-sulfamethoxazole for the acute treatment of Pneumocystis carinii pneumonia in patients with HIV infection was associated with increased rates of treatment failure and mortality in a placebo controlled study.
+The concomitant use of leucovorin with trimethoprim-sulfamethoxazole for the acute treatment of Pneumocystis carinii pneumonia in patients with HIV infection was associated with increased rates of treatment failure and mortality in a placebo-controlled study.
 
 # PRECAUTIONS
 
@@ -32,7 +32,7 @@ Leucovorin may enhance the toxicity of fluorouracil (see WARNINGS).
 
 ## Pregnancy
 
-### Teratogenic Effects:
+### Teratogenic Effects
 
 #### Pregnancy Category C
 

@@ -1,8 +1,12 @@
+0484
+
+0485
+
 Rx only
 
-TEVA PHARMACEUTICALS USA
+TEVA PHARMACEUTICALS USA, INC.
 
-Sellersville, PA 18960
+North Wales, PA 19454
 
-Iss.
-8/2011
+Rev.
+A 5/2016

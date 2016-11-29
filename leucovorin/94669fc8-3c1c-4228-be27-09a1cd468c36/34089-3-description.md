@@ -10,4 +10,5 @@ These tablets are intended for oral administration only.
 
 The structural formula is as follows:
 
-C20H21CaN7O7 M. W. 511.5
+C20H21CaN7O7 M.W.
+511.5
