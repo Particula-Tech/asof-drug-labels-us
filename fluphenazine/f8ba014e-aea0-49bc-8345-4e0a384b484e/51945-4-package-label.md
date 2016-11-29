@@ -1,31 +1,13 @@
-PACKAGE LABEL - PRINCIPAL DISPLAY - Fluphenazine Decanoate 25 mg/mL Multiple Dose Vial Label
+PACKAGE LABEL - PRINCIPAL DISPLAY - Fluphenazine Decanoate 5 mL Multiple Dose Vial Label
 
-NDC 63323-272-05
+Fluphenazine Decanoate Injection, USP 125 mg per 5 mL (25 mg per mL)
 
-27205
-
-FLUPHENAZINE DECANOATE INJECTION, USP
-
-25 mg/mL
-
-For IM or SC Use
-
+For intramuscular or subcutaneous use.
 5 mL Multiple Dose Vial
 
 Rx only
 
-PACKAGE LABEL - PRINCIPAL DISPLAY - Fluphenazine Decanoate 25 mg/mL Multiple Dose Vial Carton Label
+PACKAGE LABEL - PRINCIPAL DISPLAY - Fluphenazine Decanoate 5 mL Multiple Dose Vial Carton Panel Fluphenazine Decanoate Injection, USP 125 mg per 5 mL (25 mg per mL)
 
-NDC 63323-272-05
-
-27205
-
-FLUPHENAZINE DECANOATE INJECTION, USP
-
-25 mg/mL
-
-For IM or SC Use
-
-5 mL Multiple Dose Vial
-
-Rx only
+For intramuscular or subcutaneous use.
+Rx only 5 mL Multiple Dose Vial
