@@ -4,9 +4,11 @@ An immediate coagulant effect should not be expected after administration of phy
 It takes a minimum of 1 to 2 hours for measurable improvement in the prothrombin time.
 Whole blood or component therapy may also be necessary if bleeding is severe.
 Phytonadione will not counteract the anticoagulant action of heparin.
+
 When vitamin K1 is used to correct excessive anticoagulant-induced hypoprothrombinemia, anticoagulant therapy still being indicated, the patient is again faced with the clotting hazards existing prior to starting the anticoagulant therapy.
 Phytonadione is not a clotting agent, but overzealous therapy with vitamin K1 may restore conditionswhich originally permitted thromboembolic phenomena.
 Dosage should be kept as low as possible, and prothrombin time should be checked regularly as clinical conditions indicate.
+
 Repeated large doses of vitamin K are not warranted in liver disease if the response to initial use of the vitamin is unsatisfactory.
 Failure to respond to vitamin K may indicate that the condition being treated is inherently unresponsive to vitamin K.
 

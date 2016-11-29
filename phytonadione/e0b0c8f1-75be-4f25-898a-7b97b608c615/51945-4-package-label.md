@@ -1,25 +1,43 @@
-# Phytonadione Injectable Emulsion - Syringe Label
+# PRINCIPLE DISPLAY PANEL: Syringe Label
 
-IMS, LIMITED So.
-El Monte, CA 91733, U.S.A. 7612400C 7-13
+IMS, LIMITED
+
+So.
+El Monte, CA 91733, U.S.A.
+
+7612400C 7-13
 
 0.5 mL 1 mg 1 mg / 0.5 mL
 
 PHYTONADIONE INJECTABLE EMULSION, USP
 
-NEONATAL CONCENTRATION FOR I.M.
+NEONATAL CONCENTRATION
+
+FOR I.M.
 OR S.C.
-USE SINGLE DOSE / SEE INSERT PROTECT FROM LIGHT Rx Only
+USE
 
-Approx. mg mL
+SINGLE DOSE / SEE INSERT
 
-# Phytonadione Injectable Emulsion, USP
+PROTECT FROM LIGHT
 
-SAF-T-JET ®
+Rx Only
 
-NDC 76329-1240-1 STOCK NO. 1240
+Approx. mg mL 1 0.5 0.5 0.25
 
-Rx Only SAF-T-JET® 27 G. X 1/2" NEEDLE
+# PRINCIPLE DISPLAY PANEL: Carton
+
+SAF-T-JET®
+
+NDC 76329-1240-1
+
+STOCK NO. 1240
+
+Rx Only
+
+SAF-T-JET®
+
+27 G. X 1/2" NEEDLE
 
 PHYTONADIONE INJECTABLE EMULSION USP
 
@@ -31,7 +49,7 @@ Single use, do not reuse or resterilize.
 
 FOR INTRAMUSCULAR OR SUBCUTANEOUS USE
 
-# Phytonadione Injectable Emulsion, USP - User Guide
+# PRINCIPLE DISPLAY PANEL: User Guide
 
 IMS Saf-T-Jet® Safety Needle
 
