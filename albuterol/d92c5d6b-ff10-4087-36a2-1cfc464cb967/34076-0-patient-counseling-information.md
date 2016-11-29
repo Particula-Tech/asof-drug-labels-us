@@ -18,7 +18,7 @@ Instruct them to discontinue VENTOLIN HFA if paradoxical bronchospasm occurs.
 
 Concomitant Drug Use: Advise patients that while they are using VENTOLIN HFA, other inhaled drugs and asthma medications should be taken only as directed by the physician.
 
-Common Adverse Effects:Common adverse effects of treatment with inhaled albuterol include palpitations, chest pain, rapid heart rate, tremor, and nervousness.
+Common Adverse Effects: Common adverse effects of treatment with inhaled albuterol include palpitations, chest pain, rapid heart rate, tremor, and nervousness.
 
 Pregnancy: Advise patients who are pregnant or nursing to contact their physicians about the use of VENTOLIN HFA.
 

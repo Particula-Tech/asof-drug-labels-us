@@ -49,5 +49,5 @@ Shake the inhaler well before each spray.
 
 Store at room temperature between 68oF and 77oF (20oC and 25oC). with the mouthpiece down.
 
-- 10000000132576 Rev.
-  6/15
+1. 10000000132576 Rev.
+   6/15
