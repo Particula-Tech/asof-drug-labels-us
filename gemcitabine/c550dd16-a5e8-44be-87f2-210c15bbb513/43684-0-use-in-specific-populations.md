@@ -8,7 +8,6 @@ Risk Summary Gemcitabine can cause fetal harm when administered to a pregnant wo
 Based on its mechanism of action, gemcitabine is expected to result in adverse reproductive effects.
 Gemcitabine was teratogenic, embryotoxic, and fetotoxic in mice and rabbits.
 If gemcitabine is used during pregnancy, or if the patient becomes pregnant while taking gemcitabine, the patient should be apprised of the potential hazard to a fetus.
-
 Animal Data Gemcitabine is embryotoxic causing fetal malformations (cleft palate, incomplete ossification) at doses of 1.5 mg/kg/day in mice (approximately 0.005 times the recommended human dose on a mg/m2 basis).
 Gemcitabine is fetotoxic causing fetal malformations (fused pulmonary artery, absence of gall bladder) at doses of 0.1 mg/kg/day in rabbits (about 0.002 times the recommended human dose on a mg/m2 basis).
 Embryotoxicity was characterized by decreased fetal viability, reduced live litter sizes, and developmental delays.
@@ -34,7 +33,6 @@ In clinical studies of gemcitabine, enrolling 979 patients with various cancers 
 In a randomized trial in women with ovarian cancer, 175 women received gemcitabine plus carboplatin, of which 29% were age 65 years or older.
 Similar effectiveness was observed between older and younger women.
 There was significantly higher Grade 3/4 neutropenia in women 65 years of age or older.
-
 Gemcitabine clearance is affected by age, however there are no recommended dose adjustments based on patients' age [see Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment

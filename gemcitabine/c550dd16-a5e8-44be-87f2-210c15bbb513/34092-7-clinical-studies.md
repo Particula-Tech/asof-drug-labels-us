@@ -5,12 +5,10 @@
 The safety and efficacy of gemcitabine for injection was studied in a randomized trial of 356 women with advanced ovarian cancer that had relapsed at least 6 months after first-line platinum-based therapy.
 Patients were randomized to receive either gemcitabine 1,000 mg/m2 on Days 1 and 8 of a 21-day cycle and carboplatin AUC 4 administered after gemcitabine for injection infusion on Day 1 of each cycle (n=178) or to carboplatin AUC 5 administered on Day 1 of each 21-day cycle (n=178).
 The primary efficacy outcome measure was progression free survival (PFS).
-
 Patient characteristics are shown in Table 11.
 The addition of gemcitabine to carboplatin resulted in statistically significant improvements in PFS and overall response rate as shown in Table 12 and Figure 1.
 Approximately 75% of patients in each arm received additional chemotherapy for disease progression; 13 of 120 patients in the carboplatin alone arm received gemcitabine for treatment of disease progression.
 There was no significant difference in overall survival between the treatment arms.
-
 Table 11: Randomized Trial of Gemcitabine plus Carboplatin versus Carboplatin in Ovarian Cancer-Baseline Demographics and Clinical Characteristics
 
 |  | Gemcitabine/Carboplatin | Carboplatin |
@@ -22,9 +20,7 @@ Table 11: Randomized Trial of Gemcitabine plus Carboplatin versus Carboplatin in
 | Platinum-free intervalb 6 to 12 months >12 months | 40% 59% | 40% 60% |
 | First-line therapy Platinum-taxane combination Platinum-non-taxane combination Platinum monotherapy | 70% 29% 1% | 71% 28% 1% |
 
-a 5 patients on Gemcitabine plus carboplatin arm and 4 patients on carboplatin arm with no baseline Eastern Cooperative Oncology Group (ECOG) performance status.
-
-b 2 on Gemcitabine plus carboplatin arm and 1 on carboplatin arm had platinum-free interval <6 months.
+a 5 patients on Gemcitabine plus carboplatin arm and 4 patients on carboplatin arm with no baseline Eastern Cooperative Oncology Group (ECOG) performance status. b 2 on Gemcitabine plus carboplatin arm and 1 on carboplatin arm had platinum-free interval <6 months.
 Table 12: Randomized Trial of Gemcitabine plus Carboplatin versus Carboplatin in Ovarian Cancer - Efficacy Outcomes
 
 |  | Gemcitabine/Carboplatin (N=178) | Carboplatin (N=178) |
@@ -42,17 +38,7 @@ Table 12: Randomized Trial of Gemcitabine plus Carboplatin versus Carboplatin in
 | p-valuec | p=0.11 |  |
 | CRd PR plus PRNMe | 9.1% 37.2% | 4.0% 31.7% |
 
-aCI=confidence interval.
-
-bLog rank, unadjusted.
-
-cChi square.
-
-dCR=Complete response.
-
-ePR plus PRNM=Partial response plus partial response, non-measurable disease.
-
-fIndependently reviewed cohort - gemcitabine/carboplatin (n=121), carboplatin (n=101); independent reviewers unable to measure disease detected by sonography or physical exam.
+aCI=confidence interval. bLog rank, unadjusted. cChi square. dCR=Complete response. ePR plus PRNM=Partial response plus partial response, non-measurable disease. fIndependently reviewed cohort - gemcitabine/carboplatin (n=121), carboplatin (n=101); independent reviewers unable to measure disease detected by sonography or physical exam.
 
 Figure 1: Kaplan-Meier Curve of Progression Free Survival in Gemcitabine plus Carboplatin versus Carboplatin
 
@@ -60,13 +46,11 @@ Figure 1: Kaplan-Meier Curve of Progression Free Survival in Gemcitabine plus Ca
 
 The safety and efficacy of gemcitabine were evaluated in a multi-national, randomized, open-label trial conducted in women receiving initial treatment for metastatic breast cancer in women who have received prior adjuvant/neoadjuvant anthracycline chemotherapy unless clinically contraindicated.
 Patients were randomized to receive gemcitabine for injection 1,250 mg/m2 on Days 1 and 8 of a 21-day cycle and paclitaxel 175 mg/m2 administered prior to gemcitabine for injection on Day 1 of each cycle (n=267) or to receive paclitaxel 175 mg/m2 was administered on Day 1 of each 21-day cycle (n=262).The primary efficacy outcome measure was time to documented disease progression.
-
 A total of 529 patients were enrolled; 267 were randomized to gemcitabine and paclitaxel and 262 to paclitaxel alone.
 Demographic and baseline characteristics were similar between treatment arms (see Table 13).
 Efficacy results are presented in Table 13 and Figure 2.
 The addition of gemcitabine to paclitaxel resulted in statistically significant improvement in time to documented disease progression and overall response rate compared to paclitaxel alone.
 There was no significant difference in overall survival.
-
 Table 13: Randomized Trial of Gemcitabine plus Paclitaxel versus Paclitaxel in Breast Cancer
 
 |  | Gemcitabine/Paclitaxel | Paclitaxel |
@@ -90,13 +74,7 @@ Table 13: Randomized Trial of Gemcitabine plus Paclitaxel versus Paclitaxel in B
 | Overall Response Rate (95% CI) p-value | 40.8% (34.9, 46.7) | 22.1% (17.1, 27.2) |
 | p<0.0001 |  |  |
 
-a Karnofsky Performance Status.
-
-b These represent reconciliation of investigator and Independent Review Committee assessments according to a predefined
-
-algorithm.
-
-cBased on the ITT population.
+a Karnofsky Performance Status. b These represent reconciliation of investigator and Independent Review Committee assessments according to a predefined algorithm. cBased on the ITT population.
 
 Figure 2: Kaplan-Meier Curve of Time to Documented Disease Progression in Gemcitabine Plus Paclitaxel Versus Paclitaxel Breast Cancer Study (N=529)
 
@@ -110,10 +88,8 @@ The primary efficacy outcome measure was overall survival.
 A total of 522 patients were enrolled at clinical centers in Europe, the US, and Canada.
 Patient demographics and baseline characteristics (shown in Table 14) were similar between arms with the exception of histologic subtype of NSCLC, with 48% of patients on the cisplatin arm and 37% of patients on the gemcitabine plus cisplatin arm having adenocarcinoma.
 Efficacy results are presented in Table 14 and Figure 3 for overall survival.
-
 21-Day Schedule A randomized (1:1), multicenter trial was conducted in 135 patients with Stage IIIB or IV NSCLC.
 Patients were randomized to receive gemcitabine for injection 1,250 mg/m2 on Days 1 and 8, and cisplatin 100 mg/m2 on Day 1 of a 21-day cycle or to receive etoposide 100 mg/m2 intravenously on Days 1, 2, and 3 and cisplatin 100 mg/m2 on Day 1 of a 21-day cycle.
-
 There was no significant difference in survival between the two treatment arms (Log rank p=0.18, two sided, see Table 14).
 The median survival was 8.7 months for the gemcitabine plus cisplatin arm versus 7.0 months for the etoposide plus cisplatin arm.
 Median time to disease progression for the gemcitabine plus cisplatin arm was 5.0 months compared to 4.1 months on the etoposide plus cisplatin arm (Log rank p=0.015, two-sided).
@@ -138,40 +114,22 @@ Table 14: Randomized Trials of Gemcitabine plus Cisplatin in Patients with NSCLC
 | Tumor Response p-valuef | 26% | 10% | 33% | 14% |
 | p<0.0001 |  | p=0.01 |  |  |
 
-a 28-day schedule — Gemcitabine plus cisplatin: Gemcitabine 1,000 mg/m2 on Days 1, 8, and 15 and cisplatin 100 mg/m2 on Day 1 every 28 days; Single-agent cisplatin: cisplatin 100 mg/m2 on Day 1 every 28 days.
-
-b 21-day schedule — Gemcitabine plus cisplatin: Gemcitabine 1,250 mg/m2 on Days 1 and 8 and cisplatin 100 mg/m2 on Day 1 every 21 days; Etoposide plus Cisplatin: cisplatin 100 mg/m2 on Day 1 and intravenous etoposide 100 mg/m2 on Days 1, 2, and 3 every 21 days.
-
-c N/A Not applicable.
-
-d Karnofsky Performance Status.
-
-e CI=confidence intervals.
-
-f p-value two-sided Fisher's Exact test for difference in binomial proportions; log rank test for time-to-event analyses.
+a 28-day schedule — Gemcitabine plus cisplatin: Gemcitabine 1,000 mg/m2 on Days 1, 8, and 15 and cisplatin 100 mg/m2 on Day 1 every 28 days; Single-agent cisplatin: cisplatin 100 mg/m2 on Day 1 every 28 days. b 21-day schedule — Gemcitabine plus cisplatin: Gemcitabine 1,250 mg/m2 on Days 1 and 8 and cisplatin 100 mg/m2 on Day 1 every 21 days; Etoposide plus Cisplatin: cisplatin 100 mg/m2 on Day 1 and intravenous etoposide 100 mg/m2 on Days 1, 2, and 3 every 21 days. c N/A Not applicable. d Karnofsky Performance Status. e CI=confidence intervals. f p-value two-sided Fisher's Exact test for difference in binomial proportions; log rank test for time-to-event analyses.
 
 ## 14.4 Pancreatic Cancer
 
 The safety and efficacy of gemcitabine for injection was evaluated in two trials, a randomized, single-blind, two-arm, active-controlled trial conducted in patients with locally advanced or metastatic pancreatic cancer who had received no prior chemotherapy and in a single-arm, open-label, multicenter trial conducted in patients with locally advanced or metastatic pancreatic cancer previously treated with 5-FU or a 5-FU-containing regimen.
 The first trial randomized patients to receive gemcitabine for injection 1,000 mg/m2 intravenously over 30 minutes once weekly for 7 weeks followed by a one-week rest, then once weekly dosing for 3 consecutive weeks every 28-days in subsequent cycles (n=63) or to 5-fluorouracil (5-FU) 600 mg/m2 intravenously over 30 minutes once weekly (n=63).
 In the second trial, all patients received gemcitabine for injection 1,000 mg/m2 intravenously over 30 minutes once weekly for 7 weeks followed by a one-week rest, then once weekly dosing for 3 consecutive weeks every 28-days in subsequent cycles.
-
 The primary efficacy outcome measure in both trials was "clinical benefit response".
-A patient was considered to have had a clinical benefit response if either of the following occurred:
-
-•The patient achieved a ≥50% reduction in pain intensity (Memorial Pain Assessment Card) or analgesic consumption, or a 20-point or greater improvement in performance status (Karnofsky Performance Status) for a period of at least 4 consecutive weeks, without showing any sustained worsening in any of the other parameters.
+A patient was considered to have had a clinical benefit response if either of the following occurred: •The patient achieved a ≥50% reduction in pain intensity (Memorial Pain Assessment Card) or analgesic consumption, or a 20-point or greater improvement in performance status (Karnofsky Performance Status) for a period of at least 4 consecutive weeks, without showing any sustained worsening in any of the other parameters.
 Sustained worsening was defined as 4 consecutive weeks with either any increase in pain intensity or analgesic consumption or a 20-point decrease in performance status occurring during the first 12 weeks of therapy.
-
-OR
-
-•The patient was stable on all of the aforementioned parameters, and showed a marked, sustained weight gain (≥7% increase maintained for ≥4 weeks) not due to fluid accumulation.
-
+OR •The patient was stable on all of the aforementioned parameters, and showed a marked, sustained weight gain (≥7% increase maintained for ≥4 weeks) not due to fluid accumulation.
 The randomized trial enrolled 126 patients across 17 sites in the US and Canada.
 The demographic and entry characteristics were similar between the arms (Table 15).
 The efficacy outcome results are shown in Table 15 and for overall survival in Figure 4.
 Patients treated with gemcitabine for injection had statistically significant increases in clinical benefit response, survival, and time to disease progression compared to those randomized to receive 5-FU.
 No confirmed objective tumor responses were observed in either treatment arm.
-
 Table 15: Randomized Trial of Gemcitabine versus 5-Fluorouracil in Pancreatic Cancer
 
 |  | Gemcitabine | 5-FU |
@@ -194,9 +152,7 @@ Table 15: Randomized Trial of Gemcitabine versus 5-Fluorouracil in Pancreatic Ca
 | (95% CI) | (1.9, 3.4) | (0.9, 1.1) |
 | p-valueb | p=0.0013 |  |
 
-a Karnofsky Performance Status.
-
-b p-value for clinical benefit response calculated using the two-sided test for difference in binomial proportions.
+a Karnofsky Performance Status. b p-value for clinical benefit response calculated using the two-sided test for difference in binomial proportions.
 All other p-values are calculated using log rank test.
 
 Figure 4: Kaplan-Meier Survival Curve

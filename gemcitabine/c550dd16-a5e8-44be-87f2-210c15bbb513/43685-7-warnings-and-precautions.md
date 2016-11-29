@@ -45,9 +45,7 @@ If this drug is used during pregnancy, or if a woman becomes pregnant while taki
 ## 5.7 Exacerbation of Radiation Therapy Toxicity
 
 Gemcitabine is not indicated for use in combination with radiation therapy.
-
 Concurrent (given together or ≤7 days apart) — Life-threatening mucositis, especially esophagitis and pneumonitis occurred in a trial in which gemcitabine was administered at a dose of 1,000 mg/m2 to patients with non-small cell lung cancer for up to 6 consecutive weeks concurrently with thoracic radiation.
-
 Non-concurrent (given >7 days apart) — Excessive toxicity has not been observed when gemcitabine is administered more than 7 days before or after radiation.
 Radiation recall has been reported in patients who receive gemcitabine for injection after prior radiation.
 

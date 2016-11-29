@@ -6,8 +6,9 @@ Gemcitabine for Injection, USP is supplied as a sterile, lyophilized powder as f
 
 | Product No. | NDC No. | Strength |  |
 | --- | --- | --- | --- |
-| PRX 101210 | 63323-102-94 | 200 mg per vial | 10 mL single use vial packaged individually. |
-| PRX 102550 | 63323-125-94 | 1 gram per vial | 50 mL single use vial packaged individually. |
+| FK101210 | 63323-102-13 | 200 mg per vial | 10 mL single use vial packaged individually. |
+| FK102550 | 63323-125-53 | 1 g per vial | 50 mL single use vial packaged individually. |
+| FK102600 | 63323-126-03 | 2 g per vial | 100 mL single use vial packaged individually. |
 
 ## 16.2 Storage and Handling
 

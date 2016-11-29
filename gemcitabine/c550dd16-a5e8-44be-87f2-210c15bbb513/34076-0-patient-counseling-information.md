@@ -1,29 +1,12 @@
 # 17 PATIENT COUNSELING INFORMATION
 
 • Advise patients of the risks of low blood cell counts and the potential need for blood transfusions and increased susceptibility to infections.
-Instruct patients to immediately contact their healthcare provided for development of signs or symptoms of infection, fever, prolonged or unexpected bleeding, bruising, or shortness of breath [see Warnings and Precautions (5.2)].
-
-• Advise patients of the risks of pulmonary toxicity including respiratory failure and death.
-Instruct patients to immediately contact their healthcare provider for development of shortness of breath, wheezing, or cough [see Warnings and Precautions (5.3)].
-
-• Advise patients of the risks of hemolytic-uremic syndrome and associated renal failure.
-Instruct patients to immediately contact their healthcare provider for changes in the color or volume of urine output or for increased bruising or bleeding [see Warnings and Precautions (5.4)].
-
-• Advise patients of the risks of hepatic toxicity including liver failure and death.
+Instruct patients to immediately contact their healthcare provided for development of signs or symptoms of infection, fever, prolonged or unexpected bleeding, bruising, or shortness of breath [see Warnings and Precautions (5.2)]. • Advise patients of the risks of pulmonary toxicity including respiratory failure and death.
+Instruct patients to immediately contact their healthcare provider for development of shortness of breath, wheezing, or cough [see Warnings and Precautions (5.3)]. • Advise patients of the risks of hemolytic-uremic syndrome and associated renal failure.
+Instruct patients to immediately contact their healthcare provider for changes in the color or volume of urine output or for increased bruising or bleeding [see Warnings and Precautions (5.4)]. • Advise patients of the risks of hepatic toxicity including liver failure and death.
 Instruct patients to immediately contact their healthcare provider for signs of jaundice or for pain/tenderness in the right upper abdominal quadrant [see Warnings and Precautions (5.5)].
+Fresenius Kabi USA, LLC Lake Zurich, IL 60047 Made in India
 
-PremierProRx is a registered trademark of Premier, Inc., used under license.
+For Product Inquiry: 1-800-551-7176 or www.fresenius-kabi.us
 
-Manufactured by:
-
-Fresenius Kabi USA, LLC
-
-Lake Zurich, IL 60047
-
-Made in India
-
-For Product Inquiry:
-
-1-800-551-7176 or www.fresenius-kabi.us
-
-451474/Issued: October 2015
+451297/Issued: January 2015
