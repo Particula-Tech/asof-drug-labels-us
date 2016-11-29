@@ -1,0 +1,12 @@
+# 2 DOSAGE AND ADMINISTRATION
+
+Highly Emetogenic Chemotherapy, including Cisplatin Based Chemotherapy
+
+The recommended dosage in adults is one capsule of AKYNZEO administered approximately 1 hour prior to the start of chemotherapy with dexamethasone 12 mg administered orally 30 minutes prior to chemotherapy on day 1 and 8 mg orally once daily on days 2 to 4 [see Clinical Studies (14),Table 5].
+
+Anthracyclines and Cyclophosphamide Based Chemotherapy and Chemotherapy Not Considered Highly Emetogenic
+
+The recommended dosage in adults is one capsule of AKYNZEO approximately 1 hour prior to the start of chemotherapy with dexamethasone 12 mg administered orally 30 minutes prior to chemotherapy on day 1.
+Administration of dexamethasone on days 2 to 4 is not necessary [see Clinical Studies (14), Table 7].
+
+AKYNZEO can be taken with or without food.
