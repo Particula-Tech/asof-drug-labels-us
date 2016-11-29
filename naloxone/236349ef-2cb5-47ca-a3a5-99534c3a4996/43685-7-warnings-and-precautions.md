@@ -1,13 +1,19 @@
 # WARNINGS
 
-Drug Dependence Naloxone hydrochloride should be administered cautiously to persons including newborns of mothers who are known or suspected to be physically dependent on opioids.
+Drug Dependence
+
+Naloxone hydrochloride should be administered cautiously to persons including newborns of mothers who are known or suspected to be physically dependent on opioids.
 In such cases an abrupt and complete reversal of opioid effects may precipitate an acute withdrawal syndrome.
 The signs and symptoms of opioid withdrawal in a patient physically dependent on opioids may include, but are not limited to, the following: body aches, diarrhea, tachycardia, fever, runny nose, sneezing, piloerection, sweating, yawning, nausea or vomiting, nervousness, restlessness or irritability, shivering or trembling, abdominal cramps, weakness, and increased blood pressure.
 In the neonate, opioid withdrawal may also include: convulsions, excessive crying, and hyperactive reflexes.
 
-Repeat Administration The patient who has satisfactorily responded to naloxone hydrochloride should be kept under continued surveillance and repeated doses of naloxone hydrochloride should be administered, as necessary, since the duration of action of some opioids may exceed that of naloxone hydrochloride.
+Repeat Administration
 
-Respiratory Depression due to Other Drugs Naloxone hydrochloride is not effective against respiratory depression due to non-opioid drugs and in the management of acute toxicity caused by levopropoxyphene.
+The patient who has satisfactorily responded to naloxone hydrochloride should be kept under continued surveillance and repeated doses of naloxone hydrochloride should be administered, as necessary, since the duration of action of some opioids may exceed that of naloxone hydrochloride.
+
+Respiratory Depression due to Other Drugs
+
+Naloxone hydrochloride is not effective against respiratory depression due to non-opioid drugs and in the management of acute toxicity caused by levopropoxyphene.
 Reversal of respiratory depression by partial agonists or mixed agonist/antagonists, such as buprenorphine and pentazocine, may be incomplete or require higher doses of naloxone.
 If an incomplete response occurs, respirations should be mechanically assisted as clinically indicated.
 
@@ -35,6 +41,7 @@ The barbiturate methohexital appears to block the acute onset of withdrawal symp
 
 Studies in animals to assess the carcinogenic potential of naloxone hydrochloride have not been conducted.
 Naloxone hydrochloride was weakly positive in the Ames mutagenicity and in the in vitro human lymphocyte chromosome aberration test but was negative in the in vitro Chinese hamster V79 cell HGPRT mutagenicity assay and in the in vivo rat bone marrow chromosome aberration study.
+
 Reproduction studies conducted in mice and rats at doses 4-times and 8-times, respectively, the dose of a 50 kg human given 10 mg/day (when based on surface area or mg/m2), demonstrated no embryotoxic or teratogenic effects due to naloxone hydrochloride.
 
 ## Use in Pregnancy
@@ -74,8 +81,12 @@ Clinical studies of naloxone hydrochloride did not include sufficient numbers of
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
-Renal Insufficiency/Failure The safety and effectiveness of naloxone hydrochloride in patients with renal insufficiency/failure have not been established in well-controlled clinical trials.
+Renal Insufficiency/Failure
+
+The safety and effectiveness of naloxone hydrochloride in patients with renal insufficiency/failure have not been established in well-controlled clinical trials.
 Caution should be exercised when naloxone hydrochloride is administered to this patient population.
 
-Liver Disease The safety and effectiveness of naloxone hydrochloride in patients with liver disease have not been established in well-controlled clinical trials.
+Liver Disease
+
+The safety and effectiveness of naloxone hydrochloride in patients with liver disease have not been established in well-controlled clinical trials.
 Caution should be exercised when naloxone hydrochloride is administered to patients with liver disease.

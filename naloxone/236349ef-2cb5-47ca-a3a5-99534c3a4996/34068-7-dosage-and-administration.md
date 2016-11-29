@@ -2,10 +2,13 @@
 
 Naloxone hydrochloride injection may be administered intravenously, intramuscularly, or subcutaneously.
 The most rapid onset of action is achieved by intravenous administration, which is recommended in emergency situations.
+
 Since the duration of action of some opioids may exceed that of naloxone, the patient should be kept under continued surveillance.
 Repeated doses of naloxone should be administered, as necessary.
 
-Intravenous Infusion Naloxone hydrochloride injection may be diluted for intravenous infusion in normal saline or 5% dextrose solutions.
+Intravenous Infusion
+
+Naloxone hydrochloride injection may be diluted for intravenous infusion in normal saline or 5% dextrose solutions.
 The addition of 2 mg of naloxone in 500 mL of either solution provides a concentration of 0.004 mg/mL.
 Mixtures should be used within 24 hours.
 After 24 hours, the remaining unused mixture must be discarded.
@@ -13,9 +16,13 @@ The rate of administration should be titrated in accordance with the patient’s
 Naloxone hydrochloride injection should not be mixed with preparations containing bisulfite, metabisulfite, long-chain or high molecular weight anions, or any solution having an alkaline pH.
 No drug or chemical agent should be added to naloxone hydrochloride injection unless its effect on the chemical and physical stability of the solution has first been established.
 
-General Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
+General
 
-Usage in Adults Opioid Overdose—Known or Suspected: An initial dose of 0.4 mg to 2 mg of naloxone hydrochloride may be administered intravenously.
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
+
+Usage in Adults
+
+Opioid Overdose—Known or Suspected: An initial dose of 0.4 mg to 2 mg of naloxone hydrochloride may be administered intravenously.
 If the desired degree of counteraction and improvement in respiratory functions are not obtained, it may be repeated at two-to-three-minute intervals.
 If no response is observed after 10 mg of naloxone hydrochloride have been administered, the diagnosis of opioid-induced or partial opioid-induced toxicity should be questioned.
 Intramuscular or subcutaneous administration may be necessary if the intravenous route is not available.
@@ -30,7 +37,9 @@ Supplemental intramuscular doses have been shown to produce a longer lasting eff
 
 Septic Shock:The optimal dosage of naloxone hydrochloride or duration of therapy for the treatment of hypotension in septic shock patients has not been established (see CLINICAL PHARMACOLOGY).
 
-Usage in Children Opioid Overdose—Known or Suspected:The usual initial dose in children is 0.01 mg/kg body weight given I.V.
+Usage in Children
+
+Opioid Overdose—Known or Suspected:The usual initial dose in children is 0.01 mg/kg body weight given I.V.
 If this dose does not result in the desired degree of clinical improvement, a subsequent dose of 0.1 mg/kg body weight may be administered.
 If an l.V. route of administration is not available, naloxone may be administered I.M. or S.C. in divided doses.
 If necessary, naloxone hydrochloride injection can be diluted with sterile water for injection.

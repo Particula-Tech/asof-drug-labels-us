@@ -1,6 +1,8 @@
 # CLINICAL PHARMACOLOGY
 
-Complete or Partial Reversal of Opioid Depression Naloxone hydrochloride prevents or reverses the effects of opioids including respiratory depression, sedation, and hypotension.
+Complete or Partial Reversal of Opioid Depression
+
+Naloxone hydrochloride prevents or reverses the effects of opioids including respiratory depression, sedation, and hypotension.
 Also, it can reverse the psychotomimetic and dysphoric effects of agonist-antagonist such as pentazocine.
 
 Naloxone hydrochloride is an essentially pure opioid antagonist, i.e., it does not possess the “agonistic” or morphine-like properties characteristic of other opioid antagonists.
@@ -19,7 +21,9 @@ Intramuscular administration produces a more prolonged effect than intravenous a
 Since the duration of action of naloxone hydrochloride may be shorter than that of some opiates, the effect of the opiate may return as the effects of naloxone hydrochloride dissipates.
 The requirement for repeat doses of naloxone hydrochloride will also be dependent upon the amount, type and route of administration of the opioid being antagonized.
 
-Adjunctive Use in Septic Shock Naloxone hydrochloride has been shown in some cases of septic shock to produce a rise in blood pressure that may last up to several hours; however, this pressor response has not been demonstrated to improve patient survival.
+Adjunctive Use in Septic Shock
+
+Naloxone hydrochloride has been shown in some cases of septic shock to produce a rise in blood pressure that may last up to several hours; however, this pressor response has not been demonstrated to improve patient survival.
 In some studies, treatment with naloxone hydrochloride in the setting of septic shock has been associated with adverse effects, including agitation, nausea and vomiting, pulmonary edema, hypotension, cardiac arrhythmias, and seizures.
 The decision to use naloxone hydrochloride in septic shock should be exercised with caution, particularly in patients who may have underlying pain or have previously received opioid therapy and may have developed opioid tolerance.
 
