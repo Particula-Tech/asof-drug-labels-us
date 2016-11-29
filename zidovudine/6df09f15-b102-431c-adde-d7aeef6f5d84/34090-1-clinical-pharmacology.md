@@ -126,18 +126,18 @@ Effect of Coadministered Drugs on Zidovudine AUCa
 | --- | --- | --- | --- | --- | --- |
 | Coadministered Drug and Dose | Zidovudine Oral Dose | n | Zidovudine Concentrations |  | Concentration of Coadministered Drug |
 | AUC | Variability |  |  |  |  |
-| Atovaquone750 mg every 12 h with food | 200 mg every 8 h | 14 | ↑AUC 31% | Range:23% to 78%b | ↔ |
-| Clarithromycin 500 mg twice daily | 100 mg every 4 h x 7 days | 4 | ↓AUC 12% | Range: ↓34% to ↑14% b | Not Reported |
-| Fluconazole 400 mg daily | 200 mg every 8 h | 12 | ↑AUC 74% | 95% CI: 54% to 98% | Not Reported |
-| Lamivudine300 mg every 12 h | single 200 mg | 12 | ↑AUC 13% | 90% CI: 2% to 27% | ↔ |
-| Methadone 30 to 90 mg daily | 200 mg every 4 h | 9 | ↑AUC 43% | Range:16% to 64%b | ↔ |
-| Nelfinavir750 mg every 8 h x 7 to 10 days | single 200 mg | 11 | ↓AUC 35% | Range:28% to 41% b | ↔ |
-| Probenecid 500 mg every 6 h x 2 days | 2 mg/kg every 8 h x 3 days | 3 | ↑AUC 106% | Range:100% to 170%b | Not Assessed |
-| Rifampin600 mg daily x 14 days | 200 mg every 8 h x 14 days | 8 | ↓AUC 47% | 90% CI: 41% to 53% | Not Assessed |
-| Ritonavir300 mg every 6 h x 4 days | 200 mg every 8 h x 4 days | 9 | ↓AUC 25% | 95% CI: 15% to 34% | ↔ |
-| Valproic acid 250 mg or 500 mg every 8 h x 4 days | 100 mg every 8 h x 4 days | 6 | ↑AUC 80% | Range:64% to 130%b | Not Assessed |
+| Atovaquone750 mg every 12 h with food | 200 mg every 8 h | 14 | ↑31% | Range:23% to 78%b | ↔ |
+| Clarithromycin 500 mg twice daily | 100 mg every 4 h x 7 days | 4 | ↓12% | Range: ↓34% to ↑14% b | Not Reported |
+| Fluconazole 400 mg daily | 200 mg every 8 h | 12 | ↑74% | 95% CI: 54% to 98% | Not Reported |
+| Lamivudine300 mg every 12 h | single 200 mg | 12 | ↑13% | 90% CI: 2% to 27% | ↔ |
+| Methadone 30 to 90 mg daily | 200 mg every 4 h | 9 | ↑43% | Range:16% to 64%b | ↔ |
+| Nelfinavir750 mg every 8 h x 7 to 10 days | single 200 mg | 11 | ↓35% | Range:28% to 41% b | ↔ |
+| Probenecid 500 mg every 6 h x 2 days | 2 mg/kg every 8 h x 3 days | 3 | ↑106% | Range:100% to 170%b | Not Assessed |
+| Rifampin600 mg daily x 14 days | 200 mg every 8 h x 14 days | 8 | ↓47% | 90% CI: 41% to 53% | Not Assessed |
+| Ritonavir300 mg every 6 h x 4 days | 200 mg every 8 h x 4 days | 9 | ↓25% | 95% CI: 15% to 34% | ↔ |
+| Valproic acid 250 mg or 500 mg every 8 h x 4 days | 100 mg every 8 h x 4 days | 6 | ↑80% | Range:64% to 130%b | Not Assessed |
 
-↑ = Increase; ↓ = Decrease; ↔ = no significant change; AUC = area under the concentration versus time curve; CI = confidence interval.
+↑ = Increase; ↓ = Decrease; ↔ = No significant change; AUC = Area under the concentration versus time curve; CI = Confidence interval.
 
 a This table is not all inclusive.
 
@@ -162,9 +162,9 @@ ZDV-TP is a weak inhibitor of the cellular DNA polymerases α and γ and has bee
 Antiviral Activity
 
 The antiviral activity of zidovudine against HIV-1 was assessed in a number of cell lines (including monocytes and fresh human peripheral blood lymphocytes).
-The EC50 and EC90 values for zidovudine were 0.01 to 0.49 µM (1 μM = 0.27 mcg per mL) and 0.1 to 9 μM, respectively.
-HIV-1 from therapy-naive subjects with no mutations associated with resistance gave median EC50 values of 0.011 µM (range: 0.005 to 0.110 µM) from Virco (n = 92 baseline samples from COL40263) and 0.0017 µM (0.006 to 0.0340 µM) from Monogram Biosciences (n = 135 baseline samples from ESS30009).
-The EC50 values of zidovudine against different HIV-1 clades (A-G) ranged from 0.00018 to 0.02 μM, and against HIV-2 isolates from 0.00049 to 0.004 μM.
+The EC50 and EC90 values for zidovudine were 0.01 to 0.49 microM (1 microM = 0.27 mcg per mL) and 0.1 to 9 microM, respectively.
+HIV-1 from therapy-naive subjects with no mutations associated with resistance gave median EC50 values of 0.011 microM (range: 0.005 to 0.110 microM) from Virco (n = 92 baseline samples from COL40263) and 0.0017 microM (0.006 to 0.0340 microM) from Monogram Biosciences (n = 135 baseline samples from ESS30009).
+The EC50 values of zidovudine against different HIV-1 clades (A-G) ranged from 0.00018 to 0.02 microM, and against HIV-2 isolates from 0.00049 to 0.004 microM.
 In cell culture drug combination studies, zidovudine demonstrates synergistic activity with the nucleoside reverse transcriptase inhibitors abacavir, didanosine, and lamivudine; the non-nucleoside reverse transcriptase inhibitors delavirdine and nevirapine; and the protease inhibitors indinavir, nelfinavir, ritonavir, and saquinavir; and additive activity with interferon alfa.
 Ribavirin has been found to inhibit the phosphorylation of zidovudine in cell culture.
 

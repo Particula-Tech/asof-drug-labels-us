@@ -81,7 +81,7 @@ Contains sodium benzoate 0.2% added as a preservative.
 
 PRINCIPAL DISPLAY PANEL
 
-NDC 49702-213-05
+NDC 49702-213-26
 
 RETROVIR®
 
@@ -89,17 +89,21 @@ RETROVIR®
 
 INJECTION
 
-10 Single-Use Vials
+5 Single-Use Vials
 
 20 mL each
 
-10 mg/mL
-
 200 mg/20 mL (10 mg/mL)
+
+10 mg/mL
 
 MUST BE DILUTED PRIOR TO INTRAVENOUS INFUSION.
 
 Rx only
+
+Sterile
+
+See prescribing information for dosage information.
 
 Contains no preservative.
 The vial stopper of this product contains dry natural rubber.
@@ -109,7 +113,7 @@ Hydrochloric acid and/or sodium hydroxide may have been added to adjust pH.
 
 Made in India
 
-©2015, the ViiV Healtchare group of companies
+©2016 the ViiV Healtchare group of companies
 
-1. 10000000132676 Rev.
-   3/15
+1. 10000000144116 Rev.
+   10/16

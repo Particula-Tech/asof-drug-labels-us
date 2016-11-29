@@ -25,7 +25,7 @@ HIV-1/HCV Co-infection
 
 Inform patients with HIV-1/HCV co-infection that hepatic decompensation (some fatal) has occurred in HIV-1/HCV co-infected patients receiving combination antiretroviral therapy for HIV-1 and interferon alfa with or without ribavirin [see Warnings and Precautions (5.5)].
 
-Use with Other Zidovudine-containing Products
+Use with Other Zidovudine-Containing Products
 
 RETROVIR should not be administered with combination products that contain zidovudine as one of their components (e.g., COMBIVIR [lamivudine and zidovudine] tablets or TRIZIVIR [abacavir sulfate, lamivudine, and zidovudine] tablets) [see Warnings and Precautions (5.6)].
 
@@ -91,7 +91,7 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2015, the ViiV Healthcare group of companies.
+©2016 the ViiV Healthcare group of companies.
 All rights reserved.
 
-RTR:2PI
+RTR:3PI

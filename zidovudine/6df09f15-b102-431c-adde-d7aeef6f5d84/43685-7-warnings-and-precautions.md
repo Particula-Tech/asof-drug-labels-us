@@ -29,7 +29,7 @@ Obesity and prolonged exposure to antiretroviral nucleoside analogues may be ris
 Particular caution should be exercised when administering RETROVIR to any patient with known risk factors for liver disease; however, cases have also been reported in patients with no known risk factors.
 Treatment with RETROVIR should be suspended in any patient who develops clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity (which may include hepatomegaly and steatosis even in the absence of marked transaminase elevations).
 
-## 5.5 Use with Interferon- and Ribavirin-based Regimens in HIV-1/HCV Co-infected Patients
+## 5.5 Use with Interferon- and Ribavirin-Based Regimens in HIV-1/HCV Co-infected Patients
 
 In vitro studies have shown ribavirin can reduce the phosphorylation of pyrimidine nucleoside analogues such as zidovudine.
 Although no evidence of a pharmacokinetic or pharmacodynamic interaction (e.g., loss of HIV-1/HCV virologic suppression) was seen when ribavirin was coadministered with zidovudine in HIV-1/HCV co-infected subjects [see Clinical Pharmacology (12.3)], exacerbation of anemia due to ribavirin has been reported when zidovudine is part of the HIV regimen.
@@ -42,7 +42,7 @@ Patients receiving interferon alfa with or without ribavirin and zidovudine shou
 Discontinuation of zidovudine should be considered as medically appropriate.
 Dose reduction or discontinuation of interferon alfa, ribavirin, or both should also be considered if worsening clinical toxicities are observed, including hepatic decompensation (e.g., Child-Pugh greater than 6) (see the complete prescribing information for interferon and ribavirin).
 
-## 5.6 Use with Other Zidovudine-containing Products
+## 5.6 Use with Other Zidovudine-Containing Products
 
 RETROVIR should not be administered with combination products that contain zidovudine as one of their components (e.g., COMBIVIR® [lamivudine and zidovudine] tablets or TRIZIVIR® [abacavir sulfate, lamivudine, and zidovudine] tablets).
 
