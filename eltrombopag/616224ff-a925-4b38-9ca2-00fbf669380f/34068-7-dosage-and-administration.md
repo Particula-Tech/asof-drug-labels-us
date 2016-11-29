@@ -7,7 +7,7 @@ Dose adjustments are based upon the platelet count response.
 Do not use PROMACTA to normalize platelet counts [see Warnings and Precautions (5.3)].
 In clinical trials, platelet counts generally increased within 1 to 2 weeks after starting PROMACTA and decreased within 1 to 2 weeks after discontinuing PROMACTA [see Clinical Studies (14.1)].
 
-Initial Dose Regimen:Adult and Pediatric Patients 6 Years and Older with ITP: Initiate PROMACTA at a dose of 50 mg once daily, except in patients who are of East Asian ancestry (such as Chinese, Japanese, Taiwanese, or Korean) or who have mild to severe hepatic impairment (Child-Pugh Class A, B, C).
+Initial Dose Regimen: Adult and Pediatric Patients 6 Years and Older with ITP: Initiate PROMACTA at a dose of 50 mg once daily, except in patients who are of East Asian ancestry (such as Chinese, Japanese, Taiwanese, or Korean) or who have mild to severe hepatic impairment (Child-Pugh Class A, B, C).
 
 For patients of East Asian ancestry with ITP, initiate PROMACTA at a reduced dose of 25 mg once daily [see Use in Specific Populations (8.8), Clinical Pharmacology (12.3)].
 
@@ -15,11 +15,15 @@ For patients with ITP and mild, moderate, or severe hepatic impairment (Child-Pu
 
 For patients of East Asian ancestry with ITP and hepatic impairment (Child-Pugh Class A, B, C), consider initiating PROMACTA at a reduced dose of 12.5 mg once daily [see Clinical Pharmacology (12.3)].
 
+Pediatric Patients with ITP Aged 1 to 5 Years: Initiate PROMACTA at a dose of 25 mg once daily [see Use in Specific Populations (8.8), Clinical Pharmacology (12.3)].
+
 Monitoring and Dose Adjustment: After initiating PROMACTA, adjust the dose to achieve and maintain a platelet count greater than or equal to 50 x 109/L as necessary to reduce the risk for bleeding.
 Do not exceed a dose of 75 mg daily.
 Monitor clinical hematology and liver tests regularly throughout therapy with PROMACTA and modify the dosage regimen of PROMACTA based on platelet counts as outlined in Table 1.
 During therapy with PROMACTA, assess CBCs with differentials, including platelet counts, weekly until a stable platelet count has been achieved.
 Obtain CBCs with differentials, including platelet counts, monthly thereafter.
+
+When switching between the oral suspension and tablet, assess platelet counts weekly for 2 weeks, and then follow standard monthly monitoring.
 
 Table 1.
 Dose Adjustments of PROMACTA in Patients with Chronic Immune (Idiopathic) Thrombocytopenia
@@ -110,6 +114,20 @@ Excessive platelet count responses (as outlined in Table 3) or important liver t
 
 ## 2.4 Administration
 
-Take PROMACTA on an empty stomach (1 hour before or 2 hours after a meal) [see Clinical Pharmacology (12.3)].
+Preparation of the Oral Suspension: Prior to use of the oral suspension, ensure patients or caregivers receive training on proper dosing, preparation, and administration of PROMACTA for oral suspension.
 
-Allow at least a 4-hour interval between PROMACTA and other medications (e.g., antacids), calcium-rich foods (e.g., dairy products and calcium-fortified juices), or supplements containing polyvalent cations such as iron, calcium, aluminum, magnesium, selenium, and zinc [see Drug Interactions (7.1)].
+Administer the oral suspension immediately after preparation.
+Discard any suspension not administered within 30 minutes after preparation.
+
+Prepare the suspension with water only.
+NOTE: Do not use hot water to prepare the suspension.
+
+For details on preparation and administration of the suspension, see Instructions for Use.
+
+Administration of Tablets and Oral Suspension:Take PROMACTA on an empty stomach (1 hour before or 2 hours after a meal) [see Clinical Pharmacology (12.3)].
+
+Take PROMACTA at least 2 hours before or 4 hours after other medications (e.g., antacids), calcium-rich foods (e.g., dairy products and calcium-fortified juices), or supplements containing polyvalent cations such as iron, calcium, aluminum, magnesium, selenium, and zinc [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
+
+Do not crush tablets and mix with food or liquids.
+
+Prepare the oral suspension with water only.

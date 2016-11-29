@@ -49,7 +49,7 @@ The risk of portal venous thrombosis was increased in thrombocytopenic patients 
 
 In the three controlled clinical trials in adults with chronic ITP, cataracts developed or worsened in 15 (7%) patients who received 50 mg of PROMACTA daily and 8 (7%) placebo-group patients.
 In the extension trial, cataracts developed or worsened in 4% of patients who underwent ocular examination prior to therapy with PROMACTA.
-In the two controlled clinical trials in patients with chronic hepatitis C and thrombocytopenia, cataracts developed or worsened in 8% patients treated with PROMACTA and 5% patients treated with placebo.
+In the two controlled clinical trials in patients with chronic hepatitis C and thrombocytopenia, cataracts developed or worsened in 8% of patients treated with PROMACTA and 5% of patients treated with placebo.
 
 Cataracts were observed in toxicology studies of eltrombopag in rodents [see Nonclinical Toxicology (13.2)].
 Perform a baseline ocular examination prior to administration of PROMACTA and, during therapy with PROMACTA, regularly monitor patients for signs and symptoms of cataracts.

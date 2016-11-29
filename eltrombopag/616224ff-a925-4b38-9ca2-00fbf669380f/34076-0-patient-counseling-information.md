@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient or caregiver to read the FDA-approved patient labeling (Medication Guide).
+Advise the patient or caregiver to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
 Prior to treatment, patients should fully understand and be informed of the following risks and considerations for PROMACTA:
 
@@ -19,4 +19,6 @@ Prior to treatment, patients should fully understand and be informed of the foll
 - •Advise patients that too much PROMACTA may result in excessive platelet counts and a risk for thrombotic/thromboembolic complications.
 - •Advise patients that during therapy with PROMACTA, they should continue to avoid situations or medications that may increase the risk for bleeding.
 - •Advise patients to have a baseline ocular examination prior to administration of PROMACTA and be monitored for signs and symptoms of cataracts during therapy.
-- •Advise patients to keep at least a 4-hour interval between PROMACTA and foods, mineral supplements, and antacids which contain polyvalent cations such as iron, calcium, aluminum, magnesium, selenium, and zinc.
+- •Advise patients to take PROMACTA at least 2 hours before or 4 hours after foods, mineral supplements, and antacids which contain polyvalent cations such as iron, calcium, aluminum, magnesium, selenium, and zinc.
+- •Prior to use of the oral suspension, ensure patients or caregivers receive training on proper dosing, preparation, and administration.
+- •Inform patients or caregivers how many packets to administer to get the full dose.

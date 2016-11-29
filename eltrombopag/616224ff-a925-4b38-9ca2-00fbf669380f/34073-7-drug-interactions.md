@@ -8,7 +8,7 @@ In vitro, eltrombopag inhibits the following metabolic or transporter systems: C
 Eltrombopag chelates polyvalent cations (such as iron, calcium, aluminum, magnesium, selenium, and zinc) in foods, mineral supplements, and antacids.
 In a clinical trial, administration of PROMACTA with a polyvalent cation-containing antacid decreased plasma eltrombopag systemic exposure by approximately 70% [see Clinical Pharmacology (12.3)].
 
-PROMACTA must not be taken within 4 hours of any medications or products containing polyvalent cations such as antacids, dairy products, and mineral supplements to avoid significant reduction in absorption of PROMACTA due to chelation [see Dosage and Administration (2.4)].
+Take PROMACTA at least 2 hours before or 4 hours after any medications or products containing polyvalent cations such as antacids, dairy products, and mineral supplements to avoid significant reduction in absorption of PROMACTA due to chelation [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)].
 
 ## 7.2 Transporters
 
@@ -30,4 +30,4 @@ Drug interactions with other HCV protease inhibitors have not been evaluated.
 
 ## 7.4 Peginterferon alfa-2a/b Therapy
 
-Coadministration of peginterferon alfa-2a (PEGASYS®) or 2b (PEGINTRON®) did not affect eltrombopag exposure in two randomized, double-blind, placebo-controlled trials with adult patients with chronic hepatitis C [see Clinical Pharmacology (12.3)].
+Coadministration of peginterferon alfa-2a (PEGASYS®) or -2b (PEGINTRON®) did not affect eltrombopag exposure in two randomized, double-blind, placebo-controlled trials with adult patients with chronic hepatitis C [see Clinical Pharmacology (12.3)].

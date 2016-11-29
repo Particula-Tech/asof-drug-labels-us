@@ -29,10 +29,10 @@ Because many drugs are excreted in human milk and because of the potential for s
 
 ## 8.4 Pediatric Use
 
-The safety and efficacy of PROMACTA in pediatric patients 6 years and older with chronic ITP were evaluated in two double-blind, placebo-controlled trials [see Adverse Reactions (6.2), Clinical Studies (14.2)].
-The pharmacokinetics of eltrombopag have been evaluated in 130 pediatric patients 6 years and older with ITP dosed once daily [see Clinical Pharmacology (12.3)].
-See Dosage and Administration (2.1) for dosing recommendations for pediatric patients 6 years and older.
-The safety and efficacy of PROMACTA in pediatric patients younger than 6 years with ITP have not yet been established.
+The safety and efficacy of PROMACTA in pediatric patients 1 year and older with chronic ITP were evaluated in two double-blind, placebo-controlled trials [see Adverse Reactions (6.2), Clinical Studies (14.2)].
+The pharmacokinetics of eltrombopag have been evaluated in 168 pediatric patients 1 year and older with ITP dosed once daily [see Clinical Pharmacology (12.3)].
+See Dosage and Administration (2.1) for dosing recommendations for pediatric patients 1 year and older.
+The safety and efficacy of PROMACTA in pediatric patients younger than 1 year with ITP have not yet been established.
 
 The safety and efficacy of PROMACTA in pediatric patients with thrombocytopenia associated with chronic hepatitis C and severe aplastic anemia have not been established.
 
@@ -46,7 +46,7 @@ No overall differences in safety or effectiveness were observed between these pa
 
 Hepatic impairment influences the exposure of PROMACTA [see Clinical Pharmacology (12.3)].
 
-Reduce the initial dose of PROMACTA in patients with chronic ITP or severe aplastic anemia who also have hepatic impairment (Child-Pugh Class A, B, C) [see Dosage and Administration (2.1, 2.3), Warnings and Precautions (5.2)].
+Reduce the initial dose of PROMACTA in patients with chronic ITP (adults and pediatric patients 6 years and older only) or severe aplastic anemia who also have hepatic impairment (Child-Pugh Class A, B, C) [see Dosage and Administration (2.1, 2.3), Warnings and Precautions (5.2)].
 No dosage adjustment is necessary for patients with chronic hepatitis C and hepatic impairment [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
@@ -57,5 +57,5 @@ Closely monitor patients with impaired renal function when administering PROMACT
 ## 8.8 Ethnicity
 
 Patients of East Asian ethnicity (i.e., Japanese, Chinese, Taiwanese, and Korean) exhibit higher eltrombopag exposures.
-A reduction in the initial dose of PROMACTA is recommended for patients of East Asian ancestry with ITP or severe aplastic anemia and patients of East Asian ancestry with hepatic impairment (Child-Pugh Class A, B, C) [see Dosage and Administration (2.1, 2.3)].
+A reduction in the initial dose of PROMACTA is recommended for patients of East Asian ancestry with ITP (adult and pediatric patients 6 years and older only) or severe aplastic anemia [see Dosage and Administration (2.1, 2.3)].
 No dose reduction is needed in patients of East Asian ethnicity with chronic hepatitis C [see Clinical Pharmacology (12.3)].

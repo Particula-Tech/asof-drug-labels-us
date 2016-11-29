@@ -5,6 +5,7 @@
   "inn": "eltrombopag",
   "labeler": "GlaxoSmithKline LLC",
   "package_ndcs": [
+    "0007-4515-27",
     "0007-4640-13",
     "0007-4641-13",
     "0007-4641-61",
@@ -13,6 +14,11 @@
     "0007-4646-13"
   ],
   "products": [
+    {
+      "form": "POWDER, FOR SUSPENSION",
+      "generic": "eltrombopag olamine",
+      "name": "PROMACTA"
+    },
     {
       "form": "TABLET, FILM COATED",
       "generic": "eltrombopag olamine",

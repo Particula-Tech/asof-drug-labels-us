@@ -28,8 +28,8 @@ GlaxoSmithKline, RTP, NC 27709
 
 Made in Ireland
 
-10000000123247 Rev.
-1/14
+1. 10000000123247 Rev.
+   1/14
 
 PRINCIPAL DISPLAY PANEL
 
@@ -61,8 +61,8 @@ GlaxoSmithKline, RTP, NC 27709
 
 Made in Ireland
 
-10000000123416 Rev.
-1/14
+1. 10000000123416 Rev.
+   1/14
 
 PRINCIPAL DISPLAY PANEL
 
@@ -94,8 +94,8 @@ GlaxoSmithKline, RTP, NC 27709
 
 Made in Ireland
 
-10000000123417 Rev.
-1/14
+1. 10000000123417 Rev.
+   1/14
 
 PRINCIPAL DISPLAY PANEL
 
@@ -127,8 +127,8 @@ GlaxoSmithKline, RTP, NC 27709
 
 Made in Ireland
 
-10000000123248 Rev.
-1/14
+1. 10000000123248 Rev.
+   1/14
 
 PRINCIPAL DISPLAY PANEL
 
@@ -167,3 +167,24 @@ Made in Ireland
 
 10000000123249 Rev.
 1/14
+
+PRINCIPAL DISPLAY PANEL
+
+NDC 0007-4514-27
+
+PROMACTA®
+
+(eltrombopag) for Oral Suspension
+
+25 mg
+
+Rx Only
+
+Federal Law requires dispensing of PROMACTA® with the Medication Guide provided with this package.
+
+30 Packets
+
+©2015, the GSK group of companies
+
+1. DEVCOMP-0003801 Rev.
+   8/2015

@@ -13,6 +13,12 @@ An open-label, randomized, crossover trial was conducted to assess the effect of
 A standard high-fat breakfast significantly decreased plasma eltrombopag AUC0-∞ by approximately 59% and Cmax by 65% and delayed Tmax by 1 hour.
 The calcium content of this meal may have also contributed to this decrease in exposure.
 
+In a second trial, administration of a single 25-mg dose of eltrombopag for oral suspension to adults with a high-calcium, moderate-fat, moderate-calorie meal reduced plasma eltrombopag AUC0-∞ by 75% (90% CI: 71%, 88%) and Cmax by 79% (90% CI: 76%, 82%).
+Administration of a single 25-mg dose of eltrombopag for oral suspension 2 hours after the high-calcium meal reduced plasma eltrombopag AUC0-∞ by 47% (90% CI: 40%, 53%) and Cmax by 48% (90% CI: 40%, 54%).
+Administration of a single 25-mg dose of eltrombopag for oral suspension 2 hours before the high-calcium meal reduced plasma eltrombopag AUC0-∞ by 20% (90% CI: 9%, 29%) and Cmax by 14% (90% CI: 2%, 25%).
+
+In a relative bioavailability trial in adults, the eltrombopag for oral suspension delivered 22% higher plasma AUC0-∞ than the tablet formulation.
+
 Distribution: The concentration of eltrombopag in blood cells is approximately 50% to 79% of plasma concentrations based on a radiolabel study.
 In vitro studies suggest that eltrombopag is highly bound to human plasma proteins (greater than 99%).
 Eltrombopag is a substrate of BCRP, but is not a substrate for P-glycoprotein (P-gp) or OATP1B1.
@@ -37,7 +43,7 @@ Protease Inhibitors: HIV Protease Inhibitors: In a clinical trial, coadministrat
 
 HCV Protease Inhibitors: In a clinical trial, coadministration of repeat-dose telaprevir 750 mg every 8 hours or boceprevir 800 mg every 8 hours with a single dose of PROMACTA 200 mg to healthy adult subjects did not alter plasma telaprevir, boceprevir, or eltrombopag AUC0-∞ or Cmax to a significant extent.
 
-Pegylated Interferon alfa-2a + Ribavirin and Pegylated Interferon alfa-2b + Ribavirin: The pharmacokinetics of eltrombopag in both the presence and absence of pegylated interferon alfa-2a and 2b therapy were evaluated using a population pharmacokinetic analysis in 635 patients with chronic hepatitis C. The population PK model estimates of clearance indicate no significant difference in eltrombopag clearance in the presence of pegylated interferon alfa plus ribavirin therapy.
+Pegylated Interferon alfa-2a + Ribavirin and Pegylated Interferon alfa-2b + Ribavirin: The pharmacokinetics of eltrombopag in both the presence and absence of pegylated interferon alfa-2a and -2b therapy were evaluated using a population pharmacokinetic analysis in 635 patients with chronic hepatitis C. The population PK model estimates of clearance indicate no significant difference in eltrombopag clearance in the presence of pegylated interferon alfa plus ribavirin therapy.
 
 In vitro Studies: Eltrombopag is an inhibitor of CYP2C8 and CYP2C9 in vitro.
 Eltrombopag is an inhibitor of UGT1A1, UGT1A3, UGT1A4, UGT1A6, UGT1A9, UGT2B7, and UGT2B15 in vitro.
@@ -66,7 +72,7 @@ Renal Impairment: The disposition of a single 50-mg dose of PROMACTA in patients
 Average total plasma eltrombopag AUC0-∞ was 32% to 36% lower in subjects with mild to moderate renal impairment and 60% lower in subjects with severe renal impairment compared with healthy subjects.
 The effect of renal impairment on unbound (active) eltrombopag exposure has not been assessed.
 
-Pediatric Patients: The pharmacokinetics of eltrombopag have been evaluated in 130 pediatric patients 6 years and older with ITP dosed once daily in two trials.
+Pediatric Patients: The pharmacokinetics of eltrombopag have been evaluated in 168 pediatric patients 1 year and older with ITP dosed once daily in two trials.
 Plasma eltrombopag apparent clearance following oral administration (CL/F) increased with increasing body weight.
 East Asian pediatric patients with ITP had approximately 43% higher plasma eltrombopag AUC(0-τ) values as compared with non-East Asian patients.
 
@@ -74,7 +80,7 @@ Plasma eltrombopag AUC(0-τ) and Cmax in pediatric patients aged 12 to 17 years 
 The pharmacokinetic parameters of eltrombopag in pediatric patients with ITP are shown in Table 9.
 
 Table 9.
-Geometric Mean (95% CI) Steady-state Plasma Eltrombopag Pharmacokinetic Parametersa in Patients with ITP (Normalized to a 50-mg Dose Once-daily)
+Geometric Mean (95% CI) Steady-state Plasma Eltrombopag Pharmacokinetic Parametersa in Patients with ITP (Normalized to a Once-daily 50-mg Dose)
 
 |  | Cmaxb | AUC(0-τ)b |
 | --- | --- | --- |
@@ -85,9 +91,11 @@ Geometric Mean (95% CI) Steady-state Plasma Eltrombopag Pharmacokinetic Paramete
 |  | (6.17, 7.50) | (91.1, 116) |
 | 6 to 11 years (n = 68) | 10.3 | 153 |
 |  | (9.42, 11.2) | (137, 170) |
+| 1 to 5 years (n = 38) | 11.6 | 162 |
+|  | (10.4, 12.9) | (139, 187) |
 
-- a PK parameters presented as geometric mean (95% CI).
-- b Based on population PK post-hoc estimates.
+1. a PK parameters presented as geometric mean (95% CI).
+2. b Based on population PK post-hoc estimates.
 
 ## 12.6 Assessment of Risk of QT/QTc Prolongation
 
