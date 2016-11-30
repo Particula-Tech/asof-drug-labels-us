@@ -39,7 +39,7 @@ Very rarely, photosensitivity and worsening of psoriasis has been reported.
 
 Miscellaneous
 
-Peyronie’s disease has been reported in fewer than 1 of 100,000 patients.
+Peyronie's disease has been reported in fewer than 1 of 100,000 patients.
 Musculoskeletal pain, blurred vision, and tinnitus have also been reported.
 
 There have been rare reports of reversible alopecia, agranulocytosis, and dry eyes.
@@ -58,9 +58,9 @@ Vertigo, sleep disturbances, hallucinations, headache, dizziness, visual disturb
 
 Cardiovascular
 
-In the randomized comparison of metoprolol and placebo described in the CLINICAL PHARMACOLOGY section, the following adverse reactions were reported:
+In the randomized comparison of metoprolol tartrate and placebo described in the CLINICAL PHARMACOLOGY section, the following adverse reactions were reported:
 
-|  | Metoprolol | Placebo |
+|  | Metoprolol Tartrate | Placebo |
 | --- | --- | --- |
 | Hypotension (systolic BP <90 mmHg) | 27.4% | 23.2% |
 | Bradycardia (heart rate <40 beats/min) | 15.9% | 6.7% |
@@ -86,7 +86,7 @@ Unstable diabetes and claudication have been reported, but a drug relationship i
 
 Potential Adverse Reactions
 
-A variety of adverse reactions not listed above have been reported with other beta-adrenergic blocking agents and should be considered potential adverse reactions to metoprolol.
+A variety of adverse reactions not listed above have been reported with other beta-adrenergic blocking agents and should be considered potential adverse reactions to metoprolol tartrate.
 
 Central Nervous System
 
@@ -106,5 +106,5 @@ Fever combined with aching and sore throat, laryngospasm and respiratory distres
 
 ## Post-marketing Experience
 
-The following adverse reactions have been reported during post approval use of metoprolol: confusional state, an increase in blood triglycerides and a decrease in High Density Lipoprotein (HDL).
+The following adverse reactions have been reported during post approval use of metoprolol tartrate: confusional state, an increase in blood triglycerides and a decrease in High Density Lipoprotein (HDL).
 Because these reports are from a population of uncertain size and are subject to confounding factors, it is not possible to reliably estimate their frequency.

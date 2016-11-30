@@ -6,14 +6,9 @@ Beta blockers, like metoprolol tartrate, can cause depression of myocardial cont
 If signs or symptoms of heart failure develop, treat the patient according to recommended guidelines.
 It may be necessary to lower the dose of metoprolol tartrate or to discontinue it.
 
-## Ischemic Heart Disease
-
-Do not abruptly discontinue metoprolol tartrate therapy in patients with coronary artery disease.
-Severe exacerbation of angina, myocardial infarction and ventricular arrhythmias have been reported in patients with coronary artery disease following the abrupt discontinuation of therapy with beta-blockers.
-When discontinuing chronically administered metoprolol tartrate, particularly in patients with coronary artery disease, the dosage should be gradually reduced over a period of 1 to 2 weeks and the patient should be carefully monitored.
-If angina markedly worsens or acute coronary insufficiency develops, metoprolol tartrate administration should be reinstated promptly, at least temporarily, and other measures appropriate for the management of unstable angina should be taken.
-Patients should be warned against interruption or discontinuation of therapy without the physician’s advice.
-Because coronary artery disease is common and may be unrecognized, it may be prudent not to discontinue metoprolol tartrate therapy abruptly even in patients treated only for hypertension.
+| Ischemic Heart Disease |
+| --- |
+| Do not abruptly discontinue metoprolol tartrate therapy in patients with coronary artery disease. Severe exacerbation of angina, myocardial infarction and ventricular arrhythmias have been reported in patients with coronary artery disease following the abrupt discontinuation of therapy with beta-blockers. When discontinuing chronically administered metoprolol tartrate, particularly in patients with coronary artery disease, the dosage should be gradually reduced over a period of 1 to 2 weeks and the patient should be carefully monitored. If angina markedly worsens or acute coronary insufficiency develops, metoprolol tartrate administration should be reinstated promptly, at least temporarily, and other measures appropriate for the management of unstable angina should be taken. Patients should be warned against interruption or discontinuation of therapy without the physician's advice. Because coronary artery disease is common and may be unrecognized, it may be prudent not to discontinue metoprolol tartrate therapy abruptly even in patients treated only for hypertension. |
 
 ## Use During Major Surgery
 
@@ -56,7 +51,7 @@ Such patients may be unresponsive to the usual doses of epinephrine used to trea
 
 ## Information for Patients
 
-Advise patients (1) to avoid operating automobiles and machinery or engaging in other tasks requiring alertness until the patient’s response to therapy with metoprolol tartrate has been determined; (2) to contact the physician if any difficulty in breathing occurs; (3) to inform the physician or dentist before any type of surgery that he or she is taking metoprolol tartrate.
+Advise patients (1) to avoid operating automobiles and machinery or engaging in other tasks requiring alertness until the patient's response to therapy with metoprolol tartrate has been determined; (2) to contact the physician if any difficulty in breathing occurs; (3) to inform the physician or dentist before any type of surgery that he or she is taking metoprolol tartrate.
 
 ## Drug Interactions
 
@@ -83,7 +78,7 @@ Some inhalation anesthetics may enhance the cardiodepressant effect of beta-bloc
 
 CYP2D6 Inhibitors:
 
-Potent inhibitors of the CYP2D6 enzyme may increase the plasma concentration of metoprolol which would mimic the pharmacokinetics of CYP2D6 poor metabolizer (see Pharmacokinetics section).
+Potent inhibitors of the CYP2D6 enzyme may increase the plasma concentration of metoprolol tartrate which would mimic the pharmacokinetics of CYP2D6 poor metabolizer (see Pharmacokinetics section).
 Increase in plasma concentrations of metoprolol would decrease the cardioselectivity of metoprolol.
 Known clinically significant potent inhibitors of CYP2D6 are antidepressants such as fluvoxamine, fluoxetine, paroxetine, sertraline, bupropion, clomipramine, and desipramine; antipsychotics such as chlorpromazine, fluphenazine, haloperidol, and thioridazine; antiarrhythmics such as quinidine or propafenone; antiretrovirals such as ritonavir; antihistamines such as diphenhydramine; antimalarials such as hydroxychloroquine or quinidine; antifungals such as terbinafine.
 
@@ -97,7 +92,7 @@ Antihypertensive effect of alpha-adrenergic blockers such as guanethidine, betan
 Beta-adrenergic blockers may also potentiate the postural hypotensive effect of the first dose of prazosin, probably by preventing reflex tachycardia.
 On the contrary, beta adrenergic blockers may also potentiate the hypertensive response to withdrawal of clonidine in patients receiving concomitant clonidine and beta-adrenergic blocker.
 
-If a patient is treated with clonidine and metoprolol concurrently, and clonidine treatment is to be discontinued, stop metoprolol several days before clonidine is withdrawn.
+If a patient is treated with clonidine and metoprolol tartrate concurrently, and clonidine treatment is to be discontinued, stop metoprolol tartrate several days before clonidine is withdrawn.
 Rebound hypertension that can follow withdrawal of clonidine may be increased in patients receiving concurrent beta-blocker treatment.
 
 Ergot alkaloid
@@ -129,8 +124,9 @@ Metoprolol tartrate has been associated with reversible adverse effects on sperm
 ## Pregnancy Category C
 
 Upon confirming the diagnosis of pregnancy, women should immediately inform the doctor.
-Metoprolol has been shown to increase postimplantation loss and decrease neonatal survival in rats at doses up to 11 times the maximum daily human dose of 450 mg, when based on surface area.
-Distribution studies in mice confirm exposure of the fetus when metoprolol is administered to the pregnant animal.
+
+Metoprolol tartrate has been shown to increase postimplantation loss and decrease neonatal survival in rats at doses up to 11 times the maximum daily human dose of 450 mg, when based on surface area.
+Distribution studies in mice confirm exposure of the fetus when metoprolol tartrate is administered to the pregnant animal.
 These limited animal studies do not indicate direct or indirect harmful effects with respect to teratogenicity (see Carcinogenesis, Mutagenesis, Impairment of Fertility).
 
 There are no adequate and well-controlled studies in pregnant women.
@@ -140,12 +136,13 @@ Because animal reproduction studies are not always predictive of human response,
 
 ## Nursing Mothers
 
-Metoprolol is excreted in breast milk in a very small quantity.
+Metoprolol tartrate is excreted in breast milk in a very small quantity.
 An infant consuming 1 liter of breast milk daily would receive a dose of less than 1 mg of the drug.
 
 Fertility
 
 The effects of metoprolol tartrate on the fertility of humans have not been studied.
+
 Metoprolol tartrate showed effects on spermatogenesis in male rats at a therapeutic dose level, but had no effect on rates of conception at higher doses in animal fertility studies (see Carcinogenesis, Mutagenesis, Impairment of Fertility).
 
 ## Pediatric Use
@@ -154,7 +151,7 @@ Safety and effectiveness in pediatric patients have not been established.
 
 ## Geriatric Use
 
-In worldwide clinical trials of metoprolol in myocardial infarction, where approximately 478 patients were over 65 years of age (0 over 75 years of age), no age-related differences in safety and effectiveness were found.
+In worldwide clinical trials of metoprolol tartrate in myocardial infarction, where approximately 478 patients were over 65 years of age (0 over 75 years of age), no age-related differences in safety and effectiveness were found.
 Other reported clinical experience in myocardial infarction has not identified differences in response between the elderly and younger patients.
-However, greater sensitivity of some elderly individuals taking metoprolol cannot be categorically ruled out.
+However, greater sensitivity of some elderly individuals taking metoprolol tartrate cannot be categorically ruled out.
 Therefore, in general, it is recommended that dosing proceed with caution in this population.

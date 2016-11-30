@@ -1,12 +1,11 @@
 # HOW SUPPLIED
 
-Each vial contains a sterile solution of metoprolol tartrate, USP 5 mg and sodium chloride, USP, 45 mg.
-
 Metoprolol Tartrate Injection, USP is available as:
 
-| NDC | Container | Concentration | Fill | Quantity |
-| --- | --- | --- | --- | --- |
-| 0409-1778-05 | Vials | 1 mg/mL | 5 mL | 10 vials per carton |
+| Unit of Sale | Concentration | Each |
+| --- | --- | --- |
+| NDC 0409-1778-05 | 5 mg/5 mL | NDC 0409-1778-15 |
+| Case of 10 | (1 mg/mL) | Single Dose Glass Fliptop Vial |
 
 Store at 20 to 25°C (68 to 77°F).
 [See USP Controlled Room Temperature.]
@@ -17,8 +16,8 @@ Retain in carton until time of use.
 
 Discard unused portion.
 
-Revised: 10/2015
+5/2016
 
-EN-4076
+EN-4319
 
 Hospira, Inc., Lake Forest, IL 60045 USA

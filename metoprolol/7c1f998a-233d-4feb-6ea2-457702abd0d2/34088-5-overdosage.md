@@ -4,11 +4,11 @@ Acute Toxicity
 
 Several cases of overdosage have been reported, some leading to death.
 
-Oral LD50’s (mg/kg): mice, 1158 to 2460; rats, 3090 to 4670.
+Oral LD50's (mg/kg): mice, 1158 to 2460; rats, 3090 to 4670.
 
 Signs and Symptoms
 
-Potential signs and symptoms associated with overdosage with metoprolol are bradycardia, hypotension, bronchospasm, myocardial infarction, cardiac failure and death.
+Potential signs and symptoms associated with overdosage with metoprolol tartrate are bradycardia, hypotension, bronchospasm, myocardial infarction, cardiac failure and death.
 
 Management
 
@@ -16,7 +16,7 @@ There is no specific antidote.
 
 In general, patients with acute or recent myocardial infarction may be more hemodynamically unstable than other patients and should be treated accordingly (see WARNINGS, Myocardial Infarction).
 
-On the basis of the pharmacologic actions of metoprolol, the following general measures should be employed:
+On the basis of the pharmacologic actions of metoprolol tartrate, the following general measures should be employed:
 
 Elimination of the Drug: Gastric lavage should be performed.
 Other clinical manifestations of overdose should be managed symptomatically based on modern methods of intensive care.

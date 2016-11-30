@@ -3,7 +3,7 @@
 ## Mechanism of Action
 
 Metoprolol tartrate is a beta1-selective (cardioselective) adrenergic receptor blocker.
-This preferential effect is not absolute, however, and at higher plasma concentrations, metoprolol also inhibits beta2-adrenoreceptors, chiefly located in the bronchial and vascular musculature.
+This preferential effect is not absolute, however, and at higher plasma concentrations, metoprolol tartrate also inhibits beta2-adrenoreceptors, chiefly located in the bronchial and vascular musculature.
 
 Clinical pharmacology studies have demonstrated the beta-blocking activity of metoprolol, as shown by (1) reduction in heart rate and cardiac output at rest and upon exercise, (2) reduction of systolic blood pressure upon exercise, (3) inhibition of isoproterenol-induced tachycardia, and (4) reduction of reflex orthostatic tachycardia.
 
@@ -22,14 +22,14 @@ The precise mechanism of action of metoprolol in patients with suspected or defi
 
 ## Pharmacodynamics
 
-Relative beta1 selectivity is demonstrated by the following: (1) In healthy subjects, metoprolol is unable to reverse the beta2-mediated vasodilating effects of epinephrine.
+Relative beta1 selectivity is demonstrated by the following: (1) In healthy subjects, metoprolol tartrate is unable to reverse the beta2-mediated vasodilating effects of epinephrine.
 This contrasts with the effect of nonselective (beta1 plus beta2) beta blockers, which completely reverse the vasodilating effects of epinephrine.
-(2) In asthmatic patients, metoprolol reduces FEV1 and FVC significantly less than a nonselective beta blocker, propranolol, at equivalent beta1-receptor blocking doses.
+(2) In asthmatic patients, metoprolol tartrate reduces FEV1 and FVC significantly less than a nonselective beta blocker, propranolol, at equivalent beta1-receptor blocking doses.
 
-Metoprolol has no intrinsic sympathomimetic activity, and membrane-stabilizing activity is detectable only at doses much greater than required for beta blockade.
-Animal and human experiments indicate that metoprolol slows the sinus rate and decreases AV nodal conduction.
+Metoprolol tartrate has no intrinsic sympathomimetic activity, and membrane-stabilizing activity is detectable only at doses much greater than required for beta blockade.
+Animal and human experiments indicate that metoprolol tartrate slows the sinus rate and decreases AV nodal conduction.
 
-- •When the drug was infused over a 10-minute period, in normal volunteers, maximum beta blockade was achieved at approximately 20 minutes.
+When the drug was infused over a 10-minute period, in normal volunteers, maximum beta blockade was achieved at approximately 20 minutes.
 
 Equivalent maximal beta-blocking effect is achieved with oral and intravenous doses in the ratio of approximately 2.5:1.
 
@@ -57,7 +57,7 @@ Metabolism
 Metoprolol tartrate is primarily metabolized by CYP2D6.
 Metoprolol is a racemic mixture of R- and S- enantiomers, and when administered orally, it exhibits stereo selective metabolism that is dependent on oxidation phenotype.
 CYP2D6 is absent (poor metabolizers) in about 8% of Caucasians and about 2% of most other populations.
-Poor CYP2D6 metabolizers exhibit several-fold higher plasma concentrations of metoprolol tartrate than extensive metabolizers with normal CYP2D6 activity thereby decreasing metoprolol tartrate’s cardioselectivity.
+Poor CYP2D6 metabolizers exhibit several-fold higher plasma concentrations of metoprolol tartrate than extensive metabolizers with normal CYP2D6 activity thereby decreasing metoprolol tartrate's cardioselectivity.
 
 Elimination
 
@@ -98,17 +98,17 @@ A controlled, comparative, clinical trial showed that metoprolol tartrate was in
 
 Myocardial Infarction
 
-In a large (1,395 patients randomized), double-blind, placebo-controlled clinical study, metoprolol was shown to reduce 3-month mortality by 36% in patients with suspected or definite myocardial infarction.
+In a large (1,395 patients randomized), double-blind, placebo-controlled clinical study, metoprolol tartrate was shown to reduce 3-month mortality by 36% in patients with suspected or definite myocardial infarction.
 
 Patients were randomized and treated as soon as possible after their arrival in the hospital, once their clinical condition had stabilized and their hemodynamic status had been carefully evaluated.
 Subjects were ineligible if they had hypotension, bradycardia, peripheral signs of shock, and/or more than minimal basal rales as signs of congestive heart failure.
 Initial treatment consisted of intravenous followed by oral administration of metoprolol tartrate or placebo, given in a coronary care or comparable unit.
-Oral maintenance therapy with metoprolol or placebo was then continued for 3 months.
-After this double-blind period, all patients were given metoprolol and followed up to 1 year.
+Oral maintenance therapy with metoprolol tartrate or placebo was then continued for 3 months.
+After this double-blind period, all patients were given metoprolol tartrate and followed up to 1 year.
 
-The median delay from the onset of symptoms to the initiation of therapy was 8 hours in both the metoprolol- and placebo-treatment groups.
-Among patients treated with metoprolol, there were comparable reductions in 3-month mortality for those treated early (≤8 hours) and those in whom treatment was started later.
-Significant reductions in the incidence of ventricular fibrillation and in chest pain following initial intravenous therapy were also observed with metoprolol and were independent of the interval between onset of symptoms and initiation of therapy.
+The median delay from the onset of symptoms to the initiation of therapy was 8 hours in both the metoprolol tartrate- and placebo-treatment groups.
+Among patients treated with metoprolol tartrate, there were comparable reductions in 3-month mortality for those treated early (≤8 hours) and those in whom treatment was started later.
+Significant reductions in the incidence of ventricular fibrillation and in chest pain following initial intravenous therapy were also observed with metoprolol tartrate and were independent of the interval between onset of symptoms and initiation of therapy.
 
 In this study, patients treated with metoprolol received the drug both very early (intravenously) and during a subsequent 3-month period, while placebo patients received no beta-blocker treatment for this period.
 The study thus was able to show a benefit from the overall metoprolol regimen but cannot separate the benefit of very early intravenous treatment from the benefit of later beta-blocker therapy.
