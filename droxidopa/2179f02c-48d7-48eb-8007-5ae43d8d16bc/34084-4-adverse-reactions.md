@@ -41,4 +41,4 @@ The commonly reported adverse events were falls (24%), urinary tract infections 
 The following adverse reactions have been identified during post-approval use of NORTHERA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Cardiac Disorders: Chest pain Eye Disorders: Blurred vision Gastrointestinal Disorders: Pancreatitis, abdominal pain, vomiting, diarrhea General Disorders and Administration Site Conditions: Fatigue Psychiatric Disorders: Psychosis, hallucination, delirium, agitation, memory disorder
+Cardiac Disorders: Chest pain Eye Disorders: Blurred vision Gastrointestinal Disorders: Pancreatitis, abdominal pain, vomiting, diarrhea General Disorders and Administration Site Conditions: Fatigue Nervous System Disorders: Cerebrovascular accident Psychiatric Disorders: Psychosis,hallucination, delirium, agitation, memory disorder
