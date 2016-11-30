@@ -1,9 +1,11 @@
-PREMIERProRx™
+PREMIERProRx®
 
-Manufactured by: Exela Pharma Sciences, LLC Lenoir, NC 28645 USA
+Manufactured by: EXELA PHARMA SCIENCES, LLC.
+1245 Blowing Rock Blvd.
+Lenoir, NC 28645
 
-Distributed by: WEST-WARD PHARMACEUTICAL CORP. Eatontown, NJ 07724 USA
+Distributed by: WEST-WARD PHARMACEUTICALS CORP. Eatontown, NJ 07724
 
-PREMIERProRx™ is a trademark of Premier, Inc., used under license.
+PremierProRx® is a registered trademark of Premier, Inc., used under license.
 
-May 2015
+Revised: November 2016

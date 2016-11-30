@@ -1,33 +1,58 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 General Dosing Information
+## 2.1 General Information
 
-Nicardipine hydrochloride injection is intended for intravenous use.
-DOSAGE MUST BE INDIVIDUALIZED depending upon the severity of hypertension and the response of the patient during dosing.
-Blood pressure and heart rate should be monitored both during and after the infusion to avoid tachycardia or too rapid or excessive reduction in either systolic or diastolic blood pressure.
+Individualize dosing based on the severity of hypertension and the response of the patient during dosing.
+Monitor blood pressure and heart rate both during and after the infusion to avoid tachycardia or too rapid or excessive reduction in either systolic or diastolic blood pressure.
 
-## ​2.2 Preparation
+Administer Nicardipine Hydrochloride by slow continuous infusion by a central line or through a large peripheral vein.
+Change the infusion site every 12 hours if administered via peripheral vein [see Intravenous Infusion Site (5.7)].
 
-Warning: Dilute vials before infusion.
+## ​2.2 Inspection and Preparation
+
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+
+Do not use the solution if particulate matter, precipitate, or crystallization is present, or if the container appears damaged.
+
+Single Dose Vials
+
 Dilution
 
-Nicardipine hydrochloride injection is administered by slow continuous infusion at a CONCENTRATION OF 0.1 MG/ML.
-Each vial (25 mg) should be diluted with 240 mL of compatible intravenous fluid (see below), resulting in 250 mL of solution at a concentration of 0.1 mg/mL.
+Single dose vials must be diluted before infusion.
+
+Each vial (25 mg) must be diluted with 240 mL of compatible intravenous fluid (see below), resulting in 250 mL of solution at a concentration of 0.1 mg/mL.
+
+Compatability
 
 Nicardipine hydrochloride injection has been found compatible and stable in polyvinyl chloride containers for 24 hours at controlled room temperature with:
 
 Dextrose (5%) Injection, USP Dextrose (5%) and Sodium Chloride (0.45%) Injection, USP Dextrose (5%) and Sodium Chloride (0.9%) Injection, USP Dextrose (5%) with 40 mEq Potassium, USP Sodium Chloride (0.45%) Injection, USP Sodium Chloride (0.9%) Injection, USP
 
-Nicardipine hydrochloride injection is not compatible with Sodium Bicarbonate (5%) Injection, USP or Lactated Ringer’s Injection, USP.
+Nicardipine hydrochloride is not compatible with Sodium Bicarbonate (5%) Injection, USP or Lactated Ringer’s Injection, USP.
 
-The diluted solution is stable for 24 hours at room temperature.
+Flexible Containers
 
-Inspection
+Dilution is not required for Nicardipine Hydrochloride in 0.9% Sodium Chloride Injection.
 
-Visually inspect nicardipine hydrochloride injection for particulate matter and discoloration prior to administration, whenever solution and container permit.
-Nicardipine hydrochloride injection is normally light yellow in color.
+Check the container for minute leaks prior to use by squeezing the bag firmly; ensure that the seal is intact.
+If leaks are found, discard solution as sterility may be impaired.
 
-Do not use the solution if particulate matter, precipitate or crystallization is present, or if the container appears damaged.
+Do not combine Nicardipine Hydrochloride in 0.9% Sodium Chloride Injection with any product in the same intravenous line or premixed container.
+Do not add supplementary medication to the bag.
+Protect from light until ready to use.
+
+Do not use plastic containers in series connections.
+Such use could result in air embolism due to residual air being drawn from the primary container before the administration of the fluid from the secondary container is complete.
+
+Preparation for administration
+
+1.
+Suspend container from eyelet support.
+2.
+Remove protector from outlet port at bottom of container.
+3.
+Attach administration set.
+Refer to complete directions accompanying set.
 
 ## 2.3 Dosage as a Substitute for Oral Nicardipine Therapy
 
@@ -50,8 +75,8 @@ When treating acute hypertensive episodes in patients with chronic hypertension,
 
 Titration
 
-For a gradual reduction in blood pressure, initiate therapy at a rate of 50 mL/hr (5 mg/hr).
-If desired blood pressure reduction is not achieved at this dose, increase the infusion rate by 25 mL/hr (2.5 mg/hr) every 15 minutes up to a maximum of 150 mL/hr (15 mg/hr), until desired blood pressure reduction is achieved.
+For a gradual reduction in blood pressure, initiate therapy at a rate of 5 mg/hr.
+If desired blood pressure reduction is not achieved at this dose, increase the infusion rate by 2.5 mg/hr every 15 minutes up to a maximum of 15 mg/hr, until desired blood pressure reduction is achieved.
 For more rapid blood pressure reduction, titrate every 5 minutes.
 
 Maintenance
