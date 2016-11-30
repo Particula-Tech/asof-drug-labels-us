@@ -14,7 +14,7 @@ Inform patients of the following serious adverse reactions that have been associ
   Symptoms may be irreversible.
   The risk of severe tendon disorder with fluoroquinolones is higher in older patients usually over 60 years of age, in patients taking corticosteroid drugs, and in patients with kidney, heart or lung transplants.
 - Peripheral Neuropathies: Inform patients that peripheral neuropathies have been associated with moxifloxacin hydrochloride use, symptoms may occur soon after initiation of therapy and may be irreversible.
-  If symptoms of peripheral neuropathy including pain, burning, tingling, numbness and/or weakness develop, immediately discontinue moxifloxacin hydrochloride tablets and tell them to contact their physician.
+  If symptoms of peripheral neuropathy including pain, burning, tingling, numbness and/or weakness develop, immediately discontinue moxifloxacin hydrochloride and tell them to contact their physician.
 - Central nervous system effects (for example, convulsions, dizziness, lightheadedness, increased intracranial pressure): Inform patients that convulsions have been reported in patients receiving fluoroquinolones, including moxifloxacin hydrochloride.
   Instruct patients to notify their physician before taking this drug if they have a history of convulsions.
   Inform patients that they should know how they react to moxifloxacin hydrochloride before they operate an automobile or machinery or engage in other activities requiring mental alertness and coordination.

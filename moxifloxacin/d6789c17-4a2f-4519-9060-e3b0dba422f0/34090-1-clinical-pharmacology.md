@@ -20,7 +20,7 @@ Co-administration with a high fat meal (that is, 500 calories from fat) does not
 
 Consumption of 1 cup of yogurt with moxifloxacin does not affect the rate or extent of the systemic absorption (that is, area under the plasma concentration time curve (AUC).
 
-Table 5: Mean (± SD) Cmax and AUC values following single and multiple doses of 400 mg moxifloxacin given orally
+Table 7: Mean (± SD) Cmax and AUC values following single and multiple doses of 400 mg moxifloxacin given orally
 
 |  | Cmax (mg/L) | AUC (mg•h/L) | Half-life (hr) |
 | --- | --- | --- | --- |
@@ -34,7 +34,7 @@ Table 5: Mean (± SD) Cmax and AUC values following single and multiple doses of
 | Healthy young female (n = 9) | 4.2 ± 0.5 | 49.3 ± 9.5 |  |
 | a) Range of means from different studies |  |  |  |
 
-Table 6: Mean (± SD) Cmax and AUC values following single and multiple doses of 400 mg moxifloxacin given by 1 hour intravenous infusion
+Table 8: Mean (± SD) Cmax and AUC values following single and multiple doses of 400 mg moxifloxacin given by 1 hour intravenous infusion
 
 |  | Cmax (mg/L) | AUC (mg•h/L) | Half-life (hour) |
 | --- | --- | --- | --- |
@@ -69,7 +69,7 @@ Moxifloxacin has been detected in the saliva, nasal and bronchial secretions, mu
 Moxifloxacin concentrations measured post-dose in various tissues and fluids following a 400 mg oral or intravenous dose are summarized in Table 7.
 The rates of elimination of moxifloxacin from tissues generally parallel the elimination from plasma.
 
-Table 7: Moxifloxacin Concentrations (mean ± SD) in Tissues and the Corresponding Plasma Concentrations After a Single 400 mg Oral or Intravenous Dosea
+Table 9: Moxifloxacin Concentrations (mean ± SD) in Tissues and the Corresponding Plasma Concentrations After a Single 400 mg Oral or Intravenous Dosea
 
 | Tissue or Fluid | N | Plasma Concentration (mcg/mL) | Tissue or Fluid Concentration (mcg/mL or mcg/g) | Tissue Plasma Ratio |
 | --- | --- | --- | --- | --- |
@@ -114,11 +114,7 @@ Geriatric
 Following oral administration of 400 mg moxifloxacin for 10 days in 16 elderly (8 male; 8 female) and 17 young (8 male; 9 female) healthy volunteers, there were no age-related changes in moxifloxacin pharmacokinetics.
 In 16 healthy male volunteers (8 young; 8 elderly) given a single 200 mg dose of oral moxifloxacin, the extent of systemic exposure (AUC and Cmax) was not statistically different between young and elderly males and elimination half-life was unchanged.
 No dosage adjustment is necessary based on age.
-In large phase III studies, the concentrations around the time of the end of the infusion in elderly patients following intravenous infusion of 400 mg were similar to those observed in young patients [see Use In Specific Populations (8.5)].
-
-Pediatric
-
-The pharmacokinetics of moxifloxacin in pediatric subjects has not been studied [see Use In Specific Populations (8.4)].
+In large phase III studies, the concentrations around the time of the end of the infusion in elderly patients following intravenous infusion of 400 mg were similar to those observed in young patients [see Use in Specific Populations (8.5)].
 
 Gender
 
@@ -244,7 +240,7 @@ The effect of co-administration of 400 mg once daily of moxifloxacin with theoph
 
 Warfarin
 
-No significant effect of moxifloxacin (400 mg once daily for eight days) on the pharmacokinetics of R- and S-warfarin (25 mg single dose of warfarin sodium on the fifth day) was detected in a study involving 24 healthy volunteers.
+No significant effect of moxifloxacin (400 mg once daily for eight days) on the pharmacokinetics of R-and S-warfarin (25 mg single dose of warfarin sodium on the fifth day) was detected in a study involving 24 healthy volunteers.
 No significant change in prothrombin time was observed.
 However, fluoroquinolones, including moxifloxacin hydrochloride, have been reported to enhance the anticoagulant effects of warfarin or its derivatives in the patient population [see Adverse Reactions (6.2) and Drug Interactions (7.2)].
 
@@ -254,7 +250,7 @@ Mechanism of Action
 
 The bactericidal action of moxifloxacin results from inhibition of the topoisomerase II (DNA gyrase) and topoisomerase IV required for bacterial DNA replication, transcription, repair, and recombination.
 
-Mechanism of Resistance
+Resistance
 
 The mechanism of action for fluoroquinolones, including moxifloxacin, is different from that of macrolides, beta-lactams, aminoglycosides, or tetracyclines; therefore, microorganisms resistant to these classes of drugs may be susceptible to moxifloxacin.
 Resistance to fluoroquinolones occurs primarily by a mutation in topoisomerase II (DNA gyrase) or topoisomerase IV genes, decreased outer membrane permeability or drug efflux.
@@ -267,6 +263,8 @@ Cross-resistance has been observed between moxifloxacin and other fluoroquinolon
 Gram-positive bacteria resistant to other fluoroquinolones may, however, still be susceptible to moxifloxacin.
 There is no known cross-resistance between moxifloxacin and other classes of antimicrobials.
 
+Antimicrobial Activity
+
 Moxifloxacin has been shown to be active against most isolates of the following bacteria, both in vitro and in clinical infections [see Indications and Usage (1)].
 
 Gram-positive bacteria
@@ -274,7 +272,7 @@ Gram-positive bacteria
 Enterococcus faecalis Staphylococcus aureus Streptococcus anginosus Streptococcus constellatus Streptococcus pneumoniae (including multi-drug resistant isolates [MDRSP]**) Streptococcus pyogenes **MDRSP, Multi-drug resistant Streptococcus pneumoniae includes isolates previously known as PRSP (Penicillin-resistant S. pneumoniae), and are isolates resistant to two or more of the following antibiotics: penicillin (MIC) ≥2 mcg/mL), 2nd generation cephalosporins (for example, cefuroxime), macrolides, tetracyclines, and trimethoprim/sulfamethoxazole.
 
 Gram-negative bacteria Enterobacter cloacae Escherichia coli Haemophilus influenzae Haemophilus parainfluenzae Klebsiella pneumoniae Moraxella catarrhalis Proteus mirabilis Yersinia pestis Anaerobic bacteria Bacteroides fragilis Bacteroides thetaiotaomicron Clostridium perfringens Peptostreptococcus species Other microorganisms Chlamydophila pneumoniae Mycoplasma pneumoniae The following in vitro data are available, but their clinical significance is unknown.
-At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for moxifloxacin.
+At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for moxifloxacin against isolates of similar genus or organism group.
 However, the efficacy of moxifloxacin hydrochloride in treating clinical infections due to these bacteria has not been established in adequate and well controlled clinical trials.
 Gram-positive bacteria Staphylococcus epidermidis Streptococcus agalactiae Streptococcus viridans group Gram-negative bacteria Citrobacter freundii Klebsiella oxytoca Legionella pneumophila Anaerobic bacteria Fusobacterium species Prevotella species Susceptibility Tests Methods When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drug products used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community acquired pathogens.
 These reports should aid the physician in selecting an antibacterial drug product for treatment.
@@ -284,24 +282,24 @@ Dilution Techniques
 Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
 The MICs should be determined using a standardized procedure.
-Standardized procedures are based on a dilution method (broth and/or agar).1,2,4 The MIC values should be interpreted according to the criteria in Table 8.
+Standardized procedures are based on a dilution method (broth and/or agar).1,2,4 The MIC values should be interpreted according to the criteria in Table 10.
 
 Diffusion Techniques Quantitative methods that require measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
 The zone size prove should be determined using a standardized test method.
 2,3 This procedure uses paper disks impregnated with 5 mcg moxifloxacin to test the susceptibility of bacteria to moxifloxacin.
-The disc diffusion interpretive criteria are provided in Table 8.
+The disc diffusion interpretive criteria are provided in Table 10.
 
-Anaerobic Techniques For anaerobic bacteria, the susceptibility to moxifloxacin can be determined by a standardized test method.2,5 The MIC values obtained should be interpreted according to the criteria provided in Table 8.
+Anaerobic Techniques For anaerobic bacteria, the susceptibility to moxifloxacin can be determined by a standardized test method.2,5 The MIC values obtained should be interpreted according to the criteria provided in Table 10.
 
-Table 8: Susceptibility Test Interpretive Criteria for Moxifloxacin
+Table 10: Susceptibility Test Interpretive Criteria for Moxifloxacin
 
 |  | MIC (mcg/mL) |  |  | Zone Diameter (mm) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Species | S | I | R | S | I | R |
 | Enterobacteriaceae | ≤2 | 4 | ≥8 | ≥19 | 16 to 18 | ≤15 |
 | Enterococcus faecalis | ≤1 | 2 | ≥4 | ≥18 | 15 to 17 | ≤14 |
-| Staphylococcus aureus | ≤2 | 4 | ≥8 | ≥19 | 16 to 18 | ≤15 |
+| Staphylococcus aureus | ≤0.5 | 1 | ≥2 | ≥24 | 21 to 23 | ≤20 |
 | Haemophilus influenzae | ≤1 | a | a | ≥18 | a | a |
 | Haemophilus parainfluenzae | ≤1 | a | a | ≥18 | a | a |
 | Streptococcus pneumoniae | ≤1 | 2 | ≥4 | ≥18 | 15 to 17 | ≤14 |
@@ -319,17 +317,17 @@ A report of “Resistant” indicates that the antimicrobial is not likely to in
 Quality Control
 
 Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay and the techniques of the individuals performing the test.
-1,2,3,4,5 Standard moxifloxacin powder should provide the following range of MIC values noted in Table 9.
-For the diffusion technique using the 5 mcg moxifloxacin disk, the criteria in Table 9 should be achieved.
+1,2,3,4,5 Standard moxifloxacin powder should provide the following range of MIC values noted in Table 11.
+For the diffusion technique using the 5 mcg moxifloxacin disk, the criteria in Table 11 should be achieved.
 
-Table 9: Acceptable Quality Control Ranges for Moxifloxacin
+Table 11: Acceptable Quality Control Ranges for Moxifloxacin
 
 | Strains | MIC range (mcg/mL) | Zone Diameter (mm) |
 | --- | --- | --- |
 | Enterococcus faecalis ATCC 29212 | 0.06 to 0.5 | - |
 | Escherichia coli ATCC 25922 | 0.008 to 0.06 | 28 to 35 |
 | Haemophilus influenzae ATCC 49247 | 0.008 to 0.03 | 31 to 39 |
-| Staphylococcus aureus ATCC 29213 | 0.015 to 0.06 | - |
+| Staphylococcus aureus ATCC 29213 | 0.015 to 0.12 | - |
 | Staphylococcus aureus ATCC 25923 | - | 28 to 35 |
 | Streptococcus pneumoniae ATCC 49619 | 0.06 to 0.25 | 25 to 31 |
 | Bacteroides fragilis ATCC 25285 | 0.125 to 0.5 | - |

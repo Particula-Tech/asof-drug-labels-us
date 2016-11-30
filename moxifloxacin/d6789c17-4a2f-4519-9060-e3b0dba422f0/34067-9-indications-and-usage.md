@@ -16,7 +16,7 @@ Moxifloxacin hydrochloride tablets are indicated in adult patients for the treat
 
 ## 1.4 Complicated Intra-Abdominal Infections
 
-Moxifloxacin hydrochloride tablets are indicated in adult patients for the treatment of Complicated Intra-Abdominal Infections including polymicrobial infections such as abscess caused by susceptible isolates of Escherichia coli, Bacteroides fragilis, Streptococcus anginosus, Streptococcus constellatus, Enterococcus faecalis, Proteus mirabilis, Clostridium perfringens, Bacteroides thetaiotaomicron, or Peptostreptococcus species [see Clinical Studies (14.6)].
+Moxifloxacin hydrochloride tablets are indicated in adult patients for the treatment of Complicated Intra-Abdominal Infections (cIAI) including polymicrobial infections such as abscess caused by susceptible isolates of Escherichia coli, Bacteroides fragilis, Streptococcus anginosus, Streptococcus constellatus, Enterococcus faecalis, Proteus mirabilis, Clostridium perfringens, Bacteroides thetaiotaomicron, or Peptostreptococcus species [see Clinical Studies (14.6)].
 
 ## 1.5 Plague
 

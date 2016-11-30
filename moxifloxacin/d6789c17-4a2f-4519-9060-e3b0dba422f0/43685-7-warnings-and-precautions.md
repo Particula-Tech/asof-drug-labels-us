@@ -5,7 +5,7 @@
 Fluoroquinolones, including moxifloxacin hydrochloride, have been associated with disabling and potentially irreversible serious adverse reactions from different body systems that can occur together in the same patient.
 Commonly seen adverse reactions include tendinitis, tendon rupture, arthralgia, myalgia, peripheral neuropathy, and central nervous system effects (hallucinations, anxiety, depression, insomnia, severe headaches, and confusion).
 These reactions can occur within hours to weeks after starting moxifloxacin hydrochloride.
-Patients of any age or without pre-existing risk factors have experienced these adverse reactions [see Warnings and Precautions (5.2, 5.3,5.4)].
+Patients of any age or without pre-existing risk factors have experienced these adverse reactions [see Warnings and Precautions (5.2, 5.3, 5.4)].
 
 Discontinue moxifloxacin hydrochloride immediately at the first signs or symptoms of any serious adverse reaction.
 In addition, avoid the use of fluoroquinolones, including moxifloxacin hydrochloride, in patients who have experienced any of these serious adverse reactions associated with fluoroquinolones.
@@ -22,7 +22,7 @@ Other factors that may independently increase the risk of tendon rupture include
 Tendinitis and tendon rupture have also occurred in patients taking fluoroquinolones who do not have the above risk factors.
 Discontinue moxifloxacin hydrochloride immediately if the patient experiences pain, swelling, inflammation or rupture of a tendon.
 Patients should be advised to rest at the first sign of tendinitis or tendon rupture, and to contact their healthcare provider regarding changing to a non-quinolone antimicrobial drug.
-Avoid fluoroquinolones, including moxifloxacin hydrochloride in patients who have a history of tendon disorders or who have experienced tendinitis or tendon rupture [see Adverse Reactions (6.2)].
+Avoid fluoroquinolones, including moxifloxacin hydrochloride, in patients who have a history of tendon disorders or who have experienced tendinitis or tendon rupture [see Adverse Reactions (6.2)].
 
 ## 5.3 Peripheral Neuropathy
 
@@ -31,7 +31,7 @@ Cases of sensory or sensorimotor axonal polyneuropathy affecting small and/or la
 Symptoms may occur soon after initiation of moxifloxacin hydrochloride and may be irreversible in some patients [see Warnings and Precautions (5.1) and Adverse Reactions (6.1, 6.2)].
 
 Discontinue moxifloxacin hydrochloride immediately if the patient experiences symptoms of peripheral neuropathy including pain, burning, tingling, numbness, and/or weakness or other alterations of sensation including light touch, pain, temperature, position sense, and vibratory sensation.
-Avoid fluoroquinolones, including moxifloxacin hydrochloride, in patients who have previously experienced peripheral neuropathy
+Avoid fluoroquinolones, including moxifloxacin hydrochloride, in patients who have previously experienced peripheral neuropathy.
 
 ## 5.4 Central Nervous System Effects
 

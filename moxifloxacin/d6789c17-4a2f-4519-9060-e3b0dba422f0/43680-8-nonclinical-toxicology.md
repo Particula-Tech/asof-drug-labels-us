@@ -23,4 +23,4 @@ A QT-prolonging effect of moxifloxacin was found in dog studies, at plasma conce
 The combined infusion of sotalol, a Class III antiarrhythmic agent, with moxifloxacin induced a higher degree of QTc prolongation in dogs than that induced by the same dose (30 mg/kg) of moxifloxacin alone.
 Electrophysiological in vitro studies suggested an inhibition of the rapid activating component of the delayed rectifier potassium current (IKr) as an underlying mechanism.
 No signs of local intolerability were observed in dogs when moxifloxacin was administered intravenously.
-After intra­arterial injection, inflammatory changes involving the peri-arterial soft tissue were observed suggesting that intra-arterial administration of moxifloxacin hydrochloride should be avoided.
+After intra­-arterial injection, inflammatory changes involving the peri-arterial soft tissue were observed suggesting that intra-arterial administration of moxifloxacin hydrochloride should be avoided.

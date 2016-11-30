@@ -8,4 +8,5 @@ Its molecular formula is C21H24FN3O4*HCl and its chemical structure is as follow
 ## 11.1 Moxifloxacin Hydrochloride Tablets
 
 - Moxifloxacin hydrochloride tablets are available as film-coated tablets containing moxifloxacin hydrochloride USP (equivalent to 400 mg moxifloxacin).
+
 - The inactive ingredients are hypromellose, iron oxide red, magnesium stearate, microcrystalline cellulose, polyethylene glycol, povidone, sodium starch glycolate, and titanium dioxide.

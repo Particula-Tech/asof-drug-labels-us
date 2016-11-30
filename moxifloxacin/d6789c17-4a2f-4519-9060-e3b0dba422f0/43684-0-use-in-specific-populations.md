@@ -2,31 +2,51 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects
+Risk Summary
 
-Pregnancy Category C. Because no adequate or well-controlled studies have been conducted in pregnant women, moxifloxacin hydrochloride should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+There are no available human data establishing a drug associated risk with the use of moxifloxacin.
 
-Moxifloxacin was not teratogenic when administered to pregnant rats during organogenesis at oral doses as high as 500 mg/kg/day or 0.24 times the maximum recommended human dose based on systemic exposure (AUC), but decreased fetal body weights and slightly delayed fetal skeletal development (indicative of fetotoxicity) were observed.
-Intravenous administration of 80 mg/kg/day (approximately 2 times the maximum recommended human dose based on body surface area) to pregnant rats resulted in maternal toxicity and a marginal effect on fetal and placental weights and the appearance of the placenta.
-There was no evidence of teratogenicity at intravenous doses as high as 80 mg/kg/day.
-Intravenous administration of 20 mg/kg/day (approximately equal to the maximum recommended human oral dose based upon systemic exposure) to pregnant rabbits during organogenesis resulted in decreased fetal body weights and delayed fetal skeletal ossification.
-When rib and vertebral malformations were combined, there was an increased fetal and litter incidence of these effects.
+Based on animal studies with moxifloxacin, moxifloxacin hydrochloride may cause fetal harm.
+Moxifloxacin was not teratogenic when administered to pregnant rats (IV and oral), rabbits (IV), and monkeys (oral) at exposures that were 0.25 to 2.5 times of those at the human clinical dose (400 mg/day moxifloxacin hydrochloride).
+However, when moxifloxacin was administered to rats and rabbits during pregnancy and throughout lactation (rats only) at doses associated with maternal toxicity, decreased neonatal body weights, increased incidence of skeletal variations (rib and vertebra combined), and increased fetal loss were observed (see Data).
+Advise pregnant women of the potential risk to the fetus.
+
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
+However, the background risk in the U.S. general population of major birth defects is 2 to 4% and of miscarriage is 15 to 20% of clinically recognized pregnancies.
+
+Data
+
+Animal Data
+
+Animal reproductive and development studies were done in rats, rabbits and cynomolgus macaques.
+Moxifloxacin was not teratogenic when administered to pregnant rats during organogenesis (gestation days 6 to 17) at oral doses as high as 500 mg/kg/day or 0.24 times the maximum recommended human dose based on systemic exposure (AUC), but decreased fetal body weights and slightly delayed fetal skeletal development were observed.
+Intravenous administration of 80 mg/kg/day (approximately 2 times the maximum recommended human dose based on body surface area) to pregnant rats resulted in maternal toxicity and a marginal effect on fetal and placental weights and the appearance of the placenta (Gestation days 6 to 17).
+There was no evidence of teratogenicity at intravenous doses as high as 80 mg/kg/day (approximately 2 times the maximum recommended human dose based on body surface area) in pregnant rats during organogenesis (Gestation days 6 to 17).
+Intravenous administration of 20 mg/kg/day (approximately equal to the maximum recommended human oral dose based upon systemic exposure) to pregnant rabbits during organogenesis (gestation days 6 to 20) resulted in decreased fetal body weights and delayed fetal skeletal ossification.
+When rib and vertebral malformations were combined, there was an increased fetal and litter incidence of these effects in rabbits.
 Signs of maternal toxicity in rabbits at this dose included mortality, abortions, marked reduction of food consumption, decreased water intake, body weight loss and hypoactivity.
-There was no evidence of teratogenicity when pregnant cynomolgus monkeys were given oral doses as high as 100 mg/kg/day (2.5 times the maximum recommended human dose based upon systemic exposure).
-An increased incidence of smaller fetuses was observed at 100 mg/kg/day.
-In an oral pre- and postnatal development study conducted in rats, effects observed at 500 mg/kg/day included slight increases in duration of pregnancy and prenatal loss, reduced pup birth weight and decreased neonatal survival.
+There was no evidence of teratogenicity when pregnant cynomolgus macaques were given oral doses as high as 100 mg/kg/day (2.5 times the maximum recommended human dose based upon systemic exposure) during organogenesis (gestation days 20 to 50).
+An increased incidence of smaller fetuses was observed at 100 mg/kg/day in macaques.
+In a pre-and postnatal development study conducted in rats given oral doses from Gestation day 6, throughout gestation and rearing to Postpartum day 21, effects observed at 500 mg/kg/day (0.24 times the maximum recommended human dose based on systemic exposure (AUC)) included slight increases in duration of pregnancy and prenatal loss, reduced pup birth weight and decreased neonatal survival.
 Treatment-related maternal mortality occurred during gestation at 500 mg/kg/day in this study.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-Moxifloxacin is excreted in the breast milk of rats.
-Moxifloxacin may also be excreted in human milk.
-Because of the potential for serious adverse reactions in infants who are nursing from mothers taking moxifloxacin hydrochloride, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Risk Summary
+
+It is not known if moxifloxacin is present in human milk.
+Based on animal studies in rats, moxifloxacin may be excreted in human milk (see Data).
+
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for moxifloxacin hydrochloride and any potential adverse effects on the breastfed child from moxifloxacin hydrochloride or from the underlying maternal condition.
+
+Data
+
+In lactating rats given a single oral dose of 4.59 mg/kg moxifloxacin (approximately 9 times less than the recommended human dose based on body surface area) 8 days postpartum, there was very low excretion of substance-related radioactivity into the milk, amounting to approximately 0.03% of the dose.
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness in pediatric patients and adolescents less than 18 years of age have not been established.
-Moxifloxacin hydrochloride causes arthropathy in juvenile animals [see Boxed Warning, Warnings and Precautions (5.10), and Clinical Pharmacology (12.3)].
+Effectiveness in pediatric patients and adolescents less than 18 years of age has not been established.
+Moxifloxacin hydrochloride causes arthropathy in juvenile animals.
 
 ## 8.5 Geriatric Use
 

@@ -2,7 +2,7 @@
 
 ## 7.1 Antacids, Sucralfate, Multivitamins and other Products Containing Multivalent Cations
 
-Fluoroquinolones, including moxifloxacin hydrochloride form chelates with alkaline earth and transition metal cations.
+Fluoroquinolones, including moxifloxacin hydrochloride, form chelates with alkaline earth and transition metal cations.
 Oral administration of moxifloxacin hydrochloride with antacids containing aluminum or magnesium, with sucralfate, with metal cations such as iron, or with multivitamins containing iron or zinc, or with formulations containing divalent and trivalent cations such as didanosine buffered tablets for oral suspension or the pediatric powder for oral solution, may substantially interfere with the absorption of moxifloxacin hydrochloride, resulting in systemic concentrations considerably lower than desired.
 Therefore, moxifloxacin hydrochloride should be taken at least 4 hours before or 8 hours after these agents [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
 
@@ -14,7 +14,7 @@ Therefore the prothrombin time, International Normalized Ratio (INR), or other s
 
 ## 7.3 Antidiabetic Agents
 
-Disturbances of blood glucose, including hyperglycemia and hypoglycemia, have been reported in patients treated concomitantly with fluoroquinolones, including moxifloxacin hydrochloride and an antidiabetic agent.
+Disturbances of blood glucose, including hyperglycemia and hypoglycemia, have been reported in patients treated concomitantly with fluoroquinolones, including moxifloxacin hydrochloride, and an antidiabetic agent.
 Therefore, careful monitoring of blood glucose is recommended when these agents are co-administered.
 If a hypoglycemic reaction occurs, moxifloxacin hydrochloride should be discontinued and appropriate therapy should be initiated immediately [see Warnings and Precautions (5.11) and Adverse Reactions (6.1)].
 
