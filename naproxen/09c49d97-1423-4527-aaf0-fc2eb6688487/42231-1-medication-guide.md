@@ -13,7 +13,7 @@ This chance increases:
 - with longer use of NSAID medicines
 - in people who have heart disease
 
-NSAID medicines should never be used right before or after a heart surgery called a “coronary artery bypass graft (CABG).”
+NSAID medicines should never be used right before or after a heart surgery called a "coronary artery bypass graft (CABG)."
 
 NSAID medicines can cause ulcers and bleeding in the stomach and intestines at any time during treatment.
 Ulcers and bleeding:
@@ -23,7 +23,7 @@ Ulcers and bleeding:
 
 The chance of a person getting an ulcer or bleeding increases with:
 
-- taking medicines called “corticosteroids” and “anti-coagulants”
+- taking medicines called "corticosteroids" and "anti-coagulants"
 - longer use
 - smoking
 - drinking alcohol

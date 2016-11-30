@@ -13,7 +13,7 @@ Patients should also be encouraged to read the NSAID Medication Guide that accom
    Although serious skin reactions may occur without warning, patients should be alert for the signs and symptoms of skin rash and blisters, fever, or other signs of hypersensitivity such as itching, and should ask for medical advice when observing any indicative signs or symptoms.
    Patients should be advised to stop the drug immediately if they develop any type of rash and contact their physicians as soon as possible.
 4. Patients should promptly report signs or symptoms of unexplained weight gain or edema to their physicians.
-5. Patients should be informed of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness, and “flu-like” symptoms).
+5. Patients should be informed of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness, and "flu-like" symptoms).
    If these occur, patients should be instructed to stop therapy and seek immediate medical therapy.
 6. Patients should be informed of the signs of an anaphylactoid reaction (e.g., difficulty breathing, swelling of the face or throat).
    If these occur, patients should be instructed to seek immediate emergency help (see WARNINGS).

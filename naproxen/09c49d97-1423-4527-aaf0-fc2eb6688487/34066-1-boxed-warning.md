@@ -4,7 +4,7 @@ Cardiovascular Risk
   This risk may increase with duration of use.
   Patients with cardiovascular disease or risk factors for cardiovascular disease may be at greater risk.
   (See WARNINGS).
-- Naproxen as NAPRELAN® is contraindicated for the treatment of peri-operative pain in the setting of coronary artery bypass graft (CABG) surgery (SeeWARNINGS).
+- Naproxen as NAPRELAN®is contraindicated for the treatment of peri-operative pain in the setting of coronary artery bypass graft (CABG) surgery (SeeWARNINGS).
 
 Gastrointestinal Risk
 

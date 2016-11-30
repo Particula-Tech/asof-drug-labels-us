@@ -2,7 +2,7 @@
 
 As with all drugs in this class, the frequency and severity of adverse events depends on several factors: the dose of the drug and duration of treatment; the age, the sex, physical condition of the patient; any concurrent medical diagnoses or individual risk factors.
 The following adverse reactions are divided into three parts based on frequency and whether or not the possibility exists of a causal relationship between drug usage and these adverse events.
-In those reactions listed as “Probable Causal Relationship” there is at least one case for each adverse reaction where there is evidence to suggest that there is a causal relationship between drug usage and the reported event.
+In those reactions listed as "Probable Causal Relationship" there is at least one case for each adverse reaction where there is evidence to suggest that there is a causal relationship between drug usage and the reported event.
 The adverse reactions reported were based on the results from two double-blind controlled clinical trials of three months duration with an additional nine month open-label extension.
 A total of 542 patients received NAPRELAN® Tablets either in the double-blind period or in the nine month open-label extension.
 Of these 542 patients, 232 received NAPRELAN® Tablets, 167 were initially treated with Naprosyn®*** and 143 were initially treated with placebo.
