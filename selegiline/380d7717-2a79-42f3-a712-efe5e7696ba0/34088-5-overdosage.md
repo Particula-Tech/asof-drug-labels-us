@@ -24,7 +24,7 @@ The central nervous and cardiovascular systems are prominently involved.
 
 Signs and symptoms of overdosage may include, alone or in combination, any of the following: drowsiness, dizziness, faintness, irritability, hyperactivity, agitation, severe headache, hallucinations, trismus, opisthotonos, convulsions, and coma; rapid and irregular pulse, hypertension, hypotension and vascular collapse; precordial pain, respiratory depression and failure, hyperpyrexia, diaphoresis, and cool, clammy skin.
 
-## 10.3 Treatment of Management of Overdose
+## 10.3 Treatment or Management of Overdose
 
 Treatment of overdose with non-selective MAO inhibitors is symptomatic and supportive.
 Induction of emesis or gastric lavage with instillation of charcoal slurry may be helpful in early poisoning, provided the airway has been protected against aspiration.

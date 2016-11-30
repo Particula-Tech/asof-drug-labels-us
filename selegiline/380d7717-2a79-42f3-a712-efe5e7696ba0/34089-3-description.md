@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-ZELAPAR Orally Disintegrating Tablets contain selegiline hydrochloride, a levorotatory acetylenic derivative of phenthylamine.
+ZELAPAR Orally Disintegrating Tablets contain selegiline hydrochloride, a levorotatory acetylenic derivative of phenethylamine.
 Selegiline hydrochloride is described chemically as: (-)-(R)-N, α-dimethyl-N-2-propynylphenethylamine hydrochloride and its structural formula is:
 
 Its empirical formula is C13H17N∙HCl, representing a molecular weight of 223.75.

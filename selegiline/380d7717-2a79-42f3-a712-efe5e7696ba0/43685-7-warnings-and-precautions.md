@@ -15,7 +15,7 @@ Reports of hypertensive reactions have occurred in patients who ingested tyramin
 
 The safe use of ZELAPAR at doses above 2.5 mg daily without dietary tyramine restrictions has not been established.
 
-A pharmacodynamic study showed increased tyramine sensitivity for increasing blood pressure and decreased selectivity for MAO-B with dosing above the recommended level (2.5 mg daily)[see Clinical Pharmacology (12.2)].
+A pharmacodynamic study showed increased tyramine sensitivity for increasing blood pressure and decreased selectivity for MAO-B with dosing above the recommended level (2.5 mg daily) [see Clinical Pharmacology (12.2)].
 
 Uncontrolled hypertension has been reported when taking the recommended dose of swallowed selegiline and a sympathomimetic medication (ephedrine).
 
@@ -23,14 +23,14 @@ After starting ZELAPAR, monitor patients for new onset hypertension or exacerbat
 
 ## 5.2 Serotonin Syndrome
 
-Serotonin syndrome and hyperpyrexia have been reported with the combined treatment of an antidepressant (e.g., selective serotonin reuptake inhibitors-SSRIs, serotonin-norepinephrine reuptake inhibitors-SNRIs, tricyclic antidepressants, tetracyclic antidepressants, triazolopyridine antidepressants) and a non-selective MAOI (e.g., phenelzine, tranylcypromine) or selective MAO-B inhibitors, such as selegiline (Eldepryl), rasagiline (AZILECT), and Zydis selegiline (ZELAPAR).
+Serotonin syndrome and hyperpyrexia have been reported with the combined treatment of an antidepressant (e.g., selective serotonin reuptake inhibitors-SSRIs, serotonin-norepinephrine reuptake inhibitors-SNRIs, tricyclic antidepressants, tetracyclic antidepressants, triazolopyridine antidepressants) and a non-selective MAOI (e.g., phenelzine, tranylcypromine) or selective MAO-B inhibitors, such as selegiline (ELDEPRYL), rasagiline (AZILECT), and Zydis selegiline (ZELAPAR).
 
 Serotonin syndrome is a potentially serious condition, which can result in death.
 Typical clinical signs and symptoms include behavioral and cognitive/mental status changes (e.g., confusion, hypomania, hallucinations, agitation, delirium, headache, and coma), autonomic effects (e.g., syncope, shivering, sweating, high fever/hyperthermia, hypertension, hypotension, tachycardia, nausea, diarrhea), and somatic effects (e.g., muscular rigidity, myoclonus, muscle twitching, hyperreflexia manifested by clonus, and tremor).
 
 In the post-marketing period, fatal and non-fatal cases of serotonin syndrome have been reported in patients treated with antidepressants concomitantly with ZELAPAR [see Contraindications (4) and Drug Interactions (7.1, 7.2, 7.3)].
 
-Clinical studies of ZELAPAR did not allow concomitant use of any selective serotonin re-uptake inhibitor (e.g., fluoxetine-Prozac, fluvoxamine-Luvox, paroxetine-Paxil, sertraline, venlafaxine-Effexor, or nefazadone-Serzone) or any non-selective serotonin reuptake inhibiting antidepressant drug (except when taken at a low dose and only at night for the purpose of effective sleep) with ZELAPAR.
+Clinical studies of ZELAPAR did not allow concomitant use of any selective serotonin re-uptake inhibitor (e.g., fluoxetine-Prozac, fluvoxamine-Luvox, paroxetine-Paxil, sertraline, venlafaxine-Effexor, or nefazodone-Serzone) or any non-selective serotonin reuptake inhibiting antidepressant drug (except when taken at a low dose and only at night for the purpose of effective sleep) with ZELAPAR.
 
 Because the mechanisms responsible for these reactions are not fully understood, avoid the combination of ZELAPAR with any antidepressant.
 At least 14 days should elapse between discontinuation of ZELAPAR and initiation of treatment with a SSRI, SNRI, tricyclic, tetracyclic, or triazolopyridine antidepressant.
@@ -46,7 +46,7 @@ It has been reported that falling asleep while engaged in activities of daily li
 For this reason, prescribers should reassess patients for drowsiness or sleepiness especially since some of the events occur well after the start of treatment.
 
 Somnolence may occur in patients receiving ZELAPAR.
-There was an increased risk for somnolence in geriatric patients (>65 years) vs non-geriatric patients treated with ZELAPAR.
+There was an increased risk for somnolence in geriatric patients (≥65 years) vs non-geriatric patients treated with ZELAPAR.
 Prescribers should also be aware that patients may not acknowledge drowsiness or sleepiness until directly questioned about drowsiness or sleepiness during specific activities.
 Patients should be advised to exercise caution while driving, operating machines, or working at heights during treatment with ZELAPAR.
 Patients who have already experienced somnolence and/or an episode of sudden sleep onset should not participate in these activities during treatment with ZELAPAR.

@@ -29,7 +29,7 @@ Safety and effectiveness in pediatric patients have not been established.
 
 ## 8.5 Geriatric Use
 
-The overall incidence of adverse reactions was increased in geriatric patients (>65 years) compared to non-geriatric patients (<65 years).
+The overall incidence of adverse reactions was increased in geriatric patients (≥65 years) compared to non-geriatric patients (<65 years).
 Clinical studies did not include a sufficient number of geriatric subjects older than 75 years to determine whether they respond differently to ZELAPAR.
 
 Analysis of adverse reaction incidence in each group was conducted to calculate and compare relative risk (ZELAPAR % / Placebo %) for each treatment.

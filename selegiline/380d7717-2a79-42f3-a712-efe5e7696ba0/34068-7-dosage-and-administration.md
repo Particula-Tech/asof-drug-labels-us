@@ -16,7 +16,7 @@ Patients should IMMEDIATELY place the ZELAPAR tablet(s) on top of the tongue whe
 ## 2.2 Patients with Hepatic Impairment
 
 In patients with mild to moderate hepatic disease (Child-Pugh score 5 to 9), the daily dose of ZELAPAR should be reduced (from 2.5 to 1.25 mg daily), depending on the clinical response.
-ZELAPAR is not recommended in patients with severe hepatic impairment (Child-Pugh score greater than 9)[see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+ZELAPAR is not recommended in patients with severe hepatic impairment (Child-Pugh score greater than 9) [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 ## 2.3 Patients with Renal Impairment
 

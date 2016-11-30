@@ -26,7 +26,7 @@ The pre-gastric absorption from ZELAPAR and the avoidance of first-pass metaboli
 
 Plasma Cmax and AUC of ZELAPAR were dose proportional at doses between 2.5 and 10 mg daily.
 
-### Food effects
+### Food Effects
 
 When ZELAPAR is taken with food, the Cmax and AUC of selegiline are about 60% of those seen when ZELAPAR is taken in the fasted state.
 Since ZELAPAR is placed on the tongue and absorbed through the oral mucosa, the intake of food and liquid should be avoided 5 minutes before and after ZELAPAR administration [see Dosage and Administration (2.1)].
@@ -55,34 +55,34 @@ Following metabolism in the liver, selegiline is excreted primarily in the urine
 
 ### Special Populations
 
-#### Age
+#### Age:
 
 The effect of age on the pharmacokinetics of selegiline following ZELAPAR administration has not been adequately characterized.
 
-#### Gender
+#### Gender:
 
 There are no differences between male and female subjects in overall (AUC∞), time to maximum exposure (Tmax), and elimination half-life (t½) after administration of ZELAPAR.
 Female subjects have an approximate 25% decrease in Cmax compared to male subjects.
 However, since the overall exposure (AUC∞) is not different between the genders, this pharmacokinetic difference is not likely to be clinically relevant.
 
-#### Race
+#### Race:
 
 No studies have been conducted to evaluate the effects of race on the pharmacokinetics of ZELAPAR.
 
-#### Renal Impairment
+#### Renal Impairment:
 
 Following once-daily dosing of ZELAPAR 2.5 mg to selegiline steady-state (10 days) in 6 subjects with mild renal impairment (CLcr >50 to 89 mL/min) and in 6 subjects with moderate renal impairment (CLcr >30 to 50 mL/min), AUC and Cmax of selegiline and desmethylselegiline were not substantially different from healthy subjects; however, methamphetamine and amphetamine exposures were increased by 34-67% in subjects with moderate renal impairment.
 Following once-daily dosing of ZELAPAR 1.25 mg to steady-state (10 days) in 6 end-stage renal disease patients, off dialysis, selegiline exposure was not substantially different from that in healthy subjects, however methamphetamine and amphetamine exposures were increased approximately 4-fold compared to healthy subjects [see Dosage and Administration (2.3) and Use in Specific Populations (8.7)].
 
-#### Hepatic Impairment
+#### Hepatic Impairment:
 
 Subjects with mild hepatic impairment (Child-Pugh score 5 to 6), received once-daily dosing of ZELAPAR 2.5 mg to selegiline until they attained steady-state (10 days).
 The AUC and Cmax of selegiline were 1.5-fold higher and the AUC and Cmax of the metabolite desmethylselegiline were 1.4-fold and 1.2-fold higher.
-In subjects with moderate hepatic impairment (Child-Pugh score 7 to 9), the AUC of selegiline and desmethylselegeline increased 1.5-fold and 1.8-fold, respectively, whereas the Cmax of selegiline and demethylselegiline were comparable to healthy subjects.
-Patients with severe hepatic impairment (Child-Pugh score >9) had a 4-fold increased AUC of selegiline, 3-fold increased Cmax of selegiline, a 1.25-fold increased AUC of desmethylselegeline and 50% reduced Cmax of desmethylselegeline.
+In subjects with moderate hepatic impairment (Child-Pugh score 7 to 9), the AUC of selegiline and desmethylselegiline increased 1.5-fold and 1.8-fold, respectively, whereas the Cmax of selegiline and demethylselegiline were comparable to healthy subjects.
+Patients with severe hepatic impairment (Child-Pugh score >9) had a 4-fold increased AUC of selegiline, 3-fold increased Cmax of selegiline, a 1.25-fold increased AUC of desmethylselegeline and 50% reduced Cmax of desmethylselegiline.
 Methamphetamine and amphetamine metabolite AUC values were not affected by liver dysfunction [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
 
-#### Drug Interactions
+#### Drug Interactions:
 
 No studies have been conducted to evaluate drug interactions on the pharmacokinetics of ZELAPAR.
 

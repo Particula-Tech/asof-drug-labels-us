@@ -21,7 +21,7 @@ Because clinical trials are conducted under widely varying conditions, the incid
 
 Because the controlled trials performed during premarketing development both used a titration design (1.25 mg per day for 6 weeks, followed by 2.5 mg per day for 6 weeks), with a resultant confounding of time and dose, it was impossible to adequately evaluate the effects of dose on the incidence of adverse events.
 
-The most common adverse reactions (treatment difference incidence at least 3% greater than placebo incidence) reported in the double-blind, placebo-controlled trials during ZELAPAR treatment were constipation, skin disorders, vomiting, dizziness, dyskinesia, insomnia, dyspnea, myalgia, and rash (See Table 1).
+The most common adverse reactions (treatment difference incidence at least 3% greater than placebo incidence) reported in the double-blind, placebo-controlled trials during ZELAPAR treatment were constipation, skin disorders, vomiting, dizziness, dyskinesia, insomnia, dyspnea, myalgia, and rash (see Table 1).
 
 Of the 194 patients treated with ZELAPAR in the double-blind, placebo-controlled trials, 5% discontinued due to adverse reactions compared to 1% of the 98 patients who received placebo.
 Most common adverse reactions causing discontinuation of treatment included dizziness, chest pain, accidental injury, and myasthenia.

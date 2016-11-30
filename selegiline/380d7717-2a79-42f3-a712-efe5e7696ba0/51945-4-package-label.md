@@ -2,7 +2,7 @@
 
 NDC 0187-0453-02
 
-Rx Only
+Rx only
 
 Zelapar® 1.25 mg
 
@@ -10,8 +10,6 @@ Zelapar® 1.25 mg
 
 Orally Disintegrating Tablets
 
-6 pouches,
-
-each containing 10 tablets
+Contents: 6 pouches, each containing 10 tablets
 
 VALEANT®

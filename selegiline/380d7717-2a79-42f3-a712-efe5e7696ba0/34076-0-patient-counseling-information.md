@@ -73,3 +73,6 @@ Patients should also avoid drinking liquids or eating food 5 minutes before and 
 Use ZELAPAR within 3 months of opening pouch and immediately upon opening individual blister.
 Store blister tablets in pouch.
 Potency cannot be guaranteed after 3 months of opening the pouch.
+
+KEEP THIS MEDICATION OUT OF THE REACH OF CHILDREN.
+BLISTERS AND POUCHES ARE NOT CHILD-RESISTANT.

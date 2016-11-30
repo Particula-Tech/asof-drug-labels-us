@@ -39,7 +39,7 @@ Severe toxicity has also been reported in patients receiving the combination of 
 
 ## 7.7 Drugs that Induce CYP450
 
-Adequate studies have not been done investigating the effect of CYP3A4-inducers on selegiline.
+Adequate studies have not been done investigating the effect of CYP3A4 inducers on selegiline.
 Drugs that induce CYP3A4 (e.g., phenytoin, carbamazepine, nafcillin, phenobarbital, and rifampin) should be used with caution.
 
 ## 7.8 Dopaminergic Antagonists
