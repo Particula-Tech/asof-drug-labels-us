@@ -51,7 +51,7 @@ Digestive: anorexia, increased appetite, esophagitis, gastrointestinal disorder,
 
 Hematologic: leukopenia, lymphadenopathy
 
-Nervous: anxiety, confusion, depression, abnormal dreams, hyperkinesia, hypesthesia, nervousness, parethesias, speech disorder, twitching
+Nervous: anxiety, confusion, depression, abnormal dreams, hyperkinesia, hypesthesia, nervousness, paresthesias, speech disorder, twitching
 
 Respiratory: increased sputum, stridor, yawning
 

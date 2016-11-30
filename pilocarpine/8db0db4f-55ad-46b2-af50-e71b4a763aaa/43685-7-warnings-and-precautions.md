@@ -52,7 +52,7 @@ Child-Pugh scoring system for Hepatic Impairment
 | Prothrombin time (sec. Prolonged) | 1-4 | 4-6 | >6 |
 | For primary biliary cirrhosis:- Bilirubin (mg. Per 100 ml.) | 1-4 | 4-10 | >10 |
 
-Reference: Pugh, RNH, Murray-Lyon, IM, Dawson, JL Pietroni, MC, Williams, R. Transection of the oesophagus for bleeding oesophageal varices, Brit.
+Reference: Pugh, RNH, Murray-Lyon, IM, Dawson, JL Pietroni, MC, Williams, R. Transection of the Oesophagus for Bleeding Oesophageal Varices, Brit.
 J. Surg.
 1973;60:646-9.
 

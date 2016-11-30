@@ -2,7 +2,7 @@
 
 NDC 0527-1313-01
 
-PILOCARPINE HYDROCHLORIDE TABLETS, USP
+Pilocarpine Hydrochloride Tablets, USP
 
 5 mg
 
@@ -16,7 +16,7 @@ Lannett
 
 NDC 0527-1407-01
 
-PILOCARPINE HYDROCHLORIDE TABLETS, USP
+Pilocarpine Hydrochloride Tablets, USP
 
 7.5 mg
 
