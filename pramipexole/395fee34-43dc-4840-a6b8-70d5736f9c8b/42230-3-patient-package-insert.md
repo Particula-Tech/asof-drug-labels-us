@@ -1,6 +1,4 @@
-PATIENT INFORMATION
-
-Pramipexole dihydrochloride tablets
+PATIENT INFORMATION PRAMIPEXOLE (pram’’-i-pex’-ole) DIHYDROCHLORIDE TABLETS
 
 Read this Patient Information before you start taking pramipexole dihydrochloride tablets and each time you get a refill.
 There may be new information.
@@ -160,4 +158,4 @@ The brands listed are trademarks of their respective owners and are not trademar
 
 Manufactured by: ScieGen Pharmaceuticals, Inc. Hauppauge, NY 11788 USA
 
-Rev: 02/16
+Rev: 08/16
