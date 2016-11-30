@@ -35,14 +35,10 @@ They are available as follows:
 
 NDC 0378-0334-01 bottles of 100 tablets
 
-NDC 0378-0334-10 bottles of 1000 tablets
-
 The 20 mg tablets are light blue round tablets debossed with MYLAN over 335 on one side of the tablet and scored on the other side.
 They are available as follows:
 
 NDC 0378-0335-01 bottles of 100 tablets
-
-NDC 0378-0335-10 bottles of 1000 tablets
 
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
@@ -53,4 +49,4 @@ Dispense in a tight, light-resistant container as defined in the USP using a chi
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED DECEMBER 2011 HALO:R21
+Revised: 11/2016 HALO:R22

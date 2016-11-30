@@ -12,7 +12,7 @@ Clinical experience suggests the following recommendations:
 
 ## Oral Administration
 
-## Inital Dosage Range
+## Initial Dosage Range
 
 ### Adults
 

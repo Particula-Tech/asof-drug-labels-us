@@ -24,7 +24,7 @@ Infrequently haloperidol has been used in doses above 100 mg for severely resist
 
 Psychotic Disorders - 0.05 mg/kg/day to 0.15 mg/kg/day
 
-Nonpsychotic Behavior Disorders and Tourette's Disorder - 0.05 mg/kg/day to 0.075 mg/kg/day
+Nonpsychotic Behavior Disorders and Tourette’s Disorder - 0.05 mg/kg/day to 0.075 mg/kg/day
 
 Severely disturbed psychotic children may require higher doses.
 In severely disturbed, non-psychotic children or in hyperactive children with accompanying conduct disorders, who have failed to respond to psychotherapy or medications other than antipsychotics, it should be noted that since these behaviors may be short lived, short term administration of haloperidol may suffice.
