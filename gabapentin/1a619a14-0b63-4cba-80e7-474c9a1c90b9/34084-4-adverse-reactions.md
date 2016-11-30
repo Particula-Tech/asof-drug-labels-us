@@ -124,7 +124,7 @@ Because only 3% of patients (28/921) in placebo-controlled studies were identifi
 
 Table 5 lists adverse reactions that occurred in at least 2% of gabapentin-treated patients, age 3 to 12 years of age with epilepsy participating in placebo-controlled trials, and which were numerically more common in the gabapentin group.
 
-Table 5.
+TABLE 5.
 Adverse Reactions in a Placebo-Controlled Add-On Trial in Pediatric Epilepsy Patients Age 3 to 12 Years
 
 |  | Gabapentina N=119 % | Placeboa N=128 % |

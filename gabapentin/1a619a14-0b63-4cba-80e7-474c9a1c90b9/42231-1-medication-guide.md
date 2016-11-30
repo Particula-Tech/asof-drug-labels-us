@@ -195,6 +195,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810
 
-Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt)-509302 India
-
-Revised: 10/2015
+Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India Revised: 06/2016

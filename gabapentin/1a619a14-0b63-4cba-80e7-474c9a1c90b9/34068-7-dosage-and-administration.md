@@ -24,8 +24,8 @@ The maximum time interval between doses should not exceed 12 hours.
 
 Dosage adjustment in patients 12 years of age and older with renal impairment or undergoing hemodialysis is recommended, as follows (see dosing recommendations above for effective doses in each indication):
 
-TABLE1.
-Gabapentin capsules Dosage Based on Renal Funtion
+TABLE 1.
+Gabapentin capsules Dosage Based on Renal Function
 
 | Renal Function Creatinine Clearance (mL/min) | Total Daily Dose Range (mg/day) | Dose Regimen (mg) |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |

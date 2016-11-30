@@ -26,9 +26,7 @@ The reduction in weekly mean pain scores was seen by Week 1 in both studies, and
 Comparable treatment effects were observed in all active treatment arms.
 Pharmacokinetic/pharmacodynamic modeling provided confirmatory evidence of efficacy across all doses.
 Figures 1 and 2 show pain intensity scores over time for Studies 1 and 2.
-Figure 1.
-Weekly Mean Pain Scores (Observed Cases in ITT Population): Study 1 Figure 2.
-Weekly Mean Pain Scores (Observed Cases in ITT Population): Study 2 The proportion of responders (those patients reporting at least 50% improvement in endpoint pain score compared with baseline) was calculated for each study (Figure 3).
+The proportion of responders (those patients reporting at least 50% improvement in endpoint pain score compared with baseline) was calculated for each study (Figure 3).
 Figure 3.
 Proportion of Responders (patients with ≥50% reduction in pain score) at Endpoint: Controlled PHN Studies
 
