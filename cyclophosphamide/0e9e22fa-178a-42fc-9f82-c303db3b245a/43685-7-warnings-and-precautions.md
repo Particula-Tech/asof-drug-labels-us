@@ -10,7 +10,7 @@ In case of neutropenic fever, antibiotic therapy is indicated.
 Antimycotics and/or antivirals may also be indicated.
 
 Monitoring of complete blood counts is essential during cyclophosphamide treatment so that the dose can be adjusted, if needed.
-Cyclophosphamide should not be administered to patients with neutrophils ≤1,500/mm3 and platelets <50,000/mm3.
+Cyclophosphamide should not be administered to patients with neutrophils ≤1,500/mm 3 and platelets <50,000/mm 3.
 Cyclophosphamide treatment may not be indicated, or should be interrupted, or the dose reduced, in patients who have or who develop a serious infection.
 G-CSF may be administered to reduce the risks of neutropenia complications associated with cyclophosphamide use.
 Primary and secondary prophylaxis with G-CSF should be considered in all patients considered to be at increased risk for neutropenia complications.

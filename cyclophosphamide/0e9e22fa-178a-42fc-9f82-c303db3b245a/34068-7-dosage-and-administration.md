@@ -29,7 +29,8 @@ Treatment beyond 90 days increases the probability of sterility in males [see Us
 
 ## 2.3 Preparation, Handling and Administration
 
-Handle and dispose of cyclophosphamide in a manner consistent with other cytotoxic drugs.1 Caution should be exercised when handling and preparing Cyclophosphamide for Injection, USP.
+Handle and dispose of cyclophosphamide in a manner consistent with other cytotoxic drugs.
+1 Caution should be exercised when handling and preparing Cyclophosphamide for Injection, USP.
 To minimize the risk of dermal exposure, always wear gloves when handling vials containing Cyclophosphamide for Injection, USP.
 
 Cyclophosphamide for Injection, USP
