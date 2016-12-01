@@ -8,6 +8,6 @@ Zylet (loteprednol etabonate and tobramycin ophthalmic suspension) is supplied i
 
 USE ONLY IF IMPRINTED NECKBAND IS INTACT.
 
-Storage: Store upright at 15º-25º C (59º-77º F).
-
-PROTECT FROM FREEZING
+Storage: Store upright at 15º-25ºC (59º-77ºF).
+PROTECT FROM FREEZING.
+SHAKE VIGOROUSLY BEFORE USING.

@@ -2,7 +2,7 @@
 
 ## 5.1 Intraocular Pressure (IOP) Increase
 
-Prolonged use of corticosteroids may result in glaucoma with damage to the optic nerve, defects in visual acuity and fields of vision..
+Prolonged use of corticosteroids may result in glaucoma with damage to the optic nerve, defects in visual acuity and fields of vision.
 Steroids should be used with caution in the presence of glaucoma.
 
 If this product is used for 10 days or longer, intraocular pressure should be monitored.

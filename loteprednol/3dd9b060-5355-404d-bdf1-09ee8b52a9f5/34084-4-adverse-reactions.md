@@ -4,13 +4,13 @@ Adverse reactions have occurred with steroid/anti-infective combination drugs wh
 
 Zylet:
 
-In a 42 day safety study comparing Zylet to placebo, ocular adverse reactions included injection (approximately 20%) and superficial punctuate keratitis (approximately 15%).
+In a 42-day safety study comparing Zylet to placebo, ocular adverse reactions included injection (approximately 20%) and superficial punctate keratitis (approximately 15%).
 Increased intraocular pressure was reported in 10% (Zylet) and 4% (placebo) of subjects.
 Nine percent (9%) of Zylet subjects reported burning and stinging upon instillation.
 
 Ocular reactions reported with an incidence less than 4% include vision disorders, discharge, itching, lacrimation disorder, photophobia, corneal deposits, ocular discomfort, eyelid disorder, and other unspecified eye disorders.
 
-The incidence of non-ocular reactions reported in approximately 14% of subjects was headache; all other non ocular reactions had an incidence of less than 5%.
+The incidence of non-ocular reactions reported in approximately 14% of subjects was headache; all other non-ocular reactions had an incidence of less than 5%.
 
 Loteprednol etabonate ophthalmic suspension 0.2% - 0.5%:
 

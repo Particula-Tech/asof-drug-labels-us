@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic effects: Pregnancy Category C. Loteprednol etabonate has been shown to be embryotoxic (delayed ossification) and teratogenic (increased incidence of meningocele, abnormal left common carotid artery, and limb fixtures) when administered orally to rabbits during organogenesis at a dose of 3 mg/kg/day (35 times the maximum daily clinical dose), a dose which caused no maternal toxicity.
+Teratogenic effects: Loteprednol etabonate has been shown to be embryotoxic (delayed ossification) and teratogenic (increased incidence of meningocele, abnormal left common carotid artery, and limb fixtures) when administered orally to rabbits during organogenesis at a dose of 3 mg/kg/day (35 times the maximum daily clinical dose), a dose which caused no maternal toxicity.
 The no-observed-effect-level (NOEL) for these effects was 0.5 mg/kg/day (6 times the maximum daily clinical dose).
 Oral treatment of rats during organogenesis resulted in teratogenicity (absent innominate artery at ≥5 mg/kg/day doses, and cleft palate and umbilical hernia at ≥50 mg/kg/day) and embryotoxicity (increased post-implantation losses at 100 mg/kg/day and decreased fetal body weight and skeletal ossification with ≥50 mg/kg/day).
 Treatment of rats at 0.5 mg/kg/day (6 times the maximum daily clinical dose) during organogenesis did not result in any reproductive toxicity.
@@ -12,7 +12,7 @@ Oral exposure of female rats to 50 mg/kg/day of loteprednol etabonate from the s
 Loteprednol etabonate had no effect on the duration of gestation or parturition when administered orally to pregnant rats at doses up to 50 mg/kg/day during the fetal period.
 
 Reproductive studies have been performed in rats and rabbits with tobramycin at doses up to 100 mg/kg/day parenterally and have revealed no evidence of impaired fertility or harm to the fetus.
-There are no adequate and well controlled studies in pregnant women.
+There are no adequate and well-controlled studies in pregnant women.
 Zylet should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ## 8.3 Nursing Mothers

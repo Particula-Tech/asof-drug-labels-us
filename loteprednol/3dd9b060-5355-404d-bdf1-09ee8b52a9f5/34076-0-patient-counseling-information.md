@@ -5,16 +5,12 @@ Patients should be advised not to allow the dropper tip to touch any surface, as
 If pain develops, redness, itching or inflammation becomes aggravated, the patient should be advised to consult a physician.
 As with all ophthalmic preparations containing benzalkonium chloride, patients should be advised not to wear soft contact lenses when using Zylet.
 
-MANUFACTURER INFORMATION
+Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC
 
-BAUSCH & LOMB INCORPORATED
+Bridgewater, NJ 08807 USA
 
-TAMPA, FLORIDA 33637 USA
+©Bausch & Lomb Incorporated Zylet is a trademark of Bausch & Lomb Incorporated or its affiliates.
 
-©Bausch & Lomb Incorporated Zylet is a registered trademark of Bausch & Lomb Incorporated.
+9007706 (FOLDED)
 
-9007705 (folded)
-
-9004405 (flat)
-
-Revised 08/2013
+9004406 (FLAT)
