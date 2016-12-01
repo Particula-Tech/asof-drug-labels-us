@@ -47,14 +47,6 @@ Safety and effectiveness of DARZALEX in pediatric patients have not been establi
 
 ## 8.5 Geriatric Use
 
-Of the 156 patients on the recommended dose, 45% were 65 years of age or older, and 10% were 75 years of age or older.
+Of the 156 patients that received DARZALEX monotherapy at the recommended dose, 45% were 65 years of age or older, and 10% were 75 years of age or older.
+Of 561 patients that received DARZALEX with various combination therapies, 40% were 65 to 75 years of age, and 9% were 75 years of age or older.
 No overall differences in safety or effectiveness were observed between these patients and younger patients [see Clinical Studies (14)].
-
-## 8.6 Renal Impairment
-
-Based on a population pharmacokinetic (PK) analysis no dosage adjustment is necessary for patients with pre-existing renal impairment [see Clinical Pharmacology (12.3)].
-
-## 8.7 Hepatic Impairment
-
-Based on a population PK analysis, no dosage adjustments are necessary for patients with mild hepatic impairment (Total Bilirubin [TB] 1.0× to 1.5× upper limit of normal [ULN] or aspartate aminotransferase [AST] >ULN).
-Daratumumab has not been studied in patients with moderate to severe hepatic impairment (TB >1.5× ULN and any AST) [see Clinical Pharmacology (12.3)].

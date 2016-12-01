@@ -1,10 +1,8 @@
 # 7 DRUG INTERACTIONS
 
-No drug interaction studies have been performed.
-
 ## 7.1 Effects of Daratumumab on Laboratory Tests
 
-Interference with Indirect Antiglobulin Tests (Coombs Test)
+Interference with Indirect Antiglobulin Tests (Indirect Coombs Test)
 
 Daratumumab binds to CD38 on RBCs and interferes with compatibility testing, including antibody screening and cross matching.
 Daratumumab interference mitigation methods include treating reagent RBCs with dithiothreitol (DTT) to disrupt daratumumab binding1 [see References (15)] or genotyping.
