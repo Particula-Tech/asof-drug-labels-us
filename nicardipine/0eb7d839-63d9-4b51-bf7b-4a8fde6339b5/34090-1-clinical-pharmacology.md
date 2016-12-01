@@ -16,7 +16,7 @@ In a study of intra-arterially administered nicardipine, the degree of vasodilat
 Administration of nicardipine to normotensive volunteers at dosages of 0.25 mg/hr to 3 mg/hr for eight hours produced changes of less than 5 mmHg in systolic blood pressure and less than 3 mmHg in diastolic blood pressure.
 
 An increase in heart rate is a normal response to vasodilation and decrease in blood pressure; in some patients these increases in heart rate may be pronounced.
-In placebo-controlled trials, the mean increases in heart rate were 7 bpm ± 1 bpm in postoperative patients and 8 bpm ± 1 bpm in patients with severe hypertension at the end of the maintenance period.
+In placebo-controlled trials, the mean increases in heart rate were 7 ± 1 bpm in postoperative patients and 8 ± 1 bpm in patients with severe hypertension at the end of the maintenance period.
 
 Hemodynamic studies following intravenous dosing in patients with coronary artery disease and normal or moderately abnormal left ventricular function have shown significant increases in ejection fraction and cardiac output with no significant change, or a small decrease, in left ventricular end-diastolic pressure (LVEDP).
 There is evidence that nicardipine increases blood flow.
@@ -60,7 +60,7 @@ When nicardipine was given to mild-to-moderate hypertensive patients with modera
 No significant differences in liver blood flow were observed in these patients.
 A significantly lower systemic clearance and higher area under the curve (AUC) were observed.
 
-When nicardipine capsules (20 mg or 30 mg TID) were given to hypertensive patients with impaired renal function, mean plasma concentrations, AUC, and Cmax were approximately two-fold higher than in healthy controls.
+When nicardipine capsules (20 or 30 mg TID) were given to hypertensive patients with impaired renal function, mean plasma concentrations, AUC, and Cmax were approximately two-fold higher than in healthy controls.
 There was a transient increase in electrolyte excretion, including sodium [see Warnings and Precautions (5.6)].
 
 Acute bolus administration of nicardipine hydrochloride injection (2.5 mg) in healthy volunteers decreased mean arterial pressure and renal vascular resistance; glomerular filtration rate (GFR), renal plasma flow (RPF), and the filtration fraction were unchanged.
@@ -78,7 +78,7 @@ Adverse reactions reported in a limited number of patients with asthma, reactive
 Distribution
 
 A rapid dose-related increase in nicardipine plasma concentrations is seen during the first two hours after the start of an infusion of nicardipine.
-Plasma concentrations increase at a much slower rate after the first few hours, and approach steady state at 24 hours to 48 hours.
+Plasma concentrations increase at a much slower rate after the first few hours, and approach steady state at 24 to 48 hours.
 The steady-state pharmacokinetics of nicardipine are similar in elderly hypertensive patients (greater than 65 years) and young healthy adults.
 On termination of the infusion, nicardipine concentrations decrease rapidly, with at least a 50% decrease during the first two hours post-infusion.
 The effects of nicardipine on blood pressure significantly correlate with plasma concentrations.
@@ -90,8 +90,10 @@ The pharmacokinetics of nicardipine is linear over the dosage range of 0.5 mg/hr
 
 Metabolism and Excretion
 
-Nicardipine has been shown to be rapidly and extensively metabolized by the liver.
-Nicardipine does not induce or inhibit its own metabolism and does not induce or inhibit hepatic microsomal enzymes.
+Nicardipine has been shown to be rapidly and extensively metabolized by the hepatic cytochrome P450 enzymes, CYP2C8, 2D6, and 3A4.
+Nicardipine does not induce or inhibit its own metabolism; however, nicardipine has been shown to inhibit certain cytochrome P450 enzymes (including CYP3A4, CYP2D6, CYP2C8, and CYP2C19).
+Inhibition of these enzymes may result in increased plasma levels of certain drugs, including cyclosporine and tacrolimus [see Drug Interactions (7.5, 7.6)].
+The altered pharmacokinetics may necessitate dosage adjustment of the affected drug or discontinuation of treatment.
 
 After coadministration of a radioactive intravenous dose of nicardipine with an oral 30 mg dose given every 8 hours, 49% of the radioactivity was recovered in the urine and 43% in the feces within 96 hours.
 None of the dose was recovered as unchanged nicardipine.

@@ -2,13 +2,11 @@
 
 ## 16.1 How Supplied
 
-Nicardipine hydrochloride injection is available in packages as follows:
+Nicardipine Hydrochloride Injection is available in packages as follows:
 
-NDC 0143-9593-10
-
-Strength 25 mg/10 mL Single-Use Vial (2.5 mg/mL)
-
-Packaged 10 vials of 10 mL
+| NDC |  | Strength |  | Packaged |
+| --- | --- | --- | --- | --- |
+| 0143-9593-10 |  | 25 mg/10 mL Single Dose Vial (2.5 mg/mL) |  | 10 vials of 10 mL |
 
 ## 16.2 Storage and Handling
 

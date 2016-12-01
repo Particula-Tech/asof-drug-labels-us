@@ -1,11 +1,11 @@
-WEST-WARD PHARMACEUTICALS
+Manufactured by: EXELA PHARMA SCIENCES, LLC.
+1245 Blowing Rock Blvd.
+Lenoir, NC 28645
 
-Manufactured by: Exela Pharma Sciences, LLC Lenoir, NC 28645 USA
+Distributed by: WEST-WARD PHARMACEUTICALS CORP. Eatontown, NJ 07724
 
-Distributed by: WEST-WARD PHARMACEUTICAL CORP. Eatontown, NJ 07724 USA
-
-N+ and NOVAPLUS are registered trademarks of Novation, LLC.
+NOVAPLUS is a registered trademark of Vizient, Inc.
 
 NOVAPLUS®
 
-September 2014
+Revised November 2016
