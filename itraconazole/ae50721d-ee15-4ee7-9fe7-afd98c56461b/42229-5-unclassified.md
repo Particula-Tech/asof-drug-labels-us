@@ -1,12 +1,12 @@
 Revised: 10/2016
 
-©Janssen Pharmaceuticals, Inc 2003
+©2003 Janssen Pharmaceutical Companies
 
-Product of Ireland
+Product of Belgium
 
 Manufactured by:
 
-Janssen Pharmaceutica NV.
+Janssen Pharmaceutica NV
 
 Beerse, Belgium
 
