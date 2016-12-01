@@ -1,4 +1,16 @@
-MEDICATION GUIDE KALETRA® (kuh-LEE-tra) (lopinavir and ritonavir) tablets KALETRA® (kuh-LEE-tra) (lopinavir and ritonavir) oral solution
+MEDICATION GUIDE
+
+KALETRA® (kuh-LEE-tra)
+
+(lopinavir and ritonavir)
+
+tablets
+
+KALETRA® (kuh-LEE-tra)
+
+(lopinavir and ritonavir)
+
+oral solution
 
 Read this Medication Guide before you start taking KALETRA and each time you get a refill.
 There may be new information.
@@ -60,6 +72,9 @@ Do not take KALETRA if you take any of the following medicines:
 
 - alfuzosin (Uroxatral®)
 - cisapride (Propulsid®, Quicksolv®)
+- colchicine (Colcrys®), if you have kidney and/or liver problems
+- dronedarone (Multaq®)
+- elbasvir/grazoprevir (Zepatier®)
 - ergot containing medicines including
   - ergotamine tartrate (Cafergot®, Migergot®, Ergomar®, Ergostat®, Medihaler®, Ergotamine, Wigraine®, Wigrettes®)
   - dihydroergotamine mesylate (D.H.E.
@@ -138,6 +153,7 @@ Especially tell your doctor if you take:
 - fentanyl (Abstral®, Actiq®, Duragesic®, Fentora®, Lazanda®, Onsolis®, Subsys®)
 - fluticasone (Cutivate®, Flonase®, Flovent®, Flovent Diskus®, Flovent HFA®, Veramyst®)
 - itraconazole (Onmel®, Sporanox®)
+- isavuconazonium (Cresemba®)
 - ketoconazole (Extina®, Ketozole®, Nizoral®, Xolegel®)
 - lamotrigine (Lamictal®)
 - lidocaine
@@ -145,6 +161,7 @@ Especially tell your doctor if you take:
 - metronidazole
 - nicardipine (Cardene®)
 - nifedipine (Adalat CC®, Afeditab CR®, Procardia®)
+- ombitasvir/parataprevir/ritonavir and dasabuvir (Viekira Pak®)
 - phenobarbital
 - phenytoin (Dilantin®, Phenytek®)
 - prednisone
@@ -306,7 +323,7 @@ KALETRA 200 mg lopinavir and 50 mg ritonavir tablets: copovidone, sorbitan monol
 The film coating contains: hypromellose, titanium dioxide, polyethylene glycol 400, hydroxypropyl cellulose, talc, colloidal silicon dioxide, polyethylene glycol 3350, yellow ferric oxide 172, and polysorbate 80.
 
 KALETRA 100 mg lopinavir and 25 mg ritonavir tablets: copovidone, sorbitan monolaurate, colloidal silicon dioxide, and sodium stearyl fumarate.
-The film coating contains: polyvinyl alcohol, titanium dioxide, talc, polytheylene glycol 3350, and yellow ferric oxide E172.
+The film coating contains: polyvinyl alcohol, titanium dioxide, talc, polyethylene glycol 3350, and yellow ferric oxide E172.
 
 KALETRA oral solution: acesulfame potassium, alcohol, artificial cotton candy flavor, citric acid, glycerin, high fructose corn syrup, Magnasweet-110 flavor, menthol, natural and artificial vanilla flavor, peppermint oil, polyoxyl 40 hydrogenated castor oil, povidone, propylene glycol, saccharin sodium, sodium chloride, sodium citrate, and water.
 
@@ -325,10 +342,10 @@ KALETRA Tablets, 100 mg lopinavir and 25 mg ritonavir and KALETRA Oral Solution
 
 AbbVie Inc., North Chicago, IL 60064 USA
 
-Revised: September 2016
+Revised: November 2016
 
 The brands listed are trademarks of their respective owners and are not trademarks of AbbVie Inc. The makers of these brands are not affiliated with and do not endorse AbbVie Inc. or its products.
 
 © 2016 AbbVie Inc. All rights reserved.
 
-03-B384
+03-B419

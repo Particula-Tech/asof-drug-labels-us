@@ -71,6 +71,7 @@ Some patients required either initiation or dose adjustments of insulin or oral 
 In some cases, diabetic ketoacidosis has occurred.
 In those patients who discontinued protease inhibitor therapy, hyperglycemia persisted in some cases.
 Because these events have been reported voluntarily during clinical practice, estimates of frequency cannot be made and a causal relationship between protease inhibitor therapy and these events has not been established.
+Consider monitoring for hyperglycemia, new onset diabetes mellitus or an exacerbation of diabetes mellitus in patients treated with KALETRA.
 
 ## 5.8 Immune Reconstitution Syndrome
 
