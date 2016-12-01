@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-Levetiracetam Tablets USP (lee'' va tye ra' se tam) Read this Medication Guide before you start taking levetiracetam tablets and each time you get a refill.
+Levetiracetam Tablets USP (lee'' ve tye ra' se tam) Read this Medication Guide before you start taking levetiracetam tablets and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
 What is the most important information I should know about levetiracetam tablets?
@@ -146,4 +146,4 @@ You can also get information about levetiracetam tablets by calling 1-866-850-28
 What are the ingredients of levetiracetam tablets?
 Active ingredient: levetiracetam Inactive ingredients: corn starch, colloidal silicon dioxide, povidone, talc, magnesium stearate, hypromellose, titanium dioxide, polyethylene glycol, purified water and additional agents listed below: 250 mg tablets: FD&C Blue #2/indigo carmine aluminum lake 500 mg tablets: iron oxide yellow 750 mg tablets: FD&C Yellow #6/sunset yellow FCF aluminum lake, FD&C Blue #2/indigo carmine aluminum lake and iron oxide red.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India Revised: 06/2015
+Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India Revised: 11/2016

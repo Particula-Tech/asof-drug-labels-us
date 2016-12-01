@@ -90,8 +90,8 @@ Table 1: Dosing Adjustment Regimen for Adult Patients with Renal Impairment
 | Group | Creatinine Clearance (mL/min/1.73 m2) | Dosage (mg) | Frequency |
 | --- | --- | --- | --- |
 | Normal | > 80 | 500 to 1,500 | Every 12 hours |
-| Mild | 50 – 80 | 500 to 1,000 | Every 12 hours |
-| Moderate | 30 – 50 | 250 to 750 | Every 12 hours |
+| Mild | 50 to 80 | 500 to 1,000 | Every 12 hours |
+| Moderate | 30 to 50 | 250 to 750 | Every 12 hours |
 | Severe | < 30 | 250 to 500 | Every 12 hours |
 | ESRD patients using dialysis | ---- | 500 to 1,0001 | Every 24 hours1 |
 | 1 Following dialysis, a 250 to 500 mg supplemental dose is recommended. |  |  |  |
