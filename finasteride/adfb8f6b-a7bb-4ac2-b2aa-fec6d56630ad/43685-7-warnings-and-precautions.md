@@ -27,8 +27,8 @@ Whether the effect of 5α-reductase inhibitors to reduce prostate volume, or stu
 ## 5.3 Exposure of Women — Risk to Male Fetus
 
 Women should not handle crushed or broken finasteride tablets when they are pregnant or may potentially be pregnant because of the possibility of absorption of finasteride and the subsequent potential risk to a male fetus.
-Finasteride tablets USP, 5 mg are coated and will prevent contact with the active ingredient during normal handling, provided that the tablets have not been broken or crushed.
-[See Contraindications (4), Use in Specific Populations (8.1), Clinical Pharmacology (12.3), How Supplied/Storage and Handling (16) and Patient Counseling Information (17.2).]
+Finasteride tablets 5 mg are coated and will prevent contact with the active ingredient during normal handling, provided that the tablets have not been broken or crushed.
+[See Contraindications (4), Use in Specific Populations (8.1), Clinical Pharmacology (12.3), How Supplied/Storage and Handling (16) and Patient Counseling Information (17.2)].
 
 ## 5.4 Pediatric Patients and Women
 

@@ -1,57 +1,57 @@
-Finasteride Tablets USP, 5 mg
+Finasteride tablets 5 mg
 
 Patient Information about
 
 (fin-AS-tur-eyed)
 
-Finasteride tablets USP, 5 mg are for use by men only.
+Finasteride tablets 5 mg are for use by men only.
 
-Please read this leaflet before you start taking finasteride tablets USP, 5 mg.
+Please read this leaflet before you start taking finasteride tablets 5 mg.
 Also, read it each time you renew your prescription, just in case anything has changed.
 Remember, this leaflet does not take the place of careful discussions with your doctor.
-You and your doctor should discuss finasteride tablets USP, 5 mg when you start taking your medication and at regular checkups.
+You and your doctor should discuss finasteride tablets 5 mg when you start taking your medication and at regular checkups.
 
-What are finasteride tablets USP, 5 mg?
-Finasteride tablets USP, 5 mg are a medication used to treat symptoms of benign prostatic hyperplasia (BPH) in men with an enlarged prostate.
-Finasteride tablets USP, 5 mg may also be used to reduce the risk of a sudden inability to pass urine and the need for surgery related to BPH in men with an enlarged prostate.
-Finasteride tablets USP, 5 mg may be prescribed along with another medicine, an alpha-blocker called doxazosin, to help you better manage your BPH symptoms.
+What are finasteride tablets 5 mg?
+Finasteride tablets 5 mg are a medication used to treat symptoms of benign prostatic hyperplasia (BPH) in men with an enlarged prostate.
+Finasteride tablets 5 mg may also be used to reduce the risk of a sudden inability to pass urine and the need for surgery related to BPH in men with an enlarged prostate.
+Finasteride tablets 5 mg may be prescribed along with another medicine, an alpha-blocker called doxazosin, to help you better manage your BPH symptoms.
 
-Who should NOT take finasteride tablets USP, 5 mg?
-Finasteride tablets USP, 5 mg are for use by MEN only.
+Who should NOT take finasteride tablets 5 mg?
+Finasteride tablets 5 mg are for use by MEN only.
 
-Do Not Take finasteride tablets USP, 5 mg if you are:
+Do Not Take finasteride tablets 5 mg if you are:
 
 - a woman who is pregnant or may potentially be pregnant.
-  Finasteride tablets USP, 5 mg may harm your unborn baby.
-  Do not touch or handle crushed or broken finasteride tablets USP, 5 mg (see “A warning about finasteride tablets USP, 5 mg and pregnancy”).
-- allergic to finasteride or any of the ingredients in finasteride tablets USP, 5 mg.
-  See the end of this leaflet for a complete list of ingredients in finasteride tablets USP, 5 mg.
+  Finasteride tablets 5 mg may harm your unborn baby.
+  Do not touch or handle crushed or broken finasteride tablets 5 mg (see “A warning about finasteride tablets 5 mg and pregnancy”).
+- allergic to finasteride or any of the ingredients in finasteride tablets 5 mg.
+  See the end of this leaflet for a complete list of ingredients in finasteride tablets 5 mg.
 
-A warning about finasteride tablets USP, 5 mg and pregnancy:
+A warning about finasteride tablets 5 mg and pregnancy:
 
-Women who are or may potentially be pregnant must not use finasteride tablets USP, 5 mg.
-They should also not handle crushed or broken tablets of finasteride tablets USP, 5 mg.
-Finasteride tablets USP, 5 mg are coated and will prevent contact with the active ingredient during normal handling, provided that the tablets are not broken or crushed.
+Women who are or may potentially be pregnant must not use finasteride tablets 5 mg.
+They should also not handle crushed or broken tablets of finasteride tablets 5 mg.
+Finasteride tablets 5 mg are coated and will prevent contact with the active ingredient during normal handling, provided that the tablets are not broken or crushed.
 
-If a woman who is pregnant with a male baby absorbs the active ingredient in finasteride tablets USP, 5 mg after oral use or through the skin, it may cause the male baby to be born with abnormalities of the sex organs.
-If a woman who is pregnant comes into contact with the active ingredient in finasteride tablets USP, 5 mg, a doctor should be consulted.
+If a woman who is pregnant with a male baby absorbs the active ingredient in finasteride tablets 5 mg after oral use or through the skin, it may cause the male baby to be born with abnormalities of the sex organs.
+If a woman who is pregnant comes into contact with the active ingredient in finasteride tablets 5 mg, a doctor should be consulted.
 
-How should I take finasteride tablets USP, 5 mg?
+How should I take finasteride tablets 5 mg?
 
 Follow your doctor's instruction.
 
 - Take one tablet by mouth each day.
-  To avoid forgetting to take finasteride tablets USP, 5 mg, you can take it at the same time every day.
-- If you forget to take finasteride tablets USP, 5 mg, do not take an extra tablet.
+  To avoid forgetting to take finasteride tablets 5 mg, you can take it at the same time every day.
+- If you forget to take finasteride tablets 5 mg, do not take an extra tablet.
   Just take the next tablet as usual.
-- You may take finasteride tablets USP, 5 mg with or without food.
-- Do not share finasteride tablets USP, 5 mg with anyone else; it was prescribed only for you.
+- You may take finasteride tablets 5 mg with or without food.
+- Do not share finasteride tablets 5 mg with anyone else; it was prescribed only for you.
 
-What are the possible side effects of finasteride tablets USP, 5 mg?
+What are the possible side effects of finasteride tablets 5 mg?
 
-Finasteride tablets USP, 5 mg may increase the chance of a more serious form of prostate cancer.
+Finasteride tablets 5 mg may increase the chance of a more serious form of prostate cancer.
 
-The most common side effects of finasteride tablets USP, 5 mg include:
+The most common side effects of finasteride tablets 5 mg include:
 
 - trouble getting or keeping an erection (impotence)
 - decrease in sex drive
@@ -60,7 +60,7 @@ The most common side effects of finasteride tablets USP, 5 mg include:
 - enlarged or painful breast.
   You should promptly report to your doctor any changes in your breasts such as lumps, pain or nipple discharge.
 
-The following have been reported in general use with finasteride tablets USP, 5 mg and/or finasteride at lower doses:
+The following have been reported in general use with finasteride tablets 5 mg and/or finasteride at lower doses:
 
 - allergic reactions, including rash, itching, hives, and swelling of the lips, tongue, throat, and face.
 - rarely, some men may have testicular pain.
@@ -72,40 +72,41 @@ The following have been reported in general use with finasteride tablets USP, 5 
 - decrease in sex drive that continued after stopping the medication
 - in rare cases, male breast cancer has been reported.
 
-You should discuss side effects with your doctor before taking finasteride tablets USP, 5 mg and anytime you think you are having a side effect.
-These are not all the possible side effects with finasteride tablets USP, 5 mg.
+You should discuss side effects with your doctor before taking finasteride tablets 5 mg and anytime you think you are having a side effect.
+These are not all the possible side effects with finasteride tablets 5 mg.
 For more information, ask your doctor or pharmacist.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at: 1-800-FDA-1088.
 
-What you need to know while taking finasteride tablets USP, 5 mg
+What you need to know while taking finasteride tablets 5 mg
 
-- You should see your doctor regularly while taking finasteride tablets USP, 5 mg.
+- You should see your doctor regularly while taking finasteride tablets 5 mg.
   Follow your doctor's advice about when to have these checkups.
 - Checking for prostate cancer.
-  Your doctor has prescribed finasteride tablets USP, 5 mg for BPH and not for treatment of prostate cancer — but a man can have BPH and prostate cancer at the same time.Your doctor may continue checking for prostate cancer while you take finasteride tablets USP, 5 mg.
+  Your doctor has prescribed finasteride tablets 5 mg for BPH and not for treatment of prostate cancer — but a man can have BPH and prostate cancer at the same time.
+  Your doctor may continue checking for prostate cancer while you take finasteride tablets 5 mg.
 - About Prostate-Specific Antigen (PSA).
   Your doctor may have done a blood test called PSA for the screening of prostate cancer.
-  Because finasteride tablets USP, 5 mg decreases PSA levels, you should tell your doctor(s) that you are taking finasteride tablets USP, 5 mg.
+  Because finasteride tablets 5 mg decreases PSA levels, you should tell your doctor(s) that you are taking finasteride tablets 5 mg.
   Changes in PSA levels will need to be evaluated by your doctor(s).
   Any increase in follow-up PSA levels from their lowest point may signal the presence of prostate cancer and should be evaluated, even if the test results are still within the normal range.
-  You should also tell your doctor if you have not been taking finasteride tablets USP, 5 mg as prescribed because this may affect the PSA test results.
+  You should also tell your doctor if you have not been taking finasteride tablets 5 mg as prescribed because this may affect the PSA test results.
   For more information, talk to your doctor.
 
-How should I store finasteride tablets USP, 5 mg?
+How should I store finasteride tablets 5 mg?
 
-- Store finasteride tablets USP, 5 mg in a dry place at room temperature.
-- Keep finasteride tablets USP, 5 mg in the original container and keep the container closed.
+- Store finasteride tablets 5 mg in a dry place at room temperature.
+- Keep finasteride tablets 5 mg in the original container and keep the container closed.
 
-Finasteride tablets USP, 5 mg are coated and will prevent contact with the active ingredient during normal handling, provided that the tablets are not broken or crushed.
+Finasteride tablets 5 mg are coated and will prevent contact with the active ingredient during normal handling, provided that the tablets are not broken or crushed.
 
-Keep finasteride tablets USP, 5 mg and all medications out of the reach of children.
+Keep finasteride tablets 5 mg and all medications out of the reach of children.
 
-Do not give your finasteride tablets USP, 5 mg to anyone else.
+Do not give your finasteride tablets 5 mg to anyone else.
 It has been prescribed only for you.
 
-What are the ingredients in finasteride tablets USP, 5 mg?
+What are the ingredients in finasteride tablets 5 mg?
 
 Active ingredients: finasteride
 
@@ -125,20 +126,19 @@ This can lead to symptoms such as:
 
 In some men, BPH can lead to serious problems, including urinary tract infections as well as the need for surgery.
 
-What finasteride tablets USP, 5 mg do:
+What finasteride tablets 5 mg do:
 
-Finasteride tablets USP, 5 mg lowers levels of a hormone called DHT (dihydrotestosterone), which is a cause of prostate growth.
+Finasteride tablets 5 mg lowers levels of a hormone called DHT (dihydrotestosterone), which is a cause of prostate growth.
 Lowering DHT leads to shrinkage of the enlarged prostate gland in most men.
 This can lead to gradual improvement in urine flow and symptoms over the next several months.
-Finasteride tablets USP, 5 mg will help reduce the risk of developing a sudden inability to pass urine and the need for surgery related to an enlarged prostate.
+Finasteride tablets 5 mg will help reduce the risk of developing a sudden inability to pass urine and the need for surgery related to an enlarged prostate.
 However, since each case of BPH is different, you should know that:
 
 - Even though the prostate shrinks, you may NOT notice an improvement in urine flow or symptoms.
-- You may need to take finasteride tablets USP, 5 mg for six (6) months or more to see whether it improves your symptoms.
-- Therapy with finasteride tablets USP, 5 mg may reduce your risk for a sudden inability to pass urine and the need for surgery for an enlarged prostate.
+- You may need to take finasteride tablets 5 mg for six (6) months or more to see whether it improves your symptoms.
+- Therapy with finasteride tablets 5 mg may reduce your risk for a sudden inability to pass urine and the need for surgery for an enlarged prostate.
 
 Manufactured For: Accord Healthcare, Inc., 1009 Slater Road, Suite 210-B, Durham, NC 27703, USA.
 
-Manufactured By: Intas Pharmaceuticals Limited, Plot No: 457, 458, Village - Matoda, Bavla Road, Ta - Sanand, Dist. - Ahmedabad - 382210, INDIA.
-
-10 6584 7 653240 Issued April 2014
+Manufactured By: Intas Pharmaceuticals Limited, Ahmedabad -380 009, India.
+10 0716 0 667775 Issued July 2016

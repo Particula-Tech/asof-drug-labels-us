@@ -11,10 +11,10 @@ If this drug is used during pregnancy, or if the patient becomes pregnant while 
 
 Abnormal male genital development is an expected consequence when conversion of testosterone to 5α-dihydrotestosterone (DHT) is inhibited by 5α-reductase inhibitors.
 These outcomes are similar to those reported in male infants with genetic 5α-reductase deficiency.
-Women could be exposed to finasteride through contact with crushed or broken finasteride tablets USP, 5 mg or semen from a male partner taking finasteride.
-With regard to finasteride exposure through the skin, finasteride tablets USP, 5 mg are coated and will prevent skin contact with finasteride during normal handling if the tablets have not been crushed or broken.
-Women who are pregnant or may become pregnant should not handle crushed or broken finasteride tablets USP, 5 mg because of possible exposure of a male fetus.
-If a pregnant woman comes in contact with crushed or broken finasteride tablets USP, 5 mg, the contact area should be washed immediately with soap and water.
+Women could be exposed to finasteride through contact with crushed or broken finasteride tablets 5 mg or semen from a male partner taking finasteride.
+With regard to finasteride exposure through the skin, finasteride tablets 5 mg are coated and will prevent skin contact with finasteride during normal handling if the tablets have not been crushed or broken.
+Women who are pregnant or may become pregnant should not handle crushed or broken finasteride tablets 5 mg because of possible exposure of a male fetus.
+If a pregnant woman comes in contact with crushed or broken finasteride tablets 5 mg, the contact area should be washed immediately with soap and water.
 With regard to potential finasteride exposure through semen, two studies have been conducted in men receiving finasteride 5 mg/day that measured finasteride concentrations in semen [see Clinical Pharmacology (12.3)].
 
 In an embryo-fetal development study, pregnant rats received finasteride during the period of major organogenesis (gestation days 6 to 17).

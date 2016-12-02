@@ -8,4 +8,4 @@ Storage and Handling
 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 Protect from light and keep container tightly closed.
 
-Women should not handle crushed or broken finasteride tablets USP, 5 mg when they are pregnant or may potentially be pregnant because of the possibility of absorption of finasteride and the subsequent potential risk to a male fetus [see Warnings and Precautions (5.3), Use in Specific Populations (8.1) and Patient Counseling Information (17.2)].
+Women should not handle crushed or broken finasteride tablets, USP 5mg when they are pregnant or may potentially be pregnant because of the possibility of absorption of finasteride and the subsequent potential risk to a male fetus [see Warnings and Precautions (5.3), Use in Specific Populations (8.1) and Patient Counseling Information (17.2)].

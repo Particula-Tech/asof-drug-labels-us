@@ -57,7 +57,7 @@ Finasteride has been shown to cross the blood brain barrier but does not appear 
 
 In 2 studies of healthy subjects (n=69) receiving finasteride 5 mg/day for 6 to 24 weeks, finasteride concentrations in semen ranged from undetectable (<0.1 ng/mL) to 10.54 ng/mL.
 In an earlier study using a less sensitive assay, finasteride concentrations in the semen of 16 subjects receiving finasteride 5 mg/day ranged from undetectable (<1.0 ng/mL) to 21 ng/mL.
-Thus, based on a 5-mL ejaculate volume, the amount of finasteride in semen was estimated to be 50 to 100-fold less than the dose of finasteride (5 mcg) that had no effect on circulating DHT levels in men [see also Use in Specific Populations (8.1)].
+Thus, based on a 5-mL ejaculate volume, the amount of finasteride in semen was estimated to be 50- to 100-fold less than the dose of finasteride (5 mcg) that had no effect on circulating DHT levels in men [see also Use in Specific Populations (8.1)].
 
 Metabolism
 
@@ -94,7 +94,7 @@ Geriatric
 
 No dosage adjustment is necessary in the elderly.
 Although the elimination rate of finasteride is decreased in the elderly, these findings are of no clinical significance.
-[See Clinical Pharmacology (12.3) and Use in Specific Populations (8.5).]
+[See Clinical Pharmacology (12.3) and Use in Specific Populations (8.5)].
 
 | 45 to 60 years old (n=12) | ≥70 years old (n=12) |  |
 | --- | --- | --- |

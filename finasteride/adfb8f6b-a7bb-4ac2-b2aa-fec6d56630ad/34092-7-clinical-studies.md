@@ -17,6 +17,8 @@ Patients randomized to finasteride who remained on therapy for 4 years had a mea
 (See Figure 1.)
 A statistically significant improvement in symptom score was evident at 1 year in patients treated with finasteride vs placebo (–2.3 vs –1.6), and this improvement continued through Year 4.
 
+Figure 1 Symptom Score in a Long-Term Efficacy and Safety Study
+
 Results seen in earlier studies were comparable to those seen in a long-term efficacy and safety study.
 Although an early improvement in urinary symptoms was seen in some patients, a therapeutic trial of at least 6 months was generally necessary to assess whether a beneficial response in symptom relief had been achieved.
 The improvement in BPH symptoms was seen during the first year and maintained throughout an additional 5 years of open extension studies.
@@ -45,6 +47,8 @@ The following table (Table 5) summarizes the results.
 Compared with placebo, finasteride was associated with a significantly lower risk for the need for BPH-related surgery [13.2% for placebo vs 6.6% for finasteride; 51% reduction in risk, 95% CI: (34 to 63%)].
 Compared with placebo, finasteride was associated with a significantly lower risk for surgery [10.1% for placebo vs 4.6% for finasteride; 55% reduction in risk, 95% CI: (37 to 68%)]; see Figure 2.
 
+Figure 2 Percent of Patients Having Surgery for BPH, Including TURP
+
 Effect on Maximum Urinary Flow Rate
 
 In the patients in a long-term efficacy and safety study who remained on therapy for the duration of the study and had evaluable urinary flow data, finasteride increased maximum urinary flow rate by 1.9 mL/sec compared with 0.2 mL/sec in the placebo group.
@@ -62,6 +66,8 @@ Finasteride decreased prostate volume by 17.9% (from 55.9 mL at baseline to 45.8
 Results seen in earlier studies were comparable to those seen in a long-term efficacy and safety study.
 Mean prostate volume at baseline ranged between 40 to 50 mL.
 The reduction in prostate volume was seen during the first year and maintained throughout an additional five years of open extension studies.
+
+Figure 3 Prostate Volume in a Long-Term Efficacy and Safety Study
 
 Prostate Volume as a Predictor of Therapeutic Response
 
@@ -103,10 +109,12 @@ The majority of the events (274 out of 351; 78%) was a confirmed ≥4 point incr
 The risk of symptom score progression was reduced by 30% (p=0.016), 46% (p<0.001), and 64% (p<0.001) in patients treated with finasteride, doxazosin, or the combination, respectively, compared to patients treated with placebo (see Figure 4).
 Combination therapy significantly reduced the risk of symptom score progression compared to the effect of finasteride alone (p<0.001) and compared to doxazosin alone (p=0.037).
 
+Figure 4 Cumulative Incidence of a 4-Point Rise in AUA Symptom Score by Treatment Group
+
 Treatment with finasteride, doxazosin or the combination of finasteride with doxazosin, reduced the mean symptom score from baseline at year 4.
 Table 7 provides the mean change from baseline for AUA symptom score by treatment group for patients who remained on therapy for four years.
 
-| Table 7: Change From Baseline in AUA Symptom Score by Treatment Group at Year 4 in MTOPS |  |  |  |  |
+| Table 7: Change from Baseline in AUA Symptom Score by Treatment Group at Year 4 in MTOPS |  |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | Placebo N=534 | Doxazosin N=582 | Finasteride N=565 | Combination N=598 |
 | Baseline Mean (SD) | 16.8 (6.0) | 17.0 (5.9) | 17.1 (6.0) | 16.8 (5.8) |
