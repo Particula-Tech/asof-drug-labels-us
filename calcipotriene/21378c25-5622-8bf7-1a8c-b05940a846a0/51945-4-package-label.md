@@ -26,4 +26,4 @@ Store at 20º-25ºC (68º-77ºF) [see USP Controlled Room Temperature].
 Avoid sunlight.
 Do not freeze.
 
-Manufactured by: G&W Laboratories, Inc. South Plainfield, NJ 07080 www.gwlabs.com
+Manufactured by: G&W Laboratories, Inc. South Plainfield, NJ 07080
