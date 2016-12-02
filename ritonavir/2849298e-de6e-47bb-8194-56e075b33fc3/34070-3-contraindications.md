@@ -2,8 +2,8 @@
 
 - When co-administering NORVIR with other protease inhibitors, see the full prescribing information for that protease inhibitor including contraindication information.
 - NORVIR is contraindicated in patients with known hypersensitivity (e.g., toxic epidermal necrolysis (TEN) or Stevens-Johnson syndrome) to ritonavir or any of its ingredients.
-- Co-administration of NORVIR with several classes of drugs (including sedative hypnotics, antiarrhythmics, or ergot alkaloid preparations) is contraindicated and may result in potentially serious and/or life-threatening adverse events due to possible effects of NORVIR on the hepatic metabolism of these drugs (see Table 2).
-  Voriconazole and St. John’s Wort are exceptions in that co-administration of NORVIR and voriconazole results in a significant decrease in plasma concentrations of voriconazole, and co-administration of NORVIR with St. John’s Wort may result in decreased ritonavir plasma concentrations.
+- NORVIR is contraindicated with drugs that are highly dependent on CYP3A for clearance and for which elevated plasma concentrations are associated with serious and/or life-threatening reactions.
+- NORVIR is contraindicated with drugs that are potent CYP3A inducers where significantly reduced lopinavir plasma concentrations may be associated with the potential for loss of virologic response and possible resistance and cross-resistance.
 
 Table 2.
 Drugs that are Contraindicated with NORVIR
@@ -11,13 +11,14 @@ Drugs that are Contraindicated with NORVIR
 | Drug Class | Drugs Within Class That Are Contraindicated With NORVIR** | Clinical Comments |
 | --- | --- | --- |
 | Alpha1-adrenoreceptor antagonist | Alfuzosin HCL | Potential for hypotension. |
-| Antiarrhythmics | Amiodarone, flecainide, propafenone, quinidine | Potential for cardiac arrhythmias. |
-| Antifungal | Voriconazole | Co-administration of voriconazole with ritonavir 400 mg every 12 hours significantly decreases voriconazole plasma concentrations and may lead to loss of antifungal response. Voriconazole is contraindicated with ritonavir doses of 400 mg every 12 hours or greater [see Drug Interactions (7.2)]. |
-| Antipsychotics | Lurasidone Pimozide | Potential for serious and/or life-threatening reactions. Potential for cardiac arrhythmias. |
+| Antiarrhythmic | Amiodarone, dronedarone, flecainide, propafenone, quinidine | Potential for cardiac arrhythmias. |
+| Antifungal | Voriconazole | Voriconazole is contraindicated with ritonavir doses of 400 mg every 12 hours or greater due to the potential for loss of antifungal response. |
+| Anti-gout | Colchicinea | Potential for serious and/or life-threatening reactions in patients with renal and/or hepatic impairment. |
+| Antipsychotics | Lurasidone Pimozide | Potential for serious and/or life-threatening reactions. Potential for serious and/or life‑threatening reactions such as cardiac arrhythmias. |
 | Ergot Derivatives | Dihydroergotamine, ergotamine, methylergonovine | Potential for acute ergot toxicity characterized by vasospasm and ischemia of the extremities and other tissues including the central nervous system. |
 | GI Motility Agent | Cisapride | Potential for cardiac arrhythmias. |
-| Herbal Products | St. John's Wort (hypericum perforatum) | Co-administration of NORVIR with St. John’s Wort may result in decreased ritonavir plasma concentrations and may lead to loss of virologic response and possible resistance to NORVIR or to the class of protease inhibitors. |
+| Herbal Products | St. John's Wort (hypericum perforatum) | May lead to loss of virologic response and possible resistance to NORVIR or to the class of protease inhibitors. |
 | HMG-CoA Reductase Inhibitors | Lovastatin, simvastatin | Potential for myopathy including rhabdomyolysis. |
-| PDE5 enzyme inhibitor | Sildenafil* (Revatio®) only when used for the treatment of pulmonary arterial hypertension (PAH) | A safe and effective dose has not been established when used with ritonavir. There is an increased potential for sildenafil-associated adverse events, including visual abnormalities, hypotension, prolonged erection, and syncope [see Drug Interactions (7.2)]. |
-| Sedative/hypnotics | Oral midazolam, triazolam | Prolonged or increased sedation or respiratory depression [see Drug Interactions (7.2)]. |
-| *see Drug Interactions (7) for co-administration of sildenafil in patients with erectile dysfunction. ** For additional information for these contraindicated drugs, see also Drug Interactions (7). |  |  |
+| PDE5 inhibitor | Sildenafilb (Revatio®) when used for the treatment of pulmonary arterial hypertension (PAH) | Potential for sildenafil-associated adverse events, including visual abnormalities, hypotension, prolonged erection, and syncope. |
+| Sedative/hypnotics | Oral midazolamc, triazolam | Prolonged or increased sedation or respiratory depression. |
+| a see Drug Interactions (7), Table 5 for colchicine doses in patients with normal hepatic and renal function. b see Drug Interactions (7), Table 5 for co-administration of sildenafil in patients with erectile dysfunction. c see Drug Interactions (7), Table 5 for parenterally administered midazolam. |  |  |
