@@ -42,7 +42,7 @@ Treatment-Emergent Adverse Reactions (With Possible or Probable Relationship to 
 | Blood bilirubin increased (including jaundice)* | 25 | 1.4 |
 | Hepatitis (including increased AST, ALT, GGT)* | 153 | 8.7 |
 | Immune system disorders |  |  |
-| Hypersensivity including urticatria and face edema* | 114 | 8.2 |
+| Hypersensitivity including urticatria and face edema* | 114 | 8.2 |
 | Metabolism and nutrition disorders |  |  |
 | Edema and peripheral edema* | 110 | 6.3 |
 | Gout* | 24 | 1.4 |

@@ -43,7 +43,8 @@ See the end of this leaflet for a complete list of ingredients in NORVIR.
 Do not take NORVIR with any of the following medicines:
 
 - alfuzosin (Uroxatral)
-- amiodarone (Cordarone, Nexterone, Pacerone), flecainide (Tambocor), propafenone (Rythmol) or quinidine (Nuedext, Quinaglute, Cardioquin, Quinidex, and others)
+- amiodarone (Cordarone, Nexterone, Pacerone), dronedarone (Multaq), flecainide (Tambocor), propafenone (Rythmol) or quinidine (Nuedext, Quinaglute, Cardioquin, Quinidex, and others)
+- colchicine (Colcrys, Col-Probenecid, Probenecid and Colchine), if you have kidney and/or liver problems
 - voriconazole (VFend) if NORVIR dose is 400 mg every 12 hours or greater
 - dihydroergotamine (D.H.E.
   45, Embolex, Migranal), ergotamine (Cafergot, Ergomar) methylergonovine (Methergine)
@@ -245,7 +246,7 @@ NORVIR 100 mg soft gelatin capsules are manufactured for:
 
 AbbVie Inc. North Chicago, IL 60064 USA
 
-Revised: September 2016
+Revised: November 2016
 
 The brands listed are trademarks of their respective owners and are not trademarks of AbbVie Inc. The makers of these brands are not affiliated with and do not endorse AbbVie Inc. or its products.
 

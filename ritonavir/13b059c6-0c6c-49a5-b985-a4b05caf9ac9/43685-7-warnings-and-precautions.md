@@ -1,7 +1,5 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-When co-administering NORVIR with other protease inhibitors, see the full prescribing information for that protease inhibitor including Warnings and Precautions.
-
 ## 5.1 Risk of Serious Adverse Reactions Due to Drug Interactions
 
 Initiation of NORVIR, a CYP3A inhibitor, in patients receiving medications metabolized by CYP3A or initiation of medications metabolized by CYP3A in patients already receiving NORVIR, may increase plasma concentrations of medications metabolized by CYP3A.
@@ -11,6 +9,8 @@ These interactions may lead to:
 - Clinically significant adverse reactions, potentially leading to severe, life-threatening, or fatal events from greater exposures of concomitant medications.
 - Clinically significant adverse reactions from greater exposures of NORVIR.
 - Loss of therapeutic effect of NORVIR and possible development of resistance.
+
+When co-administering NORVIR with other protease inhibitors, see the full prescribing information for that protease inhibitor including important Warnings and Precautions.
 
 See Table 4 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations [see Drug Interactions (7)].
 Consider the potential for drug interactions prior to and during NORVIR therapy; review concomitant medications during NORVIR therapy, and monitor for the adverse reactions associated with the concomitant medications [see Contraindications (4)and Drug Interactions (7)].
@@ -62,6 +62,7 @@ Some patients required either initiation or dose adjustments of insulin or oral 
 In some cases, diabetic ketoacidosis has occurred.
 In those patients who discontinued protease inhibitor therapy, hyperglycemia persisted in some cases.
 Because these events have been reported voluntarily during clinical practice, estimates of frequency cannot be made and a causal relationship between protease inhibitor therapy and these events has not been established.
+Consider monitoring for hyperglycemia, new onset diabetes mellitus, or an exacerbation of diabetes mellitus in patients treated with NORVIR.
 
 ## 5.8 Immune Reconstitution Syndrome
 
