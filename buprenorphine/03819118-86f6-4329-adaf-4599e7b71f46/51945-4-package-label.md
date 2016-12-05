@@ -1,7 +1,7 @@
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+PRINCIPAL DISPLAY PANEL
 
-NDC 0228-3156-03 2 mg Buprenorphine Sublingual Tablets 30 Tablets Rx Only
+NDC 0228-3156-03 Buprenorphine Sublingual Tablets 2 mg 30 Tablets Rx Only
 
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+PRINCIPAL DISPLAY PANEL
 
-NDC 0228-3153-03 8 mg Buprenorphine Sublingual Tablets 30 Tablets Rx Only
+NDC 0228-3153-03 Buprenorphine Sublingual Tablets 8 mg 30 Tablets Rx Only
