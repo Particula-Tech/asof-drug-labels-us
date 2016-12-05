@@ -21,7 +21,7 @@ Dosing Recommendations for Abacavir Scored Tablets in Pediatric Patients
 | Weight (kg) | Twice-daily Dosing Regimen |  |  |
 | --- | --- | --- | --- |
 | AM Dose | PM Dose | Total Daily Dose |  |
-| 14to <20 | ½ tablet (150 mg) | ½ tablet (150 mg) | 300 mg |
+| 14 to <20 | ½ tablet (150 mg) | ½ tablet (150 mg) | 300 mg |
 | >20 to <25 | ½ tablet (150 mg) | 1 tablet (300 mg) | 450 mg |
 | ≥25 | 1 tablet (300 mg) | 1 tablet (300 mg) | 600 mg |
 

@@ -60,7 +60,7 @@ The outcomes of randomized treatment are provided in Table 10.
 Table 10.
 Outcomes of Randomized Treatment through Week 48 (CNA30021)
 
-| Outcome | Abacavir 600 mg q.d. plus EPIVIR plus Efavirenz (n = 384) | Abacavir 300 mg b.i.d. plus EPIVIR plus Efavirenz (n = 386) |
+| Outcome | Abacavir 600 mg q.d. plus EPIVIR® plus Efavirenz (n = 384) | Abacavir 300 mg b.i.d. plus EPIVIR plus Efavirenz (n = 386) |
 | --- | --- | --- |
 | Respondera | 64% (71%) | 65% (72%) |
 | Virologic failureb | 11% (5%) | 11% (5%) |
