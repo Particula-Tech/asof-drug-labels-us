@@ -22,7 +22,7 @@ Ofloxacin is thought to exert a bactericidal effect on susceptible bacterial cel
 Cross-resistance has been observed between ofloxacin and other fluoroquinolones.
 There is generally no cross-resistance between ofloxacin and other classes of antibacterial agents such as beta-lactams or aminoglycosides.
 
-Ofloxacin has been shown to be active against most strains of the following organisms both in vitro and clinically, in conjunctival and/or corneal ulcer infections as described in the INDICATIONS AND USAGE section.
+Ofloxacin has been shown to be active against most strains of the following organisms both in vitro and clinically, in conjunctival and/or corneal ulcer infections (see Indications and Usage).
 
 | AEROBES, GRAM-POSITIVE: | AEROBES, GRAM-NEGATIVE: |
 | --- | --- |

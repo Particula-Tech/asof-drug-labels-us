@@ -1,3 +1,3 @@
 # CONTRAINDICATIONS
 
-OCUFLOX® solution is contraindicated in patients with a history of hypersensitivity to ofloxacin, to other quinolones, or to any of the components in this medication.
+OCUFLOX® solution is contraindicated in patients with a history of hypersensitivity to ofloxacin, to other quinolones, or to any of the components in this medication (see Warnings).
