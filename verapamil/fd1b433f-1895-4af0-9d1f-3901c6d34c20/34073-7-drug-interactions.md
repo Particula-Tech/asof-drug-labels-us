@@ -7,6 +7,11 @@ Clinically significant interactions have been reported with inhibitors of CYP3A4
 Hypotension, bradyarrhythmias, and lactic acidosis have been observed in patients receiving concurrent telithromycin, an antibiotic in the ketolide class of antibiotics.
 Inducers of CYP3A4 (e.g., rifampin) have caused a lowering of plasma levels of verapamil.
 
+Ivabradine
+
+Concurrent use of verapamil increases exposure to ivabradine and may exacerbate bradycardia and conductions disturbances.
+Avoid concomitant use of ivabradine and verapamil.
+
 ## 7.2 HMG-CoA Reductase Inhibitors
 
 The use of HMG-CoA reductase inhibitors that are CYP3A4 substrates in combination with verapamil has been associated with reports of myopathy/rhabdomyolysis.
