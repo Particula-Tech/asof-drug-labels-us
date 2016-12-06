@@ -24,7 +24,7 @@ These findings suggest that the interaction of levetiracetam with the SV2A prote
 
 ### Effects on QTc Interval
 
-The effect of levetiracetam on QTc prolongation was evaluated in a randomized, double-blind, positive-controlled (moxifloxacin 400 mg) and placebo-controlled crossover study of levetiracetam (1000 mg or 5000 mg) in 52 healthy subjects.
+The effect of levetiracetam tablets on QTc prolongation was evaluated in a randomized, double-blind, positive-controlled (moxifloxacin 400 mg) and placebo-controlled crossover study of levetiracetam tablets (1000 mg or 5000 mg) in 52 healthy subjects.
 The upper bound of the 90% confidence interval for the largest placebo-adjusted, baseline-corrected QTc was below 10 milliseconds.
 Therefore, there was no evidence of significant QTc prolongation in this study.
 
@@ -75,7 +75,7 @@ The evaluation of the pharmacokinetic profile of levetiracetam and its metabolit
 The pharmacokinetics of levetiracetam in children was linear between 20 to 60 mg/kg/day.
 The potential interaction of levetiracetam with other AEDs was also evaluated in these patients.
 Levetiracetam had no significant effect on the plasma concentrations of carbamazepine, valproic acid, topiramate or lamotrigine.
-However, there was about a 22% increase of apparent clearance of levetiracetam when it was co-administered with an enzyme-inducing AED (e.g., carbamazepine).
+However, there was about a 22% increase of apparent clearance of levetiracetam when it was coadministered with an enzyme-inducing AED (e.g., carbamazepine).
 
 Following single dose administration (20 mg/kg) of a 10% oral solution to children with epilepsy (1 month to < 4 years), levetiracetam was rapidly absorbed and peak plasma concentrations were observed approximately 1 hour after dosing.
 The pharmacokinetic results indicated that half-life was shorter (5.3 h) than for adults (7.2 h) and apparent clearance was faster (1.5 mL/min/kg) than for adults (0.96 mL/min/kg).
@@ -122,39 +122,39 @@ Potential pharmacokinetic interactions of or with levetiracetam were assessed in
 
 #### Phenytoin
 
-Levetiracetam (3000 mg daily) had no effect on the pharmacokinetic disposition of phenytoin in patients with refractory epilepsy.
+Levetiracetam tablets (3000 mg daily) had no effect on the pharmacokinetic disposition of phenytoin in patients with refractory epilepsy.
 Pharmacokinetics of levetiracetam were also not affected by phenytoin.
 
 #### Valproate
 
-Levetiracetam (1500 mg twice daily) did not alter the pharmacokinetics of valproate in healthy volunteers.
+Levetiracetam tablets (1500 mg twice daily) did not alter the pharmacokinetics of valproate in healthy volunteers.
 Valproate 500 mg twice daily did not modify the rate or extent of levetiracetam absorption or its plasma clearance or urinary excretion.
 There also was no effect on exposure to and the excretion of the primary metabolite, ucb L057.
 
 #### Other Antiepileptic Drugs
 
-Potential drug interactions between levetiracetam and other AEDs (carbamazepine, gabapentin, lamotrigine, phenobarbital, phenytoin, primidone and valproate) were also assessed by evaluating the serum concentrations of levetiracetam and these AEDs during placebo-controlled clinical studies.
+Potential drug interactions between levetiracetam tablets and other AEDs (carbamazepine, gabapentin, lamotrigine, phenobarbital, phenytoin, primidone and valproate) were also assessed by evaluating the serum concentrations of levetiracetam and these AEDs during placebo-controlled clinical studies.
 These data indicate that levetiracetam does not influence the plasma concentration of other AEDs and that these AEDs do not influence the pharmacokinetics of levetiracetam.
 
 #### Effect of AEDs in Pediatric Patients
 
-There was about a 22% increase of apparent total body clearance of levetiracetam when it was co-administered with enzyme-inducing AEDs.
+There was about a 22% increase of apparent total body clearance of levetiracetam when it was coadministered with enzyme-inducing AEDs.
 Dose adjustment is not recommended.
 Levetiracetam had no effect on plasma concentrations of carbamazepine, valproate, topiramate, or lamotrigine.
 
 #### Oral Contraceptives
 
-Levetiracetam (500 mg twice daily) did not influence the pharmacokinetics of an oral contraceptive containing 0.03 mg ethinyl estradiol and 0.15 mg levonorgestrel, or of the luteinizing hormone and progesterone levels, indicating that impairment of contraceptive efficacy is unlikely.
+Levetiracetam tablets (500 mg twice daily) did not influence the pharmacokinetics of an oral contraceptive containing 0.03 mg ethinyl estradiol and 0.15 mg levonorgestrel, or of the luteinizing hormone and progesterone levels, indicating that impairment of contraceptive efficacy is unlikely.
 Coadministration of this oral contraceptive did not influence the pharmacokinetics of levetiracetam.
 
 #### Digoxin
 
-Levetiracetam (1000 mg twice daily) did not influence the pharmacokinetics and pharmacodynamics (ECG) of digoxin given as a 0.25 mg dose every day.
+Levetiracetam tablets (1000 mg twice daily) did not influence the pharmacokinetics and pharmacodynamics (ECG) of digoxin given as a 0.25 mg dose every day.
 Coadministration of digoxin did not influence the pharmacokinetics of levetiracetam.
 
 #### Warfarin
 
-Levetiracetam (1000 mg twice daily) did not influence the pharmacokinetics of R and S warfarin.
+Levetiracetam tablets (1000 mg twice daily) did not influence the pharmacokinetics of R and S warfarin.
 Prothrombin time was not affected by levetiracetam.
 Coadministration of warfarin did not affect the pharmacokinetics of levetiracetam.
 
@@ -163,4 +163,4 @@ Coadministration of warfarin did not affect the pharmacokinetics of levetiraceta
 Probenecid, a renal tubular secretion blocking agent, administered at a dose of 500 mg four times a day, did not change the pharmacokinetics of levetiracetam 1000 mg twice daily.
 Cssmax of the metabolite, ucb L057, was approximately doubled in the presence of probenecid while the fraction of drug excreted unchanged in the urine remained the same.
 Renal clearance of ucb L057 in the presence of probenecid decreased 60%, probably related to competitive inhibition of tubular secretion of ucb L057.
-The effect of levetiracetam on probenecid was not studied.
+The effect of levetiracetam tablets on probenecid was not studied.

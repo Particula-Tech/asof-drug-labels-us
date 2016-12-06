@@ -2,7 +2,7 @@
 
 ## 1.1 Partial Onset Seizures
 
-Levetiracetam tablets, USP are indicated as adjunctive therapy in the treatment of partial onset seizures in adults and children 1 month of age and older with epilepsy.
+Levetiracetam tablets are indicated as adjunctive therapy in the treatment of partial onset seizures in adults and children 1 month of age and older with epilepsy.
 
 ## 1.2 Myoclonic Seizures in Patients with Juvenile Myoclonic Epilepsy
 

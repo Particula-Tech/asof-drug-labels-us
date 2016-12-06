@@ -1,10 +1,6 @@
-# MEDICATION GUIDE
+# Medication Guide
 
-LEVETIRACETAM TABLETS, USP
-
-(lee'' va tye ra' se tam)
-
-250 mg, 500 mg, 750 mg and 1000 mg
+Levetiracetam Tablets, USP (lee'' va tye ra' se tam)
 
 Read this Medication Guide before you start taking levetiracetam tablets and each time you get a refill.
 There may be new information.
@@ -46,30 +42,30 @@ What are levetiracetam tablets?
 
 Levetiracetam tablets are a prescription medicine taken by mouth that is used with other medicines to treat:
 
-- •partial onset seizures in people 1 month of age and older with epilepsy
-- •myoclonic seizures in people 12 years of age and older with juvenile myoclonic epilepsy
+- •partial onset seizures in people 1 month of age and older with epilepsy.
+- •myoclonic seizures in people 12 years of age and older with juvenile myoclonic epilepsy.
 - •primary generalized tonic-clonic seizures in people 6 years of age and older with certain types of generalized epilepsy.
 
-It is not known if levetiracetam is safe or effective in children under 1 month of age.
+It is not known if levetiracetam tablets are safe or effective in children under 1 month of age.
 
 Before taking your medicine, make sure you have received the correct medicine.
 Compare the name above with the name on your bottle and the appearance of your medicine with the description of levetiracetam tablets provided below.
 Tell your pharmacist immediately if you think you have been given the wrong medicine.
 
-The 250 mg tablets are white film-coated, round tablets debossed with M above the score and 613 below the score on one side of the tablet and blank on the other side.
+The 250 mg tablets are white, film-coated, round tablets debossed with M above the score and 613 below the score on one side of the tablet and blank on the other side.
 
-The 500 mg tablets are white film-coated, modified capsule-shaped tablets debossed with M to the left of the score and 615 to the right of the score on one side of the tablet and blank on the other side.
+The 500 mg tablets are white, film-coated, modified capsule-shaped tablets debossed with M to the left of the score and 615 to the right of the score on one side of the tablet and blank on the other side.
 
-The 750 mg tablets are white film-coated, modified capsule-shaped tablets debossed with M to the left of the score and 617 to the right of the score on one side of the tablet and blank on the other side.
+The 750 mg tablets are white, film-coated, modified capsule-shaped tablets debossed with M to the left of the score and 617 to the right of the score on one side of the tablet and blank on the other side.
 
-The 1000 mg tablets are white film-coated, modified capsule-shaped tablets debossed with M to the left of the score and 619 to the right of the score on one side of the tablet and blank on the other side.
+The 1000 mg tablets are white, film-coated, modified capsule-shaped tablets debossed with M to the left of the score and 619 to the right of the score on one side of the tablet and blank on the other side.
 
 What should I tell my healthcare provider before starting levetiracetam tablets?
 
 Before taking levetiracetam tablets, tell your healthcare provider about all of your medical conditions, including if you:
 
-- •have or have had depression, mood problems or suicidal thoughts or behavior
-- •have kidney problems
+- •have or have had depression, mood problems or suicidal thoughts or behavior.
+- •have kidney problems.
 - •are pregnant or planning to become pregnant.
   It is not known if levetiracetam tablets will harm your unborn baby.
   You and your healthcare provider will have to decide if you should take levetiracetam tablets while you are pregnant.
@@ -90,7 +86,7 @@ How should I take levetiracetam tablets?
 
 Take levetiracetam tablets exactly as prescribed:
 
-- •Your healthcare provider will tell you how much levetiracetam tablets to take and when to take it.
+- •Your healthcare provider will tell you how many levetiracetam tablets to take and when to take them.
   Levetiracetam tablets are usually taken twice a day.
   Take levetiracetam tablets at the same times each day.
 - •Your healthcare provider may change your dose.
@@ -106,7 +102,7 @@ Take levetiracetam tablets exactly as prescribed:
   If it is almost time for your next dose, just skip the missed dose.
   Take the next dose at your regular time.
   Do not take two doses at the same time.
-- •If you take too much levetiracetam tablets, call your local Poison Control Center or go to the nearest emergency room right away.
+- •If you take too many levetiracetam tablets, call your local Poison Control Center or go to the nearest emergency room right away.
 
 What should I avoid while taking levetiracetam tablets?
 
@@ -123,8 +119,8 @@ Call your healthcare provider right away if you have any of these symptoms:
 
 - •mood and behavior changes such as aggression, agitation, anger, anxiety, apathy, mood swings, depression, hostility, and irritability.
   A few people may get psychotic symptoms such as hallucinations (seeing or hearing things that are really not there), delusions (false or strange thoughts or beliefs) and unusual behavior.
-- •extreme sleepiness, tiredness, and weakness
-- •problems with muscle coordination (problems walking and moving)
+- •extreme sleepiness, tiredness, and weakness.
+- •problems with muscle coordination (problems walking and moving).
 - •a skin rash.
   Serious skin rashes can happen after you start taking levetiracetam tablets.
   There is no way to tell if a mild rash will become a serious reaction.
@@ -171,9 +167,9 @@ If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about levetiracetam tablets that is written for health professionals.
 You can also get information about levetiracetam tablets at Mylan.com or call Mylan Pharmaceuticals Inc. at 1-877-446-3679 (1-877-4-INFO-RX).
 
-What are the ingredients of levetiracetam tablets, USP?
+What are the ingredients of levetiracetam tablets?
 
-Active ingredient: levetiracetam, USP.
+Active ingredient: levetiracetam.
 
 Inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, hypromellose, magnesium stearate, microcrystalline cellulose, polydextrose, polyethylene glycol, povidone, sodium lauryl sulfate, titanium dioxide and triacetin.
 
@@ -181,10 +177,6 @@ Levetiracetam tablets do not contain lactose or gluten.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Manufactured in India by: UNICHEM LABORATORIES LTD Ind.Area, Meerut Road, Ghaziabad – 201 003, India Code No.: UP/DRUG/14/74
-
-13008243
-
-REVISED JUNE 2015 UN:LVTC:R12mpbmhr
+Revised: 11/2016 LVTC:R13mpbmh

@@ -10,26 +10,22 @@ Rx only 120 Tablets
 
 Each film-coated tablet contains: Levetiracetam, USP 250 mg
 
-Usual Dosage: See accompanying prescribing information.
+Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
+
+Keep container tightly closed.
 
 Keep this and all medication out of the reach of children.
 
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Usual Dosage: See accompanying prescribing information.
 
-Made in India
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-RUN5613DA1
-
-Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
-
-Keep container tightly closed.
-
-Code No.: UP/DRUG/14/74
+RM5613DA5
 
 # PRINCIPAL DISPLAY PANEL - 500 mg
 
@@ -43,26 +39,22 @@ Rx only 120 Tablets
 
 Each film-coated tablet contains: Levetiracetam, USP 500 mg
 
-Usual Dosage: See accompanying prescribing information.
+Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
+
+Keep container tightly closed.
 
 Keep this and all medication out of the reach of children.
 
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Usual Dosage: See accompanying prescribing information.
 
-Made in India
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-RUN5615DA1
-
-Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
-
-Keep container tightly closed.
-
-Code No.: UP/DRUG/14/74
+RM5615DA5
 
 # PRINCIPAL DISPLAY PANEL - 750 mg
 
@@ -76,26 +68,24 @@ Rx only 120 Tablets
 
 Each film-coated tablet contains: Levetiracetam, USP 750 mg
 
-Usual Dosage: See accompanying prescribing information.
+Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
+
+Keep container tightly closed.
 
 Keep this and all medication out of the reach of children.
 
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Usual Dosage: See accompanying prescribing information.
 
-Made in India
+This container is not intended for dispensing for household use.
+
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-RUN5617DA1
-
-Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
-
-Keep container tightly closed.
-
-Code No.: UP/DRUG/14/74
+RM5617DA5
 
 # PRINCIPAL DISPLAY PANEL - 1000 mg
 
@@ -109,23 +99,19 @@ Rx only 60 Tablets
 
 Each film-coated tablet contains: Levetiracetam, USP 1000 mg
 
-Usual Dosage: See accompanying prescribing information.
+Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
+
+Keep container tightly closed.
 
 Keep this and all medication out of the reach of children.
 
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Usual Dosage: See accompanying prescribing information.
 
-Made in India
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-RUN5619DA1
-
-Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
-
-Keep container tightly closed.
-
-Code No.: UP/DRUG/14/74
+RM5619D5

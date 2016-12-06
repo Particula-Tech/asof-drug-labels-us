@@ -2,16 +2,16 @@
 
 ## 10.1 Signs, Symptoms and Laboratory Findings of Acute Overdosage in Humans
 
-The highest known dose of levetiracetam received in the clinical development program was 6000 mg/day.
+The highest known dose of levetiracetam tablets received in the clinical development program was 6000 mg/day.
 Other than drowsiness, there were no adverse reactions in the few known cases of overdose in clinical trials.
-Cases of somnolence, agitation, aggression, depressed level of consciousness, respiratory depression and coma were observed with levetiracetam overdoses in postmarketing use.
+Cases of somnolence, agitation, aggression, depressed level of consciousness, respiratory depression and coma were observed with levetiracetam tablets overdoses in postmarketing use.
 
 ## 10.2 Management of Overdose
 
-There is no specific antidote for overdose with levetiracetam.
+There is no specific antidote for overdose with levetiracetam tablets.
 If indicated, elimination of unabsorbed drug should be attempted by emesis or gastric lavage; usual precautions should be observed to maintain airway.
 General supportive care of the patient is indicated including monitoring of vital signs and observation of the patient’s clinical status.
-A Certified Poison Control Center should be contacted for up to date information on the management of overdose with levetiracetam.
+A Certified Poison Control Center should be contacted for up to date information on the management of overdose with levetiracetam tablets.
 
 ## 10.3 Hemodialysis
 

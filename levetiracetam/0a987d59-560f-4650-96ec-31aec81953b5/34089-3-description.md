@@ -11,7 +11,7 @@ It is very soluble in water (104 g/100 mL).
 It is freely soluble in chloroform (65.3 g/100 mL) and in methanol (53.6 g/100 mL), soluble in ethanol (16.5 g/100 mL), sparingly soluble in acetonitrile (5.7 g/100 mL) and practically insoluble in n-hexane.
 (Solubility limits are expressed as g/100 mL solvent.)
 
-Levetiracetam tablets contain the labeled amount of levetiracetam.
+Levetiracetam tablets, USP contain the labeled amount of levetiracetam.
 Inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, hypromellose, magnesium stearate, microcrystalline cellulose, polydextrose, polyethylene glycol, povidone, sodium lauryl sulfate, titanium dioxide and triacetin.
 
 Levetiracetam Tablets USP, 250 mg, 500 mg, 750 mg and 1000 mg Meet USP Dissolution Test 2.
