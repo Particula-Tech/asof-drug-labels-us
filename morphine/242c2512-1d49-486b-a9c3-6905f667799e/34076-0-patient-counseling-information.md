@@ -30,4 +30,6 @@ Provide the following information to patients receiving morphine sulfate or thei
 
 Mallinckrodt Inc. Hazelwood, MO 63042 USA
 
-Issued 05/2015
+Issued 04/2016
+
+An electronic copy of this medication guide can be obtained from www.mallinckrodt.com/Medguide/L20M50.pdf or by calling 1-800-778-7898 for alternate delivery options.
