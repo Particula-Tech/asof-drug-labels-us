@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA202719"
+  ],
+  "inn": "bimatoprost",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "0781-6206-75",
+    "0781-6206-93"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "bimatoprost",
+      "name": "Bimatoprost"
+    }
+  ],
+  "setid": "27bef7e1-750a-4ac1-ab5f-e4c0121ffcbc",
+  "source": "dailymed"
+}
