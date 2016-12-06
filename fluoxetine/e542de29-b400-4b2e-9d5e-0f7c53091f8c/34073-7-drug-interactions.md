@@ -8,7 +8,7 @@ Concomitant use of SARAFEM (fluoxetine) in patients taking MAOIs is contraindica
 There have been reports of serious, sometimes fatal, reactions (including hyperthermia, rigidity, myoclonus, autonomic instability with possible rapid fluctuations of vital signs, and mental status changes that include extreme agitation progressing to delirium and coma) in patients receiving fluoxetine in combination with a monoamine oxidase inhibitor (MAOI), and in patients who have recently discontinued fluoxetine and are then started on an MAOI.
 Some cases presented with features resembling neuroleptic malignant syndrome.
 Therefore, fluoxetine, including SARAFEM, should not be used in combination with an MAOI, or within a minimum of 14 days of discontinuing therapy with an MAOI [see Contraindications (4)].
-Since fluoxetine and its major metabolite have very long elimination half-lives, at least 5 weeks (perhaps longer, especially if fluoxetine has been prescribed chronically and/or at higher doses) should be allowed after stopping fluoxetine before starting an MAOI [see Dosage and Administration (2.4 and 2.5), Contraindications (4.1), Warnings and Precautions (5.2), and Clinical Pharmacology (12.3)].
+Since fluoxetine and its major metabolite have very long elimination half lives, at least 5 weeks (perhaps longer, especially if fluoxetine has been prescribed chronically and/or at higher doses) should be allowed after stopping fluoxetine before starting an MAOI [see Dosage and Administration (2.4 and 2.5), Contraindications (4.1), Warnings and Precautions (5.2), and Clinical Pharmacology (12.3)].
 
 ## 7.2 CNS Acting Drugs
 
@@ -33,7 +33,7 @@ The concomitant use with tryptophan is not recommended [see Warnings and Precaut
 ## 7.6 Drugs that Interfere with Hemostasis (for example, NSAIDS, Aspirin, Warfarin)
 
 Serotonin release by platelets plays an important role in hemostasis.
-Epidemiological studies of the case-control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding have also shown that concurrent use of an NSAID or aspirin may potentiate this risk of bleeding.
+Epidemiological studies of the case control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding have also shown that concurrent use of an NSAID or aspirin may potentiate this risk of bleeding.
 Altered anticoagulant effects, including increased bleeding, have been reported when SNRIs or SSRIs are coadministered with warfarin.
 Patients receiving warfarin therapy should be carefully monitored when fluoxetine is initiated or discontinued [see Warnings and Precautions (5.7)].
 
@@ -55,12 +55,12 @@ While a specific study with pimozide and fluoxetine has not been conducted, the 
 Thioridazine — Concomitant use of SARAFEM in patients taking thioridazine is contraindicated.
 Thioridazine should not be administered with fluoxetine or within a minimum of 5 weeks after fluoxetine has been discontinued [see Contraindications (4)].
 
-In a study of 19 healthy male subjects, which included 6 slow and 13 rapid hydroxylators of debrisoquin, a single 25 mg oral dose of thioridazine produced a 2.4-fold higher Cmax and a 4.5-fold higher AUC for thioridazine in the slow hydroxylators compared with the rapid hydroxylators.
+In a study of 19 healthy male subjects, which included 6 slow and 13 rapid hydroxylators of debrisoquin, a single 25 mg oral dose of thioridazine produced a 2.4 fold higher Cmax and a 4.5 fold higher AUC for thioridazine in the slow hydroxylators compared with the rapid hydroxylators.
 The rate of debrisoquin hydroxylation is felt to depend on the level of CYP2D6 isozyme activity.
 Thus, this study suggests that drugs which inhibit CYP2D6, such as certain SSRIs, including fluoxetine, will produce elevated plasma levels of thioridazine.
 
-Thioridazine administration produces a dose-related prolongation of the QTc interval, which is associated with serious ventricular arrhythmias, such as torsades de pointes-type arrhythmias, and sudden death.
-This risk is expected to increase with fluoxetine-induced inhibition of thioridazine metabolism.
+Thioridazine administration produces a dose related prolongation of the QTc interval, which is associated with serious ventricular arrhythmias, such as torsades de pointes type arrhythmias, and sudden death.
+This risk is expected to increase with fluoxetine induced inhibition of thioridazine metabolism.
 
 Drugs Metabolized by CYP2D6 — Fluoxetine inhibits the activity of CYP2D6, and may make individuals with normal CYP2D6 metabolic activity resemble a poor metabolizer.
 Coadministration of fluoxetine with other drugs that are metabolized by CYP2D6, including certain antidepressants (for example, tricyclic antidepressants (TCAs)), antipsychotics (for example, phenothiazines and most atypicals), and antiarrhythmics (for example, propafenone, flecainide, and others) should be approached with caution.
@@ -70,25 +70,25 @@ If fluoxetine is added to the treatment regimen of a patient already receiving a
 Drugs with a narrow therapeutic index represent the greatest concern (for example, flecainide, propafenone, vinblastine, and TCAs).
 Due to the risk of serious ventricular arrhythmias and sudden death potentially associated with elevated plasma levels of thioridazine, thioridazine should not be administered with fluoxetine or within a minimum of 5 weeks after fluoxetine has been discontinued [see Contraindications (4)].
 
-Tricyclic Antidepressants (TCAs) — In 2 studies, previously stable plasma levels of imipramine and desipramine have increased greater than 2- to 10-fold when fluoxetine has been administered in combination.
+Tricyclic Antidepressants (TCAs) — In 2 studies, previously stable plasma levels of imipramine and desipramine have increased greater than 2 to 10 fold when fluoxetine has been administered in combination.
 This influence may persist for 3 weeks or longer after fluoxetine is discontinued.
 Thus, the dose of TCAs may need to be reduced and plasma TCA concentrations may need to be monitored temporarily when fluoxetine is coadministered or has been recently discontinued [see Clinical Pharmacology (12.3)].
 
-Benzodiazapines— The half-life of concurrently administered diazepam may be prolonged in some patients [see Clinical Pharmacology (12.3)].
+Benzodiazapines — The half life of concurrently administered diazepam may be prolonged in some patients [see Clinical Pharmacology (12.3)].
 Coadministration of alprazolam and fluoxetine has resulted in increased alprazolam plasma concentrations and in further psychomotor performance decrement due to increased alprazolam levels.
 
-Antipsychotics— Some clinical data suggests a possible pharmacodynamic and/or pharmacokinetic interaction between SSRIs and antipsychotics.
+Antipsychotics — Some clinical data suggests a possible pharmacodynamic and/or pharmacokinetic interaction between SSRIs and antipsychotics.
 Elevation of blood levels of haloperidol and clozapine has been observed in patients receiving concomitant fluoxetine [see Contraindications (4)].
 
 Anticonvulsants — Patients on stable doses of phenytoin and carbamazepine have developed elevated plasma anticonvulsant concentrations and clinical anticonvulsant toxicity following initiation of concomitant fluoxetine treatment.
 
-Lithium— There have been reports of both increased and decreased lithium levels when lithium was used concomitantly with fluoxetine.
+Lithium — There have been reports of both increased and decreased lithium levels when lithium was used concomitantly with fluoxetine.
 Cases of lithium toxicity and increased serotonergic effects have been reported.
 Lithium levels should be monitored when these drugs are administered concomitantly.
 
 Drugs Tightly Bound to Plasma Proteins — Because fluoxetine is tightly bound to plasma proteins, the administration of fluoxetine to a patient taking another drug that is tightly bound to protein (for example, warfarin, digitoxin) may cause a shift in plasma concentrations potentially resulting in an adverse effect [see Clinical Pharmacology (12.3)].
 
-Drugs Metabolized by CYP3A4— In an in vivo interaction study involving coadministration of fluoxetine with single doses of terfenadine (a CYP3A4 substrate), no increase in plasma terfenadine concentrations occurred with concomitant fluoxetine.
+Drugs Metabolized by CYP3A4 — In an in vivo interaction study involving coadministration of fluoxetine with single doses of terfenadine (a CYP3A4 substrate), no increase in plasma terfenadine concentrations occurred with concomitant fluoxetine.
 
 Additionally, in vitro studies have shown ketoconazole, a potent inhibitor of CYP3A4 activity, to be at least 100 times more potent than fluoxetine or norfluoxetine as an inhibitor of the metabolism of several substrates for this enzyme, including astemizole, cisapride, and midazolam.
 These data indicate that fluoxetine’s extent of inhibition of CYP3A4 activity is not likely to be of clinical significance.

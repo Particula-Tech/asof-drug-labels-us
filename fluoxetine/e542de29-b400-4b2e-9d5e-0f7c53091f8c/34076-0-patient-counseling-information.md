@@ -15,7 +15,7 @@ Patients should be advised of the following issues and asked to alert their heal
 ## 17.2 Clinical Worsening and Suicide Risk
 
 Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
-Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
+Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day to day basis, since changes may be abrupt.
 Such symptoms should be reported to the patient’s prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
 Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication [see Boxed Warning and Warnings and Precautions (5.1)].
 
@@ -42,7 +42,7 @@ Patients should be advised to call their doctor if they experience any increased
 Patients should be advised that taking SARAFEM can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle-closure glaucoma.
 Pre-existing glaucoma is almost always open-angle glaucoma because angle-closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
 Open-angle glaucoma is not a risk factor for angle-closure glaucoma.
-Patients may wish to be examined to determine whether they are susceptible to angle-closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible [see Warnings and Precautions (5.8)].
+Patients may wish to be examined to determine whether they are susceptible to angle-closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible [See Warnings and Precautions (5.8)].
 
 ## 17.7 Hyponatremia
 
@@ -57,7 +57,7 @@ Patients should be advised to avoid driving a car or operating hazardous machine
 
 ## 17.9 Use of Concomitant Medications
 
-Patients should be advised to inform their physician if they are taking, or plan to take, any prescription medication, including Symbyax, Prozac, Prozac Weekly, or over-the-counter drugs, including herbal supplements or alcohol.
+Patients should be advised to inform their physician if they are taking, or plan to take, any prescription medication, including Symbyax, Prozac, Prozac Weekly, or over the counter drugs, including herbal supplements or alcohol.
 Patients should also be advised to inform their physicians if they plan to discontinue any medications they are taking while on SARAFEM.
 
 ## 17.10 Discontinuation of Treatment
@@ -74,6 +74,5 @@ Fluoxetine should be used during pregnancy only if the potential benefit justifi
 Nursing Mothers — Patients should be advised to notify their physician if they intend to breastfeed an infant during therapy.
 Because fluoxetine is excreted in human milk, nursing while taking SARAFEM is not recommended [see Use in Specific Populations (8.3)].
 
-Manufactured by: Pharmaceutics International, Inc. Hunt Valley, MD 21031 Manufactured for: Warner Chilcott Company, LLC Fajardo, PR 00738 Marketed by: Warner Chilcott (US), LLC Rockaway, NJ 07866
-
-114600 Content Updated: October 2014
+Distributed by: Allergan USA, Inc. Irvine, CA 92612 Sarafem® is a registered trademark of Allergan Pharmaceuticals International Limited © 2016 Allergan.
+All rights reserved.

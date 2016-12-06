@@ -11,5 +11,6 @@ Starting SARAFEM in a patient who is being treated with MAOIs such as linezolid 
 
 The use of SARAFEM is contraindicated with the following:
 
-- Pimozide [see Drug Interactions (7.9)]
-- Thioridazine [see Drug Interactions (7.9)]
+• Pimozide [see Drug Interactions (7.9)]
+
+• Thioridazine [see Drug Interactions (7.9)]

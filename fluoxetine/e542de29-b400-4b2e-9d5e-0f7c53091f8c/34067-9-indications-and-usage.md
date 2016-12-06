@@ -1,4 +1,4 @@
-# 1 INDICATIONS AND USAGE
+# 1INDICATIONS AND USAGE
 
 ## 1.1 Premenstrual Dysphoric Disorder (PMDD)
 

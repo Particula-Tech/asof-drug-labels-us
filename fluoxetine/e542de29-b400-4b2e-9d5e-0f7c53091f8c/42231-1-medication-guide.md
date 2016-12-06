@@ -1,6 +1,8 @@
-# Medication Guide
+Medication Guide
 
-SARAFEM® (SAIR-a-fem) (fluoxetine hydrochloride) Tablets
+SARAFEM® (SAIR-a-fem) (fluoxetine hydrochloride)
+
+Tablets
 
 Read the Medication Guide that comes with SARAFEM before you start taking it and each time you get a refill.
 There may be new information.
@@ -19,9 +21,7 @@ Suicidal thoughts or actions:
 
 - SARAFEM and other antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment or when the dose is changed.
 - Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
-- Watch for these changes and call your healthcare provider right away if you notice:
-  - New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
-  - Pay particular attention to such changes when SARAFEM is started or when the dose is changed.
+- Watch for these changes and call your healthcare provider right away if you notice: ○ New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe. ○ Pay particular attention to such changes when SARAFEM is started or when the dose is changed.
 
 Keep all follow-up visits with your healthcare provider and call between visits if you are worried about symptoms.
 
@@ -123,19 +123,11 @@ Who should not take SARAFEM?
 Do not take SARAFEM if you:
 
 - take a Monoamine Oxidase Inhibitor (MAOI).
-  Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
-  - Do not take an MAOI within 5 weeks of stopping SARAFEM unless directed to do so by your healthcare provider.
-  - Do not start SARAFEM if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your healthcare provider.
+  Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid. ○ Do not take an MAOI within 5 weeks of stopping SARAFEM unless directed to do so by your healthcare provider. ○ Do not start SARAFEM if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your healthcare provider.
 
 Women who take SARAFEM close in time to an MAOI may have serious or even life-threatening side effects.
-Get medical help right away if you have any of these symptoms:
+Get medical help right away if you have any of these symptoms: • high fever • uncontrolled muscle spasms • stiff muscles • rapid changes in heart rate or blood pressure • confusion • loss of consciousness (pass out)
 
-- high fever
-- uncontrolled muscle spasms
-- stiff muscles
-- rapid changes in heart rate or blood pressure
-- confusion
-- loss of consciousness (pass out)
 - take Mellaril® (thioridazine).
   Do not take Mellaril® within 5 weeks of stopping SARAFEM because this can cause serious heart rhythm problems or sudden death.
 - take the antipsychotic medicine pimozide (Orap®) because this can cause serious heart problems.
@@ -145,12 +137,8 @@ Ask if you are not sure.
 
 Before starting SARAFEM, tell your healthcare provider if you:
 
-- Are taking certain drugs or treatments such as:
-  - Triptans used to treat migraine headache
-  - Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, buspirone, SSRIs, SNRIs, MAOIs or antipsychotics
-  - Tramadol and fentanyl
-  - Over-the-counter supplements such as tryptophan or St. John’s Wort
-  - Electroconvulsive therapy (ECT)
+- Are taking certain drugs or treatments such as: ○ Triptans used to treat migraine headache ○ Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, buspirone, SSRIs, SNRIs, MAOIs or antipsychotics ○ Tramadol and fentanyl ○ Over-the-counter supplements such as tryptophan or St. John’s Wort ○ Electroconvulsive therapy (ECT)
+
 - have liver problems
 - have kidney problems
 - have heart problems
@@ -245,7 +233,7 @@ This Medication Guide summarizes the most important information about SARAFEM.
 If you would like more information, talk with your healthcare provider.
 You may ask your healthcare provider or pharmacist for information about SARAFEM that is written for healthcare professionals.
 
-For more information about SARAFEM call 1-800-521-8813.
+For more information about SARAFEM call 1-800-678-1605.
 
 What are the ingredients in SARAFEM?
 
@@ -255,8 +243,12 @@ Inactive ingredients: microcrystalline cellulose, croscarmellose sodium, colloid
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: Pharmaceutics International, Inc., Hunt Valley, MD 21031 for Warner Chilcott Company, LLC Fajardo, PR 00738
+Distributed by: Allergan USA, Inc. Irvine, CA 92612
 
-Marketed by: Warner Chilcott (US), LLC Rockaway, NJ 07866
+Sarafem® is a registered trademark of Allergan Pharmaceuticals International Limited
 
-114600 Content Updated: October 2014
+© 2016 Allergan.
+All rights reserved.
+
+Rev.
+September 2016

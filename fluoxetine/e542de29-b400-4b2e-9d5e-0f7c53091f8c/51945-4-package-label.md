@@ -1,11 +1,9 @@
-# PRINCIPAL DISPLAY PANEL
+PRINCIPAL DISPLAY PANEL
 
-NDC 0430-0210-14 SARAFEM® (fluoxetine hydrochloride tablets) Package of 28 tablets - Four blister cards of 7 tablets
+NDC 0430-0210-14 Sarafem 10 mg Package of 28 tablets – Four blister cards of 7 tablets Rx Only
 
-# PRINCIPAL DISPLAY PANEL
+Principal Display Panel Place holder product not currently Marketed.
 
-NDC 0430-0215-14 SARAFEM® (fluoxetine hydrochloride tablets) Package of 28 tablets - Four blister cards of 7 tablets
+PRINCIPAL DISPLAY PANEL
 
-# PRINCIPAL DISPLAY PANEL
-
-NDC 0430-0220-14 SARAFEM® (fluoxetine hydrochloride tablets) Package of 28 tablets - Four blister cards of 7 tablets
+NDC 0430-0220-14 Sarafem 20 mg Package of 28 tablets – Four blister cards of 7 tablets Rx Only
