@@ -92,18 +92,20 @@ Do not start any new medicine while taking Dextroamphetamine Sulfate Oral Soluti
 
 How should Dextroamphetamine Sulfate Oral Solution be taken?
 
-- Take Dextroamphetamine Sulfate Oral Solution exactly as prescribed.
-  Your doctor may adjust the dose until it is right for you or your child.
+• Take Dextroamphetamine Sulfate Oral Solution exactly as prescribed.
+Your doctor may adjust the dose until it is right for you or your child.
 
-- Dextroamphetamine Sulfate Oral Solution is usually taken two to three times a day.
-  The first dose is usually taken in the morning.
-  One or two more doses may be taken during the day, 4 to 6 hours apart.
-- From time to time, your doctor may stop Dextroamphetamine Sulfate Oral Solution treatment for a while to check ADHD symptoms.
-- Your doctor may do regular checks of the blood, heart, and blood pressure while taking Dextroamphetamine Sulfate Oral Solution.
-  Children should have their height and weight checked often while taking Dextroamphetamine Sulfate Oral Solution.
-  Treatment with Dextroamphetamine Sulfate Oral Solution treatment may be stopped if a problem is found during these check-ups.
+• Dextroamphetamine Sulfate Oral Solution is usually taken two to three times a day.
+The first dose is usually taken in the morning.
+One or two more doses may be taken during the day, 4 to 6 hours apart.
 
-- If you or your child take too much Dextroamphetamine Sulfate Oral Solution or overdoses, call your doctor or poison control center right away, or get emergency treatment.
+• From time to time, your doctor may stop Dextroamphetamine Sulfate Oral Solution treatment for a while to check ADHD symptoms.
+
+• Your doctor may do regular checks of the blood, heart, and blood pressure while taking Dextroamphetamine Sulfate Oral Solution.
+Children should have their height and weight checked often while taking Dextroamphetamine Sulfate Oral Solution.
+Treatment with Dextroamphetamine Sulfate Oral Solution treatment may be stopped if a problem is found during these check-ups.
+
+• If you or your child take too much Dextroamphetamine Sulfate Oral Solution or overdoses, call your doctor or poison control center right away, or get emergency treatment.
 
 What are possible side effects of Dextroamphetamine Sulfate Oral Solution?
 
@@ -116,6 +118,26 @@ Other serious side effects include:
 • seizures, mainly in patients with a history of seizures
 
 • eyesight changes or blurred vision
+
+• Serotonin syndrome.
+A potentially life-threatening problem called serotonin syndrome can happen when medicines such as Dextroamphetamine Sulfate Oral Solution are taken with certain other medicines.
+Symptoms of serotonin syndrome may include:
+
+• agitation, hallucinations, coma or other changes in mental status
+
+• problems controlling your movements or muscle twitching
+
+• fast heartbeat
+
+• high or low blood pressure
+
+• sweating or fever
+
+• nausea or vomiting
+
+• diarrhea
+
+• muscle stiffness or tightness
 
 Common side effects include:
 
@@ -181,6 +203,6 @@ Tris Pharma, Inc.
 
 LB8255
 
-Rev 02
+Rev 03
 
 October 2016

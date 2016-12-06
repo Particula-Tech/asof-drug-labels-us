@@ -44,6 +44,18 @@ Signs and symptoms generally improve after reduction in dose or discontinuation 
 Careful observation for digital changes is necessary during treatment with ADHD stimulants.
 Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
 
+Serotonin Syndrome: Serotonin syndrome, a potentially life-threatening reaction, may occur when amphetamines are used in combination with other drugs that affect the serotonergic neurotransmitter systems such as monoamine oxidase inhibitors (MAOIs), selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John’s Wort [see DRUG INTERACTIONS].
+Amphetamines and amphetamine derivatives are known to be metabolized, to some degree, by cytochrome P450 2D6 (CYP2D6) and display minor inhibition of CYP2D6 metabolism [seeCLINICAL PHARMACOLOGY].
+The potential for a pharmacokinetic interaction exists with the coadministration of CYP2D6 inhibitors which may increase the risk with increased exposure to Dextroamphetamine Sulfate Oral Solution.
+In these situations, consider an alternative non-serotonergic drug or an alternative drug that does not inhibit CYP2D6 [see DRUG INTERACTIONS].
+
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+
+Concomitant use of Dextroamphetamine Sulfate Oral Solution with MAOI drugs is contraindicated [see CONTRAINDICATIONS].
+
+Discontinue treatment with Dextroamphetamine Sulfate Oral Solution and any concomitant serotonergic agents immediately if the above symptoms occur, and initiate supportive symptomatic treatment.
+If concomitant use of Dextroamphetamine Sulfate Oral Solution with other serotonergic drugs or CYP2D6 inhibitors is clinically warranted, initiate Dextroamphetamine Sulfate Oral Solution with lower doses, monitor patients for the emergence of serotonin syndrome during drug initiation or titration, and inform patients of the increased risk for serotonin syndrome.
+
 Visual Disturbance: Difficulties with accommodation and blurring of vision have been reported with stimulant treatment.
 
 # PRECAUTIONS
@@ -82,6 +94,16 @@ Urinary alkalinizing agents (acetazolamide, some thiazides) increase the concent
 Both groups of agents increase blood levels and therefore potentiate the actions of amphetamines.
 
 Antidepressants, Tricyclic – Amphetamines may enhance the activity of tricyclic or sympathomimetic agents; d-amphetamine with desipramine or protriptyline and possibly other tricyclics cause striking and sustained increases in the concentration of d-amphetamine in the brain; cardiovascular effects can be potentiated.
+
+CYP2D6 Inhibitors – The concomitant use of Dextroamphetamine Sulfate Oral Solution and CYP2D6 inhibitors may increase the exposure of Dextroamphetamine Sulfate Oral Solution compared to the use of the drug alone and increase the risk of serotonin syndrome.
+Initiate with lower doses and monitor patients for signs and symptoms of serotonin syndrome particularly during Dextroamphetamine Sulfate Oral Solution initiation and after a dosage increase.
+If serotonin syndrome occurs, discontinue Dextroamphetamine Sulfate Oral Solution and the CYP2D6 inhibitor [see WARNINGS, OVERDOSAGE].
+Examples of CYP2D6 Inhibitors include paroxetine and fluoxetine (also serotonergic drugs), quinidine, ritonavir.
+
+Serotonergic Drugs – The concomitant use of Dextroamphetamine Sulfate Oral Solution and serotonergic drugs increases the risk of serotonin syndrome.
+Initiate with lower doses and monitor patients for signs and symptoms of serotonin syndrome, particularly during Dextroamphetamine Sulfate Oral Solution initiation or dosage increase.
+If serotonin syndrome occurs, discontinue Dextroamphetamine Sulfate Oral Solution and the concomitant serotonergic drug(s) [see WARNINGS and PRECAUTIONS].
+Examples of serotonergic drugs include selective serotonin reuptake inhibitors (SSRI), serotonin norepinephrine reuptake inhibitors (SNRI), triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, St. John’s Wort.
 
 MAO Inhibitors – MAOI antidepressants, as well as a metabolite of furazolidone, slow amphetamine metabolism.
 This slowing potentiates amphetamines, increasing their effect on the release of norepinephrine and other monoamines from adrenergic nerve endings; this can cause headaches and other signs of hypertensive crisis.
