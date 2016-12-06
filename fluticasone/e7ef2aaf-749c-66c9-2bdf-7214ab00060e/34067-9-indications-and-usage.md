@@ -1,3 +1,3 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-Fluticasone Propionate Ointment is a medium potency corticosteroid indicated for the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses in adult patients.
+Fluticasone Propionate Ointment, USP 0.005% is a corticosteroid indicated for the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses in adult patients.
