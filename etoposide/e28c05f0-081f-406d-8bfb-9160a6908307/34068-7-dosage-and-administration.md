@@ -4,11 +4,12 @@
 
 The recommended dose of ETOPOPHOS is:
 
-50 to 100 mg/m2 per day administered intravenously over 5 to 35 minutes on days 1 through 5 of each 21-day (or 28-day cycle), or 100 mg/m2 administered intravenously over 5 to 35 minutes on days 1, 3, and 5 of each 21-day (or 28-day cycle).
+- 50 to 100 mg/m2 per day administered intravenously over 5 minutes to 3.5 hours on days 1 through 5 of each 21-day (or 28-day cycle), or
+- 100 mg/m2 administered intravenously over 5 minutes to 3.5 hours on days 1, 3, and 5 of each 21-day (or 28-day cycle).
 
 ## 2.2 Small Cell Lung Cancer
 
-The recommended dose of ETOPOPHOS is 35 mg/m2 to 50 mg/m2 per day administered intravenously over 5 minutes to 3 hours for 4 consecutive days of each 21-day cycle.
+The recommended dose of ETOPOPHOS is 35 mg/m2 per day administered intravenously over 5 minutes to 3.5 hours for 4 days or 50 mg/m2 per day administered for 5 days.
 
 ## 2.3 Dosage Modification
 
@@ -22,7 +23,7 @@ Preparation
 
 Reconstitute with Sterile Water for Injection, USP; 5% Dextrose Injection, USP; 0.9% Sodium Chloride Injection, USP; Bacteriostatic Water for Injection with Benzyl Alcohol; or Bacteriostatic Sodium Chloride for Injection with Benzyl Alcohol, using the quantity of diluent shown below:
 
-| Vial Strength | Volume of Diluent | Final Concentration |
+| Vial Strength | Volume of Diluen°t | Final Concentration |
 | --- | --- | --- |
 | 100 mg | 5 mL | 20 mg/mL |
 | 10 mL | 10 mg/mL |  |
@@ -32,16 +33,16 @@ Inspect parenteral drug products visually for particulate matter and discolorati
 
 Storage After reconstitution, store under the following conditions:
 
-Refrigerated 2o to 8oC (36o to 46oF) for 7 days;
+Refrigerated 2° to 8°C (36° to 46°F) for 7 days;
 
-Room temperature at 20o to 25oC (68o to77oF) for 24 hours following reconstitution with Sterile Water for Injection, USP, 5% Dextrose Injection, USP, or 0.9% Sodium Chloride Injection, USP;
+Room temperature at 20° to 25°C (68° to77°F) for 24 hours following reconstitution with Sterile Water for Injection, USP, 5% Dextrose Injection, USP, or 0.9% Sodium Chloride Injection, USP;
 
-Room temperature 20o to 25oC (68o to77oF) for 48 hours following reconstitution with Bacteriostatic Water for Injection with benzyl alcohol or Bacteriostatic Sodium Chloride for Injection with benzyl alcohol.
+Room temperature 20° to 25°C (68° to77°F) for 48 hours following reconstitution with Bacteriostatic Water for Injection with benzyl alcohol or Bacteriostatic Sodium Chloride for Injection with benzyl alcohol.
 
 Reconstituted ETOPOPHOS solutions further diluted as directed can be stored under refrigeration 2o to 8oC (36o to 46oF) or at room temperature 20o to 25oC (68o to77oF) for 24 hours.
 
 Administration DO NOT GIVE ETOPOPHOS BY BOLUS INTRAVENOUS INJECTION.
-ETOPOPHOS solutions may be administered at infusion rates up to 3 hours.
+ETOPOPHOS solutions may be administered at infusion rates up to 3.5 hours.
 Extravasation of ETOPOPHOS may result in swelling, pain, cellulitis, and necrosis including skin necrosis.
 
 ETOPOPHOS is a cytotoxic drug.

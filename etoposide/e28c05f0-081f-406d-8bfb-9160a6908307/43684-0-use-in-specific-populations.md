@@ -1,8 +1,5 @@
 # 8 USE IN SPECIFIC POPULATION
 
-Lactation: Do not breastfeed.
-(8.2)
-
 ## 8.1 Pregnancy
 
 Risk Summary Based on animal data and its mechanism of action, ETOPOPHOS can cause fetal harm when administered to a pregnant woman.
