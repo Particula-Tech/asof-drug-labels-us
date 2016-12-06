@@ -1,6 +1,8 @@
 # DOSAGE AND ADMINISTRATION
 
-(1) General Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+(1) General
+
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 Prior to testing, clean the skin area with ether or alcohol and allow to dry.
 The back or the volar surface of the arms are the most satisfactory sites for testing.
 

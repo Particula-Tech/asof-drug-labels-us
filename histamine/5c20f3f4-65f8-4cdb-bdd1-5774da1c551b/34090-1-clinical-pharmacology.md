@@ -5,7 +5,7 @@ This vascular change leads to the wheal-flare response.
 Large reactions can cause an amplification of a reaction to a nearby skin test.
 Histamine is degraded either by oxidative deamination or by methylation and oxidative deamination so that the principal excretion products are imidazoleacetic acid-riboside and 1-methyl imidazoleacetic acid respectively.2
 
-10 atopic subjects and 10 non-atopics were tested with Positive Skin Test Control - Histamine Solutions, and to negative control solutions.
+10 atopic subjects and 10 non-atopics were tested with Positive Skin Test Control - Histamine Solutions, and two negative control solutions.
 Thirteen females (35-49 years old; mean age 36.5) and 7 males (23-45 years old; mean age 36.4) were tested.
 This study included 19 Caucasian subjects and 1 African American subject.
 Different skin test devices produce different skin test responses.
