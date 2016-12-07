@@ -71,6 +71,8 @@ UNVARNISHED AREA FOR ON-LINE PRINTING OF LOT & EXP
 Each mL contains: 1.8 mg amiodarone HCl, USP; 18 mg Betadex Sulfobutyl Ether Sodium, NF; 0.362 mg citric acid anhydrous, 0.183 mg sodium citrate dihydrate, and 41.4 mg dextrose anhydrous in water for injection.
 Sodium hydroxide or hydrochloric acid may have been added to adjust pH.
 
+Does not contain polysorbate 80 or benzul alcohol.
+
 DOSAGE: See package insert for complete information on dosage and administration.
 
 STORAGE: Store at 20º to 25º C (68º to 77º F); excursions permitted to 15º to 30º C (59º to 86º F). See USP Controlled Room Temperature.
@@ -122,7 +124,7 @@ PL2501 Plastic 07-34-72-794
 
 For Intravenous Use NDC 43066-150-10 Code 2G3451
 
-NDC 43066-150-10 Code 2G3451Nexterone (amiodarone HCl) Premixed Injection
+Nexterone (amiodarone HCl) Premixed Injection
 
 150 mg/100 mL (1.5 mg/mL)
 

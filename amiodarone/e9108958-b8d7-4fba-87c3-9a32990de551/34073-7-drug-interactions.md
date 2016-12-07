@@ -43,3 +43,11 @@ Monitor cyclosporine drug levels and renal function in patients taking both drug
 
 Increased steady-state levels of phenytoin during concomitant therapy with amiodarone have been reported.
 Monitor phenytoin levels in patients taking both drugs.
+
+## 7.3 Serious Symptomatic Bradycardia When Co-administered with Ledipasvir/Sofosbuvir or with Sofosbuvir with Simeprevir
+
+Postmarketing cases of symptomatic bradycardia, some requiring pacemaker insertion and at least one fatal, have been reported when ledipasvir/sofosbuvir or sofosbuvir with simeprevir were initiated in patients on amiodarone.
+Bradycardia generally occurred within hours to days, but in some cases up to 2 weeks after initiating antiviral treatment.
+Bradycardia generally resolved after discontinuation of antiviral treatment.
+The mechanism for this effect is unknown.
+Monitor heart rate in patients taking or recently discontinuing amiodarone when starting antiviral treatment.
