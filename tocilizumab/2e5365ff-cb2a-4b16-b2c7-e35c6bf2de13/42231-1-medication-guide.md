@@ -11,57 +11,42 @@ What is the most important information I should know about ACTEMRA?
 ACTEMRA can cause serious side effects including:
 
 - 1.Serious Infections.
-
-ACTEMRA is a medicine that affects your immune system.
-ACTEMRA can lower the ability of your immune system to fight infections.
-Some people have serious infections while taking ACTEMRA, including tuberculosis (TB), and infections caused by bacteria, fungi, or viruses that can spread throughout the body.
-Some people have died from these infections.
-
-Your doctor should test you for TB before starting ACTEMRA.
-
-- Your doctor should monitor you closely for signs and symptoms of TB during treatment with ACTEMRA.
-
-You should not start taking ACTEMRA if you have any kind of infection unless your healthcare provider says it is okay.
-
-Before starting ACTEMRA, tell your healthcare provider if you:
-
-- think you have an infection or have symptoms of an infection, with or without a fever, such as:
-  - sweating or chills
-  - muscle aches
-  - cough
-  - shortness of breath
-  - blood in phlegm
-  - weight loss
-  - warm, red, or painful skin or sores on your body
-  - diarrhea or stomach pain
-  - burning when you urinate or urinating more often than normal
-  - feel very tired
-- are being treated for an infection
-- get a lot of infections or have infections that keep coming back
-- have diabetes, HIV, or a weak immune system.
-  People with these conditions have a higher chance for infections.
-- have TB, or have been in close contact with someone with TB
-- live or have lived, or have traveled to certain parts of the country (such as the Ohio and Mississippi River valleys and the Southwest) where there is an increased chance for getting certain kinds of fungal infections (histoplasmosis, coccidiomycosis, or blastomycosis).
-  These infections may happen or become more severe if you use ACTEMRA.
-  Ask your healthcare provider, if you do not know if you have lived in an area where these infections are common.
-- have or have had hepatitis B
-
-After starting ACTEMRA, call your healthcare provider right away if you have any symptoms of an infection.
-ACTEMRA can make you more likely to get infections or make worse any infection that you have.
-
+  ACTEMRA is a medicine that affects your immune system.
+  ACTEMRA can lower the ability of your immune system to fight infections.
+  Some people have serious infections while taking ACTEMRA, including tuberculosis (TB), and infections caused by bacteria, fungi, or viruses that can spread throughout the body.
+  Some people have died from these infections.
+  Your doctor should test you for TB before starting ACTEMRA.
+  You should not start taking ACTEMRA if you have any kind of infection unless your healthcare provider says it is okay.
+  Before starting ACTEMRA, tell your healthcare provider if you: After starting ACTEMRA, call your healthcare provider right away if you have any symptoms of an infection.
+  ACTEMRA can make you more likely to get infections or make worse any infection that you have.
+  - Your doctor should monitor you closely for signs and symptoms of TB during treatment with ACTEMRA.
+  - think you have an infection or have symptoms of an infection, with or without a fever, such as:
+    - sweating or chills
+    - muscle aches
+    - cough
+    - shortness of breath
+    - blood in phlegm
+    - weight loss
+    - warm, red, or painful skin or sores on your body
+    - diarrhea or stomach pain
+    - burning when you urinate or urinating more often than normal
+    - feel very tired
+  - are being treated for an infection
+  - get a lot of infections or have infections that keep coming back
+  - have diabetes, HIV, or a weak immune system.
+    People with these conditions have a higher chance for infections.
+  - have TB, or have been in close contact with someone with TB
+  - live or have lived, or have traveled to certain parts of the country (such as the Ohio and Mississippi River valleys and the Southwest) where there is an increased chance for getting certain kinds of fungal infections (histoplasmosis, coccidiomycosis, or blastomycosis).
+    These infections may happen or become more severe if you use ACTEMRA.
+    Ask your healthcare provider, if you do not know if you have lived in an area where these infections are common.
+  - have or have had hepatitis B
 - 2.Tears (perforation) of the stomach or intestines.
-
-- 
   - Tell your healthcare provider if you have had diverticulitis (inflammation in parts of the large intestine) or ulcers in your stomach or intestines.
     Some people taking ACTEMRA get tears in their stomach or intestine.
     This happens most often in people who also take nonsteroidal anti-inflammatory drugs (NSAIDs), corticosteroids, or methotrexate.
   - Tell your healthcare provider right away if you have fever and stomach-area pain that does not go away, and a change in your bowel habits.
-
 - 3.Changes in certain laboratory test results.
-
-Your healthcare provider should do blood tests before you start receiving ACTEMRA, after the first 4 to 8 weeks for rheumatoid arthritis (after which tests should be done every 3 months), every 4 to 8 weeks for PJIA and every 2 to 4 weeks for SJIA during treatment to check for the following side effects of ACTEMRA:
-
-- 
+  Your healthcare provider should do blood tests before you start receiving ACTEMRA, after the first 4 to 8 weeks for rheumatoid arthritis (after which tests should be done every 3 months), every 4 to 8 weeks for PJIA and every 2 to 4 weeks for SJIA during treatment to check for the following side effects of ACTEMRA:
   - low neutrophil count.
     Neutrophils are white blood cells that help the body fight off bacterial infections.
   - low platelet count.
@@ -72,23 +57,19 @@ Your healthcare provider should do blood tests before you start receiving ACTEMR
   - increase in blood cholesterol levels.
     You may also have changes in other laboratory tests, such as your blood cholesterol levels.
     Your healthcare provider should do blood tests to check your cholesterol levels 4 to 8 weeks after you start receiving ACTEMRA, and then every 6 months after that.
-
 - 4.Cancer.
-
-ACTEMRA may increase your risk of certain cancers by changing the way your immune system works.
-Tell your healthcare provider if you have ever had any type of cancer.
-
-See "What are the possible side effects with ACTEMRA?" for more information about side effects.
+  ACTEMRA may increase your risk of certain cancers by changing the way your immune system works.
+  Tell your healthcare provider if you have ever had any type of cancer.
+  See "What are the possible side effects with ACTEMRA?" for more information about side effects.
 
 What is ACTEMRA?
 
 ACTEMRA is a prescription medicine called an Interleukin-6 (IL-6) receptor antagonist.
 ACTEMRA is used to treat:
 
-- 
-  - Adults with moderately to severely active rheumatoid arthritis (RA) after at least one other medicine called a Disease Modifying Anti-Rheumatic Drug (DMARD) has been used and did not work well.
-  - People with active polyarticular juvenile idiopathic arthritis (PJIA) ages 2 and above.
-  - People with active systemic juvenile idiopathic arthritis (SJIA) ages 2 and above.
+- Adults with moderately to severely active rheumatoid arthritis (RA) after at least one other medicine called a Disease Modifying Anti-Rheumatic Drug (DMARD) has been used and did not work well.
+- People with active polyarticular juvenile idiopathic arthritis (PJIA) ages 2 and above.
+- People with active systemic juvenile idiopathic arthritis (SJIA) ages 2 and above.
 
 ACTEMRA is not approved for subcutaneous use in people with PJIA or SJIA.
 
@@ -104,27 +85,26 @@ What should I tell my healthcare provider before receiving ACTEMRA?
 ACTEMRA may not be right for you.
 Before receiving ACTEMRA, tell your healthcare provider if you:
 
-- 
-  - have an infection.
-    See "What is the most important information I should know about ACTEMRA?"
-  - have liver problems
-  - have any stomach-area (abdominal) pain or been diagnosed with diverticulitis or ulcers in your stomach or intestines
-  - have had a reaction to tocilizumab or any of the ingredients in ACTEMRA before
-  - have or had a condition that affects your nervous system, such as multiple sclerosis
-  - have recently received or are scheduled to receive a vaccine.
-    - All vaccines should be brought up-to-date before starting ACTEMRA.
-    - People who take ACTEMRA should not receive live vaccines.
-    - People taking ACTEMRA can receive non-live vaccines
-  - plan to have surgery or a medical procedure
-  - have any other medical conditions
-  - plan to become pregnant or are pregnant.
-    It is not known if ACTEMRA will harm your unborn baby.
-    Pregnancy Registry: Genentech has a registry for pregnant women who take ACTEMRA.
-    The purpose of this registry is to check the health of the pregnant mother and her baby.
-    If you are pregnant or become pregnant while taking ACTEMRA, talk to your healthcare provider about how you can join this pregnancy registry or you may contact the registry at 1-877-311-8972 to enroll.
-  - plan to breast-feed or are breast-feeding.
-    You and your healthcare provider should decide if you will take ACTEMRA or breast-feed.
-    You should not do both.
+- have an infection.
+  See "What is the most important information I should know about ACTEMRA?"
+- have liver problems
+- have any stomach-area (abdominal) pain or been diagnosed with diverticulitis or ulcers in your stomach or intestines
+- have had a reaction to tocilizumab or any of the ingredients in ACTEMRA before
+- have or had a condition that affects your nervous system, such as multiple sclerosis
+- have recently received or are scheduled to receive a vaccine.
+  - All vaccines should be brought up-to-date before starting ACTEMRA.
+  - People who take ACTEMRA should not receive live vaccines.
+  - People taking ACTEMRA can receive non-live vaccines
+- plan to have surgery or a medical procedure
+- have any other medical conditions
+- plan to become pregnant or are pregnant.
+  It is not known if ACTEMRA will harm your unborn baby.
+  Pregnancy Registry: Genentech has a registry for pregnant women who take ACTEMRA.
+  The purpose of this registry is to check the health of the pregnant mother and her baby.
+  If you are pregnant or become pregnant while taking ACTEMRA, talk to your healthcare provider about how you can join this pregnancy registry or you may contact the registry at 1-877-311-8972 to enroll.
+- plan to breast-feed or are breast-feeding.
+  You and your healthcare provider should decide if you will take ACTEMRA or breast-feed.
+  You should not do both.
 
 Tell your healthcare provider about all of the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements.
 ACTEMRA and other medicines may affect each other causing side effects.
@@ -197,11 +177,10 @@ ACTEMRA can cause serious side effects, including:
 
 Common side effects of ACTEMRA include:
 
-- 
-  - upper respiratory tract infections (common cold, sinus infections)
-  - headache
-  - increased blood pressure (hypertension)
-  - injection site reactions
+- upper respiratory tract infections (common cold, sinus infections)
+- headache
+- increased blood pressure (hypertension)
+- injection site reactions
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 These are not all of the possible side effects of ACTEMRA.
@@ -239,5 +218,3 @@ ACTEMRA is a registered trademark of Chugai Seiyaku Kabushiki Kaisha Corp., a me
 Genentech, Inc. A Member of the Roche Group 1 DNA Way South San Francisco, CA 94080-4990 US License No. 1048
 
 © 2014 Genentech, Inc. All rights reserved.
-
-Representative sample of labeling (see the HOW SUPPLIED section for complete listing):

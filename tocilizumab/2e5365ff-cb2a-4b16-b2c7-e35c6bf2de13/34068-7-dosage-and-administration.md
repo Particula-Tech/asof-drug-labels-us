@@ -59,13 +59,13 @@ The recommended dose of ACTEMRA for SJIA patients given once every 2 weeks as a 
 
 ACTEMRA for intravenous infusion should be diluted by a healthcare professional using aseptic technique as follows:
 
-- PJIA and SJIA patients less than 30 kg: use a 50 mL infusion bag or bottle of 0.9% Sodium Chloride, and then follow steps 1 and 2 below.
+- PJIA and SJIA patients less than 30 kg: use a 50 mL infusion bag or bottle of 0.9% or 0.45% Sodium Chloride, and then follow steps 1 and 2 below.
 - Adult RA, PJIA and SJIA patients at or above 30 kg weight: use a 100 mL infusion bag or bottle, and then follow steps 1 and 2 below.
   - –Step 1.
-    Withdraw a volume of 0.9% Sodium Chloride injection, equal to the volume of the ACTEMRA injection required for the patient's dose from the infusion bag or bottle [see Dosage and Administration (2.1, 2.2, 2.3)].
+    Withdraw a volume of 0.9% or 0.45% Sodium Chloride injection, equal to the volume of the ACTEMRA injection required for the patient's dose from the infusion bag or bottle [see Dosage and Administration (2.1, 2.2, 2.3)].
     For Intravenous Use: Volume of ACTEMRA Injection per kg of Body WeightDosageIndicationVolume of ACTEMRA injection per kg of body weight4 mg/kgAdult RA0.2mL/kg8 mg/kgAdult RA SJIA and PJIA (≥30 kg of body weight)0.4mL/kg10 mg/kgPJIA (< 30 kg of body weight)0.5 mL/kg12 mg/kgSJIA (< 30 kg of body weight)0.6mL/kg
   - –Step 2.
-    Withdraw the amount of ACTEMRA for intravenous infusion from the vial(s) and add slowly into the Sodium Chloride infusion bag or bottle.
+    Withdraw the amount of ACTEMRA for intravenous infusion from the vial(s) and add slowly into the 0.9% or 0.45% Sodium Chloride infusion bag or bottle.
     To mix the solution, gently invert the bag to avoid foaming.
 - The fully diluted ACTEMRA solutions for infusion may be stored at 2° to 8°C (36° to 46°F) or room temperature for up to 24 hours and should be protected from light.
   ACTEMRA solutions do not contain preservatives; therefore, unused product remaining in the vials should not be used.
@@ -102,8 +102,7 @@ Rheumatoid Arthritis
 | Lab Value | Recommendation |
 | --- | --- |
 | Liver Enzyme Abnormalities [see Warnings and Precautions (5.3)]: |  |
-| Greater than 1 to 3× ULN | Dose modify concomitant DMARDs if appropriate |
-|  | For persistent increases in this range: For patients receiving intravenous ACTEMRA, reduce dose to 4 mg per kg or hold ACTEMRA until ALT or AST have normalizedFor patients receiving subcutaneous ACTEMRA, reduce injection frequency to every other week or hold dosing until ALT or AST have normalized. Resume ACTEMRA at every other week and increase frequency to every week as clinically appropriate. |
+| Greater than 1 to 3× ULN | Dose modify concomitant DMARDs if appropriate For persistent increases in this range: For patients receiving intravenous ACTEMRA, reduce dose to 4 mg per kg or hold ACTEMRA until ALT or AST have normalizedFor patients receiving subcutaneous ACTEMRA, reduce injection frequency to every other week or hold dosing until ALT or AST have normalized. Resume ACTEMRA at every other week and increase frequency to every week as clinically appropriate. |
 | Greater than 3 to 5× ULN | Hold ACTEMRA dosing until less than 3× ULN and follow recommendations above for greater than 1 to 3× ULN |
 | (confirmed by repeat testing) | For persistent increases greater than 3× ULN, discontinue ACTEMRA |
 | Greater than 5× ULN | Discontinue ACTEMRA |
@@ -112,15 +111,13 @@ Rheumatoid Arthritis
 | --- | --- |
 | Low Absolute Neutrophil Count (ANC) [see Warnings and Precautions (5.3)]: |  |
 | ANC greater than 1000 | Maintain dose |
-| ANC 500 to 1000 | Hold ACTEMRA dosing |
-|  | When ANC greater than 1000 cells per mm3: For patients receiving intravenous ACTEMRA, resume ACTEMRA at 4 mg per kg and increase to 8 mg per kg as clinically appropriateFor patients receiving subcutaneous ACTEMRA, resume ACTEMRA at every other week and increase frequency to every week as clinically appropriate |
+| ANC 500 to 1000 | Hold ACTEMRA dosing When ANC greater than 1000 cells per mm3: For patients receiving intravenous ACTEMRA, resume ACTEMRA at 4 mg per kg and increase to 8 mg per kg as clinically appropriateFor patients receiving subcutaneous ACTEMRA, resume ACTEMRA at every other week and increase frequency to every week as clinically appropriate |
 | ANC less than 500 | Discontinue ACTEMRA |
 
 | Lab Value (cells per mm3) | Recommendation |
 | --- | --- |
 | Low Platelet Count [see Warnings and Precautions (5.3)]: |  |
-| 50,000 to 100,000 | Hold ACTEMRA dosing |
-|  | When platelet count is greater than 100,000 cells per mm3: For patients receiving intravenous ACTEMRA, resume ACTEMRA at 4 mg per kg and increase to 8 mg per kg as clinically appropriateFor patients receiving subcutaneous ACTEMRA, resume ACTEMRA at every other week and increase frequency to every week as clinically appropriate |
+| 50,000 to 100,000 | Hold ACTEMRA dosing When platelet count is greater than 100,000 cells per mm3: For patients receiving intravenous ACTEMRA, resume ACTEMRA at 4 mg per kg and increase to 8 mg per kg as clinically appropriateFor patients receiving subcutaneous ACTEMRA, resume ACTEMRA at every other week and increase frequency to every week as clinically appropriate |
 | Less than 50,000 | Discontinue ACTEMRA |
 
 Polyarticular and Systemic Juvenile Idiopathic Arthritis:

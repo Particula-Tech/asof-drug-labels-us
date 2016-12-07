@@ -336,8 +336,8 @@ In the open label extension over an average duration of 73 weeks of treatment, t
 
 Lipids
 
-During routine laboratory monitoring in the 12 week controlled phase, elevation in total cholesterol greater than 1.5× ULN – 2x ULN occurred in 1.5% of the ACTEMRA-IV group and in 0% of placebo patients.
-Elevation in LDL greater than 1.5× ULN – 2x ULN occurred in 1.9% of patients in the ACTEMRA-IV group and 0% of the placebo group.
+During routine laboratory monitoring in the 12 week controlled phase, elevation in total cholesterol greater than 1.5× ULN – 2× ULN occurred in 1.5% of the ACTEMRA-IV group and in 0% of placebo patients.
+Elevation in LDL greater than 1.5× ULN – 2× ULN occurred in 1.9% of patients in the ACTEMRA-IV group and 0% of the placebo group.
 
 In the open label extension study over an average duration of 73 weeks of treatment, the pattern and incidence of elevations in lipid parameters remained consistent with the 12 week controlled study data.
 
