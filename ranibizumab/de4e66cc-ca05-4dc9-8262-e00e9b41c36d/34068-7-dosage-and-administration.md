@@ -4,6 +4,8 @@
 
 FOR OPHTHALMIC INTRAVITREAL INJECTION ONLY.
 
+Vials: A 5-micron sterile filter needle (19-gauge × 1-1/2 inch), a 1-mL Luer lock syringe and a 30-gauge × ½ inch sterile injection needle are needed but not included.
+
 ## 2.2 Neovascular (Wet) Age-Related Macular Degeneration (AMD)
 
 LUCENTIS 0.5 mg (0.05 mL of 10 mg/mL LUCENTIS solution) is recommended to be administered by intravitreal injection once a month (approximately 28 days).
@@ -44,7 +46,7 @@ How to store LUCENTIS:
 - LUCENTIS should be refrigerated at 2º-8ºC (36º-46ºF).
   Do not freeze.
 - Do not use beyond the expiration date stamped on the label.
-- LUCENTIS prefilled syringes should be protected from light and stored in a dark place.
+- Protect LUCENTIS prefilled syringes from light and store in the original carton until time of use.
 - Do not open the sealed tray until time of use.
 
 The prefilled syringe is for single use only.
@@ -62,26 +64,44 @@ Note: the dose must be set to 0.05 mL.
 | Step 1: Prepare |  |
 | Make sure that your pack contains a sterile prefilled syringe in a sealed tray.Peel the lid off the syringe tray and, using aseptic technique, remove the syringe. |  |
 | Step 2: Inspect syringe |  |
-| LUCENTIS should be colorless to pale yellow.Do not use the prefilled syringe if: -the syringe cap is detached from the Luer lock. -the syringe is damaged.-particulates, cloudiness, or discoloration are visible. |  |
+| LUCENTIS should be colorless to pale yellow.Do not use the prefilled syringe if: -the syringe cap is detached from the Luer lock.-the syringe is damaged.-particulates, cloudiness, or discoloration are visible. |  |
 | Step 3: Remove syringe cap |  |
 | Snap off (do not turn or twist) the syringe cap (see Figure 2). |  |
 | Step 4: Attach needle |  |
-| Attach a 30G × ½ inch sterile injection needle firmly onto the syringe by screwing it tightly onto the Luer lock (see Figure 3).Carefully remove the needle cap by pulling it straight off. |  |
+| Attach a 30G × ½ inch sterile injection needle firmly onto the syringe by screwing it tightly onto the Luer lock (see Figure 3). Carefully remove the needle cap by pulling it straight off. |  |
 | Note: Do not wipe the needle at any time. |  |
 | Step 5: Dislodge air bubbles |  |
-| Hold the syringe with the needle pointing up. If there are any air bubbles, gently tap the syringe with your finger until the bubbles rise to the top (see Figure 4). |  |
+| Hold the syringe with the needle pointing up.If there are any air bubbles, gently tap the syringe with your finger until the bubbles rise to the top (see Figure 4). |  |
 | Step 6: Expel air and adjust drug dose |  |
 | Hold the syringe at eye level, and carefully push the plunger rod until the edge below the dome of the rubber stopper is aligned with the 0.05 mL dose mark (see Figure 5). |  |
 | Note: The plunger rod is not attached to the rubber stopper – this is to prevent air being drawn into the syringe. |  |
 | Step 7: Inject |  |
-| The injection procedure should be carried out under aseptic conditions.Insert the needle into the injection site. Inject slowly until rubber stopper reaches the bottom of the syringe to deliver the volume of 0.05 mL. After injection, do not recap the needle or detach it from the syringe. Dispose of the used syringe together with the needle in a sharps disposal container or in accordance with local requirements. |  |
+| The injection procedure should be carried out under aseptic conditions.Insert the needle into the injection site.Inject slowly until rubber stopper reaches the bottom of the syringe to deliver the volume of 0.05 mL.After injection, do not recap the needle or detach it from the syringe. Dispose of the used syringe together with the needle in a sharps disposal container or in accordance with local requirements. |  |
 
 Vial:
 
-Using aseptic technique, all of the LUCENTIS vial contents are withdrawn through a 5-micron, 19-gauge filter needle attached to a 1-cc tuberculin syringe.
+Using aseptic technique, all of the LUCENTIS vial contents are withdrawn through a 5-micron (19-gauge × 1-1/2 inch), sterile filter needle attached to a 1 mL syringe (not included).
 The filter needle should be discarded after withdrawal of the vial contents and should not be used for intravitreal injection.
-The filter needle should be replaced with a sterile 30-gauge × 1/2-inch needle for the intravitreal injection.
-The contents should be expelled until the plunger tip is aligned with the line that marks 0.05 mL on the syringe.
+The filter needle should be replaced with a sterile 30-gauge × ½ inch needle for the intravitreal injection.
+
+Use aseptic technique to carry out the following preparation steps.
+
+1. Prepare for intravitreal injection with the following medical devices for single use (not included):
+   - a 5-micron sterile filter needle (19-gauge × 1-1/2 inch)
+   - a 1 mL sterile Luer lock syringe (with marking to measure 0.05 mL)
+   - a sterile injection needle (30-gauge × 1/2-inch)
+2. Before withdrawal, disinfect the outer part of the rubber stopper of the vial.
+3. Place a 5-micron filter needle (19-gauge × 1-1/2 inch) onto a 1 mL Luer lock syringe using aseptic technique.
+4. Push the filter needle into the center of the vial stopper until the needle touches the bottom edge of the vial.
+5. Withdraw all the liquid from the vial, keeping the vial in an upright position, slightly inclined to ease complete withdrawal.
+6. Ensure that the plunger rod is drawn sufficiently back when emptying the vial in order to completely empty the filter needle.
+7. The filter needle should be discarded after withdrawal of the vial contents and must not be used for the intravitreal injection.
+8. Attach a 30-gauge × 1/2-inch sterile injection needle firmly onto the syringe by screwing it tightly onto the Luer lock.
+   Carefully remove the needle cap by pulling it straight off.
+   Do not wipe the needle at any time.
+9. Hold the syringe with the needle pointing up.
+   If there are any air bubbles, gently tap the syringe with your finger until the bubbles rise to the top.
+10. Hold the syringe at eye level, and carefully push the plunger rod until the plunger tip is aligned with the line that marks 0.05 mL on the syringe.
 
 ## 2.7 Administration
 

@@ -30,7 +30,8 @@ Table 1 Ocular Reactions in the DME and DR, AMD, and RVO Studies
 | n=250 | n=250 | n=379 | n=379 | n=440 | n=441 | n=259 | n=260 |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | DME and DR 2-year |  | AMD 2-year |  | AMD 1-year |  | RVO 6-month |  |
-| Adverse Reaction | LUCENTIS 0.3 mg | Control | LUCENTIS 0.5 mg | Control | LUCENTIS 0.5 mg | Control | LUCENTIS 0.5 mg | Control |
+| Adverse Reaction | LUCENTIS |  | LUCENTIS |  | LUCENTIS |  | LUCENTIS |  |
+| 0.3 mg | Control | 0.5 mg | Control | 0.5 mg | Control | 0.5 mg | Control |  |
 | Conjunctival hemorrhage | 47% | 32% | 74% | 60% | 64% | 50% | 48% | 37% |
 | Eye pain | 17% | 13% | 35% | 30% | 26% | 20% | 17% | 12% |
 | Vitreous floaters | 10% | 4% | 27% | 8% | 19% | 5% | 7% | 2% |
@@ -64,7 +65,8 @@ Table 2 Non-Ocular Reactions in the DME and DR, AMD and RVO Studies
 | n=250 | n=250 | n=379 | n=379 | n=440 | n=441 | n=259 | n=260 |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | DME and DR 2-year |  | AMD 2-year |  | AMD 1-year |  | RVO 6-month |  |
-| Adverse Reaction | LUCENTIS 0.3 mg | Control | LUCENTIS 0.5 mg | Control | LUCENTIS 0.5 mg | Control | LUCENTIS 0.5 mg | Control |
+| Adverse Reaction | LUCENTIS |  | LUCENTIS |  | LUCENTIS |  | LUCENTIS |  |
+| 0.3 mg | Control | 0.5 mg | Control | 0.5 mg | Control | 0.5 mg | Control |  |
 | Nasopharyngitis | 12% | 6% | 16% | 13% | 8% | 9% | 5% | 4% |
 | Anemia | 11% | 10% | 8% | 7% | 4% | 3% | 1% | 1% |
 | Nausea | 10% | 9% | 9% | 6% | 5% | 5% | 1% | 2% |

@@ -29,27 +29,26 @@ Table 3 Visual Acuity Outcomes at Month 12 and Month 24 in Study AMD-1
 | Outcome Measure | Month | Sham n=229 | LUCENTIS 0.5 mg n=230 | Estimated Difference (95% CI)Adjusted estimate based on the stratified model; p < 0.01 |
 | --- | --- | --- | --- | --- |
 | Loss of <15 letters in visual acuity (%) | 12 | 60% | 91% | 30% (23%, 37%) |
-| 24 | 56% | 89% | 33% (26%, 41%) |  |
+|  | 24 | 56% | 89% | 33% (26%, 41%) |
 | Gain of ≥15 letters in visual acuity (%) | 12 | 6% | 31% | 25% (18%, 31%) |
-| 24 | 4% | 30% | 25% (18%, 31%) |  |
+|  | 24 | 4% | 30% | 25% (18%, 31%) |
 | Mean change in visual acuity (letters) (SD) | 12 | −11.0 (17.9) | +6.3 (14.1) | 17.1 (14.2, 20.0) |
-| 24 | −15.0 (19.7) | +5.5 (15.9) | 20.1 (16.9, 23.4) |  |
+|  | 24 | −15.0 (19.7) | +5.5 (15.9) | 20.1 (16.9, 23.4) |
 
 Table 4 Visual Acuity Outcomes at Month 12 and Month 24 in Study AMD-2
 
 | Outcome Measure | Month | Verteporfin PDT n=141 | LUCENTIS 0.5 mg n=139 | Estimated Difference (95% CI)Adjusted estimate based on the stratified model; p < 0.01 |
 | --- | --- | --- | --- | --- |
 | Loss of <15 letters in visual acuity (%) | 12 | 66% | 98% | 32% (24%, 40%) |
-| 24 | 65% | 93% | 28% (19%, 37%) |  |
+|  | 24 | 65% | 93% | 28% (19%, 37%) |
 | Gain of ≥15 letters in visual acuity (%) | 12 | 11% | 37% | 26% (17%, 36%) |
-| 24 | 9% | 37% | 29% (20%, 39%) |  |
+|  | 24 | 9% | 37% | 29% (20%, 39%) |
 | Mean change in visual acuity (letters) (SD) | 12 | −8.5 (17.8) | +11.0 (15.8) | 19.8 (15.9, 23.7) |
-| 24 | −9.1 (18.7) | +10.9 (17.3) | 20 (16.0, 24.4) |  |
+|  | 24 | −9.1 (18.7) | +10.9 (17.3) | 20 (16.0, 24.4) |
 
 | Figure 1 Mean Change in Visual Acuity from Baseline to Month 24 in Study AMD-1 and Study AMD-2 |
 | --- |
-
-Visual acuity was measured at a distance of 2 meters
+| Visual acuity was measured at a distance of 2 meters |
 
 Patients in the group treated with LUCENTIS had minimal observable CNV lesion growth, on average.
 At Month 12, the mean change in the total area of the CNV lesion was 0.1-0.3 disc areas (DA) for LUCENTIS versus 2.3-2.6 DA for the control arms.
@@ -76,6 +75,7 @@ Study AMD-4 was a randomized, double-masked, active treatment-controlled, two-ye
 Patients randomized to the LUCENTIS 0.5 mg less frequent dosing arm received 3 monthly doses followed by monthly assessments where patients were eligible to receive LUCENTIS injections guided by pre-specified re-treatment criteria.
 A total of 550 patients were enrolled in the two 0.5 mg treatment groups with 467 (85%) completing through Month 24.
 Data are available through Month 24.
+
 Clinical results at Month 24 remain similar to that observed at Month 12.
 
 From Month 3 through Month 24, visual acuity decreased by 0.3 letters in the 0.5 mg less frequent dosing arm and increased by 0.7 letters in the 0.5 mg monthly arm (see Figure 3).
@@ -106,17 +106,16 @@ At Month 6, after monthly treatment with 0.5 mg LUCENTIS, the following clinical
 
 Table 5 Visual Acuity Outcomes at Month 6 in Study RVO-1 and Study RVO-2
 
-| Outcome Measure | Study RVO-1: Sham, n=131; LUCENTIS 0.5 mg, n=132 RVO-2: Sham, n=130; LUCENTIS 0.5 mg, n=130 | Sham | LUCENTIS 0.5 mg | Estimated Difference (95% CI) Adjusted estimate based on stratified model; p < 0.01 |
+| Outcome Measure | StudyRVO-1: Sham, n=131; LUCENTIS 0.5 mg, n=132 RVO-2: Sham, n=130; LUCENTIS 0.5 mg, n=130 | Sham | LUCENTIS 0.5 mg | Estimated Difference (95% CI)Adjusted estimate based on stratified model; p < 0.01 |
 | --- | --- | --- | --- | --- |
 | Gain of ≥15 letters in visual acuity (%) | RVO-1 | 29% | 61% | 31% (20%, 43%) |
 | Gain of ≥15 letters in visual acuity (%) | RVO-2 | 17% | 48% | 30% (20%, 41%) |
 
 | Figure 5 Mean Change in Visual Acuity from Baseline to Month 6 in Study RVO-1 and Study RVO-2 |
 | --- |
+| p < 0.01 for all time points |
 
-p < 0.01 for all time points
-
-## 14.3 Diabetic Macular Edema
+## 14.3 Diabetic Macular Edema (DME)
 
 Efficacy and safety data of LUCENTIS are derived from studies D-1 and D-2 (See Section 14.4 Diabetic Retinopathy below).
 All enrolled patients had DR and DME at baseline.
@@ -147,8 +146,7 @@ Table 6 Visual Acuity Outcomes at Month 24 in Study D-1 and D-2
 
 | Figure 6 Mean Change in Visual Acuity from Baseline to Month 36 in Study D-1 and Study D-2 |
 | --- |
-
-p < 0.01 for all time points comparing LUCENTIS 0.3 mg to sham through Month 24
+| p < 0.01 for all time points comparing LUCENTIS 0.3 mg to sham through Month 24 |
 
 VA outcomes observed at Month 24 in patients treated with LUCENTIS 0.3 mg were maintained with continued treatment through Month 36 in both DME studies.
 Patients in the sham arms who received LUCENTIS 0.5 mg beginning at Month 25 achieved lesser VA gains compared to patients who began treatment with LUCENTIS at the beginning of the studies.
@@ -165,6 +163,7 @@ All enrolled patients had DR and DME at baseline.
 Of the 759 patients enrolled, 746 patients had a baseline assessment of fundus photography.
 Patients had baseline Early Treatment Diabetic Retinopathy Study (ETDRS) Retinopathy Severity Scores (ETDRS-RSS) ranging from 10 to 75.
 At baseline, 62% of patients had NPDR (ETDRS-RSS less than 60) and 31% had PDR (ETDRS-RSS greater than or equal to 60).
+
 The ETDRS-RSS could not be graded in 5% of patients at baseline, and 2% of patients had absent or questionable DR at baseline.
 Approximately 20% of the overall population had prior PRP.
 
