@@ -5,9 +5,12 @@ Instances of hemodynamic or idiosyncratic reactions to preparations of Technetiu
 
 # PRECAUTIONS
 
-GeneralThe contents of the kit before preparation are not radioactive.However, after the sodium pertechnetate Tc-99m is added, adequate shielding of the final preparation must be maintained.
+General
 
-In patients with right to left heart shunts, additional risk may exist due to the rapid entry of albumin aggregated into the systemic circulation.
+The contents of the kit before preparation are not radioactive.
+However, after the sodium pertechnetate Tc-99m is added, adequate shielding of the final preparation must be maintained.
+
+In patients with right-to-left heart shunts, additional risk may exist due to the rapid entry of albumin aggregated into the systemic circulation.
 The safety of this agent in such patients has not been established.
 Hypersensitivity reactions are possible whenever protein-containing materials such as pertechnetate labeled albumin aggregated are used in man.
 Epinephrine, antihistamines, and corticosteroids should be available for immediate use.
@@ -23,8 +26,8 @@ Contents of the vials are intended only for use in the preparation of Technetium
 The technetium Tc-99m labeling reactions involved depend on maintaining the stannous ion in the reduced state.
 Hence, sodium pertechnetate Tc-99m containing oxidants should not be employed.
 
-The preparation contains no bacteriostatic preservative.
-Technetium Tc 99m Albumin Aggregated Injection should be stored at 2 to 8ºC (36 to 46ºF) and discarded 6 hours after reconstitution.
+The product contains no bacteriostatic preservative.
+The finished preparation should be stored at 2 to 8 ºC (36 to 46 ºF) when not in use and discarded within 12 hours (See Directions For Preparation).
 
 Technetium Tc 99m Albumin Aggregated Injection is physically unstable and consequently the particles settle with time.
 Failure to agitate the vial adequately before use may result in nonuniform distribution of radioactive particles.

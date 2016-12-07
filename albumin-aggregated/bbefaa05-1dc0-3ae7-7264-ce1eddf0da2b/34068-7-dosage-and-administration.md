@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-The recommended intravenous dose range for the average (70 kg) ADULT patient for lung imaging is 37 to 148 megabecquerels (1-4 millicuries) of Technetium Tc 99m Albumin Aggregated Injection after reconstitution with oxidant-free Sodium Pertechnetate Tc 99m Injection.
+The recommended intravenous dose range for the average (70 kg) ADULT patient for lung imaging is 37 to 148 megabecquerels (1 to 4 millicuries) of Technetium Tc 99m Albumin Aggregated Injection after reconstitution with oxidant-free Sodium Pertechnetate Tc 99m Injection.
 
 The suggested intraperitoneal dosage range used in the average patient (70 kg) for peritoneovenous (LeVeen) shunt patency evaluation is 37 to 111 megabecquerels (1 to 3 millicuries).
 Adequate measures should be taken to assure uniform mixing with peritoneal fluid.
@@ -13,8 +13,6 @@ Depending on the activity added and volume of the final reconstituted product, t
 
 The number of particles available per dose of Technetium Tc 99m Albumin Aggregated Injection will vary depending on the physical decay of the technetium Tc-99m that has occurred.
 The number of particles in any dose and volume to be administered may be calculated as follows:
-
-Va = D and P = Va x N C x Fr VTc
 
 Where:
 
@@ -30,7 +28,7 @@ The number of particles will vary with age and weight of the pediatric patient a
 Parenteral drug products should be visually inspected for particulate matter and discoloration prior to administration whenever solution and container permit.
 
 The patient dose should be measured by a suitable radioactivity calibration system immediately prior to administration.
-Mix the contents of the vial by gentle inversion just prior to with drawing a patient dose.
+Mix the contents of the vial by gentle inversion just prior to withdrawing a patient dose.
 
 Mix the contents of the syringe just before injection.
 If blood is drawn into the syringe, any unnecessary delay prior to injection may lead to clot formation.
@@ -43,14 +41,46 @@ RADIATION DOSIMETRY
 
 The estimated absorbed radiation doses2 to an average ADULT patient (70 kg) from an intravenous injection of 148 MBq (4 mCi) of Technetium Tc 99m Albumin Aggregated Injection are shown in Table 4.
 
-Table 4 Absorbed Radiation Doses
+Table 4.
+Absorbed Radiation Doses
 
 | Organs | mGy/148 MBq | rad/4 mCi |
 | --- | --- | --- |
 | Total bodyLungsLiverSpleenKidneysBladder Wall 2.0 hr. void 4.8 hr. voidTestes 2.0 hr. void 4.8 hr. voidOvaries 2.0 hr. void 4.8 hr. void | 0.608.80.720.680.44 1.22.2 0.240.26 0.300.34 | 0.0600.880.0720.0680.044 0.120.22 0.0240.026 0.0300.034 |
-| 2 Method of calculation: “S” Absorbed Dose per Unit Cumulated Activity for Selected Radionuclides and Organs, MIRD Pamphlet No. 11 (1975). |  |  |
+
+2 Method of calculation: “S” Absorbed Dose per Unit Cumulated Activity for Selected Radionuclides and Organs, MIRD Pamphlet No. 11 (1975).
 
 In PEDIATRIC patients, the radiation absorbed doses using the maximum recommended dose for lung imaging are based on 1.85 MBq (50 μCi) per kilogram of body weight [except in the newborn where the maximum recommended dose of 18.5 MBq (500 μCi) is used] and are shown in Table 5, which lists the maximum dose for pediatric patients from newborn to adults.
 Note the recommendations regarding number of particles to be administered.
 
 Table 6 represents the absorbed radiation dose resulting from the intraperitoneal administration of 111 megabecquerels (3 millicuries) of Technetium Tc 99m Albumin Aggregated.
+
+Table 5.
+Pediatric Radiation Dose from Tc 99m MAA for Lung Imaging*
+
+| Age | Newborn |  | 1 year |  | 5 years |  | 10 years |  | 15 years |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Weight (kg) | 3.5 |  | 12.1 |  | 20.3 |  | 33.5 |  | 55.0 |  |
+| Max. Recommended Dose in Megabecquerels and Millicuries | MBq 18.5 | mCi 0.5 | MBq 22.2 | mCi 0.6 | MBq 37 | mCi 1.0 | MBq 62.9 | mCi 1.7 | MBq 103.6 | mCi 2.8 |
+| Range of Particles Administered | 10 000 to 50 000 |  | 50 000 to 150 000 |  | 200 000 to 300 000 |  | 200 000 to 300 000 |  | 200 000 to 700 000 |  |
+| Absorbed Radiation Dose in milligray and rad for the Maximum Dose | mGy | rad | mGy | rad | mGy | rad | mGy | rad | mGy | rad |
+| ORGANSTotal BodyLungsLiverBladder WallOvariesTestes | 0.6019.001.402.100.380.31 | 0.061.90.140.21(1)0.0380.031 | 0.306.600.601.500.200.13 | 0.030.66 0.060.15(1)0.0200.013 | 0.315.80 0.623.100.190.19 | 0.0310.58 0.0620.31(2)0.0190.019 | 0.488.70 1.803.900.440.20 | 0.0480.870.180.39(2)0.0440.020 | 0.417.70 1.204.100.410.36 | 0.0410.770.120.410.0410.036 |
+| (1) 2.0 hour voiding interval (2) 4.8 hour voiding interval |  |  |  |  |  |  |  |  |  |  |
+
+*Assumptions: 1.
+Used biologic data from Kaul et al., Berlin, 1973.
+2.
+For the newborn, 1-year old, and 5-year old, the “S” values calculated from the preliminary phantoms of ORNL were used.
+The 10-year old, 15-year old and adult “S” values were taken from Henrichs et al., Berlin, 1980.
+
+Table 6.
+Absorbed Radiation Doses
+
+| Organs | Shunt Patency (Open) |  | Shunt Patency (Closed) |  |
+| --- | --- | --- | --- | --- |
+|  | mGy | rads | mGy | rads |
+| LungOvaries & TestesOrgans in the Peritoneal CavityTotal Body | 6.90.18to 0.30-0.36 | 0.690.018to 0.030-0.036 | 1.681.68 1.680.57 | 0.1680.168 0.1680.057 |
+
+Assumptions:
+
+Calculations for the absorbed radiation dose are based upon an effective half-time of 3 hours for the open shunt and 6.02 hours for the closed shunt and an even distribution of the radiopharmaceutical in the peritoneal cavity with no biological clearance.

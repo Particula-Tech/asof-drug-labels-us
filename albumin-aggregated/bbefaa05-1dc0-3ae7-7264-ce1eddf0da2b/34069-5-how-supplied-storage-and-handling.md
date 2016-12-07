@@ -1,36 +1,10 @@
-Table 5 Pediatric Radiation Dose from Tc 99m MAA for Lung Imaging*
-
-| Age | Newborn |  | 1 year |  | 5 years |  | 10 years |  | 15 years |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Weight (kg) | 3.5 |  | 12.1 |  | 20.3 |  | 33.5 |  | 55.0 |  |
-| Max. Recommended Dose in Megabecquerels and Millicuries | MBq 18.5 | mCi 0.5 | MBq 22.2 | mCi 0.6 | MBq 37 | mCi 1.0 | MBq 62.9 | mCi 1.7 | MBq 103.6 | mCi 2.8 |
-| Range of Particles Administered | 10 000 to 50 000 |  | 50 000 to 150 000 |  | 200 000 to 300 000 |  | 200 000 to 300 000 |  | 200 000 to 700 000 |  |
-| Absorbed Radiation Dose in milligray and rad for the Maximum Dose | mGy | rad | mGy | rad | mGy | rad | mGy | rad | mGy | rad |
-| ORGANSTotal BodyLungsLiverBladder WallOvariesTestes | 0.6019.001.402.100.380.31 | 0.061.90.140.21(1)0.0380.031 | 0.306.600.601.500.200.13 | 0.030.66 0.060.15(1)0.0200.013 | 0.315.80 0.623.100.190.19 | 0.0310.58 0.0620.31(2)0.0190.019 | 0.488.70 1.803.900.440.20 | 0.0480.870.180.39(2)0.0440.020 | 0.417.70 1.204.100.410.36 | 0.0410.770.120.410.0410.036 |
-| (1) 2.0 hour voiding interval (2) 4.8 hour voiding interval |  |  |  |  |  |  |  |  |  |  |
-
-*Assumptions:1.
-Used biologic data from Kaul et al., Berlin, 1973.
-2.
-For the newborn, 1-year old, and 5-year old, the “S” values calculated from the preliminary phantoms of ORNL were used.
-The 10-year old, 15-year old and adult “S” values were taken from Henrichs et al., Berlin, 1980.
-
-Table 6 Absorbed Radiation Doses
-
-| Organs | Shunt Patency (Open) |  | Shunt Patency (Closed) |  |
-| --- | --- | --- | --- | --- |
-|  | mGy | rads | mGy | rads |
-| LungOvaries & TestesOrgans in the Peritoneal CavityTotal Body | 6.90.18to 0.30-0.36 | 0.690.018to 0.030-0.036 | 1.681.68 1.680.57 | 0.1680.168 0.1680.057 |
-
-Assumptions:
-
-Calculations for the absorbed radiation dose are based upon an effective half-time of 3 hours for the open shunt and 6.02 hours for the closed shunt and an even distribution of the radiopharmaceutical in the peritoneal cavity with no biological clearance.
-
 HOW SUPPLIED
 
 DRAXIMAGE® MAA
 
-Kit for the Preparation of Technetium Tc 99m Albumin Aggregated Injection Each kit contains 30 reaction vials, each vial containing in lyophilized form, sterile and non-pyrogenic: Albumin Aggregated 2.5 mg Albumin Human 5.0 mg Stannous Chloride (minimum) 0.06 mg (Maximum stannous and stannic chloride 0.11 mg) Sodium Chloride 1.2 mg
+Kit for the Preparation of Technetium Tc 99m Albumin Aggregated Injection Each kit contains 30 reaction vials, each vial containing in lyophilized form, sterile and non-pyrogenic:
+
+Albumin Aggregated 2.5 mg Albumin Human 5.0 mg Stannous Chloride (minimum) 0.06 mg (Maximum stannous and stannic chloride 0.11 mg) Sodium Chloride 1.2 mg
 
 HCl and /or NaOH has been used for pH adjustment.
 The vials are sealed under an atmosphere of nitrogen.
@@ -39,12 +13,12 @@ Thirty labels with radiation warning symbols and a package insert are supplied i
 
 STORAGE
 
-Store the unreconstituted reaction vials at 2 to 25ºC (36 to 77ºF).
-After labeling with Technetium Tc-99m, store the solution at 2 to 8ºC (36 to 46ºF) in a suitable lead shield and discard after 6 hours.
+Store the unreconstituted reaction vials at 2 to 25 ºC (36 to 77 ºF).
+After labeling with technetium Tc-99m, the finished preparation should be stored at 2 to 8 ºC (36 to 46 ºF) when not in use and discarded within 12 hours (See Directions For Preparation).
 
 DIRECTIONS FOR PREPARATION
 
-Note: Use aseptic procedures throughout and take precautions to minimize radiation exposure by use of suitable shielding.
+NOTE: Use aseptic procedures throughout and take precautions to minimize radiation exposure by use of suitable shielding.
 Waterproof gloves should be worn during the preparation procedure.
 
 Before reconstituting a vial, it should be inspected for cracks and/or a melted plug or any other indication that the integrity of the vacuum seal has been lost.
@@ -66,9 +40,8 @@ To prepare Technetium Tc 99m Albumin Aggregated Injection:
 6. Withdrawals for administration must be made aseptically using a sterile needle (18 to 21 gauge) and syringe.
    Since the vials contain nitrogen to prevent oxidation of the complex, the vials should not be vented.
    If repeated withdrawals are made from the vial, replacement of the contents with air should be minimized.
-7. The finished preparation should be refrigerated at 2 to 8ºC (36 to 46ºF) when not in use and discarded after 6 hours.
-   (The preparation contains no bacteriostatic preservative.)
-   The vial should also be retained during its life in the reaction vial shield with cap in place.
+7. The finished preparation should be stored at 2 to 8 ºC (36 to 46 ºF) when not in use and discarded within 12 hours depending on the number of particles per vial, the activity added at reconstitution and the final dose to be administered to the patient.
+   The reaction vial should also be retained during its life in the lead vial shield with cap in place.
 
 DISPOSAL
 
@@ -77,9 +50,9 @@ All identifying labels should be destroyed before discarding.
 
 This reagent kit is approved by the U.S. Nuclear Regulatory Commission for distribution to persons licensed to use byproduct material identified in §35.200 of 10 CFR Part 35, to persons who have a similar authorization issued by an Agreement State, and, outside the United States, to persons authorized by the appropriate authority.
 
-Revised: June 2016
+Revised: December 2016 Rev.
+Art: 2.0
 
-Rev.
-Art: 1.0
+Jubilant DraxImage Inc. Kirkland, Québec, H9H 4J4 Canada
 
-Jubilant DraxImage Inc. Kirkland, Québec, H9H 4J4 Canada.
+® Registered Trademark of Jubilant DraxImage Inc.
