@@ -206,7 +206,7 @@ Rx only
 
 Package contains 10 pouches with 1 blister card of 5 tablets each
 
-# PRINCIPAL DISPLAY PANEL - 0.625 mg / 2.5 mg Blister Card
+# PRINCIPAL DISPLAY PANEL - 0.625 mg / 2.5 mg Tablet Blister Card
 
 28 Tablets NDC 0046-1107-11
 
@@ -215,8 +215,6 @@ WEEK 1 WEEK 2 WEEK 3 WEEK 4
 Pfizer
 
 PREMPRO® (conjugated estrogens/medroxyprogesterone acetate tablets)
-
-Rx only
 
 0.625 mg / 2.5 mg
 
@@ -235,25 +233,26 @@ PREMPRO 0.625 mg/2.5 mg
 
 Distributed by Wyeth Pharmaceuticals Inc A subsidiary of Pfizer Inc Philadelphia, PA 19101
 
-MADE IN USA (includes foreign content)
+Rx only
 
 www.PREMPRO.com
 
 WEEK 1 WEEK 2 WEEK 3 WEEK 4
 
-LOT XXXXXXX EXP XXXXXX
+LOT As per P.O.
+EXP As per P.O.
 
-12944001
+14413900
 
-# PRINCIPAL DISPLAY PANEL - 0.625 mg / 2.5 mg Blister Carton
+# PRINCIPAL DISPLAY PANEL - 0.625 mg / 2.5 mg Tablet Blister Card Carton
 
 NDC 0046-1107-11
 
-Rx only
-
-Pfizer PREMPRO ® (conjugated estrogens/ medroxyprogesterone acetate tablets)
+Pfizer PREMPRO® (conjugated estrogens/ medroxyprogesterone acetate tablets)
 
 0.625 mg / 2.5 mg
+
+Rx only
 
 Package contains 1 blister card of 28 tablets. www.PREMPRO.com
 
@@ -328,7 +327,7 @@ DAY 15 → DAY 16 → DAY 17 → DAY 18 → DAY 19 → DAY 20 → DAY 21
 
 DAY 28 ← DAY 27 ← DAY 26 ← DAY 25 ← DAY 24 ← DAY 23 ← DAY 22
 
-# PRINCIPAL DISPLAY PANEL - 28 Tablet 0.625 mg / 5 mg Blister Pack Carton
+# PRINCIPAL DISPLAY PANEL - Kit Carton
 
 NDC 0046-2575-12
 
