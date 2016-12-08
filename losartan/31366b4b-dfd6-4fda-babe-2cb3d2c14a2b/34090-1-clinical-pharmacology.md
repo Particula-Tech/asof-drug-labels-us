@@ -73,21 +73,21 @@ Table 2: Pharmacokinetic Parameters in Hypertensive Adults and Children Age 6 to
 The bioavailability of the suspension formulation was compared with losartan tablets in healthy adults.
 The suspension and tablet are similar in their bioavailability with respect to both losartan and the active metabolite [see Dosage and Administration (2.5)].
 
-Geriatric and Gender:Losartan pharmacokinetics have been investigated in the elderly (65 to 75 years) and in both genders.
+Geriatric and Gender: Losartan pharmacokinetics have been investigated in the elderly (65 to 75 years) and in both genders.
 Plasma concentrations of losartan and its active metabolite are similar in elderly and young hypertensives.
 Plasma concentrations of losartan were about twice as high in female hypertensives as male hypertensives, but concentrations of the active metabolite were similar in males and females.
 No dosage adjustment is necessary [see Dosage and Administration (2.1)].
 
-Race:Pharmacokinetic differences due to race have not been studied [see Use in Specific Populations (8.6)].
+Race: Pharmacokinetic differences due to race have not been studied [see Use in Specific Populations (8.6)].
 
 Renal Insufficiency: Following oral administration, plasma concentrations and AUCs of losartan and its active metabolite are increased by 50 to 90% in patients with mild (creatinine clearance of 50 to 74 mL/min) or moderate (creatinine clearance 30 to 49 mL/min) renal insufficiency.
 In this study, renal clearance was reduced by 55 to 85% for both losartan and its active metabolite in patients with mild or moderate renal insufficiency.
 Neither losartan nor its active metabolite can be removed by hemodialysis [see Warnings and Precautions (5.3) and Use in Specific Populations (8.7)].
 
-Hepatic Insufficiency:Following oral administration in patients with mild to moderate alcoholic cirrhosis of the liver, plasma concentrations of losartan and its active metabolite were, respectively, 5-times and about 1.7-times those in young male volunteers.
+Hepatic Insufficiency: Following oral administration in patients with mild to moderate alcoholic cirrhosis of the liver, plasma concentrations of losartan and its active metabolite were, respectively, 5-times and about 1.7-times those in young male volunteers.
 Compared to normal subjects the total plasma clearance of losartan in patients with hepatic insufficiency was about 50% lower and the oral bioavailability was about doubled.
 Use a starting dose of 25 mg for patients with mild to moderate hepatic impairment.
-Losartan potassium has not been studied in patients with severe hepatic impairment [see Dosage and Administration (2.4)and Use in Specific Populations (8.8)].
+Losartan potassium has not been studied in patients with severe hepatic impairment [see Dosage and Administration (2.4) and Use in Specific Populations (8.8)].
 
 Drug Interactions
 
