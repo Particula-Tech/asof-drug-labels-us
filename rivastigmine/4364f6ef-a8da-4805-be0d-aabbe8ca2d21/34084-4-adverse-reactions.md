@@ -20,11 +20,11 @@ Discontinuation Rates The rate of discontinuation due to adverse events in contr
 While on a maintenance dose, the rates were 6% for patients on rivastigmine tartrate capsules compared to 4% for those on placebo.
 The most common adverse reactions leading to discontinuation, defined as those occurring in at least 2% of patients and at twice the incidence seen in placebo patients, are shown in Table 1.
 
-Table 1 Most Frequent Adverse Reactions Leading to Withdrawal from Clinical Trials during Titration and Maintenance in Patients Receiving 6 mg to 12 mg per day Rivastigmine Tartrate Using a Forced-Dose Titration
+Table 1: Most Frequent Adverse Reactions Leading to Withdrawal from Clinical Trials during Titration and Maintenance in Patients Receiving 6 mg to 12 mg per day Rivastigmine Tartrate Using a Forced-Dose Titration
 
 | Study Phase | Titration |  | Maintenance |  | Overall |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Rivastigmine tartrate ≥6-12 mg/day | Placebo | Rivastigmine tartrate ≥6-12 mg/day | Placebo | Rivastigmine tartrate ≥6-12 mg/day | Placebo |
+|  | Rivastigmine tartrate ≥6 to 12 mg/day | Placebo | Rivastigmine tartrate ≥6 to 12 mg/day | Placebo | Rivastigmine tartrate ≥6 to 12 mg/day | Placebo |
 |  | (n=1,189) | (n=868) | (n=987) | (n=788) | (n=1,189) | (n=868) |
 | Event/% Discontinuing |  |  |  |  |  |  |
 | Nausea | 8 | <1 | 1 | <1 | 8 | 1 |
@@ -36,9 +36,9 @@ Adverse Reactions Observed at an Incidence of at Least 2% Table 2 lists adverse 
 In general, adverse reactions were less frequent later in the course of treatment.
 No systematic effect of race or age could be determined from the incidence of adverse reactions in the controlled studies.
 Nausea, vomiting and weight loss were more frequent in women than men.
-Table 2 Proportion of Adverse Reactions Observed with a Frequency of ≥2% and at a Rate Greater than Placebo in Clinical Trials
+Table 2: Proportion of Adverse Reactions Observed with a Frequency of ≥2% and at a Rate Greater than Placebo in Clinical Trials
 
-| Body System/Adverse Event | Rivastigmine tartrate (6-12 mg/day) (n=1,189) |  | Placebo (n=868) |
+| Body System/Adverse Event | Rivastigmine tartrate (6 to 12 mg/day) (n=1,189) |  | Placebo (n=868) |
 | --- | --- | --- | --- |
 | Percent of Patients with any Adverse Event | 92 |  | 79 |
 | Autonomic Nervous System |  |  |  |
@@ -96,11 +96,11 @@ The most frequent adverse events that led to discontinuation from this study, de
 Adverse Reactions Observed at an Incidence of at Least 2% Table 3 lists treatment-emergent signs and symptoms that were reported in at least 2% of patients in a single placebo-controlled trial and during the first 24 weeks of a 76-week open-label active-controlled trial for which the rate of occurrence was greater for patients treated with rivastigmine tartrate capsules doses of 3 mg to 12 mg per day than for those treated with placebo in the placebo-controlled trial.
 In general, adverse reactions were less frequent later in the course of treatment.
 
-Table 3 Proportion of Adverse Reactions Observed at a Frequency ≥2% and Occurring at Rate Greater than Placebo in Clinical Trials
+Table 3: Proportion of Adverse Reactions Observed at a Frequency ≥2% and Occurring at Rate Greater than Placebo in Clinical Trials
 
 |  | Active-Controlled Study | Placebo-Controlled Study |  |
 | --- | --- | --- | --- |
-| Body System/Adverse Reaction | Rivastigmine tartrate (3-12 mg/day) (n=294) | Rivastigmine tartrate (3-12 mg/day) (n=362) | Placebo (n=179) |
+| Body System/Adverse Reaction | Rivastigmine tartrate (3 to 12 mg/day) (n=294) | Rivastigmine tartrate (3 to 12 mg/day) (n=362) | Placebo (n=179) |
 | Percent of Patients with any Adverse Event | 88 | 84 | 71 |
 | Gastrointestinal Disorders |  |  |  |
 | Nausea | 38 | 29 | 11 |
@@ -140,7 +140,12 @@ Table 3 Proportion of Adverse Reactions Observed at a Frequency ≥2% and Occurr
 
 The following adverse reactions have been identified during post approval use of rivastigmine tartrate capsules.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-Hepatobiliary Disorders: Hepatitis.
-Psychiatric Disorders: Aggression.
+Cardiac Disorders: Tachycardia.
 
-Skin and Appendages: Stevens-Johnson syndrome, disseminated cutaneous hypersensitivity reactions.
+Hepatobiliary Disorders: Abnormal liver function tests, hepatitis.
+
+Nervous System Disorders: seizure.
+
+Psychiatric Disorders: Aggression, nightmares.
+
+Skin and Subcutaneous Tissue Disorders: Allergic dermatitis, application site hypersensitivity (patch), blister, disseminated allergic dermatitis, Stevens-Johnson syndrome, urticaria.

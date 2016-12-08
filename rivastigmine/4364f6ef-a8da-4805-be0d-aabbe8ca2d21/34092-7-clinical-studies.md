@@ -33,14 +33,14 @@ Figure 1 illustrates the time course for the change from baseline in ADAS-cog sc
 At 26 weeks of treatment, the mean differences in the ADAS-cog change scores for the rivastigmine tartrate capsules-treated patients compared to the patients on placebo were 1.9 and 4.9 units for the 1 mg to 4 mg and 6 mg to 12 mg treatments, respectively.
 Both treatments were statistically significantly superior to placebo and the 6 mg to 12 mg per day range was significantly superior to the 1 mg to 4 mg per day range.
 
-Figure 1 Time-course of the Change from Baseline in ADAS-cog Score for Patients Completing 26 Weeks of Treatment in Study 1
+Figure 1: Time-course of the Change from Baseline in ADAS-cog Score for Patients Completing 26 Weeks of Treatment in Study 1
 
-Figure 2 illustrates the cumulative percentages of patients from each of the 3 treatment groups who had attained at least the measure of improvement in ADAS-cog score shown on the X-axis.
+Figure 2 illustrates the cumulative percentages of patients from each of the 3 treatment groups who had attained at least the measure of improvement in ADAS-cog score shown on the x-axis.
 Three change scores, (7-point and 4-point reductions from baseline or no change in score) have been identified for illustrative purposes, and the percent of patients in each group achieving that result is shown in the inset table.
 The curves demonstrate that both patients assigned to rivastigmine tartrate capsules and placebo have a wide range of responses, but that the rivastigmine tartrate capsules groups are more likely to show the greater improvements.
 A curve for an effective treatment would be shifted to the left of the curve for placebo, while an ineffective or deleterious treatment would be superimposed upon, or shifted to the right of the curve for placebo, respectively.
 
-Figure 2 Cumulative Percentage of Patients Completing 26 Weeks of Double-blind Treatment with Specified Changes from Baseline ADAS-cog Scores.
+Figure 2: Cumulative Percentage of Patients Completing 26 Weeks of Double-blind Treatment with Specified Changes from Baseline ADAS-cog Scores.
 The Percentages of Randomized Patients who Completed the Study were: Placebo 84%, 1 mg-4 mg 85%, and 6 mg-12 mg 65%.
 
 Figure 3 is a histogram of the frequency distribution of CIBIC-Plus scores attained by patients assigned to each of the 3 treatment groups who completed 26 weeks of treatment.
@@ -48,7 +48,7 @@ The mean rivastigmine tartrate capsules-placebo differences for these groups of 
 The mean ratings for the 6 mg to 12 mg per day and 1 mg to 4 mg per day groups were statistically significantly superior to placebo.
 The differences between the 6 mg to 12 mg per day and the 1 mg to 4 mg per day groups were statistically significant.
 
-Figure 3 Frequency Distribution of CIBIC-Plus Scores at Week 26 in Study 1
+Figure 3: Frequency Distribution of CIBIC-Plus Scores at Week 26 in Study 1
 
 Global 26-Week Study in Mild to Moderate Alzheimer's Disease (Study 2) In a second study of 26 weeks duration, 725 patients were randomized to either a dose range of 1 to 4 mg or 6 mg to 12 mg of rivastigmine tartrate capsules per day or to placebo, each given in divided doses.
 The 26-week study was divided into a 12-week forced-dose titration phase and a 14-week maintenance phase.
@@ -59,12 +59,12 @@ At 26 weeks of treatment, the mean differences in the ADAS-cog change scores for
 The 6 mg to 12 mg per day group was statistically significantly superior to placebo, as well as to the 1 to 4 mg/day group.
 The difference between the 1 mg to 4 mg per day group and placebo was not statistically significant.
 
-Figure 4 Time-course of the Change from Baseline in ADAS-cog Score for Patients Completing 26 Weeks of Treatment
+Figure 4: Time-course of the Change from Baseline in ADAS-cog Score for Patients Completing 26 Weeks of Treatment
 
-Figure 5 illustrates the cumulative percentages of patients from each of the 3 treatment groups who had attained at least the measure of improvement in ADAS-cog score shown on the X-axis.
+Figure 5 illustrates the cumulative percentages of patients from each of the 3 treatment groups who had attained at least the measure of improvement in ADAS-cog score shown on the x-axis.
 Similar to the U.S. 26-week study, the curves demonstrate that both patients assigned to rivastigmine tartrate capsules and placebo have a wide range of responses, but that the 6 mg to 12 mg per day rivastigmine tartrate capsules group is more likely to show the greater improvements.
 
-Figure 5 Cumulative Percentage of Patients Completing 26 Weeks of Double-blind Treatment with Specified Changes from Baseline ADAS-cog Scores.
+Figure 5: Cumulative Percentage of Patients Completing 26 Weeks of Double-blind Treatment with Specified Changes from Baseline ADAS-cog Scores.
 The Percentages of Randomized Patients who Completed the Study were: Placebo 87%, 1 mg-4 mg 86%, and 6 mg-12 mg 67%.
 
 Figure 6 is a histogram of the frequency distribution of CIBIC-Plus scores attained by patients assigned to each of the 3 treatment groups who completed 26 weeks of treatment.
@@ -72,7 +72,7 @@ The mean rivastigmine tartrate capsules-placebo differences for these groups of 
 The mean ratings for the 6 mg to 12 mg per day group were statistically significantly superior to placebo.
 The comparison of the mean ratings for the 1 mg to 4 mg per day group and placebo group was not statistically significant.
 
-Figure 6 Frequency Distribution of CIBIC-Plus Scores at Week 26 in Study 2
+Figure 6: Frequency Distribution of CIBIC-Plus Scores at Week 26 in Study 2
 
 U.S. Fixed-Dose Study in Mild to Moderate Alzheimer’s Disease (Study 3) In a study of 26 weeks duration, 702 patients were randomized to doses of 3 mg, 6 mg, or 9 mg per day of rivastigmine tartrate capsules or to placebo, each given in divided doses.
 The fixed-dose study design, which included a 12-week forced-dose titration phase and a 14-week maintenance phase, led to a high dropout rate in the 9 mg per day group because of poor tolerability.
@@ -85,7 +85,7 @@ The diagnosis of idiopathic Parkinson's disease was based on the United Kingdom 
 The diagnosis of dementia was based on the criteria stipulated under the DSM-IV category "Dementia Due To Other General Medical Condition" (code 294.1x), but patients were not required to have a distinctive pattern of cognitive deficits as part of the dementia.
 Alternate causes of dementia were excluded by clinical history, physical and neurological examination, brain imaging, and relevant blood tests.
 Patients enrolled in the study had a MMSE score ≥10 and ≤24 at entry.
-The mean age of patients participating in this trial was 72.7 years with a range of 50–91 years.
+The mean age of patients participating in this trial was 72.7 years with a range of 50 to 91 years.
 Approximately, 35.1% of patients were women and 64.9% of patients were men.
 The racial distribution was 99.6% Caucasian and other races 0.4%.
 This study used a dual outcome assessment strategy to evaluate the effectiveness of rivastigmine tartrate capsules.
@@ -100,12 +100,12 @@ Figure 7 illustrates the time course for the change from baseline in ADAS-cog sc
 At 24 weeks of treatment, the mean difference in the ADAS-cog change scores for the rivastigmine tartrate capsules-treated patients compared to the patients on placebo was 3.8 points.
 This treatment difference was statistically significant in favor of rivastigmine tartrate capsules when compared to placebo.
 
-Figure 7 Time Course of the Change from Baseline in ADAS-cog Score for Patients Completing 24 Weeks of Treatment in Study 4
+Figure 7: Time Course of the Change from Baseline in ADAS-cog Score for Patients Completing 24 Weeks of Treatment in Study 4
 
 Figure 8 is a histogram of the distribution of patients’ scores on the ADCS-CGIC (Alzheimer's Disease Cooperative Study - Clinician's Global Impression of Change) at 24 weeks.
 The mean difference in change scores between the rivastigmine tartrate capsules and placebo groups from baseline was 0.5 points.
 This difference was statistically significant in favor of rivastigmine tartrate capsules treatment.
 
-Figure 8 Distribution of ADCS-CGIC Scores for Patients Completing 24 Weeks of Treatment in Study 4
+Figure 8: Distribution of ADCS-CGIC Scores for Patients Completing 24 Weeks of Treatment in Study 4
 
 Patients' age, gender, or race did not predict clinical outcome of rivastigmine tartrate capsules treatment.

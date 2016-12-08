@@ -6,7 +6,7 @@ Rivastigmine tartrate capsules can cause gastrointestinal adverse reactions, inc
 Dehydration may result from prolonged vomiting or diarrhea and can be associated with serious outcomes.
 The incidence and severity of these reactions are dose-related [see Adverse Reactions (6.1)].
 For this reason, patients should always be started at a dose of 1.5 mg twice a day and titrated to their maintenance dose.
-If treatment is interrupted for longer than 3 days, treatment should be reinitiated with the lowest daily dose [see Dosage and Administration (2.1)] to reduce the possibility of severe vomiting and its potentially serious sequelae (e.g., there has been one postmarketing report of severe vomiting with esophageal rupture following inappropriate reinitiation of treatment with a 4.5-mg dose after 8 weeks of treatment interruption).
+If treatment is interrupted for longer than 3 days, treatment should be reinitiated with the lowest daily dose [see Dosage and Administration (2.3)] to reduce the possibility of severe vomiting and its potentially serious sequelae (e.g., there has been one postmarketing report of severe vomiting with esophageal rupture following inappropriate reinitiation of treatment with a 4.5-mg dose after 8 weeks of treatment interruption).
 Inform caregivers to monitor for gastrointestinal adverse reactions and to inform the physician if they occur.
 It is critical to inform caregivers that if therapy has been interrupted for more than 3 days because of intolerance, the next dose should not be administered without contacting the physician regarding proper retitration.
 
@@ -15,6 +15,7 @@ It is critical to inform caregivers that if therapy has been interrupted for mor
 There have been isolated postmarketing reports of patients experiencing disseminated allergic dermatitis when administered rivastigmine irrespective of the route of administration (oral or transdermal).
 Treatment should be discontinued if disseminated allergic dermatitis occurs [see Contraindications (4)].
 Patients and caregivers should be instructed accordingly [see Patient Counseling Information 17)].
+
 In patients who develop application site reactions suggestive of allergic contact dermatitis to rivastigmine tartrate patch and who still require rivastigmine, treatment should be switched to oral rivastigmine only after negative allergy testing and under close medical supervision.
 It is possible that some patients sensitized to rivastigmine by exposure to rivastigmine patch may not be able to take rivastigmine in any form.
 

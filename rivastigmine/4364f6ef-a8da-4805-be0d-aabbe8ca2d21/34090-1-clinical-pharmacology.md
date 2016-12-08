@@ -35,7 +35,7 @@ Metabolism
 
 Rivastigmine is rapidly and extensively metabolized, primarily via cholinesterase-mediated hydrolysis to the decarbamylated metabolite.
 Based on evidence from in vitro and animal studies, the major cytochrome P450 isozymes are minimally involved in rivastigmine metabolism.
-Consistent with these observations is the finding that no drug interactions related to cytochrome P450 have been observed in humans
+Consistent with these observations is the finding that no drug interactions related to cytochrome P450 have been observed in humans.
 
 Elimination
 
